@@ -1,10 +1,7 @@
-# [ERVDPMAV] Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt  (ERVDPMAV)
-
-Ausfertigungsdatum: 01.11.2013
-
+% Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt  (ERVDPMAV)
+% Ausfertigungsdatum: 01.11.2013
  
-
-## § 1 – Signaturgebundene elektronische Kommunikation
+# § 1 – Signaturgebundene elektronische Kommunikation
 
 (1) Beim Deutschen Patent- und Markenamt können elektronische Dokumente in folgenden Verfahren signaturgebunden eingereicht werden:
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 01.11.2013
 
 (+++ § 1 Abs. 2: Zur Anwendung vgl. § 2 Abs. 3 +++)
 
-
-## § 2 – Signaturfreie elektronische Kommunikation
+# § 2 – Signaturfreie elektronische Kommunikation
 
 (1) In folgenden Verfahren können elektronische Dokumente beim Deutschen Patent- und Markenamt auch signaturfrei eingereicht werden:
 
@@ -41,8 +37,7 @@ b) Anträge auf Feststellung oder Erklärung der Nichtigkeit.
 
 (3) § 1 Absatz 2 ist anzuwenden.
 
-
-## § 3 – Form der Einreichung
+# § 3 – Form der Einreichung
 
 (1) Zur Einreichung elektronisch übermittelter Dokumente ist ausschließlich die elektronische Annahmestelle des Deutschen Patent- und Markenamts bestimmt. Für die signaturgebundene Einreichung ist die elektronische Annahmestelle über die vom Deutschen Patent- und Markenamt zur Verfügung gestellte Zugangs- und Übertragungssoftware erreichbar. Die Software kann über die Internetseite www.dpma.de unentgeltlich heruntergeladen werden. Für die signaturfreie Einreichung sind Onlineformulare zu verwenden, die auf der in Satz 3 genannten Internetseite bereitgestellt werden.
 
@@ -62,8 +57,7 @@ Das Zertifikat, das der verwendeten elektronischen Signatur zugrunde liegt, muss
 
 (4) Abweichend von den Absätzen 1 bis 3 können Anmeldungen von Patenten beim Deutschen Patent- und Markenamt auch unter Verwendung des für deutsche Patentanmeldungen entwickelten Anmeldesystems (DE-Modul) der vom Europäischen Patentamt herausgegebenen Software epoline eingereicht werden. Die jeweils im Amtsblatt des Europäischen Patentamts bekannt gemachten technischen Bedingungen sind anzuwenden.
 
-
-## § 4 – Bekanntgabe der Bearbeitungsvoraussetzungen
+# § 4 – Bekanntgabe der Bearbeitungsvoraussetzungen
 
 Das Deutsche Patent- und Markenamt gibt über die Internetseite www.dpma.de bekannt:
 
@@ -77,8 +71,7 @@ Das Deutsche Patent- und Markenamt gibt über die Internetseite www.dpma.de beka
 
 5. weitere Angaben, die für die Übermittlung oder Einreichung erforderlich sind, um die Zuordnung und Weiterverarbeitung der Dokumente einschließlich der Anlagen zu gewährleisten.
 
-
-## § 5 – Zustellung elektronischer Dokumente
+# § 5 – Zustellung elektronischer Dokumente
 
 (1) Im Rahmen einer elektronischen Zustellung sind elektronische Dokumente für die Übermittlung mit einer fortgeschrittenen oder qualifizierten elektronischen Signatur nach Artikel 3 Nummer 11 und 12 der Verordnung (EU) Nr. 910/2014 zu versehen. Dabei kann die gesamte elektronische Nachricht mit einer Signatur versehen werden.
 

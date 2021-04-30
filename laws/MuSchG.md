@@ -1,12 +1,7 @@
-# [MuSchG] Gesetz zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium  (Mutterschutzgesetz - MuSchG)
-
-Ausfertigungsdatum: 23.05.2017
-
+% Gesetz zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium  (Mutterschutzgesetz - MuSchG)
+% Ausfertigungsdatum: 23.05.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -42,8 +37,9 @@ Ausfertigungsdatum: 23.05.2017
 
  
 
+ 
 
-## § 1 – Anwendungsbereich, Ziel des Mutterschutzes
+# § 1 – Anwendungsbereich, Ziel des Mutterschutzes
 
 (1) Dieses Gesetz schützt die Gesundheit der Frau und ihres Kindes am Arbeits-, Ausbildungs- und Studienplatz während der Schwangerschaft, nach der Entbindung und in der Stillzeit. Das Gesetz ermöglicht es der Frau, ihre Beschäftigung oder sonstige Tätigkeit in dieser Zeit ohne Gefährdung ihrer Gesundheit oder der ihres Kindes fortzusetzen und wirkt Benachteiligungen während der Schwangerschaft, nach der Entbindung und in der Stillzeit entgegen. Regelungen in anderen Arbeitsschutzgesetzen bleiben unberührt.
 
@@ -69,8 +65,7 @@ Ausfertigungsdatum: 23.05.2017
 
 (4) Dieses Gesetz gilt für jede Person, die schwanger ist, ein Kind geboren hat oder stillt. Die Absätze 2 und 3 gelten entsprechend.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Arbeitgeber im Sinne dieses Gesetzes ist die natürliche oder juristische Person oder die rechtsfähige Personengesellschaft, die Personen nach § 1 Absatz 2 Satz 1 beschäftigt. Dem Arbeitgeber stehen gleich:
 
@@ -98,8 +93,7 @@ Ausfertigungsdatum: 23.05.2017
 
 (5) Arbeitsentgelt im Sinne dieses Gesetzes ist das Arbeitsentgelt, das nach § 14 des Vierten Buches Sozialgesetzbuch in Verbindung mit einer aufgrund des § 17 des Vierten Buches Sozialgesetzbuch erlassenen Verordnung bestimmt wird. Für Frauen im Sinne von § 1 Absatz 2 Satz 2 gilt als Arbeitsentgelt ihre jeweilige Vergütung.
 
-
-## § 3 – Schutzfristen vor und nach der Entbindung
+# § 3 – Schutzfristen vor und nach der Entbindung
 
 (1) Der Arbeitgeber darf eine schwangere Frau in den letzten sechs Wochen vor der Entbindung nicht beschäftigen (Schutzfrist vor der Entbindung), soweit sie sich nicht zur Arbeitsleistung ausdrücklich bereit erklärt. Sie kann die Erklärung nach Satz 1 jederzeit mit Wirkung für die Zukunft widerrufen. Für die Berechnung der Schutzfrist vor der Entbindung ist der voraussichtliche Tag der Entbindung maßgeblich, wie er sich aus dem ärztlichen Zeugnis oder dem Zeugnis einer Hebamme oder eines Entbindungspflegers ergibt. Entbindet eine Frau nicht am voraussichtlichen Tag, verkürzt oder verlängert sich die Schutzfrist vor der Entbindung entsprechend.
 
@@ -123,15 +117,13 @@ Bei vorzeitiger Entbindung verlängert sich die Schutzfrist nach der Entbindung 
 
 Sie kann ihre Erklärung nach Satz 1 Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
 
-
-## § 4 – Verbot der Mehrarbeit; Ruhezeit
+# § 4 – Verbot der Mehrarbeit; Ruhezeit
 
 (1) Der Arbeitgeber darf eine schwangere oder stillende Frau, die 18 Jahre oder älter ist, nicht mit einer Arbeit beschäftigen, die die Frau über achteinhalb Stunden täglich oder über 90 Stunden in der Doppelwoche hinaus zu leisten hat. Eine schwangere oder stillende Frau unter 18 Jahren darf der Arbeitgeber nicht mit einer Arbeit beschäftigen, die die Frau über acht Stunden täglich oder über 80 Stunden in der Doppelwoche hinaus zu leisten hat. In die Doppelwoche werden die Sonntage eingerechnet. Der Arbeitgeber darf eine schwangere oder stillende Frau nicht in einem Umfang beschäftigen, der die vertraglich vereinbarte wöchentliche Arbeitszeit im Durchschnitt des Monats übersteigt. Bei mehreren Arbeitgebern sind die Arbeitszeiten zusammenzurechnen.
 
 (2) Der Arbeitgeber muss der schwangeren oder stillenden Frau nach Beendigung der täglichen Arbeitszeit eine ununterbrochene Ruhezeit von mindestens elf Stunden gewähren.
 
-
-## § 5 – Verbot der Nachtarbeit
+# § 5 – Verbot der Nachtarbeit
 
 (1) Der Arbeitgeber darf eine schwangere oder stillende Frau nicht zwischen 20 Uhr und 6 Uhr beschäftigen. Er darf sie bis 22 Uhr beschäftigen, wenn die Voraussetzungen des § 28 erfüllt sind.
 
@@ -145,8 +137,7 @@ Sie kann ihre Erklärung nach Satz 1 Nummer 1 jederzeit mit Wirkung für die Zuk
 
 Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
 
-
-## § 6 – Verbot der Sonn- und Feiertagsarbeit
+# § 6 – Verbot der Sonn- und Feiertagsarbeit
 
 (1) Der Arbeitgeber darf eine schwangere oder stillende Frau nicht an Sonn- und Feiertagen beschäftigen. Er darf sie an Sonn- und Feiertagen nur dann beschäftigen, wenn
 
@@ -172,22 +163,19 @@ Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 jed
 
 Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 jederzeit mit Wirkung für die Zukunft widerrufen.
 
-
-## § 7 – Freistellung für Untersuchungen und zum Stillen
+# § 7 – Freistellung für Untersuchungen und zum Stillen
 
 (1) Der Arbeitgeber hat eine Frau für die Zeit freizustellen, die zur Durchführung der Untersuchungen im Rahmen der Leistungen der gesetzlichen Krankenversicherung bei Schwangerschaft und Mutterschaft erforderlich sind. Entsprechendes gilt zugunsten einer Frau, die nicht in der gesetzlichen Krankenversicherung versichert ist.
 
 (2) Der Arbeitgeber hat eine stillende Frau auf ihr Verlangen während der ersten zwölf Monate nach der Entbindung für die zum Stillen erforderliche Zeit freizustellen, mindestens aber zweimal täglich für eine halbe Stunde oder einmal täglich für eine Stunde. Bei einer zusammenhängenden Arbeitszeit von mehr als acht Stunden soll auf Verlangen der Frau zweimal eine Stillzeit von mindestens 45 Minuten oder, wenn in der Nähe der Arbeitsstätte keine Stillgelegenheit vorhanden ist, einmal eine Stillzeit von mindestens 90 Minuten gewährt werden. Die Arbeitszeit gilt als zusammenhängend, wenn sie nicht durch eine Ruhepause von mehr als zwei Stunden unterbrochen wird.
 
-
-## § 8 – Beschränkung von Heimarbeit
+# § 8 – Beschränkung von Heimarbeit
 
 (1) Der Auftraggeber oder Zwischenmeister darf Heimarbeit an eine schwangere in Heimarbeit beschäftigte Frau oder an eine ihr Gleichgestellte nur in solchem Umfang und mit solchen Fertigungsfristen ausgeben, dass die Arbeit werktags während einer achtstündigen Tagesarbeitszeit ausgeführt werden kann.
 
 (2) Der Auftraggeber oder Zwischenmeister darf Heimarbeit an eine stillende in Heimarbeit beschäftigte Frau oder an eine ihr Gleichgestellte nur in solchem Umfang und mit solchen Fertigungsfristen ausgeben, dass die Arbeit werktags während einer siebenstündigen Tagesarbeitszeit ausgeführt werden kann.
 
-
-## § 9 – Gestaltung der Arbeitsbedingungen; unverantwortbare Gefährdung
+# § 9 – Gestaltung der Arbeitsbedingungen; unverantwortbare Gefährdung
 
 (1) Der Arbeitgeber hat bei der Gestaltung der Arbeitsbedingungen einer schwangeren oder stillenden Frau alle aufgrund der Gefährdungsbeurteilung nach § 10 erforderlichen Maßnahmen für den Schutz ihrer physischen und psychischen Gesundheit sowie der ihres Kindes zu treffen. Er hat die Maßnahmen auf ihre Wirksamkeit zu überprüfen und erforderlichenfalls den sich ändernden Gegebenheiten anzupassen. Soweit es nach den Vorschriften dieses Gesetzes verantwortbar ist, ist der Frau auch während der Schwangerschaft, nach der Entbindung und in der Stillzeit die Fortführung ihrer Tätigkeiten zu ermöglichen. Nachteile aufgrund der Schwangerschaft, der Entbindung oder der Stillzeit sollen vermieden oder ausgeglichen werden.
 
@@ -203,8 +191,7 @@ Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 jed
 
 (+++ § 9 Abs. 1 bis 5: Zur Anwendung vgl. § 1 Abs. 2 Satz 2 Nr. 6 +++)
 
-
-## § 10 – Beurteilung der Arbeitsbedingungen; Schutzmaßnahmen
+# § 10 – Beurteilung der Arbeitsbedingungen; Schutzmaßnahmen
 
 (1) Im Rahmen der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber für jede Tätigkeit
 
@@ -226,8 +213,7 @@ Bei gleichartigen Arbeitsbedingungen ist die Beurteilung eines Arbeitsplatzes od
 
 (+++ § 10: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 6 +++)
 
-
-## § 11 – Unzulässige Tätigkeiten und Arbeitsbedingungen für schwangere Frauen
+# § 11 – Unzulässige Tätigkeiten und Arbeitsbedingungen für schwangere Frauen
 
 (1) Der Arbeitgeber darf eine schwangere Frau keine Tätigkeiten ausüben lassen und sie keinen Arbeitsbedingungen aussetzen, bei denen sie in einem Maß Gefahrstoffen ausgesetzt ist oder sein kann, dass dies für sie oder für ihr Kind eine unverantwortbare Gefährdung darstellt. Eine unverantwortbare Gefährdung im Sinne von Satz 1 liegt insbesondere vor, wenn die schwangere Frau Tätigkeiten ausübt oder Arbeitsbedingungen ausgesetzt ist, bei denen sie folgenden Gefahrstoffen ausgesetzt ist oder sein kann:
 
@@ -309,8 +295,7 @@ Die Sätze 1 und 2 gelten auch, wenn der Kontakt mit Biostoffen im Sinne von Sat
 
 3. getaktete Arbeit mit vorgeschriebenem Arbeitstempo, wenn die Art der Arbeit oder das Arbeitstempo für die schwangere Frau oder für ihr Kind eine unverantwortbare Gefährdung darstellt.
 
-
-## § 12 – Unzulässige Tätigkeiten und Arbeitsbedingungen für stillende Frauen
+# § 12 – Unzulässige Tätigkeiten und Arbeitsbedingungen für stillende Frauen
 
 (1) Der Arbeitgeber darf eine stillende Frau keine Tätigkeiten ausüben lassen und sie keinen Arbeitsbedingungen aussetzen, bei denen sie in einem Maß Gefahrstoffen ausgesetzt ist oder sein kann, dass dies für sie oder für ihr Kind eine unverantwortbare Gefährdung darstellt. Eine unverantwortbare Gefährdung im Sinne von Satz 1 liegt insbesondere vor, wenn die stillende Frau Tätigkeiten ausübt oder Arbeitsbedingungen ausgesetzt ist, bei denen sie folgenden Gefahrstoffen ausgesetzt ist oder sein kann:
 
@@ -336,8 +321,7 @@ Die Sätze 1 und 2 gelten auch, wenn der Kontakt mit Biostoffen im Sinne von Sat
 
 3. getaktete Arbeit mit vorgeschriebenem Arbeitstempo, wenn die Art der Arbeit oder das Arbeitstempo für die stillende Frau oder für ihr Kind eine unverantwortbare Gefährdung darstellt.
 
-
-## § 13 – Rangfolge der Schutzmaßnahmen: Umgestaltung der Arbeitsbedingungen, Arbeitsplatzwechsel und betriebliches Beschäftigungsverbot
+# § 13 – Rangfolge der Schutzmaßnahmen: Umgestaltung der Arbeitsbedingungen, Arbeitsplatzwechsel und betriebliches Beschäftigungsverbot
 
 (1) Werden unverantwortbare Gefährdungen im Sinne von § 9, § 11 oder § 12 festgestellt, hat der Arbeitgeber für jede Tätigkeit einer schwangeren oder stillenden Frau Schutzmaßnahmen in folgender Rangfolge zu treffen:
 
@@ -349,8 +333,7 @@ Die Sätze 1 und 2 gelten auch, wenn der Kontakt mit Biostoffen im Sinne von Sat
 
 (2) Der Auftraggeber oder Zwischenmeister darf keine Heimarbeit an schwangere oder stillende Frauen ausgeben, wenn unverantwortbare Gefährdungen nicht durch Schutzmaßnahmen nach Absatz 1 Nummer 1 ausgeschlossen werden können.
 
-
-## § 14 – Dokumentation und Information durch den Arbeitgeber
+# § 14 – Dokumentation und Information durch den Arbeitgeber
 
 (1) Der Arbeitgeber hat die Beurteilung der Arbeitsbedingungen nach § 10 durch Unterlagen zu dokumentieren, aus denen Folgendes ersichtlich ist:
 
@@ -368,22 +351,19 @@ Wenn die Beurteilung nach § 10 Absatz 1 ergibt, dass die schwangere oder stille
 
 (+++ § 14: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 6 +++)
 
-
-## § 15 – Mitteilungen und Nachweise der schwangeren und stillenden Frauen
+# § 15 – Mitteilungen und Nachweise der schwangeren und stillenden Frauen
 
 (1) Eine schwangere Frau soll ihrem Arbeitgeber ihre Schwangerschaft und den voraussichtlichen Tag der Entbindung mitteilen, sobald sie weiß, dass sie schwanger ist. Eine stillende Frau soll ihrem Arbeitgeber so früh wie möglich mitteilen, dass sie stillt.
 
 (2) Auf Verlangen des Arbeitgebers soll eine schwangere Frau als Nachweis über ihre Schwangerschaft ein ärztliches Zeugnis oder das Zeugnis einer Hebamme oder eines Entbindungspflegers vorlegen. Das Zeugnis über die Schwangerschaft soll den voraussichtlichen Tag der Entbindung enthalten.
 
-
-## § 16 – Ärztliches Beschäftigungsverbot
+# § 16 – Ärztliches Beschäftigungsverbot
 
 (1) Der Arbeitgeber darf eine schwangere Frau nicht beschäftigen, soweit nach einem ärztlichen Zeugnis ihre Gesundheit oder die ihres Kindes bei Fortdauer der Beschäftigung gefährdet ist.
 
 (2) Der Arbeitgeber darf eine Frau, die nach einem ärztlichen Zeugnis in den ersten Monaten nach der Entbindung nicht voll leistungsfähig ist, nicht mit Arbeiten beschäftigen, die ihre Leistungsfähigkeit übersteigen.
 
-
-## § 17 – Kündigungsverbot
+# § 17 – Kündigungsverbot
 
 (1) Die Kündigung gegenüber einer Frau ist unzulässig
 
@@ -399,15 +379,13 @@ wenn dem Arbeitgeber zum Zeitpunkt der Kündigung die Schwangerschaft, die Fehlg
 
 (3) Der Auftraggeber oder Zwischenmeister darf eine in Heimarbeit beschäftigte Frau in den Fristen nach Absatz 1 Satz 1 nicht gegen ihren Willen bei der Ausgabe von Heimarbeit ausschließen; die §§ 3, 8, 11, 12, 13 Absatz 2 und § 16 bleiben unberührt. Absatz 1 gilt auch für eine Frau, die der in Heimarbeit beschäftigten Frau gleichgestellt ist und deren Gleichstellung sich auch auf § 29 des Heimarbeitsgesetzes erstreckt. Absatz 2 gilt für eine in Heimarbeit beschäftigte Frau und eine ihr Gleichgestellte entsprechend.
 
-
-## § 18 – Mutterschutzlohn
+# § 18 – Mutterschutzlohn
 
 Eine Frau, die wegen eines Beschäftigungsverbots außerhalb der Schutzfristen vor oder nach der Entbindung teilweise oder gar nicht beschäftigt werden darf, erhält von ihrem Arbeitgeber Mutterschutzlohn. Als Mutterschutzlohn wird das durchschnittliche Arbeitsentgelt der letzten drei abgerechneten Kalendermonate vor dem Eintritt der Schwangerschaft gezahlt. Dies gilt auch, wenn wegen dieses Verbots die Beschäftigung oder die Entlohnungsart wechselt. Beginnt das Beschäftigungsverhältnis erst nach Eintritt der Schwangerschaft, ist das durchschnittliche Arbeitsentgelt aus dem Arbeitsentgelt der ersten drei Monate der Beschäftigung zu berechnen.
 
 (+++ § 18: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 3, 7 u. 8 +++)
 
-
-## § 19 – Mutterschaftsgeld
+# § 19 – Mutterschaftsgeld
 
 (1) Eine Frau, die Mitglied einer gesetzlichen Krankenkasse ist, erhält für die Zeit der Schutzfristen vor und nach der Entbindung sowie für den Entbindungstag Mutterschaftsgeld nach den Vorschriften des Fünften Buches Sozialgesetzbuch oder nach den Vorschriften des Zweiten Gesetzes über die Krankenversicherung der Landwirte.
 
@@ -416,8 +394,7 @@ Eine Frau, die wegen eines Beschäftigungsverbots außerhalb der Schutzfristen v
 (+++ § 19: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 3, 8 +++)  
 (+++ § 19 Abs. 2: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 7 +++)
 
-
-## § 20 – Zuschuss zum Mutterschaftsgeld
+# § 20 – Zuschuss zum Mutterschaftsgeld
 
 (1) Eine Frau erhält während ihres bestehenden Beschäftigungsverhältnisses für die Zeit der Schutzfristen vor und nach der Entbindung sowie für den Entbindungstag von ihrem Arbeitgeber einen Zuschuss zum Mutterschaftsgeld. Als Zuschuss zum Mutterschaftsgeld wird der Unterschiedsbetrag zwischen 13 Euro und dem um die gesetzlichen Abzüge verminderten durchschnittlichen kalendertäglichen Arbeitsentgelt der letzten drei abgerechneten Kalendermonate vor Beginn der Schutzfrist vor der Entbindung gezahlt. Einer Frau, deren Beschäftigungsverhältnis während der Schutzfristen vor oder nach der Entbindung beginnt, wird der Zuschuss zum Mutterschaftsgeld von Beginn des Beschäftigungsverhältnisses an gezahlt.
 
@@ -427,8 +404,7 @@ Eine Frau, die wegen eines Beschäftigungsverbots außerhalb der Schutzfristen v
 
 (+++ § 20: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 3, 7 u. 8 +++)
 
-
-## § 21 – Ermittlung des durchschnittlichen Arbeitsentgelts
+# § 21 – Ermittlung des durchschnittlichen Arbeitsentgelts
 
 (1) Bei der Bestimmung des Berechnungszeitraumes für die Ermittlung des durchschnittlichen Arbeitsentgelts für die Leistungen nach den §§ 18 bis 20 bleiben Zeiten unberücksichtigt, in denen die Frau infolge unverschuldeter Fehlzeiten kein Arbeitsentgelt erzielt hat. War das Beschäftigungsverhältnis kürzer als drei Monate, ist der Berechnung der tatsächliche Zeitraum des Beschäftigungsverhältnisses zugrunde zu legen.
 
@@ -450,15 +426,13 @@ Eine Frau, die wegen eines Beschäftigungsverbots außerhalb der Schutzfristen v
 
 (+++ § 21: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 3 u. 8 +++)
 
-
-## § 22 – Leistungen während der Elternzeit
+# § 22 – Leistungen während der Elternzeit
 
 Während der Elternzeit sind Ansprüche auf Leistungen nach den §§ 18 und 20 aus dem wegen der Elternzeit ruhenden Arbeitsverhältnis ausgeschlossen. Übt die Frau während der Elternzeit eine Teilzeitarbeit aus, ist für die Ermittlung des durchschnittlichen Arbeitsentgelts nur das Arbeitsentgelt aus dieser Teilzeitarbeit zugrunde zu legen.
 
 (+++ § 22: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 3 u. 8 +++)
 
-
-## § 23 – Entgelt bei Freistellung für Untersuchungen und zum Stillen
+# § 23 – Entgelt bei Freistellung für Untersuchungen und zum Stillen
 
 (1) Durch die Gewährung der Freistellung nach § 7 darf bei der schwangeren oder stillenden Frau kein Entgeltausfall eintreten. Freistellungszeiten sind weder vor- noch nachzuarbeiten. Sie werden nicht auf Ruhepausen angerechnet, die im Arbeitszeitgesetz oder in anderen Vorschriften festgelegt sind.
 
@@ -466,27 +440,23 @@ Während der Elternzeit sind Ansprüche auf Leistungen nach den §§ 18 und 20 a
 
 (+++ § 23: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 8 +++)
 
-
-## § 24 – Fortbestehen des Erholungsurlaubs bei Beschäftigungsverboten
+# § 24 – Fortbestehen des Erholungsurlaubs bei Beschäftigungsverboten
 
 Für die Berechnung des Anspruchs auf bezahlten Erholungsurlaub gelten die Ausfallzeiten wegen eines Beschäftigungsverbots als Beschäftigungszeiten. Hat eine Frau ihren Urlaub vor Beginn eines Beschäftigungsverbots nicht oder nicht vollständig erhalten, kann sie nach dem Ende des Beschäftigungsverbots den Resturlaub im laufenden oder im nächsten Urlaubsjahr beanspruchen.
 
 (+++ § 24: Zur Nichtanwendung vgl. § 1 Abs. 2 Satz 2 Nr. 8 +++)
 
-
-## § 25 – Beschäftigung nach dem Ende des Beschäftigungsverbots
+# § 25 – Beschäftigung nach dem Ende des Beschäftigungsverbots
 
 Mit dem Ende eines Beschäftigungsverbots im Sinne von § 2 Absatz 3 hat eine Frau das Recht, entsprechend den vertraglich vereinbarten Bedingungen beschäftigt zu werden.
 
-
-## § 26 – Aushang des Gesetzes
+# § 26 – Aushang des Gesetzes
 
 (1) In Betrieben und Verwaltungen, in denen regelmäßig mehr als drei Frauen beschäftigt werden, hat der Arbeitgeber eine Kopie dieses Gesetzes an geeigneter Stelle zur Einsicht auszulegen oder auszuhängen. Dies gilt nicht, wenn er das Gesetz für die Personen, die bei ihm beschäftigt sind, in einem elektronischen Verzeichnis jederzeit zugänglich gemacht hat.
 
 (2) Für eine in Heimarbeit beschäftigte Frau oder eine ihr Gleichgestellte muss der Auftraggeber oder Zwischenmeister in den Räumen der Ausgabe oder Abnahme von Heimarbeit eine Kopie dieses Gesetzes an geeigneter Stelle zur Einsicht auslegen oder aushängen. Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 27 – Mitteilungs- und Aufbewahrungspflichten des Arbeitgebers, Offenbarungsverbot der mit der Überwachung beauftragten Personen
+# § 27 – Mitteilungs- und Aufbewahrungspflichten des Arbeitgebers, Offenbarungsverbot der mit der Überwachung beauftragten Personen
 
 (1) Der Arbeitgeber hat die Aufsichtsbehörde unverzüglich zu benachrichtigen,
 
@@ -526,8 +496,7 @@ Er darf diese Informationen nicht unbefugt an Dritte weitergeben.
 
 (6) Die mit der Überwachung beauftragten Personen der Aufsichtsbehörde dürfen die ihnen bei ihrer Überwachungstätigkeit zur Kenntnis gelangten Geschäfts- und Betriebsgeheimnisse nur in den gesetzlich geregelten Fällen oder zur Verfolgung von Rechtsverstößen oder zur Erfüllung von gesetzlich geregelten Aufgaben zum Schutz der Umwelt den dafür zuständigen Behörden offenbaren. Soweit es sich bei Geschäfts- und Betriebsgeheimnissen um Informationen über die Umwelt im Sinne des Umweltinformationsgesetzes handelt, richtet sich die Befugnis zu ihrer Offenbarung nach dem Umweltinformationsgesetz.
 
-
-## § 28 – Behördliches Genehmigungsverfahren für eine Beschäftigung zwischen 20 Uhr und 22 Uhr
+# § 28 – Behördliches Genehmigungsverfahren für eine Beschäftigung zwischen 20 Uhr und 22 Uhr
 
 (1) Die Aufsichtsbehörde kann abweichend von § 5 Absatz 1 Satz 1 auf Antrag des Arbeitgebers genehmigen, dass eine schwangere oder stillende Frau zwischen 20 Uhr und 22 Uhr beschäftigt wird, wenn
 
@@ -545,8 +514,7 @@ Dem Antrag ist die Dokumentation der Beurteilung der Arbeitsbedingungen nach § 
 
 (4) Im Übrigen gelten die Vorschriften des Verwaltungsverfahrensgesetzes.
 
-
-## § 29 – Zuständigkeit und Befugnisse der Aufsichtsbehörden, Jahresbericht
+# § 29 – Zuständigkeit und Befugnisse der Aufsichtsbehörden, Jahresbericht
 
 (1) Die Aufsicht über die Ausführung der Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Vorschriften obliegt den nach Landesrecht zuständigen Behörden (Aufsichtsbehörden).
 
@@ -590,8 +558,7 @@ Die schwangere oder stillende Frau kann ihre Erklärung nach Satz 2 Nummer 1 Buc
 
 (6) Die zuständigen obersten Landesbehörden haben über die Überwachungstätigkeit der ihnen unterstellten Behörden einen Jahresbericht zu veröffentlichen. Der Jahresbericht umfasst auch Angaben zur Erfüllung von Unterrichtungspflichten aus internationalen Übereinkommen oder Rechtsakten der Europäischen Union, soweit sie den Mutterschutz betreffen.
 
-
-## § 30 – Ausschuss für Mutterschutz
+# § 30 – Ausschuss für Mutterschutz
 
 (1) Beim Bundesministerium für Familie, Senioren, Frauen und Jugend wird ein Ausschuss für Mutterschutz gebildet, in dem geeignete Personen vonseiten der öffentlichen und privaten Arbeitgeber, der Ausbildungsstellen, der Gewerkschaften, der Studierendenvertretungen und der Landesbehörden sowie weitere geeignete Personen, insbesondere aus der Wissenschaft, vertreten sein sollen. Dem Ausschuss sollen nicht mehr als 15 Mitglieder angehören. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen.Die Mitgliedschaft im Ausschuss für Mutterschutz ist ehrenamtlich.
 
@@ -613,8 +580,7 @@ Der Ausschuss arbeitet eng mit den Ausschüssen nach § 18 Absatz 2 Nummer 5 des
 
 (6) Die Geschäfte des Ausschusses für Mutterschutz werden vom Bundesamt für Familie und zivilgesellschaftliche Aufgaben geführt.
 
-
-## § 31 – Erlass von Rechtsverordnungen
+# § 31 – Erlass von Rechtsverordnungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Folgendes zu regeln:
 
@@ -632,8 +598,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 7. nähere Bestimmungen zum erforderlichen Inhalt der Benachrichtigung, ihrer Form, der Art und Weise der Übermittlung sowie die Empfänger der vom Arbeitgeber nach § 27 zu meldenden Informationen.
 
-
-## § 32 – Bußgeldvorschriften
+# § 32 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -673,12 +638,10 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 5, 8, 16 und 17 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 33 – Strafvorschriften
+# § 33 – Strafvorschriften
 
 Wer eine in § 32 Absatz 1 Nummer 1 bis 5, 8, 16 und 17 bezeichnete vorsätzliche Handlung begeht und dadurch die Gesundheit der Frau oder ihres Kindes gefährdet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 34 – Evaluationsbericht
+# § 34 – Evaluationsbericht
 
 Die Bundesregierung legt dem Deutschen Bundestag zum 1. Januar 2021 einen Evaluationsbericht über die Auswirkungen des Gesetzes vor. Schwerpunkte des Berichts sollen die Handhabbarkeit der gesetzlichen Regelung in der betrieblichen und behördlichen Praxis, die Wirksamkeit und die Auswirkungen des Gesetzes im Hinblick auf seinen Anwendungsbereich, die Auswirkungen der Regelungen zum Verbot der Mehr- und Nachtarbeit sowie zum Verbot der Sonn- und Feiertagsarbeit und die Arbeit des Ausschusses für Mutterschutz sein. Der Bericht darf keine personenbezogenen Daten enthalten.

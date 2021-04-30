@@ -1,10 +1,7 @@
-# [HeizkostenV] Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten  (Verordnung über Heizkostenabrechnung - HeizkostenV)
-
-Ausfertigungsdatum: 23.02.1981
-
+% Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten  (Verordnung über Heizkostenabrechnung - HeizkostenV)
+% Ausfertigungsdatum: 23.02.1981
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Verteilung der Kosten
 
@@ -26,18 +23,15 @@ durch den Gebäudeeigentümer auf die Nutzer der mit Wärme oder Warmwasser vers
 
 (4) Diese Verordnung gilt auch für Mietverhältnisse über preisgebundenen Wohnraum, soweit für diesen nichts anderes bestimmt ist.
 
-
-## § 2 – Vorrang vor rechtsgeschäftlichen Bestimmungen
+# § 2 – Vorrang vor rechtsgeschäftlichen Bestimmungen
 
 Außer bei Gebäuden mit nicht mehr als zwei Wohnungen, von denen eine der Vermieter selbst bewohnt, gehen die Vorschriften dieser Verordnung rechtsgeschäftlichen Bestimmungen vor.
 
-
-## § 3 – Anwendung auf das Wohnungseigentum
+# § 3 – Anwendung auf das Wohnungseigentum
 
 Die Vorschriften dieser Verordnung sind auf Wohnungseigentum anzuwenden unabhängig davon, ob durch Vereinbarung oder Beschluss der Wohnungseigentümer abweichende Bestimmungen über die Verteilung der Kosten der Versorgung mit Wärme und Warmwasser getroffen worden sind. Auf die Anbringung und Auswahl der Ausstattung nach den §§ 4 und 5 sowie auf die Verteilung der Kosten und die sonstigen Entscheidungen des Gebäudeeigentümers nach den §§ 6 bis 9b und 11 sind die Regelungen entsprechend anzuwenden, die für die Verwaltung des gemeinschaftlichen Eigentums im Wohnungseigentumsgesetz enthalten oder durch Vereinbarung der Wohnungseigentümer getroffen worden sind. Die Kosten für die Anbringung der Ausstattung sind entsprechend den dort vorgesehenen Regelungen über die Tragung der Verwaltungskosten zu verteilen.
 
-
-## § 4 – Pflicht zur Verbrauchserfassung
+# § 4 – Pflicht zur Verbrauchserfassung
 
 (1) Der Gebäudeeigentümer hat den anteiligen Verbrauch der Nutzer an Wärme und Warmwasser zu erfassen.
 
@@ -47,15 +41,13 @@ Die Vorschriften dieser Verordnung sind auf Wohnungseigentum anzuwenden unabhän
 
 (4) Der Nutzer ist berechtigt, vom Gebäudeeigentümer die Erfüllung dieser Verpflichtungen zu verlangen.
 
-
-## § 5 – Ausstattung zur Verbrauchserfassung
+# § 5 – Ausstattung zur Verbrauchserfassung
 
 (1) Zur Erfassung des anteiligen Wärmeverbrauchs sind Wärmezähler oder Heizkostenverteiler, zur Erfassung des anteiligen Warmwasserverbrauchs Warmwasserzähler oder andere geeignete Ausstattungen zu verwenden. Soweit nicht eichrechtliche Bestimmungen zur Anwendung kommen, dürfen nur solche Ausstattungen zur Verbrauchserfassung verwendet werden, hinsichtlich derer sachverständige Stellen bestätigt haben, dass sie den anerkannten Regeln der Technik entsprechen oder dass ihre Eignung auf andere Weise nachgewiesen wurde. Als sachverständige Stellen gelten nur solche Stellen, deren Eignung die nach Landesrecht zuständige Behörde im Benehmen mit der Physikalisch-Technischen Bundesanstalt bestätigt hat. Die Ausstattungen müssen für das jeweilige Heizsystem geeignet sein und so angebracht werden, dass ihre technisch einwandfreie Funktion gewährleistet ist.
 
 (2) Wird der Verbrauch der von einer Anlage im Sinne des § 1 Absatz 1 versorgten Nutzer nicht mit gleichen Ausstattungen erfasst, so sind zunächst durch Vorerfassung vom Gesamtverbrauch die Anteile der Gruppen von Nutzern zu erfassen, deren Verbrauch mit gleichen Ausstattungen erfasst wird. Der Gebäudeeigentümer kann auch bei unterschiedlichen Nutzungs- oder Gebäudearten oder aus anderen sachgerechten Gründen eine Vorerfassung nach Nutzergruppen durchführen.
 
-
-## § 6 – Pflicht zur verbrauchsabhängigen Kostenverteilung
+# § 6 – Pflicht zur verbrauchsabhängigen Kostenverteilung
 
 (1) Der Gebäudeeigentümer hat die Kosten der Versorgung mit Wärme und Warmwasser auf der Grundlage der Verbrauchserfassung nach Maßgabe der §§ 7 bis 9 auf die einzelnen Nutzer zu verteilen. Das Ergebnis der Ablesung soll dem Nutzer in der Regel innerhalb eines Monats mitgeteilt werden. Eine gesonderte Mitteilung ist nicht erforderlich, wenn das Ableseergebnis über einen längeren Zeitraum in den Räumen des Nutzers gespeichert ist und von diesem selbst abgerufen werden kann. Einer gesonderten Mitteilung des Warmwasserverbrauchs bedarf es auch dann nicht, wenn in der Nutzeinheit ein Warmwasserzähler eingebaut ist.
 
@@ -79,8 +71,7 @@ Die Kostenanteile der Nutzergruppen sind dann nach Absatz 1 auf die einzelnen Nu
 
 Die Festlegung und die Änderung der Abrechnungsmaßstäbe sind nur mit Wirkung zum Beginn eines Abrechnungszeitraumes zulässig.
 
-
-## § 7 – Verteilung der Kosten der Versorgung mit Wärme
+# § 7 – Verteilung der Kosten der Versorgung mit Wärme
 
 (1) Von den Kosten des Betriebs der zentralen Heizungsanlage sind mindestens 50 vom Hundert, höchstens 70 vom Hundert nach dem erfassten Wärmeverbrauch der Nutzer zu verteilen. In Gebäuden, die das Anforderungsniveau der Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) nicht erfüllen, die mit einer Öl- oder Gasheizung versorgt werden und in denen die freiliegenden Leitungen der Wärmeverteilung überwiegend gedämmt sind, sind von den Kosten des Betriebs der zentralen Heizungsanlage 70 vom Hundert nach dem erfassten Wärmeverbrauch der Nutzer zu verteilen. In Gebäuden, in denen die freiliegenden Leitungen der Wärmeverteilung überwiegend ungedämmt sind und deswegen ein wesentlicher Anteil des Wärmeverbrauchs nicht erfasst wird, kann der Wärmeverbrauch der Nutzer nach anerkannten Regeln der Technik bestimmt werden. Der so bestimmte Verbrauch der einzelnen Nutzer wird als erfasster Wärmeverbrauch nach Satz 1 berücksichtigt. Die übrigen Kosten sind nach der Wohn- oder Nutzfläche oder nach dem umbauten Raum zu verteilen; es kann auch die Wohn- oder Nutzfläche oder der umbaute Raum der beheizten Räume zu Grunde gelegt werden.
 
@@ -90,8 +81,7 @@ Die Festlegung und die Änderung der Abrechnungsmaßstäbe sind nur mit Wirkung 
 
 (4) Zu den Kosten der Wärmelieferung gehören das Entgelt für die Wärmelieferung und die Kosten des Betriebs der zugehörigen Hausanlagen entsprechend Absatz 2.
 
-
-## § 8 – Verteilung der Kosten der Versorgung mit Warmwasser
+# § 8 – Verteilung der Kosten der Versorgung mit Warmwasser
 
 (1) Von den Kosten des Betriebs der zentralen Warmwasserversorgungsanlage sind mindestens 50 vom Hundert, höchstens 70 vom Hundert nach dem erfassten Warmwasserverbrauch, die übrigen Kosten nach der Wohn- oder Nutzfläche zu verteilen.
 
@@ -101,8 +91,7 @@ Die Festlegung und die Änderung der Abrechnungsmaßstäbe sind nur mit Wirkung 
 
 (4) Zu den Kosten der Warmwasserlieferung gehören das Entgelt für die Lieferung des Warmwassers und die Kosten des Betriebs der zugehörigen Hausanlagen entsprechend § 7 Absatz 2.
 
-
-## § 9 – Verteilung der Kosten der Versorgung mit Wärme und Warmwasser bei verbundenen Anlagen
+# § 9 – Verteilung der Kosten der Versorgung mit Wärme und Warmwasser bei verbundenen Anlagen
 
 (1) Ist die zentrale Anlage zur Versorgung mit Wärme mit der zentralen Warmwasserversorgungsanlage verbunden, so sind die einheitlich entstandenen Kosten des Betriebs aufzuteilen. Die Anteile an den einheitlich entstandenen Kosten sind bei Anlagen mit Heizkesseln nach den Anteilen am Brennstoffverbrauch oder am Energieverbrauch, bei eigenständiger gewerblicher Wärmelieferung nach den Anteilen am Wärmeverbrauch zu bestimmen. Kosten, die nicht einheitlich entstanden sind, sind dem Anteil an den einheitlich entstandenen Kosten hinzuzurechnen. Der Anteil der zentralen Anlage zur Versorgung mit Wärme ergibt sich aus dem gesamten Verbrauch nach Abzug des Verbrauchs der zentralen Warmwasserversorgungsanlage. Bei Anlagen, die weder durch Heizkessel noch durch eigenständige gewerbliche Wärmelieferung mit Wärme versorgt werden, können anerkannte Regeln der Technik zur Aufteilung der Kosten verwendet werden. Der Anteil der zentralen Warmwasserversorgungsanlage am Wärmeverbrauch ist nach Absatz 2, der Anteil am Brennstoffverbrauch nach Absatz 3 zu ermitteln.
 
@@ -175,15 +164,13 @@ Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens oder Bren
 
 (4) Der Anteil an den Kosten der Versorgung mit Wärme ist nach § 7 Absatz 1, der Anteil an den Kosten der Versorgung mit Warmwasser nach § 8 Absatz 1 zu verteilen, soweit diese Verordnung nichts anderes bestimmt oder zulässt.
 
-
-## § 9a – Kostenverteilung in Sonderfällen
+# § 9a – Kostenverteilung in Sonderfällen
 
 (1) Kann der anteilige Wärme- oder Warmwasserverbrauch von Nutzern für einen Abrechnungszeitraum wegen Geräteausfalls oder aus anderen zwingenden Gründen nicht ordnungsgemäß erfasst werden, ist er vom Gebäudeeigentümer auf der Grundlage des Verbrauchs der betroffenen Räume in vergleichbaren Zeiträumen oder des Verbrauchs vergleichbarer anderer Räume im jeweiligen Abrechnungszeitraum oder des Durchschnittsverbrauchs des Gebäudes oder der Nutzergruppe zu ermitteln. Der so ermittelte anteilige Verbrauch ist bei der Kostenverteilung anstelle des erfassten Verbrauchs zu Grunde zu legen.
 
 (2) Überschreitet die von der Verbrauchsermittlung nach Absatz 1 betroffene Wohn- oder Nutzfläche oder der umbaute Raum 25 vom Hundert der für die Kostenverteilung maßgeblichen gesamten Wohn- oder Nutzfläche oder des maßgeblichen gesamten umbauten Raumes, sind die Kosten ausschließlich nach den nach § 7 Absatz 1 Satz 5 und § 8 Absatz 1 für die Verteilung der übrigen Kosten zu Grunde zu legenden Maßstäben zu verteilen.
 
-
-## § 9b – Kostenaufteilung bei Nutzerwechsel
+# § 9b – Kostenaufteilung bei Nutzerwechsel
 
 (1) Bei Nutzerwechsel innerhalb eines Abrechnungszeitraumes hat der Gebäudeeigentümer eine Ablesung der Ausstattung zur Verbrauchserfassung der vom Wechsel betroffenen Räume (Zwischenablesung) vorzunehmen.
 
@@ -193,13 +180,11 @@ Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens oder Bren
 
 (4) Von den Absätzen 1 bis 3 abweichende rechtsgeschäftliche Bestimmungen bleiben unberührt.
 
-
-## § 10 – Überschreitung der Höchstsätze
+# § 10 – Überschreitung der Höchstsätze
 
 Rechtsgeschäftliche Bestimmungen, die höhere als die in § 7 Absatz 1 und § 8 Absatz 1 genannten Höchstsätze von 70 vom Hundert vorsehen, bleiben unberührt.
 
-
-## § 11 – Ausnahmen
+# § 11 – Ausnahmen
 
 (1) Soweit sich die §§ 3 bis 7 auf die Versorgung mit Wärme beziehen, sind sie nicht anzuwenden
 
@@ -227,8 +212,7 @@ b) mit Wärme aus Anlagen der Kraft-Wärme-Kopplung oder aus Anlagen zur Verwert
 
 (2) Soweit sich die §§ 3 bis 6 und § 8 auf die Versorgung mit Warmwasser beziehen, gilt Absatz 1 entsprechend.
 
-
-## § 12 – Kürzungsrecht, Übergangsregelung
+# § 12 – Kürzungsrecht, Übergangsregelung
 
 (1) Soweit die Kosten der Versorgung mit Wärme oder Warmwasser entgegen den Vorschriften dieser Verordnung nicht verbrauchsabhängig abgerechnet werden, hat der Nutzer das Recht, bei der nicht verbrauchsabhängigen Abrechnung der Kosten den auf ihn entfallenden Anteil um 15 vom Hundert zu kürzen. Dies gilt nicht beim Wohnungseigentum im Verhältnis des einzelnen Wohnungseigentümers zur Gemeinschaft der Wohnungseigentümer; insoweit verbleibt es bei den allgemeinen Vorschriften.
 
@@ -246,19 +230,15 @@ b) mit Wärme aus Anlagen der Kraft-Wärme-Kopplung oder aus Anlagen zur Verwert
 
 (6) Auf Abrechnungszeiträume, die vor dem 1. Januar 2009 begonnen haben, ist diese Verordnung in der bis zum 31. Dezember 2008 geltenden Fassung weiter anzuwenden.
 
+# § 13 – (Berlin-Klausel)
 
-## § 13 – (Berlin-Klausel)
+# § 14 – (Inkrafttreten)
 
-
-## § 14 – (Inkrafttreten)
-
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III(BGBl. II 1990, 889, 1007)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III(BGBl. II 1990, 889, 1007)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
-...  
-Verordnung über Heizkostenabrechnung in der Fassung der Bekanntmachung vom 20. Januar 1989 (BGBl. I S. 115)  
+... Verordnung über Heizkostenabrechnung in der Fassung der Bekanntmachung vom 20. Januar 1989 (BGBl. I S. 115)  
 mit folgenden Maßgaben:
 
   

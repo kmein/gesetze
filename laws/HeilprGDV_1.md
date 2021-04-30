@@ -1,20 +1,15 @@
-# [HeilprGDV 1] Erste Durchführungsverordnung zum Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (Heilpraktikergesetz)
-
-Ausfertigungsdatum: 18.02.1939
-
+% Erste Durchführungsverordnung zum Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (Heilpraktikergesetz)
+% Ausfertigungsdatum: 18.02.1939
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund § 7 des Gesetzes über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (Heilpraktikergesetz) vom 17. Februar 1939 (Reichsgesetzbl. I S. 251) wird verordnet:
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 (1) Die Erlaubnis wird nicht erteilt,
 
@@ -42,8 +37,7 @@ Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung von Hei
 
 § 2 Abs. 1 Satz 1 Buchst. b: Nach Maßgabe der Entscheidungsformel mit Art. 2 Abs. 1 GG (100-1) unvereinbar und nichtig gem. BVerfGE v. 10.5.1988 I 1587 (1 BvR 482/84)
 
-
-## § 3
+# § 3
 
 (1) Über den Antrag entscheidet die untere Verwaltungsbehörde im Benehmen mit dem Gesundheitsamt.
 
@@ -53,25 +47,21 @@ Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung von Hei
 
 § 3 Abs. 3: IdF d. § 2 V v. 3.7.1941 I 368; Kursivdruck gem. § 77 Abs. 1 VwGO 340-1 durch §§ 68ff. VwGO ersetzt, jetzt Widerspruch innerhalb eines Monats bei der erlassenden Behörde
 
-
-## § 4
+# § 4
 
 (1) Der Gutachterausschuß besteht aus einem Vorsitzenden, der weder Arzt noch Heilpraktiker sein darf, aus zwei Ärzten sowie aus zwei Heilpraktikern. Die Mitglieder des Ausschusses werden vom Reichsminister des Innern ... für die Dauer von zwei Jahren berufen. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständige Behörde abweichend von Satz 2 zu bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
 (2) Für mehrere Bezirke höherer Verwaltungsbehörden kann ein gemeinsamer Gutachterausschuß gebildet werden.
 
-
-## § 5
-
-\-
-
-
-## § 6
+# § 5
 
 \-
 
+# § 6
 
-## § 7
+\-
+
+# § 7
 
 (1) Die Erlaubnis ist durch die höhere Verwaltungsbehörde zurückzunehmen, wenn nachträglich Tatsachen eintreten oder bekannt werden, die eine Versagung der Erlaubnis nach § 2 Abs. 1 rechtfertigen würden. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständige Behörde abweichend von Satz 1 zu bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
@@ -81,13 +71,11 @@ Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung von Hei
 
 (4)
 
-
-## §§ 8 und 9 – (weggefallen)
+# §§ 8 und 9 – (weggefallen)
 
 \-
 
-
-## § 10
+# § 10
 
 (1) Anträge auf Zulassung zum Studium der Medizin gemäß § 2 Abs. 2 des Gesetzes sind an die für den Wohnort des Antragstellers zuständige höhere Verwaltungsbehörde einzureichen.
 
@@ -97,8 +85,7 @@ Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung von Hei
 
 (4) Nach Abschluß der Ermittlungen legt sie den Antrag mit dem Gutachten dem Reichsminister des Innern vor, der ... gegebenenfalls den Antrag an den Reichsminister für Wissenschaft, Erziehung und Volksbildung weiterleitet.
 
-
-## § 11
+# § 11
 
 (1) Höhere Verwaltungsbehörde im Sinne dieser Verordnung ist in Preußen, Bayern ... der Regierungspräsident, in Berlin der Polizeipräsident, ... im Saarland der Reichskommissar für das Saarland und im übrigen die oberste Landesbehörde.
 
@@ -108,7 +95,6 @@ Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung von Hei
 
 § 11 Abs. 2: Kursivdruck vgl. jetzt die Gemeinde- u. Kreisordnungen der Länder
 
-
-## §§ 12 bis 14 – (weggefallen)
+# §§ 12 bis 14 – (weggefallen)
 
 \-

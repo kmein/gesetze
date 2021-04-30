@@ -1,17 +1,13 @@
-# [BABauRaumOG] Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung (Artikel 1 des Gesetzes über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung sowie zur Änderung besoldungsrechtlicher Vorschriften)
-
-Ausfertigungsdatum: 15.12.1997
-
+% Gesetz über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung (Artikel 1 des Gesetzes über die Errichtung eines Bundesamtes für Bauwesen und Raumordnung sowie zur Änderung besoldungsrechtlicher Vorschriften)
+% Ausfertigungsdatum: 15.12.1997
  
-
-## § 1 – Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
+# § 1 – Errichtung und Sitz des Bundesamtes für Bauwesen und Raumordnung
 
 (1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat ist ein Bundesamt für Bauwesen und Raumordnung als Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Bauwesen und Raumordnung hat seinen Sitz in Bonn.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Das Bundesamt für Bauwesen und Raumordnung erledigt Verwaltungsaufgaben auf den Gebieten des Bauwesens, der Raumordnung, des Städtebaus und des Wohnungswesens, die ihm durch dieses Gesetz, auf Grund dieses Gesetzes oder durch andere Bundesgesetze zugewiesen werden.
 
@@ -37,13 +33,11 @@ soweit das Bundesministerium des Innern, für Bau und Heimat oder im Falle der N
 
 (6) Bauangelegenheiten der Verfassungsorgane des Bundes und der obersten Bundesbehörden kann die Bundesregierung im Einvernehmen mit dem betroffenen Verfassungsorgan einer Gesellschaft des privaten Rechts übertragen.
 
-
-## § 3 – Fachaufsicht
+# § 3 – Fachaufsicht
 
 Das Bundesamt für Bauwesen und Raumordnung untersteht der Fachaufsicht durch das Bundesministerium des Innern, für Bau und Heimat. Für Bauangelegenheiten im Geschäftsbereich des Bundesministeriums der Verteidigung untersteht es dessen Fachaufsicht. Bei der Erledigung von Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums des Innern, für Bau und Heimat nach § 2 Abs. 5 untersteht das Bundesamt den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde, soweit diese nicht baufachlicher Art sind.
 
-
-## § 4 – Überleitungsvorschriften
+# § 4 – Überleitungsvorschriften
 
 (1) Leiter des Bundesamtes für Bauwesen und Raumordnung wird der Präsident der Bundesbaudirektion. Stellvertretender Leiter wird der Direktor und Professor der Bundesforschungsanstalt für Landeskunde und Raumordnung; dieser ist berechtigt, neben seiner neuen Amtsbezeichnung den Zusatz "und Professor" zu führen.
 

@@ -1,10 +1,7 @@
-# [RWBestV 2007] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2007  (Rentenwertbestimmungsverordnung 2007 - RWBestV 2007)
-
-Ausfertigungsdatum: 14.06.2007
-
+% Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2007  (Rentenwertbestimmungsverordnung 2007 - RWBestV 2007)
+% Ausfertigungsdatum: 14.06.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -19,36 +16,31 @@ des § 26 in Verbindung mit § 23 Abs. 4 und des § 105 des Gesetzes über die A
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+# § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2007 an 26,27 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2007 an 23,09 Euro.
 
-
-## § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+# § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt vom 1. Juli 2007 an 12,13 Euro.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt vom 1. Juli 2007 an 10,66 Euro.
 
-
-## § 3 – Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2008
+# § 3 – Ausgleichsbedarf und Ausgleichsbedarf (Ost) zum 30. Juni 2008
 
 (1) Der Ausgleichsbedarf beträgt zum 30. Juni 2008 0,9825.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt zum 30. Juni 2008 0,9870.
 
-
-## § 4 – Anpassungsfaktor in der Unfallversicherung
+# § 4 – Anpassungsfaktor in der Unfallversicherung
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2007 anzupassenden Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44 Abs. 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt 1,0054.
 
 (2) Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Abs. 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor dem 1. Juli 2007 eingetreten sind, werden zum 1. Juli 2007 angepasst. Der Anpassungsfaktor beträgt 1,0054.
 
-
-## § 5 – Pflegegeld in der Unfallversicherung
+# § 5 – Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2007 an
 
@@ -56,12 +48,10 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2007 an
 
 2. für Versicherungsfälle, für die § 215 Abs. 5 des Siebten Buches Sozialgesetzbuch anzuwenden ist, zwischen 257 Euro und 1.029 Euro.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

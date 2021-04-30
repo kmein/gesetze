@@ -1,18 +1,13 @@
-# [TPDesign/TSysPlAusbV] Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen Systemplanerin
-
-Ausfertigungsdatum: 21.06.2011
-
+% Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen Systemplanerin
+% Ausfertigungsdatum: 21.06.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -22,13 +17,11 @@ Die Ausbildungsberufe
 
 werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildungen dauern jeweils dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 (1) Die Ausbildungen gliedern sich wie folgt:
 
@@ -52,8 +45,7 @@ c) Elektrotechnische Systeme.
 
 (2) Die gemeinsamen Qualifikationen und die jeweiligen spezifischen und fachrichtungsspezifischen Qualifikationen werden verteilt über die gesamte Ausbildungszeit vermittelt.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -140,8 +132,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absat
 
 8. Kundenorientierung.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 8 und 10 bis 12 nachzuweisen.
 
@@ -149,15 +140,13 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absat
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
+# § 6 – Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
+# § 7 – Teil 1 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -185,8 +174,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünfeinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
+# § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Produktgestaltung und -konstruktion
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -268,8 +256,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Produktgestaltung und -konstruktion
+# § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Produktgestaltung und -konstruktion
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -301,15 +288,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
+# § 10 – Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
-
-## § 11 – Teil 1 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
+# § 11 – Teil 1 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -337,8 +322,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünfeinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
+# § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -422,8 +406,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Maschinen- und Anlagenkonstruktion
+# § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Maschinen- und Anlagenkonstruktion
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -457,8 +440,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 14 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 14 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 3, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 4, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -556,8 +538,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absat
 
 8. Kundenorientierung.
 
-
-## § 15 – Durchführung der Berufsausbildung
+# § 15 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 16 bis 18, 20 bis 22 und 24 bis 26 nachzuweisen.
 
@@ -565,15 +546,13 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Absat
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 16 – Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+# § 16 – Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
-
-## § 17 – Teil 1 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+# § 17 – Teil 1 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -603,8 +582,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich zu lösenden Aufgaben 120 Minuten.
 
-
-## § 18 – Teil 2 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+# § 18 – Teil 2 der Abschlussprüfung in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -688,8 +666,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 19 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Versorgungs- und Ausrüstungstechnik
+# § 19 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Versorgungs- und Ausrüstungstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -721,15 +698,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 20 – Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
+# § 20 – Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent, Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 21 – Teil 1 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
+# § 21 – Teil 1 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -761,8 +736,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich zu lösenden Aufgaben 120 Minuten.
 
-
-## § 22 – Teil 2 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
+# § 22 – Teil 2 der Abschlussprüfung in der Fachrichtung Stahl- und Metallbautechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -820,8 +794,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 23 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Stahl- und Metallbautechnik
+# § 23 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Stahl- und Metallbautechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -853,15 +826,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 24 – Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
+# § 24 – Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent, Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
-
-## § 25 – Teil 1 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
+# § 25 – Teil 1 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -893,8 +864,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt sieben Stunden; davon für die Erstellung des Prüfungsproduktes fünf Stunden und für die schriftlich zu lösenden Aufgaben 120 Minuten.
 
-
-## § 26 – Teil 2 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
+# § 26 – Teil 2 der Abschlussprüfung in der Fachrichtung Elektrotechnische Systeme
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 3 und 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -968,8 +938,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 27 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Elektrotechnische Systeme
+# § 27 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Elektrotechnische Systeme
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -1001,18 +970,15 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 28 – Bestehende Berufsausbildungsverhältnisse
+# § 28 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung in den Ausbildungsberufen Technischer Zeichner/Technische Zeichnerin und Technischer Produktdesigner/Technische Produktdesignerin bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
-## § 29 – Inkrafttreten, Außerkrafttreten
+# § 29 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig treten die Technischer Zeichner-Ausbildungsverordnung vom 17. Dezember 1993 (BGBl. 1994 I S. 25), die zuletzt durch Artikel 2 der Verordnung vom 19. Juni 2000 (BGBl. I S. 863) geändert worden ist, und die Verordnung über die Berufsausbildung zum Technischen Produktdesigner/zur Technischen Produktdesignerin vom 24. Juni 2005 (BGBl. I S. 1804, 2261) außer Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 (Fundstelle: BGBl. I 2011, 1227 - 1232)
 
@@ -1479,15 +1445,13 @@ c) mit Kunden in englischer Sprache kommunizieren
 
 d) kulturelle Identitäten berücksichtigen
 
-
-## Anlage 2 – (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
+# Anlage 2 – (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin
 
 (Fundstelle: BGBl. I 2011, 1233 - 1243)
 
 Abschnitt 1
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -1582,8 +1546,7 @@ Abschnitt 2
 
 Zeitrahmen 1: Einfache Bauteile und Baugruppen darstellen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -1695,8 +1658,7 @@ d) kulturelle Identitäten berücksichtigen
 
 Zeitrahmen 2: Technische Dokumente erstellen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -1823,8 +1785,7 @@ g) Arbeitsergebnisse zusammenführen, erbrachte Leistungen kontrollieren und anh
 
 Zeitrahmen 3: Bauteile werkstoff-, fertigungs- und montagegerecht gestalten und erstellen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -1948,8 +1909,7 @@ c) Fehler und Qualitätsmängel sowie deren Ursachen erkennen und Maßnahmen zur
 
 Zeitrahmen 4: Konstruktionsprozess umsetzen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -2043,8 +2003,7 @@ Abschnitt 3
 
 Zeitrahmen 5: Komplexe Bauteile und Baugruppen konstruieren
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -2255,8 +2214,7 @@ a) kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb 
 
 Zeitrahmen 6: Produkte entwerfen, gestalten und konstruieren
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -2379,8 +2337,7 @@ Abschnitt 4
 
 Zeitrahmen 7: Komplexe Bauteile und Baugruppen konstruieren
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -2553,8 +2510,7 @@ c) mit Kunden in englischer Sprache kommunizieren
 
 Zeitrahmen 8: Technische Erzeugnisse konzipieren, entwerfen und ausarbeiten
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -2676,8 +2632,7 @@ b) Kunden unter Beachtung von betrieblichen Kommunikationsregeln informieren und
 
 c) mit Kunden in englischer Sprache kommunizieren
 
-
-## Anlage 3 – (zu § 14 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+# Anlage 3 – (zu § 14 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1244 - 1250)
 
@@ -3313,16 +3268,14 @@ c) mit Kunden in englischer Sprache kommunizieren
 
 d) kulturelle Identitäten berücksichtigen
 
-
-## Anlage 4 – (zu § 14 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
+# Anlage 4 – (zu § 14 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Systemplaner und zur Technischen Systemplanerin
 
 (Fundstelle: BGBl. I 2011, 1251 - 1261)
 
 Abschnitt 1  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -3414,8 +3367,7 @@ Abschnitt 2
 Zeitrahmen 1: Darstellung von Bauteilen und Baugruppen  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -3512,8 +3464,7 @@ b) auftragsbezogene Informationen und Daten beschaffen, bewerten und nutzen
 Zeitrahmen 2: Fertigungs- und Montagetechnik  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -3617,8 +3568,7 @@ a) Ziele und Aufgaben qualitätssichernder Maßnahmen beachten
 Zeitrahmen 3: Technische Dokumente erstellen  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -3755,8 +3705,7 @@ Fachrichtung Versorgungs- und Ausrüstungstechnik
 Zeitrahmen 4: Fachspezifische Konstruktion  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -3884,8 +3833,7 @@ d) kulturelle Identitäten berücksichtigen
 Zeitrahmen 5: Projektbezogene Konstruktion  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -3973,8 +3921,7 @@ c) mit Kunden in englischer Sprache kommunizieren
 Zeitrahmen 6: Fachspezifische Berechnungen  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -4026,8 +3973,7 @@ Fachrichtung Stahl- und Metallbautechnik
 Zeitrahmen 7: Fachspezifische Konstruktion  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -4133,8 +4079,7 @@ e) Längen- und Flächenberechnungen durchführen, insbesondere Bauteilabmaße u
 Zeitrahmen 8: Projektbezogene Konstruktion  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -4276,8 +4221,7 @@ Fachrichtung Elektrotechnische Systeme
 Zeitrahmen 9: Elektrotechnische Systeme planen  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -4413,8 +4357,7 @@ a) kundenspezifische Anforderungen und Informationen entgegennehmen, im Betrieb 
 Zeitrahmen 10: Projektbezogene Realisierung  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -4506,8 +4449,7 @@ d) kulturelle Identitäten berücksichtigen
 Zeitrahmen 11: Elektrotechnische Systeme dokumentieren  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes

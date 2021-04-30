@@ -1,25 +1,19 @@
-# [OffshStAbk] Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
-
-Ausfertigungsdatum: 15.10.1954
-
+% Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
+% Ausfertigungsdatum: 15.10.1954
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Bundesrepublik Deutschland und die Vereinigten Staaten von Amerika sind in dem Wunsche, die gemeinsamen Verteidigungsbemühungen zu fördern, wie folgt übereingekommen:
 
-
-## Art I
+# Art I
 
 Die Bundesrepublik Deutschland, im folgenden die Bundesrepublik genannt, wird Vergünstigungen bei Bundessteuern und Zöllen gewähren, soweit durch die Erhebung der Abgaben Verteidigungsausgaben der Vereinigten Staaten von Amerika, im folgenden die Vereinigten Staaten genannt, betroffen werden. Die Art und Weise dieser Abgabenvergünstigungen bestimmt sich nach den nachstehenden Artikeln.
 
-
-## Art II
+# Art II
 
 Verteidigungsausgaben im Sinne dieses Abkommens sind Ausgaben, die von den Vereinigten Staaten - im Falle der Ausfuhr von den Vereinigten Staaten oder in ihrem Auftrage - für Ausrüstung, Materialien, Einrichtungen oder Leistungen für die gemeinsamen Verteidigungsbemühungen geleistet werden, einschließlich der Ausgaben für Auslandshilfsprogramme aller Art der Vereinigten Staaten.
 
-
-## Art III
+# Art III
 
 Hinsichtlich der Steuern und Zölle, die die Verteidigungsausgaben der Vereinigten Staaten im Sinne des Artikels II und der Bestimmungen des Anhangs berühren, werden folgende Vergünstigungen gewährt:
 
@@ -37,35 +31,29 @@ a) Für Ausrüstung, Materialien und Einrichtungen, die an Stellen der Vereinigt
 
 b) Für sonstige Ausrüstung, Materialien und Einrichtungen, die Stellen der Vereinigten Staaten oder Stellen anderer von den Vereinigten Staaten bezeichneter Regierungen übergeben werden, werden die weitestgehenden Befreiungen, Vergütungen oder Preisvergünstigungen gewährt, die in den deutschen Zoll-, Verbrauchsteuer- und Monopolgesetzen für ausgeführte Waren vorgesehen sind. Für ordnungsmäßig ausgeführte Waren werden ebenfalls die Abgaben- oder Preisvergünstigungen gewährt, die in den deutschen Zoll-, Verbrauchsteuer- und Monopolgesetzen für den Fall der Ausfuhr vorgesehen sind.
 
-
-## Art IV
+# Art IV
 
 Zölle und Verbrauchsteuern einschließlich der Umsatzausgleichsteuer werden nicht erhoben für Ausrüstung, Materialien und Einrichtungen der in Artikel II bezeichneten Art, die aus dem Zollauslande eingeführt und Stellen der Vereinigten Staaten oder Stellen anderer von den Vereinigten Staaten bezeichneter Regierungen übergeben oder die durch das deutsche Zollgebiet zur Lieferung an solche Stellen durchgeführt werden.
 
-
-## Art V
+# Art V
 
 Für die in Artikel III Nr. 2 Buchstabe a und in Artikel IV bezeichneten Ausrüstungsgegenstände, Materialien und Einrichtungen, die im deutschen Zollgebiet veredelt werden, wird Befreiung von Zöllen und Verbrauchsteuern einschließlich der Umsatzausgleichsteuer nach Maßgabe der deutschen Zollbestimmungen gewährt werden, die auf solche Veredelungen anwendbar sind. Für die Ausbesserung von militärischen Ausrüstungsgegenständen wird ein vereinfachtes Verfahren vorgesehen werden.
 
-
-## Art VI
+# Art VI
 
 Die Vergünstigungen bei Bundessteuern und Zöllen sind davon abhängig, daß den zuständigen deutschen Stellen von Stellen der Vereinigten Staaten in geeigneter Weise der Nachweis dafür erbracht wird, daß bei den betreffenden Rechtsgeschäften die in diesem Abkommen aufgeführten Voraussetzungen für derartige Abgabenvergünstigungen vorliegen. Die Art dieses Nachweises wird durch gegenseitige Vereinbarung zwischen den beiden Regierungen festgelegt werden.
 
-
-## Art VII
+# Art VII
 
 (1) Wenn Dollarausgaben in Betracht kommen, werden die Vereinigten Staaten Zahlung leisten in Form von auf Dollar lautenden Urkunden, die bei bestimmten Banken zu Gunsten der in Betracht kommenden Lieferer zahlbar sind.
 
 (2) Wenn Zahlungen aus den im Anhang unter Nummer 2 aufgeführten DM-Beträgen in Betracht kommen, wird die Zahlung gemäß näherer Vereinbarungen der beiden Regierungen geleistet werden.
 
-
-## Art VIII
+# Art VIII
 
 Waren, für die nach den vorstehenden Bestimmungen Abgabenvergünstigungen gewährt worden sind, dürfen im Geltungsbereich dieses Abkommens an andere Personen als Stellen der Vereinigten Staaten oder Stellen anderer von den Vereinigten Staaten bezeichneter Regierungen nur unter den von den beiden Regierungen zu vereinbarenden Bedingungen veräußert werden.
 
-
-## Art IX
+# Art IX
 
 Die in den Artikeln III, IV und V aufgeführten Vergünstigungen werden auch gewährt für Rechtsgeschäfte, die vor dem Inkrafttreten dieses Abkommens eingegangen sind, vorausgesetzt, daß die über solche Rechtsgeschäfte abgeschlossenen Beschaffungsverträge Bestimmungen enthalten, wonach
 
@@ -73,25 +61,21 @@ a) bis zum Abschluß der in diesem Abkommen enthaltenen Vereinbarungen höchsten
 
 b) die Entgelte um den in ihnen enthaltenen Abgabenbetrag zu ermäßigen sind, von dem der andere Vertragsteil von der Bundesrepublik freigestellt wird.
 
-
-## Art X
+# Art X
 
 Dieses Abkommen bezieht sich nicht auf Vergünstigungen bei Steuern, deren Aufkommen den Ländern oder den Gemeinden (Gemeindeverbänden) ganz oder zum Teil zufließt. Es sieht keine Befreiung von Sozialversicherungsbeiträgen vor.
 
-
-## Art XI
+# Art XI
 
 Die Regierung der Bundesrepublik wird der Regierung der Vereinigten Staaten die zur Durchführung dieses Abkommens zu erlassenden Vorschriften mitteilen.
 
-
-## Art XII
+# Art XII
 
 (1) Dieses Abkommen gilt von dem in Artikel XIV bezeichneten Zeitpunkt ab auch für das Land Berlin, welches für die Zwecke dieses Abkommens nur die Gebiete umfaßt, über welche der Senat von Berlin behördliche Befugnisse ausübt.
 
 (2) Die Gültigkeit dieses Abkommens für das Land Berlin im Sinne von Absatz 1 hängt davon ab, daß die Regierung der Bundesrepublik vorher der Regierung der Vereinigten Staaten eine schriftliche Erklärung abgibt, daß alle für die Anwendung dieses Abkommens in Berlin erforderlichen rechtlichen Voraussetzungen erfüllt sind.
 
-
-## Art XIII
+# Art XIII
 
 (1) Die beiden Regierungen werden, wenn eine von ihnen dies beantragt, sich miteinander über jede Frage ins Benehmen setzen, die die Anwendung dieses Abkommens oder die gemäß diesem Abkommen getroffenen Maßnahmen oder Vereinbarungen betrifft.
 
@@ -99,21 +83,17 @@ Die Regierung der Bundesrepublik wird der Regierung der Vereinigten Staaten die 
 
 (3) Dieses Abkommen kann jederzeit durch eine Vereinbarung zwischen den beiden Vertragsteilen geändert werden.
 
-
-## Art XIV
+# Art XIV
 
 (1) Dieses Abkommen tritt in Kraft mit der Hinterlegung einer Ratifikationsurkunde bei der Regierung der Vereinigten Staaten durch die Bundesrepublik.
 
 (2) Der Anhang ist integrierender Bestandteil dieses Abkommens.
 
+# Schlußformel
 
-## Schlußformel
+ZU URKUND DESSEN haben die zu diesem Zweck ordnungsmäßig bevollmächtigten Vertreter das vorliegende Abkommen unterzeichnet. GESCHEHEN zu Bonn am fünfzehnten Tage des Monats Oktober 1954 in doppelter Ausfertigung in deutscher und englischer Sprache, wobei beide Texte authentisch sind.
 
-ZU URKUND DESSEN haben die zu diesem Zweck ordnungsmäßig bevollmächtigten Vertreter das vorliegende Abkommen unterzeichnet.  
-GESCHEHEN zu Bonn am fünfzehnten Tage des Monats Oktober 1954 in doppelter Ausfertigung in deutscher und englischer Sprache, wobei beide Texte authentisch sind.
-
-
-## Anhang – zu dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
+# Anhang – zu dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben
 
 (Fundstelle: BGBl. II 1955, 826 - 828)
 

@@ -1,15 +1,11 @@
-# [EnSiG 1975] Gesetz zur Sicherung der Energieversorgung  (Energiesicherungsgesetz 1975)
-
-Ausfertigungsdatum: 20.12.1974
-
+% Gesetz zur Sicherung der Energieversorgung  (Energiesicherungsgesetz 1975)
+% Ausfertigungsdatum: 20.12.1974
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Sicherung der Energieversorgung
+# § 1 – Sicherung der Energieversorgung
 
 (1) Um die Deckung des lebenswichtigen Bedarfs an Energie für den Fall zu sichern, daß die Energieversorgung unmittelbar gefährdet oder gestört und die Gefährdung oder Störung der Energieversorgung durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu beheben ist, können durch Rechtsverordnung Vorschriften über
 
@@ -27,8 +23,7 @@ erlassen werden. Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentli
 
 (4) Die Rechtsverordnungen sind auf daß Maß zu beschränken, das zur Behebung der Gefährdung oder Störung der Energieversorgung unbedingt erforderlich ist. Sie sind insbesondere so zu gestalten, daß in die Freiheit des einzelnen und der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
 
-
-## § 2 – Internationale Verpflichtungen
+# § 2 – Internationale Verpflichtungen
 
 (1) Soweit es zur Erfüllung der Verpflichtungen aus dem Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm erforderlich ist, können für Erdöl und Erdölerzeugnisse durch Rechtsverordnung Vorschriften über die Beschränkung der Einfuhren, die Verpflichtung zu Ausfuhren und die Abgabe sowie Vorschriften des im § 1 Abs. 3 genannten Inhalts erlassen werden. Rechtsverordnungen nach Satz 1 können erst erlassen werden, wenn das Bundesgesetz in Kraft getreten ist, durch welches die gesetzgebenden Körperschaften nach Artikel 59 Abs. 2 Satz 1 des Grundgesetzes dem genannten Übereinkommen ihre Zustimmung erteilt haben, und wenn die Erfüllung der Verpflichtungen durch marktgerechte Maßnahmen nicht, nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln zu erreichen ist. § 1 Abs. 4 Satz 2 gilt entsprechend.
 
@@ -36,8 +31,7 @@ erlassen werden. Als lebenswichtig gilt auch der Bedarf zur Erfüllung öffentli
 
 (3) Rechtsverordnungen nach § 1 können auch erlassen werden, wenn die Energieversorgung durch die Beschränkung der Einfuhren oder die Verpflichtung zu Ausfuhren von Erdöl und Erdölerzeugnissen gefährdet oder gestört wird.
 
-
-## § 3 – Erlaß von Rechtsverordnungen
+# § 3 – Erlaß von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 1 und 2 erläßt die Bundesregierung. Sie kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesministerium für Wirtschaft und Energie sowie in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und Erdgas auf die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen übertragen, wenn die Energieversorgung im Sinne des § 1 Abs. 1 gefährdet oder gestört ist. Rechtsverordnungen des Bundesministeriums für Wirtschaft und Energie, die der Zollverwaltung Aufgaben übertragen, werden im Einvernehmen mit dem Bundesministerium der Finanzen erlassen.
 
@@ -55,8 +49,7 @@ bei Erdöl, Erdölerzeugnissen elektrischer Energie und Erdgas.
 
 (5) Rechtsverordnungen nach § 2 Abs. 1 dürfen erst angewendet werden, wenn dies zur Erfüllung der dort genannten Verpflichtungen erforderlich ist. Sie sind unverzüglich aufzuheben oder außer Anwendung zu setzen, wenn die Voraussetzungen des Satzes 1 nicht mehr vorliegen.
 
-
-## § 4 – Ausführung des Gesetzes
+# § 4 – Ausführung des Gesetzes
 
 (1) Rechtsverordnungen nach § 1 Abs. 1 Nr. 2 über Meldepflichten und nach § 2 Abs. 1 über die Beschränkung der Einfuhren, die Verpflichtung zu Ausfuhren und die Abgabe werden vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ausgeführt. Rechtsverordnungen nach § 1 Abs. 1 Nr. 2 über Meldepflichten im Rahmen der leitungsgebundenen Versorgung mit Elektrizität und Erdgas werden abweichend von Satz 1 von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ausgeführt.
 
@@ -74,37 +67,31 @@ bei Erdöl, Erdölerzeugnissen elektrischer Energie und Erdgas.
 
 (5) Im übrigen werden das Gesetz und die auf Grund des Gesetzes erlassenen Rechtsverordnungen, soweit nichts anderes bestimmt ist, von den nach Landesrecht zuständigen Stellen, in Bayern, Bremen und Nordrhein-Westfalen von der Landesregierung oder den von ihr bestimmten Stellen ausgeführt.
 
-
-## § 5 – Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
+# § 5 – Keine aufschiebende Wirkung von Widerspruch und Anfechtungsklage
 
 Widerspruch und Anfechtungsklage gegen Verfügungen, die nach § 10 oder auf Grund von Rechtsverordnungen nach den §§ 1 und 2 ergehen, haben keine aufschiebende Wirkung.
 
-
-## § 6 – Verwaltungsvorschriften
+# § 6 – Verwaltungsvorschriften
 
 (1) Das Bundesministerium für Wirtschaft und Energie erläßt mit Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine Verwaltungsvorschriften.
 
 (2) Der Zustimmung des Bundesrates bedarf es nicht, soweit die allgemeinen Verwaltungsvorschriften an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) oder an die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen gerichtet sind.
 
-
-## § 7 – Einzelweisungen
+# § 7 – Einzelweisungen
 
 Das Bundesministerium für Wirtschaft und Energie kann, soweit die Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung einer regional ausgeglichenen Versorgung erforderlich ist und die Auswirkungen der zu treffenden Maßnahmen sich auf mehr als ein Land erstrecken.
 
-
-## § 8 – Mitwirkung von Vereinigungen
+# § 8 – Mitwirkung von Vereinigungen
 
 (1) In Rechtsverordnungen auf Grund dieses Gesetzes kann bestimmt werden, daß Verbände und Zusammenschlüsse sowie Körperschaften und Anstalten des öffentlichen Rechts bei der Ausführung der Rechtsverordnungen beratend mitwirken, soweit ihre Interessen unmittelbar betroffen sind.
 
 (2) Die zuständige Behörde kann sich bei der Durchführung einzelner Aufgaben, die sie auf Grund dieses Gesetzes oder der nach diesem Gesetz erlassenen Rechtsverordnungen zu erfüllen hat, der in Absatz 1 genannten Stellen mit deren Zustimmung bedienen. Diese Stellen unterstehen insoweit den Weisungen der zuständigen Behörden, die Verbände und Zusammenschlüsse insoweit auch deren Aufsicht.
 
-
-## § 9 – Vorbereitung des Vollzugs
+# § 9 – Vorbereitung des Vollzugs
 
 Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände haben die personellen, materiellen und organisatorischen Voraussetzungen zur Durchführung der Maßnahmen zu schaffen, die für die in § 1 und § 2 bezeichneten Zwecke erforderlich sind.
 
-
-## § 10 – Auskünfte
+# § 10 – Auskünfte
 
 (1) Zur Ausführung der Rechtsverordnungen auf Grund dieses Gesetzes und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben natürliche und juristische Personen und nichtrechtsfähige Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen. Sie haben ferner dem Bundesministerium für Wirtschaft und Energie sowie der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur Vorbereitung der auf Grund dieses Gesetzes zu erlassenden Rechtsverordnungen erforderlich ist.
 
@@ -114,8 +101,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (4) Auf die nach den Absätzen 1 und 2 erlangten Kenntnisse und Unterlagen sind §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-
-## § 11 – Entschädigung
+# § 11 – Entschädigung
 
 (1) Stellt eine nach diesem Gesetz erlassene Rechtsverordnung oder eine Maßnahme auf Grund einer nach diesem Gesetz erlassenen Rechtsverordnung eine Enteignung dar, ist eine Entschädigung in Geld zu leisten. Die Entschädigung bemißt sich nach dem für eine vergleichbare Leistung im Wirtschaftsverkehr üblichen Entgelt oder ist, falls es an einer vergleichbaren Leistung fehlt oder ein übliches Entgelt nicht zu ermitteln ist, unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bemessen.
 
@@ -125,8 +111,7 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Verjährung der Ansprüche nach Absatz 1, über das Verfahren der Festsetzung einer Entschädigung sowie über die Zuständigkeit und das Verfahren der Gerichte nach den Grundsätzen der §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes zu erlassen. Dabei treten an die Stelle der Anforderungsbehörden die in Absatz 3 bezeichneten Stellen.
 
-
-## § 12 – Härteausgleich
+# § 12 – Härteausgleich
 
 (1) Wird durch eine Rechtsverordnung oder Maßnahme im Sinne des § 11 Abs. 1 Satz 1 dem Betroffenen ein Vermögensnachteil zugefügt, der nicht nach § 11 abzugelten ist, so ist eine Entschädigung in Geld zu gewähren, soweit seine wirtschaftliche Existenz durch unabwendbare Schäden gefährdet oder vernichtet ist oder die Entschädigung zur Abwendung oder zum Ausgleich ähnlicher unbilliger Härten geboten ist.
 
@@ -134,18 +119,15 @@ Der Bund und die Länder einschließlich der Gemeinden und Gemeindeverbände hab
 
 (3) § 11 Abs. 3 und 4 ist entsprechend anzuwenden.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Zustellungen
+# § 14 – Zustellungen
 
 Für Zustellungen durch die Verwaltungsbehörde gelten die Vorschriften des Verwaltungszustellungsgesetzes mit der Maßgabe, daß in dringenden Fällen, soweit es zur Aufrechterhaltung der Versorgung erforderlich ist, die Zustellung auch durch schriftliche, fernschriftliche, mündliche oder fernmündliche Mitteilung, durch Presse, Rundfunk (Hörfunk und Fernsehen), Funkspruch oder in einer sonstigen ortsüblichen und geeigneten Weise erfolgen kann. In diesen Fällen gilt die Zustellung mit dem auf die Bekanntgabe folgenden Tage als bewirkt.
 
-
-## § 15 – Zuwiderhandlungen
+# § 15 – Zuwiderhandlungen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -165,8 +147,7 @@ Für Zustellungen durch die Verwaltungsbehörde gelten die Vorschriften des Verw
 
 3. bei Begehung einer in Absatz 1 Nr. 1 bezeichneten Zuwiderhandlung eine außergewöhnliche Mangellage bei der Versorgung mit einem der in § 1 Abs. 1 Nr. 1 genannten Güter zur Erzielung von bedeutenden Vermögensvorteilen ausnutzt.
 
-
-## § 16 – Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
+# § 16 – Zuständige Verwaltungsbehörde bei Zuwiderhandlungen
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist
 
@@ -182,12 +163,10 @@ a) soweit Bundesbehörden zur Durchführung zuständig sind, das Bundesministeri
 
 b) soweit Landesbehörden zur Durchführung zuständig sind, die in § 4 Abs. 5 genannten Stellen.
 
-
-## § 17 – Berlin-Klausel
+# § 17 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft.

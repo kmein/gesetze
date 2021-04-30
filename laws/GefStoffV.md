@@ -1,13 +1,9 @@
-# [GefStoffV] Verordnung zum Schutz vor Gefahrstoffen   (Gefahrstoffverordnung - GefStoffV)
-
-Ausfertigungsdatum: 26.11.2010
-
+% Verordnung zum Schutz vor Gefahrstoffen   (Gefahrstoffverordnung - GefStoffV)
+% Ausfertigungsdatum: 26.11.2010
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zielsetzung und Anwendungsbereich
+# § 1 – Zielsetzung und Anwendungsbereich
 
 (1) Ziel dieser Verordnung ist es, den Menschen und die Umwelt vor stoffbedingten Schädigungen zu schützen durch
 
@@ -39,8 +35,7 @@ Abschnitt 2 gilt nicht für Lebensmittel oder Futtermittel in Form von Fertigerz
 
 Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unterliegen, soweit dort oder in Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen worden sind, entsprechende Rechtsvorschriften bestehen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Gefahrstoffe im Sinne dieser Verordnung sind
 
@@ -106,8 +101,7 @@ Diese Verordnung gilt ferner nicht für Betriebe, die dem Bundesberggesetz unter
 
 (17) Sachkundig ist, wer seine bestehende Fachkunde durch Teilnahme an einem behördlich anerkannten Sachkundelehrgang erweitert hat. In Abhängigkeit vom Aufgabengebiet kann es zum Erwerb der Sachkunde auch erforderlich sein, den Lehrgang mit einer erfolgreichen Prüfung abzuschließen. Sachkundig ist ferner, wer über eine von der zuständigen Behörde als gleichwertig anerkannte oder in dieser Verordnung als gleichwertig bestimmte Qualifikation verfügt.
 
-
-## § 3 – Gefahrenklassen
+# § 3 – Gefahrenklassen
 
 (1) Gefährlich im Sinne dieser Verordnung sind Stoffe, Gemische und bestimmte Erzeugnisse, die den in Anhang I der Verordnung (EG) Nr. 1272/2008 dargelegten Kriterien entsprechen.
 
@@ -365,8 +359,7 @@ Die Ozonschicht schädigend
 
 5.1 
 
-
-## § 4 – Einstufung, Kennzeichnung, Verpackung
+# § 4 – Einstufung, Kennzeichnung, Verpackung
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen sowie von Erzeugnissen mit Explosivstoff richten sich nach den Bestimmungen der Verordnung (EG) Nr. 1272/2008. Gemische, die bereits vor dem 1. Juni 2015 in Verkehr gebracht worden sind und die nach den Bestimmungen der Richtlinie 1999/45/EG gekennzeichnet und verpackt sind, müssen bis 31. Mai 2017 nicht nach der Verordnung (EG) Nr. 1272/2008 eingestuft, gekennzeichnet und verpackt werden.
 
@@ -398,8 +391,7 @@ Die Ozonschicht schädigend
 
 dafür nicht ausreicht.
 
-
-## § 5 – Sicherheitsdatenblatt und sonstige Informationspflichten
+# § 5 – Sicherheitsdatenblatt und sonstige Informationspflichten
 
 (1) Die vom Lieferanten hinsichtlich des Sicherheitsdatenblatts beim Inverkehrbringen von Stoffen und Gemischen zu beachtenden Anforderungen ergeben sich aus Artikel 31 in Verbindung mit Anhang II der Verordnung (EG) Nr. 1907/2006. Ist nach diesen Vorschriften die Übermittlung eines Sicherheitsdatenblatts nicht erforderlich, richten sich die Informationspflichten nach Artikel 32 der Verordnung (EG) Nr. 1907/2006.
 
@@ -407,8 +399,7 @@ dafür nicht ausreicht.
 
 (3) (weggefallen)
 
-
-## § 6 – Informationsermittlung und Gefährdungsbeurteilung
+# § 6 – Informationsermittlung und Gefährdungsbeurteilung
 
 (1) Im Rahmen einer Gefährdungsbeurteilung als Bestandteil der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber festzustellen, ob die Beschäftigten Tätigkeiten mit Gefahrstoffen ausüben oder ob bei Tätigkeiten Gefahrstoffe entstehen oder freigesetzt werden können. Ist dies der Fall, so hat er alle hiervon ausgehenden Gefährdungen der Gesundheit und Sicherheit der Beschäftigten unter folgenden Gesichtspunkten zu beurteilen:
 
@@ -512,8 +503,7 @@ insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach �
 
 (14) Liegen für Stoffe oder Gemische keine Prüfdaten oder entsprechende aussagekräftige Informationen zur akut toxischen, reizenden, hautsensibilisierenden oder keimzellmutagenen Wirkung oder zur spezifischen Zielorgan-Toxizität bei wiederholter Exposition vor, sind die Stoffe oder Gemische bei der Gefährdungsbeurteilung wie Stoffe der Gefahrenklasse Akute Toxizität (oral, dermal und inhalativ) Kategorie 3, Ätz-/Reizwirkung auf die Haut Kategorie 2, Sensibilisierung der Haut Kategorie 1, Keimzellmutagenität Kategorie 2 oder Spezifische Zielorgan-Toxizität, wiederholte Exposition (STOT RE) Kategorie 2 zu behandeln. Hinsichtlich der Spezifizierung der anzuwendenden Einstufungskategorien sind die entsprechenden nach § 20 Absatz 4 Nummer 1 bekannt gegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
-
-## § 7 – Grundpflichten
+# § 7 – Grundpflichten
 
 (1) Der Arbeitgeber darf eine Tätigkeit mit Gefahrstoffen erst aufnehmen lassen, nachdem eine Gefährdungsbeurteilung nach § 6 durchgeführt und die erforderlichen Schutzmaßnahmen nach Abschnitt 4 ergriffen worden sind.
 
@@ -555,8 +545,7 @@ insgesamt eine nur geringe Gefährdung der Beschäftigten und reichen die nach �
 
 3. der Richtlinie 2009/148/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über den Schutz der Arbeitnehmer gegen Gefährdung durch Asbest am Arbeitsplatz (ABl. L 330 vom 16.12.2009, S. 28).
 
-
-## § 8 – Allgemeine Schutzmaßnahmen
+# § 8 – Allgemeine Schutzmaßnahmen
 
 (1) Der Arbeitgeber hat bei Tätigkeiten mit Gefahrstoffen die folgenden Schutzmaßnahmen zu ergreifen:
 
@@ -596,8 +585,7 @@ Kennzeichnungspflichten nach anderen Rechtsvorschriften bleiben unberührt. Sola
 
 (8) Der Arbeitgeber hat bei Tätigkeiten mit Gefahrstoffen nach Anhang I Nummer 2 bis 5 sowohl die §§ 6 bis 18 als auch die betreffenden Vorschriften des Anhangs I Nummer 2 bis 5 zu beachten.
 
-
-## § 9 – Zusätzliche Schutzmaßnahmen
+# § 9 – Zusätzliche Schutzmaßnahmen
 
 (1) Sind die allgemeinen Schutzmaßnahmen nach § 8 nicht ausreichend, um Gefährdungen durch Einatmen, Aufnahme über die Haut oder Verschlucken entgegenzuwirken, hat der Arbeitgeber zusätzlich diejenigen Maßnahmen nach den Absätzen 2 bis 7 zu ergreifen, die auf Grund der Gefährdungsbeurteilung nach § 6 erforderlich sind. Dies gilt insbesondere, wenn
 
@@ -625,8 +613,7 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 
 (7) Wenn Tätigkeiten mit Gefahrstoffen von einer oder einem Beschäftigten allein ausgeübt werden, hat der Arbeitgeber zusätzliche Schutzmaßnahmen zu ergreifen oder eine angemessene Aufsicht zu gewährleisten. Dies kann auch durch den Einsatz technischer Mittel sichergestellt werden.
 
-
-## § 10 – Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen und reproduktionstoxischen Gefahrstoffen der Kategorie 1A und 1B
+# § 10 – Besondere Schutzmaßnahmen bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen und reproduktionstoxischen Gefahrstoffen der Kategorie 1A und 1B
 
 (1) Bei Tätigkeiten mit krebserzeugenden Gefahrstoffen der Kategorie 1A oder 1B, für die kein Arbeitsplatzgrenzwert nach § 20 Absatz 4 bekannt gegeben worden ist, hat der Arbeitgeber ein geeignetes, risikobezogenes Maßnahmenkonzept anzuwenden, um das Minimierungsgebot nach § 7 Absatz 4 umzusetzen. Hierbei sind die nach § 20 Absatz 4 bekannt gegebenen Regeln, Erkenntnisse und Beurteilungsmaßstäbe zu berücksichtigen. Bei Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B hat der Arbeitgeber, unbeschadet des Absatzes 2, zusätzlich die Bestimmungen nach den Absätzen 3 bis 5 zu erfüllen. Die besonderen Bestimmungen des Anhangs II Nummer 6 sind zu beachten.
 
@@ -646,8 +633,7 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 
 (5) Werden in einem Arbeitsbereich Tätigkeiten mit krebserzeugenden, keimzellmutagenen oder reproduktionstoxischen Gefahrstoffen der Kategorie 1A oder 1B ausgeübt, darf die dort abgesaugte Luft nicht in den Arbeitsbereich zurückgeführt werden. Dies gilt nicht, wenn die Luft unter Anwendung von behördlich oder von den Trägern der gesetzlichen Unfallversicherung anerkannten Verfahren oder Geräte ausreichend von solchen Stoffen gereinigt ist. Die Luft muss dann so geführt oder gereinigt werden, dass krebserzeugende, keimzellmutagene oder reproduktionstoxische Stoffe nicht in die Atemluft anderer Beschäftigter gelangen.
 
-
-## § 11 – Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
+# § 11 – Besondere Schutzmaßnahmen gegen physikalisch-chemische Einwirkungen, insbesondere gegen Brand- und Explosionsgefährdungen
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung Maßnahmen zum Schutz der Beschäftigten und anderer Personen vor physikalisch-chemischen Einwirkungen zu ergreifen. Er hat die Maßnahmen so festzulegen, dass die Gefährdungen vermieden oder so weit wie möglich verringert werden. Dies gilt insbesondere bei Tätigkeiten einschließlich Lagerung, bei denen es zu Brand- und Explosionsgefährdungen kommen kann. Dabei hat der Arbeitgeber Anhang I Nummer 1 und 5 zu beachten. Die Vorschriften des Sprengstoffgesetzes und der darauf gestützten Rechtsvorschriften bleiben unberührt.
 
@@ -669,11 +655,9 @@ Ist die Anwendung eines geschlossenen Systems technisch nicht möglich, so hat d
 
 Dabei hat der Arbeitgeber Anhang III zu beachten.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Betriebsstörungen, Unfälle und Notfälle
+# § 13 – Betriebsstörungen, Unfälle und Notfälle
 
 (1) Um die Gesundheit und die Sicherheit der Beschäftigten bei Betriebsstörungen, Unfällen oder Notfällen zu schützen, hat der Arbeitgeber rechtzeitig die Notfallmaßnahmen festzulegen, die beim Eintreten eines derartigen Ereignisses zu ergreifen sind. Dies schließt die Bereitstellung angemessener Erste-Hilfe-Einrichtungen und die Durchführung von Sicherheitsübungen in regelmäßigen Abständen ein.
 
@@ -697,8 +681,7 @@ Neben den Rettungskräften dürfen nur die Beschäftigten im Gefahrenbereich ver
 
 2. alle verfügbaren Informationen über spezifische Gefahren, die bei einem Unfall oder Notfall auftreten oder auftreten können, einschließlich der Informationen über die Verfahren nach den Absätzen 1 bis 4.
 
-
-## § 14 – Unterrichtung und Unterweisung der Beschäftigten
+# § 14 – Unterrichtung und Unterweisung der Beschäftigten
 
 (1) Der Arbeitgeber hat sicherzustellen, dass den Beschäftigten eine schriftliche Betriebsanweisung, die der Gefährdungsbeurteilung nach § 6 Rechnung trägt, in einer für die Beschäftigten verständlichen Form und Sprache zugänglich gemacht wird. Die Betriebsanweisung muss mindestens Folgendes enthalten:
 
@@ -744,8 +727,7 @@ b) durchzuführende Maßnahmen im Sinne des § 10 Absatz 4 Satz 1,
 
 (4) Der Arbeitgeber kann mit Einwilligung des betroffenen Beschäftigten die Aufbewahrungs- einschließlich der Aushändigungspflicht nach Absatz 3 Nummer 4 auf den zuständigen gesetzlichen Unfallversicherungsträger übertragen. Dafür übergibt der Arbeitgeber dem Unfallversicherungsträger die erforderlichen Unterlagen in einer für die elektronische Datenverarbeitung geeigneten Form. Der Unfallversicherungsträger händigt der betroffenen Person auf Anforderung einen Auszug des Verzeichnisses mit den sie betreffenden Angaben aus.
 
-
-## § 15 – Zusammenarbeit verschiedener Firmen
+# § 15 – Zusammenarbeit verschiedener Firmen
 
 (1) Sollen in einem Betrieb Fremdfirmen Tätigkeiten mit Gefahrstoffen ausüben, hat der Arbeitgeber als Auftraggeber sicherzustellen, dass nur solche Fremdfirmen herangezogen werden, die über die Fachkenntnisse und Erfahrungen verfügen, die für diese Tätigkeiten erforderlich sind. Der Arbeitgeber als Auftraggeber hat die Fremdfirmen über Gefahrenquellen und spezifische Verhaltensregeln zu informieren.
 
@@ -757,8 +739,7 @@ b) durchzuführende Maßnahmen im Sinne des § 10 Absatz 4 Satz 1,
 
 (5) Vor dem Beginn von Abbruch-, Sanierungs- und Instandhaltungsarbeiten oder Bauarbeiten muss der Arbeitgeber für die Gefährdungsbeurteilung nach § 6 Informationen, insbesondere vom Auftraggeber oder Bauherrn, darüber einholen, ob entsprechend der Nutzungs- oder Baugeschichte des Objekts Gefahrstoffe, insbesondere Asbest, vorhanden oder zu erwarten sind. Weiter reichende Informations-, Schutz- und Überwachungspflichten, die sich für den Auftraggeber oder Bauherrn nach anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
-
-## § 16 – Herstellungs- und Verwendungsbeschränkungen
+# § 16 – Herstellungs- und Verwendungsbeschränkungen
 
 (1) Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse ergeben sich aus Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006.
 
@@ -776,8 +757,7 @@ Die Sätze 1 bis 3 gelten auch für private Haushalte.
 
 (4) Der Arbeitgeber darf in Heimarbeit beschäftigte Personen nur Tätigkeiten mit geringer Gefährdung im Sinne des § 6 Absatz 11 ausüben lassen.
 
-
-## § 17 – Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
+# § 17 – Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
 
 (1) Für am 1. Dezember 2010 bestehende Anlagen gelten die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII Nummer 6 der Verordnung (EG) Nr. 1907/2006 bis zum 1. Juli 2025 nicht für das Verwenden chrysotilhaltiger Diaphragmen für die Chloralkalielektrolyse oder für das Verwenden von Chrysotil, das ausschließlich zur Wartung dieser Diaphragmen eingesetzt wird, wenn
 
@@ -789,8 +769,7 @@ und die Konzentration der Asbestfasern in der Luft am Arbeitsplatz unterhalb von
 
 (2) Das Verwendungsverbot nach Artikel 67 in Verbindung mit Anhang XVII Nummer 16 und 17 der Verordnung (EG) Nr. 1907/2006 gilt nicht für die Verwendung der dort genannten Bleiverbindungen in Farben, die zur Erhaltung oder originalgetreuen Wiederherstellung von Kunstwerken und historischen Bestandteilen oder von Einrichtungen denkmalgeschützter Gebäude bestimmt sind, wenn die Verwendung von Ersatzstoffen nicht möglich ist.
 
-
-## § 18 – Unterrichtung der Behörde
+# § 18 – Unterrichtung der Behörde
 
 (1) Der Arbeitgeber hat der zuständigen Behörde unverzüglich anzuzeigen
 
@@ -828,8 +807,7 @@ e) durchgeführte Substitutionen.
 
 (4) Auf Verlangen der zuständigen Behörde ist die nach Anhang II der Verordnung (EG) Nr. 1907/2006 geforderte Fachkunde für die Erstellung von Sicherheitsdatenblättern nachzuweisen.
 
-
-## § 19 – Behördliche Ausnahmen, Anordnungen und Befugnisse
+# § 19 – Behördliche Ausnahmen, Anordnungen und Befugnisse
 
 (1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 15 zulassen, wenn die Anwendung dieser Vorschriften im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Der Arbeitgeber hat der zuständigen Behörde im Antrag darzulegen:
 
@@ -861,8 +839,7 @@ Bei Gefahr im Verzug können die Anordnungen auch gegenüber weisungsberechtigte
 
 (5) Die zuständige Behörde kann dem Arbeitgeber untersagen, Tätigkeiten mit Gefahrstoffen auszuüben oder ausüben zu lassen, und insbesondere eine Stilllegung der betroffenen Arbeitsbereiche anordnen, wenn der Arbeitgeber der Mitteilungspflicht nach § 18 Absatz 2 Nummer 1 nicht nachkommt.
 
-
-## § 20 – Ausschuss für Gefahrstoffe
+# § 20 – Ausschuss für Gefahrstoffe
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Gefahrstoffe (AGS) gebildet, in dem geeignete Personen vonseiten der Arbeitgeber, der Gewerkschaften, der Landesbehörden, der gesetzlichen Unfallversicherung und weitere geeignete Personen, insbesondere aus der Wissenschaft, vertreten sein sollen. Die Gesamtzahl der Mitglieder soll 21 Personen nicht überschreiten. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im Ausschuss für Gefahrstoffe ist ehrenamtlich.
 
@@ -894,8 +871,7 @@ Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministe
 
 (6) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin führt die Geschäfte des Ausschusses.
 
-
-## § 21 – Chemikaliengesetz – Anzeigen
+# § 21 – Chemikaliengesetz – Anzeigen
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -919,40 +895,29 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 10. entgegen § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 22 – Chemikaliengesetz – Tätigkeiten
+# § 22 – Chemikaliengesetz – Tätigkeiten
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
- 1.  
-entgegen § 6 Absatz 8 Satz 1 eine Gefährdungsbeurteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
+ 1. entgegen § 6 Absatz 8 Satz 1 eine Gefährdungsbeurteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
- 2.  
-entgegen § 6 Absatz 12 Satz 1 ein Gefahrstoffverzeichnis nicht, nicht richtig oder nicht vollständig führt,
+ 2. entgegen § 6 Absatz 12 Satz 1 ein Gefahrstoffverzeichnis nicht, nicht richtig oder nicht vollständig führt,
 
- 3.  
-entgegen § 7 Absatz 1 eine Tätigkeit aufnehmen lässt,
+ 3. entgegen § 7 Absatz 1 eine Tätigkeit aufnehmen lässt,
 
- 3a.  
-entgegen § 7 Absatz 5 Satz 2 das Verwenden von belastender persönlicher Schutzausrüstung als Dauermaßnahme anwendet,
+ 3a. entgegen § 7 Absatz 5 Satz 2 das Verwenden von belastender persönlicher Schutzausrüstung als Dauermaßnahme anwendet,
 
- 4.  
-entgegen § 7 Absatz 7 Satz 1 die Funktion und die Wirksamkeit der technischen Schutzmaßnahmen nicht oder nicht rechtzeitig überprüft,
+ 4. entgegen § 7 Absatz 7 Satz 1 die Funktion und die Wirksamkeit der technischen Schutzmaßnahmen nicht oder nicht rechtzeitig überprüft,
 
- 5.  
-entgegen § 8 Absatz 2 Satz 3 eine Tätigkeit ausüben lässt,
+ 5. entgegen § 8 Absatz 2 Satz 3 eine Tätigkeit ausüben lässt,
 
- 6.  
-entgegen § 8 Absatz 3 Satz 2 einen Bereich nicht oder nicht rechtzeitig einrichtet,
+ 6. entgegen § 8 Absatz 3 Satz 2 einen Bereich nicht oder nicht rechtzeitig einrichtet,
 
- 7.  
-entgegen § 8 Absatz 5 Satz 3 Gefahrstoffe aufbewahrt oder lagert,
+ 7. entgegen § 8 Absatz 5 Satz 3 Gefahrstoffe aufbewahrt oder lagert,
 
- 8.  
-entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 2 nicht dafür sorgt, dass eine weisungsbefugte sachkundige Person vor Ort tätig ist,
+ 8. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.2 Absatz 3 Satz 2 nicht dafür sorgt, dass eine weisungsbefugte sachkundige Person vor Ort tätig ist,
 
- 9.  
-entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.4 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig aufstellt,
+ 9. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.4 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig aufstellt,
 
 10. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 3.3 Satz 2 eine Schädlingsbekämpfung durchführt,
 
@@ -966,8 +931,7 @@ entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 2.4.4 Satz 1 einen Arbe
 
 15. entgegen § 9 Absatz 3 Satz 2 oder § 9 Absatz 4 eine persönliche Schutzausrüstung nicht oder nicht rechtzeitig bereitstellt,
 
-15a.  
-entgegen § 9 Absatz 5 nicht gewährleistet, dass getrennte Aufbewahrungsmöglichkeiten zur Verfügung stehen,
+15a. entgegen § 9 Absatz 5 nicht gewährleistet, dass getrennte Aufbewahrungsmöglichkeiten zur Verfügung stehen,
 
 16. entgegen § 10 Absatz 4 Satz 2 Schutzkleidung oder ein Atemschutzgerät nicht zur Verfügung stellt,
 
@@ -977,14 +941,11 @@ entgegen § 9 Absatz 5 nicht gewährleistet, dass getrennte Aufbewahrungsmöglic
 
 19. entgegen § 11 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.5 Absatz 4 oder Nummer 1.6 Absatz 5 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
 
-19a.  
-entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
+19a. entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
 
-19b.  
-entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.6 Satz 2 Buchstabe a nicht sicherstellt, dass ein dort genanntes Gebäude oder ein dort genannter Raum in Sicherheitsbauweise errichtet wird,
+19b. entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.6 Satz 2 Buchstabe a nicht sicherstellt, dass ein dort genanntes Gebäude oder ein dort genannter Raum in Sicherheitsbauweise errichtet wird,
 
-19c.  
-entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dort genannten Bereich nicht oder nicht rechtzeitig festlegt,
+19c. entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dort genannten Bereich nicht oder nicht rechtzeitig festlegt,
 
 20. entgegen § 13 Absatz 2 Satz 1 eine dort genannte Maßnahme nicht oder nicht rechtzeitig ergreift,
 
@@ -1006,11 +967,9 @@ entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dor
 
 (2) Wer durch eine in Absatz 1 bezeichnete Handlung das Leben oder die Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 27 Absatz 2 bis 4 des Chemikaliengesetzes strafbar.
 
+# § 23 – (weggefallen)
 
-## § 23 – (weggefallen)
-
-
-## § 24 – Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen
+# § 24 – Chemikaliengesetz – Herstellungs- und Verwendungsbeschränkungen
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1044,13 +1003,11 @@ entgegen § 11 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.7 einen dor
 
 11. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 5 Absatz 1 die dort aufgeführten Stoffe, Gemische oder Erzeugnisse herstellt oder verwendet.
 
-
-## § 25 – Übergangsvorschrift
+# § 25 – Übergangsvorschrift
 
 § 10 Absatz 5 findet hinsichtlich der fruchtschädigenden Wirkungen von reproduktionstoxischen Stoffen oder Gemischen ab dem 1. Januar 2019 Anwendung.
 
-
-## Anhang I – (zu § 8 Absatz 8, § 11 Absatz 3)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
+# Anhang I – (zu § 8 Absatz 8, § 11 Absatz 3)Besondere Vorschriften für bestimmte Gefahrstoffe und Tätigkeiten
 
 (Fundstelle: BGBl. I 2010, 1660 - 1673;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1882,8 +1839,7 @@ Ausnahmen
 
 Ausnahmen nach § 19 Absatz 1 durch die zuständige Behörde von den in den in Nummer 5.4.2 genannten Maßnahmen für Stoffe und Gemische der Gruppen und Untergruppen A, D IV und E ergehen im Benehmen mit der Bundesanstalt für Materialforschung und -prüfung.
 
-
-## Anhang II – (zu § 16 Absatz 2)Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse
+# Anhang II – (zu § 16 Absatz 2)Besondere Herstellungs- und Verwendungsbeschränkungen für bestimmte Stoffe, Gemische und Erzeugnisse
 
 (Fundstelle: BGBl. I 2010, 1674 - 1676;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1986,8 +1942,7 @@ Die Herstellungs- und Verwendungsbeschränkung nach Satz 1 gilt auch für o-Tolu
 
 (2) Die Herstellungs- und Verwendungsbeschränkung nach Absatz 1 gilt nicht für Forschungs- und Analysezwecke sowie für wissenschaftliche Lehrzwecke in den dafür erforderlichen Mengen.
 
-
-## Anhang III – (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
+# Anhang III – (zu § 11 Absatz 4)Spezielle Anforderungen an Tätigkeiten mit organischen Peroxiden
 
 (Fundstelle: BGBl. I 2013, 2531 - 2534;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

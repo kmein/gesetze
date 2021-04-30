@@ -1,15 +1,11 @@
-# [FinAusglG2020DV 1] Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020
-
-Ausfertigungsdatum: 13.03.2020
-
+% Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020
+% Ausfertigungsdatum: 13.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956), von denen § 14 zuletzt durch Artikel 2 Nummer 15 und § 17 zuletzt durch Artikel 2 Nummer 18 des Gesetzes vom 14. August 2017 (BGBl. I S. 3122) geändert worden sind, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2020
+# § 1 – Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2020
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs im Ausgleichsjahr 2020 wird der Zahlungsverkehr nach § 14 Absatz 1 des Gesetzes in der Weise durchgeführt, dass die Ablieferung des in § 1 Absatz 1 Finanzausgleichsgesetz festgelegten Bundesanteils an der durch Landesfinanzbehörden verwalteten Umsatzsteuer auf die folgenden Prozentsätze festgelegt wird:
 
@@ -38,12 +34,10 @@ Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes vom 20. Dezember 2001 
 
 (4) Auf den Länderanteil nach § 1 Absatz 1 Finanzausgleichsgesetz an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer entrichtet das Bundesministerium der Finanzen am 15. eines jeden Monats eine Abschlagszahlung auf der Grundlage des Aufkommens des Vormonats. Im jeweils darauffolgenden Monat werden die Beträge verrechnet, die mit der Abschlagszahlung des Vormonats zu viel oder zu wenig gezahlt worden sind. Zusammen mit dem Länderanteil an der Einfuhrumsatzsteuer werden auch die anteiligen Beträge der Länder und Gemeinden nach § 1 Absatz 2 und 5 des Finanzausgleichsgesetzes überwiesen. Der nach § 1 Absatz 1 des Finanzausgleichsgesetzes ermittelte Gemeindeanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird nach Maßgabe von § 17 Absatz 1 des Gesetzes den Ländern zusammen mit dem Länderanteil an der Einfuhrumsatzsteuer in monatlichen Teilbeträgen jeweils zum 15. des Folgemonats überwiesen.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2020 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

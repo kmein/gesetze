@@ -1,17 +1,11 @@
-# [BsGaV] Verordnung zur Anwendung des Fremdvergleichsgrundsatzes auf Betriebsstätten nach § 1 Absatz 5 des Außensteuergesetzes  (Betriebsstättengewinnaufteilungsverordnung - BsGaV)
-
-Ausfertigungsdatum: 13.10.2014
-
+% Verordnung zur Anwendung des Fremdvergleichsgrundsatzes auf Betriebsstätten nach § 1 Absatz 5 des Außensteuergesetzes  (Betriebsstättengewinnaufteilungsverordnung - BsGaV)
+% Ausfertigungsdatum: 13.10.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Absatz 6 des Außensteuergesetzes, der durch Artikel 6 Nummer 1 Buchstabe e des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -67,8 +61,9 @@ Auf Grund des § 1 Absatz 6 des Außensteuergesetzes, der durch Artikel 6 Nummer
 
  
 
+ 
 
-## § 1 – Zurechnung von Einkünften zu einer Betriebsstätte
+# § 1 – Zurechnung von Einkünften zu einer Betriebsstätte
 
 (1) Für die steuerliche Zurechnung von Einkünften zu einer Betriebsstätte eines Unternehmens nach § 1 Absatz 5 des Außensteuergesetzes ist eine Funktions- und Risikoanalyse der Geschäftstätigkeit der Betriebsstätte (§ 12 der Abgabenordnung) als Teil der Geschäftstätigkeit des Unternehmens durchzuführen. Aufbauend auf der Funktions- und Risikoanalyse nach Satz 1 ist eine Vergleichbarkeitsanalyse der Geschäftstätigkeit der Betriebsstätte durchzuführen, um für die Geschäftsbeziehungen der Betriebsstätte im Sinne des § 1 Absatz 4 des Außensteuergesetzes Verrechnungspreise zu bestimmen, die dem Fremdvergleichsgrundsatz (§ 1 Absatz 1 Satz 1 des Außensteuergesetzes) entsprechen.
 
@@ -86,8 +81,7 @@ Auf Grund des § 1 Absatz 6 des Außensteuergesetzes, der durch Artikel 6 Nummer
 
 6. sind die anzunehmenden schuldrechtlichen Beziehungen im Sinne des § 1 Absatz 4 Satz 1 Nummer 2 des Außensteuergesetzes zu bestimmen, die die Betriebsstätte zum übrigen Unternehmen unterhält.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für die Zwecke dieser Verordnung ist ein Unternehmen inländisch, wenn sich der Ort der tatsächlichen Geschäftsleitung im Inland befindet.
 
@@ -135,8 +129,7 @@ Auf Grund des § 1 Absatz 6 des Außensteuergesetzes, der durch Artikel 6 Nummer
 
 4. Finanzanlagen.
 
-
-## § 3 – Hilfs- und Nebenrechnung
+# § 3 – Hilfs- und Nebenrechnung
 
 (1) Für eine Betriebsstätte ist zum Beginn eines Wirtschaftsjahres eine Hilfs- und Nebenrechnung aufzustellen, während des Wirtschaftsjahres fortzuschreiben und zum Ende des Wirtschaftsjahres abzuschließen. Der Abschluss der Hilfs- und Nebenrechnung beinhaltet das Ergebnis der Betriebsstätte. Die Hilfs- und Nebenrechnung muss spätestens zum Zeitpunkt der Abgabe einer Steuererklärung erstellt sein,
 
@@ -166,8 +159,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (5) Die Hilfs- und Nebenrechnung einer Betriebsstätte eines Unternehmens, das weder nach inländischem noch nach ausländischem Recht buchführungspflichtig ist und das auch tatsächlich keine Bücher führt, ist entsprechend einer Einnahmenüberschussrechnung im Sinne des § 4 Absatz 3 des Einkommensteuergesetzes zu erstellen. Zum Zeitpunkt der Beendigung der Betriebsstätte ist eine Hilfs- und Nebenrechnung zu erstellen, die eine Aufstellung der Vermögenswerte enthält.
 
-
-## § 4 – Zuordnung von Personalfunktionen
+# § 4 – Zuordnung von Personalfunktionen
 
 (1) Eine Personalfunktion ist der Betriebsstätte zuzuordnen, in der die Personalfunktion ausgeübt wird. Eine Personalfunktion ist einer Betriebsstätte jedoch nicht zuzuordnen, wenn die Personalfunktion
 
@@ -179,8 +171,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (3) Kann eine Personalfunktion nicht eindeutig zugeordnet werden, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 und 2 nicht widerspricht.
 
-
-## § 5 – Zuordnung von materiellen Wirtschaftsgütern
+# § 5 – Zuordnung von materiellen Wirtschaftsgütern
 
 (1) Für die Zuordnung eines materiellen Wirtschaftsguts zu einer Betriebsstätte ist dessen Nutzung die maßgebliche Personalfunktion. Wird dasselbe materielle Wirtschaftsgut später auf Dauer in einer anderen Betriebsstätte genutzt, so ist es ab dem Zeitpunkt der Nutzungsänderung der anderen Betriebsstätte zuzuordnen. Ändert sich die Nutzung häufig, so ist ein materielles Wirtschaftsgut der Betriebsstätte zuzuordnen, für deren Geschäftstätigkeit es überwiegend genutzt wird.
 
@@ -190,8 +181,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (4) Kann ein materielles Wirtschaftsgut nicht eindeutig zugeordnet werden, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 bis 3 nicht widerspricht.
 
-
-## § 6 – Zuordnung von immateriellen Werten
+# § 6 – Zuordnung von immateriellen Werten
 
 (1) Für die Zuordnung eines immateriellen Werts zu einer Betriebsstätte ist dessen Schaffung oder dessen Erwerb die maßgebliche Personalfunktion. Werden Personalfunktionen, durch deren Ausübung ein immaterieller Wert geschaffen oder erworben wird, gleichzeitig in verschiedenen Betriebsstätten ausgeübt, so ist der immaterielle Wert der Betriebsstätte zuzuordnen, deren Personalfunktion die größte Bedeutung für den immateriellen Wert zukommt.
 
@@ -201,8 +191,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (4) Kann ein immaterieller Wert nicht eindeutig zugeordnet werden, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 bis 3 nicht widerspricht. In diesen Fällen kann ein immaterieller Wert den Betriebsstätten, in denen auf Dauer die Personalfunktionen mit der größten Bedeutung ausgeübt werden, auch anteilig zugeordnet werden.
 
-
-## § 7 – Zuordnung von Beteiligungen, Finanzanlagen und ähnlichen Vermögenswerten
+# § 7 – Zuordnung von Beteiligungen, Finanzanlagen und ähnlichen Vermögenswerten
 
 (1) Für die Zuordnung einer Beteiligung, einer Finanzanlage oder eines ähnlichen Vermögenswerts zu einer Betriebsstätte ist die Nutzung der Beteiligung, der Finanzanlage oder des ähnlichen Vermögenswerts die maßgebliche Personalfunktion. Die Nutzung ergibt sich aus dem funktionalen Zusammenhang zur Geschäftstätigkeit der Betriebsstätte. Besteht der funktionale Zusammenhang gleichzeitig zur Geschäftstätigkeit verschiedener Betriebsstätten, so ist der Vermögenswert der Betriebsstätte zuzuordnen, zu der der überwiegende funktionale Zusammenhang besteht.
 
@@ -212,8 +201,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (4) Kann ein Vermögenswert im Sinne des Absatzes 1 Satz 1 nicht eindeutig zugeordnet werden oder ändert sich der überwiegende funktionale Zusammenhang häufig, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 bis 3 nicht widerspricht.
 
-
-## § 8 – Zuordnung von sonstigen Vermögenswerten
+# § 8 – Zuordnung von sonstigen Vermögenswerten
 
 (1) Für die Zuordnung eines nicht in den §§ 5 bis 7 genannten Vermögenswerts (sonstiger Vermögenswert) zu einer Betriebsstätte ist dessen Schaffung oder dessen Erwerb die maßgebliche Personalfunktion. Werden Personalfunktionen, durch deren Ausübung ein sonstiger Vermögenswert geschaffen oder erworben wird, gleichzeitig in verschiedenen Betriebsstätten ausgeübt, so ist der sonstige Vermögenswert der Betriebsstätte zuzuordnen, deren Personalfunktion die größte Bedeutung für diesen sonstigen Vermögenswert zukommt.
 
@@ -223,8 +211,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (4) Kann ein sonstiger Vermögenswert nicht eindeutig zugeordnet werden, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 bis 3 nicht widerspricht.
 
-
-## § 9 – Zuordnung von Geschäftsvorfällen des Unternehmens
+# § 9 – Zuordnung von Geschäftsvorfällen des Unternehmens
 
 (1) Für die Zuordnung eines Geschäftsvorfalls (§ 1 Absatz 4 Satz 1 Nummer 1 des Außensteuergesetzes), den das Unternehmen mit einem unabhängigen Dritten oder mit einer nahestehenden Person abgeschlossen hat, zu einer Betriebsstätte ist die Personalfunktion, auf der das Zustandekommen des Geschäftsvorfalls beruht, die maßgebliche Personalfunktion. Üben verschiedene Betriebsstätten gleichzeitig jeweils eine Personalfunktion aus, auf der das Zustandekommen eines solchen Geschäftsvorfalls beruht, so ist der Geschäftsvorfall der Betriebsstätte zuzuordnen, deren Personalfunktion die größte Bedeutung für den Geschäftsvorfall zukommt.
 
@@ -234,8 +221,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (4) Kann ein Geschäftsvorfall nicht eindeutig zugeordnet werden, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 bis 3 nicht widerspricht.
 
-
-## § 10 – Zuordnung von Chancen und Risiken
+# § 10 – Zuordnung von Chancen und Risiken
 
 (1) Stehen Chancen und Risiken im unmittelbaren Zusammenhang mit einem Vermögenswert im Sinne der §§ 5 bis 8 oder mit einem Geschäftsvorfall im Sinne des § 9, so sind diese Chancen und Risiken der Betriebsstätte zuzuordnen, der auch der betreffende Vermögenswert oder Geschäftsvorfall zuzuordnen ist.
 
@@ -247,8 +233,7 @@ Die Hilfs- und Nebenrechnung beinhaltet auch fiktive Betriebseinnahmen und fikti
 
 (5) Können Chancen und Risiken nicht eindeutig zugeordnet werden, so ist eine Zuordnung vorzunehmen, die den Absätzen 1 bis 4 nicht widerspricht.
 
-
-## § 11 – Zuordnung von Sicherungsgeschäften
+# § 11 – Zuordnung von Sicherungsgeschäften
 
 (1) Schließt ein Unternehmen ein Sicherungsgeschäft zu dem Zweck ab,
 
@@ -274,8 +259,7 @@ und ist eine direkte Zuordnung einzelner Vermögenswerte, die Sicherungszwecken 
 
 (4) Sichern Vermögenswerte die Risiken anderer Vermögenswerte ab, ohne dass die Absicherung ihr Zweck ist, so gelten für die Zuordnung der Geschäfte und der zugehörigen Vermögenswerte die §§ 5 bis 8.
 
-
-## § 12 – Dotationskapital inländischer Betriebsstätten ausländischer Unternehmen
+# § 12 – Dotationskapital inländischer Betriebsstätten ausländischer Unternehmen
 
 (1) Einer inländischen Betriebsstätte eines nach ausländischem Recht buchführungspflichtigen oder tatsächlich Bücher führenden, ausländischen Unternehmens ist zum Beginn eines Wirtschaftsjahres derjenige Anteil am Eigenkapital des Unternehmens zuzuordnen, der ihrem Anteil an den Vermögenswerten sowie den Chancen und Risiken im Verhältnis zum übrigen Unternehmen entspricht (Kapitalaufteilungsmethode).
 
@@ -303,8 +287,7 @@ und ist eine direkte Zuordnung einzelner Vermögenswerte, die Sicherungszwecken 
 
 (+++ § 12: Zur Anwendung vgl. § 20 Abs. 5 u. § 25 Abs. 5 +++)
 
-
-## § 13 – Dotationskapital ausländischer Betriebsstätten inländischer Unternehmen
+# § 13 – Dotationskapital ausländischer Betriebsstätten inländischer Unternehmen
 
 (1) Einer ausländischen Betriebsstätte eines nach inländischem Recht buchführungspflichtigen oder tatsächlich Bücher führenden, inländischen Unternehmens ist zum Beginn eines Wirtschaftsjahres Dotationskapital nur zuzuordnen, soweit das Unternehmen glaubhaft macht, dass ein Dotationskapital in dieser Höhe aus betriebswirtschaftlichen Gründen erforderlich ist (Mindestkapitalausstattungsmethode).
 
@@ -316,8 +299,7 @@ und ist eine direkte Zuordnung einzelner Vermögenswerte, die Sicherungszwecken 
 
 (5) Ändert sich innerhalb eines Wirtschaftsjahres die Zuordnung von Personalfunktionen, von Vermögenswerten oder von Chancen und Risiken gegenüber den Verhältnissen zu Beginn des Wirtschaftsjahres und führt dies zu einer erheblichen Veränderung der Höhe des Dotationskapitals, das der ausländischen Betriebsstätte nach Absatz 1 zuzuordnen ist, so ist das Dotationskapital entsprechend anzupassen.
 
-
-## § 14 – Zuordnung übriger Passivposten
+# § 14 – Zuordnung übriger Passivposten
 
 (1) Der Betriebsstätte eines Unternehmens, das nach inländischem oder ausländischem Recht buchführungspflichtig ist oder tatsächlich Bücher führt, sind nach der Zuordnung der in der Hilfs- und Nebenrechnung auszuweisenden Risiken und des Dotationskapitals die übrigen Passivposten des Unternehmens zuzuordnen, die im unmittelbaren Zusammenhang mit den der Betriebsstätte zugeordneten Vermögenswerten sowie mit den ihr zugeordneten Chancen und Risiken stehen (direkte Zuordnung).
 
@@ -325,8 +307,7 @@ und ist eine direkte Zuordnung einzelner Vermögenswerte, die Sicherungszwecken 
 
 (3) Verbleibt nach der Bestimmung der in der Hilfs- und Nebenrechnung auszuweisenden Risiken und des Dotationskapitals und der direkten Zuordnung übriger Passivposten ein Fehlbetrag an Passivposten für die Betriebsstätte, so ist dieser Fehlbetrag mit übrigen Passivposten des Unternehmens aufzufüllen (indirekte Zuordnung).
 
-
-## § 15 – Zuordnung von Finanzierungsaufwendungen
+# § 15 – Zuordnung von Finanzierungsaufwendungen
 
 (1) Finanzierungsaufwendungen eines Unternehmens, die mit Passivposten zusammenhängen, die einer Betriebsstätte dieses Unternehmens nach § 14 Absatz 1 direkt zuzuordnen sind, sind ebenfalls dieser Betriebsstätte zuzuordnen.
 
@@ -338,8 +319,7 @@ und ist eine direkte Zuordnung einzelner Vermögenswerte, die Sicherungszwecken 
 
 (5) Der ausländischen Betriebsstätte eines inländischen Unternehmens, das nach inländischem Recht nicht buchführungspflichtig ist und auch tatsächlich keine Bücher führt, ist ein Finanzierungsaufwand des inländischen Unternehmens zuzuordnen, wenn dieser im unmittelbaren Zusammenhang mit der Geschäftstätigkeit der Betriebsstätte steht. Der ausländischen Betriebsstätte ist mindestens der Anteil des Finanzierungsaufwands zuzuordnen, der ihrem Anteil an den Außenumsätzen des inländischen Unternehmens entspricht. Absatz 3 Satz 3 gilt sinngemäß.
 
-
-## § 16 – Grundsatz
+# § 16 – Grundsatz
 
 (1) Zwischen einer Betriebsstätte und dem übrigen Unternehmen liegt eine anzunehmende schuldrechtliche Beziehung im Sinne des § 1 Absatz 4 Satz 1 Nummer 2 des Außensteuergesetzes vor, wenn wirtschaftliche Vorgänge festgestellt werden,
 
@@ -365,8 +345,7 @@ Eine anzunehmende schuldrechtliche Beziehung nach Satz 2 Nummer 2 gilt als Zurve
 
 2. mit einer Anpassung des Dotationskapitals nach § 12 Absatz 6 oder § 13 Absatz 5.
 
-
-## § 17 – Finanzierungsfunktion innerhalb eines Unternehmens
+# § 17 – Finanzierungsfunktion innerhalb eines Unternehmens
 
 (1) Eine Finanzierungsfunktion innerhalb eines Unternehmens umfasst die Liquiditätssteuerung durch eine Betriebsstätte (Finanzierungsbetriebsstätte) für eine oder mehrere andere Betriebsstätten desselben Unternehmens. Zur Liquiditätssteuerung gehören insbesondere die Mittelbeschaffung, die Mittelzuweisung und die externe Anlage von Liquiditätsüberhängen.
 
@@ -386,8 +365,7 @@ Eine anzunehmende schuldrechtliche Beziehung nach Satz 2 Nummer 2 gilt als Zurve
 
 2. eine nicht in Absatz 2 genannte Verrechnungspreismethode zu einem Ergebnis für die Finanzierungsfunktion führt, das dem Fremdvergleichsgrundsatz besser entspricht.
 
-
-## § 18 – Allgemeines
+# § 18 – Allgemeines
 
 Eine Betriebsstätte,
 
@@ -397,8 +375,7 @@ Eine Betriebsstätte,
 
 ist eine Bankbetriebsstätte, für die die §§ 1 bis 17 gelten, soweit in diesem Abschnitt keine abweichende Regelung getroffen wird.
 
-
-## § 19 – Besondere Zuordnungsregelungen
+# § 19 – Besondere Zuordnungsregelungen
 
 (1) Ein Vermögenswert, der Gegenstand von Bankgeschäften im Sinne des § 1 Absatz 1 des Kreditwesengesetzes oder von Finanzdienstleistungen im Sinne des § 1 Absatz 1a des Kreditwesengesetzes ist, ist einer Bankbetriebsstätte zuzuordnen, wenn die unternehmerische Risikoübernahmefunktion in dieser Bankbetriebsstätte ausgeübt wird. Unternehmerische Risikoübernahmefunktion bei Kreditinstituten ist die Personalfunktion, deren Ausübung dazu führt, dass die mit dem Vermögenswert verbundenen Chancen und Risiken des Unternehmens entstehen.
 
@@ -426,8 +403,7 @@ ist eine Bankbetriebsstätte, für die die §§ 1 bis 17 gelten, soweit in diese
 
 2. die über § 16 Absatz 3 hinausgehende Dauer im Einzelfall zu einem Ergebnis der Bankbetriebsstätte führt, das dem Fremdvergleichsgrundsatz besser entspricht.
 
-
-## § 20 – Dotationskapital inländischer Bankbetriebsstätten ausländischer Kreditinstitute, Bankenaufsichtsrecht
+# § 20 – Dotationskapital inländischer Bankbetriebsstätten ausländischer Kreditinstitute, Bankenaufsichtsrecht
 
 (1) Einer inländischen Bankbetriebsstätte eines ausländischen Kreditinstituts ist der Anteil am Eigenkapital des ausländischen Kreditinstituts zuzuordnen, der ihrem Anteil an der Summe der risikogewichteten Positionsbeträge des ausländischen Kreditinstituts im Sinne des ausländischen Bankenaufsichtsrechts entspricht (Kapitalaufteilungsmethode für Bankbetriebsstätten). Für die Ermittlung des jeweiligen Anteils sind die kreditinstitutsinternen risikogewichteten Positionsbeträge unberücksichtigt zu lassen.
 
@@ -455,8 +431,7 @@ Wendet das ausländische Kreditinstitut die ausländische Regelung an und wird d
 
 (6) Die Absätze 1 bis 5 gelten nicht für inländische Betriebsstätten ausländischer Finanzdienstleistungsinstitute, die keinen bankenaufsichtsrechtlichen Eigenkapitalanforderungen unterliegen.
 
-
-## § 21 – Dotationskapital ausländischer Bankbetriebsstätten inländischer Kreditinstitute, Bankenaufsichtsrecht
+# § 21 – Dotationskapital ausländischer Bankbetriebsstätten inländischer Kreditinstitute, Bankenaufsichtsrecht
 
 (1) Der ausländischen Bankbetriebsstätte eines inländischen Kreditinstituts ist ein Dotationskapital entsprechend § 13 Absatz 1 zuzuordnen, es sei denn, das anzuwendende ausländische Bankenaufsichtsrecht enthält zwingende Regelungen zur Mindestkapitalausstattung, die die ausländische Bankbetriebsstätte einhalten müsste, wenn sie ein selbständiges ausländisches Kreditinstitut wäre (Mindestkapitalausstattungsmethode für Bankbetriebsstätten). Das inländische Kreditinstitut hat die Gründe für den Ansatz eines höheren Dotationskapitals als nach § 13 Absatz 1 nachzuweisen.
 
@@ -476,8 +451,7 @@ und verfügt dieses inländische Kreditinstitut über ein geringeres Kernkapital
 
 (6) Die Absätze 1 bis 5 gelten nicht für eine ausländische Bankbetriebsstätte eines inländischen Finanzdienstleistungsinstituts, das keinen bankenaufsichtsrechtlichen Eigenkapitalanforderungen unterliegt.
 
-
-## § 22 – Globaler Handel mit Finanzinstrumenten
+# § 22 – Globaler Handel mit Finanzinstrumenten
 
 (1) Finanzinstrumente im Sinne des § 1 Absatz 11 Satz 1 des Kreditwesengesetzes, mit denen durch Finanzinstitute auf Märkten der ganzen Welt rund um die Uhr gehandelt wird (globaler Handel mit Finanzinstrumenten), sind entsprechend § 19 zuzuordnen. Der globale Handel mit Finanzinstrumenten umfasst insbesondere
 
@@ -497,8 +471,7 @@ und verfügt dieses inländische Kreditinstitut über ein geringeres Kernkapital
 
 (3) Für anzunehmende schuldrechtliche Beziehungen, die die unternehmerische Risikoübernahmefunktion im globalen Handel mit Finanzinstrumenten betreffen, ist die geschäftsvorfallbezogene Restgewinnaufteilungsmethode anzuwenden, es sei denn, im Einzelfall führt die Anwendung einer anderen Methode zu einem Ergebnis, das dem Fremdvergleichsgrundsatz besser entspricht.
 
-
-## § 23 – Allgemeines
+# § 23 – Allgemeines
 
 Eine Betriebsstätte,
 
@@ -508,8 +481,7 @@ Eine Betriebsstätte,
 
 ist eine Versicherungsbetriebsstätte, für die die §§ 1 bis 17 gelten, soweit in diesem Abschnitt keine abweichende Regelung getroffen wird.
 
-
-## § 24 – Besondere Zuordnungsregelungen
+# § 24 – Besondere Zuordnungsregelungen
 
 (1) Ein Vermögenswert, der durch den Abschluss eines Versicherungsvertrags entsteht, ist einer Versicherungsbetriebsstätte zuzuordnen, wenn die unternehmerische Risikoübernahmefunktion in dieser Versicherungsbetriebsstätte ausgeübt wird. Unternehmerische Risikoübernahmefunktion ist bei Versicherungsunternehmen die Personalfunktion des Zeichnungsprozesses, deren Ausübung dazu führt, dass die mit dem Versicherungsvertrag zusammenhängenden Chancen und Risiken, insbesondere das versicherungstechnische Risiko aus dem Versicherungsvertrag, von dem Versicherungsunternehmen übernommen werden. Der Zeichnungsprozess besteht aus
 
@@ -549,8 +521,7 @@ c) Risikomanagement und Rückversicherung und
 
 (7) § 19 Absatz 5 gilt sinngemäß.
 
-
-## § 25 – Dotationskapital inländischer Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
+# § 25 – Dotationskapital inländischer Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
 
 (1) Zur Bestimmung des Dotationskapitals inländischer Versicherungsbetriebsstätten ausländischer Versicherungsunternehmen ist der Versicherungsbetriebsstätte in einem ersten Schritt ein Anteil an den Vermögenswerten des ausländischen Versicherungsunternehmens zuzuordnen, die der Bedeckung der versicherungstechnischen Rückstellungen und des Eigenkapitals des ausländischen Versicherungsunternehmens dienen. Der Anteil der Versicherungsbetriebsstätte bemisst sich nach dem Verhältnis der versicherungstechnischen Rückstellungen für Versicherungsverträge, die der inländischen Versicherungsbetriebsstätte zuzuordnen sind, zu den versicherungstechnischen Rückstellungen, die in der Bilanz des ausländischen Versicherungsunternehmens insgesamt ausgewiesen sind.
 
@@ -562,8 +533,7 @@ c) Risikomanagement und Rückversicherung und
 
 (5) § 12 Absatz 6 ist mit der Maßgabe anzuwenden, dass die Höhe des zuzuordnenden Dotationskapitals auch anzupassen ist, soweit dies das inländische Versicherungsaufsichtsrecht erfordert. Im Übrigen gilt § 12 sinngemäß.
 
-
-## § 26 – Dotationskapital ausländischer Versicherungsbetriebsstätten inländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
+# § 26 – Dotationskapital ausländischer Versicherungsbetriebsstätten inländischer Versicherungsunternehmen, Versicherungsaufsichtsrecht
 
 (1) Der ausländischen Versicherungsbetriebsstätte eines inländischen Versicherungsunternehmens ist ein Dotationskapital entsprechend § 13 Absatz 1 zuzuordnen, es sei denn, das anzuwendende ausländische Versicherungsaufsichtsrecht enthält zwingende Regelungen zur Mindestkapitalausstattung, die die ausländische Versicherungsbetriebsstätte einhalten müsste, wenn sie ein selbständiges ausländisches Versicherungsunternehmen wäre (Mindestkapitalausstattungsmethode für Versicherungsbetriebsstätten). Das inländische Versicherungsunternehmen hat die Gründe für den Ansatz eines höheren Dotationskapitals als nach § 13 Absatz 1 nachzuweisen.
 
@@ -573,8 +543,7 @@ c) Risikomanagement und Rückversicherung und
 
 (4) § 13 Absatz 5 ist mit der Maßgabe anzuwenden, dass die Höhe des zuzuordnenden Dotationskapitals auch anzupassen ist, soweit dies das ausländische Versicherungsaufsichtsrecht erfordert. Im Übrigen gilt § 13 sinngemäß.
 
-
-## § 27 – Zuordnung von Einkünften aus Vermögenswerten
+# § 27 – Zuordnung von Einkünften aus Vermögenswerten
 
 (1) Einkünfte aus Vermögenswerten sind einer Versicherungsbetriebsstätte zuzuordnen, wenn diese Vermögenswerte mindestens einem der folgenden Zwecke dienen:
 
@@ -586,13 +555,11 @@ c) Risikomanagement und Rückversicherung und
 
 (2) Soweit eine direkte Zuordnung von Vermögenswerten und Einkünften nicht möglich ist, sind einer Versicherungsbetriebsstätte Einkünfte entsprechend der durchschnittlichen Kapitalanlagerendite des Versicherungsunternehmens zuzuordnen.
 
-
-## § 28 – Rückversicherung innerhalb eines Unternehmens
+# § 28 – Rückversicherung innerhalb eines Unternehmens
 
 Das versicherungstechnische Risiko, das einer Versicherungsbetriebsstätte auf Grund der zutreffenden Zuordnung eines Versicherungsvertrags zugeordnet ist, darf nicht durch eine anzunehmende schuldrechtliche Beziehung, die einem Rückversicherungsvertrag zwischen rechtlich selbständigen Versicherungsunternehmen vergleichbar ist, dem übrigen Unternehmen zugeordnet werden.
 
-
-## § 29 – Pensionsfonds und Versicherungs-Zweckgesellschaften
+# § 29 – Pensionsfonds und Versicherungs-Zweckgesellschaften
 
 Die §§ 23 bis 28 gelten sinngemäß für eine Betriebsstätte, die mit Versicherungsgeschäften vergleichbare Geschäfte betreibt und die
 
@@ -600,13 +567,11 @@ Die §§ 23 bis 28 gelten sinngemäß für eine Betriebsstätte, die mit Versich
 
 2. Teil einer Versicherungs-Zweckgesellschaft im Sinne des § 121g des Versicherungsaufsichtsgesetzes oder eines vergleichbaren ausländischen Aufsichtsrechts ist.
 
-
-## § 30 – Allgemeines
+# § 30 – Allgemeines
 
 Für eine Betriebsstätte, die Bau- oder Montagearbeiten durchführt und nach Abschluss der Bau- oder Montagearbeiten endet (Bau- und Montagebetriebsstätte), gelten die §§ 1 bis 17, soweit in diesem Abschnitt keine abweichende Regelung getroffen wird. Ein Unternehmen, zu dem eine Bau- und Montagebetriebsstätte gehört, ist ein Bau- und Montageunternehmen.
 
-
-## § 31 – Besondere Zuordnungsregelungen
+# § 31 – Besondere Zuordnungsregelungen
 
 (1) Ein materielles Wirtschaftsgut, das in einer Bau- und Montagebetriebsstätte genutzt wird, ist dieser nur dann gemäß § 5 Absatz 1 Satz 1 zuzuordnen, wenn dort neben der Nutzung zusätzlich auch Personalfunktionen ausgeübt werden, die im Zusammenhang mit der Anschaffung, der Herstellung, der Veräußerung oder der Verwertung des materiellen Wirtschaftsguts stehen. Die Zuordnung nach Satz 1 setzt voraus, dass die Bedeutung der genannten Personalfunktionen, die in der Bau- und Montagebetriebsstätte im Hinblick auf das materielle Wirtschaftsgut ausgeübt werden, gegenüber den insoweit ausgeübten Personalfunktionen des übrigen Unternehmens eindeutig überwiegt.
 
@@ -620,8 +585,7 @@ Für eine Betriebsstätte, die Bau- oder Montagearbeiten durchführt und nach Ab
 
 2. aus funktionalen Gründen davon auszugehen ist, dass die Bau- und Montagebetriebsstätte, wäre sie ein unabhängiger Dritter, den Bau- oder Montagevertrag mit dem Auftraggeber vom übrigen Unternehmen übernommen hätte.
 
-
-## § 32 – Anzunehmende schuldrechtliche Beziehungen, die als Dienstleistung anzusehen sind
+# § 32 – Anzunehmende schuldrechtliche Beziehungen, die als Dienstleistung anzusehen sind
 
 (1) Die Mitwirkung einer Bau- und Montagebetriebsstätte an der Erfüllung des vom Bau- und Montageunternehmen abgeschlossenen Bau- und Montagevertrags gilt widerlegbar als anzunehmende schuldrechtliche Beziehung, die als Dienstleistung der Bau- und Montagebetriebsstätte gegenüber dem übrigen Unternehmen anzusehen ist. Der Verrechnungspreis für die Dienstleistung ist im Regelfall nach einer kostenorientierten Verrechnungspreismethode zu bestimmen. Zu den Kosten der Bau- und Montagebetriebsstätte, die für die Anwendung dieser Methode zu berücksichtigen sind, gehören insbesondere auch alle erforderlichen Personalkosten, die unmittelbar durch die Erbringung von Personalfunktionen in der Bau- und Montagebetriebsstätte verursacht sind.
 
@@ -631,8 +595,7 @@ Für eine Betriebsstätte, die Bau- oder Montagearbeiten durchführt und nach Ab
 
 (4) Dienstleistungen, die im übrigen Unternehmen im Zusammenhang mit dem Bau- und Montagevertrag des Bau- und Montageunternehmens erbracht werden, gelten auch dann nicht als gegenüber der Bau- und Montagebetriebsstätte erbracht, wenn sie im Zusammenhang mit der Dienstleistung der Bau- und Montagebetriebsstätte stehen.
 
-
-## § 33 – Anzunehmende schuldrechtliche Beziehungen in besonderen Fällen
+# § 33 – Anzunehmende schuldrechtliche Beziehungen in besonderen Fällen
 
 (1) Abweichend von § 32 ist der Verrechnungspreis für die anzunehmende schuldrechtliche Beziehung zwischen der Bau- und Montagebetriebsstätte und dem übrigen Unternehmen nach einer Gewinnaufteilungsmethode zu bestimmen, wenn
 
@@ -648,8 +611,7 @@ Für eine Betriebsstätte, die Bau- oder Montagearbeiten durchführt und nach Ab
 
 Ein anderer Aufteilungsschlüssel ist anzuwenden, wenn dieser im Einzelfall zu einem Ergebnis der Bau- und Montagebetriebsstätte führt, das dem Fremdvergleichsgrundsatz besser entspricht.
 
-
-## § 34 – Übergangsregelung für Bau- und Montagebetriebsstätten
+# § 34 – Übergangsregelung für Bau- und Montagebetriebsstätten
 
 (1) Das Bau- und Montageunternehmen kann die Einkünfte einer bereits vor dem 1. Januar 2013 begründeten Bau- und Montagebetriebsstätte bis zur Beendigung der Bau- oder Montagebetriebsstätte nach den bisher von der Finanzbehörde anerkannten steuerlichen Grundsätzen ermitteln.
 
@@ -659,15 +621,13 @@ Ein anderer Aufteilungsschlüssel ist anzuwenden, wenn dieser im Einzelfall zu e
 
 2. glaubhaft macht, dass die Regelungen dieser Verordnung seiner Kalkulation die Grundlage entziehen.
 
-
-## § 35 – Allgemeines
+# § 35 – Allgemeines
 
 (1) Für eine Betriebsstätte, die zur Förderung von Bodenschätzen entsteht und nach Abschluss der Förderung endet (Förderbetriebsstätte), gelten die §§ 1 bis 17, soweit in diesem Abschnitt keine abweichende Regelung getroffen wird. Ein Unternehmen, zu dem eine Förderbetriebsstätte gehört, ist ein Bergbauunternehmen oder ein Erdöl- oder Erdgasunternehmen.
 
 (2) Ein Explorationsrecht ist das Recht, Bodenschätze zu suchen oder zu fördern.
 
-
-## § 36 – Besondere Zuordnungsregelungen
+# § 36 – Besondere Zuordnungsregelungen
 
 (1) Ein Explorationsrecht, das für die Ausübung von Personalfunktionen in einer Förderbetriebsstätte eines Bergbauunternehmens oder eines Erdöl- oder Erdgasunternehmens genutzt wird, ist dieser Förderbetriebsstätte nur dann zuzuordnen, wenn dort zusätzlich auch
 
@@ -683,8 +643,7 @@ Die Zuordnung nach Satz 1 setzt voraus, dass die Bedeutung der genannten Persona
 
 (4) In den Fällen des Absatzes 2 gilt für die Zuordnung von Vermögenswerten zu einer Förderbetriebsstätte § 31 Absatz 1 bis 3 sinngemäß. In den Fällen des Absatzes 3 gelten für die Zuordnung von Vermögenswerten zu einer Förderbetriebsstätte die §§ 5 bis 8.
 
-
-## § 37 – Anzunehmende schuldrechtliche Beziehungen
+# § 37 – Anzunehmende schuldrechtliche Beziehungen
 
 (1) Die Tätigkeit einer Förderbetriebsstätte unter Nutzung eines Explorationsrechts, das von einem Bergbauunternehmen oder einem Erdöl- oder Erdgasunternehmen erworben wurde, erfolgt auf Grund einer anzunehmenden schuldrechtlichen Beziehung (§ 16), für die widerlegbar zu vermuten ist, dass sie als Dienstleistung der Förderbetriebsstätte gegenüber dem übrigen Unternehmen anzusehen ist. Der Verrechnungspreis für die Dienstleistung ist nach einer kostenorientierten Verrechnungspreismethode zu bestimmen. Zu den Kosten der Förderbetriebsstätte, die für die Anwendung einer kostenorientierten Verrechnungspreismethode zu berücksichtigen sind, gehören insbesondere auch alle erforderlichen Personalkosten, die unmittelbar durch die Erbringung von Personalfunktionen in der Förderbetriebsstätte verursacht werden.
 
@@ -698,8 +657,7 @@ Die Zuordnung nach Satz 1 setzt voraus, dass die Bedeutung der genannten Persona
 
 (4) Im Fall des § 36 Absatz 3 ist im Hinblick auf die Funktions- und Risikoanalyse für die Bestimmung der Einkünfte der Förderbetriebsstätte zu beachten, dass das Explorationsrecht der Förderbetriebsstätte zuzuordnen ist. Dies gilt, solange der Staat, in dem die Förderbetriebsstätte liegt, von einer Zuordnung des Explorationsrechts zur Förderbetriebsstätte ausgeht.
 
-
-## § 38 – Übergangsregelung für Förderbetriebsstätten
+# § 38 – Übergangsregelung für Förderbetriebsstätten
 
 (1) Das Bergbauunternehmen oder das Erdöl- oder Erdgasunternehmen kann die Einkünfte einer bereits vor dem 1. Januar 2013 begründeten Förderbetriebsstätte bis zur Beendigung der Förderbetriebsstätte nach den bisher von der Finanzbehörde anerkannten steuerlichen Grundsätzen ermitteln.
 
@@ -709,24 +667,20 @@ Die Zuordnung nach Satz 1 setzt voraus, dass die Bedeutung der genannten Persona
 
 2. glaubhaft macht, dass die Regelungen dieser Verordnung seiner Kalkulation die Grundlage entziehen.
 
-
-## § 39 – Ständige Vertreter
+# § 39 – Ständige Vertreter
 
 (1) Diese Verordnung ist sinngemäß auf ständige Vertreter im Sinne des § 13 der Abgabenordnung anzuwenden.
 
 (2) Handelt es sich bei einem ständigen Vertreter um ein rechtlich selbständiges Unternehmen mit eigenem Personal im Sinne des § 2 Absatz 4, so sind für die sinngemäße Anwendung nach Absatz 1 abweichend von § 2 Absatz 3 alle Personalfunktionen, die vom Personal des ständigen Vertreters für den Vertretenen ausgeübt werden, als eigene Personalfunktionen des Vertretenen zu behandeln.
 
-
-## § 40 – Erstmalige Anwendung
+# § 40 – Erstmalige Anwendung
 
 Diese Verordnung ist für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2014 beginnen. § 3 Absatz 3 in der Fassung des Artikels 5 der Verordnung vom 12. Juli 2017 (BGBl. I S. 2360) ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2016 beginnen.
 
-
-## § 41 – Inkrafttreten
+# § 41 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

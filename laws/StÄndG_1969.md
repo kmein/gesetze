@@ -1,22 +1,17 @@
-# [StÄndG 1969] Gesetz über die Gewährung von Investitionszulagen und zur Änderung steuerrechtlicher und prämienrechtlicher Vorschriften  (Steueränderungsgesetz 1969)
-
-Ausfertigungsdatum: 18.08.1969
-
+% Gesetz über die Gewährung von Investitionszulagen und zur Änderung steuerrechtlicher und prämienrechtlicher Vorschriften  (Steueränderungsgesetz 1969)
+% Ausfertigungsdatum: 18.08.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Vergütung für Sachübernahmen
+# § 1 – Vergütung für Sachübernahmen
 
 (1) Die Ruhrkohle Aktiengesellschaft darf bei der Festsetzung der Vergütung für Sachübernahmen von Aktionären Vermögensgegenstände des Sachanlagevermögens nach Absatz 2 bewerten, wenn für den Vergütungsanspruch eine Bürgschaft im Sinne des § 2 Abs. 2 vereinbart wird. Soweit die Vergütung auf der Bewertung nach Absatz 2 beruht oder den danach zulässigen Betrag insgesamt nicht übersteigt, kann bei Anwendung der Vorschriften des Aktiengesetzes über die Nachgründung davon ausgegangen werden, daß die gewährte Vergütung nicht unangemessen hoch ist.
 
 (2) Die Vermögensgegenstände des Sachanlagevermögens können mit dem Tagesneuwert im Sinne des Teils II der Richtlinien für das betriebliche Rechnungswesen im Steinkohlenbergbau nach dem Stand vom 1. September 1968 abzüglich der Abschreibungen nach diesen Richtlinien und eines Abschlags in Höhe von zwanzig vom Hundert des nach Abzug der Abschreibungen verbleibenden Wertes bewertet werden. Erreicht der nach Satz 1 ermittelte Gesamtwert der Sachübernahmen von einem Aktionär nicht den Gesamtwert, den die Vermögensgegenstände nach den auf den vereinbarten Stichtag der Übernahme unter Beibehaltung der bisherigen Bewertungsmethoden fortgeführten Wertansätze der Jahresbilanz für das vorausgehende Geschäftsjahr haben, so können diese Werte, jedoch nur einheitlich für alle Vermögensgegenstände des Sachanlagevermögens, zugrundegelegt werden. Wertminderungen der Vermögensgegenstände durch eine beabsichtigte Stillegung oder sonstige Maßnahme zur Verwirklichung der Ziele des § 1 des Gesetzes zur Anpassung und Gesundung des deutschen Steinkohlenbergbaus und der deutschen Steinkohlenbergbaugebiete vom 15. Mai 1968 (Bundesgesetzbl. I S. 365) - Kohlegesetz - brauchen nicht berücksichtigt zu werden.
 
-
-## § 2 – Sonderposten zum Ausgleich von Stillegungsabschreibungen
+# § 2 – Sonderposten zum Ausgleich von Stillegungsabschreibungen
 
 (1) Sind bei der Ruhrkohle Aktiengesellschaft Abschreibungen auf Vermögensgegenstände des Sachanlagevermögens infolge von beabsichtigten oder durchgeführten Stillegungen oder sonstigen Maßnahmen zur Verwirklichung der Ziele des § 1 des Kohlegesetzes erforderlich, so darf die Ruhrkohle Aktiengesellschaft zum Ausgleich dieser Abschreibungen auf der Aktivseite ihrer Eröffnungsbilanz und ihrer künftigen Jahresbilanzen unter IIIa einen "Sonderposten zum Ausgleich von Stillegungsabschreibungen" einstellen.
 
@@ -26,15 +21,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Für die Feststellung, ob ein Verlust in Höhe der Hälfte des Grundkapitals besteht und ob die Gesellschaft überschuldet ist (§ 92 des Aktiengesetzes), bleiben bei der Ruhrkohle Aktiengesellschaft ihre Verpflichtungen aus Vergütungsverbindlichkeiten in der Höhe außer Betracht, in der ein Sonderposten nach den Absätzen 1 und 2 eingestellt werden darf.
 
-
-## § 3 – Verlustausgleichsrücklage
+# § 3 – Verlustausgleichsrücklage
 
 (1) Die Ruhrkohle Aktiengesellschaft hat auf die Dauer von zwanzig Jahren seit ihrer Eintragung in das Handelsregister einen Jahresüberschuß, soweit er nicht zum Ausgleich eines Verlustvortrags verwandt oder in die gesetzliche Rücklage eingestellt wird, in eine gesondert auszuweisende Verlustausgleichsrücklage einzustellen.
 
 (2) Die Verlustausgleichsrücklage darf während des in Absatz 1 genannten Zeitraums nur zu den in § 150 Abs. 3 des Aktiengesetzes bezeichneten Zwecken und dazu verwandt werden, den Sonderposten zum Ausgleich von Stillegungsabschreibungen ganz oder teilweise zu tilgen.
 
-
-## § 4 – Steuerliche Vorschriften
+# § 4 – Steuerliche Vorschriften
 
 (1) Die Vorschriften der §§ 1 und 2 gelten auch für die steuerliche Gewinnermittlung.
 
@@ -52,8 +45,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (8) Werden Kapitalgesellschaften, deren Anteile in zeitlichem und wirtschaftlichem Zusammenhang mit der Gründung der Ruhrkohle Aktiengesellschaft unmittelbar oder mittelbar auf diese übertragen werden, im Sinne der §§ 11 und 12 des Kohlegesetzes umgewandelt oder verschmolzen, so tritt in § 11 Abs. 5 Nr. 1 des Kohlegesetzes an die Stelle des 1. Januar 1970 der 1. Januar 1972.
 
-
-## § 5 – Gebührenbefreiung
+# § 5 – Gebührenbefreiung
 
 (1) Geschäfte und Verhandlungen, die den folgenden Zwecken dienen, sind von den in der Kostenordnung bestimmten Gebühren befreit:
 
@@ -81,14 +73,12 @@ Die Befreiung schließt Eintragungen und Löschungen in öffentlichen Büchern e
 
 (2) Die Befreiung gilt in den Fällen des Absatzes 1 Nr. 1 bis 4 für die Dauer von zehn Jahres seit Eintragung der Ruhrkohle Aktiengesellschaft in das Handelsregister.
 
-
-## § 6 – Rationalisierungsverband des Steinkohlenbergbaus
+# § 6 – Rationalisierungsverband des Steinkohlenbergbaus
 
 (1)
 
 (2) Änderungen und Ergänzungen der Satzungen des Verbandes, die mit Rücksicht auf Absatz 1 vorgenommen werden, bedürfen der Zustimmung des Bundesministeriums für Wirtschaft und Technologie.
 
-
-## Schlußformel
+# Schlußformel
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.

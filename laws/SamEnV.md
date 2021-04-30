@@ -1,10 +1,7 @@
-# [SamEnV] Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren   (Samenverordnung - SamEnV)
-
-Ausfertigungsdatum: 14.10.2008
-
+% Verordnung über die Gewinnung, Abgabe und Verwendung von Samen, Eizellen und Embryonen von Zuchttieren   (Samenverordnung - SamEnV)
+% Ausfertigungsdatum: 14.10.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz verordnet
 
@@ -14,11 +11,9 @@ auf Grund des § 8 Abs. 1 Nr. 1 Buchstabe c und d sowie Nr. 2 Buchstabe b und c,
 –  
 auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1, 7 und 13 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588):
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -30,13 +25,11 @@ Im Sinne dieser Verordnung sind
 
 4. sonstige Embryo-Entnahmeeinheit: Embryo-Entnahmeeinheit im Sinne des § 2 Nr. 16 in Verbindung mit § 15 Abs. 1 Satz 1 Nr. 2 und 3 des Tierzuchtgesetzes.
 
-
-## § 2 – Anforderungen an Einrichtungen einer Besamungsstation
+# § 2 – Anforderungen an Einrichtungen einer Besamungsstation
 
 Eine Besamungsstation verfügt über die für die Gewinnung, Behandlung, Lagerung und Abgabe von Samen erforderlichen Einrichtungen, wenn dort mindestens die in Anlage 1 genannten Einrichtungen vorhanden sind.
 
-
-## § 3 – Anforderungen beim Betrieb einer Besamungsstation
+# § 3 – Anforderungen beim Betrieb einer Besamungsstation
 
 Der Betreiber einer Besamungsstation hat sicherzustellen, dass
 
@@ -72,8 +65,7 @@ b) die Einhaltung der nach den Nummern 1 bis 3 sowie 8 bis 11 vorgeschriebenen T
 
 c) dabei festgestellte Mängel schriftlich aufzeichnet sowie unverzüglich deren Abstellung veranlasst oder dem Betreiber mitteilt.
 
-
-## § 4 – Ausnahmen
+# § 4 – Ausnahmen
 
 (1) Abweichend von § 3 Nr. 8 kann ein Hengst im Fall eines positiven Nachweises der Equinen Virusarteritis
 
@@ -107,15 +99,13 @@ Die Besamung darf nur auf einer Besamungsstation erfolgen. Die mit dem Samen des
 
 auf der Besamungsstation getrennt von anderen Equiden gehalten werden.
 
-
-## § 5 – Kennzeichnungsnummer der Besamungsstation
+# § 5 – Kennzeichnungsnummer der Besamungsstation
 
 (1) Mit der Erlaubnis nach § 17 Abs. 1 des Tierzuchtgesetzes erteilt die zuständige Behörde der Besamungsstation eine Nummer für die Kennzeichnung des von ihr gewonnenen Samens. Diese Kennzeichnungsnummer besteht aus den zwei Buchstaben der bestehenden Landeskennzeichnung des Landes, in dem die zuständige Behörde gelegen ist, gefolgt von dem Buchstaben B und einem Buchstaben für die jeweilige Tierart sowie einer Folge von vier Ziffern. Als Buchstabe für die jeweilige Tierart ist für Rinder der Buchstabe R, für Schweine der Buchstabe S, für Equiden der Buchstabe E und für Schafe und Ziegen der Buchstabe Z zu vergeben.
 
 (2) Die zuständige Behörde erteilt einer Besamungsstation, deren Erlaubnis nach § 28 Abs. 3 des Tierzuchtgesetzes fortgilt, innerhalb von zwei Wochen nach dem 29. Oktober 2008 eine Kennzeichnungsnummer entsprechend Absatz 1 Satz 2.
 
-
-## § 6 – Kennzeichnung von Samen
+# § 6 – Kennzeichnung von Samen
 
 (1) In einer Besamungsstation wird jede Samenportion unmittelbar nach ihrer Herstellung mindestens durch folgende Angaben gekennzeichnet:
 
@@ -137,8 +127,7 @@ Die Kennzeichnung nach Satz 1 muss dauerhaft und leicht lesbar sein.
 
 2. die Angaben aller Spendertiere umfasst.
 
-
-## § 7 – Aufzeichnungen über Gewinnung, Aufbereitung, Lagerung und Abgabe von Samen
+# § 7 – Aufzeichnungen über Gewinnung, Aufbereitung, Lagerung und Abgabe von Samen
 
 (1) Die nach § 17 Abs. 8 Satz 1 Nr. 1 des Tierzuchtgesetzes zu erstellenden Aufzeichnungen über die Gewinnung von Samen in einer Besamungsstation müssen für jedes Spendertier und für jedes Ejakulat folgende Angaben enthalten:
 
@@ -192,8 +181,7 @@ unverzüglich nach der Vernichtung aufzuzeichnen.
 
 (6) Die Aufzeichnungen nach Absatz 1 bis 4 sind mindestens fünf Jahre nach Inverkehrbringen oder Vernichtung des Samens in der Besamungsstation, sonstigen Besamungsstation oder in dem Samendepot aufzubewahren.
 
-
-## § 8 – Aufzeichnungen über die Verwendung von Samen
+# § 8 – Aufzeichnungen über die Verwendung von Samen
 
 (1) Für die nach § 14 Abs. 3 des Tierzuchtgesetzes erforderlichen Aufzeichnungen hat der Verwender mindestens folgende Angaben zu machen:
 
@@ -217,8 +205,7 @@ unverzüglich nach der Vernichtung aufzuzeichnen.
 
 gleich.
 
-
-## § 9 – Prüfeinsatz
+# § 9 – Prüfeinsatz
 
 (1) Die Zuchtorganisation darf Samen, der nach § 13 Abs. 3 Nr. 2 Buchstabe b des Tierzuchtgesetzes zum Prüfeinsatz von Zuchttieren bestimmt ist (Prüfsamen), nur zur Besamung von Tieren einsetzen,
 
@@ -250,13 +237,11 @@ Die Vorgaben nach Satz 1 und 2 gelten je Prüftier und sind auch dann einzuhalte
 
 (7) Die Zuchtorganisation, die den Prüfeinsatz durchführt, hat vor Beginn des Prüfeinsatzes der am Sitz der Zuchtorganisation zuständigen Behörde das für den Prüfeinsatz vorgesehene männliche Zuchttier durch Vorlage der neuesten Zucht- oder Herkunftsbescheinigung anzuzeigen.
 
-
-## § 10 – Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
+# § 10 – Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
 
 Die für die Gewinnung, Aufbereitung und Lagerung von Eizellen und Embryonen erforderlichen Einrichtungen einer Embryo-Entnahmeeinheit sind vorhanden, wenn die Embryo-Entnahmeeinheit mindestens über die in Anlage 3 genannten Einrichtungen verfügt.
 
-
-## § 11 – Anforderungen beim Betrieb einer Embryo-Entnahmeeinheit
+# § 11 – Anforderungen beim Betrieb einer Embryo-Entnahmeeinheit
 
 Der Betreiber einer Embryo-Entnahmeeinheit hat sicherzustellen, dass
 
@@ -280,15 +265,13 @@ a) die Einhaltung der nach den Nummern 1 bis 4, 6 und 7 vorgeschriebenen Tätigk
 
 b) dabei festgestellte Mängel schriftlich aufzeichnet sowie unverzüglich deren Abstellung veranlasst oder dem Betreiber mitteilt.
 
-
-## § 12 – Kennzeichnungsnummer der Embryo-Entnahmeeinheit
+# § 12 – Kennzeichnungsnummer der Embryo-Entnahmeeinheit
 
 (1) Mit der Erlaubnis nach § 17 Abs. 1 des Tierzuchtgesetzes erteilt die zuständige Behörde einer Embryo-Entnahmeeinheit eine Nummer für die Kennzeichnung der von ihr gewonnenen Eizellen und Embryonen. Diese Kennzeichnungsnummer besteht aus den zwei Buchstaben der bestehenden Landeskennzeichnung des Landes, in dem die zuständige Behörde gelegen ist, gefolgt von dem Buchstaben E und einem Buchstaben für die jeweilige Tierart sowie einer Folge von vier Ziffern. Als Buchstabe für die jeweilige Tierart ist für Rinder der Buchstabe R, für Schweine der Buchstabe S, für Equiden der Buchstabe E und für Schafe und Ziegen der Buchstabe Z zu vergeben.
 
 (2) Die zuständige Behörde erteilt einer Embryo-Entnahmeeinheit, deren Erlaubnisse nach § 28 Abs. 3 des Tierzuchtgesetzes fortgelten, innerhalb von zwei Wochen nach dem 29. Oktober 2008 eine Kennzeichnungsnummer nach Absatz 1 Satz 2.
 
-
-## § 13 – Kennzeichnung von Eizellen und Embryonen
+# § 13 – Kennzeichnung von Eizellen und Embryonen
 
 (1) Bei Gewinnung durch eine Embryo-Entnahmeeinheit sind die nicht zur unmittelbaren Übertragung vorgesehenen Eizellen und Embryonen unmittelbar nach ihrer Gewinnung mindestens durch folgende Angaben auf den Behältnissen zu kennzeichnen:
 
@@ -306,8 +289,7 @@ Bei Embryonen sind zusätzlich die Rasse, die Namen und die Zuchtbuch- oder die 
 
 (3) Die Angaben zur Kennzeichnung von Eizellen und Embryonen, die in sonstigen Embryo-Entnahmeeinheiten gewonnen, gelagert oder abgegeben werden, stehen den Angaben nach Absatz 1 gleich. Anstelle des Gewinnungsdatums nach Absatz 1 Satz 1 Nr. 1 wird das Entnahmedatum und anstelle der Kennzeichnungsnummer der herstellenden Embryo-Entnahmeeinheit nach Absatz 1 Satz 1 Nr. 4 wird die Veterinärkontrollnummer nach § 16 Satz 3 der Binnenmarkt-Tierseuchenschutzverordnung angegeben.
 
-
-## § 14 – Aufzeichnungen über Gewinnung, Aufbereitung, Lagerung und Abgabe von Eizellen und Embryonen
+# § 14 – Aufzeichnungen über Gewinnung, Aufbereitung, Lagerung und Abgabe von Eizellen und Embryonen
 
 (1) Die nach § 17 Abs. 8 Satz 1 Nr. 2 des Tierzuchtgesetzes zu erstellenden Aufzeichnungen über die Gewinnung und Aufbereitung von Eizellen oder Embryonen durch eine Embryo-Entnahmeeinheit müssen mindestens folgende Angaben enthalten:
 
@@ -337,8 +319,7 @@ Werden Embryonen unmittelbar übertragen, ist das Datum der Übertragung unverz�
 
 (5) Die Aufzeichnungen nach Absatz 1 bis 3 sind mindestens fünf Jahre nach Inverkehrbringen oder Vernichtung der Eizellen oder Embryonen in der Embryo-Entnahmeeinheit aufzubewahren.
 
-
-## § 15 – Aufzeichnungen über die Verwendung von Eizellen und Embryonen
+# § 15 – Aufzeichnungen über die Verwendung von Eizellen und Embryonen
 
 (1) Der Verwender nach § 16 Abs. 1 Tierzuchtgesetz, der nach § 16 Abs. 2 Tierzuchtgesetz Aufzeichnungen erstellt, hat dabei mindestens folgende Angaben zu machen:
 
@@ -356,8 +337,7 @@ Werden Embryonen unmittelbar übertragen, ist das Datum der Übertragung unverz�
 
 (2) Den Aufzeichnungen nach Absatz 1 stehen im automatisierten Verfahren oder in Informationssystemen erstellte Unterlagen gleich.
 
-
-## § 16 – Zugang zu Daten aus Leistungsprüfungen und Zuchtwertschätzung
+# § 16 – Zugang zu Daten aus Leistungsprüfungen und Zuchtwertschätzung
 
 (1) Daten und Ergebnisse einer Leistungsprüfung oder einer Zuchtwertschätzung, die nach § 7 Abs. 1 des Tierzuchtgesetzes von einer Zuchtorganisation oder im Falle des § 8 Abs. 3 Satz 1 Nr. 1 des Tierzuchtgesetzes durch die zuständige Behörde erhoben worden sind, müssen einer Besamungsstation oder einem Samendepot auf Verlangen von der Zuchtorganisation oder im Falle des § 8 Abs. 3 Satz 1 Nr. 1 des Tierzuchtgesetzes von der zuständigen Behörde zur Verfügung gestellt werden, soweit
 
@@ -375,8 +355,7 @@ Ein Anspruch auf Zugang zu züchterischen Daten und insbesondere Einzeltierdaten
 
 (3) Wird Prüfsamen entgegen § 13 Abs. 3 Nr. 2 Buchstabe b in Verbindung mit § 2 Nr. 9 des Tierzuchtgesetzes nicht im Rahmen eines Zuchtprogramms einer anerkannten Zuchtorganisation verwendet, werden die Ergebnisse einer Zuchtwertschätzung, die von einer Zuchtorganisation nach § 7 Abs. 1 des Tierzuchtgesetzes oder im Falle des § 8 Abs. 3 Satz 1 Nr. 1 des Tierzuchtgesetzes von einer zuständigen Behörde ermittelt wurden, nicht veröffentlicht. In diesem Falle besteht für eine Zuchtorganisation oder im Falle des § 8 Abs. 3 Satz 1 Nr. 1 des Tierzuchtgesetzes für die zuständige Behörde keine Verpflichtung, Daten oder Ergebnisse aus der Leistungsprüfung und Zuchtwertschätzung an eine Besamungsstation oder ein Samendepot weiterzugeben.
 
-
-## § 17 – Ordnungswidrigkeiten
+# § 17 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 4 des Tierzuchtgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -408,23 +387,19 @@ Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 4 des Tierzuchtgesetzes handelt, we
 
 14. einer Vorschrift des § 11 Nr. 6 über die Behandlung von Tieren und deren Eizellen und Embryonen zuwiderhandelt.
 
-
-## § 18 – Aufhebung von Rechtsverordnungen
+# § 18 – Aufhebung von Rechtsverordnungen
 
 \-
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt 14 Tage nach der Verkündung in Kraft. Abweichend von Satz 1 treten die §§ 5 und 12 am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 und § 3 Nr. 1, 5 und 6)Anforderungen an Einrichtungen einer Besamungsstation
+# Anlage 1 – (zu § 2 und § 3 Nr. 1, 5 und 6)Anforderungen an Einrichtungen einer Besamungsstation
 
 1. Sie verfügen zumindest über folgende Einrichtungen:
 
@@ -446,11 +421,9 @@ a) ein Kontakt zu Viehbeständen außerhalb der Station ausgeschlossen ist, ausg
 
 b) die gesamte Station, bis auf die Büroräume, leicht gereinigt und desinfiziert werden kann.
 
+# Anlage 2 – (zu § 3 Nr. 5, 6, 8 und 13 Buchstabe a, § 4 Abs. 1 und 2)Vorgeschriebene Untersuchungen an männlichen Tieren, die zur Gewinnung von Samen für die künstliche Besamung vorgesehen sind
 
-## Anlage 2 – (zu § 3 Nr. 5, 6, 8 und 13 Buchstabe a, § 4 Abs. 1 und 2)Vorgeschriebene Untersuchungen an männlichen Tieren, die zur Gewinnung von Samen für die künstliche Besamung vorgesehen sind
-
-
-## Anlage 3 – (zu § 10 und § 11 Nr. 1)Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
+# Anlage 3 – (zu § 10 und § 11 Nr. 1)Anforderungen an Einrichtungen einer Embryo-Entnahmeeinheit
 
 (Fundstelle: BGBl. I 2008, 2064)
 

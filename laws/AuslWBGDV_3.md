@@ -1,15 +1,11 @@
-# [AuslWBGDV 3] Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigtes Königreich von Großbritannien und Nordirland)
-
-Ausfertigungsdatum: 10.07.1953
-
+% Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigtes Königreich von Großbritannien und Nordirland)
+% Ausfertigungsdatum: 10.07.1953
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des § 76 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung:
 
-
-## § 1 – Geltungsbereich und Begriffsbestimmungen
+# § 1 – Geltungsbereich und Begriffsbestimmungen
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten oder bei einer Ergänzung (§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes), soweit das Vereinigte Königreich von Großbritannien und Nordirland als Begebungsland angegeben ist (im folgenden "Sterlingbonds" genannt).
 
@@ -17,20 +13,17 @@ Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des § 76 des
 
 § 1 Abs. 1 Kursivdruck: Gegenstandslose Ermächtigung
 
-
-## § 2 – Hinterlegung der Bonds
+# § 2 – Hinterlegung der Bonds
 
 Eine Hinterlegung von Sterlingbonds nach § 23 Abs. 2 des Gesetzes ist im Vereinigten Königreich von Großbritannien und Nordirland nur bei den für die Anleihe zuständigen Zahlungsagenten zulässig.
 
-
-## § 3 – Beweisführung
+# § 3 – Beweisführung
 
 (1) Durch die Bescheinigung einer Autorisierten Depotstelle (Absatz 2), daß der angemeldete Sterlingbond nach § 15 Abs. 2 des Exchange Control Act, 1947, bei ihr oder für sie verwahrt wird und daß die Voraussetzungen des § 16 Abs. 1 des genannten Gesetzes bei dem Bond vor dem Zeitpunkt, in welchem der Auslandsbevollmächtigte den Beginn des Bereinigungsverfahrens in London anzeigt, vorgelegen haben, wird, soweit sich nicht aus der Bescheinigung etwas anderes ergibt, bewiesen, daß der Bond ein Auslandsstück im Sinne des § 3 Abs. 2 des Gesetzes ist, und einen Anspruch auf Anerkennung des Bonds begründet.
 
 (2) Autorisierte Depotstellen im Sinne des Absatzes 1 sind die Personen, die nach dem Exchange Control Act, 1947, als solche zu handeln berechtigt sind.
 
-
-## § 4 – Gesetzliche Schiedsgerichte
+# § 4 – Gesetzliche Schiedsgerichte
 
 (1) Für die Nachprüfung ablehnender Entscheidungen des Auslandsbevollmächtigten wird nach § 35 des Gesetzes für das Vereinigte Königreich von Großbritannien und Nordirland ein Schiedsgericht eingerichtet. Das Schiedsgericht hat seinen Sitz in London.
 
@@ -50,17 +43,14 @@ Eine Hinterlegung von Sterlingbonds nach § 23 Abs. 2 des Gesetzes ist im Verein
 
 (9) Im übrigen bestimmt das Schiedsgericht sein Verfahren nach freiem Ermessen.
 
-
-## § 5 – Zustellungen
+# § 5 – Zustellungen
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können im Vereinigten Königreich von Großbritannien und Nordirland gemäß § 70 Abs. 2 des Gesetzes durch eingeschriebenen Brief gegen Rückschein bewirkt werden.
 
-
-## § 6 – Land Berlin
+# § 6 – Land Berlin
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt diese Rechtsverordnung auch im Land Berlin.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

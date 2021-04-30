@@ -1,10 +1,7 @@
-# [BLG] Bundesleistungsgesetz
-
-Ausfertigungsdatum: 19.10.1956
-
+% Bundesleistungsgesetz
+% Ausfertigungsdatum: 19.10.1956
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -128,8 +125,7 @@ FÜNFTER TEIL
 
 §§ 87 bis 97
 
-
-## § 1
+# § 1
 
 (1) Leistungen können angefordert werden
 
@@ -143,8 +139,7 @@ FÜNFTER TEIL
 
 (2) Die in § 5 Abs. 2 und § 38 vorgesehenen Befugnisse dürfen außer im Verteidigungsfall nur in Anspruch genommen werden, wenn die Bundesregierung festgestellt hat, daß dies zur beschleunigten Herstellung der Verteidigungsbereitschaft der Bundesrepublik notwendig ist. Die Bundesregierung hat die Feststellung aufzuheben, wenn die Voraussetzungen hierfür entfallen oder wenn der Bundestag und der Bundesrat es verlangen.
 
-
-## § 2
+# § 2
 
 (1) Als Leistungen können angefordert werden
 
@@ -172,8 +167,7 @@ FÜNFTER TEIL
 
 (3) Leistungen nach Absatz 1 Nr. 1, 3 bis 6 und 8 bis 10 dürfen nur auf bestimmte Zeit, und zwar Leistungen nach Nummer 10 längstens für die Dauer von einem Jahr, im übrigen längstens für die Dauer von zwei Jahren verlangt werden. Die erneute Anforderung dieser Leistungen auch im Anschluß an die bisherige Anforderung ist zulässig, im Fall der Nummer 5 jedoch nur einmal. Bei Erteilung eines Bereitstellungsbescheids (§ 36 Abs. 3) und während des Verteidigungsfalls oder nach einer Feststellung der Bundesregierung gemäß § 1 Abs. 2 finden die Sätze 1 und 2 keine Anwendung.
 
-
-## § 3
+# § 3
 
 (1) Leistungen dürfen nur angefordert werden, wenn der Bedarf auf andere Weise nicht oder nicht rechtzeitig oder nur mit unverhältnismäßigen Mitteln gedeckt werden kann. Die Anforderung ist auf das unerläßliche Maß zu beschränken.
 
@@ -187,8 +181,7 @@ FÜNFTER TEIL
 
 (6) Alle Anforderungen sind so zu gestalten und durchzuführen, daß keinem Betroffenen vermeidbare Nachteile entstehen. Der Lebensbedarf des Betroffenen muß gewährleistet bleiben.
 
-
-## § 4
+# § 4
 
 (1) Zu Leistungen können alle natürlichen und juristischen Personen sowie Personenvereinigungen innerhalb und außerhalb des Bundesgebiets mit ihren im Bundesgebiet befindlichen Vermögensgegenständen herangezogen werden. Gehören ihnen Seeschiffe, die die Bundesflagge führen, Binnenschiffe, die in einem Schiffsregister der Bundesrepublik eingetragen sind, oder Luftfahrzeuge, die in die Luftfahrzeugrolle der Bundesrepublik eingetragen sind, so können sie auch dann herangezogen werden, wenn das Schiff oder Luftfahrzeug sich außerhalb des Bundesgebiets befindet.
 
@@ -210,8 +203,7 @@ FÜNFTER TEIL
 
 (3) Soweit Gebäude oder bewegliche Sachen gemeinnützigen, religiösen, wohltätigen oder erzieherischen Aufgaben oder dem Unterricht oder der Forschung dienen, sollen sie nur zur Abwendung oder Beseitigung einer Gefahr oder einer Störung im Sinne des § 1 Abs. 1 Nr. 1 oder für Zwecke der Verteidigung im Sinne des § 1 Abs. 1 Nr. 2 angefordert werden; dasselbe gilt hinsichtlich der unmittelbar der Erfüllung der Aufgaben der Sozialversicherungsträger und ihrer Verbände dienenden Gebäude und beweglichen Sachen. Krankenhäuser, Heil- und Pflegeanstalten oder andere der Gesundheitspflege dienende Einrichtungen sollen ebenfalls nur zu den in Satz 1 genannten Zwecken angefordert werden.
 
-
-## § 5
+# § 5
 
 (1) Leistungen können nur Behörden anfordern, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates bestimmt werden (Anforderungsbehörden). Zu Anforderungsbehörden können auch Bundesbehörden bestimmt werden.
 
@@ -241,29 +233,25 @@ FÜNFTER TEIL
 
 (4) Bei Anforderungen nach Absatz 2 haben die Behörden der Bundeswehrverwaltung die Bedürfnisse für andere verteidigungswichtige Aufgaben und für den Schutz der Zivilbevölkerung zu berücksichtigen.
 
-
-## § 6
+# § 6
 
 (1) Obliegt die Ausführung dieses Gesetzes Anforderungsbehörden der Länder, so handeln sie im Auftrag des Bundes, soweit der Vollzug des Gesetzes der Verteidigung einschließlich des Schutzes der Zivilbevölkerung dient. Im übrigen kann die Bundesregierung Einzelweisungen erteilen, wenn und soweit die Anforderung der Leistung oder die Festsetzung der Entschädigung oder der Ersatzleistung eine einheitliche oder planmäßige Handhabung des Gesetzesvollzugs erfordert.
 
 (2) Anforderungsbehörden, die keine staatlichen Behörden sind, handeln kraft staatlichen Auftrags unter Haftung des Auftraggebers. Die Verwaltungskosten der Gemeinden und der Gemeindeverbände werden vom Land erstattet.
 
-
-## § 7
+# § 7
 
 (1) Die Anforderungsbehörden fordern die Leistungen in der Regel auf Antrag von Bedarfsträgern an. In dem Antrag sind der Grund der Anforderung, Art und Umfang des durch die Anforderung zu deckenden Bedarfs und der Zeitpunkt für die Bewirkung der Leistung anzugeben.
 
 (2) Die Bedarfsträger werden durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates bestimmt. Die Ermächtigung zum Erlaß der Rechtsverordnung kann auf die Landesregierungen übertragen werden.
 
-
-## § 8
+# § 8
 
 (1) Leistungsempfänger ist der Bedarfsträger, in den Fällen des § 1 Abs. 1 Nr. 3 der auswärtige Staat, für dessen Streitkräfte die Leistung angefordert wird.
 
 (2) Werden bauliche Anlagen oder Teile von baulichen Anlagen, Hausrat, Verkehrsmittel oder Verkehrsleistungen für die in § 1 Abs. 1 Nr. 1, 2 und 4 bezeichneten Zwecke auf Grund des § 2 Abs. 1 Nr. 1, 5 und 9 angefordert, so kann die Anforderungsbehörde denjenigen als Leistungsempfänger bestimmen, dem die genannten Anforderungsgegenstände zum Gebrauch überlassen oder für den die Verkehrsleistungen erbracht werden sollen. Satz 1 gilt entsprechend für die Anforderung von Verkehrsmitteln auf Grund des § 2 Abs. 1 Nr. 2 des Gesetzes.
 
-
-## § 9
+# § 9
 
 (1) Leistungspflichtiger ist
 
@@ -281,8 +269,7 @@ FÜNFTER TEIL
 
 (2) Im Einzelfall wird der Leistungspflichtige nach Maßgabe des Absatzes 1 von der Anforderungsbehörde bestimmt. Die Anforderungsbehörde überläßt die Bestimmung der einzelnen Leistungspflichtigen einer Gemeinde oder einem Gemeindeverband, wenn in deren Bezirk eine Mehrzahl von gleichartigen Leistungen erbracht werden soll und die Übertragung zur Beschleunigung der Anforderung erforderlich ist.
 
-
-## § 10
+# § 10
 
 (1) Der Eigentümer kann eine Anforderung nach § 2 Abs. 1 Nr. 2 verlangen, wenn eine Anforderung nach § 2 Abs. 1 Nr. 1 erfolgt ist und ihm die Leistung zum Gebrauch, zum Mitgebrauch oder zu anderer Nutzung nicht zugemutet werden kann. Das gleiche gilt, wenn infolge von Maßnahmen nach § 2 Abs. 1 Nr. 6 bis 8 die Sache nicht mehr in ihrer bisherigen oder in einer anderen dem Leistungspflichtigen zumutbaren Weise verwendet werden kann. Zuständig bleibt die Behörde, die die ursprüngliche Anforderung ausgesprochen hat.
 
@@ -292,18 +279,15 @@ FÜNFTER TEIL
 
 (4) Der Eigentümer kann der Anforderung eines Teils der Sache zu Eigentum widersprechen und die Anforderung der ganzen Sache zu Eigentum verlangen, wenn der andere Teil für ihn keinen oder nur einen unverhältnismäßig geringen Wert hätte.
 
-
-## § 11
+# § 11
 
 Eine Anforderung nach § 2 Abs. 1 Nr. 1 und 3 bis 6 bewirkt nicht, daß Rechtsverhältnisse erlöschen, die den Leistungspflichtigen gegenüber Dritten zur Nutzung der Sache berechtigen. Der Leistungspflichtige ist jedoch von der Verpflichtung zu wiederkehrenden Leistungen aus einem Miet- oder Pachtverhältnis befreit, solange ihm durch die Anforderung die Nutzung der Sache in vollem Umfang entzogen wird.
 
-
-## § 12
+# § 12
 
 Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 1, 3 bis 5, 7 und 8 dürfen auch diejenigen, die nicht Leistungspflichtige sind, Rechte zur Nutzung der Sache nicht ausüben, soweit diese den Rechten des Leistungsempfängers entgegenstehen würden. § 11 gilt sinngemäß.
 
-
-## § 13
+# § 13
 
 (1) Auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 2 hat der Leistungspflichtige dem Leistungsempfänger die angeforderte Sache herauszugeben. Übt ein anderer die tatsächliche Gewalt über die Sache aus, so ist auch dieser zur Herausgabe verpflichtet.
 
@@ -315,13 +299,11 @@ Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 1, 3 bis 5, 7 und 8 dürfen auch
 
 (5) Mit dem Eigentumserwerb nach Absatz 2 oder 3 erlöschen die bisherigen Rechte an der angeforderten Sache und die persönlichen Rechte, die zum Besitz oder zur Nutzung der Sache berechtigen. Im Fall des Absatzes 3 gilt bis zum Eigentumserwerb des Leistungsempfängers § 11 sinngemäß.
 
-
-## § 14
+# § 14
 
 Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 10 gilt als bindendes Vertragsangebot des Leistungspflichtigen. Eine Annahme des Angebots hat der Leistungsempfänger dem Leistungspflichtigen gegenüber unverzüglich zu erklären.
 
-
-## § 15
+# § 15
 
 (1) Alle natürlichen und juristischen Personen, Personenvereinigungen, Behörden und Einrichtungen haben, soweit sie nicht einer gesetzlichen Schweigepflicht unterliegen, den Anforderungsbehörden auf Verlangen alle zur Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen und die vorhandenen Unterlagen vorzulegen. Die Auskunfts- und Vorlagepflicht erstreckt sich auch auf Planungen für die Herstellung oder Veränderung von Gegenständen, für die ein Bedarf festgestellt ist, der nach diesem Gesetz gedeckt werden soll.
 
@@ -331,8 +313,7 @@ Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 10 gilt a
 
 (4) Auf die nach den Absätzen 1 und 2 erlangten Kenntnisse und Unterlagen sind §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-
-## § 16
+# § 16
 
 (1) Der Leistungspflichtige ist zu Handlungen, Duldungen und Unterlassungen verpflichtet, die zur ordnungsmäßigen Vorbereitung der Leistung notwendig sind.
 
@@ -340,8 +321,7 @@ Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 10 gilt a
 
 (3) Anforderungsbehörde für die Leistungsvorbereitungen ist die für die Anforderung der Leistung zuständige Behörde.
 
-
-## § 17
+# § 17
 
 (1) Auf Grund der Anforderung hat der Leistungspflichtige die angeforderte Leistung rechtzeitig, ordnungsgemäß und vollständig zu bewirken. Ist kein Zeitpunkt oder keine Frist für die Leistung bestimmt, so ist sie unverzüglich zu erbringen.
 
@@ -353,8 +333,7 @@ Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 10 gilt a
 
 (5) Der Leistungsempfänger ist berechtigt und auf Verlangen des Leistungspflichtigen verpflichtet, eine Einrichtung, mit der er die Sache versehen hat, wegzunehmen. Im Fall der Wegnahme ist er verpflichtet, die Sache auf seine Kosten in den vorigen Stand zu versetzen. § 258 Satz 2 des Bürgerlichen Gesetzbuchs gilt sinngemäß.
 
-
-## § 18
+# § 18
 
 (1) Der Leistungsempfänger ist verpflichtet, die Leistung abzunehmen und dem Leistungspflichtigen ihren Empfang schriftlich zu bestätigen.
 
@@ -362,13 +341,11 @@ Der Leistungsbescheid auf Grund einer Anforderung nach § 2 Abs. 1 Nr. 10 gilt a
 
 (3) Die Verpflichtungen des Leistungsempfängers, für die empfangene Leistung eine Entschädigung zu zahlen oder Ersatz zu leisten, bestimmen sich nach den Vorschriften des Sechsten Abschnitts.
 
-
-## § 19
+# § 19
 
 Die Vorschriften des § 17 Abs. 1 und 2 über die Pflichten des Leistungspflichtigen gelten sinngemäß für den nach § 13 Abs. 1 Satz 2 Herausgabepflichtigen. Ihm ist gleichfalls der Empfang der Leistung schriftlich zu bestätigen.
 
-
-## § 20
+# § 20
 
 (1) Im Fall der Anforderung nach § 2 Abs. 1 Nr. 1 und 3 bis 8 hat der Leistungsempfänger eine Entschädigung zu zahlen, die sich nach dem für vergleichbare Leistungen im Wirtschaftsverkehr üblichen Entgelt bemißt. Fehlt es an vergleichbaren Leistungen oder ist ein übliches Entgelt nicht zu ermitteln, so ist die Entschädigung unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Die Entschädigung ist für die Zeit bis zur Rückgabe der angeforderten Sache oder, wenn die Rückgabe der angeforderten Sache unmöglich wird, bis zum Eintritt des Umstands zu gewähren, der die Unmöglichkeit der Rückgabe zur Folge hat; bei Anforderungen nach § 2 Abs. 1 Nr. 6 bis 8 ist an Stelle des Zeitpunkts der Rückgabe der Zeitpunkt maßgeblich, in dem die Verpflichtung zur Unterlassung oder zur Duldung wegfällt. Die Entschädigung ist in der Regel in monatlichen Teilbeträgen nachträglich zu zahlen.
 
@@ -376,20 +353,17 @@ Die Vorschriften des § 17 Abs. 1 und 2 über die Pflichten des Leistungspflicht
 
 (3) Bei der Bemessung der Entschädigung werden Mängel der Sache nur berücksichtigt, wenn der Leistungsempfänger dem Leistungspflichtigen die Mängel rechtzeitig angezeigt hat. Eine Anzeige ist rechtzeitig, wenn sie bei Mängeln, die bei der Überlassung erkennbar waren, innerhalb von zwei Wochen seit der Überlassung, bei anderen Mängeln innerhalb von zwei Wochen seit der Entdeckung, spätestens jedoch innerhalb von sechs Monaten seit der Überlassung erfolgt. Zur Wahrung der Frist genügt die rechtzeitige Absendung der Anzeige.
 
-
-## § 21
+# § 21
 
 Für Vermögensnachteile, die nicht schon durch die Entschädigung nach § 20 abgegolten sind, hat der Leistungsempfänger eine Entschädigung zu zahlen, die unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen ist. Für entgangenen Gewinn und für sonstige Vermögensnachteile, die nicht in unmittelbarem Zusammenhang mit dem Entzug der Nutzung stehen, ist eine Entschädigung zu zahlen, wenn und soweit dies zur Abwendung oder zum Ausgleich unbilliger Härten geboten erscheint. Die üblichen Umzugskosten sind in jedem Fall zu ersetzen.
 
-
-## § 22
+# § 22
 
 (1) Im Falle einer Anforderung nach § 2 Abs. 1 Nr. 9 hat der Leistungsempfänger eine Entschädigung zu zahlen, die sich nach den im Wirtschaftsverkehr für vergleichbare Leistungen üblichen Entgelten und Tarifen bemißt.
 
 (2) Im Fall einer Anforderung nach § 2 Abs. 1 Nr. 10 hat der Leistungsempfänger für Leistungen, die auf Grund des Vertrags erbracht werden, eine nach Absatz 1 zu bemessende Entschädigung zu zahlen, sofern nicht ein Entgelt vereinbart ist.
 
-
-## § 23
+# § 23
 
 (1) Die Entschädigung nach § 20 kann verlangen
 
@@ -405,18 +379,15 @@ Für Vermögensnachteile, die nicht schon durch die Entschädigung nach § 20 ab
 
 (4) Dinglich an der Sache Berechtigte, die durch die Anforderung in ihren Rechten betroffen werden, sind nach Maßgabe der Artikel 52, 53 und 53a des Einführungsgesetzes zum Bürgerlichen Gesetzbuch auf die Entschädigung des Eigentümers nach § 20 angewiesen.
 
-
-## § 24
+# § 24
 
 Für Leistungsvorbereitungen (§ 16) sowie für Schäden, die infolge einer Beschlagnahme (§ 45) entstehen, ist dem Leistungspflichtigen eine angemessene Entschädigung zu zahlen.
 
-
-## § 25
+# § 25
 
 Im Fall einer Anforderung nach § 2 Abs. 1 Nr. 7 ist dem Eigentümer für seine zur Durchführung dieser Maßnahmen notwendigen besonderen Aufwendungen auf Verlangen angemessenen Vorschuß zu leisten. Dies gilt sinngemäß im Fall des § 16 Abs. 1.
 
-
-## § 26
+# § 26
 
 (1) Kann der Leistungsempfänger eine angeforderte Sache, zu deren Rückgabe er verpflichtet ist, nicht zurückgeben oder gibt er sie in verschlechtertem oder beschädigtem Zustand zurück, so hat er dem Eigentümer Ersatz zu leisten.
 
@@ -432,13 +403,11 @@ Im Fall einer Anforderung nach § 2 Abs. 1 Nr. 7 ist dem Eigentümer für seine 
 
 (7) Kann eine angeforderte Sache nach Rückgabe ganz oder zum Teil nicht alsbald wieder genutzt werden, weil Schäden an ihr behoben werden müssen, so hat der Leistungsempfänger für die hierdurch entstehenden Vermögensnachteile nach Maßgabe des § 21 Entschädigung zu leisten.
 
-
-## § 27
+# § 27
 
 Hat die Anforderungsbehörde einen anderen als einen Bedarfsträger zum Leistungsempfänger bestimmt (§ 8 Abs. 2), so hat der Leistungsempfänger Ersatz nach § 26 Abs. 1 nur zu leisten, wenn sich eine Ersatzpflicht bei sinngemäßer Anwendung der Vorschriften des bürgerlichen Rechts ergibt.
 
-
-## § 28
+# § 28
 
 (1) Körper- und Gesundheitsschäden, Schäden durch Verlust, Beschädigung oder Verschlechterung anderer als der angeforderten Sachen sowie Haftpflichtschäden, die der Leistungspflichtige, seine Erfüllungsgehilfen oder der nach § 13 Abs. 1 Satz 2 Herausgabepflichtige infolge der Erfüllung einer auf der Anforderung beruhenden Leistung erleiden, hat der Leistungsempfänger, in den Fällen des § 8 Abs. 2 der Bedarfsträger den Geschädigten angemessen zu ersetzen, soweit diese nicht auf andere Weise Ersatz zu erlangen vermögen.
 
@@ -448,25 +417,21 @@ Hat die Anforderungsbehörde einen anderen als einen Bedarfsträger zum Leistung
 
 § 28 Abs. 3: Aufgeh. durch § 34 Abs. 1 Satz 2 Nr. 7 G v. 26.6.1981 I 553, gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig
 
-
-## § 29
+# § 29
 
 (1) Wird die Entschädigung oder Ersatzleistung nicht innerhalb eines Monats nach Einigung (§ 51) oder Festsetzung, bei wiederkehrenden Leistungen nicht innerhalb eines Monats nach der sich aus der Einigung oder Festsetzung ergebenden Fälligkeit gezahlt, so ist sie von diesem Zeitpunkt an mit zwei vom Hundert über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen. Das gilt nicht, soweit den zur Entschädigung oder Ersatzleistung Berechtigten ein Verschulden an der Verzögerung der Zahlung trifft. Soweit der Berechtigte auf die Entschädigung oder Ersatzleistung Vorauszahlungen erhalten hat, entfällt die Verpflichtung zur Verzinsung.
 
 (2) Erfolgt die Einigung oder Festsetzung nicht innerhalb dreier Monate nach Bewirkung der Leistung oder der Fälligkeit des Ersatzanspruchs in den Fällen der §§ 26, 27 und 28, so sind die in Absatz 1 genannten Zinsen von diesem Zeitpunkt an zu zahlen.
 
-
-## § 30
+# § 30
 
 In den Fällen der §§ 26 und 28 ist der Leistungsempfänger zur Ersatzleistung nur gegen Abtretung der Ansprüche verpflichtet, die dem Ersatzberechtigten auf Grund des Ereignisses, auf dem die Ersatzpflicht des Leistungsempfängers beruht, gegen andere Personen zustehen. Dies gilt im Fall des § 26 nicht für Ansprüche aus einem Versicherungsverhältnis.
 
-
-## § 31
+# § 31
 
 Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der Entschädigung und Ersatzleistung.
 
-
-## § 32
+# § 32
 
 (1) Eine Entschädigung nach den §§ 20 bis 22 und 24 sowie eine Ersatzleistung nach den §§ 26 und 27 wird nicht gezahlt, soweit einem Entschädigungs- oder Ersatzberechtigten infolge der Anforderung Vermögensvorteile erwachsen.
 
@@ -474,8 +439,7 @@ Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der Entschädi
 
 (3) Eine Pflicht zur Ersatzleistung nach den §§ 26 bis 28 besteht nicht, wenn der Schaden auch ohne die Anforderung eingetreten wäre.
 
-
-## § 33
+# § 33
 
 (1) Hat die Anforderungsbehörde einen anderen als einen Bedarfsträger zum Leistungsempfänger bestimmt (§ 8 Abs. 2) und erfüllt dieser seine Verbindlichkeiten nicht binnen drei Wochen seit ihrer Fälligkeit, so haftet für die Erfüllung dieser Verbindlichkeiten der Bedarfsträger; im Fall des § 27 haftet er jedoch nur nach Maßgabe des § 26.
 
@@ -485,8 +449,7 @@ Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der Entschädi
 
 (4) Im Fall des Absatzes 2 gilt § 30 sinngemäß.
 
-
-## § 34
+# § 34
 
 (1) Nach diesem Gesetz begründete Zahlungsansprüche verjähren in vier Jahren. Die Verjährung beginnt mit dem Schluß des Jahres, in dem der Anspruch entsteht. Die §§ 202 bis 225 des Bürgerlichen Gesetzbuchs gelten sinngemäß; der Klageerhebung (§ 209 des Bürgerlichen Gesetzbuchs) steht die Stellung des Antrags bei der Anforderungsbehörde gleich.
 
@@ -494,13 +457,11 @@ Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der Entschädi
 
 (3) Die Vorschriften über den Verlust von Ansprüchen nach Artikel 8 Abs. 6 des Finanzvertrags sowie nach Artikel 6 und 7 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183) bleiben unberührt.
 
-
-## § 35
+# § 35
 
 Leistungen werden von der Anforderungsbehörde durch Leistungsbescheid angefordert.
 
-
-## § 36
+# § 36
 
 (1) Der Leistungsbescheid bedarf der Schriftform. In ihm müssen der Grund der Anforderung, die Anforderungsbehörde, der Gegenstand und der Zeitpunkt der Leistung, der Bedarfsträger, der Leistungspflichtige und der Leistungsempfänger bezeichnet werden.
 
@@ -512,8 +473,7 @@ Leistungen werden von der Anforderungsbehörde durch Leistungsbescheid angeforde
 
 (5) Die Anforderungsbehörde ist verpflichtet, in dem Leistungsbescheid die gesetzlichen Grundlagen der Anforderung zu bezeichnen. Sie muß eine Rechtsmittelbelehrung erteilen.
 
-
-## § 37
+# § 37
 
 (1) Der Leistungsbescheid ist dem Leistungspflichtigen (§ 9) zuzustellen.
 
@@ -525,33 +485,27 @@ Leistungen werden von der Anforderungsbehörde durch Leistungsbescheid angeforde
 
 (5) Der Leistungsbescheid soll auch allen der Anforderungsbehörde bekannten Personen zugestellt werden, die durch die Anforderung in ihren Rechten betroffen werden.
 
-
-## § 38
+# § 38
 
 Soll im Verteidigungsfall oder nach einer Feststellung der Bundesregierung gemäß § 1 Abs. 2 ein Verkehrsmittel nach § 2 Abs. 1 Nr. 1 angefordert werden und kann der Leistungsbescheid dem Leistungspflichtigen nicht oder nicht ohne eine den Zweck der Anforderung gefährdende Verzögerung zugestellt werden, so kann die Zustellung an die in § 37 Abs. 3 bezeichneten Personen oder - wenn die Zustellung an diese Personen aus den gleichen Gründen undurchführbar wäre - an den Führer des Verkehrsmittels erfolgen. Unter denselben Voraussetzungen ist die Zustellung an den Führer des Verkehrsmittels auch bei der Anforderung von Verkehrsleistungen gemäß § 2 Abs. 1 Nr. 9 zulässig, sofern die Ausführung von Verkehrsleistungen zum Gewerbebetrieb gehört oder das Fahrzeug dem Werkverkehr dient. § 37 Abs. 2 Satz 2, Abs. 4 und 5 gilt entsprechend.
 
-
-## § 39
+# § 39
 
 Auf Antrag des Bedarfsträgers hat die Anforderungsbehörde die sofortige Vollziehung des Leistungsbescheids anzuordnen. In diesem Fall kann die Widerspruchsbehörde die Vollziehung nicht aussetzen.
 
-
-## § 40
+# § 40
 
 Leistungsvorbereitungen nach § 16 sind schriftlich anzufordern.
 
-
-## § 41
+# § 41
 
 Zur Sicherung des Beweises soll, soweit es sachdienlich und unter den gegebenen Umständen möglich ist, der Zustand einer angeforderten Sache auf Antrag der Beteiligten durch Sachverständige festgestellt und ihr Wert geschätzt werden. Hierüber ist eine Niederschrift aufzunehmen, die den Beteiligten zuzustellen ist.
 
-
-## § 42
+# § 42
 
 Bietet der Leistungspflichtige dem Leistungsempfänger zu angemessenen Bedingungen den Abschluß eines Rechtsgeschäfts an, auf Grund dessen die angeforderte Leistung fortan zu erbringen ist, und erscheint die Erfüllung des Rechtsgeschäfts hinreichend gesichert, so ist der Leistungsbescheid aufzuheben, wenn der Leistungsempfänger den Abschluß des Rechtsgeschäfts ohne berechtigten Grund ablehnt.
 
-
-## § 43
+# § 43
 
 (1) Fallen die Voraussetzungen der Anforderung weg, so hat die Anforderungsbehörde
 
@@ -569,15 +523,13 @@ Bei Anforderung von Wohnraum ist in Abständen von längstens sechs Monaten, beg
 
 (3) In den Fällen des Absatzes 1 Nr. 2 sind die für die Anforderung einer Sache zu Eigentum geltenden Vorschriften sinngemäß anzuwenden. Bei der Bemessung der dem Leistungsempfänger zu zahlenden Entschädigung ist der Betrag der auf Grund der Anforderung nach § 20 Abs. 2 gezahlten Entschädigung zugrunde zu legen. Eine in der Zwischenzeit eingetretene Veränderung des Wertes der Sache ist zu berücksichtigen.
 
-
-## § 44
+# § 44
 
 (1) Auf die Erzwingung von Handlungen, Duldungen oder Unterlassungen, die nach diesem Gesetz angefordert werden, sind die Vorschriften des Verwaltungs-Vollstreckungsgesetzes vom 27. April 1953 (Bundesgesetzbl. I S. 157) entsprechend anzuwenden. Gegen Leistungsempfänger, die Bedarfsträger sind, darf der Verwaltungszwang nicht angewandt werden.
 
 (2) Vollzugsbehörde ist die Anforderungsbehörde oder die Behörde, die von der Landesregierung bestimmt wird. Die Vollzugsbehörde kann die Verwaltungshilfe anderer Behörden in Anspruch nehmen.
 
-
-## § 45
+# § 45
 
 (1) Die Anforderungsbehörde kann zur Sicherstellung einer anzufordernden Leistung die Beschlagnahme der Sache anordnen, auf die sich ein zu erlassender Leistungsbescheid beziehen soll. Die Beschlagnahme wird mit der Zustellung der Anordnung an denjenigen wirksam, der bei einer Anforderung Leistungspflichtiger sein würde.
 
@@ -585,13 +537,11 @@ Bei Anforderung von Wohnraum ist in Abständen von längstens sechs Monaten, beg
 
 (3) Beschlagnahmen werden unwirksam, wenn die Leistung nicht innerhalb zweier Monate angefordert wird.
 
-
-## § 46
+# § 46
 
 (weggefallen)
 
-
-## § 47
+# § 47
 
 Für die Zustellungen durch die Verwaltungsbehörde nach diesem Gesetz gelten die Vorschriften des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
 
@@ -599,25 +549,21 @@ Für die Zustellungen durch die Verwaltungsbehörde nach diesem Gesetz gelten di
 
 2. Zustellungen an Führer von Seeschiffen, Binnenschiffen und Luftfahrzeugen können auch durch Funkspruch vorgenommen werden. Eine Ausfertigung des Bescheids ist gleichzeitig dem leistungspflichtigen Eigentümer oder Besitzer zu übermitteln.
 
-
-## § 48
+# § 48
 
 (1) Das Verfahren vor den Verwaltungsbehörden ist kostenfrei. Dem Leistungspflichtigen können jedoch Auslagen insoweit auferlegt werden, als er sie durch grobes Verschulden verursacht hat.
 
 (2) Auslagen, die dem Leistungspflichtigen durch das Verfahren entstanden sind, werden ihm erstattet, wenn sie zur zweckentsprechenden Wahrnehmung seiner Rechte notwendig waren und sich sein Antrag als begründet erweist.
 
-
-## § 49
+# § 49
 
 Entschädigung und Ersatzleistung werden durch die Anforderungsbehörden festgesetzt.
 
-
-## § 50
+# § 50
 
 Wer Anspruch auf Entschädigung oder Ersatzleistung erhebt, hat der Anforderungsbehörde schriftlich oder zur Niederschrift zu erklären, ob und welche anderen Personen nach seiner Kenntnis ein Recht auf die Entschädigung oder Ersatzleistung geltend machen oder geltend machen können. Die Erklärung ist dem Zahlungspflichtigen und den als Berechtigte benannten Personen zuzustellen.
 
-
-## § 51
+# § 51
 
 (1) Vor der Festsetzung der Entschädigung oder der Ersatzleistung hat die Anforderungsbehörde durch einen Vorschlag auf eine gütliche Einigung der Beteiligten hinzuwirken. Beteiligte sind der Zahlungspflichtige und die der Anforderungsbehörde bekannten Berechtigten.
 
@@ -629,22 +575,19 @@ Wer Anspruch auf Entschädigung oder Ersatzleistung erhebt, hat der Anforderungs
 
 (5) Besteht bei der Anforderungsbehörde Ungewißheit über die Person des Zahlungsempfängers, so hat sie anzuordnen, daß der als Entschädigung oder Ersatzleistung zu zahlende Geldbetrag unter Verzicht auf das Recht der Rücknahme zu hinterlegen ist.
 
-
-## § 52
+# § 52
 
 (1) Die Niederschrift über die Einigung nach § 51 Abs. 2 ist nach Zustellung an die Beteiligten vollstreckbar. Der Festsetzungsbescheid nach § 51 Abs. 3 ist den Beteiligten gegenüber vollstreckbar, wenn er für diese unanfechtbar geworden ist oder das Gericht ihn für vorläufig vollstreckbar erklärt hat.
 
 (2) Die Zwangsvollstreckung richtet sich nach den Vorschriften der Zivilprozeßordnung über die Vollstreckung von Urteilen in bürgerlichen Rechtsstreitigkeiten. Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der Geschäftsstelle des Amtsgerichts erteilt, in dessen Bezirk die mit dem Festsetzungsverfahren befaßte Behörde ihren Sitz hat, und, wenn das Verfahren bei einem Gericht anhängig ist, von dem Urkundsbeamten der Geschäftsstelle dieses Gerichts. In den Fällen der §§ 731, 767 bis 770, 785, 786, 791 der Zivilprozeßordnung tritt das Amtsgericht, in dessen Bezirk die mit dem Festsetzungsverfahren befaßte Behörde ihren Sitz hat, an die Stelle des Prozeßgerichts.
 
-
-## § 53
+# § 53
 
 (1) Hat der Entschädigungsberechtigte im Fall einer Anforderung nach § 2 Abs. 1 Nr. 2 gegenüber der Anforderungsbehörde gemäß § 50 erklärt, daß er infolge der Anforderung eine Verpflichtung zur Übereignung der Sache nicht erfüllen könne oder daß ihm die Sache zur Sicherung übereignet sei, so hat die Behörde anzuordnen, daß der Entschädigungsbetrag unter Verzicht auf das Recht der Rücknahme zu hinterlegen ist. Das gleiche gilt, wenn ein Dritter gegenüber der Behörde Rechte aus einem Rechtsverhältnis der in Satz 1 bezeichneten Art angemeldet hat.
 
 (2) Im Verhältnis zwischen den Beteiligten tritt der hinterlegte Betrag an die Stelle der Sache. Im übrigen bestimmen sich die Rechte auf den hinterlegten Betrag nach dem zwischen den Beteiligten bestehenden Rechtsverhältnis.
 
-
-## § 54
+# § 54
 
 (1) Durch Hinterlegung in den Fällen des § 51 Abs. 5 und des § 53 wird der Zahlungspflichtige von seiner Zahlungspflicht befreit.
 
@@ -652,27 +595,23 @@ Wer Anspruch auf Entschädigung oder Ersatzleistung erhebt, hat der Anforderungs
 
 (3) Andere Vorschriften, nach denen die Hinterlegung geboten oder statthaft ist, bleiben unberührt.
 
-
-## § 55
+# § 55
 
 Wird der als Entschädigung oder Ersatzleistung zu zahlende Betrag nach Maßgabe der Vorschriften dieses Gesetzes hinterlegt, so kann jeder Beteiligte sein Recht an dem hinterlegten Betrag gegen einen Mitbeteiligten, der dieses Recht bestreitet, vor den ordentlichen Gerichten geltend machen oder die Einleitung des gerichtlichen Verteilungsverfahrens beantragen. Für das Verteilungsverfahren ist das Amtsgericht zuständig, bei dem der Betrag hinterlegt worden ist. Die Vorschriften der Zivilprozeßordnung über das Verteilungsverfahren sind sinngemäß anzuwenden; ist die Hinterlegung durch die Anforderung eines Grundstücks, eines eingetragenen Schiffes oder Schiffbauwerks oder eines in der Luftfahrzeugrolle oder im Register für Pfandrechte an Luftfahrzeugen eingetragenen Luftfahrzeugs oder durch die Anforderung einer Sache veranlaßt, auf die sich ein Grundpfandrecht, eine Schiffshypothek oder ein Registerpfandrecht eines Beteiligten erstreckt, so sind auf das Verteilungsverfahren die Vorschriften über die Verteilung des Erlöses im Fall der Zwangsversteigerung sinngemäß anzuwenden.
 
-
-## § 56
+# § 56
 
 (1) Der Bundesminister der Finanzen kann bei den Anforderungsbehörden Vertreter des Finanzinteresses bestellen.
 
 (2) Der Vertreter des Finanzinteresses ist Beteiligter am Festsetzungsverfahren im Sinne des § 51, sofern er nicht auf die Beteiligung verzichtet.
 
-
-## § 57
+# § 57
 
 (1) Ist ein Festsetzungsbescheid von der unteren Verwaltungsbehörde erlassen worden, so können die am Festsetzungsverfahren Beteiligten innerhalb zweier Wochen seit Zustellung des Festsetzungsbescheids Beschwerde einlegen. Über die Beschwerde entscheidet die Aufsichtsbehörde.
 
 (2) Die Entscheidung über die Beschwerde ist den am Festsetzungsverfahren Beteiligten zuzustellen.
 
-
-## § 58
+# § 58
 
 (1) Wegen der Festsetzung der Entschädigung oder der Ersatzleistung kann ein Beteiligter binnen einer Frist von zwei Monaten nach Zustellung der Beschwerdeentscheidung Klage erheben. Ist eine Beschwerde gegen den Festsetzungsbescheid nicht zulässig, so beginnt der Lauf der Frist mit der Zustellung des Festsetzungsbescheids. Die Klage kann auch erhoben werden, wenn die Anforderungsbehörde über einen Festsetzungsantrag oder die Aufsichtsbehörde über eine Beschwerde innerhalb einer Frist von drei Monaten eine Entscheidung nicht getroffen hat.
 
@@ -682,25 +621,21 @@ Wird der als Entschädigung oder Ersatzleistung zu zahlende Betrag nach Maßgabe
 
 (4) Das Gericht kann im Fall des Absatzes 3 Satz 2 auf Antrag des Berechtigten den Festsetzungsbescheid für vorläufig vollstreckbar erklären. Über den Antrag kann durch Beschluß vorab entschieden werden. Der Beschluß ist nicht anfechtbar. Die §§ 711 bis 720 der Zivilprozeßordnung sind entsprechend anzuwenden.
 
-
-## § 59
+# § 59
 
 Hat eine oberste Bundes- oder Landesbehörde die Entschädigung oder Ersatzleistung festgesetzt, so ist die Klage vor dem ordentlichen Gericht binnen zwei Monaten nach Zustellung des Festsetzungsbescheids zu erheben.
 
-
-## § 60
+# § 60
 
 (1) Die Festsetzung von Entschädigungen für Leistungen zugunsten der in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte erfolgt im Benehmen mit den Behörden der beteiligten Macht (Artikel 12 Abs. 3 des Finanzvertrages vom 26. Mai 1952). In diesen Fällen steht die Bundesrepublik für die Erfüllung der Verpflichtung ein. Rechtsstreitigkeiten wegen der Festsetzung der Entschädigung oder Ersatzleistung werden von der Bundesrepublik im eigenen Namen geführt.
 
 (2) Das Verfahren für die Festsetzung des Ersatzes von Schäden, für welche die in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte nach den §§ 26 und 28 ersatzpflichtig sind, sowie die Fristen für die Geltendmachung der Ansprüche auf solche Ersatzleistungen werden durch Artikel 8 des Finanzvertrags vom 26. Mai 1952 bestimmt. Sind die Schäden nach dem Inkrafttreten des NATO-Truppenstatuts und des Zusatzabkommens zum NATO-Truppenstatut verursacht worden oder gelten sie als nach diesem Zeitpunkt verursacht, so treten an die Stelle des Artikels 8 des Finanzvertrags Artikel VIII des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183). Absatz 1 Satz 2 findet Anwendung.
 
-
-## § 61
+# § 61
 
 \-
 
-
-## § 62
+# § 62
 
 (1) Ist durch Vorauszahlungen auf eine noch nicht festgesetzte Entschädigung oder Ersatzleistung eine Überzahlung eingetreten, so hat die Anforderungsbehörde die Rückzahlung des zuviel gezahlten Betrags durch Rückzahlungsbescheid anzuordnen. Von der Anordnung ist abzusehen, wenn die Rückforderung zu einer unbilligen Härte führen würde.
 
@@ -708,35 +643,29 @@ Hat eine oberste Bundes- oder Landesbehörde die Entschädigung oder Ersatzleist
 
 (3) Auf das Verfahren einschließlich der Zwangsvollstreckung sind die Vorschriften der §§ 51 bis 61 sinngemäß anzuwenden.
 
-
-## § 63
+# § 63
 
 Die Vorschriften dieses Abschnitts gelten für den Anspruch auf Ersatz von Verwendungen (§ 17 Abs. 2 und 4) sinngemäß.
 
-
-## § 64
+# § 64
 
 Für die Zustellungen im Festsetzungsverfahren gilt § 47 entsprechend.
 
-
-## § 65
+# § 65
 
 Für die Kosten des Festsetzungsverfahrens gilt § 48 entsprechend.
 
-
-## § 66
+# § 66
 
 (1) Wenn uniformierte Verbände oder Einheiten (Truppen), die berechtigt sind, im Bundesgebiet Manöver oder andere Übungen abzuhalten, solche Manöver oder andere Übungen durchführen, gelten unbeschadet einschränkender Bedingungen, die für den Einzelfall von den zuständigen zivilen Verwaltungsbehörden festgelegt werden, die Vorschriften dieses Teils. Das gleiche gilt für die von der Truppe zugezogenen Hilfskräfte, soweit diese an Manövern oder anderen Übungen von Truppen teilnehmen, sowie für die Verbände und Einheiten des zivilen Bevölkerungsschutzes.
 
 (2) Manöver oder andere Übungen dürfen in der Regel die Dauer von dreißig Tagen nicht überschreiten. Die Truppen haben sicherzustellen, daß bei Manövern oder anderen Übungen soweit wie möglich Schäden vermieden werden und die wirtschaftliche Nutzung von Grundstücken nicht wesentlich beeinträchtigt wird. Ein Grundstück, auf dem infolge eines Manövers oder einer anderen Übung erhebliche Schäden entstanden sind, darf innerhalb dreier Monate nicht wieder benutzt werden, es sei denn, daß die zuständigen Landesbehörden zustimmen. Ist durch ein Manöver oder eine andere Übung die wirtschaftliche Nutzung eines Grundstücks wesentlich beeinträchtigt worden, so dürfen die Truppen auf diesem Grundstück Manöver oder ander Übungen so lange nicht durchführen, als zu besorgen ist, daß diese zu einer weiteren oder erneuten wesentlichen Beeinträchtigung der wirtschaftlichen Nutzung des Grundstücks führen könnten.
 
-
-## § 67
+# § 67
 
 Die Vorschriften des Ersten und Zweiten Teils finden nur insoweit Anwendung, als in diesem Teil auf sie Bezug genommen ist.
 
-
-## § 68
+# § 68
 
 (1) Die Truppen dürfen Grundstücke überqueren, vorübergehend besetzen oder zeitweilig sperren.
 
@@ -766,13 +695,11 @@ Unter den in Artikel 45 Abs. 3 des Zusatzabkommens zum NATO-Truppenstatut als Na
 
 (3) Grundstücke dürfen in geringerer als der sonst zulässigen Höhe überflogen werden, soweit die Bedingungen für die Durchführung der Manöver dies ausdrücklich gestatten.
 
-
-## § 69
+# § 69
 
 Manöver oder andere Übungen sind rechtzeitig bei den zuständigen Behörden anzumelden. Dabei ist anzugeben, in welchem Umfang Straßen voraussichtlich mehr als verkehrsüblich benutzt werden sollen. Zeit, Ort und Durchführungsbedingungen der Manöver sollen mindestens 2 Wochen vor Beginn in ortsüblicher Weise durch die zuständige Landesbehörde bekanntgemacht werden. Davon abweichend können über die Anmeldung und Bekanntgabe von Übungen die Truppen mit den zuständigen Behörden besondere Vereinbarungen treffen.
 
-
-## § 70
+# § 70
 
 (1) Die Truppen dürfen bei Manövern oder anderen Übungen, die nach § 69 angemeldet sind, die öffentlichen Verkehrswege mehr als verkehrsüblich benutzen, soweit es zur Erreichung des Übungszwecks unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist und nicht einschränkende Bedingungen nach § 66 Abs. 1 oder Beschränkungen nach § 68 Abs. 2 entgegenstehen. Öffentliche Verkehrswege dürfen nur auf Grund einer Vereinbarung mit den zuständigen Behörden ganz oder teilweise für den öffentlichen Verkehr gesperrt werden; die erforderlichen Maßnahmen zur Durchführung dieser Vereinbarung treffen die zuständigen Behörden.
 
@@ -780,8 +707,7 @@ Manöver oder andere Übungen sind rechtzeitig bei den zuständigen Behörden an
 
 (3) Die Truppen dürfen Gebiete der Hoheitsgewässer benutzen, soweit die Bedingungen für die Durchführung der Manöver dies ausdrücklich vorsehen. Die zuständigen Behörden können auf Verlangen der Truppen solche Teilgebiete sperren.
 
-
-## § 71
+# § 71
 
 (1) Zur Unterbringung von Dienststellen, Personen, Tieren, Fahrzeugen, Waffen sowie Gerät und sonstigen Bedarfsgegenständen sind der Truppe die erforderlichen Räume zur Verfügung zu stellen. Die Truppe hat die bisherige Zweckbestimmung zu beachten.
 
@@ -796,37 +722,31 @@ bei der Unterbringung nach Absatz 2 Beleuchtung, Wasser und Lagerstroh.
 
 (4) § 3 Abs. 1, 4 bis 6, § 4 Abs. 2, § 11 Satz 1, § 12, § 13 Abs. 1 Satz 1, Abs. 2, Abs. 4 Satz 1 und Abs. 5, § 16, § 17 Abs. 1 und § 18 Abs. 1 und 2 gelten sinngemäß. Gebäude oder bewegliche Sachen im Sinne des § 4 Abs. 3 dürfen nur angefordert werden, soweit Körperschaften, Anstalten oder Verbände, die diese Gebäude oder Sachen benutzen, durch die Anforderung in der Erfüllung ihrer Aufgaben nicht wesentlich beeinträchtigt werden.
 
-
-## § 72
+# § 72
 
 Die Träger örtlicher Wasserversorgungsanlagen haben den Truppen nach den vorhandenen Möglichkeiten Wasser für den Quartier-, Biwak- und sonstigen Bedarf zu liefern. § 13 Abs. 1 Satz 1, Abs. 2, Abs. 4 Satz 1 und Abs. 5 gilt sinngemäß.
 
-
-## § 73
+# § 73
 
 (1) Sachen und Leistungen, für die ein Bereitstellungsbescheid (§ 36 Abs. 3) ergangen ist, können nach § 2 Abs. 1 Nr. 1, 8 und 9 für Manöver oder andere Übungen in Anspruch genommen werden, wenn der Zweck der Übung es erfordert. Dabei sind die militärischen und zivilen Belange gerecht abzuwägen.
 
 (2) § 71 Abs. 4 gilt entsprechend; § 3 Abs. 1 Satz 1 findet keine Anwendung.
 
-
-## § 74
+# § 74
 
 Leistungspflichtig ist, wer die tatsächliche Gewalt über die angeforderte Sache ausübt.
 
-
-## § 75
+# § 75
 
 Leistungsempfänger ist die Körperschaft, in deren Dienst die Truppen stehen. Die zuständigen Stellen dieser Körperschaft bestimmen die Einheiten, Dienststellen oder Personen, zu deren Gunsten die Leistungen erbracht werden sollen.
 
-
-## § 76
+# § 76
 
 (1) Für die Leistungen, die nach §§ 71, 72 erbracht werden müssen, ist eine angemessene Entschädigung zu gewähren. In den Fällen des § 73 gelten für die Entschädigung die §§ 20 bis 22 entsprechend.
 
 (2) Die Entschädigung ist an den Leistungspflichtigen zu zahlen, es sei denn, daß dieser einen anderen als Entschädigungsberechtigten bezeichnet oder der Anforderungsbehörde bekannt ist, daß die Leistung aus dem Vermögen eines anderen erbracht ist. Hält der Leistungsempfänger den Leistungspflichtigen ohne grobe Fahrlässigkeit für entschädigungsberechtigt, so wird er durch die Zahlung an diesen befreit. Etwaige Ansprüche des Entschädigungsberechtigten gegen den Leistungspflichtigen als Empfänger der Zahlung bleiben unberührt.
 
-
-## § 77
+# § 77
 
 (1) Für Schäden, die an Grundstücken, baulichen Anlagen, Straßen, Brücken, Wasserläufen, Häfen und sonstigen Verkehrsanlagen oder Verkehrseinrichtungen einschließlich ihres Zubehörs durch Manöver oder andere Übungen verursacht werden, ist Ersatz zu leisten. Die Ersatzleistung bemißt sich im Fall der Zerstörung nach dem gemeinen Wert, im Fall der Beschädigung nach der Höhe der notwendigen Kosten der Wiederherstellung oder der Instandsetzung.
 
@@ -834,23 +754,19 @@ Leistungsempfänger ist die Körperschaft, in deren Dienst die Truppen stehen. D
 
 (3) Wird eine nach § 71 oder § 73 zum Gebrauch überlassene Sache verschlechtert oder beschädigt oder kann sie nicht zurückgegeben werden, so gilt § 26 Abs. 2 und 3 sinngemäß.
 
-
-## § 78
+# § 78
 
 Wird durch die Benutzung eines Grundstücks zu Manövern oder anderer Übungen dessen gewöhnliche Nutzung derart beeinträchtigt, daß dadurch eine Ertragsminderung oder ein sonstiger Nutzungsausfall verursacht wird, so ist eine Entschädigung zu gewähren, die diesen Nachteil angemessen ausgleicht.
 
-
-## § 79
+# § 79
 
 Leistungen nach den §§ 71, 72 werden durch Behörden angefordert, die gemäß § 5 Abs. 1 durch Rechtsverordnung bestimmt werden. Für die Anforderung der in § 73 aufgeführten Manöverleistungen sind die in § 5 Abs. 2 bezeichneten Behörden zuständig. Die Vorschriften des § 6 finden sinngemäß Anwendung.
 
-
-## § 80
+# § 80
 
 Die Vorschriften des § 7 Abs. 1 und 2 und des § 9 Abs. 2 finden Anwendung.
 
-
-## § 81
+# § 81
 
 (1) Für die Durchführung der Anforderung gelten die Vorschriften der §§ 35, 36 Abs. 1 bis 2, der §§ 37, 39, 40, 44, 46 und 47.
 
@@ -858,20 +774,17 @@ Die Vorschriften des § 7 Abs. 1 und 2 und des § 9 Abs. 2 finden Anwendung.
 
 (3) Die Entschädigung oder Ersatzleistung soll tunlichst im Wege der Vereinbarung geregelt werden. Der Zahlungspflichtige hat auf den Abschluß einer Vereinbarung mit den Berechtigten hinzuwirken. Kommt eine Vereinbarung nicht zustande, so gilt § 51 Abs. 3 bis 5.
 
-
-## § 82
+# § 82
 
 (1) Das Verfahren für die Abgeltung der Schäden, für welche die Streitkräfte nach § 77 ersatzpflichtig sind, sowie die Fristen für die Geltendmachung der Ansprüche auf Ersatzleistung werden, soweit die Stationierungstruppen in Betracht kommen, nach Artikel 8 des Finanzvertrags vom 26. Mai 1952 bestimmt. Sind die Schäden nach dem Inkrafttreten des NATO-Truppenstatuts und des Zusatzabkommens zum NATO-Truppenstatut verursacht worden, so treten an die Stelle des Artikels 8 des Finanzvertrages Artikel VIII des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183).
 
 (2) Stehen uniformierte Verbände oder Einheiten im Dienst eines Landes, so gelten die landesrechtlichen Vorschriften.
 
-
-## § 83
+# § 83
 
 Wenn die Bundesregierung feststellt, dass die Herstellung der Einsatzfähigkeit der Streitkräfte notwendig ist, finden die Vorschriften des § 66 Abs. 2, des § 68 Abs. 2 Nr. 1 bis 5 und der §§ 69 und 70 Abs. 1 Satz 2 keine Anwendung.
 
-
-## § 84
+# § 84
 
 (1) Ordnungswidrig handelt, wer als Leistungspflichtiger vorsätzlich oder fahrlässig
 
@@ -893,23 +806,19 @@ Wenn die Bundesregierung feststellt, dass die Herstellung der Einsatzfähigkeit 
 
 (5) Anforderungsbehörden, die Bundesbehörden sind, nehmen die Befugnisse der Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten wahr.
 
-
-## § 85
+# § 85
 
 Wer in der Absicht, die angeforderte Leistung zu vereiteln, eine der in § 84 Abs. 1 Nr. 1 oder Abs. 2 bezeichneten Handlungen oder Unterlassungen begeht und dadurch das öffentliche Wohl erheblich gefährdet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 86
+# § 86
 
 \-
 
-
-## § 87
+# § 87
 
 Das Gesetz über Sachleistungen für Reichsaufgaben (Reichsleistungsgesetz) vom 1. September 1939 (Reichsgesetzbl. I S. 1645) und die zu seiner Durchführung ergangenen Vorschriften werden, soweit sie Bundesrecht geworden sind, aufgehoben.
 
-
-## § 88
+# § 88
 
 (1) Werden Grundstücke im Eigentum von Gebietskörperschaften nach diesem Gesetz angefordert, so bemißt sich die Entschädigung, wenn und soweit diese Grundstücke nicht Erwerbszwecken dienen, nach dem Ersatz der fortlaufenden Aufwendungen, insbesondere Schuldzinsen für Fremdkapital, Betriebskosten und Versicherungsbeiträge, sowie einem angemessenen Betrag für Abnutzung. Darüber hinaus sind die durch die Anforderung verursachten Aufwendungen, soweit sie den Umständen nach notwendig waren und der Höhe nach angemessen sind, zu erstatten. Die Miete für Ersatzräume ist insoweit zu erstatten, als sie die fortlaufenden Aufwendungen für das angeforderte Grundstück übersteigt.
 
@@ -917,8 +826,7 @@ Das Gesetz über Sachleistungen für Reichsaufgaben (Reichsleistungsgesetz) vom 
 
 (3) Absatz 2 findet auf Sachen, die im Eigentum des früheren Deutschen Reichs standen und auf Grund des Bundesgesetzes zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligung vom 21. Juli 1951 (Bundesgesetzbl. I S. 467) und der Verordnung zur Durchführung des § 6 dieses Gesetzes vom 26. Juli 1951 (Bundesgesetzbl. I S. 471) der Verwaltung des Bundes unterliegen, sinngemäß Anwendung.
 
-
-## § 89
+# § 89
 
 (1)
 
@@ -926,18 +834,15 @@ Das Gesetz über Sachleistungen für Reichsaufgaben (Reichsleistungsgesetz) vom 
 
 (3) Wohnungen, die für Zwecke der ausländischen Streitkräfte oder ihrer Mitglieder errichtet worden sind, sowie Wohnungen, die im Rahmen der Ersatzbauprogramme für Altbesatzungsverdrängte errichtet, jedoch den ausländischen Streitkräften oder ihren Mitgliedern zur Nutzung überlassen worden sind, können ohne die sich aus §§ 2, 3 Abs. 1 und diesem Paragraphen ergebenden Beschränkungen angefordert werden.
 
-
-## § 90
-
-\-
-
-
-## § 91
+# § 90
 
 \-
 
+# § 91
 
-## § 92
+\-
+
+# § 92
 
 (1) Bei Sachen, die nach Artikel 48 Abs. 1 des Truppenvertrags oder nach Artikel 13 des Ersten Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen zur Nutzung oder zum Gebrauch in Anspruch genommen waren, bemißt sich mit Wirkung vom 5. Mai 1955 12 Uhr die Entschädigung und Ersatzleistung nach den Vorschriften dieses Gesetzes. Sofern dem Entschädigungsberechtigten bisher eine höhere laufende Entschädigung gezahlt worden ist, als nach § 20 zu zahlen wäre, ist die Entschädigung weiterhin in dieser Höhe zu gewähren.
 
@@ -945,27 +850,22 @@ Das Gesetz über Sachleistungen für Reichsaufgaben (Reichsleistungsgesetz) vom 
 
 (3) Die in § 29 Abs. 2 genannte Frist läuft in den Fällen der Absätze 1 und 2 nicht vor dem 1. Januar 1957, sofern bis zum Inkrafttreten dieses Gesetzes eine angemessene Abschlagszahlung geleistet ist.
 
-
-## § 93
+# § 93
 
 Auf Grundstücke, die von den Behörden einer beteiligten Macht zur Errichtung von nicht nur vorübergehenden Zwecken dienenden Bauwerken und Anlagen in Anspruch genommen worden sind, und auf Grundstücke, die von den Behörden einer beteiligten Macht zu Schutzbereichzwecken in Anspruch genommen oder in dieser Weise behandelt worden sind, finden §§ 89 bis 92 keine Anwendung.
 
-
-## § 94
+# § 94
 
 \-
 
-
-## § 95
+# § 95
 
 Die Unternehmen nach § 2 des Post- und Telekommunikationssicherstellungsgesetzes, soweit sie durch eine Rechtsverordnung auf Grund des § 3 des vorgenannten Gesetzes verpflichtet sind, und öffentliche Eisenbahnen können nicht zu Leistungen nach diesem Gesetz herangezogen werden.
 
-
-## § 96
+# § 96
 
 Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, durch Rechtsverordnung eine von § 57 Abs. 1 abweichende Regelung zu treffen.
 
-
-## § 97
+# § 97
 
 Soweit durch die Vorschriften dieses Gesetzes das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) berührt wird, wird dieses Grundrecht eingeschränkt.

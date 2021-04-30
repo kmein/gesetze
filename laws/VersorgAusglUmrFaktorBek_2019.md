@@ -1,10 +1,7 @@
-# [VersorgAusglUmrFaktorBek 2019] Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
-
-Ausfertigungsdatum: 27.11.2018
-
+% Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+% Ausfertigungsdatum: 27.11.2018
  
-
-## ----
+# ----
 
 Auf Grund des § 187 Absatz 3 Satz 2 und des § 281a Absatz 3 Satz 3 des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung –, die zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, wird bekannt gemacht:
 
@@ -43,7 +40,6 @@ b) <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="t
 |:-------------------------------------|--------------:|
 | von Beiträgen in Entgeltpunkte (Ost) | 0,0001128162. |
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

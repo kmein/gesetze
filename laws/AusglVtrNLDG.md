@@ -1,22 +1,17 @@
-# [AusglVtrNLDG] Gesetz zu dem Vertrag vom 8. April 1960 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Regelung von Grenzfragen und anderen zwischen beiden Ländern bestehenden Problemen (Ausgleichsvertrag)
-
-Ausfertigungsdatum: 10.06.1963
-
+% Gesetz zu dem Vertrag vom 8. April 1960 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Regelung von Grenzfragen und anderen zwischen beiden Ländern bestehenden Problemen (Ausgleichsvertrag)
+% Ausfertigungsdatum: 10.06.1963
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Den Haag am 8. April 1960 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Regelung von Grenzfragen und anderen zwischen beiden Ländern bestehenden Problemen (Ausgleichsvertrag) und den beigefügten Briefwechseln wird zugestimmt. Der Vertrag und die beigefügten Briefwechsel werden nachstehend veröffentlicht.
 
 Art. 1 Satz 1: Mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerfGE v. 8.6.1977 I 1547 - 1 BvL 4/75 -
 
-
-## Art 2
+# Art 2
 
 (1) In den Gebietsteilen, die am 31. Dezember 1937 zum Königreich der Niederlande gehörten und die gemäß Artikel 1 des Grenzvertrags zur Bundesrepublik Deutschland gehören, treten mit dem Zeitpunkt des Inkrafttretens der Grenzänderungen die in den angrenzenden deutschen Gemeinden geltenden Vorschriften des Bundesrechts in Kraft. Das gleiche gilt für die niederländischen Gebietsteile, die gemäß Artikel 2 des Grenzvertrags zu einem späteren Zeitpunkt in die Bundesrepublik Deutschland eingegliedert werden.
 
@@ -24,13 +19,11 @@ Art. 1 Satz 1: Mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerf
 
 (3) Mit dem Inkrafttreten des deutschen Rechts nach den Absätzen 1 und 2 tritt das niederländische Recht außer Kraft.
 
-
-## Art 3
+# Art 3
 
 Die Bundesregierung wird ermächtigt, ohne Zustimmung des Bundesrates die Rechtsverordnungen zu erlassen, die zur Durchführung der in Artikel 2 des Grenzvertrags und in § 33 der Anlage A zum Grenzvertrag vorgesehenen späteren Änderungen des Grenzverlaufs erforderlich sind.
 
-
-## Art 4
+# Art 4
 
 (1) Die Landesregierungen werden ermächtigt, für die Grundstücke in den in Artikel 4 und Artikel 5 des Grenzvertrags bezeichneten Gebietsteilen und in den Gebietsteilen, die nach Artikel 2 des Grenzvertrags zu einem späteren Zeitpunkt in das Hoheitsgebiet der Bundesrepublik Deutschland eingegliedert werden, durch Rechtsverordnung
 
@@ -44,11 +37,9 @@ Die Bundesregierung wird ermächtigt, ohne Zustimmung des Bundesrates die Rechts
 
 (2) Die Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
+# Art 5 bis 10 – (weggefallen)
 
-## Art 5 bis 10 – (weggefallen)
-
-
-## Art 11
+# Art 11
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

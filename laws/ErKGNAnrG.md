@@ -1,10 +1,7 @@
-# [ErKGNAnrG] Gesetz zur Nichtanrechnung rückwirkender Erhöhungen des Kindergeldes
-
-Ausfertigungsdatum: 16.07.2015
-
+% Gesetz zur Nichtanrechnung rückwirkender Erhöhungen des Kindergeldes
+% Ausfertigungsdatum: 16.07.2015
  
-
-## ----
+# ----
 
 (1) Wird das Kindergeld rückwirkend erhöht, ist der Unterschiedsbetrag zwischen dem nach bisheriger Rechtslage zustehenden Kindergeld und dem erhöhten Kindergeld, der für die Zeit bis zum Ablauf des Kalendermonats gewährt wird, der auf den Monat der Verkündung desjenigen Gesetzes folgt, mit dem das Kindergeld erhöht wird, bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, nicht als Einkommen zu berücksichtigen. Dies gilt unabhängig vom Zeitpunkt des Zuflusses des Unterschiedsbetrags.
 

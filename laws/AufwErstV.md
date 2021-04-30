@@ -1,15 +1,11 @@
-# [AufwErstV] Verordnung über die Erstattung von Aufwendungen für die gesetzliche Rentenversicherung der in Werkstätten beschäftigten Behinderten  (Aufwendungserstattungs-Verordnung)
-
-Ausfertigungsdatum: 11.07.1975
-
+% Verordnung über die Erstattung von Aufwendungen für die gesetzliche Rentenversicherung der in Werkstätten beschäftigten Behinderten  (Aufwendungserstattungs-Verordnung)
+% Ausfertigungsdatum: 11.07.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Gesetzes über die Sozialversicherung Behinderter in geschützten Einrichtungen vom 7. Mai 1975 (Bundesgesetzbl. I S. 1061) wird im Einvernehmen mit dem Bundesminister der Finanzen mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) In den Fällen des § 1 Satz 1 Nummer 2 Buchstabe a und des § 162 Nummer 2 und 2a des Sechsten Buches Sozialgesetzbuch werden den Trägern der Einrichtungen, den anderen Leistungsanbietern nach § 60 des Neunten Buches Sozialgesetzbuch und den Trägern der Inklusionsbetriebe die nach § 179 Absatz 1 Satz 1 und 3 des Sechsten Buches entstandenen Aufwendungen für Beiträge zur gesetzlichen Rentenversicherung von den Ländern erstattet. Zuständig für die Erstattung ist jeweils das Land, in dem die Einrichtung, der andere Leistungsanbieter nach § 60 des Neunten Buches Sozialgesetzbuch oder der Inklusionsbetrieb liegt.
 
@@ -17,13 +13,11 @@ Auf Grund des § 10 Abs. 2 des Gesetzes über die Sozialversicherung Behinderter
 
 (3) Soweit diese Verordnung von den Ländern durchgeführt wird, ist die nach Landesrecht zuständige Stelle zuständig. Die Aufgaben des Bundes nimmt das Bundesamt für Soziale Sicherung wahr.
 
-
-## § 2 – Abrechnung
+# § 2 – Abrechnung
 
 Die zu erstattenden Beträge werden nachträglich nach Einzelfällen abgerechnet. Abrechnungszeitraum ist das Kalenderjahr.
 
-
-## § 3 – Verfahren
+# § 3 – Verfahren
 
 (1) Die Abrechnung der Träger der Einrichtungen und der anderen Leistungsanbieter nach § 60 des Neunten Buches Sozialgesetzbuch mit der nach Landesrecht zuständigen Stelle erfolgt bis zum 31. März des folgenden Jahres.
 
@@ -35,8 +29,7 @@ Die zu erstattenden Beträge werden nachträglich nach Einzelfällen abgerechnet
 
 (5) Die nach Landesrecht zuständige Stelle und die Träger der Inklusionsbetriebe können ein von Absatz 2 abweichendes Verfahren vereinbaren.
 
-
-## § 4
+# § 4
 
 (1) Die nach Landesrecht zuständige Stelle teilt dem Bundesamt für Soziale Sicherung möglichst frühzeitig, spätestens jedoch bis zum 30. Juni jeden Jahres mit, welche Beträge (aufgeschlüsselt nach Teilbeträgen aus dem Bundeshaushalt des Vorjahres sowie des laufenden Jahres) den Trägern der Einrichtungen, den anderen Leistungsanbietern nach § 60 des Neunten Buches Sozialgesetzbuch oder der Inklusionsbetriebe für das vorhergehende Kalenderjahr erstattet worden sind. Zusätzlich sind die für die Berechnung des Erstattungsbetrages maßgeblichen Faktoren, insbesondere die Summe der von den behinderten Menschen tatsächlich erzielten Arbeitsentgelte sowie die Anzahl der behinderten Menschen, für die Beträge erstattet wurden, anzugeben.
 
@@ -44,12 +37,10 @@ Die zu erstattenden Beträge werden nachträglich nach Einzelfällen abgerechnet
 
 (3) Abweichend von Absatz 1 Satz 2 und Absatz 2 Satz 2 sind die Länder berechtigt, den Bundeshaushalt mit den von ihnen aufgewendeten Beträgen zu belasten. Die Belastung ist spätestens innerhalb eines Monats nach dem jeweiligen Zahlungstermin vorzunehmen. Überzahlungen sind unverzüglich auszugleichen.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 2. Juli 1975 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

@@ -1,17 +1,11 @@
-# [GroMiKV] Verordnung zur Ergänzung der Großkreditvorschriften nach der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Ergänzung der Millionenkreditvorschriften nach dem Kreditwesengesetz   (Großkredit- und Millionenkreditverordnung - GroMiKV)
-
-Ausfertigungsdatum: 06.12.2013
-
+% Verordnung zur Ergänzung der Großkreditvorschriften nach der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Ergänzung der Millionenkreditvorschriften nach dem Kreditwesengesetz   (Großkredit- und Millionenkreditverordnung - GroMiKV)
+% Ausfertigungsdatum: 06.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13 Absatz 1 Satz 1 und 3 sowie des § 22 Satz 1 und 3 des Kreditwesengesetzes, von denen § 13 Absatz 1 Satz 1 und 3 durch Artikel 1 Nummer 27 und § 22 Satz 1 und 3 durch Artikel 1 Nummer 38 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395) neu gefasst worden sind, verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -45,8 +39,9 @@ Auf Grund des § 13 Absatz 1 Satz 1 und 3 sowie des § 22 Satz 1 und 3 des Kredi
 
  
 
+ 
 
-## § 1 – Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013
+# § 1 – Ausnahmen von der Anwendung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013
 
 Die folgenden Risikopositionen sind in der jeweils genannten Höhe nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom 30.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S. 3), die zuletzt durch die Verordnung (EU) 2016/1014 (ABl. L 171 vom 29.6.2016, S. 153) geändert worden ist, bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 ausgenommen:
 
@@ -100,8 +95,7 @@ b) die Gegenpartei in die Beaufsichtigung auf konsolidierter Basis einbezogen is
 
 10. Bilanzaktiva in Form von Forderungen eines Förderinstituts des Bundes oder eines Landes im Sinne des § 5 Absatz 1 Nummer 2 des Körperschaftssteuergesetzes an Kreditinstitute und sonstige Risikopositionen dieser Förderinstitute gegenüber Kreditinstituten in voller Höhe, sofern die betreffenden Forderungen und Positionen aufgrund von Darlehen bestehen, die dem Förderauftrag entsprechen und über diese Kreditinstitute an die Begünstigten weitergereicht werden.
 
-
-## § 2 – Weitere Ausnahmen von der Anwendung der Ober- grenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten
+# § 2 – Weitere Ausnahmen von der Anwendung der Ober- grenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 bei gruppen- und verbundangehörigen Instituten
 
 (1) Bei der Berechnung der Auslastung der Obergrenze für Großkredite nach Artikel 395 Absatz 1 der Verordnung (EU) Nr. 575/2013 sind Beteiligungen und sonstige Anteile eines Instituts an seinem Mutterunternehmen, an anderen Tochterunternehmen seines Mutterunternehmens oder an eigenen Tochterunternehmen, sofern das gruppenangehörige Unternehmen, an dem das Institut diese Beteiligung oder diesen sonstigen Anteil hält, in die Beaufsichtigung auf konsolidierter Basis einbezogen ist, der das Institut nach der Verordnung (EU) Nr. 575/2013, nach der Richtlinie 2002/87/EG oder nach gleichwertigen Normen eines Drittlandes unterliegt, wie folgt ausgenommen:
 
@@ -133,8 +127,7 @@ Bei der Antragstellung hat das Institut der Bundesanstalt die Höhe der gegenüb
 
 Eigenmittel im Sinne von Artikel 72 der Verordnung (EU) Nr. 575/2013 begründen, in Höhe von 50 Prozent ihrer Bemessungsgrundlage nach Berücksichtigung der Wirkung einer Kreditrisikominderung nach den Artikeln 399, 401 bis 403 der Verordnung (EU) Nr. 575/2013 ausgenommen.
 
-
-## § 3 – Ausnahmen von der Beschlussfassungspflicht nach § 13 Absatz 2 des Kreditwesengesetzes
+# § 3 – Ausnahmen von der Beschlussfassungspflicht nach § 13 Absatz 2 des Kreditwesengesetzes
 
 (1) Ein Geschäftsleiterbeschluss nach § 13 Absatz 2 und 3 des Kreditwesengesetzes ist nicht erforderlich bei
 
@@ -144,25 +137,21 @@ Eigenmittel im Sinne von Artikel 72 der Verordnung (EU) Nr. 575/2013 begründen,
 
 (2) Ein bereits von den Geschäftsleitern beschlossener Großkredit nach § 13 Absatz 2 und 3 des Kreditwesengesetzes muss von ihnen nicht erneut beschlossen werden, auch wenn er durch Änderung von Devisenkursen oder anderen Marktpreisen die Großkreditdefinitionsgrenze nach Artikel 392 der Verordnung (EU) Nr. 575/2013 zwischenzeitlich unterschritten hat und diese später wieder erreicht oder überschreitet. Ein neuer Beschluss ist erst erforderlich, wenn der beschlossene Höchstbetrag für die Risikoposition durch Änderungen nach Satz 1 überschritten wird.
 
-
-## § 4 – Beschlussfassungspflicht bei Großkreditüberschreitungen
+# § 4 – Beschlussfassungspflicht bei Großkreditüberschreitungen
 
 Soll ein Großkredit über die Obergrenze für Großkredite hinaus erhöht werden, haben die Geschäftsleiter hierüber vor der Erhöhung einstimmig nach § 13 Absatz 2 und 3 des Kreditwesengesetzes zu beschließen.
 
-
-## § 5 – Anzeige der Nutzung der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013
+# § 5 – Anzeige der Nutzung der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013
 
 Macht ein Institut von der Möglichkeit nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 Gebrauch, hat es dies der Bundesanstalt und der Deutschen Bundesbank unbeschadet der Meldepflicht nach Artikel 94 Absatz 3 der Verordnung (EU) Nr. 575/2013 unverzüglich anzuzeigen. Gleiches gilt, wenn ein Institut die Vorschriften über das Handelsbuch anwendet, obwohl die Voraussetzungen des Artikels 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 erfüllt sind.
 
-
-## § 6 – Meldung der Positionen des Handelsbuchs
+# § 6 – Meldung der Positionen des Handelsbuchs
 
 (1) Ein Institut, das von der Ausnahmeregelung nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 Gebrauch macht, hat der Deutschen Bundesbank für die Meldetermine 31. März, 30. Juni, 30. September und 31. Dezember die Positionen des Handelsbuchs in elektronischer Form zu melden. Für die Meldung ist das Formular Angaben zu den Handelsbuchpositionen gemäß Artikel 94 der Verordnung (EU) Nr. 575/2013 in Verbindung mit § 5 GroMiKV – HA (Anlage 1) zu verwenden. Die Meldung hat spätestens zum 12. Mai, 11. August, 11. November und 11. Februar zu erfolgen. Ist der Tag, an dem die Meldung spätestens zu erfolgen hat, ein gesetzlicher Feiertag oder ein Samstag oder Sonntag, hat die Meldung am darauf folgenden Werktag zu erfolgen.
 
 (2) Ein Institut, das kein Handelsbuch hat oder dessen Handelsbuch im Berichtszeitraum weder Positionen noch Bewegungen aufweist, muss nach der erstmaligen Abgabe einer Fehlanzeige zu den nachfolgenden Meldeterminen keine erneute Fehlanzeige abgeben. Als erstmalige Abgabe einer Fehlanzeige gilt auch eine Fehlanzeige nach § 19 der Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006 (BGBl. I S. 3065), die zuletzt durch Artikel 2 der Verordnung vom 26. Oktober 2011 (BGBl. I S. 2103) geändert worden ist, in der bis zum 31. Dezember 2013 geltenden Fassung.
 
-
-## § 7 – Organisatorische Maßnahmen
+# § 7 – Organisatorische Maßnahmen
 
 Ein Nichthandelsbuchinstitut hat durch geeignete organisatorische Maßnahmen sicherzustellen, dass es ein Erreichen oder Überschreiten der Grenzen nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 feststellt. Es hat für die Bundesanstalt und die Deutsche Bundesbank folgende Angaben auf Abruf vorzuhalten:
 
@@ -172,8 +161,7 @@ Ein Nichthandelsbuchinstitut hat durch geeignete organisatorische Maßnahmen sic
 
 3. eine Aufschlüsselung der Positionen des Handelsbuchs.
 
-
-## § 8 – Stammdaten der Großkreditnehmer
+# § 8 – Stammdaten der Großkreditnehmer
 
 (1) Besteht eine Meldepflicht nach Artikel 394 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 in Bezug auf einen Kreditnehmer oder eine Gruppe verbundener Kunden, für die noch keine Stammdaten gemeldet wurden, muss ein Institut die Angaben zu den Stammdaten eines Kunden oder einer Gruppe verbundener Kunden der zuständigen Hauptverwaltung der Deutschen Bundesbank unverzüglich, spätestens jedoch bis zum 15. Geschäftstag des Kalendermonats, der auf den Meldetermin folgt, einfach in Papierform einreichen. Satz 1 gilt entsprechend, wenn sich die folgenden Stammdaten eines Großkreditnehmers geändert haben:
 
@@ -189,25 +177,21 @@ Ein Nichthandelsbuchinstitut hat durch geeignete organisatorische Maßnahmen sic
 
 (4) Abweichend von Absatz 1 Satz 1 kann die Bundesanstalt statt der Einreichung in Papierform die elektronische Einreichung durch eine Allgemeinverfügung verbindlich vorgeben, sobald die für die elektronische Stammdateneinreichung erforderlichen technischen Voraussetzungen bei der Deutschen Bundesbank vorliegen. Vor Erlass einer Allgemeinverfügung nach Satz 1 sind die am Meldeverfahren beteiligten Unternehmen und die Deutsche Bundesbank anzuhören. Mindestens zwölf Monate vor dem Erlass einer Allgemeinverfügung ist dieser allen beteiligten Unternehmen gegenüber anzukündigen.
 
-
-## § 9 – Stammdatenrückmeldung
+# § 9 – Stammdatenrückmeldung
 
 Die Deutsche Bundesbank übersendet den Instituten und den übergeordneten Unternehmen spätestens am 25. Geschäftstag, der auf den Meldetermin folgt, eine Stammdatenrückmeldung als Grundlage für die Meldung der zum Meldetermin bestehenden Großkredite. Die Stammdatenrückmeldung enthält alle Kreditnehmer und Gruppen verbundener Kunden, für die vom Institut oder vom übergeordneten Unternehmen Stammdatenmeldungen abgegeben wurden, sowie alle Kreditnehmer und Gruppen verbundener Kunden, die zum vorangegangenen Meldetermin von diesen im Rahmen der Meldungen nach Artikel 394 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013 gemeldet wurden.
 
-
-## § 10 – Aufbewahrungsfristen
+# § 10 – Aufbewahrungsfristen
 
 Die Institute und die übergeordneten Unternehmen haben die Meldungen zu den Stammdaten und die Meldungen nach Artikel 394 Absatz 1 und 2 der Verordnung (EU) Nr. 575/2013, die sie im laufenden Kalenderjahr und in den zwei vorangegangenen Kalenderjahren eingereicht haben, aufzubewahren.
 
-
-## § 11 – Begriffsbestimmungen
+# § 11 – Begriffsbestimmungen
 
 (1) Geschäftsschluss im Sinne von Teil 2 dieser Verordnung ist täglich um 24 Uhr MEZ/MESZ. Die Bundesanstalt kann auf Antrag eines Instituts einen anderen Zeitpunkt festsetzen, der den Aktivitäten des Instituts angemessen Rechnung trägt.
 
 (2) Derivate im Sinne von Teil 2 dieser Verordnung sind solche nach § 19 Absatz 1a des Kreditwesengesetzes.
 
-
-## § 12 – Bemessungsgrundlage
+# § 12 – Bemessungsgrundlage
 
 (1) Die Bemessungsgrundlage für die Ermittlung der Kreditbeträge nach § 14 des Kreditwesengesetzes ist
 
@@ -235,13 +219,11 @@ Anteilige Zinsen sind zu berücksichtigen, sofern diese bei der Anwendung der Ar
 
 (3) Abweichend von Absatz 1 darf ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen im Sinne von § 14 Absatz 1 Satz 1 des Kreditwesengesetzes, das nicht der Verordnung (EU) Nr. 575/2013 unterliegt, für die Zwecke des Teils 2 dieser Verordnung die Bemessungsgrundlage für derivative Adressenausfallrisikopositionen nach einheitlicher Wahl anhand des laufzeitbewerteten Wiedereindeckungsaufwands gemäß Artikel 275 der Verordnung (EU) Nr. 575/2013 ermitteln (Ursprungsrisikomethode). Für bestimmte und eindeutig abgegrenzte Teilbereiche darf die Wahl unterschiedlich ausfallen. Die Festlegung von Teilbereichen kann nach verschiedenen Finanzinstrumenten oder nach unterschiedlichen organisatorisch festgelegten Bereichen des Instituts erfolgen. Die Ursprungsrisikomethode darf mit Zustimmung der Bundesanstalt auch von Zweigstellen von Unternehmen mit Sitz in einem Drittstaat angewandt werden, die unter die Rechtsverordnung nach § 53c des Kreditwesengesetzes fallen; die Bundesanstalt kann die Zustimmung jederzeit widerrufen. Am Millionenkreditmeldeverfahren beteiligte Unternehmen, die nicht den Artikeln 387 bis 403 der Verordnung (EU) Nr. 575/2013 unterliegen, dürfen die Ursprungsrisikomethode unter Anwendung des Prozentsatzes für währungskursbezogene Geschäfte auch für die Berechnung des Kreditäquivalenzbetrags von Kreditderivaten verwenden.
 
-
-## § 13 – Umrechnung der auf fremde Währungen lautenden Positionen
+# § 13 – Umrechnung der auf fremde Währungen lautenden Positionen
 
 Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs, der von der Europäischen Zentralbank am Tag des Meldestichtags festgestellt und von der Deutschen Bundesbank veröffentlicht worden ist (Euro-Referenzkurs), oder unter Anwendung des Artikels 24 der Verordnung (EU) Nr. 575/2013 in Euro umzurechnen. Statt des Euro-Referenzkurses am Meldestichtag darf für Beteiligungen der zum Zeitpunkt ihrer Erstverbuchung maßgebliche Devisenkurs angewendet werden. Bei der Umrechnung von Währungen, für die kein Euro-Referenzkurs veröffentlicht wird, sind die Mittelkurse aus feststellbaren An- und Verkaufskursen des Meldestichtags zugrunde zu legen.
 
-
-## § 14 – Bestimmung des Kreditnehmers
+# § 14 – Bestimmung des Kreditnehmers
 
 (1) Für die Zwecke des § 14 des Kreditwesengesetzes ist der Kreditnehmer
 
@@ -269,8 +251,7 @@ Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs
 
 (2) Bei Forderungen aus Geschäften im Sinne des Artikels 112 Buchstabe m (Verbriefungspositionen) oder des Artikels 112 Buchstabe o (Forderungen in Form von Anteilen an Organismen für Gemeinsame Anlagen) der Verordnung (EU) Nr. 575/2013 oder aus anderen Geschäften, bei denen Forderungen aus zugrunde liegenden Vermögenswerten resultieren, hat das Institut das Geschäft als solches für die Zwecke des § 14 des Kreditwesengesetzes wie einen Kreditnehmer zu melden. Nimmt das Institut die Zerlegung nach Artikel 390 Absatz 7 und 8 der Verordnung (EU) Nr. 575/2013 für Großkreditzwecke vor, hat das Institut auch die zugrunde liegenden Vermögenswerte zu melden.
 
-
-## § 15 – Meldeverfahren, Meldestichtag, Ermittlung der Millionenkreditmeldegrenze
+# § 15 – Meldeverfahren, Meldestichtag, Ermittlung der Millionenkreditmeldegrenze
 
 (1) Im Rahmen der Millionenkreditanzeigen nach § 14 des Kreditwesengesetzes haben die am Millionenkreditmeldeverfahren beteiligten Unternehmen unter Berücksichtigung der Bildung von Kreditnehmereinheiten nach § 19 Absatz 2 des Kreditwesengesetzes folgende Daten zu melden:
 
@@ -284,8 +265,7 @@ Eine auf eine fremde Währung lautende Position ist entweder zu dem Referenzkurs
 
 (+++ § 15: Zur Anwendung vgl. § 20 +++)
 
-
-## § 16 – Stammdaten für Millionenkreditnehmer
+# § 16 – Stammdaten für Millionenkreditnehmer
 
 (1) Ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen muss die Angaben zu den Stammdaten eines Kunden oder einer Kreditnehmereinheit der zuständigen Hauptverwaltung der Deutschen Bundesbank einfach in Papierform einreichen, wenn
 
@@ -317,8 +297,7 @@ Wenn die anzuzeigende Änderung bereits im Datenbestand der Deutschen Bundesbank
 
 (5) Abweichend von Absatz 1 Satz 1 kann die Bundesanstalt statt der Einreichung in Papierform die elektronische Einreichung durch eine Allgemeinverfügung verbindlich vorgeben, sobald die für die elektronische Stammdateneinreichung erforderlichen technischen Voraussetzungen bei der Deutschen Bundesbank vorliegen. Vor Erlass einer Allgemeinverfügung nach Satz 1 sind die am Meldeverfahren beteiligten Unternehmen und die Deutsche Bundesbank anzuhören. Mindestens zwölf Monate vor dem Erlass einer Allgemeinverfügung ist dieser allen beteiligten Unternehmen gegenüber anzukündigen.
 
-
-## § 17 – Betragsdaten für Millionenkredite
+# § 17 – Betragsdaten für Millionenkredite
 
 (1) Ein am Millionenkreditmeldeverfahren beteiligtes Unternehmen muss die Angaben zu den Betragsdaten der Millionenkredite der Evidenzzentrale in elektronischer Form bis zum 15. Geschäftstag der Monate Januar, April, Juli und Oktober melden. Für die Meldung nach Satz 1 sind folgende Formulare nach Maßgabe der Absätze 2 bis 6 zu verwenden:  
 Angaben zu den Krediten nach § 14 KWG – BA, BAS, BA6, BAS6, BA7, BAS7 § 14 (Anlage 7).
@@ -335,13 +314,11 @@ Angaben zu den Krediten nach § 14 KWG – BA, BAS, BA6, BAS6, BA7, BAS7 § 14 (
 
 (+++ § 17: Zur Anwendung vgl. § 20 Abs. 3 Satz 1 +++)
 
-
-## § 18 – Aufbewahrungsfristen
+# § 18 – Aufbewahrungsfristen
 
 Die am Millionenkreditmeldeverfahren beteiligten Unternehmen haben die Meldungen zu den Stammdaten und zu den Betragsdaten nach den §§ 15 bis 17, die sie im laufenden Kalenderjahr und in den zwei vorangegangenen Kalenderjahren eingereicht haben, aufzubewahren.
 
-
-## § 19 – Benachrichtigung über die Verschuldung der Kreditnehmer
+# § 19 – Benachrichtigung über die Verschuldung der Kreditnehmer
 
 (1) Die Benachrichtigung nach § 14 Absatz 2 Satz 1 des Kreditwesengesetzes stellt die Evidenzzentrale den am Millionenkreditmeldeverfahren beteiligten Unternehmen in elektronischer Form zur Verfügung.
 
@@ -361,20 +338,17 @@ Haben mindestens vier am Millionenkreditmeldeverfahren beteiligte Unternehmen ei
 
 (+++ § 19: Zur Anwendung vgl. § 20 Abs. 4 Satz 1 +++)
 
-
-## § 20 – Übergangsbestimmungen
+# § 20 – Übergangsbestimmungen
 
 (1) Die §§ 15 und 17 sind ab dem 1. Januar 2019 anzuwenden. Auf Betragsdatenmeldungen für die Zwecke der Millionenkreditmeldung nach § 14 des Kreditwesengesetzes, die sich auf den Zeitraum bis zum Meldetermin 31. Dezember 2018 beziehen, ist § 38 der Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006 (BGBl. I S. 3065) in der bis zum 31. Dezember 2013 geltenden Fassung weiter anzuwenden.
 
 (2) § 19 Absatz 2 bis 5 ist ab dem 1. Januar 2019 anzuwenden. Auf Benachrichtigungen nach § 14 Absatz 2 des Kreditwesengesetzes, die sich auf den Zeitraum bis zum Meldetermin 31. Dezember 2018 beziehen, ist § 39 der Großkredit- und Millionenkreditverordnung in der bis zum 31. Dezember 2013 geltenden Fassung weiter anzuwenden.
 
-
-## § 21 – Inkrafttreten, Außerkrafttreten
+# § 21 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt die Großkredit- und Millionenkreditverordnung vom 14. Dezember 2006 (BGBl. I S. 3065), die zuletzt durch Artikel 2 der Verordnung vom 26. Oktober 2011 (BGBl. I S. 2103) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – HA
+# Anlage 1 – HA
 
 (Fundstelle: BGBl. I 2013, 4192)
 
@@ -382,8 +356,7 @@ Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt die Großk
 
  
 
-
-## Anlage 2 – Meldeformular EA
+# Anlage 2 – Meldeformular EA
 
 (Fundstelle: BGBl. I 2019, 153 - 154)
 
@@ -437,8 +410,7 @@ Es ist der Betrag der Position BA 100 aus dem zugehörigen Betragsdatensatz anzu
 
 Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Millionenkredite nach § 14 KWG zu entnehmen, die unter https://www.bundesbank.de/de/service/meldewesen/bankenaufsicht-formular-center/meldungen veröffentlicht sind.
 
-
-## Anlage 3 – Meldeformular STA
+# Anlage 3 – Meldeformular STA
 
 (Fundstelle: BGBl. I 2019, 155 - 156)
 
@@ -492,8 +464,7 @@ Alle Vordrucke STA/STAK sind für einen bestimmten Meldetermin eindeutig zu numm
 
 Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Großkredite nach Art. 394 der Verordnung (EU) Nr. 575/2013 (nur Stammdaten) und für Millionenkredite nach § 14 KWG zu entnehmen, die unter https://www.bundesbank.de/de/service/meldewesen/bankenaufsicht-formular-center/meldungen veröffentlicht sind.
 
-
-## Anlage 4 – GbR
+# Anlage 4 – GbR
 
 (Fundstelle: BGBl. I 2013, 4197 - 4198)
 
@@ -501,8 +472,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 <a href="../normengrafiken/bgbl1_2013/j4183-1_0070.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – MKNE
+# Anlage 5 – MKNE
 
 (Fundstelle: BGBl. I 2013, 4199 - 4200)
 
@@ -510,8 +480,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 <a href="../normengrafiken/bgbl1_2013/j4183-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 6 – STAK
+# Anlage 6 – STAK
 
 (Fundstelle: BGBl. I 2013, 4201 - 4202)
 
@@ -519,8 +488,7 @@ Weitere Erläuterungen sind den technischen Durchführungsbestimmungen für Gro�
 
 <a href="../normengrafiken/bgbl1_2013/j4183-1_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 7 – BA
+# Anlage 7 – BA
 
 (Fundstelle: BGBl. I 2019, 157 - 160)
 

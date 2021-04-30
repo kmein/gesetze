@@ -1,15 +1,11 @@
-# [VtrLUXG] Gesetz zu dem Vertrag vom 11. Juli 1959 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
-
-Ausfertigungsdatum: 08.08.1960
-
+% Gesetz zu dem Vertrag vom 11. Juli 1959 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
+% Ausfertigungsdatum: 08.08.1960
  
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
+# Art 2
 
 (1) Die Rechte und Pflichten der nach Artikel 5 des Vertrags Berechtigten richten sich nach den im Geltungsbereich dieses Gesetzes geltenden Vorschriften, soweit sich aus den Absätzen 2 und 3 nichts anderes ergibt.
 
@@ -49,18 +45,15 @@ b) Über die vor der Verkündung dieses Gesetzes nach innerstaatlichen Rechtsvor
 Art. 2 Abs. 4 Buchst. b Kursivdruck: Vollzogen  
 Art. 2 Abs. 6 Buchst. a Satz 1 Kursivdruck: Vgl. jetzt §§ 15 u. 17 FRG 824-2
 
-
-## Art 2a
+# Art 2a
 
 Geldleistungen, die das Großherzogtum Luxemburg aus Haushaltsmitteln nach Nummer 3 des 10. Notenwechsels betreffend beschlagnahmtes deutsches Vermögen gewährt, mindern bei Anwendung von Vorschriften des Lastenausgleichsrechts und der in § 3 Abs. 1 Nr. 1 und 2 des Allgemeinen Kriegsfolgengesetzes vom 5. November 1957 (Bundesgesetzbl. I S. 1747) vorbehaltenen Regelung weder den Schaden noch die Entschädigung.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

@@ -1,32 +1,25 @@
-# [KondAusbV 2003] Verordnung über die Berufsausbildung zum Konditor/zur Konditorin
-
-Ausfertigungsdatum: 03.06.2003
-
+% Verordnung über die Berufsausbildung zum Konditor/zur Konditorin
+% Ausfertigungsdatum: 03.06.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), von dem Absatz 1 zuletzt durch Artikel 136 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Konditor/Konditorin wird gemäß § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 58, Konditoren, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung
+# § 3 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Kenntnisse und Fertigkeiten:
 
@@ -78,25 +71,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Kenntnisse und Fer
 
 24. Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe.
 
-
-## § 5 – Ausbildungsrahmenplan und Zielsetzung der Berufsbildung
+# § 5 – Ausbildungsrahmenplan und Zielsetzung der Berufsbildung
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -112,15 +101,13 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (4) In höchstens 150 Minuten soll der Prüfling schriftliche Aufgaben bearbeiten, die sich auf die praktischen Aufgaben beziehen. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Rohstoffe beurteilen, Mengen bestimmen, Dekorationselemente entwerfen sowie lebensmittelrechtliche Vorschriften berücksichtigen kann.
 
-
-## § 9 – Gesellenprüfung
+# § 9 – Gesellenprüfung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Die Prüfung ist praktisch und schriftlich durchzuführen.
 
-(3) In der praktischen Prüfung soll der Prüfling in insgesamt höchstens zwölf Stunden eine Arbeitsaufgabe A und zwei Arbeitsaufgaben B durchführen.  
-Als Arbeitsaufgaben A kommen in Betracht:
+(3) In der praktischen Prüfung soll der Prüfling in insgesamt höchstens zwölf Stunden eine Arbeitsaufgabe A und zwei Arbeitsaufgaben B durchführen. Als Arbeitsaufgaben A kommen in Betracht:
 
 a) Herstellen einer Drei-Etagen-Festtagstorte nach vorgegebenem Thema einschließlich Dokumentieren der Planung und Durchführung,
 
@@ -134,8 +121,7 @@ b) Herstellen von Erzeugnissen aus Teig oder Masse,
 
 c) Herstellen einer Konfektmischung aus Teegebäck und Pralinen einschließlich Garnieren, Dekorieren und Präsentieren.
 
-Die Arbeitsaufgabe A ist mit 50 Prozent, die Arbeitsaufgaben B sind mit je 25 Prozent zu gewichten.  
-Bei der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, ökologischer und zeitlicher Vorgaben im Hinblick auf Kundenerwartungen selbständig planen und umsetzen sowie Sicherheit, Gesundheitsschutz und Hygiene im Arbeitseinsatz berücksichtigen kann.
+Die Arbeitsaufgabe A ist mit 50 Prozent, die Arbeitsaufgaben B sind mit je 25 Prozent zu gewichten. Bei der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, ökologischer und zeitlicher Vorgaben im Hinblick auf Kundenerwartungen selbständig planen und umsetzen sowie Sicherheit, Gesundheitsschutz und Hygiene im Arbeitseinsatz berücksichtigen kann.
 
 (4) Die schriftliche Prüfung besteht aus den Prüfungsbereichen:
 
@@ -147,10 +133,8 @@ Bei der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beacht
 
 4. Wirtschaft und Sozialkunde.
 
-In den Prüfungsbereichen 1 bis 3 sind insbesondere produktbezogene Problemstellungen mit verknüpften technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen.  
-Für den Prüfungsbereich Wirtschaft und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:  
-Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.  
-Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
+In den Prüfungsbereichen 1 bis 3 sind insbesondere produktbezogene Problemstellungen mit verknüpften technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Für den Prüfungsbereich Wirtschaft und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:  
+Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt. Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszugehen:  
 
 |     |                                                   |              |
 |:----|:--------------------------------------------------|-------------:|
@@ -172,18 +156,15 @@ Für die schriftliche Prüfung ist von folgenden zeitlichen Höchstwerten auszug
 
 (7) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung sowie innerhalb der praktischen Prüfung in der Arbeitsaufgabe A mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem fachbezogenen Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Konditor/zur Konditorin
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Konditor/zur Konditorin
 
 (Fundstelle: BGBl. I 2003, 793 - 798)
 

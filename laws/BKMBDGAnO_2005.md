@@ -1,10 +1,7 @@
-# [BKMBDGAnO 2005] Allgemeine Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
-
-Ausfertigungsdatum: 18.02.2005
-
+% Allgemeine Anordnung zur Durchführung des Bundesdisziplinargesetzes im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
+% Ausfertigungsdatum: 18.02.2005
  
-
-## I.
+# I.
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1 Satz 2 und des § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) übertrage ich  
 der Präsidentin oder dem Präsidenten des Bundesarchivs und  
@@ -18,19 +15,16 @@ der Bundesbeauftragten oder dem Bundesbeauftragten für die Unterlagen des Staat
 
 4. die Disziplinarbefugnis bei Ruhestandsbeamtinnen und Ruhestandsbeamten gemäß § 84 Satz 1 des Bundesdisziplinargesetzes.
 
-
-## II.
+# II.
 
 Die Präsidentin oder der Präsident des Bundesarchivs und  
 die Bundesbeauftragte oder der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik  
 sind für die gerichtliche Vertretung des Dienstherrn bei Klagen in disziplinarrechtlichen Angelegenheiten, die seitens der Bundesbeamtinnen und Bundesbeamten erhoben werden, insoweit zuständig, als ihnen jeweils die Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten übertragen ist.
 
-
-## III.
+# III.
 
 Diese allgemeine Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Beauftragte der Bundesregierung für Kultur und Medien

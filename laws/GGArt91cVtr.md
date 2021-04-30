@@ -1,15 +1,11 @@
-# [GGArt91cVtr] Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (Anlage des Gesetzes zum Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG)  (IT-Staatsvertrag)
-
-Ausfertigungsdatum: 20.11.2009
-
+% Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (Anlage des Gesetzes zum Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG)  (IT-Staatsvertrag)
+% Ausfertigungsdatum: 20.11.2009
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Präambel
 
-
-## Präambel
+# Präambel
 
   
 Das Land Baden-Württemberg,
@@ -47,9 +43,7 @@ der Freistaat Thüringen
 sowie die  
  Bundesrepublik Deutschland (im Weiteren „der Bund“ genannt)  
  (im Folgenden „Vertragspartner“)  
- sehen übereinstimmend die wachsenden Herausforderungen als Folge der Entwicklungen in der Informationstechnik. Der reibungslose und sichere Betrieb informationstechnischer Systeme stellt eine wesentliche Anforderung an die Aufrechterhaltung geordneter Abläufe in den Verwaltungen der Vertragspartner dar.  
- Der Bund und die Länder haben mit der Erarbeitung des im Anhang zu diesem Vertrag wiedergegebenen „Gemeinsamen Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund-Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“ die Grundlage für ein neues System der Bund-Länder-IT-Koordinierung erarbeitet und in die Beratungen der Kommission zur Modernisierung der Bund-Länder-Finanzbeziehungen (Föderalismuskommission II) eingebracht (Arbeitsunterlage AG 3 – 08). Hieraus hat die Föderalismuskommission II mit Artikel 91c des Grundgesetzes eine Grundlage für die IT-Koordinierung von Bund und Ländern entwickelt und beschlossen.  
- Die Vertragspartner treffen daher auf der Grundlage des Artikel 91c des Grundgesetzes
+ sehen übereinstimmend die wachsenden Herausforderungen als Folge der Entwicklungen in der Informationstechnik. Der reibungslose und sichere Betrieb informationstechnischer Systeme stellt eine wesentliche Anforderung an die Aufrechterhaltung geordneter Abläufe in den Verwaltungen der Vertragspartner dar.  Der Bund und die Länder haben mit der Erarbeitung des im Anhang zu diesem Vertrag wiedergegebenen „Gemeinsamen Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund-Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“ die Grundlage für ein neues System der Bund-Länder-IT-Koordinierung erarbeitet und in die Beratungen der Kommission zur Modernisierung der Bund-Länder-Finanzbeziehungen (Föderalismuskommission II) eingebracht (Arbeitsunterlage AG 3 – 08). Hieraus hat die Föderalismuskommission II mit Artikel 91c des Grundgesetzes eine Grundlage für die IT-Koordinierung von Bund und Ländern entwickelt und beschlossen.  Die Vertragspartner treffen daher auf der Grundlage des Artikel 91c des Grundgesetzes
 
 –  
 zur Einrichtung und Regelung der Arbeitsweise eines IT-Planungsrats als Steuerungsgremium der allgemeinen IT-Kooperation nach Artikel 91c Absatz 1 und 2 des Grundgesetzes,
@@ -62,8 +56,7 @@ zum Verfahren nach Artikel 91c Absatz 2 des Grundgesetzes zur Festlegung von IT-
 
 folgende Vereinbarung:
 
-
-## § 1 – Einrichtung, Aufgaben, Beschlussfassung
+# § 1 – Einrichtung, Aufgaben, Beschlussfassung
 
 (1) Der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zwischen Bund und Ländern (IT-Planungsrat)
 
@@ -99,8 +92,7 @@ Der Bund und die Länder stellen sicher, dass ihre Vertreter über die erforderl
 
 (8) Der IT-Planungsrat gibt sich eine Geschäftsordnung. Darin sind insbesondere Regelungen vorzusehen, die sicherstellen, dass, sofern erforderlich, eine Kabinettsbehandlung oder andere notwendige Abstimmungen über einen im IT-Planungsrat vorgesehenen Beschluss rechtzeitig durchgeführt werden können.
 
-
-## § 2 – Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards
+# § 2 – Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards
 
 (1) Für den im Rahmen ihrer Aufgabenerfüllung notwendigen Austausch von Daten zwischen dem Bund und den Ländern sollen gemeinsame Standards für die auszutauschenden Datenobjekte, Datenformate und Standards für Verfahren, die zur Datenübertragung erforderlich sind, sowie IT-Sicherheitsstandards festgelegt werden, soweit nicht eine spezialgesetzliche Regelungsbefugnis vorliegt. Hierbei ist vorrangig auf bestehende Marktstandards abzustellen.
 
@@ -108,18 +100,15 @@ Der Bund und die Länder stellen sicher, dass ihre Vertreter über die erforderl
 
 (3) Vor einer Beschlussfassung über verbindliche Standards im Sinne des Absatz 1 wird auf Antrag des Bundes oder dreier Länder grundsätzlich der Bedarf für einen solchen Beschluss sowie die IT-fachliche Qualität und Widerspruchsfreiheit des vorgesehenen Standards durch eine vom IT-Planungsrat bestimmte, unabhängige Einrichtung geprüft. Die Einrichtung kann in ihre Prüfung weitere Personen oder Einrichtungen, insbesondere Fachleute aus Wirtschaft und Wissenschaft, einbeziehen. Der IT-Planungsrat entscheidet unter Einbeziehung der Ergebnisse der Prüfung; er ist dabei nicht an die Ergebnisse der Prüfung gebunden.
 
-
-## § 3 – Aufgaben im Bereich Verbindungsnetz
+# § 3 – Aufgaben im Bereich Verbindungsnetz
 
 Der IT-Planungsrat nimmt die Aufgaben des Koordinierungsgremiums nach Maßgabe des aufgrund von Artikel 91c Absatz 4 des Grundgesetzes ergangenen Bundesgesetzes wahr.
 
-
-## § 4 – Informationsaustausch
+# § 4 – Informationsaustausch
 
 Der Bund und die Länder informieren sich möglichst frühzeitig über beabsichtigte Vorhaben zur Einrichtung und Entwicklung informationstechnischer Systeme, um eine bedarfsgerechte Zusammenarbeit zu ermöglichen.
 
-
-## § 5 – Errichtung und Aufgaben
+# § 5 – Errichtung und Aufgaben
 
 (1) Die Vertragspartner errichten mit Wirkung zum 1. Januar 2020 eine rechtsfähige Anstalt des öffentlichen Rechts (gemeinsame Anstalt). Sie trägt die Bezeichnung „FITKO“ (Föderale IT-Kooperation) und hat ihren Sitz in Frankfurt am Main. Die gemeinsame Anstalt hat die Aufgabe, den IT-Planungsrat organisatorisch, fachlich und bei der Wahrnehmung der Aufgaben nach § 1 Absatz 1 zu unterstützen. Das Nähere regelt der IT-Planungsrat durch einstimmigen Beschluss und trifft dabei insbesondere Regelungen zu den Aufgaben, Befugnissen, der Wirtschaftsführung und Leitung der gemeinsamen Anstalt und ihrer Organe (Gründungsbeschluss).
 
@@ -129,8 +118,7 @@ Der Bund und die Länder informieren sich möglichst frühzeitig über beabsicht
 
 (4) Zur Wahrnehmung von Querschnittsaufgaben soll sich die gemeinsame Anstalt Dritter bedienen.
 
-
-## § 6 – Trägerschaft, Dienstherrnfähigkeit, anwendbares Recht
+# § 6 – Trägerschaft, Dienstherrnfähigkeit, anwendbares Recht
 
 (1) Träger der gemeinsamen Anstalt sind die Vertragspartner zu gleichen Teilen. Die Anteile an der gemeinsamen Anstalt sind nicht übertragbar.
 
@@ -142,8 +130,7 @@ Der Bund und die Länder informieren sich möglichst frühzeitig über beabsicht
 
 (5) Der Versorgungslastenteilungs-Staatsvertrag über die Verteilung der Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln ist anzuwenden.
 
-
-## § 7 – Organe
+# § 7 – Organe
 
 (1) Die gemeinsame Anstalt wird von einem Präsidenten geleitet und vertreten. Er wird hierbei vom Verwaltungsrat beaufsichtigt.
 
@@ -151,13 +138,11 @@ Der Bund und die Länder informieren sich möglichst frühzeitig über beabsicht
 
 (3) Der Präsident wird vom IT-Planungsrat für die Dauer von höchstens fünf Jahren bestellt. Erneute Bestellungen sind zulässig. Der Präsident beruft einen Vertreter für den Fall seiner Abwesenheit.
 
-
-## § 8 – Aufsicht
+# § 8 – Aufsicht
 
 Die gemeinsame Anstalt unterliegt der Rechtsaufsicht der Vertragspartner. Die Rechtsaufsicht wird vom Sitzland ausgeübt. Das Sitzland stellt vor der Ausübung von aufsichtlichen Maßnahmen mit den Vertragspartnern Einvernehmen her, sofern nicht ein Eilfall entgegensteht. Jeder Vertragspartner kann beim Sitzland aufsichtliche Maßnahmen beantragen. Zuständige Stellen für Angelegenheiten der Rechtsaufsicht durch die Vertragspartner sind die Ministerien oder die Behörden, denen die jeweiligen Vertreter für Informationstechnik als Mitglieder des IT-Planungsrats (§ 1 Absatz 2) angehören.
 
-
-## § 9 – Finanzierung
+# § 9 – Finanzierung
 
 (1) Die gemeinsame Anstalt erhält zur Erfüllung ihrer Aufgaben von den Vertragspartnern Finanzmittel nach Maßgabe des Wirtschaftsplans und der jeweiligen Haushalte des Bundes und der Länder.
 
@@ -173,13 +158,11 @@ Die gemeinsame Anstalt unterliegt der Rechtsaufsicht der Vertragspartner. Die Re
 
 (7) Die Zuweisung der Finanzmittel aus dem Wirtschaftsplan für das erste Halbjahr 2020 erfolgt zum 2. Januar 2020. Zur Sicherstellung der unterbrechungsfreien Auszahlung der Besoldung der Beamten, die zum 1. Januar 2020 von einem Dienstverhältnis bei einem der Vertragspartner in die gemeinsame Anstalt wechseln, wird der abgebende Vertragspartner die Besoldung für den Januar 2020 auszahlen. Er erlangt einen Rückzahlungsanspruch in voller Höhe der geleisteten Zahlungen gegenüber der gemeinsamen Anstalt.
 
-
-## § 10 – Unzulässigkeit eines Insolvenzverfahrens
+# § 10 – Unzulässigkeit eines Insolvenzverfahrens
 
 Ein Insolvenzverfahren über das Vermögen der gemeinsamen Anstalt ist unzulässig.
 
-
-## § 11 – Änderung, Kündigung
+# § 11 – Änderung, Kündigung
 
 (1) Änderungen dieses Vertrages bedürfen einer einstimmigen Entscheidung der Vertragspartner.
 
@@ -189,8 +172,7 @@ Ein Insolvenzverfahren über das Vermögen der gemeinsamen Anstalt ist unzuläss
 
 (4) Die gemeinsame Anstalt besteht unter der Trägerschaft der übrigen Vertragspartner weiter. Zwischen den verbleibenden Vertragspartnern und dem kündigenden Vertragspartner wird eine öffentlich-rechtliche Vereinbarung über die Auseinandersetzung, insbesondere über die Verteilung des Aktivvermögens sowie die Übernahme der bestehenden Verbindlichkeiten und Versorgungslasten, geschlossen. In der Auseinandersetzungsvereinbarung sind auch die Konsequenzen für das Personal der gemeinsamen Anstalt zu regeln. Eine Kündigung nach Absatz 2 wird erst wirksam, wenn die Auseinandersetzungsvereinbarung vorliegt.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten, Übergangsregelung
+# § 12 – Inkrafttreten, Außerkrafttreten, Übergangsregelung
 
 (1) Dieser Vertrag tritt am 1. April 2010 in Kraft. Sind bis zum 31. März 2010 nicht mindestens dreizehn Ratifikationsurkunden bei dem der Ministerpräsidentenkonferenz vorsitzenden Land hinterlegt, wird der Vertrag gegenstandslos.
 
@@ -202,8 +184,7 @@ Ein Insolvenzverfahren über das Vermögen der gemeinsamen Anstalt ist unzuläss
 
 (5) Die nach § 2 des IT-Staatsvertrags in der Fassung vom 1. April 2010 beim Bundesministerium des Innern, für Bau und Heimat eingerichtete Geschäftsstelle wird bis zum 30. Juni 2020 fortgeführt. Danach gehen die Aufgaben der Geschäftsstelle auf die gemeinsame Anstalt über. Die gemeinsame Anstalt tritt insoweit in die Rechtsnachfolge ein.
 
-
-## Anhang – „Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“
+# Anhang – „Gemeinsames Grundverständnis der technischen und organisatorischen Ausgestaltung der Bund/Länder-Zusammenarbeit bei dem Verbindungsnetz und der IT-Steuerung“
 
 A. Verbindungsnetz
 

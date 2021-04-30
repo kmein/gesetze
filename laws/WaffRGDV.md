@@ -1,22 +1,17 @@
-# [WaffRGDV] Verordnung zur Durchführung des Waffenregistergesetzes  (Waffenregistergesetz-Durchführungsverordnung - WaffRGDV)
-
-Ausfertigungsdatum: 31.07.2012
-
+% Verordnung zur Durchführung des Waffenregistergesetzes  (Waffenregistergesetz-Durchführungsverordnung - WaffRGDV)
+% Ausfertigungsdatum: 31.07.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des Nationalen-Waffenregister-Gesetzes vom 25. Juni 2012 (BGBl. I S. 1366) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Inhalt der Datensätze
+# § 1 – Inhalt der Datensätze
 
 (1) Die Speicherung der Daten im Nationalen Waffenregister erfolgt nach Maßgabe des Datensatzes für das Waffenwesen (DSWaffe) vom 6. Juli 2012 (BAnz AT 22.08.2012 B2) in der jeweils aktuellen Fassung. Änderungen des DSWaffe werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht; anzugeben ist das Herausgabedatum und ab wann der geänderte DSWaffe anzuwenden ist.
 
 (2) Der jeweils aktuelle Stand des DSWaffe ist beim Bundesverwaltungsamt, Barbarastraße 1, 50735 Köln, zu beziehen. Die Bekanntmachungen sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann zugänglich und archivmäßig gesichert niedergelegt.
 
-
-## § 2 – Datenübermittlung an die Registerbehörde
+# § 2 – Datenübermittlung an die Registerbehörde
 
 (1) Die Datenübermittlung der Waffenbehörden erfolgt über die informationstechnischen Netze von Bund, Ländern und Kommunen. Die Datenübermittlung zwischen dem Bund und den Ländern erfolgt gemäß § 3 des Gesetzes zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes vom 10. August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden Fassung über das Verbindungsnetz.
 
@@ -28,8 +23,7 @@ Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des Nationale
 
 (+++ § 2 Abs. 2 u. Abs. 3 Satz 1 u. 2: zur Geltung vgl. § 2a Abs. 4 +++)
 
-
-## § 2a – Datenübermittlung an die Waffenbehörden
+# § 2a – Datenübermittlung an die Waffenbehörden
 
 (1) Das automatisierte Fachverfahren wird von einer zu diesem Zweck beauftragten Stelle betrieben. Die Beauftragung erfolgt durch die Länder.
 
@@ -45,8 +39,7 @@ Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des Nationale
 
 (5) Das Bundesministerium des Innern, für Bau und Heimat macht die Schnittstellenspezifikation zur Nutzung des automatisierten Fachverfahrens nach Absatz 2 Nummer 2 im Bundesanzeiger bekannt; anzugeben ist, ab wann die Schnittstellenspezifikation zu nutzen ist und wo die Schnittstellenspezifikation zu beziehen ist. Satz 1 gilt entsprechend für Änderungen der Schnittstellenspezifikation. Die Schnittstellenspezifikation ist in der jeweils aktuell geltenden Fassung anzuwenden. Die Bekanntmachungen sind beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann zugänglich und archivmäßig gesichert niedergelegt.
 
-
-## § 3 – Verfahren zur Datenübermittlung an die Registerbehörde
+# § 3 – Verfahren zur Datenübermittlung an die Registerbehörde
 
 (1) Liegt zu einer Person noch kein Datensatz im Nationalen Waffenregister vor, wird ein neuer Datensatz angelegt und an die Registerbehörde übermittelt. Die Registerbehörde vergibt für die Person die Personen-Ordnungsnummer und teilt diese der Waffenbehörde mit. Die Waffenbehörde übermittelt unter Bezugnahme auf die Personen-Ordnungsnummer die Daten, die nach den Speicheranlässen des § 5 Nummer 1, Nummer 2, Nummer 3 Buchstabe a, Nummer 4, Nummer 8 oder Nummer 9 des Waffenregistergesetzes zu übermitteln sind. Die Registerbehörde vergibt zu diesen Daten die waffenrechtliche Entscheidungs-Ordnungsnummer und teilt diese der Waffenbehörde mit. Die Waffenbehörde übermittelt unter Bezugnahme auf die waffenrechtliche Entscheidungs-Ordnungsnummer die Grunddaten der Waffe oder des wesentlichen Teils. Die Registerbehörde vergibt für die Grunddaten der Waffe oder des wesentlichen Teils die Waffen- oder Waffenteil-Ordnungsnummer.
 
@@ -54,8 +47,7 @@ Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des Nationale
 
 (3) Stimmen Angaben nach § 6 Absatz 1 Nummer 2 oder Nummer 3 des Waffenregistergesetzes zu einer Person mit den gespeicherten Angaben zu einer anderen Person überein oder weichen nur geringfügig von dieser ab, übermittelt die Waffenbehörde an die Registerbehörde einen Hinweis, dass es sich um verschiedene Personen handelt.
 
-
-## § 4 – Zulassung zum automatisierten Abrufverfahren
+# § 4 – Zulassung zum automatisierten Abrufverfahren
 
 (1) Die Zulassung zum Datenabruf im automatisierten Verfahren ist schriftlich bei der Registerbehörde zu beantragen. Im Antrag ist darzulegen, ob die Voraussetzungen des § 20 Absatz 1 Nummer 3 des Waffenregistergesetzes vorliegen. Zugleich ist anzugeben, in welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf geschaffen werden sollen. Die Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen.
 
@@ -67,18 +59,15 @@ Auf Grund des § 20 Absatz 1 und 2 sowie des § 22 Absatz 2 Satz 2 des Nationale
 
 (5) Die Registerbehörde gewährleistet im automatisierten Abrufverfahren nach den §§ 20 und 21 des Waffenregistergesetzes durch programmtechnische Vorkehrungen, dass keine Daten übermittelt werden, wenn die Identität der abfragenden Stelle nicht zweifelsfrei feststeht. Sie dokumentiert für sechs Monate Anfragen ohne Kennung und Anfragen mit einer fehlerhaften Kennung.
 
-
-## § 5 – Datenabruf im automatisierten Verfahren
+# § 5 – Datenabruf im automatisierten Verfahren
 
 Die Datenübermittlung durch Abruf im automatisierten Verfahren erfolgt unter Nutzung des Datenaustauschstandards XWaffe oder über die von der Registerbehörde bereitgestellte Portalanwendung. § 2 Absatz 1 und 3 gilt entsprechend.
 
-
-## § 6 – Identitätsfeststellung durch die zum Ersuchen berechtigten Stellen
+# § 6 – Identitätsfeststellung durch die zum Ersuchen berechtigten Stellen
 
 Ähnliche Personen, ähnliche Kaufleute, ähnliche juristische Personen, ähnliche Personenvereinigungen und ähnliche Waffen im Sinne des § 16 Absatz 3 des Waffenregistergesetzes sind solche, deren Daten nach § 6 Absatz 1 des Waffenregistergesetzes oder abweichende Namensschreibweisen mit den im Übermittlungsersuchen angegebenen Daten nach § 6 Absatz 1 des Waffenregistergesetzes übereinstimmen oder nur geringfügig davon abweichen.
 
-
-## § 7 – Datenschutz und Datensicherheit
+# § 7 – Datenschutz und Datensicherheit
 
 (1) Die Registerbehörde trifft die technischen und organisatorischen Maßnahmen, die erforderlich sind, um die Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der verarbeiteten Daten entsprechend dem jeweiligen Stand der Technik sicherzustellen. Dabei ist die besondere Schutzbedürftigkeit der im Register gespeicherten Daten zu berücksichtigen.
 
@@ -88,12 +77,10 @@ Die Datenübermittlung durch Abruf im automatisierten Verfahren erfolgt unter Nu
 
 (4) Die Organisation der in den Absätzen 1 und 2 genannten Stellen ist so zu gestalten, dass sie den Grundsätzen der Aufgabentrennung und der Erforderlichkeit entsprechen; insbesondere ist der Zugang zu personenbezogenen Daten nur so weit gestattet, wie es der Aufgabenerfüllung dient.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

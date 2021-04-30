@@ -1,10 +1,7 @@
-# [GAKG] Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"  (GAK-Gesetz - GAKG)
-
-Ausfertigungsdatum: 03.09.1969
-
+% Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des Küstenschutzes"  (GAK-Gesetz - GAKG)
+% Ausfertigungsdatum: 03.09.1969
  
-
-## § 1 – Gemeinschaftsaufgabe
+# § 1 – Gemeinschaftsaufgabe
 
 (1) Zur Verbesserung der Agrarstruktur und des Küstenschutzes werden als Gemeinschaftsaufgabe im Sinne des Artikels 91a Abs. 1 des Grundgesetzes wahrgenommen:
 
@@ -50,8 +47,7 @@ umfassen können;
 
 (2) Eine für Maßnahmen gemäß Absatz 1 erforderliche Vorplanung ist Bestandteil der Gemeinschaftsaufgabe.
 
-
-## § 2 – Allgemeine Grundsätze
+# § 2 – Allgemeine Grundsätze
 
 (1) Die Erfüllung der Gemeinschaftsaufgabe dient dazu,
 
@@ -65,20 +61,17 @@ Dabei sind die Ziele und Erfordernisse der Raumordnung, Landesplanung, des Umwel
 
 (2) Bei der Erfüllung der Gemeinschaftsaufgabe sollen räumliche und sachliche Schwerpunkte gebildet werden. Bei den Maßnahmen ist ökologischen Erfordernissen Rechnung zu tragen. Im übrigen sind die Maßnahmen mit anderen öffentlichen Neuordnungs- und Entwicklungsmaßnahmen abzustimmen. Die in § 1 Absatz 1 Nummer 7 genannten Maßnahmen können nur in den von den Ländern definierten Gebieten zur Umsetzung der europäischen Agrarpolitik für den ländlichen Raum durchgeführt werden und im Falle der Buchstaben a bis c außerdem nur, wenn besondere Anstrengungen zur Sicherung der Daseinsvorsorge erforderlich sind.
 
-
-## § 3 – Förderungsarten
+# § 3 – Förderungsarten
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen, Zinszuschüssen und Bürgschaften bestehen.
 
-
-## § 4 – Gemeinsamer Rahmenplan
+# § 4 – Gemeinsamer Rahmenplan
 
 (1) Für die Erfüllung der Gemeinschaftsaufgabe wird ein gemeinsamer Rahmenplan aufgestellt.
 
 (2) Der Rahmenplan ist für den Zeitraum der Finanzplanung aufzustellen, jedes Jahr sachlich zu prüfen, der Entwicklung anzupassen und fortzuführen. Die mehrjährige Finanzplanung des Bundes und der Länder ist zu berücksichtigen.
 
-
-## § 5 – Inhalt des Rahmenplans
+# § 5 – Inhalt des Rahmenplans
 
 (1) Der Rahmenplan bezeichnet
 
@@ -92,8 +85,7 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen, Zin
 
 (2) Der Rahmenplan enthält ferner für die Maßnahmen Förderungsgrundsätze, in denen insbesondere der Verwendungszweck der Mittel, die Förderungsvoraussetzungen und die Art und Höhe der Förderung näher bestimmt werden.
 
-
-## § 6 – Planungsausschuß
+# § 6 – Planungsausschuß
 
 (1) Für die Rahmenplanung bilden die Bundesregierung und die Landesregierungen einen Planungsausschuß. Ihm gehören der Bundesminister für Ernährung und Landwirtschaft als Vorsitzender sowie der Bundesminister der Finanzen und ein Minister (Senator) jedes Landes an. Eine Vertretung ist zulässig.
 
@@ -103,8 +95,7 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen, Zin
 
 (4) Der Planungsausschuß gibt sich eine Geschäftsordnung.
 
-
-## § 7 – Anmeldung zum Rahmenplan
+# § 7 – Anmeldung zum Rahmenplan
 
 (1) Bis zum 1. März jedes Jahres können die Länder dem Bundesministerium für Ernährung und Landwirtschaft die Förderungsgrundsätze zur Aufnahme in den Rahmenplan für das folgende Jahr vorschlagen. Die Vorschläge sind zu begründen.
 
@@ -120,18 +111,15 @@ Die angemeldeten Maßnahmen sind zu begründen. Überjährige Maßnahmen, die be
 
 (4) Für Anmeldungen zur Änderung des Rahmenplans gelten die Absätze 1 bis 3 sinngemäß.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Durchführung des Rahmenplans
+# § 9 – Durchführung des Rahmenplans
 
 (1) Die Durchführung des Rahmenplans ist Aufgabe der Länder.
 
 (2) Die Landesregierungen unterrichten die Bundesregierung und den Bundesrat auf Verlangen über die Durchführung des Rahmenplans und den allgemeinen Stand der Gemeinschaftsaufgabe.
 
-
-## § 10 – Erstattung
+# § 10 – Erstattung
 
 (1) Der Bund erstattet vorbehaltlich des Artikels 91a Absatz 3 Satz 4 des Grundgesetzes jedem Land die ihm in Durchführung des Rahmenplans entstandenen Ausgaben in Höhe von
 
@@ -141,8 +129,7 @@ Die angemeldeten Maßnahmen sind zu begründen. Überjährige Maßnahmen, die be
 
 (2) Der Bund leistet bis zur voraussichtlichen Höhe des nach Absatz 1 von ihm zu erstattenden Betrages entsprechend dem jeweiligen Stand der Maßnahme und der bereitgestellten Haushaltsmittel Vorauszahlungen an das Land. Zur Feststellung des Mittelbedarfs teilen die Länder dem Bundesministerium für Ernährung und Landwirtschaft die Höhe der verausgabten Mittel sowie den Stand und die voraussichtliche Entwicklung der Maßnahmen mit.
 
-
-## § 11 – Rückzahlung und Verzinsung der Bundesmittel
+# § 11 – Rückzahlung und Verzinsung der Bundesmittel
 
 (1) Beträge, die vom Zuwendungsempfänger zur Tilgung und Verzinsung erhaltener Darlehen oder zum Ausgleich der auf Grund übernommener Bürgschaften erstatteten Ausfälle gezahlt werden, sind vom Land anteilig an den Bund abzuführen.
 
@@ -152,7 +139,6 @@ Die angemeldeten Maßnahmen sind zu begründen. Überjährige Maßnahmen, die be
 
 (4) Die an den Bund nach den vorstehenden Absätzen abzuführenden Beträge sind vom Land in Höhe von fünf vom Hundert über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuches zu verzinsen, im Falle des Absatzes 2 vom Zeitpunkt der Auszahlung der Bundesmittel an, in den Fällen der Absätze 1 und 3 vom Beginn des zweiten auf den Eingang des Betrages beim Land folgenden Monats. Der am Ersten des Monats geltende Basiszinssatz ist für jeden Zinstag dieses Monats zugrunde zu legen.
 
-
-## § 12 – (Inkrafttreten)
+# § 12 – (Inkrafttreten)
 
 \-

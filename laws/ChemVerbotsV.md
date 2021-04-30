@@ -1,10 +1,7 @@
-# [ChemVerbotsV] Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz  (Chemikalien-Verbotsverordnung - ChemVerbotsV)
-
-Ausfertigungsdatum: 20.01.2017
-
+% Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz  (Chemikalien-Verbotsverordnung - ChemVerbotsV)
+% Ausfertigungsdatum: 20.01.2017
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für das Inverkehrbringen bestimmter gefährlicher Stoffe und Gemische sowie bestimmter Erzeugnisse, die diese freisetzen können oder enthalten, nach dem Chemikaliengesetz. Sie regelt zum Schutz des Menschen und der Umwelt vor stoffbedingten Schädigungen
 
@@ -12,8 +9,7 @@ Diese Verordnung gilt für das Inverkehrbringen bestimmter gefährlicher Stoffe 
 
 2. Anforderungen, die in Bezug auf die Abgabe bestimmter gefährlicher Stoffe und Gemische einzuhalten sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -31,8 +27,7 @@ b) mit der Absicht zur Gewinnerzielung im Rahmen einer nicht nur im Einzelfall d
 
 5. Empfangsperson: eine vom Erwerber beauftragte natürliche Person, die die Ware bei der Abgabe entgegennimmt.
 
-
-## § 3 – Verbote und Beschränkungen des Inverkehrbringens
+# § 3 – Verbote und Beschränkungen des Inverkehrbringens
 
 (1) Beschränkungen des Inverkehrbringens bestimmter Stoffe, Gemische und Erzeugnisse ergeben sich insbesondere aus Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1, L 136 vom 29.5.2007, S. 3, L 141 vom 31.5.2008, S. 22, L 36 vom 5.2.2009, S. 84) in ihrer jeweils geltenden Fassung.
 
@@ -48,8 +43,7 @@ b) mit der Absicht zur Gewinnerzielung im Rahmen einer nicht nur im Einzelfall d
 
 (4) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt im Bundesanzeiger für die in Anlage 1 genannten Stoffe und Stoffgruppen den Wortlaut derjenigen geeigneten analytischen Verfahren für Probenahmen und Untersuchungen bekannt, die wissenschaftlich anerkannten Prüfverfahren entsprechen. Stehen geeignete Verfahren zur Verfügung, die (C)EN-Normen entsprechen, ist im Zusammenhang mit der spezifischen Vorschrift zur Probeentnahme ein Verweis auf diese Normen ausreichend.
 
-
-## § 4 – Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
+# § 4 – Nationale Ausnahmen von Beschränkungsregelungen nach der Verordnung (EG) Nr. 1907/2006
 
 (1) Die Beschränkungen nach Artikel 67 in Verbindung mit Anhang XVII Eintrag 6 der Verordnung (EG) Nr. 1907/2006 gelten nicht für das Inverkehrbringen
 
@@ -61,8 +55,7 @@ b) mit der Absicht zur Gewinnerzielung im Rahmen einer nicht nur im Einzelfall d
 
 (2) Das Verbot des Inverkehrbringens nach Artikel 67 in Verbindung mit Anhang XVII Eintrag 16 und 17 der Verordnung (EG) Nr. 1907/2006 gilt nicht für die dort genannten Bleiverbindungen in oder für Farben, die zur Erhaltung oder originalgetreuen Wiederherstellung von Kunstwerken und historischen Bestandteilen oder von Einrichtungen denkmalgeschützter Gebäude bestimmt sind, wenn die Verwendung von Ersatzstoffen nicht möglich ist.
 
-
-## § 5 – Anforderungen und Ausnahmen
+# § 5 – Anforderungen und Ausnahmen
 
 (1) In Bezug auf die Abgabe der in Anlage 2 Spalte 1 aufgeführten Stoffe und Gemische gelten die jeweils in Anlage 2 Spalte 2 bezeichneten Anforderungen dieses Abschnitts.
 
@@ -94,8 +87,7 @@ b) Klebstoffe, Härter, Mehrkomponentenkleber oder Mehrkomponenten-Reparaturspac
 
 9. elektronischen Zigaretten und Nachfüllbehältern im Sinne von § 2 Nummer 2 des Tabakerzeugnisgesetzes vom 4. April 2016 (BGBl. I S. 569).
 
-
-## § 6 – Erlaubnispflicht
+# § 6 – Erlaubnispflicht
 
 (1) Wer Stoffe oder Gemische, für die in Anlage 2 auf diese Vorschrift verwiesen wird, abgibt oder für Dritte bereitstellt, bedarf der Erlaubnis der zuständigen Behörde. Satz 1 gilt nicht
 
@@ -121,8 +113,7 @@ b) Klebstoffe, Härter, Mehrkomponentenkleber oder Mehrkomponenten-Reparaturspac
 
 2. die mit der Erlaubnis verbundenen Auflagen nicht eingehalten wurden.
 
-
-## § 7 – Anzeigepflicht
+# § 7 – Anzeigepflicht
 
 (1) Wer Stoffe oder Gemische, für die in Anlage 2 Spalte 3 auf diese Vorschrift verwiesen wird, an den in § 5 Absatz 2 genannten Empfängerkreis abgibt oder für diesen bereitstellt, hat der zuständigen Behörde die erstmalige Abgabe oder Bereitstellung der Stoffe oder Gemische vor Aufnahme dieser Tätigkeit schriftlich anzuzeigen. Satz 1 gilt nicht für
 
@@ -132,8 +123,7 @@ b) Klebstoffe, Härter, Mehrkomponentenkleber oder Mehrkomponenten-Reparaturspac
 
 (2) In der Anzeige ist mindestens eine Person zu benennen, die die Anforderungen nach § 6 Absatz 2 erfüllt. Jeder Wechsel dieser Person sowie die endgültige Aufgabe der Tätigkeit nach Absatz 1 Satz 1 ist der zuständigen Behörde unverzüglich schriftlich anzuzeigen.
 
-
-## § 8 – Grundanforderungen zur Durchführung der Abgabe
+# § 8 – Grundanforderungen zur Durchführung der Abgabe
 
 (1) Die Abgabe von Stoffen oder Gemischen, für die in Anlage 2 auf diese Vorschrift verwiesen wird, darf nur von einer im Betrieb beschäftigten Person durchgeführt werden, die die Anforderungen nach § 6 Absatz 2 erfüllt.
 
@@ -165,8 +155,7 @@ c) die ordnungsgemäße Entsorgung und
 
 (+++ § 8 Abs. 1, 2 u. 3 Nr. 2: zur Anwendung vgl. Anlage 2 Fußnote 2 +++)
 
-
-## § 9 – Identitätsfeststellung und Dokumentation
+# § 9 – Identitätsfeststellung und Dokumentation
 
 (1) Über die Abgabe von Stoffen und Gemischen, für die in Anlage 2 auf diese Vorschrift verwiesen wird, ist ein Abgabebuch zu führen. Das Abgabebuch kann auch in elektronischer Form geführt werden.
 
@@ -196,15 +185,13 @@ g) im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehransta
 
 (4) Soweit in Anlage 2 Spalte 3 auf diesen Absatz verwiesen wird, gelten die Anforderungen nach Absatz 1, 2 Nummer 2 und 3 und Absatz 3 bei der Abgabe an den in § 5 Absatz 2 genannten Empfängerkreis nicht, wenn der Betriebsinhaber die Angaben nach Absatz 2 Nummer 2 und 3 in anderer Weise für mindestens fünf Jahre nachweisen kann.
 
-
-## § 10 – Versand
+# § 10 – Versand
 
 (1) Stoffe und Gemische, für die in Anlage 2 auf diese Vorschrift verwiesen wird, dürfen außerhalb des in § 5 Absatz 2 bezeichneten Empfängerkreises nicht im Versandwege abgegeben oder zum Versand angeboten werden.
 
 (2) Absatz 1 gilt auch für die nicht gewerbsmäßige Abgabe und das nicht gewerbsmäßige Anbieten.
 
-
-## § 11 – Sachkunde
+# § 11 – Sachkunde
 
 (1) Die erforderliche Sachkunde nach § 6 Absatz 2 Nummer 1 hat nachgewiesen, wer
 
@@ -234,8 +221,7 @@ g) im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehransta
 
 (+++ § 11 Abs. 1 Nr. 2: zur Anwendung vgl. § 14 Abs. 4 +++)
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe a des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 7 Absatz 1 Satz 1 oder Absatz 2 Satz 2, auch in Verbindung mit § 14 Absatz 2, eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
 
@@ -257,8 +243,7 @@ g) im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehransta
 
 5. entgegen § 9 Absatz 4 die Angaben nicht oder nicht mindestens fünf Jahre nachweisen kann.
 
-
-## § 13 – Straftaten
+# § 13 – Straftaten
 
 (1) Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
@@ -272,8 +257,7 @@ g) im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehransta
 
 (4) Erkennt der Täter in den Fällen des Absatzes 3 leichtfertig nicht, dass der Stoff oder das Gemisch für eine rechtswidrige Tat, die den Tatbestand eines Strafgesetzes verwirklicht, verwendet werden soll, ist er nach § 27c Absatz 2 des Chemikaliengesetzes strafbar.
 
-
-## § 14 – Übergangsvorschriften
+# § 14 – Übergangsvorschriften
 
 (1) Eine nach früheren Rechtsvorschriften erteilte Erlaubnis, die einer Erlaubnis nach § 6 Absatz 1 entspricht, gilt im erteilten Umfang fort.
 
@@ -287,8 +271,7 @@ g) im Fall der Abgabe an öffentliche Forschungs-, Untersuchungs- oder Lehransta
 
 (4) § 11 Absatz 1 Nummer 2 ist erst ab dem 1. Juni 2019 anzuwenden.
 
-
-## Anlage 1 – (zu § 3)Inverkehrbringensverbote
+# Anlage 1 – (zu § 3)Inverkehrbringensverbote
 
 (Fundstelle: BGBl. I 2017, 99 - 101)
 
@@ -313,13 +296,10 @@ Eintrag 1
 Formaldehyd
 
 (1) Beschichtete und unbeschichtete Holzwerkstoffe (Spanplatten, Tischlerplatten, Furnierplatten, und Faserplatten) dürfen nicht in den Verkehr gebracht werden, wenn die durch  
-den Holzwerkstoff verursachte Ausgleichskonzentration des Formaldehyds in der Luft eines Prüfraumes 0,1 ml/cbm (ppm) überschreitet.  
-(2) Möbel, die Holzwerkstoffe enthalten, die nicht den Anforderungen nach Absatz 1 entsprechen, dürfen nicht in den Verkehr gebracht werden. Absatz 1 gilt jedoch auch als erfüllt, wenn die Möbel die unter Absatz 1 genannte Ausgleichskonzentration bei einer Ganzkörperprüfung einhalten.  
-(3) Wasch-, Reinigungs- und Pflegemittel mit einem Massengehalt von mehr als 0,2 % Formaldehyd dürfen nicht in den Verkehr gebracht werden.
+den Holzwerkstoff verursachte Ausgleichskonzentration des Formaldehyds in der Luft eines Prüfraumes 0,1 ml/cbm (ppm) überschreitet. (2) Möbel, die Holzwerkstoffe enthalten, die nicht den Anforderungen nach Absatz 1 entsprechen, dürfen nicht in den Verkehr gebracht werden. Absatz 1 gilt jedoch auch als erfüllt, wenn die Möbel die unter Absatz 1 genannte Ausgleichskonzentration bei einer Ganzkörperprüfung einhalten. (3) Wasch-, Reinigungs- und Pflegemittel mit einem Massengehalt von mehr als 0,2 % Formaldehyd dürfen nicht in den Verkehr gebracht werden.
 
 (1) Das Verbot nach Spalte 2  
-Absatz 1 gilt nicht für Platten, die ausschließlich zum Zwecke einer geeigneten Beschichtung in den Verkehr gebracht werden, sofern sichergestellt ist, dass sie nach der Beschichtung die in Spalte 2 Absatz 1 genannte Ausgleichskonzentration einhalten.  
-(2) Das Verbot nach Spalte 2  
+Absatz 1 gilt nicht für Platten, die ausschließlich zum Zwecke einer geeigneten Beschichtung in den Verkehr gebracht werden, sofern sichergestellt ist, dass sie nach der Beschichtung die in Spalte 2 Absatz 1 genannte Ausgleichskonzentration einhalten. (2) Das Verbot nach Spalte 2  
 Absatz 3 gilt nicht für Reiniger im ausschließlich industriellen Gebrauch.
 
 Eintrag 2
@@ -466,8 +446,7 @@ Erzeugnisse, die mit einem Gemisch behandelt worden sind, das Stoffe nach Spalte
 
 Das Verbot nach Spalte 2 gilt nicht  
 für Holzbestandteile von Gebäuden und Möbeln sowie Textilien, die  
-vor dem 23. Dezember 1989 mit Gemischen behandelt wurden, die Stoffe nach Spalte 1 enthielten.  
-In dem in Artikel 3 des Einigungsvertrages genannten Gebiet tritt an die Stelle des 23. Dezembers 1989 der 3. Oktober 1990.
+vor dem 23. Dezember 1989 mit Gemischen behandelt wurden, die Stoffe nach Spalte 1 enthielten. In dem in Artikel 3 des Einigungsvertrages genannten Gebiet tritt an die Stelle des 23. Dezembers 1989 der 3. Oktober 1990.
 
 Eintrag 4
 
@@ -509,8 +488,7 @@ von 1 000 Grad Celsius bis zu 1 200 Grad Celsius erfordern und eine Halbwertze
 b) eine Klassifikationstemperatur  
 von über 1 200 Grad Celsius erfordern und eine Halbwertzeit nach intratrachealer Instillation von höchstens 100 Tagen besitzen.
 
-
-## Anlage 2 – (zu §§ 5 bis 11)Anforderungen in Bezug auf die Abgabe
+# Anlage 2 – (zu §§ 5 bis 11)Anforderungen in Bezug auf die Abgabe
 
 (Fundstelle: BGBl. I 2017, 104 — 105)
 

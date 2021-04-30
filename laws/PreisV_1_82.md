@@ -1,15 +1,11 @@
-# [PreisV 1/82] Zweite Preisfreigabeverordnung (PR Nr. 1/82)
-
-Ausfertigungsdatum: 12.05.1982
-
+% Zweite Preisfreigabeverordnung (PR Nr. 1/82)
+% Ausfertigungsdatum: 12.05.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 2 und 3 des Preisgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 720-1, veröffentlichten bereinigten Fassung wird im Einvernehmen mit dem Bundesminister der Finanzen, dem Bundesminister für Ernährung, Landwirtschaft und Forsten, dem Bundesminister für Verkehr, dem Bundesminister für das Post- und Fernmeldewesen und dem Bundesminister für Raumordnung, Bauwesen und Städtebau verordnet:
 
-
-## § 1
+# § 1
 
 Soweit in § 2 nichts anderes bestimmt ist, werden folgende Vorschriften aufgehoben:
 
@@ -21,8 +17,7 @@ Soweit in § 2 nichts anderes bestimmt ist, werden folgende Vorschriften aufgeho
 
 4. Vorschriften, die auf Grund des Preisgesetzes oder einer auf dieses Gesetz gestützten Rechtsverordnung erlassen worden sind.
 
-
-## § 2
+# § 2
 
 Folgende Vorschriften sind weiterhin anzuwenden:
 
@@ -36,8 +31,7 @@ Folgende Vorschriften sind weiterhin anzuwenden:
 
 5. Seehafen-Speditions-Tarife vom 3. April 1952 (BAnz. Nr. 72 vom 12. April 1952);
 
-6.  
-7.
+6. 7.
 
 8. Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. Nr. 244 vom 18. Dezember 1953), zuletzt geändert durch die Verordnung PR Nr. 7/67 vom 12. Dezember 1967 (BAnz. Nr. 237 vom 19. Dezember 1967);
 
@@ -47,15 +41,12 @@ Folgende Vorschriften sind weiterhin anzuwenden:
 
 11. Verordnung PR Nr. 63/50 über einen Preisausgleich für die eisenverbrauchende Wirtschaft in West-Berlin vom 21. September 1950 (BAnz. Nr. 189 vom 30. September 1950), zuletzt geändert durch die Verordnung PR Nr. 13/67 vom 22. Dezember 1967 (BAnz. Nr. 244 vom 30. Dezember 1967);
 
-12.  
-13.
+12. 13.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am 1. Juni 1982 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft

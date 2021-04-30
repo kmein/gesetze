@@ -1,10 +1,7 @@
-# [FlRV] Flaggenrechtsverordnung  (FlRV)
-
-Ausfertigungsdatum: 04.07.1990
-
+% Flaggenrechtsverordnung  (FlRV)
+% Ausfertigungsdatum: 04.07.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -14,8 +11,7 @@ des § 22 Nr. 1, 4, 5 und 6 Buchstaben a bis f des Flaggenrechtsgesetzes in der 
 \-  
 des § 22 Nr. 3 des Flaggenrechtsgesetzes verordnet der Bundesminister für Verkehr im Einvernehmen mit dem Bundesminister der Justiz:
 
-
-## § 1
+# § 1
 
 Als Grenzen der Seefahrt im Sinne des § 1 des Flaggenrechtsgesetzes werden bestimmt:
 
@@ -27,22 +23,19 @@ Als Grenzen der Seefahrt im Sinne des § 1 des Flaggenrechtsgesetzes werden best
 
 4. bei Mündungen von Flüssen, die keine Binnenwasserstraßen sind, die Verbindungslinie der äußeren Uferausläufe.
 
-
-## § 2
+# § 2
 
 (1) Für die Erteilung eines Schiffsvorzertifikats (§ 3 Buchstabe a, § 5 des Flaggenrechtsgesetzes) ist das Konsulat zuständig, in dessen Bezirk sich das Schiff in dem Zeitpunkt befindet, in dem das Recht zur Führung der Bundesflagge oder die Befugnis zur Ausübung dieses Rechts entsteht.
 
 (2) Das ausstellende Konsulat ist für die Eintragung des Vermerks in das Schiffsvorzertifikat nach § 7a Absatz 1 des Flaggenrechtsgesetzes zuständig.
 
-
-## § 3
+# § 3
 
 (1) Der Antrag auf Erteilung eines Schiffsvorzertifikats ist vom Eigentümer des Schiffs zu stellen. In dem Antrag sind anzugeben:
 
 1. der Name des Schiffes;
 
-1a.  
-soweit erteilt, die in § 11 Abs. 1 Nr. 5 der Schiffsregisterordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1133) genannte Schiffsidentifikationsnummer (IMO-Nummer);
+1a. soweit erteilt, die in § 11 Abs. 1 Nr. 5 der Schiffsregisterordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1133) genannte Schiffsidentifikationsnummer (IMO-Nummer);
 
 2. gegebenenfalls das von einem Registergericht zugeteilte Unterscheidungssignal;
 
@@ -68,13 +61,11 @@ soweit erteilt, die in § 11 Abs. 1 Nr. 5 der Schiffsregisterordnung in der Fass
 
 (2) Die in Absatz 1 bezeichneten Angaben von Tatsachen sind glaubhaft zu machen. Der Schiffsmeßbrief oder die entsprechende Urkunde einer ausländischen Vermessungsbehörde (Absatz 1 Nr. 6) oder eine beglaubigte Abschrift oder Ablichtung dieser Urkunde, bei Schiffsneubauten eine Bescheinigung über das vorläufige amtliche Meßergebnis sind vorzulegen. In den Fällen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes ist ferner eine Bescheinigung nach § 5b Abs. 1 vorzulegen.
 
-
-## § 4
+# § 4
 
 Bei der Entscheidung über die Ausstellung des Schiffsvorzertifikats ist insbesondere zu berücksichtigen, ob ausreichende Gründe für die Erteilung dieses Ausweises anstelle des Schiffszertifikats vorhanden sind. Hat der Eigentümer des Schiffs keinen Wohnsitz im Geltungsbereich des Grundgesetzes, so hat der Antragsteller nachzuweisen, daß ihm eine rechtzeitige Eintragung des Schiffs in einem deutschen Schiffsregister nicht möglich war.
 
-
-## § 5
+# § 5
 
 (1) Das Schiffsvorzertifikat hat die aus dem Muster in der Anlage zu dieser Verordnung ersichtliche Form.
 
@@ -82,8 +73,7 @@ Bei der Entscheidung über die Ausstellung des Schiffsvorzertifikats ist insbeso
 
 (3) Wird für das Schiff ein Schiffszertifikat erteilt, so hat der Eigentümer das Schiffsvorzertifikat unverzüglich dem Schiffsregistergericht, welches das Schiffszertifikat erteilt hat, abzugeben.
 
-
-## § 5a
+# § 5a
 
 In den Fällen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes hat der Eigentümer des Seeschiffs gegenüber der Flaggenbehörde
 
@@ -93,8 +83,7 @@ In den Fällen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes hat der Eige
 
 3. (weggefallen)
 
-
-## § 5b
+# § 5b
 
 (1) Sind die Nachweise des § 5a geführt, so bescheinigt die Flaggenbehörde, daß die Voraussetzungen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes erfüllt sind. In der Bescheinigung sind Name und Wohnsitz des Eigentümers und der nach § 5a Nr. 1 beauftragten Person zu verzeichnen.
 
@@ -104,18 +93,15 @@ In den Fällen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes hat der Eige
 
 (4) Beim Wegfall der einem Nachweis zugrundeliegenden Tatsachen widerruft die Flaggenbehörde die nach Absatz 1 erteilte Bescheinigung und teilt dies dem für die Führung des Schiffsregisters zuständigen Gericht sowie der Berufsgenossenschaft für Transport und Verkehrswirtschaft mit.
 
-
-## § 5c
+# § 5c
 
 Die Berufsgenossenschaft für Transport und Verkehrswirtschaft ist im Rahmen ihrer Befugnisse nach der Schiffssicherheitsverordnung berechtigt, bei Fehlen oder Wegfall der in § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes genannten Voraussetzungen die Weiterfahrt des Seeschiffs im deutschen Hoheitsgebiet zu verbieten oder nur unter Bedingungen oder Auflagen zuzulassen, die sicherstellen, daß die Hoheitsgewalt und Kontrolle des Flaggenstaates über das Schiff wirksam ausgeübt werden kann.
 
-
-## § 6
+# § 6
 
 Für die Verleihung der Befugnisse zur Führung der Bundesflagge (§§ 10 und 11 FlRG) und die Erteilung der Flaggenscheine (§ 3 Buchstabe b des Flaggenrechtsgesetzes), verbunden mit der Zuteilung der Unterscheidungssignale der Schiffe, ist die Flaggenbehörde zuständig.
 
-
-## § 7
+# § 7
 
 (1) Der Antrag auf Verleihung der Befugnis zur Führung der Bundesflagge und auf Erteilung eines Flaggenscheins ist
 
@@ -131,8 +117,7 @@ zu stellen.
 
 (3)
 
-
-## § 8
+# § 8
 
 (1) In dem Antrag sind der Name, in den Fällen des § 10 des Flaggenrechtsgesetzes die Baunummer des Schiffes sowie die in § 3 Abs. 1 Nr. 3, 4, 6 und 7 genannten Daten anzugeben.
 
@@ -168,8 +153,7 @@ d) die Tatsache, aus denen sich ergibt, daß das Schiff gemäß den Vorschriften
 
 3. in den Fällen des § 7 Abs. 1 Nr. 3 die öffentlich beglaubigte Erklärung des Eigentümers, daß er dem Flaggenwechsel für die Dauer des Nutzungsrechts des Ausrüsters zustimmt.
 
-
-## § 9
+# § 9
 
 Der Flaggenschein wird
 
@@ -181,18 +165,15 @@ Der Flaggenschein wird
 
 erteilt. Wird die Befugnis zur Führung der Bundesflagge vor Ablauf der in Satz 1 genannten Fristen auf späteren Antrag für einen weiteren Zeitraum verliehen, so kann dies auf dem Flaggenschein vermerkt werden; der Erteilung eines neuen Flaggenscheins bedarf es in diesem Fall nicht.
 
-
-## § 10
+# § 10
 
 Die Flaggenbehörde übersendet der Berufsgenossenschaft für Transport und Verkehrswirtschaft eine beglaubigte Abschrift oder Ablichtung des Flaggenscheins.
 
-
-## § 11
+# § 11
 
 Der Antragsteller hat unverzüglich alle Veränderungen der in § 8 bezeichneten Angaben anzuzeigen. Die Anzeige ist an die Flaggenbehörde zu richten. Auf Verlangen der Flaggenbehörde ist der Flaggenschein zur Berichtigung vorzulegen.
 
-
-## § 12
+# § 12
 
 Flaggenbescheinigungen (§ 3 Buchstabe c des Flaggenrechtsgesetzes) werden ausgestellt:
 
@@ -200,25 +181,21 @@ Flaggenbescheinigungen (§ 3 Buchstabe c des Flaggenrechtsgesetzes) werden ausge
 
 2. für die anderen in § 3 Buchstabe c des Flaggenrechtsgesetzes genannten Seeschiffe von der Flaggenbehörde.
 
-
-## § 13
+# § 13
 
 Die Flaggenbescheinigung berührt nicht die Vorschriften darüber, ob und wie anstelle oder neben der Bundesflagge eine Dienstflagge gesetzt werden darf.
 
-
-## § 14
+# § 14
 
 Für die Erteilung der Flaggenzertifikate (§ 3 Buchstabe d des Flaggenrechtsgesetzes) ist die Flaggenbehörde zuständig.
 
-
-## § 15
+# § 15
 
 (1) Wird der Antrag auf Erteilung eines Flaggenzertifikats für ein Seeschiff gestellt, das nicht nach den Vorschriften der §§ 1 oder 2 des Flaggenrechtsgesetzes zur Führung der Bundesflagge berechtigt ist, so ist er mit dem Antrag auf Verleihung der Befugnis hierzu zu verbinden.
 
 (2) Für Fahrzeuge, die nach ihrer Bauart nicht zur Seefahrt im Sinne des § 1 des Flaggenrechtsgesetzes bestimmt sind, kann ein Antrag auf Erteilung eines Flaggenzertifikats nicht gestellt werden.
 
-
-## § 16
+# § 16
 
 (1) Der Antrag auf Erteilung eines Flaggenzertifikats ist vom Eigentümer des Seeschiffs zu stellen.
 
@@ -234,25 +211,21 @@ Für die Erteilung der Flaggenzertifikate (§ 3 Buchstabe d des Flaggenrechtsges
 
 (3) § 3 Abs. 2 Satz 1 gilt entsprechend.
 
-
-## § 17
+# § 17
 
 Ist der Antragsteller nicht Deutscher im Sinne der §§ 1 und 2 des Flaggenrechtsgesetzes oder einem Deutschen nach dessen § 2 oder 23 gleichgestellt, wird das Flaggenzertifikat unter dem Vorbehalt des Widerrufs nach Maßgabe der Verleihung der Befugnis zur Führung der Bundesflagge ausgestellt. In den Fällen des § 2 Absatz 1 Nummer 3 des Flaggenrechtsgesetzes ist bei der Ausstellung eines Flaggenzertifikats eine gesonderte Bescheinigung nach § 5b Abs. 1 nicht erforderlich.
 
-
-## § 18
+# § 18
 
 (1) Flaggenzertifikate sind spätestens nach Ablauf von 8 Jahren seit ihrer Ausstellung ungültig, es sei denn, die Gültigkeitsdauer wird für jeweils höchstens den gleichen Zeitraum verlängert.
 
 (2) § 11 gilt für die in § 16 bezeichneten Angaben entsprechend.
 
-
-## § 19
+# § 19
 
 (weggefallen)
 
-
-## § 20
+# § 20
 
 (1) Der Antrag hat die in § 3 Abs. 1 Nr. 1 bis 7, 9 und 10 bezeichneten Angaben zu enthalten.
 
@@ -294,15 +267,13 @@ b) die Zustimmung des Eigentümers zur Führung der anderen Nationalflagge;
 
 (4) § 11 Satz 1 und 2 gilt für die in den Absätzen 1 und 2 bezeichneten Angaben entsprechend.
 
-
-## § 20a
+# § 20a
 
 (1) Für den Nachweis nach § 7 Absatz 2 Satz 4 des Flaggenrechtsgesetzes sind die Personen, durch die ein Platz zur seefahrtbezogenen Ausbildung an Bord des ausgeflaggten Seeschiffes im Sinne des § 7 Absatz 2 Satz 1 des Flaggenrechtsgesetzes besetzt wird, und die Zeiträume ihrer Beschäftigung an Bord des ausgeflaggten Seeschiffes anzugeben.
 
 (2) Die Angaben sind durch Vorlage von Ablichtungen geeigneter Unterlagen, insbesondere der entsprechenden Besatzungslisten, Ausbildungsverträge und Heuerverträge nachzuweisen.
 
-
-## § 21
+# § 21
 
 (1) Die Flaggenbehörde führt ein Register aller Seeschiffe, denen ein amtlicher Ausweis über die Berechtigung zur Führung der Bundesflagge (§ 3 des Flaggenrechtsgesetzes) erteilt worden ist (§ 22 Nr. 6 Buchstabe d des Flaggenrechtsgesetzes).
 
@@ -316,8 +287,7 @@ b) die Zustimmung des Eigentümers zur Führung der anderen Nationalflagge;
 
 4. bei sonstigen Schiffen die in § 3 Abs. 1 Nr. 1 bis 6, 9 und 10 bezeichneten Daten sowie der Name des Eigentümers,
 
-4a.  
-bei Plattformen, die zeitweilig schwimmen und zeitweilig fest mit dem Boden verankert sind, der Ort der Verankerung,
+4a. bei Plattformen, die zeitweilig schwimmen und zeitweilig fest mit dem Boden verankert sind, der Ort der Verankerung,
 
 5. in den Fällen der §§ 10 und 11 des Flaggenrechtsgesetzes zusätzlich zu den unter Nummer 4 bezeichneten Daten der Inhalt der verliehenen Berechtigung,
 
@@ -325,23 +295,19 @@ bei Plattformen, die zeitweilig schwimmen und zeitweilig fest mit dem Boden vera
 
 7. alle Veränderungen der unter den Nummern 1 bis 6 bezeichneten Daten.
 
-
-## § 22
+# § 22
 
 Die Eintragung wird zehn Jahre nach Beendigung der Berechtigung zur Führung der Bundesflagge gelöscht.
 
-
-## § 23
+# § 23
 
 Das internationale Seeschiffahrtsregister (§ 12 des Flaggenrechtsgesetzes) wird von der Flaggenbehörde als Anhang zum Flaggenregister geführt. Es enthält über die Angaben im Flaggenregister hinaus nur den Vermerk, daß das Schiff im internationalen Seeschiffahrtsregister eingetragen ist.
 
-
-## § 24
+# § 24
 
 Mit dem Antrag auf Eintragung in das internationale Seeschiffahrtsregister hat der Eigentümer glaubhaft die Tatsachen anzugeben, aus denen sich der Betrieb des Schiffs im internationalen Verkehr im Sinne des § 34c Abs. 4 des Einkommensteuergesetzes in der jeweils geltenden Fassung ergibt.
 
-
-## § 25
+# § 25
 
 (1) Ein im Internationalen Seeschiffahrtsregister eingetragenes Seeschiff wird ausgetragen
 
@@ -353,32 +319,27 @@ Ein Schiff wird nicht ausgetragen, wenn nur der eingetragene Name geändert wird
 
 (2) Die Eintragung wird zehn Jahre nach Austragung des Seeschiffs gelöscht.
 
-
-## § 26
+# § 26
 
 (1) Bei der Anwendung dieser Verordnung ist den völkerrechtlichen Verantwortlichkeiten der Bundesrepublik Deutschland als Flaggen- und als Registerstaat Rechnung zu tragen.
 
 (2) Diese Verordnung läßt die Verpflichtungen des Antragstellers, Kontrollen in technischen, sozialen und Verwaltungsangelegenheiten über das Schiff zuzulassen und es insbesondere den vorgeschriebenen Besichtigungen und Prüfungen zu stellen, unberührt.
 
-
-## § 27
+# § 27
 
 Flaggenbehörde ist das Bundesamt für Seeschiffahrt und Hydrographie.
 
-
-## § 28
+# § 28
 
 (1) Die Anträge im Sinne dieser Verordnung sollen rechtzeitig für jedes Schiff gesondert gestellt werden. Die Flaggenbehörde gibt Muster der Anträge im Verkehrsblatt bekannt.
 
 (2) Die Flaggenbehörde kann bei der Ermittlung von Tatsachen, die glaubhaft zu machen sind, vom Antragsteller oder von Dritten eine Versicherung an Eides Statt verlangen und abnehmen.
 
-
-## § 29
+# § 29
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Muster der amtlichen Ausweise über die Berechtigung zur Führung der Bundesflagge und die Muster der Formblätter zur lückenlosen Stammdatendokumentation im Sinne des § 13 Abs. 2 Satz 1 des Flaggenrechtsgesetzes im Verkehrsblatt bekannt.
 
-
-## § 30
+# § 30
 
 (1) Die Anzeige des Schiffsnamens und dessen Änderung ist an die Flaggenbehörde zu richten; diese ist auch für die Untersagung der Führung von Schiffsnamen (§ 9 Abs. 3 des Flaggenrechtsgesetzes) zuständig.
 
@@ -386,8 +347,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Muster de
 
 (3) Die IMO-Schiffsidentifikationsnummer im Sinne des § 9a Abs. 1 des Flaggenrechtsgesetzes muss deutlich und vollständig sichtbar, von anderen Markierungen am Schiffskörper abgesetzt, mindestens 200 Millimeter hoch und in einer mit der Umgebung kontrastierenden Farbe angebracht sein. Sie ist in Form eines erhabenen oder eines vertieften Reliefs, durch Aufnieten oder in einem sonstigen gleichwertigen Markierungsverfahren auszuführen, durch das sichergestellt ist, dass die IMO-Schiffsidentifikationsnummer nicht leicht unkenntlich gemacht werden kann.
 
-
-## § 30a
+# § 30a
 
 (1) Die Bescheinigung über die lückenlose Stammdatendokumentation im Sinne des § 13 Abs. 2 Satz 1 des Flaggenrechtsgesetzes ist vom Eigentümer des Seeschiffes bei der Flaggenbehörde zu beantragen. Dem Antrag sind die für die lückenlose Stammdatendokumentation erforderlichen Informationen beizufügen. Änderungen sind der Flaggenbehörde unverzüglich mitzuteilen.
 
@@ -397,8 +357,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Muster de
 
 (4) Die Flaggenbehörde stellt innerhalb von drei Monaten ab dem Datum der ersten Änderung dem Seeschiff eine aktualisierte lückenlose Stammdatendokumentation aus. Der Schiffsführer ist verpflichtet, nach Erhalt der aktualisierten Stammdatendokumentation die Maßnahmen nach den Nummern 10 und 11 der Anlage zur Entschließung A.959(23) zu ergreifen.
 
-
-## § 31
+# § 31
 
 (1) Für jedes Schiff wird über die Berechtigung zur Führung der Bundesflagge nur ein Ausweis erteilt.
 
@@ -406,18 +365,15 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Muster de
 
 (3) Die Absätze 1 und 2 gelten nicht für das Schiffszertifikat.
 
-
-## § 32
+# § 32
 
 \-
 
-
-## § 33
+# § 33
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 5 Abs. 1)
+# Anlage – (zu § 5 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 1394;  
 bzgl. der einzelnen Änderungen vgl. Fußnote.

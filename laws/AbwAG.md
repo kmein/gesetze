@@ -1,15 +1,11 @@
-# [AbwAG] Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer  (Abwasserabgabengesetz - AbwAG)
-
-Ausfertigungsdatum: 13.09.1976
-
+% Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer  (Abwasserabgabengesetz - AbwAG)
+% Ausfertigungsdatum: 13.09.1976
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer 1 bis 3 des Wasserhaushaltsgesetzes ist eine Abgabe zu entrichten (Abwasserabgabe). Sie wird durch die Länder erhoben.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Abwasser im Sinne dieses Gesetzes sind das durch häuslichen, gewerblichen, landwirtschaftlichen oder sonstigen Gebrauch in seinen Eigenschaften veränderte und das bei Trockenwetter damit zusammen abfließende Wasser (Schmutzwasser) sowie das von Niederschlägen aus dem Bereich von bebauten oder befestigten Flächen abfließende und gesammelte Wasser (Niederschlagswasser). Als Schmutzwasser gelten auch die aus Anlagen zum Behandeln, Lagern und Ablagern von Abfällen austretenden und gesammelten Flüssigkeiten.
 
@@ -17,8 +13,7 @@ Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer 1 bis 
 
 (3) Abwasserbehandlungsanlage im Sinne dieses Gesetzes ist eine Einrichtung, die dazu dient, die Schädlichkeit des Abwassers zu vermindern oder zu beseitigen; ihr steht eine Einrichtung gleich, die dazu dient, die Entstehung von Abwasser ganz oder teilweise zu verhindern.
 
-
-## § 3 – Bewertungsgrundlage
+# § 3 – Bewertungsgrundlage
 
 (1) Die Abwasserabgabe richtet sich nach der Schädlichkeit des Abwassers, die unter Zugrundelegung der oxidierbaren Stoffe, des Phosphors, des Stickstoffs, der organischen Halogenverbindungen, der Metalle Quecksilber, Cadmium, Chrom, Nickel, Blei, Kupfer und ihrer Verbindungen sowie der Giftigkeit des Abwassers gegenüber Fischeiern nach der Anlage zu diesem Gesetz in Schadeinheiten bestimmt wird. Eine Bewertung der Schädlichkeit entfällt außer bei Niederschlagswasser (§ 7) und Kleineinleitungen (§ 8), wenn die der Ermittlung der Zahl der Schadeinheiten zugrunde zu legende Schadstoffkonzentration oder Jahresmenge die in der Anlage angegebenen Schwellenwerte nicht überschreitet oder der Verdünnungsfaktor G(tief)EI nicht mehr als 2 beträgt.
 
@@ -28,8 +23,7 @@ Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer 1 bis 
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die in der Anlage festgelegten Vorschriften über die Verfahren zur Bestimmung der Schädlichkeit dem jeweiligen Stand der Wissenschaft und Technik anzupassen, wenn dadurch die Bewertung der Schädlichkeit nicht wesentlich verändert wird.
 
-
-## § 4 – Ermittlung auf Grund des Bescheides
+# § 4 – Ermittlung auf Grund des Bescheides
 
 (1) Die der Ermittlung der Zahl der Schadeinheiten zugrunde zu legende Schadstofffracht errechnet sich außer bei Niederschlagswasser (§ 7) und bei Kleineinleitungen (§ 8) nach den Festlegungen des die Abwassereinleitung zulassenden Bescheides. Der Bescheid hat hierzu mindestens für die in der Anlage zu § 3 unter den Nummern 1 bis 5 genannten Schadstoffe und Schadstoffgruppen die in einem bestimmten Zeitraum im Abwasser einzuhaltende Konzentration und bei der Giftigkeit gegenüber Fischeiern den in einem bestimmten Zeitraum einzuhaltenden Verdünnungsfaktor zu begrenzen (Überwachungswerte) sowie die Jahresschmutzwassermenge festzulegen. Enthält der Bescheid für einen Schadstoff oder eine Schadstoffgruppe Überwachungswerte für verschiedene Zeiträume, ist der Abgabenberechnung der Überwachungswert für den längsten Zeitraum zugrunde zu legen; Jahres- und Monatsmittelwerte bleiben außer Betracht. Ist im Abwasser einer der in der Anlage zu § 3 genannten Schadstoffe oder Schadstoffgruppen nicht über den dort angegebenen Schwellenwerten zu erwarten, so kann insoweit von der Festlegung von Überwachungswerten abgesehen werden.
 
@@ -41,34 +35,29 @@ Für das Einleiten von Abwasser in ein Gewässer im Sinne von § 3 Nummer 1 bis 
 
 (5) Erklärt der Einleiter gegenüber der zuständigen Behörde, dass er im Veranlagungszeitraum während eines bestimmten Zeitraumes, der nicht kürzer als drei Monate sein darf, einen niedrigeren Wert als den im Bescheid nach Absatz 1 festgelegten Überwachungswert oder eine geringere als die im Bescheid festgelegte Abwassermenge einhalten wird, so ist die Zahl der Schadeinheiten für diesen Zeitraum nach dem erklärten Wert zu ermitteln. Die Abweichung muss mindestens 20 vom Hundert betragen. Die Erklärung, in der die Umstände darzulegen sind, auf denen sie beruht, ist mindestens zwei Wochen vor dem beantragten Zeitraum abzugeben. Die Absätze 2 und 3 gelten entsprechend. Die Einhaltung des erklärten Wertes ist entsprechend den Festlegungen des Bescheides für den Überwachungswert durch ein behördlich zugelassenes Messprogramm nachzuweisen; die Messergebnisse der behördlichen Überwachung sind in die Auswertung des Messprogramms mit einzubeziehen. Wird die Einhaltung des erklärten Wertes nicht nachgewiesen oder ergibt die behördliche Überwachung, dass ein nach Absatz 1 der Abgabenberechnung zugrunde zu legender Überwachungswert oder eine Festlegung nach Absatz 4 Satz 6 nicht eingehalten ist oder nicht als eingehalten gilt, finden die Absätze 1 bis 4 Anwendung.
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6 – Ermittlung in sonstigen Fällen
+# § 6 – Ermittlung in sonstigen Fällen
 
 (1) Soweit die zur Ermittlung der Schadeinheiten erforderlichen Festlegungen nicht in einem Bescheid nach § 4 Abs. 1 enthalten sind, hat der Einleiter spätestens einen Monat vor Beginn des Veranlagungszeitraums gegenüber der zuständigen Behörde zu erklären, welche für die Ermittlung der Schadeinheiten maßgebenden Überwachungswerte er im Veranlagungszeitraum einhalten wird. Kommt der Einleiter der Verpflichtung nach Satz 1 nicht nach, ist der Ermittlung der Schadeinheiten jeweils das höchste Messergebnis aus der behördlichen Überwachung zugrunde zu legen. Liegt kein Ergebnis aus der behördlichen Überwachung vor, hat die zuständige Behörde die Überwachungswerte zu schätzen. Die Jahresschmutzwassermenge wird bei der Ermittlung der Schadeinheiten geschätzt.
 
 (2) § 4 Abs. 2 bis 5 gilt entsprechend.
 
-
-## § 7 – Pauschalierung bei Einleitung von verschmutztem Niederschlagswasser
+# § 7 – Pauschalierung bei Einleitung von verschmutztem Niederschlagswasser
 
 (1) Die Zahl der Schadeinheiten von Niederschlagswasser, das über eine öffentliche Kanalisation eingeleitet wird, beträgt zwölf vom Hundert der Zahl der angeschlossenen Einwohner. Wird das Niederschlagswasser von befestigten gewerblichen Flächen über eine nichtöffentliche Kanalisation eingeleitet, sind der Abgabenberechnung 18 Schadeinheiten je volles Hektar zugrunde zu legen, wenn die befestigten gewerblichen Flächen größer als drei Hektar sind. Die Zahl der angeschlossenen Einwohner oder die Größe der befestigten Fläche kann geschätzt werden.
 
 (2) Die Länder können bestimmen, unter welchen Voraussetzungen die Einleitung von Niederschlagswasser ganz oder zum Teil abgabefrei bleibt.
 
-
-## § 8 – Pauschalierung bei Kleineinleitungen von Schmutzwasser aus Haushaltungen und ähnlichem Schmutzwasser
+# § 8 – Pauschalierung bei Kleineinleitungen von Schmutzwasser aus Haushaltungen und ähnlichem Schmutzwasser
 
 (1) Die Zahl der Schadeinheiten von Schmutzwasser aus Haushaltungen und ähnlichem Schmutzwasser, für das eine Körperschaft des öffentlichen Rechts nach § 9 Abs. 2 Satz 2 abgabepflichtig ist, beträgt die Hälfte der Zahl der nicht an die Kanalisation angeschlossenen Einwohner, soweit die Länder nichts anderes bestimmen. Ist die Zahl der Einwohner nicht oder nur mit unverhältnismäßigem Aufwand zu ermitteln, kann sie geschätzt werden.
 
 (2) Die Länder können bestimmen, unter welchen Voraussetzungen die Einleitung abgabefrei bleibt. Die Einleitung ist abgabefrei, wenn der Bau der Abwasserbehandlungsanlage mindestens den allgemein anerkannten Regeln der Technik entspricht und die ordnungsgemäße Schlammbeseitigung sichergestellt ist.
 
-
-## § 9 – Abgabepflicht, Abgabesatz
+# § 9 – Abgabepflicht, Abgabesatz
 
 (1) Abgabepflichtig ist, wer Abwasser einleitet (Einleiter).
 
@@ -104,8 +93,7 @@ Satz 1 gilt entsprechend, wenn für die im Bescheid nach § 4 Absatz 1 festgeset
 
 (6) Im Falle einer Erklärung nach § 4 Abs. 5 berechnet sich die Ermäßigung nach dem erklärten Wert, wenn der Bescheid im Anschluss an die Erklärung an den erklärten Wert angepasst wird und dieser die Voraussetzungen des Absatzes 5 erfüllt.
 
-
-## § 10 – Ausnahmen von der Abgabepflicht
+# § 10 – Ausnahmen von der Abgabepflicht
 
 (1) Nicht abgabepflichtig ist das Einleiten von
 
@@ -125,8 +113,7 @@ Satz 1 gilt entsprechend, wenn für die im Bescheid nach § 4 Absatz 1 festgeset
 
 (5) Werden in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Abwasseranlagen errichtet oder erweitert, deren Aufwendungen nach Absatz 3 oder 4 verrechnungsfähig sind, so können die Aufwendungen oder Leistungen hierzu nach Maßgabe der Absätze 3 und 4 auch mit Abwasserabgaben verrechnet werden, die der Abgabepflichtige für andere Einleitungen in diesem Gebiet bis zum Veranlagungsjahr 2005 schuldet.
 
-
-## § 11 – Veranlagungszeitraum, Erklärungspflicht
+# § 11 – Veranlagungszeitraum, Erklärungspflicht
 
 (1) Veranlagungszeitraum ist das Kalenderjahr.
 
@@ -134,20 +121,17 @@ Satz 1 gilt entsprechend, wenn für die im Bescheid nach § 4 Absatz 1 festgeset
 
 (3) Die Länder können bestimmen, dass der Abgabepflichtige auch in anderen Fällen die Zahl der Schadeinheiten des Abwassers zu berechnen, die für eine Schätzung erforderlichen Angaben zu machen und die dazugehörigen Unterlagen der zuständigen Behörde vorzulegen hat. Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 12 – Verletzung der Erklärungspflicht
+# § 12 – Verletzung der Erklärungspflicht
 
 (1) Kommt der Abgabepflichtige seinen Verpflichtungen nach § 11 Abs. 2 Satz 1 und den ergänzenden Vorschriften der Länder nicht nach, so kann die Zahl der Schadeinheiten von der zuständigen Behörde geschätzt werden.
 
 (2) Der Einleiter, der nach § 9 Abs. 2 oder 3 nicht abgabepflichtig ist, kann im Wege der Schätzung zur Abgabe herangezogen werden, wenn er seinen Verpflichtungen nach § 11 Abs. 2 Satz 2 und den ergänzenden Vorschriften der Länder nicht nachkommt. In diesem Fall haften der Abgabepflichtige und der Einleiter als Gesamtschuldner.
 
-
-## § 12a – Rechtsbehelfe gegen die Heranziehung
+# § 12a – Rechtsbehelfe gegen die Heranziehung
 
 Widerspruch und Anfechtungsklage gegen die Anforderung der Abgabe haben keine aufschiebende Wirkung. Satz 1 ist auch auf Bescheide anzuwenden, die vor dem 19. Dezember 1984 erlassen worden sind.
 
-
-## § 13 – Verwendung
+# § 13 – Verwendung
 
 (1) Das Aufkommen der Abwasserabgabe ist für Maßnahmen, die der Erhaltung oder Verbesserung der Gewässergüte dienen, zweckgebunden. Die Länder können bestimmen, dass der durch den Vollzug dieses Gesetzes und der ergänzenden landesrechtlichen Vorschriften entstehende Verwaltungsaufwand aus dem Aufkommen der Abwasserabgabe gedeckt wird.
 
@@ -167,13 +151,11 @@ Widerspruch und Anfechtungsklage gegen die Anforderung der Abgabe haben keine au
 
 7. Ausbildung und Fortbildung des Betriebspersonals für Abwasserbehandlungsanlagen und andere Anlagen zur Erhaltung und Verbesserung der Gewässergüte.
 
-
-## § 14 – Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+# § 14 – Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
 
 Für die Hinterziehung von Abwasserabgaben gelten die Strafvorschriften des § 370 Abs. 1, 2 und 4 und des § 371 der Abgabenordnung (AO 1977) entsprechend, für die Verkürzung von Abwasserabgaben gilt die Bußgeldvorschrift des § 378 der Abgabenordnung (AO 1977) entsprechend.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -183,23 +165,19 @@ Für die Hinterziehung von Abwasserabgaben gelten die Strafvorschriften des § 3
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 16 – Stadtstaaten-Klausel
+# § 16 – Stadtstaaten-Klausel
 
 § 1 findet auch Anwendung, wenn die Länder Berlin und Hamburg selbst abgabepflichtig sind. § 9 Abs. 2 Satz 1 und 2 gilt für die Länder Berlin und Hamburg mit der Maßgabe, dass sie sich auch selbst als abgabepflichtig bestimmen können.
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18
+# § 18
 
 (Inkrafttreten)
 
-
-## Anlage – (zu § 3)
+# Anlage – (zu § 3)
 
 (Fundstelle: BGBl. I 2005, 119;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

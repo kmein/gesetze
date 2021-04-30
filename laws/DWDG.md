@@ -1,10 +1,7 @@
-# [DWDG] Gesetz über den Deutschen Wetterdienst  (DWD-Gesetz)
-
-Ausfertigungsdatum: 10.09.1998
-
+% Gesetz über den Deutschen Wetterdienst  (DWD-Gesetz)
+% Ausfertigungsdatum: 10.09.1998
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 1\. Abschnitt
 
@@ -98,8 +95,7 @@ Evaluierung
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Rechtsform, Aufbau, Sitz
+# § 1 – Rechtsform, Aufbau, Sitz
 
 (1) Der Deutsche Wetterdienst ist eine teilrechtsfähige Anstalt des öffentlichen Rechts im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
@@ -107,20 +103,17 @@ Inkrafttreten, Außerkrafttreten
 
 (3) Der Deutsche Wetterdienst hat seinen Sitz in Offenbach am Main.
 
-
-## § 2 – Aufsicht
+# § 2 – Aufsicht
 
 Der Deutsche Wetterdienst untersteht der Dienst- und Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur. Im Rahmen der Fachaufsicht erfolgt die Steuerung des Deutschen Wetterdienstes durch das Bundesministerium für Verkehr und digitale Infrastruktur durch Zielvorgaben und Erfolgskontrollen. Die haushaltsrechtlichen Bestimmungen bleiben unberührt.
 
-
-## § 3 – Zusammenarbeit
+# § 3 – Zusammenarbeit
 
 (1) Zwischen dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Verteidigung ist auf dem Gebiet des Wetterdienstes im Interesse einer sparsamen Haushaltsführung und zur Vermeidung von Doppelarbeit eine enge Zusammenarbeit sicherzustellen, die durch Verwaltungsvereinbarung geregelt wird.
 
 (2) Soweit der Deutsche Wetterdienst Aufgaben wahrnimmt, die den Zuständigkeitsbereich anderer Ressorts berühren, ist die Zusammenarbeit zwischen dem Deutschen Wetterdienst und der zuständigen obersten Bundesbehörde zu regeln. Sind durch die beabsichtigte Zusammenarbeit erhebliche finanzielle Auswirkungen beim Deutschen Wetterdienst zu erwarten, bedarf eine entsprechende Regelung der vorherigen Zustimmung durch das Bundesministerium für Verkehr und digitale Infrastruktur.
 
-
-## § 4 – Aufgaben
+# § 4 – Aufgaben
 
 (1) Aufgaben des Deutschen Wetterdienstes sind
 
@@ -156,8 +149,7 @@ b) die in Bezug zu drohenden Wetter- und Witterungsereignissen mit hohem Schaden
 
 (6) Der Deutsche Wetterdienst darf Leistungen, die im Sinne des § 6 Absatz 2a unentgeltlich zur Verfügung gestellt werden, selbst öffentlich verbreiten, soweit dies zu seinen gesetzlichen Aufgaben gehört.
 
-
-## § 5 – Befugnisse
+# § 5 – Befugnisse
 
 (1) Der Deutsche Wetterdienst erbringt seine Dienstleistungen in privatrechtlichen Handlungsformen, soweit dem andere Gesetze nicht entgegenstehen. Er ist berechtigt, sich an Ausschreibungsverfahren von Behörden um die Anbietung meteorologischer Leistungen zu beteiligen.
 
@@ -166,8 +158,7 @@ b) die in Bezug zu drohenden Wetter- und Witterungsereignissen mit hohem Schaden
 
 (3) Eine Beurlaubung von Beschäftigten des Deutschen Wetterdienstes zur Tätigkeit in derartigen Unternehmen liegt im dienstlichen Interesse. Die Einzelheiten werden zwischen dem Bund und dem Unternehmen vereinbart. Die gegenüber dem betreffenden Beschäftigten mögliche Zusicherung der Berücksichtigung der Beurlaubungszeit als ruhegehaltfähige Dienstzeit nach § 6 Abs. 1 Satz 2 Nr. 5 des Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1994 (BGBl. I S. 3858), zuletzt geändert durch Artikel 6 des Gesetzes vom 24. März 1997 (BGBl. I S. 590, 592), ist von der Erhebung eines Versorgungszuschlages seitens des betreffenden Unternehmens abhängig zu machen.
 
-
-## § 6 – Vergütungen
+# § 6 – Vergütungen
 
 (1) Der Deutsche Wetterdienst ist so zu führen, daß die nicht durch Einnahmen gedeckten Ausgaben so gering wie möglich zu halten sind.
 
@@ -199,20 +190,17 @@ b) die in Bezug zu drohenden Wetter- und Witterungsereignissen mit hohem Schaden
 
 (7) Der Deutsche Wetterdienst ist verpflichtet, in regelmäßigen Abständen die Einhaltung der Verpflichtungen nach den Absätzen 2 und 4 durch einen unabhängigen Wirtschaftsprüfer nachzuweisen.
 
-
-## § 7 – Quellenschutz
+# § 7 – Quellenschutz
 
 Die Verbreitung meteorologischer Daten, Produkte und Spezialdienstleistungen, insbesondere der Warnungen nach § 4 Abs. 1 Nr. 3 des Deutschen Wetterdienstes, ist nur unter Angabe der Quelle zulässig. Ein weitergehender Schutz nach dem Urheberrechtsgesetz vom 9. September 1965 (BGBl. I S. 1273), zuletzt geändert durch Artikel 5 des Gesetzes vom 19. Juli 1996 (BGBl. I S. 1014, 1017), bleibt davon unberührt.
 
-
-## § 8 – Geschäftsführendes Organ
+# § 8 – Geschäftsführendes Organ
 
 (1) Die Geschäftsführung des Deutschen Wetterdienstes obliegt dem Vorstand. Dieser leitet den Deutschen Wetterdienst. Die Mitglieder des Vorstandes vertreten den Deutschen Wetterdienst gerichtlich und außergerichtlich.
 
 (2) Mitglieder des Vorstandes sind der Präsident als Vorsitzender, der Vizepräsident und die Leiter der Geschäftsbereiche. Der Vorstand besteht aus höchstens sechs Mitgliedern. Diese werden vom Bundesministerium für Verkehr und digitale Infrastruktur bestellt und abberufen. Die Aufgabenbereiche, die Vertretungsbefugnisse, die Beschlußfassung sowie die Einzelheiten der Bestellung und Abberufung der Vorstandsmitglieder werden durch eine Satzung geregelt. Die Satzung und deren Änderung bedürfen der Genehmigung durch das Bundesministerium für Verkehr und digitale Infrastruktur.
 
-
-## § 9 – Wissenschaftlicher Beirat
+# § 9 – Wissenschaftlicher Beirat
 
 (1) Der Wissenschaftliche Beirat berät den Vorstand des Deutschen Wetterdienstes in wichtigen Angelegenheiten der Forschung, die der Deutsche Wetterdienst im Rahmen seiner Aufgaben nach § 4 durchführt, und kann dazu Empfehlungen aussprechen. Er fördert die Kontakte mit Universitäten und unterstützt die Zusammenarbeit des Deutschen Wetterdienstes mit nationalen und internationalen Forschungseinrichtungen sowie seine Einbindung in nationale und internationale Forschungsprogramme.
 
@@ -220,31 +208,26 @@ Die Verbreitung meteorologischer Daten, Produkte und Spezialdienstleistungen, in
 
 (3) Der Wissenschaftliche Beirat gibt sich eine Geschäftsordnung, die der Genehmigung des Vorstandes des Deutschen Wetterdienstes bedarf.
 
-
-## § 10 – Bund-Länder-Beirat
+# § 10 – Bund-Länder-Beirat
 
 (1) Der Bund-Länder-Beirat berät den Vorstand des Deutschen Wetterdienstes und das Bundesministerium für Verkehr und digitale Infrastruktur in Angelegenheiten, die die Interessen der Bundesressorts und der Länder bei der Erfüllung der Aufgaben des Deutschen Wetterdienstes gemäß § 4 betreffen, und gewährleistet die entsprechende Zusammenarbeit.
 
 (2) Der Bund-Länder-Beirat besteht aus Vertretern der Bundesressorts und der Länder; die Länder können jeweils einen Vertreter entsenden. Der Bund-Länder-Beirat gibt sich eine Geschäftsordnung, die der Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
-
-## § 11 – Reise- und umzugskostenrechtliche Sonderregelungen
+# § 11 – Reise- und umzugskostenrechtliche Sonderregelungen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehmen mit den Bundesministerien des Innern, für Bau und Heimat und der Finanzen ergänzende Bestimmungen über die Reise- und Umzugskosten für die Beamten beim Deutschen Wetterdienst erlassen, soweit dies auf Grund der Eigenart des Deutschen Wetterdienstes oder seiner Stellung im Wettbewerb erforderlich ist.
 
-
-## § 12 – Übergang von Rechten und Pflichten
+# § 12 – Übergang von Rechten und Pflichten
 
 (1) Bis zum Inkrafttreten neuer Vereinbarungen gemäß § 3 gelten die bestehenden Verwaltungsvereinbarungen fort.
 
 (2) Bis zur Annahme und Genehmigung der Geschäftsordnung des Wissenschaftlichen Beirates gemäß § 9 Abs. 3 gilt die bestehende Geschäftsordnung des Wissenschaftlichen Beirates nach § 6 des Gesetzes über den Deutschen Wetterdienst in der im Bundesgesetzblatt Teil III, Gliederungsnummer 97-1, veröffentlichten bereinigten Fassung, zuletzt geändert gemäß Artikel 69 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278). Desgleichen ist bis zur Annahme und Genehmigung der Geschäftsordnung nach § 10 Abs. 2 die für den Verwaltungsbeirat gemäß § 5 des Gesetzes über den Deutschen Wetterdienst beschlossene Geschäftsordnung sinngemäß auf den Bund-Länder-Beirat anzuwenden.
 
-
-## § 13 – Evaluierung
+# § 13 – Evaluierung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird die Anwendung der Regelungen in Artikel 1 des Ersten Gesetzes zur Änderung des Gesetzes über den Deutschen Wetterdienst vom 17. Juli 2017 (BGBl. I S. 2642) nach Ablauf des Jahres 2019 evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am 1. Januar des auf die Verkündung folgenden Jahres in Kraft.

@@ -1,25 +1,19 @@
-# [UNHCRBüroAbkV] Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland
-
-Ausfertigungsdatum: 22.02.2007
-
+% Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland
+% Ausfertigungsdatum: 22.02.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 2 Abs. 2 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen (BGBl. 1996 II S. 903) verordnet die Bundesregierung:
 
-
-## Art 1
+# Art 1
 
 Das am 1. Juli 2005 in Berlin unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland wird hiermit in Kraft gesetzt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Artikel 3 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen gilt entsprechend für UNHCR-Bedienstete und die Familienangehörigen im Sinne des Artikels 24 Abs. 2 des Abkommens vom 10. November 1995.
 
-
-## Art 3
+# Art 3
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem das Abkommen nach seinem Artikel 5 Abs. 1 in Kraft tritt .
 
@@ -27,7 +21,6 @@ Artikel 3 des Gesetzes vom 5. Juni 1996 zu dem Abkommen vom 10. November 1995 zw
 
 (3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekannt zu geben.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

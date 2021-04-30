@@ -1,10 +1,7 @@
-# [IStGHG] Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof  (IStGH-Gesetz - IStGHG)
-
-Ausfertigungsdatum: 21.06.2002
-
+% Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof  (IStGH-Gesetz - IStGHG)
+% Ausfertigungsdatum: 21.06.2002
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -624,27 +621,23 @@ Anwendung anderer Verfahrensvorschriften
 
 Einschränkung von Grundrechten
 
-
-## § 1 – Anwendungsbereich  (Zu Artikel 1, Artikel 17, Artikel 86 und Artikel 34 des Römischen Statuts)
+# § 1 – Anwendungsbereich  (Zu Artikel 1, Artikel 17, Artikel 86 und Artikel 34 des Römischen Statuts)
 
 (1) Der Internationale Strafgerichtshof ergänzt die deutsche Strafgerichtsbarkeit. Die Bundesrepublik Deutschland arbeitet nach diesem Gesetz und dem Römischen Statut des Internationalen Strafgerichtshofs (Römisches Statut) vom 17. Juli 1998 (BGBl. 2000 II S. 1393) mit dem Internationalen Strafgerichtshof zusammen.
 
 (2) Im Sinne dieses Gesetzes bezeichnet das Wort "Gerichtshof" den durch das Römische Statut errichteten Internationalen Strafgerichtshof, einschließlich seines Präsidiums, seiner Kammern, seiner Anklagebehörde, der Kanzlei und der Angehörigen dieser Organe.
 
-
-## § 2 – Grundsatz  (Zu Artikel 89 Abs. 1, Artikel 91 Abs. 2 und 3 des Römischen Statuts)
+# § 2 – Grundsatz  (Zu Artikel 89 Abs. 1, Artikel 91 Abs. 2 und 3 des Römischen Statuts)
 
 (1) Personen, um deren Überstellung der Gerichtshof in Übereinstimmung mit dem Römischen Statut ersucht hat und die sich im Inland aufhalten, werden zur Strafverfolgung und zur Strafvollstreckung nach Maßgabe des Römischen Statuts und dieses Gesetzes überstellt.
 
 (2) Eine Überstellung zur Strafvollstreckung kann im Einvernehmen mit dem Gerichtshof auch durch die direkte Übergabe des Verfolgten an die zuständigen Stellen des Staates, in dem eine vom Gerichtshof verhängte Freiheitsstrafe vollstreckt werden soll (Vollstreckungsstaat), vollzogen werden.
 
-
-## § 3 – Überstellungsersuchen und früheres Strafverfahren vor dem Gerichtshof oder in einem ausländischen Staat  (Zu Artikel 89 Abs. 2 Satz 1 des Römischen Statuts)
+# § 3 – Überstellungsersuchen und früheres Strafverfahren vor dem Gerichtshof oder in einem ausländischen Staat  (Zu Artikel 89 Abs. 2 Satz 1 des Römischen Statuts)
 
 Macht der Verfolgte während des Überstellungsverfahrens geltend, wegen der Tat, derentwegen der Gerichtshof um Überstellung ersucht, schon vom Gerichtshof oder dem Gericht eines Staates verurteilt oder freigesprochen worden zu sein, so unterrichtet die Stelle, der gegenüber der Verfolgte dies vorbringt, unbeschadet des § 68 Abs. 3 Satz 3 und 4, unverzüglich die Staatsanwaltschaft bei dem Oberlandesgericht. Das Oberlandesgericht setzt das Überstellungsverfahren nach Artikel 89 Abs. 2 Satz 3 des Römischen Statuts einstweilig aus, bis der Gerichtshof über die Zulässigkeit entscheidet. Der Verfolgte wird nicht überstellt, wenn der Gerichtshof entscheidet, dass die Durchführung eines Strafverfahrens nicht zulässig ist.
 
-
-## § 4 – Überstellungsersuchen und Auslieferungsersuchen  (Zu Artikel 90 des Römischen Statuts)
+# § 4 – Überstellungsersuchen und Auslieferungsersuchen  (Zu Artikel 90 des Römischen Statuts)
 
 (1) Ersucht ein ausländischer Staat um Auslieferung einer Person wegen einer der Gerichtsbarkeit des Gerichtshofes unterliegenden Tat, kann der Gerichtshof von der Stellung des Ersuchens unterrichtet werden. Auf Ersuchen wird dem Gerichtshof eine Abschrift des Auslieferungsersuchens und der beigefügten Unterlagen übermittelt, wenn der ausländische Staat der Übermittlung nicht widerspricht und die Übermittlung nicht im Widerspruch zu sonstigen völkerrechtlichen Vereinbarungen steht.
 
@@ -660,8 +653,7 @@ Macht der Verfolgte während des Überstellungsverfahrens geltend, wegen der Tat
 
 (7) Der Gerichtshof wird in allen Fällen über die Entscheidung über das Auslieferungsersuchen unterrichtet.
 
-
-## § 5 – Überstellungsunterlagen  (Zu Artikel 91 Abs. 2 und 3, Artikel 111 des Römischen Statuts)
+# § 5 – Überstellungsunterlagen  (Zu Artikel 91 Abs. 2 und 3, Artikel 111 des Römischen Statuts)
 
 (1) Die Überstellung an den Gerichtshof ist nur zulässig, wenn die in Artikel 91 Abs. 2 des Römischen Statuts (Überstellung zur Strafverfolgung) oder die in Artikel 91 Abs. 3 des Römischen Statuts (Überstellung zur Strafvollstreckung) bezeichneten Unterlagen vorgelegt worden sind. Wird um Überstellung zur Verfolgung mehrerer Taten ersucht, so genügt hinsichtlich der weiteren Taten anstelle eines Haftbefehls eine Urkunde des Gerichtshofes, aus der sich die dem Verfolgten zur Last gelegte Tat ergibt. In den in Artikel 91 Abs. 2 Buchstabe c des Römischen Statuts bezeichneten Unterlagen sind die anwendbaren Bestimmungen darzustellen. Soweit es sich um Vorschriften des Statuts handelt, reicht die Angabe der Bezeichnung dieser Bestimmungen aus.
 
@@ -671,20 +663,17 @@ Macht der Verfolgte während des Überstellungsverfahrens geltend, wegen der Tat
 
 2. sich der Gerichtshof im Ersuchen oder den ihm beigefügten Unterlagen mit der Übergabe des Verfolgten durch die deutschen Behörden an den Vollstreckungsstaat einverstanden erklärt hat.
 
-
-## § 6 – Bewilligung der Überstellung
+# § 6 – Bewilligung der Überstellung
 
 Die Überstellung darf, außer im Falle des § 32, nur bewilligt werden, wenn das Gericht sie für zulässig erklärt hat.
 
-
-## § 7 – Sachliche Zuständigkeit
+# § 7 – Sachliche Zuständigkeit
 
 (1) Die gerichtlichen Entscheidungen erlässt, soweit nichts anderes bestimmt ist, das Oberlandesgericht. Die Entscheidungen des Oberlandesgerichts sind unanfechtbar.
 
 (2) Die Staatsanwaltschaft bei dem Oberlandesgericht bereitet die Entscheidung über die Überstellung vor und führt die bewilligte Überstellung durch.
 
-
-## § 8 – Örtliche Zuständigkeit
+# § 8 – Örtliche Zuständigkeit
 
 (1) Örtlich zuständig sind das Oberlandesgericht und die Staatsanwaltschaft bei dem Oberlandesgericht, in deren Bezirk der Verfolgte zum Zweck der Überstellung ergriffen oder, falls eine Ergreifung nicht erfolgt, zuerst ermittelt wird.
 
@@ -692,20 +681,17 @@ Die Überstellung darf, außer im Falle des § 32, nur bewilligt werden, wenn da
 
 (3) Solange der Aufenthalt des Verfolgten nicht bekannt ist, richtet sich die Zuständigkeit nach dem Sitz der Bundesregierung.
 
-
-## § 9 – Fahndungsmaßnahmen  (Zu Artikel 59 Abs. 1 des Römischen Statuts)
+# § 9 – Fahndungsmaßnahmen  (Zu Artikel 59 Abs. 1 des Römischen Statuts)
 
 (1) Nach Eingang eines Ersuchens des Gerichtshofes um Festnahme und Überstellung nach Artikel 89 Abs. 1 des Römischen Statuts oder vorläufige Festnahme nach Artikel 92 Abs. 1 des Römischen Statuts werden die erforderlichen Maßnahmen zur Feststellung des Aufenthaltes und zur Festnahme des Verfolgten ergriffen. Die Vorschriften des Abschnitts 9a des Ersten Buches der Strafprozessordnung sind entsprechend anwendbar.
 
 (2) Zur Anordnung einzelner Fahndungsmaßnahmen bedarf es keines gesonderten Ersuchens des Gerichtshofes. Zuständig für die Ausschreibung zur Festnahme ist die Staatsanwaltschaft bei dem Oberlandesgericht.
 
-
-## § 10 – Überstellungshaft  (Zu Artikel 59 Abs. 1 des Römischen Statuts)
+# § 10 – Überstellungshaft  (Zu Artikel 59 Abs. 1 des Römischen Statuts)
 
 Nach Eingang des Festnahme- und Überstellungsersuchens, dem im Falle einer Überstellung zur Strafverfolgung die in Artikel 91 Abs. 2 des Römischen Statuts oder im Falle einer Überstellung zur Strafvollstreckung die in Artikel 91 Abs. 3 des Römischen Statuts bezeichneten Unterlagen beigefügt sind, wird gegen den Verfolgten die Überstellungshaft angeordnet.
 
-
-## § 11 – Vorläufige Überstellungshaft  (Zu Artikel 59 Abs. 1, Artikel 92 des Römischen Statuts)
+# § 11 – Vorläufige Überstellungshaft  (Zu Artikel 59 Abs. 1, Artikel 92 des Römischen Statuts)
 
 (1) Liegen ein Ersuchen des Gerichtshofes um vorläufige Festnahme und die in Artikel 92 Abs. 2 des Römischen Statuts bezeichneten Unterlagen vor, wird vorläufige Überstellungshaft angeordnet. Der Überstellungshaftbefehl ist aufzuheben, wenn der Verfolgte seit dem Tag der Ergreifung oder der vorläufigen Festnahme insgesamt 60 Tage zum Zweck der Überstellung in Haft ist, ohne dass ein Ersuchen des Gerichtshofes um Festnahme und Überstellung und die nach dem Statut vorzulegenden Überstellungsunterlagen bei der nach § 68 Abs. 1 zuständigen Stelle eingegangen sind oder sich der Verfolgte innerhalb dieser Frist nicht mit seiner vereinfachten Überstellung (§ 33) einverstanden erklärt hat.
 
@@ -719,8 +705,7 @@ Gegen einen Verfolgten, der der Begehung eines Völkermordes (Artikel 6 des Röm
 
 (3) Der vorläufige Überstellungshaftbefehl nach Absatz 2 wird aufgehoben, wenn der Gerichtshof erklärt, ein entsprechendes Ersuchen nicht stellen zu wollen oder der Verfolgte seit dem Tag der Ergreifung oder der vorläufigen Festnahme insgesamt einen Monat zum Zweck der Überstellung in Haft ist, ohne dass ein Ersuchen des Gerichtshofes um Festnahme und Überstellung oder um vorläufige Festnahme bei der nach § 68 Abs. 1 zuständigen Stelle eingegangen ist. Mit Eingang eines Ersuchens des Gerichtshofes um Festnahme und Überstellung oder um vorläufige Festnahme ist die in Absatz 1 Satz 2 genannte Frist anzuwenden.
 
-
-## § 12 – Überstellungshaftbefehl
+# § 12 – Überstellungshaftbefehl
 
 (1) Die vorläufige Überstellungshaft und die Überstellungshaft werden durch schriftlichen Haftbefehl (Überstellungshaftbefehl) des Oberlandesgerichts angeordnet.
 
@@ -734,8 +719,7 @@ Gegen einen Verfolgten, der der Begehung eines Völkermordes (Artikel 6 des Röm
 
 (3) Der Überstellungshaftbefehl wird aufgehoben, wenn das Ersuchen zurückgenommen wird, der Gerichtshof erklärt, dass das dem Überstellungsersuchen zu Grunde liegende Verfahren vor ihm unzulässig ist, oder die Überstellung für unzulässig erklärt wird.
 
-
-## § 13 – Vorläufige Festnahme
+# § 13 – Vorläufige Festnahme
 
 (1) Liegen die Voraussetzungen eines Überstellungshaftbefehls vor, so sind die Staatsanwaltschaft und die Beamten des Polizeidienstes zur vorläufigen Festnahme befugt. Unter den Voraussetzungen des § 127 Abs. 1 Satz 1 der Strafprozessordnung ist jedermann zur vorläufigen Festnahme berechtigt.
 
@@ -743,8 +727,7 @@ Gegen einen Verfolgten, der der Begehung eines Völkermordes (Artikel 6 des Röm
 
 (3) Liegt ein Überstellungshaftbefehl vor, so ist er dem Verfolgten unverzüglich bekannt zu geben. Der Verfolgte erhält eine Abschrift.
 
-
-## § 14 – Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls(Zu Artikel 59 Abs. 2 des Römischen Statuts)
+# § 14 – Verfahren nach Ergreifung auf Grund eines Überstellungshaftbefehls(Zu Artikel 59 Abs. 2 des Römischen Statuts)
 
 (1) Wird der Verfolgte auf Grund eines Überstellungshaftbefehls ergriffen, so ist er unverzüglich, spätestens am Tag nach der Ergreifung, dem Richter des nächsten Amtsgerichts vorzuführen.
 
@@ -774,8 +757,7 @@ Die Staatsanwaltschaft bei dem Oberlandesgericht führt unverzüglich die Entsch
 
 (7) Die Entscheidung des Richters beim Amtsgericht ist unanfechtbar.
 
-
-## § 15 – Verfahren nach vorläufiger Festnahme
+# § 15 – Verfahren nach vorläufiger Festnahme
 
 (1) Wird der Verfolgte vorläufig festgenommen, so ist er unverzüglich, spätestens am Tag nach der Festnahme, dem Richter des nächsten Amtsgerichts vorzuführen.
 
@@ -783,8 +765,7 @@ Die Staatsanwaltschaft bei dem Oberlandesgericht führt unverzüglich die Entsch
 
 (3) Ergibt sich bei der Vernehmung, dass der Ergriffene nicht die Person ist, auf die sich das Ersuchen oder die Tatsachen im Sinne des § 11 Abs. 2 beziehen, so ordnet der Richter beim Amtsgericht seine Freilassung an. Andernfalls ordnet der Richter beim Amtsgericht an, dass der Verfolgte bis zur Entscheidung des Oberlandesgerichts festzuhalten ist. Die Staatsanwaltschaft bei dem Oberlandesgericht führt unverzüglich die Entscheidung des Oberlandesgerichts herbei; die Beteiligung des Gerichtshofes richtet sich nach Artikel 59 Abs. 4 bis 6 des Römischen Statuts. § 14 Abs. 5 bis 7 gilt entsprechend.
 
-
-## § 16 – Haftentscheidungen, Aussetzung des Vollzuges des Überstellungshaftbefehls  (Zu Artikel 59 Abs. 4 bis 6 des Römischen Statuts)
+# § 16 – Haftentscheidungen, Aussetzung des Vollzuges des Überstellungshaftbefehls  (Zu Artikel 59 Abs. 4 bis 6 des Römischen Statuts)
 
 (1) Über Einwendungen des Verfolgten gegen den Überstellungshaftbefehl oder gegen dessen Vollzug entscheidet das Oberlandesgericht.
 
@@ -794,13 +775,11 @@ Die Staatsanwaltschaft bei dem Oberlandesgericht führt unverzüglich die Entsch
 
 (4) § 116 Abs. 1 Satz 2, Abs. 4, §§ 116a, 123 und 124 Abs. 1, 2 Satz 1, Abs. 3 der Strafprozessordnung gelten entsprechend.
 
-
-## § 17 – Haftprüfung
+# § 17 – Haftprüfung
 
 Befindet sich der Verfolgte in Überstellungshaft oder in vorläufiger Überstellungshaft, so entscheidet das Oberlandesgericht über eine Aussetzung des Vollzuges des Überstellungshaftbefehls, wenn der Verfolgte seit dem Tag der Ergreifung, der vorläufigen Festnahme oder der letzten Entscheidung über den Vollzug des Überstellungshaftbefehls insgesamt zwei Monate zum Zweck der Überstellung in Haft ist. Die Haftprüfung wird jeweils nach zwei Monaten wiederholt. Das Oberlandesgericht kann anordnen, dass die Haftprüfung innerhalb einer kürzeren Frist vorgenommen wird. § 16 Abs. 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 18 – Vollzug der Haft
+# § 18 – Vollzug der Haft
 
 (1) Für die vorläufige Überstellungshaft, die Überstellungshaft und die Haft auf Grund einer Anordnung des Richters beim Amtsgericht gelten die Vorschriften der Strafprozessordnung, des Strafvollzugsgesetzes und, soweit der Verfolgte ein Heranwachsender ist, des Jugendgerichtsgesetzes über den Vollzug der Untersuchungshaft entsprechend.
 
@@ -808,15 +787,13 @@ Befindet sich der Verfolgte in Überstellungshaft oder in vorläufiger Überstel
 
 (3) Die richterlichen Verfügungen trifft der Vorsitzende des zuständigen Senats des Oberlandesgerichts.
 
-
-## § 19 – Vernehmung des Verfolgten
+# § 19 – Vernehmung des Verfolgten
 
 (1) Nach dem Eingang des Festnahme- und Überstellungsersuchens vernimmt das Oberlandesgericht den Verfolgten, wenn er sich nicht mit einer vereinfachten Überstellung (§ 32) einverstanden erklärt hat.
 
 (2) Das Oberlandesgericht vernimmt den Verfolgten über seine persönlichen Verhältnisse, insbesondere über seine Staatsangehörigkeit. § 14 Abs. 2 Satz 2 und 3 gilt entsprechend. Zum Gegenstand der Beschuldigung ist der Verfolgte zu vernehmen, wenn die Staatsanwaltschaft bei dem Oberlandesgericht dies beantragt; in den übrigen Fällen sind die Angaben, die der Verfolgte von sich aus hierzu macht, in das Protokoll aufzunehmen. § 14 Abs. 2 Satz 5 und Abs. 6 gilt entsprechend.
 
-
-## § 20 – Zulässigkeitsverfahren
+# § 20 – Zulässigkeitsverfahren
 
 (1) Hat sich der Verfolgte nicht mit der vereinfachten Überstellung (§ 32) einverstanden erklärt, so beantragt die Staatsanwaltschaft bei dem Oberlandesgericht die Entscheidung des Oberlandesgerichts darüber, ob die Überstellung zulässig ist.
 
@@ -824,8 +801,7 @@ Befindet sich der Verfolgte in Überstellungshaft oder in vorläufiger Überstel
 
 (3) Das Oberlandesgericht kann den Verfolgten vernehmen. Es kann sonstige Beweise über die Zulässigkeit der Überstellung erheben und eine mündliche Verhandlung durchführen. Art und Umfang der Beweisaufnahme bestimmt das Oberlandesgericht, ohne durch Anträge, Verzichte oder frühere Beschlüsse gebunden zu sein.
 
-
-## § 21 – Durchführung der mündlichen Verhandlung
+# § 21 – Durchführung der mündlichen Verhandlung
 
 (1) Von Ort und Zeit der mündlichen Verhandlung sind die Staatsanwaltschaft bei dem Oberlandesgericht, der Verfolgte und sein Rechtsbeistand (§ 31) zu benachrichtigen. Bei der mündlichen Verhandlung muss ein Vertreter der Staatsanwaltschaft bei dem Oberlandesgericht und der bestellte Rechtsbeistand des Verfolgten anwesend sein. Angehörigen des Gerichtshofes und dem Verteidiger des Verfolgten im Verfahren vor dem Gerichtshof kann die Anwesenheit und die Anregung von Fragen gestattet werden.
 
@@ -835,13 +811,11 @@ Befindet sich der Verfolgte in Überstellungshaft oder in vorläufiger Überstel
 
 (4) In der mündlichen Verhandlung sind die anwesenden Beteiligten zu hören. Über die Verhandlung ist ein Protokoll aufzunehmen. § 14 Abs. 2 Satz 5 ist entsprechend anwendbar.
 
-
-## § 22 – Entscheidung über die Zulässigkeit
+# § 22 – Entscheidung über die Zulässigkeit
 
 Der Beschluss über die Zulässigkeit der Überstellung ist zu begründen. Er wird der Staatsanwaltschaft bei dem Oberlandesgericht, dem Verfolgten und seinem Rechtsbeistand (§ 31) bekannt gemacht. Der Verfolgte erhält eine Abschrift.
 
-
-## § 23 – Erneute Entscheidung über die Zulässigkeit
+# § 23 – Erneute Entscheidung über die Zulässigkeit
 
 (1) Treten nach der Entscheidung des Oberlandesgerichts über die Zulässigkeit der Überstellung Umstände ein, die eine andere Entscheidung über die Zulässigkeit zu begründen geeignet sind, so entscheidet das Oberlandesgericht von Amts wegen, auf Antrag der Staatsanwaltschaft bei dem Oberlandesgericht oder auf Antrag des Verfolgten erneut über die Zulässigkeit der Überstellung.
 
@@ -853,13 +827,11 @@ Der Beschluss über die Zulässigkeit der Überstellung ist zu begründen. Er wi
 
 (5) Das Oberlandesgericht kann den Aufschub der Überstellung anordnen.
 
-
-## § 24 – Haft zur Durchführung der Überstellung
+# § 24 – Haft zur Durchführung der Überstellung
 
 Ist der Vollzug eines Überstellungshaftbefehls ausgesetzt, so ordnet das Oberlandesgericht nach Bewilligung der Überstellung den Vollzug an, sofern nicht gewichtige Gründe gegen die Inhaftnahme sprechen und die Durchführung der Überstellung auf andere Weise gewährleistet ist.
 
-
-## § 25 – Spezialität  (Zu Artikel 101 des Römischen Statuts)
+# § 25 – Spezialität  (Zu Artikel 101 des Römischen Statuts)
 
 (1) Der Gerichtshof kann nach Maßgabe des Artikels 101 Abs. 2 des Römischen Statuts einen an ihn überstellten Verfolgten auch wegen anderer Taten als derjenigen, derentwegen die Überstellung bewilligt wurde, strafrechtlich verfolgen, bestrafen oder einer Beschränkung seiner persönlichen Freiheit unterwerfen, soweit die Taten seiner Gerichtsbarkeit unterliegen.
 
@@ -867,8 +839,7 @@ Ist der Vollzug eines Überstellungshaftbefehls ausgesetzt, so ordnet das Oberla
 
 (3) Absatz 1 findet ebenfalls keine Anwendung, soweit ein ausländischer Staat den Gerichtshof, den Staat, in dessen Hoheitsgebiet der Gerichtshof seinen Sitz hat (Gaststaat, Artikel 3 des Römischen Statuts), oder den Vollstreckungsstaat um Auslieferung, vorübergehende Auslieferung, Abschiebung oder sonstige Verbringung in seinen Hoheitsbereich zur Strafverfolgung oder Vollstreckung einer Strafe oder sonstigen Sanktion ersucht. Der Gerichtshof wird um Rückgabe des Verfolgten ersucht, wenn auf anderem Wege die Beachtung der im Verhältnis zum ersuchenden Staat geltenden Vorschriften des Auslieferungsrechts nicht sichergestellt werden kann.
 
-
-## § 26 – Überstellungsersuchen nach vorheriger Auslieferung
+# § 26 – Überstellungsersuchen nach vorheriger Auslieferung
 
 (1) Ist die Auslieferung eines Verfolgten an einen ausländischen Staat durchgeführt und ersucht der Gerichtshof um Zustimmung zur Verfolgung oder zur Vollstreckung einer Strafe, so wird die Zustimmung erteilt, wenn
 
@@ -882,8 +853,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (3) Ist die Auslieferung noch nicht durchgeführt, so wird auf ein Ersuchen der in Absatz 1 bezeichneten Art die Zustimmung erteilt, wenn wegen der Tat die Überstellung an den Gerichtshof zulässig wäre. Absatz 1 Satz 2 ist entsprechend anzuwenden. Für das Verfahren gelten die §§ 19 bis 23 entsprechend.
 
-
-## § 27 – Vorübergehende Überstellung  (Zu Artikel 89 Abs. 4 des Römischen Statuts)
+# § 27 – Vorübergehende Überstellung  (Zu Artikel 89 Abs. 4 des Römischen Statuts)
 
 (1) Wird die bewilligte Überstellung aufgeschoben, weil im Inland gegen den Verfolgten ein Strafverfahren geführt wird oder eine Freiheitsstrafe oder eine freiheitsentziehende Maßregel der Besserung und Sicherung zu vollstrecken ist, so kann der Verfolgte vorübergehend überstellt werden, wenn der Gerichtshof zusichert, ihn bis zu einem bestimmten Zeitpunkt zurückzuüberstellen.
 
@@ -897,8 +867,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 2. die Anrechnung im Hinblick auf das Verhalten des Verfolgten nach der Übergabe nicht gerechtfertigt ist.
 
-
-## § 28 – Deutsches Strafverfahren und Überstellungsersuchen
+# § 28 – Deutsches Strafverfahren und Überstellungsersuchen
 
 (1) Wird gegen den Verfolgten im Inland ein Strafverfahren wegen einer Tat nach Artikel 5 des Römischen Statuts geführt und hat der Gerichtshof gegenüber dem Bundesministerium der Justiz und für Verbraucherschutz oder der sonst nach § 68 Abs. 1 zuständigen Stelle erklärt, im Falle einer Einstellung des deutschen Strafverfahrens um Überstellung des Verfolgten zu ersuchen, kann die Staatsanwaltschaft von einer Verfolgung der Tat absehen, wenn dies aus besonderen gegen die Strafverfolgung im Inland sprechenden Gründen des öffentlichen Interesses geboten erscheint. Ist die öffentliche Klage bereits erhoben, so stellt das Gericht auf entsprechenden Antrag der Staatsanwaltschaft das Strafverfahren in jeder Lage vorläufig ein. Die Entscheidung, an den Gerichtshof wegen einer Erklärung im Sinne von Satz 1 heranzutreten, obliegt der nach § 68 Abs. 1 zuständigen Stelle.
 
@@ -908,8 +877,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (4) Über die Kosten und die notwendigen Auslagen ist nach dem rechtskräftigen Abschluss des Verfahrens vor dem Gerichtshof zu entscheiden. Die §§ 464 bis 473 der Strafprozessordnung gelten entsprechend.
 
-
-## § 29 – Herausgabe von Gegenständen im Überstellungsverfahren
+# § 29 – Herausgabe von Gegenständen im Überstellungsverfahren
 
 (1) Im Zusammenhang mit einer Überstellung können an den Gerichtshof ohne besonderes Ersuchen nach § 51 Gegenstände herausgegeben werden,
 
@@ -925,8 +893,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (5) Soweit die herauszugebenden Gegenstände personenbezogene Daten des Verfolgten enthalten, ist bei der Herausgabe darauf hinzuweisen, dass die enthaltenen Daten nur zur Erfüllung der dem Gerichtshof nach dem Statut übertragenen Aufgaben verwendet werden dürfen. Sind mit den personenbezogenen Daten des Verfolgten weitere personenbezogene Daten eines Dritten so verbunden, dass eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen des Verfolgten oder eines Dritten an deren Geheimhaltung offensichtlich überwiegen.
 
-
-## § 30 – Beschlagnahme und Durchsuchung
+# § 30 – Beschlagnahme und Durchsuchung
 
 (1) Gegenstände, deren Herausgabe an den Gerichtshof in Betracht kommt, können, auch schon vor Eingang des Überstellungsersuchens, beschlagnahmt oder sonst sichergestellt werden. Zu diesem Zweck kann auch eine Durchsuchung vorgenommen werden.
 
@@ -934,8 +901,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (3) Bei Gefahr im Verzug sind die Staatsanwaltschaft und ihre Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) entsprechend den Vorschriften der Strafprozessordnung befugt, die Beschlagnahme und die Durchsuchung anzuordnen.
 
-
-## § 31 – Rechtsbeistand
+# § 31 – Rechtsbeistand
 
 (1) Die verfolgte Person kann sich in jeder Lage des Verfahrens eines Rechtsbeistands bedienen.
 
@@ -951,8 +917,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (7) Die Vorschriften des Elften Abschnittes des Ersten Buches der Strafprozessordnung mit Ausnahme der §§ 139, 140, 141, 141a, 142 Absatz 2 und 3, von § 143 Absatz 1 und 2 Satz 2 bis 4 sowie § 143a Absatz 3 gelten entsprechend. § 142 Absatz 7, § 143 Absatz 3 und § 143a Absatz 4 der Strafprozessordnung gelten mit der Maßgabe entsprechend, dass über die sofortige Beschwerde das Gericht entscheidet, das für die Entscheidung über die Zulässigkeit der Überstellung zuständig ist. Entscheidungen des Oberlandesgerichts nach Absatz 5 Satz 2 sind unanfechtbar.
 
-
-## § 32 – Vereinfachte Überstellung  (Zu Artikel 92 Abs. 3 Satz 2 des Römischen Statuts)
+# § 32 – Vereinfachte Überstellung  (Zu Artikel 92 Abs. 3 Satz 2 des Römischen Statuts)
 
 (1) Die Überstellung einer Person, gegen die ein Überstellungshaftbefehl besteht und um deren Festnahme und Überstellung oder um deren vorläufige Festnahme der Gerichtshof ersucht, kann ohne Durchführung des förmlichen Überstellungsverfahrens bewilligt werden, wenn sich der Verfolgte nach Belehrung zu richterlichem Protokoll mit dieser vereinfachten Überstellung einverstanden erklärt hat.
 
@@ -960,8 +925,7 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (3) Auf Antrag der Staatsanwaltschaft bei dem Oberlandesgericht belehrt in den Fällen der §§ 14 und 15 der Richter beim Amtsgericht, im Übrigen das Oberlandesgericht den Verfolgten über die Möglichkeit der vereinfachten Überstellung und deren Rechtsfolgen (Absätze 1 und 2) und nimmt sodann dessen Erklärung zu Protokoll. Zuständig ist der Richter bei dem Amtsgericht, in dessen Bezirk sich der Verfolgte befindet.
 
-
-## § 33 – Anrufung des Bundesgerichtshofes
+# § 33 – Anrufung des Bundesgerichtshofes
 
 (1) Hält das Oberlandesgericht eine Entscheidung des Bundesgerichtshofes für geboten, um eine Rechtsfrage von grundsätzlicher Bedeutung zu klären, oder will es von einer Entscheidung des Bundesgerichtshofes oder einer Entscheidung eines anderen Oberlandesgerichts über eine Rechtsfrage in Überstellungssachen mit dem Internationalen Strafgerichtshof abweichen, so begründet es seine Auffassung und holt die Entscheidung des Bundesgerichtshofes über die Rechtsfrage ein.
 
@@ -969,13 +933,11 @@ Liegt den Ersuchen dieselbe Tat zu Grunde, wird der Gerichtshof hierauf hingewie
 
 (3) Der Bundesgerichtshof gibt dem Verfolgten Gelegenheit zur Äußerung. Die Entscheidung ergeht ohne mündliche Verhandlung.
 
-
-## § 34 – Grundsatz  (Zu Artikel 89 Abs. 3 des Römischen Statuts)
+# § 34 – Grundsatz  (Zu Artikel 89 Abs. 3 des Römischen Statuts)
 
 Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen Einverständnis der Staat, aus dem der Verfolgte an den Gerichtshof überstellt werden soll (Überstellungsstaat) oder der Vollstreckungsstaat ersucht hat, werden zur Strafverfolgung oder zur Strafvollstreckung nach Maßgabe des Statuts und dieses Gesetzes durch das Bundesgebiet befördert.
 
-
-## § 35 – Durchbeförderungsunterlagen  (Zu Artikel 89 Abs. 3 des Römischen Statuts)
+# § 35 – Durchbeförderungsunterlagen  (Zu Artikel 89 Abs. 3 des Römischen Statuts)
 
 (1) Eine Durchbeförderung an den Gerichtshof nach Artikel 89 Abs. 3 des Römischen Statuts zur Strafverfolgung oder Strafvollstreckung ist auf dessen Ersuchen nur zulässig, wenn die in Artikel 89 Abs. 3 Buchstabe b Ziffern i bis iii des Römischen Statuts bezeichneten Unterlagen vorgelegt worden sind.
 
@@ -983,8 +945,7 @@ Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen Einverstän
 
 (3) Ersucht der Überstellungsstaat um Durchbeförderung an den Gerichtshof oder der Vollstreckungsstaat um Durchbeförderung zur Vollstreckung einer vom Gerichtshof verhängten Strafe, so ist neben den in Absatz 1 und bei Durchbeförderung an den Vollstreckungsstaat neben den in Absatz 2 bezeichneten Unterlagen eine Erklärung des Gerichtshofes beizufügen, aus der sich sein Einverständnis mit dem Ersuchen ergibt.
 
-
-## § 36 – Zuständigkeit
+# § 36 – Zuständigkeit
 
 (1) Die gerichtlichen Entscheidungen erlässt das Oberlandesgericht. § 7 Abs. 1 Satz 2 und Abs. 2 gilt entsprechend.
 
@@ -996,8 +957,7 @@ Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen Einverstän
 
 (3) Ist eine Zuständigkeit nach Absatz 2 Nr. 2 nicht begründet, so ist das Oberlandesgericht Frankfurt am Main zuständig.
 
-
-## § 37 – Durchbeförderungsverfahren(Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)
+# § 37 – Durchbeförderungsverfahren(Zu Artikel 89 Abs. 3 Buchstabe c des Römischen Statuts)
 
 (1) Erscheint die Durchbeförderung zulässig, so wird der Verfolgte zu ihrer Sicherung in Haft gehalten.
 
@@ -1017,8 +977,7 @@ Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen Einverstän
 
 (7) Die bei einer Durchbeförderung übernommenen Gegenstände können ohne besonderes Ersuchen gleichzeitig mit der Überstellung des Verfolgten herausgegeben werden.
 
-
-## § 38 – Mehrfache Durchbeförderung
+# § 38 – Mehrfache Durchbeförderung
 
 (1) Ist die erstmalige Durchbeförderung zur Übergabe des Verfolgten an den Gerichtshof bewilligt worden, so kann der Verfolgte auf ein Ersuchen, das auf die anlässlich der erstmaligen Durchbeförderung übermittelten Unterlagen Bezug nimmt, ohne erneute Bewilligungsentscheidung auch zur Vollstreckung einer vom Gerichtshof verhängten Strafe zur Übergabe an den Vollstreckungsstaat durchbefördert werden, wenn eine Urkunde des Vollstreckungsstaates, aus der sich sein Einverständnis mit der Vollstreckung der vom Gerichtshof verhängten Strafe ergibt, oder eine Erklärung des Gerichtshofes, nach der der Vollstreckungsstaat mit der Vollstreckung einverstanden ist, vorgelegt worden ist. Satz 1 und 2 ist auch auf die weiteren Beförderungsfälle anwendbar.
 
@@ -1026,8 +985,7 @@ Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen Einverstän
 
 (3) Absatz 1 und 2 ist für den Fall einer Rücküberstellung nach einer vorangegangenen vorübergehenden Überstellung an den Überstellungsstaat entsprechend anwendbar, sofern der Umstand der späteren Rücküberstellung bei der ersten Durchbeförderung erkennbar war.
 
-
-## § 39 – Unvorhergesehene Zwischenlandung  (Zu Artikel 89 Abs. 3 Buchstabe e des Römischen Statuts)
+# § 39 – Unvorhergesehene Zwischenlandung  (Zu Artikel 89 Abs. 3 Buchstabe e des Römischen Statuts)
 
 (1) Im Falle einer unvorhergesehenen Zwischenlandung im Inland unterrichtet die Stelle, der die Zwischenlandung zuerst bekannt und die auf Grund dieses Gesetzes tätig wird, unverzüglich den Gerichtshof und die nach § 68 Abs. 1 zuständige Stelle von der Zwischenlandung. Die nach § 68 Abs. 1 zuständige Stelle bittet den Gerichtshof um ein Durchbeförderungsersuchen nach Artikel 89 Abs. 3 Buchstabe b des Römischen Statuts. Die Staatsanwaltschaft und die Beamten des Polizeidienstes sind zur vorläufigen Festnahme befugt.
 
@@ -1035,13 +993,11 @@ Personen, um deren Durchbeförderung der Gerichtshof oder mit dessen Einverstän
 
 (3) Im Übrigen sind die §§ 35 bis 37 entsprechend anwendbar.
 
-
-## § 40 – Grundsatz
+# § 40 – Grundsatz
 
 Rechtshilfe wird durch Vollstreckung einer vom Gerichtshof rechtskräftig verhängten Strafe nach Maßgabe des Römischen Statuts sowie dieses Gesetzes geleistet. Vollstreckt werden auch Anordnungen der Einziehung von Taterträgen nach Artikel 77 Abs. 2 Buchstabe b des Römischen Statuts sowie Entscheidungen nach Artikel 75 des Römischen Statuts.
 
-
-## § 41 – Vollstreckung von Freiheitsstrafen  (Zu Artikel 77 Abs. 1, Artikel 103 Abs. 1 und 2, Artikel 105, Artikel 106, Artikel 110 des Römischen Statuts)
+# § 41 – Vollstreckung von Freiheitsstrafen  (Zu Artikel 77 Abs. 1, Artikel 103 Abs. 1 und 2, Artikel 105, Artikel 106, Artikel 110 des Römischen Statuts)
 
 (1) Freiheitsstrafen werden vollstreckt, wenn
 
@@ -1061,8 +1017,7 @@ Bei Übernahme des Verurteilten muss eine Erklärung des Gerichtshofes über den
 
 (6) Die aus Anlass der Vollstreckung entstehenden Kosten werden vom Bund entsprechend einer mit den Ländern zu schließenden Vereinbarung getragen. Dies gilt nicht, soweit Kosten nach dem Statut oder anderen Bestimmungen vom Gerichtshof übernommen werden.
 
-
-## § 42 – Flucht und Spezialität  (Zu Artikel 108, Artikel 111 des Römischen Statuts)
+# § 42 – Flucht und Spezialität  (Zu Artikel 108, Artikel 111 des Römischen Statuts)
 
 (1) Entweicht der Verurteilte oder entzieht er sich sonst dem Vollzug, erlässt die nach § 46 Abs. 1 zuständige Stelle Haftbefehl und ergreift die weiteren Maßnahmen, die zur Feststellung des Aufenthaltes und zur Festnahme des Verfolgten erforderlich sind. Zur Anordnung einzelner Fahndungsmaßnahmen bedarf es keines Ersuchens des Gerichtshofes. § 31 Abs. 2 Satz 1 des Rechtspflegergesetzes gilt entsprechend. Der Gerichtshof wird von der Flucht unverzüglich unterrichtet; im Übrigen richtet sich das Verfahren nach Artikel 111 des Römischen Statuts.
 
@@ -1070,8 +1025,7 @@ Bei Übernahme des Verurteilten muss eine Erklärung des Gerichtshofes über den
 
 (3) Ersucht ein ausländischer Staat um Auslieferung, vorübergehende Auslieferung, Abschiebung oder sonstige Verbringung in seinen Hoheitsbereich zur Strafverfolgung oder Vollstreckung einer Strafe oder sonstigen Sanktion, so kann die Zustimmung erteilt werden, wenn der Gerichtshof vorbehaltlich der Bestimmung des Artikels 108 Abs. 3 des Römischen Statuts zuvor zugestimmt hat und die Auslieferung nach den im Verhältnis zum ersuchenden Staat anwendbaren Auslieferungsvorschriften zulässig ist.
 
-
-## § 43 – Vollstreckung von Geldstrafen(Zu Artikel 77 Abs. 2 Buchstabe a, Artikel 109 Abs. 1 des Römischen Statuts)
+# § 43 – Vollstreckung von Geldstrafen(Zu Artikel 77 Abs. 2 Buchstabe a, Artikel 109 Abs. 1 des Römischen Statuts)
 
 (1) Geldstrafen werden vollstreckt, wenn
 
@@ -1089,8 +1043,7 @@ Soweit die Höhe der zu vollstreckenden Geldstrafe in einer anderen Währung als
 
 (5) Soweit der Gerichtshof wegen Uneinbringlichkeit der Geldstrafe die gegen den Verurteilten wegen einer Tat nach Artikel 5 des Römischen Statuts verhängte Freiheitsstrafe verlängert oder wegen Uneinbringlichkeit einer wegen einer Tat nach Artikel 70 Abs. 1 des Römischen Statuts verhängten Geldstrafe eine Freiheitsstrafe festsetzt, finden auf die Vollstreckung der Freiheitsstrafe die §§ 41 und 42 Anwendung.
 
-
-## § 44 – Vollstreckung von Anordnungen der Einziehung von Taterträgen (Zu Artikel 77 Abs. 2 Buchstabe b, Artikel 109 Abs. 2 des Römischen Statuts)
+# § 44 – Vollstreckung von Anordnungen der Einziehung von Taterträgen (Zu Artikel 77 Abs. 2 Buchstabe b, Artikel 109 Abs. 2 des Römischen Statuts)
 
 (1) Anordnungen nach Artikel 77 Abs. 2 Buchstabe b des Römischen Statuts (Verfallsanordnungen) werden vollstreckt, wenn
 
@@ -1114,8 +1067,7 @@ Liegt einer der Fälle des Satzes 1 vor, ist dem Gerichtshof in dem Verfahren de
 
 (5) Soweit bei einem Gegenstand auf Grund eines Ersuchens des Gerichtshofes die Anordnung der Einziehung von Taterträgen in Betracht kommt, kann er zur Sicherung des Einziehungsverfahrens beschlagnahmt werden. Zu diesem Zweck kann auch eine Durchsuchung vorgenommen werden. Die Zuständigkeit richtet sich nach § 46 Abs. 3. Im Übrigen gelten die §§ 111b bis 111m und 111p der Strafprozessordnung entsprechend. § 111n findet unter der Maßgabe entsprechende Anwendung, dass vor einer Herausgabe an den Verletzten die Stellungnahme des Gerichtshofes eingeholt wird; die Herausgabe unterbleibt, soweit sich der Gerichtshof in seiner Stellungnahme gegen sie ausspricht.
 
-
-## § 45 – Vollstreckung von Wiedergutmachungsanordnungen  (Zu Artikel 75 Abs. 2, Artikel 109 des Römischen Statuts)
+# § 45 – Vollstreckung von Wiedergutmachungsanordnungen  (Zu Artikel 75 Abs. 2, Artikel 109 des Römischen Statuts)
 
 Wiedergutmachungsanordnungen, die auf die Zahlung einer Geldsumme gerichtet sind, werden vollstreckt, wenn
 
@@ -1125,8 +1077,7 @@ Wiedergutmachungsanordnungen, die auf die Zahlung einer Geldsumme gerichtet sind
 
 Im Übrigen richtet sich die Vollstreckung nach § 43.
 
-
-## § 46 – Zuständigkeit, Anrufung des Bundesgerichtshofes, Rechtsbeistand
+# § 46 – Zuständigkeit, Anrufung des Bundesgerichtshofes, Rechtsbeistand
 
 (1) Zuständige deutsche Stelle bei der Vollstreckung von Freiheitsstrafen des Gerichtshofes (§§ 41 und 42) ist die Staatsanwaltschaft bei dem Oberlandesgericht, in dessen Bezirk die Einrichtung liegt, in der sich der Verurteilte in Haft befindet.
 
@@ -1140,8 +1091,7 @@ Im Übrigen richtet sich die Vollstreckung nach § 43.
 
 2. ersichtlich ist, dass der Verfolgte seine Rechte nicht selbst hinreichend wahrnehmen kann.
 
-
-## § 47 – Grundsatz  (Zu Artikel 93 Abs. 1, Artikel 96 Abs. 1 und 2 des Römischen Statuts)
+# § 47 – Grundsatz  (Zu Artikel 93 Abs. 1, Artikel 96 Abs. 1 und 2 des Römischen Statuts)
 
 (1) Vorbehaltlich § 58 Abs. 2 wird dem Gerichtshof auf Ersuchen sonstige Rechtshilfe nach Maßgabe des Römischen Statuts und dieses Gesetzes geleistet.
 
@@ -1151,13 +1101,11 @@ Im Übrigen richtet sich die Vollstreckung nach § 43.
 
 (4) Die Behandlung konkurrierender Ersuchen um sonstige Rechtshilfe richtet sich nach Artikel 93 Abs. 9 Buchstabe a des Römischen Statuts. Soweit Artikel 90 des Römischen Statuts anzuwenden ist, findet § 4 entsprechende Anwendung.
 
-
-## § 48 – Aufschub der Erledigung
+# § 48 – Aufschub der Erledigung
 
 In den Fällen der Artikel 93 Abs. 3 bis 5, 9 Buchstabe b, Artikel 94 Abs. 1 und Artikel 95 des Römischen Statuts kann die Erledigung aufgeschoben werden, bis feststeht, wie in Übereinstimmung mit dem Römischen Statut weiter in Bezug auf das Ersuchen zu verfahren ist.
 
-
-## § 49 – Zuständigkeit
+# § 49 – Zuständigkeit
 
 (1) Soweit die Rechtshilfe durch eine Staatsanwaltschaft geleistet wird, ist örtlich die Staatsanwaltschaft zuständig, in deren Bezirk die Rechtshilfehandlung vorzunehmen ist. Sind Rechtshilfehandlungen in den Bezirken verschiedener Staatsanwaltschaften vorzunehmen, so richtet sich die Zuständigkeit danach, welche der zuständigen Staatsanwaltschaften zuerst mit der Sache befasst wurde. Solange eine Zuständigkeit nach Satz 1 oder Satz 2 nicht festgestellt werden kann, richtet sich die Zuständigkeit nach dem Sitz der Bundesregierung.
 
@@ -1167,8 +1115,7 @@ In den Fällen der Artikel 93 Abs. 3 bis 5, 9 Buchstabe b, Artikel 94 Abs. 1 und
 
 (4) Soweit die Zuständigkeit des Oberlandesgerichts begründet ist, bereitet die Staatsanwaltschaft bei dem Oberlandesgericht die Entscheidung vor und trifft die zu ihrer Durchführung erforderlichen Maßnahmen. Sie ist auch zuständig für die Anordnung und Durchführung einer vorübergehenden Übergabe (§ 54), die Vorbereitung der Entscheidung über die Bewilligung der Herausgabe von Gegenständen und die Durchführung der bewilligten Herausgabe. Im Falle einer vorübergehenden Übergabe ist die Staatsanwaltschaft bei dem Oberlandesgericht örtlich zuständig, in dessen Bezirk die Freiheitsentziehung vollzogen wird.
 
-
-## § 50 – Gerichtliche Entscheidung
+# § 50 – Gerichtliche Entscheidung
 
 (1) Die Rechtshilfe darf in den Fällen des § 52 Abs. 1, 2 und 4, § 55 Abs. 1 und 6, § 59 Abs. 1 und 2 nur bewilligt werden, wenn das Oberlandesgericht die für die Vornahme der Handlungen erforderlichen Maßnahmen erlassen hat. Das Oberlandesgericht entscheidet ferner über die Zulässigkeit der Herausgabe von Gegenständen auf Antrag der Staatsanwaltschaft bei dem Oberlandesgericht oder auf Antrag desjenigen, der geltend macht, er würde durch die Herausgabe in seinen Rechten verletzt werden. Die Entscheidungen des Oberlandesgerichts sind unanfechtbar.
 
@@ -1178,8 +1125,7 @@ In den Fällen der Artikel 93 Abs. 3 bis 5, 9 Buchstabe b, Artikel 94 Abs. 1 und
 
 (4) Für das Verfahren vor dem Oberlandesgericht gelten § 20 Abs. 2 und 3, § 21 Abs. 1 und 4, §§ 22, 23 Abs. 1, 2 und 4, § 29 Abs. 4 Satz 2, § 31 Abs. 1, § 33 sowie die Vorschriften des 11. Abschnittes des Ersten Buches der Strafprozessordnung mit Ausnahme der dortigen §§ 140 bis 144 entsprechend.
 
-
-## § 51 – Herausgabe von Gegenständen
+# § 51 – Herausgabe von Gegenständen
 
 (1) Unbeschadet der Bestimmung des § 58 Abs. 3 werden auf Ersuchen einer zuständigen Stelle des Gerichtshofes Gegenstände herausgegeben,
 
@@ -1195,8 +1141,7 @@ In den Fällen der Artikel 93 Abs. 3 bis 5, 9 Buchstabe b, Artikel 94 Abs. 1 und
 
 (3) Soweit die herauszugebenden Gegenstände personenbezogene Daten des Verfolgten enthalten, ist bei der Herausgabe darauf hinzuweisen, dass die enthaltenen Daten nur zur Erfüllung der dem Gerichtshof nach dem Römischen Statut übertragenen Aufgaben verwendet werden dürfen. Sind mit den personenbezogenen Daten des Verfolgten weitere personenbezogene Daten eines Dritten so verbunden, dass eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen des Verfolgten oder eines Dritten an deren Geheimhaltung offensichtlich überwiegen.
 
-
-## § 52 – Beschlagnahme und Durchsuchung, Vermögensbeschlagnahme
+# § 52 – Beschlagnahme und Durchsuchung, Vermögensbeschlagnahme
 
 (1) Gegenstände, deren Herausgabe an den Gerichtshof in Betracht kommt, können, auch schon vor Eingang des Ersuchens um Herausgabe, beschlagnahmt oder sonst sichergestellt werden. Zu diesem Zweck kann auch eine Durchsuchung vorgenommen werden.
 
@@ -1210,15 +1155,13 @@ In den Fällen der Artikel 93 Abs. 3 bis 5, 9 Buchstabe b, Artikel 94 Abs. 1 und
 
 (6) Die Beschlagnahme nach Absatz 4 wird auf Ersuchen des Gerichtshofes aufgehoben, spätestens jedoch nachdem das die Beschlagnahme anordnende Gericht Kenntnis davon erlangt hat, dass der Haftbefehl aufgehoben wurde oder das Verfahren im ersten Rechtszug beendet ist. Die §§ 291, 292 und 293 Abs. 2 der Strafprozessordnung finden auf eine Beschlagnahme nach Absatz 4 oder Absatz 5 entsprechende Anwendung.
 
-
-## § 53 – Persönliches Erscheinen von Zeugen
+# § 53 – Persönliches Erscheinen von Zeugen
 
 (1) Ersucht der Gerichtshof um persönliches Erscheinen einer Person, die sich im Inland auf freiem Fuß befindet, als Zeuge zur Vernehmung, zur Gegenüberstellung oder zur Einnahme eines Augenscheins, so können die Ordnungsmittel angeordnet werden, die im Falle der Ladung durch ein deutsches Gericht oder eine deutsche Staatsanwaltschaft verhängt werden könnten.
 
 (2) Soweit der Gerichtshof einer Person zusichert, ihre Aussage nicht zu verwenden, dürfen die Angaben der Person ohne ihre Zustimmung im Umfang der Zusicherung des Gerichtshofes in einem deutschen Strafverfahren nicht verwertet werden. Aussagen vor dem Gerichtshof dürfen ohne Zustimmung der Person in einem deutschen Strafverfahren auch nicht verwertet werden, wenn die Person verpflichtet war, vor dem Gerichtshof Angaben zu machen, sie nach deutschem Recht aber die Angaben hätte verweigern können.
 
-
-## § 54 – Vorübergehende Übergabe(Zu Artikel 93 Abs. 1 und 7 des Römischen Statuts)
+# § 54 – Vorübergehende Übergabe(Zu Artikel 93 Abs. 1 und 7 des Römischen Statuts)
 
 Wer sich im Inland in Untersuchungs- oder Strafhaft befindet oder auf Grund der Anordnung einer freiheitsentziehenden Maßregel der Besserung und Sicherung untergebracht ist, wird auf Ersuchen des Gerichtshofes für dort gegen einen anderen geführte Ermittlungen oder ein dort anhängiges, gegen einen anderen gerichtetes Verfahren zu einer Beweiserhebung oder einem anderen in Artikel 93 Abs. 7 Buchstabe a Satz 1 des Römischen Statuts vorgesehenen Zweck dem Gerichtshof oder den Behörden eines vom Gerichtshof bezeichneten Staates vorübergehend übergeben, wenn
 
@@ -1232,8 +1175,7 @@ Wer sich im Inland in Untersuchungs- oder Strafhaft befindet oder auf Grund der 
 
 Das Einverständnis (Satz 1 Nr. 1) kann nicht widerrufen werden. Die aus Anlass der Übergabe erlittene Freiheitsentziehung wird auf die im Inland zu vollziehende Freiheitsentziehung angerechnet. § 27 Abs. 4 gilt entsprechend. Dies gilt nicht für Freiheitsstrafen, die gemäß Artikel 70 Abs. 3 des Römischen Statuts vom Gerichtshof verhängt und vollstreckt worden sind.
 
-
-## § 55 – Vorübergehende Übernahme und Verbringung
+# § 55 – Vorübergehende Übernahme und Verbringung
 
 (1) Wer sich außerhalb des Geltungsbereichs dieses Gesetzes in Untersuchungs- oder Strafhaft befindet oder auf Grund der Anordnung einer freiheitsentziehenden Maßregel untergebracht ist, wird auf Ersuchen des Gerichtshofes für dort geführte Ermittlungen oder für ein dort anhängiges Verfahren zu einer Beweiserhebung in den Geltungsbereich dieses Gesetzes vorübergehend übernommen und zum vereinbarten Zeitpunkt oder auf Ersuchen des Gerichtshofes außer im Falle des Verzichts des Gerichtshofes zurückübergeben, wenn gewährleistet ist, dass der Übernommene im Falle eines Verzichts des Gerichtshofes auf die Rückübergabe in einem ausländischen Staat Aufnahme findet. Gegen den Betroffenen wird vor Durchführung der vorübergehenden Übernahme durch schriftlichen Haftbefehl die Haft angeordnet, wenn der Gerichtshof hierum bittet oder die Rückübergabe sonst nicht gewährleistet wäre.
 
@@ -1265,20 +1207,17 @@ Das Einverständnis (Satz 1 Nr. 1) kann nicht widerrufen werden. Die aus Anlass 
 
 (6) Wer sich außerhalb des Geltungsbereichs dieses Gesetzes in Untersuchungs- oder Strafhaft befindet oder auf Grund der Anordnung einer freiheitsentziehenden Maßregel untergebracht ist, wird auf Ersuchen des Gerichtshofes für dort gegen einen anderen geführte Ermittlungen oder ein dort anhängiges, gegen einen anderen gerichtetes Verfahren zu einer Beweiserhebung durch den Geltungsbereich dieses Gesetzes verbracht und nach der Beweiserhebung zurückverbracht. Absatz 1 Satz 2 sowie Absatz 2 bis 5 gelten mit der Maßgabe entsprechend, dass an die Stelle der Frist des Absatzes 5 von zwei Monaten eine Frist von einem Monat tritt. Ferner finden § 14 Abs. 5, §§ 18, 20 Abs. 2, § 37 Abs. 4 und 5 Satz 1, 2 und 4 entsprechende Anwendung.
 
-
-## § 56 – Schutz von Personen  (Zu Artikel 93 Abs. 1 Buchstabe j des Römischen Statuts)
+# § 56 – Schutz von Personen  (Zu Artikel 93 Abs. 1 Buchstabe j des Römischen Statuts)
 
 Die Vorschriften zum Schutz von Opfern von Straftaten und zum Schutz von Personen, die an einem deutschen Strafverfahren beteiligt sind, finden auf mutmaßliche Geschädigte einer der Gerichtsbarkeit des Gerichtshofes unterliegenden Straftat oder auf Zeugen in einem Verfahren vor dem Gerichtshof entsprechende Anwendung.
 
-
-## § 57 – Zustellungen  (Zu Artikel 58 Abs. 7 Satz 4, Artikel 93 Abs. 1 Buchstabe d des Römischen Statuts)
+# § 57 – Zustellungen  (Zu Artikel 58 Abs. 7 Satz 4, Artikel 93 Abs. 1 Buchstabe d des Römischen Statuts)
 
 (1) Für das Verfahren bei Zustellungen gelten die Vorschriften der Zivilprozessordnung entsprechend.
 
 (2) Die Zustellung einer Ladung des Gerichtshofes an den Beschuldigten im Wege der Ersatzzustellung ist ausgeschlossen.
 
-
-## § 58 – Weitergabe von dienstlich erlangten Erkenntnissen und Informationen
+# § 58 – Weitergabe von dienstlich erlangten Erkenntnissen und Informationen
 
 (1) Auf Ersuchen einer zuständigen Stelle des Gerichtshofes werden vorbehaltlich des Absatzes 3 dem Gerichtshof im Rahmen seiner Zuständigkeit von deutschen Gerichten und Behörden dienstlich erlangte Erkenntnisse in dem Umfang übermittelt, in dem dies gegenüber einem deutschen Gericht oder einer deutschen Staatsanwaltschaft zur Durchführung eines Strafverfahrens zulässig wäre, wenn gewährleistet ist, dass
 
@@ -1300,8 +1239,7 @@ Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (3) Ersucht der Gerichtshof um Übermittlung von Informationen, die einem deutschen Gericht oder einer deutschen Behörde von einem ausländischen Staat oder einer zwischen- oder überstaatlichen Einrichtung mit der Bitte um vertrauliche Behandlung überlassen wurden, so dürfen die Informationen dem Gerichtshof nicht übermittelt werden, solange die Zustimmung des Urhebers nach Artikel 73 Satz 1 des Römischen Statuts nicht vorliegt. Der Gerichtshof ist zu unterrichten.
 
-
-## § 59 – Telekommunikationsüberwachung und sonstige Maßnahmen ohne Wissen des Betroffenen (Zu Artikel 93 Abs. 1 Buchstabe l des Römischen Statuts)
+# § 59 – Telekommunikationsüberwachung und sonstige Maßnahmen ohne Wissen des Betroffenen (Zu Artikel 93 Abs. 1 Buchstabe l des Römischen Statuts)
 
 (1) Die Anordnung der Überwachung der Telekommunikation (§ 100a der Strafprozessordnung) und die Übermittlung der durch die Überwachung erlangten Erkenntnisse sind nur zulässig, wenn
 
@@ -1313,35 +1251,29 @@ Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) Auf Ersuchen des Gerichtshofes werden die in §§ 100b, 100c und 100f der Strafprozessordnung bezeichneten Maßnahmen ohne Wissen des Betroffenen angeordnet. Absatz 1 gilt entsprechend.
 
-
-## § 60 – Anwesenheit bei Rechtshilfehandlungen  (Zu Artikel 99 Abs. 1 des Römischen Statuts)
+# § 60 – Anwesenheit bei Rechtshilfehandlungen  (Zu Artikel 99 Abs. 1 des Römischen Statuts)
 
 Angehörigen und Bevollmächtigten des Gerichtshofes sowie anderen im Ersuchen des Gerichtshofes genannten Personen wird auf Ersuchen die Anwesenheit bei der Vornahme von Rechtshilfehandlungen im Inland gestattet; sie können Fragen oder Maßnahmen anregen. Die Angehörigen des Gerichtshofes können Niederschriften sowie Ton-, Bild- oder Videoaufzeichnungen der Rechtshilfehandlung fertigen. Soweit die betroffenen Personen zustimmen, sind Ton-, Bild- und Videoaufzeichnungen auch zulässig, ohne dass hierfür die Voraussetzungen der Strafprozessordnung vorliegen. Aufzeichnungen, die nach Satz 3 angefertigt worden sind, dürfen in einem deutschen Strafverfahren nicht verwertet werden.
 
-
-## § 61 – Gerichtliche Anhörungen  (Zu Artikel 3 Abs. 2 des Römischen Statuts)
+# § 61 – Gerichtliche Anhörungen  (Zu Artikel 3 Abs. 2 des Römischen Statuts)
 
 (1) Auf Ersuchen des Gerichtshofes wird diesem gestattet, gerichtliche Anhörungen im Inland durchzuführen.
 
 (2) Auf die Vollstreckung einer Geldstrafe nach Artikel 71 Abs. 1 des Römischen Statuts findet § 43 entsprechende Anwendung.
 
-
-## § 62 – Unmittelbare Erledigung durch den Gerichtshof  (Zu Artikel 99 Abs. 4 Buchstabe b des Römischen Statuts)
+# § 62 – Unmittelbare Erledigung durch den Gerichtshof  (Zu Artikel 99 Abs. 4 Buchstabe b des Römischen Statuts)
 
 Auf besonderes Ersuchen wird Angehörigen und Bevollmächtigten des Gerichtshofes in Absprache mit den zuständigen deutschen Behörden gestattet, Vernehmungen, Augenscheinseinnahmen und ähnliche Beweiserhebungen im Inland selbständig vorzunehmen. Die Rechtshilfe kann unter Bedingungen im Sinne des Artikels 99 Abs. 4 Buchstabe b des Römischen Statuts bewilligt werden. Die Anordnung und Durchführung von Zwangsmaßnahmen bleibt in allen Fällen den zuständigen deutschen Behörden vorbehalten und richtet sich nach deutschem Recht.
 
-
-## § 63 – Einleitung eines deutschen Strafverfahrens  (Zu Artikel 70 Abs. 4 des Römischen Statuts)
+# § 63 – Einleitung eines deutschen Strafverfahrens  (Zu Artikel 70 Abs. 4 des Römischen Statuts)
 
 Ersucht der Gerichtshof nach Artikel 70 Abs. 4 Buchstabe b des Römischen Statuts um Einleitung eines Strafverfahrens gegen eine Person, die einer Tat nach Artikel 70 Abs. 1 des Römischen Statuts verdächtigt wird, so wird der Gerichtshof sobald wie möglich von dem auf Grund des Ersuchens Veranlassten unterrichtet. Nach Abschluss des Verfahrens wird ihm eine Ausfertigung oder eine beglaubigte Abschrift der endgültigen Entscheidung übersandt. Überlassene Gegenstände und Akten sind zurückzugeben, sofern der Gerichtshof darum ersucht.
 
-
-## § 64 – Form und Inhalt der Ersuchen  (Zu Artikel 93 Abs. 10, Artikel 96 Abs. 4 des Römischen Statuts)
+# § 64 – Form und Inhalt der Ersuchen  (Zu Artikel 93 Abs. 10, Artikel 96 Abs. 4 des Römischen Statuts)
 
 An den Gerichtshof nach Artikel 93 Abs. 10 Buchstabe a des Römischen Statuts gerichtete Ersuchen um Rechtshilfe oder Überstellung sowie die beizufügenden Unterlagen müssen die in Artikel 96 Abs. 1 in Verbindung mit Abs. 4 des Römischen Statuts vorgeschriebene Form und den in Artikel 96 Abs. 2 in Verbindung mit Abs. 4 des Römischen Statuts bezeichneten Inhalt haben.
 
-
-## § 65 – Rücküberstellung
+# § 65 – Rücküberstellung
 
 (1) Wer für ein im Inland gegen ihn geführtes Strafverfahren auf Ersuchen unter der Bedingung späterer Rücküberstellung vom Gerichtshof vorübergehend überstellt worden ist, wird zum vereinbarten Zeitpunkt an den Gerichtshof oder die Behörden eines von ihm bezeichneten Staates zurücküberstellt, sofern der Gerichtshof nicht darauf verzichtet. Gegen den Verfolgten wird vor Durchführung der vorübergehenden Überstellung durch schriftlichen Haftbefehl die Haft angeordnet, wenn der Gerichtshof die Übergabe von dem Halten in der Haft abhängig macht oder wenn die Rücküberstellung sonst nicht gewährleistet wäre. Die auf Grund einer Anordnung nach Satz 2 erlittene Haft wird auf eine im deutschen Strafverfahren verhängte Strafe entsprechend § 51 des Strafgesetzbuches angerechnet.
 
@@ -1349,20 +1281,17 @@ An den Gerichtshof nach Artikel 93 Abs. 10 Buchstabe a des Römischen Statuts ge
 
 (3) Die Haftentscheidung trifft das Oberlandesgericht, in dessen Bezirk das mit dem inländischen Strafverfahren befasste Gericht seinen Sitz hat, vor Erhebung der öffentlichen Klage das Oberlandesgericht, in dessen Bezirk die das Verfahren führende Staatsanwaltschaft ihren Sitz hat. Die Entscheidung ist unanfechtbar. Zuständig für die Anordnung und Durchführung der Rücküberstellung ist die Staatsanwaltschaft bei dem nach Satz 1 zuständigen Oberlandesgericht.
 
-
-## § 66 – Vorübergehende Übergabe für ein deutsches Verfahren
+# § 66 – Vorübergehende Übergabe für ein deutsches Verfahren
 
 (1) Wer sich auf Grund einer Anordnung des Gerichtshofes in Untersuchungs- oder Strafhaft befindet und einem deutschen Gericht oder einer deutschen Behörde auf Ersuchen unter der Bedingung der späteren Rückübergabe für ein gegen einen anderen geführtes inländisches Strafverfahren zu einer Beweiserhebung vorübergehend übergeben worden ist, wird zum vereinbarten Zeitpunkt dem Gerichtshof oder den Behörden eines von ihm bezeichneten Staates zurückübergeben, sofern der Gerichtshof nicht darauf verzichtet. Gegen den Verfolgten wird vor Durchführung der vorübergehenden Übergabe durch schriftlichen Haftbefehl die Haft angeordnet, wenn der Gerichtshof die Übergabe von dem Halten in der Haft abhängig macht oder wenn die Rückübergabe sonst nicht gewährleistet wäre. Auf den Haftbefehl findet § 55 Abs. 2 entsprechende Anwendung. Im Übrigen gelten § 13 Abs. 3, § 14 Abs. 1, 2 Satz 1 und 3, Abs. 5, §§ 18, 55 Abs. 3 bis 5 sowie § 65 Abs. 3 entsprechend.
 
 (2) Wer sich im Inland in Untersuchungs- oder Strafhaft befindet oder auf Grund der Anordnung einer freiheitsentziehenden Maßregel der Besserung und Sicherung untergebracht ist, kann zu einer Beweiserhebung für ein im Inland geführtes Strafverfahren dem Gerichtshof vorübergehend übergeben werden, wenn die Voraussetzungen des § 54 Satz 1 Nr. 1, 3 und 4 vorliegen. § 49 Abs. 4 Satz 2 und 3 sowie § 54 Satz 2 bis 5 gelten entsprechend.
 
-
-## § 67 – Bedingungen
+# § 67 – Bedingungen
 
 Bedingungen, die der Gerichtshof an die Rechtshilfe geknüpft hat, sind zu beachten.
 
-
-## § 68 – Zuständigkeit des Bundes
+# § 68 – Zuständigkeit des Bundes
 
 (1) Über Rechtshilfeersuchen des Gerichtshofes und über die Stellung von Ersuchen an den Gerichtshof um Rechtshilfe entscheidet das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Auswärtigen Amt und mit anderen Bundesministerien, deren Geschäftsbereich von der Rechtshilfe betroffen wird. Ist für die Leistung der Rechtshilfe eine Behörde zuständig, die dem Geschäftsbereich eines anderen Bundesministeriums angehört, so tritt dieses an die Stelle des Bundesministeriums der Justiz und für Verbraucherschutz; die Entscheidung ergeht im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Auswärtigen Amt. Die nach den Sätzen 1 und 2 zuständigen Bundesministerien können die Ausübung ihrer Befugnisse im Einzelfall auf nachgeordnete Bundesbehörden übertragen. Die Bundesregierung kann im Einzelfall die Ausübung der Befugnis, über ein Ersuchen des Gerichtshofes nach Teil 5 dieses Gesetzes zu entscheiden und den Gerichtshof um Rechtshilfe zu ersuchen, auf eine Landesregierung übertragen. Die Landesregierungen können die ihnen nach Satz 4 übertragene Befugnis auf eine andere nach Landesrecht zuständige Behörde übertragen.
 
@@ -1386,8 +1315,7 @@ Bedingungen, die der Gerichtshof an die Rechtshilfe geknüpft hat, sind zu beach
 
 (4) Die Befugnisse des Bundeskriminalamtes zur Datenübermittlung, Ausschreibung und Identitätsfeststellung auf ein Ersuchen des Gerichtshofes richten sich nach § 27 Abs. 1 Satz 1 Nr. 2 des Bundeskriminalamtgesetzes und § 33 Absatz 1 bis 4 des Bundeskriminalamtgesetzes.
 
-
-## § 69 – Deutsches Strafverfahren und früheres Strafverfahren vor dem Gerichtshof  (Zu Artikel 20 Abs. 2, Artikel 70 Abs. 2 des Römischen Statuts)
+# § 69 – Deutsches Strafverfahren und früheres Strafverfahren vor dem Gerichtshof  (Zu Artikel 20 Abs. 2, Artikel 70 Abs. 2 des Römischen Statuts)
 
 (1) Niemand darf wegen eines in Artikel 5 des Römischen Statuts bezeichneten Verbrechens oder einer in Artikel 70 Abs. 1 des Römischen Statuts bezeichneten Straftat, derentwegen er vom Gerichtshof bereits verurteilt oder freigesprochen wurde, vor ein anderes Gericht gestellt werden.
 
@@ -1395,22 +1323,18 @@ Bedingungen, die der Gerichtshof an die Rechtshilfe geknüpft hat, sind zu beach
 
 (3) Einer zu treffenden Entscheidung über die Entschädigung für Strafverfolgungsmaßnahmen wird die Entscheidung des Gerichtshofes zur Schuld- und Straffrage zu Grunde gelegt.
 
-
-## § 70 – Benachrichtigung(Zu Artikel 27 des Römischen Statuts)
+# § 70 – Benachrichtigung(Zu Artikel 27 des Römischen Statuts)
 
 Richtet sich ein Ersuchen des Gerichtshofes um Überstellung oder sonstige Rechtshilfe gegen ein Mitglied des Deutschen Bundestages oder ein Gesetzgebungsorgan eines Landes oder auf Ermittlungshandlungen in deren Räumen, so unterrichtet das Bundesministerium der Justiz und für Verbraucherschutz oder die sonst nach § 68 Abs. 1 zuständige Stelle den Präsidenten der Körperschaft, welcher der Betroffene angehört oder die von der erbetenen Ermittlungshandlung betroffen wird, über den Eingang des Ersuchens. Durch geeignete Maßnahmen ist sicherzustellen, dass die Durchführung des Verfahrens vor dem Gerichtshof oder des Überstellungsverfahrens infolge der Unterrichtung nicht gefährdet wird.
 
-
-## § 71 – Kosten  (Zu Artikel 100, Artikel 107 Abs. 2 des Römischen Statuts)
+# § 71 – Kosten  (Zu Artikel 100, Artikel 107 Abs. 2 des Römischen Statuts)
 
 Auf die Erstattung der vom Gerichtshof zu tragenden Kosten der Rechtshilfe kann verzichtet werden.
 
-
-## § 72 – Anwendung anderer Verfahrensvorschriften
+# § 72 – Anwendung anderer Verfahrensvorschriften
 
 Soweit dieses Gesetz keine besonderen Verfahrensvorschriften enthält, gelten die Vorschriften des Gerichtsverfassungsgesetzes und des Einführungsgesetzes zum Gerichtsverfassungsgesetz, der Strafprozessordnung und des Einführungsgesetzes zur Strafprozessordnung, des Strafgesetzbuches, des Jugendgerichtsgesetzes und der Abgabenordnung sinngemäß.
 
-
-## § 73 – Einschränkung von Grundrechten
+# § 73 – Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 Abs. 1 des Grundgesetzes), der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) und des Auslieferungsverbotes (Artikel 16 Abs. 2 Satz 1 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.

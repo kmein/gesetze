@@ -1,27 +1,21 @@
-# [GCP-V] Verordnung über die Anwendung der Guten Klinischen Praxis bei der Durchführung von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen  (GCP-Verordnung - GCP-V)
-
-Ausfertigungsdatum: 09.08.2004
-
+% Verordnung über die Anwendung der Guten Klinischen Praxis bei der Durchführung von klinischen Prüfungen mit Arzneimitteln zur Anwendung am Menschen  (GCP-Verordnung - GCP-V)
+% Ausfertigungsdatum: 09.08.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 1b Nr. 2 und des § 42 Abs. 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586), von denen § 12 Abs. 1b Nr. 2 durch Artikel 1 Nr. 10 Buchstabe a des Gesetzes vom 30. Juli 2004 (BGBl. I S. 2031) eingefügt und § 42 Abs. 3 durch Artikel 1 Nr. 28 des Gesetzes vom 30. Juli 2004 (BGBl. I S. 2031) neu gefasst worden sind, verordnet das Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 (1) Zweck dieser Verordnung ist, die Einhaltung der Guten Klinischen Praxis bei der Planung, Durchführung und Dokumentation klinischer Prüfungen am Menschen und der Berichterstattung darüber sicherzustellen. Damit wird gewährleistet, dass die Rechte, die Sicherheit und das Wohlergehen der betroffenen Person geschützt werden und die Ergebnisse der klinischen Prüfung glaubwürdig sind.
 
 (2) Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, bezweckt diese Verordnung darüber hinaus den Schutz der Gesundheit nicht betroffener Personen und der Umwelt in ihrem Wirkungsgefüge.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 Die Verordnung regelt die Aufgaben, Verantwortungsbereiche und Verfahren hinsichtlich der Planung, Genehmigung, Durchführung und Überwachung von klinischen Prüfungen am Menschen nach § 4 Abs. 23 des Arzneimittelgesetzes einschließlich Bioverfügbarkeits- und Bioäquivalenzstudien sowie hinsichtlich ihrer Dokumentation und der Berichterstattung über diese klinischen Prüfungen. Sie regelt außerdem den Schutz der Gesundheit nicht betroffener Personen und umweltbezogene Anforderungen bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Multizentrische klinische Prüfung ist eine nach einem einzigen Prüfplan durchgeführte klinische Prüfung, die in mehr als einer Prüfstelle erfolgt und daher von mehr als einem Prüfer vorgenommen wird, wobei sich die weiteren Prüfstellen auch in anderen Mitgliedstaaten der Europäischen Union oder in Ländern befinden können, die nicht Mitgliedstaaten der Europäischen Union sind.
 
@@ -51,15 +45,13 @@ Die Verordnung regelt die Aufgaben, Verantwortungsbereiche und Verfahren hinsich
 
 (11) Entblindung ist die Offenlegung der Identität eines verblindeten Prüfpräparates.
 
-
-## § 4 – Herstellung und Einfuhr
+# § 4 – Herstellung und Einfuhr
 
 (1) Die Herstellung, die Freigabe sowie die Einfuhr von Prüfpräparaten regelt die Arzneimittel- und Wirkstoffherstellungsverordnung vom 3. November 2006 (BGBl. I S. 2523), in der jeweils geltenden Fassung. Für die Kennzeichnung von Prüfpräparaten gilt § 5.
 
 (2) Der Sponsor muss sicherstellen, dass die Herstellung und Prüfung des Prüfpräparates den Angaben des bei der zuständigen Bundesoberbehörde nach § 7 Abs. 4 Nr. 1 eingereichten Dossiers zum Prüfpräparat entspricht und die Herstellungsbetriebe und Prüflaboratorien für diese Tätigkeiten geeignet sowie zu deren Ausübung berechtigt sind. Bei Verwendung zugelassener Arzneimittel im Sinne des § 5 Abs. 8 gelten die Anforderungen als erfüllt, soweit der Sponsor bis auf die Kennzeichnung keine weiteren Herstellungsvorgänge unternimmt.
 
-
-## § 5 – Kennzeichnung von Prüfpräparaten
+# § 5 – Kennzeichnung von Prüfpräparaten
 
 (1) Bei Prüfpräparaten muss die Kennzeichnung den Schutz der betroffenen Personen und die Rückverfolgbarkeit sicherstellen, die Identifizierung des Arzneimittels und der Prüfung ermöglichen und eine ordnungsgemäße Verwendung des Arzneimittels gewährleisten.
 
@@ -111,13 +103,11 @@ Wenn Behältnis und äußere Umhüllung fest verbunden sind, ist die Kennzeichnu
 
 (8) Bei Prüfpräparaten, die durch die zuständige Bundesoberbehörde zugelassene Arzneimittel sind oder für die die Europäische Gemeinschaft oder die Europäische Union eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. EU Nr. L 136 S. 1) erteilt hat, und die ohne zusätzliche Herstellungsmaßnahmen zur Verwendung in der klinischen Prüfung bestimmt sind, kann auf besondere Kennzeichnungen auf den Behältnissen und den äußeren Umhüllungen nach den Absätzen 2 bis 7 verzichtet werden, soweit es das Konzept der klinischen Prüfung erlaubt. Angaben nach Absatz 1 können auch in einem Begleitdokument aufgeführt werden.
 
-
-## § 6 – Entblindung in Notfallsituationen und Rücknahme
+# § 6 – Entblindung in Notfallsituationen und Rücknahme
 
 Bei verblindeten Prüfpräparaten muss der Sponsor ein Verfahren zur unverzüglichen Entblindung etablieren, das eine sofortige Identifizierung und, sofern erforderlich, eine unverzügliche Rücknahme der Prüfpräparate ermöglicht. Dabei ist sicherzustellen, dass die Identität eines verblindeten Prüfpräparates nur so weit offen gelegt wird, wie dies erforderlich ist.
 
-
-## § 7 – Antragstellung
+# § 7 – Antragstellung
 
 (1) Der Sponsor reicht in schriftlicher Form bei der für das zu testende Prüfpräparat zuständigen Bundesoberbehörde einen Antrag auf Genehmigung der klinischen Prüfung und bei der zuständigen Ethik-Kommission einen Antrag auf zustimmende Bewertung der klinischen Prüfung ein. Die dem Antrag beizufügenden Unterlagen können in deutscher oder in englischer Sprache abgefasst sein, soweit im Folgenden nichts anderes bestimmt ist. Antrag und Unterlagen sind zusätzlich auf einem elektronischen Datenträger einzureichen. Bei multizentrischen klinischen Prüfungen, die im Geltungsbereich des Arzneimittelgesetzes in mehr als einer Prüfstelle erfolgen, erhält jede weitere nach Landesrecht für einen Prüfer zuständige Ethik-Kommission (beteiligte Ethik-Kommission) zeitgleich eine Kopie des Antrags und der Unterlagen. Die nach § 42 Abs. 1 Satz 2 des Arzneimittelgesetzes zuständige Ethik-Kommission ist federführend für die Bearbeitung.
 
@@ -167,8 +157,7 @@ Bei verblindeten Prüfpräparaten muss der Sponsor ein Verfahren zur unverzügli
 
 6. Lebensläufe oder andere geeignete Qualifikationsnachweise der Prüfer,
 
-6a.  
-Angaben zur Qualifikation der Mitglieder der Prüfgruppe sowie über ihre Erfahrungen mit der Durchführung klinischer Prüfungen,
+6a. Angaben zur Qualifikation der Mitglieder der Prüfgruppe sowie über ihre Erfahrungen mit der Durchführung klinischer Prüfungen,
 
 7. Angaben zu möglichen wirtschaftlichen und anderen Interessen der Prüfer im Zusammenhang mit den Prüfpräparaten,
 
@@ -228,8 +217,7 @@ g) zusammenfassende Nutzen-Risiko-Bewertung;
 
 (7) Sofern das Prüfpräparat ein Placebo ist, beschränkt sich der Inhalt des Dossiers zum Prüfpräparat auf die Angaben nach Absatz 4 Nr. 1 Buchstabe a.
 
-
-## § 8 – Bewertung durch die Ethik-Kommission
+# § 8 – Bewertung durch die Ethik-Kommission
 
 (1) Die nach § 42 Abs. 1 Satz 1 oder 2 des Arzneimittelgesetzes zuständige Ethik-Kommission bestätigt dem Sponsor innerhalb von zehn Tagen den Eingang des ordnungsgemäßen Antrags unter Angabe des Eingangsdatums oder fordert ihn auf, die von ihr benannten Formmängel innerhalb einer Frist von 14 Tagen zu beheben, wenn Unterlagen zum Antrag ohne Begründung hierfür fehlen oder der Antrag aus sonstigen Gründen nicht ordnungsgemäß ist.
 
@@ -241,8 +229,7 @@ g) zusammenfassende Nutzen-Risiko-Bewertung;
 
 (5) Multizentrische klinische Prüfungen, die im Geltungsbereich des Arzneimittelgesetzes in mehr als einer Prüfstelle durchgeführt werden, bewertet die federführende Ethik-Kommission im Benehmen mit den beteiligten Ethik-Kommissionen. Die beteiligten Ethik-Kommissionen prüfen die Qualifikation der Prüfer und die Geeignetheit der Prüfstellen in ihrem Zuständigkeitsbereich. Ihre diesbezügliche Bewertung muss der federführenden Ethik-Kommission innerhalb von 30 Tagen nach Eingang des ordnungsgemäßen Antrags vorliegen.
 
-
-## § 9 – Genehmigung durch die zuständige Bundesoberbehörde
+# § 9 – Genehmigung durch die zuständige Bundesoberbehörde
 
 (1) Die zuständige Bundesoberbehörde bestätigt dem Sponsor innerhalb von zehn Tagen den Eingang des ordnungsgemäßen Antrags unter Angabe des Eingangsdatums oder fordert ihn auf, die von ihr benannten Formmängel innerhalb einer Frist von 14 Tagen zu beheben, wenn Unterlagen zum Antrag ohne Begründung hierfür fehlen oder der Antrag aus sonstigen Gründen nicht ordnungsgemäß ist.
 
@@ -254,8 +241,7 @@ g) zusammenfassende Nutzen-Risiko-Bewertung;
 
 (5) Zur Vorbereitung ihrer Entscheidung kann die zuständige Bundesoberbehörde die im Antrag nach § 42 Abs. 2 Satz 1 und 2 des Arzneimittelgesetzes enthaltenen oder nach § 10 Abs. 1 geänderten Angaben in der Prüfstelle, der Herstellungseinrichtung des Prüfpräparates, den an der Prüfung beteiligten Laboratorien, den Einrichtungen des Sponsors oder in sonstigen Einrichtungen überprüfen. Zu diesem Zweck können Beauftragte der zuständigen Bundesoberbehörde im Benehmen mit der zuständigen Behörde Betriebs- und Geschäftsräume zu den üblichen Geschäftszeiten betreten, Unterlagen einsehen und, soweit es sich nicht um personenbezogene Daten handelt, hieraus Abschriften oder Ablichtungen anfertigen sowie Auskünfte verlangen.
 
-
-## § 10 – Nachträgliche Änderungen
+# § 10 – Nachträgliche Änderungen
 
 (1) Änderungen einer von der zuständigen Bundesoberbehörde genehmigten oder von der zuständigen Ethik-Kommission zustimmend bewerteten klinischen Prüfung, die geeignet sind,
 
@@ -277,15 +263,13 @@ darf der Sponsor nur vornehmen, wenn diese Änderungen von der zuständigen Ethi
 
 (4) Zusätzliche Prüfstellen im Geltungsbereich des Arzneimittelgesetzes darf der Sponsor nur dann in die klinische Prüfung einbeziehen, wenn die zuständige Ethik-Kommission, die die klinische Prüfung zustimmend bewertet hat, die Einbeziehung der jeweiligen zusätzlichen Prüfstelle zustimmend bewertet. Dem Antrag auf Erteilung der zustimmenden Bewertung sind die auf die zusätzlichen Prüfstellen bezogenen Angaben nach § 7 Abs. 2 Nr. 5 und 8, Abs. 3 Nr. 4, 6 bis 8, 13, 14, 16, 18 und Absatz 3a beizufügen. Jede Ethik-Kommission, die nach Landesrecht für einen Prüfer zuständig ist, der in einer zusätzlichen Prüfstelle für die Durchführung der klinischen Prüfung verantwortlich ist, erhält eine Kopie des ursprünglichen Antrags und der Unterlagen auf zustimmende Bewertung der klinischen Prüfung, der zustimmenden Bewertung der in Satz 1 genannten Ethik-Kommission und des Antrags auf zustimmende Bewertung der Einbeziehung der zusätzlichen Prüfstelle. Die federführende Ethik-Kommission setzt sich mit ihr ins Benehmen. Die zustimmende Bewertung gilt als erteilt, wenn die federführende Ethik-Kommission dem Sponsor nicht innerhalb von 30 Tagen nach Eingang des ordnungsgemäßen Antrags begründete Bedenken übermittelt. Die federführende Ethik-Kommission unterrichtet die zuständige Bundesoberbehörde über die Bewertung.
 
-
-## § 11 – Maßnahmen zum Schutz vor unmittelbarer Gefahr
+# § 11 – Maßnahmen zum Schutz vor unmittelbarer Gefahr
 
 (1) Unbeschadet des § 10 treffen der Sponsor und der Prüfer unverzüglich alle gebotenen Maßnahmen zum Schutz der betroffenen Personen vor unmittelbarer Gefahr, wenn neue Umstände die Sicherheit der betroffenen Personen beeinträchtigen können.
 
 (2) Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, treffen der Sponsor und der Prüfer unbeschadet des § 10 alle gebotenen Maßnahmen zum Schutz der Gesundheit nicht betroffener Personen und der Umwelt.
 
-
-## § 12 – Anzeige-, Dokumentations- und Mitteilungspflichten des Prüfers
+# § 12 – Anzeige-, Dokumentations- und Mitteilungspflichten des Prüfers
 
 (1) Der Prüfer fügt seiner Anzeige nach § 67 des Arzneimittelgesetzes bei der zuständigen Behörde für jede von ihm durchgeführte klinische Prüfung die folgenden Angaben bei:
 
@@ -331,8 +315,7 @@ darf der Sponsor nur vornehmen, wenn diese Änderungen von der zuständigen Ethi
 
 (7) Bei klinischen Prüfungen mit Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, hat der Prüfer den Sponsor unverzüglich über Beobachtungen von in der Risikobewertung nicht vorgesehenen etwaigen schädlichen Auswirkungen auf die Gesundheit nicht betroffener Personen und die Umwelt zu unterrichten.
 
-
-## § 13 – Dokumentations- und Mitteilungspflichten des Sponsors
+# § 13 – Dokumentations- und Mitteilungspflichten des Sponsors
 
 (1) Der Sponsor hat alle ihm von den Prüfern mitgeteilten unerwünschten Ereignisse ausführlich zu dokumentieren. Diese Aufzeichnungen werden der zuständigen Bundesoberbehörde und den zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union und anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, in deren Hoheitsgebiet die klinische Prüfung durchgeführt wird, auf Anforderung übermittelt. Personenbezogene Daten sind vor ihrer Übermittlung unter Verwendung des Identifizierungscodes der betroffenen Person zu pseudonymisieren.
 
@@ -364,8 +347,7 @@ darf der Sponsor nur vornehmen, wenn diese Änderungen von der zuständigen Ethi
 
 (10) Der Sponsor stellt sicher, dass die wesentlichen Unterlagen der klinischen Prüfung einschließlich der Prüfbögen nach der Beendigung oder dem Abbruch der Prüfung mindestens zehn Jahre aufbewahrt werden. Andere Vorschriften zur Aufbewahrung von medizinischen Unterlagen bleiben unberührt.
 
-
-## § 14 – Mitteilungspflichten der zuständigen Bundesoberbehörde
+# § 14 – Mitteilungspflichten der zuständigen Bundesoberbehörde
 
 (1) Die zuständige Bundesoberbehörde unterrichtet die für die Überwachung zuständigen Behörden, die zuständige Ethik-Kommission sowie die Europäische Kommission unverzüglich und unter Angabe von Gründen über die Anordnung von Abhilfemaßnahmen nach § 42a Abs. 5 des Arzneimittelgesetzes.
 
@@ -395,8 +377,7 @@ Für klinische Prüfungen mit Arzneimitteln, die aus einem gentechnisch verände
 
 (6) Bei klinischen Prüfungen von Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, unterrichtet die zuständige Bundesoberbehörde die Öffentlichkeit über den hinreichenden Verdacht einer Gefahr für die Gesundheit Dritter oder für die Umwelt in ihrem Wirkungsgefüge einschließlich der zu treffenden Vorsichtsmaßnahmen. Wird in den Fällen des Satzes 1 gemäß § 42a des Arzneimittelgesetzes die Genehmigung zurückgenommen oder widerrufen, das befristete Ruhen der Genehmigung oder eine Änderung der Bedingungen für die klinische Prüfung angeordnet und ist diese Maßnahme unanfechtbar geworden oder sofort vollziehbar, so soll die Öffentlichkeit auch hierüber unterrichtet werden. Die §§ 17a und 28a Abs. 2 Satz 2 und 3, Abs. 3 und 4 des Gentechnikgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066), das zuletzt durch Artikel 1 des Gesetzes vom 17. März 2006 (BGBl. I S. 534) geändert worden ist, gelten entsprechend.
 
-
-## § 15 – Inspektionen
+# § 15 – Inspektionen
 
 (1) Inspektionen im Rahmen der Überwachung laufender oder bereits abgeschlossener klinischer Prüfungen werden nach § 64 Abs. 1 des Arzneimittelgesetzes durch die zuständige Behörde durchgeführt. Inspektionen zur Überprüfung der Übereinstimmung mit den Angaben aus den Unterlagen nach § 7 oder § 10 oder mit den Unterlagen nach § 22 Abs. 2 Nr. 3 des Arzneimittelgesetzes werden durch die zuständige Bundesoberbehörde durchgeführt.
 
@@ -416,8 +397,7 @@ Für klinische Prüfungen mit Arzneimitteln, die aus einem gentechnisch verände
 
 (9) Die zuständige Behörde sowie die zuständige Bundesoberbehörde müssen über ein umfassend geplantes und korrekt geführtes Qualitätssicherungssystem verfügen, das zumindest die Organisationsstrukturen, Verantwortlichkeiten und Verfahren beinhaltet. Das Qualitätssicherungssystem ist vollständig zu dokumentieren und seine Funktionstüchtigkeit zu überwachen. Das für die Durchführung der Inspektionen verantwortliche Personal muss in ausreichender Zahl zur Verfügung stehen und für seine Aufgaben qualifiziert sowie unabhängig und frei von kommerziellen, finanziellen oder anderen Zwängen sein, die seine Entscheidung beeinflussen können. Den mit der Überwachung beauftragten Personen soll Gelegenheit gegeben werden, regelmäßig an fachlichen Fortbildungsveranstaltungen teilzunehmen. Die Qualifikation des Personals ist zu überprüfen.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -429,17 +409,14 @@ Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt
 
 4. entgegen § 13 Abs. 7 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 17 – Übergangsbestimmungen
+# § 17 – Übergangsbestimmungen
 
 Für klinische Prüfungen von Arzneimitteln, für die vor dem 6. August 2004 die nach § 40 Abs. 1 Satz 2 des Arzneimittelgesetzes in der bis zum 6. August 2004 geltenden Fassung erforderlichen Unterlagen der für den Leiter der klinischen Prüfung zuständigen Ethik-Kommission vorgelegt worden sind, finden die Vorschriften dieser Verordnung keine Anwendung.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Die Verordnung tritt am zweiten Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

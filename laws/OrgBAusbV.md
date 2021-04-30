@@ -1,17 +1,11 @@
-# [OrgBAusbV] Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin   (Orgelbauerausbildungsverordnung - OrgBAusbV)
-
-Ausfertigungsdatum: 11.02.2019
-
+% Verordnung über die Berufsausbildung zum Orgelbauer und zur Orgelbauerin   (Orgelbauerausbildungsverordnung - OrgBAusbV)
+% Ausfertigungsdatum: 11.02.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -35,8 +29,9 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Orgelbauers und der Orgelbauerin wird staatlich anerkannt nach
 
@@ -44,20 +39,17 @@ Der Ausbildungsberuf des Orgelbauers und der Orgelbauerin wird staatlich anerkan
 
 2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe „Orgel- und Harmoniumbauer“ nach Anlage B Abschnitt 1 Nummer 44 der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -141,20 +133,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 4. Umweltschutz.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Ziel und Zeitpunkt
+# § 6 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den Zeitrahmen legt der zuständige Prüfungsausschuss fest.
 
-
-## § 7 – Inhalt
+# § 7 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -162,8 +151,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich
+# § 8 – Prüfungsbereich
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Arbeitsauftrag statt.
 
@@ -197,15 +185,13 @@ Die Zwischenprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt für die Durchführung der zwei Arbeitsproben fünf Stunden. Die Bearbeitungszeit für die schriftlichen Aufgaben beträgt 150 Minuten.
 
-
-## § 9 – Ziel und Zeitpunkt
+# § 9 – Ziel und Zeitpunkt
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschluss- oder Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 10 – Inhalt
+# § 10 – Inhalt
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -213,8 +199,7 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 11 – Prüfungsbereiche
+# § 11 – Prüfungsbereiche
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Orgelbau in den folgenden Prüfungsbereichen statt:
 
@@ -226,8 +211,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Orgelbau in den 
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 12 – Prüfungsbereich Entwurf und Fertigung
+# § 12 – Prüfungsbereich Entwurf und Fertigung
 
 (1) Im Prüfungsbereich Entwurf und Fertigung hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -265,8 +249,7 @@ Der Prüfling wählt aus, welche Tätigkeit zugrunde gelegt wird.
 
 (4) Die Prüfungszeit für die Anfertigung des Prüfungsprodukts und für die Dokumentation beträgt zusammen 24 Stunden. Innerhalb dieser Zeit dauert das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
-
-## § 13 – Prüfungsbereich Durchführen von Teilarbeiten
+# § 13 – Prüfungsbereich Durchführen von Teilarbeiten
 
 (1) Im Prüfungsbereich Durchführen von Teilarbeiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -302,8 +285,7 @@ Der Prüfungsausschuss legt fest, welche beiden Tätigkeiten zugrunde gelegt wer
 
 (4) Die Prüfungszeit beträgt insgesamt sieben Stunden. Die beiden situativen Fachgespräche dauern zusammen höchstens zehn Minuten.
 
-
-## § 14 – Prüfungsbereich Planen und Konstruieren
+# § 14 – Prüfungsbereich Planen und Konstruieren
 
 (1) Im Prüfungsbereich Planen und Konstruieren hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -335,8 +317,7 @@ Der Prüfungsausschuss legt fest, welche beiden Tätigkeiten zugrunde gelegt wer
 
 (3) Die Prüfungszeit beträgt 240 Minuten.
 
-
-## § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -344,8 +325,7 @@ Der Prüfungsausschuss legt fest, welche beiden Tätigkeiten zugrunde gelegt wer
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Orgelbau wie folgt zu gewichten:
 
@@ -373,8 +353,7 @@ Der Prüfungsausschuss legt fest, welche beiden Tätigkeiten zugrunde gelegt wer
 
 3. in keinem Prüfungsbereich mit „ungenügend“.
 
-
-## § 17 – Mündliche Ergänzungsprüfung
+# § 17 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -396,8 +375,7 @@ Die mündliche Ergänzungsprüfung darf nur in einem Prüfungsbereich durchgefü
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 18 – Prüfungsbereiche
+# § 18 – Prüfungsbereiche
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Pfeifenbau in den folgenden Prüfungsbereichen statt:
 
@@ -409,8 +387,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Pfeifenbau in de
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 19 – Prüfungsbereich Entwurf und Fertigung
+# § 19 – Prüfungsbereich Entwurf und Fertigung
 
 (1) Im Prüfungsbereich Entwurf und Fertigung hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -452,8 +429,7 @@ Der Prüfling wählt aus, welche beiden Tätigkeiten zugrunde gelegt werden.
 
 (4) Die Prüfungszeit für die Anfertigung der beiden Prüfungsprodukte und für die Dokumentationen beträgt zusammen 24 Stunden. Innerhalb dieser Zeit dauern die beiden auftragsbezogenen Fachgespräche zusammen höchstens 20 Minuten.
 
-
-## § 20 – Prüfungsbereich Durchführen von Teilarbeiten
+# § 20 – Prüfungsbereich Durchführen von Teilarbeiten
 
 (1) Im Prüfungsbereich Durchführen von Teilarbeiten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -495,8 +471,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (4) Die Prüfungszeit beträgt insgesamt sieben Stunden. Das situative Fachgespräch dauert höchstens zehn Minuten.
 
-
-## § 21 – Prüfungsbereich Planen und Konstruieren
+# § 21 – Prüfungsbereich Planen und Konstruieren
 
 (1) Im Prüfungsbereich Planen und Konstruieren hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -526,8 +501,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (3) Die Prüfungszeit beträgt 240 Minuten.
 
-
-## § 22 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 22 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -535,8 +509,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Pfeifenbau wie folgt zu gewichten:
 
@@ -564,8 +537,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 3. in keinem Prüfungsbereich mit „ungenügend“.
 
-
-## § 24 – Mündliche Ergänzungsprüfung
+# § 24 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -587,17 +559,14 @@ Die mündliche Ergänzungsprüfung darf nur in einem Prüfungsbereich durchgefü
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 25 – Bestehende Berufsausbildungsverhältnisse
+# § 25 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 26 – Inkrafttreten, Außerkrafttreten
+# § 26 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2019 in Kraft. Gleichzeitig tritt die Orgelbauer-Ausbildungsverordnung vom 14. Dezember 1984 (BGBl. I S. 1566) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Orgelbauer und zur Orgelbauerin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Orgelbauer und zur Orgelbauerin
 
 (Fundstelle: BGBl. I 2019, 99 - 109)

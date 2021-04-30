@@ -1,15 +1,11 @@
-# [SozSichVbgCANG] Gesetz zur Vereinbarung vom 20. April 2010 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Quebec über Soziale Sicherheit
-
-Ausfertigungsdatum: 24.01.2011
-
+% Gesetz zur Vereinbarung vom 20. April 2010 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Quebec über Soziale Sicherheit
+% Ausfertigungsdatum: 24.01.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Folgenden in Quebec am 20. April 2010 unterzeichneten zwischenstaatlichen Übereinkünften wird zugestimmt:
 
@@ -19,8 +15,7 @@ Folgenden in Quebec am 20. April 2010 unterzeichneten zwischenstaatlichen Übere
 
 Die Vereinbarungen werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung der Vereinbarung sowie Änderungen der in Artikel 1 Nummer 2 genannten Durchführungsvereinbarung in Kraft zu setzen. Im Übrigen wird die Bundesregierung ermächtigt, die zur Durchführung der Vereinbarung erforderlichen innerstaatlichen Regelungen zutreffen. Dabei können zur Anwendung und Durchführung der Vereinbarung insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -30,8 +25,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. die Zuständigkeit der Versicherungsträger oder anderer in der Vereinbarung genannter Stellen und Behörden.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

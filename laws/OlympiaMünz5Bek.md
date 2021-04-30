@@ -1,10 +1,7 @@
-# [OlympiaMünz5Bek] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (5. Motiv der Olympiamünze)
-
-Ausfertigungsdatum: 01.08.1972
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (5. Motiv der Olympiamünze)
+% Ausfertigungsdatum: 01.08.1972
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom 18. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele der XX. Olympiade 1972 in München eine Bundesmünze im Nennwert von 10 Deutschen Mark (Olympiamünze) geprägt.
 
@@ -37,13 +34,11 @@ und mit Ornamenten zwischen den Worten versehen.
 
 (9) Dies wird namens der Bundesregierung bekanntgegeben.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

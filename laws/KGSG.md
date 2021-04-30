@@ -1,13 +1,9 @@
-# [KGSG] Gesetz zum Schutz von Kulturgut  (Kulturgutschutzgesetz - KGSG)
-
-Ausfertigungsdatum: 31.07.2016
-
+% Gesetz zum Schutz von Kulturgut  (Kulturgutschutzgesetz - KGSG)
+% Ausfertigungsdatum: 31.07.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Das Gesetz regelt
 
@@ -23,8 +19,7 @@ Das Gesetz regelt
 
 6. die Rückgabezusage im internationalen Leihverkehr.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes ist oder sind
 
@@ -80,15 +75,13 @@ b) „dauerhaft“, wenn sie für einen Zeitraum von mehr als fünf Jahren erfol
 
 3. die Rückgabe von Kulturgut an einen anderen Staat oder aus einem ausländischen Staat aufgrund bilateraler völkerrechtlicher Vereinbarungen.
 
-
-## § 3 – Zuständige Behörden
+# § 3 – Zuständige Behörden
 
 (1) Zuständige Behörden im Sinne dieses Gesetzes sind die zuständigen Behörden der Länder, soweit in diesem Gesetz nichts anderes bestimmt ist. Die Länder benennen die zuständigen Behörden durch Gesetz oder Rechtsverordnung.
 
 (2) Die zentrale Stelle der Bundesrepublik Deutschland im Sinne des Artikels 4 der Richtlinie 2014/60/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über die Rückgabe von unrechtmäßig aus dem Hoheitsgebiet eines Mitgliedstaats verbrachten Kulturgütern und zur Änderung der Verordnung (EU) Nr. 1024/2012 (Neufassung) (ABl. L 159 vom 28.5.2014, S. 1), die durch die Berichtigung der Richtlinie 2014/60/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über die Rückgabe von unrechtmäßig aus dem Hoheitsgebiet eines Mitgliedstaats verbrachten Kulturgütern und zur Änderung der Verordnung (EU) Nr. 1024/2012 (ABl. L 147 vom 12.6.2015, S. 24) berichtigt worden ist, für die Kontaktaufnahme und Zusammenarbeit zwischen den Mitgliedstaaten ist die für Kultur und Medien zuständige oberste Bundesbehörde.
 
-
-## § 4 – Internetportal zum Kulturgutschutz
+# § 4 – Internetportal zum Kulturgutschutz
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde ist verpflichtet, ein zentrales Internetportal zum Kulturgutschutz zu errichten und zu unterhalten. Das Internetportal dient insbesondere der Unterrichtung der Öffentlichkeit und der Herstellung von Transparenz im Kulturgutschutz, namentlich durch die
 
@@ -118,13 +111,11 @@ Der Verwaltungsausschuss berät darüber hinaus die oberste für Kultur und Medi
 
 (5) Zur Klärung weiterer Verfahrensfragen und zur Regelung der Aufgaben im Einzelnen gibt sich der Verwaltungsausschuss eine Geschäftsordnung.
 
-
-## § 5 – Grundsatz
+# § 5 – Grundsatz
 
 Nationales Kulturgut unterliegt als Teil des kulturellen Erbes Deutschlands dem Schutz gegen Abwanderung aus dem Bundesgebiet nach diesem Gesetz.
 
-
-## § 6 – Nationales Kulturgut
+# § 6 – Nationales Kulturgut
 
 (1) Nationales Kulturgut ist Kulturgut, das
 
@@ -140,8 +131,7 @@ Nationales Kulturgut unterliegt als Teil des kulturellen Erbes Deutschlands dem 
 
 (+++ § 6 Abs. 1 Nr. 3: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
-
-## § 7 – Eintragung in ein Verzeichnis national wertvollen Kulturgutes
+# § 7 – Eintragung in ein Verzeichnis national wertvollen Kulturgutes
 
 (1) Kulturgut ist von der obersten Landesbehörde in ein Verzeichnis national wertvollen Kulturgutes einzutragen, wenn
 
@@ -166,8 +156,7 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 (+++ § 7 Abs. 1 u. 2: Zur Anwendung vgl. § 9 Abs. 1 +++)  
 (+++ § 7 Abs. 1 u. 2: Zur Anwendung vgl. § 10 Abs. 7 +++)
 
-
-## § 8 – Nachträgliche Eintragung
+# § 8 – Nachträgliche Eintragung
 
 (1) Ist Kulturgut unter Verstoß gegen § 24 ausgeführt worden, so kann es von der zuständigen obersten Landesbehörde auch nach der Ausfuhr in ein Verzeichnis national wertvollen Kulturgutes eingetragen werden, wenn die Voraussetzungen nach § 7 Absatz 1 und 2 erfüllt sind.
 
@@ -177,8 +166,7 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 
 (4) Mit der Einleitung des Eintragungsverfahrens gilt das Kulturgut nach Absatz 1 als nationales Kulturgut, bis die Entscheidung über die Eintragung unanfechtbar geworden ist.
 
-
-## § 9 – Kulturgut im Eigentum der Kirchen und Religionsgemeinschaften
+# § 9 – Kulturgut im Eigentum der Kirchen und Religionsgemeinschaften
 
 (1) Die Kirchen und die als Körperschaften des öffentlichen Rechts anerkannten Religionsgemeinschaften können bei der zuständigen obersten Landesbehörde beantragen, dass Kulturgut, das sich in ihrem Eigentum befindet, in ein Verzeichnis national wertvollen Kulturgutes eingetragen wird. § 7 Absatz 1 und 2 ist entsprechend anzuwenden.
 
@@ -186,8 +174,7 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 
 (3) Die Kirchen und die als Körperschaften des öffentlichen Rechts anerkannten Religionsgemeinschaften können bei den obersten Landesbehörden beantragen, dass für einzelne Sachgesamtheiten ihrer Kulturgut bewahrenden Einrichtungen und für das Inventar ihrer liturgischen Räume § 6 Absatz 1 Nummer 3 entsprechend anzuwenden ist mit der Maßgabe, dass an die Stelle der Finanzierung durch die öffentliche Hand die Finanzierung durch die Kirchen oder Religionsgemeinschaften tritt.
 
-
-## § 10 – Ausnahmen zur Eintragung von Kulturgut bei Leihgaben aus dem Ausland und nach Rückkehr in das Bundesgebiet
+# § 10 – Ausnahmen zur Eintragung von Kulturgut bei Leihgaben aus dem Ausland und nach Rückkehr in das Bundesgebiet
 
 (1) Für ehemals im Bundesgebiet belegenes Kulturgut, das sich mehr als fünf Jahre vor dem 6. August 2016 außerhalb des Bundesgebietes befunden hat und nach dem 6. August 2016 wieder in das Bundesgebiet eingeführt werden soll, kann die zuständige oberste Landesbehörde, wenn eine Eintragung nach § 7 in Betracht kommt, auf Antrag einer Kulturgut bewahrenden Einrichtung vor der Einfuhr dem Eigentümer des Kulturgutes zusichern, dass das Kulturgut nicht nach § 7 in ein Verzeichnis national wertvollen Kulturgutes eingetragen wird, sofern der Eigentümer die Gewähr dafür bietet, dass das Kulturgut für mindestens fünf Jahre
 
@@ -207,15 +194,13 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 
 (7) Wird ein Leihvertrag zwischen einem Verleiher mit nicht nur vorübergehendem Wohnsitz oder Sitz im Ausland und einer Kulturgut bewahrenden Einrichtung im Inland abgeschlossen, so kann die zuständige oberste Landesbehörde außer in den Fällen einer Rückkehr des Kulturgutes nach Absatz 1 auf Antrag des Entleihers dem Verleiher vor der Einfuhr des Kulturgutes schriftlich zusichern, dass für die Dauer von bis zu sechs Monaten nach Ende des Leihvertrages kein Verfahren zur Eintragung in ein Verzeichnis national wertvollen Kulturgutes eingeleitet wird. Auf Kulturgut, das sich vor dem 6. August 2016 auf der Grundlage eines Leihvertrages im Sinne des Satzes 1 im Inland befindet, findet § 7 Absatz 1 und 2 ebenfalls für die Dauer von bis zu sechs Monaten nach Ablauf des Leihvertrages keine Anwendung. Die Ausfuhr bis zu sechs Monate nach Beendigung eines Leihvertrages nach den Sätzen 1 und 2 unterliegt nicht der Genehmigungspflicht nach § 24 Absatz 1 Nummer 2.
 
-
-## § 11 – Ortswechsel von eingetragenem Kulturgut
+# § 11 – Ortswechsel von eingetragenem Kulturgut
 
 (1) Wird Kulturgut, das in ein Verzeichnis national wertvollen Kulturgutes eingetragen ist, für weniger als ein Jahr von einem Land in ein anderes Land verbracht, so behält die Eintragung in das Verzeichnis national wertvollen Kulturgutes ihre Wirkung.
 
 (2) Wird Kulturgut, das in ein Verzeichnis national wertvollen Kulturgutes eingetragen ist, für mehr als ein Jahr in ein anderes Land verbracht, so wird es in das Verzeichnis national wertvollen Kulturgutes des Landes übertragen, in das es verbracht worden ist. Der unmittelbare Besitzer hat den Ortswechsel und den Zeitpunkt des Ortswechsels der nunmehr zuständigen obersten Landesbehörde schriftlich oder elektronisch mitzuteilen.
 
-
-## § 12 – Steuerliche Begünstigung von national wertvollem Kulturgut, Ausgleich bei Verkauf infolge wirtschaftlicher Notlage
+# § 12 – Steuerliche Begünstigung von national wertvollem Kulturgut, Ausgleich bei Verkauf infolge wirtschaftlicher Notlage
 
 (1) Kulturgut, das in ein Verzeichnis national wertvollen Kulturgutes eingetragen ist, wird bei der Heranziehung zu Steuern begünstigt nach
 
@@ -225,8 +210,7 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 
 (2) Wird die Genehmigung zur dauerhaften Ausfuhr nach § 23 rechtskräftig versagt und ist der Eigentümer national wertvollen Kulturgutes infolge wirtschaftlicher Notlage zum Verkauf gezwungen, so hat die oberste Landesbehörde des Landes, in dem sich das Kulturgut befindet, im Einvernehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde auf einen billigen Ausgleich unter Berücksichtigung der Steuervorteile nach Absatz 1 hinzuwirken.
 
-
-## § 13 – Löschung der Eintragung
+# § 13 – Löschung der Eintragung
 
 (1) Haben sich die das Kulturgut betreffenden Umstände, die zur Eintragung des Kulturgutes in ein Verzeichnis national wertvollen Kulturgutes geführt haben, wesentlich verändert, so kann die Eintragung von Amts wegen oder auf Antrag des Eigentümers von der obersten Landesbehörde gelöscht werden.
 
@@ -236,8 +220,7 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 
 (4) Für das Verfahren zur Löschung der Eintragung ist § 14 Absatz 1 bis 5 entsprechend anzuwenden.
 
-
-## § 14 – Eintragungsverfahren
+# § 14 – Eintragungsverfahren
 
 (1) Die Einleitung des Verfahrens auf Eintragung in ein Verzeichnis national wertvollen Kulturgutes erfolgt von Amts wegen oder auf Antrag des Eigentümers. Der Antrag ist an die oberste Landesbehörde zu richten und muss folgende Angaben enthalten
 
@@ -264,8 +247,7 @@ Werke lebender Urheber oder Hersteller dürfen nur mit deren Zustimmung eingetra
 (+++ § 14 Abs. 1 bis 5: Zur Anwendung vgl. § 13 Abs. 4 +++)  
 (+++ § 14 Abs. 2: Zur Anwendung vgl. § 23 Abs. 4 +++)
 
-
-## § 15 – Mitwirkungspflichten während des Eintragungsverfahrens
+# § 15 – Mitwirkungspflichten während des Eintragungsverfahrens
 
 (1) Im Verfahren zur Eintragung in ein Verzeichnis national wertvollen Kulturgutes ist der Eigentümer, hilfsweise der unmittelbare Besitzer, verpflichtet, der obersten Landesbehörde
 
@@ -279,8 +261,7 @@ Urheberrechtliche Vorschriften bleiben unberührt.
 
 (2) Der Eigentümer, hilfsweise der unmittelbare Besitzer, ist während des Eintragungsverfahrens verpflichtet, jede Änderung der mitgeteilten Angaben nach Absatz 1 Satz 1 Nummer 1 unverzüglich der obersten Landesbehörde mitzuteilen.
 
-
-## § 16 – Führung und Veröffentlichung der Verzeichnisse national wertvollen Kulturgutes
+# § 16 – Führung und Veröffentlichung der Verzeichnisse national wertvollen Kulturgutes
 
 (1) Die Länder führen ihre Verzeichnisse national wertvollen Kulturgutes in dem gemeinsamen Verfahren nach § 79 Absatz 1 Satz 1 und veröffentlichen sie zentral und länderübergreifend im Internetportal nach § 4.
 
@@ -294,22 +275,19 @@ Urheberrechtliche Vorschriften bleiben unberührt.
 
 (+++ § 16 Abs. 2: Zur Anwendung vgl. § 17 Abs. 2 +++)
 
-
-## § 17 – Öffentliche Bekanntmachung
+# § 17 – Öffentliche Bekanntmachung
 
 (1) Die zuständige oberste Landesbehörde hat jede Einleitung und jede Beendigung eines Verfahrens zur Eintragung, jede Eintragung, jede Löschung oder jede sonstige Änderung einer Eintragung in ein Verzeichnis national wertvollen Kulturgutes öffentlich im Bundesanzeiger bekannt zu machen und den Beteiligten mitzuteilen.
 
 (2) § 16 Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 18 – Beschädigungsverbot
+# § 18 – Beschädigungsverbot
 
 (1) Es ist verboten, Kulturgut, das in ein Verzeichnis national wertvollen Kulturgutes eingetragen ist, zu zerstören, zu beschädigen oder dessen Erscheinungsbild nicht nur unerheblich und nicht nur vorübergehend zu verändern, sofern dieses nicht zur fachgerechten Konservierung und Restaurierung oder zur Forschung nach anerkannten wissenschaftlichen Standards erfolgt. § 304 Absatz 1 und 2 des Strafgesetzbuches bleibt unberührt.
 
 (2) Absatz 1 gilt auch, wenn für ein Kulturgut das Verfahren zur Eintragung in ein Verzeichnis national wertvollen Kulturgutes eingeleitet ist.
 
-
-## § 19 – Mitteilungspflichten
+# § 19 – Mitteilungspflichten
 
 (1) Der unmittelbare Besitzer eines Kulturgutes, das in ein Verzeichnis national wertvollen Kulturgutes eingetragen ist, ist verpflichtet, der zuständigen obersten Landesbehörde unverzüglich das Abhandenkommen, die Zerstörung, die Beschädigung oder die nicht nur unerhebliche und nicht nur vorübergehende Veränderung des Erscheinungsbildes des Kulturgutes mitzuteilen. Bei Besitzwechsel ist der neue, hilfsweise der frühere unmittelbare Besitzer, zur Mitteilung verpflichtet.
 
@@ -319,13 +297,11 @@ Urheberrechtliche Vorschriften bleiben unberührt.
 
 (4) Die Absätze 1 bis 3 sind entsprechend anzuwenden, wenn für ein Kulturgut das Verfahren zur Eintragung in ein Verzeichnis national wertvollen Kulturgutes eingeleitet ist.
 
-
-## § 20 – Kulturgutverkehrsfreiheit
+# § 20 – Kulturgutverkehrsfreiheit
 
 Kulturgut kann ein- oder ausgeführt sowie in Verkehr gebracht werden, soweit nicht dieses Gesetz oder andere Rechtsvorschriften, insbesondere unmittelbar geltende Rechtsakte der Europäischen Union, Verbote oder Beschränkungen vorsehen.
 
-
-## § 21 – Ausfuhrverbot
+# § 21 – Ausfuhrverbot
 
 Die Ausfuhr von Kulturgut ist verboten, wenn
 
@@ -339,8 +315,7 @@ Die Ausfuhr von Kulturgut ist verboten, wenn
 
 5. das Kulturgut nach § 81 Absatz 4 angehalten wird.
 
-
-## § 22 – Genehmigung der vorübergehenden Ausfuhr von nationalem Kulturgut
+# § 22 – Genehmigung der vorübergehenden Ausfuhr von nationalem Kulturgut
 
 (1) Genehmigungspflichtig ist die vorübergehende Ausfuhr von nationalem Kulturgut nach § 6 in einen Mitgliedstaat oder Drittstaat.
 
@@ -356,8 +331,7 @@ Die Ausfuhr von Kulturgut ist verboten, wenn
 (+++ § 22 Abs. 4 u. 5: Zur Anwendung vgl. § 23 Abs. 10 +++)  
 (+++ § 22 Abs. 4 u. 5: Zur Anwendung vgl. § 24 Abs. 9 +++)
 
-
-## § 23 – Genehmigung der dauerhaften Ausfuhr von nationalem Kulturgut
+# § 23 – Genehmigung der dauerhaften Ausfuhr von nationalem Kulturgut
 
 (1) Genehmigungspflichtig ist die dauerhafte Ausfuhr von nationalem Kulturgut nach § 6 in einen Mitgliedstaat oder einen Drittstaat.
 
@@ -389,8 +363,7 @@ Für die Festlegung eines angemessenen Preises nach Satz 3 Nummer 2 zieht die Ku
 
 (10) § 22 Absatz 4 und 5 ist entsprechend anzuwenden.
 
-
-## § 24 – Genehmigungspflichtige Ausfuhr von Kulturgut; Verordnungsermächtigung
+# § 24 – Genehmigungspflichtige Ausfuhr von Kulturgut; Verordnungsermächtigung
 
 (1) Genehmigungspflichtig ist die Ausfuhr von Kulturgut
 
@@ -432,8 +405,7 @@ Münzen gelten nicht als archäologische Gegenstände nach Kategorie 1 des Anhan
 
 (9) § 22 Absatz 4 und 5 ist entsprechend anzuwenden.
 
-
-## § 25 – Allgemeine offene Genehmigung
+# § 25 – Allgemeine offene Genehmigung
 
 (1) Für die vorübergehende Ausfuhr von Kulturgut kann die zuständige oberste Landesbehörde einer Kulturgut bewahrenden Einrichtung auf Antrag eine zeitlich befristete generelle Genehmigung (allgemeine offene Genehmigung) erteilen, wenn diese Einrichtung regelmäßig Teile ihrer Bestände vorübergehend für öffentliche Ausstellungen, Restaurierungen oder Forschungszwecke ausführt. Die allgemeine offene Genehmigung kann mit Nebenbestimmungen versehen werden.
 
@@ -447,8 +419,7 @@ Münzen gelten nicht als archäologische Gegenstände nach Kategorie 1 des Anhan
 
 (+++ § 25: Zur Anwendung vgl. § 27 Abs. 4 +++)
 
-
-## § 26 – Spezifische offene Genehmigung
+# § 26 – Spezifische offene Genehmigung
 
 (1) Für die regelmäßige vorübergehende Ausfuhr von Kulturgut kann die zuständige oberste Landesbehörde dem Eigentümer oder rechtmäßigen unmittelbaren Besitzer auf Antrag eine zeitlich befristete, auf ein bestimmtes Kulturgut bezogene Genehmigung (spezifische offene Genehmigung) erteilen, wenn das Kulturgut im Ausland wiederholt verwendet oder ausgestellt werden soll.
 
@@ -460,8 +431,7 @@ Münzen gelten nicht als archäologische Gegenstände nach Kategorie 1 des Anhan
 
 (+++ § 26: Zur Anwendung vgl. § 27 Abs. 4 +++)
 
-
-## § 27 – Genehmigung der Ausfuhr von kirchlichem Kulturgut
+# § 27 – Genehmigung der Ausfuhr von kirchlichem Kulturgut
 
 (1) Für die vorübergehende Ausfuhr von nationalem Kulturgut, das sich im Eigentum einer Kirche oder einer als Körperschaft des öffentlichen Rechts anerkannten Religionsgemeinschaft befindet, erteilt die Kirche oder Religionsgemeinschaft die Genehmigung nach § 22 im Benehmen mit der zuständigen Landesbehörde.
 
@@ -471,8 +441,7 @@ Münzen gelten nicht als archäologische Gegenstände nach Kategorie 1 des Anhan
 
 (4) Die §§ 25 und 26 sind für Kirchen und die als Körperschaft des öffentlichen Rechts anerkannten Religionsgemeinschaften sowie für die von ihnen beaufsichtigten Einrichtungen und Organisationen mit der Maßgabe entsprechend anzuwenden, dass die Genehmigung nur im Einvernehmen mit der zuständigen Kirche oder Religionsgemeinschaft erteilt werden kann.
 
-
-## § 28 – Einfuhrverbot
+# § 28 – Einfuhrverbot
 
 Die Einfuhr von Kulturgut ist verboten, wenn es
 
@@ -482,8 +451,7 @@ Die Einfuhr von Kulturgut ist verboten, wenn es
 
 3. unter Verstoß gegen Abschnitt I Nummer 1 des Protokolls zur Haager Konvention aufgrund eines bewaffneten Konflikts verbracht worden ist.
 
-
-## § 29 – Ausnahmen vom Einfuhrverbot
+# § 29 – Ausnahmen vom Einfuhrverbot
 
 Das Einfuhrverbot ist nicht anzuwenden auf Kulturgut, das
 
@@ -491,20 +459,17 @@ Das Einfuhrverbot ist nicht anzuwenden auf Kulturgut, das
 
 2. zum Schutz vor den Gefahren eines bewaffneten Konflikts im Sinne des Abschnitts II Nummer 5 des Protokolls zur Haager Konvention im Bundesgebiet deponiert werden soll, um es zeitweilig zu verwahren.
 
-
-## § 30 – Nachweis der Rechtmäßigkeit der Einfuhr
+# § 30 – Nachweis der Rechtmäßigkeit der Einfuhr
 
 Wer Kulturgut einführt, hat, sofern es von einem Mitgliedstaat oder Vertragsstaat als nationales Kulturgut eingestuft oder definiert worden ist, zum Nachweis der Rechtmäßigkeit der Ausfuhr aus dem Herkunftsstaat im Sinne von § 28 Nummer 1 entsprechende Unterlagen mitzuführen. Ein solcher Nachweis sind Ausfuhrgenehmigungen des Herkunftsstaates sowie sonstige Bestätigungen des Herkunftsstaates, dass das Kulturgut rechtmäßig ausgeführt werden konnte.
 
-
-## § 31 – Unrechtmäßige Ausfuhr von Kulturgut
+# § 31 – Unrechtmäßige Ausfuhr von Kulturgut
 
 (1) Die Ausfuhr von Kulturgut ist unrechtmäßig, wenn sie unter Verstoß gegen die §§ 21 bis 27 erfolgt oder unter Verstoß gegen Verordnungen der Europäischen Union, die die grenzüberschreitende Verbringung von Kulturgut ausdrücklich einschränken oder verbieten.
 
 (2) Einer unrechtmäßigen Ausfuhr stehen auch jede nicht erfolgte Rückkehr nach Ablauf der Frist für eine vorübergehende rechtmäßige Ausfuhr und jeder Verstoß gegen eine Nebenbestimmung zur Genehmigung der vorübergehenden Ausfuhr gleich.
 
-
-## § 32 – Unrechtmäßige Einfuhr von Kulturgut
+# § 32 – Unrechtmäßige Einfuhr von Kulturgut
 
 (1) Die Einfuhr von Kulturgut ist unrechtmäßig,
 
@@ -520,8 +485,7 @@ b) nach dem 26. April 2007 aus dem Hoheitsgebiet eines Vertragsstaates,
 
 (2) Kann die Herkunft von Kulturgut in mehreren heutigen Staaten liegen und lässt sich keine eindeutige Zuordnung vornehmen, so ist das Kulturgut unrechtmäßig eingeführt, wenn das Kulturgut nach dem Recht jedes in Frage kommenden Staates nicht ohne Ausfuhrgenehmigung hätte ausgeführt werden dürfen und eine solche Ausfuhrgenehmigung nicht vorliegt.
 
-
-## § 33 – Sicherstellung von Kulturgut
+# § 33 – Sicherstellung von Kulturgut
 
 (1) Die zuständige Behörde hat Kulturgut sicherzustellen,
 
@@ -541,8 +505,7 @@ b) entgegen einem Verbot nach § 28 eingeführt worden ist, oder
 
 (5) Es ist verboten, sichergestelltes Kulturgut zu zerstören, zu beschädigen oder dessen Erscheinungsbild nicht nur unerheblich und nicht nur vorübergehend zu verändern.
 
-
-## § 34 – Verwahrung sichergestellten Kulturgutes
+# § 34 – Verwahrung sichergestellten Kulturgutes
 
 (1) Sichergestelltes Kulturgut ist von der zuständigen Behörde in Verwahrung zu nehmen. Sie kann das Kulturgut, sofern der Zweck der Sicherstellung dadurch nicht gefährdet ist, durch die Person, der der Gewahrsam entzogen worden ist, oder durch einen Dritten verwahren lassen. In diesem Fall darf das Kulturgut nur mit schriftlicher oder elektronisch übermittelter Zustimmung der zuständigen Behörde an andere Personen oder Einrichtungen weitergegeben werden.
 
@@ -550,8 +513,7 @@ b) entgegen einem Verbot nach § 28 eingeführt worden ist, oder
 
 (3) Die zur Erhaltung des Kulturgutes erforderlichen Maßnahmen werden von der zuständigen Behörde getroffen oder veranlasst.
 
-
-## § 35 – Aufhebung der Sicherstellung
+# § 35 – Aufhebung der Sicherstellung
 
 (1) Die Sicherstellung des Kulturgutes ist von der zuständigen Behörde aufzuheben, wenn
 
@@ -581,8 +543,7 @@ c) die Entscheidung über die Klage auf Rückgabe rechtskräftig geworden ist,
 
 (2) Hat ein Mitgliedstaat oder Vertragsstaat ein Rückgabeersuchen nach § 59 bereits gestellt oder ist geklärt, welcher Mitgliedstaat oder Vertragsstaat ein solches Ersuchen stellen könnte, so kann die Sicherstellung nur mit Zustimmung dieses Mitgliedstaates oder Vertragsstaates aufgehoben werden, es sei denn, der Anlass der Sicherstellung ist zwischenzeitlich entfallen.
 
-
-## § 36 – Herausgabe sichergestellten Kulturgutes
+# § 36 – Herausgabe sichergestellten Kulturgutes
 
 (1) Ist die Sicherstellung aufgehoben worden, so ist das Kulturgut herauszugeben
 
@@ -596,8 +557,7 @@ c) die Entscheidung über die Klage auf Rückgabe rechtskräftig geworden ist,
 
 (2) In den Fällen der Herausgabe an den Eigenbesitzer ist diesem eine Mitteilung über eine Frist zur Abholung zuzustellen. Die Frist ist ausreichend zu bemessen. Die Mitteilung hat den Hinweis zu enthalten, dass das Kulturgut eingezogen wird, wenn es nicht innerhalb der Frist abgeholt wird.
 
-
-## § 37 – Einziehung sichergestellten Kulturgutes
+# § 37 – Einziehung sichergestellten Kulturgutes
 
 (1) Sichergestelltes Kulturgut soll von der zuständigen Behörde eingezogen werden, wenn es in den Fällen des § 36 Absatz 1 Nummer 1 nicht an den Eigenbesitzer herausgegeben werden kann, weil
 
@@ -609,8 +569,7 @@ Die Anordnung der Einziehung ist nach Landesrecht öffentlich bekannt zu machen 
 
 (2) Die zuständige Behörde kann das eingezogene Kulturgut einer Kulturgut bewahrenden Einrichtung in Verwahrung geben.
 
-
-## § 38 – Folgen der Einziehung; Entschädigung
+# § 38 – Folgen der Einziehung; Entschädigung
 
 (1) Wird sichergestelltes Kulturgut eingezogen, so gehen der Besitz an dem Kulturgut mit der Anordnung der Einziehung und das Eigentum an dem Kulturgut mit der Bestandskraft der Anordnung auf das Land über. Rechte Dritter erlöschen mit der Bestandskraft der Anordnung.
 
@@ -640,15 +599,13 @@ Satz 1 ist nicht anzuwenden, soweit die Nichtgewährung der Entschädigung eine 
 
 (6) Der Anspruch auf Entschädigung nach den Absätzen 2 oder 3 erlischt 30 Jahre nach der Bekanntmachung der Anordnung der Einziehung.
 
-
-## § 39 – Kosten für Sicherstellung, Verwahrung, Erhaltung und Herausgabe
+# § 39 – Kosten für Sicherstellung, Verwahrung, Erhaltung und Herausgabe
 
 Die notwendigen Kosten und Auslagen für die Sicherstellung, Verwahrung, Erhaltung und Herausgabe des Kulturgutes trägt die Person, der der Gewahrsam entzogen worden ist. Die §§ 66 bis 68 bleiben unberührt. Die zuständige Behörde setzt den zu erstattenden Betrag durch Bescheid fest.
 
 (+++ § 39: Zur Anwendung vgl. § 81 Abs. 4 +++)
 
-
-## § 40 – Verbot des Inverkehrbringens
+# § 40 – Verbot des Inverkehrbringens
 
 (1) Verboten ist das Inverkehrbringen von Kulturgut, das abhandengekommen ist, rechtswidrig ausgegraben oder unrechtmäßig eingeführt worden ist.
 
@@ -658,8 +615,7 @@ Die notwendigen Kosten und Auslagen für die Sicherstellung, Verwahrung, Erhaltu
 
 (4) Derjenige, der das Kulturgut unter Verstoß gegen das Verbot in Absatz 1 in Verkehr gebracht hat, ist dem Erwerber zum Ersatz des Schadens unter Einschluss des Ersatzes der Aufwendungen anlässlich des Erwerbs und der Aufwendungen zur Erhaltung des Kulturgutes verpflichtet. Dies gilt nicht, wenn derjenige, der das Kulturgut in Verkehr gebracht hat, nachweist, dass er den Verstoß nicht zu vertreten hat.
 
-
-## § 41 – Allgemeine Sorgfaltspflichten
+# § 41 – Allgemeine Sorgfaltspflichten
 
 (1) Wer Kulturgut in Verkehr bringt, ist verpflichtet, zuvor mit der erforderlichen Sorgfalt zu prüfen, ob das Kulturgut
 
@@ -677,8 +633,7 @@ Die notwendigen Kosten und Auslagen für die Sicherstellung, Verwahrung, Erhaltu
 
 (3) Die erforderliche Sorgfalt umfasst die Prüfung einschlägiger Informationen, die mit zumutbarem Aufwand zu beschaffen sind, oder jede andere Prüfung, die eine vernünftige Person unter denselben Umständen des Inverkehrbringens von Kulturgut unternehmen würde.
 
-
-## § 42 – Sorgfaltspflichten beim gewerblichen Inverkehrbringen
+# § 42 – Sorgfaltspflichten beim gewerblichen Inverkehrbringen
 
 (1) Wer in Ausübung seiner gewerblichen Tätigkeit Kulturgut in Verkehr bringt, ist verpflichtet, zuvor zusätzlich zu den Pflichten nach § 41
 
@@ -715,8 +670,7 @@ Münzen gelten nicht als archäologisches Kulturgut im Sinne des Satzes 1 Nummer
 (+++ § 42 Abs. 2 u. 3: Zur Anwendung vgl. § 43 Satz 3 +++)  
 (+++ § 42 Abs. 3: Zur Anwendung vgl. § 44 Satz 2 +++)
 
-
-## § 43 – Erleichterte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
+# § 43 – Erleichterte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
 
 Erleichterte Sorgfaltspflichten gelten, wenn
 
@@ -728,8 +682,7 @@ Erleichterte Sorgfaltspflichten gelten, wenn
 
 Die erleichterten Sorgfaltspflichten umfassen zusätzlich zu den Pflichten nach § 41 nur diejenigen nach § 42 Absatz 1 Nummer 1 und 2. § 42 Absatz 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 44 – Erhöhte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
+# § 44 – Erhöhte Sorgfaltspflichten beim gewerblichen Inverkehrbringen
 
 Beim gewerblichen Inverkehrbringen ist der Maßstab des zumutbaren Aufwandes nach § 42 Absatz 1 Satz 3 nicht für Kulturgut anzuwenden,
 
@@ -741,8 +694,7 @@ Beim gewerblichen Inverkehrbringen ist der Maßstab des zumutbaren Aufwandes nac
 
 Auf Kulturgut nach Satz 1 ist § 42 Absatz 3 nicht anzuwenden.
 
-
-## § 45 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 45 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Wer in Ausübung einer gewerblichen Tätigkeit Kulturgut in Verkehr bringt, ist verpflichtet, über die Prüfungen und Feststellungen nach § 42 Aufzeichnungen zu führen. Die Aufzeichnungen und die Sicherung entsprechender Unterlagen können in elektronischer Form erfolgen.
 
@@ -750,8 +702,7 @@ Auf Kulturgut nach Satz 1 ist § 42 Absatz 3 nicht anzuwenden.
 
 (3) Aufzeichnungen nach anderen Rechtsvorschriften stehen den Aufzeichnungen nach Absatz 1 gleich, sofern sie den Prüfungen und Feststellungen nach § 42 entsprechen und die in diesem Gesetz geforderte Feststellung der Identität des Kulturgutes nach § 42 Absatz 1 Nummer 2 ermöglichen. Für die Aufbewahrungsfrist ist Absatz 2 Satz 1 anzuwenden.
 
-
-## § 46 – Auskunftspflicht
+# § 46 – Auskunftspflicht
 
 (1) Wer in Ausübung einer gewerblichen Tätigkeit Kulturgut in Verkehr bringt, ist verpflichtet, der zuständigen Behörde auf Verlangen
 
@@ -763,13 +714,11 @@ Die nach Satz 1 vorzulegenden Aufzeichnungen und zu erteilenden Auskünfte besch
 
 (2) § 29 der Gewerbeordnung bleibt unberührt.
 
-
-## § 47 – Rechtsfolge bei Verstößen
+# § 47 – Rechtsfolge bei Verstößen
 
 Hat die zuständige Behörde belegbare Erkenntnisse darüber, dass wiederholt gegen Aufzeichnungs-, Aufbewahrungs- und Auskunftspflichten nach den §§ 45 und 46 Absatz 1 verstoßen worden ist, so teilt sie diese Erkenntnisse der Gewerbeaufsicht zur Prüfung der Zuverlässigkeit im Sinne des § 35 der Gewerbeordnung mit.
 
-
-## § 48 – Einsichtsrechte des Käufers
+# § 48 – Einsichtsrechte des Käufers
 
 (1) Wird ein Erwerber eines Kulturgutes gerichtlich nach diesem Gesetz oder aufgrund zivilrechtlicher Vorschriften auf Herausgabe des Kulturgutes in Anspruch genommen, so hat er gegenüber demjenigen, der das Kulturgut nach den §§ 42 bis 44 in Verkehr gebracht hat, einen Anspruch auf Einsicht in die Aufzeichnungen nach § 45, wenn er das Kulturgut nach dem 6. August 2016 erworben hat.
 
@@ -779,15 +728,13 @@ Hat die zuständige Behörde belegbare Erkenntnisse darüber, dass wiederholt ge
 
 2. eines Entzuges dieses Kulturgutes aufgrund der Verfolgung durch den Nationalsozialismus.
 
-
-## § 49 – Öffentlich-rechtliche Rückgabeansprüche
+# § 49 – Öffentlich-rechtliche Rückgabeansprüche
 
 (1) Ansprüche auf Rückgabe von Kulturgut nach diesem Abschnitt sind öffentlich-rechtliche Ansprüche. Zivilrechtliche Ansprüche bleiben davon unberührt.
 
 (2) Rückgabeschuldner ist der unmittelbare Eigenbesitzer, hilfsweise der unmittelbare Fremdbesitzer.
 
-
-## § 50 – Rückgabeanspruch eines Mitgliedstaates
+# § 50 – Rückgabeanspruch eines Mitgliedstaates
 
 Auf Ersuchen eines Mitgliedstaates ist Kulturgut zurückzugeben, wenn es
 
@@ -795,13 +742,11 @@ Auf Ersuchen eines Mitgliedstaates ist Kulturgut zurückzugeben, wenn es
 
 2. vor oder nach der Verbringung von dem ersuchenden Mitgliedstaat durch nationale Rechtsvorschriften oder durch Verwaltungsverfahren als nationales Kulturgut von künstlerischem, geschichtlichem oder archäologischem Wert im Sinne des Artikels 36 des Vertrags über die Arbeitsweise der Europäischen Union eingestuft oder definiert worden ist.
 
-
-## § 51 – Rückgabeanspruch wegen Verstoßes gegen das Recht der Europäischen Union
+# § 51 – Rückgabeanspruch wegen Verstoßes gegen das Recht der Europäischen Union
 
 Ist Kulturgut entgegen einem im Amtsblatt der Europäischen Union veröffentlichten, unmittelbar geltenden Rechtsakt der Europäischen Union unrechtmäßig eingeführt worden, so ist es an den betreffenden Staat zurückzugeben.
 
-
-## § 52 – Rückgabeanspruch eines Vertragsstaates
+# § 52 – Rückgabeanspruch eines Vertragsstaates
 
 (1) Auf Ersuchen eines Vertragsstaates ist Kulturgut zurückzugeben, wenn es
 
@@ -817,8 +762,7 @@ Ist Kulturgut entgegen einem im Amtsblatt der Europäischen Union veröffentlich
 
 (3) Wird der Nachweis erbracht, dass sich das Kulturgut vor dem 6. August 2016 im Bundesgebiet oder im Binnenmarkt befunden hat, so sind abweichend von Absatz 1 für den Rückgabeanspruch des Vertragsstaates § 6 Absatz 2 und für die Entschädigung § 10 des Kulturgüterrückgabegesetzes vom 18. Mai 2007 (BGBl. I S. 757, 2547) in der bis zum 5. August 2016 geltenden Fassung anzuwenden.
 
-
-## § 53 – Rückgabeanspruch nach der Haager Konvention
+# § 53 – Rückgabeanspruch nach der Haager Konvention
 
 (1) Kulturgut nach Kapitel I Artikel 1 der Haager Konvention, das entgegen § 28 Nummer 3 aufgrund eines bewaffneten Konflikts eingeführt worden ist, ist nach Beendigung des bewaffneten Konflikts an die jeweils zuständige Behörde des Herkunftsgebiets nach Abschnitt I Nummer 3 des Protokolls zur Haager Konvention zurückzugeben, wenn
 
@@ -828,15 +772,13 @@ Ist Kulturgut entgegen einem im Amtsblatt der Europäischen Union veröffentlich
 
 (2) Kulturgut, das im Sinne von Abschnitt II Nummer 5 des Protokolls zur Haager Konvention deponiert worden ist, ist nach Beendigung des bewaffneten Konflikts zurückzugeben, ohne dass die Voraussetzungen des Absatzes 1 Nummer 1 und 2 erfüllt sein müssen.
 
-
-## § 54 – Anzuwendendes Zivilrecht
+# § 54 – Anzuwendendes Zivilrecht
 
 (1) Wer Eigentümer des Kulturgutes ist, das nach den Bestimmungen dieses Gesetzes in das Hoheitsgebiet eines anderen Mitgliedstaates oder Vertragsstaates zurückgegeben worden ist, bestimmt sich nach den Sachvorschriften dieses Mitgliedstaates oder Vertragsstaates.
 
 (2) Rechte, die aufgrund rechtsgeschäftlicher Verfügung oder durch Zwangsvollstreckung oder Arrestvollziehung erworben worden sind, stehen der Rückgabepflicht nicht entgegen.
 
-
-## § 55 – Befristung und Verjährung des Rückgabeanspruchs
+# § 55 – Befristung und Verjährung des Rückgabeanspruchs
 
 (1) Rückgabeansprüche unterliegen nicht der Verjährung, wenn sie auf die Rückgabe von Kulturgut gerichtet sind, das
 
@@ -850,25 +792,21 @@ Die Ansprüche nach Satz 1 erlöschen 75 Jahre nach ihrem Entstehen. Ein Anspruc
 
 (3) Alle anderen Ansprüche auf Rückgabe von Kulturgut nach diesem Abschnitt verjähren nach drei Jahren.
 
-
-## § 56 – Beginn der Verjährung
+# § 56 – Beginn der Verjährung
 
 Die Verjährungsfrist beginnt mit dem Zeitpunkt, in dem der ersuchende Mitgliedstaat oder Vertragsstaat von dem Ort der Belegenheit des Kulturgutes und von der Identität des Rückgabeschuldners Kenntnis erlangt.
 
-
-## § 57 – Hemmung und Neubeginn der Verjährung und Erlöschensfristen
+# § 57 – Hemmung und Neubeginn der Verjährung und Erlöschensfristen
 
 (1) Auf die Verjährung und auf die Frist nach § 55 Absatz 1 Satz 2 sind die Vorschriften über die Hemmung der Verjährung nach den §§ 204, 206 und 209 des Bürgerlichen Gesetzbuches und über den Neubeginn der Verjährung nach § 212 des Bürgerlichen Gesetzbuches entsprechend anzuwenden.
 
 (2) Die Verjährung und die Frist nach § 55 Absatz 1 Satz 2 sind wegen höherer Gewalt insbesondere auch gehemmt, solange der ersuchende Mitgliedstaat oder Vertragsstaat durch innere Unruhen, bewaffnete Konflikte oder vergleichbare Umstände gehindert ist, seine Ansprüche geltend zu machen.
 
-
-## § 58 – Grundsatz der Rückgabe
+# § 58 – Grundsatz der Rückgabe
 
 Die Rückgabe kann durch eine gütliche Einigung im behördlichen Vermittlungsverfahren erreicht werden oder mit einer Klage auf Rückgabe des ersuchenden Staates verfolgt werden.
 
-
-## § 59 – Rückgabeersuchen
+# § 59 – Rückgabeersuchen
 
 Das Rückgabeersuchen ist zu stellen für
 
@@ -876,13 +814,11 @@ Das Rückgabeersuchen ist zu stellen für
 
 2. Ansprüche nach den §§ 51 bis 53 auf diplomatischem Weg beim Auswärtigen Amt.
 
-
-## § 60 – Kollidierende Rückgabeersuchen
+# § 60 – Kollidierende Rückgabeersuchen
 
 Stellen zu demselben Kulturgut mehrere Mitgliedstaaten oder Vertragsstaaten Rückgabeersuchen und lässt sich nicht klären, welchem Mitgliedstaat oder Vertragsstaat das Kulturgut zuzuordnen ist, so ist es erst zurückzugeben, wenn die Einigung der betroffenen Mitgliedstaaten oder Vertragsstaaten schriftlich festgehalten und der für Kultur und Medien zuständigen obersten Bundesbehörde sowie dem Auswärtigen Amt mitgeteilt worden ist.
 
-
-## § 61 – Aufgaben der Länder
+# § 61 – Aufgaben der Länder
 
 (1) Die zuständige Behörde eines Landes hat insbesondere folgende Aufgaben:
 
@@ -902,8 +838,7 @@ Stellen zu demselben Kulturgut mehrere Mitgliedstaaten oder Vertragsstaaten Rüc
 
 (2) Zur Unterstützung nach Absatz 1 Nummer 3 ist die zuständige Behörde nur verpflichtet, wenn ein Mitgliedstaat innerhalb von sechs Monaten nach Unterrichtung nach § 62 Absatz 1 Nummer 1 der zuständigen Behörde mitteilt, dass es sich um ein Kulturgut im Sinne des Artikels 2 Nummer 1 der Richtlinie 2014/60/EU handelt. Lässt ein Mitgliedstaat diese Frist ohne diese Mitteilung verstreichen, so ist die zuständige Behörde nicht mehr verpflichtet, Maßnahmen nach Absatz 1 Nummer 4 und 5 zu ergreifen.
 
-
-## § 62 – Aufgaben der obersten Bundesbehörden
+# § 62 – Aufgaben der obersten Bundesbehörden
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde hat folgende Aufgaben:
 
@@ -919,8 +854,7 @@ Stellen zu demselben Kulturgut mehrere Mitgliedstaaten oder Vertragsstaaten Rüc
 
 2. Durchführung des behördlichen Vermittlungsverfahrens zwischen dem ersuchenden Vertragsstaat und dem Rückgabeschuldner.
 
-
-## § 63 – Zulässigkeit der Klage auf Rückgabe
+# § 63 – Zulässigkeit der Klage auf Rückgabe
 
 (1) Die Klage eines ersuchenden Mitgliedstaates oder Vertragsstaates auf Rückgabe ist nur dann zulässig, wenn der Klageschrift folgende Unterlagen beigefügt sind:
 
@@ -938,22 +872,19 @@ c) den tatsächlichen oder mutmaßlichen Ort der Belegenheit im Bundesgebiet,
 
 (2) Die Klage auf Rückgabe ist unzulässig, wenn das Verbringen des Kulturgutes aus dem Hoheitsgebiet des ersuchenden Mitgliedstaates oder Vertragsstaates zu dem Zeitpunkt, zu dem die Klage erhoben wird, nicht mehr unrechtmäßig ist.
 
-
-## § 64 – Kosten der behördlichen Sicherstellung
+# § 64 – Kosten der behördlichen Sicherstellung
 
 Hat die zuständige Behörde das Kulturgut, über dessen Rückgabe das Gericht zu entscheiden hat, nach § 33 sichergestellt, so ist in der gerichtlichen Entscheidung über die Rückgabe auch über die Kosten zu entscheiden, die der zuständigen Behörde durch die Sicherstellung entstanden sind.
 
 (+++ § 64: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
-
-## § 65 – Kosten der Rückgabe und Erhaltungsmaßnahmen
+# § 65 – Kosten der Rückgabe und Erhaltungsmaßnahmen
 
 (1) Die Kosten, die sich aufgrund der Rückgabe ergeben, gehen zu Lasten des ersuchenden Mitgliedstaates oder Vertragsstaates.
 
 (2) Die Kosten, die durch Durchführung oder Veranlassung von notwendigen Maßnahmen zur Erhaltung des sichergestellten Kulturgutes entstehen, gehen zu Lasten des ersuchenden Mitgliedstaates oder Vertragsstaates. § 64 ist entsprechend anzuwenden.
 
-
-## § 66 – Entschädigung bei Rückgabe
+# § 66 – Entschädigung bei Rückgabe
 
 (1) Ist der unmittelbare Eigenbesitzer beim Erwerb des Kulturgutes mit der erforderlichen Sorgfalt vorgegangen, so kann er die Rückgabe des Kulturgutes verweigern, bis der ersuchende Mitgliedstaat oder Vertragsstaat eine angemessene Entschädigung geleistet hat.
 
@@ -975,8 +906,7 @@ Hat die zuständige Behörde das Kulturgut, über dessen Rückgabe das Gericht z
 
 (4) § 52 Absatz 3 bleibt unberührt.
 
-
-## § 67 – Höhe der Entschädigung
+# § 67 – Höhe der Entschädigung
 
 (1) Die Höhe der Entschädigung bestimmt sich unter Berücksichtigung der entstandenen Aufwendungen des Rückgabeschuldners für
 
@@ -988,41 +918,35 @@ Die Entschädigung darf die Aufwendungen nicht übersteigen. Für entgangenen Ge
 
 (2) Bleibt das Kulturgut auch nach der Rückgabe Eigentum des Rückgabeschuldners, so hat der ersuchende Mitgliedstaat oder Vertragsstaat dem Rückgabeschuldner abweichend von Absatz 1 nur die Aufwendungen zu erstatten, die dem Rückgabeschuldner daraus entstanden sind, dass er darauf vertraut hat, das Kulturgut im Bundesgebiet belassen zu dürfen.
 
-
-## § 68 – Erstattungsanspruch des ersuchenden Mitglied- oder Vertragsstaates
+# § 68 – Erstattungsanspruch des ersuchenden Mitglied- oder Vertragsstaates
 
 (1) Der ersuchende Mitgliedstaat oder Vertragsstaat kann von den Personen, die Kulturgut unrechtmäßig verbracht haben oder die die unrechtmäßige Verbringung von Kulturgut veranlasst haben, Erstattung der aus dem Rückgabeverfahren entstandenen Kosten fordern. § 840 Absatz 1 des Bürgerlichen Gesetzbuches ist entsprechend anzuwenden.
 
 (2) Der Anspruch nach Absatz 1 ist vor den ordentlichen Gerichten geltend zu machen.
 
-
-## § 69 – Rückgabeanspruch gegenüber Mitgliedstaaten
+# § 69 – Rückgabeanspruch gegenüber Mitgliedstaaten
 
 (1) Den Anspruch auf Rückgabe von Kulturgut, das unrechtmäßig in das Hoheitsgebiet eines Mitgliedstaates ausgeführt worden ist, macht im jeweiligen Mitgliedstaat nach dessen Vorschriften die für Kultur und Medien zuständige oberste Bundesbehörde im Benehmen mit der zuständigen obersten Landesbehörde des Landes, in dem sich das Kulturgut vor der unrechtmäßigen Ausfuhr dauerhaft befand, geltend. Ist der Ort der letzten dauerhaften Belegenheit des Kulturgutes im Bundesgebiet nicht feststellbar, so macht die für Kultur und Medien zuständige oberste Bundesbehörde den Anspruch geltend.
 
 (2) Die für Kultur und Medien zuständige oberste Bundesbehörde setzt die zuständige zentrale Stelle des ersuchten Mitgliedstaates unverzüglich davon in Kenntnis, dass sie Klage auf Rückgabe des betreffenden Kulturgutes erhoben hat.
 
-
-## § 70 – Rückgabeanspruch gegenüber Vertragsstaaten
+# § 70 – Rückgabeanspruch gegenüber Vertragsstaaten
 
 (1) Den Anspruch auf Rückgabe von Kulturgut, das unrechtmäßig in das Hoheitsgebiet eines Vertragsstaates ausgeführt worden ist, macht das Auswärtige Amt im Einvernehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde geltend.
 
 (2) Bevor die für Kultur und Medien zuständige oberste Bundesbehörde den Rückgabeanspruch geltend macht, stellt sie das Benehmen her mit der zuständigen obersten Landesbehörde des Landes, in dem sich das Kulturgut vor der unrechtmäßigen Ausfuhr dauerhaft befand.
 
-
-## § 71 – Kosten
+# § 71 – Kosten
 
 (1) Die notwendigen Kosten und Auslagen, die durch die Geltendmachung des Rückgabeanspruchs entstanden sind, trägt derjenige, der das Kulturgut unrechtmäßig ausgeführt hat. § 840 Absatz 1 des Bürgerlichen Gesetzbuches ist entsprechend anzuwenden.
 
 (2) Die Bundesbehörde, die den Rückgabeanspruch nach den §§ 69, 70 geltend macht, setzt den zu erstattenden Betrag durch Bescheid fest.
 
-
-## § 72 – Eigentum an zurückgegebenem Kulturgut
+# § 72 – Eigentum an zurückgegebenem Kulturgut
 
 Wer Eigentümer des Kulturgutes ist, das unrechtmäßig ausgeführt worden ist und in das Bundesgebiet zurückgegeben worden ist, bestimmt sich nach den deutschen Sachvorschriften.
 
-
-## § 73 – Rechtsverbindliche Rückgabezusage
+# § 73 – Rechtsverbindliche Rückgabezusage
 
 (1) Wird Kulturgut aus dem Ausland für eine öffentliche Ausstellung oder für eine andere Form der öffentlichen Präsentation, einschließlich einer vorherigen Restaurierung für diesen Zweck, oder für Forschungszwecke an eine Kulturgut bewahrende oder wissenschaftliche Einrichtung im Bundesgebiet vorübergehend ausgeliehen, so kann die oberste Landesbehörde im Benehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde eine rechtsverbindliche Rückgabezusage für die Aufenthaltsdauer des Kulturgutes im Bundesgebiet erteilen. Die Rückgabezusage darf höchstens für zwei Jahre erteilt werden.
 
@@ -1030,22 +954,19 @@ Wer Eigentümer des Kulturgutes ist, das unrechtmäßig ausgeführt worden ist u
 
 (+++ § 73 Abs. 2: Zur Anwendung vgl. § 75 Abs. 2 +++)
 
-
-## § 74 – Erteilung der rechtsverbindlichen Rückgabezusage
+# § 74 – Erteilung der rechtsverbindlichen Rückgabezusage
 
 (1) Auf Antrag des Entleihers kann die oberste Landesbehörde im Benehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde dem Verleiher vor der Einfuhr des Kulturgutes die Rückgabezusage erteilen. Der Antrag kann schriftlich oder elektronisch übermittelt werden.
 
 (2) Die Rückgabezusage erfolgt schriftlich und unter Gebrauch der Worte „rechtsverbindliche Rückgabezusage“.
 
-
-## § 75 – Verlängerung
+# § 75 – Verlängerung
 
 (1) Die rechtsverbindliche Rückgabezusage kann von der obersten Landesbehörde im Einvernehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde auf Antrag des Entleihers verlängert werden. Die Höchstdauer von zwei Jahren soll auch durch eine Verlängerung nicht überschritten werden. In begründeten Ausnahmefällen kann die Frist für einen Aufenthalt im Bundesgebiet auf bis zu vier Jahre verlängert werden.
 
 (2) § 73 Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 76 – Wirkung
+# § 76 – Wirkung
 
 (1) Die rechtsverbindliche Rückgabezusage bewirkt, dass
 
@@ -1059,8 +980,7 @@ Die Rückgabezusage kann nicht aufgehoben, zurückgenommen oder widerrufen werde
 
 (3) Die Ausfuhr nach Ablauf des Leihvertrages unterliegt nicht der Genehmigungspflicht nach § 24.
 
-
-## § 77 – Verarbeitung von Informationen einschließlich personenbezogener Daten
+# § 77 – Verarbeitung von Informationen einschließlich personenbezogener Daten
 
 (1) Die für die Ausführung dieses Gesetzes zuständigen Behörden des Bundes und der Länder dürfen Informationen einschließlich personenbezogener Daten verarbeiten, soweit dies erforderlich ist
 
@@ -1070,8 +990,7 @@ Die Rückgabezusage kann nicht aufgehoben, zurückgenommen oder widerrufen werde
 
 (2) Die Vorschriften zum Schutz personenbezogener Daten bleiben unberührt.
 
-
-## § 78 – Übermittlung von Informationen einschließlich personenbezogener Daten an die zuständige Behörde
+# § 78 – Übermittlung von Informationen einschließlich personenbezogener Daten an die zuständige Behörde
 
 (1) Öffentliche Stellen im Sinne des § 2 des Bundesdatenschutzgesetzes dürfen Informationen einschließlich personenbezogener Daten der nach diesem Gesetz zuständigen Behörde des Bundes und der Länder übermitteln, soweit dies erforderlich ist, damit diese Behörde ihre in § 77 genannten Aufgaben erfüllen kann.
 
@@ -1081,8 +1000,7 @@ Die Rückgabezusage kann nicht aufgehoben, zurückgenommen oder widerrufen werde
 
 (4) Bei Eingang eines Rechtshilfeersuchens eines anderen Mitgliedstaates oder Vertragsstaates ist Absatz 3 entsprechend anzuwenden mit der Maßgabe, dass auch die für Kultur und Medien zuständige oberste Bundesbehörde unterrichtet wird. Diese unterrichtet in Fällen eines Rechtshilfeersuchens eines Vertragsstaates das Auswärtige Amt.
 
-
-## § 79 – Gemeinsames Verfahren von Bund und Ländern
+# § 79 – Gemeinsames Verfahren von Bund und Ländern
 
 (1) Zum umfassenden Schutz nationalen Kulturgutes führen Bund und Länder ein gemeinsames Verfahren im Sinne des § 11 des E-Government-Gesetzes. Sie sind befugt, Informationen einschließlich personenbezogener Daten in dem gemeinsamen Verfahren zu verarbeiten. § 16 Absatz 2 bleibt unberührt.
 
@@ -1094,8 +1012,7 @@ Die Rückgabezusage kann nicht aufgehoben, zurückgenommen oder widerrufen werde
 
 (5) Einzelheiten des gemeinsamen Verfahrens, insbesondere die jeweils verantwortliche Stelle für die Festlegung, Änderung, Fortentwicklung und Einhaltung von fachlichen und technischen Vorgaben nach § 11 Absatz 3 Satz 1 des E-Government-Gesetzes, werden durch für alle Länder verbindliche Beschlüsse des Verwaltungsausschusses nach § 4 Absatz 4 geregelt.
 
-
-## § 80 – Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten und Vertragsstaaten
+# § 80 – Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten und Vertragsstaaten
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde erteilt den zuständigen zentralen Stellen eines Mitgliedstaates auf begründetes Ersuchen,
 
@@ -1117,8 +1034,7 @@ Die Auskunftserteilung nach Satz 1 Nummer 1 und 2 umfasst neben nichtpersonenbez
 
 (3) Personenbezogene Daten dürfen an Stellen in Mitgliedstaaten und Vertragsstaaten nur übermittelt werden, wenn deren Kenntnis für die Rechtsverfolgung von Rückgabeansprüchen nach diesem Gesetz erforderlich ist.
 
-
-## § 81 – Mitwirkung der Zollbehörden, Anhaltung von Kulturgut
+# § 81 – Mitwirkung der Zollbehörden, Anhaltung von Kulturgut
 
 (1) Die Zollbehörden wirken im Rahmen ihrer Zuständigkeit bei der Überwachung der Ein- und Ausfuhr von Kulturgut mit, für das Verbote oder Beschränkungen nach diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung gelten. Soweit es zur Durchführung dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist, dürfen die Zollbehörden die im Rahmen ihrer zollamtlichen Überwachung gewonnenen Informationen, auch soweit sie dem Steuergeheimnis unterliegen, den zuständigen Behörden übermitteln.
 
@@ -1140,8 +1056,7 @@ Die Auskunftserteilung nach Satz 1 Nummer 1 und 2 umfasst neben nichtpersonenbez
 
 (6) Es ist verboten, nach Absatz 4 angehaltenes Kulturgut zu beschädigen, zu zerstören oder dessen Erscheinungsbild nicht nur unerheblich und nicht nur vorübergehend zu verändern.
 
-
-## § 82 – Anmeldepflicht bei Ein- und Ausfuhr im Kulturgutverkehr mit Drittstaaten
+# § 82 – Anmeldepflicht bei Ein- und Ausfuhr im Kulturgutverkehr mit Drittstaaten
 
 (1) Bei der zuständigen Zollstelle ist Kulturgut anzumelden, das
 
@@ -1153,8 +1068,7 @@ Die Auskunftserteilung nach Satz 1 Nummer 1 und 2 umfasst neben nichtpersonenbez
 
 (3) Auf Verlangen der zuständigen Zollstelle ist das anmeldepflichtige Kulturgut vorzuführen.
 
-
-## § 83 – Strafvorschriften
+# § 83 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -1184,8 +1098,7 @@ Die Auskunftserteilung nach Satz 1 Nummer 1 und 2 umfasst neben nichtpersonenbez
 
 (7) Das Gericht kann in den Fällen des Absatzes 1 Nummer 1 die Strafe nach § 49 Absatz 1 des Strafgesetzbuches mildern oder von Strafe absehen, wenn der Täter das Kulturgut unverzüglich in das Bundesgebiet zurückbringt.
 
-
-## § 84 – Bußgeldvorschriften
+# § 84 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1205,8 +1118,7 @@ Die Auskunftserteilung nach Satz 1 Nummer 1 und 2 umfasst neben nichtpersonenbez
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 bis 4 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
-
-## § 85 – Einziehung
+# § 85 – Einziehung
 
 Ist eine Straftat nach § 83 oder eine Ordnungswidrigkeit nach § 84 Absatz 1 oder 2 begangen worden, so können folgende Gegenstände eingezogen werden:
 
@@ -1216,8 +1128,7 @@ Ist eine Straftat nach § 83 oder eine Ordnungswidrigkeit nach § 84 Absatz 1 od
 
 § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 86 – Besondere Voraussetzung der Verwertung von Kulturgut
+# § 86 – Besondere Voraussetzung der Verwertung von Kulturgut
 
 (1) Kulturgut, das der Einziehung unterliegt, darf nur mit Zustimmung der zuständigen Behörde verwertet werden.
 
@@ -1235,25 +1146,21 @@ Ist eine Straftat nach § 83 oder eine Ordnungswidrigkeit nach § 84 Absatz 1 od
 
 (5) Eine Verwertung von Kulturgut, das die zuständige Behörde nach diesem Gesetz eingezogen hat, ist erst möglich, wenn die Voraussetzungen nach Absatz 2 abschließend geprüft sind.
 
-
-## § 87 – Aufgaben und Befugnisse der Zollbehörden
+# § 87 – Aufgaben und Befugnisse der Zollbehörden
 
 (1) Die Staatsanwaltschaft kann bei Straftaten und Ordnungswidrigkeiten nach den §§ 83 und 84 Ermittlungen nach § 161 Absatz 1 Satz 1 der Strafprozessordnung in den Fällen des § 83 Absatz 1 Nummer 1, 2 oder 3 in Verbindung mit den Absätzen 4 und 6 sowie im Fall des § 83 Absatz 2 in Verbindung mit Absatz 4 auch durch die Hauptzollämter oder die Zollfahndungsämter vornehmen lassen. Die nach § 36 Absatz 1 Nummer 2 oder Absatz 2 des Gesetzes gegen Ordnungswidrigkeiten zuständige Verwaltungsbehörde kann in den Fällen des Satzes 1 Ermittlungen auch durch die Hauptzollämter oder die Zollfahndungsämter vornehmen lassen.
 
 (2) § 21 Absatz 3 des Außenwirtschaftsgesetzes vom 6. Juni 2013 (BGBl. I S. 1482), das durch Artikel 297 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, ist entsprechend anzuwenden.
 
-
-## § 88 – Straf- und Bußgeldverfahren
+# § 88 – Straf- und Bußgeldverfahren
 
 Soweit für Straftaten nach § 83 das Amtsgericht sachlich zuständig ist, liegt die örtliche Zuständigkeit bei dem Amtsgericht, in dessen Bezirk das örtlich zuständige Landgericht seinen Sitz hat. Die Landesregierung kann durch Rechtsverordnung die örtliche Zuständigkeit des Amtsgerichts abweichend regeln, soweit dies mit Rücksicht auf die Wirtschafts- oder Verkehrsverhältnisse, den Aufbau der Verwaltung oder andere örtliche Bedürfnisse zweckmäßig erscheint. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen.
 
-
-## § 89 – Evaluierung
+# § 89 – Evaluierung
 
 Das für Kultur und Medien zuständige Mitglied der Bundesregierung unterrichtet den Deutschen Bundestag und den Bundesrat über die Anwendung des Gesetzes fünf Jahre und vorab zum Umfang des Verwaltungsaufwandes zwei Jahre nach Inkrafttreten des Gesetzes.
 
-
-## § 90 – Fortgeltung und Befristung bisherigen Abwanderungsschutzes
+# § 90 – Fortgeltung und Befristung bisherigen Abwanderungsschutzes
 
 (1) Bestandteil des Verzeichnisses national wertvollen Kulturgutes ist Kulturgut, das aufgrund des Gesetzes zum Schutz deutschen Kulturgutes gegen Abwanderung in der Fassung der Bekanntmachung vom 8. Juli 1999 (BGBl. I S. 1754), das zuletzt durch Artikel 2 des Gesetzes vom 18. Mai 2007 (BGBl. I S. 757) geändert worden ist, eingetragen worden ist in
 
@@ -1269,7 +1176,6 @@ Das für Kultur und Medien zuständige Mitglied der Bundesregierung unterrichtet
 
 (3) Für Verfahren, die bis 6. August 2016 eingeleitet und bekannt gemacht worden sind, gelten die Vorschriften des Gesetzes zum Schutz deutschen Kulturgutes gegen Abwanderung in der Fassung der Bekanntmachung vom 8. Juli 1999 (BGBl. I S. 1754), das zuletzt durch Artikel 2 des Gesetzes vom 18. Mai 2007 (BGBl. I S. 757, 2547) geändert worden ist, bis zum Abschluss des Verfahrens fort.
 
-
-## § 91 – Ausschluss abweichenden Landesrechts
+# § 91 – Ausschluss abweichenden Landesrechts
 
 Von den in den §§ 7 bis 17, 22 bis 27 und 73 bis 76 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.

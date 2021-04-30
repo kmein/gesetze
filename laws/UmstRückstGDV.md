@@ -1,15 +1,11 @@
-# [UmstRückstGDV] Verordnung zur Durchführung des Gesetzes über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken
-
-Ausfertigungsdatum: 21.02.1962
-
+% Verordnung zur Durchführung des Gesetzes über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken
+% Ausfertigungsdatum: 21.02.1962
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 des Gesetzes über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken vom 21. Dezember 1960 (Bundesgesetzbl. I S. 1053) und des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens und über die Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S. 127) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Versorgungsverpflichtungen
+# § 1 – Versorgungsverpflichtungen
 
 Versorgungsverpflichtungen im Sinne des § 1 des Gesetzes vom 21. Dezember 1960 sind Verpflichtungen
 
@@ -21,8 +17,7 @@ Versorgungsverpflichtungen im Sinne des § 1 des Gesetzes vom 21. Dezember 1960 
 
 4. zur Erstattung von Leistungen nach § 72 Abs. 11 des Gesetzes zu Artikel 131 des Grundgesetzes.
 
-
-## § 2 – Berechnung der Rückstellung
+# § 2 – Berechnung der Rückstellung
 
 (1) Der Berechnung der Rückstellung sind zugrunde zu legen
 
@@ -40,8 +35,7 @@ Versorgungsverpflichtungen im Sinne des § 1 des Gesetzes vom 21. Dezember 1960 
 
 (4) Soweit Verpflichtungen im Sinne des § 1 dieser Verordnung sich aus dem in Berlin (West) ergangenen Gesetz zur Regelung der Rechtsverhältnisse von Personen, die am 8. Mai 1945 im öffentlichen Dienst standen oder versorgungsberechtigt waren, ergeben, tritt an die Stelle des 1. April 1951 der 1. Oktober 1951.
 
-
-## § 3 – Berechnung und Prüfung der Gesamtrückstellung
+# § 3 – Berechnung und Prüfung der Gesamtrückstellung
 
 (1) Haben Aufnahmeeinrichtungen die Mittel für die Erfüllung der Versorgungsverpflichtungen gemeinschaftlich aufzubringen, so berechnet der von ihnen bestellte Treuhänder eine Gesamtrückstellung für alle Aufnahmeeinrichtungen nach Maßgabe von § 2 sowie die auf die einzelnen Institute nach § 4 Abs. 1 entfallenden Anteile.
 
@@ -49,20 +43,17 @@ Versorgungsverpflichtungen im Sinne des § 1 des Gesetzes vom 21. Dezember 1960 
 
 (3) Absatz 1 gilt entsprechend, sofern ein Dritter die Geschäfte eines Treuhänders wahrnimmt.
 
-
-## § 4 – Einstellung in die Umstellungsrechnung oder Altbankenrechnung
+# § 4 – Einstellung in die Umstellungsrechnung oder Altbankenrechnung
 
 (1) In die Umstellungsrechnung oder Altbankenrechnung eines jeden beteiligten Instituts kann der Teil der Gesamtrückstellung eingestellt werden, der auf dieses Institut entfiele, wenn das erstmals angewendete oder anzuwendende Aufbringungsverhältnis nur auf die beteiligten Institute bezogen würde, die am Währungsstichtag bestanden haben und eine Umstellungsrechnung oder eine Altbankenrechnung aufstellen müssen. Bei den unter Abschnitt II Nr. 3 und 4 der Anlage zu § 1 der Achtundzwanzigsten Durchführungsverordnung zum Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen vom 7. August 1960 (Bundesgesetzbl. I S. 684) aufgeführten Aufnahmeeinrichtungen kann dabei das am 4. Mai 1961, bei Versicherungsunternehmen das am 1. Januar 1958 angewandte Aufbringungsverhältnis zugrunde gelegt werden.
 
 (2) Bei Instituten, die mehrere Umstellungsrechnungen oder eine Umstellungsrechnung und eine Altbankenrechnung aufstellen, ist die Rückstellung in die Umstellungsrechnung einzustellen, die auf Grund der Zweiten, der Dreiundzwanzigsten oder der Dreiunddreißigsten Durchführungsverordnung zum Umstellungsgesetz aufgestellt wird.
 
-
-## § 5
+# § 5
 
 \-
 
-
-## § 6 – Berlin-Klausel
+# § 6 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 3 des Gesetzes über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken und mit § 9 des Gesetzes über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens und über die Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften im Land Berlin. Dabei treten in § 2 Abs. 1 Nr. 1 und 2 an Stelle der Worte "§ 1 Abs. 2 der Achtunddreißigsten Durchführungsverordnung zum Umstellungsgesetz"
 
@@ -72,12 +63,10 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 3. für Bausparkassen die Worte "Artikel 8 Abs. 1 A c der Durchführungsbestimmung Nr. 7 zur Umstellungsergänzungsverordnung vom 26. Oktober 1950 (Verordnungsblatt für Groß-Berlin I S. 494)".
 
-
-## § 7
+# § 7
 
 Diese Verordnung gilt nicht im Saarland.
 
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

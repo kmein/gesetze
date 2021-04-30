@@ -1,10 +1,7 @@
-# [BWKAusl] Bundesgesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland  (BWKAusl)
-
-Ausfertigungsdatum: 25.06.1958
-
+% Bundesgesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland  (BWKAusl)
+% Ausfertigungsdatum: 25.06.1958
  
-
-## § 1
+# § 1
 
 (1) Wiedergutmachung nach diesem Gesetz erhalten Personen, die im Sinne des Bundesgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (Bundesentschädigungsgesetz - BEG) verfolgt und dadurch in ihrer auf Schädigungen im Sinne der §§ 1 und 82 des Bundesversorgungsgesetzes beruhenden Versorgung geschädigt worden sind (Geschädigte) und ihren Wohnsitz oder dauernden Aufenthalt im Ausland haben. Wiedergutmachung erhalten bei Erfüllung der sonstigen Voraussetzungen auch die im Ausland lebenden Hinterbliebenen Geschädigter, die nicht selbst Geschädigte im Sinne des Satzes 1 sind.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 25.06.1958
 
 (3) Dem Anspruch auf Wiedergutmachung steht nicht entgegen, daß Geschädigte oder ihre Hinterbliebenen nicht Deutsche nach Artikel 116 des Grundgesetzes sind.
 
-
-## § 2
+# § 2
 
 Anspruch auf Wiedergutmachung besteht, wenn
 
@@ -21,20 +17,17 @@ Anspruch auf Wiedergutmachung besteht, wenn
 
 2. der Berechtigte im Zeitpunkt der Entscheidung über die Wiedergutmachung seinen Wohnsitz oder dauernden Aufenthalt in Staaten hat, mit deren Regierungen die Bundesrepublik Deutschland diplomatische Beziehungen unterhält; die Bundesregierung kann bestimmen, welche Staaten, mit deren Regierungen die Bundesrepublik Deutschland keine diplomatischen Beziehungen unterhält, so behandelt werden, als ob mit ihnen diplomatische Beziehungen unterhalten würden.
 
-
-## § 3
+# § 3
 
 Von der Wiedergutmachung ist ausgeschlossen, wer Mitglied der NSDAP oder einer ihrer Gliederungen gewesen ist oder der nationalsozialistischen Gewaltherrschaft Vorschub geleistet hat; die nominelle Mitgliedschaft in der NSDAP oder in einer ihrer Gliederungen schließt den Anspruch auf Entschädigung nicht aus, wenn der Berechtigte unter Einsatz von Freiheit, Leib oder Leben den Nationalsozialismus aus Gründen, die den Verfolgungsgründen des § 1 des Bundesentschädigungsgesetzes entsprechen, bekämpft hat und deswegen verfolgt worden ist.
 
-
-## § 4
+# § 4
 
 (1) Berechtigte nach diesem Gesetz erhalten Versorgung nach den Vorschriften des Bundesversorgungsgesetzes für Deutsche mit Wohnsitz in Staaten, mit denen die Bundesrepublik Deutschland diplomatische Beziehungen unterhält, soweit sich nicht aus den folgenden Vorschriften etwas anderes ergibt.
 
 (2) Sofern sich in einzelnen Fällen aus den Vorschriften dieses Gesetzes besondere Härten ergeben, ist § 89 des Bundesversorgungsgesetzes entsprechend anzuwenden.
 
-
-## § 5
+# § 5
 
 (1) Ausgleichsrenten und Elternrenten (§§ 32, 33, 41, 47 und 49 bis 51 des Bundesversorgungsgesetzes) werden in voller Höhe gewährt, es sei denn, daß offenbar der Lebensunterhalt auf andere Weise sichergestellt ist oder Bedürftigkeit nicht vorliegt.
 
@@ -42,13 +35,11 @@ Von der Wiedergutmachung ist ausgeschlossen, wer Mitglied der NSDAP oder einer i
 
 (3)
 
-
-## § 6
+# § 6
 
 \-
 
-
-## § 7
+# § 7
 
 (1) Berechtigte nach diesem Gesetz haben auch Anspruch auf Entschädigung für die Zeit vor dem 1. April 1950.
 
@@ -60,15 +51,13 @@ Von der Wiedergutmachung ist ausgeschlossen, wer Mitglied der NSDAP oder einer i
 
 (5) Entschädigungsleistungen für die Zeit vor der Währungsumstellung werden in Reichsmark berechnet und im Verhältnis 10:2 in Deutsche Mark umgerechnet; bare Auslagen im Sinne des Absatzes 4 werden im Verhältnis 1:1 in Deutsche Mark umgestellt.
 
-
-## § 8
+# § 8
 
 (1) Auf die nach diesem Gesetz zu gewährenden Leistungen werden die wegen der Folgen einer Schädigung im Sinne des Bundesversorgungsgesetzes nach anderen versorgungsrechtlichen Vorschriften für die gleiche Zeit gewährten Leistungen angerechnet. Soweit diese in Reichsmark bewirkt worden sind, gilt für das Umrechnungsverhältnis § 7 Abs. 5 entsprechend.
 
 (2) Die Grundsätze des bürgerlichen Rechts über die Anrechnung eines im Zusammenhang mit dem Schaden erlangten Vorteils gelten sinngemäß.
 
-
-## § 9
+# § 9
 
 (1) Wiedergutmachung wird nur auf Antrag gewährt. Der Antrag ist zur Vermeidung des Ausschlusses bis zum 30. Juni 1959 bei der für den Wohnort zuständigen Vertretung der Bundesrepublik Deutschland, mangels einer solchen Vertretung beim Auswärtigen Amt oder dem zuständigen Versorgungsamt (§ 11 Abs. 1) zu stellen. Rechtswirksam ist auch der bei einer anderen deutschen amtlichen Stelle gestellte Antrag. Hinterbliebene eines Geschädigten haben den Anspruch auf Wiedergutmachung zur Vermeidung des Ausschlusses binnen einem Jahr seit dem auf den Todestag des Geschädigten folgenden Tage zu stellen; die Frist endet frühestens am 30. Juni 1959.
 
@@ -76,13 +65,11 @@ Von der Wiedergutmachung ist ausgeschlossen, wer Mitglied der NSDAP oder einer i
 
 (3) Eines Antrags bedarf es nicht, wenn der Berechtigte seinen versorgungsrechtlichen Wiedergutmachungsanspruch bereits auf Grund der bis zum Inkrafttreten dieses Gesetzes geltenden Rechtsvorschriften oder Verwaltungsanordnungen angemeldet hat.
 
-
-## § 10
+# § 10
 
 \-
 
-
-## § 11
+# § 11
 
 (1) Die Zuständigkeit und das Verwaltungsverfahren bestimmen sich nach dem Ersten und Zehnten Buch Sozialgesetzbuch und nach dem Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung und der Verordnung über die Zuständigkeit der Verwaltungsbehörden der Kriegsopferversorgung für Versorgungsberechtigte im Ausland (Auslandszuständigkeits-VO).
 
@@ -90,33 +77,28 @@ Von der Wiedergutmachung ist ausgeschlossen, wer Mitglied der NSDAP oder einer i
 
 § 11 Abs. 1 Kursivdruck: Vgl. früher V v. 9.6.1964 833-3, V aufgeh. durch § 7 Satz 2 V v. 28.5.1991 I 1204 mWv 1.5.1991, vgl. jetzt AuslZustV 833-5
 
-
-## § 12
+# § 12
 
 \-
 
-
-## § 13
+# § 13
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Oktober 1950 in Kraft.
 
 (2) Mit dem gleichen Zeitpunkt werden die im Geltungsbereich dieses Gesetzes geltenden Rechtsvorschriften und Verwaltungsanordnungen über die Wiedergutmachung nationalsozialistischen Unrechts, soweit sie die Kriegsopferversorgung nach diesem Gesetz betreffen, außer Kraft gesetzt.
 
-
-## § 14
+# § 14
 
 (1) Berechtigte nach diesem Gesetz, die nach dem 31. März 1950 aus dem Ausland zurückgekehrt sind und ihren Wohnsitz oder ständigen Aufenthalt im Bundesgebiet genommen haben, erhalten, wenn der Antrag auf Wiedergutmachung binnen sechs Monaten nach Verkündung dieses Gesetzes gestellt wird, die Versorgung nach den Vorschriften des Bundesversorgungsgesetzes von dem Monat an, in dem die Voraussetzungen für ihre Gewährung erfüllt sind, frühestens vom 1. April 1950 an.
 
 (2) Absatz 1 findet auf Berechtigte im Sinne des § 1, die nach dem 30. Juni 1950 aus dem Ausland zurückgekehrt sind und ihren Wohnsitz oder ständigen Aufenthalt im Land Berlin genommen haben, mit der Maßgabe Anwendung, daß die Versorgung frühestens am 1. Juli 1950 beginnt.
 
-
-## § 15
+# § 15
 
 (1) Die Versorgung eines Berechtigten, der aus dem Ausland in den Geltungsbereich dieses Gesetzes zurückgekehrt und nach dem 22. Mai 1949 erneut ausgewandert ist, richtet sich nach den Vorschriften, die für deutsche Staatsangehörige im Ausland gelten, und zwar auch dann, wenn er die deutsche Staatsangehörigkeit nicht oder außer ihr eine fremde Staatsangehörigkeit besitzt.
 
 (2) § 7 findet auf Berechtigte, die nach dem 22. Mai 1949 auswandern und noch nicht im Sinne dieser Vorschrift entschädigt worden sind, mit der Maßgabe entsprechende Anwendung, daß eine Entschädigung bis zu dem Zeitpunkt gewährt wird, von dem an die Voraussetzungen für eine Versorgung nach landesrechtlichen Vorschriften oder nach dem Bundesversorgungsgesetz gegeben waren.
 
-
-## § 16
+# § 16
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.

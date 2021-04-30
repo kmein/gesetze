@@ -1,10 +1,7 @@
-# [UVPPortV] Verordnung über zentrale Internetportale des Bundes und der Länder im Rahmen der Umweltverträglichkeitsprüfung  (UVP-Portale-Verordnung - UVPPortV)
-
-Ausfertigungsdatum: 11.11.2020
-
+% Verordnung über zentrale Internetportale des Bundes und der Länder im Rahmen der Umweltverträglichkeitsprüfung  (UVP-Portale-Verordnung - UVPPortV)
+% Ausfertigungsdatum: 11.11.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 11.11.2020
 
 (2) Verpflichtungen nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Daten im Sinne dieser Verordnung sind
 
@@ -47,20 +43,17 @@ b) der ausländischen Behörde, der nach § 59 Absatz 5 in Verbindung mit § 27 
 
 2. für die Länder die Behörde, die dafür zuständig ist, das zentrale Internetportal des Landes aufzubauen und zu betreiben.
 
-
-## § 3 – (zukünftig in Kraft)
+# § 3 – (zukünftig in Kraft)
 
 (+++ § 3: Tritt gem. Art. 4 Abs. 2 V v. 11.11.2020 I 2428 am 1.11.2021 in Kraft +++)
 
-
-## § 4 – Art und Weise der Zugänglichmachung der Daten
+# § 4 – Art und Weise der Zugänglichmachung der Daten
 
 (1) Die im Sinne des § 20 Absatz 2 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung zuständige Behörde stellt sicher, dass die Daten über das zentrale Internetportal in einer solchen Art und Weise zugänglich gemacht werden und zugänglich bleiben, dass sie von den Nutzern des zentralen Internetportals gespeichert und ausgedruckt werden können. § 23 des Gesetzes über die Umweltverträglichkeitsprüfung bleibt unberührt.
 
 (2) Die portalbetreibende Behörde stellt durch einen entsprechenden Aufbau und Betrieb des zentralen Internetportals nach Maßgabe des § 3 Absatz 1 sicher, dass die im Sinne des § 20 Absatz 2 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung zuständige Behörde ihre Verpflichtung nach Absatz 1 erfüllen kann.
 
-
-## § 5 – Dauer der Zugänglichkeit der Daten
+# § 5 – Dauer der Zugänglichkeit der Daten
 
 (1) Die Daten gemäß § 2 Absatz 1 Nummer 1 Buchstabe a und c sowie Nummer 2 bis 4 sind von der im Sinne des § 20 Absatz 2 Satz 1 des Gesetzes über die Umweltverträglichkeitsprüfung zuständigen Behörde bis zum Ablauf der Auslegungsfrist gemäß § 18 Absatz 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung in Verbindung mit § 73 Absatz 3 Satz 1 des Verwaltungsverfahrensgesetzes auf dem zentralen Internetportal zugänglich zu halten.
 
@@ -68,8 +61,7 @@ b) der ausländischen Behörde, der nach § 59 Absatz 5 in Verbindung mit § 27 
 
 (3) Wird der Antrag auf Zulassungsentscheidung vor Ablauf der in Absatz 1 genannten Frist vom Vorhabenträger zurückgenommen oder erledigt er sich auf andere Weise, so sind die Unterlagen nur bis zum Ablauf des Tages der Rücknahme des Antrags oder der anderweitigen Erledigung zugänglich zu halten.
 
-
-## § 6 – Speicherung der Daten
+# § 6 – Speicherung der Daten
 
 Die portalbetreibende Behörde kann die Daten so lange speichern,
 

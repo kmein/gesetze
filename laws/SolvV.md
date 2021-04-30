@@ -1,18 +1,13 @@
-# [SolvV] Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen   (Solvabilitätsverordnung - SolvV)
-
-Ausfertigungsdatum: 06.12.2013
-
+% Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen   (Solvabilitätsverordnung - SolvV)
+% Ausfertigungsdatum: 06.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der durch Artikel 1 Nummer 21 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395) neu gefasst worden ist, sowie auf Grund des § 10a Absatz 7 Satz 1 und 3 des Kreditwesengesetzes, der durch Artikel 1 Nummer 22 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395) neu gefasst worden ist, jeweils im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute verordnet das Bundesministerium der Finanzen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die §§ 3 bis 23 dieser Verordnung sind ergänzend zu den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) von denjenigen Instituten und Gruppen anzuwenden, die sich nach der Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz an die Vorgaben dieser Artikel halten müssen.
 
@@ -24,8 +19,7 @@ Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der durch Art
 
 (+++ § 1 Abs. 2 Satz 2: Zur Anwendung vgl. § 39 Satz 3 +++)
 
-
-## § 2 – Anträge und Anzeigen
+# § 2 – Anträge und Anzeigen
 
 (1) Anträge, über die nach der Verordnung (EU) Nr. 575/2013 die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) als zuständige Behörde zu entscheiden hat, sind vorbehaltlich abweichender Bestimmungen in schriftlicher Form bei der Bundesanstalt zu stellen.
 
@@ -33,8 +27,7 @@ Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der durch Art
 
 (3) Meldungen, die aufgrund regelmäßiger Berichtspflichten nach der Verordnung (EU) Nr. 575/2013 gegenüber der Bundesanstalt als zuständige Behörde erfolgen müssen, sind über die Deutsche Bundesbank einzureichen.
 
-
-## § 3 – Prüfungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
+# § 3 – Prüfungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
 
 (1) Hat die Bundesanstalt einem Institut die Erlaubnis zur Verwendung eines Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen erteilt, dessen Verwendung nach den Artikeln 92 bis 386 der Verordnung (EU) Nr. 575/2013 einer Erlaubnis der zuständigen Behörde bedarf (erlaubnispflichtiger Ansatz zur Ermittlung der Mindesteigenmittelanforderungen), muss sie regelmäßig überprüfen, ob die Anforderungen für diesen Ansatz nach dieser Verordnung und nach der Verordnung (EU) Nr. 575/2013 erfüllt sind. Die Überprüfung findet mindestens alle drei Jahre statt. Daneben prüft die Bundesanstalt im Rahmen von Nachschauprüfungen, ob festgestellte Mängel abgestellt und Auflagen erfüllt sind.
 
@@ -46,8 +39,7 @@ Auf Grund des § 10 Absatz 1 Satz 1 und 3 des Kreditwesengesetzes, der durch Art
 
 (+++ § 3: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 4 – Maßnahmen bei Mängeln bei der Risikoerfassung oder der Nichteinhaltung der Anforderungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
+# § 4 – Maßnahmen bei Mängeln bei der Risikoerfassung oder der Nichteinhaltung der Anforderungen bei Verwendung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen
 
 (1) Sofern die Bundesanstalt feststellt, dass die Ausgestaltung eines erlaubnispflichtigen Ansatzes zur Ermittlung der Mindesteigenmittelanforderungen durch das Institut erhebliche Mängel bei der Erfassung des Risikos aufweist, sorgt die Bundesanstalt dafür, dass diese Mängel beseitigt werden, oder sie ergreift angemessene Maßnahmen, die geeignet sind, um die aus den Mängeln resultierenden Folgen abzuschwächen. Geeignete Maßnahmen sind insbesondere die Festsetzung höherer Multiplikationsfaktoren oder zusätzlicher Eigenmittelanforderungen.
 
@@ -73,8 +65,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 4: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 5 – Berechnungen und Meldungen für das aufsichtliche Benchmarking bei der Anwendung interner Ansätze
+# § 5 – Berechnungen und Meldungen für das aufsichtliche Benchmarking bei der Anwendung interner Ansätze
 
 (1) Ein Institut, das seine Eigenmittelanforderungen anhand interner Ansätze ermittelt, hat die Eigenmittelanforderungen einmal jährlich für diejenigen seiner Risikopositionen oder Positionen zu berechnen und zu melden, die in den diese internen Ansätze betreffenden Referenzportfolios der Bundesanstalt oder der Europäischen Bankenaufsichtsbehörde enthalten sind. Diese Berechnungs- und Meldepflicht gilt nicht, soweit die Eigenmittelanforderungen mit dem fortgeschrittenen Messansatz nach Artikel 312 Absatz 2 Satz 1 der Verordnung (EU) Nr. 575/2013 berechnet werden.
 
@@ -84,8 +75,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 5: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 6 – Aufsichtliches Benchmarking interner Ansätze
+# § 6 – Aufsichtliches Benchmarking interner Ansätze
 
 (1) Die Bundesanstalt erstellt eigene Referenzportfolios ausschließlich in Abstimmung mit der Europäischen Bankenaufsichtsbehörde.
 
@@ -109,8 +99,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 6: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 7 – IRB-Ansatz-Eignungsprüfungen für interne Ratingsysteme und Beteiligungsrisikomodelle
+# § 7 – IRB-Ansatz-Eignungsprüfungen für interne Ratingsysteme und Beteiligungsrisikomodelle
 
 (1) Die Bundesanstalt entscheidet über die Erlaubnis zur Verwendung des IRB-Ansatzes nach Artikel 143 Absatz 2 sowie über die nach Artikel 143 Absatz 3 der Verordnung (EU) Nr. 575/2013 erlaubnispflichtigen Veränderungen (IRB-Ansatz-Eignungsprüfung) auf der Grundlage einer Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes. Die Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Regel die Deutsche Bundesbank durch. IRB-Ansatz-Eignungsprüfungen führt die Bundesanstalt erst dann durch, wenn das Institut
 
@@ -128,8 +117,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 7: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 8 – Zeitraum für die Umsetzung des IRB-Ansatzes
+# § 8 – Zeitraum für die Umsetzung des IRB-Ansatzes
 
 (1) Der nach Artikel 148 Absatz 2 der Verordnung (EU) Nr. 575/2013 von der Bundesanstalt festzulegende maximal zulässige Zeitraum, in dem der IRB-Ansatz umzusetzen ist, beträgt stets fünf Jahre. Er beginnt, sobald die Bundesanstalt die Verwendung des IRB-Ansatzes durch das Institut erlaubt hat (IRB-Ansatz-Zulassung).
 
@@ -139,8 +127,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 8: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 9 – Anforderungen an die Umsetzung des IRB-Ansatzes
+# § 9 – Anforderungen an die Umsetzung des IRB-Ansatzes
 
 (1) Bei der Umsetzung des IRB-Ansatzes muss ein Institut die Anforderungen der Absätze 2 bis 4 erfüllen; diese Anforderungen bilden die nach Artikel 148 Absatz 3 Satz 1 der Verordnung (EU) Nr. 575/2013 zu konkretisierenden Anforderungen.
 
@@ -158,8 +145,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 9: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 10 – IRB-Ansatz-Schwellen; aufsichtlicher Referenzpunkt
+# § 10 – IRB-Ansatz-Schwellen; aufsichtlicher Referenzpunkt
 
 (1) Die IRB-Ansatz-Eintrittsschwelle ist erreicht, wenn für die Kreditrisikopositionen des Instituts sowohl der Abdeckungsgrad für IRB-Ansatz-Positionswerte als auch der Abdeckungsgrad für risikogewichtete IRB-Ansatz-Positionsbeträge mit geeigneten Ratingsystemen und Beteiligungsrisikomodellen jeweils mindestens 50 Prozent beträgt.
 
@@ -169,8 +155,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 10: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 11 – Berechnung des Abdeckungsgrads
+# § 11 – Berechnung des Abdeckungsgrads
 
 (1) Der Abdeckungsgrad für IRB-Ansatz-Positionswerte ist der Quotient aus
 
@@ -200,8 +185,7 @@ Insbesondere für risikogewichtete Positionsbeträge nach dem auf internen Beurt
 
 (+++ § 11: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 12 – Im Zähler für den Abdeckungsgrad zu berücksichtigende IRB-Ansatz-Positionen
+# § 12 – Im Zähler für den Abdeckungsgrad zu berücksichtigende IRB-Ansatz-Positionen
 
 (1) Wenn das Institut für relevante Arten von Risikopositionen die Verwendung eigener Schätzungen der LGD oder des Konversionsfaktors anstrebt, bestimmen sich die im Zähler zu berücksichtigenden IRB-Ansatz-Positionen nach Absatz 2 Nummer 2, anderenfalls nach Absatz 2 Nummer 1. Nach Satz 1 relevante Arten von Risikopositionen sind sämtliche IRB-Ansatz-Positionen, die der IRB-Ansatz-Forderungsklasse Zentralregierungen, Institute oder Unternehmen nach Artikel 147 Absatz 2 Buchstabe b, c und d der Verordnung (EU) Nr. 575/2013 zugeordnet sind, mit Ausnahme von
 
@@ -225,8 +209,7 @@ b) sofern sie nicht zu den nach Absatz 1 Satz 2 relevanten Arten von Risikoposit
 
 (+++ § 12: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 13 – Im Nenner für den Abdeckungsgrad zu berücksichtigende Positionen; Grundgesamtheit für den Abdeckungsgrad
+# § 13 – Im Nenner für den Abdeckungsgrad zu berücksichtigende Positionen; Grundgesamtheit für den Abdeckungsgrad
 
 (1) Im Nenner für einen Abdeckungsgrad sind sämtliche IRB-Ansatz-Positionen und KSA-Positionen zu berücksichtigen, die zur Grundgesamtheit für den Abdeckungsgrad gehören.
 
@@ -282,8 +265,7 @@ b) für diese Risikopositionen IRB-Ansatz-Risikogewichte und risikogewichtete IR
 
 (+++ § 13: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 14 – Auslaufender Geschäftsbereich; Neugeschäft; zu berücksichtigendes Bestandsgeschäft
+# § 14 – Auslaufender Geschäftsbereich; Neugeschäft; zu berücksichtigendes Bestandsgeschäft
 
 (1) Ein auslaufender Geschäftsbereich ist ein Geschäftsbereich nach Artikel 142 Absatz 1 Nummer 3 der Verordnung (EU) Nr. 575/2013, in dem das Institut weder neue Kreditrisikopositionen durch den Abschluss neuer Geschäfte eingeht noch einzugehen beabsichtigt. Für einen Geschäftsbereich, der kein auslaufender Geschäftsbereich ist und auf dessen Risikopositionen sich der Anwendungsbereich nach Artikel 143 Absatz 3 Satz 2 der Verordnung (EU) Nr. 575/2013 eines laut Umsetzungsplan des Instituts für den IRB-Ansatz zu verwendenden Ratingsystems erstreckt, besteht
 
@@ -299,15 +281,13 @@ b) für diese Risikopositionen IRB-Ansatz-Risikogewichte und risikogewichtete IR
 
 (+++ § 14: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 15 – Dauerhafte Ausnahme von der Anwendung des IRB-Ansatzes für steuererhebende Kirchen und Religionsgesellschaften
+# § 15 – Dauerhafte Ausnahme von der Anwendung des IRB-Ansatzes für steuererhebende Kirchen und Religionsgesellschaften
 
 Wenn es sich bei den Schuldnern um inländische Kirchen oder Religionsgesellschaften handelt, die in der Rechtsform einer Körperschaft des öffentlichen Rechts verfasst sind und die aufgrund des Artikels 140 des Grundgesetzes in Verbindung mit Artikel 137 Absatz 6 der Weimarer Reichsverfassung vom 11. August 1919 (RGBl. S. 1383) Steuern erheben oder am Steueraufkommen der steuererhebenden kirchlichen Körperschaften teilhaben, dann gelten für die dauerhafte Anwendung des KSA nach Artikel 150 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 575/2013 die Voraussetzungen einer geringen Anzahl wesentlicher Schuldner und eines unverhältnismäßig großen Aufwands für die Einführung eines Ratingsystems ohne weiteren Nachweis als erfüllt.
 
 (+++ § 15: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 16 – Erheblichkeitsschwelle für den 90-Tage-Verzug
+# § 16 – Erheblichkeitsschwelle für den 90-Tage-Verzug
 
 (1) Für die Zwecke der Bestimmung der Wesentlichkeit einer überfälligen Verbindlichkeit nach Artikel 178 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 575/2013 wird die einheitliche Erheblichkeitsschwelle für Risikopositionen aus dem Mengengeschäft im Sinne von Artikel 1 Absatz 1 Unterabsatz 1 der Delegierten Verordnung (EU) 2018/171 der Kommission vom 19. Oktober 2017 zur Ergänzung der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards bezüglich der Erheblichkeitsschwelle für überfällige Verbindlichkeiten (ABl. L 32 vom 6.2.2018, S. 1) nach Maßgabe der Absätze 2 und 3 und die einheitliche Erheblichkeitsschwelle für nicht dem Mengengeschäft zuzuordnende Risikopositionen im Sinne von Artikel 2 Absatz 1 der Delegierten Verordnung (EU) 2018/171 nach Maßgabe der Absätze 4 und 5 festgelegt.
 
@@ -321,15 +301,13 @@ Wenn es sich bei den Schuldnern um inländische Kirchen oder Religionsgesellscha
 
 (+++ § 16: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 17 – Berücksichtigungsfähige Arten von Beteiligungen für die Ausnahme von der Anwendung des IRB-Ansatzes bis 31. Dezember 2017
+# § 17 – Berücksichtigungsfähige Arten von Beteiligungen für die Ausnahme von der Anwendung des IRB-Ansatzes bis 31. Dezember 2017
 
 Für die übergangsweise Ausnahme bis 31. Dezember 2017 von der Anwendung des IRB-Ansatzes nach den Vorschriften des Artikels 495 der Verordnung (EU) Nr. 575/2013 darf ein Institut nach Maßgabe der Bundesanstalt sämtliche Arten von Beteiligungspositionen berücksichtigen, die es nicht bereits nach Artikel 150 Absatz 1 Buchstaben g und h der Verordnung (EU) Nr. 575/2013 von der Anwendung des IRB-Ansatzes ausnehmen darf.
 
 (+++ § 17: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 18 – IMM-Eignungsprüfung
+# § 18 – IMM-Eignungsprüfung
 
 (1) Die Bundesanstalt entscheidet über die nach Artikel 283 Absatz 1 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur Verwendung der auf einem internen Modell beruhenden Methode (IMM-Eignungsprüfung) auf der Grundlage einer Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes. Die Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Regel die Deutsche Bundesbank durch.
 
@@ -338,8 +316,7 @@ Für die übergangsweise Ausnahme bis 31. Dezember 2017 von der Anwendung des IR
 (+++ § 18: Zur Anwendung vgl. § 1 Abs. 1 +++)  
 (+++ § 18 Abs. 2 Satz 1 Kursivdruck: Überflüssiges Wort +++)
 
-
-## § 19 – Eignungsprüfungen für interne Einstufungsverfahren
+# § 19 – Eignungsprüfungen für interne Einstufungsverfahren
 
 (1) Eine Erlaubnis zur Anwendung eines internen Einstufungsverfahrens nach Artikel 265 Absatz 2 der Verordnung (EU) Nr. 575/2013 erteilt die Bundesanstalt für jedes interne Einstufungsverfahren, das nach einer Eignungsprüfung die Erlaubnisvoraussetzungen nach Artikel 265 Absatz 2 dieser EU-Verordnung erfüllt und sämtliche in seinen Anwendungsbereich fallende Verbriefungspositionen vollständig erfasst. Institute haben vor der Erteilung einer Erlaubnis darzulegen, dass sie über hinreichende Erfahrungen mit solchen internen Verfahren verfügen, die den Anforderungen des Artikels 265 Absatz 2 der Verordnung (EU) Nr. 575/2013 im Wesentlichen entsprochen haben und deren Anwendungsbereich im Wesentlichen dem des internen Einstufungsverfahrens entspricht, für das eine Erlaubnis beantragt wurde.
 
@@ -355,8 +332,7 @@ Die Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Re
 
 (+++ § 19: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 20 – AMA-Eignungsprüfung
+# § 20 – AMA-Eignungsprüfung
 
 (1) Die Bundesanstalt entscheidet über die nach Artikel 312 Absatz 2 Satz 1 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur Verwendung eines fortgeschrittenen Messansatzes (AMA-Eignungsprüfung) auf der Grundlage einer Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes. Die Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Regel die Deutsche Bundesbank durch.
 
@@ -364,8 +340,7 @@ Die Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Re
 
 (+++ § 20: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 21 – Interne Modelle-Eignungsprüfung
+# § 21 – Interne Modelle-Eignungsprüfung
 
 (1) Die Bundesanstalt entscheidet über die nach Artikel 363 Absatz 1 der Verordnung (EU) Nr. 575/2013 erforderliche Erlaubnis zur Verwendung interner Modelle (Interne Modelle-Eignungsprüfung) auf der Grundlage einer Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes. Die Prüfung gemäß § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Regel die Deutsche Bundesbank durch.
 
@@ -375,8 +350,7 @@ Die Prüfung nach § 44 Absatz 1 Satz 2 des Kreditwesengesetzes führt in der Re
 
 (+++ § 21: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 22 – Vorgaben für die Bemessung des Beleihungswerts von Immobilien
+# § 22 – Vorgaben für die Bemessung des Beleihungswerts von Immobilien
 
 Wenn ein Institut für eine Immobilie einen Beleihungswert nach Artikel 4 Absatz 1 Nummer 74 der Verordnung (EU) Nr. 575/2013 für Zwecke der Artikel 92 bis 386 der Verordnung (EU) Nr. 575/2013 verwenden will, die dafür strenge Vorgaben in Rechts- oder Verwaltungsvorschriften der Mitgliedstaaten für die Bemessung des Beleihungswerts erfordert, muss der Beleihungswert
 
@@ -391,15 +365,13 @@ Wenn ein Institut für eine Immobilie einen Beleihungswert nach Artikel 4 Absatz
 (+++ § 22: Zur Anwendung vgl. § 1 Abs. 1 +++)  
 (+++ § 22 Nr 4: Zur Anwendung vgl. § 38 Abs. 1 S. 1 +++)
 
-
-## § 23 – Prozentsätze für die Kapitalquoten
+# § 23 – Prozentsätze für die Kapitalquoten
 
 Abweichend von Artikel 92 Absatz 1 Buchstabe a und b der Verordnung (EU) Nr. 575/2013 haben die Institute in dem Zeitraum vom 1. Januar 2014 bis 31. Dezember 2014 eine harte Kernkapitalquote von mindestens 4 Prozent und eine Kernkapitalquote von mindestens 5,5 Prozent vorzuhalten.
 
 (+++ § 23: Zur Anwendung vgl. § 1 Abs. 1 +++)
 
-
-## § 24 – Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Verlusten aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden
+# § 24 – Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Verlusten aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden
 
 Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 haben die Institute bei der Berechnung des harten Kernkapitals im Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2017 folgende Prozentsätze der in ihrer Bilanz veröffentlichten nicht realisierten Verluste aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden, abzuziehen:
 
@@ -413,8 +385,7 @@ Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 haben die Institute b
 
 (+++ § 24: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 25 – Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Gewinnen aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden
+# § 25 – Prozentsätze für die Berücksichtigung von in der Bilanz ausgewiesenen nicht realisierten Gewinnen aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden
 
 Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 dürfen die Institute bei der Berechnung des harten Kernkapitals im Zeitraum vom 1. Januar 2015 bis zum 31. Dezember 2017 folgende Prozentsätze der in ihrer Bilanz veröffentlichten nicht realisierten Gewinne aus Vermögensgegenständen oder Verbindlichkeiten, die zum beizulegenden Zeitwert bewertet werden, nicht anrechnen:
 
@@ -426,8 +397,7 @@ Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 dürfen die Institute
 
 (+++ § 25: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 26 – Prozentsätze für die Abzüge vom harten Kernkapital, zusätzlichen Kernkapital und Ergänzungskapital
+# § 26 – Prozentsätze für die Abzüge vom harten Kernkapital, zusätzlichen Kernkapital und Ergänzungskapital
 
 (1) Für die Zwecke der Übergangsvorschriften nach Artikel 468 Absatz 4, Artikel 469 Absatz 1 Buchstabe a und c, Artikel 474 Buchstabe a und Artikel 476 Buchstabe a der Verordnung (EU) Nr. 575/2013 gelten die folgenden Prozentsätze:
 
@@ -475,8 +445,7 @@ Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 dürfen die Institute
 
 (+++ § 26: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 27 – Prozentsätze für die Anerkennung von nicht als Minderheitenbeteiligungen geltenden Instrumenten und Positionen im konsolidierten harten Kernkapital
+# § 27 – Prozentsätze für die Anerkennung von nicht als Minderheitenbeteiligungen geltenden Instrumenten und Positionen im konsolidierten harten Kernkapital
 
 (1) Abweichend von Teil 2 Titel III der Verordnung (EU) Nr. 575/2013 können Instrumente und Posten, die nach § 10a Absatz 6 Satz 1 und 2 und Absatz 7 Satz 1 des Kreditwesengesetzes in der bis zum 31. Dezember 2013 geltenden Fassung zu den konsolidierten Rücklagen gerechnet worden wären und aus einem der in Artikel 479 Absatz 1 Buchstabe a bis d der Verordnung (EU) Nr. 575/2013 aufgeführten Gründe nicht länger als konsolidiertes hartes Kernkapital anerkennungsfähig sind, zu den folgenden Prozentsätzen weiterhin zum konsolidierten harten Kernkapital gerechnet werden:
 
@@ -492,8 +461,7 @@ Abweichend von Artikel 35 der Verordnung (EU) Nr. 575/2013 dürfen die Institute
 
 (+++ § 27: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 28 – Faktoren für die Anerkennung von Minderheitsbeteiligungen und qualifiziertem zusätzlichem Kernkapital sowie Ergänzungskapital
+# § 28 – Faktoren für die Anerkennung von Minderheitsbeteiligungen und qualifiziertem zusätzlichem Kernkapital sowie Ergänzungskapital
 
 Abweichend von Artikel 84 Absatz 1 Buchstabe b, Artikel 85 Absatz 1 Buchstabe b und Artikel 87 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 575/2013 sind die dort genannten Prozentsätze im Zeitraum vom 1. Januar 2014 bis 31. Dezember 2017 mit folgenden Faktoren zu multiplizieren:
 
@@ -507,8 +475,7 @@ Abweichend von Artikel 84 Absatz 1 Buchstabe b, Artikel 85 Absatz 1 Buchstabe b 
 
 (+++ § 28: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 29 – Prozentsätze für Abzüge nach den Artikeln 32 bis 36, 56 und 66 der Verordnung (EU) Nr. 575/2013
+# § 29 – Prozentsätze für Abzüge nach den Artikeln 32 bis 36, 56 und 66 der Verordnung (EU) Nr. 575/2013
 
 (1) Abweichend von den Artikeln 32 bis 36, 56 und 66 der Verordnung (EU) Nr. 575/2013 gelten im Zeitraum vom 1. Januar 2014 bis 31. Dezember 2017 für die in Artikel 481 Absatz 1 der Verordnung (EU) Nr. 575/2013 von den Instituten geforderten Anpassungen für Abzüge, die gemäß § 10 Absatz 2a Satz 2, Absatz 6 Satz 1 und 2 sowie Absatz 6a Nummer 1, 2 und 4 des Kreditwesengesetzes in der bis zum 31. Dezember 2013 geltenden Fassung vorgeschrieben sind, folgende Prozentsätze:
 
@@ -534,15 +501,13 @@ Abweichend von Artikel 84 Absatz 1 Buchstabe b, Artikel 85 Absatz 1 Buchstabe b 
 
 (+++ § 29: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 30 – Prozentsatz für die Anpassung nach Artikel 36 Absatz 1 Buchstabe i und Artikel 49 Absatz 1 und 3 der Verordnung (EU) Nr. 575/2013
+# § 30 – Prozentsatz für die Anpassung nach Artikel 36 Absatz 1 Buchstabe i und Artikel 49 Absatz 1 und 3 der Verordnung (EU) Nr. 575/2013
 
 Abweichend von Artikel 36 Absatz 1 Buchstabe i und Artikel 49 Absatz 1 und 3 der Verordnung (EU) Nr. 575/2013 gilt für die in Artikel 481 Absatz 2 der Verordnung (EU) Nr. 575/2013 genannte Ausnahme vom Abzug im Zeitraum vom 1. Januar 2014 bis 31. Dezember 2014 ein Prozentsatz von 50 Prozent.
 
 (+++ § 30: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 31 – Prozentsätze für die Begrenzung der unter Bestandsschutz fallenden Instrumente des harten Kernkapitals, zusätzlichen Kernkapitals und Ergänzungskapitals nach Artikel 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2013
+# § 31 – Prozentsätze für die Begrenzung der unter Bestandsschutz fallenden Instrumente des harten Kernkapitals, zusätzlichen Kernkapitals und Ergänzungskapitals nach Artikel 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2013
 
 Für die Anwendung des Artikels 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2013 gelten im Zeitraum vom 1. Januar 2014 bis 31. Dezember 2021 für die Anerkennung der unter Bestandsschutz fallenden Instrumente und Posten des harten Kernkapitals, des zusätzlichen Kernkapitals und des Ergänzungskapitals folgende Prozentsätze:
 
@@ -564,8 +529,7 @@ Für die Anwendung des Artikels 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2
 
 (+++ § 31: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 32 – Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwendung des Verfahrens nach § 10a Absatz 5 des Kreditwesengesetzes
+# § 32 – Behandlung der nach der Äquivalenzmethode bewerteten Beteiligungen bei Anwendung des Verfahrens nach § 10a Absatz 5 des Kreditwesengesetzes
 
 (1) Beteiligungen an Instituten, Finanzunternehmen oder Anbietern von Nebendienstleistungen, die nach der Äquivalenzmethode gemäß IAS 28.13 in der jeweils geltenden Fassung der Verordnung (EG) Nr. 1725/2003 der Kommission vom 29. September 2003 betreffend die Übernahme bestimmter internationaler Rechnungslegungsstandards in Übereinstimmung mit der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des Rates (ABl. L 261 vom 13.10.2003, S. 1) bewertet werden, können, vorbehaltlich der Anwendung des § 10a Absatz 4 des Kreditwesengesetzes, mit ihrem anteiligen bilanziellen Eigenkapital aus dem Abschluss, differenziert nach Eigenkapitalbestandteilen, in die Zusammenfassung nach § 10a Absatz 5 des Kreditwesengesetzes einbezogen werden. Der nach der Äquivalenzmethode ermittelte fortgeführte Buchwert der Beteiligung ist vom harten Kernkapital der Gruppe abzuziehen, wobei der darin enthaltene Firmenwert in der Abzugsposition nach Artikel 36 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 575/2013 zu erfassen ist.
 
@@ -573,8 +537,7 @@ Für die Anwendung des Artikels 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2
 
 (+++ § 32: Zur Anwendung vgl. § 1 Abs. 3 +++)
 
-
-## § 33 – Festlegung der Quote für den inländischen antizyklischen Kapitalpuffer
+# § 33 – Festlegung der Quote für den inländischen antizyklischen Kapitalpuffer
 
 (1) Zur Festlegung der Quote für den inländischen antizyklischen Kapitalpuffer gemäß § 10d des Kreditwesengesetzes ermittelt die Bundesanstalt quartalsweise einen Puffer-Richtwert. Dieser spiegelt in aussagekräftiger Form den Kreditzyklus und die durch ein übermäßiges Kreditwachstum bedingten Risiken im Inland wider und trägt den spezifischen volkswirtschaftlichen Gegebenheiten im Geltungsbereich des Kreditwesengesetzes Rechnung. Der Puffer-Richtwert basiert auf der Abweichung des Verhältnisses der im Inland gewährten Kredite zum Bruttoinlandsprodukt (Kredite-BIP-Verhältnis) vom langfristigen Trend. Bei der Festlegung des Puffer-Richtwerts berücksichtigt die Bundesanstalt:
 
@@ -586,8 +549,7 @@ Für die Anwendung des Artikels 484 Absatz 3 bis 5 der Verordnung (EU) Nr. 575/2
 
 (+++ § 33: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 34 – Veröffentlichung der Quote
+# § 34 – Veröffentlichung der Quote
 
 In den Fällen des § 10d Absatz 3 und 4 des Kreditwesengesetzes veröffentlicht die Bundesanstalt die für das jeweilige Quartal festgelegte Quote für den inländischen antizyklischen Kapitalpuffer auf ihrer Internetseite. Zusätzlich werden mindestens noch die folgenden weiteren Angaben veröffentlicht:
 
@@ -605,15 +567,13 @@ In den Fällen des § 10d Absatz 3 und 4 des Kreditwesengesetzes veröffentlicht
 
 (+++ § 34: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 35 – Zusätzliche Veröffentlichungen für Quoten in Drittstaaten
+# § 35 – Zusätzliche Veröffentlichungen für Quoten in Drittstaaten
 
 Die Bundesanstalt veröffentlicht zusätzlich zu den Angaben, die nach § 10d Absatz 9 des Kreditwesengesetzes zu veröffentlichen sind, im Falle des § 10d Absatz 6 des Kreditwesengesetzes eine Begründung für die Anerkennung der von einem Drittstaat festgelegten Quote für den antizyklischen Kapitalpuffer und in den Fällen des § 10d Absatz 7 und 8 des Kreditwesengesetzes eine Begründung für die Festlegung der Quote für den antizyklischen Kapitalpuffer.
 
 (+++ § 35: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 36 – Maßgebliche Risikopositionen
+# § 36 – Maßgebliche Risikopositionen
 
 (1) Zu den maßgeblichen Risikopositionen im Sinne von § 10d Absatz 2 des Kreditwesengesetzes zählt jede Risikoposition, die keiner der Forderungsklassen des Artikels 112 Buchstabe a bis f der Verordnung (EU) Nr. 575/2013 angehört und für die eine der nachfolgenden Bedingungen erfüllt ist:
 
@@ -639,8 +599,7 @@ Für die Zwecke des Satzes 1 Nummer 2 gilt eine Änderung der Quote für den ant
 
 (+++ § 36: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 37 – Maximal ausschüttungsfähiger Betrag
+# § 37 – Maximal ausschüttungsfähiger Betrag
 
 (1) Der maximal ausschüttungsfähige Betrag im Sinne des § 10i Absatz 3 des Kreditwesengesetzes errechnet sich durch Multiplikation des nach Absatz 2 berechneten Betrags mit dem gemäß Absatz 3 festgelegten Faktor. Er reduziert sich durch jede nach § 10i Absatz 3 Satz 3 Nummer 1 bis 3 des Kreditwesengesetzes durchgeführte Maßnahme.
 
@@ -663,14 +622,13 @@ Für die Zwecke des Satzes 1 Nummer 2 gilt eine Änderung der Quote für den ant
 4. obersten Quartils der kombinierten Kapitalpuffer-Anforderung, so beträgt der Faktor 0,6.
 
 (4) Die Ober- und Untergrenzen für jedes Quartil der kombinierten Kapitalpuffer-Anforderung werden wie folgt berechnet:  
-![](../normengrafiken/bgbl1_2013/j4168-1_0010.jpg)  
-![](../normengrafiken/bgbl1_2013/j4168-1_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j4168-1_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j4168-1_0020.jpg)  
 „Q<sub>n</sub>“ steht für die Ordinalzahl des betreffenden Quartils.
 
 (+++ § 37: Zur Anwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 38 – Übergangsvorschriften
+# § 38 – Übergangsvorschriften
 
 (1) § 22 Nummer 4 ist ab dem Tag, ab dem der Technische Regulierungsstandard nach Artikel 124 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 575/2013 anzuwenden ist, nicht mehr anzuwenden. Das Bundesministerium der Finanzen macht den Zeitpunkt, zu dem die Durchführungsstandards nach Artikel 124 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 575/2013 anwendbar sind, im Bundesgesetzblatt bekannt.
 
@@ -682,7 +640,6 @@ Für die Zwecke des Satzes 1 Nummer 2 gilt eine Änderung der Quote für den ant
 
 (3) Bis zum Ablauf des 30. Dezember 2020 können Institute die Erheblichkeitsschwelle für den 90-Tage-Verzug auch nach § 16 in der Fassung vom 6. Dezember 2013 anwenden.
 
-
-## § 39 – Inkrafttreten, Außerkrafttreten
+# § 39 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt die Solvabilitätsverordnung vom 14. Dezember 2006 (BGBl. I S. 2926), die zuletzt durch Artikel 6 der Verordnung vom 20. September 2013 (BGBl. I S. 3672) geändert worden ist, außer Kraft. § 1 Absatz 2 Satz 2 ist ab dem 1. Oktober 2016 anzuwenden.

@@ -1,15 +1,11 @@
-# [ZinsSatzV] Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes
-
-Ausfertigungsdatum: 17.04.1972
-
+% Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes
+% Ausfertigungsdatum: 17.04.1972
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 des Preisgesetzes vom 10. April 1948 (Gesetz- und Verordnungsblatt des Wirtschaftsrates des Vereinigten Wirtschaftsgebietes S. 27), zuletzt geändert durch § 37 des Gesetzes über die Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar 1952 (Bundesgesetzbl. I S. 7), wird verordnet:
 
-
-## § 1
+# § 1
 
 Der Höchstsatz für kalkulatorische Zinsen
 
@@ -19,12 +15,10 @@ b) nach Nummer 35 Abs. 2 der Anlage zur Verordnung PR Nr. 1/72 über die Preise 
 
 beträgt 6 1/2 vom Hundert jährlich.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen

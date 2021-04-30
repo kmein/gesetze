@@ -1,22 +1,17 @@
-# [EhrenamtStiftG] Gesetz zur Errichtung der Deutschen Stiftung für Engagement und Ehrenamt
-
-Ausfertigungsdatum: 25.03.2020
-
+% Gesetz zur Errichtung der Deutschen Stiftung für Engagement und Ehrenamt
+% Ausfertigungsdatum: 25.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## § 1 – Errichtung und Sitz
+# § 1 – Errichtung und Sitz
 
 (1) Unter dem Namen „Deutsche Stiftung für Engagement und Ehrenamt“ wird eine rechtsfähige Stiftung öffentlichen Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 (2) Sitz der Stiftung ist Neustrelitz.
 
-
-## § 2 – Stiftungszweck und Begriffsbestimmungen
+# § 2 – Stiftungszweck und Begriffsbestimmungen
 
 (1) Stiftungszweck ist die Stärkung und Förderung des bürgerschaftlichen Engagements und des Ehrenamts insbesondere in strukturschwachen und ländlichen Räumen im Rahmen der Zuständigkeit des Bundes.
 
@@ -26,8 +21,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 2. Ehrenamt das bürgerschaftliche Engagement für eine Organisation, die ohne Gewinnerzielungsabsicht Aufgaben ausführt, die im öffentlichen Interesse liegen oder gemeinnützige, kirchliche beziehungsweise mildtätige Zwecke fördern.
 
-
-## § 3 – Erfüllung des Stiftungszwecks
+# § 3 – Erfüllung des Stiftungszwecks
 
 (1) Der Stiftungszweck wird erfüllt durch
 
@@ -47,8 +41,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (3) Der Stiftungszweck kann zusätzlich auch durch finanzielle Förderung erfüllt werden.
 
-
-## § 4 – Stiftungsvermögen
+# § 4 – Stiftungsvermögen
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland für die Erfüllung des Stiftungszwecks erwirbt.
 
@@ -58,8 +51,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (4) Die Mittel und die Erträge aus dem Stiftungsvermögen und sonstige Einnahmen sind nur zur Erfüllung des Stiftungszwecks zu verwenden.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 (1) Organe der Stiftung sind der Stiftungsrat und der Vorstand. Zur Beratung bei der Erfüllung der Aufgaben der Stiftung kann der Stiftungsrat Fachbeiräte berufen.
 
@@ -67,8 +59,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (3) Ehrenamtliche Organmitglieder haften gegenüber der Stiftung für einen Schaden, den sie bei der Wahrnehmung ihrer Pflichten verursacht haben, nur, wenn sie den Schaden vorsätzlich oder grob fahrlässig verursacht haben. Wenn ehrenamtliche Organmitglieder von Dritten auf Ersatz eines Schadens, den sie bei Wahrnehmung ihrer Pflichten verursacht haben, in Anspruch genommen werden, stellt die Stiftung sie von der Haftung frei, es sei denn, sie haben den Schaden grob fahrlässig oder vorsätzlich verursacht. Die Sätze 1 und 2 gelten entsprechend für ehemalige ehrenamtliche Organmitglieder.
 
-
-## § 6 – Stiftungsrat
+# § 6 – Stiftungsrat
 
 (1) Der Stiftungsrat beaufsichtigt die Stiftung und entscheidet in allen Angelegenheiten, die für die Stiftung und ihre Entwicklung von grundsätzlicher oder besonderer Bedeutung sind. Von grundsätzlicher oder besonderer Bedeutung sind insbesondere
 
@@ -126,8 +117,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (12) Das Nähere regelt die Satzung.
 
-
-## § 7 – Vorstand
+# § 7 – Vorstand
 
 (1) Der Vorstand führt die Beschlüsse des Stiftungsrats aus und führt die laufenden Geschäfte der Stiftung. Er vertritt die Stiftung gerichtlich und außergerichtlich.
 
@@ -145,20 +135,17 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (8) Das Nähere regelt die Satzung.
 
-
-## § 8 – Satzung
+# § 8 – Satzung
 
 (1) Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer Mehrheit von zwei Dritteln der Stimmen beschlossen wird.
 
 (2) Der Stiftungsrat kann Satzungsbestimmungen, die nicht Gegenstand dieses Gesetzes sind, mit einer Mehrheit von zwei Dritteln der Stimmen ändern.
 
-
-## § 9 – Beschäftigte
+# § 9 – Beschäftigte
 
 Auf die Arbeitsverhältnisse der Arbeitnehmerinnen und Arbeitnehmer der Stiftung sind die für Arbeitnehmerinnen und Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
-
-## § 10 – Haushalt
+# § 10 – Haushalt
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung gelten die für die Bundesverwaltung geltenden Bestimmungen einschließlich der Verwaltungsvorschriften zur Bundeshaushaltsordnung.
 
@@ -166,22 +153,18 @@ Auf die Arbeitsverhältnisse der Arbeitnehmerinnen und Arbeitnehmer der Stiftung
 
 (3) Die Haushalts- und die Wirtschaftsführung der Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
 
-
-## § 11 – Rechtsaufsicht
+# § 11 – Rechtsaufsicht
 
 Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für Familie, Senioren, Frauen und Jugend.
 
-
-## § 12 – Auflösung
+# § 12 – Auflösung
 
 Die Auflösung der Stiftung kann nur durch Gesetz erfolgen. Im Fall der Auflösung ist der Bund Anfallberechtigter für das Stiftungsvermögen.
 
-
-## § 13 – Evaluierung
+# § 13 – Evaluierung
 
 Die Bundesregierung berichtet dem Deutschen Bundestag innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes über die durch das Gesetz erzielten Wirkungen in Bezug auf die Stärkung des bürgerlichen Engagements und des Ehrenamts durch die Errichtung einer zentralen Anlaufstelle auf Bundesebene und unterbreitet ihm Vorschläge für die Weiterentwicklung der Stiftung. Der Bericht soll auf Grundlage der begleitenden Forschungsergebnisse im Bereich des bürgerschaftlichen Engagements und des Ehrenamts die nachhaltige Entwicklung von bundesweit koordinierten Ansätzen, Initiativen und Projekten sowie die Entwicklung relevanter zielgruppen- und bereichsspezifischer digitaler Lösungen durch die Arbeit der Stiftung aufzeigen.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

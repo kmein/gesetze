@@ -1,10 +1,7 @@
-# [WährUmStAbschlG] Gesetz zum Abschluß der Währungsumstellung
-
-Ausfertigungsdatum: 17.12.1975
-
+% Gesetz zum Abschluß der Währungsumstellung
+% Ausfertigungsdatum: 17.12.1975
  
-
-## § 1 – Geldinstitute
+# § 1 – Geldinstitute
 
 Geldinstitute im Sinne dieses Gesetzes sind
 
@@ -16,8 +13,7 @@ Geldinstitute im Sinne dieses Gesetzes sind
 
 4. Bausparkassen (§ 25 des Umstellungsgesetzes).
 
-
-## § 2 – Ansprüche aus Reichsmarkguthaben
+# § 2 – Ansprüche aus Reichsmarkguthaben
 
 (1) Mit Ablauf des 30. Juni 1976 erlöschen die Ansprüche aus folgenden Reichsmarkguthaben, soweit sie weder in Deutsche Mark umgewandelt worden oder erloschen sind noch auf Grund einer bis zum 30. Juni 1976 erfolgenden Anmeldung in Deutsche Mark umgewandelt werden:
 
@@ -29,8 +25,7 @@ Geldinstitute im Sinne dieses Gesetzes sind
 
 (2) Berliner Altbanken, für welche die Beschränkungen einer Inanspruchnahme nach Maßgabe des § 12 des Altbankengesetzes aufgehoben worden sind, können für ihre in § 12 Abs. 2 Buchstabe b des Altbankengesetzes bezeichneten Verbindlichkeiten aus Uraltguthaben bei der Berliner Niederlassung in Höhe von einer Deutschen Mark für je zwanzig Reichsmark, zuzüglich drei vom Hundert jährliche Zinsen seit dem 1. Januar 1953, in Anspruch genommen werden, sofern die Uraltguthaben in der Zeit zwischen dem Inkrafttreten des Gesetzes und dem 30. Juni 1976 bei der Altbank angemeldet werden.
 
-
-## § 3 – Verjährung von Ansprüchen gegen Geldinstitute
+# § 3 – Verjährung von Ansprüchen gegen Geldinstitute
 
 (1) Vor dem 9. Mai 1945 begründete Ansprüche gegen Geldinstitute, die bis zum 30. Juni 1976 weder erfüllt noch verjährt oder erloschen sind, verjähren mit Ablauf des 30. Juni 1976, soweit sich nicht aus den Absätzen 2 bis 6 oder den §§ 4, 5 etwas anderes ergibt.
 
@@ -44,20 +39,17 @@ Geldinstitute im Sinne dieses Gesetzes sind
 
 (6) Sind Reichsmarkguthaben von Kontoinhabern mit Wohnsitz außerhalb des Geltungsbereichs dieses Gesetzes bei Geldinstituten im Währungsgebiet als Altgeldguthaben der Gruppe IV (§ 1 Abs. 1 Buchstabe d des Umstellungsgesetzes) in Deutsche Mark umgewandelt worden, so verjähren die Ansprüche von Gläubigern, die ihren Wohnsitz bei Inkrafttreten dieses Gesetzes außerhalb des Geltungsbereichs dieses Gesetzes haben, aus diesen Guthaben mit Ablauf des Jahres 1978.
 
-
-## § 4 – Erlöschen von Ansprüchen
+# § 4 – Erlöschen von Ansprüchen
 
 Ansprüche gegen Geldinstitute, die vor dem 9. Mai 1945 im Geschäftsbetrieb einer Niederlassung begründet worden sind, die sich außerhalb des Geltungsbereichs dieses Gesetzes befunden hat und nicht nach § 3 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz als verlagert anerkannt worden ist, erlöschen mit Ablauf des 30. Juni 1976.
 
-
-## § 5 – Auslandsschulden
+# § 5 – Auslandsschulden
 
 (1) § 3 Abs. 1 findet keine Anwendung, soweit sich aus dem Abkommen über deutsche Auslandsschulden vom 27. Februar 1953 (Bundesgesetzbl. II S. 331), dem Gesetz über die Verjährung von deutschen Auslandsschulden und ähnlichen Schulden vom 19. Dezember 1956 (Bundesgesetzbl. I S. 915) oder dem Bereinigungsgesetz für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) etwas anderes ergibt.
 
 (2) Die Konversionskasse für deutsche Auslandsschulden kann, soweit sie für Einzahlungen auf Einzelschuldverhältnisse Reichsmarkgutschriften erteilt hat und diese nicht nach Anlage V des Abkommens über deutsche Auslandsschulden behandelt worden sind, in Höhe von fünf Deutsche Mark für je einhundert Reichsmark, zuzüglich drei vom Hundert jährliche Zinsen seit dem 1. Januar 1953, in Anspruch genommen werden, soweit Gläubiger bis zum 30. Juni 1976 ihr gegenüber schriftlich erklären, daß sie die vor dem 9. Mai 1945 an die Konversionskasse für deutsche Auslandsschulden geleisteten Zahlungen als Erfüllung ihrer Forderungen annehmen.
 
-
-## § 6 – Leistungen aus öffentlichen Mitteln
+# § 6 – Leistungen aus öffentlichen Mitteln
 
 (1) Ansprüche gegen Geldinstitute, die erloschen oder verjährt sind, werden bei der Gewährung von Ausgleichsforderungen nicht berücksichtigt. Ist für solche Verbindlichkeiten aus erloschenen oder verjährten Ansprüchen ein Passivposten sowohl in einer unter Verzicht auf Berichtigungen endgültig bestätigten Umstellungs- oder Altbankenrechnung als auch in dem Abschluß für das am 31. Dezember 1975 laufende Geschäftsjahr enthalten, so ist dieser Passivposten in den Abschluß für das am 31. Dezember 1977 laufende Geschäftsjahr nur dann aufzunehmen, wenn die Forderung inzwischen vom Gläubiger geltend gemacht worden und das Geldinstitut zur Erfüllung bereit ist.
 
@@ -65,13 +57,11 @@ Ansprüche gegen Geldinstitute, die vor dem 9. Mai 1945 im Geschäftsbetrieb ein
 
 (3) Ist ein Geldinstitut nach dem 31. Dezember 1975 zur Erfüllung von Entschädigungsansprüchen aus Auslandsbonds oder von nach dem Abkommen über deutsche Auslandsschulden zu regelnden Verbindlichkeiten verpflichtet und hätte eine Erfüllung vor diesem Zeitpunkt zur Gewährung von Ausgleichsforderungen geführt, so werden die von dem Geldinstitut nach dem 31. Dezember 1975 geleisteten Zahlungen von der Bundesrepublik Deutschland erstattet. § 8 Abs. 3 des Auslandsbonds-Entschädigungsgesetzes vom 10. März 1960 (Bundesgesetzbl. I S. 177) findet Anwendung.
 
-
-## § 7 – Versicherungsunternehmen
+# § 7 – Versicherungsunternehmen
 
 § 3 Abs. 1, 2 und 5, § 5 Abs. 1 und § 6 sind auf Ansprüche gegen Versicherungsunternehmen, die eine Umstellungsrechnung aufgestellt haben oder auf die Artikel 3 des Zweiten Gesetzes zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen vom 25. Mai 1964 (Bundesgesetzbl. I S. 329) angewendet worden ist, entsprechend anzuwenden. Satz 1 gilt nicht für Ansprüche, die auf Grund des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen in der Fassung der Bekanntmachung vom 3. Juli 1964 (Bundesgesetzbl. I S. 433) geltend gemacht werden können.
 
-
-## § 8 – Auflösung und Abwicklung öffentlich-rechtlicher Geldinstitute
+# § 8 – Auflösung und Abwicklung öffentlich-rechtlicher Geldinstitute
 
 (1) Öffentlich-rechtliche Geldinstitute, die unter § 1 Nr. 2 fallen und ihren Geschäftsbetrieb nicht fortführen, sind aufgelöst. Bis zur Beendigung der Abwicklung (§ 9) bleiben sie in der bisherigen Rechtsform bestehen. Die Beendigung der Abwicklung ist von der zuständigen Aufsichtsbehörde im Bundesanzeiger bekanntzumachen.
 
@@ -89,15 +79,13 @@ Ansprüche gegen Geldinstitute, die vor dem 9. Mai 1945 im Geschäftsbetrieb ein
 
 4. ein Vermögensüberschuß der Konversionskasse für deutsche Auslandsschulden und ein Vermögensüberschuß der Deutschen Verrechnungskasse auf die Bundesrepublik Deutschland.
 
-
-## § 9 – Beendigung der Abwicklung von Geldinstituten
+# § 9 – Beendigung der Abwicklung von Geldinstituten
 
 (1) Die Abwicklung eines aufgelösten Geldinstituts ist beendet, wenn seine weder erloschenen noch verjährten Verbindlichkeiten sowie seine sonstigen Verpflichtungen erfüllt, von einem anderen Schuldner übernommen worden sind oder kraft Gesetzes auf einen anderen Schuldner übergegangen sind oder übergehen.
 
 (2) Zur Übernahme von Verbindlichkeiten und sonstigen Verpflichtungen bedarf es nicht der Zustimmung der Gläubiger. Der Übernehmer ist zu Leistungen nur in dem Umfang verpflichtet wie der bisherige Schuldner.
 
-
-## § 10 – Tote Depots
+# § 10 – Tote Depots
 
 (1) Verwahrt oder verwaltet ein Geldinstitut bei Ablauf des Jahres 1975 vor dem 9. Mai 1945 begebene Wertpapiere oder Schuldbuchforderungen oder an ihre Stelle getretene Werte, hinsichtlich deren die Verfügungsberechtigung nicht geklärt ist oder vom Berechtigten nach dem 8. Mai 1945 gegenüber dem Geldinstitut keine Rechte geltend gemacht worden sind, so sind die Wertpapiere und die an ihre Stelle getretenen Werte einschließlich der angefallenen Erträgnisse bis zum 31. Dezember 1978 an den Präsidenten des Bundesausgleichsamts abzuführen, sofern sich nicht aus Absatz 2 etwas anderes ergibt. Die §§ 10, 11 des Wertpapierbereinigungsschlußgesetzes vom 28. Januar 1964 (Bundesgesetzbl. I S. 45) sind entsprechend anzuwenden.
 
@@ -113,15 +101,13 @@ b) die Wertpapiere, Schuldbuchforderungen oder die an ihre Stelle getretenen Wer
 
 (3) Mit der Abführung gemäß Absatz 1 wird das Geldinstitut von seiner Verpflichtung aus früheren Verwahrungsverträgen auch für die in Absatz 2 Nr. 2 Buchstabe b aufgeführten Wertpapiere frei.
 
-
-## § 11 – Entschädigung nach dem Wertpapierbereinigungsschlußgesetz
+# § 11 – Entschädigung nach dem Wertpapierbereinigungsschlußgesetz
 
 (1) Anträge auf Entschädigung nach dem Dritten Abschnitt des Wertpapierbereinigungsschlußgesetzes können nach Ablauf des 30. Juni 1976 nicht mehr gestellt werden.
 
 (2) Anträge auf Anerkennung durch die Kammer für Wertpapierbereinigung (§ 16 Abs. 4 des Wertpapierbereinigungsschlußgesetzes) sind innerhalb von zwei Monaten nach Inkrafttreten dieses Gesetzes oder bei späterem Zugang der Mitteilung des Präsidenten des Bundesausgleichsamtes (§ 16 Abs. 3 des Wertpapierbereinigungsschlußgesetzes) innerhalb von zwei Monaten nach Zugang der Mitteilung einzureichen.
 
-
-## § 12 – Aufhebung von Rechtsvorschriften
+# § 12 – Aufhebung von Rechtsvorschriften
 
 Aufgehoben werden
 
@@ -135,12 +121,9 @@ Aufgehoben werden
 
 5. § 8 Abs. 4 des Altbanken-Bilanz-Gesetzes vom 10. Dezember 1953 (Gesetz- und Verordnungsblatt für Berlin S. 1488), zuletzt geändert durch das Dritte Umstellungsergänzungsgesetz vom 22. Januar 1964 (Bundesgesetzbl. I S. 33).
 
-6.  
-7.  
-8.
+6. 7. 8.
 
-
-## § 13 – Sonderregelung für Berlin
+# § 13 – Sonderregelung für Berlin
 
 Im Land Berlin gelten die vorstehenden Bestimmungen mit folgender Maßgabe:
 
@@ -154,13 +137,11 @@ c) in § 3 Abs. 6 an die Stelle der Worte "bei Geldinstituten im Währungsgebiet
 
 2. Bei der Anwendung des § 1 Nr. 4 sind Bausparkassen die in der Durchführungsbestimmung Nummer 7 vom 26. Oktober 1950 zur Vierten Verordnung zur Neuordnung des Geldwesens (Umstellungsergänzungsverordnung) vom 20. März 1949 (Westberliner Bausparkassenbestimmung) - Verordnungsblatt für Berlin I S. 494 - aufgeführten Bausparkassen sowie die Landesbausparkasse Berlin und die Bausparkasse Deutsche Bau-Gemeinschaft AG.
 
-
-## § 14 – Berlin-Klausel
+# § 14 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft, soweit in Absatz 2 nicht anderes bestimmt ist.
 

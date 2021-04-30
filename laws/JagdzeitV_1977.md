@@ -1,15 +1,11 @@
-# [JagdzeitV 1977] Verordnung über die Jagdzeiten
-
-Ausfertigungsdatum: 02.04.1977
-
+% Verordnung über die Jagdzeiten
+% Ausfertigungsdatum: 02.04.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Abs. 1 Satz 1 des Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 (1) Die Jagd darf ausgeübt werden auf  
 
@@ -215,12 +211,10 @@ vom 1. Oktober bis 10. Februar
 
 (3) Die in Absatz 1 festgesetzten Jagdzeiten umfassen nur solche Zeiträume einschließlich Tageszeiten, in denen nach den örtlich gegebenen äußeren Umständen für einen Jäger die Gefahr der Verwechslung von Tierarten nicht besteht.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

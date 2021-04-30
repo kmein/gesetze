@@ -1,10 +1,7 @@
-# [JBeitrG] Justizbeitreibungsgesetz  (JBeitrG)
-
-Ausfertigungsdatum: 11.03.1937
-
+% Justizbeitreibungsgesetz  (JBeitrG)
+% Ausfertigungsdatum: 11.03.1937
  
-
-## § 1
+# § 1
 
 (1) Nach diesem Gesetz werden folgende Ansprüche beigetrieben, soweit sie von Justizbehörden des Bundes einzuziehen sind:
 
@@ -12,21 +9,17 @@ Ausfertigungsdatum: 11.03.1937
 
 2. gerichtlich erkannte Geldbußen und Nebenfolgen einer Ordnungswidrigkeit, die zu einer Geldzahlung verpflichten;
 
-2a.  
-Ansprüche aus gerichtlichen Anordnungen über die Einziehung oder die Unbrauchbarmachung einer Sache;
+2a. Ansprüche aus gerichtlichen Anordnungen über die Einziehung oder die Unbrauchbarmachung einer Sache;
 
-2b.  
-Ansprüche aus gerichtlichen Anordnungen über die Herausgabe von Akten und sonstigen Unterlagen nach § 407a Absatz 5 Satz 2 der Zivilprozessordnung;
+2b. Ansprüche aus gerichtlichen Anordnungen über die Herausgabe von Akten und sonstigen Unterlagen nach § 407a Absatz 5 Satz 2 der Zivilprozessordnung;
 
 3. Ordnungs- und Zwangsgelder;
 
 4. Gerichtskosten;
 
-4a.  
-Ansprüche auf Zahlung der vom Gericht im Verfahren der Prozesskostenhilfe oder nach § 4b der Insolvenzordnung bestimmten Beträge;
+4a. Ansprüche auf Zahlung der vom Gericht im Verfahren der Prozesskostenhilfe oder nach § 4b der Insolvenzordnung bestimmten Beträge;
 
-4b.  
-nach den §§ 168 und 292 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte Ansprüche;
+4b. nach den §§ 168 und 292 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit festgesetzte Ansprüche;
 
 5. Zulassungs- und Prüfungsgebühren;
 
@@ -50,8 +43,7 @@ nach den §§ 168 und 292 Absatz 1 des Gesetzes über das Verfahren in Familiens
 
 (6) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung abweichend von diesem Gesetz zu bestimmen, dass Gerichtskosten in den Fällen des § 109 Absatz 2 des Gesetzes über Ordnungswidrigkeiten und des § 27 des Gerichtskostengesetzes nach Vorschriften des Landesrechts beigetrieben werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen.
 
-
-## § 2
+# § 2
 
 (1) Die Beitreibung obliegt in den Fällen des § 1 Absatz 1 Nummer 1 bis 3 den nach den Verfahrensgesetzen für die Vollstreckung dieser Ansprüche zuständigen Stellen, soweit nicht die in Absatz 2 bezeichnete Vollstreckungsbehörde zuständig ist, im Übrigen den Gerichtskassen als Vollstreckungsbehörden. Die Landesregierungen werden ermächtigt, an Stelle der Gerichtskassen andere Behörden als Vollstreckungsbehörden zu bestimmen. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
@@ -61,25 +53,21 @@ nach den §§ 168 und 292 Absatz 1 des Gesetzes über das Verfahren in Familiens
 
 (4) Die Vollstreckungsbehörden haben einander Amtshilfe zu leisten.
 
-
-## § 3
+# § 3
 
 Zustellungen sind nur erforderlich, soweit dies besonders bestimmt ist. Sie werden sinngemäß nach den Vorschriften der Zivilprozessordnung über Zustellungen von Amts wegen bewirkt. Die dem Gericht vorbehaltenen Anordnungen trifft die Vollstreckungsbehörde.
 
-
-## § 4
+# § 4
 
 Die Vollstreckung kann gegen jeden durchgeführt werden, der nach den für den beizutreibenden Anspruch geltenden besonderen Vorschriften oder kraft Gesetzes nach den Vorschriften des bürgerlichen Rechts zur Leistung oder zur Duldung der Vollstreckung verpflichtet ist. Aus einer Zwangshypothek, die für einen der im § 1 bezeichneten Ansprüche eingetragen ist, kann auch gegen den Rechtsnachfolger des Schuldners in das belastete Grundstück vollstreckt werden.
 
-
-## § 5
+# § 5
 
 (1) Die Vollstreckung darf erst beginnen, wenn der beizutreibende Anspruch fällig ist. In den Fällen des § 1 Absatz 1 Nummer 8 und 9 darf die Vollstreckung erst beginnen, wenn der Zahlungspflichtige von den ihm zustehenden Rechtsbehelfen binnen zwei Wochen nach der Zahlungsaufforderung oder nach der Mitteilung einer Entscheidung über seine Einwendungen gegen die Zahlungsaufforderung keinen Gebrauch gemacht hat. Vorschriften, wonach aus vollstreckbaren Entscheidungen oder Verpflichtungserklärungen erst nach deren Zustellung vollstreckt werden darf, bleiben unberührt.
 
 (2) In der Regel soll der Vollstreckungsschuldner (§ 4) vor Beginn der Vollstreckung zur Leistung innerhalb von zwei Wochen schriftlich aufgefordert und nach vergeblichem Ablauf der Frist besonders gemahnt werden.
 
-
-## § 6
+# § 6
 
 (1) Für die Vollstreckung gelten nach Maßgabe der Absätze 2 bis 4 folgende Vorschriften sinngemäß:
 
@@ -101,13 +89,11 @@ Die Vollstreckung kann gegen jeden durchgeführt werden, der nach den für den b
 
 2. bei einer Vollstreckung in die Vermögensgegenstände, die in der Vermögensauskunft angegeben sind, eine vollständige Befriedigung der Forderung, wegen der die Vermögensauskunft verlangt wird, voraussichtlich nicht zu erwarten ist.
 
-
-## § 7
+# § 7
 
 Die Abnahme der Vermögensauskunft beantragt die Vollstreckungsbehörde bei dem zuständigen Gerichtsvollzieher; die Vollstreckung in unbewegliches Vermögen beantragt sie bei dem zuständigen Amtsgericht. Der Antrag ersetzt den vollstreckbaren Schuldtitel. Eine Zustellung des Antrags an den Schuldner ist nicht erforderlich. Die Vollstreckungsbehörde kann die bei dem zentralen Vollstreckungsgericht nach § 802k Absatz 1 der Zivilprozessordnung verwalteten Vermögensverzeichnisse zu Vollstreckungszwecken abrufen.
 
-
-## § 8
+# § 8
 
 (1) Einwendungen, die den beizutreibenden Anspruch selbst, die Haftung für den Anspruch oder die Verpflichtung zur Duldung der Vollstreckung betreffen, sind vom Schuldner gerichtlich geltend zu machen  
  bei Ansprüchen nach § 1 Absatz 1 Nummer 4, 6, 7  
@@ -119,19 +105,16 @@ nach den Vorschriften über Erinnerungen gegen den Festsetzungsbeschluss. Die Ei
 
 (2) Für Einwendungen, die auf Grund der §§ 781 bis 784, 786 der Zivilprozessordnung erhoben werden, gelten die Vorschriften der §§ 767, 769, 770 der Zivilprozessordnung sinngemäß. Für die Klage ist das Gericht zuständig, in dessen Bezirk die Vollstreckung stattgefunden hat.
 
-
-## § 9
+# § 9
 
 (1) Werden Einwendungen gegen die Vollstreckung erhoben, so kann die Vollstreckungsbehörde die Vollstreckungsmaßnahmen einstweilen einstellen, aufheben oder von weiteren Vollstreckungsmaßnahmen Abstand nehmen, bis über die Einwendung endgültig entschieden ist.
 
 (2) Der Vollziehungsbeamte hat von der Pfändung abzusehen, wenn ihm die Zahlung oder Stundung der Schuld nachgewiesen wird.
 
-
-## § 10
+# § 10
 
 (1) Bei der Pfändung von Forderungen oder anderen Vermögensrechten gelten die Vorschriften des Gerichtskostengesetzes sinngemäß.
 
 (2) Für die Tätigkeit des Vollziehungsbeamten gelten die Vorschriften des Gerichtsvollzieherkostengesetzes sinngemäß.
 
-
-## § 11 – (Inkrafttreten)
+# § 11 – (Inkrafttreten)

@@ -1,10 +1,7 @@
-# [TextilKennzG] Textilkennzeichnungsgesetz  (TextilKennzG)
-
-Ausfertigungsdatum: 15.02.2016
-
+% Textilkennzeichnungsgesetz  (TextilKennzG)
+% Ausfertigungsdatum: 15.02.2016
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz ist für Textilerzeugnisse, die auf dem Markt bereitgestellt werden, für die Verwendung von Bezeichnungen von Textilfasern, für die Etikettierung und Kennzeichnung der Faserzusammensetzung von Textilerzeugnissen und der nichttextilen Bestandteile tierischen Ursprungs von Textilerzeugnissen und für die Bestimmung der Faserzusammensetzung von Textilerzeugnissen durch quantitative Analyse von binären und ternären Textilfasergemischen anzuwenden. Es regelt die Durchführung und ist ergänzend zu der Verordnung (EU) Nr. 1007/2011 des Europäischen Parlaments und des Rates vom 27. September 2011 über die Bezeichnungen von Textilfasern und die damit zusammenhängende Etikettierung und Kennzeichnung der Faserzusammensetzung von Textilerzeugnissen und zur Aufhebung der Richtlinie 73/44/EWG des Rates und der Richtlinien 96/73/EG und 2008/121/EG des Europäischen Parlaments und des Rates (ABl. L 272 vom 18.10.2011, S. 1), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, anzuwenden.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 15.02.2016
 
 (3) Dieses Gesetz ist nicht für die in Artikel 2 Absatz 3 und 4 der Verordnung (EU) Nr. 1007/2011 genannten Textilerzeugnisse anzuwenden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Die Begriffsbestimmungen des Artikels 3 Absatz 1 der Verordnung (EU) Nr. 1007/2011 sind anzuwenden.
 
@@ -21,13 +17,11 @@ Ausfertigungsdatum: 15.02.2016
 
 (3) Die für die Kontrolle der Außengrenzen zuständigen Behörden im Sinne dieses Gesetzes sind die Zollbehörden.
 
-
-## § 3 – Voraussetzungen für die Bereitstellung von Textilerzeugnissen auf dem Markt
+# § 3 – Voraussetzungen für die Bereitstellung von Textilerzeugnissen auf dem Markt
 
 Ein Hersteller, Einführer oder Händler darf ein Textilerzeugnis nur in Verkehr bringen oder auf dem Markt bereitstellen, wenn es entsprechend § 4 und den Anforderungen der Verordnung (EU) Nr. 1007/2011 etikettiert oder gekennzeichnet ist.
 
-
-## § 4 – Anforderungen an die Bezeichnung von Textilfasern und an die Etikettierung oder Kennzeichnung von Textilerzeugnissen
+# § 4 – Anforderungen an die Bezeichnung von Textilfasern und an die Etikettierung oder Kennzeichnung von Textilerzeugnissen
 
 (1) Textilerzeugnisse dürfen nur dann auf dem Markt bereitgestellt werden, wenn sie entsprechend den Artikeln 5, 7, 8 Absatz 1 und 3, Artikel 9 Absatz 1, Artikel 11 Absatz 1, den Artikeln 12, 13 und 14 Absatz 1 der Verordnung (EU) Nr. 1007/2011 in deutscher Sprache zur Angabe ihrer Faserzusammensetzung etikettiert oder gekennzeichnet sind.
 
@@ -43,15 +37,13 @@ Ein Hersteller, Einführer oder Händler darf ein Textilerzeugnis nur in Verkehr
 
 (7) Die Etikettierung oder die Kennzeichnung gemäß den Absätzen 1 und 3 bis 5 darf zusätzlich als Ergänzung auch in anderen Sprachen erfolgen.
 
-
-## § 5 – Aufbewahrung von Unterlagen
+# § 5 – Aufbewahrung von Unterlagen
 
 (1) Hersteller und Einführer haben Unterlagen über Tatsachen, auf deren Kenntnis die Etikettierung oder Kennzeichnung der Faserzusammensetzung beruht, zwei Kalenderjahre lang aufzubewahren. Die Frist beginnt mit Ablauf des Kalenderjahres, in welchem das letzte der Erzeugnisse, auf die sich die Unterlagen beziehen, vom Hersteller oder Einführer in den Verkehr gebracht worden ist.
 
 (2) Händler haben Unterlagen über Tatsachen, auf deren Kenntnis die Etikettierung oder Kennzeichnung der Faserzusammensetzung beruht, so lange aufzubewahren wie Erzeugnisse, auf die sich die Unterlagen beziehen, vom Händler auf dem Markt bereitgestellt werden.
 
-
-## § 6 – Zuständigkeiten und Zusammenarbeit
+# § 6 – Zuständigkeiten und Zusammenarbeit
 
 (1) Die zuständige oberste Landesbehörde oder die nach Landesrecht bestimmten Behörden (Marktüberwachungsbehörden) haben die Einhaltung dieses Gesetzes zu überwachen (Marktüberwachung), soweit dieses Gesetz oder andere bundesrechtliche Regelungen keine anderen Festlegungen treffen. Satz 1 ist auch für die Verordnung (EU) Nr. 1007/2011 anzuwenden, soweit die Überwachung ihrer Durchführung den Mitgliedstaaten obliegt. Unbeschadet der gesetzlichen Vorschriften über die örtliche Zuständigkeit darf auch die Behörde, in deren Bezirk der Anlass für die Amtshandlung hervortritt, die für ihre Aufgabenerfüllung erforderlichen Unterlagen und Informationen über Produkte nach den Vorschriften des § 11 Absatz 3 anfordern.
 
@@ -59,8 +51,7 @@ Ein Hersteller, Einführer oder Händler darf ein Textilerzeugnis nur in Verkehr
 
 (3) Die für die Kontrolle der Außengrenzen zuständigen Behörden und die Marktüberwachungsbehörden schützen im Rahmen des geltenden Rechts Betriebsgeheimnisse und personenbezogene Daten.
 
-
-## § 7 – Marktüberwachung
+# § 7 – Marktüberwachung
 
 (1) Die zuständigen Behörden haben zu überwachen, dass
 
@@ -78,15 +69,13 @@ Ein Hersteller, Einführer oder Händler darf ein Textilerzeugnis nur in Verkehr
 
 (5) Die Länder haben die Marktüberwachungsprogramme nach Absatz 3 der Öffentlichkeit in nicht personenbezogener Form auf, in der Regel, elektronischem Wege zur Verfügung zu stellen.
 
-
-## § 8 – Berichtspflichten
+# § 8 – Berichtspflichten
 
 (1) Die zuständigen obersten Landesbehörden haben mindestens alle vier Jahre in nicht personenbezogener Form über die ergriffenen Vollzugsmaßnahmen und Tätigkeiten zur Durchsetzung der in diesem Gesetz oder in der Verordnung (EU) Nr. 1007/2011 festgelegten Anforderungen dem Bundesministerium für Wirtschaft und Energie schriftlich oder elektronisch zu berichten. Die Berichterstattung der Länder erfolgt in der Weise, dass die Bundesregierung der Pflicht zur Berichterstattung gemäß Artikel 18 Absatz 6 der Verordnung (EG) Nr. 765/2008 gegenüber den anderen Mitgliedstaaten und der Kommission vollständig und fristgerecht nachkommen kann.
 
 (2) Die zuständigen obersten Landesbehörden haben regelmäßig die Funktionsweise der Marktüberwachungstätigkeiten zu überprüfen und hierüber in nicht personenbezogener Form das Bundesministerium für Wirtschaft und Energie schriftlich oder elektronisch zu informieren.
 
-
-## § 9 – Marktüberwachungsmaßnahmen
+# § 9 – Marktüberwachungsmaßnahmen
 
 (1) Die Marktüberwachungsbehörden haben anhand von Stichproben zu kontrollieren, ob
 
@@ -126,8 +115,7 @@ Die Marktüberwachungsbehörde hat eine Maßnahme nach den Sätzen 1 und 2 zu wi
 
 (6) Die Marktüberwachungsbehörden haben sich gegenseitig bei Marktüberwachungsmaßnahmen nach den Absätzen 1 bis 5 zu informieren und zu unterstützen.
 
-
-## § 10 – Adressaten der Marktüberwachungsmaßnahmen, Anhörung
+# § 10 – Adressaten der Marktüberwachungsmaßnahmen, Anhörung
 
 (1) Die Maßnahmen der Marktüberwachungsbehörden im Sinne des § 9 sind gegen den jeweils betroffenen Wirtschaftsakteur zu richten.
 
@@ -135,8 +123,7 @@ Die Marktüberwachungsbehörde hat eine Maßnahme nach den Sätzen 1 und 2 zu wi
 
 (3) Vor Erlass einer Maßnahme nach § 9 ist der betroffene Wirtschaftsakteur gemäß § 28 des Verwaltungsverfahrensgesetzes mit der Maßgabe anzuhören, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass der Wirtschaftsakteur gehört wurde, ist ihm unverzüglich Gelegenheit zu geben, sich zu äußern. Die Maßnahme ist daraufhin umgehend zu überprüfen.
 
-
-## § 11 – Betretensrechte, Befugnisse und Duldungspflichten
+# § 11 – Betretensrechte, Befugnisse und Duldungspflichten
 
 (1) Die Marktüberwachungsbehörden und ihre Beauftragten sind, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, befugt, zu den üblichen Betriebs- und Geschäftszeiten Geschäftsräume oder Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit Textilerzeugnisse im Anwendungsbereich dieses Gesetzes
 
@@ -154,8 +141,7 @@ Die Marktüberwachungsbehörde hat eine Maßnahme nach den Sätzen 1 und 2 zu wi
 
 (4) Der betroffene Wirtschaftsakteur hat die Maßnahmen nach den Absätzen 1 bis 3 zu dulden und die Marktüberwachungsbehörden sowie deren Beauftragte zu unterstützen. Er ist verpflichtet, den Marktüberwachungsbehörden auf Verlangen die Auskünfte zu erteilen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Er kann die Auskunft zu Fragen verweigern, deren Beantwortung ihn oder einen seiner in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781), die zuletzt durch Artikel 6 des Gesetzes vom 20. November 2015 (BGBl. I S. 2018) geändert worden ist, bezeichneten Angehörigen der Gefahr aussetzen würde, wegen einer Straftat oder Ordnungswidrigkeit verfolgt zu werden. Er ist über sein Recht zur Auskunftsverweigerung zu belehren.
 
-
-## § 12 – Bußgeldvorschriften
+# § 12 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

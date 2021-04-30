@@ -1,10 +1,7 @@
-# [WSVZustNeuOV] Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrtsdirektionen an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes
-
-Ausfertigungsdatum: 19.12.1975
-
+% Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrtsdirektionen an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes
+% Ausfertigungsdatum: 19.12.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -36,31 +33,26 @@ und des Artikels 2 des Gesetzes zu dem Vertrag vom 26. Mai 1972 zwischen der Bun
 
 wird - hinsichtlich Artikel 1 Nr. 12 im Einvernehmen mit dem Bundesminister der Finanzen und hinsichtlich Artikel 1 Nr. 20 Buchstabe b nach Anhörung der Verbände der Binnenschiffahrt - verordnet:
 
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
+# Art 2
 
 Die von den Wasser- und Schiffahrtsdirektionen Aurich, Bremen, Hamburg, Kiel, Münster, Duisburg, Hannover, Mainz, Würzburg, Regensburg, Stuttgart und Freiburg auf Grund von Rechtsverordnungen erlassenen Verordnungen und Anordnungen vorübergehender Art bleiben in Kraft, bis ihre Geltung durch Zeitablauf endet oder bis die nunmehr zuständige Wasser- und Schiffahrtsdirektion sie aufhebt.
 
-
-## Art 3
+# Art 3
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 21 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt, § 61 des Gesetzes über das Seelotswesen, Artikel 14 des Gesetzes zu den Internationalen Übereinkommen vom 29. November 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden und vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden, § 58 des Bundeswasserstraßengesetzes, § 11 Abs. 2 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt, § 44 Abs. 2 des Gesetzes über den gewerblichen Binnenschiffsverkehr und Artikel 3 des Gesetzes zu dem Vertrag vom 26. Mai 1972 zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über Fragen des Verkehrs auch im Land Berlin.
 
 Art. 3 Kursivdruck: Jetzt § 50 SeelotswesenG - SeelotG - 9515-1
 
-
-## Art 4
+# Art 4
 
 (1) Diese Verordnung tritt am 1. Januar 1976 in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

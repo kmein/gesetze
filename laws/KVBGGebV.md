@@ -1,20 +1,15 @@
-# [KVBGGebV] Verordnung über die Erhebung von Gebühren und Auslagen nach dem Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung  (Kohleverstromungsbeendigungsgesetz-Gebührenverordnung - KVBGGebV)
-
-Ausfertigungsdatum: 18.12.2020
-
+% Verordnung über die Erhebung von Gebühren und Auslagen nach dem Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung  (Kohleverstromungsbeendigungsgesetz-Gebührenverordnung - KVBGGebV)
+% Ausfertigungsdatum: 18.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Erhebung von Gebühren und Auslagen
+# § 1 – Erhebung von Gebühren und Auslagen
 
 Die Bundesnetzagentur erhebt für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach dem Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S. 1818) Gebühren und Auslagen.
 
-
-## § 2 – Höhe der Gebühren und Auslagen
+# § 2 – Höhe der Gebühren und Auslagen
 
 (1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis der Anlage.
 
@@ -22,18 +17,15 @@ Die Bundesnetzagentur erhebt für individuell zurechenbare öffentliche Leistung
 
 (3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
 
-
-## § 3 – Rahmengebühren
+# § 3 – Rahmengebühren
 
 Sofern das Gebühren- und Auslagenverzeichnis eine Rahmengebühr vorsieht, sind die Gebühren für individuell zurechenbare öffentliche Leistungen innerhalb der festgelegten Rahmensätze so zu bestimmen, dass sie die mit der individuell zurechenbaren öffentlichen Leistung verbundenen Kosten aller an der Leistung Beteiligten decken, soweit die Kosten nicht als Auslagen gesondert abgerechnet werden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
+# Anlage – (zu § 2 Absatz 1)Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 2020, 3045)
 

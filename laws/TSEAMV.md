@@ -1,10 +1,7 @@
-# [TSEAMV] Verordnung zum Verbot der Verwendung bestimmter Stoffe zur Vermeidung des Risikos der Übertragung transmissibler spongiformer Enzephalopathien durch Arzneimittel  (Arzneimittel-TSE-Verordnung)
-
-Ausfertigungsdatum: 09.05.2001
-
+% Verordnung zum Verbot der Verwendung bestimmter Stoffe zur Vermeidung des Risikos der Übertragung transmissibler spongiformer Enzephalopathien durch Arzneimittel  (Arzneimittel-TSE-Verordnung)
+% Ausfertigungsdatum: 09.05.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -26,8 +23,7 @@ des § 6 Abs. 1 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 1
 \-  
 des § 54 Abs. 1 und 2 Nr. 1 bis 3 in Verbindung mit § 83 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705), den Organisationserlassen vom 27. Oktober 1998 (BGBl. I S. 3288) und vom 22. Januar 2001 (BGBl. I S. 127) im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Gesundheit:
 
-
-## § 1 – Verbot der Verwendung bestimmter Stoffe, bestimmter Zubereitungen aus Stoffen oder bestimmter Gegenstände
+# § 1 – Verbot der Verwendung bestimmter Stoffe, bestimmter Zubereitungen aus Stoffen oder bestimmter Gegenstände
 
 (1) Es ist verboten, Stoffe, Zubereitungen aus Stoffen oder Gegenstände, die von im Vereinigten Königreich Großbritannien und Nordirland oder von in der Portugiesischen Republik getöteten Rindern stammen, bei der Herstellung von Arzneimitteln im Sinne des § 2 Abs. 1 und 2 Nr. 1 des Arzneimittelgesetzes, die zum Zwecke der Abgabe an andere erfolgt, zu verwenden, soweit nicht in Absatz 5 Abweichendes bestimmt ist.
 
@@ -60,13 +56,11 @@ b) mit Begleitpapieren versehen sind, durch die bestätigt wird, dass sie im Fal
 
 c) soweit die Hilfsstoffe oder Produktionshilfsstoffe von im Vereinigten Königreich Großbritannien und Nordirland oder in der Portugiesischen Republik getöteten Tieren stammen, sie mit einer amtstierärztlichen Bescheinigung versehen sind, in der angegeben wird, wie oft amtliche Überprüfungen im Herstellungsbetrieb durchgeführt worden sind.
 
-
-## § 2 – Erklärung für das Verbringen aus Mitgliedstaaten der Europäischen Union und die Einfuhr aus Drittstaaten
+# § 2 – Erklärung für das Verbringen aus Mitgliedstaaten der Europäischen Union und die Einfuhr aus Drittstaaten
 
 Für Fertigarzneimittel, die in den Geltungsbereich dieser Verordnung verbracht werden sollen, hat der für das Verbringen Verantwortliche eine von ihm unterzeichnete Erklärung mit folgendem Wortlaut bereitzuhalten und der zuständigen Behörde auf deren Verlangen unverzüglich vorzulegen: "Das Erzeugnis enthält weder spezifiziertes Risikomaterial im Sinne von § 1 Abs. 2 der Arzneimittel-TSE-Verordnung, noch ist es unter Verwendung von solchem Material hergestellt worden." Dies gilt nicht für Fertigarzneimittel, die keine arzneilich wirksamen Bestandteile tierischer Herkunft enthalten und die, sofern sie unter Verwendung von Hilfsstoffen oder Produktionshilfsstoffen im Sinne von § 1 Abs. 1 und 2 hergestellt worden sind, die Voraussetzungen von § 1 Abs. 5 erfüllen.
 
-
-## § 3 – Straftaten und Ordnungswidrigkeiten
+# § 3 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 4 ein Arzneimittel in den Verkehr bringt.
 
@@ -76,17 +70,14 @@ Für Fertigarzneimittel, die in den Geltungsbereich dieser Verordnung verbracht 
 
 (4) Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt, wer entgegen § 2 Satz 1 eine Erklärung nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 4 – Übergangsregelung
+# § 4 – Übergangsregelung
 
 § 1 Abs. 2 ist für Volumenersatzmittel erst ab dem 14. Mai 2002 anzuwenden.
 
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 15. Mai 2001 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

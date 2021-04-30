@@ -1,15 +1,11 @@
-# [SymbolVO] Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle  (Akkreditierungssymbolverordnung - SymbolVO)
-
-Ausfertigungsdatum: 15.12.2009
-
+% Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle  (Akkreditierungssymbolverordnung - SymbolVO)
+% Ausfertigungsdatum: 15.12.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Akkreditierungssymbol
+# § 1 – Akkreditierungssymbol
 
 (1) Das Akkreditierungssymbol besteht aus dem Zeichen der Akkreditierungsstelle in Kombination mit der individuellen Registrierungsnummer der verwendenden Konformitätsbewertungsstelle. Es ergibt sich folgendes Schriftbild:
 
@@ -22,18 +18,15 @@ Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom 31. Juli 2009
 
 (3) Die individuelle Registrierungsnummer ist von der verwendenden Konformitätsbewertungsstelle unterhalb des ausgeschriebenen Namens der Akkreditierungsstelle anzugeben.
 
-
-## § 2 – Schutz des Akkreditierungssymbols
+# § 2 – Schutz des Akkreditierungssymbols
 
 Das Zeichen der Akkreditierungsstelle wird als Marke beim Deutschen Patent- und Markenamt angemeldet.
 
-
-## § 3 – Gestattung der Verwendung des Akkreditierungssymbols
+# § 3 – Gestattung der Verwendung des Akkreditierungssymbols
 
 Die Akkreditierungsstelle gestattet einer Konformitätsbewertungsstelle auf Antrag, das auf ihre Akkreditierung hinweisende Akkreditierungssymbol zu verwenden.
 
-
-## § 4 – Verwendung des Akkreditierungssymbols
+# § 4 – Verwendung des Akkreditierungssymbols
 
 (1) Das Akkreditierungssymbol darf als Hinweis auf die Akkreditierung in Prüfberichten, Kalibrierscheinen, Zertifikaten und Inspektionsberichten, die im Rahmen des Akkreditierungsbereiches ausgestellt werden, verwendet werden. Eine darüber hinaus gehende Verwendung des Akkreditierungssymbols kann auf Antrag von der Akkreditierungsstelle genehmigt werden, soweit diese nicht dem Ruf der Akkreditierungsstelle schadet.
 
@@ -43,7 +36,6 @@ Die Akkreditierungsstelle gestattet einer Konformitätsbewertungsstelle auf Antr
 
 (4) Die Konformitätsbewertungsstellen sind verantwortlich für die korrekte Verwendung des Akkreditierungssymbols. Bei Missbrauch des Akkreditierungssymbols kann die Akkreditierungsstelle die Gestattung der Verwendung des Akkreditierungssymbols widerrufen.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.

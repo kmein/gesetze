@@ -1,11 +1,8 @@
-# [ZFdG] Gesetz über das Zollkriminalamt und die Zollfahndungsämter  (Zollfahndungsdienstgesetz - ZFdG)
-
-Ausfertigungsdatum: 30.03.2021
-
+% Gesetz über das Zollkriminalamt und die Zollfahndungsämter  (Zollfahndungsdienstgesetz - ZFdG)
+% Ausfertigungsdatum: 30.03.2021
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
  
 
  
@@ -167,19 +164,16 @@ Ausfertigungsdatum: 30.03.2021
  
 
  
-
 
-## § 1 – Zollfahndungsdienst
+# § 1 – Zollfahndungsdienst
 
 Der Zollfahndungsdienst besteht aus dem Zollkriminalamt und den Zollfahndungsämtern. Das Zollkriminalamt und die Zollfahndungsämter nehmen die ihnen durch Rechtsvorschriften zugewiesenen Aufgaben und Befugnisse als Behörden des Zollfahndungsdienstes wahr.
 
-
-## § 2 – Zentralstelle
+# § 2 – Zentralstelle
 
 Das Zollkriminalamt ist die Zentralstelle für den Zollfahndungsdienst und darüber hinaus eine der Zentralstellen der Zollverwaltung für das Auskunfts- und Nachrichtenwesen.
 
-
-## § 3 – Aufgaben des Zollkriminalamtes als Zentralstelle
+# § 3 – Aufgaben des Zollkriminalamtes als Zentralstelle
 
 (1) Das Zollkriminalamt unterstützt als Zentralstelle die Behörden der Zollverwaltung
 
@@ -249,8 +243,7 @@ soweit das Bundesministerium der Finanzen die Aufgaben nach den Nummern 1 und 2 
 
 (12) Das Zollkriminalamt kann auf Ersuchen von Finanzbehörden, Staatsanwaltschaften und Gerichten kriminaltechnische Gutachten erstellen.
 
-
-## § 4 – Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt
+# § 4 – Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch das Zollkriminalamt
 
 (1) Das Zollkriminalamt kann die Aufgaben der Zollfahndungsämter auf dem Gebiet der Strafverfolgung wahrnehmen und die Ermittlungen selbst durchführen, wenn dies in Anbetracht der Bedeutung des Sachverhaltes geboten erscheint, ein zuständiges Zollfahndungsamt darum ersucht oder der Generalbundesanwalt beim Bundesgerichtshof einen Auftrag erteilt.
 
@@ -272,8 +265,7 @@ soweit das Bundesministerium der Finanzen die Aufgaben nach den Nummern 1 und 2 
 
 (4) Das Zollkriminalamt wirkt bei der Bekämpfung der international organisierten Geldwäsche nach den §§ 1, 5, 12a bis 12c und 31a des Zollverwaltungsgesetzes mit.
 
-
-## § 5 – Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch die Zollfahndungsämter
+# § 5 – Verhütung und Verfolgung von Straftaten und Ordnungswidrigkeiten durch die Zollfahndungsämter
 
 (1) Die Zollfahndungsämter wirken im Zuständigkeitsbereich der Zollverwaltung bei der Überwachung des Außenwirtschaftsverkehrs und des grenzüberschreitenden Warenverkehrs mit.
 
@@ -287,15 +279,13 @@ soweit das Bundesministerium der Finanzen die Aufgaben nach den Nummern 1 und 2 
 
 (4) Die Zollfahndungsämter haben dem Zollkriminalamt Informationen, die zur Erfüllung seiner Aufgaben erforderlich sind, bereitzustellen.
 
-
-## § 6 – Behördlicher Eigenschutz
+# § 6 – Behördlicher Eigenschutz
 
 (1) Den Behörden des Zollfahndungsdienstes obliegt die Sicherung ihrer Liegenschaften, sonstigen Einrichtungen und eigenen Veranstaltungen gegen Gefahren, welche die Erfüllung ihrer Aufgaben beeinträchtigen. Die Sicherung beschränkt sich auf die in Satz 1 bezeichneten Liegenschaften und Einrichtungen sowie auf die Grundstücke, auf denen diese Liegenschaften und Einrichtungen untergebracht sind oder Veranstaltungen stattfinden.
 
 (2) Den Behörden des Zollfahndungsdienstes obliegt die Sicherung ihres Dienstbetriebs gegen Gefahren, die von Personen ausgehen können, die für sie tätig werden sollen.
 
-
-## § 7 – Sicherung und Schutz von eingesetzten Bediensteten, Dritten und Vermögenswerten; Zeugenschutz
+# § 7 – Sicherung und Schutz von eingesetzten Bediensteten, Dritten und Vermögenswerten; Zeugenschutz
 
 (1) Den Behörden des Zollfahndungsdienstes obliegt im Rahmen ihrer Aufgabenwahrnehmung nach § 3 Absatz 1 Nummer 1 und 2, Absatz 5 und 6 Nummer 3, den §§ 4 und 5 Absatz 1 bis 3 sowie im Falle des § 6 die Sicherung von eingesetzten Bediensteten, der Schutz Dritter sowie der Schutz wesentlicher Vermögenswerte, soweit
 
@@ -305,8 +295,7 @@ soweit das Bundesministerium der Finanzen die Aufgaben nach den Nummern 1 und 2 
 
 (2) Dem Zollkriminalamt obliegt in Fällen, in denen es nach § 4 Absatz 1 selbst, ein Zollfahndungsamt oder eine andere Dienststelle der Zollverwaltung Ermittlungen durchführt, der Schutz von Personen, deren Aussage zur Erforschung der Wahrheit von Bedeutung ist oder war. Gleiches gilt für deren Angehörige und sonstige ihnen nahe stehende Personen. In Einzelfällen können Zeugenschutzmaßnahmen im Einvernehmen zwischen dem Zollkriminalamt und den Polizeibehörden durch Polizeibeamte dieser Behörden durchgeführt werden. Die Verpflichtung der Polizeibehörden, die zur Abwehr von Gefahren für die in den Sätzen 1 und 2 genannten Personen die erforderlichen unaufschiebbaren Maßnahmen zu treffen haben, bleibt unberührt.
 
-
-## § 8 – Allgemeine Datenverarbeitung
+# § 8 – Allgemeine Datenverarbeitung
 
 (1) Das Zollkriminalamt kann personenbezogene Daten verarbeiten, soweit dies zur Erfüllung seiner Aufgaben als Zentralstelle erforderlich ist und dieses Gesetz oder andere Rechtsvorschriften keine zusätzlichen Voraussetzungen vorsehen.
 
@@ -322,8 +311,7 @@ wie es die jeweilige Erhebungsvorschrift erlaubt.
 
 (4) Soweit Regelungen der Strafprozessordnung auf die Verarbeitung personenbezogener Daten anzuwenden sind, gehen diese den Vorschriften dieses Unterabschnittes vor.
 
-
-## § 9 – Befragung und Auskunftspflicht
+# § 9 – Befragung und Auskunftspflicht
 
 (1) Das Zollkriminalamt kann eine Person befragen, wenn Tatsachen die Annahme rechtfertigen, dass die Person sachdienliche Angaben für die Erfüllung der dem Zollkriminalamt nach § 3 Absatz 1, 2, 5 und 7 obliegenden Aufgaben machen kann.
 
@@ -349,8 +337,7 @@ Im Falle des Satzes 2 Nummer 1 gilt § 20 Absatz 1 Satz 2 des Bundespolizeigeset
 
 (5) Die Absätze 1 bis 4 gelten für Befragungen von juristischen Personen, Gesellschaften und anderen Personenvereinigungen des privaten Rechts entsprechend.
 
-
-## § 10 – Bestandsdatenauskunft
+# § 10 – Bestandsdatenauskunft
 
 (1) Das Zollkriminalamt kann, soweit es als Zentralstelle
 
@@ -406,8 +393,7 @@ Die Auskunft nach Absatz 1 anhand einer zu einem bestimmten Zeitpunkt zugewiesen
 
 (5) Der aufgrund eines Auskunftsverlangens Verpflichtete hat die zur Auskunftserteilung erforderlichen Daten unverzüglich und vollständig zu übermitteln.
 
-
-## § 11 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
+# § 11 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11, personenbezogene Daten weiterverarbeiten von
 
@@ -461,8 +447,7 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 3. die Daten nach § 57 erhoben wurden.
 
-
-## § 12 – Daten zu anderen Personen
+# § 12 – Daten zu anderen Personen
 
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist, kann das Zollkriminalamt zur Erfüllung seiner Aufgaben nach § 3 Absatz 1, 2 und 4, jeweils auch in Verbindung mit § 3 Absatz 11, personenbezogene Daten von denjenigen Personen weiterverarbeiten, bei denen tatsächliche Anhaltspunkte dafür vorliegen, dass
 
@@ -478,8 +463,7 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 (4) § 11 Absatz 4 gilt entsprechend.
 
-
-## § 13 – Daten zur Beobachtung bestimmter Verkehre
+# § 13 – Daten zur Beobachtung bestimmter Verkehre
 
 Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist, personenbezogene Daten von Personen, die am innerstaatlichen, grenzüberschreitenden und internationalen Waren-, Kapital- und Dienstleistungsverkehr teilnehmen, verarbeiten. Das Zollkriminalamt kann hierzu verarbeiten:
 
@@ -491,8 +475,7 @@ Das Zollkriminalamt kann, soweit es zur Erfüllung seiner Aufgaben nach § 3 Abs
 
 Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollverwaltung gespeichert sind, ist, mit Ausnahme von personenbezogenen Daten zur Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung, zulässig, soweit die Verarbeitung zur Erfüllung der Aufgaben des Zollkriminalamtes nach § 3 Absatz 1 und 2, jeweils auch in Verbindung mit § 3 Absatz 11, erforderlich ist. § 88a der Abgabenordnung und § 67b des Zehnten Buches Sozialgesetzbuch bleiben unberührt.
 
-
-## § 14 – Daten für Zwecke der Ausschreibung
+# § 14 – Daten für Zwecke der Ausschreibung
 
 (1) Das Zollkriminalamt kann personenbezogene Daten für Zwecke der Ausschreibung der betroffenen Person zur zollrechtlichen Überwachung verarbeiten, wenn tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass die betroffene Person im Rahmen des innerstaatlichen, grenzüberschreitenden oder internationalen Waren-, Kapital- oder Dienstleistungsverkehrs Zuwiderhandlungen im Zuständigkeitsbereich der Zollverwaltung von erheblicher Bedeutung begehen wird.
 
@@ -500,8 +483,7 @@ Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollv
 
 (3) Hat nicht das Zollkriminalamt die Ausschreibung veranlasst, so trägt die die Ausschreibung veranlassende Stelle der Zollverwaltung die Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der Ausschreibung zu bezeichnen.
 
-
-## § 15 – Zollfahndungsinformationssystem
+# § 15 – Zollfahndungsinformationssystem
 
 (1) Das Zollkriminalamt ist im Rahmen seiner Aufgaben nach § 3 Absatz 1 und 3 Zentralstelle für den elektronischen Datenverbund zwischen den Dienststellen, die am Zollfahndungsinformationssystem angeschlossen sind. Das Zollkriminalamt bestimmt mit Zustimmung des Bundesministeriums der Finanzen die in das Zollfahndungsinformationssystem einzubeziehenden Dateisysteme, die personenbezogene Daten enthalten.
 
@@ -519,8 +501,7 @@ Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollv
 
 (4) Nur die Stelle, die Daten zu einer Person eingegeben hat, ist befugt, diese zu verändern, zu berichtigen oder zu löschen. Hat ein Teilnehmer des Zollfahndungsinformationssystems Anhaltspunkte dafür, dass Daten unrichtig sind, teilt er dies umgehend der eingebenden Stelle mit, die verpflichtet ist, diese Mitteilung unverzüglich zu prüfen und erforderlichenfalls die Daten unverzüglich zu verändern, zu berichtigen oder zu löschen. Sind Daten zu einer Person gespeichert, darf jeder Teilnehmer des Zollfahndungsinformationssystems weitere Daten ergänzend erfassen.
 
-
-## § 16 – Unterrichtung der Zentralstelle
+# § 16 – Unterrichtung der Zentralstelle
 
 (1) Die Stellen, die zur Teilnahme am Zollfahndungsinformationssystem berechtigt sind, übermitteln dem Zollkriminalamt die Daten, die zur Erfüllung seiner Aufgaben als Zentralstelle nach § 3 Absatz 3 für dieses Informationssystem erforderlich sind.
 
@@ -528,8 +509,7 @@ Die Verarbeitung personenbezogener Daten, die in anderen Dateisystemen der Zollv
 
 (3) Die Verantwortung für die Zulässigkeit der Übermittlung nach den Absätzen 1 und 2 trägt die jeweils übermittelnde Stelle.
 
-
-## § 17 – Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren
+# § 17 – Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren
 
 (1) Das Zollkriminalamt kann von den Mitarbeiterinnen und Mitarbeitern der Zollverwaltung, die Umgang mit Spurenmaterial haben oder die Bereiche in den Liegenschaften und Einrichtungen der Zollverwaltung betreten müssen, in denen mit Spurenmaterial umgegangen oder dieses gelagert wird,
 
@@ -545,15 +525,13 @@ Diese Untersuchungen dienen dazu, DNA-Trugspuren zu erkennen und festzustellen, 
 
 (3) Die nach den Absätzen 1 und 2 erhobenen Daten sind zu pseudonymisieren und darüber hinaus in einer Referenzdatei gesondert zu speichern. Eine Verarbeitung dieser Daten zu anderen als den in den Absätzen 1 bis 2 genannten Zwecken ist unzulässig. Die DNA-Identifizierungsmuster sind zu löschen, wenn sie für die genannten Zwecke nicht mehr erforderlich sind. Die Löschung hat spätestens drei Jahre nach dem letzten Umgang der betreffenden Person mit Spurenmaterial oder dem letzten Zutritt zu einem in Absatz 1 Satz 1 genannten Bereich zu erfolgen. Betroffene Personen sind schriftlich über den Zweck der Verarbeitung sowie über die Löschung der erhobenen Daten zu informieren.
 
-
-## § 18 – Abgleich personenbezogener Daten
+# § 18 – Abgleich personenbezogener Daten
 
 (1) Das Zollkriminalamt kann im Rahmen seiner Aufgaben als Zentralstelle personenbezogene Daten mit dem Inhalt von Dateisystemen, die es zur Erfüllung seiner Aufgaben führt oder für die es zur Erfüllung dieser Aufgaben die Berechtigung zum Abruf hat, abgleichen, wenn Grund zu der Annahme besteht, dass dies zur Erfüllung einer seiner Aufgaben erforderlich ist; hierzu gehört auch der Datenbestand der Behörden des Zollfahndungsdienstes.
 
 (2) Rechtsvorschriften über den Datenabgleich in anderen Fällen bleiben unberührt.
 
-
-## § 19 – Verarbeitung personenbezogener Daten für die wissenschaftliche Forschung
+# § 19 – Verarbeitung personenbezogener Daten für die wissenschaftliche Forschung
 
 (1) Das Zollkriminalamt kann im Rahmen seiner Aufgaben als Zentralstelle bei ihm vorhandene personenbezogene Daten verarbeiten, soweit
 
@@ -583,8 +561,7 @@ Diese Untersuchungen dienen dazu, DNA-Trugspuren zu erkennen und festzustellen, 
 
 (8) Wer nach den Absätzen 2 bis 4 personenbezogene Daten erhalten hat, darf diese nur veröffentlichen, wenn dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist und das Zollkriminalamt der Veröffentlichung zugestimmt hat.
 
-
-## § 20 – Verarbeitung von Daten zu sonstigen Zwecken
+# § 20 – Verarbeitung von Daten zu sonstigen Zwecken
 
 (1) Das Zollkriminalamt kann im Rahmen seiner Aufgaben als Zentralstelle die im Zollfahndungsdienst vorhandenen personenbezogenen Daten zu Fortbildungszwecken oder zu statistischen Zwecken verarbeiten, soweit eine Verarbeitung anonymisierter Daten nicht möglich ist. Die Daten sind zum frühestmöglichen Zeitpunkt zu anonymisieren.
 
@@ -592,8 +569,7 @@ Diese Untersuchungen dienen dazu, DNA-Trugspuren zu erkennen und festzustellen, 
 
 (3) Die Verarbeitung personenbezogener Daten, die im Zollinformationssystem nach dem Beschluss 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom 10.12.2009, S. 20; L 234 vom 4.9.2010, S. 17) oder nach Titel V der Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung (ABl. L 82 vom 22.3.1997, S. 1; L 123 vom 15.5.1997, S. 25; L 121 vom 14.5.2015, S. 28), die zuletzt durch die Verordnung (EU) 2015/1525 (ABl. L 243 vom 18.9.2015, S. 1) geändert worden ist, in der jeweils geltenden Fassung, gespeichert sind, ist nur nach Maßgabe dieser Rechtsvorschriften zulässig.
 
-
-## § 21 – Datenübermittlung im innerstaatlichen Bereich
+# § 21 – Datenübermittlung im innerstaatlichen Bereich
 
 (1) Das Zollkriminalamt kann personenbezogene Daten an andere Dienststellen der Zollverwaltung übermitteln, soweit dies zur Erfüllung seiner Aufgaben oder zur Erfüllung der Aufgaben des Empfängers erforderlich ist.
 
@@ -641,8 +617,7 @@ und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 (11) Sind mit personenbezogenen Daten, die nach den Absätzen 1 bis 4 übermittelt werden können, weitere personenbezogene Daten der betroffenen Person oder eines Dritten in Akten so verbunden, dass eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an der Geheimhaltung offensichtlich überwiegen; eine Verwendung dieser Daten ist unzulässig.
 
-
-## § 22 – Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union
+# § 22 – Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union
 
 (1) Für die Übermittlung von personenbezogenen Daten an
 
@@ -654,8 +629,7 @@ gilt § 21 Absatz 2 bis 11 entsprechend. Die Verantwortung für die Zulässigkei
 
 (2) Absatz 1 ist entsprechend anzuwenden auf die Übermittlung von personenbezogenen Daten an Polizeibehörden oder sonstige für die Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen eines Schengenassoziierten Staates (§ 91 Absatz 3 des Gesetzes über die internationale Rechtshilfe in Strafsachen).
 
-
-## § 23 – Datenübermittlung im internationalen Bereich
+# § 23 – Datenübermittlung im internationalen Bereich
 
 (1) Das Zollkriminalamt kann unter Beachtung der §§ 78 bis 80 des Bundesdatenschutzgesetzes an Zoll-, Polizei- und Justizbehörden sowie an sonstige für die Verhütung oder Verfolgung von Straftaten zuständige öffentliche Stellen in anderen als in den in § 22 genannten Staaten sowie an andere als die in § 22 genannten zwischen- und überstaatlichen Stellen, die mit Aufgaben der Verhütung oder Verfolgung von Straftaten befasst sind, personenbezogene Daten übermitteln, soweit dies erforderlich ist
 
@@ -681,8 +655,7 @@ Entsprechendes gilt, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass Str
 
 (5) Das Zollkriminalamt trägt die Verantwortung für die Zulässigkeit der Übermittlung personenbezogener Daten; es hat die Übermittlung und den Anlass der Übermittlung aufzuzeichnen. Das Zollkriminalamt hat die Stelle, an die die personenbezogenen Daten übermittelt werden, darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind. Ferner hat es der Stelle den beim Zollkriminalamt vorgesehenen Löschungszeitpunkt mitzuteilen.
 
-
-## § 24 – Übermittlungsverbote und Verweigerungsgründe
+# § 24 – Übermittlungsverbote und Verweigerungsgründe
 
 (1) Die Übermittlung personenbezogener Daten nach diesem Unterabschnitt unterbleibt, wenn
 
@@ -704,15 +677,13 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an Staatsanwaltschaften und Geri
 
 5. tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung der Daten zu den in der Charta der Grundrechte der Europäischen Union enthaltenen Grundsätzen in Widerspruch stünde, insbesondere dadurch, dass durch die Verarbeitung der übermittelten Daten im Empfängerstaat Verletzungen von elementaren rechtsstaatlichen Grundsätzen oder Menschenrechtsverletzungen drohen.
 
-
-## § 25 – Weisungsrecht
+# § 25 – Weisungsrecht
 
 (1) Das Zollkriminalamt kann den Zollfahndungsämtern zur Erfüllung deren Aufgaben fachliche Weisungen erteilen.
 
 (2) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 3 Absatz 5 ermittlungsführenden Dienststellen der Zollverwaltung außerhalb des Zollfahndungsdienstes, soweit diese die Ermittlungen nicht selbständig im Sinne des § 386 Absatz 2 der Abgabenordnung führen, fachliche Weisungen erteilen.
 
-
-## § 26 – Allgemeine Datenverarbeitung
+# § 26 – Allgemeine Datenverarbeitung
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene Daten verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach den §§ 4 bis 7 erforderlich ist und dieses Gesetz oder andere Rechtsvorschriften keine zusätzlichen Voraussetzungen vorsehen.
 
@@ -730,8 +701,7 @@ wie es die jeweilige Erhebungsvorschrift erlaubt.
 
 (5) Soweit Regelungen der Strafprozessordnung auf die Verarbeitung personenbezogener Daten anzuwenden sind, gehen diese den Vorschriften dieses Unterabschnittes vor. § 35 bleibt unberührt.
 
-
-## § 27 – Verarbeitungsbeschränkungen
+# § 27 – Verarbeitungsbeschränkungen
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen personenbezogene Daten, die sie durch eine Maßnahme nach § 10 Absatz 2 und 3, § 30 Absatz 2 und 3, den §§ 47, 62, 72, 77 oder § 78 erhoben haben, zu anderen als in der jeweiligen Erhebungsvorschrift genannten Zwecken weiterverarbeiten, wenn
 
@@ -755,8 +725,7 @@ Besondere gesetzliche Bestimmungen, die die Weiterverarbeitung von personenbezog
 
 (3) Bei der Verarbeitung von personenbezogenen Daten stellen die Behörden des Zollfahndungsdienstes durch technische und organisatorische Maßnahmen sicher, dass Absatz 1 beachtet wird.
 
-
-## § 28 – Kennzeichnung
+# § 28 – Kennzeichnung
 
 (1) Personenbezogene Daten, die durch eine Maßnahme nach § 10 Absatz 2 und 3, § 30 Absatz 2 bis 4, den §§ 47, 62, 72, 77 oder § 78 erhoben worden sind, sind entsprechend zu kennzeichnen.
 
@@ -764,13 +733,11 @@ Besondere gesetzliche Bestimmungen, die die Weiterverarbeitung von personenbezog
 
 (3) Nach einer Übermittlung an eine andere Stelle ist die Kennzeichnung durch diese aufrechtzuerhalten.
 
-
-## § 29 – Befragung und Auskunftspflicht
+# § 29 – Befragung und Auskunftspflicht
 
 Bei der Wahrnehmung von Aufgaben nach den §§ 4 bis 7 ist für die Behörden des Zollfahndungsdienstes § 9 entsprechend anzuwenden.
 
-
-## § 30 – Bestandsdatenauskunft
+# § 30 – Bestandsdatenauskunft
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 4 Absatz 2 Nummer 1, Absatz 3 Nummer 1 oder § 4 Absatz 4 Auskunft verlangen von demjenigen, der geschäftsmäßig
 
@@ -826,8 +793,7 @@ Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 bis 3 anhan
 
 (7) Auskunftsverlangen nach den Absätzen 1, 3 und 4 sind im Rahmen der Außenwirtschaftsüberwachung auch zur Vorbereitung der Durchführung von Überwachungsmaßnahmen nach § 72 zulässig, wenn die Voraussetzungen des § 72 vorliegen. Auskunftsverlangen nach den Absätzen 3 und 4 sind nur zulässig, wenn zugleich die Voraussetzungen des Absatzes 6 vorliegen.
 
-
-## § 31 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
+# § 31 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen zur Erfüllung ihrer Aufgaben nach den §§ 4 bis 7 personenbezogene Daten weiterverarbeiten von
 
@@ -873,8 +839,7 @@ e) die Tatvorwürfe durch Angabe der gesetzlichen Vorschriften und die nähere B
 
 und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person die Tat nicht oder nicht rechtswidrig begangen hat. Satz 1 gilt bei einer Einstellung oder einem rechtskräftigen Freispruch in einem Ordnungswidrigkeitenverfahren entsprechend.
 
-
-## § 32 – Daten zu anderen Personen
+# § 32 – Daten zu anderen Personen
 
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist, können die Behörden des Zollfahndungsdienstes zur Erfüllung ihrer Aufgaben nach den §§ 4 bis 7 personenbezogene Daten von denjenigen Personen weiterverarbeiten, bei denen tatsächliche Anhaltspunkte dafür vorliegen, dass
 
@@ -890,8 +855,7 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 (4) § 31 Absatz 4 gilt entsprechend.
 
-
-## § 33 – Daten für Zwecke der Ausschreibung
+# § 33 – Daten für Zwecke der Ausschreibung
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene Daten für Zwecke der Ausschreibung der betroffenen Person zur zollrechtlichen Überwachung verarbeiten, wenn tatsächliche Anhaltspunkte die Annahme rechtfertigen, dass die betroffene Person im Rahmen des innerstaatlichen, grenzüberschreitenden oder internationalen Waren-, Kapital- oder Dienstleistungsverkehrs Zuwiderhandlungen im Zuständigkeitsbereich der Zollverwaltung von erheblicher Bedeutung begehen wird.
 
@@ -899,15 +863,13 @@ und sich aus den Gründen der Entscheidung ergibt, dass die betroffene Person di
 
 (3) Hat nicht eine Behörde des Zollfahndungsdienstes die Ausschreibung veranlasst, so trägt die die Ausschreibung veranlassende Stelle der Zollverwaltung die Verantwortung für die Zulässigkeit der Maßnahme. Sie hat in ihrem Ersuchen die bezweckte Maßnahme sowie Umfang und Dauer der Ausschreibung zu bezeichnen.
 
-
-## § 34 – Aufzeichnung eingehender Telefonanrufe
+# § 34 – Aufzeichnung eingehender Telefonanrufe
 
 (1) Die Behörden des Zollfahndungsdienstes können, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, Telefonanrufe aufzeichnen, die über Rufnummern eingehen, die der Öffentlichkeit für die Entgegennahme sachdienlicher Hinweise im Zusammenhang mit der Erfüllung der Aufgaben nach den §§ 4 bis 7 bekannt gegeben wurden.
 
 (2) Die Aufzeichnungen sind sofort und spurenlos zu löschen, sobald sie nicht mehr zur Aufgabenerfüllung erforderlich sind, spätestens jedoch nach 30 Tagen, es sei denn, sie werden im Einzelfall zur Strafverfolgung, zur Abwehr von Gefahren von erheblicher Bedeutung oder zum Zeugenschutz benötigt.
 
-
-## § 35 – Daten aus Strafverfahren
+# § 35 – Daten aus Strafverfahren
 
 Die Behörden des Zollfahndungsdienstes können nach Maßgabe dieses Gesetzes personenbezogene Daten aus Strafverfahren verarbeiten
 
@@ -917,15 +879,13 @@ Die Behörden des Zollfahndungsdienstes können nach Maßgabe dieses Gesetzes pe
 
 Die Verarbeitung ist unzulässig, soweit besondere bundesgesetzliche Regelungen entgegenstehen.
 
-
-## § 36 – Abgleich personenbezogener Daten
+# § 36 – Abgleich personenbezogener Daten
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene Daten mit dem Inhalt von Dateisystemen, die sie zur Erfüllung ihrer Aufgaben führen oder für die sie zur Erfüllung ihrer Aufgaben die Berechtigung zum Abruf haben, auch untereinander, abgleichen, wenn Grund zu der Annahme besteht, dass dies zur Erfüllung einer ihrer Aufgaben erforderlich ist.
 
 (2) Rechtsvorschriften über den Datenabgleich in anderen Fällen bleiben unberührt.
 
-
-## § 37 – Verarbeitung personenbezogener Daten für die wissenschaftliche Forschung
+# § 37 – Verarbeitung personenbezogener Daten für die wissenschaftliche Forschung
 
 (1) Die Behörden des Zollfahndungsdienstes können im Rahmen ihrer Aufgaben im Zollfahndungsdienst bei ihnen vorhandene personenbezogene Daten verarbeiten, soweit
 
@@ -955,15 +915,13 @@ Die Verarbeitung ist unzulässig, soweit besondere bundesgesetzliche Regelungen 
 
 (8) Wer nach den Absätzen 2 bis 4 personenbezogene Daten erhalten hat, darf diese nur veröffentlichen, wenn dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist und die Behörde des Zollfahndungsdienstes, die die Daten übermittelt hat, der Veröffentlichung zugestimmt hat.
 
-
-## § 38 – Verarbeitung von Daten zu sonstigen Zwecken
+# § 38 – Verarbeitung von Daten zu sonstigen Zwecken
 
 (1) Die Behörden des Zollfahndungsdienstes dürfen, wenn dies zur Vorgangsverwaltung erforderlich ist, vorhandene personenbezogene Daten ausschließlich zu diesem Zweck verarbeiten.
 
 (2) Die Verarbeitung personenbezogener Daten, die im Zollinformationssystem nach dem Beschluss 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom 10.12.2009, S. 20; L 234 vom 4.9.2010, S. 17) oder nach Titel V der Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung (ABl. L 82 vom 22.3.1997, S. 1; L 123 vom 15.5.1997, S. 25; L 121 vom 14.5.2015, S. 28), die zuletzt durch die Verordnung (EU) 2015/1525 (ABl. L 243 vom 18.9.2015, S. 1) geändert worden ist, in der jeweils geltenden Fassung, gespeichert sind, ist nur nach Maßgabe dieser Rechtsvorschriften zulässig.
 
-
-## § 39 – Allgemeine Befugnisse
+# § 39 – Allgemeine Befugnisse
 
 Die Behörden des Zollfahndungsdienstes treffen im Zuständigkeitsbereich der Zollverwaltung, mit Ausnahme der Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung, alle geeigneten, erforderlichen und angemessenen Maßnahmen
 
@@ -973,8 +931,7 @@ Die Behörden des Zollfahndungsdienstes treffen im Zuständigkeitsbereich der Zo
 
 Die §§ 15 bis 20 Absatz 1 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Behörden des Zollfahndungsdienstes durch die unmittelbare Ausführung einer Maßnahme oder die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
-
-## § 40 – Sicherstellung
+# § 40 – Sicherstellung
 
 (1) Die Behörden des Zollfahndungsdienstes können im Zuständigkeitsbereich der Zollverwaltung
 
@@ -986,8 +943,7 @@ Die §§ 15 bis 20 Absatz 1 des Bundespolizeigesetzes gelten entsprechend. Koste
 
 (2) Die Sicherstellung begründet ein unmittelbares Verfügungsverbot.
 
-
-## § 41 – Verwahrung
+# § 41 – Verwahrung
 
 (1) Die sichergestellte Sache ist durch die zuständige Behörde des Zollfahndungsdienstes in Verwahrung zu nehmen. Lässt die Beschaffenheit der Sache dies nicht zu oder erscheint die Verwahrung bei einer hiermit beauftragten Behörde der Zollverwaltung unzweckmäßig, so ist die Sache auf andere geeignete Weise aufzubewahren oder zu sichern. In diesem Falle kann die Verwahrung auch einem Dritten übertragen werden.
 
@@ -997,8 +953,7 @@ Die §§ 15 bis 20 Absatz 1 des Bundespolizeigesetzes gelten entsprechend. Koste
 
 (4) Die verwahrte Sache ist zu verzeichnen und so zu kennzeichnen, dass Verwechslungen vermieden werden.
 
-
-## § 42 – Aufhebung der Sicherstellung, Einziehung, Verwertung, Vernichtung
+# § 42 – Aufhebung der Sicherstellung, Einziehung, Verwertung, Vernichtung
 
 (1) Kann der Inhaber der tatsächlichen Gewalt oder der Eigentümer der sichergestellten Sache vorbehaltlich des Absatzes 2 Satz 2 innerhalb einer Frist von zwei Jahren, beginnend ab dem Zeitpunkt der Sicherstellung, eine Verwendung der sichergestellten Sache nachweisen, die keine Gefahr im Sinne des § 40 Absatz 1 Nummer 1 und 2 begründet, hebt die Behörde des Zollfahndungsdienstes, die die Sicherstellung veranlasst hat, die Sicherstellung auf. Die Frist kann auf Antrag der in Satz 1 genannten Personen um sechs Monate, in begründeten Fällen um weitere sechs Monate, verlängert werden.
 
@@ -1016,8 +971,7 @@ und andere gesetzliche Bestimmungen der Vernichtung nicht entgegenstehen. In beg
 
 (4) Im Übrigen gilt § 49 des Bundespolizeigesetzes entsprechend.
 
-
-## § 43 – Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
+# § 43 – Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
 
 (1) Sobald die Voraussetzungen für die Sicherstellung einer Sache weggefallen sind, ist die Sache an denjenigen herauszugeben, bei dem sie sichergestellt worden ist. Ist die Herausgabe an ihn nicht möglich, darf sie an einen anderen herausgegeben werden, der seine Berechtigung glaubhaft macht. Die Herausgabe der Sache ist ausgeschlossen, wenn dadurch erneut die Voraussetzungen für eine Sicherstellung eintreten würden.
 
@@ -1029,8 +983,7 @@ und andere gesetzliche Bestimmungen der Vernichtung nicht entgegenstehen. In beg
 
 (5) § 983 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-
-## § 44 – Durchsuchung von Personen
+# § 44 – Durchsuchung von Personen
 
 (1) Die Behörden des Zollfahndungsdienstes können eine Person durchsuchen, wenn Tatsachen die Annahme rechtfertigen, dass sie Sachen mit sich führt, die nach § 40 sichergestellt werden dürfen.
 
@@ -1038,8 +991,7 @@ und andere gesetzliche Bestimmungen der Vernichtung nicht entgegenstehen. In beg
 
 (3) Personen dürfen nur von Personen gleichen Geschlechts oder von Ärztinnen oder Ärzten durchsucht werden; dies gilt nicht, wenn die sofortige Durchsuchung zum Schutz gegen eine Gefahr für Leib oder Leben erforderlich ist.
 
-
-## § 45 – Durchsuchung von Sachen
+# § 45 – Durchsuchung von Sachen
 
 (1) Die Behörden des Zollfahndungsdienstes können eine Sache durchsuchen, wenn
 
@@ -1051,8 +1003,7 @@ und die Durchsuchung aufgrund von auf die Sache bezogenen Anhaltspunkten erforde
 
 (2) Bei der Durchsuchung von Sachen hat der Inhaber der tatsächlichen Gewalt das Recht, anwesend zu sein. Ist er abwesend, soll sein Vertreter oder ein anderer Zeuge hinzugezogen werden. Dem Inhaber der tatsächlichen Gewalt ist auf Verlangen eine Bescheinigung über die Durchsuchung und ihren Grund zu erteilen.
 
-
-## § 46 – Betreten und Durchsuchung von Wohnungen
+# § 46 – Betreten und Durchsuchung von Wohnungen
 
 (1) Die Behörden des Zollfahndungsdienstes können eine Wohnung ohne Einwilligung des Inhabers betreten und durchsuchen, wenn Tatsachen die Annahme rechtfertigen, dass sich in ihr eine Sache befindet, die nach § 40 Absatz 1 Nummer 1 und 2 sichergestellt werden darf. Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäftsräume sowie anderes befriedetes Besitztum.
 
@@ -1068,8 +1019,7 @@ und die Durchsuchung aufgrund von auf die Sache bezogenen Anhaltspunkten erforde
 
 (7) Ist die Anfertigung der Niederschrift oder die Aushändigung einer Abschrift nach den besonderen Umständen des Falles nicht möglich oder würde sie den Zweck der Durchsuchung gefährden, so sind dem Wohnungsinhaber oder der hinzugezogenen Person lediglich die Durchsuchung unter Angabe der verantwortlichen Dienststelle sowie Zeit und Ort der Durchsuchung schriftlich zu bestätigen.
 
-
-## § 47 – Besondere Mittel der Datenerhebung
+# § 47 – Besondere Mittel der Datenerhebung
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene Daten mit den besonderen Mitteln nach Absatz 2 erheben über
 
@@ -1109,8 +1059,7 @@ Soweit es für den Aufbau und die Aufrechterhaltung der Legende eines Verdeckten
 
 (4) Maßnahmen nach Absatz 2 sind im Rahmen der Außenwirtschaftsüberwachung auch zur Vorbereitung der Durchführung von Maßnahmen nach § 72 unter den dort genannten Voraussetzungen zulässig. Sie dürfen zugleich neben derartigen Maßnahmen angeordnet werden.
 
-
-## § 48 – Gerichtliche Anordnung
+# § 48 – Gerichtliche Anordnung
 
 (1) Maßnahmen nach
 
@@ -1144,8 +1093,7 @@ dürfen nur auf begründeten Antrag der Leitung des Zollkriminalamtes oder des j
 
 Die Anordnung ist auf höchstens einen Monat zu befristen; im Falle des Absatzes 1 Satz 1 Nummer 4 ist die Maßnahme auf höchstens drei Monate zu befristen. Die Verlängerung der Maßnahme bedarf einer erneuten Anordnung.
 
-
-## § 49 – Schutz des Kernbereichs privater Lebensgestaltung
+# § 49 – Schutz des Kernbereichs privater Lebensgestaltung
 
 (1) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach § 47 Absatz 2 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Ergeben sich bei Maßnahmen nach § 47 Absatz 2 Nummer 3 oder Nummer 4 während der Durchführung tatsächliche Anhaltspunkte dafür, dass der Kernbereich betroffen ist, ist die Maßnahme zu unterbrechen, sobald dies ohne Gefährdung der beauftragten Person möglich ist. Soweit im Rahmen von Maßnahmen nach § 47 Absatz 2 Nummer 1 oder Nummer 2 eine unmittelbare Kenntnisnahme, auch neben einer automatischen Aufzeichnung, erfolgt, ist die Maßnahme unverzüglich zu unterbrechen, soweit sich während der Überwachung tatsächliche Anhaltspunkte dafür ergeben, dass Inhalte, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, erfasst werden. Bestehen Zweifel, ob Erkenntnisse dem unmittelbaren Kernbereich privater Lebensgestaltung zuzurechnen sind, darf die Maßnahme in den Fällen des § 47 Absatz 2 Nummer 1 und 2 als automatische Aufzeichnung fortgesetzt werden. Automatische Aufzeichnungen sind unverzüglich dem anordnenden Gericht zur Entscheidung über die Verwertbarkeit oder Löschung der Daten vorzulegen. Das Gericht entscheidet unverzüglich über die Verwertbarkeit oder Löschung der Daten. Ist die Maßnahme nach den Sätzen 2 oder 3 unterbrochen worden, so darf sie für den Fall, dass sie nicht nach Satz 1 unzulässig ist, fortgeführt werden. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die erlangt worden sind, dürfen nicht verwertet werden. Aufzeichnungen über diese Erkenntnisse sind unverzüglich zu löschen. Die Tatsachen der Erfassung der Daten und deren Löschung sind zu dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der Datenschutzkontrolle nach § 84 verarbeitet werden. Sie ist sechs Monate nach der Benachrichtigung nach § 93 oder sechs Monate nach Erteilung der gerichtlichen Zustimmung über das endgültige Absehen von der Benachrichtigung nach § 93 Absatz 3 zu löschen. Ist die Datenschutzkontrolle noch nicht beendet, ist die Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
@@ -1153,8 +1101,7 @@ Die Anordnung ist auf höchstens einen Monat zu befristen; im Falle des Absatzes
 
 (3) Die Bediensteten des Zollfahndungsdienstes sind zur Verschwiegenheit über die ihnen bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen, verpflichtet.
 
-
-## § 50 – Gerichtliche Zuständigkeit
+# § 50 – Gerichtliche Zuständigkeit
 
 (1) Für gerichtliche Entscheidungen nach den §§ 48 und 49 ist das Amtsgericht zuständig, in dessen Bezirk die Behörde des Zollfahndungsdienstes ihren Sitz hat. Für das Verfahren gelten die Bestimmungen des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
@@ -1162,8 +1109,7 @@ Die Anordnung ist auf höchstens einen Monat zu befristen; im Falle des Absatzes
 
 (3) Die Bediensteten des Zollfahndungsdienstes sind zur Verschwiegenheit über ihnen bekannt werdende Erkenntnisse, deren Löschung das Gericht anordnet, verpflichtet.
 
-
-## § 51 – Löschung
+# § 51 – Löschung
 
 Personenbezogene Daten, die durch eine Maßnahme nach § 47 Absatz 1 erlangt worden sind, sind unverzüglich zu löschen, soweit sie
 
@@ -1175,13 +1121,11 @@ Personenbezogene Daten, die durch eine Maßnahme nach § 47 Absatz 1 erlangt wor
 
 Die Löschung ist zu protokollieren. Daten, die nur zum Zwecke einer Benachrichtigung nach § 93 gespeichert bleiben, sind in ihrer Verarbeitung einzuschränken; sie dürfen ohne Einwilligung der Betroffenen nur zu diesem Zweck verarbeitet werden.
 
-
-## § 52 – Befugnisse bei Ermittlungen
+# § 52 – Befugnisse bei Ermittlungen
 
 Soweit die Behörden des Zollfahndungsdienstes Ermittlungen durchführen, haben sie und ihre Beamten dieselben Rechte und Pflichten wie die Behörden und Beamten des Polizeidienstes nach den Vorschriften der Strafprozessordnung. Die Zollfahndungsbeamten sind Ermittlungspersonen der Staatsanwaltschaft.
 
-
-## § 53 – Sicherungs- und Schutzmaßnahmen
+# § 53 – Sicherungs- und Schutzmaßnahmen
 
 (1) Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer Aufgaben nach § 7 Absatz 1 die notwendigen Maßnahmen treffen, um eine im Einzelfall bestehende Gefahr
 
@@ -1195,8 +1139,7 @@ abzuwehren, soweit nicht in diesem Unterabschnitt die Befugnisse der Behörden d
 
 (3) Behörden und sonstige öffentliche Stellen dürfen an die Behörden des Zollfahndungsdienstes personenbezogene Daten übermitteln, wenn tatsächliche Anhaltspunkte bestehen, dass die Übermittlung für die Erfüllung der Aufgaben in Bezug auf Sicherungs- und Schutzmaßnahmen der Behörden des Zollfahndungsdienstes erforderlich ist. Eine Übermittlungspflicht besteht, wenn die Daten zur Abwehr einer Gefahr für Leib, Leben oder Freiheit erforderlich sind.Die Verantwortung für die Zulässigkeit der Übermittlung trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen der Behörden des Zollfahndungsdienstes, tragen diese die Verantwortung.
 
-
-## § 54 – Identitätsfeststellung
+# § 54 – Identitätsfeststellung
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 die Identität einer Person feststellen, wenn
 
@@ -1206,8 +1149,7 @@ abzuwehren, soweit nicht in diesem Unterabschnitt die Befugnisse der Behörden d
 
 (2) Die Behörden des Zollfahndungsdienstes können zur Feststellung der Identität die erforderlichen Maßnahmen treffen. Sie können den Betroffenen insbesondere anhalten, ihn nach seinen Personalien befragen und verlangen, dass er Ausweispapiere zur Prüfung aushändigt. Der Betroffene kann festgehalten und zur Dienststelle mitgenommen werden, wenn seine Identität auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Unter den Voraussetzungen des Satzes 3 können der Betroffene sowie die von ihm mitgeführten Sachen nach Gegenständen, die der Identitätsfeststellung dienen, durchsucht werden.
 
-
-## § 55 – Prüfung von mitzuführenden Dokumenten
+# § 55 – Prüfung von mitzuführenden Dokumenten
 
 Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 verlangen, dass Berechtigungsscheine, Bescheinigungen, Nachweise oder sonstige Urkunden zur Prüfung ausgehändigt werden, soweit
 
@@ -1215,8 +1157,7 @@ Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des §
 
 2. die betroffene Person aufgrund einer Rechtsvorschrift verpflichtet ist, diese Urkunden mitzuführen.
 
-
-## § 56 – Durchsuchung von Personen und Sachen
+# § 56 – Durchsuchung von Personen und Sachen
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 eine Person oder eine Sache durchsuchen, wenn
 
@@ -1230,23 +1171,19 @@ Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des §
 
 (4) Bei der Durchsuchung einer Sache hat der Inhaber der tatsächlichen Gewalt das Recht, anwesend zu sein. Ist er abwesend, soll sein Vertreter oder ein anderer Zeuge hinzugezogen werden. Dem Inhaber der tatsächlichen Gewalt ist auf Verlangen eine Bescheinigung über die Durchsuchung und ihren Grund zu erteilen.
 
-
-## § 57 – Erkennungsdienstliche Maßnahmen zur Identitätsfeststellung
+# § 57 – Erkennungsdienstliche Maßnahmen zur Identitätsfeststellung
 
 Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 erkennungsdienstliche Maßnahmen im Sinne des § 24 Absatz 3 des Bundespolizeigesetzes vornehmen, wenn eine nach § 54 zulässige Identitätsfeststellung auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten möglich ist.
 
-
-## § 58 – Platzverweisung
+# § 58 – Platzverweisung
 
 Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 eine Person vorübergehend von einem Ort verweisen oder ihr vorübergehend das Betreten eines Ortes verbieten, soweit dies aufgrund der Gefährdungslage oder aufgrund von auf die Person bezogenen Anhaltspunkten erforderlich ist.
 
-
-## § 59 – Sicherstellung
+# § 59 – Sicherstellung
 
 Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 Sachen zur Abwehr einer gegenwärtigen Gefahr für zu schützende Personen, zu sichernde Bedienstete oder zu schützende Vermögenswerte sicherstellen. Die §§ 41, 42 Absatz 4 und § 43 gelten entsprechend.
 
-
-## § 60 – Betreten und Durchsuchen von Wohnungen
+# § 60 – Betreten und Durchsuchen von Wohnungen
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 eine Wohnung ohne Einwilligung des Inhabers betreten und durchsuchen, soweit
 
@@ -1270,8 +1207,7 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 (7) Ist die Anfertigung der Niederschrift oder die Aushändigung einer Abschrift nach den besonderen Umständen des Falles nicht möglich oder würde dies den Zweck der Durchsuchung gefährden, so sind dem Wohnungsinhaber oder der hinzugezogenen Person lediglich die Durchsuchung unter Angabe der verantwortlichen Dienststelle sowie Zeit und Ort der Durchsuchung schriftlich zu bestätigen.
 
-
-## § 61 – Gewahrsam
+# § 61 – Gewahrsam
 
 (1) Die Behörden des Zollfahndungsdienstes können unter den Voraussetzungen des § 53 Absatz 1 eine Person in Gewahrsam nehmen, wenn dies unerlässlich ist,
 
@@ -1281,8 +1217,7 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 (2) § 40 Absatz 1 und 2 sowie die §§ 41 und 42 Absatz 1 Satz 1 und Absatz 2 des Bundespolizeigesetzes gelten entsprechend.
 
-
-## § 62 – Besondere Mittel der Datenerhebung
+# § 62 – Besondere Mittel der Datenerhebung
 
 (1) Die Behörden des Zollfahndungsdienstes können unbeschadet der Absätze 2 bis 6 unter den Voraussetzungen des § 53 Absatz 1 verdeckte Maßnahmen in entsprechender Anwendung des § 47 Absatz 2 Nummer 1 und 2 vornehmen, soweit dies zur Abwehr einer im Einzelfall bestehenden Gefahr für Leib, Leben, Gesundheit oder Freiheit der Willensentschließung und -betätigung eingesetzter Bediensteter oder zu schützender Dritter oder zur Abwehr einer im Einzelfall bestehenden Gefahr für wesentliche Vermögenswerte unerlässlich ist. Die §§ 48 und 49 gelten entsprechend.
 
@@ -1296,18 +1231,15 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 (6) Nach Abschluss der Maßnahmen sind die nach Absatz 2 hergestellten Aufzeichnungen unverzüglich zu löschen, es sei denn, sie werden für die in Absatz 5 genannten Zwecke noch benötigt.
 
-
-## § 63 – Behördlicher Eigenschutz
+# § 63 – Behördlicher Eigenschutz
 
 Die Behörden des Zollfahndungsdienstes können zur Erfüllung ihrer Aufgaben nach § 6 Absatz 1 die erforderlichen Maßnahmen treffen, um Gefahren für ihre Liegenschaften, sonstigen Einrichtungen und Veranstaltungen abzuwehren. Die §§ 54 bis 59 und 61 sowie die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
-
-## § 64 – Sicherheitsüberprüfung
+# § 64 – Sicherheitsüberprüfung
 
 Für Personen, die für die Behörden des Zollfahndungsdienstes tätig werden sollen, ist eine einfache Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz durchzuführen. Die zuständige Stelle kann von einer Sicherheitsüberprüfung absehen, wenn Art oder Dauer der Tätigkeit dies zulassen.
 
-
-## § 65 – Datenübermittlung im innerstaatlichen Bereich
+# § 65 – Datenübermittlung im innerstaatlichen Bereich
 
 (1) Die Behörden des Zollfahndungsdienstes können personenbezogene Daten an andere Dienststellen der Zollverwaltung übermitteln, soweit dies zur Erfüllung ihrer Aufgaben oder zur Erfüllung der Aufgaben des Empfängers erforderlich ist.
 
@@ -1353,8 +1285,7 @@ und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 (11) Sind mit personenbezogenen Daten, die nach den Absätzen 1 bis 4 übermittelt werden können, weitere personenbezogene Daten der betroffenen Person oder eines Dritten in Akten so verbunden, dass eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, so ist die Übermittlung auch dieser Daten zulässig, soweit nicht berechtigte Interessen der betroffenen Person oder eines Dritten an der Geheimhaltung offensichtlich überwiegen; eine Verwendung dieser Daten ist unzulässig.
 
-
-## § 66 – Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union
+# § 66 – Datenübermittlung an zwischen- und überstaatliche Stellen der Europäischen Union und an Mitgliedstaaten der Europäischen Union
 
 (1) Für die Übermittlung von personenbezogenen Daten an
 
@@ -1366,8 +1297,7 @@ gilt § 65 Absatz 1 bis 7 sowie Absatz 9 und 10 entsprechend. Die Verantwortung 
 
 (2) Absatz 1 ist entsprechend anzuwenden auf die Übermittlung von personenbezogenen Daten an Polizeibehörden oder sonstige für die Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen eines Schengenassoziierten Staates im Sinne von § 91 Absatz 3 des Gesetzes über die internationale Rechtshilfe in Strafsachen.
 
-
-## § 67 – Datenübermittlung im internationalen Bereich
+# § 67 – Datenübermittlung im internationalen Bereich
 
 (1) Die Behörden des Zollfahndungsdienstes können unter Beachtung der §§ 78 bis 80 des Bundesdatenschutzgesetzes an Zoll-, Polizei- und Justizbehörden sowie an sonstige für die Verhütung oder Verfolgung von Straftaten zuständige öffentliche Stellen in anderen als den in § 66 genannten Staaten sowie an andere als die in § 66 genannten zwischen- und überstaatlichen Stellen, die mit Aufgaben der Verhütung oder Verfolgung von Straftaten befasst sind, personenbezogene Daten übermitteln, soweit dies erforderlich ist
 
@@ -1393,8 +1323,7 @@ Entsprechendes gilt, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass Str
 
 (5) Die Behörden des Zollfahndungsdienstes haben die Stelle, an die die personenbezogenen Daten übermittelt werden, darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden dürfen, zu dem sie übermittelt worden sind. Ferner haben sie der Stelle den bei den Behörden des Zollfahndungsdienstes vorgesehenen Löschungszeitpunkt mitzuteilen.
 
-
-## § 68 – Übermittlungsverbote und Verweigerungsgründe
+# § 68 – Übermittlungsverbote und Verweigerungsgründe
 
 (1) Die Übermittlung personenbezogener Daten nach diesem Unterabschnitt unterbleibt, wenn
 
@@ -1416,15 +1345,13 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an Staatsanwaltschaften und Geri
 
 5. tatsächliche Anhaltspunkte dafür vorliegen, dass die Übermittlung der Daten zu den in der Charta der Grundrechte der Europäischen Union enthaltenen Grundsätzen in Widerspruch stünde, insbesondere dadurch, dass durch die Verarbeitung der übermittelten Daten im Empfängerstaat Verletzungen von elementaren rechtsstaatlichen Grundsätzen oder Menschenrechtsverletzungen drohen.
 
-
-## § 69 – Unterstützung durch andere Behörden
+# § 69 – Unterstützung durch andere Behörden
 
 (1) Bedienstete der Hauptzollämter und der Steuerfahndung der Landesfinanzverwaltung, die mit Vollzugsaufgaben betraut sind, sowie Polizeivollzugsbeamte des Bundes und der Länder können im Einzelfall auf Anforderung oder mit Zustimmung der zuständigen Behörde des Zollfahndungsdienstes Amtshandlungen im Zuständigkeitsbereich des Zollfahndungsdienstes vornehmen.
 
 (2) Werden Bedienstete der Hauptzollämter oder der Steuerfahndung der Landesfinanzverwaltung, die mit Vollzugsaufgaben betraut sind, oder Polizeivollzugsbeamte des Bundes und der Länder nach Absatz 1 tätig, haben sie die gleichen Befugnisse wie die Beamten der Behörden des Zollfahndungsdienstes. Ihre Maßnahmen gelten als Maßnahmen derjenigen Behörde des Zollfahndungsdienstes, für die sie tätig sind; sie unterliegen insoweit der Weisung dieser Behörde.
 
-
-## § 70 – Unterstützung anderer Behörden
+# § 70 – Unterstützung anderer Behörden
 
 (1) Vollzugsbeamte des Zollfahndungsdienstes dürfen im Zuständigkeitsbereich eines Landes tätig werden, soweit das jeweilige Landesrecht dies vorsieht.
 
@@ -1432,13 +1359,11 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an Staatsanwaltschaften und Geri
 
 (3) Werden Vollzugsbeamte des Zollfahndungsdienstes in Erfüllung ihrer Aufgaben nach § 3 Absatz 6 Nummer 3 und § 5 Absatz 3 Nummer 1 auf Anforderung für eine weitere ermittlungsführende Dienststelle der Zollverwaltung tätig, richten sich die Befugnisse zur Eigensicherung sowie zur Durchführung von Sicherungs- und Schutzmaßnahmen nach diesem Gesetz.
 
-
-## § 71 – Auskunftspflicht im Außenwirtschaftsverkehr
+# § 71 – Auskunftspflicht im Außenwirtschaftsverkehr
 
 Zur Abwehr einer im Einzelfall bestehenden Gefahr für die in § 4 Absatz 1 des Außenwirtschaftsgesetzes genannten Rechtsgüter ist § 9 entsprechend mit der Maßgabe anzuwenden, dass auskunftspflichtig ist, wer unmittelbar oder mittelbar am Außenwirtschaftsverkehr teilnimmt. Zusätzlich zu den Vorgaben des § 9 haben in Satz 1 bezeichnete Auskunftspflichtige zugehörige geschäftliche Unterlagen unverzüglich herauszugeben.
 
-
-## § 72 – Überwachung der Telekommunikation sowie des Brief- und Postverkehrs
+# § 72 – Überwachung der Telekommunikation sowie des Brief- und Postverkehrs
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgaben nach § 4 Absatz 2 ohne Wissen der betroffenen Person dem Brief- oder Postgeheimnis unterliegende Sendungen öffnen und einsehen sowie die dem Fernmeldegeheimnis unterliegende Telekommunikation überwachen und aufzeichnen, wenn
 
@@ -1518,8 +1443,7 @@ c) die Person nach Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit Absa
 
 (7) In Fällen der Absätze 1, 2 und 4 gilt § 2 des Artikel 10-Gesetzes entsprechend.
 
-
-## § 73 – Kernbereich privater Lebensgestaltung
+# § 73 – Kernbereich privater Lebensgestaltung
 
 (1) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Überwachung der Telekommunikation nach § 72 Absatz 1, 2, 3 oder Absatz 4 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Soweit im Rahmen von Maßnahmen nach § 72 Absatz 1, 2, 3 oder Absatz 4 eine unmittelbare Kenntnisnahme, auch neben einer automatischen Aufzeichnung, erfolgt, ist die Maßnahme unverzüglich zu unterbrechen, soweit sich während der Überwachung tatsächliche Anhaltspunkte dafür ergeben, dass Inhalte, die dem Kernbereich privater Lebensgestaltung zuzurechnen sind, erfasst werden. Bestehen Zweifel, dass Erkenntnisse dem unmittelbaren Kernbereich privater Lebensgestaltung zuzurechnen sind, darf nur eine automatische Aufzeichnung fortgesetzt werden. Automatische Aufzeichnungen sind in diesem Fall unverzüglich dem anordnenden Gericht zur Entscheidung über die Verwertbarkeit oder Löschung der Daten vorzulegen. Das Gericht entscheidet unverzüglich über die Verwertbarkeit oder Löschung der Daten. Ist die Maßnahme nach Satz 2 unterbrochen worden, so darf sie für den Fall, dass sie nicht nach Satz 1 unzulässig ist, fortgeführt werden. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung, die durch eine Maßnahme nach § 72 Absatz 1, 2, 3 oder Absatz 4 erlangt worden sind, dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich unter Aufsicht eines Bediensteten, der die Befähigung zum Richteramt hat, zu löschen. Die Tatsachen der Erfassung der Daten und der Löschung sind zu dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der Datenschutzkontrolle nach § 84 verarbeitet werden. Sie ist sechs Monate nach der Benachrichtigung nach § 93 oder sechs Monate nach Erteilung der gerichtlichen Zustimmung über das endgültige Absehen von der Benachrichtigung nach § 93 Absatz 3 zu löschen. Ist die Datenschutzkontrolle noch nicht beendet, ist die Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
@@ -1527,8 +1451,7 @@ c) die Person nach Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit Absa
 
 (3) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Überwachung des Postverkehrs nach § 72 Absatz 1, 2 oder Absatz 4 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung dürfen nicht verwertet werden.
 
-
-## § 74 – Gerichtliche Anordnung und Zuständigkeit
+# § 74 – Gerichtliche Anordnung und Zuständigkeit
 
 (1) Maßnahmen nach § 72 Absatz 1, 2, 3 oder Absatz 4 bedürfen einer gerichtlichen Anordnung. Die Anordnung ergeht auf Antrag der Leitung des Zollkriminalamtes persönlich. Ist die Leitung des Zollkriminalamtes verhindert, den Antrag persönlich zu stellen, so ist ihre Vertretung antragsberechtigt. Der Antrag bedarf der vorherigen Zustimmung des Bundesministeriums der Finanzen. Der Antrag ist zu begründen.
 
@@ -1572,8 +1495,7 @@ c) die Person nach Absatz 1 Nummer 1 oder 2, jeweils auch in Verbindung mit Absa
 
 (8) Für gerichtliche Entscheidungen nach § 73 Absatz 1 oder 2 gelten Absatz 4 sowie § 48 Absatz 3 entsprechend.
 
-
-## § 75 – Verarbeitungs- und Durchführungsvorschriften
+# § 75 – Verarbeitungs- und Durchführungsvorschriften
 
 (1) Die angeordnete Telekommunikations-, Brief- und Postüberwachung nach § 72 Absatz 1, 2, 3 oder Absatz 4 ist durch das Zollkriminalamt vorzunehmen. Die Leitung der Maßnahme ist von einem Bediensteten mit der Befähigung zum Richteramt wahrzunehmen. § 11 Absatz 2 und 3 des Artikel 10-Gesetzes ist entsprechend anzuwenden.
 
@@ -1615,8 +1537,7 @@ Die Löschung hat unter Aufsicht eines Bediensteten, der die Befähigung zum Ric
 
 (5) Das Zollkriminalamt unterrichtet das Bundesministerium der Finanzen über den Zeitpunkt der Löschung von Daten im Sinne des Absatzes 4. Im Bundesministerium der Finanzen gespeicherte Daten zu Überwachungsmaßnahmen, deren Löschung angeordnet wurde, dürfen nicht mehr verarbeitet werden und sind ebenfalls unverzüglich zu löschen.
 
-
-## § 76 – Übermittlung von personenbezogenen Daten durch das Zollkriminalamt
+# § 76 – Übermittlung von personenbezogenen Daten durch das Zollkriminalamt
 
 (1) Das Zollkriminalamt kann die von ihm nach § 72 Absatz 1, 2, 3 oder Absatz 4 erhobenen personenbezogenen Daten zur Verhütung von Straftaten an die mit polizeilichen Aufgaben betrauten Behörden übermitteln, wenn sich aus den erhobenen personenbezogenen Daten selbst oder in Verbindung mit weiteren Kenntnissen im Einzelfall konkrete Anhaltspunkte ergeben, dass jemand als Täter oder Teilnehmer
 
@@ -1668,8 +1589,7 @@ Die Löschung hat unter Aufsicht eines Bediensteten, der die Befähigung zum Ric
 
 3. das Zollkriminalamt sich vorbehält, Auskunft über die Verarbeitung einzuholen.
 
-
-## § 77 – Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
+# § 77 – Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
 
 (1) Das Zollkriminalamt kann unter den Voraussetzungen des § 72 Absatz 1, 2 oder Absatz 4 auch ohne Wissen des Betroffenen Verkehrsdaten (§ 96 Absatz 1 des Telekommunikationsgesetzes) bei denjenigen erheben, die geschäftsmäßig Telekommunikationsdienste erbringen oder daran mitwirken, soweit die Erhebung für die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsortes der betroffenen Person erforderlich ist. Die Erhebung von Standortdaten in Echtzeit ist zulässig.
 
@@ -1679,8 +1599,7 @@ Die Löschung hat unter Aufsicht eines Bediensteten, der die Befähigung zum Ric
 
 (4) § 2 Absatz 1 Satz 3 und 5 des Artikel 10-Gesetzes, § 75 Absatz 3 bis 5 sowie § 76 gelten entsprechend.
 
-
-## § 78 – Identifizierung und Lokalisierung von Mobilfunkkarten und Telekommunikationsendgeräten
+# § 78 – Identifizierung und Lokalisierung von Mobilfunkkarten und Telekommunikationsendgeräten
 
 (1) Das Zollkriminalamt kann unter den Voraussetzungen des § 72 Absatz 1, 2 oder Absatz 4 durch technische Mittel Folgendes ermitteln:
 
@@ -1696,18 +1615,15 @@ Die Löschung hat unter Aufsicht eines Bediensteten, der die Befähigung zum Ric
 
 (5) § 75 Absatz 3 bis 5 sowie § 76 gelten entsprechend.
 
-
-## § 79 – Verschwiegenheitspflicht
+# § 79 – Verschwiegenheitspflicht
 
 Werden Maßnahmen nach den §§ 72, 77 oder § 78 vorgenommen, so darf diese Tatsache von Personen, die geschäftsmäßig Post- oder Telekommunikationsdienste erbringen oder an der Erbringung solcher Dienste mitwirken, anderen nicht mitgeteilt werden.
 
-
-## § 80 – Unterrichtung des Deutschen Bundestages
+# § 80 – Unterrichtung des Deutschen Bundestages
 
 Das Bundesministerium der Finanzen unterrichtet in Abständen von höchstens sechs Monaten ein Gremium, das aus neun vom Deutschen Bundestag bestimmten Abgeordneten besteht, über die Durchführung der Maßnahmen nach diesem Unterabschnitt, auch in Verbindung mit den §§ 82 und 93 sowie den §§ 105 und 106; dabei ist in Bezug auf die im Berichtszeitraum durchgeführten Maßnahmen nach diesen Vorschriften insbesondere über deren Anlass, Umfang, Dauer, Ergebnis und Kosten sowie die Benachrichtigung betroffener Personen von diesen Maßnahmen zu berichten.
 
-
-## § 81 – Zeugenschutzmaßnahmen
+# § 81 – Zeugenschutzmaßnahmen
 
 (1) Das Zollkriminalamt kann zur Erfüllung seiner Aufgabe nach § 7 Absatz 2, soweit nicht dieses Gesetz oder das Zeugenschutz-Harmonisierungsgesetz die Befugnisse besonders regelt, die erforderlichen Maßnahmen treffen, um eine im Einzelfall bestehende Gefahr für Leib, Leben, Gesundheit, Freiheit der Willensentschließung und -betätigung oder wesentliche Vermögenswerte der in § 7 Absatz 2 genannten Personen abzuwehren.
 
@@ -1721,8 +1637,7 @@ Das Bundesministerium der Finanzen unterrichtet in Abständen von höchstens sec
 
 (6) Zeugenschutzmaßnahmen dürfen auch nach rechtskräftigem Abschluss des Strafverfahrens, in dem die Aussage erfolgt ist, fortgeführt werden. Für den Fall, dass noch die Strafvollstreckung betrieben wird, sind diese im Einvernehmen mit der Strafvollstreckungsbehörde durchzuführen und zu beenden. Im Falle fortdauernder Inhaftierung ist zusätzlich das Einvernehmen mit der Justizvollzugsbehörde herzustellen.
 
-
-## § 82 – Schutz zeugnisverweigerungsberechtigter Berufsgeheimnisträger
+# § 82 – Schutz zeugnisverweigerungsberechtigter Berufsgeheimnisträger
 
 (1) Maßnahmen nach diesem Kapitel, die sich gegen eine in § 53 Absatz 1 Satz 1 Nummer 1 bis 3 oder Nummer 4 der Strafprozessordnung genannte Person richten und voraussichtlich Erkenntnisse erbringen würden, über die diese das Zeugnis verweigern dürfte, sind unzulässig. Dennoch erlangte Erkenntnisse dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist zu dokumentieren. Die Sätze 2 bis 4 gelten entsprechend, wenn durch eine in Satz 1 bezeichnete Maßnahme, die sich nicht gegen eine in Satz 1 in Bezug genommene Person richtet, von einer dort in Bezug genommenen Person Erkenntnisse erlangt werden, über die sie das Zeugnis verweigern dürfte. Für Personen nach § 53 Absatz 1 Satz 1 Nummer 3 der Strafprozessordnung gelten die Sätze 1 bis 5 nur, soweit es sich um Rechtsanwälte oder Kammerrechtsbeistände handelt; die Bestimmungen der §§ 102 und 103 der Abgabenordnung über Auskunfts- und Vorlageverweigerungsrechte in Besteuerungsverfahren bleiben unberührt.
 
@@ -1732,13 +1647,11 @@ Das Bundesministerium der Finanzen unterrichtet in Abständen von höchstens sec
 
 (4) Die Absätze 1 bis 3 gelten nicht, sofern Tatsachen die Annahme rechtfertigen, dass die zeugnisverweigerungsberechtigte Person für die Gefahr verantwortlich ist.
 
-
-## § 83 – Ausschluss der aufschiebenden Wirkung
+# § 83 – Ausschluss der aufschiebenden Wirkung
 
 Widerspruch und Anfechtungsklage gegen unaufschiebbare Anordnungen und Maßnahmen nach diesem Gesetz, deren gerichtliche Überprüfung den Gerichten der Verwaltungsgerichtsbarkeit obliegt, haben keine aufschiebende Wirkung.
 
-
-## § 84 – Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+# § 84 – Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit führt mindestens alle zwei Jahre Kontrollen der Datenverarbeitung
 
@@ -1750,8 +1663,7 @@ durch. Diese Kontrollen erfolgen unbeschadet ihrer oder seiner in § 14 des Bund
 
 (2) Sofern die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit Verstöße nach § 16 Absatz 2 des Bundesdatenschutzgesetzes beanstandet hat, kann sie oder er geeignete Maßnahmen anordnen, wenn dies zur Beseitigung eines erheblichen Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
 
-
-## § 85 – Benennung der oder des Datenschutzbeauftragten
+# § 85 – Benennung der oder des Datenschutzbeauftragten
 
 (1) Die Generalzolldirektion benennt im Einvernehmen mit dem Bundesministerium der Finanzen schriftlich eine oder einen für das Zollkriminalamt zuständige oder zuständigen Datenschutzbeauftragte oder Datenschutzbeauftragten.
 
@@ -1761,22 +1673,19 @@ durch. Diese Kontrollen erfolgen unbeschadet ihrer oder seiner in § 14 des Bund
 
 (4) Im Übrigen ist § 5 des Bundesdatenschutzgesetzes anzuwenden.
 
-
-## § 86 – Aufgaben der oder des Datenschutzbeauftragten
+# § 86 – Aufgaben der oder des Datenschutzbeauftragten
 
 (1) Die oder der in § 85 Absatz 1 genannte Datenschutzbeauftragte arbeitet mit den in § 71 Absatz 1 des Bundeskriminalamtgesetzes und in § 85 Absatz 2 genannten Datenschutzbeauftragten zusammen unbeschadet der allen Datenschutzbeauftragten der Behörden des Zollfahndungsdienstes obliegenden Aufgaben nach § 7 des Bundesdatenschutzgesetzes. Diese Zusammenarbeit umfasst insbesondere den Informations- und Erfahrungsaustausch über Fragen zur Datenverarbeitung grundsätzlicher Art.
 
 (2) Die Tätigkeit der oder des in § 85 genannten Datenschutzbeauftragten erstreckt sich jeweils auch auf personenbezogene Daten, die einem Berufs- oder besonderen Amtsgeheimnis, insbesondere dem Steuergeheimnis nach § 30 der Abgabenordnung, unterliegen.
 
-
-## § 87 – Stellung der oder des Datenschutzbeauftragten und Zusammenarbeit mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+# § 87 – Stellung der oder des Datenschutzbeauftragten und Zusammenarbeit mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Die oder der in § 85 Absatz 1 genannte Datenschutzbeauftragte ist der Leitung der Generalzolldirektion unmittelbar unterstellt. Satz 1 gilt für die in § 85 Absatz 2 genannten Datenschutzbeauftragten mit der Maßgabe, dass an die Stelle der Leitung der Generalzolldirektion die jeweilige Behördenleitung tritt.
 
 (2) Die in § 85 Absatz 1 und 2 genannten Datenschutzbeauftragten können sich zur Erfüllung ihrer Aufgabe in Zweifelsfällen an die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit wenden, nachdem sie das Benehmen mit der jeweiligen Behördenleitung hergestellt haben; bei Unstimmigkeiten zwischen der oder dem Datenschutzbeauftragten nach § 85 Absatz 2 und der Leitung des jeweiligen Zollfahndungsamtes entscheidet das Zollkriminalamt, bei Unstimmigkeiten zwischen der oder dem Datenschutzbeauftragten nach § 85 Absatz 1 und der Leitung der Generalzolldirektion entscheidet das Bundesministerium der Finanzen.
 
-
-## § 88 – Datenschutzrechtliche Verantwortung im Zollfahndungsinformationssystem
+# § 88 – Datenschutzrechtliche Verantwortung im Zollfahndungsinformationssystem
 
 (1) Das Zollkriminalamt hat die Einhaltung der Regelungen zur Führung des Zollfahndungsinformationssystems zu überwachen.
 
@@ -1788,13 +1697,11 @@ durch. Diese Kontrollen erfolgen unbeschadet ihrer oder seiner in § 14 des Bund
 
 Die verantwortliche Stelle muss feststellbar sein. Die Verantwortung für die Zulässigkeit des Abrufs im automatisierten Verfahren trägt der Empfänger.
 
-
-## § 89 – Datenschutzrechtliche Verantwortung für die Tätigkeit der den deutschen Auslandsvertretungen zugeordneten Zollverbindungsbeamtinnen und Zollverbindungsbeamten
+# § 89 – Datenschutzrechtliche Verantwortung für die Tätigkeit der den deutschen Auslandsvertretungen zugeordneten Zollverbindungsbeamtinnen und Zollverbindungsbeamten
 
 Die datenschutzrechtliche Verantwortung für die Tätigkeit der Zollverbindungsbeamtinnen und Zollverbindungsbeamten, die den deutschen Auslandsvertretungen zugeordnet sind, verbleibt beim Zollkriminalamt.
 
-
-## § 90 – Errichtungsanordnung für automatisierte Dateisysteme
+# § 90 – Errichtungsanordnung für automatisierte Dateisysteme
 
 (1) Das Zollkriminalamt hat für automatisierte Dateisysteme, die die Behörden des Zollfahndungsdienstes zur Verarbeitung personenbezogener Daten führen, in einer Errichtungsanordnung, die der Zustimmung des Bundesministeriums der Finanzen bedarf, festzulegen:
 
@@ -1824,8 +1731,7 @@ Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
 
 (4) In angemessenen Abständen ist die Notwendigkeit der Weiterführung oder Änderung der Verarbeitungen zu überprüfen.
 
-
-## § 91 – Protokollierung
+# § 91 – Protokollierung
 
 (1) Die Protokollierung nach § 76 des Bundesdatenschutzgesetzes erfolgt zu Verarbeitungsvorgängen im Zollfahndungsinformationssystem ergänzend zu den dort genannten Anforderungen in einer Weise, dass die Protokolle
 
@@ -1837,8 +1743,7 @@ Das Zollkriminalamt hat insbesondere den Zeitpunkt, die Angaben, die die Festste
 
 (2) Die nach § 76 des Bundesdatenschutzgesetzes und unter Beachtung des Absatzes 1 generierten Protokolldaten sind nach zwölf Monaten zu löschen.
 
-
-## § 92 – Dokumentation bei verdeckten Maßnahmen
+# § 92 – Dokumentation bei verdeckten Maßnahmen
 
 (1) Bei der Erhebung von Daten nach den §§ 47, 62, 72, 77 und 78 sind zu dokumentieren:
 
@@ -1894,8 +1799,7 @@ c) der Absender und Adressat der Postsendung sowie die Art und die Anzahl der ü
 
 (4) Die Daten nach den Absätzen 1 und 2 dürfen nur verarbeitet werden für Zwecke der Benachrichtigung nach § 93 und um der betroffenen Person oder einer dazu befugten öffentlichen Stelle die Prüfung zu ermöglichen, ob die Maßnahme rechtmäßig durchgeführt worden ist. Sie sind bis zum Abschluss der Datenschutzkontrolle nach § 84 Absatz 1 aufzubewahren und sodann zu löschen, es sei denn, dass sie für den in Satz 1 genannten Zweck noch erforderlich sind.
 
-
-## § 93 – Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen
+# § 93 – Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen
 
 (1) Über eine Maßnahme sind zu benachrichtigen im Falle
 
@@ -1941,8 +1845,7 @@ Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange 
 
 (4) Auch nach Erledigung einer der in Absatz 1 genannten Maßnahme können betroffene Personen binnen zwei Wochen nach ihrer Benachrichtigung die Überprüfung der Rechtmäßigkeit der Anordnung sowie der Art und Weise des Vollzugs beantragen. Hierauf ist im Rahmen der Benachrichtigung hinzuweisen. Über den Antrag entscheidet das Gericht, das für die Anordnung der Maßnahme zuständig gewesen ist. Gegen die Entscheidung ist die sofortige Beschwerde statthaft.
 
-
-## § 94 – Benachrichtigung bei Ausschreibungen
+# § 94 – Benachrichtigung bei Ausschreibungen
 
 (1) Ist eine Ausschreibung zur Feststellung und Unterrichtung oder zur verdeckten Registrierung nach
 
@@ -1956,13 +1859,11 @@ durch eine Stelle der Bundesrepublik Deutschland in das jeweilige Informationssy
 
 (3) Erfolgt die nach Absatz 2 Satz 1 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Ausschreibung, bedarf die weitere Zurückstellung auf Antrag der Stelle, die die Ausschreibung veranlasst hat, der gerichtlichen Zustimmung. Das Gericht bestimmt die Dauer der weiteren Zurückstellung. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf Jahre nach Beendigung der Ausschreibung kann mit gerichtlicher Zustimmung endgültig von der Benachrichtigung abgesehen werden, wenn die Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden. Zuständiges Gericht ist das Amtsgericht, in dessen Bezirk die Stelle, die die Ausschreibung veranlasst hat, ihren Sitz hat. Die Bestimmungen des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit finden entsprechende Anwendung.
 
-
-## § 95 – Benachrichtigung über die Speicherung personenbezogener Daten von Kindern
+# § 95 – Benachrichtigung über die Speicherung personenbezogener Daten von Kindern
 
 Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigten erhoben worden sind, gespeichert, sind die Sorgeberechtigten zu benachrichtigen, sobald die Aufgabenerfüllung hierdurch nicht mehr gefährdet wird. Von der Benachrichtigung kann abgesehen werden, solange zu besorgen ist, dass die Benachrichtigung zu erheblichen Nachteilen für das Kind führt. Die Verpflichtung obliegt der dateneingebenden Stelle.
 
-
-## § 96 – Aussonderungsprüffrist, Mitteilung von Löschungsverpflichtungen
+# § 96 – Aussonderungsprüffrist, Mitteilung von Löschungsverpflichtungen
 
 (1) Die Behörden des Zollfahndungsdienstes prüfen nach § 75 des Bundesdatenschutzgesetzes bei der Einzelfallbearbeitung und nach festgesetzten Fristen, ob gespeicherte personenbezogene Daten zu berichtigen oder zu löschen sind. Die nach § 75 Absatz 4 des Bundesdatenschutzgesetzes und § 90 Absatz 1 Satz 1 Nummer 8 festzulegenden Aussonderungsprüffristen dürfen bei Erwachsenen zehn Jahre, bei Jugendlichen fünf Jahre und bei Kindern zwei Jahre nicht überschreiten, wobei nach dem Zweck der Speicherung sowie nach Art und Schwere des Sachverhaltes zu unterscheiden ist. Bei Ordnungswidrigkeiten reduzieren sich die Aussonderungsprüffristen auf höchstens fünf Jahre bei Erwachsenen, auf zwei Jahre bei Jugendlichen und bei Kindern auf ein Jahr. Die Beachtung der Aussonderungsprüffristen ist durch geeignete Maßnahmen zu gewährleisten.
 
@@ -1978,8 +1879,7 @@ Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigt
 
 (7) Ist eine Ausschreibung nach § 14 oder § 33 erfolgt, so sind die zu diesem Zweck gespeicherten personenbezogenen Daten nach der Zweckerfüllung, spätestens jedoch ein Jahr nach dem Beginn der Ausschreibung zu löschen. Besondere in diesem Gesetz enthaltene Vorschriften zur Löschung personenbezogener Daten und hierfür zu beachtender Fristen bleiben unberührt.
 
-
-## § 97 – Berichtigung personenbezogener Daten, Einschränkung der Verarbeitung in Akten, Vernichtung von Akten
+# § 97 – Berichtigung personenbezogener Daten, Einschränkung der Verarbeitung in Akten, Vernichtung von Akten
 
 (1) Stellen die Behörden des Zollfahndungsdienstes die Unrichtigkeit personenbezogener Daten in Akten fest, ist die in § 75 Absatz 1 des Bundesdatenschutzgesetzes genannte Berichtigungspflicht dadurch zu erfüllen, dass dies in der Akte vermerkt oder auf sonstige Weise festgehalten wird. Bestreitet die betroffene Person die Richtigkeit sie betreffender personenbezogener Daten und lässt sich weder die Richtigkeit noch die Unrichtigkeit feststellen, sind die Daten entsprechend zu kennzeichnen, um eine Verarbeitungseinschränkung nach § 58 Absatz 1 Satz 2 und 3 des Bundesdatenschutzgesetzes zu ermöglichen.
 
@@ -2003,13 +1903,11 @@ In diesen Fällen ist die Verarbeitung der Daten einzuschränken und sind die Un
 
 (5) Besondere in diesem Gesetz enthaltene Vorschriften zur Einschränkung der Verarbeitung personenbezogener Daten in Akten oder deren Vernichtung und hierfür zu beachtende Fristen bleiben unberührt.
 
-
-## § 98 – Verzeichnis von Verarbeitungstätigkeiten
+# § 98 – Verzeichnis von Verarbeitungstätigkeiten
 
 Das Zollkriminalamt stellt zentral ein Verzeichnis nach § 70 des Bundesdatenschutzgesetzes über Kategorien von Verarbeitungstätigkeiten personenbezogener Daten für die Behörden des Zollfahndungsdienstes zur Verfügung.
 
-
-## § 99 – Automatisiertes Abrufverfahren
+# § 99 – Automatisiertes Abrufverfahren
 
 (1) Das Zollkriminalamt und die sonst beteiligten Stellen haben bei einem nach § 21 Absatz 5 eingerichteten automatisierten Abrufverfahren zu gewährleisten, dass dessen Zulässigkeit kontrolliert werden kann. Hierzu haben sie schriftlich festzulegen:
 
@@ -2029,40 +1927,33 @@ Die erforderlichen Festlegungen können auch durch das Bundesministerium der Fin
 
 (4) Die Absätze 1 bis 3 gelten nicht für den Abruf allgemein zugänglicher Daten. Allgemein zugänglich sind Daten, die jedermann, sei es ohne oder nach vorheriger Anmeldung, Zulassung oder Entrichtung eines Entgelts, abrufen kann.
 
-
-## § 100 – Rechte der betroffenen Person
+# § 100 – Rechte der betroffenen Person
 
 Über die in den §§ 56 bis 58 des Bundesdatenschutzgesetzes enthaltenen Rechte der betroffenen Personen hinaus gelten für die Verarbeitung personenbezogener Daten in den Informationssystemen der Behörden des Zollfahndungsdienstes die Besonderheiten, dass das Zollkriminalamt die Auskunft nach § 57 des Bundesdatenschutzgesetzes im Einvernehmen mit der Stelle, die die datenschutzrechtliche Verantwortung nach § 88 Absatz 2 trägt, erteilt. Bei der Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten nach § 58 des Bundesdatenschutzgesetzes findet Satz 1 entsprechende Anwendung bei Daten, die in Informationssystemen der Behörden des Zollfahndungsdienstes verarbeitet werden.
 
-
-## § 101 – Entschädigung für Leistungen
+# § 101 – Entschädigung für Leistungen
 
 Die Behörden des Zollfahndungsdienstes haben denjenigen, die geschäftsmäßig Post- oder Telekommunikationsdienste erbringen oder an der Erbringung solcher Dienste mitwirken, für ihre Leistungen bei der Durchführung von Maßnahmen nach § 10 Absatz 1 bis 3, § 30 Absatz 1 bis 4 und den §§ 72 und 77 eine Entschädigung zu gewähren, deren Umfang sich nach § 23 des Justizvergütungs- und -entschädigungsgesetzes bemisst. Die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
 
-
-## § 102 – Schadensausgleich
+# § 102 – Schadensausgleich
 
 Erleidet jemand bei der Erfüllung der Aufgaben der Behörden des Zollfahndungsdienstes nach § 7 sowie bei einer Inanspruchnahme nach § 39 einen Schaden, so gelten die §§ 51 bis 56 des Bundespolizeigesetzes entsprechend.
 
-
-## § 103 – Schadensersatz in Informationssystemen
+# § 103 – Schadensersatz in Informationssystemen
 
 (1) Bei der Datenverarbeitung in den Informationssystemen der Behörden des Zollfahndungsdienstes gilt das Zollkriminalamt gegenüber einer betroffenen Person als allein Verantwortlicher im Sinne von § 83 Absatz 1 des Bundesdatenschutzgesetzes. § 83 Absatz 3 des Bundesdatenschutzgesetzes findet keine Anwendung.
 
 (2) In den Fällen des Absatzes 1 ist der Schaden im Innenverhältnis auszugleichen, soweit er der datenschutzrechtlichen Verantwortung einer anderen Stelle zuzurechnen ist.
 
-
-## § 104 – Einschränkung von Grundrechten
+# § 104 – Einschränkung von Grundrechten
 
 Die Grundrechte auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 Absatz 1 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 105 – Strafvorschriften
+# § 105 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 79 eine Mitteilung macht.
 
-
-## § 106 – Bußgeldvorschriften
+# § 106 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -2094,8 +1985,7 @@ zuwiderhandelt,
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in Fällen des Absatzes 1 Nummer 1 Buchstabe a das Hauptzollamt und in den übrigen Fällen des Absatzes 1 das Zollkriminalamt.
 
-
-## § 107 – Verordnungsermächtigung
+# § 107 – Verordnungsermächtigung
 
 Die Landesregierungen werden ermächtigt, die Zuständigkeit des Amtsgerichts nach
 
@@ -2111,8 +2001,7 @@ Die Landesregierungen werden ermächtigt, die Zuständigkeit des Amtsgerichts na
 
 durch Rechtsverordnung einem anderen Amtsgericht zu übertragen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 108 – Übergangsvorschrift
+# § 108 – Übergangsvorschrift
 
 (1) Für automatisierte Dateisysteme, die vor dem 6. Mai 2016 eingerichtet worden sind, ist § 11 Absatz 4 Satz 1 bis 3 des Zollfahndungsdienstgesetzes vom 16. August 2002 (BGBl. I S. 3202), in der bis zum 1. April 2021 geltenden Fassung bis zum 5. Mai 2023 weiter anzuwenden, es sei denn, es erfolgt bereits zuvor eine Protokollierung nach § 76 des Bundesdatenschutzgesetzes in Verbindung mit § 91 dieses Gesetzes.
 

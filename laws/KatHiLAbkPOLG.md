@@ -1,20 +1,15 @@
-# [KatHiLAbkPOLG] Gesetz zu dem Abkommen vom 10. April 1997 zwischen der Bundesrepublik Deutschland und der Republik Polen über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
-
-Ausfertigungsdatum: 07.07.1998
-
+% Gesetz zu dem Abkommen vom 10. April 1997 zwischen der Bundesrepublik Deutschland und der Republik Polen über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+% Ausfertigungsdatum: 07.07.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Warschau am 10. April 1997 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei Hilfeleistungen in der Republik Polen entstehen, trägt
 
@@ -26,8 +21,7 @@ Dem in Warschau am 10. April 1997 unterzeichneten Abkommen zwischen der Bundesre
 
 (3) Bei Aufwendungen, die auf seiten der Bundesrepublik Deutschland in den Fällen des Artikels 9 Abs. 3 entstehen, richtet sich die Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in den Aufgabenbereich des Bundes oder eines Landes fällt.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

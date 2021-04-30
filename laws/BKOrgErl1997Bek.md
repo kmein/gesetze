@@ -1,20 +1,15 @@
-# [BKOrgErl1997Bek] Bekanntmachung des Organisationserlasses des Bundeskanzlers
-
-Ausfertigungsdatum: 17.12.1997
-
+% Bekanntmachung des Organisationserlasses des Bundeskanzlers
+% Ausfertigungsdatum: 17.12.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom 17. Dezember 1997 bekannt, der mit Wirkung vom gleichen Tage in Kraft tritt:
 
-
-## I.
+# I.
 
 Das Bundesministerium für Post und Telekommunikation wird mit dem Ablauf des 31. Dezember 1997 aufgelöst.
 
-
-## II.
+# II.
 
 Mit Wirkung vom 1. Januar 1998 tritt folgendes in Kraft:
 
@@ -33,12 +28,10 @@ Die der Bundesdruckerei GmbH durch Dienstleistungsüberlassungsvertrag zugeordne
 
 2. Dem Bundesministerium für Wirtschaft werden alle übrigen Zuständigkeiten aus dem Geschäftsbereich des Bundesministeriums für Post und Telekommunikation übertragen.
 
-
-## III.
+# III.
 
 Die Einzelheiten des Überganges werden zwischen den beteiligten Bundesministern geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Chef des Bundeskanzleramtes

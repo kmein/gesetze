@@ -1,32 +1,25 @@
-# [ARegV] Verordnung über die Anreizregulierung der Energieversorgungsnetze  (Anreizregulierungsverordnung - ARegV)
-
-Ausfertigungsdatum: 29.10.2007
-
+% Verordnung über die Anreizregulierung der Energieversorgungsnetze  (Anreizregulierungsverordnung - ARegV)
+% Ausfertigungsdatum: 29.10.2007
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Rechtsverordnung regelt die Bestimmung der Entgelte für den Zugang zu den Energieversorgungsnetzen im Wege der Anreizregulierung. Netzentgelte werden ab dem 1. Januar 2009 im Wege der Anreizregulierung bestimmt.
 
 (2) Diese Rechtsverordnung findet auf einen Netzbetreiber, für den noch keine kalenderjährliche Erlösobergrenze nach § 4 Absatz 1 bestimmt worden ist, für eine Übergangszeit bis zum Ende der laufenden Regulierungsperiode keine Anwendung. Die Rechtsverordnung bleibt bis zum Abschluss der darauf folgenden Regulierungsperiode unangewendet, wenn bei der nächsten Kostenprüfung nach § 6 Absatz 1 für diesen Netzbetreiber noch keine hinreichenden Daten für das Basisjahr vorliegen.
 
-
-## § 2 – Beginn des Verfahrens
+# § 2 – Beginn des Verfahrens
 
 Das Verfahren zur Bestimmung von Erlösobergrenzen wird von Amts wegen eingeleitet.
 
-
-## § 3 – Beginn und Dauer der Regulierungsperioden
+# § 3 – Beginn und Dauer der Regulierungsperioden
 
 (1) Die erste Regulierungsperiode beginnt am 1. Januar 2009. Die nachfolgenden Regulierungsperioden beginnen jeweils am 1. Januar des auf das letzte Kalenderjahr der vorangegangenen Regulierungsperiode folgenden Kalenderjahres.
 
 (2) Eine Regulierungsperiode dauert fünf Jahre.
 
-
-## § 4 – Erlösobergrenzen
+# § 4 – Erlösobergrenzen
 
 (1) Die Obergrenzen der zulässigen Gesamterlöse eines Netzbetreibers aus den Netzentgelten (Erlösobergrenze) werden nach Maßgabe der §§ 5 bis 16, 19, 22, 24 und 25 bestimmt.
 
@@ -46,8 +39,7 @@ Einer erneuten Festlegung der Erlösobergrenze bedarf es in diesen Fällen nicht
 
 1. erfolgt eine Anpassung der Erlösobergrenze nach Maßgabe des § 10 oder § 10a;
 
-1a.  
-erfolgt eine Anpassung der Erlösobergrenze nach Maßgabe des § 5;
+1a. erfolgt eine Anpassung der Erlösobergrenze nach Maßgabe des § 5;
 
 2. kann eine Anpassung der Erlösobergrenze erfolgen, wenn auf Grund des Eintritts eines unvorhersehbaren Ereignisses im Falle der Beibehaltung der Erlösobergrenze eine nicht zumutbare Härte für den Netzbetreiber entstehen würde.
 
@@ -55,8 +47,7 @@ Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum 30. Juni de
 
 (5) Erfolgt eine Bestimmung des Qualitätselements nach Maßgabe des § 19, so hat die Regulierungsbehörde von Amts wegen die Erlösobergrenze entsprechend anzupassen. Die Anpassung nach Satz 1 erfolgt höchstens einmal jährlich zum 1. Januar des folgenden Kalenderjahres.
 
-
-## § 5 – Regulierungskonto
+# § 5 – Regulierungskonto
 
 (1) Die Differenz zwischen den nach § 4 zulässigen Erlösen und den vom Netzbetreiber unter Berücksichtigung der tatsächlichen Mengenentwicklung erzielbaren Erlösen wird jährlich vom Netzbetreiber ermittelt und auf einem Regulierungskonto verbucht. Gleiches gilt für die Differenz zwischen den für das Kalenderjahr tatsächlich entstandenen Kosten nach § 11 Absatz 2 Satz 1 Nummer 4 bis 6, 8, 13 und 15 bis 17 sowie den im jeweiligen Kalenderjahr entstandenen Kosten nach § 11 Absatz 5, soweit dies in einer Festlegung nach § 32 Absatz 1 Nummer 4a vorgesehen ist, und den in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen. Einbezogen in das Regulierungskonto wird darüber hinaus die Differenz zwischen den für das Kalenderjahr bei effizienter Leistungserbringung entstehenden Kosten des Messstellenbetriebs, zu dem auch die Messung gehört, und den in der Erlösobergrenze diesbezüglich enthaltenen Ansätzen, soweit diese Differenz durch Änderungen der Zahl der Anschlussnutzer, bei denen der Messstellenbetrieb durch den Netzbetreiber durchgeführt wird, verursacht wird und soweit es sich nicht um Kosten für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen im Sinne des Messstellenbetriebsgesetzes handelt. In das Regulierungskonto wird auch die Differenz einbezogen, die durch Maßnahmen des Netzbetreibers im Zusammenhang mit § 40 Absatz 2 Satz 3, Absatz 3 Satz 1 und 2 des Energiewirtschaftsgesetzes in Verbindung mit § 55 Absatz 1 Nummer 4 oder Absatz 2 des Messstellenbetriebsgesetzes verursacht wird, soweit der Netzbetreiber für die Durchführung zuständig war. Das Regulierungskonto wird durch den Netzbetreiber geführt.
 
@@ -68,8 +59,7 @@ Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum 30. Juni de
 
 (4) Der Antrag nach § 4 Absatz 4 Satz 1 Nummer 1a muss neben dem ermittelten Saldo die der Anpassung zugrunde liegenden Daten, insbesondere die nach § 4 zulässigen und die tatsächlich erzielten Erlöse des abgelaufenen Kalenderjahres enthalten. Der Antrag muss weiterhin Angaben zur Höhe der tatsächlich entstandenen Kapitalkosten, der dem Kapitalkostenaufschlag nach § 10a zugrunde gelegten betriebsnotwendigen Anlagegüter enthalten. Hierzu gehören insbesondere Angaben zu den Anschaffungs- und Herstellungskosten und die jeweils in Anwendung gebrachte betriebsgewöhnliche Nutzungsdauer nach Anlage 1 der Stromnetzentgeltverordnung oder nach Anlage 1 der Gasnetzentgeltverordnung.
 
-
-## § 6 – Bestimmung des Ausgangsniveaus der Erlösobergrenze und des Kapitalkostenabzugs
+# § 6 – Bestimmung des Ausgangsniveaus der Erlösobergrenze und des Kapitalkostenabzugs
 
 (1) Die Regulierungsbehörde ermittelt das Ausgangsniveau für die Bestimmung der Erlösobergrenzen durch eine Kostenprüfung nach den Vorschriften des Teils 2 Abschnitt 1 der Gasnetzentgeltverordnung und des Teils 2 Abschnitt 1 der Stromnetzentgeltverordnung. Die §§ 28 bis 30 der Gasnetzentgeltverordnung sowie die §§ 28 bis 30 der Stromnetzentgeltverordnung gelten entsprechend. Die Kostenprüfung erfolgt im vorletzten Kalenderjahr vor Beginn der Regulierungsperiode auf der Grundlage der Daten des letzten abgeschlossenen Geschäftsjahres. Das Kalenderjahr, in dem das der Kostenprüfung zugrunde liegende Geschäftsjahr endet, gilt als Basisjahr im Sinne dieser Verordnung. Als Basisjahr für die erste Regulierungsperiode gilt 2006.
 
@@ -79,18 +69,15 @@ Der Antrag auf Anpassung nach Satz 1 Nr. 1 kann einmal jährlich zum 30. Juni de
 
 (4) Absatz 3 ist nicht auf Betreiber von Übertragungs- und Fernleitungsnetzen anzuwenden.
 
-
-## § 7 – Regulierungsformel
+# § 7 – Regulierungsformel
 
 Die Bestimmung der Erlösobergrenzen für die Netzbetreiber erfolgt in Anwendung der jeweiligen Regulierungsformel in Anlage 1.
 
-
-## § 8 – Allgemeine Geldwertentwicklung
+# § 8 – Allgemeine Geldwertentwicklung
 
 Der Wert für die allgemeine Geldwertentwicklung ergibt sich aus dem durch das Statistische Bundesamt veröffentlichten Verbraucherpreisgesamtindex. Für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1 wird der Verbraucherpreisgesamtindex des vorletzten Kalenderjahres vor dem Jahr, für das die Erlösobergrenze gilt, verwendet. Dieser wird ins Verhältnis gesetzt zum Verbraucherpreisgesamtindex für das Basisjahr.
 
-
-## § 9 – Genereller sektoraler Produktivitätsfaktor
+# § 9 – Genereller sektoraler Produktivitätsfaktor
 
 (1) Der generelle sektorale Produktivitätsfaktor wird ermittelt aus der Abweichung des netzwirtschaftlichen Produktivitätsfortschritts vom gesamtwirtschaftlichen Produktivitätsfortschritt und der gesamtwirtschaftlichen Einstandspreisentwicklung von der netzwirtschaftlichen Einstandspreisentwicklung.
 
@@ -102,8 +89,7 @@ Der Wert für die allgemeine Geldwertentwicklung ergibt sich aus dem durch das S
 
 (5) Die Einbeziehung des generellen sektoralen Produktivitätsfaktors in die Erlösobergrenzen erfolgt durch Potenzierung der Werte nach den Absätzen 2 und 3 mit dem jeweiligen Jahr der Regulierungsperiode.
 
-
-## § 10 – Erweiterungsfaktor
+# § 10 – Erweiterungsfaktor
 
 (1) Ändert sich während der Regulierungsperiode die Versorgungsaufgabe des Netzbetreibers nachhaltig, wird dies bei der Bestimmung der Erlösobergrenze durch einen Erweiterungsfaktor berücksichtigt. Die Ermittlung des Erweiterungsfaktors erfolgt nach der Formel in Anlage 2.
 
@@ -123,8 +109,7 @@ im Antragszeitpunkt dauerhaft und in erheblichem Umfang geändert haben. Von ein
 
 (4) Die Absätze 1 bis 3 finden bei Betreibern von Übertragungs- und Fernleitungsnetzen sowie bei Hochspannungsnetzen von Betreibern von Verteilernetzen keine Anwendung. Bei der Ermittlung der Gesamtkosten des Netzbetreibers nach Absatz 2 Satz 3 bleiben die Kosten des Hochspannungsnetzes unberücksichtigt.
 
-
-## § 10a – Kapitalkostenaufschlag
+# § 10a – Kapitalkostenaufschlag
 
 (1) Die Regulierungsbehörde genehmigt nach Maßgabe der Absätze 2 bis 9 einen Kapitalkostenaufschlag auf die Erlösobergrenze für Kapitalkosten, die aufgrund von nach dem Basisjahr getätigten Investitionen in den Bestand betriebsnotwendiger Anlagegüter entstehen. Kapitalkosten im Sinne des Kapitalkostenaufschlags nach Satz 1 sind die Summe der kalkulatorischen Abschreibungen, der kalkulatorischen Eigenkapitalverzinsung, der kalkulatorischen Gewerbesteuer und des Aufwandes für Fremdkapitalzinsen. Die Genehmigung gilt jeweils bis zum 31. Dezember des auf den Antrag folgenden Jahres.
 
@@ -158,8 +143,7 @@ Es ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand anzusetzen
 
 (10) Die Absätze 1 bis 9 sind nicht auf Betreiber von Übertragungs- und Fernleitungsnetzen anzuwenden.
 
-
-## § 11 – Beeinflussbare und nicht beeinflussbare Kostenanteile
+# § 11 – Beeinflussbare und nicht beeinflussbare Kostenanteile
 
 (1) Als nicht beeinflussbare Kostenanteile gelten dauerhaft nicht beeinflussbare Kostenanteile und vorübergehend nicht beeinflussbare Kostenanteile.
 
@@ -177,15 +161,13 @@ Es ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand anzusetzen
 
 6. genehmigten Investitionsmaßnahmen nach § 23, soweit sie nicht zu den Kosten nach § 17 Absatz 1, den §§ 17a und 17b, des § 12b Absatz 1 Satz 3 Nummer 7 oder des Flächenentwicklungsplans nach § 5 des Windenergie-auf-See-Gesetzes gehören und soweit sie dem Inhalt der Genehmigung nach durchgeführt wurden sowie in der Regulierungsperiode kostenwirksam sind und die Genehmigung nicht aufgehoben worden ist,
 
-6a.  
-der Auflösung des Abzugsbetrags nach § 23 Absatz 2a,
+6a. der Auflösung des Abzugsbetrags nach § 23 Absatz 2a,
 
 7. Mehrkosten für die Errichtung, den Betrieb und die Änderung von Erdkabeln nach § 43 Absatz 1 Satz 1 Nummer 2 und Absatz 2 Satz 1 Nummer 2 des Energiewirtschaftsgesetzes, soweit diese nicht nach Nummer 6 berücksichtigt werden und soweit die Kosten bei effizientem Netzbetrieb entstehen,
 
 8. vermiedenen Netzentgelten im Sinne von § 18 der Stromnetzentgeltverordnung, § 57 Absatz 3 des Erneuerbare-Energien-Gesetzes und § 6 Absatz 4 und § 13 Absatz 5 des Kraft-Wärme-Kopplungsgesetzes,
 
-8a.  
-dem erweiterten Bilanzausgleich gemäß § 35 der Gasnetzzugangsverordnung vom 3. September 2010 (BGBl. I S. 1261) in der jeweils geltenden Fassung, abzüglich der vom Einspeiser von Biogas zu zahlenden Pauschale,
+8a. dem erweiterten Bilanzausgleich gemäß § 35 der Gasnetzzugangsverordnung vom 3. September 2010 (BGBl. I S. 1261) in der jeweils geltenden Fassung, abzüglich der vom Einspeiser von Biogas zu zahlenden Pauschale,
 
 –  
 erforderliche Maßnahmen des Netzbetreibers gemäß § 33 Absatz 10, § 34 Absatz 2 und § 36 Absatz 3 und 4 der Gasnetzzugangsverordnung,
@@ -198,8 +180,7 @@ Entgelte für vermiedene Netzkosten, die vom Netzbetreiber gemäß § 20a der Ga
 
 in der Höhe, in der die Kosten unter Berücksichtigung der Umlage nach § 20b der Gasnetzentgeltverordnung beim Netzbetreiber verbleiben.
 
-8b.  
-Zahlungen an Städte oder Gemeinden nach Maßgabe von § 5 Absatz 4 der Stromnetzentgeltverordnung,
+8b. Zahlungen an Städte oder Gemeinden nach Maßgabe von § 5 Absatz 4 der Stromnetzentgeltverordnung,
 
 9. betrieblichen und tarifvertraglichen Vereinbarungen zu Lohnzusatz- und Versorgungsleistungen, soweit diese in der Zeit vor dem 31. Dezember 2016 abgeschlossen worden sind,
 
@@ -209,8 +190,7 @@ Zahlungen an Städte oder Gemeinden nach Maßgabe von § 5 Absatz 4 der Stromnet
 
 12. Entscheidungen über die grenzüberschreitende Kostenaufteilung nach Artikel 12 der Verordnung (EU) Nr. 347/2013 des Europäischen Parlaments und des Rates vom 17. April 2013 zu Leitlinien für die transeuropäische Energieinfrastruktur und zur Aufhebung der Entscheidung Nr. 1364/2006/EG und zur Änderung der Verordnungen (EG) Nr. 713/2009, (EG) Nr. 714/2009 und (EG) Nr. 715/2009 (ABl. L 115 vom 25.4.2013, S. 39), die zuletzt durch die Delegierte Verordnung (EU) 2016/89 (ABl. L 19 vom 27.1.2016, S. 1) geändert worden ist,
 
-12a.  
-Forschung und Entwicklung nach Maßgabe des § 25a,
+12a. Forschung und Entwicklung nach Maßgabe des § 25a,
 
 13. der Auflösung von Netzanschlusskostenbeiträgen und Baukostenzuschüssen nach § 9 Abs. 1 Satz 1 Nr. 3 und 4 in Verbindung mit Satz 2 der Stromnetzentgeltverordnung und § 9 Abs. 1 Satz 1 Nr. 3 und 4 in Verbindung mit Satz 2 der Gasnetzentgeltverordnung,
 
@@ -238,8 +218,7 @@ Bei Gasversorgungsnetzen gelten als dauerhaft nicht beeinflussbare Kosten auch s
 
 (5) Als volatile Kostenanteile gelten Kosten für die Beschaffung von Treibenergie. Andere beeinflussbare oder vorübergehend nicht beeinflussbare Kostenanteile, insbesondere Kosten für die Beschaffung von Verlustenergie, deren Höhe sich in einem Kalenderjahr erheblich von der Höhe des jeweiligen Kostenanteils im vorhergehenden Kalenderjahr unterscheiden kann, gelten als volatile Kostenanteile, soweit die Regulierungsbehörde dies nach § 32 Absatz 1 Nummer 4a festgelegt hat. Kapitalkosten oder Fremdkapitalkosten gelten nicht als volatile Kostenanteile.
 
-
-## § 12 – Effizienzvergleich
+# § 12 – Effizienzvergleich
 
 (1) Die Bundesnetzagentur führt vor Beginn der Regulierungsperiode mit den in Anlage 3 aufgeführten Methoden, unter Berücksichtigung der in Anlage 3 genannten Vorgaben sowie nach Maßgabe der Absätze 2 bis 4 und der §§ 13 und 14 jeweils einen bundesweiten Effizienzvergleich für die Betreiber von Elektrizitätsverteilernetzen und Gasverteilernetzen mit dem Ziel durch, die Effizienzwerte für diese Netzbetreiber zu ermitteln. Bei der Ausgestaltung der in Anlage 3 aufgeführten Methoden durch die Bundesnetzagentur sind Vertreter der betroffenen Wirtschaftskreise und der Verbraucher rechtzeitig zu hören. Ergeben sich auf Grund rechtskräftiger gerichtlicher Entscheidungen nachträgliche Änderungen in dem nach § 6 Absatz 1 und 2 ermittelten Ausgangsniveau, so bleibt der Effizienzvergleich von diesen nachträglichen Änderungen unberührt.
 
@@ -255,8 +234,7 @@ Bei Gasversorgungsnetzen gelten als dauerhaft nicht beeinflussbare Kosten auch s
 
 (6) Die Landesregulierungsbehörden führen zur Bestimmung von Effizienzwerten einen Effizienzvergleich nach den Absätzen 1 bis 3 sowie zur Bestimmung der Supereffizienzwerte eine Supereffizienzanalyse nach § 12a in Verbindung mit Anlage 3 durch, soweit sie nicht die Ergebnisse des Effizienzvergleichs und der Supereffizienzanalyse der Bundesnetzagentur verwenden. Zur Sicherstellung der Belastbarkeit der Ergebnisse des Effizienzvergleichs sind auch Netzbetreiber, die nicht in ihre Zuständigkeit nach § 54 Abs. 2 des Energiewirtschaftsgesetzes fallen, in den Effizienzvergleich einzubeziehen.
 
-
-## § 12a – Effizienzbonus
+# § 12a – Effizienzbonus
 
 (1) Die Bundesnetzagentur ermittelt für im Effizienzvergleich nach § 12 als effizient ausgewiesene Netzbetreiber für die Dauer einer Regulierungsperiode einen Aufschlag auf die Erlösobergrenze (Effizienzbonus) auf Grundlage der Supereffizienzanalyse nach Anlage 3 Nummer 5 Satz 9. Die Bundesnetzagentur berücksichtigt dabei sowohl den Aufwandsparameter nach § 13 Absatz 2 als auch den Aufwandsparameter nach § 12 Absatz 4a. Der Supereffizienzwert eines Netzbetreibers entspricht der Differenz aus den individuellen Effizienzwerten aus der Supereffizienzanalyse abzüglich der individuellen Effizienzwerte aus der nicht-parametrischen Methode nach Anlage 3.
 
@@ -270,8 +248,7 @@ Bei Gasversorgungsnetzen gelten als dauerhaft nicht beeinflussbare Kosten auch s
 
 (6) Die Absätze 1 bis 5 sind nicht auf Betreiber von Übertragungs- und Fernleitungsnetzen anzuwenden.
 
-
-## § 13 – Parameter für den Effizienzvergleich
+# § 13 – Parameter für den Effizienzvergleich
 
 (1) Die Regulierungsbehörde hat im Effizienzvergleich Aufwandsparameter und Vergleichsparameter zu berücksichtigen.
 
@@ -297,8 +274,7 @@ Bei der Bestimmung von Parametern zur Beschreibung geografischer, geologischer o
 
 (4) (weggefallen)
 
-
-## § 14 – Bestimmung der Kosten zur Durchführung des Effizienzvergleichs
+# § 14 – Bestimmung der Kosten zur Durchführung des Effizienzvergleichs
 
 (1) Die im Rahmen des Effizienzvergleichs als Aufwandsparameter anzusetzenden Kosten werden nach folgenden Maßgaben ermittelt:
 
@@ -310,8 +286,7 @@ Bei der Bestimmung von Parametern zur Beschreibung geografischer, geologischer o
 
 (2) Die Vergleichbarkeitsrechnung nach Absatz 1 Nr. 3 erfolgt auf der Grundlage der Tagesneuwerte des Anlagevermögens des Netzbetreibers. Für die Ermittlung von einheitlichen Nutzungsdauern für jede Anlagengruppe sind die unteren Werte der betriebsgewöhnlichen Nutzungsdauern in Anlage 1 der Gasnetzentgeltverordnung und Anlage 1 der Stromnetzentgeltverordnung zu verwenden. Der zu verwendende Zinssatz bestimmt sich als gewichteter Mittelwert aus Eigenkapitalzinssatz und Fremdkapitalzinssatz, wobei der Eigenkapitalzinssatz mit 40 Prozent und der Fremdkapitalzinssatz mit 60 Prozent zu gewichten ist. Von den 60 Prozent des Fremdkapitalzinssatzes entfallen 25 Prozentpunkte auf unverzinsliches Fremdkapital. Es sind die nach § 7 Abs. 6 der Gasnetzentgeltverordnung und § 7 Abs. 6 der Stromnetzentgeltverordnung für Neuanlagen geltenden Eigenkapitalzinssätze anzusetzen. Für das verzinsliche Fremdkapital richtet sich die Verzinsung nach dem auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen Durchschnitt der von der Deutschen Bundesbank veröffentlichten Umlaufrendite festverzinslicher Wertpapiere inländischer Emittenten. Die Eigenkapitalzinssätze und der Fremdkapitalzinssatz sind um den auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen Durchschnitt der Preisänderungsrate nach dem vom Statistischen Bundesamt veröffentlichten Verbraucherpreisgesamtindex zu ermäßigen.
 
-
-## § 15 – Ermittlung der Ineffizienzen
+# § 15 – Ermittlung der Ineffizienzen
 
 (1) Weist ein Netzbetreiber nach, dass Besonderheiten seiner Versorgungsaufgabe im Sinne des Vorliegens außergewöhnlicher struktureller Umstände bestehen, die im Effizienzvergleich durch die Auswahl der Parameter nach § 13 Absatz 3 und 4 nicht hinreichend berücksichtigt wurden und durch den Netzbetreiber nicht beeinflussbar sind, und dies die nach § 14 Absatz 1 Nummer 1 und 2 ermittelten Kosten um mindestens 5 Prozent erhöht, so hat die Regulierungsbehörde einen Aufschlag auf den nach den §§ 12 bis 14 oder 22 ermittelten Effizienzwert anzusetzen (bereinigter Effizienzwert). Ist der Effizienzwert nach § 12 Abs. 4 angesetzt worden, hat der Netzbetreiber die erforderlichen Nachweise zu erbringen, dass die Besonderheiten seiner Versorgungsaufgabe einen zusätzlichen Aufschlag nach Satz 1 rechtfertigen.
 
@@ -319,23 +294,19 @@ Bei der Bestimmung von Parametern zur Beschreibung geografischer, geologischer o
 
 (3) Aus dem nach §§ 12 bis 14, 22 oder 24 ermittelten Effizienzwert oder dem bereinigten Effizienzwert werden die Ineffizienzen ermittelt. Die Ineffizienzen ergeben sich aus der Differenz zwischen den Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kostenanteile und den mit dem in Satz 1 genannten Effizienzwert multiplizierten Gesamtkosten nach Abzug der dauerhaft nicht beeinflussbaren Kosten.
 
-
-## § 16 – Effizienzvorgaben
+# § 16 – Effizienzvorgaben
 
 (1) Die Festlegung der Erlösobergrenzen durch die Regulierungsbehörde hat so zu erfolgen, dass die nach den §§ 12 und 13 bis 15 ermittelten Ineffizienzen unter Anwendung eines Verteilungsfaktors rechnerisch bis zum Ende der Regulierungsperiode gleichmäßig abgebaut werden (individuelle Effizienzvorgabe).
 
 (2) Soweit ein Netzbetreiber nachweist, dass er die für ihn festgelegte individuelle Effizienzvorgabe unter Nutzung aller ihm möglichen und zumutbaren Maßnahmen nicht erreichen und übertreffen kann, hat die Regulierungsbehörde die Effizienzvorgabe abweichend von Absatz 1 zu bestimmen. Bei der Bewertung der Zumutbarkeit ist zu berücksichtigen, inwieweit der Effizienzwert nach § 12 Abs. 4 angesetzt worden ist. Unzumutbar sind auch Maßnahmen, die dazu führen, dass die wesentlichen Arbeitsbedingungen, die in dem nach dem Energiewirtschaftsgesetz regulierten Bereich üblich sind, erheblich unterschritten werden. Eine Berücksichtigung struktureller Besonderheiten erfolgt ausschließlich nach Maßgabe des § 15 Abs. 1.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Qualitätsvorgaben
+# § 18 – Qualitätsvorgaben
 
 Qualitätsvorgaben dienen der Sicherung eines langfristig angelegten, leistungsfähigen und zuverlässigen Betriebs von Energieversorgungsnetzen. Hierzu dienen Qualitätselemente nach den §§ 19 und 20 und die Berichtspflichten nach § 21.
 
-
-## § 19 – Qualitätselement in der Regulierungsformel
+# § 19 – Qualitätselement in der Regulierungsformel
 
 (1) Auf die Erlösobergrenzen können Zu- oder Abschläge vorgenommen werden, wenn Netzbetreiber hinsichtlich der Netzzuverlässigkeit oder der Netzleistungsfähigkeit von Kennzahlenvorgaben abweichen (Qualitätselement). Die Kennzahlenvorgaben sind nach Maßgabe des § 20 unter Heranziehung der Daten von Netzbetreibern aus dem gesamten Bundesgebiet zu ermitteln und in Zu- und Abschläge umzusetzen. Dabei ist zwischen Gasverteilernetzen und Stromverteilernetzen zu unterscheiden.
 
@@ -343,8 +314,7 @@ Qualitätsvorgaben dienen der Sicherung eines langfristig angelegten, leistungsf
 
 (3) Die Netzzuverlässigkeit beschreibt die Fähigkeit des Energieversorgungsnetzes, Energie möglichst unterbrechungsfrei und unter Einhaltung der Produktqualität zu transportieren. Die Netzleistungsfähigkeit beschreibt die Fähigkeit des Energieversorgungsnetzes, die Nachfrage nach Übertragung von Energie zu befriedigen.
 
-
-## § 20 – Bestimmung des Qualitätselements
+# § 20 – Bestimmung des Qualitätselements
 
 (1) Zulässige Kennzahlen für die Bewertung der Netzzuverlässigkeit nach § 19 sind insbesondere die Dauer der Unterbrechung der Energieversorgung, die Häufigkeit der Unterbrechung der Energieversorgung, die Menge der nicht gelieferten Energie und die Höhe der nicht gedeckten Last. Eine Kombination und Gewichtung dieser Kennzahlen ist möglich. Für die ausgewählten Kennzahlen sind Kennzahlenwerte der einzelnen Netzbetreiber zu ermitteln.
 
@@ -356,13 +326,11 @@ Qualitätsvorgaben dienen der Sicherung eines langfristig angelegten, leistungsf
 
 (5) Auch für die Bewertung der Netzleistungsfähigkeit können Kennzahlen herangezogen werden. Dies gilt nur, soweit der Regulierungsbehörde hierfür hinreichend belastbare Datenreihen vorliegen. Kennzahlen nach Satz 1 können insbesondere die Häufigkeit und Dauer von Maßnahmen zur Bewirtschaftung von Engpässen und die Häufigkeit und Dauer des Einspeisemanagements nach dem Erneuerbare-Energien-Gesetz sein. Die Absätze 1 bis 4 finden in diesem Fall entsprechende Anwendung, wobei bei Befragungen nach Absatz 3 nicht auf die Kunden, sondern auf die Netznutzer, die Energie einspeisen, abzustellen ist. Die Bundesnetzagentur nimmt eine Evaluierung nach § 33 Abs. 3 Satz 2 vor, inwieweit die Verwendung von Kennzahlen nach den Sätzen 1 und 3 der Erfüllung der unter § 1 des Energiewirtschaftsgesetzes genannten Zwecke dient.
 
-
-## § 21 – Bericht zum Investitionsverhalten
+# § 21 – Bericht zum Investitionsverhalten
 
 Die Netzbetreiber sind verpflichtet, auf Anforderung der Regulierungsbehörde einen Bericht zu ihrem Investitionsverhalten zu erstellen und der Regulierungsbehörde zu übermitteln. Der Bericht dient insbesondere dazu, festzustellen, ob die Anreizregulierung in Hinblick auf die in § 1 des Energiewirtschaftsgesetzes genannten Zwecke keine nachteiligen Auswirkungen auf das Investitionsverhalten der Netzbetreiber hat. Aus dem Bericht muss sich ergeben, inwieweit die jährlichen Investitionen der Netzbetreiber in einem angemessenen Verhältnis zu Alter und Zustand ihrer Anlagen, ihren jährlichen Abschreibungen und ihrer Versorgungsqualität stehen. Die Regulierungsbehörde kann Ergänzungen und Erläuterungen des Berichts verlangen.
 
-
-## § 22 – Sondervorschriften für den Effizienzvergleich
+# § 22 – Sondervorschriften für den Effizienzvergleich
 
 (1) Bei Betreibern von Übertragungsnetzen ist vor Beginn der Regulierungsperiode zur Ermittlung der Effizienzwerte ein Effizienzvergleich unter Einbeziehung von Netzbetreibern in anderen Mitgliedstaaten der Europäischen Union (internationaler Effizienzvergleich) durchzuführen. Der internationale Effizienzvergleich erfolgt mittels der in Anlage 3 genannten Methoden. Stehen für die Durchführung einer stochastischen Effizienzgrenzenanalyse nicht die Daten einer hinreichenden Anzahl von Netzbetreibern zur Verfügung, findet ausschließlich die Dateneinhüllungsanalyse Anwendung. Bei der Durchführung des internationalen Effizienzvergleichs ist die strukturelle Vergleichbarkeit der zum Vergleich herangezogenen Unternehmen sicherzustellen, insbesondere auch durch Berücksichtigung nationaler Unterschiede wie unterschiedlicher technischer und rechtlicher Vorgaben oder von Unterschieden im Lohnniveau oder durch die Herstellung der Vergleichbarkeit der Aufwandsparameter nach Maßgabe des § 14. § 12 Abs. 2 bis 4 und § 13 Abs. 1 und 3 Satz 2, 3, 7 und 9 finden entsprechend Anwendung.
 
@@ -372,8 +340,7 @@ Die Netzbetreiber sind verpflichtet, auf Anforderung der Regulierungsbehörde ei
 
 (4) Ist die Belastbarkeit des internationalen Effizienzvergleichs nach Absatz 3 Satz 4 für einzelne oder alle Betreiber von Fernleitungsnetzen nicht gewährleistet, insbesondere dadurch, dass der Bundesnetzagentur vergleichbare Daten von einer hinreichenden Anzahl an Netzbetreibern in anderen Mitgliedstaaten der Europäischen Union zum unmittelbaren Zugriff nicht vorliegen, so ist stattdessen für den oder die betreffenden Netzbetreiber eine relative Referenznetzanalyse nach Absatz 2 durchzuführen. Die relative Referenznetzanalyse kann auch ergänzend zum internationalen Effizienzvergleich nach Absatz 3 Satz 4 durchgeführt werden, um die Belastbarkeit der Ergebnisse zu verbessern.
 
-
-## § 23 – Investitionsmaßnahmen
+# § 23 – Investitionsmaßnahmen
 
 (1) Die Bundesnetzagentur genehmigt Investitionsmaßnahmen für Erweiterungs- und Umstrukturierungsinvestitionen in die Übertragungs- und Fernleitungsnetze, soweit diese Investitionen zur Stabilität des Gesamtsystems, für die Einbindung in das nationale oder internationale Verbundnetz oder für einen bedarfsgerechten Ausbau des Energieversorgungsnetzes nach § 11 des Energiewirtschaftsgesetzes notwendig sind. Dies umfasst insbesondere Investitionen, die vorgesehen sind für
 
@@ -427,8 +394,7 @@ Soweit die Bundesnetzagentur dies nach § 32 Absatz 1 Nummer 8 für Investitions
 
 (7) Betreibern von Verteilernetzen können Investitionsmaßnahmen durch die Regulierungsbehörde auch für Erweiterungs- und Umstrukturierungsinvestitionen in die Hochspannungsebene genehmigt werden, soweit diese Investitionen zur Stabilität des Gesamtsystems, für die Einbindung in das nationale oder internationale Verbundnetz oder für einen bedarfsgerechten Ausbau des Energieversorgungsnetzes nach § 11 des Energiewirtschaftsgesetzes notwendig sind. Absatz 1 Satz 3 und 4 sowie die Absätze 2a bis 5 sind entsprechend anzuwenden.
 
-
-## § 24 – Vereinfachtes Verfahren
+# § 24 – Vereinfachtes Verfahren
 
 (1) Netzbetreiber, an deren Gasverteilernetz weniger als 15.000 Kunden oder an deren Elektrizitätsverteilernetz weniger als 30.000 Kunden unmittelbar oder mittelbar angeschlossen sind, können bezüglich des jeweiligen Netzes statt des Effizienzvergleichs zur Ermittlung von Effizienzwerten nach den §§ 12 bis 14 die Teilnahme an dem vereinfachten Verfahren nach Maßgabe des Absatzes 2 wählen.
 
@@ -438,13 +404,11 @@ Soweit die Bundesnetzagentur dies nach § 32 Absatz 1 Nummer 8 für Investitions
 
 (4) Netzbetreiber, die an dem vereinfachten Verfahren teilnehmen wollen, haben dies bei der Regulierungsbehörde jeweils bis zum 31. März des vorletzten der Regulierungsperiode vorangehenden Kalenderjahres zu beantragen; abweichend hiervon ist der Antrag für die erste Regulierungsperiode zum 15. Dezember 2007 zu stellen. Der Antrag nach Satz 1 muss die notwendigen Angaben zum Vorliegen der Voraussetzungen des Absatzes 1 enthalten. Die Regulierungsbehörde genehmigt die Teilnahme am vereinfachten Verfahren innerhalb von vier Wochen nach Eingang des vollständigen Antrags, wenn die Voraussetzungen des Absatzes 1 vorliegen. Der Netzbetreiber ist an das gewählte Verfahren für die Dauer einer Regulierungsperiode gebunden. Die Regulierungsbehörde veröffentlicht den von ihr nach Absatz 2 ermittelten gemittelten Effizienzwert spätestens zum 1. Januar des vorletzten der Regulierungsperiode vorangehenden Kalenderjahres. Die Bundesnetzagentur ist über die Entscheidung über den Antrag durch die Landesregulierungsbehörde zu unterrichten.
 
-
-## § 25 – (weggefallen)
+# § 25 – (weggefallen)
 
 \-
 
-
-## § 25a – Forschungs- und Entwicklungskosten
+# § 25a – Forschungs- und Entwicklungskosten
 
 (1) Auf Antrag des Netzbetreibers ist von der Regulierungsbehörde ein Zuschlag für Kosten aus Forschung und Entwicklung in die Erlösobergrenze für das jeweilige Kalenderjahr einzubeziehen. Der einzubeziehende Zuschlag beträgt 50 Prozent der nach Absatz 2 berücksichtigungsfähigen Kosten des nicht öffentlich geförderten Anteils der Gesamtkosten des Forschungs- und Entwicklungsvorhabens, wie er sich aufgrund entsprechender Kostennachweise des Netzbetreibers ergibt.
 
@@ -456,8 +420,7 @@ Soweit die Bundesnetzagentur dies nach § 32 Absatz 1 Nummer 8 für Investitions
 
 (5) Nach Abschluss des Forschungs- und Entwicklungsvorhabens hat der Netzbetreiber den Bescheid über die Prüfung des Verwendungsnachweises und, sofern eine Preisprüfung erfolgt, den dazu von der für die fachliche und administrative Prüfung des Projekts zuständigen Behörde ausgestellten Bescheid bei der Regulierungsbehörde vorzulegen.
 
-
-## § 26 – Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen
+# § 26 – Übergang von Netzen, Netzzusammenschlüsse und -aufspaltungen
 
 (1) Wird ein Energieversorgungsnetz oder werden mehrere Energieversorgungsnetze, für das oder die jeweils eine oder mehrere Erlösobergrenzen nach § 32 Abs. 1 Nr. 1 festgelegt sind, vollständig von einem Netzbetreiber auf einen anderen Netzbetreiber übertragen, so geht die Erlösobergrenze oder gehen die Erlösobergrenzen insgesamt auf den übernehmenden Netzbetreiber über. Satz 1 gilt entsprechend bei Zusammenschlüssen von mehreren Energieversorgungsnetzen.
 
@@ -471,8 +434,7 @@ Soweit die Bundesnetzagentur dies nach § 32 Absatz 1 Nummer 8 für Investitions
 
 (6) Die Regulierungsbehörde legt den nach den Absätzen 3 bis 5 bestimmten Anteil der Erlösobergrenze im Laufe einer Regulierungsperiode für die verbleibende Dauer der Regulierungsperiode erneut fest, wenn die beteiligten Netzbetreiber einen übereinstimmenden Antrag nach Absatz 2 stellen. Absatz 2 Satz 4 ist entsprechend anzuwenden.
 
-
-## § 27 – Datenerhebung
+# § 27 – Datenerhebung
 
 (1) Die Regulierungsbehörde ermittelt die zur Bestimmung der Erlösobergrenzen nach Teil 2 und 3 notwendigen Tatsachen. Hierzu erhebt sie bei den Netzbetreibern die notwendigen Daten
 
@@ -500,8 +462,7 @@ die Netzbetreiber sind insoweit zur Auskunft verpflichtet. Im Übrigen ermittelt
 
 (2) Die Bundesnetzagentur kann darüber hinaus die zur Evaluierung des Anreizregulierungssystems, jährlich zur Beobachtung des Investitionsverhaltens der Netzbetreiber und zur Erstellung der Berichte nach § 33 notwendigen Daten erheben.
 
-
-## § 28 – Mitteilungspflichten
+# § 28 – Mitteilungspflichten
 
 Die Netzbetreiber teilen der Regulierungsbehörde mit
 
@@ -523,20 +484,17 @@ Die Netzbetreiber teilen der Regulierungsbehörde mit
 
 Die Netzbetreiber haben darüber hinaus der Bundesnetzagentur sowie der zuständigen Landesregulierungsbehörde jährlich zum 31. März die Zahl der am 31. Dezember des Vorjahres unmittelbar oder mittelbar angeschlossenen Kunden sowie die Belegenheit des Elektrizitäts- und Gasverteilernetzes bezogen auf Bundesländer mitzuteilen.
 
-
-## § 29 – Übermittlung von Daten
+# § 29 – Übermittlung von Daten
 
 (1) Die Bundesnetzagentur und die Landesregulierungsbehörden übermitteln einander die zur Durchführung ihrer Aufgaben nach den Vorschriften dieser Verordnung notwendigen Daten einschließlich personenbezogener Daten und Betriebs- und Geschäftsgeheimnisse. Insbesondere übermitteln die Landesregulierungsbehörden der Bundesnetzagentur die nach § 14 Abs. 1 Nr. 1 in Verbindung mit § 6 Absatz 1 und 2 ermittelten Gesamtkosten zur Durchführung des bundesweiten Effizienzvergleichs nach § 12 bis zum 31. März des der Regulierungsperiode vorangehenden Kalenderjahres. Liegen die Daten nach Satz 2 nicht rechtzeitig vor, so führt die Bundesnetzagentur den bundesweiten Effizienzvergleich ausschließlich mit den vorhandenen Daten durch.
 
 (2) Die Bundesnetzagentur übermittelt die von ihr nach § 27 Abs. 1 und 2 erhobenen und die ihr nach Absatz 1 übermittelten Daten auf Ersuchen den Landesregulierungsbehörden, soweit dies zur Erfüllung von deren Aufgaben erforderlich ist. Die Bundesnetzagentur erstellt mit den von ihr nach § 27 Abs. 1 und 2 erhobenen und mit den nach Absatz 1 durch die Landesregulierungsbehörden übermittelten Daten eine bundesweite Datenbank. Die Landesregulierungsbehörden haben Zugriff auf diese Datenbank. Der Zugriff beschränkt sich auf die Daten, die zur Aufgabenerfüllung der Landesregulierungsbehörden erforderlich sind.
 
-
-## § 30 – Fehlende oder unzureichende Daten
+# § 30 – Fehlende oder unzureichende Daten
 
 Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesondere für die Anwendung der Regulierungsformel nach § 7 und zur Durchführung des Effizienzvergleichs nach den §§ 12 bis 14 notwendigen Daten vor Beginn der Regulierungsperiode nicht rechtzeitig vorliegen, können die Daten für das letzte verfügbare Kalenderjahr verwendet werden. Soweit keine oder offenkundig unzutreffende Daten vorliegen, kann die Regulierungsbehörde die fehlenden Daten durch Schätzung oder durch eine Referenznetzanalyse unter Verwendung von bei der Regulierungsbehörde vorhandenen oder ihr bekannten Daten bestimmen. § 12 Abs. 4 Satz 2 und § 14 Abs. 3 Satz 4 und 5 bleiben unberührt.
 
-
-## § 31 – Veröffentlichung von Daten
+# § 31 – Veröffentlichung von Daten
 
 (1) Die Regulierungsbehörde veröffentlicht auf ihrer Internetseite netzbetreiberbezogen in nicht anonymisierter Form insbesondere
 
@@ -566,8 +524,7 @@ Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesonde
 
 (2) Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt und auf ihrer Internetseite den nach § 9 ermittelten generellen sektoralen Produktivitätsfaktor und den nach § 24 ermittelten gemittelten Effizienzwert.
 
-
-## § 32 – Festlegungen oder Genehmigungen der Regulierungsbehörde
+# § 32 – Festlegungen oder Genehmigungen der Regulierungsbehörde
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die Regulierungsbehörde Entscheidungen durch Festlegungen oder Genehmigungen nach § 29 Abs. 1 des Energiewirtschaftsgesetzes treffen
 
@@ -575,21 +532,17 @@ Soweit die für die Bestimmung der Erlösobergrenze nach § 4 Abs. 1, insbesonde
 
 2. zu Ausgestaltung und Ausgleich des Regulierungskontos nach § 5,
 
-2a.  
-zur Ermittlung des generellen sektoralen Produktivitätsfaktors nach § 9,
+2a. zur Ermittlung des generellen sektoralen Produktivitätsfaktors nach § 9,
 
 3. zur Verwendung anderer Parameter zur Ermittlung des Erweiterungsfaktors nach § 10 Abs. 2 Satz 2 Nr. 4,
 
-3a.  
-zum Kapitalkostenaufschlag nach § 10a, einschließlich der formellen Gestaltung, Inhalt und Struktur des Antrags,
+3a. zum Kapitalkostenaufschlag nach § 10a, einschließlich der formellen Gestaltung, Inhalt und Struktur des Antrags,
 
 4. zu den Bereichen, die nach § 11 Abs. 2 Satz 2 bis 4 einer wirksamen Verfahrensregulierung unterliegen; die Festlegung erfolgt für die Dauer der gesamten Regulierungsperiode,
 
-4a.  
-zu volatilen Kostenanteilen gemäß § 11 Absatz 5, insbesondere zum Verfahren, mit dem den Netzbetreibern oder einer Gruppe von Netzbetreibern Anreize gesetzt werden, die gewährleisten, dass volatile Kostenanteile nur in effizientem Umfang in der Erlösobergrenze berücksichtigt werden, sowie zu den Voraussetzungen, unter denen Kostenanteile als volatile Kostenanteile im Sinne des § 11 Absatz 5 gelten,
+4a. zu volatilen Kostenanteilen gemäß § 11 Absatz 5, insbesondere zum Verfahren, mit dem den Netzbetreibern oder einer Gruppe von Netzbetreibern Anreize gesetzt werden, die gewährleisten, dass volatile Kostenanteile nur in effizientem Umfang in der Erlösobergrenze berücksichtigt werden, sowie zu den Voraussetzungen, unter denen Kostenanteile als volatile Kostenanteile im Sinne des § 11 Absatz 5 gelten,
 
-4b.  
-zu der Geltendmachung der Kosten nach § 10 Absatz 1 und § 22 der Systemstabilitätsverordnung gemäß § 11 Absatz 2 Satz 1 Nummer 5, einschließlich der Verpflichtung zur Anpassung pauschaler Kostensätze,
+4b. zu der Geltendmachung der Kosten nach § 10 Absatz 1 und § 22 der Systemstabilitätsverordnung gemäß § 11 Absatz 2 Satz 1 Nummer 5, einschließlich der Verpflichtung zur Anpassung pauschaler Kostensätze,
 
 5. zur Durchführung einer Vergleichbarkeitsrechnung nach § 14 Abs. 1 Nr. 3,
 
@@ -599,19 +552,15 @@ zu der Geltendmachung der Kosten nach § 10 Absatz 1 und § 22 der Systemstabili
 
 8. zu Investitionsmaßnahmen nach § 23, einschließlich der formellen Gestaltung, Inhalt und Struktur des Antrags sowie zu finanziellen Anreizen nach § 23 Abs. 5 Satz 3, wobei auch die Zusammenfassung von Vorhaben verlangt werden kann, sowie zur Durchführung, näheren Ausgestaltung und zum Verfahren der Referenznetzanalyse,
 
-8a.  
-zur Berechnung der sich aus genehmigten Investitionsmaßnahmen ergebenden Kapital- und Betriebskosten,
+8a. zur Berechnung der sich aus genehmigten Investitionsmaßnahmen ergebenden Kapital- und Betriebskosten,
 
-8b.  
-zu einer von § 23 Absatz 1a Satz 1 abweichenden Höhe oder Betriebskostenpauschale, soweit dies erforderlich ist, um strukturelle Besonderheiten von Investitionen, für die Investitionsmaßnahmen genehmigt werden können, oder um die tatsächliche Höhe der notwendigen Betriebskosten angemessen zu berücksichtigen,
+8b. zu einer von § 23 Absatz 1a Satz 1 abweichenden Höhe oder Betriebskostenpauschale, soweit dies erforderlich ist, um strukturelle Besonderheiten von Investitionen, für die Investitionsmaßnahmen genehmigt werden können, oder um die tatsächliche Höhe der notwendigen Betriebskosten angemessen zu berücksichtigen,
 
-8c.  
-zur Höhe der Betriebskostenpauschale nach § 23 Absatz 1a Satz 2, wobei die tatsächliche Höhe der für die genehmigten Investitionsmaßnahmen notwendigen Betriebskosten angemessen zu berücksichtigen ist,
+8c. zur Höhe der Betriebskostenpauschale nach § 23 Absatz 1a Satz 2, wobei die tatsächliche Höhe der für die genehmigten Investitionsmaßnahmen notwendigen Betriebskosten angemessen zu berücksichtigen ist,
 
 9. zur Teilnahme am vereinfachten Verfahren nach § 24 und zu Umfang, Zeitpunkt und Form des Antrags nach § 24 Abs. 4,
 
-9a.  
-zu formeller Gestaltung, Inhalt und Struktur des Antrags sowie zum Zeitpunkt der Stellung des Antrags nach § 25a Absatz 1,
+9a. zu formeller Gestaltung, Inhalt und Struktur des Antrags sowie zum Zeitpunkt der Stellung des Antrags nach § 25a Absatz 1,
 
 10. zu formeller Gestaltung, Inhalt und Struktur des Antrags nach § 26 Abs. 2 sowie zu den Erlösobergrenzenanteilen nach § 26 Absatz 2 und 3 und
 
@@ -619,8 +568,7 @@ zu formeller Gestaltung, Inhalt und Struktur des Antrags sowie zum Zeitpunkt der
 
 (2) Die Bundesnetzagentur kann ferner Festlegungen treffen zur Durchführung, näheren Ausgestaltung und zu den Verfahren des Effizienzvergleichs und der relativen Referenznetzanalyse für Betreiber von Übertragungs- und Fernleitungsnetzen nach § 22.
 
-
-## § 33 – Evaluierung und Berichte der Bundesnetzagentur
+# § 33 – Evaluierung und Berichte der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie zum 31. Dezember 2023 einen Bericht mit einer Evaluierung und Vorschlägen zur weiteren Ausgestaltung der Anreizregulierung vor. Der Bericht enthält Angaben zur Entwicklung des Investitionsverhaltens der Netzbetreiber und zur Notwendigkeit weiterer Maßnahmen zur Vermeidung von Investitionshemmnissen. Sie kann im Rahmen der Evaluierung insbesondere Vorschläge machen
 
@@ -650,8 +598,7 @@ zu formeller Gestaltung, Inhalt und Struktur des Antrags sowie zum Zeitpunkt der
 
 (8) Die Bundesnetzagentur legt dem Bundesministerium für Wirtschaft und Energie im Laufe der dritten Regulierungsperiode einen Bericht zur Struktur und Effizienz von Elektrizitäts- und Gasverteilernetzbetreibern vor, die sich für das vereinfachte Verfahren nach § 24 entschieden haben. Sie soll im Rahmen des Berichts insbesondere Vorschläge zur weiteren Ausgestaltung sowie zur Höhe der Schwellenwerte nach § 24 Absatz 1 des vereinfachten Verfahrens machen.
 
-
-## § 34 – Übergangsregelungen
+# § 34 – Übergangsregelungen
 
 (1) Mehr- oder Mindererlöse nach § 10 der Gasnetzentgeltverordnung oder § 11 der Stromnetzentgeltverordnung werden in der ersten Regulierungsperiode als Kosten oder Erlöse nach § 11 Abs. 2 behandelt. Der Ausgleich dieser Mehr- oder Mindererlöse erfolgt entsprechend § 10 der Gasnetzentgeltverordnung und § 11 der Stromnetzentgeltverordnung über die erste Regulierungsperiode verteilt. Die Verzinsung dieser Mehr- oder Mindererlöse erfolgt entsprechend § 10 der Gasnetzentgeltverordnung und § 11 der Stromnetzentgeltverordnung.
 
@@ -695,8 +642,7 @@ Im Übrigen ist diese Verordnung nicht auf die Kosten von Offshore-Anbindungslei
 
 (15) Abweichend von § 5 Absatz 1 Satz 1 dürfen Netzbetreiber Kosten, die vor dem 1. Oktober 2021 durch die Vorbereitung der Umsetzung der Änderungen in den §§ 13, 13a und 14 Absatz 1c des Energiewirtschaftsgesetzes durch Artikel 1 Nummer 9, 10 und 13 des Gesetzes vom 13. Mai 2019 (BGBl. I S. 706) entstehen, als zusätzliche zulässige Erlöse in das Regulierungskonto einbeziehen. Die sich daraus ergebende zusätzliche Differenz ist nach § 5 Absatz 3 Satz 1 zu genehmigen, wenn die zusätzlichen Kosten effizient sind und nicht bereits auf Grund anderer Regelungen dieser Verordnung in den zulässigen Erlösen nach § 4 berücksichtigt wurden.
 
-
-## Anlage 1 – (zu § 7)
+# Anlage 1 – (zu § 7)
 
 (Fundstelle: BGBl. I 2011, 3035)
 
@@ -719,8 +665,7 @@ Dabei ist:
   
 Das Basisjahr bestimmt sich jeweils nach Maßgabe des § 6 Absatz 1.
 
-
-## Anlage 2 – (zu § 10)
+# Anlage 2 – (zu § 10)
 
 (Fundstelle: BGBl. I 2007, 2542)
 
@@ -730,11 +675,11 @@ Die Ermittlung eines Erweiterungsfaktors nach § 10 erfolgt nach der folgenden F
 
 Für die Spannungsebenen Mittelspannung und Niederspannung (Strom) oder die Ebene der Gesamtheit aller Leitungsnetze unabhängig von Druckstufen (Gas) ist:
 
-![](../normengrafiken/bgbl1_2007/j25290_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j25290_0020.jpg)
 
 Für die Umspannebenen Hochspannung/Mittelspannung und Mittelspannung/Niederspannung (Strom) oder die Ebene der Gesamtheit aller Regelanlagen unabhängig von der Druckstufe (Gas) ist:
 
-![](../normengrafiken/bgbl1_2007/j25290_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j25290_0030.jpg)
 
 Dabei ist:
 
@@ -761,8 +706,7 @@ Höhe der Last in der Ebene i im Basisjahr.
 
 Der Erweiterungsfaktor für das gesamte Netz ist der gewichtete Mittelwert über alle Netzebenen.
 
-
-## Anlage 2a – (zu § 6)
+# Anlage 2a – (zu § 6)
 
 (Fundstelle: BGBl. I 2016, 2155)
 
@@ -843,8 +787,7 @@ Fremdkapitalzinsen nach § 6 Absatz 3 auf der Grundlage des fortgeführten Besta
 
 11. Der Fremdkapitalzinsaufwand eines Jahres der Regulierungsperiode ergibt sich als Produkt aus den Fremdkapitalzinsen des Basisjahres und dem Verhältnis aus dem betriebsnotwendigen Vermögen des jeweiligen Jahres der Regulierungsperiode nach den Nummern 1 bis 9 und dem betriebsnotwendigen Vermögen des Basisjahres nach § 7 Absatz 1 Nummer 1 bis 4 der Stromnetzentgeltverordnung oder § 7 Absatz 1 Nummer 1 bis 4 der Gasnetzentgeltverordnung.
 
-
-## Anlage 3 – (zu § 12)
+# Anlage 3 – (zu § 12)
 
 (Fundstelle: BGBl. I 2007, 2543)
 
@@ -872,8 +815,7 @@ Bei der nicht-parametrischen Methode gilt ein Wert dann als Ausreißer, wenn er 
 
 Bei der parametrischen Methode gilt ein Wert dann als Ausreißer, wenn er die Lage der ermittelten Regressionsgerade zu einem erheblichen Maß beeinflusst. Zur Ermittlung des erheblichen Einflusses sind statistische Tests durchzuführen, mit denen ein numerischer Wert für den Einfluss zu ermitteln ist. Liegt der ermittelte Wert über einem methodisch angemessenen kritischen Wert, so ist der Ausreißer aus dem Datensatz zu entfernen. Methoden, die zur Anwendung kommen können, sind insbesondere Cooks-Distance, DFBETAS, DFFITS, Covariance-Ratio oder Robuste Regression.
 
-
-## Anlage 4 – (zu § 26)
+# Anlage 4 – (zu § 26)
 
 (Fundstelle: BGBl. I 2016, 2157)
 
@@ -881,7 +823,7 @@ Bei der parametrischen Methode gilt ein Wert dann als Ausreißer, wenn er die La
 
 Die Ermittlung des Anteils der Erlösobergrenze nach § 26 Absatz 3 bis 5 erfolgt anhand der folgenden Formel:  
   
-![](../normengrafiken/bgbl1_2016/j2147-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j2147-1_0020.jpg)
 
 Dabei ist:
 

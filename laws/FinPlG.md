@@ -1,15 +1,11 @@
-# [FinPlG] Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung  (Finanzplanungsgesetz)
-
-Ausfertigungsdatum: 23.12.1966
-
+% Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung  (Finanzplanungsgesetz)
+% Ausfertigungsdatum: 23.12.1966
  
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Das Gesetz über Arbeitsvermittlung und Arbeitslosenversicherung gilt mit folgenden Maßgaben:
 

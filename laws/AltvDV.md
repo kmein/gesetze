@@ -1,10 +1,7 @@
-# [AltvDV] Verordnung zur Durchführung der steuerlichen Vorschriften des Einkommensteuergesetzes zur Altersvorsorge und zum Rentenbezugsmitteilungsverfahren sowie zum weiteren Datenaustausch mit der zentralen Stelle  (Altersvorsorge-Durchführungsverordnung - AltvDV)
-
-Ausfertigungsdatum: 17.12.2002
-
+% Verordnung zur Durchführung der steuerlichen Vorschriften des Einkommensteuergesetzes zur Altersvorsorge und zum Rentenbezugsmitteilungsverfahren sowie zum weiteren Datenaustausch mit der zentralen Stelle  (Altersvorsorge-Durchführungsverordnung - AltvDV)
+% Ausfertigungsdatum: 17.12.2002
  
-
-## § 1 – Datensätze
+# § 1 – Datensätze
 
 (1) Eine Übermittlung von Daten nach
 
@@ -28,8 +25,7 @@ sowie eine nach diesen Vorschriften bestehende Anzeige- und Mitteilungspflicht z
 
 Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermittelt, ist Absatz 1 anzuwenden. Die Mitteilung des Anbieters an den Zulageberechtigten nach § 90 Abs. 1 Satz 3 des Einkommensteuergesetzes kann mit der Bescheinigung nach § 92 des Einkommensteuergesetzes erfolgen.
 
-
-## § 2 – Technisches Übermittlungsformat
+# § 2 – Technisches Übermittlungsformat
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
 
@@ -45,13 +41,11 @@ Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle übermitte
 
 hat vorbehaltlich des Satzes 2 den Anforderungen der ISO/IEC 8859-15, Ausgabe März 1999, zu entsprechen. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 2a – DIN- und ISO/IEC-Normen
+# § 2a – DIN- und ISO/IEC-Normen
 
 DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## § 3 – Verfahren der Datenübermittlung, Schnittstellen
+# § 3 – Verfahren der Datenübermittlung, Schnittstellen
 
 (1) Die Übermittlung der Datensätze hat durch Datenfernübertragung zu erfolgen.
 
@@ -61,8 +55,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (3) Die technischen Einrichtungen für die Datenübermittlung stellt jede übermittelnde Stelle für ihren Bereich bereit.
 
-
-## § 4 – Übermittlung durch Datenfernübertragung
+# § 4 – Übermittlung durch Datenfernübertragung
 
 (1) Bei der Datenfernübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentifizierung der übermittelnden und empfangenden Stelle gewährleisten. Bei der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren zu verwenden. Die zentrale Stelle bestimmt das einzusetzende Verschlüsselungsverfahren, das dem jeweiligen Stand der Technik entsprechen muss.
 
@@ -72,8 +65,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (4) Hat die mitteilungspflichtige Stelle einen Auftragnehmer im Sinne des § 87d der Abgabenordnung mit der Datenübermittlung beauftragt, gilt der Auftragnehmer als Empfangsbevollmächtigter für Mitteilungen der zentralen Stelle an den Auftraggeber, solange dieser nicht widerspricht.
 
-
-## § 5 – Identifikation der am Verfahren Beteiligten
+# § 5 – Identifikation der am Verfahren Beteiligten
 
 (1) Der Anbieter, die zuständige Stelle und die Familienkassen haben der zentralen Stelle auf Anforderung anzuzeigen:
 
@@ -101,8 +93,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (6) Die Absätze 1 und 3 bis 5 gelten für die mitteilungspflichtigen Stellen im Sinne des § 10 Absatz 2a, 2b und 4b, § 22a Absatz 1 Satz 1 und § 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
 
-
-## § 6 – Mitteilungspflichten des Arbeitgebers
+# § 6 – Mitteilungspflichten des Arbeitgebers
 
 (1) Der Arbeitgeber hat der Versorgungseinrichtung (Pensionsfonds, Pensionskasse, Direktversicherung), die für ihn die betriebliche Altersversorgung durchführt, spätestens zwei Monate nach Ablauf des Kalenderjahres oder nach Beendigung des Dienstverhältnisses im Laufe des Kalenderjahres mitzuteilen, in welcher Höhe die für den einzelnen Arbeitnehmer geleisteten Beiträge individuell besteuert wurden. Die Mitteilungspflicht des Arbeitgebers kann durch einen Auftragnehmer wahrgenommen werden.
 
@@ -116,8 +107,7 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (4) Soweit eine Mitteilung nach Absatz 1 unterblieben ist und die Voraussetzungen des Absatzes 2 Nr. 1 nicht vorliegen oder der Arbeitnehmer nach Absatz 3 verzichtet hat, hat die Versorgungseinrichtung davon auszugehen, dass es sich nicht um Altersvorsorgebeiträge im Sinne des § 82 Abs. 2 des Einkommensteuergesetzes handelt.
 
-
-## § 7 – Besondere Mitteilungspflichten der zuständigen Stelle
+# § 7 – Besondere Mitteilungspflichten der zuständigen Stelle
 
 (1) Beantragt ein Steuerpflichtiger, der zu dem in § 10a Abs. 1 Satz 1 zweiter Halbsatz des Einkommensteuergesetzes bezeichneten Personenkreis gehört, über die für ihn zuständige Stelle (§ 81a des Einkommensteuergesetzes) eine Zulagenummer (§ 10a Abs. 1a des Einkommensteuergesetzes), übermittelt die zuständige Stelle die Angaben des Steuerpflichtigen an die zentrale Stelle. Für Empfänger einer Versorgung im Sinne des § 10a Abs. 1 Satz 4 des Einkommensteuergesetzes gilt Satz 1 entsprechend.
 
@@ -125,16 +115,13 @@ DIN- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Be
 
 (3) Hat die zuständige Stelle die für die Gewährung der Kinderzulage erforderlichen Daten an die zentrale Stelle übermittelt (§ 91 Abs. 2 des Einkommensteuergesetzes) und wird für diesen gemeldeten Zeitraum das Kindergeld insgesamt zurückgefordert, hat die zuständige Stelle dies der zentralen Stelle bis zum 31. März des Kalenderjahres, das dem Kalenderjahr der Rückforderung folgt, mitzuteilen.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Besondere Mitteilungspflicht der Familienkasse
+# § 9 – Besondere Mitteilungspflicht der Familienkasse
 
 Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewährung der Kinderzulage übermittelt und wird für diesen gemeldeten Zeitraum das Kindergeld insgesamt zurückgefordert, hat die Familienkasse dies der zentralen Stelle unverzüglich mitzuteilen.
 
-
-## § 10 – Besondere Mitteilungspflichten des Anbieters
+# § 10 – Besondere Mitteilungspflichten des Anbieters
 
 (1) Der Anbieter hat die vom Antragsteller im Zulageantrag anzugebenden Daten sowie die Mitteilungen nach § 89 Abs. 1 Satz 5 des Einkommensteuergesetzes zu erfassen und an die zentrale Stelle zu übermitteln. Erfolgt eine Datenübermittlung nach § 89 Abs. 3 des Einkommensteuergesetzes, gilt Satz 1 entsprechend.
 
@@ -144,8 +131,7 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewäh
 
 (4) Der Zulageberechtigte kann gegenüber seinem Anbieter erklären, dass er eine steuerliche Berücksichtigung seiner an den Anbieter entrichteten Altersvorsorgebeiträge für den jeweiligen Vertrag bei der Ermittlung der abziehbaren Sonderausgaben nach § 10a des Einkommensteuergesetzes durch die Finanzbehörden nicht beabsichtigt. Liegt dem Anbieter eine Erklärung nach Satz 1 vor, hat er ab dem 1. Januar 2022 ein gesondertes Merkmal in der Meldung nach § 10a Absatz 5 des Einkommensteuergesetzes aufzunehmen. Die Erklärung gilt ab dem Veranlagungsjahr, das dem Jahr folgt, in welchem die Erklärung gegenüber dem Anbieter abgegeben wird. Die Erklärung kann widerrufen werden; Satz 3 gilt entsprechend.
 
-
-## § 11 – Anbieterwechsel
+# § 11 – Anbieterwechsel
 
 (1) Im Fall der Übertragung von Altersvorsorgevermögen nach § 1 Abs. 1 Satz 1 Nr. 10 Buchstabe b des Altersvorsorgeverträge-Zertifizierungsgesetzes sowie in den Fällen des § 93 Abs. 1 Satz 4 Buchstabe c, Abs. 1a Satz 1 oder Abs. 2 Satz 2 und 3 des Einkommensteuergesetzes hat der Anbieter des bisherigen Vertrags dem Anbieter des neuen Vertrags die in § 92 des Einkommensteuergesetzes genannten Daten einschließlich der auf den Zeitpunkt der Übertragung fortgeschriebenen Beträge im Sinne des § 19 Abs. 1 und 2 mitzuteilen. Dies gilt auch bei einer Übertragung von ausschließlich ungefördertem Altersvorsorgevermögen, die mit einer Übertragung nach § 93 Absatz 1a Satz 1 des Einkommensteuergesetzes vergleichbar ist. Bei der Übermittlung hat er die bisherige Vertragsnummer, die Zertifizierungsnummer und die Anbieternummer anzugeben. Der Anbieter des bisherigen Vertrags kann die Mitteilung nach Satz 1 über die zentrale Stelle dem Anbieter des neuen Vertrags übermitteln. Die zentrale Stelle leitet die Mitteilung ohne inhaltliche Prüfung an den Anbieter des neuen Vertrags. Der Anbieter des bisherigen Vertrags hat den Anbieter des neuen Vertrags über eine Abweisung eines Datensatzes nach § 12 Abs. 1 Satz 3 oder 4 unverzüglich zu unterrichten.
 
@@ -157,8 +143,7 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewäh
 
 (5) (weggefallen)
 
-
-## § 12 – Besondere Mitteilungspflichten der zentralen Stelle gegenüber dem Anbieter
+# § 12 – Besondere Mitteilungspflichten der zentralen Stelle gegenüber dem Anbieter
 
 (1) Die zentrale Stelle hat dem Anbieter das Ermittlungsergebnis (§ 90 Abs. 1 Satz 1 des Einkommensteuergesetzes) mitzuteilen. Die Mitteilung steht unter dem Vorbehalt der Nachprüfung (§ 164 der Abgabenordnung). Das Ermittlungsergebnis kann auch durch Abweisung des nach § 89 Abs. 2 des Einkommensteuergesetzes übermittelten Datensatzes, der um eine in dem vom Bundesministerium der Finanzen veröffentlichten Fehlerkatalog besonders gekennzeichnete Fehlermeldung ergänzt wird, übermittelt werden. Ist der Datensatz nach § 89 Abs. 2 des Einkommensteuergesetzes auf Grund von unzureichenden oder fehlerhaften Angaben des Zulageberechtigten abgewiesen sowie um eine Fehlermeldung ergänzt worden und werden die Angaben innerhalb der Antragsfrist des § 89 Abs. 1 Satz 1 des Einkommensteuergesetzes von dem Zulageberechtigten an den Anbieter nicht nachgereicht, gilt auch diese Abweisung des Datensatzes als Übermittlung des Ermittlungsergebnisses.
 
@@ -166,22 +151,19 @@ Hat die zuständige Familienkasse der zentralen Stelle die Daten für die Gewäh
 
 (3) Wird der Rückzahlungsbetrag nach § 95 Abs. 3 Satz 1 des Einkommensteuergesetzes erlassen, hat die zentrale Stelle dies dem Anbieter mitzuteilen.
 
-
-## § 13 – Anzeigepflichten des Zulageberechtigten
+# § 13 – Anzeigepflichten des Zulageberechtigten
 
 (1) (weggefallen)
 
 (2) Liegt ein Tatbestand des § 95 Absatz 1 des Einkommensteuergesetzes vor, hat der Zulageberechtigte dies dem Anbieter auch dann anzuzeigen, wenn aus dem Vertrag bereits Leistungen bezogen werden.
 
-
-## § 14 – Nachweis der Rentenversicherungspflicht und der Höhe der maßgebenden Einnahmen
+# § 14 – Nachweis der Rentenversicherungspflicht und der Höhe der maßgebenden Einnahmen
 
 (1) Weichen die Angaben des Zulageberechtigten zur Rentenversicherungspflicht oder zu den beitragspflichtigen Einnahmen oder zu der bezogenen Rente wegen voller Erwerbsminderung oder Erwerbsunfähigkeit im Sinne des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom 19. Februar 2002 (BGBl. I S. 754, 1404, 3384), zuletzt geändert durch Artikel 5 des Gesetzes vom 23. Juli 2002 (BGBl. I S. 2787), in der jeweils geltenden Fassung von den nach § 91 Abs. 1 Satz 1 des Einkommensteuergesetzes übermittelten Angaben des zuständigen Sozialversicherungsträgers ab, sind für den Nachweis der Rentenversicherungspflicht oder die Berechnung des Mindesteigenbeitrags die Angaben des zuständigen Sozialversicherungsträgers maßgebend. Für die von der landwirtschaftlichen Alterskasse übermittelten Angaben gilt Satz 1 entsprechend. Wird abweichend vom tatsächlich erzielten Entgelt oder vom Zahlbetrag der Entgeltersatzleistung ein höherer Betrag als beitragspflichtige Einnahmen im Sinne des § 86 Abs. 1 Satz 2 Nr. 1 des Einkommensteuergesetzes berücksichtigt und stimmen der vom Zulageberechtigten angegebene und der bei dem zuständigen Sozialversicherungsträger ermittelte Zeitraum überein, ist Satz 1 insoweit nicht anzuwenden. Im Festsetzungsverfahren ist dem Zulageberechtigten Gelegenheit zu geben, eine Klärung mit dem Sozialversicherungsträger herbeizuführen.
 
 (2) Liegt der zentralen Stelle eine Bestätigung der zuständigen Stelle über die Zugehörigkeit des Zulageberechtigten zu dem in § 10a Abs. 1 Satz 1 Nr. 1 bis 5 und Satz 4 des Einkommensteuergesetzes genannten Personenkreis vor, gilt Absatz 1 entsprechend.
 
-
-## § 15 – Auszahlung der Zulage
+# § 15 – Auszahlung der Zulage
 
 Die Zulagen werden jeweils am 15. der Monate Februar, Mai, August und November eines Jahres zur Zahlung angewiesen. Zum jeweiligen Auszahlungstermin werden angewiesen:
 
@@ -189,25 +171,21 @@ a) Zulagen, die bis zum Ablauf des dem Auszahlungstermin vorangegangenen Kalende
 
 b) Erhöhungen von Zulagen, die bis zum Ablauf des dem Auszahlungstermin vorangehenden Kalendervierteljahres ermittelt oder festgesetzt wurden.
 
-
-## § 16 – Kleinbetragsgrenze für Rückforderungen gegenüber dem Zulageberechtigten
+# § 16 – Kleinbetragsgrenze für Rückforderungen gegenüber dem Zulageberechtigten
 
 Ein Rückzahlungsbetrag nach § 94 Absatz 2 des Einkommensteuergesetzes, der nicht über den Anbieter zurückgefordert werden kann, wird nur festgesetzt, wenn die Rückforderung mindestens 25 Euro beträgt.
 
-
-## § 17 – Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
+# § 17 – Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
 
 Bescheide über Forderungen der zentralen Stelle werden von den Hauptzollämtern vollstreckt. Zuständig ist das Hauptzollamt, in dessen Vollstreckungsbezirk der Schuldner oder die Schuldnerin einen Wohnsitz oder gewöhnlichen Aufenthalt hat. Mangelt es an einem Wohnsitz oder gewöhnlichen Aufenthalt im Inland, ist das Hauptzollamt Potsdam zuständig. Über die Niederschlagung (§ 261 der Abgabenordnung) entscheidet die zentrale Stelle.
 
-
-## § 18 – Erteilung der Anbieterbescheinigungen
+# § 18 – Erteilung der Anbieterbescheinigungen
 
 (1) Werden Bescheinigungen nach § 22 Nr. 5 Satz 7, § 92 oder § 94 Abs. 1 Satz 4 des Einkommensteuergesetzes mit Hilfe automatischer Einrichtungen erstellt, können Unterschrift und Namenswiedergabe des Anbieters oder des Vertretungsberechtigten fehlen.
 
 (2) Wird die Bescheinigung nach § 92 oder § 94 Abs. 1 Satz 4 des Einkommensteuergesetzes durch die Post übermittelt, ist das Datum der Aufgabe zur Post auf der Bescheinigung anzugeben. Für die Berechnung der Frist nach § 90 Abs. 4 Satz 2 des Einkommensteuergesetzes ist § 122 Abs. 2 und 2a der Abgabenordnung sinngemäß anzuwenden.
 
-
-## § 19 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 19 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Der Anbieter nach § 1 Abs. 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes hat für jedes Kalenderjahr Aufzeichnungen zu führen über
 
@@ -255,16 +233,13 @@ Das Vorliegen der Voraussetzung nach Satz 1 Nr. 2 ist vor der Vernichtung der sc
 
 (6) Der Anbieter hat der zentralen Stelle auf Anforderung den Inhalt der Aufzeichnungen mitzuteilen und die für die Überprüfung der Zulage erforderlichen Unterlagen zur Verfügung zu stellen.
 
+# § 20 – (weggefallen)
 
-## § 20 – (weggefallen)
-
-
-## § 20a – Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
+# § 20a – Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
 
 § 17 gilt für Bescheide über Forderungen der zentralen Stelle im Rahmen des Rentenbezugsmitteilungsverfahrens nach § 22a des Einkommensteuergesetzes entsprechend.
 
-
-## § 21 – Erprobung des Verfahrens
+# § 21 – Erprobung des Verfahrens
 
 (1) Die zentrale Stelle kann bei den mitteilungspflichtigen Stellen Daten nach § 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum Zweck der Erprobung
 
@@ -288,16 +263,13 @@ Das Vorliegen der Voraussetzung nach Satz 1 Nr. 2 ist vor der Vernichtung der sc
 
 (4) Die Daten dürfen nur für die in den Absätzen 1 und 2 genannten Zwecke verwendet werden. Sie sind unmittelbar nach Beendigung der Erprobung, spätestens am 31. Dezember 2009, zu löschen.
 
+# § 22 – (weggefallen)
 
-## § 22 – (weggefallen)
-
-
-## § 23 – Erprobung des Verfahrens
+# § 23 – Erprobung des Verfahrens
 
 § 21 Absatz 1 dieser Verordnung gilt für die Erprobung des Verfahrens nach § 10 Absatz 2a, 2b und 4b des Einkommensteuergesetzes entsprechend mit der Maßgabe, dass die zentrale Stelle bei den mitteilungspflichtigen Stellen die Daten nach § 10 Absatz 2a, 2b und 4b des Einkommensteuergesetzes erheben kann.
 
-
-## § 24 – Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes
+# § 24 – Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes
 
 Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten mitteilungspflichtigen Stellen haben der zentralen Stelle folgende Daten zu übermitteln:
 

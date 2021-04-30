@@ -1,10 +1,7 @@
-# [RDGEG] Einführungsgesetz zum Rechtsdienstleistungsgesetz  (RDGEG)
-
-Ausfertigungsdatum: 12.12.2007
-
+% Einführungsgesetz zum Rechtsdienstleistungsgesetz  (RDGEG)
+% Ausfertigungsdatum: 12.12.2007
  
-
-## § 1 – Erlaubnisinhaber nach dem Rechtsberatungsgesetz
+# § 1 – Erlaubnisinhaber nach dem Rechtsberatungsgesetz
 
 (1) Inhaber von behördlichen Erlaubnissen zur Besorgung fremder Rechtsangelegenheiten, die nicht Mitglied einer Rechtsanwaltskammer sind, können unter Vorlage ihrer Erlaubnisurkunde die Registrierung nach § 13 des Rechtsdienstleistungsgesetzes beantragen.
 
@@ -16,13 +13,11 @@ Ausfertigungsdatum: 12.12.2007
 
 (5) Ist ein registrierter Erlaubnisinhaber, der nach Maßgabe des § 3 Absatz 2 zur gerichtlichen Vertretung oder zum Auftreten in der Verhandlung befugt ist, verstorben oder wurde seine Registrierung zurückgenommen oder widerrufen, kann die für die Registrierung zuständige Behörde einen Abwickler für seine Praxis bestellen. § 14a Absatz 1 Satz 2 und Absatz 2 des Rechtsdienstleistungsgesetzes gilt entsprechend.
 
-
-## § 2 – Versicherungsberater
+# § 2 – Versicherungsberater
 
 Abweichend von § 1 Absatz 1 können Personen mit einer Erlaubnis zur Besorgung fremder Rechtsangelegenheiten auf dem Gebiet der Versicherungsberatung (Artikel 1 § 1 Abs. 1 Satz 2 Nr. 2 des Rechtsberatungsgesetzes) nur eine Erlaubnis als Versicherungsberater nach § 34d Absatz 2 der Gewerbeordnung beantragen.
 
-
-## § 3 – Gerichtliche Vertretung
+# § 3 – Gerichtliche Vertretung
 
 (1) Kammerrechtsbeistände stehen in den nachfolgenden Vorschriften einem Rechtsanwalt gleich:
 
@@ -54,8 +49,7 @@ gestattet war. In den Fällen des Satzes 1 Nummer 1 bis 3 ist der Umfang der Bef
 
 (3) Das Gericht weist registrierte Erlaubnisinhaber, soweit sie nicht nach Maßgabe des Absatzes 2 zur gerichtlichen Vertretung oder zum Auftreten in der Verhandlung befugt sind, durch unanfechtbaren Beschluss zurück. Prozesshandlungen eines nicht vertretungsbefugten Bevollmächtigten und Zustellungen oder Mitteilungen an diesen Bevollmächtigten sind bis zu seiner Zurückweisung wirksam. Das Gericht kann registrierten Erlaubnisinhabern durch unanfechtbaren Beschluss die weitere Vertretung oder das weitere Auftreten in der Verhandlung untersagen, wenn sie nicht in der Lage sind, das Sach- und Streitverhältnis sachgerecht darzustellen.§ 335 Abs. 1 Nr. 5 der Zivilprozessordnung gilt entsprechend.
 
-
-## § 4 – Vergütung der registrierten Personen
+# § 4 – Vergütung der registrierten Personen
 
 (1) Das Rechtsanwaltsvergütungsgesetz gilt für die Vergütung der Rentenberaterinnen und Rentenberater (registrierte Personen nach § 10 Abs. 1 Satz 1 Nr. 2 des Rechtsdienstleistungsgesetzes) sowie der registrierten Erlaubnisinhaber mit Ausnahme der Frachtprüferinnen und Frachtprüfer entsprechend. Richtet sich ihre Vergütung nach dem Gegenstandswert, haben sie den Auftraggeber vor Übernahme des Auftrags hierauf hinzuweisen.
 
@@ -67,8 +61,7 @@ gestattet war. In den Fällen des Satzes 1 Nummer 1 bis 3 ist der Umfang der Bef
 
 (5) Die Inkassokosten von Personen, die Inkassodienstleistungen erbringen (registrierte Personen nach § 10 Absatz 1 Satz 1 Nummer 1 des Rechtsdienstleistungsgesetzes), für außergerichtliche Inkassodienstleistungen, die eine nicht titulierte Forderung betreffen, sind nur bis zur Höhe der einem Rechtsanwalt nach den Vorschriften des Rechtsanwaltsvergütungsgesetzes zustehenden Vergütung erstattungsfähig.
 
-
-## § 5 – Diplom-Juristen aus dem Beitrittsgebiet
+# § 5 – Diplom-Juristen aus dem Beitrittsgebiet
 
 Personen, die in dem in Artikel 3 des Einigungsvertrags genannten Gebiet ein rechtswissenschaftliches Studium als Diplom-Jurist an einer Universität oder wissenschaftlichen Hochschule abgeschlossen haben und nach dem 3. Oktober 1990 zum Richter, Staatsanwalt oder Notar ernannt, im höheren Verwaltungsdienst beschäftigt oder als Rechtsanwalt zugelassen wurden, stehen in den nachfolgenden Vorschriften einer Person mit Befähigung zum Richteramt gleich:
 
@@ -90,7 +83,6 @@ Personen, die in dem in Artikel 3 des Einigungsvertrags genannten Gebiet ein rec
 
 9. § 81 Abs. 2 Satz 2 Nr. 2 des Markengesetzes.
 
-
-## § 6 – Schutz der Berufsbezeichnung
+# § 6 – Schutz der Berufsbezeichnung
 
 Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln ähnliche Bezeichnung darf nur von Kammerrechtsbeiständen und registrierten Rechtsbeiständen geführt werden.

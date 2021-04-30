@@ -1,10 +1,7 @@
-# [PTSG] Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen  (Post- und Telekommunikationssicherstellungsgesetz - PTSG)
-
-Ausfertigungsdatum: 24.03.2011
-
+% Gesetz zur Sicherstellung von Postdienstleistungen und Telekommunikationsdiensten in besonderen Fällen  (Post- und Telekommunikationssicherstellungsgesetz - PTSG)
+% Ausfertigungsdatum: 24.03.2011
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Unternehmen, die im Rahmen ihres geschäftsmäßig an die Öffentlichkeit gerichteten Angebots
 
@@ -26,8 +23,7 @@ b) der Zusammenarbeit mit den Vereinten Nationen oder
 
 c) von Bündnisverpflichtungen.
 
-
-## § 2 – Postsicherstellungspflicht; Postbevorrechtigte
+# § 2 – Postsicherstellungspflicht; Postbevorrechtigte
 
 (1) Postunternehmen haben folgende von ihnen erbrachte Postdienstleistungen aufrechtzuerhalten und für postbevorrechtigte Kunden (Postbevorrechtigte) vorrangig zu erbringen:
 
@@ -53,18 +49,15 @@ Sie haben die für diese Postdienstleistungen erforderlichen Annahmestellen in a
 
 Die Bescheinigung nach Satz 1 Nummer 6 verliert ihre Gültigkeit zehn Jahre nach Ausstellungsdatum, sofern auf der Bescheinigung nicht eine kürzere Geltungsdauer vermerkt ist.
 
-
-## § 3 – Umsetzung der Postbevorrechtigung
+# § 3 – Umsetzung der Postbevorrechtigung
 
 Postbevorrechtigte haben Sendungen, die vorrangig befördert werden sollen, als Vorrangpost entsprechend den Vorgaben des in Anspruch genommenen Unternehmens zu kennzeichnen. Die Postbevorrechtigung ist bei der Einlieferung der Sendungen nachzuweisen; dazu haben Postbevorrechtigte nach § 2 Absatz 2 Satz 1 Nummer 6 die ihnen ausgestellte Bescheinigung vorzulegen.
 
-
-## § 4 – Unterstützung der Feldpost
+# § 4 – Unterstützung der Feldpost
 
 Postunternehmen haben die von der Bundeswehr betriebene Postversorgung ihrer Angehörigen und Einheiten im Einsatz (Feldpost) durch Postdienstleistungen nach § 2 Absatz 1 Satz 1 zu unterstützen. Dabei haben sie jeder Person die Möglichkeit zu bieten, Feldpostsendungen einzuliefern und zu empfangen. Postunternehmen haben eingelieferte Feldpostsendungen zu befördern und mit der auf der Sendung angegebenen Feldpostleitstelle der Bundeswehr auszutauschen. Die Bundeswehr kann mit Postunternehmen vereinbaren, dass und in welchem Umfang diese die Feldpost durch Fachpersonal sowie postspezifisches Ge- und Verbrauchsmaterial unterstützen.
 
-
-## § 5 – Telekommunikationssicherstellungspflicht
+# § 5 – Telekommunikationssicherstellungspflicht
 
 Telekommunikationsunternehmen haben folgende von ihnen erbrachte Telekommunikationsdienste aufrechtzuerhalten:
 
@@ -76,8 +69,7 @@ Telekommunikationsunternehmen haben folgende von ihnen erbrachte Telekommunikati
 
 Telekommunikationsunternehmen, die Anschlüsse bereitstellen, die für die Dienste nach Satz 1 erforderlich sind, oder die Übertragungswege bereitstellen, haben diese Dienstleistungen aufrechtzuerhalten. Übertragungswege nach Satz 2 mit Datenübertragungsraten über 50 Mbit/s müssen durch das Telekommunikationsunternehmen mit einer Datenübertragungsrate von mindestens 50 Mbit/s aufrechterhalten werden. Unternehmen nach § 1 Absatz 1 Satz 2 haben sicherzustellen, dass ihre Netze in der Lage sind, die von den Telekommunikationsunternehmen nach § 1 Absatz 1 Satz 1 Nummer 2 für ihre Aufgabenerfüllung nach diesem Gesetz geforderten Datenübertragungsraten aufrechtzuerhalten.
 
-
-## § 6 – Telekommunikationsbevorrechtigung
+# § 6 – Telekommunikationsbevorrechtigung
 
 (1) Telekommunikationsunternehmen haben für Telekommunikationsbevorrechtigte
 
@@ -109,8 +101,7 @@ Satz 1 Nummer 2 gilt für die Inanspruchnahme des Telekommunikationsdienstes nac
 
 Die Bescheinigung nach Satz 1 Nummer 9 verliert ihre Gültigkeit zehn Jahre nach Ausstellungsdatum, sofern auf der Bescheinigung nicht eine kürzere Geltungsdauer vermerkt ist.
 
-
-## § 7 – Umsetzung der Telekommunikationsbevorrechtigung
+# § 7 – Umsetzung der Telekommunikationsbevorrechtigung
 
 (1) Telekommunikationsbevorrechtigte haben ihrem Telekommunikationsunternehmen rechtzeitig im Voraus mitzuteilen,
 
@@ -124,22 +115,19 @@ Dabei haben Telekommunikationsbevorrechtigte nach § 6 Absatz 2 Satz 1 Nummer 9 
 
 (3) In den Fällen des § 1 Absatz 2 kann die Dauer oder die Datenübertragungsrate nicht vorrangiger Verbindungen in erforderlichem Umfang begrenzt werden. Satz 1 gilt nicht für Verbindungen zu den Notrufnummern 110 und 112; § 4 der Verordnung über Notrufverbindungen vom 6. März 2009 (BGBl. I S. 481) in der jeweils geltenden Fassung bleibt unberührt.
 
-
-## § 8 – Auskunfts- und Mitwirkungspflichten
+# § 8 – Auskunfts- und Mitwirkungspflichten
 
 (1) Post- und Telekommunikationsunternehmen haben der Bundesnetzagentur Auskünfte zu erteilen, die für die Kontrolle der Erfüllung der Verpflichtungen nach diesem Gesetz erforderlich sind. § 55 der Strafprozessordnung gilt entsprechend.
 
 (2) Post- und Telekommunikationsunternehmen haben auf Anordnung des Bundesministeriums für Wirtschaft und Energie oder des Bundesministeriums für Verkehr und digitale Infrastruktur in den Fällen des § 1 Absatz 2 sowie im Rahmen von Vorsorgeplanungen und Übungen in Arbeitsstäben im Inland mitzuwirken sowie das hierfür erforderliche Fachpersonal abzustellen.
 
-
-## § 9 – Entgelte; Entschädigung
+# § 9 – Entgelte; Entschädigung
 
 (1) Telekommunikationsbevorrechtigte haben für jeden Anschluss und für jeden Übertragungsweg, für den Vorkehrungen nach § 7 Absatz 1 Satz 1 Nummer 1 getroffen wurden, ein einmaliges Entgelt in Höhe von 100 Euro und für jeden Anschluss, für den zusätzlich technische Vorkehrungen nach § 7 Absatz 1 Satz 1 Nummer 2 getroffen wurden, ein zusätzliches einmaliges Entgelt in Höhe von 50 Euro an das Telekommunikationsunternehmen zu entrichten. Damit sind alle Entgeltansprüche abgegolten. Hat ein Telekommunikationsunternehmen die getroffenen Vorkehrungen pflichtgemäß aufgehoben und wird ihm danach eine neue Bescheinigung nach § 6 Absatz 2 Satz 1 Nummer 9 vorgelegt, gilt Satz 1 entsprechend. Die übrigen Entgelte für die Inanspruchnahme von Telekommunikationsdiensten bleiben unberührt.
 
 (2) Für Personal, das auf Grund einer Anordnung nach § 8 Absatz 2 abgestellt wurde, wird den Postunternehmen und den Telekommunikationsunternehmen ab dem Beginn des Einsatzes je Person und angefangener Stunde eine Entschädigung gewährt. Diese entspricht bei Postunternehmen der Nummer 32 und bei Telekommunikationsunternehmen der Nummer 11.3 der Anlage 1 zum Justizvergütungs- und -entschädigungsgesetz vom 5. Mai 2004 (BGBl. I S. 718, 776), das zuletzt durch Artikel 6 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3229) geändert worden ist, in der jeweils geltenden Fassung. Die Entschädigung nach Satz 1 darf je Person und Tag den Betrag, der für einen achtstündigen Einsatz zu leisten ist, nicht überschreiten.
 
-
-## § 10 – Kontrolle und Durchsetzung von Verpflichtungen
+# § 10 – Kontrolle und Durchsetzung von Verpflichtungen
 
 (1) Die Bundesnetzagentur kontrolliert die Erfüllung der Verpflichtungen nach diesem Gesetz und setzt diese durch. Sie ist befugt, zu diesem Zweck Geschäftsräume der Unternehmen während der üblichen Geschäftszeiten zu betreten und dort Prüfungen und Besichtigungen vorzunehmen. Die Postunternehmen und die Telekommunikationsunternehmen haben der Bundesnetzagentur die Durchführung der Kontrollmaßnahmen nach den Sätzen 1 und 2 zu ermöglichen.
 
@@ -149,8 +137,7 @@ Dabei haben Telekommunikationsbevorrechtigte nach § 6 Absatz 2 Satz 1 Nummer 9 
 
 2. bis zu 50 000 Euro zur Durchsetzung der Verpflichtungen nach Absatz 1 Satz 3, den §§ 4 und 8 Absatz 1.
 
-
-## § 11 – Bußgeldvorschriften
+# § 11 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -182,8 +169,7 @@ Dabei haben Telekommunikationsbevorrechtigte nach § 6 Absatz 2 Satz 1 Nummer 9 
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Die nach § 5 Absatz 2 Satz 4 der Postsicherstellungsverordnung vom 23. Oktober 1996 (BGBl. I S. 1535), die zuletzt durch Artikel 3 Absatz 25 des Gesetzes vom 7. Juli 2005 (BGBl. I S. 1970) geändert worden ist, ausgestellten Bescheinigungen über die Vorrangpostberechtigung gelten längstens bis zum 31. Dezember 2013. Die Bundesnetzagentur informiert die betroffenen Aufgabenträger sowie die Behörden, die diese Aufgabenträger benannt haben, bis zum 31. März 2012 schriftlich über die Bestimmung des Satzes 1 und weist auf die Regelung des § 2 Absatz 2 Satz 1 Nummer 6 hin. Sie vernichtet nach Ablauf der Frist nach Satz 1 unverzüglich die von ihr auf Grund der Aufgaben nach § 5 Absatz 2 Satz 3 und 4 der Postsicherstellungsverordnung geführten Datenbestände und Unterlagen.
 

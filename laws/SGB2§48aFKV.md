@@ -1,20 +1,15 @@
-# [SGB2§48aFKV] Verordnung zur Festlegung der Kennzahlen nach § 48a des Zweiten Buches Sozialgesetzbuch
-
-Ausfertigungsdatum: 12.08.2010
-
+% Verordnung zur Festlegung der Kennzahlen nach § 48a des Zweiten Buches Sozialgesetzbuch
+% Ausfertigungsdatum: 12.08.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 48a Absatz 2 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 1 Nummer 14 des Gesetzes vom 3. August 2010 (BGBl. I S. 1112) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Ziele
+# § 1 – Ziele
 
 Zur Erstellung der Kennzahlenvergleiche nach § 48a Absatz 1 des Zweiten Buches Sozialgesetzbuch werden Kennzahlen und Ergänzungsgrößen für die Ziele nach § 48b Absatz 3 des Zweiten Buches Sozialgesetzbuch festgelegt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Kennzahlen und Ergänzungsgrößen sind relative Maßzahlen, die als Quotient aus einem Zähler und einem Nenner gebildet werden. Eine Kennzahl dient der Feststellung der Leistungsfähigkeit der Jobcenter. Ergänzungsgrößen dienen der ergänzenden Information und der Interpretation der Kennzahlenergebnisse.
 
@@ -28,13 +23,11 @@ Zur Erstellung der Kennzahlenvergleiche nach § 48a Absatz 1 des Zweiten Buches 
 
 (3) In Vergleichstypen werden diejenigen Jobcenter zusammengefasst, die in Bezug auf Rahmenbedingungen, die sich auf ihre Leistungsfähigkeit auswirken, jedoch von ihnen mittelfristig nicht beeinflusst werden können, ähnlich sind.
 
-
-## § 3 – Umsetzung
+# § 3 – Umsetzung
 
 Die Kennzahlen und Ergänzungsgrößen werden monatlich für alle Jobcenter gebildet. Berechnungsgrundlage sind die Daten nach § 51b Absatz 1 Satz 2 des Zweiten Buches Sozialgesetzbuch. Die Kennzahlen und Ergänzungsgrößen sollen geschlechtsspezifisch ausgewiesen werden. Alle Kennzahlen und Ergänzungsgrößen werden in Prozent abgebildet.
 
-
-## § 4 – Verringerung der Hilfebedürftigkeit
+# § 4 – Verringerung der Hilfebedürftigkeit
 
 (1) Kennzahl für die Verringerung der Hilfebedürftigkeit ist die „Veränderung der Summe der Leistungen zum Lebensunterhalt (ohne Leistungen für Unterkunft und Heizung)“:  
   
@@ -71,8 +64,7 @@ Zahl der zugegangenen erwerbsfähigen Leistungsberechtigten im Bezugsmonat
 
 Zahl der abgegangenen erwerbsfähigen Leistungsberechtigten im Bezugsmonat
 
-
-## § 5 – Verbesserung der Integration in Erwerbstätigkeit
+# § 5 – Verbesserung der Integration in Erwerbstätigkeit
 
 (1) Kennzahl für die Verbesserung der Integration in Erwerbstätigkeit ist die „Integrationsquote“:  
   
@@ -108,8 +100,7 @@ Summe der kontinuierlichen Beschäftigungen nach Integration in den vergangenen 
 
 die Ergänzungsgröße wird mit Bezug auf die Alleinerziehenden entsprechend Absatz 1 gebildet.
 
-
-## § 6 – Vermeidung von langfristigem Leistungsbezug
+# § 6 – Vermeidung von langfristigem Leistungsbezug
 
 (1) Kennzahl ist die „Veränderung des Bestands an Langzeitleistungsbeziehenden“:  
   
@@ -143,22 +134,18 @@ die Ergänzungsgröße wird mit Bezug auf die Langzeitleistungsbeziehenden entsp
 
 die Ergänzungsgröße wird mit Bezug auf die Langzeitleistungsbeziehenden entsprechend § 4 Absatz 2 Nummer 4 gebildet.
 
-
-## § 7 – Form der Veröffentlichung
+# § 7 – Form der Veröffentlichung
 
 Das Bundesministerium für Arbeit und Soziales veröffentlicht monatlich die Ergebnisse zu den Kennzahlen und Ergänzungsgrößen sowie deren Berechnungsgrundlagen für alle Jobcenter. Die Ergebnisse werden nach verschiedenen Ordnungsmerkmalen dargestellt. Insbesondere sind die Ergebnisse nach Vergleichstypen auszuweisen.
 
-
-## § 8 – Verfahren zur Weiterentwicklung dieser Rechtsverordnung
+# § 8 – Verfahren zur Weiterentwicklung dieser Rechtsverordnung
 
 Der Bund-Länder-Ausschuss nach § 18c des Zweiten Buches Sozialgesetzbuch begleitet die Umsetzung dieser Rechtsverordnung und macht Vorschläge zu deren Weiterentwicklung. Hierzu kann er eine Arbeitsgruppe einrichten.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 23. August 2010 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

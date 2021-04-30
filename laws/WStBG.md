@@ -1,13 +1,9 @@
-# [WStBG] Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds „Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds „Wirtschaftsstabilisierungsfonds – WSF“  (Wirtschaftsstabilisierungsbeschleunigungsgesetz - WStBG)
-
-Ausfertigungsdatum: 17.10.2008
-
+% Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds „Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds „Wirtschaftsstabilisierungsfonds – WSF“  (Wirtschaftsstabilisierungsbeschleunigungsgesetz - WStBG)
+% Ausfertigungsdatum: 17.10.2008
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Die folgenden Begriffe werden für die Zwecke des Gesetzes wie folgt bestimmt:
 
@@ -21,27 +17,23 @@ Die folgenden Begriffe werden für die Zwecke des Gesetzes wie folgt bestimmt:
 
 5. Unternehmen der Realwirtschaft im Sinne dieses Gesetzes sind Unternehmen im Sinne des § 16 Absatz 2 des Stabilisierungsfondsgesetzes, denen Stabilisierungsmaßnahmen gewährt werden.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Unternehmen im Sinne dieses Gesetzes bezeichnen sowohl „Unternehmen des Finanzsektors“ im Sinne von Absatz 1 Nummer 4 als auch „Unternehmen der Realwirtschaft“ im Sinne von Absatz 1 Nummer 5 auf die dieses Gesetz Anwendung findet.
 
 (2) Soweit dieses Gesetz Vorgaben für als Aktiengesellschaft und in weiteren Rechtsformen verfasste Unternehmen vorsieht, denen Stabilisierungsmaßnahmen nach den §§ 6 bis 8, 21, 22 des Stabilisierungsfondsgesetzes gewährt werden, gelten diese Vorgaben für durch andere inländische Gebietskörperschaften errichtete, mit dem Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen und deren Stabilisierungsmaßnahmen entsprechend. Soweit dieses Gesetz auf den oder die Fonds, den Bund, ihre jeweiligen Tochtergesellschaften und die von ihnen errichteten Körperschaften, Anstalten und Sondervermögen sowie die ihnen nahestehenden Personen oder sonstige von ihnen mittelbar oder unmittelbar abhängigen Unternehmen Bezug nimmt, gelten die Bestimmungen entsprechend auch für durch andere inländische Gebietskörperschaften errichtete, mit dem Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen, die Bundesländer, ihre jeweiligen Tochtergesellschaften und die von ihnen errichteten Körperschaften, Anstalten, Sondervermögen sowie die ihnen nahestehenden Personen oder sonstige von ihnen mittelbar oder unmittelbar abhängigen Unternehmen.
 
-
-## § 3 – Verpflichtungserklärung bei Aktiengesellschaften
+# § 3 – Verpflichtungserklärung bei Aktiengesellschaften
 
 (1) Die Vorschriften des Aktiengesetzes über die Verantwortung des Vorstands zur eigenverantwortlichen Leitung der Gesellschaft sowie über die Zuständigkeiten der Organe stehen der Zulässigkeit und Wirksamkeit einer von Unternehmen des Finanzsektors gemäß § 10 Absatz 2 Satz 1 Nummer 9 des Stabilisierungsfondsgesetzes oder von Unternehmen der Realwirtschaft gemäß § 25 Absatz 3 Satz 1 Nummer 9 des Stabilisierungsfondsgesetzes abgegebenen Verpflichtungserklärung nicht entgegen. Die Verpflichtungserklärung wird mit ihrer Abgabe wirksam.
 
 (2) Die vertretungsberechtigten Organe sind auch gegenüber der Gesellschaft und der Gesamtheit ihrer Gesellschafter berechtigt und verpflichtet, der Verpflichtungserklärung zu entsprechen. Beschlüsse, die der Verpflichtungserklärung, insbesondere im Hinblick auf die Dividendenpolitik, zuwiderlaufen, können aus diesem Grunde angefochten werden. § 254 Absatz 2 des Aktiengesetzes gilt entsprechend.
 
-
-## § 4 – Verpflichtungserklärung bei anderen Rechtsformen
+# § 4 – Verpflichtungserklärung bei anderen Rechtsformen
 
 Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors und für Unternehmen der Realwirtschaft, die nicht in der Rechtsform einer Aktiengesellschaft verfasst sind, entsprechend.
 
-
-## § 5 – Ausgestaltung der Aktien
+# § 5 – Ausgestaltung der Aktien
 
 (1) Wenn der Vorstand bei der Ausgabe neuer Aktien gemäß § 203 AktG vom genehmigtem Kapital Gebrauch macht, entscheidet er mit Zustimmung des Aufsichtsrats über den Inhalt der Aktienrechte und die Bedingungen der Aktienausgabe. In diesem Fall hat er der nächsten ordentlichen Hauptversammlung einen schriftlichen Bericht über die Kapitalerhöhung und Ausgabe neuer Aktien vorzulegen, in dem insbesondere der Umfang der Kapitalerhöhung sowie der Ausgabebetrag sowie gegebenenfalls ein Gewinnvorzug und Liquidationsvorrang der Aktien rechtlich und wirtschaftlich erläutert werden.
 
@@ -55,15 +47,13 @@ Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors und für Unt
 
 (6) Soweit die an den Fonds ausgegebenen Aktien mit einem Gewinnvorzug oder einem Vorrang bei der Verteilung des Gesellschaftsvermögens ausgestattet sind, verlieren sie diesen bei der Übertragung an einen Dritten. Der Fonds kann bestimmen, dass die an ihn ausgegebenen Vorzugsaktien bei der Übertragung an einen Dritten in stimmberechtigte Stammaktien umgewandelt werden.
 
-
-## § 6 – Hauptversammlung
+# § 6 – Hauptversammlung
 
 (1) Für Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Europäische Gesellschaften (SE) und Versicherungsvereine auf Gegenseitigkeit gilt für die Durchführung von Hauptversammlungen § 1 des Gesetzes über Maßnahmen im Gesellschafts-, Vereins-, Genossenschafts- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie.
 
 (2) Für Mitgliederbeschlüsse bei Genossenschaften gilt § 3 des Gesetzes über Maßnahmen im Gesellschafts-, Vereins-, Genossenschafts- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie.
 
-
-## § 7 – Kapitalerhöhung gegen Einlagen und Kapitalherabsetzung
+# § 7 – Kapitalerhöhung gegen Einlagen und Kapitalherabsetzung
 
 (1) Wird im Zusammenhang mit einer Rekapitalisierung nach § 7 oder § 22 des Stabilisierungsfondsgesetzes eine Hauptversammlung zur Beschlussfassung über eine Kapitalerhöhung gegen Einlagen einberufen, gilt § 16 Absatz 4 des Wertpapiererwerbs- und Übernahmegesetzes entsprechend, mit der Maßgabe, dass Satzungsbeschränkungen für die Erteilung von Stimmrechtsvollmachten nicht gelten. Die vorstehenden Regelungen gelten entsprechend, wenn die Kapitalerhöhung nicht nur von dem Fonds, sondern auch oder ausschließlich von den Aktionären oder Dritten gezeichnet werden kann oder die Tagesordnung der Hauptversammlung neben der Beschlussfassung über die Kapitalerhöhung noch andere Gegenstände enthält.
 
@@ -81,8 +71,7 @@ Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors und für Unt
 
 (7) Aktionäre, die eine für den Fortbestand der Gesellschaft erforderliche Rekapitalisierungsmaßnahme, insbesondere durch ihre Stimmrechtsausübung oder die Einlegung unbegründeter Rechtsmittel, verzögern oder vereiteln, um dadurch ungerechtfertigte Vorteile für sich zu erlangen, sind der Gesellschaft gesamtschuldnerisch zum Schadenersatz verpflichtet. Ein Aktionär kann nicht geltend machen, dass seine Stimmrechtsausübung für das Beschlussergebnis deshalb nicht ursächlich war, weil auch andere Aktionäre ihr Stimmrecht in gleicher Weise ausgeübt haben.
 
-
-## § 7a – Bedingtes Kapital
+# § 7a – Bedingtes Kapital
 
 (1) Eine bedingte Kapitalerhöhung im Zusammenhang mit einer Rekapitalisierung nach § 7 oder § 22 des Stabilisierungsfondsgesetzes kann auch zur Gewährung von Umtausch- oder Bezugsrechten an den Fonds als stillen Gesellschafter beschlossen werden. Der Beschluss bedarf einer Mehrheit der abgegebenen Stimmen. § 192 Absatz 3 Satz 1 des Aktiengesetzes gilt nicht; eine Anrechnung auf sonstige bedingte Kapitalien erfolgt nicht. § 194 Absatz 1 Satz 2 des Aktiengesetzes gilt entsprechend. Dies gilt auch für die Ausgabe von Wandelschuldverschreibungen durch ein Unternehmen gegen Einbringung von Vermögenseinlagen aus stillen Beteiligungen nach § 10. Es genügt, wenn in dem Beschluss oder dem damit verbundenen Beschluss nach § 10 Absatz 2 der Mindestausgabebetrag oder die Grundlagen für die Festlegung des Ausgabebetrages oder des Mindestausgabebetrages bestimmt werden. Im Übrigen ist § 7 Absatz 1 und 2 Satz 2 entsprechend anzuwenden.
 
@@ -90,8 +79,7 @@ Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors und für Unt
 
 (3) Für bedingtes Kapital nach Absatz 1 gilt § 218 des Aktiengesetzes entsprechend.
 
-
-## § 7b – Schaffung eines genehmigten Kapitals durch die Hauptversammlung
+# § 7b – Schaffung eines genehmigten Kapitals durch die Hauptversammlung
 
 (1) Der Beschluss der Hauptversammlung, mit dem der Vorstand ermächtigt wird, im Zusammenhang mit einer Rekapitalisierung nach § 7 oder § 22 des Stabilisierungsfondsgesetzes das Grundkapital bis zu einem bestimmten Nennbetrag durch Ausgabe neuer Aktien gegen Einlagen zu erhöhen (§ 202 Absatz 2 des Aktiengesetzes), bedarf einer Mehrheit der abgegebenen Stimmen. Abweichende Satzungsbestimmungen sind unbeachtlich. § 202 Absatz 3 Satz 1 des Aktiengesetzes gilt nicht; eine Anrechnung auf sonstige genehmigte Kapitalien erfolgt nicht. Im Übrigen ist § 7 Absatz 1 und 2 Satz 2 sowie Absatz 4 Satz 2 entsprechend anzuwenden.
 
@@ -99,23 +87,19 @@ Die vorstehenden Absätze gelten für Unternehmen des Finanzsektors und für Unt
 
 (3) Für die Ausgabe der neuen Aktien gilt § 5 entsprechend.
 
-
-## § 7c – Eintragung von Hauptversammlungsbeschlüssen
+# § 7c – Eintragung von Hauptversammlungsbeschlüssen
 
 Ein Beschluss der Hauptversammlung nach den §§ 7, 7a und 7b ist unverzüglich zur Eintragung in das Handelsregister anzumelden und beim Bundesanzeiger einzureichen. Er wird mit Veröffentlichung des zur Eintragung in das Handelsregister angemeldeten Beschlusses auf der Internetseite der Gesellschaft, spätestens aber mit der Veröffentlichung im Bundesanzeiger wirksam, auch Dritten gegenüber. Die Eintragung ins Handelsregister ist nicht Voraussetzung für die Wirksamkeit des Beschlusses und der entsprechenden Kapitalmaßnahmen. Der Beschluss, und sofern erforderlich die Durchführung der entsprechenden Kapitalmaßnahme sind, sofern sie nicht offensichtlich nichtig sind, unverzüglich in das Handelsregister einzutragen. § 246a Absatz 4 des Aktiengesetzes gilt entsprechend mit der Maßgabe, dass das Überwiegen des Vollzugsinteresses im Sinne von § 246a Absatz 2 Nummer 3 des Aktiengesetzes vermutet wird. Dasselbe gilt für die Beschlussfassungen von Vorstand und Aufsichtsrat auf Grund einer Ermächtigung nach § 5 Absatz 1 und § 7b.
 
-
-## § 7d – Ausschluss der aktienrechtlichen Vorschriften über verbundene Unternehmen
+# § 7d – Ausschluss der aktienrechtlichen Vorschriften über verbundene Unternehmen
 
 Die Vorschriften des Aktiengesetzes über herrschende Unternehmen sind auf den Fonds, den Bund und die von ihnen errichteten Körperschaften, Anstalten und Sondervermögen sowie die ihnen nahestehenden Personen oder sonstige von ihnen mittelbar oder unmittelbar abhängigen Unternehmen nicht anzuwenden. Bei Beteiligungen an Unternehmen der Realwirtschaft im Sinne von § 1 Nummer 5 gilt dies nur bis zum Ablauf des 31. Dezember 2021. Die Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat eines vom Fonds beherrschten Unternehmens bleiben von dieser Bestimmung unberührt.
 
-
-## § 7e – Kapitalmaßnahmen durch Dritte im Zusammenhang mit einer Stabilisierungsmaßnahme
+# § 7e – Kapitalmaßnahmen durch Dritte im Zusammenhang mit einer Stabilisierungsmaßnahme
 
 Die §§ 7 bis 7d gelten entsprechend für Kapitalmaßnahmen, insbesondere die Ausgabe neuer Aktien gegen Hingabe von Einlagen aus von dem Fonds eingegangenen stillen Gesellschaften oder zur Beschaffung von Mitteln zum Zweck der Rückgewähr solcher Einlagen, im Zusammenhang mit einer Stabilisierungsmaßnahme nach den §§ 6 bis 8, 21, 22 des Stabilisierungsfondsgesetzes, wenn die neuen Aktien aus der Kapitalmaßnahme auch oder ausschließlich durch Dritte gezeichnet werden. Dies gilt insbesondere, wenn durch die Kapitalmaßnahmen die Voraussetzung für eine Maßnahme nach § 6 oder § 21 des Stabilisierungsfondsgesetzes geschaffen werden soll.
 
-
-## § 7f – Zusammenhang mit Stabilisierungsmaßnahmen
+# § 7f – Zusammenhang mit Stabilisierungsmaßnahmen
 
 (1) Ein Zusammenhang mit der Stabilisierung, einer Rekapitalisierung oder einer anderen Stabilisierungsmaßnahme im Sinne der §§ 7 bis 7b und 7e besteht auch dann, wenn Beschlüsse der Hauptversammlung des Unternehmens, insbesondere über Kapitalmaßnahmen oder die Ermächtigung des Vorstands zu deren Vornahme, dem Zweck dienen,
 
@@ -133,8 +117,7 @@ Die §§ 7 bis 7d gelten entsprechend für Kapitalmaßnahmen, insbesondere die A
 
 (2) Dasselbe gilt, wenn der Beschluss der Hauptversammlung eine Vereinbarung mit dem Fonds oder eine Erklärung der Geschäftsführung des Unternehmens vorsieht, die aus einer Kapitalmaßnahme dem Unternehmen zufließenden Mittel überwiegend für eine Rückzahlung von dem Unternehmen durch den Fonds zur Verfügung gestelltem Kapital zu verwenden.
 
-
-## § 8 – Genussrechte und nachrangige Schuldverschreibungen
+# § 8 – Genussrechte und nachrangige Schuldverschreibungen
 
 (1) Der Vorstand eines als Aktiengesellschaft verfassten Unternehmens ist bis zum 31. Dezember 2021 ermächtigt, Genussrechte und Schuldverschreibungen mit einem qualifizierten Nachrang an den Fonds auszugeben. Der Vorstand kann von der Ermächtigung nur mit Zustimmung des Aufsichtsrates Gebrauch machen.
 
@@ -144,15 +127,13 @@ Die §§ 7 bis 7d gelten entsprechend für Kapitalmaßnahmen, insbesondere die A
 
 (4) Die Absätze 1 bis 3 gelten entsprechend, wenn ein Unternehmen Schuldverschreibungen ausgibt, für die der Finanzmarktstabilisierungsfonds nach § 6 Absatz 1 des Stabilisierungsfondsgesetzes oder der Wirtschaftsstabilisierungsfonds nach § 21 Absatz 1 des Stabilisierungsfondsgesetzes eine Garantie übernimmt.
 
-
-## § 9 – Sinngemäße Anwendung bei Kommanditgesellschaften auf Aktien, Europäischen Gesellschaften (SE) und Genossenschaften
+# § 9 – Sinngemäße Anwendung bei Kommanditgesellschaften auf Aktien, Europäischen Gesellschaften (SE) und Genossenschaften
 
 (1) Für Unternehmen, die in der Rechtsform der Kommanditgesellschaft auf Aktien oder der Europäischen Gesellschaft (SE) verfasst sind, gelten die §§ 5 bis 8 sinngemäß.
 
 (2) Der Fonds kann Mitglied von Unternehmen werden, die in der Rechtsform der Genossenschaft verfasst sind. Satzungsänderungen von Genossenschaften, deren Zweck darin besteht, eine Kapitalverstärkung durch den Fonds herbeizuführen, sind unverzüglich zur Eintragung in das Genossenschaftsregister anzumelden und unverzüglich einzutragen, sofern der zugrundeliegende Beschluss nicht offensichtlich nichtig ist.
 
-
-## § 9a – Vorgaben für Stabilisierungsmaßnahmen bei als GmbH verfassten Unternehmen
+# § 9a – Vorgaben für Stabilisierungsmaßnahmen bei als GmbH verfassten Unternehmen
 
 (1) Beschlüsse der Gesellschafterversammlung über die in den §§ 7 und 7b bezeichneten Refinanzierungsmaßnahmen bedürfen der einfachen Mehrheit der anwesenden Stimmen. Abweichende Bestimmungen im Gesellschaftsvertrag sind unbeachtlich. Dies gilt auch für den Ausschluss des Bezugsrechts. Für die Eintragung dieser Beschlüsse ins Handelsregister gelten § 7c Satz 1 bis 4 und § 7 Absatz 2 entsprechend.
 
@@ -162,13 +143,11 @@ Die §§ 7 bis 7d gelten entsprechend für Kapitalmaßnahmen, insbesondere die A
 
 (4) Die §§ 7e, 7f und 8 gelten entsprechend.
 
-
-## § 9b – GmbH & Co. KG und KG
+# § 9b – GmbH & Co. KG und KG
 
 Für Beschlüsse von Unternehmen der Realwirtschaft, die als GmbH & Co. KG oder KG über die Aufnahme des Wirtschaftsstabilisierungsfonds als Kommanditist entscheiden, genügt die einfache Mehrheit der am Beschluss teilnehmenden Gesellschafter.
 
-
-## § 10 – Stille Gesellschaft
+# § 10 – Stille Gesellschaft
 
 (1) Eine Vereinbarung über die Leistung einer Vermögenseinlage durch den Fonds als stiller Gesellschafter in ein Unternehmen ist kein Unternehmensvertrag nach § 291 oder § 292 des Aktiengesetzes. Sie bedarf insbesondere nicht der Zustimmung der Hauptversammlung oder der Eintragung in das Handelsregister. Die vorstehenden Sätze gelten entsprechend, wenn sich im Rahmen einer Rekapitalisierung nach § 7 oder § 22 des Stabilisierungsfondsgesetzes neben dem Fonds auch Dritte als stille Gesellschafter an dem Unternehmen beteiligen oder die stille Beteiligung nach Gewährung der Einlage ganz oder in Teilen an Dritte übertragen wird.
 
@@ -178,23 +157,19 @@ Für Beschlüsse von Unternehmen der Realwirtschaft, die als GmbH & Co. KG oder 
 
 (4) Die vorzeitige Rückgewähr einer Vermögenseinlage des Fonds oder einvernehmliche Aufhebung einer stillen Gesellschaft nach Absatz 1 gilt nicht als Rückgewähr von Einlagen im Sinne des § 57 des Aktiengesetzes.
 
-
-## § 11 – Keine Informationspflicht gegenüber dem Wirtschaftsausschuss
+# § 11 – Keine Informationspflicht gegenüber dem Wirtschaftsausschuss
 
 § 106 Absatz 2 Satz 2 und Absatz 3 Nummer 9a sowie § 109a des Betriebsverfassungsgesetzes finden keine Anwendung auf den Erwerb von Anteilen durch die Fonds.
 
-
-## § 12 – Keine Mitteilungspflicht für wesentliche Beteiligung
+# § 12 – Keine Mitteilungspflicht für wesentliche Beteiligung
 
 § 43 des Wertpapierhandelsgesetzes findet keine Anwendung auf den Erwerb von Anteilen durch die Fonds.
 
-
-## § 13 – Keine Anzeigepflicht für bedeutende Beteiligung
+# § 13 – Keine Anzeigepflicht für bedeutende Beteiligung
 
 § 2c des Kreditwesengesetzes findet keine Anwendung auf den Erwerb von bedeutenden Beteiligungen durch die Fonds.
 
-
-## § 14 – Wertpapiererwerbs- und Übernahmeangebote; Ausschluss von Minderheitsaktionären
+# § 14 – Wertpapiererwerbs- und Übernahmeangebote; Ausschluss von Minderheitsaktionären
 
 (1) Wird die Kontrolle im Sinne des § 29 Absatz 2 des Wertpapiererwerbs- und Übernahmegesetzes über eine Zielgesellschaft durch den Bund, den Fonds oder durch ihre jeweiligen Tochtergesellschaften im Zusammenhang mit einer Stabilisierungsmaßnahme nach Stabilisierungsfondsgesetz, einschließlich der nachträglichen Erhöhung einer im Rahmen einer Stabilisierungsmaßnahme erworbenen Beteiligung des Fonds, oder einer Maßnahme nach dem Rettungsübernahmegesetz erlangt, so befreit sie die Bundesanstalt für Finanzdienstleistungsaufsicht von der Pflicht zur Veröffentlichung nach § 35 Absatz 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur Abgabe eines Angebots nach § 35 Absatz 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes.
 
@@ -210,18 +185,15 @@ Für Beschlüsse von Unternehmen der Realwirtschaft, die als GmbH & Co. KG oder 
 
 (4) Der Fonds kann ein Verlangen nach § 327a Absatz 1 Satz 1 des Aktiengesetzes stellen, wenn ihm Aktien der Gesellschaft in Höhe von 90 Prozent des Grundkapitals gehören. § 327b Absatz 3 des Aktiengesetzes ist nicht anzuwenden. Anstelle des § 327e Absatz 2 des Aktiengesetzes findet § 7c Satz 2 bis 4 entsprechende Anwendung. Ist eine gegen die Wirksamkeit des Hauptversammlungsbeschlusses gerichtete Klage begründet, hat der Fonds den Aktionären ihre Aktien Zug um Zug gegen Erstattung einer bereits gezahlten Abfindung zurück zu übertragen. Im Übrigen sind die §§ 327a bis 327f des Aktiengesetzes anzuwenden.
 
-
-## § 15 – Keine Börsenzulassung
+# § 15 – Keine Börsenzulassung
 
 § 40 Absatz 1 des Börsengesetzes und § 69 der Börsenzulassungs-Verordnung finden auf die Ausgabe von Aktien an den Fonds keine Anwendung. Nach einer Übertragung der Aktien an einen Dritten sind die vorstehenden Vorschriften anzuwenden. Die Frist des § 69 Absatz 2 der Börsenzulassungs-Verordnung beginnt mit der Übertragung an den Dritten zu laufen.
 
-
-## § 16 – Wettbewerbsrecht
+# § 16 – Wettbewerbsrecht
 
 Die Vorschriften des Ersten bis Dritten Teils des Gesetzes gegen Wettbewerbsbeschränkungen finden keine Anwendung auf den Fonds.
 
-
-## § 17 – Anfechtung, Gesellschafterdarlehen und wirtschaftlich vergleichbare Forderungen, verdeckte Sacheinlage
+# § 17 – Anfechtung, Gesellschafterdarlehen und wirtschaftlich vergleichbare Forderungen, verdeckte Sacheinlage
 
 (1) Rechtshandlungen, die im Zusammenhang mit Stabilisierungsmaßnahmen stehen, können nicht zu Lasten des Fonds, des Bundes und der von ihnen errichteten Körperschaften, Anstalten und Sondervermögen sowie der ihnen nahestehenden Personen oder sonstigen von ihnen mittelbar oder unmittelbar abhängigen Unternehmen nach den Bestimmungen der Insolvenzordnung und des Anfechtungsgesetzes angefochten werden.
 
@@ -231,13 +203,11 @@ Die Vorschriften des Ersten bis Dritten Teils des Gesetzes gegen Wettbewerbsbesc
 
 (4) Die Rechtsgrundsätze der verdeckten Sacheinlage finden auf Rechtsgeschäfte zwischen dem Finanzmarktstabilisierungsfonds und Unternehmen des Finanzsektors sowie zwischen dem Wirtschaftsstabilisierungsfonds und Unternehmen der Realwirtschaft keine Anwendung. Dies gilt insbesondere für die Ausgabe neuer Aktien gegen Hingabe von Einlagen aus von dem Fonds eingegangenen stillen Gesellschaften oder von sonstigen Verbindlichkeiten des Unternehmens gegenüber dem Fonds.
 
-
-## § 18 – Keine Kündigung bei Übernahme einer Beteiligung
+# § 18 – Keine Kündigung bei Übernahme einer Beteiligung
 
 Die Übernahme, Umstrukturierung, Veränderung oder Veräußerung einer Beteiligung des Fonds an einem Unternehmen des Finanzsektors stellt keinen wichtigen Grund zur Kündigung eines Schuldverhältnisses dar und führt auch nicht zu einer automatischen Beendigung von Schuldverhältnissen. Entgegenstehende vertragliche Bestimmungen sind unwirksam. Die Vereinbarung von Abfindungs- oder Entschädigungsansprüchen in Anstellungsverträgen von Organmitgliedern oder in sonstigen Dienstverträgen des Unternehmens ist unwirksam, soweit die Vereinbarung Ansprüche auch für den Fall einer Vertragsbeendigung aus Anlass der Übernahme einer Beteiligung des Fonds, aus Anlass einer Veränderung der Höhe dieser Beteiligung oder aus Anlass der Wahrnehmung von Rechten aus dieser Beteiligung gewähren würde.
 
-
-## § 19 – Veränderung und Beendigung von Rekapitalisierungsmaßnahmen
+# § 19 – Veränderung und Beendigung von Rekapitalisierungsmaßnahmen
 
 (1) Das Unternehmen ist verpflichtet, auf Verlangen des Fonds zumutbare Maßnahmen vorzunehmen, die für die Rückführung, Veräußerung, Übertragung oder Änderung von im Zusammenhang mit einer Rekapitalisierung erworbenen Beteiligungen des Fonds zweckdienlich sind. Das gilt insbesondere für die Börsenzulassung von Finanzinstrumenten und die Erstellung von Wertpapierprospekten oder sonstigen Angebotsunterlagen, die in Form und Inhalt den anwendbaren gesetzlichen Vorgaben zu entsprechen haben. Auf Verlangen des Fonds sind solche Wertpapierprospekte oder sonstige Angebotsunterlagen auch mehrsprachig und unter Beachtung der Anforderungen an derartige Unterlagen auch für das Angebot an institutionelle Anleger im Ausland zu erstellen.
 
@@ -247,8 +217,7 @@ Die Übernahme, Umstrukturierung, Veränderung oder Veräußerung einer Beteilig
 
 (4) § 57 des Aktiengesetzes findet auf die Maßnahmen des Unternehmens im Sinne des Absatzes 1, auf die Übernahme und Erstattung von Kosten gemäß Absatz 2 und auf die Freistellung gemäß Absatz 3 keine Anwendung.
 
-
-## § 20 – Erwerb von Risikopositionen
+# § 20 – Erwerb von Risikopositionen
 
 (1) Übertragungen von Risikopositionen und Sicherheiten auf den Fonds sind insolvenzrechtlich nicht anfechtbar. Zivilrechtliche Abtretungs- und Übertragungshindernisse, einschließlich des Erfordernisses einer Zustimmung Dritter, stehen der Wirksamkeit der Übertragung an den Fonds nicht entgegen. Die Übertragung einer Forderung oder eines Vertragsverhältnisses an den Fonds stellt keinen wichtigen Grund zur Kündigung im Sinne des § 314 des Bürgerlichen Gesetzbuchs und keine Vertragsverletzung dar. Die Übertragung einer gesellschaftsrechtlichen Beteiligung auf den Fonds stellt keinen Grund für die Einziehung oder Kündigung der Beteiligung und keine Vertragsverletzung dar. Die §§ 307 bis 309 des Bürgerlichen Gesetzbuchs und § 354a Absatz 2 des Handelsgesetzbuchs sind auf Übertragungen an den Fonds und die von ihm verwendeten Vertragsbedingungen nicht anwendbar.
 

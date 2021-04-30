@@ -1,10 +1,7 @@
-# [LMIDV] Verordnung zur Durchführung unionsrechtlicher Vorschriften betreffend die Information der Verbraucher über Lebensmittel  (Lebensmittelinformations-Durchführungsverordnung - LMIDV)
-
-Ausfertigungsdatum: 05.07.2017
-
+% Verordnung zur Durchführung unionsrechtlicher Vorschriften betreffend die Information der Verbraucher über Lebensmittel  (Lebensmittelinformations-Durchführungsverordnung - LMIDV)
+% Ausfertigungsdatum: 05.07.2017
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung ergänzt die Regelungen der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) und die Regelungen der auf sie gestützten Rechtsakte der Europäischen Union über
 
@@ -18,8 +15,7 @@ b) Anbieter von Gemeinschaftsverpflegung im Sinne des Artikels 2 Absatz 2 Buchst
 
 (2) Diese Verordnung gilt nicht, soweit in besonderen Rechtsvorschriften Kennzeichnungsvorschriften im Sinne des Absatzes 1 geregelt sind.
 
-
-## § 2 – Allgemeine Anforderungen an die Kennzeichnung von Lebensmitteln beim Inverkehrbringen
+# § 2 – Allgemeine Anforderungen an die Kennzeichnung von Lebensmitteln beim Inverkehrbringen
 
 (1) Lebensmittel sind beim Inverkehrbringen in deutscher Sprache zu kennzeichnen, wenn die Kennzeichnung verpflichtend ist nach
 
@@ -31,13 +27,11 @@ b) Anbieter von Gemeinschaftsverpflegung im Sinne des Artikels 2 Absatz 2 Buchst
 
 (2) Lebensmittel, die im Flugverkehr in den Verkehr gebracht werden, können abweichend von Absatz 1 in einer anderen leicht verständlichen Sprache gekennzeichnet werden, wobei die Information über Zutaten und Verarbeitungshilfsstoffe nach Artikel 9 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 1169/2011 stets auch in deutscher Sprache erfolgen muss.
 
-
-## § 3 – Besondere Anforderungen an die Kennzeichnung bestimmter vorverpackter Lebensmittel beim Inverkehrbringen
+# § 3 – Besondere Anforderungen an die Kennzeichnung bestimmter vorverpackter Lebensmittel beim Inverkehrbringen
 
 Abweichend von Artikel 16 Absatz 4 der Verordnung (EU) Nr. 1169/2011 ist Bier, das als vorverpacktes Lebensmittel abgegeben wird, beim Inverkehrbringen mit einem Verzeichnis der Zutaten nach Artikel 9 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1169/2011 zu kennzeichnen.
 
-
-## § 4 – Besondere Vorschriften für die Kennzeichnung von nicht vorverpackten Lebensmitteln beim Inverkehrbringen oder Abgeben
+# § 4 – Besondere Vorschriften für die Kennzeichnung von nicht vorverpackten Lebensmitteln beim Inverkehrbringen oder Abgeben
 
 (1) Lebensmittel, die im Hinblick auf ihren unmittelbaren Verkauf vorverpackt und Endverbrauchern zur Selbstbedienung angeboten werden, dürfen durch den Verantwortlichen nach Artikel 8 Absatz 1 oder Absatz 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 nur in den Verkehr gebracht werden oder durch den Verantwortlichen nach Artikel 8 Absatz 3 der Verordnung (EU) Nr. 1169/2011 nur abgegeben werden, wenn sie mit den Angaben nach Artikel 9 Absatz 1 Buchstabe a bis d und f bis k und nach Artikel 10 Absatz 1 der Verordnung (EU) Nr. 1169/2011 gekennzeichnet sind. Bei Lebensmitteln, die über Automaten oder automatisierte Anlagen in den Verkehr gebracht werden, können die Angaben nach Satz 1 auf einem Schild an dem oder in der Nähe des Automaten oder der automatisierten Anlage angebracht werden. Satz 1 gilt nicht
 
@@ -79,8 +73,7 @@ Bei den betreffenden Lebensmitteln oder in einem Aushang in der Verkaufsstätte 
 
 (5) (weggefallen)
 
-
-## § 4a – Erweiterte Nährwertkennzeichnung
+# § 4a – Erweiterte Nährwertkennzeichnung
 
 (1) Der Verantwortliche nach Artikel 8 Absatz 1 oder Absatz 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 darf Lebensmittel mit dem in der Anlage abgebildeten Nutri-Score-Kennzeichen, das als Gemeinschaftskollektivmarke beim Amt der Europäischen Union für geistiges Eigentum eingetragen ist, in den Verkehr bringen.
 
@@ -98,8 +91,7 @@ Bei den betreffenden Lebensmitteln oder in einem Aushang in der Verkaufsstätte 
 
 2. Eingabedaten in deutscher Sprache und eine E-Mail-Adresse, die so eingestellt ist, dass dort eingehende E-Mails automatisch an den Markeninhaber weitergeleitet werden.
 
-
-## § 5 – Verkehrs- und Abgabeverbote
+# § 5 – Verkehrs- und Abgabeverbote
 
 (1) Dem Verantwortlichen nach Artikel 8 Absatz 1 oder 4 Satz 2 der Verordnung (EU) Nr. 1169/2011 ist es verboten, vorverpackte Lebensmittel in den Verkehr zu bringen, und dem Verantwortlichen nach Artikel 8 Absatz 3 ist es verboten, vorverpackte Lebensmittel abzugeben, die folgenden Anforderungen nicht entsprechen:
 
@@ -179,8 +171,7 @@ c) Artikel 13 Absatz 1, 2, 3 oder 5 der Verordnung (EU) Nr. 1169/2011,
 
 (6) Dem nach Artikel 8 Absatz 8 der Verordnung (EU) Nr. 1169/2011 Verantwortlichen ist es verboten, anderen Lebensmittelunternehmern Lebensmittel, die nicht für die Abgabe an Endverbraucher oder an Anbieter von Gemeinschaftsverpflegung bestimmt sind, zu liefern, ohne dass diese ausreichende Angaben zur Erfüllung der in Absatz 1 oder 3 bis 5 genannten Anforderungen erhalten.
 
-
-## § 6 – Straftaten und Ordnungswidrigkeiten
+# § 6 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 5 Absatz 1 Nummer 1 Buchstabe b oder Nummer 14 Buchstabe b Doppelbuchstabe aa ein Lebensmittel in den Verkehr bringt.
 
@@ -202,8 +193,7 @@ c) Artikel 13 Absatz 1, 2, 3 oder 5 der Verordnung (EU) Nr. 1169/2011,
 
 6. entgegen § 5 Absatz 6 ein Lebensmittel liefert.
 
-
-## Anlage – (zu § 4a Absatz 1) Abbildung des Nutri-Score-Kennzeichens
+# Anlage – (zu § 4a Absatz 1) Abbildung des Nutri-Score-Kennzeichens
 
 (Fundstelle: BGBl. I 2020, 2267)
 

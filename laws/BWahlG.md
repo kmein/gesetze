@@ -1,10 +1,7 @@
-# [BWahlG] Bundeswahlgesetz
-
-Ausfertigungsdatum: 07.05.1956
-
+% Bundeswahlgesetz
+% Ausfertigungsdatum: 07.05.1956
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -300,15 +297,13 @@ Anlage 2
 
 (zu § 2 Absatz 2)
 
-
-## § 1 – Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze
+# § 1 – Zusammensetzung des Deutschen Bundestages und Wahlrechtsgrundsätze
 
 (1) Der Deutsche Bundestag besteht vorbehaltlich der sich aus diesem Gesetz ergebenden Abweichungen aus 598 Abgeordneten. Sie werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl von den wahlberechtigten Deutschen nach den Grundsätzen einer mit der Personenwahl verbundenen Verhältniswahl gewählt.
 
 (2) Von den Abgeordneten werden 299 nach Kreiswahlvorschlägen in den Wahlkreisen und die übrigen nach Landeswahlvorschlägen (Landeslisten) gewählt.
 
-
-## § 2 – Gliederung des Wahlgebietes
+# § 2 – Gliederung des Wahlgebietes
 
 (1) Wahlgebiet ist das Gebiet der Bundesrepublik Deutschland.
 
@@ -316,8 +311,7 @@ Anlage 2
 
 (3) Jeder Wahlkreis wird für die Stimmabgabe in Wahlbezirke eingeteilt.
 
-
-## § 3 – Wahlkreiskommission und Wahlkreiseinteilung
+# § 3 – Wahlkreiskommission und Wahlkreiseinteilung
 
 (1) Bei der Wahlkreiseinteilung sind folgende Grundsätze zu beachten:
 
@@ -341,18 +335,15 @@ Bei Ermittlung der Bevölkerungszahlen bleiben Ausländer (§ 2 Abs. 1 des Aufen
 
 (5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes geändert, so ändern sich entsprechend auch die Grenzen der betroffenen Wahlkreise. Werden im aufnehmenden Land zwei oder mehrere Wahlkreise berührt oder wird eine Exklave eines Landes gebildet, so bestimmt sich die Wahlkreiszugehörigkeit des neuen Landesteiles nach der Wahlkreiszugehörigkeit der Gemeinde, des Gemeindebezirks oder des gemeindefreien Gebietes, denen er zugeschlagen wird. Änderungen von Landesgrenzen, die nach Ablauf des 32. Monats nach Beginn der Wahlperiode vorgenommen werden, wirken sich auf die Wahlkreiseinteilung erst in der nächsten Wahlperiode aus.
 
-
-## § 4 – Stimmen
+# § 4 – Stimmen
 
 Jeder Wähler hat zwei Stimmen, eine Erststimme für die Wahl eines Wahlkreisabgeordneten, eine Zweitstimme für die Wahl einer Landesliste.
 
-
-## § 5 – Wahl in den Wahlkreisen
+# § 5 – Wahl in den Wahlkreisen
 
 In jedem Wahlkreis wird ein Abgeordneter gewählt. Gewählt ist der Bewerber, der die meisten Stimmen auf sich vereinigt. Bei Stimmengleichheit entscheidet das vom Kreiswahlleiter zu ziehende Los.
 
-
-## § 6 – Wahl nach Landeslisten
+# § 6 – Wahl nach Landeslisten
 
 (1) Für die Verteilung der nach Landeslisten zu besetzenden Sitze werden die für jede Landesliste abgegebenen Zweitstimmen zusammengezählt. Nicht berücksichtigt werden dabei die Zweitstimmen derjenigen Wähler, die ihre Erststimme für einen im Wahlkreis erfolgreichen Bewerber abgegeben haben, der gemäß § 20 Absatz 3 oder von einer Partei vorgeschlagen ist, die nach Absatz 3 bei der Sitzverteilung nicht berücksichtigt wird oder für die in dem betreffenden Land keine Landesliste zugelassen ist. Von der Gesamtzahl der Abgeordneten (§ 1 Absatz 1) wird die Zahl der erfolgreichen Wahlkreisbewerber abgezogen, die in Satz 2 genannt sind.
 
@@ -368,26 +359,22 @@ In jedem Wahlkreis wird ein Abgeordneter gewählt. Gewählt ist der Bewerber, de
 
 (7) Erhält bei der Verteilung der Sitze nach den Absätzen 2 bis 6 eine Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein Sitz mehr als die Hälfte der Sitze entfällt. Die Sitze werden in der Partei entsprechend Absatz 6 Satz 2 bis 6 verteilt. In einem solchen Falle erhöht sich die nach Absatz 5 ermittelte Gesamtzahl der Sitze (§ 1 Absatz 1) um die Unterschiedszahl.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – Gliederung der Wahlorgane
+# § 8 – Gliederung der Wahlorgane
 
 (1) Wahlorgane sind  
 der Bundeswahlleiter und der Bundeswahlausschuß für das Wahlgebiet,  
 ein Landeswahlleiter und ein Landeswahlausschuß für jedes Land,  
 ein Kreiswahlleiter und ein Kreiswahlausschuß für jeden Wahlkreis,  
 ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlbezirk und  
-mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlkreis zur Feststellung des Briefwahlergebnisses.  
-Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der Briefwahl noch am Wahltage feststellen zu können, bestimmt der Kreiswahlleiter.
+mindestens ein Wahlvorsteher und ein Wahlvorstand für jeden Wahlkreis zur Feststellung des Briefwahlergebnisses. Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der Briefwahl noch am Wahltage feststellen zu können, bestimmt der Kreiswahlleiter.
 
 (2) Für mehrere benachbarte Wahlkreise kann ein gemeinsamer Kreiswahlleiter bestellt und ein gemeinsamer Kreiswahlausschuß gebildet werden; die Anordnung trifft der Landeswahlleiter.
 
 (3) Zur Feststellung des Briefwahlergebnisses können Wahlvorsteher und Wahlvorstände statt für jeden Wahlkreis für einzelne oder mehrere Gemeinden oder für einzelne Kreise innerhalb des Wahlkreises eingesetzt werden; die Anordnung trifft die Landesregierung oder die von ihr bestimmte Stelle.
 
-
-## § 9 – Bildung der Wahlorgane
+# § 9 – Bildung der Wahlorgane
 
 (1) Der Bundeswahlleiter und sein Stellvertreter werden vom Bundesministerium des Innern, für Bau und Heimat, die Landeswahlleiter, Kreiswahlleiter und Wahlvorsteher sowie ihre Stellvertreter von der Landesregierung oder der von ihr bestimmten Stelle ernannt.
 
@@ -399,15 +386,13 @@ Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der Briefwahl noch a
 
 (5) Auf Ersuchen der Gemeindebehörden sind zur Sicherstellung der Wahldurchführung die Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, der Länder, der Gemeinden, der Gemeindeverbände sowie der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts verpflichtet, aus dem Kreis ihrer Bediensteten unter Angabe von Name, Vorname, Geburtsdatum und Anschrift zum Zweck der Berufung als Mitglieder der Wahlvorstände Personen zu benennen, die im Gebiet der ersuchenden Gemeinde wohnen. Die ersuchte Stelle hat den Betroffenen über die übermittelten Daten und den Empfänger zu benachrichtigen.
 
-
-## § 10 – Tätigkeit der Wahlausschüsse und Wahlvorstände
+# § 10 – Tätigkeit der Wahlausschüsse und Wahlvorstände
 
 (1) Die Wahlausschüsse und Wahlvorstände verhandeln, beraten und entscheiden in öffentlicher Sitzung. Soweit nicht in diesem Gesetz etwas anderes bestimmt ist, entscheidet bei den Abstimmungen Stimmenmehrheit; bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 (2) Die Mitglieder der Wahlorgane, ihre Stellvertreter und die Schriftführer sind zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen Angelegenheiten verpflichtet. Sie dürfen in Ausübung ihres Amtes ihr Gesicht nicht verhüllen.
 
-
-## § 11 – Ehrenämter
+# § 11 – Ehrenämter
 
 (1) Die Beisitzer der Wahlausschüsse und die Mitglieder der Wahlvorstände üben ihre Tätigkeit ehrenamtlich aus. Zur Übernahme dieses Ehrenamtes ist jeder Wahlberechtigte verpflichtet. Das Ehrenamt darf nur aus wichtigen Gründen abgelehnt werden.
 
@@ -415,8 +400,7 @@ Wieviel Briefwahlvorstände zu bilden sind, um das Ergebnis der Briefwahl noch a
 
 (3) (weggefallen)
 
-
-## § 12 – Wahlrecht
+# § 12 – Wahlrecht
 
 (1) Wahlberechtigt sind alle Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die am Wahltage
 
@@ -446,13 +430,11 @@ Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch eine fr�
 
 (5) Bei der Berechnung der Dreimonatsfrist nach Absatz 1 Nr. 2 und Absatz 2 Satz 1 ist der Tag der Wohnungs- oder Aufenthaltsnahme in die Frist einzubeziehen.
 
-
-## § 13 – Ausschluss vom Wahlrecht
+# § 13 – Ausschluss vom Wahlrecht
 
 Ausgeschlossen vom Wahlrecht ist, wer infolge Richterspruchs das Wahlrecht nicht besitzt.
 
-
-## § 14 – Ausübung des Wahlrechts
+# § 14 – Ausübung des Wahlrechts
 
 (1) Wählen kann nur, wer in ein Wählerverzeichnis eingetragen ist oder einen Wahlschein hat.
 
@@ -470,8 +452,7 @@ teilnehmen.
 
 (5) Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich hierzu der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht.
 
-
-## § 15 – Wählbarkeit
+# § 15 – Wählbarkeit
 
 (1) Wählbar ist, wer am Wahltage
 
@@ -487,20 +468,17 @@ teilnehmen.
 
 3. (weggefallen)
 
-
-## § 16 – Wahltag
+# § 16 – Wahltag
 
 Der Bundespräsident bestimmt den Tag der Hauptwahl (Wahltag). Wahltag muß ein Sonntag oder gesetzlicher Feiertag sein.
 
-
-## § 17 – Wählerverzeichnis und Wahlschein
+# § 17 – Wählerverzeichnis und Wahlschein
 
 (1) Die Gemeindebehörden führen für jeden Wahlbezirk ein Verzeichnis der Wahlberechtigten. Jeder Wahlberechtigte hat das Recht, an den Werktagen vom 20. bis zum 16. Tag vor der Wahl während der allgemeinen Öffnungszeiten die Richtigkeit oder Vollständigkeit der zu seiner Person im Wählerverzeichnis eingetragenen Daten zu überprüfen. Zur Überprüfung der Richtigkeit oder Vollständigkeit der Daten von anderen im Wählerverzeichnis eingetragenen Personen haben Wahlberechtigte während des in Satz 2 genannten Zeitraumes nur dann ein Recht auf Einsicht in das Wählerverzeichnis, wenn sie Tatsachen glaubhaft machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des Wählerverzeichnisses ergeben kann. Das Recht zur Überprüfung gemäß Satz 3 besteht nicht hinsichtlich der Daten von Wahlberechtigten, für die im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des Bundesmeldegesetzes eingetragen ist.
 
 (2) Ein Wahlberechtigter, der im Wählerverzeichnis eingetragen ist, oder der aus einem von ihm nicht zu vertretenden Grund in das Wählerverzeichnis nicht aufgenommen worden ist, erhält auf Antrag einen Wahlschein.
 
-
-## § 18 – Wahlvorschlagsrecht, Beteiligungsanzeige
+# § 18 – Wahlvorschlagsrecht, Beteiligungsanzeige
 
 (1) Wahlvorschläge können von Parteien und nach Maßgabe des § 20 von Wahlberechtigten eingereicht werden.
 
@@ -530,13 +508,11 @@ Die Feststellung ist vom Bundeswahlleiter in der Sitzung des Bundeswahlausschuss
 
 (5) Eine Partei kann in jedem Wahlkreis nur einen Kreiswahlvorschlag und in jedem Land nur eine Landesliste einreichen.
 
-
-## § 19 – Einreichung der Wahlvorschläge
+# § 19 – Einreichung der Wahlvorschläge
 
 Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter spätestens am neunundsechzigsten Tage vor der Wahl bis 18 Uhr schriftlich einzureichen.
 
-
-## § 20 – Inhalt und Form der Kreiswahlvorschläge
+# § 20 – Inhalt und Form der Kreiswahlvorschläge
 
 (1) Der Kreiswahlvorschlag darf nur den Namen eines Bewerbers enthalten. Jeder Bewerber kann nur in einem Wahlkreis und hier nur in einem Kreiswahlvorschlag benannt werden. Als Bewerber kann nur vorgeschlagen werden, wer seine Zustimmung dazu schriftlich erteilt hat; die Zustimmung ist unwiderruflich.
 
@@ -546,8 +522,7 @@ Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter
 
 (4) Kreiswahlvorschläge von Parteien müssen den Namen der einreichenden Partei und, sofern sie eine Kurzbezeichnung verwendet, auch diese, andere Kreiswahlvorschläge ein Kennwort enthalten.
 
-
-## § 21 – Aufstellung von Parteibewerbern
+# § 21 – Aufstellung von Parteibewerbern
 
 (1) Als Bewerber einer Partei kann in einem Kreiswahlvorschlag nur benannt werden, wer nicht Mitglied einer anderen Partei ist und in einer Mitgliederversammlung zur Wahl eines Wahlkreisbewerbers oder in einer besonderen oder allgemeinen Vertreterversammlung hierzu gewählt worden ist. Mitgliederversammlung zur Wahl eines Wahlkreisbewerbers ist eine Versammlung der im Zeitpunkt ihres Zusammentritts im Wahlkreis zum Deutschen Bundestag wahlberechtigten Mitglieder der Partei. Besondere Vertreterversammlung ist eine Versammlung der von einer derartigen Mitgliederversammlung aus ihrer Mitte gewählten Vertreter. Allgemeine Vertreterversammlung ist eine nach der Satzung der Partei (§ 6 des Parteiengesetzes) allgemein für bevorstehende Wahlen von einer derartigen Mitgliederversammlung aus ihrer Mitte bestellte Versammlung.
 
@@ -561,8 +536,7 @@ Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter
 
 (6) Eine Ausfertigung der Niederschrift über die Wahl des Bewerbers mit Angaben über Ort und Zeit der Versammlung, Form der Einladung, Zahl der erschienenen Mitglieder und Ergebnis der Abstimmung ist mit dem Kreiswahlvorschlag einzureichen. Hierbei haben der Leiter der Versammlung und zwei von dieser bestimmte Teilnehmer gegenüber dem Kreiswahlleiter an Eides Statt zu versichern, dass die Anforderungen gemäß Absatz 3 Satz 1 bis 3 beachtet worden sind. Der Kreiswahlleiter ist zur Abnahme einer solchen Versicherung an Eides Statt zuständig; er gilt als Behörde im Sinne des § 156 des Strafgesetzbuches.
 
-
-## § 22 – Vertrauensperson
+# § 22 – Vertrauensperson
 
 (1) In jedem Kreiswahlvorschlag sollen eine Vertrauensperson und eine stellvertretende Vertrauensperson bezeichnet werden. Fehlt diese Bezeichnung, so gilt die Person, die als erste unterzeichnet hat, als Vertrauensperson, und diejenige, die als zweite unterzeichnet hat, als stellvertretende Vertrauensperson.
 
@@ -570,18 +544,15 @@ Kreiswahlvorschläge sind dem Kreiswahlleiter, Landeslisten dem Landeswahlleiter
 
 (3) Die Vertrauensperson und die stellvertretende Vertrauensperson können durch schriftliche Erklärung der Mehrheit der Unterzeichner des Kreiswahlvorschlages an den Kreiswahlleiter abberufen und durch andere ersetzt werden.
 
-
-## § 23 – Zurücknahme von Kreiswahlvorschlägen
+# § 23 – Zurücknahme von Kreiswahlvorschlägen
 
 Ein Kreiswahlvorschlag kann durch gemeinsame schriftliche Erklärung der Vertrauensperson und der stellvertretenden Vertrauensperson zurückgenommen werden, solange nicht über seine Zulassung entschieden ist. Ein von mindestens 200 Wahlberechtigten unterzeichneter Kreiswahlvorschlag kann auch von der Mehrheit der Unterzeichner durch eine von ihnen persönlich und handschriftlich vollzogene Erklärung zurückgenommen werden.
 
-
-## § 24 – Änderung von Kreiswahlvorschlägen
+# § 24 – Änderung von Kreiswahlvorschlägen
 
 Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch gemeinsame schriftliche Erklärung der Vertrauensperson und der stellvertretenden Vertrauensperson und nur dann geändert werden, wenn der Bewerber stirbt oder die Wählbarkeit verliert. Das Verfahren nach § 21 braucht nicht eingehalten zu werden, der Unterschriften nach § 20 Abs. 2 und 3 bedarf es nicht. Nach der Entscheidung über die Zulassung eines Kreiswahlvorschlages (§ 26 Abs. 1 Satz 1) ist jede Änderung ausgeschlossen.
 
-
-## § 25 – Beseitigung von Mängeln
+# § 25 – Beseitigung von Mängeln
 
 (1) Der Kreiswahlleiter hat die Kreiswahlvorschläge unverzüglich nach Eingang zu prüfen. Stellt er bei einem Kreiswahlvorschlag Mängel fest, so benachrichtigt er sofort die Vertrauensperson und fordert sie auf, behebbare Mängel rechtzeitig zu beseitigen.
 
@@ -601,8 +572,7 @@ Ein Kreiswahlvorschlag kann nach Ablauf der Einreichungsfrist nur durch gemeinsa
 
 (4) Gegen Verfügungen des Kreiswahlleiters im Mängelbeseitigungsverfahren kann die Vertrauensperson den Kreiswahlausschuß anrufen.
 
-
-## § 26 – Zulassung der Kreiswahlvorschläge
+# § 26 – Zulassung der Kreiswahlvorschläge
 
 (1) Der Kreiswahlausschuß entscheidet am achtundfünfzigsten Tage vor der Wahl über die Zulassung der Kreiswahlvorschläge. Er hat Kreiswahlvorschläge zurückzuweisen, wenn sie
 
@@ -616,8 +586,7 @@ Die Entscheidung ist in der Sitzung des Kreiswahlausschusses bekanntzugeben.
 
 (3) Der Kreiswahlleiter macht die zugelassenen Kreiswahlvorschläge spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
-
-## § 27 – Landeslisten
+# § 27 – Landeslisten
 
 (1) Landeslisten können nur von Parteien eingereicht werden. Sie müssen von dem Vorstand des Landesverbandes oder, wenn Landesverbände nicht bestehen, von den Vorständen der nächstniedrigen Gebietsverbände, die im Bereich des Landes liegen, bei den in § 18 Abs. 2 genannten Parteien außerdem von 1 vom Tausend der Wahlberechtigten des Landes bei der letzten Bundestagswahl, jedoch höchstens 2.000 Wahlberechtigten, persönlich und handschriftlich unterzeichnet sein. Die Wahlberechtigung der Unterzeichner eines Wahlvorschlages einer der in § 18 Abs. 2 genannten Parteien muß im Zeitpunkt der Unterzeichnung gegeben sein und ist bei Einreichung der Landesliste nachzuweisen. Das Erfordernis zusätzlicher Unterschriften gilt nicht für Landeslisten von Parteien nationaler Minderheiten.
 
@@ -629,8 +598,7 @@ Die Entscheidung ist in der Sitzung des Kreiswahlausschusses bekanntzugeben.
 
 (5) § 21 Abs. 1, 3, 5 und 6 sowie die §§ 22 bis 25 gelten entsprechend mit der Maßgabe, daß die Versicherung an Eides Statt nach § 21 Abs. 6 Satz 2 sich auch darauf zu erstrecken hat, daß die Festlegung der Reihenfolge der Bewerber in der Landesliste in geheimer Abstimmung erfolgt ist.
 
-
-## § 28 – Zulassung der Landeslisten
+# § 28 – Zulassung der Landeslisten
 
 (1) Der Landeswahlausschuß entscheidet am achtundfünfzigsten Tage vor der Wahl über die Zulassung der Landeslisten. Er hat Landeslisten zurückzuweisen, wenn sie
 
@@ -644,11 +612,9 @@ Sind die Anforderungen nur hinsichtlich einzelner Bewerber nicht erfüllt, so we
 
 (3) Der Landeswahlleiter macht die zugelassenen Landeslisten spätestens am achtundvierzigsten Tage vor der Wahl öffentlich bekannt.
 
+# § 29 – (weggefallen)
 
-## § 29 – (weggefallen)
-
-
-## § 30 – Stimmzettel
+# § 30 – Stimmzettel
 
 (1) Die Stimmzettel und die zugehörigen Umschläge für die Briefwahl (§ 36 Abs. 1) werden amtlich hergestellt.
 
@@ -660,27 +626,23 @@ Sind die Anforderungen nur hinsichtlich einzelner Bewerber nicht erfüllt, so we
 
 (3) Die Reihenfolge der Landeslisten von Parteien richtet sich nach der Zahl der Zweitstimmen, die sie bei der letzten Bundestagswahl im Land erreicht haben. Die übrigen Landeslisten schließen sich in alphabetischer Reihenfolge der Namen der Parteien an. Die Reihenfolge der Kreiswahlvorschläge richtet sich nach der Reihenfolge der entsprechenden Landeslisten. Sonstige Kreiswahlvorschläge schließen sich in alphabetischer Reihenfolge der Namen der Parteien oder der Kennwörter an.
 
-
-## § 31 – Öffentlichkeit der Wahlhandlung
+# § 31 – Öffentlichkeit der Wahlhandlung
 
 Die Wahlhandlung ist öffentlich. Der Wahlvorstand kann Personen, die die Ordnung und Ruhe stören, aus dem Wahlraum verweisen.
 
-
-## § 32 – Unzulässige Wahlpropaganda und Unterschriftensammlung, unzulässige Veröffentlichung von Wählerbefragungen
+# § 32 – Unzulässige Wahlpropaganda und Unterschriftensammlung, unzulässige Veröffentlichung von Wählerbefragungen
 
 (1) Während der Wahlzeit sind in und an dem Gebäude, in dem sich der Wahlraum befindet, sowie unmittelbar vor dem Zugang zu dem Gebäude jede Beeinflussung der Wähler durch Wort, Ton, Schrift oder Bild sowie jede Unterschriftensammlung verboten.
 
 (2) Die Veröffentlichung von Ergebnissen von Wählerbefragungen nach der Stimmabgabe über den Inhalt der Wahlentscheidung ist vor Ablauf der Wahlzeit unzulässig.
 
-
-## § 33 – Wahrung des Wahlgeheimnisses
+# § 33 – Wahrung des Wahlgeheimnisses
 
 (1) Es sind Vorkehrungen dafür zu treffen, dass der Wähler den Stimmzettel unbeobachtet kennzeichnen und falten kann. Für die Aufnahme der Stimmzettel sind Wahlurnen zu verwenden, die die Wahrung des Wahlgeheimnisses sicherstellen.
 
 (2) Die nach § 14 Absatz 5 zulässige Hilfe bei der Stimmabgabe bleibt unberührt. Die Hilfsperson ist zur Geheimhaltung der Kenntnisse verpflichtet, die sie bei der Hilfeleistung von der Wahl einer anderen Person erlangt hat.
 
-
-## § 34 – Stimmabgabe mit Stimmzetteln
+# § 34 – Stimmabgabe mit Stimmzetteln
 
 (1) Gewählt wird mit amtlichen Stimmzetteln.
 
@@ -692,8 +654,7 @@ Die Wahlhandlung ist öffentlich. Der Wahlvorstand kann Personen, die die Ordnun
 
 Der Wähler faltet daraufhin den Stimmzettel in der Weise, dass seine Stimmabgabe nicht erkennbar ist, und wirft ihn in die Wahlurne.
 
-
-## § 35 – Stimmabgabe mit Wahlgeräten
+# § 35 – Stimmabgabe mit Wahlgeräten
 
 (1) Zur Erleichterung der Abgabe und Zählung der Stimmen können anstelle von Stimmzetteln und Wahlurnen Wahlgeräte benutzt werden.
 
@@ -717,8 +678,7 @@ Die Rechtsverordnung ergeht in den Fällen der Nummern 1 und 3 im Einvernehmen m
 
 (4) Für die Betätigung eines Wahlgerätes gilt § 33 Abs. 1 Satz 1 und Abs. 2 entsprechend.
 
-
-## § 36 – Briefwahl
+# § 36 – Briefwahl
 
 (1) Bei der Briefwahl hat der Wähler dem Kreiswahlleiter des Wahlkreises, in dem der Wahlschein ausgestellt worden ist, im verschlossenen Wahlbriefumschlag
 
@@ -734,18 +694,15 @@ so rechtzeitig zu übersenden, daß der Wahlbrief spätestens am Wahltage bis 18
 
 (4) Wahlbriefe können von den Absendern bei einem vor der Wahl amtlich bekannt gemachten Postunternehmen als Briefsendungen ohne besondere Versendungsform unentgeltlich eingeliefert werden, wenn sie sich in amtlichen Wahlbriefumschlägen befinden. Bei Inanspruchnahme einer besonderen Versendungsform hat der Absender den das jeweils für die Briefbeförderung gültige Leistungsentgelt übersteigenden Betrag zu tragen. Der Bund trägt die Kosten für die unentgeltliche Wahlbriefbeförderung.
 
-
-## § 37 – Feststellung des Wahlergebnisses im Wahlbezirk
+# § 37 – Feststellung des Wahlergebnisses im Wahlbezirk
 
 Nach Beendigung der Wahlhandlung stellt der Wahlvorstand fest, wieviel Stimmen im Wahlbezirk auf die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden sind.
 
-
-## § 38 – Feststellung des Briefwahlergebnisses
+# § 38 – Feststellung des Briefwahlergebnisses
 
 Der für die Briefwahl eingesetzte Wahlvorstand stellt fest, wieviel durch Briefwahl abgegebene Stimmen auf die einzelnen Kreiswahlvorschläge und Landeslisten entfallen.
 
-
-## § 39 – Ungültige Stimmen, Zurückweisung von Wahlbriefen, Auslegungsregeln
+# § 39 – Ungültige Stimmen, Zurückweisung von Wahlbriefen, Auslegungsregeln
 
 (1) Ungültig sind Stimmen, wenn der Stimmzettel
 
@@ -787,18 +744,15 @@ Die Einsender zurückgewiesener Wahlbriefe werden nicht als Wähler gezählt; ih
 
 (5) Die Stimmen eines Wählers, der an der Briefwahl teilgenommen hat, werden nicht dadurch ungültig, daß er vor dem oder am Wahltage stirbt oder sein Wahlrecht nach § 13 verliert.
 
-
-## § 40 – Entscheidung des Wahlvorstandes
+# § 40 – Entscheidung des Wahlvorstandes
 
 Der Wahlvorstand entscheidet über die Gültigkeit der abgegebenen Stimmen und über alle bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses sich ergebenden Anstände. Der Kreiswahlausschuß hat das Recht der Nachprüfung.
 
-
-## § 41 – Feststellung des Wahlergebnisses im Wahlkreis
+# § 41 – Feststellung des Wahlergebnisses im Wahlkreis
 
 Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzelnen Kreiswahlvorschläge und Landeslisten abgegeben worden sind und welcher Bewerber als Wahlkreisabgeordneter gewählt ist. Der Kreiswahlleiter benachrichtigt den gewählten Bewerber und weist ihn darauf hin, dass er nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 42 Abs. 2 Satz 1) die Mitgliedschaft im Deutschen Bundestag mit Eröffnung der ersten Sitzung nach der Wahl erlangt und eine Ablehnung des Erwerbs der Mitgliedschaft gegenüber dem Landeswahlleiter erfolgen muss.
 
-
-## § 42 – Feststellung des Ergebnisses der Landeslistenwahl
+# § 42 – Feststellung des Ergebnisses der Landeslistenwahl
 
 (1) Der Landeswahlausschuß stellt fest, wieviel Stimmen im Land für die einzelnen Landeslisten abgegeben worden sind.
 
@@ -806,8 +760,7 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 (3) (weggefallen)
 
-
-## § 43 – Nachwahl
+# § 43 – Nachwahl
 
 (1) Eine Nachwahl findet statt,
 
@@ -821,8 +774,7 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 (4) Im Fall einer Nachwahl ist das vorläufige Ergebnis der Hauptwahl unmittelbar im Anschluss an die Wahlhandlung der Hauptwahl auf der Grundlage der erfolgten Stimmabgaben zu ermitteln, festzustellen und bekannt zu geben.
 
-
-## § 44 – Wiederholungswahl
+# § 44 – Wiederholungswahl
 
 (1) Wird im Wahlprüfungsverfahren eine Wahl ganz oder teilweise für ungültig erklärt, so ist sie nach Maßgabe der Entscheidung zu wiederholen.
 
@@ -832,8 +784,7 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 (4) Auf Grund der Wiederholungswahl wird das Wahlergebnis nach den Vorschriften des Sechsten Abschnittes neu festgestellt. Die nach § 41 Satz 2 und § 42 Abs. 2 Satz 2 zuständigen Wahlleiter benachrichtigen die gewählten Bewerber und fordern sie auf, binnen einer Woche schriftlich zu erklären, ob sie die Wahl annehmen.
 
-
-## § 45 – Erwerb der Mitgliedschaft im Deutschen Bundestag
+# § 45 – Erwerb der Mitgliedschaft im Deutschen Bundestag
 
 (1) Ein gewählter Bewerber erwirbt die Mitgliedschaft im Deutschen Bundestag nach der abschließenden Feststellung des Ergebnisses für das Wahlgebiet durch den Bundeswahlausschuss (§ 42 Abs. 2 Satz 1) mit der Eröffnung der ersten Sitzung des Deutschen Bundestages nach der Wahl. Eine Ablehnung des Erwerbs der Mitgliedschaft muss vor der ersten Sitzung gegenüber dem Landeswahlleiter schriftlich erklärt werden. Eine Erklärung unter Vorbehalt gilt als Ablehnung. Die Erklärung kann nicht widerrufen werden.
 
@@ -841,8 +792,7 @@ Der Kreiswahlausschuß stellt fest, wieviel Stimmen im Wahlkreis für die einzel
 
 (3) Bei einer Listennachfolge (§ 48 Abs. 1) oder einer Wiederholungswahl (§ 44) wird die Mitgliedschaft im Deutschen Bundestag mit dem frist- und formgerechten Eingang der auf die Benachrichtigung erfolgenden Annahmeerklärung beim zuständigen Wahlleiter, jedoch nicht vor Ausscheiden des ursprünglich gewählten Abgeordneten erworben. Liegt bei Ablehnung des Erwerbs der Mitgliedschaft im Deutschen Bundestag durch einen gewählten Bewerber die Annahmeerklärung des Listennachfolgers bereits vor der ersten Sitzung des Deutschen Bundestages nach der Wahl vor, erwirbt der Listennachfolger das Mandat mit der Eröffnung dieser Sitzung. Gibt der Listennachfolger oder durch Wiederholungswahl gewählte Bewerber bis zum Ablauf der Frist keine oder keine formgerechte Erklärung ab, so gilt die Nachfolge oder Wahl zu diesem Zeitpunkt als angenommen. Absatz 1 Satz 3 und 4 gilt entsprechend.
 
-
-## § 46 – Verlust der Mitgliedschaft im Deutschen Bundestag
+# § 46 – Verlust der Mitgliedschaft im Deutschen Bundestag
 
 (1) Ein Abgeordneter verliert die Mitgliedschaft im Deutschen Bundestag bei
 
@@ -864,8 +814,7 @@ Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (4) Wird eine Partei oder die Teilorganisation einer Partei durch das Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes für verfassungswidrig erklärt, verlieren die Abgeordneten ihre Mitgliedschaft im Deutschen Bundestag und die Listennachfolger ihre Anwartschaft, sofern sie dieser Partei oder Teilorganisation in der Zeit zwischen der Antragstellung (§ 43 des Gesetzes über das Bundesverfassungsgericht) und der Verkündung der Entscheidung (§ 46 des Gesetzes über das Bundesverfassungsgericht) angehört haben. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, in Wahlkreisen gewählt waren, wird die Wahl eines Wahlkreisabgeordneten in diesen Wahlkreisen bei entsprechender Anwendung des § 44 Abs. 2 bis 4 wiederholt; hierbei dürfen die Abgeordneten, die nach Satz 1 ihre Mitgliedschaft verloren haben, nicht als Bewerber auftreten. Soweit Abgeordnete, die nach Satz 1 ihre Mitgliedschaft verloren haben, nach einer Landesliste der für verfassungswidrig erklärten Partei oder Teilorganisation der Partei gewählt waren, bleiben die Sitze unbesetzt. Im übrigen gilt § 48 Abs. 1.
 
-
-## § 47 – Entscheidung über den Verlust der Mitgliedschaft
+# § 47 – Entscheidung über den Verlust der Mitgliedschaft
 
 (1) Über den Verlust der Mitgliedschaft nach § 46 Abs. 1 wird entschieden
 
@@ -881,20 +830,17 @@ Verlustgründe nach anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (3) Entscheidet der Ältestenrat oder der Präsident des Deutschen Bundestages über den Verlust der Mitgliedschaft, so scheidet der Abgeordnete mit der Entscheidung aus dem Deutschen Bundestag aus. Die Entscheidung ist unverzüglich von Amts wegen zu treffen. Innerhalb von zwei Wochen nach Zustellung der Entscheidung kann der Betroffene die Entscheidung des Deutschen Bundestages über den Verlust der Mitgliedschaft im Wahlprüfungsverfahren beantragen. Die Zustellung erfolgt nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
-
-## § 48 – Berufung von Listennachfolgern und Ersatzwahlen
+# § 48 – Berufung von Listennachfolgern und Ersatzwahlen
 
 (1) Wenn ein gewählter Bewerber stirbt oder dem Landeswahlleiter schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder wenn ein Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen Bundestag ausscheidet, so wird der Sitz aus der Landesliste derjenigen Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene Abgeordnete bei der Wahl aufgetreten ist. Dies gilt nicht, solange die Partei in dem betreffenden Land Mandate gemäß § 6 Absatz 6 Satz 4 innehat. Bei der Nachfolge bleiben diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der Landesliste aus dieser Partei ausgeschieden oder Mitglied einer anderen Partei geworden sind. Unberücksichtigt bleiben ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als Listennachfolger eintritt, trifft der Landeswahlleiter. Er benachrichtigt den Listennachfolger und fordert ihn auf, binnen einer Woche schriftlich zu erklären, ob er die Nachfolge annimmt.
 
 (2) Ist der Ausgeschiedene als Wahlkreisabgeordneter einer Wählergruppe oder einer Partei gewählt, für die im Land keine Landesliste zugelassen worden war, so findet Ersatzwahl im Wahlkreis statt. Die Ersatzwahl muß spätestens sechzig Tage nach dem Zeitpunkt des Ausscheidens stattfinden. Sie unterbleibt, wenn feststeht, daß innerhalb von sechs Monaten ein neuer Deutscher Bundestag gewählt wird. Die Ersatzwahl wird nach den allgemeinen Vorschriften durchgeführt. Den Wahltag bestimmt der Landeswahlleiter. § 41 gilt entsprechend.
 
-
-## § 49 – Anfechtung
+# § 49 – Anfechtung
 
 Entscheidungen und Maßnahmen, die sich unmittelbar auf das Wahlverfahren beziehen, können nur mit den in diesem Gesetz und in der Bundeswahlordnung vorgesehenen Rechtsbehelfen sowie im Wahlprüfungsverfahren angefochten werden.
 
-
-## § 49a – Ordnungswidrigkeiten
+# § 49a – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
@@ -918,8 +864,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 2. bei Ordnungswidrigkeiten nach Absatz 1 Nr. 2 der Bundeswahlleiter.
 
-
-## § 49b – Staatliche Mittel für andere Kreiswahlvorschläge
+# § 49b – Staatliche Mittel für andere Kreiswahlvorschläge
 
 (1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in einem Wahlkreis abgegebenen gültigen Erststimmen erreicht haben, erhalten je gültige Stimme das Vierfache des in § 18 Absatz 3 Satz 1 Nummer 1 des Parteiengesetzes genannten und nach § 18 Absatz 3 Satz 3 des Parteiengesetzes bis zum Zeitpunkt der Wahl erhöhten Betrages. Die Mittel sind im Bundeshaushaltsplan auszubringen.
 
@@ -927,8 +872,7 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 (3) Die Vorschriften des Parteiengesetzes über die absolute und relative Obergrenze finden keine Anwendung.
 
-
-## § 50 – Wahlkosten
+# § 50 – Wahlkosten
 
 (1) Der Bund erstattet den Ländern zugleich für ihre Gemeinden (Gemeindeverbände) die durch die Wahl veranlassten notwendigen Ausgaben.
 
@@ -938,11 +882,9 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 (4) Der Bund erstattet den Blindenvereinen, die ihre Bereitschaft zur Herstellung von Stimmzettelschablonen erklärt haben, die durch die Herstellung und die Verteilung der Stimmzettelschablonen veranlassten notwendigen Ausgaben.
 
+# § 51 – (weggefallen)
 
-## § 51 – (weggefallen)
-
-
-## § 52 – Erlass von Rechtsverordnungen
+# § 52 – Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat erlässt die zur Durchführung dieses Gesetzes erforderliche Bundeswahlordnung. Es trifft darin insbesondere Rechtsvorschriften über
 
@@ -994,30 +936,25 @@ unberechtigt ablehnt oder sich ohne genügende Entschuldigung den Pflichten eine
 
 4. um die Wahl von Wahlbewerbern und Vertretern für die Vertreterversammlungen im Wege der Briefwahl oder einer Kombination aus Urnenwahl und Briefwahl durchführen zu können.
 
-
-## § 53 – Übergangsregelung
+# § 53 – Übergangsregelung
 
 Ausschlüsse vom Wahlrecht und Ausschlüsse von der Wählbarkeit, die nicht auf einem Richterspruch im Sinne von § 13 in der ab dem 1. Juli 2019 geltenden Fassung oder auf einem Richterspruch im Sinne von § 15 Absatz 2 Nummer 2 beruhen, sind nicht nach § 3 Absatz 2 Nummer 1 Buchstabe a des Bundesmeldegesetzes im Melderegister zu speichern.
 
-
-## § 54 – Fristen, Termine und Form
+# § 54 – Fristen, Termine und Form
 
 (1) Die in diesem Gesetz und in der auf Grund dieses Gesetzes erlassenen Bundeswahlordnung vorgesehenen Fristen und Termine verlängern oder ändern sich nicht dadurch, daß der letzte Tag der Frist oder ein Termin auf einen Sonnabend, einen Sonntag, einen gesetzlichen oder staatlich geschützten Feiertag fällt. Eine Wiedereinsetzung in den vorigen Stand ist ausgeschlossen.
 
 (2) Soweit in diesem Gesetz oder in der auf Grund dieses Gesetzes erlassenen Bundeswahlordnung nichts anderes bestimmt ist, müssen vorgeschriebene Erklärungen persönlich und handschriftlich unterzeichnet sein und bei der zuständigen Stelle im Original vorliegen.
 
-
-## § 55 – Reformkommission
+# § 55 – Reformkommission
 
 Beim Deutschen Bundestag wird eine Reformkommission eingesetzt, die sich mit Fragen des Wahlrechts befasst und Empfehlungen erarbeitet. Sie befasst sich auch mit der Frage des Wahlrechts ab 16 Jahren, der Dauer der Legislaturperiode und entwickelt Vorschläge zur Modernisierung der Parlamentsarbeit. Die Reformkommission wird darüber hinaus Maßnahmen empfehlen, um eine gleichberechtigte Repräsentanz von Frauen und Männern auf den Kandidatenlisten und im Deutschen Bundestag zu erreichen. Die Kommission soll spätestens bis zum 30. Juni 2023 ihre Ergebnisse vorlegen. Das Nähere regelt ein vom Deutschen Bundestag unverzüglich zu verabschiedender Einsetzungsbeschluss.
 
-
-## Anlage 1 – (zu § 50 Absatz 3 Satz 3)
+# Anlage 1 – (zu § 50 Absatz 3 Satz 3)
 
 (Fundstelle: BGBl. I 2020, 1409)
 
-I.  
-Der Bericht des Statistischen Bundesamtes über die Entwicklung des Wahlkostenindexes gemäß § 50 Absatz 3 Satz 3 umfasst:
+I. Der Bericht des Statistischen Bundesamtes über die Entwicklung des Wahlkostenindexes gemäß § 50 Absatz 3 Satz 3 umfasst:
 
 1. die Darstellung der prozentualen Entwicklung des Wahlkostenindexes bezogen auf das Vorjahr und
 
@@ -1028,8 +965,7 @@ II. Der Wahlkostenindex beinhaltet folgende Indexreihen des Statistischen Bundes
 
 1\.
 
-
-## Anlage 2 – (zu § 2 Absatz 2)
+# Anlage 2 – (zu § 2 Absatz 2)
 
 (Fundstelle: BGBl. I 2020, 1410 – 1472)
 

@@ -1,15 +1,11 @@
-# [SchwHKlV] Verordnung über gesetzliche Handelsklassen für Schweineschlachtkörper  (Schweineschlachtkörper-Handelsklassenverordnung - SchwHKlV)
-
-Ausfertigungsdatum: 18.12.1986
-
+% Verordnung über gesetzliche Handelsklassen für Schweineschlachtkörper  (Schweineschlachtkörper-Handelsklassenverordnung - SchwHKlV)
+% Ausfertigungsdatum: 18.12.1986
  
-
-## § 1 – Gesetzliche Handelsklassen
+# § 1 – Gesetzliche Handelsklassen
 
 Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang IV Teil B der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) sowie die in Anlage 1 bezeichneten Handelsklassen.
 
-
-## § 2 – Einstufung in Handelsklassen
+# § 2 – Einstufung in Handelsklassen
 
 (1) Schlachtbetriebe im Sinne des § 1 Nummer 3 des Fleischgesetzes, die pro Woche durchschnittlich mehr als 500 Schweine schlachten oder schlachten lassen, sind verpflichtet, alle Schweineschlachtkörper möglichst bald nach der Schlachtung und vor Beginn des Kühlprozesses, spätestens aber 45 Minuten nach dem Stechen des Tieres in die in § 1 bezeichneten Handelsklassen einstufen zu lassen (Klassifizierung). Die durchschnittliche wöchentliche Schlachtzahl wird auf der Grundlage der im Jahresdurchschnitt des vorangegangenen Kalenderjahres geschlachteten Anzahl Schweine ermittelt. Die Verantwortung für die Rahmenbedingungen einer ordnungsgemäßen Durchführung der Klassifizierung obliegt dem Schlachtbetrieb; sie wird durch die Beauftragung eines zugelassenen Klassifizierungsunternehmens mit der Durchführung der Klassifizierung nicht berührt.
 
@@ -33,8 +29,7 @@ Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang IV Teil 
 
 zu ermitteln (Klassifizierungsverfahren). Das ZP-Verfahren darf nur in Schlachtbetrieben verwendet werden, in denen wöchentlich durchschnittlich nicht mehr als 200 Schweine geschlachtet werden. Absatz 1 Satz 2 gilt entsprechend. Je Schlachtkörper darf nur ein Klassifizierungsverfahren im Sinne des Satzes 1 zur Anwendung kommen. Das festgestellte Klassifizierungsergebnis behält bis zur Zerlegung des Schlachtkörpers seine Gültigkeit.
 
-
-## § 3 – Protokoll
+# § 3 – Protokoll
 
 (1) Der Klassifizierer hat dafür zu sorgen, dass für jeden einzelnen Schlachtkörper unverzüglich nach der Ermittlung des Muskelfleischanteils ein Protokoll nach Absatz 2 Satz 1 schriftlich angefertigt wird.
 
@@ -42,15 +37,13 @@ zu ermitteln (Klassifizierungsverfahren). Das ZP-Verfahren darf nur in Schlachtb
 
 (3) Systembedingt unvermeidbare Änderungen des Protokolls müssen in einem gesonderten Protokoll aufgezeichnet werden. Das Protokoll ist vom Klassifizierer zu unterzeichnen und mindestens sechs Monate lang, beginnend jeweils mit dem Tag der Aufzeichnung, geordnet aufzubewahren.
 
-
-## § 4 – Kennzeichnung
+# § 4 – Kennzeichnung
 
 (1) Klassifizierte Schweineschlachtkörper sind vom Klassifizierer bei der Einstufung deutlich lesbar durch Stempelaufdruck oder durch von der Landesbehörde anerkannte, ohne Beschädigung nicht entfernbare Etiketten nach Artikel 8 Absatz 1, Absatz 2 Buchstabe b, Absatz 3 Buchstabe c sowie Absatz 4 und 5 der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74) zu kennzeichnen.
 
 (2) Die Pflicht zur Kennzeichnung der Schlachtkörper gemäß Absatz 1 entfällt, wenn die Voraussetzungen gemäß Artikel 8 Absatz 6 Buchstabe a oder Buchstabe b der Delegierten Verordnung (EU) 2017/1182 erfüllt sind.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 
@@ -70,8 +63,7 @@ zu ermitteln (Klassifizierungsverfahren). Das ZP-Verfahren darf nur in Schlachtb
 
 (2) Ordnungswidrig im Sinne des § 36 Absatz 4 Satz 1 des Marktorganisationsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Absatz 1 der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74) Fett-, Muskel- oder sonstiges Gewebe von einem Schweineschlachtkörper entfernt.
 
-
-## § 6 – Überwachung, Duldungs- und Auskunftspflichten
+# § 6 – Überwachung, Duldungs- und Auskunftspflichten
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser Verordnung geltenden Vorschriften erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Schweine schlachten und Schweinefleisch im Sinne des § 1 zum Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem Geltungsbereich dieser Verordnung verbringen, während der Geschäftszeit
 
@@ -83,13 +75,11 @@ zu ermitteln (Klassifizierungsverfahren). Das ZP-Verfahren darf nur in Schlachtb
 
 (2) Inhaber oder Leiter von Betrieben sowie Klassifizierungsunternehmen sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, das zu besichtigende Schweinefleisch selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.
 
-
-## Anlage 1 – (zu § 1, § 2 Absatz 1 und § 4 Absatz 1)
+# Anlage 1 – (zu § 1, § 2 Absatz 1 und § 4 Absatz 1)
 
 (Fundstelle: BGBl. I 2011, 1916)
 
-
-## Anlage 2 – (zu § 2 Absatz 5 Nummer 2)Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
+# Anlage 2 – (zu § 2 Absatz 5 Nummer 2)Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
 
 (Fundstelle: BGBl. I 2011, 1917)
 
@@ -128,10 +118,9 @@ Die mit Hilfe von F\* geschätzten Muskelfleischanteile sind im Protokoll gemä�
 
 Messlinie im Kotelettquerschnitt zwischen der zweit- und drittletzten Rippe
 
-![](../normengrafiken/bgbl1_2011/j1914-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1914-1_0010.jpg)
 
-
-## Anlage 3 – (zu § 2 Absatz 5 Nummer 3)Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
+# Anlage 3 – (zu § 2 Absatz 5 Nummer 3)Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
 
 (Fundstelle: BGBl. I 2011, 1918;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -154,6 +143,6 @@ Fleischmaß (Stärke des Lendenmuskels) in mm, gemessen als kürzeste horizontal
 
 Speck- und Fleischmaß werden an Schweinehälften, die durch Spaltung des Schlachtkörpers längs der Wirbelsäule hergerichtet wurden, ermittelt (siehe Abbildung).
 
-![](../normengrafiken/bgbl1_2014/j0793-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j0793-1_0010.jpg)
 
 Bei einer Kontrolle der Ermittlung des Muskelfleischanteils gilt eine Toleranz von ±2 mm für das Speckmaß und von ±3 mm für das Fleischmaß.

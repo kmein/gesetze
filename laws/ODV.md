@@ -1,20 +1,15 @@
-# [ODV] Ortsbewegliche-Druckgeräte-Verordnung   (ODV)
-
-Ausfertigungsdatum: 29.11.2011
-
+% Ortsbewegliche-Druckgeräte-Verordnung   (ODV)
+% Ausfertigungsdatum: 29.11.2011
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für die Konformitätsbewertung, Prüfung, Zulassung, Herstellung, Kennzeichnung, das Inverkehrbringen und Bereitstellen auf dem Markt, die wiederkehrenden und außerordentlichen Prüfungen, die Zwischenprüfungen, die Verwendung und die Marktüberwachung der in Anlage 1 bestimmten ortsbeweglichen Druckgeräte.
 
 (2) Mit Ausnahme des § 20 Absatz 1 und des § 22 Absatz 2 bis 8 in Verbindung mit § 10 Absatz 3 gilt diese Verordnung nicht für die in Anlage 2 Abschnitt A bestimmten ortsbeweglichen Druckgeräte. Diese Verordnung gilt nicht für die in Anlage 2 Abschnitt B bestimmten ortsbeweglichen Druckgeräte.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet
 
@@ -42,8 +37,7 @@ Im Sinne dieser Verordnung bezeichnet
 
 12. „Marktüberwachungsbehörde“ jede Behörde, die für Aufgaben der Marktüberwachung zuständig ist.
 
-
-## § 3 – Hersteller
+# § 3 – Hersteller
 
 (1) Der Hersteller darf nur ortsbewegliche Druckgeräte in Verkehr bringen, die nach den in Kapitel 6.2 und Kapitel 6.8 ADR/RID und den in Abschnitt 3 festgelegten Anforderungen und Verfahren ausgelegt und hergestellt worden sind. Er hat unmittelbar nach der Herstellung für jedes Druckgefäß die in Absatz 1.8.7.1.5 in Verbindung mit Absatz 6.2.2.5.6 ADR/RID vorgeschriebenen Unterlagen zu erstellen; die Unterlagen müssen alle in Kapitel 6.2 und in der jeweils angewandten in Abschnitt 6.2.2 oder 6.2.4 ADR/RID zitierten Norm vorgeschriebenen Angaben enthalten. Er hat unmittelbar nach der Herstellung für jeden Tank die in Absatz 1.8.7.1.5 und die in der jeweils angewandten Norm gemäß der Tabelle in Absatz 6.8.2.6.1 ADR/RID vorgeschriebenen Unterlagen zu erstellen und die in Absatz 6.8.2.3.1 Satz 4 vorgeschriebene Unterlage der Tankakte gemäß Absatz 4.3.2.1.7 ADR/RID beizugeben; die Unterlagen müssen alle in Kapitel 6.8 und in der jeweils angewandten in Unterabschnitt 6.8.2.6 oder 6.8.3.6 ADR/RID zitierten Norm vorgeschriebenen Angaben enthalten.
 
@@ -61,8 +55,7 @@ Im Sinne dieser Verordnung bezeichnet
 
 (7) Der Hersteller darf den Betreibern nur solche Informationen zur Verfügung stellen, die den in Absatz 1 genannten Vorschriften entsprechen.
 
-
-## § 4 – Bevollmächtigte
+# § 4 – Bevollmächtigte
 
 (1) Ein Hersteller kann einen Dritten schriftlich bevollmächtigen. Die Verpflichtungen nach § 3 Absatz 1 und 2 sowie die Erstellung der technischen Unterlagen dürfen nicht Teil der Bevollmächtigung sein.
 
@@ -80,8 +73,7 @@ Im Sinne dieser Verordnung bezeichnet
 
 (5) Der Bevollmächtigte darf den Betreibern nur solche Informationen zur Verfügung stellen, die den in § 3 Absatz 1 genannten Vorschriften entsprechen.
 
-
-## § 5 – Einführer
+# § 5 – Einführer
 
 (1) Der Einführer darf nur ortsbewegliche Druckgeräte in Verkehr bringen, die den in § 3 Absatz 1 Satz 1 genannten Anforderungen entsprechen.
 
@@ -113,8 +105,7 @@ Liegen die Voraussetzungen nach Satz 1 nicht vor, darf der Einführer ortsbewegl
 
 (9) Der Einführer darf den Betreibern nur solche Informationen zur Verfügung stellen, die den in § 3 Absatz 1 genannten Vorschriften entsprechen.
 
-
-## § 6 – Vertreiber
+# § 6 – Vertreiber
 
 (1) Der Vertreiber darf nur ortsbewegliche Druckgeräte auf dem Markt bereitstellen, die den in § 3 Absatz 1 Satz 1 genannten Anforderungen entsprechen. Bevor er ortsbewegliche Druckgeräte auf dem Markt bereitstellt, hat er zu überprüfen, ob sie mit der Pi-Kennzeichnung versehen sind und ihnen die Konformitätsbescheinigung, die Bescheinigung der Zulassung einer Änderung nach Absatz 1.8.7.2.5 Satz 5 ADR/RID, sofern eine solche ausgestellt wurde, und die Anschrift gemäß § 4 Absatz 4 und § 5 Absatz 4 beiliegen.
 
@@ -130,8 +121,7 @@ Liegen die Voraussetzungen nach Satz 1 nicht vor, darf der Einführer ortsbewegl
 
 (7) Der Vertreiber hat Betreiber, die Privatpersonen im Sinne des § 8 Absatz 3 sind, auf die Bestimmung in § 8 Absatz 3 bei Aushändigung eines ortsbeweglichen Druckgeräts schriftlich hinzuweisen.
 
-
-## § 7 – Eigentümer
+# § 7 – Eigentümer
 
 (1) Hat ein Eigentümer Grund zu der Annahme, dass die ortsbeweglichen Druckgeräte nicht den in § 3 Absatz 1 Satz 1 genannten Anforderungen einschließlich der wiederkehrenden Prüfungen entsprechen, darf er die ortsbeweglichen Druckgeräte nicht auf dem Markt bereitstellen oder verwenden, bevor ihre Konformität hergestellt ist. Ist mit den ortsbeweglichen Druckgeräten eine Gefahr verbunden, hat er den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden in dem für deren jeweilige Aufgabenerfüllung erforderlichen Umfang zu unterrichten, sobald ihm diese bekannt geworden ist. Er hat zudem alle Fälle von Nichtkonformität von dem Zeitpunkt an, zu dem sie ihm bekannt geworden sind, und alle Maßnahmen von dem Zeitpunkt an, zu dem er sie ergriffen hat oder zu dem sie von der Marktüberwachungsbehörde angeordnet wurden, schriftlich aufzuzeichnen und die Aufzeichnungen zehn Jahre aufzubewahren und anschließend unverzüglich zu löschen, es sei denn, dass gesetzliche Aufbewahrungsfristen der Löschung entgegenstehen.
 
@@ -143,8 +133,7 @@ Liegen die Voraussetzungen nach Satz 1 nicht vor, darf der Einführer ortsbewegl
 
 (4) Die Absätze 1 bis 3 gelten nicht für Privatpersonen, die ortsbewegliche Druckgeräte für den persönlichen oder häuslichen Gebrauch oder für Freizeit- oder Sportzwecke zu gebrauchen beabsichtigen oder gebrauchen.
 
-
-## § 8 – Betreiber
+# § 8 – Betreiber
 
 (1) Der Betreiber darf nur ortsbewegliche Druckgeräte verwenden, die den in § 3 Absatz 1 Satz 1 genannten Anforderungen entsprechen.
 
@@ -154,13 +143,11 @@ Liegen die Voraussetzungen nach Satz 1 nicht vor, darf der Einführer ortsbewegl
 
 (3) Hat ein Betreiber, der als Privatperson ortsbewegliche Druckgeräte für den persönlichen oder häuslichen Gebrauch oder für Freizeit- oder Sportzwecke verwendet, Kenntnis, dass mit dem Betrieb des ortsbeweglichen Druckgeräts eine Gefahr verbunden ist, hat er abweichend von Absatz 2 den Vertreiber zu unterrichten, sobald ihm diese bekannt geworden ist.
 
-
-## § 9 – Geltung der Pflichten des Herstellers für Einführer und Vertreiber
+# § 9 – Geltung der Pflichten des Herstellers für Einführer und Vertreiber
 
 Ein Einführer oder Vertreiber gilt als Hersteller im Sinne dieser Verordnung und unterliegt den Verpflichtungen eines Herstellers nach § 3, wenn er ortsbewegliche Druckgeräte unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt oder bereits auf dem Markt befindliche ortsbewegliche Druckgeräte so verändert, dass die Konformität mit den geltenden Anforderungen beeinträchtigt werden kann. Sie haben in den Fällen des Satzes 1 die in § 3 Absatz 1 bis 7 aufgeführten Pflichten zu erfüllen und die aufgeführten Maßnahmen zu treffen.
 
-
-## § 10 – Sonstige Pflichten der Wirtschaftsakteure
+# § 10 – Sonstige Pflichten der Wirtschaftsakteure
 
 (1) Die Wirtschaftsakteure benennen den Marktüberwachungsbehörden auf Verlangen für einen Zeitraum von mindestens zehn Jahren
 
@@ -172,8 +159,7 @@ Ein Einführer oder Vertreiber gilt als Hersteller im Sinne dieser Verordnung un
 
 (3) Die Absätze 1 und 2 gelten nicht für Privatpersonen, die ortsbewegliche Druckgeräte für den persönlichen oder häuslichen Gebrauch oder für Freizeit- oder Sportzwecke zu gebrauchen beabsichtigen oder gebrauchen.
 
-
-## § 11 – Konformität ortsbeweglicher Druckgeräte und Konformitätsbewertung
+# § 11 – Konformität ortsbeweglicher Druckgeräte und Konformitätsbewertung
 
 (1) Für die in Anlage 1 Abschnitt A Nummer 1 genannten ortsbeweglichen Druckgeräte bestimmen sich die Konformitätsbewertung, die wiederkehrenden Prüfungen, Zwischenprüfungen und außerordentlichen Prüfungen nach den Anforderungen der Abschnitte 1.8.7 oder 1.8.8 in Verbindung mit Kapitel 6.2 oder Kapitel 6.8 ADR/RID.
 
@@ -181,13 +167,11 @@ Ein Einführer oder Vertreiber gilt als Hersteller im Sinne dieser Verordnung un
 
 (3) Abnehmbare Teile nachfüllbarer ortsbeweglicher Druckgeräte können einer gesonderten Konformitätsbewertung unterzogen werden. Satz 1 gilt nicht für ortsbewegliche Druckgeräte, deren Konformität nach Abschnitt 1.8.8 ADR/RID bewertet wurde.
 
-
-## § 12 – Neubewertung der Konformität
+# § 12 – Neubewertung der Konformität
 
 Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1 Abschnitt A Nummer 3 genannten ortsbeweglichen Druckgeräts kann veranlassen, dass die Konformität nach dem Verfahren zur Neubewertung der Konformität gemäß Anhang III der Richtlinie 2010/35/EU neu bewertet wird. Der Eigentümer, der Vertreiber oder der Betreiber, durch den die Neubewertung nach Satz 1 veranlasst wurde, hat bei der ersten wiederkehrenden Prüfung gemäß Unterabschnitt 4.1.4.1 Verpackungsvorschrift P 200 ADR/RID unmittelbar nach Abschluss der Neubewertung die Pi-Kennzeichnung gemäß § 13 Absatz 1 in Verbindung mit Artikel 15 und Anhang III der Richtlinie 2010/35/EU anzubringen, wenn im Verfahren zur Neubewertung nach Satz 1 die Konformität bestätigt wurde. Der Eigentümer, der Vertreiber oder der Betreiber darf die Pi-Kennzeichnung gemäß § 13 Absatz 1 in Verbindung mit Artikel 15 und Anhang III der Richtlinie 2010/35/EU nicht anbringen, wenn im Verfahren zur Neubewertung nach Satz 1 die Konformität nicht bestätigt wurde. Die Verfahren nach den Sätzen 1 bis 3 sind auf ortsbewegliche Druckgeräte, deren Konformität nach Abschnitt 1.8.8 ADR/RID bewertet wurde, nicht anzuwenden.
 
-
-## § 13 – Allgemeine Grundsätze der Pi-Kennzeichnung
+# § 13 – Allgemeine Grundsätze der Pi-Kennzeichnung
 
 (1) Der Hersteller oder im Falle der Neubewertung ortsbeweglicher Druckgeräte gemäß § 12 der Eigentümer, der Vertreiber oder Betreiber hat die für die Anbringung, Gestaltung und Verwendung der Pi-Kennzeichnung in Artikel 14 Absatz 2 und 6, in Artikel 15 und in Anhang III der Richtlinie 2010/35/EU festgelegten Vorschriften einzuhalten.
 
@@ -199,15 +183,13 @@ Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1 Abschnitt A
 
 2. das Pi-Kennzeichen verdeckt.
 
-
-## § 14 – Freier Verkehr ortsbeweglicher Druckgeräte und gegenseitige Anerkennung
+# § 14 – Freier Verkehr ortsbeweglicher Druckgeräte und gegenseitige Anerkennung
 
 (1) Von notifizierten Stellen anderer Mitgliedstaaten der Europäischen Union und des Europäischen Wirtschaftsraums ausgestellte Konformitätsbewertungsbescheinigungen und Neubewertungsbescheinigungen sowie Berichte über die wiederkehrenden Prüfungen, Zwischenprüfungen und außerordentlichen Prüfungen stehen einer im Inland ausgestellten Bescheinigung gleich.
 
 (2) Eine in einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums benannte und notifizierte Stelle darf die ihr von der zuständigen Behörde des Mitgliedstaates gestatteten Tätigkeiten im Inland ausüben.
 
-
-## § 15 – Benennende Behörde
+# § 15 – Benennende Behörde
 
 (1) Die Benennende Behörde ist zuständig für die Einrichtung und Durchführung der erforderlichen Verfahren für die Bewertung, Benennung und anschließende Überwachung Benannter Stellen.
 
@@ -217,8 +199,7 @@ Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1 Abschnitt A
 
 (4) Die Benennende Behörde kann Überwachungsmaßnahmen zur Überprüfung der Benannten Stellen nach § 9 Absatz 3c des Gefahrgutbeförderungsgesetzes vornehmen.
 
-
-## § 16 – Benennungsverfahren
+# § 16 – Benennungsverfahren
 
 (1) Die Benennende Behörde erteilt auf Antrag einer Stelle die Befugnis, Konformitätsbewertungen, Neubewertungen der Konformität, wiederkehrende Prüfungen, Zwischenprüfungen und außerordentliche Prüfungen für ortsbewegliche Druckgeräte durchzuführen und benennt diese Stelle dem Bundesministerium für Verkehr und digitale Infrastruktur als zugelassene Prüfstelle nach Unterabschnitt 1.8.6.1 ADR/RID, wenn die nachfolgend genannten Voraussetzungen vorliegen.
 
@@ -238,8 +219,7 @@ Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1 Abschnitt A
 
 (4) Die Benennende Behörde notifiziert die Benannten Stellen gegenüber der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union und des Europäischen Wirtschaftsraums entsprechend den Vorgaben der Europäischen Kommission für die Übermittlung der Angaben. Sie teilt der Europäischen Kommission außerdem die nach dieser Verordnung Benannten Stellen mit den ihnen zugewiesenen Kennnummern und den Tätigkeiten, für die sie benannt wurden, für die Veröffentlichung mit. Sie meldet zudem jede später eintretende Änderung der Benennung und Notifizierung.
 
-
-## § 17 – Weitere Aufgaben der Benennenden Behörde
+# § 17 – Weitere Aufgaben der Benennenden Behörde
 
 (1) Erfüllt die Benannte Stelle die Benennungsvoraussetzungen nach § 16 Absatz 2 ganz oder teilweise nicht mehr, kann die Benennende Behörde die Benennung ganz oder teilweise widerrufen. Sie unterrichtet unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union und des Europäischen Wirtschaftsraums darüber.
 
@@ -251,8 +231,7 @@ Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1 Abschnitt A
 
 (5) Wird der Benennenden Behörde bekannt, dass eine von einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums notifizierte Benannte Stelle die Anforderungen für eine Notifizierung nicht oder nicht vollständig erfüllt, so unterrichtet sie unverzüglich das Bundesministerium für Verkehr und digitale Infrastruktur, die Europäische Kommission und die Benennende Behörde des Mitgliedstaates, der die Stelle notifiziert hat und überwacht.
 
-
-## § 18 – Rechte und Pflichten der Benannten Stellen
+# § 18 – Rechte und Pflichten der Benannten Stellen
 
 (1) Benannte Stellen dürfen Konformitätsbewertungen, wiederkehrende Prüfungen, Zwischenprüfungen und außerordentliche Prüfungen entsprechend den Verfahren, die in ADR/RID und in dieser Verordnung festgelegt sind, durchführen, wenn sie dafür notifiziert sind. Sind sie nicht oder nicht mehr dafür notifiziert, dürfen sie die Tätigkeiten nach Satz 1 nicht mehr ausführen.
 
@@ -282,13 +261,11 @@ Der Eigentümer, der Vertreiber oder der Betreiber eines in Anlage 1 Abschnitt A
 
 (9) Eine von einem anderen Mitgliedstaat der Europäischen Union oder des Europäischen Wirtschaftsraums notifizierte Stelle muss die Aufnahme ihrer Tätigkeit als Benannte Stelle in Deutschland oder für in Deutschland ansässige Unternehmen der Benennenden Behörde anzeigen. Diese unterrichtet sie über den nach § 19 eingerichteten Erfahrungsaustausch und fordert sie zur Teilnahme auf.
 
-
-## § 19 – Koordinierung der Benannten Stellen
+# § 19 – Koordinierung der Benannten Stellen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur richtet einen nationalen Erfahrungsaustausch der Benannten Stellen für ortsbewegliche Druckgeräte ein, an dem die Benennende Behörde und die Benannten Stellen nach § 16 teilnehmen müssen sowie die Benannten Stellen nach § 18 Absatz 9 teilnehmen dürfen.
 
-
-## § 20 – Zuständigkeiten und Zusammenarbeit
+# § 20 – Zuständigkeiten und Zusammenarbeit
 
 (1) Für die Marktüberwachung im Sinne dieser Verordnung sind zuständig:
 
@@ -302,8 +279,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur richtet einen nati
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur richtet einen Erfahrungsaustausch für die Marktüberwachung ortsbeweglicher Druckgeräte ein.
 
-
-## § 21 – Aufgaben und Befugnisse der Marktüberwachungsbehörden
+# § 21 – Aufgaben und Befugnisse der Marktüberwachungsbehörden
 
 (1) Die Marktüberwachungsbehörden haben eine wirksame Marktüberwachung auf der Grundlage eines Überwachungskonzepts zu gewährleisten. Das Überwachungskonzept soll insbesondere umfassen:
 
@@ -317,8 +293,7 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 (3) Die Marktüberwachungsbehörden leisten den Marktüberwachungsbehörden anderer Mitgliedstaaten in angemessenem Umfang Amtshilfe, indem sie die hierfür erforderlichen Informationen oder Unterlagen bereitstellen, geeignete Untersuchungen oder andere angemessene Maßnahmen durchführen und sich an Untersuchungen beteiligen, die in anderen Mitgliedstaaten eingeleitet wurden.
 
-
-## § 22 – Marküberwachungsmaßnahmen
+# § 22 – Marküberwachungsmaßnahmen
 
 (1) Die Marktüberwachungsbehörden kontrollieren ortsbewegliche Druckgeräte anhand angemessener Stichproben auf geeignete Art und Weise und in angemessenem Umfang. Dazu überprüfen sie die Unterlagen oder führen falls erforderlich technische Prüfungen nach Kapitel 6.2 ADR/RID in Verbindung mit den in Abschnitt 6.2.2 oder 6.2.4 ADR/RID für Druckgefäße zitierten Normen oder nach Kapitel 6.8 ADR/RID in Verbindung mit den in Unterabschnitt 6.8.2.6 oder 6.8.3.6 ADR/RID zitierten Normen durch oder ordnen die Durchführung unter ihrer Überwachung an. Sie berücksichtigen die geltenden Grundsätze der Risikobewertung, eingegangene Beschwerden und verfügbare Informationen über nichtkonforme ortsbewegliche Druckgeräte.
 
@@ -354,8 +329,7 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 (9) Werden ortsbewegliche Druckgeräte oder deren Teile ausgestellt, sind die für das Ausstellen und für Aussteller von Produkten geltenden Bestimmungen des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) entsprechend anzuwenden.
 
-
-## § 23 – Formale Nichtkonformität
+# § 23 – Formale Nichtkonformität
 
 (1) Liegt bei einem ortsbeweglichen Druckgerät ein Fall formaler Nichtkonformität vor, verpflichtet die Marktüberwachungsbehörde den betroffenen Wirtschaftsakteur, die formale Nichtkonformität innerhalb einer festgelegten Frist zu beheben. Eine formale Nichtkonformität liegt vor, wenn:
 
@@ -373,8 +347,7 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 2. anordnen, dass die ortsbeweglichen Druckgeräte zurückgerufen oder vom Markt genommen werden.
 
-
-## § 24 – Meldeverfahren
+# § 24 – Meldeverfahren
 
 (1) Die Marktüberwachungsbehörde unterrichtet die Bundesanstalt für Materialforschung und -prüfung über
 
@@ -390,8 +363,7 @@ Sie unterrichtet die Bundesanstalt für Materialforschung und -prüfung einschli
 
 (3) Die Bundesanstalt für Materialforschung und -prüfung unterrichtet die Marktüberwachungsbehörden sowie die Bundesministerien für Verkehr und digitale Infrastruktur sowie der Verteidigung über Meldungen der Kommission oder eines anderen Mitgliedstaates der Europäischen Union.
 
-
-## § 25 – Schnellinformationssystem
+# § 25 – Schnellinformationssystem
 
 (1) Trifft die Marktüberwachungsbehörde eine Maßnahme nach § 22 Absatz 3 oder beabsichtigt sie dies, so unterrichtet sie die Bundesanstalt für Materialforschung und -prüfung unverzüglich hierüber. Dabei gibt sie auch an, ob der Anlass für die Maßnahme oder die Auswirkungen dieser Maßnahme über das Inland hinausreichen. Außerdem informiert sie die Bundesanstalt für Materialforschung und -prüfung unverzüglich über Änderungen einer solchen Maßnahme oder ihre Rücknahme.
 
@@ -401,8 +373,7 @@ Sie unterrichtet die Bundesanstalt für Materialforschung und -prüfung einschli
 
 (4) Die Bundesanstalt für Materialforschung und -prüfung überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit und leitet sie an die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union weiter, wenn die Marktüberwachungsbehörde angegeben hat, dass der Anlass für die Maßnahme nicht im Inland liegt oder die Auswirkungen dieser Maßnahme über das Inland hinausreichen. Für diese Zwecke wird das von der Europäischen Kommission bereitgestellte und in Artikel 22 Absatz 4 der Verordnung (EG) Nr. 765/2008 bezeichnete System für Marktüberwachung und Informationsaustausch verwendet. Die Bundesanstalt für Materialforschung und -prüfung unterrichtet die Marktüberwachungsbehörden sowie die zuständigen Bundesministerien über Meldungen, die ihr über das System nach Satz 2 zugehen.
 
-
-## § 26 – Veröffentlichung von Informationen
+# § 26 – Veröffentlichung von Informationen
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung informiert die Öffentlichkeit über unanfechtbare oder sofort vollziehbare Anordnungen nach § 22 Absatz 2 Satz 2 Nummer 3, 5, 6, 7 und 8. Personenbezogene Daten dürfen nur veröffentlicht werden, wenn sie zur Identifizierung der ortsbeweglichen Druckgeräte erforderlich sind.
 
@@ -426,8 +397,7 @@ Sie unterrichtet die Bundesanstalt für Materialforschung und -prüfung einschli
 
 Die Marktüberwachungsbehörde informiert die Öffentlichkeit darüber in der gleichen Art und Weise, in der sie die betreffenden Informationen zuvor bekannt gegeben hat.
 
-
-## § 27 – Ordnungswidrigkeiten
+# § 27 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe a des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -578,13 +548,11 @@ e) Absatz 7 eine Aufgabe wahrnimmt oder
 
 f) Absatz 8 Satz 1, auch in Verbindung mit Satz 2, eine Kennnummer verwendet.
 
-
-## § 28 – Straftaten
+# § 28 – Straftaten
 
 Wer eine in § 27 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines Anderen, ihm nicht gehörende Tiere oder fremde Sachen von bedeutendem Wert gefährdet, macht sich nach § 11 des Gefahrgutbeförderungsgesetzes strafbar.
 
-
-## § 29 – Übergangsbestimmungen
+# § 29 – Übergangsbestimmungen
 
 (1) Bestimmungen im Sinne des Anhangs II Nummer 1 der Richtlinie 2010/35/EU gelten weiter.
 
@@ -598,20 +566,17 @@ Wer eine in § 27 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich wiederh
 
 (6) Hersteller dürfen die Überwachung der Herstellung und die Dokumentation der gemäß Absatz 4 betroffenen Produkte nach vorgenannten Bescheinigungen ausstellen. Die betroffenen Prüfstellen dürfen die Überwachung des Herstellers (Audit) gemäß den dafür niedergelegten Verfahren durchführen.
 
-
-## § 30 – Aufhebung
+# § 30 – Aufhebung
 
 Die Verordnung über ortsbewegliche Druckgeräte vom 17. Dezember 2004 (BGBl. I S. 3711), die zuletzt durch Artikel 3 der Verordnung vom 3. August 2010 (BGBl. I S. 1139) geändert worden ist, wird zum 3. Dezember 2011 aufgehoben.
 
-
-## § 31 – Anerkennung der Gleichwertigkeit
+# § 31 – Anerkennung der Gleichwertigkeit
 
 (1) Die gemäß den Richtlinien 84/525/EWG, 84/526/EWG und 84/527/EWG erteilten EWG-Bauartzulassungen für ortsbewegliche Druckgeräte und die gemäß der Richtlinie 1999/36/EG ausgestellten EG-Entwurfsprüfbescheinigungen werden als den in ADR/RID und den Anhängen der Richtlinie 2008/68/EG genannten Bauartzulassungszeugnissen gleichwertig anerkannt. Sie unterliegen aber den Bestimmungen über eine zeitlich begrenzte Anerkennung der Baumusterzulassung in Absatz 1.8.7.2.4 ADR/RID.
 
 (2) Ventile und Ausrüstungsteile gemäß Artikel 3 Absatz 3 der Richtlinie 1999/36/EG, die gemäß Artikel 3 Absatz 4 der Richtlinie 1999/36/EG mit dem in der Richtlinie 97/23/EG des Europäischen Parlaments und des Rates vom 29. Mai 1997 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Druckgeräte (ABl. L 181 vom 9.7.1997, S. 1) vorgesehenen Kennzeichen versehen sind, dürfen weiter verwendet werden.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
+# Anlage 1 – (zu § 1 Absatz 1)Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 1 fallen
 
 (Fundstelle: BGBl. I 2011, 2361)
 
@@ -633,8 +598,7 @@ sofern die unter Nummer 1 oder Nummer 2 genannten Geräte im Einklang mit den Be
 
 Ferner gelten als ortsbewegliche Druckgeräte Gaspatronen (UN-Nummer 2037), jedoch nicht Druckgaspackungen (UN-Nummer 1950), offene Kryo-Behälter, Gasflaschen für Atemschutzgeräte, Feuerlöscher (UN-Nummer 1044), ortsbewegliche Druckgeräte, die gemäß Unterabschnitt 1.1.3.2 ADR/RID ausgenommen sind, sowie ortsbewegliche Druckgeräte, die aufgrund der besonderen Vorschriften in Kapitel 3.3 ADR/RID von den Bau- und Prüfvorschriften für Verpackungen ausgenommen sind.
 
-
-## Anlage 2 – (zu § 1 Absatz 2)Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
+# Anlage 2 – (zu § 1 Absatz 2)Bestimmung der ortsbeweglichen Druckgeräte, die unter § 1 Absatz 2 fallen
 
 (Fundstelle: BGBl. I 2011, 2362)
 

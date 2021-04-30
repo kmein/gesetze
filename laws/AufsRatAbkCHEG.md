@@ -1,10 +1,7 @@
-# [AufsRatAbkCHEG] Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen
-
-Ausfertigungsdatum: 13.05.1957
-
+% Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen
+% Ausfertigungsdatum: 13.05.1957
  
-
-## § 1
+# § 1
 
 (1) An allen Sitzungen des Aufsichtsrats können in Unternehmen mit in der Regel nicht mehr als 150 Arbeitnehmern zwei Arbeitnehmervertreter, in Unternehmen mit in der Regel mehr als 150 Arbeitnehmern drei Arbeitnehmervertreter beratend und ohne Stimmrecht teilnehmen. An den Sitzungen der Ausschüsse des Aufsichtsrats können die Arbeitnehmervertreter teilnehmen, wenn der Vorsitzer des Aufsichtsrats nicht etwas anderes bestimmt.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 13.05.1957
 
 (3) Die Arbeitnehmervertreter sind nicht Mitglieder des Aufsichtsrats.
 
-
-## § 2
+# § 2
 
 (1) Die Arbeitnehmervertreter werden in allgemeiner, geheimer, gleicher und unmittelbarer Wahl für die Dauer von vier Jahren gewählt.
 
@@ -25,18 +21,15 @@ Ausfertigungsdatum: 13.05.1957
 
 (5) Die Bestellung eines Arbeitnehmervertreters kann vor Ablauf der Wahlzeit auf Antrag der Betriebsräte oder von mindestens einem Fünftel der wahlberechtigten Arbeitnehmer des Unternehmens durch Beschluß der wahlberechtigten Arbeitnehmer widerrufen werden. Der Beschluß bedarf einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfaßt. Für die Beschlußfassung gilt Absatz 1 entsprechend.
 
-
-## § 3
+# § 3
 
 Die Arbeitnehmervertreter erhalten keine andere Vergütung als eine von der Hauptversammlung festzusetzende Aufwandsentschädigung. Notwendige Versäumnis von Arbeitszeit infolge der Teilnahme an den Sitzungen berechtigt nicht zur Minderung des Arbeitsentgelts.
 
-
-## § 4
+# § 4
 
 Die Arbeitnehmervertreter haben über vertrauliche Angaben oder Betriebs- und Geschäftsgeheimnisse, die ihnen wegen ihrer Tätigkeit als Arbeitnehmervertreter bekanntgeworden und vom Vorsitzer des Aufsichtsrats ausdrücklich als geheimzuhalten bezeichnet worden sind, auch nach Beendigung ihrer Bestellung oder nach ihrem Ausscheiden aus dem Unternehmen Stillschweigen gegenüber jedermann zu wahren.
 
-
-## § 5
+# § 5
 
 (1) Wer unbefugt ein fremdes Betriebs- oder Geschäftsgeheimnis offenbart, das ihm in seiner Eigenschaft als Arbeitnehmervertreter bekanntgeworden und vom Vorsitzer des Aufsichtsrats ausdrücklich als geheimhaltungsbedürftig bezeichnet worden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
@@ -44,8 +37,7 @@ Die Arbeitnehmervertreter haben über vertrauliche Angaben oder Betriebs- und Ge
 
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt.
 
-
-## § 6
+# § 6
 
 Zur Regelung der in § 2 bezeichneten Wahlen und Abstimmungen erläßt die Bundesregierung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über
 
@@ -67,8 +59,7 @@ h) die Aufbewahrung der Wahlakten,
 
 i) den Widerruf der Bestellung der Arbeitnehmervertreter.
 
-
-## § 7
+# § 7
 
 (1) Die Arbeitsgerichte sind ausschließlich zuständig für die Entscheidung über
 

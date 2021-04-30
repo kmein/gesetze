@@ -1,5 +1,3 @@
-# [PostgiroAbk] Postgiroabkommen
-
-Ausfertigungsdatum: 27.07.1984
-
+% Postgiroabkommen
+% Ausfertigungsdatum: 27.07.1984
  

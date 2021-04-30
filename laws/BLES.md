@@ -1,15 +1,11 @@
-# [BLES] Satzung der Bundesanstalt für Landwirtschaft und Ernährung
-
-Ausfertigungsdatum: 29.09.1994
-
+% Satzung der Bundesanstalt für Landwirtschaft und Ernährung
+% Ausfertigungsdatum: 29.09.1994
  
-
-## § 1 – Aufbau der Anstalt
+# § 1 – Aufbau der Anstalt
 
 Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) gliedert sich in Abteilungen, Gruppen und Referate. Die sich hiernach ergebende Aufbauorganisation wird vom Bundesministerium für Ernährung, Landwirtschaft und Forsten (Bundesministerium) durch Erlaß festgelegt.
 
-
-## § 2 – Geschäftsführung
+# § 2 – Geschäftsführung
 
 (1) Der Präsident führt die Geschäfte und verwaltet das Vermögen der Bundesanstalt in eigener Verantwortung nach Maßgabe des Gesetzes über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung vom 2. August 1994 (BGBl. I S. 2018, 2019) (Gesetz), dieser Satzung und den Weisungen des Bundesministeriums. Er hat die Leitung und führt die Aufsicht über den gesamten Dienstbetrieb.
 
@@ -19,8 +15,7 @@ Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) gliedert si
 
 (4) Er erläßt eine Geschäftsordnung, die der Zustimmung des Bundesministeriums bedarf.
 
-
-## § 3 – Vertretung, Aufgabenübertragung, Zeichnungsbefugnis
+# § 3 – Vertretung, Aufgabenübertragung, Zeichnungsbefugnis
 
 (1) Die Abteilungsleiter unterstützen den Präsidenten bei der Führung der Geschäfte und der Verwaltung des Vermögens der Anstalt. Sie führen die laufenden Geschäfte im Zuständigkeitsbereich ihrer Abteilungen. Der Präsident kann den Abteilungsleitern weitere Zuständigkeiten übertragen. Dies soll insbesondere für die Leiter der Abteilungen "Pflanzliche Erzeugnisse" und "Tierische Erzeugnisse" im Bereich der Warengeschäfte erfolgen. Die Übertragung, der Widerruf und der Umfang der Vertretungsbefugnis werden im Bundesanzeiger bekanntgegeben.
 
@@ -28,8 +23,7 @@ Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) gliedert si
 
 (3) Rechtsgeschäftliche Erklärungen bedürfen der Schriftform.
 
-
-## § 4 – Berufung der Mitglieder des Verwaltungsrates und ihrer Stellvertreter
+# § 4 – Berufung der Mitglieder des Verwaltungsrates und ihrer Stellvertreter
 
 (1) Die Vertreter der in § 5 Abs. 1 des Gesetzes genannten Wirtschaftsgruppen werden durch folgende Bundesverbände namentlich vorgeschlagen:
 
@@ -51,20 +45,17 @@ Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) gliedert si
 
 (2) Für alle Mitglieder des Verwaltungsrates im Sinne des § 5 Abs. 1 des Gesetzes ist für den Fall ihrer Verhinderung ein Stellvertreter namentlich zu benennen. Hinsichtlich des Vorschlags und der Bestellung der Stellvertreter gilt Absatz 1 und § 5 Abs. 2 und 3 des Gesetzes entsprechend.
 
-
-## § 5 – Auskunftsrecht und -pflicht des Verwaltungsrates
+# § 5 – Auskunftsrecht und -pflicht des Verwaltungsrates
 
 (1) Zur Erfüllung der dem Verwaltungsrat nach § 6 des Gesetzes obliegenden Aufgaben ist der Verwaltungsrat berechtigt, vom Präsidenten über die Tätigkeit der Anstalt unterrichtet zu werden. Ihm steht insoweit gegenüber dem Präsidenten ein Recht auf Auskunftserteilung und auf Anhörung zu.
 
 (2) Das Bundesministerium kann verlangen, daß der Verwaltungsrat ihm jederzeit und unbeschränkt Auskunft über seine Tätigkeit gibt und ihm sämtliche notwendigen Unterlagen und Aufzeichnungen vorlegt.
 
-
-## § 6 – Vertretung des Verwaltungsrates
+# § 6 – Vertretung des Verwaltungsrates
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch seinen Stellvertreter vertreten.
 
-
-## § 7 – Sitzungen des Verwaltungsrates
+# § 7 – Sitzungen des Verwaltungsrates
 
 (1) Der Verwaltungsrat tritt nach Bedarf zusammen, mindestens einmal jährlich. Die Sitzungen sind nicht öffentlich.
 
@@ -82,13 +73,11 @@ Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch
 
 (8) Das Nähere regelt die Geschäftsordnung.
 
-
-## § 8 – Schriftliches Verfahren
+# § 8 – Schriftliches Verfahren
 
 Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren ist zulässig. Das Nähere regelt die Geschäftsordnung.
 
-
-## § 9 – Einsetzung und Zusammensetzung von Fachbeiräten
+# § 9 – Einsetzung und Zusammensetzung von Fachbeiräten
 
 (1) Der Verwaltungsrat beschließt über die Einsetzung und warenbezogene Aufteilung von Fachbeiräten.
 
@@ -98,8 +87,7 @@ Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren ist zuläs
 
 (4) Der Fachbeirat wählt aus seiner Mitte mit der Mehrheit seiner Mitglieder den Vorsitzenden und dessen Stellvertreter.
 
-
-## § 10 – Aufgaben der Fachbeiräte
+# § 10 – Aufgaben der Fachbeiräte
 
 (1) Die Fachbeiräte beraten den Präsidenten und den Verwaltungsrat in Fragen des jeweiligen Warenbereiches unmittelbar.
 
@@ -107,8 +95,7 @@ Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren ist zuläs
 
 (3) Die Fachbeiräte haben den Verwaltungsrat über ihre Tätigkeit, insbesondere über Stellungnahmen und Äußerungen, die sie dem Präsidenten gegenüber unmittelbar abgegeben haben, zu unterrichten.
 
-
-## § 11 – Sitzungen der Fachbeiräte
+# § 11 – Sitzungen der Fachbeiräte
 
 (1) Die Fachbeiräte treten nach Bedarf zusammen. Ihre Sitzungen sind nicht öffentlich.
 
@@ -118,8 +105,7 @@ Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren ist zuläs
 
 (4) Für die Teilnahme an den Sitzungen werden keine Reisekosten- und Sitzungsvergütung gewährt.
 
-
-## § 12 – Verwaltungshaushalt, Haushaltsführung
+# § 12 – Verwaltungshaushalt, Haushaltsführung
 
 (1) Das Haushaltsjahr der Anstalt ist das Kalenderjahr.
 
@@ -129,8 +115,7 @@ Eine Beschlußfassung des Verwaltungsrates im schriftlichen Verfahren ist zuläs
 
 (4) Innerhalb von drei Monaten nach Ablauf des Haushaltsjahres hat der Präsident in entsprechender Anwendung der Rechnungslegungsbestimmungen des Bundes eine Jahresrechnung über die tatsächlichen Einnahmen und Ausgaben aufzustellen, die dem Bundesministerium zur Erteilung der Entlastung vorzulegen ist.
 
-
-## § 13 – Wirtschaftsplan, Wirtschaftsführung
+# § 13 – Wirtschaftsplan, Wirtschaftsführung
 
 (1) Das Geschäftsjahr der Anstalt ist das Kalenderjahr.
 
@@ -148,12 +133,10 @@ a) zum 1. Februar eine Nachweisung über die im letzten Geschäftsjahr tatsächl
 
 b) zum 1. Juli die Bilanz, die Gewinn- und Verlustrechnung sowie der Geschäftsbericht für das abgelaufene Geschäftsjahr.
 
-
-## § 14 – Kreditaufnahme
+# § 14 – Kreditaufnahme
 
 Das Verfahren der Inanspruchnahme von Krediten durch die Anstalt (§ 10 Abs. 4 und 5 des Gesetzes) wird durch Erlaß des Bundesministeriums im Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 
-
-## § 15 – Übergangsregelungen
+# § 15 – Übergangsregelungen
 
 Für die Dauer der Übergangszeit nach § 15 Abs. 1 des Gesetzes nehmen der Präsident, der Vizepräsident sowie die ständigen Vertreter die Funktionen der Abteilungsleiter wahr. Ausnahmen bestimmt das Bundesministerium durch Erlaß.

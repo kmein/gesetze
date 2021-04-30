@@ -1,10 +1,7 @@
-# [OstSFischZProk] Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee
-
-Ausfertigungsdatum: 18.05.1978
-
+% Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee
+% Ausfertigungsdatum: 18.05.1978
  
-
-## ----
+# ----
 
 In der Ostsee sind in den letzten Monaten tiefgreifende Veränderungen in der bestehenden Fischereiordnung eingetreten. Mehrere Anliegerstaaten haben dort eigene Fischereizonen errichtet. Die Bundesrepublik Deutschland bedauert diese Entwicklung, die den im Rahmen der 3. Seerechtskonferenz der Vereinten Nationen laufenden Arbeiten vorgreift und die Fischereiinteressen der Bundesrepublik Deutschland wie auch anderer Mitgliedstaaten der Europäischen Gemeinschaften erheblich berührt. Zur Abwehr schwerer Gefahren für die Lebensgrundlagen ihrer in der Ostsee tätigen Fischer und ihrer Fischereiindustrie sieht sich die Bundesrepublik Deutschland gezwungen, ihrerseits geeignete Schritte zu unternehmen.
 

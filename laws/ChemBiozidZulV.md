@@ -1,10 +1,7 @@
-# [ChemBiozidZulV] Verordnung über die Zulassung von Biozid-Produkten und sonstige chemikalienrechtliche Verfahren zu Biozid-Produkten und Biozid-Wirkstoffen  (Biozid-Zulassungsverordnung - ChemBiozidZulV)
-
-Ausfertigungsdatum: 04.07.2002
-
+% Verordnung über die Zulassung von Biozid-Produkten und sonstige chemikalienrechtliche Verfahren zu Biozid-Produkten und Biozid-Wirkstoffen  (Biozid-Zulassungsverordnung - ChemBiozidZulV)
+% Ausfertigungsdatum: 04.07.2002
  
-
-## § 1 – Anwendungsbereich, Zweck
+# § 1 – Anwendungsbereich, Zweck
 
 Diese Verordnung gilt für
 
@@ -26,8 +23,7 @@ Diese Verordnung gilt für
 
 Sie dient der Regelung näherer Einzelheiten dieser Verfahren, die die gesetzlichen Regelungen in Teilbereichen konkretisieren.
 
-
-## § 2 – Allgemeine Vorschriften zur Vorlage von Unterlagen
+# § 2 – Allgemeine Vorschriften zur Vorlage von Unterlagen
 
 (1) Unterlagen, die der Zulassungsstelle in einem der in § 1 genannten Verfahren vorzulegen sind, sind bei der Zulassungsstelle in jeweils vier gleichen Sätzen einzureichen. Die Zulassungsstelle kann
 
@@ -39,8 +35,7 @@ Sie dient der Regelung näherer Einzelheiten dieser Verfahren, die die gesetzlic
 
 (2) Anträge und Unterlagen, die eines der in § 1 genannten Verfahren einleiten, müssen Angaben über Namen und Anschrift des Antragstellers oder Mitteilungspflichtigen, den Standort des Herstellungsbetriebes sowie die Identität des Biozid-Produkts einschließlich aller in ihm enthaltenen Biozid-Wirkstoffe oder des Biozid-Wirkstoffes und eine Zusammenfassung des wesentlichen Inhalts der vorgelegten Unterlagen enthalten. Ist der Antragsteller nicht Hersteller des Biozid-Wirkstoffes, sind zusätzlich Angaben über den Herstellungsbetrieb des Biozid-Wirkstoffes zu machen. Biozid-Wirkstoffe sind mit dem in Anhang I der Richtlinie 67/548/EWG des Rates vom 27. Juni 1967 zur Angleichung der Rechts- und Verwaltungsvorschriften für die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe (ABl. EG Nr. C 196 S. 1) in ihrer jeweils jüngsten im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassung angegebenen Namen oder, sofern der Name dort nicht aufgeführt ist, mit dem im Europäischen Altstoffverzeichnis EINECS angegebenen Namen oder, sofern der Name dort auch nicht aufgeführt ist, mit der bei der Internationalen Normenorganisation gebräuchlichen Allgemeinen Bezeichnung (ISO Common Name) oder, sofern auch eine solche nicht vorliegt, mindestens mit der chemischen Bezeichnung nach dem System der Internationalen Union für reine und angewandte Chemie (IUPAC-Nomenklatur) zu bezeichnen. Auf Unterlagen, die vom Antragsteller oder Mitteilungspflichtigen der Zulassungsstelle über dasselbe Biozid-Produkt oder denselben Biozid-Wirkstoff bereits vorgelegt wurden, ist Bezug zu nehmen. Im Falle der Einfuhr sind auch Name und Anschrift des Herstellers zu benennen. Im Falle der Antragstellung durch einen Bevollmächtigten ist die Bevollmächtigung durch eine schriftliche Erklärung des Herstellers oder Einführers nachzuweisen.
 
-
-## § 3 – Vorlage von Prüfnachweisen, Prüfmethoden
+# § 3 – Vorlage von Prüfnachweisen, Prüfmethoden
 
 (1) Bei Vorlage von Prüfnachweisen in einem der in § 1 genannten Verfahren hat der Antragsteller oder Mitteilungspflichtige schriftlich zu erklären, dass die Beschaffenheit des Biozid-Produkts, des Biozid-Wirkstoffes oder gegebenenfalls des sonstigen Inhaltsstoffes, auf den sich die Angaben in dem Antrag oder der Mitteilung beziehen, derjenigen des geprüften Biozid-Produkts, Biozid-Wirkstoffes oder Inhaltsstoffes entspricht. Die Bestimmung physikalischer und chemischer Eigenschaften eines Biozid-Wirkstoffes ist, soweit erforderlich, am reinen Biozid-Wirkstoff vorzunehmen. Die Zusammensetzung der Probe ist jeweils anzugeben. Der Erklärung sind die Namen der für die Durchführung der Versuche verantwortlichen Stellen beizufügen.
 
@@ -58,13 +53,11 @@ Bei gleichwertigen Prüfmethoden ist jeweils diejenige anzuwenden, die den Verzi
 
 (4) Prüfnachweise müssen die vollständigen Ergebnisse der durchgeführten Prüfungen wiedergeben. Über die verwendeten Prüfmethoden sind vollständige Angaben zu machen. In den Fällen des Absatzes 2 Satz 3 Nr. 2 und 3 ist die Verwendung der gewählten Methoden zu begründen.
 
-
-## § 4 – Beschränkungen der Zulassungsfähigkeit bei bestimmten Biozid-Produkten
+# § 4 – Beschränkungen der Zulassungsfähigkeit bei bestimmten Biozid-Produkten
 
 Biozid-Produkte der Produktarten 15 (Avizide), 17 (Fischbekämpfungsmittel) und 23 (Produkte gegen sonstige Wirbeltiere) des Anhangs V der Richtlinie 98/8/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998 über das Inverkehrbringen von Biozid-Produkten (ABl. EG Nr. L 123 S. 1) dürfen nicht nach § 12a Satz 1, auch in Verbindung mit § 12c Abs. 1, zugelassen oder nach § 12f des Chemikaliengesetzes registriert werden. Eine Anerkennung ausländischer Zulassungen oder Registrierungen derartiger Biozid-Produkte nach § 12g des Chemikaliengesetzes darf nicht erteilt werden. § 12c Abs. 2 des Chemikaliengesetzes bleibt unberührt.
 
-
-## § 5 – Feststellung zum Entfallen der Zulassungsbedürftigkeit nach § 12a Satz 2 Nr. 4 des Chemikaliengesetzes
+# § 5 – Feststellung zum Entfallen der Zulassungsbedürftigkeit nach § 12a Satz 2 Nr. 4 des Chemikaliengesetzes
 
 (1) Ein Biozid-Produkt darf unter Inanspruchnahme der Ausnahmeregelung des § 12a Satz 2 Nr. 4 des Chemikaliengesetzes aus einem anderen Mitgliedstaat der Europäischen Gemeinschaften oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erst eingeführt werden, wenn von der Zulassungsstelle festgestellt worden ist, dass die hierfür maßgeblichen Voraussetzungen erfüllt sind. Die Feststellung ist bei der Zulassungsstelle schriftlich zu beantragen.
 
@@ -92,7 +85,6 @@ Biozid-Produkte der Produktarten 15 (Avizide), 17 (Fischbekämpfungsmittel) und 
 
 In der Feststellungsentscheidung ist zu bestimmen, dass diese nur mit der Maßgabe gilt, dass sich die das eingeführte oder einzuführende Biozid-Produkt betreffenden Verhältnisse nicht nachträglich ändern und dass die Zulassung oder Registrierung des eingeführten oder einzuführenden Biozid-Produkts im Ursprungsland und des Referenzprodukts in Deutschland nicht geändert wird oder abläuft.
 
-
-## § 6 – Proben
+# § 6 – Proben
 
 Von den Antragstellern und Mitteilungspflichtigen der in § 1 genannten Verfahren kann die Zulassungsstelle bis zum Zeitpunkt der Versagung oder des Ablaufs der Zulassung oder Registrierung, der Versagung der Feststellung nach § 5, der Aufnahme eines Biozid-Wirkstoffes in Anhang I der Richtlinie 98/8/EG oder der Beendigung der Versuche nach § 12i des Chemikaliengesetzes jederzeit die Vorlage von Proben des Biozid-Produkts, des Biozid-Wirkstoffes oder des Referenzprodukts einschließlich der jeweiligen Verpackung, Kennzeichnung, Gebrauchsanweisung und gegebenenfalls des Sicherheitsdatenblattes verlangen.

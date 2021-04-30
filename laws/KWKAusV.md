@@ -1,13 +1,9 @@
-# [KWKAusV] Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme  (KWK-Ausschreibungsverordnung - KWKAusV)
-
-Ausfertigungsdatum: 10.08.2017
-
+% Verordnung zur Einführung von Ausschreibungen zur Ermittlung der Höhe der Zuschlagszahlungen für KWK-Anlagen und für innovative KWK-Systeme  (KWK-Ausschreibungsverordnung - KWKAusV)
+% Ausfertigungsdatum: 10.08.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Ausschreibung der Zuschlagszahlungen und die Ausschreibung der Höhe der Zuschlagszahlungen für KWK-Strom aus
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 10.08.2017
 
 (2) Diese Verordnung ist auf KWK-Anlagen und auf innovative KWK-Systeme anzuwenden, die im Bundesgebiet errichtet oder modernisiert werden sollen. Sie ist darüber hinaus für KWK-Anlagen anzuwenden, die im Staatsgebiet eines Kooperationsstaates errichtet oder modernisiert werden sollen und die an einer Ausschreibung für KWK-Anlagen teilnehmen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinn dieser Verordnung ist
 
@@ -82,8 +77,7 @@ c) der die nächstgelegene Verbindungsleitung betreibt, die die Grenze zwischen 
 
 (+++ § 2 Nr. 12, 13, 16: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)
 
-
-## § 3 – Gebotstermine und Ausschreibungsvolumen
+# § 3 – Gebotstermine und Ausschreibungsvolumen
 
 (1) Das Ausschreibungsvolumen der jährlichen Gebotstermine am 1. Juni und am 1. Dezember beträgt jeweils 100 Megawatt elektrische KWK-Leistung.
 
@@ -129,13 +123,11 @@ Satz 1 ist entsprechend anzuwenden, wenn in einem Gebotstermin einer Ausschreibu
 
 (6) Liegt in zwei aufeinander folgenden Gebotsterminen der Ausschreibungen für KWK-Anlagen die Gebotsmenge aller zulässigen Gebote oberhalb des Ausschreibungsvolumens und wurde zu einem früheren Gebotstermin in wenigstens einem Fall das Ausschreibungsvolumen nach Absatz 5 verringert, erhöht sich das Ausschreibungsvolumen nach Absatz 2, 3 oder 4 für den nächsten Gebotstermin um das in früheren Gebotsterminen aufgrund von Absatz 5 nicht zur Ausschreibung zugelassene Ausschreibungsvolumen, maximal jedoch um weitere 10 Prozent des insgesamt für diesen Gebotstermin nach Absatz 1 vorgesehenen Ausschreibungsvolumens.
 
-
-## § 4 – Elektronisches Verfahren
+# § 4 – Elektronisches Verfahren
 
 Die Ausschreibungen können von der ausschreibenden Stelle ganz oder teilweise auf ein elektronisches Verfahren umgestellt werden; dabei kann auch von dem Schriftformerfordernis nach § 9 Absatz 1 Satz 2 abgewichen werden. In diesem Fall kann die ausschreibende Stelle insbesondere Vorgaben zur Authentifizierung für die gesicherte Datenübertragung machen. Bei der Umstellung auf ein elektronisches Verfahren muss die ausschreibende Stelle bei der Bekanntmachung der Ausschreibung auf das elektronische Verfahren hinweisen.
 
-
-## § 5 – Höchstwert
+# § 5 – Höchstwert
 
 Der Höchstwert in den Ausschreibungen beträgt für
 
@@ -143,8 +135,7 @@ Der Höchstwert in den Ausschreibungen beträgt für
 
 2. innovative KWK-Systeme 12,0 Cent pro Kilowattstunde KWK-Strom.
 
-
-## § 6 – Ausschreibende Stelle und ausländische Stelle
+# § 6 – Ausschreibende Stelle und ausländische Stelle
 
 (1) Die ausschreibende Stelle ist
 
@@ -156,8 +147,7 @@ In einer völkerrechtlichen Vereinbarung kann auch festgelegt werden, dass ein T
 
 (2) Der Kooperationsstaat muss als zuständige ausländische Stelle eine oder mehrere öffentliche oder private Stellen benennen, die die Aufgaben, die nach dieser Verordnung von der ausländischen Stelle übernommen werden können oder müssen, übernehmen.
 
-
-## § 7 – Bekanntmachung
+# § 7 – Bekanntmachung
 
 (1) Die ausschreibende Stelle macht die Ausschreibungen für KWK-Anlagen und für innovative KWK-Systeme frühestens acht Wochen und spätestens fünf Wochen vor dem jeweiligen Gebotstermin auf ihrer Internetseite bekannt.
 
@@ -191,8 +181,7 @@ c) das Verfahren der Zuordnung bezuschlagter Gebote zwischen der Bundesrepublik 
 
 (4) Die Bekanntmachungen erfolgen ausschließlich im öffentlichen Interesse. Die Ausschreibungen können zusätzlich durch eine ausländische Stelle auf deren Internetseite bekanntgemacht werden, sofern dies in der völkerrechtlichen Vereinbarung nach § 27 festgelegt ist.
 
-
-## § 8 – Anforderungen an Gebote
+# § 8 – Anforderungen an Gebote
 
 (1) Gebote müssen folgende Angaben enthalten:
 
@@ -288,15 +277,13 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 (6) Die ausschreibende Stelle veröffentlicht auf ihrer Internetseite Formularvorlagen für die nach Absatz 1 Nummer 12 abzugebenden Eigenerklärungen.
 
-
-## § 9 – Rücknahme und Bindungswirkung von Geboten
+# § 9 – Rücknahme und Bindungswirkung von Geboten
 
 (1) Die Rücknahme von Geboten ist bis zum jeweiligen Gebotstermin zulässig; maßgeblich ist der Zugang einer Rücknahmeerklärung bei der ausschreibenden Stelle. Die Rücknahme muss durch eine unbedingte, unbefristete und der Schriftform genügende Erklärung des Bieters erfolgen, die sich dem Gebot eindeutig zuordnen lässt.
 
 (2) Bieter sind an ihre Gebote, die bis zum Gebotstermin abgegeben und nicht zurückgenommen worden sind, gebunden, bis ihnen von der ausschreibenden Stelle mitgeteilt worden ist, dass ihr Gebot keinen Zuschlag erhalten hat.
 
-
-## § 10 – Sicherheiten
+# § 10 – Sicherheiten
 
 (1) Bieter müssen bei der ausschreibenden Stelle für ihre Gebote bis zum jeweiligen Gebotstermin eine Sicherheit leisten. Durch die Sicherheit werden die jeweiligen Forderungen der Übertragungsnetzbetreiber auf Pönalen gesichert.
 
@@ -324,8 +311,7 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 4. die KWK-Anlage oder das innovative KWK-System nach der Aufnahme oder im Fall einer Modernisierung, nach der Wiederaufnahme des Dauerbetriebs vom Bundesamt für Wirtschaft und Ausfuhrkontrolle zugelassen und der Zulassungsbescheid der ausschreibenden Stelle vorgelegt worden ist.
 
-
-## § 11 – Zuschlagsverfahren
+# § 11 – Zuschlagsverfahren
 
 (1) Die ausschreibende Stelle führt bei jeder Ausschreibung das Zuschlagsverfahren nach den Absätzen 2 bis 4 durch.
 
@@ -343,8 +329,7 @@ Abweichend von Satz 1 darf ein Gebot eine Gebotsmenge von weniger als 500 Kilowa
 
 2. durch deren Bezuschlagung das Ausschreibungsvolumen nach Satz 1 überschritten wird.
 
-
-## § 12 – Ausschluss von Geboten
+# § 12 – Ausschluss von Geboten
 
 (1) Die ausschreibende Stelle schließt Gebote von dem Zuschlagsverfahren aus, wenn
 
@@ -384,8 +369,7 @@ b) bezuschlagten Gebot in einer vorangegangenen Ausschreibung angegebenen Stando
 
 Ein Ausschluss von Geboten nach Satz 1 Nummer 1 oder Nummer 2 Buchstabe b ist nicht zulässig, wenn zu einer Anlage weitere Anlagen zugebaut werden sollen oder eine bestehende Anlage modernisiert werden soll und hierfür Gebote abgegeben werden.
 
-
-## § 13 – Ausschluss von Bietern
+# § 13 – Ausschluss von Bietern
 
 Die ausschreibende Stelle muss Bieter und deren Gebote von dem Zuschlagsverfahren ausschließen, wenn
 
@@ -397,8 +381,7 @@ b) mit anderen Bietern Absprachen über die Gebotswerte der in dieser oder einer
 
 2. die Gebotsmengen mehrerer Zuschläge eines Bieters aus mindestens zwei vorangegangenen Ausschreibungen nach § 16 Absatz 1 Nummer 1 vollständig entwertet worden sind.
 
-
-## § 14 – Zuordnung der Zuschläge und Sicherheiten bei gemeinsamen grenzüberschreitenden Ausschreibungen
+# § 14 – Zuordnung der Zuschläge und Sicherheiten bei gemeinsamen grenzüberschreitenden Ausschreibungen
 
 (1) Bei einer gemeinsamen grenzüberschreitenden Ausschreibung ordnet die ausschreibende Stelle jedes bezuschlagte Gebot entweder der Bundesrepublik Deutschland oder dem Kooperationsstaat nach dem in der völkerrechtlichen Vereinbarung festgelegten Verfahren zu. Wenn und soweit bezuschlagte Gebote dem Kooperationsstaat zugeordnet worden sind, besteht der Anspruch auf Zahlung für KWK-Strom aus den KWK-Anlagen, denen die Gebotsmenge dieser Gebote zugeteilt wird, nicht nach § 19, sondern nach den Bestimmungen des Fördersystems des Kooperationsstaats; im Übrigen ist für diese Anlage, sofern sie sich im Bundesgebiet befindet, § 25 anzuwenden.
 
@@ -408,8 +391,7 @@ b) mit anderen Bietern Absprachen über die Gebotswerte der in dieser oder einer
 
 2. dem Kooperationsstaat zugeordnet worden sind, gelten zugunsten der vom Kooperationsstaat benannten zuständigen ausländischen Stelle.
 
-
-## § 15 – Bekanntgabe der Zuschläge
+# § 15 – Bekanntgabe der Zuschläge
 
 (1) Die ausschreibende Stelle gibt die Zuschläge mit den folgenden Angaben auf ihrer Internetseite getrennt für die Ausschreibungen für KWK-Anlagen und für innovative KWK-Systeme bekannt:
 
@@ -435,8 +417,7 @@ d) einer eindeutigen Zuschlagsnummer,
 
 (3) Die ausschreibende Stelle unterrichtet die Bieter, die einen Zuschlag erhalten haben, sowie den Netzbetreiber und den Übertragungsnetzbetreiber unverzüglich unter Nennung der Nummer aus dem Marktstammdatenregister über die Zuschlagserteilung und den Zuschlagswert und übermittelt dem Netzbetreiber und dem Übertragungsnetzbetreiber eine Kopie der Eigenerklärung des Bieters nach § 8 Absatz 1 Nummer 12 Buchstabe c.
 
-
-## § 16 – Entwertung von Zuschlägen
+# § 16 – Entwertung von Zuschlägen
 
 (1) Die ausschreibende Stelle entwertet einen Zuschlag,
 
@@ -458,8 +439,7 @@ b) für innovative KWK-Systeme die elektrische Leistung der KWK-Anlage des innov
 
 (2) Wird die Zulassung einer KWK-Anlage oder eines innovativen KWK-Systems aufgehoben, wird auch der zugrunde liegende Zuschlag entwertet, soweit der KWK-Anlage oder dem innovativen KWK-System nicht im Rahmen einer Änderungszulassung nach § 11 Absatz 4 des Kraft-Wärme-Kopplungsgesetzes eine erneute Zulassung erteilt wird.
 
-
-## § 17 – Zuordnung und Übertragung von Zuschlägen
+# § 17 – Zuordnung und Übertragung von Zuschlägen
 
 (1) Zuschläge sind dem Bieter und der im Gebot angegebenen KWK-Anlage oder dem im Gebot angegebenen innovativen KWK-System an dem im Gebot angegebenen Standort zugeordnet.
 
@@ -471,15 +451,13 @@ b) für innovative KWK-Systeme die elektrische Leistung der KWK-Anlage des innov
 
 Mit dem Wirksamwerden der Übertragung tritt der Dritte in sämtliche Rechte und Pflichten des Bieters nach dieser Verordnung ein. Eine Übertragung von Zuschlägen auf andere KWK-Anlagen oder innovative KWK-Systeme und andere Standorte ist nicht zulässig.
 
-
-## § 18 – Erlöschen von Zuschlägen
+# § 18 – Erlöschen von Zuschlägen
 
 (1) Zuschläge erlöschen 54 Monate nach ihrer Bekanntgabe nach § 15 Absatz 2, soweit nicht die KWK-Anlage oder das innovative KWK-System an dem Standort, der dem Zuschlag zugeordnet worden ist, bis zu diesem Zeitpunkt den Dauerbetrieb aufgenommen oder im Fall einer Modernisierung wiederaufgenommen hat.
 
 (2) Hat eine KWK-Anlage oder ein innovatives KWK-System den Dauerbetrieb innerhalb der Frist des Absatzes 1 aufgenommen oder im Fall einer Modernisierung wiederaufgenommen, erlischt der Zuschlag, wenn die KWK-Anlage nach § 10 des Kraft-Wärme-Kopplungsgesetzes oder das innovative KWK-System nach § 24 nicht innerhalb von zwölf Monaten nach Aufnahme oder Wiederaufnahme des Dauerbetriebs durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle zugelassen wurde oder hätte zugelassen werden müssen.
 
-
-## § 19 – Höhe, Dauer und Voraussetzungen des Anspruchs auf Zuschlagszahlung
+# § 19 – Höhe, Dauer und Voraussetzungen des Anspruchs auf Zuschlagszahlung
 
 (1) Die Zuschlagszahlung wird für KWK-Strom in Höhe des Zuschlagswertes gezahlt.
 
@@ -520,8 +498,7 @@ In sonstigen Fällen, in denen kein Anschluss des innovativen KWK-Systems an ein
 (+++ § 19 Abs. 3 mit Ausnahme von Satz 1 Nr. 3: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)  
 (+++ § 19 Abs. 7: Zur Anwendung vgl. § 7a Abs. 4 KWKG 2016 +++)
 
-
-## § 20 – Mitteilungspflichten
+# § 20 – Mitteilungspflichten
 
 (1) Bieter, die einen Zuschlag nach § 11 erhalten haben, der nicht vollständig entwertet worden ist, sind bis zur Zulassung der KWK-Anlage oder des innovativen KWK-Systems durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle verpflichtet, der ausschreibenden Stelle oder einer von dieser benannten dritten Stelle jeweils bis zum 31. Mai eines jeden Jahres den Projektfortschritt mitzuteilen. Bei der Mitteilung nach Satz 1 ist anzugeben, welcher der folgenden Realisierungsschritte im Hinblick auf die KWK-Anlage oder das innovative KWK-System bereits verwirklicht wurde:
 
@@ -569,8 +546,7 @@ Die Nachweise nach Satz 1 müssen von einem Wirtschaftsprüfer, einer Wirtschaft
 
 (+++ § 20 Abs. 3: Zur Anwendung vgl. § 7a Abs. 3 KWKG 2016 +++)
 
-
-## § 21 – Pönalen
+# § 21 – Pönalen
 
 (1) Bieter müssen an den Übertragungsnetzbetreiber eine Pönale leisten, wenn
 
@@ -616,15 +592,13 @@ Die Höhe der Pönale nach Absatz 1 Nummer 3 berechnet sich aus der Gebotsmenge 
 
 (6) Die Übertragungsnetzbetreiber müssen die nach Absatz 1 zu leistenden Pönalen als Einnahme im Rahmen des Belastungsausgleichs nach § 28 des Kraft-Wärme-Kopplungsgesetzes verbuchen. Sie müssen den Eingang der Pönalen von Bietern der ausschreibenden Stelle unverzüglich mitteilen.
 
-
-## § 22 – Rechtsschutz
+# § 22 – Rechtsschutz
 
 (1) Gerichtliche Rechtsbehelfe, die sich unmittelbar gegen eine Ausschreibung oder unmittelbar gegen einen erteilten Zuschlag richten, sind nur mit dem Ziel zulässig, die ausschreibende Stelle zur Erteilung eines Zuschlags zu verpflichten. Rechtsbehelfe nach Satz 1 sind begründet, soweit der Beschwerdeführer im Zuschlagsverfahren nach § 11 ohne den Rechtsverstoß einen Zuschlag erhalten hätte. Die ausschreibende Stelle erteilt bei einem Rechtsbehelf nach Satz 1 über das nach § 3 bestimmte Ausschreibungsvolumen hinaus einen entsprechenden Zuschlag, soweit das Begehren des Rechtsbehelfsführers Erfolg hat und sobald die gerichtliche Entscheidung formell rechtskräftig ist. Im Übrigen bleibt der gerichtliche Rechtsschutz unberührt.
 
 (2) Die Erteilung eines Zuschlags hat unabhängig von einem Rechtsschutzverfahren Dritter nach Absatz 1 Bestand. Die Anfechtung eines Zuschlags durch Dritte ist nicht zulässig.
 
-
-## § 23 – Festlegungen
+# § 23 – Festlegungen
 
 Die ausschreibende Stelle darf Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes zu den Ausschreibungen für KWK-Anlagen und zu den Ausschreibungen für innovative KWK-Systeme treffen:
 
@@ -640,8 +614,7 @@ Die ausschreibende Stelle darf Festlegungen nach § 29 Absatz 1 des Energiewirts
 
 6. zur Höhe der Pönalen nach § 21 Absatz 1 Satz 1 Nummer 1 oder Nummer 2, wobei die Höhe der Strafzahlungen 18 Euro pro Kilowatt der im Gebot angegebenen Gebotsmenge nicht unterschreiten und 150 Euro pro Kilowatt der im Gebot angegebenen Gebotsmenge nicht überschreiten darf.
 
-
-## § 24 – Zulassung von innovativen KWK-Systemen
+# § 24 – Zulassung von innovativen KWK-Systemen
 
 (1) Voraussetzung für den Anspruch auf Zuschlagszahlung eines innovativen KWK-Systems ist die Zulassung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle. Die Zulassung ist beim Bundesamt für Wirtschaft und Ausfuhrkontrolle zu beantragen. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle erteilt die Zulassung, wenn
 
@@ -689,15 +662,13 @@ für jedes 15-Minuten-Intervall die eingesetzte und die erzeugte Strommenge,
 
 (+++ § 24 mit Ausnahme von Abs. 1 Satz 3 Nr. 2 Buchst. b und Nr. 5: Zur Anwendung vgl. § 7a Abs. 3 KWKG 2016 +++)
 
-
-## § 25 – Geöffnete ausländische Ausschreibungen
+# § 25 – Geöffnete ausländische Ausschreibungen
 
 Für Strom aus KWK-Anlagen im Bundesgebiet darf eine Zahlung nach dem geöffneten Fördersystem eines Kooperationsstaats nur in Anspruch genommen werden, wenn der Zahlungsanspruch durch Zuschlag in einer gemeinsamen grenzüberschreitenden oder geöffneten ausländischen Ausschreibung erteilt worden ist, die nach § 27 völkerrechtlich mit der Bundesrepublik Deutschland vereinbart worden ist. Die Zahlung darf nur nach Maßgabe der völkerrechtlichen Vereinbarung erfolgen.
 
 (+++ § 25: Zur Anwendung vgl. § 14 Abs. 1 +++)
 
-
-## § 26 – Anwendung des Kraft-Wärme-Kopplungsgesetzes im Kooperationsstaat
+# § 26 – Anwendung des Kraft-Wärme-Kopplungsgesetzes im Kooperationsstaat
 
 (1) Die Bestimmungen des Kraft-Wärme-Kopplungsgesetzes und dieser Verordnung sind auf Anlagen im Staatsgebiet eines Kooperationsstaats anzuwenden, soweit diese in einer Ausschreibung nach dieser Verordnung einen Zuschlag erhalten haben und sofern sich aus dieser Verordnung oder der völkerrechtlichen Vereinbarung nach § 27 nichts Abweichendes ergibt.
 
@@ -709,8 +680,7 @@ Für Strom aus KWK-Anlagen im Bundesgebiet darf eine Zahlung nach dem geöffnete
 
 (3) Der Anspruch auf Zuschlagszahlung nach § 19 Absatz 2 Satz 1 Nummer 1 in Verbindung mit § 8a des Kraft-Wärme-Kopplungsgesetzes besteht für KWK-Anlagen, die im Staatsgebiet des Kooperationsstaats über keinen direkten Anschluss an ein Netz im Bundesgebiet verfügen, gegenüber dem Übertragungsnetzbetreiber.
 
-
-## § 27 – Völkerrechtliche Vereinbarung
+# § 27 – Völkerrechtliche Vereinbarung
 
 (1) Eine Zuschlagszahlung für KWK-Anlagen im Staatsgebiet eines anderen Mitgliedstaats der Europäischen Union darf nur mit der Zustimmung dieses Mitgliedstaats und nach Maßgabe dieser Zustimmung erfolgen.
 
@@ -790,8 +760,7 @@ e) eine elektrische Leistung von höchstens 50 Megawatt aufweist und
 
 6. der Betreiber der KWK-Anlage eine Eigenerklärung gegenüber dem zuständigen Netzbetreiber abzugeben hat, dass die gesamte Einspeiseleistung der KWK-Anlage jederzeit durch den Netzbetreiber ferngesteuert reduziert werden kann.
 
-
-## § 28 – Evaluierung
+# § 28 – Evaluierung
 
 (1) Das Bundesministerium für Wirtschaft und Energie stellt im Jahr 2021 im Rahmen der Evaluierung nach § 34 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes den Stand der Dekarbonisierung der Wärmenetze fest und prüft im Rahmen der Ausschreibungen für innovative KWK-Systeme geeignete Maßnahmen zur stärkeren Einbeziehung der Biomasse zur Optimierung von Systemen mit größeren Anteilen erneuerbarer Wärme, um eine weitergehende Dekarbonisierung zu erzielen.
 

@@ -1,17 +1,13 @@
-# [SozSichVoRV] Verordnung über die Gewährung diplomatischer Vorrechte und Immunitäten im Bereich der Sozialen Sicherheit an durch zwischenstaatliche Vereinbarungen geschaffene Organisationen
-
-Ausfertigungsdatum: 05.08.1985
-
+% Verordnung über die Gewährung diplomatischer Vorrechte und Immunitäten im Bereich der Sozialen Sicherheit an durch zwischenstaatliche Vereinbarungen geschaffene Organisationen
+% Ausfertigungsdatum: 05.08.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen (BGBl. 1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August 1980 (BGBl. II S. 941) neu gefaßt wurde, und  
 des Artikels 3 des Gesetzes vom 16. August 1980 zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen (BGBl. 1980 II S. 941)  
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Die deutschen Rechtsvorschriften über die Versicherungspflicht in der gesetzlichen Kranken-, Unfall- und Rentenversicherung sowie über das Kindergeld und die Versicherungs- und Umlagepflicht nach dem Recht der Arbeitsförderung gelten vorbehaltlich der Absätze 2 und 3 nicht für durch zwischenstaatliche Vereinbarungen geschaffene Organisationen (Organisationen) und ihre im Geltungsbereich dieser Verordnung beschäftigten Bediensteten in bezug auf diese Beschäftigung,
 
@@ -23,25 +19,21 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 (3) Der Befreiung nach den Absätzen 1 und 2 gehen die Versicherungsfreiheit und die Befreiung von der Versicherungspflicht nach den Vorschriften der gesetzlichen Rentenversicherung vor.
 
-
-## § 2
+# § 2
 
 (1) Sind Pflichtbeiträge zur gesetzlichen Rentenversicherung für einen Zeitraum entrichtet worden, für den eine Versicherungspflicht auf Grund des § 1 nicht besteht, so sind diese Beiträge nach Maßgabe der Vorschriften für zu Unrecht entrichtete Beiträge zu erstatten. Sie sind, soweit eine Erstattung geltend gemacht wird, nach Konsultation mit der Organisation gemäß § 1 Abs. 1 Nr. 2 vorrangig zur Begründung oder Auffüllung von Anwartschaften des Bediensteten im Versorgungssystem der Organisation an diese auszuzahlen. Der Erstattungsanspruch verjährt abweichend von § 27 Abs. 2 des Vierten Buches Sozialgesetzbuch in vier Jahren nach Ablauf des Kalenderjahres, in dem die Erklärung nach § 1 Abs. 1 Nr. 2 oder, soweit erforderlich, das Einverständnis nach § 1 Abs. 2 abgegeben worden ist. Nicht erstattete Beiträge gelten, ohne daß es einer Beanstandung bedarf, als für die freiwillige Versicherung entrichtet, wenn das Recht dazu in der Zeit der Entrichtung bestand.
 
 (2) Pflichtbeiträge zur gesetzlichen Kranken- und Unfallversicherung sowie Beiträge und Umlagen nach dem Recht der Arbeitsförderung die für die Zeit vor Inkrafttreten dieser Verordnung nach § 5 Abs. 1 entrichtet worden sind, werden nicht erstattet.
 
-
-## § 3
+# § 3
 
 Den §§ 1 und 2 gehen die für einzelne Organisationen geltenden besonderen innerstaatlichen sowie über- und zwischenstaatlichen Regelungen vor.
 
-
-## § 4
+# § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 4 des in der Eingangsformel genannten Gesetzes vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl. II S. 187) neu gefaßt wurde, und Artikel 5 des in der Eingangsformel genannten Gesetzes vom 16. August 1980 auch im Land Berlin.
 
-
-## § 5
+# § 5
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tage nach der Verkündung in Kraft.
 

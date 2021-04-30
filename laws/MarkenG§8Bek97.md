@@ -1,10 +1,7 @@
-# [MarkenG§8Bek97] Bekanntmachung zu § 8 des Markengesetzes
-
-Ausfertigungsdatum: 10.03.1997
-
+% Bekanntmachung zu § 8 des Markengesetzes
+% Ausfertigungsdatum: 10.03.1997
  
-
-## ----
+# ----
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß die folgenden Kennzeichen
 
@@ -14,13 +11,11 @@ Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I
 
 3. Emblem und Siegel der Multilateralen Investitions-Garantie-Agentur (Anlage 3)
 
-von der Eintragung als Marke ausgeschlossen sind.  
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 27. August 1996 (BGBl. I S. 1358).
+von der Eintragung als Marke ausgeschlossen sind. Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 27. August 1996 (BGBl. I S. 1358).
 
 Bundesministerium der Justiz
 
-
-## Anlage 1 – Name, Abkürzung und Emblem der Internationalen Organisation für Auswanderung
+# Anlage 1 – Name, Abkürzung und Emblem der Internationalen Organisation für Auswanderung
 
 (Fundstelle: BGBl. I 1997, 552)
 
@@ -33,8 +28,7 @@ Emblem:
 
 (... nicht darstellbare Abbildung)
 
-
-## Anlage 2 – Flagge, Name und Abkürzung der Internationalen Fernmeldeunion sowie Namen und Abkürzungen ihrer drei Bereiche
+# Anlage 2 – Flagge, Name und Abkürzung der Internationalen Fernmeldeunion sowie Namen und Abkürzungen ihrer drei Bereiche
 
 (Fundstelle: BGBl. I 1997, 553)
 
@@ -92,8 +86,7 @@ Sector de Normalizacion de las Telecomunicaciones (UIT-T)
 Sector de Desarrollo de las Telecomunicaciones (UIT-D)  
 - spanisch -
 
-
-## Anlage 3 – Emblem und Siegel der Multilateralen Investitions-Garantie-Agentur
+# Anlage 3 – Emblem und Siegel der Multilateralen Investitions-Garantie-Agentur
 
 (Inhalt: nicht darstellbares Emblem und Siegel,
 

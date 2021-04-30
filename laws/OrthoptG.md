@@ -1,22 +1,17 @@
-# [OrthoptG] Gesetz über den Beruf der Orthoptistin und des Orthoptisten  (Orthoptistengesetz - OrthoptG)
-
-Ausfertigungsdatum: 28.11.1989
-
+% Gesetz über den Beruf der Orthoptistin und des Orthoptisten  (Orthoptistengesetz - OrthoptG)
+% Ausfertigungsdatum: 28.11.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) Wer die Berufsbezeichnung "Orthoptistin" oder "Orthoptist" führen will, bedarf der Erlaubnis.
 
 (2) Orthoptistinnen und Orthoptisten, die Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes sind, führen die Berufsbezeichnung nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
-## § 2
+# § 2
 
 (1) Die Erlaubnis nach § 1 ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -58,8 +53,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (7) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a
+# § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Orthoptisten ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte der zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des Orthoptisten auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind. Die Länder können zur Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 gemeinsame Stellen bestimmen.
 
@@ -67,8 +61,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Abs. 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 2b
+# § 2b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -100,18 +93,15 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 3
+# § 3
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs dazu befähigen, insbesondere bei der Prävention, Diagnose und Therapie von Störungen des ein- und beidäugigen Sehens bei Schielerkrankungen, Sehschwächen und Augenzittern mitzuwirken (Ausbildungsziel).
 
-
-## § 4
+# § 4
 
 Die Ausbildung besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung. Sie wird durch staatlich anerkannte Schulen für Orthoptisten an Krankenhäusern vermittelt. Die Ausbildung schließt mit der staatlichen Prüfung ab und dauert drei Jahre.
 
-
-## § 5
+# § 5
 
 Voraussetzung für den Zugang zur Ausbildung ist
 
@@ -119,8 +109,7 @@ Voraussetzung für den Zugang zur Ausbildung ist
 
 2. der Realschulabschluß oder eine gleichwertige Ausbildung oder eine andere abgeschlossene zehnjährige Schulbildung, die den Hauptschulabschluß erweitert, oder eine nach Hauptschulabschluß oder einem gleichwertigen Abschluß abgeschlossene Berufsausbildung von mindestens zweijähriger Dauer.
 
-
-## § 6
+# § 6
 
 Auf die Dauer der Ausbildung werden angerechnet
 
@@ -130,13 +119,11 @@ Auf die Dauer der Ausbildung werden angerechnet
 
 Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden, soweit eine besondere Härte vorliegt und das Ausbildungsziel durch die Anrechnung nicht gefährdet wird.
 
-
-## § 7
+# § 7
 
 Die zuständige Behörde kann auf Antrag eine andere Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung anrechnen, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
 
-
-## § 8
+# § 8
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten die Mindestanforderungen an die Ausbildung, das Nähere über die staatliche Prüfung und die Urkunde für die Erlaubnis nach § 1 zu regeln. In der Rechtsverordnung kann vorgesehen werden, daß bei der Zulassung zur staatlichen Prüfung eine außerhalb der Ausbildung erworbene, bestimmten Erfordernissen entsprechende Ausbildung in Erster Hilfe nachzuweisen ist.
 
@@ -156,8 +143,7 @@ Die zuständige Behörde kann auf Antrag eine andere Ausbildung im Umfang ihrer 
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 8a
+# § 8a
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Orthoptisten in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -189,18 +175,15 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
-## § 8b
+# § 8b
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden berechtigt, für jede Dienstleistungserbringung von den zuständigen Behörden des Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf Anforderung der zuständigen Behörden eines Vertragsstaates des Europäischen Wirtschaftsraumes haben die zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung und die gute Führung des Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
 
-
-## § 8c
+# § 8c
 
 Orthoptistinnen oder Orthoptisten im Sinne des § 8a haben beim Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
-## § 9
+# § 9
 
 (1) Die Entscheidung nach § 1 Abs. 1 trifft die zuständige Behörde des Landes, in dem der Antragsteller die Prüfung abgelegt hat.
 
@@ -208,15 +191,13 @@ Orthoptistinnen oder Orthoptisten im Sinne des § 8a haben beim Erbringen der Di
 
 (3) Die Meldung nach § 8a Abs. 2 und 3 nimmt die zuständige Behörde des Landes entgegen, in dem die Dienstleistung erbracht werden soll oder erbracht worden ist. Sie fordert die Informationen nach § 8b Satz 1 an. Die Informationen nach § 8b Satz 2 werden durch die zuständige Behörde des Landes übermittelt, in dem der Beruf des Orthoptisten ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung des Herkunftsmitgliedstaats gemäß § 8c erfolgt durch die zuständige Behörde des Landes, in dem die Dienstleistung erbracht wird oder erbracht worden ist. Die Bescheinigungen nach § 8a Abs. 4 stellt die zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf des Orthoptisten ausübt.
 
-
-## § 10
+# § 10
 
 (1) Ordnungswidrig handelt, wer ohne Erlaubnis nach § 1 die Berufsbezeichnung "Orthoptistin" oder "Orthoptist" führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 11
+# § 11
 
 (1) Eine auf Grund der in § 13 Satz 2 bezeichneten Bestimmungen erteilte staatliche Anerkennung als "Orthoptistin" oder "Orthoptist" gilt als Erlaubnis nach § 1.
 
@@ -226,20 +207,17 @@ Orthoptistinnen oder Orthoptisten im Sinne des § 8a haben beim Erbringen der Di
 
 (4) Wer beim Inkrafttreten dieses Gesetzes mindestens fünf Jahre Untersuchungen und Behandlungen von Sehschwächen, Schielerkrankungen und Nystagmus durchgeführt hat, erhält beim Vorliegen der Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 die Erlaubnis nach § 1, wenn er innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes die staatliche Prüfung nach diesem Gesetz ablegt.
 
-
-## § 11a
+# § 11a
 
 (1) Eine vor dem 1. September 1991 nach der Anordnung über die staatliche Erlaubnis zur Ausübung der medizinischen, pharmazeutischen und sozialen Fachschul- und Facharbeiterberufe vom 7. August 1980 (GBl. I Nr. 26 S. 254) erteilte Erlaubnis als Orthoptistin oder Orthoptist oder eine einer solchen Erlaubnis gleichgestellte Erlaubnis gilt als Erlaubnis nach § 1.
 
 (2) Eine vor dem 1. September 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begonnene Ausbildung als Orthoptistin oder Orthoptist kann in diesem Gebiet nach den dort bisher geltenden Regeln abgeschlossen werden. Nach Abschluß der Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
 
-
-## § 12 – (weggefallen)
+# § 12 – (weggefallen)
 
 \-
 
-
-## § 13
+# § 13
 
 Dieses Gesetz tritt mit Ausnahme des § 8 am 1. Januar 1990 in Kraft. Gleichzeitig treten außer Kraft:
 

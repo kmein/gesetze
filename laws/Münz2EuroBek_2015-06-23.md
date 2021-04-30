@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2015-06-23] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Hessen“)
-
-Ausfertigungsdatum: 23.06.2015
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Hessen“)
+% Ausfertigungsdatum: 23.06.2015
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „Hessen“ im Rahmen einer Serie „Bundesländer“ prägen zu lassen.
 
@@ -20,12 +17,10 @@ Die für den Umlauf bestimmte Auflage der Münze beträgt 30 Millionen Stück.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von dem Künstler Heinz Hoyer aus Berlin.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2015, 1106)

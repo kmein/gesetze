@@ -1,10 +1,7 @@
-# [EinigVtr] Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands  (Einigungsvertrag)
-
-Ausfertigungsdatum: 31.08.1990
-
+% Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands  (Einigungsvertrag)
+% Ausfertigungsdatum: 31.08.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Bundesrepublik Deutschland und die Deutsche Demokratische Republik -  
 entschlossen, die Einheit Deutschlands in Frieden und Freiheit als gleichberechtigtes Glied der Völkergemeinschaft in freier Selbstbestimmung zu vollenden,  
@@ -15,27 +12,23 @@ in dem Bestreben, durch die deutsche Einheit einen Beitrag zur Einigung Europas 
 in dem Bewußtsein, daß die Unverletzlichkeit der Grenzen und der territorialen Integrität und Souveränität aller Staaten in Europa in ihren Grenzen eine grundlegende Bedingung für den Frieden ist -  
 sind übereingekommen, einen Vertrag über die Herstellung der Einheit Deutschlands mit den nachfolgenden Bestimmungen zu schließen:
 
-
-## Art 1 – Länder
+# Art 1 – Länder
 
 (1) Mit dem Wirksamwerden des Beitritts der Deutschen Demokratischen Republik zur Bundesrepublik Deutschland gemäß Artikel 23 des Grundgesetzes am 3. Oktober 1990 werden die Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen Länder der Bundesrepublik Deutschland. Für die Bildung und die Grenzen dieser Länder untereinander sind die Bestimmungen des Verfassungsgesetzes zur Bildung von Ländern in der Deutschen Demokratischen Republik vom 22. Juli 1990 - Ländereinführungsgesetz - (GBl. I Nr. 51 S. 955) gemäß Anlage II maßgebend.
 
 (2) Die 23 Bezirke von Berlin bilden das Land Berlin.
 
-
-## Art 2 – Hauptstadt, Tag der Deutschen Einheit
+# Art 2 – Hauptstadt, Tag der Deutschen Einheit
 
 (1) Hauptstadt Deutschlands ist Berlin. Die Frage des Sitzes von Parlament und Regierung wird nach der Herstellung der Einheit Deutschlands entschieden.
 
 (2) Der 3. Oktober ist als Tag der Deutschen Einheit gesetzlicher Feiertag.
 
-
-## Art 3 – Inkrafttreten des Grundgesetzes
+# Art 3 – Inkrafttreten des Grundgesetzes
 
 Mit dem Wirksamwerden des Beitritts tritt das Grundgesetz für die Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 100-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz vom 21. Dezember 1983 (BGBl. I S. 1481), in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen sowie in dem Teil des Landes Berlin, in dem es bisher nicht galt, mit den sich aus Artikel 4 ergebenden Änderungen in Kraft, soweit in diesem Vertrag nichts anderes bestimmt ist.
 
-
-## Art 4 – Beitrittsbedingte Änderungen des Grundgesetzes
+# Art 4 – Beitrittsbedingte Änderungen des Grundgesetzes
 
 Das Grundgesetz für die Bundesrepublik Deutschland wird wie folgt geändert:
 
@@ -81,8 +74,7 @@ Die Deutschen in den Ländern Baden-Württemberg, Bayern, Berlin, Brandenburg, B
 
 Dieses Grundgesetz, das nach Vollendung der Einheit und Freiheit Deutschlands für das gesamte deutsche Volk gilt, verliert seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung beschlossen worden ist."
 
-
-## Art 5 – Künftige Verfassungsänderungen
+# Art 5 – Künftige Verfassungsänderungen
 
 Die Regierungen der beiden Vertragsparteien empfehlen den gesetzgebenden Körperschaften des vereinten Deutschlands, sich innerhalb von zwei Jahren mit den im Zusammenhang mit der deutschen Einigung aufgeworfenen Fragen zur Änderung oder Ergänzung des Grundgesetzes zu befassen, insbesondere
 
@@ -98,13 +90,11 @@ mit den Überlegungen zur Aufnahme von Staatszielbestimmungen in das Grundgesetz
 \-  
 mit der Frage der Anwendung des Artikels 146 des Grundgesetzes und in deren Rahmen einer Volksabstimmung.
 
-
-## Art 6 – Ausnahmebestimmung
+# Art 6 – Ausnahmebestimmung
 
 Artikel 131 des Grundgesetzes wird in dem in Artikel 3 genannten Gebiet vorerst nicht in Kraft gesetzt.
 
-
-## Art 7 – Finanzverfassung
+# Art 7 – Finanzverfassung
 
 (1) Die Finanzverfassung der Bundesrepublik Deutschland wird auf das in Artikel 3 genannte Gebiet erstreckt, soweit in diesem Vertrag nichts anderes bestimmt ist.
 
@@ -138,13 +128,11 @@ des durchschnittlichen Umsatzsteueranteils pro Einwohner in den Ländern Baden-W
 
 (6) Bei grundlegender Veränderung der Gegebenheiten werden die Möglichkeiten weiterer Hilfe zum angemessenen Ausgleich der Finanzkraft für die Länder in dem in Artikel 3 genannten Gebiet von Bund und Ländern gemeinsam geprüft.
 
-
-## Art 8 – Überleitung von Bundesrecht
+# Art 8 – Überleitung von Bundesrecht
 
 Mit dem Wirksamwerden des Beitritts tritt in dem in Artikel 3 genannten Gebiet Bundesrecht in Kraft, soweit es nicht in seinem Geltungsbereich auf bestimmte Länder oder Landesteile der Bundesrepublik Deutschland beschränkt ist und soweit durch diesen Vertrag, insbesondere dessen Anlage I, nichts anderes bestimmt wird.
 
-
-## Art 9 – Fortgeltendes Recht der Deutschen Demokratischen Republik
+# Art 9 – Fortgeltendes Recht der Deutschen Demokratischen Republik
 
 (1) Das im Zeitpunkt der Unterzeichnung dieses Vertrags geltende Recht der Deutschen Demokratischen Republik, das nach der Kompetenzordnung des Grundgesetzes Landesrecht ist, bleibt in Kraft, soweit es mit dem Grundgesetz ohne Berücksichtigung des Artikels 143, mit in dem in Artikel 3 genannten Gebiet in Kraft gesetztem Bundesrecht sowie mit dem unmittelbar geltenden Recht der Europäischen Gemeinschaften vereinbar ist und soweit in diesem Vertrag nichts anderes bestimmt wird. Recht der Deutschen Demokratischen Republik, das nach der Kompetenzordnung des Grundgesetzes Bundesrecht ist und das nicht bundeseinheitlich geregelte Gegenstände betrifft, gilt unter den Voraussetzungen des Satzes 1 bis zu einer Regelung durch den Bundesgesetzgeber als Landesrecht fort.
 
@@ -156,8 +144,7 @@ Mit dem Wirksamwerden des Beitritts tritt in dem in Artikel 3 genannten Gebiet B
 
 (5) Das gemäß Anlage II von der Deutschen Demokratischen Republik erlassene Kirchensteuerrecht gilt in den in Artikel 1 Abs. 1 genannten Ländern als Landesrecht fort.
 
-
-## Art 10 – Recht der Europäischen Gemeinschaften
+# Art 10 – Recht der Europäischen Gemeinschaften
 
 (1) Mit dem Wirksamwerden des Beitritts gelten in dem in Artikel 3 genannten Gebiet die Verträge über die Europäischen Gemeinschaften nebst Änderungen und Ergänzungen sowie die internationalen Vereinbarungen, Verträge und Beschlüsse, die in Verbindung mit diesen Verträgen in Kraft getreten sind.
 
@@ -165,13 +152,11 @@ Mit dem Wirksamwerden des Beitritts tritt in dem in Artikel 3 genannten Gebiet B
 
 (3) Rechtsakte der Europäischen Gemeinschaften, deren Umsetzung oder Ausführung in die Zuständigkeit der Länder fällt, sind von diesen durch landesrechtliche Vorschriften umzusetzen oder auszuführen.
 
-
-## Art 11 – Verträge der Bundesrepublik Deutschland
+# Art 11 – Verträge der Bundesrepublik Deutschland
 
 Die Vertragsparteien gehen davon aus, daß völkerrechtliche Verträge und Vereinbarungen, denen die Bundesrepublik Deutschland als Vertragspartei angehört, einschließlich solcher Verträge, die Mitgliedschaften in internationalen Organisationen oder Institutionen begründen, ihre Gültigkeit behalten und die daraus folgenden Rechte und Verpflichtungen sich mit Ausnahme der in Anlage I genannten Verträge auch auf das in Artikel 3 genannte Gebiet beziehen. Soweit im Einzelfall Anpassungen erforderlich werden, wird sich die gesamtdeutsche Regierung mit den jeweiligen Vertragspartnern ins Benehmen setzen.
 
-
-## Art 12 – Verträge der Deutschen Demokratischen Republik
+# Art 12 – Verträge der Deutschen Demokratischen Republik
 
 (1) Die Vertragsparteien sind sich einig, daß die völkerrechtlichen Verträge der Deutschen Demokratischen Republik im Zuge der Herstellung der Einheit Deutschlands unter den Gesichtspunkten des Vertrauensschutzes, der Interessenlage der beteiligten Staaten und der vertraglichen Verpflichtungen der Bundesrepublik Deutschland sowie nach den Prinzipien einer freiheitlichen, demokratischen und rechtsstaatlichen Grundordnung und unter Beachtung der Zuständigkeiten der Europäischen Gemeinschaften mit den Vertragspartnern der Deutschen Demokratischen Republik zu erörtern sind, um ihre Fortgeltung, Anpassung oder ihr Erlöschen zu regeln beziehungsweise festzustellen.
 
@@ -179,8 +164,7 @@ Die Vertragsparteien gehen davon aus, daß völkerrechtliche Verträge und Verei
 
 (3) Beabsichtigt das vereinte Deutschland, in internationale Organisationen oder in sonstige mehrseitige Verträge einzutreten, denen die Deutsche Demokratische Republik, nicht aber die Bundesrepublik Deutschland angehört, so wird Einvernehmen mit den jeweiligen Vertragspartnern und mit den Europäischen Gemeinschaften, soweit deren Zuständigkeiten berührt sind, hergestellt.
 
-
-## Art 13 – Übergang von Einrichtungen
+# Art 13 – Übergang von Einrichtungen
 
 (1) Verwaltungsorgane und sonstige der öffentlichen Verwaltung oder Rechtspflege dienende Einrichtungen in dem in Artikel 3 genannten Gebiet unterstehen der Regierung des Landes, in dem sie örtlich gelegen sind. Einrichtungen mit länderübergreifendem Wirkungskreis gehen in die gemeinsame Trägerschaft der betroffenen Länder über. Soweit Einrichtungen aus mehreren Teileinrichtungen bestehen, die ihre Aufgaben selbständig erfüllen können, unterstehen die Teileinrichtungen jeweils der Regierung des Landes, in dem sich die Teileinrichtung befindet. Die Landesregierung regelt die Überführung oder Abwicklung. § 22 des Ländereinführungsgesetzes vom 22. Juli 1990 bleibt unberührt.
 
@@ -194,15 +178,13 @@ Die Vertragsparteien gehen davon aus, daß völkerrechtliche Verträge und Verei
 
 deren Rechtsträger die öffentliche Verwaltung ist.
 
-
-## Art 14 – Gemeinsame Einrichtungen der Länder
+# Art 14 – Gemeinsame Einrichtungen der Länder
 
 (1) Einrichtungen oder Teile von Einrichtungen, die bis zum Wirksamwerden des Beitritts Aufgaben erfüllt haben, die nach der Kompetenzordnung des Grundgesetzes von den Ländern wahrzunehmen sind, werden bis zur endgültigen Regelung durch die in Artikel 1 Abs. 1 genannten Länder als gemeinsame Einrichtungen der Länder weitergeführt. Dies gilt nur, soweit die übergangsweise Weiterführung für die Erfüllung der Aufgaben der Länder unerläßlich ist.
 
 (2) Die gemeinsamen Einrichtungen der Länder unterstehen bis zur Wahl der Ministerpräsidenten der Länder den Landesbevollmächtigten. Danach unterstehen sie den Ministerpräsidenten. Diese können die Aufsicht dem zuständigen Landesminister übertragen.
 
-
-## Art 15 – Übergangsregelungen für die Landesverwaltung
+# Art 15 – Übergangsregelungen für die Landesverwaltung
 
 (1) Die Landessprecher in den in Artikel 1 Abs. 1 genannten Ländern und die Regierungsbevollmächtigten in den Bezirken nehmen ihre bisherigen Aufgaben vom Wirksamwerden des Beitritts bis zur Wahl der Ministerpräsidenten in der Verantwortung der Bundesregierung wahr und unterstehen deren Weisungen. Die Landessprecher leiten als Landesbevollmächtigte die Verwaltung ihres Landes und haben ein Weisungsrecht gegenüber den Bezirksverwaltungsbehörden sowie bei übertragenen Aufgaben auch gegenüber den Gemeinden und Landkreisen. Soweit in den in Artikel 1 Abs. 1 genannten Ländern bis zum Wirksamwerden des Beitritts Landesbeauftragte bestellt worden sind, nehmen sie die in den Sätzen 1 und 2 genannten Aufgaben und Befugnisse des Landessprechers wahr.
 
@@ -212,30 +194,25 @@ deren Rechtsträger die öffentliche Verwaltung ist.
 
 (4) Soweit der Bund Verwaltungshilfe bei der Durchführung von Fachaufgaben leistet, stellt er auch die zur Durchführung der Fachaufgaben erforderlichen Haushaltsmittel zur Verfügung. Die eingesetzten Haushaltsmittel werden mit dem Anteil des jeweiligen Landes an den Leistungen des Fonds "Deutsche Einheit" oder an der Einfuhr-Umsatzsteuer verrechnet.
 
-
-## Art 16 – Übergangsvorschrift bis zur Bildung einer gesamtberliner Landesregierung
+# Art 16 – Übergangsvorschrift bis zur Bildung einer gesamtberliner Landesregierung
 
 Bis zur Bildung einer gesamtberliner Landesregierung nimmt der Senat von Berlin gemeinsam mit dem Magistrat die Aufgaben der gesamtberliner Landesregierung wahr.
 
-
-## Art 17 – Rehabilitierung
+# Art 17 – Rehabilitierung
 
 Die Vertragsparteien bekräftigen ihre Absicht, daß unverzüglich eine gesetzliche Grundlage dafür geschaffen wird, daß alle Personen rehabilitiert werden können, die Opfer einer politisch motivierten Strafverfolgungsmaßnahme oder sonst einer rechtsstaats- und verfassungswidrigen gerichtlichen Entscheidung geworden sind. Die Rehabilitierung dieser Opfer des SED-Unrechts-Regimes ist mit einer angemessenen Entschädigungsregelung zu verbinden.
 
-
-## Art 18 – Fortgeltung gerichtlicher Entscheidungen
+# Art 18 – Fortgeltung gerichtlicher Entscheidungen
 
 (1) Vor dem Wirksamwerden des Beitritts ergangene Entscheidungen der Gerichte der Deutschen Demokratischen Republik bleiben wirksam und können nach Maßgabe des gemäß Artikel 8 in Kraft gesetzten oder des gemäß Artikel 9 fortgeltenden Rechts vollstreckt werden. Nach diesem Recht richtet sich auch eine Überprüfung der Vereinbarkeit von Entscheidungen und ihrer Vollstreckung mit rechtsstaatlichen Grundsätzen. Artikel 17 bleibt unberührt.
 
 (2) (nicht mehr anzuwenden)
 
-
-## Art 19 – Fortgeltung von Entscheidungen der öffentlichen Verwaltung
+# Art 19 – Fortgeltung von Entscheidungen der öffentlichen Verwaltung
 
 Vor dem Wirksamwerden des Beitritts ergangene Verwaltungsakte der Deutschen Demokratischen Republik bleiben wirksam. Sie können aufgehoben werden, wenn sie mit rechtsstaatlichen Grundsätzen oder mit den Regelungen dieses Vertrags unvereinbar sind. Im übrigen bleiben die Vorschriften über die Bestandskraft von Verwaltungsakten unberührt.
 
-
-## Art 20 – Rechtsverhältnisse im öffentlichen Dienst
+# Art 20 – Rechtsverhältnisse im öffentlichen Dienst
 
 (1) Für die Rechtsverhältnisse der Angehörigen des öffentlichen Dienstes zum Zeitpunkt des Beitritts gelten die in Anlage I vereinbarten Übergangsregelungen.
 
@@ -243,8 +220,7 @@ Vor dem Wirksamwerden des Beitritts ergangene Verwaltungsakte der Deutschen Demo
 
 (3) Das Soldatenrecht wird nach Maßgabe der in Anlage I vereinbarten Regelungen eingeführt.
 
-
-## Art 21 – Verwaltungsvermögen
+# Art 21 – Verwaltungsvermögen
 
 (1) Das Vermögen der Deutschen Demokratischen Republik, das unmittelbar bestimmten Verwaltungsaufgaben dient (Verwaltungsvermögen), wird Bundesvermögen, sofern es nicht nach seiner Zweckbestimmung am 1. Oktober 1989 überwiegend für Verwaltungsaufgaben bestimmt war, die nach dem Grundgesetz von Ländern, Gemeinden (Gemeindeverbänden) oder sonstigen Trägern öffentlicher Verwaltung wahrzunehmen sind. Soweit Verwaltungsvermögen überwiegend für Aufgaben des ehemaligen Ministeriums für Staatssicherheit/des Amtes für Nationale Sicherheit genutzt wurde, steht es der Treuhandanstalt zu, es sei denn, daß es nach dem genannten Zeitpunkt bereits neuen sozialen oder öffentlichen Zwecken zugeführt worden ist.
 
@@ -256,8 +232,7 @@ Vor dem Wirksamwerden des Beitritts ergangene Verwaltungsakte der Deutschen Demo
 
 (+++ Art. 21 Abs. 3: Zur Anwendung vgl. § 4 G 105-21 v. 23.6.1993 I 944, 989 +++)
 
-
-## Art 22 – Finanzvermögen
+# Art 22 – Finanzvermögen
 
 (1) Öffentliches Vermögen von Rechtsträgern in dem in Artikel 3 genannten Gebiet einschließlich des Grundvermögens und des Vermögens in der Land- und Forstwirtschaft, das nicht unmittelbar bestimmten Verwaltungsaufgaben dient (Finanzvermögen), ausgenommen Vermögen der Sozialversicherung, unterliegt, soweit es nicht der Treuhandanstalt übertragen ist, oder durch Gesetz gemäß § 1 Abs. 1 Sätze 2 und 3 des Treuhandgesetzes Gemeinden, Städten oder Landkreisen übertragen wird, mit Wirksamwerden des Beitritts der Treuhandverwaltung des Bundes. Soweit Finanzvermögen überwiegend für Aufgaben des ehemaligen Ministeriums für Staatssicherheit/des Amtes für Nationale Sicherheit genutzt wurde, steht es der Treuhandanstalt zu, es sei denn, daß es nach dem 1. Oktober 1989 bereits neuen sozialen oder öffentlichen Zwecken zugeführt worden ist. Durch Bundesgesetz ist das Finanzvermögen auf den Bund und die in Artikel 1 genannten Länder so aufzuteilen, daß der Bund und die in Artikel 1 genannten Länder je die Hälfte des Vermögensgesamtwerts erhalten. An dem Länderanteil sind die Gemeinden (Gemeindeverbände) angemessen zu beteiligen. Vermögenswerte, die hiernach der Bund erhält, sind zur Erfüllung öffentlicher Aufgaben in dem in Artikel 3 genannten Gebiet zu verwenden. Die Verteilung des Länderanteils auf die einzelnen Länder soll grundsätzlich so erfolgen, daß das Verhältnis der Gesamtwerte der den einzelnen Ländern übertragenen Vermögensteile dem Verhältnis der Bevölkerungszahlen dieser Länder mit Wirksamwerden des Beitritts ohne Berücksichtigung der Einwohnerzahl von Berlin (West) entspricht. Artikel 21 Abs. 3 ist entsprechend anzuwenden.
 
@@ -270,8 +245,7 @@ Vor dem Wirksamwerden des Beitritts ergangene Verwaltungsakte der Deutschen Demo
 (+++ Art. 22 Abs. 1 Satz 7 und Abs. 4: Zur Anwendung vgl. § 4 G 105-21 v. 23.6.1993 I 944, 989 +++)  
 Art. 22 Abs. 1 Satz 7 iVm Art. 21 Abs. 3 Halbsatz 1: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 11.3.1997 I 1340 (2 BvF 2/95)
 
-
-## Art 23 – Schuldenregelung
+# Art 23 – Schuldenregelung
 
 (1) Mit dem Wirksamwerden des Beitritts wird die bis zu diesem Zeitpunkt aufgelaufene Gesamtverschuldung des Republikhaushalts der Deutschen Demokratischen Republik von einem nicht rechtsfähigen Sondervermögen des Bundes übernommen, das die Schuldendienstverpflichtungen erfüllt. Das Sondervermögen wird ermächtigt, Kredite aufzunehmen
 
@@ -293,8 +267,7 @@ Art. 22 Abs. 1 Satz 7 iVm Art. 21 Abs. 3 Halbsatz 1: Nach Maßgabe der Entscheid
 
 (7) Die Beteiligung der Deutschen Demokratischen Republik an der Staatsbank Berlin kann auf die in Artikel 1 genannten Länder übertragen werden. Bis zu einer Übertragung der Beteiligung nach Satz 1 oder einer Übertragung nach Satz 3 stehen die Rechte aus der Beteiligung der Deutschen Demokratischen Republik an der Staatsbank Berlin dem Bund zu. Die Vertragsparteien werden, unbeschadet einer kartellrechtlichen Prüfung, die Möglichkeit vorsehen, daß die Staatsbank Berlin ganz oder teilweise auf ein öffentlich-rechtliches Kreditinstitut in der Bundesrepublik Deutschland oder auf andere Rechtsträger übertragen wird. Werden nicht alle Gegenstände oder Verbindlichkeiten von einer Übertragung erfaßt, ist der verbleibende Teil der Staatsbank Berlin abzuwickeln. Der Bund tritt in die Verbindlichkeiten aus der Gewährträgerhaftung der Deutschen Demokratischen Republik für die Staatsbank Berlin ein. Dies gilt nicht für Verbindlichkeiten, die nach der Übertragung der Beteiligung nach Satz 1 oder nach einer Übertragung nach Satz 3 begründet werden. Satz 5 gilt für von der Staatsbank Berlin in Abwicklung begründete neue Verbindlichkeiten entsprechend. Wird der Bund aus der Gewährträgerhaftung in Anspruch genommen, wird die Belastung in die Gesamtverschuldung des Republikhaushalts einbezogen und mit Wirksamwerden des Beitritts in das nicht rechtsfähige Sondervermögen nach Absatz 1 übernommen.
 
-
-## Art 24 – Abwicklung der Forderungen und Verbindlichkeiten gegenüber dem Ausland und der Bundesrepublik Deutschland
+# Art 24 – Abwicklung der Forderungen und Verbindlichkeiten gegenüber dem Ausland und der Bundesrepublik Deutschland
 
 (1) Die Abwicklung der beim Wirksamwerden des Beitritts noch bestehenden Forderungen und Verbindlichkeiten, soweit sie im Rahmen des Außenhandels- und Valutamonopols oder in Wahrnehmung anderer staatlicher Aufgaben der Deutschen Demokratischen Republik bis zum 1. Juli 1990 gegenüber dem Ausland und der Bundesrepublik Deutschland begründet worden sind, erfolgt auf Weisung und unter Aufsicht des Bundesministers der Finanzen. In Umschuldungsvereinbarungen der Regierung der Bundesrepublik Deutschland, die nach Wirksamwerden des Beitritts getroffen werden, sind auch die in Satz 1 genannten Forderungen einzubeziehen. Die betroffenen Forderungen werden durch den Bundesminister der Finanzen treuhänderisch verwaltet oder auf den Bund übertragen, soweit die Forderungen wertberichtigt werden.
 
@@ -302,8 +275,7 @@ Art. 22 Abs. 1 Satz 7 iVm Art. 21 Abs. 3 Halbsatz 1: Nach Maßgabe der Entscheid
 
 (3) Forderungen und Verbindlichkeiten, die auf die Mitgliedschaft der Deutschen Demokratischen Republik oder ihrer Einrichtungen im Rat für Gegenseitige Wirtschaftshilfe zurückgehen, können Gegenstand gesonderter Regelungen der Bundesrepublik Deutschland sein. Diese Regelungen können auch Forderungen und Verbindlichkeiten betreffen, die nach dem 30. Juni 1990 entstehen oder entstanden sind.
 
-
-## Art 25 – Treuhandvermögen
+# Art 25 – Treuhandvermögen
 
 Das Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens - Treuhandgesetz - vom 17. Juni 1990 (GBl. I Nr. 33 S. 300) gilt mit Wirksamwerden des Beitritts mit folgender Maßgabe fort:
 
@@ -321,8 +293,7 @@ Das Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens - T
 
 (7) Bis zur Feststellung der DM-Eröffnungsbilanz sind die Zins- und Tilgungsleistungen auf Kredite, die vor dem 30. Juni 1990 aufgenommen wurden, auszusetzen. Die anfallenden Zinszahlungen sind der Deutschen Kreditbank AG und den anderen Banken durch die Treuhandanstalt zu erstatten.
 
-
-## Art 26 – Sondervermögen Deutsche Reichsbahn
+# Art 26 – Sondervermögen Deutsche Reichsbahn
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte der Deutschen Demokratischen Republik sowie das Reichsvermögen in Berlin (West), die zum Sondervermögen Deutsche Reichsbahn im Sinne des Artikels 26 Abs. 2 des Vertrags vom 18. Mai 1990 gehören, sind mit Wirksamwerden des Beitritts als Sondervermögen Deutsche Reichsbahn Vermögen der Bundesrepublik Deutschland. Dazu gehören auch alle Vermögensrechte, die nach dem 8. Mai 1945 entweder mit Mitteln des Sondervermögens Deutsche Reichsbahn erworben oder die ihrem Betrieb oder dem ihrer Vorgängerverwaltungen gewidmet worden sind, ohne Rücksicht darauf, für welchen Rechtsträger sie erworben wurden, es sei denn, sie sind in der Folgezeit mit Zustimmung der Deutschen Reichsbahn einem anderen Zweck gewidmet worden. Vermögensrechte, die von der Deutschen Reichsbahn bis zum 31. Januar 1991 in entsprechender Anwendung des § 1 Abs. 4 der Verordnung über die Anmeldung vermögensrechtlicher Ansprüche vom 11. Juli 1990 (GBl. I Nr. 44 S. 718) benannt werden, gelten nicht als Vermögen, das mit Zustimmung der Deutschen Reichsbahn einem anderen Zweck gewidmet wurde.
 
@@ -330,15 +301,13 @@ Das Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens - T
 
 (3) Der Vorsitzer des Vorstands der Deutschen Bundesbahn und der Vorsitzer des Vorstands der Deutschen Reichsbahn sind für die Koordinierung der beiden Sondervermögen verantwortlich. Dabei haben sie auf das Ziel hinzuwirken, die beiden Bahnen technisch und organisatorisch zusammenzuführen.
 
-
-## Art 27 – Sondervermögen Deutsche Post
+# Art 27 – Sondervermögen Deutsche Post
 
 (1) Das Eigentum und alle sonstigen Vermögensrechte, die zum Sondervermögen Deutsche Post gehören, werden Vermögen der Bundesrepublik Deutschland. Sie werden mit dem Sondervermögen Deutsche Bundespost vereinigt. Dabei gehen mit den Vermögensrechten gleichzeitig die mit ihnen im Zusammenhang stehenden Verbindlichkeiten und Forderungen auf das Sondervermögen Deutsche Bundespost über. Das den hoheitlichen und politischen Zwecken dienende Vermögen wird mit den entsprechenden Verbindlichkeiten und Forderungen nicht Bestandteil des Sondervermögens Deutsche Bundespost. Zum Sondervermögen Deutsche Post gehören auch alle Vermögensrechte, die am 8. Mai 1945 zum Sondervermögen Deutsche Reichspost gehörten oder die nach dem 8. Mai 1945 entweder mit Mitteln des früheren Sondervermögens Deutsche Reichspost erworben oder die dem Betrieb der Deutschen Post gewidmet worden sind, ohne Rücksicht darauf, für welchen Rechtsträger sie erworben wurden, es sei denn, sie sind in der Folgezeit mit Zustimmung der Deutschen Post einem anderen Zweck gewidmet worden. Vermögensrechte, die von der Deutschen Post bis zum 31. Januar 1991 in entsprechender Anwendung des § 1 Abs. 4 der Verordnung über die Anmeldung vermögensrechtlicher Ansprüche vom 11. Juli 1990 benannt werden, gelten nicht als Vermögen, das mit Zustimmung der Deutschen Post einem anderen Zweck gewidmet wurde.
 
 (2) Der Bundesminister für Post und Telekommunikation regelt nach Anhörung der Unternehmen der Deutschen Bundespost abschließend die Aufteilung des Sondervermögens Deutsche Post in die Teilsondervermögen der drei Unternehmen. Der Bundesminister für Post und Telekommunikation legt nach Anhörung der drei Unternehmen der Deutschen Bundespost innerhalb einer Übergangszeit von drei Jahren fest, welche Vermögensgegenstände den hoheitlichen und politischen Zwecken dienen. Er übernimmt diese ohne Wertausgleich.
 
-
-## Art 28 – Wirtschaftsförderung
+# Art 28 – Wirtschaftsförderung
 
 (1) Mit Wirksamwerden des Beitritts wird das in Artikel 3 genannte Gebiet in die im Bundesgebiet bestehenden Regelungen des Bundes zur Wirtschaftsförderung unter Berücksichtigung der Zuständigkeiten der Europäischen Gemeinschaften einbezogen. Während einer Übergangszeit werden dabei die besonderen Bedürfnisse der Strukturanpassung berücksichtigt. Damit wird ein wichtiger Beitrag zu einer möglichst raschen Entwicklung einer ausgewogenen Wirtschaftsstruktur unter besonderer Berücksichtigung des Mittelstands geleistet.
 
@@ -359,15 +328,13 @@ Maßnahmen zur verstärkten Modernisierung und strukturellen Neuordnung der Wirt
 \-  
 Entschuldung von Unternehmen nach Einzelfallprüfung.
 
-
-## Art 29 – Außenwirtschaftsbeziehungen
+# Art 29 – Außenwirtschaftsbeziehungen
 
 (1) Die gewachsenen außenwirtschaftlichen Beziehungen der Deutschen Demokratischen Republik, insbesondere die bestehenden vertraglichen Verpflichtungen gegenüber den Ländern des Rates für Gegenseitige Wirtschaftshilfe, genießen Vertrauensschutz. Sie werden unter Berücksichtigung der Interessen aller Beteiligten und unter Beachtung marktwirtschaftlicher Grundsätze sowie der Zuständigkeiten der Europäischen Gemeinschaften fortentwickelt und ausgebaut. Die gesamtdeutsche Regierung wird dafür Sorge tragen, daß diese Beziehungen im Rahmen der fachlichen Zuständigkeit organisatorisch angemessen geregelt werden.
 
 (2) Die Bundesregierung beziehungsweise die gesamtdeutsche Regierung wird sich mit den zuständigen Organen der Europäischen Gemeinschaften darüber abstimmen, welche Ausnahmeregelungen für eine Übergangszeit auf dem Gebiet des Außenhandels im Hinblick auf Absatz 1 erforderlich sind.
 
-
-## Art 30 – Arbeit und Soziales
+# Art 30 – Arbeit und Soziales
 
 (1) Es ist Aufgabe des gesamtdeutschen Gesetzgebers,
 
@@ -391,8 +358,7 @@ Im übrigen soll die Überleitung von der Zielsetzung bestimmt sein, mit der Ang
 
 (6) Bei der Fortentwicklung der Berufskrankheitenverordnung ist zu prüfen, inwieweit die bisher in dem in Artikel 3 des Vertrags genannten Gebiet geltenden Regelungen berücksichtigt werden können.
 
-
-## Art 31 – Familie und Frauen
+# Art 31 – Familie und Frauen
 
 (1) Es ist Aufgabe des gesamtdeutschen Gesetzgebers, die Gesetzgebung zur Gleichberechtigung zwischen Männern und Frauen weiterzuentwickeln.
 
@@ -402,27 +368,23 @@ Im übrigen soll die Überleitung von der Zielsetzung bestimmt sein, mit der Ang
 
 (4) Es ist Aufgabe des gesamtdeutschen Gesetzgebers, spätestens bis zum 31. Dezember 1992 eine Regelung zu treffen, die den Schutz vorgeburtlichen Lebens und die verfassungskonforme Bewältigung von Konfliktsituationen schwangerer Frauen vor allem durch rechtlich gesicherte Ansprüche für Frauen, insbesondere auf Beratung und soziale Hilfen, besser gewährleistet, als dies in beiden Teilen Deutschlands derzeit der Fall ist. Zur Verwirklichung dieser Ziele wird in dem in Artikel 3 genannten Gebiet mit finanzieller Hilfe des Bundes unverzüglich ein flächendeckendes Netz von Beratungsstellen verschiedener Träger aufgebaut. Die Beratungsstellen sind personell und finanziell so auszustatten, daß sie ihrer Aufgabe gerecht werden können, schwangere Frauen zu beraten und ihnen notwendige Hilfen - auch über den Zeitpunkt der Geburt hinaus - zu leisten. Kommt eine Regelung in der in Satz 1 genannten Frist nicht zustande, gilt das materielle Recht in dem in Artikel 3 genannten Gebiet weiter.
 
-
-## Art 32 – Freie gesellschaftliche Kräfte
+# Art 32 – Freie gesellschaftliche Kräfte
 
 Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien Jugendhilfe leisten mit ihren Einrichtungen und Diensten einen unverzichtbaren Beitrag zur Sozialstaatlichkeit des Grundgesetzes. Der Auf- und Ausbau einer Freien Wohlfahrtspflege und einer Freien Jugendhilfe in dem in Artikel 3 genannten Gebiet wird im Rahmen der grundgesetzlichen Zuständigkeiten gefördert.
 
-
-## Art 33 – Gesundheitswesen
+# Art 33 – Gesundheitswesen
 
 (1) Es ist Aufgabe der Gesetzgeber, die Voraussetzungen dafür zu schaffen, daß das Niveau der stationären Versorgung der Bevölkerung in dem in Artikel 3 genannten Gebiet zügig und nachhaltig verbessert und der Situation im übrigen Bundesgebiet angepaßt wird.
 
 (2) Zur Vermeidung von Defiziten bei den Arzneimittelausgaben der Krankenversicherung in dem in Artikel 3 genannten Gebiet trifft der gesamtdeutsche Gesetzgeber eine zeitlich befristete Regelung, durch die der Herstellerabgabepreis im Sinne der Arzneimittelpreisverordnung um einen Abschlag verringert wird, der dem Abstand zwischen den beitragspflichtigen Einkommen in dem in Artikel 3 genannten Gebiet und im heutigen Bundesgebiet entspricht.
 
-
-## Art 34 – Umweltschutz
+# Art 34 – Umweltschutz
 
 (1) Ausgehend von der in Artikel 16 des Vertrags vom 18. Mai 1990 in Verbindung mit dem Umweltrahmengesetz der Deutschen Demokratischen Republik vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) begründeten deutschen Umweltunion ist es Aufgabe der Gesetzgeber, die natürlichen Lebensgrundlagen des Menschen unter Beachtung des Vorsorge-, Verursacher- und Kooperationsprinzips zu schützen und die Einheitlichkeit der ökologischen Lebensverhältnisse auf hohem, mindestens jedoch dem in der Bundesrepublik Deutschland erreichten Niveau zu fördern.
 
 (2) Zur Förderung des in Absatz 1 genannten Ziels sind im Rahmen der grundgesetzlichen Zuständigkeitsregelungen ökologische Sanierungs- und Entwicklungsprogramme für das in Artikel 3 genannte Gebiet aufzustellen. Vorrangig sind Maßnahmen zur Abwehr von Gefahren für die Gesundheit der Bevölkerung vorzusehen.
 
-
-## Art 35 – Kultur
+# Art 35 – Kultur
 
 (1) In den Jahren der Teilung waren Kunst und Kultur - trotz unterschiedlicher Entwicklung der beiden Staaten in Deutschland - eine Grundlage der fortbestehenden Einheit der deutschen Nation. Sie leisten im Prozeß der staatlichen Einheit der Deutschen auf dem Weg zur europäischen Einigung einen eigenständigen und unverzichtbaren Beitrag. Stellung und Ansehen eines vereinten Deutschlands in der Welt hängen außer von seinem politischen Gewicht und seiner wirtschaftlichen Leistungskraft ebenso von seiner Bedeutung als Kulturstaat ab. Vorrangiges Ziel der Auswärtigen Kulturpolitik ist der Kulturaustausch auf der Grundlage partnerschaftlicher Zusammenarbeit.
 
@@ -438,8 +400,7 @@ Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien Jugendhilfe
 
 (7) Zum Ausgleich der Auswirkungen der Teilung Deutschlands kann der Bund übergangsweise zur Förderung der kulturellen Infrastruktur einzelne kulturelle Maßnahmen und Einrichtungen in dem in Artikel 3 genannten Gebiet mitfinanzieren.
 
-
-## Art 36 – Rundfunk
+# Art 36 – Rundfunk
 
 (1) Der "Rundfunk der DDR" und der "Deutsche Fernsehfunk" werden als gemeinschaftliche staatsunabhängige, rechtsfähige Einrichtung von den in Artikel 1 Abs. 1 genannten Ländern und dem Land Berlin für den Teil, in dem das Grundgesetz bisher nicht galt, bis spätestens 31. Dezember 1991 weitergeführt, soweit sie Aufgaben wahrnehmen, für die die Zuständigkeit der Länder gegeben ist. Die Einrichtung hat die Aufgabe, die Bevölkerung in dem in Artikel 3 genannten Gebiet nach den allgemeinen Grundsätzen des öffentlichen-rechtlichen Rundfunks mit Hörfunk und Fernsehen zu versorgen. Die bisher der Deutschen Post zugehörige Studiotechnik sowie die der Produktion und der Verwaltung des Rundfunks und des Fernsehens dienenden Liegenschaften werden der Einrichtung zugeordnet. Artikel 21 gilt entsprechend.
 
@@ -459,8 +420,7 @@ Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien Jugendhilfe
 
 (7) Mit Inkraftsetzung des Staatsvertrags nach Absatz 6, spätestens am 31. Dezember 1991, treten die Absätze 1 bis 6 außer Kraft.
 
-
-## Art 37 – Bildung
+# Art 37 – Bildung
 
 (1) In der Deutschen Demokratischen Republik erworbene oder staatlich anerkannte schulische, berufliche und akademische Abschlüsse oder Befähigungsnachweise gelten in dem in Artikel 3 genannten Gebiet weiter. In dem in Artikel 3 genannten Gebiet oder in den anderen Ländern der Bundesrepublik Deutschland einschließlich Berlin (West) abgelegte Prüfungen oder erworbene Befähigungsnachweise stehen einander gleich und verleihen die gleichen Berechtigungen, wenn sie gleichwertig sind. Die Gleichwertigkeit wird auf Antrag von der jeweils zuständigen Stelle festgestellt. Rechtliche Regelungen des Bundes und der Europäischen Gemeinschaften über die Gleichstellung von Prüfungen oder Befähigungsnachweisen sowie besondere Regelungen in diesem Vertrag haben Vorrang. Das Recht auf Führung erworbener, staatlich anerkannter oder verliehener akademischer Berufsbezeichnungen, Grade und Titel bleibt in jedem Fall unberührt.
 
@@ -474,8 +434,7 @@ Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien Jugendhilfe
 
 (6) Die auf Abschlußzeugnissen der Ingenieur- und Fachschulen der Deutschen Demokratischen Republik bestätigten Hochschulzugangsberechtigungen gelten gemäß Beschluß der Kultusministerkonferenz vom 10. Mai 1990 und seiner Anlage B. Weitergehende Grundsätze und Verfahren für die Anerkennung von Fachschul- und Hochschulabschlüssen für darauf aufbauende Schul- und Hochschulausbildungen sind im Rahmen der Kultusministerkonferenz zu entwickeln.
 
-
-## Art 38 – Wissenschaft und Forschung
+# Art 38 – Wissenschaft und Forschung
 
 (1) Wissenschaft und Forschung bilden auch im vereinten Deutschland wichtige Grundlagen für Staat und Gesellschaft. Der notwendigen Erneuerung von Wissenschaft und Forschung unter Erhaltung leistungsfähiger Einrichtungen in dem in Artikel 3 genannten Gebiet dient eine Begutachtung von öffentlich getragenen Einrichtungen durch den Wissenschaftsrat, die bis zum 31. Dezember 1991 abgeschlossen sein wird, wobei einzelne Ergebnisse schon vorher schrittweise umgesetzt werden sollen. Die nachfolgenden Regelungen sollen diese Begutachtung ermöglichen sowie die Einpassung von Wissenschaft und Forschung in dem in Artikel 3 genannten Gebiet in die gemeinsame Forschungsstruktur der Bundesrepublik Deutschland gewährleisten.
 
@@ -494,8 +453,7 @@ Die Verbände der Freien Wohlfahrtspflege und die Träger der Freien Jugendhilfe
 Art. 38 Abs. 3 Satz 1: Die Regelung, durch die die Arbeitsverhältnisse der bei Einrichtungen der Akademie der Wissenschaften der Deutschen Demokratischen Republik Beschäftigten auf den 31. Dezember 1991 befristet worden sind, ist mit dem GG unvereinbar und nichtig, soweit sie Arbeitsverhältnisse betrifft, die an dem genannten Stichtag nach Mutterschutzrecht nicht gekündigt werden durften, BVerfGE v. 10.3.1992 - 1 BvR 454/91 u. a. -  
 Art. 38 Abs. 4 iVm Abs. 3 Satz 1: Ist nach Maßgabe der BVerfGE v. 12.5.1992 - 1 BvR 1467/91 - 1 BvR 1501/91 mit Art. 12 Abs. 1 - teilweise iVm Art. 6 Abs. 4 d. GG unvereinbar und nichtig
 
-
-## Art 39 – Sport
+# Art 39 – Sport
 
 (1) Die in dem in Artikel 3 genannten Gebiet in Umwandlung befindlichen Strukturen des Sports werden auf Selbstverwaltung umgestellt. Die öffentlichen Hände fördern den Sport ideell und materiell nach der Zuständigkeitsverteilung des Grundgesetzes.
 
@@ -503,15 +461,13 @@ Art. 38 Abs. 4 iVm Abs. 3 Satz 1: Ist nach Maßgabe der BVerfGE v. 12.5.1992 - 1
 
 (3) Für eine Übergangszeit bis zum 31. Dezember 1992 unterstützt der Bund den Behindertensport.
 
-
-## Art 40 – Verträge und Vereinbarungen
+# Art 40 – Verträge und Vereinbarungen
 
 (1) Die Verpflichtungen aus dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik gelten fort, soweit nicht in diesem Vertrag Abweichendes bestimmt wird oder die Vereinbarungen im Zuge der Herstellung der Einheit Deutschland gegenstandslos werden.
 
 (2) Soweit Rechte und Pflichten aus sonstigen Verträgen und Vereinbarungen zwischen der Bundesrepublik Deutschland oder den Bundesländern und der Deutschen Demokratischen Republik nicht im Zuge der Herstellung der Einheit Deutschlands gegenstandslos geworden sind, werden sie von den innerstaatlich zuständigen Rechtsträgern übernommen, angepaßt oder abgewickelt.
 
-
-## Art 41 – Regelung von Vermögensfragen
+# Art 41 – Regelung von Vermögensfragen
 
 (1) Die von der Regierung der Bundesrepublik Deutschland und der Regierung der Deutschen Demokratischen Republik abgegebene Gemeinsame Erklärung vom 15. Juni 1990 zur Regelung offener Vermögensfragen (Anlage III) ist Bestandteil dieses Vertrages.
 
@@ -519,8 +475,7 @@ Art. 38 Abs. 4 iVm Abs. 3 Satz 1: Ist nach Maßgabe der BVerfGE v. 12.5.1992 - 1
 
 (3) Im übrigen wird die Bundesrepublik Deutschland keine Rechtsvorschriften erlassen, die der in Absatz 1 genannten Gemeinsamen Erklärung widersprechen.
 
-
-## Art 42 – Entsendung von Abgeordneten
+# Art 42 – Entsendung von Abgeordneten
 
 (1) Vor dem Wirksamwerden des Beitritts der Deutschen Demokratischen Republik wählt die Volkskammer auf der Grundlage ihrer Zusammensetzung 144 Abgeordnete zur Entsendung in den 11. Deutschen Bundestag sowie eine ausreichende Anzahl von Ersatzpersonen. Entsprechende Vorschläge machen die in der Volkskammer vertretenen Fraktionen und Gruppen.
 
@@ -528,36 +483,30 @@ Art. 38 Abs. 4 iVm Abs. 3 Satz 1: Ist nach Maßgabe der BVerfGE v. 12.5.1992 - 1
 
 (3) Für die Wählbarkeit und den Verlust der Mitgliedschaft im 11. Deutschen Bundestag gelten im übrigen die Bestimmungen des Bundeswahlgesetzes in der Fassung der Bekanntmachung vom 1. September 1975 (BGBl. I S. 2325), zuletzt geändert durch Gesetz vom 29. August 1990 (BGBl. II S. 813). Scheidet ein Mitglied aus, so rückt die nächste Ersatzperson nach. Sie muß derselben Partei angehören wie das ausgeschiedene Mitglied zur Zeit seiner Wahl. Die Feststellung, wer als Ersatzperson nachrückt, trifft vor Wirksamwerden des Beitritts der Präsident der Volkskammer, danach der Präsident des Deutschen Bundestages.
 
-
-## Art 43 – Übergangsvorschrift für den Bundesrat bis zur Bildung von Landesregierungen
+# Art 43 – Übergangsvorschrift für den Bundesrat bis zur Bildung von Landesregierungen
 
 Von der Bildung der in Artikel 1 Abs. 1 genannten Länder bis zur Wahl des Ministerpräsidenten kann der Landesbevollmächtigte an den Sitzungen des Bundesrates mit beratender Stimme teilnehmen.
 
-
-## Art 44 – Rechtswahrung
+# Art 44 – Rechtswahrung
 
 Rechte aus diesem Vertrag zugunsten der Deutschen Demokratischen Republik oder der in Artikel 1 genannten Länder können nach Wirksamwerden des Beitritts von jedem dieser Länder geltend gemacht werden.
 
-
-## Art 45 – Inkrafttreten des Vertrags
+# Art 45 – Inkrafttreten des Vertrags
 
 (1) Dieser Vertrag einschließlich des anliegenden Protokolls und der Anlagen I bis III tritt an dem Tag in Kraft, an dem die Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik einander mitgeteilt haben, daß die erforderlichen innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 
 (2) Der Vertrag bleibt nach Wirksamwerden des Beitritts als Bundesrecht geltendes Recht.
 
+# Schlußformel
 
-## Schlußformel
-
-Geschehen zu Berlin am 31. August 1990 in zwei Urschriften in deutscher Sprache.  
-
+Geschehen zu Berlin am 31. August 1990 in zwei Urschriften in deutscher Sprache. 
 |                            |                                 |
 |:--------------------------:|:-------------------------------:|
 |          Für die           |             Für die             |
 | Bundesrepublik Deutschland | Deutsche Demokratische Republik |
 |          Schäuble          |         Günther Krause          |
 
-
-## Protokoll
+# Protokoll
 
 Bei Unterzeichnung des Vertrags zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands wurden mit Bezug auf diesen Vertrag folgende Klarstellungen getroffen:
 
@@ -670,8 +619,7 @@ Beide Vertragsparteien sind sich einig, daß die Festlegungen des Vertrags unbes
 
 (+++ Nr. 13: Zur Anwendung vgl. § 4 G 105-21 v. 23.6.1993 I 944, 989 +++)
 
-
-## Anlage I Inhaltsverzeichnis
+# Anlage I Inhaltsverzeichnis
 
 A.
 
@@ -765,24 +713,18 @@ Kapitel XIX
 
 Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
-
-## Anlage I BesBest – Besondere Bestimmungen zur Überleitung von Bundesrechtgemäß Artikel 8 und Artikel 11 des Vertrages
+# Anlage I BesBest – Besondere Bestimmungen zur Überleitung von Bundesrechtgemäß Artikel 8 und Artikel 11 des Vertrages
 
 (Fundstelle in der Anlage I des Einigungsvertrages, BGBl. II 1990, 907)
 
 Vorbemerkungen:  
-Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind die in Abschnitt I des jeweiligen Kapitels aufgeführten Rechtsvorschriften ausgenommen. Entsprechendes gilt gemäß Artikel 11 des Vertrages für die in Abschnitt I des Kapitels I genannten völkerrechtlichen Verträge.  
-Gemäß Abschnitt II des jeweiligen Kapitel werden die dort aufgeführten Rechtsvorschriften aufgehoben, geändert oder ergänzt.  
-Gemäß Abschnitt III des jeweiligen Kapitels treten die Rechtsvorschriften mit den dort bestimmten Maßgaben in dem in Artikel 3 des Vertrages genannten Gebiet in Kraft.  
-Soweit in übergeleitetem Bundesrecht auf andere Rechtsvorschriften der Bundesrepublik Deutschland verwiesen wird, ist die Verweisung auch wirksam, wenn die in Bezug genommenen Rechtsvorschriften nicht übergeleitet worden sind. Sollen an die Stelle der in Bezug genommenen Rechtsvorschriften der Bundesrepublik Deutschland Rechtsvorschriften der Deutschen Demokratischen Republik treten, ist dies ausdrücklich bestimmt.
+Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind die in Abschnitt I des jeweiligen Kapitels aufgeführten Rechtsvorschriften ausgenommen. Entsprechendes gilt gemäß Artikel 11 des Vertrages für die in Abschnitt I des Kapitels I genannten völkerrechtlichen Verträge. Gemäß Abschnitt II des jeweiligen Kapitel werden die dort aufgeführten Rechtsvorschriften aufgehoben, geändert oder ergänzt. Gemäß Abschnitt III des jeweiligen Kapitels treten die Rechtsvorschriften mit den dort bestimmten Maßgaben in dem in Artikel 3 des Vertrages genannten Gebiet in Kraft. Soweit in übergeleitetem Bundesrecht auf andere Rechtsvorschriften der Bundesrepublik Deutschland verwiesen wird, ist die Verweisung auch wirksam, wenn die in Bezug genommenen Rechtsvorschriften nicht übergeleitet worden sind. Sollen an die Stelle der in Bezug genommenen Rechtsvorschriften der Bundesrepublik Deutschland Rechtsvorschriften der Deutschen Demokratischen Republik treten, ist dies ausdrücklich bestimmt.
 
-
-## Anlage I Kap I – Anlage I Kapitel IGeschäftsbereich des Bundesministers des Auswärtigen
+# Anlage I Kap I – Anlage I Kapitel IGeschäftsbereich des Bundesministers des Auswärtigen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 908 - 909)
 
-
-## Anlage I Kap I I – Anlage I Kapitel I  Abschnitt I
+# Anlage I Kap I I – Anlage I Kapitel I  Abschnitt I
 
 Von der Geltung in dem in Artikel 3 des Vertrages genannten Gebiet sind gemäß Artikel 11 des Vertrages ausgenommen:
 
@@ -836,16 +778,14 @@ Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von
 
 10. Notenwechsel vom 4. Mai 1988 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über Inspektionen in bezug auf den Vertrag vom 8. Dezember 1987 zwischen den Vereinigten Staaten von Amerika und der Union der Sozialistischen Sowjetrepubliken über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite mit Verordnung vom 30. Mai 1988 (BGBl. 1988 II S. 534) - Verordnung über Inspektionen nach dem INF-Vertrag -
 
-
-## Anlage I Kap II – Anlage I Kapitel IIGeschäftsbereich des Bundesministers des Innern
+# Anlage I Kap II – Anlage I Kapitel IIGeschäftsbereich des Bundesministers des Innern
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 910 - 920)
 
 Zur Statistik siehe Kapitel XVIII  
 zum Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten siehe Kapitel XIX  
   
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap II) - Ausgegeben werden alle Dokumente zum Kapitel II der Anlage I -
 
@@ -853,8 +793,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap II D) - Ausgegeben werden all
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap II D III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets D des Kapitels II der Anlage I-
 
-
-## Anlage I Kap II A II – Anlage I Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt II
+# Anlage I Kap II A II – Anlage I Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben und geändert:
 
@@ -888,13 +827,11 @@ Protokollvermerk der Bundesrepublik Deutschland und der Deutschen Demokratischen
 
 Von der Deutschen Demokratischen Republik verliehene Auszeichnungen können weiter geführt oder getragen werden, es sei denn, daß dadurch der ordre public der Bundesrepublik Deutschland verletzt wird. Das gleiche gilt für von der Deutschen Demokratischen Republik zur Annahme genehmigte ausländische Auszeichnungen.
 
-
-## Anlage I Kap II A III – Anlage I Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt III
+# Anlage I Kap II A III – Anlage I Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt III
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap II B I – Anlage I Kapitel II  Sachgebiet B - Verwaltung  Abschnitt I
+# Anlage I Kap II B I – Anlage I Kapitel II  Sachgebiet B - Verwaltung  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -924,8 +861,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 13. Ausländergesetz vom 28. April 1965 (BGBl. I S. 353), zuletzt geändert durch Artikel 9 Abs. 5 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1163)
 
-
-## Anlage I Kap II B II – Anlage I Kapitel II  Sachgebiet B - Verwaltung  Abschnitt II
+# Anlage I Kap II B II – Anlage I Kapitel II  Sachgebiet B - Verwaltung  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -1005,8 +941,7 @@ Dem § 22 wird folgender Absatz 5 angefügt:
 
 "(5) Die Ausfuhr des nach dem Gesetz zum Schutz des Kulturgutes der Deutschen Demokratischen Republik Kulturgutschutzgesetz - vom 3. Juli 1980 (GBl. I Nr. 23 S. 191) registrierten Kulturguts bleibt genehmigungspflichtig, bis über seine Eintragung in das nach diesem Gesetz zu führende "Verzeichnis national wertvollen Kulturguts und national wertvoller Archive" entschieden worden ist. Absatz 4 Satz 2 und 3 gilt entsprechend."
 
-
-## Anlage I Kap II B III – Anlage I Kapitel IISachgebiet B - VerwaltungAbschnitt III
+# Anlage I Kap II B III – Anlage I Kapitel IISachgebiet B - VerwaltungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -1056,13 +991,10 @@ dd)
 
 e) (nicht mehr anzuwenden)
 
-3.  
-bis  
-9.  
-(nicht mehr anzuwenden)
+3. bis  
+9. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap II C II – Anlage I Kapitel II  Sachgebiet C - Öffentliche Sicherheit  Abschnitt II
+# Anlage I Kap II C II – Anlage I Kapitel II  Sachgebiet C - Öffentliche Sicherheit  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -1076,8 +1008,7 @@ In Nummer 6 wird das Wort "oder" durch ein Komma ersetzt.
 bb)  
 In Nummer 7 wird der Punkt durch das Wort "oder" ersetzt und folgende Nummer 8 angefügt:
 
-"8.  
-entgegen § 59b Abs. 5 Satz 1 nach Ablauf der Meldefrist die tatsächliche Gewalt über eine nicht angemeldete Schußwaffe oder über nicht angemeldete Munition ausübt."
+"8. entgegen § 59b Abs. 5 Satz 1 nach Ablauf der Meldefrist die tatsächliche Gewalt über eine nicht angemeldete Schußwaffe oder über nicht angemeldete Munition ausübt."
 
 b) Nach § 59a wird folgender § 59b eingefügt:
 
@@ -1097,13 +1028,11 @@ b) Nach § 59a wird folgender § 59b eingefügt:
 
 (6) Hat jemand am Tage des Wirksamwerdens des Beitritts die tatsächliche Gewalt über einen nach § 37 Abs. 1 Satz 1 oder nach § 8 der Ersten Verordnung zum Waffengesetz verbotenen Gegenstand ausgeübt, so wird dieses Verbot nicht wirksam, wenn er diesen Gegenstand innerhalb von sechs Monaten nach Wirksamwerden des Beitritts unbrauchbar macht, einem Berechtigten überläßt oder einen Antrag auf Erteilung einer Ausnahmegenehmigung beim Bundeskriminalamt stellt. § 37 Abs. 5 ist entsprechend anzuwenden."
 
-
-## Anlage I Kap II C III – Anlage I Kapitel II  Sachgebiet C - Öffentliche Sicherheit  Abschnitt III
+# Anlage I Kap II C III – Anlage I Kapitel II  Sachgebiet C - Öffentliche Sicherheit  Abschnitt III
 
 (Abschnitt III Nr. 1 bis 5 nicht mehr anzuwenden)
 
-
-## Anlage I Kap II D I – Anlage I Kapitel II  Sachgebiet D - Kriegsfolgenrecht  Abschnitt I
+# Anlage I Kap II D I – Anlage I Kapitel II  Sachgebiet D - Kriegsfolgenrecht  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -1113,8 +1042,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 3. Währungsausgleichsgesetz in der Fassung der Bekanntmachung vom 1. Dezember 1965 (BGBl. I S. 2059), zuletzt geändert durch Artikel 16 des Gesetzes vom 18. März 1975 (BGBl. I S. 705), mit den dazu auf Grund der Ermächtigungen in § 1a Abs. 2, § 3 Abs. 3, § 8 Abs. 2, § 9 Abs. 3, § 11 Abs. 4 und § 14a erlassenen Rechtsverordnungen.
 
-
-## Anlage I Kap II D II – Anlage I Kapitel II  Sachgebiet D - Kriegsfolgenrecht  Abschnitt II
+# Anlage I Kap II D II – Anlage I Kapitel II  Sachgebiet D - Kriegsfolgenrecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert und aufgehoben:
 
@@ -1168,8 +1096,7 @@ b) In § 1 Abs. 2 werden die Worte "genommen haben oder nehmen" durch das Wort "
 
 In § 3 Abs. 1 Satz 3 wird der Punkt durch einen Strichpunkt ersetzt und folgender Halbsatz angefügt "das gilt auch beim Zusammentreffen von eigenen Ansprüchen mit Ansprüchen nach § 5."
 
-
-## Anlage I Kap II D III – Anlage I Kapitel IISachgebiet D - KriegsfolgenrechtAbschnitt III
+# Anlage I Kap II D III – Anlage I Kapitel IISachgebiet D - KriegsfolgenrechtAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -1201,13 +1128,11 @@ c) Der Präsident des Bundesausgleichsamtes bestimmt für Antragsteller mit stä
 
 Abschn. III Nr. 4 Buchst. b Kursivdruck: Nicht mehr anzuwenden in Bezug auf § 6 Abs. 4, §309, 313, 314 u. 316 des Lastenausgleichsgesetzes gem. Art. 5 Nr. 1 Buchst. d DBuchst. dd G v. 2.12.2006 I 2674 mWv 7.12.2006
 
-
-## Anlage I Kap III – Anlage I Kapitel IIIGeschäftsbereich des Bundesministers der Justiz
+# Anlage I Kap III – Anlage I Kapitel IIIGeschäftsbereich des Bundesministers der Justiz
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 921 - 963)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap III) - Ausgegeben werden alle Dokumente zum Kapitel III der Anlage I -
 
@@ -1215,8 +1140,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap III F) - Ausgegeben werden al
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap III F III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets F des Kapitels III der Anlage I -
 
-
-## Anlage I Kap III A I – Anlage I Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt I
+# Anlage I Kap III A I – Anlage I Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind, vorbehaltlich der Sonderregelung für das Land Berlin in Abschnitt IV, ausgenommen:
 
@@ -1236,11 +1160,9 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind, vor
 
 8. Bundesnotarordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 303-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 1 des Gesetzes vom 7. August 1981 (BGBl. I S. 803).
 
-Abschn. I Nr. 7 Kursivdruck: G tritt in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gem. Art. 21 Abs. 1 Satz 3 nach Maßgabe d. Satzes 4 u. Art. 21 Abs. 2 bis 13 G v. 2.9.1994 I 2278 (RPNeuOG) mWv 9.9.1994 in Kraft.  
-Abschn. I Nr. 8 Kursivdruck: G tritt in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gem. Art. 13 Abs. 1 nach Maßgabe d. Abs. 2 bis 11 G v. 31.8.1998 I 2585 (BNotOuaÄndG 3) mWv 8.9.1998 in Kraft
+Abschn. I Nr. 7 Kursivdruck: G tritt in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gem. Art. 21 Abs. 1 Satz 3 nach Maßgabe d. Satzes 4 u. Art. 21 Abs. 2 bis 13 G v. 2.9.1994 I 2278 (RPNeuOG) mWv 9.9.1994 in Kraft. Abschn. I Nr. 8 Kursivdruck: G tritt in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gem. Art. 13 Abs. 1 nach Maßgabe d. Abs. 2 bis 11 G v. 31.8.1998 I 2585 (BNotOuaÄndG 3) mWv 8.9.1998 in Kraft
 
-
-## Anlage I Kap III A II – Anlage I Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt II
+# Anlage I Kap III A II – Anlage I Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -1261,8 +1183,7 @@ Leben die Ehegatten gemäß Artikel 234 § 4 Abs. 2 des Einführungsgesetzes zum
 
 Ein Rechtsanwalt, der in dem in Artikel 3 des Einigungsvertrages genannten Gebiet oder im Geltungsbereich der Bundesrechtsanwaltsordnung zugelassen ist, steht in dem jeweils anderen Gebiet einem dort zugelassenen Rechtsanwalt gleich.
 
-
-## Anlage I Kap III A III – Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt III
+# Anlage I Kap III A III – Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt III
 
 Bundesrecht tritt, soweit sich nicht aus den nachfolgenden Maßgaben ein anderer Geltungsbereich ergibt und vorbehaltlich der Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -1301,8 +1222,7 @@ und bb) (nicht mehr anzuwenden)
 
 cc) Im übrigen gelten die Maßgaben ...(nicht mehr anzuwenden) ... und y) jj) sinngemäß.
 
-8a.  
-bis 13. (nicht mehr anzuwenden)
+8a. bis 13. (nicht mehr anzuwenden)
 
 14. Strafprozeßordnung in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), zuletzt geändert durch Artikel 12 Abs. 1 des Gesetzes vom 9. Juli 1990 (BGBl. I S. 1354),
 
@@ -1316,14 +1236,11 @@ e) bis k) (nicht mehr anzuwenden)
 
 15. bis 28. (nicht mehr anzuwenden)
 
+# Anlage I Kap III A IV – Anlage I Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt IV
 
-## Anlage I Kap III A IV – Anlage I Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt IV
+Abweichend von den Regelungen der Abschnitte I und III wird der im bisherigen Geltungsbereich des Grundgesetzes für die Bundesrepublik Deutschland bestehende Gerichtsaufbau der ordentlichen Gerichtsbarkeit einschließlich des Aufbaus der Staatsanwaltschaft, der Verwaltungsgerichtsbarkeit, der Finanzgerichtsbarkeit, der Arbeitsgerichtsbarkeit und der Sozialgerichtsbarkeit auf den Teil des Landes Berlin erstreckt, in dem das Grundgesetz bisher nicht galt. 1. bis 4 (nicht mehr anzuwenden)
 
-Abweichend von den Regelungen der Abschnitte I und III wird der im bisherigen Geltungsbereich des Grundgesetzes für die Bundesrepublik Deutschland bestehende Gerichtsaufbau der ordentlichen Gerichtsbarkeit einschließlich des Aufbaus der Staatsanwaltschaft, der Verwaltungsgerichtsbarkeit, der Finanzgerichtsbarkeit, der Arbeitsgerichtsbarkeit und der Sozialgerichtsbarkeit auf den Teil des Landes Berlin erstreckt, in dem das Grundgesetz bisher nicht galt.  
-1. bis 4 (nicht mehr anzuwenden)
-
-
-## Anlage I Kap III B I – Anlage I Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt I
+# Anlage I Kap III B I – Anlage I Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -1331,8 +1248,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 2. Regelunterhalt-Verordnung vom 27. Juni 1970 (BGBl. I S. 1010), zuletzt geändert durch Verordnung vom 21. Juli 1988 (BGBl. I S. 1082).
 
-
-## Anlage I Kap III B II – Anlage I Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt II
+# Anlage I Kap III B II – Anlage I Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -1866,8 +1782,7 @@ Liegen die Voraussetzungen für eine Aussetzung des Versorgungsausgleichs oder f
   
   
 
-
-## Anlage I Kap III B III – Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt III
+# Anlage I Kap III B III – Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -1887,8 +1802,7 @@ b) Die Wirkung einer vor dem Wirksamwerden des Beitritts erfolgten Todeserkläru
 
 10. bis 14. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap III C I – Anlage I Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt I
+# Anlage I Kap III C I – Anlage I Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -1896,8 +1810,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 2. Verordnung zur Durchführung des Gesetzes über die innerdeutsche Rechts- und Amtshilfe in Strafsachen vom 23. Dezember 1953 in der im Bundesgesetzblatt III, Gliederungsnummer 312-3-1, veröffentlichten bereinigten Fassung.
 
-
-## Anlage I Kap III C II – Anlage I Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt II
+# Anlage I Kap III C II – Anlage I Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -2038,8 +1951,7 @@ Die §§ 1 und 2 finden keine Anwendung auf die Folgen einer strafgerichtlichen 
   
   
 
-
-## Anlage I Kap III C III – Anlage I Kapitel IIISachgebiet C - Strafrecht und OrdnungswidrigkeitenrechtAbschnitt III
+# Anlage I Kap III C III – Anlage I Kapitel IIISachgebiet C - Strafrecht und OrdnungswidrigkeitenrechtAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -2077,8 +1989,7 @@ Zeitlicher Geltungsbereich
 
 4. bis 6. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap III D II – Anlage I Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt II
+# Anlage I Kap III D II – Anlage I Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -2088,8 +1999,7 @@ mit folgender Maßgabe:
 
 Versicherungsunternehmen können nach diesem Gesetz wegen ihrer Verbindlichkeiten aus Lebens- und Rentenversicherungen, die nach den vor Inkrafttreten des Währungsgesetzes in Geltung gewesenen Vorschriften in Reichsmark zu erfüllen gewesen wären, bis zu einer besonderen oder allgemeinen Abschlußgesetzgebung über die Regelung von Kriegsfolgen und Umstellungsansprüchen nicht in Anspruch genommen werden.
 
-
-## Anlage I Kap III D III – Anlage I Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt III
+# Anlage I Kap III D III – Anlage I Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -2105,8 +2015,7 @@ mit folgender Maßgabe:
 
 Abschn. III Nr. 6 Satz 2 Kursivdruck: Nicht mehr anzuwenden gem. § 1 Abs. 1 Nr. 4 Buchst. e G v. 19.4.2006 I 866, 891 (BMJMaßgabenBerG) mWv 25.4.2006
 
-
-## Anlage I Kap III E II – Anlage I Kapitel III  Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren  Wettbewerb, Urheberrecht  Abschnitt II
+# Anlage I Kap III E II – Anlage I Kapitel III  Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren  Wettbewerb, Urheberrecht  Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -2174,23 +2083,19 @@ Auch nach Außerkrafttreten des Urheberrechtsgesetzes der Deutschen Demokratisch
   
   
 
-
-## Anlage I Kap III E III – Anlage I Kapitel III  Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren Wettbewerb, Urheberrecht  Abschnitt III
+# Anlage I Kap III E III – Anlage I Kapitel III  Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren Wettbewerb, Urheberrecht  Abschnitt III
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap III F III – Anlage I Kapitel III Sachgebiet F - Verfassungsgerichtsbarkeit  Abschnitt III
+# Anlage I Kap III F III – Anlage I Kapitel III Sachgebiet F - Verfassungsgerichtsbarkeit  Abschnitt III
 
 (Abschnitt III Buchst. a und b nicht mehr anzuwenden)
 
-
-## Anlage I Kap IV – Anlage I Kapitel IVGeschäftsbereich des Bundesministers der Finanzen
+# Anlage I Kap IV – Anlage I Kapitel IVGeschäftsbereich des Bundesministers der Finanzen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 964 - 995)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap IV) - Ausgegeben werden alle Dokumente zum Kapitel IV der Anlage I -
 
@@ -2198,8 +2103,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap IV B) - Ausgegeben werden all
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap IV B III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels IV der Anlage I -
 
-
-## Anlage I Kap IV A I – Anlage I Kapitel IV  Sachgebiet A - Kriegsfolgenregelungen  Abschnitt I
+# Anlage I Kap IV A I – Anlage I Kapitel IV  Sachgebiet A - Kriegsfolgenregelungen  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -2265,8 +2169,7 @@ aller dazu auf Grund von § 1 Abs. 2 und § 11 Abs. 3 des Rechtsträger-Abwicklu
 
 Abschn. I Nr. 21 Kursivdruck: G tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. § 31 Abs. 2 WertAusglG idF d. Art. 7 Nr. 3 Buchst. b G v. 27.9.1994 I 2624 mWv 1.12.1994 in Kraft
 
-
-## Anlage I Kap IV A II – Anlage I Kapitel IV  Sachgebiet A - Kriegsfolgenregelungen  Abschnitt II
+# Anlage I Kap IV A II – Anlage I Kapitel IV  Sachgebiet A - Kriegsfolgenregelungen  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -2304,8 +2207,7 @@ b) Nach Absatz 2 wird folgender Absatz eingefügt:
 
 "(2a) Ein Anspruch auf Entschädigung kann unter den Voraussetzungen des Absatzes 2 auch dann zuerkannt werden, wenn ein Anspruchsberechtigter nach dem Wirksamwerden des Beitritts und vor dem 1. Januar 1992 seinen ständigen Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet genommen hat."
 
-
-## Anlage I Kap IV B I – Anlage I Kapitel IV  Sachgebiet B - Haushalts- und Finanzwesen  Abschnitt I
+# Anlage I Kap IV B I – Anlage I Kapitel IV  Sachgebiet B - Haushalts- und Finanzwesen  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -2315,8 +2217,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 mit Ausnahme des § 16
 
-
-## Anlage I Kap IV B II – Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt II
+# Anlage I Kap IV B II – Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -2939,8 +2840,7 @@ bb)
 Nach Nummer 14 wird folgende Nummer 14a eingefügt:
 
   
-"14a.  
-landwirtschaftliche Produktionsgenossenschaften und deren Rechtsnachfolger in der Rechtsform der Genossenschaft in dem in Artikel 3 des Einigungsvertrages genannten Gebiet für die Erhebungszeiträume 1991 bis 1993. In den Erhebungszeiträumen 1992 und 1993 ist Voraussetzung für die Steuerbefreiung, daß sich ihre Tätigkeit auf den Betrieb der Land- und Forstwirtschaft beschränkt;".
+"14a. landwirtschaftliche Produktionsgenossenschaften und deren Rechtsnachfolger in der Rechtsform der Genossenschaft in dem in Artikel 3 des Einigungsvertrages genannten Gebiet für die Erhebungszeiträume 1991 bis 1993. In den Erhebungszeiträumen 1992 und 1993 ist Voraussetzung für die Steuerbefreiung, daß sich ihre Tätigkeit auf den Betrieb der Land- und Forstwirtschaft beschränkt;".
 
 c) § 9a wird aufgehoben.
 
@@ -3006,8 +2906,7 @@ b) § 1 Abs. 2 wird wie folgt gefaßt:
 
 c) § 2 Abs. 2 Nr. 2 wird wie folgt gefaßt:
 
-"2.  
-wenn eine juristische Person nach dem Gesamtbild der tatsächlichen Verhältnisse finanziell, wirtschaftlich und organisatorisch in das Unternehmen des Organträgers eingegliedert ist (Organschaft). Die Wirkungen der Organschaft sind auf Innenleistungen zwischen den im Inland gelegenen Unternehmensteilen beschränkt. Diese Unternehmensteile sind als ein Unternehmen zu behandeln. Hat der Organträger seine Geschäftsleitung im Ausland, gilt der wirtschaftlich bedeutendste Unternehmensteil im Inland als der Unternehmer."
+"2. wenn eine juristische Person nach dem Gesamtbild der tatsächlichen Verhältnisse finanziell, wirtschaftlich und organisatorisch in das Unternehmen des Organträgers eingegliedert ist (Organschaft). Die Wirkungen der Organschaft sind auf Innenleistungen zwischen den im Inland gelegenen Unternehmensteilen beschränkt. Diese Unternehmensteile sind als ein Unternehmen zu behandeln. Hat der Organträger seine Geschäftsleitung im Ausland, gilt der wirtschaftlich bedeutendste Unternehmensteil im Inland als der Unternehmer."
 
 d) § 4 wird wie folgt geändert:
 
@@ -3032,8 +2931,7 @@ f) § 11 Abs. 3 wird wie folgt geändert:
 aa)  
 Nummer 3 wird wie folgt gefaßt:
 
-"3.  
-die auf den Gegenstand entfallenden Kosten für die Vermittlung der Lieferung und für die Beförderung bis zum ersten Bestimmungsort im Inland;".
+"3. die auf den Gegenstand entfallenden Kosten für die Vermittlung der Lieferung und für die Beförderung bis zum ersten Bestimmungsort im Inland;".
 
 bb)  
 Nummer 4 Buchstabe a wird wie folgt gefaßt:
@@ -3046,8 +2944,7 @@ g) § 15 wird wie folgt geändert:
 aa)  
 Absatz 2 Nr. 2 wird wie folgt gefaßt:
 
-"2.  
-Umsätze im Ausland, die steuerfrei wären, wenn sie im Inland ausgeführt würden,".
+"2. Umsätze im Ausland, die steuerfrei wären, wenn sie im Inland ausgeführt würden,".
 
 bb)  
 Absatz 3 Nr. 2 Buchstabe b wird wie folgt gefaßt:
@@ -3061,8 +2958,7 @@ h) § 16 Abs. 5 Satz 1 wird wie folgt gefaßt:
 
 i) § 25 Abs. 2 Nr. 1 wird wie folgt gefaßt:
 
-"1.  
-außerhalb des Gebiets der Europäischen Wirtschaftsgemeinschaft bewirkt werden,".
+"1. außerhalb des Gebiets der Europäischen Wirtschaftsgemeinschaft bewirkt werden,".
 
 j) § 26 Abs. 3 wird wie folgt gefaßt:
 
@@ -3104,8 +3000,7 @@ e) In § 10 Abs. 1 Nr. 2 Buchstabe f werden die Worte "oder im Gebiet der Deutsc
 
 f) § 17 Abs. 1 Nr. 2 wird wie folgt gefaßt:
 
-"2.  
-eine Bestätigung der Grenzzollstelle, daß die nach Nummer 1 gemachten Angaben mit den Eintragungen in dem vorgelegten Paß oder sonstigen Grenzübertrittspapier desjenigen übereinstimmen, der den Gegenstand in das Ausland verbringt."
+"2. eine Bestätigung der Grenzzollstelle, daß die nach Nummer 1 gemachten Angaben mit den Eintragungen in dem vorgelegten Paß oder sonstigen Grenzübertrittspapier desjenigen übereinstimmen, der den Gegenstand in das Ausland verbringt."
 
 g) § 19 Abs. 1 wird wie folgt gefaßt:
 
@@ -3576,8 +3471,7 @@ Nach Nummer 2 wird folgende Nummer 2a eingefügt:
 
 cc) Nach Nummer 7 wird folgende Nummer 7a eingefügt:
 
-"7a.  
-landwirtschaftliche Produktionsgenossenschaften und deren Rechtsnachfolger in der Rechtsform der Genossenschaft, wenn sie von der Gewerbesteuer befreit sind;".
+"7a. landwirtschaftliche Produktionsgenossenschaften und deren Rechtsnachfolger in der Rechtsform der Genossenschaft, wenn sie von der Gewerbesteuer befreit sind;".
 
 b) § 6 wird wie folgt geändert:
 
@@ -3860,15 +3754,13 @@ Abrechnungsverfahren
 
 a) In § 3 Abs. 1 Nr. 3 werden der Punkt durch ein Komma ersetzt und folgende Nummern 4 und 5 angefügt:
 
-"4.  
-wenn für Fahrzeuge in dem in Artikel 3 des Einigungsvertrages genannten Gebiet die Steuer durch Steuermarken (§ 12a des Gesetzes) entrichtet wird,
+"4. wenn für Fahrzeuge in dem in Artikel 3 des Einigungsvertrages genannten Gebiet die Steuer durch Steuermarken (§ 12a des Gesetzes) entrichtet wird,
 
 5. wenn die Fahrzeuge im Abrechnungsverfahren nach § 12b des Gesetzes besteuert werden."
 
 b) Dem § 5 Abs. 2 wird folgende Nummer 4 angefügt:
 
-"4.  
-Bei dem Übergang vom Steuerkartenverfahren zum automatisierten Festsetzungs- und Erhebungsverfahren teilen die Zulassungsbehörden dem zuständigen Finanzamt alle erforderlichen Daten mit, insbesondere die Höhe der bisher durch Steuermarken entrichteten Steuer."
+"4. Bei dem Übergang vom Steuerkartenverfahren zum automatisierten Festsetzungs- und Erhebungsverfahren teilen die Zulassungsbehörden dem zuständigen Finanzamt alle erforderlichen Daten mit, insbesondere die Höhe der bisher durch Steuermarken entrichteten Steuer."
 
 c) Dem § 7 wird folgender Absatz 4 angefügt:
 
@@ -4118,8 +4010,7 @@ Der Fonds wird mit Ablauf des Jahres 1993 aufgelöst.
   
   
 
-
-## Anlage I Kap IV B III – Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt III
+# Anlage I Kap IV B III – Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -4143,13 +4034,11 @@ mit folgender Maßgabe:
 
 Die §§ 2 bis 6a werden in dem in Artikel 3 des Vertrages genannten Gebiet nicht angewendet.
 
-
-## Anlage I Kap V – Anlage I Kapitel VGeschäftsbereich des Bundesministers für Wirtschaft
+# Anlage I Kap V – Anlage I Kapitel VGeschäftsbereich des Bundesministers für Wirtschaft
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 996 - 1009)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap V) - Ausgegeben werden alle Dokumente zum Kapitel V der Anlage I -
 
@@ -4157,14 +4046,12 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap V F) - Ausgegeben werden alle
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap V F II) - Ausgegeben wird das Dokument zum Abschnitt II des Sachgebiets F des Kapitels V der Anlage I -
 
-
-## Anlage I Kap V A I – Anlage I Kapitel V  Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht  Abschnitt I
+# Anlage I Kap V A I – Anlage I Kapitel V  Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:  
 Verordnung PR Nr. 63/50 vom 21. September 1950 über einen Preisausgleich für die eisenverbrauchende Wirtschaft in West-Berlin (BAnz. Nr. 189 vom 30. September 1950), zuletzt geändert durch die Verordnung PR 13/67 vom 22. Dezember 1967 (BAnz. Nr. 244 vom 30. Dezember 1967)
 
-
-## Anlage I Kap V A II – Anlage I Kapitel V  Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht  Abschnitt II
+# Anlage I Kap V A II – Anlage I Kapitel V  Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -4200,13 +4087,11 @@ Wer am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Einigungsve
 
 (3) Für den Fall, daß die Deutsche Demokratische Republik ein Gesetz zur Inkraftsetzung dieses Gesetzes erläßt, wird der Bundesminister für Wirtschaft ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Maßgaben der Absätze 1 und 2 und des § 26a so zu ändern, daß deren Ziele unter Berücksichtigung der neuen Rechtslage erreicht werden."
 
-
-## Anlage I Kap V A III – Anlage I Kapitel VSachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und PreisrechtAbschnitt III
+# Anlage I Kap V A III – Anlage I Kapitel VSachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und PreisrechtAbschnitt III
 
 (Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
-
-## Anlage I Kap V B II – Anlage I Kapitel V  Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung  Abschnitt II
+# Anlage I Kap V B II – Anlage I Kapitel V  Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -4222,8 +4107,7 @@ Bundesrecht wird wie folgt geändert:
 
 (5) Abweichend von den Vorschriften des Ersten und Zweiten Abschnitts des Zweiten Teils können Bewerber als Wirtschaftsprüfer nach diesem Gesetz bestellt werden, die nach einem postgradualen Studium vor dem Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet die Berechtigung erworben haben, die Berufsbezeichnung "Wirtschaftsprüfer" zu führen, wenn sie die in Satz 3 vorgesehene Eignungsprüfung oder eine dieser entsprechende Prüfung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestanden haben. § 7 Abs. 2, §§ 10, 11, 12 Abs. 1 und § 131g Abs. 3 Satz 1 bis 4 sind entsprechend anzuwenden; § 14a ist mit der Maßgabe anzuwenden, daß die Gebühr für das Prüfungsverfahren 400 Deutsche Mark beträgt. Die Prüfung wird schriftlich und mündlich abgenommen und ist eine ausschließlich die beruflichen Kenntnisse des Bewerbers betreffende Prüfung, mit der seine Fähigkeit, den Beruf eines Wirtschaftsprüfers auszuüben, beurteilt werden soll. Der Bundesminister für Wirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen zu erlassen über die Zusammensetzung des Prüfungsausschusses und die Berufung seiner Mitglieder sowie die Einzelheiten der Prüfung und des Prüfungsverfahrens, insbesondere über die in § 14 bezeichneten Angelegenheiten. Auf die Bestellung der Personen, die die Prüfung nach Satz 3 bestanden haben, findet der Dritte Abschnitt des Zweiten Teils Anwendung."
 
-
-## Anlage I Kap V B III – Anlage I Kapitel VSachgebiet B - Berufsrecht, Recht der beruflichen BildungAbschnitt III
+# Anlage I Kap V B III – Anlage I Kapitel VSachgebiet B - Berufsrecht, Recht der beruflichen BildungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -4279,14 +4163,12 @@ bb)
 
 4. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap V C I – Anlage I Kapitel V  Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung  Abschnitt I
+# Anlage I Kap V C I – Anlage I Kapitel V  Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:  
 Gesetz zur Abwicklung und Entflechtung des ehemaligen reichseigenen Filmvermögens in der im Bundesgesetzblatt Teil III, Gliederungsnummer 703-3, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 4 des Gesetzes vom 27. Februar 1974 (BGBl. I S. 444), mit Ausnahme des § 15 Satz 2.
 
-
-## Anlage I Kap V C II – Anlage I Kapitel V  Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung  Abschnitt II
+# Anlage I Kap V C II – Anlage I Kapitel V  Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -4294,8 +4176,7 @@ Bundesrecht wird wie folgt geändert:
 
 In die Anlage 1 der Verordnung wird nach "Internationales Kurzfilmfestival, Krakau" die "Internationale Dokumentar- und Kurzfilmwoche für Kino und Fernsehen, Leipzig" eingefügt.
 
-
-## Anlage I Kap V C III – Anlage I Kapitel VSachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und FilmförderungAbschnitt III
+# Anlage I Kap V C III – Anlage I Kapitel VSachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und FilmförderungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -4329,8 +4210,7 @@ c) (nicht mehr anzuwenden)
 
 6. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap V D I – Anlage I Kapitel V  Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft  Abschnitt I
+# Anlage I Kap V D I – Anlage I Kapitel V  Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -4340,8 +4220,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 3. Gesetz über das Zollkontingent über feste Brennstoffe in der Fassung der Bekanntmachung vom 15. Oktober 1980 (BGBl. I S. 1945)
 
-
-## Anlage I Kap V D II – Anlage I Kapitel V  Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft  Abschnitt II
+# Anlage I Kap V D II – Anlage I Kapitel V  Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
 
@@ -4369,8 +4248,7 @@ b) In § 3 Abs. 1 Nr. 4 werden die Worte "Bundeswehr und verbündete Streitkräf
 
 "Das in den Abbaugebieten A tätige Unternehmen ist verpflichtet, die in § 4 Nr. 2 und 3 näher bezeichneten Bedingungen einzuhalten. Das in den Abbaugebieten B tätige Unternehmen ist verpflichtet, die in § 4 Nr. 2 und 3 näher bezeichneten Bedingungen in gleicher Weise auf seiner Seite der Markscheide einzuhalten."
 
-
-## Anlage I Kap V D III – Anlage I Kapitel VSachgebiet D - Recht des Bergbaus und der VersorgungswirtschaftAbschnitt III
+# Anlage I Kap V D III – Anlage I Kapitel VSachgebiet D - Recht des Bergbaus und der VersorgungswirtschaftAbschnitt III
 
 Folgende Rechtsvorschriften treten mit den nachfolgend genannten Maßgaben in Kraft:
 
@@ -4469,13 +4347,11 @@ c) und d) (nicht mehr anzuwenden)
 
 18. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap V E III – Anlage I Kapitel VSachgebiet E - Recht der gewerblichen WirtschaftAbschnitt III
+# Anlage I Kap V E III – Anlage I Kapitel VSachgebiet E - Recht der gewerblichen WirtschaftAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap V F II – Anlage I Kapitel V  Sachgebiet F - Außenwirtschaftsrecht  Abschnitt II
+# Anlage I Kap V F II – Anlage I Kapitel V  Sachgebiet F - Außenwirtschaftsrecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -4499,13 +4375,11 @@ Bundesrecht wird wie folgt geändert:
 
 6. § 72 wird aufgehoben
 
-
-## Anlage I Kap VI – Anlage I Kapitel VIGeschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+# Anlage I Kap VI – Anlage I Kapitel VIGeschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1010 - 1018)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap VI) - Ausgegeben werden alle Dokumente zum Kapitel VI der Anlage I -
 
@@ -4513,20 +4387,17 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap VI F) - Ausgegeben werden all
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap VI F III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets F des Kapitels VI der Anlage I -
 
-
-## Anlage I Kap VI A II – Anlage I Kapitel VI  Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen  Abschnitt II
+# Anlage I Kap VI A II – Anlage I Kapitel VI  Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben:
 
 1. DDR-Tierseuchenschutzverordnung vom 27. Juni 1990 (BGBl. I S. 1264)
 
-
-## Anlage I Kap VI A III – Anlage I Kapitel VISachgebiet A - Bodennutzung und Tierhaltung, VeterinärwesenAbschnitt III
+# Anlage I Kap VI A III – Anlage I Kapitel VISachgebiet A - Bodennutzung und Tierhaltung, VeterinärwesenAbschnitt III
 
 (Abschnitt III Nr. 1 bis 17 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VI B I – Anlage I Kapitel VI  Sachgebiet B - Agrarpolitik  Abschnitt I
+# Anlage I Kap VI B I – Anlage I Kapitel VI  Sachgebiet B - Agrarpolitik  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -4536,8 +4407,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 3. Landwirtschaftsförderungsverordnung vom 19. Juli 1989 (BGBl. I S. 1472), geändert durch die Verordnung vom 28. Mai 1990 (BGBl. I S. 990)
 
-
-## Anlage I Kap VI B II – Anlage I Kapitel VI  Sachgebiet B - Agrarpolitik  Abschnitt II
+# Anlage I Kap VI B II – Anlage I Kapitel VI  Sachgebiet B - Agrarpolitik  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -4547,20 +4417,17 @@ Bundesrecht wird wie folgt geändert:
 
 "Der Planungsausschuß beschließt mit den Stimmen des Bundes und der Mehrheit der Stimmen der Länder."
 
-
-## Anlage I Kap VI C I – Anlage I Kapitel VI  Sachgebiet C - Marktordnung für Landwirtschaft und Ernährungswirtschaft  Abschnitt I
+# Anlage I Kap VI C I – Anlage I Kapitel VI  Sachgebiet C - Marktordnung für Landwirtschaft und Ernährungswirtschaft  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
 1. § 2a des Milchaufgabevergütungsgesetzes vom 17. Juli 1984 (BGBl. I S. 942), zuletzt geändert durch Gesetz vom 24. Juli 1990 (BGBl. I S. 1470)
 
-
-## Anlage I Kap VI C III – Anlage I Kapitel VISachgebiet C - Marktordnung für Landwirtschaft und ErnährungswirtschaftAbschnitt III
+# Anlage I Kap VI C III – Anlage I Kapitel VISachgebiet C - Marktordnung für Landwirtschaft und ErnährungswirtschaftAbschnitt III
 
 (Abschnitt III Nr. 1 bis 5 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VI D I – Anlage I Kapitel VI  Sachgebiet D - Agrarsozialrecht  Abschnitt I
+# Anlage I Kap VI D I – Anlage I Kapitel VI  Sachgebiet D - Agrarsozialrecht  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -4568,8 +4435,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 2. Gesetz zur Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft vom 31. Juli 1974 (BGBl. I S. 1660), zuletzt geändert durch Artikel 29 des Gesetzes vom 18. Dezember 1989 (BGBl. I S. 2261)
 
-
-## Anlage I Kap VI E III – Anlage I Kapitel VI  Sachgebiet E - Siedlungswesen  Abschnitt III
+# Anlage I Kap VI E III – Anlage I Kapitel VI  Sachgebiet E - Siedlungswesen  Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -4581,8 +4447,7 @@ a) Nach § 1 Abs. 1 Satz 1 können gemeinnützige Siedlungsunternehmen geschaffe
 
 b) Die Ausübung des Vorkaufsrechts nach § 4 setzt voraus, daß eine Genehmigung nach § 2 der Grundstücksverkehrsverordnung vom 15. Dezember 1977 (GBl. I Nr. 5 S. 73) erteilt worden ist.
 
-
-## Anlage I Kap VI F II – Anlage I Kapitel VI  Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei  Abschnitt II
+# Anlage I Kap VI F II – Anlage I Kapitel VI  Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei  Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -4627,30 +4492,25 @@ In der Position "Abies grandis Lindl. Große Küstentanne" wird folgendes Herkun
 
 a) § 2 Abs. 2 Nr. 2 wird wie folgt gefaßt:
 
-"2.  
-im ICES-Bereich IIIc und im ICES-Bereich IIId innerhalb von zwölf Seemeilen gemessen von der Basislinie vor der Küste des Landes Mecklenburg-Vorpommern nicht mit Fahrzeugen mit einer Maschinenleistung von mehr als 221 Kilowatt (300 PS)".
+"2. im ICES-Bereich IIIc und im ICES-Bereich IIId innerhalb von zwölf Seemeilen gemessen von der Basislinie vor der Küste des Landes Mecklenburg-Vorpommern nicht mit Fahrzeugen mit einer Maschinenleistung von mehr als 221 Kilowatt (300 PS)".
 
 b) In der Anlage 3 wird in der Spalte "Ostsee" angefügt: "Wismar, Rostock, Warnemünde, Stralsund, Ribnitz, Stahlbrode, Neuendorf (Hiddensee), Saßnitz, Lauterbach, Göhren, Lietzow, Breege, Dranske, Ummanz, Seedorf, Zudar, Gager, Karlshagen, Freest, Greifswald, Lassan, Wolgast, Ahlbeck, Zempin, Ückermünde".
 
-
-## Anlage I Kap VI F III – Anlage I Kapitel VISachgebiet F - Forstwirtschaft, Jagdwesen und FischereiAbschnitt III
+# Anlage I Kap VI F III – Anlage I Kapitel VISachgebiet F - Forstwirtschaft, Jagdwesen und FischereiAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap VII – Anlage I Kapitel VIIGeschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+# Anlage I Kap VII – Anlage I Kapitel VIIGeschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1019)
 
 (Kein Inhalt)
 
-
-## Anlage I Kap VIII – Anlage I Kapitel VIIIGeschäftsbereich des Bundesministers für Arbeit und Sozialordnung
+# Anlage I Kap VIII – Anlage I Kapitel VIIIGeschäftsbereich des Bundesministers für Arbeit und Sozialordnung
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1020 - 1070)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap VIII) - Ausgegeben werden alle Dokumente zum Kapitel VIII der Anlage I -
 
@@ -4658,21 +4518,18 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap VIII K) - Ausgegeben werden a
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap VIII K III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets K des Kapitels VIII der Anlage I -
 
-
-## Anlage I Kap VIII A I – Anlage I Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt I
+# Anlage I Kap VIII A I – Anlage I Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages ist ausgenommen:  
 Gesetz über die Fristen für die Kündigung von Angestellten in der im Bundesgesetzblatt Teil III, Gliederungsnummer 800-1, veröffentlichten bereinigten Fassung, geändert durch Gesetz vom 26. April 1985 (BGBl. I S. 710)
 
-
-## Anlage I Kap VIII A II – Anlage I Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt II
+# Anlage I Kap VIII A II – Anlage I Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben:  
 Seemannsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9513-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 53 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477),  
 § 18 wird aufgehoben.
 
-
-## Anlage I Kap VIII A III – Anlage I Kapitel VIIISachgebiet A - ArbeitsrechtsordnungAbschnitt III
+# Anlage I Kap VIII A III – Anlage I Kapitel VIIISachgebiet A - ArbeitsrechtsordnungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -4752,8 +4609,7 @@ b) §§ 1 bis 18 finden auf Zusagen über Leistungen der betrieblichen Altersver
 
 c) §§ 26 bis 30 sind nicht anzuwenden.
 
-
-## Anlage I Kap VIII B II – Anlage I Kapitel VIII  Sachgebiet B - Technischer Arbeitsschutz  Abschnitt II
+# Anlage I Kap VIII B II – Anlage I Kapitel VIII  Sachgebiet B - Technischer Arbeitsschutz  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -4884,8 +4740,7 @@ c) In § 11 Abs. 1 Satz 3, § 13 Abs. 3, §§ 16, 19 Abs. 1 Satz 1 und § 20 Abs
   
   
 
-
-## Anlage I Kap VIII B III – Anlage I Kapitel VIIISachgebiet B - Technischer ArbeitsschutzAbschnitt III
+# Anlage I Kap VIII B III – Anlage I Kapitel VIIISachgebiet B - Technischer ArbeitsschutzAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -4909,13 +4764,11 @@ g) Für den öffentlichen Dienst der in Artikel 1 des Vertrages genannten Lände
 
 13. und 14. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII C III – Anlage I Kapitel VIIISachgebiet C - Sozialer ArbeitsschutzAbschnitt III
+# Anlage I Kap VIII C III – Anlage I Kapitel VIIISachgebiet C - Sozialer ArbeitsschutzAbschnitt III
 
 (Abschnitt III Nr. 1 bis 13 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII D II – Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt II
+# Anlage I Kap VIII D II – Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt II
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
@@ -4931,13 +4784,11 @@ Für das Vorverfahren gilt § 25 Abs. 4 des Zehnten Buches Sozialgesetzbuch nich
 
 Für Klagen gegen Verwaltungsakte, die vor dem 1. Januar 1991 von Leistungsträgern im bisherigen Geltungsbereich des Sozialgerichtsgesetzes erstellt worden sind (Datum des Bescheides), findet § 78 Abs. 2 weiter Anwendung, soweit die in dessen bisherigem Geltungsbereich errichteten Sozialgerichte zuständig sind.
 
-
-## Anlage I Kap VIII D III – Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt III
+# Anlage I Kap VIII D III – Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt III
 
 (Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII E I – Anlage I Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt I
+# Anlage I Kap VIII E I – Anlage I Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -4945,8 +4796,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 2. Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen für Heimkehrer in der im Bundesgesetzblatt Teil III, Gliederungsnummer 84-1-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 1 der Verordnung vom 13. Februar 1975 (BGBl. I S. 498)
 
-
-## Anlage I Kap VIII E II – Anlage I Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt II
+# Anlage I Kap VIII E II – Anlage I Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -5145,8 +4995,7 @@ Für das in Artikel 3 des Einigungsvertrages genannte Gebiet gilt dieses Gesetz 
 
 19. § 233b Abs. 2 Satz 1 Nr. 3 ist bis zum Inkrafttreten der §§ 28a bis 28r des Vierten Buches Sozialgesetzbuch in folgender Fassung anzuwenden:
 
-"3.  
-gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,"
+"3. gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,"
 
 § 249e
 
@@ -5216,8 +5065,7 @@ Für das in Artikel 3 des Einigungsvertrages genannte Gebiet gilt
 
 2. § 18 Abs. 2 Nr. 4 ist bis zum Inkrafttreten der §§ 28a bis 28r des Vierten Buches Sozialgesetzbuch in folgender Fassung anzuwenden:
 
-"4.  
-Verstöße gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,"."
+"4. Verstöße gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,"."
 
 3. Gesetz zur Bekämpfung der Schwarzarbeit in der Fassung der Bekanntmachung vom 29. Januar 1982 (BGBl. I S. 109), zuletzt geändert durch Artikel 14 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2330),
 
@@ -5229,8 +5077,7 @@ nach § 2a wird folgender § 2b eingefügt:
 
 Für das in Artikel 3 des Einigungsvertrages genannte Gebiet ist § 2a Abs. 2 Nr. 4 bis zum Inkrafttreten der §§ 28a bis 28r des Vierten Buches Sozialgesetzbuch in folgender Fassung anzuwenden:
 
-"4.  
-Verstöße gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,"."
+"4. Verstöße gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen,"."
 
 4. Altersteilzeitgesetz vom 20. Dezember 1988 (BGBl. I S. 2343, 2348), zuletzt geändert durch Artikel 3 des Gesetzes vom 22. Dezember 1989 (BGBl. I S. 2398),
 
@@ -5300,13 +5147,11 @@ nach § 15 wird folgender § 15a eingefügt:
 
 2. eine unselbständige Tätigkeit von weniger als fünf Jahren ausgeübt hat."
 
-
-## Anlage I Kap VIII E III – Anlage I Kapitel VIIISachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, ArbeitslosenversicherungAbschnitt III
+# Anlage I Kap VIII E III – Anlage I Kapitel VIIISachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, ArbeitslosenversicherungAbschnitt III
 
 (Abschnitt III Nr. 1 bis 7 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII F I – Anlage I Kapitel VIII  Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)  Abschnitt I
+# Anlage I Kap VIII F I – Anlage I Kapitel VIII  Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -5316,8 +5161,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 3. Sachbezugsverordnung 1990 in der Fassung der Bekanntmachung vom 18. Dezember 1984 (BGBl. I S. 1642), zuletzt geändert durch Artikel 2 der Verordnung vom 12. Dezember 1989 (BGBl. I S. 2177).
 
-
-## Anlage I Kap VIII F II – Anlage I Kapitel VIII  Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)  Abschnitt II
+# Anlage I Kap VIII F II – Anlage I Kapitel VIII  Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)  Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -5365,8 +5209,7 @@ Die §§ 89 und 91 Abs. 1 und 2 des Zehnten Buches Sozialgesetzbuch gelten entsp
   
 "§ 1  
 Allgemeines  
-Beschäftigte, für die Beiträge oder Beitragsanteile zur gesetzlichen Kranken- oder Rentenversicherung oder nach dem Arbeitsförderungsgesetz zu entrichten sind, sind bei der Krankenkasse, die den Gesamtsozialversicherungsbeitrag einzieht, an- und abzumelden. Bei einem Wechsel der Krankenkassenzuständigkeit hat der Arbeitgeber den Beschäftigten bei der bisher zuständigen Krankenkasse abzumelden und bei der nun zuständigen Krankenkasse anzumelden. Die Anmeldung hat innerhalb von zwei Wochen nach dem Beginn der Beschäftigung, die Abmeldung innerhalb von sechs Wochen nach deren Ende zu erfolgen. Die Meldungen sind auf den Vordrucken des dem Beschäftigten von dem Träger der Rentenversicherung übersandten Versicherungsnachweisheftes (SVN-Heft) zu erstatten. Der Beschäftigte hat zu diesem Zweck dem Arbeitgeber das SVN-Heft auszuhändigen. Ist der Beschäftigte nicht im Besitz eines SVN-Heftes, sind die Meldungen auf entsprechenden Ersatzvordrucken zu erstatten. Die Ersatzvordrucke sind den Krankenkassen von der Datenstelle im Auftrag aller Träger der Rentenversicherung zur Verfügung zu stellen.  
-  
+Beschäftigte, für die Beiträge oder Beitragsanteile zur gesetzlichen Kranken- oder Rentenversicherung oder nach dem Arbeitsförderungsgesetz zu entrichten sind, sind bei der Krankenkasse, die den Gesamtsozialversicherungsbeitrag einzieht, an- und abzumelden. Bei einem Wechsel der Krankenkassenzuständigkeit hat der Arbeitgeber den Beschäftigten bei der bisher zuständigen Krankenkasse abzumelden und bei der nun zuständigen Krankenkasse anzumelden. Die Anmeldung hat innerhalb von zwei Wochen nach dem Beginn der Beschäftigung, die Abmeldung innerhalb von sechs Wochen nach deren Ende zu erfolgen. Die Meldungen sind auf den Vordrucken des dem Beschäftigten von dem Träger der Rentenversicherung übersandten Versicherungsnachweisheftes (SVN-Heft) zu erstatten. Der Beschäftigte hat zu diesem Zweck dem Arbeitgeber das SVN-Heft auszuhändigen. Ist der Beschäftigte nicht im Besitz eines SVN-Heftes, sind die Meldungen auf entsprechenden Ersatzvordrucken zu erstatten. Die Ersatzvordrucke sind den Krankenkassen von der Datenstelle im Auftrag aller Träger der Rentenversicherung zur Verfügung zu stellen.   
 § 2  
 Ausfüllen der Vordrucke  
 Auf dem Vordruck sind bei einer Meldung folgende Felder immer wie folgt auszufüllen:
@@ -5481,21 +5324,16 @@ In das zutreffende Feld ist ein "X" einzutragen.
 
 In das zutreffende Feld ist ein "X" einzutragen.
 
-Die Angaben zur Person des Beschäftigten sollen amtlichen Unterlagen entnommen werden.  
-  
+Die Angaben zur Person des Beschäftigten sollen amtlichen Unterlagen entnommen werden.   
 § 4  
 Abmeldung auf Ersatzvordruck  
-Bei einer Abmeldung auf einem Ersatzvordruck gelten die §§ 2 und 3; kann die Versicherungsnummer nicht angegeben werden, ist die Meldung ohne diese Angabe zu erstatten.  
-  
+Bei einer Abmeldung auf einem Ersatzvordruck gelten die §§ 2 und 3; kann die Versicherungsnummer nicht angegeben werden, ist die Meldung ohne diese Angabe zu erstatten.   
 § 5  
 Abgabe der Meldung durch den Arbeitgeber  
-(1) Die Vordrucke sollen mit Schreibmaschine ausgefüllt werden. Die einzutragenden Zeichen sollen vollständig und auch auf den Durchschriften gut lesbar sein.  
-(2) Die Erstschrift der Meldungen ist von dem Arbeitgeber der zuständigen Krankenkasse zu übersenden. Die erste Durchschrift ist dem Beschäftigten auszuhändigen; die zweite Durchschrift ist zu den Lohnunterlagen zu nehmen.  
-  
+(1) Die Vordrucke sollen mit Schreibmaschine ausgefüllt werden. Die einzutragenden Zeichen sollen vollständig und auch auf den Durchschriften gut lesbar sein. (2) Die Erstschrift der Meldungen ist von dem Arbeitgeber der zuständigen Krankenkasse zu übersenden. Die erste Durchschrift ist dem Beschäftigten auszuhändigen; die zweite Durchschrift ist zu den Lohnunterlagen zu nehmen.   
 § 6  
 Besonderheiten bei Bundesknappschaft und See-Krankenkasse  
-Die Bundesknappschaft und die See-Krankenkasse können Abweichungen von der Form der Meldungen und deren Ausfüllung bestimmen. Für Beschäftigte, für die die See-Krankenkasse zuständig ist, sind auch Angaben über Berufsgruppe, Fahrzeuggruppe und Patent entsprechend dem Schlüsselverzeichnis der See-Krankenkasse zu machen; die Frist für die Anmeldung beträgt einen Monat. Die Bundesknappschaft bestimmt die Fristen für die An- und Abmeldungen selbst. Bei Meldungen bei der Bundesknappschaft ist als Betriebsnummer die im grundsätzlichen Einvernehmen mit der Bundesanstalt für Arbeit von der Bundesknappschaft vergebene Arbeitgebernummer einzutragen. Bei Meldungen bei der See-Krankenkasse ist als Betriebsnummer die im grundsätzlichen Einvernehmen mit der Bundesanstalt für Arbeit von der See-Berufsgenossenschaft vergebene Arbeitgebernummer einzutragen.  
-  
+Die Bundesknappschaft und die See-Krankenkasse können Abweichungen von der Form der Meldungen und deren Ausfüllung bestimmen. Für Beschäftigte, für die die See-Krankenkasse zuständig ist, sind auch Angaben über Berufsgruppe, Fahrzeuggruppe und Patent entsprechend dem Schlüsselverzeichnis der See-Krankenkasse zu machen; die Frist für die Anmeldung beträgt einen Monat. Die Bundesknappschaft bestimmt die Fristen für die An- und Abmeldungen selbst. Bei Meldungen bei der Bundesknappschaft ist als Betriebsnummer die im grundsätzlichen Einvernehmen mit der Bundesanstalt für Arbeit von der Bundesknappschaft vergebene Arbeitgebernummer einzutragen. Bei Meldungen bei der See-Krankenkasse ist als Betriebsnummer die im grundsätzlichen Einvernehmen mit der Bundesanstalt für Arbeit von der See-Berufsgenossenschaft vergebene Arbeitgebernummer einzutragen.   
 § 7  
 Bestandsmeldung  
 Der Arbeitgeber hat jeden Beschäftigten, für den Beiträge oder Beitragsanteile zur gesetzlichen Kranken- oder Rentenversicherung oder nach dem Arbeitsförderungsgesetz zu entrichten sind, bei der zuständigen Krankenkasse innerhalb eines Monats ab Übernahme des Beitragseinzugs durch die Krankenkasse anzumelden (Bestandsmeldung). § 1 Satz 4 bis 6 gilt. Die Bestandsmeldungen kann der Arbeitgeber auch in Form einer Liste erstatten. Die Liste hat für den Beschäftigten folgende Angaben zu enthalten:  
@@ -5504,29 +5342,21 @@ Der Arbeitgeber hat jeden Beschäftigten, für den Beiträge oder Beitragsanteil
 3. das Geburtsdatum,  
 4. die Anschrift,  
 5. den Beginn der Beschäftigung,  
-6. die Beitragsgruppen.  
-Sollte die Versicherungsnummer nicht bekannt sein, sind zusätzlich die Daten für die Vergabe der Versicherungsnummer aufzunehmen. § 3 Nr. 5 bis 9 gilt. Die Krankenkasse kann für die Angaben auf der Liste eine Form bestimmen.  
-  
+6. die Beitragsgruppen. Sollte die Versicherungsnummer nicht bekannt sein, sind zusätzlich die Daten für die Vergabe der Versicherungsnummer aufzunehmen. § 3 Nr. 5 bis 9 gilt. Die Krankenkasse kann für die Angaben auf der Liste eine Form bestimmen.   
 § 8  
 Kontrollmeldung durch Entleiher  
-(1) Leiharbeitnehmer sind innerhalb von zwei Wochen von dem Entleiher der Krankenkasse, die für den Gesamtsozialversicherungsbeitragseinzug zuständig ist, zu melden. Sind für den Leiharbeitnehmer keine Beiträge oder Beitragsanteile zur gesetzlichen Kranken- oder Rentenversicherung oder nach dem Arbeitsförderungsgesetz zu entrichten, ist die Meldung an die Krankenkasse zu erstatten, die bei Versicherungspflicht in der Krankenversicherung zuständig wäre, wenn er zu dem Entleiher in einem versicherungspflichtigen Beschäftigungsverhältnis stünde. Die Krankenkasse hat eine Durchschrift der Meldung an das für den Betriebssitz des Verleihers örtlich zuständige Arbeitsamt zu senden. Die erforderlichen Vordrucke hat der Entleiher bei der Krankenkasse anzufordern. Die Bundesanstalt für Arbeit stellt den Krankenkassen die Vordrucke für die Meldung von Leiharbeitnehmern zur Verfügung.  
-  
+(1) Leiharbeitnehmer sind innerhalb von zwei Wochen von dem Entleiher der Krankenkasse, die für den Gesamtsozialversicherungsbeitragseinzug zuständig ist, zu melden. Sind für den Leiharbeitnehmer keine Beiträge oder Beitragsanteile zur gesetzlichen Kranken- oder Rentenversicherung oder nach dem Arbeitsförderungsgesetz zu entrichten, ist die Meldung an die Krankenkasse zu erstatten, die bei Versicherungspflicht in der Krankenversicherung zuständig wäre, wenn er zu dem Entleiher in einem versicherungspflichtigen Beschäftigungsverhältnis stünde. Die Krankenkasse hat eine Durchschrift der Meldung an das für den Betriebssitz des Verleihers örtlich zuständige Arbeitsamt zu senden. Die erforderlichen Vordrucke hat der Entleiher bei der Krankenkasse anzufordern. Die Bundesanstalt für Arbeit stellt den Krankenkassen die Vordrucke für die Meldung von Leiharbeitnehmern zur Verfügung.   
 § 9  
 Aufgaben der Träger der Krankenversicherung  
-(1) Die Krankenkassen haben an Hand der Meldungen eine Mitgliederbestandsdatei zu führen und zu prüfen, ob die erforderlichen Angaben vollständig und richtig gemacht worden sind.  
-(2) Bei allen Anmeldungen ohne Versicherungsnummer ist festzustellen, ob die Versicherungsnummer in der Mitgliederbestandsdatei ermittelt werden kann. Kann die Versicherungsnummer nicht ermittelt werden, sind die Daten zur Vergabe einer Versicherungsnummer unverzüglich an die Datenstelle in Würzburg oder die Bundesversicherungsanstalt für Angestellte zu übermitteln. Diese veranlaßt die Vergabe einer Versicherungsnummer oder die Ausstellung eines SVN-Heftes. Die Versicherungsnummer ist der Krankenkasse mitzuteilen.  
-(3) Die Krankenkassen haben alle eingehenden Meldungen an die zuständigen Stellen weiterzuleiten. Für die Aufbereitung, Sicherung und Weiterleitung der Daten gelten die entsprechenden Vorschriften der Zweiten Datenerfassungs-Verordnung und der Zweiten Datenübermittlungs-Verordnung sinngemäß.  
-  
+(1) Die Krankenkassen haben an Hand der Meldungen eine Mitgliederbestandsdatei zu führen und zu prüfen, ob die erforderlichen Angaben vollständig und richtig gemacht worden sind. (2) Bei allen Anmeldungen ohne Versicherungsnummer ist festzustellen, ob die Versicherungsnummer in der Mitgliederbestandsdatei ermittelt werden kann. Kann die Versicherungsnummer nicht ermittelt werden, sind die Daten zur Vergabe einer Versicherungsnummer unverzüglich an die Datenstelle in Würzburg oder die Bundesversicherungsanstalt für Angestellte zu übermitteln. Diese veranlaßt die Vergabe einer Versicherungsnummer oder die Ausstellung eines SVN-Heftes. Die Versicherungsnummer ist der Krankenkasse mitzuteilen. (3) Die Krankenkassen haben alle eingehenden Meldungen an die zuständigen Stellen weiterzuleiten. Für die Aufbereitung, Sicherung und Weiterleitung der Daten gelten die entsprechenden Vorschriften der Zweiten Datenerfassungs-Verordnung und der Zweiten Datenübermittlungs-Verordnung sinngemäß.   
 § 10  
 Verordnungsermächtigung  
-Der Bundesminister für Arbeit und Sozialordnung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Geltungsdauer der §§ 1 bis 9 zu befristen.  
-  
+Der Bundesminister für Arbeit und Sozialordnung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Geltungsdauer der §§ 1 bis 9 zu befristen.   
 § 11  
 Übergangsregelung  
 Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden Regeln verfahren werden.
 
-
-## Anlage I Kap VIII F III – Anlage I Kapitel VIIISachgebiet F - Sozialversicherung (Allgemeine Vorschriften)Abschnitt III
+# Anlage I Kap VIII F III – Anlage I Kapitel VIIISachgebiet F - Sozialversicherung (Allgemeine Vorschriften)Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -5540,8 +5370,7 @@ b) bis o) (nicht mehr anzuwenden)
 
 2. bis 11. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII G II – Anlage I Kapitel VIII  Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung  Abschnitt II
+# Anlage I Kap VIII G II – Anlage I Kapitel VIII  Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -5728,8 +5557,7 @@ Bußgeldvorschriften
 
 § 306 Satz 1 Nr. 5 ist bis zum Inkrafttreten der §§ 28a bis 28r des Vierten Buches in folgender Fassung anzuwenden:
 
-"5.  
-Verstöße gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen.""
+"5. Verstöße gegen Bestimmungen über die Verpflichtung zur Zahlung von Sozialversicherungsbeiträgen.""
 
 2. Krankenhausfinanzierungsgesetz in der Fassung der Bekanntmachung vom 23. Dezember 1985 (BGBl. 1986 I S. 33), zuletzt geändert durch Artikel 22 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477),
 
@@ -5871,8 +5699,7 @@ daß er in dem in Artikel 3 des Einigungsvertrages genannten Gebiet am 1. Januar
   
   
 
-
-## Anlage I Kap VIII G III – Anlage I Kapitel VIIISachgebiet G - Krankenversicherung, Gesundheitliche VersorgungAbschnitt III
+# Anlage I Kap VIII G III – Anlage I Kapitel VIIISachgebiet G - Krankenversicherung, Gesundheitliche VersorgungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -5890,8 +5717,7 @@ b) und c) (nicht mehr anzuwenden)
 
 4. bis 11. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII H I – Anlage I Kapitel VIII  Sachgebiet H - Gesetzliche Rentenversicherung  Abschnitt I
+# Anlage I Kap VIII H I – Anlage I Kapitel VIII  Sachgebiet H - Gesetzliche Rentenversicherung  Abschnitt I
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1020 - 1070)
 
@@ -5994,8 +5820,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 Abschn. I Nr. 45 (Kursivdruck): G tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Art. 46 Nr. 1 G v. 29.7.1994 I 1890 mWv 1.1.1995 in Kraft  
 Abschn. I Nr. 46 (Kursivdruck): V tritt in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Art. 46 Nr. 2 G v. 29.7.1994 I 1890 mWv 1.1.1995 in Kraft
 
-
-## Anlage I Kap VIII H II – Anlage I Kapitel VIII  Sachgebiet H - Gesetzliche Rentenversicherung  Abschnitt II
+# Anlage I Kap VIII H II – Anlage I Kapitel VIII  Sachgebiet H - Gesetzliche Rentenversicherung  Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -6148,8 +5973,7 @@ b) Die bundesunmittelbaren Träger der Rentenversicherung, die Landesversicherun
 
 Mit der Durchführung des Gesetzes über eine Altershilfe für Landwirte in dem Teil des Landes Berlin, in dem das Grundgesetz vor dem Beitritt gegolten hat, bleibt bis zu einer anderweitigen Regelung die landwirtschaftliche Alterskasse beauftragt, die bei der Hannoverschen Landwirtschaftlichen Berufsgenossenschaft errichtet ist."
 
-
-## Anlage I Kap VIII H III – Anlage I Kapitel VIIISachgebiet H - Gesetzliche RentenversicherungAbschnitt III
+# Anlage I Kap VIII H III – Anlage I Kapitel VIIISachgebiet H - Gesetzliche RentenversicherungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -6195,8 +6019,7 @@ d) Beitragsunabhängige Leistungen werden nur in dem Verhältnis gewährt, in de
 
 4. bis 9. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII I I – Anlage I Kapitel VIII  Sachgebiet I - Gesetzliche Unfallversicherung  Abschnitt I
+# Anlage I Kap VIII I I – Anlage I Kapitel VIII  Sachgebiet I - Gesetzliche Unfallversicherung  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrags sind ausgenommen:
 
@@ -6210,13 +6033,11 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrags sind ausge
 
 5. Unfallversicherungsanpassungsverordnung 1983 vom 3. Mai 1983 (BGBl. I S. 546).
 
-
-## Anlage I Kap VIII I III – Anlage I Kapitel VIIISachgebiet I - Gesetzliche UnfallversicherungAbschnitt III
+# Anlage I Kap VIII I III – Anlage I Kapitel VIIISachgebiet I - Gesetzliche UnfallversicherungAbschnitt III
 
 (Abschnitt III Nr. 1 bis 7 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII K I – Anlage I Kapitel VIII  Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation  Abschnitt I
+# Anlage I Kap VIII K I – Anlage I Kapitel VIII  Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -6226,8 +6047,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 3. Anrechnungs-Verordnung 1990/91 vom 30. Juni 1990 (BGBl. I S. 1316).
 
-
-## Anlage I Kap VIII K II – Anlage I Kapitel VIII  Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation  Abschnitt II
+# Anlage I Kap VIII K II – Anlage I Kapitel VIII  Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation  Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:  
 Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21), zuletzt geändert durch Artikel 1 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211)  
@@ -6245,13 +6065,11 @@ Nach § 84 wird eingefügt:
 
 Berechtigte, die am 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hatten, erhalten vom Zeitpunkt der Verlegung des Wohnsitzes oder gewöhnlichen Aufenthalts, frühestens vom 1. Januar 1991 an, Versorgung nach dem Bundesversorgungsgesetz mit den für dieses Gebiet nach dem Einigungsvertrag geltenden Maßgaben, auch wenn sie ihren Wohnsitz oder gewöhnlichen Aufenthalt in das Gebiet verlegen, in dem dieses Gesetz schon vor dem Beitritt gegolten hat. Satz 1 gilt entsprechend für Deutsche und deutsche Volkszugehörige aus den in § 1 der Auslandsversorgungsverordnung genannten Staaten, die nach dem 18. Mai 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begründet haben."
 
-
-## Anlage I Kap VIII K III – Anlage I Kapitel VIIISachgebiet K - Soziales Entschädigungsrecht und RehabilitationAbschnitt III
+# Anlage I Kap VIII K III – Anlage I Kapitel VIIISachgebiet K - Soziales Entschädigungsrecht und RehabilitationAbschnitt III
 
 (Abschnitt III Nr. 1 bis 21 nicht mehr anzuwenden)
 
-
-## Anlage I Kap VIII L III – Anlage I Kapitel VIIISachgebiet L - Förderung der VermögensbildungAbschnitt III
+# Anlage I Kap VIII L III – Anlage I Kapitel VIIISachgebiet L - Förderung der VermögensbildungAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -6263,20 +6081,17 @@ mit folgender Maßgabe:
 
 Die Verordnung ist ab 1. Januar 1991 anzuwenden.
 
-
-## Anlage I Kap IX – Anlage I Kapitel IXGeschäftsbereich des Bundesministers der Verteidigung
+# Anlage I Kap IX – Anlage I Kapitel IXGeschäftsbereich des Bundesministers der Verteidigung
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1071)
 
 (siehe Kapitel XIX - Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten)
 
-
-## Anlage I Kap X – Anlage I Kapitel XGeschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
+# Anlage I Kap X – Anlage I Kapitel XGeschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1072 - 1097)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap X) - Ausgegeben werden alle Dokumente zum Kapitel X der Anlage I -
 
@@ -6284,18 +6099,15 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap X H) - Ausgegeben werden alle
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap X H III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets H des Kapitels X der Anlage I -
 
-
-## Anlage I Kap X A III – Anlage I Kapitel XSachgebiet A - FrauenpolitikAbschnitt III
+# Anlage I Kap X A III – Anlage I Kapitel XSachgebiet A - FrauenpolitikAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap X B III – Anlage I Kapitel XSachgebiet B - JugendAbschnitt III
+# Anlage I Kap X B III – Anlage I Kapitel XSachgebiet B - JugendAbschnitt III
 
 (Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
-
-## Anlage I Kap X C II – Anlage I Kapitel X  Sachgebiet C - Zivildienst  Abschnitt II
+# Anlage I Kap X C II – Anlage I Kapitel X  Sachgebiet C - Zivildienst  Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:  
 Nach § 51 des Zivildienstgesetzes in der Fassung der Bekanntmachung vom 31. Juli 1986 (BGBl. I S. 1205), zuletzt geändert durch Artikel 5 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211, 1216), wird folgender neuer § 51a eingefügt:  
@@ -6303,20 +6115,17 @@ Nach § 51 des Zivildienstgesetzes in der Fassung der Bekanntmachung vom 31. Jul
 Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands  
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die Zivildienstbeschädigungen von Dienstpflichtigen Übergangsregelungen zu bestimmen, die den besonderen Verhältnissen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Rechnung tragen. Die Verordnungsermächtigung erstreckt sich insbesondere auf Art, Berechnungsgrundlagen, Höhe von Versorgungsleistungen und Ruhensregelungen abweichend von diesem Gesetz."
 
-
-## Anlage I Kap X C III – Anlage I Kapitel XSachgebiet C - ZivildienstAbschnitt III
+# Anlage I Kap X C III – Anlage I Kapitel XSachgebiet C - ZivildienstAbschnitt III
 
 (Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
-
-## Anlage I Kap X D I – Anlage I Kapitel X  Sachgebiet D - Gesundheitspolitik  Abschnitt I
+# Anlage I Kap X D I – Anlage I Kapitel X  Sachgebiet D - Gesundheitspolitik  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages ist ausgenommen:
 
 1. Reichsärztekammer-Abwicklungsgesetz vom 9. Oktober 1973 (BGBl. I S. 1449)
 
-
-## Anlage I Kap X D II – Anlage I Kapitel X  Sachgebiet D - Gesundheitspolitik  Abschnitt II
+# Anlage I Kap X D II – Anlage I Kapitel X  Sachgebiet D - Gesundheitspolitik  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -6723,8 +6532,7 @@ cc) Es werden folgende Absätze 2 und 3 eingefügt:
 
 (3) Eine bei Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet geltende vorübergehende Erlaubnis zur Ausübung des Apothekerberufs und eine zu diesem Zeitpunkt in diesen Gebieten geltende Erlaubnis zur Ausübung des Apothekerberufs nach § 9 Abs. 2 der Approbationsordnung für Apotheker vom 13. Januar 1977 (GBl. I Nr. 5 S. 38), geändert durch Anordnung Nr. 2 vom 20. August 1990 (GBl. I Nr. 59 S 1450), gelten mit ihrem bisherigen Inhalt als Erlaubnis nach § 11 weiter."
 
-21a.  
-Gesetz über das Apothekenwesen in der Fassung der Bekanntmachung vom 15. Oktober 1980 (BGBl. I S. 1993), geändert durch Artikel 2 des Gesetzes vom 23. Juli 1988 (BGBl. I S. 1077),
+21a. Gesetz über das Apothekenwesen in der Fassung der Bekanntmachung vom 15. Oktober 1980 (BGBl. I S. 1993), geändert durch Artikel 2 des Gesetzes vom 23. Juli 1988 (BGBl. I S. 1077),
 
 mit folgenden Änderungen:
 
@@ -6792,8 +6600,7 @@ Nach § 23 wird eingefügt:
 
 (2) Abweichend von §§ 8 und 17 Abs. 2 werden Personen, die das Studium der Pharmazie an einer Universität in dem in Artikel 3 des Einigungsvertrages genannten Gebiet absolvieren und den Ersten Abschnitt der Pharmazeutischen Prüfung vor dem 31. Dezember 1992 ablegen, mündlich geprüft. Die Vorschriften des § 11 gelten entsprechend."
 
-22a.  
-Apothekenbetriebsordnung vom 9. Februar 1987 (BGBl. I S. 547), geändert durch Artikel 24 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477),
+22a. Apothekenbetriebsordnung vom 9. Februar 1987 (BGBl. I S. 547), geändert durch Artikel 24 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477),
 
 a) § 2 wird wie folgt geändert:
 
@@ -6808,8 +6615,7 @@ b) § 3 wird wie folgt geändert:
 aa)  
 In Absatz 3 Satz 1 Nr. 5 werden nach dem Wort "Apothekerassistenten" der Punkt durch ein Komma ersetzt und folgende Nummern angefügt:
 
-"6.  
-Pharmazieingenieure,
+"6. Pharmazieingenieure,
 
 7. Personen, die sich in der Ausbildung zum Beruf des Pharmazieingenieurs befinden,
 
@@ -6824,8 +6630,7 @@ cc) In Absatz 5 Satz 2 wird die Angabe "Absatz 3 Nr. 2 bis 4" durch die Angabe "
 
 c) § 17 Abs. 6 Satz 1 Nr. 2 erhält folgende Fassung:
 
-"2.  
-das Namenszeichen des Apothekers, des Apothekerassistenten oder des Pharmazieingenieurs, der das Arzneimittel abgegeben, oder des Apothekers, der die Abgabe beaufsichtigt hat,"
+"2. das Namenszeichen des Apothekers, des Apothekerassistenten oder des Pharmazieingenieurs, der das Arzneimittel abgegeben, oder des Apothekers, der die Abgabe beaufsichtigt hat,"
 
 d) Nach § 35 wird folgender § 35a angefügt:
 
@@ -6990,8 +6795,7 @@ Nach § 41 wird folgender § 41a eingefügt:
   
   
 
-
-## Anlage I Kap X D III – Anlage I Kapitel XSachgebiet D - GesundheitspolitikAbschnitt III
+# Anlage I Kap X D III – Anlage I Kapitel XSachgebiet D - GesundheitspolitikAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7007,15 +6811,13 @@ a) (nicht mehr anzuwenden)
 
 b) (nicht mehr anzuwenden)
 
-c) Soweit nach den §§ 51 bis 55, 59 bis 61 des Bundes-Seuchengesetzes das Bundesversorgungsgesetz und die zu seiner Durchführung erlassenen Vorschriften entsprechend anzuwenden sind, gelten diese Vorschriften mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nr. 1 des Vertrages aufgeführten Maßgaben.  
-(Satz 2 bis 4 nicht mehr anzuwenden)
+c) Soweit nach den §§ 51 bis 55, 59 bis 61 des Bundes-Seuchengesetzes das Bundesversorgungsgesetz und die zu seiner Durchführung erlassenen Vorschriften entsprechend anzuwenden sind, gelten diese Vorschriften mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nr. 1 des Vertrages aufgeführten Maßgaben. (Satz 2 bis 4 nicht mehr anzuwenden)
 
 4. (nicht mehr anzuwenden)
 
 5. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap X E II – Anlage I Kapitel X  Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht  Abschnitt II
+# Anlage I Kap X E II – Anlage I Kapitel X  Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -7023,20 +6825,17 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 a) In Absatz 2 werden folgende Nummern 3 und 4 angefügt:
 
-"3.  
-die zum Zeitpunkt des Inkrafttretens dieser Verordnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Aufgaben der Überwachung des Verkehrs mit Lebensmitteln, Tabakerzeugnissen, kosmetischen Mitteln und Bedarfsgegenständen dort wahrnehmen oder
+"3. die zum Zeitpunkt des Inkrafttretens dieser Verordnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Aufgaben der Überwachung des Verkehrs mit Lebensmitteln, Tabakerzeugnissen, kosmetischen Mitteln und Bedarfsgegenständen dort wahrnehmen oder
 
 4. die eine Ausbildung aufgrund entsprechender Vorschriften der Deutschen Demokratischen Republik vor dem Tage des Inkrafttretens dieser Verordnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begonnen haben und sie danach nach dem bisher geltenden Recht der Deutschen Demokratischen Republik abschließen."
 
 b) In Absatz 3 werden die Worte "Absatz 1 Nr. 1" durch die Worte "Absatz 1 Nr. 1 und 3" ersetzt.
 
-
-## Anlage I Kap X E III – Anlage I Kapitel XSachgebiet E - Lebensmittel- und BedarfsgegenständerechtAbschnitt III
+# Anlage I Kap X E III – Anlage I Kapitel XSachgebiet E - Lebensmittel- und BedarfsgegenständerechtAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap X F II – Anlage I Kapitel X  Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht  Abschnitt II
+# Anlage I Kap X F II – Anlage I Kapitel X  Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
@@ -7046,8 +6845,7 @@ a) In § 4 Abs. 1 Nr. 11 und 12 wird jeweils Satz 2 gestrichen.
 
 b) In § 6 Abs. 5 werden folgende Nummern angefügt:
 
-"4.  
-Personen, die bis zum Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bei der Durchführung der Überwachung nach Absatz 1 Satz 1 mitgewirkt haben oder
+"4. Personen, die bis zum Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bei der Durchführung der Überwachung nach Absatz 1 Satz 1 mitgewirkt haben oder
 
 5. Personen, die eine Ausbildung aufgrund entsprechender Vorschriften der Deutschen Demokratischen Republik vor dem Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet abgeschlossen oder begonnen haben und danach nach dem dort bisher geltenden Recht abschließen."
 
@@ -7061,13 +6859,11 @@ In § 2 wird folgender Absatz 4 angefügt:
 
 2. eine Ausbildung aufgrund entsprechender Vorschriften der Deutschen Demokratischen Republik vor dem Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet abgeschlossen oder begonnen haben und sie danach nach dem dort bisher geltenden Recht abschließen."
 
-
-## Anlage I Kap X F III – Anlage I Kapitel XSachgebiet F - Fleisch- und GeflügelfleischhygienerechtAbschnitt III
+# Anlage I Kap X F III – Anlage I Kapitel XSachgebiet F - Fleisch- und GeflügelfleischhygienerechtAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap X G II – Anlage I Kapitel X  Sachgebiet G - Tierärzte  Abschnitt II
+# Anlage I Kap X G II – Anlage I Kapitel X  Sachgebiet G - Tierärzte  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -7141,13 +6937,11 @@ c) Dem § 69 wird folgender Absatz angefügt:
 
 "(4) Hinsichtlich der Studierenden der Veterinärmedizin, die nach dem Wirksamwerden des Beitritts ein vorher begonnenes Studium der Veterinärmedizin an Universitäten des in Artikel 3 des Einigungsvertrages genannten Gebietes fortsetzen, gilt § 2 Satz 2 und 3 mit der Maßgabe, daß die belegten Pflichtlehrveranstaltungen die in Anlage 1 zu § 2 aufgeführten Fachgebiete enthalten müssen. Hinsichtlich der praktischen Ausbildung nach § 1 Satz 1 Nr. 2 Buchstabe a in Verbindung mit § 58 können Studierende der Veterinärmedizin, die nach dem Wirksamwerden des Beitritts ein vorher begonnenes Studium der Veterinärmedizin an Universitäten der in Artikel 3 des Einigungsvertrages genannten Gebiete fortsetzen, diese Ausbildung an den bisher üblichen Ausbildungsstätten ableisten. Die Vorschriften des § 63 gelten für diese Studierenden mit der Maßgabe, daß bis zum 31. Dezember 1996 anstelle einer praktischen Ausbildung nach § 1 Satz 1 Nr. 2 Buchstabe c eine praktische Ausbildung von mindestens 6 Monaten nach Bestehen der Tierärztlichen Hauptprüfung abgeleistet werden kann."
 
-
-## Anlage I Kap X G III – Anlage I Kapitel XSachgebiet G - TierärzteAbschnitt III
+# Anlage I Kap X G III – Anlage I Kapitel XSachgebiet G - TierärzteAbschnitt III
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap X H I – Anlage I Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt I
+# Anlage I Kap X H I – Anlage I Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -7159,8 +6953,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 Abschn. I Nr. 1: Das G gilt im Beitrittsgebiet nach Maßgabe des § 12 idF G v. 20.12.1991 mWv 1.1.1992
 
-
-## Anlage I Kap X H II – Anlage I Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt II
+# Anlage I Kap X H II – Anlage I Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -7243,8 +7036,7 @@ b) In § 15 Abs. 1 wird nach Satz 1 folgender Satz eingefügt:
 
 "Anspruch auf Erziehungsurlaub haben auch die in § 1 Abs. 4 genannten Personen, deren wöchentliche Arbeitszeit unter der Grenze für geringfügige Beschäftigungen liegt."
 
-
-## Anlage I Kap X H III – Anlage I Kapitel XSachgebiet H - Familie und SozialesAbschnitt III
+# Anlage I Kap X H III – Anlage I Kapitel XSachgebiet H - Familie und SozialesAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit nachfolgenden Maßgaben in Kraft:
 
@@ -7270,13 +7062,11 @@ Heimausschüsse nach der Verordnung über Feierabend- und Pflegeheime vom 1. Mä
 
 15. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap XI – Anlage I Kapitel XIGeschäftsbereich des Bundesministers für Verkehr
+# Anlage I Kap XI – Anlage I Kapitel XIGeschäftsbereich des Bundesministers für Verkehr
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1098 - 1113)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XI) - Ausgegeben werden alle Dokumente zum Kapitel XI der Anlage I -
 
@@ -7284,8 +7074,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XI G) - Ausgegeben werden all
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XI G III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets G des Kapitels XI der Anlage I -
 
-
-## Anlage I Kap XI A III – Anlage I Kapitel XISachgebiet A - EisenbahnverkehrAbschnitt III
+# Anlage I Kap XI A III – Anlage I Kapitel XISachgebiet A - EisenbahnverkehrAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7315,14 +7104,12 @@ Die Verordnung ist erst ab 1. Januar 1992 anzuwenden.
 
 11. Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten nicht oder nicht unmittelbar Anwendung finden können, gelten sie für die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze und Rechtsverordnungen des Bundes, die besondere Regelungen für die Deutsche Bundesbahn vorsehen.
 
-
-## Anlage I Kap XI B I – Anlage I Kapitel XI  Sachgebiet B - Straßenverkehr  Abschnitt I
+# Anlage I Kap XI B I – Anlage I Kapitel XI  Sachgebiet B - Straßenverkehr  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:  
 Höchstzahlenverordnung GüKG vom 9. Dezember 1986 (BGBl. I S. 2452), geändert durch Verordnung vom 5. Dezember 1989 (BGBl. I S. 2131).
 
-
-## Anlage I Kap XI B III – Anlage I Kapitel XISachgebiet B - StraßenverkehrAbschnitt III
+# Anlage I Kap XI B III – Anlage I Kapitel XISachgebiet B - StraßenverkehrAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7420,15 +7207,13 @@ Die bis zum Wirksamwerden des Beitritts aufgestellten Verkehrszeichen gemäß An
 
 Abschn. III Nr. 2 Abs. 41 Kursivdruck: Nicht mehr anzuwenden in Bezug auf § 56 Abs. 2 Nr. 6 der Straßenverkehrs-Zulassungs-Ordnung gem. Art. 122 Nr. 3 Buchst. a DBuchst. aa bbb G v. 8.7.2016 I 1594 mWv 15.7.2016
 
-
-## Anlage I Kap XI C II – Anlage I Kapitel XI  Sachgebiet C - Luftfahrt  Abschnitt II
+# Anlage I Kap XI C II – Anlage I Kapitel XI  Sachgebiet C - Luftfahrt  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:  
 Verordnung über die Erhebung von Gebühren für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug vom 28. September 1989 (BGBl. I S. 1809)  
 In § 1 Abs. 1 werden nach dem Wort "Flughäfen" die Worte "Berlin-Schönefeld,", nach dem Wort "Bremen" das Wort "Dresden,", nach dem Wort "Düsseldorf" das Wort "Erfurt," und nach den Worten "Köln/Bonn" das Wort "Leipzig," eingefügt.
 
-
-## Anlage I Kap XI C III – Anlage I Kapitel XISachgebiet C - LuftfahrtAbschnitt III
+# Anlage I Kap XI C III – Anlage I Kapitel XISachgebiet C - LuftfahrtAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7446,8 +7231,7 @@ b) (nicht mehr anzuwenden)
 
 4. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap XI D II – Anlage I Kapitel XI  Sachgebiet D - Seeverkehr  Abschnitt II
+# Anlage I Kap XI D II – Anlage I Kapitel XI  Sachgebiet D - Seeverkehr  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -7465,8 +7249,7 @@ c) Dem § 19 wird folgender Absatz 8 angefügt:
 
 In § 1 Nr. 4 wird der Punkt am Ende durch ein Semikolon ersetzt, und es wird folgende Nummer 5 angefügt:
 
-"5.  
-das Seeamt Rostock für Seeunfälle, die im Zuständigkeitsbereich des Wasser- und Schiffahrtsamtes Stralsund sowie in den angrenzenden Häfen eingetreten sind.".
+"5. das Seeamt Rostock für Seeunfälle, die im Zuständigkeitsbereich des Wasser- und Schiffahrtsamtes Stralsund sowie in den angrenzenden Häfen eingetreten sind.".
 
 3. Allgemeine Lotsverordnung vom 21. April 1987 (BGBl. I S. 1290)
 
@@ -7482,8 +7265,7 @@ In der Anlage I Abschnitt I - Sichtzeichen - wird der Unterabschnitt B 9 - Bezei
 
 "Die völkerrechtlichen Regeln über die friedliche Durchfahrt durch das Küstenmeer bleiben unberührt."
 
-
-## Anlage I Kap XI D III – Anlage I Kapitel XISachgebiet D - SeeverkehrAbschnitt III
+# Anlage I Kap XI D III – Anlage I Kapitel XISachgebiet D - SeeverkehrAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7559,8 +7341,7 @@ mit folgender Maßgabe:
 
 Der Genehmigungspflicht unterliegt auch die Übermittlung von Unterlagen, die sich auf das Schiffahrtsgeschäft vor dem Wirksamwerden des Beitritts beziehen.
 
-
-## Anlage I Kap XI E III – Anlage I Kapitel XISachgebiet E - Binnenschiffahrt und WasserstraßenAbschnitt III
+# Anlage I Kap XI E III – Anlage I Kapitel XISachgebiet E - Binnenschiffahrt und WasserstraßenAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7582,13 +7363,11 @@ d) (nicht mehr anzuwenden)
 
 7. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap XI F III – Anlage I Kapitel XISachgebiet F - StraßenbauAbschnitt III
+# Anlage I Kap XI F III – Anlage I Kapitel XISachgebiet F - StraßenbauAbschnitt III
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XI G II – Anlage I Kapitel XI  Sachgebiet G - Allgemeine verkehrliche Bestimmungen  Abschnitt II
+# Anlage I Kap XI G II – Anlage I Kapitel XI  Sachgebiet G - Allgemeine verkehrliche Bestimmungen  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -7640,18 +7419,15 @@ e) § 12 Abs. 4 wird wie folgt gefaßt:
 
 "(4) In den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen finden die Absätze 1 bis 3 keine Anwendung."
 
-
-## Anlage I Kap XI G III – Anlage I Kapitel XISachgebiet G - Allgemeine verkehrliche BestimmungenAbschnitt III
+# Anlage I Kap XI G III – Anlage I Kapitel XISachgebiet G - Allgemeine verkehrliche BestimmungenAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap XII – Anlage I Kapitel XIIGeschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+# Anlage I Kap XII – Anlage I Kapitel XIIGeschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1114 - 1119)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XII) - Ausgegeben werden alle Dokumente zum Kapitel XII der Anlage I -
 
@@ -7659,8 +7435,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XII A) - Ausgegeben werden al
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XII A III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets A des Kapitels XII der Anlage I -
 
-
-## Anlage I Kap XII A II – Anlage I Kapitel XII  Sachgebiet A - Immissionsschutzrecht  Abschnitt II
+# Anlage I Kap XII A II – Anlage I Kapitel XII  Sachgebiet A - Immissionsschutzrecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:  
 Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880)
@@ -7675,8 +7450,7 @@ Nach Absatz 3 Satz 2 wird folgender Satz eingefügt:
 bb)  
 Im Absatz 4 Nummer 4 wird der Punkt durch ein Semikolon ersetzt und folgende Nummer angefügt:
 
-"5.  
-in dem in Artikel 3 des Einigungsvertrages genannten Gebiet darauf hinzuweisen, daß die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung erfolgt."
+"5. in dem in Artikel 3 des Einigungsvertrages genannten Gebiet darauf hinzuweisen, daß die Zustellung der Entscheidung über die Einwendungen durch öffentliche Bekanntmachung erfolgt."
 
 cc) Im Absatz 8 wird nach Satz 1 folgender Satz eingefügt:
 
@@ -7716,8 +7490,7 @@ d) Dem § 74 wird folgender Satz angefügt:
 
 "§ 10a tritt am 30. Juni 1992 außer Kraft."
 
-
-## Anlage I Kap XII A III – Anlage I Kapitel XIISachgebiet A - ImmissionsschutzrechtAbschnitt III
+# Anlage I Kap XII A III – Anlage I Kapitel XIISachgebiet A - ImmissionsschutzrechtAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -7733,8 +7506,7 @@ Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgend
 
 6. (nicht mehr anzuwenden)
 
-
-## Anlage I Kap XII B II – Anlage I Kapitel XII  Sachgebiet B - Kerntechnische Sicherheit und Strahlenschutz  Abschnitt II
+# Anlage I Kap XII B II – Anlage I Kapitel XII  Sachgebiet B - Kerntechnische Sicherheit und Strahlenschutz  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -7772,13 +7544,11 @@ Dem § 11 wird folgender Absatz 9 angefügt:
 
 "(9) Die Ermittlung der Umweltradioaktivität, die aus bergbaulicher Tätigkeit in Gegenwart natürlicher radioaktiver Stoffe stammt, ist in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Aufgabe des Bundes im Sinne von § 2. Zuständig ist das Bundesamt für Strahlenschutz."
 
-
-## Anlage I Kap XII C III – Anlage I Kapitel XIISachgebiet C - WasserwirtschaftAbschnitt III
+# Anlage I Kap XII C III – Anlage I Kapitel XIISachgebiet C - WasserwirtschaftAbschnitt III
 
 (Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XII D II – Anlage I Kapitel XII  Sachgebiet D - Abfallwirtschaft  Abschnitt II
+# Anlage I Kap XII D II – Anlage I Kapitel XII  Sachgebiet D - Abfallwirtschaft  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:  
 Abfallgesetz vom 27. August 1986 (BGBl. I S. 1410, 1501), zuletzt geändert durch Artikel 2 des Gesetzes vom 11. Mai 1990 (BGBl. I S. 870)
@@ -7831,23 +7601,19 @@ Außerkrafttreten
 
 § 8a Abs. 1 bis 4 treten am 30. Juni 1992 außer Kraft."
 
-
-## Anlage I Kap XII E III – Anlage I Kapitel XIISachgebiet E - ChemikalienrechtAbschnitt III
+# Anlage I Kap XII E III – Anlage I Kapitel XIISachgebiet E - ChemikalienrechtAbschnitt III
 
 (Abschnitt III Nr. 1 bis 3 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XII F III – Anlage I Kapitel XIISachgebiet F - Naturschutz und LandschaftspflegeAbschnitt III
+# Anlage I Kap XII F III – Anlage I Kapitel XIISachgebiet F - Naturschutz und LandschaftspflegeAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap XIII – Anlage I Kapitel XIIIGeschäftsbereich des Bundesministers für Post und Telekommunikation
+# Anlage I Kap XIII – Anlage I Kapitel XIIIGeschäftsbereich des Bundesministers für Post und Telekommunikation
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1120 - 1121)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XIII) - Ausgegeben werden alle Dokumente zum Kapitel XIII der Anlage I -
 
@@ -7855,8 +7621,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XIII A) - Ausgegeben werden a
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIII A III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets A des Kapitels XIII der Anlage I -
 
-
-## Anlage I Kap XIII A II – Anlage I Kapitel XIII  Sachgebiet A - Postverfassungsrecht  Abschnitt II
+# Anlage I Kap XIII A II – Anlage I Kapitel XIII  Sachgebiet A - Postverfassungsrecht  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
 
@@ -7868,13 +7633,11 @@ a) § 32 Abs. 1 Satz 2 wird wie folgt gefaßt:
 
 b) Die Berlin betreffenden Sonderregelungen in § 1 Abs. 3, § 2 Abs. 3, § 46 Abs. 2, § 47 Abs. 1 Satz 1 Nr. 2 und Satz 3 sowie § 61 Satz 2 Nr. 1 werden aufgehoben.
 
-
-## Anlage I Kap XIII A III – Anlage I Kapitel XIIISachgebiet A - PostverfassungsrechtAbschnitt III
+# Anlage I Kap XIII A III – Anlage I Kapitel XIIISachgebiet A - PostverfassungsrechtAbschnitt III
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XIII B I – Anlage I Kapitel XIII  Sachgebiet B - Postwesen  Abschnitt I
+# Anlage I Kap XIII B I – Anlage I Kapitel XIII  Sachgebiet B - Postwesen  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -7906,30 +7669,25 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 14. Verordnung über die Gebühren im Post- und Fernmeldeverkehr mit der Deutschen Post der Deutschen Demokratischen Republik vom 4. Juni 1976 (BGBl. I S. 1400), zuletzt geändert durch Verordnung vom 26. Juni 1989 (BGBl. I S. 1260).
 
-
-## Anlage I Kap XIII B III – Anlage I Kapitel XIIISachgebiet B - PostwesenAbschnitt III
+# Anlage I Kap XIII B III – Anlage I Kapitel XIIISachgebiet B - PostwesenAbschnitt III
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XIII C III – Anlage I Kapitel XIIISachgebiet C - FernmeldewesenAbschnitt III
+# Anlage I Kap XIII C III – Anlage I Kapitel XIIISachgebiet C - FernmeldewesenAbschnitt III
 
 (Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XIV – Anlage I Kapitel XIVGeschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
+# Anlage I Kap XIV – Anlage I Kapitel XIVGeschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1122 - 1128)
 
-Der Text des Kapitels ist in Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XIV) - Ausgegeben werden alle Dokumente zum Kapitel XIV der Anlage I -
 
 b) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIV III) - Ausgegeben wird das Dokument zum Abschnitt III des Kapitels XIV der Anlage I -
 
-
-## Anlage I Kap XIV I – Anlage I Kapitel XIV  Abschnitt I
+# Anlage I Kap XIV I – Anlage I Kapitel XIV  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
@@ -7937,8 +7695,7 @@ Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausg
 
 2. Gesetz zur dauerhaften sozialen Verbesserung der Wohnungssituation im Land Berlin vom 14. Juli 1987 (BGBl. I S. 1625).
 
-
-## Anlage I Kap XIV II – Anlage I Kapitel XIV  Abschnitt II
+# Anlage I Kap XIV II – Anlage I Kapitel XIV  Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -8170,25 +7927,21 @@ Nach § 41 wird folgender § 42 angefügt:
 
 7. Absatz 1 Nr. 3 bei Vorliegen der in Nummer 6 genannten Voraussetzungen aufzuheben, soweit darin bestimmt wird, daß § 36 Abs. 2 nicht anzuwenden ist."
 
-
-## Anlage I Kap XIV III – Anlage I Kapitel XIVAbschnitt III
+# Anlage I Kap XIV III – Anlage I Kapitel XIVAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap XV – Anlage I Kapitel XVGeschäftsbereich des Bundesministers für Forschung und Technologie
+# Anlage I Kap XV – Anlage I Kapitel XVGeschäftsbereich des Bundesministers für Forschung und Technologie
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1129)
 
 \-
 
-
-## Anlage I Kap XVI – Anlage I Kapitel XVIGeschäftsbereich des Bundesministers für Bildung und Wissenschaft
+# Anlage I Kap XVI – Anlage I Kapitel XVIGeschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1130 - 1136)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XVI) - Ausgegeben werden alle Dokumente zum Kapitel XVI der Anlage I -
 
@@ -8196,8 +7949,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XVI C) - Ausgegeben werden al
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVI C III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets C des Kapitels XVI der Anlage I -
 
-
-## Anlage I Kap XVI A II – Anlage I Kapitel XVI  Sachgebiet A - Hochschulen  Abschnitt II
+# Anlage I Kap XVI A II – Anlage I Kapitel XVI  Sachgebiet A - Hochschulen  Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -8307,8 +8059,7 @@ f) Nach § 75 wird folgender § 75a eingefügt:
 
 Die Übernahme des wissenschaftlichen und künstlerischen Personals der Hochschulen in die nach diesem Gesetz vorgesehenen Rechtsverhältnisse ist in dem nach § 72 Abs. 1 Satz 3 erlassenen Gesetz zu regeln. Die Grundsätze des § 75 Abs. 3, 4, 6 und 8 sind entsprechend anzuwenden; die allgemeinen Regelungen in den Vorschriften des Einigungsvertrages über den öffentlichen Dienst bleiben unberührt. Die mitgliedschaftsrechtliche Stellung derjenigen Beamten und Angestellten, die in ihrem bisherigen Rechtsverhältnis verbleiben, wird durch Landesrecht bestimmt."
 
-
-## Anlage I Kap XVI B II – Anlage I Kapitel XVI  Sachgebiet B - Ausbildungsförderung  Abschnitt II
+# Anlage I Kap XVI B II – Anlage I Kapitel XVI  Sachgebiet B - Ausbildungsförderung  Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:  
 Bundesausbildungsförderungsgesetz in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645, 1680), zuletzt geändert durch Gesetz vom 22. Mai 1990 (BGBl. I S. 936), und nach den § 2 Abs. 3, § 13 Abs. 4, §§ 14a, 15 Abs. 4, § 18 Abs. 6, § 18b Abs. 1, § 21 Abs. 3 Nr. 4, § 44 Abs. 1 und § 45 Abs. 4 dieses Gesetzes erlassene Rechtsverordnungen treten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet am 1. Januar 1991 in Kraft und werden wie folgt geändert:
@@ -8325,8 +8076,7 @@ Der Nummer 2 wird das Wort "oder" angefügt.
 
 cc) Nach Nummer 2 wird folgende Nummer 3 angefügt:
 
-"3.  
-die Ausbildung im Ausland vor dem 1. Oktober 1990 begonnen und für den Monat Dezember 1990 nach dem Stipendienrecht der Deutschen Demokratischen Republik gefördert wurde".
+"3. die Ausbildung im Ausland vor dem 1. Oktober 1990 begonnen und für den Monat Dezember 1990 nach dem Stipendienrecht der Deutschen Demokratischen Republik gefördert wurde".
 
 b) § 6a wird aufgehoben.
 
@@ -8554,8 +8304,7 @@ im Monat übersteigen, höchstens aber ein Betrag von 75 DM im Monat."
 
 6. Die Verordnung über die Ausbildungsförderung für Auszubildende mit Wohnsitz außerhalb des Geltungsbereichs des Gesetzes vom 1. Juni 1990 (BGBl. I S. 998) tritt mit Ablauf des 31. Dezember 1990 außer Kraft.
 
-
-## Anlage I Kap XVI C II – Anlage I Kapitel XVI  Sachgebiet C - Berufliche Bildung  Abschnitt II
+# Anlage I Kap XVI C II – Anlage I Kapitel XVI  Sachgebiet C - Berufliche Bildung  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -8567,57 +8316,47 @@ Gleichstellung von Abschlußzeugnissen im Rahmen der Deutschen Einheit
 
 Prüfungszeugnisse nach der Systematik der Ausbildungsberufe und der Systematik der Facharbeiterberufe und Prüfungszeugnisse nach § 34 Abs. 2 stehen einander gleich."
 
-
-## Anlage I Kap XVI C III – Anlage I Kapitel XVISachgebiet C - Berufliche Bildung
+# Anlage I Kap XVI C III – Anlage I Kapitel XVISachgebiet C - Berufliche Bildung
 
 (Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-
-## Anlage I Kap XVI D III – Anlage I Kapitel XVISachgebiet D - FernunterrichtAbschnitt III
+# Anlage I Kap XVI D III – Anlage I Kapitel XVISachgebiet D - FernunterrichtAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap XVII – Anlage I Kapitel XVIIGeschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
+# Anlage I Kap XVII – Anlage I Kapitel XVIIGeschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1137)
 
-
-## Anlage I Kap XVII III – Anlage I Kapitel XVIIAbschnitt III
+# Anlage I Kap XVII III – Anlage I Kapitel XVIIAbschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
-
-## Anlage I Kap XVIII – Anlage I Kapitel XVIIIStatistik
+# Anlage I Kap XVIII – Anlage I Kapitel XVIIIStatistik
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1138)
 
-Der Text des Kapitels ist in Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XVIII) - Ausgegeben werden alle Dokumente zum Kapitel XVIII der Anlage I -
 
 b) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVIII II) - Ausgegeben wird das Dokument zum Abschnitt II des Kapitels XVIII der Anlage I -
 
-
-## Anlage I Kap XVIII I – Anlage I Kapitel XVIII  Abschnitt I
+# Anlage I Kap XVIII I – Anlage I Kapitel XVIII  Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages ist ausgenommen:
 
 1. Gesetz über die Statistik des Warenverkehrs mit der Deutschen Demokratischen Republik und Berlin (Ost) vom 16. Juni 1978 (BGBl. I S. 751), geändert durch Artikel 30 des Gesetzes vom 25. Juni 1990 (BGBl. I S. 517).
 
-
-## Anlage I Kap XVIII II – Anlage I Kapitel XVIIIAbschnitt II
+# Anlage I Kap XVIII II – Anlage I Kapitel XVIIIAbschnitt II
 
 (Abschnitt II nicht mehr anzuwenden)
 
-
-## Anlage I Kap XIX – Anlage I Kapitel XIXRecht der im öffentlichen Dienst stehenden Personen einschließlich des Rechts der Soldaten
+# Anlage I Kap XIX – Anlage I Kapitel XIXRecht der im öffentlichen Dienst stehenden Personen einschließlich des Rechts der Soldaten
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1139 - 1147)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage I Kap XIX) - Ausgegeben werden alle Dokumente zum Kapitel XIX der Anlage I -
 
@@ -8625,8 +8364,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage I Kap XIX B) - Ausgegeben werden al
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIX B III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels XIX der Anlage I -
 
-
-## Anlage I Kap XIX A II – Anlage I Kapitel XIX  Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen  Abschnitt II
+# Anlage I Kap XIX A II – Anlage I Kapitel XIX  Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen  Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -8664,8 +8402,7 @@ Nach § 72 wird folgender Paragraph eingefügt:
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnungen, die bis zum 30. September 1992 zu erlassen sind, mit Zustimmung des Bundesrates für die Besoldung im Sinne von § 1 und die hierzu erlassenen besonderen Rechtsvorschriften Übergangsregelungen zu bestimmen, die den besonderen Verhältnissen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Rechnung tragen. Diese Verordnungsermächtigung erstreckt sich insbesondere darauf, die Besoldung entsprechend den allgemeinen wirtschaftlichen und finanziellen Verhältnissen und ihrer Entwicklung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet abweichend von diesem Gesetz festzusetzen und regelmäßig anzupassen; das gilt auch für andere Leistungen des Dienstherrn sowie für Besonderheiten der Ämtereinstufung und für die Angleichung der Ämter- und Laufbahnstrukturen. Die Übergangsregelungen sind zu befristen."
 
-
-## Anlage I Kap XIX A III – Anlage I Kapitel XIXSachgebiet A - Recht der im öffentlichen Dienst stehenden PersonenAbschnitt III
+# Anlage I Kap XIX A III – Anlage I Kapitel XIXSachgebiet A - Recht der im öffentlichen Dienst stehenden PersonenAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -8715,8 +8452,7 @@ c) §§ 69, 69 a, 77 bis 82, 84 bis 106, 108 und 109 finden keine Anwendung.
 
 Anlage I Kap. XIX Sachgebiet A Abschn. III Nr. 1 Abs. 2 Satz 2 u. 5: Nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 iVm Art. 6 Abs. 4 GG unvereinbar und nichtig gem. BVerfGE v. 24.4.1991 I 1215 - 1 BvR 1341/90 -
 
-
-## Anlage I Kap XIX B II – Anlage I Kapitel XIX  Sachgebiet B - Recht der Soldaten  Abschnitt II
+# Anlage I Kap XIX B II – Anlage I Kapitel XIX  Sachgebiet B - Recht der Soldaten  Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -8724,13 +8460,11 @@ Bundesrecht wird wie folgt geändert und ergänzt:
 
 a) In der Inhaltsübersicht wird im Sechsten Teil nach Nummer 4 folgende Nummer 4a eingefügt:
 
-"4a.  
-Übergangsregelungen aus Anlaß der Herstellung der Einheit Deutschlands ... 92a".
+"4a. Übergangsregelungen aus Anlaß der Herstellung der Einheit Deutschlands ... 92a".
 
 b) Nach § 92 wird folgender Unterabschnitt eingefügt:
 
-"4a.  
-Übergangsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
+"4a. Übergangsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
 
 § 92a
 
@@ -8833,8 +8567,7 @@ Die vorstehenden Regelungen dieses Abschnitts treten mit Ablauf des 31. Dezember
   
   
 
-
-## Anlage I Kap XIX B III – Anlage I Kapitel XIXSachgebiet B - Recht der SoldatenAbschnitt III
+# Anlage I Kap XIX B III – Anlage I Kapitel XIXSachgebiet B - Recht der SoldatenAbschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
@@ -8854,8 +8587,7 @@ d) Nicht anzuwenden sind die Vorschriften des § 43 des Soldatenversorgungsgeset
 
 6. (nicht mehr anzuwenden)
 
-
-## Anlage II Inhaltsverzeichnis
+# Anlage II Inhaltsverzeichnis
 
 A.
 
@@ -8983,26 +8715,18 @@ Kapitel XIX
 
 Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
-
-## Anlage II BesBest – Besondere Bestimmungen für fortgeltendes Recht der Deutschen Demokratischen Republik
+# Anlage II BesBest – Besondere Bestimmungen für fortgeltendes Recht der Deutschen Demokratischen Republik
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1148)
 
 Vorbemerkungen:  
-Das in Abschnitt I des jeweiligen Kapitels aufgeführte Recht der Deutschen Demokratischen Republik bleibt in Kraft. Entsprechendes gilt für die in Abschnitt I des Kapitels I genannten völkerrechtlichen Verträge gemäß Artikel 12 des Vertrages.  
-Gemäß Abschnitt II des jeweiligen Kapitels werden die dort aufgeführten Rechtsvorschriften der Deutschen Demokratischen Republik aufgehoben, geändert oder ergänzt.  
-Gemäß Abschnitt III des jeweiligen Kapitels bleibt Recht der Deutschen Demokratischen Republik mit den dort bestimmten Maßgaben in Kraft.  
-Soweit in Rechtsvorschriften der Deutschen Demokratischen Republik, die als Bundesrecht fortgelten, auf nicht fortgeltende Vorschriften verwiesen wird, treten an ihre Stelle grundsätzlich die entsprechenden Vorschriften des Bundesrechts, soweit nichts anderes bestimmt ist.  
-Soweit in Rechtsvorschriften der Deutschen Demokratischen Republik, die als Bundesrecht fortgelten, eine Ermächtigung zum Erlaß von Rechtsverordnungen, Anordnungen oder allgemeinen Verwaltungsvorschriften enthalten ist, findet Artikel 129 des Grundgesetzes entsprechend Anwendung.  
-Soweit Rechtsvorschriften ausdrücklich aufgeführt sind, die von der Deutschen Demokratischen Republik zwischen der Unterzeichnung dieses Vertrages und dem Wirksamwerden des Beitritts erlassen werden, treten sie gemäß Artikel 9 Abs. 3 des Vertrages in Verbindung mit Absatz 2 und Anlage II auch ohne zusätzliche Vereinbarung zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik mit den in dieser Anlage niedergelegten Maßgaben in Kraft.
+Das in Abschnitt I des jeweiligen Kapitels aufgeführte Recht der Deutschen Demokratischen Republik bleibt in Kraft. Entsprechendes gilt für die in Abschnitt I des Kapitels I genannten völkerrechtlichen Verträge gemäß Artikel 12 des Vertrages. Gemäß Abschnitt II des jeweiligen Kapitels werden die dort aufgeführten Rechtsvorschriften der Deutschen Demokratischen Republik aufgehoben, geändert oder ergänzt. Gemäß Abschnitt III des jeweiligen Kapitels bleibt Recht der Deutschen Demokratischen Republik mit den dort bestimmten Maßgaben in Kraft. Soweit in Rechtsvorschriften der Deutschen Demokratischen Republik, die als Bundesrecht fortgelten, auf nicht fortgeltende Vorschriften verwiesen wird, treten an ihre Stelle grundsätzlich die entsprechenden Vorschriften des Bundesrechts, soweit nichts anderes bestimmt ist. Soweit in Rechtsvorschriften der Deutschen Demokratischen Republik, die als Bundesrecht fortgelten, eine Ermächtigung zum Erlaß von Rechtsverordnungen, Anordnungen oder allgemeinen Verwaltungsvorschriften enthalten ist, findet Artikel 129 des Grundgesetzes entsprechend Anwendung. Soweit Rechtsvorschriften ausdrücklich aufgeführt sind, die von der Deutschen Demokratischen Republik zwischen der Unterzeichnung dieses Vertrages und dem Wirksamwerden des Beitritts erlassen werden, treten sie gemäß Artikel 9 Abs. 3 des Vertrages in Verbindung mit Absatz 2 und Anlage II auch ohne zusätzliche Vereinbarung zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik mit den in dieser Anlage niedergelegten Maßgaben in Kraft.
 
-
-## Anlage II Kap I – Anlage II Kapitel IGeschäftsbereich des Bundesministers des Auswärtigen
+# Anlage II Kap I – Anlage II Kapitel IGeschäftsbereich des Bundesministers des Auswärtigen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1149)
 
-
-## Anlage II Kap I I – Anlage II Kapitel I  Abschnitt I
+# Anlage II Kap I I – Anlage II Kapitel I  Abschnitt I
 
 Folgende Verträge der Deutschen Demokratischen Republik gemäß Artikel 12 des Vertrages gelten in dem in Artikel 3 des Vertrages genannten Gebiet weiter:
 
@@ -9012,14 +8736,12 @@ Folgende Verträge der Deutschen Demokratischen Republik gemäß Artikel 12 des 
 
 (Quelle für den Notenwechsel: Staatsarchiv)
 
-
-## Anlage II Kap II – Anlage II Kapitel IIGeschäftsbereich des Bundesministers des Innern
+# Anlage II Kap II – Anlage II Kapitel IIGeschäftsbereich des Bundesministers des Innern
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1150 - 1152)
 
 Zur Statistik und zum Recht des öffentlichen Dienstes siehe Kapitel XIX  
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap II) - Ausgegeben werden alle Dokumente zum Kapitel II der Anlage II -
 
@@ -9027,26 +8749,22 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap II B) - Ausgegeben werden al
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap II B III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels II der Anlage II -
 
-
-## Anlage II Kap II A I – Anlage II Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt I
+# Anlage II Kap II A I – Anlage II Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:  
 Länderwahlgesetz - LWG - vom 22. Juli 1990 (GBl. I Nr. 51 S. 960)
 
-
-## Anlage II Kap II A II – Anlage II Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt II
+# Anlage II Kap II A II – Anlage II Kapitel II  Sachgebiet A - Staats- und Verfassungsrecht  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen in Kraft:  
 § 1 Abs. 1, § 2 Abs. 2 und 3, §§ 22, 23 Abs. 2 und 3 sowie § 25 Abs. 1 des Ländereinführungsgesetzes vom 22. Juli 1990 (GBl. I Nr. 51 S. 955)  
 mit folgenden Änderungen: In § 1 Abs. 1 und § 25 Abs. 1 tritt an die Stelle des Datums 14. Oktober 1990 das Datum 3. Oktober 1990.
 
-
-## Anlage II Kap II A III – Anlage II Kapitel IISachgebiet A - Staats- und VerfassungsrechtAbschnitt III
+# Anlage II Kap II A III – Anlage II Kapitel IISachgebiet A - Staats- und VerfassungsrechtAbschnitt III
 
 (Abschnitt III Buchst. a bis d nicht mehr anzuwenden)
 
-
-## Anlage II Kap II B I – Anlage II Kapitel II  Sachgebiet B - Verwaltung  Abschnitt I
+# Anlage II Kap II B I – Anlage II Kapitel II  Sachgebiet B - Verwaltung  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:  
 Gesetz über die Selbstverwaltung der Gemeinden und Landkreise in der DDR (Kommunalverfassung) vom 17. Mai 1990 (GBl. I Nr. 28 S. 255) \*)  
@@ -9055,8 +8773,7 @@ Gesetz über die Selbstverwaltung der Gemeinden und Landkreise in der DDR (Kommu
 \*)  
 "Die Vertragsparteien gehen übereinstimmend davon aus, daß § 13 Abs. 2 Satz 2 des Kommunalverfassungsgesetzes der Deutschen Demokratischen Republik gegenstandslos ist, soweit er nach der für den 13. November 1990 zu erwartenden Entscheidung des Bundesverfassungsgerichts zum Ausländerwahlrecht der Länder Hamburg und Schleswig-Holstein mit dem Grundgesetz nicht zu vereinbaren ist."
 
-
-## Anlage II Kap II B III – Anlage II Kapitel II  Sachgebiet B - Verwaltung  Abschnitt III
+# Anlage II Kap II B III – Anlage II Kapitel II  Sachgebiet B - Verwaltung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -9098,8 +8815,7 @@ Die §§ 1 und 2 sowie die Anlage zur Anordnung treten mit dem Tag des Wirksamwe
 
 5. Das Amt für Karten- und Vermessungswesen der Deutschen Demokratischen Republik wird mit Wirksamwerden des Beitritts als gemeinsames Amt der in Artikel 1 Abs. 1 des Vertrages genannten Länder bis spätestens zum 31. Dezember 1992 weitergeführt, soweit es Aufgaben wahrnimmt, die in die Zuständigkeit der Länder fallen. Es ist insoweit innerhalb des in Satz 1 genannten Zeitraums in entsprechende Einrichtungen der Länder zu überführen.
 
-
-## Anlage II Kap II C III – Anlage II Kapitel II  Sachgebiet C - Öffentliche Sicherheit  Abschnitt III
+# Anlage II Kap II C III – Anlage II Kapitel II  Sachgebiet C - Öffentliche Sicherheit  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -9125,13 +8841,11 @@ a) Dieses Gesetz bleibt bis zum Inkrafttreten von Polizeigesetzen der Länder in
 
 b) Mit Wirksamwerden des Beitritts tritt § 81 außer Kraft.
 
-
-## Anlage II Kap III – Anlage II Kapitel IIIGeschäftsbereich des Bundesministers der Justiz
+# Anlage II Kap III – Anlage II Kapitel IIIGeschäftsbereich des Bundesministers der Justiz
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1153 - 1193)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap III) - Ausgegeben werden alle Dokumente zum Kapitel III der Anlage II -
 
@@ -9139,8 +8853,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap III C) - Ausgegeben werden a
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap III C III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets C des Kapitels III der Anlage II -
 
-
-## Anlage II Kap III A I – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt I
+# Anlage II Kap III A I – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -9166,8 +8879,7 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 Abschn. I Nr. 8 (Kursivdruck): Durchführungsbestimmung aufgeh. durch § 1 Nr. 1 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap III A II – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt II
+# Anlage II Kap III A II – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Aufhebungen, Änderungen, Ergänzungen und Maßgaben in Kraft:
 
@@ -9263,8 +8975,7 @@ kk)
 \-  
 Nummer 1 wird wie folgt gefaßt:
 
-"1.  
-mit gleichem Rang
+"1. mit gleichem Rang
 
 a) Lohn- oder Gehaltsforderungen für die Zeit bis zu 12 Monaten vor der Eröffnung der Gesamtvollstreckung,
 
@@ -9349,8 +9060,7 @@ gg)
 
 3. Die in Anlage I Kapitel III Sachgebiet A Abschnitt III unter Nummer 28 aufgeführten allgemeinen Maßgaben gelten entsprechend.
 
-
-## Anlage II Kap III A III – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt III
+# Anlage II Kap III A III – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt - unbeschadet der Maßgabe y) zum Deutschen Richtergesetz - Nr. 8 - in Anlage I Kapitel III Sachgebiet A Abschnitt III - mit folgenden Maßgaben in Kraft:
 
@@ -9404,8 +9114,7 @@ e) Die dem Minister der Justiz der Deutschen Demokratischen Republik nach § 18 
 
 Abschn. III Nr. 1 Kursivdruck: G aufgeh. durch Art. 21 Abs. 1 Satz 1 nach Maßgabe d. Art. 21 Abs. 2 bis 13 G v. 2.9.1994 I 2278 (RPNeuOG) mWv 9.9.1994
 
-
-## Anlage II Kap III A IV – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt IV
+# Anlage II Kap III A IV – Anlage II Kapitel III  Sachgebiet A - Rechtspflege  Abschnitt IV
 
 In dem Teil des Landes Berlin, in dem das Grundgesetz bisher nicht galt, gelten folgende Besonderheiten:
 
@@ -9427,8 +9136,7 @@ b) Die Gesamtvollstreckungsordnung und das Gesetz über die Unterbrechung von Ge
 
 c) § 21 Abs. 2 der Gesamtvollstreckungsordnung ermächtigt auch zur Zuweisung von Streitigkeiten nach der Gesamtvollstreckungsordnung an ein Amtsgericht in dem Teil des Landes Berlin, in dem das Grundgesetz bisher schon galt.
 
-
-## Anlage II Kap III B I – Anlage II Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt I
+# Anlage II Kap III B I – Anlage II Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -10006,8 +9714,7 @@ Folgende Vorschriften treten außer Kraft:
   
   
 
-
-## Anlage II Kap III B II – Anlage II Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt II
+# Anlage II Kap III B II – Anlage II Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Aufhebungen in Kraft:
 
@@ -10023,8 +9730,7 @@ c) § 7 erhält folgende Fassung:
 
 d) §§ 8 bis 15 werden aufgehoben.
 
-
-## Anlage II Kap III B III – Anlage II Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt III
+# Anlage II Kap III B III – Anlage II Kapitel III  Sachgebiet B - Bürgerliches Recht  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  
 Das Staatshaftungsgesetz vom 12. Mai 1969 (GBl. I Nr. 5 S. 34), geändert durch das Gesetz vom 14. Dezember 1988 (GBl. I Nr. 28 S. 329), gilt mit folgenden Maßgaben als Landesrecht fort:
@@ -10059,8 +9765,7 @@ h) § 10 erhält unter Verzicht auf eine Untergliederung in Absätze folgende Fa
 
 "Ein Schadensersatzanspruch steht auch Angehörigen eines ausländischen Staates zu, die im Geltungsbereich dieses Gesetzes keinen Wohnsitz oder ständigen Aufenthalt haben."
 
-
-## Anlage II Kap III C I – Anlage II Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt I
+# Anlage II Kap III C I – Anlage II Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -10077,29 +9782,23 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Abschn. I Nr. 1 (Kursivdruck): § 149 aufgeh. durch Art. 4 Satz 2 G v. 31.5.1994 I 1168 mWv 11.6.1994  
 Abschn. I Nr. 3 (Kursivdruck): §§ 5, 8, 16, 21 u. 23 aufgeh. durch § 1 Nr. 2 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap III C II – Anlage II Kapitel IIISachgebiet C - Strafrecht und OrdnungswidrigkeitenrechtAbschnitt II
+# Anlage II Kap III C II – Anlage II Kapitel IIISachgebiet C - Strafrecht und OrdnungswidrigkeitenrechtAbschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgender Änderung in Kraft:  
 § 191a des Strafgesetzbuches der Deutschen Demokratischen Republik - StGB - vom 12. Januar 1968 in der Neufassung vom 14. Dezember 1988 (GBl. I 1989 Nr. 3 S. 33), geändert durch das 6. Strafrechtsänderungsgesetz vom 29. Juni 1990 (GBl. I Nr. 39 S. 526)  
 § 191a wird wie folgt gefaßt:  
 "§ 191a  
 Verursachung einer Umweltgefahr  
-(1) Wer unter Verletzung verwaltungsrechtlicher Pflichten eine Verunreinigung des Bodens mit schädlichen Stoffen oder Krankheitserregern in bedeutendem Umfang verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.  
-(2) Der Versuch ist strafbar.  
-(3) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.  
-(4) Verwaltungsrechtliche Pflichten im Sinne des Absatzes 1 verletzt, wer gegen eine Rechtsvorschrift, eine vollziehbare Untersagung, Anordnung oder Auflage verstößt, die dem Schutz des Bodens vor Verunreinigungen dient."
+(1) Wer unter Verletzung verwaltungsrechtlicher Pflichten eine Verunreinigung des Bodens mit schädlichen Stoffen oder Krankheitserregern in bedeutendem Umfang verursacht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. (2) Der Versuch ist strafbar. (3) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. (4) Verwaltungsrechtliche Pflichten im Sinne des Absatzes 1 verletzt, wer gegen eine Rechtsvorschrift, eine vollziehbare Untersagung, Anordnung oder Auflage verstößt, die dem Schutz des Bodens vor Verunreinigungen dient."
 
-
-## Anlage II Kap III C III – Anlage II Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt III
+# Anlage II Kap III C III – Anlage II Kapitel III  Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  
 Schadensersatzvorauszahlungsgesetz vom 14. Dezember 1988 (GBl. I Nr. 29 S. 345)  
 mit folgender Maßgabe:  
 Es findet auf die vor dem Wirksamwerden des Beitritts gestellten Anträge Anwendung.
 
-
-## Anlage II Kap III D I – Anlage II Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt I
+# Anlage II Kap III D I – Anlage II Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt I
 
 Mit Inkrafttreten dieses Vertrages tritt das folgende Gesetz der Deutschen Demokratischen Republik in Kraft:
 
@@ -10449,8 +10148,7 @@ Inventar. Eröffnungsbilanz
 
 § 1  
 Pflicht zur Aufstellung  
-(1) Unternehmen mit Hauptniederlassung (Sitz) in der Deutschen Demokratischen Republik am 1. Juli 1990, die als Kaufleute nach § 238 des Handelsgesetzbuchs verpflichtet sind, Bücher zu führen, haben ein Inventar und eine Eröffnungsbilanz in Deutscher Mark für den 1. Juli 1990 sowie einen Anhang nach § 19 aufzustellen, der mit der Eröffnungsbilanz eine Einheit bildet. Unternehmen, die ihre Eröffnungsbilanz nicht nach § 37 offenlegen müssen, brauchen einen Anhang nicht aufzustellen.  
-(2) Als Unternehmen, die nach Absatz 1 zur Führung von Büchern verpflichtet sind, gelten auch
+(1) Unternehmen mit Hauptniederlassung (Sitz) in der Deutschen Demokratischen Republik am 1. Juli 1990, die als Kaufleute nach § 238 des Handelsgesetzbuchs verpflichtet sind, Bücher zu führen, haben ein Inventar und eine Eröffnungsbilanz in Deutscher Mark für den 1. Juli 1990 sowie einen Anhang nach § 19 aufzustellen, der mit der Eröffnungsbilanz eine Einheit bildet. Unternehmen, die ihre Eröffnungsbilanz nicht nach § 37 offenlegen müssen, brauchen einen Anhang nicht aufzustellen. (2) Als Unternehmen, die nach Absatz 1 zur Führung von Büchern verpflichtet sind, gelten auch
 
 1. volkseigene Kombinate, Betriebe, selbständige Einrichtungen und wirtschaftsleitende Organe, zwischenbetriebliche Einrichtungen und sonstige im Register der volkseigenen Wirtschaft eingetragene Wirtschaftseinheiten sowie volkseigene Güter,
 
@@ -10468,34 +10166,19 @@ Pflicht zur Aufstellung
 
 8. Zweigniederlassungen und Betriebsstätten von Unternehmen nach Absatz 1 mit Hauptniederlassung außerhalb der Deutschen Demokratischen Republik.
 
-(3) Absatz 1 ist auch auf die Treuhandanstalt und auf in Absatz 1 und 2 bezeichnete Unternehmen anzuwenden, die sich in Abwicklung befinden oder über deren Vermögen das Gesamtvollstreckungsverfahren eingeleitet worden ist.  
-(4) Führt ein zur Rechnungslegung verpflichtetes Unternehmen den Geschäftsbetrieb eines in Absatz 1 bis 3 bezeichneten Unternehmens im eigenen oder fremden Namen, aber für fremde Rechnung, so hat es auch dessen Pflichten nach diesem Gesetz zu erfüllen; die Vorschriften dieses Gesetzes sind entsprechend anzuwenden.  
-(5) Zur Rechnungslegung verpflichtete Unternehmen, die innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz entstehen oder in eine private Rechtsform umgewandelt werden, können für die Zwecke dieses Gesetzes als zum 1. Juli 1990 gegründet angesehen werden.  
-  
+(3) Absatz 1 ist auch auf die Treuhandanstalt und auf in Absatz 1 und 2 bezeichnete Unternehmen anzuwenden, die sich in Abwicklung befinden oder über deren Vermögen das Gesamtvollstreckungsverfahren eingeleitet worden ist. (4) Führt ein zur Rechnungslegung verpflichtetes Unternehmen den Geschäftsbetrieb eines in Absatz 1 bis 3 bezeichneten Unternehmens im eigenen oder fremden Namen, aber für fremde Rechnung, so hat es auch dessen Pflichten nach diesem Gesetz zu erfüllen; die Vorschriften dieses Gesetzes sind entsprechend anzuwenden. (5) Zur Rechnungslegung verpflichtete Unternehmen, die innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz entstehen oder in eine private Rechtsform umgewandelt werden, können für die Zwecke dieses Gesetzes als zum 1. Juli 1990 gegründet angesehen werden.   
 § 2  
 Inventar  
-Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend anzuwenden. In das Inventar sind auch solche Vermögensgegenstände aufzunehmen, die dem Unternehmen nach dem 30. Juni 1990 innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz aus ehemals volkseigenem Vermögen unentgeltlich übertragen werden.  
-  
+Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend anzuwenden. In das Inventar sind auch solche Vermögensgegenstände aufzunehmen, die dem Unternehmen nach dem 30. Juni 1990 innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz aus ehemals volkseigenem Vermögen unentgeltlich übertragen werden.   
 § 3  
 Inventur  
-(1) Für die Aufstellung des Inventars braucht eine Inventur zur mengenmäßigen Erfassung der Vermögensgegenstände und Schulden nicht durchgeführt zu werden, wenn bei der Inventur zum 30. Juni 1990 die Vermögensgegenstände und Schulden vollständig aufgenommen und die in Absatz 2 bis 6 enthaltenen Grundsätze beachtet worden sind. Die erst nach dem 30. Juni 1990 erworbenen Vermögensgegenstände und Schulden, die nach § 2 Satz 2 oder nach § 4 Abs. 3 in das Inventar aufzunehmen sind, sind in die Inventur einzubeziehen oder gesondert aufzunehmen. War der Prüfer bei prüfungspflichtigen Unternehmen (§ 33 Abs. 1) bei der Inventur nicht anwesend, kann auf eine neue Inventur nur verzichtet werden, wenn der Prüfer die Ordnungsmäßigkeit der Inventur zum 30. Juni 1990 anerkennt.  
-(2) Die Vermögensgegenstände sind grundsätzlich körperlich zu erfassen. § 241 des Handelsgesetzbuchs darf angewandt werden, Absatz 3 Nr. 1 mit der Maßgabe, daß das Inventar in den ersten vier Monaten des Geschäftsjahrs aufgestellt werden kann. Die körperliche Bestandsaufnahme kann bei den Vermögensgegenständen des Anlagevermögens unterbleiben, wenn diese in einer den Grundsätzen ordnungsmäßiger Buchführung entsprechenden Weise verzeichnet sind und in den letzten zwölf Monaten eine körperliche Aufnahme stattgefunden hat.  
-(3) Bei Grundstücken und Gebäuden sind alle gesetzlichen oder vertraglichen Einschränkungen zu erfassen, die sich auf deren Nutzung, Verfügbarkeit oder Verwertung beziehen; es sind außerdem alle bekannten Sachverhalte festzuhalten, aus denen sich finanzielle Verpflichtungen ergeben können.  
-(4) Forderungen und Verbindlichkeiten sind in besonderen Listen zu erfassen und in einer den Grundsätzen ordnungsmäßiger Buchführung entsprechenden Art und Weise nachzuweisen. Forderungen und Verbindlichkeiten gegenüber dem Staat, der Treuhandanstalt, Gesellschaftern und Tochterunternehmen (§ 21 Abs. 1 Satz 1) sind gesondert zu erfassen; der Rechtsgrund ist jeweils anzugeben. Bei Verbindlichkeiten gegenüber Geldinstituten und Außenhandelsbetrieben ist der Grund für die Kreditgewährung anzugeben.  
-(5) In besonderen Listen sind alle Sachverhalte zu erfassen, die zu einer Rückstellung nach § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs für ungewisse Verbindlichkeiten oder für drohende Verluste aus schwebenden Geschäften führen können oder für die Rückstellungen nach § 249 Abs. 1 Satz 2 des Handelsgesetzbuchs zu bilden sind.  
-(6) In besonderen Listen sind alle Haftungsverhältnisse, die nach § 251 des Handelsgesetzbuchs zu vermerken sind, und alle sonstigen finanziellen Verpflichtungen zu erfassen, über die nach § 19 Abs. 3 Nr. 6 im Anhang zu berichten ist, soweit sie nicht nach Absatz 2 bis 5 berücksichtigt sind.  
-  
+(1) Für die Aufstellung des Inventars braucht eine Inventur zur mengenmäßigen Erfassung der Vermögensgegenstände und Schulden nicht durchgeführt zu werden, wenn bei der Inventur zum 30. Juni 1990 die Vermögensgegenstände und Schulden vollständig aufgenommen und die in Absatz 2 bis 6 enthaltenen Grundsätze beachtet worden sind. Die erst nach dem 30. Juni 1990 erworbenen Vermögensgegenstände und Schulden, die nach § 2 Satz 2 oder nach § 4 Abs. 3 in das Inventar aufzunehmen sind, sind in die Inventur einzubeziehen oder gesondert aufzunehmen. War der Prüfer bei prüfungspflichtigen Unternehmen (§ 33 Abs. 1) bei der Inventur nicht anwesend, kann auf eine neue Inventur nur verzichtet werden, wenn der Prüfer die Ordnungsmäßigkeit der Inventur zum 30. Juni 1990 anerkennt. (2) Die Vermögensgegenstände sind grundsätzlich körperlich zu erfassen. § 241 des Handelsgesetzbuchs darf angewandt werden, Absatz 3 Nr. 1 mit der Maßgabe, daß das Inventar in den ersten vier Monaten des Geschäftsjahrs aufgestellt werden kann. Die körperliche Bestandsaufnahme kann bei den Vermögensgegenständen des Anlagevermögens unterbleiben, wenn diese in einer den Grundsätzen ordnungsmäßiger Buchführung entsprechenden Weise verzeichnet sind und in den letzten zwölf Monaten eine körperliche Aufnahme stattgefunden hat. (3) Bei Grundstücken und Gebäuden sind alle gesetzlichen oder vertraglichen Einschränkungen zu erfassen, die sich auf deren Nutzung, Verfügbarkeit oder Verwertung beziehen; es sind außerdem alle bekannten Sachverhalte festzuhalten, aus denen sich finanzielle Verpflichtungen ergeben können. (4) Forderungen und Verbindlichkeiten sind in besonderen Listen zu erfassen und in einer den Grundsätzen ordnungsmäßiger Buchführung entsprechenden Art und Weise nachzuweisen. Forderungen und Verbindlichkeiten gegenüber dem Staat, der Treuhandanstalt, Gesellschaftern und Tochterunternehmen (§ 21 Abs. 1 Satz 1) sind gesondert zu erfassen; der Rechtsgrund ist jeweils anzugeben. Bei Verbindlichkeiten gegenüber Geldinstituten und Außenhandelsbetrieben ist der Grund für die Kreditgewährung anzugeben. (5) In besonderen Listen sind alle Sachverhalte zu erfassen, die zu einer Rückstellung nach § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs für ungewisse Verbindlichkeiten oder für drohende Verluste aus schwebenden Geschäften führen können oder für die Rückstellungen nach § 249 Abs. 1 Satz 2 des Handelsgesetzbuchs zu bilden sind. (6) In besonderen Listen sind alle Haftungsverhältnisse, die nach § 251 des Handelsgesetzbuchs zu vermerken sind, und alle sonstigen finanziellen Verpflichtungen zu erfassen, über die nach § 19 Abs. 3 Nr. 6 im Anhang zu berichten ist, soweit sie nicht nach Absatz 2 bis 5 berücksichtigt sind.   
 § 4  
 Aufstellung der Eröffnungsbilanz  
-(1) Die Eröffnungsbilanz und der Anhang sind in den ersten vier Monaten des Geschäftsjahrs aufzustellen. Unternehmen, die in der Eröffnungsbilanz eine Bilanzsumme von höchstens drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs ausweisen oder die am 1. Juli 1990 höchstens fünfzig Arbeitnehmer beschäftigen, dürfen die Eröffnungsbilanz und den Anhang in den ersten sechs Monaten des Geschäftsjahrs aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht.  
-(2) Die Eröffnungsbilanz und der Anhang haben unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage im Sinne des § 264 Abs. 2 Satz 1 des Handelsgesetzbuchs zu vermitteln. Führen besondere Umstände dazu, daß die Eröffnungsbilanz ein den tatsächlichen Verhältnissen entsprechendes Bild nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen, sofern ein solcher aufzustellen ist. Es sind nur solche Grundsätze ordnungsmäßiger Buchführung anzuwenden, die in der Bundesrepublik Deutschland entstanden sind oder die zu diesem Gesetz entstehen werden.  
-(3) Übertragen Unternehmen zum Zwecke der Neustrukturierung oder Privatisierung innerhalb der Aufstellungsfrist für die Eröffnungsbilanz nach Absatz 1 Satz 1 Vermögensgegenstände oder Schulden auf andere Unternehmen, so können die sich daraus ergebenden Änderungen in den Eröffnungsbilanzen und Inventaren der betroffenen Unternehmen, jedoch nur übereinstimmend, berücksichtigt werden.  
-  
+(1) Die Eröffnungsbilanz und der Anhang sind in den ersten vier Monaten des Geschäftsjahrs aufzustellen. Unternehmen, die in der Eröffnungsbilanz eine Bilanzsumme von höchstens drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs ausweisen oder die am 1. Juli 1990 höchstens fünfzig Arbeitnehmer beschäftigen, dürfen die Eröffnungsbilanz und den Anhang in den ersten sechs Monaten des Geschäftsjahrs aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht. (2) Die Eröffnungsbilanz und der Anhang haben unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage im Sinne des § 264 Abs. 2 Satz 1 des Handelsgesetzbuchs zu vermitteln. Führen besondere Umstände dazu, daß die Eröffnungsbilanz ein den tatsächlichen Verhältnissen entsprechendes Bild nicht vermittelt, so sind im Anhang zusätzliche Angaben zu machen, sofern ein solcher aufzustellen ist. Es sind nur solche Grundsätze ordnungsmäßiger Buchführung anzuwenden, die in der Bundesrepublik Deutschland entstanden sind oder die zu diesem Gesetz entstehen werden. (3) Übertragen Unternehmen zum Zwecke der Neustrukturierung oder Privatisierung innerhalb der Aufstellungsfrist für die Eröffnungsbilanz nach Absatz 1 Satz 1 Vermögensgegenstände oder Schulden auf andere Unternehmen, so können die sich daraus ergebenden Änderungen in den Eröffnungsbilanzen und Inventaren der betroffenen Unternehmen, jedoch nur übereinstimmend, berücksichtigt werden.   
 § 5  
 Anzuwendende Vorschriften  
-(1) Auf die Eröffnungsbilanz sind die §§ 243 bis 261 des Handelgesetzbuchs mit Ausnahme von § 243 Abs. 3, § 247 Abs. 3, §§ 252, 253 Abs. 1 Satz 1, Abs. 4, § 255 Abs. 3, § 256 Satz 1 entsprechend anzuwenden, soweit sie sich auf die Bilanz beziehen und dieses Gesetz keine abweichenden Regelungen enthält; Angaben über verbundene Unternehmen brauchen nicht gemacht zu werden. Unternehmen, die nicht Einzelkaufmann oder Personenhandelsgesellschaft sind, haben außerdem § 265 Abs. 3 bis 8, §§ 266, 268 Abs. 3 bis 7, §§ 270 bis 272, Genossenschaften die §§ 336, 337 des Handelsgesetzbuchs anzuwenden, soweit dieses Gesetz abweichende Regelungen nicht enthält oder geschäftszweigbezogene Vorschriften über Form und Inhalt der Bilanz nicht zu beachten sind.  
-(2) Werden in der Eröffnungsbilanz die Größenmerkmale des § 267 Abs. 1 oder 2 des Handelsgesetzbuchs bezüglich der Bilanzsumme oder der Arbeitnehmerzahl nicht überschritten, dürfen kleine Unternehmen die Erleichterungen des § 266 Abs. 1 Satz 3 des Handelsgesetzbuchs und mittelgroße Unternehmen die Erleichterungen des § 327 Nr. 1 des Handelsgesetzbuchs bereits bei der Aufstellung der Eröffnungsbilanz in Anspruch nehmen.  
-  
+(1) Auf die Eröffnungsbilanz sind die §§ 243 bis 261 des Handelgesetzbuchs mit Ausnahme von § 243 Abs. 3, § 247 Abs. 3, §§ 252, 253 Abs. 1 Satz 1, Abs. 4, § 255 Abs. 3, § 256 Satz 1 entsprechend anzuwenden, soweit sie sich auf die Bilanz beziehen und dieses Gesetz keine abweichenden Regelungen enthält; Angaben über verbundene Unternehmen brauchen nicht gemacht zu werden. Unternehmen, die nicht Einzelkaufmann oder Personenhandelsgesellschaft sind, haben außerdem § 265 Abs. 3 bis 8, §§ 266, 268 Abs. 3 bis 7, §§ 270 bis 272, Genossenschaften die §§ 336, 337 des Handelsgesetzbuchs anzuwenden, soweit dieses Gesetz abweichende Regelungen nicht enthält oder geschäftszweigbezogene Vorschriften über Form und Inhalt der Bilanz nicht zu beachten sind. (2) Werden in der Eröffnungsbilanz die Größenmerkmale des § 267 Abs. 1 oder 2 des Handelsgesetzbuchs bezüglich der Bilanzsumme oder der Arbeitnehmerzahl nicht überschritten, dürfen kleine Unternehmen die Erleichterungen des § 266 Abs. 1 Satz 3 des Handelsgesetzbuchs und mittelgroße Unternehmen die Erleichterungen des § 327 Nr. 1 des Handelsgesetzbuchs bereits bei der Aufstellung der Eröffnungsbilanz in Anspruch nehmen.   
 Unterabschnitt 2  
 Bilanzansatz- und Bewertungsvorschriften  
   
@@ -10509,68 +10192,37 @@ Allgemeine Anforderungen
 
 3. Es ist vorsichtig zu bewerten, namentlich sind alle vorhersehbaren Risiken und Verluste, die bis zum Stichtag der Eröffnungsbilanz entstanden sind, zu berücksichtigen, selbst wenn diese erst zwischen dem Stichtag und dem Tag der Aufstellung der Eröffnungsbilanz bekannt geworden sind; Gewinne sind nur zu berücksichtigen, wenn sie am Stichtag realisiert sind.
 
-(2) Die auf die in der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände und Schulden angewandten Ansatz- und Bewertungsmethoden sind für die folgenden Bilanzen verbindlich, soweit nicht abgewichen werden muß oder eine Abweichung nach § 252 Abs. 2 des Handelsgesetzbuchs zulässig ist; für die erstmalige Abweichung in einem nachfolgenden Abschluß von einem in der Eröffnungsbilanz ausgeübten Wahlrecht bedarf es eines begründeten Ausnahmefalls nicht.  
-  
+(2) Die auf die in der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände und Schulden angewandten Ansatz- und Bewertungsmethoden sind für die folgenden Bilanzen verbindlich, soweit nicht abgewichen werden muß oder eine Abweichung nach § 252 Abs. 2 des Handelsgesetzbuchs zulässig ist; für die erstmalige Abweichung in einem nachfolgenden Abschluß von einem in der Eröffnungsbilanz ausgeübten Wahlrecht bedarf es eines begründeten Ausnahmefalls nicht.   
 § 7  
 Neubewertung  
-(1) Vermögensgegenstände und Schulden sind neu zu bewerten. Vermögensgegenstände sind mit ihren Wiederbeschaffungs- oder Wiederherstellungskosten anzusetzen (Neuwert); sie dürfen jedoch höchstens mit dem Wert angesetzt werden, der ihnen beizulegen ist (Zeitwert). Wesentliche Werterhöhungen, die innerhalb von vier Monaten nach dem Bilanzstichtag eintreten, sind zu berücksichtigen. Die bisherige Nutzung der Vermögensgegenstände und ihr Zurückbleiben hinter dem technischen Fortschritt sind bei der Ermittlung des Zeitwerts durch einen Wertabschlag zu berücksichtigen. Die in der Eröffnungsbilanz angesetzten Werte gelten für die Folgezeit als Anschaffungs- oder Herstellungskosten, soweit Berichtigungen nach § 36 nicht vorzunehmen sind.  
-(2) Auf die Ermittlung der Wiederbeschaffungskosten ist § 255 Abs. 1 des Handelsgesetzbuchs über die Anschaffungskosten entsprechend anzuwenden. Dabei ist von den Preisverhältnissen im gesamten Währungsgebiet der Deutschen Mark auszugehen.  
-(3) Auf die Ermittlung der Wiederherstellungskosten ist § 255 Abs. 2 des Handelsgesetzbuchs über die Herstellungskosten entsprechend mit der Maßgabe anzuwenden, daß die in dessen Satz 3 bezeichneten Aufwendungen einzurechnen sind; Zinsen für Fremdkapital dürfen nicht angesetzt werden. Der Berechnung der Aufwendungen für den Verbrauch von Gütern und für bezogene Leistungen sind deren Wiederbeschaffungskosten gemäß Absatz 2 und der Berechnung von Aufwendungen für eigene Leistungen die Lohn- und Gehaltsverhältnisse in der Deutschen Demokratischen Republik zugrunde zu legen. Erhöhungen der Personalkosten innerhalb der ersten vier Monate nach dem Stichtag der Eröffnungsbilanz dürfen berücksichtigt werden.  
-(4) Bei abnutzbaren Vermögensgegenständen ist der Wertabschlag für die bisherige Nutzung in entsprechender Anwendung des § 253 Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs zu bemessen. Bei der Festlegung der Nutzungsdauer abnutzbarer Vermögensgegenstände sind die Zeiten zugrundezulegen, die für die steuerliche Gewinnermittlung ab 1. Juli 1990 anzusetzen sind. Bei abnutzbaren Vermögensgegenständen, deren tatsächliche Nutzung die Nutzungsdauer nach Satz 2 nach vernünftiger kaufmännischer Beurteilung voraussichtlich überschreitet, darf der Wert unter Berücksichtigung der längeren Nutzungsdauer angesetzt werden.  
-(5) Vermögensgegenstände, die im Unternehmen nicht mehr verwendet werden, sind mit dem zu erwartenden Verkaufserlös nach Abzug der noch anfallenden Kosten anzusetzen (Veräußerungswert). Vermögensgegenstände, die noch genutzt werden, aber vor dem 1. Juli 1990 bereits vollständig abgeschrieben worden sind, dürfen höchstens mit ihrem Veräußerungswert angesetzt werden.  
-  
+(1) Vermögensgegenstände und Schulden sind neu zu bewerten. Vermögensgegenstände sind mit ihren Wiederbeschaffungs- oder Wiederherstellungskosten anzusetzen (Neuwert); sie dürfen jedoch höchstens mit dem Wert angesetzt werden, der ihnen beizulegen ist (Zeitwert). Wesentliche Werterhöhungen, die innerhalb von vier Monaten nach dem Bilanzstichtag eintreten, sind zu berücksichtigen. Die bisherige Nutzung der Vermögensgegenstände und ihr Zurückbleiben hinter dem technischen Fortschritt sind bei der Ermittlung des Zeitwerts durch einen Wertabschlag zu berücksichtigen. Die in der Eröffnungsbilanz angesetzten Werte gelten für die Folgezeit als Anschaffungs- oder Herstellungskosten, soweit Berichtigungen nach § 36 nicht vorzunehmen sind. (2) Auf die Ermittlung der Wiederbeschaffungskosten ist § 255 Abs. 1 des Handelsgesetzbuchs über die Anschaffungskosten entsprechend anzuwenden. Dabei ist von den Preisverhältnissen im gesamten Währungsgebiet der Deutschen Mark auszugehen. (3) Auf die Ermittlung der Wiederherstellungskosten ist § 255 Abs. 2 des Handelsgesetzbuchs über die Herstellungskosten entsprechend mit der Maßgabe anzuwenden, daß die in dessen Satz 3 bezeichneten Aufwendungen einzurechnen sind; Zinsen für Fremdkapital dürfen nicht angesetzt werden. Der Berechnung der Aufwendungen für den Verbrauch von Gütern und für bezogene Leistungen sind deren Wiederbeschaffungskosten gemäß Absatz 2 und der Berechnung von Aufwendungen für eigene Leistungen die Lohn- und Gehaltsverhältnisse in der Deutschen Demokratischen Republik zugrunde zu legen. Erhöhungen der Personalkosten innerhalb der ersten vier Monate nach dem Stichtag der Eröffnungsbilanz dürfen berücksichtigt werden. (4) Bei abnutzbaren Vermögensgegenständen ist der Wertabschlag für die bisherige Nutzung in entsprechender Anwendung des § 253 Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs zu bemessen. Bei der Festlegung der Nutzungsdauer abnutzbarer Vermögensgegenstände sind die Zeiten zugrundezulegen, die für die steuerliche Gewinnermittlung ab 1. Juli 1990 anzusetzen sind. Bei abnutzbaren Vermögensgegenständen, deren tatsächliche Nutzung die Nutzungsdauer nach Satz 2 nach vernünftiger kaufmännischer Beurteilung voraussichtlich überschreitet, darf der Wert unter Berücksichtigung der längeren Nutzungsdauer angesetzt werden. (5) Vermögensgegenstände, die im Unternehmen nicht mehr verwendet werden, sind mit dem zu erwartenden Verkaufserlös nach Abzug der noch anfallenden Kosten anzusetzen (Veräußerungswert). Vermögensgegenstände, die noch genutzt werden, aber vor dem 1. Juli 1990 bereits vollständig abgeschrieben worden sind, dürfen höchstens mit ihrem Veräußerungswert angesetzt werden.   
 § 8  
 Immaterielle Vermögensgegenstände  
-(1) Das Bilanzierungsverbot des § 248 Abs. 2 des Handelsgesetzbuchs für selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens gilt auch, wenn die Vermögensgegenstände im Wege der Umwandlung vor dem 1. Juli 1990 erworben worden sind. Ein unentgeltlich erworbener Geschäfts- oder Firmenwert darf nicht angesetzt werden; § 31 Abs. 1 Nr. 1 bleibt unberührt.  
-(2) Entgeltlich erworbene immaterielle Vermögensgegenstände des Anlagevermögens, die technisch oder wirtschaftlich überholt sind, dürfen höchstens mit ihrem Veräußerungswert angesetzt werden.  
-(3) Statt der Summe der aus der Einzelbewertung der entgeltlich erworbenen immateriellen Vermögensgegenstände sich ergebenden Beträge kann der Betrag angesetzt werden, den ein Käufer bei Fortführung des Unternehmens im Rahmen des Gesamtkaufpreises für die entgeltlich erworbenen immateriellen Vermögensgegenstände insgesamt zu zahlen bereit wäre. Der Betrag ist, soweit es sich um abnutzbare Vermögensgegenstände handelt, in entsprechender Anwendung des § 255 Abs. 4 des Handelsgesetzbuchs abzuschreiben.  
-  
+(1) Das Bilanzierungsverbot des § 248 Abs. 2 des Handelsgesetzbuchs für selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens gilt auch, wenn die Vermögensgegenstände im Wege der Umwandlung vor dem 1. Juli 1990 erworben worden sind. Ein unentgeltlich erworbener Geschäfts- oder Firmenwert darf nicht angesetzt werden; § 31 Abs. 1 Nr. 1 bleibt unberührt. (2) Entgeltlich erworbene immaterielle Vermögensgegenstände des Anlagevermögens, die technisch oder wirtschaftlich überholt sind, dürfen höchstens mit ihrem Veräußerungswert angesetzt werden. (3) Statt der Summe der aus der Einzelbewertung der entgeltlich erworbenen immateriellen Vermögensgegenstände sich ergebenden Beträge kann der Betrag angesetzt werden, den ein Käufer bei Fortführung des Unternehmens im Rahmen des Gesamtkaufpreises für die entgeltlich erworbenen immateriellen Vermögensgegenstände insgesamt zu zahlen bereit wäre. Der Betrag ist, soweit es sich um abnutzbare Vermögensgegenstände handelt, in entsprechender Anwendung des § 255 Abs. 4 des Handelsgesetzbuchs abzuschreiben.   
 § 9  
 Grund und Boden  
-(1) Grund und Boden ist mit seinem Verkehrswert anzusetzen. Dabei darf die Preisentwicklung im gesamten Währungsgebiet der Deutschen Mark bis zur Feststellung der Eröffnungsbilanz berücksichtigt werden. Bis zur Bildung von selbständigen und unabhängigen Gutachterausschüssen für die Ermittlung der Grundstückswerte und für sonstige Wertermittlungen können für die Ermittlung des Verkehrswerts die vom Ministerium für Wirtschaft empfohlenen Richtwerte herangezogen werden.  
-(2) Bestehen Nutzungs-, Verfügungs- oder Verwertungsbeschränkungen, die den Verkehrswert nach allgemeiner Verkehrsauffassung wesentlich beeinträchtigen, so sind diese wertmindernd zu berücksichtigen. Dies gilt auch für künftige Rekultivierungs- und Entsorgungsverpflichtungen, soweit sie den Eigentümer betreffen.  
-(3) Ein unentgeltlich auf mindestens zehn Jahre unentziehbar eingeräumtes grundstücksgleiches Recht darf mit dem Barwert der üblichen Nutzungsentschädigung angesetzt werden, wenn der dazu gehörende Grund und Boden wie Anlagevermögen genutzt wird. Der angesetzte Betrag ist in der Bilanz oder im Anhang gesondert anzugeben.  
-  
+(1) Grund und Boden ist mit seinem Verkehrswert anzusetzen. Dabei darf die Preisentwicklung im gesamten Währungsgebiet der Deutschen Mark bis zur Feststellung der Eröffnungsbilanz berücksichtigt werden. Bis zur Bildung von selbständigen und unabhängigen Gutachterausschüssen für die Ermittlung der Grundstückswerte und für sonstige Wertermittlungen können für die Ermittlung des Verkehrswerts die vom Ministerium für Wirtschaft empfohlenen Richtwerte herangezogen werden. (2) Bestehen Nutzungs-, Verfügungs- oder Verwertungsbeschränkungen, die den Verkehrswert nach allgemeiner Verkehrsauffassung wesentlich beeinträchtigen, so sind diese wertmindernd zu berücksichtigen. Dies gilt auch für künftige Rekultivierungs- und Entsorgungsverpflichtungen, soweit sie den Eigentümer betreffen. (3) Ein unentgeltlich auf mindestens zehn Jahre unentziehbar eingeräumtes grundstücksgleiches Recht darf mit dem Barwert der üblichen Nutzungsentschädigung angesetzt werden, wenn der dazu gehörende Grund und Boden wie Anlagevermögen genutzt wird. Der angesetzte Betrag ist in der Bilanz oder im Anhang gesondert anzugeben.   
 § 10  
 Bauten und andere Anlagen  
-(1) Gebäude und andere Bauten, technische und andere Anlagen, Maschinen, Betriebs- und Geschäftsausstattung sind mit ihren Wiederherstellungskosten (§ 7 Abs. 3) oder mit ihren Wiederbeschaffungskosten (§ 7 Abs. 2) unter Berücksichtigung des Wertabschlags für zwischenzeitliche Nutzung (§ 7 Abs. 4), höchstens jedoch mit ihrem Zeitwert (§ 7 Abs. 1 Satz 1) anzusetzen. Unterlassene Instandhaltungen und Großreparaturen zur Erhaltung der Bausubstanz sind bei der Ermittlung des Zeitwerts wertmindernd zu berücksichtigen.  
-(2) Als Zeitwert der in Absatz 1 bezeichneten Vermögensgegenstände kann auch ihr Verkehrswert angesetzt werden.  
-  
+(1) Gebäude und andere Bauten, technische und andere Anlagen, Maschinen, Betriebs- und Geschäftsausstattung sind mit ihren Wiederherstellungskosten (§ 7 Abs. 3) oder mit ihren Wiederbeschaffungskosten (§ 7 Abs. 2) unter Berücksichtigung des Wertabschlags für zwischenzeitliche Nutzung (§ 7 Abs. 4), höchstens jedoch mit ihrem Zeitwert (§ 7 Abs. 1 Satz 1) anzusetzen. Unterlassene Instandhaltungen und Großreparaturen zur Erhaltung der Bausubstanz sind bei der Ermittlung des Zeitwerts wertmindernd zu berücksichtigen. (2) Als Zeitwert der in Absatz 1 bezeichneten Vermögensgegenstände kann auch ihr Verkehrswert angesetzt werden.   
 § 11  
 Finanzanlagen  
-(1) Beteiligungen an einem anderen Unternehmen nach § 1 sind in der Eröffnungsbilanz mit dem Betrag anzusetzen, der dem ausgewiesenen anteiligen Eigenkapital in der Eröffnungsbilanz dieses Unternehmens entspricht. Steht dem anderen Unternehmen eine Ausgleichsforderung oder eine Forderung auf Einzahlung von Eigenkapital gegen das beteiligte Unternehmen zu, so sind diese unter den Verbindlichkeiten gegenüber verbundenen Unternehmen gesondert auszuweisen. Andere Beteiligungen sind mit ihrem Verkehrswert anzusetzen. Satz 3 darf auch auf Beteiligungen nach Satz 1 angewandt werden.  
-(2) Aktien und andere Wertpapiere, die an einer Börse zum amtlichen Handel oder zum geregelten Markt zugelassen oder in den Freiverkehr einbezogen sind, sind mit ihrem Kurswert am Stichtag der Eröffnungsbilanz anzusetzen.  
-(3) Ausleihungen, die vor dem 1. Juli 1990 begründet wurden, sind mit der Wirkung auf Deutsche Mark umzustellen, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.  
-  
+(1) Beteiligungen an einem anderen Unternehmen nach § 1 sind in der Eröffnungsbilanz mit dem Betrag anzusetzen, der dem ausgewiesenen anteiligen Eigenkapital in der Eröffnungsbilanz dieses Unternehmens entspricht. Steht dem anderen Unternehmen eine Ausgleichsforderung oder eine Forderung auf Einzahlung von Eigenkapital gegen das beteiligte Unternehmen zu, so sind diese unter den Verbindlichkeiten gegenüber verbundenen Unternehmen gesondert auszuweisen. Andere Beteiligungen sind mit ihrem Verkehrswert anzusetzen. Satz 3 darf auch auf Beteiligungen nach Satz 1 angewandt werden. (2) Aktien und andere Wertpapiere, die an einer Börse zum amtlichen Handel oder zum geregelten Markt zugelassen oder in den Freiverkehr einbezogen sind, sind mit ihrem Kurswert am Stichtag der Eröffnungsbilanz anzusetzen. (3) Ausleihungen, die vor dem 1. Juli 1990 begründet wurden, sind mit der Wirkung auf Deutsche Mark umzustellen, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.   
 § 12  
 Vorräte  
-(1) Roh-, Hilfs- und Betriebsstoffe sind mit ihren Wiederbeschaffungs- oder Wiederherstellungskosten anzusetzen.  
-(2) Unfertige Erzeugnisse und Leistungen sowie fertige Erzeugnisse sind mit ihren Wiederherstellungskosten anzusetzen. Bei fertigen Erzeugnissen darf, wenn dies einer vereinfachten Ermittlung der Wiederherstellungskosten dient, der Betrag angesetzt werden, der sich ergibt, wenn von den zu erwartenden Erlösen die Vertriebskosten und der zu erwartende Gewinn abgesetzt werden. Dieses Verfahren darf auch auf unfertige Erzeugnisse und Leistungen angewandt werden, wenn die bis zur Fertigstellung zusätzlich anfallenden Kosten, die ebenfalls abzusetzen sind, zuverlässig berechnet werden können.  
-(3) Waren, die ohne Be- oder Verarbeitung zur Weiterveräußerung bestimmt sind, sind mit den Wiederbeschaffungskosten anzusetzen. Absatz 2 Satz 2 darf entsprechend angewandt werden.  
-(4) Vorräte nach Absatz 1 bis 3 sind jedoch höchstens mit ihrem Zeitwert (§ 7 Abs. 1 Satz 1) anzusetzen. § 7 Abs. 5 Satz 1 bleibt unberührt.  
-  
+(1) Roh-, Hilfs- und Betriebsstoffe sind mit ihren Wiederbeschaffungs- oder Wiederherstellungskosten anzusetzen. (2) Unfertige Erzeugnisse und Leistungen sowie fertige Erzeugnisse sind mit ihren Wiederherstellungskosten anzusetzen. Bei fertigen Erzeugnissen darf, wenn dies einer vereinfachten Ermittlung der Wiederherstellungskosten dient, der Betrag angesetzt werden, der sich ergibt, wenn von den zu erwartenden Erlösen die Vertriebskosten und der zu erwartende Gewinn abgesetzt werden. Dieses Verfahren darf auch auf unfertige Erzeugnisse und Leistungen angewandt werden, wenn die bis zur Fertigstellung zusätzlich anfallenden Kosten, die ebenfalls abzusetzen sind, zuverlässig berechnet werden können. (3) Waren, die ohne Be- oder Verarbeitung zur Weiterveräußerung bestimmt sind, sind mit den Wiederbeschaffungskosten anzusetzen. Absatz 2 Satz 2 darf entsprechend angewandt werden. (4) Vorräte nach Absatz 1 bis 3 sind jedoch höchstens mit ihrem Zeitwert (§ 7 Abs. 1 Satz 1) anzusetzen. § 7 Abs. 5 Satz 1 bleibt unberührt.   
 § 13  
 Forderungen  
-(1) Auf Mark der Deutschen Demokratischen Republik lautende Forderungen, die vor dem 1. Juli 1990 begründet wurden, werden, soweit Absatz 2 nichts anderes bestimmt, mit der Wirkung auf Deutsche Mark umgerechnet, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.  
-(2) Abweichend von Absatz 1 werden Mieten und Pachten sowie sonstige regelmäßig wiederkehrende Zahlungen, die nach dem 30. Juni 1990 fällig werden, mit der Wirkung auf Deutsche Mark umgerechnet, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.  
-(3) Der Grundsatz der Einzelbewertung ist zu beachten. Minderverzinsliche oder unverzinsliche Forderungen sowie zweifelhafte Forderungen sind mit dem niedrigeren beizulegenden Wert anzusetzen; eingeräumte Sicherheiten sind zu berücksichtigen. Pauschalwertberichtigungen wegen des allgemeinen Kreditrisikos sind vom Gesamtbetrag der Forderungen abzusetzen.  
-(4) Forderungen, die Verbindlichkeiten nach § 16 Abs. 3 und 4 entsprechen, dürfen nicht angesetzt werden.  
-(5) Ausstehende Einlagen sind, auch wenn sie nicht eingefordert sind, wie Forderungen zu bewerten, jedoch nicht abzuzinsen.  
-  
+(1) Auf Mark der Deutschen Demokratischen Republik lautende Forderungen, die vor dem 1. Juli 1990 begründet wurden, werden, soweit Absatz 2 nichts anderes bestimmt, mit der Wirkung auf Deutsche Mark umgerechnet, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist. (2) Abweichend von Absatz 1 werden Mieten und Pachten sowie sonstige regelmäßig wiederkehrende Zahlungen, die nach dem 30. Juni 1990 fällig werden, mit der Wirkung auf Deutsche Mark umgerechnet, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist. (3) Der Grundsatz der Einzelbewertung ist zu beachten. Minderverzinsliche oder unverzinsliche Forderungen sowie zweifelhafte Forderungen sind mit dem niedrigeren beizulegenden Wert anzusetzen; eingeräumte Sicherheiten sind zu berücksichtigen. Pauschalwertberichtigungen wegen des allgemeinen Kreditrisikos sind vom Gesamtbetrag der Forderungen abzusetzen. (4) Forderungen, die Verbindlichkeiten nach § 16 Abs. 3 und 4 entsprechen, dürfen nicht angesetzt werden. (5) Ausstehende Einlagen sind, auch wenn sie nicht eingefordert sind, wie Forderungen zu bewerten, jedoch nicht abzuzinsen.   
 § 14  
 Kassenbestand, Schecks, Guthaben bei Geldinstituten  
-(1) Zahlungsmittel in Mark der Deutschen Demokratischen Republik sind nur anzusetzen, soweit sie weiterhin gesetzliche Zahlungsmittel sind.  
-(2) Schecks sind wie Forderungen zu behandeln.  
-(3) Guthaben bei Geldinstituten in Mark der Deutschen Demokratischen Republik sind mit dem Betrag anzusetzen, den das Geldinstitut in Deutscher Mark gutbringen muß.  
-  
+(1) Zahlungsmittel in Mark der Deutschen Demokratischen Republik sind nur anzusetzen, soweit sie weiterhin gesetzliche Zahlungsmittel sind. (2) Schecks sind wie Forderungen zu behandeln. (3) Guthaben bei Geldinstituten in Mark der Deutschen Demokratischen Republik sind mit dem Betrag anzusetzen, den das Geldinstitut in Deutscher Mark gutbringen muß.   
 § 15  
 Rechnungsabgrenzungsposten  
-Aktive und passive Rechnungsabgrenzungsposten nach § 250 des Handelsgesetzbuchs sind im Verhältnis von zwei Mark der Deutschen Demokratischen Republik zu einer Deutschen Mark umzurechnen, soweit nicht ein anderes Umstellungsverhältnis vorgeschrieben ist.  
-  
+Aktive und passive Rechnungsabgrenzungsposten nach § 250 des Handelsgesetzbuchs sind im Verhältnis von zwei Mark der Deutschen Demokratischen Republik zu einer Deutschen Mark umzurechnen, soweit nicht ein anderes Umstellungsverhältnis vorgeschrieben ist.   
 § 16  
 Verbindlichkeiten  
-(1) Auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten, die vor dem 1. Juli 1990 begründet wurden, werden, soweit Absatz 2 nichts anderes bestimmt, mit der Wirkung auf Deutsche Mark umgerechnet, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.  
-(2) Abweichend von Absatz 1 werden folgende auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten mit der Wirkung auf Deutsche Mark umgerechnet, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist:
+(1) Auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten, die vor dem 1. Juli 1990 begründet wurden, werden, soweit Absatz 2 nichts anderes bestimmt, mit der Wirkung auf Deutsche Mark umgerechnet, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist. (2) Abweichend von Absatz 1 werden folgende auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten mit der Wirkung auf Deutsche Mark umgerechnet, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist:
 
 1. Löhne und Gehälter in Höhe der nach dem 1. Mai 1990 geltenden Tarifverträge sowie Stipendien, die nach dem 30. Juni 1990 fällig werden;
 
@@ -10584,29 +10236,19 @@ Verbindlichkeiten
 
 2. im Falle der Auflösung, Zahlungsunfähigkeit oder Überschuldung des Unternehmens hinter alle Gläubiger zurücktritt, die eine solche Erklärung nicht abgegeben haben.
 
-Der Gesamtbetrag solcher Verbindlichkeiten ist im Anhang unter den sonstigen finanziellen Verpflichtungen gesondert anzugeben, soweit sie nicht auf Grund einer Vereinbarung mit dem Unternehmen als nachrangiges Kapital ausgewiesen werden.  
-(4) Verbindlichkeiten, die innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz erlassen werden, sind nicht zu bilanzieren.  
-  
+Der Gesamtbetrag solcher Verbindlichkeiten ist im Anhang unter den sonstigen finanziellen Verpflichtungen gesondert anzugeben, soweit sie nicht auf Grund einer Vereinbarung mit dem Unternehmen als nachrangiges Kapital ausgewiesen werden. (4) Verbindlichkeiten, die innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz erlassen werden, sind nicht zu bilanzieren.   
 § 17  
 Rückstellungen  
-(1) Ungewisse Verbindlichkeiten, die vor dem 1. Juli 1990 in Mark der Deutschen Demokratischen Republik begründet wurden, sind wie Verbindlichkeiten in Deutsche Mark umzurechnen und als Rückstellungen auszuweisen.  
-(2) Rückstellungen für drohende Verluste aus schwebenden Geschäften nach § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs sind in der Eröffnungsbilanz neu zu bilden. Sie sind insbesondere einzustellen, wenn zu erwarten ist, daß ein Absatz- oder Beschaffungsgeschäft nach Erfüllung zu einem Aufwand führt, der die Gegenleistung übersteigt, oder zu einer Abschreibung auf den gelieferten Gegenstand führt.  
-(3) Rückstellungen, die nicht nach Absatz 1 umzurechnen sind, sind in Höhe des Betrags in Deutscher Mark anzusetzen, der nach vernünftiger kaufmännischer Beurteilung notwendig ist, um die Verpflichtung zu erfüllen.  
-(4) Werden Rückstellungen wegen der erstmaligen Anwendung des § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs in der Eröffnungsbilanz gebildet, so ist in Höhe des Betrags dieser Rückstellungen, soweit er nicht durch eine Ausgleichsforderung nach § 24 Abs. 1 Satz 1 ausgeglichen wird, auf der Aktivseite ein Sonderverlustkonto aus Rückstellungsbildung gesondert auszuweisen. Der aktivierte Betrag ist in den Folgejahren jeweils in Höhe der Aufwendungen abzuschreiben, die zur Erfüllung der zurückgestellten Verpflichtungen entstehen. Soweit die Aktivierung des Sonderverlustkontos zu einer Rücklage führt, darf diese nur zum Ausgleich von Verlusten verwendet werden.  
-(5) § 249 Abs. 1 Satz 2 Nr. 1 des Handelsgesetzbuchs braucht nicht angewandt zu werden. § 249 des Handelsgesetzbuchs bleibt im übrigen unberührt. Wird ein Wertabschlag nach § 9 Abs. 2 oder § 10 Abs. 1 Satz 2 vorgenommen, so ist eine eventuelle Rückstellung nur in Höhe des den Wertabschlag übersteigenden Betrags zu bilden. § 16 Abs. 3 und 4 ist entsprechend anzuwenden.  
-  
+(1) Ungewisse Verbindlichkeiten, die vor dem 1. Juli 1990 in Mark der Deutschen Demokratischen Republik begründet wurden, sind wie Verbindlichkeiten in Deutsche Mark umzurechnen und als Rückstellungen auszuweisen. (2) Rückstellungen für drohende Verluste aus schwebenden Geschäften nach § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs sind in der Eröffnungsbilanz neu zu bilden. Sie sind insbesondere einzustellen, wenn zu erwarten ist, daß ein Absatz- oder Beschaffungsgeschäft nach Erfüllung zu einem Aufwand führt, der die Gegenleistung übersteigt, oder zu einer Abschreibung auf den gelieferten Gegenstand führt. (3) Rückstellungen, die nicht nach Absatz 1 umzurechnen sind, sind in Höhe des Betrags in Deutscher Mark anzusetzen, der nach vernünftiger kaufmännischer Beurteilung notwendig ist, um die Verpflichtung zu erfüllen. (4) Werden Rückstellungen wegen der erstmaligen Anwendung des § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs in der Eröffnungsbilanz gebildet, so ist in Höhe des Betrags dieser Rückstellungen, soweit er nicht durch eine Ausgleichsforderung nach § 24 Abs. 1 Satz 1 ausgeglichen wird, auf der Aktivseite ein Sonderverlustkonto aus Rückstellungsbildung gesondert auszuweisen. Der aktivierte Betrag ist in den Folgejahren jeweils in Höhe der Aufwendungen abzuschreiben, die zur Erfüllung der zurückgestellten Verpflichtungen entstehen. Soweit die Aktivierung des Sonderverlustkontos zu einer Rücklage führt, darf diese nur zum Ausgleich von Verlusten verwendet werden. (5) § 249 Abs. 1 Satz 2 Nr. 1 des Handelsgesetzbuchs braucht nicht angewandt zu werden. § 249 des Handelsgesetzbuchs bleibt im übrigen unberührt. Wird ein Wertabschlag nach § 9 Abs. 2 oder § 10 Abs. 1 Satz 2 vorgenommen, so ist eine eventuelle Rückstellung nur in Höhe des den Wertabschlag übersteigenden Betrags zu bilden. § 16 Abs. 3 und 4 ist entsprechend anzuwenden.   
 § 18  
 Währungsumrechnung  
-Auf ausländische Währung lautende Vermögensgegenstände, Schulden und Rechnungsabgrenzungsposten sowie am Bilanzstichtag nicht abgewickelte Kassa-Geschäfte sind mit dem Kassa-Kurs am Bilanzstichtag in Deutsche Mark umzurechnen. Nicht abgewickelte Termingeschäfte sind zum Terminkurs am Bilanzstichtag umzurechnen. Forderungen und Lieferansprüche sind mit dem Geldkurs, Verbindlichkeiten und Lieferverpflichtungen mit dem Briefkurs umzurechnen.  
-  
+Auf ausländische Währung lautende Vermögensgegenstände, Schulden und Rechnungsabgrenzungsposten sowie am Bilanzstichtag nicht abgewickelte Kassa-Geschäfte sind mit dem Kassa-Kurs am Bilanzstichtag in Deutsche Mark umzurechnen. Nicht abgewickelte Termingeschäfte sind zum Terminkurs am Bilanzstichtag umzurechnen. Forderungen und Lieferansprüche sind mit dem Geldkurs, Verbindlichkeiten und Lieferverpflichtungen mit dem Briefkurs umzurechnen.   
 Unterabschnitt 3  
 Anhang. Vergleichende Darstellung  
   
 § 19  
 Anhang  
-(1) Im Anhang sind die auf die Posten der Eröffnungsbilanz angewandten Bilanzierungs- und Bewertungsmethoden, insbesondere die bei der Neubewertung angewandten, anzugeben und so zu erläutern, daß ein sachverständiger Dritter die Wertansätze beurteilen kann; insbesondere sind bei Schätzungen die Vergleichsmaßstäbe darzustellen. Bei der Ausübung von Wahlrechten sind wesentliche Auswirkungen auf die Vermögenslage gesondert darzustellen. Außerdem sind diejenigen Angaben aufzunehmen, die zu den einzelnen Posten der Eröffnungsbilanz vorgeschrieben oder die im Anhang zu machen sind, weil sie in Ausübung eines Wahlrechts nicht in die Eröffnungsbilanz aufgenommen wurden.  
-(2) Im Anhang sind die Maßnahmen zu beschreiben, die für die Zeit nach dem 30. Juni 1990 getroffen oder geplant worden sind, um das Unternehmen an die veränderten Bedingungen anzupassen. Dazu gehören insbesondere Änderungen des Unternehmenszwecks, Aufgabe oder Neuaufnahme von Produkten, Stillegungen, die Aufspaltung oder der Zusammenschluß mit anderen Unternehmen. Die voraussichtlichen Kosten der Umstrukturierung sind anzugeben.  
-(3) Im Anhang sind ferner anzugeben:
+(1) Im Anhang sind die auf die Posten der Eröffnungsbilanz angewandten Bilanzierungs- und Bewertungsmethoden, insbesondere die bei der Neubewertung angewandten, anzugeben und so zu erläutern, daß ein sachverständiger Dritter die Wertansätze beurteilen kann; insbesondere sind bei Schätzungen die Vergleichsmaßstäbe darzustellen. Bei der Ausübung von Wahlrechten sind wesentliche Auswirkungen auf die Vermögenslage gesondert darzustellen. Außerdem sind diejenigen Angaben aufzunehmen, die zu den einzelnen Posten der Eröffnungsbilanz vorgeschrieben oder die im Anhang zu machen sind, weil sie in Ausübung eines Wahlrechts nicht in die Eröffnungsbilanz aufgenommen wurden. (2) Im Anhang sind die Maßnahmen zu beschreiben, die für die Zeit nach dem 30. Juni 1990 getroffen oder geplant worden sind, um das Unternehmen an die veränderten Bedingungen anzupassen. Dazu gehören insbesondere Änderungen des Unternehmenszwecks, Aufgabe oder Neuaufnahme von Produkten, Stillegungen, die Aufspaltung oder der Zusammenschluß mit anderen Unternehmen. Die voraussichtlichen Kosten der Umstrukturierung sind anzugeben. (3) Im Anhang sind ferner anzugeben:
 
 1. zu den in der Bilanz ausgewiesenen Verbindlichkeiten
 
@@ -10643,30 +10285,19 @@ b) der Gesamtbetrag der Verbindlichkeiten, die durch Pfandrechte oder ähnliche 
   
 § 20  
 Vergleichende Darstellung  
-(1) Dem Anhang ist eine vergleichende Darstellung als Anlage beizufügen, aus der sich ergibt, in welchem Umfang die Posten der Schlußbilanz zum 30. Juni 1990 im Vergleich mit den Posten der D-Markeröffnungsbilanz zum 1. Juli 1990 sich verändert haben. Die sich aus der Neubewertung der Vermögensgegenstände und der Schulden ergebenden Differenzen gegenüber der Schlußbilanz sind in einem gesonderten Nachweis unter der Bezeichnung Neubewertungsdifferenzen, gegliedert nach den Posten der D-Markeröffnungsbilanz, darzustellen. Die Neubewertungsdifferenzen, sind durch Einzelnachweise zu dokumentieren.  
-(2) Die Zuordnung der Posten der Schlußbilanz zum 30. Juni 1990 zu den Posten der D-Markeröffnungsbilanz sowie der gesonderte Nachweis gemäß Absatz 1 sind auf der Grundlage der vom Statistischen Amt der Deutschen Demokratischen Republik herausgegebenen Formblätter vorzunehmen, soweit für Geldinstitute und Außenhandelsbetriebe keine abweichenden Regelungen gemäß Anlage I Artikel 8 § 5 des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik vom 18. Mai 1990 erlassen worden sind.  
-  
+(1) Dem Anhang ist eine vergleichende Darstellung als Anlage beizufügen, aus der sich ergibt, in welchem Umfang die Posten der Schlußbilanz zum 30. Juni 1990 im Vergleich mit den Posten der D-Markeröffnungsbilanz zum 1. Juli 1990 sich verändert haben. Die sich aus der Neubewertung der Vermögensgegenstände und der Schulden ergebenden Differenzen gegenüber der Schlußbilanz sind in einem gesonderten Nachweis unter der Bezeichnung Neubewertungsdifferenzen, gegliedert nach den Posten der D-Markeröffnungsbilanz, darzustellen. Die Neubewertungsdifferenzen, sind durch Einzelnachweise zu dokumentieren. (2) Die Zuordnung der Posten der Schlußbilanz zum 30. Juni 1990 zu den Posten der D-Markeröffnungsbilanz sowie der gesonderte Nachweis gemäß Absatz 1 sind auf der Grundlage der vom Statistischen Amt der Deutschen Demokratischen Republik herausgegebenen Formblätter vorzunehmen, soweit für Geldinstitute und Außenhandelsbetriebe keine abweichenden Regelungen gemäß Anlage I Artikel 8 § 5 des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik vom 18. Mai 1990 erlassen worden sind.   
 Abschnitt 2  
 Konzerneröffnungsbilanz. Gesamteröffnungsbilanz  
   
 § 21  
 Pflicht zur Aufstellung  
-(1) Zur Aufstellung einer Eröffnungsbilanz verpflichtete Unternehmen, die die Mehrheit der Anteile an einem anderen Unternehmen (Tochterunternehmen) besitzen (Mutterunternehmen), haben in den ersten fünf Monaten des Geschäftsjahrs für den 1. Juli 1990 eine Konzerneröffnungsbilanz in Deutscher Mark sowie einen Anhang gemäß § 22 aufzustellen, der mit der Konzerneröffnungsbilanz eine Einheit bildet. Ein Mutterunternehmen ist von der Pflicht zur Aufstellung der Konzerneröffnungsbilanz und des Anhangs befreit, wenn am Stichtag die Bilanzsummen in den Eröffnungsbilanzen des Mutterunternehmens und der einzubeziehenden Tochterunternehmen nach Abzug von in den Eröffnungsbilanzen auf der Aktivseite ausgewiesenen Fehlbeträgen insgesamt fünfzig Millionen Deutsche Mark nicht überschreiten oder die Konzernunternehmen insgesamt nicht mehr als fünfhundert Arbeitnehmer beschäftigen.  
-(2) Die Konzerneröffnungsbilanz und der Anhang sind klar und übersichtlich aufzustellen. Sie haben unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage des Konzerns im Sinne des § 297 Abs. 2 Satz 2 des Handelsgesetzbuchs zu vermitteln. Führen besondere Umstände dazu, daß die Konzerneröffnungsbilanz ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 2 nicht vermittelt, so sind im Konzernanhang zusätzliche Angaben zu machen.  
-(3) In die Konzerneröffnungsbilanz sind das Mutterunternehmen und alle Tochterunternehmen ohne Rücksicht auf den Sitz der Tochterunternehmen einzubeziehen, sofern die Einbeziehung nicht nach den §§ 295, 296 des Handelsgesetzbuchs unterbleibt. Ändert sich die Zusammensetzung des Konzerns innerhalb der Aufstellungsfrist, so sind diese Änderungen so zu behandeln, als wären sie bereits zum 1. Juli 1990 eingetreten. Dies gilt auch für Unternehmen, die innerhalb der Aufstellungsfrist nach dem 1. Juli 1990 gegründet werden.  
-(4) Auf die Konzerneröffnungsbilanz sind die §§ 5 bis 19 dieses Gesetzes sowie die §§ 295 bis 298, 300, 301, 303, 304, 307, 308, 310 bis 312 des Handelsgesetzbuchs und die für die Rechtsform und den Geschäftszweig der in die Konzerneröffnungsbilanz einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften mit Ausnahme des § 296 Abs. 1 Nr. 3 des Handelsgesetzbuchs entsprechend anzuwenden, soweit sie sich auf die Bilanz großer Kapitalgesellschaften beziehen und die Konzerneröffnungsbilanz wegen ihrer Eigenart keine Abweichungen bedingt. Bei der Anwendung des § 308 des Handelsgesetzbuchs kann unterstellt werden, daß die Eröffnungsbilanzen von Tochter- und Mutterunternehmen mit Sitz im Geltungsbereich dieses Gesetzes einheitlich bewertet sind.  
-(5) Die Treuhandanstalt und die von ihr gegründeten Treuhand-Aktiengesellschaften stellen anstatt einer Konzerneröffnungsbilanz eine Gesamteröffnungsbilanz in vereinfachter Form und anstatt eines Konzernanhangs einen Gesamtanhang auf. Sie fassen jeweils die Gesamt- oder Konzerneröffnungsbilanzen ihrer Tochtergesellschaften zusammen. Bei der Kapitalkonsolidierung nach § 301 des Handelsgesetzbuchs kann unterstellt werden, daß ein nach Verrechnung auf der Aktivseite entstehender Unterschiedsbetrag Geschäfts- oder Firmenwert oder ein auf der Passivseite entstehender Unterschiedsbetrag Eigenkapital ist, soweit er im letzteren Fall nicht auf unterlassene Rückstellungen zurückzuführen ist. § 303 des Handelsgesetzbuchs über die Schuldenkonsolidierung braucht nur auf Geschäfte zwischen den Mutterunternehmen und ihren jeweiligen Tochterunternehmen angewandt zu werden. Auch brauchen Zwischenergebnisse nach § 304 des Handelsgesetzbuchs nur herausgerechnet zu werden, wenn sie auf Lieferungen und Leistungen zwischen den aufstellenden Mutterunternehmen und ihren jeweiligen Tochterunternehmen beruhen. Im übrigen sind auf die Aufstellung, Prüfung, Feststellung und Offenlegung die nach diesem Gesetz für die Konzerneröffnungsbilanz und den Konzernanhang geltenden Vorschriften entsprechend anzuwenden. § 295 des Handelsgesetzbuchs ist nicht anzuwenden.  
-  
+(1) Zur Aufstellung einer Eröffnungsbilanz verpflichtete Unternehmen, die die Mehrheit der Anteile an einem anderen Unternehmen (Tochterunternehmen) besitzen (Mutterunternehmen), haben in den ersten fünf Monaten des Geschäftsjahrs für den 1. Juli 1990 eine Konzerneröffnungsbilanz in Deutscher Mark sowie einen Anhang gemäß § 22 aufzustellen, der mit der Konzerneröffnungsbilanz eine Einheit bildet. Ein Mutterunternehmen ist von der Pflicht zur Aufstellung der Konzerneröffnungsbilanz und des Anhangs befreit, wenn am Stichtag die Bilanzsummen in den Eröffnungsbilanzen des Mutterunternehmens und der einzubeziehenden Tochterunternehmen nach Abzug von in den Eröffnungsbilanzen auf der Aktivseite ausgewiesenen Fehlbeträgen insgesamt fünfzig Millionen Deutsche Mark nicht überschreiten oder die Konzernunternehmen insgesamt nicht mehr als fünfhundert Arbeitnehmer beschäftigen. (2) Die Konzerneröffnungsbilanz und der Anhang sind klar und übersichtlich aufzustellen. Sie haben unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage des Konzerns im Sinne des § 297 Abs. 2 Satz 2 des Handelsgesetzbuchs zu vermitteln. Führen besondere Umstände dazu, daß die Konzerneröffnungsbilanz ein den tatsächlichen Verhältnissen entsprechendes Bild im Sinne des Satzes 2 nicht vermittelt, so sind im Konzernanhang zusätzliche Angaben zu machen. (3) In die Konzerneröffnungsbilanz sind das Mutterunternehmen und alle Tochterunternehmen ohne Rücksicht auf den Sitz der Tochterunternehmen einzubeziehen, sofern die Einbeziehung nicht nach den §§ 295, 296 des Handelsgesetzbuchs unterbleibt. Ändert sich die Zusammensetzung des Konzerns innerhalb der Aufstellungsfrist, so sind diese Änderungen so zu behandeln, als wären sie bereits zum 1. Juli 1990 eingetreten. Dies gilt auch für Unternehmen, die innerhalb der Aufstellungsfrist nach dem 1. Juli 1990 gegründet werden. (4) Auf die Konzerneröffnungsbilanz sind die §§ 5 bis 19 dieses Gesetzes sowie die §§ 295 bis 298, 300, 301, 303, 304, 307, 308, 310 bis 312 des Handelsgesetzbuchs und die für die Rechtsform und den Geschäftszweig der in die Konzerneröffnungsbilanz einbezogenen Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes geltenden Vorschriften mit Ausnahme des § 296 Abs. 1 Nr. 3 des Handelsgesetzbuchs entsprechend anzuwenden, soweit sie sich auf die Bilanz großer Kapitalgesellschaften beziehen und die Konzerneröffnungsbilanz wegen ihrer Eigenart keine Abweichungen bedingt. Bei der Anwendung des § 308 des Handelsgesetzbuchs kann unterstellt werden, daß die Eröffnungsbilanzen von Tochter- und Mutterunternehmen mit Sitz im Geltungsbereich dieses Gesetzes einheitlich bewertet sind. (5) Die Treuhandanstalt und die von ihr gegründeten Treuhand-Aktiengesellschaften stellen anstatt einer Konzerneröffnungsbilanz eine Gesamteröffnungsbilanz in vereinfachter Form und anstatt eines Konzernanhangs einen Gesamtanhang auf. Sie fassen jeweils die Gesamt- oder Konzerneröffnungsbilanzen ihrer Tochtergesellschaften zusammen. Bei der Kapitalkonsolidierung nach § 301 des Handelsgesetzbuchs kann unterstellt werden, daß ein nach Verrechnung auf der Aktivseite entstehender Unterschiedsbetrag Geschäfts- oder Firmenwert oder ein auf der Passivseite entstehender Unterschiedsbetrag Eigenkapital ist, soweit er im letzteren Fall nicht auf unterlassene Rückstellungen zurückzuführen ist. § 303 des Handelsgesetzbuchs über die Schuldenkonsolidierung braucht nur auf Geschäfte zwischen den Mutterunternehmen und ihren jeweiligen Tochterunternehmen angewandt zu werden. Auch brauchen Zwischenergebnisse nach § 304 des Handelsgesetzbuchs nur herausgerechnet zu werden, wenn sie auf Lieferungen und Leistungen zwischen den aufstellenden Mutterunternehmen und ihren jeweiligen Tochterunternehmen beruhen. Im übrigen sind auf die Aufstellung, Prüfung, Feststellung und Offenlegung die nach diesem Gesetz für die Konzerneröffnungsbilanz und den Konzernanhang geltenden Vorschriften entsprechend anzuwenden. § 295 des Handelsgesetzbuchs ist nicht anzuwenden.   
 § 22  
 Konzernanhang  
-(1) Auf den Konzernanhang ist § 19 entsprechend anzuwenden. Aus den Anhängen der Tochterunternehmen sind jedoch nur diejenigen Angaben zusammenfassend zu übernehmen, die für die Beurteilung des Konzerns von wesentlicher Bedeutung sind.  
-(2) Im Konzernanhang sind außerdem die nach § 313 Abs. 2 des Handelsgesetzbuchs verlangten Angaben zu machen. § 313 Abs. 3 des Handelsgesetzbuchs ist anzuwenden.  
-  
+(1) Auf den Konzernanhang ist § 19 entsprechend anzuwenden. Aus den Anhängen der Tochterunternehmen sind jedoch nur diejenigen Angaben zusammenfassend zu übernehmen, die für die Beurteilung des Konzerns von wesentlicher Bedeutung sind. (2) Im Konzernanhang sind außerdem die nach § 313 Abs. 2 des Handelsgesetzbuchs verlangten Angaben zu machen. § 313 Abs. 3 des Handelsgesetzbuchs ist anzuwenden.   
 § 23  
 Vorlage- und Auskunftspflichten  
-(1) Jedes Mutterunternehmen kann von seinen Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung der Konzerneröffnungsbilanz und des Konzernanhangs erfordert. Dies gilt auch für Auskünfte, die sich auf andere, dem Mutterunternehmen durch Gesetz übertragene Aufgaben beziehen.  
-(2) Die Tochterunternehmen haben jedem Mutterunternehmen ihre Eröffnungsbilanz einschließlich Anhang und, wenn sie gleichzeitig Mutterunternehmen sind, ihre Konzerneröffnungsbilanz einschließlich Konzernanhang unverzüglich nach deren Aufstellung und die Prüfungsberichte unverzüglich nach deren Eingang einzureichen. Werden die einzureichenden Unterlagen nachträglich geändert, so sind die geänderten Fassungen unverzüglich nach der Änderung einzureichen. Werden die Unterlagen vor ihrer Feststellung eingereicht, ist die Feststellung mitzuteilen, sobald diese erfolgt ist.  
-  
+(1) Jedes Mutterunternehmen kann von seinen Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung der Konzerneröffnungsbilanz und des Konzernanhangs erfordert. Dies gilt auch für Auskünfte, die sich auf andere, dem Mutterunternehmen durch Gesetz übertragene Aufgaben beziehen. (2) Die Tochterunternehmen haben jedem Mutterunternehmen ihre Eröffnungsbilanz einschließlich Anhang und, wenn sie gleichzeitig Mutterunternehmen sind, ihre Konzerneröffnungsbilanz einschließlich Konzernanhang unverzüglich nach deren Aufstellung und die Prüfungsberichte unverzüglich nach deren Eingang einzureichen. Werden die einzureichenden Unterlagen nachträglich geändert, so sind die geänderten Fassungen unverzüglich nach der Änderung einzureichen. Werden die Unterlagen vor ihrer Feststellung eingereicht, ist die Feststellung mitzuteilen, sobald diese erfolgt ist.   
 Abschnitt 3  
 Kapitalausstattung  
   
@@ -10675,38 +10306,19 @@ Vermögensausgleich und Eigenkapitalsicherung von bisher volkseigenen Unternehme
   
 § 24  
 Ausgleichsforderungen  
-(1) Unternehmen, die als bisher volkseigenes Vermögen der Treuhandanstalt oder einem ihrer Tochterunternehmen zur Privatisierung oder aus diesem Grunde dem Staat, den Gemeinden, Städten, Kreisen, Ländern oder anderen Vermögensträgern unentgeltlich übertragen wurden, und die nicht Geldinstitute, Außenhandelsbetriebe oder Versicherungsunternehmen sind, erhalten, wenn sich bei der Aufstellung der Eröffnungsbilanz ergibt, daß sie einen nicht durch Eigenkapital gedeckten Fehlbetrag ausweisen müßten, beginnend mit dem 1. Juli 1990 eine gesondert auszuweisende verzinsliche Forderung (Ausgleichsforderung) in Höhe des Fehlbetrags, wenn der Schuldner die Ausgleichsforderung nicht innerhalb der Feststellungsfrist für die Eröffnungsbilanz ablehnt. Er hat sie abzulehnen, wenn das Unternehmen nicht sanierungsfähig ist.  
-(2) Die Ausgleichsforderung mindert sich in Höhe des Betrags, um den der Fehlbetrag durch Ausnutzung von Bewertungswahlrechten ausgeglichen werden kann. § 36 bleibt unberührt. Die Ausgleichsforderung ist so zu verzinsen, daß eine Abwertung wegen Minderverzinsung nach § 13 Abs. 3 Satz 2 nicht notwendig wird.  
-(3) Die Ausgleichsforderung richtet sich gegen das Unternehmen, dem zur Privatisierung und Reorganisation des volkseigenen Vermögens die Anteilsrechte an dem berechtigten Unternehmen unentgeltlich übertragen worden sind. Sind Unternehmen als ehemals volkseigenes Vermögen dem Staat, den Ländern, Kreisen, Städten, Gemeinden oder anderen Vermögensträgern durch Gesetz übertragen worden, richtet sich die Ausgleichsforderung gegen diese Stellen. Werden der Treuhandanstalt zustehende Anteilsrechte unentgeltlich auf Tochterunternehmen übertragen, so sind diese Schuldner der Ausgleichsforderung. Diese können ihrerseits Ausgleichsforderungen nach Absatz 1 gegen die Treuhandanstalt geltend machen, wenn sie ein unmittelbares Tochterunternehmen der Treuhandanstalt sind.  
-(4) Das Unternehmen hat den Schuldner der Ausgleichsforderung zu unterrichten, sobald sich bei der Aufstellung der Eröffnungsbilanz eine solche abzeichnet. Dem Schuldner stehen die Rechte nach § 23 ab 1. Juli 1990 zu. Die Treuhandanstalt unterrichtet unverzüglich den Minister der Finanzen und den Bundesminister der Finanzen über Ausgleichsforderungen, die gegen die Treuhandanstalt gerichtet sind.  
-(5) Mutterunternehmen, die Schuldner einer Ausgleichsforderung nach Absatz 1 sind, stellen in Höhe ihrer Verbindlichkeit aus dieser Ausgleichsforderung auf der Aktivseite ihrer Eröffnungsbilanz ein Beteiligungsentwertungskonto ein. Der aktivierte Betrag ist in den Folgejahren jeweils in Höhe der Tilgung der Ausgleichsforderung abzuschreiben. Soweit die Aktivierung des Beteiligungsentwertungskontos zu einer Rücklage führt, darf diese nur zum Ausgleich von Verlusten verwendet werden.  
-  
+(1) Unternehmen, die als bisher volkseigenes Vermögen der Treuhandanstalt oder einem ihrer Tochterunternehmen zur Privatisierung oder aus diesem Grunde dem Staat, den Gemeinden, Städten, Kreisen, Ländern oder anderen Vermögensträgern unentgeltlich übertragen wurden, und die nicht Geldinstitute, Außenhandelsbetriebe oder Versicherungsunternehmen sind, erhalten, wenn sich bei der Aufstellung der Eröffnungsbilanz ergibt, daß sie einen nicht durch Eigenkapital gedeckten Fehlbetrag ausweisen müßten, beginnend mit dem 1. Juli 1990 eine gesondert auszuweisende verzinsliche Forderung (Ausgleichsforderung) in Höhe des Fehlbetrags, wenn der Schuldner die Ausgleichsforderung nicht innerhalb der Feststellungsfrist für die Eröffnungsbilanz ablehnt. Er hat sie abzulehnen, wenn das Unternehmen nicht sanierungsfähig ist. (2) Die Ausgleichsforderung mindert sich in Höhe des Betrags, um den der Fehlbetrag durch Ausnutzung von Bewertungswahlrechten ausgeglichen werden kann. § 36 bleibt unberührt. Die Ausgleichsforderung ist so zu verzinsen, daß eine Abwertung wegen Minderverzinsung nach § 13 Abs. 3 Satz 2 nicht notwendig wird. (3) Die Ausgleichsforderung richtet sich gegen das Unternehmen, dem zur Privatisierung und Reorganisation des volkseigenen Vermögens die Anteilsrechte an dem berechtigten Unternehmen unentgeltlich übertragen worden sind. Sind Unternehmen als ehemals volkseigenes Vermögen dem Staat, den Ländern, Kreisen, Städten, Gemeinden oder anderen Vermögensträgern durch Gesetz übertragen worden, richtet sich die Ausgleichsforderung gegen diese Stellen. Werden der Treuhandanstalt zustehende Anteilsrechte unentgeltlich auf Tochterunternehmen übertragen, so sind diese Schuldner der Ausgleichsforderung. Diese können ihrerseits Ausgleichsforderungen nach Absatz 1 gegen die Treuhandanstalt geltend machen, wenn sie ein unmittelbares Tochterunternehmen der Treuhandanstalt sind. (4) Das Unternehmen hat den Schuldner der Ausgleichsforderung zu unterrichten, sobald sich bei der Aufstellung der Eröffnungsbilanz eine solche abzeichnet. Dem Schuldner stehen die Rechte nach § 23 ab 1. Juli 1990 zu. Die Treuhandanstalt unterrichtet unverzüglich den Minister der Finanzen und den Bundesminister der Finanzen über Ausgleichsforderungen, die gegen die Treuhandanstalt gerichtet sind. (5) Mutterunternehmen, die Schuldner einer Ausgleichsforderung nach Absatz 1 sind, stellen in Höhe ihrer Verbindlichkeit aus dieser Ausgleichsforderung auf der Aktivseite ihrer Eröffnungsbilanz ein Beteiligungsentwertungskonto ein. Der aktivierte Betrag ist in den Folgejahren jeweils in Höhe der Tilgung der Ausgleichsforderung abzuschreiben. Soweit die Aktivierung des Beteiligungsentwertungskontos zu einer Rücklage führt, darf diese nur zum Ausgleich von Verlusten verwendet werden.   
 § 25  
 Ausgleichsverbindlichkeiten  
-(1) Ergibt sich bei der Aufstellung der Eröffnungsbilanz von in § 24 Abs. 1 Satz 1 bezeichneten Unternehmen, daß ein höheres Eigenkapital auszuweisen wäre, als es dem für das Sachanlagevermögen auszuweisenden Betrag, vermindert um den für den zum 1. Juli 1990 übergegangenen Grund und Boden auszuweisenden Betrag, entspricht, so werden sie in Höhe des übersteigenden Betrags mit einer gesondert auszuweisenden Ausgleichsverbindlichkeit belastet. Das für die Rechtsform des Unternehmens oder seine Tätigkeit gesetzlich vorgeschriebene Mindestkapital darf jedoch nicht unterschritten werden. § 36 bleibt unberührt.  
-(2) Gläubiger der Verbindlichkeit ist diejenige Person, die bei Entstehen einer Ausgleichsforderung nach § 24 Abs. 3 Schuldner der Ausgleichsforderung wäre. Auf die Verzinsung der Ausgleichsverbindlichkeit ist § 24 Abs. 2 Satz 3 entsprechend anzuwenden.  
-(3) Das Unternehmen hat den Gläubiger der Ausgleichsverbindlichkeit zu unterrichten, sobald sich bei der Aufstellung der Eröffnungsbilanz eine solche abzeichnet. Dem Gläubiger stehen die Rechte nach § 23 ab 1. Juli 1990 zu.  
-(4) Mutterunternehmen, die Gläubiger einer Ausgleichsverbindlichkeit nach Absatz 1 sind, stellen in Höhe dieses Betrags auf der Aktivseite ihrer Eröffnungsbilanz eine entsprechende Forderung ein. Beträge, die dem Mutterunternehmen zur Tilgung der Ausgleichsverbindlichkeit des Tochterunternehmens zufließen, werden mit dieser Forderung jeweils verrechnet.  
-(5) Sind Beteiligungen oder Grund und Boden auf ein Unternehmen mit Wirkung zum 1. Juli 1990 unentgeltlich übergegangen, so sind sie an die Treuhandanstalt zu übertragen, wenn eine in der Eröffnungsbilanz festgestellte Überschuldung nicht beseitigt oder innerhalb der Feststellungsfrist nach § 35 Abs. 1 Satz 3 das Gesamtvollstreckungsverfahren eingeleitet oder das Unternehmen aufgelöst wird.  
-  
+(1) Ergibt sich bei der Aufstellung der Eröffnungsbilanz von in § 24 Abs. 1 Satz 1 bezeichneten Unternehmen, daß ein höheres Eigenkapital auszuweisen wäre, als es dem für das Sachanlagevermögen auszuweisenden Betrag, vermindert um den für den zum 1. Juli 1990 übergegangenen Grund und Boden auszuweisenden Betrag, entspricht, so werden sie in Höhe des übersteigenden Betrags mit einer gesondert auszuweisenden Ausgleichsverbindlichkeit belastet. Das für die Rechtsform des Unternehmens oder seine Tätigkeit gesetzlich vorgeschriebene Mindestkapital darf jedoch nicht unterschritten werden. § 36 bleibt unberührt. (2) Gläubiger der Verbindlichkeit ist diejenige Person, die bei Entstehen einer Ausgleichsforderung nach § 24 Abs. 3 Schuldner der Ausgleichsforderung wäre. Auf die Verzinsung der Ausgleichsverbindlichkeit ist § 24 Abs. 2 Satz 3 entsprechend anzuwenden. (3) Das Unternehmen hat den Gläubiger der Ausgleichsverbindlichkeit zu unterrichten, sobald sich bei der Aufstellung der Eröffnungsbilanz eine solche abzeichnet. Dem Gläubiger stehen die Rechte nach § 23 ab 1. Juli 1990 zu. (4) Mutterunternehmen, die Gläubiger einer Ausgleichsverbindlichkeit nach Absatz 1 sind, stellen in Höhe dieses Betrags auf der Aktivseite ihrer Eröffnungsbilanz eine entsprechende Forderung ein. Beträge, die dem Mutterunternehmen zur Tilgung der Ausgleichsverbindlichkeit des Tochterunternehmens zufließen, werden mit dieser Forderung jeweils verrechnet. (5) Sind Beteiligungen oder Grund und Boden auf ein Unternehmen mit Wirkung zum 1. Juli 1990 unentgeltlich übergegangen, so sind sie an die Treuhandanstalt zu übertragen, wenn eine in der Eröffnungsbilanz festgestellte Überschuldung nicht beseitigt oder innerhalb der Feststellungsfrist nach § 35 Abs. 1 Satz 3 das Gesamtvollstreckungsverfahren eingeleitet oder das Unternehmen aufgelöst wird.   
 § 26  
 Eigenkapitalsicherung  
-(1) Unternehmen im Sinne des § 24 Abs. 1 Satz 1 haben als Eigenkapital den Betrag auszuweisen, um den der Gesamtbetrag der auf der Aktivseite der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände einschließlich der nach diesem Gesetz einzustellenden Sonderposten und der Rechnungsabgrenzungsposten höher ist als der Gesamtbetrag der auf der Passivseite ausgewiesenen Schulden und der Rechnungsabgrenzung.  
-(2) Ist dem Unternehmen nach dem für seine Rechtsform maßgeblichen Recht die Bildung eines gezeichneten Kapitals vorgeschrieben, so ist dieses in der in der Satzung oder im Gesellschaftsvertrag vorgesehenen Höhe, zumindest aber in Höhe des gesetzlich vorgeschriebenen Mindestkapitals neu festzusetzen. § 27 Abs. 2 Satz 2 und 3, Abs. 3 und 7 ist anzuwenden.  
-(3) Reicht das nach Absatz 1 ermittelte Eigenkapital zur Bildung des gezeichneten Kapitals nicht aus, so ist der Fehlbetrag als Ausstehende Einlage auf der Aktivseite vor dem Anlagevermögen gesondert auszuweisen. Für die Einzahlung des Kapitals gelten die für die Rechtsform des Unternehmens maßgeblichen Vorschriften. Ist die Mindesteinzahlung nicht vollständig bewirkt, gilt der Fehlbetrag als eingefordert. Die Forderung entfällt, wenn der Anteilseigner die Auflösung des Unternehmens innerhalb der Feststellungsfrist für die Eröffnungsbilanz beschließt oder die Einleitung des Gesamtvollstreckungsverfahrens verlangt. § 24 Abs. 4 Satz 3 ist entsprechend anzuwenden. § 19 Abs. 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung ist nicht anzuwenden.  
-(4) Hat der Anteilseigner nach Überführung des Unternehmens in eine private Rechtsform seine Einlage bis zum 30. Juni 1990 geleistet, so kann in den Fällen des Absatzes 3 ein Fehlbetrag dadurch ausgeglichen werden, daß auf der Aktivseite der Eröffnungsbilanz an Stelle der Ausstehenden Einlage in entsprechender Anwendung des § 28 Abs. 1 und 2 unter den dortigen Voraussetzungen ein Kapitalentwertungskonto ausgewiesen wird. § 30 ist anzuwenden.  
-  
+(1) Unternehmen im Sinne des § 24 Abs. 1 Satz 1 haben als Eigenkapital den Betrag auszuweisen, um den der Gesamtbetrag der auf der Aktivseite der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände einschließlich der nach diesem Gesetz einzustellenden Sonderposten und der Rechnungsabgrenzungsposten höher ist als der Gesamtbetrag der auf der Passivseite ausgewiesenen Schulden und der Rechnungsabgrenzung. (2) Ist dem Unternehmen nach dem für seine Rechtsform maßgeblichen Recht die Bildung eines gezeichneten Kapitals vorgeschrieben, so ist dieses in der in der Satzung oder im Gesellschaftsvertrag vorgesehenen Höhe, zumindest aber in Höhe des gesetzlich vorgeschriebenen Mindestkapitals neu festzusetzen. § 27 Abs. 2 Satz 2 und 3, Abs. 3 und 7 ist anzuwenden. (3) Reicht das nach Absatz 1 ermittelte Eigenkapital zur Bildung des gezeichneten Kapitals nicht aus, so ist der Fehlbetrag als Ausstehende Einlage auf der Aktivseite vor dem Anlagevermögen gesondert auszuweisen. Für die Einzahlung des Kapitals gelten die für die Rechtsform des Unternehmens maßgeblichen Vorschriften. Ist die Mindesteinzahlung nicht vollständig bewirkt, gilt der Fehlbetrag als eingefordert. Die Forderung entfällt, wenn der Anteilseigner die Auflösung des Unternehmens innerhalb der Feststellungsfrist für die Eröffnungsbilanz beschließt oder die Einleitung des Gesamtvollstreckungsverfahrens verlangt. § 24 Abs. 4 Satz 3 ist entsprechend anzuwenden. § 19 Abs. 4 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung ist nicht anzuwenden. (4) Hat der Anteilseigner nach Überführung des Unternehmens in eine private Rechtsform seine Einlage bis zum 30. Juni 1990 geleistet, so kann in den Fällen des Absatzes 3 ein Fehlbetrag dadurch ausgeglichen werden, daß auf der Aktivseite der Eröffnungsbilanz an Stelle der Ausstehenden Einlage in entsprechender Anwendung des § 28 Abs. 1 und 2 unter den dortigen Voraussetzungen ein Kapitalentwertungskonto ausgewiesen wird. § 30 ist anzuwenden.   
 Unterabschnitt 5  
 Neufestsetzung der Kapitalverhältnisse privater Unternehmen  
   
 § 27  
 Neufestsetzung  
-(1) Dieser Unterabschnitt ist auf Unternehmen anzuwenden, die bis zum 30. Juni 1990 in einer Rechtsform des privaten Rechts entstanden oder zur Eintragung in das Handelsregister angemeldet, aber noch nicht eingetragen worden sind und keine Unternehmen im Sinne des § 24 Abs. 1 Satz 1 sind. Als Eigenkapital ist der in § 26 Abs. 1 bezeichnete Betrag auszuweisen.  
-(2) Aktiengesellschaften und Kommanditgesellschaften auf Aktien haben ihr Grundkapital, Gesellschaften mit beschränkter Haftung ihr Stammkapital in der in der Satzung oder im Gesellschaftsvertrag vorgesehenen Höhe, zumindest aber in Höhe des gesetzlich vorgeschriebenen Mindestkapitals neu festzusetzen. Das gezeichnete Kapital kann mit einem höheren Betrag festgesetzt werden, wenn sich bei der Aufstellung der Eröffnungsbilanz nach Abzug der Rücklage nach § 31 ein höheres Eigenkapital ergibt. Der übersteigende Betrag ist bei Aktiengesellschaften und Kommanditgesellschaften auf Aktien der gesetzlichen Rücklage, bei Gesellschaften mit beschränkter Haftung einer Sonderrücklage zuzuweisen, die nur zum Ausgleich von Verlusten verwendet werden darf.  
-(3) Die Gesellschafter dürfen auf Grund der Neufestsetzung keine Zahlungen erhalten und von der Verpflichtung zur Leistung von Einlagen nicht befreit werden; § 57 Abs. 1 Satz 1, § 62 des Aktiengesetzes, § 30 Abs. 1, § 31 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind auf die in der Eröffnungsbilanz gebildeten Rücklagen entsprechend anzuwenden.  
-(4) Offene Handelsgesellschaften und Kommanditgesellschaften haben die Kapitaleinlagen ihrer Gesellschafter, soweit solche im Gesellschaftsvertrag vereinbart sind, und Kommanditgesellschaften zusätzlich die Hafteinlagen ihrer Kommanditisten in entsprechender Anwendung des Absatzes 2 und 3 neu festzusetzen. Das Entnahmerecht der Gesellschafter nach § 122 des Handelsgesetzbuchs darf nicht dazu führen, daß das in der Eröffnungsbilanz ausgewiesene Eigenkapital niedriger wird als die Summe der auf der Aktivseite ausgewiesenen Beträge nach § 31. Persönlich haftende Gesellschafter haben zuviel entnommene Beträge zurückzuerstatten. Führen Zahlungen an Kommanditisten zu einer solchen Minderung des Eigenkapitals, gelten diese als Rückzahlung der Einlage nach § 172 Abs. 4 des Handelsgesetzbuchs.  
-(5) Genossenschaften haben die Geschäftsguthaben, die Geschäftsanteile und die Haftsummen neu festzusetzen; Absatz 3 ist entsprechend anzuwenden.  
-(6) Bei der Neufestsetzung können die Anteile auf die folgenden Beträge gestellt werden:
+(1) Dieser Unterabschnitt ist auf Unternehmen anzuwenden, die bis zum 30. Juni 1990 in einer Rechtsform des privaten Rechts entstanden oder zur Eintragung in das Handelsregister angemeldet, aber noch nicht eingetragen worden sind und keine Unternehmen im Sinne des § 24 Abs. 1 Satz 1 sind. Als Eigenkapital ist der in § 26 Abs. 1 bezeichnete Betrag auszuweisen. (2) Aktiengesellschaften und Kommanditgesellschaften auf Aktien haben ihr Grundkapital, Gesellschaften mit beschränkter Haftung ihr Stammkapital in der in der Satzung oder im Gesellschaftsvertrag vorgesehenen Höhe, zumindest aber in Höhe des gesetzlich vorgeschriebenen Mindestkapitals neu festzusetzen. Das gezeichnete Kapital kann mit einem höheren Betrag festgesetzt werden, wenn sich bei der Aufstellung der Eröffnungsbilanz nach Abzug der Rücklage nach § 31 ein höheres Eigenkapital ergibt. Der übersteigende Betrag ist bei Aktiengesellschaften und Kommanditgesellschaften auf Aktien der gesetzlichen Rücklage, bei Gesellschaften mit beschränkter Haftung einer Sonderrücklage zuzuweisen, die nur zum Ausgleich von Verlusten verwendet werden darf. (3) Die Gesellschafter dürfen auf Grund der Neufestsetzung keine Zahlungen erhalten und von der Verpflichtung zur Leistung von Einlagen nicht befreit werden; § 57 Abs. 1 Satz 1, § 62 des Aktiengesetzes, § 30 Abs. 1, § 31 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind auf die in der Eröffnungsbilanz gebildeten Rücklagen entsprechend anzuwenden. (4) Offene Handelsgesellschaften und Kommanditgesellschaften haben die Kapitaleinlagen ihrer Gesellschafter, soweit solche im Gesellschaftsvertrag vereinbart sind, und Kommanditgesellschaften zusätzlich die Hafteinlagen ihrer Kommanditisten in entsprechender Anwendung des Absatzes 2 und 3 neu festzusetzen. Das Entnahmerecht der Gesellschafter nach § 122 des Handelsgesetzbuchs darf nicht dazu führen, daß das in der Eröffnungsbilanz ausgewiesene Eigenkapital niedriger wird als die Summe der auf der Aktivseite ausgewiesenen Beträge nach § 31. Persönlich haftende Gesellschafter haben zuviel entnommene Beträge zurückzuerstatten. Führen Zahlungen an Kommanditisten zu einer solchen Minderung des Eigenkapitals, gelten diese als Rückzahlung der Einlage nach § 172 Abs. 4 des Handelsgesetzbuchs. (5) Genossenschaften haben die Geschäftsguthaben, die Geschäftsanteile und die Haftsummen neu festzusetzen; Absatz 3 ist entsprechend anzuwenden. (6) Bei der Neufestsetzung können die Anteile auf die folgenden Beträge gestellt werden:
 
 1. Aktien auf einen Nennbetrag von fünfzig Deutsche Mark oder auf höhere Nennbeträge, die auf volle hundert Deutsche Mark lauten,
 
@@ -10714,24 +10326,16 @@ Neufestsetzung
 
 3. die Geschäftsanteile bei Genossenschaften auf fünfzig Deutsche Mark oder auf jeden höheren auf volle fünfzig Deutsche Mark lautenden Betrag.
 
-(7) In der Eröffnungsbilanz sind das gezeichnete Kapital und die Rücklagen in der Höhe auszuweisen, wie sie nach der Neufestsetzung bestehen sollen.  
-  
+(7) In der Eröffnungsbilanz sind das gezeichnete Kapital und die Rücklagen in der Höhe auszuweisen, wie sie nach der Neufestsetzung bestehen sollen.   
 § 28  
 Vorläufige Neufestsetzung  
-(1) An Stelle einer endgültigen Neufestsetzung nach § 27 kann von Unternehmen, die nicht Geldinstitute oder Außenhandelsbetriebe sind, die Neufestsetzung vorläufig in der Weise durchgeführt werden, daß das in der Schlußbilanz in Mark der Deutschen Demokratischen Republik ausgewiesene gezeichnete Kapital (Grundkapital, Stammkapital, Einlagen, Genußrechtskapital, Geschäftsguthaben) mit dem gleichen Betrag in Deutscher Mark in die Eröffnungsbilanz übernommen und der Unterschied, um den der Betrag des gezeichneten Kapitals das bei der Aufstellung der Eröffnungsbilanz ermittelte Eigenkapital übersteigt, als Kapitalentwertungskonto auf der Aktivseite der Eröffnungsbilanz eingestellt wird.  
-(2) Der Betrag, der als Kapitalentwertungskonto ausgewiesen wird, darf nicht höher sein als neun Zehntel des gezeichneten Kapitals. Eine Kapitalrücklage darf nicht beibehalten werden. Eine Gewinnrücklage darf beibehalten werden, soweit diese nach § 31 gebildet worden ist und nach vernünftiger kaufmännischer Beurteilung erwartet werden kann, daß das Unternehmen das Kapitalentwertungskonto aus künftigen Jahresüberschüssen tilgen kann. Das Unternehmen ist verpflichtet, das Kapitalentwertungskonto innerhalb von fünf Geschäftsjahren nach dem Stichtag der Eröffnungsbilanz auszugleichen. Zur Tilgung sind Werterhöhungen auf Grund der Berichtigung von Wertansätzen nach § 36 sowie die Jahresüberschüsse zu verwenden. Eine anderweitige Verwendung ist unzulässig, solange das Kapitalentwertungskonto besteht.  
-  
+(1) An Stelle einer endgültigen Neufestsetzung nach § 27 kann von Unternehmen, die nicht Geldinstitute oder Außenhandelsbetriebe sind, die Neufestsetzung vorläufig in der Weise durchgeführt werden, daß das in der Schlußbilanz in Mark der Deutschen Demokratischen Republik ausgewiesene gezeichnete Kapital (Grundkapital, Stammkapital, Einlagen, Genußrechtskapital, Geschäftsguthaben) mit dem gleichen Betrag in Deutscher Mark in die Eröffnungsbilanz übernommen und der Unterschied, um den der Betrag des gezeichneten Kapitals das bei der Aufstellung der Eröffnungsbilanz ermittelte Eigenkapital übersteigt, als Kapitalentwertungskonto auf der Aktivseite der Eröffnungsbilanz eingestellt wird. (2) Der Betrag, der als Kapitalentwertungskonto ausgewiesen wird, darf nicht höher sein als neun Zehntel des gezeichneten Kapitals. Eine Kapitalrücklage darf nicht beibehalten werden. Eine Gewinnrücklage darf beibehalten werden, soweit diese nach § 31 gebildet worden ist und nach vernünftiger kaufmännischer Beurteilung erwartet werden kann, daß das Unternehmen das Kapitalentwertungskonto aus künftigen Jahresüberschüssen tilgen kann. Das Unternehmen ist verpflichtet, das Kapitalentwertungskonto innerhalb von fünf Geschäftsjahren nach dem Stichtag der Eröffnungsbilanz auszugleichen. Zur Tilgung sind Werterhöhungen auf Grund der Berichtigung von Wertansätzen nach § 36 sowie die Jahresüberschüsse zu verwenden. Eine anderweitige Verwendung ist unzulässig, solange das Kapitalentwertungskonto besteht.   
 § 29  
 Gesellschaftsrechtliche Beziehungen  
-(1) Das Verhältnis der mit den Anteilen verbundenen Rechte zueinander wird durch die Neufestsetzung nicht berührt.  
-(2) Vertragliche Beziehungen des Unternehmens zu Dritten, die von der Gewinnausschüttung des Unternehmens, dem Nennbetrag oder dem Wert ihrer Anteile oder ihres gezeichneten Kapitals oder in sonstiger Weise von den bisherigen Kapital- oder Gewinnverhältnissen abhängen, bestimmen sich nach den durch die Neufestsetzung eingetretenen neuen Kapital- oder Gewinnverhältnissen. Dritte brauchen eine durch die Neufestsetzung eintretende Kürzung ihrer Rechte nach Satz 1 nicht gegen sich gelten zu lassen, soweit sie darauf beruht, daß in der Eröffnungsbilanz das gezeichnete Kapital zu den Rücklagen in einem durch §§ 27, 28 nicht bedingten ungünstigeren Verhältnis steht, als dies in der Schlußbilanz der Fall ist.  
-(3) Wird während des Bestehens eines Kapitalentwertungskontos eine Kapitalerhöhung beschlossen, so ist jedem Anteilseigner auf sein Verlangen ein seinem Anteil an dem bisherigen gezeichneten Kapital entsprechender Teil der neuen Anteile zuzuteilen, es sei denn, daß ein Dritter die Anteile übernommen und sich verpflichtet hat, sie den Anteilseignern zum Bezug anzubieten.  
-  
+(1) Das Verhältnis der mit den Anteilen verbundenen Rechte zueinander wird durch die Neufestsetzung nicht berührt. (2) Vertragliche Beziehungen des Unternehmens zu Dritten, die von der Gewinnausschüttung des Unternehmens, dem Nennbetrag oder dem Wert ihrer Anteile oder ihres gezeichneten Kapitals oder in sonstiger Weise von den bisherigen Kapital- oder Gewinnverhältnissen abhängen, bestimmen sich nach den durch die Neufestsetzung eingetretenen neuen Kapital- oder Gewinnverhältnissen. Dritte brauchen eine durch die Neufestsetzung eintretende Kürzung ihrer Rechte nach Satz 1 nicht gegen sich gelten zu lassen, soweit sie darauf beruht, daß in der Eröffnungsbilanz das gezeichnete Kapital zu den Rücklagen in einem durch §§ 27, 28 nicht bedingten ungünstigeren Verhältnis steht, als dies in der Schlußbilanz der Fall ist. (3) Wird während des Bestehens eines Kapitalentwertungskontos eine Kapitalerhöhung beschlossen, so ist jedem Anteilseigner auf sein Verlangen ein seinem Anteil an dem bisherigen gezeichneten Kapital entsprechender Teil der neuen Anteile zuzuteilen, es sei denn, daß ein Dritter die Anteile übernommen und sich verpflichtet hat, sie den Anteilseignern zum Bezug anzubieten.   
 § 30  
 Auflösung von Kapitalentwertungskonten  
-(1) Wird ein Kapitalentwertungskonto nicht innerhalb der in § 28 Abs. 2 Satz 4 bestimmten Frist ausgeglichen, so hat das für Kapitalmaßnahmen zuständige Organ des Unternehmens spätestens bei der Beschlußfassung über die Verwendung des Ergebnisses aus dem Jahresabschluß des fünften Geschäftsjahrs nach dem Stichtag der Eröffnungsbilanz die Maßnahmen zu beschließen, die erforderlich sind, um das Kapitalentwertungskonto auf andere Weise als durch Tilgung, insbesondere durch Ermäßigung des gezeichneten Kapitals, auszugleichen.  
-(2) Die Maßnahmen gemäß Absatz 1 sind unverzüglich durchzuführen. Ihre Durchführung gilt als endgültige Neufestsetzung. Auf die Ermäßigung des gezeichneten Kapitals sind die für die Rechtsform des Unternehmens maßgeblichen Vorschriften, von Aktiengesellschaften und Kommanditgesellschaften auf Aktien die §§ 229 bis 236 des Aktiengesetzes über die vereinfachte Kapitalherabsetzung anzuwenden.  
-  
+(1) Wird ein Kapitalentwertungskonto nicht innerhalb der in § 28 Abs. 2 Satz 4 bestimmten Frist ausgeglichen, so hat das für Kapitalmaßnahmen zuständige Organ des Unternehmens spätestens bei der Beschlußfassung über die Verwendung des Ergebnisses aus dem Jahresabschluß des fünften Geschäftsjahrs nach dem Stichtag der Eröffnungsbilanz die Maßnahmen zu beschließen, die erforderlich sind, um das Kapitalentwertungskonto auf andere Weise als durch Tilgung, insbesondere durch Ermäßigung des gezeichneten Kapitals, auszugleichen. (2) Die Maßnahmen gemäß Absatz 1 sind unverzüglich durchzuführen. Ihre Durchführung gilt als endgültige Neufestsetzung. Auf die Ermäßigung des gezeichneten Kapitals sind die für die Rechtsform des Unternehmens maßgeblichen Vorschriften, von Aktiengesellschaften und Kommanditgesellschaften auf Aktien die §§ 229 bis 236 des Aktiengesetzes über die vereinfachte Kapitalherabsetzung anzuwenden.   
 Unterabschnitt 6  
 Vorläufige Gewinnrücklage  
   
@@ -10745,24 +10349,13 @@ Vorläufige Gewinnrücklage
 
 3. Zuschüsse, Beihilfen und andere Vermögensvorteile, die ohne Rückzahlungsverpflichtung von Dritten für Investitionen gewährt werden, dürfen aktiviert werden, sofern der Auftrag für die Investition bis zum Ablauf der Aufstellungsfrist für die Eröffnungsbilanz verbindlich erteilt worden ist.
 
-In Höhe der nach Satz 1 Nr. 1 bis 3 aktivierten Beträge ist auf der Passivseite eine Gewinnrücklage zu bilden, die bis zur Tilgung der aktivierten Beträge als vorläufige zu bezeichnen ist.  
-(2) Der nach Absatz 1 Nr. 1 angesetzte Betrag ist planmäßig innerhalb der Zeit abzuschreiben, die der durchschnittlichen Restnutzungsdauer der nach § 7 neu bewerteten entgeltlich erworbenen immateriellen Vermögensgegenstände des Unternehmens entspricht. Fehlen Vergleichszahlen oder sind die Verhältnisse nicht vergleichbar, so ist der Betrag in jedem folgenden Geschäftsjahr zu mindestens einem Viertel durch Abschreibung zu tilgen.  
-(3) Für die Ingangsetzung und Erweiterung des Geschäftsbetriebs nach Absatz 1 Nr. 2 ausgewiesene Beträge sind in jedem folgenden Geschäftsjahr zu mindestens einem Viertel durch Abschreibung zu tilgen.  
-(4) Die nach Absatz 1 Nr. 3 aktivierten Beträge sind in den Folgejahren erfolgsneutral umzubuchen, sobald deren Bilanzierungsfähigkeit eingetreten ist. Entfällt der Anspruch nach Absatz 1 Nr. 3 nachträglich, so ist der hierfür angesetzte Betrag unmittelbar mit den Rücklagen zu verrechnen.  
-(5) Von Absatz 1 Nr. 1 und 2 darf nur insoweit Gebrauch gemacht werden, als nach vernünftiger kaufmännischer Beurteilung angenommen werden kann, daß das Unternehmen in der Lage sein wird, die sich hieraus ergebenden Aufwendungen und eine Gewinnausschüttung in Höhe der Zinserträge aus einer Ausgleichsforderung nach § 24 aus den laufenden Erträgen ohne Beeinträchtigung des in der Eröffnungsbilanz ausgewiesenen Eigenkapitals zu decken.  
-(6) Werden Beträge nach Absatz 1 Nr. 1 oder 2 aktiviert, so dürfen bis zu deren Tilgung durch Abschreibung Gewinne nur ausgeschüttet werden, wenn die nach der Ausschüttung verbleibenden jederzeit auflösbaren Gewinnrücklagen zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags dem angesetzten Betrag mindestens entsprechen. Entstehende Verluste sind in Höhe der Abschreibungen nach Absatz 2 und 3 mit der Gewinnrücklage zu verrechnen. § 36 bleibt unberührt.  
-(7) Beträge nach Absatz 1 sind bei der Berechnung von Ausgleichsforderungen und Ausgleichsverbindlichkeiten nach den §§ 24, 25, der Ausstehenden Einlage nach § 26 Abs. 3 und des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 nicht zu berücksichtigen.  
-(8) Nach Absatz 1 aktivierte Beträge und die in Höhe dieser Beträge gebildete Gewinnrücklage sind gesondert unter entsprechender Bezeichnung auszuweisen und im Anhang zu erläutern.  
-  
+In Höhe der nach Satz 1 Nr. 1 bis 3 aktivierten Beträge ist auf der Passivseite eine Gewinnrücklage zu bilden, die bis zur Tilgung der aktivierten Beträge als vorläufige zu bezeichnen ist. (2) Der nach Absatz 1 Nr. 1 angesetzte Betrag ist planmäßig innerhalb der Zeit abzuschreiben, die der durchschnittlichen Restnutzungsdauer der nach § 7 neu bewerteten entgeltlich erworbenen immateriellen Vermögensgegenstände des Unternehmens entspricht. Fehlen Vergleichszahlen oder sind die Verhältnisse nicht vergleichbar, so ist der Betrag in jedem folgenden Geschäftsjahr zu mindestens einem Viertel durch Abschreibung zu tilgen. (3) Für die Ingangsetzung und Erweiterung des Geschäftsbetriebs nach Absatz 1 Nr. 2 ausgewiesene Beträge sind in jedem folgenden Geschäftsjahr zu mindestens einem Viertel durch Abschreibung zu tilgen. (4) Die nach Absatz 1 Nr. 3 aktivierten Beträge sind in den Folgejahren erfolgsneutral umzubuchen, sobald deren Bilanzierungsfähigkeit eingetreten ist. Entfällt der Anspruch nach Absatz 1 Nr. 3 nachträglich, so ist der hierfür angesetzte Betrag unmittelbar mit den Rücklagen zu verrechnen. (5) Von Absatz 1 Nr. 1 und 2 darf nur insoweit Gebrauch gemacht werden, als nach vernünftiger kaufmännischer Beurteilung angenommen werden kann, daß das Unternehmen in der Lage sein wird, die sich hieraus ergebenden Aufwendungen und eine Gewinnausschüttung in Höhe der Zinserträge aus einer Ausgleichsforderung nach § 24 aus den laufenden Erträgen ohne Beeinträchtigung des in der Eröffnungsbilanz ausgewiesenen Eigenkapitals zu decken. (6) Werden Beträge nach Absatz 1 Nr. 1 oder 2 aktiviert, so dürfen bis zu deren Tilgung durch Abschreibung Gewinne nur ausgeschüttet werden, wenn die nach der Ausschüttung verbleibenden jederzeit auflösbaren Gewinnrücklagen zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags dem angesetzten Betrag mindestens entsprechen. Entstehende Verluste sind in Höhe der Abschreibungen nach Absatz 2 und 3 mit der Gewinnrücklage zu verrechnen. § 36 bleibt unberührt. (7) Beträge nach Absatz 1 sind bei der Berechnung von Ausgleichsforderungen und Ausgleichsverbindlichkeiten nach den §§ 24, 25, der Ausstehenden Einlage nach § 26 Abs. 3 und des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 nicht zu berücksichtigen. (8) Nach Absatz 1 aktivierte Beträge und die in Höhe dieser Beträge gebildete Gewinnrücklage sind gesondert unter entsprechender Bezeichnung auszuweisen und im Anhang zu erläutern.   
 Abschnitt 4  
 Festsetzung und Anpassung von Leistungen in Deutscher Mark  
   
 § 32  
 Festsetzung und Anpassung von Leistungen in Deutscher Mark  
-(1) Verweisen Verträge, die erst nach dem 30. Juni 1990 zu erfüllen sind, auf Preise, die bisher nach staatlichen Preisvorschriften festgesetzt wurden, aber einer Preisbindung nicht mehr unterliegen, so ist der Preis, wenn eine Preisfestsetzung bis zum 30. Juni 1990 nicht stattgefunden hat, von dem Gläubiger durch Erklärung gegenüber dem zur Zahlung Verpflichteten zu bestimmen. Die getroffene Bestimmung ist für den anderen Teil jedoch nur verbindlich, wenn sie der Billigkeit entspricht. Entspricht sie nicht der Billigkeit, wird die Bestimmung durch Urteil getroffen; das gleiche gilt, wenn die Bestimmung verzögert wird.  
-(2) Führt die Umrechnung von vor dem 1. Juli 1990 begründeten Forderungen und Verbindlichkeiten aus schwebenden Verträgen, insbesondere aus Dauerschuldverhältnissen dazu, daß das ursprüngliche Gleichgewicht von Leistung und Gegenleistung erheblich verschoben wird und droht dadurch einem Vertragspartner oder beiden Vertragspartnern ein nicht zumutbarer Nachteil, so kann jeder Vertragspartner verlangen, daß der andere Vertragspartner seine Leistung nach billigem Ermessen neu festsetzt. Die getroffene Bestimmung ist für den benachteiligten Vertragspartner nur verbindlich, wenn sie der Billigkeit entspricht. Entspricht sie nicht der Billigkeit, so wird die Bestimmung durch Urteil getroffen; das gleiche gilt, wenn die Bestimmung verzögert wird.  
-(3) Erfolgt in den Fällen des Absatzes 1 und 2 die Neubestimmung nach billigem Ermessen innerhalb der Aufstellungsfrist für die Eröffnungsbilanz, so ist eine Rückstellung nach § 17 Abs. 2 nur zu bilden, wenn zu erwarten ist, daß auch das neu festgesetzte Entgelt zu einem Verlust führen wird.  
-  
+(1) Verweisen Verträge, die erst nach dem 30. Juni 1990 zu erfüllen sind, auf Preise, die bisher nach staatlichen Preisvorschriften festgesetzt wurden, aber einer Preisbindung nicht mehr unterliegen, so ist der Preis, wenn eine Preisfestsetzung bis zum 30. Juni 1990 nicht stattgefunden hat, von dem Gläubiger durch Erklärung gegenüber dem zur Zahlung Verpflichteten zu bestimmen. Die getroffene Bestimmung ist für den anderen Teil jedoch nur verbindlich, wenn sie der Billigkeit entspricht. Entspricht sie nicht der Billigkeit, wird die Bestimmung durch Urteil getroffen; das gleiche gilt, wenn die Bestimmung verzögert wird. (2) Führt die Umrechnung von vor dem 1. Juli 1990 begründeten Forderungen und Verbindlichkeiten aus schwebenden Verträgen, insbesondere aus Dauerschuldverhältnissen dazu, daß das ursprüngliche Gleichgewicht von Leistung und Gegenleistung erheblich verschoben wird und droht dadurch einem Vertragspartner oder beiden Vertragspartnern ein nicht zumutbarer Nachteil, so kann jeder Vertragspartner verlangen, daß der andere Vertragspartner seine Leistung nach billigem Ermessen neu festsetzt. Die getroffene Bestimmung ist für den benachteiligten Vertragspartner nur verbindlich, wenn sie der Billigkeit entspricht. Entspricht sie nicht der Billigkeit, so wird die Bestimmung durch Urteil getroffen; das gleiche gilt, wenn die Bestimmung verzögert wird. (3) Erfolgt in den Fällen des Absatzes 1 und 2 die Neubestimmung nach billigem Ermessen innerhalb der Aufstellungsfrist für die Eröffnungsbilanz, so ist eine Rückstellung nach § 17 Abs. 2 nur zu bilden, wenn zu erwarten ist, daß auch das neu festgesetzte Entgelt zu einem Verlust führen wird.   
 Abschnitt 5  
 Verfahren  
   
@@ -10771,47 +10364,25 @@ Prüfung
   
 § 33  
 Prüfung  
-(1) Die Eröffnungsbilanz und der Anhang, jedoch ohne die vergleichende Darstellung nach § 20, sind durch einen Prüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann die Eröffnungsbilanz nicht festgestellt werden. Kapitalgesellschaften und Genossenschaften, deren Bilanzsumme in der Eröffnungsbilanz drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs nicht übersteigt oder die am Stichtag nicht mehr als fünfzig Arbeitnehmer beschäftigen, brauchen die Eröffnungsbilanz und den Anhang nicht prüfen zu lassen, soweit sie nicht Geldinstitute oder Außenhandelsbetriebe sind. Einzelkaufleute und Personenhandelsgesellschaften brauchen die Eröffnungsbilanz nicht prüfen zu lassen, soweit sie nicht Geldinstitute sind.  
-(2) Ist das Unternehmen in der Zeit vom 1. März 1990 bis zum Ablauf der Aufstellungsfrist für die Eröffnungsbilanz gegründet oder durch Gesetz oder auf Grund eines Beschlusses in eine private Rechtsform umgewandelt worden, so kann in die Prüfung der Eröffnungsbilanz auch die Prüfung der Gründung oder Umwandlung einbezogen werden. Dies gilt auch für die Prüfung von Sacheinlagen.  
-(3) Die Konzerneröffnungsbilanz und der Konzernanhang sind durch einen Prüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann die Konzerneröffnungsbilanz nicht festgestellt werden.  
-(4) Werden die geprüften Unterlagen nach Vorlage des Prüfungsberichts geändert, so hat der Prüfer diese Unterlagen erneut zu prüfen, soweit es die Änderung erfordert. Über das Ergebnis der Prüfung ist zu berichten; der Bestätigungsvermerk ist entsprechend zu ergänzen.  
-(5) § 317 des Handelsgesetzbuchs über Gegenstand und Umfang der Prüfung ist mit der Maßgabe anzuwenden, daß auch das Inventar in die Prüfung einzubeziehen ist. Bei Geldinstituten und Außenhandelsbetrieben ist außerdem die vergleichende Darstellung nach § 20 zu prüfen.  
-  
+(1) Die Eröffnungsbilanz und der Anhang, jedoch ohne die vergleichende Darstellung nach § 20, sind durch einen Prüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann die Eröffnungsbilanz nicht festgestellt werden. Kapitalgesellschaften und Genossenschaften, deren Bilanzsumme in der Eröffnungsbilanz drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs nicht übersteigt oder die am Stichtag nicht mehr als fünfzig Arbeitnehmer beschäftigen, brauchen die Eröffnungsbilanz und den Anhang nicht prüfen zu lassen, soweit sie nicht Geldinstitute oder Außenhandelsbetriebe sind. Einzelkaufleute und Personenhandelsgesellschaften brauchen die Eröffnungsbilanz nicht prüfen zu lassen, soweit sie nicht Geldinstitute sind. (2) Ist das Unternehmen in der Zeit vom 1. März 1990 bis zum Ablauf der Aufstellungsfrist für die Eröffnungsbilanz gegründet oder durch Gesetz oder auf Grund eines Beschlusses in eine private Rechtsform umgewandelt worden, so kann in die Prüfung der Eröffnungsbilanz auch die Prüfung der Gründung oder Umwandlung einbezogen werden. Dies gilt auch für die Prüfung von Sacheinlagen. (3) Die Konzerneröffnungsbilanz und der Konzernanhang sind durch einen Prüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann die Konzerneröffnungsbilanz nicht festgestellt werden. (4) Werden die geprüften Unterlagen nach Vorlage des Prüfungsberichts geändert, so hat der Prüfer diese Unterlagen erneut zu prüfen, soweit es die Änderung erfordert. Über das Ergebnis der Prüfung ist zu berichten; der Bestätigungsvermerk ist entsprechend zu ergänzen. (5) § 317 des Handelsgesetzbuchs über Gegenstand und Umfang der Prüfung ist mit der Maßgabe anzuwenden, daß auch das Inventar in die Prüfung einzubeziehen ist. Bei Geldinstituten und Außenhandelsbetrieben ist außerdem die vergleichende Darstellung nach § 20 zu prüfen.   
 § 34  
 Durchführung der Prüfung  
-(1) Prüfer können nach der Wirtschaftsprüferordnung der Bundesrepublik Deutschland bestellte und vereidigte Wirtschaftsprüfer und anerkannte Wirtschaftsprüfungsgesellschaften sein. Gesellschaften mit beschränkter Haftung, deren Bilanzsumme in der Eröffnungsbilanz fünfzehn Millionen fünfhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs nicht übersteigt oder die am Stichtag der Eröffnungsbilanz nicht mehr als zweihundertfünfzig Arbeitnehmer beschäftigen, können ihre Eröffnungsbilanz auch von nach der Wirtschaftsprüferordnung der Bundesrepublik Deutschland bestellten vereidigten Buchprüfern oder anerkannten Buchprüfungsgesellschaften prüfen lassen.  
-(2) Ist das Unternehmen eine Genossenschaft, so dürfen die nach § 33 vorgeschriebenen Prüfungen abweichend von § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs nur von einem Prüfungsverband durchgeführt werden, dem das Prüfungsrecht nach § 63 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften verliehen worden ist. Der Prüfungsverband ist jedoch nur prüfungsberechtigt, sofern mehr als die Hälfte der Mitglieder seines Vorstands Wirtschaftsprüfer nach Absatz 1 Satz 1 ist. Hat der Prüfungsverband nur zwei Vorstandsmitglieder, so muß einer von ihnen Wirtschaftsprüfer nach Absatz 1 Satz 1 sein. Hat der Verband, dem die Genossenschaft als Mitglied angehört, eine Vereinbarung über die Durchführung von Prüfungen mit einem Prüfungsverband in der Bundesrepublik Deutschland abgeschlossen, so ist dieser zuständig. § 55 Abs. 3 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften bleibt unberührt.  
-(3) Ist das Unternehmen eine Sparkasse, so dürfen die nach § 33 vorgeschriebenen Prüfungen abweichend von § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs nur von der Prüfungsstelle eines Sparkassen- und Giroverbands durchgeführt werden. Die Prüfung darf von der Prüfungsstelle jedoch nur durchgeführt werden, wenn der Leiter der Prüfungsstelle die Voraussetzungen des § 319 des Handelsgesetzbuchs erfüllt. Außerdem muß sichergestellt sein, daß der Prüfer die Prüfung unabhängig von den Weisungen der Organe des Sparkassen- und Giroverbands durchführen kann.  
-(4) Auf die Bestellung des Prüfers in den Fällen des Absatzes 1 ist § 318 des Handelsgesetzbuchs mit der Maßgabe anzuwenden, daß das geschäftsführende Organ des Unternehmens den Prüfer vorläufig bestellen kann, insbesondere um seine Anwesenheit bei der Inventur zu erreichen. Die Bestätigung der nach § 318 des Handelsgesetzbuchs zur Wahl des Prüfers berufenen Personen ist unverzüglich nachzuholen.  
-(5) Auf die Prüfung sind die §§ 317, 318, 319 Abs. 2, 3, §§ 320 bis 323 des Handelsgesetzbuchs entsprechend anzuwenden.  
-  
+(1) Prüfer können nach der Wirtschaftsprüferordnung der Bundesrepublik Deutschland bestellte und vereidigte Wirtschaftsprüfer und anerkannte Wirtschaftsprüfungsgesellschaften sein. Gesellschaften mit beschränkter Haftung, deren Bilanzsumme in der Eröffnungsbilanz fünfzehn Millionen fünfhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs nicht übersteigt oder die am Stichtag der Eröffnungsbilanz nicht mehr als zweihundertfünfzig Arbeitnehmer beschäftigen, können ihre Eröffnungsbilanz auch von nach der Wirtschaftsprüferordnung der Bundesrepublik Deutschland bestellten vereidigten Buchprüfern oder anerkannten Buchprüfungsgesellschaften prüfen lassen. (2) Ist das Unternehmen eine Genossenschaft, so dürfen die nach § 33 vorgeschriebenen Prüfungen abweichend von § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs nur von einem Prüfungsverband durchgeführt werden, dem das Prüfungsrecht nach § 63 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften verliehen worden ist. Der Prüfungsverband ist jedoch nur prüfungsberechtigt, sofern mehr als die Hälfte der Mitglieder seines Vorstands Wirtschaftsprüfer nach Absatz 1 Satz 1 ist. Hat der Prüfungsverband nur zwei Vorstandsmitglieder, so muß einer von ihnen Wirtschaftsprüfer nach Absatz 1 Satz 1 sein. Hat der Verband, dem die Genossenschaft als Mitglied angehört, eine Vereinbarung über die Durchführung von Prüfungen mit einem Prüfungsverband in der Bundesrepublik Deutschland abgeschlossen, so ist dieser zuständig. § 55 Abs. 3 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften bleibt unberührt. (3) Ist das Unternehmen eine Sparkasse, so dürfen die nach § 33 vorgeschriebenen Prüfungen abweichend von § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs nur von der Prüfungsstelle eines Sparkassen- und Giroverbands durchgeführt werden. Die Prüfung darf von der Prüfungsstelle jedoch nur durchgeführt werden, wenn der Leiter der Prüfungsstelle die Voraussetzungen des § 319 des Handelsgesetzbuchs erfüllt. Außerdem muß sichergestellt sein, daß der Prüfer die Prüfung unabhängig von den Weisungen der Organe des Sparkassen- und Giroverbands durchführen kann. (4) Auf die Bestellung des Prüfers in den Fällen des Absatzes 1 ist § 318 des Handelsgesetzbuchs mit der Maßgabe anzuwenden, daß das geschäftsführende Organ des Unternehmens den Prüfer vorläufig bestellen kann, insbesondere um seine Anwesenheit bei der Inventur zu erreichen. Die Bestätigung der nach § 318 des Handelsgesetzbuchs zur Wahl des Prüfers berufenen Personen ist unverzüglich nachzuholen. (5) Auf die Prüfung sind die §§ 317, 318, 319 Abs. 2, 3, §§ 320 bis 323 des Handelsgesetzbuchs entsprechend anzuwenden.   
 Unterabschnitt 8  
 Feststellung und Berichtigung  
   
 § 35  
 Feststellung  
-(1) Die Eröffnungsbilanz und der Anhang sowie die Konzerneröffnungsbilanz und der Konzernanhang bedürfen der Feststellung. Die für die Aufstellung dieser Unterlagen geltenden Vorschriften sind auch bei der Feststellung anzuwenden. Die Feststellung ist bei Einzelunternehmen vom Inhaber, bei anderen Unternehmen von den Anteilseignern oder dem sonst zuständigen Organ in der für Beschlußfassungen nach der Rechtsform des Unternehmens vorgeschriebenen Form unverzüglich nach Vorlage der Unterlagen herbeizuführen; die Eröffnungsbilanz und der Anhang sind spätestens vor Ablauf des achten Monats und von kleinen Unternehmen nach § 4 Abs. 1 Satz 2 spätestens vor Ablauf des elften Monats nach dem Bilanzstichtag, die Konzerneröffnungsbilanz und der Konzernanhang spätestens vor Ablauf des achten Monats nach dem Bilanzstichtag festzustellen. Das Geschäftsführungsorgan hat zu diesem Zweck die festzustellenden Unterlagen unverzüglich nach ihrer Aufstellung und den Prüfungsbericht unverzüglich nach seiner Vorlage dem zur Feststellung berufenen Organ vorzulegen. Hat das Unternehmen einen Aufsichtsrat, so hat der Aufsichtsrat die Unterlagen in entsprechender Anwendung des § 171 des Aktiengesetzes zu prüfen und über das Ergebnis der Prüfung schriftlich zu berichten.  
-(2) Die in Absatz 1 Satz 1 bezeichneten Unterlagen können nicht festgestellt werden, wenn der Bestätigungsvermerk versagt worden ist. Die Eröffnungsbilanz oder die Konzerneröffnungsbilanz ist nichtig, wenn sie bei bestehender Prüfungspflicht nicht in der vorgeschriebenen Form geprüft oder nicht festgestellt worden ist. Werden die Unterlagen nach Prüfung geändert, so wird ein Beschluß über die Feststellung erst wirksam, wenn auf Grund der erneuten Prüfung ein hinsichtlich der Änderungen uneingeschränkter Bestätigungsvermerk erteilt worden ist.  
-(3) Das Geschäftsführungsorgan hat dem Feststellungsorgan sogleich mit den festzustellenden Unterlagen einen Bericht vorzulegen, in dem die Vorschläge zur Neufestsetzung der Kapitalverhältnisse und die wesentlichen Umstände darzulegen sind, die für die Bewertung der Vermögensgegenstände und für die Vorschläge zur Neufestsetzung maßgebend gewesen sind, soweit sich diese Erläuterungen nicht aus dem Anhang oder dem Konzernanhang ergeben.  
-  
+(1) Die Eröffnungsbilanz und der Anhang sowie die Konzerneröffnungsbilanz und der Konzernanhang bedürfen der Feststellung. Die für die Aufstellung dieser Unterlagen geltenden Vorschriften sind auch bei der Feststellung anzuwenden. Die Feststellung ist bei Einzelunternehmen vom Inhaber, bei anderen Unternehmen von den Anteilseignern oder dem sonst zuständigen Organ in der für Beschlußfassungen nach der Rechtsform des Unternehmens vorgeschriebenen Form unverzüglich nach Vorlage der Unterlagen herbeizuführen; die Eröffnungsbilanz und der Anhang sind spätestens vor Ablauf des achten Monats und von kleinen Unternehmen nach § 4 Abs. 1 Satz 2 spätestens vor Ablauf des elften Monats nach dem Bilanzstichtag, die Konzerneröffnungsbilanz und der Konzernanhang spätestens vor Ablauf des achten Monats nach dem Bilanzstichtag festzustellen. Das Geschäftsführungsorgan hat zu diesem Zweck die festzustellenden Unterlagen unverzüglich nach ihrer Aufstellung und den Prüfungsbericht unverzüglich nach seiner Vorlage dem zur Feststellung berufenen Organ vorzulegen. Hat das Unternehmen einen Aufsichtsrat, so hat der Aufsichtsrat die Unterlagen in entsprechender Anwendung des § 171 des Aktiengesetzes zu prüfen und über das Ergebnis der Prüfung schriftlich zu berichten. (2) Die in Absatz 1 Satz 1 bezeichneten Unterlagen können nicht festgestellt werden, wenn der Bestätigungsvermerk versagt worden ist. Die Eröffnungsbilanz oder die Konzerneröffnungsbilanz ist nichtig, wenn sie bei bestehender Prüfungspflicht nicht in der vorgeschriebenen Form geprüft oder nicht festgestellt worden ist. Werden die Unterlagen nach Prüfung geändert, so wird ein Beschluß über die Feststellung erst wirksam, wenn auf Grund der erneuten Prüfung ein hinsichtlich der Änderungen uneingeschränkter Bestätigungsvermerk erteilt worden ist. (3) Das Geschäftsführungsorgan hat dem Feststellungsorgan sogleich mit den festzustellenden Unterlagen einen Bericht vorzulegen, in dem die Vorschläge zur Neufestsetzung der Kapitalverhältnisse und die wesentlichen Umstände darzulegen sind, die für die Bewertung der Vermögensgegenstände und für die Vorschläge zur Neufestsetzung maßgebend gewesen sind, soweit sich diese Erläuterungen nicht aus dem Anhang oder dem Konzernanhang ergeben.   
 § 36  
 Berichtigung von Wertansätzen  
-(1) Ergibt sich bei der Aufstellung späterer Jahresabschlüsse, daß Vermögensgegenstände oder Sonderposten in der Eröffnungsbilanz nicht oder mit einem zu niedrigen Wert oder Schulden oder Sonderposten zu Unrecht oder mit einem zu hohen Wert angesetzt worden sind, so ist in der späteren Bilanz der unterlassene Ansatz nachzuholen oder der Wertansatz zu berichtigen, wenn es sich um einen wesentlichen Betrag handelt. Der Gewinn ist in Gewinnrücklagen, bei Aktiengesellschaften vorweg in die gesetzliche Rücklage bis zu deren vorgeschriebener Höhe, einzustellen, soweit er nicht mit einem Verlust aus einer Verminderung des Sonderverlustkontos aus Rückstellungsbildung nach § 17 Abs. 4 oder der Ausgleichsforderung nach § 24 Abs. 1 oder des Beteiligungsentwertungskontos nach § 24 Abs. 5 oder der Ausstehenden Einlage nach § 26 Abs. 3 oder des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 oder einem Verlust aus der Erhöhung der Ausgleichsverbindlichkeiten nach § 25 Abs. 1 zu verrechnen ist.  
-(2) Ergibt sich bei der Aufstellung späterer Jahresabschlüsse, daß Vermögensgegenstände oder Sonderposten in der Eröffnungsbilanz zu Unrecht oder mit einem zu hohen Wert oder Schulden oder Sonderposten nicht oder mit einem zu geringen Wert angesetzt worden sind, so ist in der späteren Bilanz der Wertansatz zu berichtigen oder der unterlassene Ansatz nachzuholen, wenn es sich um einen wesentlichen Betrag handelt. Der Verlust ist offen mit dem Eigenkapital, vorweg mit dem Jahresergebnis und den Gewinnrücklagen, zu verrechnen, soweit er nicht mit dem Gewinn aus einer Erhöhung des Sonderverlustkontos aus Rückstellungsbildung nach § 17 Abs. 4 oder der Ausgleichsforderung nach § 24 Abs. 1 oder des Beteiligungsentwertungskontos nach § 24 Abs. 5 oder der Ausstehenden Einlage nach § 26 Abs. 3 oder des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 oder dem Gewinn aus einer Verminderung der Ausgleichsverbindlichkeit nach § 25 Abs. 1 zu verrechnen ist.  
-(3) Absatz 1 und 2 ist auch anzuwenden, wenn ein für die Eröffnungsbilanz eingeräumtes Wahlrecht nachträglich mit Wirkung für diese abweichend ausgeübt wird. Gewinne nach Absatz 1 können mit Verlusten nach Absatz 2 nur innerhalb des Eigenkapitals verrechnet werden.  
-(4) In den Fällen des Absatzes 1 bis 3 gilt die Eröffnungsbilanz als geändert. Absatz 1 bis 3 ist letztmals auf Jahresabschlüsse für Geschäftsjahre anzuwenden, die im Jahre 1994 enden. Forderungen und Verbindlichkeiten nach den §§ 24, 25 und 26 Abs. 3 können nicht mehr geändert werden, soweit sie im Zeitpunkt der Berichtigung getilgt oder auf eine dritte Person übergegangen sind oder Sicherungsrechte dritter Personen dadurch beeinträchtigt werden.  
-(5) Absatz 1 bis 4 ist auf die Konzerneröffnungsbilanz entsprechend anzuwenden.  
-  
+(1) Ergibt sich bei der Aufstellung späterer Jahresabschlüsse, daß Vermögensgegenstände oder Sonderposten in der Eröffnungsbilanz nicht oder mit einem zu niedrigen Wert oder Schulden oder Sonderposten zu Unrecht oder mit einem zu hohen Wert angesetzt worden sind, so ist in der späteren Bilanz der unterlassene Ansatz nachzuholen oder der Wertansatz zu berichtigen, wenn es sich um einen wesentlichen Betrag handelt. Der Gewinn ist in Gewinnrücklagen, bei Aktiengesellschaften vorweg in die gesetzliche Rücklage bis zu deren vorgeschriebener Höhe, einzustellen, soweit er nicht mit einem Verlust aus einer Verminderung des Sonderverlustkontos aus Rückstellungsbildung nach § 17 Abs. 4 oder der Ausgleichsforderung nach § 24 Abs. 1 oder des Beteiligungsentwertungskontos nach § 24 Abs. 5 oder der Ausstehenden Einlage nach § 26 Abs. 3 oder des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 oder einem Verlust aus der Erhöhung der Ausgleichsverbindlichkeiten nach § 25 Abs. 1 zu verrechnen ist. (2) Ergibt sich bei der Aufstellung späterer Jahresabschlüsse, daß Vermögensgegenstände oder Sonderposten in der Eröffnungsbilanz zu Unrecht oder mit einem zu hohen Wert oder Schulden oder Sonderposten nicht oder mit einem zu geringen Wert angesetzt worden sind, so ist in der späteren Bilanz der Wertansatz zu berichtigen oder der unterlassene Ansatz nachzuholen, wenn es sich um einen wesentlichen Betrag handelt. Der Verlust ist offen mit dem Eigenkapital, vorweg mit dem Jahresergebnis und den Gewinnrücklagen, zu verrechnen, soweit er nicht mit dem Gewinn aus einer Erhöhung des Sonderverlustkontos aus Rückstellungsbildung nach § 17 Abs. 4 oder der Ausgleichsforderung nach § 24 Abs. 1 oder des Beteiligungsentwertungskontos nach § 24 Abs. 5 oder der Ausstehenden Einlage nach § 26 Abs. 3 oder des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 oder dem Gewinn aus einer Verminderung der Ausgleichsverbindlichkeit nach § 25 Abs. 1 zu verrechnen ist. (3) Absatz 1 und 2 ist auch anzuwenden, wenn ein für die Eröffnungsbilanz eingeräumtes Wahlrecht nachträglich mit Wirkung für diese abweichend ausgeübt wird. Gewinne nach Absatz 1 können mit Verlusten nach Absatz 2 nur innerhalb des Eigenkapitals verrechnet werden. (4) In den Fällen des Absatzes 1 bis 3 gilt die Eröffnungsbilanz als geändert. Absatz 1 bis 3 ist letztmals auf Jahresabschlüsse für Geschäftsjahre anzuwenden, die im Jahre 1994 enden. Forderungen und Verbindlichkeiten nach den §§ 24, 25 und 26 Abs. 3 können nicht mehr geändert werden, soweit sie im Zeitpunkt der Berichtigung getilgt oder auf eine dritte Person übergegangen sind oder Sicherungsrechte dritter Personen dadurch beeinträchtigt werden. (5) Absatz 1 bis 4 ist auf die Konzerneröffnungsbilanz entsprechend anzuwenden.   
 Unterabschnitt 9  
 Offenlegung  
   
 § 37  
 Offenlegung  
-(1) Unternehmen haben die Eröffnungsbilanz und den Anhang sowie die Konzerneröffnungsbilanz und den Konzernanhang offenzulegen, wenn sie nach ihrer Rechtsform oder wegen ihres Geschäftszweigs zur Offenlegung ihrer Jahresabschlüsse verpflichtet sind oder wenn sie in ihrer Eröffnungsbilanz oder in ihrer Konzerneröffnungsbilanz eine Bilanzsumme von mehr als einhundertfünfundzwanzig Millionen Deutsche Mark ausweisen und am Bilanzstichtag mehr als fünftausend Arbeitnehmer beschäftigen. Die §§ 325, 326, 328 und 339 des Handelsgesetzbuchs sind entsprechend anzuwenden; auf die Bestimmung der Größenmerkmale ist § 5 Abs. 2 anzuwenden. Die vergleichende Darstellung nach § 20 braucht nicht offengelegt zu werden. § 4 des Gesetzes über die Inkraftsetzung von Rechtsvorschriften der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik vom 21. Juni 1990 (GBl. I Nr. 34 S. 357) ist nicht anzuwenden.  
-(2) Das Registergericht prüft bei der Einreichung der Unterlagen, ob die Unterlagen vollzählig sind und, sofern vorgeschrieben, fristgerecht bekanntgemacht worden sind.  
-(3) Ist die Prüfung der Gründung, Umwandlung oder von Sacheinlagen in die Prüfung der Eröffnungsbilanz einbezogen worden, so kann das Gericht unterstellen, daß die Wertansätze für Vermögensgegenstände in der Eröffnungsbilanz deren tatsächlichem Wert entsprechen, wenn die Eröffnungsbilanz und der Anhang einen uneingeschränkten Bestätigungsvermerk erhalten haben.  
-(4) Unternehmen, die nach den bis zum 30. Juni 1990 gültigen Rechtsvorschriften gegenüber dem Statistischen Amt der Deutschen Demokratischen Republik berichtspflichtig waren, sowie neu gebildete Kapitalgesellschaften haben die D-Markeröffnungsbilanz und die vergleichende Darstellung nach § 20 unverzüglich nach ihrer Feststellung der örtlich zuständigen Dienststelle des Statistischen Amtes der Deutschen Demokratischen Republik in zweifacher Ausfertigung einzureichen.  
-  
+(1) Unternehmen haben die Eröffnungsbilanz und den Anhang sowie die Konzerneröffnungsbilanz und den Konzernanhang offenzulegen, wenn sie nach ihrer Rechtsform oder wegen ihres Geschäftszweigs zur Offenlegung ihrer Jahresabschlüsse verpflichtet sind oder wenn sie in ihrer Eröffnungsbilanz oder in ihrer Konzerneröffnungsbilanz eine Bilanzsumme von mehr als einhundertfünfundzwanzig Millionen Deutsche Mark ausweisen und am Bilanzstichtag mehr als fünftausend Arbeitnehmer beschäftigen. Die §§ 325, 326, 328 und 339 des Handelsgesetzbuchs sind entsprechend anzuwenden; auf die Bestimmung der Größenmerkmale ist § 5 Abs. 2 anzuwenden. Die vergleichende Darstellung nach § 20 braucht nicht offengelegt zu werden. § 4 des Gesetzes über die Inkraftsetzung von Rechtsvorschriften der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik vom 21. Juni 1990 (GBl. I Nr. 34 S. 357) ist nicht anzuwenden. (2) Das Registergericht prüft bei der Einreichung der Unterlagen, ob die Unterlagen vollzählig sind und, sofern vorgeschrieben, fristgerecht bekanntgemacht worden sind. (3) Ist die Prüfung der Gründung, Umwandlung oder von Sacheinlagen in die Prüfung der Eröffnungsbilanz einbezogen worden, so kann das Gericht unterstellen, daß die Wertansätze für Vermögensgegenstände in der Eröffnungsbilanz deren tatsächlichem Wert entsprechen, wenn die Eröffnungsbilanz und der Anhang einen uneingeschränkten Bestätigungsvermerk erhalten haben. (4) Unternehmen, die nach den bis zum 30. Juni 1990 gültigen Rechtsvorschriften gegenüber dem Statistischen Amt der Deutschen Demokratischen Republik berichtspflichtig waren, sowie neu gebildete Kapitalgesellschaften haben die D-Markeröffnungsbilanz und die vergleichende Darstellung nach § 20 unverzüglich nach ihrer Feststellung der örtlich zuständigen Dienststelle des Statistischen Amtes der Deutschen Demokratischen Republik in zweifacher Ausfertigung einzureichen.   
 Abschnitt 6  
 Geschäftszweigbezogene Vorschriften  
   
@@ -10820,10 +10391,7 @@ Vorschriften für Geldinstitute und Außenhandelsbetriebe
   
 § 38  
 Anwendungsbereich  
-(1) Geldinstitute und Außenhandelsbetriebe haben die Vorschriften dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist. Sie dürfen die in diesem Gesetz größenabhängig zugelassenen Erleichterungen nicht in Anspruch nehmen. § 19 Abs. 3 Nr. 1 Buchstabe a dieses Gesetzes und die §§ 25a bis 26b des Gesetzes über das Kreditwesen sind auf Geldinstitute nicht anzuwenden.  
-(2) Geldinstitute sind Unternehmen, die vor dem 1. Juli 1990 im Währungsgebiet der Mark der Deutschen Demokratischen Republik befugt Bankgeschäfte gemäß § 1 Abs. 1 des Gesetzes über das Kreditwesen betrieben haben; die Befugnis kann auf Gesetz, Verordnung, behördlicher Anordnung oder behördlicher Erlaubnis beruhen.  
-(3) Außenhandelsbetriebe sind Unternehmen, die vor dem 1. Juli 1990 im Währungsgebiet der Mark der Deutschen Demokratischen Republik im Auftrag staatlicher Stellen im Rahmen des Außenhandels- und Valutamonopols Geschäfte mit Unternehmen oder Ländern außerhalb des Währungsgebiets der Mark der Deutschen Demokratischen Republik betrieben haben. Dazu rechnen auch Unternehmen, die den Geschäftsbetrieb von Außenhandelsbetrieben ganz oder teilweise zum Zwecke der Abwicklung übernommen haben, hinsichtlich des abzuwickelnden Vermögens.  
-  
+(1) Geldinstitute und Außenhandelsbetriebe haben die Vorschriften dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist. Sie dürfen die in diesem Gesetz größenabhängig zugelassenen Erleichterungen nicht in Anspruch nehmen. § 19 Abs. 3 Nr. 1 Buchstabe a dieses Gesetzes und die §§ 25a bis 26b des Gesetzes über das Kreditwesen sind auf Geldinstitute nicht anzuwenden. (2) Geldinstitute sind Unternehmen, die vor dem 1. Juli 1990 im Währungsgebiet der Mark der Deutschen Demokratischen Republik befugt Bankgeschäfte gemäß § 1 Abs. 1 des Gesetzes über das Kreditwesen betrieben haben; die Befugnis kann auf Gesetz, Verordnung, behördlicher Anordnung oder behördlicher Erlaubnis beruhen. (3) Außenhandelsbetriebe sind Unternehmen, die vor dem 1. Juli 1990 im Währungsgebiet der Mark der Deutschen Demokratischen Republik im Auftrag staatlicher Stellen im Rahmen des Außenhandels- und Valutamonopols Geschäfte mit Unternehmen oder Ländern außerhalb des Währungsgebiets der Mark der Deutschen Demokratischen Republik betrieben haben. Dazu rechnen auch Unternehmen, die den Geschäftsbetrieb von Außenhandelsbetrieben ganz oder teilweise zum Zwecke der Abwicklung übernommen haben, hinsichtlich des abzuwickelnden Vermögens.   
 § 39  
 Eröffnungsbilanz  
 (1) Geldinstitute haben abweichend von § 247 Abs. 1, §§ 251, 265 Abs. 5 bis 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren Gliederung die Eröffnungsbilanz gemäß der Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Kreditinstituten in der Fassung der Bekanntmachung vom 14. September 1987 (BGBl. I S. 2169) aufzustellen, und zwar
@@ -10834,9 +10402,7 @@ Eröffnungsbilanz
 
 3. Geldinstitute, die Sparkasse sind, und andere Geldinstitute des öffentlichen Rechts nach Mustern, die durch Änderung dieser Verordnung festgelegt werden.
 
-(2) Geldinstitute haben in der Eröffnungsbilanz Pauschalwertberichtigungen nach § 13 Abs. 3 auf Forderungen aus Bankgeschäften in Höhe von 1 vom Hundert und auf Eventualforderungen des Bankgeschäfts aus Bürgschaften und sonstigen Gewährleistungen in Höhe von 0,5 vom Hundert vom Gesamtbetrag der Forderungen an Kunden abzusetzen, soweit diese sich nicht gegen eine Gebietskörperschaft, eine Körperschaft des öffentlichen Rechts, eine Anstalt oder ein Geldinstitut im Währungsgebiet der Deutschen Mark richten oder von ihnen verbürgt sind.  
-(3) Die Beibehaltung der Pauschalwertberichtigung in künftigen Bilanzen richtet sich nach den allgemeinen Bewertungsgrundsätzen.  
-(4) Abweichend von § 16 Abs. 1 sind die nachstehend bezeichneten auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten der Geldinstitute, die vor dem 1. Juli 1990 begründet wurden, mit der Wirkung auf Deutsche Mark umzurechnen, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist:  
+(2) Geldinstitute haben in der Eröffnungsbilanz Pauschalwertberichtigungen nach § 13 Abs. 3 auf Forderungen aus Bankgeschäften in Höhe von 1 vom Hundert und auf Eventualforderungen des Bankgeschäfts aus Bürgschaften und sonstigen Gewährleistungen in Höhe von 0,5 vom Hundert vom Gesamtbetrag der Forderungen an Kunden abzusetzen, soweit diese sich nicht gegen eine Gebietskörperschaft, eine Körperschaft des öffentlichen Rechts, eine Anstalt oder ein Geldinstitut im Währungsgebiet der Deutschen Mark richten oder von ihnen verbürgt sind. (3) Die Beibehaltung der Pauschalwertberichtigung in künftigen Bilanzen richtet sich nach den allgemeinen Bewertungsgrundsätzen. (4) Abweichend von § 16 Abs. 1 sind die nachstehend bezeichneten auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten der Geldinstitute, die vor dem 1. Juli 1990 begründet wurden, mit der Wirkung auf Deutsche Mark umzurechnen, daß für eine Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist:  
 Verbindlichkeiten gegenüber natürlichen Personen mit Wohnsitz in der Deutschen Demokratischen Republik,
 
 \-  
@@ -10848,20 +10414,13 @@ die zwischen dem 2. Juli 1931 und dem 1. Juli 1976 geboren sind, bis zu viertaus
 \-  
 die vor dem 2. Juli 1931 geboren sind, bis zu sechstausend Mark,
 
-sofern sie einen entsprechenden Antrag gestellt haben. Ferner sind die nach dem 31. Dezember 1989 begründeten Verbindlichkeiten gegenüber natürlichen oder juristischen Personen oder Stellen, deren Wohnsitz sich außerhalb der Deutschen Demokratischen Republik befindet, in der Weise umzustellen, daß für drei Mark der Deutschen Demokratischen Republik eine Deutsche Mark gutgeschrieben wird, sofern diese Personen oder Stellen einen entsprechenden Antrag gestellt haben.  
-  
+sofern sie einen entsprechenden Antrag gestellt haben. Ferner sind die nach dem 31. Dezember 1989 begründeten Verbindlichkeiten gegenüber natürlichen oder juristischen Personen oder Stellen, deren Wohnsitz sich außerhalb der Deutschen Demokratischen Republik befindet, in der Weise umzustellen, daß für drei Mark der Deutschen Demokratischen Republik eine Deutsche Mark gutgeschrieben wird, sofern diese Personen oder Stellen einen entsprechenden Antrag gestellt haben.   
 § 40  
 Ausgleichsforderungen  
-(1) Geldinstituten und Außenhandelsbetrieben wird, soweit ihre Vermögenswerte in Anwendung der Bewertungsvorschriften des Unterabschnitts 2 dieses Gesetzes zur Deckung der aus der Einführung der Währung der Deutschen Mark und der Währungsumstellung in der Deutschen Demokratischen Republik hervorgehenden Verbindlichkeiten einschließlich der Rückstellungen nicht ausreichen, beginnend mit dem 1. Juli 1990 eine verzinsliche Forderung gegen den Ausgleichsfonds Währungsumstellung zugeteilt.  
-(2) Für Geldinstitute ist die Forderung in der Höhe anzusetzen, daß die Vermögenswerte ausreichen, um die in Absatz 1 genannten Schulden zu decken und ein Eigenkapital in der Höhe auszuweisen, daß es mindestens 4 vom Hundert der Bilanzsumme und die Auslastung des gemäß § 10 des Gesetzes über das Kreditwesen vom Bundesaufsichtsamt für das Kreditwesen erlassenen Grundsatzes I in der Fassung der Bekanntmachung vom 19. Dezember 1985 (Bundesanzeiger Nr. 239 vom 24. Dezember 1985 S. 15302) höchstens das Dreizehnfache beträgt.  
-(3) Für Außenhandelsbetriebe ist die Ausgleichsforderung in der Höhe anzusetzen, daß die Vermögenswerte ausreichen, um die in Absatz 1 bezeichneten Schulden zu decken.  
-(4) § 36 ist mit der Maßgabe entsprechend anzuwenden, daß es nicht auf die Wesentlichkeit ankommt. § 36 Abs. 4 Satz 3 ist nicht anzuwenden.  
-  
+(1) Geldinstituten und Außenhandelsbetrieben wird, soweit ihre Vermögenswerte in Anwendung der Bewertungsvorschriften des Unterabschnitts 2 dieses Gesetzes zur Deckung der aus der Einführung der Währung der Deutschen Mark und der Währungsumstellung in der Deutschen Demokratischen Republik hervorgehenden Verbindlichkeiten einschließlich der Rückstellungen nicht ausreichen, beginnend mit dem 1. Juli 1990 eine verzinsliche Forderung gegen den Ausgleichsfonds Währungsumstellung zugeteilt. (2) Für Geldinstitute ist die Forderung in der Höhe anzusetzen, daß die Vermögenswerte ausreichen, um die in Absatz 1 genannten Schulden zu decken und ein Eigenkapital in der Höhe auszuweisen, daß es mindestens 4 vom Hundert der Bilanzsumme und die Auslastung des gemäß § 10 des Gesetzes über das Kreditwesen vom Bundesaufsichtsamt für das Kreditwesen erlassenen Grundsatzes I in der Fassung der Bekanntmachung vom 19. Dezember 1985 (Bundesanzeiger Nr. 239 vom 24. Dezember 1985 S. 15302) höchstens das Dreizehnfache beträgt. (3) Für Außenhandelsbetriebe ist die Ausgleichsforderung in der Höhe anzusetzen, daß die Vermögenswerte ausreichen, um die in Absatz 1 bezeichneten Schulden zu decken. (4) § 36 ist mit der Maßgabe entsprechend anzuwenden, daß es nicht auf die Wesentlichkeit ankommt. § 36 Abs. 4 Satz 3 ist nicht anzuwenden.   
 § 41  
 Ausgleichsverbindlichkeiten  
-(1) Geldinstitute und Außenhandelsbetriebe haben in ihre Eröffnungsbilanz zum 1. Juli 1990 Verbindlichkeiten gegenüber dem Ausgleichsfonds Währungsumstellung (Ausgleichsverbindlichkeiten) in der Höhe einzustellen, in der bei Geldinstituten das Eigenkapital die in § 40 Abs. 2 genannten Grenzen und bei Außenhandelsbetrieben die Vermögenswerte die Schulden übersteigen.  
-(2) § 40 Abs. 4 ist entsprechend anzuwenden.  
-  
+(1) Geldinstitute und Außenhandelsbetriebe haben in ihre Eröffnungsbilanz zum 1. Juli 1990 Verbindlichkeiten gegenüber dem Ausgleichsfonds Währungsumstellung (Ausgleichsverbindlichkeiten) in der Höhe einzustellen, in der bei Geldinstituten das Eigenkapital die in § 40 Abs. 2 genannten Grenzen und bei Außenhandelsbetrieben die Vermögenswerte die Schulden übersteigen. (2) § 40 Abs. 4 ist entsprechend anzuwenden.   
 § 42  
 Vergleichende Darstellung  
 Geldinstitute haben in der vergleichenden Darstellung nach § 20 außerdem anzugeben,
@@ -10878,40 +10437,28 @@ c) bis zu sechstausend Deutsche Mark im Verhältnis eins zu eins
 
 gutgeschrieben wurden;
 
-3\. den Gesamtbetrag der Guthaben in Mark der Deutschen Demokratischen Republik, für die ein Umstellungsantrag noch gestellt werden kann.  
-  
+3\. den Gesamtbetrag der Guthaben in Mark der Deutschen Demokratischen Republik, für die ein Umstellungsantrag noch gestellt werden kann.   
 § 43  
 Prüfung  
-(1) Geldinstitute und Außenhandelsbetriebe in der Rechtsform einer Kapitalgesellschaft oder des öffentlichen Rechts können abweichend von § 34 Abs. 1 nur von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft geprüft werden, soweit sie nicht Sparkassen sind.  
-(2) Die Prüfung erstreckt sich auch auf die Frage, ob bei der nachträglichen Umstellung von Kontoguthaben natürlicher Personen die Voraussetzungen gemäß Artikel 5 Abs. 7 der Anlage I zum Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik für die Wiedereinsetzung in den vorigen Stand vorlagen.  
-  
+(1) Geldinstitute und Außenhandelsbetriebe in der Rechtsform einer Kapitalgesellschaft oder des öffentlichen Rechts können abweichend von § 34 Abs. 1 nur von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft geprüft werden, soweit sie nicht Sparkassen sind. (2) Die Prüfung erstreckt sich auch auf die Frage, ob bei der nachträglichen Umstellung von Kontoguthaben natürlicher Personen die Voraussetzungen gemäß Artikel 5 Abs. 7 der Anlage I zum Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik für die Wiedereinsetzung in den vorigen Stand vorlagen.   
 Unterabschnitt 11  
 Vorschriften für Versicherungsunternehmen  
   
 § 44  
 Anwendungsbereich  
-(1) Versicherungsunternehmen haben die Vorschriften dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist. Sie dürfen die in diesem Gesetz größenabhängig zugelassenen Erleichterungen nicht in Anspruch nehmen. Die §§ 55, 56 Abs. 1 des Versicherungsaufsichtsgesetzes sind nicht anzuwenden.  
-(2) Versicherungsunternehmen sind Unternehmen, die den Betrieb von Versicherungsgeschäften zum Gegenstand haben und nicht Träger der Sozialversicherung sind. Dazu gehören auch Unternehmen, die nicht der Versicherungsaufsicht unterliegen oder keine eigene Rechtspersönlichkeit haben. Die Vorschriften über Versicherungsunternehmen sind auch auf Unternehmen anzuwenden, die keine Erlaubnis zum Geschäftsbetrieb als Versicherungsunternehmen haben oder die sich in Abwicklung befinden.  
-  
+(1) Versicherungsunternehmen haben die Vorschriften dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist. Sie dürfen die in diesem Gesetz größenabhängig zugelassenen Erleichterungen nicht in Anspruch nehmen. Die §§ 55, 56 Abs. 1 des Versicherungsaufsichtsgesetzes sind nicht anzuwenden. (2) Versicherungsunternehmen sind Unternehmen, die den Betrieb von Versicherungsgeschäften zum Gegenstand haben und nicht Träger der Sozialversicherung sind. Dazu gehören auch Unternehmen, die nicht der Versicherungsaufsicht unterliegen oder keine eigene Rechtspersönlichkeit haben. Die Vorschriften über Versicherungsunternehmen sind auch auf Unternehmen anzuwenden, die keine Erlaubnis zum Geschäftsbetrieb als Versicherungsunternehmen haben oder die sich in Abwicklung befinden.   
 § 45  
 Eröffnungsbilanz  
-(1) Versicherungsunternehmen haben abweichend von § 265 Abs. 6, 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren Gliederung die Eröffnungsbilanz gemäß der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973, zuletzt geändert durch Verordnung vom 23. Dezember 1986 (BGBl. 1987 I S. 2), aufzustellen.  
-(2) Versicherungsunternehmen haben die Rückstellungen gemäß § 56 Abs. 3 des Versicherungsaufsichtsgesetzes zu bilden. § 56 Abs. 4 des Versicherungsaufsichtsgesetzes ist anzuwenden. § 17 Abs. 4 ist auch auf versicherungstechnische Rückstellungen mit Ausnahme der Beitragsüberträge anzuwenden.  
-(3) Versicherungsunternehmen haben im Anhang zusätzlich die in § 12 Nr. 3 der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973 vorgeschriebenen Angaben zu machen.  
-  
+(1) Versicherungsunternehmen haben abweichend von § 265 Abs. 6, 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren Gliederung die Eröffnungsbilanz gemäß der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973, zuletzt geändert durch Verordnung vom 23. Dezember 1986 (BGBl. 1987 I S. 2), aufzustellen. (2) Versicherungsunternehmen haben die Rückstellungen gemäß § 56 Abs. 3 des Versicherungsaufsichtsgesetzes zu bilden. § 56 Abs. 4 des Versicherungsaufsichtsgesetzes ist anzuwenden. § 17 Abs. 4 ist auch auf versicherungstechnische Rückstellungen mit Ausnahme der Beitragsüberträge anzuwenden. (3) Versicherungsunternehmen haben im Anhang zusätzlich die in § 12 Nr. 3 der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973 vorgeschriebenen Angaben zu machen.   
 § 46  
 Prüfung. Einreichung  
-(1) Versicherungsunternehmen können abweichend von § 34 Abs. 1 nur von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft geprüft werden.  
-(2) Die D-Markeröffnungsbilanz, der Anhang sowie die vergleichende Darstellung nach § 20 sind spätestens vor Ablauf des siebenten Monats nach dem Bilanzstichtag, die Konzerneröffnungsbilanz und der Konzernanhang spätestens vor Ablauf des elften Monats dem Bundesaufsichtsamt für das Versicherungswesen in zweifacher Ausfertigung einzureichen. Der Bericht des Prüfers über die Prüfung nach § 33 Abs. 1 Satz 1 ist spätestens vor Ablauf des achten Monats nach dem Bilanzstichtag, der Bericht über die Prüfung nach § 33 Abs. 3 Satz 1 spätestens vor Ablauf des zwölften Monats dem Bundesaufsichtsamt für das Versicherungswesen in zweifacher Ausfertigung einzureichen.  
-  
+(1) Versicherungsunternehmen können abweichend von § 34 Abs. 1 nur von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft geprüft werden. (2) Die D-Markeröffnungsbilanz, der Anhang sowie die vergleichende Darstellung nach § 20 sind spätestens vor Ablauf des siebenten Monats nach dem Bilanzstichtag, die Konzerneröffnungsbilanz und der Konzernanhang spätestens vor Ablauf des elften Monats dem Bundesaufsichtsamt für das Versicherungswesen in zweifacher Ausfertigung einzureichen. Der Bericht des Prüfers über die Prüfung nach § 33 Abs. 1 Satz 1 ist spätestens vor Ablauf des achten Monats nach dem Bilanzstichtag, der Bericht über die Prüfung nach § 33 Abs. 3 Satz 1 spätestens vor Ablauf des zwölften Monats dem Bundesaufsichtsamt für das Versicherungswesen in zweifacher Ausfertigung einzureichen.   
 Abschnitt 7  
 Straf- und Ordnungsstrafvorschriften. Zwangsgelder  
   
 § 47  
 Strafvorschriften  
-(1) Die Strafvorschriften der §§ 331 bis 333 des Handelsgesetzbuchs sind auf die Eröffnungsbilanz, den Anhang, die Konzerneröffnungsbilanz, den Konzernanhang und die nach diesem Gesetz zu bestellenden Prüfer entsprechend anzuwenden. Satz 1 gilt auch für nicht in der Rechtsform einer Kapitalgesellschaft betriebene Unternehmen.  
-(2) § 331 des Handelsgesetzbuchs ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch den Geschäftsleiter (§ 1 Abs. 2 Satz 1 des Gesetzes über das Kreditwesen) eines nicht in der Rechtsform einer Kapitalgesellschaft betriebenen Geldinstituts, durch den Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Geldinstituts oder durch den Geschäftsleiter im Sinne des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen.  
-  
+(1) Die Strafvorschriften der §§ 331 bis 333 des Handelsgesetzbuchs sind auf die Eröffnungsbilanz, den Anhang, die Konzerneröffnungsbilanz, den Konzernanhang und die nach diesem Gesetz zu bestellenden Prüfer entsprechend anzuwenden. Satz 1 gilt auch für nicht in der Rechtsform einer Kapitalgesellschaft betriebene Unternehmen. (2) § 331 des Handelsgesetzbuchs ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch den Geschäftsleiter (§ 1 Abs. 2 Satz 1 des Gesetzes über das Kreditwesen) eines nicht in der Rechtsform einer Kapitalgesellschaft betriebenen Geldinstituts, durch den Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Geldinstituts oder durch den Geschäftsleiter im Sinne des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen.   
 § 48  
 Ordnungsstrafvorschriften  
 (1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Unternehmens oder als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Unternehmens
@@ -10940,10 +10487,7 @@ e) des § 22 über die im Konzernanhang zu machenden Angaben oder
 
 3. bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer Vorschrift des § 37 Abs. 1 Satz 1 in Verbindung mit § 328 des Handelsgesetzbuchs über Form oder Inhalt
 
-zuwiderhandelt.  
-(2) Ordnungswidrig handelt auch, wer zu einer Eröffnungsbilanz oder einem Anhang oder einer Konzerneröffnungsbilanz oder einem Konzernanhang, die auf Grund gesetzlicher Vorschriften zu prüfen sind, einen Vermerk nach § 322 des Handelsgesetzbuchs erteilt, obwohl nach § 34 Abs. 5 in Verbindung mit § 319 Abs. 2 des Handelsgesetzbuchs er oder nach § 34 Abs. 5 in Verbindung mit § 319 Abs. 3 des Handelsgesetzbuchs die Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft, für die er tätig wird, nicht Prüfer sein darf.  
-(3) Die Ordnungswidrigkeit kann mit einer Ordnungsstrafe bis zu fünfzigtausend Deutsche Mark geahndet werden.  
-  
+zuwiderhandelt. (2) Ordnungswidrig handelt auch, wer zu einer Eröffnungsbilanz oder einem Anhang oder einer Konzerneröffnungsbilanz oder einem Konzernanhang, die auf Grund gesetzlicher Vorschriften zu prüfen sind, einen Vermerk nach § 322 des Handelsgesetzbuchs erteilt, obwohl nach § 34 Abs. 5 in Verbindung mit § 319 Abs. 2 des Handelsgesetzbuchs er oder nach § 34 Abs. 5 in Verbindung mit § 319 Abs. 3 des Handelsgesetzbuchs die Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft, für die er tätig wird, nicht Prüfer sein darf. (3) Die Ordnungswidrigkeit kann mit einer Ordnungsstrafe bis zu fünfzigtausend Deutsche Mark geahndet werden.   
 § 49  
 Festsetzung von Zwangsgeld  
 Mitglieder des vertretungsberechtigten Organs, bei Einzelunternehmen der Inhaber, die
@@ -10960,33 +10504,22 @@ Mitglieder des vertretungsberechtigten Organs, bei Einzelunternehmen der Inhaber
 
 6. § 37 dieses Gesetzes in Verbindung mit § 325 des Handelsgesetzbuchs über die Pflicht zur Offenlegung der Eröffnungsbilanz oder des Anhangs oder der Konzerneröffnungsbilanz oder des Konzernanhangs
 
-nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 335 Satz 2 bis 8 des Handelsgesetzbuchs ist anzuwenden. Für die Festsetzung des Zwangsgelds gelten die §§ 132 bis 139 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit.  
-  
+nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 335 Satz 2 bis 8 des Handelsgesetzbuchs ist anzuwenden. Für die Festsetzung des Zwangsgelds gelten die §§ 132 bis 139 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit.   
 Abschnitt 8  
 Steuern. Gebühren  
   
 § 50  
 Steuerliche Eröffnungsbilanz und Folgewirkungen  
-(1) Steuerpflichtige, die Rechtsträger eines Unternehmens nach § 1 sind, haben die Vorschriften dieses Gesetzes auch für die steuerrechtliche Gewinnermittlung zu befolgen.  
-(2) Zum 1. Juli 1990 ist eine steuerliche Eröffnungsbilanz aufzustellen, die, abgesehen von den folgenden Abweichungen, der handelsrechtlichen Eröffnungsbilanz entsprechen muß. Ein nach § 9 Abs. 3 oder § 31 Abs. 1 gebildeter Aktivposten ist nicht anzusetzen. § 11 Abs. 1 Satz 1 ist mit der Maßgabe anzuwenden, daß der Beteiligungsbuchwert dem ausgewiesenen anteiligen Eigenkapital in der steuerlichen Eröffnungsbilanz des Unternehmens entspricht, an dem die Beteiligung besteht. § 5 Abs. 2, 3 und 5 des Einkommensteuergesetzes ist anzuwenden. Rückstellungen nach § 5 Abs. 4 des Einkommensteuergesetzes und Rückstellungen nach § 249 Abs. 1 Satz 2 Nr. 1, Satz 3 und Abs. 2 des Handelsgesetzbuchs dürfen nicht gebildet werden.  
-(3) Die Berichtigung von Ansätzen nach § 36 führt zu einer Berichtigung der steuerlichen Eröffnungsbilanz und etwaiger Folgebilanzen. Sind bereits Steuerbescheide erlassen worden, so sind sie zu ändern, soweit die Berichtigung von Bilanz- oder Wertansätzen zu einem geänderten Gewinn oder Verlust führt oder sich auf die Feststellung von Einheitswerten auswirkt.  
-(4) Beträge, die zum Ausgleich eines Kapitalentwertungskontos nach § 26 Abs. 4 oder § 28 Abs. 1 verwendet werden, dürfen bei der steuerrechtlichen Gewinnermittlung nicht abgezogen werden.  
-(5) Auf Steuerpflichtige, die freiwillig Bücher führen und regelmäßig Abschlüsse machen, ist Absatz 1 bis 4 entsprechend anzuwenden.  
-  
+(1) Steuerpflichtige, die Rechtsträger eines Unternehmens nach § 1 sind, haben die Vorschriften dieses Gesetzes auch für die steuerrechtliche Gewinnermittlung zu befolgen. (2) Zum 1. Juli 1990 ist eine steuerliche Eröffnungsbilanz aufzustellen, die, abgesehen von den folgenden Abweichungen, der handelsrechtlichen Eröffnungsbilanz entsprechen muß. Ein nach § 9 Abs. 3 oder § 31 Abs. 1 gebildeter Aktivposten ist nicht anzusetzen. § 11 Abs. 1 Satz 1 ist mit der Maßgabe anzuwenden, daß der Beteiligungsbuchwert dem ausgewiesenen anteiligen Eigenkapital in der steuerlichen Eröffnungsbilanz des Unternehmens entspricht, an dem die Beteiligung besteht. § 5 Abs. 2, 3 und 5 des Einkommensteuergesetzes ist anzuwenden. Rückstellungen nach § 5 Abs. 4 des Einkommensteuergesetzes und Rückstellungen nach § 249 Abs. 1 Satz 2 Nr. 1, Satz 3 und Abs. 2 des Handelsgesetzbuchs dürfen nicht gebildet werden. (3) Die Berichtigung von Ansätzen nach § 36 führt zu einer Berichtigung der steuerlichen Eröffnungsbilanz und etwaiger Folgebilanzen. Sind bereits Steuerbescheide erlassen worden, so sind sie zu ändern, soweit die Berichtigung von Bilanz- oder Wertansätzen zu einem geänderten Gewinn oder Verlust führt oder sich auf die Feststellung von Einheitswerten auswirkt. (4) Beträge, die zum Ausgleich eines Kapitalentwertungskontos nach § 26 Abs. 4 oder § 28 Abs. 1 verwendet werden, dürfen bei der steuerrechtlichen Gewinnermittlung nicht abgezogen werden. (5) Auf Steuerpflichtige, die freiwillig Bücher führen und regelmäßig Abschlüsse machen, ist Absatz 1 bis 4 entsprechend anzuwenden.   
 § 51  
 Umstellungsbedingte Vermögensänderungen  
-(1) Die aus der Eröffnungsbilanz und der Neufestsetzung nach § 26 Abs. 2 bis 4, §§ 27, 28, 30 sich ergebenden zahlenmäßigen Veränderungen im Vermögen der in § 50 Abs. 1 oder 5 bezeichneten Steuerpflichtigen sowie deren Gesellschafter oder Mitglieder wirken sich auf die Steuern vom Einkommen und Ertrag nicht aus. Dies gilt insbesondere für die Bildung von Rücklagen oder die Auflösung bisheriger Unterbewertungen, wenn die Erträge auf der Neubewertung von Vermögensgegenständen und Schulden beruhen, die spätestens am 1. Juli 1990 Betriebsvermögen gewesen sind oder auf das Unternehmen mit Wirkung vom 1. Juli 1990 übertragen worden sind, oder auf dem Erlaß von Schulden beruhen.  
-(2) Die aus der Neufestsetzung sich ergebenden zahlenmäßigen Veränderungen im Vermögen der in § 1 bezeichneten Gesellschaften und deren Gesellschafter und im Vermögen der in § 1 bezeichneten Genossenschaften und deren Genossen unterliegen nicht den Steuern vom Kapitalverkehr.  
-  
+(1) Die aus der Eröffnungsbilanz und der Neufestsetzung nach § 26 Abs. 2 bis 4, §§ 27, 28, 30 sich ergebenden zahlenmäßigen Veränderungen im Vermögen der in § 50 Abs. 1 oder 5 bezeichneten Steuerpflichtigen sowie deren Gesellschafter oder Mitglieder wirken sich auf die Steuern vom Einkommen und Ertrag nicht aus. Dies gilt insbesondere für die Bildung von Rücklagen oder die Auflösung bisheriger Unterbewertungen, wenn die Erträge auf der Neubewertung von Vermögensgegenständen und Schulden beruhen, die spätestens am 1. Juli 1990 Betriebsvermögen gewesen sind oder auf das Unternehmen mit Wirkung vom 1. Juli 1990 übertragen worden sind, oder auf dem Erlaß von Schulden beruhen. (2) Die aus der Neufestsetzung sich ergebenden zahlenmäßigen Veränderungen im Vermögen der in § 1 bezeichneten Gesellschaften und deren Gesellschafter und im Vermögen der in § 1 bezeichneten Genossenschaften und deren Genossen unterliegen nicht den Steuern vom Kapitalverkehr.   
 § 52  
 Steuerliche Ausgangswerte in anderen Fällen  
-(1) Bei Steuerpflichtigen, die ihren Gewinn nach § 4 Abs. 3 des Einkommensteuergesetzes ermitteln, gelten als Anschaffungs- oder Herstellungskosten der Wirtschaftsgüter, die spätestens am 1. Juli 1990 Anlagevermögen gewesen sind oder auf den Steuerpflichtigen mit Wirkung vom 1. Juli 1990 übertragen worden sind, die Werte, die sich in entsprechender Anwendung der §§ 7 bis 11 und 18 ergeben. Wirtschaftsgüter nach Satz 1 sind unter Angabe ihres Werts zum 1. Juli 1990 in ein besonderes Verzeichnis (Anlageverzeichnis) aufzunehmen. Ergibt sich bis zum 31. Dezember 1994 einschließlich, daß sie zum 1. Juli 1990 nicht angesetzt werden durften oder zu Unrecht nicht oder wesentlich zu hoch oder zu niedrig angesetzt worden sind, so ist das Anlageverzeichnis insoweit zu berichtigen; sind bereits Steuerbescheide erlassen worden, so sind sie zu ändern, soweit die Berichtigung zu einem geänderten Gewinn oder Verlust führt.  
-(2) Absatz 1 Satz 1 ist auf Steuerpflichtige mit Einkünften aus nichtselbständiger Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder mit anderen Einkünften nach §§ 17 und 22 des Einkommensteuergesetzes entsprechend anzuwenden.  
-  
+(1) Bei Steuerpflichtigen, die ihren Gewinn nach § 4 Abs. 3 des Einkommensteuergesetzes ermitteln, gelten als Anschaffungs- oder Herstellungskosten der Wirtschaftsgüter, die spätestens am 1. Juli 1990 Anlagevermögen gewesen sind oder auf den Steuerpflichtigen mit Wirkung vom 1. Juli 1990 übertragen worden sind, die Werte, die sich in entsprechender Anwendung der §§ 7 bis 11 und 18 ergeben. Wirtschaftsgüter nach Satz 1 sind unter Angabe ihres Werts zum 1. Juli 1990 in ein besonderes Verzeichnis (Anlageverzeichnis) aufzunehmen. Ergibt sich bis zum 31. Dezember 1994 einschließlich, daß sie zum 1. Juli 1990 nicht angesetzt werden durften oder zu Unrecht nicht oder wesentlich zu hoch oder zu niedrig angesetzt worden sind, so ist das Anlageverzeichnis insoweit zu berichtigen; sind bereits Steuerbescheide erlassen worden, so sind sie zu ändern, soweit die Berichtigung zu einem geänderten Gewinn oder Verlust führt. (2) Absatz 1 Satz 1 ist auf Steuerpflichtige mit Einkünften aus nichtselbständiger Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder mit anderen Einkünften nach §§ 17 und 22 des Einkommensteuergesetzes entsprechend anzuwenden.   
 § 53  
 Wirtschaftsjahre 1990 und steuerliche Schlußbilanz  
-Bei Steuerpflichtigen mit Einkünften nach § 2 Abs. 3 Nr. 1 bis 3 des Einkommensteuergesetzes sind Wirtschaftsjahre im Kalenderjahr 1990 die Zeiträume vom 1. Januar bis zum 30. Juni und vom 1. Juli bis zum 31. Dezember. In der steuerlichen Schlußbilanz zum 31. Dezember können Rückstellungen nach § 5 Abs. 4 des Einkommensteuergesetzes nicht und Pensionsrückstellungen nur unter den Voraussetzungen des § 54 gebildet werden.  
-  
+Bei Steuerpflichtigen mit Einkünften nach § 2 Abs. 3 Nr. 1 bis 3 des Einkommensteuergesetzes sind Wirtschaftsjahre im Kalenderjahr 1990 die Zeiträume vom 1. Januar bis zum 30. Juni und vom 1. Juli bis zum 31. Dezember. In der steuerlichen Schlußbilanz zum 31. Dezember können Rückstellungen nach § 5 Abs. 4 des Einkommensteuergesetzes nicht und Pensionsrückstellungen nur unter den Voraussetzungen des § 54 gebildet werden.   
 § 54  
 Pensionsrückstellungen  
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung (Pensionsrückstellung) nur gebildet werden, wenn 1.
@@ -11010,74 +10543,53 @@ der Pensionsberechtigte einen Rechtsanspruch auf einmalige oder laufende Pension
 
 2. nach Beendigung des Dienstverhältnisses des Pensionsberechtigten unter Aufrechterhaltung seiner Pensionsanwartschaft oder nach Eintritt des Versorgungsfalls der Barwert der künftigen Pensionsleistungen am Schluß des Wirtschaftsjahrs; Nummer 1 Satz 4 gilt sinngemäß.
 
-Bei der Berechnung des Teilwerts der Pensionsverpflichtung sind ein Rechnungszinsfuß von sechs vom Hundert und die anerkannten Regeln der Versicherungsmathematik anzuwenden.  
-(4) Eine Pensionsrückstellung darf höchstens um den Unterschied zwischen dem Teilwert der Pensionsverpflichtung am Schluß des am 31. Dezember 1990 endenden Wirtschaftsjahrs (Erstjahr) und dem Beginn dieses Wirtschaftsjahrs erhöht werden. Darf in dem Erstjahr mit der Bildung einer Pensionsrückstellung begonnen werden, darf die Rückstellung bis zur Höhe des Teilwerts der Pensionsverpflichtung am Schluß des Wirtschaftsjahrs gebildet werden; diese Rückstellung kann auf das Erstjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden. Endet das Dienstverhältnis des Pensionsberechtigten unter Aufrechterhaltung seiner Pensionsanwartschaft am Schluß des Erstjahrs oder tritt der Versorgungsfall in diesem Wirtschaftsjahr ein, darf die Pensionsrückstellung stets bis zur Höhe des Teilwerts der Pensionsverpflichtung gebildet werden; die für dieses Wirtschaftsjahr zulässige Erhöhung der Pensionsrückstellung kann auf das Erstjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden.  
-(5) Absatz 3 und 4 ist entsprechend anzuwenden, wenn der Pensionsberechtigte zu dem Pensionsverpflichteten in einem anderen Rechtsverhältnis als einem Dienstverhältnis steht.  
-  
+Bei der Berechnung des Teilwerts der Pensionsverpflichtung sind ein Rechnungszinsfuß von sechs vom Hundert und die anerkannten Regeln der Versicherungsmathematik anzuwenden. (4) Eine Pensionsrückstellung darf höchstens um den Unterschied zwischen dem Teilwert der Pensionsverpflichtung am Schluß des am 31. Dezember 1990 endenden Wirtschaftsjahrs (Erstjahr) und dem Beginn dieses Wirtschaftsjahrs erhöht werden. Darf in dem Erstjahr mit der Bildung einer Pensionsrückstellung begonnen werden, darf die Rückstellung bis zur Höhe des Teilwerts der Pensionsverpflichtung am Schluß des Wirtschaftsjahrs gebildet werden; diese Rückstellung kann auf das Erstjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden. Endet das Dienstverhältnis des Pensionsberechtigten unter Aufrechterhaltung seiner Pensionsanwartschaft am Schluß des Erstjahrs oder tritt der Versorgungsfall in diesem Wirtschaftsjahr ein, darf die Pensionsrückstellung stets bis zur Höhe des Teilwerts der Pensionsverpflichtung gebildet werden; die für dieses Wirtschaftsjahr zulässige Erhöhung der Pensionsrückstellung kann auf das Erstjahr und die beiden folgenden Wirtschaftsjahre gleichmäßig verteilt werden. (5) Absatz 3 und 4 ist entsprechend anzuwenden, wenn der Pensionsberechtigte zu dem Pensionsverpflichteten in einem anderen Rechtsverhältnis als einem Dienstverhältnis steht.   
 § 55  
 Einlagen  
-Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaftsgüter als Einlage zugeführt, die vor dem 1. Juli 1990 angeschafft oder hergestellt worden sind, so gilt der Betrag, den der Steuerpflichtige in einer Eröffnungsbilanz zum 1. Juli 1990 hätte ansetzen können, als Anschaffungs- oder Herstellungskosten.  
-  
+Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaftsgüter als Einlage zugeführt, die vor dem 1. Juli 1990 angeschafft oder hergestellt worden sind, so gilt der Betrag, den der Steuerpflichtige in einer Eröffnungsbilanz zum 1. Juli 1990 hätte ansetzen können, als Anschaffungs- oder Herstellungskosten.   
 § 56  
 Gebühren  
-(1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die anläßlich der Feststellung der Eröffnungsbilanz und der Neufestsetzung der Kapitalverhältnisse nach diesem Gesetz entstehen, ermäßigen sich um fünfzig vom Hundert. Übersteigt die nach Satz 1 zu berechnende Gebühr für die Beurkundung von Versammlungsbeschlüssen zweitausend Deutsche Mark, so ermäßigt sich der zweitausend Deutsche Mark übersteigende Betrag um weitere fünfundzwanzig vom Hundert. Fließen die Gebühren dem Notar selbst zu, ermäßigen sich die Gebühren entsprechend § 144 Abs. 1 des Gesetzes über die Kosten in Angelegenheiten der Freiwilligen Gerichtsbarkeit (Kostenordnung) der Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 361-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 5 des Gesetzes vom 5. April 1990 (BGBl. I S. 701).  
-(2) Die Ermäßigung gilt auch für die Gebühren, die bei einer Umwandlung von Gesellschaften entstehen, sofern die Umwandlung nicht später als die Neufestsetzung beschlossen wird und nach der Eröffnungsbilanz das Nennkapital einhunderttausend Deutsche Mark nicht erreicht oder das übertragene Eigenkapital der Aktiengesellschaft oder der Kommanditgesellschaft auf Aktien einhunderttausend Deutsche Mark oder das übertragene Eigenkapital der Gesellschaft mit beschränkter Haftung fünfzigtausend Deutsche Mark nicht erreicht. Die Ermäßigung erstreckt sich nicht auf die Gebühren, die anläßlich des Ausgleichs eines Kapitalentwertungskontos entstehen.  
-(3) Wird ein Beschluß, für dessen Beurkundung die Gebühren nach Absatz 1 zu ermäßigen sind, zugleich mit anderen nicht unter Absatz 1 fallenden Beschlüssen beurkundet, angemeldet oder eingetragen und ist dafür eine einheitliche Gebühr zu erheben, so ermäßigt sich nur der Teilbetrag der Gesamtgebühr, der die Gebühr, die für das nicht unter Absatz 1 fallende Geschäft bei gesonderter Vornahme zu erheben wäre, übersteigt.  
-(4) Die Ermäßigung erstreckt sich nicht auf die Zusatzgebühr für Beurkundungen außerhalb der Gerichtsstelle und für fremdsprachliche Erklärungen; die Gebühr für die Beurkundung außerhalb der Gerichtsstelle darf jedoch den Betrag der für das Geschäft selbst zu erhebenden (ermäßigten) Gebühr nicht übersteigen.  
-(5) Die Bestimmungen über die Mindestgebühr bleiben unberührt.  
-  
+(1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die anläßlich der Feststellung der Eröffnungsbilanz und der Neufestsetzung der Kapitalverhältnisse nach diesem Gesetz entstehen, ermäßigen sich um fünfzig vom Hundert. Übersteigt die nach Satz 1 zu berechnende Gebühr für die Beurkundung von Versammlungsbeschlüssen zweitausend Deutsche Mark, so ermäßigt sich der zweitausend Deutsche Mark übersteigende Betrag um weitere fünfundzwanzig vom Hundert. Fließen die Gebühren dem Notar selbst zu, ermäßigen sich die Gebühren entsprechend § 144 Abs. 1 des Gesetzes über die Kosten in Angelegenheiten der Freiwilligen Gerichtsbarkeit (Kostenordnung) der Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 361-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 5 des Gesetzes vom 5. April 1990 (BGBl. I S. 701). (2) Die Ermäßigung gilt auch für die Gebühren, die bei einer Umwandlung von Gesellschaften entstehen, sofern die Umwandlung nicht später als die Neufestsetzung beschlossen wird und nach der Eröffnungsbilanz das Nennkapital einhunderttausend Deutsche Mark nicht erreicht oder das übertragene Eigenkapital der Aktiengesellschaft oder der Kommanditgesellschaft auf Aktien einhunderttausend Deutsche Mark oder das übertragene Eigenkapital der Gesellschaft mit beschränkter Haftung fünfzigtausend Deutsche Mark nicht erreicht. Die Ermäßigung erstreckt sich nicht auf die Gebühren, die anläßlich des Ausgleichs eines Kapitalentwertungskontos entstehen. (3) Wird ein Beschluß, für dessen Beurkundung die Gebühren nach Absatz 1 zu ermäßigen sind, zugleich mit anderen nicht unter Absatz 1 fallenden Beschlüssen beurkundet, angemeldet oder eingetragen und ist dafür eine einheitliche Gebühr zu erheben, so ermäßigt sich nur der Teilbetrag der Gesamtgebühr, der die Gebühr, die für das nicht unter Absatz 1 fallende Geschäft bei gesonderter Vornahme zu erheben wäre, übersteigt. (4) Die Ermäßigung erstreckt sich nicht auf die Zusatzgebühr für Beurkundungen außerhalb der Gerichtsstelle und für fremdsprachliche Erklärungen; die Gebühr für die Beurkundung außerhalb der Gerichtsstelle darf jedoch den Betrag der für das Geschäft selbst zu erhebenden (ermäßigten) Gebühr nicht übersteigen. (5) Die Bestimmungen über die Mindestgebühr bleiben unberührt.   
 Abschnitt 9  
 Sonstige Vorschriften  
   
 § 57  
 Auflösung  
-(1) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, die ihre Kapitalverhältnisse bis zum 31. Dezember 1991 nicht nach diesem Gesetz neu festgesetzt haben, sind mit dem Ablauf dieses Tages aufgelöst. Wird die Frist zur Feststellung der Eröffnungsbilanz im Einzelfall über den 31. Dezember 1991 hinaus verlängert, so tritt für die Gesellschaft an Stelle des 31. Dezember 1991 der drei Monate nach Ablauf der verlängerten Frist liegende Tag. Ist der Beschluß über die Neufestsetzung vor dem 31. Dezember 1991 angefochten worden, so tritt an die Stelle des 31. Dezember 1991 der sechs Monate nach dem Tag der Rechtskraft der Entscheidung liegende Tag.  
-(2) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, deren Grundkapital nach der Neufestsetzung auf weniger als die nach der Rechtsform zulässigen Mindestbeträge lautet und die eine Erhöhung des Nennkapitals beschlossen haben, sind außerdem mit Ablauf des 31. Dezember 1991 aufgelöst, wenn die Erhöhung des Nennkapitals auf den zulässigen Mindestnennbetrag bis zu diesem Zeitpunkt nicht wirksam geworden ist.  
-(3) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, die von der Befugnis, ein Kapitalentwertungskonto zu bilden, Gebrauch gemacht haben, sind mit Ablauf des 31. Dezember 1997 aufgelöst, wenn die Durchführung des Ausgleichs nicht bis zu diesem Zeitpunkt in das Handelsregister eingetragen worden ist.  
-(4) Absatz 1 Satz 1 ist entsprechend auf Erwerbs- und Wirtschaftsgenossenschaften anzuwenden, wenn die notwendigen Änderungen des Statuts nicht bis zum 31. Dezember 1991 in das Genossenschaftsregister eingetragen worden sind.  
-  
+(1) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, die ihre Kapitalverhältnisse bis zum 31. Dezember 1991 nicht nach diesem Gesetz neu festgesetzt haben, sind mit dem Ablauf dieses Tages aufgelöst. Wird die Frist zur Feststellung der Eröffnungsbilanz im Einzelfall über den 31. Dezember 1991 hinaus verlängert, so tritt für die Gesellschaft an Stelle des 31. Dezember 1991 der drei Monate nach Ablauf der verlängerten Frist liegende Tag. Ist der Beschluß über die Neufestsetzung vor dem 31. Dezember 1991 angefochten worden, so tritt an die Stelle des 31. Dezember 1991 der sechs Monate nach dem Tag der Rechtskraft der Entscheidung liegende Tag. (2) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, deren Grundkapital nach der Neufestsetzung auf weniger als die nach der Rechtsform zulässigen Mindestbeträge lautet und die eine Erhöhung des Nennkapitals beschlossen haben, sind außerdem mit Ablauf des 31. Dezember 1991 aufgelöst, wenn die Erhöhung des Nennkapitals auf den zulässigen Mindestnennbetrag bis zu diesem Zeitpunkt nicht wirksam geworden ist. (3) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, die von der Befugnis, ein Kapitalentwertungskonto zu bilden, Gebrauch gemacht haben, sind mit Ablauf des 31. Dezember 1997 aufgelöst, wenn die Durchführung des Ausgleichs nicht bis zu diesem Zeitpunkt in das Handelsregister eingetragen worden ist. (4) Absatz 1 Satz 1 ist entsprechend auf Erwerbs- und Wirtschaftsgenossenschaften anzuwenden, wenn die notwendigen Änderungen des Statuts nicht bis zum 31. Dezember 1991 in das Genossenschaftsregister eingetragen worden sind.   
 § 58  
 Geschäftsjahr  
-(1) Die Unternehmen haben ihr Geschäftsjahr neu festzusetzen. Das erste Geschäftsjahr kann abweichend von § 240 Abs. 2 Satz 2 des Handelsgesetzbuchs bis zu achtzehn Monate, bei Geldinstituten und Versicherungsunternehmen bis zu zwölf Monate umfassen.  
-(2) Unternehmen, die von Absatz 1 Gebrauch machen, müssen für den 31. Dezember 1990 einen Jahresabschluß nach den für sie maßgeblichen Vorschriften des Handelsrechts aufstellen. Eines Anhangs bedarf es nicht. Der Jahresabschluß braucht weder geprüft noch offengelegt zu werden.  
-  
+(1) Die Unternehmen haben ihr Geschäftsjahr neu festzusetzen. Das erste Geschäftsjahr kann abweichend von § 240 Abs. 2 Satz 2 des Handelsgesetzbuchs bis zu achtzehn Monate, bei Geldinstituten und Versicherungsunternehmen bis zu zwölf Monate umfassen. (2) Unternehmen, die von Absatz 1 Gebrauch machen, müssen für den 31. Dezember 1990 einen Jahresabschluß nach den für sie maßgeblichen Vorschriften des Handelsrechts aufstellen. Eines Anhangs bedarf es nicht. Der Jahresabschluß braucht weder geprüft noch offengelegt zu werden.   
 Abschnitt 10  
 Schlußvorschriften  
   
 § 59  
 Ermächtigung  
-Der Minister der Finanzen wird ermächtigt, im Einvernehmen mit dem Minister für Wirtschaft und dem Statistischen Amt der Deutschen Demokratischen Republik durch Rechtsverordnung Vorschriften zur Ausführung dieses Gesetzes über Form und Inhalt der nach den §§ 1, 20, 21, 39 und 45 aufzustellenden Unterlagen, die Kapitalausstattung der Unternehmen sowie über die Durchführung der Prüfung, die Feststellung und Offenlegung dieser Unterlagen und des dabei einzuhaltenden Verfahrens zu erlassen, soweit diese Vorschriften erforderlich sind, um die Durchführung der Währungsumstellung im Sinne des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion und der Zielsetzung dieses Gesetzes zu gewährleisten.  
-  
+Der Minister der Finanzen wird ermächtigt, im Einvernehmen mit dem Minister für Wirtschaft und dem Statistischen Amt der Deutschen Demokratischen Republik durch Rechtsverordnung Vorschriften zur Ausführung dieses Gesetzes über Form und Inhalt der nach den §§ 1, 20, 21, 39 und 45 aufzustellenden Unterlagen, die Kapitalausstattung der Unternehmen sowie über die Durchführung der Prüfung, die Feststellung und Offenlegung dieser Unterlagen und des dabei einzuhaltenden Verfahrens zu erlassen, soweit diese Vorschriften erforderlich sind, um die Durchführung der Währungsumstellung im Sinne des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion und der Zielsetzung dieses Gesetzes zu gewährleisten.   
 § 60  
 Anwendung  
-Dieses Gesetz ist mit Wirkung vom 1. Juli 1990 anzuwenden, die Bestimmungen des Abschnitts 7 jedoch erst vom Inkrafttreten des Vertrages an.  
-  
+Dieses Gesetz ist mit Wirkung vom 1. Juli 1990 anzuwenden, die Bestimmungen des Abschnitts 7 jedoch erst vom Inkrafttreten des Vertrages an.   
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 2. Anordnung über den Abschluß der Buchführung in Mark der Deutschen Demokratischen Republik zum 30. Juni 1990 vom 27. Juni 1990 (GBl. I Nr. 40 S. 593)
 
 Abschn. I Nr. 2 (Kursivdruck): AnO aufgeh. durch § 1 Nr. 3 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap III D III – Anlage II Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt III
+# Anlage II Kap III D III – Anlage II Kapitel III  Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  
 § 16 Abs. 1, Abs. 2 Satz 1 und Abs. 4 in Verbindung mit § 13 Abs. 1 der Verordnung über die Pflichtversicherung für Kraftfahrzeughalter - Pflichtversicherungsordnung - vom 1. August 1990 (GBl. I Nr. 52 S. 1053) gelten in dem in Artikel 3 des Vertrages genannten Gebiet bis zum 31. Dezember 1991 fort. Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Geltungsdauer dieser Bestimmungen zu verlängern.
 
-
-## Anlage II Kap IV – Anlage II Kapitel IVGeschäftsbereich des Bundesministers der Finanzen
+# Anlage II Kap IV – Anlage II Kapitel IVGeschäftsbereich des Bundesministers der Finanzen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1194 - 1200)
 
-Der Text des Kapitels ist in Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap IV) - Ausgegeben werden alle Dokumente zum Kapitel IV der Anlage II -
 
 b) abschnittsbezogen (z. B. EinigVtr Anlage II Kap IV III) - Ausgegeben wird das Dokument zum Abschnitt III des Kapitels IV der Anlage II -
 
-
-## Anlage II Kap IV I – Anlage II Kapitel IV  Abschnitt I
+# Anlage II Kap IV I – Anlage II Kapitel IV  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -11152,17 +10664,14 @@ sowie jeweils auch deren Kirchengemeinden und Kirchengemeindeverbände;
   
   
 § 3  
-Religionsgesellschaften sind auf Antrag die Rechte einer Körperschaft des öffentlichen Rechts zu gewähren, wenn sie durch ihre Verfassung und die Zahl ihrer Mitglieder die Gewähr der Dauer bieten. Schließen sich mehrere derartige öffentlich-rechtliche Religionsgesellschaften zu einem Verband zusammen, so ist auch dieser Verband eine öffentlich-rechtliche Körperschaft.  
-  
+Religionsgesellschaften sind auf Antrag die Rechte einer Körperschaft des öffentlichen Rechts zu gewähren, wenn sie durch ihre Verfassung und die Zahl ihrer Mitglieder die Gewähr der Dauer bieten. Schließen sich mehrere derartige öffentlich-rechtliche Religionsgesellschaften zu einem Verband zusammen, so ist auch dieser Verband eine öffentlich-rechtliche Körperschaft.   
 Abschnitt II  
 Kirchensteuerliche Rahmenregelungen für den Bereich der Evangelischen Kirche und der Katholischen Kirche  
   
 § 4  
-Die Angehörigen der in § 2 Nr. 1 und 2 genannten Kirchen sind verpflichtet, öffentlich-rechtliche Abgaben (Kirchensteuern) nach Maßgabe der von den Kirchen erlassenen eigenen Steuerordnungen zu entrichten.  
-  
+Die Angehörigen der in § 2 Nr. 1 und 2 genannten Kirchen sind verpflichtet, öffentlich-rechtliche Abgaben (Kirchensteuern) nach Maßgabe der von den Kirchen erlassenen eigenen Steuerordnungen zu entrichten.   
 § 5  
-(1) Kirchensteuerpflichtig sind alle Angehörigen der Evangelischen Kirche und der Katholischen Kirche, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Sinne der Abgabenordnung in der Deutschen Demokratischen Republik haben.  
-(2) Die Kirchensteuerpflicht beginnt mit dem ersten Tag des auf den Beginn der Zugehörigkeit zur Kirche und Wohnsitzbegründung folgenden Kalendermonats. Sie endet
+(1) Kirchensteuerpflichtig sind alle Angehörigen der Evangelischen Kirche und der Katholischen Kirche, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Sinne der Abgabenordnung in der Deutschen Demokratischen Republik haben. (2) Die Kirchensteuerpflicht beginnt mit dem ersten Tag des auf den Beginn der Zugehörigkeit zur Kirche und Wohnsitzbegründung folgenden Kalendermonats. Sie endet
 
 1. bei Tod mit Ablauf des Sterbemonats,
 
@@ -11170,8 +10679,7 @@ Die Angehörigen der in § 2 Nr. 1 und 2 genannten Kirchen sind verpflichtet, ö
 
 3. bei Kirchenaustritt mit Ablauf des Kalendermonats, der auf den Monat folgt, in dem die Erklärung wirksam geworden ist.
 
-Der Kirchenaustritt ist durch eine Bescheinigung der für die Entgegennahme der Kirchenaustrittserklärung gesetzlich zuständigen Stelle nachzuweisen.  
-  
+Der Kirchenaustritt ist durch eine Bescheinigung der für die Entgegennahme der Kirchenaustrittserklärung gesetzlich zuständigen Stelle nachzuweisen.   
 § 6  
 (1) Kirchensteuern können nach Maßgabe der kirchlichen Steuerordnungen jeweils einzeln oder nebeneinander erhoben werden als Landes-(Diözesan-)Kirchensteuern und als Ortskirchensteuern sowie in unterschiedlicher Art sowohl
 
@@ -11191,9 +10699,7 @@ und
 
 3. als besonderes Kirchgeld von Kirchensteuerpflichtigen, deren Ehegatte keiner steuerberechtigten Kirche angehört (Kirchgeld in glaubensverschiedener Ehe).
 
-(2) Über die Art und die Höhe der zu erhebenden Kirchensteuer beschließt die nach der kirchlichen Steuerordnung zuständige Körperschaft oder kirchliche Stelle. Die kirchliche Steuerordnung kann bestimmen, daß Kirchensteuern einer Art auf Kirchensteuern einer anderen Art angerechnet werden.  
-(3) Die kirchlichen Steuerordnungen und die Kirchensteuerbeschlüsse sowie ihre Änderungen bedürfen der staatlichen Anerkennung. Über die Anerkennung entscheidet die für die Finanzverwaltung zuständige oberste Landesbehörde. Die anerkannten kirchlichen Steuerordnungen und Kirchensteuerbeschlüsse werden von den zuständigen kirchlichen Stellen in einer von ihnen zu bestimmenden Weise und von der anerkennenden Finanzbehörde in der für Steuergesetze vorgeschriebenen Form bekannt gemacht. Liegt zu Beginn eines Steuerjahres kein anerkannter Steuerbeschluß vor, gilt der bisherige bis zur Anerkennung eines neuen weiter, längstens jedoch bis zum 30. Juni des nächsten Steuerjahres.  
-  
+(2) Über die Art und die Höhe der zu erhebenden Kirchensteuer beschließt die nach der kirchlichen Steuerordnung zuständige Körperschaft oder kirchliche Stelle. Die kirchliche Steuerordnung kann bestimmen, daß Kirchensteuern einer Art auf Kirchensteuern einer anderen Art angerechnet werden. (3) Die kirchlichen Steuerordnungen und die Kirchensteuerbeschlüsse sowie ihre Änderungen bedürfen der staatlichen Anerkennung. Über die Anerkennung entscheidet die für die Finanzverwaltung zuständige oberste Landesbehörde. Die anerkannten kirchlichen Steuerordnungen und Kirchensteuerbeschlüsse werden von den zuständigen kirchlichen Stellen in einer von ihnen zu bestimmenden Weise und von der anerkennenden Finanzbehörde in der für Steuergesetze vorgeschriebenen Form bekannt gemacht. Liegt zu Beginn eines Steuerjahres kein anerkannter Steuerbeschluß vor, gilt der bisherige bis zur Anerkennung eines neuen weiter, längstens jedoch bis zum 30. Juni des nächsten Steuerjahres.   
 § 7  
 (1) Gehören Ehegatten verschiedenen steuerberechtigten Kirchen an (konfessionsverschiedene Ehe) und liegen die Voraussetzungen für eine Zusammenveranlagung bei der Einkommensteuer vor, so wird die Kirchensteuer als Kirchensteuer vom Einkommen von beiden Ehegatten in folgender Weise erhoben:
 
@@ -11201,66 +10707,42 @@ und
 
 2. wenn ein Ehegatte oder beide Ehegatten lohnsteuerpflichtig sind, von der Hälfte der Lohnsteuer.
 
-Die Ehegatten haften als Gesamtschuldner. Im Lohnabzugsverfahren ist die Kirchensteuer bei jedem Ehegatten auch für den anderen einzubehalten.  
-(2) Liegen die Voraussetzungen für eine Zusammenveranlagung zur Einkommensteuer nicht vor oder werden die Ehegatten getrennt oder besonders veranlagt, so wird die Kirchensteuer vom Einkommen von jedem Ehegatten nach seiner Kirchenangehörigkeit und nach der jeweils in seiner Person gegebenen Steuerbemessungsgrundlage erhoben.  
-(3) Für die Erhebung der anderen in § 6 Abs.1 genannten Kirchensteuerarten gilt Absatz 2 entsprechend.  
-  
+Die Ehegatten haften als Gesamtschuldner. Im Lohnabzugsverfahren ist die Kirchensteuer bei jedem Ehegatten auch für den anderen einzubehalten. (2) Liegen die Voraussetzungen für eine Zusammenveranlagung zur Einkommensteuer nicht vor oder werden die Ehegatten getrennt oder besonders veranlagt, so wird die Kirchensteuer vom Einkommen von jedem Ehegatten nach seiner Kirchenangehörigkeit und nach der jeweils in seiner Person gegebenen Steuerbemessungsgrundlage erhoben. (3) Für die Erhebung der anderen in § 6 Abs.1 genannten Kirchensteuerarten gilt Absatz 2 entsprechend.   
 § 8  
-(1) Gehört nur ein Ehegatte einer steuerberechtigten Kirche an (glaubensverschiedene Ehe), so erhebt die steuerberechtigte Kirche die Kirchensteuer von ihm nach der in seiner Person gegebenen Steuerbemessungsgrundlage.  
-(2) Werden die Ehegatten zur Maßstabsteuer zusammen veranlagt, so ist die gegen beide Ehegatten festgesetzte Maßstabsteuer im Verhältnis der Beträge aufzuteilen, die sich bei einer getrennten Veranlagung für jeden Ehegatten ergeben würden. Die von der Maßstabsteuer abhängige Steuer des der steuerberechtigten Religionsgemeinschaft angehörenden Ehegatten ist nach dem auf ihn entfallenden Teil der Maßstabsteuer zu bemessen. Entsprechendes gilt im Falle eines gemeinsamen Lohnsteuer-Jahresausgleichs.  
-(3) Unberührt bleiben die Bestimmungen über das Kirchgeld in glaubensverschiedener Ehe.  
-  
+(1) Gehört nur ein Ehegatte einer steuerberechtigten Kirche an (glaubensverschiedene Ehe), so erhebt die steuerberechtigte Kirche die Kirchensteuer von ihm nach der in seiner Person gegebenen Steuerbemessungsgrundlage. (2) Werden die Ehegatten zur Maßstabsteuer zusammen veranlagt, so ist die gegen beide Ehegatten festgesetzte Maßstabsteuer im Verhältnis der Beträge aufzuteilen, die sich bei einer getrennten Veranlagung für jeden Ehegatten ergeben würden. Die von der Maßstabsteuer abhängige Steuer des der steuerberechtigten Religionsgemeinschaft angehörenden Ehegatten ist nach dem auf ihn entfallenden Teil der Maßstabsteuer zu bemessen. Entsprechendes gilt im Falle eines gemeinsamen Lohnsteuer-Jahresausgleichs. (3) Unberührt bleiben die Bestimmungen über das Kirchgeld in glaubensverschiedener Ehe.   
 § 9  
-(1) Die Kirchensteuern werden vorbehaltlich der Vorschriften des § 10 von den kirchlichen Stellen verwaltet. Diesen werden die Unterlagen, deren sie für die Besteuerung bedürfen, auf Anforderung von den zuständigen Landesbehörden und von den Gemeinden, Kreisen und kommunalen Zusammenschlüssen zur Verfügung gestellt. Die erforderlichen Meldedaten werden den kirchlichen Stellen übermittelt.  
-(2) Wer mit Kirchensteuer in Anspruch genommen werden soll, hat der mit der Verwaltung dieser Steuer beauftragten Stelle Auskunft über alle Tatsachen zu geben, von denen die Feststellung der Zugehörigkeit zu einer steuerberechtigten Kirche, Kirchengemeinde oder Verband abhängt. Der Kirchenangehörige hat darüber hinaus die zur Festsetzung der Kirchensteuer erforderlichen Erklärungen abzugeben.  
-  
+(1) Die Kirchensteuern werden vorbehaltlich der Vorschriften des § 10 von den kirchlichen Stellen verwaltet. Diesen werden die Unterlagen, deren sie für die Besteuerung bedürfen, auf Anforderung von den zuständigen Landesbehörden und von den Gemeinden, Kreisen und kommunalen Zusammenschlüssen zur Verfügung gestellt. Die erforderlichen Meldedaten werden den kirchlichen Stellen übermittelt. (2) Wer mit Kirchensteuer in Anspruch genommen werden soll, hat der mit der Verwaltung dieser Steuer beauftragten Stelle Auskunft über alle Tatsachen zu geben, von denen die Feststellung der Zugehörigkeit zu einer steuerberechtigten Kirche, Kirchengemeinde oder Verband abhängt. Der Kirchenangehörige hat darüber hinaus die zur Festsetzung der Kirchensteuer erforderlichen Erklärungen abzugeben.   
 § 10  
-Auf Antrag einer Kirche ist die Verwaltung der ihr zustehenden Kirchensteuer vom Einkommen (Festsetzung und Erhebung sowie Durchführung des Jahresausgleichs), der Kirchensteuer vom Vermögen sowie des Kirchgeldes in glaubensverschiedener Ehe durch die für die Finanzverwaltung zuständigen obersten Landesbehörde den Finanzämtern zu übertragen. Die Verwaltung durch die Finanzämter setzt voraus, daß der Kirchensteuersatz innerhalb eines Landes einheitlich ist. Die Kirchen sind gehalten, sich untereinander über einheitliche Vomhundertsätze als Zuschläge zur Maßstabsteuer zu verständigen. Die für die Mitwirkung der Finanzämter bei der Verwaltung der Kirchensteuer zu leistende Vergütung wird zwischen der jeweiligen Landesregierung und den Kirchen vereinbart.  
-  
+Auf Antrag einer Kirche ist die Verwaltung der ihr zustehenden Kirchensteuer vom Einkommen (Festsetzung und Erhebung sowie Durchführung des Jahresausgleichs), der Kirchensteuer vom Vermögen sowie des Kirchgeldes in glaubensverschiedener Ehe durch die für die Finanzverwaltung zuständigen obersten Landesbehörde den Finanzämtern zu übertragen. Die Verwaltung durch die Finanzämter setzt voraus, daß der Kirchensteuersatz innerhalb eines Landes einheitlich ist. Die Kirchen sind gehalten, sich untereinander über einheitliche Vomhundertsätze als Zuschläge zur Maßstabsteuer zu verständigen. Die für die Mitwirkung der Finanzämter bei der Verwaltung der Kirchensteuer zu leistende Vergütung wird zwischen der jeweiligen Landesregierung und den Kirchen vereinbart.   
 § 11  
-(1) Soweit die Kirchensteuer vom Einkommen durch die Finanzämter verwaltet wird, sind die Arbeitgeber, deren Betriebsstätten in den Ländern der Deutschen Demokratischen Republik liegen, verpflichtet, die Kirchensteuer von allen Kirchenangehörigen mit Wohnsitz oder gewöhnlichem Aufenthalt im Sinne der Abgabenordnung in der Deutschen Demokratischen Republik mit dem für den Ort der Betriebsstätte im Sinne des Lohnsteuerrechts maßgeblichen Steuersatz einzubehalten und an das für die Betriebsstätte zuständige Finanzamt zur Weiterleitung an die Kirchen abzuführen.  
-(2) Auf Antrag der Kirchen, deren Gebiet ganz oder teilweise außerhalb der Deutschen Demokratischen Republik, jedoch innerhalb der Bundesrepublik Deutschland liegt, ordnet die zuständige oberste Finanzbehörde des Landes die Einbehaltung und Abführung der Kirchensteuer im Lohnabzugsverfahren auch für die gegenüber diesen Kirchen steuerpflichtigen Arbeitnehmer an, sofern sie in der Deutschen Demokratischen Republik nicht ihren Wohnsitz oder gewöhnlichen Aufenthalt im Sinne der Abgabenordnung haben, aber von einer Betriebsstätte im Sinne des Lohnsteuerrechts der Deutschen Demokratischen Republik entlohnt werden. Unterschiedsbeträge durch unterschiedliche Kirchensteuersätze gleichen die Kirchen selbst aus; Erstattungen sind auf Antrag der Arbeitnehmer vorzunehmen, auf Nacherhebungen kann verzichtet werden.  
-  
+(1) Soweit die Kirchensteuer vom Einkommen durch die Finanzämter verwaltet wird, sind die Arbeitgeber, deren Betriebsstätten in den Ländern der Deutschen Demokratischen Republik liegen, verpflichtet, die Kirchensteuer von allen Kirchenangehörigen mit Wohnsitz oder gewöhnlichem Aufenthalt im Sinne der Abgabenordnung in der Deutschen Demokratischen Republik mit dem für den Ort der Betriebsstätte im Sinne des Lohnsteuerrechts maßgeblichen Steuersatz einzubehalten und an das für die Betriebsstätte zuständige Finanzamt zur Weiterleitung an die Kirchen abzuführen. (2) Auf Antrag der Kirchen, deren Gebiet ganz oder teilweise außerhalb der Deutschen Demokratischen Republik, jedoch innerhalb der Bundesrepublik Deutschland liegt, ordnet die zuständige oberste Finanzbehörde des Landes die Einbehaltung und Abführung der Kirchensteuer im Lohnabzugsverfahren auch für die gegenüber diesen Kirchen steuerpflichtigen Arbeitnehmer an, sofern sie in der Deutschen Demokratischen Republik nicht ihren Wohnsitz oder gewöhnlichen Aufenthalt im Sinne der Abgabenordnung haben, aber von einer Betriebsstätte im Sinne des Lohnsteuerrechts der Deutschen Demokratischen Republik entlohnt werden. Unterschiedsbeträge durch unterschiedliche Kirchensteuersätze gleichen die Kirchen selbst aus; Erstattungen sind auf Antrag der Arbeitnehmer vorzunehmen, auf Nacherhebungen kann verzichtet werden.   
 § 12  
-(1) Soweit die Kirchensteuer durch die Finanzämter verwaltet wird, finden auf die Kirchensteuer vom Einkommen die Vorschriften für die Einkommensteuer und die Lohnsteuer, insbesondere die Vorschriften über das Lohnabzugsverfahren und auf die Kirchensteuer vom Vermögen die Vorschriften für die Vermögensteuer entsprechende Anwendung, sofern in diesem Gesetz und in der kirchlichen Steuerordnung nichts anderes bestimmt ist. Im übrigen sind die Vorschriften der Abgabenordnung anzuwenden mit Ausnahme der Vorschriften über Säumniszuschläge und Zinsen, über das außergerichtliche Rechtsbehelfsverfahren und über Strafen und Bußgelder.  
-(2) Soweit die Finanzämter die Kirchensteuer verwalten, erstreckt sich eine abweichende Festsetzung aus Billigkeitsgründen, eine Stundung, ein Erlaß oder eine Niederschlagung der Einkommensteuer (Lohnsteuer) oder Vermögensteuer auch auf die Kirchensteuern, die als Zuschläge zu diesen Steuern erhoben werden. Das Recht der kirchlichen Stellen, die Kirchensteuer aus Billigkeitsgründen abweichend festzusetzen, zu stunden, ganz oder teilweise zu erlassen oder niederzuschlagen, bleibt unberührt.  
-  
+(1) Soweit die Kirchensteuer durch die Finanzämter verwaltet wird, finden auf die Kirchensteuer vom Einkommen die Vorschriften für die Einkommensteuer und die Lohnsteuer, insbesondere die Vorschriften über das Lohnabzugsverfahren und auf die Kirchensteuer vom Vermögen die Vorschriften für die Vermögensteuer entsprechende Anwendung, sofern in diesem Gesetz und in der kirchlichen Steuerordnung nichts anderes bestimmt ist. Im übrigen sind die Vorschriften der Abgabenordnung anzuwenden mit Ausnahme der Vorschriften über Säumniszuschläge und Zinsen, über das außergerichtliche Rechtsbehelfsverfahren und über Strafen und Bußgelder. (2) Soweit die Finanzämter die Kirchensteuer verwalten, erstreckt sich eine abweichende Festsetzung aus Billigkeitsgründen, eine Stundung, ein Erlaß oder eine Niederschlagung der Einkommensteuer (Lohnsteuer) oder Vermögensteuer auch auf die Kirchensteuern, die als Zuschläge zu diesen Steuern erhoben werden. Das Recht der kirchlichen Stellen, die Kirchensteuer aus Billigkeitsgründen abweichend festzusetzen, zu stunden, ganz oder teilweise zu erlassen oder niederzuschlagen, bleibt unberührt.   
 § 13  
-Wird die Kirchensteuer von den Kirchen selbst verwaltet, so wird sie auf Antrag durch die Finanzämter nach den Vorschriften der Abgabenordnung sowie ihrer Nebengesetze oder, soweit kommunale Stellen die Maßstabsteuer einziehen, durch die kommunalen Vollstreckungsbehörden nach den Vorschriften über das Verwaltungszwangsverfahren beigetrieben.  
-  
+Wird die Kirchensteuer von den Kirchen selbst verwaltet, so wird sie auf Antrag durch die Finanzämter nach den Vorschriften der Abgabenordnung sowie ihrer Nebengesetze oder, soweit kommunale Stellen die Maßstabsteuer einziehen, durch die kommunalen Vollstreckungsbehörden nach den Vorschriften über das Verwaltungszwangsverfahren beigetrieben.   
 § 14  
-(1) Für Streitigkeiten in Kirchensteuersachen ist der Verwaltungsrechtsweg gegeben. Richtet sich der Widerspruch gegen den Steuerbescheid einer Finanzbehörde, ist die zuständige Kirchenbehörde zu hören.  
-(2) Rechtsbehelfe gegen die Heranziehung zur Kirchensteuer können nicht auf Einwendungen gegen die Bemessung der der Kirchensteuer zugrundeliegenden Einkommensteuer (Lohnsteuer) oder Vermögensteuer gestützt werden.  
-(3) Jeder ablehnende Bescheid der kirchlichen Behörden ist zu begründen und mit einer Belehrung über den Rechtsbehelf zu versehen.  
-  
+(1) Für Streitigkeiten in Kirchensteuersachen ist der Verwaltungsrechtsweg gegeben. Richtet sich der Widerspruch gegen den Steuerbescheid einer Finanzbehörde, ist die zuständige Kirchenbehörde zu hören. (2) Rechtsbehelfe gegen die Heranziehung zur Kirchensteuer können nicht auf Einwendungen gegen die Bemessung der der Kirchensteuer zugrundeliegenden Einkommensteuer (Lohnsteuer) oder Vermögensteuer gestützt werden. (3) Jeder ablehnende Bescheid der kirchlichen Behörden ist zu begründen und mit einer Belehrung über den Rechtsbehelf zu versehen.   
 Abschnitt III  
 Rahmenregelung für andere steuerberechtigte Religionsgemeinschaften  
   
 § 15  
-Die §§ 4 bis 14 finden auf andere als die in § 2 Nr. 1 und 2 bezeichneten Kirchen sowie auf Religionsgemeinschaften und Weltanschauungsgesellschaften, die Körperschaften des öffentlichen Rechts sind, entsprechende Anwendung.  
-  
+Die §§ 4 bis 14 finden auf andere als die in § 2 Nr. 1 und 2 bezeichneten Kirchen sowie auf Religionsgemeinschaften und Weltanschauungsgesellschaften, die Körperschaften des öffentlichen Rechts sind, entsprechende Anwendung.   
 Abschnitt IV  
 Melderechtliche Regelungen  
   
 § 16  
-(1) Die Meldebehörden erheben als Meldedaten auch die Angaben über die rechtliche Zugehörigkeit zu einer Religionsgesellschaft des öffentlichen Rechts. Die Angaben unterliegen dem Steuergeheimnis und dürfen im Rahmen dieses Gesetzes nur zur Feststellung der Kirchensteuerpflicht verwendet werden.  
-(2) Bestehen Zweifel über die Richtigkeit der bei der Meldebehörde vorhandenen Daten über die Zugehörigkeit zu einer Religionsgesellschaft, so sind auf Antrag des Betroffenen zunächst die nach seiner Auffassung zutreffenden Angaben als Meldedaten zu führen. Die Meldebehörde hat die Abweichung der beteiligten Religionsgesellschaft mitzuteilen.  
-  
+(1) Die Meldebehörden erheben als Meldedaten auch die Angaben über die rechtliche Zugehörigkeit zu einer Religionsgesellschaft des öffentlichen Rechts. Die Angaben unterliegen dem Steuergeheimnis und dürfen im Rahmen dieses Gesetzes nur zur Feststellung der Kirchensteuerpflicht verwendet werden. (2) Bestehen Zweifel über die Richtigkeit der bei der Meldebehörde vorhandenen Daten über die Zugehörigkeit zu einer Religionsgesellschaft, so sind auf Antrag des Betroffenen zunächst die nach seiner Auffassung zutreffenden Angaben als Meldedaten zu führen. Die Meldebehörde hat die Abweichung der beteiligten Religionsgesellschaft mitzuteilen.   
 § 17  
-Die Meldebehörden und die zuständigen kirchlichen Stellen nehmen zum Zwecke der Feststellung der für die Kirchensteuererhebung erforderlichen Daten der Kirchenangehörigen, einschließlich der amtlichen Bezeichnung der rechtlichen Zugehörigkeit zu einer Religionsgesellschaft öffentlichen Rechts, den erforderlichen Datenaustausch vor.  
-  
+Die Meldebehörden und die zuständigen kirchlichen Stellen nehmen zum Zwecke der Feststellung der für die Kirchensteuererhebung erforderlichen Daten der Kirchenangehörigen, einschließlich der amtlichen Bezeichnung der rechtlichen Zugehörigkeit zu einer Religionsgesellschaft öffentlichen Rechts, den erforderlichen Datenaustausch vor.   
 § 18  
-Die für die Finanzverwaltung zuständige oberste Landesbehörde ist berechtigt, notwendige Einzelheiten der Erhebung, der Speicherung, der Weiterleitung und der Verwendung von Daten, die für die Feststellung der zutreffenden Kirchensteuer erforderlich sind, zur Sicherung des Datenschutzes durch Verordnung zu regeln.  
-  
+Die für die Finanzverwaltung zuständige oberste Landesbehörde ist berechtigt, notwendige Einzelheiten der Erhebung, der Speicherung, der Weiterleitung und der Verwendung von Daten, die für die Feststellung der zutreffenden Kirchensteuer erforderlich sind, zur Sicherung des Datenschutzes durch Verordnung zu regeln.   
 § 19  
-Allgemeine melderechtliche Vorschriften über die Kirchenzugehörigkeit bleiben unberührt.  
-  
+Allgemeine melderechtliche Vorschriften über die Kirchenzugehörigkeit bleiben unberührt.   
 Abschnitt V  
 Anwendungsvorschrift  
   
 § 20  
-(1) Die Vorschriften dieses Gesetzes sind erstmals für das am 1. Januar 1991 beginnende Steuerjahr anzuwenden. Beim Steuerabzug vom Arbeitslohn gilt dies mit der Maßgabe, daß die Vorschriften erstmals auf laufenden Arbeitslohn anzuwenden sind, der für einen nach dem 31. Dezember 1990 endenden Lohnzahlungszeitraum gezahlt wird und auf sonstige Bezüge, die nach dem 31. Dezember 1990 zufließen.  
-(2) Soweit für die Feststellung der zutreffenden Kirchensteuer vor dem 1. Januar 1991 Feststellungen oder Datenübermittlungen erforderlich sind, ist das Gesetz vom Tage nach der Verkündung anzuwenden."  
+(1) Die Vorschriften dieses Gesetzes sind erstmals für das am 1. Januar 1991 beginnende Steuerjahr anzuwenden. Beim Steuerabzug vom Arbeitslohn gilt dies mit der Maßgabe, daß die Vorschriften erstmals auf laufenden Arbeitslohn anzuwenden sind, der für einen nach dem 31. Dezember 1990 endenden Lohnzahlungszeitraum gezahlt wird und auf sonstige Bezüge, die nach dem 31. Dezember 1990 zufließen. (2) Soweit für die Feststellung der zutreffenden Kirchensteuer vor dem 1. Januar 1991 Feststellungen oder Datenübermittlungen erforderlich sind, ist das Gesetz vom Tage nach der Verkündung anzuwenden."  
 
 6. Erste Durchführungsverordnung zum Treuhandgesetz vom 15. August 1990 (GBl. I Nr. 53 S. 1076)
 
@@ -11270,8 +10752,7 @@ Anwendungsvorschrift
 
 9. Satzung der Treuhandanstalt vom 18. Juli 1990 (GBl. I Nr. 46 S. 809)
 
-
-## Anlage II Kap IV II – Anlage II Kapitel IV  Abschnitt II
+# Anlage II Kap IV II – Anlage II Kapitel IV  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen in Kraft:
 
@@ -11310,8 +10791,7 @@ e) Nach § 13 wird folgender § 13a angefügt:
 
 Nach Herstellung der Einheit Deutschlands tritt § 13 außer Kraft; die Zuständigkeiten gemäß § 6 Abs. 2 Nr 1, 2 und 3, §§ 8, 10 Abs. 2 und § 12 gehen auf den Bundesminister der Finanzen über."
 
-
-## Anlage II Kap IV III – Anlage II Kapitel IV  Abschnitt III
+# Anlage II Kap IV III – Anlage II Kapitel IV  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11387,13 +10867,11 @@ mit folgender Maßgabe:
 
 Sie bleiben bis zum 31. Dezember 1990 in Kraft.
 
-
-## Anlage II Kap V – Anlage II Kapitel VGeschäftsbereich des Bundesministers für Wirtschaft
+# Anlage II Kap V – Anlage II Kapitel VGeschäftsbereich des Bundesministers für Wirtschaft
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1201 - 1203)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap V) - Ausgegeben werden alle Dokumente zum Kapitel V der Anlage II -
 
@@ -11401,8 +10879,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap V E) - Ausgegeben wird das D
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap V E II) - Ausgegeben wird das Dokument zum Abschnitt II des Sachgebiets E des Kapitels V der Anlage II -
 
-
-## Anlage II Kap V A III – Anlage II Kapitel V  Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht  Abschnitt III
+# Anlage II Kap V A III – Anlage II Kapitel V  Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11449,8 +10926,7 @@ Die Verordnung tritt zum 31. Dezember 1990 außer Kraft.
 
 Abschn. III Nr. 1 (Kursivdruck): V aufgeh. durch § 1 Nr. 4 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap V D III – Anlage II Kapitel V  Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft  Abschnitt III
+# Anlage II Kap V D III – Anlage II Kapitel V  Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11478,8 +10954,7 @@ a) Die §§ 10, 14, 33 Abs. 2 und § 52 sowie die dazu ergangenen Durchführungs
 
 b) Die §§ 29 Abs. 1 bis 3, §§ 30, 31, 48 und 69 Abs. 4 sowie die dazu ergangenen Durchführungsbestimmungen gelten für bestehende Mitbenutzungsrechte an Grundstücken und Bauwerken für Energiefortleitungsanlagen bis zum 31. Dezember 2010 fort. Für bestehende Mitbenutzungsrechte an Grundstücken von Städten und Gemeinden für Energiefortleitungsanlagen, die der kommunalen Versorgung dienen, gilt dies nur bis zum 31. Dezember 1991, soweit nicht bereits vorher ein wirksamer Konzessionsvertrag abgeschlossen wird. Ein nach diesen Vorschriften bestehendes Mitbenutzungsrecht bedarf zur Erhaltung gegenüber dem öffentlichen Glauben des Grundbuches nicht der Eintragung in das Grundbuch.
 
-
-## Anlage II Kap V E II – Anlage II Kapitel V  Sachgebiet E - Außenwirtschaftsrecht  Abschnitt II
+# Anlage II Kap V E II – Anlage II Kapitel V  Sachgebiet E - Außenwirtschaftsrecht  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen oder Maßgaben in Kraft:
 
@@ -11499,13 +10974,11 @@ b) § 50 gilt bis 31. Dezember 1991 fort.
 
 3. Die "Richtlinie über die Gewährung finanzieller Hilfen zur Erfüllung von Exportverträgen mit den RGW-Ländern im 2. Halbjahr 1990" vom 27. Juni 1990 gilt bis zum zum 31. Dezember 1990 fort.
 
-
-## Anlage II Kap VI – Anlage II Kapitel VIGeschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+# Anlage II Kap VI – Anlage II Kapitel VIGeschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1204 - 1205)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap VI) - Ausgegeben werden alle Dokumente zum Kapitel VI der Anlage II -
 
@@ -11513,8 +10986,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap VI A) - Ausgegeben werden al
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap VI A III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets A des Kapitels VI der Anlage II -
 
-
-## Anlage II Kap VI A II – Anlage II Kapitel VI  Sachgebiet A - Bodennutzung und Tierhaltung  Abschnitt II
+# Anlage II Kap VI A II – Anlage II Kapitel VI  Sachgebiet A - Bodennutzung und Tierhaltung  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen in Kraft:
 
@@ -11526,8 +10998,7 @@ b) § 53 Abs. 3 wird gestrichen.
 
 c) § 69 Abs. 1 Nr. 2 bis 4 wird gestrichen.
 
-
-## Anlage II Kap VI A III – Anlage II Kapitel VI  Sachgebiet A - Bodennutzung und Tierhaltung  Abschnitt III
+# Anlage II Kap VI A III – Anlage II Kapitel VI  Sachgebiet A - Bodennutzung und Tierhaltung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11545,8 +11016,7 @@ mit folgender Maßgabe:
 
 Das Gesetz tritt mit Ablauf des 31. Dezember 1991 außer Kraft.
 
-
-## Anlage II Kap VI B II – Anlage II Kapitel VI  Sachgebiet B - Treuhandvermögen  Abschnitt II
+# Anlage II Kap VI B II – Anlage II Kapitel VI  Sachgebiet B - Treuhandvermögen  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen in Kraft:
 
@@ -11558,8 +11028,7 @@ b) § 8 wird gestrichen.
 
 Abschn. II Nr. 1 (Kursivdruck): G aufgeh. durch § 1 Nr. 5 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap VI C III – Anlage II Kapitel VI  Sachgebiet C - Forstwirtschaft  Abschnitt III
+# Anlage II Kap VI C III – Anlage II Kapitel VI  Sachgebiet C - Forstwirtschaft  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11571,20 +11040,17 @@ a) Soweit für Vermehrungsgut das Gesetz über forstliches Saat- und Pflanzgut i
 
 b) Die im Fachbereichsstandard enthaltenen Herkunftsgebiete gelten als Herkunftsgebiete nach § 5 des Gesetzes über forstliches Saat- und Pflanzgut, soweit die Baumarten dem Gesetz über forstliches Saat- und Pflanzgut unterliegen und die Vorschriften des Gesetzes über forstliches Saat- und Pflanzgut angewendet werden.
 
-
-## Anlage II Kap VII – Anlage II Kapitel VIIGeschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+# Anlage II Kap VII – Anlage II Kapitel VIIGeschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1206)
 
 (ohne Inhalt)
 
-
-## Anlage II Kap VIII – Anlage II Kapitel VIIIGeschäftsbereich des Bundesministers für Arbeit und Sozialordnung
+# Anlage II Kap VIII – Anlage II Kapitel VIIIGeschäftsbereich des Bundesministers für Arbeit und Sozialordnung
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1207 - 1216)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap VIII) - Ausgegeben werden alle Dokumente zum Kapitel VIII der Anlage II -
 
@@ -11592,8 +11058,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap VIII E) - Ausgegeben werden 
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap VIII E III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets E des Kapitels VIII der Anlage II -
 
-
-## Anlage II Kap VIII A II – Anlage II Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt II
+# Anlage II Kap VIII A II – Anlage II Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen in Kraft:
 
@@ -11609,8 +11074,7 @@ a) § 115b Abs. 1 wird durch folgende Absätze 1 bis 3 ersetzt:
 
 b) § 115b Abs. 2 wird § 115b Abs. 4 und gilt bis zum 30. Juni 1991.
 
-
-## Anlage II Kap VIII A III – Anlage II Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt III
+# Anlage II Kap VIII A III – Anlage II Kapitel VIII  Sachgebiet A - Arbeitsrechtsordnung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11659,8 +11123,7 @@ b) Für die Vertretung vor der Schiedsstelle nach § 4 gilt § 11 Abs. 1 Satz 2 
 Abschn. III Nr. 3 Kursivdruck: G aufgeh. durch und nach Maßgabe des Art. 1 G v. 20.12.1991 I 2321 mWv 1.1.1993  
 Anlage II Kap. VIII Sachgeb. A Abschn. III Nr. 1 Buchst. a (Kursivdruck): §§ 115a, 115c bis e aufgeh. durch Art. 54 G v. 26.5.1994 I 1014 mWv 1.1.1995
 
-
-## Anlage II Kap VIII C III – Anlage II Kapitel VIII  Sachgebiet C - Sozialer Arbeitsschutz  Abschnitt III
+# Anlage II Kap VIII C III – Anlage II Kapitel VIII  Sachgebiet C - Sozialer Arbeitsschutz  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11680,13 +11143,11 @@ c) § 185 gilt bis zum 31. Dezember 1991.
 
 5. Erste Durchführungsbestimmung vom 7. Juni 1990 zur Verordnung über die Einführung gesetzlicher Feiertage (GBl. I Nr. 31 S. 281) gilt bis zum Inkrafttreten landesrechtlicher Regelungen zur Sonn- und Feiertagsruhe.
 
-
-## Anlage II Kap VIII D – Anlage II Kapitel VIIISachgebiet D - Übergreifende Vorschriften des Sozialrechts
+# Anlage II Kap VIII D – Anlage II Kapitel VIIISachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
 (ohne Inhalt)
 
-
-## Anlage II Kap VIII E I – Anlage II Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt I
+# Anlage II Kap VIII E I – Anlage II Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik gilt fort:
 
@@ -11712,8 +11173,7 @@ An die Stelle der in diesen Anordnungen genannten Vorschriften des Arbeitsförde
 
 3. Anordnung über die Verlängerung der Frist für den Bezug des Kurzarbeitergeldes vom 20. August 1990 (GBl. I Nr. 57 S. 1396)
 
-
-## Anlage II Kap VIII E III – Anlage II Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt III
+# Anlage II Kap VIII E III – Anlage II Kapitel VIII  Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11803,8 +11263,7 @@ Abschn. III Nr. 2 (Kursivdruck): V aufgeh. durch § 1 Nr. 6 G v. 30.1.2002 I 567
 Abschn. III Nr. 3 (Kursivdruck): AnO aufgeh. durch § 1 Nr. 7 G v. 30.1.2002 I 567 mWv 7.2.2002  
 Abschn. III Nr. 5 (Kursivdruck): V aufgeh. durch § 1 Nr. 8 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap VIII F III – Anlage II Kapitel VIII  Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)  Abschnitt III
+# Anlage II Kap VIII F III – Anlage II Kapitel VIII  Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11938,8 +11397,7 @@ Die Verordnung bleibt bis zur Übernahme des Beitragseinzugs durch die Krankenka
 Abschn. III Nr. 3 (Kursivdruck): V aufgeh. durch § 1 Nr. 9 G v. 30.1.2002 I 567 mWv 7.2.2002  
 Abschn. III Nr. 4 (Kursivdruck): V aufgeh. duch § 1 Nr. 10 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap VIII G III – Anlage II Kapitel VIII  Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung  Abschnitt III
+# Anlage II Kap VIII G III – Anlage II Kapitel VIII  Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -11951,8 +11409,7 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßg
 
 § 15 gilt bis zum 31. Dezember 1991.
 
-
-## Anlage II Kap VIII H III – Anlage II Kapitel VIII  Sachgebiet H - Gesetzliche Rentenversicherung  Abschnitt III
+# Anlage II Kap VIII H III – Anlage II Kapitel VIII  Sachgebiet H - Gesetzliche Rentenversicherung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12044,8 +11501,7 @@ e) Die in den Versorgungssystemen enthaltenen Regelungen über Versorgungsleistu
 
 f) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zu den Maßgaben nach Buchstaben a) bis e) zu bestimmen.
 
-
-## Anlage II Kap VIII I III – Anlage II Kapitel VIII  Sachgebiet I - Gesetzliche Unfallversicherung  Abschnitt III
+# Anlage II Kap VIII I III – Anlage II Kapitel VIII  Sachgebiet I - Gesetzliche Unfallversicherung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12059,21 +11515,18 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßg
 
 5. Die Verordnung über die Verhütung, Meldung und Begutachtung von Berufskrankheiten vom 26. Februar 1981 (GBl. I Nr. 12 S. 137) und die Erste Durchführungsbestimmung zur Verordnung über die Verhütung, Meldung und Begutachtung von Berufskrankheiten - Liste der Berufskrankheiten - vom 21. April 1981 (GBl. I Nr. 12 S. 139; Ber. GBl. I Nr. 25 S. 312) bleiben bis zum 31. Dezember 1991 in Kraft.
 
-
-## Anlage II Kap IX – Anlage II Kapitel IXGeschäftsbereich des Bundesministers der Verteidigung
+# Anlage II Kap IX – Anlage II Kapitel IXGeschäftsbereich des Bundesministers der Verteidigung
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1217)
 
 siehe Kapitel XIX  
 Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
-
-## Anlage II Kap X – Anlage II Kapitel XGeschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
+# Anlage II Kap X – Anlage II Kapitel XGeschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1218 - 1221)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap X) - Ausgegeben werden alle Dokumente zum Kapitel X der Anlage II -
 
@@ -12081,8 +11534,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap X H) - Ausgegeben werden all
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap X H III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets H des Kapitels X der Anlage II -
 
-
-## Anlage II Kap X A III – Anlage II Kapitel X  Sachgebiet A - Frauenpolitik  Abschnitt III
+# Anlage II Kap X A III – Anlage II Kapitel X  Sachgebiet A - Frauenpolitik  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12124,8 +11576,7 @@ Diese Vorschrift bleibt bis zum 31. Dezember 1990 in Kraft und gilt über diesen
 
 12. Zweite Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen - vom 1. März 1954 (GBl. I Nr. 25 S. 233) mit der Maßgabe wie zu Nummer 10.
 
-
-## Anlage II Kap X B I – Anlage II Kapitel X  Sachgebiet B - Jugend  Abschnitt I
+# Anlage II Kap X B I – Anlage II Kapitel X  Sachgebiet B - Jugend  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -12137,16 +11588,14 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 4. Verordnung vom 16. Oktober 1975 über die Schüler- und Kinderspeisung und deren Durchführungsbestimmungen.
 
-
-## Anlage II Kap X B III – Anlage II Kapitel X  Sachgebiet B - Jugend  Abschnitt III
+# Anlage II Kap X B III – Anlage II Kapitel X  Sachgebiet B - Jugend  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  
 §§ 3 bis 5 der Sechsten Durchführungsbestimmung vom 29. Dezember 1981 zur Jugendhilfeverordnung (GBl. I 1982 Nr. 6 S. 141) in der Fassung der Achten Durchführungsbestimmung vom 17. Dezember 1984 der Jugendhilfeverordnung (GBl. I 1985 Nr. 1 S. 6)  
 mit folgender Maßgabe:  
 Die dort genannten Pflegegeldbeträge gelten als Mindestbeträge.
 
-
-## Anlage II Kap X D III – Anlage II Kapitel X  Sachgebiet D - Gesundheitspolitik  Abschnitt III
+# Anlage II Kap X D III – Anlage II Kapitel X  Sachgebiet D - Gesundheitspolitik  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12183,16 +11632,14 @@ Abschn. III Nr. 3 (Kursivdruck): Aufgeführte Vorschriften d. Durchführungsbest
 Abschn. III Nr. 7 (Kursivdruck): Gemeinsame Anweisung aufgeh. durch § 1 Nr. 13 G v. 30.1.2002 I 567 mWv 7.2.2002  
 Abschn. III Nr. 8 (Kursivdruck): Anweisung aufgeh. durch § 1 Nr. 14 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap X H I – Anlage II Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt I
+# Anlage II Kap X H I – Anlage II Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:  
 Unterhaltssicherungsverordnung vom 19. Mai 1988 (GBl. I Nr. 11 S. 129), geändert durch die Zweite Unterhaltssicherungsverordnung vom 31. August 1990 (GBl. I Nr. 59 S. 1432).
 
 Abschn. I (Kursivdruck): V aufgeh. durch § 1 Nr. 15 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap X H III – Anlage II Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt III
+# Anlage II Kap X H III – Anlage II Kapitel X  Sachgebiet H - Familie und Soziales  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12262,13 +11709,11 @@ mit folgender Maßgabe:
 
 Sie gilt bis zum 31. Dezember 1990.
 
-
-## Anlage II Kap XI – Anlage II Kapitel XIGeschäftsbereich des Bundesministers für Verkehr
+# Anlage II Kap XI – Anlage II Kapitel XIGeschäftsbereich des Bundesministers für Verkehr
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1222 - 1225)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap XI) - Ausgegeben werden alle Dokumente zum Kapitel XI der Anlage II -
 
@@ -12276,8 +11721,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XI E) - Ausgegeben wird das 
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap XI E III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets E des Kapitels XI der Anlage II -
 
-
-## Anlage II Kap XI A III – Anlage II Kapitel XI  Sachgebiet A - Eisenbahnverkehr  Abschnitt III
+# Anlage II Kap XI A III – Anlage II Kapitel XI  Sachgebiet A - Eisenbahnverkehr  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12337,8 +11781,7 @@ mit folgender Maßgabe:
 
 Der Bundesminister für Verkehr ist ermächtigt, die Anordnung aufzuheben.
 
-
-## Anlage II Kap XI B III – Anlage II Kapitel XI  Sachgebiet B - Straßenverkehr  Abschnitt III
+# Anlage II Kap XI B III – Anlage II Kapitel XI  Sachgebiet B - Straßenverkehr  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12404,8 +11847,7 @@ mit folgender Maßgabe:
 
 Die Anordnung gilt bis zum 31. März 1991 fort.
 
-
-## Anlage II Kap XI C III – Anlage II Kapitel XI  Sachgebiet C - Binnenschiffahrt und Wasserstraßen  Abschnitt III
+# Anlage II Kap XI C III – Anlage II Kapitel XI  Sachgebiet C - Binnenschiffahrt und Wasserstraßen  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12421,8 +11863,7 @@ mit folgender Maßgabe:
 
 Die Fortgeltung bezieht sich ausschließlich auf die Grenzgewässer der Oder und Neiße.
 
-
-## Anlage II Kap XI D III – Anlage II Kapitel XI  Sachgebiet D - Straßenbau  Abschnitt III
+# Anlage II Kap XI D III – Anlage II Kapitel XI  Sachgebiet D - Straßenbau  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12444,8 +11885,7 @@ mit folgender Maßgabe:
 
 Für eine Aufhebung oder Änderung sind die in Artikel 1 des Vertrages genannten Länder zuständig.
 
-
-## Anlage II Kap XI E III – Anlage II Kapitel XI  Sachgebiet E - Allgemeine verkehrliche Bestimmungen  Abschnitt III
+# Anlage II Kap XI E III – Anlage II Kapitel XI  Sachgebiet E - Allgemeine verkehrliche Bestimmungen  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12497,13 +11937,11 @@ mit folgender Maßgabe:
 
 Sie gilt bis zum 30. Juni 1991.
 
-
-## Anlage II Kap XII – Anlage II Kapitel XIIGeschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+# Anlage II Kap XII – Anlage II Kapitel XIIGeschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1226 - 1227)
 
-
-## Anlage II Kap XII III – Anlage II Kapitel XIIFortgeltendes Recht der Deutschen Demokratischen RepublikAbschnitt III
+# Anlage II Kap XII III – Anlage II Kapitel XIIFortgeltendes Recht der Deutschen Demokratischen RepublikAbschnitt III
 
 1. Umweltrahmengesetz vom 29. Juni 1990 (GBl. I Nr. 42 S. 649)
 
@@ -12585,13 +12023,11 @@ mit folgender Maßgabe:
 
 Die Anordnung tritt am 31. Dezember 1990 außer Kraft.
 
-
-## Anlage II Kap XIII – Anlage II Kapitel XIIIGeschäftsbereich des Bundesministers für Post und Telekommunikation
+# Anlage II Kap XIII – Anlage II Kapitel XIIIGeschäftsbereich des Bundesministers für Post und Telekommunikation
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1228 - 1229)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap XIII) - Ausgegeben werden alle Dokumente zum Kapitel XIII der Anlage II -
 
@@ -12599,8 +12035,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XIII C) - Ausgegeben werden 
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap XIII C III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets C des Kapitels XIII der Anlage II -
 
-
-## Anlage II Kap XIII B III – Anlage II Kapitel XIII  Sachgebiet B - Postwesen  Abschnitt III
+# Anlage II Kap XIII B III – Anlage II Kapitel XIII  Sachgebiet B - Postwesen  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12636,15 +12071,13 @@ mit folgender Maßgabe:
 
 § 2 Abs. 3 und Abs. 5 und § 13 entfallen.
 
-
-## Anlage II Kap XIII C I – Anlage II Kapitel XIII  Sachgebiet C - Fernmeldewesen  Abschnitt I
+# Anlage II Kap XIII C I – Anlage II Kapitel XIII  Sachgebiet C - Fernmeldewesen  Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 1. Anordnung über den Telegrammdienst - Telegramm-Anordnung - vom 28. Februar 1986 (GBl. I Nr. 12 S. 173), geändert durch die Anordnung Nr. 2 über den Telegrammdienst - 2. Telegramm-Anordnung - vom 20. Juni 1990 (GBl. I Nr. 46 S. 817)
 
-
-## Anlage II Kap XIII C III – Anlage II Kapitel XIII  Sachgebiet C - Fernmeldewesen  Abschnitt III
+# Anlage II Kap XIII C III – Anlage II Kapitel XIII  Sachgebiet C - Fernmeldewesen  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12674,13 +12107,11 @@ a) Die Gebühren richten sich nach der Anordnung vom 4. September 1990 über die
 
 b) Der der Deutschen Bundespost entstehende Aufwand wird vom Gebührengläubiger erstattet.
 
-
-## Anlage II Kap XIV – Anlage II Kapitel XIVGeschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
+# Anlage II Kap XIV – Anlage II Kapitel XIVGeschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1230)
 
-
-## Anlage II Kap XIV III – Anlage II Kapitel XIV  Abschnitt III
+# Anlage II Kap XIV III – Anlage II Kapitel XIV  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  
 Gesetz über die Gewährleistung von Belegungsrechten im kommunalen und genossenschaftlichen Wohnungswesen vom 22. Juli 1990 (GBl. I Nr. 49 S. 894)  
@@ -12692,13 +12123,11 @@ b) Es tritt am 31. Dezember 1995 außer Kraft, soweit nichts anderes bestimmt wi
 
 c) In § 17 Abs. 1 entfällt die Mindestandrohung von 1.000 Deutsche Mark.
 
-
-## Anlage II Kap XV – Anlage II Kapitel XVGeschäftsbereich des Bundesministers für Forschung und Technologie
+# Anlage II Kap XV – Anlage II Kapitel XVGeschäftsbereich des Bundesministers für Forschung und Technologie
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1231)
 
-
-## Anlage II Kap XV II – Anlage II Kapitel XV  Abschnitt II
+# Anlage II Kap XV II – Anlage II Kapitel XV  Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
 
@@ -12734,13 +12163,11 @@ Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
 
 16. Anordnung über die Verbindlichkeit der "Ordnung der Information über Wissenschaft und Technik für die Leitung und Planung der Volkswirtschaft" vom 5. April 1972 (GBl. II Nr. 19 S. 223)
 
-
-## Anlage II Kap XVI – Anlage II Kapitel XVIGeschäftsbereich des Bundesministers für Bildung und Wissenschaft
+# Anlage II Kap XVI – Anlage II Kapitel XVIGeschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1232)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap XVI) - Ausgegeben werden alle Dokumente zum Kapitel XVI der Anlage II -
 
@@ -12748,8 +12175,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XVI B) - Ausgegeben wird das
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap XVI B III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels XVI der Anlage II -
 
-
-## Anlage II Kap XVI A III – Anlage II Kapitel XVI  Sachgebiet A - Ausbildungsförderung  Abschnitt III
+# Anlage II Kap XVI A III – Anlage II Kapitel XVI  Sachgebiet A - Ausbildungsförderung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12768,8 +12194,7 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßg
 jeweils mit folgender Maßgabe:  
 Die aufgeführten Rechtsvorschriften sind bis zum 31. Dezember 1990 anzuwenden.
 
-
-## Anlage II Kap XVI B III – Anlage II Kapitel XVI  Sachgebiet B - Berufliche Bildung  Abschnitt III
+# Anlage II Kap XVI B III – Anlage II Kapitel XVI  Sachgebiet B - Berufliche Bildung  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  
 Verordnung über die Erhöhung der Entgelte der Lehrlinge vom 15. März 1990 (GBl. I Nr. 18 S. 170)  
@@ -12778,20 +12203,17 @@ Diese Verordnung gilt solange, als für die Berufsausbildung in den Ausbildungsb
 
 Abschn. III (Kursivdruck): V aufgeh. durch § 1 Nr. 16 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap XVII – Anlage II Kapitel XVIIGeschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
+# Anlage II Kap XVII – Anlage II Kapitel XVIIGeschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1233)
 
 (ohne Inhalt)
 
-
-## Anlage II Kap XVIII – Anlage II Kapitel XVIIIStatistik
+# Anlage II Kap XVIII – Anlage II Kapitel XVIIIStatistik
 
 Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1234
 
-
-## Anlage II Kap XVIII III – Anlage II Kapitel XVIII  Abschnitt III
+# Anlage II Kap XVIII III – Anlage II Kapitel XVIII  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgender Maßgabe in Kraft:  
 § 6 Abs. 2 des Statistikgesetzes der DDR vom 20. Juli 1990 (GBl. I Nr. 52 S. 1004) nur insoweit als die nachstehenden in der Anlage zu diesem Gesetz genannten Erhebungen nach dem Wirksamwerden des Beitritts auf der Grundlage des Bundesstatistikgesetzes unter Berücksichtigung von § 2 der Anlage I des Vertrages Kapitel XVIII Abschnitt II bis spätestens zum 30. Juni 1991 abgeschlossen sein müssen:
@@ -12832,13 +12254,11 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgender Maßg
 
 Abschn. III (Kursivdruck): § 6 Abs. 2 aufgeh. durch § 1 Nr. 17 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap XIX – Anlage II Kapitel XIXRecht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
+# Anlage II Kap XIX – Anlage II Kapitel XIXRecht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1235 - 1236)
 
-Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert.  
-Er ist wie folgt abrufbar:
+Der Text des Kapitels ist in Sachgebiete und Abschnitte untergliedert. Er ist wie folgt abrufbar:
 
 a) kapitelbezogen (z. B. EinigVtr Anlage II Kap XIX) - Ausgegeben werden alle Dokumente zum Kapitel XIX der Anlage II -
 
@@ -12846,8 +12266,7 @@ b) sachgebietsbezogen (z. B. EinigVtr Anlage II Kap XIX B) - Ausgegeben werden a
 
 c) abschnittsbezogen (z. B. EinigVtr Anlage II Kap XIX B III) - Ausgegeben wird das Dokument zum Abschnitt III des Sachgebiets B des Kapitels XIX der Anlage II -
 
-
-## Anlage II Kap XIX A III – Anlage II Kapitel XIX  Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen  Abschnitt III
+# Anlage II Kap XIX A III – Anlage II Kapitel XIX  Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 
@@ -12862,8 +12281,7 @@ nach Maßgabe der Anlage I Kapitel XIX Sachgebiet A Abschnitt III Nr. 16.
 Abschn. III Nr. 1 (Kursivdruck): G aufgeh. durch § 1 Nr. 18 G v. 30.1.2002 I 567 mWv 7.2.2002  
 Abschn. III Nr. 2 (Kursivdruck): Wahlordnung aufgeh. durch § 1 Nr. 19 G v. 30.1.2002 I 567 mWv 7.2.2002
 
-
-## Anlage II Kap XIX B III – Anlage II Kapitel XIX  Sachgebiet B - Recht der Soldaten  Abschnitt III
+# Anlage II Kap XIX B III – Anlage II Kapitel XIX  Sachgebiet B - Recht der Soldaten  Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -12897,12 +12315,9 @@ Abschn. III Nr. 1 (Kursivdruck): § 29 Abs. 1 Satz 1 u. § 30 Abs. 1 u. 4 aufgeh
 Abschn. III Nr. 2 (Kursivdruck): Besoldungsordnung aufgeh. durch § 1 Nr. 21 G v. 30.1.2002 I 567 mWv 7.2.2002  
 Abshn. III Nr. 4 (Kursivdruck): § 27 Abs. 1 aufgeh. durch § 1 Nr. 22 G v. 30.1.2002 I 567 mWv 7.2.2002
 
+# Anlage III – Gemeinsame Erklärung  der Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Regelung offener Vermögensfragen  Vom 15. Juni 1990
 
-## Anlage III – Gemeinsame Erklärung  der Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Regelung offener Vermögensfragen  Vom 15. Juni 1990
-
-Die Teilung Deutschlands, die damit verbundene Bevölkerungswanderung von Ost nach West und die unterschiedlichen Rechtsordnungen in beiden deutschen Staaten haben zu zahlreichen vermögensrechtlichen Problemen geführt, die viele Bürger in der Deutschen Demokratischen Republik und in der Bundesrepublik Deutschland betreffen.  
-Bei der Lösung der anstehenden Vermögensfragen gehen beide Regierungen davon aus, daß ein sozial verträglicher Ausgleich unterschiedlicher Interessen zu schaffen ist. Rechtssicherheit und Rechtseindeutigkeit sowie das Recht auf Eigentum sind Grundsätze, von denen sich die Regierungen der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland bei der Lösung der anstehenden Vermögensfragen leiten lassen. Nur so kann der Rechtsfriede in einem künftigen Deutschland dauerhaft gesichert werden.  
-Die beiden deutschen Regierungen sind sich über folgende Eckwerte einig:
+Die Teilung Deutschlands, die damit verbundene Bevölkerungswanderung von Ost nach West und die unterschiedlichen Rechtsordnungen in beiden deutschen Staaten haben zu zahlreichen vermögensrechtlichen Problemen geführt, die viele Bürger in der Deutschen Demokratischen Republik und in der Bundesrepublik Deutschland betreffen. Bei der Lösung der anstehenden Vermögensfragen gehen beide Regierungen davon aus, daß ein sozial verträglicher Ausgleich unterschiedlicher Interessen zu schaffen ist. Rechtssicherheit und Rechtseindeutigkeit sowie das Recht auf Eigentum sind Grundsätze, von denen sich die Regierungen der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland bei der Lösung der anstehenden Vermögensfragen leiten lassen. Nur so kann der Rechtsfriede in einem künftigen Deutschland dauerhaft gesichert werden. Die beiden deutschen Regierungen sind sich über folgende Eckwerte einig:
 
 1. Die Enteignungen auf besatzungsrechtlicher bzw. besatzungshoheitlicher Grundlage (1945 bis 1949) sind nicht mehr rückgängig zu machen. Die Regierungen der Sowjetunion und der Deutschen Demokratischen Republik sehen keine Möglichkeit, die damals getroffenen Maßnahmen zu revidieren. Die Regierung der Bundesrepublik Deutschland nimmt dies im Hinblick auf die historische Entwicklung zur Kenntnis. Sie ist der Auffassung, daß einem künftigen gesamtdeutschen Parlament eine abschließende Entscheidung über etwaige staatliche Ausgleichsleistungen vorbehalten bleiben muß.
 

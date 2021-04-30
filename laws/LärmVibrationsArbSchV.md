@@ -1,10 +1,7 @@
-# [LärmVibrationsArbSchV] Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen  (Lärm- und Vibrations-Arbeitsschutzverordnung - LärmVibrationsArbSchV)
-
-Ausfertigungsdatum: 06.03.2007
-
+% Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen  (Lärm- und Vibrations-Arbeitsschutzverordnung - LärmVibrationsArbSchV)
+% Ausfertigungsdatum: 06.03.2007
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -148,15 +145,13 @@ Straftaten und Ordnungswidrigkeiten
 
 Anhang Vibrationen
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt zum Schutz der Beschäftigten vor tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und Sicherheit durch Lärm oder Vibrationen bei der Arbeit.
 
 (2) Das Bundesministerium der Verteidigung kann für Beschäftigte, die Lärm und Vibrationen ausgesetzt sind oder ausgesetzt sein können, Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere für Zwecke der Landesverteidigung oder zur Erfüllung zwischenstaatlicher Verpflichtungen der Bundesrepublik Deutschland. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden kann.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Lärm im Sinne dieser Verordnung ist jeder Schall, der zu einer Beeinträchtigung des Hörvermögens oder zu einer sonstigen mittelbaren oder unmittelbaren Gefährdung von Sicherheit und Gesundheit der Beschäftigten führen kann.
 
@@ -180,8 +175,7 @@ Anhang Vibrationen
 
 (9) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende und sonstige in Ausbildungseinrichtungen tätige Personen, die bei ihren Tätigkeiten Lärm und Vibrationen ausgesetzt sind, gleich.
 
-
-## § 3 – Gefährdungsbeurteilung
+# § 3 – Gefährdungsbeurteilung
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob die Beschäftigten Lärm oder Vibrationen ausgesetzt sind oder ausgesetzt sein können. Ist dies der Fall, hat er alle hiervon ausgehenden Gefährdungen für die Gesundheit und Sicherheit der Beschäftigten zu beurteilen. Dazu hat er die auftretenden Expositionen am Arbeitsplatz zu ermitteln und zu bewerten. Der Arbeitgeber kann sich die notwendigen Informationen beim Hersteller oder Inverkehrbringer von Arbeitsmitteln oder bei anderen ohne weiteres zugänglichen Quellen beschaffen. Lässt sich die Einhaltung der Auslöse- und Expositionsgrenzwerte nicht sicher ermitteln, hat er den Umfang der Exposition durch Messungen nach § 4 festzustellen. Entsprechend dem Ergebnis der Gefährdungsbeurteilung hat der Arbeitgeber Schutzmaßnahmen nach dem Stand der Technik festzulegen.
 
@@ -225,8 +219,7 @@ g) Herstellerangaben zu Vibrationsemissionen.
 
 (4) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der Zahl der Beschäftigten zu dokumentieren. In der Dokumentation ist anzugeben, welche Gefährdungen am Arbeitsplatz auftreten können und welche Maßnahmen zur Vermeidung oder Minimierung der Gefährdung der Beschäftigten durchgeführt werden müssen. Die Gefährdungsbeurteilung ist zu aktualisieren, wenn maßgebliche Veränderungen der Arbeitsbedingungen dies erforderlich machen oder wenn sich eine Aktualisierung auf Grund der Ergebnisse der arbeitsmedizinischen Vorsorge als notwendig erweist.
 
-
-## § 4 – Messungen
+# § 4 – Messungen
 
 (1) Der Arbeitgeber hat sicherzustellen, dass Messungen nach dem Stand der Technik durchgeführt werden. Dazu müssen
 
@@ -238,13 +231,11 @@ Die durchzuführenden Messungen können auch eine Stichprobenerhebung umfassen, 
 
 (2) Messungen zur Ermittlung der Exposition durch Vibrationen sind zusätzlich zu den Anforderungen nach Absatz 1 entsprechend den Nummern 1.2 und 2.2 des Anhangs durchzuführen.
 
-
-## § 5 – Fachkunde
+# § 5 – Fachkunde
 
 Der Arbeitgeber hat sicherzustellen, dass die Gefährdungsbeurteilung nur von fachkundigen Personen durchgeführt wird. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, hat er sich fachkundig beraten zu lassen. Fachkundige Personen können insbesondere der Betriebsarzt und die Fachkraft für Arbeitssicherheit sein. Der Arbeitgeber darf mit der Durchführung von Messungen nur Personen beauftragen, die über die dafür notwendige Fachkunde und die erforderlichen Einrichtungen verfügen.
 
-
-## § 6 – Auslösewerte bei Lärm
+# § 6 – Auslösewerte bei Lärm
 
 Die Auslösewerte in Bezug auf den Tages-Lärmexpositionspegel und den Spitzenschalldruckpegel betragen:
 
@@ -254,8 +245,7 @@ Die Auslösewerte in Bezug auf den Tages-Lärmexpositionspegel und den Spitzensc
 
 Bei der Anwendung der Auslösewerte wird die dämmende Wirkung eines persönlichen Gehörschutzes der Beschäftigten nicht berücksichtigt.
 
-
-## § 7 – Maßnahmen zur Vermeidung und Verringerung der Lärmexposition
+# § 7 – Maßnahmen zur Vermeidung und Verringerung der Lärmexposition
 
 (1) Der Arbeitgeber hat die nach § 3 Abs. 1 Satz 6 festgelegten Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um die Gefährdung der Beschäftigten auszuschließen oder so weit wie möglich zu verringern. Dabei ist folgende Rangfolge zu berücksichtigen:
 
@@ -283,8 +273,7 @@ Bei der Anwendung der Auslösewerte wird die dämmende Wirkung eines persönlich
 
 (5) Wird einer der oberen Auslösewerte überschritten, hat der Arbeitgeber ein Programm mit technischen und organisatorischen Maßnahmen zur Verringerung der Lärmexposition auszuarbeiten und durchzuführen. Dabei sind insbesondere die Absätze 1 und 2 zu berücksichtigen.
 
-
-## § 8 – Gehörschutz
+# § 8 – Gehörschutz
 
 (1) Werden die unteren Auslösewerte nach § 6 Satz 1 Nr. 2 trotz Durchführung der Maßnahmen nach § 7 Abs. 1 nicht eingehalten, hat der Arbeitgeber den Beschäftigten einen geeigneten persönlichen Gehörschutz zur Verfügung zu stellen, der den Anforderungen nach Absatz 2 genügt.
 
@@ -294,8 +283,7 @@ Bei der Anwendung der Auslösewerte wird die dämmende Wirkung eines persönlich
 
 (4) Der Zustand des ausgewählten persönlichen Gehörschutzes ist in regelmäßigen Abständen zu überprüfen. Stellt der Arbeitgeber dabei fest, dass die Anforderungen des Absatzes 2 Satz 2 nicht eingehalten werden, hat er unverzüglich die Gründe für diese Nichteinhaltung zu ermitteln und Maßnahmen zu ergreifen, die für eine dauerhafte Einhaltung der Anforderungen erforderlich sind.
 
-
-## § 9 – Expositionsgrenzwerte und Auslösewerte für Vibrationen
+# § 9 – Expositionsgrenzwerte und Auslösewerte für Vibrationen
 
 (1) Für Hand-Arm-Vibrationen beträgt
 
@@ -313,8 +301,7 @@ Die Exposition der Beschäftigten gegenüber Hand-Arm-Vibrationen wird nach Numm
 
 Die Exposition der Beschäftigten gegenüber Ganzkörper-Vibrationen wird nach Nummer 2 des Anhangs ermittelt und bewertet.
 
-
-## § 10 – Maßnahmen zur Vermeidung und Verringerung der Exposition durch Vibrationen
+# § 10 – Maßnahmen zur Vermeidung und Verringerung der Exposition durch Vibrationen
 
 (1) Der Arbeitgeber hat die in § 3 Abs. 1 Satz 6 festgelegten Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um die Gefährdung der Beschäftigten auszuschließen oder so weit wie möglich zu verringern. Dabei müssen Vibrationen am Entstehungsort verhindert oder so weit wie möglich verringert werden. Technische Maßnahmen zur Minderung von Vibrationen haben Vorrang vor organisatorischen Maßnahmen.
 
@@ -342,8 +329,7 @@ Die Exposition der Beschäftigten gegenüber Ganzkörper-Vibrationen wird nach N
 
 (4) Werden die Auslösewerte nach § 9 Abs. 1 Satz 1 Nr. 2 oder § 9 Abs. 2 Satz 1 Nr. 2 überschritten, hat der Arbeitgeber ein Programm mit technischen und organisatorischen Maßnahmen zur Verringerung der Exposition durch Vibrationen auszuarbeiten und durchzuführen. Dabei sind insbesondere die in Absatz 2 genannten Maßnahmen zu berücksichtigen.
 
-
-## § 11 – Unterweisung der Beschäftigten
+# § 11 – Unterweisung der Beschäftigten
 
 (1) Können bei Exposition durch Lärm die unteren Auslösewerte nach § 6 Satz 1 Nr. 2 oder bei Exposition durch Vibrationen die Auslösewerte nach § 9 Abs. 1 Satz 1 Nr. 2 oder § 9 Abs. 2 Satz 1 Nr. 2 erreicht oder überschritten werden, stellt der Arbeitgeber sicher, dass die betroffenen Beschäftigten eine Unterweisung erhalten, die auf den Ergebnissen der Gefährdungsbeurteilung beruht und die Aufschluss über die mit der Exposition verbundenen Gesundheitsgefährdungen gibt. Sie muss vor Aufnahme der Beschäftigung und danach in regelmäßigen Abständen, jedoch immer bei wesentlichen Änderungen der belastenden Tätigkeit, erfolgen.
 
@@ -367,21 +353,17 @@ Die Exposition der Beschäftigten gegenüber Ganzkörper-Vibrationen wird nach N
 
 (3) Um frühzeitig Gesundheitsstörungen durch Lärm oder Vibrationen erkennen zu können, hat der Arbeitgeber sicherzustellen, dass ab dem Überschreiten der unteren Auslösewerte für Lärm und dem Überschreiten der Auslösewerte für Vibrationen die betroffenen Beschäftigten eine allgemeine arbeitsmedizinische Beratung erhalten. Die Beratung ist unter Beteiligung des in § 7 Abs. 1 der Verordnung zur arbeitsmedizinischen Vorsorge genannten Arztes durchzuführen, falls dies aus arbeitsmedizinischen Gründen erforderlich sein sollte. Die arbeitsmedizinische Beratung kann im Rahmen der Unterweisung nach Absatz 1 erfolgen.
 
-
-## § 12 – Beratung durch den Ausschuss für Betriebssicherheit
+# § 12 – Beratung durch den Ausschuss für Betriebssicherheit
 
 Der Ausschuss nach § 24 der Betriebssicherheitsverordnung berät das Bundesministerium für Arbeit und Soziales auch in Fragen der Sicherheit und des Gesundheitsschutzes bei lärm- oder vibrationsbezogenen Gefährdungen. § 24 Abs. 4 und 5 der Betriebssicherheitsverordnung gilt entsprechend.
 
+# § 13 – (weggefallen)
 
-## § 13 – (weggefallen)
-
-
-## § 14 – (weggefallen)
+# § 14 – (weggefallen)
 
 \-
 
-
-## § 15 – Ausnahmen
+# § 15 – Ausnahmen
 
 (1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 7 und 10 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die sich daraus ergebenden Gefährdungen auf ein Minimum reduziert werden. Diese Ausnahmen sind spätestens nach vier Jahren zu überprüfen; sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss Angaben enthalten zu
 
@@ -405,8 +387,7 @@ Die Ausnahme nach Satz 1 kann auch im Zusammenhang mit Verwaltungsverfahren nach
 
 2. geeignete Maßnahmen getroffen werden, um die mit diesen Tätigkeiten verbundenen Gefährdungen auf ein Minimum zu verringern.
 
-
-## § 16 – Straftaten und Ordnungswidrigkeiten
+# § 16 – Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -438,8 +419,7 @@ Die Ausnahme nach Satz 1 kann auch im Zusammenhang mit Verwaltungsverfahren nach
 
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
-
-## § 17 – Übergangsvorschriften
+# § 17 – Übergangsvorschriften
 
 (1) Für den Bereich des Musik- und Unterhaltungssektors ist diese Verordnung erst ab dem 15. Februar 2008 anzuwenden.
 
@@ -447,8 +427,7 @@ Die Ausnahme nach Satz 1 kann auch im Zusammenhang mit Verwaltungsverfahren nach
 
 (3) Abweichend von § 9 Abs. 2 Nr. 1 darf bis zum 31. Dezember 2011 bei Tätigkeiten mit Baumaschinen und Baugeräten, die vor dem Jahr 1997 hergestellt worden sind und bei deren Verwendung trotz Durchführung aller in Betracht kommenden Maßnahmen nach dieser Verordnung die Einhaltung des Expositionsgrenzwertes für Ganzkörper-Vibrationen nach § 9 Abs. 2 Nr. 1 nicht möglich ist, an höchstens 30 Tagen im Jahr der Expositionsgrenzwert für Ganzkörper-Vibrationen in Z-Richtung von A(8) = 0,8 m/s (hoch) 2 bis höchstens 1,15 m/s (hoch) 2 überschritten werden.
 
-
-## Anhang – Vibrationen
+# Anhang – Vibrationen
 
 1. Hand-Arm-Vibrationen
 

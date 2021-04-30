@@ -1,15 +1,11 @@
-# [DJubV] Verordnung über die Gewährung von Dienstjubiläumszuwendungen  (Dienstjubiläumsverordnung - DJubV)
-
-Ausfertigungsdatum: 18.12.2014
-
+% Verordnung über die Gewährung von Dienstjubiläumszuwendungen  (Dienstjubiläumsverordnung - DJubV)
+% Ausfertigungsdatum: 18.12.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 84 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) und des § 30 Absatz 4 in Verbindung mit § 93 Absatz 1 Nummer 5 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) verordnet die Bundesregierung:
 
-
-## § 1 – Persönlicher Geltungsbereich
+# § 1 – Persönlicher Geltungsbereich
 
 Diese Verordnung gilt
 
@@ -19,8 +15,7 @@ Diese Verordnung gilt
 
 Für die Richterinnen und Richter im Bundesdienst gelten die für Beamtinnen und Beamte geltenden Vorschriften dieser Verordnung nach § 46 des Deutschen Richtergesetzes entsprechend.
 
-
-## § 2 – Dienstjubiläen, Dankurkunden und Dienstjubiläumszuwendungen
+# § 2 – Dienstjubiläen, Dankurkunden und Dienstjubiläumszuwendungen
 
 (1) Anlässlich des 25-jährigen, 40-jährigen und 50-jährigen Dienstjubiläums wird eine Dankurkunde ausgehändigt und wird eine Dienstjubiläumszuwendung gewährt.
 
@@ -36,8 +31,7 @@ Für die Richterinnen und Richter im Bundesdienst gelten die für Beamtinnen und
 
 (4) § 12 Absatz 3 Satz 1 Nummer 5 der Sonderurlaubsverordnung bleibt unberührt.
 
-
-## § 3 – Berücksichtigungsfähige Zeiten
+# § 3 – Berücksichtigungsfähige Zeiten
 
 (1) Bei der Berechnung der Dienstzeit nach § 2 werden berücksichtigt:
 
@@ -95,15 +89,13 @@ Zeiten nach Satz 1 Nummer 3 Buchstabe a werden nur berücksichtigt, wenn keine A
 
 (5) § 30 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-
-## § 4 – Aushändigung der Dankurkunde
+# § 4 – Aushändigung der Dankurkunde
 
 (1) Die Dankurkunde darf nicht vor dem Tag des Dienstjubiläums ausgehändigt werden.
 
 (2) Im Einvernehmen mit der Dienstjubilarin oder dem Dienstjubilar kann die Dankurkunde nach Eintritt in den Ruhestand ausgehändigt werden.
 
-
-## § 5 – Zurückstellung oder Hinausschiebung der Aushändigung der Dankurkunde und der Gewährung der Zuwendung
+# § 5 – Zurückstellung oder Hinausschiebung der Aushändigung der Dankurkunde und der Gewährung der Zuwendung
 
 (1) Die Aushändigung der Dankurkunde und die Gewährung der Zuwendung werden zurückgestellt, solange gegen die Dienstjubilarin oder den Dienstjubilar ein Straf- oder Disziplinarverfahren anhängig ist.
 
@@ -121,13 +113,11 @@ c) von acht Jahren nach Verhängung einer Herabsetzung in der Besoldungsgruppe o
 
 Satz 1 gilt entsprechend, wenn eine Disziplinarmaßnahme nur im Hinblick auf § 14 Absatz 1 des Bundesdisziplinargesetzes oder auf § 16 der Wehrdisziplinarordnung nicht verhängt worden ist; in diesem Fall beginnt die Frist mit dem Tag, an dem die Entscheidung über die Einstellung des Disziplinarverfahrens wirksam geworden ist.
 
-
-## § 6 – Zuständigkeit
+# § 6 – Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung ist die oberste Dienstbehörde. Sie kann die Aufgabe auf nachgeordnete Behörden übertragen.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten außer Kraft:
 

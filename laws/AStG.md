@@ -1,10 +1,7 @@
-# [AStG] Gesetz über die Besteuerung bei Auslandsbeziehungen  (Außensteuergesetz)
-
-Ausfertigungsdatum: 08.09.1972
-
+% Gesetz über die Besteuerung bei Auslandsbeziehungen  (Außensteuergesetz)
+% Ausfertigungsdatum: 08.09.1972
  
-
-## § 1 – Berichtigung von Einkünften
+# § 1 – Berichtigung von Einkünften
 
 (1) Werden Einkünfte eines Steuerpflichtigen aus einer Geschäftsbeziehung zum Ausland mit einer ihm nahe stehenden Person dadurch gemindert, dass er seiner Einkünfteermittlung andere Bedingungen, insbesondere Preise (Verrechnungspreise), zugrunde legt, als sie voneinander unabhängige Dritte unter gleichen oder vergleichbaren Verhältnissen vereinbart hätten (Fremdvergleichsgrundsatz), sind seine Einkünfte unbeschadet anderer Vorschriften so anzusetzen, wie sie unter den zwischen voneinander unabhängigen Dritten vereinbarten Bedingungen angefallen wären. Steuerpflichtiger im Sinne dieser Vorschrift ist auch eine Personengesellschaft oder eine Mitunternehmerschaft; eine Personengesellschaft oder Mitunternehmerschaft ist selbst nahestehende Person, wenn sie die Voraussetzungen des Absatzes 2 erfüllt. Für die Anwendung des Fremdvergleichsgrundsatzes ist davon auszugehen, dass die voneinander unabhängigen Dritten alle wesentlichen Umstände der Geschäftsbeziehung kennen und nach den Grundsätzen ordentlicher und gewissenhafter Geschäftsleiter handeln. Führt die Anwendung des Fremdvergleichsgrundsatzes zu weitergehenden Berichtigungen als die anderen Vorschriften, sind die weitergehenden Berichtigungen neben den Rechtsfolgen der anderen Vorschriften durchzuführen.
 
@@ -46,8 +43,7 @@ Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die Art der Ges
 
 (+++ § 1: Zur Anwendung vgl. § 21 Abs. 4, 11, 16, 20, 22 +++)
 
-
-## § 2 – Einkommensteuer
+# § 2 – Einkommensteuer
 
 (1) Eine natürliche Person, die in den letzten zehn Jahren vor dem Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des Einkommensteuergesetzes als Deutscher insgesamt mindestens fünf Jahre unbeschränkt einkommensteuerpflichtig war und
 
@@ -81,20 +77,17 @@ ist bis zum Ablauf von zehn Jahren nach Ende des Jahres, in dem ihre unbeschrän
 (+++ § 2 Abs. 5: Zur Anwendung vgl. § 21 Abs. 21 +++)  
 § 2 Abs. 1: Vgl. hierzu Fußnote zu § 20 Abs. 1 Buchst. a; BVerfGE v. 14.5.1986 I 1030 - 2 BvL 2/83 -
 
-
-## § 3
+# § 3
 
 (weggefallen)
 
-
-## § 4 – Erbschaftsteuer
+# § 4 – Erbschaftsteuer
 
 (1) War bei einem Erblasser oder Schenker zur Zeit der Entstehung der Steuerschuld § 2 Abs. 1 Satz 1 anzuwenden, so tritt bei Erbschaftsteuerpflicht nach § 2 Abs. 1 Nr. 3 des Erbschaftsteuergesetzes die Steuerpflicht über den dort bezeichneten Umfang hinaus für alle Teile des Erwerbs ein, deren Erträge bei unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes wären.
 
 (2) Absatz 1 findet keine Anwendung, wenn nachgewiesen wird, daß für die Teile des Erwerbs, die nach dieser Vorschrift über § 2 Abs. 1 Nr. 3 des Erbschaftsteuergesetzes hinaus steuerpflichtig wären, im Ausland eine der deutschen Erbschaftsteuer entsprechende Steuer zu entrichten ist, die mindestens 30 Prozent der deutschen Erbschaftsteuer beträgt, die bei Anwendung des Absatzes 1 auf diese Teile des Erwerbs entfallen würde.
 
-
-## § 5 – Zwischengeschaltete Gesellschaften
+# § 5 – Zwischengeschaltete Gesellschaften
 
 (1) Sind natürliche Personen, die in den letzten zehn Jahren vor dem Ende ihrer unbeschränkten Steuerpflicht nach § 1 Abs. 1 Satz 1 des Einkommensteuergesetzes als Deutscher insgesamt mindestens fünf Jahre unbeschränkt einkommensteuerpflichtig waren und die Voraussetzungen des § 2 Abs. 1 Satz 1 Nr. 1 erfüllen (Person im Sinne des § 2), allein oder zusammen mit unbeschränkt Steuerpflichtigen an einer ausländischen Gesellschaft im Sinne des § 7 beteiligt, so sind Einkünfte, mit denen diese Personen bei unbeschränkter Steuerpflicht nach den §§ 7, 8 und 14 steuerpflichtig wären und die nicht ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes sind, diesen Personen zuzurechnen. Liegen die Voraussetzungen des Satzes 1 vor, so sind die Vermögenswerte der ausländischen Gesellschaft, deren Erträge bei unbeschränkter Steuerpflicht nicht ausländische Einkünfte im Sinne des § § 34d des Einkommensteuergesetzes wären, im Fall des § 4 dem Erwerb entsprechend der Beteiligung zuzurechnen.
 
@@ -102,8 +95,7 @@ ist bis zum Ablauf von zehn Jahren nach Ende des Jahres, in dem ihre unbeschrän
 
 (3) § 18 findet entsprechende Anwendung.
 
-
-## § 6 – Besteuerung des Vermögenszuwachses
+# § 6 – Besteuerung des Vermögenszuwachses
 
 (1) Bei einer natürlichen Person, die insgesamt mindestens zehn Jahre nach § 1 Abs. 1 des Einkommensteuergesetzes unbeschränkt steuerpflichtig war und deren unbeschränkte Steuerpflicht durch Aufgabe des Wohnsitzes oder gewöhnlichen Aufenthalts endet, ist auf Anteile im Sinne des § 17 Abs. 1 Satz 1 des Einkommensteuergesetzes im Zeitpunkt der Beendigung der unbeschränkten Steuerpflicht § 17 des Einkommensteuergesetzes auch ohne Veräußerung anzuwenden, wenn im Übrigen für die Anteile zu diesem Zeitpunkt die Voraussetzungen dieser Vorschrift erfüllt sind. Der Beendigung der unbeschränkten Steuerpflicht im Sinne des Satzes 1 stehen gleich
 
@@ -166,8 +158,7 @@ In den Fällen des Satzes 2 gilt Absatz 7 entsprechend.
 (+++ § 6 Abs. 2 bis 7: Zur Anwendung vgl. § 21 Abs. 13 Satz 2 +++)  
 (+++ § 6 Abs. 5 Satz 3: Zur Anwendung vgl. § 21 Abs. 23 +++)
 
-
-## § 7 – Steuerpflicht inländischer Gesellschafter
+# § 7 – Steuerpflicht inländischer Gesellschafter
 
 (1) Sind unbeschränkt Steuerpflichtige an einer Körperschaft, Personenvereinigung oder Vermögensmasse im Sinne des Körperschaftsteuergesetzes, die weder Geschäftsleitung noch Sitz im Geltungsbereich dieses Gesetzes hat und die nicht gemäß § 3 Abs. 1 des Körperschaftsteuergesetzes von der Körperschaftsteuerpflicht ausgenommen ist (ausländische Gesellschaft), zu mehr als der Hälfte beteiligt, so sind die Einkünfte, für die diese Gesellschaft Zwischengesellschaft ist, bei jedem von ihnen mit dem Teil steuerpflichtig, der auf die ihm zuzurechnende Beteiligung am Nennkapital der Gesellschaft entfällt.
 
@@ -191,8 +182,7 @@ In den Fällen des Satzes 2 gilt Absatz 7 entsprechend.
 (+++ § 7 Abs. 6: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)  
 (+++ § 7 Abs. 8: Zur erstmaligen Anwendung vgl. § 21 Abs. 15 +++)
 
-
-## § 8 – Einkünfte von Zwischengesellschaften
+# § 8 – Einkünfte von Zwischengesellschaften
 
 (1) Eine ausländische Gesellschaft ist Zwischengesellschaft für Einkünfte, die einer niedrigen Besteuerung unterliegen und nicht stammen aus:
 
@@ -241,15 +231,13 @@ c) die Vermietung oder Verpachtung von beweglichen Sachen, es sei denn, der Steu
 (+++ § 8: Zur Anwendung vgl. § 21 Abs. 7, 9, 11, 14, 15, 17, 19, 21 +++)  
 (+++ § 8 Abs. 3 Satz 2, 3: Zur Anwendung vgl. § 4j EStG +++)
 
-
-## § 9 – Freigrenze bei gemischten Einkünften
+# § 9 – Freigrenze bei gemischten Einkünften
 
 Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische Gesellschaft Zwischengesellschaft ist, außer Ansatz zu lassen, wenn die ihnen zugrunde liegenden Bruttoerträge nicht mehr als 10 Prozent der gesamten Bruttoerträge der Gesellschaft betragen, vorausgesetzt, dass die bei einer Gesellschaft oder bei einem Steuerpflichtigen hiernach außer Ansatz zu lassenden Beträge insgesamt 80.000 Euro nicht übersteigen.
 
 (+++ § 9: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)
 
-
-## § 10 – Hinzurechnungsbetrag
+# § 10 – Hinzurechnungsbetrag
 
 (1) Die nach § 7 Abs. 1 steuerpflichtigen Einkünfte sind bei dem unbeschränkt Steuerpflichtigen mit dem Betrag, der sich nach Abzug der Steuern ergibt, die zu Lasten der ausländischen Gesellschaft von diesen Einkünften sowie von dem diesen Einkünften zugrunde liegenden Vermögen erhoben worden sind, anzusetzen (Hinzurechnungsbetrag). Soweit die abzuziehenden Steuern zu dem Zeitpunkt, zu dem die Einkünfte nach Absatz 2 als zugeflossen gelten, noch nicht entrichtet sind, sind sie nur in den Jahren, in denen sie entrichtet werden, von den nach § 7 Abs. 1 steuerpflichtigen Einkünften abzusetzen. In den Fällen des § 8 Absatz 3 Satz 2 sind die Steuern um die dort bezeichneten Ansprüche des unbeschränkt Steuerpflichtigen oder einer anderen Gesellschaft, an der der Steuerpflichtige direkt oder indirekt beteiligt ist, zu kürzen. Ergibt sich ein negativer Betrag, so entfällt die Hinzurechnung.
 
@@ -263,8 +251,7 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 
 (+++ § 10: Zur Anwendung vgl. § 21 +++)
 
-
-## § 11 – Veräußerungsgewinne
+# § 11 – Veräußerungsgewinne
 
 (1) Gewinne, die die ausländische Gesellschaft aus der Veräußerung der Anteile an einer anderen ausländischen Gesellschaft oder einer Gesellschaft im Sinne des § 16 des REIT-Gesetzes sowie aus deren Auflösung oder der Herabsetzung ihres Kapitals erzielt und für die die ausländische Gesellschaft Zwischengesellschaft ist, sind vom Hinzurechnungsbetrag auszunehmen, soweit die Einkünfte der anderen Gesellschaft oder einer dieser Gesellschaft nachgeordneten Gesellschaft aus Tätigkeiten im Sinne des § 7 Abs. 6a für das gleiche Kalenderjahr oder Wirtschaftsjahr oder für die vorangegangenen sieben Kalenderjahre oder Wirtschaftsjahre als Hinzurechnungsbetrag (§ 10 Abs. 2) der Einkommensteuer oder Körperschaftsteuer unterlegen haben, keine Ausschüttung dieser Einkünfte erfolgte und der Steuerpflichtige dies nachweist.
 
@@ -274,8 +261,7 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 
 (+++ § 11: Zur Anwendung vgl. § 21 +++)
 
-
-## § 12 – Steueranrechnung
+# § 12 – Steueranrechnung
 
 (1) Auf Antrag des Steuerpflichtigen werden auf seine Einkommen- oder Körperschaftsteuer, die auf den Hinzurechnungsbetrag entfällt, die Steuern angerechnet, die nach § 10 Abs. 1 abziehbar sind. In diesem Fall ist der Hinzurechnungsbetrag um diese Steuern zu erhöhen.
 
@@ -286,13 +272,11 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 (+++ § 12: Zur Anwendung vgl. § 21 +++)  
 (+++ § 12 Abs. 3: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Nachgeschaltete Zwischengesellschaften
+# § 14 – Nachgeschaltete Zwischengesellschaften
 
 (1) Ist eine ausländische Gesellschaft allein oder zusammen mit unbeschränkt Steuerpflichtigen gemäß § 7 an einer anderen ausländischen Gesellschaft (Untergesellschaft) beteiligt, so sind für die Anwendung der §§ 7 bis 12 die Einkünfte der Untergesellschaft, die einer niedrigen Besteuerung unterlegen haben, der ausländischen Gesellschaft zu dem Teil, der auf ihre Beteiligung am Nennkapital der Untergesellschaft entfällt, zuzurechnen, soweit nicht nachgewiesen wird, dass die Untergesellschaft diese Einkünfte aus unter § 8 Abs. 1 Nr. 1 bis 7 fallenden Tätigkeiten oder Gegenständen erzielt hat oder es sich um Einkünfte im Sinne des § 8 Abs. 1 Nr. 8 bis 10 handelt oder dass diese Einkünfte aus Tätigkeiten stammen, die einer unter § 8 Abs. 1 Nr. 1 bis 6 fallenden eigenen Tätigkeit der ausländischen Gesellschaft dienen. Tätigkeiten der Untergesellschaft dienen nur dann einer unter § 8 Abs. 1 Nr. 1 bis 6 fallenden eigenen Tätigkeit der ausländischen Gesellschaft, wenn sie in unmittelbarem Zusammenhang mit dieser Tätigkeit stehen und es sich bei den Einkünften nicht um solche im Sinne des § 7 Abs. 6a handelt.
 
@@ -306,8 +290,7 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 (+++ § 14 Abs. 1: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)  
 (+++ § 14 Abs. 2: Zur erstmaligen Anwendung vgl. § 21 Abs. 15 +++)
 
-
-## § 15 – Steuerpflicht von Stiftern, Bezugsberechtigten und Anfallsberechtigten
+# § 15 – Steuerpflicht von Stiftern, Bezugsberechtigten und Anfallsberechtigten
 
 (1) Vermögen und Einkünfte einer Familienstiftung, die Geschäftsleitung und Sitz außerhalb des Geltungsbereichs dieses Gesetzes hat (ausländische Familienstiftung), werden dem Stifter, wenn er unbeschränkt steuerpflichtig ist, sonst den unbeschränkt steuerpflichtigen Personen, die bezugsberechtigt oder anfallsberechtigt sind, entsprechend ihrem Anteil zugerechnet. Dies gilt nicht für die Erbschaftsteuer.
 
@@ -337,15 +320,13 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 
 (+++ § 15: Zur Anwendung vgl. § 21 Abs. 18, 21 +++)
 
-
-## § 16 – Mitwirkungspflicht des Steuerpflichtigen
+# § 16 – Mitwirkungspflicht des Steuerpflichtigen
 
 (1) Beantragt ein Steuerpflichtiger unter Berufung auf Geschäftsbeziehungen mit einer ausländischen Gesellschaft oder einer im Ausland ansässigen Person oder Personengesellschaft, die mit ihren Einkünften, die in Zusammenhang mit den Geschäftsbeziehungen zu dem Steuerpflichtigen stehen, nicht oder nur unwesentlich besteuert wird, die Absetzung von Schulden oder anderen Lasten oder von Betriebsausgaben oder Werbungskosten, so ist im Sinne des § 160 der Abgabenordnung der Gläubiger oder Empfänger erst dann genau bezeichnet, wenn der Steuerpflichtige alle Beziehungen offenlegt, die unmittelbar oder mittelbar zwischen ihm und der Gesellschaft, Person oder Personengesellschaft bestehen und bestanden haben.
 
 (2) Der Steuerpflichtige hat über die Richtigkeit und Vollständigkeit seiner Angaben und über die Behauptung, daß ihm Tatsachen nicht bekannt sind, auf Verlangen des Finanzamts gemäß § 95 der Abgabenordnung eine Versicherung an Eides Statt abzugeben.
 
-
-## § 17 – Sachverhaltsaufklärung
+# § 17 – Sachverhaltsaufklärung
 
 (1) Zur Anwendung der Vorschriften der §§ 5 und 7 bis 15 haben Steuerpflichtige für sich selbst und im Zusammenwirken mit anderen die dafür notwendigen Auskünfte zu erteilen. Auf Verlangen sind insbesondere
 
@@ -355,8 +336,7 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 
 (2) Ist für die Ermittlung der Einkünfte, für die eine ausländische Gesellschaft Zwischengesellschaft ist, eine Schätzung nach § 162 der Abgabenordnung vorzunehmen, so ist mangels anderer geeigneter Anhaltspunkte bei der Schätzung als Anhaltspunkt von mindestens 20 Prozent des gemeinen Werts der von den unbeschränkt Steuerpflichtigen gehaltenen Anteile auszugehen; Zinsen und Nutzungsentgelte, die die Gesellschaft für überlassene Wirtschaftsgüter an die unbeschränkt Steuerpflichtigen zahlt, sind abzuziehen.
 
-
-## § 18 – Gesonderte Feststellung von Besteuerungsgrundlagen
+# § 18 – Gesonderte Feststellung von Besteuerungsgrundlagen
 
 (1) Die Besteuerungsgrundlagen für die Anwendung der §§ 7 bis 14 und § 3 Nr. 41 des Einkommensteuergesetzes werden gesondert festgestellt. Sind an der ausländischen Gesellschaft mehrere unbeschränkt Steuerpflichtige beteiligt, so wird die gesonderte Feststellung ihnen gegenüber einheitlich vorgenommen; dabei ist auch festzustellen, wie sich die Besteuerungsgrundlagen auf die einzelnen Beteiligten verteilen. Die Vorschriften der Abgabenordnung, mit Ausnahme des § 180 Abs. 3, und der Finanzgerichtsordnung über die gesonderte Feststellung von Besteuerungsgrundlagen sind entsprechend anzuwenden.
 
@@ -370,13 +350,11 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 (+++ § 18 Abs. 3: Zur erstmaligen Anwendung vgl. § 21 Abs. 17 +++)  
 (+++ § 18 Abs. 4: Zur erstmaligen Anwendung vgl. § 21 Abs. 17, 21 +++)
 
-
-## § 19 – (weggefallen)
+# § 19 – (weggefallen)
 
 \-
 
-
-## § 20 – Bestimmungen über die Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
+# § 20 – Bestimmungen über die Anwendung von Abkommen zur Vermeidung der Doppelbesteuerung
 
 (1) Die Vorschriften der §§ 7 bis 18 und der Absätze 2 und 3 werden durch die Abkommen zur Vermeidung der Doppelbesteuerung nicht berührt.
 
@@ -386,8 +364,7 @@ Für die Anwendung des § 7 Abs. 1 sind Einkünfte, für die eine ausländische 
 
 (+++ § 20: Zur Anwendung vgl. § 21 +++)
 
-
-## § 21 – Anwendungsvorschriften
+# § 21 – Anwendungsvorschriften
 
 (1) Die Vorschriften dieses Gesetzes sind, soweit in den folgenden Absätzen nichts anderes bestimmt ist, wie folgt anzuwenden:
 
@@ -551,7 +528,6 @@ für den Zwischeneinkünfte hinzuzurechnen sind, die in einem Wirtschaftsjahr de
 
 (24) Die §§ 7 und 10 in der am 1. Januar 2018 geltenden Fassung sind ab dem 1. Januar 2018 anzuwenden.
 
-
-## § 22 – Neufassung des Gesetzes
+# § 22 – Neufassung des Gesetzes
 
 Das Bundesministerium der Finanzen kann den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung im Bundesgesetzblatt bekannt machen.

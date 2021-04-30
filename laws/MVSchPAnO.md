@@ -1,21 +1,16 @@
-# [MVSchPAnO] Schiffahrtspolizeiliche Anordnung über die Ergänzung von Schiffahrtszeichen auf den Seeschiffahrtsstraßen im Bereich des Landes Mecklenburg-Vorpommern
-
-Ausfertigungsdatum: 04.10.1993
-
+% Schiffahrtspolizeiliche Anordnung über die Ergänzung von Schiffahrtszeichen auf den Seeschiffahrtsstraßen im Bereich des Landes Mecklenburg-Vorpommern
+% Ausfertigungsdatum: 04.10.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund § 60 Abs. 3 der Seeschiffahrtsstraßen-Ordnung (SeeSchStrO) in der Fassung der Bekanntmachung vom 15. April 1987 (BGBl. I S. 1266), zuletzt geändert durch die Verordnung seeverkehrsrechtlicher Vorschriften vom 8. April 1991 (BGBl. I S. 880), wird von der Wasser- und Schiffahrtsdirektion Nord angeordnet:
 
-
-## § 1
+# § 1
 
 Auf den Seeschiffahrtsstraßen im Bereich des Landes Mecklenburg-Vorpommern gelten im Sinne von § 5 Abs. 1 SeeSchStrO zusätzlich nachstehend aufgeführte Schiffahrtszeichen:
 
   
-A.  
-Gebots- und Verbotszeichen
+A. Gebots- und Verbotszeichen
 
 A.26  
 Verbot, sich innerhalb der in Metern angegebenen Entfernung zu dem Objekt, auf dem die Tafel aufgestellt ist, aufzuhalten:
@@ -86,8 +81,7 @@ Ein festes rotes Licht durch eine rechteckige rote Tafel mit waagerechtem weiße
 \-  
 Ein festes grünes Licht durch eine rechteckige grüne Tafel mit senkrechtem weißen Streifen.
 
-B.  
-Warn- und Hinweiszeichen
+B. Warn- und Hinweiszeichen
 
 B.18  
 Ankerplatz - Ankern auf der Seite, an dessen Ufer die Tafel aufgestellt ist, gestattet:
@@ -136,7 +130,6 @@ d) Nicht gültig für Sportfahrzeuge:
 
 Rechteckige weiße Tafel mit schwarzem Schrägstrich und schwarzer Aufschrift "SPORT".
 
-
-## § 2
+# § 2
 
 Diese schiffahrtspolizeiliche Anordnung tritt am Tage nach ihrer Verkündung in Kraft.

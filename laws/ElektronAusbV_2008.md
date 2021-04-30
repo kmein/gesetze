@@ -1,25 +1,19 @@
-# [ElektronAusbV 2008] Verordnung über die Berufsausbildung zum Elektroniker und zur Elektronikerin
-
-Ausfertigungsdatum: 25.07.2008
-
+% Verordnung über die Berufsausbildung zum Elektroniker und zur Elektronikerin
+% Ausfertigungsdatum: 25.07.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des § 27 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs. 1 und § 27 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 der Handwerksordnung zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Elektroniker und Elektronikerin wird nach § 25 der Handwerksordnung für das Gewerbe Nummer 25, Elektrotechniker, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen
 
@@ -29,8 +23,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 3. Informations- und Telekommunikationstechnik.
 
-
-## § 4 – Ausbildungsrahmenplan/Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan/Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -107,8 +100,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Informations- und 
 
 5. Prüfen und Instandhalten von Informations- und Telekommunikationssystemen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 bis 10 nachzuweisen.
 
@@ -116,15 +108,13 @@ Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Informations- und 
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Gesellenprüfung
+# § 6 – Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen die Qualifikationen, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Gesellenprüfung mit 40 Prozent, Teil 2 der Gesellenprüfung mit 60 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Gesellenprüfung
+# § 7 – Teil 1 der Gesellenprüfung
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -154,8 +144,7 @@ kann;
 
 4. die Prüfungszeit beträgt 10 Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von zwei Stunden haben.
 
-
-## § 8 – Teil 2 der Gesellenprüfung
+# § 8 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -251,8 +240,7 @@ c) in der Fachrichtung Informations- und Telekommunikationstechnik die Analyse e
 
 3. die Prüfungszeit beträgt eine Stunde.
 
-
-## § 9 – Gewichtung und Bestehensregelung
+# § 9 – Gewichtung und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -279,23 +267,19 @@ c) in der Fachrichtung Informations- und Telekommunikationstechnik die Analyse e
 
 bewertet worden sind.
 
-
-## § 10 – Mündliche Ergänzungsprüfung
+# § 10 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von höchstens 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren. Kommt eine Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in § 12 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker/zur Elektronikerin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker/zur Elektronikerin
 
 (Fundstelle: BGBl. I 2008, 1417 - 1428)  
 

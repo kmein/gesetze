@@ -1,10 +1,7 @@
-# [ChemKostV] Verordnung über Kosten für Amtshandlungen der Bundesbehörden nach dem Chemikaliengesetz  (Chemikalien-Kostenverordnung - ChemKostV)
-
-Ausfertigungsdatum: 16.08.1994
-
+% Verordnung über Kosten für Amtshandlungen der Bundesbehörden nach dem Chemikaliengesetz  (Chemikalien-Kostenverordnung - ChemKostV)
+% Ausfertigungsdatum: 16.08.1994
  
-
-## § 1 – Gebühren
+# § 1 – Gebühren
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin erhebt für individuell zurechenbare öffentliche Leistungen, die sie als Bundesstelle für Chemikalien nach dem Chemikaliengesetz erbringt, vorbehaltlich der Sätze 2 und 3 Gebühren nach dem anliegenden Gebührenverzeichnis. Das Robert Koch-Institut, das Umweltbundesamt und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erheben im Rahmen ihrer jeweiligen Zuständigkeiten nach § 12a Absatz 3 Nummer 1 bis 3 des Chemikaliengesetzes für Ausnahmezulassungen nach Artikel 55 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1) Gebühren nach Nummer 1.8.5 des anliegenden Gebührenverzeichnisses. Das Bundesinstitut für Risikobewertung erhebt für die Ausstellung von Bestätigungen zur Guten Laborpraxis nach § 19b Absatz 2 Nummer 3 des Chemikaliengesetzes Gebühren nach Nummer 2.1 des anliegenden Gebührenverzeichnisses. In die Gebührensätze sind die Auslagen nach § 23 Absatz 6 Satz 2 des Bundesgebührengesetzes in Verbindung mit § 10 Absatz 1 Nummer 1, 2, 4, 7 und 8 des Verwaltungskostengesetzes einbezogen, soweit sich aus dem Gebührenverzeichnis nicht etwas anderes ergibt.
 
@@ -12,31 +9,25 @@ Ausfertigungsdatum: 16.08.1994
 
 (3) Erfordert eine individuell zurechenbare öffentliche Leistung, für die im Gebührenverzeichnis ein Gebührensatz vorgesehen ist, weniger Arbeitsaufwand als die Bearbeitung eines Vordrucks erfordert, weil die Zulassungs- oder Mitteilungsunterlagen elektronisch oder auf einem magnetischen Datenträger übermittelt werden, so kann die Gebühr um bis zu 500 Euro ermäßigt werden.
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3 – Gebührenermäßigung
+# § 3 – Gebührenermäßigung
 
 Auf Antrag des Gebührenschuldners kann eine Gebührenermäßigung oder eine Gebührenbefreiung gewährt werden, wenn an dem Inverkehrbringen des Stoffes oder des Biozid-Produkts ein besonderes öffentliches Interesse besteht und der Antragsteller einen den Gebühren und dem Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht erwarten kann.
 
-
-## § 4 – Widerruf und Rücknahme
+# § 4 – Widerruf und Rücknahme
 
 In den Fällen des Widerrufs oder der Rücknahme eines Verwaltungsaktes sowie der Ablehnung oder der Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
-
-## § 5 – Widerspruchsverfahren
+# § 5 – Widerspruchsverfahren
 
 Für das Widerspruchsverfahren gegen einen von der zuständigen Bundesbehörde auf Grund dieses Gesetzes erlassenen Verwaltungsakt werden Gebühren und Auslagen nicht erhoben.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Diese Verordnung findet auch auf individuell zurechenbare öffentliche Leistungen Anwendung, die bereits ab dem 1. September 2013 beantragt oder begonnen, aber bis zum 30. April 2014 noch nicht vollständig erbracht wurden. Für die Erhebung von Gebühren und Auslagen für eine individuell zurechenbare öffentliche Leistung, die vor dem 1. September 2013 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, ist die Chemikalien-Kostenverordnung in der bis zum 31. August 2013 geltenden Fassung weiter anzuwenden. In Fällen des Satzes 2, in denen die Zulassung eines Biozidprodukts nach Artikel 91 der Verordnung (EU) Nr. 528/2012 bereits nach Vorschriften der Verordnung (EU) Nr. 528/2012 erfolgt, finden die Gebührentatbestände nach Nummer 4 des Gebührenverzeichnisses der Chemikalien-Kostenverordnung in der bis zum 31. August 2013 geltenden Fassung entsprechende Anwendung.
 
-
-## Anlage – (zu § 1 Absatz 1)Gebührenverzeichnis
+# Anlage – (zu § 1 Absatz 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2014, 593 – 597)
 

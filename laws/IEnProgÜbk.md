@@ -1,5 +1,3 @@
-# [IEnProgÜbk] Übereinkommen über ein Internationales Energieprogramm
-
-Ausfertigungsdatum: 18.11.1974
-
+% Übereinkommen über ein Internationales Energieprogramm
+% Ausfertigungsdatum: 18.11.1974
  

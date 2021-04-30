@@ -1,10 +1,7 @@
-# [BinSchUO2018Anh VII] Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung(Anhang VII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung(Anhang VII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2018, 1520)
 

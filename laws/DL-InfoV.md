@@ -1,15 +1,11 @@
-# [DL-InfoV] Verordnung über Informationspflichten für Dienstleistungserbringer    (Dienstleistungs-Informationspflichten-Verordnung - DL-InfoV)
-
-Ausfertigungsdatum: 12.03.2010
-
+% Verordnung über Informationspflichten für Dienstleistungserbringer    (Dienstleistungs-Informationspflichten-Verordnung - DL-InfoV)
+% Ausfertigungsdatum: 12.03.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnung, die durch Artikel 1 des Gesetzes vom 17. Juli 2009 (BGBl. I S. 2091) eingefügt worden sind, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Personen, die Dienstleistungen erbringen, die in den Anwendungsbereich des Artikels 2 der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36) fallen.
 
@@ -19,8 +15,7 @@ Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnun
 
 (4) Die nach dieser Verordnung zur Verfügung zu stellenden Informationen sind in deutscher Sprache zu erbringen. Das gilt nicht für Informationen nach Absatz 2.
 
-
-## § 2 – Stets zur Verfügung zu stellende Informationen
+# § 2 – Stets zur Verfügung zu stellende Informationen
 
 (1) Unbeschadet weiter gehender Anforderungen aus anderen Rechtsvorschriften muss ein Dienstleistungserbringer einem Dienstleistungsempfänger vor Abschluss eines schriftlichen Vertrages oder, sofern kein schriftlicher Vertrag geschlossen wird, vor Erbringung der Dienstleistung folgende Informationen in klarer und verständlicher Form zur Verfügung stellen:
 
@@ -56,8 +51,7 @@ Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnun
 
 4. in alle von ihm dem Dienstleistungsempfänger zur Verfügung gestellten ausführlichen Informationsunterlagen über die angebotene Dienstleistung aufzunehmen.
 
-
-## § 3 – Auf Anfrage zur Verfügung zu stellende Informationen
+# § 3 – Auf Anfrage zur Verfügung zu stellende Informationen
 
 (1) Unbeschadet weiter gehender Anforderungen aus anderen Rechtsvorschriften muss der Dienstleistungserbringer dem Dienstleistungsempfänger auf Anfrage folgende Informationen vor Abschluss eines schriftlichen Vertrages oder, sofern kein schriftlicher Vertrag geschlossen wird, vor Erbringung der Dienstleistung in klarer und verständlicher Form zur Verfügung stellen:
 
@@ -71,8 +65,7 @@ Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnun
 
 (2) Der Dienstleistungserbringer stellt sicher, dass die in Absatz 1 Nummer 2, 3 und 4 genannten Informationen in allen ausführlichen Informationsunterlagen über die Dienstleistung enthalten sind.
 
-
-## § 4 – Erforderliche Preisangaben
+# § 4 – Erforderliche Preisangaben
 
 (1) Der Dienstleistungserbringer muss dem Dienstleistungsempfänger vor Abschluss eines schriftlichen Vertrages oder, sofern kein schriftlicher Vertrag geschlossen wird, vor Erbringung der Dienstleistung, folgende Informationen in klarer und verständlicher Form zur Verfügung stellen:
 
@@ -82,13 +75,11 @@ Auf Grund des § 6c in Verbindung mit § 146 Absatz 2 Nummer 1 der Gewerbeordnun
 
 (2) Absatz 1 findet keine Anwendung auf Dienstleistungsempfänger, die Letztverbraucher sind im Sinne der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 6 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2355) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 5 – Verbot diskriminierender Bestimmungen
+# § 5 – Verbot diskriminierender Bestimmungen
 
 Der Dienstleistungserbringer darf keine Bedingungen für den Zugang zu einer Dienstleistung bekannt machen, die auf der Staatsangehörigkeit oder dem Wohnsitz des Dienstleistungsempfängers beruhende diskriminierende Bestimmungen enthalten. Dies gilt nicht für Unterschiede bei den Zugangsbedingungen, die unmittelbar durch objektive Kriterien gerechtfertigt sind.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 1 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -98,12 +89,10 @@ Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 1 der Gewerbeordnung handelt,
 
 3. entgegen § 5 Satz 1 Bedingungen bekannt macht.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt zwei Monate nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,17 +1,11 @@
-# [GuAMKflAusbV] Verordnung über die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement   (Groß-und-Außenhandelsmanagement-Kaufleute-Ausbildungsverordnung - GuAMKflAusbV)
-
-Ausfertigungsdatum: 19.03.2020
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement   (Groß-und-Außenhandelsmanagement-Kaufleute-Ausbildungsverordnung - GuAMKflAusbV)
+% Ausfertigungsdatum: 19.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -51,25 +45,23 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Kaufmanns für Groß- und Außenhandelsmanagement und der Kauffrau für Groß- und Außenhandelsmanagement wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -129,20 +121,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als T
 
 6. elektronische Geschäftsprozesse (E-Business).
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Aufteilung in zwei Teile und Zeitpunkt
+# § 6 – Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
 (2) Teil 1 findet im vierten Ausbildungshalbjahr statt, Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
-
-## § 7 – Inhalt von Teil 1
+# § 7 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -150,8 +139,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich von Teil 1
+# § 8 – Prüfungsbereich von Teil 1
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Organisieren des Warensortiments und von Dienstleistungen statt.
 
@@ -171,8 +159,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 9 – Inhalt von Teil 2
+# § 9 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Großhandel auf
 
@@ -182,8 +169,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 10 – Prüfungsbereiche von Teil 2
+# § 10 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Großhandel in den folgenden Prüfungsbereichen statt:
 
@@ -195,8 +181,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Großhandel in den folge
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 11 – Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
+# § 11 – Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
 
 (1) Im Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -212,8 +197,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Großhandel in den folge
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 12 – Prüfungsbereich Prozessorientierte Organisation von Großhandelsgeschäften
+# § 12 – Prüfungsbereich Prozessorientierte Organisation von Großhandelsgeschäften
 
 (1) Im Prüfungsbereich Prozessorientierte Organisation von Großhandelsgeschäften hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -233,8 +217,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Großhandel in den folge
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 13 – Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Großhandel
+# § 13 – Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Großhandel
 
 (1) Im Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Großhandel hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -276,8 +259,7 @@ Zu jeder der beiden praxisbezogenen Fachaufgaben hat der Prüfling einen Report 
 
 (6) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen Fachgespräch erbringt.
 
-
-## § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -285,8 +267,7 @@ Zu jeder der beiden praxisbezogenen Fachaufgaben hat der Prüfling einen Report 
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Großhandel wie folgt zu gewichten:
 
@@ -317,8 +298,7 @@ im Großhandel</td><td style="text-align: right;">mit 20 Prozent sowie</td></tr>
 
 4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-
-## § 16 – Mündliche Ergänzungsprüfung
+# § 16 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -342,8 +322,7 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 17 – Inhalt von Teil 2
+# § 17 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Außenhandel auf
 
@@ -353,8 +332,7 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 18 – Prüfungsbereiche von Teil 2
+# § 18 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Außenhandel in folgenden Prüfungsbereichen statt:
 
@@ -366,8 +344,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Außenhandel in folgende
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 19 – Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
+# § 19 – Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen
 
 (1) Im Prüfungsbereich Kaufmännische Steuerung von Geschäftsprozessen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -383,8 +360,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Außenhandel in folgende
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 20 – Prüfungsbereich Prozessorientierte Organisation von Außenhandelsgeschäften
+# § 20 – Prüfungsbereich Prozessorientierte Organisation von Außenhandelsgeschäften
 
 (1) Im Prüfungsbereich Prozessorientierte Organisation von Außenhandelsgeschäften hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -408,8 +384,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Außenhandel in folgende
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 21 – Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Außenhandel
+# § 21 – Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Außenhandel
 
 (1) Im Prüfungsbereich Fallbezogenes Fachgespräch zu einer betrieblichen Fachaufgabe im Außenhandel hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -451,8 +426,7 @@ Zu jeder der beiden praxisbezogenen Fachaufgaben hat der Prüfling einen Report 
 
 (6) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen Fachgespräch erbringt.
 
-
-## § 22 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 22 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -460,8 +434,7 @@ Zu jeder der beiden praxisbezogenen Fachaufgaben hat der Prüfling einen Report 
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Außenhandel wie folgt zu gewichten:
 
@@ -492,8 +465,7 @@ im Außenhandel</td><td style="text-align: right;">mit 20 Prozent sowie</td></tr
 
 4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-
-## § 24 – Mündliche Ergänzungsprüfung
+# § 24 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -517,13 +489,11 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 25 – Inkrafttreten, Außerkrafttreten
+# § 25 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Kaufmann im Groß- und Außenhandel/zur Kauffrau im Groß- und Außenhandel vom 14. Februar 2006 (BGBl. I S. 409) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement
 
 (Fundstelle: BGBl. I 2020, 722 - 729)
 

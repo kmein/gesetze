@@ -1,10 +1,7 @@
-# [JVEG] Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolmetschern, Übersetzerinnen und Übersetzern sowie die Entschädigung von ehrenamtlichen Richterinnen, ehrenamtlichen Richtern, Zeuginnen, Zeugen und Dritten  (Justizvergütungs- und -entschädigungsgesetz - JVEG)
-
-Ausfertigungsdatum: 05.05.2004
-
+% Gesetz über die Vergütung von Sachverständigen, Dolmetscherinnen, Dolmetschern, Übersetzerinnen und Übersetzern sowie die Entschädigung von ehrenamtlichen Richterinnen, ehrenamtlichen Richtern, Zeuginnen, Zeugen und Dritten  (Justizvergütungs- und -entschädigungsgesetz - JVEG)
+% Ausfertigungsdatum: 05.05.2004
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -166,8 +163,7 @@ Anlage 3
 
 (zu § 23 Absatz 1)
 
-
-## § 1 – Geltungsbereich und Anspruchsberechtigte
+# § 1 – Geltungsbereich und Anspruchsberechtigte
 
 (1) Dieses Gesetz regelt
 
@@ -187,8 +183,7 @@ Eine Vergütung oder Entschädigung wird nur nach diesem Gesetz gewährt. Der An
 
 (5) Die Vorschriften dieses Gesetzes über die gerichtliche Festsetzung und die Beschwerde gehen den Regelungen der für das zugrunde liegende Verfahren geltenden Verfahrensvorschriften vor.
 
-
-## § 2 – Geltendmachung und Erlöschen des Anspruchs, Verjährung
+# § 2 – Geltendmachung und Erlöschen des Anspruchs, Verjährung
 
 (1) Der Anspruch auf Vergütung oder Entschädigung erlischt, wenn er nicht binnen drei Monaten bei der Stelle, die den Berechtigten herangezogen oder beauftragt hat, geltend gemacht wird; hierüber und über den Beginn der Frist ist der Berechtigte zu belehren. Die Frist beginnt
 
@@ -210,13 +205,11 @@ Wird der Berechtigte in den Fällen des Satzes 2 Nummer 1 und 2 in demselben Ver
 
 (4) Der Anspruch auf Erstattung zu viel gezahlter Vergütung oder Entschädigung verjährt in drei Jahren nach Ablauf des Kalenderjahrs, in dem die Zahlung erfolgt ist. § 5 Abs. 3 des Gerichtskostengesetzes gilt entsprechend.
 
-
-## § 3 – Vorschuss
+# § 3 – Vorschuss
 
 Auf Antrag ist ein angemessener Vorschuss zu bewilligen, wenn dem Berechtigten erhebliche Fahrtkosten oder sonstige Aufwendungen entstanden sind oder voraussichtlich entstehen werden oder wenn die zu erwartende Vergütung für bereits erbrachte Teilleistungen einen Betrag von 1 000 Euro übersteigt.
 
-
-## § 4 – Gerichtliche Festsetzung und Beschwerde
+# § 4 – Gerichtliche Festsetzung und Beschwerde
 
 (1) Die Festsetzung der Vergütung, der Entschädigung oder des Vorschusses erfolgt durch gerichtlichen Beschluss, wenn der Berechtigte oder die Staatskasse die gerichtliche Festsetzung beantragt oder das Gericht sie für angemessen hält. Eine Festsetzung der Vergütung ist in der Regel insbesondere dann als angemessen anzusehen, wenn ein Wegfall oder eine Beschränkung des Vergütungsanspruchs nach § 8a Absatz 1 oder 2 Satz 1 in Betracht kommt. Zuständig ist
 
@@ -244,8 +237,7 @@ Auf Antrag ist ein angemessener Vorschuss zu bewilligen, wenn dem Berechtigten e
 
 (9) Die Beschlüsse nach den Absätzen 1, 2, 4 und 5 wirken nicht zu Lasten des Kostenschuldners.
 
-
-## § 4a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+# § 4a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge eines durch die Entscheidung nach diesem Gesetz beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -263,18 +255,15 @@ Auf Antrag ist ein angemessener Vorschuss zu bewilligen, wenn dem Berechtigten e
 
 (6) Kosten werden nicht erstattet.
 
-
-## § 4b – Elektronische Akte, elektronisches Dokument
+# § 4b – Elektronische Akte, elektronisches Dokument
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen Vorschriften über die elektronische Akte und über das elektronische Dokument anzuwenden, die für das Verfahren gelten, in dem der Anspruchsberechtigte herangezogen worden ist.
 
-
-## § 4c – Rechtsbehelfsbelehrung
+# § 4c – Rechtsbehelfsbelehrung
 
 Jede anfechtbare Entscheidung hat eine Belehrung über den statthaften Rechtsbehelf sowie über die Stelle, bei der dieser Rechtsbehelf einzulegen ist, über deren Sitz und über die einzuhaltende Form zu enthalten.
 
-
-## § 5 – Fahrtkostenersatz
+# § 5 – Fahrtkostenersatz
 
 (1) Bei Benutzung von öffentlichen, regelmäßig verkehrenden Beförderungsmitteln werden die tatsächlich entstandenen Auslagen bis zur Höhe der entsprechenden Kosten für die Benutzung der ersten Wagenklasse der Bahn einschließlich der Auslagen für Platzreservierung und Beförderung des notwendigen Gepäcks ersetzt.
 
@@ -292,15 +281,13 @@ für jeden gefahrenen Kilometer ersetzt zuzüglich der durch die Benutzung des K
 
 (5) Wird die Reise zum Ort des Termins von einem anderen als dem in der Ladung oder Terminsmitteilung bezeichneten oder der zuständigen Stelle unverzüglich angezeigten Ort angetreten oder wird zu einem anderen als zu diesem Ort zurückgefahren, werden Mehrkosten nach billigem Ermessen nur dann ersetzt, wenn der Berechtigte zu diesen Fahrten durch besondere Umstände genötigt war.
 
-
-## § 6 – Entschädigung für Aufwand
+# § 6 – Entschädigung für Aufwand
 
 (1) Wer innerhalb der Gemeinde, in der der Termin stattfindet, weder wohnt noch berufstätig ist, erhält für die Zeit, während der er aus Anlass der Wahrnehmung des Termins von seiner Wohnung und seinem Tätigkeitsmittelpunkt abwesend sein muss, ein Tagegeld, dessen Höhe sich nach der Verpflegungspauschale zur Abgeltung tatsächlich entstandener, beruflich veranlasster Mehraufwendungen im Inland nach dem Einkommensteuergesetz bemisst.
 
 (2) Ist eine auswärtige Übernachtung notwendig, wird ein Übernachtungsgeld nach den Bestimmungen des Bundesreisekostengesetzes gewährt.
 
-
-## § 7 – Ersatz für sonstige Aufwendungen
+# § 7 – Ersatz für sonstige Aufwendungen
 
 (1) Auch die in den §§ 5, 6 und 12 nicht besonders genannten baren Auslagen werden ersetzt, soweit sie notwendig sind. Dies gilt insbesondere für die Kosten notwendiger Vertretungen und notwendiger Begleitpersonen.
 
@@ -316,8 +303,7 @@ Der erhöhte Aufwendungsersatz wird jeweils für die ersten 50 Seiten nach Satz 
 
 (3) Für die Überlassung von elektronisch gespeicherten Dateien anstelle der in Absatz 2 genannten Kopien und Ausdrucke werden 1,50 Euro je Datei ersetzt. Für die in einem Arbeitsgang überlassenen oder in einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente werden höchstens 5 Euro ersetzt.
 
-
-## § 8 – Grundsatz der Vergütung
+# § 8 – Grundsatz der Vergütung
 
 (1) Sachverständige, Dolmetscher und Übersetzer erhalten als Vergütung
 
@@ -335,8 +321,7 @@ Der erhöhte Aufwendungsersatz wird jeweils für die ersten 50 Seiten nach Satz 
 
 (4) Den Sachverständigen, Dolmetschern und Übersetzern, die ihren gewöhnlichen Aufenthalt im Ausland haben, kann unter Berücksichtigung ihrer persönlichen Verhältnisse, insbesondere ihres regelmäßigen Erwerbseinkommens, nach billigem Ermessen eine höhere als die in Absatz 1 bestimmte Vergütung gewährt werden.
 
-
-## § 8a – Wegfall oder Beschränkung des Vergütungsanspruchs
+# § 8a – Wegfall oder Beschränkung des Vergütungsanspruchs
 
 (1) Der Anspruch auf Vergütung entfällt, wenn der Berechtigte es unterlässt, der heranziehenden Stelle unverzüglich solche Umstände anzuzeigen, die zu seiner Ablehnung durch einen Beteiligten berechtigen, es sei denn, er hat die Unterlassung nicht zu vertreten.
 
@@ -358,8 +343,7 @@ Soweit das Gericht die Leistung berücksichtigt, gilt sie als verwertbar. Für d
 
 (5) Die Absätze 3 und 4 sind nicht anzuwenden, wenn der Berechtigte die Verletzung der ihm obliegenden Hinweispflicht nicht zu vertreten hat.
 
-
-## § 9 – Honorare für Sachverständige und für Dolmetscher
+# § 9 – Honorare für Sachverständige und für Dolmetscher
 
 (1) Das Honorar des Sachverständigen bemisst sich nach der Anlage 1. Die Zuordnung der Leistung zu einem Sachgebiet bestimmt sich nach der Entscheidung über die Heranziehung des Sachverständigen.
 
@@ -381,8 +365,7 @@ Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar fü
 
 (6) Erbringt der Sachverständige oder der Dolmetscher seine Leistung zwischen 23 und 6 Uhr oder an Sonn- oder Feiertagen, so erhöht sich das Honorar um 20 Prozent, wenn die heranziehende Stelle feststellt, dass es notwendig ist, die Leistung zu dieser Zeit zu erbringen. § 8 Absatz 2 Satz 2 gilt sinngemäß.
 
-
-## § 10 – Honorar für besondere Leistungen
+# § 10 – Honorar für besondere Leistungen
 
 (1) Soweit ein Sachverständiger oder ein sachverständiger Zeuge Leistungen erbringt, die in der Anlage 2 bezeichnet sind, bemisst sich das Honorar oder die Entschädigung nach dieser Anlage. § 9 Absatz 6 gilt mit der Maßgabe, dass sich das Honorar des Sachverständigen oder die Entschädigung des sachverständigen Zeugen um 20 Prozent erhöht, wenn die Leistung zu mindestens 80 Prozent zwischen 23 und 6 Uhr oder an Sonn- oder Feiertagen erbracht wird.
 
@@ -390,8 +373,7 @@ Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar fü
 
 (3) Soweit für die Erbringung einer Leistung nach Absatz 1 oder Absatz 2 zusätzliche Zeit erforderlich ist, beträgt das Honorar für jede Stunde der zusätzlichen Zeit 80 Euro.
 
-
-## § 11 – Honorar für Übersetzer
+# § 11 – Honorar für Übersetzer
 
 (1) Das Honorar für eine Übersetzung beträgt 1,80 Euro für jeweils angefangene 55 Anschläge des schriftlichen Textes, wenn der Text dem Übersetzer in editierbarer elektronischer Form zur Verfügung gestellt wird (Grundhonorar). Andernfalls beträgt das Honorar 1,95 Euro für jeweils angefangene 55 Anschläge (erhöhtes Honorar). Ist die Übersetzung wegen der besonderen Umstände des Einzelfalls besonders erschwert, insbesondere wegen der häufigen Verwendung von Fachausdrücken, der schweren Lesbarkeit des Textes, einer besonderen Eilbedürftigkeit oder weil es sich um eine in der Bundesrepublik Deutschland selten vorkommende Fremdsprache handelt, so beträgt das Grundhonorar 1,95 Euro und das erhöhte Honorar 2,10 Euro.
 
@@ -405,8 +387,7 @@ Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar fü
 
 2. die Leistung des Übersetzers darin besteht, aus einer Telekommunikationsaufzeichnung ein Wortprotokoll anzufertigen.
 
-
-## § 12 – Ersatz für besondere Aufwendungen
+# § 12 – Ersatz für besondere Aufwendungen
 
 (1) Soweit in diesem Gesetz nichts anderes bestimmt ist, sind mit der Vergütung nach den §§ 9 bis 11 auch die üblichen Gemeinkosten sowie der mit der Erstattung des Gutachtens oder der Übersetzung üblicherweise verbundene Aufwand abgegolten. Es werden jedoch gesondert ersetzt
 
@@ -422,8 +403,7 @@ Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar fü
 
 (2) Ein auf die Hilfskräfte (Absatz 1 Satz 2 Nr. 1) entfallender Teil der Gemeinkosten wird durch einen Zuschlag von 15 Prozent auf den Betrag abgegolten, der als notwendige Aufwendung für die Hilfskräfte zu ersetzen ist, es sei denn, die Hinzuziehung der Hilfskräfte hat keine oder nur unwesentlich erhöhte Gemeinkosten veranlasst.
 
-
-## § 13 – Besondere Vergütung
+# § 13 – Besondere Vergütung
 
 (1) Haben sich die Parteien oder Beteiligten dem Gericht gegenüber mit einer bestimmten oder einer von der gesetzlichen Regelung abweichenden Vergütung einverstanden erklärt, wird der Sachverständige, Dolmetscher oder Übersetzer unter Gewährung dieser Vergütung erst herangezogen, wenn ein ausreichender Betrag für die gesamte Vergütung an die Staatskasse gezahlt ist. Hat in einem Verfahren nach dem Gesetz über Ordnungswidrigkeiten die Verfolgungsbehörde eine entsprechende Erklärung abgegeben, bedarf es auch dann keiner Vorschusszahlung, wenn die Verfolgungsbehörde nicht von der Zahlung der Kosten befreit ist. In einem Verfahren, in dem Gerichtskosten in keinem Fall erhoben werden, genügt es, wenn ein die Mehrkosten deckender Betrag gezahlt worden ist, für den die Parteien oder Beteiligten nach Absatz 6 haften.
 
@@ -439,13 +419,11 @@ Die Ausfallentschädigung wird bis zu einem Betrag gewährt, der dem Honorar fü
 
 (7) (weggefallen)
 
+# § 14 – Vereinbarung der Vergütung
 
-## § 14 – Vereinbarung der Vergütung
+Mit Sachverständigen, Dolmetschern und Übersetzern, die häufiger herangezogen werden, kann die oberste Landesbehörde, für die Gerichte und Behörden des Bundes die oberste Bundesbehörde, oder eine von diesen bestimmte Stelle eine Vereinbarung über die zu gewährende Vergütung treffen, deren Höhe die nach diesem Gesetz vorgesehene Vergütung nicht überschreiten darf.
 
-Mit Sachverständigen, Dolmetschern und Übersetzern, die häufiger herangezogen werden, kann die oberste Landesbehörde, für die Gerichte und Behörden des Bundes die obersten Bundesbehörde, oder eine von diesen bestimmte Stelle eine Vereinbarung über die zu gewährende Vergütung treffen, deren Höhe die nach diesem Gesetz vorgesehene Vergütung nicht überschreiten darf.
-
-
-## § 15 – Grundsatz der Entschädigung
+# § 15 – Grundsatz der Entschädigung
 
 (1) Ehrenamtliche Richter erhalten als Entschädigung
 
@@ -469,23 +447,19 @@ Mit Sachverständigen, Dolmetschern und Übersetzern, die häufiger herangezogen
 
 2. wenn ehrenamtliche Richter bei den Gerichten der Arbeits- und der Sozialgerichtsbarkeit in dieser Eigenschaft an der Wahl von gesetzlich für sie vorgesehenen Ausschüssen oder an den Sitzungen solcher Ausschüsse teilnehmen (§§ 29, 38 des Arbeitsgerichtsgesetzes, §§ 23, 35 Abs. 1, § 47 des Sozialgerichtsgesetzes).
 
-
-## § 16 – Entschädigung für Zeitversäumnis
+# § 16 – Entschädigung für Zeitversäumnis
 
 Die Entschädigung für Zeitversäumnis beträgt 7 Euro je Stunde.
 
-
-## § 17 – Entschädigung für Nachteile bei der Haushaltsführung
+# § 17 – Entschädigung für Nachteile bei der Haushaltsführung
 
 Ehrenamtliche Richter, die einen eigenen Haushalt für mehrere Personen führen, erhalten neben der Entschädigung nach § 16 eine zusätzliche Entschädigung für Nachteile bei der Haushaltsführung von 17 Euro je Stunde, wenn sie nicht erwerbstätig sind oder wenn sie teilzeitbeschäftigt sind und außerhalb ihrer vereinbarten regelmäßigen täglichen Arbeitszeit herangezogen werden. Ehrenamtliche Richter, die ein Erwerbsersatzeinkommen beziehen, stehen erwerbstätigen ehrenamtlichen Richtern gleich. Die Entschädigung von Teilzeitbeschäftigten wird für höchstens zehn Stunden je Tag gewährt abzüglich der Zahl an Stunden, die der vereinbarten regelmäßigen täglichen Arbeitszeit entspricht. Die Entschädigung wird nicht gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 
-
-## § 18 – Entschädigung für Verdienstausfall
+# § 18 – Entschädigung für Verdienstausfall
 
 Für den Verdienstausfall wird neben der Entschädigung nach § 16 eine zusätzliche Entschädigung gewährt, die sich nach dem regelmäßigen Bruttoverdienst einschließlich der vom Arbeitgeber zu tragenden Sozialversicherungsbeiträge richtet, jedoch höchstens 29 Euro je Stunde beträgt. Die Entschädigung beträgt bis zu 55 Euro je Stunde für ehrenamtliche Richter, die in demselben Verfahren an mehr als 20 Tagen herangezogen oder innerhalb eines Zeitraums von 30 Tagen an mindestens sechs Tagen ihrer regelmäßigen Erwerbstätigkeit entzogen werden. Sie beträgt bis zu 73 Euro je Stunde für ehrenamtliche Richter, die in demselben Verfahren an mehr als 50 Tagen herangezogen werden.
 
-
-## § 19 – Grundsatz der Entschädigung
+# § 19 – Grundsatz der Entschädigung
 
 (1) Zeugen erhalten als Entschädigung
 
@@ -509,23 +483,19 @@ Dies gilt auch bei schriftlicher Beantwortung der Beweisfrage.
 
 (4) Den Zeugen, die ihren gewöhnlichen Aufenthalt im Ausland haben, kann unter Berücksichtigung ihrer persönlichen Verhältnisse, insbesondere ihres regelmäßigen Erwerbseinkommens, nach billigem Ermessen eine höhere als die in Absatz 1 Satz 1 bestimmte Entschädigung gewährt werden.
 
-
-## § 20 – Entschädigung für Zeitversäumnis
+# § 20 – Entschädigung für Zeitversäumnis
 
 Die Entschädigung für Zeitversäumnis beträgt 4 Euro je Stunde, soweit weder für einen Verdienstausfall noch für Nachteile bei der Haushaltsführung eine Entschädigung zu gewähren ist, es sei denn, dem Zeugen ist durch seine Heranziehung ersichtlich kein Nachteil entstanden.
 
-
-## § 21 – Entschädigung für Nachteile bei der Haushaltsführung
+# § 21 – Entschädigung für Nachteile bei der Haushaltsführung
 
 Zeugen, die einen eigenen Haushalt für mehrere Personen führen, erhalten eine Entschädigung für Nachteile bei der Haushaltsführung von 17 Euro je Stunde, wenn sie nicht erwerbstätig sind oder wenn sie teilzeitbeschäftigt sind und außerhalb ihrer vereinbarten regelmäßigen täglichen Arbeitszeit herangezogen werden. Zeugen, die ein Erwerbsersatzeinkommen beziehen, stehen erwerbstätigen Zeugen gleich. Die Entschädigung von Teilzeitbeschäftigten wird für höchstens zehn Stunden je Tag gewährt abzüglich der Zahl an Stunden, die der vereinbarten regelmäßigen täglichen Arbeitszeit entspricht. Die Entschädigung wird nicht gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 
-
-## § 22 – Entschädigung für Verdienstausfall
+# § 22 – Entschädigung für Verdienstausfall
 
 Zeugen, denen ein Verdienstausfall entsteht, erhalten eine Entschädigung, die sich nach dem regelmäßigen Bruttoverdienst einschließlich der vom Arbeitgeber zu tragenden Sozialversicherungsbeiträge richtet und für jede Stunde höchstens 25 Euro beträgt. Gefangene, die keinen Verdienstausfall aus einem privatrechtlichen Arbeitsverhältnis haben, erhalten Ersatz in Höhe der entgangenen Zuwendung der Vollzugsbehörde.
 
-
-## § 23 – Entschädigung Dritter
+# § 23 – Entschädigung Dritter
 
 (1) Soweit von denjenigen, die Telekommunikationsdienste erbringen oder daran mitwirken (Telekommunikationsunternehmen), Anordnungen zur Überwachung der Telekommunikation umgesetzt oder Auskünfte erteilt werden, für die in der Anlage 3 zu diesem Gesetz besondere Entschädigungen bestimmt sind, bemisst sich die Entschädigung ausschließlich nach dieser Anlage.
 
@@ -551,23 +521,19 @@ Die Investitionssumme und die verbrauchte CPU-Zeit sind glaubhaft zu machen.
 
 (4) Der eigenen elektronischen Datenverarbeitungsanlage steht eine fremde gleich, wenn die durch die Auskunftserteilung entstandenen direkt zurechenbaren Kosten (§ 7) nicht sicher feststellbar sind.
 
-
-## § 24 – Übergangsvorschrift
+# § 24 – Übergangsvorschrift
 
 Die Vergütung und die Entschädigung sind nach bisherigem Recht zu berechnen, wenn der Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem Inkrafttreten einer Gesetzesänderung erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden ist. Dies gilt auch, wenn Vorschriften geändert werden, auf die dieses Gesetz verweist.
 
-
-## § 25 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+# § 25 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
 
 Das Gesetz über die Entschädigung der ehrenamtlichen Richter in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1753), zuletzt geändert durch Artikel 1 Abs. 4 des Gesetzes vom 22. Februar 2002 (BGBl. I S. 981), und das Gesetz über die Entschädigung von Zeugen und Sachverständigen in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1756), zuletzt geändert durch Artikel 1 Abs. 5 des Gesetzes vom 22. Februar 2002 (BGBl. I S. 981), sowie Verweisungen auf diese Gesetze sind weiter anzuwenden, wenn der Auftrag an den Sachverständigen, Dolmetscher oder Übersetzer vor dem 1. Juli 2004 erteilt oder der Berechtigte vor diesem Zeitpunkt herangezogen worden ist. Satz 1 gilt für Heranziehungen vor dem 1. Juli 2004 auch dann, wenn der Berechtigte in derselben Rechtssache auch nach dem 1. Juli 2004 herangezogen worden ist.
 
-
-## Anlage 1 – (zu § 9 Absatz 1 Satz 1)
+# Anlage 1 – (zu § 9 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2020, 3241 - 3244)
 
-
-## Anlage 2 – (zu § 10 Absatz 1 Satz 1)
+# Anlage 2 – (zu § 10 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2020, 3244 - 3247)
 
@@ -581,9 +547,7 @@ Abschnitt 1
 Leichenschau und Obduktion
 
 Vorbemerkung 1:  
- (1) Das Honorar in den Fällen der Nummern 100 und 102 bis 107 umfasst den zur Niederschrift gegebenen Bericht. In den Fällen der Nummern 102 bis 107 umfasst das Honorar auch das vorläufige Gutachten. Das Honorar nach den Nummern 102 bis 107 erhält jeder Obduzent gesondert.  
- (2) Aufwendungen für die Nutzung fremder Kühlzellen, Sektionssäle oder sonstiger Einrichtungen werden bis zu einem Betrag von 300 € gesondert erstattet, wenn die Nutzung wegen der großen Entfernung zwischen dem Fundort der Leiche und dem rechtsmedizinischen Institut geboten ist.  
- (3) Eine bildgebende Diagnostik, die über das klassische Röntgen hinausgeht, wird in den Fällen der Nummern 100 und 102 bis 107 gesondert vergütet, wenn sie von der heranziehenden Stelle besonders angeordnet wurde und Säuglinge, Arbeits- oder Verkehrsunfallopfer, Fälle von Behandlungsfehlervorwürfen oder Verstorbene nach äußerer Gewalteinwirkung betrifft.
+ (1) Das Honorar in den Fällen der Nummern 100 und 102 bis 107 umfasst den zur Niederschrift gegebenen Bericht. In den Fällen der Nummern 102 bis 107 umfasst das Honorar auch das vorläufige Gutachten. Das Honorar nach den Nummern 102 bis 107 erhält jeder Obduzent gesondert.  (2) Aufwendungen für die Nutzung fremder Kühlzellen, Sektionssäle oder sonstiger Einrichtungen werden bis zu einem Betrag von 300 € gesondert erstattet, wenn die Nutzung wegen der großen Entfernung zwischen dem Fundort der Leiche und dem rechtsmedizinischen Institut geboten ist.  (3) Eine bildgebende Diagnostik, die über das klassische Röntgen hinausgeht, wird in den Fällen der Nummern 100 und 102 bis 107 gesondert vergütet, wenn sie von der heranziehenden Stelle besonders angeordnet wurde und Säuglinge, Arbeits- oder Verkehrsunfallopfer, Fälle von Behandlungsfehlervorwürfen oder Verstorbene nach äußerer Gewalteinwirkung betrifft.
 
 100
 
@@ -878,8 +842,7 @@ Abschnitt 4
 Abstammungsgutachten
 
 Vorbemerkung 4:  
- (1) Das Honorar umfasst die gesamte Tätigkeit des Sachverständigen einschließlich aller Aufwendungen mit Ausnahme der Umsatzsteuer und mit Ausnahme der Auslagen für Probenentnahmen durch vom Sachverständigen beauftragte Personen, soweit nichts anderes bestimmt ist. Das Honorar umfasst ferner den Aufwand für die Anfertigung des schriftlichen Gutachtens und von drei Überstücken.  
- (2) Das Honorar für Leistungen der in Abschnitt M III 13 des Gebührenverzeichnisses für ärztliche Leistungen (Anlage zur GOÄ) bezeichneten Art bemisst sich in entsprechender Anwendung dieses Gebührenverzeichnisses nach dem 1,15fachen Gebührensatz. § 4 Abs. 2 Satz 1, Abs. 2a Satz 1, Abs. 3 und 4 Satz 1 und § 10 GOÄ gelten entsprechend.
+ (1) Das Honorar umfasst die gesamte Tätigkeit des Sachverständigen einschließlich aller Aufwendungen mit Ausnahme der Umsatzsteuer und mit Ausnahme der Auslagen für Probenentnahmen durch vom Sachverständigen beauftragte Personen, soweit nichts anderes bestimmt ist. Das Honorar umfasst ferner den Aufwand für die Anfertigung des schriftlichen Gutachtens und von drei Überstücken.  (2) Das Honorar für Leistungen der in Abschnitt M III 13 des Gebührenverzeichnisses für ärztliche Leistungen (Anlage zur GOÄ) bezeichneten Art bemisst sich in entsprechender Anwendung dieses Gebührenverzeichnisses nach dem 1,15fachen Gebührensatz. § 4 Abs. 2 Satz 1, Abs. 2a Satz 1, Abs. 3 und 4 Satz 1 und § 10 GOÄ gelten entsprechend.
 
 400
 
@@ -891,8 +854,7 @@ Erstellung eines Gutachtens ..........
 
  Das Honorar umfasst  
 1. die administrative Abwicklung, insbesondere die Organisation der Probenentnahmen, und  
-2. das schriftliche Gutachten, erforderlichenfalls mit biostatistischer Auswertung.  
-
+2. das schriftliche Gutachten, erforderlichenfalls mit biostatistischer Auswertung. 
  
 
 401
@@ -1001,8 +963,7 @@ je Person ..........
  bis zu  
  140,00 €
 
-
-## Anlage 3 – (zu § 23 Abs. 1)
+# Anlage 3 – (zu § 23 Abs. 1)
 
 (Fundstelle: BGBl. I 2009, 995 - 997;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1016,18 +977,14 @@ Tätigkeit
 Höhe
 
 Allgemeine Vorbemerkung:  
- (1) Die Entschädigung nach dieser Anlage schließt alle mit der Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende sonstige Aufwendungen (§ 7 JVEG) ein.  
- (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Bundesland oder für mehrere Bundesländer zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 321 und 400 bis 402 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen worden ist, dass es sich bei der anfordernden Stelle um eine zentrale Kontaktstelle handelt.
+ (1) Die Entschädigung nach dieser Anlage schließt alle mit der Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende sonstige Aufwendungen (§ 7 JVEG) ein.  (2) Für Leistungen, die die Strafverfolgungsbehörden über eine zentrale Kontaktstelle des Generalbundesanwalts, des Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder über entsprechende für ein Bundesland oder für mehrere Bundesländer zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 321 und 400 bis 402 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen worden ist, dass es sich bei der anfordernden Stelle um eine zentrale Kontaktstelle handelt.
 
   
 Abschnitt 1  
 Überwachung der Telekommunikation  
 
 Vorbemerkung 1:  
-  (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen der berechtigten Stellen entsprechend.  
-  (2) Leitungskosten werden nur entschädigt, wenn die betreffende Leitung innerhalb des Überwachungszeitraums mindestens einmal zur Übermittlung überwachter Telekommunikation an die Strafverfolgungsbehörde genutzt worden ist.  
-  (3) Für die Überwachung eines Voice-over-IP-Anschlusses oder eines Zugangs zu einem elektronischen Postfach richtet sich die Entschädigung für die Leitungskosten nach den Nummern 102 bis 104. Dies gilt auch für die Überwachung eines Mobilfunkanschlusses, es sei denn, dass auch die Überwachung des über diesen Anschluss abgewickelten Datenverkehrs angeordnet worden ist und für die Übermittlung von Daten Leitungen mit Übertragungsgeschwindigkeiten von mehr als 144 kbit/s genutzt werden müssen und auch genutzt worden sind. In diesem Fall richtet sich die Entschädigung einheitlich nach den Nummern 111 bis 113.  
-
+  (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und Auswertungseinrichtungen der berechtigten Stellen entsprechend.   (2) Leitungskosten werden nur entschädigt, wenn die betreffende Leitung innerhalb des Überwachungszeitraums mindestens einmal zur Übermittlung überwachter Telekommunikation an die Strafverfolgungsbehörde genutzt worden ist.   (3) Für die Überwachung eines Voice-over-IP-Anschlusses oder eines Zugangs zu einem elektronischen Postfach richtet sich die Entschädigung für die Leitungskosten nach den Nummern 102 bis 104. Dies gilt auch für die Überwachung eines Mobilfunkanschlusses, es sei denn, dass auch die Überwachung des über diesen Anschluss abgewickelten Datenverkehrs angeordnet worden ist und für die Übermittlung von Daten Leitungen mit Übertragungsgeschwindigkeiten von mehr als 144 kbit/s genutzt werden müssen und auch genutzt worden sind. In diesem Fall richtet sich die Entschädigung einheitlich nach den Nummern 111 bis 113. 
 100
 
 Umsetzung einer Anordnung zur Überwachung der Telekommunikation, unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:  

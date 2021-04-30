@@ -1,15 +1,11 @@
-# [MolkMeistPrV] Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Molkereifachmann/Molkereifachfrau
-
-Ausfertigungsdatum: 27.05.1994
-
+% Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Molkereifachmann/Molkereifachfrau
+% Ausfertigungsdatum: 27.05.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der Prüfungsteilnehmer die notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, folgende Aufgaben eines Molkereimeisters als Fach- und Führungskraft in einem milchwirtschaftlichen Betrieb wahrzunehmen:
 
@@ -21,8 +17,7 @@ Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß Molkereimeister/Molkereimeisterin.
 
-
-## § 1a – Zulassungsvoraussetzungen zur Meisterprüfung
+# § 1a – Zulassungsvoraussetzungen zur Meisterprüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -38,8 +33,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 2 – Gliederung der Meisterprüfung
+# § 2 – Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfaßt die Teile
 
@@ -53,8 +47,7 @@ nachweist.
 
 (3) Die Prüfungsaufgaben sollen sich auf betriebliche Situationen beziehen.
 
-
-## § 3 – Prüfungsanforderungen im Teil "Produktions- und Verfahrenstechnik"
+# § 3 – Prüfungsanforderungen im Teil "Produktions- und Verfahrenstechnik"
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er die Be- und Verarbeitung von Milch sowie die Herstellung von Milchprodukten einschließlich des damit verbundenen Einsatzes von Maschinen, technischen Einrichtungen, Gebäuden und Betriebsmitteln planen, durchführen und beurteilen kann. Hierbei soll er zeigen, daß er die Be- und Verarbeitung sowie die Herstellung qualitätsorientiert, kostengünstig und unter Berücksichtigung rechtlicher Bestimmungen sowie der Erfordernisse der rationellen Energieverwendung und des Umweltschutzes durchführen kann.
 
@@ -90,8 +83,7 @@ nachweist.
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als vier Stunden dauern.
 
-
-## § 4 – Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+# § 4 – Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsvorschläge machen kann.
 
@@ -125,8 +117,7 @@ nachweist.
 
 (5) Bei der Lösung der betriebsbezogenen Situationsaufgabe soll der Prüfungsteilnehmer anhand von praxisnahen Fällen nachweisen, daß er die wirtschaftlichen, rechtlichen und sozialen Zusammenhänge im Betrieb erkennen, analysieren und beurteilen kann. Die Ergebnisse sind in einer unter Aufsicht anzufertigenden schriftlichen Arbeit darzustellen und in einem Prüfungsgespräch zu erläutern. Für die betriebsbezogene Situationsaufgabe stehen bis zu sechs Stunden zur Verfügung. Das Prüfungsgespräch soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
-## § 5 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+# § 5 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter führen kann sowie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
@@ -242,13 +233,11 @@ nachweist.
 
 (12) In der Fallstudie soll der Prüfling eine vom Prüfungsausschuss vorgegebene Situation der Mitarbeiterführung, die sich auf die in den Absätzen 7 und 8 aufgeführten Kompetenzen bezieht, analysieren, Handlungsoptionen entwickeln, schriftlich darlegen und diese in einem Fachgespräch erläutern. Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das darauf aufbauende Fachgespräch soll nicht länger als 20 Minuten dauern.
 
-
-## § 6 – Anrechnung anderer Prüfungsleistungen
+# § 6 – Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile nach § 3 Abs. 3, § 4 Abs. 3 und § 5 Absatz 9 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
-
-## § 7 – Bestehen der Meisterprüfung
+# § 7 – Bestehen der Meisterprüfung
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil "Produktions- und Verfahrenstechnik" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 3 Abs. 4 und in der Prüfung gemäß § 3 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 3 Abs. 4 das doppelte Gewicht. Für den Teil "Betriebs- und Unternehmensführung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 4 Abs. 4 und in der Prüfung gemäß § 4 Abs. 5 zu bilden. Für den Teil „Berufsausbildung und Mitarbeiterführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in den Prüfungen nach § 5 Absatz 10 und 11 im Abschnitt Berufsausbildung sowie der Leistung in der Prüfung nach § 5 Absatz 12 im Abschnitt Mitarbeiterführung zu bilden, dabei ist die Note für den Abschnitt Berufsausbildung mit 60 Prozent und die Note für den Abschnitt Mitarbeiterführung mit 40 Prozent zu gewichten. Die Note für den Abschnitt Berufsausbildung ist als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 5 Absatz 10 und in der Prüfung nach § 5 Absatz 11 zu bilden; dabei hat die Note in der Prüfung nach § 5 Absatz 10 das doppelte Gewicht.
 
@@ -258,21 +247,18 @@ Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfung
 
 (4) Die Prüfungen nach § 3 Absatz 5, § 4 Absatz 4 und § 5 Absatz 11 sind jeweils durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die Ergänzungsprüfung soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung des Ergebnisses sind jeweils die bisherige Note der Prüfung und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 8 – Wiederholung der Prüfung
+# § 8 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag von der Prüfung in einzelnen Prüfungsteilen und in den einzelnen Prüfungen gemäß § 7 Abs. 1 zu befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note "ausreichend" bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nichtbestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 9 – Übergangsvorschriften
+# § 9 – Übergangsvorschriften
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 
 (2) Prüfungsteilnehmer, die die Prüfung nach den bis zum 28. Mai 2014 geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem 29. Mai 2014 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den am 28. Mai 2014 geltenden Vorschriften ablegen.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

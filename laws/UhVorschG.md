@@ -1,10 +1,7 @@
-# [UhVorschG] Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen  (Unterhaltsvorschussgesetz)
-
-Ausfertigungsdatum: 23.07.1979
-
+% Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen  (Unterhaltsvorschussgesetz)
+% Ausfertigungsdatum: 23.07.1979
  
-
-## § 1 – Berechtigte
+# § 1 – Berechtigte
 
 (1) Anspruch auf Unterhaltsvorschuss oder -ausfallleistung nach diesem Gesetz (Unterhaltsleistung) hat, wer
 
@@ -54,8 +51,7 @@ Abweichend von Satz 1 Nummer 3 erste Alternative ist ein minderjähriger nicht f
 
 (4) Anspruch auf Unterhaltsleistung nach diesem Gesetz besteht nicht für Monate, für die der andere Elternteil seine Unterhaltspflicht gegenüber dem Berechtigten durch Vorausleistung erfüllt hat. Soweit der Bedarf eines Kindes durch Leistungen nach dem Achten Buch Sozialgesetzbuch gedeckt ist, besteht kein Anspruch auf Unterhaltsleistung nach diesem Gesetz.
 
-
-## § 2 – Umfang der Unterhaltsleistung
+# § 2 – Umfang der Unterhaltsleistung
 
 (1) Die Unterhaltsleistung wird monatlich in Höhe des sich nach § 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 des Bürgerlichen Gesetzbuchs ergebenden monatlichen Mindestunterhalts gezahlt. § 1612a Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend. Liegen die Voraussetzungen des § 1 nur für den Teil eines Monats vor, wird die Unterhaltsleistung anteilig gezahlt.
 
@@ -69,16 +65,13 @@ Abweichend von Satz 1 Nummer 3 erste Alternative ist ein minderjähriger nicht f
 
 (4) Für Berechtigte, die keine allgemeinbildende Schule mehr besuchen, mindert sich die nach den Absätzen 1 bis 3 ergebende Unterhaltsleistung, soweit ihre in demselben Monat erzielten Einkünfte des Vermögens und der Ertrag ihrer zumutbaren Arbeit zum Unterhalt ausreichen. Als Ertrag der zumutbaren Arbeit des Berechtigten aus nichtselbstständiger Arbeit gelten die Einnahmen in Geld entsprechend der für die maßgeblichen Monate erstellten Lohn- und Gehaltsbescheinigungen des Arbeitgebers abzüglich eines Zwölftels des Arbeitnehmer-Pauschbetrags; bei Auszubildenden sind zusätzlich pauschal 100 Euro als ausbildungsbedingter Aufwand abzuziehen. Einkünfte und Erträge nach den Sätzen 1 und 2 sind nur zur Hälfte zu berücksichtigen.
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Beschränkte Rückwirkung
+# § 4 – Beschränkte Rückwirkung
 
 Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor dem Monat gezahlt, in dem der Antrag hierauf bei der zuständigen Stelle oder bei einer der in § 16 Abs. 2 Satz 1 des Ersten Buches Sozialgesetzbuch bezeichneten Stellen eingegangen ist; dies gilt nicht, soweit es an zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1 Abs. 1 Nr. 3 bezeichneten Elternteil zu Unterhaltszahlungen zu veranlassen.
 
-
-## § 5 – Ersatz- und Rückzahlungspflicht
+# § 5 – Ersatz- und Rückzahlungspflicht
 
 (1) Haben die Voraussetzungen für die Zahlung der Unterhaltsleistung in dem Kalendermonat, für den sie gezahlt worden ist, nicht oder nicht durchgehend vorgelegen, so hat der Elternteil, bei dem der Berechtigte lebt, oder der gesetzliche Vertreter des Berechtigten den geleisteten Betrag insoweit zu ersetzen, als er
 
@@ -88,8 +81,7 @@ Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor d
 
 (2) Haben die Voraussetzungen für die Zahlung der Unterhaltsleistung in dem Kalendermonat, für den sie gezahlt worden ist, nicht vorgelegen, weil der Berechtigte nach Stellung des Antrages auf Unterhaltsleistungen Einkommen im Sinne des § 2 Absatz 3 oder Einkünfte und Erträge im Sinne des § 2 Absatz 4 erzielt hat, die bei der Bewilligung der Unterhaltsleistung nicht berücksichtigt worden sind, so hat der Berechtigte insoweit den geleisteten Betrag zurückzuzahlen.
 
-
-## § 6 – Auskunfts- und Anzeigepflicht
+# § 6 – Auskunfts- und Anzeigepflicht
 
 (1) Der Elternteil, bei dem der Berechtigte nicht lebt, ist verpflichtet, der zuständigen Stelle auf Verlangen die Auskünfte zu erteilen, die zur Durchführung dieses Gesetzes erforderlich sind. Der Elternteil muss insbesondere darlegen, dass er seiner aufgrund der Minderjährigkeit des Berechtigten erhöhten Leistungsverpflichtung vollständig nachkommt.
 
@@ -105,8 +97,7 @@ Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor d
 
 (7) Die zuständige Stelle ist auf Antrag des Elternteils, bei dem der Berechtigte lebt, nach Maßgabe des § 74 Absatz 1 Satz 1 Nummer 2 Buchstabe a des Zehnten Buches Sozialgesetzbuch verpflichtet, ihm die in den Absätzen 1, 2 und 6 genannten Auskünfte zu übermitteln.
 
-
-## § 7 – Übergang von Ansprüchen des Berechtigten
+# § 7 – Übergang von Ansprüchen des Berechtigten
 
 (1) Hat der Berechtigte für die Zeit, für die ihm die Unterhaltsleistung nach diesem Gesetz gezahlt wird, einen Unterhaltsanspruch gegen den Elternteil, bei dem er nicht lebt, oder einen Anspruch auf eine sonstige Leistung, die bei rechtzeitiger Gewährung nach § 2 Abs. 3 als Einkommen anzurechnen wäre, so geht dieser Anspruch in Höhe der Unterhaltsleistung nach diesem Gesetz zusammen mit dem unterhaltsrechtlichen Auskunftsanspruch auf das Land über. Satz 1 gilt nicht, soweit ein Erstattungsanspruch nach den §§ 102 bis 105 des Zehnten Buches Sozialgesetzbuch besteht.
 
@@ -122,20 +113,17 @@ Die Unterhaltsleistung wird rückwirkend längstens für den letzten Monat vor d
 
 (5) Betreibt das Land die Zwangsvollstreckung aus einem Vollstreckungsbescheid, ist zum Nachweis des nach Absatz 1 übergegangenen Unterhaltsanspruchs dem Vollstreckungsantrag der Bescheid gemäß § 9 Absatz 2 beizufügen.
 
-
-## § 7a – Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit
+# § 7a – Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit
 
 Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und über kein eigenes Einkommen im Sinne von § 11 Absatz 1 Satz 1 des Zweiten Buches Sozialgesetzbuch verfügt, wird der nach § 7 übergegangene Unterhaltsanspruch nicht verfolgt.
 
-
-## § 8 – Aufbringung der Mittel
+# § 8 – Aufbringung der Mittel
 
 (1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden zu 40 Prozent vom Bund, im Übrigen von den Ländern getragen. Eine angemessene Aufteilung der nicht vom Bund zu zahlenden Geldleistungen auf Länder und Gemeinden liegt in der Befugnis der Länder.
 
 (2) Die nach § 7 eingezogenen Beträge führen die Länder zu 40 Prozent an den Bund ab.
 
-
-## § 9 – Verfahren und Zahlungsweise
+# § 9 – Verfahren und Zahlungsweise
 
 (1) Über die Zahlung der Unterhaltsleistung wird auf schriftlichen Antrag des Elternteils, bei dem der Berechtigte lebt, oder des gesetzlichen Vertreters des Berechtigten entschieden. Der Antrag soll an die durch Landesrecht bestimmte Stelle, in deren Bezirk der Berechtigte seinen Wohnsitz hat, gerichtet werden.
 
@@ -143,8 +131,7 @@ Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem 
 
 (3) Die Unterhaltsleistung ist monatlich im Voraus zu zahlen. Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5 Euro werden nicht geleistet.
 
-
-## § 10 – Bußgeldvorschriften
+# § 10 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -156,29 +143,24 @@ Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen nach dem 
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die durch Landesrecht bestimmte Stelle.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung ist in Fällen, in denen die Entscheidung über den Anspruch auf Unterhaltsvorschuss für Monate in dem Zeitraum zwischen dem 1. Januar 1994 und dem 18. Dezember 2006 noch nicht bestandskräftig geworden ist, anzuwenden, wenn dies für den Antragsteller günstiger ist. In diesem Fall werden die Aufenthaltsgenehmigungen nach dem Ausländergesetz den Aufenthaltstiteln nach dem Aufenthaltsgesetz entsprechend den Fortgeltungsregelungen in § 101 des Aufenthaltsgesetzes gleichgestellt.
 
 (2) § 1 Absatz 2a Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29. Februar 2020 beginnen. § 1 Absatz 2a Satz 1 Nummer 5 in der Fassung des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen.
 
-
-## § 11a – Anwendungsvorschrift
+# § 11a – Anwendungsvorschrift
 
 Im Sinne dieses Gesetzes beträgt für die Zeit vom 1. Januar 2015 bis zum 30. Juni 2015 die Unterhaltsleistung nach § 2 Absatz 1 Satz 1 monatlich 317 Euro für ein Kind, das das sechste Lebensjahr noch nicht vollendet hat, und monatlich 364 Euro für ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat. Für die Zeit vom 1. Juli 2015 bis zum 31. Dezember 2015 beträgt die Unterhaltsleistung nach § 2 Absatz 1 Satz 1 monatlich 328 Euro für ein Kind, das das sechste Lebensjahr noch nicht vollendet hat, und monatlich 376 Euro für ein Kind, das das zwölfte Lebensjahr noch nicht vollendet hat. Bis zum 31. Dezember 2015 gilt als für ein erstes Kind zu zahlendes Kindergeld im Sinne von § 2 Absatz 2 Satz 1 ein Betrag in Höhe von monatlich 184 Euro.
 
-
-## § 12 – Bericht
+# § 12 – Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2018 einen Bericht über die Wirkung der Reform, die am 1. Juli 2017 in Kraft getreten ist, vor. Der Bericht darf keine personenbezogenen Daten enthalten.
 
-
-## § 12a – (Gegenstandslose Übergangsvorschrift)
+# § 12a – (Gegenstandslose Übergangsvorschrift)
 
 \-
 
-
-## § 13 – (weggefallen)
+# § 13 – (weggefallen)
 
 \-

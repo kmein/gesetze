@@ -1,15 +1,11 @@
-# [ProdSG] Gesetz über die Bereitstellung von Produkten auf dem Markt  (Produktsicherheitsgesetz - ProdSG)
-
-Ausfertigungsdatum: 08.11.2011
-
+% Gesetz über die Bereitstellung von Produkten auf dem Markt  (Produktsicherheitsgesetz - ProdSG)
+% Ausfertigungsdatum: 08.11.2011
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Anlage  Gestaltung des GS-Zeichens
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt, wenn im Rahmen einer Geschäftstätigkeit Produkte auf dem Markt bereitgestellt, ausgestellt oder erstmals verwendet werden.
 
@@ -41,8 +37,7 @@ Satz 1 Nummer 2 und 5 gilt nicht für die Vorschriften in Abschnitt 9 dieses Ges
 
 (4) Die Vorschriften dieses Gesetzes gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Vorschriften vorgesehen sind. Satz 1 gilt nicht für die Vorschriften in Abschnitt 9 dieses Gesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -151,8 +146,7 @@ Zu den überwachungsbedürftigen Anlagen gehören auch Mess-, Steuer- und Regele
 (+++ § 2: Zur Anwendung vgl. § 2 ProdSG2011V 6 +++)  
 (+++ § 2: Zur Anwendung vgl. § 2 ProdSG2011V 12 +++)
 
-
-## § 3 – Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt
+# § 3 – Allgemeine Anforderungen an die Bereitstellung von Produkten auf dem Markt
 
 (1) Soweit ein Produkt einer oder mehreren Rechtsverordnungen nach § 8 Absatz 1 unterliegt, darf es nur auf dem Markt bereitgestellt werden, wenn es
 
@@ -178,8 +172,7 @@ Die Möglichkeit, einen höheren Sicherheitsgrad zu erreichen, oder die Verfügb
 
 (5) Ein Produkt, das die Anforderungen nach Absatz 1 oder Absatz 2 nicht erfüllt, darf ausgestellt werden, wenn der Aussteller deutlich darauf hinweist, dass es diese Anforderungen nicht erfüllt und erst erworben werden kann, wenn die entsprechende Übereinstimmung hergestellt ist. Bei einer Vorführung sind die erforderlichen Vorkehrungen zum Schutz der Sicherheit und Gesundheit von Personen zu treffen.
 
-
-## § 4 – Harmonisierte Normen
+# § 4 – Harmonisierte Normen
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3 Absatz 1 oder Absatz 2 entspricht, können harmonisierte Normen zugrunde gelegt werden.
 
@@ -187,8 +180,7 @@ Die Möglichkeit, einen höheren Sicherheitsgrad zu erreichen, oder die Verfügb
 
 (3) Ist die Marktüberwachungsbehörde der Auffassung, dass eine harmonisierte Norm den von ihr abgedeckten Anforderungen nach § 3 Absatz 1 oder Absatz 2 nicht vollständig entspricht, so unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit; sie beteiligt den Ausschuss für Produktsicherheit. Sie leitet die Meldungen dem zuständigen Bundesressort zu.
 
-
-## § 5 – Normen und andere technische Spezifikationen
+# § 5 – Normen und andere technische Spezifikationen
 
 (1) Bei der Beurteilung, ob ein Produkt den Anforderungen nach § 3 Absatz 2 entspricht, können Normen und andere technische Spezifikationen zugrunde gelegt werden.
 
@@ -196,8 +188,7 @@ Die Möglichkeit, einen höheren Sicherheitsgrad zu erreichen, oder die Verfügb
 
 (3) Ist die Marktüberwachungsbehörde der Auffassung, dass eine Norm oder andere technische Spezifikation den von ihr abgedeckten Anforderungen nach § 3 Absatz 2 nicht vollständig entspricht, so unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Diese informiert den Ausschuss für Produktsicherheit.
 
-
-## § 6 – Zusätzliche Anforderungen an die Bereitstellung von Verbraucherprodukten auf dem Markt
+# § 6 – Zusätzliche Anforderungen an die Bereitstellung von Verbraucherprodukten auf dem Markt
 
 (1) Der Hersteller, sein Bevollmächtigter und der Einführer haben jeweils im Rahmen ihrer Geschäftstätigkeit bei der Bereitstellung eines Verbraucherprodukts auf dem Markt
 
@@ -225,8 +216,7 @@ Welche Stichproben geboten sind, hängt vom Grad des Risikos ab, das mit den Pro
 
 (5) Der Händler hat dazu beizutragen, dass nur sichere Verbraucherprodukte auf dem Markt bereitgestellt werden. Er darf insbesondere kein Verbraucherprodukt auf dem Markt bereitstellen, von dem er weiß oder auf Grund der ihm vorliegenden Informationen oder seiner Erfahrung wissen muss, dass es nicht den Anforderungen nach § 3 entspricht. Absatz 4 gilt für den Händler entsprechend.
 
-
-## § 7 – CE-Kennzeichnung
+# § 7 – CE-Kennzeichnung
 
 (1) Für die CE-Kennzeichnung gelten die allgemeinen Grundsätze nach Artikel 30 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30).
 
@@ -242,8 +232,7 @@ Welche Stichproben geboten sind, hängt vom Grad des Risikos ab, das mit den Pro
 
 (5) Die CE-Kennzeichnung muss angebracht werden, bevor das Produkt in den Verkehr gebracht wird. Nach der CE-Kennzeichnung und gegebenenfalls nach der Kennnummer kann ein Piktogramm oder ein anderes Zeichen stehen, das auf ein besonderes Risiko oder eine besondere Verwendung hinweist.
 
-
-## § 8 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 8 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Bundesministerien für Arbeit und Soziales, für Wirtschaft und Energie, für Ernährung und Landwirtschaft, für Umwelt, Naturschutz und nukleare Sicherheit, des Innern, für Bau und Heimat, für Verkehr und digitale Infrastruktur und der Verteidigung werden ermächtigt, jeweils für ihren Zuständigkeitsbereich im Einvernehmen mit den anderen zuvor genannten Bundesministerien für Produkte nach Anhörung des Ausschusses für Produktsicherheit und mit Zustimmung des Bundesrates Rechtsverordnungen zum Schutz der Sicherheit und Gesundheit von Personen, zum Schutz der Umwelt sowie sonstiger Rechtsgüter vor Risiken, die von Produkten ausgehen, zu erlassen, auch um Verpflichtungen aus zwischenstaatlichen Vereinbarungen zu erfüllen oder um die von der Europäischen Union erlassenen Rechtsvorschriften umzusetzen oder durchzuführen. Durch diese Rechtsverordnungen können geregelt werden:
 
@@ -271,8 +260,7 @@ sowie behördliche Maßnahmen und Zuständigkeiten, die sich auf die Anforderung
 
 (3) Rechtsverordnungen nach Absatz 1 oder Absatz 2 können in dringenden Fällen, insbesondere wenn es zur unverzüglichen Umsetzung oder Durchführung von Rechtsakten der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates erlassen werden; sie treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-
-## § 9 – Aufgaben der Befugnis erteilenden Behörde
+# § 9 – Aufgaben der Befugnis erteilenden Behörde
 
 (1) Die Befugnis erteilende Behörde erteilt Konformitätsbewertungsstellen auf Antrag die Befugnis, bestimmte Konformitätsbewertungstätigkeiten durchzuführen. Sie ist zuständig für die Einrichtung und Durchführung der dazu erforderlichen Verfahren. Sie ist auch zuständig für die Einrichtung und Durchführung der Verfahren, die zur Überwachung der Konformitätsbewertungsstellen erforderlich sind, denen sie die Befugnis zur Durchführung bestimmter Konformitätsbewertungstätigkeiten erteilt hat.
 
@@ -282,8 +270,7 @@ sowie behördliche Maßnahmen und Zuständigkeiten, die sich auf die Anforderung
 
 (4) Die Befugnis erteilende Behörde übermittelt der zuständigen Marktüberwachungsbehörde auf Anforderung die Informationen, die für deren Aufgabenerfüllung erforderlich sind.
 
-
-## § 10 – Anforderungen an die Befugnis erteilende Behörde
+# § 10 – Anforderungen an die Befugnis erteilende Behörde
 
 (1) Die Länder haben die Befugnis erteilende Behörde so einzurichten, dass es zu keinerlei Interessenkonflikt mit den Konformitätsbewertungsstellen kommt; insbesondere darf die Befugnis erteilende Behörde weder Tätigkeiten, die Konformitätsbewertungsstellen durchführen, noch Beratungsleistungen auf einer gewerblichen oder wettbewerblichen Basis anbieten oder erbringen.
 
@@ -291,15 +278,13 @@ sowie behördliche Maßnahmen und Zuständigkeiten, die sich auf die Anforderung
 
 (3) Der Befugnis erteilenden Behörde müssen kompetente Mitarbeiter in ausreichender Zahl zur Verfügung stehen, so dass sie ihre Aufgaben ordnungsgemäß wahrnehmen kann.
 
-
-## § 11 – Befugnisse der Befugnis erteilenden Behörde
+# § 11 – Befugnisse der Befugnis erteilenden Behörde
 
 (1) Die Befugnis erteilende Behörde kann von den Konformitätsbewertungsstellen, denen sie die Befugnis zur Durchführung bestimmter Konformitätsbewertungstätigkeiten erteilt hat, die zur Erfüllung ihrer Überwachungsaufgaben erforderlichen Auskünfte und sonstige Unterstützung verlangen sowie die dazu erforderlichen Anordnungen treffen. Die Befugnis erteilende Behörde ist insbesondere befugt zu verlangen, dass ihr die Unterlagen vorgelegt werden, die der Konformitätsbewertung zugrunde liegen. Sie und die von ihr beauftragten Personen sind befugt, zu den Betriebs- und Geschäftszeiten Betriebsgrundstücke und Geschäftsräume sowie Prüflaboratorien zu betreten und zu besichtigen, soweit dies zur Erfüllung ihrer Überwachungsaufgaben erforderlich ist.
 
 (2) Die Auskunftspflichtigen haben die Maßnahmen nach Absatz 1 zu dulden. Sie können die Auskunft auf Fragen verweigern, sofern die Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Sie sind über ihr Recht zur Auskunftsverweigerung zu belehren.
 
-
-## § 12 – Anträge auf Notifizierung
+# § 12 – Anträge auf Notifizierung
 
 (1) Eine Konformitätsbewertungsstelle kann bei der Befugnis erteilenden Behörde die Befugnis beantragen, als notifizierte Stelle tätig werden zu dürfen.
 
@@ -307,8 +292,7 @@ sowie behördliche Maßnahmen und Zuständigkeiten, die sich auf die Anforderung
 
 (3) Kann die Konformitätsbewertungsstelle keine Akkreditierungsurkunde vorweisen, legt sie der Befugnis erteilenden Behörde als Nachweis alle Unterlagen vor, die erforderlich sind, um überprüfen, feststellen und regelmäßig überwachen zu können, ob sie die Anforderungen des § 13 erfüllt.
 
-
-## § 13 – Anforderungen an die Konformitätsbewertungsstelle für ihre Notifizierung
+# § 13 – Anforderungen an die Konformitätsbewertungsstelle für ihre Notifizierung
 
 (1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit besitzen. Sie muss selbstständig Verträge abschließen, unbewegliches Vermögen erwerben und darüber verfügen können sowie vor Gericht klagen und verklagt werden können.
 
@@ -344,15 +328,13 @@ Die Konformitätsbewertungsstelle muss über die erforderlichen Mittel zur angem
 
 (9) Die Mitarbeiter der Konformitätsbewertungsstelle dürfen die ihnen im Rahmen einer Konformitätsbewertung bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse der Konformitätsbewertungsstelle oder eines Dritten liegt, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. Die von der Konformitätsbewertungsstelle zu beachtenden Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
-
-## § 14 – Konformitätsvermutung
+# § 14 – Konformitätsvermutung
 
 (1) Weist eine Konformitätsbewertungsstelle durch eine Akkreditierung nach, dass sie die Kriterien der einschlägigen harmonisierten Normen oder von Teilen dieser Normen erfüllt, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, wird vermutet, dass sie die Anforderungen nach § 13 in dem Umfang erfüllt, in dem die anwendbaren harmonisierten Normen diese Anforderungen abdecken.
 
 (2) Ist die Befugnis erteilende Behörde der Auffassung, dass eine harmonisierte Norm den von ihr abgedeckten Anforderungen nach § 13 nicht voll entspricht, so unterrichtet sie hiervon unter Angabe der Gründe die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit; sie beteiligt den Ausschuss für Produktsicherheit. Sie leitet die Meldungen dem Bundesministerium für Arbeit und Soziales zu.
 
-
-## § 15 – Notifizierungsverfahren, Erteilung der Befugnis
+# § 15 – Notifizierungsverfahren, Erteilung der Befugnis
 
 (1) Hat die Befugnis erteilende Behörde festgestellt, dass eine Konformitätsbewertungsstelle die Anforderungen nach § 13 erfüllt, so erteilt sie dieser die Befugnis, Konformitätsbewertungsaufgaben nach den Rechtsverordnungen nach § 8 Absatz 1, die erlassen wurden, um Rechtsvorschriften der Europäischen Union umzusetzen oder durchzuführen, wahrzunehmen, und notifiziert diese anschließend mit Hilfe des elektronischen Notifizierungsinstruments, das von der Europäischen Kommission entwickelt und verwaltet wird. Die Befugnis ist unter der aufschiebenden Bedingung zu erteilen, dass nach der Notifizierung
 
@@ -368,8 +350,7 @@ weder die Europäische Kommission noch die übrigen Mitgliedstaaten Einwände er
 
 (4) Die Befugnis erteilende Behörde erteilt der Europäischen Kommission auf Verlangen sämtliche Auskünfte über die Grundlage für die Notifizierung oder die Erhaltung der Kompetenz der betreffenden Stelle.
 
-
-## § 16 – Verpflichtungen der notifizierten Stelle
+# § 16 – Verpflichtungen der notifizierten Stelle
 
 (1) Die notifizierte Stelle führt die Konformitätsbewertung im Einklang mit den Konformitätsbewertungsverfahren gemäß den Rechtsverordnungen nach § 8 Absatz 1 und unter Wahrung der Verhältnismäßigkeit durch.
 
@@ -381,8 +362,7 @@ weder die Europäische Kommission noch die übrigen Mitgliedstaaten Einwände er
 
 (5) Die notifizierte Stelle hat an den einschlägigen Normungsaktivitäten und den Aktivitäten der Koordinierungsgruppe notifizierter Stellen, die im Rahmen der jeweiligen Harmonisierungsrechtsvorschriften der Europäischen Union geschaffen wurde, mitzuwirken oder dafür zu sorgen, dass ihr Konformitätsbewertungspersonal darüber informiert wird. Sie hat die von dieser Gruppe erarbeiteten Verwaltungsentscheidungen und Dokumente als allgemeine Leitlinie anzuwenden.
 
-
-## § 17 – Meldepflichten der notifizierten Stelle
+# § 17 – Meldepflichten der notifizierten Stelle
 
 (1) Die notifizierte Stelle meldet der Befugnis erteilenden Behörde
 
@@ -396,8 +376,7 @@ weder die Europäische Kommission noch die übrigen Mitgliedstaaten Einwände er
 
 (2) Die notifizierte Stelle übermittelt den anderen notifizierten Stellen, die unter der jeweiligen Harmonisierungsrechtsvorschrift der Europäischen Union notifiziert sind, ähnlichen Konformitätsbewertungstätigkeiten nachgehen und gleichartige Produkte abdecken, einschlägige Informationen über die negativen und auf Verlangen auch über die positiven Ergebnisse von Konformitätsbewertungen.
 
-
-## § 18 – Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
+# § 18 – Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
 
 (1) Vergibt die notifizierte Stelle bestimmte mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer oder überträgt sie diese Aufgaben einem Zweigunternehmen, stellt sie sicher, dass der Unterauftragnehmer oder das Zweigunternehmen die Anforderungen des § 13 erfüllt und unterrichtet die Befugnis erteilende Behörde entsprechend.
 
@@ -407,22 +386,19 @@ weder die Europäische Kommission noch die übrigen Mitgliedstaaten Einwände er
 
 (4) Die notifizierte Stelle hält die einschlägigen Unterlagen über die Begutachtung der Qualifikation des Unterauftragnehmers oder des Zweigunternehmens und über die von ihm gemäß den Rechtsverordnungen nach § 8 Absatz 1 ausgeführten Arbeiten für die Befugnis erteilende Behörde bereit.
 
-
-## § 19 – Widerruf der erteilten Befugnis
+# § 19 – Widerruf der erteilten Befugnis
 
 (1) Falls die Befugnis erteilende Behörde feststellt oder darüber unterrichtet wird, dass eine notifizierte Stelle die in § 13 genannten Anforderungen nicht mehr erfüllt oder dass sie ihren Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die erteilte Befugnis. Sie unterrichtet unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten darüber.
 
 (2) Im Falle des Widerrufs nach Absatz 1 oder wenn die notifizierte Stelle ihre Tätigkeit einstellt, ergreift die Befugnis erteilende Behörde die geeigneten Maßnahmen, um zu gewährleisten, dass die Akten dieser Stelle von einer anderen notifizierten Stelle weiterbearbeitet und für die Befugnis erteilende Behörde und die Marktüberwachungsbehörden auf deren Verlangen bereitgehalten werden.
 
-
-## § 20 – Zuerkennung des GS-Zeichens
+# § 20 – Zuerkennung des GS-Zeichens
 
 (1) Ein verwendungsfertiges Produkt darf mit dem GS-Zeichen gemäß Anlage versehen werden, wenn das Zeichen von einer GS-Stelle auf Antrag des Herstellers oder seines Bevollmächtigten zuerkannt worden ist.
 
 (2) Dies gilt nicht, wenn das verwendungsfertige Produkt mit der CE-Kennzeichnung versehen ist und die Anforderungen an diese CE-Kennzeichnung mit denen nach § 21 Absatz 1 mindestens gleichwertig sind.
 
-
-## § 21 – Pflichten der GS-Stelle
+# § 21 – Pflichten der GS-Stelle
 
 (1) Die GS-Stelle darf das GS-Zeichen nur zuerkennen, wenn
 
@@ -444,8 +420,7 @@ Die GS-Stelle hat zu dokumentieren, dass diese Anforderungen erfüllt sind.
 
 (5) Die GS-Stelle hat die Herstellung der verwendungsfertigen Produkte und die rechtmäßige Verwendung des GS-Zeichens mit geeigneten Maßnahmen zu überwachen. Sind die Anforderungen für die Zuerkennung des GS-Zeichens nachweislich nicht mehr erfüllt, hat die GS-Stelle die Zuerkennung zu entziehen. Sie unterrichtet die anderen GS-Stellen und die Befugnis erteilende Behörde vom Entzug der Zuerkennung. Die GS-Stelle kann die Zuerkennung aussetzen, sofern begründete Zweifel an der rechtmäßigen Zuerkennung des GS-Zeichens bestehen.
 
-
-## § 22 – Pflichten des Herstellers und des Einführers
+# § 22 – Pflichten des Herstellers und des Einführers
 
 (1) Der Hersteller hat dafür Sorge zu tragen, dass die von ihm hergestellten verwendungsfertigen Produkte mit dem geprüften Baumuster übereinstimmen. Er hat die Maßnahmen nach § 21 Absatz 5 zu dulden.
 
@@ -457,8 +432,7 @@ Die GS-Stelle hat zu dokumentieren, dass diese Anforderungen erfüllt sind.
 
 (5) Der Einführer darf ein Produkt, das das GS-Zeichen trägt, nur in den Verkehr bringen, wenn er zuvor geprüft hat, dass für das Produkt eine Bescheinigung nach § 21 Absatz 2 vorliegt. Er hat die Prüfung nach Satz 1 zu dokumentieren, bevor er das Produkt in den Verkehr bringt; die Dokumentation muss mindestens das Datum der Prüfung nach Satz 1, den Namen der GS-Stelle, die die Bescheinigung nach § 21 Absatz 2 ausgestellt hat, sowie die Nummer der Bescheinigung über die Zuerkennung des GS-Zeichens enthalten.
 
-
-## § 23 – GS-Stellen
+# § 23 – GS-Stellen
 
 (1) Eine Konformitätsbewertungsstelle kann bei der Befugnis erteilenden Behörde beantragen, als GS-Stelle für einen bestimmten Aufgabenbereich tätig werden zu dürfen. Das Verfahren zur Prüfung des Antrags kann nach den Vorschriften des Verwaltungsverfahrensgesetzes über eine einheitliche Stelle abgewickelt werden und muss innerhalb von sechs Monaten abgeschlossen sein. Die Frist beginnt mit Eingang der vollständigen Unterlagen. Die Befugnis erteilende Behörde kann diese Frist einmalig um höchstens drei Monate verlängern. Die Fristverlängerung ist ausreichend zu begründen und dem Antragsteller rechtzeitig mitzuteilen.
 
@@ -482,8 +456,7 @@ In dem Verwaltungsabkommen nach Satz 2 müssen geregelt sein:
 
 3. eine den Grundsätzen des § 9 entsprechende Überwachung der GS-Stelle.
 
-
-## § 24 – Zuständigkeiten und Zusammenarbeit
+# § 24 – Zuständigkeiten und Zusammenarbeit
 
 (1) Vorbehaltlich der Sätze 2 und 3 obliegt die Marktüberwachung den nach Landesrecht zuständigen Behörden. Zuständigkeiten zur Durchführung dieses Gesetzes, die durch andere Rechtsvorschriften zugewiesen sind, bleiben unberührt. Werden die Bestimmungen dieses Gesetzes nach Maßgabe des § 1 Absatz 4 ergänzend zu Bestimmungen in anderen Rechtsvorschriften angewendet, sind die für die Durchführung der anderen Rechtsvorschriften zuständigen Behörden auch für die Durchführung der Bestimmungen dieses Gesetzes zuständig, sofern nichts anderes vorgesehen ist. Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt die Marktüberwachung dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
@@ -491,8 +464,7 @@ In dem Verwaltungsabkommen nach Satz 2 müssen geregelt sein:
 
 (3) Die für die Kontrolle der Außengrenzen zuständigen Behörden und die Marktüberwachungsbehörden schützen im Rahmen des geltenden Rechts Betriebsgeheimnisse und personenbezogene Daten.
 
-
-## § 25 – Aufgaben der Marktüberwachungsbehörden
+# § 25 – Aufgaben der Marktüberwachungsbehörden
 
 (1) Die Marktüberwachungsbehörden haben eine wirksame Marktüberwachung auf der Grundlage eines Überwachungskonzepts zu gewährleisten. Das Überwachungskonzept soll insbesondere umfassen:
 
@@ -508,8 +480,7 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 (4) Die Marktüberwachungsbehörden leisten den Marktüberwachungsbehörden anderer Mitgliedstaaten im für deren Aufgabenerfüllung erforderlichen Umfang Amtshilfe. Dafür stellen sie hierfür erforderliche Informationen und Unterlagen bereit, führen geeignete Untersuchungen oder andere angemessene Maßnahmen durch und beteiligen sich an Untersuchungen, die in anderen Mitgliedstaaten eingeleitet wurden.
 
-
-## § 26 – Marktüberwachungsmaßnahmen
+# § 26 – Marktüberwachungsmaßnahmen
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob die Produkte die Anforderungen nach Abschnitt 2 oder nach anderen Rechtsvorschriften, bei denen nach § 1 Absatz 4 die Vorschriften dieses Gesetzes ergänzend zur Anwendung kommen, erfüllen. Dazu überprüfen sie die Unterlagen oder führen, wenn dies angezeigt ist, physische Kontrollen und Laborprüfungen durch. Sie gehen bei den Stichproben nach Satz 1 je Land von einem Richtwert von 0,5 Stichproben pro 1 000 Einwohner und Jahr aus; dies gilt nicht für Produkte, bei denen nach § 1 Absatz 4 die Vorschriften dieses Gesetzes ergänzend zur Anwendung kommen. Die Marktüberwachungsbehörden berücksichtigen die geltenden Grundsätze der Risikobewertung, eingegangene Beschwerden und sonstige Informationen.
 
@@ -539,15 +510,13 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 (5) Beschließt die Marktüberwachungsbehörde, ein Produkt vom Markt zu nehmen, das in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hergestellt wurde, setzt sie den betroffenen Wirtschaftsakteur nach Maßgabe des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 765/2008 davon in Kenntnis.
 
-
-## § 27 – Adressaten der Marktüberwachungsmaßnahmen
+# § 27 – Adressaten der Marktüberwachungsmaßnahmen
 
 (1) Die Maßnahmen der Marktüberwachungsbehörde sind gegen den jeweils betroffenen Wirtschaftsakteur oder Aussteller gerichtet. Maßnahmen gegen jede andere Person sind nur zulässig, solange ein gegenwärtiges ernstes Risiko nicht auf andere Weise abgewehrt werden kann. Entsteht der anderen Person durch die Maßnahme ein Schaden, so ist dieser zu ersetzen, es sei denn, die Person kann auf andere Weise Ersatz erlangen oder ihr Vermögen wird durch die Maßnahme geschützt.
 
 (2) Die nach Absatz 1 betroffene Person ist vor Erlass der Maßnahme nach § 28 des Verwaltungsverfahrensgesetzes anzuhören mit der Maßgabe, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass die betroffene Person angehört wurde, wird ihr so schnell wie möglich Gelegenheit gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend überprüft.
 
-
-## § 28 – Betretensrechte und Befugnisse
+# § 28 – Betretensrechte und Befugnisse
 
 (1) Die Marktüberwachungsbehörden und die von ihnen beauftragten Personen sind befugt, zu den Betriebs- und Geschäftszeiten Geschäftsräume und Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit Produkte
 
@@ -567,8 +536,7 @@ soweit dies zur Erfüllung ihrer Überwachungsaufgaben erforderlich ist. Sie sin
 
 (4) Die Wirtschaftsakteure und Aussteller haben jeweils Maßnahmen nach den Absätzen 1 und 2 zu dulden sowie die Marktüberwachungsbehörden und deren Beauftragte zu unterstützen. Die Wirtschaftsakteure, Aussteller und das in Absatz 3 Satz 1 genannte Personal sind verpflichtet, der Marktüberwachungsbehörde auf Verlangen die Auskünfte zu erteilen, die für deren Aufgabenerfüllung erforderlich sind. Die Auskunftspflichtigen können die Auskunft auf Fragen verweigern, wenn die Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Sie sind über ihr Recht zur Auskunftsverweigerung zu belehren.
 
-
-## § 29 – Unterstützungsverpflichtung, Meldeverfahren
+# § 29 – Unterstützungsverpflichtung, Meldeverfahren
 
 (1) Die Marktüberwachungsbehörden und die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin haben einander zu unterstützen und sich gegenseitig über Maßnahmen nach diesem Gesetz zu informieren.
 
@@ -578,8 +546,7 @@ soweit dies zur Erfüllung ihrer Überwachungsaufgaben erforderlich ist. Sie sin
 
 (4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unterrichtet die Marktüberwachungsbehörden sowie die zuständigen Bundesressorts über Meldungen der Europäischen Kommission oder eines anderen Mitgliedstaates der Europäischen Union.
 
-
-## § 30 – Schnellinformationssystem RAPEX
+# § 30 – Schnellinformationssystem RAPEX
 
 (1) Trifft die Marktüberwachungsbehörde eine Maßnahme nach § 26 Absatz 4 oder beabsichtigt sie dies, so unterrichtet sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unverzüglich über diese Maßnahme. Dabei gibt sie auch an, ob der Anlass für die Maßnahme außerhalb des Geltungsbereichs dieses Gesetzes liegt oder ob die Auswirkungen dieser Maßnahme über den Geltungsbereich dieses Gesetzes hinausreichen. Außerdem informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unverzüglich über Änderungen einer solchen Maßnahme oder ihre Rücknahme.
 
@@ -589,8 +556,7 @@ soweit dies zur Erfüllung ihrer Überwachungsaufgaben erforderlich ist. Sie sin
 
 (4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit. Sie leitet diese Meldungen unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu, wenn die Marktüberwachungsbehörde angegeben hat, dass der Anlass für die Maßnahme außerhalb des Geltungsbereichs dieses Gesetzes liegt oder dass die Auswirkungen dieser Maßnahme über den Geltungsbereich dieses Gesetzes hinausreichen. Für die Meldungen wird das System für Marktüberwachung und Informationsaustausch nach Artikel 12 der Richtlinie 2001/95/EG angewendet. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unterrichtet die Marktüberwachungsbehörden sowie die zuständigen Bundesressorts über Meldungen, die ihr über das System zugehen.
 
-
-## § 31 – Veröffentlichung von Informationen
+# § 31 – Veröffentlichung von Informationen
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin macht Anordnungen nach § 26 Absatz 2 Satz 2 Nummer 6, 7, 8 und 9 und Absatz 4, die unanfechtbar geworden sind oder deren sofortiger Vollzug angeordnet worden ist, öffentlich bekannt. Personenbezogene Daten dürfen nur veröffentlicht werden, wenn sie zur Identifizierung des Produkts erforderlich sind. Liegen die Voraussetzungen für die Veröffentlichung personenbezogener Daten nicht mehr vor, hat die Veröffentlichung zu unterbleiben. Bereits elektronisch veröffentlichte Daten sind unverzüglich zu entfernen, soweit dies technisch möglich ist.
 
@@ -618,8 +584,7 @@ Vor der Veröffentlichung ist der Betroffene anzuhören. Liegen die Voraussetzun
 
 2. der Betroffene dies beantragt.
 
-
-## § 32 – Aufgaben der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+# § 32 – Aufgaben der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 
 (1) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin ermittelt und bewertet im Rahmen ihres allgemeinen Forschungsauftrags präventiv Sicherheitsrisiken und gesundheitliche Risiken, die mit der Verwendung von Produkten verbunden sind und macht Vorschläge zu ihrer Verringerung.
 
@@ -629,8 +594,7 @@ Vor der Veröffentlichung ist der Betroffene anzuhören. Liegen die Voraussetzun
 
 (4) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unterstützt die Marktüberwachungsbehörden bei der Entwicklung und Durchführung des Überwachungskonzepts nach § 25 Absatz 1, insbesondere indem sie festgestellte Mängel in der Beschaffenheit von Produkten wissenschaftlich auswertet. Sie unterrichtet die Marktüberwachungsbehörden sowie den Ausschuss für Produktsicherheit regelmäßig über den Stand der Erkenntnisse und veröffentlicht die gewonnenen Erkenntnisse regelmäßig in dem von ihr betriebenen zentralen Produktsicherheitsportal. Die Vorschriften über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten für Zwecke der wissenschaftlichen Forschung bleiben unberührt.
 
-
-## § 33 – Ausschuss für Produktsicherheit
+# § 33 – Ausschuss für Produktsicherheit
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Produktsicherheit eingesetzt.
 
@@ -652,8 +616,7 @@ Vor der Veröffentlichung ist der Betroffene anzuhören. Liegen die Voraussetzun
 
 (6) Die Geschäfte des Ausschusses führt die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin.
 
-
-## § 34 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 34 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Zum Schutz der Beschäftigten und Dritter vor Gefahren durch Anlagen, die mit Rücksicht auf ihre Gefährlichkeit einer besonderen Überwachung bedürfen (überwachungsbedürftige Anlagen), wird die Bundesregierung ermächtigt, nach Anhörung der beteiligten Kreise mit Zustimmung des Bundesrates durch Rechtsverordnung zu bestimmen,
 
@@ -673,8 +636,7 @@ Vor der Veröffentlichung ist der Betroffene anzuhören. Liegen die Voraussetzun
 
 (4) Eine Erlaubnis nach einer Rechtsverordnung nach Absatz 1 Nummer 2 erlischt, wenn der Inhaber innerhalb von zwei Jahren nach ihrer Erteilung nicht mit der Errichtung der Anlage begonnen, die Bauausführung zwei Jahre unterbrochen oder die Anlage während eines Zeitraumes von drei Jahren nicht betrieben hat. Die Fristen können aus wichtigem Grund von der Erlaubnisbehörde auf Antrag verlängert werden.
 
-
-## § 35 – Befugnisse der zuständigen Behörde
+# § 35 – Befugnisse der zuständigen Behörde
 
 (1) Die zuständige Behörde kann im Einzelfall die erforderlichen Maßnahmen zur Erfüllung der durch Rechtsverordnung nach § 34 auferlegten Pflichten anordnen. Sie kann darüber hinaus die Maßnahmen anordnen, die im Einzelfall erforderlich sind, um Gefahren für Beschäftigte oder Dritte abzuwenden.
 
@@ -682,13 +644,11 @@ Vor der Veröffentlichung ist der Betroffene anzuhören. Liegen die Voraussetzun
 
 (3) Im Falle von Anordnungen nach Absatz 1 kann die zuständige Behörde den Betrieb der betreffenden Anlage untersagen, bis der Zustand hergestellt ist, der den Anordnungen entspricht. Das Gleiche gilt, wenn eine Anordnung nach anderen, die Einrichtung oder die Arbeitsstätte, in der die Anlage betrieben wird, betreffenden Vorschriften getroffen wird.
 
-
-## § 36 – Zutrittsrecht des Beauftragten der zugelassenen Überwachungsstelle
+# § 36 – Zutrittsrecht des Beauftragten der zugelassenen Überwachungsstelle
 
 Eigentümer von überwachungsbedürftigen Anlagen und Personen, die solche Anlagen herstellen oder betreiben, sind verpflichtet, den Beauftragten zugelassener Überwachungsstellen, denen die Prüfung der Anlagen obliegt, auf Verlangen die Anlagen zugänglich zu machen, die vorgeschriebene oder behördlich angeordnete Prüfung zu gestatten, die hierfür benötigten Arbeitskräfte und Hilfsmittel bereitzustellen sowie die Angaben zu machen und die Unterlagen vorzulegen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
-
-## § 37 – Durchführung der Prüfung und Überwachung, Verordnungsermächtigung
+# § 37 – Durchführung der Prüfung und Überwachung, Verordnungsermächtigung
 
 (1) Die Prüfungen der überwachungsbedürftigen Anlagen werden, soweit in den nach § 34 Absatz 1 erlassenen Rechtsverordnungen nichts anderes bestimmt ist, von zugelassenen Überwachungsstellen vorgenommen.
 
@@ -754,15 +714,13 @@ Als zugelassene Überwachungsstellen können, insbesondere zur Durchführung von
 
 (8) Die für die Durchführung der nach § 34 Absatz 1 erlassenen Rechtsverordnungen zuständigen Behörden können von der zugelassenen Überwachungsstelle und deren mit der Leitung und der Durchführung der Fachaufgaben beauftragtem Personal die zur Erfüllung ihrer Aufgaben erforderlichen Auskünfte und sonstige Unterstützung verlangen sowie die dazu erforderlichen Anordnungen treffen. Ihre Beauftragten sind befugt, zu den Betriebs- und Geschäftszeiten Grundstücke und Geschäftsräume zu betreten und zu besichtigen sowie die Vorlage und Übersendung von Unterlagen für die Erteilung der Bescheinigungen zu verlangen. Wenn sie nach den Sätzen 1 und 2 tätig werden, haben sie die Befugnis erteilende Behörde zu unterrichten.
 
-
-## § 38 – Aufsichtsbehörden
+# § 38 – Aufsichtsbehörden
 
 (1) Die Aufsicht über die Ausführung der nach § 34 Absatz 1 erlassenen Rechtsverordnungen obliegt den nach Landesrecht zuständigen Behörden. Hierbei finden § 22 Absatz 1 und 2 sowie § 23 Absatz 2 des Arbeitsschutzgesetzes entsprechende Anwendung.
 
 (2) Für Anlagen, die der Überwachung durch die Bundesverwaltung unterstehen, kann in Rechtsverordnungen nach § 34 Absatz 1 die Aufsicht dem Bundesministerium des Innern, für Bau und Heimat oder einem anderen Bundesministerium für mehrere Geschäftsbereiche der Bundesverwaltung übertragen werden; das Bundesministerium kann die Aufsicht einer von ihm bestimmten Stelle übertragen. § 48 des Bundeswasserstraßengesetzes und § 4 des Bundesfernstraßengesetzes bleiben unberührt.
 
-
-## § 39 – Bußgeldvorschriften
+# § 39 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -826,13 +784,11 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 
 
 (3) Die Bundesregierung wird ermächtigt, soweit es zur Durchsetzung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 16 und 17 geahndet werden können.
 
-
-## § 40 – Strafvorschriften
+# § 40 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer eine in § 39 Absatz 1 Nummer 7 Buchstabe a, Nummer 8 Buchstabe b, Nummer 9, 16 Buchstabe a oder Nummer 17 Buchstabe a bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.
 
-
-## Anlage – Gestaltung des GS-Zeichens
+# Anlage – Gestaltung des GS-Zeichens
 
 (Fundstelle: BGBl. I 2011, 2196)
 
@@ -843,7 +799,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein
 3. Die Wörter „geprüfte Sicherheit“ sind in der Schriftart Arial zu setzen sowie fett und kursiv zu formatieren bei einem Rasterabstand von 0,3 cm in der Schriftgröße 25 pt.
 
   
-![](../normengrafiken/bgbl1_2011/j2178-1_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j2178-1_0010.jpg)  
 
 4. Bei Verkleinerung oder Vergrößerung des GS-Zeichens müssen die Proportionen des oben abgebildeten Rasters eingehalten werden.
 

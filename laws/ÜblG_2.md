@@ -1,10 +1,7 @@
-# [ÜblG 2] Zweites Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund  (Zweites Überleitungsgesetz)
-
-Ausfertigungsdatum: 21.08.1951
-
+% Zweites Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund  (Zweites Überleitungsgesetz)
+% Ausfertigungsdatum: 21.08.1951
  
-
-## § 1
+# § 1
 
 (1) Die Ausgaben der Finanzbehörden, die nach § 1 Abs. 1 des Gesetzes über die Finanzverwaltung vom 6. September 1950 (Bundesgesetzbl. S. 448) Bundesfinanzbehörden geworden sind, gehen auf den Bund über, soweit die Ausgaben nicht nach § 11 des Gesetzes über die Finanzverwaltung und nach den Vorschriften dieses Gesetzes von den Ländern zu tragen sind.
 
@@ -12,18 +9,15 @@ Ausfertigungsdatum: 21.08.1951
 
 (3) Die Überleitung der Ausgaben, die sich aus der Verwaltung des Vermögens der ehemaligen Reichsfinanzverwaltung ergeben, bleibt einem besonderen Gesetz vorbehalten.
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 Die Ausgaben (einschließlich der Versorgungsausgaben) der Verwaltungen und Einrichtungen, die nach Artikel 130 des Grundgesetzes in die Verwaltung des Bundes übergeführt worden sind oder noch übergeführt werden, gehen mit dem Inkrafttreten der Überführung auf den Bund über.
 
-
-## § 4
+# § 4
 
 (1) Die Ausgaben für die Versorgung der ehemaligen Verwaltungsangehörigen der in der Anlage bezeichneten ehemaligen Reichsbehörden, Reichsbetriebe und Zonenbehörden sowie der Hinterbliebenen dieser Verwaltungsangehörigen gehen auf den Bund über.
 
@@ -33,8 +27,7 @@ Die Ausgaben (einschließlich der Versorgungsausgaben) der Verwaltungen und Einr
 
 § 4: Kursivdruck: Aufgeh. durch § 161 Abs. 1 Nr. 2 FGO v. 6.10.1965 I 1477 mWv 1.1.1966
 
-
-## § 5
+# § 5
 
 (1) Die Wartestandsbeamten der in der Anlage bezeichneten Zonenbehörden werden Wartestandsbeamte des Bundes.
 
@@ -44,74 +37,61 @@ Die Ausgaben (einschließlich der Versorgungsausgaben) der Verwaltungen und Einr
 
 § 5: Kursivdruck: Als Bundesrecht aufgeh. mit Ausnahme Abschn. V durch § 119 Abs. 2 Satz 1 Nr. 1 G v. 19.8.1969 I 1284 mWv 1.1.1970
 
-
-## § 6
+# § 6
 
 Für die Versorgungsberechtigten, deren Versorgung nach den Vorschriften der Artikel I und II auf den Bund übergeht, übt die Oberste Bundesbehörde die Befugnisse und Aufgaben der obersten Dienstbehörde des letzten Dienstherrn des Beamten aus. Zuständig ist die Oberste Bundesbehörde, deren Aufgaben denen der zuletzt für den Beamten zuständigen obersten Dienstbehörde oder Verwaltungsstelle entsprechen. Ist eine solche Stelle nicht vorhanden, so regeln der Bundesminister des Innern, für Bau und Heimat und der Bundesminister der Finanzen die Zuständigkeit, ebenso, wenn keine Stelle sich für zuständig erachtet.
 
-
-## § 7
+# § 7
 
 Soweit die Ausgaben der in den Artikeln I und II bezeichneten Verwaltungen und Einrichtungen auf den Bund übergehen, übernimmt der Bund auch die Haftpflichtverbindlichkeiten, die durch Angehörige oder im Betrieb dieser Verwaltungen und Einrichtungen verursacht worden sind. Insoweit gehen auch die Ersatzansprüche auf den Bund über.
 
-
-## § 8
+# § 8
 
 \-
 
-
-## § 9
+# § 9
 
 Soweit die Bestimmungen der Artikel I und II den Übergang von Versorgungsausgaben auf den Bund regeln, sind diese Bestimmungen und die Bestimmungen des § 6 auf den Personenkreis nicht anzuwenden, der durch Kapitel I des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen vom 11. Mai 1951 (Bundesgesetzbl. I S. 307) erfaßt wird; die Bestimmungen des § 1 Abs. 1 Ziff. 7 und des § 2 Ziff. 7 des Ersten Gesetzes zur Überleitung von Lasten und Deckungsmitteln auf den Bund vom 28. November 1950 (Bundesgesetzbl. S. 773) bleiben unberührt.
 
 § 9 Kursivdruck: Zeitlich überholt
 
-
-## § 10
+# § 10
 
 Die Bundesregierung wird ermächtigt, die Versorgungsausgaben im Sinne der Artikel I und II durch eine mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung näher zu bestimmen.
 
-
-## § 11
+# § 11
 
 (1) Soweit nach den Artikeln I und II Ausgaben auf den Bund übergehen, stehen die mit den Ausgaben zusammenhängenden Einnahmen dem Bund zu.
 
 (2) Die wegen Steuervergehens im Verwaltungsstrafverfahren festgesetzten Geldstrafen stehen dem Bund zu, wenn das Verwaltungsstrafverfahren durch Bundesbehörden durchgeführt wird, dem Land zu, wenn das Verwaltungsstrafverfahren durch Landesbehörden durchgeführt wird. Entsprechendes gilt für den Erlös aus der Verwertung eingezogener Gegenstände. § 48 Abs. 1 des Soforthilfegesetzes vom 8. August 1949 (WiGBl. S. 205) und die entsprechende Vorschrift in den Soforthilfegesetzen der französischen Zone bleiben unberührt.
 
-
-## § 12
+# § 12
 
 Die Bestimmungen der §§ 18, 20 und 22 des Ersten Überleitungsgesetzes sind entsprechend anzuwenden.
 
-
-## § 13
+# § 13
 
 \-
 
-
-## § 14
+# § 14
 
 Der Bundesminister der Finanzen wird ermächtigt, das Erste Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund in der ab 1. April 1951 geltenden Fassung bekanntzumachen.
 
-
-## § 15
+# § 15
 
 Dieses Gesetz und die noch zu erlassenden Rechtsverordnungen gelten auch für das Land Berlin, sobald es gemäß Artikel 87 Abs. 2 seiner Verfassung die Anwendung dieses Gesetzes beschlossen hat.
 
-
-## § 16
+# § 16
 
 Dieses Gesetz tritt mit Wirkung vom 1. April 1950 in Kraft, soweit sich nicht aus seinen Bestimmungen etwas anderes ergibt.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. Teil III 603-4, S. 61)
 
   
   
-I.  
-Ehemalige Reichsbehörden und Reichsbetriebe
+I. Ehemalige Reichsbehörden und Reichsbetriebe
 
   
   
@@ -201,8 +181,7 @@ Ehemalige Reichsbehörden und Reichsbetriebe
 
 41. Kriegsmarineabwicklungsstelle Kiel
 
-II.  
-Ehemalige Zonenbehörden
+II. Ehemalige Zonenbehörden
 
   
   

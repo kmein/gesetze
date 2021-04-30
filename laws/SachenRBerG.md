@@ -1,10 +1,7 @@
-# [SachenRBerG] Gesetz zur Sachenrechtsbereinigung im Beitrittsgebiet  (Sachenrechtsbereinigungsgesetz - SachenRBerG)
-
-Ausfertigungsdatum: 21.09.1994
-
+% Gesetz zur Sachenrechtsbereinigung im Beitrittsgebiet  (Sachenrechtsbereinigungsgesetz - SachenRBerG)
+% Ausfertigungsdatum: 21.09.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -352,8 +349,7 @@ Abschnitt 3
 
 § 123
 
-
-## § 1 – Betroffene Rechtsverhältnisse
+# § 1 – Betroffene Rechtsverhältnisse
 
 (1) Dieses Gesetz regelt Rechtsverhältnisse an Grundstücken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet),
 
@@ -381,8 +377,7 @@ d) auf denen nach einem nicht mehr erfüllten Kaufvertrag ein vom Eigentum am Gr
 
 entzogen worden ist oder in sonstiger Weise Volkseigentum am Grundstück entstanden war. Grundbucheintragungen, die abweichende Eigentumsverhältnisse ausweisen, sind unbeachtlich.
 
-
-## § 2 – Nicht einbezogene Rechtsverhältnisse
+# § 2 – Nicht einbezogene Rechtsverhältnisse
 
 (1) Dieses Gesetz ist nicht anzuwenden, wenn der Nutzer das Grundstück
 
@@ -410,8 +405,7 @@ Satz 1 Nr. 1 ist entsprechend anzuwenden auf die von den in § 459 Abs. 1 Satz 1
 
 (3) Die Bestimmungen über die Ansprüche eines Mitglieds einer landwirtschaftlichen Produktionsgenossenschaft oder des Nachfolgeunternehmens nach den §§ 43 bis 50 und § 64b des Landwirtschaftsanpassungsgesetzes gehen den Regelungen dieses Gesetzes vor.
 
-
-## § 3 – Regelungsinstrumente und Regelungsziele
+# § 3 – Regelungsinstrumente und Regelungsziele
 
 (1) In den in § 1 Abs. 1 Nr. 1 bezeichneten Fällen können Grundstückseigentümer und Nutzer (Beteiligte) zur Bereinigung der Rechtsverhältnisse an den Grundstücken Ansprüche auf Bestellung von Erbbaurechten oder auf Ankauf der Grundstücke oder der Gebäude nach Maßgabe dieses Kapitels geltend machen. Die Beteiligten können von den gesetzlichen Bestimmungen über den Vertragsinhalt abweichende Vereinbarungen treffen.
 
@@ -433,8 +427,7 @@ Nach Absatz 1 sind auch die Rechtsverhältnisse zu bereinigen, denen bauliche In
 
 3. nach dem 18. Oktober 1989 abgeschlossen worden ist und das Grundstück nach den Vorschriften des Vermögensgesetzes an den Grundstückseigentümer zurückzuübertragen ist oder zurückübertragen wurde; für diese Fälle gilt § 121.
 
-
-## § 4 – Bauliche Nutzungen
+# § 4 – Bauliche Nutzungen
 
 Die Bestimmungen dieses Kapitels sind anzuwenden auf
 
@@ -446,8 +439,7 @@ Die Bestimmungen dieses Kapitels sind anzuwenden auf
 
 4. die von der Deutschen Demokratischen Republik an ausländische Staaten verliehenen Nutzungsrechte (§ 110).
 
-
-## § 5 – Erwerb oder Bau von Eigenheimen
+# § 5 – Erwerb oder Bau von Eigenheimen
 
 (1) Auf den Erwerb oder den Bau von Eigenheimen ist dieses Gesetz anzuwenden, wenn
 
@@ -477,8 +469,7 @@ h) Wohn- und Stallgebäude nach den Vorschriften über den Besitzwechsel bei ehe
 
 (3) Gebäude, die bis zum Ablauf des 2. Oktober 1990 von den Nutzern zur persönlichen Erholung, Freizeitgestaltung oder zu kleingärtnerischen Zwecken genutzt wurden, sind auch im Falle einer späteren Nutzungsänderung keine Eigenheime. Eine Nutzung im Sinne des Satzes 1 liegt auch vor, wenn der Nutzer in dem Gebäude zwar zeitweise gewohnt, dort jedoch nicht seinen Lebensmittelpunkt hatte.
 
-
-## § 6 – Staatlicher oder genossenschaftlicher Wohnungsbau
+# § 6 – Staatlicher oder genossenschaftlicher Wohnungsbau
 
 Auf den staatlichen oder genossenschaftlichen Wohnungsbau findet dieses Kapitel Anwendung, wenn
 
@@ -486,8 +477,7 @@ Auf den staatlichen oder genossenschaftlichen Wohnungsbau findet dieses Kapitel 
 
 2. Grundstücke mit Billigung staatlicher Stellen ohne eine der Bebauung entsprechende Regelung der Eigentumsverhältnisse mit Gebäuden bebaut worden sind.
 
-
-## § 7 – Andere bauliche Nutzungen
+# § 7 – Andere bauliche Nutzungen
 
 (1) Dieses Kapitel regelt auch die bauliche Nutzung fremder Grundstücke für land-, forstwirtschaftlich, gewerblich (einschließlich industriell) genutzte oder öffentlichen Zwecken dienende Gebäude sowie für Wohnhäuser, die durch landwirtschaftliche Produktionsgenossenschaften errichtet oder erworben worden sind.
 
@@ -518,8 +508,7 @@ b)
   
 vormals volkseigene Betriebe im Sinne der Nummer 4 oder Genossenschaften im Sinne der Nummer 1 fremde, in Privateigentum stehende Grundstücke mit betrieblich genutzten Gebäuden oder baulichen Anlagen ohne eine der Bebauung entsprechende Regelung der Eigentumsverhältnisse oder ohne vertragliche Berechtigung bebaut haben.
 
-
-## § 8 – Zeitliche Begrenzung
+# § 8 – Zeitliche Begrenzung
 
 Die Bestimmungen dieses Kapitels sind nur anzuwenden, wenn der Bau oder Erwerb des Gebäudes oder der baulichen Anlage nach dem 8. Mai 1945 erfolgt ist und
 
@@ -529,8 +518,7 @@ Die Bestimmungen dieses Kapitels sind nur anzuwenden, wenn der Bau oder Erwerb d
 
 3. auf den Flächen, die dem aufgehobenen Bodennutzungsrecht der landwirtschaftlichen Produktionsgenossenschaften unterlagen, bis zum Ablauf des 30. Juni 1990, auf allen anderen Flächen bis zum Ablauf des 2. Oktober 1990, mit dem Bau eines Gebäudes oder einer baulichen Anlage begonnen worden ist.
 
-
-## § 9 – Nutzer
+# § 9 – Nutzer
 
 (1) Nutzer im Sinne dieses Gesetzes sind natürliche oder juristische Personen des privaten und des öffentlichen Rechts in nachstehender Reihenfolge:
 
@@ -562,22 +550,19 @@ oder deren Rechtsnachfolger. Satz 1 ist nicht anzuwenden, wenn eine andere Perso
 
 (4) Auf die Ausübung der in diesem Kapitel begründeten Ansprüche durch Ehegatten sind in den Fällen des Absatzes 1 Nr. 4 und 5 die Bestimmungen über das gemeinschaftliche Eigentum der Ehegatten in Artikel 234 § 4a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entsprechend anzuwenden, wenn der Vertragsschluß oder die Bebauung des Grundstücks vor Ablauf des 2. Oktober 1990 und während der Ehe erfolgte.
 
-
-## § 10 – Billigung staatlicher Stellen
+# § 10 – Billigung staatlicher Stellen
 
 (1) Billigung staatlicher Stellen ist jede Handlung, insbesondere von Verwaltungsstellen, Vorständen landwirtschaftlicher Produktionsgenossenschaften oder sonstigen Organen, die nach in der Deutschen Demokratischen Republik üblicher Staats- oder Verwaltungspraxis die bauliche Nutzung fremder Grundstücke vor Klärung der Eigentumsverhältnisse oder ohne Bestellung eines Nutzungsrechts ausdrücklich anordnete oder gestattete. Dies gilt auch, wenn die zu beachtenden Rechtsvorschriften nicht eingehalten worden sind.
 
 (2) Ist für die bauliche Maßnahme eine Bauzustimmung oder Baugenehmigung erteilt worden, ist zugunsten des Nutzers zu vermuten, daß die bauliche Nutzung des Grundstücks mit Billigung staatlicher Stellen erfolgt ist. Das gleiche gilt, wenn in einem Zeitraum von fünf Jahren nach Fertigstellung des Gebäudes vor Ablauf des 2. Oktober 1990 eine behördliche Verfügung zum Abriß nicht ergangen ist.
 
-
-## § 11 – Komplexer Wohnungsbau oder Siedlungsbau
+# § 11 – Komplexer Wohnungsbau oder Siedlungsbau
 
 (1) Komplexer Wohnungsbau im Sinne dieses Gesetzes sind Wohngebiete für den staatlichen oder genossenschaftlichen Wohnungsbau, die entsprechend den Rechtsvorschriften der Deutschen Demokratischen Republik im Zeitraum vom 7. Oktober 1949 bis zum Ablauf des 2. Oktober 1990 nach einer einheitlichen Bebauungskonzeption oder einem Bebauungsplan für die Gesamtbebauung des jeweiligen Bauvorhabens (Standort) vorbereitet und gebaut worden sind. Wohngebiete im Sinne des Satzes 1 sind insbesondere großflächige Wohnanlagen in randstädtischen oder innerstädtischen Lagen sowie Wohnanlagen an Einzelstandorten in städtischen oder dörflichen Lagen jeweils einschließlich Nebenanlagen, Versorgungseinrichtungen und Infrastruktur.
 
 (2) Siedlungsbau im Sinne dieses Gesetzes sind Wohngebiete für den Eigenheimbau, die entsprechend den Rechtsvorschriften der Deutschen Demokratischen Republik in dem in Absatz 1 genannten Zeitraum nach einer einheitlichen Bebauungskonzeption oder einem Bebauungsplan für die Gesamtbebauung des jeweiligen Bauvorhabens (Standort) vorbereitet und neu bebaut worden sind.
 
-
-## § 12 – Bebauung
+# § 12 – Bebauung
 
 (1) Bebauungen im Sinne dieses Kapitels sind die Errichtung von Gebäuden sowie bauliche Maßnahmen an bestehenden Gebäuden, wenn
 
@@ -609,8 +594,7 @@ für nicht nachweisbare bauliche Investitionen des Nutzers zusätzlich zu den na
 
 3. die Funktionsfläche der baulichen Anlage nach den baurechtlichen Bestimmungen selbständig baulich nutzbar ist und vom Grundstück abgetrennt werden kann.
 
-
-## § 13 – Abtrennbare, selbständig nutzbare Teilfläche
+# § 13 – Abtrennbare, selbständig nutzbare Teilfläche
 
 (1) Eine Teilfläche ist abtrennbar, wenn sie nach Vermessung vom Stammgrundstück abgeschrieben werden kann.
 
@@ -618,8 +602,7 @@ für nicht nachweisbare bauliche Investitionen des Nutzers zusätzlich zu den na
 
 (3) Abtrennbarkeit und selbständige bauliche Nutzbarkeit sind gegeben, wenn eine Teilungsgenehmigung nach § 120 erteilt worden ist.
 
-
-## § 14 – Berechtigte und Verpflichtete
+# § 14 – Berechtigte und Verpflichtete
 
 (1) Durch die in diesem Kapitel begründeten Ansprüche werden der jeweilige Nutzer und Grundstückseigentümer berechtigt und verpflichtet. Kommen nach § 9 Abs. 1 Satz 1 mehrere Personen als Nutzer in Betracht, ist im Verhältnis zueinander derjenige Nutzer, der eine Bebauung nach § 12 vorgenommen hat.
 
@@ -633,8 +616,7 @@ für nicht nachweisbare bauliche Investitionen des Nutzers zusätzlich zu den na
 
 3. die in diesem Gesetz für den Grundstückseigentümer oder den Nutzer begründeten Ansprüche erfüllt worden sind.
 
-
-## § 15 – Verhältnis der Ansprüche
+# § 15 – Verhältnis der Ansprüche
 
 (1) Der Nutzer kann wählen, ob er die Bestellung eines Erbbaurechts verlangen oder das Grundstück ankaufen will.
 
@@ -644,8 +626,7 @@ für nicht nachweisbare bauliche Investitionen des Nutzers zusätzlich zu den na
 
 (4) Der Grundstückseigentümer kann ein vom Nutzer errichtetes oder erworbenes Wirtschaftsgebäude oder eine bauliche Anlage ankaufen oder, sofern selbständiges Gebäudeeigentum nicht besteht, die aus der baulichen Investition begründeten Rechte des Nutzers ablösen, wenn die in § 81 Abs. 1 bezeichneten Voraussetzungen vorliegen. Macht der Grundstückseigentümer von seinem Recht nach Satz 1 Gebrauch, so sind die in Absatz 1 bezeichneten Ansprüche des Nutzers ausgeschlossen.
 
-
-## § 16 – Ausübung des Wahlrechts
+# § 16 – Ausübung des Wahlrechts
 
 (1) Die Wahl erfolgt durch schriftliche Erklärung gegenüber dem anderen Teil. Mit der Erklärung erlischt das Wahlrecht.
 
@@ -653,8 +634,7 @@ für nicht nachweisbare bauliche Investitionen des Nutzers zusätzlich zu den na
 
 (3) Gibt der Nutzer eine Erklärung nicht ab, kann der Grundstückseigentümer eine angemessene Nachfrist setzen. Eine Nachfrist von einem Monat ist angemessen, wenn nicht besondere Umstände eine längere Nachfrist erfordern. Mit dem Ablauf der Nachfrist geht das Wahlrecht auf den Grundstückseigentümer über, wenn nicht der Nutzer rechtzeitig die Wahl vornimmt.
 
-
-## § 17 – Pfleger für Grundstückseigentümer und Inhaber dinglicher Rechte
+# § 17 – Pfleger für Grundstückseigentümer und Inhaber dinglicher Rechte
 
 (1) Zur Verfolgung der Ansprüche des Nutzers ist auf dessen Antrag für den Grundstückseigentümer oder den Inhaber eines eingetragenen dinglichen Rechts ein Pfleger zu bestellen, wenn
 
@@ -680,8 +660,7 @@ für nicht nachweisbare bauliche Investitionen des Nutzers zusätzlich zu den na
 
 Der Vertreter ist für den Abschluß von Erbbaurechtsverträgen oder Kaufverträgen über das Grundstück oder das Gebäude von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs nicht befreit. Für die Erteilung der Genehmigung nach § 1821 des Bürgerlichen Gesetzbuchs ist statt des Landkreises das Betreuungsgericht zuständig; ist der Vertretene minderjährig, tritt an die Stelle des Betreuungsgerichts das Familiengericht.
 
-
-## § 18 – Aufgebotsverfahren gegen den Nutzer
+# § 18 – Aufgebotsverfahren gegen den Nutzer
 
 (1) Liegen die in § 17 Abs. 1 Nr. 1, 2 oder 3 (erste Alternative) bezeichneten Umstände in der Person des Nutzers vor, ist der Grundstückseigentümer berechtigt, den Nutzer mit seinen Rechten am Grundstück und am Gebäude, seinen vertraglichen Ansprüchen gegen den Grundstückseigentümer und seinen Ansprüchen aus diesem Kapitel im Wege des Aufgebotsverfahrens auszuschließen.
 
@@ -691,8 +670,7 @@ Der Vertreter ist für den Abschluß von Erbbaurechtsverträgen oder Kaufverträ
 
 (4) Mit der Rechtskraft des Ausschließungsbeschlusses erlöschen die in Absatz 1 bezeichneten Ansprüche. Das Gebäudeeigentum und das Nutzungsrecht gehen auf den Grundstückseigentümer über. Der Nutzer kann von dem Grundstückseigentümer entsprechend § 818 des Bürgerlichen Gesetzbuchs eine Vergütung in Geld für den Rechtsverlust verlangen.
 
-
-## § 19 – Grundsätze
+# § 19 – Grundsätze
 
 (1) Erbbauzins und Ankaufspreis sind nach dem Bodenwert in dem Zeitpunkt zu bestimmen, in dem ein Angebot zum Vertragsschluß nach diesem Kapitel abgegeben wird.
 
@@ -720,8 +698,7 @@ Als Bodenwert ist jedoch mindestens der Wert zugrunde zu legen, der sich für da
 
 2. aufgrund untypischer Lage oder Beschaffenheit des Grundstücks die Bodenrichtwerte als Ermittlungsgrundlage ungeeignet sind.
 
-
-## § 20 – Bodenwertermittlung in besonderen Fällen
+# § 20 – Bodenwertermittlung in besonderen Fällen
 
 (1) Bei der Bemessung des Bodenwerts eines Grundstücks, das vor dem Ablauf des 2. Oktober 1990 im staatlichen oder genossenschaftlichen Wohnungsbau verwendet worden ist, ist nicht die im Gebiet baurechtlich zulässige Nutzung des Grundstücks, sondern die auf dem betreffenden Grundstück vorhandene Bebauung und Nutzung maßgeblich.
 
@@ -743,13 +720,11 @@ verwendet worden sind. Der Bodenwert dieser Grundstücke ist in der Weise zu bes
 
 (6) Liegt das Grundstück in einem städtebaulichen Sanierungsgebiet oder Entwicklungsbereich, bleiben § 153 Abs. 1 und § 169 Abs. 4 des Baugesetzbuchs unberührt.
 
-
-## § 21 – Vermessene Flächen
+# § 21 – Vermessene Flächen
 
 Die Ansprüche auf Bestellung eines Erbbaurechts oder den Ankauf erstrecken sich auf das Grundstück insgesamt, wenn dessen Grenzen im Liegenschaftskataster nachgewiesen sind (vermessenes Grundstück) und die Nutzungsbefugnis aus einem Nutzungsrecht oder einem Vertrag mit den Grenzen des Grundstücks übereinstimmt. Im übrigen sind die §§ 22 bis 27 anzuwenden.
 
-
-## § 22 – Genossenschaftlich genutzte Flächen
+# § 22 – Genossenschaftlich genutzte Flächen
 
 (1) Soweit ein Nutzungsrecht für den Eigenheimbau zugewiesen worden ist oder ein Eigenheim von oder mit Billigung der landwirtschaftlichen Produktionsgenossenschaft oder aufgrund Nutzungsvertrages mit der Gemeinde errichtet worden ist, beziehen sich die gesetzlichen Ansprüche nach den §§ 32 und 61 auf die Fläche,
 
@@ -763,8 +738,7 @@ Die Ansprüche auf Bestellung eines Erbbaurechts oder den Ankauf erstrecken sich
 
 (3) Die Ansprüche des Nutzers beschränken sich auf die Funktionsfläche (§ 12 Abs. 3 Satz 2 Nr. 2) des Gebäudes oder der baulichen Anlage, wenn die Bebauung aufgrund des aufgehobenen gesetzlichen Nutzungsrechts der landwirtschaftlichen Produktionsgenossenschaften vorgenommen worden ist oder durch Einbringung des Bauwerks in die landwirtschaftliche Produktionsgenossenschaft selbständiges Gebäudeeigentum entstanden ist. Handelt es sich um Betriebsgebäude, so sind die Flächen einzubeziehen, die für die zweckentsprechende Nutzung des Gebäudes im Betrieb des Nutzers notwendig sind.
 
-
-## § 23 – Unvermessene volkseigene Grundstücke
+# § 23 – Unvermessene volkseigene Grundstücke
 
 Soweit Nutzungsrechte auf unvermessenen, vormals volkseigenen Grundstücken verliehen wurden, sind die Grenzen in folgender Reihenfolge zu bestimmen nach
 
@@ -774,8 +748,7 @@ Soweit Nutzungsrechte auf unvermessenen, vormals volkseigenen Grundstücken verl
 
 3. dem für ein Gebäude der entsprechenden Art zweckentsprechenden, ortsüblichen Umfang oder der Funktionsfläche der baulichen Anlage.
 
-
-## § 24 – Wohn-, Gewerbe- und Industriebauten ohne Klärung der Eigentumsverhältnisse
+# § 24 – Wohn-, Gewerbe- und Industriebauten ohne Klärung der Eigentumsverhältnisse
 
 (1) Soweit im komplexen Wohnungsbau oder Siedlungsbau oder durch gewerbliche (einschließlich industrielle) Vorhaben Bebauungen ohne Klärung der Eigentumsverhältnisse über Grundstücksgrenzen hinweg vorgenommen worden sind, erstrecken sich die Ansprüche nach diesem Kapitel in folgender Reihenfolge auf die Flächen,
 
@@ -787,13 +760,11 @@ Soweit Nutzungsrechte auf unvermessenen, vormals volkseigenen Grundstücken verl
 
 (2) Entstehen durch die Bestellung von Erbbaurechten oder den Ankauf von Grundstücksteilen Restflächen, die für den Grundstückseigentümer nicht in angemessenem Umfang baulich oder wirtschaftlich nutzbar sind, so kann dieser von der Gemeinde den Ankauf der Restflächen verlangen. Der Kaufpreis ist nach den §§ 19, 20 und 68 zu bestimmen. Der Anspruch nach Satz 1 kann nicht vor dem 1. Januar 2000 geltend gemacht werden. Eine Bereinigung dieser Rechtsverhältnisse durch Enteignung, Umlegung oder Bodenneuordnung bleibt unberührt.
 
-
-## § 25 – Andere Flächen
+# § 25 – Andere Flächen
 
 Ergibt sich der Umfang der Flächen, auf die sich die Ansprüche des Nutzers erstrecken, nicht aus den vorstehenden Bestimmungen, so ist Artikel 233 § 4 Abs. 3 Satz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche entsprechend anzuwenden.
 
-
-## § 26 – Übergroße Flächen für den Eigenheimbau
+# § 26 – Übergroße Flächen für den Eigenheimbau
 
 (1) Ist dem Nutzer ein Nutzungsrecht verliehen oder zugewiesen worden, das die für den Eigenheimbau vorgesehene Regelgröße von 500 Quadratmetern übersteigt, so können der Nutzer oder der Grundstückseigentümer verlangen, daß die Fläche, auf die sich die Nutzungsbefugnis des Erbbauberechtigten (§ 55) erstreckt oder die Gegenstand des Kaufvertrages (§ 65) ist, im Vertrag nach Satz 3 abweichend vom Umfang des Nutzungsrechts bestimmt wird. Das gleiche gilt, wenn der Anspruch des Nutzers nach den §§ 21 bis 23 sich auf eine über die Regelgröße hinausgehende Fläche erstreckt. Die Ansprüche aus den Sätzen 1 und 2 können nur geltend gemacht werden, soweit
 
@@ -819,8 +790,7 @@ Auf Flächen, die über eine Gesamtgröße von 1.000 Quadratmetern hinausgehen, 
 
 (5) Die Absätze 1 bis 4 sind entsprechend anzuwenden, wenn die Befugnis des Nutzers auf einem Vertrag beruht.
 
-
-## § 27 – Restflächen
+# § 27 – Restflächen
 
 (1) Die Ansprüche nach den §§ 32 und 61 erfassen auch Restflächen. Restflächen sind Grundstücksteile, auf die sich der Anspruch des Nutzers nach den §§ 21 bis 23 und 25 nicht erstreckt, wenn diese nicht in angemessenem Umfang baulich oder wirtschaftlich nutzbar sind. Der Nutzer oder der Grundstückseigentümer ist berechtigt, eine Einbeziehung der Restflächen in den Erbbaurechts- oder Grundstückskaufvertrag zu verlangen, wenn hierdurch ein nach Lage, Form und Größe zweckmäßig gestaltetes Erbbaurecht oder Grundstück entsteht. Der Nutzer kann die Einbeziehung der Restflächen in den Erbbaurechts- oder Grundstückskaufvertrag verweigern, wenn sich dadurch eine für ihn unzumutbare Mehrbelastung ergäbe.
 
@@ -830,8 +800,7 @@ Auf Flächen, die über eine Gesamtgröße von 1.000 Quadratmetern hinausgehen, 
 
 (4) Für die in § 24 bezeichneten Bebauungen gelten die dort genannten besonderen Regelungen.
 
-
-## § 28 – Anderweitige Verfahren und Entscheidungen
+# § 28 – Anderweitige Verfahren und Entscheidungen
 
 Die Beteiligten können Ansprüche nach diesem Kapitel nicht verfolgen, wenn
 
@@ -841,8 +810,7 @@ Die Beteiligten können Ansprüche nach diesem Kapitel nicht verfolgen, wenn
 
 Nummer 2 ist nicht anzuwenden, wenn das Verfahren ohne einen Landtausch oder eine bestandskräftige Entscheidung zur Feststellung und Neuordnung der Eigentumsverhältnisse beendet worden ist.
 
-
-## § 29 – Nicht mehr nutzbare Gebäude und nicht ausgeübte Nutzungen
+# § 29 – Nicht mehr nutzbare Gebäude und nicht ausgeübte Nutzungen
 
 (1) Der Grundstückseigentümer kann die Bestellung des Erbbaurechts oder den Verkauf des Grundstücks an den Nutzer verweigern, wenn das Gebäude oder die bauliche Anlage
 
@@ -880,8 +848,7 @@ Satz 1 ist auf Veräußerungen von Unternehmen oder Unternehmensteilen durch ein
 
 (5) Erhebt der Grundstückseigentümer die in den Absätzen 1 und 2 bezeichnete Einrede, kann der Nutzer vom Grundstückseigentümer den Ankauf des Gebäudes oder der baulichen Anlage oder die Ablösung der aus der baulichen Investition begründeten Rechte nach § 81 Abs. 1 Satz 1 Nr. 2 verlangen. Der Grundstückseigentümer kann den Anspruch des Nutzers aus Satz 1 abwenden, indem er das Grundstück oder die Teilfläche, auf die sich die Ansprüche nach diesem Kapitel erstrecken, zu einem Verkauf mit dem Gebäude oder der baulichen Anlage bereitstellt. § 79 Abs. 1, 2 Satz 2 und Abs. 3 ist entsprechend anzuwenden. Eine Versteigerung ist entsprechend den §§ 180 bis 185 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung vorzunehmen.
 
-
-## § 30 – Unredlicher Erwerb
+# § 30 – Unredlicher Erwerb
 
 (1) Der Grundstückseigentümer kann die Bestellung eines Erbbaurechts oder den Verkauf verweigern, wenn der Nutzer bei der Bestellung des Nutzungsrechts oder, falls ein Nutzungsrecht nicht bestellt wurde, der Nutzer bei der Erlangung des Besitzes am Grundstück unredlich im Sinne des § 4 des Vermögensgesetzes gewesen ist. Ist ein Nutzungsrecht begründet worden, kann der Grundstückseigentümer die Einrede nach Satz 1 nur dann erheben, wenn er auch die Aufhebung des Nutzungsrechts beantragt.
 
@@ -889,8 +856,7 @@ Satz 1 ist auf Veräußerungen von Unternehmen oder Unternehmensteilen durch ein
 
 (3) Die in Absatz 1 Satz 1 bezeichnete Einrede ist ausgeschlossen, wenn das Grundstück dem Gemeingebrauch gewidmet oder im komplexen Wohnungsbau oder Siedlungsbau verwendet wurde. Hatte die für die Entscheidung über den Entzug des Eigentumsrechts zuständige staatliche Stelle vor Baubeginn der Inanspruchnahme des Grundstücks widersprochen, so sind der Erbbauzins nach den für die jeweilige Nutzung üblichen Zinssätzen und der Ankaufspreis nach dem ungeteilten Bodenwert zu bestimmen. § 51 ist nicht anzuwenden.
 
-
-## § 31 – Geringe Restnutzungsdauer
+# § 31 – Geringe Restnutzungsdauer
 
 (1) Der Grundstückseigentümer kann den Abschluß eines Erbbaurechtsvertrages oder eines Grundstückskaufvertrages verweigern, wenn das vom Nutzer errichtete Gebäude oder die bauliche Anlage öffentlichen Zwecken dient oder land-, forstwirtschaftlich oder gewerblich genutzt wird, dem Nutzer ein Nutzungsrecht nicht bestellt wurde und die Restnutzungsdauer des Gebäudes oder der baulichen Anlage in dem Zeitpunkt, in dem der Nutzer Ansprüche nach diesem Kapitel geltend macht, weniger als 25 Jahre beträgt.
 
@@ -908,18 +874,15 @@ Das Anpassungsverlangen ist gegenüber dem anderen Teil in Textform geltend zu m
 
 (5) Nach Beendigung des Mietverhältnisses kann der Nutzer vom Grundstückseigentümer den Ankauf oder, wenn selbständiges Gebäudeeigentum nicht begründet worden ist, Wertersatz für das Gebäude oder die bauliche Anlage verlangen. Der Grundstückseigentümer kann den Anspruch dadurch abwenden, daß er dem Nutzer die Verlängerung des Mietvertrages für die restliche Standdauer des Gebäudes oder der baulichen Anlage anbietet; § 27 Abs. 4 des Erbbaurechtsgesetzes ist entsprechend anzuwenden. Ist das Gebäude oder die bauliche Anlage nicht mehr nutzbar, bestimmen sich die Ansprüche des Grundstückseigentümers gegen den Nutzer nach § 82.
 
-
-## § 32 – Grundsatz
+# § 32 – Grundsatz
 
 Der Nutzer kann vom Grundstückseigentümer die Annahme eines Angebots auf Bestellung eines Erbbaurechts verlangen, wenn der Inhalt des Angebots den §§ 43 bis 58 entspricht. Dasselbe Recht steht dem Grundstückseigentümer gegen den Nutzer zu, wenn dieser eine entsprechende Wahl getroffen hat oder das Wahlrecht auf den Grundstückseigentümer übergegangen ist.
 
-
-## § 33 – Verpflichtung zum Rangrücktritt
+# § 33 – Verpflichtung zum Rangrücktritt
 
 Die Inhaber dinglicher Rechte am Grundstück sind nach Maßgabe der nachfolgenden Bestimmungen auf Verlangen des Nutzers verpflichtet, im Rang hinter das Erbbaurecht zurückzutreten.
 
-
-## § 34 – Regelungen bei bestehendem Gebäudeeigentum
+# § 34 – Regelungen bei bestehendem Gebäudeeigentum
 
 (1) Soweit selbständiges Gebäudeeigentum besteht, können die Inhaber dinglicher Rechte am Grundstück eine Belastung des Erbbaurechts nicht verlangen. Belastungen des Gebäudes bestehen am Erbbaurecht fort.
 
@@ -927,13 +890,11 @@ Die Inhaber dinglicher Rechte am Grundstück sind nach Maßgabe der nachfolgende
 
 (3) Der Inhaber kann vom Grundstückseigentümer Ersatz der durch die Abschreibung entstandenen Kosten verlangen. Die Kosten sind den Kosten für die Vertragsdurchführung zuzurechnen. § 60 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 35 – Dienstbarkeit, Nießbrauch, Wohnungsrecht
+# § 35 – Dienstbarkeit, Nießbrauch, Wohnungsrecht
 
 Soweit selbständiges Gebäudeeigentum nicht besteht, können die Inhaber solcher dinglichen Rechte, die einen Anspruch auf Zahlung oder Befriedigung aus dem Grundstück nicht gewähren, eine der Belastung des Grundstücks entsprechende Belastung des Erbbaurechts verlangen, wenn diese zur Ausübung ihres Rechts erforderlich ist. Macht der jeweilige Erbbauberechtigte die in den §§ 27 und 28 des Erbbaurechtsgesetzes bestimmten Ansprüche geltend, so darf er die Zwangsversteigerung des Grundstücks nur unter der Bedingung des Bestehenbleibens dieser Rechte am Grundstück betreiben.
 
-
-## § 36 – Hypothek, Grundschuld, Rentenschuld, Reallast
+# § 36 – Hypothek, Grundschuld, Rentenschuld, Reallast
 
 (1) Soweit selbständiges Gebäudeeigentum nicht besteht, können die Inhaber solcher dinglichen Rechte, die Ansprüche auf Zahlung oder Befriedigung aus dem Grundstück gewähren, den Rangrücktritt hinter das Erbbaurecht verweigern, es sei denn, daß der Nutzer ihnen eine Belastung des Erbbaurechts mit einem dinglichen Recht an gleicher Rangstelle wie am Grundstück und in Höhe des Betrages bewilligt, der dem Verhältnis des Werts des Erbbaurechts zu dem Wert des belasteten Grundstücks nach den für die Wertermittlung maßgebenden Grundsätzen entspricht. Das in Satz 1 bestimmte Recht besteht nicht, wenn
 
@@ -945,13 +906,11 @@ Ist ein Darlehen für den Betrieb des Grundstückseigentümers gewährt worden, 
 
 (2) Der Nutzer ist berechtigt, das dingliche Recht nach Absatz 1 Satz 1 durch eine dem Umfang des Rechts entsprechende Befriedigung des Gläubigers zum nächstmöglichen Kündigungstermin abzulösen.
 
-
-## § 37 – Anspruch auf Befreiung von dinglicher Haftung
+# § 37 – Anspruch auf Befreiung von dinglicher Haftung
 
 Der Nutzer kann vom Grundstückseigentümer Befreiung von einer dinglichen Haftung verlangen, die er nach § 36 Abs. 1 zu übernehmen hat. Ist eine grundpfandrechtlich gesicherte Kreditschuld noch nicht ablösbar, so hat der Grundstückseigentümer dem Nutzer statt der Befreiung auf Verlangen Sicherheit zu leisten.
 
-
-## § 38 – Bestellung eines Erbbaurechts für einen Überlassungsvertrag
+# § 38 – Bestellung eines Erbbaurechts für einen Überlassungsvertrag
 
 (1) Ist dem Nutzer das Grundstück aufgrund eines Überlassungsvertrages übergeben worden, so kann der Grundstückseigentümer vom Nutzer verlangen, daß dieser auf seine vertraglichen Ansprüche für Werterhöhungen des Grundstücks verzichtet und die zur Absicherung dieser Forderung eingetragene Hypothek aufgibt. Der Nutzer hat den Grundstückseigentümer freizustellen, wenn er den Anspruch auf Wertersatz und die Hypothek an einen Dritten abgetreten hat.
 
@@ -961,8 +920,7 @@ Der Nutzer kann vom Grundstückseigentümer Befreiung von einer dinglichen Haftu
 
 (4) Der Nutzer ist berechtigt, die hinterlegten Beträge mit Ausnahme der aufgelaufenen Zinsen zurückzufordern. Der Grundstückseigentümer kann vom Nutzer die Zustimmung zur Auszahlung der aufgelaufenen Zinsen verlangen.
 
-
-## § 39 – Mehrere Erbbaurechte auf einem Grundstück, Gesamterbbaurechte, Nachbarerbbaurechte
+# § 39 – Mehrere Erbbaurechte auf einem Grundstück, Gesamterbbaurechte, Nachbarerbbaurechte
 
 (1) An einem Grundstück können mehrere Erbbaurechte bestellt werden, wenn jedes von ihnen nach seinem Inhalt nur an einer jeweils anderen Grundstücksteilfläche ausgeübt werden kann. In den Erbbaurechtsverträgen muß jeweils in einem Lageplan bestimmt sein, auf welche Teilfläche des Grundstücks sich die Nutzungsbefugnis des Erbbauberechtigten erstreckt. Der Lageplan hat den in § 8 Abs. 2 Satz 1 bis 3 des Bodensonderungsgesetzes genannten Anforderungen für eine nach jenem Gesetz aufzustellende Grundstückskarte zu entsprechen. Der Vertrag muß die Verpflichtung für die jeweiligen Erbbauberechtigten und Grundstückseigentümer enthalten, die Teilfläche nach Vermessung vom belasteten Grundstück abzuschreiben und der Eintragung als selbständiges Grundstück in das Grundbuch zuzustimmen. Mehrere nach Satz 1 bestellte Erbbaurechte haben untereinander Gleichrang, auch wenn sie zu unterschiedlichen Zeiten in das Grundbuch eingetragen werden. Der gleiche Rang ist im Grundbuch zu vermerken; einer Zustimmung der Inhaber der anderen Erbbaurechte wie der Inhaber dinglicher Rechte an diesen bedarf es nicht. Wird eines dieser Erbbaurechte zwangsweise versteigert, so sind die anderen im Gleichrang an erster Rangstelle bestellten Erbbaurechte wie Rechte an einem anderen Grundstück zu behandeln.
 
@@ -978,8 +936,7 @@ Der Nutzer kann vom Grundstückseigentümer Befreiung von einer dinglichen Haftu
 
 Über das Erbbaurecht kann nur zusammen mit dem Eigentum am herrschenden Grundstück verfügt werden. Das Erbbaurecht ist im Grundbuch als Nachbarerbbaurecht zu bezeichnen, im Grundbuch des belasteten Grundstücks als Belastung und im Grundbuch des herrschenden Grundstücks als Bestandteil einzutragen.
 
-
-## § 40 – Wohnungserbbaurecht
+# § 40 – Wohnungserbbaurecht
 
 (1) Der Anspruch ist auf die Erbbaurechtsbestellung und Begründung von Erbbaurechten nach § 30 des Wohnungseigentumsgesetzes zu richten, wenn
 
@@ -995,13 +952,11 @@ Ein Wohnungserbbaurecht ist auch dann zu bestellen, wenn die Genehmigung zu eine
 
 (4) Nutzer und Grundstückseigentümer sind verpflichtet, an der Aufteilung und der Erlangung der in § 7 Abs. 4 des Wohnungseigentumsgesetzes bezeichneten Unterlagen mitzuwirken. Die dadurch entstehenden Kosten haben die künftigen Inhaber der Wohnungserbbaurechte nach dem Verhältnis ihrer Anteile zu tragen.
 
-
-## § 41 – Bestimmung des Bauwerks
+# § 41 – Bestimmung des Bauwerks
 
 Ein Erbbaurechtsvertrag nach diesem Kapitel kann mit dem Inhalt abgeschlossen werden, daß der Erbbauberechtigte jede baurechtlich zulässige Zahl und Art von Gebäuden oder Bauwerken errichten darf.
 
-
-## § 42 – Bestimmungen zum Inhalt des Erbbaurechts
+# § 42 – Bestimmungen zum Inhalt des Erbbaurechts
 
 (1) Zum Inhalt eines nach diesem Kapitel begründeten Erbbaurechts gehören die Vereinbarungen im Erbbaurechtsvertrag über
 
@@ -1025,8 +980,7 @@ Ein Erbbaurechtsvertrag nach diesem Kapitel kann mit dem Inhalt abgeschlossen we
 
 als Inhalt des Erbbaurechts bestimmt werden.
 
-
-## § 43 – Regelmäßiger Zins
+# § 43 – Regelmäßiger Zins
 
 (1) Der regelmäßige Zins beträgt die Hälfte des für die entsprechende Nutzung üblichen Zinses.
 
@@ -1044,8 +998,7 @@ b) vier vom Hundert jährlich des Bodenwerts, soweit die Größe des belasteten 
 
 In den Fällen des Satzes 1 Nr. 3 kann jeder Beteiligte verlangen, daß ein anderer Zinssatz der Erbbauzinsberechnung zugrunde gelegt wird, wenn der für diese Nutzung übliche Zinssatz mehr oder weniger als sieben vom Hundert jährlich beträgt.
 
-
-## § 44 – Fälligkeit des Anspruchs auf den Erbbauzins
+# § 44 – Fälligkeit des Anspruchs auf den Erbbauzins
 
 (1) Der Erbbauzins ist vierteljährlich nachträglich am 31. März, 30. Juni, 30. September und 31. Dezember eines Jahres zu zahlen.
 
@@ -1057,8 +1010,7 @@ In den Fällen des Satzes 1 Nr. 3 kann jeder Beteiligte verlangen, daß ein ande
 
 Der Nutzer hat auch dann ein Entgelt zu zahlen, wenn das Angebot von dem Inhalt des abzuschließenden Vertrages verhältnismäßig geringfügig abweicht. Bis zur Eintragung des Erbbaurechts in das Grundbuch hat der Nutzer an den Grundstückseigentümer ein Nutzungsentgelt in Höhe des Erbbauzinses zu zahlen.
 
-
-## § 45 – Verzinsung bei Überlassungsverträgen
+# § 45 – Verzinsung bei Überlassungsverträgen
 
 (1) Ist dem Nutzer aufgrund eines mit dem staatlichen Verwalter geschlossenen Vertrages ein Grundstück mit aufstehendem Gebäude überlassen worden, so ist auf Verlangen des Grundstückseigentümers über den Erbbauzins hinaus der Restwert des überlassenen Gebäudes und der überlassenen Grundstückseinrichtungen für die Zeit der üblichen Restnutzungsdauer zu verzinsen. Der Restwert bestimmt sich nach dem Sachwert des Gebäudes zum Zeitpunkt der Überlassung abzüglich der Wertminderung, die bis zu dem Zeitpunkt der Abgabe eines Angebots auf Abschluß eines Erbbaurechtsvertrages gewöhnlich eingetreten wäre. Er ist mit vier vom Hundert jährlich zu verzinsen.
 
@@ -1066,8 +1018,7 @@ Der Nutzer hat auch dann ein Entgelt zu zahlen, wenn das Angebot von dem Inhalt 
 
 (3) Eine Zahlungspflicht nach Absatz 1 entfällt, wenn der Nutzer auf dem Grundstück anstelle des bisherigen ein neues Gebäude errichtet hat.
 
-
-## § 46 – Zinsanpassung an veränderte Verhältnisse
+# § 46 – Zinsanpassung an veränderte Verhältnisse
 
 (1) Nutzer und Grundstückseigentümer sind verpflichtet, in den Erbbaurechtsvertrag eine Bestimmung aufzunehmen, die eine Anpassung des Erbbauzinses an veränderte Verhältnisse vorsieht. Die Anpassung kann erstmals nach Ablauf von zehn Jahren seit Bestellung des Erbbaurechts verlangt werden. Bei einer zu Wohnzwecken dienenden Nutzung bestimmt sich die Anpassung nach dem in § 9a des Erbbaurechtsgesetzes bestimmten Maßstab. Bei anderen Nutzungen ist die Anpassung nach
 
@@ -1081,8 +1032,7 @@ vorzunehmen. Weitere Anpassungen des Erbbauzinses können frühestens nach Ablau
 
 (2) Die Anpassung nach Absatz 1 Satz 3 und 4 ist auf den Betrag zu begrenzen, der sich aus der Entwicklung der Grundstückspreise ergibt. Die Begrenzung ist auf der Grundlage der Bodenrichtwerte nach § 196 des Baugesetzbuchs, soweit diese vorliegen, andernfalls in folgender Reihenfolge nach der allgemeinen Entwicklung der Grundstückspreise in dem Land, in dem das Grundstück ganz oder zum größten Teil belegen ist, dem in § 1 bezeichneten Gebiet oder im gesamten Bundesgebiet zu bestimmen. Abweichende Vereinbarungen und Zinsanpassungen sind gegenüber den Inhabern dinglicher Rechte am Erbbaurecht, die einen Anspruch auf Zahlung oder Befriedigung gewähren, unwirksam, es sei denn, daß der Erbbauzins nur als schuldrechtliche Verpflichtung zwischen dem Grundstückseigentümer und dem Nutzer vereinbart wird.
 
-
-## § 47 – Zinsanpassung an Nutzungsänderungen
+# § 47 – Zinsanpassung an Nutzungsänderungen
 
 (1) Nutzungsänderungen, zu denen der Erbbauberechtigte nach § 54 Abs. 2 und 3 berechtigt ist, rechtfertigen keine Anpassung des Erbbauzinses. Für Nutzungsänderungen nach § 54 Abs. 1 und 4 kann die Aufnahme der folgenden Zinsanpassungen im Erbbaurechtsvertrag verlangt werden:
 
@@ -1100,8 +1050,7 @@ In den Fällen des Satzes 2 Nr. 1 kann jeder Beteiligte verlangen, daß ein ande
 
 (3) Der Erbbauzins ist nach den in Absatz 1 Satz 2 Nr. 1 Buchstabe a und b genannten Zinssätzen zu bemessen, wenn der Nutzer das Gebäude oder die bauliche Anlage nach dem Ablauf des 20. Juli 1993 erworben hat und zum Zeitpunkt des der Veräußerung zugrunde liegenden Rechtsgeschäfts die in § 29 Abs. 3 Satz 1 bezeichneten Voraussetzungen vorlagen. Satz 1 ist nicht anzuwenden, wenn das Gebäude oder die bauliche Anlage als Teil eines Unternehmens veräußert wird und der Nutzer das Geschäft seines Rechtsvorgängers fortführt.
 
-
-## § 48 – Zinserhöhung nach Veräußerung
+# § 48 – Zinserhöhung nach Veräußerung
 
 (1) Der Grundstückseigentümer kann verlangen, daß in den Erbbaurechtsvertrag eine Bestimmung aufgenommen wird, in der sich der Erbbauberechtigte im Falle einer Veräußerung des Erbbaurechts in den ersten drei Jahren nach dessen Bestellung verpflichtet, einen Vertrag über die Veräußerung des Erbbaurechts in der Weise abzuschließen, daß der Erwerber des Erbbaurechts gegenüber dem Grundstückseigentümer zu einer Zinsanpassung nach Absatz 2 verpflichtet ist, wenn die in § 71 Abs. 1 Satz 1 Nr. 1 und 3 bezeichneten Voraussetzungen vorliegen.
 
@@ -1117,18 +1066,15 @@ In den Fällen des Satzes 2 Nr. 1 kann jeder Beteiligte verlangen, daß ein ande
 
 (5) Der Grundstückseigentümer kann verlangen, daß der Nutzer sich im Erbbaurechtsvertrag ihm gegenüber verpflichtet, einen Vertrag über die Veräußerung des Erbbaurechts so abzuschließen, daß der Erwerber die Pflichten zur Zinsanpassung wegen der in § 70 Abs. 1 bezeichneten Nutzungsänderungen übernimmt.
 
-
-## § 49 – Zustimmungsvorbehalt
+# § 49 – Zustimmungsvorbehalt
 
 Der Grundstückseigentümer kann verlangen, daß die Veräußerung nach § 5 Abs. 1 des Erbbaurechtsgesetzes seiner Zustimmung bedarf. Der Grundstückseigentümer hat diese zu erteilen, wenn die in § 47 Abs. 1, § 48 Abs. 1 bis 3 und 5 bezeichneten Voraussetzungen erfüllt sind.
 
-
-## § 50 – Zinsanpassung wegen abweichender Grundstücksgröße
+# § 50 – Zinsanpassung wegen abweichender Grundstücksgröße
 
 Jeder Beteiligte kann verlangen, daß sich der andere Teil zu einer Zinsanpassung verpflichtet, wenn sich nach dem Ergebnis einer noch durchzuführenden Vermessung herausstellt, daß die tatsächliche Grundstücksgröße von der im Vertrag zugrunde gelegten mehr als geringfügig abweicht. § 72 Abs. 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 51 – Eingangsphase
+# § 51 – Eingangsphase
 
 (1) Der Erbbauberechtigte kann vom Grundstückseigentümer eine Ermäßigung des Erbbauzinses in den ersten Jahren verlangen (Eingangsphase). Der ermäßigte Zins beträgt
 
@@ -1152,15 +1098,13 @@ des sich aus den vorstehenden Bestimmungen ergebenden Erbbauzinses. Die Eingangs
 
 (3) Haben die Parteien ein vertragliches Nutzungsentgelt vereinbart, kann der Nutzer eine Ermäßigung nur bis zur Höhe des vereinbarten Entgelts verlangen. Übersteigt das vertraglich vereinbarte Entgelt den nach diesem Kapitel zu zahlenden Erbbauzins, kann der Nutzer nur eine Anpassung des Erbbauzinses auf den nach Ablauf der Eingangsphase zu zahlenden Betrag verlangen.
 
-
-## § 52 – Sicherung des Erbbauzinses
+# § 52 – Sicherung des Erbbauzinses
 
 (1) Der Grundstückseigentümer kann die Absicherung des regelmäßigen Erbbauzinses durch Eintragung einer Reallast an rangbereiter Stelle sowie eine Vereinbarung über die Sicherung der Reallast nach § 9 Abs. 3 des Erbbaurechtsgesetzes verlangen.
 
 (2) Auf Verlangen des Nutzers ist in den Erbbaurechtsvertrag eine Bestimmung aufzunehmen, nach der sich der Grundstückseigentümer zu einem Rangrücktritt der Reallast zugunsten eines für Baumaßnahmen des Nutzers innerhalb des in § 13 Absatz 2, § 14 Abs. 1 und § 16 Abs. 1 bis 3 des Pfandbriefgesetzes bezeichneten Finanzierungsraums verpflichtet, wenn nach § 9 Abs. 3 des Erbbaurechtsgesetzes das Bestehenbleiben des Erbbauzinses als Inhalt der Reallast vereinbart wird.
 
-
-## § 53 – Dauer des Erbbaurechts
+# § 53 – Dauer des Erbbaurechts
 
 (1) Die regelmäßige Dauer des Erbbaurechts ist entsprechend der nach dem Inhalt des Nutzungsrechts zulässigen Bebauung zu bestimmen. Ist ein Nutzungsrecht nicht bestellt worden, so ist von der tatsächlichen Bebauung auszugehen, wenn sie nach den Rechtsvorschriften zulässig gewesen oder mit Billigung staatlicher Stellen erfolgt ist.
 
@@ -1178,8 +1122,7 @@ b) für die sozialen Zwecken dienenden Gebäude (insbesondere Schulen, Krankenh�
 
 (3) Auf Verlangen des Grundstückseigentümers ist eine verkürzte Laufzeit nach der Restnutzungsdauer des Gebäudes zu vereinbaren, wenn diese weniger als 50, jedoch mehr als 25 Jahre beträgt, das Grundstück mit einem land-, forstwirtschaftlich, gewerblich genutzten oder einem öffentlichen Zwecken dienenden Gebäude oder einer baulichen Anlage bebaut worden ist und für die Bebauung ein dingliches Nutzungsrecht nicht bestellt oder ein unbefristeter Nutzungsvertrag, der nur aus besonderen Gründen gekündigt werden konnte, nicht geschlossen wurde. Ist ein Vertrag mit einer über die Restnutzungsdauer des Gebäudes hinausgehenden Laufzeit abgeschlossen worden, kann der Nutzer die Bestellung eines Erbbaurechts für den Zeitraum verlangen, der wenigstens der Restlaufzeit des Vertrages entspricht, jedoch nicht über den in Absatz 2 bestimmten Zeitraum hinaus. Beträgt die Restnutzungsdauer weniger als 25 Jahre, so ist § 31 Abs. 2 bis 5 anzuwenden.
 
-
-## § 54 – Vertraglich zulässige bauliche Nutzung
+# § 54 – Vertraglich zulässige bauliche Nutzung
 
 (1) Die vertraglich zulässige bauliche Nutzung ist nach dem Inhalt des Nutzungsrechts oder, falls ein solches Recht nicht bestellt wurde, nach der Nutzung zu bestimmen, die auf genossenschaftlich genutzten Flächen am 30. Juni 1990, auf anderen Flächen am 2. Oktober 1990, ausgeübt wurde. Befand sich das Gebäude zu dem nach Satz 1 maßgebenden Zeitpunkt noch im Bau, so ist die vorgesehene Nutzung des im Bau befindlichen Gebäudes zugrunde zu legen.
 
@@ -1189,15 +1132,13 @@ b) für die sozialen Zwecken dienenden Gebäude (insbesondere Schulen, Krankenh�
 
 (4) Der Nutzer kann eine Vereinbarung beanspruchen, nach der Änderungen zulässig sein sollen, die über den in den Absätzen 2 und 3 benannten Umfang hinausgehen. Zulässig ist auch ein Wechsel der Nutzungsart nach § 70 Abs. 1, wenn dies für eine wirtschaftlich sinnvolle Nutzung der errichteten Gebäude erforderlich ist. Der Grundstückseigentümer kann dem widersprechen, wenn der Nutzer nicht bereit ist, die in § 47 bezeichneten Verpflichtungen in den Vertrag aufzunehmen.
 
-
-## § 55 – Nutzungsbefugnis des Erbbauberechtigten, Grundstücksteilung
+# § 55 – Nutzungsbefugnis des Erbbauberechtigten, Grundstücksteilung
 
 (1) Die Befugnis des Erbbauberechtigten, über die Grundfläche des Gebäudes hinausgehende Teile des Grundstücks zu nutzen, ist nach den §§ 21 bis 27 zu bestimmen. Der Erbbauberechtigte ist berechtigt, auch die nicht bebauten Flächen des belasteten Grundstücks zu nutzen.
 
 (2) Grundstückseigentümer und Nutzer können eine Abschreibung des mit dem Erbbaurecht belasteten Grundstücks verlangen, wenn die Nutzungsbefugnis sich nicht auf das Grundstück insgesamt erstreckt, das Restgrundstück selbständig baulich nutzbar ist, eine Teilungsgenehmigung nach § 120 erteilt wird und eine Vermessung durchgeführt werden kann. Die Kosten der Vermessung sind zu teilen.
 
-
-## § 56 – Errichtung und Unterhaltung des Gebäudes, Heimfall
+# § 56 – Errichtung und Unterhaltung des Gebäudes, Heimfall
 
 (1) Der Grundstückseigentümer, der mit der Ausgabe von Erbbaurechten besondere öffentliche, soziale oder vergleichbare Zwecke in bezug auf die Bebauung des Grundstücks verfolgt, kann vom Nutzer die Zustimmung zu vertraglichen Bestimmungen verlangen, in denen sich dieser verpflichtet,
 
@@ -1213,8 +1154,7 @@ b) für die sozialen Zwecken dienenden Gebäude (insbesondere Schulen, Krankenh�
 
 (5) Jeder Grundstückseigentümer kann verlangen, daß der Erbbauberechtigte sich zum Abschluß einer den Wert des Gebäudes deckenden Versicherung verpflichtet.
 
-
-## § 57 – Ankaufsrecht
+# § 57 – Ankaufsrecht
 
 (1) Der Nutzer kann verlangen, daß in den Erbbaurechtsvertrag eine Verpflichtung des Grundstückseigentümers aufgenommen wird, das Grundstück an den jeweiligen Erbbauberechtigten zu verkaufen. Die Frist für das Ankaufsrecht ist auf zwölf Jahre von der Bestellung des Erbbaurechts an zu beschränken, wenn der Grundstückseigentümer eine Befristung verlangt.
 
@@ -1222,20 +1162,17 @@ b) für die sozialen Zwecken dienenden Gebäude (insbesondere Schulen, Krankenh�
 
 (3) Im Falle einer Weiterveräußerung des Grundstücks nach dem Ankauf ist § 71 entsprechend anzuwenden.
 
-
-## § 58 – Öffentliche Lasten
+# § 58 – Öffentliche Lasten
 
 Der Grundstückseigentümer kann verlangen, daß der Erbbauberechtigte vom Tage der Bestellung des Erbbaurechts an die auf dem Grundstück ruhenden öffentlichen Lasten zu tragen hat, soweit diese dem Gebäude und der vom Erbbauberechtigten genutzten Fläche zuzurechnen sind. Die gesetzlichen und vertraglichen Regelungen über die entsprechenden Verpflichtungen des Nutzers bleiben bis zur Bestellung des Erbbaurechts unberührt.
 
-
-## § 59 – Erlöschen des Gebäudeeigentums und des Nutzungsrechts
+# § 59 – Erlöschen des Gebäudeeigentums und des Nutzungsrechts
 
 (1) Das Gebäude wird Bestandteil des Erbbaurechts. Das selbständige Gebäudeeigentum erlischt mit dessen Entstehung.
 
 (2) Mit der Bestellung des Erbbaurechts erlöschen zugleich ein nach bisherigem Recht begründetes Nutzungsrecht und etwaige vertragliche oder gesetzliche Besitzrechte des Nutzers.
 
-
-## § 60 – Anwendbarkeit des Erbbaurechtsgesetzes, Kosten und Gewährleistung
+# § 60 – Anwendbarkeit des Erbbaurechtsgesetzes, Kosten und Gewährleistung
 
 (1) Auf die nach den Bestimmungen dieses Kapitels bestellten Erbbaurechte findet, soweit nicht Abweichendes gesetzlich angeordnet oder zugelassen ist, das Erbbaurechtsgesetzes Anwendung.
 
@@ -1243,8 +1180,7 @@ Der Grundstückseigentümer kann verlangen, daß der Erbbauberechtigte vom Tage 
 
 (3) Der Grundstückseigentümer haftet nicht für Sachmängel des Grundstücks.
 
-
-## § 61 – Grundsatz
+# § 61 – Grundsatz
 
 (1) Der Nutzer kann vom Grundstückseigentümer die Annahme eines Angebots für einen Grundstückskaufvertrag verlangen, wenn der Inhalt des Angebots den Bestimmungen der §§ 65 bis 74 entspricht.
 
@@ -1256,15 +1192,13 @@ Der Grundstückseigentümer kann verlangen, daß der Erbbauberechtigte vom Tage 
 
 3. das Wahlrecht auf den Grundstückseigentümer übergegangen ist.
 
-
-## § 62 – Dienstbarkeit, Nießbrauch, Wohnungsrecht
+# § 62 – Dienstbarkeit, Nießbrauch, Wohnungsrecht
 
 (1) Dingliche Rechte am Grundstück, die einen Anspruch auf Zahlung oder Befriedigung aus dem Grundstück nicht gewähren, erlöschen auf den nach § 66 abzuschreibenden Teilflächen, die außerhalb der Ausübungsbefugnis des Inhabers des dinglichen Rechts liegen. Dasselbe gilt, wenn diese Rechte seit ihrer Bestellung nur auf einer Teilfläche ausgeübt wurden. Die Vertragsparteien können von den Inhabern dieser Rechte am Grundstück die Zustimmung zur Berichtigung des Grundbuchs verlangen.
 
 (2) Für die nach dem 21. Juli 1992 beantragten Belastungen des Grundstücks ist § 63 Abs. 1 entsprechend anzuwenden.
 
-
-## § 63 – Hypothek, Grundschuld, Rentenschuld, Reallast
+# § 63 – Hypothek, Grundschuld, Rentenschuld, Reallast
 
 (1) Der Nutzer kann von den Inhabern dinglicher Rechte, die einen Anspruch auf Zahlung oder Befriedigung aus dem Grundstück gewähren, verlangen, auf ihr Recht zu verzichten, wenn der Antrag auf Eintragung der Belastung nach dem 21. Juli 1992 beim Grundbuchamt einging und dem Inhaber des dinglichen Rechts bekannt war, daß der Grundstückseigentümer vorsätzlich seiner Verpflichtung aus Artikel 233 § 2a Abs. 3 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zuwiderhandelte, das vom Nutzer bebaute Grundstück nicht zu belasten. Erwirbt der Nutzer eine Teilfläche, so beschränkt sich der Anspruch nach Satz 1 auf die Zustimmung zur lastenfreien Abschreibung.
 
@@ -1272,8 +1206,7 @@ Der Grundstückseigentümer kann verlangen, daß der Erbbauberechtigte vom Tage 
 
 (3) Liegen die in Absatz 2 genannten Voraussetzungen nicht vor, kann der Nutzer verlangen, daß der Inhaber des dinglichen Rechts die Mithaftung des Trennstücks auf den Betrag beschränkt, dessen Wert im Verhältnis zu dem beim Grundstückseigentümer verbleibenden Grundstück entspricht. § 1132 Abs. 2 des Bürgerlichen Gesetzbuchs findet entsprechende Anwendung.
 
-
-## § 64 – Ansprüche gegen den Grundstückseigentümer
+# § 64 – Ansprüche gegen den Grundstückseigentümer
 
 (1) Der Grundstückseigentümer ist vorbehaltlich der nachfolgenden Bestimmungen verpflichtet, dem Nutzer das Grundstück frei von Rechten Dritter zu übertragen, die gegen den Nutzer geltend gemacht werden können. Satz 1 ist nicht anzuwenden auf
 
@@ -1293,15 +1226,13 @@ d) der Nutzer der Belastung zugestimmt hat.
 
 (3) Der Inhaber eines in § 63 Abs. 1 bezeichneten dinglichen Rechts, der einer lastenfreien Um- oder Abschreibung zuzustimmen verpflichtet ist, erwirbt im Range und Umfang seines Rechts am Grundstück ein Pfandrecht am Anspruch auf den vom Nutzer zu zahlenden Kaufpreis. Ist das Recht nicht auf Leistung eines Kapitals gerichtet, sichert das Pfandrecht den Anspruch auf Wertersatz. Jeder Inhaber eines solchen Rechts kann vom Nutzer die Hinterlegung des Kaufpreises verlangen.
 
-
-## § 65 – Kaufgegenstand
+# § 65 – Kaufgegenstand
 
 (1) Kaufgegenstand ist das mit dem Nutzungsrecht belastete oder bebaute Grundstück oder eine abzuschreibende Teilfläche.
 
 (2) Ist eine Teilung eines bebauten Grundstücks nicht möglich oder unzweckmäßig (§ 66 Abs. 2), ist als Kaufgegenstand ein Miteigentumsanteil am Grundstück in Verbindung mit dem Sondereigentum an Wohnungen oder dem Teileigentum an nicht zu Wohnzwecken dienenden Räumen eines Gebäudes zu bestimmen.
 
-
-## § 66 – Teilflächen
+# § 66 – Teilflächen
 
 (1) Die Bestimmung abzuschreibender Teilflächen ist nach den §§ 22 bis 27 vorzunehmen. Die Grenzen dieser Flächen sind in dem Vertrag zu bezeichnen nach
 
@@ -1313,8 +1244,7 @@ d) der Nutzer der Belastung zugestimmt hat.
 
 (2) Eine Abschreibung von Teilflächen ist nicht möglich, wenn mehrere Nutzer oder der Nutzer und der Grundstückseigentümer abgeschlossene Teile eines Gebäudes unter Ausschluß des anderen nutzen oder wenn die Teilungsgenehmigung nach § 120 zu einer Teilung des Grundstücks versagt wird. Eine Teilung ist unzweckmäßig, wenn gemeinschaftliche Erschließungsanlagen oder gemeinsame Anlagen und Anbauten genutzt werden und die Regelungen für den Gebrauch, die Unterhaltung der Anlagen sowie die Verpflichtung von Rechtsnachfolgern der Vertragsparteien einen außerordentlichen Aufwand verursachen würden. § 40 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 67 – Begründung von Wohnungs- oder Teileigentum
+# § 67 – Begründung von Wohnungs- oder Teileigentum
 
 (1) In den Fällen des § 66 Abs. 2 kann jeder Beteiligte verlangen, daß anstelle einer Grundstücksteilung und Veräußerung einer Teilfläche Wohnungs- oder Teileigentum begründet und veräußert wird. Die Verträge sollen folgende Bestimmungen enthalten:
 
@@ -1332,15 +1262,13 @@ d) der Nutzer der Belastung zugestimmt hat.
 
 (4) Die Beteiligten sind verpflichtet, an der Erlangung der für die Aufteilung erforderlichen Unterlagen mitzuwirken. § 40 Abs. 4 ist entsprechend anzuwenden.
 
-
-## § 68 – Regelmäßiger Preis
+# § 68 – Regelmäßiger Preis
 
 (1) Der Kaufpreis beträgt die Hälfte des Bodenwerts, soweit nicht im folgenden etwas anderes bestimmt ist.
 
 (2) Macht der Nutzer dem Grundstückseigentümer im ersten Jahr nach dem 1. Oktober 1994 ein Angebot für einen Grundstückskaufvertrag oder beantragt er innerhalb dieser Zeit das notarielle Vermittlungsverfahren zum Abschluß eines solchen Vertrages, so kann er eine Ermäßigung des nach Absatz 1 ermittelten Kaufpreises um fünf vom Hundert für den Fall verlangen, daß der ermäßigte Kaufpreis innerhalb eines Monats gezahlt wird, nachdem der Notar dem Käufer mitgeteilt hat, daß alle zur Umschreibung erforderlichen Voraussetzungen vorliegen. Wird das Angebot im zweiten Jahr nach dem 1. Oktober 1994 gemacht oder innerhalb dieser Zeit das notarielle Vermittlungsverfahren beantragt, so beträgt die Ermäßigung zweieinhalb vom Hundert. Die Ermäßigung ist ausgeschlossen, wenn zuvor ein Erbbauzins an den Grundstückseigentümer zu zahlen war. Die Ermäßigung fällt weg, wenn der Käufer den Vertragsschluß wider Treu und Glauben erheblich verzögert.
 
-
-## § 69 – Preisanhebung bei kurzer Restnutzungsdauer des Gebäudes
+# § 69 – Preisanhebung bei kurzer Restnutzungsdauer des Gebäudes
 
 (1) Der nach § 68 zu bestimmende Kaufpreis ist auf Verlangen des Grundstückseigentümers wegen kurzer Restnutzungsdauer des Gebäudes zu erhöhen, wenn
 
@@ -1352,8 +1280,7 @@ d) der Nutzer der Belastung zugestimmt hat.
 
 (2) Zur Bestimmung der Preisanhebung sind die Bodenwertanteile eines Erbbaurechts mit der Restnutzungsdauer des Gebäudes und eines Erbbaurechts mit der regelmäßigen Laufzeit nach § 53 zu errechnen. Der Bodenwertanteil des Nutzers ist nach dem Verhältnis der Bodenwertanteile der in Satz 1 bezeichneten Erbbaurechte zu ermitteln. Der angehobene Preis errechnet sich durch Abzug des Anteils des Nutzers vom Bodenwert.
 
-
-## § 70 – Preisbemessung nach dem ungeteilten Bodenwert
+# § 70 – Preisbemessung nach dem ungeteilten Bodenwert
 
 (1) Der Kaufpreis ist nach dem ungeteilten Bodenwert zu bemessen, wenn die Nutzung des Grundstücks geändert wird. Eine Nutzungsänderung im Sinne des Satzes 1 liegt vor, wenn
 
@@ -1369,8 +1296,7 @@ d) der Nutzer der Belastung zugestimmt hat.
 
 (4) Der Kaufpreis ist auch dann nach dem ungeteilten Bodenwert zu bemessen, wenn der Nutzer das Gebäude oder die bauliche Anlage nach dem Ablauf des 20. Juli 1993 erworben hat und zum Zeitpunkt des der Veräußerung zugrunde liegenden Rechtsgeschäfts die in § 29 Abs. 3 bezeichneten Voraussetzungen vorlagen. Satz 1 ist nicht anzuwenden, wenn das Gebäude oder die bauliche Anlage als Teil eines Unternehmens veräußert wird und der Nutzer das Geschäft seines Rechtsvorgängers fortführt.
 
-
-## § 71 – Nachzahlungsverpflichtungen
+# § 71 – Nachzahlungsverpflichtungen
 
 (1) Der Grundstückseigentümer kann im Falle des Verkaufs zum regelmäßigen Preis (§ 68) verlangen, daß sich der Nutzer ihm gegenüber verpflichtet, die Differenz zu dem ungeteilten Bodenwert (§ 70) zu zahlen, wenn innerhalb einer Frist von drei Jahren nach dem Erwerb
 
@@ -1388,8 +1314,7 @@ Dies gilt nicht, wenn das Grundstück als Teil eines Unternehmens veräußert wi
 
 (4) Vermietungen, Verpachtungen sowie die Begründung von Wohnungs- und Nießbrauchsrechten oder ähnliche Rechtsgeschäfte, durch die einem Dritten eigentümerähnliche Nutzungsbefugnisse übertragen werden oder werden sollen, stehen einer Veräußerung nach den Absätzen 1 und 2 gleich.
 
-
-## § 72 – Ausgleich wegen abweichender Grundstücksgröße
+# § 72 – Ausgleich wegen abweichender Grundstücksgröße
 
 (1) Jeder Beteiligte kann verlangen, daß sich der andere Teil ihm gegenüber verpflichtet, eine Ausgleichszahlung zu leisten, wenn der Kaufpreis nach der Quadratmeterzahl des Grundstücks bemessen wird und die Größe des Grundstücks von der im Vertrag zugrunde gelegten nach dem Ergebnis einer Vermessung mehr als geringfügig abweicht. Die in § 437 des Bürgerlichen Gesetzbuchs bezeichneten Rechte sind ausgeschlossen, es sei denn, dass eine Gewährleistung wegen abweichender Grundstücksgröße im Vertrag ausdrücklich vereinbart wird.
 
@@ -1405,8 +1330,7 @@ nicht überschreiten.
 
 (3) Ansprüche nach Absatz 1 verjähren in einem Jahr nach der Vermessung.
 
-
-## § 73 – Preisbemessung im Wohnungsbau
+# § 73 – Preisbemessung im Wohnungsbau
 
 (1) Für die im staatlichen oder genossenschaftlichen Wohnungsbau verwendeten Grundstücke ist der Kaufpreis unter Zugrundelegung des sich aus § 20 Abs. 1 und 2 ergebenden Bodenwerts zu bestimmen. Der Grundstückseigentümer kann vom Nutzer eines im staatlichen oder genossenschaftlichen Wohnungsbau verwendeten Grundstücks verlangen, daß der Nutzer sich im Vertrag ihm gegenüber zu einer Nachzahlung verpflichtet, wenn
 
@@ -1436,8 +1360,7 @@ Der Bodenwert ist auf den Zeitpunkt festzustellen, in dem der Nachzahlungsanspru
 
 (6) Der Anspruch aus § 71 bleibt unberührt.
 
-
-## § 74 – Preisbemessung bei Überlassungsverträgen
+# § 74 – Preisbemessung bei Überlassungsverträgen
 
 (1) Der Grundstückseigentümer kann eine Anhebung des Kaufpreises durch Anrechnung des Restwerts des überlassenen Gebäudes und der Grundstückseinrichtungen verlangen. Die Erhöhung des Preises ist pauschal nach dem Sachwert des Gebäudes und der Grundstückseinrichtungen zum Zeitpunkt der Überlassung abzüglich der Wertminderungen, die bis zum Zeitpunkt der Abgabe eines Angebots zum Vertragsschluß eingetreten wären, zu bestimmen. Die Wertminderung ist nach der Nutzungsdauer von Gebäuden und Einrichtungen der entsprechenden Art und den üblichen Wertminderungen wegen Alters und Abnutzung zu berechnen. Eine andere Berechnung kann verlangt werden, wenn dies wegen besonderer Umstände, insbesondere erheblicher Bauschäden zum Zeitpunkt der Überlassung, geboten ist.
 
@@ -1447,25 +1370,21 @@ Der Bodenwert ist auf den Zeitpunkt festzustellen, in dem der Nachzahlungsanspru
 
 (4) Ist eine Anrechnung nach Absatz 3 nicht möglich, so ist der Grundstückseigentümer verpflichtet, insoweit seine Ersatzansprüche gegen den staatlichen Verwalter auf den Nutzer zu übertragen und dies dem Verwalter anzuzeigen.
 
-
-## § 75 – Gefahr, Lasten
+# § 75 – Gefahr, Lasten
 
 (1) Der Nutzer trägt die Gefahr für ein von ihm errichtetes Gebäude. Er hat vom Kaufvertragsschluß an die auf dem Grundstück ruhenden Lasten zu tragen.
 
 (2) Gesetzliche oder vertragliche Regelungen, nach denen der Nutzer die Lasten schon vorher zu tragen hatte, bleiben bis zum Vertragsschluß unberührt. Ansprüche des Nutzers auf Aufwendungsersatz bestehen nicht.
 
-
-## § 76 – Gewährleistung
+# § 76 – Gewährleistung
 
 Der Verkäufer haftet nicht für Sachmängel des Grundstücks.
 
-
-## § 77 – Kosten
+# § 77 – Kosten
 
 Die Kosten des Vertrages und seiner Durchführung sind zwischen den Vertragsparteien zu teilen.
 
-
-## § 78 – Rechtsfolgen des Erwerbs des Grundstückseigentums durch den Nutzer
+# § 78 – Rechtsfolgen des Erwerbs des Grundstückseigentums durch den Nutzer
 
 (1) Vereinigen sich Grundstücks- und Gebäudeeigentum in einer Person, so ist eine Veräußerung oder Belastung allein des Gebäudes oder des Grundstücks ohne das Gebäude nicht mehr zulässig. Die Befugnis zur Veräußerung im Wege der Zwangsversteigerung oder zu deren Abwendung bleibt unberührt. Der Eigentümer ist verpflichtet, das Eigentum am Gebäude nach § 875 des Bürgerlichen Gesetzbuchs aufzugeben, sobald dieses unbelastet ist oder sich die dinglichen Rechte am Gebäude mit dem Eigentum am Gebäude in seiner Person vereinigt haben. Der Eigentümer des Gebäudes und der Inhaber einer Grundschuld sind verpflichtet, das Recht aufzugeben, wenn die Forderung, zu deren Sicherung die Grundschuld bestellt worden ist, nicht entstanden oder erloschen ist. Das Grundbuchamt hat den Eigentümer zur Erfüllung der in den Sätzen 3 und 4 bestimmten Pflichten anzuhalten. Die Vorschriften über den Grundbuchberichtigungszwang im Fünften Abschnitt der Grundbuchordnung finden entsprechende Anwendung.
 
@@ -1479,8 +1398,7 @@ Die Kosten des Vertrages und seiner Durchführung sind zwischen den Vertragspart
 
 Der frühere Grundstückseigentümer erwirbt mit dem Entstehen einer Nachzahlungsverpflichtung des Eigentümers aus § 73 Abs. 1 ein vorrangiges Pfandrecht an den Ansprüchen des Eigentümers gegen den Erwerber aus einer Nutzungsänderung.
 
-
-## § 79 – Durchsetzung des Erfüllungsanspruchs
+# § 79 – Durchsetzung des Erfüllungsanspruchs
 
 (1) Der Grundstückseigentümer kann wegen seiner Ansprüche aus dem Kaufvertrag die Zwangsversteigerung des Gebäudes oder der baulichen Anlage des Nutzers nur unter gleichzeitiger Versteigerung des nach dem Vertrag zu veräußernden Grundstücks betreiben. Der Grundstückseigentümer darf einen Antrag auf Versteigerung des Gebäudes und des Grundstücks erst stellen, wenn er dem Nutzer die Versteigerung des verkauften Grundstücks zuvor angedroht, dem Nutzer eine Nachfrist zur Zahlung von mindestens zwei Wochen gesetzt hat und diese Frist fruchtlos verstrichen ist.
 
@@ -1494,8 +1412,7 @@ Der frühere Grundstückseigentümer erwirbt mit dem Entstehen einer Nachzahlung
 
 (4) An die Stelle des Anspruchs des Nutzers auf Übereignung tritt der Anspruch auf Auskehr des nach Berichtigung der Kosten und Befriedigung des Grundstückseigentümers verbleibenden Resterlöses.
 
-
-## § 80 – Ansprüche wegen Pflichtverletzung
+# § 80 – Ansprüche wegen Pflichtverletzung
 
 Dem Grundstückseigentümer stehen nach fruchtlosem Ablauf einer zur Leistung gesetzten Frist statt der in den §§ 281 und 323 des Bürgerlichen Gesetzbuchs bezeichneten Rechte die folgenden Rechte zu. Der Grundstückseigentümer kann
 
@@ -1505,8 +1422,7 @@ Dem Grundstückseigentümer stehen nach fruchtlosem Ablauf einer zur Leistung ge
 
 Der Grundstückseigentümer kann über die in Satz 1 bezeichneten Ansprüche hinaus vom Nutzer Ersatz der ihm durch den Vertragsschluß entstandenen Vermögensnachteile sowie vom Ablauf der Nachfrist an ein Nutzungsentgelt in Höhe des nach dem Abschnitt 2 zu zahlenden Erbbauzinses verlangen. Die Regelungen über eine Zinsermäßigung in § 51 sind nicht anzuwenden, auch wenn nach Satz 1 Nr. 1 auf Verlangen des Grundstückseigentümers ein Erbbaurechtsvertrag geschlossen wird.
 
-
-## § 81 – Voraussetzungen, Kaufgegenstand, Preisbestimmung
+# § 81 – Voraussetzungen, Kaufgegenstand, Preisbestimmung
 
 (1) Der Grundstückseigentümer ist berechtigt, ein vom Nutzer errichtetes oder erworbenes Wirtschaftsgebäude oder dessen bauliche Anlage anzukaufen oder, wenn kein selbständiges Gebäudeeigentum entstanden ist, die aus der baulichen Investition begründeten Rechte abzulösen, wenn
 
@@ -1532,8 +1448,7 @@ Satz 1 Nr. 4 Buchstabe b ist nicht anzuwenden, wenn den betrieblichen Belangen d
 
 (5) Erwirbt der Grundstückseigentümer selbständiges Gebäudeeigentum, ist § 78 entsprechend anzuwenden.
 
-
-## § 82 – Übernahmeverlangen des Grundstückseigentümers
+# § 82 – Übernahmeverlangen des Grundstückseigentümers
 
 (1) Ist das vom Nutzer errichtete oder erworbene Gebäude oder die bauliche Anlage nicht mehr nutzbar und beruht die Erforderlichkeit alsbaldigen Abbruchs auf unterlassener Instandhaltung durch den Nutzer, kann der Grundstückseigentümer vom Nutzer
 
@@ -1557,15 +1472,13 @@ verlangen.
 
 (6) Abweichende vertragliche Vereinbarungen bleiben unberührt.
 
-
-## § 83 – Ende des Besitzrechts, Härteklausel
+# § 83 – Ende des Besitzrechts, Härteklausel
 
 (1) Der Nutzer gilt gegenüber dem Grundstückseigentümer bis zum Ablauf eines Jahres nach dem Abschluß des Kaufvertrages als zum Besitz berechtigt. Der Grundstückseigentümer kann für die Nutzung des Gebäudes ein Entgelt in Höhe der ortsüblichen Miete verlangen.
 
 (2) Ist das Gebäude für den Betrieb des Nutzers unentbehrlich und ein anderes Gebäude zu angemessenen Bedingungen nicht zu beschaffen, ist der Nutzer berechtigt, vom Grundstückseigentümer den Abschluß eines Mietvertrages für längstens fünf Jahre nach dem Kauf des Gebäudes durch den Grundstückseigentümer zu verlangen.
 
-
-## § 84 – Rechte des Nutzers bei Zahlungsverzug
+# § 84 – Rechte des Nutzers bei Zahlungsverzug
 
 (1) Der Nutzer darf wegen seiner Ansprüche aus dem Kaufvertrag die Zwangsversteigerung in das Grundstück nur unter gleichzeitiger Versteigerung seines Gebäudes oder seiner baulichen Anlage, sofern daran selbständiges Eigentum besteht, sowie mit der Bedingung des Erlöschens seines Rechts zum Besitz aus Artikel 233 § 2a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche betreiben. § 79 Abs. 2 und 3 ist entsprechend anzuwenden.
 
@@ -1577,27 +1490,23 @@ verlangen.
 
 verlangen. Dem Nutzer stehen weiter die in § 80 Satz 2 bezeichneten Ansprüche zu.
 
-
-## § 85 – Unvermessene Flächen
+# § 85 – Unvermessene Flächen
 
 (1) Sind die Grenzen der Flächen, auf die sich das Nutzungsrecht erstreckt, nicht im Liegenschaftskataster nachgewiesen (unvermessene Flächen) oder wurde eine Bebauung nach den §§ 4 bis 7 und 12 ohne Bestellung eines Nutzungsrechts vorgenommen, erfolgt die Bestimmung des Teils des Grundstücks, auf den sich die Nutzungsbefugnis des Erbbauberechtigten erstreckt oder der vom Stammgrundstück abgeschrieben werden soll, nach den Vorschriften des Bodensonderungsgesetzes.
 
 (2) Einigungen der Beteiligten über den Verlauf der Nutzungsrechtsgrenzen und des Grundstücks sind zulässig.
 
-
-## § 86 – Bodenordnungsverfahren
+# § 86 – Bodenordnungsverfahren
 
 Die Neuregelung der Grundstücksgrenzen in Verfahren zur Flurbereinigung nach dem Flurbereinigungsgesetz, zur Feststellung und Neuordnung der Eigentumsverhältnisse nach den §§ 53 bis 64b des Landwirtschaftsanpassungsgesetzes, zur Umlegung und Grenzregelung nach den §§ 45 bis 84 des Baugesetzbuchs sowie der Bodenneuordnung nach § 5 des Bodensonderungsgesetzes bleibt unberührt.
 
-
-## § 87 – Antragsgrundsatz
+# § 87 – Antragsgrundsatz
 
 (1) Auf Antrag ist der Abschluß von Verträgen zur Bestellung von Erbbaurechten oder zum Kauf des Grundstücks oder des Gebäudes oder, wenn kein selbständiges Gebäudeeigentum entstanden ist, zur Ablösung der aus der baulichen Investition begründeten Rechte, nach diesem Gesetz durch den Notar zu vermitteln.
 
 (2) Antragsberechtigt ist der Nutzer oder der Grundstückseigentümer, der den Abschluß eines in Absatz 1 bezeichneten Vertrages geltend machen kann.
 
-
-## § 88 – Sachliche und örtliche Zuständigkeit
+# § 88 – Sachliche und örtliche Zuständigkeit
 
 (1) Für die Vermittlung ist jeder Notar zuständig, dessen Amtsbezirk sich in dem Land befindet, in dem das zu belastende oder zu veräußernde Grundstück oder Gebäude ganz oder zum größten Teil belegen ist. Die Beteiligten können auch die Zuständigkeit eines nach Satz 1 nicht zuständigen Notars für das Vermittlungsverfahren vereinbaren.
 
@@ -1605,15 +1514,13 @@ Die Neuregelung der Grundstücksgrenzen in Verfahren zur Flurbereinigung nach de
 
 (3) Bei den nach den Vorschriften der Zivilprozeßordnung erfolgenden Zustellungen obliegen dem Notar auch die Aufgaben des Urkundsbeamten der Geschäftsstelle.
 
-
-## § 89 – Verfahrensart
+# § 89 – Verfahrensart
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind auf das notarielle Vermittlungsverfahren die Vorschriften des Buchs 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 
 (2) Über Beschwerden gegen die Amtstätigkeit des Notars entscheidet das Landgericht, in dessen Bezirk das Grundstück oder das Gebäude ganz oder zum größten Teil belegen ist.
 
-
-## § 90 – Inhalt des Antrags
+# § 90 – Inhalt des Antrags
 
 (1) In dem Antrag sind anzugeben
 
@@ -1661,13 +1568,11 @@ worden ist. Der Antrag soll weiter Angaben darüber enthalten, wie das Grundstü
 
 (5) Fehlt es an den in Absatz 1 bezeichneten Erklärungen, hat der Notar dem Antragsteller eine angemessene Frist zur Ergänzung des Antrags zu bestimmen. Verstreicht die Frist fruchtlos, so weist der Notar den Antrag auf Kosten des Antragstellers als unzulässig zurück. Der Antragsteller kann ein neues Verfahren beantragen, wenn er seinen Antrag vervollständigt hat.
 
-
-## § 91 – Akteneinsicht und Anforderung von Abschriften durch den Notar
+# § 91 – Akteneinsicht und Anforderung von Abschriften durch den Notar
 
 Der Notar ist berechtigt, die Akten der betroffenen Grundstücke und Gebäude bei allen Gerichten und Behörden einzusehen und Abschriften hieraus anzufordern. Er hat beim Amt zur Regelung offener Vermögensfragen und beim Bundesamt für zentrale Dienste und offene Vermögensfragen, oder, falls das Grundstück zu einem Unternehmen gehört, auch beim Landesamt zur Regelung offener Vermögensfragen, in deren Bezirk das Grundstück belegen ist, nachzufragen, ob ein Anspruch auf Rückübertragung des Grundstücks oder des Gebäudes angemeldet oder ein Antrag auf Aufhebung des Nutzungsrechts gestellt worden ist. Für Auskünfte und Abschriften werden keine Gebühren erhoben.
 
-
-## § 92 – Ladung zum Termin
+# § 92 – Ladung zum Termin
 
 (1) Der Notar hat den Nutzer und den Grundstückseigentümer unter Mitteilung des Antrages für den anderen Teil zu einem Verhandlungstermin zu laden. Die Ladung durch öffentliche Zustellung ist unzulässig. Die Frist zwischen der Ladung und dem ersten Termin muß mindestens zwei Wochen betragen. Anträge nach § 88 Abs. 2 sind von den Beteiligten vor dem Verhandlungstermin bei dem zuständigen Landgericht zu stellen und dem Notar mitzuteilen.
 
@@ -1687,8 +1592,7 @@ Einer Ladung der Inhaber dinglicher Rechte bedarf es nicht, wenn das Verfahren a
 
 (6) Der Vermerk hat die Wirkung einer Vormerkung zur Sicherung der nach diesem Gesetz begründeten Ansprüche auf Erbbaurechtsbestellung und Ankauf des Grundstücks oder des Gebäudes oder der baulichen Anlage und des Vollzugs. Artikel 233 § 2c Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ist entsprechend anzuwenden. Ist bereits eine Eintragung nach jener Bestimmung erfolgt, ist bei dieser die Eröffnung des notariellen Vermittlungsverfahrens zu vermerken.
 
-
-## § 93 – Erörterung
+# § 93 – Erörterung
 
 (1) Der Notar erörtert mit den Beteiligten den Sachverhalt in tatsächlicher und rechtlicher Hinsicht. Er hat vor einer Verhandlung über den Inhalt des abzuschließenden Vertrages mit den Beteiligten zu erörtern, ob Gründe für eine Aussetzung oder Einstellung des Vermittlungsverfahrens vorliegen oder geltend gemacht werden und auf welchen rechtlichen oder tatsächlichen Gründen die bauliche Nutzung beruht.
 
@@ -1710,8 +1614,7 @@ a) welche Hindernisse einer lastenfreien Abschreibung entgegenstehen,
 
 b) ob und welche andere Sicherheit für eine vom Nutzer nach § 63 übernommene Sicherheit gestellt werden kann.
 
-
-## § 94 – Aussetzung des Verfahrens
+# § 94 – Aussetzung des Verfahrens
 
 (1) Der Notar hat die Vermittlung auszusetzen, wenn
 
@@ -1733,8 +1636,7 @@ In den Fällen des Satzes 1 Nr. 2 und 3 sind die Beteiligten auf den Klageweg zu
 
 (3) Der Notar kann die in § 100 Abs. 1 Satz 2 Nr. 2 bestimmte Gebühr bei einer Aussetzung in Ansatz bringen. Die Gebühr ist nach Aufnahme des ausgesetzten Vermittlungsverfahrens auf die danach entstehenden Gebühren anzurechnen.
 
-
-## § 95 – Einstellung des Verfahrens
+# § 95 – Einstellung des Verfahrens
 
 (1) Der Notar hat die Vermittlung einzustellen, wenn
 
@@ -1744,8 +1646,7 @@ In den Fällen des Satzes 1 Nr. 2 und 3 sind die Beteiligten auf den Klageweg zu
 
 (2) Wird ein Antrag nach Absatz 1 Nr. 2 während des notariellen Vermittlungsverfahrens gestellt, so hat der Notar die Beteiligten aufzufordern, mitzuteilen, ob sie das Bodenordnungsverfahren fortsetzen wollen. Wird das von einem Beteiligten erklärt, so ist nach Absatz 1 zu verfahren.
 
-
-## § 96 – Verfahren bei Säumnis eines Beteiligten
+# § 96 – Verfahren bei Säumnis eines Beteiligten
 
 (1) Erscheint ein Beteiligter (Grundstückseigentümer oder Nutzer) nicht, hat der Notar auf Antrag des anderen Beteiligten einen Vermittlungsvorschlag nach § 98 anzufertigen.
 
@@ -1759,8 +1660,7 @@ In den Fällen des Satzes 1 Nr. 2 und 3 sind die Beteiligten auf den Klageweg zu
 
 (6) Gegen den Bestätigungsbeschluß und den Beschluß über den Antrag auf Wiedereinsetzung ist die sofortige Beschwerde zulässig. Zuständig ist das Landgericht, in dessen Bezirk das Grundstück ganz oder zum größten Teil belegen ist. § 372 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist entsprechend anzuwenden.
 
-
-## § 97 – Ermittlungen des Notars
+# § 97 – Ermittlungen des Notars
 
 (1) Der Notar kann auf Antrag eines Beteiligten Ermittlungen durchführen. Er kann insbesondere
 
@@ -1784,20 +1684,17 @@ einholen und diese seinem Vorschlag nach § 98 zugrunde legen.
 
 (4) Werden Zeugen und Sachverständige von dem Notar nach Absatz 2 zu Beweiszwecken herangezogen, so erhalten sie eine Entschädigung oder Vergütung in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes.
 
-
-## § 98 – Vermittlungsvorschlag des Notars
+# § 98 – Vermittlungsvorschlag des Notars
 
 (1) Nach Durchführung der Erhebungen macht der Notar einen Vorschlag in Form eines Vertragsentwurfs, der den gesetzlichen Bestimmungen zu entsprechen und alle für einen Vertragsschluß erforderlichen Punkte und, wenn dies von einem Beteiligten beantragt worden ist, auch die für dessen Erfüllung notwendigen Erklärungen zu umfassen hat.
 
 (2) Sobald sich eine Einigung im Sinne des Absatzes 1 zwischen den Beteiligten ergibt, hat der Notar den Inhalt dieser Vereinbarung zu beurkunden. Der Notar hat mit dem Antrag auf Eintragung des Erbbaurechts oder des Nutzers als Erwerber, spätestens jedoch sechs Monate nach der Beurkundung, die Löschung des Vermerks nach § 92 Abs. 5 zu beantragen. Der Ablauf der in Satz 2 bestimmten Frist ist gehemmt, solange ein für den Vollzug der Vereinbarung erforderliches behördliches oder gerichtliches Verfahren beantragt worden, aber noch keine Entscheidung ergangen ist.
 
-
-## § 99 – Abschlußprotokoll über Streitpunkte
+# § 99 – Abschlußprotokoll über Streitpunkte
 
 Kommt es nicht zu einer Einigung, so hält der Notar das Ergebnis des Verfahrens unter Protokollierung der unstreitigen und der streitig gebliebenen Punkte fest (Abschlußprotokoll). Sind wesentliche Teile des abzuschließenden Vertrages unstreitig, so können die Beteiligten verlangen, daß diese Punkte im Protokoll als vereinbart festgehalten werden. Die Verständigung über diese Punkte ist in einem nachfolgenden Rechtsstreit bindend.
 
-
-## § 100 – Kosten
+# § 100 – Kosten
 
 (1) Für das notarielle Vermittlungsverfahren erhält der Notar eine Gebühr mit einem Gebührensatz von 4,0 nach der Tabelle B des § 34 Absatz 2 des Gerichts- und Notarkostengesetzes. Die Gebühr ermäßigt sich auf
 
@@ -1811,8 +1708,7 @@ Als Auslagen des Verfahrens erhebt der Notar auch die durch Ermittlungen nach §
 
 (3) Wird mit einem Dritten eine Vereinbarung über die Bestellung oder den Verzicht auf dingliche Rechte geschlossen, erhält der Notar für deren Vermittlung eine Gebühr mit einem Gebührensatz von 0,5 nach der Tabelle B des § 34 Absatz 2 des Gerichts- und Notarkostengesetzes. Der Wert richtet sich nach den Bestimmungen über den Geschäftswert im Gerichts- und Notarkostengesetz, in den Fällen der §§ 36 und 63 jedoch nicht über den Anteil hinaus, für den der Nutzer nach Maßgabe dieser Vorschriften mithaftet.
 
-
-## § 101 – Kostenpflicht
+# § 101 – Kostenpflicht
 
 (1) Für die Kosten des Vermittlungsverfahrens haften Grundstückseigentümer und Nutzer als Gesamtschuldner. Sie haben die Kosten zu teilen. Eine Erstattung der den Beteiligten entstandenen Auslagen findet nicht statt.
 
@@ -1824,8 +1720,7 @@ Als Auslagen des Verfahrens erhebt der Notar auch die durch Ermittlungen nach §
 
 3. in den Fällen des § 95 Abs. 2 von dem Beteiligten zu tragen, der das Verfahren nach § 64 des Landwirtschaftsanpassungsgesetzes beantragt hat.
 
-
-## § 102 – Verfahrenskostenhilfe
+# § 102 – Verfahrenskostenhilfe
 
 (1) Für das notarielle Vermittlungsverfahren finden die §§ 76, 77 und 78 Abs. 4 und 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Übrigen die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe mit Ausnahme des § 121 Abs. 1 bis 3 entsprechende Anwendung. Einem Beteiligten ist auf Antrag ein Rechtsanwalt beizuordnen, wenn der andere Beteiligte durch einen Rechtsanwalt vertreten ist und die Beiordnung zur zweckentsprechenden Rechtsverfolgung erforderlich ist.
 
@@ -1833,25 +1728,21 @@ Als Auslagen des Verfahrens erhebt der Notar auch die durch Ermittlungen nach §
 
 (3) Der Notar hat dem Gericht die Antragsunterlagen zu übermitteln.
 
-
-## § 103 – Allgemeine Vorschriften
+# § 103 – Allgemeine Vorschriften
 
 (1) Die gerichtlichen Verfahren, die die Bestellung von Erbbaurechten oder den Ankauf des Grundstücks oder des Gebäudes oder der baulichen Anlage betreffen, sind nach den Vorschriften der Zivilprozeßordnung zu erledigen. Ausschließlich zuständig ist das Gericht, in dessen Bezirk das Grundstück ganz oder zum größten Teil belegen ist.
 
 (2) Bei den Landgerichten können Kammern für die Verfahren zur Sachenrechtsbereinigung gebildet werden.
 
-
-## § 104 – Verfahrensvoraussetzungen
+# § 104 – Verfahrensvoraussetzungen
 
 Der Kläger hat für eine Klage auf Feststellung über den Inhalt eines Erbbaurechts oder eines Ankaufsrechts nach Maßgabe der §§ 32, 61, 81 und 82 den notariellen Vermittlungsvorschlag und das Abschlußprotokoll vorzulegen. Fehlt es an dem in Satz 1 bezeichneten Erfordernis, hat das Gericht den Kläger unter Fristsetzung zur Vorlage aufzufordern. Verstreicht die Frist fruchtlos, ist die Klage als unzulässig abzuweisen. Die Entscheidung kann ohne mündliche Verhandlung durch Beschluß ergehen.
 
-
-## § 105 – Inhalt der Klageschrift
+# § 105 – Inhalt der Klageschrift
 
 In der Klageschrift hat sich der Kläger auf den notariellen Vermittlungsvorschlag zu beziehen und darzulegen, ob und in welchen Punkten er eine hiervon abweichende Feststellung begehrt.
 
-
-## § 106 – Entscheidung
+# § 106 – Entscheidung
 
 (1) Das Gericht kann bei einer Entscheidung über eine Klage nach § 104 im Urteil auch vom Klageantrag abweichende Rechte und Pflichten der Parteien feststellen. Vor dem Ausspruch sind die Parteien zu hören. Das Gericht darf ohne Zustimmung der Parteien keine Feststellung treffen, die
 
@@ -1869,13 +1760,11 @@ widerspricht.
 
 (4) Der Urkundsbeamte der Geschäftsstelle teilt dem Notar, der das Vermittlungsverfahren durchgeführt hat, nach Eintritt der Rechtskraft den Inhalt der Entscheidung mit. Der Notar hat entsprechend § 98 Abs. 2 Satz 2 zu verfahren.
 
-
-## § 107 – Kosten
+# § 107 – Kosten
 
 Über die Kosten entscheidet das Gericht unter Berücksichtigung des Sach- und Streitstands nach billigem Ermessen. Es kann hierbei berücksichtigen, inwieweit der Inhalt der richterlichen Feststellung von den im Rechtsstreit gestellten Anträgen abweicht und eine Partei zur Erhebung im Rechtsstreit zusätzlich entstandener Kosten Veranlassung gegeben hat.
 
-
-## § 108 – Feststellung der Anspruchsberechtigung
+# § 108 – Feststellung der Anspruchsberechtigung
 
 (1) Nutzer und Grundstückseigentümer können Klage auf Feststellung des Bestehens oder Nichtbestehens der Anspruchsberechtigung nach diesem Gesetz erheben, wenn der Kläger ein rechtliches Interesse an alsbaldiger Feststellung hat.
 
@@ -1885,8 +1774,7 @@ widerspricht.
 
 (4) § 106 Abs. 4 ist entsprechend anzuwenden.
 
-
-## § 109 – Tauschvertrag über Grundstücke
+# § 109 – Tauschvertrag über Grundstücke
 
 (1) Jeder Grundstückseigentümer, dessen Grundstück von einem nach § 20 des LPG-Gesetzes vom 2. Juli 1982 sowie nach § 12 des LPG-Gesetzes vom 3. Juni 1959 durchgeführten Nutzungstausch betroffen ist, kann von dem anderen Grundstückseigentümer verlangen, daß das Eigentum an den Grundstücken entsprechend dem Nutzungstausch übertragen wird, wenn
 
@@ -1900,13 +1788,11 @@ widerspricht.
 
 (4) Im übrigen finden auf den Tauschvertrag die Vorschriften über den Ankauf in den §§ 65 bis 74 entsprechende Anwendung.
 
-
-## § 110 – Vorrang völkerrechtlicher Abreden
+# § 110 – Vorrang völkerrechtlicher Abreden
 
 Die von der Deutschen Demokratischen Republik an andere Staaten verliehenen Nutzungsrechte sind nach den Regelungen in diesem Kapitel anzupassen, soweit dem nicht völkerrechtliche Vereinbarungen entgegenstehen. Artikel 12 des Einigungsvertrages bleibt unberührt.
 
-
-## § 111 – Gutgläubiger lastenfreier Erwerb
+# § 111 – Gutgläubiger lastenfreier Erwerb
 
 (1) Ansprüche nach Maßgabe dieses Kapitels können gegenüber demjenigen, der durch ein nach Ablauf des 31. Dezember 2000 abgeschlossenes Rechtsgeschäft das Eigentum am Grundstück, ein Recht am Grundstück oder ein Recht an einem solchen Recht erworben hat, nicht geltend gemacht werden, es sei denn, daß im Zeitpunkt des Antrags auf Eintragung des Erwerbs in das Grundbuch
 
@@ -1922,8 +1808,7 @@ b) ein anderer als der Eigentümer des Grundstücks mit Billigung staatlicher St
 
 (2) Mit dem Erwerb des Eigentums am Grundstück erlöschen die in diesem Kapitel begründeten Ansprüche. Der Nutzer kann vom Veräußerer Wertersatz für den Rechtsverlust verlangen. Artikel 231 § 5 Abs. 3 Satz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche ist entsprechend anzuwenden.
 
-
-## § 112 – Umwandlung alter Erbbaurechte
+# § 112 – Umwandlung alter Erbbaurechte
 
 (1) War das Grundstück am 1. Januar 1976 mit einem Erbbaurecht belastet, so endet das Erbbaurecht zu dem im Erbbaurechtsvertrag bestimmten Zeitpunkt, frühestens jedoch am 31. Dezember 1995, wenn sich nicht aus dem folgenden etwas anderes ergibt. Das Erbbaurecht verlängert sich bis zum 31. Dezember 2005, wenn ein Wohngebäude aufgrund des Erbbaurechts errichtet worden ist, es sei denn, daß der Grundstückseigentümer ein berechtigtes Interesse an der Beendigung des Erbbaurechts entsprechend § 573 Abs. 2 Nr. 2 und 3 des Bürgerlichen Gesetzbuchs geltend machen kann.
 
@@ -1945,8 +1830,7 @@ nach dem Inkrafttreten dieses Gesetzes. Ein Heimfallanspruch kann nur aus den in
 
 (4) § 5 Abs. 2 des Einführungsgesetzes zum Zivilgesetzbuch der Deutschen Demokratischen Republik ist vom Inkrafttreten dieses Gesetzes an nicht mehr anzuwenden.
 
-
-## § 113 – Berichtigungsanspruch
+# § 113 – Berichtigungsanspruch
 
 (1) Haben vormals volkseigene Betriebe, staatliche Organe und Einrichtungen oder Genossenschaften auf vertraglich genutzten, vormals nichtvolkseigenen Grundstücken nach dem 31. Dezember 1975 und bis zum Ablauf des 30. Juni 1990 bedeutende Werterhöhungen durch Erweiterungs- und Erhaltungsmaßnahmen am Grundstück vorgenommen, so können beide Vertragsteile verlangen, daß der kraft Gesetzes nach § 459 Abs. 1 Satz 2 und Abs. 4 Satz 1 des Zivilgesetzbuchs der Deutschen Demokratischen Republik entstandene Miteigentumsanteil in das Grundbuch eingetragen wird.
 
@@ -1964,8 +1848,7 @@ Ist ein Rechtsstreit um die Eintragung des Miteigentumsanteils anhängig, so hat
 
 (4) § 111 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 114 – Aufgebotsverfahren
+# § 114 – Aufgebotsverfahren
 
 (1) Der Eigentümer eines nach § 459 des Zivilgesetzbuchs der Deutschen Demokratischen Republik entstandenen Miteigentumsanteils kann von den anderen Miteigentümern im Wege eines Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn der Miteigentumsanteil weder im Grundbuch eingetragen noch in einer Frist von fünf Jahren nach dem Inkrafttreten dieses Gesetzes die Berichtigung des Grundbuchs nach § 113 beantragt worden ist.
 
@@ -1973,13 +1856,11 @@ Ist ein Rechtsstreit um die Eintragung des Miteigentumsanteils anhängig, so hat
 
 (3) Mit der Rechtskraft des Ausschließungsbeschlusses erwirbt der andere Miteigentümer den nach § 459 des Zivilgesetzbuchs der Deutschen Demokratischen Republik entstandenen Anteil. Der ausgeschlossene Miteigentümer kann entsprechend der Regelung in § 818 des Bürgerlichen Gesetzbuchs Ausgleich für den Eigentumsverlust verlangen.
 
-
-## § 115 – Ankaufsrecht bei Auflösung der Gemeinschaft
+# § 115 – Ankaufsrecht bei Auflösung der Gemeinschaft
 
 Das Rechtsverhältnis der Miteigentümer bestimmt sich nach den Vorschriften über das Miteigentum und über die Gemeinschaft im Bürgerlichen Gesetzbuch. Im Falle der Auflösung der Gemeinschaft kann der bisher durch Vertrag zum Besitz berechtigte Miteigentümer den Ankauf des Miteigentumsanteils des anderen zum Verkehrswert verlangen, wenn hierfür ein dringendes öffentliches oder betriebliches Bedürfnis besteht.
 
-
-## § 116 – Bestellung einer Dienstbarkeit
+# § 116 – Bestellung einer Dienstbarkeit
 
 (1) Derjenige, der ein Grundstück in einzelnen Beziehungen nutzt oder auf diesem Grundstück eine Anlage unterhält (Mitbenutzer), kann von dem Eigentümer die Bestellung einer Grunddienstbarkeit oder einer beschränkten persönlichen Dienstbarkeit verlangen, wenn
 
@@ -1991,8 +1872,7 @@ Das Rechtsverhältnis der Miteigentümer bestimmt sich nach den Vorschriften üb
 
 (2) Zugunsten derjenigen, die durch ein nach Ablauf des 31. Dezember 2000 abgeschlossenes Rechtsgeschäft gutgläubig Rechte an Grundstücken erwerben, ist § 111 entsprechend anzuwenden. Die Eintragung eines Vermerks über die Klageerhebung erfolgt entsprechend § 113 Abs. 3.
 
-
-## § 117 – Einwendungen des Grundstückseigentümers
+# § 117 – Einwendungen des Grundstückseigentümers
 
 (1) Der Grundstückseigentümer kann die Bestellung einer Dienstbarkeit verweigern, wenn
 
@@ -2004,8 +1884,7 @@ Die Kosten einer Verlegung haben die Beteiligten zu teilen.
 
 (2) Sind Erschließungs- oder Entsorgungsanlagen zu verlegen, so besteht ein Recht zur Mitbenutzung des Grundstücks im bisherigen Umfange für die Zeit, die für eine solche Verlegung erforderlich ist. Der Grundstückseigentümer hat dem Nutzer eine angemessene Frist einzuräumen. Können sich die Parteien über die Dauer, für die das Recht nach Satz 1 fortbesteht, nicht einigen, so kann die Frist durch gerichtliche Entscheidung bestimmt werden. Eine richterliche Fristbestimmung wirkt auch gegenüber den Rechtsnachfolgern der Parteien.
 
-
-## § 118 – Entgelt
+# § 118 – Entgelt
 
 (1) Der Eigentümer des belasteten Grundstücks kann die Zustimmung zur Bestellung einer Dienstbarkeit von der Zahlung eines einmaligen oder eines in wiederkehrenden Leistungen zu zahlenden Entgelts (Rente) abhängig machen. Es kann ein Entgelt gefordert werden
 
@@ -2019,8 +1898,7 @@ Die Kosten einer Verlegung haben die Beteiligten zu teilen.
 
 2. der Eigentümer sich mit der Mitbenutzung einverstanden erklärt hat.
 
-
-## § 119 – Fortbestehende Rechte, andere Ansprüche
+# § 119 – Fortbestehende Rechte, andere Ansprüche
 
 Die Vorschriften dieses Kapitels finden keine Anwendung, wenn die Mitbenutzung des Grundstücks
 
@@ -2030,8 +1908,7 @@ Die Vorschriften dieses Kapitels finden keine Anwendung, wenn die Mitbenutzung d
 
 gestattet ist.
 
-
-## § 120 – Genehmigungen nach dem Baugesetzbuch
+# § 120 – Genehmigungen nach dem Baugesetzbuch
 
 (1) Die Teilung eines Grundstücks nach diesem Gesetz bedarf der Teilungsgenehmigung nach den Vorschriften des Baugesetzbuchs. Dabei ist § 20 des Baugesetzbuchs mit folgenden Maßgaben anzuwenden:
 
@@ -2053,8 +1930,7 @@ Wird die Teilungsgenehmigung nach Satz 2 erteilt, findet § 21 des Baugesetzbuch
 
 (5) Im übrigen bleiben die Vorschriften des Baugesetzbuchs unberührt.
 
-
-## § 121 – Ansprüche nach Abschluß eines Kaufvertrags
+# § 121 – Ansprüche nach Abschluß eines Kaufvertrags
 
 (1) Dem Nutzer, der bis zum Ablauf des 18. Oktober 1989 mit einer staatlichen Stelle der Deutschen Demokratischen Republik einen wirksamen, beurkundeten Kaufvertrag über ein Grundstück, ein Gebäude oder eine bauliche Anlage abgeschlossen und aufgrund dieses Vertrages oder eines Miet- oder sonstigen Nutzungsvertrages Besitz erlangt oder den Besitz ausgeübt hat, stehen die Ansprüche nach Kapitel 2 gegenüber dem jeweiligen Grundstückseigentümer auch dann zu, wenn das Grundstück, das Gebäude oder die bauliche Anlage nach dem Vermögensgesetz zurückübertragen worden ist. Satz 1 findet keine Anwendung, wenn der Vertrag aus den in § 3 Abs. 3 Satz 2 Nr. 1 und 2 genannten Gründen nicht erfüllt worden ist. Die Ansprüche aus Satz 1 stehen dem Nutzer auch dann zu, wenn der Kaufvertrag nach dem 18. Oktober 1989 abgeschlossen worden ist und
 
@@ -2080,13 +1956,11 @@ c) dieses Eigenheim am 1. Oktober 1994 zu eigenen Wohnzwecken nutzt.
 
 (6) Der Nutzer kann von der Gemeinde oder der Gebietskörperschaft, die den Kaufpreis erhalten hat, nach § 818 des Bürgerlichen Gesetzbuchs die Herausgabe des Geleisteten verlangen, soweit diese durch seine Zahlung bereichert ist. Ansprüche auf Schadensersatz wegen Nichterfüllung sind ausgeschlossen.
 
-
-## § 122 – Entsprechende Anwendung des Sachenrechtsbereinigungsgesetzes
+# § 122 – Entsprechende Anwendung des Sachenrechtsbereinigungsgesetzes
 
 Hat das Amt zur Regelung offener Vermögensfragen nach dem 2. Oktober 1990 für ein entzogenes Nutzungsrecht nach § 287 Abs. 1 und § 291 des Zivilgesetzbuchs der Deutschen Demokratischen Republik ein Erbbaurecht oder ein anderes beschränktes dingliches Recht begründet, so sind die Bestimmungen in Kapitel 2 entsprechend anzuwenden.
 
-
-## § 123 – Härteklausel bei niedrigen Grundstückswerten
+# § 123 – Härteklausel bei niedrigen Grundstückswerten
 
 (1) Der Nutzer eines Grundstücks, dessen Verkehrswert die in § 15 Abs. 2 bezeichneten Beträge nicht übersteigt, kann einem Ankaufsverlangen des Grundstückseigentümers widersprechen und den Abschluß eines längstens auf sechs Jahre nach dem Inkrafttreten dieses Gesetzes befristeten Nutzungsvertrages verlangen, wenn er die für den Ankauf erforderlichen Mittel zum gegenwärtigen Zeitpunkt aus besonderen persönlichen oder wirtschaftlichen Gründen nicht aufzubringen vermag.
 

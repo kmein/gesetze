@@ -1,20 +1,15 @@
-# [SchuhmMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Schuhmacher-Handwerk  (Schuhmachermeisterverordnung - SchuhmMstrV)
-
-Ausfertigungsdatum: 03.03.2014
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Schuhmacher-Handwerk  (Schuhmachermeisterverordnung - SchuhmMstrV)
+% Ausfertigungsdatum: 03.03.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) geändert worden ist, in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im Schuhmacher-Handwerk. Die Meisterprüfung besteht aus vier selbständigen Prüfungsteilen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 Im Schuhmacher-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
@@ -52,8 +47,7 @@ Im Schuhmacher-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeite
 
 17. erbrachte Leistungen abnehmen und dokumentieren sowie Nachkalkulationen durchführen und Auftragsabwicklungen auswerten.
 
-
-## § 3 – Ziel und Gliederung des Teils I
+# § 3 – Ziel und Gliederung des Teils I
 
 (1) In der Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei Tätigkeiten des Schuhmacher-Handwerks meisterhaft verrichten kann.
 
@@ -63,8 +57,7 @@ Im Schuhmacher-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeite
 
 2. die Durchführung einer Situationsaufgabe.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen an das Meisterprüfungsprojekt werden vom Meisterprüfungsausschuss festgelegt. Hierzu sollen Vorschläge des Prüflings berücksichtigt werden. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept einschließlich einer Zeit- und Materialbedarfsplanung. Das Konzept hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Anforderungen entspricht.
 
@@ -74,8 +67,7 @@ Im Schuhmacher-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeite
 
 (4) Die Bewertung der Planungsunterlagen wird mit 30 Prozent gewichtet, die Bewertung der durchgeführten Arbeiten und die Fertigungskontrolle mit 60 Prozent und die Bewertung der Dokumentationsunterlagen mit 10 Prozent.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 In dem Fachgespräch hat der Prüfling nachzuweisen, dass er befähigt ist,
 
@@ -85,15 +77,13 @@ In dem Fachgespräch hat der Prüfling nachzuweisen, dass er befähigt ist,
 
 3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen im Schuhmacher-Handwerk zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Schuhmacher-Handwerk. Die Aufgabenstellung wird vom Meisterprüfungsausschuss festgelegt.
 
 (2) Als Situationsaufgabe sind unter besonderer Berücksichtigung funktioneller, materialbezogener und fertigungstechnischer Anforderungen jeweils an einem Paar Damen- und an einem Paar Herrenschuhe Mängel zu analysieren und zu beseitigen sowie Stellungskorrekturen vorzunehmen.
 
-
-## § 7 – Prüfungsdauer und Bestehen des Teils I
+# § 7 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert drei Arbeitstage. Das Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe höchstens acht Stunden dauern.
 
@@ -101,8 +91,7 @@ In dem Fachgespräch hat der Prüfling nachzuweisen, dass er befähigt ist,
 
 (3) Voraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt mindestens ausreichende Prüfungsleistung, wobei das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden sein muss.
 
-
-## § 8 – Ziel, Gliederung und Inhalt des Teils II
+# § 8 – Ziel, Gliederung und Inhalt des Teils II
 
 (1) In der Prüfung in Teil II hat der Prüfling in den in Absatz 2 Satz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er besondere fachtheoretische Kenntnisse im Schuhmacher-Handwerk zur Lösung komplexer fallbezogener Aufgaben anwendet.
 
@@ -170,8 +159,7 @@ g) die gewerkspezifische Betriebs- und Lagerausstattung sowie logistische Prozes
 
 h) den Nutzen des Einsatzes von Informations- und Kommunikationssystemen, insbesondere für Kundenbindung und -pflege sowie für Warenwirtschaft, begründen.
 
-
-## § 9 – Prüfungsdauer und Bestehen des Teils II
+# § 9 – Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie dauert in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden an einem Tag darf nicht überschritten werden.
 
@@ -185,21 +173,18 @@ h) den Nutzen des Einsatzes von Informations- und Kommunikationssystemen, insbes
 
 2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
-
-## § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 (1) Die bis zum 30. Juni 2014 begonnenen Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2014, sind auf Verlangen des Prüflings die bis zum 30. Juni 2014 geltenden Vorschriften weiter anzuwenden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum 30. Juni 2014 geltenden Vorschriften nicht bestanden haben und sich bis zum 30. Juni 2016 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum 30. Juni 2014 geltenden Vorschriften ablegen.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2014 in Kraft. Gleichzeitig tritt die Schuhmachermeisterverordnung vom 8. Dezember 1982 (BGBl. I S. 1677) außer Kraft.

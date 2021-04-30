@@ -1,10 +1,7 @@
-# [Münz5DMBek 1983-09] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Martin Luther)
-
-Ausfertigungsdatum: 16.09.1983
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Martin Luther)
+% Ausfertigungsdatum: 16.09.1983
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 500. Wiederkehr des Geburtstages von Martin Luther eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Karlsruhe.
 
@@ -37,12 +34,10 @@ Ausfertigungsdatum: 16.09.1983
 
 (9) Der Entwurf der Münze stammt von Carl Vezerfi-Clemm, München.
 
-(10) Dies wird namens der Bundesregierung bekanntgemacht.  
-  
+(10) Dies wird namens der Bundesregierung bekanntgemacht.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (nicht darstellbare Abbildung)  
 Fundstelle: BGBl I 1983, 1217

@@ -1,15 +1,11 @@
-# [FertigPlTischlPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fertigungsplaner/Geprüfte Fertigungsplanerin im Tischlerhandwerk
-
-Ausfertigungsdatum: 06.07.2004
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fertigungsplaner/Geprüfte Fertigungsplanerin im Tischlerhandwerk
+% Ausfertigungsdatum: 06.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 35 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Fertigungsplaner/zur Geprüften Fertigungsplanerin im Tischlerhandwerk erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 6 durchführen.
 
@@ -27,8 +23,7 @@ Auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekann
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Fertigungsplaner/Geprüfte Fertigungsplanerin im Tischlerhandwerk.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -38,8 +33,7 @@ Auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekann
 
 (2) Abweichend von den in Absatz 1 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Kenntnisse, Fertigkeiten und Erfahrungen erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung, Struktur und integrierte Durchführung der Prüfung
+# § 3 – Gliederung, Struktur und integrierte Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche "Planung und Arbeitsvorbereitung" sowie "Steuerung und Fertigungskontrolle". Es ist handlungsorientiert und praxisbezogen zu prüfen.
 
@@ -49,8 +43,7 @@ Auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekann
 
 2. einem situationsbezogenen Fachgespräch. Grundlage des Fachgesprächs ist die schriftlich bearbeitete Situationsaufgabe gemäß Absatz 2 Nr. 1. Das Fachgespräch soll der Erläuterung der Situationsaufgabe dienen und darüber hinaus die Qualifikationsinhalte der Qualifikationsschwerpunkte nach § 4 integrativ einbeziehen, die nicht in der Situationsaufgabe bearbeitet wurden. Die Prüfungsdauer beträgt mindestens 25 Minuten, höchstens 35 Minuten.
 
-
-## § 4 – Prüfungsinhalte
+# § 4 – Prüfungsinhalte
 
 (1) Den Handlungsbereichen gemäß § 3 Abs. 1 sind folgende Qualifikationsschwerpunkte zugeordnet:
 
@@ -150,15 +143,13 @@ d) Vorbereiten der Auslieferung.
 
 3. Kommissionierung, Kennzeichnung und Verpackung.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese Prüfungsbereiche für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbereiche erhöhen sich die Anteile nach § 6 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbereiche sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -176,8 +167,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der zusammengefassten Bewertung insgesamt mindestens 50 Punkte erreicht worden sind. Dabei dürfen die Situationsaufgabe nicht mit weniger als 50 Punkten und das Fachgespräch nicht mit weniger als 30 Punkten bewertet worden sein.
 
@@ -187,8 +177,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -202,29 +191,25 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2160 - 2161)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2161)
 

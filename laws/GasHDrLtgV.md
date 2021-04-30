@@ -1,15 +1,11 @@
-# [GasHDrLtgV] Verordnung über Gashochdruckleitungen  (Gashochdruckleitungsverordnung - GasHDrLtgV)
-
-Ausfertigungsdatum: 18.05.2011
-
+% Verordnung über Gashochdruckleitungen  (Gashochdruckleitungsverordnung - GasHDrLtgV)
+% Ausfertigungsdatum: 18.05.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 49 Absatz 4 des Energiewirtschaftsgesetzes, der durch Artikel 4 Nummer 2 Buchstabe a des Gesetzes vom 7. März 2011 (BGBl. I S. 338) neu gefasst worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für die Errichtung und den Betrieb von Gashochdruckleitungen, die als Energieanlagen im Sinne des Energiewirtschaftsgesetzes der Versorgung mit Gas dienen und die für einen maximal zulässigen Betriebsdruck von mehr als 16 bar ausgelegt sind.
 
@@ -17,8 +13,7 @@ Auf Grund des § 49 Absatz 4 des Energiewirtschaftsgesetzes, der durch Artikel 4
 
 (3) Diese Verordnung gilt nicht für Gashochdruckleitungen, die dem bergrechtlichen Betriebsplanverfahren unterliegen. Sie gilt ferner nicht für Rohrfernleitungsanlagen zum Befördern von Stoffen im Sinne der Rohrfernleitungsverordnung vom 27. September 2002 (BGBl. I S. 3777, 3809), die zuletzt durch Artikel 10 der Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist.
 
-
-## § 2 – Allgemeine Anforderungen
+# § 2 – Allgemeine Anforderungen
 
 (1) Gashochdruckleitungen müssen den Anforderungen der §§ 3 und 4 entsprechen und nach dem Stand der Technik so errichtet und betrieben werden, dass die Sicherheit der Umgebung nicht beeinträchtigt wird und schädliche Einwirkungen auf den Menschen und die Umwelt vermieden werden.
 
@@ -28,8 +23,7 @@ Auf Grund des § 49 Absatz 4 des Energiewirtschaftsgesetzes, der durch Artikel 4
 
 (4) Soweit Gashochdruckleitungen oder Teile davon auch Vorschriften unterliegen, die Rechtsakte der Europäischen Union umsetzen, gelten hinsichtlich ihrer Beschaffenheit die dort festgelegten Anforderungen; die Übereinstimmung mit diesen Anforderungen muss gemäß den in diesen Vorschriften festgelegten Verfahren festgestellt und bestätigt sein. Insoweit entfällt eine erneute Überprüfung der Erfüllung der dort vorgesehenen Beschaffenheitsanforderungen im Rahmen der Prüfungen vor Bau und Inbetriebnahme nach den §§ 5 und 6, auch in Verbindung mit § 8 Absatz 1.
 
-
-## § 3 – Anforderungen bei Errichtung
+# § 3 – Anforderungen bei Errichtung
 
 (1) Gashochdruckleitungen müssen so beschaffen sein, dass sie den zu erwartenden Beanspruchungen sicher standhalten und dicht bleiben. Sie sind gegen Außenkorrosion und soweit erforderlich gegen Innenkorrosion zu schützen. Bei Leitungen in Bergbaugebieten ist die Gefahr, die von Bodenbewegungen ausgeht, zu berücksichtigen.
 
@@ -51,8 +45,7 @@ Die Zahl und die Art der Einrichtungen müssen der Betriebsweise der Gashochdruc
 
 (6) In Bereichen, in denen mit einer Ansammlung von Gasen gerechnet werden muss, insbesondere in Schächten, Verdichter-, Entspannungs-, Mess- und Regelanlagen, sind Vorkehrungen zum Schutz gegen die gefährlichen Eigenschaften der Gase zu treffen.
 
-
-## § 4 – Anforderungen beim Betrieb
+# § 4 – Anforderungen beim Betrieb
 
 (1) Der Betreiber einer Gashochdruckleitung hat sicherzustellen, dass diese in ordnungsgemäßem Zustand erhalten sowie überwacht und überprüft wird. Er hat notwendige Instandhaltungsmaßnahmen unverzüglich vorzunehmen und die den Umständen nach erforderlichen Sicherheitsmaßnahmen zu treffen. Hierzu sind insbesondere folgende Maßnahmen erforderlich:
 
@@ -78,8 +71,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (4) Es wird vermutet, dass der Betreiber der Gashochdruckleitung die Anforderungen nach Absatz 3 erfüllt, wenn er das Technische Sicherheitsmanagementsystem des Deutschen Vereins des Gas- und Wasserfaches e. V oder ein vergleichbares System anwendet und dessen Einhaltung durch eine unparteiische, externe Stelle überprüft worden ist.
 
-
-## § 5 – Verfahren zur Prüfung von Leitungsvorhaben
+# § 5 – Verfahren zur Prüfung von Leitungsvorhaben
 
 (1) Wer die Errichtung einer Gashochdruckleitung beabsichtigt, hat
 
@@ -95,8 +87,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (5) Die Absätze 1 bis 4 gelten nicht für Gashochdruckleitungen unter 1 000 Meter Länge. Werden solche Leitungen errichtet, sind dem Sachverständigen die Unterlagen nach Absatz 1 Nummer 1 vor Beginn der Prüfung nach § 6 Absatz 1 Nummer 1 zu überlassen. Der Sachverständige hat die Unterlagen der Vorabbescheinigung nach § 6 Absatz 1 Nummer 1 beizufügen. Die Unterlagen sind der zuständigen Behörde zusammen mit der Vorabbescheinigung gemäß § 6 Absatz 3 Satz 1 zu übersenden.
 
-
-## § 6 – Inbetriebnahme und Untersagung des Betriebs
+# § 6 – Inbetriebnahme und Untersagung des Betriebs
 
 (1) Die Gashochdruckleitung darf erst in Betrieb genommen werden,
 
@@ -110,8 +101,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (4) Die zuständige Behörde kann den Betrieb der Gashochdruckleitung untersagen oder von Bedingungen und Auflagen abhängig machen, wenn durch die Vorab- oder die Schlussbescheinigung des Sachverständigen nicht nachgewiesen ist, dass die Gashochdruckleitung den jeweils zu prüfenden Anforderungen entspricht. Das Gleiche gilt, wenn sich nachträglich herausstellt, dass die Beschaffenheit der Gashochdruckleitung oder ihre Betriebsweise einschließlich des Betriebsmanagementsystems nach § 4 Absatz 3 nicht oder nicht mehr den Anforderungen der Verordnung entspricht, es sei denn, der Betreiber weist nach, dass die Sicherheit der Gashochdruckleitung dadurch nicht gefährdet ist.
 
-
-## § 7 – Druckabsenkung, Betriebseinstellung und Stilllegung
+# § 7 – Druckabsenkung, Betriebseinstellung und Stilllegung
 
 (1) Ist eine Gashochdruckleitung nicht in ordnungsgemäßem Zustand und entstehen hierdurch Gefahren, muss, soweit erforderlich, der Druck unverzüglich abgesenkt oder der Betrieb der Leitung unverzüglich eingestellt werden. Das Gleiche gilt, wenn an einer in Betrieb befindlichen Gashochdruckleitung Arbeiten vorgenommen werden oder sonstige Umstände eintreten, durch die die Sicherheit der Leitung gefährdet wird.
 
@@ -119,15 +109,13 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (3) Hält ein Sachverständiger wegen erheblicher Mängel oder aus sonstigen Gründen die Einstellung des Betriebs oder die Stilllegung der Gashochdruckleitung zur Abwendung von Gefahren für erforderlich, so hat er dies der zuständigen Behörde unverzüglich mitzuteilen.
 
-
-## § 8 – Wesentliche Änderungen und Arbeiten an in Betrieb befindlichen Gashochdruckleitungen
+# § 8 – Wesentliche Änderungen und Arbeiten an in Betrieb befindlichen Gashochdruckleitungen
 
 (1) Soll eine Gashochdruckleitung oder ein Leitungsabschnitt wesentlich geändert oder erweitert werden, so gelten die §§ 2 bis 6 entsprechend. Als wesentliche Änderung im Sinne dieser Verordnung ist jede Änderung anzusehen, die die Sicherheit der Gashochdruckleitung beeinträchtigen kann. Die Auswechslung von Teilen der Gashochdruckleitung ist nicht als wesentliche Änderung anzusehen, wenn die neuen Teile die Sicherheitsanforderungen in mindestens gleichwertiger Weise erfüllen.
 
 (2) Sollen an einer in Betrieb befindlichen Gashochdruckleitung Arbeiten vorgenommen werden, so ist vor Durchführung der Arbeiten ein Sachverständiger zu hören. Eine vorherige Anhörung ist nicht erforderlich, wenn durch die Arbeiten die Sicherheit der Gashochdruckleitung nicht beeinträchtigt werden kann oder wenn eine drohende Gefahr ein sofortiges Eingreifen erfordert. Die Anhörung ist in diesen Fällen unverzüglich nachzuholen.
 
-
-## § 9 – Auskunfts- und Anzeigepflicht
+# § 9 – Auskunfts- und Anzeigepflicht
 
 (1) Wer eine Gashochdruckleitung betreibt, hat der zuständigen Behörde unverzüglich Folgendes anzuzeigen:
 
@@ -141,8 +129,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (3) Die zuständige Behörde ist berechtigt, vom Betreiber Auskünfte über Maßnahmen nach § 4 Absatz 1 Satz 3 und Maßnahmen der Überwachung nach § 4 Absatz 1 Satz 1 und deren Ergebnis zu verlangen.
 
-
-## § 10 – Erneute und wiederkehrende Prüfungen von Gashochdruckleitungen
+# § 10 – Erneute und wiederkehrende Prüfungen von Gashochdruckleitungen
 
 (1) Die zuständige Behörde kann anordnen, dass Gashochdruckleitungen zu überprüfen sind, wenn hierfür ein besonderer Anlass besteht, insbesondere wenn ein Schadensfall eingetreten ist.
 
@@ -150,15 +137,13 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
 
 (3) Die Überprüfungen nach den Absätzen 1 und 2 sind durch einen von der zuständigen Behörde ausgewählten Sachverständigen vornehmen zu lassen. Art und Umfang der Prüfungen richten sich nach dem sie auslösenden Anlass. Unter gleichwertigen Prüfverfahren ist dasjenige auszuwählen, bei dessen Anwendung die Versorgung am wenigsten beeinträchtigt wird.
 
-
-## § 11 – Anerkennung von Sachverständigen
+# § 11 – Anerkennung von Sachverständigen
 
 (1) Sachverständige im Sinne dieser Verordnung sind Personen, die von der zuständigen Behörde für die Überprüfung der technischen Sicherheit von Gashochdruckleitungen auf Grund eines schriftlichen oder elektronischen Antrags nach dieser Verordnung anerkannt worden sind.
 
 (2) Für das Anerkennungsverfahren gilt § 42a des Verwaltungsverfahrensgesetzes. Das Anerkennungsverfahren kann über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
-
-## § 12 – Voraussetzungen für die Anerkennung von Sachverständigen
+# § 12 – Voraussetzungen für die Anerkennung von Sachverständigen
 
 (1) Sachverständige sind anzuerkennen, wenn sie die erforderliche Sachkunde, Zuverlässigkeit und Unabhängigkeit besitzen. Hierfür ist Folgendes nachzuweisen:
 
@@ -181,8 +166,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
     (+++ § 12: Zum amtlichen Hinweis des Normgebers auf Umsetzung EG-Recht vgl. 
     Fußnote zu § 11 +++) 
 
-
-## § 13 – Nachweis der Qualifikation und Ausrüstung
+# § 13 – Nachweis der Qualifikation und Ausrüstung
 
 (1) Die Erfüllung der Voraussetzungen nach § 12 Absatz 1 Satz 2 Nummer 1 bis 3 wird vermutet, wenn die antragstellende Person einen der folgenden Nachweise vorlegt:
 
@@ -215,8 +199,7 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
     (+++ § 13: Zum amtlichen Hinweis des Normgebers auf Umsetzung EG-Recht vgl. 
     Fußnote zu § 11 +++) 
 
-
-## § 14 – Nachweis der Zuverlässigkeit des Sachverständigen
+# § 14 – Nachweis der Zuverlässigkeit des Sachverständigen
 
 (1) Die erforderliche Zuverlässigkeit gemäß § 12 Absatz 1 Satz 2 Nummer 5 ist in der Regel nicht gegeben, wenn die antragstellende Person
 
@@ -233,13 +216,11 @@ Der Betreiber hat die für den bestimmungsgemäßen Betrieb, für Betriebsstöru
     (+++ § 14: Zum amtlichen Hinweis des Normgebers auf Umsetzung EG-Recht vgl. 
     Fußnote zu § 11 +++) 
 
-
-## § 15 – Übergangsvorschriften
+# § 15 – Übergangsvorschriften
 
 Die Anforderungen nach § 12 Absatz 1 Satz 2 Nummer 2 bis 5 und Absatz 2 sowie die §§ 13 und 14 gelten auch für Sachverständige, die vor Inkrafttreten dieser Verordnung anerkannt wurden. Anerkennungen sind innerhalb von 24 Monaten ab Inkrafttreten der Verordnung an das neue Recht anzupassen. Sofern hierfür zusätzliche oder neue Nachweise erforderlich sind, sind diese innerhalb von 22 Monaten ab Inkrafttreten der Verordnung bei der zuständigen Behörde vorzulegen.
 
-
-## § 16 – Anerkennung gleichwertiger Nachweise aus anderen Mitgliedstaaten
+# § 16 – Anerkennung gleichwertiger Nachweise aus anderen Mitgliedstaaten
 
 (1) Bei der Prüfung eines Antrags auf Anerkennung stehen Nachweise über die Erfüllung von Anforderungen nach den §§ 12 bis 14, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden sind, inländischen Nachweisen gleich, wenn sie mit diesen gleichwertig sind oder aus ihnen hervorgeht, dass die Anforderungen nach den §§ 12 bis 14 erfüllt sind. Dabei sind auch Nachweise anzuerkennen, aus denen hervorgeht, dass die antragstellende Person im Ausstellungsstaat bereits gleichwertigen oder auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen und Kontrollen unterworfen ist.
 
@@ -258,8 +239,7 @@ Die Anforderungen nach § 12 Absatz 1 Satz 2 Nummer 2 bis 5 und Absatz 2 sowie d
     (+++ § 16: Zum amtlichen Hinweis des Normgebers auf Umsetzung EG-Recht vgl. 
     Fußnote zu § 11 +++) 
 
-
-## § 17 – Meldepflichten
+# § 17 – Meldepflichten
 
 (1) Der Sachverständige hat wesentliche Änderungen der für die Anerkennung relevanten Umstände der zuständigen Behörde unverzüglich mitzuteilen, insbesondere eine Änderung der Zugehörigkeit zu einer Inspektionsstelle im Sinne des § 13 Absatz 1 Nummer 1, den Entzug oder das Erlöschen einer Zertifizierung im Sinne des § 13 Absatz 1 Nummer 2 oder einen Wechsel des Arbeitgebers.
 
@@ -267,8 +247,7 @@ Die Anforderungen nach § 12 Absatz 1 Satz 2 Nummer 2 bis 5 und Absatz 2 sowie d
 
 (3) Die zuständige Behörde meldet dem Bundesministerium für Wirtschaft und Energie und den zuständigen Behörden der anderen Bundesländer einmal jährlich zum 15. Januar die anerkannten Sachverständigen.
 
-
-## § 18 – Anzeige der vorübergehenden grenzüberschreitenden Tätigkeit von Sachverständigen
+# § 18 – Anzeige der vorübergehenden grenzüberschreitenden Tätigkeit von Sachverständigen
 
 (1) Wer als Staatsangehöriger eines Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum als Sachverständiger für die Überprüfung der technischen Sicherheit von Gashochdruckleitungen in einem dieser Staaten rechtmäßig niedergelassen ist und in Deutschland nur vorübergehend tätig werden will, hat dies der zuständigen Behörde vor der erstmaligen Tätigkeit schriftlich oder elektronisch anzuzeigen. Dabei sind folgende Unterlagen vorzulegen:
 
@@ -289,8 +268,7 @@ Die Anforderungen nach § 12 Absatz 1 Satz 2 Nummer 2 bis 5 und Absatz 2 sowie d
     (+++ § 18: Zum amtlichen Hinweis des Normgebers auf Umsetzung EG-Recht vgl. 
     Fußnote zu § 11 +++) 
 
-
-## § 19 – Ordnungswidrigkeiten
+# § 19 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -308,8 +286,7 @@ Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 des Energiewirtschaftsgesetz
 
 7. entgegen § 7 Absatz 3 eine Mitteilung nicht oder nicht rechtzeitig macht.
 
-
-## § 20 – Bestehende Gashochdruckleitungen
+# § 20 – Bestehende Gashochdruckleitungen
 
 Die zuständige Behörde kann verlangen, dass Gashochdruckleitungen, die bei Inkrafttreten dieser Verordnung bereits errichtet sind, den Vorschriften dieser Verordnung entsprechend angepasst werden, wenn
 
@@ -317,12 +294,10 @@ Die zuständige Behörde kann verlangen, dass Gashochdruckleitungen, die bei Ink
 
 2. Gefahren zu befürchten sind.
 
-
-## § 21 – Inkrafttreten, Außerkrafttreten
+# § 21 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über Gashochdruckleitungen vom 17. Dezember 1974 (BGBl. I S. 3591), die zuletzt durch Artikel 380 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,18 +1,13 @@
-# [PsychKVVerbG] Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch Kranker
-
-Ausfertigungsdatum: 26.02.1986
-
+% Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch Kranker
+% Ausfertigungsdatum: 26.02.1986
  
+# Art 1 bis 3 – ----
 
-## Art 1 bis 3 – ----
-
-
-## Art 4 – Berlin-Klausel
+# Art 4 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## Art 5 – Inkrafttreten und Übergangsvorschrift
+# Art 5 – Inkrafttreten und Übergangsvorschrift
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1986 in Kraft.
 

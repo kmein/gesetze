@@ -1,17 +1,13 @@
-# [BinSchZV] Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)  (BinSchZV)
-
-Ausfertigungsdatum: 30.09.1992
-
+% Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)  (BinSchZV)
+% Ausfertigungsdatum: 30.09.1992
  
-
-## § 1
+# § 1
 
 (1) Beruf des Unternehmers im Binnenschiffsgüterverkehr im Sinne dieser Verordnung ist die Tätigkeit natürlicher Personen oder Unternehmen, die - sei es auch nur gelegentlich - mit Binnenschiffen im gewerblichen Verkehr Güter befördern.
 
 (2) Unternehmen im Sinne dieser Verordnung ist jede Gesellschaft, auch ohne Rechtspersönlichkeit, sowie jede andere Personenvereinigung einschließlich einer Binnenschiffervereinigung und -genossenschaft, die bei den Verladern Ladung beschafft.
 
-
-## § 2
+# § 2
 
 (1) Natürliche Personen oder Unternehmen im Sinne des § 1, die den Beruf des Unternehmers im Binnenschiffsgüterverkehr mit Schiffen ausüben, deren Ladefähigkeit 200 metrische Tonnen bei höchstzulässigem Tiefgang überschreitet, bedürfen zur Ausübung der Tätigkeit einer Erlaubnis. Die Erlaubnispflicht gilt auch für die lediglich auf begrenzte Dauer im Auftrag eines anderen Unternehmers ausgeübte Güterbeförderung.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 30.09.1992
 
 (5) Wechseln die Bezeichnung des Unternehmens oder der Sitz des Unternehmens oder wechseln die für die Führung der Geschäfte bestellten Personen, ist die Erlaubnisurkunde der Erlaubnisbehörde zur Berichtigung vorzulegen.
 
-
-## § 3
+# § 3
 
 Eine Erlaubnis ist nicht erforderlich
 
@@ -32,15 +27,13 @@ Eine Erlaubnis ist nicht erforderlich
 
 2. für Unternehmer, die ausschließlich Beförderungen auf Wasserstraßen innerhalb des Geltungsbereichs des Grundgesetzes durchführen, welche keine Verbindung mit dem Binnenwasserstraßennetz eines anderen Mitgliedstaates der Europäischen Gemeinschaften oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum haben.
 
-
-## § 4
+# § 4
 
 (1) Die Erlaubnis zum innerstaatlichen oder grenzüberschreitenden Binnenschiffsgüterverkehr ist zu erteilen, wenn der Unternehmer oder die mit der Leitung des Betriebes ständig betraute Person fachlich geeignet ist.
 
 (2) Fachlich geeignet ist, wer die zur Führung eines Unternehmens des innerstaatlichen oder grenzüberschreitenden Binnenschiffsgüterverkehrs jeweils erforderlichen Kenntnisse auf den in der Anlage zu dieser Verordnung genannten Sachgebieten hat.
 
-
-## § 5
+# § 5
 
 (1) Der Nachweis der fachlichen Eignung kann durch Ablegung einer Prüfung oder durch den Nachweis einer mindestens dreijährigen nicht untergeordneten Tätigkeit in Unternehmen des gewerblichen Binnenschiffsgüterverkehrs geführt werden.
 
@@ -50,8 +43,7 @@ Eine Erlaubnis ist nicht erforderlich
 
 (4) Soweit die fachliche Eignung durch eine angemessene und nicht untergeordnete Vortätigkeit geltend gemacht wird, prüft die Erlaubnisbehörde die vorgelegten Nachweise. Bejaht die Erlaubnisbehörde die fachliche Eignung, stellt sie auf Antrag nach § 2 Abs. 4 eine Erlaubnisurkunde aus.
 
-
-## § 6
+# § 6
 
 (1) Bei Personen, die
 
@@ -63,13 +55,11 @@ wird die fachliche Eignung zur Führung eines Unternehmens des Binnenschiffsgüt
 
 (2) Auf Antrag wird diesen Personen eine Erlaubnisurkunde ausgestellt.
 
-
-## § 7
+# § 7
 
 Als ausreichender Nachweis der fachlichen Eignung gilt auch eine Bescheinigung eines anderen Mitgliedstaates der Europäischen Gemeinschaften oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, die als Bescheinigung im Sinne des Artikels 3 Abs. 2 Unterabs. 2 der Richtlinie 87/540/EWG des Rates vom 9. November 1987 über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr und über die gegenseitige Anerkennung der Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise für diesen Beruf (ABl. EG Nr. L 322 S. 20) ausgestellt wurde. Auf die in Österreich ausgestellten Bescheinigungen ist Satz 1 ab 1. Juli 1994 und auf die in der Schweiz ausgestellten Bescheinigungen ist Satz 1 ab 1. Januar 1995 anzuwenden.
 
-
-## § 8
+# § 8
 
 (1) Die Prüfung nach § 5 Abs. 1 wird von einer Industrie- und Handelskammer abgenommen, die einen Prüfungsausschuß errichtet. Für mehrere Kammerbezirke kann ein gemeinsamer Prüfungsausschuß gebildet werden.
 
@@ -77,15 +67,13 @@ Als ausreichender Nachweis der fachlichen Eignung gilt auch eine Bescheinigung e
 
 (3) Örtlich zuständig ist die Industrie- und Handelskammer, in deren Bezirk der Prüfungsteilnehmer seinen Wohnsitz hat. Die Verweisung des Prüfungsteilnehmers an den bei einer anderen Industrie- und Handelskammer gebildeten Prüfungsausschuß ist zulässig.
 
-
-## § 9
+# § 9
 
 (1) Gegenstand der Prüfung sind die in den Abschnitten A und B der Anlage genannten Sachgebiete. Auf Antrag wird die Prüfung auf die Sachgebiete des Abschnitts A der Anlage begrenzt. Ist dem Prüfungsteilnehmer durch eine Erlaubnisurkunde gemäß § 2 Abs. 4 bescheinigt worden, daß er bereits hinreichende Kenntnisse in den Sachgebieten des Abschnitts A der Anlage hat, wird die Prüfung auf die Sachgebiete des Abschnitts B der Anlage begrenzt.
 
 (2) In Fällen zwingender betrieblicher oder persönlicher Belange eines Antragstellers kann die zuständige Industrie- und Handelskammer eine Befreiung von der Verpflichtung zum Ablegen der Prüfung auf einem oder mehreren Sachgebieten nach Absatz 1 erteilen.
 
-
-## § 10
+# § 10
 
 (1) Die Prüfung soll aus einem schriftlichen und einem mündlichen Teil bestehen.
 
@@ -95,18 +83,15 @@ Als ausreichender Nachweis der fachlichen Eignung gilt auch eine Bescheinigung e
 
 (4) Einzelheiten der Durchführung der Prüfung und der Bewertung der Prüfungsleistungen regeln die Industrie- und Handelskammern durch Prüfungsordnungen.
 
-
-## § 11
+# § 11
 
 Bei Unternehmern, die nachweislich bis zum Zeitpunkt des Inkrafttretens dieser Verordnung ein Binnenschiffsgüterverkehrsunternehmen betrieben haben, wird die fachliche Eignung unterstellt. Der Nachweis ist der Erlaubnisbehörde innerhalb von 12 Monaten nach Inkrafttreten der Verordnung zu erbringen. Eine Erlaubnisurkunde wird auf Antrag des Unternehmers ausgestellt.
 
-
-## § 12
+# § 12
 
 (Weggefallen)
 
-
-## § 13
+# § 13
 
 (1) Nach dem Tod des Unternehmers darf der Erbe den Betrieb höchstens ein Jahr lang weiterführen, ohne daß die Voraussetzungen des § 4 Abs. 1 festgestellt sind; das gleiche gilt für den Testamentsvollstrecker, Nachlaßpfleger oder Nachlaßverwalter während einer Testamentsvollstreckung, Nachlaßpflegschaft oder Nachlaßverwaltung. In ausreichend begründeten Sonderfällen kann diese Frist um sechs Monate verlängert werden.
 
@@ -116,13 +101,11 @@ Bei Unternehmern, die nachweislich bis zum Zeitpunkt des Inkrafttretens dieser V
 
 (4) Kann eine der in Absatz 1 genannten Personen oder ein Dritter eine praktische Berufserfahrung von mindestens drei Jahren in der laufenden Geschäftsführung des Unternehmens nachweisen, kann die Erlaubnis zur Fortführung des Betriebes ausnahmsweise zeitlich unbeschränkt erteilt werden, ohne daß die Voraussetzungen des § 4 Abs. 1 festgestellt sind.
 
-
-## § 14
+# § 14
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig ohne Erlaubnis nach § 2 Abs. 1 eine dort genannte Tätigkeit gewerbsmäßig ausübt.
 
-
-## Anlage – (zu § 4 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 Nr. 2, § 9 Abs. 1 und § 10 Abs. 2)
+# Anlage – (zu § 4 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 Nr. 2, § 9 Abs. 1 und § 10 Abs. 2)
 
   
   
@@ -135,8 +118,7 @@ Erforderliche Kenntnisse
 
 Nachzuweisen sind Kenntnisse in folgenden Sachgebieten:
 
-A.  
-von Unternehmern, die nur Beförderungen im innerstaatlichen Verkehr durchführen wollen
+A. von Unternehmern, die nur Beförderungen im innerstaatlichen Verkehr durchführen wollen
 
 1. Recht
 
@@ -216,8 +198,7 @@ Rechts- und Verwaltungsvorschriften für den Binnenschiffsverkehr
 \-  
 Unfallverhütung und Maßnahmen bei Unfällen
 
-B.  
-von Unternehmern, die Beförderungen im grenzüberschreitenden Verkehr durchführen wollen
+B. von Unternehmern, die Beförderungen im grenzüberschreitenden Verkehr durchführen wollen
 
 1. die unter Buchstabe A genannten Sachgebiete
 

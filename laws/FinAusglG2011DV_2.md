@@ -1,15 +1,11 @@
-# [FinAusglG2011DV 2] Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2011
-
-Ausfertigungsdatum: 25.04.2016
-
+% Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2011
+% Ausfertigungsdatum: 25.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2011
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2011
 
 Für das Ausgleichsjahr 2011 werden als Länderanteile an der Umsatzsteuer festgestellt:
 
@@ -32,8 +28,7 @@ Für das Ausgleichsjahr 2011 werden als Länderanteile an der Umsatzsteuer festg
 | für Schleswig-Holstein     |  2 691 387 817,34 Euro |
 | für Thüringen              | 3 470 891 607,28 Euro. |
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2011
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2011
 
 Für das Ausgleichsjahr 2011 wird der Finanzausgleich unter den Ländern wie folgt festgestellt:
 
@@ -63,8 +58,7 @@ Für das Ausgleichsjahr 2011 wird der Finanzausgleich unter den Ländern wie fol
 | an Schleswig-Holstein     |   119 059 411,81 Euro |
 | an Thüringen              |  530 661 370,21 Euro. |
 
-
-## § 3 – Abschlusszahlungen für 2011
+# § 3 – Abschlusszahlungen für 2011
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1, den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Finanzausgleichsgesetzes mit dem Inkrafttreten dieser Verordnung fällig:
 
@@ -94,12 +88,10 @@ Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgül
 | an Nordrhein-Westfalen | 182 764,69 Euro |
 | an Thüringen           |  1 181,72 Euro. |
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2011 vom 24. März 2011 (BGBl. I S. 518) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

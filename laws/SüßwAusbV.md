@@ -1,32 +1,25 @@
-# [SüßwAusbV] Verordnung über die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin   (Süßwarentechnologenausbildungsverordnung - SüßwAusbV)
-
-Ausfertigungsdatum: 29.04.2014
-
+% Verordnung über die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin   (Süßwarentechnologenausbildungsverordnung - SüßwAusbV)
+% Ausfertigungsdatum: 29.04.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Süßwarentechnologen und der Süßwarentechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan
+# § 3 – Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
 (2) Eine vom Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 4 – Struktur und Inhalte der Berufsausbildung
+# § 4 – Struktur und Inhalte der Berufsausbildung
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -74,8 +67,7 @@ Andere Einsatzgebiete sind zulässig, wenn in ihnen die berufsprofilgebenden Fer
 
 4. Umweltschutz.
 
-
-## § 5 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+# § 5 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -83,8 +75,7 @@ Andere Einsatzgebiete sind zulässig, wenn in ihnen die berufsprofilgebenden Fer
 
 (3) Die Auszubildenden haben jeweils einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -120,8 +111,7 @@ h) Daten zu erfassen, zu dokumentieren und auszuwerten;
 
 3. die Prüfungszeit beträgt insgesamt 150 Minuten; die schriftliche Arbeitsplanung soll höchstens 30 Minuten und das situative Fachgespräch höchstens 10 Minuten dauern.
 
-
-## § 7 – Abschlussprüfung
+# § 7 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
@@ -219,8 +209,7 @@ j) Hygiene-, Reinigungs- und Desinfektionsmaßnahmen zu erläutern;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+# § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -252,12 +241,10 @@ j) Hygiene-, Reinigungs- und Desinfektionsmaßnahmen zu erläutern;
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zur Fachkraft für Süßwarentechnik vom 3. Oktober 1980 (BGBl. I S. 1911), die zuletzt durch Artikel 2 § 34 des Gesetzes vom 20. Juli 2000 (BGBl. I S. 1045) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin
+# Anlage – (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin
 
 (Fundstelle: BGBl. I 2014, 447 - 449)

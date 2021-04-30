@@ -1,25 +1,19 @@
-# [AgrarAusbV] Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
-
-Ausfertigungsdatum: 23.07.2009
-
+% Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
+% Ausfertigungsdatum: 23.07.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft Agrarservice wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -85,8 +79,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 vermittelt werden. Die für die Ausbildung wesentlichen Kulturen werden vom Ausbildungsbetrieb festgelegt. Andere Kulturen sind zulässig, wenn an ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 Abschnitt A Nummer 5 in gleicher Breite und Tiefe vermittelt werden können.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
@@ -94,8 +87,7 @@ vermittelt werden. Die für die Ausbildung wesentlichen Kulturen werden vom Ausb
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, diesen während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Zwischenprüfung
+# § 5 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -155,8 +147,7 @@ kann;
 
 3. die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -279,18 +270,15 @@ bewertet worden sind.
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten. In Teilbereichen von Prüfungsbereichen, in denen Prüfungsleistungen mit eigenen Anforderungen und Gewichtung schriftlich zu erbringen sind, gelten die Sätze 1 und 2 entsprechend.
 
-
-## § 7 – Bestehende Berufsausbildungsverhältnisse
+# § 7 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-
-## Anlage – (zu § 3)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
+# Anlage – (zu § 3)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft Agrarservice
 
 Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 

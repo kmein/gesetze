@@ -1,15 +1,11 @@
-# [IntPatÜbkG] Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente, dem Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens und dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente  (Gesetz über internationale Patentübereinkommen)
-
-Ausfertigungsdatum: 21.06.1976
-
+% Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente, dem Vertrag vom 19. Juni 1970 über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens und dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente  (Gesetz über internationale Patentübereinkommen)
+% Ausfertigungsdatum: 21.06.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Entschädigungsanspruch aus europäischen Patentanmeldungen
+# § 1 – Entschädigungsanspruch aus europäischen Patentanmeldungen
 
 (1) Der Anmelder einer veröffentlichten europäischen Patentanmeldung, mit der für die Bundesrepublik Deutschland Schutz begehrt wird, kann von demjenigen, der den Gegenstand der Anmeldung benutzt hat, obwohl er wußte oder wissen mußte, daß die von ihm benutzte Erfindung Gegenstand der europäischen Patentanmeldung war, eine den Umständen nach angemessene Entschädigung verlangen. § 141 des Patentgesetzes ist entsprechend anzuwenden. Weitergehende Ansprüche nach Artikel 67 Abs. 1 des Europäischen Patentübereinkommens sind ausgeschlossen.
 
@@ -17,20 +13,17 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Die vorstehenden Absätze gelten entsprechend im Falle einer nach Artikel 21 des Patentzusammenarbeitsvertrags veröffentlichten internationalen Patentanmeldung, für die das Europäische Patentamt als Bestimmungsamt tätig geworden ist. Artikel 153 Abs. 4 des Europäischen Patentübereinkommens bleibt unberührt.
 
-
-## § 2 – Veröffentlichung von Übersetzungen der Patentansprüche europäischer Patentanmeldungen
+# § 2 – Veröffentlichung von Übersetzungen der Patentansprüche europäischer Patentanmeldungen
 
 (1) Das Deutsche Patent- und Markenamt veröffentlicht auf Antrag des Anmelders die nach § 1 Abs. 2 eingereichte Übersetzung.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über die sonstigen Erfordernisse für die Veröffentlichung zu erlassen. Es kann diese Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Deutsche Patent- und Markenamt übertragen.
 
-
-## § 3 – Übermittlung von Informationen
+# § 3 – Übermittlung von Informationen
 
 Das Deutsche Patent- und Markenamt kann aus den bei ihm geführten Verfahren dem Europäischen Patentamt die für die Erfüllung von dessen Aufgaben in Verfahren nach dem Vierten und dem Zehnten Teil des Europäischen Patentübereinkommens erforderlichen Informationen einschließlich personenbezogener Daten elektronisch oder in anderer Form übermitteln. Die Übermittlung ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden Fassung offensichtlich überwiegt.
 
-
-## § 4 – Einreichung europäischer Patentanmeldungen beim Deutschen Patent- und Markenamt
+# § 4 – Einreichung europäischer Patentanmeldungen beim Deutschen Patent- und Markenamt
 
 (1) Europäische Patentanmeldungen können auch beim Deutschen Patent- und Markenamt oder gemäß § 34 Abs. 2 des Patentgesetzes über ein Patentinformationszentrum eingereicht werden. Die nach dem europäischen Patentübereinkommen zu zahlenden Gebühren sind unmittelbar an das Europäische Patentamt zu entrichten.
 
@@ -46,15 +39,13 @@ Das Deutsche Patent- und Markenamt kann aus den bei ihm geführten Verfahren dem
 
 (3) Enthält die Anmeldung kein Staatsgeheimnis, so leitet das Deutsche Patent- und Markenamt die Patentanmeldung an das Europäische Patentamt weiter und unterrichtet den Anmelder hiervon.
 
-
-## § 5 – Anspruch gegen den nichtberechtigten Patentanmelder
+# § 5 – Anspruch gegen den nichtberechtigten Patentanmelder
 
 (1) Der nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens Berechtigte, dessen Erfindung von einem Nichtberechtigten angemeldet ist, kann vom Patentsucher verlangen, daß ihm der Anspruch auf Erteilung des europäischen Patents abgetreten wird. Hat die Patentanmeldung bereits zum europäischen Patent geführt, so kann er vom Patentinhaber die Übertragung des Patents verlangen.
 
 (2) Der Anspruch nach Absatz 1 Satz 2 kann innerhalb einer Ausschlußfrist von zwei Jahren nach dem Tag gerichtlich geltend gemacht werden, an dem im Europäischen Patentblatt auf die Erteilung des europäischen Patents hingewiesen worden ist, später nur dann, wenn der Patentinhaber bei der Erteilung oder dem Erwerb des Patents Kenntnis davon hatte, daß er kein Recht auf das europäische Patent hatte.
 
-
-## § 6 – Nichtigkeit
+# § 6 – Nichtigkeit
 
 (1) Das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent wird auf Antrag für nichtig erklärt, wenn sich ergibt, daß
 
@@ -76,20 +67,17 @@ Soweit das europäische Patent für nichtig erklärt worden ist, gelten die Wirk
 
 (4) Im Falle des Absatzes 1 Satz 1 Nr. 5 ist nur der nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens Berechtigte befugt, den Antrag zu stellen.
 
-
-## § 6a
+# § 6a
 
 Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach § 49a des Patentgesetzes auch für das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent.
 
-
-## § 7 – Jahresgebühren
+# § 7 – Jahresgebühren
 
 (1) Für das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent sind Jahresgebühren nach § 17 des Patentgesetzes zu entrichten. Sie werden jedoch erst für die Jahre geschuldet, die dem Jahr folgen, in dem der Hinweis auf die Erteilung des europäischen Patents im Europäischen Patentblatt bekanntgemacht worden ist.
 
 (2) Hebt die Große Beschwerdekammer des Europäischen Patentamts nach Artikel 112a des Europäischen Patentübereinkommens die Entscheidung einer Beschwerdekammer auf, mit der ein europäisches Patent widerrufen wurde, werden Jahresgebühren für den Zeitraum zwischen Widerruf des Patents und Aufhebung dieser Entscheidung erst mit dem Tag der Zustellung der Entscheidung der Großen Beschwerdekammer fällig.
 
-
-## § 8 – Verbot des Doppelschutzes
+# § 8 – Verbot des Doppelschutzes
 
 (1) Soweit der Gegenstand eines im Verfahren nach dem Patentgesetz erteilten Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent mit derselben Priorität erteilt worden ist, hat das Patent in dem Umfang, in dem es dieselbe Erfindung wie das europäische Patent schützt, von dem Zeitpunkt an keine Wirkung mehr, zu dem
 
@@ -103,8 +91,7 @@ Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach §
 
 (3) (weggefallen)
 
-
-## § 9 – Umwandlung
+# § 9 – Umwandlung
 
 (1) Hat der Anmelder einer europäischen Patentanmeldung, mit der für die Bundesrepublik Deutschland Schutz begehrt wird, einen Umwandlungsantrag nach Artikel 135 Abs. 1 Buchstabe a des Europäischen Patentübereinkommens gestellt und hierbei angegeben, daß er für die Bundesrepublik Deutschland die Einleitung des Verfahrens zur Erteilung eines nationalen Patents wünscht, so gilt die europäische Patentanmeldung als eine mit der Stellung des Umwandlungsantrags beim Deutschen Patent- und Markenamt eingereichte nationale Patentanmeldung; Artikel 66 des Europäischen Patentübereinkommens bleibt unberührt.
 
@@ -112,35 +99,29 @@ Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach §
 
 (3) (weggefallen)
 
-
-## § 10 – Zuständigkeit von Gerichten
+# § 10 – Zuständigkeit von Gerichten
 
 (1) Ist nach dem Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents die Zuständigkeit der Gerichte im Geltungsbereich dieses Gesetzes begründet, so richtet sich die örtliche Zuständigkeit nach den allgemeinen Vorschriften. Ist danach ein Gerichtsstand nicht gegeben, so ist das Gericht zuständig, in dessen Bezirk das Europäische Patentamt seinen Sitz hat.
 
 (2) § 143 des Patentgesetzes gilt entsprechend.
 
-
-## § 11 – Zentrale Behörde für Rechtshilfeersuchen
+# § 11 – Zentrale Behörde für Rechtshilfeersuchen
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates eine Bundesbehörde als zentrale Behörde für die Entgegennahme und Weiterleitung der vom Europäischen Patentamt ausgehenden Rechtshilfeersuchen zu bestimmen.
 
-
-## § 12 – Entzug des Geschäftssitzes eines zugelassenen Vertreters
+# § 12 – Entzug des Geschäftssitzes eines zugelassenen Vertreters
 
 Zuständige Behörde für den Entzug der Berechtigung, einen Geschäftssitz nach Artikel 134 Abs. 6 Satz 1 und Abs. 8 des Europäischen Patentübereinkommens zu begründen, ist die Landesjustizverwaltung des Landes, in dem der Geschäftssitz begründet worden ist. Die Landesregierungen werden ermächtigt, die Zuständigkeit der Landesjustizverwaltung durch Rechtsverordnung auf den Präsidenten des Oberlandesgerichts, den Präsidenten des Landgerichts oder den Präsidenten des Amtsgerichts des Bezirks zu übertragen, in dem der Geschäftssitz begründet worden ist. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen.
 
-
-## § 13 – Ersuchen um Erstattung technischer Gutachten
+# § 13 – Ersuchen um Erstattung technischer Gutachten
 
 Ersuchen der Gerichte um Erstattung technischer Gutachten nach Artikel 25 des Europäischen Patentübereinkommens werden in unmittelbarem Verkehr an das Europäische Patentamt übersandt.
 
-
-## § 14 – Unzulässige Anmeldung beim Europäischen Patentamt
+# § 14 – Unzulässige Anmeldung beim Europäischen Patentamt
 
 Wer eine Patentanmeldung, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) enthält, unmittelbar beim Europäischen Patentamt einreicht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-
-## § 1 – Das Deutsche Patent- und Markenamt als Anmeldeamt
+# § 1 – Das Deutsche Patent- und Markenamt als Anmeldeamt
 
 (1) Das Deutsche Patent- und Markenamt ist Anmeldeamt im Sinne des Artikels 10 des Patentzusammenarbeitsvertrags. Es nimmt internationale Patentanmeldungen von Personen entgegen, die die deutsche Staatsangehörigkeit besitzen oder im Geltungsbereich dieses Gesetzes ihren Sitz oder Wohnsitz haben. Es nimmt auch internationale Anmeldungen von Personen entgegen, die die Staatsangehörigkeit eines anderen Staates besitzen oder in einem anderen Staat ihren Sitz oder Wohnsitz haben, wenn die Bundesrepublik Deutschland die Entgegennahme solcher Anmeldungen mit einem anderen Staat vereinbart hat und dies durch den Präsidenten des Deutschen Patent- und Markenamts bekanntgemacht worden ist oder wenn das Deutsche Patent- und Markenamt mit Zustimmung seines Präsidenten durch die Versammlung des Verbands für die internationale Zusammenarbeit auf dem Gebiet des Patentwesens als Anmeldeamt bestimmt worden ist.
 
@@ -148,20 +129,17 @@ Wer eine Patentanmeldung, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) 
 
 (3) Auf das Verfahren vor dem Deutschen Patent- und Markenamt als Anmeldeamt sind ergänzend zu den Bestimmungen des Patentzusammenarbeitsvertrags die Vorschriften des Patentgesetzes für das Verfahren vor dem Deutschen Patent- und Markenamt anzuwenden.
 
-
-## § 2 – Geheimhaltungsbedürftige internationale Anmeldungen
+# § 2 – Geheimhaltungsbedürftige internationale Anmeldungen
 
 (1) Das Deutsche Patent- und Markenamt prüft alle bei ihm als Anmeldeamt eingereichten internationalen Anmeldungen darauf, ob mit ihnen Patentschutz für eine Erfindung nachgesucht wird, die ein Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist. Für das Verfahren gelten die Vorschriften des Patentgesetzes entsprechend; § 53 des Patentgesetzes ist anzuwenden.
 
 (2) Ergibt die Prüfung nach Absatz 1, daß die Erfindung ein Staatsgeheimnis ist, so ordnet das Deutsche Patent- und Markenamt von Amts wegen an, daß die Anmeldung nicht weitergeleitet wird und jede Bekanntmachung unterbleibt. Mit der Rechtskraft der Anordnung gilt die internationale Anmeldung als eine von Anfang an beim Deutschen Patent- und Markenamt eingereichte nationale Patentanmeldung, für die eine Anordnung nach § 50 Abs. 1 des Patentgesetzes ergangen ist. Die für die internationale Anmeldung gezahlte Übermittlungsgebühr wird auf die für das Anmeldeverfahren nach § 34 des Patentgesetzes zu zahlende Gebühr nach dem Patenkostengesetz verrechnet; ein Überschuß wird zurückgezahlt.
 
-
-## § 3 – Internationale Recherchebehörde
+# § 3 – Internationale Recherchebehörde
 
 Das Deutsche Patent- und Markenamt gibt bekannt, welche Behörde für die Bearbeitung der bei ihm eingereichten internationalen Anmeldungen als Internationale Recherchebehörde bestimmt ist.
 
-
-## § 4 – Das Deutsche Patent- und Markenamt als Bestimmungsamt
+# § 4 – Das Deutsche Patent- und Markenamt als Bestimmungsamt
 
 (1) Das Deutsche Patent- und Markenamt ist Bestimmungsamt, wenn in einer internationalen Anmeldung die Bundesrepublik Deutschland für ein Patent oder ein Gebrauchsmuster oder beide Schutzrechtsarten bestimmt worden ist. Dies gilt nicht, wenn der Anmelder in der internationalen Anmeldung die Erteilung eines europäischen Patents beantragt hat.
 
@@ -177,27 +155,23 @@ Wird der Unterschiedsbetrag nicht innerhalb von drei Monaten ab Fälligkeit geza
 
 (4) Wird für die internationale Anmeldung die Priorität einer beim Deutschen Patent- und Markenamt eingereichten früheren Patent- oder Gebrauchsmusteranmeldung beansprucht, so gilt diese abweichend von § 40 Abs. 5 des Patentgesetzes oder § 6 Abs. 1 des Gebrauchsmustergesetzes zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt und die in Artikel 22 oder 39 Abs. 1 des Patentzusammenarbeitsvertrags vorgesehenen Fristen abgelaufen sind. Wird für die internationale Anmeldung nach Satz 1 ein Antrag auf vorzeitige Bearbeitung oder Prüfung nach Artikel 23 Abs. 2 oder Artikel 40 Abs. 2 des Patentzusammenarbeitsvertrags gestellt, gilt die frühere Patent- oder Gebrauchsmusteranmeldung zu dem Zeitpunkt als zurückgenommen, zu dem die Voraussetzungen des Absatzes 2 erfüllt sind und der Antrag auf vorzeitige Prüfung oder Bearbeitung beim Deutschen Patent- und Markenamt eingegangen ist.
 
-
-## § 5 – Weiterbehandlung als nationale Anmeldung
+# § 5 – Weiterbehandlung als nationale Anmeldung
 
 (1) Übersendet das Internationale Büro dem Deutschen Patent- und Markenamt als Bestimmungsamt eine internationale Anmeldung, der das zuständige Anmeldeamt die Zuerkennung eines internationalen Anmeldedatums abgelehnt hat oder die dieses Amt für zurückgenommen erklärt hat, so prüft das Deutsche Patent- und Markenamt, ob die Beanstandungen des Anmeldeamts zutreffend sind, sobald der Anmelder die Gebühr nach dem Patentkostengesetz für das Anmeldeverfahren nach § 34 des Patentgesetzes gezahlt und, sofern die internationale Anmeldung nicht in deutscher Sprache eingereicht worden ist, eine Übersetzung der internationalen Anmeldung in deutscher Sprache eingereicht hat. Das Deutsche Patent- und Markenamt entscheidet durch Beschluß, ob die Beanstandungen des Anmeldeamts gerechtfertigt sind. Für das Verfahren gelten die Vorschriften des Patentgesetzes entsprechend.
 
 (2) Absatz 1 ist entsprechend auf die Fälle anzuwenden, in denen das Anmeldeamt die Bestimmung der Bundesrepublik Deutschland für zurückgenommen erklärt oder in denen das Internationale Büro die Anmeldung als zurückgenommen behandelt hat.
 
-
-## § 6 – Das Deutsche Patent- und Markenamt als ausgewähltes Amt
+# § 6 – Das Deutsche Patent- und Markenamt als ausgewähltes Amt
 
 (1) Hat der Anmelder zu einer internationalen Anmeldung, für die das Deutsche Patent- und Markenamt Bestimmungsamt ist, beantragt, daß eine internationale vorläufige Prüfung der Anmeldung nach Kapitel II des Patentzusammenarbeitsvertrags durchgeführt wird, und hat er die Bundesrepublik Deutschland als Vertragsstaat angegeben, in dem er die Ergebnisse der internationalen vorläufigen Prüfung verwenden will ("ausgewählter Staat"), so ist das Deutsche Patentamt ausgewähltes Amt.
 
 (2) Ist die Auswahl der Bundesrepublik Deutschland vor Ablauf des 19. Monats seit dem Prioritätsdatum erfolgt, so ist § 4 Abs. 2 mit der Maßgabe anzuwenden, daß an die Stelle der dort genannten Frist die in Artikel 39 Abs. 1 des Patentzusammenarbeitsvertrags vorgesehene Frist tritt.
 
-
-## § 7 – Internationaler Recherchenbericht
+# § 7 – Internationaler Recherchenbericht
 
 Liegt für die internationale Anmeldung ein internationaler Recherchenbericht vor, so ermäßigt sich die nach § 44 Abs. 3 des Patentgesetzes zu zahlende Gebühr für die Prüfung der Anmeldung in gleicher Weise, wie wenn beim Deutschen Patent- und Markenamt ein Antrag nach § 43 Abs. 1 des Patentgesetzes gestellt worden wäre. Eine Ermäßigung nach Satz 1 tritt nicht ein, wenn der internationale Recherchenbericht für Teile der Anmeldung nicht erstellt worden ist.
 
-
-## § 8 – Veröffentlichung der internationalen Anmeldung
+# § 8 – Veröffentlichung der internationalen Anmeldung
 
 (1) Die Veröffentlichung einer internationalen Anmeldung nach Artikel 21 des Patentzusammenarbeitsvertrags, für die das Deutsche Patent- und Markenamt Bestimmungsamt ist, hat die gleiche Wirkung wie die Veröffentlichung eines Hinweises nach § 32 Abs. 5 des Patentgesetzes für eine beim Deutschen Patentamt eingereichte Patentanmeldung (§ 33 des Patentgesetzes). Ein Hinweis auf die Veröffentlichung wird im Patentblatt bekanntgemacht.
 
@@ -205,8 +179,7 @@ Liegt für die internationale Anmeldung ein internationaler Recherchenbericht vo
 
 (3) Die nach Artikel 21 des Patentzusammenarbeitsvertrags veröffentlichte internationale Anmeldung gilt erst dann als Stand der Technik nach § 3 Abs. 2 des Patentgesetzes, wenn die in § 4 Abs. 2 genannten Voraussetzungen erfüllt sind.
 
-
-## § 1
+# § 1
 
 (1) Artikel IV ist nur auf die nach seinem Inkrafttreten beim Deutschen Patent- und Markenamt eingereichten Patentanmeldungen und die darauf erteilten Patente anzuwenden.
 
@@ -214,13 +187,11 @@ Liegt für die internationale Anmeldung ein internationaler Recherchenbericht vo
 
 (3) Die vor dem Inkrafttreten von Artikel IV Nr. 7 und Artikel VI entstandenen Wirkungen des zeitweiligen Schutzes bleiben von dem Inkrafttreten der genannten Bestimmungen unberührt.
 
-
-## § 2
+# § 2
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## § 3
+# § 3
 
 (1) Artikel I, Artikel V, Artikel VIII sowie die §§ 2 und 3 dieses Artikels treten am 1. Oktober 1976 in Kraft.
 
@@ -242,7 +213,6 @@ für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt be
 
 (6) Artikel IV Nr. 3, soweit er § 2 Abs. 4 des Patentgesetzes betrifft, und Nr. 7 sowie Artikel VI treten am ersten Tag des auf die Bekanntmachung des Inkrafttretens des Straßburger Patentübereinkommens im Bundesgesetzblatt folgenden vierten Kalendermonats in Kraft. Bis zu diesem Zeitpunkt bleibt für die Anwendung von Artikel IV Nr. 3, soweit er § 2 Abs. 1 und 2 des Patentgesetzes betrifft, eine innerhalb von sechs Monaten vor der Anmeldung erfolgte Beschreibung oder Benutzung außer Betracht, wenn sie auf der Erfindung des Anmelders oder seines Rechtsvorgängers beruht.
 
-
-## § 4
+# § 4
 
 Für europäische Patente, für die der Hinweis auf die Erteilung vor dem 1. Mai 2008 im Europäischen Patentblatt veröffentlicht worden ist, bleiben Artikel II § 3 dieses Gesetzes, § 2 Abs. 1 des Patentkostengesetzes vom 13. Dezember 2001 (BGBl. I S. 3656), die Verordnung über die Übertragung der Ermächtigung nach Artikel II § 3 Abs. 6 des Gesetzes über internationale Patentübereinkommen vom 1. Juni 1992 (BGBl. 1992 II S. 375) und die Verordnung über die Übersetzungen europäischer Patentschriften vom 2. Juni 1992 (BGBl. 1992 II S. 395) jeweils in den Fassungen anwendbar, die im Zeitpunkt der Veröffentlichung des Hinweises gegolten haben.

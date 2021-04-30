@@ -1,27 +1,21 @@
-# [BSHG§76DV] Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch
-
-Ausfertigungsdatum: 28.11.1962
-
+% Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch
+% Ausfertigungsdatum: 28.11.1962
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 76 Abs. 3 des Bundessozialhilfegesetzes vom 30. Juni 1961 (Bundesgesetzbl. I S. 815) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Einkommen
+# § 1 – Einkommen
 
 Bei der Berechnung der Einkünfte in Geld oder Geldeswert, die nach § 82 Abs. 1 des Zwölften Buches Sozialgesetzbuch zum Einkommen gehören, sind alle Einnahmen ohne Rücksicht auf ihre Herkunft und Rechtsnatur sowie ohne Rücksicht darauf, ob sie zu den Einkunftsarten im Sinne des Einkommensteuergesetzes gehören und ob sie der Steuerpflicht unterliegen, zugrunde zu legen.
 
-
-## § 2 – Bewertung von Sachbezügen
+# § 2 – Bewertung von Sachbezügen
 
 (1) Für die Bewertung von Einnahmen, die nicht in Geld bestehen (Kost, Wohnung und sonstige Sachbezüge), sind die auf Grund des § 17 Abs. 2 des Vierten Buches Sozialgesetzbuch für die Sozialversicherung zuletzt festgesetzten Werte der Sachbezüge maßgebend; soweit der Wert der Sachbezüge nicht festgesetzt ist, sind der Bewertung die üblichen Mittelpreise des Verbrauchsortes zu Grunde zu legen. Die Verpflichtung, den notwendigen Lebensunterhalt im Einzelfall nach dem Dritten Kapitel des Zwölften Buches Sozialgesetzbuch sicherzustellen, bleibt unberührt.
 
 (2) Absatz 1 gilt auch dann, wenn in einem Tarifvertrag, einer Tarifordnung, einer Betriebs- oder Dienstordnung, einer Betriebsvereinbarung, einem Arbeitsvertrag oder einem sonstigen Vertrag andere Werte festgesetzt worden sind.
 
-
-## § 3 – Einkünfte aus nichtselbständiger Arbeit
+# § 3 – Einkünfte aus nichtselbständiger Arbeit
 
 (1) Welche Einkünfte zu den Einkünften aus nichtselbständiger Arbeit gehören, bestimmt sich nach § 19 Abs. 1 Ziff. 1 des Einkommensteuergesetzes.
 
@@ -77,8 +71,7 @@ für jeden vollen Kilometer, den die Wohnung von der Arbeitsstätte entfernt lie
 
 (7) Ist der Bezieher des Einkommens außerhalb des Ortes beschäftigt, an dem er einen eigenen Hausstand unterhält, und kann ihm weder der Umzug noch die tägliche Rückkehr an den Ort des eigenen Hausstandes zugemutet werden, so sind die durch Führung des doppelten Haushalts ihm nachweislich entstehenden Mehraufwendungen, höchstens ein Betrag von 130 Euro monatlich, sowie die unter Ausnutzung bestehender Tarifvergünstigungen entstehenden Aufwendungen für Fahrtkosten der zweiten Wagenklasse für eine Familienheimfahrt im Kalendermonat abzusetzen. Ein eigener Hausstand ist dann anzunehmen, wenn der Bezieher des Einkommens eine Wohnung mit eigener oder selbstbeschaffter Möbelausstattung besitzt. Eine doppelte Haushaltsführung kann auch dann anerkannt werden, wenn der Bezieher des Einkommens nachweislich ganz oder überwiegend die Kosten für einen Haushalt trägt, den er gemeinsam mit nächsten Angehörigen führt.
 
-
-## § 4 – Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
+# § 4 – Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
 
 (1) Welche Einkünfte zu den Einkünften aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit gehören, bestimmt sich nach § 13 Abs. 1 und 2, § 15 Abs. 1 und § 18 Abs. 1 des Einkommensteuergesetzes; der Nutzungswert der Wohnung im eigenen Haus bleibt unberücksichtigt.
 
@@ -100,8 +93,7 @@ für jeden vollen Kilometer, den die Wohnung von der Arbeitsstätte entfernt lie
 
 vorgenommen worden sind, dem durch das Finanzamt festgestellten Gewinn wieder hinzuzurechnen. Soweit jedoch in diesen Fällen notwendige Ausgaben für die Anschaffung oder Herstellung der in Satz 1 genannten Wirtschaftsgüter im Feststellungszeitraum geleistet worden sind, sind sie vom Gewinn abzusetzen.
 
-
-## § 5 – Sondervorschrift für die Einkünfte aus Land- und Forstwirtschaft
+# § 5 – Sondervorschrift für die Einkünfte aus Land- und Forstwirtschaft
 
 (1) Die Träger der Sozialhilfe können mit Zustimmung der zuständigen Landesbehörde die Einkünfte aus Land- und Forstwirtschaft abweichend von § 4 nach § 7 der Dritten Verordnung über Ausgleichsleistungen nach dem Lastenausgleichsgesetz (3. LeistungsDV-LA) berechnen; der Nutzungswert der Wohnung im eigenen Haus bleibt jedoch unberücksichtigt.
 
@@ -111,8 +103,7 @@ vorgenommen worden sind, dem durch das Finanzamt festgestellten Gewinn wieder hi
 
 2. wenn der Bezieher der Einkünfte zur Einkommensteuer veranlagt wird, es sei denn, daß der Gewinn auf Grund von Durchschnittssätzen ermittelt wird.
 
-
-## § 6 – Einkünfte aus Kapitalvermögen
+# § 6 – Einkünfte aus Kapitalvermögen
 
 (1) Welche Einkünfte zu den Einkünften aus Kapitalvermögen gehören, bestimmt sich nach § 20 Abs. 1 bis 3 des Einkommensteuergesetzes.
 
@@ -120,8 +111,7 @@ vorgenommen worden sind, dem durch das Finanzamt festgestellten Gewinn wieder hi
 
 (3) Die Einkünfte sind auf der Grundlage der vor dem Berechnungsjahr erzielten Einkünfte unter Berücksichtigung der im Berechnungsjahr bereits eingetretenen und noch zu erwartenden Veränderungen zu errechnen. Soweit im Einzelfall geboten, können hiervon abweichend die Einkünfte für das Berechnungsjahr auch nachträglich errechnet werden.
 
-
-## § 7 – Einkünfte aus Vermietung und Verpachtung
+# § 7 – Einkünfte aus Vermietung und Verpachtung
 
 (1) Welche Einkünfte zu den Einkünften aus Vermietung und Verpachtung gehören, bestimmt sich nach § 21 Abs. 1 und 3 des Einkommensteuergesetzes.
 
@@ -154,41 +144,34 @@ der Roheinnahmen. Dies gilt nicht, wenn geringere Einkünfte nachgewiesen werden
 
 (5) Die Einkünfte sind als Jahreseinkünfte, bei der Vermietung von möblierten Wohnungen und von Zimmern jedoch als Monatseinkünfte zu berechnen. Sind sie als Jahreseinkünfte zu berechnen, gilt § 6 Abs. 3 entsprechend.
 
-
-## § 8 – Andere Einkünfte
+# § 8 – Andere Einkünfte
 
 (1) Andere als die in den §§ 3, 4, 6 und 7 genannten Einkünfte sind, wenn sie nicht monatlich oder wenn sie monatlich in unterschiedlicher Höhe erzielt werden, als Jahreseinkünfte zu berechnen. Zu den anderen Einkünften im Sinne des Satzes 1 gehören auch die in § 19 Abs. 1 Ziff. 2 des Einkommensteuergesetzes genannten Bezüge sowie Renten und sonstige wiederkehrende Bezüge. § 3 Abs. 3 gilt entsprechend.
 
 (2) Sind die Einkünfte als Jahreseinkünfte zu berechnen, gilt § 6 Abs. 3 entsprechend.
 
-
-## § 9 – Einkommensberechnung in besonderen Fällen
+# § 9 – Einkommensberechnung in besonderen Fällen
 
 Ist der Bedarf an Sozialhilfe einmalig oder nur von kurzer Dauer und duldet die Entscheidung über die Hilfe keinen Aufschub, so kann der Träger der Sozialhilfe nach Anhörung des Beziehers des Einkommens die Einkünfte schätzen.
 
-
-## § 10 – Verlustausgleich
+# § 10 – Verlustausgleich
 
 Ein Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht vorzunehmen. In Härtefällen kann jedoch die gesamtwirtschaftliche Lage des Beziehers des Einkommens berücksichtigt werden.
 
-
-## § 11 – Maßgebender Zeitraum
+# § 11 – Maßgebender Zeitraum
 
 (1) Soweit die Einkünfte als Jahreseinkünfte berechnet werden, gilt der zwölfte Teil dieser Einkünfte zusammen mit den monatlich berechneten Einkünften als monatliches Einkommen im Sinne des Zwölften Buches Sozialgesetzbuch. § 8 Abs. 1 Satz 3 geht der Regelung des Satzes 1 vor.
 
 (2) Ist der Betrieb oder die sonstige Grundlage der als Jahreseinkünfte zu berechnenden Einkünfte nur während eines Teils des Jahres vorhanden oder zur Einkommenserzielung genutzt, so sind die Einkünfte aus der betreffenden Einkunftsart nur für diesen Zeitraum zu berechnen; für ihn gilt als monatliches Einkommen im Sinne des Zwölften Buches Sozialgesetzbuch derjenige Teil der Einkünfte, der der Anzahl der in den genannten Zeitraum fallenden Monate entspricht. Satz 1 gilt nicht für Einkünfte aus Saisonbetrieben und andere ihrer Natur nach auf einen Teil des Jahres beschränkte Einkünfte, wenn die Einkünfte den Hauptbestandteil des Einkommens bilden.
 
-
-## § 12 – Ausgaben nach § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch
+# § 12 – Ausgaben nach § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch
 
 Die in § 82 Abs. 2 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch bezeichneten Ausgaben sind von der Summe der Einkünfte abzusetzen, soweit sie nicht bereits nach den Bestimmungen dieser Verordnung bei den einzelnen Einkunftsarten abzuziehen sind.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1963 in Kraft.

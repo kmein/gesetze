@@ -1,10 +1,7 @@
-# [KredWGAUSFreistV] Verordnung über die Freistellung der Zweigstellen von Kreditinstituten mit Sitz in Australien von Vorschriften des Gesetzes über das Kreditwesen
-
-Ausfertigungsdatum: 30.01.2014
-
+% Verordnung über die Freistellung der Zweigstellen von Kreditinstituten mit Sitz in Australien von Vorschriften des Gesetzes über das Kreditwesen
+% Ausfertigungsdatum: 30.01.2014
  
-
-## § 1
+# § 1
 
 Für Zweigstellen von Kreditinstituten mit Sitz in Australien, die der Aufsicht der Australian Prudential Regulation Authority unterstehen, gilt § 1a Absatz 1 des Kreditwesengesetzes mit der Maßgabe, dass
 
@@ -12,7 +9,6 @@ Für Zweigstellen von Kreditinstituten mit Sitz in Australien, die der Aufsicht 
 
 2. die Vorgaben der Artikel 387 bis 403 der Verordnung (EU) Nr. 575/2013 und der auf ihrer Grundlage erlassenen Rechtsakte, die Bestimmungen des Kreditwesengesetzes, die auf Vorgaben der Artikel 387 bis 403 der Verordnung (EU) Nr. 575/2013 verweisen, sowie die in Ergänzung der Verordnung (EU) Nr. 575/2013 erlassene Rechtsverordnung nach § 13 Absatz 1 Satz 1 des Kreditwesengesetzes mit der Maßgabe anzuwenden ist, dass an die Stelle der Eigenmittel der Zweigstelle nach § 53 Absatz 2 Nummer 4 des Kreditwesengesetzes das konsolidierte Eigenkapital der Kreditinstitutsgruppe tritt.
 
-
-## § 2
+# § 2
 
 § 10 Absatz 1 und 3 bis 7 und die §§ 10a bis 10i des Kreditwesengesetzes sind nicht auf die in § 1 genannten Zweigstellen anzuwenden.

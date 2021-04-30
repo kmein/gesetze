@@ -1,17 +1,13 @@
-# [HwPGV] Verordnung über die Gründung, Tätigkeit und Umwandlung von Produktionsgenossenschaften des Handwerks
-
-Ausfertigungsdatum: 08.03.1990
-
+% Verordnung über die Gründung, Tätigkeit und Umwandlung von Produktionsgenossenschaften des Handwerks
+% Ausfertigungsdatum: 08.03.1990
  
-
-## § 1 – Grundsätze
+# § 1 – Grundsätze
 
 (1) Produktionsgenossenschaften des Handwerks (nachfolgend PGH genannt) sind der freiwillige Zusammenschluß von Handwerkern und arbeiten auf der Grundlage des genossenschaftlichen Eigentums.
 
 (2) PGH sind juristisch selbständig und haften für ihre Verbindlichkeiten mit ihrem gesamten Vermögen.
 
-
-## § 2
+# § 2
 
 (1) Die PGH gibt sich ein Statut und beschließt darüber in der Mitgliederversammlung.
 
@@ -33,13 +29,11 @@ die Höhe der von den Mitgliedern in die PGH einzubringenden Anteile.
 
 (4) Die PGH erlangt ihre Rechtsfähigkeit mit der Registrierung beim zuständigen Registerorgan.
 
-
-## § 3
+# § 3
 
 Für die Gründung und Tätigkeit der PGH findet im übrigen das "Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften" Anwendung, soweit diese Verordnung keine abweichenden Regelungen enthält.
 
-
-## § 4
+# § 4
 
 (1) PGH können sich in Personen- oder Kapitalgesellschaften, insbesondere Kommanditgesellschaften (KG), Offene Handelsgesellschaften (OHG), Gesellschaften mit beschränkter Haftung (GmbH) oder Aktiengesellschaften (AG) umwandeln.
 
@@ -57,8 +51,7 @@ Für die Gründung und Tätigkeit der PGH findet im übrigen das "Gesetz betreff
 
 (5) Im Falle der Umwandlung der PGH in eine eingetragene Genossenschaft bedarf die Umwandlungserklärung keiner notariellen Beglaubigung.
 
-
-## § 5
+# § 5
 
 (1) PGH-Mitglieder, die in die neue Gesellschaftsform als Gesellschafter oder Aktionäre eintreten, bringen ihren persönlichen Anteil sowie den ihnen zustehenden Anteil an den unteilbaren Fonds der PGH als Anteil am Gesellschaftskapital in die neue Gesellschaftsform ein. Die eingebrachten Anteile aus den unteilbaren Fonds sind steuerfrei.
 
@@ -68,15 +61,13 @@ Für die Gründung und Tätigkeit der PGH findet im übrigen das "Gesetz betreff
 
 (4) PGH-Mitglieder, die nicht in die neue Gesellschaftsform eintreten, aber weiterhin zusammen auf genossenschaftlicher Grundlage arbeiten wollen, erhalten ihren Anteil an den unteilbaren Fonds zu den gleichen Bedingungen wie unter Abs. 1.
 
-
-## § 6 – Wirksamwerden der Umwandlung, Rechtsfolge, Erlöschen
+# § 6 – Wirksamwerden der Umwandlung, Rechtsfolge, Erlöschen
 
 (1) Die Umwandlung wird mit der Eintragung der Gesellschaft in das Register wirksam. Mit der Eintragung wird diese Gesellschaft Rechtsnachfolger der umgewandelten PGH. Die vor der Umwandlung bestehende PGH ist damit erloschen. Das Erlöschen der PGH ist durch den Rechtsnachfolger dem Registerorgan anzuzeigen. Zum Nachweis des Vermögensübergangs genügt eine vom Gericht des Sitzes der Gesellschaft ausgestellte Bestätigung über die Umwandlung.
 
 (2) Abweichende Vereinbarungen über die Rechtsnachfolge im Falle der Teilung der PGH entsprechend § 5 Abs. 4 sind zulässig.
 
-
-## § 6a
+# § 6a
 
 Im Falle der Umwandlung der PGH in eine eingetragene Genossenschaft ist das Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz) mit folgender Maßgabe anzuwenden:
 
@@ -90,8 +81,7 @@ Abweichend von § 11 Abs. 2 Nr. 4 des Genossenschaftsgesetzes ist nur eine gutac
 
 5. Solange die Genossenschaft keinem Prüfungsverband angehört, ist die nach § 53 des Genossenschaftsgesetzes vorgeschriebene Prüfung von einem Prüfungsverband, einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft durchzuführen. Der Prüfer ist vom Vorstand der Genossenschaft zu bestellen.
 
-
-## § 7 – Auflösung
+# § 7 – Auflösung
 
 (1) Die Auflösung der PGH erfolgt entsprechend den Bestimmungen des "Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften" nach Bestätigung der Abschlußbilanz durch den Rat des Kreises.
 
@@ -99,27 +89,23 @@ Abweichend von § 11 Abs. 2 Nr. 4 des Genossenschaftsgesetzes ist nur eine gutac
 
 (3) Die ausgezahlten Anteile an den unteilbaren genossenschaftlichen Fonds unterliegen der Besteuerung nach den geltenden Rechtsvorschriften.
 
-
-## § 8 – Beschlußfassung
+# § 8 – Beschlußfassung
 
 (1) Alle Beschlüsse der Mitgliederversammlung der PGH im Sinne dieser Verordnung sind mit 2/3-Mehrheit zu fassen.
 
 (2) Die Mitgliederversammlung ist beschlußfähig, wenn mindestens 3/4 aller Mitglieder anwesend sind.
 
-
-## § 9
+# § 9
 
 Für Einkaufs- und Liefergenossenschaften des Handwerks sowie Arbeitsgemeinschaften der Produktionsgenossenschaften des Handwerks gelten die Bestimmungen dieser Verordnung entsprechend.
 
-
-## § 9a
+# § 9a
 
 (1) PGH und Einkaufs- und Liefergenossenschaften des Handwerks sind mit Wirkung vom 31. Dezember 1992 aufgelöst, sofern ihre Umwandlung nach den Vorschriften dieser Verordnung in eine der in § 4 Abs. 1 genannten Rechtsformen oder in eine eingetragene Genossenschaft nicht bis zu diesem Zeitpunkt vollzogen ist. Die Frist ist gewahrt, wenn die Gesellschaft oder Genossenschaft spätestens zum 31. Dezember 1992 ordnungsgemäß zur Eintragung in das Handels- oder Genossenschaftsregister angemeldet ist.
 
 (2) Bei PGH und Einkaufs- und Liefergenossenschaften des Handwerks, die vor Inkrafttreten dieser Verordnung gegründet worden sind, bestimmt sich das Rechtsverhältnis der PGH und Einkaufs- und Liefergenossenschaften und ihrer Mitglieder mit Ausnahme des Arbeitsrechtsverhältnisses nach ihrem bei Inkrafttreten dieser Verordnung geltenden Statut und seinen Änderungen, soweit die §§ 4 bis 8 keine abweichenden Regelungen enthalten.
 
-
-## § 10
+# § 10
 
 (1) Diese Verordnung tritt mit ihrer Veröffentlichung in Kraft.
 
@@ -148,13 +134,11 @@ Sechste Durchführungsbestimmung vom 15. Januar 1987 zur Verordnung über das Mu
 \-  
 Beschluß des Ministerrates vom 6. Februar 1986 über das Musterstatut der Einkaufs- und Liefergenossenschaften des Handwerks (GBl. I Nr. 7 S. 65) sowie das in der Anlage zu diesem Beschluß veröffentlichte Musterstatut der Einkaufs- und Liefergenossenschaften des Handwerks (Sonderdruck Nr. 1265 des Gesetzblattes).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet A Abschnitt III  (BGBl. II 1990, 889, 1201)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet A Abschnitt III  (BGBl. II 1990, 889, 1201)
 
 Abschnitt III  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  

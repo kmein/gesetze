@@ -1,20 +1,15 @@
-# [Stär/ZuckProdErstV] Verordnung über die Gewährung von Produktionserstattungen für die Verwendung von Zucker  (Zucker-Produktionserstattungs-Verordnung)
-
-Ausfertigungsdatum: 19.12.1986
-
+% Verordnung über die Gewährung von Produktionserstattungen für die Verwendung von Zucker  (Zucker-Produktionserstattungs-Verordnung)
+% Ausfertigungsdatum: 19.12.1986
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaften oder Europäischen Union über die Gewährung von Produktionserstattungen im Bereich Zucker.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte ist die Bundesfinanzverwaltung.
 
-
-## § 3 – Voraussetzungen
+# § 3 – Voraussetzungen
 
 Eine Produktionserstattung wird für Grunderzeugnisse gewährt, die
 
@@ -22,8 +17,7 @@ Eine Produktionserstattung wird für Grunderzeugnisse gewährt, die
 
 2. unter amtlicher Überwachung in einem zugelassenen Herstellungsbetrieb zum Herstellen der Verarbeitungserzeugnisse verwendet werden.
 
-
-## § 4 – Zulassung des Herstellers, Erstattungsbeteiligter
+# § 4 – Zulassung des Herstellers, Erstattungsbeteiligter
 
 (1) Antragsberechtigt für die Zulassung als Hersteller ist der Inhaber des Betriebes, in dem die Verarbeitungserzeugnisse hergestellt werden (Erstattungsbeteiligter). Sind an der Herstellung der Verarbeitungserzeugnisse nacheinander mehrere Betriebe verschiedener Inhaber beteiligt, so ist Erstattungsbeteiligter der Inhaber des Betriebes, in dem der Verarbeitungsvorgang abgeschlossen wird. Der Antrag ist schriftlich zu stellen. Ist der Erstattungsbeteiligte Inhaber mehrerer Betriebe, so ist für jeden Betrieb ein gesonderter Antrag zu stellen.
 
@@ -47,8 +41,7 @@ In den Fällen des Absatzes 1 Satz 2 setzt die Zulassung außerdem voraus, daß 
 
 (5)
 
-
-## § 4a – Zulassung der Hersteller von Zucker-Zwischenerzeugnissen
+# § 4a – Zulassung der Hersteller von Zucker-Zwischenerzeugnissen
 
 (1) Zuständig für die Zulassung des Herstellers der nach den in § 1 genannten Rechtsakten gleichgestellten Zucker-Zwischenerzeugnisse ist das Hauptzollamt, in dessen Bezirk die Zwischenerzeugnisse hergestellt werden. § 4 Abs. 3 gilt entsprechend.
 
@@ -56,22 +49,19 @@ In den Fällen des Absatzes 1 Satz 2 setzt die Zulassung außerdem voraus, daß 
 
 (3) § 6 Abs. 2 bis 7 gilt entsprechend.
 
-
-## § 5 – Erstattungsbescheid
+# § 5 – Erstattungsbescheid
 
 (1) Die Erstattungsbescheinigung nach den in § 1 genannten Rechtsakten (Erstattungsbescheid) ist schriftlich bei der überwachenden Zollstelle zu beantragen. Der Antrag ist in drei Stücken einzureichen. Mit Zustimmung der überwachenden Zollstelle kann der Antrag auch bei einer anderen Zollstelle und, soweit die Grunderzeugnisse eingeführt worden sind, auch bei der Zollstelle, bei der sie in den zollrechtlich freien Verkehr überführt wurden, gestellt werden; in diesen Fällen ist der Antrag in vier Stücken einzureichen.
 
 (2) Das zuständige Hauptzollamt erteilt den Erstattungsbescheid.
 
-
-## § 5a – Anmeldung zur amtlichen Überwachung
+# § 5a – Anmeldung zur amtlichen Überwachung
 
 (1) Der Erstattungsbeteiligte hat die Grunderzeugnisse bei der Zollstelle, bei der er den Antrag nach § 5 Abs. 1 gestellt hat, anzumelden und dort oder an einem von der Zollstelle bestimmten Ort auf deren Verlangen vorzuführen. Die Anmeldung ist in drei Stücken, in den Fällen nach § 5 Abs. 1 Satz 3 in vier Stücken, abzugeben.
 
 (2) Ordnungsgemäß angemeldete Grunderzeugnisse stellt die Zollverwaltung durch stillschweigende Zustimmung unter amtliche Überwachung.
 
-
-## § 5b – Vereinfachtes Verfahren
+# § 5b – Vereinfachtes Verfahren
 
 (1) Das zuständige Hauptzollamt kann zulassen, daß die Grunderzeugnisse ohne Vorführung und Anmeldung nach § 5a durch besondere Aufzeichnung nach Maßgabe einer vom Bundesministerium der Finanzen zu erlassenden Dienstanweisung unter amtliche Überwachung gestellt werden. Dies setzt voraus, daß die Grunderzeugnisse von gleichbleibender Qualität sind oder die Beschaffenheit jeder einzelnen Zugangspartie von einer Steuerhilfsperson bestätigt wird. Die Zulassung kann von Bedingungen abhängig gemacht und mit Auflagen verbunden werden, soweit es für die Überwachung von Menge, Art und Beschaffenheit der Grunderzeugnisse erforderlich ist.
 
@@ -79,8 +69,7 @@ In den Fällen des Absatzes 1 Satz 2 setzt die Zulassung außerdem voraus, daß 
 
 (3) § 217 der Abgabenordnung gilt sinngemäß.
 
-
-## § 6 – Pflichten des Erstattungsbeteiligten
+# § 6 – Pflichten des Erstattungsbeteiligten
 
 (1) Der Erstattungsbeteiligte hat die unter amtliche Überwachung gestellten Grunderzeugnisse unverzüglich in die nach § 4 Abs. 3 Nr. 2 Buchstabe a angegebenen Betriebsräume aufzunehmen.
 
@@ -108,34 +97,29 @@ b) die hergestellten Mengen von Zwischen- und Verarbeitungserzeugnissen sowie di
 
 (8) In den Fällen nach § 4 Abs. 1 Satz 2 haben auch die Inhaber der anderen beteiligten Betriebe die Pflichten nach den Absätzen 1 bis 7 zu erfüllen.
 
-
-## § 7 – Abgabe von Zwischenerzeugnissen
+# § 7 – Abgabe von Zwischenerzeugnissen
 
 In den Fällen nach § 4 Abs. 1 Satz 2 haben sich die Inhaber des abgebenden und des empfangenden Betriebes die Abgabe und den Empfang der Zwischenerzeugnisse mit einer Übergabebestätigung in vier Stücken zu bestätigen; § 6 Abs. 7 gilt entsprechend. Zwei Stücke der Bestätigung sind von dem empfangenden Betrieb seiner überwachenden Zollstelle vorzulegen.
 
-
-## § 8 – Ende der amtlichen Überwachung
+# § 8 – Ende der amtlichen Überwachung
 
 (1) Die amtliche Überwachung endet mit der zweckgerechten Verwendung der Grunderzeugnisse. Die Grunderzeugnisse sind zweckgerecht verwendet, wenn die Verarbeitungserzeugnisse bis zum Ablauf der Gültigkeitsdauer des Erstattungsbescheides hergestellt worden sind.
 
 (2) Der Erstattungsbeteiligte hat der überwachenden Zollstelle die zweckgerechte Verwendung der Grunderzeugnisse in drei Stücken anzuzeigen und dabei die Angaben zu machen, die für die Zahlung der Produktionserstattung nach den in § 1 genannten Rechtsakten erforderlich sind.
 
-
-## § 9 – Entnahme aus der amtlichen Überwachung
+# § 9 – Entnahme aus der amtlichen Überwachung
 
 (1) Die Entnahme aus der amtlichen Überwachung ist zulässig. Sie ist unter Angabe ihrer Menge, Art und Beschaffenheit und, soweit es sich nicht um Grunderzeugnisse handelt, auch unter Angabe von Menge, Art und Beschaffenheit der zu ihrer Herstellung verwendeten Grunderzeugnisse sowie des Zeitpunktes der Entnahme der überwachenden Zollstelle schriftlich in drei Stücken anzuzeigen.
 
 (2) Grunderzeugnisse, die zweckwidrig verwendet worden sind, gelten als aus der amtlichen Überwachung entnommen. Als entnommen gelten auch Fehlmengen, die bei der Verwendung entstehen und nicht auf technisch unvermeidbare Mengenverluste zurückzuführen sind. Als Zeitpunkt der Entnahme gilt der Zeitpunkt der Feststellung der Fehlmenge, soweit der tatsächliche Zeitpunkt nicht ermittelt werden kann.
 
-
-## § 10 – Auszahlungsbescheid
+# § 10 – Auszahlungsbescheid
 
 (1) Nach Feststellung der zweckgerechten Verwendung der Grunderzeugnisse wird die Produktionserstattung vom zuständigen Hauptzollamt durch Auszahlungsbescheid festgesetzt.
 
 (2) Der Antrag auf einen nach den in § 1 genannten Rechtsakten zulässigen Vorschuß oder Abschlag auf die Produktionserstattung ist bei der dem zuständigen Hauptzollamt oder der zuständigen Zollstelle zu stellen.
 
-
-## § 10a – Besondere Bestimmungen für veretherte oder veresterte Stärken
+# § 10a – Besondere Bestimmungen für veretherte oder veresterte Stärken
 
 (1) Die für die Freigabe der Sicherheit für die Produktionserstattung bei der Herstellung von veretherten oder veresterten Stärken als Verarbeitungserzeugnisse nach den in § 1 genannten Rechtsakten vorgesehene Erklärung ist der für den Hersteller zuständigen überwachenden Zollstelle in zwei Ausfertigungen einzureichen.
 
@@ -153,13 +137,11 @@ b) die Mengen der aus veretherten und veresterten Stärken hergestellten Erzeugn
 
 (4) Werden veretherte oder veresterte Stärken aus dem Geltungsbereich dieser Verordnung unmittelbar in ein Drittland ausgeführt, ist der Nachweis der Ausfuhr nach den in § 1 genannten Rechtsakten durch das Kontrollexemplar T 5 zu erbringen. Das Kontrollexemplar ist bei der Ausfuhr durch den Hersteller bei der überwachenden Zollstelle, im übrigen bei der Ausfuhrzollstelle zu beantragen.
 
-
-## § 11
+# § 11
 
 (weggefallen)
 
-
-## § 12 – Muster, Vordrucke
+# § 12 – Muster, Vordrucke
 
 Der Bundesminister der Finanzen kann für
 
@@ -173,12 +155,10 @@ Der Bundesminister der Finanzen kann für
 
 Muster in der Vorschriftensammlung Bundesfinanzverwaltung bekanntgeben oder Vordrucke bei den zuständigen Zollstellen bereithalten. Soweit Muster bekanntgegeben oder Vordrucke bereitgehalten werden, sind diese zu verwenden.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14
+# § 14
 
 (Inkrafttreten)

@@ -1,10 +1,7 @@
-# [AKostG] Auslandskostengesetz  (AKostG)
-
-Ausfertigungsdatum: 21.02.1978
-
+% Auslandskostengesetz  (AKostG)
+% Ausfertigungsdatum: 21.02.1978
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Für Amtshandlungen nach den §§ 1 bis 17 des Konsulargesetzes vom 11. September 1974 (BGBl. I S. 2317) werden von den Vertretungen des Bundes im Ausland (Auslandsvertretungen) und den Honorarkonsularbeamten Kosten (Gebühren und Auslagen) erhoben.
 
@@ -12,15 +9,13 @@ Ausfertigungsdatum: 21.02.1978
 
 (3) Gebührenregelungen für Amtshandlungen im Ausland in anderen Rechtsvorschriften bleiben unberührt.
 
-
-## § 2 – Kostenverordnung
+# § 2 – Kostenverordnung
 
 (1) Der Bundesminister des Auswärtigen wird ermächtigt, im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen durch Rechtsverordnung die gebührenpflichtigen Tatbestände und die Gebührensätze unter Berücksichtigung der §§ 3 und 4 zu bestimmen.
 
 (2) In der Rechtsverordnung können auch die Fälle bestimmt werden, in denen Auslagen nicht erhoben werden, weil der mit der Erhebung verbundene Verwaltungsaufwand außer Verhältnis zur Höhe der Auslagen steht.
 
-
-## § 3 – Sachliche Gebührenfreiheit
+# § 3 – Sachliche Gebührenfreiheit
 
 Gebühren sind nicht vorzusehen für
 
@@ -32,15 +27,13 @@ Gebühren sind nicht vorzusehen für
 
 4. Amtshandlungen, die sich aus einer bestehenden oder früheren gesetzlichen Dienstpflicht oder einer Tätigkeit ergeben, die an Stelle der gesetzlichen Dienstpflicht geleistet werden kann.
 
-
-## § 4 – Gebührengrundsätze
+# § 4 – Gebührengrundsätze
 
 (1) Die Gebührensätze sind so zu bemessen, daß zwischen der den Verwaltungsaufwand berücksichtigenden Höhe der Gebühr einerseits und der Bedeutung, dem wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung andererseits ein angemessenes Verhältnis besteht.
 
 (2) Die Gebühren sind durch feste Sätze, Rahmensätze oder nach dem Wert des Gegenstandes zu bestimmen.
 
-
-## § 5 – Gebührenbemessung
+# § 5 – Gebührenbemessung
 
 (1) Sind Rahmensätze für Gebühren vorgesehen, so sind bei der Festsetzung der Gebühr im Einzelfall zu berücksichtigen
 
@@ -50,13 +43,11 @@ Gebühren sind nicht vorzusehen für
 
 (2) Ist eine Gebühr nach dem Wert des Gegenstandes zu berechnen, so ist der Wert zum Zeitpunkt der Beendigung der Amtshandlung für die Berechnung maßgebend. Der Antragsteller ist verpflichtet, die zur Feststellung des Wertes erforderlichen Angaben zu machen.
 
-
-## § 6 – Zuschläge
+# § 6 – Zuschläge
 
 Der Bundesminister des Auswärtigen kann durch Rechtsverordnung auf Gebühren, die von den Auslandsvertretungen und den Honorarkonsularbeamten für Amtshandlungen nach der auf Grund des § 2 erlassenen Gebührenverordnung erhoben werden, zum Ausgleich von Kaufkraftunterschieden oder zur Anpassung an höhere Gebührensätze für vergleichbare Amtshandlungen im Gastland einen Zuschlag festsetzen, der bis zu 200 v.H. der Gebühren betragen kann.
 
-
-## § 7 – Auslagen
+# § 7 – Auslagen
 
 (1) Auslagen der Auslandsvertretungen und der Honorarkonsularbeamten, die im Zusammenhang mit den in § 1 Abs. 1 genannten Amtshandlungen entstehen, sind zu erstatten.
 
@@ -82,15 +73,13 @@ Der Bundesminister des Auswärtigen kann durch Rechtsverordnung auf Gebühren, d
 
 (4) Auslagen werden nicht erhoben, soweit sie bereits in die Gebühr einbezogen sind.
 
-
-## § 8 – Kosten der Amtshilfe
+# § 8 – Kosten der Amtshilfe
 
 (1) Im Falle der Amtshilfe hat die ersuchende Behörde keine Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung zu erstatten, wenn sie im Einzelfall fünfzig Deutsche Mark übersteigen. Wird die Amtshilfe für eine Bundesbehörde geleistet, so werden die Auslagen nicht erstattet.
 
 (2) Nehmen die in § 1 Abs. 1 und 2 bezeichneten Stellen zur Durchführung der Amtshilfe eine kostenpflichtige Amtshandlung vor, so stehen ihnen die von einem Dritten hierfür geschuldeten Kosten zu.
 
-
-## § 9 – Persönliche Gebührenfreiheit
+# § 9 – Persönliche Gebührenfreiheit
 
 (1) Von der Zahlung der Gebühren für Amtshandlungen sind befreit:
 
@@ -104,8 +93,7 @@ Der Bundesminister des Auswärtigen kann durch Rechtsverordnung auf Gebühren, d
 
 (3) Gebührenfreiheit nach Absatz 1 besteht nicht für Sondervermögen und Bundesbetriebe im Sinne des Artikels 110 Abs. 1 des Grundgesetzes, für gleichartige Einrichtungen der Länder sowie für öffentlich-rechtliche Unternehmen, an denen der Bund oder ein Land beteiligt ist.
 
-
-## § 10 – Kostenermäßigung und -befreiung
+# § 10 – Kostenermäßigung und -befreiung
 
 (1) Befindet sich der Kostenschuldner in einer wirtschaftlichen Notlage oder stellen die Kosten für eine wegen einer Notlage erforderlich gewordenen Amtshandlung eine besondere Härte dar, können der Bundesminister des Auswärtigen, die Leiter der Auslandsvertretungen und die Honorarkonsularbeamten nach Lage des Einzelfalls von der Erhebung der Kosten ganz oder teilweise absehen.
 
@@ -113,20 +101,17 @@ Der Bundesminister des Auswärtigen kann durch Rechtsverordnung auf Gebühren, d
 
 (3) Anderweitige gesetzliche Vorschriften, die eine Kostenermäßigung oder -befreiung vorsehen, bleiben unberührt.
 
-
-## § 11 – Entstehung der Kostenschuld
+# § 11 – Entstehung der Kostenschuld
 
 (1) Die Gebührenschuld entsteht, soweit ein Antrag notwendig ist, mit dessen Eingang bei der zuständigen Behörde, im übrigen mit der Beendigung der gebührenpflichtigen Amtshandlung.
 
 (2) Die Verpflichtung zur Erstattung von Auslagen entsteht mit der Aufwendung des zu erstattenden Betrages, in den Fällen des § 7 Abs. 2 Nr. 5 zweiter Halbsatz und Nummer 7 zweiter Halbsatz mit der Beendigung der kostenpflichtigen Amtshandlung.
 
-
-## § 12 – Kostengläubiger
+# § 12 – Kostengläubiger
 
 Kostengläubiger ist die Bundesrepublik Deutschland. Wird die Amtshandlung von einem Honorarkonsularbeamten vorgenommen, so ist dieser der Kostengläubiger.
 
-
-## § 13 – Kostenschuldner
+# § 13 – Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -138,8 +123,7 @@ Kostengläubiger ist die Bundesrepublik Deutschland. Wird die Amtshandlung von e
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-
-## § 14 – Kostenentscheidung
+# § 14 – Kostenentscheidung
 
 (1) Die Kosten werden von Amts wegen festgesetzt. Die Entscheidung über die Kosten soll, soweit möglich, zusammen mit der Sachentscheidung ergehen. Aus der Kostenentscheidung müssen mindestens hervorgehen
 
@@ -157,25 +141,21 @@ Die Kostenentscheidung kann mündlich ergehen; sie ist auf Antrag schriftlich zu
 
 (2) Kosten, die bei richtiger Behandlung der Sache durch die Behörde nicht entstanden wären, werden nicht erhoben. Das gleiche gilt für Auslagen, die durch eine von Amts wegen veranlaßte Verlegung eines Termins oder Vertagung einer Verhandlung entstanden sind.
 
-
-## § 15 – Gebühren in besonderen Fällen
+# § 15 – Gebühren in besonderen Fällen
 
 (1) Wird ein Antrag ausschließlich wegen Unzuständigkeit der Behörde abgelehnt, so wird keine Gebühr erhoben.
 
 (2) Wird ein Antrag auf Vornahme einer Amtshandlung zurückgenommen, nachdem mit der sachlichen Bearbeitung begonnen, die Amtshandlung aber noch nicht beendet ist, oder wird ein Antrag aus anderen Gründen als wegen Unzuständigkeit abgelehnt, oder wird eine Amtshandlung zurückgenommen oder widerrufen, so ermäßigt sich die vorgesehene Gebühr um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit entspricht.
 
-
-## § 16 – Vorschußzahlung und Sicherheitsleistung
+# § 16 – Vorschußzahlung und Sicherheitsleistung
 
 Eine Amtshandlung, die auf Antrag vorzunehmen ist, kann von der Zahlung eines angemessenen Vorschusses oder von einer angemessenen Sicherheitsleistung bis zur Höhe der voraussichtlich entstehenden Kosten abhängig gemacht werden.
 
-
-## § 17 – Fälligkeit
+# § 17 – Fälligkeit
 
 Kosten werden mit der Bekanntgabe der Kostenentscheidung an den Kostenschuldner fällig, wenn nicht die Behörde einen späteren Zeitpunkt bestimmt.
 
-
-## § 18 – Säumniszuschlag
+# § 18 – Säumniszuschlag
 
 (1) Werden bis zum Ablauf eines Monats nach dem Fälligkeitstag Gebühren oder Auslagen nicht entrichtet, so kann für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von eins vom Hundert des rückständigen Betrages erhoben werden, wenn dieser 100 Deutsche Mark übersteigt.
 
@@ -189,13 +169,11 @@ Kosten werden mit der Bekanntgabe der Kostenentscheidung an den Kostenschuldner 
 
 2. bei Überweisung oder Einzahlung auf ein Konto der für den Kostengläubiger zuständigen Kasse und bei Einzahlung mit Zahlkarte oder Postanweisung der Tag, an dem der Betrag der Kasse gutgeschrieben wird.
 
-
-## § 19 – Stundung, Niederschlagung und Erlaß
+# § 19 – Stundung, Niederschlagung und Erlaß
 
 Für die Stundung, die Niederschlagung und den Erlaß von Forderungen auf Zahlung von Gebühren, Auslagen und sonstigen Nebenleistungen gelten die Vorschriften der Bundeshaushaltsordnung.
 
-
-## § 20 – Verjährung
+# § 20 – Verjährung
 
 (1) Der Anspruch auf Zahlung von Kosten verjährt nach drei Jahren, spätestens mit dem Ablauf des vierten Jahres nach der Entstehung. Die Verjährung beginnt mit Ablauf des Kalenderjahres, in dem der Anspruch fällig geworden ist. Mit dem Ablauf dieser Frist erlischt der Anspruch.
 
@@ -209,31 +187,26 @@ Für die Stundung, die Niederschlagung und den Erlaß von Forderungen auf Zahlun
 
 (6) Wird eine Kostenentscheidung angefochten, so erlöschen Ansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Kostenentscheidung unanfechtbar geworden ist oder das Verfahren sich auf andere Weise erledigt hat.
 
-
-## § 21 – Erstattung
+# § 21 – Erstattung
 
 (1) Überzahlte oder zu Unrecht erhobene Kosten sind unverzüglich zu erstatten, zu Unrecht erhobene Kosten jedoch nur, soweit eine Kostenentscheidung noch nicht unanfechtbar geworden ist; nach diesem Zeitpunkt können zu Unrecht erhobene Kosten nur aus Billigkeitsgründen erstattet werden.
 
 (2) Der Erstattungsanspruch erlischt durch Verjährung, wenn er nicht bis zum Ablauf des dritten Kalenderjahres geltend gemacht wird, das auf die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
-
-## § 22 – Rechtsbehelf
+# § 22 – Rechtsbehelf
 
 (1) Die Kostenentscheidung kann zusammen mit der Sachentscheidung oder selbständig angefochten werden; der Rechtsbehelf gegen eine Sachentscheidung erstreckt sich auf die Kostenentscheidung.
 
 (2) Wird eine Kostenentscheidung selbständig angefochten, so ist das Rechtsbehelfsverfahren kostenrechtlich als selbständiges Verfahren zu behandeln.
 
-
-## § 23 – Verwaltungsvorschriften
+# § 23 – Verwaltungsvorschriften
 
 Der Bundesminister des Auswärtigen wird ermächtigt, zur Durchführung dieses Gesetzes allgemeine Verwaltungsvorschriften zu erlassen.
 
-
-## § 24 – Berlin-Klausel
+# § 24 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 25
+# § 25
 
 Dieses Gesetz tritt am 1. Januar 1980 in Kraft.

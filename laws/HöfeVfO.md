@@ -1,24 +1,19 @@
-# [HöfeVfO] Verfahrensordnung für Höfesachen  (HöfeVfO)
-
-Ausfertigungsdatum: 29.03.1976
-
+% Verfahrensordnung für Höfesachen  (HöfeVfO)
+% Ausfertigungsdatum: 29.03.1976
  
-
-## § 1 – Verhältnis zum allgemeinen Verfahrensrecht
+# § 1 – Verhältnis zum allgemeinen Verfahrensrecht
 
 (1) Auf das Verfahren in Höfesachen sind die Vorschriften des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen vom 21. Juli 1953 (Bundesgesetzbl. I S. 667) anzuwenden, soweit dieses Gesetz nichts anderes bestimmt. Höfesachen sind Angelegenheiten, auf die die in den Ländern Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein geltenden höferechtlichen Vorschriften anzuwenden sind.
 
 (2) In den Fällen des § 13 der Höfeordnung ist das für den ursprünglichen Hof zuständige Landwirtschaftsgericht auch dann örtlich zuständig, wenn Ansprüche wegen der Veräußerung oder Verwertung eines Ersatzbetriebes oder von Ersatzgrundstücken geltend gemacht werden.
 
-
-## § 2 – Eintragungsgrundsatz
+# § 2 – Eintragungsgrundsatz
 
 (1) Eine Besitzung, die nach den höferechtlichen Vorschriften Hof ist oder auf Grund einer Erklärung des Eigentümers Hof werden kann, wird auf Ersuchen des Landwirtschaftsgerichts im Grundbuch als Hof eingetragen.
 
 (2) Absatz 1 gilt für die Eintragung einer Besitzung als Ehegattenhof entsprechend.
 
-
-## § 3 – Ersuchensgrundsatz
+# § 3 – Ersuchensgrundsatz
 
 (1) Das Landwirtschaftsgericht ersucht das Grundbuchamt um Eintragung oder Löschung des die Eigenschaft als Hof oder als Ehegattenhof ausweisenden Vermerks (Hofvermerk)
 
@@ -32,8 +27,7 @@ Ausfertigungsdatum: 29.03.1976
 
 § 3: D. Vorschrift idF d. Art. 2 G v. 29.3.1976 I 881 (885) ist mit d. GG vereinbar, BVerfGE v 23.6.1987 I 2380
 
-
-## § 3a
+# § 3a
 
 Das Finanzamt teilt dem Landwirtschaftsgericht den Wirtschaftswert eines Betriebs der Land- und Forstwirtschaft mit, wenn dieser nach Maßgabe einer Einheitswertfeststellung oder sonst auf Antrag vorgenommenen Ermittlung
 
@@ -45,8 +39,7 @@ Das Finanzamt teilt dem Landwirtschaftsgericht den Wirtschaftswert eines Betrieb
 
 Die Mitteilungen erfolgen mindestens einmal jährlich.
 
-
-## § 4 – Erklärungen nach den höferechtlichen Vorschriften
+# § 4 – Erklärungen nach den höferechtlichen Vorschriften
 
 (1) Die in den höferechtlichen Vorschriften vorgesehenen Erklärungen, daß eine Besitzung Hof oder Ehegattenhof sein soll oder nicht sein soll, sind gegenüber dem Landwirtschaftsgericht abzugeben.
 
@@ -54,13 +47,11 @@ Die Mitteilungen erfolgen mindestens einmal jährlich.
 
 (3) Die Erklärung kann, solange die erforderliche Eintragung oder Löschung nicht bewirkt ist, bis zum Tode des Erklärenden widerrufen werden; § 1 Abs. 6 Satz 1 der Höfeordnung gilt entsprechend.
 
-
-## § 5 – Vermutung
+# § 5 – Vermutung
 
 Die Eintragung des Hofvermerks begründet die Vermutung, daß die Besitzung die durch den Vermerk ausgewiesene Eigenschaft hat.
 
-
-## § 6 – Hofvermerk
+# § 6 – Hofvermerk
 
 (1) Der Hofvermerk wird in der Aufschrift des Grundbuchs des Hofes eingetragen und lautet:
 
@@ -89,8 +80,7 @@ und im Grundbuch des Miteigentumsanteils folgender Vermerk:
 
 einzutragen.
 
-
-## § 7 – Besonderes Grundbuchblatt
+# § 7 – Besonderes Grundbuchblatt
 
 (1) Die zum Hof gehörenden Grundstücke desselben Eigentümers sind auf Ersuchen des Landwirtschaftsgerichts auf einem besonderen Grundbuchblatt einzutragen; das Ersuchen ist von Amts wegen zu stellen.
 
@@ -98,25 +88,21 @@ einzutragen.
 
 (3) Werden einzelne Grundstücke vom Hof abgetrennt, so ist der Hofvermerk nicht mit zu übertragen.
 
-
-## § 8 – Löschungsersuchen von Amts wegen
+# § 8 – Löschungsersuchen von Amts wegen
 
 (1) Will das Landwirtschaftsgericht von Amts wegen um die Löschung eines Hofvermerks ersuchen, so hat es den Eigentümer von seiner Absicht sowie über die wesentlichen sich aus der Löschung ergebenden Folgen zu unterrichten und ihm anheimzugeben, innerhalb einer bestimmten Frist die Feststellung der Hofeigenschaft (§ 11 Abs. 1 Buchstabe a) zu beantragen. Die Frist darf nicht weniger als sechs Wochen betragen.
 
 (2) Das Ersuchen darf erst gestellt werden, wenn der Eigentümer einen Antrag auf Feststellung nicht gestellt oder zurückgenommen hat oder wenn rechtskräftig festgestellt worden ist, daß ein Hof im Sinne der höferechtlichen Vorschriften nicht vorliegt.
 
-
-## § 9 – Benachrichtigung
+# § 9 – Benachrichtigung
 
 Von der Eintragung und Löschung eines Hofvermerks sowie von der Abtrennung eines einzelnen Grundstücks (§ 7 Abs. 3) benachrichtigt das Grundbuchamt den Eigentümer, das Gericht und die Genehmigungsbehörde nach dem Grundstücksverkehrsgesetz.
 
-
-## § 10 – Höfeakten
+# § 10 – Höfeakten
 
 Das Ersuchen des Landwirtschaftsgerichts um Eintragung oder Löschung des Hofvermerks und sonstige höferechtlich erhebliche Vorgänge sind zu einer besonderen Höfeakte zu nehmen, die bei den Grundakten der Hofstelle aufzubewahren ist.
 
-
-## § 11 – Feststellungsverfahren
+# § 11 – Feststellungsverfahren
 
 (1) Auf Antrag eines Beteiligten, der ein rechtliches Interesse an der Entscheidung glaubhaft macht, entscheidet das Landwirtschaftsgericht im Wege eines besonderen Feststellungsverfahrens,
 
@@ -140,8 +126,7 @@ h) über sonstige nach den höferechtlichen Vorschriften bestehende Rechtsverhä
 
 (3) Jede der in Absatz 2 genannten Personen kann sich einem anhängigen Verfahren in jeder Instanz anschließen. Die Anschließung kann mit der Einlegung der Beschwerde verbunden werden.
 
-
-## § 12 – Abänderung der Entscheidung
+# § 12 – Abänderung der Entscheidung
 
 (1) Ist im Feststellungsverfahren rechtskräftig entschieden worden, so können diejenigen, die sich am Verfahren beteiligt haben oder von dem Verfahren benachrichtigt worden sind (§ 11 Abs. 2 und 3), einen neuen Antrag nicht auf Tatsachen gründen, die in dem früheren Verfahren geltend gemacht worden sind oder von ihnen dort hätten geltend gemacht werden können.
 
@@ -149,8 +134,7 @@ h) über sonstige nach den höferechtlichen Vorschriften bestehende Rechtsverhä
 
 (3) Nach Ablauf von fünf Jahren, vom Tag der Rechtskraft der Entscheidung an gerechnet, ist ein neuer Antrag auf Feststellung nur noch statthaft, wenn die bei der Entscheidung vorhanden gewesenen Voraussetzungen nachträglich weggefallen sind.
 
-
-## § 13 – Zustimmungsverfahren
+# § 13 – Zustimmungsverfahren
 
 (1) Den Antrag auf Zustimmung zu einer Verfügung von Todes wegen kann der Erblasser, zu einem Erbvertrag auch der andere Vertragsschließende stellen.
 
@@ -158,39 +142,32 @@ h) über sonstige nach den höferechtlichen Vorschriften bestehende Rechtsverhä
 
 (3) Nach dem Tode des Erblassers kann den Antrag jeder stellen, der ein berechtigtes Interesse an der Entscheidung glaubhaft macht.
 
-
-## § 14 – Beschwerdeberechtigung
+# § 14 – Beschwerdeberechtigung
 
 Genehmigt das Landwirtschaftsgericht eine Verfügung von Todes wegen, durch die so viele Grundstücke vom Hof abgetrennt werden, daß er nach den höferechtlichen Vorschriften seine Eigenschaft als Hof verliert, so ist von den Hoferbenberechtigten nur der nächstberufene hoferbenberechtigte Abkömmling beschwerdeberechtigt. Diesem steht derjenige Abkömmling gleich, der zulässigerweise durch Erbvertrag oder gemeinschaftliches Testament als Hoferbe bestimmt ist.
 
-
-## § 15 – Entscheidung im Zustimmungsverfahren
+# § 15 – Entscheidung im Zustimmungsverfahren
 
 (1) Entscheidet das Landwirtschaftsgericht rechtskräftig, daß eine Zustimmung nicht erforderlich ist, so steht diese Entscheidung der Zustimmung gleich.
 
 (2) Die Zustimmung kann unter einer Auflage oder Bedingung erteilt werden. Sie wird erst mit der Rechtskraft der Entscheidung wirksam.
 
-
-## § 16 – Übergabeverträge
+# § 16 – Übergabeverträge
 
 Für die Genehmigung eines Übergabevertrages gelten die Vorschriften der §§ 13 bis 15 sinngemäß.
 
-
-## § 17 – Stundungsverfahren
+# § 17 – Stundungsverfahren
 
 Im Verfahren über die Stundung, Verzinsung und Sicherung eines Abfindungsanspruchs (§ 12 Abs. 5 der Höfeordnung) ist § 264 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 
+# §§ 18 bis 24 – (weggefallen)
 
-## §§ 18 bis 24 – (weggefallen)
-
-
-## § 25 – Anpassungsverfahren
+# § 25 – Anpassungsverfahren
 
 (1) Rechte, die auf Grund früherer anerbenrechtlicher Vorschriften entstanden sind, können, falls in der Höfeordnung gleiche oder ähnliche Rechte nicht vorgesehen sind, auf Antrag eines Beteiligten abgeändert oder umgewandelt werden, wenn dies zur Vermeidung grober Unbilligkeiten offenbar erforderlich erscheint; dabei kann das Landwirtschaftsgericht die Rechtsverhältnisse unter den Beteiligten auch mit Wirkung gegen Dritte regeln.
 
 (2) Unbeschadet des Absatzes 1 können die Beteiligten vom Hofeigentümer verlangen, daß Versorgungsrechte, die auf Grund früherer anerbenrechtlicher Vorschriften entstanden oder durch Übergabevertrag oder durch sonstige Vereinbarungen begründet worden sind, in das Grundbuch eingetragen werden.
 
-
-## § 26 – Geltung für Lebenspartner
+# § 26 – Geltung für Lebenspartner
 
 Die für Ehegatten und Ehegattenhöfe geltenden Vorschriften dieses Gesetzes gelten entsprechend für Lebenspartner und Lebenspartnerhöfe.

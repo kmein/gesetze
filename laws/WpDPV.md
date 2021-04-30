@@ -1,15 +1,11 @@
-# [WpDPV] Verordnung über die Prüfung der Wertpapierdienstleistungsunternehmen nach § 89 des Wertpapierhandelsgesetzes  (Wertpapierdienstleistungs-Prüfungsverordnung - WpDPV)
-
-Ausfertigungsdatum: 17.01.2018
-
+% Verordnung über die Prüfung der Wertpapierdienstleistungsunternehmen nach § 89 des Wertpapierhandelsgesetzes  (Wertpapierdienstleistungs-Prüfungsverordnung - WpDPV)
+% Ausfertigungsdatum: 17.01.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 89 Absatz 6 Satz 1 des Wertpapierhandelsgesetzes, der durch Artikel 3 Nummer 90 Buchstabe e des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) neu gefasst worden ist, in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 21 Nummer 1 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für die Prüfung
 
@@ -19,8 +15,7 @@ Diese Verordnung gilt für die Prüfung
 
 3. des Depotgeschäfts und des eingeschränkten Verwahrgeschäfts nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes.
 
-
-## § 2 – Fehler, Mangel, sonstige Erkenntnisse
+# § 2 – Fehler, Mangel, sonstige Erkenntnisse
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung von den in § 89 Absatz 1 Satz 1 und 2 des Wertpapierhandelsgesetzes genannten Anforderungen.
 
@@ -42,8 +37,7 @@ Diese Verordnung gilt für die Prüfung
 
 (4) Sonstige Erkenntnisse im Sinne dieser Verordnung liegen vor, wenn der Prüfer feststellt, dass die von der Europäischen Wertpapier- und Marktaufsichtsbehörde vorgenommene und veröffentlichte Auslegung unionsrechtlicher Anforderungen nicht oder nicht vollständig berücksichtigt worden ist.
 
-
-## § 3 – Prüfungszeitraum, Prüfungsdauer und Unterbrechung der Prüfung
+# § 3 – Prüfungszeitraum, Prüfungsdauer und Unterbrechung der Prüfung
 
 (1) Der Prüfungszeitraum beginnt mit dem Tag der ersten und endet mit dem Tag der letzten Prüfungshandlung vor Ort.
 
@@ -55,8 +49,7 @@ Diese Verordnung gilt für die Prüfung
 
 (5) Die Unterbrechung ist im Prüfungsbericht zu dokumentieren. Dies gilt auch dann, wenn zwar einzelne Abweichungen von der Prüfungsplanung nicht länger als zwei Wochen gedauert haben, die Prüfung jedoch insgesamt für mehr als vier Wochen unterbrochen wurde.
 
-
-## § 4 – Stichtag der Prüfung und Berichtszeitraum
+# § 4 – Stichtag der Prüfung und Berichtszeitraum
 
 (1) Der Prüfer legt den Stichtag der Prüfung nach pflichtgemäßem Ermessen fest.
 
@@ -66,8 +59,7 @@ Diese Verordnung gilt für die Prüfung
 
 (4) Berichtszeitraum der sonstigen Prüfungen ist jeweils der Zeitraum zwischen dem Stichtag der letzten Prüfung und dem Stichtag der folgenden Prüfung.
 
-
-## § 5 – Prüfungsbeginn
+# § 5 – Prüfungsbeginn
 
 (1) Die Prüfung muss spätestens 15 Monate nach dem Beginn des für sie maßgeblichen Berichtszeitraums begonnen worden sein. Die Bundesanstalt kann im Einzelfall und aus wichtigem Grund eine andere Frist bestimmen.
 
@@ -79,8 +71,7 @@ Diese Verordnung gilt für die Prüfung
 
 (5) Mitteilungen an die Bundesanstalt haben in Textform an den Sitz der Bundesanstalt in Frankfurt am Main zu erfolgen.
 
-
-## § 6 – Allgemeine Anforderungen an die Prüfung; Bildung von Schwerpunkten
+# § 6 – Allgemeine Anforderungen an die Prüfung; Bildung von Schwerpunkten
 
 (1) Die Prüfung umfasst die Einhaltung der in § 89 Absatz 1 Satz 1 und 2 des Wertpapierhandelsgesetzes genannten Anforderungen in allen Teilbereichen der Wertpapierdienstleistungen und Wertpapiernebendienstleistungen. Sie muss den gesamten Berichtszeitraum erfassen und in einem angemessenen Verhältnis zum Umfang der jeweiligen Geschäfte und Aufgaben stehen.
 
@@ -92,8 +83,7 @@ Diese Verordnung gilt für die Prüfung
 
 (5) Die Möglichkeit der Schwerpunktbildung besteht auch hinsichtlich der Auswahl von Teilbereichen im Rahmen eines mehrjährigen Prüfungsplans.
 
-
-## § 7 – Zweigstellen, Zweigniederlassungen, Filialen und Auslagerungen
+# § 7 – Zweigstellen, Zweigniederlassungen, Filialen und Auslagerungen
 
 (1) Bei Wertpapierdienstleistungsunternehmen mit solchen Zweigstellen, Zweigniederlassungen oder Filialen, die wesentliche Teilbereiche von Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen ausführen oder Analysen von Finanzinstrumenten ausführen, erstreckt sich die Prüfung auch auf diese Zweigstellen, Zweigniederlassungen und Filialen. Filialen sind alle Betriebsstätten, in denen Wertpapierdienstleistungen erbracht werden.
 
@@ -111,15 +101,13 @@ Diese Verordnung gilt für die Prüfung
 
 (6) Die Absätze 1 bis 4 gelten entsprechend für in andere Unternehmen ausgelagerte Prozesse und Aktivitäten, die für die Durchführung von Wertpapierdienstleistungen und Wertpapiernebendienstleistungen wesentlich sind, insbesondere für Auslagerungen auf vertraglich gebundene Vermittler im Sinne des § 2 Absatz 10 des Kreditwesengesetzes und solche im Zusammenhang mit der Auslagerung der Compliance-Funktion nach Artikel 22 Absatz 2 der Delegierten Verordnung (EU) 2017/567 der Kommission vom 18. Mai 2016 zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates im Hinblick auf Begriffsbestimmungen, Transparenz, Portfoliokomprimierung und Aufsichtsmaßnahmen zur Produktintervention und zu den Positionen (ABl. L 87 vom 31.3.2017, S. 90) in der jeweils geltenden Fassung.
 
-
-## § 8 – Prüfungen nach § 88 Absatz 1 des Wertpapierhandelsgesetzes
+# § 8 – Prüfungen nach § 88 Absatz 1 des Wertpapierhandelsgesetzes
 
 (1) Wurde im Berichtszeitraum eine Prüfung nach § 88 Absatz 1 des Wertpapierhandelsgesetzes durchgeführt, hat der Prüfer das Prüfungsergebnis dieser Prüfung nach pflichtgemäßem Ermessen bei seiner Prüfung zu berücksichtigen.
 
 (2) Bei Sachverhalten, die Gegenstand der Prüfung nach § 88 Absatz 1 des Wertpapierhandelsgesetzes waren, kann sich seine Berichterstattung auf die Veränderungen beschränken, die nach dem Stichtag dieser Prüfung eingetretenen sind.
 
-
-## § 9 – Aufzeichnungen und Unterlagen
+# § 9 – Aufzeichnungen und Unterlagen
 
 (1) Der Prüfer ist verpflichtet, über die Prüfung Aufzeichnungen in Papierform oder auf Datenträgern anzufertigen und zur Berichterstattung notwendige Unterlagen an sich zu nehmen. Zu den aufzuzeichnenden Umständen gehören insbesondere
 
@@ -133,8 +121,7 @@ Diese Verordnung gilt für die Prüfung
 
 (3) Der Prüfer hat die Aufzeichnungen sechs Jahre ab der Einreichung des Fragebogens nach § 89 Absatz 2 Satz 2 des Wertpapierhandelsgesetzes aufzubewahren.
 
-
-## § 10 – Umfang der Berichterstattung
+# § 10 – Umfang der Berichterstattung
 
 (1) Der Prüfungsbericht muss den Berichtszeitraum und den Prüfungszeitraum nennen. Er muss vollständig und so übersichtlich sein, dass aus ihm klar ersichtlich ist, inwieweit das Wertpapierdienstleistungsunternehmen den in § 89 Absatz 1 Satz 1 und 2 des Wertpapierhandelsgesetzes genannten Pflichten entsprochen hat. Der Umfang der Berichterstattung hat jeweils der Bedeutung der behandelten Vorgänge zu entsprechen.
 
@@ -142,8 +129,7 @@ Diese Verordnung gilt für die Prüfung
 
 (3) Vorgänge von besonderer Bedeutung im Zeitraum zwischen dem Stichtag einer Prüfung und dem Ende des Prüfungszeitraums sind im Prüfungsbericht darzustellen.
 
-
-## § 11 – Verhaltenspflichten, Organisationspflichten und Aufzeichnungspflichten
+# § 11 – Verhaltenspflichten, Organisationspflichten und Aufzeichnungspflichten
 
 (1) Im Prüfungsbericht sind im Einzelnen, sofern nach der Art der erbrachten Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen zutreffend, darzustellen:
 
@@ -267,8 +253,7 @@ Die Darstellung nach Nummer 28 zu Artikel 5a Absatz 1 der Verordnung (EU) Nr. 10
 
 21. Delegierten Verordnung (EU) 2017/590 der Kommission vom 28. Juli 2016 zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Meldung von Geschäften an die zuständigen Behörden (ABl. L 87 vom 31.3.2017, S. 449) in der jeweils geltenden Fassung.
 
-
-## § 12 – Depotgeschäft
+# § 12 – Depotgeschäft
 
 Bei der Prüfung des Depotgeschäfts nach § 89 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes hat der Prüfungsbericht zudem Angaben zu enthalten, ob Folgendes beachtet wird:
 
@@ -276,15 +261,13 @@ Bei der Prüfung des Depotgeschäfts nach § 89 Absatz 1 Satz 2 des Wertpapierha
 
 2. § 67a Absatz 3, § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und § 135 des Aktiengesetzes.
 
-
-## § 13 – Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
+# § 13 – Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
 
 (1) Soweit die Bundesanstalt im Einzelfall Bestimmungen über den Prüfungsinhalt getroffen oder Prüfungsschwerpunkte festgesetzt hat, sind im Prüfungsbericht die insoweit vorgenommenen Prüfungshandlungen und Feststellungen im Einzelnen darzustellen.
 
 (2) Im Prüfungsbericht ist darzulegen, in Bezug auf welche Teilbereiche der Prüfer nach eigenem Ermessen schwerpunktmäßige Prüfungen vorgenommen und inwieweit es sich um Systemprüfungen mit Funktionstests und Stichproben oder um Einzelfallprüfungen gehandelt hat. Die Art und Weise der Ermittlung von Stichproben, die Anzahl der Stichproben sowie deren Ergebnis sind anzugeben.
 
-
-## § 14 – Verweisungen auf frühere Prüfungsberichte
+# § 14 – Verweisungen auf frühere Prüfungsberichte
 
 (1) Verweisungen auf den Inhalt früherer Prüfungsberichte sind grundsätzlich nicht zulässig.
 
@@ -294,23 +277,19 @@ Bei der Prüfung des Depotgeschäfts nach § 89 Absatz 1 Satz 2 des Wertpapierha
 
 2. deutlich macht, aus welchen Gründen die in Bezug genommenen älteren Feststellungen oder Ausführungen für den gegenwärtigen Bericht noch Bedeutung haben.
 
-
-## § 15 – Bei der letzten Prüfung festgestellte Mängel
+# § 15 – Bei der letzten Prüfung festgestellte Mängel
 
 Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer Beseitigung eingeleitet worden sind. Waren die Mängel organisatorisch bedingt, ist darzulegen, welche organisatorischen Maßnahmen das Wertpapierdienstleistungsunternehmen getroffen hat, um derartige Mängel in der Zukunft zu vermeiden.
 
-
-## § 16 – Schlussbemerkungen
+# § 16 – Schlussbemerkungen
 
 In einer Schlussbemerkung ist zusammenfassend zu beurteilen, ob das Wertpapierdienstleistungsunternehmen die in § 89 Absatz 1 Satz 1 und 2 des Wertpapierhandelsgesetzes genannten Pflichten erfüllt hat. Festgestellte Mängel sind unter Verweisung auf die entsprechenden Fundstellen im Bericht aufzuzählen.
 
-
-## § 17 – Prüfer; Unterschrift
+# § 17 – Prüfer; Unterschrift
 
 Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleitet hat. Der Prüfer hat den Prüfungsbericht unter Angabe von Ort und Datum zu unterzeichnen.
 
-
-## § 18 – Fragebogen; Beschreibung der identifizierten Mängel und sonstigen Erkenntnisse
+# § 18 – Fragebogen; Beschreibung der identifizierten Mängel und sonstigen Erkenntnisse
 
 (1) Der nach § 89 Absatz 2 Satz 2 des Wertpapierhandelsgesetzes dem Prüfungsbericht beizufügende Fragebogen ist nach Maßgabe der Anlage zu dieser Verordnung zu erstellen und auszufüllen.
 
@@ -318,8 +297,7 @@ Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleite
 
 (3) In der Beschreibung sind das als Mangel qualifizierte Verhalten und die gesetzlichen Vorschriften, gegen die ein Verstoß vorliegt, zu benennen.
 
-
-## § 19 – Übersendung des Prüfungsberichts und des Fragebogens
+# § 19 – Übersendung des Prüfungsberichts und des Fragebogens
 
 (1) Der Fragebogen und der Prüfungsbericht, soweit dieser nach § 89 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes angefordert wurde, sind der Bundesanstalt unverzüglich an den Sitz in Frankfurt am Main in einfacher Ausfertigung und in elektronischer Form sowie der zuständigen Hauptverwaltung der Deutschen Bundesbank in einfacher Ausfertigung zu übersenden. Die Bundesanstalt kann Vorgaben machen, in welchem Dateiformat und auf welchem Einreichungsweg die elektronische Form des Fragebogens und des Prüfungsberichts bei ihr einzureichen ist. Die Bundesanstalt und die Bundesbank können jeweils auf die Einreichung des Fragebogens in Schriftform bei sich verzichten.
 
@@ -327,25 +305,21 @@ Aus dem Prüfungsbericht muss ersichtlich sein, wer die Prüfung vor Ort geleite
 
 (3) Wird der Prüfungsbericht nach § 89 Absatz 2 Satz 1 des Wertpapierhandelsgesetzes angefordert, ist er zwei Wochen nach der Anforderung durch die Bundesanstalt oder die zuständige Hauptverwaltung der Bundesbank einzureichen. Der Prüfungsbericht ist jedoch frühestens zwei Monate nach Ende des Prüfungszeitraums einzureichen.
 
-
-## § 20 – Berichtsentwurf
+# § 20 – Berichtsentwurf
 
 (1) Falls die Bundesanstalt an der Prüfung nach § 89 Absatz 4 Satz 4 des Wertpapierhandelsgesetzes teilnimmt, hat der Prüfer der Bundesanstalt auf deren Verlangen den Berichtsentwurf vor der Fertigstellung zu übermitteln.
 
 (2) Kündigt die Bundesanstalt ihre Teilnahme an einer Schlussbesprechung an, so hat der Prüfer der Bundesanstalt auf deren Verlangen den entsprechenden Berichtsentwurf rechtzeitig vor der Besprechung zu übersenden.
 
-
-## § 21 – Erläuterung des Prüfungsberichts
+# § 21 – Erläuterung des Prüfungsberichts
 
 Der Prüfer hat der Bundesanstalt auf deren Verlangen den Prüfungsbericht zu erläutern.
 
-
-## § 22 – Inkrafttreten, Außerkrafttreten
+# § 22 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Wertpapierdienstleistungs-Prüfungsverordnung vom 16. Dezember 2004 (BGBl. I S. 3515), die zuletzt durch Artikel 27 Absatz 4 des Gesetzes vom 4. Juli 2013 (BGBl. I S. 1981) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 18 Absatz 1)
+# Anlage – (zu § 18 Absatz 1)
 
  
 

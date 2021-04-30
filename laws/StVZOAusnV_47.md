@@ -1,10 +1,7 @@
-# [StVZOAusnV 47] Siebenundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung  (47. Ausnahmeverordnung zur StVZO)
-
-Ausfertigungsdatum: 20.05.1994
-
+% Siebenundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung  (47. Ausnahmeverordnung zur StVZO)
+% Ausfertigungsdatum: 20.05.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,17 +13,14 @@ des § 6 Abs. 1 Nr. 3 Buchstabe d, Nr. 5a und 7 und Abs. 2a des Straßenverkehrs
 
 nach Anhörung der zuständigen obersten Landesbehörden:
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Abweichend von § 49 Abs. 2a Satz 1 der Straßenverkehrs-Zulassungs-Ordnung dürfen Auspuffanlagen, die mit der Betriebserlaubnis des Kraftrades (§§ 20, 21 der Straßenverkehrs-Zulassungs-Ordnung) genehmigt wurden, auch ohne EWG-Betriebserlaubniszeichen verwendet oder zur Verwendung feilgeboten und veräußert werden.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1994 in Kraft.

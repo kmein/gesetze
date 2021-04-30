@@ -1,15 +1,11 @@
-# [HZvNG] Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung und zur Änderung anderer Gesetze  (Hüttenknappschaftliches Zusatzversicherungs-Neuregelungs-Gesetz - HZvNG)
-
-Ausfertigungsdatum: 21.06.2002
-
+% Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung und zur Änderung anderer Gesetze  (Hüttenknappschaftliches Zusatzversicherungs-Neuregelungs-Gesetz - HZvNG)
+% Ausfertigungsdatum: 21.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |            |                                                                                                                                                                                                                     |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,26 +35,21 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 | Artikel 24 | Neubekanntmachung des Vierten Buches Sozialgesetzbuch                                                                                                                                                               |
 | Artikel 25 | Inkrafttreten, Außerkrafttreten                                                                                                                                                                                     |
 
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2 – Anpassung der Zusatzrenten der Hüttenknappschaftlichen Zusatzversicherung im Saarland zum 1. Juli 2002
+# Art 2 – Anpassung der Zusatzrenten der Hüttenknappschaftlichen Zusatzversicherung im Saarland zum 1. Juli 2002
 
 Zum 1. Juli 2002 werden die Zusatzrenten der Hüttenknappschaftlichen Zusatzversicherung im Saarland um den Vomhundertsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung zum 1. Juli 2002 verändert. Das Bundesministerium für Arbeit und Sozialordnung gibt den Vomhundertsatz nach Satz 1 im Bundesanzeiger bekannt.
 
+# Art 3 bis 23 – ----
 
-## Art 3 bis 23 – ----
-
-
-## Art 24 – Neubekanntmachung des Vierten Buches Sozialgesetzbuch
+# Art 24 – Neubekanntmachung des Vierten Buches Sozialgesetzbuch
 
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut des Vierten Buches Sozialgesetzbuch in der vom 1. Juli 2002 an geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
-
-## Art 25 – Inkrafttreten, Außerkrafttreten
+# Art 25 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Juli 2002 in Kraft, soweit in den folgenden Absätzen nicht etwas anderes bestimmt ist.
 

@@ -1,15 +1,11 @@
-# [EGBusDV] Verordnung zur Durchführung von Verordnungen und Abkommen der Europäischen Gemeinschaft über den Personenverkehr mit Kraftomnibussen  (EG-Bus-Durchführungsverordnung - EGBusDV)
-
-Ausfertigungsdatum: 04.05.2012
-
+% Verordnung zur Durchführung von Verordnungen und Abkommen der Europäischen Gemeinschaft über den Personenverkehr mit Kraftomnibussen  (EG-Bus-Durchführungsverordnung - EGBusDV)
+% Ausfertigungsdatum: 04.05.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57 Absatz 1 Nummer 6 und 11 des Personenbeförderungsgesetzes, dessen Nummer 6 durch Artikel 29 Buchstabe d des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221) geändert und dessen Nummer 11 durch Artikel 1 Nummer 2 des Gesetzes vom 19. Juli 2002 (BGBl. I S. 2691) eingefügt worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Durchführung
 
@@ -21,8 +17,7 @@ Diese Verordnung regelt die Durchführung
 
 4. des Übereinkommens über die Personenbeförderung im grenzüberschreitenden Gelegenheitsverkehr mit Omnibussen (Interbus-Übereinkommen) (ABl. L 321 vom 26.11.2002, S. 13).
 
-
-## § 2 – Zuständige Behörden
+# § 2 – Zuständige Behörden
 
 (1) Für die Erteilung der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1073/2009 ist die Genehmigungsbehörde im Sinne des § 11 Absatz 1 und 2 des Personenbeförderungsgesetzes zuständig. Sofern hiernach die Zuständigkeit mehrerer Behörden gegeben ist, wird die Gemeinschaftslizenz von der Behörde erteilt, in deren Bezirk das Unternehmen seinen Sitz oder seine Niederlassung im Sinne des Handelsrechts hat.
 
@@ -40,8 +35,7 @@ Diese Verordnung regelt die Durchführung
 
 4. die Mitteilung über schwere oder wiederholte Verstöße eines nichtansässigen Verkehrsunternehmers an die zuständigen Behörden des Vertragsstaates, in dem der Verkehrsunternehmer niedergelassen ist, nach Artikel 22 Absatz 1 des Interbus-Übereinkommens.
 
-
-## § 3 – Antragstellung
+# § 3 – Antragstellung
 
 (1) Der Antrag auf Erteilung einer Genehmigung nach Artikel 7 der Verordnung (EG) Nr. 1073/2009 in Verbindung mit Artikel 7 der Verordnung (EG) Nr. 2121/98 oder einer Genehmigung nach Anhang 7 Artikel 3 des Abkommens EG/Schweiz ist in doppelter Ausfertigung einzureichen. Die Genehmigungsbehörde kann weitere Ausfertigungen anfordern.
 
@@ -49,8 +43,7 @@ Diese Verordnung regelt die Durchführung
 
 (3) Die Frist nach Artikel 8 Absatz 3 der Verordnung (EG) Nr. 1073/2009 oder Anhang 7 Artikel 4 Absatz 3 des Abkommens EG/Schweiz beginnt zu laufen, wenn ein vollständiger Antrag vorliegt.
 
-
-## § 4 – Anhörungsverfahren
+# § 4 – Anhörungsverfahren
 
 Die nach § 2 Absatz 2 zuständige Behörde hat vor ihrer Entscheidung in folgenden Fällen ein Anhörungsverfahren entsprechend § 14 Absatz 1 bis 4 des Personenbeförderungsgesetzes durchzuführen:
 
@@ -60,8 +53,7 @@ Die nach § 2 Absatz 2 zuständige Behörde hat vor ihrer Entscheidung in folgen
 
 3. bei der nach Artikel 8 Absatz 2 der Verordnung (EG) Nr. 1073/2009 oder nach Anhang 7 Artikel 4 Absatz 2 des Abkommens EG/Schweiz erforderlichen Prüfung von Genehmigungsanträgen, die in anderen Mitgliedstaaten oder in der Schweiz gestellt werden.
 
-
-## § 5 – Pflichten des Unternehmers und des Fahrzeugführers oder der Fahrzeugführerin
+# § 5 – Pflichten des Unternehmers und des Fahrzeugführers oder der Fahrzeugführerin
 
 (1) Der Unternehmer hat die Fahrtenblätter gemäß Artikel 17 Absatz 5 der Verordnung (EG) Nr. 1073/2009 unverzüglich jeweils nach Ablauf des Monats, in dem die Kabotagebeförderungen durchgeführt wurden, an das Bundesministerium für Verkehr und digitale Infrastruktur zu übersenden. Dieses teilt nach Artikel 28 Absatz 1 Satz 3 der Verordnung (EG) Nr. 1073/2009 der Kommission in nicht personenbezogener Form die Daten zur Kabotage mit, die als Sonderform des Linienverkehrs und als Gelegenheitsverkehr während des Berichtszeitraums von in Deutschland ansässigen Verkehrsunternehmern durchgeführt wurde.
 
@@ -87,8 +79,7 @@ Die nach § 2 Absatz 2 zuständige Behörde hat vor ihrer Entscheidung in folgen
 
 3. nach Anhang 7 Artikel 11 Absatz 1 Unterabsatz 2 des Abkommens EG/Schweiz die Bescheinigung für den Werkverkehr oder eine beglaubigte Kopie der Bescheinigung.
 
-
-## § 6 – Aufsicht, Amtshilfe gegenüber ausländischen Behörden
+# § 6 – Aufsicht, Amtshilfe gegenüber ausländischen Behörden
 
 (1) Der Unternehmer unterliegt hinsichtlich der Erfüllung der Vorschriften dieser Verordnung sowie der in § 1 genannten Verordnungen und Abkommen
 
@@ -106,8 +97,7 @@ Die nach § 2 Absatz 2 zuständige Behörde hat vor ihrer Entscheidung in folgen
 
 mitzuteilen.
 
-
-## § 7 – Maßnahmen der Kontrolle
+# § 7 – Maßnahmen der Kontrolle
 
 Kontrollberechtigte können die Fortsetzung der Fahrt untersagen, wenn
 
@@ -131,8 +121,7 @@ nicht zur Prüfung vorlegen,
 
 4. der Kraftomnibus nicht den Anforderungen nach Anhang 2 Artikel 1 bis 3 des Interbus-Übereinkommens entspricht.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 61 Absatz 1 Nummer 4 des Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -205,12 +194,10 @@ c) entgegen Anhang 2 Artikel 1, 2 oder 3 einen Omnibus einsetzt, der den dort ge
 
 entgegen Artikel 18 in Verbindung mit Artikel 12 Absatz 2 oder Artikel 20 Unterabsatz 1 oder Anhang 2 Artikel 7 Absatz 1 Satz 1 oder Absatz 2 ein dort genanntes Dokument nicht mitführt oder einem Kontrollberechtigten nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die EG-Bus-Durchführungsverordnung vom 11. August 2004 (BGBl. I S. 2169), die zuletzt durch Artikel 479 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

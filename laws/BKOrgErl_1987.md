@@ -1,10 +1,7 @@
-# [BKOrgErl 1987] Organisationserlaß des Bundeskanzlers
-
-Ausfertigungsdatum: 07.07.1987
-
+% Organisationserlaß des Bundeskanzlers
+% Ausfertigungsdatum: 07.07.1987
  
-
-## ----
+# ----
 
 Dem Bundesminister für Jugend, Familie, Frauen und Gesundheit werden übertragen:
 

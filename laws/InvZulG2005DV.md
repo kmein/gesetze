@@ -1,15 +1,11 @@
-# [InvZulG2005DV] Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005
-
-Ausfertigungsdatum: 10.08.2005
-
+% Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005
+% Ausfertigungsdatum: 10.08.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005 vom 17. März 2004 (BGBl. I S. 438, 2005 I S. 1059) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Einzelnotifizierungspflicht
+# § 1 – Einzelnotifizierungspflicht
 
 Die Investitionszulage ist der Europäischen Kommission zur Genehmigung vorzulegen und erst nach deren Genehmigung festzusetzen, wenn sie für ein Unternehmen bestimmt ist, das
 
@@ -21,13 +17,11 @@ Die Investitionszulage ist der Europäischen Kommission zur Genehmigung vorzuleg
 
 § 5 Abs. 2 Satz 5 des Gesetzes bleibt hiervon unberührt.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 (1) Diese Verordnung tritt an dem Tag in Kraft, an dem die Europäische Kommission die hierzu erforderliche beihilferechtliche Genehmigung erteilt.
 

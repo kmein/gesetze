@@ -1,15 +1,11 @@
-# [BfkEG] Gesetz über die Errichtung eines Bundesamtes für die Sicherheit der nuklearen Entsorgung
-
-Ausfertigungsdatum: 23.07.2013
-
+% Gesetz über die Errichtung eines Bundesamtes für die Sicherheit der nuklearen Entsorgung
+% Ausfertigungsdatum: 23.07.2013
  
-
-## § 1 – Errichtung
+# § 1 – Errichtung
 
 Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit wird ein „Bundesamt für die Sicherheit der nuklearen Entsorgung“ als selbständige Bundesoberbehörde errichtet. Das Bundesamt für die Sicherheit der nuklearen Entsorgung wird von einer Präsidentin oder einem Präsidenten geleitet. Die Präsidentin oder der Präsident hat eine ständige Vertreterin (Vizepräsidentin) oder einen ständigen Vertreter (Vizepräsident). Der Aufbau des Bundesamtes für die Sicherheit der nuklearen Entsorgung, die Bestellung der Präsidentin oder des Präsidenten, des Vizepräsidenten oder der Vizepräsidentin sowie eine Einstellung von sonstigen Mitarbeiterinnen und Mitarbeitern erfolgen im Laufe des Jahres.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung erledigt Verwaltungsaufgaben des Bundes auf den Gebieten der Planfeststellung, Genehmigung und Überwachung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle, der Entsorgung radioaktiver Abfälle, der Beförderung und Aufbewahrung radioaktiver Stoffe sowie der kerntechnischen Sicherheit, die ihm durch das Atomgesetz, das Standortauswahlgesetz oder andere Bundesgesetze oder aufgrund dieser Gesetze zugewiesen werden.
 
@@ -19,13 +15,11 @@ Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und nuklear
 
 (4) Das Bundesamt für die Sicherheit der nuklearen Entsorgung betreibt zur Erfüllung seiner Aufgaben wissenschaftliche Forschung auf den in Absatz 1 genannten Gebieten.
 
-
-## § 3 – Aufsicht
+# § 3 – Aufsicht
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung untersteht der Aufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit. Soweit es Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit wahrnimmt, untersteht es den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-
-## § 4 – Übergangsvorschriften
+# § 4 – Übergangsvorschriften
 
 (1) Nach der Errichtung des Bundesamtes finden innerhalb von sechs Monaten Wahlen zur Personalvertretung statt. Bis zur Konstituierung des Personalrates werden die Aufgaben der Personalvertretung beim Bundesamt vom Hauptpersonalrat beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit als Übergangspersonalrat wahrgenommen.
 

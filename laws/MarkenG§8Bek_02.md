@@ -1,10 +1,7 @@
-# [MarkenG§8Bek 02] Bekanntmachung zu § 8 des Markengesetzes
-
-Ausfertigungsdatum: 12.09.2002
-
+% Bekanntmachung zu § 8 des Markengesetzes
+% Ausfertigungsdatum: 12.09.2002
  
-
-## ----
+# ----
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082, 1995 I S. 156) wird bekannt gemacht, dass
 
@@ -16,21 +13,17 @@ Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I
 
 4. Name, Abkürzung und Emblem des "Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen" (Anlage 4)
 
-von der Eintragung als Marke ausgeschlossen sind.  
-Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 28. April 2000 (BGBl. I S. 737).
+von der Eintragung als Marke ausgeschlossen sind. Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 28. April 2000 (BGBl. I S. 737).
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium der Justiz
 
-
-## Anlage 1 – Emblem der Europäischen Investitionsbank
+# Anlage 1 – Emblem der Europäischen Investitionsbank
 
 Fundstelle: BGBl. I 2002, 3755)
 
-
-## Anlage 2 – Namen, Abkürzungen und Emblem des Welternährungsprogramms
+# Anlage 2 – Namen, Abkürzungen und Emblem des Welternährungsprogramms
 
 (Fundstelle: BGBl. I 2002, 3756)
 
@@ -62,8 +55,7 @@ Embleme:
 
 ... (nicht darstellbares Emblem)
 
-
-## Anlage 3 – Name, Abkürzung und Emblem der Nordischen Investitionsbank
+# Anlage 3 – Name, Abkürzung und Emblem der Nordischen Investitionsbank
 
 (Fundstelle: BGBl. I 2002, 3757)
 
@@ -99,8 +91,7 @@ NIB
 
 ... (nicht darstellbares Emblem)
 
-
-## Anlage 4 – Name, Abkürzung und Emblem des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen
+# Anlage 4 – Name, Abkürzung und Emblem des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen
 
 (Fundstelle: BGBl. I 2002, 3758)
 

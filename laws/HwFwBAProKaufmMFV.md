@@ -1,20 +1,15 @@
-# [HwFwBAProKaufmMFV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer Fachwirt nach der Handwerksordnung und Geprüfte Kaufmännische Fachwirtin nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung  (Handwerksfachwirt-Bachelor Professional für Kaufmännisches Management-Fortbildungsverordnung - HwFwBAProKaufmMFV)
-
-Ausfertigungsdatum: 15.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer Fachwirt nach der Handwerksordnung und Geprüfte Kaufmännische Fachwirtin nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung  (Handwerksfachwirt-Bachelor Professional für Kaufmännisches Management-Fortbildungsverordnung - HwFwBAProKaufmMFV)
+% Ausfertigungsdatum: 15.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 42a und 42c der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), die durch Artikel 2 Nummer 17 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522) neu gefasst worden sind, verordnet das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
-
-## § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+# § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer Fachwirt nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung und Geprüfte Kaufmännische Fachwirtin nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten beruflichen Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
 
@@ -42,8 +37,7 @@ Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 42a un
 
 (5) Der Nachweis nach § 3 Absatz 1 Nummer 1 und die erfolgreich abgelegte Prüfung nach § 3 Absatz 1 Nummer 2 führen zusammen zum anerkannten Fortbildungsabschluss „Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Kaufmännischer Fachwirt nach der Handwerksordnung“ oder „Geprüfte Kaufmännische Fachwirtin nach der Handwerksordnung“ vorangestellt.
 
-
-## § 2 – Voraussetzung für die Zulassung zur Prüfung
+# § 2 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 42c der Handwerksordnung erfüllt und Folgendes nachweist:
 
@@ -65,8 +59,7 @@ Die Berufspraxis muss jeweils wesentliche inhaltliche Bezüge zu den in § 1 Abs
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Teile des Fortbildungsabschlusses
+# § 3 – Teile des Fortbildungsabschlusses
 
 (1) Für den Fortbildungsabschluss zum Geprüften Kaufmännischen Fachwirt nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung und zur Geprüften Kaufmännischen Fachwirtin nach der Handwerksordnung-Bachelor Professional für Kaufmännisches Management nach der Handwerksordnung ist Folgendes erforderlich:
 
@@ -76,8 +69,7 @@ Die Berufspraxis muss jeweils wesentliche inhaltliche Bezüge zu den in § 1 Abs
 
 (2) Der Prüfungsnachweis zu den Qualifikationen nach Absatz 1 Nummer 1 ist spätestens vor Beginn der letzten Prüfungsleistung nach Absatz 1 Nummer 2 vorzulegen. Die erfolgreich abgelegte Prüfung nach Absatz 1 Nummer 2 hat die zu prüfende Person innerhalb von zwei Jahren nach Ablegen der ersten Prüfungsleistung in der Prüfung nach Absatz 1 Nummer 2 nachzuweisen. Die Frist des Satzes 2 beginnt mit dem Tag, der auf den letzten Tag der Prüfung für die erste Prüfungsleistung folgt.
 
-
-## § 4 – Nachweis der berufs- und arbeitspädagogischen Qualifikationen
+# § 4 – Nachweis der berufs- und arbeitspädagogischen Qualifikationen
 
 Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prüfende Person nachzuweisen durch
 
@@ -87,8 +79,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 3. eine andere erfolgreich abgelegte vergleichbare Prüfung einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss.
 
-
-## § 5 – Handlungsbereiche der fortbildungsspezifischen kaufmännischen Qualifikationen
+# § 5 – Handlungsbereiche der fortbildungsspezifischen kaufmännischen Qualifikationen
 
 In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nach § 3 Absatz 1 Nummer 2 werden folgende Handlungsbereiche geprüft:
 
@@ -102,8 +93,7 @@ In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nac
 
 5. Prozesse betriebswirtschaftlich analysieren und optimieren.
 
-
-## § 6 – Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen analysieren und fördern“
+# § 6 – Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen analysieren und fördern“
 
 (1) Im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen analysieren und fördern“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis zu beurteilen. Sie soll betriebliche Funktionen und Funktionsbereiche sowie deren Zusammenwirken im Betrieb verstehen. Des Weiteren soll sie rechtliche Zusammenhänge begreifen und beachten.
 
@@ -121,8 +111,7 @@ In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nac
 
 6. Rechtsvorschriften des bürgerlichen Rechts, des Gewerbe- und des Handwerksrechts, des Handels- und des Wettbewerbsrechts im Unternehmen und in den Beziehungen zu Kunden und Lieferanten sowie Grundzüge des Steuerrechts beachten und anwenden.
 
-
-## § 7 – Handlungsbereich „Marketing nach strategischen Vorgaben gestalten“
+# § 7 – Handlungsbereich „Marketing nach strategischen Vorgaben gestalten“
 
 (1) Im Handlungsbereich „Marketing nach strategischen Vorgaben gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Bedeutung des Marketings einzuschätzen und bei der Erstellung eines Marketingkonzeptes mitzuwirken. Dazu gehört, die Entwicklung eines Marketingkonzeptes von der Umwelt- und Unternehmensanalyse bis hin zur Implementierung, Kontrolle und Nachsteuerung durchführen zu können.
 
@@ -138,8 +127,7 @@ In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nac
 
 5. ein Customer-Relationship-Management aufbauen, umsetzen und pflegen.
 
-
-## § 8 – Handlungsbereich „Betriebliches Rechnungswesen, Controlling sowie Finanzierung und Investitionen gestalten“
+# § 8 – Handlungsbereich „Betriebliches Rechnungswesen, Controlling sowie Finanzierung und Investitionen gestalten“
 
 (1) Im Handlungsbereich „Betriebliches Rechnungswesen, Controlling sowie Finanzierung und Investitionen gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, unter Berücksichtigung rechtlicher Vorgaben und der Zusammenhänge und Abhängigkeiten güterwirtschaftlicher und finanzwirtschaftlicher Prozesse das betriebliche Rechnungswesen zu gestalten.
 
@@ -157,8 +145,7 @@ In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nac
 
 6. Liquiditätsplanung ausarbeiten und Liquiditätssicherung insbesondere mittels Forderungsmanagement gewährleisten.
 
-
-## § 9 – Handlungsbereich „Personalwesen gestalten und Personal führen“
+# § 9 – Handlungsbereich „Personalwesen gestalten und Personal führen“
 
 (1) Im Handlungsbereich „Personalwesen gestalten und Personal führen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, zielorientiert mit Mitarbeitern und Mitarbeiterinnen zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen und ethische Grundsätze zu berücksichtigen. Darüber hinaus soll sie nachweisen, dass sie Mitarbeiter und Mitarbeiterinnen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen sowie unter Beachtung der Unternehmensziele führen, motivieren, auswählen, fördern und adäquat einsetzen kann.
 
@@ -180,8 +167,7 @@ In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nac
 
 8. Führungsmodelle und -instrumente zur Mitarbeiterführung beherrschen und in die betriebliche Praxis umsetzen.
 
-
-## § 10 – Handlungsbereich „Prozesse betriebswirtschaftlich analysieren und optimieren“
+# § 10 – Handlungsbereich „Prozesse betriebswirtschaftlich analysieren und optimieren“
 
 (1) Im Handlungsbereich „Prozesse betriebswirtschaftlich analysieren und optimieren“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, unter Berücksichtigung betrieblicher und produktionsabhängiger Vorgaben Produktions-, Beschaffungs- und Dienstleistungsprozesse darzustellen, betriebswirtschaftlich zu analysieren, Optimierungspotenziale aufzuzeigen und Entscheidungsvorlagen für betriebliche Prozessverbesserungen auszuarbeiten.
 
@@ -193,8 +179,7 @@ In der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen nac
 
 3. Investitionsplanung zur Entwicklung, Aufrechterhaltung sowie zur strategischen Verbesserung und Optimierung der Prozesse auf Basis von operativen Daten vorbereiten.
 
-
-## § 11 – Gliederung der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen
+# § 11 – Gliederung der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen
 
 Die Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen gliedert sich in
 
@@ -202,8 +187,7 @@ Die Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen gliede
 
 2. eine mündliche Prüfung.
 
-
-## § 12 – Schriftliche Prüfung
+# § 12 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus drei Prüfungsbestandteilen. Die Aufgaben der drei schriftlichen Prüfungsbestandteile werden als offene Aufgaben formuliert und leiten sich aus der Beschreibung betrieblicher Situationen ab. Die Aufgabenstellungen beziehen sich
 
@@ -219,8 +203,7 @@ Die Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen gliede
 
 (4) Wurde in höchstens einem schriftlichen Prüfungsbestandteil eine mangelhafte Leistung erbracht, so ist in diesem Prüfungsbestandteil eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden oder mehreren mangelhaften oder ungenügenden schriftlichen Prüfungsleistungen ist keine Ergänzungsprüfung möglich. Die Aufgabe muss aus dem Handlungsbereich stammen, in dem die mangelhafte Prüfungsleistung erbracht wurde. Die Ergänzungsprüfung soll anwendungsbezogen sein und nicht länger als 20 Minuten dauern. Die Bewertung der Leistung in der mündlichen Ergänzungsprüfung und die der schriftlichen Prüfungsleistung werden zu einer Bewertung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 13 – Mündliche Prüfung
+# § 13 – Mündliche Prüfung
 
 (1) Voraussetzung für die mündliche Prüfung ist, dass die schriftliche Prüfung in allen Prüfungsbestandteilen abgelegt wurde.
 
@@ -230,13 +213,11 @@ Die Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen gliede
 
 (4) Die Vorbereitungszeit für die mündliche Prüfung beträgt 30 Minuten. Die mündliche Prüfung soll nicht länger als 30 Minuten dauern, von diesen 30 Minuten sollen höchstens 10 Minuten auf die Präsentation verwendet werden.
 
-
-## § 14 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 14 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42h Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 15 und 16 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 15 Absatz 3 Satz 2 oder § 16 Absatz 3 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
-
-## § 15 – Bewerten der Prüfungsleistungen
+# § 15 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -254,8 +235,7 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 2. die Bewertung des Fachgesprächs mit zwei Dritteln.
 
-
-## § 16 – Bestehen der Prüfung, Gesamtnote
+# § 16 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -267,8 +247,7 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus den Bewertungen für jeden der drei Prüfungsbestandteile der schriftlichen Prüfung und aus der Bewertung der mündlichen Prüfung zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 eine Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 17 – Zeugnisse
+# § 17 – Zeugnisse
 
 (1) Wer die Prüfung nach § 16 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -280,8 +259,7 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 18 – Wiederholen der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen
+# § 18 – Wiederholen der Prüfung der fortbildungsspezifischen kaufmännischen Qualifikationen
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden. Die zu prüfende Person hat die Wiederholungsprüfung bei der zuständigen Stelle zu beantragen.
 
@@ -289,27 +267,23 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 (3) Auf Antrag kann im Fall der Wiederholung eines nicht bestandenen Prüfungsbestandteils auch ein bereits bestandener Prüfungsbestandteil wiederholt werden. In diesem Fall gilt nur das Ergebnis der Wiederholungsprüfung.
 
-
-## § 19 – Übergangsvorschriften
+# § 19 – Übergangsvorschriften
 
 (1) Hat sich die zu prüfende Person vor Inkrafttreten dieser Verordnung bereits zur Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer Fachwirt nach der Handwerksordnung und Geprüfte Kaufmännische Fachwirtin nach der Handwerksordnung angemeldet, ist die Prüfung nach der Handwerksfachwirtfortbildungsprüfungsverordnung vom 1. März 2016 (BGBl. I S. 331), die durch Artikel 8 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen.
 
 (2) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 1 Satz 1 bezeichneten Handwerksfachwirtfortbildungsprüfungsverordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Die Handwerksfachwirtfortbildungsprüfungsverordnung vom 1. März 2016 (BGBl. I S. 331), die durch Artikel 8 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, tritt gleichzeitig außer Kraft.
 
-
-## Anlage 1 – (zu den §§ 15 und 16)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 15 und 16)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2020, 2951 - 2952)
 
  
 
-
-## Anlage 2 – (zu § 17)Zeugnisinhalte
+# Anlage 2 – (zu § 17)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 2953)
 

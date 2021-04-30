@@ -1,17 +1,13 @@
-# [BAStrlSchG] Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
-
-Ausfertigungsdatum: 09.10.1989
-
+% Gesetz über die Errichtung eines Bundesamtes für Strahlenschutz
+% Ausfertigungsdatum: 09.10.1989
  
-
-## § 1 – Errichtung und Sitz
+# § 1 – Errichtung und Sitz
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit wird ein "Bundesamt für Strahlenschutz" als selbständige Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Strahlenschutz hat seinen Sitz in Salzgitter.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Das Bundesamt für Strahlenschutz erledigt Verwaltungsaufgaben des Bundes auf den Gebieten des Strahlenschutzes einschließlich des Notfallschutzes, die ihm durch das Atomgesetz, das Strahlenschutzgesetz oder andere Bundesgesetze oder aufgrund dieser Gesetze zugewiesen werden.
 
@@ -25,12 +21,10 @@ Ausfertigungsdatum: 09.10.1989
 
 (6) Das Bundesamt für Strahlenschutz beantwortet Sachfragen von Privatpersonen auf dem Gebiet des Strahlenschutzes. Es ist befugt, die ihm im Rahmen einer Anfrage mitgeteilten personenbezogenen Daten, einschließlich Gesundheitsdaten, zu verarbeiten, soweit dies für die Erfüllung der Aufgabe nach Satz 1 erforderlich ist.
 
-
-## § 3 – Fachaufsicht
+# § 3 – Fachaufsicht
 
 Soweit das Bundesamt für Strahlenschutz Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit wahrnimmt, untersteht es den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-
-## § 4 – Gebühren und Auslagen
+# § 4 – Gebühren und Auslagen
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, zur Deckung der auf Grund von individuell zurechenbaren öffentlichen Leistungen des Bundesamtes für Strahlenschutz entstehenden Aufwendungen durch Rechtsverordnung ohne Zustimmung des Bundesrates die Erhebung von Verwaltungsgebühren und die Erstattung von Auslagen anzuordnen und dabei feste Sätze oder Rahmensätze vorzusehen. Gebührenvorschriften des Atomgesetzes, des Strahlenschutzgesetzes oder einer auf Grund des Atomgesetzes erlassenen Rechtsverordnung bleiben unberührt.

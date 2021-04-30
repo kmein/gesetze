@@ -1,10 +1,7 @@
-# [PersBG] Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz  (PersBG)
-
-Ausfertigungsdatum: 17.12.1997
-
+% Personalrechtliches Begleitgesetz zum Telekommunikationsgesetz  (PersBG)
+% Ausfertigungsdatum: 17.12.1997
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |     |                                                  |
 |:----|:-------------------------------------------------|
@@ -18,27 +15,23 @@ Ausfertigungsdatum: 17.12.1997
 | § 8 | Öffentlich-rechtliche Amtsverhältnisse           |
 | § 9 | Änderung von Rechtsvorschriften                  |
 
-
-## § 1 – Überleitungsmaßnahmen für die Bediensteten
+# § 1 – Überleitungsmaßnahmen für die Bediensteten
 
 (1) Die Bediensteten des Bundesministeriums für Post und Telekommunikation werden zu Bundesministerien oder der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen versetzt.
 
 (2) Beamte des Bundesamtes für Post und Telekommunikation werden mit Wirkung vom 1. Januar 1998 Beamte der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, es sei denn, sie werden mit Wirkung vom 1. Januar 1998 zu einer anderen Behörde versetzt oder ihr Beamtenverhältnis endet mit Ablauf des 31. Dezember 1997. Für Arbeitnehmer des Bundesamtes für Post und Telekommunikation gilt diese Regelung entsprechend.
 
-
-## § 2 – Stellenplan und Ämterbewertung
+# § 2 – Stellenplan und Ämterbewertung
 
 Im Stellenplan der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen können nach Maßgabe sachgerechter Bewertung die Obergrenzen für Beförderungsämter nach § 26 des Bundesbesoldungsgesetzes und der auf dieser Ermächtigungsgrundlage erlassenen Rechtsverordnung überschritten werden. Dabei kann dem Stellenplan der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen - Standort Bonn - zunächst der Stellenschlüssel für oberste Bundesbehörden zugrunde gelegt werden und § 26 Abs. 6 des Bundesbesoldungsgesetzes mit der Maßgabe entsprechend angewendet werden, daß die Umwandlung dieser Planstellen für einen Zeitraum von fünf Jahren ausgesetzt wird.
 
-
-## § 3 – Soziales
+# § 3 – Soziales
 
 (1) Für die Bediensteten des Bundesministeriums für Post und Telekommunikation und seines nachgeordneten Bereichs, die nach § 1 zur Regulierungsbehörde für Telekommunikation und Post oder zu einer anderen Bundesbehörde übergeleitet oder versetzt werden, bleiben die Bedingungen einer Mitgliedschaft in der Postbeamtenkrankenkasse von der Überleitung oder Versetzung unberührt.
 
 (2) Die Arbeitnehmer des Bundesministeriums für Post und Telekommunikation, des Bundesamtes für Post und Telekommunikation, der Unfallkasse für Post und Telekom und der Museumsstiftung Post und Telekommunikation, die auf Grund der Bestimmungen des Postverfassungsgesetzes und des Postneuordnungsgesetzes noch in der Versorgungsanstalt der Deutschen Bundespost versichert sind, werden zum Zeitpunkt des Inkrafttretens dieses Gesetzes von der Versorgungsanstalt des Bundes und der Länder entsprechend deren Satzungen übernommen.
 
-
-## § 4 – Personalvertretung
+# § 4 – Personalvertretung
 
 (1) Die erstmaligen Personalratswahlen in der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach dem Bundespersonalvertretungsgesetz finden frühestens nach Ablauf des dritten Monats und spätestens bis zum Ablauf des sechsten Monats nach deren Errichtung statt.
 
@@ -46,8 +39,7 @@ Im Stellenplan der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 
 (3) Die Wahlvorstände für die erstmaligen Wahlen nach Absatz 1 werden vom Übergangspersonalrat bestellt.
 
-
-## § 5 – Schwerbehindertenvertretung
+# § 5 – Schwerbehindertenvertretung
 
 (1) Die erstmaligen Wahlen zu der Schwerbehindertenvertretung in der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach dem Neunten Buch Sozialgesetzbuch finden frühestens nach Ablauf des dritten Monats und spätestens bis zum Ablauf des sechsten Monats nach deren Errichtung statt.
 
@@ -55,26 +47,22 @@ Im Stellenplan der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 
 (3) Die Wahlvorstände für die erstmaligen Wahlen nach Absatz 1 werden von der Übergangsschwerbehindertenvertretung bestellt.
 
-
-## § 6 – Frauenbeauftragte
+# § 6 – Frauenbeauftragte
 
 (1) Die Frauenbeauftragte ist frühestens nach Ablauf des dritten Monats und spätestens bis zum Ablauf des sechsten Monats nach Errichtung der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach den Bestimmungen des Frauenfördergesetzes zu bestellen.
 
 (2) Die Aufgaben der Frauenbeauftragten nimmt bis zur Neubestellung die bisherige Frauenbeauftragte des Bundesministeriums für Post und Telekommunikation wahr.
 
-
-## § 7 – Besoldungs- und tarifrechtliche Sonderregelungen
+# § 7 – Besoldungs- und tarifrechtliche Sonderregelungen
 
 (1) Beamten, denen bis zum Tage vor der Versetzung oder Überleitung zur Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen eine Stellenzulage nach der Vorbemerkung Nummer 7 zu den Bundesbesoldungsordnungen A und B zum Bundesbesoldungsgesetz oder den entsprechenden Besoldungsordnungen der Länder zustand, oder nur wegen Elternzeit, Urlaubs gemäß § 92 Abs. 1 Nr. 2 des Bundesbeamtengesetzes oder Urlaubs im dienstlichen Interesse nicht zustand, erhalten diese Stellenzulage in der zuletzt gewährten Höhe, solange sie bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen beschäftigt sind, längstens bis zum 31. Dezember 2002. Anschließend findet § 13 Abs. 1 und 4 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 6. August 2002 (BGBl. I S. 3020), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2008 (BGBl. I S. 1582) geändert worden ist, sinngemäß Anwendung. Sonstige Anrechnungsvorschriften bleiben unberührt. Wird die Vorbemerkung Nummer 7 zu den Bundesbesoldungsordnungen A und B zum Bundesbesoldungsgesetz oder den entsprechenden Besoldungsordnungen der Länder geändert oder aufgehoben, gelten die sich daraus ergebenden Rechtsfolgen entsprechend.
 
 (2) Absatz 1 gilt sinngemäß für Angestellte und Arbeiter, die bis zum Inkrafttreten dieses Gesetzes eine Zulage nach den tarifvertraglichen Regelungen über Zulagen an Angestellte und Arbeiter bei obersten Bundes- und Landesbehörden erhalten.
 
-
-## § 8
+# § 8
 
 (weggefallen)
 
-
-## § 9
+# § 9
 
 \-

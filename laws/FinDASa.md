@@ -1,17 +1,13 @@
-# [FinDASa] Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
-
-Ausfertigungsdatum: 29.04.2002
-
+% Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
+% Ausfertigungsdatum: 29.04.2002
  
-
-## § 1 – Bezeichnung, Aufbau und Organisation der Bundesanstalt
+# § 1 – Bezeichnung, Aufbau und Organisation der Bundesanstalt
 
 (1) Die Bundesanstalt trägt die Bezeichnung "Bundesanstalt für Finanzdienstleistungsaufsicht" (Bundesanstalt). Im Geschäftsverkehr kann zusätzlich die Abkürzung "BaFin" verwendet werden.
 
 (2) Zur Wahrnehmung der gesetzlichen Aufgaben der Bundesanstalt werden folgende Geschäftsbereiche eingerichtet: Innere Verwaltung und Recht, Bankenaufsicht, Versicherungs- und Pensionsfondsaufsicht, Wertpapieraufsicht/Asset-Management und Abwicklung. Die Geschäftsbereiche bestehen aus Abteilungen und Referaten; letztere können zu Gruppen zusammengefasst werden. Darüber hinaus können Einheiten für geschäftsbereichsübergreifende Aufgaben dem Präsidenten bzw. der Präsidentin unmittelbar zugeordnet werden. Die sich daraus ergebende Aufbauorganisation wird vom Direktorium der Bundesanstalt mit Zustimmung des Bundesministeriums der Finanzen (Bundesministerium) festgelegt.
 
-
-## § 1a – Geschäftsbereich Abwicklung
+# § 1a – Geschäftsbereich Abwicklung
 
 (1) Die Aufgaben der Abwicklungsbehörde im Sinne des § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes werden operativ unabhängig von den laufenden Aufsichtsaufgaben der Bundesanstalt wahrgenommen. Soweit der Geschäftsbereich Abwicklung auch andere Aufgaben als die der Abwicklungsbehörde nach dem Sanierungs- und Abwicklungsgesetz wahrnimmt, erfolgt dies organisatorisch getrennt von den Abwicklungsaufgaben.
 
@@ -21,8 +17,7 @@ Ausfertigungsdatum: 29.04.2002
 
 (4) Die Bundesanstalt stellt die enge Zusammenarbeit und den wechselseitigen Informationsaustausch zwischen dem Geschäftsbereich Abwicklung und allen übrigen Geschäftsbereichen zur wirksamen und effizienten Vorbereitung und Durchführung von Abwicklungsentscheidungen und -maßnahmen sicher. Die Bundesanstalt stellt insbesondere sicher, dass die mit der Abwicklungstätigkeit betraute Organisationseinheit Zugriff auf sämtliche Informationen hat, die den mit Aufsichtstätigkeiten betrauten Organisationseinheiten zur Verfügung stehen.
 
-
-## § 2 – Rechte und Pflichten der Organe der Bundesanstalt
+# § 2 – Rechte und Pflichten der Organe der Bundesanstalt
 
 (1) Das Direktorium leitet und verwaltet die Bundesanstalt gesamtverantwortlich und unbeschadet der Weisungsrechte des Bundesministeriums.
 
@@ -32,8 +27,7 @@ Ausfertigungsdatum: 29.04.2002
 
 (4) Das Direktorium gibt regelmäßig Veröffentlichungen der Bundesanstalt heraus.
 
-
-## § 3 – Bestellung und Abberufung der Mitglieder des Verwaltungsrats
+# § 3 – Bestellung und Abberufung der Mitglieder des Verwaltungsrats
 
 (1) Mitglied des Verwaltungsrats soll nur jemand werden, der die erforderliche Sachkunde für die Wahrnehmung dieser Aufgabe bietet. Die Mitglieder werden nach § 7 des Finanzdienstleistungsaufsichtsgesetzes durch das Bundesministerium bestellt und abberufen. Die in Absatz 6 genannten Verbände der Kredit- und Versicherungswirtschaft sowie der Kapitalverwaltungsgesellschaften sind vor der Bestellung der Mitglieder nach § 7 Absatz 3 Satz 1 Nummer 2 Buchstabe d des Finanzdienstleistungsaufsichtsgesetzes anzuhören. Der Vorsitzende des Verwaltungsrats und sein Stellvertreter werden auf die Dauer von fünf Jahren bestellt. Die Bestellung der übrigen Mitglieder und ihrer Stellvertreter erfolgt jeweils auf die Dauer von vier Jahren, soweit in § 7 Abs. 6 des Finanzdienstleistungsaufsichtsgesetzes nichts anderes bestimmt ist; ihre Wiederbestellung ist in beiden Fällen möglich. Bestellung und Abberufung sind in den Veröffentlichungen der Bundesanstalt anzuzeigen.
 
@@ -55,8 +49,7 @@ Ausfertigungsdatum: 29.04.2002
 
 Das Anhörungs- und Vorschlagsrecht gilt, solange sich die gesetzlich festgelegte Sitzverteilung des Verwaltungsrats nicht ändert.
 
-
-## § 4 – Befugnisse des Verwaltungsrats
+# § 4 – Befugnisse des Verwaltungsrats
 
 (1) Der Verwaltungsrat überwacht und unterstützt die Geschäftsführung der Bundesanstalt. Er ist insbesondere berufen:
 
@@ -78,13 +71,11 @@ Das Anhörungs- und Vorschlagsrecht gilt, solange sich die gesetzlich festgelegt
 
 (3) Der Verwaltungsrat kann von jedem Mitglied des Direktoriums jederzeit einen Bericht über die Angelegenheiten der Bundesanstalt verlangen. Auch ein einzelnes Mitglied des Verwaltungsrats kann einen Bericht an den Verwaltungsrat verlangen. Lehnt ein Mitglied des Direktoriums in diesem Fall die Berichterstattung ab, kann der Bericht nur dann verlangt werden, wenn zwei andere Mitglieder des Verwaltungsrats das Verlangen unterstützen.
 
-
-## § 5 – Vertretung des Verwaltungsrats
+# § 5 – Vertretung des Verwaltungsrats
 
 Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch dessen Stellvertreter vertreten. Im Übrigen ist nur Vertretung durch den jeweiligen nach § 3 Absatz 4 Satz 3 zweiter Halbsatz berufenen Vertreter möglich.
 
-
-## § 6 – Sitzungen des Verwaltungsrats
+# § 6 – Sitzungen des Verwaltungsrats
 
 (1) Der Verwaltungsrat tritt nach Bedarf zusammen, jedoch mindestens einmal jährlich. Die Sitzungen sind nicht öffentlich.
 
@@ -100,13 +91,11 @@ Der Verwaltungsrat wird durch den Vorsitzenden und bei dessen Verhinderung durch
 
 (7) Im Fall des § 4 Abs. 1 Satz 2 Nr. 1 hat der Verwaltungsrat binnen zwei Monaten nach Vorlage zu beschließen. Ergeht innerhalb der Frist kein Beschluss, gilt der vom Direktorium vorgelegte Haushaltsplan als festgestellt.
 
-
-## § 7 – Verfahren
+# § 7 – Verfahren
 
 Eine Beschlussfassung des Verwaltungsrats im schriftlichen Verfahren oder in Verfahren der Telekommunikation ist zulässig. Das Nähere regelt die Geschäftsordnung.
 
-
-## § 8 – Fachbeirat
+# § 8 – Fachbeirat
 
 (1) Der Fachbeirat wählt aus dem Kreis seiner Mitglieder einen Vorsitzenden und gibt sich zur Durchführung seiner Sitzungen eine Geschäftsordnung. Der Fachbeirat wird nach Bedarf, mindestens einmal jährlich, vom Vorsitzenden bzw. von der Vorsitzenden oder bei dessen bzw. deren Verhinderung von seinem bzw. ihrem Stellvertreter oder seiner bzw. ihrer Stellvertreterin einberufen; falls beide verhindert oder noch nicht gewählt sind, wird der Fachbeirat vom Direktorium einberufen. Der Fachbeirat ist einzuberufen, wenn das Bundesministerium oder das Direktorium es beantragen. Er ist ferner auf Verlangen eines Viertels seiner Mitglieder einzuberufen. Jedes Mitglied des Fachbeirats hat das Recht, Beratungsvorschläge einzubringen. Diese sind den Fachbeiratsmitgliedern vor der Entscheidung über die Tagesordnung zur Kenntnis zu geben und zu beraten, wenn vier Beiratsmitglieder dies unterstützen. Der Präsident bzw. die Präsidentin, die Exekutivdirektoren bzw. Exekutivdirektorinnen und ein Vertreter bzw. eine Vertreterin des Bundesministeriums nehmen an den Sitzungen des Fachbeirats teil. Für die Vertretung des Präsidenten bzw. der Präsidentin und der Exekutivdirektoren bzw. Exekutivdirektorinnen gilt § 6 Abs. 3 Satz 2 entsprechend. Die Sitzungen sind nicht öffentlich. Der bzw. die Vorsitzende des Fachbeirats kann externe Berater bzw. externe Beraterinnen zu den Sitzungen hinzuziehen.
 
@@ -144,8 +133,7 @@ Darüber hinaus soll sich der Fachbeirat aus drei Mitgliedern der Wissenschaft, 
 
 (7) Über das Ergebnis der Sitzung und über den Verlauf der Beratungen ist ein Protokoll anzufertigen, das von dem bzw. der Vorsitzenden oder dessen bzw. deren Stellvertreter bzw. Stellvertreterin zu unterzeichnen ist. Das Nähere regelt die Geschäftsordnung.
 
-
-## § 8a – Verbraucherbeirat
+# § 8a – Verbraucherbeirat
 
 (1) Als Mitglieder des Verbraucherbeirats soll das Bundesministerium bestellen:
 
@@ -167,8 +155,7 @@ Eine gleichzeitige Mitgliedschaft in anderen Beiräten der Bundesanstalt ist mö
 
 (4) Die Vorschriften des § 8 Absatz 1 bis 3 und 7 sind entsprechend anzuwenden.
 
-
-## § 9 – Haushaltsplan
+# § 9 – Haushaltsplan
 
 (1) Der Haushaltsplan ist nach den Grundsätzen der §§ 105 bis 112 der Bundeshaushaltsordnung aufzustellen.
 
@@ -184,8 +171,7 @@ Fristverlängerung ist jeweils auf Antrag des Direktoriums um bis zu einen Monat
 
 (4) (weggefallen)
 
-
-## § 10 – Haushalt
+# § 10 – Haushalt
 
 (1) Das Haushaltsjahr der Bundesanstalt ist das Kalenderjahr.
 
@@ -193,12 +179,10 @@ Fristverlängerung ist jeweils auf Antrag des Direktoriums um bis zu einen Monat
 
 (3) Die Jahresrechnung ist unbeschadet der Prüfung des Bundesrechnungshofs nach § 111 der Bundeshaushaltsordnung von einem Abschlussprüfer zu prüfen, wobei mindestens alle vier Jahre ein anderer Abschlussprüfer im Einvernehmen mit dem Bundesministerium nach Ausschreibung durch das Direktorium zu beauftragen ist; das Bundesministerium handelt im Einvernehmen mit dem Bundesrechnungshof. Abschlussprüfer können Wirtschaftsprüfer oder Wirtschaftsprüfungsgesellschaften sein. Das Direktorium legt dem Bundesrechnungshof die Jahresrechnung sowie den Bericht des Abschlussprüfers vor. Der Bundesrechnungshof informiert den Verwaltungsrat über Erkenntnisse, die für die Entscheidung über die Entlastung des Direktoriums relevant sind.
 
-
-## § 11 – Übergang von Rechten und Pflichten
+# § 11 – Übergang von Rechten und Pflichten
 
 Die vom Bundesministerium mit den Bundesaufsichtsämtern für das Kreditwesen und für das Versicherungswesen insbesondere zur Liegenschaftsverwaltung, zum IT-Service-Center und Personaltausch getroffenen Verwaltungsvereinbarungen gehen auf die Bundesanstalt mit denselben Rechten und Pflichten über, soweit nichts anderes bestimmt wird. Sie sind dem Verwaltungsrat zur Kenntnis zu geben.
 
-
-## § 12 – Veröffentlichung der Satzung
+# § 12 – Veröffentlichung der Satzung
 
 Die Satzung und Änderungen an der Satzung sind in den Veröffentlichungen der Bundesanstalt bekannt zu machen.

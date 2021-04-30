@@ -1,20 +1,15 @@
-# [BBesGAnlIVNr1u4Bek] Bekanntmachung nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes
-
-Ausfertigungsdatum: 02.03.2020
-
+% Bekanntmachung nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes
+% Ausfertigungsdatum: 02.03.2020
  
-
-## ----
+# ----
 
 Nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434), die zuletzt durch Artikel 2 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2053) neu gefasst worden ist, werden nachstehend die ab 1. März 2020 geltenden Grundgehaltssätze der weggefallenen Besoldungsgruppen A 2, R 1 und R 4 bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern, für Bau und Heimat
 
-
-## Zu Anlage IV des BBesG (zu § 20 Absatz 2 Satz 2, § 37 Satz 2)Gültig ab 1. März 2020
+# Zu Anlage IV des BBesG (zu § 20 Absatz 2 Satz 2, § 37 Satz 2)Gültig ab 1. März 2020
 
 (Fundstelle: BGBl. I 2020, 317)
 

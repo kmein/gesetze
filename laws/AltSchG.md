@@ -1,15 +1,11 @@
-# [AltSchG] Gesetz über Altschuldenhilfen für Kommunale Wohnungsunternehmen, Wohnungsgenossenschaften und private Vermieter in dem in Artikel 3 des Einigungsvertrages genannten Gebiet  (Altschuldenhilfe-Gesetz)
-
-Ausfertigungsdatum: 23.06.1993
-
+% Gesetz über Altschuldenhilfen für Kommunale Wohnungsunternehmen, Wohnungsgenossenschaften und private Vermieter in dem in Artikel 3 des Einigungsvertrages genannten Gebiet  (Altschuldenhilfe-Gesetz)
+% Ausfertigungsdatum: 23.06.1993
  
-
-## § 1 – Zweck der Altschuldenhilfen
+# § 1 – Zweck der Altschuldenhilfen
 
 Den in diesem Gesetz bezeichneten Wohnungsunternehmen und privaten Vermietern mit Wohnraum in dem in Artikel 3 des Einigungsvertrages genannten Gebiet werden zur angemessenen Bewirtschaftung des Wohnungsbestandes, insbesondere zur Verbesserung der Kredit- und Investitionsfähigkeit, auf Antrag Altschuldenhilfen (§§ 4 und 7) gewährt. Damit werden gleichzeitig die Voraussetzungen für die Privatisierung und Bildung individuellen Wohneigentums für Mieter verbessert.
 
-
-## § 2 – Antragberechtigte
+# § 2 – Antragberechtigte
 
 (1) Antragberechtigte sind:
 
@@ -25,8 +21,7 @@ Die Antragberechtigten müssen die Altverbindlichkeiten gegenüber der kreditgeb
 
 (2) Soweit ein Antragsteller Leistungen nach diesem Gesetz in Anspruch genommen hat, ist eine Rückforderung des Schuldanerkenntnisses entsprechend den Vorschriften des Bürgerlichen Gesetzbuches über die Herausgabe einer ungerechtfertigten Bereicherung ausgeschlossen.
 
-
-## § 3 – Altverbindlichkeiten
+# § 3 – Altverbindlichkeiten
 
 (1) Altverbindlichkeiten sind die Verpflichtungen der in § 2 Abs. 1 bezeichneten Wohnungsunternehmen und privaten Vermieter aus Krediten für Wohnungen, deren höchstzulässiger Mietzins sich aus § 11 Abs. 2 und 3 des Miethöhegesetzes in der bis zum 10. Juni 1995 geltenden Fassung ergibt und bei denen die Kredite
 
@@ -38,8 +33,7 @@ Als Altverbindlichkeiten gelten auch die von den Förderinstituten der Länder n
 
 (2) Zu den Altverbindlichkeiten gehören auch die den Wohnungsunternehmen bis zum 31. Dezember 1993 gestundeten Zinsen und Bürgschaftsgebühren.
 
-
-## § 4 – Teilentlastung
+# § 4 – Teilentlastung
 
 (1) Auf Antrag des Wohnungsunternehmens übernimmt der Erblastentilgungsfonds ab dem 1. Juli 1995 eine Schuld in Höhe eines Teils der am 1. Januar 1994 bestehenden Altverbindlichkeiten des Wohnungsunternehmens mit befreiender Wirkung gegenüber dem bisherigen Gläubiger. Sind mehrere Gläubiger vorhanden, so hat der Erblastentilgungsfonds zuerst die Verbindlichkeiten gegenüber den Gläubigern der in § 3 Abs. 1 Satz 1 Nr. 2 und Satz 2 genannten Kredite unter Berücksichtigung des in Absatz 2 Satz 1 genannten Höchstbetrages zu übernehmen. Der Teilentlastungsbetrag besteht aus den Altverbindlichkeiten, die am 1. Januar 1994 einen Betrag von 150 Deutsche Mark, multipliziert mit der Quadratmeterzahl der nach dem Stand vom 1. Januar 1993 beim Wohnungsunternehmen vorhandenen gesamten Wohnfläche, übersteigen. Als Wohnfläche ist die Fläche zugrunde zu legen, für die sich der höchstzulässige Mietzins aus § 11 Abs. 2 und 3 des Miethöhegesetzes in der bis zum 10. Juni 1995 geltenden Fassung ergibt. Soweit bei Mieterhöhungen nach der Ersten und Zweiten Grundmietenverordnung bei der Wohnflächenberechnung die §§ 42 und 44 der Zweiten Berechnungsverordnung zugrunde gelegt worden sind, bestimmt sich die Wohnfläche nach diesen Vorschriften. Wohnfläche von Wohnungen, die nach dem 1. Januar 1993 an deren Mieter oder an private Investoren veräußert und deren zugehörige Altverbindlichkeiten vor dem 1. Januar 1994 getilgt wurden, wird nicht berücksichtigt. Altverbindlichkeiten des Wohnungsunternehmens werden insoweit berücksichtigt, als sie sich auf die in den Sätzen 4 und 5 bezeichnete Wohnfläche beziehen.
 
@@ -67,8 +61,7 @@ Zur Erfüllung der in Satz 1 enthaltenen Verpflichtungen hat das Wohnungsunterne
 
 (9) Privaten Vermietern kann eine Teilentlastung unter den Voraussetzungen des Absatzes 1 gewährt werden, wenn die Belastung mit Altverbindlichkeiten nach dem 30. Juni 1995 zu einer erheblichen Beeinträchtigung der Wirtschaftlichkeit des Hausbesitzes führen würde.
 
-
-## § 5 – Privatisierungs- und Veräußerungspflicht, Abführung von Erlösen
+# § 5 – Privatisierungs- und Veräußerungspflicht, Abführung von Erlösen
 
 (1) Das Wohnungsunternehmen hat mindestens 15 vom Hundert seines zahlenmäßigen Wohnungsbestandes mit mindestens 15 vom Hundert seiner Wohnfläche nach dem Stand vom 1. Januar 1993 bis 31. Dezember 1999 zu privatisieren oder im Falle der Wohnungsgenossenschaften zu veräußern; dabei sind die Mieter zur Bildung individuellen Wohneigentums vorrangig zu berücksichtigen. Der Veräußerung steht es gleich, wenn nach dem 31. Dezember 1996 Erbbaurechte oder Wohnungserbbaurechte nach § 30 des Wohnungseigentumsgesetzes mit einer Dauer von mindestens 75 Jahren begründet und übertragen werden. Privatisierungen und Veräußerungen ab dem 3. Oktober 1990 sind anzurechnen. Bei der Bestimmung des nach Satz 1 zu privatisierenden oder zu veräußernden Wohnungsbestandes werden Wohnungen, die nach dem Vermögensgesetz rückgegeben worden sind oder rückübertragen werden, nicht berücksichtigt.
 
@@ -102,18 +95,15 @@ c) auf das sich ein Sonderungs- oder Zuordnungsplanenentwurf bezieht, der die Vo
 
 (4) Die Verpflichtung zur Privatisierung nach Artikel 22 Abs. 4 des Einigungsvertrages bleibt unberührt.
 
-
-## § 6 – Steuern vom Einkommen und Ertrag
+# § 6 – Steuern vom Einkommen und Ertrag
 
 Erhöhungen des Betriebsvermögens, die durch eine Teilentlastung im Sinne des § 4 oder durch eine zusätzliche Entlastung im Sinne des § 6a entstehen, sind von der Einkommensteuer, Körperschaftsteuer und Gewerbesteuer befreit. Minderungen des Betriebsvermögens, die durch Aufhebung der Teilentlastung nach § 4 Abs. 4 oder 7 oder nach § 5 Abs. 3 oder durch die Pflicht zur Abführung von Erlösen nach § 5 Abs. 2 entstehen, bleiben bei der Einkommensteuer, Körperschaftsteuer und Gewerbesteuer außer Ansatz.
 
-
-## § 6a – Ermächtigung zum Erlass von Vorschriften über zusätzliche Entlastung (Härtefallregelung)
+# § 6a – Ermächtigung zum Erlass von Vorschriften über zusätzliche Entlastung (Härtefallregelung)
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die näheren Voraussetzungen für eine zusätzliche Entlastung von Altverbindlichkeiten und hierauf beruhender Verbindlichkeiten für Wohnungsunternehmen nach § 2 Abs. 1 Nr. 1 und 3 festzulegen, die infolge erheblichen dauerhaften Leerstandes in ihrer wirtschaftlichen Existenz gefährdet sind und Altschuldenhilfe nach § 4 oder § 7 erhalten haben. Die Entlastung berechnet sich nach dem Umfang der Wohnraumverminderung, der im Rahmen eines tragfähigen Sanierungskonzeptes für das Unternehmen erreicht wird. Voraussetzung für die Gewährung ist, dass sich das Land an dem Sanierungskonzept in mindestens der Höhe der Entlastung durch den Bund beteiligt.
 
-
-## § 7 – Zinshilfe
+# § 7 – Zinshilfe
 
 (1) Auf Antrag wird dem Wohnungsunternehmen oder dem privaten Vermieter für die auf Altverbindlichkeiten für die Zeit vom 1. Januar 1994 bis 30. Juni 1995 zu zahlenden Zinsen, soweit diese die marktübliche Höhe nicht übersteigen, in voller Höhe eine Zinshilfe gewährt. Berechnungsgrundlage sind die der Wohnfläche des Unternehmens oder des privaten Vermieters nach § 4 Abs. 1 zuzuordnenden Altverbindlichkeiten.
 
@@ -121,23 +111,19 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die näheren Voraus
 
 (3) Erlangen private Vermieter die Verfügungsbefugnis über die Wohnung nach dem 1. Januar 1994, beschränkt sich der Anspruch auf Zinshilfe auf den Zeitraum, in dem ihre Verfügungsbefugnis besteht.
 
-
-## § 8 – Kostentragung
+# § 8 – Kostentragung
 
 Der Bund und die in Artikel 1 Abs. 1 des Einigungsvertrages genannten Länder sowie das Land Berlin tragen jeweils die Hälfte der Kosten der Zinshilfe.
 
-
-## § 9 – Antrag
+# § 9 – Antrag
 
 Die Anträge auf Teilentlastung nach § 4 und auf Zahlung einer Zinshilfe nach § 7 sind bei der kreditgebenden Bank spätestens bis zum 31. Dezember 1993 zu stellen.
 
-
-## § 10 – Auskunftspflicht
+# § 10 – Auskunftspflicht
 
 Wenn und soweit die Durchführung dieses Gesetzes es erfordert, sind Wohnungsunternehmen, private Vermieter oder deren Beauftragte sowie die kreditgebende Bank verpflichtet, der nach § 11 Abs. 1 für Entscheidungen zuständigen Stelle auf Verlangen Auskunft über die für die Gewährung von Leistungen nach diesem Gesetz maßgeblichen Umstände zu erteilen und Einsicht in ihre Unterlagen zu gewähren sowie die Besichtigung von Grundstücken, Gebäuden und Wohnungen zu gestatten.
 
-
-## § 11 – Entscheidungen
+# § 11 – Entscheidungen
 
 (1) Der Bund entscheidet über Anträge auf Leistungen sowie über Erstattungsansprüche und die Abführung von Erlösen nach den §§ 4, 5 und 6a. Er überträgt diese Befugnis auf die Kreditanstalt für Wiederaufbau. Die Entscheidung ist dem Antragsteller durch schriftlichen Bescheid mitzuteilen.
 
@@ -145,8 +131,7 @@ Wenn und soweit die Durchführung dieses Gesetzes es erfordert, sind Wohnungsunt
 
 (3) Zur Wahrung einer einheitlichen Prüfungs- und Verfahrenspraxis für Leistungen nach § 4 wird ein Lenkungsausschuß gebildet. Dieser spricht Empfehlungen aus. Die Mitglieder des Lenkungsausschusses werden vom Bund und den Ländern im Einvernehmen bestellt.
 
-
-## § 12 – Ermächtigung
+# § 12 – Ermächtigung
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über Einzelheiten der Ermittlung der Höhe des Teilentlastungsbetrages nach § 4, der Zinshilfe nach § 7, der Abführung von Erlösen nach § 5 sowie der Anordnung und Festsetzung von Erstattungsansprüchen nach § 4 Abs. 7 und § 5 Abs. 3 zu erlassen.
 
@@ -162,7 +147,6 @@ Wenn und soweit die Durchführung dieses Gesetzes es erfordert, sind Wohnungsunt
 
 Den Belegungsbindungen unterliegen nicht die nach § 5 privatisierten oder veräußerten und die nach dem Vermögensgesetz rückgegebenen oder rückübertragenen Wohnungen.
 
-
-## § 13 – Überleitungsvorschrift zum Wohnraumförderungsgesetz
+# § 13 – Überleitungsvorschrift zum Wohnraumförderungsgesetz
 
 Die Länder werden ermächtigt, ihre auf Grund des § 12 Abs. 2 Satz 1 und 2 Nr. 3 und 4 erlassenen Vorschriften an § 3 Abs. 2 Satz 3 und die §§ 9 und 20 bis 33 des Wohnraumförderungsgesetzes anzupassen.

@@ -1,15 +1,11 @@
-# [KultgSchKonvG] Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten
-
-Ausfertigungsdatum: 11.04.1967
-
+% Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten
+% Ausfertigungsdatum: 11.04.1967
  
-
-## Art 1
+# Art 1
 
 Der in Den Haag am 14. Mai 1954 von der Bundesrepublik Deutschland unterzeichneten Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten nebst Protokoll wird zugestimmt. Die Konvention und das Protokoll werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Die Länder führen dieses Gesetz im Auftrag des Bundes aus, soweit nicht in den Absätzen 2 bis 6 etwas anderes bestimmt ist. Der Bundesminister des Innern, für Bau und Heimat übt in seinem Aufgabenbereich die Befugnisse aus, die der Bundesregierung nach Artikel 85 Abs. 4 des Grundgesetzes zustehen. Er kann diese Befugnisse sowie seine Weisungsbefugnisse nach Artikel 85 Abs. 3 des Grundgesetzes ganz oder teilweise auf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen. Allgemeine Verwaltungsvorschriften erläßt der Bundesminister des Innern, für Bau und Heimat mit Zustimmung des Bundesrates.
 
@@ -35,13 +31,11 @@ b) die Verbreitung des Wortlauts der Konvention und ihrer Ausführungsbestimmung
 
 (6) Die Ausführung des Artikels 5 der Konvention und des Protokolls wird besonders geregelt.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt, wobei die Rechte und die Verantwortlichkeiten der alliierten Behörden, vor allem die ihnen zustehenden Befugnisse hinsichtlich der Aufrechterhaltung der Sicherheit von Berlin und insbesondere auf militärischem Gebiet, unberührt bleiben.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tage nach seiner Verkündung in Kraft; Artikel 2 tritt an dem Tage in Kraft, an dem die Konvention für die Bundesrepublik Deutschland in Kraft tritt.
 

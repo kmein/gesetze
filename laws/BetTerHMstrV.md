@@ -1,20 +1,15 @@
-# [BetTerHMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Betonstein- und Terrazzohersteller-Handwerk  (Betonstein- und Terrazzoherstellermeisterverordnung - BetTerHMstrV)
-
-Ausfertigungsdatum: 16.02.2021
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Betonstein- und Terrazzohersteller-Handwerk  (Betonstein- und Terrazzoherstellermeisterverordnung - BetTerHMstrV)
+% Ausfertigungsdatum: 16.02.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBI. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild, die in der Prüfung in den Teilen I und II der Meisterprüfung zu stellenden Anforderungen sowie die spezifischen Verfahrensregelungen im Betonstein- und Terrazzohersteller-Handwerk.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 In den Teilen I und II der Meisterprüfung im Betonstein- und Terrazzohersteller-Handwerk hat der Prüfling die berufliche Handlungskompetenzen nachzuweisen, die sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse beziehen. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
@@ -106,15 +101,13 @@ m) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 12. erbrachte Leistungen kontrollieren, Mängel beseitigen, Leistungen dokumentieren und übergeben sowie Nachkalkulationen durchführen, Auftragsabwicklung auswerten und Abnahmeprotokolle erstellen.
 
-
-## § 3 – Ziel und Gliederung der Prüfung in Teil I
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er dabei Tätigkeiten des Betonstein- und Terrazzohersteller-Handwerks meisterhaft verrichtet.
 
 (2) Die Prüfung in Teil I gliedert sich in ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5. Das Meisterprüfungsprojekt und das Fachgespräch bilden einen Prüfungsbereich.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
@@ -146,8 +139,7 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 3. die Kontroll- und Dokumentationsarbeiten anhand der Dokumentationsunterlagen mit 20 Prozent.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -161,8 +153,7 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-
-## § 6 – Gewichtung, Bestehen der Prüfung in Teil I
+# § 6 – Gewichtung, Bestehen der Prüfung in Teil I
 
 (1) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Für das Gesamtergebnis der Prüfung in Teil I der Meisterprüfung ist die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 zu gewichten.
 
@@ -172,8 +163,7 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-
-## § 7 – Ziel und Gliederung der Prüfung in Teil II
+# § 7 – Ziel und Gliederung der Prüfung in Teil II
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die besonderen fachtheoretischen Kenntnisse im Betonstein- und Terrazzohersteller-Handwerk anwenden kann. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
@@ -189,8 +179,7 @@ Die Planungsarbeiten bestehen aus einem Entwurf, statischen Berechnungen und ein
 
 (4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld 3 Stunden zur Verfügung. Eine Prüfungsdauer von 6 Stunden an einem Tag darf nicht überschritten werden.
 
-
-## § 8 – Handlungsfeld „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“
+# § 8 – Handlungsfeld „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines Betonstein- und Terrazzohersteller-Betriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Betonstein- und Terrazzohersteller-Betrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er ökologische, ökonomische Nachhaltigkeitsgesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll die in Absatz 2 Nummer 1 und 2 genannten Qualifikationen verknüpfen.
 
@@ -230,8 +219,7 @@ d) Angebotsunterlagen vorbereiten, Angebote erstellen und
 
 e) Angebotspositionen und Vertragsbedingungen gegenüber Kunden erläutern und begründen sowie Leistungen vereinbaren.
 
-
-## § 9 – Handlungsfeld „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“
+# § 9 – Handlungsfeld „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“
 
 (1) Im Handlungsfeld „Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erbringen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Betonstein- und Terrazzohersteller-Betriebs erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erbringen, zu kontrollieren und zu übergeben. Dabei hat er wirtschaftliche, ökologische und ressourceneffiziente Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
@@ -275,8 +263,7 @@ g) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung 
 
 h) Serviceleistungen anlässlich der Übergabe erläutern und bewerten.
 
-
-## § 10 – Handlungsfeld „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“
+# § 10 – Handlungsfeld „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“
 
 (1) Im Handlungsfeld „Einen Betonstein- und Terrazzohersteller-Betrieb führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Betonstein- und Terrazzohersteller-Betrieb unter Berücksichtigung der rechtlichen Vorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Die jeweilige Aufgabenstellung soll mehrere der in Absatz 2 genannten Qualifikationen verknüpfen.
 
@@ -340,8 +327,7 @@ e) Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage
 
 f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung logistischer Aspekte planen.
 
-
-## § 11 – Gewichtung, Bestehen der Prüfung in Teil II
+# § 11 – Gewichtung, Bestehen der Prüfung in Teil II
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung ist das arithmetische Mittel der Bewertungen der Handlungsfelder nach den §§ 8 bis 10 zu bilden.
 
@@ -355,21 +341,18 @@ f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung
 
 3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-
-## § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 13 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
 (1) Die bis zum Ablauf des 28. Februar 2021 begonnenen Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. August 2021, so sind auf Verlangen des Prüflings die bis zum Ablauf des 28. Februar 2021 geltenden Vorschriften weiter anzuwenden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 28. Februar 2021 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 28. Februar 2023 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 28. Februar 2021 geltenden Vorschriften ablegen.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. März 2021 in Kraft. Gleichzeitig tritt die Betonstein- und Terrazzoherstellermeisterverordnung vom 21. Januar 1993 (BGBl. I S. 87), die durch Artikel 2 der Verordnung vom 28. Februar 2020 (BGBl. I S. 246) geändert worden ist, außer Kraft.

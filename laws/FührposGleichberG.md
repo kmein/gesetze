@@ -1,22 +1,15 @@
-# [FührposGleichberG] Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
-
-Ausfertigungsdatum: 24.04.2015
-
+% Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+% Ausfertigungsdatum: 24.04.2015
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
+# Art 1 – Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien
 
+# Art 2 – Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes
 
-## Art 1 – Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien
+# Art 3 bis 22 – ----
 
-
-## Art 2 – Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes
-
-
-## Art 3 bis 22 – ----
-
-
-## Art 23 – Berichtswesen, Evaluation
+# Art 23 – Berichtswesen, Evaluation
 
 (1) Die Bundesregierung informiert jährlich über die Entwicklung des Frauen- und Männeranteils an Führungsebenen und in Gremien der Privatwirtschaft und des öffentlichen Dienstes. Grundlage der Berichterstattung sind die Daten nach § 6 Absatz 2 Satz 3 des Bundesgremienbesetzungsgesetzes, § 38 Absatz 2 und 3 Nummer 2 des Bundesgleichstellungsgesetzes, § 289f Absatz 2 Nummer 4 und 5, Absatz 3 und 4 und § 336 Absatz 2 Satz 1 des Handelsgesetzbuchs.
 
@@ -24,8 +17,7 @@ Ausfertigungsdatum: 24.04.2015
 
 (3) Die Bundesregierung evaluiert drei Jahre nach Inkrafttreten dieses Gesetzes nach Artikel 24 Absatz 2 Satz 1 dessen Wirksamkeit einschließlich des Erfüllungsaufwands.
 
-
-## Art 24 – Inkrafttreten, Außerkrafttreten
+# Art 24 – Inkrafttreten, Außerkrafttreten
 
 (1) Artikel 5 Nummer 2 und 3 sowie die Artikel 11, 13 und 14 treten am 1. Januar 2016 in Kraft.
 

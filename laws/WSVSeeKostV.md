@@ -1,10 +1,7 @@
-# [WSVSeeKostV] Kostenverordnung für Amtshandlungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt  (WSVSeeKostV)
-
-Ausfertigungsdatum: 22.09.2004
-
+% Kostenverordnung für Amtshandlungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt  (WSVSeeKostV)
+% Ausfertigungsdatum: 22.09.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau- und Wohnungswesen verordnet auf Grund
 
@@ -22,8 +19,7 @@ des § 2 Abs. 4 Nr. 3 des Ölschadengesetzes vom 30. September 1988 (BGBl. I S. 
 
 jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) im Einvernehmen mit dem Bundesministerium der Finanzen und auf Grund des § 32 Abs. 4 des Seesicherheits-Untersuchungs-Gesetzes vom 16. Juni 2002 (BGBl. I S. 1815, 1817) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt werden Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben. Betreffen individuell zurechenbare öffentliche Leistungen Schiffe oder schwimmende Geräte, die für Arbeiten beim Ausbau oder bei der Unterhaltung der Bundeswasserstraßen eingesetzt sind, werden Gebühren nicht erhoben. Dies gilt auch für den Umtausch und die Verlängerung von Patenten der nautischen Bediensteten der Wasserstraßen- und Schifffahrtsverwaltung, die im schifffahrtspolizeilichen Bereich tätig sind.
 
@@ -31,8 +27,7 @@ jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 
 (3) Erfordert eine individuell zurechenbare öffentliche Leistung ein Tätigwerden der Behörde außerhalb der Dienstzeit, so kann ein dem entstehenden Aufwand entsprechender Betrag bis zur Höhe der doppelten Gebühr erhoben werden.
 
-
-## § 2 – Allgemeine Gebührengrundsätze
+# § 2 – Allgemeine Gebührengrundsätze
 
 (1) Soweit im Gebührenverzeichnis Rahmengebühren vorgesehen sind, ist die im Einzelfall zu erhebende Gebühr nach Maßgabe des § 23 Absatz 4 Satz 2 und 3 des Bundesgebührengesetzes zu bemessen. Die Mindestgebühr ist nur dann zu erheben, wenn eine formularmäßige Bearbeitung möglich ist.
 
@@ -44,13 +39,11 @@ jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 
 (3) Werden Gebühren nach der Schiffsgröße erhoben, so ist die im amtlichen Schiffsmessbrief ausgewiesene Bruttoraumzahl (BRZ) zugrunde zu legen.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2004 in Kraft.
 
-
-## Anlage – (zu § 1 Abs 1)Gebührenverzeichnis
+# Anlage – (zu § 1 Abs 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2004, 2365 - 2372, 2804;  
 bezüglich einzelner Änderungen vgl. Fußnote)

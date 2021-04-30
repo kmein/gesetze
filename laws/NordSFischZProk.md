@@ -1,10 +1,7 @@
-# [NordSFischZProk] Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
-
-Ausfertigungsdatum: 21.12.1976
-
+% Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
+% Ausfertigungsdatum: 21.12.1976
  
-
-## ----
+# ----
 
 Im Seevölkerrecht bereiten sich tiefgreifende Änderungen vor. Dies wird vor allem auf der seit 1973 tagenden 3. Seerechtskonferenz der Vereinten Nationen sichtbar, deren Arbeiten noch nicht abgeschlossen sind. Unabhängig von der Konferenz sind jedoch zahlreiche Staaten, auch im Bereich des Nordatlantik, dazu übergegangen, schon jetzt und ohne die Konferenzergebnisse abzuwarten, einseitig Fischerei- oder Wirtschaftszonen von bis zu 200 Seemeilen Ausdehnung vor ihren Küsten in Anspruch zu nehmen. Die Fischereiinteressen der Bundesrepublik Deutschland wie auch anderer Mitgliedstaaten der Europäischen Gemeinschaften sind dadurch auf das schwerste bedroht.
 

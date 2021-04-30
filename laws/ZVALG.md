@@ -1,22 +1,17 @@
-# [ZVALG] Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft  (ZVALG)
-
-Ausfertigungsdatum: 31.07.1974
-
+% Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft  (ZVALG)
+% Ausfertigungsdatum: 31.07.1974
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) Die Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft (ZLA) ist eine bundesunmittelbare Anstalt des öffentlichen Rechts.
 
 (2) Die Aufsicht über die Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft führt das Bundesamt für Soziale Sicherung. Ihm obliegt auch die Genehmigung der Satzung.
 
-
-## § 2
+# § 2
 
 (1) Der Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft obliegt die Zahlung von Ausgleichsleistungen an Arbeitnehmer der Land- und Forstwirtschaft sowie die Durchführung anderer Aufgaben (§ 16 dieses Gesetzes).
 
@@ -26,13 +21,11 @@ a) gemischte Betriebe mit überwiegend landwirtschaftlichem, forstwirtschaftlich
 
 b) selbständige Nebenbetriebe und selbständige Betriebsabteilungen gewerblicher Unternehmen mit landwirtschaftlichem, forstwirtschaftlichem, wein-, obst- oder gemüsebaulichem Charakter.
 
-
-## § 3
+# § 3
 
 Organe der Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft sind die Vertreterversammlung, der Vorstand und der Geschäftsführer.
 
-
-## § 4
+# § 4
 
 (1) Die Vertreterversammlung setzt sich aus je neun Mitgliedern aus der Gruppe der Arbeitnehmer und der Arbeitgeber zusammen.
 
@@ -40,45 +33,37 @@ Organe der Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtsc
 
 (3)
 
-
-## § 5
+# § 5
 
 Der Vorstand besteht aus je drei Vertretern der Gruppen der Arbeitnehmer und der Arbeitgeber.
 
-
-## § 6
+# § 6
 
 Geschäftsführer der Zusatzversorgungskasse ist der Geschäftsführer der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. Hat die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau eine Geschäftsführung, benennt der Vorstand ein Mitglied der Geschäftsführung zum Geschäftsführer der Zusatzversorgungskasse.
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8
+# § 8
 
 Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums für Ernährung und Landwirtschaft, die nur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Arbeit und Soziales erteilt werden kann.
 
-
-## § 9
+# § 9
 
 Durch Verwaltungsvereinbarung kann geregelt werden, dass die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau Verwaltungsaufgaben der Zusatzversorgungskasse wahrnimmt. Die Verwaltungsvereinbarung hat die wahrzunehmenden Aufgaben zu bezeichnen und eine Regelung über die Erstattung der bei der Durchführung der wahrzunehmenden Aufgaben entstehenden Verwaltungskosten zu enthalten; sie bedarf der Genehmigung des Bundesministeriums für Ernährung und Landwirtschaft, die nur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Arbeit und Soziales erteilt werden kann. Die Verwaltungsvereinbarung ist in derselben Weise wie die Satzung der Zusatzversorgungskasse zu veröffentlichen.
 
-
-## § 10
+# § 10
 
 (1) Soweit dieses Gesetz nichts anderes vorschreibt, sind die für die landwirtschaftliche Unfallversicherung geltenden Vorschriften des Ersten, Vierten, Siebten und Zehnten Buches Sozialgesetzbuch sowie die auf Grund dieser Gesetze für die landwirtschaftliche Unfallversicherung erlassenen Rechtsverordnungen entsprechend anzuwenden. Die §§ 144 bis 147, 172c und 219a Abs. 2 bis 4 des Siebten Buches Sozialgesetzbuch gelten nicht. § 73 Absatz 2 Satz 1 und 5 des Vierten Buches Sozialgesetzbuch gilt mit der Maßgabe, dass an die Stelle der Aufsichtsbehörde das Bundesministerium für Ernährung und Landwirtschaft tritt.
 
 (2) Die Gerichte der Sozialgerichtsbarkeit entscheiden über öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses Gesetzes.
 
-
-## § 11
+# § 11
 
 Eine Ausgleichsleistung wird gewährt, wenn den landwirtschaftlichen Arbeitnehmern im Inland, die in der gesetzlichen Rentenversicherung versichert sind, sowie ihren Witwen und Witwern auf Grund tarifvertraglicher Vorschriften eine Anwartschaft oder ein Anspruch auf Beihilfe zu den Altersrenten, den Renten wegen Erwerbsunfähigkeit, den Renten wegen Erwerbsminderung oder den Renten wegen Todes aus der gesetzlichen Rentenversicherung gewährleistet ist oder nur deswegen nicht gewährleistet ist, weil eine Tarifgebundenheit nicht besteht; landwirtschaftliche Arbeitnehmer, deren Beschäftigungsverhältnis voraussichtlich nicht länger als sechs Monate dauert, können hiervon ausgenommen sein.
 
-
-## § 12
+# § 12
 
 (1) Die Ausgleichsleistung erhält, wer
 
@@ -130,27 +115,23 @@ c) die Ehe vor Vollendung des 65. Lebensjahres des landwirtschaftlichen Arbeitne
 
 (5) Bei Anwendung des Absatzes 1 Buchstabe b steht für Bezugszeiten vom 1. Juli 1985 an eine Rente wegen Berufsunfähigkeit einer Rente wegen Erwerbsunfähigkeit oder Erwerbsminderung gleich, wenn die Rente wegen Berufsunfähigkeit vor dem 1. Januar 1977 bewilligt wurde und der Bezieher dieser Rente nach deren Beginn bis zum Eintritt der Erwerbsunfähigkeit, der Erwerbsminderung oder dem Beginn einer Altersrente keine Pflichtbeiträge mehr zur gesetzlichen Rentenversicherung gezahlt hat oder eine selbständige Erwerbstätigkeit nicht ausgeübt hat.
 
-
-## § 13
+# § 13
 
 Die Kosten der Ausgleichsleistung einschließlich ihrer Verwaltungskosten trägt der Bund.
 
-
-## § 14
+# § 14
 
 (1) Der Monatsbetrag der Ausgleichsleistung beträgt für den verheirateten Berechtigten bis 30. Juni 2009 62 Euro und ab dem 1. Juli 2009 80 Euro und für den unverheirateten Berechtigten sechs Zehntel dieses Betrages. Haben beide Ehegatten Anspruch auf die Ausgleichsleistung, so erhält jeder Ehegatte die Ausgleichsleistung für den unverheirateten Berechtigten. Treffen mehrere Ausgleichsleistungen zusammen, so wird die Ausgleichsleistung nur einmal gewährt, und zwar, unter den Voraussetzungen des Absatzes 2, die höchste.
 
 (2) Die Ausgleichsleistung für Berechtigte, die nach dem 30. Juni 1972 als landwirtschaftliche Arbeitnehmer beschäftigt waren, sowie für ihre Witwen und Witwer ist zu kürzen. Die Ausgleichsleistung wird bei Beziehern einer Leistung für Verheiratete um den Betrag der tarifvertraglichen (§ 11) oder der entsprechenden privatrechtlichen Beihilfe, bei Beziehern einer Leistung für Unverheiratete um drei Fünftel der tarifvertraglichen Beihilfe gekürzt; bei der Berechnung der Kürzung einer Leistung nach § 12 Abs. 3 ist die tarifvertragliche Beihilfe zugrunde zu legen, die sich bei Bezug einer Rente wegen Alters oder verminderter Erwerbsfähigkeit ergäbe. Besteht Anspruch auf eine Ausgleichsleistung, ohne daß eine tarifvertragliche oder privatrechtliche Beihilfe gewährt wird, so ist die Ausgleichsleistung um den Betrag zu kürzen, der sich nach Satz 2 als Kürzung ergäbe, wenn Tarifgebundenheit bestanden hätte. Ist die tarifvertragliche Beihilfe abgefunden worden, so ist die Ausgleichsleistung um den Betrag zu kürzen, der sich ohne die Abfindung ergäbe. Besteht Anspruch auf eine entsprechende privatrechtliche Beihilfe, beträgt die Kürzung der monatlichen Ausgleichsleistung bei Berechtigten, die Anspruch auf die Ausgleichsleistung für den verheirateten Berechtigten haben, mindestens 1,30 Euro für jeweils zwölf Monate der Beschäftigung als landwirtschaftlicher Arbeitnehmer nach dem 30. Juni 1972, bei Berechtigten, die Anspruch auf die Ausgleichsleistung für den unverheirateten Berechtigten haben, mindestens drei Fünftel dieses Betrages.
 
-
-## § 14a
+# § 14a
 
 (1) Wird eine Ausgleichsleistung nur unter Berücksichtigung des § 12 Abs. 2b und 2c erbracht, ergibt sich bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der Bundesrepublik Deutschland der Monatsbetrag der Ausgleichsleistung durch Vervielfältigung des sich nach § 14 Abs. 1 ergebenden Betrages mit dem Verhältnis des nach dem Gesetz über die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwertes (Ost) zu dem nach dem Gesetz über die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwert.
 
 (2) Für die Kürzung der Ausgleichsleistung gilt § 14 Abs. 2 mit der Maßgabe, daß an die Stelle des 30. Juni 1972 der 30. Juni 1995 tritt. Bis zur Herstellung einheitlicher Einkommensverhältnisse im Gebiet der Bundesrepublik Deutschland ergibt sich der Mindestbetrag der Kürzung durch Vervielfältigung des sich aus § 14 Abs. 1 ergebenden Betrages mit dem Verhältnis des nach dem Gesetz über die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwertes (Ost) zu dem nach dem Gesetz über die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwert.
 
-
-## § 15
+# § 15
 
 (1) Die Ausgleichsleistung für Zeiten vom 1. Juli des Vorjahres bis zum 30. Juni des jeweils laufenden Jahres wird nachträglich in einer Summe ausgezahlt.
 
@@ -160,24 +141,20 @@ Die Kosten der Ausgleichsleistung einschließlich ihrer Verwaltungskosten trägt
 
 (4)
 
-
-## § 16
+# § 16
 
 (1) Die Zusatzversorgungskasse kann mit Genehmigung des Bundesministeriums für Ernährung und Landwirtschaft und des Bundesministeriums für Arbeit und Soziales die Aufgaben gemeinsamer Einrichtungen der Tarifvertragsparteien der Land- und Forstwirtschaft im Sinne des § 4 Abs. 2 des Tarifvertragsgesetzes, die eine Zusatzaltersversorgung für Arbeitnehmer der Land- und Forstwirtschaft zum Gegenstand haben, durchführen.
 
 (2) Soweit gemeinsame Einrichtungen zur Durchführung ihrer Aufgaben die Zusatzversorgungskasse in Anspruch nehmen, haben sie der Zusatzversorgungskasse die hierdurch entstehenden Verwaltungskosten zu erstatten.
 
-
-## § 17
-
-\-
-
-
-## § 18
+# § 17
 
 \-
 
+# § 18
 
-## § 19
+\-
+
+# § 19
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Ansprüche auf Ausgleichsleistung können ab 1. Juli 1973, für die in § 12 Abs. 2b genannten Personen ab 1. Juli 1995 entstehen.

@@ -1,25 +1,19 @@
-# [GtDBahnVDV] Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst – Fachrichtung Bahnwesen –  (GtDBahnVDV)
-
-Ausfertigungsdatum: 12.09.2014
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst – Fachrichtung Bahnwesen –  (GtDBahnVDV)
+% Ausfertigungsdatum: 12.09.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der Bundeslaufbahnverordnung, von denen § 10 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert worden ist, sowie in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Vorbereitungsdienst, Einstellungsvoraussetzung
+# § 1 – Vorbereitungsdienst, Einstellungsvoraussetzung
 
 (1) Der Vorbereitungsdienst für den gehobenen technischen Dienst – Fachrichtung Bahnwesen – ist eine einjährige berufspraktische Studienzeit, die mit der Laufbahnprüfung abschließt.
 
 (2) Voraussetzung für die Einstellung in den Vorbereitungsdienst ist der Nachweis der für die Laufbahnaufgaben erforderlichen wissenschaftlichen und methodischen Grundkenntnisse durch einen Bachelorabschluss oder einen gleichwertigen Abschluss.
 
-
-## § 2 – Ziele und Schwerpunkte
+# § 2 – Ziele und Schwerpunkte
 
 (1) Die berufspraktische Studienzeit vermittelt Kenntnisse und Fähigkeiten, die für eine vielseitige Verwendung im gehobenen technischen Dienst – Fachrichtung Bahnwesen – erforderlich sind. Die Anwärterinnen und Anwärter werden praxisorientiert mit den Aufgaben des Bahnwesens vertraut gemacht. Sie lernen, technische, wirtschaftliche und verwaltungsspezifische Zusammenhänge zu erkennen und das ihnen vermittelte Wissen entsprechend den technischen und wirtschaftlichen Erfordernissen anzuwenden. Darüber hinaus erlernen sie die erforderlichen rechtlichen Grundlagen sowie die erforderlichen Grundlagen der Volks- und Betriebswirtschaft, des Managements und der Mitarbeiterführung.
 
@@ -39,8 +33,7 @@ Der Schwerpunkt ergibt sich aus dem absolvierten Bachelorstudium oder dem gleich
 
 (3) Die Anwärterinnen und Anwärter sind zum Selbststudium verpflichtet.
 
-
-## § 3 – Einstellungsbehörde, Auswahlverfahren
+# § 3 – Einstellungsbehörde, Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das Eisenbahn-Bundesamt auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
@@ -62,20 +55,17 @@ Als Mitglieder können auch vergleichbare Tarifbeschäftigte bestellt werden, so
 
 (6) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass in allen Auswahlverfahren die gleichen Auswahlmaßstäbe angelegt werden.
 
-
-## § 4 – Nachteilsausgleich
+# § 4 – Nachteilsausgleich
 
 (1) Menschen mit Behinderung werden auf ihren Antrag im Auswahlverfahren, bei Leistungstests sowie in der Abschlussprüfung angemessene Erleichterungen gewährt. Art und Umfang der Erleichterungen sind mit ihnen und bei Schwerbehinderten und diesen gleichgestellten behinderten Menschen auch mit der Schwerbehindertenvertretung rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
 (2) Über die Gewährung von Erleichterungen im Auswahlverfahren entscheidet das Eisenbahn-Bundesamt, in den übrigen Fällen das Prüfungsamt.
 
-
-## § 5 – Erholungsurlaub
+# § 5 – Erholungsurlaub
 
 Erholungsurlaub wird in Absprache mit der Ausbildungsleiterin oder dem Ausbildungsleiter gewährt.
 
-
-## § 6 – Bewertung der Leistungen
+# § 6 – Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt bewertet:
 
@@ -225,8 +215,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (2) Durchschnittsrangpunktzahlen und die Rangpunktzahl der Laufbahnprüfung (§ 21 Absatz 1) werden auf zwei Nachkommastellen ohne Auf- oder Abrundung berechnet.
 
-
-## § 7 – Allgemeines
+# § 7 – Allgemeines
 
 (1) Den Anwärterinnen und Anwärtern werden in Praktika und Lehrveranstaltungen die Fachkenntnisse und Fähigkeiten vermittelt, die über die Kenntnisse nach § 1 Absatz 2 hinaus für die Erfüllung der Aufgaben im gehobenen technischen Dienst – Fachrichtung Bahnwesen – erforderlich sind. Die Anwärterinnen und Anwärter lernen, ihre Kenntnisse in der Praxis anzuwenden.
 
@@ -234,8 +223,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Für die Gestaltung, Durchführung und Überwachung der berufspraktischen Studienzeit ist das Eisenbahn-Bundesamt zuständig.
 
-
-## § 8 – Ausbildungsleitung, Ausbildende
+# § 8 – Ausbildungsleitung, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner Persönlichkeit geeignet ist.
 
@@ -243,15 +231,13 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die Ausbildungsleiterin oder der Ausbildungsleiter wird von Ausbildenden unterstützt. Die Ausbildenden informieren die Ausbildungsleiterin oder den Ausbildungsleiter regelmäßig über den Ausbildungsstand. Den Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet.
 
-
-## § 9 – Ausbildungsrahmenplan, Ausbildungsplan
+# § 9 – Ausbildungsrahmenplan, Ausbildungsplan
 
 (1) Das Eisenbahn-Bundesamt erstellt für jeden Ausbildungsschwerpunkt einen Ausbildungsrahmenplan, der insbesondere die Ausbildungsinhalte, die Ausbildungsziele und die Dauer der Ausbildungsabschnitte bestimmt.
 
 (2) Auf der Grundlage des Ausbildungsrahmenplans erstellt die Ausbildungsleiterin oder der Ausbildungsleiter für jede Anwärterin und jeden Anwärter einen individuellen Ausbildungsplan für die gesamte Ausbildung und gibt ihn der Anwärterin oder dem Anwärter bekannt. Der jeweilige Ausbildungsplan enthält die Ausbildungsstellen sowie die Abfolge und die Zeiträume der einzelnen Ausbildungsabschnitte.
 
-
-## § 10 – Dienstliche Bewertung
+# § 10 – Dienstliche Bewertung
 
 (1) Am Ende jedes Ausbildungsabschnitts von mindestens einem Monat Dauer erstellt die Ausbildungsleiterin oder der Ausbildungsleiter auf Vorschlag der Ausbildenden für die Anwärterin oder den Anwärter eine dienstliche Bewertung.
 
@@ -265,8 +251,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die Anwärterin oder der Anwärter erhält eine Ausfertigung der Bewertung. Die Bewertung ist mit ihr oder ihm zu besprechen.
 
-
-## § 11 – Leistungstests
+# § 11 – Leistungstests
 
 (1) Während der berufspraktischen Studienzeit sind drei Leistungstests durchzuführen, die mindestens eine Woche vorher anzukündigen sind. Ein Leistungstest kann sein:
 
@@ -284,23 +269,19 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Bei Fernbleiben oder Rücktritt von einem Leistungstest sowie bei Täuschung oder sonstigem Ordnungsverstoß gelten die §§ 18 und 19 entsprechend mit der Maßgabe, dass über die Folgen das Prüfungsamt entscheidet.
 
-
-## § 12 – Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
+# § 12 – Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
 
 Über den Erfolg der berufspraktischen Studienzeit erstellt das Eisenbahn-Bundesamt ein zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der Leistungstests und der dienstlichen Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl (Ausbildungsrangpunktzahl) anzugeben sind. Die Anwärterin oder der Anwärter erhält eine Ausfertigung des Zeugnisses.
 
-
-## § 13 – Bestandteile
+# § 13 – Bestandteile
 
 Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Abschlussprüfung.
 
-
-## § 14 – Prüfungsamt
+# § 14 – Prüfungsamt
 
 Das Eisenbahn-Bundesamt richtet ein Prüfungsamt ein, das die Laufbahnprüfung organisiert. Die oberste Dienstbehörde kann die Organisation der Laufbahnprüfung einer anderen Bundesbehörde übertragen.
 
-
-## § 15 – Prüfungskommission, Prüfende
+# § 15 – Prüfungskommission, Prüfende
 
 (1) Für die Durchführung der Laufbahnprüfung richtet das Prüfungsamt eine oder mehrere Prüfungskommissionen ein. Für die schriftliche und die mündliche Abschlussprüfung können gesonderte Prüfungskommissionen eingerichtet werden. Das Prüfungsamt stellt sicher, dass alle Prüfungskommissionen die gleichen Bewertungsmaßstäbe anlegen.
 
@@ -320,8 +301,7 @@ Die Prüfungskommission kann um bis zu drei Mitglieder erweitert werden, wenn di
 
 (6) Zur Bewertung der schriftlichen Abschlussprüfung bestimmt das Prüfungsamt für jede Klausur eine Erstprüfende oder einen Erstprüfenden und eine Zweitprüfende oder einen Zweitprüfenden.
 
-
-## § 16 – Schriftliche Abschlussprüfung
+# § 16 – Schriftliche Abschlussprüfung
 
 (1) Die schriftliche Abschlussprüfung besteht aus je einer Klausur in folgenden Fächern:
 
@@ -353,8 +333,7 @@ e) im Schwerpunkt Technik des Eisenbahnbetriebes und Sicherheitsmanagement: Tech
 
 (7) Die schriftliche Abschlussprüfung ist bestanden, wenn mindestens zwei Klausuren mit mindestens fünf Rangpunkten bewertet worden sind. Das Prüfungsamt teilt den Anwärterinnen und Anwärtern auf Antrag mit, wie viele Rangpunkte sie in ihren Klausuren erreicht haben.
 
-
-## § 17 – Mündliche Abschlussprüfung
+# § 17 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen, wer die schriftliche Abschlussprüfung bestanden hat. Wird eine Anwärterin oder ein Anwärter nicht zugelassen, ist ihr oder ihm die Nichtzulassung schriftlich mitzuteilen.
 
@@ -374,8 +353,7 @@ e) im Schwerpunkt Technik des Eisenbahnbetriebes und Sicherheitsmanagement: Tech
 
 (9) Im Anschluss an die mündliche Abschlussprüfung teilt die oder der Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die Ergebnisse mit und erläutert die Bewertungen auf Verlangen kurz mündlich.
 
-
-## § 18 – Fernbleiben, Rücktritt
+# § 18 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen oder mündlichen Abschlussprüfung oder einem einzelnen Prüfungsteil ohne Genehmigung des Prüfungsamtes gilt die betreffende Prüfung oder der Prüfungsteil als mit null Rangpunkten bewertet.
 
@@ -383,8 +361,7 @@ e) im Schwerpunkt Technik des Eisenbahnbetriebes und Sicherheitsmanagement: Tech
 
 (3) Das Prüfungsamt bestimmt, wann die schriftliche oder mündliche Abschlussprüfung oder der Prüfungsteil nachgeholt wird; es entscheidet, inwieweit die bereits erbrachten Prüfungsleistungen gewertet werden.
 
-
-## § 19 – Täuschung, Ordnungsverstoß
+# § 19 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen und Anwärtern, die bei der Laufbahnprüfung täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder der Prüfungskommission nach Absatz 2 gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der gesamten Laufbahnprüfung ausgeschlossen werden.
 
@@ -394,15 +371,13 @@ e) im Schwerpunkt Technik des Eisenbahnbetriebes und Sicherheitsmanagement: Tech
 
 (4) Die Betroffenen sind vor der Entscheidung nach Absatz 2 oder Absatz 3 anzuhören.
 
-
-## § 20 – Wiederholung von Abschlussprüfungen
+# § 20 – Wiederholung von Abschlussprüfungen
 
 (1) Anwärterinnen und Anwärter, die die schriftliche oder mündliche Abschlussprüfung nicht bestanden haben, können die betreffende Prüfung einmal wiederholen. In begründeten Fällen kann die oberste Dienstbehörde eine zweite Wiederholung zulassen.
 
 (2) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 21 – Bestehen der Laufbahnprüfung
+# § 21 – Bestehen der Laufbahnprüfung
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest. Die Rangpunktzahl der Laufbahnprüfung wird aus der Ausbildungsrangpunktzahl sowie der in der schriftlichen und in der mündlichen Abschlussprüfung jeweils erreichten Durchschnittsrangpunktzahl errechnet; dabei sind die Ausbildungsrangpunktzahl und die Durchschnittsrangpunktzahlen wie folgt zu gewichten:
 
@@ -421,8 +396,7 @@ der mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 26 Proz
 
 (2) Die Laufbahnprüfung ist bestanden, wenn die Rangpunktzahl der Laufbahnprüfung mindestens 5 beträgt. Ist die Laufbahnprüfung bestanden, wird die erreichte Rangpunktzahl kaufmännisch auf eine ganze Zahl gerundet.
 
-
-## § 22 – Abschlusszeugnis, Bescheid bei Nichtbestehen
+# § 22 – Abschlusszeugnis, Bescheid bei Nichtbestehen
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis. Das Abschlusszeugnis enthält:
 
@@ -436,8 +410,7 @@ der mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 26 Proz
 
 (2) Wer die Laufbahnprüfung nicht bestanden hat, erhält einen Bescheid über die nicht bestandene Laufbahnprüfung und eine Bescheinigung über die erbrachten Ausbildungsleistungen. Aus der Bescheinigung geht hervor, wie lange die Ausbildung gedauert hat, welche Inhalte sie umfasst hat und wie viele Rangpunkte erreicht worden sind.
 
-
-## § 23 – Prüfungsakte, Einsichtnahme
+# § 23 – Prüfungsakte, Einsichtnahme
 
 (1) Zu jeder Anwärterin und jedem Anwärter führt das Prüfungsamt eine Prüfungsakte. Darin aufzunehmen sind:
 
@@ -453,12 +426,10 @@ Die Prüfungsakte wird nach dem Tag der mündlichen Abschlussprüfung mindestens
 
 (2) Nach Bekanntgabe des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung ist der Anwärterin oder dem Anwärter auf Antrag Einsicht in ihre oder seine Prüfungsakte zu gewähren. Die Einsichtnahme ist in der Akte zu vermerken.
 
-
-## § 24 – Übergangsvorschrift
+# § 24 – Übergangsvorschrift
 
 Für Anwärterinnen und Anwärter, die vor dem 1. Oktober 2014 mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Dienst – Fachrichtung Bahnwesen – vom 21. November 2002 (BGBl. I S. 4438), die zuletzt durch Artikel 3 Absatz 34 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 
-
-## § 25 – Inkrafttreten, Außerkrafttreten
+# § 25 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Dienst – Fachrichtung Bahnwesen – vom 21. November 2002 (BGBl. I S. 4438), die zuletzt durch Artikel 3 Absatz 34 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.

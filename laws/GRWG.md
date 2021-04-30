@@ -1,15 +1,11 @@
-# [GRWG] Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen Wirtschaftsstruktur"  (GRW-Gesetz - GRWG)
-
-Ausfertigungsdatum: 06.10.1969
-
+% Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen Wirtschaftsstruktur"  (GRW-Gesetz - GRWG)
+% Ausfertigungsdatum: 06.10.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Gemeinschaftsaufgabe
+# § 1 – Gemeinschaftsaufgabe
 
 (1) Zur Verbesserung der regionalen Wirtschaftsstruktur werden folgende Maßnahmen als Gemeinschaftsaufgabe im Sinne des Artikels 91a Abs. 1 des Grundgesetzes wahrgenommen:
 
@@ -25,8 +21,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Einzelne Maßnahmen werden auch außerhalb der vorstehend genannten Gebiete gefördert, wenn sie in einem unmittelbaren Zusammenhang mit geförderten Projekten innerhalb benachbarter Fördergebiete stehen.
 
-
-## § 2 – Allgemeine Grundsätze
+# § 2 – Allgemeine Grundsätze
 
 (1) Die Förderung der in § 1 Abs. 1 genannten Maßnahmen muß mit den Grundsätzen der allgemeinen Wirtschaftspolitik und mit den Zielen und Erfordernissen der Raumordnung und Landesplanung übereinstimmen. Die Förderung soll sich auf räumliche und sachliche Schwerpunkte konzentrieren. Sie ist mit anderen öffentlichen Entwicklungsvorhaben abzustimmen.
 
@@ -52,13 +47,11 @@ c) die ergänzenden Landesmaßnahmen nicht anderweitig aus Bundes- oder Landesmi
 
 (4a) (weggefallen)
 
-
-## § 3 – Förderungsarten
+# § 3 – Förderungsarten
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und Bürgschaften bestehen.
 
-
-## § 4 – Gemeinsamer Koordinierungsrahmen für die regionale Wirtschaftsförderung
+# § 4 – Gemeinsamer Koordinierungsrahmen für die regionale Wirtschaftsförderung
 
 (1) Für die Erfüllung der Gemeinschaftsaufgabe wird ein gemeinsamer Koordinierungsrahmen für die regionale Wirtschaftsförderung aufgestellt.
 
@@ -78,8 +71,7 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und 
 
 6. Berichtswesen, Evaluierung und statistische Auswertungen.
 
-
-## § 5 – Koordinierungsausschuss
+# § 5 – Koordinierungsausschuss
 
 (1) Für die Beschlussfassung über den gemeinsamen Koordinierungsrahmen und Anpassungen nach § 4 Abs. 2 und 3 bilden die Bundesregierung und die Landesregierungen einen Koordinierungsausschuss. Ihm gehören der Bundesminister für Wirtschaft und Energie als Vorsitzender sowie der Bundesminister der Finanzen und ein Minister (Senator) jedes Landes an; jedes Mitglied kann sich vertreten lassen. Die Stimmenzahl des Bundes entspricht der Zahl aller Länder. Jedes Land hat eine Stimme.
 
@@ -87,8 +79,7 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und 
 
 (3) Der Koordinierungsausschuss gibt sich eine Geschäftsordnung.
 
-
-## § 6 – Durchführung und Unterrichtung
+# § 6 – Durchführung und Unterrichtung
 
 (1) Die Durchführung der Maßnahmen des gemeinsamen Koordinierungsrahmens ist Aufgabe der Länder.
 
@@ -96,8 +87,7 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und 
 
 (3) Der Vorsitzende des Koordinierungsausschusses unterrichtet den Deutschen Bundestag über die Durchführung des gemeinsamen Koordinierungsrahmens und den allgemeinen Stand der Gemeinschaftsaufgabe.
 
-
-## § 7 – Finanzierung
+# § 7 – Finanzierung
 
 (1) Der Bund trägt vorbehaltlich der Bestimmung des Artikels 91a Abs. 3 des Grundgesetzes die Hälfte der Ausgaben in jedem Land.
 
@@ -107,8 +97,7 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und 
 
 (4) Die Länder können zusätzlich eigene Mittel nach Maßgabe des gemeinsamen Koordinierungsrahmens einsetzen.
 
-
-## § 8 – Rückzahlung und Verzinsung der Bundesmittel
+# § 8 – Rückzahlung und Verzinsung der Bundesmittel
 
 (1) Beträge, die vom Zuwendungsempfänger zur Tilgung und Verzinsung erhaltener Darlehen oder zum Ausgleich der auf Grund übernommener Bürgschaften erstatteten Ausfälle gezahlt werden, sind vom Land anteilig an den Bund abzuführen.
 
@@ -118,10 +107,8 @@ Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und 
 
 (4) Die an den Bund nach den vorstehenden Absätzen abzuführenden Beträge sind vom Land in Höhe von 3,5 Prozentpunkten über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen, im Falle des Absatzes 2 vom Zeitpunkt der Auszahlung der Bundesmittel an, im Falle der Absätze 1 und 3 ab dem 31. Tag nach Eingang des Betrages beim Land.
 
+# §§ 12 und 13 – (weggefallen)
 
-## §§ 12 und 13 – (weggefallen)
-
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.

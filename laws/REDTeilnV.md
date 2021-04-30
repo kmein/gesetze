@@ -1,10 +1,7 @@
-# [REDTeilnV] Verordnung über die Benennung weiterer zur Teilnahme an der Rechtsextremismus-Datei berechtigter Polizeivollzugsbehörden
-
-Ausfertigungsdatum: 11.03.2015
-
+% Verordnung über die Benennung weiterer zur Teilnahme an der Rechtsextremismus-Datei berechtigter Polizeivollzugsbehörden
+% Ausfertigungsdatum: 11.03.2015
  
-
-## § 1 – Weitere Polizeivollzugsbehörden des Landes Bayern
+# § 1 – Weitere Polizeivollzugsbehörden des Landes Bayern
 
 Als weitere Polizeivollzugsbehörden des Landes Bayern sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
@@ -58,8 +55,7 @@ Operativer Staatsschutz
 Frankfurter Straße 79  
 97082 Würzburg
 
-
-## § 2 – Weitere Polizeivollzugsbehörde des Landes Brandenburg
+# § 2 – Weitere Polizeivollzugsbehörde des Landes Brandenburg
 
 Als weitere Polizeivollzugsbehörde des Landes Brandenburg ist zum Zugriff auf die Rechtsextremismus-Datei berechtigt:  
   
@@ -68,8 +64,7 @@ Behördenstab, Stabsbereich Einsatz- und Lagezentrum
 Kaiser-Friedrich-Straße 143  
 14469 Potsdam
 
-
-## § 3 – Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz
+# § 3 – Weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz
 
 Als weitere Polizeivollzugsbehörden des Landes Rheinland-Pfalz sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
@@ -93,8 +88,7 @@ Logenstraße 5
 Wittelsbachstraße 3  
 67061 Ludwigshafen
 
-
-## § 4 – Weitere Polizeivollzugsbehörden des Landes Sachsen
+# § 4 – Weitere Polizeivollzugsbehörden des Landes Sachsen
 
 Als weitere Polizeivollzugsbehörden des Landes Sachsen sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 
@@ -118,8 +112,7 @@ Dimitroffstraße 1
 Lessingstraße 17 – 21  
 08058 Zwickau
 
-
-## § 5 – Weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt
+# § 5 – Weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt
 
 Als weitere Polizeivollzugsbehörden des Landes Sachsen-Anhalt sind zum Zugriff auf die Rechtsextremismus-Datei berechtigt:
 

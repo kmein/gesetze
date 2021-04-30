@@ -1,10 +1,7 @@
-# [SGB 5] Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)
-
-Ausfertigungsdatum: 20.12.1988
-
+% Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)
+% Ausfertigungsdatum: 20.12.1988
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erstes Kapitel
 
@@ -568,13 +565,11 @@ Weitere Übergangsvorschriften .......
 
 Inhaltsübersicht: IdF d. Art. 1 Nr. 0 Buchst. a u. b G v. 14.12.2019 I 2789 mWv 1.1.2020 u. d. Art. 1b Nr. 1 G v. 4.3.2020 I 437 mWv 1.1.2020; (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. a G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++); (+++ Änderungsanweisung durch Art. 5 Nr. 1 Buchst. b G v. 12.6.2020 I 1248 mWv 24.6.2020 wegen textlicher Unstimmigkeit nicht ausführbar, wurde sinngemäß konsolidiert +++); idF d. Art. 1 Nr. 1 Buchst. a, b u. d G v. 14.10.2020 I 2115 mWv 20.10.2020; (+++ Änderungsanweisung d. Art. 1 Nr. 1 Buchst. c G v. 14.10.2020 I 2115 mWv 20.10.2020 wurde sinngemäß konsolidiert); im Übrigen entsprechend den bei den einzelnen Vorschriften ausgewiesenen Änderungen fortgeschrieben
 
-
-## § 1 – Solidarität und Eigenverantwortung
+# § 1 – Solidarität und Eigenverantwortung
 
 Die Krankenversicherung als Solidargemeinschaft hat die Aufgabe, die Gesundheit der Versicherten zu erhalten, wiederherzustellen oder ihren Gesundheitszustand zu bessern. Das umfasst auch die Förderung der gesundheitlichen Eigenkompetenz und Eigenverantwortung der Versicherten. Die Versicherten sind für ihre Gesundheit mitverantwortlich; sie sollen durch eine gesundheitsbewußte Lebensführung, durch frühzeitige Beteiligung an gesundheitlichen Vorsorgemaßnahmen sowie durch aktive Mitwirkung an Krankenbehandlung und Rehabilitation dazu beitragen, den Eintritt von Krankheit und Behinderung zu vermeiden oder ihre Folgen zu überwinden. Die Krankenkassen haben den Versicherten dabei durch Aufklärung, Beratung und Leistungen zu helfen und auf gesunde Lebensverhältnisse hinzuwirken.
 
-
-## § 2 – Leistungen
+# § 2 – Leistungen
 
 (1) Die Krankenkassen stellen den Versicherten die im Dritten Kapitel genannten Leistungen unter Beachtung des Wirtschaftlichkeitsgebots (§ 12) zur Verfügung, soweit diese Leistungen nicht der Eigenverantwortung der Versicherten zugerechnet werden. Behandlungsmethoden, Arznei- und Heilmittel der besonderen Therapierichtungen sind nicht ausgeschlossen. Qualität und Wirksamkeit der Leistungen haben dem allgemein anerkannten Stand der medizinischen Erkenntnisse zu entsprechen und den medizinischen Fortschritt zu berücksichtigen.
 
@@ -586,23 +581,19 @@ Die Krankenversicherung als Solidargemeinschaft hat die Aufgabe, die Gesundheit 
 
 (4) Krankenkassen, Leistungserbringer und Versicherte haben darauf zu achten, daß die Leistungen wirksam und wirtschaftlich erbracht und nur im notwendigen Umfang in Anspruch genommen werden.
 
-
-## § 2a – Leistungen an behinderte und chronisch kranke Menschen
+# § 2a – Leistungen an behinderte und chronisch kranke Menschen
 
 Den besonderen Belangen behinderter und chronisch kranker Menschen ist Rechnung zu tragen.
 
-
-## § 2b – Geschlechtsspezifische Besonderheiten
+# § 2b – Geschlechtsspezifische Besonderheiten
 
 Bei den Leistungen der Krankenkassen ist geschlechtsspezifischen Besonderheiten Rechnung zu tragen.
 
-
-## § 3 – Solidarische Finanzierung
+# § 3 – Solidarische Finanzierung
 
 Die Leistungen und sonstigen Ausgaben der Krankenkassen werden durch Beiträge finanziert. Dazu entrichten die Mitglieder und die Arbeitgeber Beiträge, die sich in der Regel nach den beitragspflichtigen Einnahmen der Mitglieder richten. Für versicherte Familienangehörige werden Beiträge nicht erhoben.
 
-
-## § 4 – Krankenkassen
+# § 4 – Krankenkassen
 
 (1) Die Krankenkassen sind rechtsfähige Körperschaften des öffentlichen Rechts mit Selbstverwaltung.
 
@@ -623,8 +614,7 @@ Ersatzkassen.
 
 (6) (weggefallen)
 
-
-## § 4a – Wettbewerb der Krankenkassen, Verordnungsermächtigung
+# § 4a – Wettbewerb der Krankenkassen, Verordnungsermächtigung
 
 (1) Der Wettbewerb der Krankenkassen dient dem Ziel, das Leistungsangebot und die Qualität der Leistungen zu verbessern sowie die Wirtschaftlichkeit der Versorgung zu erhöhen. Dieser Wettbewerb muss unter Berücksichtigung der Finanzierung der Krankenkassen durch Beiträge und des sozialen Auftrags der Krankenkassen angemessen sein. Maßnahmen, die der Risikoselektion dienen oder diese unmittelbar oder mittelbar fördern, sind unzulässig.
 
@@ -652,13 +642,11 @@ Das Bundesministerium für Gesundheit kann die Ermächtigung nach Satz 1 durch R
 
 (7) Krankenkassen können von anderen Krankenkassen die Beseitigung und Unterlassung unzulässiger Maßnahmen verlangen, die geeignet sind, ihre Interessen im Wettbewerb zu beeinträchtigen. Die zur Geltendmachung des Anspruchs berechtigte Krankenkasse soll die Schuldnerin vor der Einleitung eines gerichtlichen Verfahrens abmahnen und ihr Gelegenheit geben, den Streit durch Abgabe einer mit einer angemessenen Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen. Soweit die Abmahnung berechtigt ist, kann die Abmahnende von der Abgemahnten Ersatz der erforderlichen Aufwendungen verlangen. Zur Sicherung der Ansprüche nach Satz 1 können einstweilige Anordnungen auch ohne die Darlegung und Glaubhaftmachung der in § 86b Absatz 2 Satz 1 und 2 des Sozialgerichtsgesetzes bezeichneten Voraussetzungen erlassen werden. Ist auf Grund von Satz 1 Klage auf Unterlassung erhoben worden, so kann das Gericht der obsiegenden Partei die Befugnis zusprechen, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse dartut. Art und Umfang der Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt, wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der Rechtskraft Gebrauch gemacht worden ist. Der Ausspruch nach Satz 5 ist nicht vorläufig vollstreckbar.
 
-
-## § 4b – Sonderregelungen zum Verwaltungsverfahren
+# § 4b – Sonderregelungen zum Verwaltungsverfahren
 
 Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§ 266, 267, 269 und 287a durch Landesrecht sind ausgeschlossen.
 
-
-## § 5 – Versicherungspflicht
+# § 5 – Versicherungspflicht
 
 (1) Versicherungspflichtig sind
 
@@ -666,8 +654,7 @@ Abweichungen von den Regelungen des Verwaltungsverfahrens gemäß den §§ 266, 
 
 2. Personen in der Zeit, für die sie Arbeitslosengeld nach dem Dritten Buch beziehen oder nur deshalb nicht beziehen, weil der Anspruch wegen einer Sperrzeit (§ 159 des Dritten Buches) oder wegen einer Urlaubsabgeltung (§ 157 Absatz 2 des Dritten Buches) ruht; dies gilt auch, wenn die Entscheidung, die zum Bezug der Leistung geführt hat, rückwirkend aufgehoben oder die Leistung zurückgefordert oder zurückgezahlt worden ist,
 
-2a.  
-Personen in der Zeit, für die sie Arbeitslosengeld II nach dem Zweiten Buch beziehen, es sei denn, dass diese Leistung nur darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches bezogen werden; dies gilt auch, wenn die Entscheidung, die zum Bezug der Leistung geführt hat, rückwirkend aufgehoben oder die Leistung zurückgefordert oder zurückgezahlt worden ist,
+2a. Personen in der Zeit, für die sie Arbeitslosengeld II nach dem Zweiten Buch beziehen, es sei denn, dass diese Leistung nur darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3 Satz 1 des Zweiten Buches bezogen werden; dies gilt auch, wenn die Entscheidung, die zum Bezug der Leistung geführt hat, rückwirkend aufgehoben oder die Leistung zurückgefordert oder zurückgezahlt worden ist,
 
 3. Landwirte, ihre mitarbeitenden Familienangehörigen und Altenteiler nach näherer Bestimmung des Zweiten Gesetzes über die Krankenversicherung der Landwirte,
 
@@ -687,11 +674,9 @@ Personen in der Zeit, für die sie Arbeitslosengeld II nach dem Zweiten Buch bez
 
 11. Personen, die die Voraussetzungen für den Anspruch auf eine Rente aus der gesetzlichen Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie seit der erstmaligen Aufnahme einer Erwerbstätigkeit bis zur Stellung des Rentenantrags mindestens neun Zehntel der zweiten Hälfte des Zeitraums Mitglied oder nach § 10 versichert waren,
 
-11a.  
-Personen, die eine selbständige künstlerische oder publizistische Tätigkeit vor dem 1. Januar 1983 aufgenommen haben, die Voraussetzungen für den Anspruch auf eine Rente aus der Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie mindestens neun Zehntel des Zeitraums zwischen dem 1. Januar 1985 und der Stellung des Rentenantrags nach dem Künstlersozialversicherungsgesetz in der gesetzlichen Krankenversicherung versichert waren; für Personen, die am 3. Oktober 1990 ihren Wohnsitz im Beitrittsgebiet hatten, ist anstelle des 1. Januar 1985 der 1. Januar 1992 maßgebend,
+11a. Personen, die eine selbständige künstlerische oder publizistische Tätigkeit vor dem 1. Januar 1983 aufgenommen haben, die Voraussetzungen für den Anspruch auf eine Rente aus der Rentenversicherung erfüllen und diese Rente beantragt haben, wenn sie mindestens neun Zehntel des Zeitraums zwischen dem 1. Januar 1985 und der Stellung des Rentenantrags nach dem Künstlersozialversicherungsgesetz in der gesetzlichen Krankenversicherung versichert waren; für Personen, die am 3. Oktober 1990 ihren Wohnsitz im Beitrittsgebiet hatten, ist anstelle des 1. Januar 1985 der 1. Januar 1992 maßgebend,
 
-11b.  
-Personen, die die Voraussetzungen für den Anspruch
+11b. Personen, die die Voraussetzungen für den Anspruch
 
 a) auf eine Waisenrente nach § 48 des Sechsten Buches oder
 
@@ -745,15 +730,13 @@ Als zu ihrer Berufsausbildung Beschäftigte im Sinne des Absatzes 1 Nr. 1 gelten
 
 (11) Ausländer, die nicht Angehörige eines Mitgliedstaates der Europäischen Union, Angehörige eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, werden von der Versicherungspflicht nach Absatz 1 Nr. 13 erfasst, wenn sie eine Niederlassungserlaubnis oder eine Aufenthaltserlaubnis mit einer Befristung auf mehr als zwölf Monate nach dem Aufenthaltsgesetz besitzen und für die Erteilung dieser Aufenthaltstitel keine Verpflichtung zur Sicherung des Lebensunterhalts nach § 5 Abs. 1 Nr. 1 des Aufenthaltsgesetzes besteht. Angehörige eines anderen Mitgliedstaates der Europäischen Union, Angehörige eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz werden von der Versicherungspflicht nach Absatz 1 Nr. 13 nicht erfasst, wenn die Voraussetzung für die Wohnortnahme in Deutschland die Existenz eines Krankenversicherungsschutzes nach § 4 des Freizügigkeitsgesetzes/EU ist. Bei Leistungsberechtigten nach dem Asylbewerberleistungsgesetz liegt eine Absicherung im Krankheitsfall bereits dann vor, wenn ein Anspruch auf Leistungen bei Krankheit, Schwangerschaft und Geburt nach § 4 des Asylbewerberleistungsgesetzes dem Grunde nach besteht.
 
-
-## § 6 – Versicherungsfreiheit
+# § 6 – Versicherungsfreiheit
 
 (1) Versicherungsfrei sind
 
 1. Arbeiter und Angestellte, deren regelmäßiges Jahresarbeitsentgelt die Jahresarbeitsentgeltgrenze nach den Absätzen 6 oder 7 übersteigt; Zuschläge, die mit Rücksicht auf den Familienstand gezahlt werden, bleiben unberücksichtigt,
 
-1a.  
-nicht-deutsche Besatzungsmitglieder deutscher Seeschiffe, die ihren Wohnsitz oder gewöhnlichen Aufenthalt nicht in einem Mitgliedstaat der Europäischen Union, einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz haben,
+1a. nicht-deutsche Besatzungsmitglieder deutscher Seeschiffe, die ihren Wohnsitz oder gewöhnlichen Aufenthalt nicht in einem Mitgliedstaat der Europäischen Union, einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz haben,
 
 2. Beamte, Richter, Soldaten auf Zeit sowie Berufssoldaten der Bundeswehr und sonstige Beschäftigte des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde, von öffentlich-rechtlichen Körperschaften, Anstalten, Stiftungen oder Verbänden öffentlich-rechtlicher Körperschaften oder deren Spitzenverbänden, wenn sie nach beamtenrechtlichen Vorschriften oder Grundsätzen bei Krankheit Anspruch auf Fortzahlung der Bezüge und auf Beihilfe oder Heilfürsorge haben,
 
@@ -789,8 +772,7 @@ nicht-deutsche Besatzungsmitglieder deutscher Seeschiffe, die ihren Wohnsitz ode
 
 (+++ Hinweis: Jahresarbeitsentgeltgrenzen nach § 6 Abs. 6 Satz 4 u. § 6 Abs. 7 Satz 1 vgl. jeweilige Sozialversicherungs-Rechengrößenverordnung +++)
 
-
-## § 7 – Versicherungsfreiheit bei geringfügiger Beschäftigung
+# § 7 – Versicherungsfreiheit bei geringfügiger Beschäftigung
 
 (1) Wer eine geringfügige Beschäftigung nach §§ 8, 8a des Vierten Buches ausübt, ist in dieser Beschäftigung versicherungsfrei; dies gilt nicht für eine Beschäftigung
 
@@ -806,20 +788,17 @@ nicht-deutsche Besatzungsmitglieder deutscher Seeschiffe, die ihren Wohnsitz ode
 
 (3) (weggefallen)
 
-
-## § 8 – Befreiung von der Versicherungspflicht
+# § 8 – Befreiung von der Versicherungspflicht
 
 (1) Auf Antrag wird von der Versicherungspflicht befreit, wer versicherungspflichtig wird
 
 1. wegen Änderung der Jahresarbeitsentgeltgrenze nach § 6 Abs. 6 Satz 2 oder Abs. 7,
 
-1a.  
-durch den Bezug von Arbeitslosengeld oder Unterhaltsgeld (§ 5 Abs. 1 Nr. 2) und in den letzten fünf Jahren vor dem Leistungsbezug nicht gesetzlich krankenversichert war, wenn er bei einem Krankenversicherungsunternehmen versichert ist und Vertragsleistungen erhält, die der Art und dem Umfang nach den Leistungen dieses Buches entsprechen,
+1a. durch den Bezug von Arbeitslosengeld oder Unterhaltsgeld (§ 5 Abs. 1 Nr. 2) und in den letzten fünf Jahren vor dem Leistungsbezug nicht gesetzlich krankenversichert war, wenn er bei einem Krankenversicherungsunternehmen versichert ist und Vertragsleistungen erhält, die der Art und dem Umfang nach den Leistungen dieses Buches entsprechen,
 
 2. durch Aufnahme einer nicht vollen Erwerbstätigkeit nach § 2 des Bundeserziehungsgeldgesetzes oder nach § 1 Abs. 6 des Bundeselterngeld- und Elternzeitgesetzes während der Elternzeit; die Befreiung erstreckt sich nur auf die Elternzeit,
 
-2a.  
-durch Herabsetzung der regelmäßigen Wochenarbeitszeit während einer Freistellung nach § 3 des Pflegezeitgesetzes oder der Familienpflegezeit nach § 2 des Familienpflegezeitgesetzes; die Befreiung erstreckt sich nur auf die Dauer einer Freistellung oder die Dauer der Familienpflegezeit,
+2a. durch Herabsetzung der regelmäßigen Wochenarbeitszeit während einer Freistellung nach § 3 des Pflegezeitgesetzes oder der Familienpflegezeit nach § 2 des Familienpflegezeitgesetzes; die Befreiung erstreckt sich nur auf die Dauer einer Freistellung oder die Dauer der Familienpflegezeit,
 
 3. weil seine Arbeitszeit auf die Hälfte oder weniger als die Hälfte der regelmäßigen Wochenarbeitszeit vergleichbarer Vollbeschäftigter des Betriebes herabgesetzt wird; dies gilt auch für Beschäftigte, die im Anschluß an ihr bisheriges Beschäftigungsverhältnis bei einem anderen Arbeitgeber ein Beschäftigungsverhältnis aufnehmen, das die Voraussetzungen des vorstehenden Halbsatzes erfüllt, sowie für Beschäftigte, die im Anschluss an die Zeiten des Bezugs von Elterngeld oder der Inanspruchnahme von Elternzeit oder einer Freistellung nach § 3 des Pflegezeitgesetzes oder § 2 des Familienpflegezeitgesetzes ein Beschäftigungsverhältnis im Sinne des ersten Teilsatzes aufnehmen, das bei Vollbeschäftigung zur Versicherungsfreiheit nach § 6 Absatz 1 Nummer 1 führen würde; Voraussetzung ist ferner, daß der Beschäftigte seit mindestens fünf Jahren wegen Überschreitens der Jahresarbeitsentgeltgrenze versicherungsfrei ist; Zeiten des Bezugs von Erziehungsgeld oder Elterngeld oder der Inanspruchnahme von Elternzeit oder einer Freistellung nach § 3 des Pflegezeitgesetzes oder § 2 des Familienpflegezeitgesetzes werden angerechnet,
 
@@ -837,8 +816,7 @@ Das Recht auf Befreiung setzt nicht voraus, dass der Antragsteller erstmals vers
 
 (3) Personen, die am 31. Dezember 2014 von der Versicherungspflicht nach Absatz 1 Nummer 2a befreit waren, bleiben auch für die Dauer der Nachpflegephase nach § 3 Absatz 1 Nummer 1 Buchstabe c des Familienpflegezeitgesetzes in der am 31. Dezember 2014 geltenden Fassung befreit. Bei Anwendung des Absatzes 1 Nummer 3 steht der Freistellung nach § 2 des Familienpflegezeitgesetzes die Nachpflegephase nach § 3 Absatz 1 Nummer 1 Buchstabe c des Familienpflegezeitgesetzes in der am 31. Dezember 2014 geltenden Fassung gleich.
 
-
-## § 9 – Freiwillige Versicherung
+# § 9 – Freiwillige Versicherung
 
 (1) Der Versicherung können beitreten
 
@@ -876,8 +854,7 @@ Für die Berechnung der Vorversicherungszeiten nach Satz 1 Nr. 1 gelten 360 Tage
 
 (3) Kann zum Zeitpunkt des Beitritts zur gesetzlichen Krankenversicherung nach Absatz 1 Nr. 7 eine Bescheinigung nach § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes nicht vorgelegt werden, reicht als vorläufiger Nachweis der vom Bundesverwaltungsamt im Verteilungsverfahren nach § 8 Abs. 1 des Bundesvertriebenengesetzes ausgestellte Registrierschein und die Bestätigung der für die Ausstellung einer Bescheinigung nach § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes zuständigen Behörde, dass die Ausstellung dieser Bescheinigung beantragt wurde.
 
-
-## § 10 – Familienversicherung
+# § 10 – Familienversicherung
 
 (1) Versichert sind der Ehegatte, der Lebenspartner und die Kinder von Mitgliedern sowie die Kinder von familienversicherten Kindern, wenn diese Familienangehörigen
 
@@ -911,8 +888,7 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 (6) Das Mitglied hat die nach den Absätzen 1 bis 4 Versicherten mit den für die Durchführung der Familienversicherung notwendigen Angaben sowie die Änderung dieser Angaben an die zuständige Krankenkasse zu melden. Der Spitzenverband Bund der Krankenkassen legt für die Meldung nach Satz 1 ein einheitliches Verfahren und einheitliche Meldevordrucke fest.
 
-
-## § 11 – Leistungsarten
+# § 11 – Leistungsarten
 
 (1) Versicherte haben nach den folgenden Vorschriften Anspruch auf Leistungen
 
@@ -936,8 +912,7 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche vom Gemeinsamen Bundesausschuss nicht ausgeschlossene Leistungen in der fachlich gebotenen Qualität im Bereich der medizinischen Vorsorge und Rehabilitation (§§ 23, 40), der Leistungen von Hebammen bei Schwangerschaft und Mutterschaft (§ 24d), der künstlichen Befruchtung (§ 27a), der zahnärztlichen Behandlung ohne die Versorgung mit Zahnersatz (§ 28 Absatz 2), bei der Versorgung mit nicht verschreibungspflichtigen apothekenpflichtigen Arzneimitteln (§ 34 Absatz 1 Satz 1), mit Heilmitteln (§ 32), mit Hilfsmitteln (§ 33) und mit digitalen Gesundheitsanwendungen (§ 33a), im Bereich der häuslichen Krankenpflege (§ 37) und der Haushaltshilfe (§ 38) sowie Leistungen von nicht zugelassenen Leistungserbringern vorsehen. Die Satzung muss insbesondere die Art, die Dauer und den Umfang der Leistung bestimmen; sie hat hinreichende Anforderungen an die Qualität der Leistungserbringung zu regeln. Die zusätzlichen Leistungen sind von den Krankenkassen in ihrer Rechnungslegung gesondert auszuweisen.
 
-
-## § 12 – Wirtschaftlichkeitsgebot
+# § 12 – Wirtschaftlichkeitsgebot
 
 (1) Die Leistungen müssen ausreichend, zweckmäßig und wirtschaftlich sein; sie dürfen das Maß des Notwendigen nicht überschreiten. Leistungen, die nicht notwendig oder unwirtschaftlich sind, können Versicherte nicht beanspruchen, dürfen die Leistungserbringer nicht bewirken und die Krankenkassen nicht bewilligen.
 
@@ -945,8 +920,7 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 (3) Hat die Krankenkasse Leistungen ohne Rechtsgrundlage oder entgegen geltendem Recht erbracht und hat ein Vorstandsmitglied hiervon gewußt oder hätte es hiervon wissen müssen, hat die zuständige Aufsichtsbehörde nach Anhörung des Vorstandsmitglieds den Verwaltungsrat zu veranlassen, das Vorstandsmitglied auf Ersatz des aus der Pflichtverletzung entstandenen Schadens in Anspruch zu nehmen, falls der Verwaltungsrat das Regreßverfahren nicht bereits von sich aus eingeleitet hat.
 
-
-## § 13 – Kostenerstattung
+# § 13 – Kostenerstattung
 
 (1) Die Krankenkasse darf anstelle der Sach- oder Dienstleistung (§ 2 Abs. 2) Kosten nur erstatten, soweit es dieses oder das Neunte Buch vorsieht.
 
@@ -962,15 +936,13 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 (6) § 18 Abs. 1 Satz 2 und Abs. 2 gilt in den Fällen der Absätze 4 und 5 entsprechend.
 
-
-## § 14 – Teilkostenerstattung
+# § 14 – Teilkostenerstattung
 
 (1) Die Satzung kann für Angestellte und Versorgungsempfänger der Krankenkassen und ihrer Verbände, für die eine Dienstordnung nach § 351 der Reichsversicherungsordnung gilt, und für Beamte, die in einer Betriebskrankenkasse oder in der knappschaftlichen Krankenversicherung tätig sind, bestimmen, daß an die Stelle der nach diesem Buch vorgesehenen Leistungen ein Anspruch auf Teilkostenerstattung tritt. Sie hat die Höhe des Erstattungsanspruchs in Vomhundertsätzen festzulegen und das Nähere über die Durchführung des Erstattungsverfahrens zu regeln.
 
 (2) Die in Absatz 1 genannten Versicherten können sich jeweils im voraus für die Dauer von zwei Jahren für die Teilkostenerstattung nach Absatz 1 entscheiden. Die Entscheidung wirkt auch für ihre nach § 10 versicherten Angehörigen.
 
-
-## § 15 – Ärztliche Behandlung, elektronische Gesundheitskarte
+# § 15 – Ärztliche Behandlung, elektronische Gesundheitskarte
 
 (1) Ärztliche oder zahnärztliche Behandlung wird von Ärzten oder Zahnärzten erbracht, soweit nicht in Modellvorhaben nach § 63 Abs. 3c etwas anderes bestimmt ist. Sind Hilfeleistungen anderer Personen erforderlich, dürfen sie nur erbracht werden, wenn sie vom Arzt (Zahnarzt) angeordnet und von ihm verantwortet werden.
 
@@ -984,8 +956,7 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 (6) Jeder Versicherte erhält die elektronische Gesundheitskarte bei der erstmaligen Ausgabe und bei Beginn der Versicherung bei einer Krankenkasse sowie bei jeder weiteren, nicht vom Versicherten verschuldeten erneuten Ausgabe gebührenfrei. Die Krankenkassen haben einem Missbrauch der Karten durch geeignete Maßnahmen entgegenzuwirken. Muß die Karte auf Grund von vom Versicherten verschuldeten Gründen neu ausgestellt werden, kann eine Gebühr von 5 Euro erhoben werden; diese Gebühr ist auch von den nach § 10 Versicherten zu zahlen. Satz 3 gilt entsprechend, wenn die Karte aus vom Versicherten verschuldeten Gründen nicht ausgestellt werden kann und von der Krankenkasse eine zur Überbrückung von Übergangszeiten befristete Ersatzbescheinigung zum Nachweis der Berechtigung zur Inanspruchnahme von Leistungen ausgestellt wird. Die wiederholte Ausstellung einer Bescheinigung nach Satz 4 kommt nur in Betracht, wenn der Versicherte bei der Ausstellung der elektronischen Gesundheitskarte mitwirkt; hierauf ist der Versicherte bei der erstmaligen Ausstellung einer Ersatzbescheinigung hinzuweisen. Die Krankenkasse kann die Aushändigung der elektronischen Gesundheitskarte vom Vorliegen der Meldung nach § 10 Abs. 6 abhängig machen.
 
-
-## § 16 – Ruhen des Anspruchs
+# § 16 – Ruhen des Anspruchs
 
 (1) Der Anspruch auf Leistungen ruht, solange Versicherte
 
@@ -993,8 +964,7 @@ Eine hauptberufliche selbständige Tätigkeit im Sinne des Satzes 1 Nr. 4 ist ni
 
 2. Dienst auf Grund einer gesetzlichen Dienstpflicht oder Dienstleistungen und Übungen nach dem Vierten Abschnitt des Soldatengesetzes leisten,
 
-2a.  
-in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes stehen,
+2a. in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes stehen,
 
 3. nach dienstrechtlichen Vorschriften Anspruch auf Heilfürsorge haben oder als Entwicklungshelfer Entwicklungsdienst leisten,
 
@@ -1014,8 +984,7 @@ Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (5) (weggefallen)
 
-
-## § 17 – Leistungen bei Beschäftigung im Ausland
+# § 17 – Leistungen bei Beschäftigung im Ausland
 
 (1) Mitglieder, die im Ausland beschäftigt sind und während dieser Beschäftigung erkranken oder bei denen Leistungen bei Schwangerschaft oder Mutterschaft erforderlich sind, erhalten die ihnen nach diesem Kapitel zustehenden Leistungen von ihrem Arbeitgeber. Satz 1 gilt entsprechend für die nach § 10 versicherten Familienangehörigen, soweit sie das Mitglied für die Zeit dieser Beschäftigung begleiten oder besuchen.
 
@@ -1023,8 +992,7 @@ Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (3) Die zuständige Krankenkasse hat dem Reeder die Aufwendungen zu erstatten, die ihm nach § 104 Absatz 2 des Seearbeitsgesetzes entstanden sind.
 
-
-## § 18 – Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum
+# § 18 – Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Ist eine dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechende Behandlung einer Krankheit nur außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum möglich, kann die Krankenkasse die Kosten der erforderlichen Behandlung ganz oder teilweise übernehmen. Der Anspruch auf Krankengeld ruht in diesem Fall nicht.
 
@@ -1032,8 +1000,7 @@ Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (3) Ist während eines vorübergehenden Aufenthalts außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum eine Behandlung unverzüglich erforderlich, die auch im Inland möglich wäre, hat die Krankenkasse die Kosten der erforderlichen Behandlung insoweit zu übernehmen, als Versicherte sich hierfür wegen einer Vorerkrankung oder ihres Lebensalters nachweislich nicht versichern können und die Krankenkasse dies vor Beginn des Aufenthalts außerhalb des Geltungsbereichs des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über den Europäischen Wirtschaftsraum festgestellt hat. Die Kosten dürfen nur bis zu der Höhe, in der sie im Inland entstanden wären, und nur für längstens sechs Wochen im Kalenderjahr übernommen werden. Eine Kostenübernahme ist nicht zulässig, wenn Versicherte sich zur Behandlung ins Ausland begeben. Die Sätze 1 und 3 gelten entsprechend für Auslandsaufenthalte, die aus schulischen oder Studiengründen erforderlich sind; die Kosten dürfen nur bis zu der Höhe übernommen werden, in der sie im Inland entstanden wären.
 
-
-## § 19 – Erlöschen des Leistungsanspruchs
+# § 19 – Erlöschen des Leistungsanspruchs
 
 (1) Der Anspruch auf Leistungen erlischt mit dem Ende der Mitgliedschaft, soweit in diesem Gesetzbuch nichts Abweichendes bestimmt ist.
 
@@ -1043,8 +1010,7 @@ Satz 1 gilt nicht für den Anspruch auf Mutterschaftsgeld.
 
 (3) Endet die Mitgliedschaft durch Tod, erhalten die nach § 10 versicherten Angehörigen Leistungen längstens für einen Monat nach dem Tode des Mitglieds.
 
-
-## § 20 – Primäre Prävention und Gesundheitsförderung
+# § 20 – Primäre Prävention und Gesundheitsförderung
 
 (1) Die Krankenkasse sieht in der Satzung Leistungen zur Verhinderung und Verminderung von Krankheitsrisiken (primäre Prävention) sowie zur Förderung des selbstbestimmten gesundheitsorientierten Handelns der Versicherten (Gesundheitsförderung) vor. Die Leistungen sollen insbesondere zur Verminderung sozial bedingter sowie geschlechtsbezogener Ungleichheit von Gesundheitschancen beitragen. Die Krankenkasse legt dabei die Handlungsfelder und Kriterien nach Absatz 2 zugrunde.
 
@@ -1082,8 +1048,7 @@ Bei der Berücksichtigung des in Satz 1 Nummer 1 genannten Ziels werden auch die
 
 (6) Die Ausgaben der Krankenkassen für die Wahrnehmung ihrer Aufgaben nach dieser Vorschrift und nach den §§ 20a bis 20c sollen ab dem Jahr 2019 insgesamt für jeden ihrer Versicherten einen Betrag in Höhe von 7,52 Euro umfassen. Von diesem Betrag wenden die Krankenkassen für jeden ihrer Versicherten mindestens 2,15 Euro für Leistungen nach § 20a und mindestens 3,15 Euro für Leistungen nach § 20b auf. Von dem Betrag für Leistungen nach § 20b wenden die Krankenkassen für Leistungen nach § 20b, die in Einrichtungen nach § 107 Absatz 1 und in Einrichtungen nach § 71 Absatz 1 und 2 des Elften Buches erbracht werden, für jeden ihrer Versicherten mindestens 1 Euro auf. Unterschreiten die jährlichen Ausgaben einer Krankenkasse den Betrag nach Satz 2 für Leistungen nach § 20a, so stellt die Krankenkasse diese nicht ausgegebenen Mittel im Folgejahr zusätzlich für Leistungen nach § 20a zur Verfügung. Die Ausgaben nach den Sätzen 1 bis 3 sind in den Folgejahren entsprechend der prozentualen Veränderung der monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches anzupassen. Unbeschadet der Verpflichtung nach Absatz 1 müssen die Ausgaben der Krankenkassen für die Wahrnehmung ihrer Aufgaben nach dieser Vorschrift und nach den §§ 20a bis 20c im Jahr 2020 nicht den in den Sätzen 1 bis 3 genannten Beträgen entsprechen. Im Jahr 2019 nicht ausgegebene Mittel für Leistungen nach § 20a hat die Krankenkasse nicht im Jahr 2020 für zusätzliche Leistungen nach § 20a zur Verfügung zu stellen.
 
-
-## § 20a – Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten
+# § 20a – Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten
 
 (1) Lebenswelten im Sinne des § 20 Absatz 4 Nummer 2 sind für die Gesundheit bedeutsame, abgrenzbare soziale Systeme insbesondere des Wohnens, des Lernens, des Studierens, der medizinischen und pflegerischen Versorgung sowie der Freizeitgestaltung einschließlich des Sports. Die Krankenkassen fördern im Zusammenwirken mit dem öffentlichen Gesundheitsdienst unbeschadet der Aufgaben anderer auf der Grundlage von Rahmenvereinbarungen nach § 20f Absatz 1 mit Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten insbesondere den Aufbau und die Stärkung gesundheitsförderlicher Strukturen. Hierzu erheben sie unter Beteiligung der Versicherten und der für die Lebenswelt Verantwortlichen die gesundheitliche Situation einschließlich ihrer Risiken und Potenziale und entwickeln Vorschläge zur Verbesserung der gesundheitlichen Situation sowie zur Stärkung der gesundheitlichen Ressourcen und Fähigkeiten und unterstützen deren Umsetzung. Bei der Wahrnehmung ihrer Aufgaben nach Satz 2 sollen die Krankenkassen zusammenarbeiten und kassenübergreifende Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten erbringen. Bei der Erbringung von Leistungen für Personen, deren berufliche Eingliederung auf Grund gesundheitlicher Einschränkungen besonderes erschwert ist, arbeiten die Krankenkassen mit der Bundesagentur für Arbeit und mit den kommunalen Trägern der Grundsicherung für Arbeitsuchende eng zusammen.
 
@@ -1095,8 +1060,7 @@ Bei der Berücksichtigung des in Satz 1 Nummer 1 genannten Ziels werden auch die
 
 § 20a Abs. 1 Satz 5 Kursivdruck: Müßte richtig lauten "besonders"
 
-
-## § 20b – Betriebliche Gesundheitsförderung
+# § 20b – Betriebliche Gesundheitsförderung
 
 (1) Die Krankenkassen fördern mit Leistungen zur Gesundheitsförderung in Betrieben (betriebliche Gesundheitsförderung) insbesondere den Aufbau und die Stärkung gesundheitsförderlicher Strukturen. Hierzu erheben sie unter Beteiligung der Versicherten und der Verantwortlichen für den Betrieb sowie der Betriebsärzte und der Fachkräfte für Arbeitssicherheit die gesundheitliche Situation einschließlich ihrer Risiken und Potenziale und entwickeln Vorschläge zur Verbesserung der gesundheitlichen Situation sowie zur Stärkung der gesundheitlichen Ressourcen und Fähigkeiten und unterstützen deren Umsetzung. Für im Rahmen der Gesundheitsförderung in Betrieben erbrachte Leistungen zur individuellen, verhaltensbezogenen Prävention gilt § 20 Absatz 5 Satz 1 entsprechend.
 
@@ -1106,15 +1070,13 @@ Bei der Berücksichtigung des in Satz 1 Nummer 1 genannten Ziels werden auch die
 
 (4) Unterschreiten die jährlichen Ausgaben einer Krankenkasse den Betrag nach § 20 Absatz 6 Satz 2 für Leistungen nach Absatz 1, stellt die Krankenkasse die nicht verausgabten Mittel dem Spitzenverband Bund der Krankenkassen zur Verfügung. Dieser verteilt die Mittel nach einem von ihm festzulegenden Schlüssel auf die Landesverbände der Krankenkassen und die Ersatzkassen, die Kooperationsvereinbarungen mit örtlichen Unternehmensorganisationen nach Absatz 3 Satz 4 abgeschlossen haben. Die Mittel dienen der Umsetzung der Kooperationsvereinbarungen nach Absatz 3 Satz 4. Die Sätze 1 bis 3 sind bezogen auf Ausgaben einer Krankenkasse für Leistungen nach Absatz 1 im Jahr 2020 nicht anzuwenden.
 
-
-## § 20c – Prävention arbeitsbedingter Gesundheitsgefahren
+# § 20c – Prävention arbeitsbedingter Gesundheitsgefahren
 
 (1) Die Krankenkassen unterstützen die Träger der gesetzlichen Unfallversicherung bei ihren Aufgaben zur Verhütung arbeitsbedingter Gesundheitsgefahren. Insbesondere erbringen sie in Abstimmung mit den Trägern der gesetzlichen Unfallversicherung auf spezifische arbeitsbedingte Gesundheitsrisiken ausgerichtete Maßnahmen zur betrieblichen Gesundheitsförderung nach § 20b und informieren diese über die Erkenntnisse, die sie über Zusammenhänge zwischen Erkrankungen und Arbeitsbedingungen gewonnen haben. Ist anzunehmen, dass bei einem Versicherten eine berufsbedingte gesundheitliche Gefährdung oder eine Berufskrankheit vorliegt, hat die Krankenkasse dies unverzüglich den für den Arbeitsschutz zuständigen Stellen und dem Unfallversicherungsträger mitzuteilen.
 
 (2) Zur Wahrnehmung der Aufgaben nach Absatz 1 arbeiten die Krankenkassen eng mit den Trägern der gesetzlichen Unfallversicherung sowie mit den für den Arbeitsschutz zuständigen Landesbehörden zusammen. Dazu sollen sie und ihre Verbände insbesondere regionale Arbeitsgemeinschaften bilden. § 88 Abs. 1 Satz 1 und Abs. 2 des Zehnten Buches und § 219 gelten entsprechend.
 
-
-## § 20d – Nationale Präventionsstrategie
+# § 20d – Nationale Präventionsstrategie
 
 (1) Die Krankenkassen entwickeln im Interesse einer wirksamen und zielgerichteten Gesundheitsförderung und Prävention mit den Trägern der gesetzlichen Rentenversicherung, der gesetzlichen Unfallversicherung und den Pflegekassen eine gemeinsame nationale Präventionsstrategie und gewährleisten ihre Umsetzung und Fortschreibung im Rahmen der Nationalen Präventionskonferenz nach § 20e.
 
@@ -1128,15 +1090,13 @@ Bei der Berücksichtigung des in Satz 1 Nummer 1 genannten Ziels werden auch die
 
 (4) Die Nationale Präventionskonferenz erstellt den Präventionsbericht alle vier Jahre, erstmals zum 1. Juli 2019, und leitet ihn dem Bundesministerium für Gesundheit zu. Das Bundesministerium für Gesundheit legt den Bericht den gesetzgebenden Körperschaften des Bundes vor und fügt eine Stellungnahme der Bundesregierung bei. Der Bericht enthält insbesondere Angaben zu den Erfahrungen mit der Anwendung der §§ 20 bis 20g und zu den Ausgaben für die Leistungen der Träger nach Absatz 1 und im Fall des § 20e Absatz 1 Satz 3 bis 5 auch der Unternehmen der privaten Krankenversicherung und der Unternehmen, die die private Pflege-Pflichtversicherung durchführen, den Zugangswegen, den erreichten Personen, der Erreichung der gemeinsamen Ziele und der Zielgruppen, den Erfahrungen mit der Qualitätssicherung und der Zusammenarbeit bei der Durchführung von Leistungen sowie zu möglichen Schlussfolgerungen. Der Bericht enthält auch Empfehlungen für die weitere Entwicklung des in § 20 Absatz 6 Satz 1 bestimmten Ausgabenrichtwerts für Leistungen der Krankenkassen nach den §§ 20 bis 20c und der in § 20 Absatz 6 Satz 2 bestimmten Mindestwerte für Leistungen der Krankenkassen nach den §§ 20a und 20b. Die Leistungsträger nach Satz 3 erteilen der Nationalen Präventionskonferenz die für die Erstellung des Präventionsberichts erforderlichen Auskünfte. Das Robert Koch-Institut liefert für den Präventionsbericht die im Rahmen des Gesundheitsmonitorings erhobenen relevanten Informationen. Die Länder können regionale Erkenntnisse aus ihrer Gesundheitsberichterstattung für den Präventionsbericht zur Verfügung stellen.
 
-
-## § 20e – Nationale Präventionskonferenz
+# § 20e – Nationale Präventionskonferenz
 
 (1) Die Aufgabe der Entwicklung und Fortschreibung der nationalen Präventionsstrategie wird von der Nationalen Präventionskonferenz als Arbeitsgemeinschaft der gesetzlichen Spitzenorganisationen der Leistungsträger nach § 20d Absatz 1 mit je zwei Sitzen wahrgenommen. Die Leistungsträger nach § 20d Absatz 1 setzen die Präventionsstrategie in engem Zusammenwirken um. Im Fall einer angemessenen finanziellen Beteiligung der Unternehmen der privaten Krankenversicherung und der Unternehmen, die die private Pflege-Pflichtversicherung durchführen, an Programmen und Projekten im Sinne der Rahmenempfehlungen nach § 20d Absatz 2 Nummer 1 erhält der Verband der privaten Krankenversicherungsunternehmen e. V. ebenfalls einen Sitz. Die Höhe der hierfür jährlich von den Unternehmen der privaten Krankenversicherung zur Verfügung zu stellenden Mittel bemisst sich mindestens nach dem Betrag, den die Krankenkassen nach § 20 Absatz 6 Satz 2 und 3 für Leistungen zur Gesundheitsförderung und Prävention nach § 20a aufzuwenden haben, multipliziert mit der Anzahl der in der privaten Krankenversicherung Vollversicherten. Die Höhe der hierfür jährlich von den Unternehmen, die die private Pflege-Pflichtversicherung durchführen, zur Verfügung zu stellenden Mittel bemisst sich nach dem Betrag, den die Pflegekassen nach § 5 Absatz 2 des Elften Buches für Leistungen zur Prävention in Lebenswelten aufzuwenden haben, multipliziert mit der Anzahl ihrer Versicherten. Bund und Länder erhalten jeweils vier Sitze mit beratender Stimme. Darüber hinaus entsenden die kommunalen Spitzenverbände auf Bundesebene, die Bundesagentur für Arbeit, die repräsentativen Spitzenorganisationen der Arbeitgeber und Arbeitnehmer sowie das Präventionsforum jeweils einen Vertreter in die Nationale Präventionskonferenz, die mit beratender Stimme an den Sitzungen teilnehmen. Die Nationale Präventionskonferenz gibt sich eine Geschäftsordnung; darin werden insbesondere die Arbeitsweise und das Beschlussverfahren festgelegt. Die Geschäftsordnung muss einstimmig angenommen werden. Die Geschäftsstelle, die die Mitglieder der Nationalen Präventionskonferenz bei der Wahrnehmung ihrer Aufgabe nach Satz 1 unterstützt, wird bei der Bundeszentrale für gesundheitliche Aufklärung angesiedelt.
 
 (2) Die Nationale Präventionskonferenz wird durch ein Präventionsforum beraten, das in der Regel einmal jährlich stattfindet. Das Präventionsforum setzt sich aus Vertretern der für die Gesundheitsförderung und Prävention maßgeblichen Organisationen und Verbände sowie der stimmberechtigten und beratenden Mitglieder der Nationalen Präventionskonferenz nach Absatz 1 zusammen. Die Nationale Präventionskonferenz beauftragt die Bundesvereinigung für Prävention und Gesundheitsförderung e. V. mit der Durchführung des Präventionsforums und erstattet dieser die notwendigen Aufwendungen. Die Einzelheiten zur Durchführung des Präventionsforums einschließlich der für die Durchführung notwendigen Kosten werden in der Geschäftsordnung der Nationalen Präventionskonferenz geregelt.
 
-
-## § 20f – Landesrahmenvereinbarungen zur Umsetzung der nationalen Präventionsstrategie
+# § 20f – Landesrahmenvereinbarungen zur Umsetzung der nationalen Präventionsstrategie
 
 (1) Zur Umsetzung der nationalen Präventionsstrategie schließen die Landesverbände der Krankenkassen und die Ersatzkassen, auch für die Pflegekassen, mit den Trägern der gesetzlichen Rentenversicherung, den Trägern der gesetzlichen Unfallversicherung und mit den in den Ländern zuständigen Stellen gemeinsame Rahmenvereinbarungen auf Landesebene. Die für die Rahmenvereinbarungen maßgeblichen Leistungen richten sich nach § 20 Absatz 4 Nummer 2 und 3, nach den §§ 20a bis 20c sowie nach den für die Pflegekassen, für die Träger der gesetzlichen Rentenversicherung und für die Träger der gesetzlichen Unfallversicherung jeweils geltenden Leistungsgesetzen.
 
@@ -1156,15 +1116,13 @@ Bei der Berücksichtigung des in Satz 1 Nummer 1 genannten Ziels werden auch die
 
 An der Vorbereitung der Rahmenvereinbarungen werden die Bundesagentur für Arbeit, die für den Arbeitsschutz zuständigen obersten Landesbehörden und die kommunalen Spitzenverbände auf Landesebene beteiligt. Sie können den Rahmenvereinbarungen beitreten. Auf die zum Zwecke der Vorbereitung und Umsetzung der Rahmenvereinbarungen gebildeten Arbeitsgemeinschaften wird § 94 Absatz 1a Satz 2 und 3 des Zehnten Buches nicht angewendet.
 
-
-## § 20g – Modellvorhaben
+# § 20g – Modellvorhaben
 
 (1) Die Leistungsträger nach § 20d Absatz 1 und ihre Verbände können zur Erreichung der in den Rahmenempfehlungen nach § 20d Absatz 2 Nummer 1 festgelegten gemeinsamen Ziele einzeln oder in Kooperation mit Dritten, insbesondere den in den Ländern zuständigen Stellen nach § 20f Absatz 1, Modellvorhaben durchführen. Anhand der Modellvorhaben soll die Qualität und Effizienz der Versorgung mit Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten und mit Leistungen zur betrieblichen Gesundheitsförderung verbessert werden. Die Modellvorhaben können auch der wissenschaftlich fundierten Auswahl geeigneter Maßnahmen der Zusammenarbeit dienen. Die Aufwendungen der Krankenkassen für Modellvorhaben sind auf die Mittel nach § 20 Absatz 6 Satz 2 anzurechnen.
 
 (2) Die Modellvorhaben sind im Regelfall auf fünf Jahre zu befristen und nach allgemein anerkannten wissenschaftlichen Standards wissenschaftlich zu begleiten und auszuwerten.
 
-
-## § 20h – Förderung der Selbsthilfe
+# § 20h – Förderung der Selbsthilfe
 
 (1) Die Krankenkassen und ihre Verbände fördern Selbsthilfegruppen und -organisationen, die sich die gesundheitliche Prävention oder die Rehabilitation von Versicherten bei einer der im Verzeichnis nach Satz 2 aufgeführten Krankheiten zum Ziel gesetzt haben, sowie Selbsthilfekontaktstellen im Rahmen der Festlegungen des Absatzes 4. Der Spitzenverband Bund der Krankenkassen beschließt ein Verzeichnis der Krankheitsbilder, bei deren gesundheitlicher Prävention oder Rehabilitation eine Förderung zulässig ist; sie haben die Kassenärztliche Bundesvereinigung und die Vertretungen der für die Wahrnehmung der Interessen der Selbsthilfe maßgeblichen Spitzenorganisationen zu beteiligen. Selbsthilfekontaktstellen müssen für eine Förderung ihrer gesundheitsbezogenen Arbeit themen-, bereichs- und indikationsgruppenübergreifend tätig sein.
 
@@ -1179,8 +1137,7 @@ An der Vorbereitung der Rahmenvereinbarungen werden die Bundesagentur für Arbei
 (+++ § 20h Abs. 4 Satz 4: Früher Abs. 3 Satz 4 jetzt Abs. 4 Satz 4 gem. u. idF d. Art. 1 Nr. 1a Buchst. d DBuchst. bb G v. 9.12.2019 I 2562 mWv 19.12.2019, nichtausführbare Änderung d. Art. 1 Nr. 8a Buchst. b DBuchst. bb G v. 6.5.2019 I 646 mWv 1.1.2020 wurde sinngemäß ausgeführt +++)  
 (+++ § 20h Abs. 4 Satz 5: Früher Abs. 3 Satz 5 jetzt Abs. 4 Satz 5 gem. u. idF d. Art. 1 Nr. 1a Buchst. d DBuchst. d G v. 9.12.2019 I 2562 mWv 19.12.2019, nichtausführbare Änderung d. Art. 1 Nr. 8a Buchst. b DBuchst. bb G v. 6.5.2019 I 646 mWv 1.1.2020 wurde sinngemäß ausgeführt +++)
 
-
-## § 20i – Leistungen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+# § 20i – Leistungen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
 
 (1) Versicherte haben Anspruch auf Leistungen für Schutzimpfungen im Sinne des § 2 Nr. 9 des Infektionsschutzgesetzes, dies gilt unabhängig davon, ob sie auch entsprechende Ansprüche gegen andere Kostenträger haben. Satz 1 gilt für Schutzimpfungen, die wegen eines erhöhten Gesundheitsrisikos durch einen Auslandsaufenthalt indiziert sind, nur dann, wenn der Auslandsaufenthalt beruflich oder durch eine Ausbildung bedingt ist oder wenn zum Schutz der öffentlichen Gesundheit ein besonderes Interesse daran besteht, der Einschleppung einer übertragbaren Krankheit in die Bundesrepublik Deutschland vorzubeugen. Einzelheiten zu Voraussetzungen, Art und Umfang der Leistungen bestimmt der Gemeinsame Bundesausschuss in Richtlinien nach § 92 auf der Grundlage der Empfehlungen der Ständigen Impfkommission beim Robert Koch-Institut gemäß § 20 Abs. 2 des Infektionsschutzgesetzes unter besonderer Berücksichtigung der Bedeutung der Schutzimpfungen für die öffentliche Gesundheit. Abweichungen von den Empfehlungen der Ständigen Impfkommission sind besonders zu begründen. Zu Änderungen der Empfehlungen der Ständigen Impfkommission hat der Gemeinsame Bundesausschuss innerhalb von zwei Monaten nach ihrer Veröffentlichung eine Entscheidung zu treffen. Kommt eine Entscheidung nicht fristgemäß zustande, dürfen insoweit die von der Ständigen Impfkommission empfohlenen Schutzimpfungen mit Ausnahme von Schutzimpfungen nach Satz 2 erbracht werden, bis die Richtlinie vorliegt.
 
@@ -1216,8 +1173,7 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (4) Soweit Versicherte Anspruch auf Leistungen für Maßnahmen nach den Absätzen 1 bis 3 haben, schließt dieser Anspruch die Bereitstellung einer Impfdokumentation nach § 22 des Infektionsschutzgesetzes ein. Die Krankenkassen können die Versicherten in geeigneter Form über fällige Schutzimpfungen und über andere Maßnahmen nach den Absätzen 2 und 3, auf die sie einen Anspruch auf Leistungen haben, versichertenbezogen informieren.
 
-
-## § 20j – Präexpositionsprophylaxe
+# § 20j – Präexpositionsprophylaxe
 
 (1) Versicherte mit einem substantiellen HIV-Infektionsrisiko, die das 16. Lebensjahr vollendet haben, haben Anspruch auf
 
@@ -1233,8 +1189,7 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (5) Das Bundesministerium für Gesundheit evaluiert die Wirkungen der ärztlichen Verordnung der Präexpositionsprophylaxe auf das Infektionsgeschehen im Bereich sexuell übertragbarer Krankheiten bis Ende 2020 nach allgemein anerkannten wissenschaftlichen Standards.
 
-
-## § 20k – Förderung der digitalen Gesundheitskompetenz
+# § 20k – Förderung der digitalen Gesundheitskompetenz
 
 (1) Die Krankenkasse sieht in der Satzung Leistungen zur Förderung des selbstbestimmten gesundheitsorientierten Einsatzes digitaler oder telemedizinischer Anwendungen und Verfahren durch die Versicherten vor. Die Leistungen sollen dazu dienen, die für die Nutzung digitaler oder telemedizinischer Anwendungen und Verfahren erforderlichen Kompetenzen zu vermitteln. Die Krankenkasse legt dabei die Festlegungen des Spitzenverbands Bund der Krankenkassen nach Absatz 2 zugrunde.
 
@@ -1242,8 +1197,7 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (3) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit alle zwei Jahre, erstmals bis zum 31. Dezember 2021, wie und in welchem Umfang seine Mitglieder den Versicherten Leistungen nach Absatz 1 gewähren. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen über die erstatteten Leistungen sowie Art und Umfang der Übermittlung.
 
-
-## § 21 – Verhütung von Zahnerkrankungen (Gruppenprophylaxe)
+# § 21 – Verhütung von Zahnerkrankungen (Gruppenprophylaxe)
 
 (1) Die Krankenkassen haben im Zusammenwirken mit den Zahnärzten und den für die Zahngesundheitspflege in den Ländern zuständigen Stellen unbeschadet der Aufgaben anderer gemeinsam und einheitlich Maßnahmen zur Erkennung und Verhütung von Zahnerkrankungen ihrer Versicherten, die das zwölfte Lebensjahr noch nicht vollendet haben, zu fördern und sich an den Kosten der Durchführung zu beteiligen. Sie haben auf flächendeckende Maßnahmen hinzuwirken. In Schulen und Behinderteneinrichtungen, in denen das durchschnittliche Kariesrisiko der Schüler überproportional hoch ist, werden die Maßnahmen bis zum 16. Lebensjahr durchgeführt. Die Maßnahmen sollen vorrangig in Gruppen, insbesondere in Kindergärten und Schulen, durchgeführt werden; sie sollen sich insbesondere auf die Untersuchung der Mundhöhle, Erhebung des Zahnstatus, Zahnschmelzhärtung, Ernährungsberatung und Mundhygiene erstrecken. Für Kinder mit besonders hohem Kariesrisiko sind spezifische Programme zu entwickeln.
 
@@ -1251,8 +1205,7 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (3) Kommt eine gemeinsame Rahmenvereinbarung nach Absatz 2 Satz 1 nicht zustande, werden Inhalt, Finanzierung, nicht versichertenbezogene Dokumentation und Kontrolle unter Berücksichtigung der bundeseinheitlichen Rahmenempfehlungen des Spitzenverbandes Bund der Krankenkassen durch Rechtsverordnung der Landesregierung bestimmt.
 
-
-## § 22 – Verhütung von Zahnerkrankungen (Individualprophylaxe)
+# § 22 – Verhütung von Zahnerkrankungen (Individualprophylaxe)
 
 (1) Versicherte, die das sechste, aber noch nicht das achtzehnte Lebensjahr vollendet haben, können sich zur Verhütung von Zahnerkrankungen einmal in jedem Kalenderhalbjahr zahnärztlich untersuchen lassen.
 
@@ -1264,15 +1217,13 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (5) Der Gemeinsame Bundesausschuss regelt das Nähere über Art, Umfang und Nachweis der individualprophylaktischen Leistungen in Richtlinien nach § 92.
 
-
-## § 22a – Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen mit Behinderungen
+# § 22a – Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen mit Behinderungen
 
 (1) Versicherte, die einem Pflegegrad nach § 15 des Elften Buches zugeordnet sind oder Eingliederungshilfe nach § 53 des Zwölften Buches erhalten, haben Anspruch auf Leistungen zur Verhütung von Zahnerkrankungen. Die Leistungen umfassen insbesondere die Erhebung eines Mundgesundheitsstatus, die Aufklärung über die Bedeutung der Mundhygiene und über Maßnahmen zu deren Erhaltung, die Erstellung eines Planes zur individuellen Mund- und Prothesenpflege sowie die Entfernung harter Zahnbeläge. Pflegepersonen des Versicherten sollen in die Aufklärung und Planerstellung nach Satz 2 einbezogen werden.
 
 (2) Das Nähere über Art und Umfang der Leistungen regelt der Gemeinsame Bundesausschuss in Richtlinien nach § 92.
 
-
-## § 23 – Medizinische Vorsorgeleistungen
+# § 23 – Medizinische Vorsorgeleistungen
 
 (1) Versicherte haben Anspruch auf ärztliche Behandlung und Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln, wenn diese notwendig sind,
 
@@ -1300,8 +1251,7 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (9) (weggefallen)
 
-
-## § 24 – Medizinische Vorsorge für Mütter und Väter
+# § 24 – Medizinische Vorsorge für Mütter und Väter
 
 (1) Versicherte haben unter den in § 23 Abs. 1 genannten Voraussetzungen Anspruch auf aus medizinischen Gründen erforderliche Vorsorgeleistungen in einer Einrichtung des Müttergenesungswerks oder einer gleichartigen Einrichtung; die Leistung kann in Form einer Mutter-Kind-Maßnahme erbracht werden. Satz 1 gilt auch für Vater-Kind-Maßnahmen in dafür geeigneten Einrichtungen. Vorsorgeleistungen nach den Sätzen 1 und 2 werden in Einrichtungen erbracht, mit denen ein Versorgungsvertrag nach § 111a besteht. § 23 Abs. 4 Satz 1 gilt nicht; § 23 Abs. 4 Satz 2 gilt entsprechend.
 
@@ -1311,15 +1261,13 @@ Soweit Leistungen nach Satz 2 Nummer 1 Buchstabe c aus der Liquiditätsreserve d
 
 (4) (weggefallen)
 
-
-## § 24a – Empfängnisverhütung
+# § 24a – Empfängnisverhütung
 
 (1) Versicherte haben Anspruch auf ärztliche Beratung über Fragen der Empfängnisregelung. Zur ärztlichen Beratung gehören auch die erforderliche Untersuchung und die Verordnung von empfängnisregelnden Mitteln.
 
 (2) Versicherte bis zum vollendeten 22. Lebensjahr haben Anspruch auf Versorgung mit verschreibungspflichtigen empfängnisverhütenden Mitteln; § 31 Abs. 2 bis 4 gilt entsprechend. Satz 1 gilt entsprechend für nicht verschreibungspflichtige Notfallkontrazeptiva, soweit sie ärztlich verordnet werden; § 129 Absatz 5a gilt entsprechend.
 
-
-## § 24b – Schwangerschaftsabbruch und Sterilisation
+# § 24b – Schwangerschaftsabbruch und Sterilisation
 
 (1) Versicherte haben Anspruch auf Leistungen bei einer durch Krankheit erforderlichen Sterilisation und bei einem nicht rechtswidrigen Abbruch der Schwangerschaft durch einen Arzt. Der Anspruch auf Leistungen bei einem nicht rechtswidrigen Schwangerschaftsabbruch besteht nur, wenn dieser in einer Einrichtung im Sinne des § 13 Abs. 1 des Schwangerschaftskonfliktgesetzes vorgenommen wird.
 
@@ -1353,8 +1301,7 @@ Mit diesen ärztlichen Leistungen im Zusammenhang stehende Sachkosten, insbesond
 
 § 24b: Nach Maßgabe der Urteilsgründe mit dem GG vereinbar gem. BVerfGE v. 28.5.1993 I 820 - 2 BvF 2/90 u. a. -
 
-
-## § 24c – Leistungen bei Schwangerschaft und Mutterschaft
+# § 24c – Leistungen bei Schwangerschaft und Mutterschaft
 
 Die Leistungen bei Schwangerschaft und Mutterschaft umfassen
 
@@ -1370,33 +1317,27 @@ Die Leistungen bei Schwangerschaft und Mutterschaft umfassen
 
 6. Mutterschaftsgeld.
 
-
-## § 24d – Ärztliche Betreuung und Hebammenhilfe
+# § 24d – Ärztliche Betreuung und Hebammenhilfe
 
 Die Versicherte hat während der Schwangerschaft, bei und nach der Entbindung Anspruch auf ärztliche Betreuung sowie auf Hebammenhilfe einschließlich der Untersuchungen zur Feststellung der Schwangerschaft und zur Schwangerenvorsorge; ein Anspruch auf Hebammenhilfe im Hinblick auf die Wochenbettbetreuung besteht bis zum Ablauf von zwölf Wochen nach der Geburt, weitergehende Leistungen bedürfen der ärztlichen Anordnung. Sofern das Kind nach der Entbindung nicht von der Versicherten versorgt werden kann, hat das versicherte Kind Anspruch auf die Leistungen der Hebammenhilfe, die sich auf dieses beziehen. Die ärztliche Betreuung umfasst auch die Beratung der Schwangeren zur Bedeutung der Mundgesundheit für Mutter und Kind einschließlich des Zusammenhangs zwischen Ernährung und Krankheitsrisiko sowie die Einschätzung oder Bestimmung des Übertragungsrisikos von Karies. Die ärztliche Beratung der Versicherten umfasst bei Bedarf auch Hinweise auf regionale Unterstützungsangebote für Eltern und Kind.
 
-
-## § 24e – Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln
+# § 24e – Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln
 
 Die Versicherte hat während der Schwangerschaft und im Zusammenhang mit der Entbindung Anspruch auf Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln. Die für die Leistungen nach den §§ 31 bis 33 geltenden Vorschriften gelten entsprechend; bei Schwangerschaftsbeschwerden und im Zusammenhang mit der Entbindung finden § 31 Absatz 3, § 32 Absatz 2, § 33 Absatz 8 und § 127 Absatz 4 keine Anwendung.
 
-
-## § 24f – Entbindung
+# § 24f – Entbindung
 
 Die Versicherte hat Anspruch auf ambulante oder stationäre Entbindung. Die Versicherte kann ambulant in einem Krankenhaus, in einer von einer Hebamme oder einem Entbindungspfleger geleiteten Einrichtung, in einer ärztlich geleiteten Einrichtung, in einer Hebammenpraxis oder im Rahmen einer Hausgeburt entbinden. Wird die Versicherte zur stationären Entbindung in einem Krankenhaus oder in einer anderen stationären Einrichtung aufgenommen, hat sie für sich und das Neugeborene Anspruch auf Unterkunft, Pflege und Verpflegung. Für diese Zeit besteht kein Anspruch auf Krankenhausbehandlung. § 39 Absatz 2 gilt entsprechend.
 
-
-## § 24g – Häusliche Pflege
+# § 24g – Häusliche Pflege
 
 Die Versicherte hat Anspruch auf häusliche Pflege, soweit diese wegen Schwangerschaft oder Entbindung erforderlich ist. § 37 Absatz 3 und 4 gilt entsprechend.
 
-
-## § 24h – Haushaltshilfe
+# § 24h – Haushaltshilfe
 
 Die Versicherte erhält Haushaltshilfe, soweit ihr wegen Schwangerschaft oder Entbindung die Weiterführung des Haushalts nicht möglich und eine andere im Haushalt lebende Person den Haushalt nicht weiterführen kann. § 38 Absatz 4 gilt entsprechend.
 
-
-## § 24i – Mutterschaftsgeld
+# § 24i – Mutterschaftsgeld
 
 (1) Weibliche Mitglieder, die bei Arbeitsunfähigkeit Anspruch auf Krankengeld haben oder denen wegen der Schutzfristen nach § 3 des Mutterschutzgesetzes kein Arbeitsentgelt gezahlt wird, erhalten Mutterschaftsgeld. Mutterschaftsgeld erhalten auch Frauen, deren Arbeitsverhältnis unmittelbar vor Beginn der Schutzfrist nach § 3 Absatz 1 des Mutterschutzgesetzes endet, wenn sie am letzten Tag des Arbeitsverhältnisses Mitglied einer Krankenkasse waren.
 
@@ -1406,8 +1347,7 @@ Die Versicherte erhält Haushaltshilfe, soweit ihr wegen Schwangerschaft oder En
 
 (4) Der Anspruch auf Mutterschaftsgeld ruht, soweit und solange das Mitglied beitragspflichtiges Arbeitsentgelt, Arbeitseinkommen oder Urlaubsabgeltung erhält. Dies gilt nicht für einmalig gezahltes Arbeitsentgelt.
 
-
-## § 25 – Gesundheitsuntersuchungen
+# § 25 – Gesundheitsuntersuchungen
 
 (1) Versicherte, die das 18. Lebensjahr vollendet haben, haben Anspruch auf alters-, geschlechter- und zielgruppengerechte ärztliche Gesundheitsuntersuchungen zur Erfassung und Bewertung gesundheitlicher Risiken und Belastungen, zur Früherkennung von bevölkerungsmedizinisch bedeutsamen Krankheiten und eine darauf abgestimmte präventionsorientierte Beratung, einschließlich einer Überprüfung des Impfstatus im Hinblick auf die Empfehlungen der Ständigen Impfkommission nach § 20 Absatz 2 des Infektionsschutzgesetzes. Die Untersuchungen umfassen, sofern medizinisch angezeigt, eine Präventionsempfehlung für Leistungen zur verhaltensbezogenen Prävention nach § 20 Absatz 5. Die Präventionsempfehlung wird in Form einer ärztlichen Bescheinigung erteilt. Sie informiert über Möglichkeiten und Hilfen zur Veränderung gesundheitsbezogener Verhaltensweisen und kann auch auf andere Angebote zur verhaltensbezogenen Prävention hinweisen wie beispielsweise auf die vom Deutschen Olympischen Sportbund e. V. und der Bundesärztekammer empfohlenen Bewegungsangebote in Sportvereinen oder auf sonstige qualitätsgesicherte Bewegungsangebote in Sport- oder Fitnessstudios sowie auf Angebote zur Förderung einer ausgewogenen Ernährung.
 
@@ -1429,8 +1369,7 @@ Stellt der Gemeinsame Bundesausschuss bei seinen Beratungen über eine Gesundhei
 
 (5) In den Richtlinien des Gemeinsamen Bundesausschusses ist ferner zu regeln, dass die Durchführung von Maßnahmen nach den Absätzen 1 und 2 von einer Genehmigung der Kassenärztlichen Vereinigung abhängig ist, wenn es zur Sicherung der Qualität der Untersuchungen geboten ist, dass Ärzte mehrerer Fachgebiete zusammenwirken oder die teilnehmenden Ärzte eine Mindestzahl von Untersuchungen durchführen oder besondere technische Einrichtungen vorgehalten werden oder dass besonders qualifiziertes nichtärztliches Personal mitwirkt. Ist es erforderlich, dass die teilnehmenden Ärzte eine hohe Mindestzahl von Untersuchungen durchführen oder dass bei der Leistungserbringung Ärzte mehrerer Fachgebiete zusammenwirken, legen die Richtlinien außerdem Kriterien für die Bemessung des Versorgungsbedarfs fest, so dass eine bedarfsgerechte räumliche Verteilung gewährleistet ist. Die Auswahl der Ärzte durch die Kassenärztliche Vereinigung erfolgt auf der Grundlage der Bewertung ihrer Qualifikation und der geeigneten räumlichen Zuordnung ihres Praxissitzes für die Versorgung im Rahmen eines in den Richtlinien geregelten Ausschreibungsverfahrens. Die Genehmigung zur Durchführung der Früherkennungsuntersuchungen kann befristet und mit für das Versorgungsziel notwendigen Auflagen erteilt werden.
 
-
-## § 25a – Organisierte Früherkennungsprogramme
+# § 25a – Organisierte Früherkennungsprogramme
 
 (1) Untersuchungen zur Früherkennung von Krebserkrankungen gemäß § 25 Absatz 2, für die von der Europäischen Kommission veröffentlichte Europäische Leitlinien zur Qualitätssicherung von Krebsfrüherkennungsprogrammen vorliegen, sollen als organisierte Krebsfrüherkennungsprogramme angeboten werden. Diese Programme umfassen insbesondere
 
@@ -1452,8 +1391,7 @@ Die Maßnahmen nach Satz 2 Nummer 4 beinhalten auch einen Abgleich der Daten, di
 
 (5) Der Gemeinsame Bundesausschuss oder eine von ihm beauftragte Stelle veröffentlicht alle zwei Jahre einen Bericht über den Stand der Maßnahmen nach Absatz 1 Satz 2 Nummer 4. Der Gemeinsame Bundesausschuss oder eine von ihm beauftragte Stelle übermittelt auf Antrag, nach Prüfung des berechtigten Interesses des Antragstellers, anonymisierte Daten zum Zwecke der wissenschaftlichen Forschung. Die Entscheidung über den Antrag ist dem Antragsteller innerhalb von zwei Monaten nach Antragstellung mitzuteilen; eine Ablehnung ist zu begründen.
 
-
-## § 26 – Gesundheitsuntersuchungen für Kinder und Jugendliche
+# § 26 – Gesundheitsuntersuchungen für Kinder und Jugendliche
 
 (1) Versicherte Kinder und Jugendliche haben bis zur Vollendung des 18. Lebensjahres Anspruch auf Untersuchungen zur Früherkennung von Krankheiten, die ihre körperliche, geistige oder psycho-soziale Entwicklung in nicht geringfügigem Maße gefährden. Die Untersuchungen beinhalten auch eine Erfassung und Bewertung gesundheitlicher Risiken einschließlich einer Überprüfung der Vollständigkeit des Impfstatus sowie eine darauf abgestimmte präventionsorientierte Beratung einschließlich Informationen zu regionalen Unterstützungsangeboten für Eltern und Kind. Die Untersuchungen umfassen, sofern medizinisch angezeigt, eine Präventionsempfehlung für Leistungen zur verhaltensbezogenen Prävention nach § 20 Absatz 5, die sich altersentsprechend an das Kind, den Jugendlichen oder die Eltern oder andere Sorgeberechtigte richten kann. Die Präventionsempfehlung wird in Form einer ärztlichen Bescheinigung erteilt. Zu den Früherkennungsuntersuchungen auf Zahn-, Mund- und Kieferkrankheiten gehören insbesondere die Inspektion der Mundhöhle, die Einschätzung oder Bestimmung des Kariesrisikos, die Ernährungs- und Mundhygieneberatung sowie Maßnahmen zur Schmelzhärtung der Zähne und zur Keimzahlsenkung. Die Leistungen nach Satz 5 werden bis zur Vollendung des sechsten Lebensjahres erbracht und können von Ärzten oder Zahnärzten erbracht werden.
 
@@ -1461,8 +1399,7 @@ Die Maßnahmen nach Satz 2 Nummer 4 beinhalten auch einen Abgleich der Daten, di
 
 (3) Die Krankenkassen haben im Zusammenwirken mit den für die Kinder- und Gesundheitspflege durch Landesrecht bestimmten Stellen der Länder auf eine Inanspruchnahme der Leistungen nach Absatz 1 hinzuwirken. Zur Durchführung der Maßnahmen nach Satz 1 schließen die Landesverbände der Krankenkassen und die Ersatzkassen mit den Stellen der Länder nach Satz 1 gemeinsame Rahmenvereinbarungen.
 
-
-## § 27 – Krankenbehandlung
+# § 27 – Krankenbehandlung
 
 (1) Versicherte haben Anspruch auf Krankenbehandlung, wenn sie notwendig ist, um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern. Die Krankenbehandlung umfaßt
 
@@ -1470,8 +1407,7 @@ Die Maßnahmen nach Satz 2 Nummer 4 beinhalten auch einen Abgleich der Daten, di
 
 2. zahnärztliche Behandlung,
 
-2a.  
-Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen,
+2a. Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen,
 
 3. Versorgung mit Arznei-, Verband-, Heil- und Hilfsmitteln sowie mit digitalen Gesundheitsanwendungen,
 
@@ -1491,8 +1427,7 @@ Zur Krankenbehandlung gehört auch die palliative Versorgung der Versicherten. B
 
 2. Vertriebene im Sinne des § 1 Abs. 2 Nr. 2 und 3 des Bundesvertriebenengesetzes sowie Spätaussiedler im Sinne des § 4 des Bundesvertriebenengesetzes, ihre Ehegatten, Lebenspartner und Abkömmlinge im Sinne des § 7 Abs. 2 des Bundesvertriebenengesetzes haben Anspruch auf Versorgung mit Zahnersatz, wenn sie unmittelbar vor Inanspruchnahme mindestens ein Jahr lang Mitglied einer Krankenkasse (§ 4) oder nach § 10 versichert waren oder wenn die Behandlung aus medizinischen Gründen ausnahmsweise unaufschiebbar ist.
 
-
-## § 27a – Künstliche Befruchtung
+# § 27a – Künstliche Befruchtung
 
 (1) Die Leistungen der Krankenbehandlung umfassen auch medizinische Maßnahmen zur Herbeiführung einer Schwangerschaft, wenn
 
@@ -1516,8 +1451,7 @@ Zur Krankenbehandlung gehört auch die palliative Versorgung der Versicherten. B
 
 § 27a Abs. 1 Nr. 3: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 28.2.2007 I 350 - 1 BvL 5/03 -
 
-
-## § 27b – Zweitmeinung
+# § 27b – Zweitmeinung
 
 (1) Versicherte, bei denen die Indikation zu einem planbaren Eingriff gestellt wird, bei dem insbesondere im Hinblick auf die zahlenmäßige Entwicklung seiner Durchführung die Gefahr einer Indikationsausweitung nicht auszuschließen ist, haben Anspruch darauf, eine unabhängige ärztliche Zweitmeinung bei einem Arzt oder einer Einrichtung nach Absatz 3 einzuholen. Die Zweitmeinung kann nicht bei einem Arzt oder einer Einrichtung eingeholt werden, durch den oder durch die der Eingriff durchgeführt werden soll.
 
@@ -1557,8 +1491,7 @@ soweit sie die Anforderungen nach Absatz 2 Satz 2 erfüllen.
 
 (6) Die Krankenkasse kann in ihrer Satzung zusätzliche Leistungen zur Einholung einer unabhängigen ärztlichen Zweitmeinung vorsehen. Sofern diese zusätzlichen Leistungen die vom Gemeinsamen Bundesausschuss bestimmten Eingriffe nach Absatz 2 Satz 1 betreffen, müssen sie die Anforderungen nach Absatz 2 Satz 2 erfüllen, die der Gemeinsame Bundesausschuss festgelegt hat. Dies gilt auch, wenn die Krankenkasse ein Zweitmeinungsverfahren im Rahmen von Verträgen der besonderen Versorgung nach § 140a anbietet.
 
-
-## § 28 – Ärztliche und zahnärztliche Behandlung
+# § 28 – Ärztliche und zahnärztliche Behandlung
 
 (1) Die ärztliche Behandlung umfaßt die Tätigkeit des Arztes, die zur Verhütung, Früherkennung und Behandlung von Krankheiten nach den Regeln der ärztlichen Kunst ausreichend und zweckmäßig ist. Zur ärztlichen Behandlung gehört auch die Hilfeleistung anderer Personen, die von dem Arzt angeordnet und von ihm zu verantworten ist. Die Partner der Bundesmantelverträge legen für die ambulante Versorgung beispielhaft fest, bei welchen Tätigkeiten Personen nach Satz 2 ärztliche Leistungen erbringen können und welche Anforderungen an die Erbringung zu stellen sind. Der Bundesärztekammer ist Gelegenheit zur Stellungnahme zu geben.
 
@@ -1568,8 +1501,7 @@ soweit sie die Anforderungen nach Absatz 2 Satz 2 erfüllen.
 
 (4) (weggefallen)
 
-
-## § 29 – Kieferorthopädische Behandlung
+# § 29 – Kieferorthopädische Behandlung
 
 (1) Versicherte haben Anspruch auf kieferorthopädische Versorgung in medizinisch begründeten Indikationsgruppen, bei denen eine Kiefer- oder Zahnfehlstellung vorliegt, die das Kauen, Beißen, Sprechen oder Atmen erheblich beeinträchtigt oder zu beeinträchtigen droht.
 
@@ -1587,18 +1519,15 @@ soweit sie die Anforderungen nach Absatz 2 Satz 2 erfüllen.
 
 (8) Die Kassenzahnärztlichen Vereinigungen überprüfen anlassbezogen die Einhaltung der Informations- und Aufklärungspflichten aus Absatz 7 Satz 1. Der behandelnde Zahnarzt ist verpflichtet, der zuständigen Kassenzahnärztlichen Vereinigung auf Verlangen die Vereinbarung nach Absatz 7 Satz 1 und die Erklärung nach Absatz 7 Satz 2 vorzulegen. Soweit es zur Nachvollziehbarkeit der vereinbarten Mehr- und Zusatzkosten erforderlich ist, kann die zuständige Kassenzahnärztliche Vereinigung auch behandlungs- und rechnungsbegründende Unterlagen von dem behandelnden Zahnarzt anfordern. Der behandelnde Zahnarzt ist in diesem Fall zur Übermittlung der behandlungs- und rechnungsbegründenden Unterlagen verpflichtet, wenn der Versicherte ihm gegenüber in die Übermittlung schriftlich oder elektronisch eingewilligt hat. Die Kassenzahnärztlichen Vereinigungen dürfen die in der Vereinbarung nach Absatz 7 Satz 1 und der Erklärung nach Absatz 7 Satz 2 enthaltenen Daten sowie die Daten, die in den ihnen übermittelten behandlungs- und rechnungsbegründenden Unterlagen enthalten sind, nur verarbeiten, soweit dies für die Prüfung nach Satz 1 erforderlich ist.
 
-
-## § 30
-
-(weggefallen)
-
-
-## § 30a
+# § 30
 
 (weggefallen)
 
+# § 30a
 
-## § 31 – Arznei- und Verbandmittel, Verordnungsermächtigung
+(weggefallen)
+
+# § 31 – Arznei- und Verbandmittel, Verordnungsermächtigung
 
 (1) Versicherte haben Anspruch auf Versorgung mit apothekenpflichtigen Arzneimitteln, soweit die Arzneimittel nicht nach § 34 oder durch Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 ausgeschlossen sind, und auf Versorgung mit Verbandmitteln, Harn- und Blutteststreifen. Der Gemeinsame Bundesausschuss hat in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 festzulegen, in welchen medizinisch notwendigen Fällen Stoffe und Zubereitungen aus Stoffen, die als Medizinprodukte nach § 3 Nr. 1 oder Nr. 2 des Medizinproduktegesetzes zur Anwendung am oder im menschlichen Körper bestimmt sind, ausnahmsweise in die Arzneimittelversorgung einbezogen werden; § 34 Abs. 1 Satz 5, 7 und 8 und Abs. 6 sowie § 35 und die §§ 126 und 127 in der bis zum 10. Mai 2019 geltenden Fassung gelten entsprechend. Für verschreibungspflichtige und nicht verschreibungspflichtige Medizinprodukte nach Satz 2 gilt § 34 Abs. 1 Satz 6 entsprechend. Der Vertragsarzt kann Arzneimittel, die auf Grund der Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 von der Versorgung ausgeschlossen sind, ausnahmsweise in medizinisch begründeten Einzelfällen mit Begründung verordnen. Für die Versorgung nach Satz 1 können die Versicherten unter den Apotheken, für die der Rahmenvertrag nach § 129 Abs. 2 Geltung hat, frei wählen. Vertragsärzte und Krankenkassen dürfen, soweit gesetzlich nicht etwas anderes bestimmt oder aus medizinischen Gründen im Einzelfall eine Empfehlung geboten ist, weder die Versicherten dahingehend beeinflussen, Verordnungen bei einer bestimmten Apotheke oder einem sonstigen Leistungserbringer einzulösen, noch unmittelbar oder mittelbar Verordnungen bestimmten Apotheken oder sonstigen Leistungserbringern zuweisen. Die Sätze 5 und 6 gelten auch bei der Einlösung von elektronischen Verordnungen.
 
@@ -1631,8 +1560,7 @@ Die Leistung bedarf bei der ersten Verordnung für eine Versicherte oder einen V
 (+++ § 31 Abs. 3: Zur Anwendung vgl. § 24e +++)  
 § 31 Abs. 6 Satz 6 Kursivdruck: Früher Abs. 6 Satz 5, jetzt Abs. 6 Satz 6 gem. Art. 12 Nr. 1 Buchst. c DBuchst. bb G v. 9.8.2019 I 1202 mWv 16.8.2019; Änderungsanweisung durch Art. 123 Nr. 4 G v. 20.11.2019 I 1626 mWv 26.11.2019 wegen textlicher Unstimmigkeit nicht ausführbar
 
-
-## § 31a – Medikationsplan
+# § 31a – Medikationsplan
 
 (1) Versicherte, die gleichzeitig mindestens drei verordnete Arzneimittel anwenden, haben Anspruch auf Erstellung und Aushändigung eines Medikationsplans in Papierform durch einen an der vertragsärztlichen Versorgung teilnehmenden Arzt. Das Nähere zu den Voraussetzungen des Anspruchs nach Satz 1 vereinbaren die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge. Jeder an der vertragsärztlichen Versorgung teilnehmende Arzt ist verpflichtet, bei der Verordnung eines Arzneimittels den Versicherten, der einen Anspruch nach Satz 1 hat, über diesen Anspruch zu informieren.
 
@@ -1654,8 +1582,7 @@ Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erl
 
 (5) Von den Regelungen dieser Vorschrift bleiben regionale Modellvorhaben nach § 63 unberührt.
 
-
-## § 31b – Referenzdatenbank für Fertigarzneimittel
+# § 31b – Referenzdatenbank für Fertigarzneimittel
 
 (1) Das Bundesministerium für Gesundheit stellt die Errichtung und das Betreiben einer Referenzdatenbank für Fertigarzneimittel sicher. Es kann die Errichtung und das Betreiben einer Referenzdatenbank für Fertigarzneimittel auf das Bundesinstitut für Arzneimittel und Medizinprodukte oder nach § 31c auf eine juristische Person des Privatrechts übertragen.
 
@@ -1665,8 +1592,7 @@ Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erl
 
 (4) Von Unternehmen oder Personen, die die Referenzdatenbank für die Zwecke ihrer gewerblichen oder beruflichen Tätigkeit nutzen, können kostendeckende Entgelte verlangt werden.
 
-
-## § 31c – Beleihung mit der Aufgabe der Referenzdatenbank für Fertigarzneimittel;Rechts- und Fachaufsicht über die Beliehene
+# § 31c – Beleihung mit der Aufgabe der Referenzdatenbank für Fertigarzneimittel;Rechts- und Fachaufsicht über die Beliehene
 
 (1) Das Bundesministerium für Gesundheit kann eine juristische Person des Privatrechts mit ihrem Einverständnis mit der Aufgabe und den hierfür erforderlichen Befugnissen beleihen, die Referenzdatenbank nach § 31b zu errichten und zu betreiben, wenn diese Person die Gewähr für eine sachgerechte Erfüllung der ihr übertragenen Aufgabe bietet.
 
@@ -1690,8 +1616,7 @@ Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erl
 
 (5) Die Beliehene ist verpflichtet, den Weisungen des Bundesministeriums für Gesundheit nachzukommen. Im Falle der Amtshaftung wegen Ansprüchen Dritter kann der Bund gegenüber der Beliehenen bei Vorliegen von Vorsatz oder grober Fahrlässigkeit Rückgriff nehmen.
 
-
-## § 32 – Heilmittel
+# § 32 – Heilmittel
 
 (1) Versicherte haben Anspruch auf Versorgung mit Heilmitteln, soweit sie nicht nach § 34 ausgeschlossen sind. Für nicht nach Satz 1 ausgeschlossene Heilmittel bleibt § 92 unberührt.
 
@@ -1705,8 +1630,7 @@ Den besonderen Belangen der blinden und sehbehinderten Patienten ist bei der Erl
 
 (+++ § 32 Abs. 2: Zur Anwendung vgl. § 24e +++)
 
-
-## § 33 – Hilfsmittel
+# § 33 – Hilfsmittel
 
 (1) Versicherte haben Anspruch auf Versorgung mit Hörhilfen, Körperersatzstücken, orthopädischen und anderen Hilfsmitteln, die im Einzelfall erforderlich sind, um den Erfolg der Krankenbehandlung zu sichern, einer drohenden Behinderung vorzubeugen oder eine Behinderung auszugleichen, soweit die Hilfsmittel nicht als allgemeine Gebrauchsgegenstände des täglichen Lebens anzusehen oder nach § 34 Abs. 4 ausgeschlossen sind. Die Hilfsmittel müssen mindestens die im Hilfsmittelverzeichnis nach § 139 Absatz 2 festgelegten Anforderungen an die Qualität der Versorgung und der Produkte erfüllen, soweit sie im Hilfsmittelverzeichnis nach § 139 Absatz 1 gelistet oder von den dort genannten Produktgruppen erfasst sind. Der Anspruch auf Versorgung mit Hilfsmitteln zum Behinderungsausgleich hängt bei stationärer Pflege nicht davon ab, in welchem Umfang eine Teilhabe am Leben der Gemeinschaft noch möglich ist; die Pflicht der stationären Pflegeeinrichtungen zur Vorhaltung von Hilfsmitteln und Pflegehilfsmitteln, die für den üblichen Pflegebetrieb jeweils notwendig sind, bleibt hiervon unberührt. Für nicht durch Satz 1 ausgeschlossene Hilfsmittel bleibt § 92 Abs. 1 unberührt. Der Anspruch umfasst auch zusätzlich zur Bereitstellung des Hilfsmittels zu erbringende, notwendige Leistungen wie die notwendige Änderung, Instandsetzung und Ersatzbeschaffung von Hilfsmitteln, die Ausbildung in ihrem Gebrauch und, soweit zum Schutz der Versicherten vor unvertretbaren gesundheitlichen Risiken erforderlich, die nach dem Stand der Technik zur Erhaltung der Funktionsfähigkeit und der technischen Sicherheit notwendigen Wartungen und technischen Kontrollen. Ein Anspruch besteht auch auf solche Hilfsmittel, die eine dritte Person durch einen Sicherheitsmechanismus vor Nadelstichverletzungen schützen, wenn der Versicherte selbst nicht zur Anwendung des Hilfsmittels in der Lage ist und es hierfür einer Tätigkeit der dritten Person bedarf, bei der durch mögliche Stichverletzungen eine Infektionsgefahr besteht oder angenommen werden kann. Zu diesen Tätigkeiten gehören insbesondere Blutentnahmen und Injektionen. Der Gemeinsame Bundesausschuss bestimmt in seiner Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6 bis zum 31. Januar 2020 die Tätigkeiten, bei denen eine erhöhte Infektionsgefährdung angenommen werden kann. Wählen Versicherte Hilfsmittel oder zusätzliche Leistungen, die über das Maß des Notwendigen hinausgehen, haben sie die Mehrkosten und dadurch bedingte höhere Folgekosten selbst zu tragen. § 18 Absatz 6a des Elften Buches ist zu beachten.
 
@@ -1736,8 +1660,7 @@ aufweisen; Anspruch auf therapeutische Sehhilfen besteht, wenn diese der Behandl
 
 (9) Absatz 1 Satz 6 gilt entsprechend für Intraokularlinsen beschränkt auf die Kosten der Linsen.
 
-
-## § 33a – Digitale Gesundheitsanwendungen
+# § 33a – Digitale Gesundheitsanwendungen
 
 (1) Versicherte haben Anspruch auf Versorgung mit Medizinprodukten niedriger Risikoklasse, deren Hauptfunktion wesentlich auf digitalen Technologien beruht und die dazu bestimmt sind, bei den Versicherten oder in der Versorgung durch Leistungserbringer die Erkennung, Überwachung, Behandlung oder Linderung von Krankheiten oder die Erkennung, Behandlung, Linderung oder Kompensierung von Verletzungen oder Behinderungen zu unterstützen (digitale Gesundheitsanwendungen). Der Anspruch umfasst nur solche digitalen Gesundheitsanwendungen, die
 
@@ -1753,8 +1676,7 @@ Für die Genehmigung nach Satz 2 Nummer 2 ist das Vorliegen der medizinischen In
 
 (4) Leistungsansprüche nach anderen Vorschriften dieses Buches bleiben unberührt. Der Leistungsanspruch nach Absatz 1 besteht unabhängig davon, ob es sich bei der digitalen Gesundheitsanwendung um eine neue Untersuchungs- oder Behandlungsmethode handelt; es bedarf keiner Richtlinie nach § 135 Absatz 1 Satz 1. Ein Leistungsanspruch nach Absatz 1 auf digitale Gesundheitsanwendungen, die Leistungen enthalten, die nach dem Dritten Kapitel ausgeschlossen sind oder über die der Gemeinsame Bundesausschuss bereits eine ablehnende Entscheidung nach den §§ 92, 135 oder 137c getroffen hat, besteht nicht.
 
-
-## § 34 – Ausgeschlossene Arznei-, Heil- und Hilfsmittel
+# § 34 – Ausgeschlossene Arznei-, Heil- und Hilfsmittel
 
 (1) Nicht verschreibungspflichtige Arzneimittel sind von der Versorgung nach § 31 ausgeschlossen. Der Gemeinsame Bundesausschuss legt in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 fest, welche nicht verschreibungspflichtigen Arzneimittel, die bei der Behandlung schwerwiegender Erkrankungen als Therapiestandard gelten, zur Anwendung bei diesen Erkrankungen mit Begründung vom Vertragsarzt ausnahmsweise verordnet werden können. Dabei ist der therapeutischen Vielfalt Rechnung zu tragen. Der Gemeinsame Bundesausschuss hat auf der Grundlage der Richtlinie nach Satz 2 dafür Sorge zu tragen, dass eine Zusammenstellung der verordnungsfähigen Fertigarzneimittel erstellt, regelmäßig aktualisiert wird und im Internet abruffähig sowie in elektronisch weiterverarbeitbarer Form zur Verfügung steht. Satz 1 gilt nicht für:
 
@@ -1784,8 +1706,7 @@ Von der Versorgung sind außerdem Arzneimittel ausgeschlossen, bei deren Anwendu
 
 (6) Pharmazeutische Unternehmer können beim Gemeinsamen Bundesausschuss Anträge zur Aufnahme von Arzneimitteln in die Zusammenstellung nach Absatz 1 Satz 2 und 4 stellen. Die Anträge sind ausreichend zu begründen; die erforderlichen Nachweise sind dem Antrag beizufügen. Sind die Angaben zur Begründung des Antrags unzureichend, teilt der Gemeinsame Bundesausschuss dem Antragsteller unverzüglich mit, welche zusätzlichen Einzelangaben erforderlich sind. Der Gemeinsame Bundesausschuss hat über ausreichend begründete Anträge nach Satz 1 innerhalb von 90 Tagen zu bescheiden und den Antragsteller über Rechtsmittel und Rechtsmittelfristen zu belehren. Eine ablehnende Entscheidung muss eine auf objektiven und überprüfbaren Kriterien beruhende Begründung enthalten. Für das Antragsverfahren sind Gebühren zu erheben. Das Nähere insbesondere zur ausreichenden Begründung und zu den erforderlichen Nachweisen regelt der Gemeinsame Bundesausschuss.
 
-
-## § 35 – Festbeträge für Arznei- und Verbandmittel
+# § 35 – Festbeträge für Arznei- und Verbandmittel
 
 (1) Der Gemeinsame Bundesausschuss bestimmt in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6, für welche Gruppen von Arzneimitteln Festbeträge festgesetzt werden können. In den Gruppen sollen Arzneimittel mit
 
@@ -1819,8 +1740,7 @@ zusammengefaßt werden; unterschiedliche Bioverfügbarkeiten wirkstoffgleicher A
 
 § 35: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 17.12.2002; 2003 I 126 - 1 BvL 28/95 ua -
 
-
-## § 35a – Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen, Verordnungsermächtigung
+# § 35a – Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen, Verordnungsermächtigung
 
 (1) Der Gemeinsame Bundesausschuss bewertet den Nutzen von erstattungsfähigen Arzneimitteln mit neuen Wirkstoffen. Hierzu gehört insbesondere die Bewertung des Zusatznutzens gegenüber der zweckmäßigen Vergleichstherapie, des Ausmaßes des Zusatznutzens und seiner therapeutischen Bedeutung. Die Nutzenbewertung erfolgt auf Grund von Nachweisen des pharmazeutischen Unternehmers, die er einschließlich aller von ihm durchgeführten oder in Auftrag gegebenen klinischen Prüfungen spätestens zum Zeitpunkt des erstmaligen Inverkehrbringens sowie vier Wochen nach Zulassung neuer Anwendungsgebiete des Arzneimittels an den Gemeinsamen Bundesausschuss elektronisch zu übermitteln hat, und die insbesondere folgende Angaben enthalten müssen:
 
@@ -1890,8 +1810,7 @@ Der Gemeinsame Bundesausschuss kann die Befugnis zur Versorgung der Versicherten
 
 (8) Eine gesonderte Klage gegen die Aufforderung zur Übermittlung der Nachweise nach Absatz 1, die Nutzenbewertung nach Absatz 2, den Beschluss nach Absatz 3 und die Einbeziehung eines Arzneimittels in eine Festbetragsgruppe nach Absatz 4 ist unzulässig. § 35 Absatz 7 Satz 1 bis 3 gilt entsprechend.
 
-
-## § 35b – Kosten-Nutzen-Bewertung von Arzneimitteln
+# § 35b – Kosten-Nutzen-Bewertung von Arzneimitteln
 
 (1) Der Gemeinsame Bundesausschuss beauftragt auf Grund eines Antrags nach § 130b Absatz 8 das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen mit einer Kosten-Nutzen-Bewertung. In dem Auftrag ist insbesondere festzulegen, für welche zweckmäßige Vergleichstherapie und Patientengruppen die Bewertung erfolgen soll sowie welcher Zeitraum, welche Art von Nutzen und Kosten und welches Maß für den Gesamtnutzen bei der Bewertung zu berücksichtigen sind; das Nähere regelt der Gemeinsame Bundesausschuss in seiner Verfahrensordnung; für die Auftragserteilung gilt § 92 Absatz 3a entsprechend mit der Maßgabe, dass der Gemeinsame Bundesausschuss auch eine mündliche Anhörung durchführt. Die Bewertung erfolgt durch Vergleich mit anderen Arzneimitteln und Behandlungsformen unter Berücksichtigung des therapeutischen Zusatznutzens für die Patienten im Verhältnis zu den Kosten; Basis für die Bewertung sind die Ergebnisse klinischer Studien sowie derjenigen Versorgungsstudien, die mit dem Gemeinsamen Bundesausschuss nach Absatz 2 vereinbart wurden oder die der Gemeinsame Bundesausschuss auf Antrag des pharmazeutischen Unternehmens anerkennt; § 35a Absatz 1 Satz 3 und Absatz 2 Satz 2 gilt entsprechend. Beim Patienten-Nutzen sollen insbesondere die Verbesserung des Gesundheitszustandes, eine Verkürzung der Krankheitsdauer, eine Verlängerung der Lebensdauer, eine Verringerung der Nebenwirkungen sowie eine Verbesserung der Lebensqualität, bei der wirtschaftlichen Bewertung auch die Angemessenheit und Zumutbarkeit einer Kostenübernahme durch die Versichertengemeinschaft, angemessen berücksichtigt werden. Das Institut bestimmt auftragsbezogen über die Methoden und Kriterien für die Erarbeitung von Bewertungen nach Satz 1 auf der Grundlage der in den jeweiligen Fachkreisen anerkannten internationalen Standards der evidenzbasierten Medizin und der Gesundheitsökonomie. Das Institut gewährleistet vor Abschluss von Bewertungen hohe Verfahrenstransparenz und eine angemessene Beteiligung der in § 35 Abs. 2 und § 139a Abs. 5 Genannten. Das Institut veröffentlicht die jeweiligen Methoden und Kriterien im Internet.
 
@@ -1901,15 +1820,13 @@ Der Gemeinsame Bundesausschuss kann die Befugnis zur Versorgung der Versicherten
 
 (4) Gesonderte Klagen gegen den Auftrag nach Absatz 1 Satz 1 oder die Bewertung nach Absatz 1 Satz 3 sind unzulässig. Klagen gegen eine Feststellung des Kosten-Nutzen-Verhältnisses nach Absatz 3 haben keine aufschiebende Wirkung.
 
-
-## § 35c – Zulassungsüberschreitende Anwendung von Arzneimitteln
+# § 35c – Zulassungsüberschreitende Anwendung von Arzneimitteln
 
 (1) Für die Abgabe von Bewertungen zum Stand der wissenschaftlichen Erkenntnis über die Anwendung von zugelassenen Arzneimitteln für Indikationen und Indikationsbereiche, für die sie nach dem Arzneimittelgesetz nicht zugelassen sind, beruft das Bundesministerium für Gesundheit Expertengruppen beim Bundesinstitut für Arzneimittel und Medizinprodukte, davon mindestens eine ständige Expertengruppe, die fachgebietsbezogen ergänzt werden kann. Das Nähere zur Organisation und Arbeitsweise der Expertengruppen regelt eine Geschäftsordnung des Bundesinstituts für Arzneimittel und Medizinprodukte, die der Zustimmung des Bundesministeriums für Gesundheit bedarf. Zur Sicherstellung der fachlichen Unabhängigkeit der Experten gilt § 139b Absatz 3 Satz 2 entsprechend. Der Gemeinsame Bundesausschuss kann die Expertengruppen mit Bewertungen nach Satz 1 beauftragen; das Nähere regelt er in seiner Verfahrensordnung. Bewertungen nach Satz 1 kann auch das Bundesministerium für Gesundheit beauftragen. Die Bewertungen werden dem Gemeinsamen Bundesausschuss als Empfehlung zur Beschlussfassung nach § 92 Absatz 1 Satz 2 Nummer 6 zugeleitet. Bewertungen sollen nur mit Zustimmung der betroffenen pharmazeutischen Unternehmer erstellt werden. Gesonderte Klagen gegen diese Bewertungen sind unzulässig.
 
 (2) Außerhalb des Anwendungsbereichs des Absatzes 1 haben Versicherte Anspruch auf Versorgung mit zugelassenen Arzneimitteln in klinischen Studien, sofern hierdurch eine therapierelevante Verbesserung der Behandlung einer schwerwiegenden Erkrankung im Vergleich zu bestehenden Behandlungsmöglichkeiten zu erwarten ist, damit verbundene Mehrkosten in einem angemessenen Verhältnis zum erwarteten medizinischen Zusatznutzen stehen, die Behandlung durch einen Arzt erfolgt, der an der vertragsärztlichen Versorgung oder an der ambulanten Versorgung nach den §§ 116b und 117 teilnimmt, und der Gemeinsame Bundesausschuss der Arzneimittelverordnung nicht widerspricht. Eine Leistungspflicht der Krankenkasse ist ausgeschlossen, sofern das Arzneimittel auf Grund arzneimittelrechtlicher Vorschriften vom pharmazeutischen Unternehmer kostenlos bereitzustellen ist. Der Gemeinsame Bundesausschuss ist mindestens zehn Wochen vor dem Beginn der Arzneimittelverordnung zu informieren; er kann innerhalb von acht Wochen nach Eingang der Mitteilung widersprechen, sofern die Voraussetzungen nach Satz 1 nicht erfüllt sind. Das Nähere, auch zu den Nachweisen und Informationspflichten, regelt der Gemeinsame Bundesausschuss in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6. Leisten Studien nach Satz 1 für die Erweiterung einer Zulassung einen entscheidenden Beitrag, hat der pharmazeutische Unternehmer den Krankenkassen die Verordnungskosten zu erstatten. Dies gilt auch für eine Genehmigung für das Inverkehrbringen nach europäischem Recht.
 
-
-## § 36 – Festbeträge für Hilfsmittel
+# § 36 – Festbeträge für Hilfsmittel
 
 (1) Der Spitzenverband Bund der Krankenkassen bestimmt Hilfsmittel, für die Festbeträge festgesetzt werden. Dabei sollen unter Berücksichtigung des Hilfsmittelverzeichnisses nach § 139 in ihrer Funktion gleichartige und gleichwertige Mittel in Gruppen zusammengefasst und die Einzelheiten der Versorgung festgelegt werden. Den maßgeblichen Spitzenorganisationen der betroffenen Hersteller und Leistungserbringer auf Bundesebene ist unter Übermittlung der hierfür erforderlichen Informationen innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen.
 
@@ -1921,8 +1838,7 @@ Der Gemeinsame Bundesausschuss kann die Befugnis zur Versorgung der Versicherten
 
 § 36: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 17.12.2002; 2003 I 126 - 1 BvL 28/95 u. a. -
 
-
-## § 37 – Häusliche Krankenpflege
+# § 37 – Häusliche Krankenpflege
 
 (1) Versicherte erhalten in ihrem Haushalt, ihrer Familie oder sonst an einem geeigneten Ort, insbesondere in betreuten Wohnformen, Schulen und Kindergärten, bei besonders hohem Pflegebedarf auch in Werkstätten für behinderte Menschen neben der ärztlichen Behandlung häusliche Krankenpflege durch geeignete Pflegekräfte, wenn Krankenhausbehandlung geboten, aber nicht ausführbar ist, oder wenn sie durch die häusliche Krankenpflege vermieden oder verkürzt wird. § 10 der Werkstättenverordnung bleibt unberührt. Die häusliche Krankenpflege umfaßt die im Einzelfall erforderliche Grund- und Behandlungspflege sowie hauswirtschaftliche Versorgung. Der Anspruch besteht bis zu vier Wochen je Krankheitsfall. In begründeten Ausnahmefällen kann die Krankenkasse die häusliche Krankenpflege für einen längeren Zeitraum bewilligen, wenn der Medizinische Dienst (§ 275) festgestellt hat, daß dies aus den in Satz 1 genannten Gründen erforderlich ist.
 
@@ -1944,8 +1860,7 @@ Der Gemeinsame Bundesausschuss kann die Befugnis zur Versorgung der Versicherten
 
 (7) Der Gemeinsame Bundesausschuss regelt in Richtlinien nach § 92 unter Berücksichtigung bestehender Therapieangebote das Nähere zur Versorgung von chronischen und schwer heilenden Wunden. Die Versorgung von chronischen und schwer heilenden Wunden kann auch in spezialisierten Einrichtungen an einem geeigneten Ort außerhalb der Häuslichkeit von Versicherten erfolgen.
 
-
-## § 37a – Soziotherapie
+# § 37a – Soziotherapie
 
 (1) Versicherte, die wegen schwerer psychischer Erkrankung nicht in der Lage sind, ärztliche oder ärztlich verordnete Leistungen selbständig in Anspruch zu nehmen, haben Anspruch auf Soziotherapie, wenn dadurch Krankenhausbehandlung vermieden oder verkürzt wird oder wenn diese geboten, aber nicht ausführbar ist. Die Soziotherapie umfasst im Rahmen des Absatzes 2 die im Einzelfall erforderliche Koordinierung der verordneten Leistungen sowie Anleitung und Motivation zu deren Inanspruchnahme. Der Anspruch besteht für höchstens 120 Stunden innerhalb von drei Jahren je Krankheitsfall.
 
@@ -1963,8 +1878,7 @@ Der Gemeinsame Bundesausschuss kann die Befugnis zur Versorgung der Versicherten
 
 (3) Versicherte, die das 18. Lebensjahr vollendet haben, leisten als Zuzahlung je Kalendertag der Leistungsinanspruchnahme den sich nach § 61 Satz 1 ergebenden Betrag an die Krankenkasse.
 
-
-## § 37b – Spezialisierte ambulante Palliativversorgung
+# § 37b – Spezialisierte ambulante Palliativversorgung
 
 (1) Versicherte mit einer nicht heilbaren, fortschreitenden und weit fortgeschrittenen Erkrankung bei einer zugleich begrenzten Lebenserwartung, die eine besonders aufwändige Versorgung benötigen, haben Anspruch auf spezialisierte ambulante Palliativversorgung. Die Leistung ist von einem Vertragsarzt oder Krankenhausarzt zu verordnen. Die spezialisierte ambulante Palliativversorgung umfasst ärztliche und pflegerische Leistungen einschließlich ihrer Koordination insbesondere zur Schmerztherapie und Symptomkontrolle und zielt darauf ab, die Betreuung der Versicherten nach Satz 1 in der vertrauten Umgebung des häuslichen oder familiären Bereichs zu ermöglichen; hierzu zählen beispielsweise Einrichtungen der Eingliederungshilfe für behinderte Menschen und der Kinder- und Jugendhilfe. Versicherte in stationären Hospizen haben einen Anspruch auf die Teilleistung der erforderlichen ärztlichen Versorgung im Rahmen der spezialisierten ambulanten Palliativversorgung. Dies gilt nur, wenn und soweit nicht andere Leistungsträger zur Leistung verpflichtet sind. Dabei sind die besonderen Belange von Kindern zu berücksichtigen.
 
@@ -1980,8 +1894,7 @@ Der Gemeinsame Bundesausschuss kann die Befugnis zur Versorgung der Versicherten
 
 (4) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit alle drei Jahre über die Entwicklung der spezialisierten ambulanten Palliativversorgung und die Umsetzung der dazu erlassenen Richtlinien des Gemeinsamen Bundesausschusses. Er bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen über die geschlossenen Verträge und die erbrachten Leistungen der spezialisierten ambulanten Palliativversorgung.
 
-
-## § 37c – Außerklinische Intensivpflege
+# § 37c – Außerklinische Intensivpflege
 
 (1) Versicherte mit einem besonders hohen Bedarf an medizinischer Behandlungspflege haben Anspruch auf außerklinische Intensivpflege. Ein besonders hoher Bedarf an medizinischer Behandlungspflege liegt vor, wenn die ständige Anwesenheit einer geeigneten Pflegefachkraft zur individuellen Kontrolle und Einsatzbereitschaft oder ein vergleichbar intensiver Einsatz einer Pflegefachkraft erforderlich ist. Der Anspruch auf außerklinische Intensivpflege umfasst die medizinische Behandlungspflege, die zur Sicherung des Ziels der ärztlichen Behandlung erforderlich ist, sowie eine Beratung durch die Krankenkasse, insbesondere zur Auswahl des geeigneten Leistungsorts nach Absatz 2. Die Leistung bedarf der Verordnung durch eine Vertragsärztin oder einen Vertragsarzt, die oder der für die Versorgung dieser Versicherten besonders qualifiziert ist. Die verordnende Vertragsärztin oder der verordnende Vertragsarzt hat das Therapieziel mit dem Versicherten zu erörtern und individuell festzustellen, bei Bedarf unter Einbeziehung palliativmedizinischer Fachkompetenz. Bei Versicherten, die beatmet werden oder tracheotomiert sind, sind mit jeder Verordnung einer außerklinischen Intensivpflege das Potenzial zur Reduzierung der Beatmungszeit bis hin zur vollständigen Beatmungsentwöhnung und Dekanülierung sowie die zu deren Umsetzung notwendigen Maßnahmen zu erheben, zu dokumentieren und auf deren Umsetzung hinzuwirken. Zur Erhebung und Dokumentation nach Satz 6 sind auch nicht an der vertragsärztlichen Versorgung teilnehmende Ärztinnen oder Ärzte oder nicht an der vertragsärztlichen Versorgung teilnehmende Krankenhäuser berechtigt; sie nehmen zu diesem Zweck an der vertragsärztlichen Versorgung teil. Der Gemeinsame Bundesausschuss bestimmt in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 bis zum 31. Oktober 2021 jeweils für Kinder und Jugendliche bis zur Vollendung des 18. Lebensjahres, für junge Volljährige, bei denen ein Krankheitsbild des Kinder- und Jugendalters weiterbesteht oder ein typisches Krankheitsbild des Kinder- und Jugendalters neu auftritt oder ein dem Kindesalter entsprechender psychomotorischer Entwicklungsstand vorliegt, und für volljährige Versicherte getrennt das Nähere zu Inhalt und Umfang der Leistungen sowie die Anforderungen
 
@@ -2023,8 +1936,7 @@ Berechtigten Wünschen der Versicherten ist zu entsprechen. Hierbei ist zu prüf
 
 5. Angaben zu Satzungsleistungen der Krankenkassen nach Absatz 3 Satz 3.
 
-
-## § 38 – Haushaltshilfe
+# § 38 – Haushaltshilfe
 
 (1) Versicherte erhalten Haushaltshilfe, wenn ihnen wegen Krankenhausbehandlung oder wegen einer Leistung nach § 23 Abs. 2 oder 4, §§ 24, 37, 40 oder § 41 die Weiterführung des Haushalts nicht möglich ist. Voraussetzung ist ferner, daß im Haushalt ein Kind lebt, das bei Beginn der Haushaltshilfe das zwölfte Lebensjahr noch nicht vollendet hat oder das behindert und auf Hilfe angewiesen ist. Darüber hinaus erhalten Versicherte, soweit keine Pflegebedürftigkeit mit Pflegegrad 2, 3, 4 oder 5 im Sinne des Elften Buches vorliegt, auch dann Haushaltshilfe, wenn ihnen die Weiterführung des Haushalts wegen schwerer Krankheit oder wegen akuter Verschlimmerung einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder nach einer ambulanten Krankenhausbehandlung, nicht möglich ist, längstens jedoch für die Dauer von vier Wochen. Wenn im Haushalt ein Kind lebt, das bei Beginn der Haushaltshilfe das zwölfte Lebensjahr noch nicht vollendet hat oder das behindert und auf Hilfe angewiesen ist, verlängert sich der Anspruch nach Satz 3 auf längstens 26 Wochen. Die Pflegebedürftigkeit von Versicherten schließt Haushaltshilfe nach den Sätzen 3 und 4 zur Versorgung des Kindes nicht aus.
 
@@ -2036,8 +1948,7 @@ Berechtigten Wünschen der Versicherten ist zu entsprechen. Hierbei ist zu prüf
 
 (5) Versicherte, die das 18. Lebensjahr vollendet haben, leisten als Zuzahlung je Kalendertag der Leistungsinanspruchnahme den sich nach § 61 Satz 1 ergebenden Betrag an die Krankenkasse.
 
-
-## § 39 – Krankenhausbehandlung
+# § 39 – Krankenhausbehandlung
 
 (1) Die Krankenhausbehandlung wird vollstationär, stationsäquivalent, teilstationär, vor- und nachstationär sowie ambulant erbracht; sie umfasst auch Untersuchungs- und Behandlungsmethoden, zu denen der Gemeinsame Bundesausschuss bisher keine Entscheidung nach § 137c Absatz 1 getroffen hat und die das Potential einer erforderlichen Behandlungsalternative bieten. Versicherte haben Anspruch auf vollstationäre oder stationsäquivalente Behandlung durch ein nach § 108 zugelassenes Krankenhaus, wenn die Aufnahme oder die Behandlung im häuslichen Umfeld nach Prüfung durch das Krankenhaus erforderlich ist, weil das Behandlungsziel nicht durch teilstationäre, vor- und nachstationäre oder ambulante Behandlung einschließlich häuslicher Krankenpflege erreicht werden kann. Die Krankenhausbehandlung umfaßt im Rahmen des Versorgungsauftrags des Krankenhauses alle Leistungen, die im Einzelfall nach Art und Schwere der Krankheit für die medizinische Versorgung der Versicherten im Krankenhaus notwendig sind, insbesondere ärztliche Behandlung (§ 28 Abs. 1), Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, Unterkunft und Verpflegung; die akutstationäre Behandlung umfasst auch die im Einzelfall erforderlichen und zum frühestmöglichen Zeitpunkt einsetzenden Leistungen zur Frührehabilitation. Die stationsäquivalente Behandlung umfasst eine psychiatrische Behandlung im häuslichen Umfeld durch mobile ärztlich geleitete multiprofessionelle Behandlungsteams. Sie entspricht hinsichtlich der Inhalte sowie der Flexibilität und Komplexität der Behandlung einer vollstationären Behandlung. Zur Krankenhausbehandlung gehört auch eine qualifizierte ärztliche Einschätzung des Beatmungsstatus im Laufe der Behandlung und vor der Verlegung oder Entlassung von Beatmungspatienten.
 
@@ -2051,8 +1962,7 @@ Berechtigten Wünschen der Versicherten ist zu entsprechen. Hierbei ist zu prüf
 
 (5) (weggefallen)
 
-
-## § 39a – Stationäre und ambulante Hospizleistungen
+# § 39a – Stationäre und ambulante Hospizleistungen
 
 (1) Versicherte, die keiner Krankenhausbehandlung bedürfen, haben im Rahmen der Verträge nach Satz 4 Anspruch auf einen Zuschuß zu stationärer oder teilstationärer Versorgung in Hospizen, in denen palliativ-medizinische Behandlung erbracht wird, wenn eine ambulante Versorgung im Haushalt oder der Familie des Versicherten nicht erbracht werden kann. Die Krankenkasse trägt die zuschussfähigen Kosten nach Satz 1 unter Anrechnung der Leistungen nach dem Elften Buch zu 95 Prozent. Der Zuschuss darf kalendertäglich 9 Prozent der monatlichen Bezugsgröße nach § 18 Abs. 1 des Vierten Buches nicht unterschreiten und unter Anrechnung der Leistungen anderer Sozialleistungsträger die tatsächlichen kalendertäglichen Kosten nach Satz 1 nicht überschreiten. Der Spitzenverband Bund der Krankenkassen vereinbart mit den für die Wahrnehmung der Interessen der stationären Hospize maßgeblichen Spitzenorganisationen das Nähere über Art und Umfang der Versorgung nach Satz 1. Dabei ist den besonderen Belangen der Versorgung in Kinderhospizen und in Erwachsenenhospizen durch jeweils gesonderte Vereinbarungen nach Satz 4 ausreichend Rechnung zu tragen. In den Vereinbarungen nach Satz 4 sind bundesweit geltende Standards zum Leistungsumfang und zur Qualität der zuschussfähigen Leistungen festzulegen. Der besondere Verwaltungsaufwand stationärer Hospize ist dabei zu berücksichtigen. Die Vereinbarungen nach Satz 4 sind mindestens alle vier Jahre zu überprüfen und an aktuelle Versorgungs- und Kostenentwicklungen anzupassen. In den Vereinbarungen ist auch zu regeln, in welchen Fällen Bewohner einer stationären Pflegeeinrichtung in ein stationäres Hospiz wechseln können; dabei sind die berechtigten Wünsche der Bewohner zu berücksichtigen. Der Kassenärztlichen Bundesvereinigung ist Gelegenheit zur Stellungnahme zu geben. In den über die Einzelheiten der Versorgung nach Satz 1 zwischen Krankenkassen und Hospizen abzuschließenden Verträgen ist zu regeln, dass im Falle von Nichteinigung eine von den Parteien zu bestimmende unabhängige Schiedsperson den Vertragsinhalt festlegt. Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird diese von der für die vertragschließende Krankenkasse zuständigen Aufsichtsbehörde bestimmt. Die Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
 
@@ -2066,20 +1976,17 @@ Der ambulante Hospizdienst erbringt palliativ-pflegerische Beratung durch entspr
 
 (+++ § 39a Abs. 2 Satz 11: Eingef. durch Art. 1 Nr. 3 Buchst. b DBuchst. ee G v. 1.12.2015 I 2114 mWv 8.12.2015; die nicht ausführbare Änderungsanweisung d. Art. 1 Nr. 18 Buchst. b G v. 6.5.2019 I 646 mWv 11.5.2019 wurde sinngemäß konsolidiert +++)
 
-
-## § 39b – Hospiz- und Palliativberatung durch die Krankenkassen
+# § 39b – Hospiz- und Palliativberatung durch die Krankenkassen
 
 (1) Versicherte haben Anspruch auf individuelle Beratung und Hilfestellung durch die Krankenkasse zu den Leistungen der Hospiz- und Palliativversorgung. Der Anspruch umfasst auch die Erstellung einer Übersicht der Ansprechpartner der regional verfügbaren Beratungs- und Versorgungsangebote. Die Krankenkasse leistet bei Bedarf Hilfestellung bei der Kontaktaufnahme und Leistungsinanspruchnahme. Die Beratung soll mit der Pflegeberatung nach § 7a des Elften Buches und anderen bereits in Anspruch genommenen Beratungsangeboten abgestimmt werden. Auf Verlangen des Versicherten sind Angehörige und andere Vertrauenspersonen an der Beratung zu beteiligen. Im Auftrag des Versicherten informiert die Krankenkasse die Leistungserbringer und Einrichtungen, die an der Versorgung des Versicherten mitwirken, über die wesentlichen Beratungsinhalte und Hilfestellungen oder händigt dem Versicherten zu diesem Zweck ein entsprechendes Begleitschreiben aus. Maßnahmen nach dieser Vorschrift und die dazu erforderliche Verarbeitung personenbezogener Daten dürfen nur mit schriftlicher oder elektronischer Einwilligung und nach vorheriger schriftlicher oder elektronischer Information des Versicherten erfolgen. Die Krankenkassen dürfen ihre Aufgaben nach dieser Vorschrift an andere Krankenkassen, deren Verbände oder Arbeitsgemeinschaften übertragen.
 
 (2) Die Krankenkasse informiert ihre Versicherten in allgemeiner Form über die Möglichkeiten persönlicher Vorsorge für die letzte Lebensphase, insbesondere zu Patientenverfügung, Vorsorgevollmacht und Betreuungsverfügung. Der Spitzenverband Bund der Krankenkassen regelt für seine Mitglieder das Nähere zu Form und Inhalt der Informationen und berücksichtigt dabei das Informationsmaterial und die Formulierungshilfen anderer öffentlicher Stellen.
 
-
-## § 39c – Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+# § 39c – Kurzzeitpflege bei fehlender Pflegebedürftigkeit
 
 Reichen Leistungen der häuslichen Krankenpflege nach § 37 Absatz 1a bei schwerer Krankheit oder wegen akuter Verschlimmerung einer Krankheit, insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation oder nach einer ambulanten Krankenhausbehandlung, nicht aus, erbringt die Krankenkasse die erforderliche Kurzzeitpflege entsprechend § 42 des Elften Buches für eine Übergangszeit, wenn keine Pflegebedürftigkeit mit Pflegegrad 2, 3, 4 oder 5 im Sinne des Elften Buches festgestellt ist. Im Hinblick auf die Leistungsdauer und die Leistungshöhe gilt § 42 Absatz 2 Satz 1 und 2 des Elften Buches entsprechend. Die Leistung kann in zugelassenen Einrichtungen nach dem Elften Buch oder in anderen geeigneten Einrichtungen erbracht werden.
 
-
-## § 40 – Leistungen zur medizinischen Rehabilitation
+# § 40 – Leistungen zur medizinischen Rehabilitation
 
 (1) Reicht bei Versicherten eine ambulante Krankenbehandlung nicht aus, um die in § 11 Abs. 2 beschriebenen Ziele zu erreichen, erbringt die Krankenkasse aus medizinischen Gründen erforderliche ambulante Rehabilitationsleistungen in Rehabilitationseinrichtungen, für die ein Versorgungsvertrag nach § 111c besteht; dies schließt mobile Rehabilitationsleistungen durch wohnortnahe Einrichtungen ein. Leistungen nach Satz 1 sind auch in stationären Pflegeeinrichtungen nach § 72 Abs. 1 des Elften Buches zu erbringen.
 
@@ -2095,8 +2002,7 @@ Reichen Leistungen der häuslichen Krankenpflege nach § 37 Absatz 1a bei schwer
 
 (7) Der Spitzenverband Bund der Krankenkassen legt unter Beteiligung der Arbeitsgemeinschaft nach § 282 (Medizinischer Dienst der Spitzenverbände der Krankenkassen) Indikationen fest, bei denen für eine medizinisch notwendige Leistung nach Absatz 2 die Zuzahlung nach Absatz 6 Satz 1 Anwendung findet, ohne daß es sich um Anschlußrehabilitation handelt. Vor der Festlegung der Indikationen ist den für die Wahrnehmung der Interessen der stationären Rehabilitation auf Bundesebene maßgebenden Organisationen Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen.
 
-
-## § 41 – Medizinische Rehabilitation für Mütter und Väter
+# § 41 – Medizinische Rehabilitation für Mütter und Väter
 
 (1) Versicherte haben unter den in § 27 Abs. 1 genannten Voraussetzungen Anspruch auf aus medizinischen Gründen erforderliche Rehabilitationsleistungen in einer Einrichtung des Müttergenesungswerks oder einer gleichartigen Einrichtung; die Leistung kann in Form einer Mutter-Kind-Maßnahme erbracht werden. Satz 1 gilt auch für Vater-Kind-Maßnahmen in dafür geeigneten Einrichtungen. Rehabilitationsleistungen nach den Sätzen 1 und 2 werden in Einrichtungen erbracht, mit denen ein Versorgungsvertrag nach § 111a besteht. § 40 Absatz 2 Satz 1 und 4 gilt nicht; § 40 Absatz 2 Satz 5 und 6 gilt entsprechend.
 
@@ -2106,13 +2012,11 @@ Reichen Leistungen der häuslichen Krankenpflege nach § 37 Absatz 1a bei schwer
 
 (4) (weggefallen)
 
-
-## § 42 – Belastungserprobung und Arbeitstherapie
+# § 42 – Belastungserprobung und Arbeitstherapie
 
 Versicherte haben Anspruch auf Belastungserprobung und Arbeitstherapie, wenn nach den für andere Träger der Sozialversicherung geltenden Vorschriften solche Leistungen nicht erbracht werden können.
 
-
-## § 43 – Ergänzende Leistungen zur Rehabilitation
+# § 43 – Ergänzende Leistungen zur Rehabilitation
 
 (1) Die Krankenkasse kann neben den Leistungen, die nach § 64 Abs. 1 Nr. 2 bis 6 sowie nach §§ 73 und 74 des Neunten Buches als ergänzende Leistungen zu erbringen sind,
 
@@ -2124,20 +2028,17 @@ wenn zuletzt die Krankenkasse Krankenbehandlung geleistet hat oder leistet.
 
 (2) Die Krankenkasse erbringt aus medizinischen Gründen in unmittelbarem Anschluss an eine Krankenhausbehandlung nach § 39 Abs. 1 oder stationäre Rehabilitation erforderliche sozialmedizinische Nachsorgemaßnahmen für chronisch kranke oder schwerstkranke Kinder und Jugendliche, die das 14. Lebensjahr, in besonders schwerwiegenden Fällen das 18. Lebensjahr, noch nicht vollendet haben, wenn die Nachsorge wegen der Art, Schwere und Dauer der Erkrankung notwendig ist, um den stationären Aufenthalt zu verkürzen oder die anschließende ambulante ärztliche Behandlung zu sichern. Die Nachsorgemaßnahmen umfassen die im Einzelfall erforderliche Koordinierung der verordneten Leistungen sowie Anleitung und Motivation zu deren Inanspruchnahme. Angehörige und ständige Betreuungspersonen sind einzubeziehen, wenn dies aus medizinischen Gründen erforderlich ist. Der Spitzenverband Bund der Krankenkassen bestimmt das Nähere zu den Voraussetzungen sowie zu Inhalt und Qualität der Nachsorgemaßnahmen.
 
-
-## § 43a – Nichtärztliche sozialpädiatrische Leistungen
+# § 43a – Nichtärztliche sozialpädiatrische Leistungen
 
 (1) Versicherte Kinder haben Anspruch auf nichtärztliche sozialpädiatrische Leistungen, insbesondere auf psychologische, heilpädagogische und psychosoziale Leistungen, wenn sie unter ärztlicher Verantwortung erbracht werden und erforderlich sind, um eine Krankheit zum frühestmöglichen Zeitpunkt zu erkennen und einen Behandlungsplan aufzustellen; § 46 des Neunten Buches bleibt unberührt.
 
 (2) Versicherte Kinder haben Anspruch auf nichtärztliche sozialpädiatrische Leistungen, die unter ärztlicher Verantwortung in der ambulanten psychiatrischen Behandlung erbracht werden.
 
-
-## § 43b – Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen
+# § 43b – Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen
 
 Versicherte Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen haben Anspruch auf nichtärztliche Leistungen, insbesondere auf psychologische, therapeutische und psychosoziale Leistungen, wenn sie unter ärztlicher Verantwortung durch ein medizinisches Behandlungszentrum nach § 119c erbracht werden und erforderlich sind, um eine Krankheit zum frühestmöglichen Zeitpunkt zu erkennen und einen Behandlungsplan aufzustellen. Dies umfasst auch die im Einzelfall erforderliche Koordinierung von Leistungen.
 
-
-## § 43c – Zahlungsweg
+# § 43c – Zahlungsweg
 
 (1) Leistungserbringer haben Zahlungen, die Versicherte zu entrichten haben, einzuziehen und mit ihrem Vergütungsanspruch gegenüber der Krankenkasse zu verrechnen. Zahlt der Versicherte trotz einer gesonderten schriftlichen Aufforderung durch den Leistungserbringer nicht, hat die Krankenkasse die Zahlung einzuziehen.
 
@@ -2145,8 +2046,7 @@ Versicherte Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderu
 
 (3) Zuzahlungen, die Versicherte nach § 39 Abs. 4 zu entrichten haben, hat das Krankenhaus einzubehalten; sein Vergütungsanspruch gegenüber der Krankenkasse verringert sich entsprechend. Absatz 1 Satz 2 gilt nicht. Zahlt der Versicherte trotz einer gesonderten schriftlichen Aufforderung durch das Krankenhaus nicht, hat dieses im Auftrag der Krankenkasse die Zuzahlung einzuziehen. Die Krankenhäuser werden zur Durchführung des Verwaltungsverfahrens nach Satz 3 beliehen. Sie können hierzu Verwaltungsakte gegenüber den Versicherten erlassen; Klagen gegen diese Verwaltungsakte haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt. Die zuständige Krankenkasse erstattet dem Krankenhaus je durchgeführtem Verwaltungsverfahren nach Satz 3 eine angemessene Kostenpauschale. Die dem Krankenhaus für Klagen von Versicherten gegen den Verwaltungsakt entstehenden Kosten werden von den Krankenkassen getragen. Das Vollstreckungsverfahren für Zuzahlungen nach § 39 Absatz 4 wird von der zuständigen Krankenkasse durchgeführt. Das Nähere zur Umsetzung der Kostenerstattung nach den Sätzen 6 und 7 vereinbaren der Spitzenverband Bund und die Deutsche Krankenhausgesellschaft. Soweit die Einziehung der Zuzahlung durch das Krankenhaus erfolglos bleibt, verringert sich abweichend von Satz 1 der Vergütungsanspruch des Krankenhauses gegenüber der Krankenkasse nicht. Zwischen dem Krankenhaus und der Krankenkasse können abweichende Regelungen zum Zahlungsweg vereinbart werden, soweit dies wirtschaftlich ist.
 
-
-## § 44 – Krankengeld
+# § 44 – Krankengeld
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn die Krankheit sie arbeitsunfähig macht oder sie auf Kosten der Krankenkasse stationär in einem Krankenhaus, einer Vorsorge- oder Rehabilitationseinrichtung (§ 23 Abs. 4, §§ 24, 40 Abs. 2 und § 41) behandelt werden.
 
@@ -2166,13 +2066,11 @@ Für die Wahlerklärung nach Satz 1 Nummer 2 und 3 gilt § 53 Absatz 8 Satz 1 en
 
 (4) Versicherte haben Anspruch auf individuelle Beratung und Hilfestellung durch die Krankenkasse, welche Leistungen und unterstützende Angebote zur Wiederherstellung der Arbeitsfähigkeit erforderlich sind. Maßnahmen nach Satz 1 und die dazu erforderliche Verarbeitung personenbezogener Daten dürfen nur mit schriftlicher oder elektronischer Einwilligung und nach vorheriger schriftlicher oder elektronischer Information des Versicherten erfolgen. Die Einwilligung kann jederzeit schriftlich oder elektronisch widerrufen werden. Die Krankenkassen dürfen ihre Aufgaben nach Satz 1 an die in § 35 des Ersten Buches genannten Stellen übertragen.
 
-
-## § 44a – Krankengeld bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
+# § 44a – Krankengeld bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
 
 Spender von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen nach § 27 Absatz 1a Satz 1 haben Anspruch auf Krankengeld, wenn die Spende an Versicherte sie arbeitsunfähig macht. Das Krankengeld wird den Spendern von der Krankenkasse der Empfänger in Höhe des vor Beginn der Arbeitsunfähigkeit regelmäßig erzielten Nettoarbeitsentgelts oder Arbeitseinkommens bis zur Höhe des Betrages der kalendertäglichen Beitragsbemessungsgrenze geleistet. Für nach dem Künstlersozialversicherungsgesetz versicherungspflichtige Spender ist das ausgefallene Arbeitseinkommen im Sinne von Satz 2 aus demjenigen Arbeitseinkommen zu berechnen, das der Beitragsbemessung für die letzten zwölf Kalendermonate vor Beginn der Arbeitsunfähigkeit im Hinblick auf die Spende zugrunde gelegen hat. § 44 Absatz 3, § 47 Absatz 2 bis 4, die §§ 47b, 49 und 50 gelten entsprechend; Ansprüche nach § 44 sind gegenüber Ansprüchen nach dieser Vorschrift ausgeschlossen. Ansprüche nach dieser Vorschrift haben auch nicht gesetzlich krankenversicherte Personen.
 
-
-## § 45 – Krankengeld bei Erkrankung des Kindes
+# § 45 – Krankengeld bei Erkrankung des Kindes
 
 (1) Versicherte haben Anspruch auf Krankengeld, wenn es nach ärztlichem Zeugnis erforderlich ist, daß sie zur Beaufsichtigung, Betreuung oder Pflege ihres erkrankten und versicherten Kindes der Arbeit fernbleiben, eine andere in ihrem Haushalt lebende Person das Kind nicht beaufsichtigen, betreuen oder pflegen kann und das Kind das zwölfte Lebensjahr noch nicht vollendet hat oder behindert und auf Hilfe angewiesen ist. § 10 Abs. 4 und § 44 Absatz 2 gelten.
 
@@ -2196,8 +2094,7 @@ Der Anspruch besteht nur für ein Elternteil. Absatz 1 Satz 2, Absatz 3 und § 4
 
 (5) Anspruch auf unbezahlte Freistellung nach den Absätzen 3 und 4 haben auch Arbeitnehmer, die nicht Versicherte mit Anspruch auf Krankengeld nach Absatz 1 sind.
 
-
-## § 46 – Entstehen des Anspruchs auf Krankengeld
+# § 46 – Entstehen des Anspruchs auf Krankengeld
 
 Der Anspruch auf Krankengeld entsteht
 
@@ -2207,8 +2104,7 @@ Der Anspruch auf Krankengeld entsteht
 
 Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die weitere Arbeitsunfähigkeit wegen derselben Krankheit ärztlich festgestellt wird, wenn diese ärztliche Feststellung spätestens am nächsten Werktag nach dem zuletzt bescheinigten Ende der Arbeitsunfähigkeit erfolgt; Samstage gelten insoweit nicht als Werktage. Für Versicherte, deren Mitgliedschaft nach § 192 Absatz 1 Nummer 2 vom Bestand des Anspruchs auf Krankengeld abhängig ist, bleibt der Anspruch auf Krankengeld auch dann bestehen, wenn die weitere Arbeitsunfähigkeit wegen derselben Krankheit nicht am nächsten Werktag im Sinne von Satz 2, aber spätestens innerhalb eines Monats nach dem zuletzt bescheinigten Ende der Arbeitsunfähigkeit ärztlich festgestellt wird. Für die nach dem Künstlersozialversicherungsgesetz Versicherten sowie für Versicherte, die eine Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 abgegeben haben, entsteht der Anspruch von der siebten Woche der Arbeitsunfähigkeit an. Der Anspruch auf Krankengeld für die in Satz 3 genannten Versicherten nach dem Künstlersozialversicherungsgesetz entsteht bereits vor der siebten Woche der Arbeitsunfähigkeit zu dem von der Satzung bestimmten Zeitpunkt, spätestens jedoch mit Beginn der dritten Woche der Arbeitsunfähigkeit, wenn der Versicherte bei seiner Krankenkasse einen Tarif nach § 53 Abs. 6 gewählt hat.
 
-
-## § 47 – Höhe und Berechnung des Krankengeldes
+# § 47 – Höhe und Berechnung des Krankengeldes
 
 (1) Das Krankengeld beträgt 70 vom Hundert des erzielten regelmäßigen Arbeitsentgelts und Arbeitseinkommens, soweit es der Beitragsberechnung unterliegt (Regelentgelt). Das aus dem Arbeitsentgelt berechnete Krankengeld darf 90 vom Hundert des bei entsprechender Anwendung des Absatzes 2 berechneten Nettoarbeitsentgelts nicht übersteigen. Für die Berechnung des Nettoarbeitsentgelts nach Satz 2 ist der sich aus dem kalendertäglichen Hinzurechnungsbetrag nach Absatz 2 Satz 6 ergebende Anteil am Nettoarbeitsentgelt mit dem Vomhundertsatz anzusetzen, der sich aus dem Verhältnis des kalendertäglichen Regelentgeltbetrages nach Absatz 2 Satz 1 bis 5 zu dem sich aus diesem Regelentgeltbetrag ergebenden Nettoarbeitsentgelt ergibt. Das nach Satz 1 bis 3 berechnete kalendertägliche Krankengeld darf das sich aus dem Arbeitsentgelt nach Absatz 2 Satz 1 bis 5 ergebende kalendertägliche Nettoarbeitsentgelt nicht übersteigen. Das Regelentgelt wird nach den Absätzen 2, 4 und 6 berechnet. Das Krankengeld wird für Kalendertage gezahlt. Ist es für einen ganzen Kalendermonat zu zahlen, ist dieser mit dreißig Tagen anzusetzen. Bei der Berechnung des Regelentgelts nach Satz 1 und des Nettoarbeitsentgelts nach den Sätzen 2 und 4 sind die für die jeweilige Beitragsbemessung und Beitragstragung geltenden Besonderheiten des Übergangsbereichs nach § 20 Abs. 2 des Vierten Buches nicht zu berücksichtigen.
 
@@ -2224,15 +2120,13 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 (+++ § 47 Abs. 1 u. 2: Zur Anwendung vgl. SGB 6 § 301a und SGB 7 § 47 Abs 1a F. 21.12.2000 +++)
 
-
-## § 47a – Beitragszahlungen der Krankenkassen an berufsständische Versorgungseinrichtungen
+# § 47a – Beitragszahlungen der Krankenkassen an berufsständische Versorgungseinrichtungen
 
 (1) Für Bezieher von Krankengeld, die wegen einer Pflichtmitgliedschaft in einer berufsständischen Versorgungseinrichtung von der Versicherungspflicht in der gesetzlichen Rentenversicherung befreit sind, zahlen die Krankenkassen auf Antrag des Mitglieds diejenigen Beiträge an die zuständige berufsständische Versorgungseinrichtung, wie sie bei Eintritt von Versicherungspflicht nach § 3 Satz 1 Nummer 3 des Sechsten Buches an die gesetzliche Rentenversicherung zu entrichten wären. Die von der Krankenkasse zu zahlenden Beiträge sind auf die Höhe der Beiträge begrenzt, die die Krankenkasse ohne die Befreiung von der Versicherungspflicht in der gesetzlichen Rentenversicherung für die Dauer des Leistungsbezugs zu tragen hätte; sie dürfen die Hälfte der in der Zeit des Leistungsbezugs vom Mitglied an die berufsständische Versorgungseinrichtung zu zahlenden Beiträge nicht übersteigen.
 
 (2) Die Krankenkassen haben der zuständigen berufsständischen Versorgungseinrichtung den Beginn und das Ende der Beitragszahlung sowie die Höhe der der Beitragsberechnung zugrunde liegenden beitragspflichtigen Einnahmen und den zu zahlenden Beitrag für das Mitglied zu übermitteln; ab dem 1. Januar 2017 erfolgt die Übermittlung durch elektronischen Nachweis. Das Nähere zum Verfahren, zu notwendigen weiteren Angaben und den Datensatz regeln der Spitzenverband Bund der Krankenkassen und die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen bis zum 31. Juli 2016 in gemeinsamen Grundsätzen, die vom Bundesministerium für Gesundheit zu genehmigen sind.
 
-
-## § 47b – Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
+# § 47b – Höhe und Berechnung des Krankengeldes bei Beziehern von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
 
 (1) Das Krankengeld für Versicherte nach § 5 Abs. 1 Nr. 2 wird in Höhe des Betrages des Arbeitslosengeldes oder des Unterhaltsgeldes gewährt, den der Versicherte zuletzt bezogen hat.
 
@@ -2246,8 +2140,7 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 (6) In den Fällen des § 232a Abs. 3 wird das Krankengeld abweichend von Absatz 3 nach dem Arbeitsentgelt unter Hinzurechnung des Winterausfallgeldes berechnet. Die Absätze 4 und 5 gelten entsprechend.
 
-
-## § 48 – Dauer des Krankengeldes
+# § 48 – Dauer des Krankengeldes
 
 (1) Versicherte erhalten Krankengeld ohne zeitliche Begrenzung, für den Fall der Arbeitsunfähigkeit wegen derselben Krankheit jedoch für längstens achtundsiebzig Wochen innerhalb von je drei Jahren, gerechnet vom Tage des Beginns der Arbeitsunfähigkeit an. Tritt während der Arbeitsunfähigkeit eine weitere Krankheit hinzu, wird die Leistungsdauer nicht verlängert.
 
@@ -2261,8 +2154,7 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 § 48 Abs. 2: Mit dem GG vereinbar gem. BVerfGE v. 24.3.1998 I 1526 - 1 BvL 6/92 -
 
-
-## § 49 – Ruhen des Krankengeldes
+# § 49 – Ruhen des Krankengeldes
 
 (1) Der Anspruch auf Krankengeld ruht,
 
@@ -2272,8 +2164,7 @@ Der Anspruch auf Krankengeld bleibt jeweils bis zu dem Tag bestehen, an dem die 
 
 3. soweit und solange Versicherte Versorgungskrankengeld, Übergangsgeld, Unterhaltsgeld oder Kurzarbeitergeld beziehen,
 
-3a.  
-solange Versicherte Mutterschaftsgeld oder Arbeitslosengeld beziehen oder der Anspruch wegen einer Sperrzeit nach dem Dritten Buch ruht,
+3a. solange Versicherte Mutterschaftsgeld oder Arbeitslosengeld beziehen oder der Anspruch wegen einer Sperrzeit nach dem Dritten Buch ruht,
 
 4. soweit und solange Versicherte Entgeltersatzleistungen, die ihrer Art nach den in Nummer 3 genannten Leistungen vergleichbar sind, von einem Träger der Sozialversicherung oder einer staatlichen Stelle im Ausland erhalten,
 
@@ -2291,8 +2182,7 @@ solange Versicherte Mutterschaftsgeld oder Arbeitslosengeld beziehen oder der An
 
 (4) (weggefallen)
 
-
-## § 50 – Ausschluß und Kürzung des Krankengeldes
+# § 50 – Ausschluß und Kürzung des Krankengeldes
 
 (1) Für Versicherte, die
 
@@ -2322,8 +2212,7 @@ beziehen, endet ein Anspruch auf Krankengeld vom Beginn dieser Leistungen an; na
 
 gekürzt, wenn die Leistung von einem Zeitpunkt nach dem Beginn der Arbeitsunfähigkeit oder der stationären Behandlung an zuerkannt wird.
 
-
-## § 51 – Wegfall des Krankengeldes, Antrag auf Leistungen zur Teilhabe
+# § 51 – Wegfall des Krankengeldes, Antrag auf Leistungen zur Teilhabe
 
 (1) Versicherten, deren Erwerbsfähigkeit nach ärztlichem Gutachten erheblich gefährdet oder gemindert ist, kann die Krankenkasse eine Frist von zehn Wochen setzen, innerhalb der sie einen Antrag auf Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben zu stellen haben. Haben diese Versicherten ihren Wohnsitz oder gewöhnlichen Aufenthalt im Ausland, kann ihnen die Krankenkasse eine Frist von zehn Wochen setzen, innerhalb der sie entweder einen Antrag auf Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben bei einem Leistungsträger mit Sitz im Inland oder einen Antrag auf Rente wegen voller Erwerbsminderung bei einem Träger der gesetzlichen Rentenversicherung mit Sitz im Inland zu stellen haben.
 
@@ -2333,20 +2222,17 @@ gekürzt, wenn die Leistung von einem Zeitpunkt nach dem Beginn der Arbeitsunfä
 
 (3) Stellen Versicherte innerhalb der Frist den Antrag nicht, entfällt der Anspruch auf Krankengeld mit Ablauf der Frist. Wird der Antrag später gestellt, lebt der Anspruch auf Krankengeld mit dem Tag der Antragstellung wieder auf. Ergibt sich im Falle des Absatzes 1a, dass die Hinzuverdienstgrenze nach Feststellung des Rentenversicherungsträgers überschritten wird, besteht abweichend von Satz 1 rückwirkend ein Anspruch auf Krankengeld ab Ablauf der Frist.
 
-
-## § 52 – Leistungsbeschränkung bei Selbstverschulden
+# § 52 – Leistungsbeschränkung bei Selbstverschulden
 
 (1) Haben sich Versicherte eine Krankheit vorsätzlich oder bei einem von ihnen begangenen Verbrechen oder vorsätzlichen Vergehen zugezogen, kann die Krankenkasse sie an den Kosten der Leistungen in angemessener Höhe beteiligen und das Krankengeld ganz oder teilweise für die Dauer dieser Krankheit versagen und zurückfordern.
 
 (2) Haben sich Versicherte eine Krankheit durch eine medizinisch nicht indizierte ästhetische Operation, eine Tätowierung oder ein Piercing zugezogen, hat die Krankenkasse die Versicherten in angemessener Höhe an den Kosten zu beteiligen und das Krankengeld für die Dauer dieser Behandlung ganz oder teilweise zu versagen oder zurückzufordern.
 
-
-## § 52a – Leistungsausschluss
+# § 52a – Leistungsausschluss
 
 Auf Leistungen besteht kein Anspruch, wenn sich Personen in den Geltungsbereich dieses Gesetzbuchs begeben, um in einer Versicherung nach § 5 Abs. 1 Nr. 13 oder auf Grund dieser Versicherung in einer Versicherung nach § 10 missbräuchlich Leistungen in Anspruch zu nehmen. Das Nähere zur Durchführung regelt die Krankenkasse in ihrer Satzung.
 
-
-## § 53 – Wahltarife
+# § 53 – Wahltarife
 
 (1) Die Krankenkasse kann in ihrer Satzung vorsehen, dass Mitglieder jeweils für ein Kalenderjahr einen Teil der von der Krankenkasse zu tragenden Kosten übernehmen können (Selbstbehalt). Die Krankenkasse hat für diese Mitglieder Prämienzahlungen vorzusehen.
 
@@ -2366,13 +2252,11 @@ Auf Leistungen besteht kein Anspruch, wenn sich Personen in den Geltungsbereich 
 
 (9) Die Aufwendungen für jeden Wahltarif müssen jeweils aus Einnahmen, Einsparungen und Effizienzsteigerungen aus diesen Wahltarifen auf Dauer finanziert werden. Kalkulatorische Einnahmen, die allein durch das Halten oder die Neugewinnung von Mitgliedern erzielt werden, dürfen dabei nicht berücksichtigt werden; wurden solche Einnahmen bei der Kalkulation von Wahltarifen berücksichtigt, ist die Kalkulation unverzüglich, spätestens bis zum 31. Dezember 2013 entsprechend umzustellen. Die Krankenkassen haben über die Berechnung nach den Sätzen 1 und 2 der zuständigen Aufsichtsbehörde regelmäßig, mindestens alle drei Jahre, Rechenschaft abzulegen. Sie haben hierzu ein versicherungsmathematisches Gutachten vorzulegen über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der Beiträge und der versicherungstechnischen Rückstellungen der Wahltarife zugrunde liegen.
 
-
-## § 54 – (weggefallen)
+# § 54 – (weggefallen)
 
 \-
 
-
-## § 55 – Leistungsanspruch
+# § 55 – Leistungsanspruch
 
 (1) Versicherte haben nach den Vorgaben in den Sätzen 2 bis 7 Anspruch auf befundbezogene Festzuschüsse bei einer medizinisch notwendigen Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen (zahnärztliche und zahntechnische Leistungen) in den Fällen, in denen eine zahnprothetische Versorgung notwendig ist und die geplante Versorgung einer Methode entspricht, die gemäß § 135 Abs. 1 anerkannt ist. Die Festzuschüsse umfassen 60 Prozent der nach § 57 Abs. 1 Satz 6 und Absatz 2 Satz 5 und 6 festgesetzten Beträge für die jeweilige Regelversorgung. Für eigene Bemühungen zur Gesunderhaltung der Zähne erhöhen sich die Festzuschüsse nach Satz 2 auf 70 Prozent. Die Erhöhung entfällt, wenn der Gebisszustand des Versicherten regelmäßige Zahnpflege nicht erkennen lässt und der Versicherte während der letzten fünf Jahre vor Beginn der Behandlung
 
@@ -2398,8 +2282,7 @@ Als Einnahmen zum Lebensunterhalt der Versicherten gelten auch die Einnahmen and
 
 (5) Die Krankenkassen haben die bewilligten Festzuschüsse nach Absatz 1 Satz 2 bis 7, den Absätzen 2 und 3 in den Fällen zu erstatten, in denen eine von der Regelversorgung nach § 56 Abs. 2 abweichende, andersartige Versorgung durchgeführt wird.
 
-
-## § 56 – Festsetzung der Regelversorgungen
+# § 56 – Festsetzung der Regelversorgungen
 
 (1) Der Gemeinsame Bundesausschuss bestimmt in Richtlinien, erstmalig bis zum 30. Juni 2004, die Befunde, für die Festzuschüsse nach § 55 gewährt werden und ordnet diesen prothetische Regelversorgungen zu.
 
@@ -2411,15 +2294,13 @@ Als Einnahmen zum Lebensunterhalt der Versicherten gelten auch die Einnahmen and
 
 (5) § 94 Abs. 1 Satz 2 gilt mit der Maßgabe, dass die Beanstandungsfrist einen Monat beträgt. Erlässt das Bundesministerium für Gesundheit die Richtlinie nach § 94 Abs. 1 Satz 5, gilt § 87 Abs. 6 Satz 4 zweiter Halbsatz und Satz 6 entsprechend.
 
-
-## § 57 – Beziehungen zu Zahnärzten und Zahntechnikern
+# § 57 – Beziehungen zu Zahnärzten und Zahntechnikern
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Kassenzahnärztliche Bundesvereinigung vereinbaren jeweils bis zum 30. September eines Kalenderjahres für das Folgejahr, erstmalig bis zum 30. September 2004 für das Jahr 2005, die Höhe der Vergütungen für die zahnärztlichen Leistungen bei den Regelversorgungen nach § 56 Abs. 2 Satz 2. Für die erstmalige Vereinbarung ermitteln die Vertragspartner nach Satz 1 den bundeseinheitlichen durchschnittlichen Punktwert des Jahres 2004 für zahnärztliche Leistungen beim Zahnersatz einschließlich Zahnkronen gewichtet nach der Zahl der Versicherten. Soweit Punktwerte für das Jahr 2004 bis zum 30. Juni 2004 von den Partnern der Gesamtverträge nicht vereinbart sind, werden die Punktwerte des Jahres 2003 unter Anwendung der für das Jahr 2004 nach § 71 Abs. 3 maßgeblichen durchschnittlichen Veränderungsrate der beitragspflichtigen Einnahmen aller Mitglieder der Krankenkassen je Mitglied für das gesamte Bundesgebiet festgelegt. Für das Jahr 2005 wird der durchschnittliche Punktwert nach den Sätzen 2 und 3 unter Anwendung der für das Jahr 2005 nach § 71 Abs. 3 maßgeblichen durchschnittlichen Veränderungsrate der beitragspflichtigen Einnahmen aller Mitglieder der Krankenkassen je Mitglied für das gesamte Bundesgebiet festgelegt. Für die folgenden Kalenderjahre gelten § 71 Abs. 1 bis 3 sowie § 85 Abs. 3. Die Beträge nach Satz 1 ergeben sich jeweils aus der Summe der Punktzahlen der nach § 56 Abs. 2 Satz 10 aufgelisteten zahnärztlichen Leistungen, multipliziert mit den jeweils vereinbarten Punktwerten. Die Vertragspartner nach Satz 1 informieren den Gemeinsamen Bundesausschuss über die Beträge nach Satz 6. Kommt eine Vereinbarung nicht zustande oder kündigt eine Vereinbarungspartei die Vereinbarung und kommt bis zum Ablauf der Vereinbarungszeit keine neue Vereinbarung zustande, setzt das Schiedsamt nach § 89 den Vertragsinhalt fest. Die Festsetzungsfristen nach § 89 Absatz 3, 4 und 9 für die Festsetzungen nach den Sätzen 2 bis 4 betragen zwei Monate.
 
 (2) Der Spitzenverband Bund der Krankenkassen und der Verband Deutscher Zahntechniker-Innungen vereinbaren jeweils zum 30. September eines Kalenderjahres die Veränderung der erstmalig für das Jahr 2005 ermittelten bundeseinheitlichen durchschnittlichen Preise. § 71 Absatz 1 bis 3 gilt. Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich vereinbaren mit den Innungsverbänden der Zahntechniker-Innungen die Höchstpreise für die zahntechnischen Leistungen bei den Regelversorgungen nach § 56 Absatz 2 Satz 2; sie dürfen die für das jeweilige Kalenderjahr nach Satz 1 festgesetzten bundeseinheitlichen Preise um bis zu 5 Prozent unter- oder überschreiten. Für die Vereinbarungen nach Satz 3 gilt § 71 nicht. Die für die Festlegung der Festzuschüsse nach § 55 Absatz 1 Satz 2 maßgeblichen Beträge für die zahntechnischen Leistungen bei den Regelversorgungen, die nicht von Zahnärzten erbracht werden, ergeben sich als Summe der bundeseinheitlichen Preise nach Satz 1 für die nach § 56 Absatz 2 Satz 10 aufgelisteten zahntechnischen Leistungen. Die Höchstpreise nach Satz 3 und die Beträge nach Satz 5 vermindern sich um 5 Prozent für zahntechnische Leistungen, die von Zahnärzten erbracht werden. Die Vertragspartner nach Satz 1 informieren den Gemeinsamen Bundesausschuss über die Beträge für die zahntechnischen Leistungen bei Regelversorgungen. Kommt eine Vereinbarung nach Satz 1 nicht zustande oder kündigt eine Vereinbarungspartei die Vereinbarung und kommt bis zum Ablauf der Vereinbarungszeit keine neue Vereinbarung zustande, setzt das Schiedsamt nach § 89 den Vertragsinhalt fest. Die Festsetzungsfristen nach § 89 Absatz 3, 4 und 9 für die Festsetzungen nach Satz 1 betragen einen Monat.
 
-
-## § 58 – Beitrag für Zahnersatz
+# § 58 – Beitrag für Zahnersatz
 
 (1) (weggefallen)
 
@@ -2429,13 +2310,11 @@ Als Einnahmen zum Lebensunterhalt der Versicherten gelten auch die Einnahmen and
 
 (4) (weggefallen)
 
-
-## § 59
+# § 59
 
 (weggefallen)
 
-
-## § 60 – Fahrkosten
+# § 60 – Fahrkosten
 
 (1) Die Krankenkasse übernimmt nach den Absätzen 2 und 3 die Kosten für Fahrten einschließlich der Transporte nach § 133 (Fahrkosten), wenn sie im Zusammenhang mit einer Leistung der Krankenkasse aus zwingenden medizinischen Gründen notwendig sind. Welches Fahrzeug benutzt werden kann, richtet sich nach der medizinischen Notwendigkeit im Einzelfall. Die Krankenkasse übernimmt Fahrkosten zu einer ambulanten Behandlung unter Abzug des sich nach § 61 Satz 1 ergebenden Betrages in besonderen Ausnahmefällen, die der Gemeinsame Bundesausschuss in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 12 festgelegt hat. Die Übernahme von Fahrkosten nach Satz 3 und nach Absatz 2 Satz 1 Nummer 3 für Fahrten zur ambulanten Behandlung erfolgt nur nach vorheriger Genehmigung durch die Krankenkasse. Für Krankenfahrten zur ambulanten Behandlung gilt die Genehmigung nach Satz 4 als erteilt, wenn eine der folgenden Voraussetzungen vorliegt:
 
@@ -2471,13 +2350,11 @@ Soweit Fahrten nach Satz 1 von Rettungsdiensten durchgeführt werden, zieht die 
 
 (5) Im Zusammenhang mit Leistungen zur medizinischen Rehabilitation werden Reisekosten nach § 73 Absatz 1 und 3 des Neunten Buches übernommen. Zu den Reisekosten nach Satz 1 gehören bei pflegenden Angehörigen auch die Reisekosten, die im Zusammenhang mit der Versorgung Pflegebedürftiger nach § 40 Absatz 3 Satz 2 und 3 entstehen. Die Reisekosten von Pflegebedürftigen, die gemäß § 40 Absatz 3 Satz 3 während einer stationären Rehabilitation ihres pflegenden Angehörigen eine Kurzzeitpflege nach § 42 des Elften Buches erhalten, hat die Pflegekasse des Pflegebedürftigen der Krankenkasse des pflegenden Angehörigen zu erstatten.
 
-
-## § 61 – Zuzahlungen
+# § 61 – Zuzahlungen
 
 Zuzahlungen, die Versicherte zu leisten haben, betragen 10 vom Hundert des Abgabepreises, mindestens jedoch 5 Euro und höchstens 10 Euro; allerdings jeweils nicht mehr als die Kosten des Mittels. Als Zuzahlungen zu stationären Maßnahmen und zur außerklinischen Intensivpflege in vollstationären Pflegeeinrichtungen, in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches sowie in Wohneinheiten nach § 132l Absatz 5 Nummer 1 werden je Kalendertag 10 Euro erhoben. Bei Heilmitteln, häuslicher Krankenpflege und außerklinischer Intensivpflege an den in § 37c Absatz 2 Satz 1 Nummer 4 genannten Orten beträgt die Zuzahlung 10 vom Hundert der Kosten sowie 10 Euro je Verordnung. Geleistete Zuzahlungen sind von dem zum Einzug Verpflichteten gegenüber dem Versicherten zu quittieren; ein Vergütungsanspruch hierfür besteht nicht.
 
-
-## § 62 – Belastungsgrenze
+# § 62 – Belastungsgrenze
 
 (1) Versicherte haben während jedes Kalenderjahres nur Zuzahlungen bis zur Belastungsgrenze zu leisten; wird die Belastungsgrenze bereits innerhalb eines Kalenderjahres erreicht, hat die Krankenkasse eine Bescheinigung darüber zu erteilen, dass für den Rest des Kalenderjahres keine Zuzahlungen mehr zu leisten sind. Die Belastungsgrenze beträgt 2 vom Hundert der jährlichen Bruttoeinnahmen zum Lebensunterhalt; für chronisch Kranke, die wegen derselben schwerwiegenden Krankheit in Dauerbehandlung sind, beträgt sie 1 vom Hundert der jährlichen Bruttoeinnahmen zum Lebensunterhalt. Abweichend von Satz 2 beträgt die Belastungsgrenze 2 vom Hundert der jährlichen Bruttoeinnahmen zum Lebensunterhalt für nach dem 1. April 1972 geborene chronisch kranke Versicherte, die ab dem 1. Januar 2008 die in § 25 Absatz 1 genannten Gesundheitsuntersuchungen vor der Erkrankung nicht regelmäßig in Anspruch genommen haben. Für Versicherte nach Satz 3, die an einem für ihre Erkrankung bestehenden strukturierten Behandlungsprogramm teilnehmen, beträgt die Belastungsgrenze 1 vom Hundert der jährlichen Bruttoeinnahmen zum Lebensunterhalt. Der Gemeinsame Bundesausschuss legt in seinen Richtlinien fest, in welchen Fällen Gesundheitsuntersuchungen ausnahmsweise nicht zwingend durchgeführt werden müssen. Die weitere Dauer der in Satz 2 genannten Behandlung ist der Krankenkasse jeweils spätestens nach Ablauf eines Kalenderjahres nachzuweisen und vom Medizinischen Dienst, soweit erforderlich, zu prüfen; die Krankenkasse kann auf den jährlichen Nachweis verzichten, wenn bereits die notwendigen Feststellungen getroffen worden sind und im Einzelfall keine Anhaltspunkte für einen Wegfall der chronischen Erkrankung vorliegen. Die Krankenkassen sind verpflichtet, ihre Versicherten zu Beginn eines Kalenderjahres auf die für sie in diesem Kalenderjahr maßgeblichen Untersuchungen nach § 25 Abs. 1 hinzuweisen. Das Nähere zur Definition einer schwerwiegenden chronischen Erkrankung bestimmt der Gemeinsame Bundesausschuss in den Richtlinien nach § 92.
 
@@ -2495,13 +2372,11 @@ sowie für den in § 264 genannten Personenkreis als Bruttoeinnahmen zum Lebensu
 
 (5) Die Spitzenverbände der Krankenkassen evaluieren für das Jahr 2006 die Ausnahmeregelungen von der Zuzahlungspflicht hinsichtlich ihrer Steuerungswirkung und legen dem Deutschen Bundestag hierzu über das Bundesministerium für Gesundheit spätestens bis zum 30. Juni 2007 einen Bericht vor.
 
-
-## § 62a
+# § 62a
 
 (weggefallen)
 
-
-## § 63 – Grundsätze
+# § 63 – Grundsätze
 
 (1) Die Krankenkassen und ihre Verbände können im Rahmen ihrer gesetzlichen Aufgabenstellung zur Verbesserung der Qualität und der Wirtschaftlichkeit der Versorgung Modellvorhaben zur Weiterentwicklung der Verfahrens-, Organisations-, Finanzierungs- und Vergütungsformen der Leistungserbringung durchführen oder nach § 64 vereinbaren.
 
@@ -2529,8 +2404,7 @@ vornehmen, soweit diese auf Grund ihrer Ausbildung qualifiziert sind und es sich
 
 (6) Modellvorhaben nach den Absätzen 1 und 2 können auch von den Kassenärztlichen Vereinigungen im Rahmen ihrer gesetzlichen Aufgabenstellung mit den Krankenkassen oder ihren Verbänden vereinbart werden. Die Vorschriften dieses Abschnitts gelten entsprechend.
 
-
-## § 64 – Vereinbarungen mit Leistungserbringern
+# § 64 – Vereinbarungen mit Leistungserbringern
 
 (1) Die Krankenkassen und ihre Verbände können mit den in der gesetzlichen Krankenversicherung zugelassenen Leistungserbringern oder Gruppen von Leistungserbringern Vereinbarungen über die Durchführung von Modellvorhaben nach § 63 Abs. 1 oder 2 schließen. Soweit die ärztliche Behandlung im Rahmen der vertragsärztlichen Versorgung betroffen ist, können sie nur mit einzelnen Vertragsärzten, mit Gemeinschaften dieser Leistungserbringer oder mit Kassenärztlichen Vereinigungen Verträge über die Durchführung von Modellvorhaben nach § 63 Abs. 1 oder 2 schließen.
 
@@ -2540,8 +2414,7 @@ vornehmen, soweit diese auf Grund ihrer Ausbildung qualifiziert sind und es sich
 
 (4) Die Vertragspartner nach Absatz 1 Satz 1 können Modellvorhaben zur Vermeidung einer unkoordinierten Mehrfachinanspruchnahme von Vertragsärzten durch die Versicherten durchführen. Sie können vorsehen, daß der Vertragsarzt, der vom Versicherten weder als erster Arzt in einem Behandlungsquartal noch mit Überweisung noch zur Einholung einer Zweitmeinung in Anspruch genommen wird, von diesem Versicherten verlangen kann, daß die bei ihm in Anspruch genommenen Leistungen im Wege der Kostenerstattung abgerechnet werden.
 
-
-## § 64a – Modellvorhaben zur Arzneimittelversorgung
+# § 64a – Modellvorhaben zur Arzneimittelversorgung
 
 (1) Die Kassenärztliche Vereinigung und die für die Wahrnehmung der wirtschaftlichen Interessen maßgebliche Organisation der Apotheker auf Landesebene gemeinsam können mit den für ihren Bezirk zuständigen Landesverbänden der Krankenkassen und den Ersatzkassen gemeinsam die Durchführung eines Modellvorhabens nach § 63 zur Verbesserung der Qualität und Wirtschaftlichkeit der Arzneimittelversorgung für eine Zeitdauer von bis zu drei Jahren vereinbaren. Werden Modellvorhaben in mehreren Bezirken der Kassenärztlichen Vereinigungen vereinbart, sollen sich die Kassenärztlichen Vereinigungen auf die Durchführung des Modellvorhabens in einem Bezirk einigen. Überschüsse aufgrund von Minderaufwendungen, die durch Maßnahmen des Modellvorhabens nach Satz 1 bei den Krankenkassen realisiert werden, sind in Teilen an die Leistungserbringer weiterzuleiten. Die durch das Modellvorhaben den Krankenkassen entstehenden Mehraufwendungen sind auszugleichen. Die Vereinbarung nach Satz 1 umfasst das Nähere zu dem Modellvorhaben, insbesondere
 
@@ -2555,8 +2428,7 @@ Im Übrigen gilt für die Vereinbarung nach Satz 1 § 63 Absatz 3 und 4 bis 6 en
 
 (2) Sofern keine Einigung über die Durchführung eines Modellvorhabens erzielt wird, kann jede Vertragspartei das Schiedsgremium nach den Sätzen 2 und 3 zur Festsetzung des Inhalts einer Vereinbarung nach Absatz 1 anrufen. Das Schiedsgremium wird von den in Absatz 1 Satz 1 genannten Beteiligten gebildet. § 89a Absatz 3 bis 10 sowie die Rechtsverordnung nach § 89a Absatz 11 gelten entsprechend. Die Festsetzung soll unterbleiben, wenn in dem Bezirk einer anderen Kassenärztlichen Vereinigung bereits ein Modellvorhaben vereinbart wurde.
 
-
-## § 64b – Modellvorhaben zur Versorgung psychisch kranker Menschen
+# § 64b – Modellvorhaben zur Versorgung psychisch kranker Menschen
 
 (1) Gegenstand von Modellvorhaben nach § 63 Absatz 1 oder 2 kann auch die Weiterentwicklung der Versorgung psychisch kranker Menschen sein, die auf eine Verbesserung der Patientenversorgung oder der sektorenübergreifenden Leistungserbringung ausgerichtet ist, einschließlich der komplexen psychiatrischen Behandlung im häuslichen Umfeld. In jedem Land soll unter besonderer Berücksichtigung der Kinder- und Jugendpsychiatrie mindestens ein Modellvorhaben nach Satz 1 durchgeführt werden; dabei kann ein Modellvorhaben auf mehrere Länder erstreckt werden. Eine bestehende Verpflichtung der Leistungserbringer zur Versorgung bleibt unberührt. § 63 Absatz 3 ist für Modellvorhaben nach Satz 1 mit der Maßgabe anzuwenden, dass von den Vorgaben der §§ 295, 300, 301 und 302 sowie des § 17d Absatz 9 des Krankenhausfinanzierungsgesetzes nicht abgewichen werden darf. § 63 Absatz 5 Satz 1 gilt nicht. Die Meldung nach Absatz 3 Satz 2 hat vor der Vereinbarung zu erfolgen.
 
@@ -2566,20 +2438,17 @@ Im Übrigen gilt für die Vereinbarung nach Satz 1 § 63 Absatz 3 und 4 bis 6 en
 
 (4) Private Krankenversicherungen und der Verband der privaten Krankenversicherung können sich an Modellvorhaben nach Absatz 1 und deren Finanzierung beteiligen.
 
-
-## § 64c – Modellvorhaben zum Screening auf 4MRGN
+# § 64c – Modellvorhaben zum Screening auf 4MRGN
 
 (1) Die in § 115 Absatz 1 Satz 1 genannten Vertragspartner vereinbaren gemeinsam und einheitlich im Einvernehmen mit dem Robert Koch-Institut die Durchführung eines Modellvorhabens nach § 63, um Erkenntnisse zur Effektivität und zum Aufwand eines Screenings auf 4MRGN (Multiresistente gramnegative Stäbchen mit einer Resistenz gegen vier der vier Antibiotikagruppen) im Vorfeld eines planbaren Krankenhausaufenthaltes zu gewinnen. Das Modellvorhaben ist insbesondere auf die Risikopersonen nach Maßgabe der Empfehlungen der Kommission für Krankenhaushygiene und Infektionsprävention auszurichten. Die Kassenärztlichen Vereinigungen verständigen sich auf die Durchführung eines Modellvorhabens in mindestens einer Kassenärztlichen Vereinigung. Soweit eine überbezirkliche Versorgung besteht, soll das Modellvorhaben in den betroffenen Kassenärztlichen Vereinigungen gemeinsam durchgeführt werden. Das Modellvorhaben kann in mehreren Kassenärztlichen Vereinigungen durchgeführt werden, insbesondere um ausreichende Fallzahlen zu gewährleisten und um regionale Unterschiede in der Bevölkerungsstruktur zu berücksichtigen. § 65 gilt mit der Maßgabe, dass die wissenschaftliche Begleitung und Auswertung des Modellvorhabens im Einvernehmen mit dem Robert Koch-Institut zu erfolgen hat.
 
 (2) Sofern keine Einigung über die Durchführung eines Modellvorhabens nach Absatz 1 erzielt wird, kann jede Vertragspartei das zuständige sektorenübergreifende Schiedsgremium gemäß § 89a anrufen. Die Anrufung des Schiedsgremiums soll unterbleiben, wenn in einer anderen Kassenärztlichen Vereinigung bereits ein Modellvorhaben nach Absatz 1 vereinbart wurde, keine überbezirkliche Versorgung besteht oder eine Durchführung eines Modellvorhabens in mehreren Kassenärztlichen Vereinigungen aus wissenschaftlichen Gründen nicht erforderlich ist.
 
-
-## § 65 – Auswertung der Modellvorhaben
+# § 65 – Auswertung der Modellvorhaben
 
 Die Krankenkassen oder ihre Verbände haben eine wissenschaftliche Begleitung und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele der Modellvorhaben nach § 63 Abs. 1 oder Abs. 2 nach allgemein anerkannten wissenschaftlichen Standards zu veranlassen. Der von unabhängigen Sachverständigen zu erstellende Bericht über die Ergebnisse der Auswertung ist zu veröffentlichen.
 
-
-## § 65a – Bonus für gesundheitsbewusstes Verhalten
+# § 65a – Bonus für gesundheitsbewusstes Verhalten
 
 (1) Die Krankenkasse bestimmt in ihrer Satzung, unter welchen Voraussetzungen Versicherte, die Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung von Krankheiten nach den §§ 25, 25a und 26 oder Leistungen für Schutzimpfungen nach § 20i in Anspruch nehmen, Anspruch auf einen Bonus haben, der zusätzlich zu der in § 62 Absatz 1 Satz 2 genannten abgesenkten Belastungsgrenze zu gewähren ist. Um den Nachweis über das Vorliegen der Anspruchsvoraussetzungen nach Satz 1 führen zu können, dürfen Krankenkassen die nach § 284 Absatz 1 von ihnen rechtmäßig erhobenen und gespeicherten versichertenbezogenen Daten mit schriftlicher oder elektronischer Einwilligung der betroffenen Versicherten im erforderlichen Umfang verarbeiten.
 
@@ -2589,8 +2458,7 @@ Die Krankenkassen oder ihre Verbände haben eine wissenschaftliche Begleitung un
 
 (3) Die Aufwendungen für Maßnahmen nach Absatz 1a müssen mittelfristig aus Einsparungen und Effizienzsteigerungen, die durch diese Maßnahmen erzielt werden, finanziert werden. Die Krankenkassen haben regelmäßig, mindestens alle drei Jahre, über diese Einsparungen gegenüber der zuständigen Aufsichtsbehörde Rechenschaft abzulegen. Werden keine Einsparungen erzielt, dürfen keine Boni für die entsprechenden Versorgungsformen gewährt werden.
 
-
-## § 65b – Förderung von Einrichtungen zur Verbraucher- und Patientenberatung
+# § 65b – Förderung von Einrichtungen zur Verbraucher- und Patientenberatung
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert Einrichtungen, die Verbraucherinnen und Verbraucher sowie Patientinnen und Patienten in gesundheitlichen und gesundheitsrechtlichen Fragen qualitätsgesichert und kostenfrei informieren und beraten, mit dem Ziel, die Patientenorientierung im Gesundheitswesen zu stärken und Problemlagen im Gesundheitssystem aufzuzeigen. Der Spitzenverband Bund der Krankenkassen darf auf den Inhalt oder den Umfang der Beratungstätigkeit keinen Einfluss nehmen. Die Förderung einer Einrichtung zur Verbraucher- und Patientenberatung setzt deren Nachweis über ihre Neutralität und Unabhängigkeit voraus. Die Vorbereitung der Vergabe der Fördermittel und die Entscheidung darüber erfolgt durch den Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten; die Fördermittel werden jeweils für eine Laufzeit von sieben Jahren vergeben. Die oder der Beauftragte der Bundesregierung für die Belange der Patientinnen und Patienten und der Spitzenverband Bund der Krankenkassen werden bei der Vergabe und während der Förderphase durch einen Beirat beraten. Der Beirat tagt unter der Leitung der oder des Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten mindestens zweimal jährlich; ihm gehören Vertreterinnen und Vertreter der Wissenschaften und Patientenorganisationen, zwei Vertreterinnen oder Vertreter des Bundesministeriums für Gesundheit und eine Vertreterin oder ein Vertreter des Bundesministeriums der Justiz und für Verbraucherschutz sowie im Fall einer angemessenen finanziellen Beteiligung der privaten Krankenversicherungen an der Förderung nach Satz 1 eine Vertreterin oder ein Vertreter des Verbandes der privaten Krankenversicherung an. Der Spitzenverband Bund der Krankenkassen hat den Beirat jährlich über Angelegenheiten betreffend die Förderung nach Satz 1 zu unterrichten. Der nach Satz 1 geförderten Beratungseinrichtung ist auf Antrag die Gelegenheit zu geben, sich gegenüber dem Beirat zu äußern.
 
@@ -2598,8 +2466,7 @@ Die Krankenkassen oder ihre Verbände haben eine wissenschaftliche Begleitung un
 
 (3) (weggefallen)
 
-
-## § 65c – Klinische Krebsregister
+# § 65c – Klinische Krebsregister
 
 (1) Zur Verbesserung der Qualität der onkologischen Versorgung richten die Länder klinische Krebsregister ein. Die klinischen Krebsregister haben insbesondere folgende Aufgaben:
 
@@ -2683,8 +2550,7 @@ Weist ein klinisches Krebsregister auf Grund der Feststellungen nach Satz 1 nach
 
 (10) Der Spitzenverband Bund der Krankenkassen veröffentlicht ab dem Jahr 2018 alle fünf Jahre einen Bericht über die bundesweiten Ergebnisse der klinischen Krebsregistrierung in patientenverständlicher Form, wozu auch die barrierefreie Bereitstellung des Berichtes gehört. Der Bericht ist auf der Grundlage der Landesauswertungen nach Absatz 1 Satz 3 und der Ergebnisse von Bundesauswertungen des Gemeinsamen Bundesausschusses nach Absatz 9 Satz 2 zu erstellen. Die Auswertungsstellen der klinischen Krebsregistrierung auf Landesebene und der Gemeinsame Bundesausschuss liefern dem Spitzenverband Bund der Krankenkassen die Auswertungen, die zum Erstellen des Berichts benötigt werden.
 
-
-## § 65d – Förderung besonderer Therapieeinrichtungen
+# § 65d – Förderung besonderer Therapieeinrichtungen
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert ab 1. Januar 2017 mit insgesamt fünf Millionen Euro je Kalenderjahr im Rahmen von Modellvorhaben Leistungserbringer, die Patienten mit pädophilen Sexualstörungen behandeln. Förderungsfähig sind an der vertragsärztlichen Versorgung teilnehmende Leistungserbringer, die ein freiwilliges Therapieangebot vorhalten und die vom Spitzenverband Bund der Krankenkassen als förderungsfähig anerkannt werden. Für die Verarbeitung personenbezogener Daten im Rahmen der Modellvorhaben gilt § 63 Absatz 3 Satz 1 und 4, Absatz 3a und 5 entsprechend mit der Maßgabe, dass die Anonymität der Patienten zu gewährleisten ist. Die Anonymität darf nur eingeschränkt werden, soweit die Patienten dazu ihre Einwilligung erteilen.
 
@@ -2694,8 +2560,7 @@ Weist ein klinisches Krebsregister auf Grund der Feststellungen nach Satz 1 nach
 
 (4) Die Finanzierung der Fördermittel nach Absatz 1 erfolgt durch eine Umlage der Krankenkassen gemäß dem Anteil ihrer Versicherten an der Gesamtzahl der in der gesetzlichen Krankenversicherung Versicherten. Das Nähere zur Umlage und zur Vergabe der Fördermittel bestimmt der Spitzenverband Bund der Krankenkassen. An Modellvorhaben nach Absatz 1 und ihrer Finanzierung können sich über die Fördersumme nach Absatz 1 Satz 1 hinaus weitere Einrichtungen beteiligen, insbesondere private Krankenversicherungen und der Verband der Privaten Krankenversicherung sowie öffentliche Stellen. Das Verfahren nach § 64 Absatz 3 ist nicht anzuwenden.
 
-
-## § 65e – Ambulante Krebsberatungsstellen
+# § 65e – Ambulante Krebsberatungsstellen
 
 (1) Der Spitzenverband Bund der Krankenkassen fördert ab dem 1. Juli 2020 mit Wirkung vom 1. Januar 2020 ambulante Krebsberatungsstellen mit einem Gesamtbetrag von jährlich bis zu 21 Millionen Euro. Die privaten Krankenversicherungsunternehmen beteiligen sich ab dem 1. Juli 2020 mit Wirkung vom 1. Januar 2020 mit einem Anteil von 7 Prozent an der Förderung nach Satz 1. Der Spitzenverband Bund der Krankenkassen und der Verband der Privaten Krankenversicherung mit Wirkung für die privaten Krankenversicherungsunternehmen vereinbaren bis zum 1. Juli 2020 das Nähere zur gemeinsamen Förderung nach den Sätzen 1 und 2, insbesondere über Zahlung, Rückzahlung und Abrechnung des Finanzierungsanteils der privaten Krankenversicherungsunternehmen. Ab dem Jahr 2023 erhöht sich der Betrag nach Satz 1 jährlich entsprechend der prozentualen Veränderung der Bezugsgröße nach § 18 Absatz 1 des Vierten Buches.
 
@@ -2717,8 +2582,7 @@ Die für die Wahrnehmung der Interessen der ambulanten Krebsberatungsstellen auf
 
 (5) Der Spitzenverband Bund der Krankenkassen berichtet im Benehmen mit dem Verband der Privaten Krankenversicherung dem Bundesministerium für Gesundheit bis zum 31. Dezember 2022 über die Erfahrungen mit der Umsetzung der Förderung.
 
-
-## § 65e – Vereinbarung zur Suche und Auswahl nichtverwandter Spender von Blutstammzellen aus dem Knochenmark oder aus dem peripheren Blut
+# § 65e – Vereinbarung zur Suche und Auswahl nichtverwandter Spender von Blutstammzellen aus dem Knochenmark oder aus dem peripheren Blut
 
 Der Spitzenverband Bund der Krankenkassen vereinbart mit den für die nationale und internationale Suche nach nichtverwandten Spendern von Blutstammzellen aus dem Knochenmark oder aus dem peripheren Blut maßgeblichen Organisationen die Grundlagen, Abläufe, Finanzierung und Weiterentwicklung der Suche und Auswahl nichtverwandter Spender für die Versorgung der Versicherten mit Blutstammzellen. Die Vereinbarung nach Satz 1 hat der Sicherung der Qualität und Transparenz des Auswahlverfahrens zur Bestimmung des am besten geeigneten Blutstammzelltransplantats angemessen Rechnung zu tragen. Die Vereinbarung nach Satz 1 hat folgende Bereiche näher zu regeln:
 
@@ -2738,13 +2602,11 @@ Die Vereinbarung nach Satz 1 kann zusätzlich insbesondere folgende Regelungen e
 
 (+++ § 65e (doppelt): Eingef. durch Art. 1 Nr. 2e G v. 14.12.2019 I 2789 mWv 1.1.2020 +++)
 
-
-## § 66 – Unterstützung der Versicherten bei Behandlungsfehlern
+# § 66 – Unterstützung der Versicherten bei Behandlungsfehlern
 
 Die Krankenkassen sollen die Versicherten bei der Verfolgung von Schadensersatzansprüchen, die bei der Inanspruchnahme von Versicherungsleistungen aus Behandlungsfehlern entstanden sind und nicht nach § 116 des Zehnten Buches auf die Krankenkassen übergehen, unterstützen. Die Unterstützung der Krankenkassen nach Satz 1 kann insbesondere die Prüfung der von den Versicherten vorgelegten Unterlagen auf Vollständigkeit und Plausibilität, mit Einwilligung der Versicherten die Anforderung weiterer Unterlagen bei den Leistungserbringern, die Veranlassung einer sozialmedizinischen Begutachtung durch den Medizinischen Dienst nach § 275 Absatz 3 Nummer 4 sowie eine abschließende Gesamtbewertung aller vorliegenden Unterlagen umfassen. Die auf Grundlage der Einwilligung des Versicherten bei den Leistungserbringern erhobenen Daten dürfen ausschließlich zum Zwecke der Unterstützung des Versicherten bei Behandlungsfehlern verarbeitet werden.
 
-
-## § 67 – Elektronische Kommunikation
+# § 67 – Elektronische Kommunikation
 
 (1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der Versorgung soll die Kommunikation sowie der Daten- und Informationsfluss unter den Leistungserbringern, zwischen den Krankenkassen und Leistungserbringern sowie im Verhältnis von Krankenkassen und Leistungserbringern zu den Versicherten durch vernetzte digitale Anwendungen und Dienste ausgebaut werden, insbesondere zur
 
@@ -2758,13 +2620,11 @@ Die Krankenkassen sollen die Versicherten bei der Verfolgung von Schadensersatza
 
 (3) Krankenkassen und ihre Verbände dürfen im Rahmen von Pilotprojekten für die Dauer von bis zu zwei Jahren, längstens bis zu dem in Satz 4 genannten Zeitpunkt, Verfahren zur elektronischen Übermittlung von Verordnungen und zur Abrechnung von Leistungen nach § 33a erproben, bei denen eine Übermittlung von Verordnungen in Textform erfolgt. Die Pilotvorhaben müssen den Anforderungen der Richtlinie nach § 217f Absatz 4b entsprechen. Im Rahmen der Verfahren nach Satz 1 darf nicht in die ärztliche Therapiefreiheit eingegriffen oder die Wahlfreiheit der Versicherten beschränkt werden. Für die elektronische Übermittlung von Verordnungen von Leistungen nach § 33a sind ausschließlich geeignete Dienste der Telematikinfrastruktur zu verwenden, sobald diese zur Verfügung stehen.
 
-
-## § 68 – Finanzierung einer persönlichen elektronischen Gesundheitsakte
+# § 68 – Finanzierung einer persönlichen elektronischen Gesundheitsakte
 
 Zur Verbesserung der Qualität und der Wirtschaftlichkeit der Versorgung können die Krankenkassen ihren Versicherten zu von Dritten angebotenen Dienstleistungen der elektronischen Speicherung und Übermittlung patientenbezogener Gesundheitsdaten finanzielle Unterstützung gewähren. Das Nähere ist durch die Satzung zu regeln.
 
-
-## § 68a – Förderung der Entwicklung digitaler Innovationen durch Krankenkassen
+# § 68a – Förderung der Entwicklung digitaler Innovationen durch Krankenkassen
 
 (1) Zur Verbesserung der Qualität und der Wirtschaftlichkeit der Versorgung können Krankenkassen die Entwicklung digitaler Innovationen fördern. Die Förderung muss möglichst bedarfsgerecht und zielgerichtet sein und soll insbesondere zur Verbesserung der Versorgungsqualität und Versorgungseffizienz, zur Behebung von Versorgungsdefiziten sowie zur verbesserten Patientenorientierung in der Versorgung beitragen.
 
@@ -2790,8 +2650,7 @@ Zur Verbesserung der Qualität und der Wirtschaftlichkeit der Versorgung können
 
 (5) Um den konkreten Versorgungsbedarf und den möglichen Einfluss digitaler Innovationen auf die Versorgung zu ermitteln und um positive Versorgungseffekte digitaler Anwendungen zu evaluieren, können Krankenkassen die versichertenbezogenen Daten, die sie nach § 284 Absatz 1 rechtmäßig erhoben und gespeichert haben, im erforderlichen Umfang auswerten. Vor der Auswertung sind die Daten zu pseudonymisieren. Die Krankenkasse hat die pseudonymisierten Daten zu anonymisieren, wenn den Zwecken der Datenauswertung auch mit anonymisierten Daten entsprochen werden kann. Eine Übermittlung dieser Daten an Dritte nach den Absätzen 3 und 4 ist ausgeschlossen.
 
-
-## § 68b – Förderung von Versorgungsinnovationen
+# § 68b – Förderung von Versorgungsinnovationen
 
 (1) Die Krankenkassen können Versorgungsinnovationen fördern. Diese sollen insbesondere ermöglichen,
 
@@ -2807,8 +2666,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 (4) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit jährlich, erstmals bis zum 31. Dezember 2021, wie und in welchem Umfang seine Mitglieder Versorgungsinnovationen fördern und welche Auswirkungen die geförderten Versorgungsinnovationen auf die Versorgung haben. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen.
 
-
-## § 68c – Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen
+# § 68c – Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen
 
 (1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der vertragsärztlichen und der vertragszahnärztlichen Versorgung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen die Entwicklung digitaler Innovationen im Sinne des § 68a Absatz 1 und 2 fördern. Die Förderung muss möglichst bedarfsgerecht und zielgerichtet sein und soll insbesondere zur Verbesserung der Versorgungsqualität und Versorgungseffizienz, zur Behebung von Versorgungsdefiziten sowie zur verbesserten Patientenorientierung in der vertragsärztlichen und vertragszahnärztlichen Versorgung beitragen. Im Rahmen der Förderung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen digitale Innovationen in Zusammenarbeit mit Dritten im Sinne des § 68 Absatz 3 entwickeln oder von diesen entwickeln lassen.
 
@@ -2816,8 +2674,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 (3) Um den Bedarf für eine Förderung digitaler Innovationen in der vertragsärztlichen und der vertragszahnärztlichen Versorgung und den möglichen Einfluss digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu ermitteln sowie die Auswirkungen digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu evaluieren, dürfen die Kassenärztlichen Bundesvereinigungen versichertenbezogene Daten im erforderlichen Umfang auswerten. Für die Bedarfsermittlung durch die Kassenärztlichen Bundesvereinigungen übermitteln die Kassenärztlichen Vereinigungen an die Kassenärztlichen Bundesvereinigungen die für diesen Zweck erforderlichen anonymisierten Daten. Absatz 2 Satz 4 gilt entsprechend.
 
-
-## § 69 – Anwendungsbereich
+# § 69 – Anwendungsbereich
 
 (1) Dieses Kapitel sowie die §§ 63 und 64 regeln abschließend die Rechtsbeziehungen der Krankenkassen und ihrer Verbände zu Ärzten, Zahnärzten, Psychotherapeuten, Apotheken sowie sonstigen Leistungserbringern und ihren Verbänden, einschließlich der Beschlüsse des Gemeinsamen Bundesausschusses und der Landesausschüsse nach den §§ 90 bis 94. Die Rechtsbeziehungen der Krankenkassen und ihrer Verbände zu den Krankenhäusern und ihren Verbänden werden abschließend in diesem Kapitel, in den §§ 63, 64 und in dem Krankenhausfinanzierungsgesetz, dem Krankenhausentgeltgesetz sowie den hiernach erlassenen Rechtsverordnungen geregelt. Für die Rechtsbeziehungen nach den Sätzen 1 und 2 gelten im Übrigen die Vorschriften des Bürgerlichen Gesetzbuches entsprechend, soweit sie mit den Vorgaben des § 70 und den übrigen Aufgaben und Pflichten der Beteiligten nach diesem Kapitel vereinbar sind. Die Sätze 1 bis 3 gelten auch, soweit durch diese Rechtsbeziehungen Rechte Dritter betroffen sind.
 
@@ -2827,15 +2684,13 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 (4) Bei der Vergabe öffentlicher Dienstleistungsaufträge nach den §§ 63 und 140a über soziale und andere besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014, die im Rahmen einer heilberuflichen Tätigkeit erbracht werden, kann der öffentliche Auftraggeber abweichend von § 119 Absatz 1 und § 130 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen sowie von § 14 Absatz 1 bis 3 der Vergabeverordnung andere Verfahren vorsehen, die die Grundsätze der Transparenz und der Gleichbehandlung gewährleisten. Ein Verfahren ohne Teilnahmewettbewerb und ohne vorherige Veröffentlichung nach § 66 der Vergabeverordnung darf der öffentliche Auftraggeber nur in den Fällen des § 14 Absatz 4 und 6 der Vergabeverordnung vorsehen. Von den Vorgaben der §§ 15 bis 36 und 42 bis 65 der Vergabeverordnung, mit Ausnahme der §§ 53, 58, 60 und 63, kann abgewichen werden. Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit bis zum 17. April 2019 über die Anwendung dieses Absatzes durch seine Mitglieder.
 
-
-## § 70 – Qualität, Humanität und Wirtschaftlichkeit
+# § 70 – Qualität, Humanität und Wirtschaftlichkeit
 
 (1) Die Krankenkassen und die Leistungserbringer haben eine bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechende Versorgung der Versicherten zu gewährleisten. Die Versorgung der Versicherten muß ausreichend und zweckmäßig sein, darf das Maß des Notwendigen nicht überschreiten und muß in der fachlich gebotenen Qualität sowie wirtschaftlich erbracht werden.
 
 (2) Die Krankenkassen und die Leistungserbringer haben durch geeignete Maßnahmen auf eine humane Krankenbehandlung ihrer Versicherten hinzuwirken.
 
-
-## § 71 – Beitragssatzstabilität, besondere Aufsichtsmittel
+# § 71 – Beitragssatzstabilität, besondere Aufsichtsmittel
 
 (1) Die Vertragspartner auf Seiten der Krankenkassen und der Leistungserbringer haben die Vereinbarungen über die Vergütungen nach diesem Buch so zu gestalten, dass Beitragserhöhungen ausgeschlossen werden, es sei denn, die notwendige medizinische Versorgung ist auch nach Ausschöpfung von Wirtschaftlichkeitsreserven nicht zu gewährleisten (Grundsatz der Beitragssatzstabilität). Ausgabensteigerungen auf Grund von gesetzlich vorgeschriebenen Vorsorge- und Früherkennungsmaßnahmen oder für zusätzliche Leistungen, die im Rahmen zugelassener strukturierter Behandlungsprogramme (§ 137g) auf Grund der Anforderungen der Richtlinien des Gemeinsamen Bundesausschusses nach § 137f oder der Rechtsverordnung nach § 266 Absatz 8 Satz 1 erbracht werden, verletzen nicht den Grundsatz der Beitragssatzstabilität.
 
@@ -2851,8 +2706,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 (6) Wird durch einen der in den §§ 73b, 127 und 140a genannten Verträge das Recht erheblich verletzt, kann die Aufsichtsbehörde abweichend von § 89 Absatz 1 Satz 1 und 2 des Vierten Buches alle Anordnungen treffen, die für eine sofortige Behebung der Rechtsverletzung geeignet und erforderlich sind. Sie kann gegenüber der Krankenkasse oder der Arbeitsgemeinschaft der Krankenkassen insbesondere anordnen, den Vertrag dafür zu ändern oder aufzuheben. Die Krankenkasse oder Arbeitsgemeinschaft der Krankenkassen kann bei einer solchen Anordnung den Vertrag auch außerordentlich kündigen. Besteht die Gefahr eines schweren, nicht wieder gutzumachenden Schadens insbesondere für die Belange der Versicherten, kann die Aufsichtsbehörde einstweilige Maßnahmen anordnen. Ein Zwangsgeld kann bis zu einer Höhe von 10 Millionen Euro zugunsten des Gesundheitsfonds nach § 271 festgesetzt werden. Die Aufsichtsbehörde kann eine erhebliche Rechtsverletzung auch feststellen, nachdem diese beendet ist, sofern ein berechtigtes Interesse an der Feststellung besteht. Rechtsbehelfe gegen Anordnungen nach den Sätzen 1 bis 4 haben keine aufschiebende Wirkung. Die Sätze 1 bis 7 gelten auch für Verträge nach § 140a Absatz 1 Satz 3. Die Sätze 1 und 4 bis 7 gelten entsprechend bei Verstößen gegen die Pflicht nach § 127 Absatz 1 Satz 2 und Absatz 2 Satz 2, Vertragsverhandlungen zu ermöglichen. Verträge zwischen Krankenkassen und Leistungserbringern dürfen keine Vorschläge in elektronischer oder maschinell verwertbarer Form für die Vergabe und Dokumentation von Diagnosen für den Vertragspartner beinhalten. Die Krankenkassen haben auf Verlangen der zuständigen Aufsichtsbehörde bezüglich der Einhaltung Nachweise zu erbringen.
 
-
-## § 72 – Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
+# § 72 – Sicherstellung der vertragsärztlichen und vertragszahnärztlichen Versorgung
 
 (1) Ärzte, Zahnärzte, Psychotherapeuten, medizinische Versorgungszentren und Krankenkassen wirken zur Sicherstellung der vertragsärztlichen Versorgung der Versicherten zusammen. Soweit sich die Vorschriften dieses Kapitels auf Ärzte beziehen, gelten sie entsprechend für Zahnärzte, Psychotherapeuten und medizinische Versorgungszentren, sofern nichts Abweichendes bestimmt ist.
 
@@ -2862,8 +2716,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 (4) (weggefallen)
 
-
-## § 72a – Übergang des Sicherstellungsauftrags auf die Krankenkassen
+# § 72a – Übergang des Sicherstellungsauftrags auf die Krankenkassen
 
 (1) Haben mehr als 50 vom Hundert aller in einem Zulassungsbezirk oder einem regionalen Planungsbereich niedergelassenen Vertragsärzte auf ihre Zulassung nach § 95b Abs. 1 verzichtet oder die vertragsärztliche Versorgung verweigert und hat die Aufsichtsbehörde nach Anhörung der Landesverbände der Krankenkassen, der Ersatzkassen und der Kassenärztlichen Vereinigung festgestellt, daß dadurch die vertragsärztliche Versorgung nicht mehr sichergestellt ist, erfüllen insoweit die Krankenkassen und ihre Verbände den Sicherstellungsauftrag.
 
@@ -2877,8 +2730,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 (6) Ärzte oder Einrichtungen, mit denen nach Absatz 3 und 5 Verträge zur Versorgung der Versicherten geschlossen worden sind, sind verpflichtet und befugt, die für die Erfüllung der Aufgaben der Krankenkassen und die für die Abrechnung der vertraglichen Vergütung notwendigen Angaben, die aus der Erbringung, der Verordnung sowie der Abgabe von Versicherungsleistungen entstehen, aufzuzeichnen und den Krankenkassen mitzuteilen.
 
-
-## § 73 – Kassenärztliche Versorgung, Verordnungsermächtigung
+# § 73 – Kassenärztliche Versorgung, Verordnungsermächtigung
 
 (1) Die vertragsärztliche Versorgung gliedert sich in die hausärztliche und die fachärztliche Versorgung. Die hausärztliche Versorgung beinhaltet insbesondere
 
@@ -2902,8 +2754,7 @@ Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wa
 
 5. Ärzte, die am 31. Dezember 2000 an der hausärztlichen Versorgung teilgenommen haben,
 
-teil (Hausärzte).  
-Die übrigen Fachärzte nehmen an der fachärztlichen Versorgung teil. Der Zulassungsausschuss kann für Kinder- und Jugendärzte und Internisten ohne Schwerpunktbezeichnung eine von Satz 1 abweichende befristete Regelung treffen, wenn eine bedarfsgerechte Versorgung nicht gewährleistet ist. Hat der Landesausschuss der Ärzte und Krankenkassen für die Arztgruppe der Hausärzte, der Kinder- und Jugendärzte oder der Fachinternisten eine Feststellung nach § 100 Absatz 1 Satz 1 getroffen, fasst der Zulassungsausschuss innerhalb von sechs Monaten den Beschluss, ob eine Regelung nach Satz 3 getroffen wird. Kinder- und Jugendärzte mit Schwerpunktbezeichnung können auch an der fachärztlichen Versorgung teilnehmen. Der Zulassungsausschuss kann Allgemeinärzten und Ärzten ohne Gebietsbezeichnung, die im Wesentlichen spezielle Leistungen erbringen, auf deren Antrag die Genehmigung zur ausschließlichen Teilnahme an der fachärztlichen Versorgung erteilen.
+teil (Hausärzte). Die übrigen Fachärzte nehmen an der fachärztlichen Versorgung teil. Der Zulassungsausschuss kann für Kinder- und Jugendärzte und Internisten ohne Schwerpunktbezeichnung eine von Satz 1 abweichende befristete Regelung treffen, wenn eine bedarfsgerechte Versorgung nicht gewährleistet ist. Hat der Landesausschuss der Ärzte und Krankenkassen für die Arztgruppe der Hausärzte, der Kinder- und Jugendärzte oder der Fachinternisten eine Feststellung nach § 100 Absatz 1 Satz 1 getroffen, fasst der Zulassungsausschuss innerhalb von sechs Monaten den Beschluss, ob eine Regelung nach Satz 3 getroffen wird. Kinder- und Jugendärzte mit Schwerpunktbezeichnung können auch an der fachärztlichen Versorgung teilnehmen. Der Zulassungsausschuss kann Allgemeinärzten und Ärzten ohne Gebietsbezeichnung, die im Wesentlichen spezielle Leistungen erbringen, auf deren Antrag die Genehmigung zur ausschließlichen Teilnahme an der fachärztlichen Versorgung erteilen.
 
 (1b) Die einen Versicherten behandelnden Leistungserbringer sind verpflichtet, den Versicherten nach dem von ihm gewählten Hausarzt zu fragen; sie sind verpflichtet, die den Versicherten betreffenden Behandlungsdaten und Befunde mit dessen Zustimmung zum Zwecke der bei dem Hausarzt durchzuführenden Dokumentation und der weiteren Behandlung zu übermitteln. Der Hausarzt ist mit Zustimmung des Versicherten verpflichtet, die für die Behandlung erforderlichen Daten und Befunde an die den Versicherten behandelnden Leistungserbringer zu übermitteln. Bei einem Hausarztwechsel ist der bisherige Hausarzt mit Zustimmung des Versicherten verpflichtet, dem neuen Hausarzt die bei ihm über den Versicherten gespeicherten Unterlagen vollständig zu übermitteln.
 
@@ -2915,8 +2766,7 @@ Die übrigen Fachärzte nehmen an der fachärztlichen Versorgung teil. Der Zulas
 
 2. zahnärztliche Behandlung und kieferorthopädische Behandlung nach Maßgabe des § 28 Abs. 2,
 
-2a.  
-Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen, soweit sie § 56 Abs. 2 entspricht,
+2a. Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen, soweit sie § 56 Abs. 2 entspricht,
 
 3. Maßnahmen zur Früherkennung von Krankheiten,
 
@@ -2928,8 +2778,7 @@ Versorgung mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen, so
 
 7. Verordnung von Arznei-, Verband-, Heil- und Hilfsmitteln, Krankentransporten sowie Krankenhausbehandlung oder Behandlung in Vorsorge- oder Rehabilitationseinrichtungen,
 
-7a.  
-Verordnung von digitalen Gesundheitsanwendungen,
+7a. Verordnung von digitalen Gesundheitsanwendungen,
 
 8. Verordnung häuslicher Krankenpflege und außerklinischer Intensivpflege,
 
@@ -2977,11 +2826,9 @@ und die von der Kassenärztlichen Bundesvereinigung für die vertragsärztliche 
 
 (11) Stellt ein Vertragsarzt bei einem Versicherten eine Diagnose nach § 125a und die Indikation für ein Heilmittel, sind Auswahl und Dauer der Therapie sowie die Frequenz der Behandlungseinheiten vom Heilmittelerbringer festzulegen. In medizinisch begründeten Fällen kann der Vertragsarzt auch bei Vorliegen einer Diagnose nach § 125a selbst über die Auswahl und Dauer der Therapie sowie die Frequenz der Behandlungseinheiten entscheiden. Die Vertragsärzte sollen zum Beginn des auf den rechtskräftigen Abschluss des Vertrages nach § 125a folgenden Quartals, frühestens jedoch nach sechs Wochen, nach den Regelungen dieses Absatzes verordnen.
 
+# § 73a – (weggefallen)
 
-## § 73a – (weggefallen)
-
-
-## § 73b – Hausarztzentrierte Versorgung
+# § 73b – Hausarztzentrierte Versorgung
 
 (1) Die Krankenkassen haben ihren Versicherten eine besondere hausärztliche Versorgung (hausarztzentrierte Versorgung) anzubieten.
 
@@ -3023,19 +2870,15 @@ Finden die Krankenkassen in dem Bezirk einer Kassenärztlichen Vereinigung keine
 
 (9) Die Einhaltung der nach Absatz 5 Satz 1 vereinbarten Wirtschaftlichkeitskriterien muss spätestens vier Jahre nach dem Wirksamwerden der zugrunde liegenden Verträge nachweisbar sein; § 88 Absatz 2 des Vierten Buches gilt entsprechend.
 
+# § 73c – (weggefallen)
 
-## § 73c – (weggefallen)
+# § 73d – (weggefallen)
 
-
-## § 73d – (weggefallen)
-
-
-## § 74 – Stufenweise Wiedereingliederung
+# § 74 – Stufenweise Wiedereingliederung
 
 Können arbeitsunfähige Versicherte nach ärztlicher Feststellung ihre bisherige Tätigkeit teilweise verrichten und können sie durch eine stufenweise Wiederaufnahme ihrer Tätigkeit voraussichtlich besser wieder in das Erwerbsleben eingegliedert werden, soll der Arzt auf der Bescheinigung über die Arbeitsunfähigkeit Art und Umfang der möglichen Tätigkeiten angeben und dabei in geeigneten Fällen die Stellungnahme des Betriebsarztes oder mit Zustimmung der Krankenkasse die Stellungnahme des Medizinischen Dienstes (§ 275) einholen. Spätestens ab einer Dauer der Arbeitsunfähigkeit von sechs Wochen hat die ärztliche Feststellung nach Satz 1 regelmäßig mit der Bescheinigung über die Arbeitsunfähigkeit zu erfolgen. Der Gemeinsame Bundesausschuss legt in seinen Richtlinien nach § 92 bis zum 30. November 2019 das Verfahren zur regelmäßigen Feststellung über eine stufenweise Wiedereingliederung nach Satz 2 fest.
 
-
-## § 75 – Inhalt und Umfang der Sicherstellung
+# § 75 – Inhalt und Umfang der Sicherstellung
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen haben die vertragsärztliche Versorgung in dem in § 73 Abs. 2 bezeichneten Umfang sicherzustellen und den Krankenkassen und ihren Verbänden gegenüber die Gewähr dafür zu übernehmen, daß die vertragsärztliche Versorgung den gesetzlichen und vertraglichen Erfordernissen entspricht. Kommt die Kassenärztliche Vereinigung ihrem Sicherstellungsauftrag aus Gründen, die sie zu vertreten hat, nicht nach, können die Krankenkassen die in den Gesamtverträgen nach § 85 oder § 87a vereinbarten Vergütungen teilweise zurückbehalten. Die Einzelheiten regeln die Partner der Bundesmantelverträge.
 
@@ -3111,8 +2954,7 @@ Die Richtlinie nach Satz 1 Nr. 2 muss sicherstellen, dass die für die erbrachte
 
 (10) (weggefallen)
 
-
-## § 75a – Förderung der Weiterbildung
+# § 75a – Förderung der Weiterbildung
 
 (1) Die Kassenärztlichen Vereinigungen und die Krankenkassen sind zur Sicherung der hausärztlichen Versorgung verpflichtet, die allgemeinmedizinische Weiterbildung in den Praxen zugelassener Ärzte und zugelassener medizinischer Versorgungszentren zu fördern. Die Kassenärztlichen Vereinigungen und die Krankenkassen tragen die Kosten der Förderung für die Weiterbildung in der Allgemeinmedizin im ambulanten Bereich je zur Hälfte. Die Zuschüsse der Krankenkassen werden außerhalb der Gesamtvergütung für die vertragsärztliche Versorgung gewährt. Die Förderung ist von der Weiterbildungsstelle auf die im Krankenhaus übliche Vergütung anzuheben und an den Weiterzubildenden in voller Höhe auszuzahlen.
 
@@ -3152,8 +2994,7 @@ Mit der Bundesärztekammer ist das Benehmen herzustellen. Wird eine Vereinbarung
 
 (9) Die Absätze 1 und 4 bis 8 gelten für die Förderung der Weiterbildung in der ambulanten grundversorgenden fachärztlichen Versorgung nach Maßgabe der Vereinbarung nach Absatz 4 Satz 2 Nummer 5 entsprechend. Es sind bundesweit bis zu 2 000 Weiterbildungsstellen, davon mindestens 250 Weiterbildungsstellen in der Kinder- und Jugendmedizin, zu fördern.
 
-
-## § 75b – Richtlinie zur IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung
+# § 75b – Richtlinie zur IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung
 
 (1) Die Kassenärztlichen Bundesvereinigungen legen bis zum 30. Juni 2020 in einer Richtlinie die Anforderungen zur Gewährleistung der IT-Sicherheit in der vertragsärztlichen und vertragszahnärztlichen Versorgung fest. Die Richtlinie umfasst auch Anforderungen an die sichere Installation und Wartung von Komponenten und Diensten der Telematikinfrastruktur, die in der vertragsärztlichen und vertragszahnärztlichen Versorgung genutzt werden.
 
@@ -3165,8 +3006,7 @@ Mit der Bundesärztekammer ist das Benehmen herzustellen. Wird eine Vereinbarung
 
 (5) Die Kassenärztlichen Bundesvereinigungen müssen ab dem 30. Juni 2020 die Mitarbeiterinnen und Mitarbeiter der Anbieter im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik auf deren Antrag zertifizieren, wenn diese Personen über die notwendige Eignung verfügen, um die an der vertragsärztlichen und vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer bei der Umsetzung der Richtlinie sowie deren Anpassungen zu unterstützen. Die Vorgaben für die Zertifizierung werden von den Kassenärztlichen Bundesvereinigungen im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik sowie im Benehmen mit den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen bis zum 31. März 2020 erstellt. In Bezug auf die Anforderungen nach Absatz 1 Satz 2 legen die Kassenärztlichen Bundesvereinigungen die Vorgaben für die Zertifizierung der Mitarbeiterinnen und Mitarbeiter der Anbieter nach Satz 1 im Benehmen mit der Gesellschaft für Telematik fest.
 
-
-## § 75c – IT-Sicherheit in Krankenhäusern
+# § 75c – IT-Sicherheit in Krankenhäusern
 
 (1) Ab dem 1. Januar 2022 sind Krankenhäuser verpflichtet, nach dem Stand der Technik angemessene organisatorische und technische Vorkehrungen zur Vermeidung von Störungen der Verfügbarkeit, Integrität und Vertraulichkeit sowie der weiteren Sicherheitsziele ihrer informationstechnischen Systeme, Komponenten oder Prozesse zu treffen, die für die Funktionsfähigkeit des jeweiligen Krankenhauses und die Sicherheit der verarbeiteten Patienteninformationen maßgeblich sind. Organisatorische und technische Vorkehrungen sind angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den Folgen eines Ausfalls oder einer Beeinträchtigung des Krankenhauses oder der Sicherheit der verarbeiteten Patienteninformationen steht. Die informationstechnischen Systeme sind spätestens alle zwei Jahre an den aktuellen Stand der Technik anzupassen.
 
@@ -3174,8 +3014,7 @@ Mit der Bundesärztekammer ist das Benehmen herzustellen. Wird eine Vereinbarung
 
 (3) Die Verpflichtung nach Absatz 1 gilt für alle Krankenhäuser, soweit sie nicht ohnehin als Betreiber Kritischer Infrastrukturen gemäß § 8a des BSI-Gesetzes angemessene technische Vorkehrungen zu treffen haben.
 
-
-## § 76 – Freie Arztwahl
+# § 76 – Freie Arztwahl
 
 (1) Die Versicherten können unter den zur vertragsärztlichen Versorgung zugelassenen Ärzten, den medizinischen Versorgungszentren, den ermächtigten Ärzten, den ermächtigten oder nach § 116b an der ambulanten Versorgung teilnehmenden Einrichtungen, den Zahnkliniken der Krankenkassen, den Eigeneinrichtungen der Krankenkassen nach § 140 Abs. 2 Satz 2, den nach § 72a Abs. 3 vertraglich zur ärztlichen Behandlung verpflichteten Ärzten und Zahnärzten, den zum ambulanten Operieren zugelassenen Krankenhäusern sowie den Einrichtungen nach § 75 Abs. 9 frei wählen. Andere Ärzte dürfen nur in Notfällen in Anspruch genommen werden. Die Inanspruchnahme der Eigeneinrichtungen der Krankenkassen nach § 140 Abs. 1 und 2 Satz 1 richtet sich nach den hierüber abgeschlossenen Verträgen. Die Zahl der Eigeneinrichtungen darf auf Grund vertraglicher Vereinbarung vermehrt werden, wenn die Voraussetzungen des § 140 Abs. 2 Satz 1 erfüllt sind.
 
@@ -3191,8 +3030,7 @@ Mit der Bundesärztekammer ist das Benehmen herzustellen. Wird eine Vereinbarung
 
 (5) Die Versicherten der knappschaftlichen Krankenversicherung können unter den Knappschaftsärzten und den in Absatz 1 genannten Personen und Einrichtungen frei wählen. Die Absätze 2 bis 4 gelten entsprechend.
 
-
-## § 77 – Kassenärztliche Vereinigungen und Bundesvereinigungen
+# § 77 – Kassenärztliche Vereinigungen und Bundesvereinigungen
 
 (1) Zur Erfüllung der ihnen durch dieses Buch übertragenen Aufgaben der vertragsärztlichen Versorgung bilden die Vertragsärzte für den Bereich jedes Landes eine Kassenärztliche und eine Kassenzahnärztliche Vereinigung (Kassenärztliche Vereinigungen). Bestehen in einem Land mehrere Kassenärztliche Vereinigungen, können sich diese nach Absatz 2 vereinigen.
 
@@ -3206,8 +3044,7 @@ Mit der Bundesärztekammer ist das Benehmen herzustellen. Wird eine Vereinbarung
 
 (6) §§ 88, 94 Abs. 1a bis 4 und § 97 Abs. 1 Satz 1 bis 4 des Zehnten Buches gelten entsprechend. Wenn eine Kassenärztliche Vereinigung eine andere Kassenärztliche Vereinigung nach Satz 1 in Verbindung mit § 88 des Zehnten Buches beauftragt, eine ihr obliegende Aufgabe wahrzunehmen und hiermit eine Verarbeitung von Sozialdaten durch die Beauftragte verbunden ist, wird die Beauftragte mit dem Empfang der ihr nach § 285 Absatz 3 Satz 7 übermittelten Sozialdaten Verantwortliche. § 80 Absatz 1 Satz 1 Nummer 1 bis 3 und Satz 2 des Zehnten Buches gilt entsprechend, Satz 1 Nummer 1 jedoch mit der Maßgabe, dass nur der Auftragsverarbeiter anzuzeigen ist.
 
-
-## § 77a – Dienstleistungsgesellschaften
+# § 77a – Dienstleistungsgesellschaften
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen können zur Erfüllung der in Absatz 2 aufgeführten Aufgaben Gesellschaften gründen.
 
@@ -3225,8 +3062,7 @@ Mit der Bundesärztekammer ist das Benehmen herzustellen. Wird eine Vereinbarung
 
 (3) Gesellschaften nach Absatz 1 dürfen nur gegen Kostenersatz tätig werden. Eine Finanzierung aus Mitteln der Kassenärztlichen Vereinigungen oder Kassenärztlichen Bundesvereinigungen ist ausgeschlossen.
 
-
-## § 77b – Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften der Kassenärztlichen Bundesvereinigungen
+# § 77b – Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften der Kassenärztlichen Bundesvereinigungen
 
 (1) Vor der Entscheidung des Vorstandes der Kassenärztlichen Bundesvereinigungen über die Errichtung, Übernahme oder wesentliche Erweiterung von Einrichtungen im Sinne des § 85 Absatz 1 des Vierten Buches sowie über eine unmittelbare oder mittelbare Beteiligung an solchen Einrichtungen ist die Vertreterversammlung der Kassenärztlichen Bundesvereinigungen durch den Vorstand auf der Grundlage geeigneter Daten umfassend über die Chancen und Risiken der beabsichtigten Betätigung zu unterrichten. Die Entscheidung des Vorstandes nach Satz 1 bedarf der Zustimmung der Vertreterversammlung.
 
@@ -3244,8 +3080,7 @@ Der Bericht über das abgelaufene Geschäftsjahr ist der Vertreterversammlung de
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Dienstleistungsgesellschaften nach § 77a, an denen die Kassenärztlichen Bundesvereinigungen beteiligt sind, und für Arbeitsgemeinschaften nach § 94 Absatz 1a des Zehnten Buches in Verbindung mit § 77 Absatz 6 Satz 1, an denen die Kassenärztlichen Bundesvereinigungen beteiligt sind.
 
-
-## § 78 – Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
+# § 78 – Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
 
 (1) Die Aufsicht über die Kassenärztlichen Bundesvereinigungen führt das Bundesministerium für Gesundheit, die Aufsicht über die Kassenärztlichen Vereinigungen führen die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder.
 
@@ -3259,8 +3094,7 @@ Der Bericht über das abgelaufene Geschäftsjahr ist der Vertreterversammlung de
 
 (6) Für die Kassenärztlichen Vereinigungen gelten für das Haushalts- und Rechnungswesen einschließlich der Statistiken die §§ 67 bis 70 Absatz 1 und 5, die §§ 72 bis 77 Absatz 1 und die §§ 78 und 79 Absatz 1 und 2 in Verbindung mit Absatz 3a, für das Vermögen die §§ 80 und 85 des Vierten Buches und für die Verwendung der Mittel § 305b entsprechend.
 
-
-## § 78a – Aufsichtsmittel in besonderen Fällen bei den Kassenärztlichen Bundesvereinigungen
+# § 78a – Aufsichtsmittel in besonderen Fällen bei den Kassenärztlichen Bundesvereinigungen
 
 (1) Ergibt sich nachträglich, dass eine Satzung nicht hätte genehmigt werden dürfen, oder bedarf eine Satzung wegen nachträglich eingetretener rechtlicher oder tatsächlicher Umstände, die zur Rechtswidrigkeit der Satzung führen, einer Änderung, so kann die Aufsichtsbehörde anordnen, dass die Kassenärztlichen Bundesvereinigungen innerhalb einer bestimmten Frist die erforderlichen Änderungen vornehmen. Kommen die Kassenärztlichen Bundesvereinigungen der Anordnung innerhalb der Frist nicht nach, so kann die Aufsichtsbehörde die erforderlichen Änderungen selbst vornehmen.
 
@@ -3270,8 +3104,7 @@ Der Bericht über das abgelaufene Geschäftsjahr ist der Vertreterversammlung de
 
 (4) Einer Anordnung mit Fristsetzung bedarf es nicht, wenn ein Beschluss nach Absatz 1 oder Absatz 2 auf Grund gesetzlicher Regelungen innerhalb einer bestimmten Frist zu fassen ist. Klagen gegen Anordnungen und Maßnahmen der Aufsichtsbehörde nach den Absätzen 1 bis 3 haben keine aufschiebende Wirkung.
 
-
-## § 78b – Entsandte Person für besondere Angelegenheiten bei den Kassenärztlichen Bundesvereinigungen
+# § 78b – Entsandte Person für besondere Angelegenheiten bei den Kassenärztlichen Bundesvereinigungen
 
 (1) Solange und soweit die ordnungsgemäße Verwaltung bei den Kassenärztlichen Bundesvereinigungen gefährdet ist, kann die Aufsichtsbehörde eine Person an die Kassenärztlichen Bundesvereinigungen entsenden, diese Person mit der Wahrnehmung von Aufgaben bei den Kassenärztlichen Bundesvereinigungen betrauen und ihr hierfür die erforderlichen Befugnisse übertragen. Die ordnungsgemäße Verwaltung ist insbesondere gefährdet, wenn
 
@@ -3291,13 +3124,11 @@ Die Aufsichtsbehörde kann die Person in diesen Fällen zur Beratung und Unterst
 
 (4) Der Entsendung der Person hat eine Anordnung vorauszugehen, mit der die Aufsichtsbehörde den Kassenärztlichen Bundesvereinigungen aufgibt, innerhalb einer bestimmten Frist das Erforderliche zur Gewährleistung einer ordnungsgemäßen Verwaltung zu veranlassen. Klagen gegen die Anordnung nach Satz 1 oder gegen die Entsendung der Person haben keine aufschiebende Wirkung.
 
-
-## § 78c – Berichtspflicht des Bundesministeriums für Gesundheit
+# § 78c – Berichtspflicht des Bundesministeriums für Gesundheit
 
 Sofern schutzwürdige Belange Dritter nicht entgegenstehen, hat das Bundesministerium für Gesundheit dem Ausschuss für Gesundheit des Deutschen Bundestages jährlich zum 1. März, erstmalig zum 1. März 2018, einen Bericht über aufsichtsrechtliche Maßnahmen nach § 78a Absatz 1 bis 3, § 78b Absatz 1 und 4 Satz 1 und § 79a Absatz 1a und 2 Satz 1, über den Erlass von Verpflichtungsbescheiden nach § 89 Absatz 1 Satz 2 des Vierten Buches in Verbindung mit § 78 Absatz 3 Satz 2 sowie über den Sachstand der Aufsichtsverfahren vorzulegen.
 
-
-## § 79 – Organe
+# § 79 – Organe
 
 (1) Bei den Kassenärztlichen Vereinigungen und den Kassenärztlichen Bundesvereinigungen werden eine Vertreterversammlung als Selbstverwaltungsorgan sowie ein hauptamtlicher Vorstand gebildet. Für die Mitglieder der Vertreterversammlung gilt § 40 des Vierten Buches entsprechend.
 
@@ -3339,8 +3170,7 @@ Sie kann sämtliche Geschäfts- und Verwaltungsunterlagen einsehen und prüfen. 
 
 (7) Der Vorstand der Kassenärztlichen Bundesvereinigungen hat geeignete Maßnahmen zur Herstellung und Sicherung einer ordnungsgemäßen Verwaltungsorganisation zu ergreifen. In der Verwaltungsorganisation ist insbesondere ein angemessenes internes Kontrollverfahren mit einem internen Kontrollsystem und mit einer unabhängigen internen Revision einzurichten. Die interne Revision berichtet in regelmäßigen Abständen dem Vorstand sowie bei festgestellten Verstößen gegen gesetzliche Regelungen oder andere wesentliche Vorschriften auch der Aufsichtsbehörde. Beziehen sich die festgestellten Verstöße auf das Handeln von Vorstandsmitgliedern, so ist auch der Vertreterversammlung zu berichten.
 
-
-## § 79a – Verhinderung von Organen, Bestellung eines Beauftragten
+# § 79a – Verhinderung von Organen, Bestellung eines Beauftragten
 
 (1) Solange und soweit die Wahl der Vertreterversammlung und des Vorstandes der Kassenärztlichen Vereinigungen nicht zustande kommt oder die Vertreterversammlung oder der Vorstand der Kassenärztlichen Vereinigungen sich weigert, ihre oder seine Geschäfte zu führen, nimmt auf Kosten der Kassenärztlichen Vereinigungen die Aufsichtsbehörde selbst oder ein von ihr bestellter Beauftragter die Aufgaben der Kassenärztlichen Vereinigungen wahr. Auf deren Kosten werden ihre Geschäfte durch die Aufsichtsbehörde selbst oder durch den von ihr bestellten Beauftragten auch dann geführt, wenn die Vertreterversammlung oder der Vorstand die Funktionsfähigkeit der Körperschaft gefährden, insbesondere wenn sie die Körperschaft nicht mehr im Einklang mit den Gesetzen und der Satzung verwalten, die Auflösung der Kassenärztlichen Vereinigung betreiben oder das Vermögen gefährdende Entscheidungen beabsichtigen oder treffen.
 
@@ -3350,13 +3180,11 @@ Sie kann sämtliche Geschäfts- und Verwaltungsunterlagen einsehen und prüfen. 
 
 (2) Der Führung der Geschäfte durch die Aufsichtsbehörde oder der Bestellung eines Beauftragten hat eine Anordnung vorauszugehen, mit der die Aufsichtsbehörde den Kassenärztlichen Vereinigungen oder den Kassenärztlichen Bundesvereinigungen aufgibt, innerhalb einer bestimmten Frist das Erforderliche zu veranlassen. Klagen gegen die Anordnung nach Satz 1, gegen die Entscheidung über die Bestellung eines Beauftragten oder gegen die Wahrnehmung der Aufgaben der Kassenärztlichen Vereinigungen oder der Kassenärztlichen Bundesvereinigungen durch die Aufsichtsbehörde haben keine aufschiebende Wirkung. Die Aufsichtsbehörde oder die von ihr bestellten Beauftragten haben die Stellung des Organs der Kassenärztlichen Vereinigung, für das sie die Geschäfte führen.
 
-
-## § 79b – Beratender Fachausschuß für Psychotherapie
+# § 79b – Beratender Fachausschuß für Psychotherapie
 
 Bei den Kassenärztlichen Vereinigungen und der Kassenärztlichen Bundesvereinigung wird ein beratender Fachausschuß für Psychotherapie gebildet. Der Ausschuss besteht aus sechs Psychotherapeuten, von denen einer Kinder- und Jugendlichenpsychotherapeut oder Psychotherapeut mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen sein muss, sowie Vertretern der Ärzte in gleicher Zahl, die von der Vertreterversammlung aus dem Kreis der Mitglieder ihrer Kassenärztlichen Vereinigung in unmittelbarer und geheimer Wahl gewählt werden. Für die Wahl der Mitglieder des Fachausschusses bei der Kassenärztlichen Bundesvereinigung gilt Satz 2 mit der Maßgabe, daß die von den Psychotherapeuten gestellten Mitglieder des Fachausschusses zugelassene Psychotherapeuten sein müssen. Dem Ausschuß ist vor Entscheidungen der Kassenärztlichen Vereinigungen und der Kassenärztlichen Bundesvereinigung in den die Sicherstellung der psychotherapeutischen Versorgung berührenden wesentlichen Fragen rechtzeitig Gelegenheit zur Stellungnahme zu geben. Seine Stellungnahmen sind in die Entscheidungen einzubeziehen. Das Nähere regelt die Satzung. Die Befugnisse der Vertreterversammlungen der Kassenärztlichen Vereinigungen und der Kassenärztlichen Bundesvereinigung bleiben unberührt.
 
-
-## § 79c – Beratender Fachausschuss für hausärztliche Versorgung; weitere beratende Fachausschüsse
+# § 79c – Beratender Fachausschuss für hausärztliche Versorgung; weitere beratende Fachausschüsse
 
 Bei den Kassenärztlichen Vereinigungen und der Kassenärztlichen Bundesvereinigung wird jeweils ein beratender Fachausschuss gebildet für
 
@@ -3368,8 +3196,7 @@ Bei den Kassenärztlichen Vereinigungen und der Kassenärztlichen Bundesvereinig
 
 Die Fachausschüsse nach Satz 1 Nummer 1 und 2 bestehen aus Mitgliedern, die an der jeweiligen Versorgung teilnehmen und nicht bereits Mitglied in einem Fachausschuss nach § 79b sind. Der Fachausschuss nach Satz 1 Nummer 3 besteht aus Mitgliedern, die angestellte Ärztinnen und Ärzte nach § 77 Absatz 3 Satz 2 sind. Weitere beratende Fachausschüsse, insbesondere für rehabilitationsmedizinische Fragen können gebildet werden. Die Mitglieder der beratenden Fachausschüsse sind von der Vertreterversammlung aus dem Kreis der Mitglieder der Kassenärztlichen Vereinigungen in unmittelbarer und geheimer Wahl zu wählen. Das Nähere über die beratenden Fachausschüsse und ihre Zusammensetzung regelt die Satzung. § 79b Satz 5 bis 8 gilt entsprechend.
 
-
-## § 80 – Wahl und Abberufung
+# § 80 – Wahl und Abberufung
 
 (1) Die Mitglieder der Kassenärztlichen Vereinigungen wählen in unmittelbarer und geheimer Wahl die Mitglieder der Vertreterversammlung. Die Wahlen erfolgen nach den Grundsätzen der Verhältniswahl auf Grund von Listen- und Einzelwahlvorschlägen. Die Psychotherapeuten wählen ihre Mitglieder der Vertreterversammlung entsprechend den Sätzen 1 und 2 mit der Maßgabe, dass sie höchstens mit einem Zehntel der Mitglieder in der Vertreterversammlung vertreten sind. Das Nähere zur Wahl der Mitglieder der Vertreterversammlung, einschließlich des Anteils der übrigen Mitglieder der Kassenärztlichen Vereinigungen, bestimmt die Satzung.
 
@@ -3389,8 +3216,7 @@ Der Vorsitzende der Vertreterversammlung und sein Stellvertreter dürfen nicht z
 
 (4) Die Vertreterversammlung der Kassenärztlichen Bundesvereinigungen kann ihren Vorsitzenden oder dessen Stellvertreter abberufen, wenn bestimmte Tatsachen das Vertrauen der Mitglieder der Vertreterversammlung zu der Amtsführung des Vorsitzenden oder des stellvertretenden Vorsitzenden ausschließen, insbesondere wenn der Vorsitzende oder der stellvertretende Vorsitzende seine Pflicht als Willensvertreter der Vertreterversammlung verletzt hat oder seine Informationspflichten gegenüber der Vertreterversammlung verletzt hat. Für die Abberufung ist die einfache Mehrheit der abgegebenen Stimmen erforderlich. Mit dem Beschluss über die Abberufung muss die Vertreterversammlung gleichzeitig einen Nachfolger für den Vorsitzenden oder den stellvertretenden Vorsitzenden wählen. Die Amtszeit des abberufenen Vorsitzenden oder des abberufenen stellvertretenden Vorsitzenden endet mit der Abberufung.
 
-
-## § 81 – Satzung
+# § 81 – Satzung
 
 (1) Die Satzung muss insbesondere Bestimmungen enthalten über
 
@@ -3428,8 +3254,7 @@ Die Satzung bedarf der Genehmigung der Aufsichtsbehörde.
 
 (5) Die Satzungen der Kassenärztlichen Vereinigungen müssen ferner die Voraussetzungen und das Verfahren zur Verhängung von Maßnahmen gegen Mitglieder bestimmen, die ihre vertragsärztlichen Pflichten nicht oder nicht ordnungsgemäß erfüllen. Maßnahmen nach Satz 1 sind je nach der Schwere der Verfehlung Verwarnung, Verweis, Geldbuße oder die Anordnung des Ruhens der Zulassung oder der vertragsärztlichen Beteiligung bis zu zwei Jahren. Das Höchstmaß der Geldbußen kann bis zu fünfzigtausend Euro betragen. Ein Vorverfahren (§ 78 des Sozialgerichtsgesetzes) findet nicht statt.
 
-
-## § 81a – Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
+# § 81a – Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
 
 (1) Die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen richten organisatorische Einheiten ein, die Fällen und Sachverhalten nachzugehen haben, die auf Unregelmäßigkeiten oder auf rechtswidrige oder zweckwidrige Nutzung von Finanzmitteln im Zusammenhang mit den Aufgaben der jeweiligen Kassenärztlichen Vereinigung oder Kassenärztlichen Bundesvereinigung hindeuten. Sie nehmen Kontrollbefugnisse nach § 67c Abs. 3 des Zehnten Buches wahr.
 
@@ -3471,8 +3296,7 @@ Die nach Satz 1 übermittelten Daten dürfen von dem jeweiligen Empfänger nur z
 
 Die Bestimmungen nach Satz 1 sind dem Bundesministerium für Gesundheit vorzulegen. Die Kassenärztlichen Bundesvereinigungen führen die Berichte nach Absatz 5, die ihnen von ihren Mitgliedern zuzuleiten sind, zusammen, gleichen die Ergebnisse mit dem Spitzenverband Bund der Krankenkassen ab und veröffentlichen ihre eigenen Berichte im Internet.
 
-
-## § 82 – Grundsätze
+# § 82 – Grundsätze
 
 (1) Den allgemeinen Inhalt der Gesamtverträge vereinbaren die Kassenärztlichen Bundesvereinigungen mit dem Spitzenverband Bund der Krankenkassen in Bundesmantelverträgen. Der Inhalt der Bundesmantelverträge ist Bestandteil der Gesamtverträge.
 
@@ -3482,13 +3306,11 @@ Die Bestimmungen nach Satz 1 sind dem Bundesministerium für Gesundheit vorzuleg
 
 (4) In den Verträgen ist ebenfalls das Nähere zur erneuten Verordnung eines mangelfreien Arzneimittels für versicherte Personen im Fall des § 31 Absatz 3 Satz 7 zu vereinbaren, insbesondere zur Kennzeichnung entsprechender Ersatzverordnungen.
 
-
-## § 83 – Gesamtverträge
+# § 83 – Gesamtverträge
 
 Die Kassenärztlichen Vereinigungen schließen mit den für ihren Bezirk zuständigen Landesverbänden der Krankenkassen und den Ersatzkassen Gesamtverträge über die vertragsärztliche Versorgung der Mitglieder mit Wohnort in ihrem Bezirk einschließlich der mitversicherten Familienangehörigen; die Landesverbände der Krankenkassen schließen die Gesamtverträge mit Wirkung für die Krankenkassen der jeweiligen Kassenart. Für die Deutsche Rentenversicherung Knappschaft-Bahn-See gilt Satz 1 entsprechend, soweit die ärztliche Versorgung durch die Kassenärztliche Vereinigung sichergestellt wird. § 82 Abs. 2 Satz 2 gilt entsprechend. Kassenindividuelle oder kassenartenspezifische Vereinbarungen über zusätzliche Vergütungen für Diagnosen können nicht Gegenstand der Gesamtverträge sein; § 71 Absatz 6 gilt entsprechend. Satz 4 gilt nicht für vertragszahnärztliche Leistungen.
 
-
-## § 84 – Arznei- und Heilmittelvereinbarung
+# § 84 – Arznei- und Heilmittelvereinbarung
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich und die Kassenärztliche Vereinigung treffen zur Sicherstellung der vertragsärztlichen Versorgung mit Leistungen nach § 31 bis zum 30. November für das jeweils folgende Kalenderjahr eine Arzneimittelvereinbarung. Die Vereinbarung umfasst
 
@@ -3532,8 +3354,7 @@ Kommt eine Vereinbarung bis zum Ablauf der in Satz 1 genannten Frist nicht zusta
 
 (8) Das Bundesministerium für Gesundheit kann bei Ereignissen mit erheblicher Folgewirkung für die medizinische Versorgung zur Gewährleistung der notwendigen Versorgung mit Leistungen nach § 31 die Ausgabenvolumen nach Absatz 1 Nr. 1 durch Rechtsverordnung mit Zustimmung des Bundesrates erhöhen.
 
-
-## § 85 – Gesamtvergütung
+# § 85 – Gesamtvergütung
 
 (1) Die Krankenkasse entrichtet nach Maßgabe der Gesamtverträge an die jeweilige Kassenärztliche Vereinigung mit befreiender Wirkung eine Gesamtvergütung für die gesamte vertragsärztliche Versorgung der Mitglieder mit Wohnort im Bezirk der Kassenärztlichen Vereinigung einschließlich der mitversicherten Familienangehörigen.
 
@@ -3577,8 +3398,7 @@ Kommt eine Vereinbarung bis zum Ablauf der in Satz 1 genannten Frist nicht zusta
 
 (4f) (weggefallen)
 
-
-## § 85a – Sonderregelungen für Vertragszahnärztinnen und Vertragszahnärzte aus Anlass der COVID-19-Pandemie
+# § 85a – Sonderregelungen für Vertragszahnärztinnen und Vertragszahnärzte aus Anlass der COVID-19-Pandemie
 
 (1) Um die finanziellen Auswirkungen zu überbrücken, die sich aus der infolge der COVID-19-Pandemie verminderten Inanspruchnahme zahnärztlicher Leistungen ergeben, wird die Gesamtvergütung vertragszahnärztlicher Leistungen abweichend von § 85 Absatz 2 Satz 1 für das Jahr 2020 und das Jahr 2021 jeweils auf 90 Prozent der gezahlten Gesamtvergütung der vertragszahnärztlichen Leistungen des Jahres 2019 als Abschlagszahlung festgesetzt. Satz 1 gilt für das Jahr 2020 nicht, wenn die jeweilige Kassenzahnärztliche Vereinigung gegenüber den Landesverbänden der Krankenkassen und den Ersatzkassen bis zum 2. Juni 2020 einer solchen Festsetzung schriftlich widersprochen hat. Satz 1 gilt für das Jahr 2021 nicht, wenn die jeweilige Kassenzahnärztliche Vereinigung gegenüber den Landesverbänden der Krankenkassen und den Ersatzkassen bis zum 1. Februar 2021 einer solchen Festsetzung schriftlich widerspricht.
 
@@ -3592,21 +3412,17 @@ Kommt eine Vereinbarung bis zum Ablauf der in Satz 1 genannten Frist nicht zusta
 
 (6) Für die Vereinbarung der Gesamtvergütung in den Jahren 2021 und 2022 findet § 85 Absatz 2 Satz 7 keine Anwendung.
 
-
-## § 85b – (weggefallen)
-
-\-
-
-
-## § 85c – (weggefallen)
-
-
-## § 85d – (weggefallen)
+# § 85b – (weggefallen)
 
 \-
 
+# § 85c – (weggefallen)
 
-## § 86 – Verwendung von Verordnungen und Empfehlungen in elektronischer Form
+# § 85d – (weggefallen)
+
+\-
+
+# § 86 – Verwendung von Verordnungen und Empfehlungen in elektronischer Form
 
 (1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge
 
@@ -3620,13 +3436,11 @@ Die Regelungen nach Satz 1 Nummer 1 müssen mit den Festlegungen des Rahmenvertr
 
 (3) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge bis zum 31. Juli 2021 die notwendigen Regelungen für die Verwendung von Empfehlungen von apothekenpflichtigen, nicht verschreibungspflichtigen Arzneimitteln in elektronischer Form. In den Vereinbarungen ist festzulegen, dass die Dienste der Telematikinfrastruktur für die Übermittlung der elektronischen Empfehlung zu verwenden sind, sobald diese zur Verfügung stehen.
 
-
-## § 86a – Verwendung von Überweisungen in elektronischer Form
+# § 86a – Verwendung von Überweisungen in elektronischer Form
 
 Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bund der Krankenkassen als Bestandteil der Bundesmantelverträge bis zum 31. Juli 2021 die notwendigen Regelungen zur barrierefreien Verwendung von Überweisungen in elektronischer Form. In den Vereinbarungen ist festzulegen, dass die Dienste der Telematikinfrastruktur für die Übermittlung der elektronischen Überweisung zu verwenden sind, sobald diese zur Verfügung stehen.
 
-
-## § 87 – Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte
+# § 87 – Bundesmantelvertrag, einheitlicher Bewertungsmaßstab, bundeseinheitliche Orientierungswerte
 
 (1) Die Kassenärztlichen Bundesvereinigungen vereinbaren mit dem Spitzenverband Bund der Krankenkassen durch Bewertungsausschüsse als Bestandteil der Bundesmantelverträge einen einheitlichen Bewertungsmaßstab für die ärztlichen und einen einheitlichen Bewertungsmaßstab für die zahnärztlichen Leistungen, im ärztlichen Bereich einschließlich der Sachkosten. In den Bundesmantelverträgen sind auch die Regelungen, die zur Organisation der vertragsärztlichen Versorgung notwendig sind, insbesondere Vordrucke und Nachweise, zu vereinbaren. Bei der Gestaltung der Arzneiverordnungsblätter ist § 73 Abs. 5 zu beachten. Die Arzneiverordnungsblätter sind so zu gestalten, daß bis zu drei Verordnungen je Verordnungsblatt möglich sind. Dabei ist für jede Verordnung ein Feld für die Auftragung des Kennzeichens nach § 300 Abs. 1 Nr. 1 sowie ein weiteres Feld vorzusehen, in dem der Arzt seine Entscheidung nach § 73 Abs. 5 durch Ankreuzen kenntlich machen kann. Die Kassenärztlichen Bundesvereinigungen und der Spitzenverband Bund der Krankenkassen prüfen, inwieweit bislang papiergebundene Verfahren zur Organisation der vertragsärztlichen Versorgung durch elektronische Kommunikationsverfahren ersetzt werden können. Das Ergebnis der Prüfung ist dem Bundesministerium für Gesundheit spätestens am 31. Dezember 2016 vorzulegen. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen regeln in dem Bundesmantelvertrag für Zahnärzte bis zum 31. Dezember 2019 das Nähere zu einem elektronischen Beantragungs- und Genehmigungsverfahren für bewilligungspflichtige zahnärztliche Leistungen. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen können die an der vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer durch Regelungen im Bundesmantelvertrag für Zahnärzte dazu verpflichten, die für die Beantragung von bewilligungspflichtigen Leistungen notwendigen Angaben an die jeweilige Kassenzahnärztliche Vereinigung und an die jeweilige Krankenkasse im Wege elektronischer Datenübertragung zu übermitteln. Zur Durchführung der elektronischen Antrags- und Genehmigungsverfahren sind die an der vertragszahnärztlichen Versorgung teilnehmenden Leistungserbringer befugt, die hierfür erforderlichen versichertenbezogene Angaben an die jeweilige Kassenzahnärztliche Vereinigung und an die jeweilige Krankenkasse zu übermitteln. Die jeweilige Kassenärztliche Vereinigung ist befugt, die für die Durchführung der elektronischen Antrags- und Genehmigungsverfahren erforderlichen versicherungsbezogenen übermittelten Angaben zu verarbeiten. Für die Übermittlung digitaler Vordrucke und Nachweise sind die Dienste der Telematikinfrastruktur zu nutzen, sobald diese zur Verfügung stehen. Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen ist mit Wirkung zum 1. Januar 2021 vorzusehen, dass Leistungen nach § 346 Absatz 1 Satz 1 und 3 zur Unterstützung der Versicherten bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Mit Wirkung zum 1. Januar 2022 ist im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen vorzusehen, dass Leistungen nach § 346 Absatz 3 zur Unterstützung der Versicherten bei der erstmaligen Befüllung der elektronischen Patientenakte im aktuellen Behandlungskontext vergütet werden. Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen ist vorzusehen, dass Leistungen im aktuellen Behandlungskontext zur Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 4 sowie Leistungen zur Aktualisierung von Datensätzen nach § 334 Absatz 1 Satz 2 Nummer 5 zusätzlich vergütet werden.
 
@@ -3752,8 +3566,7 @@ Die Verfahrensordnung, die Geschäftsordnung und die Finanzierungsregelung bedü
 
 (8) bis (9) (weggefallen)
 
-
-## § 87a – Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten
+# § 87a – Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten
 
 (1) Abweichend von § 82 Abs. 2 Satz 2 und § 85 gelten für die Vergütung vertragsärztlicher Leistungen die in Absatz 2 bis 6 getroffenen Regelungen; dies gilt nicht für vertragszahnärztliche Leistungen.
 
@@ -3807,8 +3620,7 @@ Bei der Empfehlung teilt der Bewertungsausschuss den in Absatz 2 Satz 1 genannte
 
 (6) Der Bewertungsausschuss beschließt erstmals bis zum 31. März 2012 Vorgaben zu Art, Umfang, Zeitpunkt und Verfahren der für die Vereinbarungen und Berechnungen nach den Absätzen 2 bis 4 erforderlichen Datenübermittlungen von den Kassenärztlichen Vereinigungen und Krankenkassen an das Institut des Bewertungsausschusses, welches den Vertragspartnern nach Absatz 2 Satz 1 die jeweils erforderlichen Datengrundlagen bis zum 30. Juni eines jeden Jahres zur Verfügung stellt; § 87 Absatz 3f Satz 2 gilt entsprechend.
 
-
-## § 87b – Vergütung der Ärzte (Honorarverteilung)
+# § 87b – Vergütung der Ärzte (Honorarverteilung)
 
 (1) Die Kassenärztliche Vereinigung verteilt die vereinbarten Gesamtvergütungen an die Ärzte, Psychotherapeuten, medizinischen Versorgungszentren sowie ermächtigten Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen, getrennt für die Bereiche der hausärztlichen und der fachärztlichen Versorgung; dabei sollen die von fachärztlich tätigen Ärzten erbrachten hausärztlichen Leistungen nicht den hausärztlichen Teil der Gesamtvergütungen und die von hausärztlich tätigen Ärzten erbrachten fachärztlichen Leistungen nicht den fachärztlichen Teil der Gesamtvergütungen mindern. Die Kassenärztliche Vereinigung wendet bei der Verteilung den Verteilungsmaßstab an, der im Benehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen festgesetzt worden ist. Die Vergütung der Leistungen im Notfall und im Notdienst erfolgt aus einem vor der Trennung für die Versorgungsbereiche gebildeten eigenen Honorarvolumen mit der Maßgabe, dass für diese Leistungen im Verteilungsmaßstab keine Maßnahmen zur Begrenzung oder Minderung des Honorars angewandt werden dürfen. Bisherige Bestimmungen, insbesondere zur Zuweisung von arzt- und praxisbezogenen Regelleistungsvolumen, gelten bis zur Entscheidung über einen Verteilungsmaßstab vorläufig fort.
 
@@ -3822,21 +3634,17 @@ Bei der Empfehlung teilt der Bewertungsausschuss den in Absatz 2 Satz 1 genannte
 
 (5) Die Regelungen der Absätze 1 bis 4 gelten nicht für vertragszahnärztliche Leistungen.
 
-
-## § 87c – Transparenz der Vergütung vertragsärztlicher Leistungen
+# § 87c – Transparenz der Vergütung vertragsärztlicher Leistungen
 
 Die Kassenärztliche Bundesvereinigung veröffentlicht für jedes Quartal zeitnah nach Abschluss des jeweiligen Abrechnungszeitraumes sowie für jede Kassenärztliche Vereinigung einen Bericht über die Ergebnisse der Honorarverteilung, über die Gesamtvergütungen, über die Bereinigungssummen und über das Honorar je Arzt und je Arztgruppe. Zusätzlich ist über Arztzahlen, Fallzahlen und Leistungsmengen zu informieren, um mögliche regionale Honorarunterschiede zu erklären. Die Kassenärztlichen Vereinigungen übermitteln der Kassenärztlichen Bundesvereinigung hierzu die erforderlichen Daten. Das Nähere bestimmt die Kassenärztliche Bundesvereinigung.
 
+# § 87d – (weggefallen)
 
-## § 87d – (weggefallen)
-
-
-## § 87e – Zahlungsanspruch bei Mehrkosten
+# § 87e – Zahlungsanspruch bei Mehrkosten
 
 Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 5 Satz 1 und § 55 Abs. 4 ist die Gebührenordnung für Zahnärzte. Der Zahlungsanspruch des Vertragszahnarztes gegenüber dem Versicherten ist bei den für diese Mehrkosten zu Grunde liegenden Leistungen auf das 2,3fache des Gebührensatzes der Gebührenordnung für Zahnärzte begrenzt. Bei Mehrkosten für lichthärtende Composite-Füllungen in Schicht- und Ätztechnik im Seitenzahnbereich nach § 28 Abs. 2 Satz 2 ist höchstens das 3,5fache des Gebührensatzes der Gebührenordnung für Zahnärzte berechnungsfähig. Die Begrenzung nach den Sätzen 2 und 3 entfällt, wenn der Gemeinsame Bundesausschuss seinen Auftrag gemäß § 92 Abs. 1a und der Bewertungsausschuss seinen Auftrag gemäß § 87 Abs. 2h Satz 2 erfüllt hat. Maßgebend ist der Tag des Inkrafttretens der Richtlinien und der Tag des Beschlusses des Bewertungsausschusses.
 
-
-## § 88 – Bundesleistungsverzeichnis, Vergütungen
+# § 88 – Bundesleistungsverzeichnis, Vergütungen
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches Verzeichnis der abrechnungsfähigen zahntechnischen Leistungen. Das bundeseinheitliche Verzeichnis ist im Benehmen mit der Kassenzahnärztlichen Bundesvereinigung zu vereinbaren.
 
@@ -3844,8 +3652,7 @@ Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 
 
 (3) Preise für zahntechnische Leistungen nach Absatz 1 ohne die zahntechnischen Leistungen beim Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen, die von einem Zahnarzt erbracht werden, haben die Preise nach Absatz 2 Satz 1 und 2 um mindestens 5 vom Hundert zu unterschreiten. Hierzu können Verträge nach § 83 abgeschlossen werden.
 
-
-## § 89 – Schiedsamt, Verordnungsermächtigungen
+# § 89 – Schiedsamt, Verordnungsermächtigungen
 
 (1) Die Kassenärztlichen Vereinigungen, die Landesverbände der Krankenkassen sowie die Ersatzkassen bilden je ein gemeinsames Schiedsamt für die vertragsärztliche Versorgung und ein gemeinsames Schiedsamt für die vertragszahnärztliche Versorgung (Landesschiedsämter).
 
@@ -3873,8 +3680,7 @@ Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 
 
 (13) Die Innungsverbände der Zahntechniker, die Landesverbände der Krankenkassen und die Ersatzkassen bilden ein weiteres Schiedsamt auf Landesebene. Das Schiedsamt besteht aus Vertretern der Innungsverbände der Zahntechniker und der Krankenkassen in gleicher Zahl sowie einem unparteiischen Vorsitzenden und zwei weiteren unparteiischen Mitgliedern. Im Übrigen gelten die Absätze 3, 4, 5 Satz 4 bis 7, die Absätze 6, 7, 8, 9 und 10 Satz 1, 2, 4 und 5 sowie die aufgrund des Absatzes 11 erlassene Verordnung entsprechend.
 
-
-## § 89a – Sektorenübergreifendes Schiedsgremium, Verordnungsermächtigungen
+# § 89a – Sektorenübergreifendes Schiedsgremium, Verordnungsermächtigungen
 
 (1) Die Kassenärztlichen Vereinigungen, die Landesverbände der Krankenkassen und die Ersatzkassen sowie die Landeskrankenhausgesellschaften oder die Vereinigungen der Krankenhausträger im Land bilden je ein sektorenübergreifendes Schiedsgremium.
 
@@ -3900,8 +3706,7 @@ Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 
 
 (12) Die Regelungen der Absätze 1 bis 11 gelten nicht für die Kassenzahnärztlichen Vereinigungen und die Kassenzahnärztliche Bundesvereinigung.
 
-
-## § 90 – Landesausschüsse
+# § 90 – Landesausschüsse
 
 (1) Die Kassenärztlichen Vereinigungen und die Landesverbände der Krankenkassen sowie die Ersatzkassen bilden für den Bereich jedes Landes einen Landesausschuß der Ärzte und Krankenkassen und einen Landesausschuß der Zahnärzte und Krankenkassen. Die Ersatzkassen können diese Aufgabe auf eine im Bezirk der Kassenärztlichen Vereinigung von den Ersatzkassen gebildete Arbeitsgemeinschaft oder eine Ersatzkasse übertragen.
 
@@ -3915,15 +3720,13 @@ Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 
 
 (6) Die von den Landesausschüssen getroffenen Entscheidungen nach § 99 Absatz 2, § 100 Absatz 1 Satz 1 und Absatz 3 sowie § 103 Absatz 1 Satz 1 und Absatz 3 sind den für die Sozialversicherung zuständigen obersten Landesbehörden vorzulegen. Diese können die Entscheidungen innerhalb von zwei Monaten beanstanden. § 94 Absatz 1 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 90a – Gemeinsames Landesgremium
+# § 90a – Gemeinsames Landesgremium
 
 (1) Nach Maßgabe der landesrechtlichen Bestimmungen kann für den Bereich des Landes ein gemeinsames Gremium aus Vertretern des Landes, der Kassenärztlichen Vereinigung, der Landesverbände der Krankenkassen sowie der Ersatzkassen und der Landeskrankenhausgesellschaft sowie weiteren Beteiligten gebildet werden. Das gemeinsame Landesgremium kann Empfehlungen zu sektorenübergreifenden Versorgungsfragen abgeben; hierzu gehören auch Empfehlungen zu einer sektorenübergreifenden Notfallversorgung.
 
 (2) Soweit das Landesrecht es vorsieht, ist dem gemeinsamen Landesgremium Gelegenheit zu geben, zu der Aufstellung und der Anpassung der Bedarfspläne nach § 99 Absatz 1 und zu den von den Landesausschüssen zu treffenden Entscheidungen nach § 99 Absatz 2, § 100 Absatz 1 Satz 1 und Absatz 3 sowie § 103 Absatz 1 Satz 1 Stellung zu nehmen.
 
-
-## § 91 – Gemeinsamer Bundesausschuss
+# § 91 – Gemeinsamer Bundesausschuss
 
 (1) Die Kassenärztlichen Bundesvereinigungen, die Deutsche Krankenhausgesellschaft und der Spitzenverband Bund der Krankenkassen bilden einen Gemeinsamen Bundesausschuss. Der Gemeinsame Bundesausschuss ist rechtsfähig. Er wird durch den Vorsitzenden des Beschlussgremiums gerichtlich und außergerichtlich vertreten.
 
@@ -3959,8 +3762,7 @@ Die Verfahrensordnung und die Geschäftsordnung bedürfen der Genehmigung des Bu
 
 (11) Der Gemeinsame Bundesausschuss hat dem Ausschuss für Gesundheit des Deutschen Bundestages einmal jährlich zum 31. März über das Bundesministerium für Gesundheit einen Bericht über die Einhaltung der Fristen nach § 135 Absatz 1 Satz 4 und 5, § 137c Absatz 1 Satz 5 und 6 sowie § 137h Absatz 4 Satz 9 vorzulegen, in dem im Falle von Überschreitungen der Fristen nach § 137c Absatz 1 Satz 5 und 6 sowie § 137h Absatz 4 Satz 9 auch die zur Straffung des Verfahrens unternommenen Maßnahmen und die besonderen Schwierigkeiten einer Bewertung, die zu einer Fristüberschreitung geführt haben können, im Einzelnen dargelegt werden müssen. Zudem sind in dem Bericht auch alle anderen Beratungsverfahren über Entscheidungen und Richtlinien des Gemeinsamen Bundesausschusses darzustellen, die seit förmlicher Einleitung des Beratungsverfahrens länger als drei Jahre andauern und in denen noch keine abschließende Beschlussfassung erfolgt ist.
 
-
-## § 91a – Aufsicht über den Gemeinsamen Bundesausschuss, Haushalts- und Rechnungswesen, Vermögen
+# § 91a – Aufsicht über den Gemeinsamen Bundesausschuss, Haushalts- und Rechnungswesen, Vermögen
 
 (1) Die Aufsicht über den Gemeinsamen Bundesausschuss führt das Bundesministerium für Gesundheit. Die §§ 87 bis 89 des Vierten Buches gelten entsprechend. Für das Haushalts- und Rechnungswesen gelten die §§ 67 bis 69 Absatz 1 und 2, § 70 Absatz 1 und die §§ 76 bis 77 Absatz 1 und 1a des Vierten Buches entsprechend. Der Gemeinsame Bundesausschuss übermittelt seinen Haushaltsplan dem Bundesministerium für Gesundheit. Er teilt dem Bundesministerium für Gesundheit mit, wenn er eine vorläufige Haushaltsführung, die Genehmigung überplanmäßiger oder außerplanmäßiger Ausgaben oder einen Nachtragshaushalt beschließt. Für das Vermögen gelten die §§ 80 bis 83 und 85 Absatz 1 Satz 1 und Absatz 2 bis 5 des Vierten Buches und für die Verwendung der Mittel § 305b entsprechend. Für das Verwaltungsvermögen gilt § 263 entsprechend. Die Betriebsmittel sollen im Durchschnitt des Haushaltsjahres das Eineinhalbfache des nach dem Haushaltsplan des Gemeinsamen Bundesausschusses auf einen Monat entfallenden Betrages der Ausgaben für die gesetzlich vorgesehenen Aufgaben sowie für die Verwaltungskosten nicht übersteigen. Soweit Vermögen nicht zur Rücklagenbildung erforderlich ist, ist es zur Senkung der nach § 91 Absatz 3 Satz 1 in Verbindung mit § 139c zu erhebenden Zuschläge zu verwenden.
 
@@ -3970,8 +3772,7 @@ Die Verfahrensordnung und die Geschäftsordnung bedürfen der Genehmigung des Bu
 
 (4) Die Vorschriften über die Errichtung, Übernahme oder wesentliche Erweiterung von Einrichtungen sowie über eine unmittelbare oder mittelbare Beteiligung an Einrichtungen nach § 219 Absatz 2 und 3 gelten entsprechend.
 
-
-## § 91b – Verordnungsermächtigung zur Regelung der Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus
+# § 91b – Verordnungsermächtigung zur Regelung der Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus
 
 Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates erstmals bis zum 30. Juni 2020 das Nähere zum Verfahren, das der Gemeinsame Bundesausschuss bei der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen und vertragszahnärztlichen Versorgung nach § 135 Absatz 1 und bei der Bewertung von Untersuchungs- und Behandlungsmethoden im Rahmen einer Krankenhausbehandlung nach § 137c Absatz 1 zu beachten hat. Es kann in der Rechtsverordnung Folgendes näher regeln:
 
@@ -3983,8 +3784,7 @@ Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung ohne Zustimm
 
 Innerhalb eines Monats nach Inkrafttreten der Rechtsverordnung nach Satz 1 und jeweils nach Inkrafttreten von Änderungen der Rechtsverordnung hat der Gemeinsame Bundesausschuss seine Verfahrensordnung an die Vorgaben der Rechtsverordnung anzupassen.
 
-
-## § 92 – Richtlinien des Gemeinsamen Bundesausschusses
+# § 92 – Richtlinien des Gemeinsamen Bundesausschusses
 
 (1) Der Gemeinsame Bundesausschuss beschließt die zur Sicherung der ärztlichen Versorgung erforderlichen Richtlinien über die Gewähr für eine ausreichende, zweckmäßige und wirtschaftliche Versorgung der Versicherten; dabei ist den besonderen Erfordernissen der Versorgung behinderter oder von Behinderung bedrohter Menschen und psychisch Kranker Rechnung zu tragen, vor allem bei den Leistungen zur Belastungserprobung und Arbeitstherapie; er kann dabei die Erbringung und Verordnung von Leistungen oder Maßnahmen einschränken oder ausschließen, wenn nach allgemein anerkanntem Stand der medizinischen Erkenntnisse der diagnostische oder therapeutische Nutzen, die medizinische Notwendigkeit oder die Wirtschaftlichkeit nicht nachgewiesen sind; er kann die Verordnung von Arzneimitteln einschränken oder ausschließen, wenn die Unzweckmäßigkeit erwiesen oder eine andere, wirtschaftlichere Behandlungsmöglichkeit mit vergleichbarem diagnostischen oder therapeutischen Nutzen verfügbar ist. Er soll insbesondere Richtlinien beschließen über die
 
@@ -4098,8 +3898,7 @@ Vor der Entscheidung des Gemeinsamen Bundesausschusses über die Richtlinien zur
 
 (8) Die Richtlinien des Gemeinsamen Bundesausschusses sind Bestandteil der Bundesmantelverträge.
 
-
-## § 92a – Innovationsfonds, Grundlagen der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
+# § 92a – Innovationsfonds, Grundlagen der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
 
 (1) Der Gemeinsame Bundesausschuss fördert neue Versorgungsformen, die über die bisherige Regelversorgung hinausgehen. Gefördert werden insbesondere Vorhaben, die eine Verbesserung der sektorenübergreifenden Versorgung zum Ziel haben und hinreichendes Potential aufweisen, dauerhaft in die Versorgung aufgenommen zu werden. Voraussetzung für eine Förderung ist, dass eine wissenschaftliche Begleitung und Auswertung der Vorhaben erfolgt. Förderkriterien sind insbesondere:
 
@@ -4127,8 +3926,7 @@ Förderfähig sind nur diejenigen Kosten, die dem Grunde nach nicht von den Verg
 
 (5) Das Bundesministerium für Gesundheit veranlasst eine wissenschaftliche Auswertung der Förderung nach dieser Vorschrift im Hinblick auf deren Eignung zur Weiterentwicklung der Versorgung. Die hierfür entstehenden Ausgaben werden aus den Einnahmen des Innovationsfonds gedeckt. Einen abschließenden Bericht über das Ergebnis der wissenschaftlichen Auswertung legt das Bundesministerium für Gesundheit dem Deutschen Bundestag zum 31. März 2022 vor.
 
-
-## § 92b – Durchführung der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
+# § 92b – Durchführung der Förderung von neuen Versorgungsformen zur Weiterentwicklung der Versorgung und von Versorgungsforschung durch den Gemeinsamen Bundesausschuss
 
 (1) Zur Durchführung der Förderung wird beim Gemeinsamen Bundesausschuss ein Innovationsausschuss eingerichtet. Dem Innovationsausschuss gehören drei vom Spitzenverband Bund der Krankenkassen benannte Mitglieder des Beschlussgremiums nach § 91 Absatz 2, jeweils ein von der Kassenärztlichen Bundesvereinigung, der Kassenzahnärztlichen Bundesvereinigung und der Deutschen Krankenhausgesellschaft benanntes Mitglied des Beschlussgremiums nach § 91 Absatz 2, der unparteiische Vorsitzende des Gemeinsamen Bundesausschusses sowie zwei Vertreter des Bundesministeriums für Gesundheit und ein Vertreter des Bundesministeriums für Bildung und Forschung an. Die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen auf Bundesebene maßgeblichen Organisationen erhalten ein Mitberatungs- und Antragsrecht. § 140f Absatz 2 Satz 2 bis 7, Absatz 5 sowie 6 gilt entsprechend.
 
@@ -4172,15 +3970,13 @@ Die Beratung und die Unterstützung der Förderinteressenten, Antragsteller und 
 
 (+++ § 92b Abs. 4: Früher Abs. 3 jetzt Abs. 4 gem. Art. 1 Nr. 16 Buchst. c G v. 9.12.2019 I 2562 mWv 1.1.2020; Änderungsanweisung durch Art. 32 Nr. 14 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
-
-## § 93 – Übersicht über ausgeschlossene Arzneimittel
+# § 93 – Übersicht über ausgeschlossene Arzneimittel
 
 (1) Der Gemeinsame Bundesausschuss soll in regelmäßigen Zeitabständen die nach § 34 Abs. 1 oder durch Rechtsverordnung auf Grund des § 34 Abs. 2 und 3 ganz oder für bestimmte Indikationsgebiete von der Versorgung nach § 31 ausgeschlossenen Arzneimittel in einer Übersicht zusammenstellen. Die Übersicht ist im Bundesanzeiger bekanntzumachen.
 
 (2) Kommt der Gemeinsame Bundesausschuss seiner Pflicht nach Absatz 1 nicht oder nicht in einer vom Bundesministerium für Gesundheit gesetzten Frist nach, kann das Bundesministerium für Gesundheit die Übersicht zusammenstellen und im Bundesanzeiger bekannt machen.
 
-
-## § 94 – Wirksamwerden der Richtlinien
+# § 94 – Wirksamwerden der Richtlinien
 
 (1) Die vom Gemeinsamen Bundesausschuss beschlossenen Richtlinien sind dem Bundesministerium für Gesundheit vorzulegen. Es kann sie innerhalb von zwei Monaten beanstanden; bei Beschlüssen nach § 20i Absatz 1 und bei Beschlüssen nach § 35 Absatz 1 innerhalb von vier Wochen. Das Bundesministerium für Gesundheit kann im Rahmen der Richtlinienprüfung vom Gemeinsamen Bundesausschuss zusätzliche Informationen und ergänzende Stellungnahmen anfordern; bis zum Eingang der Auskünfte ist der Lauf der Frist nach Satz 2 unterbrochen. Die Nichtbeanstandung einer Richtlinie kann vom Bundesministerium für Gesundheit mit Auflagen verbunden werden; das Bundesministerium für Gesundheit kann zur Erfüllung einer Auflage eine angemessene Frist setzen. Kommen die für die Sicherstellung der ärztlichen Versorgung erforderlichen Beschlüsse des Gemeinsamen Bundesausschusses nicht oder nicht innerhalb einer vom Bundesministerium für Gesundheit gesetzten Frist zustande oder werden die Beanstandungen des Bundesministeriums für Gesundheit nicht innerhalb der von ihm gesetzten Frist behoben, erläßt das Bundesministerium für Gesundheit die Richtlinien.
 
@@ -4188,8 +3984,7 @@ Die Beratung und die Unterstützung der Förderinteressenten, Antragsteller und 
 
 (3) Klagen gegen Maßnahmen des Bundesministeriums für Gesundheit nach Absatz 1 haben keine aufschiebende Wirkung.
 
-
-## § 95 – Teilnahme an der vertragsärztlichen Versorgung
+# § 95 – Teilnahme an der vertragsärztlichen Versorgung
 
 (1) An der vertragsärztlichen Versorgung nehmen zugelassene Ärzte und zugelassene medizinische Versorgungszentren sowie ermächtigte Ärzte und ermächtigte Einrichtungen teil. Medizinische Versorgungszentren sind ärztlich geleitete Einrichtungen, in denen Ärzte, die in das Arztregister nach Absatz 2 Satz 3 eingetragen sind, als Angestellte oder Vertragsärzte tätig sind. Der ärztliche Leiter muss in dem medizinischen Versorgungszentrum selbst als angestellter Arzt oder als Vertragsarzt tätig sein; er ist in medizinischen Fragen weisungsfrei. Sind in einem medizinischen Versorgungszentrum Angehörige unterschiedlicher Berufsgruppen, die an der vertragsärztlichen Versorgung teilnehmen, tätig, ist auch eine kooperative Leitung möglich. Die Zulassung erfolgt für den Ort der Niederlassung als Arzt oder den Ort der Niederlassung als medizinisches Versorgungszentrum (Vertragsarztsitz).
 
@@ -4243,8 +4038,7 @@ Das Nähere regeln die Zulassungsverordnungen. Um die Zulassung kann sich ein me
 
 (13) In Zulassungssachen der Psychotherapeuten und der überwiegend oder ausschließlich psychotherapeutisch tätigen Ärzte (§ 101 Abs. 3 Satz 1) treten abweichend von § 96 Abs. 2 Satz 1 und § 97 Abs. 2 Satz 1 an die Stelle der Vertreter der Ärzte Vertreter der Psychotherapeuten und der Ärzte in gleicher Zahl; unter den Vertretern der Psychotherapeuten muß mindestens ein Kinder- und Jugendlichenpsychotherapeut oder ein Psychotherapeut mit einer Weiterbildung für die Behandlung von Kindern und Jugendlichen sein. Für die erstmalige Besetzung der Zulassungsausschüsse und der Berufungsausschüsse nach Satz 1 werden die Vertreter der Psychotherapeuten von der zuständigen Aufsichtsbehörde auf Vorschlag der für die beruflichen Interessen maßgeblichen Organisationen der Psychotherapeuten auf Landesebene berufen.
 
-
-## § 95a – Voraussetzung für die Eintragung in das Arztregister für Vertragsärzte
+# § 95a – Voraussetzung für die Eintragung in das Arztregister für Vertragsärzte
 
 (1) Bei Ärzten setzt die Eintragung in das Arztregister voraus:
 
@@ -4266,8 +4060,7 @@ Das Nähere regeln die Zulassungsverordnungen. Um die Zulassung kann sich ein me
 
 (5) Einzutragen sind auf ihren Antrag auch im Inland zur Berufsausübung zugelassene Ärzte, wenn sie Inhaber eines Ausbildungsnachweises über eine inhaltlich mindestens den Anforderungen nach Artikel 28 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) entsprechende besondere Ausbildung in der Allgemeinmedizin sind und dieser Ausbildungsnachweis in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, ausgestellt worden ist. Einzutragen sind auch Inhaber von Bescheinigungen über besondere erworbene Rechte von praktischen Ärzten nach Artikel 30 der in Satz 1 genannten Richtlinie, Inhaber eines Ausbildungsnachweises über eine inhaltlich mindestens den Anforderungen nach Artikel 25 dieser Richtlinie entsprechende fachärztliche Weiterbildung oder Inhaber einer Bescheinigung über besondere erworbene Rechte von Fachärzten nach Artikel 27 dieser Richtlinie.
 
-
-## § 95b – Kollektiver Verzicht auf die Zulassung
+# § 95b – Kollektiver Verzicht auf die Zulassung
 
 (1) Mit den Pflichten eines Vertragsarztes ist es nicht vereinbar, in einem mit anderen Ärzten aufeinander abgestimmten Verfahren oder Verhalten auf die Zulassung als Vertragsarzt zu verzichten.
 
@@ -4275,8 +4068,7 @@ Das Nähere regeln die Zulassungsverordnungen. Um die Zulassung kann sich ein me
 
 (3) Nimmt ein Versicherter einen Arzt oder Zahnarzt in Anspruch, der auf seine Zulassung nach Absatz 1 verzichtet hat, zahlt die Krankenkasse die Vergütung mit befreiender Wirkung an den Arzt oder Zahnarzt. Der Vergütungsanspruch gegen die Krankenkasse ist auf das 1,0fache des Gebührensatzes der Gebührenordnung für Ärzte oder der Gebührenordnung für Zahnärzte beschränkt. Ein Vergütungsanspruch des Arztes oder Zahnarztes gegen den Versicherten besteht nicht. Abweichende Vereinbarungen sind nichtig.
 
-
-## § 95c – Voraussetzung für die Eintragung von Psychotherapeuten in das Arztregister
+# § 95c – Voraussetzung für die Eintragung von Psychotherapeuten in das Arztregister
 
 (1) Bei Psychotherapeuten setzt die Eintragung in das Arztregister voraus:
 
@@ -4300,8 +4092,7 @@ Ziel der Weiterbildung ist der Erwerb der in den Weiterbildungsordnungen festgel
 
 3. für den nach § 12 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung approbierten Psychotherapeuten, dass er die für eine Approbation geforderte Qualifikation, Weiterbildung oder Behandlungsstunden, Behandlungsfälle und die theoretische Ausbildung in einem durch den Gemeinsamen Bundesausschuss nach § 92 Absatz 1 Satz 2 Nummer 1 anerkannten Behandlungsverfahren nachweist.
 
-
-## § 95d – Pflicht zur fachlichen Fortbildung
+# § 95d – Pflicht zur fachlichen Fortbildung
 
 (1) Der Vertragsarzt ist verpflichtet, sich in dem Umfang fachlich fortzubilden, wie es zur Erhaltung und Fortentwicklung der zu seiner Berufsausübung in der vertragsärztlichen Versorgung erforderlichen Fachkenntnisse notwendig ist. Die Fortbildungsinhalte müssen dem aktuellen Stand der wissenschaftlichen Erkenntnisse auf dem Gebiet der Medizin, Zahnmedizin oder Psychotherapie entsprechen. Sie müssen frei von wirtschaftlichen Interessen sein.
 
@@ -4315,8 +4106,7 @@ Ziel der Weiterbildung ist der Erwerb der in den Weiterbildungsordnungen festgel
 
 (6) Die Kassenärztlichen Bundesvereinigungen regeln im Einvernehmen mit den zuständigen Arbeitsgemeinschaften der Kammern auf Bundesebene den angemessenen Umfang der im Fünfjahreszeitraum notwendigen Fortbildung. Die Kassenärztlichen Bundesvereinigungen regeln das Verfahren des Fortbildungsnachweises und der Honorarkürzung. Es ist insbesondere festzulegen, in welchen Fällen Vertragsärzte bereits vor Ablauf des Fünfjahreszeitraums Anspruch auf eine schriftliche oder elektronische Anerkennung abgeleisteter Fortbildung haben. Die Regelungen sind für die Kassenärztlichen Vereinigungen verbindlich.
 
-
-## § 96 – Zulassungsausschüsse
+# § 96 – Zulassungsausschüsse
 
 (1) Zur Beschlußfassung und Entscheidung in Zulassungssachen errichten die Kassenärztlichen Vereinigungen und die Landesverbände der Krankenkassen sowie die Ersatzkassen für den Bezirk jeder Kassenärztlichen Vereinigung oder für Teile dieses Bezirks (Zulassungsbezirk) einen Zulassungsausschuß für Ärzte und einen Zulassungsausschuß für Zahnärzte.
 
@@ -4344,8 +4134,7 @@ Das Mitberatungsrecht umfasst auch das Recht auf frühzeitige Information über 
 
 (4) Gegen die Entscheidungen der Zulassungsausschüsse können die am Verfahren beteiligten Ärzte und Einrichtungen, die Kassenärztlichen Vereinigungen und die Landesverbände der Krankenkassen sowie die Ersatzkassen den Berufungsausschuß anrufen. Die Anrufung hat aufschiebende Wirkung.
 
-
-## § 97 – Berufungsausschüsse
+# § 97 – Berufungsausschüsse
 
 (1) Die Kassenärztlichen Vereinigungen und die Landesverbände der Krankenkassen sowie die Ersatzkassen errichten für den Bezirk jeder Kassenärztlichen Vereinigung einen Berufungsausschuß für Ärzte und einen Berufungsausschuß für Zahnärzte. Sie können nach Bedarf mehrere Berufungsausschüsse für den Bezirk einer Kassenärztlichen Vereinigung oder einen gemeinsamen Berufungsausschuß für die Bezirke mehrerer Kassenärztlicher Vereinigungen errichten.
 
@@ -4357,8 +4146,7 @@ Das Mitberatungsrecht umfasst auch das Recht auf frühzeitige Information über 
 
 (5) Die Aufsicht über die Geschäftsführung der Zulassungsausschüsse und der Berufungsausschüsse führen die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder. Sie berufen die Vertreter der Ärzte und der Krankenkassen, wenn und solange die Kassenärztlichen Vereinigungen, die Landesverbände der Krankenkassen oder die Ersatzkassen diese nicht bestellen.
 
-
-## § 98 – Zulassungsverordnungen
+# § 98 – Zulassungsverordnungen
 
 (1) Die Zulassungsverordnungen regeln das Nähere über die Teilnahme an der vertragsärztlichen Versorgung sowie die zu ihrer Sicherstellung erforderliche Bedarfsplanung (§ 99) und die Beschränkung von Zulassungen. Sie werden vom Bundesministerium für Gesundheit mit Zustimmung des Bundesrates als Rechtsverordnung erlassen.
 
@@ -4390,8 +4178,7 @@ Das Mitberatungsrecht umfasst auch das Recht auf frühzeitige Information über 
 
 13. die Voraussetzungen, unter denen nach den Grundsätzen der Ausübung eines freien Berufes die Vertragsärzte angestellte Ärzte, Assistenten und Vertreter in der vertragsärztlichen Versorgung beschäftigen dürfen oder die vertragsärztliche Tätigkeit an weiteren Orten ausüben können,
 
-13a.  
-die Voraussetzungen, unter denen die zur vertragsärztlichen Versorgung zugelassenen Leistungserbringer die vertragsärztliche Tätigkeit gemeinsam ausüben können,
+13a. die Voraussetzungen, unter denen die zur vertragsärztlichen Versorgung zugelassenen Leistungserbringer die vertragsärztliche Tätigkeit gemeinsam ausüben können,
 
 14. die Teilnahme an der vertragsärztlichen Versorgung durch Ärzte, denen die zuständige deutsche Behörde eine Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufes erteilt hat, sowie durch Ärzte, die zur vorübergehenden Erbringung von Dienstleistungen im Sinne des Artikel 50 des Vertrages zur Gründung der Europäischen Gemeinschaft oder des Artikels 37 des Abkommens über den Europäischen Wirtschaftsraum im Inland tätig werden,
 
@@ -4399,8 +4186,7 @@ die Voraussetzungen, unter denen die zur vertragsärztlichen Versorgung zugelass
 
 (3) Absatz 2 Nummer 12 gilt nicht für die Zulassungsverordnung für Vertragszahnärzte.
 
-
-## § 99 – Bedarfsplan
+# § 99 – Bedarfsplan
 
 (1) Die Kassenärztlichen Vereinigungen haben im Einvernehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen nach Maßgabe der vom Gemeinsamen Bundesausschuss erlassenen Richtlinien auf Landesebene einen Bedarfsplan zur Sicherstellung der vertragsärztlichen Versorgung aufzustellen und jeweils der Entwicklung anzupassen. Die Ziele und Erfordernisse der Raumordnung und Landesplanung sowie der Krankenhausplanung sind zu beachten. Soweit es zur Berücksichtigung regionaler Besonderheiten, insbesondere der regionalen Demografie und Morbidität, für eine bedarfsgerechte Versorgung erforderlich ist, kann von den Richtlinien des Gemeinsamen Bundesausschusses abgewichen werden. Den zuständigen Landesbehörden und den auf Landesebene für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen ist Gelegenheit zur Stellungnahme zu geben. Der aufgestellte oder angepasste Bedarfsplan ist der für die Sozialversicherung zuständigen obersten Landesbehörde vorzulegen. Sie kann den Bedarfsplan innerhalb einer Frist von zwei Monaten beanstanden. Der Bedarfsplan ist in geeigneter Weise zu veröffentlichen.
 
@@ -4408,8 +4194,7 @@ die Voraussetzungen, unter denen die zur vertragsärztlichen Versorgung zugelass
 
 (3) Die Landesausschüsse beraten die Bedarfspläne nach Absatz 1 und entscheiden im Falle des Absatzes 2.
 
-
-## § 100 – Unterversorgung
+# § 100 – Unterversorgung
 
 (1) Den Landesausschüssen der Ärzte und Krankenkassen obliegt die Feststellung, daß in bestimmten Gebieten eines Zulassungsbezirks eine ärztliche Unterversorgung eingetreten ist oder in absehbarer Zeit droht; die durch Ermächtigung an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die Ärzte, die in ermächtigten Einrichtungen tätig sind, sind bei der Feststellung einer Unterversorgung nicht zu berücksichtigen. Sie haben den für die betroffenen Gebiete zuständigen Kassenärztlichen Vereinigungen eine angemessene Frist zur Beseitigung oder Abwendung der Unterversorgung einzuräumen.
 
@@ -4419,8 +4204,7 @@ die Voraussetzungen, unter denen die zur vertragsärztlichen Versorgung zugelass
 
 (4) Absatz 1 Satz 2 und Absatz 2 gelten nicht für Zahnärzte.
 
-
-## § 101 – Überversorgung
+# § 101 – Überversorgung
 
 (1) Der Gemeinsame Bundesausschuss beschließt in Richtlinien Bestimmungen über
 
@@ -4428,16 +4212,13 @@ die Voraussetzungen, unter denen die zur vertragsärztlichen Versorgung zugelass
 
 2. Maßstäbe für eine ausgewogene hausärztliche und fachärztliche Versorgungsstruktur,
 
-2a.  
-Regelungen, mit denen bei der Berechnung des Versorgungsgrades die von Ärzten erbrachten spezialfachärztlichen Leistungen nach § 116b berücksichtigt werden,
+2a. Regelungen, mit denen bei der Berechnung des Versorgungsgrades die von Ärzten erbrachten spezialfachärztlichen Leistungen nach § 116b berücksichtigt werden,
 
-2b.  
-Regelungen, mit denen bei der Berechnung des Versorgungsgrades die durch Ermächtigung an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die Ärzte, die in ermächtigten Einrichtungen tätig sind, berücksichtigt werden, einschließlich Vorgaben zum Inhalt und zum Verfahren der Meldungen der ermächtigten Einrichtungen an die Kassenärztlichen Vereinigungen nach Satz 12,
+2b. Regelungen, mit denen bei der Berechnung des Versorgungsgrades die durch Ermächtigung an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die Ärzte, die in ermächtigten Einrichtungen tätig sind, berücksichtigt werden, einschließlich Vorgaben zum Inhalt und zum Verfahren der Meldungen der ermächtigten Einrichtungen an die Kassenärztlichen Vereinigungen nach Satz 12,
 
 3. Vorgaben für die ausnahmsweise Besetzung zusätzlicher Vertragsarztsitze, soweit diese zur Gewährleistung der vertragsärztlichen Versorgung in einem Versorgungsbereich unerläßlich sind, um einen zusätzlichen lokalen oder einen qualifikationsbezogenen Versorgungsbedarf insbesondere innerhalb einer Arztgruppe zu decken,
 
-3a.  
-allgemeine Voraussetzungen, nach denen die Landesausschüsse der Ärzte und Krankenkassen nach § 100 Abs. 3 einen zusätzlichen lokalen Versorgungsbedarf in nicht unterversorgten Planungsbereichen feststellen können,
+3a. allgemeine Voraussetzungen, nach denen die Landesausschüsse der Ärzte und Krankenkassen nach § 100 Abs. 3 einen zusätzlichen lokalen Versorgungsbedarf in nicht unterversorgten Planungsbereichen feststellen können,
 
 4. Ausnahmeregelungen für die Zulassung eines Arztes in einem Planungsbereich, für den Zulassungsbeschränkungen angeordnet sind, sofern der Arzt die vertragsärztliche Tätigkeit gemeinsam mit einem dort bereits tätigen Vertragsarzt desselben Fachgebiets oder, sofern die Weiterbildungsordnungen Facharztbezeichnungen vorsehen, derselben Facharztbezeichnung ausüben will und sich die Partner der Berufsausübungsgemeinschaft gegenüber dem Zulassungsausschuß zu einer Leistungsbegrenzung verpflichten, die den bisherigen Praxisumfang nicht wesentlich überschreitet, dies gilt für die Anstellung eines Arztes in einer Einrichtung nach § 400 Abs. 2 Satz 1 und in einem medizinischen Versorgungszentrum entsprechend; bei der Ermittlung des Versorgungsgrades ist der Arzt nicht mitzurechnen,
 
@@ -4465,13 +4246,11 @@ Sofern die Weiterbildungsordnungen mehrere Facharztbezeichnungen innerhalb desse
 
 (6) Absatz 1 Satz 1 Nummer 2a, 2b, 3, 4, 5 und 6 und die Absätze 3 und 3a gelten nicht für Zahnärzte.
 
-
-## § 102 – (weggefallen)
+# § 102 – (weggefallen)
 
 \-
 
-
-## § 103 – Zulassungsbeschränkungen
+# § 103 – Zulassungsbeschränkungen
 
 (1) Die Landesausschüsse der Ärzte und Krankenkassen stellen fest, ob eine Überversorgung vorliegt; die durch Ermächtigung an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die Ärzte, die in ermächtigten Einrichtungen tätig sind, sind bei der Feststellung einer Überversorgung nicht zu berücksichtigen. Wenn dies der Fall ist, hat der Landesausschuß nach den Vorschriften der Zulassungsverordnungen und unter Berücksichtigung der Richtlinien des Gemeinsamen Bundesausschusses Zulassungsbeschränkungen anzuordnen. Darüber hinaus treffen die Landesausschüsse eine Feststellung, wenn der allgemeine bedarfsgerechte Versorgungsgrad um 40 Prozent überschritten ist.
 
@@ -4517,8 +4296,7 @@ Die Festlegungen nach § 101 Absatz 1 Satz 8 sind zu beachten. Ab dem 1. Januar 
 
 (8) Die Absätze 1 bis 7 gelten nicht für Zahnärzte.
 
-
-## § 104 – Verfahren bei Zulassungsbeschränkungen
+# § 104 – Verfahren bei Zulassungsbeschränkungen
 
 (1) Die Zulassungsverordnungen bestimmen, unter welchen Voraussetzungen, in welchem Umfang und für welche Dauer zur Sicherstellung einer bedarfsgerechten ärztlichen Versorgung in solchen Gebieten eines Zulassungsbezirks, in denen eine vertragsärztliche Unterversorgung eingetreten ist oder in absehbarer Zeit droht, Beschränkungen der Zulassungen in hiervon nicht betroffenen Gebieten von Zulassungsbezirken nach vorheriger Ausschöpfung anderer geeigneter Maßnahmen vorzusehen und inwieweit hierbei die Zulassungsausschüsse an die Anordnung der Landesausschüsse gebunden sind und Härtefälle zu berücksichtigen haben.
 
@@ -4526,8 +4304,7 @@ Die Festlegungen nach § 101 Absatz 1 Satz 8 sind zu beachten. Ab dem 1. Januar 
 
 (3) Die Absätze 1 und 2 gelten nicht für Zahnärzte.
 
-
-## § 105 – Förderung der vertragsärztlichen Versorgung
+# § 105 – Förderung der vertragsärztlichen Versorgung
 
 (1) Die Kassenärztlichen Vereinigungen haben mit Unterstützung der Kassenärztlichen Bundesvereinigungen entsprechend den Bedarfsplänen alle geeigneten finanziellen und sonstigen Maßnahmen zu ergreifen, um die Sicherstellung der vertragsärztlichen Versorgung zu gewährleisten, zu verbessern oder zu fördern.
 
@@ -4563,8 +4340,7 @@ Es ist sicherzustellen, dass die für den Strukturfonds bereitgestellten Mittel 
 
 (5) Kommunen können mit Zustimmung der Kassenärztlichen Vereinigung in begründeten Ausnahmefällen eigene Einrichtungen zur unmittelbaren medizinischen Versorgung der Versicherten betreiben. Ein begründeter Ausnahmefall kann insbesondere dann vorliegen, wenn eine Versorgung auf andere Weise nicht sichergestellt werden kann. Sind die Voraussetzungen nach Satz 1 erfüllt, hat der Zulassungsausschuss die Einrichtung auf Antrag zur Teilnahme an der vertragsärztlichen Versorgung mit angestellten Ärzten, die in das Arztregister eingetragen sind, zu ermächtigen. § 95 Absatz 2 Satz 7 bis 10 gilt entsprechend. In der kommunalen Eigeneinrichtung tätige Ärzte sind bei ihren ärztlichen Entscheidungen nicht an Weisungen von Nichtärzten gebunden.
 
-
-## § 106 – Wirtschaftlichkeitsprüfung
+# § 106 – Wirtschaftlichkeitsprüfung
 
 (1) Die Krankenkassen und die Kassenärztlichen Vereinigungen überwachen die Wirtschaftlichkeit der vertragsärztlichen Versorgung durch Beratungen und Prüfungen. Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich und die Kassenärztlichen Vereinigungen vereinbaren Inhalt und Durchführung der Beratungen und Prüfungen nach Absatz 2 sowie die Voraussetzungen für Einzelfallprüfungen. Die Vertragspartner können die Prüfungsstelle mit der Prüfung ärztlich verordneter Leistungen in der ambulanten Versorgung außerhalb der vertragsärztlichen Versorgung beauftragen und tragen die Kosten. Die Krankenkassen übermitteln der Prüfungsstelle die Daten der in der ambulanten Versorgung außerhalb der vertragsärztlichen Versorgung verordneten Leistungen; dabei sind zusätzlich die Zahl der Behandlungsfälle und eine Zuordnung der verordneten Leistungen zum Datum der Behandlung zu übermitteln. Die §§ 296 und 297 gelten entsprechend.
 
@@ -4582,8 +4358,7 @@ Die Prüfungen werden auf der Grundlage der Daten durchgeführt, die der Prüfun
 
 (5) Die Absätze 1 bis 4 gelten auch für die Prüfung der Wirtschaftlichkeit der im Krankenhaus erbrachten ambulanten ärztlichen und belegärztlichen Leistungen.
 
-
-## § 106a – Wirtschaftlichkeitsprüfung ärztlicher Leistungen
+# § 106a – Wirtschaftlichkeitsprüfung ärztlicher Leistungen
 
 (1) Die Wirtschaftlichkeit der erbrachten ärztlichen Leistungen kann auf begründeten Antrag einer einzelnen Krankenkasse, mehrerer Krankenkassen gemeinsam oder der Kassenärztlichen Vereinigung arztbezogen durch die jeweilige Prüfungsstelle nach § 106c geprüft werden. Die Prüfung kann neben dem zur Abrechnung vorgelegten Leistungsvolumen auch Überweisungen sowie sonstige veranlasste ärztliche Leistungen, insbesondere aufwändige medizinisch-technische Leistungen umfassen; honorarwirksame Begrenzungsregelungen haben keinen Einfluss auf die Prüfungen.
 
@@ -4603,8 +4378,7 @@ Die Prüfungen werden auf der Grundlage der Daten durchgeführt, die der Prüfun
 
 (4) Die in § 106 Absatz 1 Satz 2 genannten Vertragspartner können über die Prüfung nach Absatz 1 hinaus Prüfungen ärztlicher Leistungen nach Durchschnittswerten oder andere arztbezogene Prüfungsarten vereinbaren. Hat der Landesausschuss der Ärzte und Krankenkassen eine Feststellung nach § 100 Absatz 1 oder Absatz 3 getroffen, dürfen bei Ärzten der betroffenen Arztgruppe keine Prüfungen nach Durchschnittswerten durchgeführt werden. In den Vereinbarungen nach § 106 Absatz 1 Satz 2 sind die Zahl der je Quartal höchstens zu prüfenden Ärzte in einer Kassenärztlichen Vereinigung sowie im Rahmen der Prüfungen nach Absatz 1 und der Prüfungen nach Satz 1 als Kriterien zur Unterscheidung Praxisbesonderheiten festzulegen, die sich aus besonderen Standort- und Strukturmerkmalen des Leistungserbringers oder bei besonderen Behandlungsfällen ergeben. Die Praxisbesonderheiten sind vor Durchführung der Prüfungen als besonderer Versorgungsbedarf durch die Prüfungsstellen anzuerkennen; dies gilt insbesondere auch bei der Beurteilung der Wirtschaftlichkeit von Besuchsleistungen.
 
-
-## § 106b – Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen
+# § 106b – Wirtschaftlichkeitsprüfung ärztlich verordneter Leistungen
 
 (1) Die Wirtschaftlichkeit der Versorgung mit ärztlich verordneten Leistungen wird ab dem 1. Januar 2017 anhand von Vereinbarungen geprüft, die von den Landesverbänden der Krankenkassen und den Ersatzkassen gemeinsam und einheitlich mit den Kassenärztlichen Vereinigungen zu treffen sind. Auf Grundlage dieser Vereinbarungen können Nachforderungen wegen unwirtschaftlicher Verordnungsweise nach § 106 Absatz 3 festgelegt werden. In den Vereinbarungen müssen Regelungen zu Wirtschaftlichkeitsprüfungen in allen Bereichen ärztlich verordneter Leistungen enthalten sein. Die Vereinbarungen nach Satz 1 gelten für Leistungen, die ab dem 1. Januar 2017 verordnet werden.
 
@@ -4630,8 +4404,7 @@ Die Prüfungen werden auf der Grundlage der Daten durchgeführt, die der Prüfun
 
 (5) § 130b Absatz 2 und § 130c Absatz 4 bleiben unberührt.
 
-
-## § 106c – Prüfungsstelle und Beschwerdeausschuss bei Wirtschaftlichkeitsprüfungen
+# § 106c – Prüfungsstelle und Beschwerdeausschuss bei Wirtschaftlichkeitsprüfungen
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen sowie die Kassenärztlichen Vereinigungen bilden jeweils eine gemeinsame Prüfungsstelle und einen gemeinsamen Beschwerdeausschuss. Der Beschwerdeausschuss besteht aus Vertretern der Kassenärztlichen Vereinigung und der Krankenkassen in gleicher Zahl sowie einem unparteiischen Vorsitzenden. Die Amtsdauer beträgt zwei Jahre. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Über den Vorsitzenden, dessen Stellvertreter sowie den Sitz des Beschwerdeausschusses sollen sich die Vertragspartner nach Satz 1 einigen. Kommt eine Einigung nicht zustande, beruft die Aufsichtsbehörde nach Absatz 5 im Benehmen mit den Vertragspartnern nach Satz 1 den Vorsitzenden und dessen Stellvertreter und entscheidet über den Sitz des Beschwerdeausschusses.
 
@@ -4643,8 +4416,7 @@ Die Prüfungen werden auf der Grundlage der Daten durchgeführt, die der Prüfun
 
 (5) Die Aufsicht über die Prüfungsstellen und Beschwerdeausschüsse führen die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder. Die Prüfungsstellen und die Beschwerdeausschüsse erstellen einmal jährlich eine Übersicht über die Zahl der durchgeführten Beratungen und Prüfungen sowie die von ihnen festgesetzten Maßnahmen. Die Übersicht ist der Aufsichtsbehörde vorzulegen.
 
-
-## § 106d – Abrechnungsprüfung in der vertragsärztlichen Versorgung
+# § 106d – Abrechnungsprüfung in der vertragsärztlichen Versorgung
 
 (1) Die Kassenärztlichen Vereinigungen und die Krankenkassen prüfen die Rechtmäßigkeit und Plausibilität der Abrechnungen in der vertragsärztlichen Versorgung.
 
@@ -4668,8 +4440,7 @@ Sie unterrichten die Kassenärztlichen Vereinigungen unverzüglich über die Dur
 
 (7) § 106 Absatz 4 gilt entsprechend.
 
-
-## § 107 – Krankenhäuser, Vorsorge- oder Rehabilitationseinrichtungen
+# § 107 – Krankenhäuser, Vorsorge- oder Rehabilitationseinrichtungen
 
 (1) Krankenhäuser im Sinne dieses Gesetzbuchs sind Einrichtungen, die
 
@@ -4697,8 +4468,7 @@ und in denen
 
 3. die Patienten untergebracht und verpflegt werden können.
 
-
-## § 108 – Zugelassene Krankenhäuser
+# § 108 – Zugelassene Krankenhäuser
 
 Die Krankenkassen dürfen Krankenhausbehandlung nur durch folgende Krankenhäuser (zugelassene Krankenhäuser) erbringen lassen:
 
@@ -4708,13 +4478,11 @@ Die Krankenkassen dürfen Krankenhausbehandlung nur durch folgende Krankenhäuse
 
 3. Krankenhäuser, die einen Versorgungsvertrag mit den Landesverbänden der Krankenkassen und den Verbänden der Ersatzkassen abgeschlossen haben.
 
-
-## § 108a – Krankenhausgesellschaften
+# § 108a – Krankenhausgesellschaften
 
 Die Landeskrankenhausgesellschaft ist ein Zusammenschluß von Trägern zugelassener Krankenhäuser im Land. In der Deutschen Krankenhausgesellschaft sind die Landeskrankenhausgesellschaften zusammengeschlossen. Bundesverbände oder Landesverbände der Krankenhausträger können den Krankenhausgesellschaften angehören.
 
-
-## § 109 – Abschluß von Versorgungsverträgen mit Krankenhäusern
+# § 109 – Abschluß von Versorgungsverträgen mit Krankenhäusern
 
 (1) Der Versorgungsvertrag nach § 108 Nr. 3 kommt durch Einigung zwischen den Landesverbänden der Krankenkassen und den Ersatzkassen gemeinsam und dem Krankenhausträger zustande; er bedarf der Schriftform. Bei den Hochschulkliniken gilt die Anerkennung nach den landesrechtlichen Vorschriften, bei den Plankrankenhäusern die Aufnahme in den Krankenhausbedarfsplan nach § 8 Abs. 1 Satz 2 des Krankenhausfinanzierungsgesetzes als Abschluss des Versorgungsvertrages. Dieser ist für alle Krankenkassen im Inland unmittelbar verbindlich. Die Vertragsparteien nach Satz 1 können im Einvernehmen mit der für die Krankenhausplanung zuständigen Landesbehörde eine gegenüber dem Krankenhausplan geringere Bettenzahl vereinbaren, soweit die Leistungsstruktur des Krankenhauses nicht verändert wird; die Vereinbarung kann befristet werden. Enthält der Krankenhausplan keine oder keine abschließende Festlegung der Bettenzahl oder der Leistungsstruktur des Krankenhauses, werden diese durch die Vertragsparteien nach Satz 1 im Benehmen mit der für die Krankenhausplanung zuständigen Landesbehörde ergänzend vereinbart.
 
@@ -4736,22 +4504,19 @@ Abschluß und Ablehnung des Versorgungsvertrags werden mit der Genehmigung durch
 
 (6) Gegen Forderungen von Krankenhäusern, die aufgrund der Versorgung von ab dem 1. Januar 2020 aufgenommenen Patientinnen und Patienten entstanden sind, können Krankenkassen nicht mit Ansprüchen auf Rückforderung geleisteter Vergütungen aufrechnen. Die Aufrechnung ist abweichend von Satz 1 möglich, wenn die Forderung der Krankenkasse vom Krankenhaus nicht bestritten wird oder rechtskräftig festgestellt wurde. In der Vereinbarung nach § 17c Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes können abweichende Regelungen vorgesehen werden.
 
-
-## § 110 – Kündigung von Versorgungsverträgen mit Krankenhäusern
+# § 110 – Kündigung von Versorgungsverträgen mit Krankenhäusern
 
 (1) Ein Versorgungsvertrag nach § 109 Abs. 1 kann von jeder Vertragspartei mit einer Frist von einem Jahr ganz oder teilweise gekündigt werden, von den Landesverbänden der Krankenkassen und den Ersatzkassen nur gemeinsam und nur aus den in § 109 Abs. 3 Satz 1 genannten Gründen. Die Kündigung hat zu erfolgen, wenn der in § 109 Absatz 3 Satz 1 Nummer 2 genannte Kündigungsgrund vorliegt. Eine Kündigung ist nur zulässig, wenn die Kündigungsgründe nicht nur vorübergehend bestehen. Bei Plankrankenhäusern ist die Kündigung mit einem Antrag an die zuständige Landesbehörde auf Aufhebung oder Änderung des Feststellungsbescheids nach § 8 Abs. 1 Satz 2 des Krankenhausfinanzierungsgesetzes zu verbinden, mit dem das Krankenhaus in den Krankenhausplan des Landes aufgenommen worden ist. Kommt ein Beschluss über die Kündigung eines Versorgungsvertrags durch die Landesverbände der Krankenkassen und der Ersatzkassen nicht zustande, entscheidet eine unabhängige Schiedsperson über die Kündigung, wenn dies von Kassenarten beantragt wird, die mindestens ein Drittel der landesweiten Anzahl der Versicherten auf sich vereinigen. Einigen sich die Landesverbände der Krankenkassen und die Ersatzkassen nicht auf eine Schiedsperson, wird diese von der für die Landesverbände der Krankenkassen zuständigen Aufsichtsbehörde bestimmt. Klagen gegen die Bestimmung der Schiedsperson haben keine aufschiebende Wirkung. Die Kosten des Schiedsverfahrens tragen die Landesverbände der Krankenkassen und die Ersatzkassen entsprechend der landesweiten Anzahl ihrer Versicherten. Klagen gegen die Entscheidung der Schiedsperson über die Kündigung richten sich gegen die Landesverbände der Krankenkassen und die Ersatzkassen, nicht gegen die Schiedsperson.
 
 (2) Die Kündigung durch die in Absatz 1 Satz 1 genannten Verbände wird mit der Genehmigung durch die zuständige Landesbehörde wirksam. Diese hat ihre Entscheidung zu begründen. Bei Plankrankenhäusern kann die Genehmigung nur versagt werden, wenn und soweit das Krankenhaus für die Versorgung unverzichtbar ist und die zuständige Landesbehörde die Unabweisbarkeit des Bedarfs schriftlich oder elektronisch dargelegt hat. Die Genehmigung gilt als erteilt, wenn die zuständige Landesbehörde nicht innerhalb von drei Monaten nach Mitteilung der Kündigung widersprochen hat. Die Landesbehörde hat einen Widerspruch spätestens innerhalb von drei weiteren Monaten schriftlich oder elektronisch zu begründen. Mit Wirksamwerden der Kündigung gilt ein Plankrankenhaus insoweit nicht mehr als zugelassenes Krankenhaus.
 
-
-## § 110a – Qualitätsverträge
+# § 110a – Qualitätsverträge
 
 (1) Krankenkassen oder Zusammenschlüsse von Krankenkassen sollen zu den vom Gemeinsamen Bundesausschuss nach § 136b Absatz 1 Nummer 4 festgelegten Leistungen oder Leistungsbereichen mit dem Krankenhausträger Verträge schließen zur Förderung einer qualitativ hochwertigen stationären Versorgung (Qualitätsverträge). Ziel der Qualitätsverträge ist die Erprobung, inwieweit sich eine weitere Verbesserung der Versorgung mit stationären Behandlungsleistungen, insbesondere durch die Vereinbarung von Anreizen sowie höherwertigen Qualitätsanforderungen erreichen lässt. Die Qualitätsverträge sind zu befristen. In den Qualitätsverträgen darf nicht vereinbart werden, dass der Abschluss von Qualitätsverträgen mit anderen Krankenkassen oder Zusammenschlüssen von Krankenkassen unzulässig ist. Ein Anspruch auf Abschluss eines Qualitätsvertrags besteht nicht.
 
 (2) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft vereinbaren für die Qualitätsverträge nach Absatz 1 bis spätestens zum 31. Juli 2018 die verbindlichen Rahmenvorgaben für den Inhalt der Verträge. Die Rahmenvorgaben, insbesondere für die Qualitätsanforderungen, sind nur soweit zu vereinheitlichen, wie dies für eine aussagekräftige Evaluierung der Qualitätsverträge erforderlich ist. Kommt eine Vereinbarung nach Satz 1 ganz oder teilweise nicht zustande, setzt die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes auf Antrag einer Vertragspartei oder des Bundesministeriums für Gesundheit den Inhalt der Rahmenvorgaben fest.
 
-
-## § 111 – Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen, Verordnungsermächtigung
+# § 111 – Versorgungsverträge mit Vorsorge- oder Rehabilitationseinrichtungen, Verordnungsermächtigung
 
 (1) Die Krankenkassen dürfen medizinische Leistungen zur Vorsorge (§ 23 Abs. 4) oder Leistungen zur medizinischen Rehabilitation einschließlich der Anschlußheilbehandlung (§ 40), die eine stationäre Behandlung, aber keine Krankenhausbehandlung erfordern, nur in Vorsorge- oder Rehabilitationseinrichtungen erbringen lassen, mit denen ein Versorgungsvertrag nach Absatz 2 besteht; für pflegende Angehörige dürfen die Krankenkassen diese Leistungen auch in Vorsorge- und Rehabilitationseinrichtungen erbringen lassen, mit denen ein Vertrag nach § 111a besteht.
 
@@ -4781,15 +4546,13 @@ Abschluß und Ablehnung des Versorgungsvertrags werden mit der Genehmigung durch
 
 Vereinbarungen nach § 137d Absatz 1 bleiben unberührt. Die Inhalte der Rahmenempfehlungen sind den Versorgungsverträgen nach Absatz 2 und den Vergütungsverträgen nach Absatz 5 zugrunde zu legen. Kommen Rahmenempfehlungen ganz oder teilweise nicht zustande, können die Rahmenempfehlungspartner die Schiedsstelle nach § 111b Absatz 6 anrufen. Sie setzt innerhalb von drei Monaten den Rahmenempfehlungsinhalt fest.
 
-
-## § 111a – Versorgungsverträge mit Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen
+# § 111a – Versorgungsverträge mit Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen
 
 (1) Die Krankenkassen dürfen stationäre medizinische Leistungen zur Vorsorge für Mütter und Väter (§ 24) oder Rehabilitation für Mütter und Väter (§ 41) nur in Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen oder für Vater-Kind-Maßnahmen geeigneten Einrichtungen erbringen lassen, mit denen ein Versorgungsvertrag besteht. § 111 Absatz 2, 4 Satz 1 und 2, Absatz 5 und 7 sowie § 111b gelten entsprechend.
 
 (2) Bei Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen, die vor dem 1. August 2002 stationäre medizinische Leistungen für die Krankenkassen erbracht haben, gilt ein Versorgungsvertrag in dem Umfang der im Jahr 2001 erbrachten Leistungen als abgeschlossen. Satz 1 gilt nicht, wenn die Einrichtung die Anforderungen nach § 111 Abs. 2 Satz 1 nicht erfüllt und die zuständigen Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam dies bis zum 1. Januar 2004 gegenüber dem Träger der Einrichtung schriftlich geltend machen.
 
-
-## § 111b – Landesschiedsstelle für Versorgungs- und Vergütungsvereinbarungen zwischen Krankenkassen und Trägern von Vorsorge- oder Rehabilitationseinrichtungen und Bundesschiedsstelle für Rahmenempfehlungen, Verordnungsermächtigung
+# § 111b – Landesschiedsstelle für Versorgungs- und Vergütungsvereinbarungen zwischen Krankenkassen und Trägern von Vorsorge- oder Rehabilitationseinrichtungen und Bundesschiedsstelle für Rahmenempfehlungen, Verordnungsermächtigung
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und die für die Wahrnehmung der Interessen der Vorsorge- und Rehabilitationseinrichtungen auf Landesebene maßgeblichen Verbände bilden miteinander für jedes Land eine Schiedsstelle. Diese entscheidet in den Angelegenheiten, die ihr nach diesem Buch zugewiesen sind.
 
@@ -4803,8 +4566,7 @@ Vereinbarungen nach § 137d Absatz 1 bleiben unberührt. Die Inhalte der Rahmene
 
 (6) Der Spitzenverband Bund der Krankenkassen und die für die Erbringer von Leistungen zur medizinischen Rehabilitation maßgeblichen Verbände auf Bundesebene bilden erstmals bis zum 1. Mai 2021 eine gemeinsame Schiedsstelle, die in Angelegenheiten nach § 111 Absatz 7, § 111a Absatz 1 Satz 2 in Verbindung mit § 111 Absatz 7 sowie nach § 111c Absatz 5 entscheidet. Die Schiedsstelle besteht aus einem unparteiischen Vorsitzenden und zwei weiteren unparteiischen Mitgliedern sowie aus Vertretern der jeweiligen Rahmenempfehlungspartner nach § 111 Absatz 7 Satz 1 oder § 111c Absatz 5 Satz 1 in gleicher Zahl; für den Vorsitzenden und die unparteiischen Mitglieder können Stellvertreter bestellt werden. Die Amtsdauer beträgt vier Jahre. Die jeweiligen Rahmenempfehlungspartner sollen sich über den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder sowie deren Stellvertreter einigen. Kommt eine Einigung nicht zustande, erfolgt eine Bestellung des unparteiischen Vorsitzenden, der weiteren unparteiischen Mitglieder und von deren Stellvertretern durch das Bundesministerium für Gesundheit, nachdem es den Rahmenempfehlungspartnern eine Frist zur Einigung gesetzt hat und diese Frist abgelaufen ist. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Zahl und die Bestellung der Mitglieder, die Erstattung der baren Auslagen und die Entschädigung für den Zeitaufwand der Mitglieder, das Verfahren sowie über die Verteilung der Kosten regeln. § 129 Absatz 9 und 10 Satz 1 gilt entsprechend.
 
-
-## § 111c – Versorgungsverträge mit Rehabilitationseinrichtungen, Verordnungsermächtigung
+# § 111c – Versorgungsverträge mit Rehabilitationseinrichtungen, Verordnungsermächtigung
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam schließen mit Wirkung für ihre Mitgliedskassen einheitliche Versorgungsverträge über die Durchführung der in § 40 Absatz 1 genannten ambulanten Leistungen zur medizinischen Rehabilitation mit Rehabilitationseinrichtungen,
 
@@ -4828,8 +4590,7 @@ Vereinbarungen nach § 137d Absatz 1 bleiben unberührt. Die Inhalte der Rahmene
 
 Vereinbarungen nach § 137d Absatz 1 bleiben unberührt. Die Inhalte der Rahmenempfehlungen sind den Versorgungsverträgen nach Absatz 1 und den Vergütungsverträgen nach Absatz 3 zugrunde zu legen. Kommen Rahmenempfehlungen ganz oder teilweise nicht zustande, können die Rahmenempfehlungspartner die Schiedsstelle nach § 111b Absatz 6 anrufen. Sie setzt innerhalb von drei Monaten den Rahmenempfehlungsinhalt fest.
 
-
-## § 111d – Ausgleichszahlungen an Vorsorge- und Rehabilitationseinrichtungen aufgrund von Einnahmeausfällen durch das neuartige Coronavirus SARS-CoV-2, Verordnungsermächtigung
+# § 111d – Ausgleichszahlungen an Vorsorge- und Rehabilitationseinrichtungen aufgrund von Einnahmeausfällen durch das neuartige Coronavirus SARS-CoV-2, Verordnungsermächtigung
 
 (1) Vorsorge- und Rehabilitationseinrichtungen mit einem Versorgungsvertrag nach § 111 Absatz 2 oder nach § 111a Absatz 1 erhalten für die Ausfälle der Einnahmen, die zwischen dem 16. März und dem 30. September 2020 sowie seit dem 18. November 2020 dadurch entstehen, dass Betten nicht so belegt werden können, wie es vor dem Auftreten der SARS-CoV-2-Pandemie geplant war, Ausgleichszahlungen aus der Liquiditätsreserve des Gesundheitsfonds.
 
@@ -4849,8 +4610,7 @@ Vereinbarungen nach § 137d Absatz 1 bleiben unberührt. Die Inhalte der Rahmene
 
 (9) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrats die in Absatz 2 Satz 4 genannte Frist um bis zu neun Monate verlängern.
 
-
-## § 112 – Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung
+# § 112 – Zweiseitige Verträge und Rahmenempfehlungen über Krankenhausbehandlung
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam schließen mit der Landeskrankenhausgesellschaft oder mit den Vereinigungen der Krankenhausträger im Land gemeinsam Verträge, um sicherzustellen, daß Art und Umfang der Krankenhausbehandlung den Anforderungen dieses Gesetzbuchs entsprechen.
 
@@ -4882,8 +4642,7 @@ Sie sind für die Krankenkassen und die zugelassenen Krankenhäuser im Land unmi
 
 (6) Beim Abschluß der Verträge nach Absatz 1 und bei Abgabe der Empfehlungen nach Absatz 5 sind, soweit darin Regelungen nach Absatz 2 Nr. 5 getroffen werden, die Spitzenorganisationen der Vorsorge- und Rehabilitationseinrichtungen zu beteiligen.
 
-
-## § 113 – Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung
+# § 113 – Qualitäts- und Wirtschaftlichkeitsprüfung der Krankenhausbehandlung
 
 (1) Die Landesverbände der Krankenkassen, die Ersatzkassen und der Landesausschuß des Verbandes der privaten Krankenversicherung können gemeinsam die Wirtschaftlichkeit, Leistungsfähigkeit und Qualität der Krankenhausbehandlung eines zugelassenen Krankenhauses durch einvernehmlich mit dem Krankenhausträger bestellte Prüfer untersuchen lassen. Kommt eine Einigung über den Prüfer nicht zustande, wird dieser auf Antrag innerhalb von zwei Monaten von der Landesschiedsstelle nach § 114 Abs. 1 bestimmt. Der Prüfer ist unabhängig und an Weisungen nicht gebunden.
 
@@ -4893,8 +4652,7 @@ Sie sind für die Krankenkassen und die zugelassenen Krankenhäuser im Land unmi
 
 (4) Die Wirtschaftlichkeit und Qualität der Versorgung durch Hochschulambulanzen nach § 117, psychiatrische Institutsambulanzen nach § 118, sozialpädiatrische Zentren nach § 119 sowie medizinische Behandlungszentren nach § 119c werden von den Krankenkassen in entsprechender Anwendung der nach §§ 106 bis 106b und 106d und § 135b geltenden Regelungen geprüft. Die Wirtschaftlichkeit der ärztlich verordneten Leistungen im Rahmen des Entlassmanagements nach § 39 Absatz 1a Satz 5 und der Inanspruchnahme eines Krankenhauses nach § 76 Absatz 1a wird durch die Prüfungsstellen nach § 106c entsprechend §§ 106 bis 106b gegen Kostenersatz durchgeführt, soweit die Krankenkasse mit dem Krankenhaus nichts anderes vereinbart hat.
 
-
-## § 114 – Landesschiedsstelle
+# § 114 – Landesschiedsstelle
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und die Landeskrankenhausgesellschaften oder die Vereinigungen der Krankenhausträger im Land gemeinsam bilden für jedes Land eine Schiedsstelle. Diese entscheidet in den ihr nach diesem Buch zugewiesenen Aufgaben.
 
@@ -4906,8 +4664,7 @@ Sie sind für die Krankenkassen und die zugelassenen Krankenhäuser im Land unmi
 
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere über die Zahl, die Bestellung, die Amtsdauer und die Amtsführung, die Erstattung der baren Auslagen und die Entschädigung für Zeitaufwand der Mitglieder der Schiedsstelle, die Geschäftsführung, das Verfahren, die Erhebung und die Höhe der Gebühren sowie über die Verteilung der Kosten zu bestimmen.
 
-
-## § 115 – Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen, Krankenhäusern und Vertragsärzten
+# § 115 – Dreiseitige Verträge und Rahmenempfehlungen zwischen Krankenkassen, Krankenhäusern und Vertragsärzten
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und die Kassenärztlichen Vereinigungen schließen mit der Landeskrankenhausgesellschaft oder mit den Vereinigungen der Krankenhausträger im Land gemeinsam Verträge mit dem Ziel, durch enge Zusammenarbeit zwischen Vertragsärzten und zugelassenen Krankenhäusern eine nahtlose ambulante und stationäre Behandlung der Versicherten zu gewährleisten.
 
@@ -4935,8 +4692,7 @@ Sie sind für die Krankenkassen, die Vertragsärzte und die zugelassenen Kranken
 
 (5) Der Spitzenverband Bund der Krankenkassen, die Kassenärztlichen Bundesvereinigungen und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der Krankenhausträger gemeinsam sollen Rahmenempfehlungen zum Inhalt der Verträge nach Absatz 1 abgeben.
 
-
-## § 115a – Vor- und nachstationäre Behandlung im Krankenhaus
+# § 115a – Vor- und nachstationäre Behandlung im Krankenhaus
 
 (1) Das Krankenhaus kann bei Verordnung von Krankenhausbehandlung Versicherte in medizinisch geeigneten Fällen ohne Unterkunft und Verpflegung behandeln, um
 
@@ -4950,8 +4706,7 @@ Das Krankenhaus kann die Behandlung nach Satz 1 auch durch hierzu ausdrücklich 
 
 (3) Die Landesverbände der Krankenkassen, die Ersatzkassen und der Landesausschuß des Verbandes der privaten Krankenversicherung gemeinsam vereinbaren mit der Landeskrankenhausgesellschaft oder mit den Vereinigungen der Krankenhausträger im Land gemeinsam und im Benehmen mit der kassenärztlichen Vereinigung die Vergütung der Leistungen mit Wirkung für die Vertragsparteien nach § 18 Abs. 2 des Krankenhausfinanzierungsgesetzes. Die Vergütung soll pauschaliert werden und geeignet sein, eine Verminderung der stationären Kosten herbeizuführen. Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der Krankenhausträger gemeinsam geben im Benehmen mit der Kassenärztlichen Bundesvereinigung Empfehlungen zur Vergütung ab. Diese gelten bis zum Inkrafttreten einer Vereinbarung nach Satz 1. Kommt eine Vereinbarung über die Vergütung innerhalb von drei Monaten nicht zustande, nachdem eine Vertragspartei schriftlich zur Aufnahme der Verhandlungen aufgefordert hat, setzt die Schiedsstelle nach § 18a Abs. 1 des Krankenhausfinanzierungsgesetzes auf Antrag einer Vertragspartei oder der zuständigen Landesbehörde die Vergütung fest.
 
-
-## § 115b – Ambulantes Operieren im Krankenhaus
+# § 115b – Ambulantes Operieren im Krankenhaus
 
 (1) Der Spitzenverband Bund der Krankenkassen, die Deutsche Krankenhausgesellschaft und die Kassenärztlichen Bundesvereinigungen vereinbaren auf der Grundlage des Gutachtens nach Absatz 1a bis zum 31. Januar 2022
 
@@ -4969,15 +4724,13 @@ Die Vereinbarung nach Satz 1 tritt mit ihrem Wirksamwerden an die Stelle der am 
 
 (4) In der Vereinbarung nach Absatz 1 können Regelungen über ein gemeinsames Budget zur Vergütung der ambulanten Operationsleistungen der Krankenhäuser und der Vertragsärzte getroffen werden. Die Mittel sind aus der Gesamtvergütung und den Budgets der zum ambulanten Operieren zugelassenen Krankenhäuser aufzubringen.
 
-
-## § 115c – Fortsetzung der Arzneimitteltherapie nach Krankenhausbehandlung
+# § 115c – Fortsetzung der Arzneimitteltherapie nach Krankenhausbehandlung
 
 (1) Ist im Anschluss an eine Krankenhausbehandlung die Verordnung von Arzneimitteln erforderlich, hat das Krankenhaus dem weiterbehandelnden Vertragsarzt die Therapievorschläge unter Verwendung der Wirkstoffbezeichnungen mitzuteilen. Falls preisgünstigere Arzneimittel mit pharmakologisch vergleichbaren Wirkstoffen oder therapeutisch vergleichbarer Wirkung verfügbar sind, ist mindestens ein preisgünstigerer Therapievorschlag anzugeben. Abweichungen in den Fällen der Sätze 1 und 2 sind in medizinisch begründeten Ausnahmefällen zulässig.
 
 (2) Ist im Anschluss an eine Krankenhausbehandlung die Fortsetzung der im Krankenhaus begonnenen Arzneimitteltherapie in der vertragsärztlichen Versorgung für einen längeren Zeitraum notwendig, soll das Krankenhaus bei der Entlassung Arzneimittel anwenden, die auch bei Verordnung in der vertragsärztlichen Versorgung zweckmäßig und wirtschaftlich sind, soweit dies ohne eine Beeinträchtigung der Behandlung im Einzelfall oder ohne eine Verlängerung der Verweildauer möglich ist.
 
-
-## § 115d – Stationsäquivalente psychiatrische Behandlung
+# § 115d – Stationsäquivalente psychiatrische Behandlung
 
 (1) Psychiatrische Krankenhäuser mit regionaler Versorgungsverpflichtung sowie Allgemeinkrankenhäuser mit selbständigen, fachärztlich geleiteten psychiatrischen Abteilungen mit regionaler Versorgungsverpflichtung können in medizinisch geeigneten Fällen, wenn eine Indikation für eine stationäre psychiatrische Behandlung vorliegt, anstelle einer vollstationären Behandlung eine stationsäquivalente psychiatrische Behandlung im häuslichen Umfeld erbringen. Der Krankenhausträger stellt sicher, dass die erforderlichen Ärzte und nichtärztlichen Fachkräfte und die notwendigen Einrichtungen für eine stationsäquivalente Behandlung bei Bedarf zur Verfügung stehen. In geeigneten Fällen, insbesondere wenn dies der Behandlungskontinuität dient oder aus Gründen der Wohnortnähe sachgerecht ist, kann das Krankenhaus an der ambulanten psychiatrischen Versorgung teilnehmende Leistungserbringer oder ein anderes zur Erbringung der stationsäquivalenten Behandlung berechtigtes Krankenhaus mit der Durchführung von Teilen der Behandlung beauftragen.
 
@@ -4995,18 +4748,15 @@ Kommt eine Vereinbarung nach Satz 1 ganz oder teilweise nicht fristgerecht zusta
 
 (4) Der Spitzenverband Bund der Krankenkassen, der Verband der Privaten Krankenversicherung und die Deutsche Krankenhausgesellschaft legen dem Bundesministerium für Gesundheit bis zum 31. Dezember 2021 einen gemeinsamen Bericht über die Auswirkungen der stationsäquivalenten psychiatrischen Behandlung im häuslichen Umfeld auf die Versorgung der Patientinnen und Patienten einschließlich der finanziellen Auswirkungen vor. Die für den Bericht erforderlichen Daten sind ihnen von den Krankenkassen, den Unternehmen der privaten Krankenversicherung und den Krankenhäusern in anonymisierter Form zu übermitteln.
 
-
-## § 116 – Ambulante Behandlung durch Krankenhausärzte
+# § 116 – Ambulante Behandlung durch Krankenhausärzte
 
 Ärzte, die in einem Krankenhaus, einer Vorsorge- oder Rehabilitationseinrichtung, mit der ein Versorgungsvertrag nach § 111 Absatz 2 besteht, oder nach § 119b Absatz 1 Satz 3 oder 4 in einer stationären Pflegeeinrichtung tätig sind, können, soweit sie über eine abgeschlossene Weiterbildung verfügen, mit Zustimmung des jeweiligen Trägers der Einrichtung, in der der Arzt tätig ist, vom Zulassungsausschuß (§ 96) zur Teilnahme an der vertragsärztlichen Versorgung der Versicherten ermächtigt werden. Die Ermächtigung ist zu erteilen, soweit und solange eine ausreichende ärztliche Versorgung der Versicherten ohne die besonderen Untersuchungs- und Behandlungsmethoden oder Kenntnisse von hierfür geeigneten Ärzten der in Satz 1 genannten Einrichtungen nicht sichergestellt wird.
 
-
-## § 116a – Ambulante Behandlung durch Krankenhäuser bei Unterversorgung
+# § 116a – Ambulante Behandlung durch Krankenhäuser bei Unterversorgung
 
 Der Zulassungsausschuss muss zugelassene Krankenhäuser für das entsprechende Fachgebiet in den Planungsbereichen, in denen der Landesausschuss der Ärzte und Krankenkassen eingetretene Unterversorgung nach § 100 Absatz 1 oder einen zusätzlichen lokalen Versorgungsbedarf nach § 100 Absatz 3 festgestellt hat, auf deren Antrag zur vertragsärztlichen Versorgung ermächtigen, soweit und solange dies zur Beseitigung der Unterversorgung oder zur Deckung des zusätzlichen lokalen Versorgungsbedarfs erforderlich ist. Der Ermächtigungsbeschluss ist nach zwei Jahren zu überprüfen.
 
-
-## § 116b – Ambulante spezialfachärztliche Versorgung
+# § 116b – Ambulante spezialfachärztliche Versorgung
 
 (1) Die ambulante spezialfachärztliche Versorgung umfasst die Diagnostik und Behandlung komplexer, schwer therapierbarer Krankheiten, die je nach Krankheit eine spezielle Qualifikation, eine interdisziplinäre Zusammenarbeit und besondere Ausstattungen erfordern. Hierzu gehören nach Maßgabe der Absätze 4 und 5 insbesondere folgende Erkrankungen mit besonderen Krankheitsverläufen, seltene Erkrankungen und Erkrankungszustände mit entsprechend geringen Fallzahlen sowie hochspezialisierte Leistungen:
 
@@ -5093,8 +4843,7 @@ Der Gemeinsame Bundesausschuss hat spätestens jeweils zwei Jahre nach dem Inkra
 
 (9) Die Auswirkungen der ambulanten spezialfachärztlichen Versorgung auf die Kostenträger, die Leistungserbringer sowie auf die Patientenversorgung sind fünf Jahre nach Inkrafttreten des Gesetzes zu bewerten. Gegenstand der Bewertung sind insbesondere der Stand der Versorgungsstruktur, der Qualität sowie der Abrechnung der Leistungen in der ambulanten spezialfachärztlichen Versorgung auch im Hinblick auf die Entwicklung in anderen Versorgungsbereichen. Die Ergebnisse der Bewertung sind dem Bundesministerium für Gesundheit zum 31. März 2017 zuzuleiten. Die Bewertung und die Berichtspflicht obliegen dem Spitzenverband Bund, der Kassenärztlichen Bundesvereinigung und der Deutschen Krankenhausgesellschaft gemeinsam.
 
-
-## § 117 – Hochschulambulanzen
+# § 117 – Hochschulambulanzen
 
 (1) Ambulanzen, Institute und Abteilungen der Hochschulkliniken (Hochschulambulanzen) sind zur ambulanten ärztlichen Behandlung der Versicherten und der in § 75 Absatz 3 genannten Personen
 
@@ -5144,8 +4893,7 @@ Die Ambulanzen sind verpflichtet, den Anteil nach Satz 1 Nummer 2 jeweils an die
 
 (4) Untersuchungs- und Behandlungsmethoden können Gegenstand des Leistungsumfangs der Hochschulambulanzen nach den Absätzen 1 und 2 sein, soweit der Gemeinsame Bundesausschuss im Rahmen der Beschlüsse nach § 137c für die Krankenhausbehandlung keine ablehnende Entscheidung getroffen hat. § 137c Absatz 3 gilt entsprechend.
 
-
-## § 118 – Psychiatrische Institutsambulanzen
+# § 118 – Psychiatrische Institutsambulanzen
 
 (1) Psychiatrische Krankenhäuser sind vom Zulassungsausschuss zur ambulanten psychiatrischen und psychotherapeutischen Versorgung der Versicherten zu ermächtigen. Die Behandlung ist auf diejenigen Versicherten auszurichten, die wegen Art, Schwere oder Dauer ihrer Erkrankung oder wegen zu großer Entfernung zu geeigneten Ärzten auf die Behandlung durch diese Krankenhäuser angewiesen sind. Der Krankenhausträger stellt sicher, dass die für die ambulante psychiatrische und psychotherapeutische Behandlung erforderlichen Ärzte und nichtärztlichen Fachkräfte sowie die notwendigen Einrichtungen bei Bedarf zur Verfügung stehen.
 
@@ -5163,8 +4911,7 @@ Die ambulante ärztliche Behandlung in einer Einrichtung nach Satz 1 kann nur au
 
 (4) Die in den Absätzen 1 und 2 genannten Krankenhäuser sind vom Zulassungsausschuss auch dann zur ambulanten psychiatrischen und psychotherapeutischen Versorgung zu ermächtigen, wenn die Versorgung durch räumlich und organisatorisch nicht angebundene Einrichtungen der Krankenhäuser erfolgt, soweit und solange die Ermächtigung notwendig ist, um eine Versorgung nach Maßgabe der Absätze 1 und 2 sicherzustellen.
 
-
-## § 118a – Geriatrische Institutsambulanzen
+# § 118a – Geriatrische Institutsambulanzen
 
 (1) Geriatrische Fachkrankenhäuser, Allgemeinkrankenhäuser mit selbstständigen geriatrischen Abteilungen, geriatrische Rehabilitationskliniken und dort angestellte Ärzte sowie Krankenhausärzte können vom Zulassungsausschuss zu einer strukturierten und koordinierten ambulanten geriatrischen Versorgung der Versicherten ermächtigt werden. Die Ermächtigung ist zu erteilen, soweit und solange sie notwendig ist, um eine ausreichende ambulante geriatrische Versorgung nach Absatz 2 Satz 1 Nummer 1 sicherzustellen. Voraussetzung für die Erteilung einer Ermächtigung ist, dass die Einrichtung unter fachärztlich geriatrischer Leitung steht; die Ermächtigung eines in der geriatrischen Rehabilitationsklinik angestellten Arztes oder eines Krankenhausarztes setzt voraus, dass dieser über eine geriatrische Weiterbildung verfügt.
 
@@ -5180,20 +4927,17 @@ Die ambulante ärztliche Behandlung in einer Einrichtung nach Satz 1 kann nur au
 
 Wird eine Vereinbarung ganz oder teilweise beendet und kommt bis zum Ablauf der Vereinbarungszeit keine neue Vereinbarung zustande, entscheidet auf Antrag einer Vertragspartei das sektorenübergreifende Schiedsgremium auf Bundesebene gemäß § 89a.
 
-
-## § 119 – Sozialpädiatrische Zentren
+# § 119 – Sozialpädiatrische Zentren
 
 (1) Sozialpädiatrische Zentren, die fachlich-medizinisch unter ständiger ärztlicher Leitung stehen und die Gewähr für eine leistungsfähige und wirtschaftliche sozialpädiatrische Behandlung bieten, können vom Zulassungsausschuß (§ 96) zur ambulanten sozialpädiatrischen Behandlung von Kindern ermächtigt werden. Die Ermächtigung ist zu erteilen, soweit und solange sie notwendig ist, um eine ausreichende sozialpädiatrische Behandlung sicherzustellen.
 
 (2) Die Behandlung durch sozialpädiatrische Zentren ist auf diejenigen Kinder auszurichten, die wegen der Art, Schwere oder Dauer ihrer Krankheit oder einer drohenden Krankheit nicht von geeigneten Ärzten oder in geeigneten Frühförderstellen behandelt werden können. Die Zentren sollen mit den Ärzten und den Frühförderstellen eng zusammenarbeiten.
 
-
-## § 119a – Ambulante Behandlung in Einrichtungen der Behindertenhilfe
+# § 119a – Ambulante Behandlung in Einrichtungen der Behindertenhilfe
 
 Einrichtungen der Behindertenhilfe, die über eine ärztlich geleitete Abteilung verfügen, sind vom Zulassungsausschuss zur ambulanten ärztlichen Behandlung von Versicherten mit geistiger Behinderung zu ermächtigen, soweit und solange eine ausreichende ärztliche Versorgung dieser Versicherten ohne die besonderen Untersuchungs- und Behandlungsmethoden oder Kenntnisse der Ärzte in den Einrichtungen durch niedergelassene Ärzte nicht sichergestellt ist. Die Behandlung ist auf diejenigen Versicherten auszurichten, die wegen der Art oder Schwere ihrer Behinderung auf die ambulante Behandlung in diesen Einrichtungen angewiesen sind. In dem Zulassungsbescheid ist zu regeln, ob und in welchen Fällen die Ärzte in den Einrichtungen unmittelbar oder auf Überweisung in Anspruch genommen werden können. Die ärztlich geleiteten Abteilungen sollen mit den übrigen Leistungserbringern eng zusammenarbeiten.
 
-
-## § 119b – Ambulante Behandlung in stationären Pflegeeinrichtungen
+# § 119b – Ambulante Behandlung in stationären Pflegeeinrichtungen
 
 (1) Stationäre Pflegeeinrichtungen haben einzeln oder gemeinsam bei entsprechendem Bedarf unbeschadet des § 75 Abs. 1 Kooperationsverträge mit dafür geeigneten vertragsärztlichen Leistungserbringern zu schließen. Auf Antrag der Pflegeeinrichtung hat die Kassenärztliche Vereinigung zur Sicherstellung einer ausreichenden ärztlichen Versorgung von pflegebedürftigen Versicherten in der Pflegeeinrichtung Verträge nach Satz 1 innerhalb von drei Monaten zu vermitteln. Kommt ein Vertrag nach Satz 1 nicht innerhalb einer Frist von sechs Monaten nach Zugang des Antrags der Pflegeeinrichtung zustande, ist die Pflegeeinrichtung vom Zulassungsausschuss zur Teilnahme an der vertragsärztlichen Versorgung der pflegebedürftigen Versicherten in der Pflegeeinrichtung mit angestellten Ärzten, die in das Arztregister eingetragen sind und geriatrisch fortgebildet sein sollen, zu ermächtigen; die Anstellung bedarf der Genehmigung des Zulassungsausschusses. Soll die Versorgung der pflegebedürftigen Versicherten durch einen in mehreren Pflegeeinrichtungen angestellten Arzt erfolgen, ist der angestellte Arzt zur Teilnahme an der vertragsärztlichen Versorgung der pflegebedürftigen Versicherten in den Pflegeeinrichtungen zu ermächtigen. Das Recht auf freie Arztwahl der Versicherten in der Pflegeeinrichtung bleibt unberührt. Der in der Pflegeeinrichtung tätige Arzt ist bei seinen ärztlichen Entscheidungen nicht an Weisungen von Nichtärzten gebunden. Er soll mit den übrigen Leistungserbringern eng zusammenarbeiten. Stationäre Pflegeeinrichtungen benennen eine verantwortliche Pflegefachkraft für die Zusammenarbeit mit den vertragsärztlichen Leistungserbringern im Rahmen der Verträge nach Satz 1.
 
@@ -5205,15 +4949,13 @@ Einrichtungen der Behindertenhilfe, die über eine ärztlich geleitete Abteilung
 
 (3) Der Bewertungsausschuss für ärztliche Leistungen evaluiert die mit der Vergütungsregelung nach § 87 Absatz 2a verbundenen Auswirkungen auf das Versorgungsgeschehen im Bereich der vertragsärztlichen Versorgung einschließlich der finanziellen Auswirkungen auf die Krankenkassen und berichtet der Bundesregierung bis zum 31. Dezember 2017 über die Ergebnisse. Die für die Durchführung der Evaluation erforderlichen Daten sind von den Kassenärztlichen Vereinigungen, den Krankenkassen und den Pflegekassen zu erfassen und jeweils über die Kassenärztliche Bundesvereinigung und den Spitzenverband Bund der Krankenkassen an den Bewertungsausschuss nach Satz 1 zu übermitteln; § 87 Absatz 3f gilt entsprechend. Die Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen evaluieren auf Grundlage einer von ihnen zu treffenden Vereinbarung die mit den Kooperationsverträgen nach Absatz 1 verbundenen Auswirkungen auf die vertragszahnärztliche Versorgung von Versicherten in stationären Pflegeeinrichtungen. Über die Ergebnisse berichten sie der Bundesregierung im Abstand von drei Jahren, erstmals bis zum 30. Juni 2019.
 
-
-## § 119c – Medizinische Behandlungszentren
+# § 119c – Medizinische Behandlungszentren
 
 (1) Medizinische Behandlungszentren für Erwachsene mit geistiger Behinderung oder schweren Mehrfachbehinderungen, die fachlich unter ständiger ärztlicher Leitung stehen und die Gewähr für eine leistungsfähige und wirtschaftliche Behandlung bieten, können vom Zulassungsausschuss zur ambulanten Behandlung von Erwachsenen mit geistiger Behinderung oder schweren Mehrfachbehinderungen ermächtigt werden. Die Ermächtigung ist zu erteilen, soweit und solange sie notwendig ist, um eine ausreichende Versorgung von Erwachsenen mit geistiger Behinderung oder schweren Mehrfachbehinderungen sicherzustellen.
 
 (2) Die Behandlung durch medizinische Behandlungszentren ist auf diejenigen Erwachsenen auszurichten, die wegen der Art, Schwere oder Komplexität ihrer Behinderung auf die ambulante Behandlung in diesen Einrichtungen angewiesen sind. Die medizinischen Behandlungszentren sollen dabei mit anderen behandelnden Ärzten, den Einrichtungen und Diensten der Eingliederungshilfe und mit dem Öffentlichen Gesundheitsdienst eng zusammenarbeiten.
 
-
-## § 120 – Vergütung ambulanter Krankenhausleistungen
+# § 120 – Vergütung ambulanter Krankenhausleistungen
 
 (1) Die im Krankenhaus erbrachten ambulanten ärztlichen Leistungen der ermächtigten Krankenhausärzte, die in stationären Pflegeeinrichtungen erbrachten ambulanten ärztlichen Leistungen von nach § 119b Absatz 1 Satz 4 ermächtigten Ärzten, ambulante ärztliche Leistungen, die in ermächtigten Einrichtungen erbracht werden, und Leistungen, die im Rahmen einer Inanspruchnahme nach § 27b Absatz 3 Nummer 4 oder nach § 76 Absatz 1a sowie nach § 87 Absatz 2a Satz 13 erbracht werden, werden nach den für Vertragsärzte geltenden Grundsätzen aus der vertragsärztlichen Gesamtvergütung vergütet. Die mit diesen Leistungen verbundenen allgemeinen Praxiskosten, die durch die Anwendung von ärztlichen Geräten entstehenden Kosten sowie die sonstigen Sachkosten sind mit den Gebühren abgegolten, soweit in den einheitlichen Bewertungsmaßstäben nichts Abweichendes bestimmt ist. Die den ermächtigten Krankenhausärzten zustehende Vergütung wird für diese vom Krankenhausträger mit der Kassenärztlichen Vereinigung abgerechnet und nach Abzug der anteiligen Verwaltungskosten sowie der dem Krankenhaus nach Satz 2 entstehenden Kosten an die berechtigten Krankenhausärzte weitergeleitet. Die Vergütung der von nach § 119b Absatz 1 Satz 4 ermächtigten Ärzten erbrachten Leistungen wird von der stationären Pflegeeinrichtung mit der Kassenärztlichen Vereinigung abgerechnet. Die Vergütung der Leistungen, die im Rahmen einer Inanspruchnahme nach § 76 Absatz 1a erbracht werden, wird vom Krankenhausträger nach Maßgabe der regionalen Euro-Gebührenordnung mit der Kassenärztlichen Vereinigung abgerechnet.
 
@@ -5231,8 +4973,7 @@ Einrichtungen der Behindertenhilfe, die über eine ärztlich geleitete Abteilung
 
 (6) (weggefallen)
 
-
-## § 121 – Belegärztliche Leistungen
+# § 121 – Belegärztliche Leistungen
 
 (1) Die Vertragsparteien nach § 115 Abs. 1 wirken gemeinsam mit Krankenkassen und zugelassenen Krankenhäusern auf eine leistungsfähige und wirtschaftliche belegärztliche Behandlung der Versicherten hin. Die Krankenhäuser sollen Belegärzten gleicher Fachrichtung die Möglichkeit geben, ihre Patienten gemeinsam zu behandeln (kooperatives Belegarztwesen).
 
@@ -5250,8 +4991,7 @@ Einrichtungen der Behindertenhilfe, die über eine ärztlich geleitete Abteilung
 
 (6) Für belegärztliche Leistungen gelten die Richtlinien und Beschlüsse des Gemeinsamen Bundesausschusses nach den §§ 136 bis 136b zur Qualitätssicherung im Krankenhaus bis zum Inkrafttreten vergleichbarer Regelungen für die vertragsärztliche oder sektorenübergreifende Qualitätssicherung. Die in der stationären Qualitätssicherung für belegärztliche Leistungen erhobenen Qualitätsdaten werden bei der Auswertung der planungsrelevanten Qualitätsindikatoren nach § 136c Absatz 1 und 2 sowie bei der qualitätsabhängigen Vergütung eines Krankenhauses nach § 5 Absatz 3a des Krankenhausentgeltgesetzes berücksichtigt. Die Folgen, die diese Berücksichtigung im Verhältnis zwischen dem Krankenhaus und dem Belegarzt haben soll, werden zwischen diesen vertraglich vereinbart.
 
-
-## § 121a – Genehmigung zur Durchführung künstlicher Befruchtungen
+# § 121a – Genehmigung zur Durchführung künstlicher Befruchtungen
 
 (1) Die Krankenkassen dürfen Maßnahmen zur Herbeiführung einer Schwangerschaft (§ 27a Abs. 1) nur erbringen lassen durch
 
@@ -5277,8 +5017,7 @@ denen die zuständige Behörde eine Genehmigung nach Absatz 2 zur Durchführung 
 
 (4) Die zur Erteilung der Genehmigung zuständigen Behörden bestimmt die nach Landesrecht zuständige Stelle, mangels einer solchen Bestimmung die Landesregierung; diese kann die Ermächtigung weiter übertragen.
 
-
-## § 122 – Behandlung in Praxiskliniken
+# § 122 – Behandlung in Praxiskliniken
 
 Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Interessen der in Praxiskliniken tätigen Vertragsärzte gebildete Spitzenorganisation vereinbaren in einem Rahmenvertrag
 
@@ -5288,13 +5027,11 @@ Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Inter
 
 Die Praxiskliniken nach § 115 Absatz 2 Satz 1 Nr. 1 sind zur Einhaltung des Vertrages nach Satz 1 verpflichtet.
 
-
-## § 123 – (weggefallen)
+# § 123 – (weggefallen)
 
 \-
 
-
-## § 124 – Zulassung
+# § 124 – Zulassung
 
 (1) Heilmittel, die als Dienstleistungen abgegeben werden, insbesondere Leistungen der Physiotherapie, der Stimm-, Sprech- und Sprachtherapie, der Ergotherapie, der Podologie oder der Ernährungstherapie, dürfen an Versicherte nur von zugelassenen Leistungserbringern abgegeben werden, die
 
@@ -5316,8 +5053,7 @@ Die Praxiskliniken nach § 115 Absatz 2 Satz 1 Nr. 1 sind zur Einhaltung des Ver
 
 (6) Leistungserbringer, die ihre Zulassung vor dem Inkrafttreten des jeweiligen bundesweit geltenden Vertrages nach § 125 Absatz 1 erteilt bekommen haben, haben diesen Vertrag gegenüber der Arbeitsgemeinschaft nach Satz 2 innerhalb von sechs Monaten ab Inkrafttreten des Vertrages oder ab der Entscheidung durch die Schiedsstelle anzuerkennen. Die Zulassung gilt innerhalb dieses Zeitraums fort. Bis zum Inkrafttreten des jeweiligen bundesweit geltenden Vertrages nach § 125 Absatz 1 sind die geltenden Vereinbarungen nach § 125 Absatz 2 in der bis zum 10. Mai 2019 geltenden Fassung anzuerkennen. Die Sätze 1 und 2 gelten für die Anerkennung der Vereinbarung nach § 125a über die Heilmittelversorgung mit erweiterter Versorgungsverantwortung entsprechend. Bis zum Inkrafttreten der Vereinbarung nach § 125a oder bis zur Entscheidung durch die Schiedsstelle ist die Anerkennung dieser Vereinbarung keine Zulassungsvoraussetzung nach Absatz 1 Nummer 3. Die Empfehlungen des Spitzenverbandes Bund der Krankenkassen für eine einheitliche Anwendung der Zulassungsbedingungen nach § 124 Absatz 4 in der bis zum 10. Mai 2019 geltenden Fassung gelten bis zum Inkrafttreten des Vertrages nach § 125 Absatz 1 oder bis zur Entscheidung durch die Schiedsstelle fort.
 
-
-## § 125 – Verträge
+# § 125 – Verträge
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit bindender Wirkung für die Krankenkassen mit den für die Wahrnehmung der Interessen der Heilmittelerbringer maßgeblichen Spitzenorganisationen auf Bundesebene für jeden Heilmittelbereich einen Vertrag über die Einzelheiten der Versorgung mit dem jeweiligen Heilmittel. Die für den jeweiligen Heilmittelbereich zuständigen maßgeblichen Spitzenorganisationen haben den Vertrag gemeinsam zu schließen. Die Verträge sind mit Wirkung ab dem 1. Januar 2021 zu schließen. Die Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 Satz 2 Nummer 6 ist zu berücksichtigen. Der Spitzenverband Bund der Krankenkassen hat die Verträge sowie die jeweils geltenden Preislisten zu veröffentlichen.
 
@@ -5325,8 +5061,7 @@ Die Praxiskliniken nach § 115 Absatz 2 Satz 1 Nr. 1 sind zur Einhaltung des Ver
 
 1. die Preise der einzelnen Leistungspositionen sowie einheitliche Regelungen für deren Abrechnung,
 
-1a.  
-die notwendigen Regelungen für die Verwendung von Verordnungen von Leistungen nach § 32 in elektronischer Form, die
+1a. die notwendigen Regelungen für die Verwendung von Verordnungen von Leistungen nach § 32 in elektronischer Form, die
 
 a) festzulegen haben, dass für die Übermittlung der elektronischen Verordnung die Dienste der Anwendungen der Telematikinfrastruktur nach § 334 Absatz 1 Satz 2 genutzt werden, sobald diese zur Verfügung stehen, und
 
@@ -5372,8 +5107,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 (9) Die Vertragspartner nach Absatz 1 Satz 1 schließen einen Vertrag über eine zentrale und bundeseinheitliche Prüfung und Listung der Weiterbildungsträger, der Weiterbildungsstätten sowie der Fachlehrer hinsichtlich der Erfüllung der Anforderungen an die Durchführung von besonderen Maßnahmen der Physiotherapie unter Berücksichtigung der Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6.
 
-
-## § 125a – Heilmittelversorgung mit erweiterter Versorgungsverantwortung
+# § 125a – Heilmittelversorgung mit erweiterter Versorgungsverantwortung
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit bindender Wirkung für die Krankenkassen mit den für die Wahrnehmung der Interessen der Heilmittelerbringer maßgeblichen Spitzenorganisationen auf Bundesebene für jeden Heilmittelbereich einen Vertrag über die Heilmittelversorgung mit erweiterter Versorgungsverantwortung. Die für den jeweiligen Heilmittelbereich zuständigen maßgeblichen Spitzenorganisationen haben den Vertrag gemeinsam zu schließen. Die Verträge sind bis zum 15. März 2021 zu schließen. Gegenstand der Verträge ist eine Versorgungsform, bei der die Heilmittelerbringer aufgrund einer durch einen Vertragsarzt festgestellten Diagnose und der Indikation für eine Heilmittelbehandlung selbst über die Auswahl und die Dauer der Therapie sowie die Frequenz der Behandlungseinheiten bestimmen können. Die Auswahl der Therapie darf dabei nur im Rahmen der in der Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 Satz 2 Nummer 6 für die jeweilige Diagnosegruppe vorgegebenen verordnungsfähigen Heilmittel erfolgen. Im Übrigen sind Abweichungen von dieser Richtlinie nur in dem von den Vertragspartnern nach Absatz 2 Nummer 2 vereinbarten Umfang möglich. Vor Abschluss der Vereinbarung ist den Kassenärztlichen Bundesvereinigungen Gelegenheit zur Stellungnahme zu geben. Davon abweichend ist zu den Regelungen nach Absatz 2 Nummer 1 und 7 mit den Kassenärztlichen Bundesvereinigungen Einvernehmen herzustellen.
 
@@ -5401,8 +5135,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 (6) Unter Berücksichtigung der nach § 84 Absatz 7 in Verbindung mit § 84 Absatz 5 erhobenen und der nach Absatz 5 veröffentlichten Daten evaluieren die Vertragspartner nach Absatz 1 insbesondere die mit der Versorgungsform verbundenen Auswirkungen auf das Versorgungsgeschehen im Bereich der Heilmittel, der Mengenentwicklung, der finanziellen Auswirkungen auf die Krankenkassen sowie die Auswirkungen auf die Behandlungs- und Ergebnisqualität innerhalb der ersten vier Jahre nach Abschluss der Verträge nach Absatz 1. Die Evaluierung hat durch einen durch die Vertragspartner gemeinsam zu beauftragenden unabhängigen Dritten zu erfolgen. Dem Bundesministerium für Gesundheit ist jährlich über die Ergebnisse Bericht zu erstatten.
 
-
-## § 125b – Bundesweit geltende Preise, Verordnungsermächtigung
+# § 125b – Bundesweit geltende Preise, Verordnungsermächtigung
 
 (1) Die Verträge nach § 125 Absatz 2 in der bis zum 10. Mai 2019 geltenden Fassung gelten unabhängig von der vereinbarten Laufzeit nur bis zum Inkrafttreten des Vertrages nach § 125 Absatz 1 des jeweiligen Heilmittelbereichs oder bis zur Entscheidung durch die Schiedsstelle mit der Maßgabe fort, dass ab dem 1. Juli 2019 die nach Absatz 2 zu bildenden Preise gelten. Einer Kündigung dieser Verträge bedarf es nicht.
 
@@ -5412,8 +5145,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 (3) Die Rahmenempfehlungen nach § 125 Absatz 1 in der bis zum 10. Mai 2019 geltenden Fassung gelten unabhängig von der vereinbarten Laufzeit nur bis zum Inkrafttreten des jeweiligen Vertrages nach § 125 Absatz 1 oder bis zur Entscheidung durch die Schiedsstelle. Einer Kündigung der Rahmenempfehlungen bedarf es nicht.
 
-
-## § 126 – Versorgung durch Vertragspartner
+# § 126 – Versorgung durch Vertragspartner
 
 (1) Hilfsmittel dürfen an Versicherte nur auf der Grundlage von Verträgen nach § 127 Absatz 1 und 3 abgegeben werden. Vertragspartner der Krankenkassen können nur Leistungserbringer sein, die die Voraussetzungen für eine ausreichende, zweckmäßige und funktionsgerechte Herstellung, Abgabe und Anpassung der Hilfsmittel erfüllen. Der Spitzenverband Bund der Krankenkassen gibt Empfehlungen für eine einheitliche Anwendung der Anforderungen nach Satz 2, einschließlich der Fortbildung der Leistungserbringer, ab.
 
@@ -5423,8 +5155,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 (3) Für nichtärztliche Dialyseleistungen, die nicht in der vertragsärztlichen Versorgung erbracht werden, gelten die Regelungen dieses Abschnitts entsprechend.
 
-
-## § 127 – Verträge
+# § 127 – Verträge
 
 (1) Krankenkassen, ihre Landesverbände oder Arbeitsgemeinschaften schließen im Wege von Vertragsverhandlungen Verträge mit Leistungserbringern oder Verbänden oder sonstigen Zusammenschlüssen der Leistungserbringer über die Einzelheiten der Versorgung mit Hilfsmitteln, deren Wiedereinsatz, die Qualität der Hilfsmittel und zusätzlich zu erbringender Leistungen, die Anforderungen an die Fortbildung der Leistungserbringer, die Preise und die Abrechnung. Darüber hinaus können die Vertragsparteien in den Verträgen nach Satz 1 auch einen Ausgleich der Kosten für erhöhte Hygienemaßnahmen infolge der COVID-19-Pandemie vereinbaren. Dabei haben Krankenkassen, ihre Landesverbände oder Arbeitsgemeinschaften jedem Leistungserbringer oder Verband oder sonstigen Zusammenschlüssen der Leistungserbringer Vertragsverhandlungen zu ermöglichen. In den Verträgen nach Satz 1 sind eine hinreichende Anzahl an mehrkostenfreien Hilfsmitteln, die Qualität der Hilfsmittel, die notwendige Beratung der Versicherten und die sonstigen zusätzlichen Leistungen im Sinne des § 33 Absatz 1 Satz 5 sicherzustellen und ist für eine wohnortnahe Versorgung der Versicherten zu sorgen. Den Verträgen sind mindestens die im Hilfsmittelverzeichnis nach § 139 Absatz 2 festgelegten Anforderungen an die Qualität der Versorgung und Produkte zugrunde zu legen. Die Absicht, über die Versorgung mit bestimmten Hilfsmitteln Verträge zu schließen, ist auf einem geeigneten Portal der Europäischen Union oder mittels einem vergleichbaren unionsweit publizierenden Medium unionsweit öffentlich bekannt zu machen. Der Spitzenverband Bund der Krankenkassen legt bis zum 30. September 2020 ein einheitliches, verbindliches Verfahren zur unionsweiten Bekanntmachung der Absicht, über die Versorgung mit bestimmten Hilfsmitteln Verträge zu schließen, fest. Über die Inhalte abgeschlossener Verträge einschließlich der Vertragspartner sind andere Leistungserbringer auf Nachfrage unverzüglich zu informieren. Werden nach Abschluss des Vertrages die Anforderungen an die Qualität der Versorgung und der Produkte nach § 139 Absatz 2 durch Fortschreibung des Hilfsmittelverzeichnisses verändert, liegt darin eine wesentliche Änderung der Verhältnisse, die die Vertragsparteien zur Vertragsanpassung oder Kündigung berechtigt.
 
@@ -5448,8 +5179,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 (+++ § 127 Abs. 4: Zur Anwendung vgl. § 24e +++)
 
-
-## § 128 – Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten
+# § 128 – Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten
 
 (1) Die Abgabe von Hilfsmitteln an Versicherte über Depots bei Vertragsärzten ist unzulässig, soweit es sich nicht um Hilfsmittel handelt, die zur Versorgung in Notfällen benötigt werden. Satz 1 gilt entsprechend für die Abgabe von Hilfsmitteln in Krankenhäusern und anderen medizinischen Einrichtungen.
 
@@ -5471,8 +5201,7 @@ b) mit den Festlegungen der Bundesmantelverträge nach § 86 vereinbar sein müs
 
 (6) Ist gesetzlich nichts anderes bestimmt, gelten bei der Erbringung von Leistungen nach den §§ 31 und 116b Absatz 7 die Absätze 1 bis 3 sowohl zwischen pharmazeutischen Unternehmern, Apotheken, pharmazeutischen Großhändlern und sonstigen Anbietern von Gesundheitsleistungen als auch jeweils gegenüber Vertragsärzten, Ärzten in Krankenhäusern und Krankenhausträgern entsprechend. Hiervon unberührt bleiben gesetzlich zulässige Vereinbarungen von Krankenkassen mit Leistungserbringern über finanzielle Anreize für die Mitwirkung an der Erschließung von Wirtschaftlichkeitsreserven und die Verbesserung der Qualität der Versorgung bei der Verordnung von Leistungen nach den §§ 31 und 116b Absatz 7. Die Sätze 1 und 2 gelten auch bei Leistungen zur Versorgung von chronischen und schwer heilenden Wunden nach § 37 Absatz 7 gegenüber den Leistungserbringern, die diese Leistungen erbringen.
 
-
-## § 129 – Rahmenvertrag über die Arzneimittelversorgung, Verordnungsermächtigung
+# § 129 – Rahmenvertrag über die Arzneimittelversorgung, Verordnungsermächtigung
 
 (1) Die Apotheken sind bei der Abgabe verordneter Arzneimittel an Versicherte nach Maßgabe des Rahmenvertrages nach Absatz 2 verpflichtet zur
 
@@ -5554,13 +5283,11 @@ Diese pharmazeutischen Dienstleistungen können auch Maßnahmen der Apotheken zu
 
 (10) Die Aufsicht über die Geschäftsführung der Schiedsstelle führt das Bundesministerium für Gesundheit. Es kann durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Zahl und die Bestellung der Mitglieder, die Erstattung der baren Auslagen und die Entschädigung für Zeitaufwand der Mitglieder, das Verfahren, sein Teilnahmerecht an den Sitzungen sowie über die Verteilung der Kosten regeln.
 
-
-## § 129a – Krankenhausapotheken
+# § 129a – Krankenhausapotheken
 
 Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassenen Krankenhauses das Nähere über die Abgabe verordneter Arzneimittel durch die Krankenhausapotheke an Versicherte, insbesondere die Höhe des für den Versicherten maßgeblichen Abgabepreises. Die nach § 300 Abs. 3 getroffenen Regelungen sind Teil der Vereinbarungen nach Satz 1. Eine Krankenhausapotheke darf verordnete Arzneimittel zu Lasten von Krankenkassen nur abgeben, wenn für sie eine Vereinbarung nach Satz 1 besteht. Die Regelungen des § 129 Absatz 5c Satz 8 und 12 gelten für Vereinbarungen nach Satz 1 entsprechend.
 
-
-## § 130 – Rabatt
+# § 130 – Rabatt
 
 (1) Die Krankenkassen erhalten von den Apotheken für verschreibungspflichtige Fertigarzneimittel sowie für Zubereitungen nach § 5 Absatz 3 der Arzneimittelpreisverordnung, die nicht § 5 Absatz 6 der Arzneimittelpreisverordnung unterfallen, einen Abschlag von 1,77 Euro je Arzneimittel, für sonstige Arzneimittel einen Abschlag in Höhe von 5 vom Hundert auf den für den Versicherten maßgeblichen Arzneimittelabgabepreis.
 
@@ -5570,8 +5297,7 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 
 (3) Die Gewährung des Abschlags setzt voraus, daß die Rechnung des Apothekers innerhalb von zehn Tagen nach Eingang bei der Krankenkasse beglichen wird. Das Nähere regelt der Rahmenvertrag nach § 129.
 
-
-## § 130a – Rabatte der pharmazeutischen Unternehmer
+# § 130a – Rabatte der pharmazeutischen Unternehmer
 
 (1) Die Krankenkassen erhalten von Apotheken für zu ihren Lasten abgegebene Arzneimittel einen Abschlag in Höhe von 7 vom Hundert des Abgabepreises des pharmazeutischen Unternehmers ohne Mehrwertsteuer. Für Arzneimittel nach Absatz 3b Satz 1 beträgt der Abschlag nach Satz 1 6 vom Hundert. Pharmazeutische Unternehmer sind verpflichtet, den Apotheken den Abschlag zu erstatten. Soweit pharmazeutische Großhändler nach Absatz 5 bestimmt sind, sind pharmazeutische Unternehmer verpflichtet, den Abschlag den pharmazeutischen Großhändlern zu erstatten. Der Abschlag ist den Apotheken und pharmazeutischen Großhändlern innerhalb von zehn Tagen nach Geltendmachung des Anspruches zu erstatten. Satz 1 gilt für Fertigarzneimittel, deren Apothekenabgabepreise aufgrund der Preisvorschriften nach dem Arzneimittelgesetz oder aufgrund des § 129 Absatz 3 Satz 3 oder Absatz 5a bestimmt sind, sowie für Arzneimittel, die nach § 129a abgegeben werden. Die Krankenkassen erhalten den Abschlag nach Satz 1 für Fertigarzneimittel in parenteralen Zubereitungen, für Fertigarzneimittel, aus denen Teilmengen entnommen und abgegeben werden, sowie für Arzneimittel, die nach § 129a abgegeben werden, auf den Abgabepreis des pharmazeutischen Unternehmers ohne Mehrwertsteuer, der bei Abgabe an Verbraucher auf Grund von Preisvorschriften nach dem Arzneimittelgesetz oder nach § 129 Absatz 3 Satz 3 gilt. Wird nur eine Teilmenge des Fertigarzneimittels abgerechnet, wird der Abschlag nur für diese Mengeneinheiten erhoben.
 
@@ -5599,8 +5325,7 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 
 (9) Pharmazeutische Unternehmer können einen Antrag nach Absatz 4 Satz 2 auch für ein Arzneimittel stellen, das zur Behandlung eines seltenen Leidens nach der Verordnung (EG) Nr. 141/2000 des Europäischen Parlaments und des Rates vom 16. Dezember 1999 zugelassen ist. Dem Antrag ist stattzugeben, wenn der Antragsteller nachweist, dass durch einen Abschlag nach den Absätzen 1, 1a und 3a seine Aufwendungen insbesondere für Forschung und Entwicklung für das Arzneimittel nicht mehr finanziert werden.
 
-
-## § 130b – Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel, Verordnungsermächtigung
+# § 130b – Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel, Verordnungsermächtigung
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit pharmazeutischen Unternehmern im Benehmen mit dem Verband der privaten Krankenversicherung auf Grundlage des Beschlusses des Gemeinsamen Bundesausschusses über die Nutzenbewertung nach § 35a Absatz 3 mit Wirkung für alle Krankenkassen Erstattungsbeträge für Arzneimittel, die mit diesem Beschluss keiner Festbetragsgruppe zugeordnet wurden. Dabei soll jeweils ein Vertreter einer Krankenkasse an der Verhandlung teilnehmen; das Nähere regelt der Spitzenverband Bund der Krankenkassen in seiner Satzung. Für Arzneimittel nach § 129a kann mit dem pharmazeutischen Unternehmer höchstens der Erstattungsbetrag vereinbart werden. § 130a Absatz 8 Satz 6 gilt entsprechend. Die Vereinbarung soll auch Anforderungen an die Zweckmäßigkeit, Qualität und Wirtschaftlichkeit einer Verordnung beinhalten. Der pharmazeutische Unternehmer soll dem Spitzenverband Bund der Krankenkassen die Angaben zur Höhe seines tatsächlichen Abgabepreises in anderen europäischen Ländern übermitteln. Die Verhandlungen und deren Vorbereitung einschließlich der Beratungsunterlagen und Niederschriften zur Vereinbarung des Erstattungsbetrages sind vertraulich.
 
@@ -5632,8 +5357,7 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 
 (10) Der Gemeinsame Bundesausschuss, der Spitzenverband Bund der Krankenkassen und das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen schließen mit dem Verband der privaten Krankenversicherung eine Vereinbarung über die von den Unternehmen der privaten Krankenversicherung zu erstattenden Kosten für die Nutzen-Bewertung nach § 35a und für die Kosten-Nutzen-Bewertung nach § 35b sowie für die Festsetzung eines Erstattungsbetrags nach Absatz 4.
 
-
-## § 130c – Verträge von Krankenkassen mit pharmazeutischen Unternehmern
+# § 130c – Verträge von Krankenkassen mit pharmazeutischen Unternehmern
 
 (1) Krankenkassen oder ihre Verbände können abweichend von bestehenden Vereinbarungen oder Schiedssprüchen nach § 130b mit pharmazeutischen Unternehmern Vereinbarungen über die Erstattung von Arzneimitteln sowie zur Versorgung ihrer Versicherten mit Arzneimitteln treffen. Dabei kann insbesondere eine mengenbezogene Staffelung des Preisnachlasses, ein jährliches Umsatzvolumen mit Ausgleich von Mehrerlösen oder eine Erstattung in Abhängigkeit von messbaren Therapieerfolgen vereinbart werden. Durch eine Vereinbarung nach Satz 1 kann eine Vereinbarung nach § 130b ergänzt oder ganz oder teilweise abgelöst werden; dabei können auch zusätzliche Rabatte auf den Erstattungsbetrag vereinbart werden. § 78 Absatz 3a des Arzneimittelgesetzes bleibt unberührt. Die Ergebnisse der Bewertungen nach den §§ 35a und 35b, die Richtlinien nach § 92, die Vereinbarungen nach § 84 und die Informationen nach § 73 Absatz 8 Satz 1 sind zu berücksichtigen. § 130a Absatz 8 gilt entsprechend.
 
@@ -5645,8 +5369,7 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 
 (5) Informationen über die Regelungen nach Absatz 3 sind in den Programmen zur Verordnung von Arzneimitteln nach § 73 Absatz 9 Satz 1 zu hinterlegen. Das Nähere ist in den Verträgen nach § 82 Absatz 1 zu vereinbaren.
 
-
-## § 130d – Preise für Arzneimittel zur Therapie von Gerinnungsstörungen bei Hämophilie
+# § 130d – Preise für Arzneimittel zur Therapie von Gerinnungsstörungen bei Hämophilie
 
 (1) Pharmazeutische Unternehmer haben dem Spitzenverband Bund der Krankenkassen für Arzneimittel zur spezifischen Therapie von Gerinnungsstörungen bei Hämophilie bis zum 30. November 2019 als Herstellerabgabepreis einen mengengewichteten arithmetischen Mittelwert unter Übermittlung der dem ermittelten Mittelwert zugrundeliegenden Preise, die für die Jahre 2017 und 2018 bei der Direktabgabe durch den pharmazeutischen Unternehmer nach § 47 Absatz 1 Satz 1 Nummer 2 Buchstabe a des Arzneimittelgesetzes tatsächlich vereinbart worden sind, sowie der zu diesen Preisen abgegebenen Mengen zu melden. Satz 1 gilt nicht für Arzneimittel, für die ein Erstattungsbetrag nach § 130b vereinbart oder festgesetzt worden ist. Die Übermittlung der Preise und Mengen erfolgt in maschinell verwertbarer Weise unter Angabe des jeweiligen Vertragspartners.
 
@@ -5658,8 +5381,7 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 
 (5) Der Herstellerabgabepreis nach Absatz 1 oder Absatz 3 gilt ab dem 1. September 2020. Klagen gegen die Festsetzung nach Absatz 3 haben keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt.
 
-
-## § 131 – Rahmenverträge mit pharmazeutischen Unternehmern
+# § 131 – Rahmenverträge mit pharmazeutischen Unternehmern
 
 (1) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer auf Bundesebene können einen Vertrag über die Arzneimittelversorgung in der gesetzlichen Krankenversicherung schließen.
 
@@ -5675,22 +5397,19 @@ Die Krankenkassen oder ihre Verbände vereinbaren mit dem Träger des zugelassen
 
 (5) Die pharmazeutischen Unternehmer sind verpflichtet, auf den äußeren Umhüllungen der Arzneimittel das Arzneimittelkennzeichen nach § 300 Abs. 1 Nr. 1 in einer für Apotheken maschinell erfaßbaren bundeseinheitlichen Form anzugeben. Das Nähere regelt der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer auf Bundesebene in Verträgen.
 
-
-## § 131a – Ersatzansprüche der Krankenkassen
+# § 131a – Ersatzansprüche der Krankenkassen
 
 (1) Ist ein zu Lasten der gesetzlichen Krankenkasse abgegebenes Arzneimittel mangelhaft und erfolgt aus diesem Grund ein Arzneimittelrückruf oder eine von der zuständigen Behörde bekannt gemachte Einschränkung der Verwendbarkeit des Arzneimittels, gehen die in § 437 des Bürgerlichen Gesetzbuchs bezeichneten Rechte des Abgebenden gegen seinen Lieferanten auf die Krankenkasse über, soweit diese dem Abgebenden für die Abgabe des Arzneimittels eine Vergütung gezahlt hat. Für den Rücktritt, die Minderung oder den Schadensersatz bedarf es einer sonst nach § 323 Absatz 1 des Bürgerlichen Gesetzbuchs oder § 281 Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs erforderlichen Fristsetzung nicht. Der Abgebende hat seinen Ersatzanspruch oder ein zur Sicherung dieses Anspruchs dienendes Recht unter Beachtung der geltenden Form- und Fristvorschriften zu wahren und bei dessen Durchsetzung durch die Krankenkasse soweit erforderlich mitzuwirken.
 
 (2) Der Spitzenverband Bund der Krankenkassen vereinbart mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer auf Bundesebene und Vertretern des pharmazeutischen Großhandels die näheren Einzelheiten für die Geltendmachung und Abwicklung der Ersatzansprüche der Krankenkassen. In den Vereinbarungen können insbesondere Pauschbeträge und eine Abtretung von Regressansprüchen vereinbart werden.
 
-
-## § 132 – Versorgung mit Haushaltshilfe
+# § 132 – Versorgung mit Haushaltshilfe
 
 (1) Über Inhalt, Umfang, Vergütung sowie Prüfung der Qualität und Wirtschaftlichkeit der Dienstleistungen zur Versorgung mit Haushaltshilfe schließen die Krankenkassen Verträge mit geeigneten Personen, Einrichtungen oder Unternehmen. Im Fall der Nichteinigung wird der Vertragsinhalt durch eine von den Vertragspartnern zu bestimmende unabhängige Schiedsperson festgelegt. Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird diese von der für die Vertrag schließende Krankenkasse zuständigen Aufsichtsbehörde bestimmt. Die Kosten des Schiedsverfahrens tragen die Vertragsparteien zu gleichen Teilen. Abweichend von Satz 1 kann die Krankenkasse zur Gewährung von Haushaltshilfe auch geeignete Personen anstellen.
 
 (2) Die Krankenkasse hat darauf zu achten, daß die Leistungen wirtschaftlich und preisgünstig erbracht werden. Bei der Auswahl der Leistungserbringer ist ihrer Vielfalt, insbesondere der Bedeutung der freien Wohlfahrtspflege, Rechnung zu tragen.
 
-
-## § 132a – Versorgung mit häuslicher Krankenpflege
+# § 132a – Versorgung mit häuslicher Krankenpflege
 
 (1) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Interessen von Pflegediensten maßgeblichen Spitzenorganisationen auf Bundesebene haben unter Berücksichtigung der Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 gemeinsam Rahmenempfehlungen über die einheitliche und flächendeckende Versorgung mit häuslicher Krankenpflege abzugeben; für Pflegedienste, die einer Kirche oder einer Religionsgemeinschaft des öffentlichen Rechts oder einem sonstigen freigemeinnützigen Träger zuzuordnen sind, können die Rahmenempfehlungen gemeinsam mit den übrigen Partnern der Rahmenempfehlungen auch von der Kirche oder der Religionsgemeinschaft oder von dem Wohlfahrtsverband abgeschlossen werden, dem die Einrichtung angehört. Vor Abschluß der Vereinbarung ist der Kassenärztlichen Bundesvereinigung und der Deutschen Krankenhausgesellschaft Gelegenheit zur Stellungnahme zu geben. Die Stellungnahmen sind in den Entscheidungsprozeß der Partner der Rahmenempfehlungen einzubeziehen. In den Rahmenempfehlungen sind insbesondere zu regeln:
 
@@ -5714,22 +5433,19 @@ Um den Besonderheiten der intensivpflegerischen Versorgung im Rahmen der häusli
 
 (4) Über die Einzelheiten der Versorgung mit häuslicher Krankenpflege, über die Preise und deren Abrechnung und die Verpflichtung der Leistungserbringer zur Fortbildung schließen die Krankenkassen Verträge mit den Leistungserbringern. Wird die Fortbildung nicht nachgewiesen, sind Vergütungsabschläge vorzusehen. Dem Leistungserbringer ist eine Frist zu setzen, innerhalb derer er die Fortbildung nachholen kann. Erbringt der Leistungserbringer in diesem Zeitraum die Fortbildung nicht, ist der Vertrag zu kündigen. Die Krankenkassen haben darauf zu achten, dass die Leistungen wirtschaftlich und preisgünstig erbracht werden. Verträge dürfen nur mit Leistungserbringern abgeschlossen werden, die die Gewähr für eine leistungsgerechte und wirtschaftliche Versorgung bieten. Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergütungen sowie entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich abgelehnt werden; insoweit gilt § 71 nicht. Der Leistungserbringer ist verpflichtet, die entsprechende Bezahlung der Beschäftigten nach Satz 6 jederzeit einzuhalten und sie auf Verlangen einer Vertragspartei nachzuweisen. Im Fall der Nichteinigung wird der Vertragsinhalt durch eine von den Vertragspartnern zu bestimmende unabhängige Schiedsperson innerhalb von drei Monaten festgelegt. Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird diese von der für die vertragschließende Krankenkasse zuständigen Aufsichtsbehörde innerhalb eines Monats nach Vorliegen der für die Bestimmung der Schiedsperson notwendigen Informationen bestimmt. Die Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen. Bei der Auswahl der Leistungserbringer ist ihrer Vielfalt, insbesondere der Bedeutung der freien Wohlfahrtspflege, Rechnung zu tragen. Die Leistungserbringer sind verpflichtet, an Qualitäts- und Abrechnungsprüfungen nach § 275b teilzunehmen; § 114 Absatz 2 des Elften Buches bleibt unberührt. Der Leistungserbringer hat der Krankenkasse anzuzeigen, dass er behandlungspflegerische Leistungen im Sinne des Absatzes 1 Satz 5 erbringt, wenn er diese Leistungen für mindestens zwei Versicherte in einer durch den Leistungserbringer oder einen Dritten organisierten Wohneinheit erbringt. Abweichend von Satz 1 kann die Krankenkasse zur Gewährung von häuslicher Krankenpflege geeignete Personen anstellen.
 
-
-## § 132b – Versorgung mit Soziotherapie
+# § 132b – Versorgung mit Soziotherapie
 
 (1) Die Krankenkassen oder die Landesverbände der Krankenkassen können unter Berücksichtigung der Richtlinien nach § 37a Abs. 2 mit geeigneten Personen oder Einrichtungen Verträge über die Versorgung mit Soziotherapie schließen, soweit dies für eine bedarfsgerechte Versorgung notwendig ist.
 
 (2) Im Fall der Nichteinigung wird der Vertragsinhalt durch eine von den Vertragspartnern zu bestimmende unabhängige Schiedsperson festgelegt. Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird diese von der für die vertragsschließende Krankenkasse zuständigen Aufsichtsbehörde innerhalb eines Monats nach Vorliegen der für die Bestimmung der Schiedsperson notwendigen Informationen bestimmt. Die Kosten des Schiedsverfahrens tragen die Vertragspartner zu gleichen Teilen.
 
-
-## § 132c – Versorgung mit sozialmedizinischen Nachsorgemaßnahmen
+# § 132c – Versorgung mit sozialmedizinischen Nachsorgemaßnahmen
 
 (1) Die Krankenkassen oder die Landesverbände der Krankenkassen können mit geeigneten Personen oder Einrichtungen Verträge über die Erbringung sozialmedizinischer Nachsorgemaßnahmen schließen, soweit dies für eine bedarfsgerechte Versorgung notwendig ist.
 
 (2) Der Spitzenverband Bund der Krankenkassen legt in Empfehlungen die Anforderungen an die Leistungserbringer der sozialmedizinischen Nachsorgemaßnahmen fest.
 
-
-## § 132d – Spezialisierte ambulante Palliativversorgung
+# § 132d – Spezialisierte ambulante Palliativversorgung
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit den maßgeblichen Spitzenorganisationen der Hospizarbeit und Palliativversorgung auf Bundesebene unter Berücksichtigung der Richtlinien nach § 37b Absatz 3 erstmals bis zum 30. September 2019 einen einheitlichen Rahmenvertrag über die Durchführung der Leistungen nach § 37b. Den besonderen Belangen von Kindern ist durch einen gesonderten Rahmenvertrag Rechnung zu tragen. In den Rahmenverträgen sind die sächlichen und personellen Anforderungen an die Leistungserbringung, Maßnahmen zur Qualitätssicherung und die wesentlichen Elemente der Vergütung festzulegen. Der Deutschen Krankenhausgesellschaft, der Vereinigung der Pflegeeinrichtungen auf Bundesebene sowie der Kassenärztlichen Bundesvereinigung ist Gelegenheit zur Stellungnahme zu geben. Die Rahmenverträge sind in geeigneter Form öffentlich bekannt zu machen. Personen oder Einrichtungen, die die in den Rahmenverträgen festgelegten Voraussetzungen erfüllen, haben Anspruch auf Abschluss eines zur Versorgung berechtigenden Vertrages mit den Krankenkassen einzeln oder gemeinsam nach Maßgabe des Rahmenvertrages nach Satz 1 oder Satz 2 und unter Wahrung des Gleichbehandlungsgrundsatzes. In dem Vertrag nach Satz 6 werden die Einzelheiten der Versorgung festgelegt. Dabei sind die regionalen Besonderheiten angemessen zu berücksichtigen.
 
@@ -5737,8 +5453,7 @@ Um den Besonderheiten der intensivpflegerischen Versorgung im Rahmen der häusli
 
 (3) Krankenkassen können Verträge, die eine ambulante Palliativversorgung und die spezialisierte ambulante Palliativversorgung umfassen, auch auf Grundlage der §§ 73b oder 140a abschließen. Die Qualitätsanforderungen in den Rahmenverträgen nach Absatz 1 und in den Richtlinien nach § 37b Absatz 3 und § 92 Absatz 7 Satz 1 Nummer 5 gelten entsprechend.
 
-
-## § 132e – Versorgung mit Schutzimpfungen
+# § 132e – Versorgung mit Schutzimpfungen
 
 (1) Die Krankenkassen oder ihre Verbände schließen mit Kassenärztlichen Vereinigungen, Ärzten, Einrichtungen mit ärztlichem Personal, deren Gemeinschaften, den obersten Landesgesundheitsbehörden oder den von ihnen bestimmten Stellen, Verträge über die Durchführung von Schutzimpfungen nach § 20i. Als Gemeinschaften im Sinne des Satzes 1 gelten auch Vereinigungen zur Unterstützung von Mitgliedern, die Schutzimpfungen nach § 20i durchführen. Es sind insbesondere Verträge abzuschließen mit
 
@@ -5764,13 +5479,11 @@ Einigen sich die Vertragsparteien nach Satz 1 nicht innerhalb einer Frist von dr
 
 (3) Die Inhaber von Zulassungen von saisonalen Grippeimpfstoffen melden die voraussichtlichen Preise für Grippeimpfstoffe für die kommende Impfsaison bis spätestens zum 1. März eines Jahres an die Kassenärztliche Bundesvereinigung.
 
-
-## § 132f – Versorgung durch Betriebsärzte
+# § 132f – Versorgung durch Betriebsärzte
 
 Die Krankenkassen oder ihre Verbände können in Ergänzung zur vertragsärztlichen Versorgung und unter Berücksichtigung der Richtlinien nach § 25 Absatz 4 Satz 2 mit geeigneten Fachärzten für Arbeitsmedizin oder den über die Zusatzbezeichnung „Betriebsmedizin“ verfügenden Ärzten oder deren Gemeinschaften Verträge über die Durchführung von Gesundheitsuntersuchungen nach § 25 Absatz 1, über Maßnahmen zur betrieblichen Gesundheitsförderung, über Präventionsempfehlungen, Empfehlungen medizinischer Vorsorgeleistungen und über die Heilmittelversorgung schließen, soweit diese in Ergänzung zur arbeitsmedizinischen Vorsorge erbracht werden.
 
-
-## § 132g – Gesundheitliche Versorgungsplanung für die letzte Lebensphase
+# § 132g – Gesundheitliche Versorgungsplanung für die letzte Lebensphase
 
 (1) Zugelassene Pflegeeinrichtungen im Sinne des § 43 des Elften Buches und Einrichtungen der Eingliederungshilfe für behinderte Menschen können den Versicherten in den Einrichtungen eine gesundheitliche Versorgungsplanung für die letzte Lebensphase anbieten. Versicherte sollen über die medizinisch-pflegerische Versorgung und Betreuung in der letzten Lebensphase beraten werden, und ihnen sollen Hilfen und Angebote der Sterbebegleitung aufgezeigt werden. Im Rahmen einer Fallbesprechung soll nach den individuellen Bedürfnissen des Versicherten insbesondere auf medizinische Abläufe in der letzten Lebensphase und während des Sterbeprozesses eingegangen, sollen mögliche Notfallsituationen besprochen und geeignete einzelne Maßnahmen der palliativ-medizinischen, palliativ-pflegerischen und psychosozialen Versorgung dargestellt werden. Die Fallbesprechung kann bei wesentlicher Änderung des Versorgungs- oder Pflegebedarfs auch mehrfach angeboten werden.
 
@@ -5782,18 +5495,15 @@ Die Krankenkassen oder ihre Verbände können in Ergänzung zur vertragsärztlic
 
 (5) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit alle drei Jahre über die Entwicklung der gesundheitlichen Versorgungsplanung für die letzte Lebensphase und die Umsetzung der Vereinbarung nach Absatz 3. Er legt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen über die erstatteten Leistungen fest.
 
-
-## § 132h – Versorgungsverträge mit Kurzzeitpflegeeinrichtungen
+# § 132h – Versorgungsverträge mit Kurzzeitpflegeeinrichtungen
 
 Die Krankenkassen oder die Landesverbände der Krankenkassen können mit geeigneten Einrichtungen Verträge über die Erbringung von Kurzzeitpflege nach § 39c schließen, soweit dies für eine bedarfsgerechte Versorgung notwendig ist.
 
-
-## § 132i – Versorgungsverträge mit Hämophiliezentren
+# § 132i – Versorgungsverträge mit Hämophiliezentren
 
 Die Krankenkassen oder ihre Landesverbände schließen mit ärztlichen Einrichtungen, die auf die qualitätsgesicherte Behandlung von Gerinnungsstörungen bei Hämophilie durch hämostaseologisch qualifizierte Ärztinnen oder Ärzte spezialisiert sind, oder mit deren Verbänden Verträge über die Behandlung von Versicherten mit Gerinnungsstörungen bei Hämophilie. In diesen Verträgen soll die Vergütung von zusätzlichen, besonderen ärztlichen Aufwendungen zur medizinischen Versorgung und Betreuung von Patientinnen und Patienten mit Gerinnungsstörungen bei Hämophilie, insbesondere für die Beratung über die Langzeitfolgen von Gerinnungsstörungen, die Begleitung und Kontrolle der Selbstbehandlung, die Dokumentation nach § 14 des Transfusionsgesetzes und die Meldung an das Deutsche Hämophilieregister nach § 21 Absatz 1a des Transfusionsgesetzes sowie für die Notfallvorsorge und -behandlung geregelt werden. Im Fall der Nichteinigung wird der Vertragsinhalt durch eine von den Vertragspartnern nach Satz 1 gemeinsam zu benennende unabhängige Schiedsperson innerhalb von drei Monaten festgelegt. Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird diese von der für die vertragschließende Krankenkasse oder für den vertragsschließenden Verband zuständigen Aufsichtsbehörde innerhalb eines Monats nach Vorliegen der für die Bestimmung der Schiedsperson notwendigen Informationen bestimmt. Die Kosten des Schiedsverfahrens tragen die Vertragsparteien zu gleichen Teilen.
 
-
-## § 132j – Regionale Modellvorhaben zur Durchführung von Grippeschutzimpfungen in Apotheken
+# § 132j – Regionale Modellvorhaben zur Durchführung von Grippeschutzimpfungen in Apotheken
 
 (1) Die Krankenkassen oder ihre Landesverbände haben mit Apotheken, Gruppen von Apotheken oder mit den für die Wahrnehmung der wirtschaftlichen Interessen maßgeblichen Organisationen der Apotheker auf Landesebene, wenn diese sie dazu auffordern, Verträge über die Durchführung von Modellvorhaben in ausgewählten Regionen zur Durchführung von Grippeschutzimpfungen bei Personen, die das 18. Lebensjahr vollendet haben, in Apotheken mit dem Ziel der Verbesserung der Impfquote abzuschließen. In den Verträgen ist zu den Grippeschutzimpfungen in Apotheken insbesondere Folgendes zu regeln:
 
@@ -5833,13 +5543,11 @@ b) in der jeweiligen Apotheke eine geeignete Räumlichkeit mit der Ausstattung v
 
 (7) Die Modellvorhaben sind im Regelfall auf längstens fünf Jahre zu befristen. Sie sind nach allgemein anerkannten wissenschaftlichen Standards zu begleiten und auszuwerten.
 
-
-## § 132k – Vertrauliche Spurensicherung
+# § 132k – Vertrauliche Spurensicherung
 
 Die Krankenkassen oder ihre Landesverbände schließen gemeinsam und einheitlich auf Antrag des jeweiligen Landes mit dem Land sowie mit einer hinreichenden Anzahl von geeigneten Einrichtungen oder Ärzten Verträge über die Erbringung von Leistungen nach § 27 Absatz 1 Satz 6. In den Verträgen sind insbesondere die Einzelheiten zu Art und Umfang der Leistungen, die Voraussetzungen für die Ausführung und Abrechnung sowie die Vergütung und Form und Inhalt des Abrechnungsverfahrens zu regeln. Die Leistungen werden unmittelbar mit den Krankenkassen abgerechnet, die Vergütung kann pauschaliert werden. Das Abrechnungsverfahren ist so zu gestalten, dass die Anonymität des Versicherten gewährleistet ist. Kommt ein Vertrag ganz oder teilweise nicht binnen sechs Monaten nach Antragstellung durch das Land zustande, gilt § 132i Satz 3 bis 5 entsprechend mit den Maßgaben, dass Widerspruch und Klage gegen die Bestimmung der Schiedsperson keine aufschiebende Wirkung haben.
 
-
-## § 132l – Versorgung mit außerklinischer Intensivpflege, Verordnungsermächtigung
+# § 132l – Versorgung mit außerklinischer Intensivpflege, Verordnungsermächtigung
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Vereinigungen der Träger von vollstationären Pflegeeinrichtungen auf Bundesebene, die Leistungen nach § 43 des Elften Buches erbringen, die für die Wahrnehmung der Interessen der Erbringer von Leistungen nach Absatz 5 Nummer 3 maßgeblichen Spitzenorganisationen auf Bundesebene und die für die Wahrnehmung der Interessen von Pflegediensten maßgeblichen Spitzenorganisationen auf Bundesebene haben unter Einbeziehung des Medizinischen Dienstes Bund und unter Berücksichtigung der Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 bis zum 31. Oktober 2022 gemeinsame Rahmenempfehlungen über die einheitliche und flächendeckende Versorgung mit außerklinischer Intensivpflege zu vereinbaren. Vor Abschluss der Vereinbarung ist der Kassenärztlichen Bundesvereinigung und der Deutschen Krankenhausgesellschaft Gelegenheit zur Stellungnahme zu geben. Die Stellungnahmen sind in den Entscheidungsprozess der Partner der Rahmenempfehlungen einzubeziehen. Die Inhalte der Rahmenempfehlungen sind den Verträgen nach Absatz 5 zugrunde zu legen.
 
@@ -5883,8 +5591,7 @@ Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergüt
 
 (8) Die Landesverbände der Krankenkassen und die Ersatzkassen erstellen gemeinsam und einheitlich eine Liste der Leistungserbringer, mit denen Verträge nach Absatz 5 bestehen und veröffentlichen sie barrierefrei auf einer eigenen Internetseite. Die Liste ist einmal in jedem Quartal zu aktualisieren. Sie hat Angaben zu Art, Inhalt und Umfang der mit dem Leistungserbringer vertraglich vereinbarten Leistungen der außerklinischen Intensivpflege zu enthalten; sie kann personenbezogene Daten zum Zweck der Kontaktaufnahme mit dem Leistungserbringer enthalten. Die Liste darf keine versichertenbezogenen Angaben enthalten und leistungserbringerbezogene Angaben nur, soweit diese für die Kontaktaufnahme mit dem Leistungserbringer erforderlich sind. Versicherte, die Anspruch auf Leistungen der außerklinischen Intensivpflege nach § 37c haben, erhalten auf Anforderung von ihrer Krankenkasse einen barrierefreien Auszug aus der Liste nach Satz 1 für den Einzugsbereich, in dem die außerklinische Intensivpflege stattfinden soll.
 
-
-## § 133 – Versorgung mit Krankentransportleistungen
+# § 133 – Versorgung mit Krankentransportleistungen
 
 (1) Soweit die Entgelte für die Inanspruchnahme von Leistungen des Rettungsdienstes und anderer Krankentransporte nicht durch landesrechtliche oder kommunalrechtliche Bestimmungen festgelegt werden, schließen die Krankenkassen oder ihre Landesverbände Verträge über die Vergütung dieser Leistungen unter Beachtung des § 71 Abs. 1 bis 3 mit dafür geeigneten Einrichtungen oder Unternehmen. Kommt eine Vereinbarung nach Satz 1 nicht zu Stande und sieht das Landesrecht für diesen Fall eine Festlegung der Vergütungen vor, ist auch bei dieser Festlegung § 71 Abs. 1 bis 3 zu beachten. Sie haben dabei die Sicherstellung der flächendeckenden rettungsdienstlichen Versorgung und die Empfehlungen der Konzertierten Aktion im Gesundheitswesen zu berücksichtigen. Die vereinbarten Preise sind Höchstpreise. Die Preisvereinbarungen haben sich an möglichst preisgünstigen Versorgungsmöglichkeiten auszurichten.
 
@@ -5900,8 +5607,7 @@ Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter Vergüt
 
 (4) § 127 Absatz 9 gilt entsprechend.
 
-
-## § 134 – Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung
+# § 134 – Vereinbarung zwischen dem Spitzenverband Bund der Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen über Vergütungsbeträge; Verordnungsermächtigung
 
 (1) Der Spitzenverband Bund der Krankenkassen vereinbart mit den Herstellern digitaler Gesundheitsanwendungen mit Wirkung für alle Krankenkassen Vergütungsbeträge für digitale Gesundheitsanwendungen. Die Vergütungsbeträge gelten nach dem ersten Jahr nach Aufnahme der jeweiligen digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen nach § 139e. Gegenstand der Vereinbarungen sollen auch erfolgsabhängige Preisbestandteile sein. Die Hersteller übermitteln dem Spitzenverband Bund der Krankenkassen
 
@@ -5925,8 +5631,7 @@ Die Verhandlungen und deren Vorbereitung einschließlich der Beratungsunterlagen
 
 Höchstbeträge nach Satz 3 Nummer 2 müssen für Gruppen vergleichbarer digitaler Gesundheitsanwendungen auch in Abhängigkeit davon festgelegt werden, ob und inwieweit der Nachweis positiver Versorgungseffekte nach § 139e Absatz 2 Satz 2 Nummer 3 bereits erbracht ist. Die nach Satz 3 Nummer 2 für den Fall der vorläufigen Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen zur Erprobung nach § 139e Absatz 4 zu vereinbarenden Höchstpreise müssen dabei geringer sein als bei einer unmittelbaren dauerhaften Aufnahme nach § 139e Absatz 2 und 3.
 
-
-## § 134a – Versorgung mit Hebammenhilfe
+# § 134a – Versorgung mit Hebammenhilfe
 
 (1) Der Spitzenverband Bund der Krankenkassen schließt mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen Berufsverbänden der Hebammen und den Verbänden der von Hebammen geleiteten Einrichtungen auf Bundesebene mit bindender Wirkung für die Krankenkassen Verträge über die Versorgung mit Hebammenhilfe, die abrechnungsfähigen Leistungen unter Einschluss einer Betriebskostenpauschale bei ambulanten Entbindungen in von Hebammen geleiteten Einrichtungen, die Anforderungen an die Qualitätssicherung in diesen Einrichtungen, die Anforderungen an die Qualität der Hebammenhilfe einschließlich der Verpflichtung der Hebammen zur Teilnahme an Qualitätssicherungsmaßnahmen sowie über die Höhe der Vergütung und die Einzelheiten der Vergütungsabrechnung durch die Krankenkassen. Die Vertragspartner haben dabei den Bedarf der Versicherten an Hebammenhilfe unter Einbeziehung der in § 24f Satz 2 geregelten Wahlfreiheit der Versicherten und deren Qualität, den Grundsatz der Beitragssatzstabilität sowie die berechtigten wirtschaftlichen Interessen der freiberuflich tätigen Hebammen zu berücksichtigen. Bei der Berücksichtigung der wirtschaftlichen Interessen der freiberuflich tätigen Hebammen nach Satz 2 sind insbesondere Kostensteigerungen zu beachten, die die Berufsausübung betreffen.
 
@@ -5980,8 +5685,7 @@ Die Hebammen sind verpflichtet, die Daten nach Satz 2 sowie Änderungen unverzü
 
 (6) Als Hebammen im Sinne dieser Vorschrift gelten auch Entbindungspfleger.
 
-
-## § 135 – Bewertung von Untersuchungs- und Behandlungsmethoden
+# § 135 – Bewertung von Untersuchungs- und Behandlungsmethoden
 
 (1) Neue Untersuchungs- und Behandlungsmethoden dürfen in der vertragsärztlichen und vertragszahnärztlichen Versorgung zu Lasten der Krankenkassen nur erbracht werden, wenn der Gemeinsame Bundesausschuss auf Antrag eines Unparteiischen nach § 91 Abs. 2 Satz 1, einer Kassenärztlichen Bundesvereinigung, einer Kassenärztlichen Vereinigung oder des Spitzenverbandes Bund der Krankenkassen in Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 5 Empfehlungen abgegeben hat über
 
@@ -5999,8 +5703,7 @@ Der Gemeinsame Bundesausschuss überprüft die zu Lasten der Krankenkassen erbra
 
 (3) bis (6) (weggefallen)
 
-
-## § 135a – Verpflichtung der Leistungserbringer zur Qualitätssicherung
+# § 135a – Verpflichtung der Leistungserbringer zur Qualitätssicherung
 
 (1) Die Leistungserbringer sind zur Sicherung und Weiterentwicklung der Qualität der von ihnen erbrachten Leistungen verpflichtet. Die Leistungen müssen dem jeweiligen Stand der wissenschaftlichen Erkenntnisse entsprechen und in der fachlich gebotenen Qualität erbracht werden.
 
@@ -6012,8 +5715,7 @@ Der Gemeinsame Bundesausschuss überprüft die zu Lasten der Krankenkassen erbra
 
 (3) Meldungen und Daten aus einrichtungsinternen und einrichtungsübergreifenden Risikomanagement- und Fehlermeldesystemen nach Absatz 2 in Verbindung mit § 136a Absatz 3 dürfen im Rechtsverkehr nicht zum Nachteil des Meldenden verwendet werden. Dies gilt nicht, soweit die Verwendung zur Verfolgung einer Straftat, die im Höchstmaß mit mehr als fünf Jahren Freiheitsstrafe bedroht ist und auch im Einzelfall besonders schwer wiegt, erforderlich ist und die Erforschung des Sachverhalts oder die Ermittlung des Aufenthaltsorts des Beschuldigten auf andere Weise aussichtslos oder wesentlich erschwert wäre.
 
-
-## § 135b – Förderung der Qualität durch die Kassenärztlichen Vereinigungen
+# § 135b – Förderung der Qualität durch die Kassenärztlichen Vereinigungen
 
 (1) Die Kassenärztlichen Vereinigungen haben Maßnahmen zur Förderung der Qualität der vertragsärztlichen Versorgung durchzuführen. Die Ziele und Ergebnisse dieser Qualitätssicherungsmaßnahmen sind von den Kassenärztlichen Vereinigungen zu dokumentieren und jährlich zu veröffentlichen.
 
@@ -6023,15 +5725,13 @@ Der Gemeinsame Bundesausschuss überprüft die zu Lasten der Krankenkassen erbra
 
 (4) Zur Förderung der Qualität der vertragsärztlichen Versorgung können die Kassenärztlichen Vereinigungen mit einzelnen Krankenkassen oder mit den für ihren Bezirk zuständigen Landesverbänden der Krankenkassen oder den Verbänden der Ersatzkassen unbeschadet der Regelungen des § 87a gesamtvertragliche Vereinbarungen schließen, in denen für bestimmte Leistungen einheitlich strukturierte und elektronisch dokumentierte besondere Leistungs-, Struktur- oder Qualitätsmerkmale festgelegt werden, bei deren Erfüllung die an dem jeweiligen Vertrag teilnehmenden Ärzte Zuschläge zu den Vergütungen erhalten. In den Verträgen nach Satz 1 ist ein Abschlag von dem nach § 87a Absatz 2 Satz 1 vereinbarten Punktwert für die an dem jeweiligen Vertrag beteiligten Krankenkassen und die von dem Vertrag erfassten Leistungen, die von den an dem Vertrag nicht teilnehmenden Ärzten der jeweiligen Facharztgruppe erbracht werden, zu vereinbaren, durch den die Mehrleistungen nach Satz 1 für die beteiligten Krankenkassen ausgeglichen werden.
 
-
-## § 135c – Förderung der Qualität durch die Deutsche Krankenhausgesellschaft
+# § 135c – Förderung der Qualität durch die Deutsche Krankenhausgesellschaft
 
 (1) Die Deutsche Krankenhausgesellschaft fördert im Rahmen ihrer Aufgaben die Qualität der Versorgung im Krankenhaus. Sie hat in ihren Beratungs- und Formulierungshilfen für Verträge der Krankenhäuser mit leitenden Ärzten im Einvernehmen mit der Bundesärztekammer Empfehlungen abzugeben, die sicherstellen, dass Zielvereinbarungen ausgeschlossen sind, die auf finanzielle Anreize insbesondere für einzelne Leistungen, Leistungsmengen, Leistungskomplexe oder Messgrößen hierfür abstellen. Die Empfehlungen sollen insbesondere die Unabhängigkeit medizinischer Entscheidungen sichern.
 
 (2) Der Qualitätsbericht des Krankenhauses nach § 136b Absatz 1 Satz 1 Nummer 3 hat eine Erklärung zu enthalten, die unbeschadet der Rechte Dritter Auskunft darüber gibt, ob sich das Krankenhaus bei Verträgen mit leitenden Ärzten an die Empfehlungen nach Absatz 1 Satz 2 hält. Hält sich das Krankenhaus nicht an die Empfehlungen, hat es unbeschadet der Rechte Dritter anzugeben, welche Leistungen oder Leistungsbereiche von solchen Zielvereinbarungen betroffen sind.
 
-
-## § 136 – Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung
+# § 136 – Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung
 
 (1) Der Gemeinsame Bundesausschuss bestimmt für die vertragsärztliche Versorgung und für zugelassene Krankenhäuser grundsätzlich einheitlich für alle Patienten durch Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 13 insbesondere
 
@@ -6045,8 +5745,7 @@ Soweit erforderlich erlässt der Gemeinsame Bundesausschuss die notwendigen Durc
 
 (3) Der Verband der Privaten Krankenversicherung, die Bundesärztekammer sowie die Berufsorganisationen der Pflegeberufe sind bei den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 13 zu beteiligen; die Bundespsychotherapeutenkammer und die Bundeszahnärztekammer sind, soweit jeweils die Berufsausübung der Psychotherapeuten oder der Zahnärzte berührt ist, zu beteiligen.
 
-
-## § 136a – Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung in ausgewählten Bereichen
+# § 136a – Richtlinien des Gemeinsamen Bundesausschusses zur Qualitätssicherung in ausgewählten Bereichen
 
 (1) Der Gemeinsame Bundesausschuss legt in seinen Richtlinien nach § 136 Absatz 1 geeignete Maßnahmen zur Sicherung der Hygiene in der Versorgung fest und bestimmt insbesondere für die einrichtungsübergreifende Qualitätssicherung der Krankenhäuser Indikatoren zur Beurteilung der Hygienequalität. Er hat die Festlegungen nach Satz 1 erstmalig bis zum 31. Dezember 2016 zu beschließen. Der Gemeinsame Bundesausschuss berücksichtigt bei den Festlegungen etablierte Verfahren zur Erfassung, Auswertung und Rückkopplung von nosokomialen Infektionen, antimikrobiellen Resistenzen und zum Antibiotika-Verbrauch sowie die Empfehlungen der nach § 23 Absatz 1 und 2 des Infektionsschutzgesetzes beim Robert Koch-Institut eingerichteten Kommissionen. Die nach der Einführung mit den Indikatoren nach Satz 1 gemessenen und für eine Veröffentlichung geeigneten Ergebnisse sind in den Qualitätsberichten nach § 136b Absatz 1 Satz 1 Nummer 3 darzustellen. Der Gemeinsame Bundesausschuss soll ihm bereits zugängliche Erkenntnisse zum Stand der Hygiene in den Krankenhäusern unverzüglich in die Qualitätsberichte aufnehmen lassen sowie zusätzliche Anforderungen nach § 136b Absatz 6 zur Verbesserung der Informationen über die Hygiene stellen.
 
@@ -6068,8 +5767,7 @@ Soweit erforderlich erlässt der Gemeinsame Bundesausschuss die notwendigen Durc
 
 Soweit erforderlich erlässt der Gemeinsame Bundesausschuss die notwendigen Durchführungsbestimmungen. § 136 Absatz 2 und 3 gilt entsprechend. Arzneimittel für neuartige Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes dürfen ausschließlich von Leistungserbringern angewendet werden, die die vom Gemeinsamen Bundesausschuss beschlossenen Mindestanforderungen nach den Sätzen 1 bis 3 erfüllen.
 
-
-## § 136b – Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus
+# § 136b – Beschlüsse des Gemeinsamen Bundesausschusses zur Qualitätssicherung im Krankenhaus
 
 (1) Der Gemeinsame Bundesausschuss fasst für zugelassene Krankenhäuser grundsätzlich einheitlich für alle Patientinnen und Patienten auch Beschlüsse über
 
@@ -6101,8 +5799,7 @@ Soweit erforderlich erlässt der Gemeinsame Bundesausschuss die notwendigen Durc
 
 (9) Der Gemeinsame Bundesausschuss hat die Festlegungen zu den Leistungen oder Leistungsbereichen nach Absatz 1 Satz 1 Nummer 5, die sich für eine qualitätsabhängige Vergütung eignen, erstmals bis spätestens zum 31. Dezember 2017 zu beschließen. Qualitätszu- und -abschläge für die Einhaltung oder Nichteinhaltung von Mindestanforderungen nach § 136 Absatz 1 Satz 1 Nummer 2 sind ausgeschlossen. Der Gemeinsame Bundesausschuss regelt ein Verfahren, das den Krankenkassen und den Krankenhäusern ermöglicht, auf der Grundlage der beschlossenen Festlegungen Qualitätszuschläge für außerordentlich gute und Qualitätsabschläge für unzureichende Leistungen zu vereinbaren. Hierfür hat er insbesondere jährlich Bewertungskriterien für außerordentlich gute und unzureichende Qualität zu veröffentlichen, möglichst aktuelle Datenübermittlungen der Krankenhäuser zu den festgelegten Qualitätsindikatoren an das Institut nach § 137a vorzusehen und die Auswertung der Daten sicherzustellen. Die Auswertungsergebnisse sind den Krankenkassen und den Krankenhäusern jeweils zeitnah zur Verfügung zu stellen; dies kann über eine Internetplattform erfolgen. Die Krankenkassen geben in das Informationsangebot nach Satz 5 regelmäßig Angaben ein, welche Krankenhäuser Qualitätszu- oder -abschläge für welche Leistungen oder Leistungsbereiche erhalten; den für die Krankenhausplanung zuständigen Landesbehörden ist der Zugang zu diesen Informationen zu eröffnen.
 
-
-## § 136c – Beschlüsse des Gemeinsamen Bundesausschusses zu Qualitätssicherung und Krankenhausplanung
+# § 136c – Beschlüsse des Gemeinsamen Bundesausschusses zu Qualitätssicherung und Krankenhausplanung
 
 (1) Der Gemeinsame Bundesausschuss beschließt Qualitätsindikatoren zur Struktur-, Prozess- und Ergebnisqualität, die als Grundlage für qualitätsorientierte Entscheidungen der Krankenhausplanung geeignet sind und nach § 6 Absatz 1a des Krankenhausfinanzierungsgesetzes Bestandteil des Krankenhausplans werden. Der Gemeinsame Bundesausschuss übermittelt die Beschlüsse zu diesen planungsrelevanten Qualitätsindikatoren als Empfehlungen an die für die Krankenhausplanung zuständigen Landesbehörden; § 91 Absatz 6 bleibt unberührt.
 
@@ -6132,13 +5829,11 @@ Zu gewährleisten ist, dass es sich nicht um Aufgaben handelt, die bereits durch
 
 (6) Für Beschlüsse nach den Absätzen 1 bis 5 gilt § 94 entsprechend.
 
-
-## § 136d – Evaluation und Weiterentwicklung der Qualitätssicherung durch den Gemeinsamen Bundesausschuss
+# § 136d – Evaluation und Weiterentwicklung der Qualitätssicherung durch den Gemeinsamen Bundesausschuss
 
 Der Gemeinsame Bundesausschuss hat den Stand der Qualitätssicherung im Gesundheitswesen festzustellen, sich daraus ergebenden Weiterentwicklungsbedarf zu benennen, eingeführte Qualitätssicherungsmaßnahmen auf ihre Wirksamkeit hin zu bewerten und Empfehlungen für eine an einheitlichen Grundsätzen ausgerichtete sowie sektoren- und berufsgruppenübergreifende Qualitätssicherung im Gesundheitswesen einschließlich ihrer Umsetzung zu erarbeiten. Er erstellt in regelmäßigen Abständen einen Bericht über den Stand der Qualitätssicherung.
 
-
-## § 137 – Durchsetzung und Kontrolle der Qualitätsanforderungen des Gemeinsamen Bundesausschusses
+# § 137 – Durchsetzung und Kontrolle der Qualitätsanforderungen des Gemeinsamen Bundesausschusses
 
 (1) Der Gemeinsame Bundesausschuss hat zur Förderung der Qualität ein gestuftes System von Folgen der Nichteinhaltung von Qualitätsanforderungen nach den §§ 136 bis 136c festzulegen. Er ist ermächtigt, neben Maßnahmen zur Beratung und Unterstützung bei der Qualitätsverbesserung je nach Art und Schwere von Verstößen gegen wesentliche Qualitätsanforderungen angemessene Durchsetzungsmaßnahmen vorzusehen. Solche Maßnahmen können insbesondere sein
 
@@ -6156,8 +5851,7 @@ Die Maßnahmen sind verhältnismäßig zu gestalten und anzuwenden. Der Gemeinsa
 
 (3) Der Gemeinsame Bundesausschuss regelt in einer Richtlinie die Einzelheiten zu den Kontrollen des Medizinischen Dienstes der Krankenversicherung nach § 275a, die durch Anhaltspunkte begründet sein müssen,, die die Einhaltung der Qualitätsanforderungen nach § 136 Absatz 1 Satz 1 Nummer 2 oder § 136a Absatz 5 zum Gegenstand haben oder als Stichprobenprüfungen erforderlich sind. Er trifft insbesondere Festlegungen, welche Stellen die Kontrollen beauftragen, welche Anhaltspunkte Kontrollen auch unangemeldet rechtfertigen, zu Art, Umfang und zum Verfahren der Kontrollen sowie zum Umgang mit den Ergebnissen und zu deren Folgen. Die Krankenkassen und die die Kontrollen beauftragenden Stellen sind befugt und verpflichtet, die für das Verfahren zur Durchführung von Stichprobenprüfungen erforderlichen einrichtungsbezogenen Daten an die vom Gemeinsamen Bundesausschuss zur Auswahl der zu prüfenden Leistungserbringer bestimmte Stelle zu übermitteln, und diese Stelle ist befugt, die ihr übermittelten Daten zu diesem Zweck zu verarbeiten, soweit dies in der Richtlinie nach Satz 1 vorgesehen ist. Der Gemeinsame Bundesausschuss hat bei den Festlegungen nach Satz 2 vorzusehen, dass die nach Absatz 1 Satz 5 für die Durchsetzung der Qualitätsanforderungen zuständigen Stellen zeitnah einrichtungsbezogen über die Prüfergebnisse informiert werden. Er legt fest, in welchen Fällen der Medizinische Dienst der Krankenversicherung die Prüfergebnisse wegen erheblicher Verstöße gegen Qualitätsanforderungen unverzüglich einrichtungsbezogen an Dritte, insbesondere an jeweils zuständige Behörden der Länder zu übermitteln hat. Die Festlegungen des Gemeinsamen Bundesausschusses nach den Sätzen 1 und 2 sollen eine möglichst aufwandsarme Durchführung der Kontrollen nach § 275a unterstützen.
 
-
-## § 137a – Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
+# § 137a – Institut für Qualitätssicherung und Transparenz im Gesundheitswesen
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 gründet ein fachlich unabhängiges, wissenschaftliches Institut für Qualitätssicherung und Transparenz im Gesundheitswesen. Hierzu errichtet er eine Stiftung des privaten Rechts, die Trägerin des Instituts ist.
 
@@ -6221,15 +5915,13 @@ In den Fällen, in denen weitere Einrichtungen an der Durchführung der verpflic
 
 (11) Der Gemeinsame Bundesausschuss beauftragt das Institut, die bei den verpflichtenden Maßnahmen der Qualitätssicherung nach § 136 Absatz 1 Satz 1 Nummer 1 erhobenen Daten den für die Krankenhausplanung zuständigen Landesbehörden oder von diesen bestimmten Stellen auf Antrag für konkrete Zwecke der qualitätsorientierten Krankenhausplanung oder ihrer Weiterentwicklung, soweit erforderlich auch einrichtungsbezogen sowie versichertenbezogen, in pseudonymisierter Form zu übermitteln. Die Landesbehörde hat ein berechtigtes Interesse an der Verarbeitung der Daten darzulegen und sicherzustellen, dass die Daten nur für die im Antrag genannten konkreten Zwecke verarbeitet werden. Eine Übermittlung der Daten durch die Landesbehörden oder von diesen bestimmten Stellen an Dritte ist nicht zulässig. In dem Antrag ist der Tag, bis zu dem die übermittelten Daten aufbewahrt werden dürfen, genau zu bezeichnen. Absatz 10 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 137b – Aufträge des Gemeinsamen Bundesausschusses an das Institut nach § 137a
+# § 137b – Aufträge des Gemeinsamen Bundesausschusses an das Institut nach § 137a
 
 (1) Der Gemeinsame Bundesausschuss beschließt zur Entwicklung und Durchführung der Qualitätssicherung sowie zur Verbesserung der Transparenz über die Qualität der ambulanten und stationären Versorgung Aufträge nach § 137a Absatz 3 an das Institut nach § 137a. Soweit hierbei personenbezogene Daten verarbeitet werden sollen, gilt § 299.
 
 (2) Das Institut nach § 137a leitet die Arbeitsergebnisse der Aufträge nach § 137a Absatz 3 Satz 1 und 2 und Absatz 4 Satz 2 dem Gemeinsamen Bundesausschuss als Empfehlungen zu. Der Gemeinsame Bundesausschuss hat die Empfehlungen im Rahmen seiner Aufgabenstellung zu berücksichtigen.
 
-
-## § 137c – Bewertung von Untersuchungs- und Behandlungsmethoden im Krankenhaus
+# § 137c – Bewertung von Untersuchungs- und Behandlungsmethoden im Krankenhaus
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 überprüft auf Antrag eines Unparteiischen nach § 91 Absatz 2 Satz 1, des Spitzenverbandes Bund der Krankenkassen, der Deutschen Krankenhausgesellschaft oder eines Bundesverbandes der Krankenhausträger Untersuchungs- und Behandlungsmethoden, die zu Lasten der gesetzlichen Krankenkassen im Rahmen einer Krankenhausbehandlung angewandt werden oder angewandt werden sollen, daraufhin, ob sie für eine ausreichende, zweckmäßige und wirtschaftliche Versorgung der Versicherten unter Berücksichtigung des allgemein anerkannten Standes der medizinischen Erkenntnisse erforderlich sind. Ergibt die Überprüfung, dass der Nutzen einer Methode nicht hinreichend belegt ist und sie nicht das Potenzial einer erforderlichen Behandlungsalternative bietet, insbesondere weil sie schädlich oder unwirksam ist, erlässt der Gemeinsame Bundesausschuss eine entsprechende Richtlinie, wonach die Methode im Rahmen einer Krankenhausbehandlung nicht mehr zulasten der Krankenkassen erbracht werden darf. Ergibt die Überprüfung, dass der Nutzen einer Methode noch nicht hinreichend belegt ist, sie aber das Potenzial einer erforderlichen Behandlungsalternative bietet, beschließt der Gemeinsame Bundesausschuss eine Richtlinie zur Erprobung nach § 137e. Nach Abschluss der Erprobung erlässt der Gemeinsame Bundesausschuss eine Richtlinie, wonach die Methode im Rahmen einer Krankenhausbehandlung nicht mehr zulasten der Krankenkassen erbracht werden darf, wenn die Überprüfung unter Hinzuziehung der durch die Erprobung gewonnenen Erkenntnisse ergibt, dass die Methode nicht den Kriterien nach Satz 1 entspricht. Die Beschlussfassung über die Annahme eines Antrags nach Satz 1 muss spätestens drei Monate nach Antragseingang erfolgen. Das sich anschließende Methodenbewertungsverfahren ist in der Regel innerhalb von spätestens drei Jahren abzuschließen, es sei denn, dass auch bei Straffung des Verfahrens im Einzelfall eine längere Verfahrensdauer erforderlich ist.
 
@@ -6237,8 +5929,7 @@ In den Fällen, in denen weitere Einrichtungen an der Durchführung der verpflic
 
 (3) Untersuchungs- und Behandlungsmethoden, zu denen der Gemeinsame Bundesausschuss bisher keine Entscheidung nach Absatz 1 getroffen hat, dürfen im Rahmen einer Krankenhausbehandlung angewandt und von den Versicherten beansprucht werden, wenn sie das Potential einer erforderlichen Behandlungsalternative bieten und ihre Anwendung nach den Regeln der ärztlichen Kunst erfolgt, sie also insbesondere medizinisch indiziert und notwendig ist. Dies gilt sowohl für Methoden, für die noch kein Antrag nach Absatz 1 Satz 1 gestellt wurde, als auch für Methoden, deren Bewertung nach Absatz 1 noch nicht abgeschlossen ist.
 
-
-## § 137d – Qualitätssicherung bei der ambulanten und stationären Vorsorge oder Rehabilitation
+# § 137d – Qualitätssicherung bei der ambulanten und stationären Vorsorge oder Rehabilitation
 
 (1) Für stationäre Rehabilitationseinrichtungen, mit denen ein Vertrag nach § 111 oder § 111a und für ambulante Rehabilitationseinrichtungen, mit denen ein Vertrag über die Erbringung ambulanter Leistungen zur medizinischen Rehabilitation nach § 111c Absatz 1 besteht, vereinbart der Spitzenverband Bund der Krankenkassen auf der Grundlage der Empfehlungen nach § 37 Absatz 1 des Neunten Buches mit den für die Wahrnehmung der Interessen der ambulanten und stationären Rehabilitationseinrichtungen und der Einrichtungen des Müttergenesungswerks oder gleichartiger Einrichtungen auf Bundesebene maßgeblichen Spitzenorganisationen die Maßnahmen der Qualitätssicherung nach § 135a Abs. 2 Nr. 1. Die Kosten der Auswertung von Maßnahmen der einrichtungsübergreifenden Qualitätssicherung tragen die Krankenkassen anteilig nach ihrer Belegung der Einrichtungen oder Fachabteilungen. Das einrichtungsinterne Qualitätsmanagement und die Verpflichtung zur Zertifizierung für stationäre Rehabilitationseinrichtungen richten sich nach § 37 des Neunten Buches.
 
@@ -6248,8 +5939,7 @@ In den Fällen, in denen weitere Einrichtungen an der Durchführung der verpflic
 
 (4) Die Vertragspartner haben durch geeignete Maßnahmen sicherzustellen, dass die Anforderungen an die Qualitätssicherung für die ambulante und stationäre Vorsorge und Rehabilitation einheitlichen Grundsätzen genügen, und die Erfordernisse einer sektor- und berufsgruppenübergreifenden Versorgung angemessen berücksichtigt sind. Bei Vereinbarungen nach den Absätzen 1 und 2 ist der Bundesärztekammer, der Bundespsychotherapeutenkammer und der Deutschen Krankenhausgesellschaft Gelegenheit zur Stellungnahme zu geben.
 
-
-## § 137e – Erprobung von Untersuchungs- und Behandlungsmethoden
+# § 137e – Erprobung von Untersuchungs- und Behandlungsmethoden
 
 (1) Gelangt der Gemeinsame Bundesausschuss bei der Prüfung von Untersuchungs- und Behandlungsmethoden nach § 135 oder § 137c zu der Feststellung, dass eine Methode das Potenzial einer erforderlichen Behandlungsalternative bietet, ihr Nutzen aber noch nicht hinreichend belegt ist, muss der Gemeinsame Bundesausschuss unter Aussetzung seines Bewertungsverfahrens gleichzeitig eine Richtlinie zur Erprobung beschließen, um die notwendigen Erkenntnisse für die Bewertung des Nutzens der Methode zu gewinnen. Aufgrund der Richtlinie wird die Untersuchungs- oder Behandlungsmethode in einem befristeten Zeitraum im Rahmen der Krankenbehandlung oder der Früherkennung zulasten der Krankenkassen erbracht.
 
@@ -6267,8 +5957,7 @@ In den Fällen, in denen weitere Einrichtungen an der Durchführung der verpflic
 
 (8) Der Gemeinsame Bundesausschuss berät Hersteller von Medizinprodukten und sonstige Unternehmen im Sinne von Absatz 7 Satz 1 zu den Voraussetzungen der Erbringung einer Untersuchungs- oder Behandlungsmethode zulasten der Krankenkassen, zu dem Verfahren der Erprobung sowie zu der Möglichkeit, anstelle des Gemeinsamen Bundesausschusses eine unabhängige wissenschaftliche Institution auf eigene Kosten mit der wissenschaftlichen Begleitung und Auswertung der Erprobung zu beauftragen. Das Nähere einschließlich der Erstattung der für diese Beratung entstandenen Kosten ist in der Verfahrensordnung zu regeln.
 
-
-## § 137f – Strukturierte Behandlungsprogramme bei chronischen Krankheiten
+# § 137f – Strukturierte Behandlungsprogramme bei chronischen Krankheiten
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 legt in Richtlinien nach Maßgabe von Satz 2 geeignete chronische Krankheiten fest, für die strukturierte Behandlungsprogramme entwickelt werden sollen, die den Behandlungsablauf und die Qualität der medizinischen Versorgung chronisch Kranker verbessern. Bei der Auswahl der chronischen Krankheiten sind insbesondere die folgenden Kriterien zu berücksichtigen:
 
@@ -6316,8 +6005,7 @@ Soweit diese Anforderungen Inhalte der ärztlichen Therapie betreffen, schränke
 
 § 137f: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 18.7.2005 I 2888 - 2 BvF 2/01 -
 
-
-## § 137g – Zulassung strukturierter Behandlungsprogramme
+# § 137g – Zulassung strukturierter Behandlungsprogramme
 
 (1) Das Bundesamt für Soziale Sicherung hat auf Antrag einer oder mehrerer Krankenkassen oder eines Verbandes der Krankenkassen die Zulassung von Programmen nach § 137f Abs. 1 zu erteilen, wenn die Programme und die zu ihrer Durchführung geschlossenen Verträge die in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f und in der Rechtsverordnung nach § 266 Absatz 8 Satz 1 genannten Anforderungen erfüllen. Dabei kann es wissenschaftliche Sachverständige hinzuziehen. Die Zulassung kann mit Auflagen und Bedingungen versehen werden. Die Zulassung ist innerhalb von drei Monaten zu erteilen. Die Frist nach Satz 4 gilt als gewahrt, wenn die Zulassung aus Gründen, die von der Krankenkasse zu vertreten sind, nicht innerhalb dieser Frist erteilt werden kann. Die Zulassung wird mit dem Tage wirksam, an dem die in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f und in der Rechtsverordnung nach § 266 Absatz 8 Satz 1 genannten Anforderungen erfüllt und die Verträge nach Satz 1 geschlossen sind, frühestens mit dem Tag der Antragstellung, nicht jedoch vor dem Inkrafttreten dieser Richtlinien und Verordnungsregelungen. Für die Bescheiderteilung sind Kosten deckende Gebühren zu erheben. Die Kosten werden nach dem tatsächlich entstandenen Personal- und Sachaufwand berechnet. Zusätzlich zu den Personalkosten entstehende Verwaltungsausgaben sind den Kosten in ihrer tatsächlichen Höhe hinzuzurechnen. Soweit dem Bundesamt für Soziale Sicherung im Zusammenhang mit der Zulassung von Programmen nach § 137f Abs. 1 notwendige Vorhaltekosten entstehen, die durch die Gebühren nach Satz 7 nicht gedeckt sind, sind diese aus dem Gesundheitsfonds zu finanzieren. Das Nähere über die Berechnung der Kosten nach den Sätzen 8 und 9 und über die Berücksichtigung der Kosten nach Satz 10 im Risikostrukturausgleich regelt das Bundesministerium für Gesundheit ohne Zustimmung des Bundesrates in der Rechtsverordnung nach § 266 Absatz 8 Satz 1. In der Rechtsverordnung nach § 266 Absatz 8 Satz 1 kann vorgesehen werden, dass die tatsächlich entstandenen Kosten nach den Sätzen 8 und 9 auf der Grundlage pauschalierter Kostensätze zu berechnen sind. Klagen gegen die Gebührenbescheide des Bundesamtes für Soziale Sicherung haben keine aufschiebende Wirkung.
 
@@ -6327,8 +6015,7 @@ Soweit diese Anforderungen Inhalte der ärztlichen Therapie betreffen, schränke
 
 § 137g: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 18.7.2005 I 2888 - 2 BvF 2/01 -
 
-
-## § 137h – Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse
+# § 137h – Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse
 
 (1) Wird hinsichtlich einer neuen Untersuchungs- oder Behandlungsmethode, deren technische Anwendung maßgeblich auf dem Einsatz eines Medizinprodukts mit hoher Risikoklasse beruht, erstmalig eine Anfrage nach § 6 Absatz 2 Satz 3 des Krankenhausentgeltgesetzes gestellt, hat das anfragende Krankenhaus im Einvernehmen mit dem Hersteller des Medizinprodukts dem Gemeinsamen Bundesausschuss zugleich Informationen über den Stand der wissenschaftlichen Erkenntnisse zu dieser Methode sowie zu der Anwendung des Medizinprodukts, insbesondere Daten zum klinischen Nutzen und vollständige Daten zu durchgeführten klinischen Studien mit dem Medizinprodukt, zu übermitteln. Nur wenn die Methode ein neues theoretisch-wissenschaftliches Konzept aufweist, erfolgt eine Bewertung nach Satz 4. Vor der Bewertung gibt der Gemeinsame Bundesausschuss innerhalb von zwei Wochen nach Eingang der Informationen im Wege einer öffentlichen Bekanntmachung im Internet allen Krankenhäusern, die eine Erbringung der neuen Untersuchungs- oder Behandlungsmethode vorsehen, sowie weiteren betroffenen Medizinprodukteherstellern in der Regel einen Monat Gelegenheit, weitere Informationen im Sinne von Satz 1 an ihn zu übermitteln. Der Gemeinsame Bundesausschuss nimmt auf Grundlage der übermittelten Informationen innerhalb von drei Monaten eine Bewertung vor, ob
 
@@ -6352,8 +6039,7 @@ Für den Beschluss des Gemeinsamen Bundesausschusses nach Satz 4 gilt § 94 Absa
 
 (7) Klagen bei Streitigkeiten nach dieser Vorschrift haben keine aufschiebende Wirkung. Ein Vorverfahren findet nicht statt.
 
-
-## § 137i – Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern; Verordnungsermächtigung
+# § 137i – Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern; Verordnungsermächtigung
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft überprüfen bis zum 31. August 2019 im Benehmen mit dem Verband der Privaten Krankenversicherung die in § 6 der Pflegepersonaluntergrenzen-Verordnung festgelegten Pflegepersonaluntergrenzen und vereinbaren im Benehmen mit dem Verband der Privaten Krankenversicherung mit Wirkung zum 1. Januar 2020 eine Weiterentwicklung der in der Pflegepersonaluntergrenzen-Verordnung festgelegten pflegesensitiven Bereiche in Krankenhäusern sowie der zugehörigen Pflegepersonaluntergrenzen. Darüber hinaus
 
@@ -6389,8 +6075,7 @@ Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen dem Spitze
 
 (6) Die Vertragsparteien nach Absatz 1 Satz 1 legen dem Deutschen Bundestag über das Bundesministerium für Gesundheit bis zum 31. Dezember 2022 einen wissenschaftlich evaluierten Bericht über die Auswirkungen der festgelegten Pflegepersonaluntergrenzen in den pflegesensitiven Bereichen in Krankenhäusern vor.
 
-
-## § 137j – Pflegepersonalquotienten, Verordnungsermächtigung
+# § 137j – Pflegepersonalquotienten, Verordnungsermächtigung
 
 (1) Zur Verbesserung der Pflegepersonalausstattung der Krankenhäuser und Sicherung der pflegerischen Versorgungsqualität ermittelt das Institut für das Entgeltsystem im Krankenhaus jährlich, erstmals zum 31. Mai 2020, für jedes nach § 108 zugelassene Krankenhaus einen Pflegepersonalquotienten, der das Verhältnis der Anzahl der Vollzeitkräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen zu dem Pflegeaufwand eines Krankenhauses beschreibt. Der Pflegepersonalquotient ist für jeden Standort eines Krankenhauses zu ermitteln. Der Standort eines Krankenhauses bestimmt sich nach § 2 der zwischen dem Spitzenverband Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft gemäß § 2a Absatz 1 des Krankenhausfinanzierungsgesetzes getroffenen Vereinbarung über die Definition von Standorten der Krankenhäuser und ihrer Ambulanzen vom 29. August 2017, die auf der Internetseite der Deutschen Krankenhausgesellschaft veröffentlicht ist. Für die Zahl der in Satz 1 genannten Vollzeitkräfte sind die dem Institut nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes übermittelten Daten zu Grunde zu legen, mit Ausnahme der den Mindestvorgaben zu Personalausstattung nach § 136a Absatz 2 Satz 2 unterfallenden Vollzeitkräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen. Für die Ermittlung des Pflegeaufwands erstellt das Institut bis zum 31. Mai 2020 einen Katalog zur Risikoadjustierung des Pflegeaufwands, mit dem für die Entgelte nach § 17b Absatz 1 des Krankenhausfinanzierungsgesetzes tagesbezogen die durchschnittlichen pflegerischen Leistungen abbildbar sind. Das Institut aktualisiert den Katalog jährlich und veröffentlicht ihn auf seiner Internetseite. Für die Ermittlung des Pflegeaufwands ermittelt das Institut auf der Grundlage dieses Katalogs aus den ihm nach § 21 Absatz 2 des Krankenhausentgeltgesetzes übermittelten Daten für jeden Standort eines Krankenhauses die Summe seiner Bewertungsrelationen. Das Institut übermittelt eine vergleichende Zusammenstellung der Pflegepersonalquotienten der einzelnen Krankenhäuser nach Satz 1 an das Bundesministerium für Gesundheit sowie an die Vertragsparteien nach § 9 des Krankenhausentgeltgesetzes. Die Vertragsparteien nach § 9 des Krankenhausentgeltgesetzes leiten die Zusammenstellung an die betroffenen Vertragsparteien nach § 11 des Krankenhausentgeltgesetzes und an die jeweils zuständigen Landesbehörden weiter.
 
@@ -6406,13 +6091,11 @@ Das Bundesministerium für Gesundheit prüft spätestens nach Ablauf von drei Ja
 
 (3) Für die Aufgaben nach Absatz 1 gilt das Institut für das Entgeltsystem im Krankenhaus als von den Vertragsparteien nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes beauftragt. Die notwendigen Aufwendungen des Instituts für die Erfüllung dieser Aufgaben sind aus dem Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 des Krankenhausfinanzierungsgesetzes zu finanzieren, der erforderlichenfalls entsprechend zu erhöhen ist.
 
-
-## § 138 – Neue Heilmittel
+# § 138 – Neue Heilmittel
 
 Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte dürfen neue Heilmittel nur verordnen, wenn der Gemeinsame Bundesausschuss zuvor ihren therapeutischen Nutzen anerkannt und in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr. 6 Empfehlungen für die Sicherung der Qualität bei der Leistungserbringung abgegeben hat.
 
-
-## § 139 – Hilfsmittelverzeichnis, Qualitätssicherung bei Hilfsmitteln
+# § 139 – Hilfsmittelverzeichnis, Qualitätssicherung bei Hilfsmitteln
 
 (1) Der Spitzenverband Bund der Krankenkassen erstellt ein systematisch strukturiertes Hilfsmittelverzeichnis. In dem Verzeichnis sind von der Leistungspflicht umfasste Hilfsmittel aufzuführen. Das Hilfsmittelverzeichnis ist im Bundesanzeiger bekannt zu machen.
 
@@ -6436,8 +6119,7 @@ Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte dürfen neue Heil
 
 (11) Vor einer Weiterentwicklung und Änderungen der Systematik und der Anforderungen nach Absatz 2 ist den maßgeblichen Spitzenorganisationen der betroffenen Hersteller und Leistungserbringer auf Bundesebene unter Übermittlung der hierfür erforderlichen Informationen innerhalb einer angemessenen Frist Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen. Der Spitzenverband Bund der Krankenkassen kann auch Stellungnahmen von medizinischen Fachgesellschaften sowie Sachverständigen aus Wissenschaft und Technik einholen. Soweit vor einer Weiterentwicklung und Änderungen der Systematik und der Anforderungen nach Absatz 2 mögliche Berührungspunkte des voraussichtlichen Fortschreibungsbedarfs mit digitalen oder technischen Assistenzsystemen festgestellt werden, ist zusätzlich mindestens eine Stellungnahme eines Sachverständigen oder unabhängigen Forschungsinstituts aus dem Bereich der Technik einzuholen; die Stellungnahmen sind in die Entscheidung einzubeziehen.
 
-
-## § 139a – Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
+# § 139a – Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 gründet ein fachlich unabhängiges, rechtsfähiges, wissenschaftliches Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen und ist dessen Träger. Hierzu kann eine Stiftung des privaten Rechts errichtet werden.
 
@@ -6467,8 +6149,7 @@ Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte dürfen neue Heil
 
 (6) Zur Sicherstellung der fachlichen Unabhängigkeit des Instituts haben die Beschäftigten vor ihrer Einstellung alle Beziehungen zu Interessenverbänden, Auftragsinstituten, insbesondere der pharmazeutischen Industrie und der Medizinprodukteindustrie, einschließlich Art und Höhe von Zuwendungen offen zu legen.
 
-
-## § 139b – Aufgabendurchführung
+# § 139b – Aufgabendurchführung
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 beauftragt das Institut mit Arbeiten nach § 139a Abs. 3. Die den Gemeinsamen Bundesausschuss bildenden Institutionen, das Bundesministerium für Gesundheit und die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen sowie die oder der Beauftragte der Bundesregierung für die Belange der Patientinnen und Patienten können die Beauftragung des Instituts beim Gemeinsamen Bundesausschuss beantragen.
 
@@ -6482,18 +6163,15 @@ Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte dürfen neue Heil
 
 (6) Die Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften kann dem Bundesministerium für Gesundheit für Beauftragungen des Instituts mit Recherchen nach § 139a Absatz 3 Nummer 3 Themen zur Entwicklung oder Weiterentwicklung von Leitlinien vorschlagen; sie hat den Förderbedarf für diese Leitlinienthemen zu begründen. Das Bundesministerium für Gesundheit wählt Themen für eine Beauftragung des Instituts mit Evidenzrecherchen nach § 139a Absatz 3 Nummer 3 aus. Für die Beauftragung des Instituts durch das Bundesministerium für Gesundheit können jährlich bis zu 2 Millionen Euro aus Mitteln zur Finanzierung des Instituts nach § 139c aufgewendet werden. Absatz 2 Satz 2 findet keine Anwendung.
 
-
-## § 139c – Finanzierung
+# § 139c – Finanzierung
 
 Die Finanzierung des Instituts nach § 139a Abs. 1 erfolgt jeweils zur Hälfte durch die Erhebung eines Zuschlags für jeden abzurechnenden Krankenhausfall und durch die zusätzliche Anhebung der Vergütungen für die ambulante vertragsärztliche und vertragszahnärztliche Versorgung nach den §§ 85 und 87a um einen entsprechenden Vomhundertsatz. Die im stationären Bereich erhobenen Zuschläge werden in der Rechnung des Krankenhauses gesondert ausgewiesen; sie gehen nicht in den Gesamtbetrag oder die Erlösausgleiche nach dem Krankenhausentgeltgesetz oder der Bundespflegesatzverordnung ein. Der Zuschlag für jeden Krankenhausfall, die Anteile der Kassenärztlichen und der Kassenzahnärztlichen Vereinigungen sowie das Nähere zur Weiterleitung dieser Mittel an eine zu benennende Stelle werden durch den Gemeinsamen Bundesausschuss festgelegt.
 
-
-## § 139d – Erprobung von Leistungen und Maßnahmen zur Krankenbehandlung
+# § 139d – Erprobung von Leistungen und Maßnahmen zur Krankenbehandlung
 
 Gelangt der Gemeinsame Bundesausschuss bei seinen Beratungen über eine Leistung oder Maßnahme zur Krankenbehandlung, die kein Arzneimittel ist und die nicht der Bewertung nach § 135 oder § 137c unterliegt, zu der Feststellung, dass sie das Potential einer erforderlichen Behandlungsalternative bietet, ihr Nutzen aber noch nicht hinreichend belegt ist, kann der Gemeinsame Bundesausschuss unter Aussetzung seines Bewertungsverfahrens im Einzelfall und nach Maßgabe der hierzu in seinen Haushalt eingestellten Mittel eine wissenschaftliche Untersuchung zur Erprobung der Leistung oder Maßnahme in Auftrag geben oder sich an einer solchen beteiligen. Das Nähere regelt der Gemeinsame Bundesausschuss in seiner Verfahrensordnung.
 
-
-## § 139e – Verzeichnis für digitale Gesundheitsanwendungen; Verordnungsermächtigung
+# § 139e – Verzeichnis für digitale Gesundheitsanwendungen; Verordnungsermächtigung
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte führt ein Verzeichnis erstattungsfähiger digitaler Gesundheitsanwendungen nach § 33a. Das Verzeichnis ist nach Gruppen von digitalen Gesundheitsanwendungen zu strukturieren, die in ihren Funktionen und Anwendungsbereichen vergleichbar sind. Das Verzeichnis und seine Änderungen sind vom Bundesinstitut für Arzneimittel und Medizinprodukte im Bundesanzeiger bekannt zu machen und im Internet zu veröffentlichen.
 
@@ -6543,15 +6221,13 @@ Der Hersteller hat die nach Absatz 8 Satz 1 veröffentlichten Anzeigeformulare f
 
 Die Regelungen nach Satz 1 Nummer 2 und 3 erfolgen unter Berücksichtigung der Grundsätze der evidenzbasierten Medizin.
 
-
-## § 140 – Eigeneinrichtungen
+# § 140 – Eigeneinrichtungen
 
 (1) Krankenkassen dürfen der Versorgung der Versicherten dienende Eigeneinrichtungen, die am 1. Januar 1989 bestehen, weiterbetreiben. Die Eigeneinrichtungen können nach Art, Umfang und finanzieller Ausstattung an den Versorgungsbedarf unter Beachtung der Landeskrankenhausplanung und der Zulassungsbeschränkungen im vertragsärztlichen Bereich angepasst werden; sie können Gründer von medizinischen Versorgungszentren nach § 95 Abs. 1 sein.
 
 (2) Sie dürfen neue Eigeneinrichtungen nur errichten, soweit sie die Durchführung ihrer Aufgaben bei der Gesundheitsvorsorge und der Rehabilitation auf andere Weise nicht sicherstellen können. Die Krankenkassen oder ihre Verbände dürfen Eigeneinrichtungen auch dann errichten, wenn mit ihnen der Sicherstellungsauftrag nach § 72a Abs. 1 erfüllt werden soll.
 
-
-## § 140a – Besondere Versorgung
+# § 140a – Besondere Versorgung
 
 (1) Die Krankenkassen können Verträge mit den in Absatz 3 genannten Leistungserbringern über eine besondere Versorgung der Versicherten abschließen. Die Verträge ermöglichen eine verschiedene Leistungssektoren übergreifende oder eine interdisziplinär fachübergreifende Versorgung (integrierte Versorgung) sowie besondere Versorgungsaufträge unter Beteiligung der Leistungserbringer oder deren Gemeinschaften. Die Verträge können auch Regelungen enthalten, die die besondere Versorgung regional beschränken. Verträge, die nach den §§ 73a, 73c und 140a in der am 22. Juli 2015 geltenden Fassung geschlossen wurden, sind spätestens bis zum 31. Dezember 2024 durch Verträge nach dieser Vorschrift zu ersetzen oder zu beenden. Soweit die Versorgung der Versicherten nach diesen Verträgen durchgeführt wird, ist der Sicherstellungsauftrag nach § 75 Absatz 1 eingeschränkt. Satz 4 gilt nicht für die Organisation der vertragsärztlichen Versorgung zu den sprechstundenfreien Zeiten.
 
@@ -6565,11 +6241,9 @@ Die Regelungen nach Satz 1 Nummer 2 und 3 erfolgen unter Berücksichtigung der G
 
 3. Pflegekassen und zugelassenen Pflegeeinrichtungen auf der Grundlage des § 92b des Elften Buches,
 
-3a.  
-anderen Leistungsträgern nach § 12 des Ersten Buches und den Leistungserbringern, die nach den für diese Leistungsträger geltenden Bestimmungen zur Versorgung berechtigt sind,
+3a. anderen Leistungsträgern nach § 12 des Ersten Buches und den Leistungserbringern, die nach den für diese Leistungsträger geltenden Bestimmungen zur Versorgung berechtigt sind,
 
-3b.  
-privaten Kranken- und Pflegeversicherungen, um Angebote der besonderen Versorgung für Versicherte in der gesetzlichen und in der privaten Krankenversicherung zu ermöglichen,
+3b. privaten Kranken- und Pflegeversicherungen, um Angebote der besonderen Versorgung für Versicherte in der gesetzlichen und in der privaten Krankenversicherung zu ermöglichen,
 
 4. Praxiskliniken nach § 115 Absatz 2 Satz 1 Nummer 1,
 
@@ -6607,16 +6281,13 @@ Verträge nach Satz 1 können auch mit nicht zur vertragsärztlichen Versorgung 
 
 (6) Für die Bereinigung des Behandlungsbedarfs nach § 87a Absatz 3 Satz 2 gilt § 73b Absatz 7 entsprechend; falls eine Vorabeinschreibung der teilnehmenden Versicherten nicht möglich ist, kann eine rückwirkende Bereinigung vereinbart werden. Die Krankenkasse kann bei Verträgen nach Absatz 1 auf die Bereinigung verzichten, wenn das voraussichtliche Bereinigungsvolumen einer Krankenkasse für einen Vertrag nach Absatz 1 geringer ist als der Aufwand für die Durchführung dieser Bereinigung. Der Bewertungsausschuss hat in seinen Vorgaben gemäß § 87a Absatz 5 Satz 7 zur Bereinigung und zur Ermittlung der kassenspezifischen Aufsatzwerte des Behandlungsbedarfs auch Vorgaben zur Höhe des Schwellenwertes für das voraussichtliche Bereinigungsvolumen, unterhalb dessen von einer basiswirksamen Bereinigung abgesehen werden kann, zu der pauschalen Ermittlung und Übermittlung des voraussichtlichen Bereinigungsvolumens an die Vertragspartner nach § 73b Absatz 7 Satz 1 sowie zu dessen Anrechnung beim Aufsatzwert der betroffenen Krankenkasse zu machen.
 
+# §§ 140b bis 140d – (weggefallen)
 
-## §§ 140b bis 140d – (weggefallen)
-
-
-## § 140e – Verträge mit Leistungserbringern europäischer Staaten
+# § 140e – Verträge mit Leistungserbringern europäischer Staaten
 
 Krankenkassen dürfen zur Versorgung ihrer Versicherten nach Maßgabe des Dritten Kapitels und des dazugehörigen untergesetzlichen Rechts Verträge mit Leistungserbringern nach § 13 Absatz 4 Satz 2 in anderen Mitgliedstaaten der Europäischen Union, in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz abschließen.
 
-
-## § 140f – Beteiligung von Interessenvertretungen der Patientinnen und Patienten
+# § 140f – Beteiligung von Interessenvertretungen der Patientinnen und Patienten
 
 (1) Die für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen sind in Fragen, die die Versorgung betreffen, nach Maßgabe der folgenden Vorschriften zu beteiligen.
 
@@ -6654,13 +6325,11 @@ ein Mitberatungsrecht; die Organisationen benennen hierzu sachkundige Personen. 
 
 (8) Die in der Verordnung nach § 140g genannten oder nach der Verordnung nach § 140g anerkannten Organisationen erhalten für den Aufwand zur Koordinierung ihrer Beteiligungsrechte einen Betrag in Höhe von 120 Euro für jede neu für ein Gremium benannte sachkundige Person. Der Anspruch richtet sich gegen das jeweilige Gremium, in dem die sachkundige Person tätig ist. Der Anspruch ist durch den von den anerkannten Organisationen gebildeten Koordinierungsausschuss geltend zu machen.
 
-
-## § 140g – Verordnungsermächtigung
+# § 140g – Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres zu den Voraussetzungen der Anerkennung der für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen Organisationen auf Bundesebene, insbesondere zu den Erfordernissen an die Organisationsform und die Offenlegung der Finanzierung, sowie zum Verfahren der Patientenbeteiligung zu regeln.
 
-
-## § 140h – Amt, Aufgabe und Befugnisse der oder des Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten
+# § 140h – Amt, Aufgabe und Befugnisse der oder des Beauftragten der Bundesregierung für die Belange der Patientinnen und Patienten
 
 (1) Die Bundesregierung bestellt eine Beauftragte oder einen Beauftragten für die Belange der Patientinnen und Patienten. Der beauftragten Person ist die für die Erfüllung ihrer Aufgabe notwendige Personal- und Sachausstattung zur Verfügung zu stellen. Das Amt endet, außer im Falle der Entlassung, mit dem Zusammentreten eines neuen Bundestages.
 
@@ -6668,13 +6337,11 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung m
 
 (3) Zur Wahrnehmung der Aufgabe nach Absatz 2 beteiligen die Bundesministerien die beauftragte Person bei allen Gesetzes-, Verordnungs- und sonstigen wichtigen Vorhaben, soweit sie Fragen der Rechte und des Schutzes von Patientinnen und Patienten behandeln oder berühren. Alle Bundesbehörden und sonstigen öffentlichen Stellen im Bereich des Bundes unterstützen die beauftragte Person bei der Erfüllung der Aufgabe.
 
-
-## § 141
+# § 141
 
 (weggefallen)
 
-
-## § 142 – Sachverständigenrat
+# § 142 – Sachverständigenrat
 
 (1) Das Bundesministerium für Gesundheit beruft einen Sachverständigenrat zur Begutachtung der Entwicklung im Gesundheitswesen. Zur Unterstützung der Arbeiten des Sachverständigenrates richtet das Bundesministerium für Gesundheit eine Geschäftsstelle ein.
 
@@ -6682,8 +6349,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung m
 
 (3) Der Sachverständigenrat erstellt das Gutachten im Abstand von zwei Jahren und leitet es dem Bundesministerium für Gesundheit in der Regel zum 15. April eines Jahres zu. Das Bundesministerium für Gesundheit legt das Gutachten den gesetzgebenden Körperschaften des Bundes unverzüglich vor.
 
-
-## § 143 – Ortskrankenkassen
+# § 143 – Ortskrankenkassen
 
 (1) Ortskrankenkassen bestehen für abgegrenzte Regionen.
 
@@ -6691,8 +6357,7 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung m
 
 (3) Die betroffenen Länder können durch Staatsvertrag vereinbaren, dass sich die Region über mehrere Länder erstreckt.
 
-
-## § 144 – Betriebskrankenkassen
+# § 144 – Betriebskrankenkassen
 
 (1) Betriebskrankenkassen sind Krankenkassen, die durch den Arbeitgeber für einen oder mehrere Betriebe errichtet wurden.
 
@@ -6700,30 +6365,25 @@ Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung m
 
 (3) Falls die Satzung eine Regelung nach Absatz 2 Satz 1 enthält, gilt diese für die Gebiete der Länder, in denen Betriebe bestehen und die Zuständigkeit für diese Betriebe sich aus der Satzung der Betriebskrankenkasse ergibt; soweit eine Satzungsregelung am 31. März 2007 für ein darüber hinausgehendes Gebiet gegolten hat, bleibt dies unberührt.
 
-
-## § 145 – Innungskrankenkassen
+# § 145 – Innungskrankenkassen
 
 (1) Innungskrankenkassen sind Krankenkassen, die durch eine Handwerksinnung allein oder gemeinsam mit anderen Handwerksinnungen für die Handwerksbetriebe ihrer Mitglieder, die in die Handwerksrolle eingetragen sind, errichtet wurden. § 144 Absatz 3 gilt entsprechend.
 
 (2) Eine Satzungsregelung nach § 173 Absatz 2 Satz 1 Nummer 4 in der bis zum 31. März 2020 geltenden Fassung darf das Wahlrecht nicht auf bestimmte Personen beschränken oder von Bedingungen abhängig machen und kann nicht widerrufen werden.
 
-
-## § 146 – Landwirtschaftliche Krankenkasse
+# § 146 – Landwirtschaftliche Krankenkasse
 
 Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als Träger der Krankenversicherung der Landwirte führt die Krankenversicherung nach dem Zweiten Gesetz über die Krankenversicherung der Landwirte durch; sie führt in Angelegenheiten der Krankenversicherung die Bezeichnung landwirtschaftliche Krankenkasse.
 
-
-## § 147 – Deutsche Rentenversicherung Knappschaft-Bahn-See
+# § 147 – Deutsche Rentenversicherung Knappschaft-Bahn-See
 
 Die Deutsche Rentenversicherung Knappschaft-Bahn-See führt die Krankenversicherung nach den Vorschriften dieses Buches durch.
 
-
-## § 148 – Ersatzkassen
+# § 148 – Ersatzkassen
 
 Ersatzkassen sind am 31. Dezember 1992 bestehende Krankenkassen, bei denen Versicherte die Mitgliedschaft bis zum 31. Dezember 1995 durch Ausübung des Wahlrechts erlangen konnten. Der Zuständigkeitsbereich von Ersatzkrankenkassen erstreckt sich auf das gesamte Bundesgebiet.
 
-
-## § 149 – Errichtung von Betriebskrankenkassen
+# § 149 – Errichtung von Betriebskrankenkassen
 
 (1) Der Arbeitgeber kann für einen oder mehrere Betriebe eine Betriebskrankenkasse errichten, wenn
 
@@ -6737,20 +6397,17 @@ Ersatzkassen sind am 31. Dezember 1992 bestehende Krankenkassen, bei denen Versi
 
 (4) Absatz 1 gilt nicht für Betriebe, die als Leistungserbringer zugelassen sind oder deren maßgebliche Zielsetzung die Wahrnehmung wirtschaftlicher Interessen von Leistungserbringern ist, soweit sie nach diesem Buch Verträge mit den Krankenkassen oder deren Verbänden zu schließen haben. Satz 1 gilt nicht für Leistungserbringer, die nicht überwiegend Leistungen auf Grund von Verträgen mit den Krankenkassen oder deren Verbänden erbringen.
 
-
-## § 150 – Verfahren bei Errichtung
+# § 150 – Verfahren bei Errichtung
 
 (1) Die Errichtung der Betriebskrankenkasse bedarf der Genehmigung der nach der Errichtung zuständigen Aufsichtsbehörde. Die Genehmigung darf nur versagt werden, wenn eine der in § 149 Absatz 1 genannten Voraussetzungen nicht vorliegt oder die Krankenkasse zum Errichtungszeitpunkt nicht 2 500 Mitglieder haben wird.
 
 (2) Der Arbeitgeber hat dem Antrag auf Genehmigung eine Satzung beizufügen. Die Aufsichtsbehörde genehmigt die Satzung und bestimmt den Zeitpunkt, zu dem die Errichtung wirksam wird.
 
-
-## § 151 – Ausdehnung auf weitere Betriebe
+# § 151 – Ausdehnung auf weitere Betriebe
 
 Die Zuständigkeit einer Betriebskrankenkasse, deren Satzung keine Regelung nach § 144 Absatz 2 Satz 1 enthält, kann auf Antrag des Arbeitgebers auf weitere Betriebe desselben Arbeitgebers ausgedehnt werden. § 150 gilt entsprechend.
 
-
-## § 152 – Ausscheiden von Betrieben
+# § 152 – Ausscheiden von Betrieben
 
 (1) Geht von mehreren Betrieben desselben Arbeitgebers, für die eine gemeinsame Betriebskrankenkasse besteht, ein Betrieb auf einen anderen Arbeitgeber über, kann jeder beteiligte Arbeitgeber das Ausscheiden des übergegangenen Betriebes aus der gemeinsamen Betriebskrankenkasse beantragen.
 
@@ -6758,8 +6415,7 @@ Die Zuständigkeit einer Betriebskrankenkasse, deren Satzung keine Regelung nach
 
 (3) Über den Antrag auf Ausscheiden des Betriebes aus der gemeinsamen Betriebskrankenkasse entscheidet die Aufsichtsbehörde. Sie bestimmt den Zeitpunkt, zu dem das Ausscheiden wirksam wird.
 
-
-## § 153 – Auflösung
+# § 153 – Auflösung
 
 (1) Eine Betriebskrankenkasse kann auf Antrag des Arbeitgebers aufgelöst werden, wenn der Verwaltungsrat mit einer Mehrheit von mehr als drei Vierteln der stimmberechtigten Mitglieder zustimmt.
 
@@ -6769,13 +6425,11 @@ Die Zuständigkeit einer Betriebskrankenkasse, deren Satzung keine Regelung nach
 
 (4) Für die gemeinsame Betriebskrankenkasse mehrerer Arbeitgeber ist der Antrag nach Absatz 1 von allen beteiligten Arbeitgebern zu stellen.
 
-
-## § 154 – Betriebskrankenkassen öffentlicher Verwaltungen
+# § 154 – Betriebskrankenkassen öffentlicher Verwaltungen
 
 Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4 gelten entsprechend für Dienstbetriebe von Verwaltungen des Bundes, der Länder, der Gemeindeverbände oder der Gemeinden. An die Stelle des Arbeitgebers tritt die Verwaltung.
 
-
-## § 155 – Freiwillige Vereinigung
+# § 155 – Freiwillige Vereinigung
 
 (1) Ortskrankenkassen, Betriebskrankenkassen, Innungskrankenkassen und Ersatzkassen können sich auf Beschluss ihrer Verwaltungsräte vereinigen. Der Beschluss bedarf der Genehmigung der vor der Vereinigung zuständigen Aufsichtsbehörden.
 
@@ -6789,8 +6443,7 @@ Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4 gelten e
 
 (6) Mit dem nach Absatz 5 bestimmten Zeitpunkt sind die bisherigen Krankenkassen geschlossen. Die neue Krankenkasse tritt in die Rechte und Pflichten der bisherigen Krankenkassen ein.
 
-
-## § 156 – Vereinigung auf Antrag
+# § 156 – Vereinigung auf Antrag
 
 (1) Das Bundesministerium für Gesundheit kann auf Antrag einer bundesunmittelbaren Krankenkasse durch Rechtsverordnung mit Zustimmung des Bundesrates einzelne Krankenkassen dieser Kassenart nach Anhörung der betroffenen Krankenkassen vereinigen, wenn
 
@@ -6806,8 +6459,7 @@ Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4 gelten e
 
 (3) Die Absätze 1 und 2 gelten nicht für Betriebskrankenkassen, deren Satzungen keine Regelung nach § 144 Absatz 2 Satz 1 enthalten.
 
-
-## § 157 – Verfahren bei Vereinigung auf Antrag
+# § 157 – Verfahren bei Vereinigung auf Antrag
 
 (1) Werden Krankenkassen nach § 156 vereinigt, legen sie der Aufsichtsbehörde eine Satzung, einen Vorschlag zur Berufung der Mitglieder der Organe und eine Vereinbarung über die Neuordnung der Rechtsbeziehungen zu Dritten vor.
 
@@ -6817,15 +6469,13 @@ Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4 gelten e
 
 (4) Mit dem nach Absatz 2 oder Absatz 3 bestimmten Zeitpunkt sind die bisherigen Krankenkassen geschlossen. Die neue Krankenkasse tritt in die Rechte und Pflichten der bisherigen Krankenkassen ein.
 
-
-## § 158 – Zusammenschlusskontrolle bei Vereinigungen von Krankenkassen
+# § 158 – Zusammenschlusskontrolle bei Vereinigungen von Krankenkassen
 
 (1) Bei der freiwilligen Vereinigung von Krankenkassen finden die Vorschriften über die Zusammenschlusskontrolle nach Kapitel Sieben des Ersten Teils des Gesetzes gegen Wettbewerbsbeschränkungen nach Maßgabe des Absatzes 2 sowie die §§ 48, 49, 50f Absatz 2, die §§ 54 bis 81 Absatz 2 und 3 Nummer 3, die §§ 81a bis 81g, 82 und die §§ 83 bis 86a des Gesetzes gegen Wettbewerbsbeschränkungen entsprechende Anwendung.
 
 (2) Finden die Vorschriften über die Zusammenschlusskontrolle Anwendung, darf die Genehmigung nach § 155 Absatz 5 erst erfolgen, wenn das Bundeskartellamt die Vereinigung nach § 40 des Gesetzes gegen Wettbewerbsbeschränkungen freigegeben hat oder sie als freigegeben gilt. Hat der Vorstand einer an der Vereinigung beteiligten Krankenkasse eine Anzeige nach § 160 Absatz 2 Satz 1 abgegeben, beträgt die Frist nach § 40 Absatz 2 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen sechs Wochen. Vor einer Untersagung ist mit den zuständigen Aufsichtsbehörden nach § 90 des Vierten Buches das Benehmen herzustellen. Neben die obersten Landesbehörden nach § 42 Absatz 5 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen treten die zuständigen Aufsichtsbehörden nach § 90 des Vierten Buches. § 41 Absatz 3 und 4 des Gesetzes gegen Wettbewerbsbeschränkungen gilt nicht.
 
-
-## § 159 – Schließung
+# § 159 – Schließung
 
 (1) Eine Krankenkasse wird von der Aufsichtsbehörde geschlossen, wenn ihre Leistungsfähigkeit nicht mehr auf Dauer gesichert ist.
 
@@ -6839,8 +6489,7 @@ Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4 gelten e
 
 (4) Die Aufsichtsbehörde bestimmt den Zeitpunkt, zu dem die Schließung wirksam wird, wobei zwischen diesem Zeitpunkt und der Zustellung des Schließungsbescheids mindestens acht Wochen liegen müssen.
 
-
-## § 160 – Insolvenz von Krankenkassen
+# § 160 – Insolvenz von Krankenkassen
 
 (1) Die Insolvenzordnung gilt für Krankenkassen nach Maßgabe der nachfolgenden Absätze.
 
@@ -6856,18 +6505,15 @@ Die §§ 149 bis 153, 159 Absatz 2, § 166 Absatz 2 und § 167 Absatz 4 gelten e
 
 (7) Für die bis zum 31. Dezember 2009 entstandenen Wertguthaben aus Altersteilzeitvereinbarungen sind die Verpflichtungen nach § 8a des Altersteilzeitgesetzes vollständig spätestens ab dem 1. Januar 2015 zu erfüllen.
 
-
-## § 161 – Aufhebung der Haftung nach § 12 Absatz 2 der Insolvenzordnung
+# § 161 – Aufhebung der Haftung nach § 12 Absatz 2 der Insolvenzordnung
 
 Die Länder haften nicht nach § 12 Absatz 2 der Insolvenzordnung für die Ansprüche der Beschäftigten von Krankenkassen auf Leistungen der Altersversorgung und auf Insolvenzgeld.
 
-
-## § 162 – Insolvenzfähigkeit von Krankenkassenverbänden
+# § 162 – Insolvenzfähigkeit von Krankenkassenverbänden
 
 Die §§ 160, 161, 169 und 170 gelten für die Verbände der Krankenkassen entsprechend.
 
-
-## § 163 – Vermeidung der Schließung oder Insolvenz von Krankenkassen
+# § 163 – Vermeidung der Schließung oder Insolvenz von Krankenkassen
 
 (1) Der Spitzenverband Bund der Krankenkassen hat die Finanzlage der Krankenkassen auf der Grundlage der jährlichen und der vierteljährlichen Rechnungsergebnisse zu überprüfen und ihre Leistungsfähigkeit zu bewerten. Hierbei sind insbesondere das Vermögen, das Rechnungsergebnis, die Liquidität und die Versichertenentwicklung zu berücksichtigen. Der Spitzenverband Bund der Krankenkassen informiert die Krankenkassen über das Ergebnis seiner Bewertung. Bewertet der Spitzenverband Bund der Krankenkassen die Leistungsfähigkeit einer Krankenkasse als gefährdet, so hat die Krankenkasse dem Spitzenverband Bund der Krankenkassen auf Verlangen
 
@@ -6881,8 +6527,7 @@ Der Spitzenverband Bund der Krankenkassen kann verlangen, dass die Krankenkassen
 
 (3) Stellt eine Aufsichtsbehörde im Benehmen mit dem Spitzenverband Bund der Krankenkassen fest, dass bei einer Krankenkasse nur durch die Vereinigung mit einer anderen Krankenkasse die Leistungsfähigkeit auf Dauer gesichert oder der Eintritt der Zahlungsunfähigkeit oder Überschuldung vermieden werden kann, kann der Spitzenverband Bund der Krankenkassen der Aufsichtsbehörde Vorschläge für eine Vereinigung dieser Krankenkasse mit einer anderen Krankenkasse vorlegen. Kommt bei der in ihrer Leistungsfähigkeit gefährdeten Krankenkasse ein Beschluss über eine freiwillige Vereinigung innerhalb einer von der Aufsichtsbehörde gesetzten Frist nicht zustande, ersetzt die Aufsichtsbehörde diesen Beschluss.
 
-
-## § 164 – Vorübergehende finanzielle Hilfen
+# § 164 – Vorübergehende finanzielle Hilfen
 
 (1) Die Satzung des Spitzenverbandes Bund der Krankenkassen hat Bestimmungen über die Gewährung vorübergehender finanzieller Hilfen an Krankenkassen vorzusehen, die für notwendig erachtet werden, um
 
@@ -6898,8 +6543,7 @@ Näheres über Voraussetzungen, Umfang, Dauer, Finanzierung und Durchführung de
 
 (4) Ansprüche und Verpflichtungen auf Grund des § 265a in der bis zum 31. Dezember 2008 geltenden Fassung bleiben unberührt.
 
-
-## § 165 – Abwicklung der Geschäfte
+# § 165 – Abwicklung der Geschäfte
 
 (1) Der Vorstand einer aufgelösten oder geschlossenen Krankenkasse wickelt die Geschäfte ab. Bis die Geschäfte abgewickelt sind, gilt die Krankenkasse als fortbestehend, soweit es der Zweck der Abwicklung erfordert. Scheidet ein Vorstand nach Auflösung oder Schließung aus dem Amt, bestimmt die Aufsichtsbehörde nach Anhörung des Spitzenverbandes Bund der Krankenkassen und des Landesverbandes den Abwicklungsvorstand. § 35a Absatz 7 des Vierten Buches gilt entsprechend.
 
@@ -6907,15 +6551,13 @@ Näheres über Voraussetzungen, Umfang, Dauer, Finanzierung und Durchführung de
 
 (3) Verbleibt nach Abwicklung der Geschäfte noch Vermögen, geht dieses auf den Spitzenverband Bund der Krankenkassen über, der dieses auf die übrigen Krankenkassen verteilt.
 
-
-## § 166 – Haftung für Verpflichtungen bei Auflösung oder Schließung
+# § 166 – Haftung für Verpflichtungen bei Auflösung oder Schließung
 
 (1) Reicht das Vermögen einer aufgelösten oder geschlossenen Krankenkasse nicht aus, um die Gläubiger zu befriedigen, haften die übrigen Krankenkassen.
 
 (2) Reicht das Vermögen einer aufgelösten oder geschlossenen Betriebskrankenkasse, deren Satzung keine Regelung nach § 144 Absatz 2 Satz 1 enthält, nicht aus, um die Gläubiger zu befriedigen, hat der Arbeitgeber die Verpflichtungen zu erfüllen. Sind mehrere Arbeitgeber beteiligt, haften sie als Gesamtschuldner. Reicht das Vermögen des Arbeitgebers nicht aus, um die Gläubiger zu befriedigen, findet Absatz 1 Anwendung. Übersteigen die Verpflichtungen einer Krankenkasse ihr Vermögen zum Zeitpunkt des Inkrafttretens einer Satzungsbestimmung nach § 144 Absatz 2 Satz 1, hat der Arbeitgeber den Unterschiedsbetrag innerhalb von sechs Monaten nach dem Inkrafttreten der Satzungsbestimmung auszugleichen. Dies gilt auch bei Vereinigungsverfahren gemäß § 155, wenn Betriebskrankenkassen beteiligt sind, deren Satzung keine Regelung nach § 144 Absatz 2 Satz 1 enthält.
 
-
-## § 167 – Verteilung der Haftungssumme auf die Krankenkassen
+# § 167 – Verteilung der Haftungssumme auf die Krankenkassen
 
 (1) Die Erfüllung der Verpflichtungen nach § 166 Absatz 1 und 2 Satz 3 kann nur vom Spitzenverband Bund der Krankenkassen verlangt werden, der die Verteilung auf die einzelnen Krankenkassen vornimmt und die zur Tilgung erforderlichen Beträge von den Krankenkassen anfordert. Der auf die einzelne Krankenkasse entfallende Betrag wird vom Spitzenverband Bund der Krankenkassen wie folgt ermittelt:
 
@@ -6943,8 +6585,7 @@ Reicht die Summe der Überschreitungsbeträge nach Satz 3 Nummer 1 nicht aus, um
 
 (6) Wird der Spitzenverband Bund der Krankenkassen nach dieser Vorschrift von Gläubigern einer Krankenkasse in Anspruch genommen, kann er zur Zwischenfinanzierung des Haftungsbetrags ein nicht zu verzinsendes Darlehen in Höhe von bis zu 750 Millionen Euro aus der Liquiditätsreserve des Gesundheitsfonds nach § 271 Absatz 2 aufnehmen. Das Nähere zur Darlehensaufnahme vereinbart der Spitzenverband Bund der Krankenkassen mit dem Bundesamt für Soziale Sicherung. Ein zum 31. Dezember eines Jahres noch nicht getilgter Darlehensbetrag ist bis zum 28. Februar des Folgejahres zurückzuzahlen. Überschreitet der zum Ende eines Kalendermonats festgestellte, für einen Schließungsfall aufgenommene Darlehensbetrag den Betrag von 50 Millionen Euro, ist dieser Betrag bis zum Ende des übernächsten Kalendermonats zurückzuzahlen. Die Inanspruchnahme eines Darlehens des Gesundheitsfonds für Zwecke dieses Absatzes darf insgesamt den in Satz 1 genannten Betrag nicht übersteigen. § 271 Absatz 3 gilt entsprechend.
 
-
-## § 168 – Personal
+# § 168 – Personal
 
 (1) Die Versorgungsansprüche der am Tag der Auflösung oder Schließung einer Krankenkasse vorhandenen Versorgungsempfänger und ihrer Hinterbliebenen bleiben unberührt.
 
@@ -6952,8 +6593,7 @@ Reicht die Summe der Überschreitungsbeträge nach Satz 3 Nummer 1 nicht aus, um
 
 (3) Die Vertragsverhältnisse der Beschäftigten, die nicht nach Absatz 2 untergebracht werden, enden mit dem Tag der Auflösung oder Schließung. Vertragsmäßige Rechte, zu einem früheren Zeitpunkt zu kündigen, werden hierdurch nicht berührt.
 
-
-## § 169 – Haftung im Insolvenzfall
+# § 169 – Haftung im Insolvenzfall
 
 (1) Wird über das Vermögen einer Krankenkasse das Insolvenzverfahren eröffnet oder die Eröffnung mangels Masse rechtskräftig abgewiesen (Insolvenzfall), haftet der Spitzenverband Bund der Krankenkassen für die bis zum 31. Dezember 2009 entstandenen Altersversorgungsverpflichtungen dieser Krankenkasse und für Verpflichtungen aus Darlehen, die zur Ablösung von Verpflichtungen gegenüber einer öffentlich-rechtlichen Einrichtung zur betrieblichen Altersversorgung aufgenommen worden sind, soweit die Erfüllung dieser Verpflichtungen durch den Insolvenzfall beeinträchtigt oder unmöglich wird. Soweit der Träger der Insolvenzsicherung nach dem Betriebsrentengesetz die unverfallbaren Altersversorgungsverpflichtungen einer Krankenkasse zu erfüllen hat, ist ein Rückgriff gegen die anderen Krankenkassen oder ihre Verbände ausgeschlossen. Der Spitzenverband Bund der Krankenkassen macht die zur Erfüllung seiner Haftungsverpflichtung erforderlichen Beträge bei den übrigen Krankenkassen geltend. Für die Ermittlung der auf die einzelnen Krankenkassen entfallenden Beträge und das Verfahren zur Geltendmachung der Beträge durch den Spitzenverband Bund der Krankenkassen gilt § 167 entsprechend. Für das Personal gilt § 168 entsprechend.
 
@@ -6965,8 +6605,7 @@ Reicht die Summe der Überschreitungsbeträge nach Satz 3 Nummer 1 nicht aus, um
 
 (5) Wird der Spitzenverband Bund der Krankenkassen nach dieser Vorschrift von Gläubigern einer Krankenkasse in Anspruch genommen, gilt § 167 Absatz 6 entsprechend.
 
-
-## § 170 – Deckungskapital für Altersversorgungsverpflichtungen, Verordnungsermächtigung
+# § 170 – Deckungskapital für Altersversorgungsverpflichtungen, Verordnungsermächtigung
 
 (1) Krankenkassen haben für Versorgungszusagen, die eine direkte Einstandspflicht nach § 1 Absatz 1 Satz 3 des Betriebsrentengesetzes auslösen, sowie für ihre Beihilfeverpflichtungen durch mindestens jährliche Zuführungen vom 1. Januar 2010 an bis spätestens zum 31. Dezember 2049 ein wertgleiches Deckungskapital zu bilden, mit dem der voraussichtliche Barwert dieser Verpflichtungen an diesem Tag vollständig ausfinanziert wird. Auf der Passivseite der Vermögensrechnung sind Rückstellungen in Höhe des vorhandenen Deckungskapitals zu bilden. Satz 1 gilt nicht, soweit eine Krankenkasse der Aufsichtsbehörde durch ein versicherungsmathematisches Gutachten nachweist, dass für ihre Verpflichtungen aus Versorgungsanwartschaften und -ansprüchen sowie für ihre Beihilfeverpflichtungen ein Deckungskapital besteht, das die in Satz 1 und in der Rechtsverordnung nach Absatz 4 genannten Voraussetzungen erfüllt. Der Nachweis ist bei wesentlichen Änderungen der Berechnungsgrundlagen, in der Regel alle fünf Jahre, zu aktualisieren. Das Deckungskapital darf nur zweckentsprechend verwendet werden.
 
@@ -6988,35 +6627,25 @@ Reicht die Summe der Überschreitungsbeträge nach Satz 3 Nummer 1 nicht aus, um
 
 Das Bundesministerium für Gesundheit kann die Befugnis nach Satz 1 durch Rechtsverordnung mit Zustimmung des Bundesrates auf das Bundesamt für Soziale Sicherung übertragen. In diesem Fall gilt für die dem Bundesamt für Soziale Sicherung entstehenden Ausgaben § 271 Absatz 6 entsprechend.
 
+# § 171 – (weggefallen)
 
-## § 171 – (weggefallen)
+# § 171a – (weggefallen)
 
+# § 171b – (weggefallen)
 
-## § 171a – (weggefallen)
+# § 171c – (weggefallen)
 
+# § 171d – (weggefallen)
 
-## § 171b – (weggefallen)
+# § 171e – (weggefallen)
 
+# § 171f – (weggefallen)
 
-## § 171c – (weggefallen)
+# § 172 – (weggefallen)
 
+# § 172a – (weggefallen)
 
-## § 171d – (weggefallen)
-
-
-## § 171e – (weggefallen)
-
-
-## § 171f – (weggefallen)
-
-
-## § 172 – (weggefallen)
-
-
-## § 172a – (weggefallen)
-
-
-## § 173 – Allgemeine Wahlrechte
+# § 173 – Allgemeine Wahlrechte
 
 (1) Versicherungspflichtige (§ 5) und Versicherungsberechtigte (§ 9) sind Mitglied der von ihnen gewählten Krankenkasse, soweit in den nachfolgenden Vorschriften, im Zweiten Gesetz über die Krankenversicherung der Landwirte oder im Künstlersozialversicherungsgesetz nichts Abweichendes bestimmt ist.
 
@@ -7030,8 +6659,7 @@ Das Bundesministerium für Gesundheit kann die Befugnis nach Satz 1 durch Rechts
 
 4. jede Betriebs- oder Innungskrankenkasse des Beschäftigungs- oder Wohnorts, deren Satzung eine Regelung nach § 144 Absatz 2 Satz 1 oder § 145 Absatz 2 enthält,
 
-4a.  
-die Deutsche Rentenversicherung Knappschaft-Bahn-See,
+4a. die Deutsche Rentenversicherung Knappschaft-Bahn-See,
 
 5. die Krankenkasse, bei der vor Beginn der Versicherungspflicht oder Versicherungsberechtigung zuletzt eine Mitgliedschaft oder eine Versicherung nach § 10 bestanden hat,
 
@@ -7049,8 +6677,7 @@ die Deutsche Rentenversicherung Knappschaft-Bahn-See,
 
 (7) War an einer Vereinigung nach § 155 eine Betriebskrankenkasse ohne Satzungsregelung nach § 144 Absatz 2 Satz 1 beteiligt und handelt es sich bei der aus der Vereinigung hervorgegangenen Krankenkasse um eine Innungskrankenkasse, ist die neue Krankenkasse auch für die Versicherungspflichtigen und Versicherungsberechtigten wählbar, die ein Wahlrecht zu der Betriebskrankenkasse gehabt hätten, wenn deren Satzung vor der Vereinigung eine Regelung nach § 144 Absatz 2 Satz 1 enthalten hätte.
 
-
-## § 174 – Besondere Wahlrechte
+# § 174 – Besondere Wahlrechte
 
 (1) Für Versicherungspflichtige und Versicherungsberechtigte, die bei einer Betriebskrankenkasse beschäftigt sind oder vor dem Rentenbezug beschäftigt waren, gilt § 173 Abs. 2 Satz 1 Nr. 3 entsprechend.
 
@@ -7058,8 +6685,7 @@ die Deutsche Rentenversicherung Knappschaft-Bahn-See,
 
 (3) Abweichend von § 173 werden Versicherungspflichtige nach § 5 Abs. 1 Nr. 13 Mitglied der Krankenkasse oder des Rechtsnachfolgers der Krankenkasse, bei der sie zuletzt versichert waren, andernfalls werden sie Mitglied der von ihnen nach § 173 Abs. 1 gewählten Krankenkasse; § 173 gilt.
 
-
-## § 175 – Ausübung des Wahlrechts
+# § 175 – Ausübung des Wahlrechts
 
 (1) Die Ausübung des Wahlrechts ist gegenüber der gewählten Krankenkasse zu erklären. Diese darf die Mitgliedschaft nicht ablehnen oder die Erklärung nach Satz 1 durch falsche oder unvollständige Beratung verhindern oder erschweren. Das Wahlrecht kann nach Vollendung des 15. Lebensjahres ausgeübt werden.
 
@@ -7079,21 +6705,17 @@ die Deutsche Rentenversicherung Knappschaft-Bahn-See,
 
 (6) Der Spitzenverband Bund der Krankenkassen legt für die Meldungen und Informationspflichten nach dieser Vorschrift einheitliche Verfahren und Vordrucke fest und bestimmt die Inhalte für das elektronische Meldeverfahren zwischen den Krankenkassen nach den Absätzen 2, 3a, 4 und 5 sowie für das elektronische Meldeverfahren zwischen den Krankenkassen und den zur Meldung verpflichteten Stellen nach Absatz 3.
 
-
-## § 176 – (weggefallen)
-
-\-
-
-
-## § 177 – (weggefallen)
+# § 176 – (weggefallen)
 
 \-
 
+# § 177 – (weggefallen)
 
-## §§ 178 bis 185 – (weggefallen)
+\-
 
+# §§ 178 bis 185 – (weggefallen)
 
-## § 186 – Beginn der Mitgliedschaft Versicherungspflichtiger
+# § 186 – Beginn der Mitgliedschaft Versicherungspflichtiger
 
 (1) Die Mitgliedschaft versicherungspflichtig Beschäftigter beginnt mit dem Tag des Eintritts in das Beschäftigungsverhältnis.
 
@@ -7119,13 +6741,11 @@ die Deutsche Rentenversicherung Knappschaft-Bahn-See,
 
 (11) Die Mitgliedschaft der nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen beginnt mit dem ersten Tag ohne anderweitigen Anspruch auf Absicherung im Krankheitsfall im Inland. Die Mitgliedschaft von Ausländern, die nicht Angehörige eines Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder Staatsangehörige der Schweiz sind, beginnt mit dem ersten Tag der Geltung der Niederlassungserlaubnis oder der Aufenthaltserlaubnis. Für Personen, die am 1. April 2007 keinen anderweitigen Anspruch auf Absicherung im Krankheitsfall haben, beginnt die Mitgliedschaft an diesem Tag.
 
-
-## § 187 – Beginn der Mitgliedschaft bei einer neu errichteten Krankenkasse
+# § 187 – Beginn der Mitgliedschaft bei einer neu errichteten Krankenkasse
 
 Die Mitgliedschaft bei einer neu errichteten Krankenkasse beginnt für Versicherungspflichtige, für die diese Krankenkasse zuständig ist, mit dem Zeitpunkt, an dem die Errichtung der Krankenkasse wirksam wird.
 
-
-## § 188 – Beginn der freiwilligen Mitgliedschaft
+# § 188 – Beginn der freiwilligen Mitgliedschaft
 
 (1) Die Mitgliedschaft Versicherungsberechtigter beginnt mit dem Tag ihres Beitritts zur Krankenkasse.
 
@@ -7137,15 +6757,13 @@ Die Mitgliedschaft bei einer neu errichteten Krankenkasse beginnt für Versicher
 
 (5) Der Spitzenverband Bund der Krankenkassen regelt das Nähere zu den Ermittlungspflichten der Krankenkassen nach Absatz 4 Satz 4 und § 191 Nummer 4. Die Regelungen nach Satz 1 bedürfen zu ihrer Wirksamkeit der Zustimmung des Bundesministeriums für Gesundheit.
 
-
-## § 189 – Mitgliedschaft von Rentenantragstellern
+# § 189 – Mitgliedschaft von Rentenantragstellern
 
 (1) Als Mitglieder gelten Personen, die eine Rente der gesetzlichen Rentenversicherung beantragt haben und die Voraussetzungen nach § 5 Absatz 1 Nummer 11 bis 12 und Absatz 2, jedoch nicht die Voraussetzungen für den Bezug der Rente erfüllen. Satz 1 gilt nicht für Personen, die nach anderen Vorschriften versicherungspflichtig oder nach § 6 Abs. 1 versicherungsfrei sind.
 
 (2) Die Mitgliedschaft beginnt mit dem Tag der Stellung des Rentenantrags. Sie endet mit dem Tod oder mit dem Tag, an dem der Antrag zurückgenommen oder die Ablehnung des Antrags unanfechtbar wird.
 
-
-## § 190 – Ende der Mitgliedschaft Versicherungspflichtiger
+# § 190 – Ende der Mitgliedschaft Versicherungspflichtiger
 
 (1) Die Mitgliedschaft Versicherungspflichtiger endet mit dem Tod des Mitglieds.
 
@@ -7191,8 +6809,7 @@ Bei Anerkennung von Hinderungsgründen, die eine Überschreitung der Altersgrenz
 
 Satz 1 Nr. 1 gilt nicht für Mitglieder, die Empfänger von Leistungen nach dem Dritten, Vierten, Sechsten und Siebten Kapitel des Zwölften Buches sind.
 
-
-## § 191 – Ende der freiwilligen Mitgliedschaft
+# § 191 – Ende der freiwilligen Mitgliedschaft
 
 Die freiwillige Mitgliedschaft endet
 
@@ -7204,8 +6821,7 @@ Die freiwillige Mitgliedschaft endet
 
 4. mit Ablauf eines Zeitraums von mindestens sechs Monaten rückwirkend ab dem Beginn dieses Zeitraums, in dem für die Mitgliedschaft keine Beiträge geleistet wurden, das Mitglied und familienversicherte Angehörige keine Leistungen in Anspruch genommen haben und die Krankenkasse trotz Ausschöpfung der ihr zur Verfügung stehenden Ermittlungsmöglichkeiten weder einen Wohnsitz noch einen gewöhnlichen Aufenthalt des Mitglieds im Geltungsbereich des Sozialgesetzbuches ermitteln konnte.
 
-
-## § 192 – Fortbestehen der Mitgliedschaft Versicherungspflichtiger
+# § 192 – Fortbestehen der Mitgliedschaft Versicherungspflichtiger
 
 (1) Die Mitgliedschaft Versicherungspflichtiger bleibt erhalten, solange
 
@@ -7213,8 +6829,7 @@ Die freiwillige Mitgliedschaft endet
 
 2. Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder eine dieser Leistungen oder nach gesetzlichen Vorschriften Erziehungsgeld oder Elterngeld bezogen oder Elternzeit in Anspruch genommen oder Pflegeunterstützungsgeld bezogen wird,
 
-2a.  
-von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von sonstigen öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen im Sinne von § 9 des Transfusionsgesetzes bezogen werden oder diese beansprucht werden können,
+2a. von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger des Bundes, von sonstigen öffentlich-rechtlichen Trägern von Kosten in Krankheitsfällen auf Bundesebene, von dem Träger der Heilfürsorge im Bereich des Bundes, von dem Träger der truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen Träger von Kosten in Krankheitsfällen auf Landesebene, soweit das Landesrecht dies vorsieht, Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben oder im Zusammenhang mit einer Spende von Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen im Sinne von § 9 des Transfusionsgesetzes bezogen werden oder diese beansprucht werden können,
 
 3. von einem Rehabilitationsträger während einer Leistung zur medizinischen Rehabilitation Verletztengeld, Versorgungskrankengeld oder Übergangsgeld gezahlt wird oder
 
@@ -7222,8 +6837,7 @@ von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger de
 
 (2) Während der Schwangerschaft bleibt die Mitgliedschaft Versicherungspflichtiger auch erhalten, wenn das Beschäftigungsverhältnis vom Arbeitgeber zulässig aufgelöst oder das Mitglied unter Wegfall des Arbeitsentgelts beurlaubt worden ist, es sei denn, es besteht eine Mitgliedschaft nach anderen Vorschriften.
 
-
-## § 193 – Fortbestehen der Mitgliedschaft bei Wehrdienst oder Zivildienst
+# § 193 – Fortbestehen der Mitgliedschaft bei Wehrdienst oder Zivildienst
 
 (1) Bei versicherungspflichtig Beschäftigten, denen nach § 1 Abs. 2 des Arbeitsplatzschutzgesetzes Entgelt weiterzugewähren ist, gilt das Beschäftigungsverhältnis als durch den Wehrdienst nach § 4 Abs. 1 und § 6b Abs. 1 des Wehrpflichtgesetzes nicht unterbrochen. Dies gilt auch für Personen in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes, wenn sie den Einsatzunfall in einem Versicherungsverhältnis erlitten haben.
 
@@ -7235,8 +6849,7 @@ von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger de
 
 (5) Die Zeit in einem Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes gilt nicht als Beschäftigung im Sinne von § 5 Abs. 1 Nr. 1 und § 6 Abs. 1 Nr. 3.
 
-
-## § 194 – Satzung der Krankenkassen
+# § 194 – Satzung der Krankenkassen
 
 (1) Die Satzung muß insbesondere Bestimmungen enthalten über
 
@@ -7266,8 +6879,7 @@ von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger de
 
 (2) Die Satzung darf keine Bestimmungen enthalten, die den Aufgaben der gesetzlichen Krankenversicherung widersprechen. Sie darf Leistungen nur vorsehen, soweit dieses Buch sie zuläßt.
 
-
-## § 194a – Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen
+# § 194a – Modellprojekt zur Durchführung von Online-Wahlen bei den Krankenkassen
 
 (1) Bei den Sozialversicherungswahlen im Jahr 2023 können im Rahmen eines Modellprojektes abweichend von § 54 Absatz 1 des Vierten Buches die Wahlen der Vertreter der Versicherten bei den in § 35a Absatz 1 Satz 1 des Vierten Buches genannten Krankenkassen auch in einem elektronischen Wahlverfahren über das Internet (Online-Wahl) durchgeführt werden. Eine Stimmabgabe per Online-Wahl ist nur möglich, wenn die jeweilige Krankenkasse in ihrer Satzung vorsieht, dass alternativ zu der brieflichen Stimmabgabe auch eine Stimmabgabe per Online-Wahl vorgenommen werden kann. Eine entsprechende Satzungsregelung muss spätestens bis zum 30. September 2020 in Kraft treten.
 
@@ -7277,8 +6889,7 @@ von einem privaten Krankenversicherungsunternehmen, von einem Beihilfeträger de
 
 (4) Die für Sozialversicherungswahlen geltenden allgemeinen Wahlgrundsätze nach § 45 Absatz 2 des Vierten Buches sind unter Berücksichtigung der technischen Besonderheiten auch bei Online-Wahlen entsprechend zu wahren.
 
-
-## § 194b – Durchführung der Stimmabgabe per Online-Wahl
+# § 194b – Durchführung der Stimmabgabe per Online-Wahl
 
 (1) Für die Durchführung der Stimmabgabe per Online-Wahl gelten die Vorschriften des Zweiten Titels des Vierten Abschnitts des Vierten Buches sowie die Wahlordnung für die Sozialversicherung entsprechend, sofern in den Absätzen 2 bis 4 nichts Abweichendes bestimmt ist.
 
@@ -7326,8 +6937,7 @@ d) keine weitere Stimme per Briefwahl abzugeben,
 
 (4) Bei Krankenkassen, die eine Stimmabgabe per Online-Wahl ermöglichen, beginnt die Ermittlung des Wahlergebnisses erst nach dem Wahltag. Die Wahlleitungen ermitteln unverzüglich getrennt nach Wählergruppen sowie jeweils für die Stimmabgabe per Briefwahl und die Stimmabgabe per Online-Wahl, wie viele Stimmen für die einzelnen Vorschlagslisten abgegeben worden sind. Die Auswertung der per Online-Wahl abgegebenen Stimmen muss vor der Auswertung der per Briefwahl abgegebenen Stimmen vorgenommen werden. Bei der Ermittlung der abgegebenen Stimmen ist über deren Gültigkeit zu entscheiden. Auf den Stimmzetteln der ungültigen per Briefwahl abgegebenen Stimmen ist der Grund der Ungültigkeit zu vermerken. Ungültige per Online-Wahl abgegebene Stimmen sind im Wahlergebnis jeweils mit dem Grund der Ungültigkeit auszuweisen.
 
-
-## § 194c – Verordnungsermächtigung
+# § 194c – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer Rechtsverordnung bis zum 30. September 2020 die technischen und organisatorischen Vorgaben für die Durchführung der Online-Wahl im Rahmen des Modellprojektes nach § 194a im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik zu regeln. In der Verordnung ist Folgendes festzulegen:
 
@@ -7349,8 +6959,7 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist bei der Erstellung 
 
 (2) Die Festlegung der Vorgaben, Maßnahmen und Verfahren nach Absatz 1 erfolgt auf der Grundlage der vom Bundesamt für Sicherheit in der Informationstechnik erstellten (Technischen) Richtlinien und sonstigen Sicherheitsanforderungen für Online-Wahlen und Online-Wahlprodukte. Darüber hinausgehende Sicherheitsanforderungen für Online-Wahlen im Rahmen der Sozialversicherungswahlen werden vom Bundesministerium für Gesundheit insbesondere unter Berücksichtigung des konkreten Sicherheitsrisikos und einer auf der Grundlage des BSI-Standards 200-3 erstellten Risikoanalyse im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik entwickelt und in der Rechtsverordnung festgelegt.
 
-
-## § 194d – Evaluierung
+# § 194d – Evaluierung
 
 (1) Das Modellprojekt nach § 194a wird durch das Bundesministerium für Gesundheit wissenschaftlich begleitet und im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales evaluiert. Dabei sind insbesondere folgende Aspekte zu berücksichtigen:
 
@@ -7366,8 +6975,7 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist bei der Erstellung 
 
 (2) Die für die Stimmabgabe per Online-Wahl eingesetzte Software hat eine wissenschaftliche Begleitung und Evaluierung zu ermöglichen. Dies schließt Sicherheits- und Datenschutzaspekte ein. Die Krankenkassen haben dem Bundesministerium für Gesundheit die für die wissenschaftliche Begleitung und Evaluierung notwendigen Informationen und Daten zur Verfügung zu stellen.
 
-
-## § 195 – Genehmigung der Satzung
+# § 195 – Genehmigung der Satzung
 
 (1) Die Satzung bedarf der Genehmigung der Aufsichtsbehörde.
 
@@ -7375,25 +6983,21 @@ Das Bundesamt für Sicherheit in der Informationstechnik ist bei der Erstellung 
 
 (3) Absatz 2 gilt entsprechend, wenn die Satzung wegen nachträglich eingetretener Umstände einer Änderung bedarf.
 
-
-## § 196 – Einsichtnahme in die Satzung
+# § 196 – Einsichtnahme in die Satzung
 
 (1) Die geltende Satzung kann in den Geschäftsräumen der Krankenkasse während der üblichen Geschäftsstunden eingesehen werden.
 
 (2) Jedes Mitglied erhält unentgeltlich ein Merkblatt über Beginn und Ende der Mitgliedschaft bei Pflichtversicherung und freiwilliger Versicherung, über Beitrittsrechte sowie die von der Krankenkasse zu gewährenden Leistungen und über die Beiträge.
 
-
-## § 197 – Verwaltungsrat
+# § 197 – Verwaltungsrat
 
 (1) Der Verwaltungsrat hat insbesondere
 
 1. die Satzung und sonstiges autonomes Recht zu beschließen,
 
-1a.  
-den Vorstand zu überwachen,
+1a. den Vorstand zu überwachen,
 
-1b.  
-alle Entscheidungen zu treffen, die für die Krankenkasse von grundsätzlicher Bedeutung sind,
+1b. alle Entscheidungen zu treffen, die für die Krankenkasse von grundsätzlicher Bedeutung sind,
 
 2. den Haushaltsplan festzustellen,
 
@@ -7409,8 +7013,7 @@ alle Entscheidungen zu treffen, die für die Krankenkasse von grundsätzlicher B
 
 (3) Der Verwaltungsrat soll zur Erfüllung seiner Aufgaben Fachausschüsse bilden.
 
-
-## § 197a – Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
+# § 197a – Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
 
 (1) Die Krankenkassen, wenn angezeigt ihre Landesverbände, und der Spitzenverband Bund der Krankenkassen richten organisatorische Einheiten ein, die Fällen und Sachverhalten nachzugehen haben, die auf Unregelmäßigkeiten oder auf rechtswidrige oder zweckwidrige Nutzung von Finanzmitteln im Zusammenhang mit den Aufgaben der jeweiligen Krankenkasse oder des jeweiligen Verbandes hindeuten. Sie nehmen Kontrollbefugnisse nach § 67c Abs. 3 des Zehnten Buches wahr.
 
@@ -7454,25 +7057,21 @@ Die nach Satz 1 übermittelten Daten dürfen von dem jeweiligen Empfänger nur z
 
 Die Bestimmungen nach Satz 1 sind dem Bundesministerium für Gesundheit vorzulegen. Der Spitzenverband Bund der Krankenkassen führt die Berichte nach Absatz 5, die ihm von seinen Mitgliedern zuzuleiten sind, zusammen, gleicht die Ergebnisse mit den Kassenärztlichen Bundesvereinigungen ab und veröffentlicht seinen eigenen Bericht im Internet.
 
-
-## § 197b – Aufgabenerledigung durch Dritte
+# § 197b – Aufgabenerledigung durch Dritte
 
 Krankenkassen können die ihnen obliegenden Aufgaben durch Arbeitsgemeinschaften oder durch Dritte mit deren Zustimmung wahrnehmen lassen, wenn die Aufgabenwahrnehmung durch die Arbeitsgemeinschaften oder den Dritten wirtschaftlicher ist, es im wohlverstandenen Interesse der Betroffenen liegt und Rechte der Versicherten nicht beeinträchtigt werden. Wesentliche Aufgaben zur Versorgung der Versicherten dürfen nicht in Auftrag gegeben werden. § 88 Abs. 3 und 4 und die §§ 89, 90 bis 92 und 97 des Zehnten Buches gelten entsprechend.
 
-
-## § 198 – Meldepflicht des Arbeitgebers für versicherungspflichtig Beschäftigte
+# § 198 – Meldepflicht des Arbeitgebers für versicherungspflichtig Beschäftigte
 
 Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a bis 28c des Vierten Buches an die zuständige Krankenkasse zu melden.
 
-
-## § 199 – Meldepflichten bei unständiger Beschäftigung
+# § 199 – Meldepflichten bei unständiger Beschäftigung
 
 (1) Unständig Beschäftigte haben der nach § 179 Abs. 1 zuständigen Krankenkasse Beginn und Ende der berufsmäßigen Ausübung von unständigen Beschäftigungen unverzüglich zu melden. Der Arbeitgeber hat die unständig Beschäftigten auf ihre Meldepflicht hinzuweisen.
 
 (2) Gesamtbetriebe, in denen regelmäßig unständig Beschäftigte beschäftigt werden, haben die sich aus diesem Buch ergebenden Pflichten der Arbeitgeber zu übernehmen. Welche Einrichtungen als Gesamtbetriebe gelten, richtet sich nach Landesrecht.
 
-
-## § 199a – Informationspflichten bei krankenversicherten Studenten
+# § 199a – Informationspflichten bei krankenversicherten Studenten
 
 (1) Die staatlichen oder staatlich anerkannten Hochschulen sowie die Stiftung für Hochschulzulassung haben Studienbewerber und Studenten über die Versicherungspflicht in der gesetzlichen Krankenversicherung, die Befreiungsmöglichkeiten und das zur Durchführung des Versicherungsverhältnisses einzuhaltende Verfahren in geeigneter Form zu informieren. Inhalt und Ausgestaltung dieser Informationen werden durch den Spitzenverband Bund der Krankenkassen festgelegt.
 
@@ -7504,8 +7103,7 @@ Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a 
 
 (7) Das Nähere zu den Datensätzen, den Verfahren und die zu übermittelnden Daten für die Anträge und Meldungen sowie Bescheinigungen regeln der Spitzenverband Bund der Krankenkassen und die Hochschulrektorenkonferenz in Gemeinsamen Grundsätzen. § 95 des Vierten Buches ist anzuwenden. Die Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums für Gesundheit, das vorher den Verband der Privaten Hochschulen e. V. anzuhören hat.
 
-
-## § 200 – Meldepflichten bei sonstigen versicherungspflichtigen Personen
+# § 200 – Meldepflichten bei sonstigen versicherungspflichtigen Personen
 
 (1) Eine Meldung nach § 28a Abs. 1 bis 3 des Vierten Buches hat zu erstatten
 
@@ -7521,8 +7119,7 @@ Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a 
 
 (3) Die Ausbildungsstätten von versicherungspflichtigen Auszubildenden des Zweiten Bildungswegs nach § 5 Absatz 1 Nummer 10 zweiter Halbsatz haben der zuständigen Krankenkasse den Beginn der Ausbildung in einem förderungsfähigen Teil eines Ausbildungsabschnitts nach dem Bundesausbildungsförderungsgesetz sowie das Ende der Ausbildung unverzüglich mitzuteilen. Das Weitere zu Inhalt, Form und Verfahren der Mitteilung legt der Spitzenverband Bund der Krankenkassen fest.
 
-
-## § 201 – Meldepflichten bei Rentenantragstellung und Rentenbezug
+# § 201 – Meldepflichten bei Rentenantragstellung und Rentenbezug
 
 (1) Wer eine Rente der gesetzlichen Rentenversicherung beantragt, hat mit dem Antrag eine Meldung für die zuständige Krankenkasse einzureichen. Der Rentenversicherungsträger hat die Meldung unverzüglich an die zuständige Krankenkasse weiterzugeben.
 
@@ -7534,8 +7131,7 @@ Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a 
 
 1. Beginn und Höhe einer Rente der gesetzlichen Rentenversicherung, den Monat, für den die Rente erstmalig laufend gezahlt wird,
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
 2. den Tag der Rücknahme des Rentenantrags,
 
@@ -7549,8 +7145,7 @@ Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a 
 
 (6) Die Meldungen sind auf maschinell verwertbaren Datenträgern oder durch Datenübertragung zu erstatten. Der Spitzenverband Bund der Krankenkassen vereinbart mit der Deutschen Rentenversicherung Bund das Nähere über das Verfahren im Benehmen mit dem Bundesamt für Soziale Sicherung.
 
-
-## § 202 – Meldepflichten bei Versorgungsbezügen
+# § 202 – Meldepflichten bei Versorgungsbezügen
 
 (1) Die Zahlstelle hat bei der erstmaligen Bewilligung von Versorgungsbezügen sowie bei Mitteilung über die Beendigung der Mitgliedschaft eines Versorgungsempfängers und in den Fällen des § 5 Absatz 1 Nummer 11b die zuständige Krankenkasse des Versorgungsempfängers zu ermitteln und dieser Beginn, Höhe, Veränderungen und Ende der Versorgungsbezüge und in den Fällen des § 5 Absatz 1 Nummer 11b den Tag der Antragstellung sowie in den Fällen von Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz deren Vorliegen unverzüglich mitzuteilen. Bei den am 1. Januar 1989 vorhandenen Versorgungsempfängern hat die Ermittlung der Krankenkasse innerhalb von sechs Monaten zu erfolgen. Der Versorgungsempfänger hat der Zahlstelle seine Krankenkasse anzugeben und einen Kassenwechsel sowie die Aufnahme einer versicherungspflichtigen Beschäftigung anzuzeigen. Die Krankenkasse hat der Zahlstelle von Versorgungsbezügen und dem Bezieher von Versorgungsbezügen unverzüglich die Beitragspflicht des Versorgungsempfängers und, soweit die Summe der beitragspflichtigen Einnahmen nach § 237 Satz 1 Nummer 1 und 2 die Beitragsbemessungsgrenze überschreitet, deren Umfang mitzuteilen. Die Krankenkasse hat der Zahlstelle im Falle des Mehrfachbezugs von Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 5 erster Halbsatz zusätzlich mitzuteilen, ob und in welcher Höhe der Freibetrag nach § 226 Absatz 2 Satz 2 anzuwenden ist.
 
@@ -7558,25 +7153,21 @@ Der Arbeitgeber hat die versicherungspflichtig Beschäftigten nach den §§ 28a 
 
 (3) Die Zahlstellen haben für die Durchführung der Meldeverfahren nach diesem Gesetzbuch eine Zahlstellennummer beim Spitzenverband Bund der Krankenkassen elektronisch zu beantragen. Die Zahlstellennummern und alle Angaben, die zur Vergabe der Zahlstellennummer notwendig sind, werden in einer gesonderten elektronischen Datei beim Spitzenverband Bund der Krankenkassen gespeichert. Die Sozialversicherungsträger, ihre Verbände und ihre Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die Arbeitgeber dürfen die ihnen von den Zahlstellen zur Erfüllung einer gesetzlichen Aufgabe nach diesem Buch übermittelten Zahlstellennummern verarbeiten, soweit dies für die Erfüllung einer gesetzlichen Aufgabe nach diesem Gesetzbuch erforderlich ist. Andere Behörden, Gerichte oder Dritte dürfen die Zahlstellennummern verarbeiten, sofern sie nach anderen gesetzlichen Vorschriften zu deren Erhebung befugt sind und soweit dies für die Erfüllung einer gesetzlichen Aufgabe einer der in Satz 3 genannten Stellen erforderlich ist. Das Nähere zum Verfahren und den Aufbau der Zahlstellennummer regeln die Grundsätze nach Absatz 2 Satz 4.
 
-
-## § 203 – Meldepflichten bei Bezug von Erziehungsgeld oder Elterngeld
+# § 203 – Meldepflichten bei Bezug von Erziehungsgeld oder Elterngeld
 
 Die Zahlstelle des Erziehungsgeldes oder Elterngeldes hat der zuständigen Krankenkasse Beginn und Ende der Zahlung des Erziehungsgeldes oder Elterngeldes unverzüglich mitzuteilen.
 
-
-## § 203a – Meldepflicht bei Bezug von Arbeitslosengeld, Arbeitslosengeld II oder Unterhaltsgeld
+# § 203a – Meldepflicht bei Bezug von Arbeitslosengeld, Arbeitslosengeld II oder Unterhaltsgeld
 
 Die Agenturen für Arbeit oder in den Fällen des § 6a des Zweiten Buches die zugelassenen kommunalen Träger erstatten die Meldungen hinsichtlich der nach § 5 Abs. 1 Nr. 2 und Nr. 2a Versicherten entsprechend §§ 28a bis 28c des Vierten Buches.
 
-
-## § 204 – Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
+# § 204 – Meldepflichten bei Einberufung zum Wehrdienst oder Zivildienst
 
 (1) Bei Einberufung zu einem Wehrdienst hat bei versicherungspflichtig Beschäftigten der Arbeitgeber und bei Arbeitslosen die Agentur für Arbeit den Beginn des Wehrdienstes sowie das Ende des Grundwehrdienstes und einer Wehrübung oder einer Dienstleistung oder Übung nach dem Vierten Abschnitt des Soldatengesetzes der zuständigen Krankenkasse unverzüglich zu melden. Das Ende eines Wehrdienstes nach § 4 Abs. 1 Nr. 6 des Wehrpflichtgesetzes hat das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle zu melden. Sonstige Versicherte haben die Meldungen nach Satz 1 selbst zu erstatten.
 
 (2) Absatz 1 gilt für den Zivildienst entsprechend. An die Stelle des Bundesministeriums der Verteidigung tritt das Bundesamt für den Zivildienst.
 
-
-## § 205 – Meldepflichten bestimmter Versicherungspflichtiger
+# § 205 – Meldepflichten bestimmter Versicherungspflichtiger
 
 Versicherungspflichtige, die eine Rente der gesetzlichen Rentenversicherung oder der Rente vergleichbare Einnahmen (Versorgungsbezüge) beziehen, haben ihrer Krankenkasse unverzüglich zu melden
 
@@ -7586,8 +7177,7 @@ Versicherungspflichtige, die eine Rente der gesetzlichen Rentenversicherung oder
 
 3. Beginn, Höhe und Veränderungen des Arbeitseinkommens.
 
-
-## § 206 – Auskunfts- und Mitteilungspflichten der Versicherten
+# § 206 – Auskunfts- und Mitteilungspflichten der Versicherten
 
 (1) Wer versichert ist oder als Versicherter in Betracht kommt, hat der Krankenkasse, soweit er nicht nach § 28o des Vierten Buches auskunftspflichtig ist,
 
@@ -7599,14 +7189,12 @@ Er hat auf Verlangen die Unterlagen, aus denen die Tatsachen oder die Änderung 
 
 (2) Entstehen der Krankenkasse durch eine Verletzung der Pflichten nach Absatz 1 zusätzliche Aufwendungen, kann sie von dem Verpflichteten die Erstattung verlangen.
 
-
-## § 207 – Bildung und Vereinigung von Landesverbänden
+# § 207 – Bildung und Vereinigung von Landesverbänden
 
 (1) In jedem Land bilden  
 die Ortskrankenkassen einen Landesverband der Ortskrankenkassen,  
 die Betriebskrankenkassen einen Landesverband der Betriebskrankenkassen,  
-die Innungskrankenkassen einen Landesverband der Innungskrankenkassen.  
-Die Landesverbände der Krankenkassen sind Körperschaften des öffentlichen Rechts. Die Krankenkassen gehören mit Ausnahme der Betriebskrankenkassen der Dienstbetriebe des Bundes dem Landesverband des Landes an, in dem sie ihren Sitz haben. Andere Krankenkassen können den Landesverbänden beitreten.
+die Innungskrankenkassen einen Landesverband der Innungskrankenkassen. Die Landesverbände der Krankenkassen sind Körperschaften des öffentlichen Rechts. Die Krankenkassen gehören mit Ausnahme der Betriebskrankenkassen der Dienstbetriebe des Bundes dem Landesverband des Landes an, in dem sie ihren Sitz haben. Andere Krankenkassen können den Landesverbänden beitreten.
 
 (2) Bestehen in einem Land am 1. Januar 1989 mehrere Landesverbände, bestehen diese fort, wenn die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes ihre Zustimmung nicht bis zum 31. Dezember 1989 versagt. Die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder können ihre Zustimmung nach Satz 1 unter Einhaltung einer einjährigen Frist zum Ende eines Kalenderjahres widerrufen. Versagen oder widerrufen sie die Zustimmung, regeln sie die Durchführung der erforderlichen Organisationsänderungen.
 
@@ -7620,15 +7208,13 @@ Die Landesverbände der Krankenkassen sind Körperschaften des öffentlichen Rec
 
 (5) Mit Zustimmung der für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder können sich Landesverbände der gleichen Krankenkassenart zu einem Verband zusammenschließen. Das gilt auch, wenn die Landesverbände ihren Sitz in verschiedenen Ländern haben.
 
-
-## § 208 – Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
+# § 208 – Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
 
 (1) Die Landesverbände unterstehen der Aufsicht der für die Sozialversicherung zuständigen obersten Verwaltungsbehörde des Landes, in dem sie ihren Sitz haben.
 
 (2) Für die Aufsicht gelten die §§ 87 bis 89 des Vierten Buches. Für das Haushalts- und Rechnungswesen einschließlich der Statistiken gelten die §§ 67 bis 70 Abs. 1 und 5, §§ 72 bis 77 Abs. 1, §§ 78 und 79 Abs. 1 und 2, für das Vermögen die §§ 80 und 85 des Vierten Buches. Für das Verwaltungsvermögen gilt § 263 entsprechend.
 
-
-## § 209 – Verwaltungsrat der Landesverbände
+# § 209 – Verwaltungsrat der Landesverbände
 
 (1) Bei den Landesverbänden der Krankenkassen wird als Selbstverwaltungsorgan ein Verwaltungsrat nach näherer Bestimmung der Satzungen gebildet. Der Verwaltungsrat hat höchstens 30 Mitglieder. In dem Verwaltungsrat müssen, soweit möglich, alle Mitgliedskassen vertreten sein.
 
@@ -7638,13 +7224,11 @@ Die Landesverbände der Krankenkassen sind Körperschaften des öffentlichen Rec
 
 (4) Für den Verwaltungsrat gilt § 197 entsprechend. § 33 Abs. 3, § 37 Abs. 1, die §§ 40, 41, 42 Abs. 1 bis 3, § 51 Abs. 1 Satz 1 Nr. 3, die §§ 58, 59, 62, 63 Abs. 1, 3, 4, § 64 Abs. 3 und § 66 Abs. 1 des Vierten Buches gelten entsprechend.
 
-
-## § 209a – Vorstand bei den Landesverbänden
+# § 209a – Vorstand bei den Landesverbänden
 
 Bei den Landesverbänden der Orts-, Betriebs- und Innungskrankenkassen wird ein Vorstand gebildet. Er besteht aus höchstens drei Personen. § 35a Abs. 1 bis 3 und 5 bis 7 des Vierten Buches gilt entsprechend.
 
-
-## § 210 – Satzung der Landesverbände
+# § 210 – Satzung der Landesverbände
 
 (1) Jeder Landesverband hat durch seinen Verwaltungsrat eine Satzung aufzustellen. Die Satzung bedarf der Genehmigung der für die Sozialversicherung zuständigen obersten Verwaltungsbehörde des Landes. Die Satzung muß Bestimmungen enthalten über
 
@@ -7668,8 +7252,7 @@ Bei den Landesverbänden der Orts-, Betriebs- und Innungskrankenkassen wird ein 
 
 (2) Die Satzung muß ferner Bestimmungen darüber enthalten, daß die von dem Spitzenverband Bund der Krankenkassen abzuschließenden Verträge und die Richtlinien nach den § 92 und § 283 Absatz 2 für die Landesverbände und ihre Mitgliedskassen verbindlich sind.
 
-
-## § 211 – Aufgaben der Landesverbände
+# § 211 – Aufgaben der Landesverbände
 
 (1) Die Landesverbände haben die ihnen gesetzlich zugewiesenen Aufgaben zu erfüllen.
 
@@ -7695,13 +7278,11 @@ Bei den Landesverbänden der Orts-, Betriebs- und Innungskrankenkassen wird ein 
 
 (4) Die für die Finanzierung der Aufgaben eines Landesverbandes erforderlichen Mittel werden von seinen Mitgliedskassen sowie von den Krankenkassen derselben Kassenart mit Mitgliedern mit Wohnsitz im Zuständigkeitsbereich des Landesverbandes aufgebracht. Die mitgliedschaftsrechtliche Zuordnung der Krankenkassen nach § 207 Abs. 1 Satz 3 bleibt unberührt. Das Nähere zur Aufbringung der Mittel nach Satz 1 vereinbaren die Landesverbände. Kommt die Vereinbarung nach Satz 3 nicht bis zum 1. November eines Jahres zustande, wird der Inhalt der Vereinbarung durch eine von den Vertragsparteien zu bestimmende Schiedsperson festgelegt.
 
-
-## § 211a – Entscheidungen auf Landesebene
+# § 211a – Entscheidungen auf Landesebene
 
 Die Landesverbände der Krankenkassen und die Ersatzkassen sollen sich über die von ihnen nach diesem Gesetz gemeinsam und einheitlich zu treffenden Entscheidungen einigen. Kommt eine Einigung nicht zustande, erfolgt die Beschlussfassung durch je einen Vertreter der Kassenart, dessen Stimme mit der landesweiten Anzahl der Versicherten nach der Statistik KM6 seiner Kassenart zu gewichten ist. Die Gewichtung ist entsprechend der Entwicklung der Versichertenzahlen nach der Statistik KM6 jährlich zum 1. Januar anzupassen.
 
-
-## § 212 – Bundesverbände, Deutsche Rentenversicherung Knappschaft-Bahn-See, Verbände der Ersatzkassen
+# § 212 – Bundesverbände, Deutsche Rentenversicherung Knappschaft-Bahn-See, Verbände der Ersatzkassen
 
 (1) Die nach § 212 Abs. 1 in der bis zum 31. Dezember 2008 geltenden Fassung bestehenden Bundesverbände werden kraft Gesetzes zum 1. Januar 2009 in Gesellschaften des bürgerlichen Rechts umgewandelt. Gesellschafter der Gesellschaften sind die am 31. Dezember 2008 vorhandenen Mitglieder des jeweiligen Bundesverbandes. Die Gesellschaften sind bis zum 31. Dezember 2012 verpflichtet, den bei den bis zum 31. Dezember 2008 bestehenden Bundesverbänden unbefristet tätigen Angestellten ein neues Beschäftigungsverhältnis zu vermitteln. So lange sind betriebsbedingte Kündigungen unzulässig. Nach dem 31. Dezember 2012 steht es den Gesellschaftern frei, über den Fortbestand der Gesellschaft und die Gestaltung der Gesellschaftsverhältnisse zu entscheiden. Soweit sich aus den folgenden Vorschriften nichts anderes ergibt, finden die Vorschriften des Bürgerlichen Gesetzbuchs über die Gesellschaft bürgerlichen Rechts Anwendung. Der Gesellschaft nach Satz 1 können Krankenkassen der jeweiligen Kassenart beitreten.
 
@@ -7715,8 +7296,7 @@ Die Landesverbände der Krankenkassen und die Ersatzkassen sollen sich über die
 
 (6) Absatz 5 Satz 6, 8 und 9 gilt für die Krankenkassen der anderen Kassenarten entsprechend. Besteht in einem Land ein Landesverband, gilt abweichend von Satz 1 der Landesverband als Bevollmächtigter der Kassenart. Satz 2 gilt entsprechend, wenn die Aufgaben eines Landesverbandes von einer Krankenkasse oder einem anderen Landesverband nach § 207 wahrgenommen werden. Bestehen in einem Land mehrere Landesverbände, gelten diese in ihrem jeweiligen Zuständigkeitsbereich als Bevollmächtigte.
 
-
-## § 213 – Rechtsnachfolge, Vermögensübergang, Arbeitsverhältnisse
+# § 213 – Rechtsnachfolge, Vermögensübergang, Arbeitsverhältnisse
 
 (1) Das den bis zum 31. Dezember 2008 bestehenden Bundesverbänden zustehende Vermögen wandelt sich in Gesamthandsvermögen der Gesellschaften des bürgerlichen Rechts um. Für die Arbeitsverhältnisse findet § 613a des Bürgerlichen Gesetzbuchs entsprechend Anwendung. Für Ansprüche aus Dienst- und Arbeitsvertrag einschließlich der Ansprüche auf Versorgung haften die Gesellschafter zeitlich unbeschränkt. Bei Auflösung eines Verbandes der Ersatzkassen oder des Austritts eines Mitglieds aus einem Verband der Ersatzkassen haften die Vereinsmitglieder für Ansprüche aus Dienst- und Arbeitsvertrag einschließlich der Ansprüche auf Versorgung zeitlich unbeschränkt. Die bei den bis zum 31. Dezember 2008 bestehenden Bundesverbänden tätigen Angestellten, für die die Dienstordnung gilt, werden unter Wahrung ihrer Rechtsstellung und Fortgeltung der jeweiligen Dienstordnungen bei den Gesellschaften beschäftigt. § 168 Absatz 1 und 2 gilt entsprechend. Angestellte, für die die Dienstordnung gilt, haben einen Anspruch auf Anstellung bei einem Landesverband ihrer Wahl; der Landesverband muss zuvor Mitglied des Bundesverbandes nach § 212 in der bis zum 31. Dezember 2008 geltenden Fassung gewesen sein, bei dem der Dienstordnungsangestellte angestellt war. Der Landesverband oder die Krankenkasse, der oder die einen Dienstordnungsangestellten oder einen übrigen Beschäftigten anstellt, dessen Arbeitsplatz bei einem der bis zum 31. Dezember 2008 bestehenden Bundesverbände oder bei einer der in Satz 1 genannten Gesellschaften bürgerlichen Rechts weggefallen ist, hat einen Ausgleichsanspruch gegen die übrigen Landesverbände oder Krankenkassen der Kassenart. Für die Vergütungs- und Versorgungsansprüche haften die Gesellschafter zeitlich unbeschränkt. Die Sätze 6 bis 9 gelten auch für die Beschäftigten der Verbände der Ersatzkassen.
 
@@ -7730,35 +7310,29 @@ Die Landesverbände der Krankenkassen und die Ersatzkassen sollen sich über die
 
 (6) Der Spitzenverband Bund soll den Beschäftigten der nach § 212 Abs. 1 in der bis zum 31. Dezember 2008 geltenden Fassung bestehenden Bundesverbände sowie den Beschäftigten der Verbände der Ersatzkassen eine Anstellung anbieten, soweit dies für eine ordnungsgemäße Erfüllung der Aufgaben des Spitzenverbandes Bund erforderlich ist. Einer vorherigen Ausschreibung bedarf es nicht.
 
-
-## § 214 – Aufgaben
+# § 214 – Aufgaben
 
 Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfolge oder aus Gesetz zu erfüllen. Die Gesellschafter können im Gesellschaftsvertrag weitere Aufgaben zur Unterstützung der Durchführung der gesetzlichen Krankenversicherung vereinbaren.
 
-
-## § 215 – (weggefallen)
-
-\-
-
-
-## § 216 – (weggefallen)
+# § 215 – (weggefallen)
 
 \-
 
-
-## § 217 – (weggefallen)
+# § 216 – (weggefallen)
 
 \-
 
+# § 217 – (weggefallen)
 
-## § 217a – Errichtung des Spitzenverbandes Bund der Krankenkassen
+\-
+
+# § 217a – Errichtung des Spitzenverbandes Bund der Krankenkassen
 
 (1) Die Krankenkassen bilden den Spitzenverband Bund der Krankenkassen.
 
 (2) Der Spitzenverband Bund der Krankenkassen ist eine Körperschaft des öffentlichen Rechts.
 
-
-## § 217b – Organe
+# § 217b – Organe
 
 (1) Bei dem Spitzenverband Bund der Krankenkassen wird als Selbstverwaltungsorgan ein Verwaltungsrat gebildet. Ein Mitglied des Verwaltungsrates muss dem Verwaltungsrat, dem ehrenamtlichen Vorstand oder der Vertreterversammlung einer Mitgliedskasse angehören. § 33 Abs. 3, die §§ 40, 41, 42 Abs. 1 bis 3, die §§ 58, 59, 62 Absatz 1 bis 4 und 6, § 63 Abs. 1, 3, 4, § 64 Absatz 1 bis 3a und § 66 Abs. 1 des Vierten Buches und § 197 gelten entsprechend.
 
@@ -7784,8 +7358,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 (6) Der Lenkungs- und Koordinierungsausschuss kann zu Themen, die in die Zuständigkeit des Verwaltungsrates des Spitzenverbandes Bund der Krankenkassen fallen, vor Beschlussfassungen Stellungnahmen abgeben. Fordert der Verwaltungsrat mit der Mehrheit seiner Stimmen eine Stellungnahme des Lenkungs- und Koordinierungsausschusses an, muss der Lenkungs- und Koordinierungsausschuss die angeforderte Stellungnahme abgeben. Mitglieder des Lenkungs- und Koordinierungsausschusses sind berechtigt, an nicht öffentlichen Sitzungen des Verwaltungsrates teilzunehmen.
 
-
-## § 217c – Wahl des Verwaltungsrates und des Vorsitzenden der Mitgliederversammlung
+# § 217c – Wahl des Verwaltungsrates und des Vorsitzenden der Mitgliederversammlung
 
 (1) Der Verwaltungsrat besteht aus höchstens 52 Mitgliedern. Zu wählen sind als Mitglieder des Verwaltungsrates Versichertenvertreter und Arbeitgebervertreter für die Allgemeinen Ortskrankenkassen, die Ersatzkassen, die Betriebskrankenkassen und die Innungskrankenkassen sowie gemeinsame Versicherten- und Arbeitgebervertreter für die Deutsche Rentenversicherung Knappschaft-Bahn-See und die landwirtschaftliche Krankenkasse. Abweichend von Satz 2 sind für die Ersatzkassen, deren Verwaltungsrat nicht zur Hälfte mit Vertretern der Arbeitgeber besetzt ist, nur Versichertenvertreter zu wählen. Für jedes Mitglied ist ein Stellvertreter zu wählen. § 43 Absatz 2 des Vierten Buches gilt entsprechend. Die Verteilung der Sitze bestimmt sich nach den bundesweiten Versichertenzahlen der Kassenarten zum 1. Januar des Kalenderjahres, in dem die Mitgliederversammlung den Verwaltungsrat für die neue Wahlperiode wählt.
 
@@ -7803,8 +7376,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 (8) Das Nähere zur Durchführung der Wahl des Verwaltungsrates und der Wahl des Vorsitzenden der Mitgliederversammlung sowohl für die Wahl im Errichtungsstadium wie auch für die folgenden Wahlen nach Ablauf der jeweiligen Amtsperioden kann das Bundesministerium für Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates in einer Wahlordnung regeln.
 
-
-## § 217d – Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
+# § 217d – Aufsicht, Haushalts- und Rechnungswesen, Vermögen, Statistiken
 
 (1) Der Spitzenverband Bund der Krankenkassen untersteht der Aufsicht des Bundesministeriums für Gesundheit, bei Ausführung des § 217f Abs. 3 der Aufsicht des Bundesministeriums für Arbeit und Soziales. Die Aufsicht über den Spitzenverband Bund der Krankenkassen in seiner Funktion als Verbindungsstelle nach § 219a wird vom Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ausgeübt.
 
@@ -7814,8 +7386,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 (4) Der Haushaltsplan wird vom Vorstand aufgestellt. Der Verwaltungsrat stellt ihn fest. Der Haushaltsplan bedarf der Genehmigung der Aufsichtsbehörde. Der Spitzenverband Bund der Krankenkassen hat den vom Vorstand aufgestellten Haushaltsplan spätestens am 1. Oktober vor Beginn des Kalenderjahres, für das er gelten soll, der Aufsichtsbehörde vorzulegen. Diese kann die Genehmigung auch für einzelne Ansätze versagen, soweit der Haushaltsplan gegen Gesetz oder sonstiges für den Spitzenverband Bund der Krankenkassen maßgebendes Recht verstößt oder die Bewertungs- und Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind.
 
-
-## § 217e – Satzung
+# § 217e – Satzung
 
 (1) Der Verwaltungsrat hat eine Satzung zu beschließen. Die Satzung bedarf der Genehmigung der zuständigen Aufsichtsbehörde. Der Spitzenverband Bund hat seinen Sitz in Berlin; die Satzung kann einen davon abweichenden Sitz bestimmen. Die Verbindungsstelle (§ 219a) hat ihren Sitz in Bonn; die Satzung kann einen davon abweichenden Sitz in Berücksichtigung der spezifischen Aufgabenstellung festlegen. Die Satzung muss Bestimmungen enthalten über
 
@@ -7841,8 +7412,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 (2) Die vom Spitzenverband Bund der Krankenkassen abgeschlossenen Verträge und seine sonstigen Entscheidungen gelten für die Mitgliedskassen des Spitzenverbandes, die Landesverbände der Krankenkassen und die Versicherten.
 
-
-## § 217f – Aufgaben des Spitzenverbandes Bund der Krankenkassen
+# § 217f – Aufgaben des Spitzenverbandes Bund der Krankenkassen
 
 (1) Der Spitzenverband Bund der Krankenkassen hat ab dem 1. Juli 2008 die ihm gesetzlich zugewiesenen Aufgaben zu erfüllen. Der Vorstand hat dem Bundesministerium für Gesundheit zu berichten, wenn die dem Spitzenverband Bund der Krankenkassen gesetzlich zugewiesenen Aufgaben nicht rechtzeitig umgesetzt werden. Der Bericht ist dem Bundesministerium für Gesundheit spätestens innerhalb eines Monats nach dem für die Umsetzung der gesetzlichen Aufgabe vorgegebenen Zeitpunkt schriftlich vorzulegen. In dem Bericht sind insbesondere die Gründe für die nicht rechtzeitige Umsetzung, der Sachstand und das weitere Verfahren darzulegen.
 
@@ -7866,8 +7436,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 (8) Der Spitzenverband Bund der Krankenkassen hat zur Sicherheit des Zahlungsverkehrs und der Buchführung für die Krankenkassen in Abstimmung mit dem Bundesversicherungsamt eine Musterkassenordnung nach § 3 der Sozialversicherungs-Rechnungsverordnung aufzustellen.
 
-
-## § 217g – Aufsichtsmittel in besonderen Fällen bei dem Spitzenverband Bund der Krankenkassen
+# § 217g – Aufsichtsmittel in besonderen Fällen bei dem Spitzenverband Bund der Krankenkassen
 
 (1) Ergibt sich nachträglich, dass eine Satzung nicht hätte genehmigt werden dürfen, oder bedarf eine Satzung wegen nachträglich eingetretener rechtlicher oder tatsächlicher Umstände, die zur Rechtswidrigkeit der Satzung führen, einer Änderung, so kann die Aufsichtsbehörde anordnen, dass der Spitzenverband Bund der Krankenkassen innerhalb einer bestimmten Frist die erforderlichen Änderungen vornimmt. Kommt der Spitzenverband Bund der Krankenkassen der Anordnung innerhalb der Frist nicht nach, so kann die Aufsichtsbehörde die erforderlichen Änderungen selbst vornehmen.
 
@@ -7877,8 +7446,7 @@ Die Gesellschaft hat die Aufgabe, die Verpflichtungen auf Grund der Rechtsnachfo
 
 (4) Einer Anordnung mit Fristsetzung bedarf es nicht, wenn ein Beschluss nach Absatz 1 oder Absatz 2 auf Grund gesetzlicher Regelungen innerhalb einer bestimmten Frist zu fassen ist. Klagen gegen Anordnungen und Maßnahmen der Aufsichtsbehörde nach den Absätzen 1 bis 3 haben keine aufschiebende Wirkung.
 
-
-## § 217h – Entsandte Person für besondere Angelegenheiten bei dem Spitzenverband Bund der Krankenkassen
+# § 217h – Entsandte Person für besondere Angelegenheiten bei dem Spitzenverband Bund der Krankenkassen
 
 (1) Solange und soweit die ordnungsgemäße Verwaltung bei dem Spitzenverband Bund der Krankenkassen gefährdet ist, kann die Aufsichtsbehörde eine Person an den Spitzenverband Bund der Krankenkassen entsenden, diese Person mit der Wahrnehmung von Aufgaben bei dem Spitzenverband Bund der Krankenkassen betrauen und ihr hierfür die erforderlichen Befugnisse übertragen. Die ordnungsgemäße Verwaltung ist insbesondere gefährdet, wenn
 
@@ -7898,8 +7466,7 @@ Die Aufsichtsbehörde kann die Person in diesen Fällen zur Beratung und Unterst
 
 (4) Der Entsendung der Person hat eine Anordnung vorauszugehen, mit der die Aufsichtsbehörde dem Spitzenverband Bund der Krankenkassen aufgibt, innerhalb einer bestimmten Frist das Erforderliche zur Gewährleistung einer ordnungsgemäßen Verwaltung zu veranlassen. Klagen gegen die Anordnung nach Satz 1 oder gegen die Entsendung der Person haben keine aufschiebende Wirkung.
 
-
-## § 217i – Verhinderung von Organen, Bestellung eines Beauftragten
+# § 217i – Verhinderung von Organen, Bestellung eines Beauftragten
 
 (1) Solange und soweit die Wahl des Verwaltungsrates und des Vorstandes des Spitzenverbandes Bund der Krankenkassen nicht zustande kommt oder der Verwaltungsrat oder der Vorstand des Spitzenverbandes Bund der Krankenkassen sich weigert, seine Geschäfte zu führen, kann die Aufsichtsbehörde die Geschäfte selbst führen oder einen Beauftragten bestellen und ihm ganz oder teilweise die Befugnisse eines oder mehrerer Organe des Spitzenverbandes Bund der Krankenkassen übertragen. Dies gilt auch, wenn der Verwaltungsrat oder der Vorstand die Funktionsfähigkeit der Körperschaft gefährdet, insbesondere wenn er die Körperschaft nicht mehr im Einklang mit den Gesetzen oder mit der Satzung verwaltet, die Auflösung des Spitzenverbandes Bund der Krankenkassen betreibt oder das Vermögen gefährdende Entscheidungen beabsichtigt oder trifft.
 
@@ -7907,20 +7474,17 @@ Die Aufsichtsbehörde kann die Person in diesen Fällen zur Beratung und Unterst
 
 (3) Der Führung der Geschäfte durch die Aufsichtsbehörde oder der Bestellung eines Beauftragten hat eine Anordnung vorauszugehen, mit der die Aufsichtsbehörde dem Spitzenverband Bund der Krankenkassen aufgibt, innerhalb einer bestimmten Frist das Erforderliche zu veranlassen. Klagen gegen die Anordnung nach Satz 1, gegen die Entscheidung über die Bestellung eines Beauftragten oder gegen die Wahrnehmung der Aufgaben des Spitzenverbandes Bund der Krankenkassen durch die Aufsichtsbehörde haben keine aufschiebende Wirkung.
 
-
-## § 217j – Berichtspflicht des Bundesministeriums für Gesundheit
+# § 217j – Berichtspflicht des Bundesministeriums für Gesundheit
 
 Sofern schutzwürdige Belange Dritter nicht entgegenstehen, hat das Bundesministerium für Gesundheit dem Ausschuss für Gesundheit des Deutschen Bundestages jährlich zum 1. März, erstmalig zum 1. März 2018, einen Bericht über aufsichtsrechtliche Maßnahmen nach § 217g Absatz 1 bis 3, § 217h Absatz 1 und 4 Satz 1 und § 217i Absatz 1 und 3 Satz 1 und den Erlass von Verpflichtungsbescheiden nach § 89 Absatz 1 Satz 2 des Vierten Buches in Verbindung mit § 217d Absatz 2 Satz 2 sowie über den Sachstand der Aufsichtsverfahren vorzulegen.
 
-
-## § 218 – Regionale Kassenverbände
+# § 218 – Regionale Kassenverbände
 
 (1) Orts-, Betriebs- und Innungskrankenkassen können sich durch übereinstimmenden Beschluß ihrer Verwaltungsräte zu einem Kassenverband vereinigen, wenn sie ihren Sitz im Bezirk desselben Versicherungsamts haben.
 
 (2) Mit Genehmigung der für die Sozialversicherung zuständigen obersten Verwaltungsbehörde des Landes kann sich ein Kassenverband über die Bezirke oder Bezirksteile mehrerer Versicherungsämter erstrecken.
 
-
-## § 219 – Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften des Spitzenverbandes Bund der Krankenkassen
+# § 219 – Besondere Regelungen zu Einrichtungen und Arbeitsgemeinschaften des Spitzenverbandes Bund der Krankenkassen
 
 (1) Die Krankenkassen und ihre Verbände können insbesondere mit Kassenärztlichen Vereinigungen und anderen Leistungserbringern sowie mit dem öffentlichen Gesundheitsdienst zur Förderung der Gesundheit, Prävention, Versorgung chronisch Kranker und Rehabilitation Arbeitsgemeinschaften zur Wahrnehmung der in § 94 Abs. 1a Satz 1 des Zehnten Buches genannten Aufgaben bilden.
 
@@ -7942,8 +7506,7 @@ Der Bericht über das abgelaufene Geschäftsjahr ist dem Verwaltungsrat des Spit
 
 (5) Die Absätze 2 und 3 gelten entsprechend für Arbeitsgemeinschaften nach § 94 Absatz 1a des Zehnten Buches in Verbindung mit Absatz 1, an denen der Spitzenverband Bund der Krankenkassen beteiligt ist.
 
-
-## § 219a – Deutsche Verbindungsstelle Krankenversicherung - Ausland
+# § 219a – Deutsche Verbindungsstelle Krankenversicherung - Ausland
 
 (1) Der Spitzenverband Bund der Krankenkassen nimmt die Aufgaben der Deutschen Verbindungsstelle Krankenversicherung - Ausland (Verbindungsstelle) wahr. Er erfüllt dabei die ihm durch über- und zwischenstaatliches sowie durch innerstaatliches Recht übertragenen Aufgaben. Insbesondere gehören hierzu
 
@@ -7979,16 +7542,13 @@ Die Festlegung des anzuwendenden Versicherungsrechts erfolgt für in Deutschland
 
 Dies gilt für alle Behandlungen, die bis zum 31. März 2021 begonnen werden. Bei Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt im Vereinigten Königreich von Großbritannien und Nordirland haben, gilt dies für alle Behandlungen, die bis zum 31. Dezember 2020 begonnen werden.
 
-
-## § 219b – Datenaustausch im automatisierten Verfahren zwischen den Trägern der sozialen Sicherheit und der Deutschen Verbindungsstelle Krankenversicherung – Ausland
+# § 219b – Datenaustausch im automatisierten Verfahren zwischen den Trägern der sozialen Sicherheit und der Deutschen Verbindungsstelle Krankenversicherung – Ausland
 
 Der Datenaustausch der Krankenkassen und der anderen Träger der sozialen Sicherheit mit dem Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, erfolgt im automatisierten Verfahren, soweit hierfür strukturierte Dokumente zur Verfügung stehen, die von der bei der Kommission der Europäischen Union eingesetzten Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit festgelegt worden sind. Der Austausch weiterer Daten zwischen den in Satz 1 genannten Stellen im automatisierten Verfahren zur Erfüllung der in § 219a genannten Aufgaben erfolgt nach Gemeinsamen Verfahrensgrundsätzen, die vom Spitzenverband Bund der Krankenkassen, der Deutschen Rentenversicherung Bund und der Deutschen Gesetzlichen Unfallversicherung e. V. bestimmt werden.
 
+# § 219c – (weggefallen)
 
-## § 219c – (weggefallen)
-
-
-## § 219d – Nationale Kontaktstellen
+# § 219d – Nationale Kontaktstellen
 
 (1) Die Aufgaben der nationalen Kontaktstelle nach der Richtlinie 2011/24/EU des Europäischen Parlaments und des Rates vom 9. März 2011 über die Ausübung der Patientenrechte in der grenzüberschreitenden Gesundheitsversorgung (ABl. L 88 vom 4.4.2011, S. 45) nimmt der Spitzenverband Bund der Krankenkassen, Deutsche Verbindungsstelle Krankenversicherung – Ausland, ab dem 25. Oktober 2013 wahr. Sie stellt insbesondere Informationen über
 
@@ -8018,8 +7578,7 @@ zur Verfügung. In den Informationen nach Satz 2 Nummer 2 ist klar zu unterschei
 
 Die Änderungen des § 219d durch Artikel 1 Nummer 73 dienen der Umsetzung von Artikel 4 Absatz 2 Buchstabe a und Artikel 5 Buchstabe b Satz 2 der Richtlinie 2011/24/EU des Europäischen Parlaments und des Rates vom 9. März 2011 über die Ausübung der Patientenrechte in der grenzüberschreitenden Gesundheitsversorgung (ABl. L 88 vom 4.4.2011, S. 45) sowie von Artikel 4 der Durchführungsrichtlinie 2012/52/EU der Kommission vom 20. Dezember 2012 mit Maßnahmen zur Erleichterung der Anerkennung von in einem anderen Mitgliedstaat ausgestellten ärztlichen Verschreibungen (ABl. L 356 vom 22.12.2012, S. 68).
 
-
-## § 220 – Grundsatz
+# § 220 – Grundsatz
 
 (1) Die Mittel der Krankenversicherung werden durch Beiträge und sonstige Einnahmen aufgebracht; als Beiträge gelten auch Zusatzbeiträge nach § 242. Darlehensaufnahmen sind nicht zulässig. Die Aufsichtsbehörde kann im Einzelfall Darlehensaufnahmen bei Kreditinstituten zur Finanzierung des Erwerbs von Grundstücken für Eigeneinrichtungen nach § 140 sowie der Errichtung, der Erweiterung oder des Umbaus von Gebäuden für Eigeneinrichtungen nach § 140 genehmigen.
 
@@ -8039,8 +7598,7 @@ Die Schätzung für das Folgejahr dient als Grundlage für die Festlegung des du
 
 (4) (weggefallen)
 
-
-## § 221 – Beteiligung des Bundes an Aufwendungen
+# § 221 – Beteiligung des Bundes an Aufwendungen
 
 (1) Der Bund leistet zur pauschalen Abgeltung der Aufwendungen der Krankenkassen für versicherungsfremde Leistungen jährlich 14,5 Milliarden Euro in monatlich zum ersten Bankarbeitstag zu überweisenden Teilbeträgen an den Gesundheitsfonds.
 
@@ -8054,21 +7612,17 @@ Die Schätzung für das Folgejahr dient als Grundlage für die Festlegung des du
 
 Absatz 2 Satz 2 gilt entsprechend. Der Anteil nach Satz 1 Nummer 1 wird dem Innovationsfonds und der Anteil nach Satz 1 Nummer 2 dem Strukturfonds zugeführt. Die auf die landwirtschaftliche Krankenkasse nach Satz 1 Nummer 1 und 2 entfallenden Anteile an den Mitteln für den Innovationsfonds nach § 92a und den Strukturfonds nach den §§ 12 und 12a des Krankenhausfinanzierungsgesetzes werden nach Vorliegen der Geschäfts- und Rechnungsergebnisse des Gesundheitsfonds für das abgelaufene Kalenderjahr festgesetzt und mit der landwirtschaftlichen Krankenkasse abgerechnet. Solange ein Anteil nach Satz 4 noch nicht feststeht, kann das Bundesversicherungsamt einen vorläufigen Betrag festsetzen. Das Nähere zur Festsetzung des Betrags und zur Abrechnung mit der landwirtschaftlichen Krankenkasse bestimmt das Bundesversicherungsamt.
 
-
-## § 221a – Ergänzende Bundeszuschüsse an den Gesundheitsfonds im Jahr 2021
+# § 221a – Ergänzende Bundeszuschüsse an den Gesundheitsfonds im Jahr 2021
 
 (1) Unbeschadet des § 221 Absatz 1 leistet der Bund im Jahr 2021 zur Stabilisierung des durchschnittlichen Zusatzbeitragssatzes gemäß § 242a im Jahr 2021 einen ergänzenden Bundeszuschuss in Höhe von 5 Milliarden Euro an den Gesundheitsfonds. Der Gesundheitsfonds überweist von den ihm zufließenden Leistungen nach Satz 1 der landwirtschaftlichen Krankenkasse einen Betrag von 30 Millionen Euro.
 
 (2) Der Bund leistet bis zum 1. April 2021 unbeschadet der Bundeszuschüsse nach Absatz 1 und nach § 221 Absatz 1 einen ergänzenden Bundeszuschuss in Höhe von 300 Millionen Euro an die Liquiditätsreserve des Gesundheitsfonds als Beitrag zum Ausgleich für die Mehrausgaben der gesetzlichen Krankenversicherung in Folge der Regelung zum Kinderkrankengeld nach § 45 Absatz 2a. Überschreiten die in Satz 1 genannten Mehrausgaben im Jahr 2021 einen Betrag von 300 Millionen Euro, leistet der Bund zum 1. Juli 2022 einen weiteren ergänzenden Bundeszuschuss an die Liquiditätsreserve des Gesundheitsfonds in Höhe des Betrags, um den die in Satz 1 genannten Mehrausgaben den Betrag von 300 Millionen Euro überschreiten. Der nach Satz 2 zu leistende Betrag wird aus der Differenz zwischen den Ausgaben aller gesetzlichen Krankenkassen für das Kinderkrankengeld ausweislich der Jahresrechnungsergebnisse (Statistik KJ 1) für das Jahr 2021 und für das Jahr 2019 einschließlich der jeweils darauf zu entrichtenden Beiträge zur Renten-, Arbeitslosen- und sozialen Pflegeversicherung in Höhe von 24,05 Prozent abzüglich der bereits geleisteten 300 Millionen Euro ermittelt. Der Bund leistet zum 1. Oktober 2021 eine Abschlagszahlung an die Liquiditätsreserve des Gesundheitsfonds auf den nach Satz 2 zu entrichtenden ergänzenden Bundeszuschuss in Höhe eines Betrags, der unter entsprechender Anwendung der Berechnung nach Satz 3 auf der Grundlage der vorläufigen Rechnungsergebnisse des ersten Halbjahres 2021 bestimmt wird. Das Bundesministerium für Gesundheit ermittelt die Überschreitungsbeträge nach den Sätzen 3 und 4 und meldet diese unverzüglich an das Bundesministerium der Finanzen.
 
+# § 221b – (weggefallen)
 
-## § 221b – (weggefallen)
+# § 222 – (weggefallen)
 
-
-## § 222 – (weggefallen)
-
-
-## § 223 – Beitragspflicht, beitragspflichtige Einnahmen, Beitragsbemessungsgrenze
+# § 223 – Beitragspflicht, beitragspflichtige Einnahmen, Beitragsbemessungsgrenze
 
 (1) Die Beiträge sind für jeden Kalendertag der Mitgliedschaft zu zahlen, soweit dieses Buch nichts Abweichendes bestimmt.
 
@@ -8076,15 +7630,13 @@ Absatz 2 Satz 2 gilt entsprechend. Der Anteil nach Satz 1 Nummer 1 wird dem Inno
 
 (3) Beitragspflichtige Einnahmen sind bis zu einem Betrag von einem Dreihundertsechzigstel der Jahresarbeitsentgeltgrenze nach § 6 Abs. 7 für den Kalendertag zu berücksichtigen (Beitragsbemessungsgrenze). Einnahmen, die diesen Betrag übersteigen, bleiben außer Ansatz, soweit dieses Buch nichts Abweichendes bestimmt.
 
-
-## § 224 – Beitragsfreiheit bei Krankengeld, Mutterschaftsgeld oder Elterngeld
+# § 224 – Beitragsfreiheit bei Krankengeld, Mutterschaftsgeld oder Elterngeld
 
 (1) Beitragsfrei ist ein Mitglied für die Dauer des Anspruchs auf Krankengeld oder Mutterschaftsgeld oder des Bezugs von Elterngeld. Die Beitragsfreiheit erstreckt sich nur auf die in Satz 1 genannten Leistungen. Für die Dauer des Bezugs von Krankengeld oder Mutterschaftsgeld gilt § 240 Absatz 4 Satz 1 nicht.
 
 (2) Durch die Beitragsfreiheit wird ein Anspruch auf Schadensersatz nicht ausgeschlossen oder gemindert.
 
-
-## § 225 – Beitragsfreiheit bestimmter Rentenantragsteller
+# § 225 – Beitragsfreiheit bestimmter Rentenantragsteller
 
 Beitragsfrei ist ein Rentenantragsteller bis zum Beginn der Rente, wenn er
 
@@ -8096,8 +7648,7 @@ Beitragsfrei ist ein Rentenantragsteller bis zum Beginn der Rente, wenn er
 
 Satz 1 gilt nicht, wenn der Rentenantragsteller Arbeitseinkommen oder Versorgungsbezüge erhält. § 226 Abs. 2 gilt entsprechend.
 
-
-## § 226 – Beitragspflichtige Einnahmen versicherungspflichtig Beschäftigter
+# § 226 – Beitragspflichtige Einnahmen versicherungspflichtig Beschäftigter
 
 (1) Bei versicherungspflichtig Beschäftigten werden der Beitragsbemessung zugrunde gelegt
 
@@ -8117,20 +7668,17 @@ Dem Arbeitsentgelt steht das Vorruhestandsgeld gleich. Bei Auszubildenden, die i
 
 (4) Bei Arbeitnehmern, die gegen ein monatliches Arbeitsentgelt bis zum oberen Grenzbetrag des Übergangsbereichs (§ 20 Absatz 2 des Vierten Buches) mehr als geringfügig beschäftigt sind, gilt der Betrag der beitragspflichtigen Einnahme nach § 163 Absatz 10 des Sechsten Buches entsprechend.
 
-
-## § 227 – Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die gesetzliche Krankenversicherung und bisher nicht Versicherter
+# § 227 – Beitragspflichtige Einnahmen versicherungspflichtiger Rückkehrer in die gesetzliche Krankenversicherung und bisher nicht Versicherter
 
 Für die nach § 5 Abs. 1 Nr. 13 Versicherungspflichtigen gilt § 240 entsprechend.
 
-
-## § 228 – Rente als beitragspflichtige Einnahmen
+# § 228 – Rente als beitragspflichtige Einnahmen
 
 (1) Als Rente der gesetzlichen Rentenversicherung gelten Renten der allgemeinen Rentenversicherung sowie Renten der knappschaftlichen Rentenversicherung einschließlich der Steigerungsbeträge aus Beiträgen der Höherversicherung. Satz 1 gilt auch, wenn vergleichbare Renten aus dem Ausland bezogen werden.
 
 (2) Bei der Beitragsbemessung sind auch Nachzahlungen einer Rente nach Absatz 1 zu berücksichtigen, soweit sie auf einen Zeitraum entfallen, in dem der Rentner Anspruch auf Leistungen nach diesem Buch hatte. Die Beiträge aus der Nachzahlung gelten als Beiträge für die Monate, für die die Rente nachgezahlt wird. Ein Beitragsbescheid ist abweichend von § 48 Absatz 1 Satz 2 des Zehnten Buches mit Wirkung für die Vergangenheit aufzuheben, soweit Nachzahlungen nach den Sätzen 1 und 2 bei der Beitragsbemessung zu berücksichtigen sind.
 
-
-## § 229 – Versorgungsbezüge als beitragspflichtige Einnahmen
+# § 229 – Versorgungsbezüge als beitragspflichtige Einnahmen
 
 (1) Als der Rente vergleichbare Einnahmen (Versorgungsbezüge) gelten, soweit sie wegen einer Einschränkung der Erwerbsfähigkeit oder zur Alters- oder Hinterbliebenenversorgung erzielt werden,
 
@@ -8156,13 +7704,11 @@ Satz 1 gilt auch, wenn Leistungen dieser Art aus dem Ausland oder von einer zwis
 
 (2) Für Nachzahlungen von Versorgungsbezügen gilt § 228 Abs. 2 entsprechend.
 
-
-## § 230 – Rangfolge der Einnahmearten versicherungspflichtig Beschäftigter
+# § 230 – Rangfolge der Einnahmearten versicherungspflichtig Beschäftigter
 
 Erreicht das Arbeitsentgelt nicht die Beitragsbemessungsgrenze, werden nacheinander der Zahlbetrag der Versorgungsbezüge und das Arbeitseinkommen des Mitglieds bis zur Beitragsbemessungsgrenze berücksichtigt. Der Zahlbetrag der Rente der gesetzlichen Rentenversicherung wird getrennt von den übrigen Einnahmearten bis zur Beitragsbemessungsgrenze berücksichtigt.
 
-
-## § 231 – Erstattung von Beiträgen
+# § 231 – Erstattung von Beiträgen
 
 (1) Beiträge aus Versorgungsbezügen oder Arbeitseinkommen werden dem Mitglied durch die Krankenkasse auf Antrag erstattet, soweit sie auf Beträge entfallen, um die die Versorgungsbezüge und das Arbeitseinkommen zusammen mit dem Arbeitsentgelt einschließlich des einmalig gezahlten Arbeitsentgelts die anteilige Jahresarbeitsentgeltgrenze nach § 6 Abs. 7 überschritten haben.
 
@@ -8170,8 +7716,7 @@ Erreicht das Arbeitsentgelt nicht die Beitragsbemessungsgrenze, werden nacheinan
 
 (3) Weist ein Mitglied, dessen Beiträge nach § 240 Absatz 4a Satz 6 festgesetzt wurden, innerhalb von drei Jahren nach Ablauf des Kalenderjahres, für das die Beiträge zu zahlen waren, beitragspflichtige Einnahmen nach, die für den Kalendertag unterhalb des 30. Teils der monatlichen Beitragsbemessungsgrenze liegen, wird dem Mitglied der Anteil der gezahlten Beiträge erstattet, der die Beiträge übersteigt, die das Mitglied auf der Grundlage der tatsächlich erzielten beitragspflichtigen Einnahmen nach § 240 hätte zahlen müssen.
 
-
-## § 232 – Beitragspflichtige Einnahmen unständig Beschäftigter
+# § 232 – Beitragspflichtige Einnahmen unständig Beschäftigter
 
 (1) Für unständig Beschäftigte ist als beitragspflichtige Einnahmen ohne Rücksicht auf die Beschäftigungsdauer das innerhalb eines Kalendermonats erzielte Arbeitsentgelt bis zur Höhe von einem Zwölftel der Jahresarbeitsentgeltgrenze nach § 6 Abs. 7 zugrunde zu legen. Die §§ 226 und 228 bis 231 dieses Buches sowie § 23a des Vierten Buches gelten.
 
@@ -8179,8 +7724,7 @@ Erreicht das Arbeitsentgelt nicht die Beitragsbemessungsgrenze, werden nacheinan
 
 (3) Unständig ist die Beschäftigung, die auf weniger als eine Woche entweder nach der Natur der Sache befristet zu sein pflegt oder im Voraus durch den Arbeitsvertrag befristet ist.
 
-
-## § 232a – Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
+# § 232a – Beitragspflichtige Einnahmen der Bezieher von Arbeitslosengeld, Unterhaltsgeld oder Kurzarbeitergeld
 
 (1) Als beitragspflichtige Einnahmen gelten
 
@@ -8196,29 +7740,25 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (3) § 226 gilt entsprechend.
 
-
-## § 232b – Beitragspflichtige Einnahmen der Bezieher von Pflegeunterstützungsgeld
+# § 232b – Beitragspflichtige Einnahmen der Bezieher von Pflegeunterstützungsgeld
 
 (1) Bei Personen, die Pflegeunterstützungsgeld nach § 44a Absatz 3 des Elften Buches beziehen, gelten 80 Prozent des während der Freistellung ausgefallenen, laufenden Arbeitsentgelts als beitragspflichtige Einnahmen.
 
 (2) Für Personen, deren Mitgliedschaft nach § 192 Absatz 1 Nummer 2 erhalten bleibt, gelten § 226 Absatz 1 Nummer 2 bis 4 und Absatz 2 sowie die §§ 228 bis 231 entsprechend. Die Einnahmen nach § 226 Absatz 1 Satz 1 Nummer 2 bis 4 unterliegen höchstens in dem Umfang der Beitragspflicht, in dem zuletzt vor dem Bezug des Pflegeunterstützungsgeldes Beitragspflicht bestand. Für freiwillige Mitglieder gilt Satz 2 entsprechend.
 
-
-## § 233 – Beitragspflichtige Einnahmen der Seeleute
+# § 233 – Beitragspflichtige Einnahmen der Seeleute
 
 (1) Für Seeleute gilt als beitragspflichtige Einnahme der Betrag, der nach dem Recht der gesetzlichen Unfallversicherung für die Beitragsberechnung maßgebend ist.
 
 (2) § 226 Abs. 1 Satz 1 Nr. 2 bis 4 und Abs. 2 sowie die §§ 228 bis 231 gelten entsprechend.
 
-
-## § 234 – Beitragspflichtige Einnahmen der Künstler und Publizisten
+# § 234 – Beitragspflichtige Einnahmen der Künstler und Publizisten
 
 (1) Für die nach dem Künstlersozialversicherungsgesetz versicherungspflichtigen Mitglieder wird der Beitragsbemessung der dreihundertsechzigste Teil des voraussichtlichen Jahresarbeitseinkommens (§ 12 des Künstlersozialversicherungsgesetzes), mindestens jedoch der einhundertachtzigste Teil der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch zugrunde gelegt. Für die Dauer des Bezugs von Elterngeld oder Erziehungsgeld oder für die Zeit, in der Erziehungsgeld nur wegen des zu berücksichtigenden Einkommens nicht bezogen wird, wird auf Antrag des Mitglieds das in dieser Zeit voraussichtlich erzielte Arbeitseinkommen nach Satz 1 mit dem auf den Kalendertag entfallenden Teil zugrunde gelegt, wenn es im Durchschnitt monatlich 325 Euro übersteigt. Für Kalendertage, für die Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder für die Beiträge nach § 251 Abs. 1 zu zahlen sind, wird Arbeitseinkommen nicht zugrunde gelegt. Arbeitseinkommen sind auch die Vergütungen für die Verwertung und Nutzung urheberrechtlich geschützter Werke oder Leistungen.
 
 (2) § 226 Abs. 1 Satz 1 Nr. 2 bis 4 und Abs. 2 sowie die §§ 228 bis 231 gelten entsprechend.
 
-
-## § 235 – Beitragspflichtige Einnahmen von Rehabilitanden, Jugendlichen und Menschen mit Behinderungen in Einrichtungen
+# § 235 – Beitragspflichtige Einnahmen von Rehabilitanden, Jugendlichen und Menschen mit Behinderungen in Einrichtungen
 
 (1) Für die nach § 5 Abs. 1 Nr. 6 versicherungspflichtigen Teilnehmer an Leistungen zur Teilhabe am Arbeitsleben gelten als beitragspflichtige Einnahmen 80 Prozent des Regelentgelts, das der Berechnung des Übergangsgeldes zugrunde liegt. Das Entgelt ist um den Zahlbetrag der Rente wegen verminderter Erwerbsfähigkeit sowie um das Entgelt zu kürzen, das aus einer die Versicherungspflicht begründenden Beschäftigung erzielt wird. Bei Personen, die Teilübergangsgeld nach dem Dritten Buch beziehen, ist Satz 2 nicht anzuwenden. Wird das Übergangsgeld, das Verletztengeld oder das Versorgungskrankengeld angepaßt, ist das Entgelt um den gleichen Vomhundertsatz zu erhöhen. Für Teilnehmer, die kein Übergangsgeld erhalten,, sowie für die nach § 5 Abs. 1 Nr. 5 Versicherungspflichtigen gilt als beitragspflichtige Einnahmen ein Arbeitsentgelt in Höhe von 20 vom Hundert der monatlichen Bezugsgröße nach § 18 des Vierten Buches.
 
@@ -8228,15 +7768,13 @@ Bei Personen, die Teilarbeitslosengeld oder Teilunterhaltsgeld nach dem Dritten 
 
 (4) § 226 Abs. 1 Satz 1 Nr. 2 bis 4 und Abs. 2 sowie die §§ 228 bis 231 gelten entsprechend; bei Anwendung des § 230 Satz 1 ist das Arbeitsentgelt vorrangig zu berücksichtigen.
 
-
-## § 236 – Beitragspflichtige Einnahmen der Studenten und Praktikanten
+# § 236 – Beitragspflichtige Einnahmen der Studenten und Praktikanten
 
 (1) Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gilt als beitragspflichtige Einnahmen ein Dreißigstel des Betrages, der als monatlicher Bedarf nach § 13 Abs. 1 Nr. 2 und Abs. 2 des Bundesausbildungsförderungsgesetzes für Studenten festgesetzt ist, die nicht bei ihren Eltern wohnen. Änderungen des Bedarfsbetrags sind vom Beginn des auf die Änderung folgenden Semesters an zu berücksichtigen; als Semester gelten die Zeiten vom 1. April bis 30. September und vom 1. Oktober bis 31. März.
 
 (2) § 226 Abs. 1 Satz 1 Nr. 2 bis 4 und Abs. 2 sowie die §§ 228 bis 231 gelten entsprechend. Die nach § 226 Abs. 1 Satz 1 Nr. 3 und 4 zu bemessenden Beiträge sind nur zu entrichten, soweit sie die nach Absatz 1 zu bemessenden Beiträge übersteigen.
 
-
-## § 237 – Beitragspflichtige Einnahmen versicherungspflichtiger Rentner
+# § 237 – Beitragspflichtige Einnahmen versicherungspflichtiger Rentner
 
 Bei versicherungspflichtigen Rentnern werden der Beitragsbemessung zugrunde gelegt
 
@@ -8248,23 +7786,19 @@ Bei versicherungspflichtigen Rentnern werden der Beitragsbemessung zugrunde gele
 
 Bei Versicherungspflichtigen nach § 5 Absatz 1 Nummer 11b sind die dort genannten Leistungen bis zum Erreichen der Altersgrenzen des § 10 Absatz 2 beitragsfrei. Dies gilt entsprechend für die Leistungen der Hinterbliebenenversorgung nach § 229 Absatz 1 Satz 1 Nummer 1 und für die Waisenrente nach § 15 des Gesetzes über die Alterssicherung der Landwirte. § 226 Abs. 2 und die §§ 228, 229 und 231 gelten entsprechend.
 
-
-## § 238 – Rangfolge der Einnahmearten versicherungspflichtiger Rentner
+# § 238 – Rangfolge der Einnahmearten versicherungspflichtiger Rentner
 
 Erreicht der Zahlbetrag der Rente der gesetzlichen Rentenversicherung nicht die Beitragsbemessungsgrenze, werden nacheinander der Zahlbetrag der Versorgungsbezüge und das Arbeitseinkommen des Mitglieds bis zur Beitragsbemessungsgrenze berücksichtigt.
 
-
-## § 238a – Rangfolge der Einnahmearten freiwillig versicherter Rentner
+# § 238a – Rangfolge der Einnahmearten freiwillig versicherter Rentner
 
 Bei freiwillig versicherten Rentnern werden der Beitragsbemessung nacheinander der Zahlbetrag der Rente, der Zahlbetrag der Versorgungsbezüge, das Arbeitseinkommen und die sonstigen Einnahmen, die die wirtschaftliche Leistungsfähigkeit des freiwilligen Mitglieds bestimmen (§ 240 Abs. 1), bis zur Beitragsbemessungsgrenze zugrunde gelegt.
 
-
-## § 239 – Beitragsbemessung bei Rentenantragstellern
+# § 239 – Beitragsbemessung bei Rentenantragstellern
 
 Bei Rentenantragstellern wird die Beitragsbemessung für die Zeit der Rentenantragstellung bis zum Beginn der Rente durch den Spitzenverband Bund der Krankenkassen geregelt. Dies gilt auch für Personen, bei denen die Rentenzahlung eingestellt wird, bis zum Ablauf des Monats, in dem die Entscheidung über Wegfall oder Entzug der Rente unanfechtbar geworden ist. § 240 gilt entsprechend.
 
-
-## § 240 – Beitragspflichtige Einnahmen freiwilliger Mitglieder
+# § 240 – Beitragspflichtige Einnahmen freiwilliger Mitglieder
 
 (1) Für freiwillige Mitglieder wird die Beitragsbemessung einheitlich durch den Spitzenverband Bund der Krankenkassen geregelt. Dabei ist sicherzustellen, daß die Beitragsbelastung die gesamte wirtschaftliche Leistungsfähigkeit des freiwilligen Mitglieds berücksichtigt; sofern und solange Mitglieder Nachweise über die beitragspflichtigen Einnahmen auf Verlangen der Krankenkasse nicht vorlegen, gilt als beitragspflichtige Einnahmen für den Kalendertag der dreißigste Teil der monatlichen Beitragsbemessungsgrenze (§ 223). Weist ein Mitglied innerhalb einer Frist von zwölf Monaten, nachdem die Beiträge nach Satz 2 auf Grund nicht vorgelegter Einkommensnachweise unter Zugrundelegung der monatlichen Beitragsbemessungsgrenze festgesetzt wurden, geringere Einnahmen nach, sind die Beiträge für die nachgewiesenen Zeiträume neu festzusetzen. Für Zeiträume, für die der Krankenkasse hinreichende Anhaltspunkte dafür vorliegen, dass die beitragspflichtigen Einnahmen des Mitglieds die jeweils anzuwendende Mindestbeitragsbemessungsgrundlage nicht überschreiten, hat sie die Beiträge des Mitglieds neu festzusetzen. Wird der Beitrag nach den Sätzen 3 oder 4 festgesetzt, gilt § 24 des Vierten Buches nur im Umfang der veränderten Beitragsfestsetzung.
 
@@ -8282,13 +7816,11 @@ Bei Rentenantragstellern wird die Beitragsbemessung für die Zeit der Rentenantr
 
 (5) Soweit bei der Beitragsbemessung freiwilliger Mitglieder das Einkommen von Ehegatten oder Lebenspartnern nach dem Lebenspartnerschaftsgesetz, die nicht einer Krankenkasse nach § 4 Absatz 2 angehören, berücksichtigt wird, ist von diesem Einkommen für jedes gemeinsame unterhaltsberechtigte Kind, für das eine Familienversicherung wegen der Regelung des § 10 Absatz 3 nicht besteht, ein Betrag in Höhe von einem Drittel der monatlichen Bezugsgröße, für nach § 10 versicherte Kinder ein Betrag in Höhe von einem Fünftel der monatlichen Bezugsgröße abzusetzen.
 
-
-## § 241 – Allgemeiner Beitragssatz
+# § 241 – Allgemeiner Beitragssatz
 
 Der allgemeine Beitragssatz beträgt 14,6 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
 
-
-## § 242 – Zusatzbeitrag
+# § 242 – Zusatzbeitrag
 
 (1) Soweit der Finanzbedarf einer Krankenkasse durch die Zuweisungen aus dem Gesundheitsfonds nicht gedeckt ist, hat sie in ihrer Satzung zu bestimmen, dass von ihren Mitgliedern ein einkommensabhängiger Zusatzbeitrag erhoben wird. Die Krankenkassen haben den einkommensabhängigen Zusatzbeitrag als Prozentsatz der beitragspflichtigen Einnahmen jedes Mitglieds zu erheben (kassenindividueller Zusatzbeitragssatz). Der Zusatzbeitragssatz ist so zu bemessen, dass die Einnahmen aus dem Zusatzbeitrag zusammen mit den Zuweisungen aus dem Gesundheitsfonds und den sonstigen Einnahmen die im Haushaltsjahr voraussichtlich zu leistenden Ausgaben und die vorgeschriebene Höhe der Rücklage decken; dabei ist die Höhe der voraussichtlichen beitragspflichtigen Einnahmen aller Krankenkassen nach § 220 Absatz 2 Satz 2 je Mitglied zugrunde zu legen. Krankenkassen dürfen ihren Zusatzbeitragssatz nicht anheben, solange ausweislich der zuletzt vorgelegten vierteljährlichen Rechnungsergebnisse ihre nicht für die laufenden Ausgaben benötigten Betriebsmittel zuzüglich der Rücklage nach § 261 sowie der zur Anschaffung und Erneuerung der Vermögensteile bereitgehaltenen Geldmittel nach § 263 Absatz 1 Satz 1 Nummer 2 das 0,8-Fache des durchschnittlich auf einen Monat entfallenden Betrags der Ausgaben für die in § 260 Absatz 1 Nummer 1 genannten Zwecke überschreiten; § 260 Absatz 2 Satz 2 gilt entsprechend.
 
@@ -8316,23 +7848,19 @@ Auf weitere beitragspflichtige Einnahmen dieser Mitglieder findet der Beitragssa
 
 (5) Die Krankenkassen melden die Zusatzbeitragssätze nach Absatz 1 dem Spitzenverband Bund der Krankenkassen. Der Spitzenverband Bund der Krankenkassen führt eine laufend aktualisierte Übersicht, welche Krankenkassen einen Zusatzbeitrag erheben und in welcher Höhe, und veröffentlicht diese Übersicht im Internet. Das Nähere zu Zeitpunkt, Form und Inhalt der Meldungen sowie zur Veröffentlichung regelt der Spitzenverband Bund der Krankenkassen.
 
-
-## § 242a – Durchschnittlicher Zusatzbeitragssatz
+# § 242a – Durchschnittlicher Zusatzbeitragssatz
 
 (1) Der durchschnittliche Zusatzbeitragssatz ergibt sich aus der Differenz zwischen den voraussichtlichen jährlichen Ausgaben der Krankenkassen und den voraussichtlichen jährlichen Einnahmen des Gesundheitsfonds, die für die Zuweisungen nach den §§ 266 und 270 zur Verfügung stehen, geteilt durch die voraussichtlichen jährlichen beitragspflichtigen Einnahmen der Mitglieder aller Krankenkassen, multipliziert mit 100.
 
 (2) Das Bundesministerium für Gesundheit legt nach Auswertung der Ergebnisse des Schätzerkreises nach § 220 Absatz 2 die Höhe des durchschnittlichen Zusatzbeitragssatzes für das Folgejahr fest und gibt diesen Wert in Prozent jeweils bis zum 1. November eines Kalenderjahres im Bundesanzeiger bekannt.
 
+# § 242b – (weggefallen)
 
-## § 242b – (weggefallen)
-
-
-## § 243 – Ermäßigter Beitragssatz
+# § 243 – Ermäßigter Beitragssatz
 
 Für Mitglieder, die keinen Anspruch auf Krankengeld haben, gilt ein ermäßigter Beitragssatz. Dies gilt nicht für die Beitragsbemessung nach § 240 Absatz 4b. Der ermäßigte Beitragssatz beträgt 14,0 Prozent der beitragspflichtigen Einnahmen der Mitglieder.
 
-
-## § 244 – Ermäßigter Beitrag für Wehrdienstleistende und Zivildienstleistende
+# § 244 – Ermäßigter Beitrag für Wehrdienstleistende und Zivildienstleistende
 
 (1) Bei Einberufung zu einem Wehrdienst wird der Beitrag für
 
@@ -8346,30 +7874,25 @@ des Beitrags ermäßigt, der vor der Einberufung zuletzt zu entrichten war. Dies
 
 (3) Die Absätze 1 und 2 gelten für Zivildienstleistende entsprechend. Bei einer Rechtsverordnung nach Absatz 2 tritt an die Stelle des Bundesministeriums der Verteidigung das Bundesministerium für Familie, Senioren, Frauen und Jugend.
 
-
-## § 245 – Beitragssatz für Studenten und Praktikanten
+# § 245 – Beitragssatz für Studenten und Praktikanten
 
 Für die nach § 5 Abs. 1 Nr. 9 und 10 Versicherungspflichtigen gelten als Beitragssatz sieben Zehntel des allgemeinen Beitragssatzes.
 
-
-## § 246 – Beitragssatz für Bezieher von Arbeitslosengeld II
+# § 246 – Beitragssatz für Bezieher von Arbeitslosengeld II
 
 Für Personen, die Arbeitslosengeld II beziehen, gilt als Beitragssatz der ermäßigte Beitragssatz nach § 243.
 
-
-## § 247 – Beitragssatz aus der Rente
+# § 247 – Beitragssatz aus der Rente
 
 Für Versicherungspflichtige findet für die Bemessung der Beiträge aus Renten der gesetzlichen Rentenversicherung der allgemeine Beitragssatz nach § 241 Anwendung. Abweichend von Satz 1 gilt bei Versicherungspflichtigen für die Bemessung der Beiträge aus ausländischen Renten nach § 228 Absatz 1 Satz 2 die Hälfte des allgemeinen Beitragssatzes und abweichend von § 242 Absatz 1 Satz 2 die Hälfte des kassenindividuellen Zusatzbeitragssatzes. Veränderungen des Zusatzbeitragssatzes gelten jeweils vom ersten Tag des zweiten auf die Veränderung folgenden Kalendermonats an; dies gilt nicht für ausländische Renten nach § 228 Absatz 1 Satz 2.
 
 (+++ § 247: zur Anwendung vgl. § 106 Abs. 2 SGB 6 +++)
 
-
-## § 248 – Beitragssatz aus Versorgungsbezügen und Arbeitseinkommen
+# § 248 – Beitragssatz aus Versorgungsbezügen und Arbeitseinkommen
 
 Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus Versorgungsbezügen und Arbeitseinkommen der allgemeine Beitragssatz. Abweichend von Satz 1 gilt bei Versicherungspflichtigen für die Bemessung der Beiträge aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 4 die Hälfte des allgemeinen Beitragssatzes und abweichend von § 242 Absatz 1 Satz 2 die Hälfte des kassenindividuellen Zusatzbeitragssatzes. Veränderungen des Zusatzbeitragssatzes gelten für Versorgungsbezüge nach § 229 in den Fällen des § 256 Absatz 1 Satz 1 jeweils vom ersten Tag des zweiten auf die Veränderung folgenden Kalendermonats an.
 
-
-## § 249 – Tragung der Beiträge bei versicherungspflichtiger Beschäftigung
+# § 249 – Tragung der Beiträge bei versicherungspflichtiger Beschäftigung
 
 (1) Beschäftigte, die nach § 5 Absatz 1 Nummer 1 oder Nummer 13 versicherungspflichtig sind, und ihre Arbeitgeber tragen die nach dem Arbeitsentgelt zu bemessenden Beiträge jeweils zur Hälfte. Bei geringfügig Beschäftigten gilt § 249b.
 
@@ -8377,18 +7900,15 @@ Bei Versicherungspflichtigen gilt für die Bemessung der Beiträge aus Versorgun
 
 (3) Abweichend von Absatz 1 werden die Beiträge bei versicherungspflichtig Beschäftigten mit einem monatlichen Arbeitsentgelt innerhalb des Übergangsbereichs nach § 20 Abs. 2 des Vierten Buches vom Arbeitgeber in Höhe der Hälfte des Betrages, der sich ergibt, wenn der allgemeine oder ermäßigte Beitragssatz zuzüglich des kassenindividuellen Zusatzbeitragssatzes auf das der Beschäftigung zugrunde liegende Arbeitsentgelt angewendet wird, im Übrigen vom Versicherten getragen. Dies gilt auch für Personen, für die § 7 Absatz 3 Anwendung findet.
 
-
-## § 249a – Tragung der Beiträge bei Versicherungspflichtigen mit Rentenbezug
+# § 249a – Tragung der Beiträge bei Versicherungspflichtigen mit Rentenbezug
 
 Versicherungspflichtige, die eine Rente nach § 228 Absatz 1 Satz 1 beziehen, und die Träger der Rentenversicherung tragen die nach der Rente zu bemessenden Beiträge jeweils zur Hälfte. Bei Versicherungspflichtigen, die eine für sie nach § 237 Satz 2 beitragsfreie Waisenrente nach § 48 des Sechsten Buches beziehen, trägt der Träger der Rentenversicherung die Hälfte der nach dieser Rente zu bemessenden Beiträge, wie er sie ohne die Beitragsfreiheit zu tragen hätte. Die Beiträge aus ausländischen Renten nach § 228 Absatz 1 Satz 2 tragen die Rentner allein.
 
-
-## § 249b – Beitrag des Arbeitgebers bei geringfügiger Beschäftigung
+# § 249b – Beitrag des Arbeitgebers bei geringfügiger Beschäftigung
 
 Der Arbeitgeber einer Beschäftigung nach § 8 Abs. 1 Nr. 1 des Vierten Buches hat für Versicherte, die in dieser Beschäftigung versicherungsfrei oder nicht versicherungspflichtig sind, einen Beitrag in Höhe von 13 vom Hundert des Arbeitsentgelts dieser Beschäftigung zu tragen. Für Beschäftigte in Privathaushalten nach § 8a Satz 1 des Vierten Buches, die in dieser Beschäftigung versicherungsfrei oder nicht versicherungspflichtig sind, hat der Arbeitgeber einen Beitrag in Höhe von 5 vom Hundert des Arbeitsentgelts dieser Beschäftigung zu tragen. Für den Beitrag des Arbeitgebers gelten der Dritte Abschnitt des Vierten Buches sowie § 111 Abs. 1 Nr. 2 bis 4, 8 und Abs. 2 und 4 des Vierten Buches entsprechend.
 
-
-## § 249c – Tragung der Beiträge bei Bezug von Pflegeunterstützungsgeld
+# § 249c – Tragung der Beiträge bei Bezug von Pflegeunterstützungsgeld
 
 Bei Bezug von Pflegeunterstützungsgeld werden die Beiträge, soweit sie auf das Pflegeunterstützungsgeld entfallen, getragen
 
@@ -8400,8 +7920,7 @@ Bei Bezug von Pflegeunterstützungsgeld werden die Beiträge, soweit sie auf das
 
 im Übrigen von der Pflegekasse, dem privaten Versicherungsunternehmen oder anteilig von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen. Die Beiträge werden von der Pflegekasse oder dem privaten Versicherungsunternehmen allein oder anteilig von der Festsetzungsstelle für die Beihilfe oder dem Dienstherrn und der Pflegekasse oder dem privaten Versicherungsunternehmen getragen, wenn das dem Pflegeunterstützungsgeld zugrunde liegende monatliche Arbeitsentgelt 450 Euro nicht übersteigt.
 
-
-## § 250 – Tragung der Beiträge durch das Mitglied
+# § 250 – Tragung der Beiträge durch das Mitglied
 
 (1) Versicherungspflichtige tragen die Beiträge aus
 
@@ -8417,8 +7936,7 @@ allein.
 
 (3) Versicherungspflichtige nach § 5 Abs. 1 Nr. 13 tragen ihre Beiträge mit Ausnahme der aus Arbeitsentgelt und nach § 228 Absatz 1 Satz 1 zu tragenden Beiträge allein.
 
-
-## § 251 – Tragung der Beiträge durch Dritte
+# § 251 – Tragung der Beiträge durch Dritte
 
 (1) Der zuständige Rehabilitationsträger trägt die auf Grund der Teilnahme an Leistungen zur Teilhabe am Arbeitsleben sowie an Berufsfindung oder Arbeitserprobung (§ 5 Abs. 1 Nr. 6) oder des Bezugs von Übergangsgeld, Verletztengeld oder Versorgungskrankengeld (§ 192 Abs. 1 Nr. 3) zu zahlenden Beiträge.
 
@@ -8446,8 +7964,7 @@ Für die nach § 5 Abs. 1 Nr. 7 versicherungspflichtigen behinderten Menschen si
 
 (+++ § 251: Änderungsanweisung zu Abs. 5 Satz 8 durch Art. 123 Nr. 27 Buchst. c G v. 20.11.2019 I 1626 mWv 26.11.2019 nicht ausführbar, da Abs. 5 aufgrund der Änderungsanweisung des Art. 123 Nr. 27 Buchst. b G v. 20.11.2019 I 1626 mWv 26.11.2019 keinen Satz 8 hat +++)
 
-
-## § 252 – Beitragszahlung
+# § 252 – Beitragszahlung
 
 (1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die Beiträge von demjenigen zu zahlen, der sie zu tragen hat. Abweichend von Satz 1 zahlen die Bundesagentur für Arbeit oder in den Fällen des § 6a des Zweiten Buches die zugelassenen kommunalen Träger die Beiträge für die Bezieher von Arbeitslosengeld II nach dem Zweiten Buch.
 
@@ -8465,18 +7982,15 @@ Für die nach § 5 Abs. 1 Nr. 7 versicherungspflichtigen behinderten Menschen si
 
 (6) Stellt die Aufsichtsbehörde fest, dass eine Krankenkasse die Monatsabrechnungen über die Sonstigen Beiträge gegenüber dem Bundesamt für Soziale Sicherung als Verwalter des Gesundheitsfonds entgegen der Rechtsverordnung auf Grundlage der §§ 28n und 28p des Vierten Buches nicht, nicht vollständig, nicht richtig oder nicht fristgerecht abgibt, kann sie die Aufforderung zur Behebung der festgestellten Rechtsverletzung und zur Unterlassung künftiger Rechtsverletzungen mit der Androhung eines Zwangsgeldes bis zu 50 000 Euro für jeden Fall der Zuwiderhandlung verbinden.
 
-
-## § 253 – Beitragszahlung aus dem Arbeitsentgelt
+# § 253 – Beitragszahlung aus dem Arbeitsentgelt
 
 Für die Zahlung der Beiträge aus Arbeitsentgelt bei einer versicherungspflichtigen Beschäftigung gelten die Vorschriften über den Gesamtsozialversicherungsbeitrag nach den §§ 28d bis 28n und § 28r des Vierten Buches.
 
-
-## § 254 – Beitragszahlung der Studenten
+# § 254 – Beitragszahlung der Studenten
 
 Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung an der Hochschule die Beiträge für das Semester im voraus an die zuständige Krankenkasse zu zahlen. Der Spitzenverband Bund der Krankenkassen kann andere Zahlungsweisen vorsehen. Weist ein als Student zu Versichernder die Erfüllung der ihm gegenüber der Krankenkasse auf Grund dieses Gesetzbuchs auferlegten Verpflichtungen nicht nach, verweigert die Hochschule die Einschreibung oder die Annahme der Rückmeldung.
 
-
-## § 255 – Beitragszahlung aus der Rente
+# § 255 – Beitragszahlung aus der Rente
 
 (1) Beiträge, die Versicherungspflichtige aus ihrer Rente nach § 228 Absatz 1 Satz 1 zu tragen haben, sind von den Trägern der Rentenversicherung bei der Zahlung der Rente einzubehalten und zusammen mit den von den Trägern der Rentenversicherung zu tragenden Beiträgen an die Deutsche Rentenversicherung Bund für die Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkasse zu zahlen. Bei einer Änderung in der Höhe der Beiträge ist die Erteilung eines besonderen Bescheides durch den Träger der Rentenversicherung nicht erforderlich.
 
@@ -8486,8 +8000,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 (3a) u. (4) (weggefallen)
 
-
-## § 256 – Beitragszahlung aus Versorgungsbezügen
+# § 256 – Beitragszahlung aus Versorgungsbezügen
 
 (1) Für Versicherungspflichtige haben die Zahlstellen der Versorgungsbezüge die Beiträge aus Versorgungsbezügen einzubehalten und an die zuständige Krankenkasse zu zahlen. Die zu zahlenden Beiträge werden am 15. des Folgemonats der Auszahlung der Versorgungsbezüge fällig. Die Zahlstellen haben der Krankenkasse die einbehaltenen Beiträge nachzuweisen; § 28f Absatz 3 Satz 1 und 2 des Vierten Buches gilt entsprechend. Die Beitragsnachweise sind von den Zahlstellen durch Datenübertragung zu übermitteln; § 202 Absatz 2 gilt entsprechend. Bezieht das Mitglied Versorgungsbezüge von mehreren Zahlstellen und übersteigen die Versorgungsbezüge zusammen mit dem Zahlbetrag der Rente der gesetzlichen Rentenversicherung die Beitragsbemessungsgrenze, verteilt die Krankenkasse auf Antrag des Mitglieds oder einer der Zahlstellen die Beiträge.
 
@@ -8497,8 +8010,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 (4) (weggefallen)
 
-
-## § 256a – Ermäßigung und Erlass von Beitragsschulden und Säumniszuschlägen
+# § 256a – Ermäßigung und Erlass von Beitragsschulden und Säumniszuschlägen
 
 (1) Zeigt ein Versicherter das Vorliegen der Voraussetzungen der Versicherungspflicht nach § 5 Absatz 1 Nummer 13 erst nach einem der in § 186 Absatz 11 Satz 1 und 2 genannten Zeitpunkte an, soll die Krankenkasse die für die Zeit seit dem Eintritt der Versicherungspflicht nachzuzahlenden Beiträge angemessen ermäßigen; darauf entfallende Säumniszuschläge nach § 24 des Vierten Buches sind vollständig zu erlassen.
 
@@ -8508,8 +8020,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 (4) Der Spitzenverband Bund der Krankenkassen regelt das Nähere zur Ermäßigung und zum Erlass von Beiträgen und Säumniszuschlägen nach den Absätzen 1 bis 3, insbesondere zu einem Verzicht auf die Inanspruchnahme von Leistungen als Voraussetzung für die Ermäßigung oder den Erlass. Die Regelungen nach Satz 1 bedürfen zu ihrer Wirksamkeit der Zustimmung des Bundesministeriums für Gesundheit und sind diesem spätestens bis zum 15. September 2013 vorzulegen.
 
-
-## § 257 – Beitragszuschüsse für Beschäftigte
+# § 257 – Beitragszuschüsse für Beschäftigte
 
 (1) Freiwillig in der gesetzlichen Krankenversicherung versicherte Beschäftigte, die nur wegen Überschreitens der Jahresarbeitsentgeltgrenze versicherungsfrei sind, erhalten von ihrem Arbeitgeber als Beitragszuschuß den Betrag, den der Arbeitgeber entsprechend § 249 Absatz 1 oder 2 bei Versicherungspflicht des Beschäftigten zu tragen hätte. Satz 1 gilt für freiwillig in der gesetzlichen Krankenversicherung versicherte Beschäftigte, deren Mitgliedschaft auf der Versicherungsberechtigung nach § 9 Absatz 1 Satz 1 Nummer 8 beruht, entsprechend. Bestehen innerhalb desselben Zeitraums mehrere Beschäftigungsverhältnisse, sind die beteiligten Arbeitgeber anteilig nach dem Verhältnis der Höhe der jeweiligen Arbeitsentgelte zur Zahlung des Beitragszuschusses verpflichtet.
 
@@ -8521,8 +8032,7 @@ Versicherungspflichtige Studenten haben vor der Einschreibung oder Rückmeldung 
 
 2. einen Basistarif im Sinne des § 152 Absatz 1 des Versicherungsaufsichtsgesetzes anbietet,
 
-2a.  
-sich verpflichtet, Interessenten vor Abschluss der Versicherung das amtliche Informationsblatt der Bundesanstalt für Finanzdienstleistungsaufsicht gemäß § 146 Absatz 1 Nummer 6 des Versicherungsaufsichtsgesetzes auszuhändigen, welches über die verschiedenen Prinzipien der gesetzlichen sowie der privaten Krankenversicherung aufklärt,
+2a. sich verpflichtet, Interessenten vor Abschluss der Versicherung das amtliche Informationsblatt der Bundesanstalt für Finanzdienstleistungsaufsicht gemäß § 146 Absatz 1 Nummer 6 des Versicherungsaufsichtsgesetzes auszuhändigen, welches über die verschiedenen Prinzipien der gesetzlichen sowie der privaten Krankenversicherung aufklärt,
 
 3. soweit es über versicherte Personen im brancheneinheitlichen Standardtarif im Sinne von § 257 Abs. 2a in der bis zum 31. Dezember 2008 geltenden Fassung verfügt, sich verpflichtet, die in § 257 Abs. 2a in der bis zum 31. Dezember 2008 geltenden Fassung in Bezug auf den Standardtarif genannten Pflichten einzuhalten,
 
@@ -8540,18 +8050,15 @@ Der Versicherungsnehmer hat dem Arbeitgeber jeweils nach Ablauf von drei Jahren 
 
 (4) Für Bezieher von Vorruhestandsgeld nach § 5 Abs. 3, die als Beschäftigte bis unmittelbar vor Beginn der Vorruhestandsleistungen Anspruch auf den vollen oder anteiligen Beitragszuschuß nach Absatz 2 hatten, bleibt der Anspruch für die Dauer der Vorruhestandsleistungen gegen den zur Zahlung des Vorruhestandsgeldes Verpflichteten erhalten. Der Zuschuss wird in Höhe des Betrages gezahlt, der sich bei Anwendung der Hälfte des Beitragssatzes nach § 243 und des Vorruhestandsgeldes bis zur Beitragsbemessungsgrenze (§ 223 Absatz 3) als Beitrag ergibt, höchstens jedoch in Höhe der Hälfte des Betrages, den der Bezieher von Vorruhestandsgeld für seine Krankenversicherung zu zahlen hat; Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 258 – Beitragszuschüsse für andere Personen
+# § 258 – Beitragszuschüsse für andere Personen
 
 In § 5 Abs. 1 Nr. 6, 7 oder 8 genannte Personen, die nach § 6 Abs. 3a versicherungsfrei sind, sowie Bezieher von Übergangsgeld, die nach § 8 Abs. 1 Nr. 4 von der Versicherungspflicht befreit sind, erhalten vom zuständigen Leistungsträger einen Zuschuß zu ihrem Krankenversicherungsbeitrag. Als Zuschuß ist der Betrag zu zahlen, der von dem Leistungsträger als Beitrag bei Krankenversicherungspflicht zu zahlen wäre, höchstens jedoch der Betrag, der an das private Krankenversicherungsunternehmen zu zahlen ist. § 257 Abs. 2a gilt entsprechend.
 
-
-## § 259 – Mittel der Krankenkasse
+# § 259 – Mittel der Krankenkasse
 
 Die Mittel der Krankenkasse umfassen die Betriebsmittel, die Rücklage und das Verwaltungsvermögen.
 
-
-## § 260 – Betriebsmittel
+# § 260 – Betriebsmittel
 
 (1) Betriebsmittel dürfen nur verwendet werden
 
@@ -8569,8 +8076,7 @@ Die Mittel der Krankenkasse umfassen die Betriebsmittel, die Rücklage und das V
 
 (5) (weggefallen)
 
-
-## § 261 – Rücklage
+# § 261 – Rücklage
 
 (1) Die Krankenkasse hat zur Sicherstellung ihrer Leistungsfähigkeit eine Rücklage zu bilden.
 
@@ -8584,8 +8090,7 @@ Die Mittel der Krankenkasse umfassen die Betriebsmittel, die Rücklage und das V
 
 (6) Die Rücklage ist getrennt von den sonstigen Mitteln so anzulegen, daß sie für den nach Absatz 1 genannten Zweck verfügbar ist. Sie wird vorbehaltlich des § 262 von der Krankenkasse verwaltet.
 
-
-## § 262 – Gesamtrücklage
+# § 262 – Gesamtrücklage
 
 (1) Die Satzungen der Landesverbände können bestimmen, daß die von den Verbandsmitgliedern zu bildenden Rücklagen bis zu einem Drittel des Rücklagesolls von dem Landesverband als Sondervermögen (Gesamtrücklage) verwaltet werden. Die Gesamtrücklage ist vorrangig vor dem von der Krankenkasse verwalteten Teil der Rücklage aufzufüllen.
 
@@ -8597,8 +8102,7 @@ Die Mittel der Krankenkasse umfassen die Betriebsmittel, die Rücklage und das V
 
 (5) Die Gesamtrücklage ist so anzulegen, daß sie für die in § 261 Abs. 1 und 4 genannten Zwecke verfügbar ist.
 
-
-## § 263 – Verwaltungsvermögen
+# § 263 – Verwaltungsvermögen
 
 (1) Das Verwaltungsvermögen der Krankenkasse umfaßt
 
@@ -8610,8 +8114,7 @@ soweit sie für die Erfüllung der Aufgaben der Krankenkasse erforderlich sind. 
 
 (2) Als Verwaltungsvermögen gelten auch sonstige Vermögensanlagen auf Grund rechtlicher Verpflichtung oder Ermächtigung, soweit sie nicht den Betriebsmitteln, der Rücklage oder einem Sondervermögen zuzuordnen sind.
 
-
-## § 263a – Anlagen in Investmentvermögen zur Förderung der Entwicklung digitaler Innovationen
+# § 263a – Anlagen in Investmentvermögen zur Förderung der Entwicklung digitaler Innovationen
 
 (1) Zur Förderung der Entwicklung digitaler Innovationen nach § 68a können Krankenkassen insgesamt bis zu 2 Prozent ihrer Finanzreserven nach § 260 Absatz 2 Satz 1 in Anteile an Investmentvermögen nach § 1 Absatz 1 des Kapitalanlagegesetzbuchs anlegen. § 83 Absatz 2 und 4 des Vierten Buches gilt entsprechend.
 
@@ -8619,8 +8122,7 @@ soweit sie für die Erfüllung der Aufgaben der Krankenkasse erforderlich sind. 
 
 (3) Die Absicht, nach Absatz 1 Anteile an Investmentvermögen zu erwerben, ist der Aufsichtsbehörde vor Abschluss verbindlicher Vereinbarungen umfassend und rechtzeitig anzuzeigen. Über eine Anlage nach Absatz 1 ist der Verwaltungsrat der Krankenkasse unverzüglich zu unterrichten. Anlagen nach Absatz 1 sind in den Jahresrechnungen der Krankenkassen gesondert auszuweisen.
 
-
-## § 264 – Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung
+# § 264 – Übernahme der Krankenbehandlung für nicht Versicherungspflichtige gegen Kostenerstattung
 
 (1) Die Krankenkasse kann für Arbeits- und Erwerbslose, die nicht gesetzlich gegen Krankheit versichert sind, für andere Hilfeempfänger sowie für die vom Bundesministerium für Gesundheit bezeichneten Personenkreise die Krankenbehandlung übernehmen, sofern der Krankenkasse Ersatz der vollen Aufwendungen für den Einzelfall sowie eines angemessenen Teils ihrer Verwaltungskosten gewährleistet wird. Die Krankenkasse ist zur Übernahme der Krankenbehandlung nach Satz 1 für Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes verpflichtet, wenn sie durch die Landesregierung oder die von der Landesregierung beauftragte oberste Landesbehörde dazu aufgefordert wird und mit ihr eine entsprechende Vereinbarung mindestens auf Ebene der Landkreise oder kreisfreien Städte geschlossen wird. Die Vereinbarung über die Übernahme der Krankenbehandlung nach Satz 1 für den in Satz 2 genannten Personenkreis hat insbesondere Regelungen zur Erbringung der Leistungen sowie zum Ersatz der Aufwendungen und Verwaltungskosten nach Satz 1 zu enthalten; die Ausgabe einer elektronischen Gesundheitskarte kann vereinbart werden. Wird von der Landesregierung oder der von ihr beauftragten obersten Landesbehörde eine Rahmenvereinbarung auf Landesebene zur Übernahme der Krankenbehandlung für den in Satz 2 genannten Personenkreis gefordert, sind die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam zum Abschluss einer Rahmenvereinbarung verpflichtet. Zudem vereinbart der Spitzenverband Bund der Krankenkassen mit den auf Bundesebene bestehenden Spitzenorganisationen der nach dem Asylbewerberleistungsgesetz zuständigen Behörden Rahmenempfehlungen zur Übernahme der Krankenbehandlung für den in Satz 2 genannten Personenkreis. Die Rahmenempfehlungen nach Satz 5, die von den zuständigen Behörden nach dem Asylbewerberleistungsgesetz und den Krankenkassen nach den Sätzen 1 bis 3 sowie von den Vertragspartnern auf Landesebene nach Satz 4 übernommen werden sollen, regeln insbesondere die Umsetzung der leistungsrechtlichen Regelungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes, die Abrechnung und die Abrechnungsprüfung der Leistungen sowie den Ersatz der Aufwendungen und der Verwaltungskosten der Krankenkassen nach Satz 1. Bis zum Inkrafttreten einer Regelung, wonach die elektronische Gesundheitskarte bei Vereinbarungen nach Satz 3 zweiter Halbsatz die Angabe zu enthalten hat, dass es sich um einen Empfänger von Gesundheitsleistungen nach den §§ 4 und 6 des Asylbewerberleistungsgesetzes handelt, stellen die Vereinbarungspartner die Erkennbarkeit dieses Status in anderer geeigneter Weise sicher.
 
@@ -8636,13 +8138,11 @@ soweit sie für die Erfüllung der Aufgaben der Krankenkasse erforderlich sind. 
 
 (7) Die Aufwendungen, die den Krankenkassen durch die Übernahme der Krankenbehandlung nach den Absätzen 2 bis 6 entstehen, werden ihnen von den für die Hilfe zuständigen Trägern der Sozialhilfe oder der öffentlichen Jugendhilfe vierteljährlich erstattet. Als angemessene Verwaltungskosten einschließlich Personalaufwand für den Personenkreis nach Absatz 2 werden bis zu 5 vom Hundert der abgerechneten Leistungsaufwendungen festgelegt. Wenn Anhaltspunkte für eine unwirtschaftliche Leistungserbringung oder -gewährung vorliegen, kann der zuständige Träger der Sozialhilfe oder der öffentlichen Jugendhilfe von der jeweiligen Krankenkasse verlangen, die Angemessenheit der Aufwendungen zu prüfen und nachzuweisen.
 
-
-## § 265 – Finanzausgleich für aufwendige Leistungsfälle
+# § 265 – Finanzausgleich für aufwendige Leistungsfälle
 
 Die Satzungen der Landesverbände und der Verbände der Ersatzkassen können eine Umlage der Verbandsmitglieder vorsehen, um die Kosten für aufwendige Leistungsfälle und für andere aufwendige Belastungen ganz oder teilweise zu decken. Die Hilfen können auch als Darlehen gewährt werden; Näheres über Voraussetzungen, Rückzahlung und Verzinsung regelt die Satzung des Verbandes.
 
-
-## § 266 – Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich), Verordnungsermächtigung
+# § 266 – Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich), Verordnungsermächtigung
 
 (1) Die Krankenkassen erhalten als Zuweisungen aus dem Gesundheitsfonds (§ 271) zur Deckung ihrer Ausgaben eine Grundpauschale und risikoadjustierte Zu- und Abschläge zum Ausgleich der unterschiedlichen Risikostrukturen und Zuweisungen für sonstige Ausgaben (§ 270). Mit den risikoadjustierten Zuweisungen wird jährlich ein Risikostrukturausgleich durchgeführt. Durch diesen werden die finanziellen Auswirkungen von Unterschieden zwischen den Krankenkassen ausgeglichen, die sich aus der Verteilung der Versicherten auf nach Risikomerkmalen getrennte Risikogruppen gemäß Absatz 2 ergeben.
 
@@ -8680,11 +8180,9 @@ Das Bundesamt für Soziale Sicherung kann zum Zwecke der einheitlichen Zuordnung
 
 2. die Abgrenzung und die Verfahren der Standardisierung der Leistungsausgaben nach den Absätzen 3 bis 6; dabei können für Risikogruppen, die nach dem Anspruch der Mitglieder auf Krankengeld zu bilden sind, besondere Standardisierungsverfahren und Abgrenzungen für die Berücksichtigung des Krankengeldes geregelt werden,
 
-2a.  
-die Abgrenzung und die Verfahren der Standardisierung der sonstigen Ausgaben nach § 270, die Kriterien der Zuweisung der Mittel zur Deckung dieser Ausgaben sowie das Verfahren der Verarbeitung der nach § 270 Absatz 2 zu übermittelnden Daten,
+2a. die Abgrenzung und die Verfahren der Standardisierung der sonstigen Ausgaben nach § 270, die Kriterien der Zuweisung der Mittel zur Deckung dieser Ausgaben sowie das Verfahren der Verarbeitung der nach § 270 Absatz 2 zu übermittelnden Daten,
 
-2b.  
-die Abgrenzung der zu berücksichtigenden Risikogruppen nach Absatz 2 einschließlich der Altersabstände zwischen den Altersgruppen, auch abweichend von Absatz 2; hierzu gehört auch die Festlegung des Verfahrens zur Auswahl der regionalen Merkmale,
+2b. die Abgrenzung der zu berücksichtigenden Risikogruppen nach Absatz 2 einschließlich der Altersabstände zwischen den Altersgruppen, auch abweichend von Absatz 2; hierzu gehört auch die Festlegung des Verfahrens zur Auswahl der regionalen Merkmale,
 
 3. die Festlegung der Anforderungen an die Zulassung der Programme nach § 137g hinsichtlich des Verfahrens der Einschreibung der Versicherten einschließlich der Dauer der Teilnahme und des Verfahrens der Verarbeitung der für die Durchführung der Programme erforderlichen personenbezogenen Daten,
 
@@ -8712,8 +8210,7 @@ Abweichend von Satz 1 können die Verordnungsregelungen zu Satz 1 Nr. 3 ohne Zus
 
 § 266: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 18.7.2005 I 2888 - 2 BvF 2/01 -
 
-
-## § 267 – Datenverarbeitung für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
+# § 267 – Datenverarbeitung für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
 
 (1) Für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs übermitteln die Krankenkassen für jedes Jahr bis zum 15. August des jeweiligen Folgejahres je Versicherten
 
@@ -8751,8 +8248,7 @@ nach Maßgabe dieser Vorschrift an das Bundesamt für Soziale Sicherung. Eine un
 
 (7) Die Absätze 1 bis 6 gelten nicht für die landwirtschaftliche Krankenkasse.
 
-
-## § 268 – Risikopool
+# § 268 – Risikopool
 
 (1) Ergänzend zum Risikostrukturausgleich gemäß § 266 werden die finanziellen Belastungen für aufwendige Leistungsfälle teilweise über einen Risikopool ausgeglichen. Übersteigt die Summe der im Risikopool ausgleichsfähigen Leistungsausgaben eines Versicherten bei einer Krankenkasse innerhalb eines Ausgleichsjahres den Schwellenwert nach Satz 3, werden 80 Prozent des den Schwellenwert übersteigenden Betrags über den Risikopool ausgeglichen. Der Schwellenwert beträgt 100 000 Euro und ist in den Folgejahren anhand der jährlichen Veränderungsrate der im Risikopool ausgleichsfähigen Leistungsausgaben je Versicherten anzupassen.
 
@@ -8770,8 +8266,7 @@ nach Maßgabe dieser Vorschrift an das Bundesamt für Soziale Sicherung. Eine un
 
 3. die Art, den Umfang und den Zeitpunkt der Bekanntmachung der für die Durchführung des Risikopoolverfahrens erforderlichen Rechenwerte.
 
-
-## § 269 – Sonderregelungen für Krankengeld und Auslandsversicherte
+# § 269 – Sonderregelungen für Krankengeld und Auslandsversicherte
 
 (1) Für Risikogruppen nach § 266 Absatz 2, die nach dem Anspruch der Mitglieder auf Krankengeld zu bilden sind, kann das bestehende Standardisierungsverfahren für die Berücksichtigung des Krankengeldes ab dem Ausgleichsjahr 2013 um ein Verfahren ergänzt werden, das die tatsächlichen Leistungsausgaben der einzelnen Krankenkassen für Krankengeld anteilig berücksichtigt.
 
@@ -8811,8 +8306,7 @@ Darüber hinaus erhebt der Spitzenverband Bund der Krankenkassen, Deutsche Verbi
 
 (4) Das Nähere zur Umsetzung der Vorgaben der Absätze 1 bis 3d, insbesondere zur Abgrenzung der Leistungsausgaben, zum Verfahren einschließlich der Durchführung des Zahlungsverkehrs sowie zur Festlegung der Vorgaben für die Gutachten regelt die Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
-
-## § 270 – Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben
+# § 270 – Zuweisungen aus dem Gesundheitsfonds für sonstige Ausgaben
 
 (1) Die Krankenkassen erhalten aus dem Gesundheitsfonds Zuweisungen zur Deckung
 
@@ -8836,8 +8330,7 @@ Die Krankenkassen übermitteln die Daten nach Satz 1 Nummer 1 bis zum 15. August
 
 (4) Zur Förderung der Durchführung von Vorsorge- und Früherkennungsmaßnahmen erhalten die Krankenkassen aus dem Gesundheitsfonds jährlich eine Pauschale für jeden Versicherten, der an einer vom Gemeinsamen Bundesausschuss in Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 2, 3, 4 und 15 vorgesehenen Mutterschaftsvorsorge, Gesundheits- oder Früherkennungsuntersuchung nach § 25 Absatz 1, 2 und den §§ 25a und 26, Individualprophylaxe nach § 22 Absatz 1, 3 und § 22a Absatz 1 oder Schutzimpfung nach § 20i Absatz 1 teilgenommen hat. Das Bundesamt für Soziale Sicherung ermittelt die Höhe der Zuweisungen und weist die entsprechenden Mittel den Krankenkassen zu. § 266 Absatz 9 gilt entsprechend. Das Nähere über die Kriterien der Vergabe und das Verfahren bestimmt das Bundesministerium für Gesundheit in der Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
-
-## § 270a – Einkommensausgleich
+# § 270a – Einkommensausgleich
 
 (1) Zwischen den Krankenkassen wird im Hinblick auf die von ihnen erhobenen Zusatzbeiträge nach § 242 nach Maßgabe der folgenden Absätze ein vollständiger Ausgleich der beitragspflichtigen Einnahmen ihrer Mitglieder durchgeführt.
 
@@ -8847,8 +8340,7 @@ Die Krankenkassen übermitteln die Daten nach Satz 1 Nummer 1 bis zum 15. August
 
 (4) Das Bundesamt für Soziale Sicherung verwaltet für die Zwecke der Durchführung des Einkommensausgleichs die eingehenden Beträge aus den Zusatzbeiträgen; § 271 Absatz 6 Satz 1 ist entsprechend anzuwenden. Das Bundesamt für Soziale Sicherung ermittelt die Höhe der Mittel nach Absatz 2 und weist sie den Krankenkassen zu. § 266 Absatz 6 Satz 3 und Absatz 7 Satz 7 ist entsprechend anzuwenden. Das Nähere zur Ermittlung der vorläufigen und endgültigen Mittel, die die Krankenkassen im Rahmen des Einkommensausgleichs erhalten, zur Durchführung, zum Zahlungsverkehr und zur Fälligkeit der Beiträge regelt die Rechtsverordnung nach § 266 Absatz 8 Satz 1.
 
-
-## § 271 – Gesundheitsfonds
+# § 271 – Gesundheitsfonds
 
 (1) Das Bundesamt für Soziale Sicherung verwaltet als Sondervermögen (Gesundheitsfonds) die eingehenden Beträge aus:
 
@@ -8880,8 +8372,7 @@ Die Mittel des Gesundheitsfonds sind so anzulegen, dass sie für den in den §§
 
 (7) Die dem Bundesamt für Soziale Sicherung bei der Verwaltung des Fonds entstehenden Ausgaben einschließlich der Ausgaben für die Durchführung und Weiterentwicklung des Risikostrukturausgleichs werden aus den Einnahmen des Gesundheitsfonds gedeckt.
 
-
-## § 271a – Sicherstellung der Einnahmen des Gesundheitsfonds
+# § 271a – Sicherstellung der Einnahmen des Gesundheitsfonds
 
 (1) Steigen die Beitragsrückstände einer Krankenkasse erheblich an, so hat die Krankenkasse nach Aufforderung durch das Bundesamt für Soziale Sicherung diesem die Gründe hierfür zu berichten und innerhalb einer Frist von vier Wochen glaubhaft zu machen, dass der Anstieg nicht auf eine Pflichtverletzung zurückzuführen ist. Entscheidungserhebliche Tatsachen sind durch geeignete Unterlagen glaubhaft zu machen.
 
@@ -8895,8 +8386,7 @@ Die Mittel des Gesundheitsfonds sind so anzulegen, dass sie für den in den §§
 
 (6) § 28r des Vierten Buches und § 251 Abs. 5 Satz 2 bleiben unberührt.
 
-
-## § 272 – Sonderregelungen für den Gesundheitsfonds im Jahr 2021
+# § 272 – Sonderregelungen für den Gesundheitsfonds im Jahr 2021
 
 (1) Den Einnahmen des Gesundheitsfonds nach § 271 Absatz 1 Satz 1 werden im Jahr 2021 Mittel aus den Finanzreserven der Krankenkassen nach § 260 Absatz 2 Satz 1 zugeführt, indem 66,1 Prozent der Finanzreserven nach § 260 Absatz 2 Satz 1 jeder Krankenkasse, die zwei Fünftel des durchschnittlich auf einen Monat entfallenden Betrags der Ausgaben für die in § 260 Absatz 1 Nummer 1 genannten Zwecke überschreiten, herangezogen werden. Abweichend von Satz 1 werden 66,1 Prozent der Finanzreserven nach § 260 Absatz 2 Satz 1 einer Krankenkasse, die ein Fünftel des durchschnittlich auf einen Monat entfallenden Betrags der Ausgaben für die in § 260 Absatz 1 Nummer 1 genannten Zwecke zuzüglich von 3 Millionen Euro überschreiten, herangezogen, wenn dieser Betrag geringer als der sich nach Satz 1 für die Krankenkasse ergebende Betrag ist. Maßgebend für die Rechengrößen nach den Sätzen 1 und 2 sind die von den Krankenkassen für das erste Halbjahr 2020 nach Abschluss des zweiten Quartals 2020 vorgelegten vierteljährlichen Rechnungsergebnisse, die der Spitzenverband Bund der Krankenkassen dem Bundesministerium für Gesundheit am 14. August 2020 übermittelt hat.
 
@@ -8904,8 +8394,7 @@ Die Mittel des Gesundheitsfonds sind so anzulegen, dass sie für den in den §§
 
 (3) Vereinigen sich Krankenkassen nach § 155 ab dem 15. August 2020 und hätte sich für eine, einen Teil oder alle der an der Vereinigung beteiligten Krankenkassen ein Betrag nach Absatz 1 ergeben, macht das Bundesamt für Soziale Sicherung den Betrag oder die Summe der Beträge gegenüber der neuen Krankenkasse nach § 155 Absatz 6 Satz 2 durch Bescheid geltend. Es verrechnet den festgesetzten Betrag mit den nach § 16 Absatz 5 der Risikostruktur-Ausgleichsverordnung für das Ausgleichsjahr 2021 an die neue Krankenkasse nach § 155 Absatz 6 Satz 2 auszuzahlenden Zuweisungen in der Höhe, in der sich die Forderungen decken; Absatz 2 Satz 3 bis 5 gilt entsprechend. Satz 1 gilt nicht, wenn das Bundesamt für Soziale Sicherung zum nach § 155 Absatz 5 bestimmten Zeitpunkt bereits den Bescheid oder die Bescheide nach Absatz 2 Satz 1 gegenüber den an der Vereinigung beteiligten Krankenkassen erlassen hat.
 
-
-## § 273 – Sicherung der Datengrundlagen für den Risikostrukturausgleich
+# § 273 – Sicherung der Datengrundlagen für den Risikostrukturausgleich
 
 (1) Das Bundesamt für Soziale Sicherung prüft im Rahmen der Durchführung des Risikostrukturausgleichs nach Maßgabe der Absätze 2 bis 7 die Datenmeldungen der Krankenkassen nach § 267 Absatz 1 Satz 1 auf ihre Rechtmäßigkeit. § 266 Absatz 8 Satz 1 Nummer 9 und § 274 bleiben unberührt.
 
@@ -8921,8 +8410,7 @@ Die Mittel des Gesundheitsfonds sind so anzulegen, dass sie für den in den §§
 
 (7) Das Bundesamt für Soziale Sicherung führt die Prüfungen nach den Absätzen 2 bis 5 ab dem Berichtsjahr 2013 durch. Im Rahmen der Prüfung nach Absatz 4 oder Absatz 5 kann sich die Krankenkasse nicht darauf berufen, dass die zuständige Aufsichtsbehörde den Vertrag nicht innerhalb der Frist gemäß § 71 Absatz 4 Satz 2, § 71 Absatz 4 Satz 3 in der bis zum 22. Juli 2015 geltenden Fassung oder § 73b Absatz 9 Satz 2 in der bis zum 22. Juli 2015 geltenden Fassung beanstandet hat. Satz 1 gilt nicht für abgeschlossene Einzelfallprüfungen nach § 273 Absatz 3 Satz 1 und 2 in der bis zum 31. März 2020 geltenden Fassung; für die Ermittlung des Korrekturbetrags gilt Absatz 6.
 
-
-## § 274 – Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
+# § 274 – Prüfung der Geschäfts-, Rechnungs- und Betriebsführung
 
 (1) Das Bundesamt für Soziale Sicherung und die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder haben mindestens alle fünf Jahre die Geschäfts-, Rechnungs- und Betriebsführung der ihrer Aufsicht unterstehenden Krankenkassen und deren Arbeitsgemeinschaften zu prüfen. Das Bundesministerium für Gesundheit hat mindestens alle fünf Jahre die Geschäfts-, Rechnungs- und Betriebsführung des Spitzenverbandes Bund der Krankenkassen und der Kassenärztlichen Bundesvereinigungen, die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder haben mindestens alle fünf Jahre die Geschäfts-, Rechnungs- und Betriebsführung der Landesverbände der Krankenkassen und der Kassenärztlichen Vereinigungen sowie der Prüfstelle und des Beschwerdeausschusses nach § 106c zu prüfen. Das Bundesministerium für Gesundheit kann die Prüfung der bundesunmittelbaren Krankenkassen und deren Arbeitsgemeinschaften, die der Aufsicht des Bundesamtes für Soziale Sicherung unterstehen, des Spitzenverbandes Bund der Krankenkassen und der Kassenärztlichen Bundesvereinigungen, die für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder können die Prüfung der landesunmittelbaren Krankenkassen und deren Arbeitsgemeinschaften, die ihrer Aufsicht unterstehen, der Landesverbände der Krankenkassen und der Kassenärztlichen Vereinigungen auf eine öffentlich-rechtliche Prüfungseinrichtung übertragen, die bei der Durchführung der Prüfung unabhängig ist, oder eine solche Prüfungseinrichtung errichten. Die Prüfung hat sich auf den gesamten Geschäftsbetrieb zu erstrecken; sie umfaßt die Prüfung seiner Gesetzmäßigkeit und Wirtschaftlichkeit. Die Krankenkassen, die Verbände und Arbeitsgemeinschaften der Krankenkassen, die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen haben auf Verlangen alle Unterlagen vorzulegen und alle Auskünfte zu erteilen, die zur Durchführung der Prüfung erforderlich sind. Die mit der Prüfung nach diesem Absatz befassten Stellen können nach Anhörung des Spitzenverbandes Bund der Krankenkassen bestimmen, dass die Krankenkassen die zu prüfenden Daten elektronisch und in einer bestimmten Form zur Verfügung stellen. Die mit der Prüfung nach diesem Absatz befassten Stellen können in besonderen Fällen Wirtschaftsprüfer, vereidigte Buchprüfer, spezialisierte Rechtsanwaltskanzleien oder IT-Berater mit einzelnen Bereichen der Prüfung beauftragen. Die durch die Beauftragung entstehenden Kosten sind Kosten der Prüfung im Sinne von Absatz 2.
 
@@ -8932,8 +8420,7 @@ Die Mittel des Gesundheitsfonds sind so anzulegen, dass sie für den in den §§
 
 (4) Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung der gesetzlichen Krankenkassen, ihrer Verbände und Arbeitsgemeinschaften.
 
-
-## § 275 – Begutachtung und Beratung
+# § 275 – Begutachtung und Beratung
 
 (1) Die Krankenkassen sind in den gesetzlich bestimmten Fällen oder wenn es nach Art, Schwere, Dauer oder Häufigkeit der Erkrankung oder nach dem Krankheitsverlauf erforderlich ist, verpflichtet,
 
@@ -8999,8 +8486,7 @@ Der Medizinische Dienst hat den Krankenkassen das Ergebnis seiner Prüfung nach 
 
 (5) Die Gutachterinnen und Gutachter des Medizinischen Dienstes sind bei der Wahrnehmung ihrer fachlichen Aufgaben nur ihrem Gewissen unterworfen. Sie sind nicht berechtigt, in die Behandlung und pflegerische Versorgung der Versicherten einzugreifen.
 
-
-## § 275a – Durchführung und Umfang von Qualitätskontrollen in Krankenhäusern durch den Medizinischen Dienst
+# § 275a – Durchführung und Umfang von Qualitätskontrollen in Krankenhäusern durch den Medizinischen Dienst
 
 (1) Der Medizinische Dienst führt nach Maßgabe der folgenden Absätze und der Richtlinie des Gemeinsamen Bundesausschusses nach § 137 Absatz 3 Kontrollen zur Einhaltung von Qualitätsanforderungen in den nach § 108 zugelassenen Krankenhäusern durch. Voraussetzung für die Durchführung einer solchen Kontrolle ist, dass der Medizinische Dienst hierzu von einer vom Gemeinsamen Bundesausschuss in der Richtlinie nach § 137 Absatz 3 festgelegten Stelle oder einer Stelle nach Absatz 4 beauftragt wurde. Die Kontrollen sind aufwandsarm zu gestalten und können unangemeldet durchgeführt werden.
 
@@ -9018,8 +8504,7 @@ Werden bei Durchführung der Kontrollen Anhaltspunkte für erhebliche Qualitäts
 
 (4) Der Medizinische Dienst kann auch von den für die Krankenhausplanung zuständigen Stellen der Länder mit Kontrollen nach Absatz 1 in Verbindung mit Absatz 2 Satz 3 Nummer 3 beauftragt werden.
 
-
-## § 275b – Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege und außerklinischen Intensivpflege durch den Medizinischen Dienst und Verordnungsermächtigung
+# § 275b – Durchführung und Umfang von Qualitäts- und Abrechnungsprüfungen bei Leistungen der häuslichen Krankenpflege und außerklinischen Intensivpflege durch den Medizinischen Dienst und Verordnungsermächtigung
 
 (1) Die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich veranlassen bei Leistungserbringern, mit denen die Krankenkassen Verträge nach § 132a Absatz 4 oder nach § 132l Absatz 5 abgeschlossen haben und die keiner Regelprüfung nach § 114 Absatz 2 des Elften Buches unterliegen, Regelprüfungen durch den Medizinischen Dienst; § 114 Absatz 2 bis 3 des Elften Buches gilt entsprechend. Abweichend von Satz 1 haben die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich auch Regelprüfungen bei Leistungserbringern zu veranlassen, mit denen die Landesverbände der Krankenkassen und die Ersatzkassen Verträge nach § 132l Absatz 5 Nummer 1 oder Nummer 2 abgeschlossen haben und die einer Regelprüfung nach § 114 Absatz 2 des Elften Buches unterliegen. Der Medizinische Dienst führt bei Leistungserbringern, mit denen die Krankenkassen Verträge nach § 132a Absatz 4 oder die Landesverbände der Krankenkassen und Ersatzkassen Verträge nach § 132l Absatz 5 abgeschlossen haben, im Auftrag der Krankenkassen oder der Landesverbände der Krankenkassen auch anlassbezogen Prüfungen durch, ob die Leistungs- und Qualitätsanforderungen nach diesem Buch und den nach diesem Buch abgeschlossenen vertraglichen Vereinbarungen für Leistungen nach § 37 oder nach § 37c erfüllt sind und ob die Abrechnung ordnungsgemäß erfolgt ist; § 114 Absatz 4 des Elften Buches gilt entsprechend. Das Nähere, insbesondere zu den Prüfanlässen, den Inhalten der Prüfungen, der Durchführung der Prüfungen, der Beteiligung der Krankenkassen an den Prüfungen sowie zur Abstimmung der Prüfungen nach den Sätzen 1 und 2 mit den Prüfungen nach § 114 des Elften Buches bestimmt der Medizinische Dienst Bund in Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 1 und 2. § 114a Absatz 7 Satz 5 bis 8 und 11 des Elften Buches gilt entsprechend mit der Maßgabe, dass auch den für die Wahrnehmung der Interessen von Pflegediensten maßgeblichen Spitzenorganisationen auf Bundesebene Gelegenheit zur Stellungnahme zu geben ist.
 
@@ -9031,8 +8516,7 @@ Werden bei Durchführung der Kontrollen Anhaltspunkte für erhebliche Qualitäts
 
 (5) Das Bundesministerium für Gesundheit kann nach einer erneuten Risikobeurteilung bei Fortbestehen oder erneutem Risiko für ein Infektionsgeschehen im Zusammenhang mit dem neuartigen Coronarvirus SARS-CoV-2 den Befristungszeitraum nach Absatz 4 durch Rechtsverordnung mit Zustimmung des Bundesrates um jeweils bis zu einem halben Jahr verlängern.
 
-
-## § 275c – Durchführung und Umfang von Prüfungen bei Krankenhausbehandlung durch den Medizinischen Dienst
+# § 275c – Durchführung und Umfang von Prüfungen bei Krankenhausbehandlung durch den Medizinischen Dienst
 
 (1) Bei Krankenhausbehandlung nach § 39 ist eine Prüfung der Rechnung des Krankenhauses spätestens vier Monate nach deren Eingang bei der Krankenkasse einzuleiten und durch den Medizinischen Dienst dem Krankenhaus anzuzeigen. Falls die Prüfung nicht zu einer Minderung des Abrechnungsbetrages führt, hat die Krankenkasse dem Krankenhaus eine Aufwandspauschale in Höhe von 300 Euro zu entrichten. Als Prüfung nach Satz 1 ist jede Prüfung der Abrechnung eines Krankenhauses anzusehen, mit der die Krankenkasse den Medizinischen Dienst zum Zwecke der Erstellung einer gutachtlichen Stellungnahme nach § 275 Absatz 1 Nummer 1 beauftragt und die eine Datenerhebung durch den Medizinischen Dienst beim Krankenhaus erfordert. Die Prüfungen nach Satz 1 sind, soweit in den Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 1 und 2 nichts Abweichendes bestimmt ist, bei dem Medizinischen Dienst einzuleiten, der örtlich für das zu prüfende Krankenhaus zuständig ist.
 
@@ -9086,8 +8570,7 @@ Die Ergebnisse sind auch in zusammengefasster Form, bundesweit und gegliedert na
 
 (7) Vereinbarungen zwischen Krankenkassen und Krankenhäusern über pauschale Abschläge auf die Abrechnung geltender Entgelte für Krankenhausleistungen zur Abbedingung der Prüfung der Wirtschaftlichkeit erbrachter Krankenhausleistungen oder der Rechtmäßigkeit der Krankenhausabrechnung sind nicht zulässig. Vereinbarungen auf Grundlage von § 17c Absatz 2 Satz 1 und 2 Nummer 3 und 7 sowie Absatz 2b des Krankenhausfinanzierungsgesetzes bleiben unberührt.
 
-
-## § 275d – Prüfung von Strukturmerkmalen
+# § 275d – Prüfung von Strukturmerkmalen
 
 (1) Krankenhäuser haben die Einhaltung von Strukturmerkmalen auf Grund des vom Bundesinstitut für Arzneimittel und Medizinprodukte herausgegebenen Operationen- und Prozedurenschlüssels nach § 301 Absatz 2 durch den Medizinischen Dienst begutachten zu lassen, bevor sie entsprechende Leistungen abrechnen. Grundlage der Begutachtung nach Satz 1 ist die Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3. Krankenhäuser haben die für die Begutachtung erforderlichen personen- und einrichtungsbezogenen Daten an den Medizinischen Dienst zu übermitteln. Die Begutachtungen nach Satz 1 erfolgen, soweit in den Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 3 nichts Abweichendes bestimmt wird, durch den Medizinischen Dienst, der örtlich für das zu begutachtende Krankenhaus zuständig ist.
 
@@ -9099,8 +8582,7 @@ Die Ergebnisse sind auch in zusammengefasster Form, bundesweit und gegliedert na
 
 (5) Die Kosten des Medizinischen Dienstes für eine Begutachtung werden entsprechend § 280 Absatz 1 durch eine Umlage aufgebracht.
 
-
-## § 276 – Zusammenarbeit
+# § 276 – Zusammenarbeit
 
 (1) Die Krankenkassen sind verpflichtet, dem Medizinischen Dienst die für die Beratung und Begutachtung erforderlichen Unterlagen vorzulegen und Auskünfte zu erteilen. Unterlagen, die der Versicherte über seine Mitwirkungspflicht nach den §§ 60 und 65 des Ersten Buches hinaus seiner Krankenkasse freiwillig selbst überlassen hat, dürfen an den Medizinischen Dienst nur weitergegeben werden, soweit der Versicherte eingewilligt hat. Für die Einwilligung gilt § 67b Abs. 2 des Zehnten Buches.
 
@@ -9120,15 +8602,13 @@ Die Ergebnisse sind auch in zusammengefasster Form, bundesweit und gegliedert na
 
 (6) Die Aufgaben des Medizinischen Dienstes im Rahmen der sozialen Pflegeversicherung ergeben sich zusätzlich zu den Bestimmungen dieses Buches aus den Vorschriften des Elften Buches.
 
-
-## § 277 – Mitteilungspflichten
+# § 277 – Mitteilungspflichten
 
 (1) Der Medizinische Dienst hat dem an der vertragsärztlichen Versorgung teilnehmenden Arzt, sonstigen Leistungserbringern, über deren Leistungen er eine gutachtliche Stellungnahme abgegeben hat, und der Krankenkasse das Ergebnis der Begutachtung und der Krankenkasse die erforderlichen Angaben über den Befund mitzuteilen. Er ist befugt, den an der vertragsärztlichen Versorgung teilnehmenden Ärzten und den sonstigen Leistungserbringern, über deren Leistungen er eine gutachtliche Stellungnahme abgegeben hat, die erforderlichen Angaben über den Befund mitzuteilen. Der Versicherte kann der Mitteilung über den Befund an die Leistungserbringer widersprechen. Nach Abschluss der Kontrollen nach § 275a hat der Medizinische Dienst die Kontrollergebnisse dem geprüften Krankenhaus und dem jeweiligen Auftraggeber mitzuteilen. Soweit in der Richtlinie nach § 137 Absatz 3 Fälle festgelegt sind, in denen Dritte wegen erheblicher Verstöße gegen Qualitätsanforderungen unverzüglich einrichtungsbezogen über das Kontrollergebnis zu informieren sind, hat der Medizinische Dienst sein Kontrollergebnis unverzüglich an die in dieser Richtlinie abschließend benannten Dritten zu übermitteln. Soweit erforderlich und in der Richtlinie des Gemeinsamen Bundesausschusses nach § 137 Absatz 3 vorgesehen, dürfen diese Mitteilungen auch personenbezogene Angaben enthalten; in der Mitteilung an den Auftraggeber und den Dritten sind personenbezogene Daten zu anonymisieren.
 
 (2) Die Krankenkasse hat, solange ein Anspruch auf Fortzahlung des Arbeitsentgelts besteht, dem Arbeitgeber und dem Versicherten das Ergebnis des Gutachtens des Medizinischen Dienstes über die Arbeitsunfähigkeit mitzuteilen, wenn das Gutachten mit der Bescheinigung des Kassenarztes im Ergebnis nicht übereinstimmt. Die Mitteilung darf keine Angaben über die Krankheit des Versicherten enthalten.
 
-
-## § 278 – Medizinischer Dienst
+# § 278 – Medizinischer Dienst
 
 (1) In jedem Land wird ein Medizinischer Dienst als Körperschaft des öffentlichen Rechts errichtet. Für mehrere Länder kann durch Beschluss der Verwaltungsräte der betroffenen Medizinischen Dienste ein gemeinsamer Medizinischer Dienst errichtet werden. Dieser Beschluss bedarf der Zustimmung der zuständigen Aufsichtsbehörden der betroffenen Länder. In Ländern, in denen bereits mehrere Medizinische Dienste oder ein gemeinsamer Medizinischer Dienst bestehen, kann die jeweilige Aufteilung beibehalten werden. § 94 Absatz 1a bis 4 des Zehnten Buches gilt entsprechend.
 
@@ -9146,8 +8626,7 @@ Die Ergebnisse sind auch in zusammengefasster Form, bundesweit und gegliedert na
 
 Das Nähere zum Verfahren regeln die Richtlinien nach § 283 Absatz 2 Satz 1 Nummer 7 und 8.
 
-
-## § 279 – Verwaltungsrat und Vorstand
+# § 279 – Verwaltungsrat und Vorstand
 
 (1) Organe des Medizinischen Dienstes sind der Verwaltungsrat und der Vorstand.
 
@@ -9187,8 +8666,7 @@ Die Vertreter nach Satz 1 Nummer 2 haben kein Stimmrecht. Die für die Sozialver
 
 (9) Der Verwaltungsrat kann aus wichtigen Gründen ohne Sitzung schriftlich abstimmen.
 
-
-## § 280 – Finanzierung, Haushalt, Aufsicht
+# § 280 – Finanzierung, Haushalt, Aufsicht
 
 (1) Die erforderlichen Mittel zur Finanzierung der Aufgaben des Medizinischen Dienstes nach § 275 Absatz 1 bis 3b und den §§ 275a bis 275d werden von den Krankenkassen nach § 279 Absatz 4 Satz 1 durch eine Umlage aufgebracht. Die Mittel sind im Verhältnis der Zahl der Mitglieder der einzelnen Krankenkassen mit Wohnort im Einzugsbereich des Medizinischen Dienstes aufzuteilen. Die Zahl der nach Satz 2 maßgeblichen Mitglieder der Krankenkassen ist nach dem Vordruck KM 6 der Statistik über die Versicherten in der gesetzlichen Krankenversicherung jeweils zum 1. Juli eines Jahres zu bestimmen. Die Pflegekassen tragen die Hälfte der Umlage nach Satz 1.
 
@@ -9198,8 +8676,7 @@ Die Vertreter nach Satz 1 Nummer 2 haben kein Stimmrecht. Die für die Sozialver
 
 (4) Der Medizinische Dienst untersteht der Aufsicht der für die Sozialversicherung zuständigen obersten Verwaltungsbehörde des Landes, in dem er seinen Sitz hat. Die Aufsicht erstreckt sich auf die Beachtung von Gesetzen und sonstigem Recht. Die §§ 88 und 89 des Vierten Buches sowie § 274 gelten entsprechend. § 275 Absatz 5 ist zu beachten.
 
-
-## § 281 – Medizinischer Dienst Bund, Rechtsform, Finanzen, Aufsicht
+# § 281 – Medizinischer Dienst Bund, Rechtsform, Finanzen, Aufsicht
 
 (1) Der Medizinische Dienst Bund ist eine Körperschaft des öffentlichen Rechts. Mitglieder des Medizinischen Dienstes Bund sind die Medizinischen Dienste.
 
@@ -9207,8 +8684,7 @@ Die Vertreter nach Satz 1 Nummer 2 haben kein Stimmrecht. Die für die Sozialver
 
 (3) Der Medizinische Dienst Bund untersteht der Aufsicht des Bundesministeriums für Gesundheit. Die Aufsicht erstreckt sich auf die Beachtung von Gesetzen und sonstigem Recht. § 217d Absatz 3, die §§ 217g bis 217j, 219 und 274 gelten entsprechend. § 275 Absatz 5 ist zu beachten.
 
-
-## § 282 – Medizinischer Dienst Bund, Verwaltungsrat und Vorstand
+# § 282 – Medizinischer Dienst Bund, Verwaltungsrat und Vorstand
 
 (1) Organe des Medizinischen Dienstes Bund sind der Verwaltungsrat und der Vorstand.
 
@@ -9238,8 +8714,7 @@ Bei der Wahl verteilt sich das Stimmgewicht innerhalb der jeweiligen Vertretergr
 
 (5) Bei dem Medizinischen Dienst Bund wird eine unabhängige Ombudsperson bestellt, an die sich sowohl die Beschäftigten des Medizinischen Dienstes Bund bei Beobachtung von Unregelmäßigkeiten, insbesondere Beeinflussungsversuchen durch Dritte, als auch Versicherte bei Beschwerden über die Tätigkeit des Medizinischen Dienstes Bund vertraulich wenden können. Die Ombudsperson berichtet dem Verwaltungsrat und dem Bundesministerium für Gesundheit in anonymisierter Form jährlich oder bei gegebenem Anlass und veröffentlicht den Bericht drei Monate nach Zuleitung an den Verwaltungsrat und die Aufsichtsbehörde auf ihrer Internetseite. Das Nähere regelt die Satzung nach Absatz 3 Satz 1 Nummer 1.
 
-
-## § 283 – Aufgaben des Medizinischen Dienstes Bund
+# § 283 – Aufgaben des Medizinischen Dienstes Bund
 
 (1) Der Medizinische Dienst Bund koordiniert und fördert die Durchführung der Aufgaben und die Zusammenarbeit der Medizinischen Dienste in medizinischen und organisatorischen Fragen und trägt Sorge für eine einheitliche Aufgabenwahrnehmung. Er berät den Spitzenverband Bund der Krankenkassen in allen medizinischen Fragen der diesem zugewiesenen Aufgaben.
 
@@ -9283,8 +8758,7 @@ Er hat die Stellungnahmen in die Entscheidung einzubeziehen. Der Medizinische Di
 
 (5) Die Medizinischen Dienste haben den Medizinischen Dienst Bund bei der Wahrnehmung seiner Aufgaben zu unterstützen.
 
-
-## § 283a – Aufgaben des Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See
+# § 283a – Aufgaben des Sozialmedizinischen Dienstes Deutsche Rentenversicherung Knappschaft-Bahn-See
 
 (1) Die Aufgaben des Medizinischen Dienstes nimmt für die Krankenversicherung der Deutschen Rentenversicherung Knappschaft-Bahn-See deren Sozialmedizinischer Dienst wahr. Für den Sozialmedizinischen Dienst gelten bei Wahrnehmung dieser Aufgaben insbesondere die Vorschriften nach § 128 Absatz 1 Satz 2 des Neunten Buches, § 53c Absatz 1 und 3 des Elften Buches, § 53d Absatz 2 Satz 2 und Absatz 3 Satz 4 und 5 des Elften Buches, den §§ 62a und 78 Absatz 1 des Zwölften Buches sowie nach § 13 Absatz 3a, § 116b Absatz 6 Satz 10, § 197a Absatz 3b Satz 3, den §§ 275 bis 277, 278 Absatz 2 bis 4 und § 283 Absatz 2 Satz 5 und Absatz 5 entsprechend. Die Unabhängigkeit des Sozialmedizinischen Dienstes in der Begutachtung und Beratung wird mit einer eigenen Geschäftsordnung gewährleistet.
 
@@ -9292,8 +8766,7 @@ Er hat die Stellungnahmen in die Entscheidung einzubeziehen. Der Medizinische Di
 
 (3) Die Deutsche Rentenversicherung Knappschaft-Bahn-See trägt die Kosten der Tätigkeit des Beirates. Die Vertreter und deren persönliche Stellvertreter erhalten Reisekosten nach den Vorschriften des Bundes über Reisekostenvergütungen, Ersatz des Verdienstausfalls in entsprechender Anwendung des § 41 Absatz 2 des Vierten Buches sowie einen Pauschbetrag für Zeitaufwand in Höhe eines Fünfzigstels der monatlichen Bezugsgröße (§ 18 des Vierten Buches) für jeden Kalendertag einer Sitzung.
 
-
-## § 284 – Sozialdaten bei den Krankenkassen
+# § 284 – Sozialdaten bei den Krankenkassen
 
 (1) Die Krankenkassen dürfen Sozialdaten für Zwecke der Krankenversicherung nur erheben und speichern, soweit diese für
 
@@ -9345,8 +8818,7 @@ erforderlich sind. Versichertenbezogene Angaben über ärztliche Leistungen dür
 
 (4) Zur Gewinnung von Mitgliedern dürfen die Krankenkassen Daten verarbeiten, wenn die Daten allgemein zugänglich sind, es sei denn, dass das schutzwürdige Interesse der betroffenen Person an dem Ausschluss der Verarbeitung überwiegt. Ein Abgleich der erhobenen Daten mit den Angaben nach § 291a Absatz 2 Nummer 2 bis 5 ist zulässig. Im Übrigen gelten für die Datenverarbeitung die Vorschriften des Ersten und Zehnten Buches.
 
-
-## § 285 – Personenbezogene Daten bei den Kassenärztlichen Vereinigungen
+# § 285 – Personenbezogene Daten bei den Kassenärztlichen Vereinigungen
 
 (1) Die Kassenärztlichen Vereinigungen dürfen Einzelangaben über die persönlichen und sachlichen Verhältnisse der Ärzte nur erheben und speichern, soweit dies zur Erfüllung der folgenden Aufgaben erforderlich ist:
 
@@ -9376,8 +8848,7 @@ erheblich sind, den hierfür zuständigen Behörden und Heilberufskammern zu üb
 
 (4) Soweit sich die Vorschriften dieses Kapitels auf Ärzte und Kassenärztliche Vereinigungen beziehen, gelten sie entsprechend für Psychotherapeuten, Zahnärzte und Kassenzahnärztliche Vereinigungen.
 
-
-## § 286 – Datenübersicht
+# § 286 – Datenübersicht
 
 Die Krankenkassen und die Kassenärztlichen Vereinigungen regeln in Dienstanweisungen das Nähere insbesondere über
 
@@ -9389,30 +8860,25 @@ Die Krankenkassen und die Kassenärztlichen Vereinigungen regeln in Dienstanweis
 
 4. die weiteren zur Gewährleistung von Datenschutz und Datensicherheit zu treffenden Maßnahmen.
 
-
-## § 287 – Forschungsvorhaben
+# § 287 – Forschungsvorhaben
 
 (1) Die Krankenkassen und die Kassenärztlichen Vereinigungen dürfen mit Erlaubnis der Aufsichtsbehörde die Datenbestände leistungserbringer- oder fallbeziehbar für zeitlich befristete und im Umfang begrenzte Forschungsvorhaben, insbesondere zur Gewinnung epidemiologischer Erkenntnisse, von Erkenntnissen über Zusammenhänge zwischen Erkrankungen und Arbeitsbedingungen oder von Erkenntnissen über örtliche Krankheitsschwerpunkte, selbst auswerten oder über die sich aus § 304 ergebenden Fristen hinaus aufbewahren.
 
 (2) Sozialdaten sind zu anonymisieren.
 
-
-## § 287a – Federführende Datenschutzaufsicht in der Versorgungs- und Gesundheitsforschung
+# § 287a – Federführende Datenschutzaufsicht in der Versorgungs- und Gesundheitsforschung
 
 Bei länderübergreifenden Vorhaben der Versorgungs- und Gesundheitsforschung, an denen nicht-öffentliche Stellen oder öffentliche Stellen des Bundes oder der Länder aus zwei oder mehr Ländern als Verantwortliche beteiligt sind, findet § 27 des Bundesdatenschutzgesetzes Anwendung. Die beteiligten Verantwortlichen benennen einen Hauptverantwortlichen und melden diesen der für die Hauptniederlassung des Hauptverantwortlichen zuständigen Aufsichtsbehörde. Die Artikel 56 und 60 der Verordnung (EU) 2016/679 sind entsprechend anzuwenden.
 
-
-## § 288 – Versichertenverzeichnis
+# § 288 – Versichertenverzeichnis
 
 Die Krankenkasse hat ein Versichertenverzeichnis zu führen. Das Versichertenverzeichnis hat alle Angaben zu enthalten, die zur Feststellung der Versicherungspflicht oder -berechtigung, zur Bemessung und Einziehung der Beiträge, soweit nach der Art der Versicherung notwendig, sowie zur Feststellung des Leistungsanspruchs einschließlich der Versicherung nach § 10 erforderlich sind.
 
-
-## § 289 – Nachweispflicht bei Familienversicherung
+# § 289 – Nachweispflicht bei Familienversicherung
 
 Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Versicherung nach § 10 bei deren Beginn festzustellen. Sie kann die dazu erforderlichen Daten vom Angehörigen oder mit dessen Zustimmung vom Mitglied erheben. Der Fortbestand der Voraussetzungen der Versicherung nach § 10 ist auf Verlangen der Krankenkasse nachzuweisen.
 
-
-## § 290 – Krankenversichertennummer
+# § 290 – Krankenversichertennummer
 
 (1) Die Krankenkasse verwendet für jeden Versicherten eine Krankenversichertennummer. Die Krankenversichertennummer besteht aus einem unveränderbaren Teil zur Identifikation des Versicherten und einem veränderbaren Teil, der bundeseinheitliche Angaben zur Kassenzugehörigkeit enthält und aus dem bei Vergabe der Nummer an Versicherte nach § 10 sicherzustellen ist, dass der Bezug zu dem Angehörigen, der Mitglied ist, hergestellt werden kann. Der Aufbau und das Verfahren der Vergabe der Krankenversichertennummer haben den Richtlinien nach Absatz 2 zu entsprechen. Die Rentenversicherungsnummer darf nicht als Krankenversichertennummer verwendet werden. Eine Verwendung der Rentenversicherungsnummer zur Bildung der Krankenversichertennummer entsprechend den Richtlinien nach Absatz 2 ist zulässig, wenn nach dem Stand von Wissenschaft und Technik sichergestellt ist, dass nach Vergabe der Krankenversichertennummer weder aus der Krankenversichertennummer auf die Rentenversicherungsnummer noch aus der Rentenversicherungsnummer auf die Krankenversichertennummer zurückgeschlossen werden kann; dieses Erfordernis gilt auch in Bezug auf die vergebende Stelle. Die Prüfung einer Mehrfachvergabe der Krankenversichertennummer durch die Vertrauensstelle bleibt davon unberührt. Wird die Rentenversicherungsnummer zur Bildung der Krankenversichertennummer verwendet, ist für Personen, denen eine Krankenversichertennummer zugewiesen werden muss und die noch keine Rentenversicherungsnummer erhalten haben, eine Rentenversicherungsnummer zu vergeben.
 
@@ -9420,8 +8886,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 (3) Die Vertrauensstelle nach Absatz 2 Satz 2 führt ein Verzeichnis der Krankenversichertennummern. Das Verzeichnis enthält für jeden Versicherten den unveränderbaren und den veränderbaren Teil der Krankenversichertennummer sowie die erforderlichen Angaben, um zu gewährleisten, dass der unveränderbare Teil der Krankenversichertennummer nicht mehrfach vergeben wird. Der Spitzenverband Bund der Krankenkassen legt das Nähere zu dem Verzeichnis im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit in den Richtlinien nach Absatz 2 Satz 1 fest, insbesondere ein Verfahren des Datenabgleichs zur Gewährleistung eines tagesaktuellen Standes des Verzeichnisses. Das Verzeichnis darf ausschließlich zum Ausschluss und zur Korrektur von Mehrfachvergaben derselben Krankenversichertennummer verwendet werden.
 
-
-## § 291 – Elektronische Gesundheitskarte
+# § 291 – Elektronische Gesundheitskarte
 
 (1) Die Krankenkasse stellt für jeden Versicherten eine elektronische Gesundheitskarte aus.
 
@@ -9441,8 +8906,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 (6) Die Krankenkasse hat bei der Ausstellung der elektronischen Gesundheitskarte die in der Richtlinie gemäß § 217f Absatz 4b vorgesehenen Maßnahmen und Vorgaben zum Schutz von Sozialdaten der Versicherten vor unbefugter Kenntnisnahme umzusetzen. Dazu gehört insbesondere auch der in die Richtlinie aufzunehmende Ausschluss von Ersatzzustellung und Niederlegung bei Nutzung des Postzustellungsauftrages mit Postzustellungsurkunde. Die Krankenkasse kann zum Zwecke des in der Richtlinie zum 1. Januar 2021 vorzusehenden Abgleichs der Versichertenanschrift mit den Daten aus dem Melderegister vor dem Versand der elektronischen Gesundheitskarte und deren persönlicher Identifikationsnummer (PIN) an den Versicherten die Daten nach § 34 Absatz 1 Satz 1 Nummer 1 bis 6 und 10 des Bundesmeldegesetzes aus dem Melderegister abrufen.
 
-
-## § 291a – Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung
+# § 291a – Elektronische Gesundheitskarte als Versicherungsnachweis und Mittel zur Abrechnung
 
 (1) Die elektronische Gesundheitskarte dient mit den in den Absätzen 2 bis 5 genannten Angaben dem Nachweis der Berechtigung zur Inanspruchnahme von Leistungen im Rahmen der vertragsärztlichen Versorgung (Versicherungsnachweis) sowie der Abrechnung mit den Leistungserbringern. Bei der Inanspruchnahme einer ärztlichen Behandlung bestätigt der Versicherte auf dem Abrechnungsschein des Arztes das Bestehen der Mitgliedschaft bei der Krankenkasse durch seine Unterschrift.
 
@@ -9490,8 +8954,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 (7) Die elektronische Gesundheitskarte ist von dem Versicherten zu unterschreiben.
 
-
-## § 291b – Verfahren zur Nutzung der elektronischen Gesundheitskarte als Versicherungsnachweis
+# § 291b – Verfahren zur Nutzung der elektronischen Gesundheitskarte als Versicherungsnachweis
 
 (1) Die Krankenkassen haben Dienste zur Verfügung zu stellen, mit denen die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer und Einrichtungen die Gültigkeit und die Aktualität der Angaben nach § 291a Absatz 2 und 3 bei den Krankenkassen online überprüfen und diese Angaben online auf der elektronischen Gesundheitskarte aktualisieren können.
 
@@ -9505,8 +8968,7 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 (6) Das Nähere zur bundesweiten Verwendung der elektronischen Gesundheitskarte als Versicherungsnachweis vereinbaren die Vertragspartner im Rahmen der Verträge nach § 87 Absatz 1.
 
-
-## § 291c – Einzug, Sperrung oder weitere Nutzung der elektronischen Gesundheitskarte nach Krankenkassenwechsel; Austausch der elektronischen Gesundheitskarte
+# § 291c – Einzug, Sperrung oder weitere Nutzung der elektronischen Gesundheitskarte nach Krankenkassenwechsel; Austausch der elektronischen Gesundheitskarte
 
 (1) Bei Beendigung des Versicherungsschutzes oder bei einem Krankenkassenwechsel ist die elektronische Gesundheitskarte von der Krankenkasse, die diese elektronische Gesundheitskarte ausgestellt hat, einzuziehen oder zu sperren und nach dem Stand der Technik zu vernichten.
 
@@ -9516,28 +8978,21 @@ Für die Eintragung in das Versichertenverzeichnis hat die Krankenkasse die Vers
 
 (4) Vor dem Einzug der elektronischen Gesundheitskarte und vor dem Austausch der elektronischen Gesundheitskarte im Rahmen eines bestehenden Versicherungsverhältnisses hat die einziehende Krankenkasse über Möglichkeiten zur Löschung der Daten nach § 334 Absatz 1 Satz 2 Nummer 2 bis 5 auf der elektronischen Gesundheitskarte zu informieren.
 
+# § 291d – (weggefallen)
 
-## § 291d – (weggefallen)
+# § 291e – (weggefallen)
 
+# § 291f – (weggefallen)
 
-## § 291e – (weggefallen)
+# § 291g – (weggefallen)
 
+# § 291h – (weggefallen)
 
-## § 291f – (weggefallen)
-
-
-## § 291g – (weggefallen)
-
-
-## § 291h – (weggefallen)
-
-
-## § 292 – Angaben über Leistungsvoraussetzungen
+# § 292 – Angaben über Leistungsvoraussetzungen
 
 Die Krankenkasse hat Angaben über Leistungen, die zur Prüfung der Voraussetzungen späterer Leistungsgewährung erforderlich sind, aufzuzeichnen. Hierzu gehören insbesondere Angaben zur Feststellung der Voraussetzungen von Leistungsansprüchen bei Krankenhausbehandlung, medizinischen Leistungen zur Gesundheitsvorsorge und Rehabilitation sowie zur Feststellung der Voraussetzungen der Kostenerstattung und zur Leistung von Zuschüssen. Im Falle der Arbeitsunfähigkeit sind auch die Diagnosen aufzuzeichnen.
 
-
-## § 293 – Kennzeichen für Leistungsträger und Leistungserbringer
+# § 293 – Kennzeichen für Leistungsträger und Leistungserbringer
 
 (1) Die Krankenkassen verwenden im Schriftverkehr, einschließlich des Einsatzes elektronischer Datenübertragung oder maschinell verwertbarer Datenträger, beim Datenaustausch, für Maßnahmen zur Qualitätssicherung und für Abrechnungszwecke mit den anderen Trägern der Sozialversicherung, der Bundesagentur für Arbeit und den Versorgungsverwaltungen der Länder sowie mit ihren Vertragspartnern einschließlich deren Mitgliedern bundeseinheitliche Kennzeichen. Der Spitzenverband Bund der Krankenkassen, die Spitzenorganisationen der anderen Träger der Sozialversicherung, die Postbeamtenkrankenkasse, die Bundesagentur für Arbeit und die Versorgungsverwaltungen der Länder bilden für die Vergabe der Kennzeichen nach Satz 1 eine Arbeitsgemeinschaft.
 
@@ -9663,8 +9118,7 @@ Für die Pflegekräfte nach Satz 1 Nummer 3 enthält das Verzeichnis zusätzlich
 
 Die Leistungserbringer, mit denen die Krankenkassen Verträge nach § 132a Absatz 4 Satz 1 oder die Landesverbände der Krankenkassen und die Ersatzkassen Verträge nach § 132l Absatz 5 abgeschlossen haben oder bei denen es sich um zugelassene Pflegeeinrichtungen im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches handelt, und die Pflegekräfte nach Satz 1 Nummer 3 sind verpflichtet, dem Bundesinstitut für Arzneimittel und Medizinprodukte ab dem 1. August 2022 die Angaben nach Satz 4 Nummer 2 bis 5 und den Sätzen 5 und 6 zu übermitteln sowie unverzüglich jede Veränderung dieser Angaben mitzuteilen. Die Kosten für die Führung des Verzeichnisses trägt der Spitzenverband Bund der Krankenkassen. Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den Kranken- und Pflegekassen die zur Erfüllung ihrer gesetzlichen Aufgaben nach diesem und nach dem Elften Buch erforderlichen Angaben aus dem Verzeichnis zur Verfügung; für andere Zwecke dürfen die Angaben nicht verwendet werden. Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den in Satz 7 genannten Leistungserbringern und den Pflegekräften nach Satz 1 Nummer 3 die Beschäftigtennummer zur Verfügung. Die Beschäftigtennummer ist spätestens ab dem 1. Januar 2023 für die Abrechnung der von der Person nach Satz 1 Nummer 2 oder der Pflegekraft nach Satz 1 Nummer 3 erbrachten Leistungen zu verwenden.
 
-
-## § 293a – Transparenzstelle für Verträge über eine hausarztzentrierte Versorgung und über eine besondere Versorgung
+# § 293a – Transparenzstelle für Verträge über eine hausarztzentrierte Versorgung und über eine besondere Versorgung
 
 (1) Das Bundesamt für Soziale Sicherung richtet eine bundesweite Transparenzstelle für Verträge nach den §§ 73b und 140a einschließlich der Verträge nach § 140a Absatz 1 Satz 3 (Vertragstransparenzstelle) ein. Die Vertragstransparenzstelle dient dem Zweck der Sicherung der Datengrundlagen für den Risikostrukturausgleich nach § 273 und der Information der Öffentlichkeit. Die Vertragstransparenzstelle führt ein Verzeichnis, das zu den Verträgen nach Satz 1 insbesondere Angaben enthält über
 
@@ -9710,20 +9164,17 @@ Bei der Bestimmung nach Satz 1 Nummer 3 und 4 sollen bereits bestehende Vertrags
 
 (7) Die dem Bundesamt für Soziale Sicherung bei der Verwaltung der Vertragstransparenzstelle entstehenden Ausgaben werden aus den Einnahmen des Gesundheitsfonds gedeckt.
 
-
-## § 294 – Pflichten der Leistungserbringer
+# § 294 – Pflichten der Leistungserbringer
 
 Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und die übrigen Leistungserbringer sind verpflichtet, die für die Erfüllung der Aufgaben der Krankenkassen sowie der Kassenärztlichen Vereinigungen notwendigen Angaben, die aus der Erbringung, der Verordnung sowie der Abgabe von Versicherungsleistungen entstehen, aufzuzeichnen und gemäß den nachstehenden Vorschriften den Krankenkassen, den Kassenärztlichen Vereinigungen oder den mit der Datenverarbeitung beauftragten Stellen mitzuteilen.
 
-
-## § 294a – Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden
+# § 294a – Mitteilung von Krankheitsursachen und drittverursachten Gesundheitsschäden
 
 (1)Liegen Anhaltspunkte dafür vor, dass eine Krankheit eine Berufskrankheit im Sinne der gesetzlichen Unfallversicherung oder deren Spätfolgen oder die Folge oder Spätfolge eines Arbeitsunfalls, eines sonstigen Unfalls, einer Körperverletzung, einer Schädigung im Sinne des Bundesversorgungsgesetzes oder eines Impfschadens im Sinne des Infektionsschutzgesetzes ist oder liegen Hinweise auf drittverursachte Gesundheitsschäden vor, sind die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und Einrichtungen sowie die Krankenhäuser nach § 108 verpflichtet, die erforderlichen Daten, einschließlich der Angaben über Ursachen und den möglichen Verursacher, den Krankenkassen mitzuteilen. Bei Hinweisen auf drittverursachte Gesundheitsschäden, die Folge einer Misshandlung, eines sexuellen Missbrauchs, eines sexuellen Übergriffs, einer sexuellen Nötigung, einer Vergewaltigung oder einer Vernachlässigung von Kindern und Jugendlichen sein können, besteht keine Mitteilungspflicht nach Satz 1. Bei Hinweisen auf drittverursachte Gesundheitsschäden, die Folge einer Misshandlung, eines sexuellen Missbrauchs, eines sexuellen Übergriffs, einer sexuellen Nötigung oder einer Vergewaltigung einer oder eines volljährigen Versicherten sein können, besteht die Mitteilungspflicht nach Satz 1 nur dann, wenn die oder der Versicherte in die Mitteilung ausdrücklich eingewilligt hat.
 
 (2) Liegen Anhaltspunkte für ein Vorliegen der Voraussetzungen des § 52 Abs. 2 vor, sind die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und Einrichtungen sowie die Krankenhäuser nach § 108 verpflichtet, den Krankenkassen die erforderlichen Daten mitzuteilen. Die Versicherten sind über den Grund der Meldung nach Satz 1 und die gemeldeten Daten zu informieren.
 
-
-## § 295 – Übermittlungspflichten und Abrechnung bei ärztlichen Leistungen
+# § 295 – Übermittlungspflichten und Abrechnung bei ärztlichen Leistungen
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und Einrichtungen sind verpflichtet,
 
@@ -9779,8 +9230,7 @@ Die Kassenärztlichen Vereinigungen übermitteln für die Durchführung der Prog
 
 (5) (weggefallen)
 
-
-## § 295a – Abrechnung der im Rahmen von Verträgen nach § 73b, § 132e, § 132f und § 140a sowie vom Krankenhaus im Notfall erbrachten Leistungen
+# § 295a – Abrechnung der im Rahmen von Verträgen nach § 73b, § 132e, § 132f und § 140a sowie vom Krankenhaus im Notfall erbrachten Leistungen
 
 (1) Für die Abrechnung der im Rahmen von Verträgen nach den §§ 73b, 132e, 132f und 140a erbrachten Leistungen sind die an diesen Versorgungsformen teilnehmenden Leistungserbringer befugt, die nach den Vorschriften dieses Kapitels erforderlichen Angaben an den Vertragspartner auf Leistungserbringerseite als Verantwortlichen oder an eine nach Absatz 2 beauftragte andere Stelle zu übermitteln; für den Vertragspartner auf Leistungserbringerseite gilt § 35 des Ersten Buches entsprechend. Voraussetzung ist, dass der Versicherte vor Abgabe der Teilnahmeerklärung an der Versorgungsform umfassend über die vorgesehene Datenübermittlung informiert worden ist und mit der Einwilligung in die Teilnahme zugleich in die damit verbundene Datenübermittlung schriftlich oder elektronisch eingewilligt hat. Der Vertragspartner auf Leistungserbringerseite oder die beauftragte andere Stelle dürfen die übermittelten Daten nur zu Abrechnungszwecken verarbeiten; sie übermitteln die Daten im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern an den jeweiligen Vertragspartner auf Krankenkassenseite.
 
@@ -9788,8 +9238,7 @@ Die Kassenärztlichen Vereinigungen übermitteln für die Durchführung der Prog
 
 (3) Für die Abrechnung von im Notfall erbrachten ambulanten ärztlichen Leistungen darf das Krankenhaus eine andere Stelle mit der Verarbeitung der erforderlichen personenbezogenen Daten beauftragen, sofern der Versicherte schriftlich oder elektronisch in die Datenübermittlung eingewilligt hat; § 334 bleibt unberührt. Der Auftragsverarbeiter darf diese Daten nur zu Abrechnungszwecken verarbeiten. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 296 – Datenübermittlung für Wirtschaftlichkeitsprüfungen
+# § 296 – Datenübermittlung für Wirtschaftlichkeitsprüfungen
 
 (1) Für die arztbezogenen Prüfungen nach § 106 übermitteln die Kassenärztlichen Vereinigungen im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern den Prüfungsstellen nach § 106c aus den Abrechnungsunterlagen der Vertragsärzte für jedes Quartal folgende Daten:
 
@@ -9825,8 +9274,7 @@ Soweit es zur Durchführung der in den Vereinbarungen nach § 106b Absatz 1 Satz
 
 (4) Soweit es zur Durchführung der in den Vereinbarungen nach § 106b Absatz 1 Satz 1 vorgesehenen Wirtschaftlichkeitsprüfungen erforderlich ist, sind die an der vertragsärztlichen Versorgung teilnehmenden Ärzte und Einrichtungen verpflichtet und befugt, auf Verlangen der Prüfungsstelle nach § 106c die für die Prüfung erforderlichen Befunde vorzulegen.
 
-
-## § 297 – Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen
+# § 297 – Weitere Regelungen zur Datenübermittlung für Wirtschaftlichkeitsprüfungen
 
 (1) Die Kassenärztlichen Vereinigungen übermitteln im Wege der elektronischen Datenübertragung oder maschinell verwertbar auf Datenträgern den Prüfungsstellen nach § 106c aus den Abrechnungsunterlagen der in die Prüfung einbezogenen Vertragsärzte folgende Daten:
 
@@ -9840,13 +9288,11 @@ Soweit es zur Durchführung der in den Vereinbarungen nach § 106b Absatz 1 Satz
 
 (2) Soweit es zur Durchführung der in den Vereinbarungen nach § 106b Absatz 1 Satz 1 vorgesehenen Wirtschaftlichkeitsprüfungen erforderlich ist, übermitteln die Krankenkassen im Wege der elektronischen Datenübertragung oder maschinell verwertbar auf Datenträgern den Prüfungsstellen nach § 106c die Daten über die von den in die Prüfung einbezogenen Vertragsärzten verordneten Leistungen unter Angabe der Arztnummer, der Kassennummer und der Krankenversichertennummer. Die Daten über die verordneten Arzneimittel enthalten zusätzlich jeweils das Kennzeichen nach § 300 Absatz 3 Satz 1. Die Daten über die Verordnungen von Krankenhausbehandlungen enthalten zusätzlich jeweils die gemäß § 301 übermittelten Angaben über den Tag und den Grund der Aufnahme, die Einweisungsdiagnose, die Aufnahmediagnose, die Art der durchgeführten Operationen und sonstigen Prozeduren sowie die Dauer der Krankenhausbehandlung.
 
-
-## § 298 – Übermittlung versichertenbezogener Daten
+# § 298 – Übermittlung versichertenbezogener Daten
 
 Im Rahmen eines Prüfverfahrens ist die versichertenbezogene Übermittlung von Angaben über ärztliche oder ärztlich verordnete Leistungen zulässig, soweit die Wirtschaftlichkeit oder Qualität der ärztlichen Behandlungs- oder Verordnungsweise im Einzelfall zu beurteilen ist.
 
-
-## § 299 – Datenverarbeitung für Zwecke der Qualitätssicherung
+# § 299 – Datenverarbeitung für Zwecke der Qualitätssicherung
 
 (1) Die an der vertragsärztlichen Versorgung teilnehmenden Ärzte, zugelassenen Krankenhäuser und übrigen Leistungserbringer gemäß § 135a Absatz 2 sowie die nach Satz 2 festgelegten Empfänger der Daten sind befugt und verpflichtet, personen- oder einrichtungsbezogene Daten der Versicherten und der Leistungserbringer für Zwecke der Qualitätssicherung nach § 135a Absatz 2, § 135b Absatz 2 oder § 137a Absatz 3 zu verarbeiten, soweit dies erforderlich und in Richtlinien und Beschlüssen des Gemeinsamen Bundesausschusses nach § 27b Absatz 2, § 135b Absatz 2, § 136 Absatz 1 Satz 1, den §§ 136b, 136c Absatz 1 und 2 sowie in Vereinbarungen nach § 137d vorgesehen ist. In den Richtlinien, Beschlüssen und Vereinbarungen nach Satz 1 sind diejenigen Daten, die von den Leistungserbringern zu verarbeiten sind, sowie deren Empfänger festzulegen und die Erforderlichkeit darzulegen. Der Gemeinsame Bundesausschuss hat bei der Festlegung der Daten nach Satz 2 in Abhängigkeit von der jeweiligen Maßnahme der Qualitätssicherung insbesondere diejenigen Daten zu bestimmen, die für die Ermittlung der Qualität von Diagnostik oder Behandlung mit Hilfe geeigneter Qualitätsindikatoren, für die Erfassung möglicher Begleiterkrankungen und Komplikationen, für die Feststellung der Sterblichkeit sowie für eine geeignete Validierung oder Risikoadjustierung bei der Auswertung der Daten medizinisch oder methodisch notwendig sind. Die Richtlinien und Beschlüsse sowie Vereinbarungen nach Satz 1 haben darüber hinaus sicherzustellen, dass
 
@@ -9884,8 +9330,7 @@ Auch Auswahl, Umfang und Verfahren der Stichprobe sind in den Richtlinien und Be
 
 (6) Der Gemeinsame Bundesausschuss ist befugt und berechtigt, abweichend von Absatz 3 Satz 3 die Daten, die ihm von der Registerstelle des Implantateregisters Deutschland nach § 29 Absatz 1 Nummer 4 des Implantateregistergesetzes übermittelt werden, für die Umsetzung und Weiterentwicklung von Richtlinien und Beschlüssen zur Qualitätssicherung implantationsmedizinischer Leistungen nach den §§ 136 bis 136c zu verarbeiten.
 
-
-## § 300 – Abrechnung der Apotheken und weiterer Stellen
+# § 300 – Abrechnung der Apotheken und weiterer Stellen
 
 (1) Die Apotheken und weitere Anbieter von Arzneimitteln sind verpflichtet, unabhängig von der Höhe der Zuzahlung (oder dem Eigenanteil),
 
@@ -9915,8 +9360,7 @@ Bei der nach Absatz 1 Satz 1 Nummer 2 genannten Datenübermittlung sind das bund
 
 § 300 Abs. 3 Satz 1 Nr. 4 Kursivdruck: Eingef. durch Art. 12 Nr. 17 Buchst. b G v. 9.8.2019 I 1202 mWv 16.8.2019; idF d. Art. 1 Nr. 37b G v. 9.12.2019 I 2562 mWv 19.12.2019 (die Änderungsanweisung hätte zutreffend lauten müssen "wird das Wort "Verschreibungen" durch das Wort "Verordnungen" ersetzt", die Änderung wurde sinngemäß konsolidiert)
 
-
-## § 301 – Krankenhäuser
+# § 301 – Krankenhäuser
 
 (1) Die nach § 108 zugelassenen Krankenhäuser oder ihre Krankenhausträger sind verpflichtet, den Krankenkassen bei Krankenhausbehandlung folgende Angaben im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zu übermitteln:
 
@@ -9968,8 +9412,7 @@ Die Übermittlung der medizinischen Begründung von Verlängerungen der Verweild
 
 (5) Die ermächtigten Krankenhausärzte sind verpflichtet, dem Krankenhausträger im Rahmen des Verfahrens nach § 120 Abs. 1 Satz 3 die für die Abrechnung der vertragsärztlichen Leistungen erforderlichen Unterlagen zu übermitteln; § 295 gilt entsprechend. Der Krankenhausträger hat den kassenärztlichen Vereinigungen die Abrechnungsunterlagen zum Zweck der Abrechnung vorzulegen.
 
-
-## § 301a – Abrechnung der Hebammen und der von ihnen geleiteten Einrichtungen
+# § 301a – Abrechnung der Hebammen und der von ihnen geleiteten Einrichtungen
 
 (1) Freiberuflich tätige Hebammen und von Hebammen geleitete Einrichtungen sind verpflichtet, den Krankenkassen folgende Angaben im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern zu übermitteln:
 
@@ -9989,8 +9432,7 @@ Ist eine ärztliche Anordnung für die Abrechnung der Leistung vorgeschrieben, i
 
 (2) § 302 Abs. 2 Satz 1 bis 3 und Abs. 3 gilt entsprechend.
 
-
-## § 302 – Abrechnung der sonstigen Leistungserbringer
+# § 302 – Abrechnung der sonstigen Leistungserbringer
 
 (1) Die Leistungserbringer im Bereich der Heil- und Hilfsmittel sowie der digitalen Gesundheitsanwendungen und die weiteren Leistungserbringer sind verpflichtet, den Krankenkassen im Wege elektronischer Datenübertragung oder maschinell verwertbar auf Datenträgern die von ihnen erbrachten Leistungen nach Art, Menge und Preis zu bezeichnen und den Tag der Leistungserbringung sowie die Arztnummer des verordnenden Arztes, die Verordnung des Arztes mit der Diagnose und den erforderlichen Angaben über den Befund und die Angaben nach § 291a Absatz 2 Nummer 1 bis 10 anzugeben; bei der Abrechnung über die Abgabe von Hilfsmitteln sind dabei die Bezeichnungen des Hilfsmittelverzeichnisses nach § 139 zu verwenden und die Höhe der mit dem Versicherten abgerechneten Mehrkosten nach § 33 Absatz 1 Satz 6 anzugeben. Bei der Abrechnung von Leistungen der häuslichen Krankenpflege nach § 37 sowie der außerklinischen Intensivpflege nach § 37c ist zusätzlich zu den Angaben nach Satz 1 die Zeit der Leistungserbringung und nach § 293 Absatz 8 Satz 11 spätestens ab dem 1. Januar 2023 die Beschäftigtennummer der Person, die die Leistung erbracht hat, anzugeben.
 
@@ -10012,8 +9454,7 @@ Die Verpflichtung nach Satz 7 besteht nach Ablauf von drei Monaten, nachdem der 
 
 (6) Sind im Rahmen der Abrechnung nach Absatz 1 Auszahlungen für Lieferungen und Dienstleistungen durch Rechnungen des Leistungserbringers als zahlungsbegründende Unterlage zu belegen, darf die Rechnung des Leistungserbringers durch eine von den Krankenkassen ausgestellte Rechnung (Gutschrift) ersetzt werden, wenn dies zuvor zwischen dem Leistungserbringer und der Krankenkasse vereinbart wurde. Die Krankenkassen sind verpflichtet, dem Leistungserbringer die Gutschrift schriftlich oder elektronisch zur Prüfung zu übermitteln. Widerspricht der Leistungserbringer der von der Krankenkasse übermittelten Gutschrift, verliert diese ihre Wirkung als zahlungsbegründende Unterlage. Das Nähere zu dem Verfahren nach den Sätzen 1 bis 3 einschließlich einer zeitlichen Begrenzung des Widerspruchsrechts der Leistungserbringer regelt der Spitzenverband Bund der Krankenkassen in seinen Richtlinien nach Absatz 2 Satz 1.
 
-
-## § 303 – Ergänzende Regelungen
+# § 303 – Ergänzende Regelungen
 
 (1) Die Landesverbände der Krankenkassen und die Verbände der Ersatzkassen können mit den Leistungserbringern oder ihren Verbänden vereinbaren, daß
 
@@ -10029,8 +9470,7 @@ wird, wenn dadurch eine ordnungsgemäße Abrechnung und die Erfüllung der geset
 
 (4) Sofern Datenübermittlungen zu Diagnosen nach den §§ 295 und 295a fehlerhaft oder unvollständig sind, ist eine erneute Übermittlung in korrigierter oder ergänzter Form nur im Falle technischer Übermittlungs- oder formaler Datenfehler zulässig. Eine nachträgliche Änderung oder Ergänzung von Diagnosedaten insbesondere auch auf Grund von Prüfungen gemäß den §§ 106 bis 106c, Unterrichtungen nach § 106d Absatz 3 Satz 2 und Anträgen nach § 106d Absatz 4 ist unzulässig. Das Nähere regeln die Vertragspartner nach § 82 Absatz 1 Satz 1.
 
-
-## § 303a – Wahrnehmung der Aufgaben der Datentransparenz; Verordnungsermächtigung
+# § 303a – Wahrnehmung der Aufgaben der Datentransparenz; Verordnungsermächtigung
 
 (1) Die Aufgaben der Datentransparenz werden von öffentlichen Stellen des Bundes als Vertrauensstelle nach § 303c und als Forschungsdatenzentrum nach § 303d sowie vom Spitzenverband Bund der Krankenkassen als Datensammelstelle wahrgenommen. Das Bundesministerium für Gesundheit bestimmt im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrnehmung der Aufgaben der Datentransparenz eine öffentliche Stelle des Bundes als Vertrauensstelle nach § 303c und eine öffentliche Stelle des Bundes als Forschungsdatenzentrum nach § 303d.
 
@@ -10054,8 +9494,7 @@ wird, wenn dadurch eine ordnungsgemäße Abrechnung und die Erfüllung der geset
 
 7. zur Erstattung der Kosten nach Absatz 3 einschließlich der zu zahlenden Vorschüsse.
 
-
-## § 303b – Datenzusammenführung und -übermittlung
+# § 303b – Datenzusammenführung und -übermittlung
 
 (1) Für die in § 303e Absatz 2 genannten Zwecke übermitteln die Krankenkassen an den Spitzenverband Bund der Krankenkassen als Datensammelstelle für jeden Versicherten jeweils in Verbindung mit einem Versichertenpseudonym, das eine kassenübergreifende eindeutige Identifizierung im Berichtszeitraum erlaubt (Lieferpseudonym),
 
@@ -10088,8 +9527,7 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 (+++ § 303b Abs. 3 Satz 1 u. 2: Änderungsanweisung durch Art. 32 Nr. 14 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)  
 (+++ § 303b Abs. 4: Änderungsanweisung durch Art. 32 Nr. 14 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
-
-## § 303c – Vertrauensstelle
+# § 303c – Vertrauensstelle
 
 (1) Die Vertrauensstelle überführt die ihr nach § 303b Absatz 3 Satz 1 Nummer 2 übermittelten Lieferpseudonyme nach einem einheitlich anzuwendenden Verfahren nach Absatz 2 in periodenübergreifende Pseudonyme.
 
@@ -10097,8 +9535,7 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 
 (3) Die Vertrauensstelle hat die Liste der Pseudonyme dem Forschungsdatenzentrum mit den Arbeitsnummern zu übermitteln. Nach der Übermittlung dieser Liste an das Forschungsdatenzentrum hat sie die diesen Pseudonymen zugrunde liegenden Lieferpseudonyme und Arbeitsnummern sowie die Pseudonyme zu löschen.
 
-
-## § 303d – Forschungsdatenzentrum
+# § 303d – Forschungsdatenzentrum
 
 (1) Das Forschungsdatenzentrum hat folgende Aufgaben:
 
@@ -10128,8 +9565,7 @@ Die Angaben zu den Leistungserbringern sind vor der Übermittlung an das Forschu
 
 (+++ § 303d Abs. 1: Änderungsanweisung durch Art. 32 Nr. 14 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
-
-## § 303e – Datenverarbeitung
+# § 303e – Datenverarbeitung
 
 (1) Das Forschungsdatenzentrum macht die ihm vom Spitzenverband Bund der Krankenkassen und von der Vertrauensstelle übermittelten Daten nach Maßgabe der Absätze 3 bis 6 folgenden Nutzungsberechtigten zugänglich, soweit diese nach Absatz 2 zur Verarbeitung der Daten berechtigt sind:
 
@@ -10205,15 +9641,13 @@ Die Nutzungsberechtigten haben bei der Verarbeitung der nach Absatz 3 oder Absat
 
 (6) Wenn die zuständige Datenschutzaufsichtsbehörde feststellt, dass Nutzungsberechtigte die vom Forschungsdatenzentrum nach Absatz 3 oder Absatz 4 zugänglich gemachten Daten in einer Art und Weise verarbeitet haben, die nicht den geltenden datenschutzrechtlichen Vorschriften oder den Auflagen des Forschungsdatenzentrums entspricht, und wegen eines solchen Verstoßes eine Maßnahme nach Artikel 58 Absatz 2 Buchstabe b bis j der Verordnung (EU) 2016/679 gegenüber dem Nutzungsberechtigten ergriffen hat, informiert sie das Forschungsdatenzentrum. In diesem Fall schließt das Forschungsdatenzentrum den Nutzungsberechtigten für einen Zeitraum von bis zu zwei Jahren vom Datenzugang aus.
 
-
-## § 303f – Gebührenregelung; Verordnungsermächtigung
+# § 303f – Gebührenregelung; Verordnungsermächtigung
 
 (1) Das Forschungsdatenzentrum erhebt von den Nutzungsberechtigten nach § 303e Absatz 1 Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach § 303d zur Deckung des Verwaltungsaufwandes. Die Gebührensätze sind so zu bemessen, dass sie den auf die Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand nicht übersteigen. Die Krankenkassen, ihre Verbände, der Spitzenverband Bund der Krankenkassen sowie das Bundesministerium für Gesundheit als Aufsichtsbehörde sind von der Zahlung der Gebühren befreit.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über die Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen, den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die Verjährung und die Erstattung zu treffen. Das Bundesministerium für Gesundheit kann die Ermächtigung durch Rechtsverordnung auf die öffentliche Stelle, die vom Bundesministerium für Gesundheit nach § 303a Absatz 1 als Forschungsdatenzentrum nach § 303d bestimmt ist, übertragen.
 
-
-## § 304 – Aufbewahrung von Daten bei Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der Prüfungsausschüsse
+# § 304 – Aufbewahrung von Daten bei Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der Prüfungsausschüsse
 
 (1) Die für Aufgaben der gesetzlichen Krankenversicherung bei Krankenkassen, Kassenärztlichen Vereinigungen und Geschäftsstellen der Prüfungsausschüsse gespeicherten Sozialdaten sind nach folgender Maßgabe zu löschen:
 
@@ -10229,8 +9663,7 @@ Die Aufbewahrungsfristen beginnen mit dem Ende des Geschäftsjahres, in dem die 
 
 (+++ § 304 Abs. 1 Satz 1 Nr. 2: Die nicht ausführbare Änderungsanweisung d. Art. 1 Nr. 40 Buchst. b G v. 9.12.2019 I 2562 mWv 19.12.2019 wurde sinngemäß konsolidiert +++); idF d. Art. 5 Nr. 32 G v. 22.3.2020 I 604 mWv 1.4.2020
 
-
-## § 305 – Auskünfte an Versicherte
+# § 305 – Auskünfte an Versicherte
 
 (1) Die Krankenkassen unterrichten die Versicherten auf deren Antrag über die in Anspruch genommenen Leistungen und deren Kosten. Auf Verlangen der Versicherten und mit deren ausdrücklicher Einwilligung sollen die Krankenkassen an Dritte, die die Versicherten benannt haben, Daten nach Satz 1 auch elektronisch übermitteln. Die Krankenkassen dürfen auf Verlangen und mit ausdrücklicher Einwilligung der Versicherten Daten über die von diesem Versicherten in Anspruch genommenen Leistungen an Anbieter elektronischer Patientenakten oder anderer persönlicher Gesundheitsakten zur Erfüllung ihrer Pflichten nach § 344 Absatz 1 Satz 2 und § 350 Absatz 1 übermitteln. Bei der Übermittlung an Anbieter elektronischer Patientenakten oder anderer persönlicher elektronischer Gesundheitsakten muss sichergestellt werden, dass die Daten nach Satz 1 nicht ohne ausdrückliche Einwilligung der Versicherten von Dritten eingesehen werden können. Zum Schutz vor unbefugter Kenntnisnahme der Daten der Versicherten, insbesondere zur sicheren Identifizierung des Versicherten und des Dritten nach den Sätzen 2 und 3 sowie zur sicheren Datenübertragung, ist die Richtlinie nach § 217f Absatz 4b entsprechend anzuwenden. Auf Antrag der Versicherten haben die Krankenkassen abweichend von § 303 Absatz 4 Diagnosedaten, die ihnen nach den §§ 295 und 295a übermittelt wurden und deren Unrichtigkeit durch einen ärztlichen Nachweis belegt wird, in berichtigter Form bei der Unterrichtung nach Satz 1 und bei der Übermittlung nach den Sätzen 2 und 3 zu verwenden. Den Antrag nach Satz 6 haben die Krankenkassen innerhalb von vier Wochen nach Erhalt des Antrags zu bescheiden. Die für die Unterrichtung nach Satz 1 und für die Übermittlung nach den Sätzen 2 und 3 erforderlichen Daten dürfen ausschließlich für diese Zwecke verarbeitet werden. Eine Mitteilung an die Leistungserbringer über die Unterrichtung des Versicherten und die Übermittlung der Daten ist nicht zulässig. Die Krankenkassen können in ihrer Satzung das Nähere über das Verfahren der Unterrichtung nach Satz 1 und über die Übermittlung nach den Sätzen 2 und 3 regeln.
 
@@ -10238,18 +9671,15 @@ Die Aufbewahrungsfristen beginnen mit dem Ende des Geschäftsjahres, in dem die 
 
 (3) Die Krankenkassen informieren ihre Versicherten auf Verlangen umfassend über in der gesetzlichen Krankenversicherung zugelassene Leistungserbringer einschließlich medizinische Versorgungszentren und Leistungserbringer in der besonderen Versorgung sowie über die verordnungsfähigen Leistungen und Bezugsquellen, einschließlich der Informationen nach § 73 Abs. 8, § 127 Absatz 3 und 5. Die Krankenkasse hat Versicherte vor deren Entscheidung über die Teilnahme an besonderen Versorgungsformen in Wahltarifen nach § 53 Abs. 3 umfassend über darin erbrachte Leistungen und die beteiligten Leistungserbringer zu informieren. § 69 Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 305a – Beratung der Vertragsärzte
+# § 305a – Beratung der Vertragsärzte
 
 Die Kassenärztlichen Vereinigungen beraten in erforderlichen Fällen die Vertragsärzte auf der Grundlage von Übersichten über die von ihnen im Zeitraum eines Jahres oder in einem kürzeren Zeitraum erbrachten, verordneten oder veranlassten Leistungen über Fragen der Wirtschaftlichkeit. Ergänzend können die Vertragsärzte den Kassenärztlichen Vereinigungen die Daten über die von ihnen verordneten Leistungen nicht versichertenbezogen übermitteln, die Kassenärztlichen Vereinigungen können diese Daten für ihre Beratung des Vertragsarztes auswerten und auf der Grundlage dieser Daten erstellte vergleichende Übersichten den Vertragsärzten nicht arztbezogen zur Verfügung stellen. Die Vertragsärzte und die Kassenärztlichen Vereinigungen dürfen die Daten nach Satz 2 nur für im Sozialgesetzbuch bestimmte Zwecke verarbeiten. Ist gesetzlich oder durch Vereinbarung nach § 130a Abs. 8 nichts anderes bestimmt, dürfen Vertragsärzte Daten über von ihnen verordnete Arzneimittel nur solchen Stellen übermitteln, die sich verpflichten, die Daten ausschließlich als Nachweis für die in einer Kassenärztlichen Vereinigung oder einer Region mit mindestens jeweils 300 000 Einwohnern oder mit jeweils mindestens 1 300 Ärzten insgesamt in Anspruch genommenen Leistungen zu verarbeiten; eine Verarbeitung dieser Daten mit regionaler Differenzierung innerhalb einer Kassenärztlichen Vereinigung, für einzelne Vertragsärzte oder Einrichtungen sowie für einzelne Apotheken ist unzulässig. Satz 4 gilt auch für die Übermittlung von Daten über die nach diesem Buch verordnungsfähigen Arzneimittel durch Apotheken, den Großhandel, Krankenkassen sowie deren Rechenzentren. Abweichend von Satz 4 dürfen Leistungserbringer und Krankenkassen Daten über verordnete Arzneimittel in vertraglichen Versorgungsformen nach den §§ 63, 73b, 137f oder 140a nutzen.
 
-
-## § 305b – Veröffentlichung der Jahresrechnungsergebnisse
+# § 305b – Veröffentlichung der Jahresrechnungsergebnisse
 
 Die Krankenkassen, mit Ausnahme der landwirtschaftlichen Krankenkasse, veröffentlichen im elektronischen Bundesanzeiger sowie auf der eigenen Internetpräsenz zum 30. November des dem Berichtsjahr folgenden Jahres die wesentlichen Ergebnisse ihrer Rechnungslegung in einer für die Versicherten verständlichen Weise. Die Satzung hat weitere Arten der Veröffentlichung zu regeln, die sicherstellen, dass alle Versicherten der Krankenkasse davon Kenntnis erlangen können. Zu veröffentlichen sind insbesondere Angaben zur Entwicklung der Zahl der Mitglieder und Versicherten, zur Höhe und Struktur der Einnahmen, zur Höhe und Struktur der Ausgaben sowie zur Vermögenssituation. Ausgaben für Prävention und Gesundheitsförderung sowie Verwaltungsausgaben sind gesondert auszuweisen. Das Nähere zu den zu veröffentlichenden Angaben wird in der Allgemeinen Verwaltungsvorschrift über das Rechnungswesen in der Sozialversicherung geregelt.
 
-
-## § 306 – Telematikinfrastruktur
+# § 306 – Telematikinfrastruktur
 
 (1) Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Gesundheit, der Spitzenverband Bund der Krankenkassen, die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche Bundesvereinigung, die Bundesärztekammer, die Bundeszahnärztekammer, die Deutsche Krankenhausgesellschaft sowie die für die Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche Spitzenorganisation der Apotheker auf Bundesebene schaffen die Telematikinfrastruktur. Die Telematikinfrastruktur ist die interoperable und kompatible Informations-, Kommunikations- und Sicherheitsinfrastruktur, die der Vernetzung von Leistungserbringern, Kostenträgern, Versicherten und weiteren Akteuren des Gesundheitswesens sowie der Rehabilitation und der Pflege dient und insbesondere
 
@@ -10279,8 +9709,7 @@ b) einem gesicherten Netz einschließlich der für den Betrieb notwendigen Diens
 
 (4) Anwendungen im Sinne dieses Kapitels sind nutzerbezogene Funktionalitäten auf der Basis von nach § 325 zugelassenen Diensten und Komponenten zur Verarbeitung von Gesundheitsdaten in der Telematikinfrastruktur sowie weitere nutzerbezogene Funktionalitäten nach § 327. Dienste im Sinne von Satz 1 sind zentral bereitgestellte und in der Telematikinfrastruktur betriebene technische Systeme, die einzelne Funktionalitäten der Telematikinfrastruktur umsetzen. Komponenten sind dezentrale technische Systeme oder deren Bestandteile.
 
-
-## § 307 – Datenschutzrechtliche Verantwortlichkeiten
+# § 307 – Datenschutzrechtliche Verantwortlichkeiten
 
 (1) Die Verarbeitung personenbezogener Daten mittels der Komponenten der dezentralen Infrastruktur nach § 306 Absatz 2 Nummer 1 liegt in der Verantwortung derjenigen, die diese Komponenten für die Zwecke der Authentifizierung und zur sicheren Verarbeitung von Daten über die zentrale Infrastruktur nutzen, soweit sie über die Mittel der Datenverarbeitung mit entscheiden. Dies gilt für die ordnungsgemäße Inbetriebnahme, Wartung und Verwendung der Komponenten.
 
@@ -10292,15 +9721,13 @@ b) einem gesicherten Netz einschließlich der für den Betrieb notwendigen Diens
 
 (5) Die Gesellschaft für Telematik ist Verantwortliche für die Verarbeitung personenbezogener Daten in der Telematikinfrastruktur, soweit sie im Rahmen ihrer Aufgaben nach § 311 Absatz 1 die Mittel der Datenverarbeitung bestimmt und insoweit keine Verantwortlichkeit nach den vorstehenden Absätzen begründet ist. Die Gesellschaft für Telematik richtet für die Betroffenen eine koordinierende Stelle ein. Die koordinierende Stelle erteilt den Betroffenen allgemeine Informationen zur Telematikinfrastruktur sowie Auskunft über Zuständigkeiten innerhalb der Telematikinfrastruktur, insbesondere zur datenschutzrechtlichen Verantwortlichkeit nach dieser Vorschrift.
 
-
-## § 308 – Vorrang von technischen Schutzmaßnahmen
+# § 308 – Vorrang von technischen Schutzmaßnahmen
 
 (1) Die Rechte der betroffenen Person nach den Artikeln 12 bis 22 der Verordnung (EU) 2016/679 sind gegenüber den Verantwortlichen nach § 307 ausgeschlossen, soweit diese Rechte von dem Verantwortlichen nach § 307 und dessen Auftragsverarbeiter nicht oder nur unter Umgehung von Schutzmechanismen wie insbesondere der Verschlüsselung oder der Anonymisierung gewährleistet werden können. Ist es einem Verantwortlichen nach § 307 nur unter Umgehung von Schutzmechanismen wie insbesondere der Verschlüsselung oder der Anonymisierung, die eine Kenntnisnahme oder Identifizierung ausschließen, möglich, Rechte der betroffenen Person zu befriedigen, so ist der Verantwortliche nicht verpflichtet, zur bloßen Einhaltung datenschutzrechtlicher Betroffenenrechte zusätzliche Informationen aufzubewahren, einzuholen oder zu verarbeiten oder Sicherheitsvorkehrungen aufzuheben.
 
 (2) Absatz 1 gilt nicht, wenn die Datenverarbeitung unrechtmäßig ist oder berechtigte Zweifel an der behaupteten Unmöglichkeit nach Absatz 1 bestehen.
 
-
-## § 309 – Protokollierung
+# § 309 – Protokollierung
 
 (1) Die Verantwortlichen nach § 307 haben durch geeignete technische Maßnahmen sicherzustellen, dass für Zwecke der Datenschutzkontrolle bei Anwendungen nach den §§ 327 und 334 Absatz 1 nachträglich für den Zeitraum der regelmäßigen dreijährigen Verjährungsfrist nach § 195 des Bürgerlichen Gesetzbuchs die Zugriffe und die versuchten Zugriffe auf personenbezogene Daten der Versicherten in diesen Anwendungen überprüft werden können und festgestellt werden kann, ob, von wem und welche Daten des Versicherten in dieser Anwendung verarbeitet worden sind.
 
@@ -10308,8 +9735,7 @@ b) einem gesicherten Netz einschließlich der für den Betrieb notwendigen Diens
 
 (3) Die Protokolldaten sind nach Ablauf der in Absatz 1 genannten Frist unverzüglich zu löschen.
 
-
-## § 310 – Gesellschaft für Telematik
+# § 310 – Gesellschaft für Telematik
 
 (1) Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Gesundheit, und die in § 306 Absatz 1 Satz 1 genannten Spitzenorganisationen sind Gesellschafter der Gesellschaft für Telematik.
 
@@ -10325,8 +9751,7 @@ b) einem gesicherten Netz einschließlich der für den Betrieb notwendigen Diens
 
 (4) Unbeschadet zwingender gesetzlicher Mehrheitserfordernisse entscheiden die Gesellschafter mit der einfachen Mehrheit der sich aus den Geschäftsanteilen ergebenden Stimmen.
 
-
-## § 311 – Aufgaben der Gesellschaft für Telematik
+# § 311 – Aufgaben der Gesellschaft für Telematik
 
 (1) Im Rahmen des Auftrags nach § 306 Absatz 1 hat die Gesellschaft für Telematik nach Maßgabe der Anforderungen gemäß § 306 Absatz 3 folgende Aufgaben:
 
@@ -10380,11 +9805,9 @@ der Steuerung der Zugriffe auf Daten nach § 334 Absatz 1 Satz 2,
 
 (7) Bei der Vergabe von Aufträgen durch die Gesellschaft für Telematik ist unterhalb der Schwellenwerte nach § 106 des Gesetzes gegen Wettbewerbsbeschränkungen die Unterschwellenvergabeordnung in der Fassung der Bekanntmachung vom 2. Februar 2017 (BAnz. AT 07.02.2017 B1; BAnz. AT 07.02.2017 B2) anzuwenden. Für die Verhandlungsvergabe von Leistungen gemäß § 8 Absatz 4 Nummer 17 der Unterschwellenvergabeordnung werden die Ausführungsbestimmungen vom Bundesministerium für Gesundheit festgelegt. Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
 
+# §§ 311a und 311b – (weggefallen)
 
-## §§ 311a und 311b – (weggefallen)
-
-
-## § 312 – Aufträge an die Gesellschaft für Telematik
+# § 312 – Aufträge an die Gesellschaft für Telematik
 
 (1) Die Gesellschaft für Telematik hat im Rahmen ihrer Aufgaben nach § 311 Absatz 1 Nummer 1
 
@@ -10410,8 +9833,7 @@ Bei der Durchführung der Maßnahmen nach Satz 1 berücksichtigt die Gesellschaf
 
 (6) Die Gesellschaft für Telematik hat im Rahmen ihrer Aufgabenzuweisung nach § 311 Absatz 1 Nummer 1 die Maßnahmen durchzuführen, die erforderlich sind, damit das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2, 3 und 6 mittels einer Benutzeroberfläche eines geeigneten Endgeräts erfolgen kann. Dabei ist ein technisches Verfahren vorzusehen, das zur Authentifizierung einen hohen Sicherheitsstandard gewährleistet.
 
-
-## § 313 – Elektronischer Verzeichnisdienst der Telematikinfrastruktur
+# § 313 – Elektronischer Verzeichnisdienst der Telematikinfrastruktur
 
 (1) Die Gesellschaft für Telematik betreibt den elektronischen Verzeichnisdienst der Telematikinfrastruktur. Sie kann Dritte mit dem Betrieb beauftragen. Der elektronische Verzeichnisdienst kann die Daten enthalten, die erforderlich sind für die Suche, Identifikation und Adressierung von
 
@@ -10433,8 +9855,7 @@ Die Daten nach Satz 3 umfassen den Namen, die Adressdaten, technische Adressieru
 
 (6) Die örtlich zuständige Kassenärztliche Vereinigung hat die für den Anschluss an die Telematikinfrastruktur erforderlichen Identifikationsmerkmale nach Absatz 1 für Eigeneinrichtungen der Krankenkassen nach § 140 zu vergeben. Satz 1 gilt auch für niedergelassene Ärzte und Psychotherapeuten, die nicht bereits auf Grund anderer Vorschriften entsprechende Identifikationsmerkmale erhalten können. Die örtlich zuständige Ärztekammer oder die örtlich zuständige Psychotherapeutenkammer stellen der Kassenärztlichen Vereinigung die für die Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 notwendigen Informationen zur Verfügung und informieren die zuständige Kassenärztliche Vereinigung unverzüglich über für die Vergabe der Arztnummer und der im Bundesmantelvertrag für Ärzte vorgesehenen Betriebsstättennummer relevante Änderungen.
 
-
-## § 314 – Informationspflichten der Gesellschaft für Telematik
+# § 314 – Informationspflichten der Gesellschaft für Telematik
 
 Die Gesellschaft für Telematik ist verpflichtet, auf ihrer Internetseite und in analogem Format Informationen für die Versicherten in präziser, transparenter, verständlicher, leicht zugänglicher und barrierefreier Form zur Verfügung zu stellen über
 
@@ -10460,22 +9881,19 @@ Die Gesellschaft für Telematik ist verpflichtet, auf ihrer Internetseite und in
 
 Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, hat die Gesellschaft für Telematik das hierzu durch den Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit nach § 343 erstellte Informationsmaterial zu nutzen.
 
-
-## § 315 – Verbindlichkeit der Beschlüsse der Gesellschaft für Telematik
+# § 315 – Verbindlichkeit der Beschlüsse der Gesellschaft für Telematik
 
 (1) Die Beschlüsse der Gesellschaft für Telematik zu den Regelungen, dem Aufbau und dem Betrieb der Telematikinfrastruktur sind für die Leistungserbringer und die Krankenkassen sowie ihre Verbände nach diesem Buch verbindlich. Beschlüsse der Gesellschaft für Telematik über die Zuständigkeit für die Bereitstellung von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen gelten auch für die Apothekerkammern der Länder, soweit diese Zuständigkeit nicht durch Bundes- oder Landesrecht geregelt ist.
 
 (2) Vor der Beschlussfassung hat die Gesellschaft für Telematik der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und dem Bundesamt für Sicherheit in der Informationstechnik Gelegenheit zur Stellungnahme zu geben, sofern Belange des Datenschutzes oder der Datensicherheit berührt sind.
 
-
-## § 316 – Finanzierung der Gesellschaft für Telematik; Verordnungsermächtigung
+# § 316 – Finanzierung der Gesellschaft für Telematik; Verordnungsermächtigung
 
 (1) Zur Finanzierung der Gesellschaft für Telematik zahlt der Spitzenverband Bund der Krankenkassen an die Gesellschaft für Telematik jährlich einen Betrag in Höhe von 1 Euro je Mitglied der gesetzlichen Krankenversicherung. Das Bundesministerium für Gesundheit kann entsprechend dem Mittelbedarf der Gesellschaft für Telematik unter Beachtung des Gebotes der Wirtschaftlichkeit durch Rechtsverordnung ohne Zustimmung des Bundesrates einen von Satz 1 abweichenden Betrag je Mitglied der gesetzlichen Krankenversicherung festsetzen.
 
 (2) Die Zahlungen nach Absatz 1 sind quartalsweise, spätestens drei Wochen vor Beginn des jeweiligen Quartals, zu leisten. Diese Zahlungen zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und 6.
 
-
-## § 317 – Beirat der Gesellschaft für Telematik
+# § 317 – Beirat der Gesellschaft für Telematik
 
 (1) Die Gesellschaft für Telematik hat einen Beirat einzurichten. Der Beirat hat eine Vorsitzende oder einen Vorsitzenden. Der Beirat besteht aus
 
@@ -10505,8 +9923,7 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (5) Der Beirat gibt sich eine Geschäftsordnung.
 
-
-## § 318 – Aufgaben des Beirats
+# § 318 – Aufgaben des Beirats
 
 (1) Der Beirat hat die Gesellschaft für Telematik in fachlichen Belangen zu beraten. Er vertritt die Interessen der im Beirat Vertretenen gegenüber der Gesellschaft für Telematik und fördert den fachlichen Austausch zwischen der Gesellschaft für Telematik und den im Beirat Vertretenen.
 
@@ -10526,8 +9943,7 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (6) Die Gesellschaft für Telematik prüft die Stellungnahmen des Beirats nach den Absätzen 2 und 3 fachlich. Das Ergebnis der Prüfung, einschließlich Aussagen darüber, inwieweit sie die Empfehlungen des Beirats berücksichtigt, teilt sie dem Beirat schriftlich mit. Die Gesellschafterversammlung ist ebenfalls über das Ergebnis der Prüfung zu unterrichten.
 
-
-## § 319 – Schlichtungsstelle der Gesellschaft für Telematik
+# § 319 – Schlichtungsstelle der Gesellschaft für Telematik
 
 (1) Bei der Gesellschaft für Telematik ist eine Schlichtungsstelle einzurichten. Die Schlichtungsstelle wird tätig, soweit dies gesetzlich bestimmt ist.
 
@@ -10535,8 +9951,7 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (3) Die Schlichtungsstelle gibt sich eine Geschäftsordnung.
 
-
-## § 320 – Zusammensetzung der Schlichtungsstelle; Finanzierung
+# § 320 – Zusammensetzung der Schlichtungsstelle; Finanzierung
 
 (1) Die Schlichtungsstelle besteht aus einer oder einem unparteiischen Vorsitzenden und zwei weiteren Mitgliedern. Die Amtsdauer der Mitglieder der Schlichtungsstelle beträgt zwei Jahre. Die Wiederbenennung ist zulässig.
 
@@ -10546,15 +9961,13 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (4) Die in § 306 Absatz 1 genannten Spitzenorganisationen tragen die Kosten für die von ihnen benannten Vertreter jeweils selbst. Die Kosten für den Vorsitzenden sowie die sonstigen Kosten der Schlichtungsstelle werden aus den Finanzmitteln der Gesellschaft für Telematik finanziert.
 
-
-## § 321 – Beschlussfassung der Schlichtungsstelle
+# § 321 – Beschlussfassung der Schlichtungsstelle
 
 (1) Jedes Mitglied der Schlichtungsstelle hat eine Stimme. Eine Stimmenthaltung ist nicht zulässig.
 
 (2) Die Schlichtungsstelle entscheidet mit einfacher Stimmenmehrheit.
 
-
-## § 322 – Rechtsaufsicht des Bundesministeriums für Gesundheit über die Schlichtungsstelle
+# § 322 – Rechtsaufsicht des Bundesministeriums für Gesundheit über die Schlichtungsstelle
 
 (1) Die Entscheidung der Schlichtungsstelle ist dem Bundesministerium für Gesundheit zur Prüfung vorzulegen.
 
@@ -10566,15 +9979,13 @@ Für Informationen nach Satz 1, die die elektronische Patientenakte betreffen, h
 
 (5) Die Entscheidungen nach den Absätzen 1 und 3 Satz 2 sind für die Leistungserbringer und Krankenkassen sowie für ihre Verbände nach diesem Buch verbindlich.
 
-
-## § 323 – Betriebsleistungen
+# § 323 – Betriebsleistungen
 
 (1) Betriebsleistungen sind auf der Grundlage der von der Gesellschaft für Telematik nach Maßgabe des § 306 Absatz 3 festzulegenden Rahmenbedingungen zu erbringen.
 
 (2) Zur Durchführung des Betriebs der Telematikinfrastruktur vergibt die Gesellschaft für Telematik Aufträge oder erteilt in einem transparenten und diskriminierungsfreien Verfahren Zulassungen. Sind nach § 311 Absatz 5 einzelne Gesellschafter oder Dritte beauftragt worden, so sind die Beauftragten für die Vergabe und für die Erteilung der Zulassung zuständig; § 311 Absatz 7 gilt entsprechend.
 
-
-## § 324 – Zulassung von Anbietern von Betriebsleistungen
+# § 324 – Zulassung von Anbietern von Betriebsleistungen
 
 (1) Anbieter von Betriebsleistungen haben einen Anspruch auf Zulassung, wenn
 
@@ -10594,8 +10005,7 @@ Die Zulassung kann mit Nebenbestimmungen versehen werden.
 
 2. eine Liste mit den zugelassenen Anbietern.
 
-
-## § 325 – Zulassung von Komponenten und Diensten der Telematikinfrastruktur
+# § 325 – Zulassung von Komponenten und Diensten der Telematikinfrastruktur
 
 (1) Die Komponenten und Dienste der Telematikinfrastruktur bedürfen der Zulassung durch die Gesellschaft für Telematik.
 
@@ -10609,13 +10019,11 @@ Die Zulassung kann mit Nebenbestimmungen versehen werden.
 
 (6) Die für die Aufgaben nach Absatz 3 Satz 2 und 4 sowie nach Absatz 4 Satz 2 beim Bundesamt für Sicherheit in der Informationstechnik entstehenden Kosten sind diesem durch die Gesellschaft für Telematik zu erstatten. Die Gesellschaft für Telematik legt die Einzelheiten der Kostenerstattung im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
 
-
-## § 326 – Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
+# § 326 – Verbot der Nutzung der Telematikinfrastruktur ohne Zulassung oder Bestätigung
 
 Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematikinfrastruktur müssen über die nach § 323 Absatz 2 und § 325 Absatz 1 erforderliche Zulassung oder über die nach § 327 Absatz 2 Satz 1 erforderliche Bestätigung verfügen, bevor sie die Telematikinfrastruktur nutzen.
 
-
-## § 327 – Weitere Anwendungen der Telematikinfrastruktur; Bestätigungsverfahren
+# § 327 – Weitere Anwendungen der Telematikinfrastruktur; Bestätigungsverfahren
 
 (1) Für weitere Anwendungen ohne Nutzung der elektronischen Gesundheitskarte nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a darf die Telematikinfrastruktur nur verwendet werden, wenn
 
@@ -10641,15 +10049,13 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (8) Für die Nutzung der Telematikinfrastruktur für Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a kann die Gesellschaft für Telematik von dem jeweiligen Anbieter Entgelte verlangen. Die Nutzung ist unentgeltlich, sofern die Anwendungen in diesem, im Elften Buch oder im Implantateregistergesetz geregelt sind oder zur Erfüllung einer gesetzlichen Verpflichtung, insbesondere gesetzlicher Meldepflichten im Gesundheitswesen, genutzt werden. Davon unberührt bleibt die Verpflichtung eines Anbieters von Anwendungen nach § 306 Absatz 1 Satz 2 Nummer 2 Buchstabe a, die Kosten für seinen Anschluss an die zentrale Telematikinfrastruktur zu tragen.
 
-
-## § 328 – Gebühren und Auslagen; Verordnungsermächtigung
+# § 328 – Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Die Gesellschaft für Telematik kann für die Zulassungen und Bestätigungen nach den §§ 324, 325 und 327 Gebühren und Auslagen erheben. Die Gebührensätze sind so zu bemessen, dass sie den auf die Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand nicht übersteigen.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über die Gebührenentstehung, die Gebührenerhebung, die Erstattung von Auslagen, den Gebührenschuldner, Gebührenbefreiungen, die Fälligkeit, die Stundung, die Niederschlagung, den Erlass, Säumniszuschläge, die Verjährung und die Erstattung zu treffen.
 
-
-## § 329 – Maßnahmen zur Abwehr von Gefahren für die Funktionsfähigkeit und Sicherheit der Telematikinfrastruktur
+# § 329 – Maßnahmen zur Abwehr von Gefahren für die Funktionsfähigkeit und Sicherheit der Telematikinfrastruktur
 
 (1) Soweit von Komponenten und Diensten eine Gefahr für die Funktionsfähigkeit oder Sicherheit der Telematikinfrastruktur ausgeht, ist die Gesellschaft für Telematik verpflichtet, unverzüglich die erforderlichen technischen und organisatorischen Maßnahmen zur Abwehr dieser Gefahr entsprechend dem Stand der Technik zu treffen. Die Gesellschaft für Telematik informiert das Bundesamt für Sicherheit in der Informationstechnik unverzüglich über die Gefahr und die getroffenen Maßnahmen.
 
@@ -10661,8 +10067,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (5) Die Gesellschaft für Telematik hat das Bundesministerium für Gesundheit unverzüglich über Meldungen nach Absatz 4 zu informieren.
 
-
-## § 330 – Vermeidung von Störungen der informationstechnischen Systeme, Komponenten und Prozesse der Telematikinfrastruktur
+# § 330 – Vermeidung von Störungen der informationstechnischen Systeme, Komponenten und Prozesse der Telematikinfrastruktur
 
 (1) Die Gesellschaft für Telematik sowie die gemäß § 307 verantwortlichen Anbieter, die eine Zulassung für Komponenten oder Dienste nach § 311 Absatz 6 sowie § 325 oder eine Bestätigung nach § 327 besitzen, sind verpflichtet, angemessene organisatorische und technische Vorkehrungen zur Vermeidung von Störungen der Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der informationstechnischen Systeme, Komponenten oder Prozesse der Telematikinfrastruktur zu treffen und fortlaufend zu aktualisieren. Dabei ist der jeweilige Stand der Technik zu berücksichtigen. Organisatorische und technische Vorkehrungen sind dann angemessen, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu den Folgen eines Ausfalls oder einer Beeinträchtigung der Telematikinfrastruktur insgesamt oder von solchen Diensten der Telematikinfrastruktur steht, die durch Störungen verursacht werden können.
 
@@ -10672,8 +10077,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (4) Die Meldepflichten nach Artikel 33 der Verordnung (EU) 2016/679 bleiben unberührt.
 
-
-## § 331 – Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
+# § 331 – Übergangsregelung zur Versicherungspflicht bei praxisintegrierter Ausbildung
 
 § 5 Absatz 4a Satz 1 Nummer 3 findet grundsätzlich nur Anwendung auf Ausbildungen, die nach dem 30. Juni 2020 begonnen werden. Wurde die Ausbildung vor diesem Zeitpunkt begonnen und wurden
 
@@ -10681,8 +10085,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 2. keine Beiträge gezahlt, gilt § 5 Absatz 4a Satz 1 Nummer 3 ab dem Zeitpunkt, zu dem der Arbeitgeber mit Zustimmung der Teilnehmerin oder des Teilnehmers Beiträge zahlt.
 
-
-## § 331 – Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur
+# § 331 – Maßnahmen zur Überwachung des Betriebs zur Gewährleistung der Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur
 
 (1) Die Gesellschaft für Telematik hat ab dem 1. Januar 2021 für Komponenten und Dienste der Telematikinfrastruktur sowie für Komponenten und Dienste, die die Telematikinfrastruktur nutzen, aber außerhalb der Telematikinfrastruktur betrieben werden, im Benehmen mit dem Bundesamt für Sicherheit in der Informationstechnik solche Maßnahmen zur Überwachung des Betriebs zu treffen, die erforderlich sind, um die Sicherheit, Verfügbarkeit und Nutzbarkeit der Telematikinfrastruktur zu gewährleisten.
 
@@ -10696,8 +10099,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (+++ Elftes Kapitel (§§ 306 bis 383): Eingef. durch Art. 1 Nr. 31 G v. 14.10.2020 I 2115 mWv 20.10.2020 (§ 331 doppelt) +++)
 
-
-## § 332 – Anforderungen an die Wartung von Diensten
+# § 332 – Anforderungen an die Wartung von Diensten
 
 (1) Dienstleister, die mit der Herstellung und der Wartung des Anschlusses von informationstechnischen Systemen der Leistungserbringer an die Telematikinfrastruktur einschließlich der Wartung hierfür benötigter Komponenten sowie der Anbindung an Dienste der Telematikinfrastruktur beauftragt werden, müssen besondere Sorgfalt bei der Herstellung und Wartung des Anschlusses an die Telematikinfrastruktur walten lassen und über die notwendige Fachkunde verfügen, um die Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der informationstechnischen Systeme und Komponenten zu gewährleisten.
 
@@ -10705,8 +10107,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (3) Zur Erfüllung der Anforderungen nach Absatz 1 und des Nachweises nach Absatz 2 können die maßgeblichen Spitzenorganisationen der Leistungserbringer auf Bundesebene den von ihnen vertretenen Leistungserbringern in Abstimmung mit der Gesellschaft für Telematik Hinweise geben. Der Gesellschaft für Telematik obliegt hierbei die Beachtung der notwendigen sicherheitstechnischen und betrieblichen Voraussetzungen zur Wahrung der Sicherheit und Funktionsfähigkeit der Telematikinfrastruktur.
 
-
-## § 333 – Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik
+# § 333 – Überprüfung durch das Bundesamt für Sicherheit in der Informationstechnik
 
 (1) Die Gesellschaft für Telematik legt dem Bundesamt für Sicherheit in der Informationstechnik auf Verlangen die folgenden Unterlagen und Informationen unverzüglich, spätestens aber innerhalb von zwei Wochen vor:
 
@@ -10726,8 +10127,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 2. der Anbieter von zugelassenen Diensten und bestätigten Anwendungen nach § 311 Absatz 6 sowie den §§ 325 und 327, sofern das Bundesamt für Sicherheit in der Informationstechnik auf Grund von Anhaltspunkten tätig geworden ist, die berechtigte Zweifel an der Sicherheit der zugelassenen Dienste und bestätigten Anwendungen begründeten.
 
-
-## § 334 – Anwendungen der Telematikinfrastruktur
+# § 334 – Anwendungen der Telematikinfrastruktur
 
 (1) Die Anwendungen der Telematikinfrastruktur dienen der Verbesserung der Wirtschaftlichkeit, der Qualität und der Transparenz der Versorgung. Anwendungen sind:
 
@@ -10749,8 +10149,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (4) Beim Bundesinstitut für Arzneimittel und Medizinprodukte wird zum 1. Januar 2021 eine Meldestelle für die Nutzer von Anwendungen nach Absatz 1 eingerichtet, die versorgungsrelevante Fehlerkonstellationen bei der Nutzung dieser Anwendungen im medizinischen Versorgungsalltag in nicht personenbezogener Form erfasst und systematisch bewertet. Das Bundesinstitut für Arzneimittel und Medizinprodukte übermittelt seine Bewertung der Gesellschaft für Telematik, die diese bei der Weiterentwicklung der Anwendungen nach Absatz 1 zu berücksichtigen hat.
 
-
-## § 335 – Diskriminierungsverbot
+# § 335 – Diskriminierungsverbot
 
 (1) Von Versicherten darf der Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 nicht verlangt werden.
 
@@ -10758,8 +10157,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (3) Die Versicherten dürfen nicht bevorzugt oder benachteiligt werden, weil sie einen Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 bewirkt oder verweigert haben.
 
-
-## § 336 – Zugriffsrechte der Versicherten
+# § 336 – Zugriffsrechte der Versicherten
 
 (1) Jeder Versicherte ist berechtigt, auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 3 und 6 mittels seiner elektronischen Gesundheitskarte barrierefrei zuzugreifen, wenn er sich für diesen Zugriff jeweils durch ein geeignetes technisches Verfahren authentifiziert hat.
 
@@ -10785,8 +10183,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (7) Der Spitzenverband Bund der Krankenkassen kann im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit in der Richtlinie nach § 217f Absatz 4b Satz 1 abweichend von Absatz 5 zusätzliche Maßnahmen festlegen, wenn dies auf Grund des Gefährdungspotentials erforderlich ist.
 
-
-## § 337 – Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten
+# § 337 – Recht der Versicherten auf Verarbeitung von Daten sowie auf Erteilung von Zugriffsberechtigungen auf Daten
 
 (1) Jeder Versicherte ist berechtigt, Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 auszulesen und zu übermitteln sowie Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1, soweit es sich um Daten nach § 341 Absatz 2 Satz 2 Nummer 6 handelt, und Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 und 3 zu verarbeiten.
 
@@ -10794,15 +10191,13 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (3) Der Versicherte ist berechtigt, gemäß § 339 Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 zu erteilen.
 
-
-## § 338 – Komponenten zur Wahrnehmung der Versichertenrechte
+# § 338 – Komponenten zur Wahrnehmung der Versichertenrechte
 
 (1) Die Krankenkassen haben spätestens bis zum 1. Januar 2022 ihren Versicherten nach § 325 Absatz 1 von der Gesellschaft für Telematik zugelassene Komponenten zur Verfügung zu stellen, die das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 2, 3 und 6 ermöglichen. Dabei sind technische Verfahren vorzusehen, die zur Authentifizierung einen hohen Sicherheitsstandard gewährleisten.
 
 (2) Die Gesellschaft für Telematik evaluiert bis zum 31. Dezember 2022, ob Bedarf für eine flächendeckende Schaffung technischer Einrichtungen durch die Krankenkassen in ihren Geschäftsstellen besteht, die das Auslesen der Protokolldaten gemäß § 309 Absatz 1 und der Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 1 bis 3 und 6 sowie das Erteilen von Zugriffsberechtigungen auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 ermöglichen. Hierbei ist die nach Absatz 1 ab dem 1. Januar 2022 bestehende Verpflichtung der Krankenkassen zu berücksichtigen.
 
-
-## § 339 – Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen
+# § 339 – Voraussetzungen für den Zugriff von Leistungserbringern und anderen zugriffsberechtigten Personen
 
 (1) Zugriffsberechtigte Leistungserbringer und andere zugriffsberechtigte Personen dürfen nach Maßgabe der §§ 352, 356, 357 und 359 auf personenbezogene Daten, insbesondere Gesundheitsdaten, der Versicherten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 1 bis 5 zugreifen, soweit die Versicherten hierzu ihre vorherige Einwilligung erteilt haben. Hierzu bedarf es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe.
 
@@ -10816,8 +10211,7 @@ Anbieter von Betriebsleistungen oder von Komponenten und Diensten der Telematiki
 
 (6) Der elektronische Heilberufsausweis muss über eine Möglichkeit zur sicheren Authentifizierung und zur Erstellung qualifizierter elektronischer Signaturen verfügen.
 
-
-## § 340 – Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
+# § 340 – Ausgabe von elektronischen Heilberufs- und Berufsausweisen sowie von Komponenten zur Authentifizierung von Leistungserbringerinstitutionen
 
 (1) Die Länder bestimmen
 
@@ -10849,8 +10243,7 @@ Berechtigt im Sinne von Satz 1 Nummer 4 sind Leistungserbringerinstitutionen, mi
 
 (5) Komponenten zur Authentifizierung von Leistungserbringerinstitutionen dürfen nur an Leistungserbringerinstitutionen ausgegeben werden, denen ein Leistungserbringer, der Inhaber eines elektronischen Heilberufs- oder Berufsausweises ist, zugeordnet werden kann.
 
-
-## § 341 – Elektronische Patientenakte
+# § 341 – Elektronische Patientenakte
 
 (1) Die elektronische Patientenakte ist eine versichertengeführte elektronische Akte, die den Versicherten von den Krankenkassen auf Antrag zur Verfügung gestellt wird. Die Nutzung ist für die Versicherten freiwillig. Mit ihr sollen den Versicherten auf Verlangen Informationen, insbesondere zu Befunden, Diagnosen, durchgeführten und geplanten Therapiemaßnahmen sowie zu Behandlungsberichten, für eine einrichtungs-, fach- und sektorenübergreifende Nutzung für Zwecke der Gesundheitsversorgung, insbesondere zur gezielten Unterstützung von Anamnese und Befunderhebung, barrierefrei elektronisch bereitgestellt werden.
 
@@ -10900,8 +10293,7 @@ d) Daten in elektronischen Briefen zwischen den an der Versorgung der Versichert
 
 (7) Die Krankenhäuser haben sich bis zum 1. Januar 2021 mit den für den Zugriff auf die elektronische Patientenakte erforderlichen Komponenten und Diensten auszustatten und sich an die Telematikinfrastruktur nach § 306 anzuschließen. Soweit Krankenhäuser ihrer Verpflichtung zum Anschluss an die Telematikinfrastruktur nach Satz 1 nicht nachkommen, sind § 5 Absatz 3e Satz 1 des Krankenhausentgeltgesetzes oder § 5 Absatz 5 der Bundespflegesatzverordnung anzuwenden. Die Kürzungsregelung nach Satz 2 findet im Fall, dass bereits eine Kürzung der Vergütung nach § 291b Absatz 5 erfolgt, keine Anwendung.
 
-
-## § 342 – Angebot und Nutzung der elektronischen Patientenakte
+# § 342 – Angebot und Nutzung der elektronischen Patientenakte
 
 (1) Die Krankenkassen sind verpflichtet, jedem Versicherten spätestens ab dem 1. Januar 2021 auf Antrag und mit Einwilligung des Versicherten eine nach § 325 Absatz 1 von der Gesellschaft für Telematik zugelassene elektronische Patientenakte zur Verfügung zu stellen, die jeweils rechtzeitig den Anforderungen gemäß Absatz 2 entspricht.
 
@@ -10953,8 +10345,7 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 (6) Die Krankenkassen dürfen von ihnen genutzte Komponenten und Dienste der elektronischen Patientenakte Unternehmen der privaten Krankenversicherung oder den sonstigen Einrichtungen gemäß § 362 Absatz 1 zur Verfügung stellen und in deren Auftrag betreiben. Soweit auch der Betrieb der elektronischen Patientenakte für das Unternehmen der privaten Krankenversicherung oder der sonstigen Einrichtung gemäß § 362 Absatz 1 erfolgt, sind geeignete technische und organisatorische Maßnahmen zur sicheren Trennung der Datenbestände zu treffen. Die Entwicklungs- und Betriebskosten für die elektronische Patientenakte sind dem Unternehmen der privaten Krankenversicherung oder der sonstigen Einrichtung gemäß § 362 Absatz 1 in angemessener Höhe anteilig in Rechnung zu stellen.
 
-
-## § 343 – Informationspflichten der Krankenkassen
+# § 343 – Informationspflichten der Krankenkassen
 
 (1) Die Krankenkassen haben den Versicherten, bevor sie ihnen gemäß § 342 Absatz 1 Satz 1 eine elektronische Patientenakte anbieten, umfassendes, geeignetes Informationsmaterial über die elektronische Patientenakte in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache und barrierefrei zur Verfügung zu stellen. Das Informationsmaterial muss über alle relevanten Umstände der Datenverarbeitung für die Einrichtung der elektronischen Patientenakte, die Übermittlung von Daten in die elektronische Patientenakte und die Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer einschließlich der damit verbundenen Datenverarbeitungsvorgänge in den verschiedenen Bestandteilen der Telematikinfrastruktur und die für die Datenverarbeitung datenschutzrechtlich Verantwortlichen informieren. Das Informationsmaterial enthält insbesondere Informationen über
 
@@ -11000,8 +10391,7 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 (2) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 1 hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit spätestens bis zum 30. November 2020 geeignetes Informationsmaterial, auch in elektronischer Form, zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
 
-
-## § 344 – Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte
+# § 344 – Einwilligung der Versicherten und Zulässigkeit der Datenverarbeitung durch die Krankenkassen und Anbieter der elektronischen Patientenakte
 
 (1) Hat der Versicherte nach vorheriger Information gemäß § 343 gegenüber der Krankenkasse in die Einrichtung der elektronischen Patientenakte eingewilligt, so dürfen die Krankenkasse, der Anbieter der elektronischen Patientenakte sowie der Anbieter von einzelnen Diensten und Komponenten der elektronischen Patientenakte die zum Zweck der Einrichtung erforderlichen administrativen personenbezogenen Daten verarbeiten. Die Krankenkasse darf versichertenbezogene Daten über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte übermitteln.
 
@@ -11011,15 +10401,13 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 (4) Sofern es für die Durchsetzung von datenschutzrechtlichen Ansprüchen der Versicherten gegenüber den für die Verarbeitung von Daten in der elektronischen Patientenakte Verantwortlichen notwendig ist, sind die in § 352 genannten Leistungserbringer verpflichtet, die Verantwortlichen bei der Umsetzung zu unterstützen.
 
-
-## § 345 – Angebot und Nutzung zusätzlicher Inhalte und Anwendungen
+# § 345 – Angebot und Nutzung zusätzlicher Inhalte und Anwendungen
 
 (1) Versicherte können den Krankenkassen Daten aus der elektronischen Patientenakte zum Zweck der Nutzung zusätzlicher von den Krankenkassen angebotener Anwendungen zur Verfügung stellen. Die Krankenkassen dürfen die Daten nach Satz 1 zu diesem Zweck verarbeiten, soweit die Versicherten hierzu ihre vorherige Einwilligung erteilt haben. Diese zusätzlichen Anwendungen der Krankenkassen dürfen die Wirksamkeit der Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit sowie die Verfügbarkeit und Nutzbarkeit der nach § 325 zugelassenen elektronischen Patientenakte nicht beeinträchtigen. Die Krankenkassen müssen die erforderlichen Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit der zusätzlichen Anwendungen ergreifen.
 
 (2) Die Zurverfügungstellung von Daten nach Absatz 1 ist nur nach Erhalt des Informationsmaterials nach § 343 Absatz 1 zulässig. § 335 Absatz 3 gilt entsprechend.
 
-
-## § 346 – Unterstützung bei der elektronischen Patientenakte
+# § 346 – Unterstützung bei der elektronischen Patientenakte
 
 (1) Ärzte, Zahnärzte und Psychotherapeuten, die an der vertragsärztlichen Versorgung teilnehmen oder in Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen oder in zugelassen Krankenhäusern tätig sind, haben auf der Grundlage der Informationspflichten der Krankenkassen nach § 343 die Versicherten auf deren Verlangen bei der Verarbeitung medizinischer Daten in der elektronischen Patientenakte ausschließlich im aktuellen Behandlungskontext zu unterstützen. Die Unterstützungsleistung nach Satz 1 umfasst die Übermittlung von medizinischen Daten in die elektronische Patientenakte und ist ausschließlich auf medizinische Daten aus der konkreten aktuellen Behandlung beschränkt. § 630c Absatz 4 des Bürgerlichen Gesetzbuchs bleibt unberührt. Die in Satz 1 genannten Ärzte, Zahnärzte, Psychotherapeuten, Einrichtungen und zugelassenen Krankenhäuser können Aufgaben in diesem Zusammenhang, soweit diese übertragbar sind, auf Personen übertragen, die als berufsmäßige Gehilfen oder zur Vorbereitung auf den Beruf bei ihnen tätig sind.
 
@@ -11033,8 +10421,7 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 (6) Die Leistungen nach Absatz 3 dürfen im Rahmen der gesetzlichen Krankenversicherung je Versichertem und elektronischer Patientenakte insgesamt nur einmal erbracht und abgerechnet werden. Das Nähere zu den Abrechnungsvoraussetzungen und -verfahren für Leistungen nach Absatz 3 vereinbaren der Spitzenverband Bund der Krankenkassen, die Kassenärztlichen Bundesvereinigungen sowie die Deutsche Krankenhausgesellschaft mit Wirkung zum 1. Januar 2021. Die Vereinbarung stellt sicher, dass nur eine einmalige Abrechnung der Vergütung für die Leistungen nach Absatz 3 möglich ist.
 
-
-## § 347 – Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
+# § 347 – Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Leistungserbringer
 
 (1) Versicherte haben Anspruch auf Übermittlung von Daten nach § 341 Absatz 2 Nummer 1 bis 5 und 10 bis 13 in die elektronische Patientenakte und dortige Speicherung, soweit diese Daten im Rahmen der vertragsärztlichen Versorgung bei der Behandlung des Versicherten durch die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer elektronisch verarbeitet werden und soweit andere Rechtsvorschriften nicht entgegenstehen. Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
@@ -11044,8 +10431,7 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 2. die Daten nach Absatz 1 auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 zu übermitteln und dort zu speichern.
 
-
-## § 348 – Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser
+# § 348 – Anspruch der Versicherten auf Übertragung von Behandlungsdaten in die elektronische Patientenakte durch Krankenhäuser
 
 (1) Versicherte haben Anspruch auf Übermittlung von Daten nach § 341 Absatz 2 Nummer 1 bis 5, 10, 11 und 13 in die elektronische Patientenakte und dortige Speicherung, soweit diese Daten im Rahmen der Krankenhausbehandlung des Versicherten elektronisch erhoben wurden und soweit andere Rechtsvorschriften nicht entgegenstehen. Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
@@ -11055,8 +10441,7 @@ g) die Versicherten jeweils bei ihrem Zugriff auf die elektronische Patientenakt
 
 2. die Daten nach Absatz 1 auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 zu übermitteln und dort zu speichern.
 
-
-## § 349 – Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte
+# § 349 – Anspruch der Versicherten auf Übertragung von Daten aus Anwendungen der Telematikinfrastruktur nach § 334 und von elektronischen Arztbriefen in die elektronische Patientenakte
 
 (1) Über die in den §§ 347 und 348 geregelten Ansprüche hinaus haben Versicherte einen Anspruch auf Übermittlung von Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 bis 6 und von elektronischen Arztbriefen nach § 383 Absatz 2 in die elektronische Patientenakte und dortige Speicherung gegen Personen, die
 
@@ -11080,8 +10465,7 @@ Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
 2. die geänderten Daten auf Verlangen des Versicherten in die elektronische Patientenakte nach § 341 Absatz 2 Nummer 1 Buchstabe b und c einzustellen.
 
-
-## § 350 – Anspruch der Versicherten auf Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte
+# § 350 – Anspruch der Versicherten auf Übertragung von bei der Krankenkasse gespeicherten Daten in die elektronische Patientenakte
 
 (1) Versicherte haben ab dem 1. Januar 2022 einen Anspruch darauf, dass die Krankenkasse Daten des Versicherten nach § 341 Absatz 2 Nummer 8 über die bei ihr in Anspruch genommenen Leistungen über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte nach § 341 übermittelt und dort speichert.
 
@@ -11101,13 +10485,11 @@ Die in § 342 Absatz 1 und 2 geregelten Fristen bleiben unberührt.
 
 3. hat der Anbieter die nach den Nummern 1 und 2 übermittelten Daten in der elektronischen Patientenakte nach § 341 zu speichern.
 
-
-## § 351 – Übertragung von Daten aus der elektronischen Gesundheitsakte in die elektronische Patientenakte
+# § 351 – Übertragung von Daten aus der elektronischen Gesundheitsakte in die elektronische Patientenakte
 
 Die Krankenkasse hat ab dem 1. Januar 2022 sicherzustellen, dass Daten der Versicherten nach § 341 Absatz 2 Nummer 7, die in einer von der Krankenkasse nach § 68 finanzierten elektronischen Gesundheitsakte der Versicherten gespeichert sind, auf Antrag der Versicherten vom Anbieter der elektronischen Gesundheitsakte über den Anbieter der elektronischen Patientenakte in die elektronische Patientenakte der Versicherten nach § 341 übermittelt und dort gespeichert werden.
 
-
-## § 352 – Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
+# § 352 – Verarbeitung von Daten in der elektronischen Patientenakte durch Leistungserbringer und andere zugriffsberechtigte Personen
 
 Auf die Daten in der elektronischen Patientenakte nach § 341 Absatz 1 Satz 1 dürfen mit Einwilligung der Versicherten nach § 339 ausschließlich folgende Personen zugreifen:
 
@@ -11203,8 +10585,7 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 18. Fachärzte für Arbeitsmedizin und Ärzte, die über die Zusatzbezeichnung „Betriebsmedizin“ verfügen (Betriebsärzte), außerhalb einer Tätigkeit nach Nummer 1, mit einem Zugriff, der das Auslesen, die Speicherung und die Verwendung von Daten nach § 341 Absatz 2 sowie die Verarbeitung von Daten nach § 341 Absatz 2 Nummer 5 ermöglicht.
 
-
-## § 353 – Erteilung der Einwilligung
+# § 353 – Erteilung der Einwilligung
 
 (1) Die Versicherten erteilen die nach § 352 erforderliche Einwilligung in den Zugriff auf Daten der elektronischen Patientenakte nach § 341. Hierzu bedarf es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe über die Benutzeroberfläche eines geeigneten Endgeräts.
 
@@ -11214,8 +10595,7 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 2. vor der Einwilligung in einen konkreten Datenzugriff einer Information der Versicherten durch den betreffenden Leistungserbringer über die fehlende Möglichkeit der Beschränkung der Zugriffsrechte nach § 342 Absatz 2 Nummer 2 Buchstabe b und die Bedeutung der Zugriffsberechtigung auf Kategorien von Dokumenten und Datensätzen nach § 342 Absatz 2 Nummer 2 Buchstabe c.
 
-
-## § 354 – Festlegungen der Gesellschaft für Telematik für die elektronische Patientenakte
+# § 354 – Festlegungen der Gesellschaft für Telematik für die elektronische Patientenakte
 
 (1) Die Gesellschaft für Telematik hat jeweils nach dem Stand der Technik die erforderlichen technischen und organisatorischen Verfahren festzulegen oder technischen Voraussetzungen zu schaffen dafür, dass
 
@@ -11243,8 +10623,7 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 (3) Die Gesellschaft für Telematik hat zu prüfen, inwieweit die Vorgaben des § 22 Absatz 3 des Infektionsschutzgesetzes in der elektronischen Patientenakte umgesetzt werden können.
 
-
-## § 355 – Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans und der elektronischen Notfalldaten
+# § 355 – Festlegungen für die semantische und syntaktische Interoperabilität von Daten in der elektronischen Patientenakte, des elektronischen Medikationsplans und der elektronischen Notfalldaten
 
 (1) Die Kassenärztliche Bundesvereinigung trifft die notwendigen Festlegungen für die Inhalte der elektronischen Patientenakte sowie die für eine Fortschreibung der Inhalte des elektronischen Medikationsplans und der elektronischen Notfalldaten notwendigen Festlegungen, um deren semantische und syntaktische Interoperabilität zu gewährleisten, im Benehmen mit
 
@@ -11286,8 +10665,7 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 (11) Die Gesellschaft für Telematik hat der Kassenärztlichen Bundesvereinigung die Kosten zu erstatten, die ihr bei der Erfüllung ihrer Aufgaben nach Absatz 1 entstehen. Beauftragt die Gesellschaft für Telematik die Deutsche Krankenhausgesellschaft nach Absatz 8 Satz 2 mit der Erstellung von Festlegungen nach Absatz 1, hat die Gesellschaft für Telematik der Deutschen Krankenhausgesellschaft die Kosten zu erstatten, die ihr bei der Erfüllung ihrer Aufgaben nach Absatz 1 entstehen.
 
-
-## § 356 – Zugriff auf Erklärungen der Versicherten zur Organ- und Gewebespende sowie auf Hinweise auf deren Vorhandensein und Aufbewahrungsort
+# § 356 – Zugriff auf Erklärungen der Versicherten zur Organ- und Gewebespende sowie auf Hinweise auf deren Vorhandensein und Aufbewahrungsort
 
 (1) Auf Daten in elektronischen Erklärungen des Versicherten zur Organ- und Gewebespende in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 2 dürfen mit Einwilligung des Versicherten, wozu es einer eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe bedarf, ausschließlich folgende Personen zugreifen:
 
@@ -11317,8 +10695,7 @@ b) in einem Krankenhaus.
 
 (4) Die Authentizität der elektronischen Erklärung zur Organ- und Gewebespende muss sichergestellt sein.
 
-
-## § 357 – Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
+# § 357 – Zugriff auf Hinweise der Versicherten auf das Vorhandensein und den Aufbewahrungsort von Vorsorgevollmachten oder Patientenverfügungen
 
 (1) Auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 dürfen ausschließlich folgende Personen zugreifen:
 
@@ -11342,8 +10719,7 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 (3) Der Zugriff auf Daten in einer Anwendung nach § 334 Absatz 1 Satz 2 Nummer 3 ist abweichend von § 339 Absatz 1 ohne Einwilligung des Versicherten nur zulässig, wenn eine ärztlich indizierte Maßnahme unmittelbar bevorsteht und der Versicherte nicht fähig ist, in die Maßnahme einzuwilligen.
 
-
-## § 358 – Elektronischer Medikationsplan und elektronische Notfalldaten
+# § 358 – Elektronischer Medikationsplan und elektronische Notfalldaten
 
 (1) Die elektronische Gesundheitskarte muss geeignet sein, das Verarbeiten von medizinischen Daten, soweit sie für die Notfallversorgung erforderlich sind (elektronische Notfalldaten), zu unterstützen. Die elektronischen Notfalldaten können Daten zu Befunden, Daten zur Medikation oder Zusatzinformationen über den Versicherten enthalten und sind für die Versicherten freiwillig.
 
@@ -11371,8 +10747,7 @@ b) deren Zugriff im Rahmen der von ihnen zulässigerweise zu erledigenden Tätig
 
 (7) Zur Unterstützung der Krankenkassen bei der Erfüllung ihrer Informationspflichten nach Absatz 6 hat der Spitzenverband Bund der Krankenkassen im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit rechtzeitig geeignetes Informationsmaterial zu erstellen und den Krankenkassen zur verbindlichen Nutzung zur Verfügung zu stellen.
 
-
-## § 359 – Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten
+# § 359 – Zugriff auf den elektronischen Medikationsplan und die elektronischen Notfalldaten
 
 (1) Auf Daten in Anwendungen nach § 334 Absatz 1 Satz 2 Nummer 4 und 5 dürfen ausschließlich folgende Personen zugreifen:
 
@@ -11422,8 +10797,7 @@ c) Personen, denen auf der Grundlage des Krankenpflegegesetzes vom 4. Juni 1985 
 
 Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlung durch technische Zugriffsfreigabe des Versicherten.
 
-
-## § 360 – Übermittlung vertragsärztlicher Verordnungen in elektronischer Form
+# § 360 – Übermittlung vertragsärztlicher Verordnungen in elektronischer Form
 
 (1) Sobald die hierfür erforderlichen Dienste und Komponenten flächendeckend zur Verfügung stehen, ist für die Übermittlung und Verarbeitung vertragsärztlicher Verordnungen von apothekenpflichtigen Arzneimitteln, einschließlich Betäubungsmitteln, sowie von sonstigen in der vertragsärztlichen Versorgung verordnungsfähigen Leistungen in elektronischer Form die Telematikinfrastruktur zu nutzen.
 
@@ -11437,8 +10811,7 @@ Im Fall des Satzes 1 Nummer 2 bedarf es keiner eindeutigen bestätigenden Handlu
 
 (6) Verordnungs- und Dispensierdaten sind mit Ablauf von 100 Tagen nach Dispensierung der Verordnung zu löschen.
 
-
-## § 361 – Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur
+# § 361 – Zugriff auf ärztliche Verordnungen in der Telematikinfrastruktur
 
 (1) Auf Daten der Versicherten in ärztlichen Verordnungen in elektronischer Form dürfen folgende Personen zugreifen:
 
@@ -11486,8 +10859,7 @@ b) von welcher Person nach Nummer 1 die zugreifende Person autorisiert wurde.
 
 (4) Der elektronische Heilberufsausweis und der elektronische Berufsausweis müssen über eine Möglichkeit zur sicheren Authentifizierung und zur Erstellung qualifizierter elektronischer Signaturen verfügen.
 
-
-## § 362 – Nutzung von elektronischen Gesundheitskarten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr
+# § 362 – Nutzung von elektronischen Gesundheitskarten für Versicherte von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, für Polizeivollzugsbeamte der Bundespolizei oder für Soldaten der Bundeswehr
 
 (1) Werden von Unternehmen der privaten Krankenversicherung, der Postbeamtenkrankenkasse, der Krankenversorgung der Bundesbahnbeamten, der Bundespolizei oder von der Bundeswehr elektronische Gesundheitskarten für die Verarbeitung von Daten einer Anwendung nach § 334 Absatz 1 Satz 2 an ihre Versicherten, an Polizeivollzugsbeamte der Bundespolizei oder an Soldaten ausgegeben, sind die §§ 334 bis 337, 339, 341 Absatz 1 bis 4, § 342 Absatz 2 und 3, § 343 Absatz 1, die §§ 344, 352, 353, 356 bis 359 und 361 entsprechend anzuwenden.
 
@@ -11495,8 +10867,7 @@ b) von welcher Person nach Nummer 1 die zugreifende Person autorisiert wurde.
 
 (3) Die Kosten zur Bildung der Versichertennummer und, sofern die Vergabe einer Rentenversicherungsnummer erforderlich ist, zur Vergabe der Rentenversicherungsnummer tragen jeweils die Unternehmen der privaten Krankenversicherung, die Postbeamtenkrankenkasse, die Krankenversorgung der Bundesbahnbeamten, die Bundespolizei oder die Bundeswehr.
 
-
-## § 363 – Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken
+# § 363 – Verarbeitung von Daten der elektronischen Patientenakte zu Forschungszwecken
 
 (1) Versicherte können die Daten ihrer elektronischen Patientenakte freiwillig für die in § 303e Absatz 2 Nummer 2, 4, 5 und 7 aufgeführten Forschungszwecke freigeben.
 
@@ -11524,43 +10895,37 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (8) Unbeschadet der nach den vorstehenden Absätzen vorgesehenen Datenfreigabe an das Forschungsdatenzentrum können Versicherte die Daten ihrer elektronischen Patientenakte auch auf der alleinigen Grundlage einer informierten Einwilligung für ein bestimmtes Forschungsvorhaben oder für bestimmte Bereiche der wissenschaftlichen Forschung zur Verfügung stellen.
 
-
-## § 364 – Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung von Röntgenaufnahmen
+# § 364 – Vereinbarung über technische Verfahren zur konsiliarischen Befundbeurteilung von Röntgenaufnahmen
 
 (1) Die Kassenärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zur telemedizinischen Erbringung der konsiliarischen Befundbeurteilung von Röntgenaufnahmen in der vertragsärztlichen Versorgung, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
-
-## § 365 – Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragsärztlichen Versorgung
+# § 365 – Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragsärztlichen Versorgung
 
 (1) Die Kassenärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu Videosprechstunden, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung. § 630e des Bürgerlichen Gesetzbuchs ist zu beachten.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
-
-## § 366 – Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragszahnärztlichen Versorgung
+# § 366 – Vereinbarung über technische Verfahren zur Videosprechstunde in der vertragszahnärztlichen Versorgung
 
 (1) Die Kassenzahnärztliche Bundesvereinigung vereinbart mit dem Spitzenverband Bund der Krankenkassen im Benehmen mit der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu Videosprechstunden, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung. § 630e des Bürgerlichen Gesetzbuchs ist zu beachten.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
-
-## § 367 – Vereinbarung über technische Verfahren zu telemedizinischen Konsilien
+# § 367 – Vereinbarung über technische Verfahren zu telemedizinischen Konsilien
 
 (1) Die Kassenärztlichen Bundesvereinigungen und die Deutsche Krankenhausgesellschaft vereinbaren bis zum 31. März 2020 mit dem Spitzenverband Bund der Krankenkassen in Abstimmung mit dem Bundesamt für Sicherheit in der Informationstechnik und der Gesellschaft für Telematik die Anforderungen an die technischen Verfahren zu telemedizinischen Konsilien, insbesondere Einzelheiten hinsichtlich der Qualität und der Sicherheit, und die Anforderungen an die technische Umsetzung.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
-
-## § 368 – Vereinbarung über ein Authentifizierungsverfahren im Rahmen der Videosprechstunde
+# § 368 – Vereinbarung über ein Authentifizierungsverfahren im Rahmen der Videosprechstunde
 
 (1) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund der Krankenkassen vereinbaren bis zum 31. Dezember 2020 im Benehmen mit der Gesellschaft für Telematik und dem Bundesamt für Sicherheit in der Informationstechnik ein technisches Verfahren zur Authentifizierung der Versicherten im Rahmen der Videosprechstunde in der vertragsärztlichen Versorgung. Soweit dies zur Durchführung der Authentifizierung der Versicherten im Rahmen der Videosprechstunde in der vertragsärztlichen Versorgung erforderlich ist, sind die Krankenkassen verpflichtet, der mit der Durchführung beauftragten Stelle Zugriff auf Dienste nach § 291b Absatz 1 zu ermöglichen.
 
 (2) Kommt die Vereinbarung nach Absatz 1 nicht zustande, so ist auf Antrag eines der Vereinbarungspartner ein Schlichtungsverfahren nach § 370 bei der Schlichtungsstelle nach § 319 einzuleiten.
 
-
-## § 369 – Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit
+# § 369 – Prüfung der Vereinbarungen durch das Bundesministerium für Gesundheit
 
 (1) Die Vereinbarung über die technischen Verfahren zur telemedizinischen Erbringung der konsiliarischen Befundbeurteilung nach § 364, die Vereinbarung über technische Verfahren zu Videosprechstunden nach den §§ 365 und 366 sowie die Vereinbarung über technische Verfahren zu telemedizinischen Konsilien nach § 367 und die Vereinbarung zum Authentifizierungsverfahren im Rahmen der Videosprechstunde nach § 368 sind dem Bundesministerium für Gesundheit jeweils zur Prüfung vorzulegen.
 
@@ -11568,8 +10933,7 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (3) Das Bundesministerium für Gesundheit kann die Vereinbarung innerhalb von einem Monat beanstanden.
 
-
-## § 370 – Entscheidung der Schlichtungsstelle
+# § 370 – Entscheidung der Schlichtungsstelle
 
 (1) Wird auf Antrag eines Vereinbarungspartners nach den §§ 364 bis 368 ein Schlichtungsverfahren bei der Schlichtungsstelle nach § 319 eingeleitet, so hat die Schlichtungsstelle innerhalb von vier Wochen nach Einleitung des Schlichtungsverfahrens einen Entscheidungsvorschlag vorzulegen.
 
@@ -11579,8 +10943,7 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (4) Die Entscheidung der Schlichtungsstelle ist für die Vereinbarungspartner nach den §§ 364 bis 368 und für die Leistungserbringer und Krankenkassen sowie für ihre Verbände nach diesem Buch verbindlich. Die Entscheidung der Schlichtungsstelle kann nur durch eine alternative Entscheidung der Vereinbarungspartner nach Absatz 1 in gleicher Sache ersetzt werden.
 
-
-## § 371 – Integration offener und standardisierter Schnittstellen in informationstechnische Systeme
+# § 371 – Integration offener und standardisierter Schnittstellen in informationstechnische Systeme
 
 (1) In informationstechnische Systeme in der vertragsärztlichen Versorgung, in der vertragszahnärztlichen Versorgung und in Krankenhäusern, die zur Verarbeitung von personenbezogenen Patientendaten eingesetzt werden, sind folgende offene und standardisierte Schnittstellen zu integrieren:
 
@@ -11598,8 +10961,7 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (4) Bei einer Fortschreibung der Schnittstellen kann in den Festlegungen nach den §§ 372 und 373 in Verbindung mit der nach § 375 zu erlassenden Rechtsverordnung eine Frist vorgegeben werden, die von der in Absatz 3 genannten Frist abweicht.
 
-
-## § 372 – Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung
+# § 372 – Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in der vertragsärztlichen und vertragszahnärztlichen Versorgung
 
 (1) Für die in der vertragsärztlichen und vertragszahnärztlichen Versorgung eingesetzten informationstechnischen Systeme treffen die Kassenärztlichen Bundesvereinigungen im Benehmen mit der Gesellschaft für Telematik sowie mit den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen die erforderlichen Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung. Über die Festlegungen nach Satz 1 entscheidet für die Kassenärztliche Bundesvereinigung der Vorstand. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 2 sind die Vorgaben nach § 73 Absatz 9 und der Rechtsverordnung nach § 73 Absatz 9 Satz 2 zu berücksichtigen. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 3 sind die Vorgaben der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des Infektionsschutzgesetzes zu berücksichtigen; diese Festlegungen sind im Einvernehmen mit dem Robert Koch-Institut zu treffen.
 
@@ -11607,8 +10969,7 @@ Die Vertrauensstelle überführt die Lieferpseudonyme in periodenübergreifende 
 
 (3) Für die abrechnungsbegründende Dokumentation von vertragsärztlichen und vertragszahnärztlichen Leistungen dürfen Vertragsärzte und Vertragszahnärzte ab dem 1. Januar 2021 nur solche informationstechnischen Systeme einsetzen, die von den Kassenärztlichen Bundesvereinigungen in einem Bestätigungsverfahren nach Satz 2 bestätigt wurden. Die Kassenärztlichen Bundesvereinigungen legen im Einvernehmen mit der Gesellschaft für Telematik die Vorgaben für das Bestätigungsverfahren so fest, dass im Rahmen des Bestätigungsverfahrens sichergestellt wird, dass die vorzunehmende Integration der offenen und standardisierten Schnittstellen in das jeweilige informationstechnische System innerhalb der Frist nach § 371 Absatz 3 und nach Maßgabe des § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung erfolgt ist. Die Kassenärztlichen Bundesvereinigungen veröffentlichen die Vorgaben zu dem Bestätigungsverfahren sowie eine Liste mit den nach Satz 1 bestätigten informationstechnischen Systemen.
 
-
-## § 373 – Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung
+# § 373 – Festlegungen zu den offenen und standardisierten Schnittstellen für informationstechnische Systeme in Krankenhäusern und in der pflegerischen Versorgung
 
 (1) Für die in den Krankenhäusern eingesetzten informationstechnischen Systeme trifft die Gesellschaft für Telematik im Benehmen mit der Deutschen Krankenhausgesellschaft sowie mit den für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbänden aus dem Bereich der Informationstechnologie im Gesundheitswesen die erforderlichen Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 sowie nach Maßgabe der nach § 375 zu erlassenden Rechtsverordnung. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 2 sind die Vorgaben nach § 73 Absatz 9 und der Rechtsverordnung nach § 73 Absatz 9 Satz 2 zu berücksichtigen. Bei den Festlegungen zu den offenen und standardisierten Schnittstellen nach § 371 Absatz 1 Nummer 3 sind die Vorgaben der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des Infektionsschutzgesetzes zu berücksichtigen; diese Festlegungen sind im Einvernehmen mit dem Robert Koch-Institut zu treffen.
 
@@ -11628,13 +10989,11 @@ Die Gesellschaft für Telematik legt die Vorgaben für das Bestätigungsverfahre
 
 (6) Abweichend von Absatz 5 ist in der vertragsärztlichen Versorgung in Krankenhäusern eine Bestätigung für eine offene und standardisierte Schnittstelle nach § 371 Absatz 1 Nummer 2 entbehrlich, wenn hierfür ein Nachweis einer Bestätigung nach § 372 Absatz 3 vorliegt.
 
-
-## § 374 – Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben
+# § 374 – Abstimmung zur Festlegung sektorenübergreifender einheitlicher Vorgaben
 
 Die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche Bundesvereinigung, die Deutsche Krankenhausgesellschaft, die Gesellschaft für Telematik und die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene stimmen sich bei den Festlegungen für offene und standardisierte Schnittstellen nach den §§ 371 bis 373 mit dem Ziel ab, bei inhaltlichen Gemeinsamkeiten der Schnittstellen sektorenübergreifende einheitliche Vorgaben zu treffen. Betreffen die Festlegungen nach Satz 1 pflegerelevante Inhalte, so sind die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene sowie der Verbände der Pflegeberufe auf Bundesebene mit einzubeziehen.
 
-
-## § 375 – Verordnungsermächtigung
+# § 375 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Förderung der Interoperabilität zwischen informationstechnischen Systemen nähere Vorgaben für die Festlegung der offenen und standardisierten Schnittstellen für informationstechnische Systeme nach den §§ 371 bis 373 sowie verbindliche Fristen für deren Integration und Fortschreibung festzulegen; insbesondere soll es vorgeben, welche Standards, Profile und Leitfäden, die im Interoperabilitätsverzeichnis nach § 384 verzeichnet sind, bei der Festlegung der offenen und standardisierten Schnittstellen nach den §§ 371 bis 373 berücksichtigt werden müssen.
 
@@ -11642,8 +11001,7 @@ Die Kassenärztliche Bundesvereinigung, die Kassenzahnärztliche Bundesvereinigu
 
 (3) Das Bundesministerium für Gesundheit kann in der Rechtsverordnung nach § 14 Absatz 8 Satz 1 des Infektionsschutzgesetzes für die Integration von Schnittstellen nach § 371 Absatz 1 Nummer 3 eine Frist festlegen, die von der in § 371 Absatz 3 genannten Frist abweicht.
 
-
-## § 376 – Finanzierungsvereinbarung
+# § 376 – Finanzierungsvereinbarung
 
 Nach den §§ 377 bis 382 sind Vereinbarungen zu treffen über die Erstattung
 
@@ -11653,8 +11011,7 @@ Nach den §§ 377 bis 382 sind Vereinbarungen zu treffen über die Erstattung
 
 Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und 6.
 
-
-## § 377 – Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten
+# § 377 – Finanzierung der den Krankenhäusern entstehenden Ausstattungs- und Betriebskosten
 
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten die Krankenhäuser einen Zuschlag von den Krankenkassen (Telematikzuschlag).
 
@@ -11670,8 +11027,7 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 (5) Die Absätze 1 bis 4 gelten auch für Krankenhäuser, wenn sie Leistungen nach §115b Absatz 2 Satz 1, § 116b Absatz 2 Satz 1 und § 120 Absatz 2 Satz 1 erbringen sowie für Notfallambulanzen in Krankenhäusern, wenn sie Leistungen für die Versorgung im Notfall erbringen.
 
-
-## § 378 – Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
+# § 378 – Finanzierung der den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern entstehenden Ausstattungs- und Betriebskosten
 
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer Erstattungen von den Krankenkassen.
 
@@ -11683,8 +11039,7 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 (3) Kommt eine Vereinbarung nach Absatz 2 innerhalb einer vom Bundesministerium für Gesundheit gesetzten Frist nicht oder nicht vollständig zustande, legt das jeweils zuständige Schiedsamt nach § 89 Absatz 2 auf Antrag einer Vertragspartei oder des Bundesministeriums für Gesundheit innerhalb einer Frist von zwei Monaten den Vereinbarungsinhalt fest. Das Schiedsamt hat die für die Sozialversicherung zuständigen obersten Landesbehörden vor einer Entscheidung nach Satz 1 anzuhören. Die Klage gegen die Festlegung des Schiedsamtes hat keine aufschiebende Wirkung.
 
-
-## § 379 – Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten
+# § 379 – Finanzierung der den Apotheken entstehenden Ausstattungs- und Betriebskosten
 
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten Apotheken Erstattungen von den Krankenkassen.
 
@@ -11698,8 +11053,7 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 (4) Kommt eine Vereinbarung nach Absatz 2 nicht oder nicht vollständig innerhalb der Frist nach Absatz 2 Satz 1 zustande, legt die Schiedsstelle nach § 129 Absatz 8 auf Antrag einer Vertragspartei oder des Bundesministeriums für Gesundheit innerhalb einer Frist von zwei Monaten den Vereinbarungsinhalt fest. Die Klage gegen die Festlegung der Schiedsstelle hat keine aufschiebende Wirkung.
 
-
-## § 380 – Finanzierung der den Hebammen und Physiotherapeuten entstehenden Ausstattungs- und Betriebskosten
+# § 380 – Finanzierung der den Hebammen und Physiotherapeuten entstehenden Ausstattungs- und Betriebskosten
 
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten Hebammen, für die gemäß § 134a Absatz 2 Satz 1 die Verträge nach § 134a Absatz 1 Rechtswirkung haben, sowie Physiotherapeuten, die nach § 124 Absatz 1 zur Abgabe von Leistungen berechtigt sind, ab dem 1. Juli 2021 die in der Vereinbarung nach § 378 Absatz 2 in der jeweils geltenden Fassung für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von den Krankenkassen.
 
@@ -11709,8 +11063,7 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 2. für die Physiotherapeuten der Spitzenverband Bund der Krankenkassen mit den für die Wahrnehmung der wirtschaftlichen Interessen maßgeblichen Spitzenorganisationen der Physiotherapeuten auf Bundesebene.
 
-
-## § 381 – Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten
+# § 381 – Finanzierung der den Vorsorgeeinrichtungen und Rehabilitationseinrichtungen entstehenden Ausstattungs- und Betriebskosten
 
 (1) Zur Finanzierung der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten
 
@@ -11724,15 +11077,13 @@ Die genannten Kosten zählen nicht zu den Ausgaben nach § 4 Absatz 4 Satz 2 und
 
 (4) Zur Finanzierung der den Krankenkassen nach Absatz 1 Nummer 1 in Verbindung mit Absatz 3 entstehenden Kosten erhebt der Spitzenverband Bund der Krankenkassen von den Krankenkassen eine Umlage gemäß dem Anteil ihrer Versicherten an der Gesamtzahl der in der gesetzlichen Krankenversicherung Versicherten. Das Nähere zum Umlageverfahren bestimmt der Spitzenverband Bund der Krankenkassen.
 
-
-## § 382 – Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten
+# § 382 – Erstattung der dem Öffentlichen Gesundheitsdienst entstehenden Ausstattungs- und Betriebskosten
 
 (1) Zum Ausgleich der in § 376 Satz 1 genannten Ausstattungs- und Betriebskosten erhalten die Rechtsträger der für den Öffentlichen Gesundheitsdienst zuständigen Behörden ab dem 1. Januar 2021 die in der Vereinbarung nach § 378 Absatz 2 in der jeweils geltenden Fassung für die an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringer vereinbarten Erstattungen von den Krankenkassen.
 
 (2) Das Nähere zur Abrechnung der Erstattungen vereinbart der Spitzenverband Bund der Krankenkassen mit den obersten Landesbehörden oder den von ihnen jeweils bestimmten Stellen bis zum 1. Oktober 2020.
 
-
-## § 383 – Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung
+# § 383 – Erstattung der Kosten für die Übermittlung elektronischer Briefe in der vertragsärztlichen Versorgung
 
 (1) Die Erstattung nach § 378 Absatz 1 erhöht sich um eine Pauschale pro Übermittlung eines elektronischen Briefes zwischen den an der vertragsärztlichen Versorgung teilnehmenden Leistungserbringern, wenn
 
@@ -11766,8 +11117,7 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (6) Die Absätze 1 bis 5 gelten nicht für die Vertragszahnärzte.
 
-
-## § 384 – Interoperabilitätsverzeichnis
+# § 384 – Interoperabilitätsverzeichnis
 
 (1) Die Gesellschaft für Telematik hat ein elektronisches Interoperabilitätsverzeichnis zu pflegen und zu betreiben, in dem technische und semantische Standards, Profile und Leitfäden für informationstechnische Systeme im Gesundheitswesen aufgeführt werden. Das elektronische Interoperabilitätsverzeichnis umfasst auch technische und semantische Standards, Profile und Leitfäden der Pflege.
 
@@ -11779,8 +11129,7 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (5) Die Gesellschaft für Telematik hat die Fachöffentlichkeit über den Stand der Pflege und der Weiterentwicklung des Interoperabilitätsverzeichnisses auf der Internetseite des Interoperabilitätsverzeichnisses zu informieren.
 
-
-## § 385 – Beratung durch Experten
+# § 385 – Beratung durch Experten
 
 (1) Die Gesellschaft für Telematik benennt Experten, die über Fachwissen im Bereich der Gesundheitsversorgung und im Bereich der Informationstechnik und Standardisierung im Gesundheitswesen verfügen. Die Experten können der Gesellschaft für Telematik für die Pflege und die Weiterentwicklung des Interoperabilitätsverzeichnisses Empfehlungen geben. Die Gesellschaft für Telematik hat die Empfehlungen in ihre Entscheidungen einzubeziehen.
 
@@ -11802,8 +11151,7 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (3) Die Gesellschaft für Telematik erstattet den Experten die ihnen durch die Mitarbeit entstehenden Kosten.
 
-
-## § 386 – Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik
+# § 386 – Aufnahme von Standards, Profilen und Leitfäden der Gesellschaft für Telematik
 
 (1) Technische und semantische Standards, Profile und Leitfäden, die die Gesellschaft für Telematik nach den §§ 291, 291a, 312 und 334 Absatz 1 Satz 2 festgelegt hat (Interoperabilitätsfestlegungen), sind frühestmöglich in das Interoperabilitätsverzeichnis aufzunehmen, jedoch spätestens dann, wenn sie für den flächendeckenden Wirkbetrieb der Telematikinfrastruktur freigegeben sind.
 
@@ -11811,8 +11159,7 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (3) Die Stellungnahmen der Experten nach § 385 sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
-
-## § 387 – Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen
+# § 387 – Aufnahme von Standards, Profilen und Leitfäden für informationstechnische Systeme im Gesundheitswesen
 
 (1) Technische und semantische Standards, Profile und Leitfäden für informationstechnische Systeme, die im Gesundheitswesen angewendet werden und die nicht von der Gesellschaft für Telematik festgelegt werden, nimmt die Gesellschaft für Telematik auf Antrag in das Interoperabilitätsverzeichnis auf.
 
@@ -11840,8 +11187,7 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (7) Die Stellungnahmen der Experten nach § 385 sowie das Ergebnis der Prüfung der Gesellschaft für Telematik sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
-
-## § 388 – Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz
+# § 388 – Empfehlung von Standards, Profilen und Leitfäden von informationstechnischen Systemen im Gesundheitswesen als Referenz
 
 (1) Die Gesellschaft für Telematik kann die Zusammenarbeit der Standardisierungs- und Normungsorganisationen unterstützen und in das Interoperabilitätsverzeichnis aufgenommene technische und semantische Standards, Profile und Leitfäden nach § 387 Absatz 1 als Referenz für informationstechnische Systeme im Gesundheitswesen empfehlen.
 
@@ -11849,13 +11195,11 @@ Abweichend von Satz 1 darf die Pauschale bis zum 30. Juni 2020 auch für den Fal
 
 (3) Die Stellungnahmen und Vorschläge der Experten nach § 385 sowie die Empfehlungen der Gesellschaft für Telematik sind auf der Internetseite des Interoperabilitätsverzeichnisses zu veröffentlichen.
 
-
-## § 389 – Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung
+# § 389 – Beachtung der Festlegungen und Empfehlungen bei Finanzierung aus Mitteln der gesetzlichen Krankenversicherung
 
 Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlichen Krankenversicherung nur ganz oder teilweise finanziert werden, wenn die Anbieter der elektronischen Anwendungen die Festlegungen nach § 386 Absatz 1 sowie die Empfehlungen nach § 388 Absatz 1 beachten.
 
-
-## § 390 – Beteiligung der Fachöffentlichkeit
+# § 390 – Beteiligung der Fachöffentlichkeit
 
 (1) Die Gesellschaft für Telematik hat die Fachöffentlichkeit mittels elektronischer Informationstechnologien zu beteiligen bei
 
@@ -11871,8 +11215,7 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 (4) Die Gesellschaft für Telematik stellt sicher, dass die Stellungnahmen bei der weiteren Prüfung der Entwürfe angemessen berücksichtigt werden. Dabei berücksichtigt die Gesellschaft für Telematik insbesondere diejenigen Anforderungen an elektronische Informationstechnologien, die die Interoperabilität sowie einen standardkonformen nationalen und internationalen Austausch von Daten und Informationen betreffen.
 
-
-## § 391 – Informationsportal
+# § 391 – Informationsportal
 
 (1) Als Bestandteil des Interoperabilitätsverzeichnisses hat die Gesellschaft für Telematik ein barrierefreies Informationsportal zu pflegen und zu betreiben. In das Informationsportal werden auf Antrag von Projektträgern oder von Anbietern elektronischer Anwendungen insbesondere Informationen über den Inhalt, den Verwendungszweck und die Finanzierung von elektronischen Anwendungen im Gesundheitswesen, insbesondere von telemedizinischen Anwendungen, sowie von elektronischen Anwendungen in der Pflege aufgenommen.
 
@@ -11880,8 +11223,7 @@ Elektronische Anwendungen im Gesundheitswesen dürfen aus Mitteln der gesetzlich
 
 (3) Das Nähere zu den Inhalten des Informationsportals und zu den Mindestinhalten des Antrags nach Absatz 2 legt die Gesellschaft für Telematik in der Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis fest.
 
-
-## § 392 – Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis
+# § 392 – Geschäfts- und Verfahrensordnung für das Interoperabilitätsverzeichnis
 
 Die Gesellschaft für Telematik erstellt für das Interoperabilitätsverzeichnis eine Geschäfts- und Verfahrensordnung. Die Geschäfts- und Verfahrensordnung regelt das Nähere
 
@@ -11893,8 +11235,7 @@ Die Gesellschaft für Telematik erstellt für das Interoperabilitätsverzeichnis
 
 4. zum Verfahren der Aufnahme von Informationen in das Informationsportal nach § 391.
 
-
-## § 393 – Bericht über das Interoperabilitätsverzeichnis
+# § 393 – Bericht über das Interoperabilitätsverzeichnis
 
 (1) Die Gesellschaft für Telematik legt dem Bundesministerium für Gesundheit alle zwei Jahre, erstmals zum 2. Januar 2018, einen Bericht vor. Der Bericht enthält
 
@@ -11912,8 +11253,7 @@ Die Gesellschaft für Telematik erstellt für das Interoperabilitätsverzeichnis
 
 (3) Das Bundesministerium für Gesundheit leitet den Bericht an den Deutschen Bundestag weiter.
 
-
-## § 394 – Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
+# § 394 – Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Krankenkassen insbesondere mit der Bundesagentur für Arbeit, den Behörden der Zollverwaltung, den Rentenversicherungsträgern, den Trägern der Sozialhilfe, den in § 71 des Aufenthaltsgesetzes genannten Behörden, den Finanzbehörden, den nach Landesrecht für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Schwarzarbeitsbekämpfungsgesetz zuständigen Behörden, den Trägern der Unfallversicherung und den für den Arbeitsschutz zuständigen Landesbehörden zusammen, wenn sich im Einzelfall konkrete Anhaltspunkte ergeben für
 
@@ -11933,8 +11273,7 @@ Zur Verfolgung und Ahndung von Ordnungswidrigkeiten arbeiten die Krankenkassen i
 
 Sie unterrichten die für die Verfolgung und Ahndung zuständigen Behörden, die Träger der Sozialhilfe sowie die Behörden nach § 71 des Aufenthaltsgesetzes. Die Unterrichtung kann auch Angaben über die Tatsachen enthalten, die für die Einziehung der Beiträge zur Kranken- und Rentenversicherung erforderlich sind. Die Übermittlung von Sozialdaten, die nach den §§ 284 bis 302 sowie nach dem Elften Kapitel von Versicherten erhoben werden, ist unzulässig.
 
-
-## § 395 – Bußgeldvorschriften
+# § 395 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 335 Absatz 1 oder 2 einen Zugriff auf dort genannte Daten verlangt oder mit dem Versicherten die Gestattung eines solchen Zugriffs vereinbart.
 
@@ -11970,15 +11309,13 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 2a das Bundesamt für Sicherheit in der Informationstechnik.
 
-
-## § 396 – Strafvorschriften
+# § 396 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 171b Absatz 2 Satz 1 die Zahlungsunfähigkeit oder die Überschuldung nicht, nicht richtig oder nicht rechtzeitig anzeigt.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 397 – Strafvorschriften
+# § 397 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -11994,8 +11331,7 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (4) (weggefallen)
 
-
-## § 398 – Versicherter Personenkreis
+# § 398 – Versicherter Personenkreis
 
 (1) Soweit Vorschriften dieses Buches
 
@@ -12009,8 +11345,7 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (6) (weggefallen)
 
-
-## § 399 – Leistungen
+# § 399 – Leistungen
 
 (1) und (2) (weggefallen)
 
@@ -12018,8 +11353,7 @@ eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ers
 
 (4) bis (11) (weggefallen)
 
-
-## § 400 – Beziehungen der Krankenkassen zu den Leistungserbringern
+# § 400 – Beziehungen der Krankenkassen zu den Leistungserbringern
 
 (1) (weggefallen)
 
@@ -12045,15 +11379,13 @@ b) für Zahnärzte, die bereits zwei Jahre in dem in Artikel 3 des Einigungsvert
 
 (9) bis (11) (weggefallen)
 
-
-## § 401 – Beitragszuschüsse für Beschäftigte
+# § 401 – Beitragszuschüsse für Beschäftigte
 
 (1) Versicherungsverträge, die den Standardtarif nach § 257 Abs. 2a in der bis zum 31. Dezember 2008 geltenden Fassung zum Gegenstand haben, werden auf Antrag der Versicherten auf Versicherungsverträge nach dem Basistarif gemäß § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
 
 (2) Zur Gewährleistung der in § 257 Abs. 2a Satz 1 Nr. 2 und 2a bis 2c in der bis zum 31. Dezember 2008 geltenden Fassung genannten Begrenzung bleiben im Hinblick auf die ab 1. Januar 2009 weiterhin im Standardtarif Versicherten alle Versicherungsunternehmen, die die nach § 257 Abs. 2 zuschussberechtigte Krankenversicherung betreiben, verpflichtet, an einem finanziellen Spitzenausgleich teilzunehmen, dessen Ausgestaltung zusammen mit den Einzelheiten des Standardtarifs zwischen der Bundesanstalt für Finanzdienstleistungsaufsicht und dem Verband der privaten Krankenversicherung mit Wirkung für die beteiligten Unternehmen zu vereinbaren ist und der eine gleichmäßige Belastung dieser Unternehmen bewirkt. Für in Absatz 2a Satz 1 Nr. 2c in der bis 31. Dezember 2008 geltenden Fassung genannte Personen, bei denen eine Behinderung nach § 4 Abs. 1 des Gesetzes zur Eingliederung Schwerbehinderter in Arbeit, Beruf und Gesellschaft festgestellt worden ist, wird ein fiktiver Zuschlag von 100 vom Hundert auf die Bruttoprämie angerechnet, der in den Ausgleich nach Satz 1 einbezogen wird.
 
-
-## § 402 – Standardtarif für Personen ohne Versicherungsschutz
+# § 402 – Standardtarif für Personen ohne Versicherungsschutz
 
 (1) Personen, die weder
 
@@ -12075,21 +11407,17 @@ können bis zum 31. Dezember 2008 Versicherungsschutz im Standardtarif gemäß �
 
 (4) Die gemäß Absatz 1 abgeschlossenen Versicherungsverträge im Standardtarif werden zum 1. Januar 2009 auf Verträge im Basistarif nach § 152 Absatz 1 des Versicherungsaufsichtsgesetzes umgestellt.
 
-
-## § 403 – Übergangsregelung zur enteralen Ernährung
+# § 403 – Übergangsregelung zur enteralen Ernährung
 
 Versicherte haben bis zur Veröffentlichung der Zusammenstellung nach § 31 Abs. 5 Satz 2 im Bundesanzeiger Anspruch auf enterale Ernährung nach Maßgabe des Kapitels E der Arzneimittel-Richtlinien in der Fassung vom 25. August 2005 (BAnz. S. 13 241).
 
+# § 404 – (weggefallen)
 
-## § 404 – (weggefallen)
-
-
-## § 405 – Übergangsregelung für die knappschaftliche Krankenversicherung
+# § 405 – Übergangsregelung für die knappschaftliche Krankenversicherung
 
 Die Regelung des § 13 Absatz 2 der Risikostruktur-Ausgleichsverordnung ist nicht anzuwenden, wenn die Deutsche Rentenversicherung Knappschaft-Bahn-See die Verwaltungsausgaben der knappschaftlichen Krankenversicherung abweichend von § 71 Abs. 1 Satz 2 des Vierten Buches getrennt im Haushaltsplan ausweist sowie die Rechnungslegung und den Jahresabschluss nach § 77 des Vierten Buches für die Verwaltungsausgaben der knappschaftlichen Krankenversicherung getrennt durchführt. Satz 1 gilt nur, wenn das Bundesamt für Soziale Sicherung rechtzeitig vor Durchführung des Jahresausgleichs nach § 18 der Risikostruktur-Ausgleichsverordnung auf der Grundlage eines von der Deutschen Rentenversicherung Knappschaft-Bahn-See erbrachten ausreichenden Nachweises feststellt, dass die Rechnungslegung und der Jahresabschluss nach § 77 des Vierten Buches für die Verwaltungsausgaben der knappschaftlichen Krankenversicherung getrennt durchgeführt wurden.
 
-
-## § 406 – Übergangsregelung zum Krankengeldwahltarif
+# § 406 – Übergangsregelung zum Krankengeldwahltarif
 
 (1) Wahltarife, die Versicherte auf der Grundlage der bis zum 31. Juli 2009 geltenden Fassung des § 53 Absatz 6 abgeschlossen haben, enden zu diesem Zeitpunkt.
 
@@ -12097,23 +11425,19 @@ Die Regelung des § 13 Absatz 2 der Risikostruktur-Ausgleichsverordnung ist nich
 
 (3) Die Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 kann bis zum 30. September 2009 mit Wirkung vom 1. August 2009 abgegeben werden. Wahltarife nach § 53 Absatz 6 können bis zum 30. September 2009 oder zu einem in der Satzung der Krankenkasse festgelegten späteren Zeitpunkt mit Wirkung vom 1. August 2009 neu abgeschlossen werden. Abweichend von den Sätzen 1 und 2 können Versicherte nach Absatz 2 innerhalb von acht Wochen nach dem Ende des Leistungsbezugs rückwirkend zu dem Tag, der auf den letzten Tag des Leistungsbezugs folgt, die Wahlerklärung nach § 44 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 abgeben oder einen Wahltarif wählen.
 
-
-## § 407 – Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften
+# § 407 – Übergangsregelung zur befristeten Weiteranwendung aufgehobener Vorschriften
 
 § 120 Absatz 6 und § 295 Absatz 1b Satz 5 bis 8 in der Fassung des Artikels 15 Nummer 6a Buchstabe c und Nummer 13a Buchstabe b des Gesetzes vom 17. Juli 2009 (BGBl. I S. 1990) sind bis zum 1. Juli 2011 weiter anzuwenden.
 
-
-## § 408 – Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1
+# § 408 – Übergangsregelung für die Anforderungen an die strukturierten Behandlungsprogramme nach § 137g Absatz 1
 
 Die in § 28b Absatz 1, den §§ 28c, 28e sowie in den Anlagen der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Zulassung von strukturierten Behandlungsprogrammen nach § 137g Absatz 1 für Diabetes mellitus Typ 2, Brustkrebs, koronare Herzkrankheit, Diabetes mellitus Typ 1 und chronisch obstruktive Atemwegserkrankungen gelten jeweils weiter bis zum Inkrafttreten der für die jeweilige Krankheit vom Gemeinsamen Bundesausschuss nach § 137f Absatz 2 zu erlassenden Richtlinien. Dies gilt auch für die in den §§ 28d und 28f der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen, soweit sie auf die in Satz 1 genannten Anforderungen verweisen. Die in § 28f Absatz 1 Nummer 3 und Absatz 1a und § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Aufbewahrungsfristen gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 1 Nummer 5 zu regelnden Anforderungen an die Aufbewahrungsfristen. Die in § 28g der Risikostruktur-Ausgleichsverordnung in der bis zum 31. Dezember 2011 geltenden Fassung geregelten Anforderungen an die Evaluation gelten weiter bis zum Inkrafttreten der in den Richtlinien des Gemeinsamen Bundesausschusses nach § 137f Absatz 2 Satz 1 Nummer 6 zu regelnden Anforderungen an die Evaluation.
 
-
-## § 409 – Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen
+# § 409 – Übergangsregelung zur Beitragsbemessung aus Renten und aus Versorgungsbezügen
 
 Für Versicherungspflichtige findet für die Bemessung der Beiträge aus Renten der gesetzlichen Rentenversicherung sowie aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 1, 2, 3 und 5 für die Zeit vom 1. Januar 2015 bis 28. Februar 2015 übergangsweise ein Gesamtbeitragssatz in Höhe von 15,5 Prozent sowie für die Bemessung der Beiträge aus Versorgungsbezügen nach § 229 Absatz 1 Satz 1 Nummer 4 für die Zeit vom 1. Januar 2015 bis 28. Februar 2015 übergangsweise weiter ein Gesamtbeitragssatz in Höhe von 8,2 Prozent Anwendung; von diesen gelten jeweils 0,9 Prozentpunkte als Zusatzbeitrag gemäß § 242.
 
-
-## § 410 – Bestandsbereinigung bei der freiwilligen Versicherung
+# § 410 – Bestandsbereinigung bei der freiwilligen Versicherung
 
 (1) Die Krankenkassen haben ihren Mitgliederbestand für den Zeitraum vom 1. August 2013 bis zum 1. Januar 2019 nach Maßgabe der folgenden Absätze zu überprüfen und ihn bis zum 15. Juni 2019 zu bereinigen.
 
@@ -12131,23 +11455,19 @@ Für die Prüfung nach Absatz 5 melden die Krankenkassen den mit der Prüfung na
 
 (5) Die mit der Prüfung nach § 274 befassten Stellen überprüfen nach Abschluss der Bestandsbereinigung in einer Sonderprüfung, ob die Vorgaben nach den Absätzen 1 und 2 eingehalten worden sind, und teilen dem Bundesamt für Soziale Sicherung und der Krankenkasse das Ergebnis ihrer Prüfung mit. Das Bundesamt für Soziale Sicherung ermittelt auf Grundlage dieser Mitteilung einen Korrekturbetrag, der mit einem Aufschlag in Höhe von 25 Prozent zu versehen ist, und macht diesen durch Bescheid geltend. Absatz 4 Satz 2 bis 4 gilt entsprechend. Die Prüfung ist spätestens bis zum 31. Dezember 2020 durchzuführen. Die Krankenkassen sind verpflichtet, die Daten nach § 7 Absatz 2 Satz 3 der Risikostruktur-Ausgleichsverordnung für das Berichtsjahr 2013 bis zum 31. Dezember 2020 aufzubewahren.
 
+# § 411 – (weggefallen)
 
-## § 411 – (weggefallen)
-
-
-## § 412 – Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen
+# § 412 – Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen
 
 Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung von geleisteten Vergütungen ist ausgeschlossen, soweit diese vor dem 1. Januar 2017 entstanden sind und bis zum 9. November 2018 nicht gerichtlich geltend gemacht wurden.
 
-
-## § 413 – Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter
+# § 413 – Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter
 
 (1) § 79 Absatz 6 Satz 4, § 91 Absatz 2 Satz 15, § 217b Absatz 2 Satz 8 und § 282 Absatz 2d Satz 6 in der bis zum 31. Dezember 2019 gültigen Fassung gelten auch für die Verträge, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat, sofern diesen Verträgen nicht bereits eine Zusage über konkrete Vergütungserhöhungen zu entnehmen ist. § 79 Absatz 6 Satz 5 bis 8, § 91 Absatz 2 Satz 16 bis 19, § 217b Absatz 2 Satz 9 bis 12, § 282 Absatz 2d Satz 7 bis 10 in der bis zum 31. Dezember 2019 gültigen Fassung gelten nicht für die Verträge, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat. Die zur Zukunftssicherung vertraglich vereinbarten nicht beitragsorientierten Zusagen, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat, dürfen auch bei Abschluss eines neuen Vertrages mit derselben Person in dem im vorhergehenden Vertrag vereinbarten Durchführungsweg und Umfang fortgeführt werden.
 
 (2) Abweichend von § 79 Absatz 6 Satz 5, § 91 Absatz 2 Satz 16, § 217b Absatz 2 Satz 9 und § 282 Absatz 4 Satz 6 kann bis zum 31. Dezember 2027 keine höhere Vergütung vereinbart werden. Zu Beginn der darauf folgenden Amtszeiten kann bei der Erhöhung der Grundvergütung nur die Entwicklung des Verbraucherpreisindexes ab dem 1. Januar 2028 berücksichtigt werden.
 
-
-## § 414 – Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen
+# § 414 – Übergangsregelung für die Medizinischen Dienste der Krankenversicherung und den Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen
 
 (1) Für die Medizinischen Dienste der Krankenversicherung gelten die §§ 275 bis 283 in der bis zum 31. Dezember 2019 gültigen Fassung mit Ausnahme des § 275 Absatz 1c und 5, § 276 Absatz 2 und 4 und § 281 Absatz 2 bis zu dem nach § 415 Absatz 1 Satz 4 bekannt zu machenden Datum fort. Bis zu diesem Zeitpunkt nehmen die am 31. Dezember 2019 bestehenden Organe der Medizinischen Dienste der Krankenversicherung nach diesen Vorschriften die Aufgaben des Medizinischen Dienstes wahr. Die §§ 275 bis 283a in der ab dem 1. Januar 2020 geltenden Fassung finden mit Ausnahme des § 275 Absatz 3b und 5, der §§ 275c, 275d, 276 Absatz 2 und 4, des § 279 Absatz 9 und des § 280 Absatz 3 bis zu dem nach § 415 Absatz 1 Satz 4 bekannt zu machenden Datum keine Anwendung. Bis zu dem nach § 415 Absatz 1 Satz 4 bekannt zu machenden Datum findet für die Aufgaben des Medizinischen Dienstes nach den §§ 275c und 275d die Regelung des § 281 Absatz 1 in der bis zum 31. Dezember 2019 geltenden Fassung entsprechende Anwendung.
 
@@ -12157,8 +11477,7 @@ Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung von geleis
 
 (3) Endet die Amtszeit eines bestehenden Verwaltungsrates eines Medizinischen Dienstes der Krankenversicherung vor dem Zeitpunkt des § 415 Absatz 1 Satz 4, verlängert sie sich bis zu diesem Zeitpunkt. Die Verwaltungsräte der Medizinischen Dienste der Krankenversicherung werden mit Wirkung zum Zeitpunkt des § 415 Absatz 1 Satz 4 aufgelöst, der Verwaltungsrat des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen wird mit Wirkung zum Zeitpunkt des § 415 Absatz 5 Satz 5 in Verbindung mit Absatz 1 Satz 4 aufgelöst.
 
-
-## § 415 – Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund
+# § 415 – Errichtung der Medizinischen Dienste und des Medizinischen Dienstes Bund
 
 (1) Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes hat die Vertreter des Verwaltungsrates nach § 279 Absatz 5 bis zum 31. Dezember 2020 gemäß den Vorgaben des § 279 Absatz 3, 5 und 6 zu benennen; die Verwaltungsräte oder Vertreterversammlungen der in § 279 Absatz 4 Satz 1 genannten Krankenkassenverbände und Krankenkassen haben bis zum 31. Dezember 2020 ihre Vertreter gemäß den Vorgaben des § 279 Absatz 3, 4 und 6 zu wählen. Der gemäß Satz 1 besetzte Verwaltungsrat hat bis zum 31. März 2021 die Satzung nach § 279 Absatz 2 Satz 1 Nummer 1 und Satz 2 zu beschließen. Die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes hat über die Genehmigung der Satzung bis zum 30. Juni 2021 zu entscheiden und das Datum der Genehmigung öffentlich bekannt zu machen. Sie hat das Datum des Ablaufs des Monats, in dem die Genehmigung erteilt wurde, öffentlich bekannt zu machen. Die oder der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes der Krankenversicherung lädt zur konstituierenden Sitzung ein und regelt das Nähere. In der konstituierenden Sitzung des Verwaltungsrates des Medizinischen Dienstes sind die oder der Vorsitzende und die oder der stellvertretende Vorsitzende zu wählen. Der jeweils amtierende Geschäftsführer des Medizinischen Dienstes der Krankenversicherung und sein Stellvertreter gelten bis zum 31. Dezember 2021 als durch den neu konstituierten Verwaltungsrat gewählter Vorstand.
 
@@ -12170,19 +11489,16 @@ Die Geltendmachung von Ansprüchen der Krankenkassen auf Rückzahlung von geleis
 
 (5) Der Medizinische Dienst Bund tritt als Körperschaft des öffentlichen Rechts an die Stelle des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen. Die Verwaltungsräte der Medizinischen Dienste haben nach § 282 Absatz 2 die Vertreter des Verwaltungsrates des Medizinischen Dienstes Bund, die von den jeweils Wahlberechtigten nach § 282 Absatz 2 Satz 2 vorgeschlagen werden, bis zum 31. März 2021 zu wählen. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sammelt die Vorschläge für die Wahl nach Satz 2 in nach Vertretergruppen gemäß § 279 Absatz 4 Satz 1 und Absatz 5 Satz 1 und nach Geschlecht getrennten Listen und versendet diese an die jeweiligen Vertretergruppen der Medizinischen Dienste. Jede Vertretergruppe eines Medizinischen Dienstes entsendet einen Vertreter, der die Stimmen jedes Mitglieds der Vertretergruppe entsprechend dessen Weisungen abgibt. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen lädt zur Wahl, leitet die Wahl und regelt das Nähere. Gewählt ist, wer die meisten Stimmen auf sich vereinigt; bei Stimmengleichheit entscheidet das Los. Der amtierende Vorsitzende des Verwaltungsrates des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen lädt zur konstituierenden Sitzung des Verwaltungsrates des Medizinischen Dienstes Bund und leitet diese. In der konstituierenden Sitzung sind die oder der Vorsitzende und die oder der stellvertretende Vorsitzende zu wählen. Absatz 1 Satz 2 bis 4 und 7 und die Absätze 2 und 3 gelten entsprechend mit der Maßgabe, dass die Frist nach Absatz 1 Satz 7 am 30. Juni 2022 endet, die Frist nach Absatz 1 Satz 2 am 30. September 2021 endet, die Frist nach Absatz 1 Satz 3 am 31. Dezember 2021 endet und die Satzung vom Bundesministerium für Gesundheit zu genehmigen ist.
 
-
-## § 416 – Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
+# § 416 – Übergangsregelung zur Tragung der Beiträge durch Dritte für Auszubildende in einer außerbetrieblichen Einrichtung
 
 § 251 Absatz 4c in der bis zum 31. Dezember 2019 geltenden Fassung sowie § 242 Absatz 3 Satz 1 Nummer 1 in der bis zum 30. Juni 2020 geltenden Fassung sind weiterhin anzuwenden, wenn die Berufsausbildung in einer außerbetrieblichen Einrichtung vor dem 1. Januar 2020 begonnen wurde.
 
-
-## § 416 – Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen
+# § 416 – Übergangsregelung für am 1. April 2020 bereits geschlossene Krankenkassen
 
 Auf die am 1. April 2020 bereits geschlossenen Krankenkassen sind die §§ 155, 171d Absatz 2 in der bis zum 31. März 2020 geltenden Fassung anwendbar.
 
 § 416 (früher § 329) (doppelt): Eingef. durch Art. 5 Nr. 36 G v. 22.3.2020 I 604 mWv 1.4.2020; (+++ Änderungsanweisung gem. Art. 5 Nr. 11 G v. 12.06.2020 I 1248 mWv 1.7.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
-
-## § 417 – Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung
+# § 417 – Übergangsregelung zur Zahlungsfrist von Krankenhausrechnungen, Verordnungsermächtigung
 
 Die von den Krankenhäusern bis zum 30. Juni 2021 erbrachten und in Rechnung gestellten Leistungen sind von den Krankenkassen innerhalb von fünf Tagen nach Rechnungseingang zu bezahlen. Als Tag der Zahlung gilt der Tag der Übergabe des Überweisungsauftrages an ein Geldinstitut oder der Übersendung von Zahlungsmitteln an das Krankenhaus. Ist der Fälligkeitstag ein Samstag, Sonntag oder gesetzlicher Feiertag, so verschiebt er sich auf den nächstfolgenden Arbeitstag. Das Bundesministerium für Gesundheit kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die in Satz 1 genannte Frist verlängern.

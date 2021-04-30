@@ -1,10 +1,7 @@
-# [EDL-G] Gesetz über Energiedienstleistungen und andere Energieeffizienzmaßnahmen  (EDL-G)
-
-Ausfertigungsdatum: 04.11.2010
-
+% Gesetz über Energiedienstleistungen und andere Energieeffizienzmaßnahmen  (EDL-G)
+% Ausfertigungsdatum: 04.11.2010
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz findet Anwendung auf
 
@@ -16,8 +13,7 @@ Dieses Gesetz findet Anwendung auf
 
 4. Unternehmen, die keine Kleinstunternehmen, kleinen und mittleren Unternehmen im Sinne der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36) sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -57,8 +53,7 @@ Im Sinne dieses Gesetzes sind
 
 18. EMAS-Registrierungsstelle: die nach § 32 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 13 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 1966) geändert worden ist, in der jeweils geltenden Fassung für die Eintragung in das EMAS-Register zuständige Industrie- und Handelskammer oder Handwerkskammer.
 
-
-## § 3 – Energieeinsparziele
+# § 3 – Energieeinsparziele
 
 (1) Ziel der Maßnahmen nach diesem Gesetz ist es, die Effizienz der Energienutzung durch Endkunden in Deutschland mit Energiedienstleistungen und anderen Energieeffizienzmaßnahmen kostenwirksam zu steigern. Dazu legt die Bundesregierung Energieeinsparrichtwerte fest, die als Energieeinsparziel bis zum Mai des Jahres 2017 erreicht werden sollen, sowie eine Strategie zur Erreichung dieser Ziele. Die Berechnung des Richtwerts erfolgt nach den Anhängen I, II und IV der Richtlinie 2006/32/EG des Europäischen Parlaments und des Rates vom 5. April 2006 über Endenergieeffizienz und Energiedienstleistungen und zur Aufhebung der Richtlinie 93/76/EWG des Rates (ABl. L 114 vom 27.4.2006, S. 64).
 
@@ -72,8 +67,7 @@ Im Sinne dieses Gesetzes sind
 
 (4) Die Bundesregierung legt dem Deutschen Bundestag bis zum 30. April 2017 und bis zum 30. April 2020 jeweils einen Energieeffizienz-Aktionsplan im Sinne von Artikel 24 Absatz 2 der Richtlinie 2012/27/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1), die zuletzt durch die Richtlinie 2013/12/EU (ABl. L 141 vom 28.5.2013, S. 28) geändert worden ist, vor.
 
-
-## § 4 – Information und Beratung der Endkunden; Verordnungsermächtigung
+# § 4 – Information und Beratung der Endkunden; Verordnungsermächtigung
 
 (1) Energielieferanten unterrichten ihre Endkunden mindestens jährlich in geeigneter Form über die Wirksamkeit von Energieeffizienzmaßnahmen sowie über die für sie verfügbaren Angebote, die durch
 
@@ -89,8 +83,7 @@ mit wettbewerbsorientierter Preisgestaltung durchgeführt werden. Diese Informat
 
 (3) Zur Information der Endkunden über Maßnahmen zur Energieeffizienzverbesserung wird die Bundesregierung ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, welche Art von Informationen und Beratungsangeboten über Energieeffizienz den Endkunden von den Marktteilnehmern zur Verfügung zu stellen sind.
 
-
-## § 5 – Verbot der Behinderung oder Beeinträchtigung durch Energieunternehmen
+# § 5 – Verbot der Behinderung oder Beeinträchtigung durch Energieunternehmen
 
 Energieunternehmen haben alle Handlungen zu unterlassen, die
 
@@ -100,15 +93,13 @@ Energieunternehmen haben alle Handlungen zu unterlassen, die
 
 3. die Entwicklung von Märkten für Energiedienstleistungen und von anderen Energieeffizienzmaßnahmen beeinträchtigen könnten.
 
-
-## § 6 – Information der Marktteilnehmer
+# § 6 – Information der Marktteilnehmer
 
 (1) Die Bundesstelle für Energieeffizienz sorgt dafür, dass die Informationen über Energieeffizienzmechanismen und die zur Erreichung der Energieeinsparrichtwerte nach § 3 Absatz 1 festgelegten finanziellen und rechtlichen Rahmenbedingungen transparent sind und den Marktteilnehmern umfassend zur Kenntnis gebracht werden. Sie veröffentlicht hierzu fortlaufend, mindestens alle zwei Jahre, Berichte.
 
 (2) Die Bundesstelle für Energieeffizienz stellt auf ihrer Internetseite Informationen über verfügbare Energiedienstleistungsverträge im Bereich Energie-Contracting oder über Musterklauseln, die in solchen Verträgen verwendet werden können, zur Verfügung. Die Informationen müssen verständlich und leicht zugänglich sein. Für die Richtigkeit und Vollständigkeit der zur Verfügung gestellten Informationen wird nicht gehaftet.
 
-
-## § 7 – Anbieterliste und Energieauditorenliste; Verordnungsermächtigung
+# § 7 – Anbieterliste und Energieauditorenliste; Verordnungsermächtigung
 
 (1) Anbieter von Energiedienstleistungen, Energieaudits oder Energieeffizienzmaßnahmen können sich vorbehaltlich der Absätze 2 und 3 in eine bei der Bundesstelle für Energieeffizienz öffentlich geführte Anbieterliste eintragen lassen. Von den Energieunternehmen unabhängige Anbieter sind kenntlich zu machen. Die Angebotseintragung kann auf bestimmte Länder, Landkreise oder kreisfreie Städte beschränkt werden. Die Bundesstelle für Energieeffizienz kann ergänzend zu der nach Satz 1 zu führenden Liste auf nach Zweck und Inhalt vergleichbare Listen qualifizierter Anbieter hinweisen.
 
@@ -126,8 +117,7 @@ Energieunternehmen haben alle Handlungen zu unterlassen, die
 
 4. unter welchen Voraussetzungen eine Löschung aus der Anbieter- und Energieauditorenliste erfolgt.
 
-
-## § 8 – Verpflichtung zur Durchführung von Energieaudits; Verpflichtungsbefreiung
+# § 8 – Verpflichtung zur Durchführung von Energieaudits; Verpflichtungsbefreiung
 
 (1) Alle Unternehmen im Sinne des § 1 Nummer 4 sind verpflichtet, ein Energieaudit nach Maßgabe dieses Gesetzes durchzuführen. Gerechnet vom Zeitpunkt der Beendigung des ersten Energieaudits ist mindestens alle vier Jahre ein weiteres Energieaudit nach Maßgabe dieses Gesetzes durchzuführen.
 
@@ -141,8 +131,7 @@ Energieunternehmen haben alle Handlungen zu unterlassen, die
 
 (4) Bei Unternehmen, deren Gesamtenergieverbrauch über alle Energieträger hinweg im Jahr 500 000 Kilowattstunden oder weniger beträgt, steht die Erfüllung der Pflicht nach § 8c Absatz 1 Satz 3 und 4 der Erfüllung der Pflicht nach den Absätzen 1 und 2 gleich. Maßgeblich für die Ermittlung des Gesamtenergieverbrauchs ist dabei der Gesamtenergieverbrauch des letzten vollständigen Abrechnungszeitraums von zwölf Monaten, der dem Kalenderjahr, in dem ein Energieaudit durchgeführt werden müsste, vorausgeht.
 
-
-## § 8a – Anforderungen an Energieaudits; Verfügbarkeit von Energieaudits
+# § 8a – Anforderungen an Energieaudits; Verfügbarkeit von Energieaudits
 
 (1) Das Energieaudit nach § 8 Absatz 1 muss
 
@@ -160,8 +149,7 @@ Energieunternehmen haben alle Handlungen zu unterlassen, die
 
 (3) Die Bundesstelle für Energieeffizienz wirkt darauf hin, dass allen Endkunden wirksame, hochwertige Energieaudits zur Verfügung stehen, die von Anbietern durchgeführt werden, die den Anforderungen des § 7 Absatz 2 Satz 1 und 3 genügen. Sofern hierfür keine ausreichende Zahl unabhängiger Anbieter tätig ist, ergreift die Bundesstelle für Energieeffizienz Maßnahmen, um das Tätigwerden unabhängiger Anbieter zu entwickeln und zu fördern.
 
-
-## § 8b – Anforderungen an die das Energieaudit durchführenden Personen
+# § 8b – Anforderungen an die das Energieaudit durchführenden Personen
 
 (1) Das Energieaudit ist von einer Person durchzuführen, die auf Grund ihrer Ausbildung oder beruflichen Qualifizierung, ihrer praktischen Erfahrung und Fortbildungen über die erforderliche Fachkunde zur ordnungsgemäßen Durchführung eines Energieaudits verfügt. Die Fachkunde erfordert
 
@@ -183,8 +171,7 @@ Der Nachweis einer einschlägigen Ausbildung nach Satz 2 Nummer 1 ist auch als e
 
 (4) Das Energieaudit ist in unabhängiger Weise durchzuführen. Die das Energieaudit durchführende Person muss das Unternehmen, das sie beauftragt, hersteller-, anbieter- und vertriebsneutral beraten. Die das Energieaudit durchführenden Personen dürfen keine Provisionen oder sonstige geldwerte Vorteile von einem Unternehmen fordern oder erhalten, das Produkte herstellt oder vertreibt oder Anlagen errichtet oder vermietet, die bei Energiesparinvestitionen im auditierten Unternehmen verwendet werden. Wird das Energieaudit von unternehmensinternen Personen durchgeführt, so dürfen diese Personen nicht unmittelbar an der Tätigkeit beteiligt sein, die einem Energieaudit unterzogen wird. Unternehmensinterne Energieauditoren müssen in ihrer Aufgabenwahrnehmung unabhängig sein; sie sind der Leitung des Unternehmens unmittelbar zu unterstellen und in dieser Funktion weisungsfrei. Sie dürfen wegen der Erfüllung ihrer Aufgaben als Energieauditoren nicht benachteiligt werden.
 
-
-## § 8c – Nachweisführung
+# § 8c – Nachweisführung
 
 (1) Unternehmen sind verpflichtet, spätestens zwei Monate nach der Durchführung eines Energieaudits gemäß § 8 Absatz 1 und 2 dieses gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle zu erklären. Hierfür haben sie folgende Angaben aus dem Energieauditbericht an das Bundesamt für Wirtschaft und Ausfuhrkontrolle über eine dafür vorgesehene elektronische Eingabemaske zu übermitteln:
 
@@ -242,8 +229,7 @@ Erfolgt die Nachweisführung nach Satz 1 durch einen Nachweis über den Beginn d
 
 (8) Der Nachweis über das Vorliegen der Voraussetzungen für eine Freistellung nach § 8 Absatz 4 erfolgt durch geeignete Belege.
 
-
-## § 8d – Verordnungsermächtigung
+# § 8d – Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ohne Zustimmung des Bundesrates Näheres zu regeln zu
 
@@ -255,8 +241,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 4. den Angaben zur Nachweisführung nach § 8c.
 
-
-## § 9 – Bundesstelle für Energieeffizienz
+# § 9 – Bundesstelle für Energieeffizienz
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle nimmt die Aufgaben der Bundesstelle für Energieeffizienz wahr.
 
@@ -300,8 +285,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 (3) Die Bundesstelle für Energieeffizienz untersteht der Rechts- und Fachaufsicht des Bundesministeriums für Wirtschaft und Energie.
 
-
-## § 10 – Beirat
+# § 10 – Beirat
 
 (1) Bei der Bundesstelle für Energieeffizienz wird ein Beirat für Fragen der Energieeffizienz gebildet, in dem Energiedienstleister, Anbieter von Energieaudits und Energieeffizienzmaßnahmen, Endkunden, Energieunternehmen, Umweltverbände und unabhängige Personen mit besonderer Fachkunde auf dem Gebiet der Energieeffizienz vertreten sind. Der Beirat berät die Bundesstelle für Energieeffizienz bei der Erfüllung ihrer Aufgaben nach diesem Gesetz.
 
@@ -309,8 +293,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 (3) Der Beirat gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Wirtschaft und Energie bedarf.
 
-
-## § 11 – Datenerhebung; Verordnungsermächtigung
+# § 11 – Datenerhebung; Verordnungsermächtigung
 
 (1) Zur Erfüllung ihrer Aufgaben kann die Bundesstelle für Energieeffizienz von Energieunternehmen die Übermittlung zusammengefasster Daten über deren Endkunden sowie über die Marktaktivitäten von Energieunternehmen mit Bezug zum Energiedienstleistungsmarkt in anonymisierter Form verlangen, insbesondere zum Verbrauch der Endkunden, zu Art und Umfang der jeweiligen Kundengruppen, zum Kundenstandort und zu Lastprofilen. Daten, die Betriebs- oder Geschäftsgeheimnisse darstellen, hat das übermittelnde Energieunternehmen als vertraulich zu kennzeichnen.
 
@@ -324,8 +307,7 @@ b) wann und wie die Daten zu übermitteln sind und
 
 2. die Verwendung der Daten.
 
-
-## § 12 – Bußgeldvorschriften
+# § 12 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -345,8 +327,7 @@ b) wann und wie die Daten zu übermitteln sind und
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
-
-## § 13 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
 (1) Der erstmalige Nachweis über die Erfüllung der Anforderung im Sinne von § 8b Absatz 1 Satz 2 Nummer 3 ist von allen Personen, die beabsichtigen ein Energieaudit durchzuführen, bis zum 26. November 2022 zu erbringen.
 

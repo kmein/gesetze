@@ -1,25 +1,19 @@
-# [SeeLG] Gesetz über das Seelotswesen  (Seelotsgesetz - SeeLG)
-
-Ausfertigungsdatum: 13.10.1954
-
+% Gesetz über das Seelotswesen  (Seelotsgesetz - SeeLG)
+% Ausfertigungsdatum: 13.10.1954
  
-
-## § 1
+# § 1
 
 Seelotse ist, wer nach behördlicher Zulassung berufsmäßig auf Seeschiffahrtstraßen außerhalb der Häfen oder über See Schiffe als orts- und schiffahrtskundiger Berater geleitet. Der Seelotse gehört nicht zur Schiffsbesatzung.
 
-
-## § 1a – (weggefallen)
+# § 1a – (weggefallen)
 
 \-
 
-
-## § 2
+# § 2
 
 Seelotsreviere sind Fahrtstrecken und Seegebiete, für die zur Sicherheit der Schiffahrt die Bereitstellung einheitlicher, ständiger Lotsendienste angeordnet ist.
 
-
-## § 3
+# § 3
 
 (1) Die Einrichtung und Unterhaltung des Seelotswesens sowie die Aufsicht über das Seelotswesen sind Aufgaben des Bundes.
 
@@ -27,8 +21,7 @@ Seelotsreviere sind Fahrtstrecken und Seegebiete, für die zur Sicherheit der Sc
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes als Aufsichtsbehörden zu bestimmen.
 
-
-## § 4
+# § 4
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung
 
@@ -42,8 +35,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 5. das Verfahren, wie die Schiffsführung einen Seelotsen anfordern muß, festzulegen.
 
-
-## § 5
+# § 5
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, nach Anhörung der Küstenländer und der Bundeslotsenkammer durch Rechtsverordnung (Lotsverordnung)
 
@@ -59,8 +51,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die Aufsichtsbehörden übertragen.
 
-
-## § 6
+# § 6
 
 (1) Die zur Wahrnehmung der Lotsendienste erforderlichen Lotseinrichtungen (feste und schwimmende Lotsenstationen, Versetz- und Zubringerfahrzeuge) werden von den Aufsichtsbehörden vorgehalten, unterhalten und betrieben.
 
@@ -68,20 +59,17 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (3) Werden Vorhaltung, Unterhaltung und Betrieb von Lotseinrichtungen auf die Lotsenbrüderschaften oder die Bundeslotsenkammer übertragen, so unterstehen diese der Fachaufsicht der Aufsichtsbehörden. Die Fachaufsicht erstreckt sich auch auf mit der Aufgabenwahrnehmung beauftragte natürliche oder juristische Personen.
 
-
-## § 7
+# § 7
 
 Wer den Beruf eines Seelotsen in einem Seelotsrevier ausüben will, bedarf einer Bestallung.
 
-
-## § 8
+# § 8
 
 (1) Anträge auf Zulassung als Seelotsenanwärter sind an die Aufsichtsbehörden zu richten.
 
 (2) Die Aufsichtsbehörden lassen mindestens jährlich im Benehmen mit den Lotsenbrüderschaften unter Berücksichtigung des Verkehrsaufkommens und der Personalstruktur die erforderliche Anzahl von Seelotsenanwärtern zu.
 
-
-## § 9
+# § 9
 
 (1) Als Seelotsenanwärter darf nur zugelassen werden, wer für den Beruf des Seelotsen auf Grund seiner Berufsausbildung und Berufserfahrung befähigt sowie geistig und körperlich geeignet ist und die erforderliche Zuverlässigkeit besitzt. Zuverlässig ist, wer die Gewähr dafür bietet, dass er die einem Seelotsen obliegenden Pflichten erfüllen wird.
 
@@ -97,28 +85,23 @@ Wer den Beruf eines Seelotsen in einem Seelotsrevier ausüben will, bedarf einer
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, auf Antrag einer Lotsenbrüderschaft für das jeweilige Seelotsrevier durch Rechtsverordnung abweichend von Absatz 2 Nr. 2 an Stelle der Seefahrtzeit eine lotsenspezifische praxisorientierte Grundausbildung vorzusehen. Die Zulassung zur Grundausbildung erfolgt durch ein Ausschreibungsverfahren. Der Erwerb des in Absatz 2 Nr. 1 bezeichneten Befähigungszeugnisses darf nach Bekanntgabe der Ausschreibung durch die Lotsenbrüderschaft nicht länger als drei Jahre zurückliegen. Die Grundausbildung zum Seelotsenanwärter muss auf der Grundlage eines von der Bundeslotsenkammer genehmigten Ausbildungsplans erfolgen, der den Anforderungen des von den Aufsichtsbehörden genehmigten Ausbildungsrahmenplans der Bundeslotsenkammer genügt. Die näheren Einzelheiten zum Zulassungsverfahren bei den Aufsichtsbehörden, zur Durchführung und Dauer der Grundausbildung und der Abschlussprüfung regelt die Rechtsverordnung nach Satz 1.
 
-
-## § 10
+# § 10
 
 Der Seelotsenanwärter hat sich der für das Seelotsrevier vorgeschriebenen Ausbildung und nach deren Abschluß einer Prüfung durch die Aufsichtsbehörde zu unterziehen.
 
-
-## § 11
+# § 11
 
 Nach bestandener Prüfung ist der Seelotsenanwärter von der Aufsichtsbehörde durch Aushändigung einer Urkunde zum Seelotsen zu bestallen. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung. Bei der Bestallung ist der Seelotse auf die gewissenhafte Ausübung seines Berufes zu verpflichten.
 
-
-## § 12
+# § 12
 
 Die Lotsverordnung kann vorsehen, daß der Seelotse nach seiner ersten Bestallung für eine Übergangszeit nur Schiffe bestimmter Art und Größe lotsen darf.
 
-
-## § 13
+# § 13
 
 Der Seelotse hat sich auf Verlangen der Aufsichtsbehörde der Untersuchung durch den seeärztlichen Dienst der See-Berufsgenossenschaft zu unterziehen und den Untersuchungsbefund der Aufsichtsbehörde vorzulegen.
 
-
-## § 14
+# § 14
 
 Die Bestallung ist nach Anhörung der Bundeslotsenkammer zu widerrufen, wenn
 
@@ -128,44 +111,37 @@ Die Bestallung ist nach Anhörung der Bundeslotsenkammer zu widerrufen, wenn
 
 3. der Seelotse die ihm obliegenden Pflichten wiederholt oder gröblich verletzt hat und sich daraus ergibt, daß er ungeeignet ist, seinen Beruf weiter auszuüben.
 
-
-## § 15
+# § 15
 
 Bestehen dringende Gründe für die Annahme, daß die Bestallung zurückgenommen oder widerrufen werden wird, so kann dem Seelotsen die Berufsausübung vorläufig untersagt werden, wenn dies die Sicherheit der Schiffahrt erfordert.
 
-
-## § 16
+# § 16
 
 (1) Untersagt ein Seeamt einem Seelotsen die Ausübung der Befugnisse eines in § 9 Nr. 1 genannten Befähigungszeugnisses, so ist dem Inhaber die Berufsausübung als Seelotse nach Anhörung der Bundeslotsenkammer zu untersagen; die Dauer der Untersagung soll der vom Seeamt festgelegten Dauer entsprechen.
 
 (2) Wird durch Zeugnis des seeärztlichen Dienstes der See-Berufsgenossenschaft festgestellt, daß der Seelotse vorübergehend geistig oder körperlich nicht geeignet ist, seinen Beruf ordnungsgemäß auszuüben, so ist ihm die Berufsausübung vorübergehend zu untersagen. Die Untersagung ist aufzuheben, sobald durch vertrauensärztliches Zeugnis der See-Berufsgenossenschaft die Eignung wieder bescheinigt wird.
 
-
-## § 17
+# § 17
 
 Im Falle des Widerrufs der Bestallung nach § 14 kann die Aufsichtsbehörde, jedoch frühestens nach Ablauf eines Jahres, eine erneute Bestallung vornehmen, wenn die Annahme begründet ist, daß der Seelotse künftig den Anforderungen seines Berufes genügen wird.
 
-
-## § 18
+# § 18
 
 Die Bestallung erlischt, wenn der Seelotse Altersruhegeld erhält, spätestens mit Ende des Monats, in dem der Seelotse das fünfundsechzigste Lebensjahr vollendet.
 
-
-## § 19
+# § 19
 
 (1) Wird ein Seelotsrevier aufgehoben, so sind die für dieses Seelotsrevier geltenden Bestallungen zu widerrufen und dafür auf Antrag Erlaubnisse nach § 42 zu erteilen.
 
 (2) Werden mehrere Seelotsreviere zu einem Seelotsrevier vereinigt, so gelten die für die einzelnen Seelotsreviere erteilten Bestallungen für das neue Seelotsrevier.
 
-
-## § 20
+# § 20
 
 (1) Der Seelotse kann auf die Rechte aus der Bestallung verzichten.
 
 (2) Der Verzicht ist der Aufsichtsbehörde gegenüber schriftlich zu erklären. Er wird, falls die Aufsichtsbehörde nicht einem früheren Zeitpunkt zustimmt, mit Ablauf des dritten Monats wirksam, der auf die Abgabe der Erklärung folgt.
 
-
-## § 21
+# § 21
 
 (1) Der für ein Seelotsrevier bestallte Seelotse übt seine Tätigkeit als freien, nicht gewerblichen Beruf aus.
 
@@ -173,13 +149,11 @@ Die Bestallung erlischt, wenn der Seelotse Altersruhegeld erhält, spätestens m
 
 (3) Für einen in Ausübung der Lotstätigkeit verursachten Schaden ist der Seelotse dem Reeder des gelotsten Schiffes oder einem anderen Auftraggeber nur insoweit zum Ersatz verpflichtet, als ihm Vorsatz oder grobe Fahrlässigkeit zur Last fällt. Ist für einen Schaden, den der Seelotse in Ausübung der Lotstätigkeit einem Dritten zugefügt hat, neben dem Seelotsen auch der Reeder oder andere Auftraggeber verantwortlich, so ist in ihrem Verhältnis zueinander der Reeder oder andere Auftraggeber zum Ersatz verpflichtet, soweit nicht dem Seelotsen Vorsatz oder grobe Fahrlässigkeit zur Last fällt.
 
-
-## § 22
+# § 22
 
 Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Dienstes der Achtung und des Vertrauens würdig zu erweisen, die sein Beruf erfordert.
 
-
-## § 23
+# § 23
 
 (1) Der Seelotse hat den Kapitän bei der Führung des Schiffes zu beraten. Die Beratung kann auch von einem anderen Schiff oder von Land aus erfolgen.
 
@@ -191,8 +165,7 @@ Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Diens
 
 (5) Der Seelotse darf während der Beratung alkoholische Getränke nicht zu sich nehmen und nicht unter der Wirkung solcher Getränke stehen.
 
-
-## § 24
+# § 24
 
 (1) Der Seelotse hat seine Lotstätigkeit so lange auszuüben, bis er abgelöst oder vom Kapitän entlassen wird oder das Schiff den Bestimmungsort oder die Grenze des Seelotsreviers erreicht.
 
@@ -200,22 +173,19 @@ Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Diens
 
 (3) Kann der Seelotse beim Verlassen des Seelotsreviers nicht ausgeholt werden, so ist er zu weiterer Lotstätigkeit nicht verpflichtet, jedoch auf Anforderung des Kapitäns berechtigt.
 
-
-## § 25
+# § 25
 
 (1) Der Seelotse hat seine für die Lotstätigkeit notwendigen Kenntnisse laufend zu ergänzen.
 
 (2) Der Seelotse hat sich bei der Lotstätigkeit der technischen Hilfsmittel zu bedienen, deren Anwendung durch den Seemannsbrauch, durch Weisungen der Aufsichtsbehörde oder durch die besonderen Umstände des Falles geboten ist. Er hat die Lotseinrichtungen pfleglich zu behandeln.
 
-
-## § 26
+# § 26
 
 (1) Der Seelotse hat der von der Aufsichtsbehörde bestimmten Stelle und der Lotsenbrüderschaft jede Beobachtung, welche die Sicherheit der Schiffahrt, insbesondere Veränderungen oder Störungen an Schiffahrtszeichen, oder eine Verschmutzung des Gewässers betrifft, unverzüglich auf schnellstem Übermittlungsweg mitzuteilen. Über jeden Unfall eines von ihm gelotsten Schiffes hat er der Aufsichtsbehörde zu berichten und auf Verlangen weitere Auskünfte zu geben.
 
 (2) Ein nach diesem Gesetz tätiger Seelotse eines Schiffes, das sich im Hoheitsgebiet eines Mitgliedstaats der Europäischen Gemeinschaft auf der Fahrt zu oder von einem Liegeplatz oder zu einem Hafen befindet, hat die zuständige Behörde des Hafen- oder Küstenstaats unverzüglich unter genauer Bezeichnung des Schiffes einschließlich der Angabe seines Heimathafens über alle Mängel zu unterrichten, von denen er bei der Erfüllung seiner üblichen Pflichten Kenntnis erhält und die die sichere Fahrt des Schiffes oder die Meeresumwelt gefährden können.
 
-
-## § 27
+# § 27
 
 (1) Die für ein Seelotsrevier bestallten Seelotsen bilden eine Lotsenbrüderschaft. Die Lotsenbrüderschaft ist eine Körperschaft des öffentlichen Rechts.
 
@@ -223,8 +193,7 @@ Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Diens
 
 (3) Die Ausgaben der Lotsenbrüderschaft werden von den Mitgliedern anteilmäßig getragen.
 
-
-## § 28
+# § 28
 
 (1) Der Lotsenbrüderschaft obliegt es insbesondere,
 
@@ -252,8 +221,7 @@ Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Diens
 
 (4) Die Lotsenbrüderschaften können Aufgaben nach Absatz 1 Nr. 6 der Bundeslotsenkammer übertragen, soweit diese zustimmt.
 
-
-## § 29
+# § 29
 
 (1) Der Sitz und die Verfassung der Lotsenbrüderschaft werden im Rahmen der folgenden Vorschriften durch die Satzung bestimmt.
 
@@ -261,15 +229,13 @@ Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Diens
 
 (3) Kommt eine genehmigungsfähige Satzung nicht zustande, so kann die Aufsichtsbehörde nach Ablauf einer von ihr gesetzten Frist eine vorläufige Satzung in Kraft setzen.
 
-
-## § 30
+# § 30
 
 (1) Organe der Lotsenbrüderschaft sind der Ältermann und die Mitgliederversammlung.
 
 (2) Die Satzung kann vorsehen, daß neben dem Ältermann für bestimmte Aufgabengebiete besondere Beauftragte zu bestellen sind.
 
-
-## § 31
+# § 31
 
 (1) Der Ältermann vertritt die Lotsenbrüderschaft gerichtlich und außergerichtlich. Der Umfang seiner Vertretungsmacht kann durch die Satzung mit Wirkung gegen Dritte beschränkt werden. Im Verhinderungsfall wird er von seinen Stellvertretern vertreten.
 
@@ -281,25 +247,21 @@ Der Seelotse hat sich durch sein Verhalten innerhalb und außerhalb seines Diens
 
 (5) Die Aufsichtsbehörde und die Mitgliederversammlung können im gegenseitigen Einvernehmen den Ältermann oder seine Stellvertreter aus wichtigem Grund vorzeitig abberufen. Kommt ein Einvernehmen nicht zustande, so entscheidet das Bundesministerium für Verkehr und digitale Infrastruktur nach Anhörung der Bundeslotsenkammer.
 
-
-## § 32
+# § 32
 
 Die Angelegenheiten der Lotsenbrüderschaft werden, soweit sie nicht vom Ältermann oder einem anderen satzungsmäßig berufenen Vertreter zu besorgen sind, durch Beschluß der Mitglieder geordnet.
 
-
-## § 33
+# § 33
 
 Ein Mitglied ist nicht stimmberechtigt, wenn der Beschluß die Vornahme eines Rechtsgeschäftes mit ihm oder die Einleitung oder Erledigung eines Rechtsstreites zwischen ihm und der Lotsenbrüderschaft betrifft.
 
-
-## § 34
+# § 34
 
 (1) Die Lotsenbrüderschaften bilden die Bundeslotsenkammer. Die Bundeslotsenkammer ist eine Körperschaft des öffentlichen Rechts; ihren Sitz bestimmt die Mitgliederversammlung.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur führt die Aufsicht über die Bundeslotsenkammer. Die Fachaufsicht der Aufsichtsbehörden nach § 6 Abs. 3 bleibt unberührt.
 
-
-## § 35
+# § 35
 
 (1) Die Bundeslotsenkammer hat die ihr durch Gesetz oder Verordnung übertragenen Aufgaben zu erfüllen.
 
@@ -319,13 +281,11 @@ Ein Mitglied ist nicht stimmberechtigt, wenn der Beschluß die Vornahme eines Re
 
 7. Aufgaben wahrzunehmen, die ihr mit ihrer Zustimmung nach § 28 Abs. 4 übertragen worden sind.
 
-
-## § 36
+# § 36
 
 Die Verfassung der Bundeslotsenkammer wird im Rahmen der folgenden Vorschriften durch die Satzung bestimmt. Die Vorschriften des § 29 Abs. 2 und 3 sind entsprechend anzuwenden.
 
-
-## § 37
+# § 37
 
 (1) Organe der Bundeslotsenkammer sind der Vorsitzende und die Mitgliederversammlung.
 
@@ -333,8 +293,7 @@ Die Verfassung der Bundeslotsenkammer wird im Rahmen der folgenden Vorschriften 
 
 (3) Die Satzung kann vorsehen, daß neben dem Vorsitzenden für bestimmte Angelegenheiten besondere Beauftragte zu bestellen sind.
 
-
-## § 38
+# § 38
 
 (1) Der Vorsitzende und sein Stellvertreter werden aus der Reihe der Seelotsen von der Mitgliederversammlung auf die Dauer von fünf Jahren gewählt. Die Wahl bedarf der Bestätigung durch das Bundesministerium für Verkehr und digitale Infrastruktur. Die Bestätigung kann nur aus wichtigem Grund versagt werden.
 
@@ -342,8 +301,7 @@ Die Verfassung der Bundeslotsenkammer wird im Rahmen der folgenden Vorschriften 
 
 (3) Die Vorschriften des § 31 Abs. 1 und 4 sind auf die Bundeslotsenkammer sinngemäß mit der Maßgabe anzuwenden, daß an die Stelle der Aufsichtsbehörde das Bundesministerium für Verkehr und digitale Infrastruktur tritt.
 
-
-## § 39
+# § 39
 
 (1) Die Angelegenheiten der Bundeslotsenkammer werden, soweit sie nicht vom Vorsitzenden oder einem anderen satzungsgemäß berufenen Vertreter zu besorgen sind, durch Beschluß der Mitglieder geordnet.
 
@@ -351,13 +309,11 @@ Die Verfassung der Bundeslotsenkammer wird im Rahmen der folgenden Vorschriften 
 
 (3) Die Vorschriften des § 33 sind auf die Mitglieder der Bundeslotsenkammer sinngemäß anzuwenden.
 
-
-## § 40
+# § 40
 
 Die Mitgliederversammlung stellt den Betrag fest, der zur Deckung des persönlichen und sachlichen Bedarfs erforderlich ist. Die Lotsenbrüderschaften haben im Verhältnis ihrer Mitgliederzahl die hierfür erforderlichen Beiträge zu leisten.
 
-
-## § 41
+# § 41
 
 (1) Die Aufsichtsbehörde kann die Lotsenbrüderschaft zur Erfüllung ihrer Aufgaben unter Fristsetzung anhalten. Nach fruchtlosem Ablauf der Frist kann sie auf Kosten der Lotsenbrüderschaft die Aufgaben selbst durchführen oder die Durchführung Dritten übertragen.
 
@@ -365,8 +321,7 @@ Die Mitgliederversammlung stellt den Betrag fest, der zur Deckung des persönlic
 
 (3) Für die Aufsicht über die Bundeslotsenkammer gelten die Absätze 1 und 2 entsprechend.
 
-
-## § 42
+# § 42
 
 (1) Wer außerhalb eines Seelotsreviers die Tätigkeit eines Seelotsen ausüben will, bedarf einer Erlaubnis.
 
@@ -378,8 +333,7 @@ Die Mitgliederversammlung stellt den Betrag fest, der zur Deckung des persönlic
 
 (5) Die Erlaubnis gilt weiter, auch wenn das Fahrtgebiet, für das sie erteilt worden ist, Seelotsrevier oder Teil eines Seelotsreviers wird.
 
-
-## § 43
+# § 43
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung
 
@@ -395,13 +349,11 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 6. der Bundeslotsenkammer mit deren Zustimmung Aufgaben auf dem Gebiet des Seelotswesens außerhalb der Seelotsreviere zu übertragen und den Umfang der Beteiligung der Seelotsen, die eine Erlaubnis erhalten haben, an Beratungen der Bundeslotsenkammer über Angelegenheiten des Seelotswesens außerhalb der Seelotsreviere zu bestimmen.
 
-
-## § 44
+# § 44
 
 Vereinbarungen von Seelotsen, durch die das Seelotswesen eines bestimmten Fahrtgebietes geordnet wird, bedürfen der Genehmigung der Aufsichtsbehörde.
 
-
-## § 45
+# § 45
 
 (1) Für die Bereitstellung der Lotseinrichtungen werden für ein Schiff, das ein Seelotsrevier befährt, Abgaben (Lotsabgaben) erhoben. Für die Leistungen der Seelotsen ist ein Entgelt einschließlich der entstandenen Auslagen (Lotsgeld) zu entrichten. Das Lotsgeld schließt Unterhaltsbeiträge für die Ausbildung der Seelotsenanwärter ein. Zur Zahlung ist neben demjenigen, der den abgabenpflichtigen Tatbestand oder die Inanspruchnahme von Leistungen der Seelotsen im eigenen oder fremden Namen veranlaßt, der Eigentümer des Schiffes verpflichtet. Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
@@ -425,8 +377,7 @@ näher zu bestimmen. Soweit die Lotsabgaben betroffen sind, ist das Einvernehmen
 
 (5) Der Seelotse darf keine anderen als die durch Lotstarifverordnung festgesetzten Lotsgelder fordern, sich versprechen lassen oder annehmen.
 
-
-## § 46
+# § 46
 
 (1) Gebühren und Auslagen werden erhoben für
 
@@ -436,8 +387,7 @@ näher zu bestimmen. Soweit die Lotsabgaben betroffen sind, ist das Einvernehmen
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, daß der Verwaltungsaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
 
-
-## § 47
+# § 47
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -445,11 +395,9 @@ näher zu bestimmen. Soweit die Lotsabgaben betroffen sind, ist das Einvernehmen
 
 2. entgegen § 23 Abs. 1 Satz 1 den Kapitän nicht berät,
 
-2a.  
-entgegen § 23 Abs. 4 die Lotstätigkeit ausübt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Ausübung der Beratung behindert ist,
+2a. entgegen § 23 Abs. 4 die Lotstätigkeit ausübt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Ausübung der Beratung behindert ist,
 
-2b.  
-entgegen § 23 Abs. 5 während der Beratung alkoholische Getränke zu sich nimmt oder unter der Wirkung solcher Getränke steht,
+2b. entgegen § 23 Abs. 5 während der Beratung alkoholische Getränke zu sich nimmt oder unter der Wirkung solcher Getränke steht,
 
 3. entgegen § 24 Abs. 1 die Lotstätigkeit während der vorgeschriebenen Dauer nicht ausübt,
 
@@ -465,23 +413,19 @@ entgegen § 23 Abs. 5 während der Beratung alkoholische Getränke zu sich nimmt
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 48
+# § 48
 
 \-
 
-
-## § 49
+# § 49
 
 Nach den bisherigen Vorschriften erteilte Genehmigungen zur Ausübung des Seelotsenberufes gelten für Fahrtstrecken, die nach diesem Gesetz zu Seelotsrevieren bestimmt werden, als Bestallungen, im übrigen als Erlaubnisse im Sinne des Dritten Abschnitts fort.
 
-
-## § 50
+# § 50
 
 \-
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1108)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 1. - 3. ...

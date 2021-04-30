@@ -1,15 +1,11 @@
-# [ElektroTechMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk  (Elektrotechnikermeisterverordnung - ElektroTechMstrV)
-
-Ausfertigungsdatum: 17.06.2002
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Elektrotechniker-Handwerk  (Elektrotechnikermeisterverordnung - ElektroTechMstrV)
+% Ausfertigungsdatum: 17.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 (1) Die Meisterprüfung im Elektrotechniker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -23,8 +19,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (2) Für die Meisterprüfung in Teil I im Elektrotechniker-Handwerk werden die Schwerpunkte Energie- und Gebäudetechnik, Kommunikations- und Sicherheitstechnik sowie Systemelektronik gebildet; der Prüfling hat einen dieser Schwerpunkte auszuwählen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung im Elektrotechniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
@@ -64,8 +59,7 @@ Anlagen und Anlagenkomponenten der Kommunikations- und Sicherheitstechnik, insbe
 
 Anlagen und Anlagenkomponenten der Systemelektronik, insbesondere der Mess-, Steuerungs-, Regelungs- und Antriebstechnik, der Prüf- und Zähltechnik, der Medizin- und Labortechnik sowie Verfahren der Systemintegration und Softwareintegration entwickeln, planen, berechnen, bauen, programmieren, parametrieren, errichten, prüfen, in Betrieb nehmen und instand halten.
 
-
-## § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -79,8 +73,7 @@ Anlagen und Anlagenkomponenten der Systemelektronik, insbesondere der Mess-, Ste
 
 (4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) In dem von ihm gewählten Schwerpunkt hat der Prüfling ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
 
@@ -100,13 +93,11 @@ Eine Anlage oder eine Anlagenkomponente der Systemelektronik entwerfen, berechne
 
 (3) Die Entwurfs-, Berechnungs-, Planungs- und Kalkulationsunterlagen werden mit 40 vom Hundert, die ausgeführte Leistung mit 40 vom Hundert und das Prüfprotokoll mit 20 vom Hundert gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, dass er den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösung darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) In der Situationsaufgabe sind die wesentlichen Grundkenntnisse und Grundfertigkeiten zu prüfen, die im Meisterprüfungsprojekt nicht oder nur unzureichend nachgewiesen werden konnten.
 
@@ -126,8 +117,7 @@ An Anlagen oder Anlagenkomponenten der Energie- und Gebäudetechnik sowie der Ko
 
 Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Arbeiten nach Absatz 2 gebildet.
 
-
-## § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, sicherheitstechnischer, ablauf- und verfahrenstechnischer, werkstofftechnischer, mathematischer und wirtschaftlicher Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
 
@@ -213,19 +203,16 @@ n) Betriebs-, Lager- und Baustellenausstattung sowie Logistik planen und darstel
 
 (+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
 
-
-## § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2002 in Kraft.

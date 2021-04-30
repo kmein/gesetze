@@ -1,15 +1,11 @@
-# [ProTechPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager – Produktionstechnologie/Geprüfte Prozessmanagerin – Produktionstechnologie
-
-Ausfertigungsdatum: 17.06.2008
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager – Produktionstechnologie/Geprüfte Prozessmanagerin – Produktionstechnologie
+% Ausfertigungsdatum: 17.06.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen Absatz 1 durch Artikel 232 Nr. 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Prozessmanager – Produktionstechnologie/zur Geprüften Prozessmanagerin – Produktionstechnologie nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -41,8 +37,7 @@ Analysieren und Planen von Produktionsaufträgen, Überwachen der Leistungserbri
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Prozessmanager – Produktionstechnologie/Geprüfte Prozessmanagerin – Produktionstechnologie.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -58,8 +53,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -71,8 +65,7 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens fünf Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
-
-## § 4 – Prüfungsteil „Produktionsprozesse“
+# § 4 – Prüfungsteil „Produktionsprozesse“
 
 (1) Im Prüfungsteil „Produktionsprozesse“ sollen die folgenden Befähigungen nachgewiesen werden:
 
@@ -104,8 +97,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Prüfungsteil „Prozessmanagement“
+# § 5 – Prüfungsteil „Prozessmanagement“
 
 (1) Im Prüfungsteil „Prozessmanagement“ soll die Befähigung zur Bewältigung berufstypischer Probleme nachgewiesen werden. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
 
@@ -137,8 +129,7 @@ f) Ermitteln von Investitionskosten.
 
 (3) Wurde in nicht mehr als einer Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 6 – Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+# § 6 – Prüfungsteil „Mitarbeiterführung und Personalmanagement“
 
 (1) Im Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist eine Situationsaufgabe schriftlich zu bearbeiten sowie ein situationsbezogenes Fachgespräch zu führen.
 
@@ -198,15 +189,13 @@ Die zu prüfende Person wählt einen der Anwendungsfälle aus. Das situationsbez
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 3 Satz 1 oder Absatz 3 Satz 2 oder § 9 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Eine vollständige Befreiung ist nicht zulässig.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bewerten der Prüfungsleistungen
+# § 8 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu bewerten.
 
@@ -216,8 +205,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 8 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -235,8 +223,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und B.
 
@@ -250,8 +237,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -259,15 +245,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu § 2 Abs. 2)Spezialistenprofile in der Produktionstechnologie
+# Anlage 1 – (zu § 2 Abs. 2)Spezialistenprofile in der Produktionstechnologie
 
 (Fundstelle: BGBl. I 2008, 1056 - 1057; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -434,8 +418,7 @@ Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Per
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 2 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2302 – 2303)
 
@@ -444,8 +427,7 @@ Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Per
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 10)Zeugnisinhalte
+# Anlage 3 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2304)
 

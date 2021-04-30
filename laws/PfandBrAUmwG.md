@@ -1,39 +1,31 @@
-# [PfandBrAUmwG] Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft
-
-Ausfertigungsdatum: 20.12.1988
-
+% Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft
+% Ausfertigungsdatum: 20.12.1988
  
-
-## § 1 – Umwandlung
+# § 1 – Umwandlung
 
 Die Deutsche Pfandbriefanstalt kann in eine Aktiengesellschaft umgewandelt werden.
 
-
-## § 2 – Umwandlungsbeschluß
+# § 2 – Umwandlungsbeschluß
 
 (1) Über die Umwandlung beschließt die Hauptversammlung der Deutschen Pfandbriefanstalt. Bei der Beschlußfassung muß mindestens die Hälfte der Stammeinlagen vertreten sein. Der Beschluß bedarf einer Mehrheit, die mindestens zwei Drittel der vertretenen Stammeinlagen umfaßt.
 
 (2) Der Beschluß bedarf der Genehmigung des Bundesministers der Finanzen.
 
-
-## § 3 – Gründer der Aktiengesellschaft
+# § 3 – Gründer der Aktiengesellschaft
 
 (1) Als Gründer der Aktiengesellschaft gelten die Anteilseigner der Deutschen Pfandbriefanstalt. Sie übernehmen das Grundkapital der Gesellschaft im Verhältnis ihrer Stammeinlagen am Grundkapital der Deutschen Pfandbriefanstalt.
 
 (2) § 383 des Aktiengesetzes ist entsprechend anzuwenden.
 
-
-## § 4 – Satzungsfeststellung
+# § 4 – Satzungsfeststellung
 
 Die Satzung der Aktiengesellschaft wird durch Beschluß der Hauptversammlung der Deutschen Pfandbriefanstalt festgestellt. § 2 Abs. 1 Satz 2 und 3 ist anzuwenden.
 
-
-## § 5 – Gewährleistung für Altverpflichtungen
+# § 5 – Gewährleistung für Altverpflichtungen
 
 Der Bund gewährleistet die Erfüllung der Verbindlichkeiten der Aktiengesellschaft, die zu dem Zeitpunkt bestehen, zu dem die Eintragung der Aktiengesellschaft in das Handelsregister nach § 10 des Handelsgesetzbuchs als bekanntgemacht gilt. Die Gläubiger der Aktiengesellschaft können den Bund nur in Anspruch nehmen, soweit sie aus dem Vermögen der Aktiengesellschaft nicht befriedigt werden können.
 
-
-## § 6 – Sonstige Übergangsvorschriften
+# § 6 – Sonstige Übergangsvorschriften
 
 (1) Die Aktiengesellschaft unterliegt hinsichtlich der vor ihrer Eintragung in das Handelsregister abgeschlossenen Geschäfte den für öffentlich-rechtliche Kreditanstalten geltenden bankrechtlichen Vorschriften; das Hypothekenbankgesetz ist vorbehaltlich des Absatzes 2 insoweit nicht anzuwenden. Die §§ 5 bis 19 der Satzung der Deutschen Pfandbriefanstalt in der vor der Eintragung der Aktiengesellschaft geltenden Fassung sind auf die in Satz 1 genannten Geschäfte weiterhin anzuwenden. Die von der Deutschen Pfandbriefanstalt übernommenen Gewährleistungen gelten nach der Eintragung der Aktiengesellschaft weiterhin als Gewährleistungen einer inländischen Körperschaft des öffentlichen Rechts.
 
@@ -45,17 +37,14 @@ Der Bund gewährleistet die Erfüllung der Verbindlichkeiten der Aktiengesellsch
 
 (5) § 303 Abs. 2 des Lastenausgleichsgesetzes wird durch die vorläufige Übernahme von Aktien durch den Ausgleichsfonds nach § 3 Abs. 1 nicht berührt.
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8 – Berlin-Klausel
+# § 8 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1989 in Kraft.

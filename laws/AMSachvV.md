@@ -1,15 +1,11 @@
-# [AMSachvV] Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln  (Arzneimittel-Sachverständigenverordnung - AMSachvV)
-
-Ausfertigungsdatum: 02.01.1978
-
+% Verordnung zur Errichtung von Sachverständigen-Ausschüssen für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln  (Arzneimittel-Sachverständigenverordnung - AMSachvV)
+% Ausfertigungsdatum: 02.01.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird verordnet:
 
-
-## § 1
+# § 1
 
 Das Bundesministerium für Gesundheit (Bundesministerium) hört vor Erlaß einer Rechtsverordnung
 
@@ -21,8 +17,7 @@ Das Bundesministerium für Gesundheit (Bundesministerium) hört vor Erlaß einer
 
 an. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, tritt in den Fällen des Satzes 1 Nr. 2 und 3 an die Stelle des Bundesministeriums das Bundesministerium für Ernährung und Landwirtschaft.
 
-
-## § 2
+# § 2
 
 (1) (weggefallen)
 
@@ -100,8 +95,7 @@ i) ein Vertreter der veterinärpharmazeutischen Industrie.
 
 (4) Jedes Mitglied der Ausschüsse hat einen Stellvertreter.
 
-
-## § 3
+# § 3
 
 (1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden durch das Bundesministerium im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft einheitlich für den Zeitraum von jeweils fünf Jahren berufen. Nachfolger für vorzeitig ausscheidende Mitglieder oder Stellvertreter werden nur für den Rest des jeweiligen Berufungszeitraums berufen.
 
@@ -111,13 +105,11 @@ i) ein Vertreter der veterinärpharmazeutischen Industrie.
 
 (4) Die Tätigkeit in den Ausschüssen wird ehrenamtlich ausgeübt.
 
-
-## § 4
+# § 4
 
 Die Mitglieder der Ausschüsse und deren Stellvertreter haben, auch nach Beendigung ihrer ehrenamtlichen Tätigkeit, über die ihnen dabei bekanntgewordenen Angelegenheiten Verschwiegenheit zu wahren. Dies gilt nicht für Mitteilungen über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
-
-## § 5
+# § 5
 
 (1) Die Ausschüsse beraten unter dem Vorsitz des Präsidenten des Bundesinstitutes für Arzneimittel und Medizinprodukte. Die Sitzungen sind nicht öffentlich.
 
@@ -125,20 +117,16 @@ Die Mitglieder der Ausschüsse und deren Stellvertreter haben, auch nach Beendig
 
 (3) Die Ausschüsse geben sich jeweils eine Geschäftsordnung, die der Zustimmung des Bundesministeriums und des Bundesministeriums für Ernährung und Landwirtschaft bedarf. Die Geschäftsordnungen werden vom Bundesinstitut für Arzneimittel und Medizinprodukte auf dessen Homepage im Internet veröffentlicht.
 
-
-## § 6
+# § 6
 
 Die Anlage zu der Verordnung in der Fassung vom 19. April 2013 ist für den jeweiligen Ausschuss so lange weiter anzuwenden, bis für diesen eine neue Geschäftsordnung gemäß § 5 Absatz 3 Satz 2 öffentlich zugänglich gemacht wurde.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit

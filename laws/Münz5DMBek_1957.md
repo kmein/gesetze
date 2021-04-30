@@ -1,10 +1,7 @@
-# [Münz5DMBek 1957] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark
-
-Ausfertigungsdatum: 12.11.1957
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark
+% Ausfertigungsdatum: 12.11.1957
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) werden zum Gedenken an den Dichter Joseph Freiherr von Eichendorff, dessen Todestag sich am 26. November 1957 zum 100. Mal jährt, 200 000 Stück Bundesmünzen im Nennwert von je 5 Deutschen Mark geprägt und demnächst in den Verkehr gebracht (Eichendorff-Gedenkmünze).
 
@@ -22,13 +19,11 @@ Ausfertigungsdatum: 12.11.1957
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

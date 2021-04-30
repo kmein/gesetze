@@ -1,16 +1,11 @@
-# [EBPfSchG] Gesetz, betreffend die Unzulässigkeit der Pfändung von Eisenbahnfahrbetriebsmitteln
-
-Ausfertigungsdatum: 03.05.1886
-
+% Gesetz, betreffend die Unzulässigkeit der Pfändung von Eisenbahnfahrbetriebsmitteln
+% Ausfertigungsdatum: 03.05.1886
  
+# Eingangsformel
 
-## Eingangsformel
+Wir ... verordnen im Namen des Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
 
-Wir ...  
-verordnen im Namen des Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
-
-
-## ----
+# ----
 
 (1) Die Fahrbetriebsmittel der Eisenbahnen, welche Personen oder Güter im öffentlichen Verkehr befördern, sind von der ersten Einstellung in den Betrieb bis zur endgültigen Ausscheidung aus den Beständen der Pfändung nicht unterworfen.
 

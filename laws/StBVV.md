@@ -1,34 +1,27 @@
-# [StBVV] Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften  (Steuerberatervergütungsverordnung - StBVV)
-
-Ausfertigungsdatum: 17.12.1981
-
+% Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften  (Steuerberatervergütungsverordnung - StBVV)
+% Ausfertigungsdatum: 17.12.1981
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 64 des Steuerberatungsgesetzes in der Fassung der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) wird nach Anhörung der Bundessteuerberaterkammer mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vergütung (Gebühren und Auslagenersatz) des Steuerberaters mit Sitz im Inland für seine im Inland selbständig ausgeübte Berufstätigkeit (§ 33 des Steuerberatungsgesetzes) bemisst sich nach dieser Verordnung. Dies gilt für die Höhe der Vergütung nur, soweit nicht etwas anderes vereinbart wird.
 
 (2) Für die Vergütung der Steuerbevollmächtigten und der Steuerberatungsgesellschaften gelten die Vorschriften über die Vergütung der Steuerberater entsprechend.
 
-
-## § 2 – Sinngemäße Anwendung der Verordnung
+# § 2 – Sinngemäße Anwendung der Verordnung
 
 Ist in dieser Verordnung über die Gebühren für eine Berufstätigkeit des Steuerberaters nichts bestimmt, so sind die Gebühren in sinngemäßer Anwendung der Vorschriften dieser Verordnung zu bemessen.
 
-
-## § 3 – Auslagen
+# § 3 – Auslagen
 
 (1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten entgolten.
 
 (2) Der Anspruch auf Zahlung der auf die Vergütung entfallenden Umsatzsteuer und auf Ersatz für Post- und Telekommunikationsdienstleistungen zu zahlende Entgelte, der Dokumentenpauschale und der Reisekosten bestimmt sich nach den §§ 15 bis 20.
 
-
-## § 4 – Vereinbarung der Vergütung
+# § 4 – Vereinbarung der Vergütung
 
 (1) Aus einer Vereinbarung kann der Steuerberater eine höhere als die gesetzliche Vergütung nur fordern, wenn die Erklärung des Auftraggebers in Textform abgegeben ist. Ist das Schriftstück nicht vom Auftraggeber verfasst, muss
 
@@ -44,30 +37,25 @@ Art und Umfang des Auftrags nach Satz 2 sind zu bezeichnen. Hat der Auftraggeber
 
 (4) Der Steuerberater hat den Auftraggeber in Textform darauf hinzuweisen, dass eine höhere oder niedrigere als die gesetzliche Vergütung in Textform vereinbart werden kann.
 
-
-## § 5 – Mehrere Steuerberater
+# § 5 – Mehrere Steuerberater
 
 Ist die Angelegenheit mehreren Steuerberatern zur gemeinschaftlichen Erledigung übertragen, so erhält jeder Steuerberater für seine Tätigkeit die volle Vergütung.
 
-
-## § 6 – Mehrere Auftraggeber
+# § 6 – Mehrere Auftraggeber
 
 (1) Wird der Steuerberater in derselben Angelegenheit für mehrere Auftraggeber tätig, so erhält er die Gebühren nur einmal.
 
 (2) Jeder Auftraggeber schuldet dem Steuerberater die Gebühren und Auslagen, die er schulden würde, wenn der Steuerberater nur in seinem Auftrag tätig geworden wäre. Der Steuerberater kann aber insgesamt nicht mehr als die Gebühr nach Absatz 1 fordern, die in den Fällen des § 40 Abs. 5 nach Maßgabe dieser Vorschrift zu berechnen ist; die Auslagen kann er nur einmal fordern.
 
-
-## § 7 – Fälligkeit
+# § 7 – Fälligkeit
 
 Die Vergütung des Steuerberaters wird fällig, wenn der Auftrag erledigt oder die Angelegenheit beendigt ist.
 
-
-## § 8 – Vorschuß
+# § 8 – Vorschuß
 
 Der Steuerberater kann von seinem Auftraggeber für die entstandenen und die voraussichtlich entstehenden Gebühren und Auslagen einen angemessenen Vorschuß fordern.
 
-
-## § 9 – Berechnung
+# § 9 – Berechnung
 
 (1) Der Steuerberater kann die Vergütung nur auf Grund einer dem Auftraggeber mitgeteilten Berechnung einfordern. Die Berechnung ist von dem Steuerberater zu unterzeichnen oder vorbehaltlich der Zustimmung des Auftraggebers in Textform zu erstellen. Die Zustimmung muss nicht für jede Berechnung einzeln erteilt werden. Der Lauf der Verjährungsfrist ist von der Mitteilung der Berechnung nicht abhängig.
 
@@ -75,20 +63,17 @@ Der Steuerberater kann von seinem Auftraggeber für die entstandenen und die vor
 
 (3) Hat der Auftraggeber die Vergütung gezahlt, ohne die Berechnung erhalten zu haben, so kann er die Mitteilung der Berechnung noch fordern, solange der Steuerberater zur Aufbewahrung der Handakten verpflichtet ist.
 
-
-## § 10 – Wertgebühren
+# § 10 – Wertgebühren
 
 (1) Die Wertgebühren bestimmen sich nach den dieser Verordnung als Anlage beigefügten Tabellen A bis D. Sie werden nach dem Wert berechnet, den der Gegenstand der beruflichen Tätigkeit hat. Maßgebend ist, soweit diese Verordnung nichts anderes bestimmt, der Wert des Interesses.
 
 (2) In derselben Angelegenheit werden die Werte mehrerer Gegenstände zusammengerechnet; dies gilt nicht für die in den §§ 24 bis 27, 30, 35 und 37 bezeichneten Tätigkeiten.
 
-
-## § 11 – Rahmengebühren
+# § 11 – Rahmengebühren
 
 Ist für die Gebühren ein Rahmen vorgesehen, so bestimmt der Steuerberater die Gebühr im Einzelfall unter Berücksichtigung aller Umstände, vor allem des Umfangs und der Schwierigkeit der beruflichen Tätigkeit, der Bedeutung der Angelegenheit sowie der Einkommens- und Vermögensverhältnisse des Auftraggebers, nach billigem Ermessen. Ein besonderes Haftungsrisiko des Steuerberaters kann bei der Bemessung herangezogen werden. Bei Rahmengebühren, die sich nicht nach dem Gegenstandswert richten, ist das Haftungsrisiko zu berücksichtigen. Ist die Gebühr von einem Dritten zu ersetzen, ist die von dem Steuerberater getroffene Bestimmung nicht verbindlich, wenn sie unbillig ist.
 
-
-## § 12 – Abgeltungsbereich der Gebühren
+# § 12 – Abgeltungsbereich der Gebühren
 
 (1) Die Gebühren entgelten, soweit diese Verordnung nichts anderes bestimmt, die gesamte Tätigkeit des Steuerberaters vom Auftrag bis zur Erledigung der Angelegenheit.
 
@@ -102,8 +87,7 @@ Ist für die Gebühren ein Rahmen vorgesehen, so bestimmt der Steuerberater die 
 
 (6) Ist der Steuerberater nur mit einzelnen Handlungen beauftragt, so erhält er nicht mehr an Gebühren, als der mit der gesamten Angelegenheit beauftragte Steuerberater für die gleiche Tätigkeit erhalten würde.
 
-
-## § 13 – Zeitgebühr
+# § 13 – Zeitgebühr
 
 Die Zeitgebühr ist zu berechnen
 
@@ -113,8 +97,7 @@ Die Zeitgebühr ist zu berechnen
 
 Sie beträgt 30 bis 75 Euro je angefangene halbe Stunde.
 
-
-## § 14 – Pauschalvergütung
+# § 14 – Pauschalvergütung
 
 (1) Für einzelne oder mehrere für denselben Auftraggeber laufend auszuführende Tätigkeiten kann der Steuerberater eine Pauschalvergütung vereinbaren. Die Vereinbarung ist in Textform und für einen Zeitraum von mindestens einem Jahr zu treffen. In der Vereinbarung sind die vom Steuerberater zu übernehmenden Tätigkeiten und die Zeiträume, für die sie geleistet werden, im einzelnen aufzuführen.
 
@@ -132,18 +115,15 @@ Sie beträgt 30 bis 75 Euro je angefangene halbe Stunde.
 
 (3) Der Gebührenanteil der Pauschalvergütung muß in einem angemessenen Verhältnis zur Leistung des Steuerberaters stehen.
 
-
-## § 15 – Umsatzsteuer
+# § 15 – Umsatzsteuer
 
 Der Vergütung ist die Umsatzsteuer hinzuzurechnen, die nach § 12 des Umsatzsteuergesetzes auf die Tätigkeit entfällt. Dies gilt nicht, wenn die Umsatzsteuer nach § 19 Abs. 1 des Umsatzsteuergesetzes unerhoben bleibt.
 
-
-## § 16 – Entgelte für Post- und Telekommunikationsdienstleistungen
+# § 16 – Entgelte für Post- und Telekommunikationsdienstleistungen
 
 Der Steuerberater hat Anspruch auf Ersatz der bei der Ausführung des Auftrags für Post- und Telekommunikationsdienstleistungen zu zahlenden Entgelte. Er kann nach seiner Wahl an Stelle der tatsächlich entstandenen Kosten einen Pauschsatz fordern, der 20 Prozent der sich nach dieser Verordnung ergebenden Gebühren beträgt, in derselben Angelegenheit jedoch höchstens 20 Euro.
 
-
-## § 17 – Dokumentenpauschale
+# § 17 – Dokumentenpauschale
 
 (1) Der Steuerberater erhält eine Dokumentenpauschale
 
@@ -163,8 +143,7 @@ Eine Übermittlung durch den Steuerberater per Telefax steht der Herstellung ein
 
 (2) Die Höhe der Dokumentenpauschale bemisst sich nach den für die Dokumentenpauschale im Vergütungsverzeichnis zum Rechtsanwaltsvergütungsgesetz bestimmten Beträgen. Die Höhe der Dokumentenpauschale nach Absatz 1 Nr. 1 ist in derselben Angelegenheit und in gerichtlichen Verfahren in demselben Rechtszug einheitlich zu berechnen.
 
-
-## § 18 – Geschäftsreisen
+# § 18 – Geschäftsreisen
 
 (1) Für Geschäftsreisen sind dem Steuerberater als Reisekosten die Fahrtkosten und die Übernachtungskosten zu erstatten; ferner erhält er ein Tage- und Abwesenheitsgeld. Eine Geschäftsreise liegt vor, wenn das Reiseziel außerhalb der Gemeinde liegt, in der sich die Kanzlei oder die Wohnung des Steuerberaters befindet.
 
@@ -176,30 +155,25 @@ Eine Übermittlung durch den Steuerberater per Telefax steht der Herstellung ein
 
 (3) Als Tage- und Abwesenheitsgeld erhält der Steuerberater bei einer Geschäftsreise von nicht mehr als 4 Stunden 25 Euro, von mehr als 4 bis 8 Stunden 40 Euro und von mehr als 8 Stunden 70 Euro; bei Auslandsreisen kann zu diesen Beträgen ein Zuschlag von 50 Prozent berechnet werden. Die Übernachtungskosten sind in Höhe der tatsächlichen Aufwendungen zu erstatten, soweit sie angemessen sind.
 
-
-## § 19 – Reisen zur Ausführung mehrerer Geschäfte
+# § 19 – Reisen zur Ausführung mehrerer Geschäfte
 
 Dient eine Reise der Ausführung mehrerer Geschäfte, so sind die entstandenen Reisekosten und Abwesenheitsgelder nach dem Verhältnis der Kosten zu verteilen, die bei gesonderter Ausführung der einzelnen Geschäfte entstanden wären.
 
-
-## § 20 – Verlegung der beruflichen Niederlassung
+# § 20 – Verlegung der beruflichen Niederlassung
 
 Ein Steuerberater, der seine berufliche Niederlassung nach einem anderen Ort verlegt, kann bei Fortführung eines ihm vorher erteilten Auftrags Reisekosten und Abwesenheitsgelder nur insoweit verlangen, als sie auch von seiner bisherigen beruflichen Niederlassung aus entstanden wären.
 
-
-## § 21 – Rat, Auskunft, Erstberatung
+# § 21 – Rat, Auskunft, Erstberatung
 
 (1) Für einen mündlichen oder schriftlichen Rat oder eine Auskunft, die nicht mit einer anderen gebührenpflichtigen Tätigkeit zusammenhängt, erhält der Steuerberater eine Gebühr in Höhe von 1 Zehntel bis 10 Zehntel der vollen Gebühr nach Tabelle A (Anlage 1). Beschränkt sich die Tätigkeit nach Satz 1 auf ein erstes Beratungsgespräch und ist der Auftraggeber Verbraucher, so kann der Steuerberater, der erstmals von diesem Ratsuchenden in Anspruch genommen wird, keine höhere Gebühr als 190 Euro fordern. Die Gebühr ist auf eine Gebühr anzurechnen, die der Steuerberater für eine sonstige Tätigkeit erhält, die mit der Raterteilung oder Auskunft zusammenhängt.
 
 (2) Wird ein Steuerberater, der mit der Angelegenheit noch nicht befasst gewesen ist, mit der Prüfung der Erfolgsaussicht eines Rechtsmittels beauftragt, ist für die Vergütung das Rechtsanwaltsvergütungsgesetz sinngemäß anzuwenden. Die Gebühren bestimmen sich nach Teil 2 Abschnitt 1 des Vergütungsverzeichnisses zum Rechtsanwaltsvergütungsgesetz.
 
-
-## § 22 – Gutachten
+# § 22 – Gutachten
 
 Für die Ausarbeitung eines schriftlichen Gutachtens mit eingehender Begründung erhält der Steuerberater eine Gebühr von 10 Zehnteln bis 30 Zehntel der vollen Gebühr nach Tabelle A (Anlage 1).
 
-
-## § 23 – Sonstige Einzeltätigkeiten
+# § 23 – Sonstige Einzeltätigkeiten
 
 Die Gebühr beträgt für  
   
@@ -221,8 +195,7 @@ Die Gebühr beträgt für
   
 einer vollen Gebühr nach Tabelle A (Anlage 1). Soweit Tätigkeiten nach den Nummern 1 bis 10 denselben Gegenstand betreffen, ist nur eine Tätigkeit maßgebend, und zwar die mit dem höchsten oberen Gebührenrahmen.
 
-
-## § 24 – Steuererklärungen
+# § 24 – Steuererklärungen
 
 (1) Der Steuerberater erhält für die Anfertigung  
   
@@ -507,8 +480,7 @@ einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die jeweilig
 
 14. für die Berechnung des Begünstigungsgewinnes im Sinne von § 34a Absatz 1 Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht entnommenen Gewinne).
 
-
-## § 25 – Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben
+# § 25 – Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben
 
 (1) Die Gebühr für die Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben bei den Einkünften aus Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger Arbeit beträgt 5 bis 30 Zehntel einer vollen Gebühr nach Tabelle B (Anlage 2). Gegenstandswert ist der jeweils höhere Betrag, der sich aus der Summe der Betriebseinnahmen oder der Summe der Betriebsausgaben ergibt, jedoch mindestens 17 500 Euro.
 
@@ -518,15 +490,13 @@ einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die jeweilig
 
 (4) Für die Aufstellung eines schriftlichen Erläuterungsberichts zur Ermittlung des Überschusses der Betriebseinnahmen über die Betriebsausgaben erhält der Steuerberater 2/10 bis 12/10 einer vollen Gebühr nach Tabelle B (Anlage 2). Der Gegenstandswert bemisst sich nach Absatz 1 Satz 2.
 
-
-## § 26 – Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittsätzen
+# § 26 – Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittsätzen
 
 (1) Die Gebühr für die Ermittlung des Gewinns nach Durchschnittsätzen beträgt 5 Zehntel bis 20 Zehntel einer vollen Gebühr nach Tabelle B (Anlage 2). Gegenstandswert ist der Durchschnittssatzgewinn nach § 13a Abs. 3 Satz 1 des Einkommensteuergesetzes.
 
 (2) Sind für mehrere land- und forstwirtschaftliche Betriebe desselben Auftraggebers die Gewinne nach Durchschnittsätzen getrennt zu ermitteln, so erhält der Steuerberater die Gebühr nach Absatz 1 für jede Gewinnermittlung.
 
-
-## § 27 – Ermittlung des Überschusses der Einnahmen über die Werbungskosten
+# § 27 – Ermittlung des Überschusses der Einnahmen über die Werbungskosten
 
 (1) Die Gebühr für die Ermittlung des Überschusses der Einnahmen über die Werbungskosten bei den Einkünften aus nichtselbständiger Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder sonstigen Einkünften beträgt 1 Zwanzigstel bis 12 Zwanzigstel einer vollen Gebühr nach Tabelle A (Anlage 1). Gegenstandswert ist der jeweils höhere Betrag, der sich aus der Summe der Einnahmen oder der Summe der Werbungskosten ergibt, jedoch mindestens 8 000 Euro.
 
@@ -534,13 +504,11 @@ einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die jeweilig
 
 (3) Für Vorarbeiten, die über das übliche Maß erheblich hinausgehen, erhält der Steuerberater die Zeitgebühr.
 
-
-## § 28 – Prüfung von Steuerbescheiden
+# § 28 – Prüfung von Steuerbescheiden
 
 Für die Prüfung eines Steuerbescheids erhält der Steuerberater die Zeitgebühr.
 
-
-## § 29 – Teilnahme an Prüfungen und Nachschauen
+# § 29 – Teilnahme an Prüfungen und Nachschauen
 
 Der Steuerberater erhält
 
@@ -548,27 +516,23 @@ Der Steuerberater erhält
 
 2. für schriftliche Einwendungen gegen den Prüfungsbericht 5 Zehntel bis 10 Zehntel einer vollen Gebühr nach Tabelle A (Anlage 1).
 
-
-## § 30 – Selbstanzeige
+# § 30 – Selbstanzeige
 
 (1) Für die Tätigkeit im Verfahren der Selbstanzeige (§§ 371 und 378 Absatz 3 der Abgabenordnung) einschließlich der Ermittlungen zur Berichtigung, Ergänzung oder Nachholung der Angaben erhält der Steuerberater 10/10 bis 30/10 einer vollen Gebühr nach Tabelle A (Anlage 1).
 
 (2) Der Gegenstandswert bestimmt sich nach der Summe der berichtigten, ergänzten und nachgeholten Angaben, er beträgt jedoch mindestens 8 000 Euro.
 
-
-## § 31 – Besprechungen
+# § 31 – Besprechungen
 
 (1) Für Besprechungen mit Behörden oder mit Dritten in abgaberechtlichen Sachen erhält der Steuerberater 5/10 bis 10/10 einer vollen Gebühr nach Tabelle A (Anlage 1).
 
 (2) Die Besprechungsgebühr entsteht, wenn der Steuerberater an einer Besprechung über tatsächliche oder rechtliche Fragen mitwirkt, die von der Behörde angeordnet ist oder im Einverständnis mit dem Auftraggeber mit der Behörde oder mit einem Dritten geführt wird. Der Steuerberater erhält diese Gebühr nicht für die Beantwortung einer mündlichen oder fernmündlichen Nachfrage der Behörde.
 
-
-## § 32 – Einrichtung einer Buchführung
+# § 32 – Einrichtung einer Buchführung
 
 Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne der §§ 33 und 34 erhält der Steuerberater die Zeitgebühr.
 
-
-## § 33 – Buchführung
+# § 33 – Buchführung
 
 |       |                                                                                                                                   |                |
 |:------|:----------------------------------------------------------------------------------------------------------------------------------|---------------:|
@@ -598,8 +562,7 @@ Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne der §§ 
 
 (8) Mit der Gebühr nach den Absätzen 1, 3 und 4 sind die Gebühren für die Umsatzsteuervoranmeldung (§ 24 Abs. 1 Nr. 7) abgegolten.
 
-
-## § 34 – Lohnbuchführung
+# § 34 – Lohnbuchführung
 
 (1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der Stammdaten erhält der Steuerberater eine Gebühr von 5 bis 18 Euro je Arbeitnehmer.
 
@@ -613,8 +576,7 @@ Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne der §§ 
 
 (6) Mit der Gebühr nach den Absätzen 2 bis 4 sind die Gebühren für die Lohnsteueranmeldung (§ 24 Abs. 1 Nr. 15) abgegolten.
 
-
-## § 35 – Abschlußarbeiten
+# § 35 – Abschlußarbeiten
 
 (1) Die Gebühr beträgt für  
 
@@ -669,8 +631,7 @@ Die berichtigte Bilanzsumme ergibt sich aus der Summe der Posten der Aktivseite 
 
 (3) Für die Anfertigung oder Berichtigung von Inventurunterlagen und für sonstige Abschlußvorarbeiten bis zur abgestimmten Saldenbilanz erhält der Steuerberater die Zeitgebühr.
 
-
-## § 36 – Steuerliches Revisionswesen
+# § 36 – Steuerliches Revisionswesen
 
 (1) Der Steuerberater erhält für die Prüfung einer Buchführung, einzelner Konten, einzelner Posten des Jahresabschlusses, eines Inventars, einer Überschussrechnung oder von Bescheinigungen für steuerliche Zwecke und für die Berichterstattung hierüber die Zeitgebühr.
 
@@ -680,8 +641,7 @@ Die berichtigte Bilanzsumme ergibt sich aus der Summe der Posten der Aktivseite 
 
 2. für die Berichterstattung über eine Tätigkeit nach Nummer 1 die Zeitgebühr.
 
-
-## § 37 – Vermögensstatus, Finanzstatus für steuerliche Zwecke
+# § 37 – Vermögensstatus, Finanzstatus für steuerliche Zwecke
 
 Die Gebühr beträgt für  
 
@@ -694,15 +654,13 @@ Die Gebühr beträgt für
   
 einer vollen Gebühr nach Tabelle B (Anlage 2). Gegenstandswert ist für die Erstellung eines Vermögensstatus die Summe der Vermögenswerte, für die Erstellung eines Finanzstatus die Summe der Finanzwerte.
 
-
-## § 38 – Erteilung von Bescheinigungen
+# § 38 – Erteilung von Bescheinigungen
 
 (1) Der Steuerberater erhält für die Erteilung einer Bescheinigung über die Beachtung steuerrechtlicher Vorschriften in Vermögensübersichten und Erfolgsrechnungen 1 Zehntel bis 6 Zehntel einer vollen Gebühr nach Tabelle B (Anlage 2). Der Gegenstandswert bemißt sich nach § 35 Abs. 2.
 
 (2) Der Steuerberater erhält für die Mitwirkung an der Erteilung von Steuerbescheinigungen die Zeitgebühr.
 
-
-## § 39 – Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe
+# § 39 – Buchführungs- und Abschlußarbeiten für land- und forstwirtschaftliche Betriebe
 
 (1) Für Angelegenheiten, die sich auf land- und forstwirtschaftliche Betriebe beziehen, gelten abweichend von den §§ 32, 33, 35 und 36 die Absätze 2 bis 7.
 
@@ -760,43 +718,35 @@ der tatsächlich genutzten Flächen anzusetzen.
 
 (7) Mit der Gebühr nach Absatz 2 Nr. 1, 2 und 3 ist die Gebühr für die Umsatzsteuervoranmeldungen (§ 24 Abs. 1 Nr. 7) abgegolten.
 
-
-## § 40 – Verfahren vor den Verwaltungsbehörden
+# § 40 – Verfahren vor den Verwaltungsbehörden
 
 Auf die Vergütung des Steuerberaters für Verfahren vor den Verwaltungsbehörden sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
 
-
-## § 41 – (weggefallen)
-
-\-
-
-
-## § 42 – (weggefallen)
+# § 41 – (weggefallen)
 
 \-
 
-
-## § 43 – (weggefallen)
+# § 42 – (weggefallen)
 
 \-
 
+# § 43 – (weggefallen)
 
-## § 44 – Verwaltungsvollstreckungsverfahren
+\-
+
+# § 44 – Verwaltungsvollstreckungsverfahren
 
 Auf die Vergütung des Steuerberaters im Verwaltungsvollstreckungsverfahren sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
 
-
-## § 45 – Vergütung in gerichtlichen und anderen Verfahren
+# § 45 – Vergütung in gerichtlichen und anderen Verfahren
 
 Auf die Vergütung des Steuerberaters im Verfahren vor den Gerichten der Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen Verfahren, Bußgeldverfahren und in Gnadensachen sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
 
-
-## § 46 – Vergütung bei Prozeßkostenhilfe
+# § 46 – Vergütung bei Prozeßkostenhilfe
 
 Für die Vergütung des im Wege der Prozeßkostenhilfe beigeordneten Steuerberaters gelten die Vorschriften des Rechtsanwaltsvergütungsgesetzes sinngemäß.
 
-
-## § 47 – Anwendung
+# § 47 – Anwendung
 
 (1) Diese Verordnung ist erstmals anzuwenden auf
 
@@ -806,42 +756,34 @@ Für die Vergütung des im Wege der Prozeßkostenhilfe beigeordneten Steuerberat
 
 (2) Hat der Steuerberater vor der Verkündung der Verordnung mit dem Auftraggeber schriftliche Vereinbarungen getroffen, die den Vorschriften dieser Verordnung nicht entsprechen, so ist insoweit diese Verordnung spätestens zwei Jahre nach ihrem Inkrafttreten anzuwenden.
 
-
-## § 47a – Übergangsvorschrift für Änderungen dieser Verordnung
+# § 47a – Übergangsvorschrift für Änderungen dieser Verordnung
 
 Die Vergütung ist nach bisherigem Recht zu berechnen, wenn der Auftrag zur Erledigung der Angelegenheit vor dem Inkrafttreten einer Änderung der Verordnung erteilt worden ist. Hat der Steuerberater mit dem Auftraggeber schriftliche Vereinbarungen über auszuführende Tätigkeiten mit einer Geltungsdauer von mindestens einem Jahr getroffen oder eine Pauschalvergütung im Sinne des § 14 vereinbart und tritt während der Geltungsdauer dieser Vereinbarung eine Änderung der Verordnung in Kraft, so ist die Vergütung bis zum Ablauf des Jahres, in dem eine Änderung der Verordnung in Kraft tritt, nach bisherigem Recht zu berechnen. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die diese Verordnung verweist.
 
-
-## § 48
+# § 48
 
 \-
 
-
-## § 49 – Inkrafttreten
+# § 49 – Inkrafttreten
 
 Diese Verordnung tritt am 1. April 1982 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Anlage 1 – Tabelle A(Beratungstabelle)
+# Anlage 1 – Tabelle A(Beratungstabelle)
 
 (Fundstelle: BGBl. I 2020, 1499 - 1500)
 
-
-## Anlage 2 – Tabelle B(Abschlusstabelle)
+# Anlage 2 – Tabelle B(Abschlusstabelle)
 
 (Fundstelle: BGBl. I 2020, 1501 - 1502)
 
-
-## Anlage 3 – Tabelle C(Buchführungstabelle)
+# Anlage 3 – Tabelle C(Buchführungstabelle)
 
 (Fundstelle: BGBl. I 2020, 1503)
 
-
-## Anlage 4 – Tabelle D
+# Anlage 4 – Tabelle D
 
 (Fundstelle: BGBl. I 2020, 1504 - 1507)

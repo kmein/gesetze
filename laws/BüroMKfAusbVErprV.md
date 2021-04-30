@@ -1,22 +1,17 @@
-# [BüroMKfAusbVErprV] Verordnung über die Erprobung abweichender Ausbildungs- und Prüfungsbestimmungen in der Büromanagementkaufleute-Ausbildungsverordnung
-
-Ausfertigungsdatum: 11.12.2013
-
+% Verordnung über die Erprobung abweichender Ausbildungs- und Prüfungsbestimmungen in der Büromanagementkaufleute-Ausbildungsverordnung
+% Ausfertigungsdatum: 11.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Ziel und Gegenstand der Erprobung
+# § 1 – Ziel und Gegenstand der Erprobung
 
 (1) Durch die Erprobung soll untersucht werden, ob die Durchführung der Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen die geeignete Prüfungsform für den Ausbildungsberuf des Kaufmanns für Büromanagement und der Kauffrau für Büromanagement ist. Darüber hinaus sollen Struktur, Inhalt und Gewichtung von Teil 1 und Teil 2 der Abschlussprüfung sowie die Durchführung und Prüfung der Zusatzqualifikation erprobt werden.
 
 (2) Der Erprobung ist die Büromanagementkaufleute-Ausbildungsverordnung vom 11. Dezember 2013 (BGBl. I S. 4125) mit der Maßgabe zugrunde zu legen, dass die §§ 6 bis 8 der Büromanagementkaufleute-Ausbildungsverordnung nicht anzuwenden sind.
 
-
-## § 2 – Abschlussprüfung
+# § 2 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
@@ -30,8 +25,7 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 
 (2) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als dies für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 3 – Teil 1 der Abschlussprüfung
+# § 3 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -51,8 +45,7 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 
 3. die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 4 – Teil 2 der Abschlussprüfung
+# § 4 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung soll am Ende der Berufsausbildung stattfinden.
 
@@ -116,8 +109,7 @@ Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Prüf
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 5 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+# § 5 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -151,15 +143,13 @@ Sozialkunde</td><td style="text-align: right;">mit 10 Prozent.</td></tr></tbody>
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 6 – Zusatzqualifikation
+# § 6 – Zusatzqualifikation
 
 (1) Als Zusatzqualifikation kann eine im Rahmen der Berufsausbildung nicht festgelegte Wahlqualifikation nach § 4 Absatz 3 der Büromanagementkaufleute-Ausbildungsverordnung vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikation gilt die sachliche Gliederung der Anlage 1 Abschnitt B der Büromanagementkaufleute-Ausbildungsverordnung entsprechend.
 
-
-## § 7 – Prüfung der Zusatzqualifikation
+# § 7 – Prüfung der Zusatzqualifikation
 
 (1) Die Zusatzqualifikation wird im Rahmen von Teil 2 der Abschlussprüfung gesondert geprüft, wenn bei der Anmeldung zur Abschlussprüfung mitgeteilt wird, dass diese Prüfung durchgeführt werden soll und glaubhaft gemacht wird, dass die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
@@ -167,12 +157,10 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (3) Die Prüfung der Zusatzqualifikation ist bestanden, wenn sie mit mindestens „ausreichend“ bewertet worden ist.
 
-
-## § 8 – Bestehende Berufsausbildungsverhältnisse
+# § 8 – Bestehende Berufsausbildungsverhältnisse
 
 Auf Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2025 begonnen werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2014 in Kraft und am 1. August 2025 außer Kraft.

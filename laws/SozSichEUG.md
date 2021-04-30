@@ -1,10 +1,7 @@
-# [SozSichEUG] Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa
-
-Ausfertigungsdatum: 22.06.2011
-
+% Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa
+% Ausfertigungsdatum: 22.06.2011
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz regelt die Zuständigkeit der deutschen Sozialversicherungsträger und anderer für die soziale Sicherheit zuständiger Träger und Behörden bei der Anwendung und Durchführung folgender Verordnungen in ihrer jeweils geltenden Fassung:
 
@@ -12,13 +9,11 @@ Dieses Gesetz regelt die Zuständigkeit der deutschen Sozialversicherungsträger
 
 2. der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (ABl. L 284 vom 30.10.2009, S. 1).
 
-
-## § 2 – Zuständige Behörde
+# § 2 – Zuständige Behörde
 
 Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde nach Artikel 1 Buchstabe m der Verordnung (EG) Nr. 883/2004.
 
-
-## § 3 – Verbindungsstelle für die berufsständischen Versorgungseinrichtungen
+# § 3 – Verbindungsstelle für die berufsständischen Versorgungseinrichtungen
 
 (1) Die Arbeitsgemeinschaft Berufsständischer Versorgungseinrichtungen nimmt die Funktion einer Verbindungsstelle nach Artikel 1 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 987/2009 für den Bereich der berufsständischen Versorgungseinrichtungen wahr. Zu ihren Aufgaben gehören insbesondere
 
@@ -34,8 +29,7 @@ Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde nach Art
 
 (3) Zur Erfüllung ihrer Aufgaben nach den Absätzen 1 und 2 darf die Arbeitsgemeinschaft den berufsständischen Versorgungseinrichtungen die erforderlichen Daten zur automatisierten Verarbeitung von Dokumenten oder strukturierten Dokumenten übermitteln oder nach Festlegung des Verfahrens mit den Versorgungseinrichtungen die Verarbeitung der Daten übernehmen. Diese Daten gelten als Sozialdaten, auf welche die Bestimmungen zum Sozialgeheimnis nach § 35 des Ersten Buches Sozialgesetzbuch und zum Schutz der Sozialdaten nach dem Zweiten Kapitel des Zehnten Buches Sozialgesetzbuch Anwendung finden.
 
-
-## § 4 – Verbindungsstelle für Familienleistungen
+# § 4 – Verbindungsstelle für Familienleistungen
 
 Die Bundesagentur für Arbeit, Familienkasse Direktion, nimmt die Funktion der Verbindungsstelle nach Artikel 1 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 987/2009 für die Familienleistungen nach Artikel 3 Absatz 1 Buchstabe j der Verordnung (EG) Nr. 883/2004 (Kindergeld nach dem Abschnitt X des Einkommensteuergesetzes, Kindergeld und Kinderzuschlag nach dem Bundeskindergeldgesetz, Elterngeld und Betreuungsgeld nach dem Bundeselterngeld- und Elternzeitgesetz sowie Landeserziehungsgeld nach den Rechtsvorschriften der Länder betreffend Erziehungsgeld) wahr. Zu ihren Aufgaben gehören insbesondere
 
@@ -43,13 +37,11 @@ Die Bundesagentur für Arbeit, Familienkasse Direktion, nimmt die Funktion der V
 
 2. Aufklärung, Beratung und Information.
 
-
-## § 5 – Koordinierungsstelle für die Systeme der Beamtenversorgung
+# § 5 – Koordinierungsstelle für die Systeme der Beamtenversorgung
 
 Die Generalzolldirektion nimmt im Zusammenwirken mit der Deutschen Rentenversicherung Bund (§ 127a Absatz 2 des Sechsten Buches Sozialgesetzbuch) die Funktion einer Koordinierungsstelle für die deutschen Systeme der Beamtenversorgung wahr. Zu den Aufgaben der Generalzolldirektion in diesem Bereich gehören insbesondere die Koordinierung der Verwaltungshilfe und der Datenaustausch mit anderen Mitgliedstaaten bei grenzüberschreitenden Sachverhalten. Sie darf personenbezogene Daten erheben, verarbeiten und nutzen, soweit dies zur Erfüllung ihrer Aufgaben nach den Sätzen 1 und 2 erforderlich ist. Diese Daten gelten als Sozialdaten, auf welche die Bestimmungen zum Sozialgeheimnis nach § 35 des Ersten Buches Sozialgesetzbuch und zum Schutz der Sozialdaten nach dem Zweiten Kapitel des Zehnten Buches Sozialgesetzbuch Anwendung finden.
 
-
-## § 6 – Zugangsstellen
+# § 6 – Zugangsstellen
 
 (1) Zugangsstellen für den elektronischen Datenaustausch nach Artikel 1 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 987/2009 sind
 
@@ -90,8 +82,7 @@ des Artikels 16 der Verordnung (EG) Nr. 987/2009, wenn der Wohnort der betreffen
 
 (2) Die Aufgaben der Zugangsstellen umfassen im Rahmen ihres jeweiligen Zuständigkeitsbereichs auch den elektronischen Datenaustausch zur Koordinierung der Verwaltungshilfe. Das schließt auch die Verarbeitung der von der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit festgelegten Dokumente und strukturierten Dokumente in automatisierten Dateien im erforderlichen Umfang ein. Die Zugangsstellen können für die Durchführung der Verordnung (EG) Nr. 883/2004 den Verbindungsstellen und Trägern im Geltungsbereich dieses Gesetzes eine Datei zur automatisierten Verarbeitung der Dokumente oder strukturierten Dokumente zur Verfügung stellen oder die Verarbeitung im Rahmen einer Datenverarbeitung im Auftrag übernehmen.
 
-
-## § 7 – Verordnungsermächtigungen
+# § 7 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates folgende Vereinbarungen mit anderen Mitgliedstaaten in Kraft zu setzen:
 

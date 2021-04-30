@@ -1,15 +1,11 @@
-# [WiPrPrüfV] Prüfungsverordnung für Wirtschaftsprüfer nach §§ 14 und 131l der Wirtschaftsprüferordnung  (Wirtschaftsprüferprüfungsverordnung - WiPrPrüfV)
-
-Ausfertigungsdatum: 20.07.2004
-
+% Prüfungsverordnung für Wirtschaftsprüfer nach §§ 14 und 131l der Wirtschaftsprüferordnung  (Wirtschaftsprüferprüfungsverordnung - WiPrPrüfV)
+% Ausfertigungsdatum: 20.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 14 und 131l der Wirtschaftsprüferordnung in der Fassung der Bekanntmachung vom 5. November 1975 (BGBl. I S. 2803), § 14 zuletzt geändert durch Artikel 1 Nr. 13 und § 131l zuletzt geändert durch Artikel 1 Nr. 65 des Gesetzes vom 1. Dezember 2003 (BGBl. I S. 2446), verordnet das Bundesministerium für Wirtschaft und Arbeit:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -185,8 +181,7 @@ Behandlung schwebender Verfahren
 
 Verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung
 
-
-## § 1 – Antrag auf Zulassung zur Prüfung
+# § 1 – Antrag auf Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist an die "Prüfungsstelle für das Wirtschaftsprüfungsexamen bei der Wirtschaftsprüferkammer" (Prüfungsstelle) zu richten. Dem Antrag auf Zulassung zur Prüfung sind beizufügen
 
@@ -212,8 +207,7 @@ Verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung
 
 (4) Die Erklärung nach Absatz 1 Satz 2 Nummer 8 kann auch nach der Zulassung zur Prüfung abgegeben werden, solange die Anmeldung zu einem Modul, um das die Prüfung verkürzt werden soll, nicht nach § 22 Absatz 1 Satz 1 oder Absatz 2 Satz 1 ausgeschlossen ist.
 
-
-## § 2 – Prüfungskommission, Prüfungstermine
+# § 2 – Prüfungskommission, Prüfungstermine
 
 (1) Der Prüfungskommission gehören als Mitglieder an ein Vertreter oder eine Vertreterin der für die Wirtschaft zuständigen oder einer anderen obersten Landesbehörde (oberste Landesbehörde) als vorsitzendes Mitglied, ein Hochschullehrer oder eine Hochschullehrerin der Betriebswirtschaftslehre, ein Mitglied mit der Befähigung zum Richteramt, ein Vertreter oder eine Vertreterin der Finanzverwaltung, ein Vertreter oder eine Vertreterin der Wirtschaft und zwei Wirtschaftsprüfer oder Wirtschaftsprüferinnen. An der verkürzten Prüfung (§ 6), bei der die Prüfung im Steuerrecht entfällt, nimmt die die Finanzverwaltung vertretende Person, an der verkürzten Prüfung, bei der die Prüfung in Angewandter Betriebswirtschaftslehre und Volkswirtschaftslehre entfällt, nimmt der Hochschullehrer oder die Hochschullehrerin der Betriebswirtschaftslehre und an der verkürzten Prüfung, bei der die Prüfung im Wirtschaftsrecht entfällt, nimmt ein zusätzliches Mitglied mit der Befähigung zum Richteramt nicht teil; ein Mitglied der Kommission muss die Befähigung zum Richteramt haben.
 
@@ -241,8 +235,7 @@ Eine prüfende Person muss die Befähigung zum Richteramt haben.
 
 (8) Es sollen mindestens zwei bundesweite Prüfungstermine im Kalenderjahr angeboten werden.
 
-
-## § 3 – Berufung der Mitglieder der Prüfungskommission
+# § 3 – Berufung der Mitglieder der Prüfungskommission
 
 (1) Die Mitglieder der Prüfungskommission werden auf Vorschlag des Vorstandes der Wirtschaftsprüferkammer, welcher der Zustimmung des Bundesministeriums für Wirtschaft und Energie bedarf, vom Beirat der Wirtschaftsprüferkammer in der Regel für die Dauer von fünf Jahren berufen; die oberste Landesbehörden vertretenden Personen sind vom Beirat nach Benennung durch die obersten Landesbehörden, die untereinander abstimmen können, welche Personen welchen Landes jeweils benannt werden, zu bestellen. Mitglieder der Prüfungskommission sind in ausreichender Zahl zu berufen. Die Berufung kann aus wichtigem Grund zurückgenommen werden.
 
@@ -252,8 +245,7 @@ Eine prüfende Person muss die Befähigung zum Richteramt haben.
 
 (4) Der Vorstand kann verlangen, dass wiederholt Vorschläge eingereicht werden. Er ist an die nach Absatz 3 eingereichten Vorschläge nicht gebunden.
 
-
-## § 4 – Prüfungsgebiete
+# § 4 – Prüfungsgebiete
 
 (1) Prüfungsgebiete sind
 
@@ -345,23 +337,19 @@ d) Umwandlungssteuerrecht;
 
 3. Grundzüge des Internationalen Steuerrechts.
 
+# § 4a – (weggefallen)
 
-## § 4a – (weggefallen)
-
-
-## § 5 – Gliederung der Prüfung
+# § 5 – Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in vier Module, die jeweils ein Prüfungsgebiet nach § 4 Absatz 1 umfassen. In jedem Modul ist eine Prüfung (Modulprüfung) abzulegen. In einem Prüfungstermin nach § 2 Absatz 8 können eine oder mehrere Modulprüfungen abgelegt werden. Jede Modulprüfung besteht aus einer schriftlichen und einer mündlichen Prüfung. Jede schriftliche Modulprüfung besteht aus ein oder zwei unter Aufsicht anzufertigenden Arbeiten (Aufsichtsarbeiten).
 
 (2) Für jede Modulprüfung ist eine schriftliche oder elektronische Anmeldung bei der Prüfungsstelle erforderlich. Mit dem Antrag auf Zulassung nach § 1 muss die Anmeldung zu mindestens einer Modulprüfung erklärt werden. Zum Zeitpunkt der Anmeldung zu weiteren Modulprüfungen darf die Zulassung zur Prüfung nicht länger als sechs Jahre zurückliegen. Ein außerhalb der Frist des Satzes 3 liegender Prüfungstermin darf nur gewählt werden, wenn es sich um den nächstmöglichen handelt.
 
-
-## § 6 – Verkürzte Prüfung
+# § 6 – Verkürzte Prüfung
 
 Abweichend von § 5 Absatz 1 kann die Prüfung in verkürzter Form nach den §§ 8a, 13 bis 13b der Wirtschaftsprüferordnung abgelegt werden.
 
-
-## § 7 – Schriftliche Prüfung
+# § 7 – Schriftliche Prüfung
 
 (1) Die Aufgaben für die Aufsichtsarbeiten sind aus der Berufsarbeit der Wirtschaftsprüfer und Wirtschaftsprüferinnen zu entnehmen.
 
@@ -369,8 +357,7 @@ Abweichend von § 5 Absatz 1 kann die Prüfung in verkürzter Form nach den §§
 
 (3) In den Modulprüfungen der Prüfungsgebiete nach § 4 Absatz 1 Nummer 1, 2 und 4 sind jeweils zwei, in der Modulprüfung des Prüfungsgebiets nach § 4 Absatz 1 Nummer 3 ist eine Aufsichtsarbeit anzufertigen. Es ist jeweils eine Aufsichtsarbeit an einem Tag zu bearbeiten.
 
-
-## § 8 – Aufgabenkommission
+# § 8 – Aufgabenkommission
 
 (1) Für das Bestimmen der Prüfungsaufgaben in der schriftlichen Prüfung und für die Entscheidung über die zugelassenen Hilfsmittel wird bei der Prüfungsstelle eine Aufgabenkommission eingerichtet. Die Kommission gibt sich bei Bedarf eine eigene Geschäftsordnung.
 
@@ -380,18 +367,15 @@ Abweichend von § 5 Absatz 1 kann die Prüfung in verkürzter Form nach den §§
 
 (4) § 2 Absätze 4 und 5 sowie § 3 gelten entsprechend, jedoch werden die Mitglieder der Aufgabenkommission in der Regel für die Dauer von drei Jahren berufen.
 
-
-## § 9 – Widerspruchskommission
+# § 9 – Widerspruchskommission
 
 Für Entscheidungen nach § 5 Abs. 5 der Wirtschaftsprüferordnung wird bei der Prüfungsstelle eine Widerspruchskommission eingerichtet, die personell mit der Aufgabenkommission nach § 8 Abs. 2 identisch ist. Die Kommission entscheidet mit Stimmenmehrheit; bei Stimmengleichheit entscheidet die Stimme des vorsitzenden Mitglieds. § 8 Abs. 4 gilt entsprechend.
 
-
-## § 10 – Aufsichtsarbeiten
+# § 10 – Aufsichtsarbeiten
 
 Die Aufsicht bei den Aufsichtsarbeiten führen von der Prüfungsstelle bestimmte Personen. Über die Anfertigung der Aufsichtsarbeiten haben sie eine Niederschrift zu fertigen, in der die teilnehmenden Personen, der Zeitpunkt des Beginns und der Abgabe der Arbeiten, etwaige Ordnungsverstöße sowie alle sonstigen wesentlichen Vorkommnisse aufzunehmen sind.
 
-
-## § 11 – Prüfungsnoten
+# § 11 – Prüfungsnoten
 
 (1) Für die Bewertung der einzelnen Prüfungsleistungen werden sechs Notenstufen gebildet. Es bedeuten  
   
@@ -425,15 +409,13 @@ Die Bewertung mit halben Zwischennoten ist zulässig.
   
 Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt durch deren Zahl. Das Ergebnis ist auf zwei Dezimalstellen ohne Rundung zu berechnen.
 
-
-## § 12 – Bewertung der Aufsichtsarbeiten
+# § 12 – Bewertung der Aufsichtsarbeiten
 
 (1) Jede Aufsichtsarbeit ist von zwei Mitgliedern der Prüfungskommission, die nicht an der mündlichen Prüfung teilnehmen müssen, selbstständig zu bewerten. Die beiden Bewertungen können gegenseitig mitgeteilt werden. Eine nicht abgegebene Arbeit ist mit der Note 6,00 zu bewerten. Die bei der mündlichen Prüfung mitwirkenden Mitglieder der Prüfungskommission haben das Recht, die Arbeit einzusehen.
 
 (2) Weichen die Bewertungen einer Arbeit voneinander ab, so gilt der Durchschnitt der Bewertungen.
 
-
-## § 13 – Ergebnis der schriftlichen Prüfung; Ausschluss von der mündlichen Prüfung
+# § 13 – Ergebnis der schriftlichen Prüfung; Ausschluss von der mündlichen Prüfung
 
 (1) Für die schriftliche Modulprüfung wird, sofern zwei Aufsichtsarbeiten anzufertigen sind, eine Gesamtnote gebildet.
 
@@ -441,13 +423,11 @@ Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt durch dere
 
 (3) (weggefallen)
 
-
-## § 14 – Vorberatung der Prüfungskommission
+# § 14 – Vorberatung der Prüfungskommission
 
 Vor Beginn der mündlichen Prüfung findet eine Vorberatung der an der mündlichen Prüfung mitwirkenden Mitglieder der Prüfungskommission statt, zu der sämtliche Prüfungsunterlagen vorliegen.
 
-
-## § 15 – Mündliche Prüfung
+# § 15 – Mündliche Prüfung
 
 (1) Die mündliche Modulprüfung im Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht besteht aus einem kurzen Vortrag und zwei Prüfungsabschnitten. Die mündlichen Modulprüfungen in den übrigen Prüfungsgebieten bestehen aus jeweils einem Prüfungsabschnitt.
 
@@ -459,8 +439,7 @@ Vor Beginn der mündlichen Prüfung findet eine Vorberatung der an der mündlich
 
 (5) Zur Prüfung zugelassenen Personen sowie Personen, die mindestens vier Jahre im wirtschaftlichen Prüfungswesen tätig sind und ein berechtigtes Interesse glaubhaft machen, kann auf Antrag gestattet werden, einmal bei der mündlichen Prüfung zuzuhören.
 
-
-## § 16 – Bewertung der mündlichen Prüfung
+# § 16 – Bewertung der mündlichen Prüfung
 
 (1) In der mündlichen Prüfung werden der kurze Vortrag und die einzelnen Prüfungsabschnitte jeweils gesondert bewertet.
 
@@ -468,13 +447,11 @@ Vor Beginn der mündlichen Prüfung findet eine Vorberatung der an der mündlich
 
 (3) Für die mündliche Modulprüfung im Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht wird eine Gesamtnote gebildet.
 
-
-## § 17 – Modulgesamtnote
+# § 17 – Modulgesamtnote
 
 Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote oder Note der mündlichen Modulprüfung ist eine Modulgesamtnote zu bilden. Sie wird errechnet, indem die Gesamtnote oder Note der schriftlichen Modulprüfung mit 6 und die Gesamtnote oder Note der mündlichen Modulprüfung mit 4 vervielfältigt werden und sodann die Summe durch 10 geteilt wird.
 
-
-## § 18 – Prüfungsergebnis
+# § 18 – Prüfungsergebnis
 
 (1) Die an der mündlichen Prüfung mitwirkenden Mitglieder der Prüfungskommission entscheiden im Anschluss an eine mündliche Modulprüfung, ob die Modulprüfung bestanden oder nicht bestanden ist. Die Modulprüfung ist bestanden, wenn eine unter entsprechender Anwendung des § 17 Satz 2 mindestens mit der Note 4,00 bewertete Leistung erbracht wurde.
 
@@ -484,8 +461,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (4) Die Ablegung der Prüfung berechtigt nicht zur Führung einer Bezeichnung, die auf das Bestehen der Prüfung Bezug nimmt.
 
-
-## § 19 – Ergänzungsprüfung
+# § 19 – Ergänzungsprüfung
 
 (1) Hat die geprüfte Person in der Modulprüfung im Prüfungsgebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht in der zweiten Wiederholungsprüfung eine Modulgesamtnote von mindestens 4,15 erzielt und in allen weiteren Prüfungsgebieten die Modulprüfung bestanden, kann sie eine mündliche Ergänzungsprüfung auf diesem Gebiet ablegen. § 15 Absatz 1 Satz 1 gilt entsprechend. Das Prüfungsergebnis in der mündlichen Ergänzungsprüfung ersetzt das Ergebnis der mündlichen Prüfung der zweiten Wiederholungsprüfung.
 
@@ -497,8 +473,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (5) Umfasst die Prüfung nur das Prüfungsgebiet nach § 4 Absatz 2, finden die Absätze 1 und 2 keine Anwendung.
 
-
-## § 20 – Niederschrift der Prüfungskommission
+# § 20 – Niederschrift der Prüfungskommission
 
 (1) Über den Hergang der mündlichen Modulprüfung ist eine Niederschrift aufzunehmen, in der festgestellt werden
 
@@ -514,8 +489,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (2) Die Niederschrift ist von dem vorsitzenden Mitglied der Prüfungskommission, das an der mündlichen Prüfung mitgewirkt hat, zu unterschreiben.
 
-
-## § 21 – Rücktritt von der Prüfung
+# § 21 – Rücktritt von der Prüfung
 
 (1) Tritt die zu prüfende Person von einer Modulprüfung zurück, so gilt die Modulprüfung als nicht bestanden. Als Rücktritt gilt es, wenn sie an einer Aufsichtsarbeit nicht teilnimmt oder sich der mündlichen Modulprüfung oder Teilen derselben nicht unterzieht.
 
@@ -525,8 +499,7 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (4) Erklärt die zu prüfende Person gegenüber der Prüfungsstelle den Rücktritt von der gesamten Prüfung, so gilt die gesamte Prüfung als nicht bestanden.
 
-
-## § 22 – Wiederholung einer Modulprüfung und der Prüfung
+# § 22 – Wiederholung einer Modulprüfung und der Prüfung
 
 (1) Eine Modulprüfung kann zweimal wiederholt werden. Für die Wiederholung der Modulprüfung ist eine Anmeldung bei der Prüfungsstelle erforderlich; § 5 Absatz 2 Satz 3 und 4 gilt entsprechend.
 
@@ -534,13 +507,11 @@ Aus der Gesamtnote oder Note der schriftlichen Modulprüfung und der Gesamtnote 
 
 (3) Im Fall der Wiederholung der Prüfung verfallen zuvor bestandene Modulprüfungen.
 
-
-## § 23 – Mitteilung des Prüfungsergebnisses
+# § 23 – Mitteilung des Prüfungsergebnisses
 
 Die Prüfungsstelle teilt der geprüften Person das Prüfungsergebnis mit.
 
-
-## § 24 – Täuschungsversuch, Ordnungsverstöße
+# § 24 – Täuschungsversuch, Ordnungsverstöße
 
 (1) Unternimmt es eine zu prüfende Person, das Ergebnis einer schriftlichen Arbeit durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, so kann die Prüfungskommission die Arbeit mit der Note 6,00 bewerten oder in schweren Fällen diese Person von der Modulprüfung oder der gesamten Prüfung ausschließen. Satz 1 gilt entsprechend für die mündliche Prüfung; die Entscheidung wird von den an der mündlichen Prüfung mitwirkenden Mitgliedern der Prüfungskommission getroffen.
 
@@ -550,13 +521,11 @@ Die Prüfungsstelle teilt der geprüften Person das Prüfungsergebnis mit.
 
 (4) Wird nachträglich festgestellt, dass die Voraussetzungen des Absatzes 1 vorlagen, so kann die Prüfungskommission die ergangene Prüfungsentscheidung widerrufen und aussprechen, dass die Prüfung nicht bestanden ist. Der Widerruf ist ausgeschlossen, wenn seit der Beendigung der Prüfung mehr als drei Jahre vergangen sind.
 
-
-## § 24a – Einsicht in Prüfungsakten
+# § 24a – Einsicht in Prüfungsakten
 
 Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung die Prüfungsakten persönlich einsehen.
 
-
-## § 25 – Antrag auf Zulassung zur Prüfung
+# § 25 – Antrag auf Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Eignungsprüfung ist an die "Prüfungsstelle für das Wirtschaftsprüfungsexamen bei der Wirtschaftsprüferkammer" (Prüfungsstelle) zu richten.
 
@@ -580,15 +549,13 @@ Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung die Prü
 
 (3) Der Antrag und die beizufügenden Unterlagen sind, soweit sie von der zu prüfenden Person stammen, in deutscher Sprache einzureichen; sonstige Unterlagen sind mit einer beglaubigten Übersetzung durch einen hierzu ermächtigten Übersetzer oder durch eine hierzu ermächtigte Übersetzerin im Geltungsbereich dieser Verordnung vorzulegen, soweit sie nicht in deutscher Sprache abgefasst sind. Prüfungssprache ist Deutsch. § 1 Abs. 3 gilt entsprechend.
 
-
-## § 26 – Prüfungskommission, Prüfungstermine
+# § 26 – Prüfungskommission, Prüfungstermine
 
 (1) Der Prüfungskommission gehören als Mitglieder an eine eine oberste Landesbehörde vertretende Person als vorsitzendes Mitglied, eine die Finanzverwaltung vertretende Person, eine weitere Person mit der Befähigung zum Richteramt und zwei Wirtschaftsprüfer oder Wirtschaftsprüferinnen. An der verkürzten Prüfung (§ 28 Abs. 1), bei der die Prüfung im Steuerrecht entfällt, nimmt die die Finanzverwaltung vertretende Person nicht teil.
 
 (2) § 2 Absatz 3 bis 8 und § 3 Abs. 1, 2 und 4 gelten entsprechend.
 
-
-## § 27 – Prüfungsgebiete
+# § 27 – Prüfungsgebiete
 
 (1) In der Eignungsprüfung sind Prüfungsgebiete der schriftlichen Prüfung
 
@@ -636,8 +603,7 @@ Genügt eine Aufsichtsarbeit nicht den Anforderungen, so ist zusätzlich das Pr�
 
 (3) Die Prüfungsgebiete nach Absatz 1 Nummer 1 Buchstabe c sowie Absatz 2 Satz 1 Nummer 1 sind nur insoweit Prüfungsgegenstand, als sie nicht durch Richtlinien des Rates angeglichen worden sind oder das Recht der Bundesrepublik Deutschland, insbesondere auf Grund von in den Richtlinien eingeräumten Wahlmöglichkeiten, Besonderheiten enthält.
 
-
-## § 28 – Verkürzte Prüfung; Erlass von Prüfungsleistungen
+# § 28 – Verkürzte Prüfung; Erlass von Prüfungsleistungen
 
 (1) Für die verkürzte Prüfung gilt § 6 entsprechend.
 
@@ -645,8 +611,7 @@ Genügt eine Aufsichtsarbeit nicht den Anforderungen, so ist zusätzlich das Pr�
 
 (3) Die Prüfungsstelle erlässt auf Antrag einzelne Prüfungsleistungen, wenn die zu prüfende Person nachweist, dass sie durch Berufserfahrung einen wesentlichen Teil der Kenntnisse erworben hat, die durch die erlassenen Prüfungsleistungen gefordert werden. Zur Überprüfung der im Rahmen der bisherigen beruflichen Tätigkeit erworbenen Kenntnisse sind geeignete Nachweise vorzulegen; dazu zählen insbesondere Falllisten, die regelmäßig folgende Angaben enthalten müssen: Akten- oder Geschäftszeichen, Gegenstand, Zeitraum, Art und Umfang der Tätigkeit, Sachstand. Ferner sind auf Verlangen der Prüfungsstelle anonymisierte Arbeitsproben vorzulegen.
 
-
-## § 29 – Schriftliche Prüfung
+# § 29 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus zwei unter Aufsicht anzufertigenden Arbeiten (Aufsichtsarbeiten). Die Aufgaben für die Aufsichtsarbeiten sind aus der Berufsarbeit der Wirtschaftsprüfer und Wirtschaftsprüferinnen zu entnehmen; die zuständigen Kommissionen sind die nach den §§ 8 und 9.
 
@@ -656,8 +621,7 @@ Genügt eine Aufsichtsarbeit nicht den Anforderungen, so ist zusätzlich das Pr�
 
 (4) Jede Aufsichtsarbeit ist von zwei nach § 26 Abs. 2 berufenen Mitgliedern der Prüfungskommission, die nicht an der mündlichen Prüfung teilnehmen müssen, selbstständig mit "genügt den Anforderungen" oder "genügt nicht den Anforderungen" zu bewerten. Die beiden Bewertungen können gegenseitig mitgeteilt werden. Eine nicht abgegebene Arbeit ist mit "genügt nicht den Anforderungen" zu bewerten. Die bei der mündlichen Prüfung mitwirkenden Mitglieder der Prüfungskommission haben das Recht, die Arbeit einzusehen. Weichen die Bewertungen einer Arbeit voneinander ab und einigen sich die beiden die Arbeit bewertenden Personen nicht, so ist die Arbeit zusätzlich durch ein Mitglied der Prüfungskommission, das nicht an der mündlichen Prüfung teilnehmen muss und von der Prüfungsstelle bestimmt wird, zu bewerten. Die Aufsichtsarbeit genügt in diesem Fall den Anforderungen, wenn mindestens zwei der die Arbeit bewertenden Personen die Arbeit so bewerten.
 
-
-## § 30 – Mündliche Prüfung
+# § 30 – Mündliche Prüfung
 
 (1) Die zu prüfende Person ist von der mündlichen Prüfung ausgeschlossen, wenn beide Aufsichtsarbeiten den Anforderungen nicht genügen; gleiches gilt, wenn in Fällen des § 28 eine Aufsichtsarbeit den Anforderungen nicht genügt. Die Prüfung ist nicht bestanden.
 
@@ -683,41 +647,34 @@ Genügt eine Aufsichtsarbeit nicht den Anforderungen, so ist zusätzlich das Pr�
 
 Die Niederschrift ist von der vorsitzenden Person der Prüfungskommission zu unterschreiben.
 
-
-## § 31 – Prüfungsergebnis
+# § 31 – Prüfungsergebnis
 
 Die Prüfungskommission entscheidet im Anschluss an die mündliche Prüfung auf Grund des Gesamteindrucks der in der schriftlichen und in der mündlichen Prüfung erbrachten Leistungen, ob die geprüfte Person über die nach § 131h Abs. 2 der Wirtschaftsprüferordnung erforderlichen Kenntnisse verfügt und damit die Prüfung bestanden hat. § 18 Absatz 2 und 4 gilt entsprechend.
 
-
-## § 32 – Rücktritt von der Prüfung
+# § 32 – Rücktritt von der Prüfung
 
 Tritt die zu prüfende Person von der Prüfung zurück, so gilt die gesamte Prüfung als nicht bestanden. Als Rücktritt gilt es, wenn sie an einer Aufsichtsarbeit nicht teilnimmt oder sich der mündlichen Prüfung oder Teilen derselben nicht unterzieht. § 21 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 33 – Wiederholung der Prüfung
+# § 33 – Wiederholung der Prüfung
 
 (1) Die Prüfung kann zweimal wiederholt werden. Für die Wiederholung der Prüfung ist eine erneute Zulassung erforderlich.
 
 (2) Wird der Antrag auf erneute Zulassung gestellt, sind nur die in § 25 Absatz 2 Nummer 1, 4, 5, 7 und 8 genannten Unterlagen und Erklärungen beizufügen.
 
-
-## § 34 – Täuschungsversuch, Ordnungsverstöße
+# § 34 – Täuschungsversuch, Ordnungsverstöße
 
 Unternimmt es eine zu prüfende Person, das Ergebnis einer schriftlichen Arbeit durch Täuschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, so kann die Prüfungskommission die Arbeit mit "genügt nicht den Anforderungen" bewerten oder in schweren Fällen den Bewerber von der Prüfung ausschließen. Satz 1 gilt entsprechend für die mündliche Prüfung. § 24 Abs. 2 bis 4 gilt entsprechend.
 
-
-## § 35 – Einsicht in Prüfungsakten
+# § 35 – Einsicht in Prüfungsakten
 
 Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung die Prüfungsakten persönlich einsehen.
 
-
-## § 36 – Behandlung schwebender Verfahren
+# § 36 – Behandlung schwebender Verfahren
 
 (1) Prüfungsverfahren nach dem Ersten Teil dieser Verordnung, die am 16. Februar 2019 nicht abgeschlossen sind, werden auf Antrag der zu prüfenden Person nach der ab dem 16. Februar 2019 geltenden Fassung dieser Verordnung fortgeführt; § 5 Absatz 2 Satz 2 gilt entsprechend. Im Fall einer Fortführung eines nicht abgeschlossenen Prüfungsverfahrens nach der ab dem 16. Februar 2019 geltenden Fassung gelten Prüfungsgebiete, in denen in entsprechender Anwendung des § 17 Satz 2 dieser Verordnung in der bis zum 15. Februar 2019 geltenden Fassung dieser Verordnung eine mindestens mit der Note 4,00 bewertete Leistung erbracht wurde, als bestandene Modulprüfung gemäß § 18 Absatz 1 Satz 2 dieser Verordnung in der ab dem 16. Februar 2019 geltenden Fassung. Wird kein Antrag nach Satz 1 gestellt, werden nicht abgeschlossene Prüfungsverfahren nach der bis zum 15. Februar 2019 geltenden Fassung dieser Verordnung fortgeführt. Für Anträge auf Zulassung zur Prüfung gilt diese Verordnung in der ab dem 16. Februar 2019 geltenden Fassung, auch wenn der Antrag nach § 7 der Wirtschaftsprüferordnung vor dem 16. Februar 2019 gestellt worden ist.
 
 (2) Wurde die Prüfung nach Maßgabe dieser Verordnung in der bis zum 15. Februar 2019 geltenden Fassung einmal nicht bestanden, kann sie noch zweimal wiederholt werden. Wurde die Prüfung nach Maßgabe dieser Verordnung in der bis zum 15. Februar 2019 geltenden Fassung zweimal nicht bestanden, kann sie noch einmal wiederholt werden.
 
-
-## § 37 – Verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung
+# § 37 – Verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung
 
 Für die verkürzte Prüfung nach § 13a der Wirtschaftsprüferordnung gilt diese Verordnung in der bis zum 15. Februar 2019 geltenden Fassung.

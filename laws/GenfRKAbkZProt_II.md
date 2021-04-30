@@ -1,5 +1,3 @@
-# [GenfRKAbkZProt II] Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II)
-
-Ausfertigungsdatum: 08.06.1977
-
+% Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II)
+% Ausfertigungsdatum: 08.06.1977
  

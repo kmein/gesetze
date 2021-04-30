@@ -1,10 +1,7 @@
-# [REITG] Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen  (REIT-Gesetz - REITG)
-
-Ausfertigungsdatum: 28.05.2007
-
+% Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen  (REIT-Gesetz - REITG)
+% Ausfertigungsdatum: 28.05.2007
  
-
-## § 1 – Wesen der REIT-Aktiengesellschaften
+# § 1 – Wesen der REIT-Aktiengesellschaften
 
 (1) REIT-Aktiengesellschaften sind Aktiengesellschaften, deren Unternehmensgegenstand sich darauf beschränkt,
 
@@ -34,13 +31,11 @@ und deren Aktien zum Handel an einem organisierten Markt im Sinne von § 2 Absat
 
 (4) Der Abschlussprüfer des Jahresabschlusses hat im Rahmen der Jahresabschlussprüfung festzustellen, ob die Berechnung der Streubesitzquote und des maximalen Anteilsbesitzes je Aktionär nach § 11 Abs. 1 und 4 durch die REIT-Aktiengesellschaft mit den Meldungen nach § 11 Abs. 5 zum Bilanzstichtag übereinstimmt. Er hat auch Feststellungen zur Einhaltung des § 13 zu treffen, hinsichtlich des § 13 Abs. 1 beziehen sich diese auf die im Geschäftsjahr für das vorangegangene Geschäftsjahr vorgenommene Ausschüttung. Für Zwecke des § 19 Abs. 3 und des § 19a sind auch Feststellungen zur Zusammensetzung der Erträge hinsichtlich vorbelasteter und nicht vorbelasteter Erträge zu treffen. Sofern kein Konzernabschluss aufgestellt wird, hat der Abschlussprüfer außerdem festzustellen, ob die §§ 12, 14 und 15 zum Bilanzstichtag eingehalten waren. Das Ergebnis seiner Prüfungshandlungen hat der Abschlussprüfer in einem besonderen Vermerk zusammenzufassen. Der Konzernabschlussprüfer hat im Rahmen der Konzernabschlussprüfung zu prüfen, ob die Anforderungen der §§ 12, 14 und 15 zum Bilanzstichtag eingehalten waren und darüber einen besonderen Vermerk anzufertigen. Auf den besonderen Vermerk des Abschlussprüfers oder Konzernabschlussprüfers ist § 323 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-
-## § 2 – Vor-REIT
+# § 2 – Vor-REIT
 
 Ein Vor-REIT ist eine Aktiengesellschaft mit Sitz im Geltungsbereich dieses Gesetzes, die beim Bundeszentralamt für Steuern als Vor-REIT registriert ist. Zum Ende des auf die Registrierung folgenden Geschäftsjahres hat der Vor-REIT gegenüber dem Bundeszentralamt für Steuern nachzuweisen, dass sein Unternehmensgegenstand im Sinne des § 1 Abs. 1 erster Halbsatz beschränkt ist. Zum Ende des dem Jahr der Anmeldung folgenden und jedes darauf folgenden Geschäftsjahres hat der Vor-REIT auf Aufforderung des Bundeszentralamts für Steuern innerhalb einer in der Aufforderung bestimmten Frist durch Vorlage von geeigneten, von einem Wirtschaftsprüfer testierten Unterlagen nachzuweisen, dass er die Voraussetzungen des § 12 erfüllt. Erfüllt der Vor-REIT zum Ende des dem Jahr der Anmeldung folgenden oder eines späteren Geschäftsjahres die Voraussetzungen des § 12 und des § 1 Abs. 1 erster Halbsatz nicht oder nicht mehr, entfällt der Status als Vor-REIT zum Ende dieses Geschäftsjahres.
 
-
-## § 3 – Begriffsbestimmung
+# § 3 – Begriffsbestimmung
 
 (1) Immobilienpersonengesellschaften sind Personengesellschaften, deren Unternehmensgegenstand im Sinne des § 1 Abs. 1 Nr. 1 und 2 beschränkt ist und die nach dem Gesellschaftsvertrag nur Vermögensgegenstände im Sinne des Absatzes 7 mit Ausnahme von Beteiligungen an Auslandsobjektgesellschaften und REIT-Dienstleistungsgesellschaften erwerben dürfen.
 
@@ -66,40 +61,33 @@ Ein Vor-REIT ist eine Aktiengesellschaft mit Sitz im Geltungsbereich dieses Gese
 
 (9) Bestandsmietwohnimmobilien sind Immobilien, die überwiegend Wohnzwecken dienen, sofern diese vor dem 1. Januar 2007 erbaut worden sind.
 
-
-## § 4 – Mindestnennbetrag des Grundkapitals
+# § 4 – Mindestnennbetrag des Grundkapitals
 
 Der Mindestnennbetrag des Grundkapitals einer REIT-Aktiengesellschaft ist 15 Millionen Euro.
 
-
-## § 5 – Form der Aktien
+# § 5 – Form der Aktien
 
 (1) Sämtliche Aktien der REIT-Aktiengesellschaft müssen als stimmberechtigte Aktien gleicher Gattung begründet werden. Sie dürfen nur gegen volle Leistung des Ausgabebetrages ausgegeben werden.
 
 (2) Ein Anspruch des Aktionärs auf Verbriefung seines Anteils besteht nicht.
 
-
-## § 6 – Firma
+# § 6 – Firma
 
 Die Firma einer REIT-Aktiengesellschaft muss, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung "REIT-Aktiengesellschaft" oder "REIT-AG" enthalten.
 
-
-## § 7 – Bezeichnungsschutz
+# § 7 – Bezeichnungsschutz
 
 Eine Gesellschaft, die ihren Sitz im Geltungsbereich dieses Gesetzes hat, darf die Bezeichnung "REIT-Aktiengesellschaft" oder eine Bezeichnung, in der der Begriff "Real Estate Investment Trust" oder die Abkürzung "REIT" allein oder im Zusammenhang mit anderen Worten vorkommt, in der Firma oder als Zusatz zur Firma nur führen, wenn sie eine REIT-Aktiengesellschaft im Sinne dieses Gesetzes ist und die Voraussetzungen der §§ 8 bis 15 erfüllt.
 
-
-## § 8 – Anmeldung als REIT-Aktiengesellschaft
+# § 8 – Anmeldung als REIT-Aktiengesellschaft
 
 Die Firma der REIT-Aktiengesellschaft (§ 6) ist bei dem zuständigen Gericht zur Eintragung in das Handelsregister anzumelden.
 
-
-## § 9 – Sitz
+# § 9 – Sitz
 
 Die REIT-Aktiengesellschaft muss ihren Sitz und ihre Geschäftsleitung im Inland haben.
 
-
-## § 10 – Börsenzulassung
+# § 10 – Börsenzulassung
 
 (1) Die Aktien der REIT-Aktiengesellschaft müssen zum Handel an einem organisierten Markt im Sinne des § 2 Absatz 11 des Wertpapierhandelsgesetzes in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassen sein.
 
@@ -107,8 +95,7 @@ Die REIT-Aktiengesellschaft muss ihren Sitz und ihre Geschäftsleitung im Inland
 
 (3) Wird innerhalb der nach Absatz 2 maßgeblichen Frist kein Antrag gestellt oder wird ein innerhalb dieser Frist gestellter Antrag bestandskräftig abgelehnt, so verliert die Gesellschaft ihren Status als Vor-REIT. Der Status lebt wieder auf, wenn die Zulassung erneut beantragt wird.
 
-
-## § 11 – Streuung der Aktien
+# § 11 – Streuung der Aktien
 
 (1) Mindestens 15 Prozent der Aktien einer REIT-Aktiengesellschaft müssen sich im Streubesitz befinden. Im Zeitpunkt der Börsenzulassung müssen sich jedoch mindestens 25 Prozent der Aktien im Streubesitz befinden. Den Streubesitz bilden die Aktien derjenigen Aktionäre, denen jeweils weniger als 3 Prozent der Stimmrechte an der REIT-Aktiengesellschaft zustehen. Die Berechnung richtet sich nach den §§ 34 und 36 des Wertpapierhandelsgesetzes.
 
@@ -120,8 +107,7 @@ Die REIT-Aktiengesellschaft muss ihren Sitz und ihre Geschäftsleitung im Inland
 
 (5) Die Mitteilungspflichten nach § 33 Absatz 1 des Wertpapierhandelsgesetzes und die Pflichten nach § 40 Absatz 1 und 2 des Wertpapierhandelsgesetzes gelten auch dann, wenn ein Meldepflichtiger durch Erwerb, Veräußerung oder auf sonstige Weise 80 Prozent oder 85 Prozent der Stimmrechte an einer REIT-Aktiengesellschaft erreicht, überschreitet oder unterschreitet.
 
-
-## § 12 – Vermögens- und Ertragsanforderungen
+# § 12 – Vermögens- und Ertragsanforderungen
 
 (1) Ist die REIT-Aktiengesellschaft zur Aufstellung eines Konzernabschlusses gemäß § 315e des Handelsgesetzbuchs verpflichtet, ist für Zwecke dieser Vorschrift oder der §§ 14 und 15 auf den Konzernabschluss abzustellen, anderenfalls auf den Einzelabschluss gemäß § 325 Abs. 2a des Handelsgesetzbuchs. Dabei ist für Zwecke dieser Vorschrift oder der §§ 14 und 15 für als Finanzinvestition gehaltenes unbewegliches Vermögen der beizulegende Zeitwert im Sinne des IAS 40 maßgebend. Beteiligungen an Immobilienpersonengesellschaften gelten für Zwecke dieser Vorschrift und der §§ 14 und 15 als unbewegliches Vermögen und sind mit dem beizulegenden Zeitwert zu bewerten.
 
@@ -139,8 +125,7 @@ b) darf die Summe der Umsatzerlöse zuzüglich der sonstigen Erträge aus unbewe
 
 (4) Zu den sonstigen Erträgen aus unbeweglichem Vermögen im Sinne des Absatzes 3 zählen nicht regelmäßig wiederkehrende Erträge, erfolgswirksam erfasste Bewertungsgewinne und -verluste, realisierte Veräußerungsverluste sowie Erträge aus Vermietung, Leasing, Verpachtung und Veräußerung von unbeweglichem Vermögen, soweit sie nicht unter den Umsatzerlösen zu erfassen sind. Bewertungsgewinne und -verluste sind Gewinne und Verluste aus dem Ansatz des als Finanzinvestition gehaltenen unbeweglichen Vermögens im Einzel- bzw. Konzernabschluss nach Absatz 1 mit dem beizulegenden Zeitwert im Sinne des IAS 40. Erfolgt der Ansatz des als Finanzinvestition gehaltenen unbeweglichen Vermögens im Einzel- bzw. Konzernabschluss der REIT-Aktiengesellschaft gemäß IAS 40 mit den fortgeführten Anschaffungskosten, sind in einer Nebenrechnung Bewertungsgewinne und -verluste im Sinne des Satzes 2 zu ermitteln und den sonstigen Erträgen hinzuzusetzen.
 
-
-## § 13 – Ausschüttung an die Anleger
+# § 13 – Ausschüttung an die Anleger
 
 (1) Die REIT-Aktiengesellschaft ist verpflichtet, bis zum Ende des folgenden Geschäftsjahres mindestens 90 Prozent ihres handelsrechtlichen Jahresüberschusses im Sinne des § 275 des Handelsgesetzbuchs, gemindert um die Dotierung der Rücklage nach Absatz 3 Satz 1 sowie einen Verlustvortrag des Vorjahres und erhöht um die Auflösung der Rücklage gemäß Absatz 3 Satz 2, an die Aktionäre als Dividende auszuschütten. § 150 des Aktiengesetzes findet keine Anwendung.
 
@@ -148,20 +133,17 @@ b) darf die Summe der Umsatzerlöse zuzüglich der sonstigen Erträge aus unbewe
 
 (3) Gewinne einer REIT-Aktiengesellschaft aus der Veräußerung unbeweglichen Vermögens können im handelsrechtlichen Jahresabschluss bis zur Hälfte in eine Rücklage eingestellt werden. Die Rücklage ist bis zum Ablauf des zweiten auf das Jahr der Einstellung folgenden Geschäftsjahres aufzulösen und erhöht den ausschüttungsfähigen Betrag nach Absatz 1, soweit die Rücklage nicht von den Anschaffungs- oder Herstellungskosten von im ersten oder zweiten auf das Jahr der Einstellung folgenden Geschäftsjahres angeschafften oder hergestellten unbeweglichen Vermögens abgezogen worden ist. Gehörte das veräußerte unbewegliche Vermögen bereits zum Beginn der Steuerbefreiung zum Betriebsvermögen der REIT-Aktiengesellschaft, ist der Veräußerungsgewinn als Summe aus dem Veräußerungsgewinn I und dem Veräußerungsgewinn II zu ermitteln. Veräußerungsgewinn I ist die Differenz zwischen dem Buchwert in der Handelsbilanz und dem im Rahmen von steuerlichen Gewinnermittlungen vor dem Beginn der Steuerbefreiung für den Grund und Boden oder das Gebäude angesetzten Wert. Der restliche Veräußerungsgewinn bildet den Veräußerungsgewinn II. Für die Rücklage nach Satz 1 darf nur der Veräußerungsgewinn II verwendet werden.
 
-
-## § 14 – Ausschluss des Immobilienhandels
+# § 14 – Ausschluss des Immobilienhandels
 
 (1) Die REIT-Aktiengesellschaft darf keinen Handel mit ihrem unbeweglichen Vermögen betreiben.
 
 (2) Ein Handel im Sinne von Absatz 1 findet nur statt, wenn die REIT-Aktiengesellschaft sowie ihre in einen Konzernabschluss einzubeziehenden Tochterunternehmen innerhalb der letzten fünf Geschäftsjahre Erlöse aus der Veräußerung von unbeweglichem Vermögen erzielt haben, die mehr als die Hälfte des Wertes des durchschnittlichen Bestandes an unbeweglichem Vermögen innerhalb desselben Zeitraums ausmachen. Zur Ermittlung des durchschnittlichen Bestandes ist auf die Bestände abzustellen, die im Einzel- bzw. Konzernabschluss gemäß § 12 Abs. 1 der REIT-Aktiengesellschaft am Ende jener Geschäftsjahre, die in den Fünfjahreszeitraum einzubeziehen sind, ausgewiesen werden. Besteht die REIT-Aktiengesellschaft noch nicht fünf Jahre, ist auf die Einzel- bzw. Konzernabschlüsse der bisherigen Geschäftsjahre abzustellen.
 
-
-## § 15 – Mindesteigenkapital
+# § 15 – Mindesteigenkapital
 
 Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 Abs. 1 ausgewiesene Eigenkapital der REIT-Aktiengesellschaft darf 45 Prozent des Betrages, mit dem das unbewegliche Vermögen im Einzel- bzw. Konzernabschluss nach § 12 Abs. 1 angesetzt ist, nicht unterschreiten. Nicht dem Mutterunternehmen gehörende und als Fremdkapital ausgewiesene Anteile an in den Konzernabschluss nach § 315e des Handelsgesetzbuchs einbezogenen Tochterunternehmen gelten für die Berechnung des Mindesteigenkapitals als Eigenkapital.
 
-
-## § 16 – Steuerbefreiung der REIT-Aktiengesellschaft
+# § 16 – Steuerbefreiung der REIT-Aktiengesellschaft
 
 (1) Eine REIT-Aktiengesellschaft, die die Voraussetzungen der §§ 8 bis 15 erfüllt, unbeschränkt körperschaftsteuerpflichtig ist und nicht im Sinne eines Doppelbesteuerungsabkommens als in dem anderen Vertragsstaat ansässig gilt, ist von der Körperschaftsteuer befreit. Eine REIT-Aktiengesellschaft, die die Voraussetzungen der §§ 8 bis 15 erfüllt, ist von der Gewerbesteuer befreit.
 
@@ -175,8 +157,7 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 
 (6) Erbringt die REIT-Aktiengesellschaft oder eine ihr nachgeordnete Immobilienpersonengesellschaft entgeltliche Nebentätigkeiten für Dritte, setzt die zuständige Finanzbehörde eine Zahlung gegen die Aktiengesellschaft fest. Die Zahlung beträgt mindestens 20 Prozent und höchstens 30 Prozent der durch die entgeltliche Nebentätigkeit erzielten Einnahmen. Absatz 3 Satz 3 und 4 ist entsprechend anzuwenden.
 
-
-## § 17 – Beginn der Steuerbefreiung
+# § 17 – Beginn der Steuerbefreiung
 
 (1) Die Steuerbefreiung tritt zu Beginn des Wirtschaftsjahres ein, in dem die REIT-Aktiengesellschaft nach der Anmeldung gemäß § 8 unter einer Firma gemäß § 6 in das Handelsregister eingetragen wird.
 
@@ -186,8 +167,7 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 
 (4) Nach einem Verlust der Steuerbefreiung im Sinne des § 18 kann die Steuerbefreiung nicht vor Ablauf von vier Jahren seit dem Verlust wieder aufleben oder beginnen.
 
-
-## § 18 – Ende der Steuerbefreiung
+# § 18 – Ende der Steuerbefreiung
 
 (1) Die Steuerbefreiung nach § 16 Abs. 1 endet zum Ende des Wirtschaftsjahres, das dem Verlust der Börsenzulassung nach § 10 vorausgeht.
 
@@ -203,8 +183,7 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 
 (7) In den Fällen der Absätze 1 bis 4 sowie des Absatzes 5 Satz 1 und 2 ist die Rücklage nach § 13 Abs. 3 aufzulösen und erhöht zusammen mit den nicht ausgeschütteten Teilen des nach § 13 Abs. 1 berechneten Jahresüberschusses der Geschäftsjahre, für die die Steuerbefreiung der inländischen REIT-Aktiengesellschaft galt, den Gewinn der steuerpflichtigen Aktiengesellschaft im Jahr der erstmaligen Steuerpflicht.
 
-
-## § 19 – Besteuerung der Anteilsinhaber
+# § 19 – Besteuerung der Anteilsinhaber
 
 (1) Die Ausschüttungen der REIT-Aktiengesellschaft und anderer REIT-Körperschaften, -Personenvereinigungen oder -Vermögensmassen sowie sonstige Vorteile, die neben oder an Stelle der Ausschüttungen gewährt werden, gehören zu den Einkünften aus Kapitalvermögen im Sinne des § 20 Abs. 1 Nr. 1 des Einkommensteuergesetzes, wenn sie nicht Betriebseinnahmen des Anteilseigners sind. § 20 Abs. 1 Nr. 2 des Einkommensteuergesetzes ist entsprechend, § 20 Abs. 2 Satz 1 Nr. 2 Buchstabe a des Einkommensteuergesetzes ist nicht anzuwenden.
 
@@ -220,8 +199,7 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 
 (+++ § 19: Zur Anwendung vgl. § 23 Abs. 2 bis 9 +++)
 
-
-## § 19a – Berücksichtigung von Vorbelastungen bei der Besteuerung der Anteilsinhaber
+# § 19a – Berücksichtigung von Vorbelastungen bei der Besteuerung der Anteilsinhaber
 
 (1) Abweichend von § 19 Abs. 3 sind § 3 Nr. 40 und § 3c Abs. 2 des Einkommensteuergesetzes sowie § 8b des Körperschaftsteuergesetzes anzuwenden, soweit die Dividenden einer REIT-Aktiengesellschaft oder einer anderen REIT-Körperschaft, -Personenvereinigung oder -Vermögensmasse aus vorbelasteten Teilen des Gewinns stammen. Auf die Wertminderung einer Beteiligung an einer REIT-Aktiengesellschaft oder anderen Körperschaft, Personenvereinigung oder Vermögensmasse ist § 8b des Körperschaftsteuergesetzes oder § 3c Abs. 2 des Einkommensteuergesetzes anzuwenden, soweit sie auf Dividenden im Sinne von Satz 1 beruht.
 
@@ -235,8 +213,7 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 (+++ § 19a: Zur Nichtanwendung vgl. § 23 Abs. 2 Satz 2 u. Abs. 5 +++)  
 (+++ § 19a: Zur Anwendung vgl. § 23 Abs. 4 +++)
 
-
-## § 20 – Kapitalertragssteuerabzug
+# § 20 – Kapitalertragssteuerabzug
 
 (1) Von den Ausschüttungen, sonstigen Vorteilen und Bezügen nach Kapitalherabsetzung oder Auflösung einer inländischen REIT-Aktiengesellschaft oder einer anderen REIT-Körperschaft, -Personenvereinigung oder -Vermögensmasse und von den Gewinnen aus der Veräußerung von Aktien an REIT-Aktiengesellschaften oder Anteilen an anderen REIT-Körperschaften, -Personenvereinigungen oder -Vermögensmassen wird die Einkommensteuer oder Körperschaftsteuer durch Abzug vom Kapitalertrag erhoben. Die für die Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 1, 1a, 6, 9 und Satz 2 des Einkommensteuergesetzes geltenden Vorschriften des Einkommensteuergesetzes sind entsprechend anzuwenden.
 
@@ -248,8 +225,7 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 
 (+++ § 20 Abs. 1: Zur erstmaligen Anwendung vgl. § 23 Abs. 10 Satz 1 +++)
 
-
-## § 21 – Verfahrensvorschriften
+# § 21 – Verfahrensvorschriften
 
 (1) Auf die Zahlungen nach den §§ 16 und 19a sind die für die Körperschaftsteuer geltenden Vorschriften der Abgabenordnung entsprechend anzuwenden. In öffentlich-rechtlichen Streitigkeiten wegen einer Zahlung ist der Finanzrechtsweg gegeben. Das Aufkommen aus der Zahlung steht je zur Hälfte dem Bund und dem Land zu, in dem die REIT-Aktiengesellschaft ihren Sitz hat.
 
@@ -259,13 +235,11 @@ Das am Ende eines Geschäftsjahres im Einzel- bzw. Konzernabschluss nach § 12 A
 
 (+++ § 21 Abs. 2 Satz 4: Zur Anwendung vgl. § 23 Abs. 12 +++)
 
-
-## § 22 – Übergangsregelung zu § 7
+# § 22 – Übergangsregelung zu § 7
 
 Abweichend von § 7 darf eine Gesellschaft die Bezeichnung "REIT-Aktiengesellschaft" oder eine Bezeichnung, in der der Begriff "Real Estate Investment Trust" oder die Abkürzung "REIT" allein oder im Zusammenhang mit anderen Worten vorkommt, in der Firma oder als Zusatz zur Firma nur bis zum 31. Dezember 2007 führen, wenn am 23. März 2007 die zulässige Eintragung der Firma in das Handelsregister bewirkt war. Nach dem 31. Dezember 2007 ist die Eintragung unzulässig im Sinne des § 142 Abs. 1 Satz 1 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit und kann nach dieser Vorschrift gelöscht werden.
 
-
-## § 23 – Anwendungsvorschriften
+# § 23 – Anwendungsvorschriften
 
 (1) Diese Fassung des Gesetzes ist vorbehaltlich der nachfolgenden Absätze erstmals für das Kalenderjahr 2008 anzuwenden.
 

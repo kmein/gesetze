@@ -1,15 +1,11 @@
-# [VersVergV] Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme im Versicherungsbereich  (Versicherungs-Vergütungsverordnung - VersVergV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme im Versicherungsbereich  (Versicherungs-Vergütungsverordnung - VersVergV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34 Absatz 2 Satz 1 in Verbindung mit Satz 6 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für die folgenden Unternehmen:
 
@@ -33,8 +29,7 @@ Auf Grund des § 34 Absatz 2 Satz 1 in Verbindung mit Satz 6 des Versicherungsau
 
 (4) Diese Verordnung ist auf Vergütungen, die durch Tarifvertrag oder in seinem Geltungsbereich durch Vereinbarung der Arbeitsvertragsparteien über die Anwendung der tarifvertraglichen Regelungen oder auf Grund eines Tarifvertrages in einer Betriebs- oder Dienstvereinbarung vereinbart sind, nicht anzuwenden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -58,8 +53,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 10. „Kontrolleinheiten“: die unternehmensinternen Organisationseinheiten, die die geschäftsinitiierenden Organisationseinheiten überwachen, einschließlich der internen Revision.
 
-
-## § 3 – Allgemeine Anforderungen
+# § 3 – Allgemeine Anforderungen
 
 (1) Die Unternehmen müssen Grundsätze zu den Vergütungssystemen für Geschäftsleiter und Geschäftsleiterinnen sowie für Mitarbeiter und Mitarbeiterinnen festlegen. Die Vergütungssysteme sind zumindest einmal jährlich auf ihre Angemessenheit zu überprüfen und gegebenenfalls anzupassen. Die Geschäftsleiter und Geschäftsleiterinnen sind für die angemessene Ausgestaltung der Vergütungssysteme der Mitarbeiter und Mitarbeiterinnen verantwortlich. Für die angemessene Ausgestaltung der Vergütungssysteme der Geschäftsleiter und Geschäftsleiterinnen ist der Aufsichtsrat verantwortlich. Ist für die angemessene Ausgestaltung der Vergütungssysteme der Geschäftsleiter und Geschäftsleiterinnen öffentlich-rechtlicher Pensionskassen, die der Landesaufsicht unterliegen, im Landesrecht eine verantwortliche Stelle festgelegt, tritt diese an die Stelle des Aufsichtsrats.
 
@@ -128,8 +122,7 @@ Variable Vergütungen sollen daher eine mehrjährige Bemessungsgrundlage haben; 
 (+++ § 3: Zur Nichtanwendung vgl. § 1 Abs. 2 +++) &;  
 (+++ § 3: Zur Anwendung vgl. § 5 Abs. 2 +++)
 
-
-## § 4 – Besondere Anforderungen
+# § 4 – Besondere Anforderungen
 
 (1) Die besonderen Anforderungen gelten nur für Geschäftsleiter und Geschäftsleiterinnen bedeutender Unternehmen im Sinne des § 1 Absatz 3 sowie auf solche Mitarbeiter und Mitarbeiterinnen dieser Unternehmen, deren Tätigkeiten einen wesentlichen Einfluss auf das Gesamtrisikoprofil haben. Das Unternehmen hat auf der Grundlage einer Risikoanalyse eigenverantwortlich festzustellen, ob es Mitarbeiter und Mitarbeiterinnen hat, deren Tätigkeiten einen wesentlichen Einfluss auf das Gesamtrisikoprofil haben, und diese Feststellung sowie die Analyse schriftlich zu dokumentieren. Für die Risikoanalyse können unter anderem die Größe, die Art der Geschäftstätigkeit, das Geschäftsvolumen, die Höhe der Risiken und die Erträge einer Organisationseinheit als Kriterien herangezogen werden. Auch die Tätigkeit, die Stellung, die Höhe der bisherigen Vergütung sowie eine ausgeprägte Wettbewerbssituation auf dem Arbeitsmarkt kommen als Kriterien in Frage. Die Analyse muss plausibel, umfassend und für Dritte nachvollziehbar sein.
 
@@ -174,8 +167,7 @@ c) einen negativen Gesamterfolg des Unternehmens oder der Gruppe.
 (+++ § 4: Zur Nichtanwendung vgl. § 1 Abs. 2 +++)  
 (+++ § 4: Zur Anwendung vgl. § 5 Abs. 2 +++)
 
-
-## § 5 – Anforderungen auf Versicherungsgruppen- und Finanzkonglomeratsebene
+# § 5 – Anforderungen auf Versicherungsgruppen- und Finanzkonglomeratsebene
 
 (1) Übergeordnete Unternehmen einer Versicherungsgruppe im Sinne des § 25 Absatz 3 des Versicherungsaufsichtsgesetzes und übergeordnete Unternehmen eines Finanzkonglomerats haben sicherzustellen, dass die Vergütungssysteme für Geschäftsleiter und Geschäftsleiterinnen, für Mitarbeiter und Mitarbeiterinnen sowie für Aufsichtsratsmitglieder innerhalb der gesamten Gruppe oder des gesamten Konglomerats angemessen, transparent und auf eine nachhaltige Entwicklung ausgerichtet sind.
 
@@ -185,8 +177,7 @@ c) einen negativen Gesamterfolg des Unternehmens oder der Gruppe.
 
 (4) Sofern es unter Berücksichtigung der Größe und Komplexität der Geschäftstätigkeit der Versicherungsgruppe oder des Finanzkonglomerats risikoadäquat erscheint, können einzelne Anforderungen dieser Verordnung zentral innerhalb der Gruppe oder des Konglomerats erfüllt werden. Das übergeordnete Unternehmen hat die Einschätzung hierüber schriftlich zu dokumentieren.
 
-
-## § 6 – Anpassung bestehender Vereinbarungen
+# § 6 – Anpassung bestehender Vereinbarungen
 
 (1) Die Unternehmen haben darauf hinzuwirken, dass, soweit rechtlich zulässig, folgende Vereinbarungen angepasst werden:
 
@@ -198,7 +189,6 @@ c) einen negativen Gesamterfolg des Unternehmens oder der Gruppe.
 
 (+++ § 6: Zur Anwendung vgl. § 1 Abs. 2 +++)
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

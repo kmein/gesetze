@@ -1,15 +1,11 @@
-# [BEGÄndG 3] Drittes Gesetz zur Änderung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
-
-Ausfertigungsdatum: 29.06.1956
-
+% Drittes Gesetz zur Änderung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
+% Ausfertigungsdatum: 29.06.1956
  
-
-## Art I – Neufassung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
+# Art I – Neufassung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung
 
 \-
 
-
-## Art II – Begriffsbestimmungen
+# Art II – Begriffsbestimmungen
 
 In diesem Gesetz werden bezeichnet
 
@@ -28,8 +24,7 @@ als Bundesentschädigungsgesetz,
   
 als Bundesergänzungsgesetz.
 
-
-## Art III – Übergangsvorschriften
+# Art III – Übergangsvorschriften
 
 1. Ansprüche von Verfolgten, die ihren Wohnsitz oder dauernden Aufenthalt in der Zeit vom 1. Januar 1947 bis zum 30. Dezember 1952 aus dem Geltungsbereich des Bundesergänzungsgesetzes verlegt haben, bleiben aufrechterhalten. Dies gilt nur, wenn der Berechtigte im Zeitpunkt der Entscheidung seinen Wohnsitz oder dauernden Aufenthalt in Staaten hat, mit denen die Bundesrepublik Deutschland am 1. Oktober 1953 oder am 1. Januar 1963 diplomatische Beziehungen unterhalten hat. § 238a Abs. 3 BEG findet entsprechende Anwendung.
 
@@ -85,17 +80,14 @@ als Bundesergänzungsgesetz.
 
 Art. III Nr. 1 Satz 2: Nach Maßgabe der Entscheidungsformel mit GG vereinbar, BVerfGE v. 22.10.1974 I 3340 - 1 BvL 30/73 -
 
-
-## Art IIIa
+# Art IIIa
 
 Wiederkehrende Leistungen nach dem Bundesentschädigungsgesetz sind bei Änderung der tatsächlichen Verhältnisse infolge der Erhöhung der Geldleistungen auf Grund der Gesetze über die Rentenversicherungsneuregelung und die Änderung und Ergänzung des Bundesversorgungsgesetzes höchstens um den Monatsbetrag zu kürzen, um den diese Geldleistungen sich monatlich erhöht haben oder erhöhen.
 
-
-## Art IV – Geltung im Land Berlin
+# Art IV – Geltung im Land Berlin
 
 Das Änderungsgesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## Art V – Inkrafttreten
+# Art V – Inkrafttreten
 
 Das Änderungsgesetz tritt am 1. April 1956 in Kraft.

@@ -1,10 +1,7 @@
-# [FRG] Fremdrentengesetz  (FRG)
-
-Ausfertigungsdatum: 25.02.1960
-
+% Fremdrentengesetz  (FRG)
+% Ausfertigungsdatum: 25.02.1960
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
  
 
@@ -32,8 +29,7 @@ Anlagen (Tabellen)
 
 101
 
-
-## § 1
+# § 1
 
 Dieses Gesetz findet unbeschadet des § 5 Abs. 4 und des § 17 Anwendung auf
 
@@ -47,8 +43,7 @@ d) heimatlose Ausländer im Sinne des Gesetzes über die Rechtsstellung heimatlo
 
 e) Hinterbliebene der in Buchstaben a bis d genannten Personen bezüglich der Gewährung von Leistungen an Hinterbliebene.
 
-
-## § 2
+# § 2
 
 Dieses Gesetz gilt nicht für
 
@@ -76,15 +71,13 @@ in einer Rentenversicherung des anderen Staates, ohne Rücksicht darauf, ob sie 
 
 Satz 1 gilt nicht, soweit nach einem zwischenstaatlichen Abkommen die Rechtsvorschriften über Leistungen für nach diesem Gesetz anrechenbare Versicherungszeiten oder zu entschädigende Arbeitsunfälle und Berufskrankheiten unberührt bleiben.
 
-
-## § 3
+# § 3
 
 (1) Als deutsche Versicherungsträger im Sinne dieses Gesetzes sind alle Versicherungsträger anzusehen, die ihren Sitz innerhalb des Gebiets der Bundesrepublik Deutschland haben oder hatten oder außerhalb dieses Gebiets die Sozialversicherung nach den Vorschriften der Reichsversicherungsgesetze durchgeführt haben.
 
 (2) Als Bundesrecht im Sinne dieses Gesetzes gilt das bis 31. Dezember 1991 im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet (§ 18 Abs. 3 Viertes Buch Sozialgesetzbuch) geltende Recht und ab 1. Januar 1992 das Recht der Bundesrepublik Deutschland.
 
-
-## § 4
+# § 4
 
 (1) Für die Feststellung der nach diesem Gesetz erheblichen Tatsachen genügt es, wenn sie glaubhaft gemacht sind. Eine Tatsache ist glaubhaft gemacht, wenn ihr Vorliegen nach dem Ergebnis der Ermittlungen, die sich auf sämtliche erreichbaren Beweismittel erstrecken sollen, überwiegend wahrscheinlich ist.
 
@@ -92,8 +85,7 @@ Satz 1 gilt nicht, soweit nach einem zwischenstaatlichen Abkommen die Rechtsvors
 
 (3) Als Mittel der Glaubhaftmachung können auch eidesstattliche Versicherungen zugelassen werden. Der mit der Durchführung des Verfahrens befaßte Versicherungsträger ist für die Abnahme eidesstattlicher Versicherungen zuständig; er gilt als Behörde im Sinne des § 156 des Strafgesetzbuchs.
 
-
-## § 5
+# § 5
 
 (1) Nach den für die gesetzliche Unfallversicherung maßgebenden bundesrechtlichen Vorschriften wird auch entschädigt
 
@@ -111,18 +103,15 @@ b) sich der Unfall nach dem 30. Juni 1944 in einem Gebiet ereignet hat, aus dem 
 
 (4) Die Leistungen für Arbeitsunfälle und Berufskrankheiten, auf die Absatz 1 Nr. 1 anzuwenden ist, sind auch Personen zu gewähren, die nicht zu dem Personenkreis des § 1 Buchstaben a bis d gehören. Dies gilt auch für Arbeitsunfälle und Berufskrankheiten, auf die Absatz 1 Nr. 2 Buchstabe a anzuwenden ist, wenn die durch den Arbeitsunfall oder die Berufskrankheit entstandenen Verpflichtungen nach den Vorschriften der Reichsversicherungsgesetze auf einen deutschen Träger der gesetzlichen Unfallversicherung übergegangen sind.
 
-
-## § 6
+# § 6
 
 Als gesetzliche Unfallversicherung gelten auf Gesetz beruhende Versicherungen gegen Arbeitsunfälle und Berufskrankheiten oder eines dieser Wagnisse.
 
-
-## § 7
+# § 7
 
 Für Voraussetzungen, Art, Dauer und Höhe der Leistungen gelten die Vorschriften der gesetzlichen Unfallversicherung, die anzuwenden wären, wenn sich der Unfall an dem Ort ereignet hätte, an dem der zuständige Träger der Unfallversicherung (§ 9) am 1. Januar 1992 seinen Sitz hat.
 
-
-## § 8
+# § 8
 
 (1) Als Jahresarbeitsverdienst im Sinne des § 82 Abs. 1 und 2 Satz 1 des Siebten Buches Sozialgesetzbuch gilt der Betrag, der sich dadurch ergibt, daß
 
@@ -140,8 +129,7 @@ Für jeden Teilzeitraum eines Kalenderjahres wird der entsprechende Anteil des f
 
 (3) Der nach den Absätzen 1 und 2 ermittelte Jahresarbeitsverdienst ist mit dem Faktor 0,5 zu vervielfältigen.
 
-
-## § 8a
+# § 8a
 
 (1) Bei Berechtigten nach diesem Gesetz, die
 
@@ -155,8 +143,7 @@ einen Arbeitsunfall erlitten haben oder bei denen auf Grund einer während diese
 
 (3) Absätze 1 und 2 gelten nicht für Berechtigte, bei denen am 1. August 1991 eine Rente bereits festgestellt ist, es sei denn, es wird im Einzelfall festgestellt, daß die Rente aufgrund von Arbeitsunfällen und Berufskrankheiten nach Absätzen 1 und 2 gezahlt wird.
 
-
-## § 9
+# § 9
 
 (1) Zuständig für die Feststellung und Gewährung der Leistungen ist der Träger der Unfallversicherung, der nach der Art des Unternehmens, in dem sich der Arbeitsunfall ereignet hat, zuständig wäre, wenn sich der Arbeitsunfall dort, wo sich der Berechtigte in der Bundesrepublik Deutschland zur Zeit der Anmeldung des Anspruchs gewöhnlich aufhält, ereignet hätte. Sind mehrere Hinterbliebene vorhanden, so bestimmt sich die Zuständigkeit nach dem gewöhnlichen Aufenthaltsort des hinterbliebenen Ehegatten. Ist ein solcher nicht vorhanden, so ist der gewöhnliche Aufenthaltsort der jüngsten Waise maßgebend. Im übrigen bestimmt sich die Zuständigkeit nach dem gewöhnlichen Aufenthaltsort des Hinterbliebenen, der zuerst einen Anspruch anmeldet.
 
@@ -166,13 +153,11 @@ einen Arbeitsunfall erlitten haben oder bei denen auf Grund einer während diese
 
 § 9 Abs. 1 Satz 1 (früher Abs. 1 einziger Text): Mit d. GG vereinbar gem. BVerfGE v. 24.7.1962 I 591; idF d. Art. 14 Nr. 8 Buchst. a G v. 25.7.1991 I 1606 mWv 1.1.1992
 
-
-## § 10
+# § 10
 
 (weggefallen)
 
-
-## § 11
+# § 11
 
 (1) Wird dem Berechtigten von einem Träger der Sozialversicherung oder einer anderen Stelle außerhalb der Bundesrepublik Deutschland für denselben Versicherungsfall eine Rente aus der gesetzlichen Unfallversicherung oder an Stelle einer solchen eine andere Leistung gewährt, so ruht die Rente in Höhe des in Euro umgerechneten Betrags, der als Leistung des Trägers der Sozialversicherung oder der anderen Stelle außerhalb der Bundesrepublik Deutschland ausgezahlt wird.
 
@@ -180,15 +165,13 @@ einen Arbeitsunfall erlitten haben oder bei denen auf Grund einer während diese
 
 (3) (weggefallen)
 
-
-## § 12
+# § 12
 
 (1) Die Rente, die für einen Arbeitsunfall oder eine Berufskrankheit nach § 5 zu gewähren ist, ruht, solange sich der Berechtigte außerhalb der Bundesrepublik Deutschland gewöhnlich aufhält. Die Gewährung von Sachleistungen in Gebiete außerhalb der Bundesrepublik Deutschland ist ausgeschlossen.
 
 (2) Wird der Antrag auf Rente während des gewöhnlichen Aufenthalts des Berechtigten außerhalb der Bundesrepublik Deutschland gestellt, so ist für die Feststellung der Rente und die Entscheidung über das Ruhen der ursprünglich verpflichtete Versicherungsträger zuständig. Ist dieser nicht mehr vorhanden, so richtet sich die Zuständigkeit nach der Art des Unternehmens, in dem sich der Arbeitsunfall ereignet hat; § 9 Abs. 2 und 3 gilt entsprechend. Mehrere sachlich zuständige Versicherungsträger bestimmen durch Vereinbarung, welcher von ihnen örtlich zuständig ist.
 
-
-## § 13
+# § 13
 
 (1) Ist der Arbeitsunfall oder die Berufskrankheit vor dem 9. Mai 1945 außerhalb des Gebiets der Bundesrepublik Deutschland eingetreten und war der Berechtigte hierfür von einem deutschen Träger der gesetzlichen Unfallversicherung zu entschädigen, so kann die Rente einem Deutschen im Sinne des Artikels 116 Abs. 1 des Grundgesetzes oder einem früheren deutschen Staatsangehörigen im Sinne des Artikels 116 Abs. 2 Satz 1 des Grundgesetzes, der sich im Gebiet eines auswärtigen Staates aufhält, in dem die Bundesrepublik Deutschland eine amtliche Vertretung hat, gezahlt werden. Eine solche Rente gilt nicht als Leistung der sozialen Sicherheit.
 
@@ -198,18 +181,15 @@ einen Arbeitsunfall erlitten haben oder bei denen auf Grund einer während diese
 
 (4) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß der gewöhnliche Aufenthalt in einem sonstigen Gebiet außerhalb des Gebiets der Bundesrepublik Deutschland dem gewöhnlichen Aufenthalt im Gebiet eines auswärtigen Staates gleichsteht, in dem die Bundesrepublik Deutschland eine amtliche Vertretung hat.
 
-
-## § 14
+# § 14
 
 Soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt, richten sich die Rechte und Pflichten der nach diesem Abschnitt Berechtigten nach den in der Bundesrepublik Deutschland geltenden allgemeinen Vorschriften.
 
-
-## § 14a
+# § 14a
 
 Bei Renten wegen Todes an Witwen und Witwer von Personen, die nicht zum Personenkreis des § 1 gehören, werden Zeiten nach diesem Gesetz nicht angerechnet. Dies gilt nicht für Berechtigte, die vor dem 1. Januar 2002 ihren gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland genommen haben und deren Ehegatte vor diesem Zeitpunkt verstorben ist.
 
-
-## § 15
+# § 15
 
 (1) Beitragszeiten, die bei einem nichtdeutschen Träger der gesetzlichen Rentenversicherungen zurückgelegt sind, stehen den nach Bundesrecht zurückgelegten Beitragszeiten gleich. Sind die Beiträge auf Grund einer abhängigen Beschäftigung oder einer selbständigen Tätigkeit entrichtet, so steht die ihnen zugrunde liegende Beschäftigung oder Tätigkeit einer rentenversicherungspflichtigen Beschäftigung oder Tätigkeit im Geltungsbereich dieses Gesetzes gleich. Für Personen, die zum Personenkreis des § 1 Buchstabe b gehören, werden rentenrechtliche Zeiten bis zum 8. Mai 1945 berücksichtigt.
 
@@ -225,15 +205,13 @@ c) für die Entgeltpunkte nicht ermittelt werden,
 
 d) die von Zeit- oder Berufssoldaten oder vergleichbaren Personen zurückgelegt worden sind.
 
-
-## § 16
+# § 16
 
 (1) Eine nach vollendetem 17. Lebensjahr vor der Vertreibung in Polen, Ungarn, Rumänien, Bulgarien, Jugoslawien, Albanien, China, der Tschechoslowakei oder der Sowjetunion verrichtete Beschäftigung steht, soweit sie nicht in Gebieten zurückgelegt wurde, in denen zu dieser Zeit die Sozialversicherung nach den Vorschriften der Reichsversicherungsgesetze durchgeführt wurde, einer rentenversicherungspflichtigen Beschäftigung in der Bundesrepublik Deutschland, für die Beiträge entrichtet sind, gleich, wenn sie nicht mit einer Beitragszeit zusammenfällt. Dies gilt nur, wenn die Beschäftigung nach dem am 1. März 1957 geltenden Bundesrecht Versicherungspflicht in den gesetzlichen Rentenversicherungen begründet hätte, wenn sie im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet verrichtet worden wäre; dabei sind Vorschriften über die Beschränkung der Versicherungspflicht nach der Stellung des Beschäftigten im knappschaftlichen Betrieb, nach der Höhe des Arbeitsverdienstes, wegen der Gewährleistung von Versorgungsanwartschaften oder wegen der Eigenschaft als Beamter oder Soldat nicht anzuwenden. Satz 1 wird nicht für Zeiten angewendet, für die Beiträge erstattet worden sind.
 
 (2) Absatz 1 gilt auch für Zeiten einer Beschäftigung von Zeit- oder Berufssoldaten und vergleichbaren Personen.
 
-
-## § 17
+# § 17
 
 (1)
 
@@ -241,8 +219,7 @@ d) die von Zeit- oder Berufssoldaten oder vergleichbaren Personen zurückgelegt 
 
 (3) (weggefallen)
 
-
-## § 17a
+# § 17a
 
 Die für die gesetzliche Rentenversicherung maßgebenden Vorschriften dieses Gesetzes finden Anwendung auch auf
 
@@ -258,8 +235,7 @@ und die Vertreibungsgebiete nach § 1 Abs. 2 Nr. 3 des Bundesvertriebenengesetze
 
 b) Hinterbliebene der in Buchstabe a genannten Personen bezüglich der Gewährung von Leistungen an Hinterbliebene.
 
-
-## § 18
+# § 18
 
 (1) § 15 findet keine Anwendung, wenn die Beiträge als einmalige Einlage oder als laufende Beiträge zur Versicherung anderer als der Pflichtleistungen (Zusatzversicherung) entrichtet sind.
 
@@ -271,8 +247,7 @@ b) Hinterbliebene der in Buchstabe a genannten Personen bezüglich der Gewährun
 
 § 18 Abs. 3 Satz 1: In der bis 30.6.1965 geltenden Fassung mit dem GG vereinbar gem. BVerfGE v. 23.6.1970 I 1372 - 2 Bvl 8/65 -
 
-
-## § 19
+# § 19
 
 (1) Die Beitragszeit wird in ihrem ursprünglichen Umfang angerechnet, wenn sie sich bei einem Wechsel des Versicherungsträgers verringert hat.
 
@@ -282,8 +257,7 @@ b) Hinterbliebene der in Buchstabe a genannten Personen bezüglich der Gewährun
 
 (4) Sind Tagesbeiträge entrichtet, so wird für je sieben Tagesbeiträge eine Woche als Beitragszeit angerechnet; ein verbleibender Rest gilt als volle Beitragswoche.
 
-
-## § 20
+# § 20
 
 (1) Zeiten der in den §§ 15 und 16 genannten Art werden der allgemeinen Rentenversicherung zugeordnet, soweit die nachfolgenden Vorschriften nichts Abweichendes bestimmen.
 
@@ -297,13 +271,11 @@ b) Hinterbliebene der in Buchstabe a genannten Personen bezüglich der Gewährun
 
 (6) Die auf Grund einer freiwilligen Versicherung zurückgelegten Beitragszeiten werden dem Versicherungszweig zugeordnet, in dem sie zurückgelegt sind. Zeiten, für die Beiträge zur freiwilligen Fortsetzung einer Pflichtversicherung entrichtet sind, werden dem Versicherungszweig zugeordnet, dem die Zeiten der Pflichtversicherung, deren Fortsetzung sie dienen, zuzuordnen sind. Im Übrigen werden Zeiten einer freiwilligen Versicherung, die von nicht pflichtversicherten Personen während einer Beschäftigung oder Tätigkeit überwiegend körperlicher Art begonnen ist, der Rentenversicherung der Arbeiter, Zeiten einer freiwilligen Versicherung, die von nicht pflichtversicherten Personen während einer Beschäftigung oder Tätigkeit überwiegend geistiger Art begonnen ist, der Rentenversicherung der Angestellten zugeordnet. Die Sätze 1 bis 3 gelten nur für die Zuordnung von Zeiten der freiwilligen Versicherung, die vor dem 1. März 1957 zurückgelegt wurden.
 
-
-## § 21
+# § 21
 
 Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen Versicherungspflicht nicht bestanden hat und Versicherte nach dem vollendeten 14. Lebensjahr in Gewahrsam genommen worden sind oder im Anschluß daran wegen Krankheit arbeitsunfähig oder unverschuldet arbeitslos gewesen sind, wenn sie zum Personenkreis des § 1 des Häftlingshilfegesetzes gehören.
 
-
-## § 22
+# § 22
 
 (1) Für Zeiten der in §§ 15 und 16 genannten Art werden Entgeltpunkte in Anwendung von § 256b Abs. 1 Satz 1 erster Halbsatz, Satz 2 und 9 des Sechsten Buches Sozialgesetzbuch ermittelt. Hierzu werden für Zeiten nach dem 31. Dezember 1949 die in Anlage 14 des Sechsten Buches Sozialgesetzbuch genannten oder nach § 256b Abs. 1 Satz 2 des Sechsten Buches Sozialgesetzbuch festgestellten Durchschnittsjahresverdienste um ein Fünftel erhöht und für Zeiten vor dem 1. Januar 1950 Entgeltpunkte auf Grund der Anlagen 1 bis 16 dieses Gesetzes ermittelt. Die Bestimmung des maßgeblichen Bereichs richtet sich danach, welchem Bereich der Betrieb, in dem der Versicherte seine Beschäftigung ausgeübt hat, zuzuordnen wäre, wenn der Betrieb im Beitrittsgebiet gelegen hätte. Ist der Betrieb Teil einer größeren Unternehmenseinheit, ist für die Bestimmung des Bereichs diese maßgeblich. Kommen nach dem Ergebnis der Ermittlungen mehrere Bereiche in Betracht, ist von ihnen der Bereich mit den niedrigsten Durchschnittsverdiensten des jeweiligen Jahres maßgeblich. Ist eine Zuordnung zu einem oder zu einem von mehreren Bereichen nicht möglich, so erfolgt die Zuordnung zu dem Bereich mit den für das jeweilige Jahr niedrigsten Durchschnittsverdiensten. Die Sätze 5 und 6 gelten entsprechend für die Zuordnung zu einer Qualifikations- oder Leistungsgruppe. Zeiten eines gesetzlichen Wehr- oder Ersatzdienstes werden Entgeltpunkte zugeordnet, die zu berücksichtigen wären, wenn der Wehr- oder Ersatzdienst im Bundesgebiet ohne das Beitrittsgebiet abgeleistet worden wäre. Kindererziehungszeiten nach § 28b sind Entgeltpunkte zuzuordnen, wie wenn die Erziehung im Bundesgebiet erfolgt wäre.
 
@@ -315,8 +287,7 @@ Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen Versicherungs
 
 § 22 Abs. 4: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 13.6.2006 I 1704 - 1 BvL 9/00, 1 BvL 11/00, 1 BvL 12/00, 1 BvL 5/01 und 1 BvL 10/04 -
 
-
-## § 22a
+# § 22a
 
 (1) (weggefallen)
 
@@ -324,8 +295,7 @@ Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen Versicherungs
 
 (3) Absatz 2 gilt nicht für Berechtigte, bei denen am 1. August 1991 eine Rente bereits festgestellt ist, es sei denn, es wird im Einzelfall festgestellt, daß Zeiten nach Absatz 2 bei Feststellung der Rente berücksichtigt wurden.
 
-
-## § 22b
+# § 22b
 
 (1) Für anrechenbare Zeiten nach diesem Gesetz werden für Renten aus eigener Versicherung und wegen Todes eines Berechtigten insgesamt höchstens 25 Entgeltpunkte der allgemeinen Rentenversicherung zugrunde gelegt. Hierbei sind zuvor die Entgeltpunkte der knappschaftlichen Rentenversicherung mit dem Wert 1,3333 zu multiplizieren. Entgeltpunkte aus der Rente mit einem höheren Rentenartfaktor sind vorrangig zu berücksichtigen.
 
@@ -335,48 +305,39 @@ Vom 1. Januar 1992 an sind Anrechnungszeiten auch Zeiten, in denen Versicherungs
 
 § 22b Abs. 1 Satz 1: IdF d. Art. 9 Nr. 2 G v. 21.7.2004 I 1791 mWv 7.5.1996 (vgl. auch BVerfGE v. 21.7.2010 I 1358) u. d. Art. 45 Nr. 2 G v. 9.12.2004 I 3242 mWv 1.1.2005
 
-
-## § 23
+# § 23
 
 (1) Bei pflichtversicherten Selbständigen ist für die Zuordnung der Werte für die Ermittlung der Entgeltpunkte § 22 unter Berücksichtigung der Beitragsleistung entsprechend anzuwenden. Ist die Höhe der Beitragsleistung nicht nachgewiesen, sind anstelle der Beitragsleistung die Berufstätigkeit und die Einkommensverhältnisse zu berücksichtigen.
 
 (2) Bei freiwillig Versicherten werden Entgeltpunkte nur ermittelt, wenn die Beiträge nach einer Bemessungsgrundlage entrichtet sind, die bei Beschäftigten zur Versicherungspflicht geführt hätte. Für Zeiten bis zum 28. Februar 1957 ist die jeweils niedrigste Beitragsklasse für freiwillige Beiträge im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet zugrunde zu legen und für Zeiten ab 1. März 1957 von einem Bruttoarbeitsentgelt auszugehen, das für einen Kalendermonat der Mindestbeitragsbemessungsgrundlage im Gebiet der Bundesrepublik Deutschland ohne das Beitrittsgebiet entspricht. § 22 Abs. 3 ist anzuwenden.
 
+# §§ 24 und 25 – (weggefallen)
 
-## §§ 24 und 25 – (weggefallen)
-
-
-## § 26
+# § 26
 
 Werden Beitrags- und Beschäftigungszeiten nur für einen Teil eines Kalenderjahres angerechnet, werden bei Anwendung des § 22 Abs. 1 die Entgeltpunkte nur anteilmäßig berücksichtigt. Dabei zählen Kalendermonate, die zum Teil mit Anrechnungszeiten nach § 58 Abs. 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch belegt sind, als Zeiten mit vollwertigen Beiträgen. Für Zeiten, in denen der Versicherte innerhalb eines Kalenderjahres teilzeitbeschäftigt oder unständig beschäftigt war, werden Entgeltpunkte mit dem auf den Teilzeitraum entfallenden Anteil berücksichtigt. Dabei werden für Zeiten einer Beschäftigung mit einer regelmäßigen Arbeitszeit von weniger als zehn Stunden in der Woche Entgeltpunkte nicht ermittelt. Die Sätze 1 bis 4 gelten entsprechend, soweit anstelle einer Beschäftigung eine selbständige Tätigkeit ausgeübt worden ist.
 
+# §§ 27 und 28 – (weggefallen)
 
-## §§ 27 und 28 – (weggefallen)
-
-
-## § 28a
+# § 28a
 
 Zeiten, in denen der Berechtigte aus einem System der sozialen Sicherheit eine Rente wegen verminderter Erwerbsfähigkeit oder wegen Alters oder anstelle einer solchen Leistung eine andere Leistung bezogen hat, stehen Rentenbezugszeiten nach dem Sechsten Buch Sozialgesetzbuch gleich, wenn der Rente Zeiten zugrunde liegen, die nach diesem Gesetz anrechenbar sind.
 
-
-## § 28b
+# § 28b
 
 Für die Anrechnung von Kindererziehungszeiten und Berücksichtigungszeiten wegen Kindererziehung nach dem Sechsten Buch Sozialgesetzbuch steht die Erziehung im jeweiligen Herkunftsgebiet der Erziehung im Geltungsbereich des Sozialgesetzbuchs gleich. Die Erklärungen nach § 56 und dem am 31. Dezember 1996 geltenden § 249 Abs. 6 und 7 des Sechsten Buches Sozialgesetzbuch sind innerhalb eines Jahres nach Zuzug in die Bundesrepublik Deutschland abzugeben. Die Zuordnung nach § 56 des Sechsten Buches Sozialgesetzbuch kann für Kinder, die im Zeitpunkt des Zuzugs geboren sind, rückwirkend auch für mehr als zwei Kalendermonate erfolgen.
 
-
-## § 29
+# § 29
 
 (1) Anrechnungszeiten sind auch Zeiten, in denen eine in den §§ 15 und 16 genannte Beschäftigung oder Tätigkeit durch Arbeitsunfähigkeit wegen Krankheit, Leistungen zur Rehabilitation, Schwangerschaft oder Mutterschaft während der jeweiligen Schutzfristen sowie eine nach dem 30. September 1927 liegende Arbeitslosigkeit unterbrochen worden ist; sind für solche Zeiten Beiträge an einen Träger der gesetzlichen Rentenversicherung im Herkunftsgebiet gezahlt worden, werden für diese Beiträge Entgeltpunkte nicht ermittelt. Für Zeiten der Schwangerschaft oder Mutterschaft sowie für Zeiten der Arbeitslosigkeit nach Vollendung des 17. und vor Vollendung des 25. Lebensjahres ist eine Unterbrechung nicht erforderlich. Die für einen Anspruch auf Arbeitslosengeld maßgeblichen Vorschriften über die Arbeitslosigkeit nach dem Dritten Buch Sozialgesetzbuch sind entsprechend anzuwenden.
 
 (2) Zeiten der Arbeitslosigkeit nach dem 30. Juni 1978 und Zeiten der Arbeitsunfähigkeit wegen Krankheit nach dem 31. Dezember 1983 werden wie entsprechende Zeiten ohne Leistungsbezug oder ohne Beitragszahlung bewertet.
 
-
-## § 30
+# § 30
 
 Für den Beginn einer Rente gilt § 99 Abs. 1 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe, daß die Rente frühestens vom Tage des Zuzugs an geleistet wird. Die dreimonatige Antragsfrist ist zu beachten; sie beginnt mit dem Tage des Zuzugs.
 
-
-## § 31
+# § 31
 
 (1) Wird dem Berechtigten von einem Träger der Sozialversicherung oder einer anderen Stelle außerhalb der Bundesrepublik Deutschland für die nach Bundesrecht anzurechnenden Zeiten eine Rente aus der gesetzlichen Rentenversicherung oder an Stelle einer solchen eine andere Leistung gewährt, so ruht die Rente in Höhe des in Euro umgerechneten Betrags, der als Leistung des Trägers der Sozialversicherung oder der anderen Stelle außerhalb der Bundesrepublik Deutschland ausgezahlt wird. Auf Steigerungsbeträge aus Beiträgen der Höherversicherung findet Satz 1 keine Anwendung.
 
@@ -384,8 +345,7 @@ Für den Beginn einer Rente gilt § 99 Abs. 1 des Sechsten Buches Sozialgesetzbu
 
 (3) (weggefallen)
 
-
-## Anlage 1 – Definitionen der Leistungsgruppen
+# Anlage 1 – Definitionen der Leistungsgruppen
 
 (Fundstelle: BGBl. Teil III 824-2 S. 9 - 13;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -432,8 +392,7 @@ Männliche Arbeiter, die mit gleichmäßig wiederkehrenden Arbeiten beschäftigt
 Regelmäßig beschäftiger Waldarbeiter Ständiger Waldarbeiter  
 B. Rentenversicherung der Angestellten  
 Leistungsgruppe 1  
-Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis.  
-Leistungsgruppe 2  
+Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis. Leistungsgruppe 2  
 Angestellte mit besonderen Erfahrungen und selbständigen Leistungen in verantwortlicher Tätigkeit mit eingeschränkter Dispositionsbefugnis, die Angestellte anderer Tätigkeitsgruppen einzusetzen und verantwortlich zu unterweisen haben. Außerdem Angestellte, die als Obermeister, Oberrichtmeister oder Meister mit hohem beruflichem Können und besonderer Verantwortung großen Werkstätten oder Abteilungen vorstehen. Ergibt sich nicht nach den Merkmalen der ausgeübten Beschäftigung die Einstufung in eine andere Leistungsgruppe, so gehören hierzu unter anderem:  
 
 Männliche Angestellte
@@ -842,51 +801,33 @@ C. Knappschaftliche Rentenversicherung
 I. Arbeiter  
 a) Arbeiter unter Tage  
 Leistungsgruppe 1  
-Hauer im Gedinge und sonstige Gedingearbeiter.  
-Leistungsgruppe 2  
+Hauer im Gedinge und sonstige Gedingearbeiter. Leistungsgruppe 2  
   
-Gelernte Grubenhandwerker und Arbeiter, die eine Tätigkeit mit entsprechender Entlohnung (Schichtlohn in oberen Lohnklassen) verrichten.  
-Leistungsgruppe 3  
-Sonstige Schichtlohnarbeiter.  
-b) Arbeiter über Tage  
+Gelernte Grubenhandwerker und Arbeiter, die eine Tätigkeit mit entsprechender Entlohnung (Schichtlohn in oberen Lohnklassen) verrichten. Leistungsgruppe 3  
+Sonstige Schichtlohnarbeiter. b) Arbeiter über Tage  
 Leistungsgruppe 1  
-Gelernte Handwerker und Arbeiter, die eine Tätigkeit mit entsprechender Entlohnung (Schichtlohn in oberen Lohnklassen) verrichten.  
-Leistungsgruppe 2  
-Sonstige Arbeiter.  
-II. Angestellte  
+Gelernte Handwerker und Arbeiter, die eine Tätigkeit mit entsprechender Entlohnung (Schichtlohn in oberen Lohnklassen) verrichten. Leistungsgruppe 2  
+Sonstige Arbeiter. II. Angestellte  
 Technische Angestellte unter Tage  
 Leistungsgruppe 1  
-Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis, soweit sie außerhalb der Gehaltstarife stehen, und Fahrsteiger.  
-Leistungsgruppe 2  
-Abteilungsleiter und die ihnen gleichstehenden technischen Angestellten.  
-Leistungsgruppe 3  
-Grubensteiger und die ihnen gleichstehenden technischen Angestellten.  
-Leistungsgruppe 4  
-Oberhauer, Fahrhauer und die ihnen gleichstehenden technischen Angestellten.  
-b) Technische Angestellte über Tage  
+Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis, soweit sie außerhalb der Gehaltstarife stehen, und Fahrsteiger. Leistungsgruppe 2  
+Abteilungsleiter und die ihnen gleichstehenden technischen Angestellten. Leistungsgruppe 3  
+Grubensteiger und die ihnen gleichstehenden technischen Angestellten. Leistungsgruppe 4  
+Oberhauer, Fahrhauer und die ihnen gleichstehenden technischen Angestellten. b) Technische Angestellte über Tage  
 Leistungsgruppe 1  
-Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis, soweit sie außerhalb der Gehaltstarife stehen.  
-Leistungsgruppe 2  
+Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis, soweit sie außerhalb der Gehaltstarife stehen. Leistungsgruppe 2  
   
-Maschinen-, Elektro- und Kokereisteiger, denen die in Leistungsgruppe 3 aufgeführten technischen Angestellten über Tage unterstellt sind, sowie die ihnen gleichstehenden technischen Angestellten.  
-Leistungsgruppe 3  
-Sonstige Maschinen-, Elektro- und Kokereisteiger sowie die ihnen gleichstehenden technischen Angestellten.  
-Leistungsgruppe 4  
-Meister und die ihnen gleichstehenden technischen Angestellten.  
-c) Kaufmännische Angestellte  
+Maschinen-, Elektro- und Kokereisteiger, denen die in Leistungsgruppe 3 aufgeführten technischen Angestellten über Tage unterstellt sind, sowie die ihnen gleichstehenden technischen Angestellten. Leistungsgruppe 3  
+Sonstige Maschinen-, Elektro- und Kokereisteiger sowie die ihnen gleichstehenden technischen Angestellten. Leistungsgruppe 4  
+Meister und die ihnen gleichstehenden technischen Angestellten. c) Kaufmännische Angestellte  
 Leistungsgruppe 1  
-Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis, soweit sie außerhalb der Gehaltstarife stehen.  
-Leistungsgruppe 2  
-Angestellte, die selbständig in eigener Verantwortung als erste Angestellte in den Geschäftsabteilungen der größeren Hauptverwaltungen und der selbständigen Zechenanlagen beschäftigt sind und nicht außerhalb der Tarifabkommen stehen. Voraussetzung ist, daß ihre Tätigkeit sich von derjenigen der übrigen Angestellten als eine übergeordnete abhebt und ihnen im allgemeinen mindestens drei Angestellte unterstehen.  
-Leistungsgruppe 3  
-Angestellte, die eine abgeschlossene kaufmännische Ausbildung oder entsprechende Vorbildung haben, alle in ihrem Geschäftsbereich vorkommenden Arbeiten selbständig verrichten und deren Tätigkeit über den Rahmen der übrigen Angestellten (Leistungsgruppen 4 und 5) hinausgeht. Sie müssen mindestens sechs Dienstjahre als Angestellte auf einer Zeche oder bei einem gleichartigen Unternehmen beschäftigt sein.  
-Leistungsgruppe 4  
-Angestellte, deren Tätigkeit in der Erledigung der in den Büros oder Verwaltungen üblicherweise vorkommenden Arbeiten besteht.  
-Leistungsgruppe 5  
+Angestellte in leitender Stellung mit Aufsichts- und Dispositionsbefugnis, soweit sie außerhalb der Gehaltstarife stehen. Leistungsgruppe 2  
+Angestellte, die selbständig in eigener Verantwortung als erste Angestellte in den Geschäftsabteilungen der größeren Hauptverwaltungen und der selbständigen Zechenanlagen beschäftigt sind und nicht außerhalb der Tarifabkommen stehen. Voraussetzung ist, daß ihre Tätigkeit sich von derjenigen der übrigen Angestellten als eine übergeordnete abhebt und ihnen im allgemeinen mindestens drei Angestellte unterstehen. Leistungsgruppe 3  
+Angestellte, die eine abgeschlossene kaufmännische Ausbildung oder entsprechende Vorbildung haben, alle in ihrem Geschäftsbereich vorkommenden Arbeiten selbständig verrichten und deren Tätigkeit über den Rahmen der übrigen Angestellten (Leistungsgruppen 4 und 5) hinausgeht. Sie müssen mindestens sechs Dienstjahre als Angestellte auf einer Zeche oder bei einem gleichartigen Unternehmen beschäftigt sein. Leistungsgruppe 4  
+Angestellte, deren Tätigkeit in der Erledigung der in den Büros oder Verwaltungen üblicherweise vorkommenden Arbeiten besteht. Leistungsgruppe 5  
 Angestellte, deren Tätigkeit in der Erledigung einfacher Arbeiten besteht.
 
-
-## Anlage 2
+# Anlage 2
 
 Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 14;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -925,8 +866,7 @@ Weibliche Angestellte der Leistungsgruppe
 
  
 
-
-## Anlage 3
+# Anlage 3
 
 Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 14;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -981,8 +921,7 @@ unter Tage
 
 1948 bis 1967
 
-
-## Anlage 4
+# Anlage 4
 
 Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 15
 
@@ -1140,8 +1079,7 @@ VI
 
 V
 
-
-## Anlage 5
+# Anlage 5
 
 (Fundstelle: BGBl. I 2006, S. 1881 - 1882;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1960,8 +1898,7 @@ Arbeiter in der Forstwirtschaft der Leistungsgruppe
 
 31.116
 
-
-## Anlage 6
+# Anlage 6
 
 (Fundstelle: BGBl. Teil III 824-2, S. 16)
 
@@ -2212,8 +2149,7 @@ III
 
 III
 
-
-## Anlage 7
+# Anlage 7
 
 (Fundstelle: BGBl. I 2006 S. 1883 - 1884)
 
@@ -2931,8 +2867,7 @@ Arbeiterinnen in der Forstwirtschaft
 
 21.912
 
-
-## Anlage 8
+# Anlage 8
 
 (Fundstelle: BGBl. Teil III 824-2, S. 17)
 
@@ -3146,8 +3081,7 @@ D
 
 C
 
-
-## Anlage 9
+# Anlage 9
 
 (Fundstelle: BGBl. I 2006, S. 1884 - 1885;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3762,8 +3696,7 @@ Angestellte der Leistungsgruppe
 
 30.420
 
-
-## Anlage 10
+# Anlage 10
 
 (Fundstelle: BGBl. Teil III 824-2, S. 18)
 
@@ -3977,8 +3910,7 @@ C
 
 C
 
-
-## Anlage 11
+# Anlage 11
 
 (Fundstelle: BGBl. I 2006 S. 1885 - 1887;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4592,8 +4524,7 @@ Angestellte der Leistungsgruppe
 
 26.568
 
-
-## Anlage 12
+# Anlage 12
 
 (Fundstelle: BGBl. Teil III 824-2, S. 19)
 
@@ -4656,8 +4587,7 @@ VI
 
 V
 
-
-## Anlage 13
+# Anlage 13
 
 (Fundstelle: BGBl. I 2006 S. 1887 - 1888)
 
@@ -5266,21 +5196,18 @@ unter Tage
 
 32.304
 
-
-## Anlage 14
+# Anlage 14
 
 (Inhalt: nicht darstellbare Tabelle,  
 Fundstelle BGBl Teil III 824-2, S. 20)
 
-
-## Anlage 15
+# Anlage 15
 
 ( Inhalt: nicht darstellbare Tabelle,  
 Fundstelle BGBl I 2006 S. 1888 - 1890;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-
-## Anlage 16
+# Anlage 16
 
 (Fundstelle: BGBl. Teil III 824-2, S. 20)
 
@@ -5372,8 +5299,7 @@ bis 31. Dezember 1912 ...........
 
 11,82
 
-
-## Anlage 17 – Entgeltpunkte für jedes volle Kalenderjahr unterteilt nach Wirtschaftsbereichen und Leistungsgruppen
+# Anlage 17 – Entgeltpunkte für jedes volle Kalenderjahr unterteilt nach Wirtschaftsbereichen und Leistungsgruppen
 
 ( Inhalt: Nicht darstellbare Tabelle,  
 Fundstelle: BGBl. I 1989, 2369 - 2370 )

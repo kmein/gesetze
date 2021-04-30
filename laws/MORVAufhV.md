@@ -1,10 +1,7 @@
-# [MORVAufhV] Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker
-
-Ausfertigungsdatum: 17.12.2010
-
+% Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker
+% Ausfertigungsdatum: 17.12.2010
  
-
-## § 1 – Aufhebung von Vorschriften
+# § 1 – Aufhebung von Vorschriften
 
 Es werden aufgehoben:
 
@@ -12,7 +9,6 @@ Es werden aufgehoben:
 
 2. die Subventionsverordnung Zucker vom 31. Januar 1975 (BGBl. I S. 446), die zuletzt durch Artikel 40 des Gesetzes vom 13. April 2006 (BGBl. I S. 855) geändert worden ist.
 
-
-## § 2 – Weiteranwendung von Vorschriften
+# § 2 – Weiteranwendung von Vorschriften
 
 Die Zucker-Lagerkostenausgleichs-Verordnung ist auf Sachverhalte, die vor dem 27. Dezember 2010 entstanden sind und deren Abwicklung weiter anzuwenden.

@@ -1,20 +1,15 @@
-# [RebPflV 1986] Rebenpflanzgutverordnung
-
-Ausfertigungsdatum: 21.01.1986
-
+% Rebenpflanzgutverordnung
+% Ausfertigungsdatum: 21.01.1986
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 3 Nr. 1, des § 5 Abs. 1 Nr. 1, 5 und 6, des § 9 Abs. 1, des § 10 Abs. 3, des § 22 Abs. 1 Nr. 1, 4 und 5 und Abs. 2 und der §§ 25 und 61 des Saatgutverkehrsgesetzes vom 20. August 1985 (BGBl. I S. 1633) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für Pflanzgut von Rebe.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -63,13 +58,11 @@ b) bei Wurzelreben und Pfropfreben die vom Erzeuger verwendete Nummer der Partie
 
 16. RNQPs: unionsgeregelte Nicht-Quarantäneschädlinge (regulated non-quarantine pests) im Sinne des Artikels 36 der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über Maßnahmen zum Schutz vor Pflanzenschädlingen, zur Änderung der Verordnungen (EU) Nr. 228/2013, (EU) Nr. 652/2014 und (EU) Nr. 1143/2014 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/EG, 2000/29/EG, 2006/91/EG und 2007/33/EG des Rates (ABl. L 317 vom 23.11.2016, S. 4; L 35 vom 7.2.2020, S. 51), die durch die Verordnung (EU) 2017/625 (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 322 vom 18.12.2018, S. 85) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 2a – Gestattung des Inverkehrbringens von Standardpflanzgut
+# § 2a – Gestattung des Inverkehrbringens von Standardpflanzgut
 
 Standardpflanzgut, außer Standardpflanzgut von Unterlagsreben, darf zu gewerblichen Zwecken in den Verkehr gebracht werden.
 
-
-## § 3 – Anerkennungsstelle
+# § 3 – Anerkennungsstelle
 
 (1) Der Antrag auf Anerkennung ist bei der Anerkennungsstelle zu stellen, in deren Bereich der Betrieb liegt, in dem das Pflanzgut aufwächst. Liegt eine Vermehrungsfläche nicht im Bereich dieser Anerkennungsstelle, so kann der Antrag auf Anerkennung für Pflanzgut von dieser Fläche auch bei der Anerkennungsstelle gestellt werden, in deren Bereich die Vermehrungsfläche liegt; der Antrag ist bei dieser Anerkennungsstelle zu stellen, wenn der Betrieb im Ausland liegt.
 
@@ -77,8 +70,7 @@ Standardpflanzgut, außer Standardpflanzgut von Unterlagsreben, darf zu gewerbli
 
 (3) Der Antrag auf Anerkennung von Pflanzgut nach § 10 Abs. 1 des Saatgutverkehrsgesetzes ist bei der Anerkennungsstelle zu stellen, die für den Betriebssitz des Antragstellers zuständig ist.
 
-
-## § 4 – Antrag
+# § 4 – Antrag
 
 (1) Der Antrag auf Anerkennung ist bis zum 15. Juni, für Topfreben und Kartonagereben bis zum 1. Juli, zu stellen. Die Anerkennungsstelle kann hiervon Ausnahmen genehmigen, wenn Besonderheiten des Anbau- und Kultivierungsverfahrens oder des Verfahrens der Sortenzulassung dies rechtfertigen. Für Anträge auf Anerkennung von Pflanzgut im Falle des § 10 Abs. 1 des Saatgutverkehrsgesetzes kann die in § 3 Abs. 3 genannte Behörde einen von Satz 1 abweichenden Zeitpunkt bestimmen.
 
@@ -108,8 +100,7 @@ b) bei dem die in Anlage 1 Nummer 2.3.3 für Mutterrebenbestände zur Erzeugung 
 
 (6) Im Fall von Standardpflanzgut, das aus einem Klon erwächst, sind im Antrag die Kategorie, die Rebsorte und der Klon des jeweiligen Mutterrebenbestandes anzugeben. Soweit der Mutterrebenbestand aus einem erhaltungszüchterisch bearbeiteten Klon erwächst, kann der Antrag nur durch den eingetragenen Züchter oder mit seiner Zustimmung gestellt werden.
 
-
-## § 5 – Anforderungen an die Vermehrungsfläche
+# § 5 – Anforderungen an die Vermehrungsfläche
 
 (1) Pflanzgut wird nur anerkannt, wenn der Kulturzustand der Vermehrungsfläche eine ordnungsgemäße Bearbeitung und Behandlung erkennen lässt.
 
@@ -119,13 +110,11 @@ b) bei dem die in Anlage 1 Nummer 2.3.3 für Mutterrebenbestände zur Erzeugung 
 
 (4) Eine Bescheinigung der zuständigen Behörde oder zuständigen Stelle des Pflanzenschutzdienstes ist auch erforderlich für die Vermehrungsflächen, auf denen Pflanzgut von Zierreben oder Tafeltrauben erzeugt wird. Absatz 3 Satz 2 bis 4 gilt entsprechend. Die Bescheinigung darf zum Zeitpunkt des Aufwuchses der erstmaligen Vermehrung des Pflanzgutes der Zierreben oder Tafeltrauben nicht älter als fünf Jahre sein. Die Bescheinigung ist der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 6 – Anforderungen an den Rebenbestand und an die Beschaffenheit des Pflanzgutes
+# § 6 – Anforderungen an den Rebenbestand und an die Beschaffenheit des Pflanzgutes
 
 Die Anforderungen an den Rebenbestand, einschließlich der Anforderungen hinsichtlich des Befalls mit RNQPs, ergeben sich aus Anlage 1. Die Anforderungen an die Beschaffenheit des Pflanzgutes ergeben sich aus Anlage 2.
 
-
-## § 7 – Rebenbestandsprüfung
+# § 7 – Rebenbestandsprüfung
 
 (1) Jede Vermehrungsfläche und jeder Bestand von Topfreben und Kartonagereben ist im Jahr der Pflanzguterzeugung mindestens einmal durch Bestandsbesichtigung auf das Vorliegen der Anforderungen an den Rebenbestand zu prüfen, und zwar bei
 
@@ -139,25 +128,21 @@ Die Anforderungen an den Rebenbestand, einschließlich der Anforderungen hinsich
 
 (3) Erweist sich der Rebenbestand auf einem Teil einer zusammenhängenden Vermehrungsfläche als für die Anerkennung nicht geeignet, so wird der Rebenbestand der restlichen Vermehrungsfläche nur berücksichtigt, wenn er deutlich abgegrenzt worden ist.
 
-
-## § 8 – Mängel des Rebenbestandes
+# § 8 – Mängel des Rebenbestandes
 
 Soweit Mängel des Rebenbestandes behoben werden können, wird auf einen spätestens zehn Werktage nach Mitteilung der Mängel vom Antragsteller oder Vermehrer gestellten Antrag in angemessener Frist eine Nachbesichtigung durchgeführt. Werden Rebschulen, in denen äußere Anzeichen des Befalls mit den in Anlage 1 Nummer 2.1 Buchstabe c Doppelbuchstabe bb bis ee genannten Viren festgestellt worden sind, einer Nachbesichtigung unterzogen, muss für das Bestehen der Nachbesichtigung unter Anwendung eines geeigneten Testverfahrens festgestellt werden, dass diese Viren nicht mehr nachweisbar sind.
 
-
-## § 9 – Mitteilung des Ergebnisses der Rebenbestandsprüfung
+# § 9 – Mitteilung des Ergebnisses der Rebenbestandsprüfung
 
 Das Ergebnis der Rebenbestandsprüfung wird dem Antragsteller und dem Vermehrer schriftlich mitgeteilt; im Falle mehrfacher Bestandsbesichtigung oder mehrfacher Nachbesichtigung jedoch erst nach der letzten Besichtigung oder Nachbesichtigung.
 
-
-## § 10 – Wiederholungsbesichtigung
+# § 10 – Wiederholungsbesichtigung
 
 (1) Der Antragsteller oder Vermehrer kann innerhalb von zehn Werktagen nach Zugang der Mitteilung nach § 9 eine Wiederholung der Besichtigung (Wiederholungsbesichtigung) beantragen. Die Wiederholungsbesichtigung findet statt, wenn durch Darlegung von Umständen glaubhaft gemacht wird, daß das mitgeteilte Ergebnis der Prüfung nicht den tatsächlichen Verhältnissen entspricht.
 
 (2) Die Wiederholungsbesichtigung soll von einem anderen Prüfer vorgenommen werden. In der Zeit zwischen der letzten Besichtigung und der Wiederholungsbesichtigung darf der Rebenbestand nicht verändert werden. § 9 gilt entsprechend.
 
-
-## § 11 – Beschaffenheitsprüfung
+# § 11 – Beschaffenheitsprüfung
 
 (1) Die Beschaffenheit wird an dem aufbereiteten und für das Inverkehrbringen zu gewerblichen Zwecken in Packungen oder Bündeln abgepackten Pflanzgut, bei Topfreben und Kartonagereben an dem zur Prüfung vorgestellten Pflanzgut geprüft. Die Packungen oder Bündel müssen mindestens die zur Kennzeichnung angegebene Stückzahl nach Maßgabe der Anlage 3 enthalten.
 
@@ -173,8 +158,7 @@ b) schriftlich erklärt hat, daß die Partie ausschließlich aus Rebenbeständen
 
 (3) Ergibt die Prüfung, daß die Anforderungen nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag eine weitere Beschaffenheitsprüfung, wenn durch Darlegung von Umständen glaubhaft gemacht wird, daß der festgestellte Mangel beseitigt ist.
 
-
-## § 12 – Bescheid
+# § 12 – Bescheid
 
 (1) In dem Bescheid über den Antrag auf Anerkennung sind anzugeben:
 
@@ -208,8 +192,7 @@ c) die Anerkennungsnummer.
 
 (5) Erfüllt Pflanzgut, dessen Anerkennung als Basispflanzgut beantragt worden ist, nicht die Anforderungen für Basispflanzgut, so wird es auf Antrag als Zertifiziertes Pflanzgut anerkannt, wenn es aus anerkanntem Vorstufenpflanzgut erwachsen ist und die Anforderungen für Zertifiziertes Pflanzgut erfüllt.
 
-
-## § 13 – Nachprüfung
+# § 13 – Nachprüfung
 
 (1) Die Anerkennungsstelle prüft, soweit sie dies für erforderlich hält, anerkanntes Pflanzgut daraufhin nach, ob es sortenecht ist und erkennen läßt, daß die Anforderungen an den Gesundheitszustand erfüllt waren. Für die Nachprüfung können bei der Beschaffenheitsprüfung nach § 11 Proben von bis zu 50 Stück je Partie entnommen werden.
 
@@ -221,23 +204,19 @@ c) die Anerkennungsnummer.
 
 (3) Die Anerkennungsstelle leitet die erforderlichen Proben in den Fällen des Absatzes 2 dem Bundessortenamt zu.
 
-
-## § 14 – Verfahren für die Nachprüfung durch Anbau
+# § 14 – Verfahren für die Nachprüfung durch Anbau
 
 Die Nachprüfung durch Anbau soll in der der Probenahme folgenden Vegetationsperiode durchgeführt werden. Die Proben für die Nachprüfung durch Anbau sind zusammen mit Vergleichsproben anzubauen.
 
-
-## § 15 – Rücknahme der Anerkennung
+# § 15 – Rücknahme der Anerkennung
 
 Wird auf Grund des Ergebnisses der Nachprüfung die Anerkennung zurückgenommen und ist der Antragsteller nicht mehr im Besitz des Pflanzgutes, so hat er der Anerkennungsstelle Namen und Anschrift desjenigen mitzuteilen, an den er das Pflanzgut abgegeben hat. Dies gilt entsprechend für den Erwerber dieses Pflanzgutes. Die Anerkennungsstelle, welche die Anerkennung zurückgenommen hat, hat die für den Besitzer des Pflanzgutes zuständige Anerkennungsstelle unter Angabe der Pflanzgutart (§ 2 Nr. 1), der Sortenbezeichnung und der Bezeichnung des Klones sowie der Anerkennungsnummer oder Betriebsnummer des Erzeugers von der Rücknahme zu unterrichten.
 
-
-## § 16 – Verpackung
+# § 16 – Verpackung
 
 Wer Edelreiser, veredelungsfähige Unterlagsreben, Blindholz, Wurzelreben und Pfropfreben zu gewerblichen Zwecken in den Verkehr bringt oder zu gewerblichen Zwecken oder sonst zu Erwerbszwecken einführt, hat dafür zu sorgen, dass sie in Packungen oder Bündeln entsprechend den Anforderungen der Anlage 3 verpackt sind.
 
-
-## § 17 – Etikett
+# § 17 – Etikett
 
 (1) Vor der Beschaffenheitsprüfung nach § 11 ist jede Packung oder jedes Bündel Pflanzgutes durch den Antragsteller oder den von ihm Beauftragten mit einem Etikett zu kennzeichnen.
 
@@ -245,8 +224,7 @@ Wer Edelreiser, veredelungsfähige Unterlagsreben, Blindholz, Wurzelreben und Pf
 
 (3) (weggefallen)
 
-
-## § 17a – Pflanzenpass
+# § 17a – Pflanzenpass
 
 (1) Für Pflanzgut, für das in dieser Verordnung besondere Anforderungen hinsichtlich des Befalls mit RNQPs vorgeschrieben sind, bleiben die folgenden Vorschriften unberührt:
 
@@ -262,8 +240,7 @@ Dies gilt insbesondere für die Vorschriften der in Satz 1 genannten Rechtsakte,
 
 (3) Ein Pflanzenpass ist auch Voraussetzung für das Inverkehrbringen von Pflanzgut von Zierreben und Tafeltrauben. Das Pflanzgut muss hinsichtlich des Befalls mit den in Anlage 1 Nummer 2.1 aufgeführten RNQPs die an Standardpflanzgut gestellten Anforderungen erfüllen. Beim Inverkehrbringen ist dieses Pflanzgut mit einem Pflanzenpass zu kennzeichnen, der die nach den in Absatz 1 genannten Rechtsakten erforderlichen Angaben enthält. Sofern in einem Unternehmen oder auf Produktionsstätten sowohl anerkanntes Pflanzgut als auch Pflanzgut von Zierreben oder Tafeltrauben hergestellt oder vermehrt wird, ist der Pflanzenpass von der zuständigen Behörde auszustellen.
 
-
-## § 18 – Angaben in besonderen Fällen
+# § 18 – Angaben in besonderen Fällen
 
 (1) Die Packungen oder Bündel von anerkanntem Pflanzgut müssen bei Pflanzgut, das nach § 4 Abs. 2 des Saatgutverkehrsgesetzes anerkannt worden oder das nicht zum Anbau in einem Mitgliedstaat bestimmt ist (§ 30 Abs. 2 Satz 1 Nr. 5 des Saatgutverkehrsgesetzes), zusätzlich die Angabe "Zur Ausfuhr außerhalb der EU" tragen.
 
@@ -271,8 +248,7 @@ Dies gilt insbesondere für die Vorschriften der in Satz 1 genannten Rechtsakte,
 
 (3) Die Packungen oder Bündel mit eingeführtem Pflanzgut, für das eine nach § 16 des Saatgutverkehrsgesetzes gleichgestellte Anerkennung vorliegt, müssen in der in Rechtsakten von Organen der Europäischen Gemeinschaften bestimmten Form gekennzeichnet sein. Soweit die Packungen oder Bündel nicht in deutscher Sprache gekennzeichnet oder die Angaben zur Kennzeichnung nicht in die deutsche Sprache übersetzt sind, sind sie nach Ankunft am ersten Bestimmungsort im Inland mit einem Zusatzetikett zu versehen, das die Angaben des Originaletikettes in deutscher Sprache enthält. Die Sätze 1 und 2 gelten nicht, wenn am ersten Bestimmungsort im Inland das Pflanzgut veredelt, bewurzelt oder in kleinen Mengen an Letztverbraucher abgegeben werden soll.
 
-
-## § 19 – Schließung der Packungen und Bündel
+# § 19 – Schließung der Packungen und Bündel
 
 (1) Der Antragsteller oder der von ihm Beauftragte hat Bündel vor und Packungen sofort nach der Beschaffenheitsprüfung zu schließen und mit einer Verschlußsicherung zu versehen.
 
@@ -288,18 +264,15 @@ Die Plombe trägt die Aufschrift "Anerkanntes Pflanzgut" und die Betriebsnummer.
 
 (4) Die nach Anlage 4 erforderliche Betriebsnummer wird Betrieben, die Pflanzgut bündeln, von der Anerkennungsstelle, in deren Bereich der Betrieb liegt, auf Antrag festgesetzt. Die Betriebsnummer setzt sich aus den Buchstaben DE, einer Zahl und dem Kennzeichen der Anerkennungsstelle zusammen.
 
-
-## § 19a – Aufbewahrungspflicht
+# § 19a – Aufbewahrungspflicht
 
 Der Erwerber von Rebenpflanzgut hat, soweit er der Letztverbraucher ist, je Pflanzgutpartie ein amtliches Etikett ein Jahr lang nach dem Empfang der Partie aufzubewahren. Satz 1 gilt nicht in den Fällen der §§ 20 und 21.
 
-
-## § 20 – Topfreben und Kartonagereben
+# § 20 – Topfreben und Kartonagereben
 
 Topfreben und Kartonagereben dürfen ungebündelt zu gewerblichen Zwecken in den Verkehr gebracht werden, sofern dem Erwerber bei der Übergabe eine Kopie des amtlichen Etiketts ausgehändigt wird; die Vorschriften der §§ 17 und 18 über die Kennzeichnung und des § 19 über die Schließung sind nicht anzuwenden. Wer Topfreben und Kartonagereben nach Satz 1 in den Verkehr bringt, hat das Pflanzgut in nach Sorten oder Klonen sowie nach Stückzahlen je Packung getrennten und entsprechend bezeichneten Partien aufzubewahren.
 
-
-## § 21 – Abgabe in kleinen Mengen
+# § 21 – Abgabe in kleinen Mengen
 
 Zertifiziertes Pflanzgut und Standardpflanzgut darf aus vorschriftsmäßig gekennzeichneten und verschlossenen Packungen oder Bündeln bis zu der niedrigsten in Anlage 3 Nr. 1 Spalte 2 jeweils festgesetzten Stückzahl ungekennzeichnet und ohne verschlossene Verpackung an Letztverbraucher abgegeben werden, sofern dem Erwerber auf Verlangen bei der Übergabe schriftlich angegeben werden:
 
@@ -313,8 +286,7 @@ Zertifiziertes Pflanzgut und Standardpflanzgut darf aus vorschriftsmäßig geken
 
 5. die Anerkennungsnummer oder die Betriebsnummer des Erzeugers.
 
-
-## § 22 – Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
+# § 22 – Kennzeichnung von nicht anerkanntem Pflanzgut in besonderen Fällen
 
 Wird Pflanzgut, das nicht anerkannt ist, in den Fällen des § 3 Abs. 1 Nr. 5, 6 und 8 und Abs. 2 des Saatgutverkehrsgesetzes zu gewerblichen Zwecken in den Verkehr gebracht oder nach § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes abgegeben, so ist jede Packung oder jedes Bündel mit einem besonderen Etikett zu versehen. Dieses Etikett muß folgende Angaben enthalten:
 
@@ -338,18 +310,15 @@ e) des § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des Saatgutverkehrsgesetzes de
 
 Satz 1 gilt nicht für Topfreben oder Kartonagereben, wenn die in Satz 2 vorgeschriebenen Angaben schriftlich gegenüber dem Erwerber bei der Übergabe gemacht werden.
 
-
-## § 23 – Inkrafttreten
+# § 23 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
-
-## Anlage 1 – (zu § 4 Abs. 3, § 6 Satz 1)Anforderungen an den Rebenbestand
+# Anlage 1 – (zu § 4 Abs. 3, § 6 Satz 1)Anforderungen an den Rebenbestand
 
 (Fundstelle: BGBl. I 2006, 1440 - 1441;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -517,8 +486,7 @@ Topfreben und Kartonagereben
 
 Das Pflanzgut muss deutlich getrennt nach den jeweiligen Kombinationen vorgestellt werden.
 
-
-## Anlage 2 – (zu § 6 Satz 2)Anforderungen an die Beschaffenheit des Pflanzgutes
+# Anlage 2 – (zu § 6 Satz 2)Anforderungen an die Beschaffenheit des Pflanzgutes
 
 (Fundstelle: BGBl. I 2006, 1441 - 1442;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -553,8 +521,7 @@ Besondere Anforderungen
 2.1  
 Veredelungsfähige Unterlagsreben, Blindholz und Edelreiser
 
-A.  
-Durchmesser
+A. Durchmesser
 
 Es wird der größte Durchmesser des Querschnitts gemessen. Diese Norm gilt nicht für grüne Triebe.
 
@@ -570,23 +537,20 @@ b) Blindholz:
 
 Mindestdurchmesser am schwächeren Ende: 3,5 mm.
 
-B.  
-Augenzahl
+B. Augenzahl
 
 Bei Edelreisern beträgt die Zahl der veredelungsfähigen Augen entweder 1 oder mindestens 5.
 
 2.2  
 Wurzelreben
 
-A.  
-Durchmesser
+A. Durchmesser
 
 Der größte Durchmesser, gemessen in der Mitte des Internodiums unter dem obersten Trieb beträgt mindestens 5 mm.
 
 Diese Norm gilt nicht für Wurzelreben aus grünen Trieben.
 
-B.  
-Länge
+B. Länge
 
 Die Mindestlänge vom untersten Wurzelansatz bis zum Ansatz des obersten Triebes beträgt mindestens:
 
@@ -596,43 +560,36 @@ b) 20 cm bei anderen Wurzelreben.
 
 Diese Norm gilt nicht für Wurzelreben aus grünen Trieben.
 
-C.  
-Wurzeln
+C. Wurzeln
 
 Jede Pflanze muss mindestens 3 gut entwickelte und hinreichend gut verteilte Wurzeln haben. Die Sorte 420 A braucht jedoch nur 2 gut entwickelte Wurzeln zu haben, sofern diese gegenständig sind.
 
-D.  
-Fuß
+D. Fuß
 
 Der Schnitt muss so weit unterhalb des Diaphragmas erfolgen, dass dieses nicht beschädigt wird, darf jedoch nicht mehr als 1 cm darunter liegen.
 
 2.3  
 Pfropfreben
 
-A.  
-Länge
+A. Länge
 
 Die Länge der Wurzelstange beträgt mindestens 20 cm.
 
 Diese Norm gilt nicht für Pfropfreben aus grünen Trieben.
 
-B.  
-Wurzeln
+B. Wurzeln
 
 Jede Pflanze muss mindestens 3 gut entwickelte und hinreichend gut verteilte Wurzeln haben. Die Sorte 420 A braucht jedoch nur 2 gut entwickelte Wurzeln zu haben, sofern diese gegenständig sind.
 
-C.  
-Veredelungsstelle
+C. Veredelungsstelle
 
 Jede Pflanze ist an der Veredelungsstelle bei allseitiger Kallusbildung gleichmäßig und hinreichend fest verwachsen.
 
-D.  
-Fuß
+D. Fuß
 
 Der Schnitt muss so weit unterhalb des Diaphragmas erfolgen, dass dieses nicht beschädigt wird, darf jedoch nicht mehr als 1 cm darunter liegen.
 
-
-## Anlage 3 – (zu § 11 Abs. 1, § 16, § 21 Abs. 1)  Verpackung
+# Anlage 3 – (zu § 11 Abs. 1, § 16, § 21 Abs. 1)  Verpackung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1442)
 
@@ -710,8 +667,7 @@ Erforderlichenfalls kann die Stückzahl des in den Packungen und Bündeln der in
 Topfreben und Kartonagereben  
 Die in der Tabelle nach Nummer 1 aufgeführten Stückzahlen und Höchstmengen finden keine Anwendung.
 
-
-## Anlage 4 – (zu § 17 Absatz 2, § 17a, § 19 Absatz 4)Angaben auf dem Etikett
+# Anlage 4 – (zu § 17 Absatz 2, § 17a, § 19 Absatz 4)Angaben auf dem Etikett
 
 (Fundstelle: BGBl. I 1986, 213;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -1,10 +1,7 @@
-# [WZG§4CSKFINBek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 14.01.1992
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 14.01.1992
  
-
-## ----
+# ----
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden amtliche Prüf- und Gewährzeichen bekanntgemacht, die
 
@@ -14,17 +11,13 @@ in der Tschechischen und Slowakischen Föderativen Republik (Anlage 1),
 \-  
 in der Republik Finnland (Anlage 2)
 
-eingeführt sind.  
-Die Bekanntmachung vom 19. Januar 1983 (BGBl. I S. 47) tritt hinsichtlich der in ihrer Anlage 2 aufgeführten Prüf- und Gewährzeichen der Tschechoslowakischen Sozialistischen Republik außer Kraft.  
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 22. August 1991 (BGBl. I S. 1926).
+eingeführt sind. Die Bekanntmachung vom 19. Januar 1983 (BGBl. I S. 47) tritt hinsichtlich der in ihrer Anlage 2 aufgeführten Prüf- und Gewährzeichen der Tschechoslowakischen Sozialistischen Republik außer Kraft. Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 22. August 1991 (BGBl. I S. 1926).
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 Amtliche Prüfzeichen der Tschechischen und Slowakischen Föderativen Republik ab 1991 für Meßgeräte
 
@@ -68,12 +61,11 @@ C
 
 Eichzeichen, das durch die vom Bundesamt für Normen und Maße zugelassenen Unternehmen an einem Prüfgerät angebracht wird. Das Eichzeichen besteht aus dem Buchstaben C mit der das Unternehmen kennzeichnenden Nummer.
 
-
-## Anlage 2 – Nordisches Umweltzeichen als amtliches Prüf- und Gewährzeichen für Finnland
+# Anlage 2 – Nordisches Umweltzeichen als amtliches Prüf- und Gewährzeichen für Finnland
 
 Fundstelle: BGBl. I 1992, 226)
 
   
   
-![](../normengrafiken/bgbl1_1992/j0226_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1992/j0226_0010.jpg)  
   

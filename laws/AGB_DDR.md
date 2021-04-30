@@ -1,10 +1,7 @@
-# [AGB DDR] Arbeitsgesetzbuch der Deutschen Demokratischen Republik
-
-Ausfertigungsdatum: 16.06.1977
-
+% Arbeitsgesetzbuch der Deutschen Demokratischen Republik
+% Ausfertigungsdatum: 16.06.1977
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 Präambel
 
@@ -112,22 +109,17 @@ Kapitel:
 
 (weggefallen) §§ 296 - 305
 
-
-## Präambel
+# Präambel
 
 \-
 
+# §§ 1 bis 37 – (weggefallen)
 
-## §§ 1 bis 37 – (weggefallen)
+# §§ 38 bis 50 – (weggefallen)
 
+# §§ 51 bis 57 – (weggefallen)
 
-## §§ 38 bis 50 – (weggefallen)
-
-
-## §§ 51 bis 57 – (weggefallen)
-
-
-## § 58
+# § 58
 
 (1) Der Arbeitgeber darf
 
@@ -140,42 +132,31 @@ nicht fristgemäß kündigen.
 
 (2) Im Falle der Stillegung von Betrieben oder Betriebsteilen ist ausnahmsweise eine fristgemäße Kündigung nach vorheriger schriftlicher Zustimmung des für den Betrieb oder Betriebsteil zuständigen Arbeitsamtes zulässig. Das Arbeitsamt nimmt bis zur Bestimmung einer anderen Behörde diese Zuständigkeit wahr.
 
-
-## § 59
+# § 59
 
 (1)
 
 (2) Zur fristlosen Kündigung der in § 58 Abs. 1 Buchstaben a und b genannten Arbeitnehmer ist die vorherige schriftliche Zustimmung des für den Betrieb oder Betriebsteil zuständigen Arbeitsamtes erforderlich. Die Zustimmung kann ausnahmsweise innerhalb einer Woche nach deren Ausspruch nachgeholt werden. Das Arbeitsamt nimmt bis zur Bestimmung einer anderen Behörde diese Zuständigkeit wahr. Der Arbeitgeber ist verpflichtet, den Arbeitnehmer über die Zustimmung zu unterrichten.
 
+# §§ 59a bis 61 – (weggefallen)
 
-## §§ 59a bis 61 – (weggefallen)
+# §§ 62 bis 66 – (weggefallen)
 
+# §§ 67 bis 70b – (weggefallen)
 
-## §§ 62 bis 66 – (weggefallen)
+# §§ 71 bis 94a – (weggefallen)
 
+# §§ 95 bis 115 – (weggefallen)
 
-## §§ 67 bis 70b – (weggefallen)
+# §§ 115a bis 115e – (weggefallen)
 
+# §§ 115f bis 128a – (weggefallen)
 
-## §§ 71 bis 94a – (weggefallen)
+# §§ 129 bis 159 – (weggefallen)
 
+# §§ 160 bis 167 – (weggefallen)
 
-## §§ 95 bis 115 – (weggefallen)
-
-
-## §§ 115a bis 115e – (weggefallen)
-
-
-## §§ 115f bis 128a – (weggefallen)
-
-
-## §§ 129 bis 159 – (weggefallen)
-
-
-## §§ 160 bis 167 – (weggefallen)
-
-
-## § 168
+# § 168
 
 (1)
 
@@ -185,29 +166,21 @@ nicht fristgemäß kündigen.
 
 (4)
 
+# §§ 169 bis 180 – (weggefallen)
 
-## §§ 169 bis 180 – (weggefallen)
+# §§ 181 bis 188a – (weggefallen)
 
+# §§ 189 bis 200a – (weggefallen)
 
-## §§ 181 bis 188a – (weggefallen)
+# §§ 201 bis 222 – (weggefallen)
 
+# §§ 223 bis 239 – (weggefallen)
 
-## §§ 189 bis 200a – (weggefallen)
+# §§ 240 und 241 – (weggefallen)
 
+# §§ 242 und 243 – (weggefallen)
 
-## §§ 201 bis 222 – (weggefallen)
-
-
-## §§ 223 bis 239 – (weggefallen)
-
-
-## §§ 240 und 241 – (weggefallen)
-
-
-## §§ 242 und 243 – (weggefallen)
-
-
-## § 244
+# § 244
 
 (1) Frauen erhalten Schwangerschaftsurlaub für die Dauer von 6 Wochen vor der Entbindung und Wochenurlaub für die Dauer von 20 Wochen nach der Entbindung. Bei Mehrlingsgeburten oder komplizierten Entbindungen beträgt der Wochenurlaub 22 Wochen.
 
@@ -217,45 +190,35 @@ nicht fristgemäß kündigen.
 
 (4) Für die Dauer des Schwangerschafts- und Wochenurlaubs erhalten die Frauen Schwangerschafts- und Wochengeld in Höhe des Nettodurchschnittsverdienstes von der Sozialversicherung.
 
-
-## § 245
+# § 245
 
 (1) Frauen ist auf Verlangen der jährliche Erholungsurlaub vor dem Schwangerschaftsurlaub oder unmittelbar im Anschluß an den Wochenurlaub zu gewähren.
 
 (2)
 
-
-## § 246
-
-\-
-
-
-## § 247
+# § 246
 
 \-
 
+# § 247
 
-## §§ 248 und 249 – (weggefallen)
+\-
 
+# §§ 248 und 249 – (weggefallen)
 
-## §§ 250 und 251 – (weggefallen)
+# §§ 250 und 251 – (weggefallen)
 
+# §§ 252 bis 266 – (weggefallen)
 
-## §§ 252 bis 266 – (weggefallen)
+# §§ 267 bis 273 – (weggefallen)
 
+# §§ 274 bis 305 – (weggefallen)
 
-## §§ 267 bis 273 – (weggefallen)
-
-
-## §§ 274 bis 305 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Vorsitzende des Staatsrates der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X  (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X  (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
 
 \- Kapitel VIII Sachgebiet A Abschnitt II (BGBl. II 1990, 1207) -  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen in Kraft:

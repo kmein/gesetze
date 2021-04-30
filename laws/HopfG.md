@@ -1,20 +1,15 @@
-# [HopfG] Hopfengesetz
-
-Ausfertigungsdatum: 21.10.1996
-
+% Hopfengesetz
+% Ausfertigungsdatum: 21.10.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für die Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die Zertifizierung, das Bescheinigungsverfahren, die Kontrolle nicht der Zertifizierung unterliegender Erzeugnisse, die Verarbeitung, das Vermischen, die Behandlung und das Inverkehrbringen der der gemeinsamen Marktorganisation für Hopfen unterliegenden Erzeugnisse.
 
-
-## § 2 – Ermächtigungen
+# § 2 – Ermächtigungen
 
 (1) Die Landesregierungen legen durch Rechtsverordnung zur Durchführung der in § 1 genannten Rechtsakte fest
 
@@ -56,8 +51,7 @@ erlassen.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung der in § 1 genannten Rechtsakte Bestimmungen über den Endtermin der Zertifizierung von Hopfen zu erlassen.
 
-
-## § 3 – Bußgeldvorschriften
+# § 3 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -71,18 +65,15 @@ erlassen.
 
 (4) Erzeugnisse im Sinne des § 1 und Gegenstände, auf die sich eine Ordnungswidrigkeit nach Absatz 1 bezieht, können eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 4 – Übertragung von Ermächtigungen
+# § 4 – Übertragung von Ermächtigungen
 
 Soweit dieses Gesetz die Landesregierungen zum Erlaß von Rechtsverordnungen ermächtigt, sind diese befugt, die Ermächtigung durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 (1) Die §§ 2 und 3 Abs. 3 treten am Tage nach der Verkündung in Kraft.
 

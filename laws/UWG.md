@@ -1,15 +1,11 @@
-# [UWG] Gesetz gegen den unlauteren Wettbewerb  (UWG)
-
-Ausfertigungsdatum: 03.07.2004
-
+% Gesetz gegen den unlauteren Wettbewerb  (UWG)
+% Ausfertigungsdatum: 03.07.2004
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucherinnen und Verbraucher sowie der sonstigen Marktteilnehmer vor unlauteren geschäftlichen Handlungen. Es schützt zugleich das Interesse der Allgemeinheit an einem unverfälschten Wettbewerb.
 
-
-## § 2 – Definitionen
+# § 2 – Definitionen
 
 (1) Im Sinne dieses Gesetzes bedeutet
 
@@ -33,8 +29,7 @@ Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucherinnen und Verbrau
 
 (2) Für den Verbraucherbegriff gilt § 13 des Bürgerlichen Gesetzbuchs entsprechend.
 
-
-## § 3 – Verbot unlauterer geschäftlicher Handlungen
+# § 3 – Verbot unlauterer geschäftlicher Handlungen
 
 (1) Unlautere geschäftliche Handlungen sind unzulässig.
 
@@ -44,13 +39,11 @@ Dieses Gesetz dient dem Schutz der Mitbewerber, der Verbraucherinnen und Verbrau
 
 (4) Bei der Beurteilung von geschäftlichen Handlungen gegenüber Verbrauchern ist auf den durchschnittlichen Verbraucher oder, wenn sich die geschäftliche Handlung an eine bestimmte Gruppe von Verbrauchern wendet, auf ein durchschnittliches Mitglied dieser Gruppe abzustellen. Geschäftliche Handlungen, die für den Unternehmer vorhersehbar das wirtschaftliche Verhalten nur einer eindeutig identifizierbaren Gruppe von Verbrauchern wesentlich beeinflussen, die auf Grund von geistigen oder körperlichen Beeinträchtigungen, Alter oder Leichtgläubigkeit im Hinblick auf diese geschäftlichen Handlungen oder die diesen zugrunde liegenden Waren oder Dienstleistungen besonders schutzbedürftig sind, sind aus der Sicht eines durchschnittlichen Mitglieds dieser Gruppe zu beurteilen.
 
-
-## § 3a – Rechtsbruch
+# § 3a – Rechtsbruch
 
 Unlauter handelt, wer einer gesetzlichen Vorschrift zuwiderhandelt, die auch dazu bestimmt ist, im Interesse der Marktteilnehmer das Marktverhalten zu regeln, und der Verstoß geeignet ist, die Interessen von Verbrauchern, sonstigen Marktteilnehmern oder Mitbewerbern spürbar zu beeinträchtigen.
 
-
-## § 4 – Mitbewerberschutz
+# § 4 – Mitbewerberschutz
 
 Unlauter handelt, wer
 
@@ -68,8 +61,7 @@ c) die für die Nachahmung erforderlichen Kenntnisse oder Unterlagen unredlich e
 
 4. Mitbewerber gezielt behindert.
 
-
-## § 4a – Aggressive geschäftliche Handlungen
+# § 4a – Aggressive geschäftliche Handlungen
 
 (1) Unlauter handelt, wer eine aggressive geschäftliche Handlung vornimmt, die geeignet ist, den Verbraucher oder sonstigen Marktteilnehmer zu einer geschäftlichen Entscheidung zu veranlassen, die dieser andernfalls nicht getroffen hätte. Eine geschäftliche Handlung ist aggressiv, wenn sie im konkreten Fall unter Berücksichtigung aller Umstände geeignet ist, die Entscheidungsfreiheit des Verbrauchers oder sonstigen Marktteilnehmers erheblich zu beeinträchtigen durch
 
@@ -95,8 +87,7 @@ Eine unzulässige Beeinflussung liegt vor, wenn der Unternehmer eine Machtpositi
 
 Zu den Umständen, die nach Nummer 3 zu berücksichtigen sind, zählen insbesondere geistige und körperliche Beeinträchtigungen, das Alter, die geschäftliche Unerfahrenheit, die Leichtgläubigkeit, die Angst und die Zwangslage von Verbrauchern.
 
-
-## § 5 – Irreführende geschäftliche Handlungen
+# § 5 – Irreführende geschäftliche Handlungen
 
 (1) Unlauter handelt, wer eine irreführende geschäftliche Handlung vornimmt, die geeignet ist, den Verbraucher oder sonstigen Marktteilnehmer zu einer geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen hätte. Eine geschäftliche Handlung ist irreführend, wenn sie unwahre Angaben enthält oder sonstige zur Täuschung geeignete Angaben über folgende Umstände enthält:
 
@@ -120,8 +111,7 @@ Zu den Umständen, die nach Nummer 3 zu berücksichtigen sind, zählen insbesond
 
 (4) Es wird vermutet, dass es irreführend ist, mit der Herabsetzung eines Preises zu werben, sofern der Preis nur für eine unangemessen kurze Zeit gefordert worden ist. Ist streitig, ob und in welchem Zeitraum der Preis gefordert worden ist, so trifft die Beweislast denjenigen, der mit der Preisherabsetzung geworben hat.
 
-
-## § 5a – Irreführung durch Unterlassen
+# § 5a – Irreführung durch Unterlassen
 
 (1) Bei der Beurteilung, ob das Verschweigen einer Tatsache irreführend ist, sind insbesondere deren Bedeutung für die geschäftliche Entscheidung nach der Verkehrsauffassung sowie die Eignung des Verschweigens zur Beeinflussung der Entscheidung zu berücksichtigen.
 
@@ -161,8 +151,7 @@ Als Vorenthalten gilt auch
 
 (6) Unlauter handelt auch, wer den kommerziellen Zweck einer geschäftlichen Handlung nicht kenntlich macht, sofern sich dieser nicht unmittelbar aus den Umständen ergibt, und das Nichtkenntlichmachen geeignet ist, den Verbraucher zu einer geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht getroffen hätte.
 
-
-## § 6 – Vergleichende Werbung
+# § 6 – Vergleichende Werbung
 
 (1) Vergleichende Werbung ist jede Werbung, die unmittelbar oder mittelbar einen Mitbewerber oder die von einem Mitbewerber angebotenen Waren oder Dienstleistungen erkennbar macht.
 
@@ -180,8 +169,7 @@ Als Vorenthalten gilt auch
 
 6. eine Ware oder Dienstleistung als Imitation oder Nachahmung einer unter einem geschützten Kennzeichen vertriebenen Ware oder Dienstleistung darstellt.
 
-
-## § 7 – Unzumutbare Belästigungen
+# § 7 – Unzumutbare Belästigungen
 
 (1) Eine geschäftliche Handlung, durch die ein Marktteilnehmer in unzumutbarer Weise belästigt wird, ist unzulässig. Dies gilt insbesondere für Werbung, obwohl erkennbar ist, dass der angesprochene Marktteilnehmer diese Werbung nicht wünscht.
 
@@ -211,8 +199,7 @@ c) bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Auff
 
 4. der Kunde bei Erhebung der Adresse und bei jeder Verwendung klar und deutlich darauf hingewiesen wird, dass er der Verwendung jederzeit widersprechen kann, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.
 
-
-## § 8 – Beseitigung und Unterlassung
+# § 8 – Beseitigung und Unterlassung
 
 (1) Wer eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt, kann auf Beseitigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch auf Unterlassung besteht bereits dann, wenn eine derartige Zuwiderhandlung gegen § 3 oder § 7 droht.
 
@@ -232,13 +219,11 @@ c) bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine Auff
 
 (5) § 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden; in § 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten an die Stelle der dort aufgeführten Ansprüche nach dem Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Im Übrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei denn, es liegt ein Fall des § 4e des Unterlassungsklagengesetzes vor.
 
-
-## § 8a – Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150
+# § 8a – Anspruchsberechtigte bei einem Verstoß gegen die Verordnung (EU) 2019/1150
 
 Anspruchsberechtigt nach § 8 Absatz 1 sind bei einem Verstoß gegen die Verordnung (EU) 2019/1150 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Förderung von Fairness und Transparenz für gewerbliche Nutzer von Online-Vermittlungsdiensten (ABl. L 186 vom 11.7.2019, S. 57) abweichend von § 8 Absatz 3 die Verbände, Organisationen und öffentlichen Stellen, die die Voraussetzungen des Artikels 14 Absatz 3 und 4 der Verordnung (EU) 2019/1150 erfüllen.
 
-
-## § 8b – Liste der qualifizierten Wirtschaftsverbände
+# § 8b – Liste der qualifizierten Wirtschaftsverbände
 
 (1) Das Bundesamt für Justiz führt eine Liste der qualifizierten Wirtschaftsverbände und veröffentlicht sie in der jeweils aktuellen Fassung auf seiner Internetseite.
 
@@ -258,8 +243,7 @@ b) seine Ansprüche nicht vorwiegend geltend machen wird, um für sich Einnahmen
 
 (3) § 4 Absatz 3 und 4 sowie die §§ 4a bis 4d des Unterlassungsklagengesetzes sind entsprechend anzuwenden.
 
-
-## § 8c – Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung
+# § 8c – Verbot der missbräuchlichen Geltendmachung von Ansprüchen; Haftung
 
 (1) Die Geltendmachung der Ansprüche aus § 8 Absatz 1 ist unzulässig, wenn sie unter Berücksichtigung der gesamten Umstände missbräuchlich ist.
 
@@ -281,13 +265,11 @@ b) seine Ansprüche nicht vorwiegend geltend machen wird, um für sich Einnahmen
 
 (3) Im Fall der missbräuchlichen Geltendmachung von Ansprüchen kann der Anspruchsgegner vom Anspruchsteller Ersatz der für seine Rechtsverteidigung erforderlichen Aufwendungen fordern. Weitergehende Ersatzansprüche bleiben unberührt.
 
-
-## § 9 – Schadensersatz
+# § 9 – Schadensersatz
 
 Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt, ist den Mitbewerbern zum Ersatz des daraus entstehenden Schadens verpflichtet. Gegen verantwortliche Personen von periodischen Druckschriften kann der Anspruch auf Schadensersatz nur bei einer vorsätzlichen Zuwiderhandlung geltend gemacht werden.
 
-
-## § 10 – Gewinnabschöpfung
+# § 10 – Gewinnabschöpfung
 
 (1) Wer vorsätzlich eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt und hierdurch zu Lasten einer Vielzahl von Abnehmern einen Gewinn erzielt, kann von den gemäß § 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten auf Herausgabe dieses Gewinns an den Bundeshaushalt in Anspruch genommen werden.
 
@@ -299,8 +281,7 @@ Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige geschäf
 
 (5) Zuständige Stelle im Sinn der Absätze 2 und 4 ist das Bundesamt für Justiz.
 
-
-## § 11 – Verjährung
+# § 11 – Verjährung
 
 (1) Die Ansprüche aus den §§ 8, 9 und 13 Absatz 3 verjähren in sechs Monaten.
 
@@ -314,8 +295,7 @@ Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige geschäf
 
 (4) Andere Ansprüche verjähren ohne Rücksicht auf die Kenntnis oder grob fahrlässige Unkenntnis in drei Jahren von der Entstehung an.
 
-
-## § 12 – Einstweiliger Rechtsschutz; Veröffentlichungsbefugnis; Streitwertminderung
+# § 12 – Einstweiliger Rechtsschutz; Veröffentlichungsbefugnis; Streitwertminderung
 
 (1) Zur Sicherung der in diesem Gesetz bezeichneten Ansprüche auf Unterlassung können einstweilige Verfügungen auch ohne die Darlegung und Glaubhaftmachung der in den §§ 935 und 940 der Zivilprozessordnung bezeichneten Voraussetzungen erlassen werden.
 
@@ -331,8 +311,7 @@ Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige geschäf
 
 (4) Der Antrag nach Absatz 3 kann vor der Geschäftsstelle des Gerichts zur Niederschrift erklärt werden. Er ist vor der Verhandlung zur Hauptsache anzubringen. Danach ist er nur zulässig, wenn der angenommene oder festgesetzte Streitwert später durch das Gericht heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der Gegner zu hören.
 
-
-## § 13 – Abmahnung; Unterlassungsverpflichtung; Haftung
+# § 13 – Abmahnung; Unterlassungsverpflichtung; Haftung
 
 (1) Die zur Geltendmachung eines Unterlassungsanspruchs Berechtigten sollen den Schuldner vor der Einleitung eines gerichtlichen Verfahrens abmahnen und ihm Gelegenheit geben, den Streit durch Abgabe einer mit einer angemessenen Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen.
 
@@ -358,8 +337,7 @@ Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige geschäf
 
 (5) Soweit die Abmahnung unberechtigt ist oder nicht den Anforderungen des Absatzes 2 entspricht oder soweit entgegen Absatz 4 ein Anspruch auf Aufwendungsersatz geltend gemacht wird, hat der Abgemahnte gegen den Abmahnenden einen Anspruch auf Ersatz der für seine Rechtsverteidigung erforderlichen Aufwendungen. Der Anspruch nach Satz 1 ist beschränkt auf die Höhe des Aufwendungsersatzanspruchs, die der Abmahnende geltend macht. Bei einer unberechtigten Abmahnung ist der Anspruch nach Satz 1 ausgeschlossen, wenn die fehlende Berechtigung der Abmahnung für den Abmahnenden zum Zeitpunkt der Abmahnung nicht erkennbar war. Weitergehende Ersatzansprüche bleiben unberührt.
 
-
-## § 13a – Vertragsstrafe
+# § 13a – Vertragsstrafe
 
 (1) Bei der Festlegung einer angemessenen Vertragsstrafe nach § 13 Absatz 1 sind folgende Umstände zu berücksichtigen:
 
@@ -379,8 +357,7 @@ Wer vorsätzlich oder fahrlässig eine nach § 3 oder § 7 unzulässige geschäf
 
 (5) Ist lediglich eine Vertragsstrafe vereinbart, deren Höhe noch nicht beziffert wurde, kann der Abgemahnte bei Uneinigkeit über die Höhe auch ohne Zustimmung des Abmahnenden eine Einigungsstelle nach § 15 anrufen. Das Gleiche gilt, wenn der Abgemahnte nach Absatz 4 nur eine Vertragsstrafe in angemessener Höhe schuldet. Ist ein Verfahren vor der Einigungsstelle anhängig, so ist eine erst nach Anrufung der Einigungsstelle erhobene Klage nicht zulässig.
 
-
-## § 14 – Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung
+# § 14 – Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung
 
 (1) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, sind die Landgerichte ausschließlich zuständig.
 
@@ -394,8 +371,7 @@ es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung für die Bezirke mehrerer Landgerichte eines von ihnen als Gericht für Wettbewerbsstreitsachen zu bestimmen, wenn dies der Rechtspflege in Wettbewerbsstreitsachen dienlich ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Länder können außerdem durch Vereinbarung die den Gerichten eines Landes obliegenden Klagen nach Absatz 1 insgesamt oder teilweise dem zuständigen Gericht eines anderen Landes übertragen.
 
-
-## § 15 – Einigungsstellen
+# § 15 – Einigungsstellen
 
 (1) Die Landesregierungen errichten bei Industrie- und Handelskammern Einigungsstellen zur Beilegung von bürgerlichen Rechtsstreitigkeiten, in denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird (Einigungsstellen).
 
@@ -421,25 +397,21 @@ es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
 
 (12) Abweichend von Absatz 2 Satz 1 kann in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen die Einigungsstelle auch mit einem Rechtskundigen als Vorsitzendem besetzt werden, der die Befähigung zum Berufsrichter nach dem Recht der Deutschen Demokratischen Republik erworben hat.
 
-
-## § 15a – Überleitungsvorschrift zum Gesetz zur Stärkung des fairen Wettbewerbs
+# § 15a – Überleitungsvorschrift zum Gesetz zur Stärkung des fairen Wettbewerbs
 
 (1) § 8 Absatz 3 Nummer 2 ist nicht anzuwenden auf Verfahren, die am 1. September 2021 bereits rechtshängig sind.
 
 (2) Die §§ 13 und 13a Absatz 2 und 3 sind nicht anzuwenden auf Abmahnungen, die vor dem 2. Dezember 2020 bereits zugegangen sind.
 
-
-## § 16 – Strafbare Werbung
+# § 16 – Strafbare Werbung
 
 (1) Wer in der Absicht, den Anschein eines besonders günstigen Angebots hervorzurufen, in öffentlichen Bekanntmachungen oder in Mitteilungen, die für einen größeren Kreis von Personen bestimmt sind, durch unwahre Angaben irreführend wirbt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) Wer es im geschäftlichen Verkehr unternimmt, Verbraucher zur Abnahme von Waren, Dienstleistungen oder Rechten durch das Versprechen zu veranlassen, sie würden entweder vom Veranstalter selbst oder von einem Dritten besondere Vorteile erlangen, wenn sie andere zum Abschluss gleichartiger Geschäfte veranlassen, die ihrerseits nach der Art dieser Werbung derartige Vorteile für eine entsprechende Werbung weiterer Abnehmer erlangen sollen, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
+# §§ 17 bis 19 – (weggefallen)
 
-## §§ 17 bis 19 – (weggefallen)
-
-
-## § 20 – Bußgeldvorschriften
+# § 20 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -453,8 +425,7 @@ es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 1 die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, in den übrigen Fällen das Bundesamt für Justiz.
 
-
-## Anhang – (zu § 3 Absatz 3)
+# Anhang – (zu § 3 Absatz 3)
 
 (Fundstelle: BGBl. I 2010, 262 - 263)
 

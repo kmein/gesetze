@@ -1,30 +1,23 @@
-# [StFG] Gesetz zur Errichtung eines Finanzmarkt- und eines Wirtschaftsstabilisierungsfonds  (Stabilisierungsfondsgesetz - StFG)
-
-Ausfertigungsdatum: 17.10.2008
-
+% Gesetz zur Errichtung eines Finanzmarkt- und eines Wirtschaftsstabilisierungsfonds  (Stabilisierungsfondsgesetz - StFG)
+% Ausfertigungsdatum: 17.10.2008
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Errichtung des Fonds
+# § 1 – Errichtung des Fonds
 
 Es wird ein Fonds des Bundes unter der Bezeichnung „Finanzmarktstabilisierungsfonds – FMS“ errichtet.
 
-
-## § 2 – Zweck des Fonds
+# § 2 – Zweck des Fonds
 
 (1) Der Fonds dient der Stabilisierung des Finanzmarktes durch Überwindung von Liquiditätsengpässen und durch Schaffung der Rahmenbedingungen für eine Stärkung der Eigenkapitalbasis von Unternehmen im Sinne des § 2 des Restrukturierungsfondsgesetzes in der bis zum 31. Dezember 2014 geltenden Fassung (Unternehmen des Finanzsektors). Kreditinstitute, die gemäß § 5 Absatz 1 Nummer 2 des Körperschaftsteuergesetzes in der bis zum 31. Dezember 2014 geltenden Fassung von der Körperschaftsteuer befreit sind, und Brückeninstitute im Sinne des § 5 Absatz 1 des Restrukturierungsfondsgesetzes in der bis zum 31. Dezember 2014 geltenden Fassung sind keine Unternehmen des Finanzsektors im Sinne des Satzes 1.
 
 (2) Der Fonds ist ein Sondervermögen im Sinne des Artikels 110 Absatz 1 des Grundgesetzes.
 
-
-## § 3 – Stellung im Rechtsverkehr
+# § 3 – Stellung im Rechtsverkehr
 
 Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden. Arrest oder andere Maßnahmen der Zwangsvollstreckung in den Fonds finden nicht statt. § 394 Satz 1 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden. Der allgemeine Gerichtsstand des Fonds ist Frankfurt am Main.
 
-
-## § 3a – Bundesanstalt für Finanzmarktstabilisierung; Trägerschaft der Finanzagentur; Organisation und Aufgaben; Verordnungsermächtigung
+# § 3a – Bundesanstalt für Finanzmarktstabilisierung; Trägerschaft der Finanzagentur; Organisation und Aufgaben; Verordnungsermächtigung
 
 (1) Die mit diesem Gesetz in der Fassung vom 17. Oktober 2008 errichtete Finanzmarktstabilisierungsanstalt wird mit Wirkung zum 23. Juli 2009 eine bundesunmittelbare, rechtsfähige Anstalt des öffentlichen Rechts im Geschäftsbereich des Bundesministeriums der Finanzen. Sie trägt die Bezeichnung „Bundesanstalt für Finanzmarktstabilisierung – FMSA“ (Anstalt). Die Anstalt hat ihren Sitz in Frankfurt am Main. Sie untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Das Bundesministerium der Finanzen ist insbesondere befugt, alle Anordnungen zu treffen, um den Geschäftsbetrieb der Anstalt mit den Gesetzen, der Satzung und den sonstigen Bestimmungen im Einklang zu halten und die zweckmäßige Wahrnehmung der Aufgaben der Anstalt sicherzustellen und zu überprüfen. Die Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) wird mit der Trägerschaft an der Anstalt beliehen und führt nach Maßgabe dieses Gesetzes Aufgaben und Befugnisse der Anstalt fort.
 
@@ -50,8 +43,7 @@ Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftl
 
 (7) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnungen nach Absatz 6 unverzüglich zu unterrichten.
 
-
-## § 3b – Verschwiegenheitspflicht; Zusammenarbeit mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank
+# § 3b – Verschwiegenheitspflicht; Zusammenarbeit mit der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank
 
 (1) Die Mitglieder des Leitungsausschusses der Anstalt, der Geschäftsführung der Finanzagentur und die Mitarbeiterinnen und Mitarbeiter der Finanzagentur und der Anstalt sowie die von der Anstalt oder der Finanzagentur im Zusammenhang mit Aufgaben nach diesem Gesetz beauftragten Dritten dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse des Unternehmens des Finanzsektors oder eines Dritten liegt, insbesondere Betriebs- und Geschäftsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit bei der Finanzagentur oder der Anstalt beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten.
 
@@ -77,8 +69,7 @@ soweit diese die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für di
 
 (5) (weggefallen)
 
-
-## § 3c – Rechtsstellung der Mitglieder des Leitungsausschusses
+# § 3c – Rechtsstellung der Mitglieder des Leitungsausschusses
 
 (1) Die Mitglieder des Leitungsausschusses der Anstalt stehen in einem öffentlich-rechtlichen Amtsverhältnis zum Bund. Sie müssen besondere fachliche Eignung besitzen und werden auf Vorschlag der Bundesregierung durch den Bundespräsidenten ernannt. Eine Ernennung soll grundsätzlich für drei Jahre, darf jedoch höchstens für fünf Jahre erfolgen. Wiederholte Ernennungen sind zulässig.
 
@@ -104,13 +95,11 @@ Vor der Beschlussfassung der Bundesregierung ist dem Mitglied des Leitungsaussch
 
 (9) Die Absätze 7 und 8 gelten für Richter und für Berufssoldaten entsprechend.
 
-
-## § 3d – Deckung der Kosten
+# § 3d – Deckung der Kosten
 
 Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der Aufgaben nach diesem Gesetz entstehen, werden durch den Bund getragen. Zu den Kosten der Finanzagentur und der Anstalt nach Satz 1 gehören die Personal- und Sachkosten sowie die Kosten Dritter, derer sich die Finanzagentur oder die Anstalt bei der Erfüllung ihrer Aufgaben nach diesem Gesetz bedient.
 
-
-## § 3e – Kostenerstattungen
+# § 3e – Kostenerstattungen
 
 (1) Für die Kosten, die der Finanzagentur oder der Anstalt für Maßnahmen in Ausübung ihrer gesetzlichen Ermächtigung nach den §§ 6 bis 8a oder nach § 19 Absatz 2 bis 4 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes entstehen, können die Finanzagentur und die Anstalt von den jeweiligen Adressaten eine Erstattung an den Bund, auch in Form von Kostenpauschalen, nach Maßgabe der Rechtsverordnung nach § 3f verlangen. Dies gilt insbesondere gegenüber
 
@@ -124,8 +113,7 @@ Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der Aufgaben nach
 
 (4) Soweit dies im Zusammenhang mit Kostenerstattungen, die die Finanzagentur und die Anstalt nach Absatz 1 verlangen können, erforderlich ist, kann die Finanzagentur Anordnungen zur Annahme oder Leistung von Zahlungen nach § 70 der Bundeshaushaltsordnung erteilen, die von der Bundeskasse ausgeführt werden. Die Bestimmungen der Bundeshaushaltsordnung und die dazu erlassenen Ausführungsbestimmungen sind entsprechend anzuwenden.
 
-
-## § 3f – Verordnungsermächtigung
+# § 3f – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zu erlassen über
 
@@ -135,8 +123,7 @@ Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der Aufgaben nach
 
 (2) In der nach Absatz 1 erlassenen Rechtsverordnung kann bestimmt werden, dass sie auch auf die bei ihrem Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden ist, soweit zu diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
 
-
-## § 4 – Entscheidung über Stabilisierungsmaßnahmen; Verwaltung
+# § 4 – Entscheidung über Stabilisierungsmaßnahmen; Verwaltung
 
 (1) Über vom Fonds gemäß den §§ 5a, 6, 7 und 8 vorzunehmende Stabilisierungsmaßnahmen entscheidet das Bundesministerium der Finanzen, in den Fällen der §§ 6, 7 und 8 auf Antrag des Unternehmens des Finanzsektors, nach pflichtgemäßem Ermessen unter Berücksichtigung der Bedeutung des jeweils von der Stabilisierungsmaßnahme erfassten Unternehmens des Finanzsektors für die Finanzmarktstabilität, der Dringlichkeit, der Auswirkungen auf den Wettbewerb und des Grundsatzes des möglichst effektiven und wirtschaftlichen Einsatzes der Mittel des Fonds. Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowie um Entscheidungen über wesentliche Auflagen nach Maßgabe einer zu § 10 dieses Gesetzes erlassenen Rechtsverordnung handelt, entscheidet ein interministerieller Ausschuss (Lenkungsausschuss) in Bezug auf Maßnahmen nach § 8a auf Vorschlag der Anstalt oder in allen übrigen Angelegenheiten auf Vorschlag der Finanzagentur. Ein Rechtsanspruch auf Leistungen des Fonds besteht nicht. Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen. Die Leistungen sollen von Bedingungen und Auflagen abhängig gemacht werden; dabei sind Beschlüsse des Europäischen Rates und des Rates, Empfehlungen der Europäischen Bankenaufsichtsbehörde und Vorgaben der Europäischen Kommission, insbesondere zur Vereinbarkeit mit den Artikeln 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union, zu berücksichtigen.
 
@@ -148,18 +135,15 @@ Die Kosten, die der Finanzagentur und der Anstalt in Ausübung der Aufgaben nach
 
 (4) Die Richtlinien für die Verwaltung des Fonds bestimmt die Bundesregierung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnungen nach Satz 1 und Absatz 2 unverzüglich zu unterrichten.
 
-
-## § 5 – Vermögenstrennung, Bundeshaftung
+# § 5 – Vermögenstrennung, Bundeshaftung
 
 Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen. Der Bund haftet unmittelbar für die Verbindlichkeiten des Fonds; dieser haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
-
-## § 5a – Anteilserwerb
+# § 5a – Anteilserwerb
 
 Der Fonds ist berechtigt, im Zusammenhang mit der Stabilisierung eines Unternehmens des Finanzsektors Anteile an dem betroffenen Unternehmen oder an einem unmittelbaren oder mittelbaren Tochterunternehmen von diesen Unternehmen oder von Dritten zu erwerben. Ein solcher Anteilserwerb soll nur erfolgen, wenn ein wichtiges Interesse des Bundes vorliegt und der vom Bund erstrebte Zweck sich nicht besser und wirtschaftlicher auf andere Weise erreichen lässt. Die §§ 65 bis 69 der Bundeshaushaltsordnung finden keine Anwendung. § 5 Absatz 2 und 5 bis 9 der Finanzmarktstabilisierungsfonds-Verordnung in der am 1. Januar 2015 geltenden Fassung gilt für Maßnahmen nach Satz 1 entsprechend.
 
-
-## § 6 – Garantieermächtigung; Verordnungsermächtigung
+# § 6 – Garantieermächtigung; Verordnungsermächtigung
 
 (1) Der Fonds wird ermächtigt, für den Fonds Garantien bis zur Höhe von 400 Milliarden Euro für ab Inkrafttreten dieses Gesetzes und bis zum 31. Dezember 2015 begebene Schuldtitel und begründete Verbindlichkeiten von Unternehmen des Finanzsektors zu übernehmen, um Liquiditätsengpässe zu beheben und die Refinanzierung am Kapitalmarkt zu unterstützen; die Laufzeit der Garantien und der abzusichernden Verbindlichkeiten darf 84 Monate für gedeckte Schuldverschreibungen im Sinne des Artikels 129 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) und 60 Monate für andere Verbindlichkeiten nicht übersteigen. Satz 1 gilt entsprechend für die Übernahme von Garantien für Verbindlichkeiten von Zweckgesellschaften, die Risikopositionen eines Unternehmens des Finanzsektors übernommen haben. Für die Übernahme von Garantien ist ein Entgelt in angemessener Höhe zu erheben.
 
@@ -193,8 +177,7 @@ In einem Insolvenzverfahren über das Vermögen des Schuldners der Forderungen k
 
 (5) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach Absatz 4 unverzüglich zu unterrichten.
 
-
-## § 6a – Garantien an Zweckgesellschaften
+# § 6a – Garantien an Zweckgesellschaften
 
 (1) Abweichend von § 6 Absatz 1 Satz 1 und 2 kann der Fonds Garantien nach § 6 Absatz 1 für Schuldtitel übernehmen, welche von Zweckgesellschaften nach dem 1. Januar 2015 nachweislich ausschließlich als Gegenleistung für die Übernahme von Wertpapieren und damit verbundenen Absicherungsgeschäften an Kreditinstitute, Finanzholding-Gesellschaften oder deren in- und ausländische Tochterunternehmen (übertragende Unternehmen) begeben werden; die Laufzeiten der Garantien richten sich nach der Laufzeit der von den Zweckgesellschaften begebenen Schuldtitel. Diese Garantien gelten als nachrangig im Sinne des § 39 Absatz 2 der Insolvenzordnung.
 
@@ -232,8 +215,7 @@ In einem Insolvenzverfahren über das Vermögen des Schuldners der Forderungen k
 
 (6) § 6 Absatz 2 und 3 dieses Gesetzes, §§ 16 und 20 des Wirtschaftsstabilisierungsbeschleunigungsgesetzes sowie § 5 Absatz 2 und 5 bis 9 der Finanzmarktstabilisierungsfonds-Verordnung in der am 1. Januar 2015 geltenden Fassung gelten für die Garantiegewährung nach Absatz 1 entsprechend. § 5 Absatz 2 Nummer 5 der Finanzmarktstabilisierungsfonds-Verordnung findet jedoch vorbehaltlich der Zahlung der Ausgleichsbeträge nach den §§ 6b und 6c auf Dividenden und Gewinnausschüttungen an die Anteilseigner keine Anwendung.
 
-
-## § 6b – Verpflichtung zur Zahlung eines Ausgleichsbetrags
+# § 6b – Verpflichtung zur Zahlung eines Ausgleichsbetrags
 
 (1) Übertragende Unternehmen zahlen für die Dauer der Laufzeit der Garantie, maximal jedoch für die Dauer von 20 Jahren, jährlich aus dem an die Anteilseigner auszuschüttenden Betrag einen Ausgleich an die Zweckgesellschaft, der sich wie folgt bemisst:
 
@@ -249,8 +231,7 @@ In einem Insolvenzverfahren über das Vermögen des Schuldners der Forderungen k
 
 (3) Der tatsächliche wirtschaftliche Wert der übertragenen Wertpapiere sowie die sich aus den Absätzen 1 und 2 ergebenden Folgen sind im Lagebericht und Konzernlagebericht des übertragenden Unternehmens anzugeben.
 
-
-## § 6c – Verpflichtung zum weiteren Verlustausgleich
+# § 6c – Verpflichtung zum weiteren Verlustausgleich
 
 (1) Ist das übertragende Unternehmen in der Rechtsform einer Aktiengesellschaft verfasst und reichen die über die Laufzeit der Garantie nach § 6b gezahlten Ausgleichsbeträge nicht aus, um Verluste gegenüber dem gemäß § 6a Absatz 2 Nummer 2 ermittelten Übertragungswert zum Übertragungszeitpunkt auszugleichen, sind nicht ausgeglichene Verluste auch über die Laufzeit der Garantie hinaus in voller Höhe einschließlich Verzinsung aus dem an die Anteilseigner auszuschüttenden Betrag gegenüber dem Fonds auszugleichen (Nachhaftung). Der Ausgleich kann im beiderseitigen Einvernehmen auch durch die Ausgabe von Aktien an den Fonds erfolgen.
 
@@ -264,11 +245,9 @@ In einem Insolvenzverfahren über das Vermögen des Schuldners der Forderungen k
 
 (6) Die sich aus den Absätzen 1 bis 5 ergebenden Folgen sind im Lagebericht und Konzernlagebericht des übertragenden Unternehmens anzugeben.
 
+# § 6d – (weggefallen)
 
-## § 6d – (weggefallen)
-
-
-## § 7 – Rekapitalisierung
+# § 7 – Rekapitalisierung
 
 (1) Der Fonds kann sich an der Rekapitalisierung von Unternehmen des Finanzsektors beteiligen, insbesondere gegen Leistung einer Einlage Anteile oder stille Beteiligungen erwerben und sonstige Bestandteile der Eigenmittel dieser Unternehmen, einschließlich solcher, die durch Landesrecht geschaffen werden, übernehmen.
 
@@ -286,8 +265,7 @@ In einem Insolvenzverfahren über das Vermögen des Schuldners der Forderungen k
 
 (4) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach Absatz 3 unverzüglich zu unterrichten.
 
-
-## § 8 – Risikoübernahme; Verordnungsermächtigung
+# § 8 – Risikoübernahme; Verordnungsermächtigung
 
 (1) Der Fonds kann von Unternehmen des Finanzsektors vor dem 1. Juni 2014 erworbene Risikopositionen, insbesondere Forderungen, Wertpapiere, derivative Finanzinstrumente, Rechte und Pflichten aus Kreditzusagen oder Gewährleistungen und Beteiligungen, jeweils nebst zugehöriger Sicherheiten, erwerben oder auf andere Weise absichern. Dasselbe gilt gegenüber Zweckgesellschaften, die Risikopositionen eines Unternehmens des Finanzsektors übernommen haben.
 
@@ -305,8 +283,7 @@ In einem Insolvenzverfahren über das Vermögen des Schuldners der Forderungen k
 
 (3) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach Absatz 2 unverzüglich zu unterrichten.
 
-
-## § 8a – Bundesrechtliche Abwicklungsanstalten
+# § 8a – Bundesrechtliche Abwicklungsanstalten
 
 (1) Die Anstalt kann auf Antrag der übertragenden Gesellschaft teilrechtsfähige Anstalten des öffentlichen Rechts errichten, auf die bis zum 31. Mai 2014 erworbene Risikopositionen sowie auf die nichtstrategienotwendige Geschäftsbereiche der übertragenden Gesellschaft durch Rechtsgeschäft oder Umwandlung zum Zwecke der Abwicklung übertragen werden können (Abwicklungsanstalten). Übertragende Gesellschaften sind Kreditinstitute und Finanzholding-Gesellschaften, die ihren Sitz bereits zum 31. Mai 2014 im Inland hatten, sowie ihre in- und ausländischen Tochterunternehmen oder Zweckgesellschaften, die Risikopositionen von ihnen übernommen haben. Übertragende Gesellschaften können vor einer Übertragung nach Satz 1 bis zum 31. Mai 2014 erworbene Risikopositionen von in- und ausländischen Tochterunternehmen oder Zweckgesellschaften, die Risikopositionen von ihnen übernommen haben, übernehmen. Die Abwicklungsanstalten können die Risikopositionen oder Geschäftsbereiche auch durch Übernahme von Garantien, Unterbeteiligungen oder auf sonstige Weise ohne Übertragung absichern. Sie können unter ihrem eigenen Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden, verfügen über einen eigenen Rechnungs- und Buchungskreis und sind vom Registergericht unverzüglich ins Handelsregister einzutragen. Die Kosten der Abwicklungsanstalten werden aus ihrem Vermögen gedeckt. Die der Anstalt oder der Finanzagentur entstehenden Verwaltungskosten aus Koordinations- und Überwachungstätigkeiten für die Abwicklungsanstalten tragen die Abwicklungsanstalten selbst; § 3e bleibt unberührt. Das Vermögen einer Abwicklungsanstalt ist vom Vermögen anderer Abwicklungsanstalten und von dem übrigen Vermögen der Anstalt, ihren Rechten und Verbindlichkeiten getrennt zu halten. Die Anstalt, die Finanzagentur, der Fonds oder der Bund haften unbeschadet der Regelung nach Absatz 4 Nummer 1 Satz 6 und Nummer 1b nicht für die Verbindlichkeiten der Abwicklungsanstalten; eine Abwicklungsanstalt haftet nicht für die Verbindlichkeiten anderer Abwicklungsanstalten. Sofern Aufgaben der Anstalt, der Finanzagentur nach diesem Gesetz oder der Abwicklungsanstalten von anderen juristischen oder natürlichen Personen wahrgenommen werden, ist vertraglich sicherzustellen, dass der Bundesrechnungshof auch Erhebungsrechte bei diesen Personen hat.
 
@@ -332,11 +309,9 @@ Die Statuten sind im Bundesanzeiger zu veröffentlichen. Sonstige Veröffentlich
 
 1. Es ist sicherzustellen, dass eine Pflicht zum Ausgleich von Verlusten der Abwicklungsanstalten von den unmittelbaren oder mittelbaren Anteilsinhabern oder Mitgliedern der übertragenden Gesellschaft entsprechend ihrer Beteiligungsquote übernommen und im Außenverhältnis eine gesamtschuldnerische Haftung der zum Verlustausgleich Verpflichteten begründet wird. Ist die übertragende Gesellschaft eine Zweckgesellschaft, ist auf die unmittelbaren oder mittelbaren Anteilsinhaber oder Mitglieder des Kreditinstituts abzustellen, dessen Risikopositionen sie übernommen hat. Die Übernahme einer nicht dem jeweiligen Anteil entsprechenden Verlustausgleichspflicht durch Teile der Anteilsinhaber oder Mitglieder ist zulässig, wenn die Einhaltung der europarechtlichen Vorgaben gewährleistet ist. Eine Haftung der Anteilsinhaber oder Mitglieder für übertragene Verbindlichkeiten der Abwicklungsanstalten kann begründet werden; die Sätze 2 und 3 gelten entsprechend. Für den Fall, dass die zum Verlustausgleich verpflichteten Anteilsinhaber oder Mitglieder, als Gesamtschuldner und einzeln, nicht oder nicht mehr leistungsfähig sind, ist eine, gegebenenfalls nachrangige Pflicht der Gesellschaft vorzusehen, die Verluste aus dem an die Anteilseigner auszuschüttenden Betrag nach Nummer 2 auszugleichen. Nachrangig hierzu kann auch eine Verlustausgleichspflicht des Fonds gegenüber der Abwicklungsanstalt sowie ein Rückgriffsanspruch des Fonds oder des Bundes gegenüber der übertragenden Gesellschaft und ihren unmittelbaren oder mittelbaren Anteilsinhabern oder Mitgliedern vorgesehen werden.
 
-1a.  
-Gehört zu den unmittelbaren oder mittelbaren Anteilsinhabern oder Mitgliedern der übertragenden Gesellschaft ein Land, ist eine gesamtschuldnerische Haftung nicht zu begründen; die Pflicht zur Übernahme von Verlusten entsprechend der jeweiligen Beteiligungsquote nach Nummer 1 Satz 1 bleibt unberührt. Für einen Verbund von Sparkassen oder eine Beteiligungsgesellschaft, an der Sparkassen mittelbar oder unmittelbar beteiligt sind, (Verbund) als Anteilsinhaber oder Mitglied muss vorgesehen werden, dass von diesem zu tragende Verluste der Abwicklungsanstalt jeweils zunächst aus dem an ihn auszuschüttenden Betrag nach Nummer 2 (Stufe 1), sodann, sofern der Betrag nicht ausreicht, unmittelbar durch den Verbund ausgeglichen werden (Stufe 2). Der kumulierte Gesamtumfang der von dem Verbund zu tragenden Verluste ist auf den von der Anstalt festzusetzenden Betrag begrenzt, den der Verbund am 30. Juni 2008 auf Grund der Gewährträgerhaftung zu tragen hatte. Sofern Leistungen des Verbundes aus den Stufen 1 und 2 nicht ausreichen, um die von ihm entsprechend der Beteiligungsquote zu tragenden Verluste zu decken, wird der Differenzbetrag jeweils durch den Fonds vorfinanziert und in den Folgejahren durch den auf den Verbund auszuschüttenden Betrag nach Nummer 2 refinanziert. Hieraus resultierende finanzielle Lasten tragen der Bund und das betreffende Land im Verhältnis von 65 : 35; Einzelheiten werden in einer Verwaltungsvereinbarung geregelt. Weitergehende landesrechtliche Bestimmungen bleiben unberührt.
+1a. Gehört zu den unmittelbaren oder mittelbaren Anteilsinhabern oder Mitgliedern der übertragenden Gesellschaft ein Land, ist eine gesamtschuldnerische Haftung nicht zu begründen; die Pflicht zur Übernahme von Verlusten entsprechend der jeweiligen Beteiligungsquote nach Nummer 1 Satz 1 bleibt unberührt. Für einen Verbund von Sparkassen oder eine Beteiligungsgesellschaft, an der Sparkassen mittelbar oder unmittelbar beteiligt sind, (Verbund) als Anteilsinhaber oder Mitglied muss vorgesehen werden, dass von diesem zu tragende Verluste der Abwicklungsanstalt jeweils zunächst aus dem an ihn auszuschüttenden Betrag nach Nummer 2 (Stufe 1), sodann, sofern der Betrag nicht ausreicht, unmittelbar durch den Verbund ausgeglichen werden (Stufe 2). Der kumulierte Gesamtumfang der von dem Verbund zu tragenden Verluste ist auf den von der Anstalt festzusetzenden Betrag begrenzt, den der Verbund am 30. Juni 2008 auf Grund der Gewährträgerhaftung zu tragen hatte. Sofern Leistungen des Verbundes aus den Stufen 1 und 2 nicht ausreichen, um die von ihm entsprechend der Beteiligungsquote zu tragenden Verluste zu decken, wird der Differenzbetrag jeweils durch den Fonds vorfinanziert und in den Folgejahren durch den auf den Verbund auszuschüttenden Betrag nach Nummer 2 refinanziert. Hieraus resultierende finanzielle Lasten tragen der Bund und das betreffende Land im Verhältnis von 65 : 35; Einzelheiten werden in einer Verwaltungsvereinbarung geregelt. Weitergehende landesrechtliche Bestimmungen bleiben unberührt.
 
-1b.  
-Der Fonds haftet für alle Darlehen, Schuldverschreibungen, als Festgeschäfte ausgestaltete Termingeschäfte, Rechte aus Optionen und andere Kredite an die Abwicklungsanstalt sowie für Kredite an Dritte, soweit sie von der Abwicklungsanstalt ausdrücklich gewährleistet werden, sofern diese jeweils in dem Zeitraum von der Abwicklungsanstalt aufgenommen, begeben, abgeschlossen, begründet oder auf die Abwicklungsanstalt übertragen wurden, in dem der Fonds alleiniger Verlustausgleichsverpflichteter ist. Eine angemessene Garantie im Sinne der Vorschriften über die aufsichtsrechtliche Risikogewichtung von Risikopositionen gegenüber einer Abwicklungsanstalt liegt auch vor, wenn ein Land allein oder gemeinsam mit dem Fonds unbegrenzt für den Ausgleich von Verlusten einer Abwicklungsanstalt haftet. Rückgriffsansprüche zwischen Verlustausgleichsverpflichteten und gegenüber der Abwicklungsanstalt bleiben unberührt und können insbesondere im Statut der Abwicklungsanstalt begründet werden.
+1b. Der Fonds haftet für alle Darlehen, Schuldverschreibungen, als Festgeschäfte ausgestaltete Termingeschäfte, Rechte aus Optionen und andere Kredite an die Abwicklungsanstalt sowie für Kredite an Dritte, soweit sie von der Abwicklungsanstalt ausdrücklich gewährleistet werden, sofern diese jeweils in dem Zeitraum von der Abwicklungsanstalt aufgenommen, begeben, abgeschlossen, begründet oder auf die Abwicklungsanstalt übertragen wurden, in dem der Fonds alleiniger Verlustausgleichsverpflichteter ist. Eine angemessene Garantie im Sinne der Vorschriften über die aufsichtsrechtliche Risikogewichtung von Risikopositionen gegenüber einer Abwicklungsanstalt liegt auch vor, wenn ein Land allein oder gemeinsam mit dem Fonds unbegrenzt für den Ausgleich von Verlusten einer Abwicklungsanstalt haftet. Rückgriffsansprüche zwischen Verlustausgleichsverpflichteten und gegenüber der Abwicklungsanstalt bleiben unberührt und können insbesondere im Statut der Abwicklungsanstalt begründet werden.
 
 2. Ist eine Übernahme einer Verlustausgleichspflicht nach Nummer 1 auf Grund der nicht geschlossenen Anteilsinhaberschaft oder Mitgliedschaft der übertragenden Gesellschaft, etwa bei deren Börsennotierung, nicht praktikabel, ist von der übertragenden Gesellschaft die Pflicht zu übernehmen, die Verluste aus dem an die Anteilseigner auszuschüttenden Betrag auszugleichen. Ist die übertragende Gesellschaft eine Zweckgesellschaft, ist auf das Kreditinstitut abzustellen, dessen Risikopositionen sie übernommen hat; Entsprechendes gilt für Tochterunternehmen als übertragende Gesellschaften. Für die Pflicht der übertragenden Gesellschaft, die Verluste aus dem an die Anteilseigner auszuschüttenden Betrag auszugleichen, gelten die §§ 6b und 6c entsprechend.
 
@@ -404,8 +379,7 @@ Ausgliederungen und Abspaltungen nach diesem Absatz sind Ausgliederungen und Abs
 
 (11) Soweit Risikopositionen oder nicht strategienotwendige Geschäftsbereiche durch eine Maßnahme nach dem Umwandlungsgesetz auf eine Abwicklungsanstalt übertragen werden sollen, gilt § 7c des Wirtschaftsstabilisierungsbeschleunigungsgesetzes entsprechend.
 
-
-## § 8b – Landesrechtliche Abwicklungsanstalten
+# § 8b – Landesrechtliche Abwicklungsanstalten
 
 (1) Eine landesrechtliche Abwicklungsanstalt ist eine Anstalt des öffentlichen Rechts nach Landesrecht, der die Aufgabe obliegt, Kreditinstitute, Finanzholding-Gesellschaften, deren in- und ausländische Tochterunternehmen oder Zweckgesellschaften, die Risikopositionen von ihnen übernommen haben, von Risikopositionen und nichtstrategienotwendigen Geschäftsbereichen durch rechtliche oder wirtschaftliche Übertragung zu entlasten und für die Folgendes durch oder auf Grund Landesgesetz vorgesehen ist:
 
@@ -419,8 +393,7 @@ Ausgliederungen und Abspaltungen nach diesem Absatz sind Ausgliederungen und Abs
 
 (3) Für Verbindlichkeiten und Zahlungsverpflichtungen einer landesrechtlichen Abwicklungsanstalt im Sinne des Absatzes 1 kann das Land eine § 8a Absatz 4 Satz 1 Nummer 1b Satz 1 entsprechende Haftung vorsehen.
 
-
-## § 9 – Kreditermächtigung
+# § 9 – Kreditermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für den Fonds zur Deckung von Aufwendungen und von Maßnahmen nach den §§ 5a, 7 und 8 und 8a Absatz 4 Satz 1 Nummer 1 und 1a dieses Gesetzes und von Maßnahmen nach den §§ 1 und 4 des Rettungsübernahmegesetzes Kredite bis zur Höhe von 30 Milliarden Euro aufzunehmen.
 
@@ -434,8 +407,7 @@ Ausgliederungen und Abspaltungen nach diesem Absatz sind Ausgliederungen und Abs
 
 (6) Werden für Ausgaben, die keine finanziellen Transaktionen im Sinne des § 3 des Artikel 115-Gesetzes vom 10. August 2009 (BGBl. I S. 2702, 2704) sind, Kredite aufgenommen, ist in Verbindung mit der nächsten Beschlussfassung über ein Haushaltsgesetz ein gesonderter Beschluss des Deutschen Bundestages über die Tilgung der in diesem Umfang erhöhten Bundesschuld herbeizuführen, soweit mit dieser Kreditaufnahme die nach der Schuldenregel zulässige Kreditaufnahme überschritten worden ist. Die Tilgung hat binnen eines angemessenen Zeitraums zu erfolgen. Nach Maßgabe dieses Tilgungsplans verringert sich in den jeweiligen Jahren die nach der Schuldenregel zulässige Nettokreditaufnahme des Bundes. Für Kreditaufnahmen zur Finanzierung von Ausgaben auf Grund von bis zum 31. Dezember 2010 ergriffenen Maßnahmen sowie deren Anschlussmaßnahmen gemäß § 13 Absatz 1a und 1b dieses Gesetzes gilt Artikel 143d Absatz 1 Satz 2 zweiter Halbsatz des Grundgesetzes.
 
-
-## § 10 – Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung
+# § 10 – Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung
 
 (1) Unternehmen des Finanzsektors, die Stabilisierungsmaßnahmen des Fonds nach den §§ 6, 7 und 8 dieses Gesetzes in Anspruch nehmen, müssen die Gewähr für eine solide und umsichtige Geschäftspolitik bieten.
 
@@ -473,8 +445,7 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (3) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach Absatz 2 unverzüglich zu unterrichten.
 
-
-## § 10a – Parlamentarische Kontrolle
+# § 10a – Parlamentarische Kontrolle
 
 (1) (weggefallen)
 
@@ -482,8 +453,7 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (3) Das Gremium tagt geheim. Die Mitglieder des Gremiums sind zur Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer Tätigkeit bekannt geworden sind. Dies gilt für alle Teilnehmerinnen und Teilnehmer der Sitzungen. § 3 Absatz 2 Satz 2 und 3 des Bundesschuldenwesengesetzes gilt entsprechend.
 
-
-## § 11 – Jahresrechnung und parlamentarische Unterrichtung
+# § 11 – Jahresrechnung und parlamentarische Unterrichtung
 
 (1) Das Bundesministerium der Finanzen stellt am Schluss eines jeden Rechnungsjahres die Jahresrechnung für den Fonds auf.
 
@@ -491,13 +461,11 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (3) Ein Haushalts- oder Wirtschaftsplan wird nicht aufgestellt. Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundstages sind regelmäßig über den aktuellen Sachstand zu unterrichten. Das Gremium nach § 10a dieses Gesetzes ist in allen Fällen von wesentlicher Bedeutung unverzüglich zu unterrichten.
 
-
-## § 12 – Verwaltungskosten
+# § 12 – Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
-
-## § 13 – Befristung und Länderbeteiligung
+# § 13 – Befristung und Länderbeteiligung
 
 (1) Stabilisierungsmaßnahmen des Fonds einschließlich der Maßnahmen nach den §§ 6a und 8a sind bis zum 31. Dezember 2015 möglich. Anschließend ist der Fonds abzuwickeln und aufzulösen. Für den Fonds ist ein Schlussergebnis zu ermitteln. Dabei sind Ergebnisse für die bis zum 31. Dezember 2012 gewährten Maßnahmen und die nach dem 31. Dezember 2012 gewährten Maßnahmen separat auszuweisen. Dem Ergebnis für bis zum 31. Dezember 2012 gewährte Maßnahmen werden dabei auch die Ergebnisse von Maßnahmen nach den Absätzen 1a und 1b zugerechnet, soweit sie Anschlussmaßnahmen nach den Absätzen 1a und 1b zu bis zum 31. Dezember 2012 ergriffenen Maßnahmen sind.
 
@@ -515,8 +483,7 @@ Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 (5) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnungen nach Absatz 4 unverzüglich zu unterrichten.
 
-
-## § 14 – Steuern
+# § 14 – Steuern
 
 (1) Der Fonds unterliegt nicht der Gewerbesteuer oder der Körperschaftsteuer. Er ist kein Unternehmer im Sinne des Umsatzsteuergesetzes.
 
@@ -528,8 +495,7 @@ Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 (4) Die zur Wahrnehmung der dem Fonds zugewiesenen Aufgaben als Erwerber vorgenommenen Rechtsakte und dessen Erwerbe als Enteignungsbegünstigter sind von der Grunderwerbsteuer befreit. Bei der Ermittlung des Vomhundertsatzes des § 1 Absatz 2a des Grunderwerbsteuergesetzes bleiben Erwerbe von Anteilen durch den Fonds außer Betracht.
 
-
-## § 14a – Steuerrechtliche Sonderregelungen im Zusammenhang mit Vermögensübertragungen nach den §§ 6a und 8a
+# § 14a – Steuerrechtliche Sonderregelungen im Zusammenhang mit Vermögensübertragungen nach den §§ 6a und 8a
 
 (1) Beim übertragenden Unternehmen sind die Schuldtitel im Sinne des § 6a Absatz 1 abweichend von § 6 Absatz 6 des Einkommensteuergesetzes mit dem Wert anzusetzen, zu dem das übertragende Unternehmen die strukturierten Wertpapiere nach § 6a Absatz 2 Nummer 2 übertragen hat. Bei der Zweckgesellschaft im Sinne des § 6a Absatz 1 sind die erhaltenen strukturierten Wertpapiere mit dem Wert der für die Anschaffung begebenen Schuldtitel im Sinne des § 6a Absatz 1 anzusetzen.
 
@@ -539,8 +505,7 @@ Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 (4) Für den steuerlichen Übertragungsstichtag gilt § 8a Absatz 8 Nummer 6.
 
-
-## § 14b – Steuerrechtliche Sonderregelungen zu Zweckgesellschaften und Abwicklungsanstalten nach den §§ 6a und 8a
+# § 14b – Steuerrechtliche Sonderregelungen zu Zweckgesellschaften und Abwicklungsanstalten nach den §§ 6a und 8a
 
 (1) Die Zweckgesellschaft im Sinne des § 6a Absatz 1 gilt als Gewerbebetrieb im Sinne des § 35c Absatz 1 Nummer 2 Buchstabe e des Gewerbesteuergesetzes und des § 19 Absatz 3 Nummer 2 der Gewerbesteuer-Durchführungsverordnung, wenn sie nachweislich ausschließlich die in § 6a Absatz 1 genannten Wirtschaftsgüter erwirbt und verwaltet (einschließlich deren Veräußerung und Wiederanlage) und für den Erwerb notwendige Schuldtitel begibt.
 
@@ -550,8 +515,7 @@ Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
 (4) Die Abwicklungsanstalt ist gewerbesteuerpflichtig, wenn sie als stehender Gewerbebetrieb anzusehen ist; sie ist in diesem Fall Schuldner der Gewerbesteuer. Auf die gewerbesteuerpflichtige Abwicklungsanstalt, auf die nur Risikopositionen im Sinne des § 8a Absatz 1 Satz 1 übertragen worden sind, ist Absatz 1 entsprechend anzuwenden; für übrige Abwicklungsanstalten ist § 19 Absatz 1 und 2 der Gewerbesteuer-Durchführungsverordnung entsprechend anzuwenden.
 
-
-## § 14c – Steuerrechtliche Behandlung von Zahlungen in die Zweckgesellschaft oder die Abwicklungsanstalt und Auskehrungen der Zweckgesellschaft oder der Abwicklungsanstalt
+# § 14c – Steuerrechtliche Behandlung von Zahlungen in die Zweckgesellschaft oder die Abwicklungsanstalt und Auskehrungen der Zweckgesellschaft oder der Abwicklungsanstalt
 
 (1) Als negative Einnahmen im Sinne des § 20 Absatz 1 Nummer 1 oder 10 Buchstabe a des Einkommensteuergesetzes gelten
 
@@ -585,18 +549,15 @@ Für Leistungen der Abwicklungsanstalt im Sinne des § 8a Absatz 4 Satz 1 Nummer
 
 ist in diesen Fällen das übertragende Unternehmen im Sinne des § 8a Absatz 1 Satz 2 das zur Weiterleitung der Kapitalerträge verpflichtete Unternehmen, ist es für Zwecke von Abschnitt VI Teil 3 des Einkommensteuergesetzes Schuldner dieser Kapitalerträge. Werden Leistungen, die mit Leistungen im Sinne des § 8a Absatz 4 Satz 1 Nummer 3 wirtschaftlich vergleichbar sind, vor dem in § 8a Absatz 4 Satz 1 Nummer 3 genannten Zeitpunkt erbracht, sind die Sätze 1 und 2 im Sinne des § 8b entsprechend anzuwenden. Hat der nicht an der Abwicklungsanstalt beteiligte Begünstigte Zahlungen im Sinne des § 8a Absatz 4 Satz 1 Nummer 1 und 2 geleistet, ist auf Leistungen der Abwicklungsanstalt im Sinne des § 8a Absatz 4 Satz 1 Nummer 3 bis zur Höhe dieser Zahlungen zunächst Satz 2 Nummer 2 anzuwenden. Dies ist vom Anteilseigner nachzuweisen; Absatz 3 ist vom Anteilseigner entsprechend anzuwenden.
 
-
-## § 14d – Steuerrechtliche Sonderregelungen im Zusammenhang mit landesrechtlichen Abwicklungsanstalten
+# § 14d – Steuerrechtliche Sonderregelungen im Zusammenhang mit landesrechtlichen Abwicklungsanstalten
 
 § 14a Absatz 2 bis 4 gilt im Zusammenhang mit Vermögensübertragungen in die landesrechtliche Abwicklungsanstalten im Sinne des § 8b entsprechend. § 14b Absatz 2 bis 4 ist auf die landesrechtlichen Abwicklungsanstalten im Sinne des § 8b entsprechend anzuwenden.
 
-
-## § 15 – Errichtung des Fonds
+# § 15 – Errichtung des Fonds
 
 Es wird ein Fonds des Bundes unter der Bezeichnung „Wirtschaftsstabilisierungsfonds – WSF –“ errichtet.
 
-
-## § 16 – Zweck des Fonds
+# § 16 – Zweck des Fonds
 
 (1) Der Wirtschaftsstabilisierungsfonds dient der Stabilisierung von Unternehmen der Realwirtschaft durch Überwindung von Liquiditätsengpässen und durch Schaffung der Rahmenbedingungen für eine Stärkung der Kapitalbasis von Unternehmen, deren Bestandsgefährdung erhebliche Auswirkungen auf die Wirtschaft, die technologische Souveränität, Versorgungssicherheit, kritische Infrastrukturen oder den Arbeitsmarkt hätte.
 
@@ -612,13 +573,11 @@ Es wird ein Fonds des Bundes unter der Bezeichnung „Wirtschaftsstabilisierungs
 
 (4) Das Bundesministerium für Wirtschaft und Energie ist der zuständige Ansprechpartner für die Unternehmen der Realwirtschaft.
 
-
-## § 17 – Stellung im Rechtsverkehr
+# § 17 – Stellung im Rechtsverkehr
 
 Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden. Arrest oder andere Maßnahmen der Zwangsvollstreckung in den Wirtschaftsstabilisierungsfonds finden nicht statt. § 394 Satz 1 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden. Der allgemeine Gerichtsstand des Wirtschaftsstabilisierungsfonds ist Frankfurt am Main. Satz 3 und Satz 4 gelten entsprechend für durch andere inländische Gebietskörperschaften errichtete, mit dem Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen.
 
-
-## § 18 – Institutioneller Rahmen; Verordnungsermächtigung
+# § 18 – Institutioneller Rahmen; Verordnungsermächtigung
 
 (1) Die Verwaltung des Wirtschaftsstabilisierungsfonds mit Ausnahme der Entscheidungen über Stabilisierungsmaßnahmen nach § 20 Absatz 1 und der Wahrnehmung der Aufgaben nach § 20 Absatz 3 obliegt der Finanzagentur. Die Finanzagentur nimmt die Aufgaben im Zusammenhang mit der Verwaltung des Wirtschaftsstabilisierungsfonds, auch im Namen des Wirtschaftsstabilisierungsfonds, als eigene wahr. Die Finanzagentur untersteht hinsichtlich der Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Die Fachaufsicht in Bezug auf die Entscheidungen über Stabilisierungsmaßnahmen nach § 20 wird vom Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie ausgeübt. Das Bundesministerium für Wirtschaft und Energie ist der Ansprechpartner für die Unternehmen.
 
@@ -628,8 +587,7 @@ Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 
 (4) § 3a Absatz 6a und § 3b Absatz 1 bis 3 gelten entsprechend. Soweit durch andere inländische Gebietskörperschaften errichtete, mit dem Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen durch eine Finanzagentur nach dem Recht der inländischen Gebietskörperschaft vertreten und deren Aufgaben durch diese Finanzagentur wahrgenommen werden, gelten § 3a Absatz 6a Satz 1 und 2 für die nach dem Recht der inländischen Gebietskörperschaft errichtete Finanzagentur entsprechend.
 
-
-## § 19 – Kostendeckung und Kostenerstattung; Verordnungsermächtigung
+# § 19 – Kostendeckung und Kostenerstattung; Verordnungsermächtigung
 
 (1) Die §§ 3d und 3e gelten hinsichtlich der Kosten der Finanzagentur entsprechend. Die §§ 3d und 3e Absatz 1 bis 3 gelten hinsichtlich der Kosten der Kreditanstalt für Wiederaufbau entsprechend. Für die Kosten, die dem Bundesministerium der Finanzen oder dem Bundesministerium für Wirtschaft und Energie sowie den nach diesem Gesetz vorgesehenen Gremien für Stabilisierungsmaßnahmen nach den §§ 21 und 22 dieses Gesetzes entstehen, können das Bundesministerium der Finanzen oder das Bundesministerium für Wirtschaft und Energie von den jeweiligen Adressaten eine Erstattung, auch in Form von Kostenpauschalen, nach Maßgabe der nach Absatz 2 erlassenen Rechtsverordnung verlangen.
 
@@ -641,8 +599,7 @@ Der Wirtschaftsstabilisierungsfonds ist nicht rechtsfähig. Er kann unter seinem
 
 (3) In der nach Absatz 2 erlassenen Rechtsverordnung kann bestimmt werden, dass sie auch auf die bei ihrem Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden ist, soweit zu diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
 
-
-## § 20 – Entscheidung über Stabilisierungsmaßnahmen; Verordnungsermächtigung
+# § 20 – Entscheidung über Stabilisierungsmaßnahmen; Verordnungsermächtigung
 
 (1) Über vom Wirtschaftsstabilisierungsfonds nach den §§ 21 und 22 dieses Gesetzes vorzunehmende Stabilisierungsmaßnahmen entscheidet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie auf Antrag des Unternehmens nach pflichtgemäßem Ermessen unter Berücksichtigung
 
@@ -668,8 +625,7 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (7) Für den Wirtschaftsstabilisierungsfonds gilt § 5 entsprechend.
 
-
-## § 21 – Gewährleistungsermächtigung; Verordnungsermächtigung
+# § 21 – Gewährleistungsermächtigung; Verordnungsermächtigung
 
 (1) Der Wirtschaftsstabilisierungsfonds wird ermächtigt, für den Wirtschaftsstabilisierungsfonds Garantien bis zur Höhe von 400 Milliarden Euro für vom 28. März 2020 bis zum 31. Dezember 2021 begebene Schuldtitel und begründete Verbindlichkeiten von Unternehmen zu übernehmen, um Liquiditätsengpässe zu beheben und die Refinanzierung am Kapitalmarkt zu unterstützen; die Laufzeit der Garantien und der abzusichernden Verbindlichkeiten darf 60 Monate nicht übersteigen. Der Wirtschaftsstabilisierungsfonds-Ausschuss kann nach eigenem Ermessen auch über Anträge von Unternehmen entscheiden, die die Merkmale nach § 16 Absatz 2, 2. Halbsatz nicht erfüllen, sofern diese Unternehmen in einem der in § 55 Außenwirtschaftsverordnung genannten Sektoren tätig oder von vergleichbarer Bedeutung für die Sicherheit oder die Wirtschaft sind. Für die Übernahme von Garantien ist eine angemessene Gegenleistung zu erheben.
 
@@ -689,8 +645,7 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (4) § 6 Absatz 1a bis 3 gilt entsprechend. § 6 Absatz 1a gilt auch für von durch andere inländischen Gebietskörperschaften errichtete, dem Wirtschaftsstabilisierungsfonds vergleichbare Einrichtungen übernommene Garantien entsprechend.
 
-
-## § 22 – Rekapitalisierung; Verordnungsermächtigung
+# § 22 – Rekapitalisierung; Verordnungsermächtigung
 
 (1) Der Wirtschaftsstabilisierungsfonds kann sich an der Rekapitalisierung von Unternehmen beteiligen. Die Rekapitalisierungsmaßnahmen umfassen den Erwerb von nachrangigen Schuldtiteln, Hybridanleihen, Genussrechten, stillen Beteiligungen, Wandelanleihen, den Erwerb von Anteilen an Unternehmen und die Übernahme sonstiger Bestandteile des Eigenkapitals dieser Unternehmen, wenn dies für die Stabilisierung des Unternehmens erforderlich ist. Für die Rekapitalisierung ist eine angemessene Vergütung zu vereinbaren.
 
@@ -708,13 +663,11 @@ Soweit es sich um Grundsatzfragen, Angelegenheiten von besonderer Bedeutung sowi
 
 (4) Der Haushaltsausschuss des Deutschen Bundestages ist über den Erlass und Änderungen der Rechtsverordnung nach Absatz 3 unverzüglich zu unterrichten.
 
-
-## § 23 – Refinanzierung der Sonderprogramme der Kreditanstalt für Wiederaufbau
+# § 23 – Refinanzierung der Sonderprogramme der Kreditanstalt für Wiederaufbau
 
 Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für Wiederaufbau Darlehen zur Refinanzierung der ihr von der Bundesregierung als Reaktion auf die so genannte Corona-Krise zugewiesenen Sonderprogramme gewähren. Die näheren Bedingungen der Darlehensgewährung legt der Wirtschaftsstabilisierungsfonds im Einzelfall fest.
 
-
-## § 24 – Kreditermächtigung
+# § 24 – Kreditermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für den Wirtschaftsstabilisierungsfonds zur Deckung von Inanspruchnahmen nach § 21 und von Aufwendungen und von Maßnahmen nach § 22 dieses Gesetzes Kredite bis zur Höhe von 100 Milliarden Euro aufzunehmen. Das Ministerium wird darüber hinaus ermächtigt, für den Wirtschaftsstabilisierungsfonds zum Zwecke der Darlehensgewährung nach § 23 Kredite in Höhe von bis zu 100 Milliarden Euro aufzunehmen.
 
@@ -722,8 +675,7 @@ Der Wirtschaftsstabilisierungsfonds kann der Kreditanstalt für Wiederaufbau Dar
 
 (3) Werden für Ausgaben, die keine finanziellen Transaktionen im Sinne des § 3 des Artikel 115-Gesetzes vom 10. August 2009 (BGBl. I S. 2702, 2704) sind, Kredite aufgenommen, ist in Verbindung mit der nächsten Beschlussfassung über ein Haushaltsgesetz ein gesonderter Beschluss des Deutschen Bundestages über die Tilgung der in diesem Umfang erhöhten Bundesschuld herbeizuführen, soweit mit dieser Kreditaufnahme die nach der Schuldenregel zulässige Kreditaufnahme überschritten worden ist. Die Tilgung hat binnen eines angemessenen Zeitraums zu erfolgen. Nach Maßgabe dieses Tilgungsplans verringert sich in den jeweiligen Jahren die nach der Schuldenregel zulässige Nettokreditaufnahme des Bundes.
 
-
-## § 25 – Voraussetzungen und Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung
+# § 25 – Voraussetzungen und Bedingungen für Stabilisierungsmaßnahmen; Verordnungsermächtigung
 
 (1) Den Unternehmen dürfen anderweitige Finanzierungsmöglichkeiten nicht zur Verfügung stehen. Durch die Stabilisierungsmaßnahmen muss eine klare eigenständige Fortführungsperspektive nach Überwindung der Pandemie bestehen. Unternehmen, die eine Maßnahme dieses Gesetzes beantragen, dürfen zum 31. Dezember 2019 nicht die EU-Definition von „Unternehmen in Schwierigkeiten“ erfüllt haben.
 
@@ -757,8 +709,7 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (5) Die §§ 10a, 11 und 12 gelten entsprechend.
 
-
-## § 26 – Befristung; Verordnungsermächtigung
+# § 26 – Befristung; Verordnungsermächtigung
 
 (1) Stabilisierungsmaßnahmen des Wirtschaftsstabilisierungsfonds sind bis zum 31. Dezember 2021 möglich. Wenn der Wirtschaftsstabilisierungsfonds seine Aufgaben erfüllt hat, ist er abzuwickeln und aufzulösen. Für den Wirtschaftsstabilisierungsfonds ist ein Schlussergebnis zu ermitteln.
 
@@ -768,8 +719,7 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (4) § 13 Absatz 5 gilt entsprechend.
 
-
-## § 27 – Steuern
+# § 27 – Steuern
 
 (1) Sofern Abspaltungen nach § 15 Absatz 1 des Umwandlungssteuergesetzes eine notwendige Vorbereitung von Stabilisierungsmaßnahmen nach den §§ 21 und 22 darstellen, ist § 15 Absatz 3 des Umwandlungssteuergesetzes nicht anzuwenden. Verrechenbare Verluste, verbleibende Verlustvorträge, nicht ausgeglichene negative Einkünfte und ein Zinsvortrag nach § 4h Absatz 1 Satz 5 des Einkommensteuergesetzes und ein EBITDA-Vortrag nach § 4h Absatz 1 Satz 3 des Einkommensteuergesetzes verbleiben bei der übertragenden Körperschaft.
 
@@ -779,22 +729,18 @@ Die Anforderungen können sich nach Art und Adressaten der Stabilisierungsmaßna
 
 (+++ § 27: Zur Anwendung vgl. § 28 +++)
 
-
-## § 28 – Anwendungsvorschrift für § 27
+# § 28 – Anwendungsvorschrift für § 27
 
 § 27 ist erstmals für den Veranlagungszeitraum und Erhebungszeitraum 2020 anzuwenden.
 
-
-## § 29 – Sofortige Vollziehbarkeit
+# § 29 – Sofortige Vollziehbarkeit
 
 Ein Widerspruch ist ausgeschlossen. Die Anfechtungsklage gegen Maßnahmen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen hat keine aufschiebende Wirkung.
 
-
-## § 30 – Rechtsweg
+# § 30 – Rechtsweg
 
 Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über öffentlich-rechtliche Streitigkeiten nicht verfassungsrechtlicher Art nach diesem Gesetz. Im Übrigen bleibt die Zuständigkeit der ordentlichen Gerichte unberührt. Dabei entscheidet der Bundesgerichtshof in erster und letzter Instanz.
 
-
-## § 31 – Verkündung von Rechtsverordnungen
+# § 31 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

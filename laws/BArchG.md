@@ -1,10 +1,7 @@
-# [BArchG] Gesetz über die Nutzung und Sicherung von Archivgut des Bundes  (Bundesarchivgesetz - BArchG)
-
-Ausfertigungsdatum: 10.03.2017
-
+% Gesetz über die Nutzung und Sicherung von Archivgut des Bundes  (Bundesarchivgesetz - BArchG)
+% Ausfertigungsdatum: 10.03.2017
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -50,13 +47,11 @@ b) die nach einer Rechtsvorschrift oder Vereinbarung dauerhaft aufzubewahren sin
 
 11. Zwischenarchivgut des Bundes: Unterlagen, die das Bundesarchiv vor Ablauf der Aufbewahrungsfristen vorläufig übernommen hat und in einem Zwischenarchiv oder digitalen Zwischenarchiv verwahrt.
 
-
-## § 2 – Organisation des Bundesarchivs
+# § 2 – Organisation des Bundesarchivs
 
 Der Bund unterhält ein Bundesarchiv als selbstständige Bundesoberbehörde, die der Dienst- und Fachaufsicht der für Kultur und Medien zuständigen obersten Bundesbehörde untersteht.
 
-
-## § 3 – Aufgaben des Bundesarchivs
+# § 3 – Aufgaben des Bundesarchivs
 
 (1) Das Bundesarchiv hat die Aufgabe, das Archivgut des Bundes auf Dauer zu sichern, nutzbar zu machen und wissenschaftlich zu verwerten. Es gewährleistet den Zugang zum Archivgut des Bundes unter Wahrung des Schutzes privater oder öffentlicher Belange. Dies kann auch durch Digitalisierung und öffentliche Zugänglichmachung im Internet geschehen.
 
@@ -90,8 +85,7 @@ Das Bundesarchiv stellt den bleibenden Wert der Unterlagen im Benehmen mit der a
 
 (+++ § 3 Abs. 1 S. 2: Zur Anwendung vgl. § 4 Abs. 2 +++)
 
-
-## § 3a – Wahrnehmung besonderer Aufgaben
+# § 3a – Wahrnehmung besonderer Aufgaben
 
 (1) Die Aufgaben der aufgelösten „Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht (WASt)“ werden vom Bundesarchiv wahrgenommen. Das Bundesarchiv verwahrt deren Unterlagen zum Schicksal von Militärpersonen und diesen in personenstandsrechtlicher Hinsicht gleichgestellten Personen infolge des Ersten und Zweiten Weltkrieges und führt die anhängigen Verwaltungsverfahren fort.
 
@@ -109,8 +103,7 @@ Zur Erfüllung seiner Aufgaben nach Satz 2 erteilt das Bundesarchiv mündliche u
 
 (3) Ergänzend zu Absatz 2 gelten für die Unterlagen die Zugangsvorschriften der §§ 10 bis 16 entsprechend. Soweit in Absatz 1 bezeichnete Unterlagen nicht mehr bearbeitet werden und ihnen bleibender Wert zukommt, können sie als Archivgut gewidmet werden.
 
-
-## § 4 – Stiftung „Archiv der Parteien und Massenorganisationen der DDR“
+# § 4 – Stiftung „Archiv der Parteien und Massenorganisationen der DDR“
 
 (1) Die „Stiftung Archiv der Parteien und Massenorganisationen der DDR“ ist eine unselbständige Stiftung des öffentlichen Rechts im Bundesarchiv.
 
@@ -120,8 +113,7 @@ Zur Erfüllung seiner Aufgaben nach Satz 2 erteilt das Bundesarchiv mündliche u
 
 (4) Einzelheiten zu Organisation, Aufgaben und Vermögen der Stiftung werden durch die für Kultur und Medien zuständige oberste Bundesbehörde geregelt.
 
-
-## § 5 – Anbietung und Abgabe von Unterlagen
+# § 5 – Anbietung und Abgabe von Unterlagen
 
 (1) Die öffentlichen Stellen des Bundes haben dem Bundesarchiv oder, im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv alle Unterlagen, die bei ihnen vorhanden sind, in ihr Eigentum übergegangen sind oder ihnen zur Nutzung überlassen worden sind, zur Übernahme anzubieten, wenn
 
@@ -141,8 +133,7 @@ Vorbehaltlich des Satzes 1 sollen Unterlagen spätestens 30 Jahre nach ihrer Ent
 
 (+++ § 5 Abs. 5: Zur Anwendung vgl. § 8 Abs. 2 +++)
 
-
-## § 6 – Anbietung und Abgabe von Unterlagen, die einer Geheimhaltungs-, Vernichtungs- oder Löschungspflicht unterliegen
+# § 6 – Anbietung und Abgabe von Unterlagen, die einer Geheimhaltungs-, Vernichtungs- oder Löschungspflicht unterliegen
 
 (1) Die öffentlichen Stellen des Bundes haben dem Bundesarchiv oder, im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv auch Unterlagen zur Übernahme anzubieten, die den Rechtsvorschriften des Bundes über die Geheimhaltung oder § 30 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61), die zuletzt durch Artikel 19 Absatz 12 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3234) geändert worden ist, unterliegen. Unterlagen der Nachrichtendienste sind anzubieten, wenn sie deren Verfügungsberechtigung unterliegen und zwingende Gründe des nachrichtendienstlichen Quellen- und Methodenschutzes sowie der Schutz der Identität der bei ihnen beschäftigten Personen einer Abgabe nicht entgegenstehen.
 
@@ -162,13 +153,11 @@ Amtsträger und für den öffentlichen Dienst besonders Verpflichtete in öffent
 
 (4) Unterlagen, die den Rechtsvorschriften des Bundes über die Geheimhaltung oder dem Steuergeheimnis nach § 30 der Abgabenordnung unterliegen oder Angaben über Verhältnisse eines anderen oder fremde Betriebs- oder Geschäftsgeheimnisse enthalten, dürfen dem Bundesarchiv oder, im Fall des § 7, dem zuständigen Landes- oder Kommunalarchiv auch von anderen Stellen als den öffentlichen Stellen des Bundes zur Archivierung angeboten und abgegeben werden.
 
-
-## § 7 – Anbietung und Abgabe von Unterlagen an Landes- oder Kommunalarchive
+# § 7 – Anbietung und Abgabe von Unterlagen an Landes- oder Kommunalarchive
 
 Die öffentlichen Stellen des Bundes haben Unterlagen von nachgeordneten Stellen des Bundes, deren örtliche Zuständigkeit sich nicht auf den gesamten Geltungsbereich dieses Gesetzes erstreckt, auf Vorschlag des Bundesarchivs mit Zustimmung der zuständigen obersten Bundesbehörde dem zuständigen Landes- oder Kommunalarchiv zur Übernahme anzubieten und abzugeben, wenn die Vorgaben der §§ 6 und 10 bis 14 durch Landesgesetze oder kommunale Satzungen sichergestellt sind.
 
-
-## § 8 – Zwischenarchiv und digitales Zwischenarchiv
+# § 8 – Zwischenarchiv und digitales Zwischenarchiv
 
 (1) Das Bundesarchiv unterhält das Zwischenarchiv für die nicht elektronischen Unterlagen der obersten Bundesbehörden und der Verfassungsorgane. Das Bundesarchiv unterhält zudem das digitale Zwischenarchiv für die elektronischen Unterlagen aller Einrichtungen der Bundesverwaltung.
 
@@ -176,13 +165,11 @@ Die öffentlichen Stellen des Bundes haben Unterlagen von nachgeordneten Stellen
 
 (3) Auf die Abgabe elektronischer Unterlagen an das digitale Zwischenarchiv sind die für die Bundesverwaltung verbindlich festgelegten Standards anzuwenden. Sofern für die Form der Übermittlung und für das Datenformat kein Standard für die Bundesverwaltung verbindlich festgelegt wurde, sind diese im Einvernehmen mit der abgebenden öffentlichen Stelle festzulegen.
 
-
-## § 9 – Veräußerungsverbot
+# § 9 – Veräußerungsverbot
 
 Archivgut des Bundes ist unveräußerlich.
 
-
-## § 10 – Nutzung von Archivgut des Bundes
+# § 10 – Nutzung von Archivgut des Bundes
 
 (1) Jeder Person steht nach Maßgabe dieses Gesetzes auf Antrag das Recht zu, Archivgut des Bundes zu nutzen. Regelungen in anderen Rechtsvorschriften über die Nutzung von Unterlagen sowie besondere Vereinbarungen zugunsten von Eigentümern Archivguts privater Herkunft bleiben unberührt.
 
@@ -193,8 +180,7 @@ Archivgut des Bundes ist unveräußerlich.
 (+++ § 10: Zur Anwendung vgl. § 11 Abs. 6 +++)  
 (+++ § 10 Abs. 3: Zur Anwendung vgl. § 14 Abs. 1 +++)
 
-
-## § 11 – Schutzfristen
+# § 11 – Schutzfristen
 
 (1) Die allgemeine Schutzfrist für Archivgut des Bundes beträgt 30 Jahre, sofern durch Rechtsvorschrift nichts anderes bestimmt ist. Sie beginnt mit der Entstehung der Unterlagen.
 
@@ -212,8 +198,7 @@ Archivgut des Bundes ist unveräußerlich.
 
 (6) Auf die Nutzung von Unterlagen, die älter als 30 Jahre sind und noch der Verfügungsgewalt der öffentlichen Stellen des Bundes unterliegen, sind die Absätze 1 bis 5 und die §§ 10, 12 und 13 entsprechend anzuwenden.
 
-
-## § 12 – Verkürzungen und Verlängerungen der Schutzfristen
+# § 12 – Verkürzungen und Verlängerungen der Schutzfristen
 
 (1) Das Bundesarchiv kann die Schutzfrist nach § 11 Absatz 1 verkürzen, soweit dem keine Einschränkungs- und Versagungsgründe gemäß § 13 entgegenstehen.
 
@@ -230,8 +215,7 @@ Archivgut des Bundes ist unveräußerlich.
 (+++ § 12: Zur Anwendung vgl. § 11 Abs. 6 +++)  
 (+++ § 12 Abs. 4: Zur Anwendung vgl. § 16 Abs. 1 +++)
 
-
-## § 13 – Einschränkungs- und Versagungsgründe
+# § 13 – Einschränkungs- und Versagungsgründe
 
 (1) Das Bundesarchiv hat die Nutzung nach den §§ 10 bis 12 einzuschränken oder zu versagen, wenn
 
@@ -253,8 +237,7 @@ Bei der Abwägung der in Satz 1 Nummer 2 genannten Belange ist insbesondere zu b
 
 (+++ § 13: Zur Anwendung vgl. § 11 Abs. 6 +++)
 
-
-## § 14 – Rechte der Betroffenen
+# § 14 – Rechte der Betroffenen
 
 (1) Den Betroffenen steht auf Antrag das Recht zu, Auskunft über die im Archivgut des Bundes zu ihrer Person enthaltenen Unterlagen zu erhalten, soweit das Archivgut des Bundes durch den Namen der Person erschlossen ist oder Angaben gemacht werden, die das Auffinden des betreffenden Archivguts des Bundes mit vertretbarem Verwaltungsaufwand ermöglichen. Auf die Einsichtnahme ist § 10 Absatz 3 entsprechend anzuwenden.
 
@@ -264,15 +247,13 @@ Bei der Abwägung der in Satz 1 Nummer 2 genannten Belange ist insbesondere zu b
 
 (4) Bestreiten die Betroffenen die Richtigkeit von Unterlagen mit personenbezogenen Daten, so ist ihnen die Möglichkeit einer Gegendarstellung einzuräumen. Die Möglichkeit einer Gegendarstellung ist auch den Angehörigen verstorbener Betroffener einzuräumen, wenn sie ein berechtigtes Interesse daran geltend machen. Das Bundesarchiv ist verpflichtet, die Gegendarstellungen den Unterlagen hinzuzufügen.
 
-
-## § 15 – Nutzung von Archivgut des Bundes durch die abgebenden Stellen
+# § 15 – Nutzung von Archivgut des Bundes durch die abgebenden Stellen
 
 (1) Die abgebenden Stellen und ihre Rechts- oder Funktionsnachfolger haben gegen Ersatz der Auslagen im Bundesarchiv jederzeit gebührenfreien Zugang zu Archivgut des Bundes, das sie abgegeben haben, wenn sie dieses zur Erfüllung ihrer Aufgaben benötigen. In Ausnahmefällen wird der Zugang bei der abgebenden Stelle gewährt.
 
 (2) Das Nutzungsrecht nach Absatz 1 ist nicht auf Unterlagen mit personenbezogenen Daten anzuwenden, die vor einer Vernichtung oder Löschung an das Bundesarchiv abgegeben worden sind. In diesen Fällen besteht das Zugangsrecht nur nach Maßgabe der §§ 10 bis 13, jedoch nicht zu dem Zweck, zu welchem die personenbezogenen Daten ursprünglich gespeichert worden sind.
 
-
-## § 16 – Übermittlung von Vervielfältigungen von Archivgut des Bundes vor Ablauf der Schutzfristen
+# § 16 – Übermittlung von Vervielfältigungen von Archivgut des Bundes vor Ablauf der Schutzfristen
 
 (1) Das Bundesarchiv kann Archiven, Bibliotheken und Museen sowie Forschungs- und Dokumentationsstellen Vervielfältigungen von Archivgut des Bundes vor Ablauf der Schutzfristen übermitteln, wenn ein besonderes öffentliches Interesse besteht, dass ihnen dieses Archivgut zur Wahrnehmung ihrer jeweiligen Aufgaben zur Verfügung steht; § 12 Absatz 4 ist entsprechend anzuwenden.
 
@@ -284,8 +265,7 @@ Bei der Abwägung der in Satz 1 Nummer 2 genannten Belange ist insbesondere zu b
 
 (3) Der Vervielfältigung und Übermittlung dürfen andere Rechtsvorschriften nicht entgegenstehen.
 
-
-## § 17 – Pflichtregistrierung für deutsche Kinofilme
+# § 17 – Pflichtregistrierung für deutsche Kinofilme
 
 (1) Die Hersteller und Mithersteller deutscher Kinofilme haben diese Filme in einer Datenbank beim Bundesarchiv nach Satz 2 zu registrieren. Die Registrierung ist binnen zwölf Monaten nach der ersten öffentlichen Aufführung in einem Kino, auf einem national oder international bedeutsamen Festival, bei einer national oder international bedeutsamen Preisverleihung oder nach einer öffentlichen Auszeichnung bei einer solchen national oder international bedeutsamen Veranstaltung vorzunehmen.
 
@@ -293,8 +273,7 @@ Bei der Abwägung der in Satz 1 Nummer 2 genannten Belange ist insbesondere zu b
 
 (3) Nicht programmfüllende Kinofilme, die eine Vorführdauer von weniger als 79 Minuten oder bei Kinderfilmen von weniger als 59 Minuten haben, sind nur dann zu registrieren, wenn sie entweder öffentlich aufgeführt oder mit öffentlichen Mitteln gefördert worden sind oder eine öffentliche Auszeichnung auf einem national oder international bedeutsamen Festival oder bei einer national oder international bedeutsamen Preisverleihung erhalten haben.
 
-
-## § 18 – Bußgeldvorschriften
+# § 18 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -308,8 +287,7 @@ Bei der Abwägung der in Satz 1 Nummer 2 genannten Belange ist insbesondere zu b
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesarchiv.
 
-
-## § 19 – Verordnungsermächtigung
+# § 19 – Verordnungsermächtigung
 
 Das für Kultur und Medien zuständige Mitglied der Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 

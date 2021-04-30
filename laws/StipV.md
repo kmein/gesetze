@@ -1,15 +1,11 @@
-# [StipV] Verordnung zur Durchführung des Stipendienprogramm-Gesetzes  (Stipendienprogramm-Verordnung - StipV)
-
-Ausfertigungsdatum: 20.12.2010
-
+% Verordnung zur Durchführung des Stipendienprogramm-Gesetzes  (Stipendienprogramm-Verordnung - StipV)
+% Ausfertigungsdatum: 20.12.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Nummer 1, 2, 7 und 8 des Stipendienprogramm-Gesetzes vom 21. Juli 2010 (BGBl. I S. 957) verordnet die Bundesregierung:
 
-
-## § 1 – Bewerbungs- und Auswahlverfahren
+# § 1 – Bewerbungs- und Auswahlverfahren
 
 Die Hochschulen schreiben ihre zu vergebenden Stipendien mindestens einmal im Jahr aus. Spätestens mit der Ausschreibung machen die Hochschulen in allgemein zugänglicher Form bekannt
 
@@ -25,8 +21,7 @@ Die Hochschulen schreiben ihre zu vergebenden Stipendien mindestens einmal im Ja
 
 Vorschriften der Hochschulen zur weiteren Ausgestaltung der Bewerbungs- und Auswahlverfahren bleiben unberührt.
 
-
-## § 2 – Auswahlkriterien
+# § 2 – Auswahlkriterien
 
 (1) Leistung und Begabung im Sinne des § 3 Satz 1 des Gesetzes können insbesondere wie folgt nachgewiesen werden:
 
@@ -46,18 +41,15 @@ b) die besondere Qualifikation, die zum Studium an dieser Hochschule berechtigt,
 
 3. besondere persönliche oder familiäre Umstände wie Krankheiten und Behinderungen, die Betreuung eigener Kinder, insbesondere als alleinerziehendes Elternteil, oder pflegebedürftiger naher Angehöriger, die Mitarbeit im familiären Betrieb, studienbegleitende Erwerbstätigkeiten, familiäre Herkunft oder ein Migrationshintergrund.
 
-
-## § 3 – Regelmäßige Begabungs- und Leistungsüberprüfung
+# § 3 – Regelmäßige Begabungs- und Leistungsüberprüfung
 
 Die Hochschulen prüfen mindestens einmal jährlich, ob die Begabung und Leistung der Stipendiatin oder des Stipendiaten eine Fortgewähr des Stipendiums rechtfertigt. Sie legen hierzu im Bewilligungsbescheid den Zeitpunkt und die Art der Nachweise fest, welche die Stipendiatin oder der Stipendiat erbringen muss, um diese Prüfung zu ermöglichen. Besondere persönliche oder familiäre Umstände, unter denen die Leistung erbracht wurde, werden berücksichtigt.
 
-
-## § 4 – (weggefallen)
+# § 4 – (weggefallen)
 
 \-
 
-
-## § 5 – Beirat
+# § 5 – Beirat
 
 (1) Der Beirat besteht aus zwölf Mitgliedern. Das Bundesministerium für Bildung und Forschung beruft:
 
@@ -79,12 +71,10 @@ Die Mitglieder nach Satz 2 Nummer 1 und 3 werden auf Vorschlag des Bundesrates, 
 
 (2) Die Geschäfte des Beirates führt das Bundesministerium für Bildung und Forschung oder eine von diesem beauftragte Stelle. Der Beirat gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Bildung und Forschung bedarf.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,10 +1,7 @@
-# [KaffeeV 2001] Verordnung über Kaffee, Kaffee- und Zichorien-Extrakte
-
-Ausfertigungsdatum: 15.11.2001
-
+% Verordnung über Kaffee, Kaffee- und Zichorien-Extrakte
+% Ausfertigungsdatum: 15.11.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft verordnet
 
@@ -14,15 +11,13 @@ auf Grund des § 19 Abs. 1 Nr. 1, 2 Buchstabe b und Nr.4 Buchstabe a, b und c de
 \-  
 auf Grund des § 44 Abs.1 Nr. 2 des Lebensmittel- und Bedarfsgegenständegesetzes in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 und dem Organisationserlass vom 22. Januar 2001:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die in der Anlage aufgeführten Erzeugnisse unterliegen dieser Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
 
 (2) Diese Verordnung gilt nicht für "Cafe torrefacto soluble".
 
-
-## § 2 – Kennzeichnung
+# § 2 – Kennzeichnung
 
 (1) Für die in der Anlage aufgeführten Erzeugnisse sind die dort genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
 
@@ -58,8 +53,7 @@ Werden andere Zuckerarten als Saccharose verwendet, gilt Satz 1 Nr. 5 und 6 ents
 
 (4) Für die Art und Weise der Kennzeichnung nach Absatz 3 gelten Artikel 8 Absatz 7, Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der Verordnung (EU) Nr. 1169/2011 und § 2 der Lebensmittelinformations-Durchführungsverordnung entsprechend. Die Angaben nach Absatz 3 Nummer 1, 5 und 6 sind im gleichen Sichtfeld wie die Bezeichnung des Lebensmittels anzubringen.
 
-
-## § 3 – Verkehrsverbote
+# § 3 – Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
@@ -71,13 +65,11 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 Im Falle des Satzes 1 Nr. 2 bleiben der Gehalt an zugelassenen Lebensmittelzusatzstoffen in Röstkaffee und der Gehalt an Kandiermitteln in kandiertem Kaffee bei der Anwendung dieser Vorschrift unberücksichtigt.
 
-
-## § 4 – Analysenmethoden
+# § 4 – Analysenmethoden
 
 Die zur Bestimmung des freien Kohlenhydratgehaltes und des Gesamtkohlenhydratgehaltes von löslichen Kaffees verwendeten Analysenmethoden müssen hinsichtlich der im Anhang unter den Nummern 1 und 2 der Richtlinie 85/591/EWG des Rates vom 20. Dezember 1985 zur Einführung gemeinschaftlicher Probenahmeverfahren und Analysenmethoden für die Kontrolle von Lebensmitteln (ABl. EG Nr. L 372 S. 50) aufgeführten erforderlichen Kriterien getestet sein.
 
-
-## § 5 – Straftaten und Ordnungswidrigkeiten
+# § 5 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Satz 1 Lebensmittel in den Verkehr bringt.
 
@@ -85,25 +77,21 @@ Die zur Bestimmung des freien Kohlenhydratgehaltes und des Gesamtkohlenhydratgeh
 
 (3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 3 Satz 1, auch in Verbindung mit Satz 2, ein Erzeugnis in den Verkehr bringt.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Bis zum 31. Dezember 2001 dürfen Erzeugnisse nach den bis zum Ablauf des 23. November 2001 geltenden Vorschriften hergestellt und gekennzeichnet werden. Nach Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1 und § 2)  Bezeichnungen und Begriffsbestimmungen
+# Anlage – (zu § 1 und § 2)  Bezeichnungen und Begriffsbestimmungen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3109
 

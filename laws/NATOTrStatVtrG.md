@@ -1,10 +1,7 @@
-# [NATOTrStatVtrG] Gesetz zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags vom 19. Juni 1951 über die Rechtsstellung ihrer Truppen und zu den Zusatzvereinbarungen vom 3. August 1959 zu diesem Abkommen  (Gesetz zum NATO-Truppenstatut und zu den Zusatzvereinbarungen)
-
-Ausfertigungsdatum: 18.08.1961
-
+% Gesetz zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags vom 19. Juni 1951 über die Rechtsstellung ihrer Truppen und zu den Zusatzvereinbarungen vom 3. August 1959 zu diesem Abkommen  (Gesetz zum NATO-Truppenstatut und zu den Zusatzvereinbarungen)
+% Ausfertigungsdatum: 18.08.1961
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 TEIL I
 
@@ -216,18 +213,15 @@ Inkrafttreten
 
 Artikel 26
 
-
-## § 1
+# § 1
 
 Soweit die Behörden des Entsendestaates die Gerichtsbarkeit ausüben, sind die Strafverfolgungsbehörden auf deren Ersuchen befugt, zur Erfüllung der sich aus Artikel VII Abs. 5 Buchstabe a und Abs. 6 Buchstabe a des NATO-Truppenstatuts ergebenden Verpflichtungen den Verfolgten vorläufig festzunehmen und bis zur Übergabe an die Militärbehörde des Entsendestaates festzuhalten sowie Beschlagnahme und Durchsuchung durchzuführen und sonstige zur Erfüllung der Verpflichtung erforderlichen Ermittlungshandlungen vorzunehmen. Die Bestimmungen der Strafprozeßordnung gelten entsprechend, soweit nachstehend nicht anderes bestimmt ist.
 
-
-## § 2
+# § 2
 
 Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des NATO-Truppenstatuts erforderliche Beschlagnahme und Durchsuchung werden von dem Amtsgericht angeordnet, in dessen Bezirk die Handlungen vorzunehmen sind. Sind Rechtshilfehandlungen in den Bezirken mehrerer Gerichte vorzunehmen, so richtet sich die Zuständigkeit danach, welches Gericht oder, solange noch kein Gericht befaßt ist, welche Staatsanwaltschaft zuerst mit der Sache befaßt wurde.
 
-
-## § 3
+# § 3
 
 (1) Ist nach Eingang eines Ersuchens um Festnahme und Übergabe nach Artikel VII Abs. 5 Buchstabe a des NATO-Truppenstatuts der Aufenthaltsort des Verfolgten nicht bekannt, können die Staatsanwaltschaft und ihre Ermittlungspersonen die Ausschreibung zur Aufenthaltsermittlung und zur Festnahme, wenn die vorläufige Festnahme erforderlich ist, veranlassen.
 
@@ -243,7 +237,6 @@ Die auf Grund eines Ersuchens nach Artikel VII Abs. 6 Buchstabe a des NATO-Trupp
 
 (7) Die für das Gericht örtlich zuständige Staatsanwaltschaft bei dem Landgericht bereitet die Entscheidung über die Übergabe vor und führt die vom Gericht angeordnete Übergabe durch.
 
-
-## § 4
+# § 4
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe der §§ 1 bis 3 eingeschränkt.

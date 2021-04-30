@@ -1,10 +1,7 @@
-# [BAAZustV] Verordnung zur Übertragung von Zuständigkeiten nach dem Lastenausgleichsgesetz auf das Bundesausgleichsamt
-
-Ausfertigungsdatum: 05.07.2000
-
+% Verordnung zur Übertragung von Zuständigkeiten nach dem Lastenausgleichsgesetz auf das Bundesausgleichsamt
+% Ausfertigungsdatum: 05.07.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,22 +13,18 @@ des § 312 Abs. 2 Satz 2 des Lastenausgleichsgesetzes, der durch Artikel 2 Nr. 5
 
 verordnet die Bundesregierung:
 
-
-## § 1
+# § 1
 
 Die Zuständigkeit, die nach § 332a Abs. 3 und § 335b Abs. 2 des Lastenausgleichsgesetzes im Rahmen des Aufgebotsverfahrens erforderliche Veröffentlichung im Bundesanzeiger zu veranlassen, wird auf das Bundesausgleichsamt übertragen.
 
-
-## § 2
+# § 2
 
 Die Zuständigkeit zur Erteilung einheitlicher Bescheide nach § 335b Absatz 1, § 349 Absatz 3 Satz 3 des Lastenausgleichsgesetzes über die Höhe des Schadensausgleichs bei Beteiligungen wird auf das Bundesausgleichsamt übertragen; bei Schäden einer Personengesellschaft des Handelsrechts gilt dies nur, soweit die Ausgleichsverwaltung nach dem 30. Juni 2009 Kenntnis vom Rückforderungstatbestand erlangt hat.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

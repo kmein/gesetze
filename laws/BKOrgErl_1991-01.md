@@ -1,10 +1,7 @@
-# [BKOrgErl 1991-01] Organisationserlaß des Bundeskanzlers
-
-Ausfertigungsdatum: 23.01.1991
-
+% Organisationserlaß des Bundeskanzlers
+% Ausfertigungsdatum: 23.01.1991
  
-
-## I.
+# I.
 
 Dem Bundesministerium für Gesundheit werden übertragen:
 
@@ -14,17 +11,14 @@ aus dem Geschäftsbereich des ehemaligen Bundesministeriums für Jugend, Familie
 \-  
 aus dem Geschäftsbereich des Bundesministeriums für Arbeit und Sozialordnung die Zuständigkeit für Gesundheit und Krankenversicherung.
 
-
-## II.
+# II.
 
 Dem Bundesministerium für Familie und Senioren wird aus dem Geschäftsbereich des ehemaligen Bundesministeriums für Jugend, Familie, Frauen und Gesundheit die Zuständigkeit für Familie und Soziales übertragen.
 
-
-## III.
+# III.
 
 Das Bundesministerium für Arbeit und Sozialordnung ist zuständig für Fragen der Absicherung bei Pflegebedürftigkeit.
 
-
-## IV.
+# IV.
 
 Die Einzelheiten des Überganges werden zwischen den beteiligten Bundesministern geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.

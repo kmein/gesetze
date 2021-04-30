@@ -1,15 +1,11 @@
-# [SchadRegProtAG] Gesetz zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006
-
-Ausfertigungsdatum: 06.06.2007
-
+% Gesetz zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006
+% Ausfertigungsdatum: 06.06.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für Betriebseinrichtungen im Sinne von Artikel 2 Nr. 4 der Verordnung (EG) Nr. 166/2006 des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Schaffung eines Europäischen Schadstofffreisetzungs- und -verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und 96/61/EG des Rates (ABl. EU Nr. L 33 S. 1) in der jeweils geltenden Fassung, in denen eine oder mehrere der in Anhang I der Verordnung (EG) Nr. 166/2006 genannten Tätigkeiten ausgeübt werden.
 
-
-## § 2 – Errichtung eines Schadstofffreisetzungs- und -verbringungsregisters
+# § 2 – Errichtung eines Schadstofffreisetzungs- und -verbringungsregisters
 
 (1) Das Umweltbundesamt errichtet und unterhält ein der Öffentlichkeit frei und unentgeltlich zugängliches, internetgestütztes Schadstofffreisetzungs- und -verbringungsregister (Register).
 
@@ -47,22 +43,19 @@ Dieses Gesetz gilt für Betriebseinrichtungen im Sinne von Artikel 2 Nr. 4 der V
 
 (4) Das Umweltbundesamt stellt die in Absatz 2 Satz 1 Nummer 1 bis 4 genannten Informationen jährlich und zwar spätestens 13 Monate nach Ende eines jeden Kalenderjahres, für das Informationen über die Freisetzung von Schadstoffen und die Verbringung außerhalb des Standortes von Abfällen und von Schadstoffen in Abwasser erfasst werden (Berichtsjahr), in das Register ein. Zehn Jahre nach der erstmaligen Einstellung der Informationen in das Register kann das Umweltbundesamt ihre Löschung vornehmen.
 
-
-## § 3 – Erhebung der Informationen
+# § 3 – Erhebung der Informationen
 
 (1) Der Betreiber übermittelt die in Artikel 5 der Verordnung (EG) Nr. 166/2006 genannten Informationen unter Angabe seines Namens sowie des Namens des Eigentümers der Betriebseinrichtung (Bericht) zum ersten Mal für das Jahr 2019 elektronisch und nach dem Anhang zum Durchführungsbeschluss (EU) 2019/1714 der Kommission vom 23. September 2019 zur Festlegung, in welcher Form und mit welcher Häufigkeit die Mitgliedstaaten Daten für die Berichterstattung gemäß der Verordnung (EG) Nr. 166/2006 des Europäischen Parlaments und des Rates über die Schaffung eines Europäischen Schadstofffreisetzungs- und -verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und 96/61/EG des Rates zu übermitteln haben (ABl. L 267 vom 21.10.2019, S. 3) an die nach Landesrecht zuständige Behörde. Die nach Landesrecht zuständige Behörde kann vorschreiben, dass der Betreiber das von ihr festgelegte elektronische Format zu benutzen hat.
 
 (2) Der Bericht ist bis zum 30. April des dem jeweiligen Berichtsjahr folgenden Jahres abzugeben. Die nach Landesrecht zuständige Behörde kann im Einzelfall auf Antrag des Betreibers die Frist bis zum 31. Mai des dem jeweiligen Berichtsjahr folgenden Jahres verlängern, wenn die spätere Abgabe die rechtzeitige Weiterleitung des Berichts an die Europäische Kommission nicht erschwert. Der Verlängerungsantrag muss spätestens bis zum 31. März des dem jeweiligen Berichtsjahr folgenden Jahres gestellt werden.
 
-
-## § 4 – Informantenschutz
+# § 4 – Informantenschutz
 
 (1) Der Betreiber einer Betriebseinrichtung darf einen Betriebsangehörigen nicht benachteiligen, weil der Betriebsangehörige der zuständigen Behörde konkrete Anhaltspunkte für eine Verletzung einer Bestimmung dieses Gesetzes oder der Verordnung (EG) Nr. 166/2006 anzeigt.
 
 (2) Eine Behörde darf bei der Ausübung ihrer Zuständigkeiten niemanden benachteiligen, weil er ihr konkrete Anhaltspunkte für die Verletzung einer Bestimmung dieses Gesetzes oder der Verordnung (EG) Nr. 166/2006 anzeigt.
 
-
-## § 5 – Übermittlung der Informationen an das Umweltbundesamt; Einstellung in das Register
+# § 5 – Übermittlung der Informationen an das Umweltbundesamt; Einstellung in das Register
 
 (1) Die nach Landesrecht zuständigen Behörden übermitteln die Berichte der Betreiber elektronisch zur Einstellung in das Register und für die Zwecke des Artikels 7 Absatz 2 der Verordnung (EG) Nr. 166/2006 an das Umweltbundesamt. Die Übermittlung erfolgt vorbehaltlich der Absätze 2 und 3 und für
 
@@ -102,13 +95,11 @@ Die Einstellung von Informationen über die Freisetzung von Schadstoffen darf ni
 
 (6) Bei Betriebseinrichtungen im Geschäftsbereich des Bundesministeriums der Verteidigung und der in der Bundesrepublik Deutschland stationierten Truppen entscheidet das Bundesministerium der Verteidigung oder eine von ihm beauftragte Stelle über die Schutzbedürftigkeit nach Absatz 2 Nr. 1.
 
-
-## § 6 – Übermittlung der Informationen an die Europäische Kommission
+# § 6 – Übermittlung der Informationen an die Europäische Kommission
 
 Zuständig für die Durchführung von Artikel 7 Abs. 2 der Verordnung (EG) Nr. 166/2006 ist das Umweltbundesamt. Bei der Übermittlung gibt das Umweltbundesamt an, welche Informationen durch die nach Landesrecht zuständige Behörde als vertraulich beschieden wurden, und bezeichnet die Gründe, weshalb die Kommission diese Informationen der Öffentlichkeit nicht zugänglich machen soll.
 
-
-## § 7 – Bußgeldvorschriften
+# § 7 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 166/2006 des Europäischen Parlaments und des Rates vom 18. Januar 2006 über die Schaffung eines Europäischen Schadstofffreisetzungs- und -verbringungsregisters und zur Änderung der Richtlinien 91/689/EWG und 96/61/EG des Rates (ABl. L 33 vom 4.2.2006, S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -118,12 +109,10 @@ Zuständig für die Durchführung von Artikel 7 Abs. 2 der Verordnung (EG) Nr. 1
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 8 – Bestimmungen zum Verwaltungsverfahren
+# § 8 – Bestimmungen zum Verwaltungsverfahren
 
 Von den in diesem Gesetz getroffenen Regelungen des Verwaltungsverfahrens kann nicht durch Landesrecht abgewichen werden.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die Bußgeldvorschriften nach § 7 gelten ab dem Berichtsjahr 2020.

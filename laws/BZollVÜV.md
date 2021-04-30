@@ -1,15 +1,11 @@
-# [BZollVÜV] Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwaltung auf die Eisenbahnen des Bundes
-
-Ausfertigungsdatum: 24.02.1994
-
+% Verordnung über die Übertragung von Hoheitsaufgaben der Bundeszollverwaltung auf die Eisenbahnen des Bundes
+% Ausfertigungsdatum: 24.02.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 19 Abs. 1 des Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125), der durch Artikel 6 Abs. 60 des Gesetzes vom 27. Dezember 1993 (BGBl. I S. 2378) geändert worden ist, in Verbindung mit § 1 Abs. 2 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Aufgabenübertragung auf die Deutsche Bahn Aktiengesellschaft
+# § 1 – Aufgabenübertragung auf die Deutsche Bahn Aktiengesellschaft
 
 Der Deutsche Bahn Aktiengesellschaft wird die Befugnis übertragen, durch ihre Bediensteten die nachstehenden Hoheitsaufgaben wahrnehmen zu lassen:
 
@@ -25,7 +21,6 @@ Der Deutsche Bahn Aktiengesellschaft wird die Befugnis übertragen, durch ihre B
 
 6\.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

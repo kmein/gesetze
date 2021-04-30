@@ -1,10 +1,7 @@
-# [BOStrab] Verordnung über den Bau und Betrieb der Straßenbahnen  (Straßenbahn-Bau- und Betriebsordnung - BOStrab)
-
-Ausfertigungsdatum: 11.12.1987
-
+% Verordnung über den Bau und Betrieb der Straßenbahnen  (Straßenbahn-Bau- und Betriebsordnung - BOStrab)
+% Ausfertigungsdatum: 11.12.1987
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -330,13 +327,11 @@ Anlage 4
 
 Signale
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57 des Personenbeförderungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1, veröffentlichten bereinigten Fassung, der zuletzt durch § 70 Abs. 2 des Gesetzes vom 15. März 1974 (BGBl. I S. 721) geändert worden ist, wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich und allgemeine Begriffsbestimmungen
+# § 1 – Anwendungsbereich und allgemeine Begriffsbestimmungen
 
 (1) Diese Verordnung gilt für den Bau und Betrieb der Straßenbahnen im Sinne des § 4 des Personenbeförderungsgesetzes (PBefG). Das Bauordnungsrecht der Länder und die Straßenverkehrs-Ordnung bleiben unberührt. Soweit keine besonderen Harmonisierungsmaßnahmen der Europäischen Union anzuwenden sind, gelten Produkte als gleichwertig im Sinne der Anforderungen dieser Verordnung, wenn sie
 
@@ -390,8 +385,7 @@ Unabhängige Bahnen sind durch ihre Bauart oder Lage auf der gesamten Streckenl�
 
 (10) Züge sind auf Streckengleise übergehende Einheiten. Sie können als Personen- oder Betriebszüge verkehren und aus einem oder mehreren Fahrzeugen bestehen.
 
-
-## § 2 – Grundregeln
+# § 2 – Grundregeln
 
 (1) Betriebsanlagen, Fahrzeuge oder Teile davon müssen so beschaffen sein, dass sie den Anforderungen der Sicherheit und Ordnung genügen. Die Anforderungen an Betriebsanlagen, Fahrzeuge oder Teile davon gelten als erfüllt,
 
@@ -403,8 +397,7 @@ Unabhängige Bahnen sind durch ihre Bauart oder Lage auf der gesamten Streckenl�
 
 (2) Von den allgemein anerkannten Regeln der Technik kann abgewichen werden, wenn mindestens die gleiche Sicherheit gegenüber der Technischen Aufsichtsbehörde nachgewiesen wird.
 
-
-## § 3 – Allgemeine Anforderungen an den Bau der Betriebsanlagen und Fahrzeuge
+# § 3 – Allgemeine Anforderungen an den Bau der Betriebsanlagen und Fahrzeuge
 
 (1) Betriebsanlagen und Fahrzeuge müssen so gebaut sein, daß ihr verkehrsüblicher Betrieb niemanden schädigt oder mehr als unvermeidbar gefährdet oder behindert. Sie müssen insbesondere so gebaut sein, daß
 
@@ -434,8 +427,7 @@ Unabhängige Bahnen sind durch ihre Bauart oder Lage auf der gesamten Streckenl�
 
 (6) Schienenbahnen benachbarter Nahverkehrsunternehmen sollen in ihrer technischen Gestaltung den Möglichkeiten eines Betriebsverbundes Rechnung tragen.
 
-
-## § 4 – Allgemeine Anforderungen an den Betrieb
+# § 4 – Allgemeine Anforderungen an den Betrieb
 
 (1) Betriebsbedienstete sind in der für einen sicheren und ordnungsgemäßen Betrieb erforderlichen Anzahl einzusetzen.
 
@@ -455,8 +447,7 @@ Unabhängige Bahnen sind durch ihre Bauart oder Lage auf der gesamten Streckenl�
 
 und ist befugt, die in den Nummern 1 bis 3 genannten Daten zu erheben, zu speichern und zu verwenden, soweit dies erforderlich ist, um den Betrieb sicher führen zu können, den Zustand und die Instandhaltung der Anlagen und Fahrzeuge zu dokumentieren und die Ursachen gefährlicher Ereignisse aufklären zu können. Der Unternehmer ist außerdem befugt, der Technischen Aufsichtsbehörde aus den in Satz 1 genannten Daten die für deren Aufgabenerfüllung erforderlichen Auskünfte zu übermitteln. Soweit es sich um personenbezogene Daten handelt, sind diese nach spätestens 96 Stunden zu löschen, es sei denn, ihre Kenntnis ist für die Erfüllung des Zwecks der in Satz 1 genannten Speicherung weiterhin erforderlich.
 
-
-## § 5 – Technische Aufsicht
+# § 5 – Technische Aufsicht
 
 (1) Die Technische Aufsichtsbehörde nach § 54 Abs. 1 Satz 3 des Personenbeförderungsgesetzes überwacht die Einhaltung der Vorschriften dieser Verordnung. Sie führt in Erfüllung dieser Aufgabe insbesondere die erforderlichen Prüfungen durch und trifft die notwendigen Anordnungen. Entscheidungen anderer Behörden mit Ausnahme der nach Landesrecht zuständigen Straßenverkehrsbehörde, die die Sicherheit und Ordnung des Straßenbahnbetriebes betreffen können, dürfen nur im Einvernehmen mit der Technischen Aufsichtsbehörde getroffen werden; dies gilt nicht, soweit es sich um Behörden des Bundes handelt.
 
@@ -472,13 +463,11 @@ und ist befugt, die in den Nummern 1 bis 3 genannten Daten zu erheben, zu speich
 
 2. bei unzureichender Sicherheit die Unterbrechung oder Einstellung von Bauarbeiten anordnen oder die Benutzung bestimmter Betriebsanlagen und Fahrzeuge beschränken oder untersagen.
 
-
-## § 6 – Ausnahmen
+# § 6 – Ausnahmen
 
 Die Technische Aufsichtsbehörde kann von den Vorschriften dieser Verordnung in Einzelfällen Ausnahmen genehmigen.
 
-
-## § 7 – Unternehmer
+# § 7 – Unternehmer
 
 (1) Der Unternehmer hat dafür zu sorgen, daß die Anforderungen der Sicherheit und Ordnung nach § 2 erfüllt werden. Er hat insbesondere sicherzustellen, daß sich Betriebsanlagen und Fahrzeuge in betriebssicherem Zustand befinden und der Betrieb sicher durchgeführt wird.
 
@@ -518,8 +507,7 @@ Soll eine vom Betriebsleiter im Rahmen seiner Aufgaben nach § 8 vorgeschlagene 
 
 (10) Besteht die Gefahr, daß die Betriebssicherheit durch Maßnahmen Dritter beeinträchtigt wird, hat der Unternehmer dafür zu sorgen, daß gegen eine solche Beeinträchtigung Vorkehrungen getroffen werden.
 
-
-## § 8 – Betriebsleiter
+# § 8 – Betriebsleiter
 
 (1) Der Betriebsleiter ist für die sichere und ordnungsgemäße Durchführung des Betriebs insgesamt verantwortlich.
 
@@ -537,8 +525,7 @@ Soll eine vom Betriebsleiter im Rahmen seiner Aufgaben nach § 8 vorgeschlagene 
 
 (6) Stellvertreter dürfen als Betriebsleiter außer in Notfällen nur nach schriftlicher Dienstübergabe tätig werden.
 
-
-## § 9 – Bestätigung als Betriebsleiter
+# § 9 – Bestätigung als Betriebsleiter
 
 (1) Die Technische Aufsichtsbehörde bestätigt die Bestellung des Betriebsleiters auf Antrag des Unternehmers, wenn die bestellte Person
 
@@ -566,8 +553,7 @@ Die Tätigkeit bei Schienenbahnunternehmen auch während des Vorbereitungsdienst
 
 (5) Berufsqualifikationen, die in anderen Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum erworben wurden, sind von der Technischen Aufsichtsbehörde nach Maßgabe des Berufsqualifikationsfeststellungsgesetzes anzuerkennen.
 
-
-## § 10 – Allgemeine Anforderungen an Betriebsbedienstete
+# § 10 – Allgemeine Anforderungen an Betriebsbedienstete
 
 (1) Als Betriebsbediensteter darf nur tätig sein, wer
 
@@ -585,8 +571,7 @@ Die Tätigkeit bei Schienenbahnunternehmen auch während des Vorbereitungsdienst
 
 (5) Über Betriebsbedienstete nach § 1 Abs. 6 Nr. 1 und 2 sind Aufschreibungen zu führen, aus denen insbesondere ihre Tauglichkeit, Ausbildung, Ergebnisse von Prüfungen, Beaufsichtigungen, Unterweisungen und Nachschulungen ersichtlich sein müssen.
 
-
-## § 11 – Besondere Anforderungen an Fahrbedienstete
+# § 11 – Besondere Anforderungen an Fahrbedienstete
 
 (1) Fahrbedienstete müssen mindestens 21 Jahre alt sein. Dies gilt nicht für:
 
@@ -600,8 +585,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (3) Fahrbedienstete, die Züge führen oder abfertigen, müssen in Erste Hilfe unterwiesen sein.
 
-
-## § 12 – Ausbildung und Prüfung der Fahrbediensteten
+# § 12 – Ausbildung und Prüfung der Fahrbediensteten
 
 (1) Fahrbedienstete müssen eine angemessene Zeit unter Aufsicht von Lehrbediensteten für ihre Tätigkeit ausgebildet worden sein.
 
@@ -611,8 +595,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (4) Durch den Betriebsleiter oder einen von ihm beauftragten Betriebsbediensteten sind Fahrbedienstete nach ihrer Ausbildung in regelmäßigen Abständen in der Ausübung ihrer Tätigkeit zu überprüfen und nachzuschulen. Die Überprüfung und die Nachschulung sind aufzuzeichnen. Die Aufzeichnungen sind für die Dauer von fünf Jahren aufzubewahren. Die Frist zur Aufbewahrung beginnt mit dem Ablauf des Jahres, in dem die Aufzeichnungen entstanden sind.
 
-
-## § 13 – Verhalten während des Dienstes
+# § 13 – Verhalten während des Dienstes
 
 (1) Betriebsbedienstete haben bei der Bedienung von Betriebsanlagen und Fahrzeugen die Sorgfalt anzuwenden, die sich daraus ergibt, daß ihnen Personen zur sicheren Beförderung anvertraut sind.
 
@@ -622,8 +605,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (4) Fahrbediensteten ist es während des Fahrbetriebes untersagt, Geräte, die der Navigation, der Kommunikation, oder der Aufzeichnung, der Wiedergabe oder dem Empfang von Tönen, Bildern oder Zeichen dienen, zu anderen als betrieblichen Zwecken zu benutzen.
 
-
-## § 14 – Verhalten bei Krankheit
+# § 14 – Verhalten bei Krankheit
 
 (1) Hat ein Betriebsbediensteter eine Krankheit, die seine Dienstausübung beeinträchtigen kann, darf er seinen Dienst nicht verrichten.
 
@@ -631,8 +613,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (3) Erkrankungen nach den Absätzen 1 und 2 sind dem Unternehmer unverzüglich anzuzeigen.
 
-
-## § 15 – Streckenführung
+# § 15 – Streckenführung
 
 (1) Die Streckenführung und die Lage der Haltestellen müssen den Verkehrsbedürfnissen entsprechen und insbesondere günstiges Umsteigen zu anderen Verkehrsmitteln ermöglichen.
 
@@ -646,8 +627,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (6) Strecken sollen unabhängige oder besondere Bahnkörper haben.
 
-
-## § 16 – Bahnkörper
+# § 16 – Bahnkörper
 
 (1) Bahnkörper umfassen den Oberbau und den ihn tragenden Unterbau, der aus Erd-, Stütz- oder Ingenieurbauwerken bestehen kann.
 
@@ -661,8 +641,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (6) Bei Fahrbetrieb ohne Fahrzeugführer muß durch Einfriedungen oder auf andere Weise das unbefugte Betreten, Befahren oder Benutzen des Bahnkörpers verhindert sein. Wenn es die Betriebssicherheit erfordert, kann die Technische Aufsichtsbehörde dies auf bestimmten Streckenabschnitten auch bei anderen Betriebsarten verlangen.
 
-
-## § 17 – Oberbau
+# § 17 – Oberbau
 
 (1) Der Oberbau muß die vom maßgebenden Lastenzug bei der Streckenhöchstgeschwindigkeit ausgeübten statischen und dynamischen Kräfte ohne bleibende Verformung aufnehmen können.
 
@@ -686,8 +665,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (9) Abschlüsse an Gleisenden müssen gekennzeichnet und so gestaltet sein, daß sie den betrieblichen Erfordernissen genügen.
 
-
-## § 18 – Umgrenzung des lichten Raumes
+# § 18 – Umgrenzung des lichten Raumes
 
 (1) Der lichte Raum ist der zu jedem Gleis gehörende Raum, der für einen sicheren Betrieb der Fahrzeuge von festen und beweglichen Gegenständen freigehalten werden muß.
 
@@ -697,8 +675,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (4) Zwischen der Umgrenzung des lichten Raumes und dem Lichtraumbedarf soll ein Sicherheitsabstand bestehen, der auf die Ermittlungsgenauigkeit des Lichtraumbedarfs abgestellt ist.
 
-
-## § 19 – Sicherheitsräume
+# § 19 – Sicherheitsräume
 
 (1) Zum Schutz von Personen muß neben jedem Gleis außerhalb der Lichtraumumgrenzung ein Sicherheitsraum vorhanden sein. Er muß vom Gleis aus und durch Türen der Fahrzeuge erreichbar sein. Zwischen zwei Gleisen genügt ein gemeinsamer Sicherheitsraum.
 
@@ -716,8 +693,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 (8) Bei hochliegenden Gleisen kann auf Sicherheitsräume verzichtet werden, wenn die Sicherheit der Fahrgäste und der Betriebsbediensteten auf andere Weise gewährleistet ist, insbesondere durch Vorkehrungen zur unverzüglichen Selbst- oder Fremdrettung im Notfall.
 
-
-## § 20 – Bahnübergänge
+# § 20 – Bahnübergänge
 
 (1) Die Straßenbahn hat an höhengleichen Kreuzungen von besonderen und unabhängigen Bahnkörpern mit Straßen, Wegen und Plätzen (Bahnübergängen) Vorrang, soweit die Straßenverkehrs-Ordnung dies bestimmt. Bahnübergänge über unabhängige Bahnkörper sind nach den nachfolgenden Vorschriften zu sichern. An anderen Bahnübergängen oder an Kreuzungen im Bereich straßenbündiger Bahnkörper ist darauf hinzuwirken, dass der Straßenbahnverkehr durch den übrigen Verkehr nicht mehr als unvermeidbar beeinträchtigt wird.
 
@@ -735,8 +711,7 @@ Im Fall des Satzes 2 Nummer 1 ist vor Erteilung der ersten Fahrerlaubnis die nac
 
 Auf Streckenabschnitten mit Fahren auf Sicht dürfen anstelle der in Satz 1 bezeichneten Überwachungssignale auch Fahrsignale nach Anlage 4 unmittelbar vor dem Bahnübergang verwendet werden.
 
-
-## § 21 – Signalanlagen
+# § 21 – Signalanlagen
 
 (1) Signalanlagen müssen so gebaut sein, daß sie die für sie bestimmten Aufträge eindeutig erfassen, bestimmungsgemäß verarbeiten und durch Geber als Signale abgeben.
 
@@ -750,8 +725,7 @@ Auf Streckenabschnitten mit Fahren auf Sicht dürfen anstelle der in Satz 1 beze
 
 (4) Sind Fahrsignalanlagen in Wechsellichtzeichenanlagen nach § 37 der Straßenverkehrs-Ordnung eingebunden, muß in allen Teilen der Gesamtanlage die gleiche Sicherungsmaßnahme angewendet sein. Sind Weichen in die Signalanlage für Fahrsignale eingebunden, gehören sie zur Gesamtanlage.
 
-
-## § 22 – Zugsicherungsanlagen
+# § 22 – Zugsicherungsanlagen
 
 (1) Zugsicherungsanlagen sind Anlagen zum Sichern und Steuern des Fahrbetriebes. Sie dienen dazu,
 
@@ -777,8 +751,7 @@ Als sicherungstechnisch erfaßbare Hindernisse gelten fahrende und stehende Züg
 
 (5) Für Teile von Zugsicherungsanlagen, die auf Fahrzeugen angeordnet sind, gelten die Absätze 3 und 4 entsprechend.
 
-
-## § 23 – Nachrichtentechnische Anlagen
+# § 23 – Nachrichtentechnische Anlagen
 
 (1) Für die Verständigung von Betriebsbediensteten mit Betriebsstellen müssen im betriebsnotwendigen Umfang nachrichtentechnische Anlagen vorhanden sein. Besonders wichtige Meldungen an zentrale Betriebsstellen sollen vorrangig übermittelt werden können.
 
@@ -788,8 +761,7 @@ Als sicherungstechnisch erfaßbare Hindernisse gelten fahrende und stehende Züg
 
 (4) Im Tunnel müssen Einrichtungen vorhanden sein, die eine rasche und sichere wechselseitige Verständigung zwischen Polizei, Feuerwehr, Rettungsdiensten, deren Einsatzzentralen und den zentralen Betriebsstellen ermöglichen.
 
-
-## § 24 – Energieversorgungsanlagen
+# § 24 – Energieversorgungsanlagen
 
 (1) Energieversorgungsanlagen sind dazu bestimmt, elektrische Energie aus fremden oder bahneigenen Netzen zu entnehmen, umzuwandeln, fortzuleiten, zu verteilen und an Betriebsmittel in Betriebsanlagen oder an Fahrzeuge abzugeben. Zu den Energieversorgungsanlagen zählen auch bahneigene Anlagen zum Erzeugen elektrischer Energie.
 
@@ -813,8 +785,7 @@ Die Einspeisungen müssen mit selbsttätigen Umschalteinrichtungen ausgestattet 
 
 (6) In Tunneln und in unterirdischen Haltestellen müssen in geeigneter Entfernung und Anzahl Steckdosen zur Speisung ortsveränderlicher elektrischer Betriebsmittel vorhanden sein.
 
-
-## § 25 – Fahrleitungsanlagen
+# § 25 – Fahrleitungsanlagen
 
 (1) Betriebsmäßig unter Spannung stehende Teile der Fahrleitungsanlage müssen mindestens einen teilweisen Schutz gegen direktes Berühren haben. Dies gilt entsprechend für den Bereich, den ein unter Spannung stehender Stromabnehmer erreichen kann.
 
@@ -830,8 +801,7 @@ Die Einspeisungen müssen mit selbsttätigen Umschalteinrichtungen ausgestattet 
 
 (7) Schleifleiter mit Schutzleiterfunktion und an diese angeschlossene Leitungen müssen elektrisch und mechanisch zuverlässig sein; Verbindungen dürfen nur durch Werkzeug lösbar sein.
 
-
-## § 26 – Rückleitungen
+# § 26 – Rückleitungen
 
 (1) Rückleitungen müssen elektrisch und mechanisch zuverlässig sein; Verbindungen der als Rückleitung dienenden Betriebsmittel dürfen nur durch Werkzeug lösbar sein.
 
@@ -839,8 +809,7 @@ Die Einspeisungen müssen mit selbsttätigen Umschalteinrichtungen ausgestattet 
 
 (3) Gegen die Gefahren durch Berührungsspannungen aus dem Schienenpotential müssen Maßnahmen getroffen sein.
 
-
-## § 27 – Beleuchtungsanlagen
+# § 27 – Beleuchtungsanlagen
 
 (1) Beleuchtungsanlagen müssen vorhanden sein
 
@@ -876,13 +845,11 @@ Die Forderung nach Satz 1 kann auch durch die allgemeine Straßenbeleuchtung erf
 
 (5) Die Sicherheitsbeleuchtung muß so beschaffen und angeordnet sein, daß die Betriebsanlagen nach Absatz 4 ausreichend beleuchtet werden können. Sie muß 0,5 Sekunden nach Ausfall der netzabhängigen Beleuchtung im betriebsnotwendigen Umfang eingeschaltet sein. Bei Tunneln und Notausgängen darf diese Zeit bis zu 15 Sekunden betragen, sofern aus Gründen des Arbeitsschutzes keine kürzeren Einschaltzeiten gefordert werden.
 
-
-## § 28 – Rohrleitungen
+# § 28 – Rohrleitungen
 
 Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetrennt sein, wenn in diesen Bahnbauwerken Rückleitungen nach § 26 für Gleichstrom vorhanden sind. Dies gilt auch für metallene Bewehrungen von Kabeln, es sei denn, daß sie isoliert in das Bahnbauwerk ein- und weitergeführt werden.
 
-
-## § 29 – Brücken
+# § 29 – Brücken
 
 (1) Brücken müssen den für die Strecke maßgebenden Lastenzug sowie die sonstigen statischen und dynamischen Belastungen bei der Streckenhöchstgeschwindigkeit sicher aufnehmen können.
 
@@ -896,8 +863,7 @@ Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetre
 
 (6) Die Vorschriften über Brücken sind auf Durchlässe und sonstige oberirdische Bahnbauwerke, die den Oberbau tragen oder stützen, entsprechend anzuwenden.
 
-
-## § 30 – Tunnel
+# § 30 – Tunnel
 
 (1) Tunnel müssen so gebaut sein, daß
 
@@ -945,8 +911,7 @@ Metallene Rohrleitungen müssen vor Eintritt in Bahnbauwerke galvanisch aufgetre
 
 (12) Die Vorschriften der Absätze 1, 2 und 4 gelten entsprechend, wenn Stützmauern in Verbindung mit einer Sohle einen Trog bilden.
 
-
-## § 31 – Haltestellen
+# § 31 – Haltestellen
 
 (1) Haltestellen müssen
 
@@ -986,13 +951,11 @@ Haltestellen sollen Bahnsteige besitzen sowie Wetterschutz- und Sitzmöglichkeit
 
 (9) Verkaufsstände, Werbeanlagen und sonstige Anlagen dürfen den Betrieb nicht stören und insbesondere eine schnelle Verteilung der Fahrgäste auf den Bahnsteigen nicht behindern. Die für Rettungswege erforderlichen Breiten sind freizuhalten.
 
-
-## § 32 – Aufzüge, Fahrtreppen und Fahrsteige
+# § 32 – Aufzüge, Fahrtreppen und Fahrsteige
 
 An den Zugängen und Abgängen von Aufzügen, Fahrtreppen oder Fahrsteigen müssen freie Räume als Stauräume vorhanden sein.
 
-
-## § 33 – Fahrzeuggestaltung
+# § 33 – Fahrzeuggestaltung
 
 (1) Beim Bau von Fahrzeugen ist als Lastannahme von der Eigenlast und der Nutzlast, von den Kräften aus Anfahrbeschleunigung und Bremsverzögerung, Fahrzeuglauf und Auffahrstößen sowie von den sonstigen sich aus den Betriebsbedingungen ergebenden Kräften auszugehen.
 
@@ -1038,8 +1001,7 @@ anzunehmen.
 
 (13) Fahrzeuge, die über einen eingerichteten Fahrzeugführerplatz verfügen, müssen mit Geräten zur Fahrdatenaufzeichnung ausgerüstet sein.
 
-
-## § 34 – Fahrzeugmaße
+# § 34 – Fahrzeugmaße
 
 (1) Die lichtraumtechnisch maßgebenden Merkmale der Fahrzeuge und des Gleises müssen so aufeinander abgestimmt sein, daß es in keinem zulässigen Betriebszustand zu gefährdenden Berührungen zwischen Fahrzeugen und Gegenständen sowie zwischen Fahrzeugen auf benachbarten Gleisen kommen kann.
 
@@ -1080,8 +1042,7 @@ oberhalb von 3,4 m über Schienenoberkante
 
 (5) Die lichte Höhe von Fahrgasträumen muß mindestens 1,95 m, über Sitzflächen mindestens 1,7 m betragen. Dies gilt nicht bei Fahrzeugen ohne Stehplätze, wenn ein zügiger Fahrgastwechsel ohne unzumutbare Behinderung möglich ist.
 
-
-## § 35 – Fahrwerke
+# § 35 – Fahrwerke
 
 (1) Die für die Laufeigenschaften wesentlichen Fahrzeugmaße und Gleismaße müssen so aufeinander abgestimmt sein, daß bei den jeweils zulässigen Geschwindigkeiten auch im zulässigen Abnutzungszustand der Bauteile eine sichere Spurführung sowie größtmögliche Laufruhe erhalten bleiben.
 
@@ -1089,8 +1050,7 @@ oberhalb von 3,4 m über Schienenoberkante
 
 (3) Die sichere Spurführung muß auch bei Schäden an Federung oder Dämpfung der Fahrzeuge erhalten bleiben.
 
-
-## § 36 – Bremsen
+# § 36 – Bremsen
 
 (1) Fahrzeuge müssen mindestens zwei Bremsen haben. Diese müssen so voneinander unabhängig sein, daß bei Störungen innerhalb der einen Bremse die Wirksamkeit der anderen Bremse erhalten bleibt; ihre Wirksamkeit muß auch bei Ausfall der Fahrleitungsspannung gesichert sein.
 
@@ -1132,8 +1092,7 @@ fahren. Dabei müssen mindestens die mittleren Bremsverzögerungen nach Anlage 2
 
 (11) Bei einem Fahrbetrieb ohne Fahrzeugführer muss im Fall einer Entgleisung das Fahrzeug unmittelbar selbsttätig bis zum Stillstand abbremsen können.
 
-
-## § 37 – Antrieb
+# § 37 – Antrieb
 
 Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung müssen unter Berücksichtigung der Streckenverhältnisse, der Zugzusammensetzungen und der Fahrgeschwindigkeiten für die größten betrieblich vorkommenden Antriebs- und Bremskräfte bemessen sein. Dabei sind insbesondere die Beanspruchungen
 
@@ -1145,8 +1104,7 @@ Fahrmotoren, Getriebe und sonstige Bauteile zur Kraftübertragung müssen unter 
 
 zu beachten.
 
-
-## § 38 – Fahrsteuerung
+# § 38 – Fahrsteuerung
 
 (1) Die Steuerung von Antrieben und Bremsen muß so gebaut sein, daß
 
@@ -1160,15 +1118,13 @@ zu beachten.
 
 (3) Personenfahrzeuge, die auf Strecken mit Zugsicherungsanlagen nach § 22 betrieben werden, müssen mit den diese ergänzenden Zugsicherungseinrichtungen ausgerüstet sein.
 
-
-## § 39 – Stromabnehmer und Schleifer
+# § 39 – Stromabnehmer und Schleifer
 
 (1) Stromabnehmer und Fahrleitungsanlagen müssen so aufeinander abgestimmt sein, daß der Strom bis zur zulässigen Höchstgeschwindigkeit zuverlässig abgenommen werden kann; dies gilt für Schleifer entsprechend.
 
 (2) Schleifer müssen so gebaut sein, daß sie erst dann vom Nulleiter oder Schutzleiter getrennt werden, wenn die zugehörigen Stromabnehmer von der Fahrleitung abgehoben haben, und daß sie beim Anlegen von Stromabnehmern vor diesen am Nulleiter oder Schutzleiter anliegen.
 
-
-## § 40 – Signaleinrichtungen
+# § 40 – Signaleinrichtungen
 
 (1) Signaleinrichtungen müssen im betriebsbedingt notwendigen Umfang vorhanden und so gebaut sein, daß sie die Zugsignale und das Schutzsignal Sh 5 (Achtungssignal) nach Anlage 4 eindeutig und gut erkennbar abgeben können. Ihre Wirksamkeit darf nicht von der Fahrleitungsspannung abhängig sein.
 
@@ -1192,8 +1148,7 @@ c) sich nicht unbeabsichtigt verstellen können,
 
 (4) Bei Betriebsfahrzeugen ohne eigenen Antrieb sind Geber für Fahrtrichtungssignale und Warnblinksignale entbehrlich, wenn durch andere Maßnahmen für eine ausreichende Sicherung gesorgt ist.
 
-
-## § 41 – Bahnräumer und Schienenräumer
+# § 41 – Bahnräumer und Schienenräumer
 
 (1) Fahrzeuge müssen vor dem in Fahrtrichtung ersten Radsatz Bahnräumer oder Schienenräumer haben, die eine durch Hindernisse hervorgerufene Entgleisungsgefahr vermindern. Sie müssen möglichst dicht vor den Rädern angeordnet sein und einen möglichst geringen Abstand von der Schienenoberkante haben.
 
@@ -1201,15 +1156,13 @@ c) sich nicht unbeabsichtigt verstellen können,
 
 (3) Bahnräumer oder Schienenräumer sind entbehrlich, wenn deren Aufgaben andere Einrichtungen des Fahrzeugs mitübernehmen können.
 
-
-## § 42 – Kupplungseinrichtungen
+# § 42 – Kupplungseinrichtungen
 
 (1) Kupplungseinrichtungen von Fahrzeugen, die im Zugverband betrieben werden sollen, müssen nach Bauart und Abmessung aufeinander abgestimmt sein.
 
 (2) Bei selbsttätigen Kupplungseinrichtungen muß das ordnungsgemäße Einlaufen und Verriegeln der Kupplung erkennbar sein.
 
-
-## § 43 – Türen für den Fahrgastwechsel
+# § 43 – Türen für den Fahrgastwechsel
 
 (1) Türen müssen so gebaut und angeordnet sein, daß ein zügiger Fahrgastwechsel möglich ist.
 
@@ -1231,8 +1184,7 @@ c) sich nicht unbeabsichtigt verstellen können,
 
 (7) Abweichend von Absatz 6 Satz 2 dürfen Türen von Personenfahrzeugen auf Streckenabschnitten ohne Sicherheitsraum von Fahrgästen nicht geöffnet werden können, wenn die Fremdrettung der Fahrgäste im Gefahrenfall auf andere Weise sichergestellt wird.
 
-
-## § 44 – Fahrzeugführerplatz
+# § 44 – Fahrzeugführerplatz
 
 (1) Der Fahrzeugführerplatz muß so gestaltet sein, daß der Fahrzeugführer den Zug sicher führen kann. Insbesondere müssen ein ausreichendes Sichtfeld sowie Einrichtungen zum Schutz gegen witterungsbedingte Einflüsse und gegen Zugluft vorhanden sein. Behinderungen durch Fahrgäste müssen durch geeignete technische Maßnahmen vermieden sein. Der Fahrzeugführerplatz, insbesondere der Arbeitssitz, muß nach den allgemein anerkannten sicherheitstechnischen, arbeitsmedizinischen und hygienischen Regeln sowie den sonstigen gesicherten arbeitswissenschaftlichen Erkenntnissen eingerichtet sein.
 
@@ -1244,8 +1196,7 @@ c) sich nicht unbeabsichtigt verstellen können,
 
 (5) Für Plätze, die für die Bedienung von Fahrzeugen bei Rangierbewegungen und im Störungsfall vorgesehen sind, gelten die Absätze 1 bis 4 nur insoweit, wie dies für den vorgesehenen Zweck erforderlich ist.
 
-
-## § 45 – Innenbeleuchtung, Heizung und Lüftung
+# § 45 – Innenbeleuchtung, Heizung und Lüftung
 
 (1) Fahrgasträume müssen eine ausreichende Innenbeleuchtung haben. Sie darf von Fahrgästen nicht ausgeschaltet werden können.
 
@@ -1257,8 +1208,7 @@ c) sich nicht unbeabsichtigt verstellen können,
 
 (5) Fahrgasträume und Fahrzeugführerplätze müssen ausreichend beheizt und belüftet werden können.
 
-
-## § 46 – Informationseinrichtungen
+# § 46 – Informationseinrichtungen
 
 (1) Personenfahrzeuge müssen Einrichtungen haben, die
 
@@ -1288,8 +1238,7 @@ anzeigen. Die Anzeigen müssen auch bei Dunkelheit erkennbar sein.
 
 (7) Einrichtungen nach den Absätzen 1 und 3 sind entbehrlich, wenn Fahrgäste die Ziele der Züge bestimmen. Den Fahrgästen müssen die ihnen zugeordneten Züge deutlich erkennbar sein.
 
-
-## § 47 – Beschriftungen und Sinnbilder
+# § 47 – Beschriftungen und Sinnbilder
 
 (1) An den Außenseiten der Fahrzeuge müssen vorhanden sein
 
@@ -1311,15 +1260,13 @@ anzeigen. Die Anzeigen müssen auch bei Dunkelheit erkennbar sein.
 
 (3) Beschriftungen und Sinnbilder müssen eindeutig, gut sichtbar und deutlich lesbar sein. Ihre Erkennbarkeit darf durch andere Aufschriften oder Bildzeichen nicht beeinträchtigt sein.
 
-
-## § 48 – Ausrüstung für Notfälle
+# § 48 – Ausrüstung für Notfälle
 
 (1) Personenfahrzeuge sowie Betriebsfahrzeuge mit eigenem Antrieb müssen mindestens je einen Verbandkasten, einen tragbaren Feuerlöscher und, soweit sie am öffentlichen Straßenverkehr teilnehmen, ein Warndreieck und eine Warnweste mitführen. § 53a Absatz 1 der Straßenverkehrs-Zulassungs-Ordnung ist entsprechend anzuwenden.
 
 (2) Bei Fahrzeugen unabhängiger Bahnen kann auf das Mitführen von Verbandkästen verzichtet werden, wenn diese auf den Haltestellen in ausreichender Anzahl vorhanden sind.
 
-
-## § 49 – Fahrordnung
+# § 49 – Fahrordnung
 
 (1) Ein Zug darf einem anderen nur in einem solchen Abstand folgen, daß er auch bei ungünstigen Betriebsverhältnissen, insbesondere bei unvermutetem Halten des vorausfahrenden Zuges, rechtzeitig zum Halten gebracht werden kann. Dieser Abstand muß
 
@@ -1355,8 +1302,7 @@ b) in Tunneln.
 
 Bei vorübergehend eingleisigem Fahrbetrieb kann diese Forderung auch durch andere Maßnahmen erfüllt werden.
 
-
-## § 50 – Zulässige Geschwindigkeiten
+# § 50 – Zulässige Geschwindigkeiten
 
 (1) Die für das Streckennetz geltenden Streckenhöchstgeschwindigkeiten setzt die Technische Aufsichtsbehörde fest.
 
@@ -1371,8 +1317,7 @@ Bei vorübergehend eingleisigem Fahrbetrieb kann diese Forderung auch durch ande
 | 1\. | bei Vorbeifahrt an Bahnsteigen ohne Halt                          | 40 km/h, |
 | 2\. | beim Befahren von nicht verschlossenen Weichen gegen deren Spitze | 15 km/h. |
 
-
-## § 51 – Signale
+# § 51 – Signale
 
 (1) Signale müssen in dem Umfang verwendet werden, den die Sicherheit und die betrieblichen Verhältnisse erfordern.
 
@@ -1412,8 +1357,7 @@ Bei vorübergehend eingleisigem Fahrbetrieb kann diese Forderung auch durch ande
 
 (19) Signale, die betrieblich keine Bedeutung haben sollen, sind zu beseitigen oder zu verdecken und durch ein weißes Kreuz mit schwarzem Rand zu kennzeichnen.
 
-
-## § 52 – Einsatz von Betriebsbediensteten
+# § 52 – Einsatz von Betriebsbediensteten
 
 (1) Betriebsanlagen und Fahrzeuge dürfen nur von Betriebsbediensteten bedient werden, die entsprechend unterwiesen und vom Betriebsleiter dazu bestimmt worden sind.
 
@@ -1429,8 +1373,7 @@ Bei vorübergehend eingleisigem Fahrbetrieb kann diese Forderung auch durch ande
 
 3. besondere Vorkommnisse.
 
-
-## § 53 – Besetzen der Züge mit Fahrbediensteten
+# § 53 – Besetzen der Züge mit Fahrbediensteten
 
 (1) Jeder Zug muß während der Fahrt mit einem streckenkundigen Fahrzeugführer besetzt sein.
 
@@ -1451,8 +1394,7 @@ wenn
 
 (4) Läßt sich ein schadhaft gewordener Zug nicht mehr von der Zugspitze aus führen, ist diese mit einem Fahrbediensteten zu besetzen, der dem Fahrzeugführer über Sprechfunk oder in anderer Weise Aufträge für die Zugbewegung gibt und Gefährdete warnt.
 
-
-## § 54 – Fahrbetrieb
+# § 54 – Fahrbetrieb
 
 (1) Personenzüge dürfen nur abfahren, wenn durch Augenschein oder durch technische Einrichtungen festgestellt ist, daß die Türen für den Fahrgastwechsel geschlossen sind.
 
@@ -1472,8 +1414,7 @@ wenn
 
 (9) Über die Zusammensetzung und den Einsatz der Züge sind Aufzeichnungen zu führen.
 
-
-## § 55 – Teilnahme am Straßenverkehr
+# § 55 – Teilnahme am Straßenverkehr
 
 (1) Auf straßenbündigem Bahnkörper nehmen die Züge am Straßenverkehr teil. Dabei müssen die Fahrzeugführer die sie betreffenden Vorschriften der Straßenverkehrs-Ordnung beachten.
 
@@ -1481,8 +1422,7 @@ wenn
 
 (3) Auf besonderen und unabhängigen Bahnkörpern einschließlich der Bahnübergänge im Sinne des § 16 Absatz 4 Satz 4 und 6 nehmen die Züge nicht am Straßenverkehr teil.
 
-
-## § 56 – Verhalten bei Mängeln an Zügen
+# § 56 – Verhalten bei Mängeln an Zügen
 
 (1) Züge mit Sicherheitsmängeln dürfen nicht im Betrieb verbleiben. Bei möglicher Weiterfahrt bis zu einem betrieblich geeigneten Aussetzpunkt sind je nach Art und Schwere der Mängel Vorsichtsmaßnahmen zu treffen. Die Fahrgäste sind, wenn es die Umstände erlauben, bis zu einer Haltestelle weiter zu befördern.
 
@@ -1490,8 +1430,7 @@ wenn
 
 (3) Bei Fahrbetrieb ohne Fahrzeugführer oder auf Strecken ohne Sicherheitsraum müssen betriebliche Vorkehrungen getroffen sein, die eine unverzügliche Rettung der Fahrgäste aus liegengebliebenen Zügen ermöglichen.
 
-
-## § 57 – Instandhaltung der Betriebsanlagen und Fahrzeuge
+# § 57 – Instandhaltung der Betriebsanlagen und Fahrzeuge
 
 (1) Die Instandhaltung der Betriebsanlagen und Fahrzeuge umfaßt Wartung, Inspektionen und Instandsetzungen; sie muß sich mindestens auf die Teile erstrecken, deren Zustand die Betriebssicherheit beeinflussen kann.
 
@@ -1522,8 +1461,7 @@ wenn
 
 (7) Die Dokumentation über die Instandhaltung ist vom Unternehmer bis zur Außerbetriebsetzung der Betriebsanlagen und Fahrzeuge aufzubewahren. Abweichend ist die Dokumentation über die Wartung bis zur nächsten Inspektion, mindestens jedoch drei Jahre aufzubewahren.
 
-
-## § 58 – Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
+# § 58 – Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
 
 (1) Personen, die nicht Betriebsbedienstete sind, dürfen Betriebsanlagen und Fahrzeuge, soweit sie nicht dem allgemeinen Verkehrsgebrauch dienen, nicht betreten oder sonst benutzen. Vor allem dürfen sie besondere und unabhängige Bahnkörper nur an den dafür bestimmten Stellen überqueren. Der Betriebsleiter kann Ausnahmen zulassen.
 
@@ -1531,8 +1469,7 @@ wenn
 
 (3) Die Technische Aufsichtsbehörde kann im Einvernehmen mit der Straßenverkehrsbehörde Unternehmern des Personenverkehrs die Benutzung besonderer und unabhängiger Bahnkörper durch Kraftomnibusse oder Obusse des Linienverkehrs gestatten. Die Sicherheit des Bahnbetriebes darf hierdurch nicht beeinträchtigt werden.
 
-
-## § 59 – Betriebsgefährdende oder betriebsstörende Handlungen
+# § 59 – Betriebsgefährdende oder betriebsstörende Handlungen
 
 Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu verunreinigen, ihre Einrichtungen missbräuchlich zu betätigen oder zu nutzen, Fahrthindernisse zu errichten oder andere betriebsgefährdende Handlungen vorzunehmen. Dazu ist es insbesondere untersagt,
 
@@ -1540,8 +1477,7 @@ Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu
 
 2. in den für den Aufenthalt und die Abfertigung der Fahrgäste bestimmten unterirdischen Anlagen sowie unter den überdachten Bereichen oberirdischer Haltestellen mit Ausnahme von Fahrgastunterständen zu rauchen, ein offenes Feuer zu entfachen oder brennende oder glimmende Gegenstände wegzuwerfen.
 
-
-## § 60 – Prüfung der Bauunterlagen für Betriebsanlagen
+# § 60 – Prüfung der Bauunterlagen für Betriebsanlagen
 
 (1) Mit dem Bau von Betriebsanlagen, die nach § 62 Absatz 1 einer Inbetriebnahmegenehmigung bedürfen, darf erst begonnen werden, wenn die Prüfung der Bauunterlagen durch die Technische Aufsichtsbehörde ergeben hat, daß die Vorschriften dieser Verordnung beachtet sind, und wenn der Unternehmer vom Ergebnis dieser Prüfung durch einen Planfeststellungsbeschluß, eine Plangenehmigung oder einen Zustimmungsbescheid nach Absatz 3 unterrichtet worden ist.
 
@@ -1567,8 +1503,7 @@ Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu
 
 (10) Für Anlagen des Unternehmers, die nicht dem Betrieb dienen, aber die Sicherheit des Betriebes beeinträchtigen können (sonstige Anlagen), gelten die Absätze 1 bis 9 über das Verfahren sowie die §§ 61 und 62 über die Aufsicht über den Bau von Betriebsanlagen und die Inbetriebnahmegenehmigung entsprechend. Bestehen Zweifel, ob eine sonstige Anlage die Sicherheit des Betriebes beeinträchtigen kann, entscheidet die Technische Aufsichtsbehörde.
 
-
-## § 61 – Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen
+# § 61 – Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen
 
 (1) Die Technische Aufsichtsbehörde beaufsichtigt den Bau von Betriebsanlagen und Fahrzeugen. Sie kann sich dabei auf Stichproben, bei Fahrzeugen auf das erste Fahrzeug einer Serie, beschränken. Sie kann verlangen, daß Beginn und Beendigung bestimmter Bauarbeiten rechtzeitig angezeigt werden.
 
@@ -1582,8 +1517,7 @@ Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu
 
 (3) Den mit der Aufsicht Beauftragten ist Zutritt zur Baustelle oder Fertigungsstelle sowie Einblick in die für die Aufsicht erforderlichen Unterlagen zu gewähren.
 
-
-## § 62 – Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge
+# § 62 – Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge
 
 (1) Neue oder geänderte Betriebsanlagen und Fahrzeuge dürfen außer zur Ermittlung der Gebrauchsfähigkeit nur betrieben werden, wenn die Technische Aufsichtsbehörde die Inbetriebnahme genehmigt hat. Dies gilt für geänderte Betriebsanlagen und Fahrzeuge nur bei Änderungen, die sich auf die Betriebssicherheit auswirken können. Instandhaltungsarbeiten, bei denen Bauteile mit gleicher Funktion und Leistung ersetzt werden, bedürfen keiner Inbetriebnahmegenehmigung. Geplante Maßnahmen zur Änderung von Betriebsanlagen und Fahrzeugen sind der Technischen Aufsichtsbehörde in schriftlicher oder elektronischer Form anzuzeigen. Der Anzeige ist eine Beschreibung der geplanten Arbeiten, die der Aufsichtsbehörde eine Beurteilung des Umfangs und der Art der geplanten Arbeiten erlaubt, und eine Einstufung der Auswirkungen auf die Betriebssicherheit beizufügen. Nach Eingang der Anzeige entscheidet die Technische Aufsichtsbehörde darüber, ob sich die Maßnahme auf die Betriebssicherheit auswirken kann. Mit der Durchführung der Maßnahmen darf erst nach der Entscheidung der Technischen Aufsichtsbehörde begonnen werden. Stellt die Technische Aufsichtsbehörde Mängel in der vorgelegten Einstufung des Antragstellers fest, hat sie ihm unter Angabe der Mängel Gelegenheit zur Beseitigung zu geben. § 37 des Personenbeförderungsgesetzes bleibt unberührt.
 
@@ -1599,8 +1533,7 @@ Es ist verboten, Betriebsanlagen oder Fahrzeuge zu beschädigen, vorsätzlich zu
 
 (7) Ist die Feststellung hinsichtlich der Betriebssicherheit getroffen, dürfen Betriebsanlagen oder Fahrzeuge vor der Genehmigung der Inbetriebnahme vorläufig in Betrieb genommen werden, wenn die Technische Aufsichtsbehörde nichts anderes bestimmt hat.
 
-
-## § 63 – Ordnungswidrigkeiten
+# § 63 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 des Personenbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig als Unternehmer
 
@@ -1618,13 +1551,11 @@ Nummer 2 gilt für den anderen Träger eines Vorhabens (§ 3 Abs. 3 des Personen
 
 2. entgegen § 59 Satz 2 Nummer 1 eine Außentür oder eine Einrichtung zur Notbremsung betätigt.
 
-
-## § 64 – Übergangsvorschrift
+# § 64 – Übergangsvorschrift
 
 Werden in dieser Verordnung an den Bau von Betriebsanlagen oder Fahrzeugen andere Anforderungen als nach dem bis zum 22. Dezember 2016 geltenden Recht gestellt, brauchen bestehende oder zu diesem Zeitpunkt im Bau befindliche Betriebsanlagen oder Fahrzeuge den Vorschriften dieser Verordnung nicht angepasst zu werden. Werden in dieser Verordnung an den Bau von Betriebsanlagen oder Fahrzeugen andere Anforderungen als nach dem bis zum 9. Oktober 2019 geltenden Recht gestellt, brauchen bestehende oder zu diesem Zeitpunkt im Bau befindliche Betriebsanlagen oder Fahrzeuge den Vorschriften dieser Verordnung nicht angepasst zu werden. Die Technische Aufsichtsbehörde kann eine Anpassung verlangen, wenn die Sicherheit dies erfordert. Abweichend von Satz 1 gelten für die nach § 30 Absatz 8 Nummer 3 zu stellenden Anforderungen eine Übergangsfrist von sechs Jahren und für die nach § 46 Absatz 5 zu stellenden Anforderungen eine Übergangsfrist von acht Jahren.
 
-
-## § 65 – Inkrafttreten
+# § 65 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
@@ -1634,24 +1565,20 @@ Werden in dieser Verordnung an den Bau von Betriebsanlagen oder Fahrzeugen ander
 
 (4) (weggefallen)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage 1 – (zu § 20 Absatz 5 Nummer 1)Kennzeichnung und Sicherung von Bahnübergängen
+# Anlage 1 – (zu § 20 Absatz 5 Nummer 1)Kennzeichnung und Sicherung von Bahnübergängen
 
 (Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 2)
 
-
-## Anlage 2 – (zu § 36)Grenzwerte für Bremsungen
+# Anlage 2 – (zu § 36)Grenzwerte für Bremsungen
 
 (Fundstelle: BGBl. I 1987, Anlageband zu Nr. 58, S. 3)
 
   
-Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge auf geradem, ebenem und trockenem Gleis.  
-
+Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge auf geradem, ebenem und trockenem Gleis. 
 a in m/s (hoch) 2
 
 =  
@@ -1806,12 +1733,11 @@ m
 
 69
 
-
-## Anlage 3 – (zu § 47 Abs. 2 Nr. 2)Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
+# Anlage 3 – (zu § 47 Abs. 2 Nr. 2)Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen
 
 (Fundstelle: BGBl. I 1987, Nr 58, Anlageband S. 4)
 
-![ ](../normengrafiken/bgbl1_1987/j5804_0010.jpg)
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5804_0010.jpg)
 
 Farbe des Sinnbildes und der Bildumrandung
 
@@ -1821,8 +1747,7 @@ Farbe des Untergrundes
 
 weiß
 
-
-## Anlage 4 – (zu den §§ 20, 21, 40, 51)Signale
+# Anlage 4 – (zu den §§ 20, 21, 40, 51)Signale
 
 (Fundstelle des Originaltextes: Anlageband zu BGBl. I 1987, Nr. 58;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1913,11 +1838,11 @@ So
 |:------------|:--------------------------------------------------|:---------------------------------------|:----------------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                        | Bedeutung                              | Erläuterung                                                                                   |
 | H 0         | Ein rotes Licht                                   | Halt                                   |                                                                                               |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5806_0010.jpg) |                                        |                                                                                               |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5806_0010.jpg) |                                        |                                                                                               |
 | H 1         | Ein grünes Licht                                  | Fahrt                                  | Signale H 1 und H 2 können auch in Verbindung mit Geschwindigkeitssignalen G 2 gegeben werden |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5806_0020.jpg) |                                        |                                                                                               |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5806_0020.jpg) |                                        |                                                                                               |
 | H 2         | Ein grünes über einem gelbem Licht                | Fahrt mit Geschwindigkeitsbeschränkung |                                                                                               |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5806_0030.jpg) |                                        |                                                                                               |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5806_0030.jpg) |                                        |                                                                                               |
 
 2. Vorankündigungssignale (Fahren auf Zugsicherung)
 
@@ -1925,11 +1850,11 @@ So
 |:------------|:-----------------------------------------------------------------------|:--------------------------------------------------------------------------------|:------------|
 | Bezeichnung | Signalbild                                                             | Bedeutung                                                                       | Erläuterung |
 | V 0         | Zwei gelbe Lichter nach rechts steigend                                | Am folgenden Hauptsignal ist Halt zu erwarten                                   |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5807_0010.jpg)                      |                                                                                 |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5807_0010.jpg)                      |                                                                                 |             |
 | V 1         | Zwei grüne Lichter nach rechts steigend                                | Am folgenden Hauptsignal ist Fahrt zu erwarten                                  |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5807_0020.jpg)                      |                                                                                 |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5807_0020.jpg)                      |                                                                                 |             |
 | V 2         | Ein grünes und ein gelbes Licht von links nach rechts stärker steigend | Am folgenden Hauptsignal ist Fahrt mit Geschwindigkeitsbeschränkung zu erwarten |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5807_0030.jpg)                      |                                                                                 |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5807_0030.jpg)                      |                                                                                 |             |
 
 Bei beschränktem Raum können die Lichter senkrecht untereinander angeordnet sein, wenn keine Verwechslungen mit anderen Signalbildern zu befürchten sind.
 
@@ -1939,17 +1864,17 @@ Bei beschränktem Raum können die Lichter senkrecht untereinander angeordnet se
 |:------------|:---------------------------------------------------------|:-------------------------------------------------------------------------------------|:------------|
 | Bezeichnung | Signalbild                                               | Bedeutung                                                                            | Erläuterung |
 | F 0         | Ein weißer waagerechter Lichtbalken                      | Halt                                                                                 |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5808_0010.jpg)        |                                                                                      |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5808_0010.jpg)        |                                                                                      |             |
 | F 1         | Ein weißer senkrechter Lichtbalken                       | Fahrt freigegeben nur geradeaus                                                      |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5808_0020.jpg)        |                                                                                      |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5808_0020.jpg)        |                                                                                      |             |
 | F 2         | Ein weißer schräg nach rechts oben weisender Lichtbalken | Fahrt freigegeben nur nach rechts                                                    |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5808_0030.jpg)        |                                                                                      |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5808_0030.jpg)        |                                                                                      |             |
 | F 3         | Ein weißer schräg nach links oben weisender Lichtbalken  | Fahrt freigegeben nur nach links                                                     |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5809_0040.jpg)        |                                                                                      |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5809_0040.jpg)        |                                                                                      |             |
 | F 4         | Ein weißer Lichtpunkt                                    | Halt zu erwarten                                                                     |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5809_0050.jpg)        |                                                                                      |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5809_0050.jpg)        |                                                                                      |             |
 | F 5         | Ein weißes Lichtdreieck mit Spitze nach unten            | Fahrt freigegeben unter Beachtung der Abbiegeregeln nach § 9 Straßenverkehrs-Ordnung |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5809_0060.jpg)        |                                                                                      |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5809_0060.jpg)        |                                                                                      |             |
 
 4. Abfertigungssignale
 
@@ -1957,11 +1882,11 @@ Bei beschränktem Raum können die Lichter senkrecht untereinander angeordnet se
 |:------------|:-----------------------------------------------------------------------------------------|:----------------|:------------|
 | Bezeichnung | Signalbild                                                                               | Bedeutung       | Erläuterung |
 | A 1         | ein weiß- oder gelbleuchtendes T                                                         | Türen schließen |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5810_0010.jpg)                                        |                 |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5810_0010.jpg)                                        |                 |             |
 | A 2 a       | Ein kurzes akustisches oder ein optisches oder ein akustisches und ein optisches Zeichen | Abfahren        |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5810_0020.jpg)                                        |                 |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5810_0020.jpg)                                        |                 |             |
 | A 2 b       | Ein weiß- oder grünleuchtender Ring                                                      |                 |             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5810_0030.jpg)                                        |                 |             |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5810_0030.jpg)                                        |                 |             |
 
 5. Zugsignale
 
@@ -1969,15 +1894,15 @@ Bei beschränktem Raum können die Lichter senkrecht untereinander angeordnet se
 |:------------|:------------------------------------------------------|:---------------------|:-------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                            | Bedeutung            | Erläuterung                                                              |
 | Z 1         | An der Spitze eines Zuges drei weiße Lichter          | Spitzensignal        | Die Stirnleuchte des Spitzensignals kann die Linienbezeichnung enthalten |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5811_0010.jpg)     |                      |                                                                          |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5811_0010.jpg)     |                      |                                                                          |
 | Z 2         | Am Zugschluß zwei rote Lichter                        | Schlußsignal         |                                                                          |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5811_0020.jpg)     |                      |                                                                          |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5811_0020.jpg)     |                      |                                                                          |
 | Z 3         | Am Zugschluss zwei rote Lichter                       | Bremssignal          |                                                                          |
-|             | ![ ](../normengrafiken/bgbl1_2016/j2938-1_0010.jpg)   |                      |                                                                          |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j2938-1_0010.jpg)   |                      |                                                                          |
 | Z 4         | Gelbe Blinklichter an einer der beiden Längsseiten    | Fahrtrichtungssignal |                                                                          |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5812_0020.jpg)     |                      |                                                                          |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5812_0020.jpg)     |                      |                                                                          |
 | Z 5         | Gelbe Blinklichter gleichzeitig an beiden Längsseiten | Warnblinksignal      | Zeigt an, daß der Zug liegengeblieben ist                                |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5813_0010.jpg)     |                      |                                                                          |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5813_0010.jpg)     |                      |                                                                          |
 
 6. Geschwindigkeitssignale
 
@@ -1985,18 +1910,18 @@ Bei beschränktem Raum können die Lichter senkrecht untereinander angeordnet se
 |:------------|:----------------------------------------------------------------------------------------------|:---------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                                                                    | Bedeutung                                    | Erläuterung                                                                                                      |
 | G 1 a       | Eine dreieckige, auf der Spitze stehende gelbe Tafel mit weißem Rand und schwarzer Kennziffer | Ankündigung der Geschwindigkeitsbeschränkung | Geschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach unten                         |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5814_0010.jpg)                                             |                                              |                                                                                                                  |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5814_0010.jpg)                                             |                                              |                                                                                                                  |
 |             | Bei beschränktem Raum kann eine Dreieckspitze nach oben zeigen                                |                                              |                                                                                                                  |
 | G 1 b       | Eine gelbleuchtende Kennziffer                                                                |                                              |                                                                                                                  |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5814_0020.jpg)                                             |                                              |                                                                                                                  |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5814_0020.jpg)                                             |                                              |                                                                                                                  |
 | G 2 a       | Eine rechteckige gelbe Tafel mit weißem Rand und schwarzer Kennziffer                         | Beginn der Geschwindigkeitsbeschränkung      |                                                                                                                  |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5814_0030.jpg)                                             |                                              |                                                                                                                  |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5814_0030.jpg)                                             |                                              |                                                                                                                  |
 | G 2 b       | eine weißleuchtende Kennziffer                                                                |                                              |                                                                                                                  |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5814_0040.jpg)                                             |                                              |                                                                                                                  |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5814_0040.jpg)                                             |                                              |                                                                                                                  |
 | G 3         | Eine rechteckige weiße Tafel mit schwarzem E                                                  | Ende der Geschwindigkeitsbeschränkung        | Geschwindigkeitsbeschränkung ist jede Änderung der zulässigen Geschwindigkeit nach unten                         |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5815_0010.jpg)                                             |                                              |                                                                                                                  |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5815_0010.jpg)                                             |                                              |                                                                                                                  |
 | G 4         | Eine rechteckige weiße Tafel mit schwarzem Rand und schwarzer Kennziffer                      | Beginn der Geschwindigkeitsbegrenzung        | Zeigt Änderungen der zulässigen Geschwindigkeit nach oben an; kann auch anstelle von Signal G 3 verwendet werden |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5815_0020.jpg)                                             |                                              |                                                                                                                  |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5815_0020.jpg)                                             |                                              |                                                                                                                  |
 
 Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert in km/h als Geschwindigkeit zugelassen ist; werden einstellige Kennziffern verwendet, gilt deren zehnfacher Wert als zulässige Geschwindigkeit.
 
@@ -2006,25 +1931,25 @@ Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert 
 |:------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:------------------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                                                                                                                   | Bedeutung    | Erläuterung                                                                                     |
 | Sh 1        | Eine quadratische gelbe Tafel mit waagerechtem grünen Streifen                                                                               | Zwangshalt   | Kennzeichnet Stellen, an denen bei Fahren auf Sicht an jedem Fall anzuhalten ist                |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5816_0010.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5816_0010.jpg)                                                                                            |              |                                                                                                 |
 | Sh 2        | Eine rechteckige rote Tafel mit weißem Rand                                                                                                  | Schutzhalt   | Weiterfahrt ist unzulässig                                                                      |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5816_0020.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5816_0020.jpg)                                                                                            |              |                                                                                                 |
 | Sh 3 a      | Mindestens 3 kurze akustische Zeichen schnell hintereinander                                                                                 | Nothalt      | Der Zug ist auf kürzestem Weg anzuhalten                                                        |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5817_0010.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5817_0010.jpg)                                                                                            |              |                                                                                                 |
 | Sh 3 b      | Eine weiß-rot-weiße Fahne oder der Arm im Kreis bewegt                                                                                       |              |                                                                                                 |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5817_0020.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5817_0020.jpg)                                                                                            |              |                                                                                                 |
 | Sh 3 c      | Eine Laterne, möglichst rot abgeblendet, oder ein leuchtender Gegenstand im Kreis bewegt                                                     |              |                                                                                                 |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5817_0030.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5817_0030.jpg)                                                                                            |              |                                                                                                 |
 | Sh 3 d      | Ein rotes Blinklicht oder mehrere rote Lichter untereinander                                                                                 |              |                                                                                                 |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5817_0040.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5817_0040.jpg)                                                                                            |              |                                                                                                 |
 | Sh 4        | Eine rechteckige weiße Tafel mit schwarzem L                                                                                                 | Läuten       | Den örtlichen Gegebenheiten entsprechend sind akustische Warnsignale zu geben                   |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5818_0010.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5818_0010.jpg)                                                                                            |              |                                                                                                 |
 | Sh 5        | Ein mäßig langer Ton oder Läutezeichen                                                                                                       | Achtung      | Signal Sh 5 wird gegeben, um Personen zu warnen                                                 |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5818_0020.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5818_0020.jpg)                                                                                            |              |                                                                                                 |
 | Sh 6        | Ein rot-weißes Zeichen oder entsprechende Markierung im Gleisbereich                                                                         | Grenzzeichen | Kennzeichnet die Grenze, bis zu der bei zusammenlaufenden Gleisen das Gleis besetzt werden darf |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5818_0030.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5818_0030.jpg)                                                                                            |              |                                                                                                 |
 | Sh 7        | Eine rechteckige schwarze Tafel mit weißem H oder eine rechteckige weiße Tafel mit schwarzem H oder entsprechende Markierung im Gleisbereich | Haltetafel   | Kennzeichnet die Stelle, an der die Spitze des Zuges halten soll                                |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5818_0040.jpg)                                                                                            |              |                                                                                                 |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5818_0040.jpg)                                                                                            |              |                                                                                                 |
 
 8. Rangiersignale
 
@@ -2032,11 +1957,11 @@ Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert 
 |:------------|:-------------------------------------------------------------------------------------------------------------|:------------|:---------------------------------------|
 | Bezeichnung | Signalbild                                                                                                   | Bedeutung   | Erläuterung                            |
 | R 1         | Ein mäßig langer Ton und senkrechte Bewegungen des Armes, bei Dunkelheit mit einer weißen Laterne            | Wegfahren   | Rangierbewegung vom Signalgebenden weg |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5819_0010.jpg)                                                            |             |                                        |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5819_0010.jpg)                                                            |             |                                        |
 | R 2         | Zwei mäßig lange Töne und waagerechte langsame Bewegungen des Armes, bei Dunkelheit mit einer weißen Laterne | Herkommen   | Rangierbewegung zum Signalgebenden hin |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5819_0020.jpg)                                                            |             |                                        |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5819_0020.jpg)                                                            |             |                                        |
 | R 3         | Drei kurze Töne und kreisförmige Bewegungen des Armes, bei Dunkelheit mit einer weißen Laterne               | Rangierhalt |                                        |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5819_0030.jpg)                                                            |             |                                        |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5819_0030.jpg)                                                            |             |                                        |
 
 9. Schaltsignale
 
@@ -2044,21 +1969,21 @@ Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert 
 |:------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------|:-------------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                                                                                                                                                            | Bedeutung                                       | Erläuterung                                                                                |
 | St 1        | Eine quadratische blaue Tafel mit einem weißen S                                                                                                                                      | Signalkontakt                                   | Am Signal St 1 ist ein Signalkontakt zu betätigen                                          |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5820_0010.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5820_0010.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 2        | Eine quadratische blaue Tafel mit einem weißen W                                                                                                                                      | Weichenkontakt                                  | Am Signal St 2 ist die Weichensteuerung zu betätigen                                       |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5820_0020.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5820_0020.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 3        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem zerlegten weißen U                                                                     | Ausschalten                                     | Vom Signal St 3 an muß der Fahrstrom ausgeschaltet sein                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5820_0030.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5820_0030.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 4        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem geschlossenen weißen U                                                                 | Einschalten erlaubt                             | Vom Signal St 4 ab darf der Fahrstrom eingeschaltet werden                                 |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5821_0010.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5821_0010.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 5        | Eine quadratische, auf der Spitze stehende blaue Tafel mi schwarzem und weißem Rand und einem waagerechten weißen Streifen                                                            | Stromabnehmer abziehen                          | Vom Signal St 5 ab muß der Stromabnehmer abgezogen sein                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5821_0020.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5821_0020.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 6        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem senkrechten weißen Streifen                                                            | Stromabnehmer anlegen                           | Vom Signal St 6 ab darf der Stromabnehmer wieder angelegt sein                             |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5822_0010.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5822_0010.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 7        | Eine quadratische blaue Tafel mit einem weißen T                                                                                                                                      | Streckentrenner                                 | Am Signal St 7 ist der Fahrstrom kurz abzuschalten                                         |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5822_0020.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5822_0020.jpg)                                                                                                                                     |                                                 |                                                                                            |
 | St 8        | Eine quadratische, auf der Spitze stehende blaue Tafel mit schwarzem und weißem Rand und einem auf der Spitze stehenden quadratischen weißen Rahmen mit innenliegendem weißen Quadrat | Halt für Fahrzeuge mit angelegtem Stromabnehmer | Fahrten über Signal St 8 hinaus sind für Fahrzeuge mit angelegtem Stromabnehmer unzulässig |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5822_0030.jpg)                                                                                                                                     |                                                 |                                                                                            |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5822_0030.jpg)                                                                                                                                     |                                                 |                                                                                            |
 
 10. Weichensignale
 
@@ -2066,19 +1991,19 @@ Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert 
 |:------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                                                                           | Bedeutung                                                         | Erläuterung                                                                                                        |
 | W 1         | Ein weiß leuchtender Winkel mit Spitze nach oben                                                     | Weiche steht für Fahrt geradeaus mit höchstens 15 km/h            | Kraftschlüssige Endlage der beweglichen Weichenteile (Weiche ohne Verschluß)                                       |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5823_0010.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5823_0010.jpg)                                                    |                                                                   |                                                                                                                    |
 | W 2         | Ein weiß leuchtender Winkel mit Spitze nach rechts                                                   | Weiche steht für Fahrt nach rechts mit höchstens 15 km/h          |                                                                                                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5823_0020.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5823_0020.jpg)                                                    |                                                                   |                                                                                                                    |
 | W 3         | Ein weiß leuchtender Winkel mit Spitze nach links                                                    | Weiche steht für Fahrt nach links mit höchstens 15 km/h           |                                                                                                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5823_0030.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5823_0030.jpg)                                                    |                                                                   |                                                                                                                    |
 | W 11        | Ein weiß leuchtender Winkel mit Spitze nach oben und Basisbalken unten                               | Weiche steht für Fahrt geradeaus mit zulässiger Geschwindigkeit   | Die beweglichen Teile der Weiche sind in der jeweiligen Endlage formschlüssig festgelegt (Weiche ist verschlossen) |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5824_0010.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5824_0010.jpg)                                                    |                                                                   |                                                                                                                    |
 | W 12        | Ein weiß leuchtender Winkel mit Spitze nach rechts und Basisbalken links                             | Weiche steht für Fahrt nach rechts mit zulässiger Geschwindigkeit |                                                                                                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5824_0020.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5824_0020.jpg)                                                    |                                                                   |                                                                                                                    |
 | W 13        | Ein weiß leuchtender Winkel mit Spitze nach links und Basisbalken rechts                             | Weiche steht für Fahrt nach links mit zulässiger Geschwindigkeit  |                                                                                                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5824_0030.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5824_0030.jpg)                                                    |                                                                   |                                                                                                                    |
 | W 14        | Ein weißer Winkel mit Spitze nach unten und Basisbalken oben auf einer quadratischen schwarzen Tafel | Weiche darf nicht aufgefahren werden                              |                                                                                                                    |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5824_0040.jpg)                                                    |                                                                   |                                                                                                                    |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5824_0040.jpg)                                                    |                                                                   |                                                                                                                    |
 
 11. Überwachungssignale für Bahnübergänge
 
@@ -2086,11 +2011,11 @@ Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert 
 |:------------|:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                                                                    | Bedeutung                                                                    | Erläuterung                                                                          |
 | Bü 0        | Ein schwarz-weiß schräg gestreiftes, rückstrahlendes Mastschild                               | Halt vor dem Bahnübergang; Weiterfahrt nur, wenn es die Verkehrslage erlaubt | Bü 0 zeigt an, daß die technische Sicherung des Bahnübergangs ausgefallen ist        |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5825_0010.jpg)                                             |                                                                              |                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5825_0010.jpg)                                             |                                                                              |                                                                                      |
 | Bü 1        | Ein weißes Blinklicht über einem schwarz-weiß schräg gestreiften, rückstrahlenden Mastschild  | Der Bahnübergang darf befahren werden                                        | Bü 1 zeigt an, daß die technische Sicherung des Bahnübergangs ordnungsgemäß arbeitet |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5825_0020.jpg)                                             |                                                                              |                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5825_0020.jpg)                                             |                                                                              |                                                                                      |
 | Bü 2        | Eine rechteckige schwarze Tafel mit vier auf den Spitzen übereinander stehenden weißen Rauten | Ein Überwachungssignal ist zu erwarten                                       |                                                                                      |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5825_0030.jpg)                                             |                                                                              |                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5825_0030.jpg)                                             |                                                                              |                                                                                      |
 
 12. Sondersignale
 
@@ -2098,14 +2023,14 @@ Die Kennziffern der Signale G 1, G 2 und G 4 bedeuten, daß der angegebene Wert 
 |:------------|:-------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | Bezeichnung | Signalbild                                                                                                                     | Bedeutung                             | Erläuterung                                                                                                                          |
 | So 1        | Eine quadratische weiße Tafel mit zwei schwarzen Punkten untereinander                                                         | Beginn einer Strecke mit Zugsicherung | Übergang vom Fahren auf Sicht zum Fahren auf Zugsicherung                                                                            |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5826_0010.jpg)                                                                              |                                       |                                                                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5826_0010.jpg)                                                                              |                                       |                                                                                                                                      |
 | So 2        | Eine quadratische weiße Tafel mit zwei schwarzen Punkten untereinander und einem nach rechts steigenden roten Diagonalstreifen | Ende einer Strecke mit Zugsicherung   | Übergang vom Fahren auf Zugsicherung zum Fahren auf Sicht                                                                            |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5826_0020.jpg)                                                                              |                                       |                                                                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5826_0020.jpg)                                                                              |                                       |                                                                                                                                      |
 | So 3        | Ein schwarz-weißer Erkennungsstreifen                                                                                          | Standortkennzeichen                   | Gibt den Standort von Hauptsignalen an                                                                                               |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5827_0010.jpg)                                                                              |                                       |                                                                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5827_0010.jpg)                                                                              |                                       |                                                                                                                                      |
 | So 4        | Ein gelb-weißes Mastschild                                                                                                     | Auftragsschild                        | Gibt den Auftrag, am Signal H 0 unter Beachtung besonderer Anordnungen, die in einer Dienstanweisung festgelegt sind, vorbeizufahren |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5827_0020.jpg)                                                                              |                                       |                                                                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5827_0020.jpg)                                                                              |                                       |                                                                                                                                      |
 | So 5        | Eine quadratische gelbe Tafel mit grünem Diagonalkreuz                                                                         | Begegnungsverbot — Anfang —           | Bei Begegnungsverbot für bestimmte Fahrzeuge und Richtungen können Zusatzschilder verwendet werden                                   |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5828_0010.jpg)                                                                              |                                       |                                                                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5828_0010.jpg)                                                                              |                                       |                                                                                                                                      |
 | So 6        | Eine quadratische gelbe Tafel mit grünem Rand                                                                                  | Begegnungsverbot — Ende —             |                                                                                                                                      |
-|             | ![ ](../normengrafiken/bgbl1_1987/j5828_0020.jpg)                                                                              |                                       |                                                                                                                                      |
+|             | ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j5828_0020.jpg)                                                                              |                                       |                                                                                                                                      |

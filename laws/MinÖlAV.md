@@ -1,15 +1,11 @@
-# [MinÖlAV] Verordnung über einen Mineralölausgleich in einer Versorgungskrise  (Mineralölausgleichs-Verordnung)
-
-Ausfertigungsdatum: 13.12.1985
-
+% Verordnung über einen Mineralölausgleich in einer Versorgungskrise  (Mineralölausgleichs-Verordnung)
+% Ausfertigungsdatum: 13.12.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit § 3 Abs. 1 des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Verpflichtung zum Versorgungsausgleich, Grundsatz und Beteiligte
+# § 1 – Verpflichtung zum Versorgungsausgleich, Grundsatz und Beteiligte
 
 (1) Unternehmen, die gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen Rohbenzin, Vergaserkraftstoff, Benzinkomponenten, leichtes Heizöl, Dieselkraftstoff, Mitteldestillatkomponenten, schweres Heizöl, dessen Komponenten oder Flüssiggas einführen, sonst in den Geltungsbereich dieser Verordnung verbringen oder für eigene Rechnung herstellen oder herstellen lassen, sind zu einem Versorgungsausgleich verpflichtet. Der Versorgungsausgleich erfolgt, indem überversorgte an unterversorgte Unternehmen Mengen abgeben.
 
@@ -17,8 +13,7 @@ Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit § 3 Abs. 
 
 (3) Bei Unternehmen, welche die in Absatz 1 genannten Mineralölprodukte aus Rohöl herstellen, findet zusätzlich zur einzelproduktbezogenen Feststellung der Über- oder Unterversorgung eine Berechnung der Über- oder Unterversorgung nach den drei Produktgruppen (leicht, mittel, schwer) statt. Unterscheidet sich das Ergebnis dieser Berechnung von der Summe der Ergebnisse für die Einzelprodukte in der jeweiligen Produktgruppe, so ist das Produktgruppenergebnis für die auszugleichende Menge maßgebend.
 
-
-## § 2 – Berechnungsgrundlagen des Versorgungsausgleichs
+# § 2 – Berechnungsgrundlagen des Versorgungsausgleichs
 
 (1) Die am Versorgungsausgleich beteiligten Unternehmen haben dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach näherer Maßgabe des § 11 monatlich ihre Versorgungslage für den jeweils laufenden Monat, die beiden vorangegangenen Monate und die beiden nächsten Monate zu melden.
 
@@ -32,8 +27,7 @@ Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit § 3 Abs. 
 
 (6) Die bei der Ermittlung der Unter- oder Überversorgung zugrunde zu legenden Verbrauchseinschränkungssätze werden vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) festgelegt und den am Versorgungsausgleich beteiligten Unternehmen schriftlich oder elektronisch bekanntgegeben. Die Festlegung hat unter Beachtung der von den zuständigen Stellen durch Verbrauchseinschränkungsmaßnahmen oder auf andere Weise angestrebten Einsparziele zu erfolgen.
 
-
-## § 3 – Inhalt der Verpflichtung zum Versorgungsausgleich
+# § 3 – Inhalt der Verpflichtung zum Versorgungsausgleich
 
 (1) Ein Versorgungsausgleich findet jeweils für den laufenden und den nächsten Monat statt. Der Ausgleich für den laufenden Monat soll vorrangig erfolgen. Die Verpflichtung zum Angebot von Ausgleichsmengen beginnt jeweils, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) den am Versorgungsausgleich beteiligten Unternehmen ihre eigene auszugleichende Menge und die der anderen Unternehmen schriftlich oder elektronisch bekanntgegeben hat.
 
@@ -47,18 +41,15 @@ Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit § 3 Abs. 
 
 (6) Die Ausgleichsmengen sind unmittelbar den unterversorgten Unternehmen anzubieten. Dabei können sich die über- oder unterversorgten Unternehmen zur Durchführung des Versorgungsausgleichs auch der Vermittlung eines aus Sachverständigen der Mineralölwirtschaft gebildeten Organs (Koordinierungsgruppe Versorgung) bedienen.
 
-
-## § 4 – Konditionen für im Versorgungsausgleich abzugebende Mengen
+# § 4 – Konditionen für im Versorgungsausgleich abzugebende Mengen
 
 Die Abgabe von Mengen im Versorgungsausgleich erfolgt zu Marktpreisen. Die Konditionen der Ausgleichsangebote überversorgter Unternehmen sind so zu gestalten, daß unterversorgte Unternehmen weder unmittelbar noch mittelbar unbillig behindert oder gegenüber gleichartigen Unternehmen ohne sachlich gerechtfertigten Grund unmittelbar oder mittelbar unterschiedlich behandelt werden.
 
-
-## § 5 – Verpflichtung zur Einhaltung der Vertriebsstruktur
+# § 5 – Verpflichtung zur Einhaltung der Vertriebsstruktur
 
 Die in § 1 Abs. 1 genannten Unternehmen sind verpflichtet, ihren Abnehmern der nachgelagerten Handelsstufe die jeweils aus dem monatlichen Aufkommen verfügbaren Mengen an den in § 1 Abs. 1 genannten Mineralölprodukten bis zur Höhe der um den jeweiligen Verbrauchseinschränkungssatz gekürzten Referenzmenge (§ 2 Abs. 5) anteilig entsprechend der Abnahmestruktur im Vergleichszeitraum anzubieten. Die Konditionen dieser Angebote haben den Anforderungen des § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 und § 20 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen zu entsprechen.
 
-
-## § 6 – Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) beim nationalen Versorgungsausgleich nach den §§ 1 bis 3
+# § 6 – Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) beim nationalen Versorgungsausgleich nach den §§ 1 bis 3
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, vom fünften Werktag an, nachdem die in § 3 Abs. 1 vorgesehene Mitteilung erfolgt ist, ausgleichspflichtige Unternehmen anzuweisen, den Anforderungen des § 4 entsprechende Angebote abzugeben oder ein bereits abgegebenes Angebot einem anderen unterversorgten Unternehmen zu unterbreiten, soweit dem bisherigen Adressaten Angebote vorliegen, die insgesamt sein Ausgleichsrecht überschreiten. In begründeten Fällen kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) einem ausgleichspflichtigen Unternehmen auf Antrag noch eine zusätzliche Frist einräumen, um seiner Ausgleichspflicht ohne Anweisung nachzukommen.
 
@@ -78,13 +69,11 @@ Die in § 1 Abs. 1 genannten Unternehmen sind verpflichtet, ihren Abnehmern der 
 
 (5) In Fällen, in denen ein Unternehmen erheblich unterversorgt ist und ein Ausgleich ausschließlich wegen der Minimumgrenze von 500 t bei Flüssiggas und 1.000 t bei den anderen in den Versorgungsausgleich einbezogenen Mineralölprodukten nicht zustande kommt, kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) auf Antrag ausgleichspflichtige Unternehmen anweisen, Ausgleichsmengen zugunsten des unterversorgten Unternehmens abzugeben, wenn sonst für dieses Unternehmen eine von ihm darzulegende unzumutbare Härte entstünde. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann dabei unter Berücksichtigung des Gesamtaufkommens dieses Unternehmens in den letzten vier Quartalen vor Inkraftsetzung von Notstandsmaßnahmen der Internationalen Energieagentur auch höhere Mengen als die Ausgleichsmengen für den laufenden und den folgenden Monat zuweisen.
 
-
-## § 7 – Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der Einhaltung der historischen Vertriebsstruktur nach § 5
+# § 7 – Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der Einhaltung der historischen Vertriebsstruktur nach § 5
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Belieferung eines ihrer Abnehmer anzuweisen, soweit die Lieferungen an diesen Abnehmer stärker als nach § 5 zulässig gekürzt werden, eine Einigung der Unternehmen auf freiwilliger Basis nicht erreicht werden kann und der betroffene Abnehmer einen entsprechenden Antrag stellt. Der Antragsteller hat in seinem Antrag zu begründen, inwieweit er die in Satz 1 geforderten materiellen Voraussetzungen für ein Tätigwerden des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) als gegeben ansieht.
 
-
-## § 8 – Inhalt einer Verfügung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
+# § 8 – Inhalt einer Verfügung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bestimmt in seiner an den Abgabepflichtigen gerichteten Verfügung den Empfänger, die abzugebende Menge und die Auslieferungszeit.
 
@@ -92,8 +81,7 @@ Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, die 
 
 (3) Kommt ein Vertrag nicht zustande, weil das begünstigte Unternehmen sich nicht ernsthaft um einen Vertragsabschluß bemüht hat oder offensichtlich unvertretbare Forderungen stellt, soll das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) keine weiteren Maßnahmen zugunsten einer Versorgung dieses Unternehmens ergreifen.
 
-
-## § 9 – Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) im internationalen Versorgungsausgleich
+# § 9 – Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) im internationalen Versorgungsausgleich
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Abgabe von Rohöl oder den in § 1 Abs. 1 genannten Mineralölprodukten in andere Teilnehmerstaaten des Übereinkommens vom 18. November 1974 über ein Internationales Energieprogramm zu verpflichten, wenn folgende Voraussetzungen vorliegen:
 
@@ -105,13 +93,11 @@ Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, die 
 
 (3) Die Konditionen sind zwischen dem von einer Abgabeverfügung Betroffenen und dem Begünstigten unter Beachtung des Artikels 10 des Übereinkommens vom 18. November 1974 über ein Internationales Energieprogramm auszuhandeln. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann die Konditionen festlegen, soweit dies zur Erfüllung der Abgabepflicht der Bundesrepublik Deutschland erforderlich wird.
 
-
-## § 10 – Beratung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
+# § 10 – Beratung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird bei seiner Tätigkeit nach den §§ 6 bis 9 und bei Auswertungen von Daten von der Koordinierungsgruppe Versorgung beraten.
 
-
-## § 11 – Meldepflichten
+# § 11 – Meldepflichten
 
 (1) In § 1 Abs. 1 genannte Unternehmen, die bei Inkrafttreten von Notstandsmaßnahmen der Internationalen Energieagentur zum Erhebungskreis des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) gehören, sind verpflichtet, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bis zum 10. eines jeden Monats folgendes zu melden:
 
@@ -133,8 +119,7 @@ Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird bei seiner Tätig
 
 (5) Für die Angaben nach den Absätzen 1, 2 und 4 sind vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebene Vordrucke zu verwenden.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
@@ -144,13 +129,11 @@ Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 197
 
 3. entgegen § 11 Abs. 1, 2, 3 oder 4 die geforderten Meldungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 13 – Berlin-Klausel
+# § 13 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 17 des Energiesicherungsgesetzes 1975 auch im Land Berlin.
 
-
-## § 14 – Inkrafttreten und Anwendbarkeit der Verordnung
+# § 14 – Inkrafttreten und Anwendbarkeit der Verordnung
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

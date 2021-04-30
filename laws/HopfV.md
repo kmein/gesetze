@@ -1,20 +1,15 @@
-# [HopfV] Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
-
-Ausfertigungsdatum: 27.01.2009
-
+% Verordnung zur Durchführung des gemeinschaftlichen Hopfenrechts
+% Ausfertigungsdatum: 27.01.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Absatz 4 und des § 3 Absatz 3 des Hopfengesetzes vom 21. Oktober 1996 (BGBl. I S. 1530), von denen § 2 Absatz 4 durch Artikel 1 des Gesetzes vom 1. Juli 2008 (BGBl. I S. 1106) eingefügt worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Zertifizierungstermin
+# § 1 – Zertifizierungstermin
 
 Der Endtermin für die Zertifizierung von Rohhopfen nach Artikel 6 Absatz 2 der Verordnung (EG) Nr. 1850/2006 der Kommission vom 14. Dezember 2006 mit Durchführungsbestimmungen für die Zertifizierung von Hopfen und Hopfenerzeugnissen (ABl. L 355 vom 15.12.2006, S. 72) ist der 15. November des jeweiligen Erntejahres.
 
-
-## § 2 – Ordnungswidrigkeiten
+# § 2 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 3 Absatz 1 Nummer 2 des Hopfengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -30,12 +25,10 @@ c) entgegen Artikel 14 Absatz 1 ein zertifiziertes Hopfenerzeugnis mischt oder
 
 d) entgegen Artikel 20 Absatz 1 Satz 1 eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

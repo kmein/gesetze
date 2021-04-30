@@ -1,10 +1,7 @@
-# [SVBezGrV 2020] Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2020  (Sozialversicherungs-Rechengrößenverordnung 2020)
-
-Ausfertigungsdatum: 17.12.2019
-
+% Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2020  (Sozialversicherungs-Rechengrößenverordnung 2020)
+% Ausfertigungsdatum: 17.12.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -21,8 +18,7 @@ des § 17 Absatz 2 Satz 1 in Verbindung mit § 18 des Vierten Buches Sozialgeset
 
 verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Durchschnittsentgelte in der Rentenversicherung
+# § 1 – Durchschnittsentgelte in der Rentenversicherung
 
 (1) Das Durchschnittsentgelt für das Jahr 2018 beträgt 38 212 Euro.
 
@@ -30,15 +26,13 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 (3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend ergänzt.
 
-
-## § 2 – Bezugsgrößen in der Sozialversicherung
+# § 2 – Bezugsgrößen in der Sozialversicherung
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch beträgt im Jahr 2020 jährlich 38 220 Euro und monatlich 3 185 Euro.
 
 (2) Die Bezugsgröße (Ost) im Sinne des § 18 Absatz 2 des Vierten Buches Sozialgesetzbuch beträgt im Jahr 2020 jährlich 36 120 Euro und monatlich 3 010 Euro.
 
-
-## § 3 – Beitragsbemessungsgrenzen in der Rentenversicherung
+# § 3 – Beitragsbemessungsgrenzen in der Rentenversicherung
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahr 2020
 
@@ -56,15 +50,13 @@ Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1. 
 
 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1. 2020 – 31. 12. 2020“ um die Jahresbeträge ergänzt.
 
-
-## § 4 – Jahresarbeitsentgeltgrenzen in der Krankenversicherung
+# § 4 – Jahresarbeitsentgeltgrenzen in der Krankenversicherung
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch für das Jahr 2020 beträgt 62 550 Euro.
 
 (2) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 7 des Fünften Buches Sozialgesetzbuch für das Jahr 2020 beträgt 56 250 Euro.
 
-
-## § 5 – Wert zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+# § 5 – Wert zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 
@@ -72,12 +64,10 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 |:----:|:---------------:|
 | 2018 |     1,1339.     |
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

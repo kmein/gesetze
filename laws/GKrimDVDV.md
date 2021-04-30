@@ -1,11 +1,8 @@
-# [GKrimDVDV] Verordnung über die Vorbereitungsdienste für den gehobenen Kriminaldienst des Bundes  (GKrimDVDV)
-
-Ausfertigungsdatum: 09.12.2020
-
+% Verordnung über die Vorbereitungsdienste für den gehobenen Kriminaldienst des Bundes  (GKrimDVDV)
+% Ausfertigungsdatum: 09.12.2020
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
  
 
  
@@ -149,9 +146,8 @@ Ausfertigungsdatum: 09.12.2020
  
 
  
-
 
-## § 1 – Vorbereitungsdienste
+# § 1 – Vorbereitungsdienste
 
 Vorbereitungsdienste für die Laufbahn des gehobenen Kriminaldienstes des Bundes sind
 
@@ -163,8 +159,7 @@ Vorbereitungsdienste für die Laufbahn des gehobenen Kriminaldienstes des Bundes
 
 Soweit im Folgenden nichts anderes bestimmt ist, werden die Vorbereitungsdienste an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) durchgeführt.
 
-
-## § 2 – Dienstbehörde
+# § 2 – Dienstbehörde
 
 (1) Die Studierenden sind Beamtinnen und Beamte des Bundeskriminalamts.
 
@@ -172,8 +167,7 @@ Soweit im Folgenden nichts anderes bestimmt ist, werden die Vorbereitungsdienste
 
 (3) Die Teilnehmerinnen und Teilnehmer der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ sind Beamtinnen und Beamte des Bundeskriminalamts.
 
-
-## § 3 – Dienstaufsicht
+# § 3 – Dienstaufsicht
 
 (1) Die Studierenden unterstehen der Dienstaufsicht der Präsidentin oder des Präsidenten des Bundeskriminalamts
 
@@ -197,13 +191,11 @@ Während der praxisintegrierenden Studienzeiten bei einer Kriminalpolizeidiensts
 
 Während der Fachpraxis außerhalb des Bundeskriminalamts unterstehen sie auch der Dienstaufsicht der Leitungen der Kriminalpolizeidienststellen der Länder.
 
-
-## § 4 – Erholungsurlaub
+# § 4 – Erholungsurlaub
 
 Die Zeiten des Erholungsurlaubs werden von der Hochschule bestimmt.
 
-
-## § 5 – Bewertung von Prüfungsleistungen
+# § 5 – Bewertung von Prüfungsleistungen
 
 (1) Die in den Prüfungen des Vorbereitungsdienstes erbrachten Leistungen werden wie folgt bewertet:
 
@@ -357,8 +349,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Rangpunktzahlen werden auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
-## § 6 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 6 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für das Studium geeignet sind.
 
@@ -370,8 +361,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Die Auswahlkommission entscheidet nach den Ergebnissen des schriftlichen und des mündlichen Teils des Auswahlverfahrens, wer zur Prüfung der körperlichen Tauglichkeit zugelassen wird. Wer zum Auswahlverfahren oder zur Prüfung der körperlichen Tauglichkeit nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine elektronische Mitteilung.
 
-
-## § 7 – Auswahlkommission
+# § 7 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Bundeskriminalamt eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt das Bundeskriminalamt sicher, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -383,8 +373,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 8 – Einstellung
+# § 8 – Einstellung
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -402,8 +391,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Wer am Auswahlverfahren teilgenommen hat, aber nicht eingestellt wird, erhält eine elektronische Mitteilung. Die Bewerbungsunterlagen sind dem Bewerber auf seine Kosten zurückzusenden, wenn er die Rücksendung verlangt; ansonsten sind sie zu vernichten. Elektronisch eingesandte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 9 – Ziel des Studiums
+# § 9 – Ziel des Studiums
 
 Das Studium hat insbesondere zum Ziel,
 
@@ -415,15 +403,13 @@ Das Studium hat insbesondere zum Ziel,
 
 4. die Studierenden zu befähigen, dass sie ihre Kompetenzen weiterentwickeln, um den ständig wachsenden Herausforderungen des Polizeivollzugsdienstes gerecht zu werden.
 
-
-## § 10 – Dauer des Studiums
+# § 10 – Dauer des Studiums
 
 (1) Das Studium dauert nach § 13 Absatz 1 Satz 1 der Bundeslaufbahnverordnung in der Regel sechs Semester.
 
 (2) Das Studium ist so zu konzipieren, dass die Studierenden je Semester 30 Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen erwerben können.
 
-
-## § 11 – Gliederung des Studiums und Teilnahmepflicht
+# § 11 – Gliederung des Studiums und Teilnahmepflicht
 
 (1) Das Studium gliedert sich in
 
@@ -435,8 +421,7 @@ Das Studium hat insbesondere zum Ziel,
 
 (3) Die Teilnahme an den Lehrveranstaltungen der Module und an den polizeispezifischen Trainings ist verpflichtend.
 
-
-## § 12 – Verteilung und Inhalt der Module
+# § 12 – Verteilung und Inhalt der Module
 
 (1) Die Module des Studiums verteilen sich wie folgt auf die Studienabschnitte:
 
@@ -528,25 +513,21 @@ Thesis der Bachelorarbeit
 
 (4) Der Inhalt der Module 1 bis 14 richtet sich nach dem Modulhandbuch „Kriminalvollzugsdienst im Bundeskriminalamt“. Der Inhalt der Module 1 bis 4 entspricht dem Inhalt des gemeinsamen fachbereichsübergreifenden Grundstudiums der Hochschule.
 
-
-## § 13 – Durchführungsort
+# § 13 – Durchführungsort
 
 (1) Die Fachstudien I werden als gemeinsames fachbereichsübergreifendes Grundstudium am Zentralbereich der Hochschule in Brühl durchgeführt. Die Fachstudien II und III sowie die Bachelorarbeit werden am Fachbereich Kriminalpolizei in Wiesbaden durchgeführt.
 
 (2) Die praxisintegrierenden Studienzeiten I werden bei einer Kriminalpolizeidienststelle einer Landespolizei durchgeführt. Die praxisintegrierenden Studienzeiten II werden beim Bundeskriminalamt durchgeführt.
 
-
-## § 14 – Gestaltung und Organisation der praxisintegrierenden Studienzeiten
+# § 14 – Gestaltung und Organisation der praxisintegrierenden Studienzeiten
 
 Die Hochschule bestimmt und überwacht die Gestaltung und die Organisation der praxisintegrierenden Studienzeiten.
 
-
-## § 15 – Ausbildungsplan für die praxisintegrierenden Studienzeiten
+# § 15 – Ausbildungsplan für die praxisintegrierenden Studienzeiten
 
 Für die praxisintegrierenden Studienzeiten erstellt die Hochschule für jede Studierende und jeden Studierenden einen Ausbildungsplan und gibt ihn der oder dem Studierenden bekannt.
 
-
-## § 16 – Ausbildungsverantwortliche für die praxisintegrierenden Studienzeiten
+# § 16 – Ausbildungsverantwortliche für die praxisintegrierenden Studienzeiten
 
 (1) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule
 
@@ -556,8 +537,7 @@ Für die praxisintegrierenden Studienzeiten erstellt die Hochschule für jede St
 
 (2) Die Ausbildungsverantwortlichen sind für die ordnungsgemäße Durchführung der praxisintegrierenden Studienzeiten verantwortlich. Während der praxisintegrierenden Studienzeiten beraten sie die Studierenden und die Ausbildenden.
 
-
-## § 17 – Durchführung und Inhalt der polizeispezifischen Trainings
+# § 17 – Durchführung und Inhalt der polizeispezifischen Trainings
 
 (1) Die polizeispezifischen Trainings werden modulbegleitend in den fachtheoretischen Studienzeiten II und III durchgeführt.
 
@@ -565,8 +545,7 @@ Für die praxisintegrierenden Studienzeiten erstellt die Hochschule für jede St
 
 (3) Die Inhalte der polizeispezifischen Trainings richten sich nach dem Modulhandbuch „Kriminalvollzugsdienst im Bundeskriminalamt“.
 
-
-## § 18 – Praktische Prüfungen in den polizeispezifischen Trainings
+# § 18 – Praktische Prüfungen in den polizeispezifischen Trainings
 
 (1) In den polizeispezifischen Trainings hat die oder der Studierende vor der praxisintegrierenden Studienzeit I zwei praktische Prüfungen abzulegen.
 
@@ -584,13 +563,11 @@ Für die praxisintegrierenden Studienzeiten erstellt die Hochschule für jede St
 
 (6) Das Bestehen der beiden Prüfungen ist Voraussetzung für die Teilnahme an der praxisintegrierenden Studienzeit I.
 
-
-## § 19 – Zweck der Laufbahnprüfung
+# § 19 – Zweck der Laufbahnprüfung
 
 Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studierenden für den gehobenen Kriminaldienst des Bundes festzustellen.
 
-
-## § 20 – Bestandteile der Laufbahnprüfung
+# § 20 – Bestandteile der Laufbahnprüfung
 
 (1) Die Bachelorprüfung ist die Laufbahnprüfung.
 
@@ -600,8 +577,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 2. der Bachelorarbeit.
 
-
-## § 21 – Prüfungsamt der Laufbahnprüfung
+# § 21 – Prüfungsamt der Laufbahnprüfung
 
 (1) Für die Organisation und Durchführung der Modulprüfungen in den Modulen 1 bis 4 ist das Prüfungsamt für das Grundstudium am Zentralbereich der Hochschule zuständig.
 
@@ -613,15 +589,13 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 (5) Das Prüfungsamt gewährleistet, dass die Prüfungen ordnungsgemäß durchgeführt werden.
 
-
-## § 22 – Module mit Modulprüfungen
+# § 22 – Module mit Modulprüfungen
 
 (1) In jedem der Module 1 bis 13 hat die oder der Studierende eine Modulprüfung abzulegen.
 
 (2) Die Modulprüfungen sollen spätestens eine Woche vor der Verteidigung der Bachelorarbeit abgeschlossen sein.
 
-
-## § 23 – Modulprüfungen in den fachtheoretischen Studienzeiten
+# § 23 – Modulprüfungen in den fachtheoretischen Studienzeiten
 
 (1) In den Modulen 1 bis 7 und 9 bis 12 wird die Modulprüfung durchgeführt in Form
 
@@ -639,15 +613,13 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 (3) Näheres regelt das Modulhandbuch „Kriminalvollzugsdienst im Bundeskriminalamt“.
 
-
-## § 24 – Zwischenprüfung und Bescheinigung über die Zwischenprüfung
+# § 24 – Zwischenprüfung und Bescheinigung über die Zwischenprüfung
 
 (1) Die Modulprüfungen in den Modulen 1 bis 4 entsprechen der Zwischenprüfung des gemeinsamen fachbereichsübergreifenden Grundstudiums der Hochschule.
 
 (2) Über die Zwischenprüfung erstellt das Prüfungsamt am Zentralbereich der Hochschule der oder dem Studierenden eine gesonderte Bescheinigung. In der gesonderten Bescheinigung sind die Rangpunkte anzugeben, die die oder der Studierende in den Modulprüfungen in den Modulen 1 bis 4 erreicht hat.
 
-
-## § 25 – Modulprüfungen in den praxisintegrierenden Studienzeiten
+# § 25 – Modulprüfungen in den praxisintegrierenden Studienzeiten
 
 (1) Im Modul 8 besteht die Modulprüfung aus
 
@@ -661,8 +633,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 (4) Näheres regelt das Modulhandbuch „Kriminalvollzugsdienst im Bundeskriminalamt“.
 
-
-## § 26 – Prüfende für die Modulprüfungen
+# § 26 – Prüfende für die Modulprüfungen
 
 (1) Für die Bewertung der in den Modulprüfungen erbrachten Leistungen bestellt das zuständige Prüfungsamt Prüfende.
 
@@ -674,13 +645,11 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der oder des Studie
 
 (5) Die Prüfenden sind bei ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 27 – Bestehen einer Modulprüfung
+# § 27 – Bestehen einer Modulprüfung
 
 Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 28 – Wiederholung von Modulprüfungen
+# § 28 – Wiederholung von Modulprüfungen
 
 (1) Wer eine Modulprüfung in einem der Module 1 bis 7 und 9 bis 12 nicht bestanden hat, kann sie einmal wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist eine zweite Wiederholung in einer der Modulprüfungen der Module 1 bis 7 und in einer der Modulprüfungen der Module 9 bis 12 möglich.
 
@@ -690,8 +659,7 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (4) Mit dem endgültigen Nichtbestehen einer Modulprüfung ist das Studium beendet.
 
-
-## § 29 – Bestandteile der Bachelorarbeit
+# § 29 – Bestandteile der Bachelorarbeit
 
 Die Bachelorarbeit besteht aus
 
@@ -699,13 +667,11 @@ Die Bachelorarbeit besteht aus
 
 2. der Verteidigung der Thesis.
 
-
-## § 30 – Zweck der Thesis
+# § 30 – Zweck der Thesis
 
 In der Thesis soll die oder der Studierende nachweisen, dass sie oder er fähig ist, innerhalb einer vorgegebenen Bearbeitungszeit eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden und wissenschaftlichen Standards selbständig zu bearbeiten.
 
-
-## § 31 – Thema der Thesis
+# § 31 – Thema der Thesis
 
 (1) In Modul 13 hat die oder der Studierende einen Themenvorschlag und ein Exposé für die Thesis bei der Hochschule einzureichen.
 
@@ -715,8 +681,7 @@ In der Thesis soll die oder der Studierende nachweisen, dass sie oder er fähig 
 
 (4) Ein festgelegtes Thema kann nur in besonderen Fällen und mit Zustimmung des Prüfungsamts beim Bundeskriminalamt geändert werden.
 
-
-## § 32 – Abgabetermin und Bearbeitungszeit für die Thesis
+# § 32 – Abgabetermin und Bearbeitungszeit für die Thesis
 
 (1) Der Termin für die Abgabe der Thesis ist der erste Werktag des vierten auf die Bekanntgabe des Themas folgenden Kalendermonats.
 
@@ -726,8 +691,7 @@ In der Thesis soll die oder der Studierende nachweisen, dass sie oder er fähig 
 
 (4) Näheres regelt das Modulhandbuch „Kriminalvollzugsdienst im Bundeskriminalamt“.
 
-
-## § 33 – Prüfende für die Thesis
+# § 33 – Prüfende für die Thesis
 
 (1) Sobald das Thema der Thesis festgelegt worden ist, bestellt das Prüfungsamt beim Bundeskriminalamt eine Erstprüfende oder einen Erstprüfenden und eine Zweitprüfende oder einen Zweitprüfenden für die Bewertung der Thesis.
 
@@ -751,23 +715,19 @@ Mindestens eine Prüfende oder ein Prüfender muss einem der Personenkreise nach
 
 (4) Die beiden Prüfenden sind bei ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 34 – Betreuung bei Anfertigung der Thesis
+# § 34 – Betreuung bei Anfertigung der Thesis
 
 Die oder der Studierende hat Anspruch darauf, bei der Anfertigung der Thesis von den beiden Prüfenden betreut zu werden.
 
-
-## § 35 – Freistellung vom Dienst
+# § 35 – Freistellung vom Dienst
 
 Während der Bearbeitungszeit für die Thesis ist die oder der Studierende vom Dienst freigestellt.
 
-
-## § 36 – Vorgaben für die Form der Thesis
+# § 36 – Vorgaben für die Form der Thesis
 
 Die Vorgaben für die Form der Thesis legt das Prüfungsamt beim Bundeskriminalamt fest.
 
-
-## § 37 – Abgabe der Thesis
+# § 37 – Abgabe der Thesis
 
 (1) Die Thesis ist im Prüfungsamt beim Bundeskriminalamt abzugeben.
 
@@ -781,13 +741,11 @@ Sofern die Thesis elektronisch übermittelt werden kann, kann auch die Versicher
 
 (3) Die Abgabe beim Prüfungsamt beim Bundeskriminalamt ist aktenkundig zu machen.
 
-
-## § 38 – Bestehen der Thesis
+# § 38 – Bestehen der Thesis
 
 Die Thesis ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 39 – Wiederholung der Thesis
+# § 39 – Wiederholung der Thesis
 
 (1) Wer die Thesis nicht bestanden hat, kann sie einmal wiederholen.
 
@@ -803,8 +761,7 @@ Die Thesis ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet wor
 
 (7) Für die Person, die die Thesis auch bei der Wiederholung nicht bestanden hat, ist das Studium beendet.
 
-
-## § 40 – Zulassung zur Verteidigung
+# § 40 – Zulassung zur Verteidigung
 
 Zur Verteidigung der Thesis wird zugelassen, wer
 
@@ -816,15 +773,13 @@ Zur Verteidigung der Thesis wird zugelassen, wer
 
 hat.
 
-
-## § 41 – Termin für die Verteidigung
+# § 41 – Termin für die Verteidigung
 
 (1) Der Termin für die Verteidigung wird vom Prüfungsamt beim Bundeskriminalamt festgelegt.
 
 (2) Die Verteidigung muss bis zum Ende des Studiums abgeschlossen sein.
 
-
-## § 42 – Prüfungskommission
+# § 42 – Prüfungskommission
 
 (1) Für die Verteidigung richtet das Prüfungsamt beim Bundeskriminalamt eine Prüfungskommission ein und bestellt deren Mitglieder und Ersatzmitglieder. Die Spitzenorganisationen der zuständigen Gewerkschaften und Berufsverbände des öffentlichen Dienstes können geeignete Personen vorschlagen.
 
@@ -846,8 +801,7 @@ Ein Mitglied der Prüfungskommission muss eine Lehrkraft am Fachbereich Kriminal
 
 (6) Die Prüfungskommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig.
 
-
-## § 43 – Durchführung und Bestandteile der Verteidigung
+# § 43 – Durchführung und Bestandteile der Verteidigung
 
 (1) Die Verteidigung wird als Einzelprüfung durchgeführt.
 
@@ -867,15 +821,13 @@ Die Präsentation soll 15 Minuten dauern.
 
 (4) Im Anschluss an die Präsentation findet das Prüfungsgespräch statt. In ihm sollen Ziele, Methodik und Ergebnisse der Bachelorarbeit erörtert und begründet werden. Weiterführende Fragestellungen und Bezüge zu anderen Wissensgebieten sind zulässig. Das Prüfungsgespräch soll 30 Minuten dauern.
 
-
-## § 44 – Zuhörerinnen und Zuhörer bei der Verteidigung
+# § 44 – Zuhörerinnen und Zuhörer bei der Verteidigung
 
 (1) Die Verteidigung ist hochschulöffentlich, es sei denn, die oder der Studierende, die oder der die Verteidigung absolviert, widerspricht dem.
 
 (2) Bei der Verteidigung sollen nicht mehr als fünf Zuhörerinnen und Zuhörer zugelassen werden. Über die Zulassung entscheidet die oder der Vorsitzende des Prüfungsausschusses.
 
-
-## § 45 – Protokoll über die Verteidigung
+# § 45 – Protokoll über die Verteidigung
 
 (1) Zu jeder Verteidigung ist ein Protokoll anzufertigen.
 
@@ -883,8 +835,7 @@ Die Präsentation soll 15 Minuten dauern.
 
 (3) Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission zu bestätigen.
 
-
-## § 46 – Bewertung der Verteidigung
+# § 46 – Bewertung der Verteidigung
 
 (1) Die Prüfungskommission bewertet die in der Präsentation der Bachelorarbeit erbrachten Leistungen und die im Prüfungsgespräch erbrachten Leistungen einzeln.
 
@@ -894,13 +845,11 @@ Die Präsentation soll 15 Minuten dauern.
 
 2. der Punktzahl für das Prüfungsgespräch.
 
-
-## § 47 – Bestehen der Verteidigung
+# § 47 – Bestehen der Verteidigung
 
 Die Verteidigung der Thesis ist bestanden, wenn sie mindestens mit fünf Rangpunkten bewertet worden ist.
 
-
-## § 48 – Wiederholung der Verteidigung
+# § 48 – Wiederholung der Verteidigung
 
 (1) Wer die Verteidigung der Thesis nicht bestanden hat, kann sie einmal wiederholen.
 
@@ -910,8 +859,7 @@ Die Verteidigung der Thesis ist bestanden, wenn sie mindestens mit fünf Rangpun
 
 (4) Für die Person, die die Verteidigung auch bei der Wiederholung nicht bestanden hat, ist das Studium beendet.
 
-
-## § 49 – Rangpunktzahl und Note der Bachelorarbeit
+# § 49 – Rangpunktzahl und Note der Bachelorarbeit
 
 (1) Für die Studierende oder den Studierenden, die oder der die Thesis und ihre Verteidigung bestanden hat, wird die Rangpunktzahl der Bachelorarbeit berechnet und die Note der Bachelorarbeit festgesetzt.
 
@@ -923,18 +871,15 @@ Die Verteidigung der Thesis ist bestanden, wenn sie mindestens mit fünf Rangpun
 
 (3) Für die Festsetzung der Note wird die den Leistungspunkten zugeordnete Rangpunktzahl bestimmt. Der Rangpunktzahl wird die entsprechende Note zugeordnet und als Note der Bachelorarbeit festgesetzt.
 
-
-## § 50 – Bestehen der Laufbahnprüfung
+# § 50 – Bestehen der Laufbahnprüfung
 
 Die Laufbahnprüfung hat bestanden, wer die Modulprüfungen sowie die Thesis und die Verteidigung der Thesis bestanden hat.
 
-
-## § 51 – Akademischer Grad
+# § 51 – Akademischer Grad
 
 Der Person, die die Laufbahnprüfung bestanden hat, wird zugleich der akademische Grad „Bachelor of Arts“ (B. A.) verliehen.
 
-
-## § 52 – Rangpunktzahl der Laufbahnprüfung und Gesamtnote
+# § 52 – Rangpunktzahl der Laufbahnprüfung und Gesamtnote
 
 (1) Für jede Person, die die Laufbahnprüfung bestanden hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der Laufbahnprüfung und setzt die Gesamtnote fest.
 
@@ -954,8 +899,7 @@ Der berechnete Wert wird kaufmännisch auf eine ganze Zahl gerundet. Die gerunde
 
 (5) Der Rangpunktzahl der Laufbahnprüfung wird die entsprechende Note zugeordnet und als Gesamtnote festgesetzt.
 
-
-## § 53 – Bescheinigung über die erbrachten Studienleistungen
+# § 53 – Bescheinigung über die erbrachten Studienleistungen
 
 (1) Jeder Person, die studiert oder studiert hat, stellt das Prüfungsamt beim Bundeskriminalamt eine Bescheinigung über die erbrachten Studienleistungen aus.
 
@@ -973,8 +917,7 @@ c) die in dem Modul erworbenen Leistungspunkte sowie
 
 (3) Die Bescheinigung über die erbrachten Studienleistungen wird in deutscher und englischer Sprache ausgestellt.
 
-
-## § 54 – Abschlusszeugnis und Diploma Supplement
+# § 54 – Abschlusszeugnis und Diploma Supplement
 
 (1) Jeder Person, die die Laufbahnprüfung bestanden hat, stellt das Prüfungsamt beim Bundeskriminalamt ein Abschlusszeugnis und ein Diploma Supplement aus.
 
@@ -1004,13 +947,11 @@ e) die Note „E“ für die nächsten 10 Prozent.
 
 Das Diploma Supplement wird in deutscher und in englischer Sprache ausgestellt.
 
-
-## § 55 – Bescheid bei Nichtbestehen der Laufbahnprüfung
+# § 55 – Bescheid bei Nichtbestehen der Laufbahnprüfung
 
 Jeder Person, die die Laufbahnprüfung nicht bestanden hat, stellt das Prüfungsamt beim Bundeskriminalamt einen Bescheid über die nicht bestandene Laufbahnprüfung aus.
 
-
-## § 56 – Prüfungsakten und Einsichtnahme
+# § 56 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jeder und jedem Studierenden führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
 
@@ -1026,8 +967,7 @@ Jeder Person, die die Laufbahnprüfung nicht bestanden hat, stellt das Prüfungs
 
 (4) Die Betroffenen können nach Beendigung des Vorbereitungsdienstes Einsicht in ihre Prüfungsakte nehmen.
 
-
-## § 57 – Voraussetzungen für die Anerkennung
+# § 57 – Voraussetzungen für die Anerkennung
 
 (1) Auf Antrag der oder des Studierenden werden folgende Studien- und Prüfungsleistungen anerkannt:
 
@@ -1069,8 +1009,7 @@ b) an einer staatlich anerkannten Hochschule.
 
 (6) Die übernommenen und die zugeordneten Bewertungen sind in die Berechnung der entsprechenden Rangpunktzahlen einzubeziehen.
 
-
-## § 58 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 58 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen Kriminaldienst des Bundes geeignet sind.
 
@@ -1094,8 +1033,7 @@ b) an einer staatlich anerkannten Hochschule.
 
 (11) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 59 – Einstellung
+# § 59 – Einstellung
 
 (1) Für die Teilnahme am Vorbereitungsdienst, der als Qualifizierungsmaßnahme „Cyberkriminalistik“ durchgeführt wird, kann zugelassen werden, wer
 
@@ -1115,22 +1053,19 @@ b) an einer staatlich anerkannten Hochschule.
 
 (4) Die Bewerbungsunterlagen sind dem Bewerber auf seine Kosten zurückzusenden, wenn er die Rücksendung verlangt; ansonsten sind sie zu vernichten. Elektronisch eingesandte Bewerbungsunterlagen sind endgültig zu löschen. Die Auswahlkommission entscheidet nach den Ergebnissen des schriftlichen und des mündlichen Teils des Auswahlverfahrens, wer zur Prüfung der körperlichen Tauglichkeit zugelassen wird. Wer zum Auswahlverfahren oder zur Prüfung der körperlichen Tauglichkeit nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine elektronische Mitteilung.
 
-
-## § 60 – Ziel der kriminalpolizeifachlichen Qualifizierung und Dauer
+# § 60 – Ziel der kriminalpolizeifachlichen Qualifizierung und Dauer
 
 (1) Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ hat das Ziel, dass bei den Personen, die an ihr teilnehmen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln und dabei ihre technischen Vorkenntnisse und Studienleistungen zu berücksichtigen.
 
 (2) Die kriminalpolizeiliche Qualifizierung dauert 24 Monate.
 
-
-## § 61 – Präsenzlehrveranstaltungen und Freistellung vom Dienst
+# § 61 – Präsenzlehrveranstaltungen und Freistellung vom Dienst
 
 (1) Alle Lehrveranstaltungen der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ sind Präsenzlehrveranstaltungen.
 
 (2) Teilnehmerinnen und Teilnehmer, die Beamtinnen oder Beamte oder Arbeitnehmer beim Bundeskriminalamt sind, sind gegebenenfalls für die Dauer der kriminalpolizeifachlichen Qualifizierung von ihren Dienstpflichten freizustellen.
 
-
-## § 62 – Gliederung der kriminalpolizeifachlichen Qualifizierung
+# § 62 – Gliederung der kriminalpolizeifachlichen Qualifizierung
 
 Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ gliedert sich in
 
@@ -1138,8 +1073,7 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „C
 
 2. polizeispezifische Trainings.
 
-
-## § 63 – Verteilung und Inhalt der Module
+# § 63 – Verteilung und Inhalt der Module
 
 (1) Die kriminalpolizeifachliche Qualifizierung wird in folgenden Modulen durchgeführt:
 
@@ -1159,22 +1093,19 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „C
 
 (3) Das Modul 5 dient der berufspraktischen Tätigkeit.
 
-
-## § 64 – Durchführungsort
+# § 64 – Durchführungsort
 
 (1) Die Module 1 bis 4 und 6 bis 9 werden an der Hochschule am Fachbereich Kriminalpolizei in Wiesbaden durchgeführt.
 
 (2) Das Modul 5 wird beim Bundeskriminalamt durchgeführt.
 
-
-## § 65 – Dienstliche Beurteilung für Modul 5
+# § 65 – Dienstliche Beurteilung für Modul 5
 
 (1) Das Modul 5 wird in mehreren Phasen durchgeführt.
 
 (2) Für jede Phase erstellen die Vorgesetzten eine dienstliche Beurteilung der Teilnehmerin oder des Teilnehmers.
 
-
-## § 66 – Durchführung und Inhalt der polizeispezifischen Trainings
+# § 66 – Durchführung und Inhalt der polizeispezifischen Trainings
 
 (1) Die polizeispezifischen Trainings werden modulbegleitend durchgeführt.
 
@@ -1188,8 +1119,7 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „C
 
 (3) Die Inhalte der polizeispezifischen Trainings richten sich nach dem Modulhandbuch „Cyberkriminalität“.
 
-
-## § 67 – Praktische Prüfungen
+# § 67 – Praktische Prüfungen
 
 (1) In den polizeispezifischen Trainings hat die Teilnehmerin oder der Teilnehmer insgesamt zwei praktische Prüfungen abzulegen.
 
@@ -1207,8 +1137,7 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „C
 
 (6) Für die Teilnehmerin oder den Teilnehmer, die oder der die beiden Prüfungen bestanden hat, erstellt das Prüfungsamt beim Bundeskriminalamt einen qualifizierten Teilnahmenachweis. Mit ihm wird die regelmäßige Teilnahme an den polizeispezifischen Trainings und das Bestehen der beiden Prüfungen bescheinigt.
 
-
-## § 68 – Prüfungsamt
+# § 68 – Prüfungsamt
 
 (1) Prüfungsamt für die Modulprüfungen ist das Prüfungsamt beim Bundeskriminalamt.
 
@@ -1216,27 +1145,23 @@ Die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „C
 
 (3) Das Prüfungsamt gewährleistet, dass die Modulprüfungen rechtmäßig durchgeführt werden.
 
-
-## § 69 – Module mit Modulprüfungen
+# § 69 – Module mit Modulprüfungen
 
 In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ eine Modulprüfung abzulegen.
 
-
-## § 70 – Zeitpunkt der Modulprüfung
+# § 70 – Zeitpunkt der Modulprüfung
 
 (1) Die Modulprüfung findet am Ende des Moduls statt.
 
 (2) Den genauen Termin legt das Prüfungsamt zu Beginn des Moduls fest.
 
-
-## § 71 – Klausur
+# § 71 – Klausur
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
 (2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
-
-## § 72 – Kennzeichnung der Klausuren
+# § 72 – Kennzeichnung der Klausuren
 
 (1) Jede Klausur ist anstelle des Namens mit einer Kennziffer zu versehen.
 
@@ -1246,8 +1171,7 @@ In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer
 
 (4) Erst nach der endgültigen Bewertung der Klausuren darf die Übersicht den Prüfenden bekannt gegeben werden.
 
-
-## § 73 – Prüfende für die Klausuren
+# § 73 – Prüfende für die Klausuren
 
 (1) Für die Bewertung der Klausuren bestellt das Prüfungsamt Prüfende. Bestellt werden dürfen nur hauptamtliche Lehrkräfte der Hochschule.
 
@@ -1255,13 +1179,11 @@ In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer
 
 (3) Die oder der Prüfende ist bei der Bewertung unabhängig und nicht weisungsgebunden.
 
-
-## § 74 – Bestehen einer Modulprüfung
+# § 74 – Bestehen einer Modulprüfung
 
 Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 75 – Wiederholung von Modulprüfungen
+# § 75 – Wiederholung von Modulprüfungen
 
 (1) Wer eine Modulprüfung nicht bestanden hat, kann sie einmal wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist in insgesamt höchstens zwei Modulen jeweils eine weitere Wiederholungsprüfung zulässig.
 
@@ -1269,8 +1191,7 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (3) Für die Person, die eine Modulprüfung endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ beendet.
 
-
-## § 76 – Prüfungsamt
+# § 76 – Prüfungsamt
 
 (1) Prüfungsamt für die mündliche Abschlussprüfung ist das Prüfungsamt beim Bundeskriminalamt.
 
@@ -1278,20 +1199,17 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (3) Das Prüfungsamt gewährleistet, dass die mündliche Abschlussprüfung rechtmäßig durchgeführt wird.
 
-
-## § 77 – Zulassung zur mündlichen Abschlussprüfung
+# § 77 – Zulassung zur mündlichen Abschlussprüfung
 
 Zur mündlichen Abschlussprüfung wird zugelassen, wer alle Modulprüfungen und die beiden Prüfungen in den polizeispezifischen Trainings bestanden hat.
 
-
-## § 78 – Zeitpunkt der mündlichen Abschlussprüfung
+# § 78 – Zeitpunkt der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung wird nach Abschluss des Moduls 9 durchgeführt.
 
 (2) Den genauen Termin legt das Prüfungsamt fest.
 
-
-## § 79 – Prüfungskommission
+# § 79 – Prüfungskommission
 
 (1) Für die mündliche Abschlussprüfung wird eine Prüfungskommission vom Prüfungsamt beim Bundeskriminalamt bestellt.
 
@@ -1307,49 +1225,41 @@ Ein Mitglied der Prüfungskommission muss eine Lehrkraft am Fachbereich Kriminal
 
 (4) Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden der Prüfungskommission.
 
-
-## § 80 – Inhalt der mündlichen Abschlussprüfung
+# § 80 – Inhalt der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung wird als interdisziplinäres Prüfungsgespräch durchgeführt.
 
 (2) Gegenstand der mündlichen Abschlussprüfung sind die Inhalte der Module 1 bis 4 und 6 bis 9.
 
-
-## § 81 – Durchführung und Dauer der mündlichen Abschlussprüfung
+# § 81 – Durchführung und Dauer der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder Gruppenprüfung durchgeführt.
 
 (2) Sie soll je Prüfling 30 Minuten dauern.
 
-
-## § 82 – Protokoll zur mündlichen Abschlussprüfung
+# § 82 – Protokoll zur mündlichen Abschlussprüfung
 
 Über die mündliche Abschlussprüfung ist zu jedem Prüfling ein Protokoll anzufertigen.
 
-
-## § 83 – Bewertung der mündlichen Abschlussprüfung
+# § 83 – Bewertung der mündlichen Abschlussprüfung
 
 Die in der mündlichen Abschlussprüfung erbrachten Leistungen werden von der Prüfungskommission bewertet.
 
-
-## § 84 – Bestehen der mündlichen Abschlussprüfung
+# § 84 – Bestehen der mündlichen Abschlussprüfung
 
 Die mündliche Abschlussprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 85 – Wiederholung der mündlichen Abschlussprüfung
+# § 85 – Wiederholung der mündlichen Abschlussprüfung
 
 (1) Wer die mündliche Abschlussprüfung nicht bestanden hat, kann sie einmal wiederholen.
 
 (2) Für die Person, die die mündliche Abschlussprüfung endgültig nicht bestanden hat, ist die kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ beendet.
 
-
-## § 86 – Erfolgreiche Teilnahme an der kriminalpolizeifachlichen Qualifizierung
+# § 86 – Erfolgreiche Teilnahme an der kriminalpolizeifachlichen Qualifizierung
 
 An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ hat erfolgreich teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
 
-
-## § 87 – Rangpunktzahl der kriminalpolizei- fachlichen Qualifizierung und Gesamtnote
+# § 87 – Rangpunktzahl der kriminalpolizei- fachlichen Qualifizierung und Gesamtnote
 
 (1) Für jede Person, die erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ teilgenommen hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der kriminalpolizeifachlichen Qualifizierung und setzt die Gesamtnote fest.
 
@@ -1363,8 +1273,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 (4) Der Rangpunktzahl der kriminalpolizeifachlichen Qualifizierung wird die entsprechende Note zugeordnet und als Gesamtnote festgesetzt.
 
-
-## § 88 – Abschlusszeugnis
+# § 88 – Abschlusszeugnis
 
 (1) Jeder Person, die erfolgreich an der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
 
@@ -1378,8 +1287,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 4. die Rangpunktzahl der kriminalpolizeifachlichen Qualifizierung und die Gesamtnote.
 
-
-## § 89 – Bescheid bei endgültigem Nichtbestehen
+# § 89 – Bescheid bei endgültigem Nichtbestehen
 
 (1) Jeder Person, die eine Modulprüfung, eine Prüfung im polizeispezifischen Training oder die mündliche Abschlussprüfung endgültig nicht bestanden hat, stellt das Prüfungsamt beim Bundeskriminalamt einen Bescheid über die bis dahin erbrachten Leistungen aus.
 
@@ -1391,8 +1299,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 3. die Rangpunkte für die mündliche Abschlussprüfung, falls die mündliche Abschlussprüfung abgelegt worden ist.
 
-
-## § 90 – Prüfungsakten und Einsichtnahme
+# § 90 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jeder Teilnehmerin und jedem Teilnehmer der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
 
@@ -1408,8 +1315,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 (4) Die Betroffenen können nach Beendigung der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich „Cyberkriminalität“ Einsicht in ihre Prüfungsakte nehmen.
 
-
-## § 91 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 91 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen Kriminaldienst des Bundes geeignet sind.
 
@@ -1423,8 +1329,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 (6) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine elektronische Mitteilung über die Nichtzulassung. Die Bewerbungsunterlagen sind dem Bewerber auf seine Kosten zurückzusenden, wenn er die Rücksendung verlangt; ansonsten sind sie zu vernichten. Elektronisch eingesandte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 92 – Auswahlkommission
+# § 92 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Bundeskriminalamt eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt das Bundeskriminalamt sicher, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -1436,8 +1341,7 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 (5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 93 – Einstellung
+# § 93 – Einstellung
 
 (1) In den Vorbereitungsdienst, der als Qualifizierungsmaßnahme „Ausbildungsverkürzung“ durchgeführt wird, kann eingestellt werden, wer
 
@@ -1457,27 +1361,23 @@ An der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im Bereich 
 
 § 93 Abs. 1 Nr 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kriminallaufbahnverordung" durch das Wort "Kriminallaufbahnverordnung" ersetzt.
 
-
-## § 94 – Ziel der Qualifizierungsmaßnahme
+# § 94 – Ziel der Qualifizierungsmaßnahme
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat das Ziel, Personen, die bereits einen an einer Hochschule erworbenen Bachelor- oder Masterabschluss oder einen vergleichbaren Studienabschluss erworben haben und daher über Kenntnisse und Fähigkeiten wissenschaftlicher Arbeitstechniken verfügen, die Laufbahnbefähigung für den gehobenen kriminalpolizeilichen Vollzugsdienst des Bundes zu vermitteln. Dabei soll der bereits erbrachte wissenschaftliche Abschluss Berücksichtigung finden.
 
 § 94 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "kriminalpolizeiichen" durch das Wort "kriminalpolizeilichen" ersetzt.
 
-
-## § 95 – Dauer der Qualifizierungsmaßnahme
+# § 95 – Dauer der Qualifizierungsmaßnahme
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ dauert 24 Monate.
 
-
-## § 96 – Präsenzlehrveranstaltungen und Freistellung vom Dienst
+# § 96 – Präsenzlehrveranstaltungen und Freistellung vom Dienst
 
 (1) Alle Lehrveranstaltungen der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ sind Präsenzlehrveranstaltungen.
 
 (2) Teilnehmerinnen und Teilnehmer, die Beamtinnen und Beamte oder Arbeitnehmerinnen und Arbeitnehmer des Bundeskriminalamts sind, sind gegebenenfalls für die Dauer der Qualifizierungsmaßnahme von ihren Dienstpflichten freizustellen.
 
-
-## § 97 – Gliederung der Qualifizierungsmaßnahme
+# § 97 – Gliederung der Qualifizierungsmaßnahme
 
 Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
@@ -1485,8 +1385,7 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
 2. polizeispezifische Trainings.
 
-
-## § 98 – Verteilung und Inhalt der Module
+# § 98 – Verteilung und Inhalt der Module
 
 (1) Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ wird in folgenden Modulen durchgeführt:
 
@@ -1511,15 +1410,13 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
 (5) Für jede dieser Phasen erstellen die Vorgesetzten eine dienstliche Beurteilung der Teilnehmerin oder des Teilnehmers.
 
-
-## § 99 – Durchführungsort
+# § 99 – Durchführungsort
 
 (1) Die Module 1 bis 4 und 6 bis 9 werden an der Hochschule am Fachbereich Kriminalpolizei in Wiesbaden durchgeführt.
 
 (2) Das Modul 5 wird bei einer Kriminalpolizeidienststelle einer Landespolizei durchgeführt. Das Modul 10 wird beim Bundeskriminalamt durchgeführt.
 
-
-## § 100 – Durchführung und Inhalt der polizeispezifischen Trainings
+# § 100 – Durchführung und Inhalt der polizeispezifischen Trainings
 
 (1) Die polizeispezifischen Trainings werden modulbegleitend durchgeführt.
 
@@ -1533,8 +1430,7 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
 (3) Die Inhalte der beiden polizeispezifischen Trainings richten sich nach dem Modulhandbuch „Ausbildungsverkürzung im Bundeskriminalamt“.
 
-
-## § 101 – Praktische Prüfungen
+# § 101 – Praktische Prüfungen
 
 (1) In den polizeispezifischen Trainings hat die Teilnehmerin oder der Teilnehmer insgesamt zwei praktische Prüfungen abzulegen.
 
@@ -1552,8 +1448,7 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
 (6) Für die Teilnehmerin oder den Teilnehmer, die oder der die beiden Prüfungen bestanden hat, erstellt das Prüfungsamt beim Bundeskriminalamt einen qualifizierten Teilnahmenachweis. Mit ihm wird die regelmäßige Teilnahme an den polizeispezifischen Trainings und das Bestehen der beiden Prüfungen bescheinigt.
 
-
-## § 102 – Prüfungsamt
+# § 102 – Prüfungsamt
 
 (1) Prüfungsamt für die Modulprüfungen ist das Prüfungsamt beim Bundeskriminalamt.
 
@@ -1561,27 +1456,23 @@ Die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ gliedert sich in
 
 (3) Das Prüfungsamt gewährleistet, dass die Modulprüfungen rechtmäßig durchgeführt werden.
 
-
-## § 103 – Module mit Modulprüfungen
+# § 103 – Module mit Modulprüfungen
 
 In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ eine Modulprüfung abzulegen.
 
-
-## § 104 – Zeitpunkt der Modulprüfungen
+# § 104 – Zeitpunkt der Modulprüfungen
 
 (1) Die Modulprüfung findet am Ende des Moduls statt.
 
 (2) Den genauen Termin legt das Prüfungsamt zu Beginn des Moduls fest.
 
-
-## § 105 – Klausur
+# § 105 – Klausur
 
 (1) Jede Modulprüfung wird als Klausur durchgeführt.
 
 (2) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
-
-## § 106 – Kennzeichnung der Klausuren
+# § 106 – Kennzeichnung der Klausuren
 
 (1) Jede Klausur ist anstelle des Namens mit einer Kennziffer zu versehen.
 
@@ -1591,8 +1482,7 @@ In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer
 
 (4) Erst nach der endgültigen Bewertung der Klausuren darf die Übersicht den Prüfenden bekannt gegeben werden.
 
-
-## § 107 – Prüfende für die Klausuren
+# § 107 – Prüfende für die Klausuren
 
 (1) Für die Bewertung der Klausuren bestellt das Prüfungsamt Prüfende. Bestellt werden dürfen nur hauptamtliche Lehrkräfte der Hochschule.
 
@@ -1600,13 +1490,11 @@ In jedem der Module 1 bis 4 und 6 bis 9 hat die Teilnehmerin oder der Teilnehmer
 
 (3) Die oder der Prüfende ist bei der Bewertung unabhängig und nicht weisungsgebunden.
 
-
-## § 108 – Bestehen einer Modulprüfung
+# § 108 – Bestehen einer Modulprüfung
 
 Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 109 – Wiederholung von Modulprüfungen
+# § 109 – Wiederholung von Modulprüfungen
 
 (1) Wer eine Modulprüfung nicht bestanden hat, kann sie einmal wiederholen. Ist auch die Wiederholung nicht bestanden worden, so ist in insgesamt höchstens zwei Modulen jeweils eine weitere Wiederholungsprüfung zulässig.
 
@@ -1614,8 +1502,7 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (3) Für die Person, die eine Modulprüfung endgültig nicht bestanden hat, ist die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ beendet.
 
-
-## § 110 – Prüfungsamt
+# § 110 – Prüfungsamt
 
 (1) Prüfungsamt für die mündliche Abschlussprüfung ist das Prüfungsamt beim Bundeskriminalamt.
 
@@ -1623,20 +1510,17 @@ Eine Modulprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewe
 
 (3) Das Prüfungsamt gewährleistet, dass die mündliche Abschlussprüfung rechtmäßig durchgeführt wird.
 
-
-## § 111 – Zulassung zur mündlichen Abschlussprüfung
+# § 111 – Zulassung zur mündlichen Abschlussprüfung
 
 Zur mündlichen Abschlussprüfung wird nur zugelassen, wer alle Modulprüfungen und die beiden Prüfungen in den polizeispezifischen Trainings bestanden hat.
 
-
-## § 112 – Zeitpunkt der mündlichen Abschlussprüfung
+# § 112 – Zeitpunkt der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung wird nach Abschluss des Moduls 9 durchgeführt.
 
 (2) Den genauen Termin legt das Prüfungsamt fest.
 
-
-## § 113 – Prüfungskommission
+# § 113 – Prüfungskommission
 
 (1) Für die mündliche Abschlussprüfung wird eine Prüfungskommission bestellt.
 
@@ -1652,49 +1536,41 @@ Ein Mitglied der Prüfungskommission muss eine Lehrkraft am Fachbereich Kriminal
 
 (4) Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden der Prüfungskommission.
 
-
-## § 114 – Inhalt der mündlichen Abschlussprüfung
+# § 114 – Inhalt der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung ist interdisziplinär.
 
 (2) Gegenstand der mündlichen Abschlussprüfung sind die Inhalte der Module 1 bis 4 und 6 bis 9.
 
-
-## § 115 – Durchführung und Dauer der mündlichen Abschlussprüfung
+# § 115 – Durchführung und Dauer der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung wird als Einzel- oder Gruppenprüfung durchgeführt.
 
 (2) Sie soll je Prüfling 30 Minuten dauern.
 
-
-## § 116 – Protokoll zur mündlichen Abschlussprüfung
+# § 116 – Protokoll zur mündlichen Abschlussprüfung
 
 Über die mündliche Abschlussprüfung ist zu jedem Prüfling ein Protokoll anzufertigen.
 
-
-## § 117 – Bewertung der mündlichen Abschlussprüfung
+# § 117 – Bewertung der mündlichen Abschlussprüfung
 
 Die in der mündlichen Abschlussprüfung erbrachten Leistungen werden von der Prüfungskommission bewertet.
 
-
-## § 118 – Bestehen der mündlichen Abschlussprüfung
+# § 118 – Bestehen der mündlichen Abschlussprüfung
 
 Die mündliche Abschlussprüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 119 – Wiederholung der mündlichen Abschlussprüfung
+# § 119 – Wiederholung der mündlichen Abschlussprüfung
 
 (1) Wer die mündliche Abschlussprüfung nicht bestanden hat, kann sie einmal wiederholen.
 
 (2) Für die Person, die die mündliche Abschlussprüfung endgültig nicht bestanden hat, ist die Qualifizierungsmaßnahme „Ausbildungsverkürzung“ beendet.
 
-
-## § 120 – Erfolgreiche Teilnahme an der Qualifizierungsmaßnahme
+# § 120 – Erfolgreiche Teilnahme an der Qualifizierungsmaßnahme
 
 An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich teilgenommen, wer die mündliche Abschlussprüfung bestanden hat.
 
-
-## § 121 – Rangpunktzahl der Qualifizierungsmaßnahme und Gesamtnote
+# § 121 – Rangpunktzahl der Qualifizierungsmaßnahme und Gesamtnote
 
 (1) Für jede Person, die erfolgreich an der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ teilgenommen hat, berechnet das Prüfungsamt beim Bundeskriminalamt die Rangpunktzahl der Qualifizierungsmaßnahme und setzt die Gesamtnote fest.
 
@@ -1708,8 +1584,7 @@ An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich tei
 
 (4) Der Rangpunktzahl der Qualifizierungsmaßnahme wird die entsprechende Note zugeordnet und als Gesamtnote festgesetzt.
 
-
-## § 122 – Abschlusszeugnis
+# § 122 – Abschlusszeugnis
 
 (1) Jeder Person, die erfolgreich an der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ teilgenommen hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
 
@@ -1723,8 +1598,7 @@ An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich tei
 
 4. die Rangpunktzahl der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ und die Gesamtnote.
 
-
-## § 123 – Bescheid bei endgültigem Nichtbestehen
+# § 123 – Bescheid bei endgültigem Nichtbestehen
 
 (1) Jeder Person, die in der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ eine Modulprüfung, eine Prüfung im polizeispezifischen Training oder die mündliche Abschlussprüfung endgültig nicht bestanden hat, stellt das Prüfungsamt einen Bescheid über die bis dahin erbrachten Leistungen aus.
 
@@ -1736,8 +1610,7 @@ An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich tei
 
 3. die Rangpunkte für die mündliche Abschlussprüfung, falls die mündliche Abschlussprüfung abgelegt worden ist.
 
-
-## § 124 – Prüfungsakten und Einsichtnahme
+# § 124 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jeder Teilnehmerin und jedem Teilnehmer der kriminalpolizeilichen Qualifizierung „Ausbildungsverkürzung“ führt das Prüfungsamt beim Bundeskriminalamt eine Prüfungsakte.
 
@@ -1753,8 +1626,7 @@ An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich tei
 
 (4) Die Betroffenen können nach Beendigung der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ Einsicht in ihre Prüfungsakte nehmen.
 
-
-## § 125 – Verhinderung bei einer Prüfung oder einem Prüfungsteil
+# § 125 – Verhinderung bei einer Prüfung oder einem Prüfungsteil
 
 (1) Tritt eine Person von einer Prüfung oder einem Prüfungsteil ohne Genehmigung zurück oder bleibt dieser ohne Genehmigung fern, so gilt diese Prüfung oder dieser Prüfungsteil als nicht bestanden.
 
@@ -1766,8 +1638,7 @@ An der Qualifizierungsmaßnahme „Ausbildungsverkürzung“ hat erfolgreich tei
 
 (5) Bei Erkrankung kann die Genehmigung in der Regel nur erteilt werden, wenn die Prüfungsunfähigkeit unverzüglich durch Vorlage eines qualifizierten ärztlichen Attests nachgewiesen wird. Aus dem qualifizierten ärztlichen Attest müssen sich die Umstände ergeben, die zur Prüfungsunfähigkeit geführt haben. Auf Verlangen des Prüfungsamts ist ein amtsärztliches Zeugnis oder das Zeugnis einer Ärztin oder eines Arztes, die oder der von der Dienstbehörde beauftragt worden ist, vorzulegen.
 
-
-## § 126 – Ordnungsverstöße bei einer Prüfung oder einem Prüfungsteil
+# § 126 – Ordnungsverstöße bei einer Prüfung oder einem Prüfungsteil
 
 (1) Wenn eine den Vorbereitungsdienst absolvierende Person bei einer Prüfung oder einem Prüfungsteil täuscht, eine Täuschung versucht, an einer Täuschung oder einem Täuschungsversuch mitwirkt oder sonst gegen die Ordnung verstößt, so soll ihr die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer Entscheidung des zuständigen Prüfungsamts gestattet werden. Bei einem erheblichen Verstoß kann sie von der weiteren Teilnahme an der Prüfung oder am Prüfungsteil ausgeschlossen werden.
 

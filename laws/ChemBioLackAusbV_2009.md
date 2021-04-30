@@ -1,13 +1,9 @@
-# [ChemBioLackAusbV 2009] Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack
-
-Ausfertigungsdatum: 25.06.2009
-
+% Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack
+% Ausfertigungsdatum: 25.06.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -19,13 +15,11 @@ Die Ausbildungsberufe
 
 werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre und sechs Monate.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Ausbildung gliedert sich in
 
@@ -51,8 +45,7 @@ b) für den Biologielaboranten und die Biologielaborantin aus der Auswahlliste n
 
 c) für den Lacklaboranten und die Lacklaborantin aus der Auswahlliste nach § 18 Absatz 2 auszuwählen sind.
 
-
-## § 4 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
@@ -192,22 +185,19 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe a
 
 20. Durchführen farbmetrischer Arbeiten.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 6 bis 10 nachzuweisen.
 
 (2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Abschlussprüfung
+# § 7 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -281,8 +271,7 @@ g) Charakterisieren von Produkten und Arbeitsstoffen;
 
 4. die Prüfungszeit beträgt 135 Minuten.
 
-
-## § 8 – Teil 2 der Abschlussprüfung
+# § 8 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1.1, Nummer 1.2 Buchstabe a und Nummer 2 Buchstabe a sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -375,8 +364,7 @@ c) drei der nach § 3 Nummer 2 Buchstabe a gewählten Wahlqualifikationen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelung
+# § 9 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -404,13 +392,11 @@ Sozialkunde</td><td style="text-align: right;"><br />
 
 bewertet worden sind.
 
-
-## § 10 – Mündliche Ergänzungsprüfung
+# § 10 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 11 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 11 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
@@ -528,22 +514,19 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe b
 
 16. Anwenden spektroskopischer Verfahren.
 
-
-## § 12 – Durchführung der Berufsausbildung
+# § 12 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 13 bis 17 nachzuweisen.
 
 (2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 13 – Abschlussprüfung
+# § 13 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
-
-## § 14 – Teil 1 der Abschlussprüfung
+# § 14 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -623,8 +606,7 @@ e) Durchführen zoologisch-pharmakologischer Arbeiten;
 
 4. die Prüfungszeit beträgt 135 Minuten.
 
-
-## § 15 – Teil 2 der Abschlussprüfung
+# § 15 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1.1, Nummer 1.2 Buchstabe b sowie Nummer 2 Buchstabe b sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -704,8 +686,7 @@ c) drei der nach § 3 Nummer 2 Buchstabe b gewählten Wahlqualifikationen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 16 – Gewichtungs- und Bestehensregelung
+# § 16 – Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -733,13 +714,11 @@ Sozialkunde</td><td style="text-align: right;"><br />
 
 bewertet worden sind.
 
-
-## § 17 – Mündliche Ergänzungsprüfung
+# § 17 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 18 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 18 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 3) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
@@ -871,22 +850,19 @@ Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
 
 20. Umweltbezogene Arbeitstechniken.
 
-
-## § 19 – Durchführung der Berufsausbildung
+# § 19 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 20 bis 24 nachzuweisen.
 
 (2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 20 – Abschlussprüfung
+# § 20 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
-
-## § 21 – Teil 1 der Abschlussprüfung
+# § 21 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -958,8 +934,7 @@ d) Herstellen von Beschichtungsstoffen;
 
 4. die Prüfungszeit beträgt 135 Minuten.
 
-
-## § 22 – Teil 2 der Abschlussprüfung
+# § 22 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 1.1, Nummer 1.2 Buchstabe c und Nummer 2 Buchstabe c sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -1037,8 +1012,7 @@ d) drei der nach § 18 Absatz 2 Abschnitt B Nummer 1 bis 11 gewählten Wahlquali
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 23 – Gewichtungs- und Bestehensregelung
+# § 23 – Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1069,16 +1043,13 @@ Sozialkunde</td><td style="text-align: right;">10,0 Prozent.</td></tr></tbody></
 
 bewertet worden sind.
 
-
-## § 24 – Mündliche Ergänzungsprüfung
+# § 24 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
+# § 25 – (Inkrafttreten, Außerkrafttreten)
 
-## § 25 – (Inkrafttreten, Außerkrafttreten)
-
-
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten und zur Chemielaborantin
 
 (Fundstelle: BGBl. I 2020, 879 – 888)
 
@@ -1088,8 +1059,7 @@ Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchsta
 
 Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -1483,8 +1453,7 @@ b) Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren, Sedime
 
 Pflichtqualifikationen nach § 3 Nummer 1.2 Buchstabe a
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -1495,14 +1464,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 84.  
-Woche
+53\. bis 84. Woche
 
-85\. bis 182.  
-Woche
+85\. bis 182. Woche
 
 1
 
@@ -1720,8 +1686,7 @@ Edukte, Zwischen- und Endprodukte durch mindestens vier Methoden charakterisiere
 
 Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe a
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -1732,14 +1697,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 84.  
-Woche
+53\. bis 84. Woche
 
-85\. bis 182.  
-Woche
+85\. bis 182. Woche
 
 1
 
@@ -2233,8 +2195,7 @@ e) Farbtöne nach farbmetrischen Daten ausarbeiten
 
 13
 
-
-## Anlage 2 – (zu § 11 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten und zur Biologielaborantin
+# Anlage 2 – (zu § 11 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten und zur Biologielaborantin
 
 (Fundstelle: BGBl. I 2020, 889 – 897)
 
@@ -2244,8 +2205,7 @@ Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchsta
 
 Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -2256,14 +2216,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 85.  
-Woche
+53\. bis 85. Woche
 
-86\. bis 182.  
-Woche
+86\. bis 182. Woche
 
 1
 
@@ -2643,8 +2600,7 @@ b) Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren, Sedime
 
 Pflichtqualifikationen nach § 3 Nummer 1.2 Buchstabe b
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -2655,14 +2611,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 85.  
-Woche
+53\. bis 85. Woche
 
-86\. bis 182.  
-Woche
+86\. bis 182. Woche
 
 1
 
@@ -2896,8 +2849,7 @@ b) Daten unter Berücksichtigung der biologischen Variabilität auswerten
 
 Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe b
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -2908,14 +2860,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 85.  
-Woche
+53\. bis 85. Woche
 
-86\. bis 182.  
-Woche
+86\. bis 182. Woche
 
 1
 
@@ -3250,8 +3199,7 @@ f) Spektren interpretieren
 
 13
 
-
-## Anlage 3 – (zu § 18 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin
+# Anlage 3 – (zu § 18 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten und zur Lacklaborantin
 
 (Fundstelle: BGBl. I 2020, 898 – 910)
 
@@ -3261,8 +3209,7 @@ Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1.1 und Nummer 1.2 Buchsta
 
 Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3 Nummer 1.1
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -3273,14 +3220,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 80.  
-Woche
+53\. bis 80. Woche
 
-81\. bis 182.  
-Woche
+81\. bis 182. Woche
 
 1
 
@@ -3666,8 +3610,7 @@ b) Feststoffe von Flüssigkeiten trennen, insbesondere durch Dekantieren, Sedime
 
 Pflichtqualifikationen nach § 3 Nummer 1.2 Buchstabe c
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -3678,14 +3621,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 80.  
-Woche
+53\. bis 80. Woche
 
-81\. bis 182.  
-Woche
+81\. bis 182. Woche
 
 1
 
@@ -3915,8 +3855,7 @@ d) Rezepturen für Beschichtungsstoffe nach den Applikationsarten Streichen, Rol
 
 Abschnitt B: Wahlqualifikationen nach § 3 Nummer 2 Buchstabe c
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Qualifikation
 
@@ -3927,14 +3866,11 @@ Zeitliche Richtwerte
 in Wochen  
 im Ausbildungsabschnitt
 
-1\. bis 52.  
-Woche
+1\. bis 52. Woche
 
-53\. bis 80.  
-Woche
+53\. bis 80. Woche
 
-81\. bis 182.  
-Woche
+81\. bis 182. Woche
 
 1
 

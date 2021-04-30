@@ -1,10 +1,7 @@
-# [SVÜV] Verordnung über soldatenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands  (Soldatenversorgungs-Übergangsverordnung - SVÜV)
-
-Ausfertigungsdatum: 24.07.1991
-
+% Verordnung über soldatenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands  (Soldatenversorgungs-Übergangsverordnung - SVÜV)
+% Ausfertigungsdatum: 24.07.1991
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt die Versorgung im Sinne des Soldatenversorgungsgesetzes und der hierzu erlassenen Rechts- und Verwaltungsvorschriften und Richtlinien, die in der Anlage zu dieser Verordnung aufgeführt sind. Diese Verordnung gilt für
 
@@ -20,8 +17,7 @@ Sie gilt nach Maßgabe der §§ 3 und 4 auch für Berufssoldaten und Soldaten au
 
 (2) Die in Anlage I Kapitel XIX Sachgebiet B Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1146) sowie die in § 2 Absatz 2 bis 6, 9 bis 11 und 13 genannten Maßgaben gelten nicht für Soldaten auf Zeit und Berufssoldaten, deren Ernennung in unmittelbarem zeitlichen Anschluß an ein öffentlich-rechtliches Dienstverhältnis im früheren Bundesgebiet erfolgt.
 
-
-## § 2 – Maßgaben
+# § 2 – Maßgaben
 
 (1) Das Soldatenversorgungsgesetz gilt unbeschadet der Regelungen in Anlage I Kapitel XIX Sachgebiet B Abschnitt III Nummer 5 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1146) mit den in den folgenden Absätzen bestimmten weiteren Maßgaben.
 
@@ -55,15 +51,13 @@ Sie gilt nach Maßgabe der §§ 3 und 4 auch für Berufssoldaten und Soldaten au
 
 § 2 Abs. 1 Kursivdruck: Das Wort "Einigungsgvertrags" wurde aufgrund offensichtlich unrichtiger Schreibweise durch das Wort "Einigungsvertrages" ersetzt
 
-
-## § 3 – Verwendung von Berufssoldaten und Soldaten auf Zeit
+# § 3 – Verwendung von Berufssoldaten und Soldaten auf Zeit
 
 (1) Die Zeit der Verwendung eines Berufssoldaten oder eines Soldaten auf Zeit aus dem früheren Bundesgebiet zum Zwecke der Aufbauhilfe im Beitrittsgebiet wird doppelt als ruhegehaltfähige Dienstzeit berücksichtigt, wenn sie ununterbrochen mindestens ein Jahr gedauert hat.
 
 (2) Die Regelung des Absatzes 1 ist bis zum 31. Dezember 1995 befristet. Sie gilt nicht für eine Verwendung, die nach dem 31. Dezember 1994 beginnt.
 
-
-## § 4 – Verwendung von Soldaten im Ruhestand und ehemaligen Soldaten auf Zeit
+# § 4 – Verwendung von Soldaten im Ruhestand und ehemaligen Soldaten auf Zeit
 
 (1) Für Soldaten im Ruhestand und ehemalige Soldaten auf Zeit, die wegen ihrer besonderen Fachkenntnisse zum Zwecke der Aufbauhilfe im Beitrittsgebiet verwendet werden, findet § 53 des Soldatenversorgungsgesetzes ab dem 3. Oktober 1990 keine Anwendung. Ab dem 1. August 1991 findet § 53 des Soldatenversorgungsgesetzes auf diese Beschäftigungsverhältnisse insoweit Anwendung, als die Summe von Versorgungsbezügen und Verwendungseinkommen eine Höchstgrenze von 130 vom Hundert der Dienstbezüge überschreitet, nach denen sich bei Soldaten im Ruhestand das Ruhegehalt und bei ehemaligen Soldaten auf Zeit die Übergangsgebührnisse bemessen. Die erhöhte Höchstgrenze wird ab 1. August 1991 auf die Mindestkürzungsgrenze des § 53 Abs. 2 Nr. 1 des Soldatenversorgungsgesetzes angewandt.
 
@@ -71,11 +65,9 @@ Sie gilt nach Maßgabe der §§ 3 und 4 auch für Berufssoldaten und Soldaten au
 
 (3) Die Regelungen der Absätze 1 und 2 gelten nicht für Beschäftigungsverhältnisse, die nach dem 31. Dezember 1999 begründet werden.
 
+# § 5 – (Inkrafttreten)
 
-## § 5 – (Inkrafttreten)
-
-
-## Anlage – Verzeichnis der zum Soldatenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften und Richtlinien
+# Anlage – Verzeichnis der zum Soldatenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften und Richtlinien
 
 A. Gesetze
 

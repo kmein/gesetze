@@ -1,10 +1,7 @@
-# [FANG] Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes und des Angestelltenversicherungs-Neuregelungsgesetzes  (Fremdrenten- und Auslandsrenten-Neuregelungsgesetz - FANG)
-
-Ausfertigungsdatum: 25.02.1960
-
+% Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes und des Angestelltenversicherungs-Neuregelungsgesetzes  (Fremdrenten- und Auslandsrenten-Neuregelungsgesetz - FANG)
+% Ausfertigungsdatum: 25.02.1960
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
  
 
@@ -90,15 +87,13 @@ Schlußvorschriften §§ 1 bis 3
 
 127
 
-
-## § 1
+# § 1
 
 (1) Auf Grund der Satzung der früheren Eigenunfallversicherung der Nationalsozialistischen Deutschen Arbeiterpartei werden keine Leistungen gewährt. Für Unfälle bei einer Tätigkeit, die die Erweiterung oder Festigung der Macht des Nationalsozialismus bezweckte, werden ebenfalls keine Leistungen gewährt.
 
 (2) Soweit bis zum 8. Mai 1945 die Eigenunfallversicherung der Nationalsozialistischen Deutschen Arbeiterpartei für die Entschädigung von Arbeitsunfällen zuständig war, werden die Leistungen von der Bundesausführungsbehörde für Unfallversicherung gewährt.
 
-
-## § 2
+# § 2
 
 (1) § 8 des Fremdrentengesetzes in der vor dem 1. August 1991 geltenden Fassung findet weiter Anwendung auf Berechtigte, die
 
@@ -120,13 +115,11 @@ Für Berechtigte nach Satz 1 Buchstabe b findet § 8a des Fremdrentengesetzes ke
 
 (5) § 8 Abs. 3 und § 8a Abs. 1 des Fremdrentengesetzes in der am 6. Mai 1996 geltenden Fassung finden weiter Anwendung auf solche Berechtigte, deren Rente vor dem 7. Mai 1996 beginnt.
 
-
-## § 3
+# § 3
 
 §§ 1 bis 13 des Fremdrentengesetzes finden auf Arbeitsunfälle und Berufskrankheiten der in § 5 des Fremdrentengesetzes genannten Art auch dann Anwendung, wenn auf diese Fälle das Fremdrenten- und Auslandsrentengesetz nicht angewendet worden ist.
 
-
-## § 4
+# § 4
 
 (1) § 15 Abs. 1 Satz 3 des Fremdrentengesetzes ist nicht anzuwenden, wenn hierdurch eine besondere Härte vermieden wird. Mögliche Leistungen eines fremden Trägers stehen den bereits anerkannten Ansprüchen für Berechtigte nach § 1 Buchstabe b des Fremdrentengesetzes nicht entgegen, solange sie ihren gewöhnlichen Aufenthalt im Inland haben. § 31 des Fremdrentengesetzes bleibt unberührt.
 
@@ -156,18 +149,15 @@ werden für nach dem Fremdrentengesetz anrechenbare Zeiten Entgeltpunkte (Ost) e
 
 (7) (weggefallen)
 
-
-## § 4a
+# § 4a
 
 § 22a des Fremdrentengesetzes gilt nicht für Personen nach § 4 Abs. 5.
 
-
-## § 4b
+# § 4b
 
 § 22b des Fremdrentengesetzes ist nicht für Berechtigte anzuwenden, die vor dem 7. Mai 1996 ihren gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland genommen haben.
 
-
-## § 4c
+# § 4c
 
 (1) Für Berechtigte, die vor dem 7. Mai 1996 ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschland genommen haben und deren Rente vor dem 1. Oktober 1996 beginnt, sind für die Berechnung dieser Rente das § 22 Abs. 3 des Fremdrentengesetzes in der bis zum 31. Dezember 1991 geltenden Fassung und § 22 Abs. 4 des Fremdrentengesetzes in der ab dem 1. Januar 1992 geltenden Fassung sowie § 4 Abs. 5 und 7 in der am 6. Mai 1996 geltenden Fassung anzuwenden.
 
@@ -186,8 +176,7 @@ vom 1. Juli 1998 bis 30. Juni 1999 zur Hälfte und
 vom 1. Juli 1999 bis 30. Juni 2000 zu einem Viertel  
 gezahlt. Für die Zeit des Rentenbezuges ab 1. Juli 2000 wird der Zuschlag nicht gezahlt. § 88 des Sechsten Buches Sozialgesetzbuch findet keine Anwendung. § 44 Abs. 4 des Zehnten Buches Sozialgesetzbuch findet Anwendung.
 
-
-## § 5
+# § 5
 
 (1) Werden Zeiten der in §§ 15 und 16 des Fremdrentengesetzes genannten Art angerechnet, so sind zur Ermittlung der Entgeltpunkte nach Maßgabe der Anlage 1 des Fremdrentengesetzes
 
@@ -205,21 +194,17 @@ zugrunde zu legen. Für Zeiten vor dem 1. Januar 1913, die der Rentenversicherun
 
 (4) Werden Beitrags- oder Beschäftigungszeiten nur für einen Teil eines Kalenderjahres angerechnet, werden bei Anwendung der Tabellen der Anlagen 5, 7, 9, 11, 13 und 15 des Fremdrentengesetzes die Bruttojahresarbeitsentgelte nur anteilmäßig berücksichtigt.
 
-
-## § 6
+# § 6
 
 Personen, die am 1. Juli 1990 eine Rente aus der deutschen Rentenversicherung beziehen, haben Anspruch auf Neufeststellung der Rente unter Berücksichtigung des § 17a des Fremdrentengesetzes für Bezugszeiten nach dem 30. Juni 1990. Die Neufeststellung erfolgt nur auf Antrag; im Einzelfall kann sie auch von Amts wegen erfolgen. Ergibt die Neufeststellung einen niedrigeren Zahlbetrag, ist als Rente mindestens der bisherige Zahlbetrag zu leisten.
 
-
-## § 7
+# § 7
 
 (weggefallen)
 
+# §§ 8 bis 17 – (weggefallen)
 
-## §§ 8 bis 17 – (weggefallen)
-
-
-## § 18
+# § 18
 
 (1) Personen, die vor dem 9. Mai 1945 aus dem deutschen öffentlichen Dienst ausgeschieden sind und von anderen Rechtsträgern außerhalb des Gebiets der Bundesrepublik Deutschland als dem Deutschen Reich einschließlich der Sondervermögen Deutsche Reichsbahn und Deutsche Reichspost, dem ehemaligen Land Preußen oder dem Unternehmen Reichsautobahn nach den im Zeitpunkt ihres Ausscheidens geltenden Vorschriften der Reichsversicherungsgesetze für die Zeit ihrer versicherungsfreien Beschäftigung nachzuversichern waren und nicht nachversichert worden sind, gelten als für diese Zeit nachversichert, es sei denn, daß die Nachversicherung für diese Zeit bereits auf Grund anderer Vorschriften erfolgt oder diese Zeit bei der Bemessung einer lebenslänglichen Alters- und Hinterbliebenenversorgung berücksichtigt wird. Dies gilt auch für den Fall des Todes, wenn rentenberechtigte Hinterbliebene vorhanden sind.
 
@@ -237,23 +222,19 @@ Personen, die am 1. Juli 1990 eine Rente aus der deutschen Rentenversicherung be
 
 (8) Die Absätze 1 bis 7 gelten vom 1. Januar 1992 an nur noch für Personen, die einen Anspruch auf eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der Nachversicherung erwerben würden.
 
-
-## § 19
+# § 19
 
 Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes und frühere deutsche Staatsangehörige im Sinne des Artikels 116 Abs. 2 Satz 1 des Grundgesetzes, die vor dem 9. Mai 1945 in den ehemaligen deutschen Ostgebieten eine Beschäftigung außerhalb des öffentlichen Dienstes verrichtet haben, gelten für die Zeiten dieser Beschäftigung als nachversichert. Voraussetzung ist, daß der Beschäftigte wegen der Gewährleistung von Versorgungsanwartschaften versicherungsfrei gewesen wäre, wenn sein Jahresarbeitsverdienst nicht die Versicherungspflichtgrenze überschritten hätte. Die Nachversicherung gilt als bis zur Höhe der Versicherungspflichtgrenze durchgeführt. Sie gilt nicht als durchgeführt, wenn auch ohne sie eine ausreichende anderweitige Alters- und Hinterbliebenensicherung gewährleistet ist; das Nähere bestimmen das Bundesministerium für Arbeit und Soziales, das Bundesministerium der Finanzen und das Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates. Die Sätze 1 bis 4 gelten vom 1. Januar 1992 an nur noch für Personen, die einen Anspruch auf eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der Nachversicherung erwerben würden. § 18 Abs. 2 und 4 bis 6 gilt entsprechend.
 
-
-## § 20
+# § 20
 
 \-
 
-
-## § 21
+# § 21
 
 Angestellte, die vor dem 9. Mai 1945 im Dienst des Deutschen Reichs einschließlich der Deutschen Reichsbahn und der Deutschen Reichspost, des ehemaligen Landes Preußen, des Unternehmens Reichsautobahn oder im Dienst sonstiger deutscher Dienstherren außerhalb des Gebiets der Bundesrepublik Deutschland standen und für die zu diesem Zeitpunkt ein nach § 16 der "Allgemeinen Tarifordnung für Gefolgschaftsmitglieder im öffentlichen Dienst (ATO)" und der dazu erlassenen Vorschriften gebildeter Versorgungsstock vorhanden war, können, wenn eine ausreichende anderweitige Alters- und Hinterbliebenensicherung nicht besteht, unter entsprechender Anwendung des § 72 Abs. 11 des Gesetzes zu Artikel 131 des Grundgesetzes bei der Versorgungsanstalt des Bundes und der Länder nachversichert werden. Das Nähere regeln die Bundesministerien der Finanzen und des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates; in dieser kann auch die Anrechnung bereits aus dem Versorgungsstock gewährter Leistungen sowie deren Abtretung und die Gewährung einer Abfindung vorgesehen werden. Die Sätze 1 und 2 gelten vom 1. Januar 1992 an nur noch für Personen, die einen Anspruch auf eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der Nachversicherung erwerben würden.
 
-
-## § 22
+# § 22
 
 (1) In § 1 Buchstabe d des Fremdrentengesetzes bezeichnete Personen, die am 1. September 1939 Angehörige des ausländischen öffentlichen Dienstes waren, danach bis zum 8. Mai 1945 oder bis zum Eintritt des Versorgungsfalls im Rahmen der deutschen Wehrmacht oder Verwaltung eingesetzt oder tätig wurden, und nach dem Recht ihres Herkunftslandes bei Eintritt des Versorgungsfalls einen Anspruch auf lebenslängliche Versorgung gehabt hätten, gelten für sämtliche Zeiten als nachversichert, in denen sie vor Ablauf des 8. Mai 1945 bei Geltung der Reichsversicherungsgesetze im Herkunftsland wegen ihrer Beschäftigung im öffentlichen Dienst versicherungsfrei gewesen wären oder der Versicherungspflicht nicht unterlegen hätten, es sei denn, daß sie nach den Vorschriften ihres Herkunftslands versicherungspflichtig waren oder die Nachversicherung für diese Zeit bereits auf Grund anderer Vorschriften erfolgt ist oder diese Zeit bei der Bemessung einer lebenslänglichen Alters- und Hinterbliebenenversorgung berücksichtigt wird. Satz 1 gilt auch für den Fall des Todes, wenn rentenberechtigte Hinterbliebene vorhanden sind.
 
@@ -277,8 +258,7 @@ Angestellte, die vor dem 9. Mai 1945 im Dienst des Deutschen Reichs einschließl
 
 (6) Die Absätze 1 bis 5 gelten vom 1. Januar 1992 an nur noch für Personen, die einen Anspruch auf eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der Nachversicherung erwerben würden.
 
-
-## § 23
+# § 23
 
 (1) Die in § 1 Buchstabe d des Fremdrentengesetzes genannten Personen, die während des Krieges als ausländische Arbeitskräfte im Gebiet des Deutschen Reichs beschäftigt waren, gelten für die Zeiten als nachversichert,
 
@@ -303,23 +283,19 @@ in den Fällen des Absatzes 1 Buchstabe b in dem Zweig der gesetzlichen Rentenve
 
 (8) Die Absätze 1 bis 7 gelten vom 1. Januar 1992 an nur noch für Personen, die einen Anspruch auf eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch zu berechnende Rente haben oder aufgrund der Nachversicherung erwerben würden.
 
-
-## § 24
+# § 24
 
 \-
 
-
-## § 1
+# § 1
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 2
+# § 2
 
 Dieses Gesetz gilt nicht im Saarland.
 
-
-## § 3
+# § 3
 
 (1) Dieses Gesetz tritt mit Wirkung vom 1. Januar 1959 in Kraft.Mit dem gleichen Zeitpunkt treten unbeschadet der Absätze 2 und 3 alle ihm entgegenstehenden und inhaltsgleichen Vorschriften außer Kraft, insbesondere folgende Verordnungen und Bekanntmachungen mit den zu ihrer Änderung, Ergänzung und Durchführung erlassenen Verordnungen, Erlassen und Bekanntmachungen:
 

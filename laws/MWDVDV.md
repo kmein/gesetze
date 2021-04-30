@@ -1,29 +1,23 @@
-# [MWDVDV] Verordnung über den Vorbereitungsdienst für den mittleren Wetterdienst des Bundes  (MWDVDV)
-
-Ausfertigungsdatum: 27.08.2013
-
+% Verordnung über den Vorbereitungsdienst für den mittleren Wetterdienst des Bundes  (MWDVDV)
+% Ausfertigungsdatum: 27.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der Bundeslaufbahnverordnung, der durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
  
 
+ 
 
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren Wetterdienst des Bundes. Der Vorbereitungsdienst dauert in der Regel 20 Monate.
 
-
-## § 2 – Ausbildungsziele
+# § 2 – Ausbildungsziele
 
 Die Ausbildung vermittelt das Wissen sowie die berufspraktischen Kenntnisse und Fähigkeiten, die für die Erfüllung der Aufgaben im mittleren Wetterdienst des Bundes erforderlich sind. Die Anwärterinnen und Anwärter werden ausgebildet
 
@@ -33,8 +27,7 @@ Die Ausbildung vermittelt das Wissen sowie die berufspraktischen Kenntnisse und 
 
 Sie sollen zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt werden.
 
-
-## § 3 – Dienstbehörden, Dienstaufsicht
+# § 3 – Dienstbehörden, Dienstaufsicht
 
 (1) Für Anwärterinnen und Anwärter, die nach Beendigung der Ausbildung ihren Dienst beim Deutschen Wetterdienst aufnehmen sollen, ist der Deutsche Wetterdienst die Einstellungsbehörde. Er ist für die Ausschreibung der Ausbildungsstellen, für die Durchführung des Auswahlverfahrens sowie für die Betreuung der von ihm eingestellten Anwärterinnen und Anwärter verantwortlich und für diese die zuständige Dienstbehörde. Er entscheidet über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes.
 
@@ -42,8 +35,7 @@ Sie sollen zu verantwortlichem Handeln in einem freiheitlichen, demokratischen u
 
 (3) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht der Leitung ihrer Einstellungsbehörde. Während der Ausbildung in Dienststellen der Bundeswehr oder des Deutschen Wetterdienstes unterstehen sie auch der Dienstaufsicht der Leitungen dieser Behörden.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 (1) In den Vorbereitungsdienst kann eingestellt werden, wer neben den allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
 
@@ -57,8 +49,7 @@ Sie sollen zu verantwortlichem Handeln in einem freiheitlichen, demokratischen u
 
 2. für eine Soldatenlaufbahn erfolgreich ein Eignungsfeststellungsverfahren absolviert haben.
 
-
-## § 5 – Auswahlverfahren
+# § 5 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus mindestens zwei Teilen, von denen mindestens einer eine schriftliche Prüfung sein muss.
 
@@ -82,25 +73,21 @@ Als Mitglieder der Auswahlkommission können auch vergleichbare Soldatinnen und 
 
 (6) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass in allen Auswahlverfahren die gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
-
-## § 6 – Nachteilsausgleich
+# § 6 – Nachteilsausgleich
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen werden im Auswahlverfahren und bei Leistungsnachweisen sowie in der schriftlichen, praktischen und mündlichen Abschlussprüfung angemessene Erleichterungen gewährt. Hierauf sind sie durch die Einstellungsbehörde rechtzeitig hinzuweisen. Art und Umfang der Erleichterungen sind mit ihnen und der Schwerbehindertenvertretung rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
 (2) Über die Gewährung von Erleichterungen im Auswahlverfahren entscheidet die Einstellungsbehörde, im Übrigen das Prüfungsamt.
 
-
-## § 7 – Erholungsurlaub
+# § 7 – Erholungsurlaub
 
 Erholungsurlaub wird in Absprache mit der oder dem jeweiligen Ausbildungsbeauftragten gewährt.
 
-
-## § 8 – Ausbildungsakten
+# § 8 – Ausbildungsakten
 
 Der Deutsche Wetterdienst führt über jede Anwärterin und jeden Anwärter eine Ausbildungsakte. Darin aufzunehmen sind der Ausbildungsplan sowie die Bewertungen der Leistungen in den Leistungsnachweisen und der berufspraktischen Ausbildung.
 
-
-## § 9 – Bewertung der Leistungen
+# § 9 – Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt bewertet:  
   
@@ -206,8 +193,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Sofern nichts anderes bestimmt ist, werden die Durchschnittsrangpunktzahlen auf zwei Nachkommastellen ohne Auf- oder Abrundung berechnet.
 
-
-## § 10 – Ausbildungsleitung, Ausbildungsstelle, Ausbildungsbeauftragte, Ausbildende
+# § 10 – Ausbildungsleitung, Ausbildungsstelle, Ausbildungsbeauftragte, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner Persönlichkeit geeignet ist.
 
@@ -219,8 +205,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Den Ausbildungsbeauftragten und Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet.
 
-
-## § 11 – Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
+# § 11 – Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
 
 (1) Der Deutsche Wetterdienst erstellt in Zusammenarbeit mit dem Zentrum für Geoinformationswesen der Bundeswehr einen Ausbildungsrahmenplan, der die Ausbildungsinhalte und -ziele sowie die Dauer der Ausbildungsabschnitte bestimmt.
 
@@ -230,8 +215,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 2. für jede Anwärterin und jeden Anwärter einen Ausbildungsplan, in dem die Ausbildungsstellen und Arbeitsbereiche sowie die Zeiträume der Ausbildungsabschnitte enthalten sind, und gibt ihn der Anwärterin oder dem Anwärter bekannt.
 
-
-## § 12 – Fachtheoretische Ausbildung
+# § 12 – Fachtheoretische Ausbildung
 
 (1) Die fachtheoretische Ausbildung dauert in der Regel acht Monate und wird in Form von Ausbildungslehrgängen durchgeführt. Sie soll den Anwärterinnen und Anwärtern die theoretischen Grundlagen vermitteln, die für die Erfüllung der Aufgaben im mittleren Wetterdienst des Bundes erforderlich sind.
 
@@ -249,8 +233,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 Einzelheiten regeln der Ausbildungsrahmenplan und die Lehrpläne.
 
-
-## § 13 – Berufspraktische Ausbildung
+# § 13 – Berufspraktische Ausbildung
 
 (1) Während der berufspraktischen Ausbildung sollen die Anwärterinnen und Anwärter die wesentlichen Aufgaben des mittleren Wetterdienstes des Bundes unter Anleitung oder selbständig wahrnehmen.
 
@@ -258,8 +241,7 @@ Einzelheiten regeln der Ausbildungsrahmenplan und die Lehrpläne.
 
 (3) Am Ende jedes Ausbildungsabschnitts von mindestens einem Monat Dauer erstellt die oder der Ausbildungsbeauftragte unter Beteiligung der Ausbildenden für jede Anwärterin und jeden Anwärter eine dienstliche Bewertung. In dieser wird der Ausbildungserfolg mit Rangpunkten und der entsprechenden Note angegeben; des Weiteren enthält sie die wesentlichen Leistungs-, Eignungs- und Befähigungsmerkmale sowie Angaben zur Dauer und zu Unterbrechungen der Ausbildung. Die dienstliche Bewertung ist der Anwärterin oder dem Anwärter bekannt zu geben und mit ihr oder ihm zu besprechen.
 
-
-## § 14 – Leistungsnachweise
+# § 14 – Leistungsnachweise
 
 (1) Während der fachtheoretischen Ausbildung sind mindestens zwölf Leistungsnachweise und während der berufspraktischen Ausbildung mindestens zwei Leistungsnachweise durchzuführen. Die Abnahme eines Leistungsnachweises ist mindestens eine Woche im Voraus anzukündigen. Leistungsnachweise können sein:
 
@@ -279,25 +261,21 @@ Das Nähere regelt der Ausbildungsrahmenplan.
 
 (3) Bei Fernbleiben oder Rücktritt von einem Leistungsnachweis sowie bei Täuschung oder sonstigem Ordnungsverstoß sind die §§ 22 und 23 entsprechend anzuwenden mit der Maßgabe, dass über die Folgen das Prüfungsamt entscheidet.
 
-
-## § 15 – Zeugnis, Ausbildungsrangpunktzahl
+# § 15 – Zeugnis, Ausbildungsrangpunktzahl
 
 Über den Erfolg der Ausbildung erstellt der Deutsche Wetterdienst ein zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der Leistungsnachweise und der dienstlichen Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl (Ausbildungsrangpunktzahl) aufzuführen sind. Die Anwärterin oder der Anwärter erhält eine Ausfertigung des Zeugnisses.
 
-
-## § 16 – Zweck, Bestandteile
+# § 16 – Zweck, Bestandteile
 
 (1) In der Laufbahnprüfung haben die Anwärterinnen und Anwärter nachzuweisen, dass sie die erforderlichen Fachkenntnisse erworben haben und fähig sind, die Aufgaben des mittleren Wetterdienstes des Bundes selbständig zu erfüllen.
 
 (2) Die Laufbahnprüfung besteht aus einer schriftlichen, einer praktischen und einer mündlichen Abschlussprüfung.
 
-
-## § 17 – Prüfungsamt
+# § 17 – Prüfungsamt
 
 Der Deutsche Wetterdienst richtet ein Prüfungsamt ein, das die Laufbahnprüfung organisiert. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Aufgaben des Prüfungsamtes ganz oder teilweise auf andere Behörden übertragen.
 
-
-## § 18 – Prüfungskommission, Prüfende
+# § 18 – Prüfungskommission, Prüfende
 
 (1) Für die Durchführung der Laufbahnprüfung richtet das Prüfungsamt eine oder mehrere Prüfungskommissionen ein. Im letzteren Fall stellt das Prüfungsamt sicher, dass alle Prüfungskommissionen die gleichen Bewertungsmaßstäbe anlegen.
 
@@ -329,8 +307,7 @@ Als Mitglieder einer Prüfungskommission können auch vergleichbare Soldatinnen 
 
 (6) Zur Bewertung der schriftlichen und der praktischen Abschlussprüfung bestimmt das Prüfungsamt aus dem Kreis der Mitglieder der Prüfungskommission für jede Klausur und für jede praktische Arbeit zwei Prüfende und legt fest, wer Erstprüfende oder Erstprüfender und wer Zweitprüfende oder Zweitprüfender ist.
 
-
-## § 19 – Schriftliche Abschlussprüfung
+# § 19 – Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer eine Ausbildungsrangpunktzahl von mindestens 5 erreicht hat.
 
@@ -356,8 +333,7 @@ Als Mitglieder einer Prüfungskommission können auch vergleichbare Soldatinnen 
 
 (8) Aus den Bewertungen der vier Klausuren wird eine Durchschnittsrangpunktzahl errechnet.
 
-
-## § 20 – Praktische Abschlussprüfung
+# § 20 – Praktische Abschlussprüfung
 
 (1) Die praktische Abschlussprüfung besteht aus drei Teilen mit praktischen Aufgaben aus den folgenden Gebieten:
 
@@ -373,8 +349,7 @@ Als Mitglieder einer Prüfungskommission können auch vergleichbare Soldatinnen 
 
 (4) Aus den Bewertungen der drei Teile der praktischen Abschlussprüfung wird eine Durchschnittsrangpunktzahl errechnet.
 
-
-## § 21 – Mündliche Abschlussprüfung
+# § 21 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen, wer in mindestens vier der in der schriftlichen und praktischen Abschlussprüfung erbrachten Leistungen jeweils mindestens fünf Rangpunkte erreicht hat. Das Prüfungsamt teilt den zugelassenen Anwärterinnen und Anwärtern auf schriftlichen Antrag mit, wie die einzelnen Prüfungsteile bewertet worden sind.
 
@@ -398,8 +373,7 @@ Als Mitglieder einer Prüfungskommission können auch vergleichbare Soldatinnen 
 
 (7) Über die mündliche Abschlussprüfung einer Anwärterin oder eines Anwärters ist ein Protokoll anzufertigen, aus dem Gegenstand, Verlauf und Ergebnis der Prüfung hervorgehen. Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission zu bestätigen.
 
-
-## § 22 – Fernbleiben, Rücktritt
+# § 22 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen, der praktischen oder der mündlichen Abschlussprüfung oder einem einzelnen Prüfungsteil ohne Genehmigung des Prüfungsamtes gilt diese Prüfung oder dieser Prüfungsteil als mit null Rangpunkten bewertet.
 
@@ -407,8 +381,7 @@ Als Mitglieder einer Prüfungskommission können auch vergleichbare Soldatinnen 
 
 (3) Das Prüfungsamt bestimmt, wann die schriftliche, die praktische oder die mündliche Abschlussprüfung oder der Prüfungsteil nachgeholt wird; es entscheidet, inwieweit die bereits erbrachten Prüfungsleistungen gewertet werden.
 
-
-## § 23 – Täuschung, Ordnungsverstoß
+# § 23 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen und Anwärtern, die bei der Abschlussprüfung täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder der Prüfungskommission nach Absatz 2 gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der gesamten Laufbahnprüfung ausgeschlossen werden.
 
@@ -418,8 +391,7 @@ Als Mitglieder einer Prüfungskommission können auch vergleichbare Soldatinnen 
 
 (4) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 und 3 anzuhören.
 
-
-## § 24 – Wiederholung von Ausbildungsabschnitten und Abschlussprüfungen
+# § 24 – Wiederholung von Ausbildungsabschnitten und Abschlussprüfungen
 
 (1) Wer eine Ausbildungsrangpunktzahl von weniger als 5 erreicht hat, kann Ausbildungsabschnitte einschließlich der Leistungsnachweise einmal wiederholen. Das Prüfungsamt bestimmt, wie lang die Wiederholungsphase sein soll, welche Ausbildungsabschnitte zu wiederholen und welche Leistungsnachweise zu erbringen sind. Die Wiederholungsphase soll mindestens drei und höchstens zwölf Monate dauern. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsphase verlängert. Die Ausbildungsleiterin oder der Ausbildungsleiter stellt für die Ausbildung während der Wiederholungsphase einen ergänzenden Ausbildungsplan auf, der die zu absolvierenden Ausbildungsabschnitte und die zu erbringenden Leistungsnachweise enthält. § 15 gilt entsprechend.
 
@@ -437,8 +409,7 @@ können die jeweilige Prüfung einmal wiederholen. In begründeten Ausnahmefäll
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 25 – Bestehen der Laufbahnprüfung
+# § 25 – Bestehen der Laufbahnprüfung
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest. Die Rangpunktzahl der Laufbahnprüfung wird aus der Ausbildungsrangpunktzahl sowie den in der schriftlichen, der praktischen und der mündlichen Abschlussprüfung erzielten Durchschnittsrangpunktzahlen errechnet; dabei sind die Ausbildungsrangpunktzahlen und die Durchschnittsrangpunktzahlen wie folgt zu gewichten:
 
@@ -454,8 +425,7 @@ können die jeweilige Prüfung einmal wiederholen. In begründeten Ausnahmefäll
 
 (3) Im Anschluss an die mündliche Prüfung teilt die oder der Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die Bewertungen auf Verlangen kurz mündlich.
 
-
-## § 26 – Abschlusszeugnis
+# § 26 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis. Das Abschlusszeugnis enthält:
 
@@ -465,8 +435,7 @@ können die jeweilige Prüfung einmal wiederholen. In begründeten Ausnahmefäll
 
 (2) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung und eine Bescheinigung über die erbrachten Ausbildungsleistungen. Aus der Bescheinigung geht hervor, wie lange die Ausbildung dauerte, welche Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
 
-
-## § 27 – Prüfungsakten, Einsichtnahme
+# § 27 – Prüfungsakten, Einsichtnahme
 
 (1) Zu jeder Anwärterin und jedem Anwärter führt das Prüfungsamt eine Prüfungsakte. Darin aufzunehmen sind:
 
@@ -484,12 +453,10 @@ Die Prüfungsakten werden nach Beendigung des Vorbereitungsdienstes zu den Ausbi
 
 (2) Nach Bekanntgabe des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung ist den Betroffenen auf Antrag Einsicht in ihre Prüfungsakten zu gewähren. Die Einsichtnahme ist in der jeweiligen Akte zu vermerken.
 
-
-## § 28 – Übergangsvorschrift
+# § 28 – Übergangsvorschrift
 
 Für Anwärterinnen und Anwärter, die vor dem Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Wetterdienst des Bundes im Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der Bundeswehr vom 1. Oktober 2001 (BGBl. I S. 2595), die zuletzt durch Artikel 3 Absatz 16 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 
-
-## § 29 – Inkrafttreten, Außerkrafttreten
+# § 29 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Wetterdienst des Bundes im Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der Bundeswehr vom 1. Oktober 2001 (BGBl. I S. 2595), die zuletzt durch Artikel 3 Absatz 16 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.

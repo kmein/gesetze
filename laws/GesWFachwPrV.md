@@ -1,15 +1,11 @@
-# [GesWFachwPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen
-
-Ausfertigungsdatum: 21.07.2011
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen
+% Ausfertigungsdatum: 21.07.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum „Geprüften Fachwirt im Gesundheits- und Sozialwesen“ und zur „Geprüften Fachwirtin im Gesundheits- und Sozialwesen“ nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -35,8 +31,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt im Gesundheits- und Sozialwesen“ oder „Geprüfte Fachwirtin im Gesundheits- und Sozialwesen“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -56,8 +51,7 @@ nachweist.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -89,8 +83,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Inhalt der Prüfung
+# § 4 – Inhalt der Prüfung
 
 (1) Im Handlungsbereich „Planen, Steuern und Organisieren betrieblicher Prozesse“ soll die Fähigkeit nachgewiesen werden, komplexe betriebliche Prozesse unter Berücksichtigung volkswirtschaftlicher Zusammenhänge und betrieblicher Problemstellungen sowie wirtschaftlicher und rechtlicher Rahmenbedingungen des Gesundheits- und Sozialwesens zu analysieren, zu planen, zu steuern, zu organisieren und zu überwachen. Betriebliche Ziele und Strategien sollen unter Beachtung von ökonomischen, ökologischen, ethischen und sozialen Aspekten der Nachhaltigkeit entwickelt, umgesetzt und evaluiert werden. Dabei sind Organisationskonzepte und Managementtechniken zur effektiven Prozesssteuerung im Unternehmen einzusetzen und Strategien zur Steigerung der Markt- und Innovationsfähigkeit zu entwickeln und umzusetzen. Unternehmerische Entscheidungen sollen vorbereitet und realisiert werden. Dabei soll die Fähigkeit nachgewiesen werden, sich auf verändernde Methoden und Systeme der Arbeitsorganisation sowie der Organisationsentwicklung einzustellen sowie den Wandel im Unternehmen mitzugestalten und zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -172,15 +165,13 @@ nachweist.
 
 6. Durchführen von Maßnahmen im Gesundheits-Marketing.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -200,8 +191,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen und mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -213,8 +203,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -228,8 +217,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -237,8 +225,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 (1) Die zu prüfende Person kann nach erfolgreichem Abschluss der Prüfung zum „Geprüften Fachwirt im Gesundheits- und Sozialwesen“ oder zur „Geprüften Fachwirtin im Gesundheits- und Sozialwesen“ beantragen, eine zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese besteht aus einer Präsentation oder der praktischen Durchführung einer Ausbildungssituation und einem Fachgespräch. Die zu prüfende Person wählt dazu eine Ausbildungssituation aus. Die Auswahl und Gestaltung der Ausbildungssituation ist in dem Gespräch zu begründen. Die Dauer der praktischen Prüfung soll höchstens 30 Minuten betragen. Die zusätzliche Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht wurden.
 
@@ -246,8 +233,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Fachwirt/zur Fachwirtin im Sozial- und Gesundheitswesen (IHK), zum Fachwirt/zur Fachwirtin für die Alten- und Krankenpflege (IHK), zum Fachwirt/zur Fachwirtin für die betriebswirtschaftliche Leitung von Pflegeeinrichtungen (IHK), zum Fachwirt/zur Fachwirtin für soziale Dienstleistungen (IHK), zum Sozialwirt/zur Sozialwirtin (IHK), zum Betriebssozialwirt/zur Betriebssozialwirtin (IHK) sowie zum Betriebswirt/zur Betriebswirtin für Management im Gesundheitswesen (ÄZK/ZÄK) können bis zum 31. Juli 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2013 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -255,15 +241,13 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2350 – 2351)
 
@@ -272,8 +256,7 @@ Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2351 – 2352)
 

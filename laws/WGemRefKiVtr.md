@@ -1,10 +1,7 @@
-# [WGemRefKiVtr] Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und der Weltgemeinschaft Reformierter Kirchen – Körperschaft des öffentlichen Rechts – vertreten durch den Präsidenten, den Generalsekretär und den Generalschatzmeister
-
-Ausfertigungsdatum: 14.04.2014
-
+% Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und der Weltgemeinschaft Reformierter Kirchen – Körperschaft des öffentlichen Rechts – vertreten durch den Präsidenten, den Generalsekretär und den Generalschatzmeister
+% Ausfertigungsdatum: 14.04.2014
  
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2014, 2079 - 2081)
 
@@ -97,8 +94,7 @@ Bundesminister des Innern
 Federal Minister of the Interior
 
 Hannover, den 11. April 2014  
-Für die Weltgemeinschaft Reformierter Kirchen K. d. ö. R.  
-On behalf of the World Communion  
+Für die Weltgemeinschaft Reformierter Kirchen K. d. ö. R. On behalf of the World Communion  
 of Reformed Churches, a corporation under public law  
 Jerry Pillay  
 Präsident  

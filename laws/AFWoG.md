@@ -1,10 +1,7 @@
-# [AFWoG] Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen  (AFWoG)
-
-Ausfertigungsdatum: 22.12.1981
-
+% Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen  (AFWoG)
+% Ausfertigungsdatum: 22.12.1981
  
-
-## § 1 – Ausgleichszahlung der Inhaber von Mietwohnungen
+# § 1 – Ausgleichszahlung der Inhaber von Mietwohnungen
 
 (1) Inhaber einer öffentlich geförderten Wohnung im Sinne des Wohnungsbindungsgesetzes haben vorbehaltlich des § 2 eine Ausgleichszahlung zu leisten, wenn
 
@@ -26,8 +23,7 @@ Mehrere Inhaber derselben Wohnung sind Gesamtschuldner.
 
 (4) Nach Absatz 1 Satz 1 Nr. 1 können nur solche Gemeinden bestimmt werden, in denen die Kostenmieten (§§ 8 bis 8b des Wohnungsbindungsgesetzes) öffentlich geförderter Mietwohnungen die ortsüblichen Mieten vergleichbarer, nicht preisgebundener Mietwohnungen erheblich unterschreiten. Liegt bei einer Gemeinde diese Voraussetzung vor, kann von der Bestimmung abgesehen werden, wenn der Verwaltungsaufwand für die Erhebung der Ausgleichszahlung in einem unangemessenen Verhältnis zu den erwarteten Einnahmen stehen würde.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 (1) Eine Ausgleichszahlung ist nicht zu leisten, wenn
 
@@ -59,8 +55,7 @@ oder nach dem ab dem 1. Januar 2002 geltenden § 7 Abs. 1 des Wohnungsbindungsge
 
 (3) Dieses Gesetz gilt nicht für öffentlich geförderte Wohnheime.
 
-
-## § 3 – Einkommen, Einkommensgrenze
+# § 3 – Einkommen, Einkommensgrenze
 
 (1) Das Einkommen und die Einkommensgrenze bestimmen sich nach den §§ 9 und 35 Abs. 1 Satz 1 des Wohnraumförderungsgesetzes; soweit auf Grund des § 9 Abs. 3 des Wohnraumförderungsgesetzes eine Abweichung festgelegt ist, bestimmt sich die Einkommensgrenze nach dieser Abweichung. Alle Personen, die die Wohnung nicht nur vorübergehend nutzen, sind zu berücksichtigen, soweit sich nicht aus § 1 Abs. 2 etwas anderes ergibt.
 
@@ -74,8 +69,7 @@ oder nach dem ab dem 1. Januar 2002 geltenden § 7 Abs. 1 des Wohnungsbindungsge
 
 maßgebend.
 
-
-## § 4 – Beginn der Ausgleichszahlungen, Leistungszeitraum
+# § 4 – Beginn der Ausgleichszahlungen, Leistungszeitraum
 
 (1) Die Leistungspflicht beginnt
 
@@ -93,8 +87,7 @@ maßgebend.
 
 (5) Die Ausgleichszahlung ist auf einen vollen Euro abzurunden. Beträge bis zu 10 Euro monatlich sind vierteljährlich, höhere Beträge monatlich im Voraus zu entrichten.
 
-
-## § 5 – Einkommensnachweis, Auskünfte
+# § 5 – Einkommensnachweis, Auskünfte
 
 (1) Jeder Wohnungsinhaber hat auf Aufforderung die Personen zu benennen, die die Wohnung nicht nur vorübergehend nutzen, und deren Einkommen oder das Vorliegen der Voraussetzungen des § 2 Abs. 1 nachzuweisen, soweit diese Angaben bei der Ermittlung des Einkommens und der Einkommensgrenze zu berücksichtigen sind (§ 3 Abs. 1 Satz 2). Ihm ist hierzu eine angemessene Frist einzuräumen. Gegenüber dem Wohnungsinhaber, der die Aufforderung nach Satz 1 erhalten hat, ist jeder andere Wohnungsinhaber verpflichtet, die erforderlichen Auskünfte zu geben und die entsprechenden Unterlagen auszuhändigen.
 
@@ -102,8 +95,7 @@ maßgebend.
 
 (3) Alle Behörden, insbesondere die Finanzbehörden, sowie die Arbeitgeber haben der zuständigen Stelle Auskunft über die Einkommensverhältnisse zu erteilen, soweit die Durchführung dieses Gesetzes es erfordert.
 
-
-## § 6 – Beschränkung der Ausgleichszahlungen
+# § 6 – Beschränkung der Ausgleichszahlungen
 
 (1) Die Ausgleichszahlung ist auf Antrag zu beschränken auf den Unterschiedsbetrag zwischen dem für die Wohnung zulässigen Entgelt und dem für sie nach Absatz 2 geltenden Höchstbetrag. Der Antrag kann außer in den Fällen des § 7 Abs. 2 Nr. 4 nur bis zum Ablauf von sechs Monaten nach Zustellung des Leistungsbescheids gestellt werden.
 
@@ -117,8 +109,7 @@ maßgebend.
 
 (6) Hat ein Mieter seine Wohnung mit Zustimmung des Eigentümers oder sonstigen Verfügungsberechtigten auf eigene Kosten modernisiert oder dem Eigentümer oder sonstigen Verfügungsberechtigten die Kosten für eine solche Maßnahme erstattet, und würde für die Wohnung ohne die Modernisierung ein niedrigerer Höchstbetrag gelten, so ist dieser zugrunde zu legen.
 
-
-## § 7 – Wegfall und Minderung der Leistungspflicht
+# § 7 – Wegfall und Minderung der Leistungspflicht
 
 (1) Die Leistungspflicht erlischt, sobald
 
@@ -138,13 +129,11 @@ maßgebend.
 
 Der Antrag kann nur bis spätestens sechs Monate vor Ablauf des Leistungszeitraums gestellt werden.
 
-
-## § 8 – Geltung für Bergarbeiterwohnungen
+# § 8 – Geltung für Bergarbeiterwohnungen
 
 Dieses Gesetz ist auf Inhaber von Wohnungen, die nach dem Gesetz zur Förderung des Bergarbeiterwohnungsbaus im Kohlenbergbau gefördert worden sind, entsprechend anzuwenden, wenn der Wohnungsinhaber nicht wohnungsberechtigt im Sinne des § 4 Abs. 1 Buchstabe a, b oder c des genannten Gesetzes ist.
 
-
-## § 9 – Geltung für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert worden sind
+# § 9 – Geltung für Wohnungen, die mit Wohnungsfürsorgemitteln gefördert worden sind
 
 (1) Dieses Gesetz ist auf Inhaber von steuerbegünstigten oder freifinanzierten Wohnungen, die mit Wohnungsfürsorgemitteln im Sinne der §§ 87a und 111 des Zweiten Wohnungsbaugesetzes gefördert worden sind, entsprechend anzuwenden, solange das Besetzungsrecht besteht. § 2 Abs. 1 Nr. 5 ist nicht anzuwenden.
 
@@ -154,8 +143,7 @@ Dieses Gesetz ist auf Inhaber von Wohnungen, die nach dem Gesetz zur Förderung 
 
 (4) In den Fällen der Absätze 2 und 3 sind abweichend von § 3 Abs. 2 Satz 1 die Verhältnisse sechs Monate vor Beginn der Leistungspflicht maßgebend.
 
-
-## § 10 – Zweckbestimmung der Ausgleichszahlungen
+# § 10 – Zweckbestimmung der Ausgleichszahlungen
 
 (1) Die zuständige Stelle hat die eingezogenen Ausgleichszahlungen an das Land abzuführen. Das Aufkommen aus den Ausgleichszahlungen ist laufend zur sozialen Wohnraumförderung nach dem Wohnraumförderungsgesetz sowie zur Finanzierung der auf der Grundlage des Zweiten Wohnungsbaugesetzes und des Wohnungsbaugesetzes für das Saarland bewilligten Förderungen zu verwenden. Wurde das Aufkommen aus den Ausgleichszahlungen vor dem 1. Januar 2002 für die Förderung von Sozialwohnungen verwendet, deren Förderung mit Ablauf des 31. Dezember 2001 nocht nicht beendet worden ist, kann das Aufkommen aus den Ausgleichszahlungen weiterhin für die Förderung solcher Wohnungen verwendet werden.
 
@@ -167,13 +155,11 @@ Dieses Gesetz ist auf Inhaber von Wohnungen, die nach dem Gesetz zur Förderung 
 
 (4) Auf Ausgleichszahlungen für Wohnungen, die außer mit öffentlichen Mitteln mit Wohnungsfürsorgemitteln im Sinne der §§ 87a und 111 des Zweiten Wohnungsbaugesetzes gefördert worden sind, findet Absatz 3 entsprechende Anwendung, wenn von den für die Wohnung gewährten Baudarlehen oder den mit Zins- und Tilgungshilfe geförderten Darlehen dem Betrage nach das Darlehen aus Wohnungsfürsorgemitteln überwiegt.
 
-
-## § 11 – Zuständige Stelle
+# § 11 – Zuständige Stelle
 
 Zuständige Stelle ist die Stelle, die von der Landesregierung bestimmt wird oder die nach Landesrecht zuständig ist. In den Fällen des § 9 obliegen die Aufgaben der zuständigen Stelle derjenigen Stelle, die das Besetzungsrecht ausübt, soweit nicht der Darlehens- oder Zuschussgeber eine andere Stelle bestimmt. Soweit das Besetzungsrecht von einer Stelle außerhalb der öffentlichen Verwaltung ausgeübt wird, nimmt sie bei der Durchführung dieses Gesetzes öffentliche Aufgaben wahr.
 
-
-## § 12 – Geltung im Saarland
+# § 12 – Geltung im Saarland
 
 (1) Dieses Gesetz gilt im Saarland nur mit folgenden Maßgaben:
 
@@ -185,13 +171,11 @@ Zuständige Stelle ist die Stelle, die von der Landesregierung bestimmt wird ode
 
 (2) Die Landesregierung regelt durch Rechtsverordnung die näheren Einzelheiten zur Durchführung dieses Gesetzes im Hinblick auf die rechtlichen Besonderheiten im Saarland.
 
-
-## § 13 – Sonderregelung für das Land Bremen
+# § 13 – Sonderregelung für das Land Bremen
 
 Im Land Bremen sind Ausgleichszahlungen nicht zu erheben, wenn bei der Bewilligung der öffentlichen Mittel sichergestellt worden ist, dass die gewährte Subvention entsprechend der Höhe der Einkommensüberschreitung des Wohnungsinhabers in einem Umfang abgebaut worden ist, der die nach diesem Gesetz zu leistenden Ausgleichszahlungen insgesamt nicht unterschreitet. § 4 Abs. 1 gilt mit der Maßgabe, dass der in Nummer 2 aufgeführte Bewilligungszeitraum am 31. Dezember 1958 endet und dass der in Nummer 3 aufgeführte Bewilligungszeitraum am 1. Januar 1959 beginnt.
 
-
-## § 14 – Landesrechtliche Vorschriften
+# § 14 – Landesrechtliche Vorschriften
 
 (1) Die Vorschriften dieses Gesetzes sind nicht mehr anzuwenden, soweit landesrechtliche Vorschriften an deren Stelle erlassen werden. Landesrechtliche Vorschriften, die auf Grund der bis zum 31. Dezember 2001 geltenden Fassung dieses Gesetzes erlassen worden sind, bleiben von den ab 1. Januar 2002 geltenden Änderungen dieses Gesetzes bis zum 31. Dezember 2004 unberührt.
 
@@ -199,8 +183,7 @@ Im Land Bremen sind Ausgleichszahlungen nicht zu erheben, wenn bei der Bewilligu
 
 (3) Für am 1. September 2001 noch nicht abgeschlossene Verwaltungsverfahren eines Leistungszeitraums, zu dessen Stichtag nach § 3 Abs. 2 ein Mietspiegel im Sinne des § 2 des Gesetzes zur Regelung der Miethöhe bestand, ist dieser Mietspiegel weiterhin anzuwenden.
 
-
-## § 15 – Überleitungsvorschriften zum Wohnraumförderungsgesetz
+# § 15 – Überleitungsvorschriften zum Wohnraumförderungsgesetz
 
 (1) Durch landesrechtliche Vorschriften kann bestimmt werden, dass Wohnungsinhaber des in § 50 Abs. 1 Satz 1 Nr. 1 bis 3 und Satz 2 des Wohnraumförderungsgesetzes und in § 2 Abs. 2 des Wohnraumförderung-Überleitungsgesetzes vom 5. September 2006 (BGBl. I S. 2098, 2100) bezeichneten Wohnraums an Stelle einer Ausgleichszahlung nach diesem Gesetz und den dazu ergangenen landesrechtlichen Vorschriften eine Ausgleichszahlung nach Maßgabe der §§ 34 bis 37 und des § 45 Abs. 2 des Wohnraumförderungsgesetzes und der hierzu ergehenden landesrechtlichen Vorschriften zu leisten haben.
 

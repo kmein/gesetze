@@ -1,10 +1,7 @@
-# [PatAnwArmSG 1966] Gesetz über die Beiordnung von Patentanwälten bei Prozeßkostenhilfe
-
-Ausfertigungsdatum: 07.09.1966
-
+% Gesetz über die Beiordnung von Patentanwälten bei Prozeßkostenhilfe
+% Ausfertigungsdatum: 07.09.1966
  
-
-## § 1
+# § 1
 
 (1) Wird in einem Rechtsstreit, in dem ein Anspruch aus einem der im Patentgesetz, im Gebrauchsmustergesetz, im Halbleiterschutzgesetz, im Markengesetz, im Gesetz über Arbeitnehmererfindungen, im Designgesetz oder im Sortenschutzgesetz geregelten Rechtsverhältnisse geltend gemacht wird, einer Partei Prozeßkostenhilfe bewilligt, so kann ihr auf Antrag zu ihrer Beratung und zur Unterstützung des Rechtsanwalts ein Patentanwalt beigeordnet werden, wenn und soweit es zur sachgemäßen Rechtsverfolgung oder Rechtsverteidigung erforderlich erscheint.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 07.09.1966
 
 (3) Die Vorschriften des § 117 Abs. 1, des § 119 Abs. 1 Satz 1, des § 121 Abs. 2 und 3, des § 122 Abs. 1 Nr. 1 Buchstabe b und Nr. 3 und der §§ 124, 126 und 127 der Zivilprozeßordnung gelten entsprechend.
 
-
-## § 2
+# § 2
 
 Auf die Erstattung der Gebühren und Auslagen des beigeordneten Patentanwalts sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes, die für die Vergütung bei Prozesskostenhilfe gelten, sinngemäß mit folgenden Maßgaben anzuwenden:
 

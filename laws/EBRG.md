@@ -1,10 +1,7 @@
-# [EBRG] Gesetz über Europäische Betriebsräte   (Europäische Betriebsräte-Gesetz - EBRG)
-
-Ausfertigungsdatum: 28.10.1996
-
+% Gesetz über Europäische Betriebsräte   (Europäische Betriebsräte-Gesetz - EBRG)
+% Ausfertigungsdatum: 28.10.1996
  
-
-## § 1 – Grenzübergreifende Unterrichtung und Anhörung
+# § 1 – Grenzübergreifende Unterrichtung und Anhörung
 
 (1) Zur Stärkung des Rechts auf grenzübergreifende Unterrichtung und Anhörung der Arbeitnehmer in gemeinschaftsweit tätigen Unternehmen und Unternehmensgruppen werden Europäische Betriebsräte oder Verfahren zur Unterrichtung und Anhörung der Arbeitnehmer vereinbart. Kommt es nicht zu einer Vereinbarung, wird ein Europäischer Betriebsrat kraft Gesetzes errichtet.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 28.10.1996
 
 (7) Unterrichtung und Anhörung des Europäischen Betriebsrats sind spätestens gleichzeitig mit der der nationalen Arbeitnehmervertretungen durchzuführen.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 (1) Dieses Gesetz gilt für gemeinschaftsweit tätige Unternehmen mit Sitz im Inland und für gemeinschaftsweit tätige Unternehmensgruppen mit Sitz des herrschenden Unternehmens im Inland.
 
@@ -31,20 +27,17 @@ Ausfertigungsdatum: 28.10.1996
 
 (4) Für die Berechnung der Anzahl der im Inland beschäftigten Arbeitnehmer (§ 4), den Auskunftsanspruch (§ 5 Absatz 2 und 3), die Bestimmung des herrschenden Unternehmens (§ 6), die Weiterleitung des Antrags (§ 9 Absatz 2 Satz 3), die gesamtschuldnerische Haftung des Arbeitgebers (§ 16 Absatz 2), die Bestellung der auf das Inland entfallenden Arbeitnehmervertreter (§§ 11, 23 Absatz 1 bis 5 und § 18 Absatz 2 in Verbindung mit § 23) und die für sie geltenden Schutzbestimmungen (§ 40) sowie für den Bericht gegenüber den örtlichen Arbeitnehmervertretungen im Inland (§ 36 Absatz 2) gilt dieses Gesetz auch dann, wenn die zentrale Leitung nicht im Inland liegt.
 
-
-## § 3 – Gemeinschaftsweite Tätigkeit
+# § 3 – Gemeinschaftsweite Tätigkeit
 
 (1) Ein Unternehmen ist gemeinschaftsweit tätig, wenn es mindestens 1 000 Arbeitnehmer in den Mitgliedstaaten und davon jeweils mindestens 150 Arbeitnehmer in mindestens zwei Mitgliedstaaten beschäftigt.
 
 (2) Eine Unternehmensgruppe ist gemeinschaftsweit tätig, wenn sie mindestens 1 000 Arbeitnehmer in den Mitgliedstaaten beschäftigt und ihr mindestens zwei Unternehmen mit Sitz in verschiedenen Mitgliedstaaten angehören, die jeweils mindestens je 150 Arbeitnehmer in verschiedenen Mitgliedstaaten beschäftigen.
 
-
-## § 4 – Berechnung der Arbeitnehmerzahlen
+# § 4 – Berechnung der Arbeitnehmerzahlen
 
 In Betrieben und Unternehmen des Inlands errechnen sich die im Rahmen des § 3 zu berücksichtigenden Arbeitnehmerzahlen nach der Anzahl der im Durchschnitt während der letzten zwei Jahre beschäftigten Arbeitnehmer im Sinne des § 5 Absatz 1 des Betriebsverfassungsgesetzes. Maßgebend für den Beginn der Frist nach Satz 1 ist der Zeitpunkt, in dem die zentrale Leitung die Initiative zur Bildung des besonderen Verhandlungsgremiums ergreift oder der zentralen Leitung ein den Voraussetzungen des § 9 Absatz 2 entsprechender Antrag der Arbeitnehmer oder ihrer Vertreter zugeht.
 
-
-## § 5 – Auskunftsanspruch
+# § 5 – Auskunftsanspruch
 
 (1) Die zentrale Leitung hat auf Verlangen einer Arbeitnehmervertretung die für die Aufnahme von Verhandlungen zur Bildung eines Europäischen Betriebsrats erforderlichen Informationen zu erheben und an die Arbeitnehmervertretung weiterzuleiten. Zu den erforderlichen Informationen gehören insbesondere die durchschnittliche Gesamtzahl der Arbeitnehmer und ihre Verteilung auf die Mitgliedstaaten, die Unternehmen und Betriebe sowie über die Struktur des Unternehmens oder der Unternehmensgruppe.
 
@@ -52,8 +45,7 @@ In Betrieben und Unternehmen des Inlands errechnen sich die im Rahmen des § 3 z
 
 (3) Jede Leitung eines Unternehmens einer gemeinschaftsweit tätigen Unternehmensgruppe sowie die zentrale Leitung sind verpflichtet, die Informationen nach Absatz 1 zu erheben und zur Verfügung zu stellen.
 
-
-## § 6 – Herrschendes Unternehmen
+# § 6 – Herrschendes Unternehmen
 
 (1) Ein Unternehmen, das zu einer gemeinschaftsweit tätigen Unternehmensgruppe gehört, ist herrschendes Unternehmen, wenn es unmittelbar oder mittelbar einen beherrschenden Einfluss auf ein anderes Unternehmen derselben Gruppe (abhängiges Unternehmen) ausüben kann.
 
@@ -71,13 +63,11 @@ Erfüllen mehrere Unternehmen eines der in Satz 1 Nummer 1 bis 3 genannten Krite
 
 (4) Investment- und Beteiligungsgesellschaften im Sinne des Artikels 3 Absatz 5 Buchstabe a oder c der Verordnung (EG) Nummer 139/2004 des Rates vom 20. Januar 2004 über die Kontrolle von Unternehmenszusammenschlüssen (ABl. L 24 vom 29.1.2004, S. 1) gelten nicht als herrschendes Unternehmen gegenüber einem anderen Unternehmen, an dem sie Anteile halten, an dessen Leitung sie jedoch nicht beteiligt sind.
 
-
-## § 7 – Europäischer Betriebsrat in Unternehmensgruppen
+# § 7 – Europäischer Betriebsrat in Unternehmensgruppen
 
 Gehören einer gemeinschaftsweit tätigen Unternehmensgruppe ein oder mehrere gemeinschaftsweit tätige Unternehmen an, wird ein Europäischer Betriebsrat nur bei dem herrschenden Unternehmen errichtet, sofern nichts anderes vereinbart wird.
 
-
-## § 8 – Aufgabe
+# § 8 – Aufgabe
 
 (1) Das besondere Verhandlungsgremium hat die Aufgabe, mit der zentralen Leitung eine Vereinbarung über eine grenzübergreifende Unterrichtung und Anhörung der Arbeitnehmer abzuschließen.
 
@@ -85,8 +75,7 @@ Gehören einer gemeinschaftsweit tätigen Unternehmensgruppe ein oder mehrere ge
 
 (3) Die zentrale Leitung und das besondere Verhandlungsgremium arbeiten vertrauensvoll zusammen. Zeitpunkt, Häufigkeit und Ort der Verhandlungen werden zwischen der zentralen Leitung und dem besonderen Verhandlungsgremium einvernehmlich festgelegt.
 
-
-## § 9 – Bildung
+# § 9 – Bildung
 
 (1) Die Bildung des besonderen Verhandlungsgremiums ist von den Arbeitnehmern oder ihren Vertretern schriftlich bei der zentralen Leitung zu beantragen oder erfolgt auf Initiative der zentralen Leitung.
 
@@ -94,15 +83,13 @@ Gehören einer gemeinschaftsweit tätigen Unternehmensgruppe ein oder mehrere ge
 
 (3) Die zentrale Leitung hat die Antragsteller, die örtlichen Betriebs- oder Unternehmensleitungen, die dort bestehenden Arbeitnehmervertretungen sowie die in inländischen Betrieben vertretenen Gewerkschaften über die Bildung eines besonderen Verhandlungsgremiums und seine Zusammensetzung zu unterrichten.
 
-
-## § 10 – Zusammensetzung
+# § 10 – Zusammensetzung
 
 (1) Für jeden Anteil der in einem Mitgliedstaat beschäftigten Arbeitnehmer, der 10 Prozent der Gesamtzahl der in allen Mitgliedstaaten beschäftigten Arbeitnehmer der gemeinschaftsweit tätigen Unternehmen oder Unternehmensgruppen oder einen Bruchteil davon beträgt, wird ein Mitglied aus diesem Mitgliedstaat in das besondere Verhandlungsgremium entsandt.
 
 (2) Es können Ersatzmitglieder bestellt werden.
 
-
-## § 11 – Bestellung inländischer Arbeitnehmervertreter
+# § 11 – Bestellung inländischer Arbeitnehmervertreter
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen Mitgliedstaates auf die im Inland beschäftigten Arbeitnehmer entfallenden Mitglieder des besonderen Verhandlungsgremiums werden in gemeinschaftsweit tätigen Unternehmen vom Gesamtbetriebsrat (§ 47 des Betriebsverfassungsgesetzes) bestellt. Besteht nur ein Betriebsrat, so bestellt dieser die Mitglieder des besonderen Verhandlungsgremiums.
 
@@ -122,13 +109,11 @@ d) Besteht nur ein Betriebsrat, so hat dieser die Mitglieder des besonderen Verh
 
 (5) Frauen und Männer sollen entsprechend ihrem zahlenmäßigen Verhältnis bestellt werden.
 
-
-## § 12 – Unterrichtung über die Mitglieder des besonderen Verhandlungsgremiums
+# § 12 – Unterrichtung über die Mitglieder des besonderen Verhandlungsgremiums
 
 Der zentralen Leitung sind unverzüglich die Namen der Mitglieder des besonderen Verhandlungsgremiums, ihre Anschriften sowie die jeweilige Betriebszugehörigkeit mitzuteilen. Die zentrale Leitung hat die örtlichen Betriebs- oder Unternehmensleitungen, die dort bestehenden Arbeitnehmervertretungen sowie die in inländischen Betrieben vertretenen Gewerkschaften über diese Angaben zu unterrichten.
 
-
-## § 13 – Sitzungen, Geschäftsordnung, Sachverständige
+# § 13 – Sitzungen, Geschäftsordnung, Sachverständige
 
 (1) Die zentrale Leitung lädt unverzüglich nach Benennung der Mitglieder zur konstituierenden Sitzung des besonderen Verhandlungsgremiums ein und unterrichtet die örtlichen Betriebs- oder Unternehmensleitungen. Die zentrale Leitung unterrichtet zugleich die zuständigen europäischen Gewerkschaften und Arbeitgeberverbände über den Beginn der Verhandlungen und die Zusammensetzung des besonderen Verhandlungsgremiums nach § 12 Satz 1. Das besondere Verhandlungsgremium wählt aus seiner Mitte einen Vorsitzenden und kann sich eine Geschäftsordnung geben.
 
@@ -138,32 +123,27 @@ Der zentralen Leitung sind unverzüglich die Namen der Mitglieder des besonderen
 
 (4) Das besondere Verhandlungsgremium kann sich durch Sachverständige seiner Wahl unterstützen lassen, soweit dies zur ordnungsgemäßen Erfüllung seiner Aufgaben erforderlich ist. Sachverständige können auch Beauftragte von Gewerkschaften sein. Die Sachverständigen und Gewerkschaftsvertreter können auf Wunsch des besonderen Verhandlungsgremiums beratend an den Verhandlungen teilnehmen.
 
-
-## § 14 – Einbeziehung von Arbeitnehmervertretern aus Drittstaaten
+# § 14 – Einbeziehung von Arbeitnehmervertretern aus Drittstaaten
 
 Kommen die zentrale Leitung und das besondere Verhandlungsgremium überein, die nach § 17 auszuhandelnde Vereinbarung auf nicht in einem Mitgliedstaat (Drittstaat) liegende Betriebe oder Unternehmen zu erstrecken, können sie vereinbaren, Arbeitnehmervertreter aus diesen Staaten in das besondere Verhandlungsgremium einzubeziehen und die Anzahl der auf den jeweiligen Drittstaat entfallenden Mitglieder sowie deren Rechtsstellung festlegen.
 
-
-## § 15 – Beschluss über Beendigung der Verhandlungen
+# § 15 – Beschluss über Beendigung der Verhandlungen
 
 (1) Das besondere Verhandlungsgremium kann mit mindestens zwei Dritteln der Stimmen seiner Mitglieder beschließen, keine Verhandlungen aufzunehmen oder diese zu beenden. Der Beschluss und das Abstimmungsergebnis sind in eine Niederschrift aufzunehmen, die vom Vorsitzenden und einem weiteren Mitglied zu unterzeichnen ist. Eine Abschrift der Niederschrift ist der zentralen Leitung zuzuleiten.
 
 (2) Ein neuer Antrag auf Bildung eines besonderen Verhandlungsgremiums (§ 9) kann frühestens zwei Jahre nach dem Beschluss gemäß Absatz 1 gestellt werden, sofern das besondere Verhandlungsgremium und die zentrale Leitung nicht schriftlich eine kürzere Frist festlegen.
 
-
-## § 16 – Kosten und Sachaufwand
+# § 16 – Kosten und Sachaufwand
 
 (1) Die durch die Bildung und Tätigkeit des besonderen Verhandlungsgremiums entstehenden Kosten trägt die zentrale Leitung. Werden Sachverständige nach § 13 Absatz 4 hinzugezogen, beschränkt sich die Kostentragungspflicht auf einen Sachverständigen. Die zentrale Leitung hat für die Sitzungen in erforderlichem Umfang Räume, sachliche Mittel, Dolmetscher und Büropersonal zur Verfügung zu stellen sowie die erforderlichen Reise- und Aufenthaltskosten der Mitglieder des besonderen Verhandlungsgremiums zu tragen.
 
 (2) Der Arbeitgeber eines aus dem Inland entsandten Mitglieds des besonderen Verhandlungsgremiums haftet neben der zentralen Leitung für dessen Anspruch auf Kostenerstattung als Gesamtschuldner.
 
-
-## § 17 – Gestaltungsfreiheit
+# § 17 – Gestaltungsfreiheit
 
 Die zentrale Leitung und das besondere Verhandlungsgremium können frei vereinbaren, wie die grenzübergreifende Unterrichtung und Anhörung der Arbeitnehmer ausgestaltet wird; sie sind nicht an die Bestimmungen des Vierten Teils dieses Gesetzes gebunden. Die Vereinbarung muss sich auf alle in den Mitgliedstaaten beschäftigten Arbeitnehmer erstrecken, in denen das Unternehmen oder die Unternehmensgruppe einen Betrieb hat. Die Parteien verständigen sich darauf, ob die grenzübergreifende Unterrichtung und Anhörung durch die Errichtung eines Europäischen Betriebsrats oder mehrerer Europäischer Betriebsräte nach § 18 oder durch ein Verfahren zur Unterrichtung und Anhörung der Arbeitnehmer nach § 19 erfolgen soll.
 
-
-## § 18 – Europäischer Betriebsrat kraft Vereinbarung
+# § 18 – Europäischer Betriebsrat kraft Vereinbarung
 
 (1) Soll ein Europäischer Betriebsrat errichtet werden, ist schriftlich zu vereinbaren, wie dieser ausgestaltet werden soll. Dabei soll insbesondere Folgendes geregelt werden:
 
@@ -183,32 +163,27 @@ Die zentrale Leitung und das besondere Verhandlungsgremium können frei vereinba
 
 (2) § 23 gilt entsprechend.
 
-
-## § 19 – Verfahren zur Unterrichtung und Anhörung
+# § 19 – Verfahren zur Unterrichtung und Anhörung
 
 Soll ein Verfahren zur Unterrichtung und Anhörung der Arbeitnehmer eingeführt werden, ist schriftlich zu vereinbaren, unter welchen Voraussetzungen die Arbeitnehmervertreter das Recht haben, die ihnen übermittelten Informationen gemeinsam zu beraten und wie sie ihre Vorschläge oder Bedenken mit der zentralen Leitung oder einer anderen geeigneten Leitungsebene erörtern können. Die Unterrichtung muss sich insbesondere auf grenzübergreifende Angelegenheiten erstrecken, die erhebliche Auswirkungen auf die Interessen der Arbeitnehmer haben.
 
-
-## § 20 – Übergangsbestimmung
+# § 20 – Übergangsbestimmung
 
 Eine nach § 18 oder § 19 bestehende Vereinbarung gilt fort, wenn vor ihrer Beendigung das Antrags- oder Initiativrecht nach § 9 Absatz 1 ausgeübt worden ist. Das Antragsrecht kann auch ein auf Grund einer Vereinbarung bestehendes Arbeitnehmervertretungsgremium ausüben. Die Fortgeltung endet, wenn die Vereinbarung durch eine neue Vereinbarung ersetzt oder ein Europäischer Betriebsrat kraft Gesetzes errichtet worden ist. Die Fortgeltung endet auch dann, wenn das besondere Verhandlungsgremium einen Beschluss nach § 15 Absatz 1 fasst; § 15 Absatz 2 gilt entsprechend. Die Sätze 1 bis 4 finden keine Anwendung, wenn in der bestehenden Vereinbarung eine Übergangsregelung enthalten ist.
 
-
-## § 21 – Voraussetzungen
+# § 21 – Voraussetzungen
 
 (1) Verweigert die zentrale Leitung die Aufnahme von Verhandlungen innerhalb von sechs Monaten nach Antragstellung (§ 9), ist ein Europäischer Betriebsrat gemäß den §§ 22 und 23 zu errichten. Das gleiche gilt, wenn innerhalb von drei Jahren nach Antragstellung keine Vereinbarung nach § 18 oder § 19 zustande kommt oder die zentrale Leitung und das besondere Verhandlungsgremium das vorzeitige Scheitern der Verhandlungen erklären. Die Sätze 1 und 2 gelten entsprechend, wenn die Bildung des besonderen Verhandlungsgremiums auf Initiative der zentralen Leitung erfolgt.
 
 (2) Ein Europäischer Betriebsrat ist nicht zu errichten, wenn das besondere Verhandlungsgremium vor Ablauf der in Absatz 1 genannten Fristen einen Beschluss nach § 15 Absatz 1 fasst.
 
-
-## § 22 – Zusammensetzung des Europäischen Betriebsrats
+# § 22 – Zusammensetzung des Europäischen Betriebsrats
 
 (1) Der Europäische Betriebsrat setzt sich aus Arbeitnehmern des gemeinschaftsweit tätigen Unternehmens oder der gemeinschaftsweit tätigen Unternehmensgruppe zusammen. Es können Ersatzmitglieder bestellt werden.
 
 (2) Für jeden Anteil der in einem Mitgliedstaat beschäftigten Arbeitnehmer, der 10 Prozent der Gesamtzahl der in allen Mitgliedstaaten beschäftigten Arbeitnehmer der gemeinschaftsweit tätigen Unternehmen oder Unternehmensgruppen oder einen Bruchteil davon beträgt, wird ein Mitglied aus diesem Mitgliedstaat in den Europäischen Betriebsrat entsandt.
 
-
-## § 23 – Bestellung inländischer Arbeitnehmervertreter
+# § 23 – Bestellung inländischer Arbeitnehmervertreter
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen Mitgliedstaates auf die im Inland beschäftigten Arbeitnehmer entfallenden Mitglieder des Europäischen Betriebsrats werden in gemeinschaftsweit tätigen Unternehmen vom Gesamtbetriebsrat (§ 47 des Betriebsverfassungsgesetzes) bestellt. Besteht nur ein Betriebsrat, so bestellt dieser die Mitglieder des Europäischen Betriebsrats.
 
@@ -230,37 +205,31 @@ d) Besteht nur ein Betriebsrat, so hat dieser die Mitglieder des Europäischen B
 
 (6) Das zuständige Sprecherausschussgremium eines gemeinschaftsweit tätigen Unternehmens oder einer gemeinschaftsweit tätigen Unternehmensgruppe mit Sitz der zentralen Leitung im Inland kann einen der in § 5 Absatz 3 des Betriebsverfassungsgesetzes genannten Angestellten bestimmen, der mit Rederecht an den Sitzungen zur Unterrichtung und Anhörung des Europäischen Betriebsrats teilnimmt, sofern nach § 22 Absatz 2 mindestens fünf inländische Vertreter entsandt werden. § 35 Absatz 2 und § 39 gelten entsprechend.
 
-
-## § 24 – Unterrichtung über die Mitglieder des Europäischen Betriebsrats
+# § 24 – Unterrichtung über die Mitglieder des Europäischen Betriebsrats
 
 Der zentralen Leitung sind unverzüglich die Namen der Mitglieder des Europäischen Betriebsrats, ihre Anschriften sowie die jeweilige Betriebszugehörigkeit mitzuteilen. Die zentrale Leitung hat die örtlichen Betriebs- oder Unternehmensleitungen, die dort bestehenden Arbeitnehmervertretungen sowie die in inländischen Betrieben vertretenen Gewerkschaften über diese Angaben zu unterrichten.
 
-
-## § 25 – Konstituierende Sitzung, Vorsitzender
+# § 25 – Konstituierende Sitzung, Vorsitzender
 
 (1) Die zentrale Leitung lädt unverzüglich nach Benennung der Mitglieder zur konstituierenden Sitzung des Europäischen Betriebsrats ein. Der Europäische Betriebsrat wählt aus seiner Mitte einen Vorsitzenden und dessen Stellvertreter.
 
 (2) Der Vorsitzende des Europäischen Betriebsrats oder im Falle seiner Verhinderung der Stellvertreter vertritt den Europäischen Betriebsrat im Rahmen der von ihm gefassten Beschlüsse. Zur Entgegennahme von Erklärungen, die dem Europäischen Betriebsrat gegenüber abzugeben sind, ist der Vorsitzende oder im Falle seiner Verhinderung der Stellvertreter berechtigt.
 
-
-## § 26 – Ausschuss
+# § 26 – Ausschuss
 
 Der Europäische Betriebsrat bildet aus seiner Mitte einen Ausschuss. Der Ausschuss besteht aus dem Vorsitzenden und mindestens zwei, höchstens vier weiteren zu wählenden Ausschussmitgliedern. Die weiteren Ausschussmitglieder sollen in verschiedenen Mitgliedstaaten beschäftigt sein. Der Ausschuss führt die laufenden Geschäfte des Europäischen Betriebsrats.
 
-
-## § 27 – Sitzungen
+# § 27 – Sitzungen
 
 (1) Der Europäische Betriebsrat hat das Recht, im Zusammenhang mit der Unterrichtung durch die zentrale Leitung nach § 29 eine Sitzung durchzuführen und zu dieser einzuladen. Das gleiche gilt bei einer Unterrichtung über außergewöhnliche Umstände nach § 30. Der Zeitpunkt und der Ort der Sitzungen sind mit der zentralen Leitung abzustimmen. Mit Einverständnis der zentralen Leitung kann der Europäische Betriebsrat weitere Sitzungen durchführen. Die Sitzungen des Europäischen Betriebsrats sind nicht öffentlich.
 
 (2) Absatz 1 gilt entsprechend für die Wahrnehmung der Mitwirkungsrechte des Europäischen Betriebsrats durch den Ausschuss nach § 26.
 
-
-## § 28 – Beschlüsse, Geschäftsordnung
+# § 28 – Beschlüsse, Geschäftsordnung
 
 Die Beschlüsse des Europäischen Betriebsrats werden, soweit in diesem Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Sonstige Bestimmungen über die Geschäftsführung sollen in einer schriftlichen Geschäftsordnung getroffen werden, die der Europäische Betriebsrat mit der Mehrheit der Stimmen seiner Mitglieder beschließt.
 
-
-## § 29 – Jährliche Unterrichtung und Anhörung
+# § 29 – Jährliche Unterrichtung und Anhörung
 
 (1) Die zentrale Leitung hat den Europäischen Betriebsrat einmal im Kalenderjahr über die Entwicklung der Geschäftslage und die Perspektiven des gemeinschaftsweit tätigen Unternehmens oder der gemeinschaftsweit tätigen Unternehmensgruppe unter rechtzeitiger Vorlage der erforderlichen Unterlagen zu unterrichten und ihn anzuhören.
 
@@ -286,8 +255,7 @@ Die Beschlüsse des Europäischen Betriebsrats werden, soweit in diesem Gesetz n
 
 10. Massenentlassungen.
 
-
-## § 30 – Unterrichtung und Anhörung
+# § 30 – Unterrichtung und Anhörung
 
 (1) Über außergewöhnliche Umstände oder Entscheidungen, die erhebliche Auswirkungen auf die Interessen der Arbeitnehmer haben, hat die zentrale Leitung den Europäischen Betriebsrat rechtzeitig unter Vorlage der erforderlichen Unterlagen zu unterrichten und auf Verlangen anzuhören. Als außergewöhnliche Umstände gelten insbesondere
 
@@ -299,30 +267,25 @@ Die Beschlüsse des Europäischen Betriebsrats werden, soweit in diesem Gesetz n
 
 (2) Besteht ein Ausschuss nach § 26, so ist dieser anstelle des Europäischen Betriebsrats nach Absatz 1 Satz 1 zu beteiligen. § 27 Absatz 1 Satz 2 bis 5 gilt entsprechend. Zu den Sitzungen des Ausschusses sind auch diejenigen Mitglieder des Europäischen Betriebsrats zu laden, die für die Betriebe oder Unternehmen bestellt worden sind, die unmittelbar von den geplanten Maßnahmen oder Entscheidungen betroffen sind; sie gelten insoweit als Ausschussmitglieder.
 
-
-## § 31 – Tendenzunternehmen
+# § 31 – Tendenzunternehmen
 
 Auf Unternehmen und herrschende Unternehmen von Unternehmensgruppen, die unmittelbar und überwiegend den in § 118 Absatz 1 Satz 1 Nummer 1 und 2 des Betriebsverfassungsgesetzes genannten Bestimmungen oder Zwecken dienen, finden nur § 29 Absatz 2 Nummer 5 bis 10 und § 30 Anwendung mit der Maßgabe, dass eine Unterrichtung und Anhörung nur über den Ausgleich oder die Milderung der wirtschaftlichen Nachteile erfolgen muss, die den Arbeitnehmern infolge der Unternehmens- oder Betriebsänderungen entstehen.
 
-
-## § 32 – Dauer der Mitgliedschaft, Neubestellung von Mitgliedern
+# § 32 – Dauer der Mitgliedschaft, Neubestellung von Mitgliedern
 
 (1) Die Dauer der Mitgliedschaft im Europäischen Betriebsrat beträgt vier Jahre, wenn sie nicht durch Abberufung oder aus anderen Gründen vorzeitig endet. Die Mitgliedschaft beginnt mit der Bestellung.
 
 (2) Alle zwei Jahre, vom Tage der konstituierenden Sitzung des Europäischen Betriebsrats (§ 25 Absatz 1) an gerechnet, hat die zentrale Leitung zu prüfen, ob sich die Arbeitnehmerzahlen in den einzelnen Mitgliedstaaten derart geändert haben, dass sich eine andere Zusammensetzung des Europäischen Betriebsrats nach § 22 Absatz 2 errechnet. Sie hat das Ergebnis dem Europäischen Betriebsrat mitzuteilen. Ist danach eine andere Zusammensetzung des Europäischen Betriebsrats erforderlich, veranlasst dieser bei den zuständigen Stellen, dass die Mitglieder des Europäischen Betriebsrats in den Mitgliedstaaten neu bestellt werden, in denen sich eine gegenüber dem vorhergehenden Zeitraum abweichende Anzahl der Arbeitnehmervertreter ergibt; mit der Neubestellung endet die Mitgliedschaft der bisher aus diesen Mitgliedstaaten stammenden Arbeitnehmervertreter im Europäischen Betriebsrat. Die Sätze 1 bis 3 gelten entsprechend bei Berücksichtigung eines bisher im Europäischen Betriebsrat nicht vertretenen Mitgliedstaates.
 
-
-## § 33 – Aufnahme von Verhandlungen
+# § 33 – Aufnahme von Verhandlungen
 
 Vier Jahre nach der konstituierenden Sitzung (§ 25 Absatz 1) hat der Europäische Betriebsrat mit der Mehrheit der Stimmen seiner Mitglieder einen Beschluss darüber zu fassen, ob mit der zentralen Leitung eine Vereinbarung nach § 17 ausgehandelt werden soll. Beschließt der Europäische Betriebsrat die Aufnahme von Verhandlungen, hat er die Rechte und Pflichten des besonderen Verhandlungsgremiums; die §§ 8, 13, 14 und 15 Absatz 1 sowie die §§ 16 bis 19 gelten entsprechend. Das Amt des Europäischen Betriebsrats endet, wenn eine Vereinbarung nach § 17 geschlossen worden ist.
 
-
-## § 34 – Vertrauensvolle Zusammenarbeit
+# § 34 – Vertrauensvolle Zusammenarbeit
 
 Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl der Arbeitnehmer und des Unternehmens oder der Unternehmensgruppe zusammen. Satz 1 gilt entsprechend für die Zusammenarbeit zwischen zentraler Leitung und Arbeitnehmervertretern im Rahmen eines Verfahrens zur Unterrichtung und Anhörung.
 
-
-## § 35 – Geheimhaltung, Vertraulichkeit
+# § 35 – Geheimhaltung, Vertraulichkeit
 
 (1) Die Pflicht der zentralen Leitung, über die im Rahmen der §§ 18 und 19 vereinbarten oder die sich aus den §§ 29 und 30 Absatz 1 ergebenden Angelegenheiten zu unterrichten, besteht nur, soweit dadurch nicht Betriebs- oder Geschäftsgeheimnisse des Unternehmens oder der Unternehmensgruppe gefährdet werden.
 
@@ -344,15 +307,13 @@ Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl 
 
 2. die Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und Anhörung gegenüber Dolmetschern und Sachverständigen, die vereinbarungsgemäß zur Unterstützung herangezogen werden, und gegenüber örtlichen Arbeitnehmervertretern, sofern diese nach der Vereinbarung (§ 19) über die Inhalte der Unterrichtungen und die Ergebnisse der Anhörungen zu unterrichten sind.
 
-
-## § 36 – Unterrichtung der örtlichen Arbeitnehmervertreter
+# § 36 – Unterrichtung der örtlichen Arbeitnehmervertreter
 
 (1) Der Europäische Betriebsrat oder der Ausschuss (§ 30 Absatz 2) berichtet den örtlichen Arbeitnehmervertretern oder, wenn es diese nicht gibt, den Arbeitnehmern der Betriebe oder Unternehmen über die Unterrichtung und Anhörung.
 
 (2) Das Mitglied des Europäischen Betriebsrats oder des Ausschusses, das den örtlichen Arbeitnehmervertretungen im Inland berichtet, hat den Bericht in Betrieben oder Unternehmen, in denen Sprecherausschüsse der leitenden Angestellten bestehen, auf einer gemeinsamen Sitzung im Sinne des § 2 Absatz 2 des Sprecherausschussgesetzes zu erstatten. Dies gilt nicht, wenn ein nach § 23 Absatz 6 bestimmter Angestellter an der Sitzung zur Unterrichtung und Anhörung des Europäischen Betriebsrats teilgenommen hat. Wird der Bericht nach Absatz 1 nur schriftlich erstattet, ist er auch dem zuständigen Sprecherausschuss zuzuleiten.
 
-
-## § 37 – Wesentliche Strukturänderung
+# § 37 – Wesentliche Strukturänderung
 
 (1) Ändert sich die Struktur des gemeinschaftsweit tätigen Unternehmens oder der gemeinschaftsweit tätigen Unternehmensgruppe wesentlich und bestehen hierzu keine Regelungen in geltenden Vereinbarungen oder widersprechen sich diese, nimmt die zentrale Leitung von sich aus oder auf Antrag der Arbeitnehmer oder ihrer Vertreter (§ 9 Absatz 1) die Verhandlung über eine Vereinbarung nach § 18 oder § 19 auf. Als wesentliche Strukturänderungen im Sinne des Satzes 1 gelten insbesondere
 
@@ -370,29 +331,25 @@ Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl 
 
 (4) Kommt es nicht zu einer Vereinbarung nach § 18 oder § 19, ist in den Fällen des § 21 Absatz 1 ein Europäischer Betriebsrat nach den §§ 22 und 23 zu errichten.
 
-
-## § 38 – Fortbildung
+# § 38 – Fortbildung
 
 (1) Der Europäische Betriebsrat kann Mitglieder zur Teilnahme an Schulungs- und Bildungsveranstaltungen bestimmen, soweit diese Kenntnisse vermitteln, die für die Arbeit des Europäischen Betriebsrats erforderlich sind. Der Europäische Betriebsrat hat die Teilnahme und zeitliche Lage rechtzeitig der zentralen Leitung mitzuteilen. Bei der Festlegung der zeitlichen Lage sind die betrieblichen Notwendigkeiten zu berücksichtigen. Der Europäische Betriebsrat kann die Aufgaben nach diesem Absatz auf den Ausschuss nach § 26 übertragen.
 
 (2) Für das besondere Verhandlungsgremium und dessen Mitglieder gilt Absatz 1 Satz 1 bis 3 entsprechend.
 
-
-## § 39 – Kosten, Sachaufwand und Sachverständige
+# § 39 – Kosten, Sachaufwand und Sachverständige
 
 (1) Die durch die Bildung und Tätigkeit des Europäischen Betriebsrats und des Ausschusses entstehenden Kosten trägt die zentrale Leitung. Die zentrale Leitung hat insbesondere für die Sitzungen und die laufende Geschäftsführung in erforderlichem Umfang Räume, sachliche Mittel und Büropersonal, für die Sitzungen außerdem Dolmetscher zur Verfügung zu stellen. Sie trägt die erforderlichen Reise- und Aufenthaltskosten der Mitglieder des Europäischen Betriebsrats und des Ausschusses. § 16 Absatz 2 gilt entsprechend.
 
 (2) Der Europäische Betriebsrat und der Ausschuss können sich durch Sachverständige ihrer Wahl unterstützen lassen, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Sachverständige können auch Beauftragte von Gewerkschaften sein. Werden Sachverständige hinzugezogen, beschränkt sich die Kostentragungspflicht auf einen Sachverständigen, es sei denn, eine Vereinbarung nach § 18 oder § 19 sieht etwas anderes vor.
 
-
-## § 40 – Schutz inländischer Arbeitnehmervertreter
+# § 40 – Schutz inländischer Arbeitnehmervertreter
 
 (1) Für die Mitglieder eines Europäischen Betriebsrats, die im Inland beschäftigt sind, gelten § 37 Absatz 1 bis 5 und die §§ 78 und 103 des Betriebsverfassungsgesetzes sowie § 15 Absatz 1 und 3 bis 5 des Kündigungsschutzgesetzes entsprechend. Für nach § 38 erforderliche Fortbildungen gilt § 37 Absatz 6 Satz 1 und 2 des Betriebsverfassungsgesetzes entsprechend.
 
 (2) Absatz 1 gilt entsprechend für die Mitglieder des besonderen Verhandlungsgremiums und die Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und Anhörung.
 
-
-## § 41 – Fortgeltung
+# § 41 – Fortgeltung
 
 (1) Auf die in den §§ 2 und 3 genannten Unternehmen und Unternehmensgruppen, in denen vor dem 22. September 1996 eine Vereinbarung über grenzübergreifende Unterrichtung und Anhörung besteht, sind die Bestimmungen dieses Gesetzes außer in den Fällen des § 37 nicht anwendbar, solange die Vereinbarung wirksam ist. Die Vereinbarung muss sich auf alle in den Mitgliedstaaten beschäftigten Arbeitnehmer erstrecken und den Arbeitnehmern aus denjenigen Mitgliedstaaten eine angemessene Beteiligung an der Unterrichtung und Anhörung ermöglichen, in denen das Unternehmen oder die Unternehmensgruppe einen Betrieb hat.
 
@@ -410,8 +367,7 @@ Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl 
 
 (8) Auf die in den §§ 2 und 3 genannten Unternehmen und Unternehmensgruppen, in denen zwischen dem 5. Juni 2009 und dem 5. Juni 2011 eine Vereinbarung über die grenzübergreifende Unterrichtung und Anhörung unterzeichnet oder überarbeitet wurde, sind außer in den Fällen des § 37 die Bestimmungen dieses Gesetzes in der Fassung vom 28. Oktober 1996 (BGBl. I S. 1548, 2022), zuletzt geändert durch Artikel 30 des Gesetzes vom 21. Dezember 2000 (BGBl. I S. 1983), anzuwenden. Ist eine Vereinbarung nach Satz 1 befristet geschlossen worden, können die Parteien ihre Fortgeltung beschließen, solange die Vereinbarung wirksam ist; Absatz 4 gilt entsprechend.
 
-
-## § 41a – Besondere Regelungen für Besatzungsmitglieder von Seeschiffen
+# § 41a – Besondere Regelungen für Besatzungsmitglieder von Seeschiffen
 
 (1) Ist ein Mitglied des besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne des § 19 oder dessen Stellvertreter Besatzungsmitglied eines Seeschiffs, so sollen die Sitzungen so angesetzt werden, dass die Teilnahme des Besatzungsmitglieds erleichtert wird.
 
@@ -421,13 +377,11 @@ Zentrale Leitung und Europäischer Betriebsrat arbeiten vertrauensvoll zum Wohl 
 
 2. sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können.
 
-
-## § 41b – Sonderregelung aus Anlass der COVID-19-Pandemie
+# § 41b – Sonderregelung aus Anlass der COVID-19-Pandemie
 
 Die Teilnahme an Sitzungen des besonderen Verhandlungsgremiums, eines Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne des § 19 sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.
 
-
-## § 42 – Errichtungs- und Tätigkeitsschutz
+# § 42 – Errichtungs- und Tätigkeitsschutz
 
 Niemand darf
 
@@ -437,15 +391,13 @@ Niemand darf
 
 3. ein Mitglied oder Ersatzmitglied des besonderen Verhandlungsgremiums oder eines Europäischen Betriebsrats oder einen Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und Anhörung um seiner Tätigkeit willen benachteiligen oder begünstigen.
 
-
-## § 43 – Strafvorschriften
+# § 43 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 35 Absatz 2 Satz 1 oder 2, jeweils auch in Verbindung mit Absatz 3, ein Betriebs- oder Geschäftsgeheimnis verwertet.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
 
-
-## § 44 – Strafvorschriften
+# § 44 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -457,8 +409,7 @@ Niemand darf
 
 (3) Die Tat wird nur auf Antrag verfolgt. In den Fällen des Absatzes 1 Nummer 2 sind das besondere Verhandlungsgremium, der Europäische Betriebsrat, die Mehrheit der Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und Anhörung, die zentrale Leitung oder eine im Betrieb vertretene Gewerkschaft antragsberechtigt.
 
-
-## § 45 – Bußgeldvorschriften
+# § 45 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 

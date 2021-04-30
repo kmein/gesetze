@@ -1,37 +1,29 @@
-# [VStGB] Völkerstrafgesetzbuch  (VStGB)
-
-Ausfertigungsdatum: 26.06.2002
-
+% Völkerstrafgesetzbuch  (VStGB)
+% Ausfertigungsdatum: 26.06.2002
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für alle in ihm bezeichneten Straftaten gegen das Völkerrecht, für Taten nach den §§ 6 bis 12 auch dann, wenn die Tat im Ausland begangen wurde und keinen Bezug zum Inland aufweist. Für Taten nach § 13, die im Ausland begangen wurden, gilt dieses Gesetz unabhängig vom Recht des Tatorts, wenn der Täter Deutscher ist oder die Tat sich gegen die Bundesrepublik Deutschland richtet.
 
-
-## § 2 – Anwendung des allgemeinen Rechts
+# § 2 – Anwendung des allgemeinen Rechts
 
 Auf Taten nach diesem Gesetz findet das allgemeine Strafrecht Anwendung, soweit dieses Gesetz nicht in den §§ 1, 3 bis 5 und 13 Absatz 4 besondere Bestimmungen trifft.
 
-
-## § 3 – Handeln auf Befehl oder Anordnung
+# § 3 – Handeln auf Befehl oder Anordnung
 
 Ohne Schuld handelt, wer eine Tat nach den §§ 8 bis 15 in Ausführung eines militärischen Befehls oder einer Anordnung von vergleichbarer tatsächlicher Bindungswirkung begeht, sofern der Täter nicht erkennt, dass der Befehl oder die Anordnung rechtswidrig ist und deren Rechtswidrigkeit auch nicht offensichtlich ist.
 
-
-## § 4 – Verantwortlichkeit militärischer Befehlshaber und anderer Vorgesetzter
+# § 4 – Verantwortlichkeit militärischer Befehlshaber und anderer Vorgesetzter
 
 (1) Ein militärischer Befehlshaber oder ziviler Vorgesetzter, der es unterlässt, seinen Untergebenen daran zu hindern, eine Tat nach diesem Gesetz zu begehen, wird wie ein Täter der von dem Untergebenen begangenen Tat bestraft. § 13 Abs. 2 des Strafgesetzbuches findet in diesem Fall keine Anwendung.
 
 (2) Einem militärischen Befehlshaber steht eine Person gleich, die in einer Truppe tatsächliche Befehls- oder Führungsgewalt und Kontrolle ausübt. Einem zivilen Vorgesetzten steht eine Person gleich, die in einer zivilen Organisation oder einem Unternehmen tatsächliche Führungsgewalt und Kontrolle ausübt.
 
-
-## § 5 – Unverjährbarkeit
+# § 5 – Unverjährbarkeit
 
 Die Verfolgung von Verbrechen nach diesem Gesetz und die Vollstreckung der wegen ihnen verhängten Strafen verjähren nicht.
 
-
-## § 6 – Völkermord
+# § 6 – Völkermord
 
 (1) Wer in der Absicht, eine nationale, rassische, religiöse oder ethnische Gruppe als solche ganz oder teilweise zu zerstören,
 
@@ -49,8 +41,7 @@ wird mit lebenslanger Freiheitsstrafe bestraft.
 
 (2) In minder schweren Fällen des Absatzes 1 Nr. 2 bis 5 ist die Strafe Freiheitsstrafe nicht unter fünf Jahren.
 
-
-## § 7 – Verbrechen gegen die Menschlichkeit
+# § 7 – Verbrechen gegen die Menschlichkeit
 
 (1) Wer im Rahmen eines ausgedehnten oder systematischen Angriffs gegen eine Zivilbevölkerung
 
@@ -88,8 +79,7 @@ wird in den Fällen der Nummern 1 und 2 mit lebenslanger Freiheitsstrafe, in den
 
 (5) Wer ein Verbrechen nach Absatz 1 in der Absicht begeht, ein institutionalisiertes Regime der systematischen Unterdrückung und Beherrschung einer rassischen Gruppe durch eine andere aufrechtzuerhalten, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft, soweit nicht die Tat nach Absatz 1 oder Absatz 3 mit schwererer Strafe bedroht ist. In minder schweren Fällen ist die Strafe Freiheitsstrafe nicht unter drei Jahren, soweit nicht die Tat nach Absatz 2 oder Absatz 4 mit schwererer Strafe bedroht ist.
 
-
-## § 8 – Kriegsverbrechen gegen Personen
+# § 8 – Kriegsverbrechen gegen Personen
 
 (1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt
 
@@ -145,15 +135,13 @@ wird mit Freiheitsstrafe nicht unter zwei Jahren bestraft.
 
 3. im internationalen und im nichtinternationalen bewaffneten Konflikt: Angehörige der Streitkräfte und Kämpfer der gegnerischen Partei, welche die Waffen gestreckt haben oder in sonstiger Weise wehrlos sind.
 
-
-## § 9 – Kriegsverbrechen gegen Eigentum und sonstige Rechte
+# § 9 – Kriegsverbrechen gegen Eigentum und sonstige Rechte
 
 (1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt plündert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang völkerrechtswidrig Sachen der gegnerischen Partei, die der Gewalt der eigenen Partei unterliegen, zerstört, sich aneignet oder beschlagnahmt, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
 (2) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt völkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines wesentlichen Teils der Angehörigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
-
-## § 10 – Kriegsverbrechen gegen humanitäre Operationen und Embleme
+# § 10 – Kriegsverbrechen gegen humanitäre Operationen und Embleme
 
 (1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt
 
@@ -165,8 +153,7 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren F�
 
 (2) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt die Schutzzeichen der Genfer Abkommen, die Parlamentärflagge oder die Flagge, die militärischen Abzeichen oder die Uniform des Feindes oder der Vereinten Nationen missbraucht und dadurch den Tod oder die schwere Verletzung eines Menschen (§ 226 des Strafgesetzbuches) verursacht, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft.
 
-
-## § 11 – Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
+# § 11 – Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
 
 (1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt
 
@@ -190,8 +177,7 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren F�
 
 (3) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt mit militärischen Mitteln einen Angriff durchführt und dabei als sicher erwartet, dass der Angriff weit reichende, langfristige und schwere Schäden an der natürlichen Umwelt verursachen wird, die außer Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren militärischen Vorteil stehen, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
-
-## § 12 – Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
+# § 12 – Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
 
 (1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt
 
@@ -205,8 +191,7 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
 (2) Verursacht der Täter durch eine Tat nach Absatz 1 den Tod oder die schwere Verletzung einer Zivilperson (§ 226 des Strafgesetzbuches) oder einer nach dem humanitären Völkerrecht zu schützenden Person, wird er mit Freiheitsstrafe nicht unter fünf Jahren bestraft. Führt der Täter den Tod vorsätzlich herbei, ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
-
-## § 13 – Verbrechen der Aggression
+# § 13 – Verbrechen der Aggression
 
 (1) Wer einen Angriffskrieg führt oder eine sonstige Angriffshandlung begeht, die ihrer Art, ihrer Schwere und ihrem Umfang nach eine offenkundige Verletzung der Charta der Vereinten Nationen darstellt, wird mit lebenslanger Freiheitsstrafe bestraft.
 
@@ -222,8 +207,7 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
 (5) In minder schweren Fällen des Absatzes 2 ist die Strafe Freiheitsstrafe nicht unter fünf Jahren.
 
-
-## § 14 – Verletzung der Aufsichtspflicht
+# § 14 – Verletzung der Aufsichtspflicht
 
 (1) Ein militärischer Befehlshaber, der es vorsätzlich oder fahrlässig unterlässt, einen Untergebenen, der seiner Befehlsgewalt oder seiner tatsächlichen Kontrolle untersteht, gehörig zu beaufsichtigen, wird wegen Verletzung der Aufsichtspflicht bestraft, wenn der Untergebene eine Tat nach diesem Gesetz begeht, deren Bevorstehen dem Befehlshaber erkennbar war und die er hätte verhindern können.
 
@@ -233,15 +217,13 @@ wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
 (4) Die vorsätzliche Verletzung der Aufsichtspflicht wird mit Freiheitsstrafe bis zu fünf Jahren, die fahrlässige Verletzung der Aufsichtspflicht wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
-
-## § 15 – Unterlassen der Meldung einer Straftat
+# § 15 – Unterlassen der Meldung einer Straftat
 
 (1) Ein militärischer Befehlshaber oder ein ziviler Vorgesetzter, der es unterlässt, eine Tat nach diesem Gesetz, die ein Untergebener begangen hat, unverzüglich der für die Untersuchung oder Verfolgung solcher Taten zuständigen Stelle zur Kenntnis zu bringen, wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.
 
 (2) § 4 Abs. 2 gilt entsprechend.
 
-
-## Anlage – (zu § 8 Abs. 6 Nr. 1)
+# Anlage – (zu § 8 Abs. 6 Nr. 1)
 
 Die Genfer Abkommen im Sinne des Gesetzes sind:
 

@@ -1,10 +1,7 @@
-# [MoselSchPEV] Verordnung zur Einführung der Moselschiffahrtspolizeiverordnung  (MoselSchPEV)
-
-Ausfertigungsdatum: 03.09.1997
-
+% Verordnung zur Einführung der Moselschiffahrtspolizeiverordnung  (MoselSchPEV)
+% Ausfertigungsdatum: 03.09.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -20,8 +17,7 @@ des § 3 Abs. 5 Satz 2, der gemäß Artikel 66 Nr. 1 der Verordnung vom 26. Febr
 \-  
 des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 Nr. 2 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278) insoweit geändert worden ist, und des § 3e Abs. 1 Satz 2 Nr. 2 des Binnenschiffahrtsaufgabengesetzes verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation:
 
-
-## Art 1 – Anwendungsbereich
+# Art 1 – Anwendungsbereich
 
 (1) Die von der Moselkommission in Trier am 8. März 1995, 15. November 1995 sowie 13. und 29. November 1996 beschlossene Moselschiffahrtspolizeiverordnung wird auf der Bundeswasserstraße Mosel in Kraft gesetzt. Die Moselschiffahrtspolizeiverordnung wird als Anlage zu dieser Verordnung veröffentlicht.
 
@@ -29,11 +25,9 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 Nr. 2 der Verordnung vom 26. Febr
 
 (3) Kilometerangaben für einzelne Moselstrecken (Kapitel 8 bis 10 der Anlage) haben folgende Bedeutung: Der Kilometerendpunkt schließt die jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die jeweilige Kilometerangabe aus.
 
+# Art 1a – (weggefallen)
 
-## Art 1a – (weggefallen)
-
-
-## Art 2 – Zuständige Behörden
+# Art 2 – Zuständige Behörden
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schiffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 
@@ -53,13 +47,11 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 Nr. 2 der Verordnung vom 26. Febr
 
 (9) Liegen die Voraussetzungen des § 48 oder des § 49 des Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine Erlaubnis nach der Anlage auch nachträglich befristen und mit Auflagen versehen.
 
-
-## Art 3 – Fahrzeuge des öffentlichen Dienstes
+# Art 3 – Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von den Vorschriften der Anlage befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
-
-## Art 4 – Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
+# Art 4 – Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
 
 (1) Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -77,11 +69,9 @@ zuwiderhandelt.
 
 3. entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper befindet,
 
-3a.  
-entgegen § 1.08 Nummer 6 Satz 1 in den dort genannten Fällen keine Rettungsweste trägt,
+3a. entgegen § 1.08 Nummer 6 Satz 1 in den dort genannten Fällen keine Rettungsweste trägt,
 
-3b.  
-entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt, obwohl das Schiff nicht stillliegt oder zu erwarten ist, dass die Arbeiten durch den übrigen Schiffsverkehr gefährdet werden,
+3b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt, obwohl das Schiff nicht stillliegt oder zu erwarten ist, dass die Arbeiten durch den übrigen Schiffsverkehr gefährdet werden,
 
 4. entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
 
@@ -101,8 +91,7 @@ entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt, obwohl das Schi
 
 12. entgegen § 6.17 Nr. 4 nicht ausreichenden Abstand hält,
 
-12a.  
-entgegen § 6.22 Nr. 4 eine gesperrte Wasserfläche benutzt,
+12a. entgegen § 6.22 Nr. 4 eine gesperrte Wasserfläche benutzt,
 
 13. entgegen § 11.03 Nummer 1 öl- oder fetthaltigen Schiffsbetriebsabfall, Slops, Hausmüll, Klärschlamm oder übrigen Sonderabfall, Teile der Ladung oder Abfälle aus dem Ladungsbereich in die Wasserstraße einbringt oder einleitet,
 
@@ -148,31 +137,23 @@ nicht bezeichnet,
 
 15. entgegen § 4.05 Nummer 2 Satz 2 in Verbindung mit Satz 3 oder Nummer 3 Satz 2 in Verbindung mit Satz 3 und auch in Verbindung mit Satz 4 die Sprechfunkanlage nicht ständig sende- oder empfangsbereit geschaltet hat,
 
-15a.  
-entgegen § 4.05 Nummer 4 Satz 1 sich nicht über Sprechfunk meldet,
+15a. entgegen § 4.05 Nummer 4 Satz 1 sich nicht über Sprechfunk meldet,
 
-15b.  
-entgegen § 4.05 Nummer 4 Satz 2 nicht oder nicht rechtzeitig auf dem zugewiesenen Kanal die für die Sicherheit der Schifffahrt notwendigen Nachrichten gibt,
+15b. entgegen § 4.05 Nummer 4 Satz 2 nicht oder nicht rechtzeitig auf dem zugewiesenen Kanal die für die Sicherheit der Schifffahrt notwendigen Nachrichten gibt,
 
-15c.  
-entgegen § 4.05 Nummer 5 Sprechfunk nicht benutzt,
+15c. entgegen § 4.05 Nummer 5 Sprechfunk nicht benutzt,
 
 16. entgegen § 4.06 Nummer 1, auch in Verbindung mit Nummer 3, Radar benutzt,
 
-16a.  
-entgegen § 4.07 Nummer 2 Buchstabe a ein Inland AIS Gerät nicht einschaltet oder nicht eingeschaltet lässt,
+16a. entgegen § 4.07 Nummer 2 Buchstabe a ein Inland AIS Gerät nicht einschaltet oder nicht eingeschaltet lässt,
 
-16b.  
-entgegen § 4.07 Nummer 2 Buchstabe b erster Halbsatz ein Inland AIS Gerät nutzt, das nicht mit maximaler Leistung sendet,
+16b. entgegen § 4.07 Nummer 2 Buchstabe b erster Halbsatz ein Inland AIS Gerät nutzt, das nicht mit maximaler Leistung sendet,
 
-16c.  
-entgegen § 4.07 Nummer 2 Buchstabe c mehr als ein Inland AIS Gerät im Sendebetrieb nutzt,
+16c. entgegen § 4.07 Nummer 2 Buchstabe c mehr als ein Inland AIS Gerät im Sendebetrieb nutzt,
 
-16d.  
-entgegen § 4.07 Nummer 2 Buchstabe d oder Nummer 6 Satz 3 ein Inland AIS Gerät nutzt, in dem die eingegebenen Daten nicht den tatsächlichen Daten des Fahrzeugs oder Verbands entsprechen,
+16d. entgegen § 4.07 Nummer 2 Buchstabe d oder Nummer 6 Satz 3 ein Inland AIS Gerät nutzt, in dem die eingegebenen Daten nicht den tatsächlichen Daten des Fahrzeugs oder Verbands entsprechen,
 
-16e.  
-entgegen § 4.07 Nummer 3 Satz 1 ein dort genanntes Inland ECDIS Gerät nicht nutzt,
+16e. entgegen § 4.07 Nummer 3 Satz 1 ein dort genanntes Inland ECDIS Gerät nicht nutzt,
 
 17. entgegen § 5.01 Nr. 2 in Verbindung mit Nr. 1 eine Anordnung nicht befolgt,
 
@@ -222,8 +203,7 @@ zuwiderhandelt,
 
 24. entgegen § 6.22 Nr. 1, auch in Verbindung mit Nr. 3 vor dem Verbotszeichen nicht anhält,
 
-24a.  
-entgegen § 6.22 Nr. 2, auch in Verbindung mit Nr. 3, eine gesperrte Wasserfläche befährt oder
+24a. entgegen § 6.22 Nr. 2, auch in Verbindung mit Nr. 3, eine gesperrte Wasserfläche befährt oder
 
 25. entgegen § 8.01a die zugelassene Fahrgeschwindigkeit überschreitet.
 
@@ -243,23 +223,17 @@ entgegen § 6.22 Nr. 2, auch in Verbindung mit Nr. 3, eine gesperrte Wasserfläc
 
 7. ein Fahrzeug führt, dessen Ladung entgegen § 1.07 Nummer 3 die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
 
-7a.  
-entgegen § 1.07 Nummer 4 Satz 1 die Stabilität eines Fahrzeugs, das Container befördert, nicht jederzeit gewährleistet,
+7a. entgegen § 1.07 Nummer 4 Satz 1 die Stabilität eines Fahrzeugs, das Container befördert, nicht jederzeit gewährleistet,
 
-7b.  
-entgegen § 1.07 Nummer 4 Satz 2 nicht nachweist, dass vor Beginn des Ladens oder Löschens oder vor Fahrtantritt eines Fahrzeugs, das Container befördert, eine Stabilitätsprüfung durchgeführt wurde,
+7b. entgegen § 1.07 Nummer 4 Satz 2 nicht nachweist, dass vor Beginn des Ladens oder Löschens oder vor Fahrtantritt eines Fahrzeugs, das Container befördert, eine Stabilitätsprüfung durchgeführt wurde,
 
-7c.  
-entgegen § 1.07 Nummer 4 Satz 4 das Ergebnis der Stabilitätsprüfung oder den aktuellen Stauplan nicht an Bord eines Fahrzeugs, das Container befördert, mitführt oder auf Verlangen lesbar macht,
+7c. entgegen § 1.07 Nummer 4 Satz 4 das Ergebnis der Stabilitätsprüfung oder den aktuellen Stauplan nicht an Bord eines Fahrzeugs, das Container befördert, mitführt oder auf Verlangen lesbar macht,
 
-7d.  
-entgegen § 1.07 Nummer 4 Satz 5 die dort genannten Stabilitätsunterlagen nicht mitführt,
+7d. entgegen § 1.07 Nummer 4 Satz 5 die dort genannten Stabilitätsunterlagen nicht mitführt,
 
-7e.  
-ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
+7e. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 
-7f.  
-der Vorschrift des § 1.08 Nummer 5 über das Öffnen, Entfernen oder Setzen von Geländern zuwiderhandelt,
+7f. der Vorschrift des § 1.08 Nummer 5 über das Öffnen, Entfernen oder Setzen von Geländern zuwiderhandelt,
 
 8. nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1 vorgeschriebenen Person besetzt ist,
 
@@ -309,16 +283,13 @@ nicht bezeichnet,
 
 28. ein Fahrzeug führt, auf dem auf das Verbot des Betretens nach § 3.31 Nr. 1 Satz 1 oder Nr. 2, des Rauchens oder des Verwendens von ungeschütztem Licht oder Feuer nach § 3.32 Nr. 1 Satz 1 oder Nr. 2 oder des Stilliegens nebeneinander nach § 3.33 Nr. 1 oder 2 nicht oder nicht in der vorgeschriebenen Weise hingewiesen wird,
 
-28a.  
-entgegen § 3.34 ein Fahrzeug, das für den Einsatz von Tauchern verwendet wird nicht in der dort vorgeschriebenen Weise bezeichnet,
+28a. entgegen § 3.34 ein Fahrzeug, das für den Einsatz von Tauchern verwendet wird nicht in der dort vorgeschriebenen Weise bezeichnet,
 
 29. ein Fahrzeug oder eine schwimmende Anlage führt, auf dem eine Schiffsfunkstelle entgegen § 4.05 Nummer 1 Satz 1 nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
 
-29a.  
-ein Fahrzeug führt, das nicht mit den vorgeschriebenen Sprechfunkanlagen nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, ausgerüstet ist,
+29a. ein Fahrzeug führt, das nicht mit den vorgeschriebenen Sprechfunkanlagen nach § 4.05 Nummer 2 Satz 1 oder Nummer 3 Satz 1, auch in Verbindung mit Satz 4, ausgerüstet ist,
 
-29b.  
-ein Fahrzeug führt,
+29b. ein Fahrzeug führt,
 
 a) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgestattet ist
 
@@ -326,8 +297,7 @@ b) das entgegen § 4.07 Nummer 3 Satz 1 in dem dort genannten Fall nicht mit ein
 
 c) das entgegen § 4.07 Nummer 8 nicht mit einer dort genannten Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist,
 
-29c.  
-entgegen § 4.07 Nummer 4 die dort genannten Daten nicht oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
+29c. entgegen § 4.07 Nummer 4 die dort genannten Daten nicht oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
 
 30. einer Vorschrift über
 
@@ -347,14 +317,11 @@ g) die Aufbewahrung des Ölkontrollbuches nach § 11.05 Nummer 1 Satz 2 oder 3 o
 
 zuwiderhandelt,
 
-30a.  
-ein Fahrzeug mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, führt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
+30a. ein Fahrzeug mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, führt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
 
-30b.  
-ein Fahrgastschiff mit einer Länge von mehr als 110,00 m führt, obwohl das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3 entspricht,
+30b. ein Fahrgastschiff mit einer Länge von mehr als 110,00 m führt, obwohl das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3 entspricht,
 
-30c.  
-entgegen § 8.01 Nummer 6 nicht sicherstellt, dass die Sondererlaubnisse nach § 8.01 Nummer 4 an Bord mitgeführt oder auf Verlangen der Wasserschutzpolizei oder den Bediensteten der zuständigen Behörde zur Kontrolle ausgehändigt werden,
+30c. entgegen § 8.01 Nummer 6 nicht sicherstellt, dass die Sondererlaubnisse nach § 8.01 Nummer 4 an Bord mitgeführt oder auf Verlangen der Wasserschutzpolizei oder den Bediensteten der zuständigen Behörde zur Kontrolle ausgehändigt werden,
 
 31. entgegen § 8.02 Nr. 1 Satz 1 einen Schubverband schleppt oder schleppen läßt,
 
@@ -374,8 +341,7 @@ entgegen § 8.01 Nummer 6 nicht sicherstellt, dass die Sondererlaubnisse nach §
 
 39. nicht dafür sorgt, daß die Vorschriften über die Sicherheit an Bord von Fahrzeugen, die für die Beförderung und Übernachtung von mehr als 12 Personen zugelassen sind, nach § 8.11 Buchstabe b bis e eingehalten werden,
 
-39a.  
-nicht dafür sorgt, dass die Vorschriften über die Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, nach § 8.12 Nummer 1, 2 Satz 1 oder Satz 3, Nummer 3 Satz 1, auch in Verbindung mit Satz 2, oder Nummer 4 eingehalten werden,
+39a. nicht dafür sorgt, dass die Vorschriften über die Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, nach § 8.12 Nummer 1, 2 Satz 1 oder Satz 3, Nummer 3 Satz 1, auch in Verbindung mit Satz 2, oder Nummer 4 eingehalten werden,
 
 40. entgegen § 8.13 Nummer 1 an einer nicht zugelassenen Anlegestelle anlegt,
 
@@ -387,8 +353,7 @@ nicht dafür sorgt, dass die Vorschriften über die Sicherheit an Bord von Fahrz
 
 44. einer Vorschrift über die Sorgfaltspflicht beim Bunkern nach § 11.06 zuwiderhandelt,
 
-44a.  
-einer Vorschrift über die Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG) nach § 11.07 Nummer 2 bis 9 zuwiderhandelt,
+44a. einer Vorschrift über die Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG) nach § 11.07 Nummer 2 bis 9 zuwiderhandelt,
 
 45. entgegen § 11.08 Nummer 1 bei der Restentladung oder bei der Abgabe oder Annahme von Abfällen aus dem Ladungsbereich die dort genannten Vorschriften nicht einhält oder
 
@@ -410,8 +375,7 @@ b) der nach § 1.02 Nr. 2 Satz 3 vorgeschriebene Führer des Verbandes nicht ode
 
 c) entgegen § 1.02 Nr. 4 der Schiffsführer während der Fahrt oder des Betriebes nicht an Bord ist,
 
-1a.  
-die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
+1a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 
 2. nicht dafür sorgt, dass die in § 1.10 Nr. 1 genannten Urkunden oder sonstigen Unterlagen sich an Bord befinden oder die in § 1.10 Nr. 3 Satz 1 zweiter Halbsatz genannten Schiffspapiere im Bereich der Baustelle verfügbar sind,
 
@@ -421,8 +385,7 @@ die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nac
 
 5. nicht dafür sorgt, daß Schwimmkörper oder schwimmende Anlagen in der nach § 3.23 vorgeschriebenen Weise bezeichnet werden,
 
-5a.  
-anordnet oder zulässt, dass entgegen § 4.05 Nummer 1 Satz 1 auf einem Fahrzeug oder einer schwimmenden Anlage eine Schiffsfunkstelle nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
+5a. anordnet oder zulässt, dass entgegen § 4.05 Nummer 1 Satz 1 auf einem Fahrzeug oder einer schwimmenden Anlage eine Schiffsfunkstelle nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
 
 6. die Radarfahrt eines Fahrzeugs anordnet oder zuläßt, das entgegen § 4.06 Nr. 1 oder § 6.32 Nr. 1 Satz 1 nicht vorschriftsmäßig ausgerüstet oder besetzt ist,
 
@@ -478,11 +441,9 @@ t) das entgegen § 6.21 Nr. 4 längsseits gekuppelt fährt, schleppt oder geschl
 
 u) das die nach § 8.01 Nummer 1 zulässigen Höchstabmessungen überschreitet,
 
-11a.  
-die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, anordnet oder zulässt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
+11a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m, ausgenommen ein Fahrgastschiff, anordnet oder zulässt, obwohl das Fahrzeug nicht den Anforderungen des § 8.01 Nummer 2 entspricht,
 
-11b.  
-die Inbetriebnahme eines Fahrgastschiffs anordnet oder zulässt, obwohl das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3 entspricht,
+11b. die Inbetriebnahme eines Fahrgastschiffs anordnet oder zulässt, obwohl das Fahrgastschiff nicht den Anforderungen des § 8.01 Nummer 3 entspricht,
 
 12. anordnet oder zuläßt, daß entgegen § 8.04 Satz 1 an der Spitze des Schubverbandes Trägerschiffsleichter eingesetzt werden,
 
@@ -492,22 +453,18 @@ die Inbetriebnahme eines Fahrgastschiffs anordnet oder zulässt, obwohl das Fahr
 
 15. die Inbetriebnahme eines Verbandes anordnet oder zuläßt, obwohl die nach § 8.07 Nummer 3, 5 und 6, jeweils auch in Verbindung mit Nummer 7, vorgeschriebene Sprechverbindung nicht besteht,
 
-15a.  
-die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m anordnet oder zulässt, obwohl die nach § 8.07 Nummer 4, auch in Verbindung mit Nummer 7, vorgeschriebene Sprechverbindung nicht besteht, oder
+15a. die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m anordnet oder zulässt, obwohl die nach § 8.07 Nummer 4, auch in Verbindung mit Nummer 7, vorgeschriebene Sprechverbindung nicht besteht, oder
 
 16. die Inbetriebnahme eines Fahrzeugs, das für die Beförderung und Übernachtung von mehr als zwölf Personen zugelassen ist, anordnet oder zuläßt, obwohl die Besatzung oder das Personal entgegen § 8.11 Buchstabe b zweiter Halbsatz nicht unterwiesen wurde.
 
-
-## Art 5 – (weggefallen)
-
-\-
-
-
-## Art 6
+# Art 5 – (weggefallen)
 
 \-
 
+# Art 6
 
-## Art 7 – Inkrafttreten
+\-
+
+# Art 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 1997 in Kraft.

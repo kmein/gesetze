@@ -1,15 +1,11 @@
-# [FELEG] Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit  (FELEG)
-
-Ausfertigungsdatum: 21.02.1989
-
+% Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit  (FELEG)
+% Ausfertigungsdatum: 21.02.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Berechtigter Personenkreis
+# § 1 – Berechtigter Personenkreis
 
 (1) Eine Leistung wegen Einstellung der landwirtschaftlichen Erwerbstätigkeit (Produktionsaufgaberente) erhalten Landwirte im Sinne des § 1 Abs. 2 des Gesetzes über die Alterssicherung der Landwirte, die
 
@@ -29,8 +25,7 @@ Den Beiträgen als Landwirt stehen Beiträge gleich, die für die Zeit vom 1. Ju
 
 (2) Leistungsberechtigt ist nicht, wer Leistungen nach Maßgabe der Verordnung (EWG) Nr. 1094/88 des Rates vom 25. April 1988 zur Änderung der Verordnungen (EWG) Nr. 797/85 und Nr. 1760/87 hinsichtlich der Stillegung von Ackerflächen und der Extensivierung und Umstellung der Erzeugung (ABl. EG Nr. L 106 S. 28) erhält.
 
-
-## § 2 – Flächenstillegung
+# § 2 – Flächenstillegung
 
 (1) Eine Fläche gilt als stillgelegt, wenn
 
@@ -44,8 +39,7 @@ Den Beiträgen als Landwirt stehen Beiträge gleich, die für die Zeit vom 1. Ju
 
 (4) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft Näheres über die Voraussetzungen, unter denen eine Fläche als stillgelegt gilt, insbesondere auch über zulässige Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und der Raumordnung zu beachten.
 
-
-## § 3 – Abgabe von Flächen
+# § 3 – Abgabe von Flächen
 
 (1) Für die Abgabe der genutzten Flächen gilt § 21 Abs. 1, 2, 3, 7 und 8 des Gesetzes über die Alterssicherung der Landwirte entsprechend mit der Maßgabe, daß der Zeitraum nach § 21 Abs. 2 Satz 3 mit dem Abschluß des Vertrages, jedoch nicht vor Vollendung des 55. Lebensjahres in den Fällen des § 1 Satz 1 Nr. 1 Buchstabe a und nicht vor Vollendung des 53. Lebensjahres und vor Eintritt der Berufsunfähigkeit im Sinne des bis zum 31. Dezember 2000 geltenden Rechts in den Fällen des § 1 Satz 1 Nr. 1 Buchstabe b beginnt. Eine Abgabe im Sinne von Satz 1 liegt aber nur dann vor, wenn
 
@@ -73,13 +67,11 @@ b) auf eine juristische Person des privaten oder öffentlichen Rechts, die sich 
 
 (3) Die Rückgabe von Flächen, die auf Grund eines Pacht- oder sonstigen Nutzungsverhältnisses bewirtschaftet werden, an den Eigentümer gilt nur dann als Abgabe, wenn der Eigentümer einer Stillegung oder Abgabe im Sinne dieses Gesetzes an andere Landwirte schriftlich widerspricht.
 
-
-## § 4 – Rückbehalt
+# § 4 – Rückbehalt
 
 Auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen Fläche dürfen land- und forstwirtschaftliche Erzeugnisse für den Markt nicht produziert werden. § 51 Abs. 2 des Bewertungsgesetzes findet keine Anwendung. Eine Produktion gilt insbesondere als für den Markt erfolgt, wenn der Wert der für den Eigenverbrauch erzeugten land- und forstwirtschaftlichen Produkte ein Siebtel der Bezugsgröße (§ 18 des Vierten Buches Sozialgesetzbuch) übersteigt. Forstwirtschaftliche Erzeugnisse, die durch notwendige Pflegemaßnahmen anfallen, bleiben unberücksichtigt.
 
-
-## § 5 – Leistungen an Hinterbliebene
+# § 5 – Leistungen an Hinterbliebene
 
 Witwen und Witwer Landwirten nach § 1 Abs. 1 erhalten eine Produktionsaufgaberente, wenn
 
@@ -97,8 +89,7 @@ b) die Voraussetzungen des § 1 Abs. 1 erfüllt hatte, wobei an die Stelle der A
 
 § 14 Abs. 2 und § 14a des Gesetzes über die Alterssicherung der Landwirte gelten entsprechend.
 
-
-## § 6 – Höhe der Leistung
+# § 6 – Höhe der Leistung
 
 (1) Als Produktionsaufgaberente wird ein Grundbetrag und bei Stillegung von Flächen ein Zuschlag (Flächenzuschlag) gezahlt.
 
@@ -110,8 +101,7 @@ b) die Voraussetzungen des § 1 Abs. 1 erfüllt hatte, wobei an die Stelle der A
 
 2. für die gemäß Artikel 9 der Verordnung (EWG) Nr. 1442/88 des Rates vom 24. Mai 1988 über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1988/89 bis 1995/96 (ABl. EG Nr. L 132 S. 3) eine jährliche Prämie für die endgültige Aufgabe von Rebflächen gezahlt wird.
 
-
-## § 7 – Beginn und Ende der Leistung, Verfahren
+# § 7 – Beginn und Ende der Leistung, Verfahren
 
 (1) Die Vorschriften des Gesetzes über die Alterssicherung der Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn, Änderung, Ruhen und Ende von Renten, über Ausschluß und Minderung von Renten, über Leistungen an Berechtigte im Ausland, über Beginn und Abschluß des Verfahrens, über Auszahlung und Anpassung und über Berechnungsgrundsätze gelten entsprechend. § 30 Abs. 2 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung gilt auch in den Fällen entsprechend, in denen ein Leistungsberechtigter auf der nach § 21 Abs. 7 des Gesetzes über die Alterssicherung der Landwirte in der bis zum 8. August 2018 geltenden Fassung nicht abgegebenen Fläche landwirtschaftliche Erzeugnisse für den Markt produziert. Werden Verträge über die Abgabe landwirtschaftlich genutzter Flächen vor Ablauf der Mindestdauer (§ 3 Abs. 1 Satz 1) oder wird die Stillegung einer Fläche vor Ablauf der Mindestdauer (§ 2 Abs. 3) beendet, ruht der Anspruch auf Produktionsaufgaberente vom Beginn des dritten auf die Beendigung der Verträge oder der Stillegung folgenden Monats an. Die Leistung wird vom Beginn des Monats an wieder erbracht, in dem Verpflichtungen wirksam werden, die eine Verwendung der Flächen nach den §§ 2 und 3 für die jeweilige Mindestdauer sicherstellen; die aufgrund der vorzeitig beendeten Verträge zurückgelegte Zeit wird auf die Mindestabgabedauer und die Zeit der bisherigen Stillegung wird auf die Mindeststillegungsdauer angerechnet.
 
@@ -137,8 +127,7 @@ Wird eine Beschäftigung oder selbständige Tätigkeit nach Satz 1 länger als d
 
 (6) Die durchführende Stelle hat von Amts wegen bei der Bewilligung und während der laufenden Zahlung einer Produktionsaufgaberente oder eines Ausgleichsgeldes zu überprüfen, ob die jeweiligen Voraussetzungen vorliegen.
 
-
-## § 8 – Zusammentreffen mit Einkommen
+# § 8 – Zusammentreffen mit Einkommen
 
 (1) Trifft eine Produktionsaufgaberente mit Arbeitsentgelt, Arbeitseinkommen und vergleichbarem Einkommen ohne Berücksichtigung des Arbeitseinkommens aus der Land- und Forstwirtschaft sowie mit Erwerbsersatzeinkommen im Sinne des § 3 Abs. 4 des Gesetzes über die Alterssicherung der Landwirte zusammen, das der Leistungsberechtigte und sein nicht dauernd von ihm getrennt lebender Ehegatte erzielt, ruht der Grundbetrag der Produktionsaufgaberente in Höhe von 60 vom Hundert des Betrages, um den das monatliche Einkommen (Absatz 2) das 58fache des allgemeinen Rentenwertes nach § 23 Abs. 4 des Gesetzes über die Alterssicherung der Landwirte überschreitet.
 
@@ -168,8 +157,7 @@ Der Anspruch auf den Flächenzuschlag bleibt unberührt.
 
 (+++ § 8 Abs. 1 bis 3, 8: Zur Anwendung vgl. § 22 F. ab 1.1.1995 +++)
 
-
-## § 9 – Berechtigter Personenkreis
+# § 9 – Berechtigter Personenkreis
 
 (1) Arbeitnehmer, die in der gesetzlichen Rentenversicherung versichert sind, und nach dem Gesetz über die Alterssicherung der Landwirte versicherungspflichtige mitarbeitende Familienangehörige erhalten ein Ausgleichsgeld, wenn
 
@@ -197,8 +185,7 @@ das maßgebende Lebensjahr muß vor dem 1. Januar 1997 vollendet sein.
 
 § 14 Abs. 2 und § 14a des Gesetzes über die Alterssicherung der Landwirte gelten entsprechend.
 
-
-## § 10 – Höhe der Leistung
+# § 10 – Höhe der Leistung
 
 (1) Das Ausgleichsgeld beträgt 65 vom Hundert des Bruttoarbeitsentgelts. Witwen oder Witwer der Leistungsberechtigten erhalten 60 vom Hundert des in Satz 1 genannten Betrages.
 
@@ -210,8 +197,7 @@ das maßgebende Lebensjahr muß vor dem 1. Januar 1997 vollendet sein.
 
 (3) Das Ausgleichsgeld erhöht sich jeweils zum 1. Juli eines jeden Jahres um den Vomhundertsatz, um den die Renten der gesetzlichen Rentenversicherung zu diesem Zeitpunkt angepaßt werden.
 
-
-## § 11 – Beginn und Ende der Leistung, Verfahren
+# § 11 – Beginn und Ende der Leistung, Verfahren
 
 (1) Die Vorschriften des Gesetzes über die Alterssicherung der Landwirte über Renten wegen Todes bei Verschollenheit, über Beginn, Änderung, Ruhen und Ende von Renten, über Ausschluß und Minderung von Renten, über Leistungen an Berechtigte im Ausland, über Beginn und Abschluß des Verfahrens, über Auszahlung und Anpassung und über Berechnungsgrundsätze gelten entsprechend.
 
@@ -228,8 +214,7 @@ beanspruchen kann,
 
 2. mit Ablauf des Kalendermonats, in dem der Leistungsempfänger als Landwirt nach § 1 Abs. 2 des Gesetzes über die Alterssicherung der Landwirte oder als mitarbeitender Familienangehöriger nach § 1 Abs. 8 des Gesetzes über die Alterssicherung der Landwirte wird.
 
-
-## § 12 – Zusammentreffen mit Einkommen
+# § 12 – Zusammentreffen mit Einkommen
 
 Der Anspruch auf ein Ausgleichsgeld ruht während der Zeit, in der der Leistungsberechtigte
 
@@ -249,8 +234,7 @@ Der Anspruch fällt weg, wenn die Beschäftigung oder selbständige Tätigkeit n
 
 § 8 Abs. 4 gilt entsprechend. Die Vorschrift über das Ruhen des Anspruchs auf Arbeitslosengeld bei Arbeitsentgelt und Urlaubsabgeltung und die Vorschrift über die Anrechnung von Entlassungsentschädigungen auf das Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch gelten entsprechend.
 
-
-## § 13 – Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
+# § 13 – Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
 
 (1) Die §§ 9 bis 12 gelten entsprechend für Arbeitnehmer und mitarbeitende Familienangehörige, deren Beschäftigung in einem Unternehmen der Landwirtschaft auf Grund einer Maßnahme nach Maßgabe
 
@@ -272,8 +256,7 @@ endet.
 
 (+++ § 13 Abs. 1 Nr. 3 bis 6: Zur Anwendung vgl. § 22 F. ab 1.1.1995 +++)
 
-
-## § 14 – Alterssicherung der Landwirte, landwirtschaftliche Unfallversicherung, Krankenversicherung der Landwirte, soziale Pflegeversicherung
+# § 14 – Alterssicherung der Landwirte, landwirtschaftliche Unfallversicherung, Krankenversicherung der Landwirte, soziale Pflegeversicherung
 
 (1) Der Bund trägt die Beiträge zur landwirtschaftlichen Unfallversicherung, soweit sie für nach § 2 stillgelegte Flächen zu entrichten sind, die vom Leistungsberechtigten gepflegt werden und für die ein Flächenzuschlag gezahlt wird. Sie werden vom Bund an die landwirtschaftliche Alterskasse gezahlt.
 
@@ -291,8 +274,7 @@ Besteht Versicherungspflicht nach § 84 Abs. 2 des Gesetzes über die Alterssich
 
 (5) Für Landwirte gilt § 1 Abs. 2 entsprechend.
 
-
-## § 15 – Gesetzliche Rentenversicherung und Krankenversicherung, soziale Pflegeversicherung, Zusatzversorgung für landwirtschaftliche Arbeitnehmer
+# § 15 – Gesetzliche Rentenversicherung und Krankenversicherung, soziale Pflegeversicherung, Zusatzversorgung für landwirtschaftliche Arbeitnehmer
 
 (1) Die Zeit des Bezuges von Ausgleichsgeld für landwirtschaftliche Arbeitnehmer gilt in der gesetzlichen Rentenversicherung als rentenversicherungspflichtige Beschäftigung; die Zuständigkeit des bisherigen Trägers der gesetzlichen Rentenversicherung bleibt unberührt. Beitragsbemessungsgrundlage in der gesetzlichen Rentenversicherung ist das der Berechnung des Ausgleichsgeldes zugrunde liegende Bruttoarbeitsentgelt. Die Beitragsbemessungsgrundlage erhöht sich zum 1. Juli eines jeden Jahres entsprechend der Anpassung der Ausgleichsgelder. Der Bund trägt die Beiträge und führt sie an die landwirtschaftliche Alterskasse ab. Diese leitet die Beiträge unverzüglich an die Träger der gesetzlichen Rentenversicherung weiter. Das Nähere über Zahlung und Abrechnung können die landwirtschaftliche Alterskasse und die Träger der gesetzlichen Rentenversicherung durch Vereinbarung regeln.
 
@@ -304,8 +286,7 @@ Besteht Versicherungspflicht nach § 84 Abs. 2 des Gesetzes über die Alterssich
 
 (5) Die Zeit des Bezuges von Ausgleichsgeld für landwirtschaftliche Arbeitnehmer steht der Zeit einer Beschäftigung als landwirtschaftlicher Arbeitnehmer nach § 12 Abs. 1 des Gesetzes über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft gleich.
 
-
-## § 15a – Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Produktionsaufgaberente und des Ausgleichsgeldes zum 1. April 2004
+# § 15a – Widerspruch und Klage gegen die Veränderung des Zahlbetrags der Produktionsaufgaberente und des Ausgleichsgeldes zum 1. April 2004
 
 Widerspruch und Klage gegen
 
@@ -317,8 +298,7 @@ Widerspruch und Klage gegen
 
 zum 1. April 2004 aufgrund einer Veränderung der allgemeinen Beitragssätze der Krankenkassen, einer Veränderung des durchschnittlichen allgemeinen Beitragssatzes der Krankenkassen oder der Neuregelung der Tragung der Beiträge zur Pflegeversicherung haben keine aufschiebende Wirkung.
 
-
-## § 16 – Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
+# § 16 – Beendigung einer Beschäftigung wegen Flächenstillegung, Extensivierung, Aufgabe von Rebflächen und Apfelbaumrodung
 
 § 14 Abs. 3 und 4 sowie § 15 gelten entsprechend für mitarbeitende Familienangehörige und Arbeitnehmer, deren Beschäftigung in einem Unternehmen der Landwirtschaft auf Grund einer Maßnahme nach Maßgabe
 
@@ -338,13 +318,11 @@ endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
 (+++ § 16 Satz 1 Nr. 3 bis 6: Zur Anwendung vgl. § 22 F. ab 1.1.1995 +++)
 
-
-## § 17 – Durchführende Stelle
+# § 17 – Durchführende Stelle
 
 Dieses Gesetz wird von der landwirtschaftlichen Alterskasse durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den Weisungen des Bundesministeriums für Arbeit und Soziales, die im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft erteilt werden.
 
-
-## § 18 – Anwendung sonstiger Vorschriften
+# § 18 – Anwendung sonstiger Vorschriften
 
 (1) Soweit dieses Gesetz nichts Abweichendes bestimmt, gelten die für die Alterssicherung der Landwirte maßgebenden Vorschriften des Ersten, Vierten und Zehnten Buches Sozialgesetzbuch entsprechend. Ist aufgrund der Mitwirkung des Leistungsberechtigten oder seiner mangelnden Mitwirkung
 
@@ -360,8 +338,7 @@ ist der Verwaltungsakt mit Wirkung für die Vergangenheit zurückzunehmen. Im ü
 
 (4) Streitigkeiten in Angelegenheiten dieses Gesetzes sind Streitigkeiten in Angelegenheiten der Sozialversicherung.
 
-
-## § 18a – Landwirte im Beitrittsgebiet
+# § 18a – Landwirte im Beitrittsgebiet
 
 (1) § 1 gilt für im Beitrittsgebiet selbständig tätige Landwirte auch dann, wenn sie
 
@@ -379,13 +356,11 @@ wobei auf die nach § 1 Abs. 1 Nr. 2 erforderlichen Beiträge für die Zeit vor 
 
 (4) Bei Anwendung von § 8 Abs. 1 gilt § 102 des Gesetzes über die Alterssicherung der Landwirte entsprechend. § 8 Abs. 7 gilt für Bezieher einer Produktionsaufgaberente nach Absatz 1 entsprechend, wenn Anspruch auf eine Regelaltersrente oder eine Witwen- oder Witwerrente aus der gesetzlichen Rentenversicherung besteht.
 
-
-## § 18b – Abgabe an Unternehmen im Beitrittsgebiet
+# § 18b – Abgabe an Unternehmen im Beitrittsgebiet
 
 Geht die Nutzung an ein Unternehmen mit Sitz im Beitrittsgebiet über, werden auf den nach § 3 Abs. 1 Satz 2 Nr. 1 für das Unternehmen der Landwirtschaft maßgebenden Fünfjahreszeitraum auch Zeiten des Bestehens des Unternehmens vor dem 1. Januar 1995 angerechnet; hierbei werden Zeiten vom 1. Januar 1991 bis zum 31. Dezember 1994 nur insoweit berücksichtigt, als das Unternehmen die Voraussetzungen des § 2 Abs. 1 Nr. 1 des Zweiten Gesetzes über die Krankenversicherung der Landwirte erfüllt hat.
 
-
-## § 18c – Arbeitnehmer und mitarbeitende Familienangehörige im Beitrittsgebiet
+# § 18c – Arbeitnehmer und mitarbeitende Familienangehörige im Beitrittsgebiet
 
 (1) Für im Beitrittsgebiet tätige Arbeitnehmer und mitarbeitende Familienangehörige, die
 
@@ -401,35 +376,29 @@ gilt § 9 mit der Maßgabe, daß auf die nach § 9 Abs. 1 Satz 1 Nr. 2 erforderl
 
 (4) Bei Berechtigten, die einen Anspruch auf Leistungen im Sinne des § 12 Satz 1 Nr. 2 nach dem 31. Dezember 1994 erwerben und deren Beschäftigung in einem im Beitrittsgebiet gelegenen Unternehmen der Landwirtschaft endet, ist § 12 Satz 1 Nr. 2 bei Erwerb eines Anspruchs auf Ausgleichsgeld bis zum 30. Juni 1996 nicht anzuwenden. Wird diesen Berechtigten der Anspruch auf Ausgleichsgeld mit Wirkung vor dem 1. Juli 1996 zuerkannt, ruhen die Leistungen nach § 12 Satz 1 Nr. 2 mit Wirkung von dem Zeitpunkt an, zu dem der Anspruch auf Ausgleichsgeld zuerkannt ist.
 
-
-## § 18d – Besonderheiten für das Beitrittsgebiet
+# § 18d – Besonderheiten für das Beitrittsgebiet
 
 § 228a des Sechsten Buches Sozialgesetzbuch und § 83 Abs. 3 des Gesetzes über die Alterssicherung der Landwirte gelten entsprechend.
 
-
-## § 18e – Besonderheiten für das Ausland
+# § 18e – Besonderheiten für das Ausland
 
 Für Leistungsberechtigte nach diesem Gesetz steht eine Beschäftigung oder selbständige Tätigkeit sowie die Erzielung von Einkommen im Ausland einer solchen im Geltungsbereich dieses Gesetzes gleich.
 
 (+++ § 18e: Zur Anwendung vgl. § 22 F. ab 1.1.1995 +++)
 
-
-## § 19 – Kostentragung
+# § 19 – Kostentragung
 
 Die Leistungsaufwendungen und die bei der Durchführung dieses Gesetzes entstehenden Verwaltungskosten werden vom Bund getragen.
 
-
-## § 20 – Befristung der Regelung
+# § 20 – Befristung der Regelung
 
 Vom 1. Januar 1997 an ist dieses Gesetz nur noch anzuwenden, wenn die Voraussetzungen für den Anspruch erstmals vor diesem Zeitpunkt vorgelegen haben.
 
-
-## § 21
+# § 21
 
 \-
 
-
-## § 22 – Übergangsvorschriften
+# § 22 – Übergangsvorschriften
 
 (1) § 8 Abs. 1 bis 3 ist auf Leistungen, die bereits am 31. Dezember 1994 ganz oder teilweise wegen des Zusammentreffens mit Einkommen ruhen, erstmals anzuwenden, wenn sich das maßgebende Einkommen ändert.
 
@@ -439,8 +408,7 @@ Vom 1. Januar 1997 an ist dieses Gesetz nur noch anzuwenden, wenn die Voraussetz
 
 (4) § 18e gilt nur für die Fälle, in denen am 18. Juni 1994 die Leistung noch nicht endgültig festgesetzt war.
 
-
-## § 23 – Inkrafttreten
+# § 23 – Inkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 mit Wirkung vom 1. Januar 1989 in Kraft.
 

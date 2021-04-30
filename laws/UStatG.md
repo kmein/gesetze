@@ -1,15 +1,11 @@
-# [UStatG] Umweltstatistikgesetz  (UStatG)
-
-Ausfertigungsdatum: 16.08.2005
-
+% Umweltstatistikgesetz  (UStatG)
+% Ausfertigungsdatum: 16.08.2005
  
-
-## § 1 – Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
+# § 1 – Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
 
 Für Zwecke der Umweltpolitik und zur Erfüllung europa- und völkerrechtlicher Berichtspflichten werden Erhebungen als Bundesstatistik durchgeführt.
 
-
-## § 2 – Erhebungen, Berichtsjahr
+# § 2 – Erhebungen, Berichtsjahr
 
 (1) Die Statistik umfasst die Erhebungen
 
@@ -35,8 +31,7 @@ Für Zwecke der Umweltpolitik und zur Erfüllung europa- und völkerrechtlicher 
 
 (3) Berichtsjahr ist das dem Zeitpunkt der Erhebung vorangegangene Kalender- oder Geschäftsjahr, soweit im Folgenden nichts anderes bestimmt ist.
 
-
-## § 3 – Erhebung der Abfallentsorgung
+# § 3 – Erhebung der Abfallentsorgung
 
 (1) Die Erhebung erfasst, beginnend mit dem Berichtsjahr 2006, bei den Betreibern von zulassungsbedürftigen Anlagen, in denen Abfälle entsorgt werden, folgende Erhebungsmerkmale:
 
@@ -58,8 +53,7 @@ c) Aufkommen und Verbleib der im Rahmen der Abfallentsorgung gewonnenen Energiet
 
 (3) Die Erhebung erfasst bei höchstens 20 000 Betrieben und sonstigen Arbeitsstätten alle vier Jahre, beginnend mit dem Berichtsjahr 2010, das Erhebungsmerkmal Erzeugung von Abfällen nach Art und Menge.
 
-
-## § 4 – Erhebung der Abfälle, über die Nachweise zu führen sind
+# § 4 – Erhebung der Abfälle, über die Nachweise zu führen sind
 
 Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006, bei den zuständigen Behörden
 
@@ -75,8 +69,7 @@ a) Art und Menge der Abfälle nach Herkunfts- und Empfängerstaat,
 
 b) Art der Beseitigung und Verwertung.
 
-
-## § 5 – Erhebung der Entsorgung bestimmter Abfälle
+# § 5 – Erhebung der Entsorgung bestimmter Abfälle
 
 (1) Die Erhebung erfasst alle zwei Jahre, beginnend mit dem Berichtsjahr 2006, bei den Betreibern von Anlagen zur Aufbereitung und Verwertung von Bau- und Abbruchabfällen die Erhebungsmerkmale
 
@@ -94,15 +87,13 @@ Erstreckt sich der Einsatz nicht stationärer Anlagen über mehrere Länder, wer
 
 (3) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006, bei den Unternehmen, Einrichtungen und öffentlich-rechtlichen Entsorgungsträgern, die mit der Sammlung, Behandlung oder Entsorgung von Elektro- und Elektronikaltgeräten nach dem Elektro- und Elektronikgerätegesetz vom 20. Oktober 2015 (BGBl. I S. 1739) in der jeweils geltenden Fassung befasst sind, die Erhebungsmerkmale Art, Menge und Verbleib der Geräte.
 
-
-## § 6 – Aufbereitung und Veröffentlichung der abfallstatistischen Erhebungen
+# § 6 – Aufbereitung und Veröffentlichung der abfallstatistischen Erhebungen
 
 (1) Das Statistische Bundesamt bereitet die Erhebungen nach den §§ 3 bis 5 jährlich in Form von Bilanzen auf, die Aufkommen, Verwertung und Beseitigung von Abfällen darstellen.
 
 (2) Das Statistische Bundesamt veröffentlicht die Ergebnisse der Erhebungen nach den §§ 3 bis 5 sowie die Bilanzen nach Absatz 1 spätestens 18 Monate nach Ablauf des Berichtsjahres.
 
-
-## § 7 – Erhebung der öffentlichen Wasserversorgung und der öffentlichen Abwasserentsorgung
+# § 7 – Erhebung der öffentlichen Wasserversorgung und der öffentlichen Abwasserentsorgung
 
 (1) Die Erhebung erfasst bei Anstalten, Körperschaften, Unternehmen und anderen Einrichtungen, die Anlagen für die öffentliche Wasserversorgung betreiben, alle drei Jahre, beginnend mit dem Berichtsjahr 2007, die Erhebungsmerkmale
 
@@ -142,8 +133,7 @@ Die Erhebung nach Satz 1 Nr. 7 erfolgt jährlich, beginnend mit dem Berichtsjahr
 
 (4) Erstreckt sich die Wasserversorgung und die Abwasserentsorgung über mehrere Länder, werden die Erhebungsmerkmale nach den Absätzen 1 bis 3 für jedes Land getrennt erfasst.
 
-
-## § 8 – Erhebung der nichtöffentlichen Wasserversorgung und der nichtöffentlichen Abwasserentsorgung
+# § 8 – Erhebung der nichtöffentlichen Wasserversorgung und der nichtöffentlichen Abwasserentsorgung
 
 Die Erhebung erfasst bei nichtöffentlichen Betrieben, die Wasser gewinnen oder die einen Fremdbezug an Wasser von mindestens 10.000 Kubikmeter pro Jahr haben, sowie bei Betrieben, die Wasser oder Abwasser in Gewässer einleiten, alle drei Jahre, beginnend mit dem Berichtsjahr 2007, die Erhebungsmerkmale
 
@@ -165,8 +155,7 @@ c) Klärschlamm nach Menge, Behandlung und Verbleib nach dem Stand vom 31. Dezem
 
 Bei Betrieben, die die Wasserversorgung und Abwasserentsorgung für andere Betriebe durchführen, wird zusätzlich der Wirtschaftszweig des Hauptauftraggebers erhoben.
 
-
-## § 9 – Erhebung der Unfälle beim Umgang mit und bei der Beförderung von wassergefährdenden Stoffen sowie der prüfpflichtigen Anlagen zum Umgang mit wassergefährdenden Stoffen
+# § 9 – Erhebung der Unfälle beim Umgang mit und bei der Beförderung von wassergefährdenden Stoffen sowie der prüfpflichtigen Anlagen zum Umgang mit wassergefährdenden Stoffen
 
 (1) Die Erhebung erfasst bei den nach Landesrecht für die Entgegennahme der Anzeigen über die Unfälle beim Umgang mit wassergefährdenden Stoffen zuständigen Behörden jährlich, beginnend mit dem Berichtsjahr 2006, die Erhebungsmerkmale
 
@@ -224,8 +213,7 @@ Die Angaben sind dem Statistischen Bundesamt von den durch die zuständigen Beh�
 
 (5) Zuständige Behörde für die Erhebung und Aufbereitung der Angaben nach Absatz 4 ist das Statistische Bundesamt.
 
-
-## § 10 – Erhebung bestimmter klimawirksamer Stoffe
+# § 10 – Erhebung bestimmter klimawirksamer Stoffe
 
 (1) Die Erhebung erfasst bei Unternehmen, die Fluorderivate der aliphatischen und cyclischen Kohlenwasserstoffe mit bis zu zehn Kohlenstoffatomen
 
@@ -257,8 +245,7 @@ das Erhebungsmerkmal Menge des Stoffes und im Falle der Nummer 2 auch den vorges
 
 (3) Zuständige Behörde für die Erhebung und Aufbereitung der Angaben nach Absatz 2 ist das Statistische Bundesamt.
 
-
-## § 11 – Erhebung der Aufwendungen für den Umweltschutz
+# § 11 – Erhebung der Aufwendungen für den Umweltschutz
 
 (1) Die Erhebung erfasst bei Unternehmen und Betrieben des Bergbaus und der Gewinnung von Steinen und Erden, des Verarbeitenden Gewerbes sowie der Energieversorgung, Wasserversorgung, Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen:
 
@@ -270,8 +257,7 @@ Die Erhebungsmerkmale werden nach den Umweltbereichen nach Anhang IV der Verordn
 
 (2) Die Erhebung erfasst alle drei Jahre nach Jahren, beginnend mit den Berichtsjahren 2008 bis 2010, für alle Betreiber von Anlagen der öffentlichen Wasserversorgung und Abwasserentsorgung die Erhebungsmerkmale Wasserentgelte für die Wasserversorgung und Abwasserentgelte für die Abwasserentsorgung jeweils nach Gemeinden.
 
-
-## § 12 – Erhebung der Güter und Leistungen für den Umweltschutz
+# § 12 – Erhebung der Güter und Leistungen für den Umweltschutz
 
 (1) Die Erhebung erfasst bei höchstens 15 000 Betrieben und Einrichtungen, die dem Umweltschutz dienende Güter und Leistungen gemäß dem jeweils geltenden nationalen Verzeichnis der Umweltschutzleistungen produzieren und erbringen, jährlich, beginnend mit dem Berichtsjahr 2016, für diese Güter und Leistungen die Erhebungsmerkmale
 
@@ -291,8 +277,7 @@ Maßgebend für die Erhebung nach Satz 1 Nummer 1 sind die Umweltbereiche nach A
 
 4. die ausschließlich Dienstleistungen erbringen und damit weniger als 1 Million Euro Gesamtumsatz im Jahr erzielen.
 
-
-## § 13 – Hilfsmerkmale
+# § 13 – Hilfsmerkmale
 
 (1) Hilfsmerkmale der Erhebungen sind
 
@@ -310,8 +295,7 @@ Maßgebend für die Erhebung nach Satz 1 Nummer 1 sind die Umweltbereiche nach A
 
 (2) Mit den Hilfsmerkmalen nach Absatz 1 Nr. 3, 5 und 6 dürfen die Erhebungsmerkmale nach den §§ 3 bis 5 zusammengeführt werden.
 
-
-## § 14 – Auskunftspflicht
+# § 14 – Auskunftspflicht
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht. Die Angaben zu § 13 Abs. 1 Nr. 2 sind freiwillig.
 
@@ -405,8 +389,7 @@ die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Stellen.
 
 (5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
-
-## § 15 – Anschriftenübermittlung
+# § 15 – Anschriftenübermittlung
 
 (1) Die für das Erteilen von Einsammlungsgenehmigungen und für die Genehmigung und Überwachung zulassungsbedürftiger Anlagen zuständigen Behörden übermitteln den statistischen Ämtern der Länder auf Anforderung die für die Erhebungen nach den §§ 3 und 5 erforderlichen Namen und Anschriften der Einsammler von Abfällen und der Betreiber zulassungsbedürftiger Anlagen.
 
@@ -416,8 +399,7 @@ die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Stellen.
 
 (4) Die für die Anerkennung von Sachverständigenorganisationen zur Prüfung von Anlagen zum Umgang mit wassergefährdenden Stoffen zuständigen Behörden übermitteln dem Statistischen Bundesamt auf Anforderung die für die Erhebung nach § 9 Absatz 4 erforderlichen Namen und Anschriften der anerkannten Sachverständigenorganisationen.
 
-
-## § 16 – Übermittlung
+# § 16 – Übermittlung
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
@@ -431,8 +413,7 @@ die Inhaber oder Inhaberinnen und Leitungen der genannten Betriebe und Stellen.
 
 (6) An das Umweltbundesamt dürfen zur Erfüllung europa- und völkerrechtlicher Pflichten der Bundesrepublik Deutschland zur Emissionsberichterstattung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die Tabellen dürfen nur von den für diese Aufgabe zuständigen Organisationseinheiten des Umweltbundesamtes gespeichert und genutzt werden. Diese Organisationseinheiten müssen von den mit Vollzugsaufgaben befassten Organisationseinheiten des Umweltbundesamtes räumlich, organisatorisch und personell getrennt sein.
 
-
-## § 17 – Verordnungsermächtigung
+# § 17 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für nach diesem Gesetz durchzuführende Erhebungen
 

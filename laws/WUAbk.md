@@ -1,5 +1,3 @@
-# [WUAbk] Welturheberrechtsabkommen
-
-Ausfertigungsdatum: 06.09.1952
-
+% Welturheberrechtsabkommen
+% Ausfertigungsdatum: 06.09.1952
  

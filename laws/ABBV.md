@@ -1,10 +1,7 @@
-# [ABBV] Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz  (Ablösungsbeträge-Berechnungsverordnung - ABBV)
-
-Ausfertigungsdatum: 01.07.2010
-
+% Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz  (Ablösungsbeträge-Berechnungsverordnung - ABBV)
+% Ausfertigungsdatum: 01.07.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
@@ -17,15 +14,13 @@ des § 13b Nummer 3 des Bundesfernstraßengesetzes in der Fassung der Bekanntmac
 –  
 des § 42 Absatz 4a Satz 2 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980):
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Berechnung der zu leistenden Ablösungsbeträge nach den Vorschriften des Eisenbahnkreuzungsgesetzes, des Bundesfernstraßengesetzes und des Bundeswasserstraßengesetzes.
 
 (2) Erhaltungskosten (Unterhaltungs- und Erneuerungskosten) im Sinne dieser Verordnung entsprechen den Erhaltungs- und Betriebskosten im Sinne des Eisenbahnkreuzungsgesetzes sowie den Unterhaltungskosten im Sinne des Bundesfernstraßengesetzes und des Bundeswasserstraßengesetzes.
 
-
-## § 2 – Berechnung
+# § 2 – Berechnung
 
 (1) Der Ablösungsbetrag ist durch Gegenüberstellung der kapitalisierten Erhaltungskosten der alten und neuen baulichen Anlagen gemäß der Anlage zu dieser Verordnung zu ermitteln.
 
@@ -37,18 +32,15 @@ des § 42 Absatz 4a Satz 2 des Bundeswasserstraßengesetzes in der Fassung der B
 
 (5) Der Ablösungsbetrag ist von dem verpflichteten Kreuzungsbeteiligten spätestens sechs Monate nach Zugang der Berechnung zu zahlen. Erfolgt die Zahlung zu einem späteren Zeitpunkt, ist der Betrag mit 4 vom Hundert für das Jahr zu verzinsen.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 2 Absatz 1)
+# Anlage – (zu § 2 Absatz 1)
 
 (Fundstelle: BGBl. I 2010, 857 - 871)
 
@@ -184,7 +176,7 @@ Berechnungsformeln
 
 |                                                                             |
 |:---------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0010.jpg "Formel zu Anlage 2.3 (1)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0010.jpg "Formel zu Anlage 2.3 (1)") |
 
    
  
@@ -193,7 +185,7 @@ Berechnungsformeln
 
 |                                                                             |
 |:---------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0020.jpg "Formel zu Anlage 2.3 (2)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0020.jpg "Formel zu Anlage 2.3 (2)") |
 
    
  
@@ -204,7 +196,7 @@ Die Berechnungsformel der kapitalisierten Erhaltungskosten (E)
 
 |                                                                                                                                                                                 |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0030.jpg "Formel 1 zu Anlage 2.3 (3)"), wobei ![](../normengrafiken/bgbl1_2010/j0856_0040.jpg "Formel 2 zu Anlage 2.3 (3)") gesetzt ist, |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0030.jpg "Formel 1 zu Anlage 2.3 (3)"), wobei ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0040.jpg "Formel 2 zu Anlage 2.3 (3)") gesetzt ist, |
 
    
  
@@ -213,7 +205,7 @@ setzt sich zusammen aus dem Anteil für die kapitalisierten Erneuerungskosten (E
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0050.jpg "Formel 3 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0050.jpg "Formel 3 zu Anlage 2.3 (3)") |
 
    
  
@@ -222,7 +214,7 @@ und dem Anteil für die kapitalisierten jährlichen Unterhaltungskosten (E<sub>u
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0060.jpg "Formel 4 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0060.jpg "Formel 4 zu Anlage 2.3 (3)") |
 
    
  
@@ -231,7 +223,7 @@ Durch Erweiterung des untenstehenden ersten Summanden mit qm</sup> – 1 könn
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0070.jpg "Formel 5 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0070.jpg "Formel 5 zu Anlage 2.3 (3)") |
 
    
  
@@ -240,7 +232,7 @@ und den Anteil der kapitalisierten Kosten für die weiteren Erneuerungen
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0080.jpg "Formel 6 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0080.jpg "Formel 6 zu Anlage 2.3 (3)") |
 
    
  
@@ -249,7 +241,7 @@ aufgegliedert werden. Für die Aufwendungen der weiteren Erneuerungen steht nach
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0090.jpg "Formel 7 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0090.jpg "Formel 7 zu Anlage 2.3 (3)") |
 
    
  
@@ -258,7 +250,7 @@ Euro zur Verfügung. Nach weiteren m Jahren, also zum Zeitpunkt der zweiten Erne
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0010.jpg "Formel 8 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0010.jpg "Formel 8 zu Anlage 2.3 (3)") |
 
    
  
@@ -269,7 +261,7 @@ Euro zur Verfügung. K<sub>e</sub> wird entnommen, sodass wieder der gleiche Bet
 
 |                                                                               |
 |:-----------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0110.jpg "Formel 9 zu Anlage 2.3 (3)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0110.jpg "Formel 9 zu Anlage 2.3 (3)") |
 
   
 
@@ -280,7 +272,7 @@ Bei einer zeitlich unbegrenzten Unterhaltungsverpflichtung können die kapitalis
 
 |                                                                             |
 |:---------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0120.jpg "Formel zu Anlage 2.3 (4)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0120.jpg "Formel zu Anlage 2.3 (4)") |
 
    
  
@@ -291,7 +283,7 @@ Bei einer zeitlich nur begrenzten Unterhaltsverpflichtung über t Jahre ergibt s
 
 |                                                                             |
 |:---------------------------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2010/j0856_0130.jpg "Formel zu Anlage 2.3 (5)") |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j0856_0130.jpg "Formel zu Anlage 2.3 (5)") |
 
    
  

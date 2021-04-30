@@ -1,12 +1,7 @@
-# [WSG] Wehrsoldgesetz  (WSG)
-
-Ausfertigungsdatum: 04.08.2019
-
+% Wehrsoldgesetz  (WSG)
+% Ausfertigungsdatum: 04.08.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -20,8 +15,9 @@ Ausfertigungsdatum: 04.08.2019
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Wehrsold erhalten Soldatinnen und Soldaten, die Wehrdienst nach § 58b des Soldatengesetzes leisten.
 
@@ -55,15 +51,13 @@ Ausfertigungsdatum: 04.08.2019
 
 4. Verpflegung.
 
-
-## § 2 – Anspruch auf Wehrsold
+# § 2 – Anspruch auf Wehrsold
 
 (1) Soweit gesetzlich nichts anderes bestimmt ist, besteht der Anspruch auf Wehrsold für die Zeit vom Tag des Dienstantritts bis zum Ablauf des Tages, an dem das Wehrdienstverhältnis endet.
 
 (2) Soldatinnen und Soldaten, die während einer besonderen Auslandsverwendung wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu vertreten haben, dem Einflussbereich des Dienstherrn entzogen sind, wird für diesen Zeitraum der Wehrsold in der Höhe, in der er ihnen beim Eintritt des Ereignisses zustand, weitergewährt.
 
-
-## § 3 – Anwendung von Vorschriften des Bundesbesoldungsgesetzes
+# § 3 – Anwendung von Vorschriften des Bundesbesoldungsgesetzes
 
 (1) § 3 Absatz 3 bis 6, § 6 Absatz 1 Satz 1 sowie die §§ 9, 11, 12 und 17a des Bundesbesoldungsgesetzes gelten entsprechend.
 
@@ -73,32 +67,27 @@ Ausfertigungsdatum: 04.08.2019
 
 2. die Wehrsoldgruppen 3 und 4 entsprechen der Besoldungsgruppe A 4.
 
-
-## § 4 – Wehrsoldgrundbetrag, Kinderzuschlag
+# § 4 – Wehrsoldgrundbetrag, Kinderzuschlag
 
 (1) Soldatinnen und Soldaten erhalten einen monatlichen Wehrsoldgrundbetrag. Die Höhe des Wehrsoldgrundbetrags richtet sich nach Spalte 3 der Tabelle in der Anlage.
 
 (2) Der Wehrsoldgrundbetrag erhöht sich für jedes Kind, für das der Soldatin oder dem Soldaten Kindergeld nach dem Einkommensteuergesetz oder nach dem Bundeskindergeldgesetz zusteht oder ohne Berücksichtigung der §§ 64 und 65 des Einkommensteuergesetzes oder der §§ 3 und 4 des Bundeskindergeldgesetzes zustehen würde, um einen monatlichen Zuschlag. Die Höhe des Zuschlags richtet sich nach Spalte 4 der Tabelle in der Anlage.
 
-
-## § 5 – Erstattung der Beiträge zur Kranken- und Pflegeversicherung für Angehörige
+# § 5 – Erstattung der Beiträge zur Kranken- und Pflegeversicherung für Angehörige
 
 Für Personen ohne eigenes Einkommen, die nach § 4 der Bundesbeihilfeverordnung in Verbindung mit § 31 Absatz 2 des Soldatengesetzes berücksichtigungsfähig wären, wenn die Soldatin Soldatin auf Zeit oder der Soldat Soldat auf Zeit wäre, werden der Soldatin oder dem Soldaten die Beiträge zu einer gesetzlichen oder privaten Kranken- und Pflegeversicherung bis zur Höhe des Basistarifs ohne Zusatzbeiträge erstattet.
 
-
-## § 6 – Auslandsvergütung
+# § 6 – Auslandsvergütung
 
 (1) Soldatinnen und Soldaten erhalten eine Auslandsvergütung, wenn bei entsprechender Verwendung an demselben Standort Besoldungsempfängerinnen oder Besoldungsempfänger Auslandsdienstbezüge nach § 52 Absatz 1 Satz 1 des Bundesbesoldungsgesetzes erhalten.
 
 (2) Die Höhe der Auslandsvergütung bemisst sich nach Spalte 5 der Tabelle in der Anlage.
 
-
-## § 7 – Anpassung des Wehrsoldes
+# § 7 – Anpassung des Wehrsoldes
 
 Im Fall einer Besoldungsanpassung nach § 14 Absatz 1 des Bundesbesoldungsgesetzes erhöhen oder verringern sich der Wehrsoldgrundbetrag, der Kinderzuschlag und die Auslandsvergütung um denselben Prozentsatz, um den das Grundgehalt, der Familienzuschlag und der Auslandszuschlag für eine dienstgradgleiche Soldatin auf Zeit oder einen dienstgradgleichen Soldaten auf Zeit erhöht oder verringert werden. Das Bundesministerium der Verteidigung macht die jeweils geltenden Monatsbeträge im Bundesgesetzblatt bekannt.
 
-
-## § 8 – Entlassungsgeld
+# § 8 – Entlassungsgeld
 
 (1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst leisten, erhalten bei der Entlassung ein Entlassungsgeld. Als Entlassung gilt auch der Eintritt in ein Wehrdienstverhältnis besonderer Art nach § 6 des Einsatz-Weiterverwendungsgesetzes.
 
@@ -122,62 +111,53 @@ d) nach § 75 Absatz 2 Nummer 2 oder Nummer 3 jeweils in Verbindung mit § 58h A
 
 3. innerhalb eines Jahres nach Beendigung des freiwilligen Wehrdienstes in ein Dienstverhältnis als Soldatin auf Zeit oder Soldat auf Zeit berufen werden (§ 40 des Soldatengesetzes).
 
-
-## § 9 – Vergütung für herausgehobene Funktionen
+# § 9 – Vergütung für herausgehobene Funktionen
 
 (1) Soldatinnen und Soldaten, die mehr als sechs Monate Wehrdienst geleistet haben, erhalten für die Dauer der Wahrnehmung einer herausgehobenen Funktion eine widerrufliche Vergütung unter den gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Stellenzulage im Sinne des § 42 Absatz 1 und 3 des Bundesbesoldungsgesetzes zusteht.
 
 (2) Die Höhe der Vergütung entspricht 80 Prozent der Beträge der jeweiligen Stellenzulage nach Anlage IX des Bundesbesoldungsgesetzes.
 
-
-## § 10 – Vergütung für besondere Erschwernisse
+# § 10 – Vergütung für besondere Erschwernisse
 
 (1) Soldatinnen und Soldaten erhalten zur Abgeltung besonderer Erschwernisse eine widerrufliche Vergütung unter den gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Erschwerniszulage nach § 47 des Bundesbesoldungsgesetzes zusteht.
 
 (2) Für die Höhe der Vergütung gilt die auf Grund des § 47 des Bundesbesoldungsgesetzes erlassene Rechtsverordnung entsprechend.
 
-
-## § 11 – Vergütung für besondere zeitliche Belastungen
+# § 11 – Vergütung für besondere zeitliche Belastungen
 
 (1) Soldatinnen und Soldaten erhalten eine Vergütung für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 und 50a des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
 
 (2) Die Höhe der Vergütung entspricht 80 Prozent der Leistungen, die dienstgradgleichen Soldatinnen auf Zeit und Soldaten auf Zeit gewährt werden.
 
-
-## § 12 – Auslandsverwendungszuschlag
+# § 12 – Auslandsverwendungszuschlag
 
 (1) Soldatinnen und Soldaten, die an einer besonderen Verwendung im Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes teilnehmen, erhalten einen Auslandsverwendungszuschlag unter den gleichen Voraussetzungen, in der gleichen Höhe und in dem gleichen Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56 Absatz 3 Satz 1 und 2 des Bundesbesoldungsgesetzes und die dazu erlassene Rechtsverordnung gelten entsprechend.
 
 (2) In den Fällen des § 2 Absatz 2 steht den Soldatinnen und Soldaten die höchste Stufe des Auslandsverwendungszuschlags zu.
 
-
-## § 13 – Kaufkraftausgleich
+# § 13 – Kaufkraftausgleich
 
 Geldbezüge nach den §§ 4, 6, 9, 10 und 11 unterliegen dem Kaufkraftausgleich in entsprechender Anwendung des § 55 des Bundesbesoldungsgesetzes, wenn auch die Besoldung der an demselben Dienstort stationierten Soldatinnen und Soldaten dem Kaufkraftausgleich unterliegt.
 
-
-## § 14 – Unterkunft
+# § 14 – Unterkunft
 
 (1) Soldatinnen und Soldaten, die auf Grund dienstlicher Anordnung verpflichtet sind, in einer Gemeinschaftsunterkunft zu wohnen, wird die Unterkunft unentgeltlich bereitgestellt.
 
 (2) Soldatinnen und Soldaten werden die notwendigen Kosten für die Fahrten zur Unterkunft und zurück erstattet. Näheres bestimmt das Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
-
-## § 15 – Dienstkleidung und Ausrüstung
+# § 15 – Dienstkleidung und Ausrüstung
 
 (1) Soldatinnen und Soldaten werden die Dienstkleidung und die Ausrüstung unentgeltlich bereitgestellt.
 
 (2) Soldatinnen und Soldaten, die auf dienstliche Anordnung im Dienst Zivilkleidung tragen, erhalten für deren Abnutzung eine angemessene Entschädigung. Die Höhe der Entschädigung bestimmt das Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
-
-## § 16 – Heilfürsorge
+# § 16 – Heilfürsorge
 
 (1) Soldatinnen und Soldaten haben Anspruch auf Heilfürsorge in Form der unentgeltlichen truppenärztlichen Versorgung. § 69a des Bundesbesoldungsgesetzes gilt entsprechend.
 
 (2) Soldatinnen und Soldaten, deren Dienstzeit auf bis zu sechs Monate festgesetzt worden ist, wird zahnärztliche Versorgung nur bei akuter Behandlungsbedürftigkeit und nur insoweit gewährt, als sie zur Wiederherstellung der Dienstfähigkeit erforderlich ist, es sei denn, es handelt sich um die Behandlung der Folgen einer Wehrdienstbeschädigung.
 
-
-## § 17 – Verpflegung, Verpflegungsgeld
+# § 17 – Verpflegung, Verpflegungsgeld
 
 (1) Soldatinnen und Soldaten, die für die Dauer eines auswärtigen Dienstgeschäftes außerhalb von Dienstreisen auf Grund dienstlicher Anordnung verpflichtet sind, an einer Gemeinschaftsverpflegung teilzunehmen, wird die Verpflegung unentgeltlich bereitgestellt.
 
@@ -189,8 +169,7 @@ Geldbezüge nach den §§ 4, 6, 9, 10 und 11 unterliegen dem Kaufkraftausgleich 
 
 (3) Als Verpflegungsgeld für eine Mahlzeit erhalten sie den entsprechenden Teiltagessatz. Bei Dienstgeschäften im Inland gelten die §§ 3 und 4 der Trennungsgeldverordnung und bei Dienstgeschäften im Ausland die §§ 7 und 12 Absatz 7 der Auslandstrennungsgeldverordnung entsprechend.
 
-
-## § 18 – Übergangsregelung
+# § 18 – Übergangsregelung
 
 Soldatinnen und Soldaten, deren Wehrdienst vor dem 1. Januar 2020 begonnen hat, erhalten eine Ausgleichszahlung, wenn sich die ihnen zustehenden Leistungen aus Anlass der Neufassung des Wehrsoldgesetzes ab dem 1. Januar 2020 verringern. Der Ausgleichsbetrag berechnet sich aus der Differenz zwischen der Summe der Beträge aus:
 
@@ -204,8 +183,7 @@ Soldatinnen und Soldaten, deren Wehrdienst vor dem 1. Januar 2020 begonnen hat, 
 
 und dem Wehrsold nach § 4 in der seit dem 1. Januar 2020 geltenden Fassung. Der Anspruch auf die Ausgleichszulage endet, wenn die Voraussetzungen für die aufgeführten Leistungen nach der jeweils genannten Vorschrift entfallen und der Gesamtbetrag dieser Leistungen den Betrag des Wehrsoldes nach § 4 nicht mehr übersteigt.
 
-
-## § 19 – Sonderzahlung für das Jahr 2020
+# § 19 – Sonderzahlung für das Jahr 2020
 
 Zur Abmilderung der zusätzlichen Belastung durch die COVID-19-Pandemie im Jahr 2020 wird eine einmalige Sonderzahlung in Höhe von 600 Euro gewährt, wenn
 
@@ -215,7 +193,6 @@ Zur Abmilderung der zusätzlichen Belastung durch die COVID-19-Pandemie im Jahr 
 
 § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend. Maßgebend sind jeweils die Verhältnisse am 1. Oktober 2020. Die Zahlung wird jedem Berechtigten nur einmal gewährt; ihr steht eine entsprechende Leistung aus einem anderen Rechtsverhältnis im öffentlichen Dienst des Bundes gleich. Die Zahlung bleibt bei sonstigen Bezügen unberücksichtigt.
 
-
-## Anlage – (zu den §§ 4 und 6)Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung
+# Anlage – (zu den §§ 4 und 6)Wehrsoldgrundbetrag, Kinderzuschlag, Auslandsvergütung
 
 (Fundstelle: BGBl. I 2019, 1161)

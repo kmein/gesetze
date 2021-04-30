@@ -1,10 +1,7 @@
-# [PfändfreiGrBek 2017] Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2017)
-
-Ausfertigungsdatum: 28.03.2017
-
+% Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2017)
+% Ausfertigungsdatum: 28.03.2017
  
-
-## ----
+# ----
 
 Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4 der Zivilprozessordnung, die zuletzt durch Artikel 145 Nummer 4 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind, wird bekannt gemacht:
 
@@ -50,12 +47,10 @@ von 143,07 auf 151,05 Euro täglich.
 
 3. Die ab 1. Juli 2017 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz und für Verbraucherschutz
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2017, 751 - 768)

@@ -1,10 +1,7 @@
-# [AufenthV] Aufenthaltsverordnung  (AufenthV)
-
-Ausfertigungsdatum: 25.11.2004
-
+% Aufenthaltsverordnung  (AufenthV)
+% Ausfertigungsdatum: 25.11.2004
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -581,8 +578,7 @@ Beginn der Anerkennung von Forschungseinrichtungen
   
 Anlagen
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Schengen-Staaten sind die Staaten im Sinne des § 2 Absatz 5 des Aufenthaltsgesetzes.
 
@@ -604,13 +600,11 @@ Anlagen
 
 (8) Europäische Reisedokumente für die Rückkehr illegal aufhältiger Drittstaatsangehöriger (Europäische Reisedokumente für die Rückkehr) sind Dokumente nach der Verordnung (EU) 2016/1953 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 (ABl. L 311 vom 17.11.2016, S. 13).
 
-
-## § 2 – Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetzlichen Vertreters
+# § 2 – Erfüllung der Passpflicht durch Eintragung in den Pass eines gesetzlichen Vertreters
 
 Minderjährige Ausländer, die das 16. Lebensjahr noch nicht vollendet haben, erfüllen die Passpflicht auch durch Eintragung in einem anerkannten und gültigen Pass oder Passersatz eines gesetzlichen Vertreters. Für einen minderjährigen Ausländer, der das zehnte Lebensjahr vollendet hat, gilt dies nur, wenn im Pass oder Passersatz sein eigenes Lichtbild angebracht ist.
 
-
-## § 3 – Zulassung nichtdeutscher amtlicher Ausweise als Passersatz
+# § 3 – Zulassung nichtdeutscher amtlicher Ausweise als Passersatz
 
 (1) Von anderen Behörden als von deutschen Behörden ausgestellte amtliche Ausweise sind als Passersatz zugelassen, ohne dass es einer Anerkennung nach § 71 Abs. 6 des Aufenthaltsgesetzes bedarf, soweit die Bundesrepublik Deutschland
 
@@ -650,8 +644,7 @@ c) die Angaben nicht in einer germanischen oder romanischen Sprache enthält.
 
 8. Binnenschifffahrtsausweise, soweit sie für einen Aufenthalt nach § 25 gebraucht werden.
 
-
-## § 4 – Deutsche Passersatzpapiere für Ausländer
+# § 4 – Deutsche Passersatzpapiere für Ausländer
 
 (1) Durch deutsche Behörden ausgestellte Passersatzpapiere für Ausländer sind:
 
@@ -713,8 +706,7 @@ Auf Antrag kann der Passersatz nach Absatz 1 Satz 1 Nummer 1, 3 und 4 bei einer 
 
 9. die Gültigkeitsdauer des Passersatzes,
 
-9a.  
-die Versionsnummer des Dokumentenmusters,
+9a. die Versionsnummer des Dokumentenmusters,
 
 10. die Prüfziffern und
 
@@ -732,8 +724,7 @@ Die Seriennummer und die Prüfziffern dürfen keine Daten über die Person des P
 
 (8) Deutsche Auslandsvertretungen entziehen einen Passersatz im Benehmen mit der zuständigen oder zuletzt zuständigen Ausländerbehörde im Inland. Ist eine solche Behörde nicht vorhanden oder feststellbar, ist das Benehmen mit der Behörde herzustellen, die den Passersatz ausgestellt hat, wenn er verlängert wurde, mit der Behörde, die ihn verlängert hat.
 
-
-## § 5 – Allgemeine Voraussetzungen der Ausstellung des Reiseausweises für Ausländer
+# § 5 – Allgemeine Voraussetzungen der Ausstellung des Reiseausweises für Ausländer
 
 (1) Einem Ausländer, der nachweislich keinen Pass oder Passersatz besitzt und ihn nicht auf zumutbare Weise erlangen kann, kann nach Maßgabe der nachfolgenden Bestimmungen ein Reiseausweis für Ausländer ausgestellt werden.
 
@@ -753,8 +744,7 @@ Die Seriennummer und die Prüfziffern dürfen keine Daten über die Person des P
 
 (5) Der Reiseausweis für Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium darf, soweit dies zulässig ist, nur verlängert werden, wenn die Ausstellungsvoraussetzungen weiterhin vorliegen.
 
-
-## § 6 – Ausstellung des Reiseausweises für Ausländer im Inland
+# § 6 – Ausstellung des Reiseausweises für Ausländer im Inland
 
 Im Inland darf ein Reiseausweis für Ausländer nach Maßgabe des § 5 ausgestellt werden,
 
@@ -768,15 +758,13 @@ Im Inland darf ein Reiseausweis für Ausländer nach Maßgabe des § 5 ausgestel
 
 In den Fällen des Satzes 1 Nummer 3 und 4 wird der Reiseausweis für Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium ausgestellt. Die ausstellende Behörde darf in den Fällen des Satzes 1 Nummer 3 und 4 Ausnahmen von § 5 Absatz 2 und 3 sowie in den Fällen des Satzes 1 Nummer 3 Ausnahmen von § 5 Absatz 4 zulassen. Bei Ausländern, denen nach einer Aufnahmezusage nach § 23 Absatz 4 des Aufenthaltsgesetzes eine Aufenthaltserlaubnis erteilt worden ist, ist die Erlangung eines Passes oder Passersatzes regelmäßig nicht zumutbar. Dies gilt entsprechend für Ausländer, die bis zum Ablauf des 31. Juli 2015 im Rahmen des Programms zur dauerhaften Neuansiedlung von Schutzsuchenden (Resettlement-Flüchtlinge) einen Aufenthaltstitel nach § 23 Absatz 2 des Aufenthaltsgesetzes erhalten haben.
 
-
-## § 7 – Ausstellung des Reiseausweises für Ausländer im Ausland
+# § 7 – Ausstellung des Reiseausweises für Ausländer im Ausland
 
 (1) Im Ausland darf ein Reiseausweis für Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium nach Maßgabe des § 5 ausgestellt werden, um dem Ausländer die Einreise in das Bundesgebiet zu ermöglichen, sofern die Voraussetzungen für die Erteilung eines hierfür erforderlichen Aufenthaltstitels vorliegen.
 
 (2) Im Ausland darf ein Reiseausweis für Ausländer ohne elektronisches Speicher- und Verarbeitungsmedium zudem nach Maßgabe des § 5 einem in § 28 Abs. 1 Satz 1 Nr. 1 bis 3 des Aufenthaltsgesetzes bezeichneten ausländischen Familienangehörigen oder dem Lebenspartner eines Deutschen erteilt werden, wenn dieser im Ausland mit dem Deutschen in familiärer Lebensgemeinschaft lebt.
 
-
-## § 8 – Gültigkeitsdauer des Reiseausweises für Ausländer
+# § 8 – Gültigkeitsdauer des Reiseausweises für Ausländer
 
 (1) Die Gültigkeitsdauer des Reiseausweises für Ausländer darf die Gültigkeitsdauer des Aufenthaltstitels oder der Aufenthaltsgestattung des Ausländers nicht überschreiten. Der Reiseausweis für Ausländer darf im Übrigen ausgestellt werden bis zu einer Gültigkeitsdauer von
 
@@ -788,8 +776,7 @@ In den Fällen des Satzes 1 Nummer 3 und 4 wird der Reiseausweis für Ausländer
 
 (3) Ein nach § 6 Satz 1 Nr. 3 und 4 ausgestellter Reiseausweis für Ausländer darf nicht verlängert werden. Der Ausschluss der Verlängerung ist im Reiseausweis für Ausländer zu vermerken.
 
-
-## § 9 – Räumlicher Geltungsbereich des Reiseausweises für Ausländer
+# § 9 – Räumlicher Geltungsbereich des Reiseausweises für Ausländer
 
 (1) Der Reiseausweis für Ausländer kann für alle Staaten oder mit einer Beschränkung des Geltungsbereichs auf bestimmte Staaten oder Erdteile ausgestellt werden. Der Staat, dessen Staatsangehörigkeit der Ausländer besitzt, ist aus dem Geltungsbereich auszunehmen, wenn nicht in Ausnahmefällen die Erstreckung des Geltungsbereichs auf diesen Staat gerechtfertigt ist.
 
@@ -799,13 +786,11 @@ In den Fällen des Satzes 1 Nummer 3 und 4 wird der Reiseausweis für Ausländer
 
 (4) Der Geltungsbereich des im Ausland ausgestellten Reiseausweises für Ausländer ist in den Fällen des § 7 Abs. 1 räumlich auf die Bundesrepublik Deutschland, den Ausreisestaat, den Staat der Ausstellung sowie die im Reiseausweis für Ausländer einzeln aufzuführenden, auf dem geplanten Reiseweg zu durchreisenden Staaten zu beschränken.
 
-
-## § 10 – Sonstige Beschränkungen im Reiseausweis für Ausländer
+# § 10 – Sonstige Beschränkungen im Reiseausweis für Ausländer
 
 In den Reiseausweis für Ausländer können zur Vermeidung von Missbrauch bei oder nach der Ausstellung sonstige Beschränkungen aufgenommen werden, insbesondere die Bezeichnung der zur Einreise in das Bundesgebiet zu benutzenden Grenzübergangsstelle oder die Bezeichnung der Person, in deren Begleitung sich der Ausländer befinden muss. § 46 Abs. 2 des Aufenthaltsgesetzes bleibt unberührt.
 
-
-## § 11 – Verfahren der Ausstellung oder Verlängerung des Reiseausweises für Ausländer im Ausland
+# § 11 – Verfahren der Ausstellung oder Verlängerung des Reiseausweises für Ausländer im Ausland
 
 (1) Im Ausland darf ein Reiseausweis für Ausländer nur mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat oder der von ihm bestimmten Stelle ausgestellt werden. Dasselbe gilt für die zulässige Verlängerung eines nach Satz 1 ausgestellten Reiseausweises für Ausländer im Ausland.
 
@@ -813,8 +798,7 @@ In den Reiseausweis für Ausländer können zur Vermeidung von Missbrauch bei od
 
 (3) Die Aufhebung von Beschränkungen nach den §§ 9 und 10 im Ausland bedarf der Zustimmung der zuständigen oder zuletzt zuständigen Ausländerbehörde. Ist eine solche Behörde nicht vorhanden oder feststellbar, ist die Zustimmung bei der Behörde einzuholen, die die Beschränkung eingetragen hat.
 
-
-## § 12 – Grenzgängerkarte
+# § 12 – Grenzgängerkarte
 
 (1) Einem Ausländer, der sich in einem an das Bundesgebiet angrenzenden Staat rechtmäßig aufhält und der mindestens einmal wöchentlich dorthin zurückkehrt, kann eine Grenzgängerkarte für die Ausübung einer Erwerbstätigkeit oder eines Studiums im Bundesgebiet erteilt werden, wenn er
 
@@ -828,8 +812,7 @@ Eine Grenzgängerkarte zur Ausübung einer Beschäftigung im Bundesgebiet darf n
 
 (2) Staatsangehörigen der Schweiz wird unter den Voraussetzungen und zu den Bedingungen eine Grenzgängerkarte ausgestellt und verlängert, die in Artikel 7 Abs. 2, Artikel 13 Abs. 2, Artikel 28 Abs. 1 und Artikel 32 Abs. 2 des Anhangs I zum Abkommen vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit (BGBl. 2001 II S. 810) genannt sind.
 
-
-## § 13 – Notreiseausweis
+# § 13 – Notreiseausweis
 
 (1) Zur Vermeidung einer unbilligen Härte, oder soweit ein besonderes öffentliches Interesse besteht, darf einem Ausländer ein Notreiseausweis ausgestellt werden, wenn der Ausländer seine Identität glaubhaft machen kann und er
 
@@ -853,8 +836,7 @@ sowie die jeweils mit einem solchen Aufenthalt verbundene Ein- und Ausreise eine
 
 (6) Die Gültigkeitsdauer des Notreiseausweises darf längstens einen Monat betragen.
 
-
-## § 14 – Befreiung von der Passpflicht in Rettungsfällen
+# § 14 – Befreiung von der Passpflicht in Rettungsfällen
 
 Von der Passpflicht sind befreit
 
@@ -864,30 +846,25 @@ Von der Passpflicht sind befreit
 
 Die Befreiung endet, sobald für den Ausländer die Beschaffung oder Beantragung eines Passes oder Passersatzes auch in Anbetracht der besonderen Umstände des Falles und des Vorranges der Leistung oder Inanspruchnahme von Hilfe zumutbar wird.
 
-
-## § 15 – Gemeinschaftsrechtliche Regelung der Kurzaufenthalte
+# § 15 – Gemeinschaftsrechtliche Regelung der Kurzaufenthalte
 
 Die Befreiung vom Erfordernis eines Aufenthaltstitels für die Einreise und den Aufenthalt von Ausländern für Kurzaufenthalte richtet sich nach dem Recht der Europäischen Union, insbesondere dem Schengener Durchführungsübereinkommen und der Verordnung (EU) 2018/1806 in Verbindung mit den nachfolgenden Bestimmungen.
 
-
-## § 16 – Vorrang älterer Sichtvermerksabkommen
+# § 16 – Vorrang älterer Sichtvermerksabkommen
 
 Die Inhaber der in Anlage A zu dieser Verordnung genannten Dokumente sind für die Einreise und den Aufenthalt im Bundesgebiet, auch bei Überschreitung der zeitlichen Grenze eines Kurzaufenthalts, vom Erfordernis eines Aufenthaltstitels befreit, soweit völkerrechtliche Verpflichtungen, insbesondere aus einem Sichtvermerksabkommen, die vor dem 1. September 1993 gegenüber den in Anlage A aufgeführten Staaten eingegangen wurden, dem Erfordernis des Aufenthaltstitels oder dieser zeitlichen Begrenzung entgegenstehen.
 
-
-## § 17 – Nichtbestehen der Befreiung bei Erwerbstätigkeit während eines Kurzaufenthalts
+# § 17 – Nichtbestehen der Befreiung bei Erwerbstätigkeit während eines Kurzaufenthalts
 
 (1) Für die Einreise und den Kurzaufenthalt sind die Personen nach Artikel 4 Absatz 1 der Verordnung (EU) 2018/1806 in der jeweils geltenden Fassung und die Inhaber eines von einem Schengen-Staat ausgestellten Aufenthaltstitels oder nationalen Visums für den längerfristigen Aufenthalt vom Erfordernis eines Aufenthaltstitels nicht befreit, sofern sie im Bundesgebiet eine Erwerbstätigkeit ausüben.
 
 (2) Absatz 1 findet keine Anwendung, soweit der Ausländer im Bundesgebiet bis zu 90 Tage innerhalb von zwölf Monaten lediglich Tätigkeiten ausübt, die nach § 30 Nummer 2 und 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausübt. Die zeitliche Beschränkung des Satzes 1 gilt nicht für Kraftfahrer im grenzüberschreitenden Straßenverkehr, die lediglich Güter oder Personen durch das Bundesgebiet hindurchbefördern, ohne dass die Güter oder Personen das Transportfahrzeug wechseln. Die Frist nach Satz 1 beträgt für Tätigkeiten nach § 15a und § 30 Nummer 1 der Beschäftigungsverordnung 90 Tage innerhalb von 180 Tagen. Selbständige Tätigkeiten nach den Sätzen 1 und 2 dürfen unter den dort genannten Voraussetzungen ohne den nach § 4a Absatz 1 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel ausgeübt werden.
 
-
-## § 17a – Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte
+# § 17a – Befreiung zur Dienstleistungserbringung für langfristig Aufenthaltsberechtigte
 
 Ausländer, die in einem anderen Mitgliedstaat der Europäischen Union die Rechtsstellung eines langfristig Aufenthaltsberechtigten innehaben, sind für die Einreise und den Aufenthalt im Bundesgebiet zum Zweck einer Beschäftigung nach § 30 Nummer 3 der Beschäftigungsverordnung für einen Zeitraum von bis zu 90 Tagen innerhalb von zwölf Monaten vom Erfordernis eines Aufenthaltstitels befreit.
 
-
-## § 18 – Befreiung für Inhaber von Reiseausweisen für Flüchtlinge und Staatenlose
+# § 18 – Befreiung für Inhaber von Reiseausweisen für Flüchtlinge und Staatenlose
 
 Inhaber von Reiseausweisen für Flüchtlinge oder für Staatenlose sind für die Einreise und den Kurzaufenthalt vom Erfordernis eines Aufenthaltstitels befreit, sofern
 
@@ -899,13 +876,11 @@ Inhaber von Reiseausweisen für Flüchtlinge oder für Staatenlose sind für die
 
 Satz 1 Nr. 2 gilt nicht für Inhaber von Reiseausweisen für Flüchtlinge, die von einem der in Anlage A Nr. 3 genannten Staaten ausgestellt wurden.
 
-
-## § 19 – Befreiung für Inhaber dienstlicher Pässe
+# § 19 – Befreiung für Inhaber dienstlicher Pässe
 
 Für die Einreise und den Kurzaufenthalt sind Staatsangehörige der in Anlage B zu dieser Verordnung aufgeführten Staaten vom Erfordernis eines Aufenthaltstitels befreit, wenn sie einen der in Anlage B genannten dienstlichen Pässe besitzen und keine Erwerbstätigkeit mit Ausnahme der in § 17 Abs. 2 bezeichneten ausüben.
 
-
-## § 20 – Befreiung für Inhaber von Ausweisen der Europäischen Union und zwischenstaatlicher Organisationen und der Vatikanstadt
+# § 20 – Befreiung für Inhaber von Ausweisen der Europäischen Union und zwischenstaatlicher Organisationen und der Vatikanstadt
 
 Vom Erfordernis eines Aufenthaltstitels befreit sind Inhaber
 
@@ -917,13 +892,11 @@ Vom Erfordernis eines Aufenthaltstitels befreit sind Inhaber
 
 4. von Passierscheinen zwischenstaatlicher Organisationen, die diese den in ihrem Auftrag reisenden Personen ausstellen, soweit die Bundesrepublik Deutschland auf Grund einer Vereinbarung mit der ausstellenden Organisation verpflichtet ist, dem Inhaber die Einreise und den Aufenthalt zu gestatten.
 
-
-## § 21
+# § 21
 
 Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt und für die in der Grenzgängerkarte bezeichnete Erwerbstätigkeit im Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit.
 
-
-## § 22 – Befreiung für Schüler auf Sammellisten
+# § 22 – Befreiung für Schüler auf Sammellisten
 
 (1) Schüler, die als Mitglied einer Schülergruppe in Begleitung einer Lehrkraft einer allgemein bildenden oder berufsbildenden Schule an einer Reise in oder durch das Bundesgebiet teilnehmen, sind für die Einreise, Durchreise und einen Kurzaufenthalt im Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit, wenn sie
 
@@ -937,8 +910,7 @@ Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt und für d
 
 (2) Schüler mit Wohnsitz im Bundesgebiet, die für eine Reise in das Ausland in einer Schülergruppe in Begleitung einer Lehrkraft einer allgemeinbildenden oder berufsbildenden inländischen Schule auf einer von deutschen Behörden ausgestellten Schülersammelliste aufgeführt sind, sind für die Wiedereinreise in das Bundesgebiet vom Erfordernis eines Aufenthaltstitels befreit, wenn die Ausländerbehörde angeordnet hat, dass die Abschiebung nach der Wiedereinreise ausgesetzt wird. Diese Anordnung ist auf der Schülersammelliste zu vermerken.
 
-
-## § 23 – Befreiung für ziviles Flugpersonal
+# § 23 – Befreiung für ziviles Flugpersonal
 
 (1) Ziviles Flugpersonal, das im Besitz eines Flugbesatzungsausweises ist, ist vom Erfordernis eines Aufenthaltstitels befreit, sofern es
 
@@ -950,8 +922,7 @@ Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt und für d
 
 (2) Ziviles Flugpersonal, das nicht im Besitz eines Flugbesatzungsausweises ist, kann für einen in Absatz 1 genannten Aufenthalt vom Erfordernis eines Aufenthaltstitels befreit werden, sofern es die Passpflicht erfüllt. Zuständig sind die mit der Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden. Zum Nachweis der Befreiung wird ein Passierschein ausgestellt.
 
-
-## § 24 – Befreiung für Seeleute
+# § 24 – Befreiung für Seeleute
 
 (1) Seelotsen, die in Ausübung ihres Berufes handeln und sich durch amtliche Papiere über ihre Person und Seelotseneigenschaft ausweisen, benötigen für ihre Einreise und ihren Aufenthalt keinen Aufenthaltstitel.
 
@@ -959,8 +930,7 @@ Inhaber von Grenzgängerkarten sind für die Einreise, den Aufenthalt und für d
 
 (3) Ziviles Schiffspersonal im Sinne der vorstehenden Absätze sind der Kapitän eines Schiffes, die Besatzungsmitglieder, die angemustert und auf der Besatzungsliste verzeichnet sind, sowie sonstige an Bord beschäftigte Personen, die auf einer Besatzungsliste verzeichnet sind.
 
-
-## § 25 – Befreiung in der internationalen zivilen Binnenschifffahrt
+# § 25 – Befreiung in der internationalen zivilen Binnenschifffahrt
 
 (1) Ausländer, die
 
@@ -994,8 +964,7 @@ im Zusammenhang mit der grenzüberschreitenden Beförderung von Personen oder Sa
 
 (4) Die Absätze 2 und 3 gelten entsprechend für die in Binnenschifffahrtsausweisen eingetragenen Familienangehörigen.
 
-
-## § 26 – Transit ohne Einreise; Flughafentransitvisum
+# § 26 – Transit ohne Einreise; Flughafentransitvisum
 
 (1) Ausländer, die sich im Bundesgebiet befinden, ohne im Sinne des § 13 Abs. 2 des Aufenthaltsgesetzes einzureisen, sind vom Erfordernis eines Aufenthaltstitels befreit.
 
@@ -1003,8 +972,7 @@ im Zusammenhang mit der grenzüberschreitenden Beförderung von Personen oder Sa
 
 (3) (weggefallen)
 
-
-## § 27 – Befreiung für Personen bei Vertretungen ausländischer Staaten
+# § 27 – Befreiung für Personen bei Vertretungen ausländischer Staaten
 
 (1) Vom Erfordernis eines Aufenthaltstitels befreit sind, wenn Gegenseitigkeit besteht,
 
@@ -1022,18 +990,15 @@ im Zusammenhang mit der grenzüberschreitenden Beförderung von Personen oder Sa
 
 (3) Der Eintritt eines Befreiungsgrundes nach Absatz 1 oder 2 lässt eine bestehende Aufenthaltserlaubnis oder Niederlassungserlaubnis unberührt und steht der Verlängerung einer Aufenthaltserlaubnis oder der Erteilung einer Niederlassungserlaubnis an einen bisherigen Inhaber einer Aufenthaltserlaubnis nach den Vorschriften des Aufenthaltsgesetzes nicht entgegen.
 
-
-## § 28 – Befreiung für freizügigkeitsberechtigte Schweizer
+# § 28 – Befreiung für freizügigkeitsberechtigte Schweizer
 
 Staatsangehörige der Schweiz sind nach Maßgabe des Abkommens vom 21. Juni 1999 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom Erfordernis eines Aufenthaltstitels befreit. Soweit in dem Abkommen vorgesehen ist, dass das Aufenthaltsrecht durch eine Aufenthaltserlaubnis bescheinigt wird, wird nach § 78 Absatz 1 Satz 2 des Aufenthaltsgesetzes diese Aufenthaltserlaubnis auf Antrag als Dokument mit elektronischem Speicher- und Verarbeitungsmedium ausgestellt.
 
-
-## § 29 – Befreiung in Rettungsfällen
+# § 29 – Befreiung in Rettungsfällen
 
 Für die Einreise und den Aufenthalt im Bundesgebiet sind die in § 14 Satz 1 genannten Ausländer vom Erfordernis eines Aufenthaltstitels befreit. Die Befreiung nach Satz 1 endet, sobald für den Ausländer die Beantragung eines erforderlichen Aufenthaltstitels auch in Anbetracht der besonderen Umstände des Falles und des Vorranges der Leistung oder Inanspruchnahme von Hilfe zumutbar wird.
 
-
-## § 30 – Befreiung für die Durchreise und Durchbeförderung
+# § 30 – Befreiung für die Durchreise und Durchbeförderung
 
 Für die Einreise in das Bundesgebiet aus einem anderen Schengen-Staat und einen anschließenden Aufenthalt von bis zu drei Tagen sind Ausländer vom Erfordernis eines Aufenthaltstitels befreit, wenn sie
 
@@ -1041,11 +1006,9 @@ Für die Einreise in das Bundesgebiet aus einem anderen Schengen-Staat und einen
 
 2. auf Grund einer zwischenstaatlichen Vereinbarung oder mit Einwilligung des Bundesministeriums des Innern, für Bau und Heimat oder der von ihm beauftragten Stelle durch das Bundesgebiet durchbefördert werden; in diesem Fall gilt die Befreiung auch für die sie begleitenden Aufsichtspersonen.
 
+# § 30a – (weggefallen)
 
-## § 30a – (weggefallen)
-
-
-## § 31 – Zustimmung der Ausländerbehörde zur Visumerteilung
+# § 31 – Zustimmung der Ausländerbehörde zur Visumerteilung
 
 (1) Ein Visum bedarf der vorherigen Zustimmung der für den vorgesehenen Aufenthaltsort zuständigen Ausländerbehörde, wenn
 
@@ -1081,25 +1044,21 @@ Im Fall des Satzes 1 Nr. 3 gilt die Zustimmung als erteilt, wenn nicht die Ausl�
 
 (4) In den Fällen des § 81a des Aufenthaltsgesetzes ist für die Erteilung der nach § 81a Absatz 3 Satz 1 Nummer 6 des Aufenthaltsgesetzes erforderlichen Vorabzustimmung die Ausländerbehörde zuständig, die für den Ort der Betriebsstätte zuständig ist, an der der Ausländer beschäftigt werden soll.
 
-
-## § 31a – Beschleunigtes Fachkräfteverfahren
+# § 31a – Beschleunigtes Fachkräfteverfahren
 
 (1) Im Fall des § 81a des Aufenthaltsgesetzes bietet die Auslandsvertretung unverzüglich nach Vorlage der Vorabzustimmung oder Übermittlung der Vorabzustimmung durch das Ausländerzentralregister und nach dem Eingang der Terminanfrage der Fachkraft einen Termin zur Visumantragstellung an, der innerhalb der nächsten drei Wochen liegt.
 
 (2) Die Bescheidung des Visumantrags erfolgt in der Regel innerhalb von drei Wochen ab Stellung des vollständigen Visumantrags.
 
-
-## § 32 – Zustimmung der obersten Landesbehörde
+# § 32 – Zustimmung der obersten Landesbehörde
 
 Ein Visum bedarf nicht der Zustimmung der Ausländerbehörde nach § 31, wenn die oberste Landesbehörde der Visumerteilung zugestimmt hat.
 
-
-## § 33 – Zustimmungsfreiheit bei Spätaussiedlern
+# § 33 – Zustimmungsfreiheit bei Spätaussiedlern
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörde bei Inhabern von Aufnahmebescheiden nach dem Bundesvertriebenengesetz und den nach § 27 Abs. 1 Satz 2 bis 4 des Bundesvertriebenengesetzes in den Aufnahmebescheid einbezogenen Ehegatten und Abkömmlingen.
 
-
-## § 34 – Zustimmungsfreiheit bei Wissenschaftlern und Studenten
+# § 34 – Zustimmungsfreiheit bei Wissenschaftlern und Studenten
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörde bei
 
@@ -1125,8 +1084,7 @@ die auf Einladung an einer Hochschule oder einer öffentlich-rechtlichen, überw
 
 Satz 1 gilt entsprechend, wenn der Aufenthalt aus Mitteln der Europäischen Union gefördert wird. Satz 1 gilt in den Fällen der Nummern 1 bis 4 entsprechend für den mit- oder nacheinreisenden Ehegatten oder Lebenspartner des Ausländers, wenn die Ehe oder Lebenspartnerschaft bereits bei der Einreise des Ausländers in das Bundesgebiet bestand, sowie für die minderjährigen ledigen Kinder des Ausländers.
 
-
-## § 35 – Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika
+# § 35 – Zustimmungsfreiheit bei bestimmten Arbeitsaufenthalten und Praktika
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörde bei Ausländern, die
 
@@ -1140,23 +1098,19 @@ Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörd
 
 5. eine Tätigkeit bis zu längstens drei Monaten ausüben wollen, für die sie nur ein Stipendium erhalten, das ausschließlich aus öffentlichen Mitteln gezahlt wird.
 
-
-## § 36 – Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte
+# § 36 – Zustimmungsfreiheit bei dienstlichen Aufenthalten von Mitgliedern ausländischer Streitkräfte
 
 Abweichend von § 31 bedarf das Visum nicht der Zustimmung der Ausländerbehörde, das einem Mitglied ausländischer Streitkräfte für einen dienstlichen Aufenthalt im Bundesgebiet erteilt wird, der auf Grund einer zwischenstaatlichen Vereinbarung stattfindet. Zwischenstaatliche Vereinbarungen, die eine Befreiung von der Visumpflicht vorsehen, bleiben unberührt.
 
-
-## § 37 – Zustimmungsfreiheit in sonstigen Fällen
+# § 37 – Zustimmungsfreiheit in sonstigen Fällen
 
 Abweichend von § 31 Abs. 1 Satz 1 Nr. 1 und 2 bedarf das Visum nicht der Zustimmung der Ausländerbehörde für Ausländer, die im Bundesgebiet lediglich Tätigkeiten, die nach § 30 Nummer 1 bis 3 der Beschäftigungsverordnung nicht als Beschäftigung gelten, oder diesen entsprechende selbständige Tätigkeiten ausüben wollen.
 
-
-## § 38 – Ersatzzuständigkeit der Ausländerbehörde
+# § 38 – Ersatzzuständigkeit der Ausländerbehörde
 
 Ein Ausländer kann ein nationales Visum bei der am Sitz des Auswärtigen Amtes zuständigen Ausländerbehörde einholen, soweit die Bundesrepublik Deutschland in dem Staat seines gewöhnlichen Aufenthalts keine Auslandsvertretung unterhält oder diese vorübergehend keine Visa erteilen kann und das Auswärtige Amt keine andere Auslandsvertretung zur Visumerteilung ermächtigt hat.
 
-
-## § 38a – Voraussetzungen für die Anerkennung von Forschungseinrichtungen
+# § 38a – Voraussetzungen für die Anerkennung von Forschungseinrichtungen
 
 (1) Eine öffentliche oder private Einrichtung soll auf Antrag zum Abschluss von Aufnahmevereinbarungen oder von entsprechenden Verträgen nach § 18d Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes anerkannt werden, wenn sie im Inland Forschung betreibt. Forschung ist jede systematisch betriebene schöpferische und rechtlich zulässige Tätigkeit, die den Zweck verfolgt, den Wissensstand zu erweitern, einschließlich der Erkenntnisse über den Menschen, die Kultur und die Gesellschaft, oder solches Wissen einzusetzen, um neue Anwendungsmöglichkeiten zu finden.
 
@@ -1182,8 +1136,7 @@ Bei öffentlichen Einrichtungen sind die Angaben zu Satz 2 Nummer 4 und 5 nicht 
 
 (5) Eine anerkannte Forschungseinrichtung ist verpflichtet, dem Bundesamt für Migration und Flüchtlinge unverzüglich Änderungen der in Absatz 2 Satz 2 Nr. 1 bis 3 genannten Verhältnisse oder eine Beendigung des Betreibens von Forschung anzuzeigen.
 
-
-## § 38b – Aufhebung der Anerkennung
+# § 38b – Aufhebung der Anerkennung
 
 (1) Die Anerkennung ist zu widerrufen oder die Verlängerung ist abzulehnen, wenn die Forschungseinrichtung
 
@@ -1201,8 +1154,7 @@ Hat die Forschungseinrichtung ihre Anerkennung durch arglistige Täuschung, Droh
 
 (4) Die Ausländerbehörden und die Auslandsvertretungen haben dem Bundesamt für Migration und Flüchtlinge alle ihnen bekannten Tatsachen mitzuteilen, die Anlass für die Aufhebung der Anerkennung einer Forschungseinrichtung geben könnten.
 
-
-## § 38c – Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden
+# § 38c – Mitteilungspflichten von Forschungseinrichtungen gegenüber den Ausländerbehörden
 
 Eine Forschungseinrichtung ist verpflichtet, der zuständigen Ausländerbehörde schriftlich oder elektronisch mitzuteilen, wenn
 
@@ -1212,8 +1164,7 @@ Eine Forschungseinrichtung ist verpflichtet, der zuständigen Ausländerbehörde
 
 Die Mitteilung nach Satz 1 Nr. 1 muss unverzüglich, die Mitteilung nach Satz 1 Nr. 2 innerhalb von zwei Monaten nach Eintritt der zur Mitteilung verpflichtenden Tatsachen gemacht werden. In der Mitteilung sind neben den mitzuteilenden Tatsachen und dem Zeitpunkt ihres Eintritts die Namen, Vornamen und Staatsangehörigkeiten des Ausländers anzugeben sowie die Aufnahmevereinbarung näher zu bezeichnen.
 
-
-## § 38d – Beirat für Forschungsmigration
+# § 38d – Beirat für Forschungsmigration
 
 (1) Beim Bundesamt für Migration und Flüchtlinge wird ein Beirat für Forschungsmigration gebildet, der es bei der Wahrnehmung seiner Aufgaben nach diesem Abschnitt unterstützt. Die Geschäftsstelle des Beirats für Forschungsmigration wird beim Bundesamt für Migration und Flüchtlinge eingerichtet.
 
@@ -1255,13 +1206,11 @@ Die Mitteilung nach Satz 1 Nr. 1 muss unverzüglich, die Mitteilung nach Satz 1 
 
 (8) Der Beirat für Forschungsmigration gibt sich eine Geschäftsordnung, die der Genehmigung des Präsidenten des Bundesamtes für Migration und Flüchtlinge bedarf.
 
-
-## § 38e – Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge
+# § 38e – Veröffentlichungen durch das Bundesamt für Migration und Flüchtlinge
 
 Das Bundesamt für Migration und Flüchtlinge veröffentlicht im Internet eine aktuelle Liste der Bezeichnungen und Anschriften der anerkannten Forschungseinrichtungen und über den Umstand der Abgabe oder des Endes der Wirksamkeit von Erklärungen nach § 18d Absatz 3 des Aufenthaltsgesetzes. Die genaue Fundstelle der Liste gibt das Bundesamt für Migration und Flüchtlinge auf seiner Internetseite bekannt.
 
-
-## § 38f – Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages
+# § 38f – Inhalt und Voraussetzungen der Unterzeichnung der Aufnahmevereinbarung oder eines entsprechenden Vertrages
 
 (1) Eine Aufnahmevereinbarung oder ein entsprechender Vertrag muss folgende Angaben enthalten:
 
@@ -1285,8 +1234,7 @@ Das Bundesamt für Migration und Flüchtlinge veröffentlicht im Internet eine a
 
 3. der Lebensunterhalt des Ausländers gesichert ist.
 
-
-## § 39 – Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
+# § 39 – Verlängerung eines Aufenthalts im Bundesgebiet für längerfristige Zwecke
 
 Über die im Aufenthaltsgesetz geregelten Fälle hinaus kann ein Ausländer einen Aufenthaltstitel im Bundesgebiet einholen oder verlängern lassen, wenn
 
@@ -1322,8 +1270,7 @@ b) eine Aufenthaltserlaubnis nach § 18f des Aufenthaltsgesetzes beantragt oder 
 
 Satz 1 gilt nicht, wenn eine ICT-Karte nach § 19 des Aufenthaltsgesetzes beantragt wird.
 
-
-## § 40 – Verlängerung eines visumfreien Kurzaufenthalts
+# § 40 – Verlängerung eines visumfreien Kurzaufenthalts
 
 Staatsangehörige der in Anhang II der Verordnung (EU) 2018/1806 aufgeführten Staaten können nach der Einreise eine Aufenthaltserlaubnis für einen weiteren Aufenthalt von längstens 90 Tagen, der sich an einen Kurzaufenthalt anschließt, einholen, wenn
 
@@ -1331,8 +1278,7 @@ Staatsangehörige der in Anhang II der Verordnung (EU) 2018/1806 aufgeführten S
 
 2. der Ausländer im Bundesgebiet keine Erwerbstätigkeit mit Ausnahme der in § 17 Abs. 2 genannten Tätigkeiten ausübt.
 
-
-## § 41 – Vergünstigung für Angehörige bestimmter Staaten
+# § 41 – Vergünstigung für Angehörige bestimmter Staaten
 
 (1) Staatsangehörige von Australien, Israel, Japan, Kanada, der Republik Korea, von Neuseeland, des Vereinigten Königreichs Großbritannien und Nordirland im Sinne des § 1 Absatz 2 Nummer 6 des Freizügigkeitsgesetzes/EU und der Vereinigten Staaten von Amerika können auch für einen Aufenthalt, der kein Kurzaufenthalt ist, visumfrei in das Bundesgebiet einreisen und sich darin aufhalten. Ein erforderlicher Aufenthaltstitel kann im Bundesgebiet eingeholt werden.
 
@@ -1342,13 +1288,11 @@ Staatsangehörige der in Anhang II der Verordnung (EU) 2018/1806 aufgeführten S
 
 (4) Die Absätze 1 bis 3 gelten nicht, wenn eine ICT-Karte nach § 19 des Aufenthaltsgesetzes beantragt wird.
 
-
-## § 42 – Antragstellung auf Verlegung des Wohnsitzes
+# § 42 – Antragstellung auf Verlegung des Wohnsitzes
 
 Ein Ausländer, der auf Grund eines Beschlusses des Rates der Europäischen Union gemäß der Richtlinie 2001/ 55/EG des Rates vom 20. Juli 2001 über Mindestnormen für die Gewährung vorübergehenden Schutzes im Falle eines Massenzustroms von Vertriebenen und Maßnahmen zur Förderung einer ausgewogenen Verteilung der Belastungen, die mit der Aufnahme dieser Personen und den Folgen dieser Aufnahme verbunden sind, auf die Mitgliedstaaten (ABl. EG Nr. L 212 S. 12) nach § 24 Abs. 1 des Aufenthaltsgesetzes im Bundesgebiet aufgenommen wurde, kann bei der zuständigen Ausländerbehörde einen Antrag auf die Verlegung seines Wohnsitzes in einen anderen Mitgliedstaat der Europäischen Union stellen. Die Ausländerbehörde leitet den Antrag an das Bundesamt für Migration und Flüchtlinge weiter. Dieses unterrichtet den anderen Mitgliedstaat, die Europäische Kommission und den Hohen Flüchtlingskommissar der Vereinten Nationen über den gestellten Antrag.
 
-
-## § 43 – Verfahren bei Zustimmung des anderen Mitgliedstaates zur Wohnsitzverlegung
+# § 43 – Verfahren bei Zustimmung des anderen Mitgliedstaates zur Wohnsitzverlegung
 
 (1) Sobald der andere Mitgliedstaat sein Einverständnis mit der beantragten Wohnsitzverlegung erklärt hat, teilt das Bundesamt für Migration und Flüchtlinge unverzüglich der zuständigen Ausländerbehörde mit,
 
@@ -1358,8 +1302,7 @@ Ein Ausländer, der auf Grund eines Beschlusses des Rates der Europäischen Unio
 
 (2) Die Ausländerbehörde legt nach Anhörung des aufgenommenen Ausländers einen Zeitpunkt für die Ausreise fest und teilt diesen dem Bundesamt für Migration und Flüchtlinge mit. Dieses unterrichtet den anderen Mitgliedstaat über die Einzelheiten der Ausreise und stellt dem Ausländer die hierfür vorgesehene Bescheinigung über die Wohnsitzverlegung aus, die der zuständigen Ausländerbehörde zur Aushändigung an den Ausländer übersandt wird.
 
-
-## § 44 – Gebühren für die Niederlassungserlaubnis
+# § 44 – Gebühren für die Niederlassungserlaubnis
 
 An Gebühren sind zu erheben  
   
@@ -1370,13 +1313,11 @@ An Gebühren sind zu erheben
 | 2\. | für die Erteilung einer Niederlassungserlaubnis zur Ausübung einer selbständigen Tätigkeit (§ 21 Abs. 4 des Aufenthaltsgesetzes) | 124 Euro, |
 | 3\. | für die Erteilung einer Niederlassungserlaubnis in allen übrigen Fällen                                                          | 113 Euro. |
 
-
-## § 44a – Gebühren für die Erlaubnis zum Daueraufenthalt – EU
+# § 44a – Gebühren für die Erlaubnis zum Daueraufenthalt – EU
 
 An Gebühren sind zu erheben 109 Euro.
 
-
-## § 45 – Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte
+# § 45 – Gebühren für die Aufenthaltserlaubnis, die Blaue Karte EU, die ICT-Karte und die Mobiler-ICT-Karte
 
 An Gebühren sind zu erheben  
   
@@ -1443,8 +1384,7 @@ für die Verlängerung einer Mobiler-ICT-Karte
 
 70 Euro.
 
-
-## § 45a – Gebühren für den elektronischen Identitätsnachweis
+# § 45a – Gebühren für den elektronischen Identitätsnachweis
 
 (1) Für die Einschaltung des elektronischen Identitätsnachweises in einem Dokument nach § 78 des Aufenthaltsgesetzes ist eine Gebühr von 6 Euro zu erheben. Dies gilt nicht, wenn der elektronische Identitätsnachweis bei Aushändigung des Dokuments erstmals eingeschaltet wird.
 
@@ -1462,15 +1402,13 @@ für die Verlängerung einer Mobiler-ICT-Karte
 
 4. die Änderung der Anschrift im elektronischen Speicher- und Verarbeitungsmedium sowie das Aufbringen eines Aufklebers zur Anschriftenänderung.
 
-
-## § 45b – Gebühren für Aufenthaltstitel in Ausnahmefällen
+# § 45b – Gebühren für Aufenthaltstitel in Ausnahmefällen
 
 (1) Für die Ausstellung eines Aufenthaltstitels in den Fällen des § 78a Absatz 1 Satz 1 Nummer 1 des Aufenthaltsgesetzes ist eine Gebühr in Höhe von 50 Euro zu erheben.
 
 (2) Für die Ausstellung eines Aufenthaltstitels in den Fällen des § 78a Absatz 1 Satz 1 Nummer 2 des Aufenthaltsgesetzes ermäßigt sich die nach den §§ 44, 44a oder § 45 zu erhebende Gebühr um 44 Euro.
 
-
-## § 45c – Gebühr bei Neuausstellung
+# § 45c – Gebühr bei Neuausstellung
 
 (1) Für die Neuausstellung eines Dokuments nach § 78 Absatz 1 des Aufenthaltsgesetzes beträgt die Gebühr 67 Euro, wenn die Neuausstellung notwendig wird auf Grund
 
@@ -1486,8 +1424,7 @@ für die Verlängerung einer Mobiler-ICT-Karte
 
 (2) Die Gebühr nach Absatz 1 Nummer 4 entfällt, wenn der Ausländer den Defekt nicht durch einen unsachgemäßen Gebrauch oder eine unsachgemäße Verwendung herbeigeführt hat.
 
-
-## § 46 – Gebühren für das Visum
+# § 46 – Gebühren für das Visum
 
 (1) Die Erhebung von Gebühren für die Erteilung und Verlängerung von Schengen-Visa und Flughafentransitvisa richtet sich nach der Verordnung (EG) Nr. 810/2009. Ehegatten, Lebenspartner und minderjährige ledige Kinder Deutscher sowie die Eltern minderjähriger Deutscher sind von den Gebühren befreit.
 
@@ -1507,8 +1444,7 @@ hinaus als nationales Visum<br />
 (§ 6 Absatz 2 des<br />
 Aufenthaltsgesetzes)</td><td style="text-align: right;">60 Euro.</td></tr></tbody></table>
 
-
-## § 47 – Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
+# § 47 – Gebühren für sonstige aufenthaltsrechtliche Amtshandlungen
 
 (1) An Gebühren sind zu erheben  
   
@@ -1635,8 +1571,7 @@ für die Durchführung des beschleunigten Fachkräfteverfahrens nach § 81a des 
 
 noch nicht 24 Jahre alt ist, beträgt die Gebühr jeweils die Höhe, die für die Ausstellung von Personalausweisen an Deutsche dieses Alters erhoben wird. Die Gebühren nach Satz 1 oder Satz 2 sind auch zu erheben, wenn eine Neuausstellung der Aufenthaltskarte oder Daueraufenthaltskarte oder des Aufenthaltsdokuments-GB oder des Aufenthaltsdokuments für Grenzgänger-GB aus den in § 45c Absatz 1 genannten Gründen notwendig wird; § 45c Absatz 2 gilt entsprechend. Für die Ausstellung einer Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 des Freizügigkeitsgesetzes/EU) ist eine Gebühr in Höhe von 10 Euro zu erheben.
 
-
-## § 48 – Gebühren für pass- und ausweisrechtliche Maßnahmen
+# § 48 – Gebühren für pass- und ausweisrechtliche Maßnahmen
 
 (1) An Gebühren sind zu erheben  
 
@@ -1809,8 +1744,7 @@ Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, §
 
 3. für die Eintragung eines Vermerks über die Eheschließung in einem Reiseausweis für Ausländer, einem Reiseausweis für Flüchtlinge oder einem Reiseausweis für Staatenlose.
 
-
-## § 49 – Bearbeitungsgebühren
+# § 49 – Bearbeitungsgebühren
 
 (1) Für die Bearbeitung eines Antrages auf Erteilung einer Niederlassungserlaubnis und einer Erlaubnis zum Daueraufenthalt – EU sind Gebühren in Höhe der Hälfte der in den §§ 44, 44a und 52a Absatz 2 Nummer 1 jeweils bestimmten Gebühr zu erheben.
 
@@ -1824,15 +1758,13 @@ Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, §
 
 (4) Geht die örtliche Zuständigkeit nach Erhebung der Bearbeitungsgebühr auf eine andere Behörde über, verbleibt die Bearbeitungsgebühr bei der Behörde, die sie erhoben hat. In diesem Fall erhebt die nunmehr örtlich zuständige Behörde keine Bearbeitungsgebühr.
 
-
-## § 50 – Gebühren für Amtshandlungen zugunsten Minderjähriger
+# § 50 – Gebühren für Amtshandlungen zugunsten Minderjähriger
 
 (1) Für individuell zurechenbare öffentliche Leistungen zugunsten Minderjähriger und die Bearbeitung von Anträgen Minderjähriger sind Gebühren in Höhe der Hälfte der in den §§ 44, 45, 45a, 45b, 45c, 46 Absatz 2, § 47 Absatz 1, § 48 Abs. 1 Satz 1 Nr. 3 bis 14 und § 49 Abs. 1 und 2 bestimmten Gebühren zu erheben. Die Gebühr für die Erteilung der Niederlassungserlaubnis nach § 35 Abs. 1 Satz 1 des Aufenthaltsgesetzes beträgt 55 Euro.
 
 (2) Für die Verlängerung eines vorläufigen Reiseausweises für Ausländer, für Flüchtlinge oder für Staatenlose an Kinder bis zum vollendeten zwölften Lebensjahr sind jeweils 6 Euro an Gebühren zu erheben.
 
-
-## § 51 – Widerspruchsgebühr
+# § 51 – Widerspruchsgebühr
 
 (1) An Gebühren sind zu erheben für den Widerspruch gegen  
 
@@ -1855,8 +1787,7 @@ Wird der Notreiseausweis zusammen mit dem Passierschein (§ 23 Abs. 2 Satz 3, §
 
 (3) § 49 Abs. 3 gilt entsprechend.
 
-
-## § 52 – Befreiungen und Ermäßigungen
+# § 52 – Befreiungen und Ermäßigungen
 
 (1) Ehegatten, Lebenspartner und minderjährige ledige Kinder Deutscher sowie die Eltern minderjähriger Deutscher sind von den Gebühren für die Erteilung eines nationalen Visums befreit.
 
@@ -1906,8 +1837,7 @@ befreit. Satz 1 Nr. 1 gilt auch für die Ehegatten oder Lebenspartner und minder
 
 (8) Schüler, Studenten, postgraduierte Studenten und begleitende Lehrer im Rahmen einer Reise zu Studien- oder Ausbildungszwecken und Forscher aus Drittstaaten im Sinne der Empfehlung 2005/761/EG des Europäischen Parlaments und des Rates vom 28. September 2005 zur Erleichterung der Ausstellung einheitlicher Visa durch die Mitgliedstaaten für den kurzfristigen Aufenthalt an Forscher aus Drittstaaten, die sich zu Forschungszwecken innerhalb der Gemeinschaft bewegen (ABl. EU Nr. L 289 S. 23), sind von den Gebühren nach § 46 Nr. 1 und 2 befreit.
 
-
-## § 52a – Befreiung und Ermäßigung bei Assoziationsberechtigung
+# § 52a – Befreiung und Ermäßigung bei Assoziationsberechtigung
 
 (1) Assoziationsberechtigte im Sinne dieser Vorschrift sind Ausländer, für die das Assoziationsrecht EU-Türkei auf Grund des Abkommens vom 12. September 1963 zur Gründung einer Assoziation zwischen der Europäischen Wirtschaftsgemeinschaft und der Türkei (BGBl. 1964 II S. 509, 510) Anwendung findet.
 
@@ -1941,8 +1871,7 @@ oder mit § 44a</td><td style="text-align: right;">8 Euro.</td></tr></tbody></ta
 
 4. von der nach § 48 Absatz 1 Satz 1 Nummer 13 und 14 jeweils zu erhebenden Gebühr, soweit sie sich auf die Änderung oder Umschreibung der in § 48 Absatz 1 Satz 1 Nummer 3, 4, 8 und 10 bis 12 genannten Dokumente bezieht.
 
-
-## § 53 – Befreiung und Ermäßigung aus Billigkeitsgründen
+# § 53 – Befreiung und Ermäßigung aus Billigkeitsgründen
 
 (1) Ausländer, die ihren Lebensunterhalt nicht ohne Inanspruchnahme von Leistungen nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch oder dem Asylbewerberleistungsgesetz bestreiten können, sind von den Gebühren nach
 
@@ -1970,13 +1899,11 @@ befreit; sonstige Gebühren können ermäßigt oder von ihrer Erhebung kann abge
 
 (2) Gebühren können ermäßigt oder von ihrer Erhebung kann abgesehen werden, wenn es mit Rücksicht auf die wirtschaftlichen Verhältnisse des Gebührenpflichtigen in Deutschland geboten ist.
 
-
-## § 54 – Zwischenstaatliche Vereinbarungen
+# § 54 – Zwischenstaatliche Vereinbarungen
 
 Zwischenstaatliche Vereinbarungen über die Befreiung oder die Höhe von Gebühren werden durch die Regelungen in diesem Kapitel nicht berührt.
 
-
-## § 55 – Ausweisersatz
+# § 55 – Ausweisersatz
 
 (1) Einem Ausländer,
 
@@ -1990,8 +1917,7 @@ wird auf Antrag ein Ausweisersatz (§ 48 Abs. 2 in Verbindung mit § 78 Absatz 1
 
 (3) Die Gültigkeitsdauer des Ausweisersatzes richtet sich nach der Gültigkeit des Aufenthaltstitels oder der Dauer der Aussetzung der Abschiebung, sofern keine kürzere Gültigkeitsdauer eingetragen ist.
 
-
-## § 56 – Ausweisrechtliche Pflichten
+# § 56 – Ausweisrechtliche Pflichten
 
 (1) Ein Ausländer, der sich im Bundesgebiet aufhält, ist verpflichtet,
 
@@ -2031,13 +1957,11 @@ wird auf Antrag ein Ausweisersatz (§ 48 Abs. 2 in Verbindung mit § 78 Absatz 1
 
 9. das eheliche oder Verwandtschaftsverhältnis zu der Person, von der er ein Aufenthaltsrecht ableitet.
 
-
-## § 57 – Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente
+# § 57 – Vorlagepflicht beim Vorhandensein mehrerer Ausweisdokumente
 
 Besitzt ein Ausländer mehr als einen Pass, Passersatz oder deutschen Ausweisersatz, so hat er der zuständigen Ausländerbehörde jedes dieser Papiere unverzüglich vorzulegen.
 
-
-## § 57a – Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 des Aufenthaltsgesetzes
+# § 57a – Pflichten der Inhaber von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 des Aufenthaltsgesetzes
 
 Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 4 des Aufenthaltsgesetzes als Dokument mit elektronischem Speicher- und Verarbeitungsmedium ausgestellt worden ist, ist verpflichtet, unverzüglich
 
@@ -2045,8 +1969,7 @@ Ein Ausländer, dem ein Aufenthaltstitel nach § 4 Absatz 1 Satz 2 Nummer 2 bis 
 
 2. nach Kenntnis vom Verlust der technischen Funktionsfähigkeit des elektronischen Speicher- und Verarbeitungsmediums der zuständigen Ausländerbehörde das Dokument vorzulegen und die Neuausstellung zu beantragen.
 
-
-## § 58 – Vordruckmuster
+# § 58 – Vordruckmuster
 
 Für die Ausstellung der Vordrucke sind als Vordruckmuster zu verwenden:
 
@@ -2098,8 +2021,7 @@ c) zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium (§
 
 Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapiere werden nicht verlängert.
 
-
-## § 59 – Muster der Aufenthaltstitel
+# § 59 – Muster der Aufenthaltstitel
 
 (1) Das Muster des Aufenthaltstitels nach § 4 Abs. 1 Satz 2 Nr. 1 des Aufenthaltsgesetzes (Visum) richtet sich nach der Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung (ABl. EG Nr. L 164 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 856/2008 (ABl. L 235 vom 2.9.2008, S. 1), in der jeweils geltenden Fassung. Es ist in Anlage D13a abgedruckt. Für die Verlängerung im Inland ist das in Anlage D13b abgedruckte Muster zu verwenden.
 
@@ -2127,8 +2049,7 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (8) Sofern die Ausländerbehörde auf Antrag des Inhabers feststellt, dass er ein Recht auf Daueraufenthalt nach Artikel 15 des Abkommens über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (ABl. L 29 vom 31.1.2020, S. 7) besitzt, wird dieses Recht auf Daueraufenthalt dadurch bescheinigt, dass die Ausländerbehörde das Wort „Daueraufenthalt“ in der zweiten Zeile des Anmerkungsfeldes 1 auf der Rückseite des Aufenthaltsdokuments-GB einträgt.
 
-
-## § 59a – Hinweis auf Gewährung internationalen Schutzes
+# § 59a – Hinweis auf Gewährung internationalen Schutzes
 
 (1) Wird einem Ausländer, dem in der Bundesrepublik Deutschland die Rechtsstellung eines international Schutzberechtigten im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes zuerkannt wurde, eine Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes erteilt, so ist in dem Feld für Anmerkungen folgender Hinweis aufzunehmen: „Durch DEU am \[Datum\] internationaler Schutz gewährt“.
 
@@ -2138,8 +2059,7 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (4) Ist der Ausländer im Besitz einer Erlaubnis zum Daueraufenthalt – EU nach § 9a des Aufenthaltsgesetzes und wird ihm in einem anderen Mitgliedstaat der Europäischen Union internationaler Schutz im Sinne von § 2 Absatz 13 des Aufenthaltsgesetzes gewährt, bevor er dort eine langfristige Aufenthaltsberechtigung – EU erhält, so ist durch die zuständige Ausländerbehörde in das Feld für Anmerkungen der Erlaubnis zum Daueraufenthalt – EU folgender Hinweis aufzunehmen: „Durch \[Abkürzung des Mitgliedstaates\] am \[Datum\] internationaler Schutz gewährt“. Die Aufnahme dieses Hinweises hat spätestens drei Monate nachdem ein entsprechendes Ersuchen der zuständigen Stelle des anderen Mitgliedstaates beim Bundesamt für Migration und Flüchtlinge eingegangen ist zu erfolgen.
 
-
-## § 60 – Lichtbild
+# § 60 – Lichtbild
 
 (1) Lichtbilder müssen den in § 5 der Passverordnung vom 19. Oktober 2007 in der jeweils geltenden Fassung festgelegten Anforderungen entsprechen und den Ausländer zweifelsfrei erkennen lassen. Sie müssen die Person ohne Gesichts- und Kopfbedeckung zeigen. Die zuständige Behörde kann hinsichtlich der Kopfbedeckung Ausnahmen zulassen oder anordnen, sofern gewährleistet ist, dass die Person hinreichend identifiziert werden kann.
 
@@ -2147,22 +2067,19 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (3) Das Lichtbild darf von den zuständigen Behörden zum Zweck des Einbringens in ein Dokument nach § 58 oder § 59 und zum späteren Abgleich mit dem tatsächlichen Aussehen des Dokumenteninhabers verarbeitet werden.
 
-
-## § 61 – Sicherheitsstandard, Ausstellungstechnik
+# § 61 – Sicherheitsstandard, Ausstellungstechnik
 
 (1) Die produktions- und sicherheitstechnischen Spezifikationen für die nach dieser Verordnung bestimmten Vordruckmuster werden vom Bundesministerium des Innern, für Bau und Heimat festgelegt. Sie werden nicht veröffentlicht.
 
 (2) Einzelheiten zum technischen Verfahren für das Ausfüllen der bundeseinheitlichen Vordrucke werden vom Bundesministerium des Innern, für Bau und Heimat festgelegt und bekannt gemacht.
 
-
-## § 61a – Fingerabdruckerfassung bei der Beantragung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium
+# § 61a – Fingerabdruckerfassung bei der Beantragung von Dokumenten mit elektronischem Speicher- und Verarbeitungsmedium
 
 (1) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken und rechten Zeigefingers des Antragstellers im elektronischen Speicher- und Verarbeitungsmedium des Dokuments gespeichert. Bei Fehlen eines Zeigefingers, ungenügender Qualität des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdrücke sind nicht zu speichern, wenn die Abnahme der Fingerabdrücke aus medizinischen Gründen, die nicht nur vorübergehender Art sind, unmöglich ist.
 
 (2) Auf Verlangen hat die Ausländerbehörde dem Dokumenteninhaber Einsicht in die im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten zu gewähren. Die bei der Ausländerbehörde gespeicherten Fingerabdrücke sind spätestens nach Aushändigung des Dokuments zu löschen.
 
-
-## § 61b – Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung
+# § 61b – Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung
 
 (1) Die Ausländerbehörde hat durch technische und organisatorische Maßnahmen die erforderliche Qualität der Erfassung des Lichtbildes und der Fingerabdrücke sicherzustellen.
 
@@ -2182,8 +2099,7 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (7) Die Absätze 4 bis 6 sowie § 4 Absatz 3 Satz 2 und 3 und § 61a Absatz 2 Satz 2 gelten entsprechend für alle übrigen, durch deutsche Behörden ausgestellten Passersatzpapiere für Ausländer.
 
-
-## § 61c – Übermittlung der Daten an den Dokumentenhersteller
+# § 61c – Übermittlung der Daten an den Dokumentenhersteller
 
 (1) Nach der Erfassung werden sämtliche Antragsdaten in den Ausländerbehörden zu einem digitalen Datensatz zusammengeführt und an den Dokumentenhersteller übermittelt. Die Datenübermittlung umfasst auch die Qualitätswerte zu den erhobenen Fingerabdrücken und – soweit vorhanden – zu den Lichtbildern, die Behördenkennzahl, die Versionsnummern der Qualitätssicherungssoftware und der Qualitätssollwerte, den Zeitstempel des Antrags sowie die Speichergröße der biometrischen Daten. Die Datenübermittlung erfolgt durch elektronische Datenübertragung über verwaltungseigene Kommunikationsnetze oder über das Internet. Sie erfolgt unmittelbar zwischen Ausländerbehörde und Dokumentenhersteller oder über Vermittlungsstellen. Die zu übermittelnden Daten sind mittels geeigneter technischer und organisatorischer Maßnahmen nach Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 elektronisch zu signieren und zu verschlüsseln.
 
@@ -2193,20 +2109,17 @@ Die nach den Mustern in den Anlagen D4c, D7a, D8a ausgestellten Passersatzpapier
 
 (4) Soweit die Datenübermittlung über Vermittlungsstellen erfolgt, finden die Absätze 1 bis 3 auf die Datenübermittlung zwischen Vermittlungsstelle und Dokumentenhersteller entsprechende Anwendung. Die Datenübermittlung zwischen Ausländerbehörde und Vermittlungsstelle muss hinsichtlich Datensicherheit und Datenschutz ein den in Absatz 1 Satz 5 genannten Anforderungen entsprechendes Niveau aufweisen. Die Anforderungen an das Verfahren zur Datenübermittlung zwischen Ausländerbehörde und Vermittlungsstelle richten sich nach dem jeweiligen Landesrecht.
 
-
-## § 61d – Nachweis der Erfüllung der Anforderungen
+# § 61d – Nachweis der Erfüllung der Anforderungen
 
 (1) Die Einhaltung der Anforderungen nach den Technischen Richtlinien ist vom Bundesamt für Sicherheit in der Informationstechnik vor dem Einsatz der Systeme und Bestandteile festzustellen (Konformitätsbescheid). Hersteller und Lieferanten von technischen Systemen und Bestandteilen, die in den Ausländerbehörden zum Einsatz bei den in § 61b Absatz 1 und 2 geregelten Verfahren bestimmt sind, beantragen spätestens drei Monate vor der voraussichtlichen Inbetriebnahme beim Bundesamt für Sicherheit in der Informationstechnik einen Konformitätsbescheid nach Satz 1.
 
 (2) Die Prüfung der Konformität erfolgt durch eine vom Bundesamt für Sicherheit in der Informationstechnik anerkannte und für das Verfahren nach dieser Vorschrift speziell autorisierte Prüfstelle. Die Prüfstelle dokumentiert Ablauf und Ergebnis der Prüfung in einem Prüfbericht. Das Bundesamt für Sicherheit in der Informationstechnik stellt auf Grundlage des Prüfberichtes einen Konformitätsbescheid aus. Die Kosten des Verfahrens, die sich nach der BSI-Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils gültigen Fassung richten, und die Kosten, die von der jeweiligen Prüfstelle erhoben werden, trägt der Antragsteller.
 
-
-## § 61e – Qualitätsstatistik
+# § 61e – Qualitätsstatistik
 
 Der Dokumentenhersteller erstellt eine Qualitätsstatistik. Sie enthält anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die sowohl in der Ausländerbehörde als auch beim Dokumentenhersteller ermittelt und vom Dokumentenhersteller ausgewertet werden. Der Dokumentenhersteller stellt die Ergebnisse der Auswertung dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesamt für Sicherheit in der Informationstechnik zur Verfügung. Die Einzelheiten der Auswertung der Statistikdaten bestimmen sich nach den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik hinsichtlich der Vorgaben zur zentralen Qualitätssicherungsstatistik.
 
-
-## § 61f – Automatischer Abruf aus Dateisystemen und automatische Speicherung im öffentlichen Bereich
+# § 61f – Automatischer Abruf aus Dateisystemen und automatische Speicherung im öffentlichen Bereich
 
 (1) Behörden und sonstige öffentliche Stellen dürfen Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nicht zum automatischen Abruf personenbezogener Daten verwenden. Abweichend von Satz 1 dürfen die Polizeibehörden und -dienststellen des Bundes und der Länder sowie, soweit sie Aufgaben der Grenzkontrolle wahrnehmen, die Zollbehörden Dokumente mit elektronischem Speicher- und Verarbeitungsmedium im Rahmen ihrer Aufgaben und Befugnisse zum automatischen Abruf personenbezogener Daten verwenden, die für Zwecke
 
@@ -2218,8 +2131,7 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 (2) Personenbezogene Daten dürfen, soweit gesetzlich nichts anderes bestimmt ist, beim automatischen Lesen des Dokuments mit elektronischem Speicher- und Verarbeitungsmedium nicht in Dateisystemen gespeichert werden; dies gilt auch für Abrufe aus dem polizeilichen Fahndungsbestand, die zu einer Feststellung geführt haben.
 
-
-## § 61g – Verwendung im nichtöffentlichen Bereich
+# § 61g – Verwendung im nichtöffentlichen Bereich
 
 (1) Das Passersatzpapier kann auch im nichtöffentlichen Bereich als Ausweis und Legitimationspapier benutzt werden.
 
@@ -2229,20 +2141,17 @@ im polizeilichen Fahndungsbestand geführt werden. Über Abrufe, die zu keiner F
 
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der maschinenlesbaren Zone des Passersatzes elektronisch nur verarbeiten, soweit sie auf Grund internationaler Abkommen oder Einreisebestimmungen zur Mitwirkung an Kontrolltätigkeiten im internationalen Reiseverkehr und zur Übermittlung personenbezogener Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen werden. Die Daten sind unverzüglich zu löschen, wenn sie für die Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
-
-## § 61h – Anwendung der Personalausweisverordnung
+# § 61h – Anwendung der Personalausweisverordnung
 
 (1) Hinsichtlich des elektronischen Identitätsnachweises gemäß § 78 Absatz 5 des Aufenthaltsgesetzes sind die §§ 1 bis 4, 5 Absatz 2, 3 und 4 Satz 1 bis 4, die §§ 10, 13 bis 17, 18 Absatz 1, 2 und 4, die §§ 20, 21, 22 Absatz 1 Satz 1, Absatz 2 Satz 1 und 4, Absatz 3, die §§ 23, 24, 25 Absatz 1, 2 Satz 1, Absatz 3, § 26 Absatz 1 und 3 sowie die §§ 27 bis 36 der Personalausweisverordnung mit der Maßgabe entsprechend anzuwenden, dass die Ausländerbehörde an die Stelle der Personalausweisbehörde tritt.
 
 (2) Die Nutzung des elektronischen Identitätsnachweises ist ausgeschlossen, wenn die Identität des Ausländers durch die Ausländerbehörde nicht zweifelsfrei festgestellt ist.
 
-
-## § 62 – Dateisystemführungspflicht der Ausländerbehörden
+# § 62 – Dateisystemführungspflicht der Ausländerbehörden
 
 Die Ausländerbehörden führen zwei Dateisysteme unter den Bezeichnungen "Ausländerdatei A" und "Ausländerdatei B".
 
-
-## § 63 – Ausländerdatei A
+# § 63 – Ausländerdatei A
 
 (1) In die Ausländerdatei A werden die Daten eines Ausländers aufgenommen,
 
@@ -2258,8 +2167,7 @@ b) einen Asylantrag einreicht,
 
 (2) Die Daten sind unverzüglich in dem Dateisystem zu speichern, sobald die Ausländerbehörde mit dem Ausländer befasst wird oder ihr eine Mitteilung über den Ausländer zugeht.
 
-
-## § 64 – Datensatz der Ausländerdatei A
+# § 64 – Datensatz der Ausländerdatei A
 
 (1) In die Ausländerdatei A sind über jeden Ausländer, der in dem Dateisystem geführt wird, folgende Daten aufzunehmen:
 
@@ -2289,8 +2197,7 @@ b) einen Asylantrag einreicht,
 
 (3) Die Ausländerbehörde kann den Datensatz auf die in Absatz 1 genannten Daten beschränken und für die in Absatz 2 genannten Daten jeweils einen zusätzlichen Datensatz nach Maßgabe des Absatzes 1 einrichten.
 
-
-## § 65 – Erweiterter Datensatz
+# § 65 – Erweiterter Datensatz
 
 In die Ausländerdatei A sollen, soweit die dafür erforderlichen technischen Einrichtungen bei der Ausländerbehörde vorhanden sind, zusätzlich zu den in § 64 genannten Daten folgende Daten aufgenommen werden:
 
@@ -2300,8 +2207,7 @@ In die Ausländerdatei A sollen, soweit die dafür erforderlichen technischen Ei
 
 3. frühere Anschriften und Auszugsdatum,
 
-3a.  
-die Identifikationsnummer nach dem Identifikationsnummerngesetz,
+3a. die Identifikationsnummer nach dem Identifikationsnummerngesetz,
 
 4. Ausländerzentralregister-Nummer,
 
@@ -2377,13 +2283,11 @@ z) Zustimmung der Bundesagentur für Arbeit nach § 39 des Aufenthaltsgesetzes m
 
 10. Geschäftszeichen des Bundesverwaltungsamtes für Meldungen zu einer laufenden Beteiligungsanfrage oder einem Nachberichtsfall (BVA-Verfahrensnummer).
 
-
-## § 66 – Dateisystem über Passersatzpapiere
+# § 66 – Dateisystem über Passersatzpapiere
 
 Über die ausgestellten Reiseausweise für Ausländer, Reiseausweise für Flüchtlinge, Reiseausweise für Staatenlose und Notreiseausweise hat die ausstellende Behörde oder Dienststelle ein Dateisystem zu führen. Die Vorschriften über das Passregister für deutsche Pässe gelten entsprechend.
 
-
-## § 67 – Ausländerdatei B
+# § 67 – Ausländerdatei B
 
 (1) Die nach § 64 in die Ausländerdatei A aufgenommenen Daten sind in die Ausländerdatei B zu übernehmen, wenn der Ausländer
 
@@ -2397,15 +2301,13 @@ z) Zustimmung der Bundesagentur für Arbeit nach § 39 des Aufenthaltsgesetzes m
 
 (3) Im Fall des Absatzes 1 Nr. 2 können auch die in § 65 genannten Daten in die Ausländerdatei B übernommen werden.
 
-
-## § 68 – Löschung
+# § 68 – Löschung
 
 (1) In der Ausländerdatei A sind die Daten eines Ausländers zu löschen, wenn sie nach § 67 Abs. 1 in die Ausländerdatei B übernommen werden. Die nur aus Anlass der Zustimmung zur Visumerteilung aufgenommenen Daten eines Ausländers sind zu löschen, wenn der Ausländer nicht innerhalb von zwei Jahren nach Ablauf der Geltungsdauer der Zustimmung eingereist ist.
 
 (2) Die Daten eines Ausländers, der ausgewiesen, zurückgeschoben oder abgeschoben wurde, sind in der Ausländerdatei B zu löschen, wenn die Unterlagen über die Ausweisung und die Abschiebung nach § 91 Abs. 1 des Aufenthaltsgesetzes zu vernichten sind. Im Übrigen sind die Daten eines Ausländers in der Ausländerdatei B zehn Jahre nach Übernahme der Daten zu löschen. Im Fall des § 67 Absatz 1 Nummer 1 und 3 sollen die Daten fünf Jahre nach Übernahme des Datensatzes gelöscht werden.
 
-
-## § 69 – Visadateien der Auslandsvertretungen
+# § 69 – Visadateien der Auslandsvertretungen
 
 (1) Jede Auslandsvertretung, die mit Visumangelegenheiten betraut ist, führt ein Dateisystem über Visumanträge, die Rücknahme von Visumanträgen und die Erteilung, Versagung, Rücknahme, Annullierung und Aufhebung sowie den Widerruf von Visa.
 
@@ -2543,13 +2445,11 @@ Die nach Absatz 2 Nummer 3 Buchstabe d und e gespeicherten Daten sind unverzügl
 
 (4) Die Auslandsvertretungen, das Auswärtige Amt und das Bundesamt für Auswärtige Angelegenheiten dürfen die in den Visadateien gespeicherten Daten einander übermitteln, soweit dies für die Erfüllung der gesetzlichen Aufgaben der Auslandsvertretungen, des Auswärtigen Amts oder des Bundesamts für Auswärtige Angelegenheiten erforderlich ist.
 
-
-## § 70 – (weggefallen)
+# § 70 – (weggefallen)
 
 \-
 
-
-## § 71 – Übermittlungspflicht
+# § 71 – Übermittlungspflicht
 
 (1) Die
 
@@ -2587,8 +2487,7 @@ sind unbeschadet der Mitteilungspflichten nach § 87 Abs. 2, 4 und 5 des Aufenth
 
 8. zum Zweck der eindeutigen Zuordnung die AZR-Nummer in den Fällen und nach Maßgabe des § 10 Absatz 4 Satz 2 Nummer 4 des AZR-Gesetzes.
 
-
-## § 72 – Mitteilungen der Meldebehörden
+# § 72 – Mitteilungen der Meldebehörden
 
 (1) Die Meldebehörden teilen den Ausländerbehörden mit
 
@@ -2648,8 +2547,7 @@ b) das Einzugsdatum,
 
 der Tag der Eheschließung oder der Begründung der Lebenspartnerschaft sowie
 
-4a.  
-bei einer Scheidung, Nichtigerklärung oder Aufhebung einer Ehe oder bei einer Aufhebung der Lebenspartnerschaft
+4a. bei einer Scheidung, Nichtigerklärung oder Aufhebung einer Ehe oder bei einer Aufhebung der Lebenspartnerschaft
 
 der Tag und Grund der Beendigung der Ehe oder der Lebenspartnerschaft,
 
@@ -2679,15 +2577,13 @@ der Sterbetag,
 
 die Auskunftssperre und deren Wegfall.
 
-
-## § 72a – Mitteilungen der Pass- und Ausweisbehörden
+# § 72a – Mitteilungen der Pass- und Ausweisbehörden
 
 (1) Die Passbehörden teilen den Ausländerbehörden die Einziehung eines Passes nach § 12 Abs. 1 in Verbindung mit § 11 Absatz 1 Nr. 2 des Passgesetzes wegen des Verlustes der deutschen Staatsangehörigkeit mit.
 
 (2) Die Ausweisbehörden teilen den Ausländerbehörden die Einziehung eines Personalausweises nach dem Personalausweisgesetz wegen des Verlustes der deutschen Staatsangehörigkeit mit.
 
-
-## § 73 – Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes
+# § 73 – Mitteilungen der Staatsangehörigkeits- und Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes
 
 (1) Die Staatsangehörigkeitsbehörden teilen den Ausländerbehörden mit
 
@@ -2703,8 +2599,7 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 
 (2) Die Bescheinigungsbehörden nach § 15 des Bundesvertriebenengesetzes teilen den Ausländerbehörden die Ablehnung der Ausstellung einer Bescheinigung nach § 15 Abs. 1 oder 2 des Bundesvertriebenengesetzes mit.
 
-
-## § 74 – Mitteilungen der Justizbehörden
+# § 74 – Mitteilungen der Justizbehörden
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -2720,13 +2615,11 @@ Die Mitteilung nach Satz 1 Nr. 2 entfällt bei Personen, die mit einem Aufnahmeb
 
 3. die vorgesehenen und festgesetzten Termine für die Entlassung aus der Haft.
 
-
-## § 75 – (weggefallen)
+# § 75 – (weggefallen)
 
 \-
 
-
-## § 76 – Mitteilungen der Gewerbebehörden
+# § 76 – Mitteilungen der Gewerbebehörden
 
 Die für die Gewerbeüberwachung zuständigen Behörden teilen den Ausländerbehörden mit
 
@@ -2738,15 +2631,13 @@ Die für die Gewerbeüberwachung zuständigen Behörden teilen den Ausländerbeh
 
 4. die Untersagung der Ausübung eines Gewerbes sowie die Untersagung der Tätigkeit als Vertretungsberechtigter eines Gewerbetreibenden oder als mit der Leitung eines Gewerbebetriebes beauftragte Person.
 
-
-## § 76a – Form und Verfahren der Datenübermittlung im Ausländerwesen
+# § 76a – Form und Verfahren der Datenübermittlung im Ausländerwesen
 
 (1) Für die Datenübermittlung zwischen den mit der Ausführung des Aufenthaltsgesetzes beauftragten Behörden werden der Datenübermittlungsstandard „XAusländer“ und das Übermittlungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung verwendet. Die Möglichkeiten des OSCI-Standards zur sicheren Verschlüsselung und Signatur sind bei der Übertragung zu nutzen.
 
 (2) Absatz 1 ist auf die Datenübermittlung über Vermittlungsstellen entsprechend anzuwenden. Erfolgt die Datenübermittlung zwischen den mit der Ausführung des Aufenthaltsgesetzes beauftragten Behörden über Vermittlungsstellen in verwaltungseigenen Kommunikationsnetzen, kann auch ein dem jeweiligen Landesrecht entsprechendes vom OSCI-Transport abweichendes Übermittlungsprotokoll eingesetzt werden, soweit dies hinsichtlich der Datensicherheit und des Datenschutzes ein den genannten Anforderungen entsprechendes Niveau aufweist. Die Gleichwertigkeit ist durch den Verantwortlichen zu dokumentieren.
 
-
-## § 76b – Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+# § 76b – Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
 (1) Die nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes zuständigen Behörden haben das Folgende dem Stand der Technik entsprechend zu gewährleisten:
 
@@ -2756,8 +2647,7 @@ Die für die Gewerbeüberwachung zuständigen Behörden teilen den Ausländerbeh
 
 (2) Die Einhaltung des Stands der Technik wird vermutet, wenn nach der Technischen Richtlinie BSI-TR-03121 – Biometrics for Public Sector Applications – des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung verfahren wurde, die im Bundesanzeiger bekannt gemacht worden ist.
 
-
-## § 76c – Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten
+# § 76c – Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten
 
 (1) Die nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes zuständigen Behörden stellen durch geeignete technische und organisatorische Maßnahmen die erforderliche Qualität der Erfassung und Verarbeitung des Lichtbildes und der Fingerabdruckdaten, insbesondere die Einhaltung der in § 76b genannten technischen Anforderungen, sicher. Dazu haben sie das Lichtbild und die Fingerabdruckdaten mit einer zertifizierten Qualitätssicherungssoftware zu prüfen. Darüber hinaus hat auch die Erfassung der Fingerabdruckdaten mit zertifizierter Hardware zu erfolgen. Soweit die Technischen Richtlinien eine Zertifizierung der zur Erfassung und Überprüfungen erforderlichen Komponenten vorsieht, gilt dieses Erfordernis für folgende Systemkomponenten:
 
@@ -2775,8 +2665,7 @@ Bis zum 30. Juni 2020 ist die Nutzung nicht zertifizierter Geräte zur Erfassung
 
 (3) Das Bundesverwaltungsamt stellt die Ergebnisse der Qualitätsstatistik und auf Ersuchen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesamt für Sicherheit in der Informationstechnik und dem Bundeskriminalamt zur Verfügung.
 
-
-## § 77 – Ordnungswidrigkeiten
+# § 77 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 98 Abs. 3 Nr. 7 des Aufenthaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -2794,28 +2683,23 @@ Ordnungswidrig im Sinne des § 98 Abs. 3 Nr. 7 des Aufenthaltsgesetzes handelt, 
 
 6. entgegen § 57a Nummer 2 ein Dokument nicht oder nicht rechtzeitig vorlegt oder die Neuausstellung nicht oder nicht rechtzeitig beantragt.
 
-
-## § 78 – Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
+# § 78 – Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Abs. 2 des Aufenthaltsgesetzes, wenn sie bei der Einreise oder der Ausreise begangen werden, und nach § 98 Abs. 3 Nr. 3 des Aufenthaltsgesetzes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen, soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
 
-
-## § 79 – Anwendung auf Freizügigkeitsberechtigte
+# § 79 – Anwendung auf Freizügigkeitsberechtigte
 
 Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in den §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf Ausländer, deren Rechtsstellung durch das Freizügigkeitsgesetz/EU geregelt ist.
 
-
-## § 80 – Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster
+# § 80 – Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster
 
 Bis zum Ablauf des 31. Mai 2021 dürfen Fiktionsbescheinigungen, die nicht nach § 11 Absatz 4 des Freizügigkeitsgesetzes/EU in Verbindung mit § 81 Absatz 5 des Aufenthaltsgesetzes ausgestellt werden, auch mit Trägervordrucken nach dem Muster ausgestellt werden, das in dem bis zum 3. Dezember 2020 geltenden Recht vorgesehen war.
 
-
-## § 80a – Übergangsregelungen für britische Staatsangehörige im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+# § 80a – Übergangsregelungen für britische Staatsangehörige im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
 
 Britische Staatsangehörige im Sinne des § 1 Absatz 2 Nummer 6 des Freizügigkeitsgesetzes/EU, deren Recht auf Aufenthalt im Bundesgebiet nach dem Freizügigkeitsgesetz/EU am 31. Dezember 2020 endet und die kein Aufenthaltsrecht nach dem Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (ABl. L 29 vom 31.1.2020, S. 7) haben, sind ab dem 1. Januar 2021 bis zum 31. März 2021 vom Erfordernis eines Aufenthaltstitels befreit und können einen für den weiteren Aufenthalt in Deutschland erforderlichen Aufenthaltstitel bis zum 31. März 2021 im Bundesgebiet einholen. Eine im Bundesgebiet bis zum 31. Dezember 2020 ausgeübte Erwerbstätigkeit darf bis zur Entscheidung über den Antrag ohne den nach § 4a Absatz 1 Satz 1 des Aufenthaltsgesetzes erforderlichen Aufenthaltstitel weiterhin ausgeübt werden.
 
-
-## § 81 – Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
+# § 81 – Weitergeltung von nach bisherigem Recht ausgestellten Passersatzpapieren
 
 (1) Es behalten die auf Grund des zum Zeitpunkt der Ausstellung geltenden Rechts ausgestellten
 
@@ -2857,8 +2741,7 @@ für den jeweiligen Gültigkeitszeitraum ihre Geltung.
 
 (6) Andere als die in den Absätzen 1 und 2 genannten, von deutschen Behörden ausgestellten Passersatzpapiere verlieren nach Ablauf von einem Monat nach Inkrafttreten dieser Verordnung ihre Gültigkeit.
 
-
-## § 82 – Übergangsregelung zur Führung von Ausländerdateien
+# § 82 – Übergangsregelung zur Führung von Ausländerdateien
 
 (1) Bis zum 31. Dezember 2004 gespeicherte Angaben zu ausländerrechtlichen Maßnahmen und Entscheidungen bleiben auch nach Inkrafttreten des Aufenthaltsgesetzes und des Freizügigkeitsgesetzes/EU in der Ausländerdatei gespeichert. Nach dem Aufenthaltsgesetz und dem Freizügigkeitsgesetz/EU zulässige neue Maßnahmen und Entscheidungen sind erst zu speichern, wenn diese im Einzelfall getroffen werden.
 
@@ -2868,28 +2751,23 @@ für den jeweiligen Gültigkeitszeitraum ihre Geltung.
 
 (4) Die Ausländerbehörden sind verpflichtet, die nach Absatz 2 gespeicherten Daten spätestens am 31. Dezember 2005 auf die neuen Speichersachverhalte umzuschreiben.
 
-
-## § 82a – Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union
+# § 82a – Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthalts- und asylrechtlicher Richtlinien der Europäischen Union neu geschaffenen Speichersachverhalten werden in den Ausländerdateien gespeichert, sobald hierfür die informationstechnischen Voraussetzungen geschaffen worden sind, spätestens jedoch sechs Monate nach Inkrafttreten dieses Gesetzes. Soweit bis dahin die Angaben noch nicht gespeichert worden sind, sind die Ausländerbehörden verpflichtet, unverzüglich ihre Speicherung nachzuholen.
 
-
-## § 82b – Übergangsregelungzu § 31 Absatz 1 Satz 1 Nummer 1 und 2
+# § 82b – Übergangsregelungzu § 31 Absatz 1 Satz 1 Nummer 1 und 2
 
 Bis zur vollständigen Umsetzung des § 31 Absatz 1 Satz 1 Nummer 1 und 2 im automatisierten Visumverfahren des Bundesverwaltungsamtes, längstens jedoch bis zum 30. Juni 2013, können die Ausländerbehörden auch in den Fällen am Visumverfahren beteiligt werden, in denen auf Grund von § 31 Absatz 1 Satz 1 Nummer 1 und 2 in der Fassung vom 27. Februar 2013 (BGBl. I S. 351) ein Visum nicht der Zustimmung der Ausländerbehörde bedarf.
 
-
-## § 83 – Erfüllung ausweisrechtlicher Verpflichtungen
+# § 83 – Erfüllung ausweisrechtlicher Verpflichtungen
 
 Sofern die Voraussetzungen der Pflicht zur Vorlage nach § 57 zum Zeitpunkt des Inkrafttretens dieser Verordnung erfüllt sind, hat der Ausländer die genannten Papiere, die er zu diesem Zeitpunkt bereits besaß, nach dieser Vorschrift nur auf Verlangen der Ausländerbehörde oder dann vorzulegen, wenn er bei der Ausländerbehörde einen Aufenthaltstitel, eine Duldung oder einen deutschen Passersatz beantragt oder erhält oder eine Anzeige nach § 56 Nr. 5 erstattet. Auf Grund anderer Vorschriften bestehende Rechtspflichten bleiben unberührt.
 
-
-## § 84 – Beginn der Anerkennung von Forschungseinrichtungen
+# § 84 – Beginn der Anerkennung von Forschungseinrichtungen
 
 Anträge auf die Anerkennung von Forschungseinrichtungen werden ab dem 1. Dezember 2007 bearbeitet.
 
-
-## Anlage A – (zu § 16)
+# Anlage A – (zu § 16)
 
 1\.
 
@@ -3122,8 +3000,7 @@ Tschechische Republik, Ungarn
   
 nach Maßgabe des Europäischen Übereinkommens über die Aufhebung des Sichtvermerkszwangs für Flüchtlinge vom 20. April 1959 (BGBl. 1961 II S. 1097, 1098) sowie hinsichtlich der Inhaber von Reiseausweisen für Flüchtlinge der Schweiz auch nach Maßgabe des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge vom 4. Mai 1962 (BGBl.1962 II S. 2331, 2332).
 
-
-## Anlage B – (zu § 19)
+# Anlage B – (zu § 19)
 
 (Fundstelle: BGBl. I 2004, 2968;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3261,8 +3138,7 @@ Oman.
 
 8. Inhaber biometrischer Spezialpässe von Kuwait.
 
-
-## Anlage C – (zu § 26 Absatz 2 Satz 1)
+# Anlage C – (zu § 26 Absatz 2 Satz 1)
 
 Indien  
 Jordanien  
@@ -3272,8 +3148,7 @@ a) im Besitz eines gültigen Visums Australiens, Israels oder Neuseelands sowie 
 
 b) nach Beendigung eines erlaubten Aufenthalts in einem der vorstehend genannten Staaten nach Jordanien reisen und hierzu im Besitz eines bestätigten Flugscheins oder einer gültigen Bordkarte für einen Flug sind, der nach Jordanien führt.
 
-Der Weiterflug muss innerhalb von zwölf Stunden nach der Ankunft in Deutschland von demjenigen Flughafen ausgehen, in dessen Transitbereich sich der Ausländer ausschließlich befindet.  
-Libanon  
+Der Weiterflug muss innerhalb von zwölf Stunden nach der Ankunft in Deutschland von demjenigen Flughafen ausgehen, in dessen Transitbereich sich der Ausländer ausschließlich befindet. Libanon  
 Mali  
 Sudan  
 Südsudan  
@@ -3281,481 +3156,461 @@ Syrien
 Türkei  
 Ausgenommen von der Flughafentransitvisumpflicht sind Staatsangehörige der Türkei, die Inhaber von Dienstpässen, Ministerialpässen und anderen Pässen für in amtlicher Funktion oder im amtlichen Auftrag Reisende sind.
 
-
-## Anlage D1 – Ausweisersatz gemäß § 48 Absatz 2 des Aufenthaltsgesetzes in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes
+# Anlage D1 – Ausweisersatz gemäß § 48 Absatz 2 des Aufenthaltsgesetzes in Verbindung mit § 78a Absatz 4 des Aufenthaltsgesetzes
 
 (Fundstelle: BGBl. I 2011, 1536 - 1537)
 
-![](../normengrafiken/bgbl1_2011/j1530-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0010.jpg)
 
  
 
 Auf Seite 5 ist eines der in den Anlagen D2a, D13b und D14 wiedergegebenen Klebeetiketten aufzukleben (entfällt bei Dokumenten nach § 78 des Aufenthaltsgesetzes). Es dürfen bis zu zwei Verlängerungen mit demselben Trägervordruck vorgenommen werden. Jeweils ist die Seriennummer des Klebeetiketts oder die Seriennummer des Dokuments nach § 78 des Aufenthaltsgesetzes auf Seite 6 einzutragen. Jede dieser Eintragungen ist mit einem Dienstsiegel zu bestätigen.
 
-![](../normengrafiken/bgbl1_2011/j1530-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0020.jpg)
 
  
 
-
-## Anlage D2a – Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
+# Anlage D2a – Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
 
 (Fundstelle: BGBl. I 2004, 2972;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Klebeetikett –
 
-![](../normengrafiken/bgbl1_2019/j0010-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0010-1_0010.jpg)
 
-
-## Anlage D2b – Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
+# Anlage D2b – Bescheinigung über die Aussetzung der Abschiebung (Duldung) nach § 60a Abs. 4 Aufenthaltsgesetz
 
 (Inhalt: nicht darstellbares Muster der Bescheinigung,  
 Fundstelle: BGBl. I 2004, 2973)
 
-
-## Anlage D3 – Fiktionsbescheinigung nach § 81 Abs. 5 Aufenthaltsgesetz
+# Anlage D3 – Fiktionsbescheinigung nach § 81 Abs. 5 Aufenthaltsgesetz
 
 (Fundstelle: BGBl. I 2004, 2975 - 2977;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Klebeetikett –
 
-![](../normengrafiken/bgbl1_2019/j0010-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0010-1_0020.jpg)
 
 – Trägervordruck; Vorderseite –
 
-![](../normengrafiken/bgbl1_2020/j2606-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0010.jpg)
 
 Auf Seite 5 ist stets das in dieser Anlage wiedergegebene Klebeetikett aufzukleben, das nicht ohne diesen Trägervordruck verwendet werden darf. Bei Verlängerungen ist ein neues Klebeetikett zu verwenden. Es dürfen bis zu zwei Verlängerungen mit demselben Trägervordruck vorgenommen werden. Jeweils ist die Seriennummer des Klebeetiketts auf Seite 6 einzutragen. Jede dieser Eintragungen ist mit einem Dienstsiegel zu bestätigen.
 
 – Trägervordruck; Rückseite –
 
-![](../normengrafiken/bgbl1_2020/j2606-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0020.jpg)
 
-
-## Anlage D4a – (weggefallen)
-
-\-
-
-
-## Anlage D4b – (weggefallen)
+# Anlage D4a – (weggefallen)
 
 \-
 
+# Anlage D4b – (weggefallen)
 
-## Anlage D4c – Ausweismuster Reiseausweis für Ausländer nach § 4 Absatz 1 Satz 1 Nummer 1
+\-
+
+# Anlage D4c – Ausweismuster Reiseausweis für Ausländer nach § 4 Absatz 1 Satz 1 Nummer 1
 
 (Fundstelle: BGBl. I 2017, 226 — 235)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | – Einband –                                        |                                                    |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_1140.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_1150.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1140.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1150.jpg) |
 
 – Vorsatz und Passkartentitelseite –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1160.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1160.jpg)
 
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1170.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1170.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1180.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1180.jpg)
 
 – Passbuchinnenseiten 4 und 5 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1190.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1190.jpg)
 
 – Passbuchinnenseiten 6 und 7 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1200.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1200.jpg)
 
 – Passbuchinnenseiten 8 und 9 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1210.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1210.jpg)
 
 – Passbuchinnenseiten 10 und 11 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1220.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1220.jpg)
 
 – Passbuchinnenseiten 12 und 13 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1230.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1230.jpg)
 
 – Passbuchinnenseiten 14 und 15 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1240.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1240.jpg)
 
 – Passbuchinnenseiten 16 und 17 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1250.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1250.jpg)
 
 – Passbuchinnenseiten 18 und 19 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1260.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1260.jpg)
 
 – Passbuchinnenseiten 20 und 21 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1270.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1270.jpg)
 
 – Passbuchinnenseiten 22 und 23 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1280.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1280.jpg)
 
 – Passbuchinnenseiten 24 und 25 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1290.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1290.jpg)
 
 – Passbuchinnenseiten 26 und 27 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1300.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1300.jpg)
 
 – Passbuchinnenseiten 28 und 29 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1310.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1310.jpg)
 
 – Passbuchinnenseiten 30 und 31 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1320.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1320.jpg)
 
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1330.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1330.jpg)
 
-
-## Anlage D4d – Vorläufiger Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 2
+# Anlage D4d – Vorläufiger Reiseausweis für Ausländer nach § 4 Abs. 1 Satz 2
 
 \- Deckseiten -  
-![](../normengrafiken/bgbl1_2007/j1970_0100.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0100.jpg)
 
 – Vorsatz und Innenseite 1 –  
-![](../normengrafiken/bgbl1_2007/j1970_0110.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0110.jpg)  
 Die Seiten 1 bis 32 und die hintere Passdecke  
 werden am unteren Rand mit der Dokumentennummer versehen.
 
 – Innenseiten 2 und 3 –  
-![](../normengrafiken/bgbl1_2007/j1970_0120.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0120.jpg)
 
 – Innenseiten 4 und 5 –  
-![](../normengrafiken/bgbl1_2007/j1970_0130.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0130.jpg)
 
 – Innenseiten 6 bis 11 –  
-![](../normengrafiken/bgbl1_2007/j1970_0140.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0140.jpg)  
 Seiten 6 bis 11 gleichlautend.
 
 – Innenseiten 12 bis 31 –  
-![](../normengrafiken/bgbl1_2007/j1970_0150.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0150.jpg)  
 Seiten 12 bis 31 gleichlautend.
 
 – Innenseite 32 und Vorsatz –  
-![](../normengrafiken/bgbl1_2007/j1970_0160.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0160.jpg)
 
 – Aufkleber für die Personendaten,  
 der auf den Seiten 2 und 3 des vorläufigen Reiseausweises aufgeklebt wird –  
-![](../normengrafiken/bgbl1_2007/j1970_0170.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0170.jpg)
 
 – Verlängerungsaufkleber, der auf unbenutzten Doppelseiten,  
 vorzugsweise den Seiten 6 bis 11, aufzukleben ist;  
 Überklebungen sind nicht zulässig –  
-![](../normengrafiken/bgbl1_2007/j1970_0180.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0180.jpg)
 
-
-## Anlage D5 – (weggefallen)
+# Anlage D5 – (weggefallen)
 
 \-
 
-
-## Anlage D5a – Grenzgängerkarte § 12
+# Anlage D5a – Grenzgängerkarte § 12
 
 \- Vorderseite -  
-![](../normengrafiken/bgbl1_2007/j1970_0190.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0190.jpg)
 
 – Rückseite –  
-![](../normengrafiken/bgbl1_2007/j1970_0200.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0200.jpg)
 
-
-## Anlage D6 – Notreiseausweis nach § 4 Abs. 1 Nr. 2
+# Anlage D6 – Notreiseausweis nach § 4 Abs. 1 Nr. 2
 
 ( Inhalt: nicht darstellbares Notreiseausweisemuster,  
 Fundstelle: BGBl. I 2004, 2996 - 2998,  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-
-## Anlage D7 – (weggefallen)
+# Anlage D7 – (weggefallen)
 
 \-
 
-
-## Anlage D7a – Ausweismuster Reiseausweis für Flüchtlinge nach § 4 Absatz 1 Satz 1 Nummer 3
+# Anlage D7a – Ausweismuster Reiseausweis für Flüchtlinge nach § 4 Absatz 1 Satz 1 Nummer 3
 
 (Fundstelle: BGBl. I 2017, 236 — 245)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | – Deckseiten –                                     |                                                    |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_1340.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_1350.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1340.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1350.jpg) |
 
 – Vorsatz und Passkartentitelseite –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1360.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1360.jpg)
 
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1370.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1370.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1380.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1380.jpg)
 
 – Passbuchinnenseiten 4 und 5 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1390.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1390.jpg)
 
 – Passbuchinnenseiten 6 und 7 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1400.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1400.jpg)
 
 – Passbuchinnenseiten 8 und 9 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1410.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1410.jpg)
 
 – Passbuchinnenseiten 10 und 11 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1420.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1420.jpg)
 
 – Passbuchinnenseiten 12 und 13 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1430.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1430.jpg)
 
 – Passbuchinnenseiten 14 und 15 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1440.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1440.jpg)
 
 – Passbuchinnenseiten 16 und 17 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1450.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1450.jpg)
 
 – Passbuchinnenseiten 18 und 19 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1460.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1460.jpg)
 
 – Passbuchinnenseiten 20 und 21 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1470.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1470.jpg)
 
 – Passbuchinnenseiten 22 und 23 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1480.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1480.jpg)
 
 – Passbuchinnenseiten 24 und 25 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1490.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1490.jpg)
 
 – Passbuchinnenseiten 26 und 27 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1500.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1500.jpg)
 
 – Passbuchinnenseiten 28 und 29 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1510.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1510.jpg)
 
 – Passbuchinnenseiten 30 und 31 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1520.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1520.jpg)
 
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1530.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1530.jpg)
 
-
-## Anlage D7b – Vorläufiger Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 2
+# Anlage D7b – Vorläufiger Reiseausweis für Flüchtlinge nach § 4 Abs. 1 Satz 2
 
 \- Deckseiten -  
-![](../normengrafiken/bgbl1_2007/j1970_0290.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0290.jpg)
 
 – Vorsatz und Innenseite 1 –  
-![](../normengrafiken/bgbl1_2007/j1970_0300.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0300.jpg)  
 Die Seiten 1 bis 32 und die hintere Passdecke  
 werden am unteren Rand mit der Dokumentennummer versehen.
 
 – Innenseiten 2 und 3 –  
-![](../normengrafiken/bgbl1_2007/j1970_0310.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0310.jpg)
 
 – Innenseiten 4 und 5 –  
-![](../normengrafiken/bgbl1_2007/j1970_0320.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0320.jpg)
 
 – Innenseiten 6 bis 11 –  
-![](../normengrafiken/bgbl1_2007/j1970_0330.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0330.jpg)  
 Seiten 6 bis 11 gleichlautend.
 
 – Innenseiten 12 bis 31 –  
-![](../normengrafiken/bgbl1_2007/j1970_0340.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0340.jpg)  
 Seiten 12 bis 31 gleichlautend.
 
 – Innenseite 32 und Vorsatz –  
-![](../normengrafiken/bgbl1_2007/j1970_0350.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0350.jpg)
 
 – Aufkleber für die Personendaten,  
 der auf den Seiten 2 und 3 des Reiseausweises aufgeklebt wird –  
-![](../normengrafiken/bgbl1_2007/j1970_0360.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0360.jpg)
 
 – Verlängerungsaufkleber, der auf unbenutzten Doppelseiten,  
 vorzugsweise den Seiten 6 bis 11, aufzukleben ist;  
 Überklebungen sind nicht zulässig –  
-![](../normengrafiken/bgbl1_2007/j1970_0370.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0370.jpg)
 
-
-## Anlage D8 – (weggefallen)
+# Anlage D8 – (weggefallen)
 
 \-
 
-
-## Anlage D8a – Ausweismuster Reiseausweis für Staatenlose nach § 4 Absatz 1 Satz 1 Nummer 4
+# Anlage D8a – Ausweismuster Reiseausweis für Staatenlose nach § 4 Absatz 1 Satz 1 Nummer 4
 
 (Fundstelle: BGBl. I 2017, 246 — 255)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | – Einband –                                        |                                                    |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_1540.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_1550.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1540.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1550.jpg) |
 
 – Vorsatz und Passkartentitelseite –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1560.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1560.jpg)
 
 – Passkartendatenseite und Passbuchinnenseite 1 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1570.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1570.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
 
 – Passbuchinnenseiten 2 und 3 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1580.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1580.jpg)
 
 – Passbuchinnenseiten 4 und 5 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1590.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1590.jpg)
 
 – Passbuchinnenseiten 6 und 7 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1600.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1600.jpg)
 
 – Passbuchinnenseiten 8 und 9 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1610.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1610.jpg)
 
 – Passbuchinnenseiten 10 und 11 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1620.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1620.jpg)
 
 – Passbuchinnenseiten 12 und 13 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1630.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1630.jpg)
 
 – Passbuchinnenseiten 14 und 15 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1640.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1640.jpg)
 
 – Passbuchinnenseiten 16 und 17 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1650.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1650.jpg)
 
 – Passbuchinnenseiten 18 und 19 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1660.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1660.jpg)
 
 – Passbuchinnenseiten 20 und 21 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1670.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1670.jpg)
 
 – Passbuchinnenseiten 22 und 23 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1680.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1680.jpg)
 
 – Passbuchinnenseiten 24 und 25 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1690.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1690.jpg)
 
 – Passbuchinnenseiten 26 und 27 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1700.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1700.jpg)
 
 – Passbuchinnenseiten 28 und 29 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1710.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1710.jpg)
 
 – Passbuchinnenseiten 30 und 31 –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1720.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1720.jpg)
 
 – Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes –
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1730.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1730.jpg)
 
-
-## Anlage D8b – Vorläufiger Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 2
+# Anlage D8b – Vorläufiger Reiseausweis für Staatenlose nach § 4 Abs. 1 Satz 2
 
 \- Deckseiten -  
-![](../normengrafiken/bgbl1_2007/j1970_0460.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0460.jpg)
 
 – Vorsatz und Innenseite 1 –  
-![](../normengrafiken/bgbl1_2007/j1970_0470.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0470.jpg)  
 Die Seiten 1 bis 32 und die hintere Passdecke  
 werden am unteren Rand mit der Dokumentennummer versehen.
 
 – Innenseiten 2 und 3 –  
-![](../normengrafiken/bgbl1_2007/j1970_0480.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0480.jpg)
 
 – Innenseiten 4 und 5 –  
-![](../normengrafiken/bgbl1_2007/j1970_0490.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0490.jpg)
 
 – Innenseiten 6 bis 11 –  
-![](../normengrafiken/bgbl1_2007/j1970_0500.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0500.jpg)  
 Seiten 6 bis 11 gleichlautend.
 
 – Innenseiten 12 bis 31 –  
-![](../normengrafiken/bgbl1_2007/j1970_0510.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0510.jpg)  
 Seiten 12 bis 31 gleichlautend.
 
 – Innenseite 32 und Vorsatz –  
-![](../normengrafiken/bgbl1_2007/j1970_0520.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0520.jpg)
 
 – Aufkleber für die Personendaten,  
 der auf den Seiten 2 und 3 des Reiseausweises aufgeklebt wird –  
-![](../normengrafiken/bgbl1_2007/j1970_0530.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0530.jpg)
 
 – Verlängerungsaufkleber, der auf unbenutzten Doppelseiten,  
 vorzugsweise den Seiten 6 bis 11, aufzukleben ist;  
 Überklebungen sind nicht zulässig –  
-![](../normengrafiken/bgbl1_2007/j1970_0540.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j1970_0540.jpg)
 
-
-## Anlage D9 – Bescheinigung über die Wohnsitzverlegung nach § 4 Abs. 1 Nr. 6
+# Anlage D9 – Bescheinigung über die Wohnsitzverlegung nach § 4 Abs. 1 Nr. 6
 
 ( Inhalt: nicht darstellbares Muster der Bescheinigung,  
 Fundstelle: BGBl. I 2004, 3019 - 3020;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-
-## Anlage D10 – Europäisches Reisedokument für die Rückkehr nach § 4 Absatz 1 Satz 1 Nummer 7
+# Anlage D10 – Europäisches Reisedokument für die Rückkehr nach § 4 Absatz 1 Satz 1 Nummer 7
 
 (Fundstelle: BGBl. I 2017, 691;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-![](../normengrafiken/bgbl1_2019/j0010-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0010-1_0030.jpg)
 
-
-## Anlage D11 – Zusatzblatt zum Aufenthaltstitel und zur Bescheinigung über die Aussetzung der Abschiebung
+# Anlage D11 – Zusatzblatt zum Aufenthaltstitel und zur Bescheinigung über die Aussetzung der Abschiebung
 
 (Fundstelle: BGBl. I 2004, 3022  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3764,26 +3619,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vermerke, insbesondere zu Nebenbestimmungen, die mangels vorhandenen Raums für Eintragungen nicht in das entsprechende Etikett eingetragen werden können, sollen nur in einem Trägervordruck nach Anlage D1 oder D2b oder auf einem Etikett nach dieser Anlage eingetragen werden.
 
-
-## Anlage D11a – Zusatzblatt zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
+# Anlage D11a – Zusatzblatt zum Aufenthaltstitel mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
 (Fundstelle: BGBl. I 2011, 1538 - 1539)
 
-![](../normengrafiken/bgbl1_2011/j1530-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0030.jpg)
 
-![](../normengrafiken/bgbl1_2011/j1530-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0040.jpg)
 
  
 
-
-## Anlage D12 – Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes)
+# Anlage D12 – Bescheinigung über die Aufenthaltsgestattung (§ 63 des Asylgesetzes)
 
 (Fundstelle: BGBl. I 2004, 3023 - 3025;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Klebeetikett –
 
-![](../normengrafiken/bgbl1_2019/j0010-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0010-1_0040.jpg)
 
 – Trägervordruck; Vorderseite –
 
@@ -3795,35 +3648,31 @@ Auf Seite 5 ist stets das in dieser Anlage wiedergegebene Klebeetikett aufzukleb
 
 (Inhalt: nicht darstellbares Muster)
 
-
-## Anlage D13a – Visum (§ 4 Absatz 1 Satz 2 Nummer 1 Aufenthaltsgesetz)
-
-(Fundstelle: BGBl. I 2013, 353;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-– Klebeetikett –
-
-![](../normengrafiken/bgbl1_2019/j0010-1_0050.jpg)
-
-
-## Anlage D13b – Verlängerung des Visums im Inland
+# Anlage D13a – Visum (§ 4 Absatz 1 Satz 2 Nummer 1 Aufenthaltsgesetz)
 
 (Fundstelle: BGBl. I 2013, 353;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Klebeetikett –
 
-![](../normengrafiken/bgbl1_2019/j0010-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0010-1_0050.jpg)
 
+# Anlage D13b – Verlängerung des Visums im Inland
 
-## Anlage D14 – Aufenthaltstitel nach § 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz
+(Fundstelle: BGBl. I 2013, 353;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+– Klebeetikett –
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0010-1_0060.jpg)
+
+# Anlage D14 – Aufenthaltstitel nach § 4 Abs. 1 Nr. 2 bis 4 Aufenthaltsgesetz
 
 (Fundstelle: BGBl. I 2019, 2586 — 2588)
 
 – Klebeetiketten –
 
-
-## Anlage D14a – Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
+# Anlage D14a – Dokumente mit elektronischem Speicher- und Verarbeitungsmedium nach § 78 Absatz 1 des Aufenthaltsgesetzes
 
 (Fundstelle: BGBl. I 2019, 2588 - 2593;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3868,16 +3717,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Rückseite –
 
-![](../normengrafiken/bgbl1_2020/j2606-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0030.jpg)
 
-![](../normengrafiken/bgbl1_2020/j2606-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0040.jpg)
 
-![](../normengrafiken/bgbl1_2020/j2606-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0050.jpg)
 
-![](../normengrafiken/bgbl1_2020/j2606-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2606-1_0060.jpg)
 
-
-## Anlage D15 – Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)
+# Anlage D15 – Bescheinigung des Daueraufenthalts (§ 5 Absatz 5 Satz 1 Freizügigkeitsgesetz/EU)
 
 (Fundstelle: BGBl. I 2020, 2609)
 
@@ -3885,11 +3733,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 – Rückseite –
 
-
-## Anlage D16 – Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)
+# Anlage D16 – Aufkleber zur Anschriftenänderung (§ 78 Absatz 7 Satz 2 des Aufenthaltsgesetzes)
 
 (Fundstelle: BGBl. I 2011, 1548)
 
-![](../normengrafiken/bgbl1_2011/j1530-1_0210.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1530-1_0210.jpg)
 
  

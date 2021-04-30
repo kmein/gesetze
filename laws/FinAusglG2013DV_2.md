@@ -1,15 +1,11 @@
-# [FinAusglG2013DV 2] Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2013
-
-Ausfertigungsdatum: 10.11.2014
-
+% Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2013
+% Ausfertigungsdatum: 10.11.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2013
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2013
 
 Für das Ausgleichsjahr 2013 werden als Länderanteile an der Umsatzsteuer festgestellt:  
   
@@ -33,8 +29,7 @@ Für das Ausgleichsjahr 2013 werden als Länderanteile an der Umsatzsteuer festg
 | für Schleswig-Holstein     |  2 910 682 344,28 Euro |
 | für Thüringen              | 3 632 768 110,20 Euro. |
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2013
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2013
 
 Für das Ausgleichsjahr 2013 wird der Finanzausgleich unter den Ländern wie folgt festgestellt:  
   
@@ -70,8 +65,7 @@ Für das Ausgleichsjahr 2013 wird der Finanzausgleich unter den Ländern wie fol
 | an Schleswig-Holstein     |   167 513 009,71 Euro |
 | an Thüringen              |  543 044 488,74 Euro. |
 
-
-## § 3 – Abschlusszahlungen für 2013
+# § 3 – Abschlusszahlungen für 2013
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1, den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Finanzausgleichsgesetzes mit dem Inkrafttreten dieser Verordnung fällig:  
   
@@ -107,12 +101,10 @@ Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgül
 | an Hessen            |  8 883 734,64 Euro |
 | an Niedersachsen     |   663 579,60 Euro. |
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2013 vom 25. März 2013 (BGBl. I S. 601) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

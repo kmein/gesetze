@@ -1,15 +1,11 @@
-# [BWKAuslGÄndG] Gesetz zur Änderung und Ergänzung des Gesetzes zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland
-
-Ausfertigungsdatum: 25.06.1958
-
+% Gesetz zur Änderung und Ergänzung des Gesetzes zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland
+% Ausfertigungsdatum: 25.06.1958
  
-
-## Art I
+# Art I
 
 \-
 
-
-## Art II
+# Art II
 
 1. Neue oder höhere Ansprüche auf Wiedergutmachung, die durch dieses Gesetz entstehen, können nur innerhalb der Frist des Artikels I § 9 Abs. 1 und 2 angemeldet werden. Artikel I § 10 gilt entsprechend.
 
@@ -19,17 +15,14 @@ Ausfertigungsdatum: 25.06.1958
 
 Art. II Nr. 2 Kursivdruck: Aufgeh. durch Art. II § 16 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 
-
-## Art III
+# Art III
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## Art IV
+# Art IV
 
 Das Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland vom 3. August 1953 (Bundesgesetzbl. I S. 843) gilt in der Fassung dieses Gesetzes auch im Saarland.
 
-
-## Art V
+# Art V
 
 Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.

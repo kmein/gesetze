@@ -1,15 +1,11 @@
-# [FBeitrV] Frequenznutzungsbeitragsverordnung  (FBeitrV)
-
-Ausfertigungsdatum: 13.12.2000
-
+% Frequenznutzungsbeitragsverordnung  (FBeitrV)
+% Ausfertigungsdatum: 13.12.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGBl. I S. 1120) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und den Organisationserlassen vom 17. Dezember 1997 (BGBl. 1998 I S. 68) und vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium der Finanzen und dem Bundesministerium der Justiz:
 
-
-## § 1 – Beitragspflicht
+# § 1 – Beitragspflicht
 
 (1) Beitragspflichtig für die in § 48 Abs. 2 des Telekommunikationsgesetzes genannten Aufwendungen ist jeder Inhaber einer Zuteilung nach § 47 des Telekommunikationsgesetzes. Die bis zum 1. August 1996 erteilten Verleihungen gelten, soweit sie Festlegungen über die Nutzung von Frequenzen enthalten, als Zuteilungen nach § 47 des Telekommunikationsgesetzes. Satz 2 gilt auch für sonstige Verwaltungsakte, soweit sie eine Genehmigung zur Nutzung von Frequenzen beinhalten.
 
@@ -17,8 +13,7 @@ Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGB
 
 (3) Die Beitragspflicht beginnt mit dem Monat der Zuteilung der für den Betrieb der Sendefunkanlage oder des Sendefunknetzes notwendigen Frequenzen, frühestens jedoch mit dem Beginn des Kalenderjahres, für das eine Beitragsfestlegung nach § 4 Abs. 2 möglich ist. Sie endet mit Ablauf des Monats, in dem der Verzicht auf die Zuteilung nach § 47 des Telekommunikationsgesetzes, die Rücknahme oder der Widerruf der Zuteilung nach § 47 des Telekommunikationsgesetzes wirksam wird, oder eine Befristung der Zuteilung abläuft. Ein rückwirkender Verzicht ist ausgeschlossen.
 
-
-## § 2 – Beitragsbefreiungen
+# § 2 – Beitragsbefreiungen
 
 (1) Von der Zahlung der Beiträge sind befreit:
 
@@ -46,8 +41,7 @@ kann auf Antrag Beitragsbefreiung gewährt werden. Sie darf nur für solche zuge
 
 (5) Für Sendefunkanlagen, die von Amts wegen einer Allgemeinzuteilung für die Benutzung von bestimmten Frequenzen durch die Allgemeinheit oder einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis unterliegen, werden keine Frequenznutzungsbeiträge erhoben.
 
-
-## § 3 – Ermittlung des Aufwands und Festlegung von Jahresbeiträgen
+# § 3 – Ermittlung des Aufwands und Festlegung von Jahresbeiträgen
 
 (1) Der durch Beiträge abzugeltende Personal- und Sachaufwand wird von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen ständig erfasst und den in Spalte 3 der Anlage aufgeführten Nutzergruppen zugeordnet.
 
@@ -57,40 +51,33 @@ kann auf Antrag Beitragsbefreiung gewährt werden. Sie darf nur für solche zuge
 
 (4) Für die für jede Nutzergruppe vorhandenen Bezugseinheiten sind die zum Berechnungszeitpunkt gültigen statistischen Unterlagen der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen maßgeblich.
 
-
-## § 3a – Selbstbehalt
+# § 3a – Selbstbehalt
 
 Von dem durch Beiträge abzugeltenden Personal- und Sachaufwand trägt der Bund 20 vom Hundert als Selbstbehalt zur Abgeltung des Allgemeininteresses an einer störungsfreien und effizienten Frequenznutzung. In den Beitragsbescheiden der Behörde ist der Selbstbehalt nach Satz 1 zu berücksichtigen.
 
-
-## § 4 – Ermittlung des Aufwands und Festlegung von Jahresbeiträgen für neue Nutzergruppen
+# § 4 – Ermittlung des Aufwands und Festlegung von Jahresbeiträgen für neue Nutzergruppen
 
 (1) Der durch Beiträge abzugeltende Aufwand wird durch die Regulierungsbehörde erstmalig in dem Kalenderjahr erfasst, in dem für diese Nutzergruppen die erste Zuteilung nach § 47 des Telekommunikationsgesetzes erfolgt.
 
 (2) Der erste Jahresbeitrag je Bezugseinheit (Spalte 5 der Anlage) errechnet sich aus dem jährlichen Kostenaufwand der Regulierungsbehörde seit der ersten Frequenzzuteilung für die jeweilige neue Nutzergruppe nach dem in § 3 Abs. 3 beschriebenen Verfahren. Dieser Jahresbeitrag wird auf der Grundlage der der Berechnung vorangegangenen beiden Kalenderjahre ermittelt und für das dem Jahr der Berechnung nachfolgende Kalenderjahr festgelegt.
 
-
-## § 5 – Fälligkeit
+# § 5 – Fälligkeit
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheides, wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 16 des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) ist sinngemäß anzuwenden.
 
-
-## § 6 – Säumniszuschlag
+# § 6 – Säumniszuschlag
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach, werden Säumniszuschläge entsprechend § 18 des Verwaltungskostengesetzes erhoben.
 
-
-## § 7 – Verjährung
+# § 7 – Verjährung
 
 Für die Verjährung des Anspruchs auf Zahlung von Beiträgen gilt § 20 des Verwaltungskostengesetzes entsprechend.
 
-
-## § 8 – Erstattung von Beitragsanteilen
+# § 8 – Erstattung von Beitragsanteilen
 
 Für Zeiten innerhalb eines Kalenderjahres, für die keine Beitragspflicht nach § 1 Abs. 2 bestand, werden gezahlte Beitragsanteile je Kalendermonat mit einem Zwölftel des Jahresbeitrags erstattet oder mit der nächsten Beitragszahlung verrechnet.
 
-
-## § 9 – Übergangsvorschriften
+# § 9 – Übergangsvorschriften
 
 (1) Beiträge für die Jahre 1998 und 1999, die nach der Frequenznutzungsbeitragsverordnung vom 19. November 1996 (BGBl. I S. 1790), geändert durch die Verordnung vom 22. Dezember 1998 (BGBl. I S. 3894), entstanden sind und bisher noch nicht erhoben wurden, können vorbehaltlich des Absatzes 2 auf der Grundlage der bisherigen Regelungen erhoben werden.
 
@@ -98,13 +85,11 @@ Für Zeiten innerhalb eines Kalenderjahres, für die keine Beitragspflicht nach 
 
 (3) Für die Beiträge nach Absatz 1 gilt § 3a entsprechend.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2000 in Kraft.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2000, 1706 - 1708)
 
@@ -688,8 +673,7 @@ Pi R(hoch)2
    
 berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in km(hoch)2. Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITUR P.370 für 50% Zeit- und 50% Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird.
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2002, 2226 - 2228)
 
@@ -1139,8 +1123,7 @@ Sendefunkanlage
 32
 
 \*)  
-Theoretische Versorgungsfläche: Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Frequenznutzungsbeitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU- R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).  
-Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10 Grad-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
+Theoretische Versorgungsfläche: Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Frequenznutzungsbeitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU- R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992). Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10 Grad-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement
 
 A=
 

@@ -1,10 +1,7 @@
-# [SportSeeSchV] Verordnung über den Erwerb von Sportsee- und Sporthochseeschifferscheinen und die Besetzung von Traditionsschiffen  (Sportseeschifferscheinverordnung)
-
-Ausfertigungsdatum: 17.12.1992
-
+% Verordnung über den Erwerb von Sportsee- und Sporthochseeschifferscheinen und die Besetzung von Traditionsschiffen  (Sportseeschifferscheinverordnung)
+% Ausfertigungsdatum: 17.12.1992
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Führer von Yachten und Traditionsschiffen können als Nachweis ihrer Befähigung zum Führen dieser Fahrzeuge
 
@@ -30,13 +27,11 @@ nach den Vorschriften dieser Verordnung erwerben. Traditionsschiffe mit einer Ru
 
 (7) Führer von Sportfahrzeugen und Traditionsschiffen müssen ihre Befähigung zur Teilnahme am mobilen Seefunkdienst und am mobilen Seefunkdienst über Satelliten entsprechend der funktechnischen Ausrüstung des Sportfahrzeugs oder des Traditionsschiffs nachweisen. Als Befähigungsnachweis gelten das Allgemeine Funkbetriebszeugnis (Long Range Certificate, LRC), das Beschränkt Gültige Funkbetriebszeugnis (Short Range Certificate, SRC) oder ein anderes nach § 13 Abs. 4a in Verbindung mit Anlage 3 der Schiffssicherheitsverordnung anerkanntes und gültiges Seefunkzeugnis.
 
-
-## § 2 – Beauftragung
+# § 2 – Beauftragung
 
 Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband e. V. werden beauftragt, nach Maßgabe dieser Verordnung und der zu ihrer Durchführung vom Bundesministerium für Verkehr und digitale Infrastruktur erlassenen Richtlinien über Anträge auf Zulassung zur Prüfung zum Erwerb des Sportküstenschifferscheins, des Sportseeschifferscheins und des Sporthochseeschifferscheins zu entscheiden, die Prüfungen abzunehmen, bei Bestehen der Prüfung Sportküstenschifferscheine, Sportseeschifferscheine und Sporthochseeschifferscheine nach den Mustern der Anlagen 1, 1a und 2 auszustellen, Zusatzeinträge über die Befähigung zum Führen von Traditionsschiffen oder zum Betrieb von Maschinenanlagen auf Traditionsschiffen in den Sportsee- oder Sporthochseeschifferschein vorzunehmen beziehungsweise den Befähigungsnachweis für Maschinisten auf Traditionsschiffen nach dem Muster der Anlage 3 auszustellen sowie nach § 15 Gebühren und Auslagen zu erheben. Sie unterstehen hierbei der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur, der sich bei der Fachaufsicht über die Zentrale Verwaltungsstelle bei der Durchführung der Aufgaben nach § 3 Abs. 2 der Generaldirektion Wasserstraßen und Schifffahrt bedient. Soweit die beauftragten Verbände Aufgaben nach § 13 Abs. 4a in Verbindung mit Anlage 3 der Schiffssicherheitsverordnung wahrnehmen, unterstehen sie hierbei der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur, das sich bei der Fachaufsicht über die Zentrale Verwaltungsstelle insoweit des Bundesamtes für Seeschifffahrt und Hydrographie bedient.
 
-
-## § 3 – Zuständigkeit
+# § 3 – Zuständigkeit
 
 (1) Die nach § 2 beauftragten Verbände richten einen gemeinsamen Lenkungsausschuß ein, der die einheitliche Durchführung der ihnen übertragenen Aufgaben gewährleisten soll. Der Lenkungsausschuß besteht aus jeweils zwei Vertretern der beiden Verbände und der Lehrkräfte, die an einer nautischen Ausbildungsstätte eine Lehrtätigkeit ausüben oder ausgeübt haben.
 
@@ -44,8 +39,7 @@ Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband e. V. werde
 
 (3) Für die Festlegung der besonderen fachlichen Anforderungen an die Befähigung von Schiffern im Sinne des § 1 Abs. 5 und Maschinisten im Sinne des § 1 Abs. 6 auf Traditionsschiffen (Erfahrungsnachweis) ist ausschließlich die Gemeinsame Kommission für historische Wasserfahrzeuge e. V. (GSHW) zuständig. Die Einbindung dieser Aufgaben in das Verfahren zur Prüfung und Bescheinigung gewährleistet eine Arbeitsgruppe bestehend aus Vertretern der GSHW und der Zentralen Verwaltungsstelle, in der ein Vertreter der GSHW den Vorsitz führt. Bei Entscheidungen, welche die Traditionsschiffahrt nach den dazu erlassen Durchführungsrichtlinien (Traditionsschiffahrt) betreffen, wirkt der Vorsitzende dieser Arbeitsgruppe mit Sitz und Stimme im Lenkungsausschuß mit.
 
-
-## § 4 – Prüfungskommissionen
+# § 4 – Prüfungskommissionen
 
 (1) Für die Abnahme der theoretischen und praktischen Prüfung zum Erwerb des Sportsee- oder Sporthochseeschifferscheins werden von der Zentralen Verwaltungsstelle Prüfungskommissionen gebildet. Die Prüfungskommission besteht
 
@@ -59,8 +53,7 @@ Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband e. V. werde
 
 (4) Für die fachliche Beurteilung der Befähigung von Schiffern und Maschinisten von Traditionsschiffen nach § 1 Abs. 5 und 6 wird von der Zentralen Verwaltungsstelle eine Prüfungskommission gebildet. Die Prüfungskommission besteht aus einem Vorsitzenden und mindestens einem weiteren Prüfer. Die Bestellung der Vorsitzenden und der Prüfer erfolgt auf Vorschlag der GSHW gemäß Absatz 2. Ihre Qualifikation wird in den Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 
-
-## § 4a – Prüfungsausschüsse und Abnahme der Prüfung zum Sportküstenschifferschein
+# § 4a – Prüfungsausschüsse und Abnahme der Prüfung zum Sportküstenschifferschein
 
 (1) Für die Zulassung zur Prüfung und deren Abnahme sowie für die Erteilung des Sportküstenschifferscheins werden von den beauftragten Verbänden Prüfungsausschüsse eingerichtet, die von einem Leiter geführt werden, der auf Vorschlag des Lenkungsausschusses von der Generaldirektion Wasserstraßen und Schifffahrt mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur bestellt wird.
 
@@ -72,8 +65,7 @@ Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband e. V. werde
 
 (3) Mitglieder der Prüfungskommission werden auf Vorschlag der Verbände vom Lenkungsausschuß bestellt und müssen Inhaber des Sportsee- oder Sporthochseeschifferscheins sein.
 
-
-## § 5 – Antrag
+# § 5 – Antrag
 
 (1) Anträge auf Zulassung zur Prüfung zum Erwerb des Sportküstenschifferscheins sind an die Prüfungsausschüsse nach § 4a und Anträge auf Zulassung zur Prüfung zum Erwerb des Sportsee- oder Sporthochseeschifferscheins an die Zentrale Verwaltungsstelle (§ 3 Abs. 2) zu richten und müssen folgende Angaben und Unterlagen enthalten:
 
@@ -93,8 +85,7 @@ Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband e. V. werde
 
 2. den Erfahrungsnachweis Traditionsschiffahrt für die beantragte Qualifikation im Original.
 
-
-## § 6 – Voraussetzungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
+# § 6 – Voraussetzungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
 
 (1) Ein Bewerber kann auf Antrag einen Sportküstenschifferschein für Yachten mit Antriebsmaschine oder mit Antriebsmaschine und unter Segel nach dem Muster der Anlage 1a erhalten, wenn er
 
@@ -128,8 +119,7 @@ c) nachweist, daß er nach Erwerb des Sportbootführerscheins für den Geltungsb
 
 (4) Die mit dem Sportbootführerschein für den Geltungsbereich Seeschifffahrtsstraßen erteilten Auflagen sind auch in den Sportküstenschifferschein, den Sportseeschifferschein und den Sporthochseeschifferschein aufzunehmen.
 
-
-## § 7 – Prüfungsanforderungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
+# § 7 – Prüfungsanforderungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
 
 (1) Die Prüfung zum Erwerb des Sportküstenschifferscheins soll zeigen, ob der Bewerber
 
@@ -157,8 +147,7 @@ hat.
 
 (4) Die Einzelheiten des Inhalts und der Durchführung der Prüfung zum Erwerb des Sportküsten-, des Sportsee- und des Sporthochseeschifferscheins werden in Durchführungsrichtlinien für den Sportküstenschifferschein und den Sportsee-/Sporthochseeschifferschein geregelt.
 
-
-## § 8 – Durchführung der Prüfungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
+# § 8 – Durchführung der Prüfungen zum Erwerb des Sportküsten-, Sportsee- und Sporthochseeschifferscheins
 
 (1) Die theoretische Prüfung zum Erwerb des Sportküstenschifferscheins und des Sportseeschifferscheins besteht aus einer schriftlichen und erforderlichenfalls einer mündlichen Prüfung. Die theoretische Prüfung zum Erwerb des Sporthochseeschifferscheins besteht aus einer schriftlichen und einer obligatorischen mündlichen Prüfung. Die praktische Prüfung wird an Bord einer Yacht durchgeführt.
 
@@ -170,15 +159,13 @@ hat.
 
 (5) Die Einzelheiten des Prüfungsverfahrens zum Erwerb des Sportküsten-, des Sportsee- und des Sporthochseeschifferscheins werden in Durchführungsrichtlinien nach § 7 Abs. 4 geregelt.
 
-
-## § 9 – Prüfungsanforderungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
+# § 9 – Prüfungsanforderungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
 
 (1) Die Feststellung einer Befähigung als Schiffer im Sinne des § 1 Abs. 5 oder Maschinist im Sinne des § 1 Abs. 6 von Traditionsschiffen kann erst dann erfolgen, wenn die entsprechende Qualifikation und der Erfahrungsnachweis vorliegen.
 
 (2) Die Einzelheiten des Inhalts und des Feststellungsverfahrens zu der Befähigung zum Schiffer oder Maschinisten werden in den Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 
-
-## § 10 – Voraussetzungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
+# § 10 – Voraussetzungen zum Erwerb der Zusatzeinträge für die Traditionsschiffahrt und zum Erwerb des Befähigungsnachweises zum Maschinisten
 
 (1) Ein Bewerber muß das 20. Lebensjahr vollendet haben.
 
@@ -188,8 +175,7 @@ hat.
 
 (4) Ein Bewerber, der keinen Sportsee- oder Sporthochseeschifferschein besitzt, kann auf Antrag einen Befähigungsnachweis für Maschinisten nach dem Muster der Anlage 3 erhalten, wenn die Prüfungskommission nach § 4 Abs. 4 feststellt, daß er über die erforderliche Befähigung zum Betrieb einer Maschinenanlage verfügt (Erfahrungsnachweis). Hinsichtlich der Art der Maschinenanlage ist in der Beurteilung und bei der Ausstellung des Befähigungsnachweises für Maschinisten zwischen Dampfmaschine und Motor zu unterscheiden.
 
-
-## § 11 – Grundsätze für die Besetzung von Traditionsschiffen
+# § 11 – Grundsätze für die Besetzung von Traditionsschiffen
 
 (1) Die Besetzung der Traditionsschiffe richtet sich nach folgenden Grundsätzen:
 
@@ -207,13 +193,11 @@ hat.
 
 (3) Die Zentrale Verwaltungsstelle kann auf Antrag im Einzelfall eine Ausnahme von Absatz 2 Satz 1 erteilen, wenn eine mit der Regelbesatzung vergleichbare Sicherheit gewährleistet ist.
 
-
-## § 11a
+# § 11a
 
 (weggefallen)
 
-
-## § 12 – Ersatzausfertigung, Ausstellung in anderen Fällen
+# § 12 – Ersatzausfertigung, Ausstellung in anderen Fällen
 
 (1) Ist ein Sportküstenschifferschein, Sportseeschifferschein, Sporthochseeschifferschein oder ein Befähigungsnachweis für Maschinisten auf Traditionsschiffen unbrauchbar geworden oder wird glaubhaft gemacht, daß er verloren gegangen ist, stellt die Zentrale Verwaltungsstelle auf Antrag eine Ersatzausfertigung aus, die als solche zu bezeichnen ist. Ein unbrauchbar gewordener Schein ist bei der Zentralen Verwaltungsstelle abzuliefern.
 
@@ -227,8 +211,7 @@ hat.
 
 (6) Inhaber des Sportsee- oder Sporthochseeschifferzeugnisses, die im Besitz des amtlichen Sportbootführerscheins für den Geltungsbereich Seeschifffahrtsstraßen sind und bereits vor dem 1. Januar 1998 nachweislich als Schiffer ein Traditionsschiff geführt haben, können abweichend von § 1 Abs. 4 und Inhaber einer Zulassung des Bundesministeriums für Verkehr und digitale Infrastruktur als Schiffsführer abweichend von § 1 Abs. 4 und 5 auch nach dem 1. Januar 1998 ein in diesen Vorschriften genanntes Traditionsschiff als Schiffer führen. Die Einzelheiten über die Erbringung des Nachweises und den Eintrag einer entsprechenden Berechtigung in das Zeugnis durch die Zentrale Verwaltungsstelle werden in den Durchführungsrichtlinien (Traditionsschiffahrt) geregelt.
 
-
-## § 13 – Rücknahme und Entzug
+# § 13 – Rücknahme und Entzug
 
 (1) Wird eine Fahrerlaubnis für den Geltungsbereich Seeschifffahrtsstraßen nach § 13 Absatz 1 oder 2 der Sportbootführerscheinverordnung entzogen, so ist gleichzeitig ein Sportküstenschifferschein, ein Sportseeschifferschein und ein Sporthochseeschifferschein zurückzunehmen; der jeweilige Schein ist vom Inhaber unverzüglich bei der Zentralen Verwaltungsstelle abzuliefern, die hiervon die Generaldirektion Wasserstraßen und Schifffahrt unterrichtet. Über die Wiederaushändigung des Sportküstenschifferscheins, des Sportseeschifferscheins oder des Sporthochseeschifferscheins entscheidet die Generaldirektion Wasserstraßen und Schifffahrt.
 
@@ -238,15 +221,13 @@ hat.
 
 (3) Ein Funkbetriebszeugnis im Sinne von Anlage 3 Buchstabe A Nr. 1.1 Buchstabe b Doppelbuchstabe aa und bb der Schiffssicherheitsverordnung kann von der Zentralen Verwaltungsstelle entzogen werden, wenn die Voraussetzungen für die Erteilung ganz oder teilweise nicht mehr vorliegen oder der Inhaber in gefährdender Weise gegen Vorschriften des Seefunkdienstes verstoßen hat. Das Funkbetriebszeugnis ist vom Inhaber bei der Zentralen Verwaltungsstelle abzuliefern.
 
-
-## § 14 – Verzeichnis
+# § 14 – Verzeichnis
 
 (1) Die Zentrale Verwaltungsstelle führt für Zwecke der Rücknahme eines vorhandenen Sportküstenschifferscheins, Sportseeschifferscheins, Sporthochseeschifferscheins, eines Zusatzeintrages oder eines Befähigungsnachweises für Maschinisten sowie eines Funkbetriebszeugnisses im Sinne von Anlage 3 Buchstabe A Nr. 1.1 Buchstabe b Doppelbuchstabe aa und bb der Schiffssicherheitsverordnung ein einheitliches Verzeichnis der Inhaber der ausgestellten Sportküsten-, Sportsee- und Sporthochseeschifferscheine, Befähigungsnachweise für Maschinisten und Funkbetriebszeugnisse. In das Verzeichnis sind das Datum der Ausstellung des Scheins, des Zusatzeintrages, des Befähigungsnachweises oder des Funkbetriebszeugnisses, Name, Geburtsdatum und Geburtsort des Inhabers, in den Fällen des § 12 Abs. 1 und 2 sowie der Anlage 3 Buchstabe B Nr. 3 der Schiffssicherheitsverordnung das Datum der Ausstellung einer Ersatzausfertigung, in den Fällen der Rücknahme eines Sportküsten-, Sportsee- und Sporthochseeschifferscheins oder eines Funkbetriebszeugnisses nach § 13 Abs. 1 und 3 die Ablieferung des jeweiligen Scheins oder Zeugnisses einzutragen.
 
 (2) Auskünfte aus dem Verzeichnis dürfen nur an Gerichte und Strafverfolgungsbehörden für Zwecke der Verfolgung von Straftaten oder an Seeämter für Zwecke der Seeunfalluntersuchung erteilt werden.
 
-
-## § 15 – Gebühren und Auslagen
+# § 15 – Gebühren und Auslagen
 
 (1) Es werden folgende Gebühren und Auslagen erhoben:  
   
@@ -289,8 +270,7 @@ hat.
 
 (2) Die Gebühren und Auslagen für die individuell zurechenbaren öffentlichen Leistungen werden von der Zentralen Verwaltungsstelle im Auftrag des Bundesministeriums für Verkehr und digitale Infrastruktur nach Maßgabe der Durchführungsrichtlinien erhoben und eingezogen.
 
-
-## § 15a – Ordnungswidrigkeiten
+# § 15a – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -304,18 +284,15 @@ hat.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## § 16 – Übergangsregelung
+# § 16 – Übergangsregelung
 
 § 15a Abs. 1 Nr. 3 ist erst ab dem 1. Januar 2010 anzuwenden.
 
-
-## § 17
+# § 17
 
 (Inkrafttreten, Aufhebung von Vorschriften)
 
-
-## Anlage 1
+# Anlage 1
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1944 - 1945
 
@@ -329,11 +306,7 @@ INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT IN COASTAL WATERS NOT 
 In conformity with resolution No. 40 of the Working Party on Inland Water Transport  
 United Nations Economic Commission for Europe  
 Befähigung/Qualification/Qualification/Habilitacion  
-Der Inhaber (Angaben umstehend) ist befähigt zum Führen von Yachten mit Antriebsmaschine \*)/unter Segel \*) auf den Küstengewässern aller Meere bis zu 30 Seemeilen Abstand von der Festlandküste sowie für die Seegebiete der Ost- und Nordsee, des Kanals, des Bristolkanals, der Irischen und Schottischen See sowie des Mittelmeeres und des Schwarzen Meeres (§ 1 Sportseeschifferscheinverordnung).  
-The holder (See overleaf) is duly qualified to navigate any powerdriven \*)/ sailing yacht \*) in the coastal waters of any sea at any distance not exceeding 30 nautical miles from the nearest land as well as anywhere in the Baltic and the North Sea, the English and the Bristol Channel, the Irish, the Scottish, the Mediterranean and the Black Sea.  
-Le titulaire (Voir au verso) est dument qualifie a naviguer tout yacht a propulsion par moteur \*)/a voile \*) dans les eaux cotieres de toute mer a toute distance de la terre la plus proche ne depassant pas 30 miles marins ainsi que partout dans la Mer Baltique, la Mer du Nord, la Manche, le Canal de Bristol, la Mer d'Irlande, la Mer d'Ecosse, le Mediterrannee et la Mer Noire.  
-El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz \*)/ a la vela \*) en las aguas costeras de todos los mares en una distancia de hasta 30 millas marinas de la costa asi como en las aguas del Mar Baltico y del Mar del Norte, del Canal de la Mancha, del Canal de Bristol, del Mar de Irlanda y del Mar Escocia, del Mar Mediterraneo y del Mar Negro.  
-\*) Siehe Innenseite/See inside/Voir page interieure/Vease adentro  
+Der Inhaber (Angaben umstehend) ist befähigt zum Führen von Yachten mit Antriebsmaschine \*)/unter Segel \*) auf den Küstengewässern aller Meere bis zu 30 Seemeilen Abstand von der Festlandküste sowie für die Seegebiete der Ost- und Nordsee, des Kanals, des Bristolkanals, der Irischen und Schottischen See sowie des Mittelmeeres und des Schwarzen Meeres (§ 1 Sportseeschifferscheinverordnung). The holder (See overleaf) is duly qualified to navigate any powerdriven \*)/ sailing yacht \*) in the coastal waters of any sea at any distance not exceeding 30 nautical miles from the nearest land as well as anywhere in the Baltic and the North Sea, the English and the Bristol Channel, the Irish, the Scottish, the Mediterranean and the Black Sea. Le titulaire (Voir au verso) est dument qualifie a naviguer tout yacht a propulsion par moteur \*)/a voile \*) dans les eaux cotieres de toute mer a toute distance de la terre la plus proche ne depassant pas 30 miles marins ainsi que partout dans la Mer Baltique, la Mer du Nord, la Manche, le Canal de Bristol, la Mer d'Irlande, la Mer d'Ecosse, le Mediterrannee et la Mer Noire. El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz \*)/ a la vela \*) en las aguas costeras de todos los mares en una distancia de hasta 30 millas marinas de la costa asi como en las aguas del Mar Baltico y del Mar del Norte, del Canal de la Mancha, del Canal de Bristol, del Mar de Irlanda y del Mar Escocia, del Mar Mediterraneo y del Mar Negro. \*) Siehe Innenseite/See inside/Voir page interieure/Vease adentro  
 
     BUNDESREPUBLIK DEUTSCHLAND
     ... (Bundesadler)
@@ -382,8 +355,7 @@ El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz \*)/
      
     Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions: 
 
-
-## Anlage 1a
+# Anlage 1a
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1946 - 1947
 
@@ -397,11 +369,7 @@ INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT IN COASTAL WATERS NOT 
 In conformity with resolution No. 40 of the Working Party on Inland Water Transport  
 United Nations Economic Commission for Europe  
 Befähigung/Qualification/Qualification/Habilitacion  
-Der Inhaber (Angaben umstehend) ist befähigt zum Führen von Yachten mit Antriebsmaschine \*)/unter Segel \*) auf den Küstengewässern aller Meere bis zu 12 Seemeilen Abstand von der Festlandküste (§ 1 Sportseeschifferscheinverordnung).  
-The holder (See overleaf) is duly qualified to navigate any powerdriven \*)/ sailing yacht \*) in the coastal waters of any sea at any distance not exceeding 12 nautical miles from the nearest land.  
-Le titulaire (Voir au verso) est dument qualifie a naviguer tout yacht a propulsion par moteura voile\* dans les eaux cotieres de toute mer a toute distance de la terre la plus proche ne depassant pas 12 miles marins.  
-El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz\* /a la vela\* en las aguas costeras de todos los mares en una distancia de hasta 12 millas marinas de la costa.  
-
+Der Inhaber (Angaben umstehend) ist befähigt zum Führen von Yachten mit Antriebsmaschine \*)/unter Segel \*) auf den Küstengewässern aller Meere bis zu 12 Seemeilen Abstand von der Festlandküste (§ 1 Sportseeschifferscheinverordnung). The holder (See overleaf) is duly qualified to navigate any powerdriven \*)/ sailing yacht \*) in the coastal waters of any sea at any distance not exceeding 12 nautical miles from the nearest land. Le titulaire (Voir au verso) est dument qualifie a naviguer tout yacht a propulsion par moteura voile\* dans les eaux cotieres de toute mer a toute distance de la terre la plus proche ne depassant pas 12 miles marins. El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz\* /a la vela\* en las aguas costeras de todos los mares en una distancia de hasta 12 millas marinas de la costa. 
     *) Siehe Innenseite/See inside/Voir page interieure/Vease adentro 
      
     BUNDESREPUBLIK DEUTSCHLAND
@@ -451,8 +419,7 @@ El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz\* /a
      
     Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/Conditions: 
 
-
-## Anlage 2
+# Anlage 2
 
 Fundstelle des Originaltextes: BGBl. I 1999, 1948 - 1949
 
@@ -466,11 +433,7 @@ INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT IN COASTAL WATERS
 In conformity with resolution No. 40 of the Working Party on Inland Water Transport  
 United Nations Economic Commission for Europe  
 Befähigung/Qualification/Qualification/Habilitacion  
-Der Inhaber (Angaben umstehend) ist befähigt zum Führen von Yachten mit Antriebsmaschine \*)/unter Segel \*) auf allen Meeren (§ 1 Sportseeschifferscheinverordnung).  
-The holder (See overleaf) is duly qualified to navigate any powerdriven \*)/ sailing yacht \*) in any sea area.  
-Le titulaire (Voir au verso) est dument qualifie a naviguer tout yacht a propulsion par moteur \*)/a voile \*) en tout mer.  
-El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz \*) /a la vela \*) en todos los mares.  
-
+Der Inhaber (Angaben umstehend) ist befähigt zum Führen von Yachten mit Antriebsmaschine \*)/unter Segel \*) auf allen Meeren (§ 1 Sportseeschifferscheinverordnung). The holder (See overleaf) is duly qualified to navigate any powerdriven \*)/ sailing yacht \*) in any sea area. Le titulaire (Voir au verso) est dument qualifie a naviguer tout yacht a propulsion par moteur \*)/a voile \*) en tout mer. El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz \*) /a la vela \*) en todos los mares. 
     *) Siehe Innenseite/See inside/Voir page interieure/Vease adentro
      
     BUNDESREPUBLIK DEUTSCHLAND
@@ -517,17 +480,12 @@ El titular (Vease a la vuelta) es apto para conducir yates a maquina motriz \*) 
      
     Auflagen nach § 6 Abs. 4 Sportseeschifferscheinverordnung/CONDITIONS: 
 
-
-## Anlage 2a
+# Anlage 2a
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3738
 
 Allgemeines Funkbetriebszeugnis (LRC)  
-Der Inhaber des Allgemeinen Funkbetriebszeugnisses (LRC) ist berechtigt zur uneingeschränkten Ausübung des Seefunkdienstes bei Sprech-Seefunkstellen, Schiffs-Erdfunkstellen und Funkeinrichtungen des weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) auf Sportfahrzeugen sowie auf Schiffen, für die dies in einer Richtlinie im Sinne von § 6 der Schiffssicherheitsverordnung vorgesehen ist.  
-Dieses Zeugnis wurde in Übereinstimmung mit Artikel S47 der Vollzugsordnung für den Funkdienst ausgestellt.  
-The holder of the Long Range Certificate (LRC) is authorized to operate any radiotelephone ship stations, ship earth stations and radio equipment for the Global Maritime Distress and Safety System (GMDSS) aboard pleasure craft as well as ships for which this is provided for in a legal guideline as defined by § 6 of the Ship Safety Ordinance.  
-This certificate was issued in accordance with Article S47 of the Radio Regulations.  
-BUNDESREPUBLIK DEUTSCHLAND  
+Der Inhaber des Allgemeinen Funkbetriebszeugnisses (LRC) ist berechtigt zur uneingeschränkten Ausübung des Seefunkdienstes bei Sprech-Seefunkstellen, Schiffs-Erdfunkstellen und Funkeinrichtungen des weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) auf Sportfahrzeugen sowie auf Schiffen, für die dies in einer Richtlinie im Sinne von § 6 der Schiffssicherheitsverordnung vorgesehen ist. Dieses Zeugnis wurde in Übereinstimmung mit Artikel S47 der Vollzugsordnung für den Funkdienst ausgestellt. The holder of the Long Range Certificate (LRC) is authorized to operate any radiotelephone ship stations, ship earth stations and radio equipment for the Global Maritime Distress and Safety System (GMDSS) aboard pleasure craft as well as ships for which this is provided for in a legal guideline as defined by § 6 of the Ship Safety Ordinance. This certificate was issued in accordance with Article S47 of the Radio Regulations. BUNDESREPUBLIK DEUTSCHLAND  
 FEDERAL REPUBLIC OF GERMANY  
 ... (Bundesadler)  
 ALLGEMEINES FUNKBETRIEBSZEUGNIS  
@@ -562,17 +520,12 @@ LONG RANGE CERTIFICATE - LRC -
                                             Eigenhändige Unterschrift des Inhabers/
                                                    Signature of the Holder 
 
-
-## Anlage 2b
+# Anlage 2b
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3739
 
 Allgemeines Funkbetriebszeugnis (SRC)  
-Der Inhaber des Beschränkt Gültigen Funkbetriebszeugnisses (SRC) ist berechtigt zur Ausübung des Seefunkdienstes bei Sprech-Seefunkstellen für UKW und Funkeinrichtungen des weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) für UKW auf Sportfahrzeugen sowie auf Schiffen, für die dies in einer Richtlinie im Sinne von § 6 der Schiffssicherheitsverordnung vorgesehen ist.  
-Dieses Zeugnis wurde in Übereinstimmung mit Artikel S47 der Vollzugsordnung für den Funkdienst ausgestellt.  
-The holder of the Short Range Certificate (SRC) is authorized to operate VHF radiotelephone ship stations and VHF radio equipment for the Global Maritime Distress and Safety System (GMDSS) aboard pleasure craft as well as ships for which this is provided for in a legal guideline as defined by § 6 of the Ship Safety Ordinance.  
-This certificate was issued in accordance with Article S47 of the Radio Regulations.  
-BUNDESREPUBLIK DEUTSCHLAND  
+Der Inhaber des Beschränkt Gültigen Funkbetriebszeugnisses (SRC) ist berechtigt zur Ausübung des Seefunkdienstes bei Sprech-Seefunkstellen für UKW und Funkeinrichtungen des weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) für UKW auf Sportfahrzeugen sowie auf Schiffen, für die dies in einer Richtlinie im Sinne von § 6 der Schiffssicherheitsverordnung vorgesehen ist. Dieses Zeugnis wurde in Übereinstimmung mit Artikel S47 der Vollzugsordnung für den Funkdienst ausgestellt. The holder of the Short Range Certificate (SRC) is authorized to operate VHF radiotelephone ship stations and VHF radio equipment for the Global Maritime Distress and Safety System (GMDSS) aboard pleasure craft as well as ships for which this is provided for in a legal guideline as defined by § 6 of the Ship Safety Ordinance. This certificate was issued in accordance with Article S47 of the Radio Regulations. BUNDESREPUBLIK DEUTSCHLAND  
 FEDERAL REPUBLIC OF GERMANY  
 ... (Bundesadler)  
 BESCHRÄNKT GÜLTIGES FUNKBETRIEBSZEUGNIS  
@@ -607,8 +560,7 @@ SHORT RANGE CERTIFICATE - SRC -
                                             Eigenhändige Unterschrift des Inhabers/
                                                    Signature of the Holder 
 
-
-## Anlage 3 – (zu § 2 Abs. 1)
+# Anlage 3 – (zu § 2 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1998, 402;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -699,8 +651,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
       I    streichen                    I    I                                  I
       -----------------------------------    ------------------------------------ 
 
-
-## Anlage 4 – (zu § 11 Abs. 2)Regelbesatzung von Traditionsschiffen mit Inhabern von nautischen und technischen Befähigungsnachweisen
+# Anlage 4 – (zu § 11 Abs. 2)Regelbesatzung von Traditionsschiffen mit Inhabern von nautischen und technischen Befähigungsnachweisen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 403;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -774,7 +725,6 @@ auf Maschinenfahrzeugen zwei Inhaber eines Befähigungsnachweises für Maschinis
 
  
 
-
-## Anlage 5 – (zu § 11a)
+# Anlage 5 – (zu § 11a)
 
 (weggefallen)

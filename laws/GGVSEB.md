@@ -1,13 +1,9 @@
-# [GGVSEB] Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern    (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt - GGVSEB)
-
-Ausfertigungsdatum: 17.06.2009
-
+% Verordnung über die innerstaatliche und grenzüberschreitende Beförderung gefährlicher Güter auf der Straße, mit Eisenbahnen und auf Binnengewässern    (Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt - GGVSEB)
+% Ausfertigungsdatum: 17.06.2009
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt die innerstaatliche und grenzüberschreitende Beförderung einschließlich der Beförderung von und nach Mitgliedstaaten der Europäischen Union (innergemeinschaftliche Beförderung) gefährlicher Güter
 
@@ -49,8 +45,7 @@ b) Beförderungen auf dem Rhein zusätzlich die von der Zentralkommission für d
 
 (5) Die in dieser Verordnung für die Teile 4 und 6 ADR/RID getroffenen Regelungen sind nach Maßgabe der Abschnitte 4.1.1 bis 4.1.4 und 6.1.1 bis 6.1.6 ADN auch für die Binnenschifffahrt anzuwenden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Die nachfolgenden Begriffe werden im Sinne dieser Verordnung wie folgt verwendet:
 
@@ -126,13 +121,11 @@ Verlader ist auch das Unternehmen, das als unmittelbarer Besitzer das gefährlic
 
 20. Bundeswasserstraßen sind die Wasserstraßen nach § 1 Absatz 1 und Absatz 4 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962, 2008 I S. 1980) in der jeweils geltenden Fassung mit Ausnahme der Elbe im Hamburger Hafen.
 
-
-## § 3 – Zulassung zur Beförderung
+# § 3 – Zulassung zur Beförderung
 
 Gefährliche Güter dürfen unbeschadet des § 5 nur befördert werden, wenn deren Beförderung nach den Unterabschnitten 2.2.1.2, 2.2.2.2, 2.2.3.2, 2.2.41.2, 2.2.42.2, 2.2.43.2, 2.2.51.2, 2.2.52.2, 2.2.61.2, 2.2.62.2, 2.2.8.2, 2.2.9.2, Kapitel 3.2 Tabelle A und Kapitel 3.3 ADR/RID/ADN oder nach Anlage 2 nicht ausgeschlossen ist und die Beförderung unter Einhaltung der anwendbaren Vorschriften des ADR/RID/ADN erfolgt.
 
-
-## § 4 – Allgemeine Sicherheitspflichten
+# § 4 – Allgemeine Sicherheitspflichten
 
 (1) Die an der Beförderung gefährlicher Güter Beteiligten haben die nach Art und Ausmaß der vorhersehbaren Gefahren erforderlichen Vorkehrungen zu treffen, um Schadensfälle zu verhindern und bei Eintritt eines Schadens dessen Umfang so gering wie möglich zu halten.
 
@@ -156,8 +149,7 @@ die dem Ort des Gefahreneintritts nächstgelegenen zuständigen Behörden unverz
 
 die Sendung möglichst rasch anzuhalten. Er darf die Beförderung erst fortsetzen, wenn die anzuwendenden Vorschriften erfüllt oder die Anweisungen oder Genehmigungen der zuständigen Behörden erteilt sind.
 
-
-## § 5 – Ausnahmen
+# § 5 – Ausnahmen
 
 (1) Die nach Landesrecht zuständigen Stellen können
 
@@ -195,8 +187,7 @@ sofern die die Ausnahme erteilende Behörde nicht etwas anderes bestimmt.
 
 (11) Bei dem Bescheid nach Absatz 1 bis 3 genügt das Mitführen eines fernkopierten Bescheides oder des Ausdrucks eines elektronisch erteilten und signierten Bescheides sowie dessen digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
 
-
-## § 6 – Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur
+# § 6 – Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur ist zuständige Behörde für
 
@@ -220,8 +211,7 @@ b) im Eisenbahnverkehr an das Sekretariat der OTIF;
 
 8. die Übertragung der Befugnis zur Ausstellung von Zulassungszeugnissen auf eine Untersuchungsstelle nach Unterabschnitt 1.16.2.3 ADN.
 
-
-## § 7 – Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern, für Bau und Heimat bestellten Sachverständigen oder Dienststellen
+# § 7 – Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern, für Bau und Heimat bestellten Sachverständigen oder Dienststellen
 
 (1) Die vom Bundesministerium der Verteidigung bestellten Sachverständigen oder Dienststellen sind für die Bundeswehr und die ausländischen Streitkräfte zuständige Behörden für
 
@@ -251,8 +241,7 @@ soweit dies für den Dienstbereich des Bundesministeriums des Innern, für Bau u
 
 (3) Die Zuständigkeit der nach Absatz 1 und 2 bestellten Dienststellen gilt auch für Überwachungsmaßnahmen nach § 9 Absatz 1 und 2 des Gefahrgutbeförderungsgesetzes innerhalb von Liegenschaften der Bundeswehr und der ausländischen Streitkräfte sowie von Liegenschaften im Dienstbereich des Bundesministeriums des Innern, für Bau und Heimat. Bei der Beförderung gefährlicher Güter auf der Straße durch die Bundeswehr oder durch ausländische Streitkräfte, auch wenn sich die Bundeswehr ziviler Unternehmen bedient, sind die nach Absatz 1 bestellten Dienststellen neben den nach Landesrecht zuständigen Behörden zur Überwachung befugt.
 
-
-## § 8 – Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
+# § 8 – Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung ist zuständige Behörde für
 
@@ -312,13 +301,11 @@ Satz 1 Nummer 1 Buchstabe h und Nummer 5 gelten nicht, sofern diese Aufgaben in 
 
 (2) Die unter Absatz 1 Satz 1 Nummer 1 Buchstabe c, d und f bis l, Nummer 2 bis 7, 11 und 13 genannten Zulassungen, Zustimmungen, Anerkennungen und Genehmigungen können widerruflich erteilt, befristet und mit Auflagen versehen werden, soweit dies erforderlich ist, um die Einhaltung der gefahrgutbeförderungsrechtlichen Vorschriften sicherzustellen.
 
-
-## § 9 – Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen
+# § 9 – Zuständigkeiten der von der Bundesanstalt für Materialforschung und -prüfung anerkannten Prüfstellen
 
 Die von der Bundesanstalt für Materialforschung und -prüfung nach § 12 Absatz 1 Nummer 8 der GGVSee anerkannten Prüfstellen sind zuständig für die Baumusterprüfung sowie die erstmalige, wiederkehrende und außerordentliche Prüfung von ortsbeweglichen Tanks und Gascontainern mit mehreren Elementen (MEGC) nach Kapitel 6.7 ADR/RID. Satz 1 gilt nicht, sofern diese Prüfungen in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen.
 
-
-## § 10 – Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
+# § 10 – Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
 
 Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr ist, soweit es sich um den militärischen Bereich handelt, zuständige Behörde für Aufgaben nach
 
@@ -330,8 +317,7 @@ Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr i
 
 4. Unterabschnitt 7.5.2.2 Fußnote a ADR/RID in Bezug auf explosive Stoffe und Gegenstände mit Explosivstoff.
 
-
-## § 11 – Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+# § 11 – Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständige Behörde für
 
@@ -347,8 +333,7 @@ Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständige Behö
 
 6. die Genehmigung des Strahlenschutzprogramms für die Beförderung von radioaktiven Stoffen mit einem Spezialschiff nach Absatz 7.1.4.14.7.3.7 ADN.
 
-
-## § 12 – Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
+# § 12 – Ergänzende Zuständigkeiten der Benannten Stellen für Tanks
 
 (1) Die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung, die für die Durchführung der nachfolgenden Aufgaben nach der Norm DIN EN ISO/IEC 17020:2012 akkreditiert sein müssen, sind zuständig für
 
@@ -382,8 +367,7 @@ Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5 und 6 gilt nicht, sofer
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur richtet einen Erfahrungsaustausch zwischen den zuständigen Stellen nach Absatz 1 und § 9 und der nationalen Akkreditierungsstelle sowie den Baumusterzulassungsbehörden nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe g bis l und § 15 Absatz 1 Nummer 10 ein, an dem die vorgenannten Behörden und Stellen teilnehmen müssen.
 
-
-## § 13 – Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
+# § 13 – Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße
 
 (1) Die nach § 16 Absatz 1 der Ortsbewegliche-Druckgeräte-Verordnung anerkannten Benannten Stellen sind zuständig für
 
@@ -405,13 +389,11 @@ Satz 1 Nummer 1 und 2, jeweils Buchstabe b, und Nummer 5 und 6 gilt nicht, sofer
 
 (3) Absatz 1 Nummer 1 und Nummer 4 bis 7 sowie Absatz 2 gelten nicht, sofern diese Aufgaben in den Geltungsbereich der Ortsbewegliche-Druckgeräte-Verordnung fallen.
 
-
-## § 13a – Zuständigkeiten der Benennenden Behörde
+# § 13a – Zuständigkeiten der Benennenden Behörde
 
 Die Benennende Behörde im Sinne des § 2 Nummer 9 der Ortsbewegliche-Druckgeräte-Verordnung ist zuständig für die Registrierung der Unterscheidungszeichen oder der Stempel der Prüfstellen nach Absatz 6.2.2.7.2 Buchstabe d, Absatz 6.2.2.7.7 Buchstabe b, Absatz 6.2.2.9.2 Buchstabe d und Absatz 6.2.2.9.4 Buchstabe b sowie des Kennzeichens des Herstellers nach Absatz 6.2.2.7.4 Buchstabe n ADR/RID.
 
-
-## § 14 – Besondere Zuständigkeiten im Straßenverkehr
+# § 14 – Besondere Zuständigkeiten im Straßenverkehr
 
 (1) Das Bundesamt für Güterverkehr ist zuständige Behörde für die Entgegennahme der Berichte über Ereignisse mit gefährlichen Gütern nach Unterabschnitt 1.8.5.1 ADR und deren Vorlage an das Bundesministerium für Verkehr und digitale Infrastruktur.
 
@@ -433,8 +415,7 @@ Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern 
 
 (6) Die Zulassungsbehörden nach der Fahrzeug-Zulassungsverordnung sind zuständig für Änderungen in Nummer 4 und 5 von ADR-Zulassungsbescheinigungen nach Unterabschnitt 9.1.3.1 ADR.
 
-
-## § 15 – Besondere Zuständigkeiten im Eisenbahnverkehr
+# § 15 – Besondere Zuständigkeiten im Eisenbahnverkehr
 
 (1) Das Eisenbahn-Bundesamt ist zuständige Behörde für
 
@@ -472,8 +453,7 @@ Einzelheiten zu Satz 1 Nummer 1 bis 3 können die Industrie- und Handelskammern 
 
 (3) Die nach Landesrecht zuständigen Behörden sind zuständig für Beförderungen im Bereich der nichtbundeseigenen Eisenbahnen, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
-
-## § 16 – Besondere Zuständigkeiten in der Binnenschifffahrt
+# § 16 – Besondere Zuständigkeiten in der Binnenschifffahrt
 
 (1) Die Physikalisch-Technische Bundesanstalt ist zuständige Behörde für
 
@@ -551,8 +531,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 (8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig nach der IMO Resolution A.749 (18) einschließlich deren Anlage „Code über Intaktstabilität aller Schiffstypen“ in der Fassung der Bekanntmachung vom 18. März 1999 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz 9.2.0.94.4 ADN.
 
-
-## § 17 – Pflichten des Auftraggebers des Absenders
+# § 17 – Pflichten des Auftraggebers des Absenders
 
 (1) Der Auftraggeber des Absenders im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat
 
@@ -566,8 +545,7 @@ Zuständige Behörde nach Satz 1 Nummer 4 und 5 sowie Unterabschnitt 7.1.5.5 ADN
 
 (3) Der Auftraggeber des Absenders im Straßenverkehr sowie in der Binnenschifffahrt hat dafür zu sorgen, dass dem Absender vor Beförderungsbeginn die erforderlichen Informationen für die Temperaturkontrolle nach Unterabschnitt 7.1.7.3 ADR/ADN zur Verfügung gestellt werden.
 
-
-## § 18 – Pflichten des Absenders
+# § 18 – Pflichten des Absenders
 
 (1) Der Absender im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat
 
@@ -639,8 +617,7 @@ angebracht werden und
 
 3. dass dem Beförderer vor Beförderungsbeginn die erforderlichen Informationen für die Temperaturkontrolle nach Unterabschnitt 7.1.7.3 ADN zur Verfügung gestellt werden.
 
-
-## § 19 – Pflichten des Beförderers
+# § 19 – Pflichten des Beförderers
 
 (1) Der Beförderer im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
@@ -756,8 +733,7 @@ b) der vorgeschriebene Ladungsrechner nach den Absätzen 9.3.1.13.3, 9.3.2.13.3 
 
 9. hat nach Absatz 1.4.2.2.1 Buchstabe d ADN sicherzustellen, dass beim Laden und Löschen ein zweites Evakuierungsmittel verfügbar ist, sofern die landseitige Einrichtung nicht mit dem vorgeschriebenen zweiten Evakuierungsmittel ausgerüstet ist.
 
-
-## § 20 – Pflichten des Empfängers
+# § 20 – Pflichten des Empfängers
 
 (1) Der Empfänger im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
@@ -775,8 +751,7 @@ b) nach dem Entladen und vor dem Zurückstellen oder vor der Wiederverwendung zu
 
 (4) Der Empfänger in der Binnenschifffahrt darf, wenn die Prüfung nach Absatz 1 Nummer 1 Buchstabe b einen Verstoß gegen die Vorschriften des ADN aufzeigt, dem Beförderer den Container, das Fahrzeug oder den Wagen erst dann zurückstellen, wenn der Verstoß behoben worden ist.
 
-
-## § 21 – Pflichten des Verladers
+# § 21 – Pflichten des Verladers
 
 (1) Der Verlader im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
@@ -858,8 +833,7 @@ angebracht sind;
 
 4. nach Absatz 1.4.3.1.1 Buchstabe f ADN sicherzustellen, dass beim Laden die landseitige Einrichtung mit einem oder zwei Evakuierungsmitteln ausgerüstet ist.
 
-
-## § 22 – Pflichten des Verpackers
+# § 22 – Pflichten des Verpackers
 
 (1) Der Verpacker im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat
 
@@ -901,8 +875,7 @@ zu beachten.
 
 zu beachten.
 
-
-## § 23 – Pflichten des Befüllers
+# § 23 – Pflichten des Befüllers
 
 (1) Der Befüller im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
@@ -1028,8 +1001,7 @@ angebracht werden;
 
 9. sicherzustellen, dass die Laderate mit der an Bord mitzuführenden Instruktion für die Lade- und Löschraten nach Absatz 9.3.2.25.9 oder 9.3.3.25.9 ADN übereinstimmt und der Druck an der Übergabestelle der Gasabfuhr- und Gasrückfuhrleitung den Öffnungsdruck des Hochgeschwindigkeitsventils nicht übersteigt.
 
-
-## § 23a – Pflichten des Entladers
+# § 23a – Pflichten des Entladers
 
 (1) Der Entlader im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat
 
@@ -1079,8 +1051,7 @@ e) sicherzustellen, dass für die gesamte Dauer des Löschens eine ständige und
 
 f) sicherzustellen, dass beim Löschen mit der bordeigenen Löschpumpe diese von der Landanlage aus abgeschaltet werden kann.
 
-
-## § 24 – Pflichten des Betreibers eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU
+# § 24 – Pflichten des Betreibers eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU
 
 Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt hat dafür zu sorgen, dass
 
@@ -1098,8 +1069,7 @@ Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Cont
 
 7. die MEMU nach Absatz 6.12.3.2.6 ADR untersucht und geprüft werden.
 
-
-## § 25 – Pflichten des Herstellers, Wiederaufarbeiters und Rekonditionierers von Verpackungen, des Herstellers und Wiederaufarbeiters von IBC und der Stellen für Inspektionen und Prüfungen von IBC
+# § 25 – Pflichten des Herstellers, Wiederaufarbeiters und Rekonditionierers von Verpackungen, des Herstellers und Wiederaufarbeiters von IBC und der Stellen für Inspektionen und Prüfungen von IBC
 
 (1) Der Hersteller oder Wiederaufarbeiter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
@@ -1115,8 +1085,7 @@ Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Cont
 
 (3) Die Stelle, die Inspektionen und Prüfungen von IBC nach Absatz 6.5.4.4.1, 6.5.4.4.2 oder 6.5.4.5.2 im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt durchführt, darf an IBC die Kennzeichen nach den Absätzen 6.5.2.2.1 und 6.5.4.5.3 ADR/RID nur anbringen, sofern die im Anerkennungsbescheid dieser Stelle genannten Nebenbestimmungen eingehalten werden.
 
-
-## § 26 – Sonstige Pflichten
+# § 26 – Sonstige Pflichten
 
 (1) Wer ungereinigte und nicht entgaste leere Tanks zur Beförderung übergibt, versendet oder selbst befördert, hat dafür zu sorgen, dass
 
@@ -1140,8 +1109,7 @@ Der Betreiber eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Cont
 
 3. nach Absatz 1.4.3.8.1 Buchstabe b sicherzustellen, dass, soweit gemäß Absatz 7.2.3.7.2.3 ADN erforderlich, in der Leitung der Annahmestelle, die an das zu entgasende Schiff angeschlossen ist, eine Flammendurchschlagsicherung vorhanden ist, welche das Schiff gegen Detonation und Flammendurchschlag von der Annahmestelle aus schützt.
 
-
-## § 27 – Pflichten mehrerer Beteiligter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
+# § 27 – Pflichten mehrerer Beteiligter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt
 
 (1) Der Verlader, Befüller, Beförderer, Entlader, Empfänger im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt, der Betreiber der Eisenbahninfrastruktur im Eisenbahnverkehr und der Betreiber einer Annahmestelle in der Binnenschifffahrt haben dafür zu sorgen, dass nach Unterabschnitt 1.8.5.1 ADR/RID/ADN die Vorlage eines Berichts spätestens einen Monat nach dem Ereignis
 
@@ -1193,8 +1161,7 @@ unterwiesen sind.
 
 (7) Der Beförderer und der Schiffsführer in der Binnenschifffahrt haben nach Absatz 1.4.2.2.1 Buchstabe f ADN sicherzustellen, dass an Bord des Schiffes in den explosionsgefährdeten Bereichen nur elektrische und nichtelektrische Anlagen und Geräte verwendet werden, die mindestens die Anforderungen für den Einsatz in der jeweiligen Zone erfüllen.
 
-
-## § 28 – Pflichten des Fahrzeugführers im Straßenverkehr
+# § 28 – Pflichten des Fahrzeugführers im Straßenverkehr
 
 Der Fahrzeugführer im Straßenverkehr hat
 
@@ -1248,8 +1215,7 @@ mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen
 
 16. die Vorschriften nach Kapitel 8.3 ADR zu beachten.
 
-
-## § 29 – Pflichten mehrerer Beteiligter im Straßenverkehr
+# § 29 – Pflichten mehrerer Beteiligter im Straßenverkehr
 
 (1) Der Verlader und der Fahrzeugführer im Straßenverkehr haben die Vorschriften über die Beladung und die Handhabung nach den Unterabschnitten 7.5.1.2, 7.5.1.4 und 7.5.1.5 und den Abschnitten 7.5.2, 7.5.5, 7.5.7, ausgenommen Unterabschnitt 7.5.7.4 Satz 2 beim Fahrzeugführer, sowie den Abschnitten 7.5.8 und 7.5.11 ADR zu beachten.
 
@@ -1277,8 +1243,7 @@ zu beachten.
 
 zu beachten.
 
-
-## § 30 – Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr
+# § 30 – Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr
 
 Der Betreiber eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr hat dafür zu sorgen, dass
 
@@ -1294,8 +1259,7 @@ Der Betreiber eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenb
 
 6. die Informationen, die nach Unterabschnitt 1.4.3.5 Buchstabe e RID zur Verfügung gestellt werden, auch den Tank und seine Ausrüstung umfassen.
 
-
-## § 30a – Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr
+# § 30a – Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr
 
 (1) Die für die Instandhaltung zuständige Stelle (ECM) hat dafür zu sorgen, dass
 
@@ -1311,8 +1275,7 @@ Der Betreiber eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenb
 
 2. in den Fällen nach Absatz 6.8.2.4.4 RID eine außerordentliche Prüfung des Kesselwagens durchgeführt wird, wenn die Sicherheit des Tanks oder seiner Ausrüstung beeinträchtigt sein könnte.
 
-
-## § 31 – Pflichten des Betreibers der Eisenbahninfrastruktur im Eisenbahnverkehr
+# § 31 – Pflichten des Betreibers der Eisenbahninfrastruktur im Eisenbahnverkehr
 
 Der Betreiber der Eisenbahninfrastruktur im Eisenbahnverkehr
 
@@ -1324,18 +1287,15 @@ a) dafür zu sorgen, dass nach Kapitel 1.11 RID interne Notfallpläne für Rangi
 
 b) sicherzustellen, dass er während der Beförderung einen schnellen und uneingeschränkten Zugriff zu den Informationen nach Unterabschnitt 1.4.3.6 Buchstabe b RID hat.
 
-
-## § 31a – Pflichten des Triebfahrzeugführers im Eisenbahnverkehr
+# § 31a – Pflichten des Triebfahrzeugführers im Eisenbahnverkehr
 
 Der Triebfahrzeugführer im Eisenbahnverkehr muss nach Unterabschnitt 5.4.3.3 RID vor Antritt der Fahrt die schriftlichen Weisungen zu den bei einem Unfall oder Zwischenfall zu ergreifenden Maßnahmen einsehen.
 
-
-## § 32 – Pflichten des Reisenden im Eisenbahnverkehr
+# § 32 – Pflichten des Reisenden im Eisenbahnverkehr
 
 Der Reisende darf im Eisenbahnverkehr gefährliche Güter als Handgepäck oder Reisegepäck nur mitführen oder in oder auf Fahrzeugen (Auto im Reisezug) nur befördern lassen, wenn die Vorschriften nach Unterabschnitt 1.1.3.8 RID beachtet sind.
 
-
-## § 33 – Pflichten des Schiffsführers in der Binnenschifffahrt
+# § 33 – Pflichten des Schiffsführers in der Binnenschifffahrt
 
 Der Schiffsführer in der Binnenschifffahrt
 
@@ -1369,8 +1329,7 @@ mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen
 
 12. hat nach Absatz 1.4.2.2.1 Buchstabe l vor dem Beladen und Entladen der Ladetanks eines Tankschiffs seinen Teil der Prüfliste nach Unterabschnitt 7.2.4.10 ADN auszufüllen.
 
-
-## § 34 – Pflichten des Eigentümers oder Betreibers in der Binnenschifffahrt
+# § 34 – Pflichten des Eigentümers oder Betreibers in der Binnenschifffahrt
 
 Der Eigentümer oder, sofern das Schiff von einem Betreiber gechartert wurde, der Betreiber in der Binnenschifffahrt hat dafür zu sorgen, dass
 
@@ -1390,13 +1349,11 @@ Der Eigentümer oder, sofern das Schiff von einem Betreiber gechartert wurde, de
 
 8. die Schiffsakte nach den Unterabschnitten 9.1.0.1, 9.3.1.1, 9.3.2.1 und 9.3.3.1 ADN geführt, aufbewahrt und aktualisiert wird.
 
-
-## § 34a – Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt
+# § 34a – Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt
 
 Die Besatzung sowie alle sonstigen an Bord befindlichen Personen haben den Anweisungen des Schiffsführers Folge zu leisten. Die Besatzung hat, im Rahmen des Satzes 1, zur Einhaltung dieser Verordnung ihrerseits beizutragen.
 
-
-## § 35 – Verlagerung
+# § 35 – Verlagerung
 
 (1) Die in § 35b genannten gefährlichen Güter müssen in dem dort festgelegten Rahmen auf dem Eisenbahn- oder Wasserweg befördert werden, sofern
 
@@ -1420,8 +1377,7 @@ In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungsp
 
 (5) Bei der Bescheinigung nach Absatz 4 Satz 1 genügt das Mitführen einer fernkopierten Bescheinigung oder des Ausdrucks einer elektronisch erteilten und signierten Bescheinigung sowie deren digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
 
-
-## § 35a – Fahrweg im Straßenverkehr
+# § 35a – Fahrweg im Straßenverkehr
 
 (1) Beförderungen von in § 35b genannten gefährlichen Gütern, die teilweise oder vollständig im Straßenverkehr erfolgen, sind in dem dort festgelegten Rahmen auf Autobahnen durchzuführen.
 
@@ -1437,8 +1393,7 @@ In diesem Fall hat der Beförderer vor Beginn der Beförderung im Beförderungsp
 
 (5) Bei der Fahrwegbestimmung nach Absatz 3 Satz 1 genügt das Mitführen eines fernkopierten Bescheides oder des Ausdrucks eines elektronisch erteilten und signierten Bescheides sowie dessen digitalisierte Form auf einem Speichermedium, wenn diese derart mitgeführt wird, dass sie bei einer Kontrolle auf Verlangen zuständigen Personen lesbar gemacht werden kann.
 
-
-## § 35b – Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten
+# § 35b – Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten
 
 Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a wie folgt:  
   
@@ -1446,8 +1401,7 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und 35a w
 Tabelle  
   
 
-lfd.  
-Nr.
+lfd. Nr.
 
 Klasse/  
 Unter-  
@@ -1650,8 +1604,7 @@ entfällt
 
 Die angegebenen Mengen beziehen sich auf die Beförderungseinheit. Werden verschiedene Güter der Klasse 1 jeweils in geringeren Mengen als 1 000 kg Nettoexplosivstoffmasse in einer Beförderungseinheit befördert, sind die §§ 35 und 35a ab einer Summe der Nettoexplosivstoffmassen dieser Güter von 1 000 kg in der Beförderungseinheit anzuwenden.
 
-
-## § 35c – Ausnahmen zu den §§ 35 und 35a
+# § 35c – Ausnahmen zu den §§ 35 und 35a
 
 (1) Die §§ 35 und 35a gelten nicht für Beförderungen von entzündbaren Gasen nach § 35b Tabelle laufende Nummer 2, wenn Tanks verwendet werden,
 
@@ -1699,23 +1652,19 @@ b) bis 3 000 kg Nettoexplosivstoffmasse in der Beförderungseinheit, sofern die
 
 ausgerüstet sind und dies in der ADR-Zulassungsbescheinigung nach Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz 1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
 
-
-## § 36 – Prüffrist für Feuerlöschgeräte
+# § 36 – Prüffrist für Feuerlöschgeräte
 
 Die Prüffrist nach Unterabschnitt 8.1.4.4 Satz 2 ADR beträgt für in Deutschland hergestellte Feuerlöschgeräte zwei Jahre ab dem Herstellungsdatum und danach ab dem Datum der nächsten auf dem Feuerlöschgerät angegebenen Prüfung.
 
-
-## § 36a – Beförderung gefährlicher Güter als behördliche Asservate
+# § 36a – Beförderung gefährlicher Güter als behördliche Asservate
 
 Sofern es aus ermittlungstaktischen Gründen oder zur Wahrnehmung einer behördlichen Aufgabe erforderlich ist, dürfen gefährliche Güter, denen in Kapitel 3.2 Tabelle A Spalte 6 die Sondervorschrift 274 zugeordnet ist, im Straßen- und Eisenbahnverkehr durch Polizeibehörden des Bundes und der Länder sowie durch Zoll- und Justizbehörden und in deren Auftrag tätige private Unternehmen befördert werden, ohne dass die offiziellen Benennungen für die Beförderung mit der technischen Benennung des Gutes nach Absatz 3.1.2.8.1 ADR/RID ergänzt werden. Dies gilt auch für die Angabe in einem Beförderungspapier nach Absatz 5.4.1.1.1 Buchstabe b ADR/RID.
 
-
-## § 36b – Beförderung erwärmter flüssiger und fester Stoffe
+# § 36b – Beförderung erwärmter flüssiger und fester Stoffe
 
 Für die Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 in besonders ausgerüsteten Fahrzeugen/Wagen und Containern/Großcontainern nach Abschnitt 7.3.3 Sondervorschrift VC 3 ADR/RID gelten die Anforderungen der Anlage 3.
 
-
-## § 37 – Ordnungswidrigkeiten
+# § 37 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -2043,8 +1992,7 @@ h) Nummer 8 nicht sicherstellt, dass eine Flammendurchschlagsicherung vorhanden 
 
 i) Nummer 9 nicht sicherstellt, dass die Laderate übereinstimmt und der Druck an der Übergabestelle den Öffnungsdruck des Hochgeschwindigkeitsventils nicht übersteigt,
 
-15a.  
-entgegen § 23a
+15a. entgegen § 23a
 
 a) Absatz 1 Nummer 1 sich nicht vergewissert, dass die richtigen Güter ausgeladen werden,
 
@@ -2214,8 +2162,7 @@ e) Nummer 5 nicht dafür sorgt, dass ein Kesselwagen, ein abnehmbarer Tank oder 
 
 f) Nummer 6 nicht dafür sorgt, dass eine dort genannte Information den Tank oder seine Ausrüstung umfasst,
 
-22a.  
-entgegen § 30a
+22a. entgegen § 30a
 
 a) Absatz 1 Nummer 1 nicht dafür sorgt, dass die Instandhaltung eines Tanks oder seiner Ausrüstung in einer dort genannten Weise sichergestellt wird,
 
@@ -2235,8 +2182,7 @@ b) Nummer 2 Buchstabe a nicht dafür sorgt, dass ein interner Notfallplan aufges
 
 c) Nummer 2 Buchstabe b nicht sicherstellt, dass er Zugriff zu einer Information hat,
 
-23a.  
-entgegen § 31a eine schriftliche Weisung nicht oder nicht rechtzeitig einsieht,
+23a. entgegen § 31a eine schriftliche Weisung nicht oder nicht rechtzeitig einsieht,
 
 24. entgegen § 32 ein gefährliches Gut mitführt oder befördern lässt,
 
@@ -2278,8 +2224,7 @@ d) Nummer 7 nicht dafür sorgt, dass ein Schiff einer Sonderuntersuchung unterzo
 
 e) Nummer 8 nicht dafür sorgt, dass eine Schiffsakte nach einer dort genannten Vorschrift geführt, aufbewahrt oder aktualisiert wird,
 
-26a.  
-entgegen § 34a Satz 1 den Anweisungen des Schiffsführers nicht Folge leistet,
+26a. entgegen § 34a Satz 1 den Anweisungen des Schiffsführers nicht Folge leistet,
 
 27. entgegen § 35
 
@@ -2299,18 +2244,15 @@ c) Absatz 4 Satz 3 eine Fahrwegbestimmung nicht oder nicht richtig beachtet, nic
 
 (2) Artikel 32 der Revidierten Rheinschifffahrtsakte vom 17. Oktober 1868 (BGBl. 1969 II S. 597) in der Fassung des Zusatzprotokolls Nummer 6 vom 21. Oktober 1999 (BGBl. 2002 II S. 1772, 1773) hinsichtlich der Geldbußen auf dem Rhein bis zu fünfundzwanzigtausend Euro bleibt unberührt.
 
-
-## § 38 – Übergangsbestimmungen
+# § 38 – Übergangsbestimmungen
 
 (1) Bis zum 30. Juni 2021 darf die Beförderung gefährlicher Güter noch nach den Vorschriften dieser Verordnung in der bis zum 31. Dezember 2020 geltenden Fassung durchgeführt werden.
 
 (2) Bei der Beförderung von im ADR/RID nicht näher bezeichneten Maschinen oder Geräten, die in ihrem inneren Aufbau oder in ihren Funktionselementen gefährliche Güter enthalten, nach der Übergangsvorschrift in Unterabschnitt 1.6.1.46 ADR/RID gilt im Straßenverkehr für innerstaatliche Beförderungen mit Fahrzeugen, die in Deutschland zugelassen sind, und für innerstaatliche Beförderungen im Eisenbahnverkehr weiterhin die Regelung nach Anlage 2 Gliederungsnummer 2.1 Buchstabe b dieser Verordnung in der bis zum 31. Dezember 2018 geltenden Fassung.
 
+# Anlage 1 – (weggefallen)
 
-## Anlage 1 – (weggefallen)
-
-
-## Anlage 2 – Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
+# Anlage 2 – Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
 (Fundstelle: BGBl. I 2021, 515 - 519)
 
@@ -2498,8 +2440,7 @@ gruppe</th><th style="text-align: left;">Benennung und Beschreibung</th></tr></t
 (2-AMINOBUTAN)</td></tr><tr class="even"><td style="text-align: center;">3446</td><td style="text-align: center;">6.1, T2</td><td style="text-align: center;">II</td><td style="text-align: left;">NITROTOLUENE, FEST, GESCHMOLZEN<br />
 (o-NITROTOLUEN)</td></tr></tbody></table>
 
-
-## Anlage 3 – (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
+# Anlage 3 – (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
 
 (Fundstelle: BGBl. I 2021, 520 - 526)
 
@@ -2725,20 +2666,20 @@ Während des Transports ist die Einfüllöffnung der Pfannen mit einem Deckel di
 
 Bild 1
 
-![](../normengrafiken/bgbl1_2021/j0481-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0010.jpg)
 
 Bild 2
 
-![](../normengrafiken/bgbl1_2021/j0481-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0020.jpg)
 
 Schutzeinrichtung „Kragen“
 
-![](../normengrafiken/bgbl1_2021/j0481-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0030.jpg)
 
 Schutzeinrichtung „Abweiser“
 
-![](../normengrafiken/bgbl1_2021/j0481-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0040.jpg)
 
 Schutzeinrichtung „Käfig“
 
-![](../normengrafiken/bgbl1_2021/j0481-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2021/j0481-1_0050.jpg)

@@ -1,41 +1,33 @@
-# [MV] Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und öffentlich-rechtliche Rundfunkanstalten  (Mitteilungsverordnung - MV)
-
-Ausfertigungsdatum: 07.09.1993
-
+% Verordnung über Mitteilungen an die Finanzbehörden durch andere Behörden und öffentlich-rechtliche Rundfunkanstalten  (Mitteilungsverordnung - MV)
+% Ausfertigungsdatum: 07.09.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 93a der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613, 1977 I S. 269), der durch Artikel 1 Nr. 10 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2436) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Grundsätze
+# § 1 – Grundsätze
 
 (1) Behörden (§ 6 Abs. 1 der Abgabenordnung) und öffentlich-rechtliche Rundfunkanstalten sind verpflichtet, Mitteilungen an die Finanzbehörden nach Maßgabe der folgenden Vorschriften ohne Ersuchen zu übersenden. Dies gilt nicht, wenn die Finanzbehörden bereits auf Grund anderer Vorschriften über diese Tatbestände Mitteilungen erhalten. Eine Verpflichtung zur Mitteilung besteht auch dann nicht, wenn die Gefahr besteht, daß das Bekanntwerden des Inhalts der Mitteilung dem Wohl des Bundes oder eines deutschen Landes Nachteile bereiten würde. Ist eine mitteilungspflichtige Behörde einer obersten Dienstbehörde nachgeordnet, muß die oberste Behörde dem Unterlassen der Mitteilung zustimmen; die Zustimmung kann für bestimmte Fallgruppen allgemein erteilt werden.
 
 (2) Auf Grund dieser Verordnung sind personenbezogene Daten, die dem Sozialgeheimnis unterliegen (§ 35 des Ersten Buches Sozialgesetzbuch), und nach Landesrecht zu erbringende Sozialleistungen nicht mitzuteilen.
 
-
-## § 2 – Allgemeine Zahlungsmitteilungen
+# § 2 – Allgemeine Zahlungsmitteilungen
 
 (1) Die Behörden haben Zahlungen mitzuteilen, wenn der Zahlungsempfänger nicht im Rahmen einer land- und forstwirtschaftlichen, gewerblichen oder freiberuflichen Haupttätigkeit gehandelt hat, oder soweit die Zahlung nicht auf das Geschäftskonto des Zahlungsempfängers erfolgt. Zahlungen sind auch mitzuteilen, wenn zweifelhaft ist, ob der Zahlungsempfänger im Rahmen der Haupttätigkeit gehandelt hat oder die Zahlung auf das Geschäftskonto erfolgt. Eine Mitteilungspflicht besteht nicht, wenn ein Steuerabzug durchgeführt wird.
 
 (2) Die Finanzbehörden können Ausnahmen von der Mitteilungspflicht zulassen, wenn die Zahlungen geringe oder keine steuerliche Bedeutung haben.
 
-
-## § 3 – Honorare der Rundfunkanstalten
+# § 3 – Honorare der Rundfunkanstalten
 
 (1) Die öffentlich-rechtlichen Rundfunkanstalten haben Honorare für Leistungen freier Mitarbeiter mitzuteilen, die in unmittelbarem Zusammenhang mit der Vorbereitung, Herstellung oder Verbreitung von Hörfunk- und Fernsehsendungen erbracht werden. Das gilt nicht, wenn die Besteuerung den Regeln eines Abzugsverfahrens unterliegt oder wenn die Finanzbehörden auf Grund anderweitiger Regelungen Mitteilungen über die Honorare erhalten.
 
 (2) Honorare im Sinne des Absatzes 1 sind alle Güter, die in Geld oder Geldeswert bestehen und dem Steuerpflichtigen für eine persönliche Leistung oder eine Verwertung im Sinne des Urheberrechtsgesetzes zufließen.
 
-
-## § 4 – Wegfall oder Einschränkung einer steuerlichen Vergünstigung
+# § 4 – Wegfall oder Einschränkung einer steuerlichen Vergünstigung
 
 Die Behörden haben Verwaltungsakte mitzuteilen, die den Wegfall oder die Einschränkung einer steuerlichen Vergünstigung zur Folge haben können.
 
-
-## § 4a – Ordnungsgelder nach § 335 des Handelsgesetzbuchs
+# § 4a – Ordnungsgelder nach § 335 des Handelsgesetzbuchs
 
 (1) Das Bundesamt für Justiz hat als mitteilungspflichtige Stelle (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden die Adressaten und die Höhe von nach dem 31. Dezember 2021 im Verfahren nach § 335 des Handelsgesetzbuchs festgesetzten Ordnungsgeldern mitzuteilen, sofern das festgesetzte Ordnungsgeld mindestens 5 000 Euro beträgt.
 
@@ -43,13 +35,11 @@ Die Behörden haben Verwaltungsakte mitzuteilen, die den Wegfall oder die Einsch
 
 (3) Sind dem Bundesamt für Justiz bei Festsetzung des Ordnungsgelds die in § 93c Absatz 1 Nummer 2 Buchstabe c und d der Abgabenordnung bezeichneten Daten nicht bekannt, soll es den Finanzbehörden die Handelsregisternummer der Gesellschaft oder andere ihm bekannte und zur automationsgestützten Identifizierung des Adressaten der Ordnungsgeldfestsetzung geeignete Daten übermitteln. Die den Finanzbehörden übermittelten Daten sind abweichend von § 93c Absatz 1 Nummer 4 der Abgabenordnung fünf Jahre aufzubewahren; die Frist beginnt mit dem Tag der Festsetzung des Ordnungsgelds. Weitergehende Aufbewahrungsbestimmungen aufgrund anderer Rechtsvorschriften bleiben unberührt. Wird die Festsetzung eines Ordnungsgelds in einem späteren Kalenderjahr ganz oder teilweise widerrufen, zurückgenommen oder aufgehoben, ist § 93c Absatz 3 der Abgabenordnung nicht anzuwenden.
 
-
-## § 5 – Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
+# § 5 – Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz
 
 Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem Flurbereinigungsgesetz mitzuteilen.
 
-
-## § 6 – Gewerberechtliche Erlaubnisse und Gestattungen
+# § 6 – Gewerberechtliche Erlaubnisse und Gestattungen
 
 (1) Die Behörden haben mitzuteilen
 
@@ -77,8 +67,7 @@ Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem
 
 3. den Ort der Durchführung des Werkvertrages.
 
-
-## § 7 – Ausnahmen von der Mitteilungspflicht über Zahlungen
+# § 7 – Ausnahmen von der Mitteilungspflicht über Zahlungen
 
 (1) Zahlungen an Behörden, juristische Personen des öffentlichen Rechts, Betriebe gewerblicher Art von Körperschaften des öffentlichen Rechts oder Körperschaften, die steuerbegünstigte Zwecke im Sinne des Zweiten Teils Dritter Abschnitt der Abgabenordnung verfolgen, sind nicht mitzuteilen; maßgebend sind die Verhältnisse zum Zeitpunkt der Zahlung. Das gilt auch für Mitteilungen über Leistungen, die von Körperschaften des öffentlichen Rechts im Rahmen ihrer Beteiligungen an Unternehmen oder Einrichtungen des privaten Rechts erbracht werden.
 
@@ -88,8 +77,7 @@ Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem
 
 (+++ § 7 Abs. 2 Satz 1: Zur erstmaligen Anwendung vgl. Art. 97 § 4 AOEG 1977 +++)
 
-
-## § 8 – Form und Inhalt der Mitteilungen
+# § 8 – Form und Inhalt der Mitteilungen
 
 (1) Die Mitteilungen sollen schriftlich ergehen. Sie sind für jeden Betroffenen getrennt zu erstellen. Sie können auch auf maschinell verwertbaren Datenträgern oder durch Datenfernübertragung übermittelt werden; in diesen Fällen bedarf das Verfahren der Zustimmung der obersten Finanzbehörde des Landes, in dem die mitteilende Behörde oder Rundfunkanstalt ihren Sitz hat. Eine Übermittlung im automatisierten Abrufverfahren findet nicht statt.
 
@@ -97,32 +85,27 @@ Die Flurbereinigungsbehörden haben Ausgleichs- und Abfindungszahlungen nach dem
 
 (3) In Mitteilungen über Verwaltungsakte sind die Behörde, die den Verwaltungsakt erlassen hat, das Aktenzeichen und das Datum des Verwaltungsakts sowie Gegenstand und Umfang der Genehmigung, Erlaubnis oder gewährten Leistung und die Bezeichnung (Name, Vorname, Firma), die Anschrift des Beteiligten und, wenn bekannt, seine Steuernummer sowie sein Geburtsdatum anzugeben. Die Mitteilungspflicht kann auch durch die Übersendung einer Mehrausfertigung oder eines Abdrucks des Bescheids erfüllt werden. In diesem Fall dürfen jedoch nicht mehr personenbezogene Daten übermittelt werden, als nach Satz 1 zulässig ist.
 
-
-## § 9 – Empfänger der Mitteilungen
+# § 9 – Empfänger der Mitteilungen
 
 (1) Die Mitteilungen sind an das Finanzamt zu richten, in dessen Bezirk der Zahlungsempfänger oder derjenige, für den ein Verwaltungsakt bestimmt ist, seinen Wohnsitz hat. Bei Körperschaften, Personenvereinigungen und Vermögensmassen ist die Mitteilung dem Finanzamt zuzuleiten, in dessen Bezirk sich die Geschäftsleitung befindet. Mitteilungen nach § 6 Abs. 2 sind an das für die Umsatzbesteuerung zuständige Finanzamt zu richten. Bestehen Zweifel über die Zuständigkeit des Finanzamts, ist die Mitteilung an die Oberfinanzdirektionen zu senden, in deren Bezirk die Behörde oder Rundfunkanstalt ihren Sitz hat. Die Oberfinanzdirektion, in deren Bezirk die mitteilungspflichtige Behörde oder Rundfunkanstalt ihren Sitz hat, kann ein Finanzamt bestimmen, an das die mitteilungspflichtige Behörde oder Rundfunksanstalt die Mitteilung zu übersenden hat.
 
 (2) Werden Mitteilungen auf maschinell verwertbaren Datenträgern oder durch Datenfernübertragung übermittelt, kann die oberste Finanzbehörde des Landes, in dem die mitteilungspflichtige Behörde oder Rundfunkanstalt ihren Sitz hat, eine andere Landesfinanzbehörde oder mit Zustimmung des Bundesministeriums der Finanzen eine Finanzbehörde des Bundes als Empfänger der Mitteilungen bestimmen.
 
-
-## § 10
+# § 10
 
 Die Mitteilungen nach § 6 Abs. 2 sind unverzüglich, die Mitteilungen nach den §§ 4 und 6 Abs. 1 sind mindestens vierteljährlich und die übrigen Mitteilungen mindestens einmal jährlich, spätestens bis zum 30. April des Folgejahres, zu übersenden.
 
-
-## § 11 – Pflicht zur Unterrichtung
+# § 11 – Pflicht zur Unterrichtung
 
 Die mitteilungspflichtige Behörde oder öffentlich-rechtliche Rundfunkanstalt hat den Betroffenen von ihrer Verpflichtung, Mitteilungen zu erstellen, spätestens bei Übersendung der ersten Mitteilung an die Finanzbehörde zu unterrichten.
 
-
-## § 12 – Inhalt der Unterrichtung
+# § 12 – Inhalt der Unterrichtung
 
 (1) Der Betroffene ist darüber zu unterrichten, daß den Finanzbehörden die nach § 8 geforderten Angaben mitgeteilt werden, soweit sich diese Unterrichtung nicht aus dem Verwaltungsakt, dem Vertrag, der Genehmigung oder der Erlaubnis ergibt. Der Betroffene ist hierbei in allgemeiner Form auf seine steuerlichen Aufzeichnungs- und Erklärungspflichten hinzuweisen.
 
 (2) In den Fällen des § 2 Satz 2 und des § 3 ist dem Betroffenen eine Aufstellung der im Kalenderjahr geleisteten Zahlungen und ihrer Summe zu übersenden, soweit nicht über die einzelne Zahlung bereits eine Unterrichtung erfolgt ist.
 
-
-## § 13 – Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise
+# § 13 – Mitteilungen über Billigkeitsleistungen des Bundes und der Länder anlässlich der Corona-Krise
 
 (1) Behörden und andere öffentliche Stellen des Bundes und der Länder haben als mitteilungspflichtige Stellen (§ 93c Absatz 1 der Abgabenordnung) den Finanzbehörden folgende als Subvention oder ähnliche Förderungsmaßnahme bewilligte Leistungen nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle nach Maßgabe des § 93c der Abgabenordnung mitzuteilen:
 
@@ -160,7 +143,6 @@ Werden nach Satz 1 mitzuteilende Zahlungen in einem späteren Kalenderjahr ganz 
 
 (4) Von den Absätzen 1 bis 3 abweichende Bestimmungen dieser Verordnung sind nicht anzuwenden. § 1 Absatz 2 und § 2 Absatz 2 bleiben unberührt.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

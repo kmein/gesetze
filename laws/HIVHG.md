@@ -1,37 +1,29 @@
-# [HIVHG] Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen  (HIV-Hilfegesetz - HIVHG)
-
-Ausfertigungsdatum: 24.07.1995
-
+% Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen  (HIV-Hilfegesetz - HIVHG)
+% Ausfertigungsdatum: 24.07.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck des Gesetzes ist es, aus humanitären und sozialen Gründen und unabhängig von bisher erbrachten Entschädigungs- und sozialen Leistungen an Personen, die durch Blutprodukte unmittelbar oder mittelbar mit dem Human Immundeficiency Virus (HIV) oder infolge davon an AIDS erkrankt sind, lebenslang und an deren unterhaltsberechtigte Angehörige zeitlich begrenzt finanzielle Hilfe zu leisten.
 
-
-## § 2 – Mittel für finanzielle Hilfe
+# § 2 – Mittel für finanzielle Hilfe
 
 Die Mittel für die finanzielle Hilfe werden vom Bund aufgebracht.
 
-
-## § 3 – Errichtung und Sitz
+# § 3 – Errichtung und Sitz
 
 (1) Unter dem Namen "Humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen" wird eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung gilt als mit dem Inkrafttreten dieses Gesetzes entstanden.
 
 (2) Der Sitz der Stiftung ist Bonn.
 
-
-## § 4 – Stiftungszweck
+# § 4 – Stiftungszweck
 
 Zweck der Stiftung ist es, die Zwecksetzung nach § 1 durch Auszahlung der Leistungen an die anspruchsberechtigten Personen zu erfüllen.
 
-
-## § 5 – Stifter, Stiftungsvermögen
+# § 5 – Stifter, Stiftungsvermögen
 
 (1) Stifter sind der Bund, die pharmazeutischen Unternehmen Bayer AG, Immuno GmbH, Baxter Deutschland GmbH, Behringwerke AG, Armour Pharma GmbH, Alpha Therapeutic GmbH und die Blutspendedienste des Deutschen Roten Kreuzes.
 
@@ -39,18 +31,15 @@ Zweck der Stiftung ist es, die Zwecksetzung nach § 1 durch Auszahlung der Leist
 
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
-
-## § 6 – Satzung
+# § 6 – Satzung
 
 Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit den Stimmen der Mehrheit seiner Mitglieder beschlossen wird und der Genehmigung des Bundesministeriums für Gesundheit im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz bedarf. Der Stiftungsrat kann die Satzung mit Genehmigung des Bundesministeriums für Gesundheit im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz ändern.
 
-
-## § 7 – Organe
+# § 7 – Organe
 
 Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
-
-## § 8 – Stiftungsrat
+# § 8 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied wird vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder werden vom Deutschen Bundestag benannt. Zwei Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag der in § 5 Absatz 1 genannten pharmazeutischen Unternehmen und der Blutspendedienste des Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das Bundesministerium für Gesundheit auf Vorschlag der überörtlichen Hämophilieverbände.
 
@@ -66,8 +55,7 @@ Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
 (7) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Er überwacht die Tätigkeit des Stiftungsvorstandes. Das Nähere regelt die Satzung.
 
-
-## § 9 – Stiftungsvorstand
+# § 9 – Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus dem vorsitzenden Mitglied und höchstens zwei weiteren Mitgliedern. § 8 Abs. 4 gilt entsprechend.
 
@@ -77,13 +65,11 @@ Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
 (4) Das Nähere regelt die Satzung.
 
-
-## § 10 – Verwaltungskosten
+# § 10 – Verwaltungskosten
 
 Die Kosten für die Durchführung der Aufgaben der Stiftung sind aus den Stiftungsmitteln zu tragen.
 
-
-## § 11 – Aufsicht, Haushalt, Rechnungslegung, Rechnungsprüfung
+# § 11 – Aufsicht, Haushalt, Rechnungslegung, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Aufsicht des Bundesministeriums für Gesundheit.
 
@@ -93,23 +79,19 @@ Die Kosten für die Durchführung der Aufgaben der Stiftung sind aus den Stiftun
 
 (4) Rechnungsprüfungsbehörde ist der Bundesrechnungshof.
 
-
-## § 12 – Verschwiegenheitspflicht
+# § 12 – Verschwiegenheitspflicht
 
 Die Mitglieder des Stiftungsrates, des Stiftungsvorstandes und der Kommission nach § 18 Abs. 2 haben über die während ihrer Tätigkeit erlangten Kenntnisse und Unterlagen, die die personenbezogenen Daten der antragstellenden Personen betreffen, Verschwiegenheit zu bewahren, auch wenn sie die Tätigkeit für die Stiftung beendet haben. Personen, die bei der Stiftung beschäftigt sind und auf Grund ihrer Tätigkeit Zugang zu personenbezogenen Daten der antragstellenden Personen haben, sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469, 547) auf die gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten, soweit sie nicht Amtsträger sind.
 
-
-## § 13 – Datenschutz
+# § 13 – Datenschutz
 
 Die Antragsunterlagen dürfen nur für die Erfüllung des Stiftungszweckes verwendet werden. Für die Verarbeitung und Nutzung der darin enthaltenen personenbezogenen Daten gelten - mit Ausnahme des § 14 Abs. 2 - die Bestimmungen des Bundesdatenschutzgesetzes.
 
-
-## § 14 – Aufhebung der Stiftung
+# § 14 – Aufhebung der Stiftung
 
 Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist.
 
-
-## § 15 – Anspruchsberechtigte Personen
+# § 15 – Anspruchsberechtigte Personen
 
 (1) Einen Anspruch auf Leistungen der Stiftung haben Personen, die in dem Gebiet der heutigen Bundesrepublik Deutschland durch in diesem Gebiet in Verkehr gebrachte Blutprodukte vor dem 1. Januar 1988 unmittelbar
 
@@ -133,8 +115,7 @@ Eine AIDS-Erkrankung ist anzunehmen, wenn entweder eine CD4-Helferzahl von wenig
 
 (8) Im Falle des Absatzes 4 ist das Kindschaftsverhältnis oder die Ehe durch entsprechende Urkunden nachzuweisen. Im übrigen gelten die Absätze 5 bis 7 entsprechend.
 
-
-## § 16 – Leistungen
+# § 16 – Leistungen
 
 (1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne Prüfung der Einkommens- oder sonstigen wirtschaftlichen Verhältnisse.
 
@@ -148,15 +129,13 @@ Eine AIDS-Erkrankung ist anzunehmen, wenn entweder eine CD4-Helferzahl von wenig
 
 (6) Die Leistungen werden zum gleichen Zeitpunkt, zu dem die Renten der gesetzlichen Rentenversicherung angepasst werden, entsprechend dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert. Die Anpassung erfolgt ab dem 1. Juli 2019.
 
-
-## § 17 – Steuerfreiheit, Anrechnung auf andere Leistungen
+# § 17 – Steuerfreiheit, Anrechnung auf andere Leistungen
 
 (1) Die Leistungen der Stiftung werden nicht auf andere Leistungen aus öffentlichen Mitteln angerechnet und auch nicht bei der gesetzlich vorgesehenen Ermittlung von Einkommen und Vermögen berücksichtigt.
 
 (2) Die Ansprüche auf Leistungen der Stiftung können nicht übertragen, verpfändet oder gepfändet werden.
 
-
-## § 18 – Verfahren
+# § 18 – Verfahren
 
 (1) Der Stiftungsvorstand gewährt auf Antrag Leistungen nach diesem Gesetz durch Bescheid.
 
@@ -168,40 +147,32 @@ Eine AIDS-Erkrankung ist anzunehmen, wenn entweder eine CD4-Helferzahl von wenig
 
 (5) Im übrigen findet das Verwaltungsverfahrensgesetz des Bundes Anwendung.
 
-
-## § 19 – Rechtsweg
+# § 19 – Rechtsweg
 
 Für Rechtsstreitigkeiten in Anwendung dieses Gesetzes ist der Verwaltungsrechtsweg gegeben. Vor Klageerhebung ist gegen den Bescheid gemäß § 18 Widerspruch zu erheben, über den der Stiftungsvorstand entscheidet.
 
-
-## § 20 – Ausschluß von Ansprüchen
+# § 20 – Ausschluß von Ansprüchen
 
 (1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen erhalten, gegen die Bundesrepublik Deutschland, die Blutspendedienste des Deutschen Roten Kreuzes und die in § 5 Absatz 1 genannten pharmazeutischen Unternehmen sowie die mit ihnen verbundenen Unternehmen wegen einer von diesem Gesetz erfaßten HIV-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf andere übertragen worden sind.
 
 (2) Absatz 1 gilt nicht für Ansprüche nach dem Sechzehnten Abschnitt des Arzneimittelgesetzes, sofern hierauf nicht bereits abschließende Leistungen erbracht worden sind.
 
-
-## § 21 – Anhängige Rechtsstreitigkeiten
+# § 21 – Anhängige Rechtsstreitigkeiten
 
 Werden anhängige Rechtsstreitigkeiten über nach § 20 Abs. 1 erloschene Ansprüche für erledigt erklärt, so trägt jede Partei die ihr entstandenen außergerichtlichen Kosten. Gerichtskosten werden nicht erhoben.
 
+# § 22 – (weggefallen)
 
-## § 22 – (weggefallen)
-
-
-## § 23 – Ausschluß von Ansprüchen
+# § 23 – Ausschluß von Ansprüchen
 
 Ansprüche von Personen, die nach Teil 2 Abschnitt 2 Leistungen erhalten, gegen die Länder wegen einer von diesem Gesetz erfaßten HIV-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf einen anderen übertragen worden sind.
 
+# § 24 – (weggefallen)
 
-## § 24 – (weggefallen)
-
-
-## § 25 – Programm "Humanitäre Soforthilfe"
+# § 25 – Programm "Humanitäre Soforthilfe"
 
 Die Richtlinie für die Gewährung von Leistungen an durch Blut oder Blutprodukte HIV-infizierte oder an AIDS erkrankte Personen durch das Programm "Humanitäre Soforthilfe" vom 16. März 1995 (BAnz. S. 3309) wird aufgehoben. Vorgänge, die noch nicht abgeschlossen sind, werden nach Maßgabe der Bestimmungen der genannten Richtlinie abgewickelt.
 
-
-## § 26 – Inkrafttreten
+# § 26 – Inkrafttreten
 
 Dieses Gesetz tritt in Kraft, sobald sichergestellt ist, daß die in § 2 Nr. 2 und 3 genannten Mittel der Stiftung "Humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen" als Teilbeitrag für das Jahr 1995 zur Verfügung gestellt werden. Das Bundesministerium für Gesundheit gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.

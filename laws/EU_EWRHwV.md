@@ -1,20 +1,15 @@
-# [EU/EWRHwV] Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks   (EU/EWR-Handwerk-Verordnung - EU/EWRHwV)
-
-Ausfertigungsdatum: 18.03.2016
-
+% Verordnung über die für Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz geltenden Voraussetzungen für die Ausübung eines zulassungspflichtigen Handwerks   (EU/EWR-Handwerk-Verordnung - EU/EWRHwV)
+% Ausfertigungsdatum: 18.03.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Absatz 1 Satz 1 Nummer 1 und 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Ausnahmebewilligung zur Eintragung in die Handwerksrolle
+# § 1 – Ausnahmebewilligung zur Eintragung in die Handwerksrolle
 
 Staatsangehörigen eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, nachfolgend Herkunftsstaaten genannt, die im Inland zur Ausübung eines Handwerks der Anlage A der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, eine gewerbliche Niederlassung unterhalten oder als Betriebsleiterin oder Betriebsleiter tätig sein wollen, wird nach Maßgabe der folgenden Vorschriften auf Antrag eine Ausnahmebewilligung zur Eintragung in die Handwerksrolle nach § 9 Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 7 Absatz 3 der Handwerksordnung erteilt. Die Möglichkeit einer Ausnahmebewilligung nach § 8 Absatz 1 der Handwerksordnung bleibt unberührt.
 
-
-## § 2 – Anerkennung von Berufserfahrung
+# § 2 – Anerkennung von Berufserfahrung
 
 (1) Eine Ausnahmebewilligung erhält, wer in dem betreffenden Gewerbe die notwendige Berufserfahrung im Sinne der Absätze 2 und 3 besitzt. Satz 1 gilt nicht für Gewerbe nach Anlage A Nummer 33 bis 37 der Handwerksordnung.
 
@@ -38,8 +33,7 @@ Staatsangehörigen eines Mitgliedstaates der Europäischen Union, eines anderen 
 
 3. in leitender Stellung mit kaufmännischen oder technischen Aufgaben und mit der Verantwortung für mindestens eine Abteilung des Unternehmens.
 
-
-## § 3 – Anerkennung von Ausbildungs- und Befähigungsnachweisen
+# § 3 – Anerkennung von Ausbildungs- und Befähigungsnachweisen
 
 (1) Die Ausnahmebewilligung wird vorbehaltlich der Anordnung von Ausgleichsmaßnahmen nach § 5 auch erteilt, wenn die Antragstellerin oder der Antragsteller in einem anderen Herkunftsstaat eine berufliche Qualifikation erworben hat, die dort Voraussetzung für die Ausübung zumindest einer wesentlichen Tätigkeit des betreffenden Gewerbes ist. Die berufliche Qualifikation muss durch die Vorlage eines Ausbildungs- oder Befähigungsnachweises nachgewiesen werden.
 
@@ -69,15 +63,13 @@ Dies gilt auch, wenn eine Ausbildung in einem anderen Herkunftsstaat durchgefüh
 
 2. die Antragstellerin oder der Antragsteller diesen Beruf dort mindestens drei Jahre als Vollzeitbeschäftigung oder als entsprechende Teilzeitbeschäftigung ausgeübt hat.
 
-
-## § 4 – Gemeinsame Ausbildungsrahmen und Ausbildungsprüfungen
+# § 4 – Gemeinsame Ausbildungsrahmen und Ausbildungsprüfungen
 
 (1) Die Ausnahmebewilligung wird auch erteilt, wenn die Antragstellerin oder der Antragsteller in einem anderen Herkunftsstaat für das betreffende Gewerbe erfolgreich einen gemeinsamen Ausbildungsrahmen durchlaufen hat. Ein gemeinsamer Ausbildungsrahmen ist ein Ausbildungsrahmen, der auf Grundlage der Artikel 49a und 57c der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, von der Europäischen Kommission als delegierter Rechtsakt erlassen und in der Bundesrepublik Deutschland eingeführt wurde. Ein gemeinsamer Ausbildungsrahmen deckt ein gemeinsames Spektrum von Kenntnissen, Fähigkeiten und Kompetenzen ab, die für die Ausübung des betreffenden Berufes mindestens erforderlich sind.
 
 (2) Die Ausnahmebewilligung wird auch erteilt, wenn die Antragstellerin oder der Antragsteller in einem anderen Herkunftsstaat für das betreffende Gewerbe eine gemeinsame Ausbildungsprüfung bestanden hat. Eine gemeinsame Ausbildungsprüfung ist eine Ausbildungsprüfung, die auf Grundlage der Artikel 49b und 57c der Richtlinie 2005/36/EG von der Europäischen Kommission als delegierter Rechtsakt erlassen und in der Bundesrepublik Deutschland eingeführt wurde. Die gemeinsame Ausbildungsprüfung ist eine standardisierte Eignungsprüfung, die den Inhabern und Inhaberinnen einer bestimmten Berufsqualifikation vorbehalten ist.
 
-
-## § 5 – Ausgleichsmaßnahmen
+# § 5 – Ausgleichsmaßnahmen
 
 (1) Die zuständige Behörde kann von der Antragstellerin oder dem Antragsteller vor der Erteilung einer Ausnahmebewilligung als Ausgleichsmaßnahme die Teilnahme an einem höchstens dreijährigen Anpassungslehrgang oder das Ablegen einer Eignungsprüfung verlangen, wenn
 
@@ -93,8 +85,7 @@ Dies gilt auch, wenn eine Ausbildung in einem anderen Herkunftsstaat durchgefüh
 
 3. wenn die von der Antragstellerin oder dem Antragsteller durch lebenslanges Lernen erworbenen Kenntnisse, Fähigkeiten und Kompetenzen, die hierfür von einer zuständigen Behörde oder öffentlichen Einrichtung des anderen Herkunftsstaates als gültig anerkannt wurden, den wesentlichen Unterschied in Bezug auf die Fächer oder Handlungsfelder gemäß Absatz 1 Nummer 1 ausgleichen können; das lebenslange Lernen umfasst jegliche Aktivitäten der allgemeinen, beruflichen und sonstigen Bildung sowie des informellen Lernens während des gesamten Lebens, aus denen sich eine Verbesserung von Kenntnissen, Fähigkeiten und Kompetenzen ergibt.
 
-
-## § 6 – Anerkennungsverfahren, Mitteilungspflichten und Fristen
+# § 6 – Anerkennungsverfahren, Mitteilungspflichten und Fristen
 
 (1) Die zuständige Behörde kann von der Antragstellerin oder dem Antragsteller insbesondere folgende Unterlagen und Bescheinigungen verlangen:
 
@@ -136,8 +127,7 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (+++ § 6 Abs. 3: Zur Anwendung vgl. § 10 Abs. 1 +++) (+++ § 6 Abs. 7: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
-
-## § 7 – Eignungsprüfung
+# § 7 – Eignungsprüfung
 
 (1) In der Eignungsprüfung werden die beruflichen Kenntnisse, Fähigkeiten und Kompetenzen der Antragstellerinnen oder Antragsteller geprüft und es wird beurteilt, ob die Antragstellerinnen oder Antragsteller in der Lage sind, für ein zulassungspflichtiges Handwerk als Betriebsverantwortliche oder Betriebsverantwortlicher tätig zu sein.
 
@@ -151,15 +141,13 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (+++ § 7: Zur Anwendung vgl. § 9 Abs. 3 +++)
 
-
-## § 8 – Voraussetzungen der Dienstleistungserbringung
+# § 8 – Voraussetzungen der Dienstleistungserbringung
 
 (1) Staatsangehörigen eines Herkunftsstaates, die im Inland keine gewerbliche Niederlassung unterhalten, ist die vorübergehende und gelegentliche Erbringung von Dienstleistungen in einem Handwerk der Anlage A der Handwerksordnung gestattet, wenn sie in einem anderen Herkunftsstaat zur Ausübung vergleichbarer Tätigkeiten rechtmäßig niedergelassen sind. Setzt der andere Herkunftsstaat für die Ausübung der betreffenden Tätigkeiten keine bestimmte berufliche Qualifikation voraus und verfügt die Dienstleistungserbringerin oder der Dienstleistungserbringer über keine reglementierte Ausbildung im Sinne von § 3 Absatz 2 Satz 2 für die Tätigkeiten, so ist Satz 1 nur anzuwenden, wenn die Tätigkeiten im anderen Herkunftsstaat als Vollzeitbeschäftigung mindestens ein Jahr oder als entsprechende Teilzeitbeschäftigung tatsächlich und rechtmäßig ausgeübt worden sind und nicht länger als zehn Jahre zurückliegen.
 
 (2) Beabsichtigen Staatsangehörige eines Herkunftsstaates, Dienstleistungen erstmals in einem Handwerk der Anlage A Nummer 12 oder Nummer 33 bis 37 der Handwerksordnung in der Bundesrepublik Deutschland zu erbringen, so muss die zuständige Behörde vor der Dienstleistungserbringung die Berufsqualifikation der Dienstleistungserbringerin oder des Dienstleistungserbringers prüfen, wenn unter Berücksichtigung der beabsichtigten Tätigkeit bei unzureichender Qualifikation eine schwere Gefahr für die Gesundheit oder Sicherheit der Dienstleistungsempfänger oder Dienstleistungsempfängerinnen bestünde.
 
-
-## § 9 – Anzeige vor Dienstleistungserbringung
+# § 9 – Anzeige vor Dienstleistungserbringung
 
 (1) Die Dienstleistungserbringerin oder der Dienstleistungserbringer muss der zuständigen Behörde die beabsichtigte Erbringung einer Dienstleistung vor dem erstmaligen Tätigwerden schriftlich oder elektronisch anzeigen und dabei das Vorliegen der Voraussetzungen nach § 8 Absatz 1 durch Unterlagen nachweisen. Die örtliche Zuständigkeit für die Anzeige richtet sich nach dem Ort der erstmaligen Dienstleistungserbringung.
 
@@ -169,8 +157,7 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (4) Tritt eine wesentliche Änderung von Umständen ein, die die Voraussetzungen für die Dienstleistungserbringung betreffen, ist die Änderung schriftlich oder elektronisch anzuzeigen und das Vorliegen der Voraussetzungen nach § 8 durch Unterlagen nachzuweisen. Ansonsten ist die Anzeige formlos alle zwölf Monate seit der letzten Anzeige zu wiederholen, solange die weitere Erbringung von Dienstleistungen beabsichtigt ist.
 
-
-## § 10 – Nachprüfung der Berufsqualifikation
+# § 10 – Nachprüfung der Berufsqualifikation
 
 (1) Wird die Berufsqualifikation nach § 8 Absatz 2 geprüft, ist § 6 Absatz 3 entsprechend anzuwenden. Die Dienstleistungserbringerin oder der Dienstleistungserbringer soll innerhalb eines Monats nach Eingang der Anzeige und der vollständigen Unterlagen über das Ergebnis unterrichtet werden. Bei einer Verzögerung unterrichtet die zuständige Behörde die Dienstleistungserbringerin oder den Dienstleistungserbringer über die Gründe für die Verzögerung und über den Zeitplan für eine Entscheidung. In diesem Fall muss das Ergebnis der Nachprüfung spätestens innerhalb von zwei Monaten nach Eingang der Anzeige und der vollständigen Unterlagen mitgeteilt werden.
 
@@ -180,17 +167,14 @@ Die gleiche Verpflichtung gilt im Fall einer gerichtlichen Feststellung, dass ei
 
 (4) Ergibt die Nachprüfung, dass die berufliche Qualifikation der Dienstleistungserbringerin oder des Dienstleistungserbringers im Sinne von § 8 Absatz 2 ausreicht, ist eine Bescheinigung darüber auszustellen. Die Bescheinigung kann auf einen wesentlichen Teil der Tätigkeiten beschränkt werden, die zu einem Handwerk der Anlage A Nummer 12 oder Nummer 33 bis 37 der Handwerksordnung gehören.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 118 Absatz 1 Nummer 7 der Handwerksordnung handelt, wer entgegen § 9 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die EU/EWR-Handwerk-Verordnung vom 20. Dezember 2007 (BGBl. I S. 3075) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,15 +1,11 @@
-# [PrüVOFortkfmBf] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachmann für kaufmännische Betriebsführung nach der Handwerksordnung und Geprüfte Fachfrau für kaufmännische Betriebsführung nach der Handwerksordnung  (Prüfungsverordnung Fortbildungsabschluss kaufmännische Betriebsführung HwO - PrüVOFortkfmBf)
-
-Ausfertigungsdatum: 11.11.2014
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachmann für kaufmännische Betriebsführung nach der Handwerksordnung und Geprüfte Fachfrau für kaufmännische Betriebsführung nach der Handwerksordnung  (Prüfungsverordnung Fortbildungsabschluss kaufmännische Betriebsführung HwO - PrüVOFortkfmBf)
+% Ausfertigungsdatum: 11.11.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 der Handwerksordnung, der durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachmann für kaufmännische Betriebsführung nach der Handwerksordnung und Geprüfte Fachfrau für kaufmännische Betriebsführung nach der Handwerksordnung soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) nachgewiesen werden. Die Prüfung wird von der zuständigen Stelle durchgeführt.
 
@@ -27,8 +23,7 @@ Auf Grund des § 42 der Handwerksordnung, der durch Artikel 146 der Verordnung v
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -38,8 +33,7 @@ Auf Grund des § 42 der Handwerksordnung, der durch Artikel 146 der Verordnung v
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, berufliche Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Prüfungsbestandteile sind die drei Handlungsbereiche und ein Wahlpflichthandlungsbereich. Die zu prüfende Person teilt den gewählten Wahlpflichthandlungsbereich bei der Anmeldung zur Prüfung mit.
 
@@ -63,8 +57,7 @@ Auf Grund des § 42 der Handwerksordnung, der durch Artikel 146 der Verordnung v
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Prüfungsinhalte im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen beurteilen“
+# § 4 – Prüfungsinhalte im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen beurteilen“
 
 Im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen beurteilen“ sollen die Fähigkeiten nachgewiesen werden, betriebswirtschaftliche, kaufmännische und rechtliche Voraussetzungen für die Wettbewerbsfähigkeit eines Unternehmens und berufliche Entwicklungspotenziale im Handwerk bewerten sowie Entscheidungsnotwendigkeiten darstellen zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 6 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -80,8 +73,7 @@ Im Handlungsbereich „Wettbewerbsfähigkeit von Unternehmen beurteilen“ solle
 
 6. Rechtsvorschriften, insbesondere des Gewerbe- und Handwerksrechts sowie des Handels- und Wettbewerbsrechts, bei der Analyse von Unternehmenszielen und -konzepten anwenden.
 
-
-## § 5 – Prüfungsinhalte im Handlungsbereich „Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten“
+# § 5 – Prüfungsinhalte im Handlungsbereich „Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten“
 
 Im Handlungsbereich „Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und bewerten“ sollen die Fähigkeiten nachgewiesen werden, Aufgaben im Rahmen der Gründung und Übernahme eines Unternehmens unter Berücksichtigung persönlicher, rechtlicher und betriebswirtschaftlicher Rahmenbedingungen und Ziele vorzubereiten, durchzuführen und zu bewerten sowie ihre Bedeutung für ein Unternehmenskonzept begründen zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 10 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -105,8 +97,7 @@ Im Handlungsbereich „Gründungs- und Übernahmeaktivitäten vorbereiten, durch
 
 10. Bedeutung persönlicher Aspekte sowie betriebswirtschaftlicher und rechtlicher Bestandteile eines Unternehmenskonzeptes im Zusammenhang darstellen und begründen.
 
-
-## § 6 – Prüfungsinhalte im Handlungsbereich „Unternehmensführungsstrategien entwickeln“
+# § 6 – Prüfungsinhalte im Handlungsbereich „Unternehmensführungsstrategien entwickeln“
 
 Im Handlungsbereich „Unternehmensführungsstrategien entwickeln“ sollen die Fähigkeiten nachgewiesen werden, unter Berücksichtigung unternehmensbezogener Stärken und Schwächen sowie marktbezogener Chancen und Risiken ein Unternehmen führen, betriebliche Wachstumspotenziale identifizieren und Unternehmensstrategien entwickeln zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 11 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -132,8 +123,7 @@ Im Handlungsbereich „Unternehmensführungsstrategien entwickeln“ sollen die 
 
 11. Notwendigkeit der Einleitung eines Insolvenzverfahrens anhand von Unternehmensdaten prüfen; insolvenzrechtliche Konsequenzen für die Weiterführung oder Liquidation eines Unternehmens aufzeigen.
 
-
-## § 7 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Informations- und Kommunikationstechnologien nutzen“
+# § 7 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Informations- und Kommunikationstechnologien nutzen“
 
 Im Wahlpflichthandlungsbereich „Informations- und Kommunikationstechnologien nutzen“ sollen die Fähigkeiten nachgewiesen werden, das Unternehmen und seine Dienstleistungen beziehungsweise Produkte mit Hilfe von Informations- und Kommunikationstechnologien präsentieren und unter Berücksichtigung rechtlicher Vorschriften ein Datenschutzsystem einführen zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 4 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -145,8 +135,7 @@ Im Wahlpflichthandlungsbereich „Informations- und Kommunikationstechnologien n
 
 4. Online-Geschäfte unter Berücksichtigung der Bestimmungen des Onlinerechts abwickeln.
 
-
-## § 8 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Kommunikations- und Präsentationstechniken im Geschäftsverkehr einsetzen“
+# § 8 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Kommunikations- und Präsentationstechniken im Geschäftsverkehr einsetzen“
 
 Im Wahlpflichthandlungsbereich „Kommunikations- und Präsentationstechniken im Geschäftsverkehr einsetzen“ sollen die Fähigkeiten nachgewiesen werden, kundenorientiert und bedarfsgerecht beraten und Arbeitsergebnisse strukturiert präsentieren zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 3 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -156,8 +145,7 @@ Im Wahlpflichthandlungsbereich „Kommunikations- und Präsentationstechniken im
 
 3. sich und das Unternehmen präsentieren.
 
-
-## § 9 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Buchhaltung im Handwerksbetrieb unter Einsatz branchenüblicher Software umsetzen“
+# § 9 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Buchhaltung im Handwerksbetrieb unter Einsatz branchenüblicher Software umsetzen“
 
 Im Wahlpflichthandlungsbereich „Buchhaltung im Handwerksbetrieb unter Einsatz branchenüblicher Software umsetzen“ sollen die Fähigkeiten nachgewiesen werden, betriebswirtschaftliche Vorgänge buchhalterisch manuell und elektronisch erfassen und prüfen zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 4 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -169,8 +157,7 @@ Im Wahlpflichthandlungsbereich „Buchhaltung im Handwerksbetrieb unter Einsatz 
 
 4. Mitwirken bei der Vorbereitung des Jahresabschlusses.
 
-
-## § 10 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb umsetzen“
+# § 10 – Prüfungsinhalte im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb umsetzen“
 
 Im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb umsetzen“ sollen die Fähigkeiten nachgewiesen werden, Einsatzmöglichkeiten von Projekten aufzeigen sowie Projekte prozessorientiert strukturieren und durchführen zu können. Bei der Aufgabenstellung sollen mehrere der unter den Nummern 1 bis 5 aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -184,8 +171,7 @@ Im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb umsetzen
 
 5. Projekt abschließen.
 
-
-## § 11 – Durchführung der Prüfung und Prüfungsdauer
+# § 11 – Durchführung der Prüfung und Prüfungsdauer
 
 (1) Für die Prüfungen in den Prüfungsbestandteilen sind komplexe situationsbezogene Aufgaben zu stellen. Für jeden Prüfungsbestandteil ist mindestens eine Aufgabe zu stellen.
 
@@ -197,15 +183,13 @@ Im Wahlpflichthandlungsbereich „Projektmanagement im Handwerksbetrieb umsetzen
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 12 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung des § 13 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 13 Absatz 2 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Bewerten der Prüfungsleistungen
+# § 13 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -213,8 +197,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Bestehen der Prüfung, Gesamtnote
+# § 14 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in jedem Prüfungsbestandteil jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -224,8 +207,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Zeugnisse
+# § 15 – Zeugnisse
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -239,8 +221,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Wiederholen der Prüfung
+# § 16 – Wiederholen der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -248,8 +229,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Übergangsvorschriften
+# § 17 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum „Fachkaufmann für Handwerkswirtschaft“ und zur „Fachkauffrau für Handwerkswirtschaft“, zum „Technischen Fachwirt (HWK)“ und zur „Technischen Fachwirtin (HWK)“, zur „Fachkauffrau (HWK)“ und zum „Fachkaufmann (HWK)“ sowie zum „Geprüften Fachkaufmann (HWK)“ und zur „Geprüften Fachkauffrau (HWK)“ können bis zum 30. Juni 2016 nach den bisherigen Vorschriften zu Ende geführt werden. Bei Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2015 kann die Anwendung der bisherigen Vorschriften schriftlich vereinbart werden.
 
@@ -257,22 +237,19 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2014 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2172 - 2173)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 15)Zeugnisinhalte
+# Anlage 2 – (zu § 15)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2173)
 

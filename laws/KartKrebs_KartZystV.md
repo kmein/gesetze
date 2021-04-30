@@ -1,15 +1,11 @@
-# [KartKrebs/KartZystV] Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden
-
-Ausfertigungsdatum: 06.10.2010
-
+% Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden
+% Ausfertigungsdatum: 06.10.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Absatz 1 Nummer 1 bis 3 und 5 bis 15 und des § 4 Absatz 1 Satz 1 und 2 Nummer 1 Buchstabe a und b des Pflanzenschutzgesetzes in der Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512), von denen § 3 Absatz 1 zuletzt durch Artikel 1 Nummer 1 und 2 Buchstabe a des Gesetzes vom 22. Juni 2006 (BGBl. I S. 1342) und § 4 Absatz 1 zuletzt durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 5. März 2008 (BGBl. I S. 284) geändert worden sind, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Züchtungs- und Haltungsverbot
+# § 1 – Züchtungs- und Haltungsverbot
 
 Das Züchten und das Halten von sowie das Arbeiten mit folgenden Schadorganismen sind verboten:
 
@@ -17,8 +13,7 @@ Das Züchten und das Halten von sowie das Arbeiten mit folgenden Schadorganismen
 
 2. Kartoffelzystennematoden \[Schadorganismen: Globodera rostochiensis (Wollenweber) Behrens und G. pallida (Stone) Behrens\].
 
-
-## § 2 – Anzeigepflichten
+# § 2 – Anzeigepflichten
 
 (1) Der Verpflichtete nach Absatz 2 hat das Auftreten oder den Verdacht des Auftretens der in § 1 genannten Schadorganismen unter Angabe des Standortes der betroffenen Kartoffelpflanzen oder des Lagerortes der betroffenen Kartoffeln unverzüglich der zuständigen Behörde anzuzeigen. Anzuzeigen ist auch das Auftreten oder der Verdacht des Auftretens von Kartoffelzystennematoden infolge einer stark verringerten oder veränderten Wirksamkeit einer resistenten Kartoffelsorte, wenn Anhaltspunkte einer außergewöhnlichen Veränderung der Zusammensetzung der Nematodenarten, eines Pathotyps oder einer Virulenzgruppe vorliegen.
 
@@ -32,8 +27,7 @@ Das Züchten und das Halten von sowie das Arbeiten mit folgenden Schadorganismen
 
 wenn sie über das Auftreten oder den Verdacht des Auftretens eines Schadorganismus nach § 1 Kenntnis erhalten.
 
-
-## § 3 – Ausnahmen zu Versuchs- und Züchtungszwecken
+# § 3 – Ausnahmen zu Versuchs- und Züchtungszwecken
 
 (1) Die zuständige Behörde kann auf Antrag im Einzelfall Ausnahmen von § 1 für wissenschaftliche Untersuchungen zur Biologie oder zu Bekämpfungsverfahren des Schadorganismus oder Versuche zur Bestimmung der Art, der Rasse, des Pathotyps oder der Virulenzgruppe der Schadorganismen sowie zur Prüfung von Kartoffeln auf Resistenz oder für Züchtungsvorhaben genehmigen, soweit hierdurch die Bekämpfung der Schadorganismen nach § 1 nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieser Schadorganismen besteht.
 
@@ -51,8 +45,7 @@ Dem Antrag ist ein Herkunftsnachweis für das Pflanzenmaterial oder den Schadorg
 
 (3) Die Genehmigung kann erteilt werden, wenn die Einhaltung der Anforderungen des Anhangs I der Richtlinie 2008/61/EG der Kommission vom 17. Juni 2008 mit den Bedingungen, unter denen bestimmte Pflanzen, Pflanzenerzeugnisse und andere Gegenstände gemäß den Anhängen I bis V der Richtlinie 2000/29/EG des Rates zu Versuchs-, Forschungs- und Züchtungszwecken in die Gemeinschaft oder bestimmte Schutzgebiete derselben eingeführt oder darin verbracht werden dürfen (ABl. L 158 vom 18.6.2008, S. 41) in der jeweils geltenden Fassung sichergestellt ist. Der Antragsteller ist verpflichtet, unverzüglich jede Änderung im Verlauf des im Antrag angegebenen Vorhabens oder jede Änderung des Zwecks anzuzeigen. Die Genehmigung kann, auch nachträglich, mit Auflagen verbunden werden. Sie kann eine Befreiung von den Anzeigepflichten nach § 2 enthalten, wenn der Antragsteller dies beantragt hat. Die Vorschriften der Pflanzenbeschauverordnung über die Einfuhr oder das Verbringen von Schadorganismen in die oder innerhalb der Europäischen Union bleiben unberührt.
 
-
-## § 4 – Abgrenzung und Aufhebung der Sicherheitszone
+# § 4 – Abgrenzung und Aufhebung der Sicherheitszone
 
 (1) Wird auf einer Anbaufläche das Auftreten von Kartoffelkrebs festgestellt, so grenzt die zuständige Behörde eine Sicherheitszone ab.
 
@@ -62,8 +55,7 @@ Dem Antrag ist ein Herkunftsnachweis für das Pflanzenmaterial oder den Schadorg
 
 (4) Die zuständige Behörde hebt die Sicherheitszone auf, wenn bei einer erneuten Untersuchung der befallenen Fläche kein Befall mit Kartoffelkrebs und kein Vorhandensein seines Erregers festgestellt wird.
 
-
-## § 5 – Schutzmaßnahmen in der Sicherheitszone
+# § 5 – Schutzmaßnahmen in der Sicherheitszone
 
 (1) In der Sicherheitszone dürfen
 
@@ -79,13 +71,11 @@ Dem Antrag ist ein Herkunftsnachweis für das Pflanzenmaterial oder den Schadorg
 
 (5) Die zuständige Behörde kann für die Sicherheitszone darüber hinaus alle zur Bekämpfung des Kartoffelkrebses erforderlichen Anordnungen treffen, insbesondere bestimmte Verfahren des Pflanzenschutzes vorschreiben oder verbieten.
 
-
-## § 6 – Verwendung und Behandlung
+# § 6 – Verwendung und Behandlung
 
 Bei Befall mit Kartoffelkrebs haben der Verfügungsberechtigte und der Besitzer von Kartoffelknollen oder Kartoffelkraut die Knollen und das Kraut unverzüglich so zu behandeln, dass der Erreger des Kartoffelkrebses vernichtet wird. Lassen sich in einer Partie Knollen und Kraut von befallenen Flächen nicht sicher von Knollen und Kraut anderer Flächen trennen, so ist die gesamte Partie nach Satz 1 zu behandeln. Die zuständige Behörde kann zur Behandlung die erforderlichen Anordnungen treffen, insbesondere bestimmte Verfahren vorschreiben oder verbieten.
 
-
-## § 7 – Anforderungen an Felder für die Erzeugung von Pflanzen zum Anpflanzen
+# § 7 – Anforderungen an Felder für die Erzeugung von Pflanzen zum Anpflanzen
 
 (1) Kartoffeln, die zur Erzeugung von Pflanzkartoffeln bestimmt sind, oder Pflanzen im Sinne des Anhangs I der Richtlinie 2007/33/EG des Rates vom 11. Juni 2007 zur Bekämpfung von Kartoffelnematoden und zur Aufhebung der Richtlinie 69/465/EWG (ABl. L 156 vom 16.6.2007, S. 12) in der jeweils geltenden Fassung, die zur Erzeugung von Pflanzen zum Anbau bestimmt sind, dürfen nur auf einem Feld angepflanzt werden, das:
 
@@ -101,8 +91,7 @@ Die zuständige Behörde kann auf Antrag Abweichungen von der Mindestgröße nac
 
 (2) Abweichend von Absatz 1 Satz 1 Nummer 2 kann der Anbau von Kartoffeln, die zur Erzeugung von Pflanzkartoffeln oder von Pflanzen nach Anhang I der Richtlinie 2007/33/EG, die zur Erzeugung von Pflanzen zum Anbau bestimmt sind, auch in einer Vegetationsperiode erfolgen, die nicht unmittelbar auf die amtliche Untersuchung folgt, wenn der Verfügungsberechtigte nachgewiesen hat, dass zum Zeitpunkt der amtlichen Untersuchung weder Kartoffeln noch andere in Anhang I Nummer 1 der Richtlinie 2007/33/EG genannte Wirtspflanzen vorhanden waren und seit der Untersuchung nicht angebaut worden sind. Sind zwischen der Untersuchung der Fläche und dem Anbau von Kartoffeln, die zur Erzeugung von Pflanzkartoffeln bestimmt sind oder Pflanzen nach Anhang I der Richtlinie 2007/33/EG, die zur Erzeugung von Pflanzen zum Anbau bestimmt sind, mehr als zwei Jahre vergangen, ist eine erneute Untersuchung nach Absatz 1 Satz 1 Nummer 2 notwendig.
 
-
-## § 8 – Untersuchung von Anbauflächen
+# § 8 – Untersuchung von Anbauflächen
 
 (1) Flächen, auf denen Kartoffeln, die zur Erzeugung von Pflanzkartoffeln, auch zum Zwecke des Nachbaus, bestimmt sind, oder auf denen die in Anhang I der Richtlinie 2007/33/EG genannten Pflanzen, die zur Erzeugung von Pflanzen zum Anpflanzen bestimmt sind, angepflanzt oder gelagert werden sollen, sind von der zuständigen Behörde auf Antrag gemäß Anhang II der Richtlinie 2007/33/EG auf Kartoffelzystennematoden zu untersuchen.
 
@@ -114,8 +103,7 @@ Die zuständige Behörde kann auf Antrag Abweichungen von der Mindestgröße nac
 
 (5) Die zuständige Behörde kann amtliche Untersuchungen von Flächen anordnen, auf denen andere als unter Absatz 1 genannte Pflanzen, die zum Wiederanpflanzen bestimmt sind, produziert werden sollen, wenn konkrete Anhaltspunkte für den Befall mit Kartoffelzystennematoden vorliegen.
 
-
-## § 9 – Erhebungen zur Feststellung der Verbreitung von Kartoffelzystennematoden
+# § 9 – Erhebungen zur Feststellung der Verbreitung von Kartoffelzystennematoden
 
 (1) Auf Kartoffelanbauflächen, die nicht zur Erzeugung von Pflanzkartoffeln bestimmt sind, führt die zuständige Behörde amtliche Erhebungen zur Feststellung der Verbreitung der Kartoffelzystennematoden nach Anhang II Nummer 2 Buchstabe a erster Anstrich und Anhang II Nummer 2 Buchstabe b der Richtlinie 2007/33/EG durch.
 
@@ -123,8 +111,7 @@ Die zuständige Behörde kann auf Antrag Abweichungen von der Mindestgröße nac
 
 (3) Die Probenahme auf den ausgewählten Flächen nach Absatz 2 ist nach Anhang II Nummer 2 Buchstabe a der Richtlinie 2007/33/EG nach der Ernte der Kartoffeln durchzuführen.
 
-
-## § 10 – Amtliches Verzeichnis
+# § 10 – Amtliches Verzeichnis
 
 (1) Die zuständige Behörde führt ein amtliches Verzeichnis, in das die Ergebnisse der Untersuchungen nach § 8 und der Erhebungen nach § 9 wie folgt eingetragen werden:
 
@@ -140,8 +127,7 @@ Die zuständige Behörde kann auf Antrag Abweichungen von der Mindestgröße nac
 
 (4) Bei berechtigtem Interesse kann die zuständige Behörde Einsicht in das Verzeichnis gewähren.
 
-
-## § 11 – Maßnahmen bei Befall mit Kartoffelzystennematoden
+# § 11 – Maßnahmen bei Befall mit Kartoffelzystennematoden
 
 (1) Ist eine Fläche nach § 10 Absatz 1 Nummer 3 als Befallsfläche in das Verzeichnis eingetragen, so dürfen:
 
@@ -159,15 +145,13 @@ Die zuständige Behörde kann auf Antrag Abweichungen von der Mindestgröße nac
 
 (6) Die Angabe des Grades der Resistenz ist nicht erforderlich bei Kartoffelsorten, deren Resistenz gegen Kartoffelzystennematoden vor dem 13. Oktober 2010 nach der Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelnematoden vom 5. Juni 2001 (BGBl. I S. 1006), die durch Artikel 3 Abschnitt 2 § 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2930) geändert worden ist, festgestellt worden ist. Diese Kartoffelsorten können im Rahmen amtlicher Bekämpfungsprogramme angebaut werden.
 
-
-## § 12 – Amtliches Bekämpfungsprogramm
+# § 12 – Amtliches Bekämpfungsprogramm
 
 (1) Bei Befall mit Kartoffelzystennematoden entwickelt die zuständige Behörde ein Bekämpfungsprogramm auf der Grundlage der in Anlage 1 aufgeführten Maßnahmen. Zur Durchführung des Bekämpfungsprogramms kann die zuständige Behörde Verfügungsberechtigte und Besitzer von Befallsflächen verpflichten, Bekämpfungsmaßnahmen durchzuführen oder Bekämpfungsmaßnahmen zu dulden. Sie kann dabei insbesondere Anbaupausen festlegen oder den Anbau resistenter Sorten vorschreiben.
 
 (2) Schreibt sie den Anbau resistenter Kartoffelsorten auf einer Befallsfläche vor, dann muss die Kartoffelsorte resistent gegen die auf der Befallsfläche entsprechend § 10 Absatz 2 festgestellten Nematodenarten, Pathotypen oder Virulenzgruppen der Kartoffelzystennematoden sein.
 
-
-## § 13 – Verwendung und Behandlung von kontaminierten Pflanzen
+# § 13 – Verwendung und Behandlung von kontaminierten Pflanzen
 
 (1) Partien von Kartoffeln oder Pflanzen zum Anpflanzen außer Samen, die von einer Befallsfläche stammen, oder die mit Erde in Berührung kamen, in der Kartoffelzystennematoden nachgewiesen worden sind, sind von der zuständigen Behörde als befallen zu kennzeichnen.
 
@@ -179,8 +163,7 @@ Die zuständige Behörde kann auf Antrag Abweichungen von der Mindestgröße nac
 
 (3) Befallene Pflanzen im Sinne des Anhangs I Nummer 2 der Richtlinie 2007/33/EG dürfen nur angepflanzt werden, wenn sie entseucht oder durch Waschen oder Bürsten so von Erde befreit wurden, dass kein Risiko der Verbreitung von Kartoffelzystennematoden besteht.
 
-
-## § 14 – Anforderung an Verarbeitungsbetriebe für Kartoffeln
+# § 14 – Anforderung an Verarbeitungsbetriebe für Kartoffeln
 
 Kartoffeln zur industriellen Verarbeitung, Größensortierung oder Abpackung dürfen nur von solchen Betrieben verarbeitet, sortiert oder abgepackt werden, die
 
@@ -190,15 +173,13 @@ Kartoffeln zur industriellen Verarbeitung, Größensortierung oder Abpackung dü
 
 anwenden. Die zuständige Behörde kann andere als in Anlage 2 aufgeführte, geeignete Beseitigungsverfahren, die regionale und betriebliche Gegebenheiten berücksichtigen, genehmigen, wenn keine Gefahr der Ausbreitung oder Verschleppung der Schadorganismen besteht. Die bei der Anlieferung und Verarbeitung anfallenden Resterden dürfen nicht auf Flächen, auf denen Kartoffeln angebaut werden, aufgebracht werden.
 
-
-## § 15 – Ausnahmen für Nachbau
+# § 15 – Ausnahmen für Nachbau
 
 (1) Abweichend von § 7 Absatz 1 Nummer 1 bis 3 dürfen Kartoffeln zur Erzeugung von Pflanzkartoffeln zum Zwecke des Nachbaus ohne amtliche Untersuchung und Eintragung in das Verzeichnis nach § 10 angebaut werden, wenn ihr Anbau innerhalb desselben Betriebes und nur innerhalb eines Umkreises von 20 Kilometern um die Erzeugungsfläche der Pflanzkartoffeln zum Zwecke des Nachbaus erfolgt. Die nach Satz 1 erzeugten Pflanzkartoffeln dürfen nicht in Verkehr gebracht werden. Nachweise über die Erzeugung und Verwendung von Pflanzkartoffeln zum Zwecke des Nachbaus sind vom Erzeuger zu führen und auf Anforderung der zuständigen Behörde vorzulegen. Aufzuzeichnen sind Lage und Größe der Produktionsfläche der zum Nachbau bestimmten Pflanzkartoffeln, der Lagerort sowie die Anbaufläche auf der die zum Nachbau bestimmten Pflanzkartoffeln angepflanzt werden.
 
 (2) Besteht unter Berücksichtigung der örtlichen Gegebenheiten die Gefahr einer Ausbreitung oder der Verschleppung des Schadorganismus, kann die zuständige Behörde abweichend von Absatz 1 eine Untersuchung von Flächen für die Erzeugung von Pflanzkartoffeln zum Zwecke des Nachbaus anordnen. Verfügungsberechtigte und Besitzer von Kartoffelanbauflächen gemäß Absatz 1 sind verpflichtet, die Untersuchungen durch die zuständige Behörde zu dulden.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -214,8 +195,7 @@ Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschu
 
 6. entgegen § 11 Absatz 2 nicht dafür Sorge trägt, dass Maschinen oder Geräte gereinigt werden,
 
-6a.  
-einer vollziehbaren Anordnung nach § 12 Absatz 1 Satz 2 zuwiderhandelt,
+6a. einer vollziehbaren Anordnung nach § 12 Absatz 1 Satz 2 zuwiderhandelt,
 
 7. entgegen § 13 Absatz 2 oder Absatz 3 Pflanzkartoffeln oder dort genannte Pflanzen anpflanzt,
 
@@ -225,18 +205,15 @@ einer vollziehbaren Anordnung nach § 12 Absatz 1 Satz 2 zuwiderhandelt,
 
 10. entgegen § 15 Absatz 1 Satz 2 Pflanzkartoffeln in den Verkehr bringt.
 
-
-## § 17 – Inkrafttreten, Außerkrafttreten
+# § 17 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelnematoden vom 5. Juni 2001 (BGBl. I S. 1006), die durch Artikel 3 § 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2930) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 12)Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
+# Anlage 1 – (zu § 12)Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
 
 (Fundstelle: BGBl. I 2010, 1388)
 
@@ -250,8 +227,7 @@ Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm sind:
 
 4. andere geeignete Maßnahmen zur Reduzierung der Kartoffelzystennematodenpopulation. Diese Maßnahmen müssen von der zuständigen Behörde genehmigt werden.
 
-
-## Anlage 2 – (zu § 14)Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
+# Anlage 2 – (zu § 14)Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
 
 (Fundstelle: BGBl. I 2010, 1388)
 

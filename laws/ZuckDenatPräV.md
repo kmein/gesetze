@@ -1,25 +1,19 @@
-# [ZuckDenatPräV] Verordnung über die Gewährung einer Denaturierungsprämie für Zucker  (Zucker-Denaturierungsprämienverordnung)
-
-Ausfertigungsdatum: 14.08.1973
-
+% Verordnung über die Gewährung einer Denaturierungsprämie für Zucker  (Zucker-Denaturierungsprämienverordnung)
+% Ausfertigungsdatum: 14.08.1973
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 4, der §§ 9 und 10 Abs. 1 sowie der §§ 12 und 26 Abs. 2 Nr. 1 des Gesetzes zur Durchführung der gemeinsamen Marktorganisationen (MOG) vom 31. August 1972 (Bundesgesetzbl. I S. 1617), geändert durch das Fünfzehnte Gesetz zur Änderung des Zollgesetzes vom 3. August 1973 (Bundesgesetzbl. I S. 940), wird im Einvernehmen mit den Bundesministern für Wirtschaft und der Finanzen verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaften oder Europäischen Union, die hinsichtlich der Denaturierung von Weiß- und Rohzucker aus Position 1701 der Kombinierten Nomenklatur erlassen sind.
 
-
-## § 2 – Zuständige Stellen
+# § 2 – Zuständige Stellen
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt); zuständig für die Überwachung der Denaturierung und der Verwendung des denaturierten Zuckers sind jedoch die Zolldienststellen.
 
-
-## § 3 – Anerkannte Betriebe
+# § 3 – Anerkannte Betriebe
 
 Anerkannte Denaturierungsbetriebe sind im Geltungsbereich dieser Verordnung
 
@@ -29,20 +23,17 @@ Anerkannte Denaturierungsbetriebe sind im Geltungsbereich dieser Verordnung
 
 wenn sie täglich mindestens fünf Tonnen Zucker denaturieren können.
 
-
-## § 4 – Anträge
+# § 4 – Anträge
 
 (1) Die Erteilung eines Prämienbescheides ist nach vorgeschriebenem Muster bei der Bundesanstalt zu beantragen.
 
 (2) Die Mitteilung über die Übertragung des sich aus dem Prämienbescheid ergebenden Rechtes auf einen Dritten ist unter gleichzeitiger Vorlage des Prämienbescheides an die Bundesanstalt zu richten.
 
-
-## § 5
+# § 5
 
 \-
 
-
-## § 6 – Denaturierung
+# § 6 – Denaturierung
 
 (1) Der aus dem Prämienbescheid Berechtigte teilt der für den Denaturierungsbetrieb zuständigen Zolldienststelle den Zeitpunkt der Denaturierung spätestens drei Tage vorher nach vorgeschriebenem Muster mit. Diese Mitteilung muß folgende Angaben enthalten:
 
@@ -68,28 +59,24 @@ Die Zolldienststelle kann im einzelnen Fall, soweit für die Überwachung erford
 
 (3) Die Zolldienststelle vermerkt auf der Mitteilung nach Absatz 1 Satz 1, ob die Denaturierung nach den Vorschriften dieser Verordnung und den in § 1 genannten Rechtsakten durchgeführt worden ist und sendet die Mitteilung an die Bundesanstalt.
 
-
-## § 7 – Auszahlungsbetrag
+# § 7 – Auszahlungsbetrag
 
 (1) Die Bundesanstalt erteilt dem aus dem Prämienbescheid Berechtigten einen Bescheid über die Zahlung der Prämie.
 
 (2) Forderungen auf Prämien sind unverzinslich.
 
-
-## § 8 – Überwachung
+# § 8 – Überwachung
 
 (1) Für die Überwachung der Denaturierung und der Verwendung des denaturierten Zuckers gelten § 9 Abs. 4 Satz 1 und 3, § 2 Abs. 3, Abs. 5 Satz 4, Abs. 6 Satz 1, 3 und 4 sowie § 11 der Zuckersteuerbefreiungsordnung sinngemäß.
 
 (2) Wer denaturierten Zucker abgibt, hat auf der Rechnung und auf dem Lieferschein zu vermerken: "Denaturierter Zucker"; außerdem sind Art und Menge des je 100 Kilogramm verwendeten Denaturierungsmittels anzugeben.
 
-
-## § 9 – Inkrafttreten und Überleitung
+# § 9 – Inkrafttreten und Überleitung
 
 (1) Diese Verordnung tritt am 15. September 1973 in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

@@ -1,10 +1,7 @@
-# [DHRV] Verordnung über das Deutsche Hämophilieregister  (Hämophilieregister-Verordnung - DHRV)
-
-Ausfertigungsdatum: 21.05.2019
-
+% Verordnung über das Deutsche Hämophilieregister  (Hämophilieregister-Verordnung - DHRV)
+% Ausfertigungsdatum: 21.05.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet
 
@@ -14,10 +11,7 @@ auf Grund des § 21a Absatz 6 des Transfusionsgesetzes, der durch Artikel 3 Numm
 –  
 auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154):
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -45,8 +39,9 @@ auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
  
 
+ 
 
-## § 1 – Aufgaben des Lenkungsausschusses, Rechts- und Fachaufsicht
+# § 1 – Aufgaben des Lenkungsausschusses, Rechts- und Fachaufsicht
 
 (1) Das Paul-Ehrlich-Institut richtet für das Deutsche Hämophilieregister (Register) einen Lenkungsausschuss ein. Der Lenkungsausschuss berät und beschließt über alle Fragen, die für das Register aufgrund dessen Aufgaben nach § 21a Absatz 1 Satz 2 des Transfusionsgesetzes maßgeblich sind.
 
@@ -60,8 +55,7 @@ auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
 (3) Die Rechts- und Fachaufsicht über den Lenkungsausschuss bei der Wahrnehmung der Aufgaben nach den Absätzen 1 und 2 führt das Bundesministerium für Gesundheit.
 
-
-## § 2 – Mitglieder
+# § 2 – Mitglieder
 
 (1) Das Bundesministerium für Gesundheit beruft die Mitglieder des Lenkungsausschusses. Die Berufung der Mitglieder soll einheitlich alle vier Jahre erfolgen. Wiederholte Berufungen sind zulässig. Die Berufung erfolgt schriftlich.
 
@@ -75,8 +69,7 @@ auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
 (6) Scheidet ein Mitglied vorzeitig aus, so wird für den Rest der jeweiligen Mitgliedschaft ein nachfolgendes Mitglied berufen. Absatz 2 Satz 1 gilt entsprechend.
 
-
-## § 3 – Ehrenamt
+# § 3 – Ehrenamt
 
 (1) Die Mitgliedschaft im Lenkungsausschuss ist ein persönliches Ehrenamt.
 
@@ -84,8 +77,7 @@ auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
 (+++ § 3: Zur Geltung vgl. § 10 Abs. 4, § 12 Abs. 10 u. § 17 Abs. 4 +++)
 
-
-## § 4 – Vorsitz, Stellvertretung des Vorsitzes
+# § 4 – Vorsitz, Stellvertretung des Vorsitzes
 
 (1) Die in der ersten Sitzung nach der jeweiligen Berufung des Lenkungsausschusses anwesenden Mitglieder wählen aus ihrer Mitte in geheimer Wahl den Vorsitz und dessen Stellvertretung. Die Wahl erfolgt mit der Mehrheit der anwesenden Mitglieder. Bei Stimmengleichheit im ersten Wahlgang wird ein zweiter Wahlgang durchgeführt. Bei Stimmengleichheit im zweiten Wahlgang entscheidet das Los. Die Geschäftsstelle nach § 18 leitet die Wahl.
 
@@ -95,8 +87,7 @@ auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
 (4) Tritt der Vorsitz oder dessen Stellvertretung vorzeitig zurück, so gilt für die Neuwahl des Vorsitzes oder von dessen Stellvertretung Absatz 1 entsprechend. Treten der Vorsitz und die Stellvertretung zurück, so wird der Vorsitz bis zur Neuwahl durch die Geschäftsstelle nach § 18 wahrgenommen.
 
-
-## § 5 – Vertraulichkeit
+# § 5 – Vertraulichkeit
 
 (1) Die Mitglieder haben über die im Zusammenhang mit der Mitgliedschaft bekannt gewordenen Tatsachen Verschwiegenheit zu wahren. Die Verpflichtung zur Verschwiegenheit wirkt über das Ende der Mitgliedschaft hinaus fort.
 
@@ -108,8 +99,7 @@ auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. Aug
 
 (+++ § 5: Zur Geltung vgl. § 10 Abs. 4, § 12 Abs. 10 u. § 17 Abs. 4 +++)
 
-
-## § 6 – Sitzungen
+# § 6 – Sitzungen
 
 (1) Der Lenkungsausschuss führt einmal jährlich eine ordentliche Ausschusssitzung durch.
 
@@ -161,8 +151,7 @@ Bei Bedarf können von der Geschäftsstelle in Abstimmung mit dem Vorsitz weiter
 
 (9) Wenn der Vorsitz und die Stellvertretung an einer Sitzung nicht teilnehmen, werden der Vorsitz und dessen Stimmrecht durch die Geschäftsstelle nach § 18 wahrgenommen.
 
-
-## § 7 – Ergebnisprotokoll der Sitzungen
+# § 7 – Ergebnisprotokoll der Sitzungen
 
 (1) Die Geschäftsstelle nach § 18 fertigt von jeder Sitzung ein Ergebnisprotokoll an. Das Ergebnisprotokoll hat zu enthalten:
 
@@ -180,8 +169,7 @@ Bei Bedarf können von der Geschäftsstelle in Abstimmung mit dem Vorsitz weiter
 
 (3) Das fertig gestellte Ergebnisprotokoll ist vom Vorsitz und von der Geschäftsstelle zu unterzeichnen. Es ist in der Geschäftsstelle aufzubewahren.
 
-
-## § 8 – Beratungen, Beschlussfassungen
+# § 8 – Beratungen, Beschlussfassungen
 
 (1) Beschlüsse werden in der Regel im Rahmen der Sitzungen des Lenkungsausschusses nach mündlicher Beratung gefasst.
 
@@ -205,8 +193,7 @@ Bei Bedarf können von der Geschäftsstelle in Abstimmung mit dem Vorsitz weiter
 
 Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfindet, trifft der Vorsitz. Im schriftlichen Verfahren beträgt die Frist zur Abgabe der Stimme zwei Wochen. Die Frist beginnt mit der Zusendung der in § 6 Absatz 4 genannten Unterlagen durch die Geschäftsstelle an die Mitglieder. Bei einer Zusendung der Unterlagen durch die Post im Inland gelten die Unterlagen am dritten Tag nach der Absendung als zugesandt. Die Stimme ist gegenüber der Geschäftsstelle abzugeben. Eine nicht fristgerecht abgegebene Stimme gilt als nicht abgegeben und ist als Enthaltung zu werten. Die Beschlüsse gelten als gefasst, wenn einstimmige zustimmende schriftliche Erklärungen von mindestens sechs Mitgliedern bei der Geschäftsstelle innerhalb der Frist nach Satz 3 eingegangen sind. Die Geschäftsstelle informiert die Mitglieder des Lenkungsausschusses über das Ergebnis der Abstimmung.
 
-
-## § 9 – Arbeitsgruppen
+# § 9 – Arbeitsgruppen
 
 (1) Der Lenkungsausschuss kann durch Beschluss zur Vorbereitung von Entscheidungen aus dem Kreis seiner Mitglieder zeitlich befristete Arbeitsgruppen mit einem bestimmten Mandat bilden.
 
@@ -214,8 +201,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (3) Die Arbeitsgruppe berichtet dem Lenkungsausschuss und legt ihm mit Ablauf des Mandats einen Abschlussbericht vor.
 
-
-## § 10 – Sachverständige
+# § 10 – Sachverständige
 
 (1) Der Lenkungsausschuss kann durch Beschluss mit Zustimmung der Geschäftsstelle nach § 18 zur Vorbereitung von Entscheidungen Sachverständige hinzuziehen.
 
@@ -225,15 +211,13 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (4) Für Sachverständige gelten die Vorschriften zur ehrenamtlichen Tätigkeit und zu der notwendigen Zustimmung für Reisen nach § 3 sowie die Vorschriften zur Vertraulichkeit nach § 5 entsprechend.
 
-
-## § 11 – Aufgaben des Fachausschusses, Vorsitz
+# § 11 – Aufgaben des Fachausschusses, Vorsitz
 
 (1) Das Paul-Ehrlich-Institut richtet für das Register einen Fachausschuss ein. Der Fachausschuss berät den Lenkungsausschuss zu fachlichen Fragen im Hinblick auf die Aufgaben des Registers nach § 21a Absatz 1 Satz 2 des Transfusionsgesetzes.
 
 (2) Der Vorsitz des Fachausschusses obliegt der Geschäftsstelle.
 
-
-## § 12 – Mitglieder, stellvertretende Mitglieder
+# § 12 – Mitglieder, stellvertretende Mitglieder
 
 (1) Der Fachausschuss soll über ausgewiesene Erfahrungen auf dem Gebiet der Diagnostik, Behandlung und Versorgung der in § 21 Absatz 1a Satz 1 des Transfusionsgesetzes genannten Patientengruppe sowie auf dem Gebiet der Planung und Durchführung von Patientenregistern verfügen. Im Fachausschuss sollen insbesondere die folgenden Fachgesellschaften und Verbände vertreten sein:
 
@@ -267,8 +251,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (10) Die Vorschriften zur ehrenamtlichen Tätigkeit und zu der notwendigen Zustimmung für Reisen nach § 3 sowie die Vorschriften zur Vertraulichkeit nach § 5 gelten für den Fachausschuss und seine Mitglieder sowie stellvertretenden Mitglieder entsprechend.
 
-
-## § 13 – Sitzungen
+# § 13 – Sitzungen
 
 (1) Der Fachausschuss führt einmal jährlich eine ordentliche Ausschusssitzung durch.
 
@@ -318,8 +301,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (7) Die nach Absatz 6 Nummer 3 bis 10 zur Sitzungsteilnahme Berechtigten nehmen mit beratender Stimme an den Sitzungen teil.
 
-
-## § 14 – Ergebnisprotokoll der Sitzungen
+# § 14 – Ergebnisprotokoll der Sitzungen
 
 (1) Die Geschäftsstelle nach § 18 fertigt von jeder Sitzung ein Ergebnisprotokoll an. Das Ergebnisprotokoll hat zu enthalten:
 
@@ -337,8 +319,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (3) Das fertig gestellte Ergebnisprotokoll ist vom Vorsitz zu unterzeichnen. Es ist in der Geschäftsstelle aufzubewahren.
 
-
-## § 15 – Beratungen, Beschlussfassungen
+# § 15 – Beratungen, Beschlussfassungen
 
 (1) Beschlüsse werden in der Regel im Rahmen der Sitzungen des Fachausschusses nach mündlicher Beratung gefasst.
 
@@ -352,8 +333,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (6) Beschlüsse können auch im schriftlichen Verfahren gefasst werden, wenn eine besondere Dringlichkeit für eine Beschlussfassung vorliegt. Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfindet, trifft der Vorsitz. Im schriftlichen Verfahren beträgt die Frist zur Abgabe der Stimme zwei Wochen. Die Frist beginnt mit der Zusendung der in § 13 Absatz 4 genannten Unterlagen durch die Geschäftsstelle an die Mitglieder. Bei einer Zusendung der Unterlagen durch die Post im Inland gelten die Unterlagen am dritten Tag nach der Absendung als zugesandt. Die Stimme ist gegenüber der Geschäftsstelle abzugeben. Eine nicht fristgerecht abgegebene Stimme gilt als nicht abgegeben und ist als Enthaltung zu werten. Die Beschlüsse gelten als gefasst, wenn einstimmige zustimmende schriftliche Erklärungen von mindestens der Hälfte der Mitglieder und des Vorsitzes bei der Geschäftsstelle innerhalb der Frist nach Satz 3 eingegangen sind. Die Geschäftsstelle informiert die Mitglieder des Fachausschusses über das Ergebnis der Abstimmung.
 
-
-## § 16 – Arbeitsgruppen
+# § 16 – Arbeitsgruppen
 
 (1) Der Fachausschuss kann durch Beschluss zur Vorbereitung von Entscheidungen aus dem Kreis seiner Mitglieder und stellvertretenden Mitglieder mit Zustimmung der Geschäftsstelle nach § 18 zeitlich befristete Arbeitsgruppen mit einem bestimmten Mandat bilden.
 
@@ -361,8 +341,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (3) Die Arbeitsgruppe berichtet dem Fachausschuss und legt ihm mit Ablauf des Mandats einen Abschlussbericht vor.
 
-
-## § 17 – Sachverständige
+# § 17 – Sachverständige
 
 (1) Der Fachausschuss kann durch Beschluss mit Zustimmung der Geschäftsstelle nach § 18 zur Vorbereitung von Entscheidungen Sachverständige hinzuziehen.
 
@@ -372,8 +351,7 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (4) Für Sachverständige gelten die Vorschriften zur ehrenamtlichen Tätigkeit und zu der notwendigen Zustimmung für Reisen nach § 3 und die Vorschriften zur Vertraulichkeit nach § 5 entsprechend.
 
-
-## § 18 – Aufgaben der Geschäftsstelle, Aufsicht
+# § 18 – Aufgaben der Geschäftsstelle, Aufsicht
 
 (1) Der Lenkungsausschuss und der Fachausschuss werden durch eine Geschäftsstelle unterstützt. Die Geschäftsstelle ist beim Paul-Ehrlich-Institut eingerichtet und unterliegt dessen Aufsicht.
 
@@ -381,13 +359,11 @@ Die Entscheidung, ob eine Beschlussfassung im schriftlichen Verfahren stattfinde
 
 (3) Die Geschäftsstelle veröffentlicht allgemein zugänglich die Tagesordnungen der Sitzungen der Ausschüsse sowie Kurzfassungen der Ergebnisprotokolle der Ausschusssitzungen. Dabei sind Betriebs-, Dienst- und Geschäftsgeheimnisse zu wahren.
 
-
-## § 19 – Vertretung gegenüber Dritten
+# § 19 – Vertretung gegenüber Dritten
 
 Die Vertretung des Registers gegenüber Dritten wird durch das Paul-Ehrlich-Institut, vertreten durch die Geschäftsstelle nach § 18, wahrgenommen.
 
-
-## § 20 – Grundsätze
+# § 20 – Grundsätze
 
 (1) Das Register verarbeitet die bei ihm gespeicherten Daten nach Maßgabe der §§ 22 bis 25.
 
@@ -397,25 +373,21 @@ Die Vertretung des Registers gegenüber Dritten wird durch das Paul-Ehrlich-Inst
 
 (4) Abschnitt 4 lässt die Datenverarbeitung des Paul-Ehrlich-Instituts aufgrund gesetzlicher Vorschriften, insbesondere nach dem Transfusionsgesetz und dem Arzneimittelgesetz, unberührt.
 
-
-## § 21 – Allgemeine Auskünfte
+# § 21 – Allgemeine Auskünfte
 
 Die Geschäftsstelle nach § 18 kann auf Anfrage allgemeine Auskünfte zur Arbeitsweise des Registers und zu dessen Datenbestand zur Verfügung stellen.
 
-
-## § 22 – Datenverarbeitung durch die Geschäftsstelle
+# § 22 – Datenverarbeitung durch die Geschäftsstelle
 
 Die Geschäftsstelle nach § 18 verarbeitet die Daten nach § 21a Absatz 3 des Transfusionsgesetzes und § 2 Absatz 4 der Transfusionsgesetz-Meldeverordnung zur Erfüllung ihrer Aufgaben nach dieser Verordnung.
 
-
-## § 23 – Datenverarbeitung durch den Lenkungsausschuss
+# § 23 – Datenverarbeitung durch den Lenkungsausschuss
 
 (1) Die Geschäftsstelle übermittelt den Mitgliedern des Lenkungsausschusses die Daten, die im Register nach § 21a Absatz 3 Satz 1 Nummer 2 und 3 Buchstabe b des Transfusionsgesetzes und § 2 Absatz 4 Satz 2 Nummer 3 und 4 der Transfusionsgesetz-Meldeverordnung gespeichert sind, anonymisiert in dem Umfang, der zur Erfüllung der Aufgaben des Lenkungsausschusses nach § 1 Absatz 1 Satz 2 erforderlich ist.
 
 (2) Vor der Übermittlung der Daten hat der Lenkungsausschuss durch Beschluss festzulegen, welche Daten er für welche Aufgaben benötigt.
 
-
-## § 24 – Datenverarbeitung durch hämophiliebehandelnde ärztliche Personen
+# § 24 – Datenverarbeitung durch hämophiliebehandelnde ärztliche Personen
 
 Zu Zwecken der Verbesserung der Patientenversorgung übermittelt die Geschäftsstelle einer hämophiliebehandelnden ärztlichen Person auf deren schriftliche oder elektronische Anfrage
 
@@ -425,8 +397,7 @@ Zu Zwecken der Verbesserung der Patientenversorgung übermittelt die Geschäftss
 
 3. anonymisierte Auswertungsergebnisse der im Register enthaltenen Patienten- und Behandlungsdaten.
 
-
-## § 25 – Datenverarbeitung durch Dritte
+# § 25 – Datenverarbeitung durch Dritte
 
 (1) Der Antrag nach § 21a Absatz 5 Satz 2 des Transfusionsgesetzes ist schriftlich oder elektronisch bei der Geschäftsstelle nach § 18 zu stellen. Mit dem Antrag sind die folgenden Angaben und Unterlagen einzureichen:
 
@@ -474,8 +445,7 @@ Der Antrag ist in dem von der Geschäftsstelle auf der Internetseite des Registe
 
 (10) Die Geschäftsstelle stellt die Daten innerhalb von sechs Wochen nach der Bewilligung in dem genehmigten Umfang auf der Grundlage der unterzeichneten Nutzungsvereinbarung nach § 26 bereit. Die Bereitstellung kann in elektronischer oder schriftlicher Form erfolgen. Die Entscheidung über die Form der Bereitstellung trifft das Paul-Ehrlich-Institut nach pflichtgemäßem Ermessen.
 
-
-## § 26 – Nutzungsvereinbarung
+# § 26 – Nutzungsvereinbarung
 
 Das Paul-Ehrlich-Institut veröffentlicht auf seiner Internetseite die Nutzungsvereinbarung, die nach § 21a Absatz 5 Satz 2 des Transfusionsgesetzes abzuschließen ist. Die Nutzungsvereinbarung muss insbesondere die folgenden Inhalte umfassen:
 
@@ -489,8 +459,7 @@ Das Paul-Ehrlich-Institut veröffentlicht auf seiner Internetseite die Nutzungsv
 
 5. die Erklärung, dass die Publikationsgrundsätze des Registers nach § 27 beachtet und eingehalten werden.
 
-
-## § 27 – Publikationsgrundsätze
+# § 27 – Publikationsgrundsätze
 
 (1) Der Genehmigungsinhaber ist verpflichtet,
 
@@ -510,13 +479,11 @@ Das Paul-Ehrlich-Institut veröffentlicht auf seiner Internetseite die Nutzungsv
 
 (3) Das Paul-Ehrlich-Institut veröffentlicht die in den Absätzen 1 und 2 genannten Publikationsgrundsätze auf seiner Internetseite.
 
-
-## § 28 – Gebührenerhebung
+# § 28 – Gebührenerhebung
 
 Das Paul-Ehrlich-Institut erhebt für individuell zurechenbare öffentliche Leistungen Gebühren nach der Anlage zu dieser Verordnung.
 
-
-## § 29 – Gebührenbemessung, Gebühren in besonderen Fällen
+# § 29 – Gebührenbemessung, Gebühren in besonderen Fällen
 
 (1) Erfordert eine gebührenpflichtige Leistung im Einzelfall einen außergewöhnlich hohen Personal- und Sachaufwand, so kann das Paul-Ehrlich-Institut die nach § 28 in Verbindung mit der Anlage vorgesehene Gebühr bis auf das Doppelte erhöhen. Ist mit einer Erhöhung der Gebühr zu rechnen, so ist der Gebührenschuldner zu hören. Das Paul-Ehrlich-Institut hat die Erhöhung zu begründen.
 
@@ -528,37 +495,31 @@ Das Paul-Ehrlich-Institut erhebt für individuell zurechenbare öffentliche Leis
 
 (5) Die Gebührenfreiheit nach § 7 Nummer 1 und 2 des Bundesgebührengesetzes bleibt unberührt.
 
-
-## § 30 – Grundsätze
+# § 30 – Grundsätze
 
 (1) Das Register stellt die Qualität der im Register gespeicherten Daten sicher. Dazu legt das Register die Verfahren verbindlich fest, die für die Qualitätskontrolle und Qualitätssicherung der erhobenen Daten notwendig sind, und überprüft regelmäßig die Umsetzung dieser Verfahren.
 
 (2) Die Geschäftsstelle nach § 18 berät die hämophiliebehandelnden ärztlichen Personen zu den Anforderungen an die Qualität der Meldedaten nach § 21 Absatz 1a des Transfusionsgesetzes. Die Vorschriften des Transfusionsgesetzes und des ärztlichen Berufsrechts zur Qualitätssicherung der Anwendung von Blutprodukten in den Einrichtungen der Krankenversorgung einschließlich der Vorschriften zur Dokumentation bleiben unberührt.
 
-
-## § 31 – Datenplausibilisierung
+# § 31 – Datenplausibilisierung
 
 Das Register nimmt bei jeder Datenmeldung eine formale und inhaltliche Plausibilisierung der gemeldeten Daten vor. Die Datenplausibilisierung umfasst insbesondere Datentypprüfungen, Wertebereichsprüfungen und die Prüfung von Klassifikations- oder Schlüsselsystemen.
 
-
-## § 32 – Übergangsvorschriften
+# § 32 – Übergangsvorschriften
 
 Diese Verordnung gilt auch für die Erhebung von Gebühren für individuell zurechenbare öffentliche Leistungen, die bis zum 31. Juli 2019 bereits beantragt wurden, aber noch nicht vollständig erbracht sind.
 
-
-## § 33 – Inkrafttreten, Außerkrafttreten
+# § 33 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. August 2019 in Kraft.
 
 (2) Abschnitt 5 tritt am 30. September 2021 außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 28)Gebührenverzeichnis
+# Anlage – (zu § 28)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2019, 752)
 

@@ -1,15 +1,11 @@
-# [ZensVorbG 2011] Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2011  (Zensusvorbereitungsgesetz 2011 - ZensVorbG 2011)
-
-Ausfertigungsdatum: 08.12.2007
-
+% Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2011  (Zensusvorbereitungsgesetz 2011 - ZensVorbG 2011)
+% Ausfertigungsdatum: 08.12.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz regelt den Aufbau eines Anschriften- und Gebäuderegisters zur Vorbereitung einer Volks-, Gebäude- und Wohnungszählung, die im Wege der Auswertung der in den Melderegistern und anderen Verwaltungsregistern gespeicherten Daten sowie im Wege ergänzender Befragungen (registergestützter Zensus) im Jahre 2011 durchgeführt werden soll.
 
-
-## § 2 – Anschriften- und Gebäuderegister
+# § 2 – Anschriften- und Gebäuderegister
 
 (1) Das Statistische Bundesamt erstellt und führt zur Vorbereitung des Zensus ein Anschriften- und Gebäuderegister. Die nach Landesrecht für die Durchführung der Bundesstatistiken zuständigen Stellen (statistische Ämter der Länder) wirken bei Aufbau und Pflege des Anschriften- und Gebäuderegisters mit und nutzen es für die Vorbereitung des Zensus.
 
@@ -97,8 +93,7 @@ Auskunftspflichtige für die Gebäude- und Wohnungszählung:
 
 (4) Das Anschriften- und Gebäuderegister muss für die Durchführung des Zensus spätestens ab dem 31. Dezember 2010 nutzbar sein.
 
-
-## § 3 – Ortsverzeichnis
+# § 3 – Ortsverzeichnis
 
 (1) Das Statistische Bundesamt erstellt und führt ein von dem Register nach § 2 getrenntes Verzeichnis der Geburtsorte und Geburtsstaaten (Ortsverzeichnis). Es wird von den statistischen Ämtern des Bundes und der Länder für die Durchführung des Zensus genutzt.
 
@@ -112,8 +107,7 @@ Auskunftspflichtige für die Gebäude- und Wohnungszählung:
 
 4. Staaten, aus denen Zuzüge erfolgt sind.
 
-
-## § 4 – Übermittlung von Daten durch die Vermessungsbehörden
+# § 4 – Übermittlung von Daten durch die Vermessungsbehörden
 
 (1) Die nach Landesrecht für das Vermessungswesen zuständigen Stellen (Landesvermessungsbehörden) übermitteln dem Bundesamt für Kartographie und Geodäsie zum 1. April 2008 für jede Anschrift elektronisch Angaben zu folgenden Merkmalen mit Stichtag 1. April 2007:
 
@@ -143,8 +137,7 @@ Auskunftspflichtige für die Gebäude- und Wohnungszählung:
 
 (3) Das Bundesamt für Kartographie und Geodäsie überprüft die Angaben nach den Absätzen 1 und 2 auf Vollzähligkeit, ergänzt Datenlücken und übermittelt die vollständigen Angaben elektronisch an das Statistische Bundesamt.
 
-
-## § 5 – Übermittlung von Daten durch die Meldebehörden
+# § 5 – Übermittlung von Daten durch die Meldebehörden
 
 (1) Für den Aufbau des Anschriften- und Gebäuderegisters nach § 2 und des Ortsverzeichnisses nach § 3 übermitteln die nach Landesrecht für das Meldewesen zuständigen Stellen (Meldebehörden) den statistischen Ämtern der Länder für alle gemeldeten Einwohner aus den Melderegistern elektronisch die folgenden Angaben mit Stichtag 1. April 2008 innerhalb der folgenden vier Wochen:
 
@@ -186,8 +179,7 @@ Die Angaben nach Satz 1 Nr. 1 bis 11 sind bei den statistischen Landesämtern un
 
 (4) Die Angaben nach Absatz 1 Satz 1 Nr. 1 bis 5 und 7 bis 11 werden in einer Stichprobenorganisationsdatei beim Statistischen Bundesamt gespeichert. Sie wird von den statistischen Ämtern des Bundes und der Länder für die Entwicklung von Stichprobenplänen und Hochrechnungsverfahren verwendet.
 
-
-## § 6 – Übermittlung von Daten durch die Bundesagentur für Arbeit
+# § 6 – Übermittlung von Daten durch die Bundesagentur für Arbeit
 
 Die Bundesagentur für Arbeit übermittelt für die am 30. September 2007 sozialversicherungspflichtig Beschäftigten und für die am 13. März 2008 arbeitslos gemeldeten Personen dem Statistischen Bundesamt zum 15. April 2008 elektronisch jeweils die Angaben zu folgenden Merkmalen:
 
@@ -199,22 +191,19 @@ Die Bundesagentur für Arbeit übermittelt für die am 30. September 2007 sozial
 
 4. Status (beschäftigt oder arbeitslos).
 
-
-## § 7 – Zusammenführung der Angaben
+# § 7 – Zusammenführung der Angaben
 
 (1) Die nach § 5 Abs. 1 Satz 1 Nr. 1 bis 11 und Abs. 2 übermittelten Angaben werden mit denen nach den §§ 4 und 6 zur Standardisierung von Straßennamen vom Statistischen Bundesamt zusammengeführt und zu anschriftenbezogenen Gruppen zusammengefasst.
 
 (2) Auf das Ergebnis der Zusammenführung nach Absatz 1 haben die statistischen Ämter der Länder jeweils für ihren Zuständigkeitsbereich Zugriff. Die statistischen Ämter der Länder überprüfen das Ergebnis, insbesondere auf Vollzähligkeit und Schlüssigkeit der übermittelten Daten. Sie übermitteln den Meldebehörden die Anschriftenbereiche, zu denen Anhaltspunkte auf unvollständige oder fehlerhafte Daten vorliegen. Die Meldebehörden klären anhand der vorhandenen Daten, ob die ursprünglich übermittelten Daten vollzählig und fehlerfrei waren. Sofern dies nicht der Fall ist, übermitteln sie den statistischen Ämtern der Länder nochmals Daten für die betreffenden Anschriftenbereiche. Das Ergebnis der Überprüfung wird von den statistischen Ämtern der Länder an das Statistische Bundesamt übermittelt.
 
-
-## § 8 – Ordnungsnummern
+# § 8 – Ordnungsnummern
 
 (1) Für jede Anschrift, jedes Gebäude und jede Wohnung wird eine Ordnungsnummer vergeben. Die Ordnungsnummern werden mit gemeinde- und gebäudeübergreifender Eindeutigkeit von den statistischen Ämtern des Bundes und der Länder vergeben und geführt. Die Ordnungsnummer kann das Merkmal „Schlüssel der Straße“ nach § 2 Abs. 3 Nr. 11 enthalten.
 
 (2) Die Ordnungsnummern werden bei den Zusammenführungen nach § 7 sowie bei den beim Zensus erforderlichen Zusammenführungen der Daten der Registerauswertungen und der Daten der ergänzenden Befragungen verwendet.
 
-
-## § 9 – Sondergebäude
+# § 9 – Sondergebäude
 
 (1) Zur Vorbereitung der Erhebung von Personen in Sondergebäuden ergänzen die statistischen Ämter der Länder das Anschriften- und Gebäuderegister um folgende Merkmale:
 
@@ -226,8 +215,7 @@ Die Bundesagentur für Arbeit übermittelt für die am 30. September 2007 sozial
 
 (3) Sondergebäude sind Gemeinschafts-, Anstalts- und Notunterkünfte, Wohnheime und Gebäude, die durch Angehörige ausländischer Streitkräfte, diplomatischer oder berufskonsularischer Vertretungen bewohnt werden. Unter Gemeinschafts- und Anstaltsunterkünften sind Einrichtungen zu verstehen, die in der Regel der längerfristigen Unterbringung und Versorgung einer Gruppe von Personen dienen. Als Notunterkünfte gelten auch Anschriften, an denen Wohnungslose gemeldet sind.
 
-
-## § 10 – Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung
+# § 10 – Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung
 
 (1) Für die Durchführung der Gebäude- und Wohnungszählung ergänzen die statistischen Ämter der Länder das Anschriften- und Gebäuderegister um Angaben zu folgenden Merkmalen mit Stichtag 1. April 2009:
 
@@ -241,30 +229,25 @@ Die auskunftspflichtigen Stellen übermitteln auf Anforderung der statistischen 
 
 (3) Die in Absatz 2 genannten Auskunftspflichtigen übermitteln den statistischen Ämtern der Länder auf Anforderung einmalig innerhalb von vier Wochen die Änderungen der Angaben zu den Merkmalen nach Absatz 1 Satz 1, die gegenüber der Meldung nach Absatz 1 Satz 2 seit dem 1. April 2009 eingetreten sind.
 
-
-## § 11 – Geheimhaltung
+# § 11 – Geheimhaltung
 
 Für die Geheimhaltung der Einzelangaben über persönliche und sachliche Verhältnisse gilt § 16 des Bundesstatistikgesetzes.
 
-
-## § 12 – Nutzung allgemein zugänglicher Quellen
+# § 12 – Nutzung allgemein zugänglicher Quellen
 
 Für Zwecke dieses Gesetzes können die statistischen Ämter des Bundes und der Länder auch Angaben aus allgemein zugänglichen Quellen verwenden.
 
-
-## § 13 – Datenübermittlungen
+# § 13 – Datenübermittlungen
 
 (1) Die im vorliegenden Gesetz geregelten Datenübermittlungen haben jeweils aus den vorhandenen Unterlagen zu erfolgen.
 
 (2) Die nach diesem Gesetz beteiligten Stellen haben durch technische und organisatorische Maßnahmen zu gewährleisten, dass die Angaben bei der elektronischen Übermittlung oder während ihres Transports oder ihrer Speicherung auf Datenträger nicht unbefugt gelesen, kopiert, verändert oder entfernt werden können.
 
-
-## § 14 – Kosten
+# § 14 – Kosten
 
 Eine Erstattung der Kosten von Datenübermittlungen an das Statistische Bundesamt erfolgt nicht.
 
-
-## § 15 – Löschung
+# § 15 – Löschung
 
 (1) Der Familienname nach § 5 Abs. 1 Nr. 6 wird gelöscht, nachdem im Zuge der in § 7 geregelten Zusammenführungen und Auswertungen für jede Anschrift die Zahl der dort gemeldeten Personen mit unterschiedlichen Familiennamen festgestellt worden ist. Die Daten nach § 6 werden nach der Erstellung des Anschriften- und Gebäuderegisters gelöscht.
 
@@ -274,8 +257,7 @@ Eine Erstattung der Kosten von Datenübermittlungen an das Statistische Bundesam
 
 § 15: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -
 
-
-## § 16 – Umwelt- und wohnungsstatistische Stichprobenerhebungen
+# § 16 – Umwelt- und wohnungsstatistische Stichprobenerhebungen
 
 (1) Die Angaben nach § 2 Absatz 3 Nummer 1 bis 20, 26 und 29 dürfen in Verbindung mit den Angaben nach § 6 Absatz 2 Nummer 1 Buchstabe b bis f des Zensusgesetzes 2011 als Auswahlgrundlage für umwelt- und wohnungsstatistische Stichprobenerhebungen genutzt werden.
 

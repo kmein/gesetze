@@ -1,13 +1,9 @@
-# [BGleiG] Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes  (Bundesgleichstellungsgesetz - BGleiG)
-
-Ausfertigungsdatum: 24.04.2015
-
+% Gesetz für die Gleichstellung von Frauen und Männern in der Bundesverwaltung und in den Unternehmen und Gerichten des Bundes  (Bundesgleichstellungsgesetz - BGleiG)
+% Ausfertigungsdatum: 24.04.2015
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Ziele des Gesetzes
+# § 1 – Ziele des Gesetzes
 
 (1) Ziel des Gesetzes ist es,
 
@@ -21,13 +17,11 @@ Ausfertigungsdatum: 24.04.2015
 
 (3) Bei der Erreichung der Ziele sind die besonderen Belange behinderter und von Behinderung bedrohter Frauen im Sinne von § 2 Absatz 1 des Neunten Buches Sozialgesetzbuch zu berücksichtigen. Im Übrigen gilt § 2 Satz 2 des Gesetzes zur Gleichstellung behinderter Menschen.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 Dieses Gesetz gilt für die Dienststellen nach § 3 Nummer 5. Unternehmen nach § 3 Nummer 9 sollen auf die entsprechende Anwendung dieses Gesetzes hinwirken.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind:
 
@@ -63,8 +57,7 @@ b) Unternehmen, die aus bundeseigener Verwaltung künftig in ein Unternehmen des
 
 10. unterrepräsentiert: Status von Frauen oder Männern, wenn ihr jeweiliger Anteil an den Beschäftigten in einem einzelnen Bereich nach Nummer 2 unter 50 Prozent liegt; bei einer ungeraden Anzahl an Beschäftigten sind Frauen oder Männer unterrepräsentiert, wenn das Ungleichgewicht zwischen beiden Geschlechtern mindestens zwei Personen des gleichen Geschlechts betrifft; maßgeblich für die Bestimmung einer Unterrepräsentanz ist die aktuelle Situation in demjenigen Bereich, auf den sich die angestrebte Maßnahme oder Entscheidung hauptsächlich bezieht.
 
-
-## § 4 – Allgemeine Pflichten
+# § 4 – Allgemeine Pflichten
 
 (1) Die Beschäftigten, insbesondere solche mit Vorgesetzten- oder Leitungsaufgaben, die Leitung der Dienststelle sowie die Personalverwaltung haben die Erreichung der Ziele dieses Gesetzes zu fördern. Diese Verpflichtung ist als durchgängiges Leitprinzip bei allen Aufgabenbereichen und Entscheidungen der Dienststellen sowie bei der Zusammenarbeit von Dienststellen zu berücksichtigen.
 
@@ -72,15 +65,13 @@ b) Unternehmen, die aus bundeseigener Verwaltung künftig in ein Unternehmen des
 
 (3) Rechts- und Verwaltungsvorschriften des Bundes sollen die Gleichstellung von Frauen und Männern auch sprachlich zum Ausdruck bringen. Dies gilt auch für den dienstlichen Schriftverkehr.
 
-
-## § 5 – Grundsatz; Anwendungshinweis
+# § 5 – Grundsatz; Anwendungshinweis
 
 (1) Die Vorschriften dieses Abschnitts sind nur dann nicht anzuwenden, wenn die Zugehörigkeit zu einem bestimmten Geschlecht unverzichtbare Voraussetzung für die auszuübende Tätigkeit ist.
 
 (2) Die Beteiligungsrechte der Personalvertretung und die der Schwerbehindertenvertretung bleiben unberührt.
 
-
-## § 6 – Arbeitsplatzausschreibung
+# § 6 – Arbeitsplatzausschreibung
 
 (1) Ausschreibungen von Arbeitsplätzen müssen geschlechtsneutral erfolgen. Es ist insbesondere unzulässig, Arbeitsplätze nur für Männer oder nur für Frauen auszuschreiben. Der Ausschreibungstext muss so formuliert sein, dass er Angehörige beider Geschlechter in gleicher Weise anspricht und Angehörige des in dem jeweiligen Bereich unterrepräsentierten Geschlechts verstärkt zur Bewerbung auffordert. Jede Ausschreibung hat den Hinweis zu enthalten, dass der ausgeschriebene Arbeitsplatz in Teilzeit besetzt werden kann, es sei denn, zwingende dienstliche Belange stehen dem entgegen. Satz 4 gilt auch für die Besetzung von Arbeitsplätzen mit Vorgesetzten- oder Leitungsaufgaben ungeachtet der Hierarchieebene.
 
@@ -90,8 +81,7 @@ b) Unternehmen, die aus bundeseigener Verwaltung künftig in ein Unternehmen des
 
 (+++ § 6 Abs. 2 Satz 2: Zur Anwendung vgl. § 37 Nr. 2 +++)
 
-
-## § 7 – Bewerbungsgespräche
+# § 7 – Bewerbungsgespräche
 
 (1) Liegen in ausreichender Zahl Bewerbungen von Frauen vor, die das in der Ausschreibung vorgegebene Anforderungs- und Qualifikationsprofil aufweisen, müssen bei der Besetzung von Arbeitsplätzen in einem Bereich, in dem Frauen unterrepräsentiert sind, mindestens ebenso viele Frauen wie Männer zu Vorstellungsgesprächen oder besonderen Auswahlverfahren eingeladen werden. § 82 Satz 2 und 3 des Neunten Buches Sozialgesetzbuch bleibt unberührt. Für die Besetzung von Arbeitsplätzen in einem Bereich, in dem Männer auf Grund struktureller Benachteiligung unterrepräsentiert sind, gelten die Sätze 1 und 2 entsprechend.
 
@@ -99,8 +89,7 @@ b) Unternehmen, die aus bundeseigener Verwaltung künftig in ein Unternehmen des
 
 (3) Auswahlkommissionen sollen geschlechterparitätisch besetzt sein. Ist eine paritätische Besetzung aus triftigen Gründen nicht möglich, sind die jeweiligen Gründe aktenkundig zu machen.
 
-
-## § 8 – Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg und der Vergabe von Ausbildungsplätzen
+# § 8 – Auswahlentscheidungen bei Einstellung, beruflichem Aufstieg und der Vergabe von Ausbildungsplätzen
 
 (1) Sind Frauen in einem bestimmten Bereich nach § 3 Nummer 2 unterrepräsentiert, hat die Dienststelle sie bei der Vergabe von Ausbildungsplätzen, bei Einstellung und beruflichem Aufstieg bevorzugt zu berücksichtigen. Dies gilt auch bei der Abordnung, Versetzung und Umsetzung für jeweils mehr als drei Monate, wenn diesen ein Ausschreibungsverfahren vorausgeht. Voraussetzung für die Bevorzugung ist, dass Bewerberinnen die gleiche Qualifikation aufweisen wie ihre männlichen Mitbewerber. Die Bevorzugung ist ausgeschlossen, wenn rechtlich schützenswerte Gründe überwiegen, die in der Person eines männlichen Mitbewerbers liegen. Sind Männer strukturell benachteiligt und in dem jeweiligen Bereich unterrepräsentiert, gelten die Sätze 1 bis 4 entsprechend.
 
@@ -114,8 +103,7 @@ Satz 1 schließt auch Arbeitsplätze mit Vorgesetzten- oder Leitungsaufgaben ung
 
 (3) Die Ausnahmeregelung in Absatz 2 Satz 1 Nummer 1 gilt entsprechend für die Stellen von Mitgliedern des Bundesrechnungshofes, für deren Ernennung nach § 5 Absatz 2 Satz 2 des Bundesrechnungshofgesetzes vom 11. Juli 1985 (BGBl. I S. 1445), das zuletzt durch Artikel 15 Absatz 82 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, der Ständige Ausschuss des Großen Senats des Bundesrechnungshofes zu hören ist.
 
-
-## § 9 – Qualifikation von Bewerberinnen und Bewerbern
+# § 9 – Qualifikation von Bewerberinnen und Bewerbern
 
 (1) Die Qualifikation einer Bewerberin oder eines Bewerbers wird anhand der Anforderungen des zu besetzenden Arbeitsplatzes ermittelt, insbesondere aus der hierfür erforderlichen Ausbildung, dem Qualifikationsprofil der Laufbahn oder des Funktionsbereichs sowie aus den beruflichen Erfahrungen. Das Dienstalter und der Zeitpunkt der letzten Beförderung von Bewerberinnen und Bewerbern dürfen nur insoweit berücksichtigt werden, wie sie für die Qualifikation für den betreffenden Arbeitsplatz von Bedeutung sind. Spezifische, durch Familien- oder Pflegeaufgaben erworbene Erfahrungen und Fähigkeiten sind zu berücksichtigen, soweit sie für die Ausübung der jeweiligen Tätigkeit von Bedeutung sind.
 
@@ -137,8 +125,7 @@ d) zeitliche Belastungen,
 
 4. organisatorische und personalwirtschaftliche Erwägungen.
 
-
-## § 10 – Fortbildung, Dienstreisen
+# § 10 – Fortbildung, Dienstreisen
 
 (1) Die Dienststelle hat die Teilnahme der Beschäftigten an Fortbildungen zu unterstützen. Bei der Einführungs-, Förderungs- und Anpassungsfortbildung sind Frauen mindestens entsprechend ihrem Anteil an der jeweiligen Zielgruppe der Fortbildung zu berücksichtigen. Satz 2 gilt auch für Männer, wenn diese unterrepräsentiert sind.
 
@@ -154,20 +141,17 @@ d) zeitliche Belastungen,
 
 (5) Der Gleichstellungsbeauftragten und ihren Stellvertreterinnen ist zu Beginn und während ihrer Amtszeit Gelegenheit zur Fortbildung, insbesondere auf den Gebieten des Gleichstellungsrechts, des Rechts des öffentlichen Dienstes sowie des Personalvertretungs-, Organisations- und des Haushaltsrechts, zu geben.
 
-
-## § 11 – Zweck
+# § 11 – Zweck
 
 Der Gleichstellungsplan dient der Erreichung der Ziele dieses Gesetzes und ist ein wesentliches Instrument der Personalplanung, insbesondere der Personalentwicklung. Seine Umsetzung ist besondere Verpflichtung der Personalverwaltung, der Beschäftigten mit Vorgesetzten- oder Leitungsaufgaben sowie der Dienststellenleitung.
 
-
-## § 12 – Erstellung
+# § 12 – Erstellung
 
 (1) Jede Dienststelle hat einen Gleichstellungplan für jeweils vier Jahre zu erstellen, der nach zwei Jahren den aktuellen Gegebenheiten angepasst werden kann. Die Rechte der Personalvertretung und die der Schwerbehindertenvertretung bleiben unberührt.
 
 (2) Der Gleichstellungsplan ist bis zum 31. Dezember zu erstellen und tritt am 1. Januar des Folgejahres in Kraft. Für Dienststellen mit einem großen Geschäftsbereich sowie im Falle umfassender organisatorischer Änderungen in der Dienststelle können abweichend von Satz 1 im Einvernehmen mit der Gleichstellungsbeauftragten andere Stichtage festgelegt werden.
 
-
-## § 13 – Inhalt
+# § 13 – Inhalt
 
 (1) Der Gleichstellungsplan muss eine Bestandsaufnahme vornehmen, indem er die bestehende Situation der Frauen und Männer in der Dienststelle zum 30. Juni des Jahres seiner Erstellung beschreibt und die bisherige Förderung der Beschäftigten in den einzelnen Bereichen nach § 3 Nummer 2 für die vergangenen vier Jahre auswertet. Zur Bestandsaufnahme gehört auch eine Darstellung, die zeigt, wie Frauen und Männer die Maßnahmen zur besseren Vereinbarkeit von Familie, Pflege und Berufstätigkeit in Anspruch genommen haben und wie sich ihr beruflicher Aufstieg darstellt im Vergleich zu Frauen und Männern, die solche Maßnahmen nicht in Anspruch genommen haben. Sind die Zielvorgaben des vorherigen Gleichstellungsplans nicht umgesetzt worden, so sind im aktuellen Gleichstellungsplan die Gründe für die Zielverfehlung darzulegen.
 
@@ -185,18 +169,15 @@ Dazu sind konkrete Zielvorgaben insbesondere zum Frauen- und Männeranteil für 
 
 (5) Der Gleichstellungsplan darf keine personenbezogenen Daten enthalten.
 
-
-## § 14 – Bekanntmachung, Veröffentlichung
+# § 14 – Bekanntmachung, Veröffentlichung
 
 Der Gleichstellungsplan ist innerhalb eines Monats nach Beginn seiner Geltungsdauer im Intranet der Dienststellen zu veröffentlichen und den Beschäftigten unverzüglich zur Kenntnis zu geben. Die Beschäftigten mit Vorgesetzten- oder Leitungsaufgaben erhalten ihn in Textform.
 
-
-## § 15 – Arbeitszeiten und sonstige Rahmenbedingungen
+# § 15 – Arbeitszeiten und sonstige Rahmenbedingungen
 
 Die Dienststellen haben Arbeitszeiten und sonstige Rahmenbedingungen anzubieten, die Frauen und Männern die Vereinbarkeit von Familie, Pflege und Berufstätigkeit erleichtern, soweit zwingende dienstliche Belange nicht entgegenstehen. Zu den sonstigen Rahmenbedingungen im Sinne von Satz 1 können Möglichkeiten zur Betreuung von Kindern oder pflegebedürftigen Personen einschließlich entsprechender Beratungs- und Vermittlungsleistungen gehören.
 
-
-## § 16 – Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben
+# § 16 – Teilzeitbeschäftigung, Telearbeit, mobiles Arbeiten und Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben
 
 (1) Die Dienststellen haben Anträgen von Beschäftigten mit Familien- oder Pflegeaufgaben auf familien- oder pflegebedingte Teilzeitbeschäftigung oder Beurlaubung zu entsprechen, soweit zwingende dienstliche Belange nicht entgegenstehen; dies gilt auch bei Arbeitsplätzen mit Vorgesetzten- oder Leitungsaufgaben ungeachtet der Hierarchieebene. Im Rahmen der dienstlichen Möglichkeiten haben die Dienststellen den Beschäftigten mit Familien- oder Pflegeaufgaben auch Telearbeitsplätze, mobile Arbeitsplätze oder familien- oder pflegefreundliche Arbeits- und Präsenzzeitmodelle anzubieten. Die Ablehnung von Anträgen muss im Einzelnen schriftlich begründet werden.
 
@@ -214,8 +195,7 @@ Die Dienststellen haben Arbeitszeiten und sonstige Rahmenbedingungen anzubieten,
 
 (4) Die Vorschriften des Teilzeit- und Befristungsgesetzes zur Teilzeitbeschäftigung sowie sonstige gesetzliche Regelungen zur Teilzeitbeschäftigung oder zur Beurlaubung bleiben von den Absätzen 1 bis 3 unberührt.
 
-
-## § 17 – Wechsel zur Vollzeitbeschäftigung, beruflicher Wiedereinstieg
+# § 17 – Wechsel zur Vollzeitbeschäftigung, beruflicher Wiedereinstieg
 
 (1) Bei Vorliegen der gleichen Qualifikation müssen im Rahmen der Besetzung von Arbeitsplätzen vorrangig berücksichtigt werden:
 
@@ -239,8 +219,7 @@ Die Dienststellen haben Arbeitszeiten und sonstige Rahmenbedingungen anzubieten,
 
 (4) Die Dienststelle hat rechtzeitig vor Ablauf einer Beurlaubung zur Wahrnehmung von Familien- oder Pflegeaufgaben Personalgespräche mit den betroffenen Beschäftigten zu führen, in denen deren weitere berufliche Entwicklung zu erörtern ist.
 
-
-## § 18 – Verbot von Benachteiligungen
+# § 18 – Verbot von Benachteiligungen
 
 (1) Folgende Umstände dürfen die Einstellung sowie die berufliche Entwicklung einschließlich des beruflichen Aufstiegs nicht beeinträchtigen und sich insbesondere nicht nachteilig auf die dienstliche Beurteilung auswirken:
 
@@ -260,8 +239,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (3) Schwangerschafts- und mutterschaftsbedingte Abwesenheiten auf Grund mutterschutzrechtlicher Beschäftigungsverbote sowie Beurlaubungen auf Grund von Familien- oder Pflegeaufgaben sind bei der Anrechnung von Wartezeiten für eine Beförderung nach § 22 Absatz 4 des Bundesbeamtengesetzes zu berücksichtigen.
 
-
-## § 19 – Wahl, Verordnungsermächtigung
+# § 19 – Wahl, Verordnungsermächtigung
 
 (1) In jeder Dienststelle mit in der Regel mindestens 100 Beschäftigten werden eine Gleichstellungsbeauftragte und eine Stellvertreterin gewählt. Satz 1 gilt auch für oberste Bundesbehörden mit in der Regel weniger als 100 Beschäftigten. Die Wahl der Gleichstellungsbeauftragten und der Stellvertreterin findet in getrennten Wahlgängen nach Maßgabe der allgemeinen Wahlrechtsgrundsätze statt. Wiederwahlen sind zulässig. Wahlberechtigt und wählbar sind die weiblichen Beschäftigten der Dienststelle.
 
@@ -273,8 +251,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (5) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Wahl nach den Absätzen 1 bis 4.
 
-
-## § 20 – Bestellung
+# § 20 – Bestellung
 
 (1) Die Dienststellen bestellen die gewählten Beschäftigten für jeweils vier Jahre zur Gleichstellungsbeauftragten oder zur Stellvertreterin. Die Bestellung setzt voraus, dass die gewählten Beschäftigten weder der Personal- noch der Schwerbehindertenvertretung angehören.
 
@@ -284,8 +261,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (4) Für kleine Dienststellen nach § 19 Absatz 2 sowie für Nebenstellen und Teile einer Dienststelle, die räumlich weit von dieser entfernt liegen, ist auf Vorschlag der zuständigen Gleichstellungsbeauftragten eine Vertrauensfrau zu bestellen. Die Bestellung der Vertrauensfrauen bedarf der Zustimmung der zu bestellenden weiblichen Beschäftigten. Die Vertrauensfrau muss Beschäftigte der jeweiligen Dienststelle, Nebenstelle der Dienststelle oder des jeweiligen Dienststellenteils sein.
 
-
-## § 21 – Anfechtung der Wahl
+# § 21 – Anfechtung der Wahl
 
 (1) Die Wahl kann angefochten werden, wenn gegen wesentliche Vorschriften zur Wahl verstoßen worden und der Verstoß nicht berichtigt worden ist. Eine Anfechtung der Wahl scheidet aus, wenn das Wahlergebnis durch einen Verstoß gegen wesentliche Vorschriften zur Wahl nicht geändert oder beeinflusst werden konnte.
 
@@ -293,8 +269,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (3) Die Anfechtung muss vor dem Verwaltungsgericht innerhalb von zwölf Arbeitstagen nach Bekanntgabe des Wahlergebnisses erfolgen.
 
-
-## § 22 – Vorzeitiges Ausscheiden
+# § 22 – Vorzeitiges Ausscheiden
 
 (1) Scheidet die Gleichstellungsbeauftragte vorzeitig aus ihrem Amt aus oder ist sie nicht nur vorübergehend verhindert, ihr Amt auszuüben, hat die Dienststelle für die restliche Amtszeit unverzüglich eine neue Gleichstellungsbeauftragte zu bestellen. § 19 findet keine Anwendung, wenn die Dauer der restlichen Amtszeit zwei Jahre oder weniger beträgt.
 
@@ -304,8 +279,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (4) Eine Verhinderung ist nicht nur vorübergehend, wenn das Amt auf Grund krankheitsbedingter Arbeits- oder Dienstunfähigkeit für mehr als sechs Monate ununterbrochen nicht ausgeübt werden konnte.
 
-
-## § 23 – Zusammenlegung, Aufspaltung und Eingliederung
+# § 23 – Zusammenlegung, Aufspaltung und Eingliederung
 
 (1) Bei der Zusammenlegung von Dienststellen zu einer neuen Dienststelle endet die Amtszeit der Gleichstellungsbeauftragten und die der Stellvertreterinnen spätestens ein Jahr nach Zusammenlegung der Dienststellen. Bis zu diesem Zeitpunkt erfolgt die Aufgabenaufteilung und -wahrnehmung in gegenseitigem Einvernehmen zwischen den Gleichstellungsbeauftragten und Stellvertreterinnen. Neuwahlen nach § 19 müssen rechtzeitig vor Ablauf eines Jahres nach Zusammenlegung der Dienststellen abgeschlossen sein.
 
@@ -313,8 +287,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (3) Wird eine Dienststelle in eine andere Dienststelle eingegliedert, endet die Amtszeit der Gleichstellungsbeauftragten und die der Stellvertreterinnen der eingegliederten Dienststelle mit Vollzug des Organisationsaktes der Eingliederung.
 
-
-## § 24 – Rechtsstellung
+# § 24 – Rechtsstellung
 
 (1) Die Gleichstellungsbeauftragte gehört der Personalverwaltung an und wird unmittelbar der Dienststellenleitung zugeordnet. Bei obersten Bundesbehörden ist auch eine Zuordnung zur Leitung der Zentralabteilung möglich.
 
@@ -322,8 +295,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (3) Die Rechte und Pflichten der Gleichstellungsbeauftragten nach den Absätzen 1 und 2 sowie nach den §§ 28 bis 35 gelten auch für die Stellvertreterinnen, soweit dieses Gesetz nichts anderes bestimmt.
 
-
-## § 25 – Aufgaben, Rechte und Pflichten der Gleichstellungsbeauftragten
+# § 25 – Aufgaben, Rechte und Pflichten der Gleichstellungsbeauftragten
 
 (1) Die Gleichstellungsbeauftragte hat die Aufgabe, den Vollzug dieses Gesetzes sowie des Allgemeinen Gleichbehandlungsgesetzes im Hinblick auf den Schutz der Beschäftigten vor Benachteiligungen wegen ihres Geschlechts, insbesondere bei Benachteiligungen von Frauen, zu fördern und zu überwachen. Dies umfasst auch den Schutz von Frauen, die behindert oder von einer Behinderung bedroht sind, sowie den Schutz vor sexueller Belästigung am Arbeitsplatz.
 
@@ -347,8 +319,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (7) Die Aufgabenwahrnehmung als Gleichstellungsbeauftragte hat Vorrang vor der Wahrnehmung anderer Aufgaben.
 
-
-## § 26 – Aufgaben der Stellvertreterin und der Vertrauensfrau
+# § 26 – Aufgaben der Stellvertreterin und der Vertrauensfrau
 
 (1) Die Stellvertreterin wird grundsätzlich im Vertretungsfall tätig.
 
@@ -358,8 +329,7 @@ Dies schließt nicht aus, dass Zeiten nach Satz 1 Nummer 1 anders behandelt werd
 
 (4) Die Vertrauensfrau ist Ansprechpartnerin für die Beschäftigten der jeweiligen Dienststelle, Nebenstelle oder des jeweiligen Dienststellenteils sowie für die zuständige Gleichstellungsbeauftragte. Ihr obliegt die Vermittlung von Informationen zwischen den Beschäftigten und der Gleichstellungsbeauftragten. Sind sowohl die Gleichstellungsbeauftragte als auch ihre Stellvertreterinnen verhindert, kann die Vertrauensfrau im Auftrag der Gleichstellungsbeauftragten an Vorstellungsgesprächen, besonderen Auswahlverfahren oder Sitzungen von Auswahlkommissionen teilnehmen; die Ausübung des Mitwirkungsrechts nach § 32 bleibt in diesem Fall weiterhin der Gleichstellungsbeauftragten vorbehalten. Macht die Dienststelle von der Möglichkeit in § 19 Absatz 3 Gebrauch, kann die Gleichstellungsbeauftragte der Vertrauensfrau mit deren Einverständnis auch Aufgaben zur eigenständigen Erledigung bei der örtlichen Dienststelle, Nebenstelle oder des Dienststellenteils übertragen.
 
-
-## § 27 – Beteiligung und Unterstützung der Gleichstellungsbeauftragten
+# § 27 – Beteiligung und Unterstützung der Gleichstellungsbeauftragten
 
 (1) Die Dienststelle beteiligt die Gleichstellungsbeauftragten frühzeitig, insbesondere bei
 
@@ -387,8 +357,7 @@ e) Kündigung sowie Aufhebungsvertrag, Entlassung, Versetzung in den Ruhestand u
 
 (3) Die Beteiligung der Gleichstellungsbeauftragten geht einem Beteiligungsverfahren nach dem Bundespersonalvertretungsgesetz und dem Neunten Buch Sozialgesetzbuch voraus; das Verfahren nach § 32 Absatz 3 muss abgeschlossen sein. Erfolgt entgegen Satz 1 eine parallele Beteiligung von Personal- oder Schwerbehindertenvertretung, ist die Gleichstellungsbeauftragte über die Gründe zu informieren.
 
-
-## § 28 – Schutzrechte
+# § 28 – Schutzrechte
 
 (1) Die Gleichstellungsbeauftragte darf bei der Erfüllung ihrer Pflichten nicht behindert und wegen ihrer Tätigkeit als Gleichstellungsbeauftragte in ihrer beruflichen Entwicklung nicht benachteiligt oder begünstigt werden. Insbesondere übt sie ihr Amt ohne Minderung ihrer bisherigen Bezüge oder ihres bisherigen Arbeitsentgelts aus und nimmt am beruflichen Aufstieg so teil, wie dieser ohne die Übernahme des Amtes erfolgt wäre.
 
@@ -402,8 +371,7 @@ e) Kündigung sowie Aufhebungsvertrag, Entlassung, Versetzung in den Ruhestand u
 
 (6) Vertrauensfrauen werden von anderweitigen Tätigkeiten in dem Ausmaß entlastet, wie dies zur ordnungsgemäßen Wahrnehmung ihrer Aufgaben als Informationsvermittlerin erforderlich ist. Die Entlastung beträgt mindestens ein Zehntel und bis zu einem Viertel der regelmäßigen Arbeitszeit einer Vollzeitkraft.
 
-
-## § 29 – Ausstattung
+# § 29 – Ausstattung
 
 (1) Der Gleichstellungsbeauftragten ist mit Beginn und bis zum Ende ihrer Amtszeit die notwendige personelle, räumliche und sachliche Ausstattung zur Verfügung zu stellen.
 
@@ -413,8 +381,7 @@ e) Kündigung sowie Aufhebungsvertrag, Entlassung, Versetzung in den Ruhestand u
 
 (4) Die Gleichstellungsbeauftragte erhält einen monatlichen Verfügungsfonds. Die Höhe des Verfügungsfonds der vollständig von anderweitigen Aufgaben entlasteten Gleichstellungsbeauftragten entspricht der Höhe der Aufwandsentschädigung für ganz von ihrer dienstlichen Tätigkeit freigestellte Mitglieder von Personalräten, Gesamtpersonalräten, Bezirkspersonalräten und Hauptpersonalräten. Die teilweise von anderweitigen Aufgaben entlastete Gleichstellungsbeauftragte erhält einen Verfügungsfonds, der dem Anteil ihrer Entlastung entspricht. Die Verordnung über die Höhe der Aufwandsentschädigung für vom Dienst freigestellte Personalvertretungsmitglieder vom 18. Juli 1974 (BGBl. I S. 1499), die durch Artikel 7 des Gesetzes vom 3. Dezember 2001 (BGBl. I S. 3306) geändert worden ist, gilt entsprechend.
 
-
-## § 30 – Zusammenarbeit und Information
+# § 30 – Zusammenarbeit und Information
 
 (1) Die Dienststellenleitung und die Gleichstellungsbeauftragte arbeiten zum Wohle der Beschäftigten und zur Erfüllung der in § 1 genannten Ziele eng zusammen.
 
@@ -422,13 +389,11 @@ e) Kündigung sowie Aufhebungsvertrag, Entlassung, Versetzung in den Ruhestand u
 
 (3) Die Gleichstellungsbeauftragte hat das Recht, Einsicht in die entscheidungsrelevanten Teile von Personalakten zu nehmen, soweit die Kenntnis des Akteninhalts zur Erfüllung ihrer Aufgaben erforderlich ist.
 
-
-## § 31 – Verschwiegenheitspflicht
+# § 31 – Verschwiegenheitspflicht
 
 Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die Mitarbeiterinnen und Mitarbeiter sowie die Vertrauensfrauen sind hinsichtlich persönlicher Verhältnisse der Beschäftigten und anderer vertraulicher Angelegenheiten in der Dienststelle ab dem Zeitpunkt ihrer Bestellung sowie über die Zeit ihrer Bestellung hinaus zum Stillschweigen verpflichtet.
 
-
-## § 32 – Form der Mitwirkung und Stufenbeteiligung
+# § 32 – Form der Mitwirkung und Stufenbeteiligung
 
 (1) Die Gleichstellungsbeauftragte hat das Recht und die Pflicht, unmittelbar bei der Dienststellenleitung vorzutragen. Sie hat in allen Angelegenheiten, die nach § 25 Absatz 1 und § 27 Absatz 1 ihrer Mitwirkung unterliegen, ein Initiativrecht. Die Dienststelle hat über einen Initiativantrag innerhalb angemessener Zeit, spätestens nach einem Monat, zu entscheiden. In Ausnahmefällen ist die endgültige Entscheidung nach drei Monaten vorzunehmen. Die Entscheidung ist der Gleichstellungsbeauftragten in Textform mitzuteilen.
 
@@ -440,8 +405,7 @@ Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die Mitarbeiterinne
 
 (+++ § 32 Abs. 4: Zur Anwendung vgl. § 37 Nr. 8 +++)
 
-
-## § 33 – Einspruchsrecht und Einspruchsverfahren
+# § 33 – Einspruchsrecht und Einspruchsverfahren
 
 (1) Die Gleichstellungsbeauftragte hat ein Einspruchsrecht gegenüber der Dienststellenleitung, wenn sie geltend macht, die Dienststelle habe
 
@@ -465,8 +429,7 @@ Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die Mitarbeiterinne
 
 (5) Die Entscheidung über den Einspruch ist schriftlich zu begründen und der Gleichstellungsbeauftragten unverzüglich zu übermitteln.
 
-
-## § 34 – Gerichtliches Verfahren
+# § 34 – Gerichtliches Verfahren
 
 (1) Bleibt der Einspruch nach § 33 erfolglos, kann die Gleichstellungsbeauftragte das Verwaltungsgericht anrufen. Zuvor hat die Gleichstellungsbeauftragte oder die Dienststelle einen nochmaligen außergerichtlichen Einigungsversuch zu unternehmen. Das Gericht ist innerhalb eines Monats anzurufen, nachdem die Gleichstellungsbeauftragte oder die Dienststelle das Scheitern des außergerichtlichen Einigungsversuchs schriftlich festgestellt hat. Die Anrufung hat keine aufschiebende Wirkung.
 
@@ -480,20 +443,17 @@ Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen, die Mitarbeiterinne
 
 (4) Die Dienststelle trägt die Kosten, die der Gleichstellungsbeauftragten auf Grund von Rechtsbehelfen nach den Absätzen 1 oder 2 entstehen.
 
-
-## § 35 – Fragerecht
+# § 35 – Fragerecht
 
 (1) Zur Klärung von Fragen grundsätzlicher Bedeutung, insbesondere zur Auslegung dieses Gesetzes, können sich die Gleichstellungsbeauftragte und die Stellvertreterinnen unmittelbar an das Bundesministerium für Familie, Senioren, Frauen und Jugend wenden. Personenbezogene Daten von Beschäftigten dürfen dem Bundesministerium für Familie, Senioren, Frauen und Jugend nur mit Einwilligung der betroffenen Beschäftigten übermittelt werden.
 
 (2) Anfragen nach Absatz 1 sollen innerhalb eines Monats beantwortet werden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend leitet seine Antwort der jeweils zuständigen obersten Bundesbehörde nachrichtlich zu.
 
-
-## § 36 – Interministerieller Arbeitskreis der Gleichstellungsbeauftragten
+# § 36 – Interministerieller Arbeitskreis der Gleichstellungsbeauftragten
 
 Die Gleichstellungsbeauftragten der obersten Bundesbehörden bilden zusammen den Interministeriellen Arbeitskreis der Gleichstellungsbeauftragten der obersten Bundesbehörden. Der Arbeitskreis informiert die Gleichstellungsbeauftragten aus den Geschäftsbereichen regelmäßig über seine Tätigkeit. Die Möglichkeit, im Geltungsbereich dieses Gesetzes weitere Arbeitskreise zur Koordinierung der Arbeit von Gleichstellungsbeauftragten einzurichten, bleibt von den Sätzen 1 und 2 unberührt.
 
-
-## § 37 – Sonderregelungen für den Bundesnachrichtendienst
+# § 37 – Sonderregelungen für den Bundesnachrichtendienst
 
 Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden Abweichungen:
 
@@ -517,8 +477,7 @@ Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden Abweichungen:
 
 10. bei Vorliegen besonderer Sicherheitsvorfälle oder einer besonderen Einsatzsituation, von der der Bundesnachrichtendienst ganz oder teilweise betroffen ist, ruhen die Rechte und Pflichten der Gleichstellungsbeauftragten; Beginn und Ende des Ruhens werden jeweils von der Leitung des Bundesnachrichtendienstes im Einvernehmen mit der Chefin oder dem Chef des Bundeskanzleramtes festgestellt.
 
-
-## § 38 – Statistik, Verordnungsermächtigung
+# § 38 – Statistik, Verordnungsermächtigung
 
 (1) Jede Dienststelle erfasst alle zwei Jahre die Zahl aller in der Dienststelle beschäftigten Frauen und Männer sowie die Zahl der Frauen und Männer nach folgenden weiteren Kriterien:
 
@@ -560,8 +519,7 @@ Die Daten nach Satz 1 Nummer 1 bis 4 sind zum 30. Juni des Berichtsjahres zu erf
 
 (+++ § 38 Abs. 1 Satz 4: Zur Anwendung vgl. § 37 Nr. 8 +++)
 
-
-## § 39 – Bericht
+# § 39 – Bericht
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre einen Bericht über die Situation der Frauen und Männer in den Dienststellen nach § 3 Nummer 5 (Bericht zum Bundesgleichstellungsgesetz) vor. Grundlage des Berichts sind die nach § 38 Absatz 1 und 2 erhobenen Daten. Die obersten Bundesbehörden haben die dazu erforderlichen Angaben zu machen.
 
@@ -569,8 +527,7 @@ Die Daten nach Satz 1 Nummer 1 bis 4 sind zum 30. Juni des Berichtsjahres zu erf
 
 (3) An der Erstellung des Berichts ist der Interministerielle Arbeitskreis der Gleichstellungsbeauftragten der obersten Bundesbehörden zu beteiligen.
 
-
-## § 40 – Übergangsbestimmungen
+# § 40 – Übergangsbestimmungen
 
 (1) Der Gleichstellungsplan nach Abschnitt 3 ist erstmals zum 31. Dezember 2015 zu erstellen. Dies gilt nicht, wenn die Geltungsdauer des Gleichstellungsplans am 1. Mai 2015 noch mehr als zwei Jahre beträgt.
 

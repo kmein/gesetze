@@ -1,25 +1,19 @@
-# [BuchhdlAusbV 2011] Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin
-
-Ausfertigungsdatum: 15.03.2011
-
+% Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+% Ausfertigungsdatum: 15.03.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Buchhändlers und der Buchhändlerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -29,8 +23,7 @@ Die Berufsausbildung gliedert sich in
 
 3. eine im Ausbildungsvertrag festzulegende dreimonatige Wahlqualifikationseinheit nach § 4 Absatz 2 Abschnitt C.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -263,8 +256,7 @@ Elektronische Geschäftsabwicklung,
 2.5  
 Qualitätssicherung betrieblicher Abläufe.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -272,8 +264,7 @@ Qualitätssicherung betrieblicher Abläufe.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
@@ -301,8 +292,7 @@ kann;
 
 3. die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 7 – Abschlussprüfung
+# § 7 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -406,15 +396,13 @@ bewertet worden sind.
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als ausreichend bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 8 – Zusatzqualifikation
+# § 8 – Zusatzqualifikation
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte dreimonatige Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt C können als Zusatzqualifikationen vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikationen gilt die in der Anlage 1 Abschnitt C enthaltene sachliche Gliederung entsprechend.
 
-
-## § 9 – Prüfung der Zusatzqualifikationen
+# § 9 – Prüfung der Zusatzqualifikationen
 
 (1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die dafür erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
@@ -422,18 +410,15 @@ bewertet worden sind.
 
 (3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
-
-## § 10 – Bestehende Berufsausbildungsverhältnisse
+# § 10 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgeführt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Buchhändler/zur Buchhändlerin vom 5. März 1998 (BGBl. I S. 462) außer Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
 
 (Fundstelle: BGBl. I 2011, 426 - 437)
 
@@ -1596,8 +1581,7 @@ c) Zusammenhang zwischen Qualität und Kundenzufriedenheit sowie dessen Auswirku
 
 d) zur kontinuierlichen Verbesserung von Arbeitsprozessen im Betrieb beitragen
 
-
-## Anlage 2 – (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+# Anlage 2 – (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
 
 (Fundstelle: BGBl. I 2011, 438 - 439)
 

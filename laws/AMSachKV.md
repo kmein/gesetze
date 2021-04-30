@@ -1,20 +1,15 @@
-# [AMSachKV] Verordnung über den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln
-
-Ausfertigungsdatum: 20.06.1978
-
+% Verordnung über den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln
+% Ausfertigungsdatum: 20.06.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 50 Abs. 2 Satz 2 bis 4 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister für Wirtschaft, dem Bundesminister für Bildung und Wissenschaft und dem Bundesminister für Ernährung, Landwirtschaft und Forsten mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Nachweis der Sachkenntnis
+# § 1 – Nachweis der Sachkenntnis
 
 Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit Arzneimitteln im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes, die zum Verkehr außerhalb der Apotheken freigegeben sind (freiverkäufliche Arzneimittel), kann durch eine Prüfung nach den §§ 2 bis 9, durch Prüfungszeugnisse über eine andere abgeleistete berufliche Ausbildung nach § 10 oder in sonstiger Weise nach § 11 erbracht werden.
 
-
-## § 2 – Errichtung und Tätigkeit des Prüfungsausschusses
+# § 2 – Errichtung und Tätigkeit des Prüfungsausschusses
 
 (1) Für die Abnahme der Prüfung errichtet die zuständige Behörde einen Prüfungsausschuß oder mehrere Prüfungsausschüsse. Mehrere Behörden können einen gemeinsamen Prüfungsausschuß errichten.
 
@@ -26,8 +21,7 @@ Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit
 
 (5) Auf die ehrenamtliche Tätigkeit der Mitglieder und deren Stellvertreter im Prüfungsausschuß sind die §§ 83 bis 86, auf die Tätigkeit des Prüfungsausschusses die §§ 89 bis 91 und 93 des Verwaltungsverfahrensgesetzes anzuwenden.
 
-
-## § 3 – Prüfungstermine und Anmeldung zur Prüfung
+# § 3 – Prüfungstermine und Anmeldung zur Prüfung
 
 (1) Die zuständige Behörde bestimmt die Termine für die Durchführung der Prüfung. Diese werden nach Bedarf, mindestens einmal im Jahr, angesetzt. Die zuständige Behörde gibt diese Termine und die Anmeldefristen in geeigneter Form rechtzeitig bekannt.
 
@@ -35,8 +29,7 @@ Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit
 
 (3) Der Prüfungsbewerber hat sich bei derjenigen zuständigen Behörde anzumelden, in deren Bezirk sein Beschäftigungsort oder seine Aus- oder Fortbildungsstätte liegt oder der Bewerber seinen gewöhnlichen Aufenthalt hat oder zuletzt hatte.
 
-
-## § 4 – Prüfungsanforderungen
+# § 4 – Prüfungsanforderungen
 
 (1) Durch die Prüfung ist festzustellen, ob der Prüfungsteilnehmer ausreichende Kenntnisse und Fertigkeiten über das ordnungsgemäße Abfüllen, Abpacken, Kennzeichnen, Lagern und Inverkehrbringen von freiverkäuflichen Arzneimitteln sowie Kenntnisse über die für diese Arzneimittel geltenden Vorschriften besitzt.
 
@@ -56,8 +49,7 @@ Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit
 
 7. die für freiverkäufliche Arzneimittel geltenden Vorschriften des Arzneimittelrechts und des Rechts der Werbung auf dem Gebiete des Heilwesens kennt.
 
-
-## § 5 – Durchführung der Prüfung
+# § 5 – Durchführung der Prüfung
 
 (1) Die Prüfung wird mündlich oder schriftlich abgelegt. Die Prüfungsteilnehmer haben sich auf Verlangen des Vorsitzenden über ihre Person auszuweisen. Sie sind vor Beginn der Prüfung über den Prüfungsablauf, die zur Verfügung stehende Zeit, die erlaubten Arbeits- und Hilfsmittel, die Folgen von Täuschungshandlungen und Ordnungsverstößen zu belehren.
 
@@ -67,15 +59,13 @@ Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit
 
 (4) Die zuständige Behörde kann einen Beobachter zur Prüfung entsenden. Der Vorsitzende soll Personen, die sich auf die Prüfung vorbereiten, als Gäste bei einer mündlichen Prüfung zulassen. Bei der Beratung über die Prüfungsergebnisse dürfen nur die Mitglieder des Prüfungsausschusses anwesend sein.
 
-
-## § 6 – Rücktritt, Nichtteilnahme
+# § 6 – Rücktritt, Nichtteilnahme
 
 (1) Der Prüfungsbewerber kann nach der Anmeldung vor Beginn der Prüfung durch schriftliche Erklärung zurücktreten. In diesem Fall gilt die Prüfung als nicht abgelegt.
 
 (2) Tritt der Prüfungsbewerber nach Beginn der Prüfung zurück oder nimmt er an der Prüfung nicht teil, ohne daß ein wichtiger Grund vorliegt, so gilt die Prüfung als nicht bestanden. Über das Vorliegen eines wichtigen Grundes entscheidet der Prüfungsausschuß.
 
-
-## § 7 – Prüfungsergebnis und Prüfungszeugnis
+# § 7 – Prüfungsergebnis und Prüfungszeugnis
 
 (1) Die Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht sind.
 
@@ -85,18 +75,15 @@ Der Nachweis der Sachkenntnis für den Einzelhandel außerhalb von Apotheken mit
 
 (4) Bei nicht bestandener Prüfung erhält der Prüfungsteilnehmer von der zuständigen Behörde einen schriftlichen Bescheid. Auf die Vorschriften über die Wiederholungsprüfung in § 8 ist hinzuweisen.
 
-
-## § 8 – Wiederholung der Prüfung
+# § 8 – Wiederholung der Prüfung
 
 Eine nicht bestandene Prüfung kann wiederholt werden. Die Prüfung kann frühestens zum nächsten Prüfungstermin wiederholt werden.
 
-
-## § 9 – Zuständige Stelle
+# § 9 – Zuständige Stelle
 
 Wird von der zuständigen Behörde eine Stelle bestimmt, vor der die Prüfung abzulegen ist, so gelten für diese die §§ 2 bis 8 entsprechend. Die zuständige Behörde kann einen Beobachter zur Prüfung entsenden.
 
-
-## § 10 – Anerkennung anderer Nachweise
+# § 10 – Anerkennung anderer Nachweise
 
 Folgende Prüfungszeugnisse über eine abgeleistete berufliche Ausbildung werden als Nachweis der erforderlichen Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln anerkannt:
 
@@ -116,8 +103,7 @@ Folgende Prüfungszeugnisse über eine abgeleistete berufliche Ausbildung werden
 
 Satz 1 gilt entsprechend für Erlaubnisse als Pharmazieingenieur, Apothekenassistent, Pharmazeutischer Assistent oder Apothekenfacharbeiter, die vor dem Wirksamwerden des Beitritts nach den Vorschriften der Deutschen Demokratischen Republik erteilt worden sind oder nach Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet erteilt werden.
 
-
-## § 11 – Sonstiger Nachweis der Sachkenntnis
+# § 11 – Sonstiger Nachweis der Sachkenntnis
 
 Den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitteln hat auch erbracht, wer nachweist, daß er bis zum 1. Januar 1978 die Voraussetzungen
 
@@ -127,23 +113,19 @@ Den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen Arzneimitte
 
 erfüllt hat.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Die §§ 10 und 11 treten mit Wirkung vom 1. Januar 1978 in Kraft. Im übrigen tritt diese Verordnung am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
-
-## Anlage – (zu § 7 Abs. 3)
+# Anlage – (zu § 7 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1978, 756)
 

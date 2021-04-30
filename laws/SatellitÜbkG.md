@@ -1,15 +1,11 @@
-# [SatellitÜbkG] Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
-
-Ausfertigungsdatum: 14.02.1979
-
+% Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
+% Ausfertigungsdatum: 14.02.1979
  
-
-## Art 1 – Zustimmung zu dem Übereinkommen
+# Art 1 – Zustimmung zu dem Übereinkommen
 
 Dem in Brüssel am 21. Mai 1974 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2 – Ausschließliches Recht zur Weitersendung
+# Art 2 – Ausschließliches Recht zur Weitersendung
 
 (1) Sendeunternehmen mit Sitz in einem Vertragsstaat des Übereinkommens haben das ausschließliche Recht, Sendungen, die zur Ausstrahlung an die Allgemeinheit oder einen Teil der Allgemeinheit bestimmt sind und die sie über außerirdische, zur Übertragung von Signalen geeignete Vorrichtungen (Satelliten) an andere Sendeunternehmen übertragen, an die Allgemeinheit oder einen Teil der Allgemeinheit weiterzusenden. Das Recht erstreckt sich nicht auf Weitersendungen, die unmittelbar oder mittelbar auf einer mit Einwilligung des berechtigten Sendeunternehmens vorgenommenen Weitersendung der geschützten Sendung beruhen.
 
@@ -29,13 +25,11 @@ und den durch den Zweck gebotenen Umfang nicht überschreiten.
 
 (6) § 87 des Urheberrechtsgesetzes bleibt unberührt.
 
-
-## Art 3 – Berlin-Klausel
+# Art 3 – Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 4 – Inkrafttreten
+# Art 4 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

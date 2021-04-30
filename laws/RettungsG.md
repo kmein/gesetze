@@ -1,13 +1,9 @@
-# [RettungsG] Gesetz zur Rettung von Unternehmen zur Stabilisierung des Finanzmarktes  (Rettungsübernahmegesetz - RettungsG)
-
-Ausfertigungsdatum: 07.04.2009
-
+% Gesetz zur Rettung von Unternehmen zur Stabilisierung des Finanzmarktes  (Rettungsübernahmegesetz - RettungsG)
+% Ausfertigungsdatum: 07.04.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Enteignung zur Sicherung der Finanzmarktstabilität
+# § 1 – Enteignung zur Sicherung der Finanzmarktstabilität
 
 (1) Zur Sicherung der Finanzmarktstabilität können Enteignungen nach Maßgabe dieses Gesetzes vorgenommen werden.
 
@@ -41,8 +37,7 @@ b) für eine rechtssichere, nachhaltige und wirtschaftlich zumutbare Stabilisier
 
 c) eine Übertragung des Enteignungsgegenstandes auf den Enteignungsbegünstigten in dem für die Sicherung der Finanzmarktstabilität erforderlichen Zeitraum rechtssicher und zu wirtschaftlich zumutbaren Bedingungen nicht auf weniger einschneidende Weise, insbesondere nicht durch Maßnahmen nach dem Wirtschaftsstabilisierungsbeschleunigungsgesetz erreicht werden kann (alternativer Erwerb). Eine Enteignung ist nur zulässig, wenn sich die Enteignungsbehörde zuvor um den alternativen Erwerb vergeblich bemüht hat oder dieser angesichts der Dringlichkeit keine ausreichende Aussicht auf Erfolg hat. Voraussetzung für die Enteignung ist insbesondere, dass für eine entsprechende Kapitalmaßnahme in der Hauptversammlung die erforderliche Mehrheit nicht erreicht worden ist oder der Beschluss nicht rechtzeitig eingetragen wird.
 
-
-## § 2 – Enteignungsakt
+# § 2 – Enteignungsakt
 
 (1) Die Enteignung erfolgt durch Erlass einer Rechtsverordnung der Bundesregierung ohne Zustimmung des Bundesrates. Die Rechtsverordnung muss mindestens die folgenden Angaben enthalten:
 
@@ -64,8 +59,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (4) Die Mitgliedschaft eines Unternehmens nach § 1 Absatz 2 Satz 1 Nummer 1 oder Nummer 3, dessen Anteile enteignet wurden, in einer gesetzlichen Entschädigungseinrichtung nach dem Einlagensicherungs- und Anlegerentschädigungsgesetz bleibt durch den Übergang der Anteile unberührt.
 
-
-## § 3 – Verfahren
+# § 3 – Verfahren
 
 (1) Zuständig für die Durchführung des Enteignungsverfahrens ist das Bundesministerium der Finanzen als Enteignungsbehörde.
 
@@ -75,8 +69,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (4) Die Enteignungsbehörde hört den oder die Eigentümer des von einer Enteignung betroffenen Enteignungsgegenstandes an und gibt in geeigneter Form Gelegenheit zur Stellungnahme. Sie kann von einer Anhörung absehen, soweit diese mit unverhältnismäßigem Aufwand verbunden wäre oder den Zweck der Enteignung gefährden würde.
 
-
-## § 4 – Entschädigung
+# § 4 – Entschädigung
 
 (1) Für die Enteignung ist eine Entschädigung zu leisten. Eine Entschädigung kann verlangen, wer in seinem Recht durch die Enteignung beeinträchtigt wird und dadurch einen Vermögensnachteil erleidet.
 
@@ -96,8 +89,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (6) Entschädigungsbeträge sind mit 2 Prozentpunkten über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich von dem Übergangszeitpunkt an zu verzinsen.
 
-
-## § 5 – Rechtsschutz
+# § 5 – Rechtsschutz
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug auf Antrag über die Gültigkeit von Rechtsverordnungen nach § 2.
 
@@ -113,8 +105,7 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (7) Der Bundesgerichtshof entscheidet in erster und letzter Instanz über Streitigkeiten wegen der Höhe der nach § 4 zu gewährenden Entschädigung.
 
-
-## § 6 – Befristung und Reprivatisierung
+# § 6 – Befristung und Reprivatisierung
 
 (1) Eine Entscheidung nach § 3 Absatz 2 Satz 1 kann nur bis zum 30. Juni 2009 getroffen werden. Die Rechtsverordnung nach § 2 Absatz 1 Satz 1 kann nur bis zum 31. Oktober 2009 erlassen werden.
 
@@ -124,15 +115,13 @@ Die Begründung zur Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen.
 
 (4) Die nachhaltige Stabilisierung des Unternehmens, dessen Anteile nach diesem Gesetz enteignet worden sind, ist durch den Enteignungsbegünstigten auf Kosten des Unternehmens zu evaluieren. Eine erste Evaluierung ist vor Ablauf von zwei Jahren nach Durchführung der Enteignung durchzuführen. Weitere Evaluierungen sind sodann jährlich durchzuführen. Über das Ergebnis der Evaluierung ist das Gremium nach § 10a des Stabilisierungsfondsgesetzes durch das Bundesministerium der Finanzen zu unterrichten.
 
-
-## § 7 – Rechte des Gremiums nach § 10a des Stabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses
+# § 7 – Rechte des Gremiums nach § 10a des Stabilisierungsfondsgesetzes und Unterrichtung des Finanz- und des Haushaltsausschusses
 
 (1) Das Gremium nach § 10a des Stabilisierungsfondsgesetzes wird vom Bundesministerium der Finanzen über alle nach diesem Gesetz eingeleiteten Enteignungsmaßnahmen sowie über die Lage von Unternehmen nach § 1 Absatz 2 Satz 1 Nummer 1 und 3 unterrichtet, deren Anteile enteignet wurden. § 10a Absatz 2 Satz 2 und Absatz 3 des Finanzmarktstabilisierungsfondsgesetzes gilt entsprechend.
 
 (2) Der Finanz- und der Haushaltsausschuss des Deutschen Bundestages sind vor Erlass einer Rechtsverordnung nach § 2 Absatz 1 Satz 1 über den Inhalt der Rechtsverordnung zu informieren. Die Rechte des Gremiums nach § 10a des Stabilisierungsfondsgesetzes bleiben unberührt.
 
-
-## § 8 – Verordnungsermächtigung
+# § 8 – Verordnungsermächtigung
 
 Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über
 
@@ -142,7 +131,6 @@ Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bu
 
 3. sonstige Maßnahmen, die zur Sicherstellung des Zweckes dieses Gesetzes im Rahmen einer Enteignung zur Sicherung der Finanzmarktstabilität nach § 1 erforderlich sind.
 
-
-## § 9 – Verkündung von Rechtsverordnungen
+# § 9 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

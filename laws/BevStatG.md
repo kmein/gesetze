@@ -1,10 +1,7 @@
-# [BevStatG] Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes  (Bevölkerungsstatistikgesetz - BevStatG)
-
-Ausfertigungsdatum: 20.04.2013
-
+% Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes  (Bevölkerungsstatistikgesetz - BevStatG)
+% Ausfertigungsdatum: 20.04.2013
  
-
-## § 1 – Zweck der Erhebung
+# § 1 – Zweck der Erhebung
 
 Folgende Bundesstatistiken werden geführt, um die Zahl und die Zusammensetzung der Bevölkerung sowie ihre Veränderungen und deren Ursachen festzustellen:
 
@@ -24,8 +21,7 @@ c) Sterbefallstatistik einschließlich Todesursachenstatistik,
 
 5. die Fortschreibung des Bevölkerungsstandes.
 
-
-## § 2 – Statistik der natürlichen Bevölkerungsbewegung
+# § 2 – Statistik der natürlichen Bevölkerungsbewegung
 
 (1) Die nach Landesrecht für die Führung der Personenstandsregister zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich die Daten zu Eheschließungen und Umwandlungen von Lebenspartnerschaften in Ehen, lebend- und totgeborenen Kindern sowie Sterbefällen. Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.
 
@@ -99,8 +95,7 @@ c) Anschrift, unter der die verstorbene Person zuletzt gemeldet war.
 
 (6) Die nach Landesrecht für den Empfang des vertraulichen Teils der ärztlichen Bescheinigung über den Tod (Totenschein) zuständigen Stellen übermitteln den statistischen Ämtern der Länder mindestens monatlich die mit der Registernummer des Sterbefalleintrags und dem zuständigen Standesamt gekennzeichneten Angaben zu den Todesursachen und den Umständen des Todes nach den Angaben auf dem Totenschein. Die Übermittlungen erfolgen elektronisch, soweit die technischen Voraussetzungen hierfür geschaffen sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden. Die Registernummer des Sterbefalleintrags dient als Hilfsmerkmal.
 
-
-## § 3 – Statistik der rechtskräftigen Beschlüsse in Ehesachen und Statistik der rechtskräftigen Aufhebungen von Lebenspartnerschaften
+# § 3 – Statistik der rechtskräftigen Beschlüsse in Ehesachen und Statistik der rechtskräftigen Aufhebungen von Lebenspartnerschaften
 
 Die für Ehesachen sowie für Lebenspartnerschaftssachen zuständigen Gerichte erster Instanz übermitteln den statistischen Ämtern der Länder nach Rechtskraft des Beschlusses mindestens monatlich folgende Daten als Erhebungsmerkmale:
 
@@ -122,8 +117,7 @@ c) Kreis oder kreisfreie Stadt, in dem oder in der der für den Gerichtsstand ma
 
 Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.
 
-
-## § 4 – Wanderungsstatistik
+# § 4 – Wanderungsstatistik
 
 (1) Erfolgt die Verlegung der alleinigen Wohnung oder der Hauptwohnung
 
@@ -163,8 +157,7 @@ Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzun
 
 (4) Sofern bei der Meldebehörde ein Rückmeldeverfahren aus den in Absatz 1 Satz 1 Nummer 1 bis 3 aufgeführten Anlässen vorgesehen ist, erfolgt die Übermittlung der Daten erst nach Abschluss des Rückmeldeverfahrens.
 
-
-## § 5 – Fortschreibung des Bevölkerungsstandes und Bevölkerungsvorausberechnungen
+# § 5 – Fortschreibung des Bevölkerungsstandes und Bevölkerungsvorausberechnungen
 
 (1) Der Bevölkerungsstand wird
 
@@ -204,12 +197,10 @@ c) Anschrift.
 
 (3) Das Statistische Bundesamt führt auf der Grundlage der Angaben zu den §§ 2 bis 5 Bevölkerungsvorausberechnungen durch. Die Zuständigkeit der Länder, die Vorausberechnungen für ihren Zuständigkeitsbereich ebenfalls durchzuführen, bleibt unberührt.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die Angaben nach § 2 Absatz 2 sowie nach § 3 Satz 1 Nummer 1 zu gleichgeschlechtlichen Paaren sind für den Zeitraum ab dem 1. Oktober 2017 zu liefern. Die Angaben nach § 2 Absatz 2 sind bis einschließlich 22. Januar 2019 zu liefern, die Angaben nach § 3 Satz 1 Nummer 1 bis einschließlich 22. März 2019. Die Daten sind elektronisch zu übermitteln, soweit die technischen Voraussetzungen hierfür geschaffen sind und die Daten elektronisch vorhanden sind. Bei der elektronischen Übermittlung ist ein dem Stand der Technik entsprechendes Verschlüsselungsverfahren zu verwenden.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt das Bevölkerungsstatistikgesetz in der Fassung der Bekanntmachung vom 14. März 1980 (BGBl. I S. 308), das zuletzt durch Artikel 1 des Gesetzes vom 18. Juli 2008 (BGBl. I S. 1290) geändert worden ist, außer Kraft.

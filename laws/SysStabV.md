@@ -1,15 +1,11 @@
-# [SysStabV] Verordnung zur Gewährleistung der technischen Sicherheit und Systemstabilität des Elektrizitätsversorgungsnetzes  (Systemstabilitätsverordnung - SysStabV)
-
-Ausfertigungsdatum: 20.07.2012
-
+% Verordnung zur Gewährleistung der technischen Sicherheit und Systemstabilität des Elektrizitätsversorgungsnetzes  (Systemstabilitätsverordnung - SysStabV)
+% Ausfertigungsdatum: 20.07.2012
  
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Zweck dieser Verordnung ist es, eine Gefährdung der Systemstabilität des Elektrizitätsversorgungsnetzes durch Anlagen zur Erzeugung von Strom aus erneuerbaren Energien, Grubengas und aus Kraft-Wärme-Kopplung bei Über- und Unterfrequenzen zu vermeiden.
 
-
-## § 2 – Sachlicher Anwendungsbereich
+# § 2 – Sachlicher Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Nachrüstung von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
 
@@ -47,8 +43,7 @@ Satz 1 ist anzuwenden für die Nachrüstung von Anlagen
 
 4. im Niederspannungsnetz, wenn die Anlagen vor dem 1. Juli 2012 in Betrieb genommen wurden.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -68,8 +63,7 @@ b) bei sonstigen Anlagen im Sinne von § 2: die Inbetriebnahme einer Anlage gem�
 
 6. „Betreiber von Entkupplungsschutzeinrichtungen“, wer unabhängig vom Eigentum eine Entkupplungsschutzeinrichtung betreibt.
 
-
-## § 4 – Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Niederspannungsnetz
+# § 4 – Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Niederspannungsnetz
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen müssen vorbehaltlich der Absätze 2 bis 5 durch entsprechende Nachrüstung dafür sorgen, dass die an ihr Netz angeschlossenen Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Niederspannungsnetz nach § 2 Absatz 1 Nummer 1 die Anforderungen der Anwendungsregel VDE-AR-N 4105:2011-08, Abschnitte 5.7.3.3, 5.7.3.4 und 8.3.1 des Verbands der Elektrotechnik Elektronik Informationstechnik e. V. (VDE)<span id="FnR.F777569_01"></span><a href="#F777569_01" class="FnR">1)</a></sup> erfüllen.
 
@@ -89,8 +83,7 @@ Der Frequenzwert ist für jeden Wechselrichter so festzulegen, dass sich eine gl
 
 § 4 Fußnote 1 Kursivdruck: Das Wort "Nationlbiliothek" wurde zutreffend in "Nationalbibliothek" korrigiert
 
-
-## § 5 – Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz
+# § 5 – Verpflichtung zur Nachrüstung der Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen müssen vorbehaltlich der Absätze 2 und 3 durch entsprechende Nachrüstung dafür sorgen, dass die an ihr Netz angeschlossenen Wechselrichter von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie im Mittelspannungsnetz nach § 2 Absatz 1 Nummer 2 die Anforderungen der technischen Richtlinie des Bundesverbandes der Energie- und Wasserwirtschaft e. V. „Erzeugungsanlagen am Mittelspannungsnetz“, Kapitel 2.5.3 und Bild 2.5.3-1 sowie Kapitel 5.7.1 in der Fassung von Juni 2008<span id="FnR.F777569_04"></span><a href="#F777569_04" class="FnR">4)</a></sup> erfüllen. Für die Unterfrequenzabschaltung ist ein Wert von 47,5 Hertz einzustellen.
 
@@ -104,18 +97,15 @@ Der Frequenzwert ist für jeden Wechselrichter so festzulegen, dass sich eine gl
 
 (3) Für den Fall, dass auch die Nachrüstung nach Absatz 2 den Austausch des Wechselrichters erforderlich machen würde, besteht keine Pflicht zur Nachrüstung.
 
-
-## § 6 – Informationspflicht der Übertragungsnetzbetreiber
+# § 6 – Informationspflicht der Übertragungsnetzbetreiber
 
 Die Betreiber von Übertragungsnetzen sind verpflichtet, den in ihrem Netzgebiet angeschlossenen Betreibern von Elektrizitätsverteilernetzen die für die Nachrüstung nach den §§ 4 und 5 erforderlichen Daten innerhalb von acht Kalenderwochen nach Inkrafttreten dieser Verordnung zu beschaffen und den in ihrem Netzgebiet angeschlossenen Betreibern von Elektrizitätsverteilernetzen zur Verfügung zu stellen. Die Daten sollen insbesondere darüber Auskunft geben, nach welcher der in den §§ 4 und 5 beschriebenen Varianten der Wechselrichter nachzurüsten und auf welchen Frequenzwert er im Falle der Variante nach § 4 Absatz 3 und § 5 Absatz 2 einzustellen ist.
 
-
-## § 7 – Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
+# § 7 – Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
 
 Für den Fall, dass zwischen der nach § 2 Absatz 1 betroffenen Anlage und dem Netzanschluss eine zusätzliche übergeordnete Entkupplungsschutzeinrichtung installiert ist, hat der Betreiber von Elektrizitätsverteilernetzen auch diese in der Weise nachzurüsten, dass für die Unterfrequenzabschaltung ein Wert von 47,5 Hertz und für die Überfrequenzabschaltung ein Wert von 51,5 Hertz einzustellen ist.
 
-
-## § 8 – Durchführung der Nachrüstung; Fristen
+# § 8 – Durchführung der Nachrüstung; Fristen
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, die Nachrüstung nach den §§ 4, 5 und 7 durch eine Elektrofachkraft nach DIN VDE 1000-10 (VDE 1000-10):2009-01<span id="FnR.F777569_05"></span><a href="#F777569_05" class="FnR">5)</a></sup> , die
 
@@ -137,22 +127,19 @@ Für den Fall, dass zwischen der nach § 2 Absatz 1 betroffenen Anlage und dem N
 
 3. mit einer installierten maximalen Leistung von mehr als 10 Kilowatt sind bis zum 31. Dezember 2014 nachzurüsten.
 
-
-## § 9 – Pflichten der Betreiber von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
+# § 9 – Pflichten der Betreiber von Anlagen zur Erzeugung von Strom aus solarer Strahlungsenergie
 
 (1) Betreiber von Anlagen im Sinne von § 2 Absatz 1 sind verpflichtet, die für die Vorbereitung der Nachrüstung erforderlichen Informationen innerhalb der nach § 8 Absatz 2 gesetzten Frist in der angeforderten Form an den Betreiber des Elektrizitätsverteilernetzes zu übermitteln.
 
 (2) Weiterhin sind Betreiber von Anlagen im Sinne von § 2 Absatz 1 verpflichtet, die Nachrüstung des an die Anlage angeschlossenen Wechselrichters durch eine vom Betreiber des Elektrizitätsverteilernetzes beauftragte fachkundige Person zu dem nach § 8 Absatz 3 vorgeschlagenen Zeitpunkt zu ermöglichen oder mindestens eine Kalenderwoche vor diesem Zeitpunkt einen neuen Zeitpunkt zur Durchführung der Nachrüstung vorzuschlagen; der neue Zeitpunkt darf nicht mehr als drei Wochen nach dem vom Betreiber des Elektrizitätsverteilernetzes vorgeschlagenen Zeitpunkt liegen.
 
-
-## § 10 – Kosten
+# § 10 – Kosten
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind berechtigt, 50 Prozent der ihnen durch die Nachrüstung nach den §§ 4 bis 9 zusätzlich entstehenden jährlichen Kosten über die Netzentgelte geltend zu machen.
 
 (2) Auf Betreiber von geschlossenen Verteilernetzen ist Absatz 1 entsprechend anzuwenden.
 
-
-## § 11 – Vorbereitung der Nachrüstung
+# § 11 – Vorbereitung der Nachrüstung
 
 (1) Die Frequenzschutzeinstellungen der gemäß § 2 Absatz 2 betroffenen Anlagen sind von den Betreibern von Übertragungsnetzen festzulegen. Sie sind so festzulegen, dass bei einer Netzfrequenz zwischen 47,50 Hertz und einschließlich 50,20 Hertz keine automatische Trennung der Anlagen vom Stromnetz erfolgt. Die obere Abschaltfrequenz jeder einzelnen betroffenen Anlage muss zwischen einem Wert von über 50,20 Hertz und einschließlich 51,50 Hertz liegen. Sie ist weiterhin so festzulegen, dass sich eine gleichmäßige Verteilung der oberen Abschaltfrequenzen über die gesamte Leistung des betroffenen Anlagenbestandes ergibt.
 
@@ -160,8 +147,7 @@ Für den Fall, dass zwischen der nach § 2 Absatz 1 betroffenen Anlage und dem N
 
 (3) Die Betreiber von Übertragungsnetzen haben die nach Absatz 1 festgelegten Werte innerhalb von vier Wochen nach der Übermittlung der Informationen gemäß Absatz 2 an diejenigen Netzbetreiber, an deren Netz Anlagen unmittelbar angeschlossen sind, zu übermitteln.
 
-
-## § 12 – Aufforderung zur Nachrüstung
+# § 12 – Aufforderung zur Nachrüstung
 
 Netzbetreiber müssen innerhalb von zehn Wochen nach der Übermittlung der Daten durch den Betreiber des Übertragungsnetzes gemäß § 11 Absatz 3 die Betreiber von Anlagen im Sinne von § 2 Absatz 2, deren Anlagen unmittelbar an ihr Netz angeschlossen sind, unter Verweis auf diese Verordnung schriftlich oder elektronisch zur Nachrüstung auffordern (Nachrüstungsaufforderung). Die Nachrüstungsaufforderung hat mindestens Folgendes zu enthalten:
 
@@ -175,8 +161,7 @@ Netzbetreiber müssen innerhalb von zehn Wochen nach der Übermittlung der Daten
 
 Die Formularvordrucke sind von den Netzbetreibern zur Verfügung zu stellen.
 
-
-## § 13 – Pflichten der Betreiber von Anlagen gemäß § 2 Absatz 2
+# § 13 – Pflichten der Betreiber von Anlagen gemäß § 2 Absatz 2
 
 (1) Betreiber von Anlagen gemäß § 2 Absatz 2 müssen dem Netzbetreiber, an dessen Netz ihre Anlage unmittelbar angeschlossen ist, die Zugangsbestätigung gemäß § 12 Satz 2 Nummer 2 innerhalb von sechs Wochen ab Zugang der Nachrüstungsaufforderung gemäß § 12 Satz 1 übersenden. Die Frist nach Satz 1 gilt nicht als Frist im Sinne des § 100 Absatz 4 des Erneuerbare-Energien-Gesetzes.
 
@@ -188,8 +173,7 @@ Die Formularvordrucke sind von den Netzbetreibern zur Verfügung zu stellen.
 
 (5) Wenn die Frequenzschutzeinstellungen der Anlage bereits den Vorgaben des Netzbetreibers gemäß § 12 Satz 2 Nummer 1 oder den geltenden technischen Richtlinien gemäß § 15 Absatz 1 Nummer 3 entsprechen, beschränkt sich die Verpflichtung darauf, das Erfüllen der Vorgaben durch die Bestätigung einer Fachkraft gemäß Absatz 3 Satz 1 nachzuweisen.
 
-
-## § 14 – Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
+# § 14 – Verpflichtung zur Nachrüstung von Entkupplungsschutzeinrichtungen
 
 (1) Für den Fall, dass zwischen Anlagen gemäß § 2 Absatz 2 und dem Netzanschluss eine zusätzliche übergeordnete Entkupplungsschutzeinrichtung mit einem Frequenzschutz installiert ist, muss der Betreiber der Entkupplungsschutzeinrichtung diese innerhalb der Frist gemäß § 18 Absatz 1 in der Weise nachrüsten, dass für die untere Abschaltfrequenz ein Wert von 47,50 Hertz und für die obere Abschaltfrequenz ein Wert von 51,50 Hertz eingestellt wird.
 
@@ -197,8 +181,7 @@ Die Formularvordrucke sind von den Netzbetreibern zur Verfügung zu stellen.
 
 (3) Die Ausnahmeregelungen der §§ 15 bis 17 sind nicht anwendbar.
 
-
-## § 15 – Ausnahmefälle
+# § 15 – Ausnahmefälle
 
 (1) Eine eingeschränkte Nachrüstungspflicht besteht für den Fall, dass der Betreiber einer Anlage gemäß § 2 Absatz 2 nachweist, dass eine Nachrüstung gemäß § 13 Absatz 2
 
@@ -224,8 +207,7 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 § 13 Abs. 1 Satz 1 Nr. 3 Kursivdruck: Das Wort "annerkannten" wurde korrekt in "anerkannten" berichtigt
 
-
-## § 16 – Ausnahmebegehren und Nachweis des Ausnahmefalles
+# § 16 – Ausnahmebegehren und Nachweis des Ausnahmefalles
 
 (1) Für Ausnahmefälle gemäß § 15 muss der Betreiber der Anlage innerhalb von neun Monaten ab Zugang der Nachrüstungsaufforderung ein ausgefülltes Ausnahmebegehren gemäß § 12 Satz 2 Nummer 4 an den Netzbetreiber, an dessen Netz die Anlage unmittelbar angeschlossen ist, übersenden. Die Frist nach Satz 1 gilt nicht als Frist im Sinne des § 100 Absatz 4 des Erneuerbare-Energien-Gesetzes.
 
@@ -233,8 +215,7 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 (3) Der Netzbetreiber leitet die nach den Absätzen 1 und 2 erhaltenen Unterlagen, nach Prüfung auf ihre Vollständigkeit, unverzüglich zur weiteren Prüfung an den Betreiber des Übertragungsnetzes weiter. Bei Unvollständigkeit der Unterlagen fordert der Netzbetreiber den Betreiber der Anlage schriftlich oder elektronisch auf, die Unterlagen zu ergänzen. Sofern der Betreiber der Anlage die Unterlagen nicht innerhalb einer Frist von vier Wochen ab Zugang des Aufforderungsschreibens ergänzt, wird das Ausnahmebegehren nicht weiter berücksichtigt und es gilt die Verpflichtung zur Nachrüstung gemäß § 13 Absatz 2 bis 5. § 100 Absatz 4 des Erneuerbare-Energien-Gesetzes ist nicht anwendbar.
 
-
-## § 17 – Prüfung der Ausnahmebegehren und Mitteilung der Ergebnisse
+# § 17 – Prüfung der Ausnahmebegehren und Mitteilung der Ergebnisse
 
 (1) Der Betreiber des Übertragungsnetzes entscheidet innerhalb von neun Monaten nach Erhalt der Unterlagen gemäß § 16 Absatz 3 Satz 1, ob einer der Ausnahmefälle gemäß § 15 Absatz 1 Satz 1 oder Absatz 2 gemäß § 16 Absatz 2 nachgewiesen werden konnte und mit welchen Abschaltfrequenzen die betreffende Anlage gegebenenfalls nachzurüsten ist.
 
@@ -246,8 +227,7 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 (5) Ist der Nachweis gemäß § 16 Absatz 1 und 2 für das Vorliegen eines Ausnahmefalles nicht erbracht, so ist der Betreiber der Anlage weiterhin zur Nachrüstung gemäß § 13 Absatz 2 bis 5 verpflichtet. Der Netzbetreiber teilt dem Betreiber der Anlage schriftlich oder elektronisch mit, dass der Nachweis für das Vorliegen eines Ausnahmefalles nicht erbracht wurde und fordert ihn erneut zur Nachrüstung gemäß § 13 Absatz 2 bis 5 auf.
 
-
-## § 18 – Frist zur Nachrüstung
+# § 18 – Frist zur Nachrüstung
 
 (1) Betreiber von Anlagen gemäß § 2 Absatz 2 und Betreiber von Entkupplungsschutzeinrichtungen im Sinne von § 14 Absatz 1 sind verpflichtet, die Nachrüstung ihrer Anlage oder Entkupplungsschutzeinrichtung innerhalb von zwölf Monaten ab Zugang der schriftlichen oder elektronischen Nachrüstungsaufforderung gemäß § 12 nachzuweisen.
 
@@ -261,22 +241,19 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 (3) Die Frist ist gehemmt im Zeitraum vom Zugang des vollständigen Ausnahmebegehrens bei dem Netzbetreiber gemäß § 16 Absatz 1 Satz 1 bis zum Zugang der Mitteilung der Entscheidung gemäß § 17 Absatz 1 durch den Netzbetreiber an den Betreiber der Anlage sowie während der Prüffrist der Betreiber von Übertragungsnetzen gemäß § 21 Absatz 3 und der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) gemäß § 21 Absatz 5.
 
-
-## § 19 – Qualitätskontrolle
+# § 19 – Qualitätskontrolle
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, eine stichprobenweise Kontrolle der Nachrüstung durchzuführen oder durchführen zu lassen. Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, den Betreiber des Übertragungsnetzes, an dessen Netz sie angeschlossen sind, bei der Durchführung der Kontrolle zu unterstützen, insbesondere die Stichproben vorzunehmen.
 
 (2) Betreiber von Anlagen gemäß § 2 Absatz 2 sind verpflichtet, dem Netzbetreiber, an dessen Netz sie unmittelbar oder mittelbar angeschlossen sind, zum Zwecke der Prüfung, ob eine Nachrüstung erfolgt ist, vier Wochen nach entsprechender Aufforderung Zugang zu der betreffenden Anlage zu gewähren. Übersendet der Betreiber der Anlage innerhalb dieser Frist ein nach der Nachrüstung angefertigtes Prüfungsprotokoll nach Anhang F Ziffer 3.3 der Technischen Richtlinien für Erzeugungseinheiten und -anlagen Teil 8 „Zertifizierung der Elektrischen Eigenschaften von Erzeugungseinheiten und -anlagen am Mittel-, Hoch- und Höchstspannungsnetz“, Revision 06, Stand 01.05.2013<span id="FnR.F788644_07"></span><a href="#F788644_07" class="FnR">7</a></sup> , an den Netzbetreiber, ist er zur Gewährung des Zugangs nach Satz 1 nicht verpflichtet.
 
-
-## § 20 – Information der Bundesnetzagentur
+# § 20 – Information der Bundesnetzagentur
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, jährlich zum 1. Dezember gemeinsam einen Bericht über den Stand der Nachrüstung nach den §§ 11 bis 19 zu erstellen und der Bundesnetzagentur zu übermitteln. Diese kann im Verfahren nach § 29 Absatz 1 des Energiewirtschaftsgesetzes Inhalt und Form des Berichts festlegen.
 
 (2) Die Netzbetreiber sind verpflichtet, den Betreibern von Übertragungsnetzen oder den jeweils vorgelagerten Betreibern von Elektrizitätsverteilernetzen die zur Erstellung des Berichts notwendigen Daten quartalsweise ab dem 14. März 2016 zu übermitteln.
 
-
-## § 21 – Anteilige Kostenübernahme
+# § 21 – Anteilige Kostenübernahme
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, den Betreibern von Anlagen gemäß § 2 Absatz 2 75 Prozent der durch die Verpflichtung zur Nachrüstung entstehenden Kosten zu erstatten, die den Betrag von 7,50 Euro je Kilowatt der installierten Leistung, im Falle von KWK-Anlagen gemäß § 2 Absatz 2 Nummer 1 je Kilowatt der installierten elektrischen Leistung der nachzurüstenden Anlage übersteigen (Eigenanteil der Betreiber einer Anlage), sofern die Voraussetzungen nach Absatz 2 erfüllt sind. Die gemäß Satz 1 zu erstattenden Kosten werden durch die Netzbetreiber an die Betreiber der Anlagen ausgezahlt. Die Betreiber von Elektrizitätsverteilernetzen erhalten in der voraussichtlichen Höhe der Erstattungskosten quartalsweise Abschlagszahlungen von den Betreibern der Übertragungsnetze.
 
@@ -300,15 +277,13 @@ In den Fällen nach Satz 1 Nummer 1 und 2 sind nicht die gemäß § 12 Satz 2 Nu
 
 (5) Die Bundesnetzagentur prüft den Kostenvoranschlag entsprechend den in Absatz 3 genannten Maßstäben. Sie teilt dem Betreiber der Anlage sowie dem Betreiber des Übertragungsnetzes ihre Entscheidung innerhalb von sechs Wochen nach Erhalt der Unterlagen gemäß Absatz 4 Nummer 2 mit. Für den Fall, dass die Bundesnetzagentur die Beanstandung des Betreibers des Übertragungsnetzes als begründet ansieht, gilt die Voraussetzung des Absatzes 2 Nummer 2 als nicht erfüllt.
 
-
-## § 22 – Kosten der Betreiber von Übertragungsnetzen und der Betreiber von Elektrizitätsverteilernetzen
+# § 22 – Kosten der Betreiber von Übertragungsnetzen und der Betreiber von Elektrizitätsverteilernetzen
 
 (1) Die Betreiber von Übertragungsnetzen und die Betreiber von Elektrizitätsverteilernetzen sind berechtigt, die ihnen durch ihre Verpflichtungen nach den §§ 11 bis 21 zusätzlich entstehenden jährlichen Kosten über die Netzentgelte geltend zu machen.
 
 (2) Auf Betreiber von geschlossenen Verteilernetzen ist Absatz 1 entsprechend anzuwenden.
 
-
-## § 23 – Ordnungswidrigkeiten
+# § 23 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 95 Absatz 1 Nummer 5 Buchstabe c des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 

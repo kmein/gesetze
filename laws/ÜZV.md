@@ -1,15 +1,11 @@
-# [ÜZV] Verordnung zur Regelung einer Übergangszahlung an Beamte  (Übergangszahlungsverordnung - ÜZV)
-
-Ausfertigungsdatum: 23.07.1975
-
+% Verordnung zur Regelung einer Übergangszahlung an Beamte  (Übergangszahlungsverordnung - ÜZV)
+% Ausfertigungsdatum: 23.07.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 75 des Bundesbesoldungsgesetzes in der Fassung des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt die Gewährung einer Übergangszahlung an Beamte des einfachen und mittleren Dienstes, die im Dienst eines öffentlich-rechtlichen Dienstherrn (§ 29 Abs. 1 Bundesbesoldungsgesetz) vom Arbeitnehmerverhältnis in das Beamtenverhältnis übernommen worden sind und deren Nettobezüge nach der Übernahme in das Beamtenverhältnis geringer sind als die Nettobezüge, die zuletzt im Arbeitnehmerverhältnis gewährt worden sind.
 
@@ -57,15 +53,13 @@ Assistent im allgemeinen Aufsichtsdienst bei den Justizvollzugsanstalten.
 
 Eine Übergangszahlung wird nur gewährt, wenn der Zugang zu den genannten Laufbahnen aus dem Arbeitnehmerverhältnis unmittelbar in das Beamtenverhältnis mit Dienstbezügen erfolgt.
 
-
-## § 2 – Höhe der Übergangszahlung
+# § 2 – Höhe der Übergangszahlung
 
 (1) Die Übergangszahlung wird in Höhe des Dreizehnfachen des Unterschiedsbetrages gewährt, um den die monatlichen Nettobezüge im Beamtenverhältnis geringer sind als die monatlichen Nettobezüge im Arbeitnehmerverhältnis. Sie beträgt höchstens 1.533,88 Euro.
 
 (2) Beträgt der Unterschiedsbetrag monatlich 5,11 Euro oder weniger, wird eine Übergangszahlung nicht gewährt.
 
-
-## § 3 – Vergleichsberechnung
+# § 3 – Vergleichsberechnung
 
 (1) Der Unterschiedsbetrag wird ermittelt, indem die Nettobezüge einander gegenübergestellt werden. Zur Ermittlung der Nettobezüge sind die Bruttobezüge im Arbeitnehmerverhältnis um die darauf entfallenden Beträge der Lohn- und Kirchensteuer sowie der Sozialversicherungsbeiträge einschließlich der Beiträge zur Bundesagentur für Arbeit und die Bruttobezüge im Beamtenverhältnis um die darauf entfallenden Beträge der Lohn- und Kirchensteuer sowie die angemessenen Aufwendungen für eine private Krankenversicherung oder die Aufwendungen für eine freiwillige Versicherung in der gesetzlichen Krankenkasse zu vermindern. Maßgebend sind die Bruttobezüge, die im Monat der Übernahme gezahlt worden sind oder zu zahlen gewesen wären, wenn das Arbeitnehmerverhältnis oder das Beamtenverhältnis den ganzen Monat bestanden hätte. Eine bei weiterem Verbleiben im Arbeitnehmerverhältnis anstehende Höhergruppierung im Monat der Übernahme ist nicht zu berücksichtigen. Lohn- und Kirchensteuer richten sich nach den persönlichen Merkmalen des Bezügeempfängers.
 
@@ -111,17 +105,14 @@ Die Leistungslohnbestandteile, Erschwerniszulagen, Gefahren- und Erschwerniszusc
 
 (3) Bei den Bruttobezügen im Beamtenverhältnis sind Grundgehalt, Ortszuschlag, örtlicher Sonderzuschlag, Amts- und Stellenzulagen, Erschwerniszulagen ohne die Zulage für Dienst zu ungünstigen Zeiten zu berücksichtigen, die Erschwerniszulagen jedoch mit höchstens 15 vom Hundert des Betrages aus Grundgehalt, Ortszuschlag der Stufe 2 und örtlichem Sonderzuschlag.
 
-
-## § 4 – Berlin-Klausel
+# § 4 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel I § 82 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) auch im Land Berlin.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister des Innern

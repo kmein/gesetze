@@ -1,10 +1,7 @@
-# [FPersG] Gesetz über das Fahrpersonal von Kraftfahrzeugen und Straßenbahnen  (Fahrpersonalgesetz - FPersG)
-
-Ausfertigungsdatum: 30.03.1971
-
+% Gesetz über das Fahrpersonal von Kraftfahrzeugen und Straßenbahnen  (Fahrpersonalgesetz - FPersG)
+% Ausfertigungsdatum: 30.03.1971
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Beschäftigung und für die Tätigkeit des Fahrpersonals von Kraftfahrzeugen sowie von Straßenbahnen, soweit sie am Verkehr auf öffentlichen Straßen teilnehmen. Mitglieder des Fahrpersonals sind Fahrer, Beifahrer und Schaffner. Sofern dieses Gesetz und die auf der Grundlage von § 2 Nr. 3 erlassenen Rechtsverordnungen Regelungen zur Arbeitszeitgestaltung treffen, gehen diese dem Arbeitszeitgesetz vor.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 30.03.1971
 
 2. von Kraftfahrzeugen mit einem zulässigen Gesamtgewicht, einschließlich Anhänger oder Sattelanhänger, bis zu 2,8 t, es sei denn, daß sie als Fahrpersonal in einem unter den Geltungsbereich des Arbeitszeitgesetzes fallenden Arbeitsverhältnis stehen.
 
-
-## § 2 – Rechtsverordnungen
+# § 2 – Rechtsverordnungen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates
 
@@ -33,8 +29,7 @@ e) soweit es zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder
 
 zu erlassen, soweit der Bundesrepublik Deutschland eine Regelung in den Artikeln 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 und 22 der Verordnung (EG) Nr. 561/2006, in den Artikeln 3, 21 bis 24, 26, 27, 29 und 32 bis 41 der Verordnung (EU) Nr. 165/2014 und in deren Anhängen anheimgestellt oder auferlegt wird,
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
 2. zur Durchführung des Europäischen Übereinkommens vom 1. Juli 1970 über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) (BGBl. 1974 II S. 1473), in der jeweils geltenden Fassung, Rechtsverordnungen
 
@@ -74,13 +69,11 @@ d) die Löschung der Daten spätestens fünf Jahre nach Ablauf der Gültigkeit d
 
 zu erlassen.
 
-
-## § 3 – Verbot bestimmter Akkordlöhne, Prämien und Zuschläge
+# § 3 – Verbot bestimmter Akkordlöhne, Prämien und Zuschläge
 
 Mitglieder des Fahrpersonals dürfen als Arbeitnehmer nicht nach den zurückgelegten Fahrstrecken oder der Menge der beförderten Güter entlohnt werden, auch nicht in Form von Prämien oder Zuschlägen für diese Fahrstrecken oder Gütermengen. Ausgenommen sind Vergütungen, die nicht geeignet sind, die Sicherheit im Straßenverkehr zu beeinträchtigen.
 
-
-## § 4 – Aufsicht
+# § 4 – Aufsicht
 
 (1) Die Aufsicht über die Ausführung der Verordnungen (EG) Nr. 561/2006, (EU) Nr. 165/2014 und der Verordnung (EG) Nr. 2135/98, des AETR sowie dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt den von den Landesregierungen bestimmten Behörden (Aufsichtsbehörden), soweit in diesem Gesetz nichts anderes bestimmt ist.
 
@@ -104,18 +97,15 @@ Mitglieder des Fahrpersonals haben die Schaublätter und andere Tätigkeitsnachw
 
 (7) Zuständige Behörde im Sinne des Artikels 4 des Anhangs zum AETR und der Artikel 15, 22 Absatz 3 und Artikel 24 Absatz 5 der Verordnung (EU) Nr. 165/2014 ist das Kraftfahrt-Bundesamt.
 
-
-## § 4a – Zuständigkeiten
+# § 4a – Zuständigkeiten
 
 Anträge auf Erteilung von Fahrer-, Werkstatt- oder Unternehmenskarten sind an die nach Landesrecht zuständigen Behörden oder Stellen zu richten. Die Länder können Dritte mit dieser Aufgabe betrauen.
 
-
-## § 4b – Fahrerlaubnisrechtliche Auskünfte
+# § 4b – Fahrerlaubnisrechtliche Auskünfte
 
 Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrerlaubnisregister die nach § 49 Absatz 1 Nummer 1 bis 3, 7 bis 13 und 17 der Fahrerlaubnis-Verordnung gespeicherten Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EU) Nr. 165/2014 an die hierfür zuständigen Stellen im Inland sowie in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum übermittelt werden. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die Stelle, an die die Daten übermittelt werden.
 
-
-## § 4c – Auskünfte aus dem Fahrtenschreiberkartenregister
+# § 4c – Auskünfte aus dem Fahrtenschreiberkartenregister
 
 (1) Durch Abruf im automatisierten Verfahren dürfen aus dem Fahrtenschreiberkartenregister die nach § 12 der Fahrpersonalverordnung gespeicherten Daten für Maßnahmen im Zusammenhang mit der Ausgabe und Kontrolle von Fahrerkarten nach der Verordnung (EU) Nr. 165/2014 an die hierfür zuständigen Behörden und Stellen im Inland, in einem Mitgliedstaat der Europäischen Union, in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und in der Schweiz übermittelt werden.
 
@@ -123,8 +113,7 @@ Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrerlaubnis
 
 (3) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs tragen die Behörden und Stellen, an die die Daten übermittelt werden. Die für das Fahrtenschreiberkartenregister zuständige Stelle prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Die für das Fahrtenschreiberkartenregister zuständige Stelle hat zu gewährleisten, dass die Übermittlung personenbezogener Daten zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
 
-
-## § 5 – Anordnungsbefugnis, Sicherungsmaßnahmen, Zurückweisung an der Grenze
+# § 5 – Anordnungsbefugnis, Sicherungsmaßnahmen, Zurückweisung an der Grenze
 
 (1) Werden bei einer Kontrolle auf Verlangen keine oder nicht vorschriftsmäßig geführte Tätigkeitsnachweise vorgelegt oder wird festgestellt, daß vorgeschriebene Unterbrechungen der Lenkzeit nicht eingelegt oder die höchstzulässige Tageslenkzeit überschritten oder einzuhaltende Mindestruhezeiten nicht genommen worden sind, können die zuständigen Behörden die Fortsetzung der Fahrt untersagen, bis die Voraussetzungen zur Weiterfahrt erfüllt sind. Tätigkeitsnachweise oder Fahrtenschreiber, aus denen sich der Regelverstoß ergibt oder mit denen er begangen wurde, können zur Beweissicherung eingezogen werden; die Fahrerkarte darf während ihrer Gültigkeitsdauer nicht entzogen oder ihre Gültigkeit ausgesetzt werden, es sei denn, es wird festgestellt, dass die Karte gefälscht worden ist, der Fahrer eine Karte verwendet, deren Inhaber er nicht ist, oder die Ausstellung der Karte auf der Grundlage falscher Erklärungen oder gefälschter Dokumente erwirkt wurde.
 
@@ -134,18 +123,15 @@ Durch Abruf im automatisierten Verfahren dürfen aus dem Zentralen Fahrerlaubnis
 
 (3) Rechtsbehelfe gegen Anordnungen nach den Absätzen 1, 1a und 2 sowie zur Durchsetzung der in § 4 Abs. 3 Satz 1 und Abs. 5 geregelten Pflichten haben keine aufschiebende Wirkung.
 
-
-## § 6 – Allgemeine Verwaltungsvorschriften
+# § 6 – Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates zur Durchführung der in § 2 genannten oder auf § 2 beruhenden Vorschriften allgemeine Verwaltungsvorschriften erlassen, insbesondere über die Erteilung einer Verwarnung (§§ 56, 58 Abs. 2 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach § 8 und darüber, in welchen Fällen eine solche Verwarnung nicht erteilt werden soll.
 
-
-## § 7 – Sicherheitsleistung
+# § 7 – Sicherheitsleistung
 
 Wird eine angeordnete Sicherheitsleistung nicht sofort erbracht, so kann die zuständige Behörde die Weiterfahrt bis zur vollständigen Erbringung untersagen.
 
-
-## § 8 – Bußgeldvorschriften
+# § 8 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -199,8 +185,7 @@ b) einer Vorschrift der Verordnung (EU) Nr. 165/2014 oder des AETR zuwiderhandel
 
 (4) In den Fällen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b und Nummer 4 Buchstabe b kann eine Ordnungswidrigkeit wegen einer Zuwiderhandlung gegen das AETR auch dann geahndet werden, wenn die Ordnungswidrigkeit nicht im Geltungsbereich dieses Gesetzes begangen wurde.
 
-
-## § 8a – Bußgeldvorschriften
+# § 8a – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Unternehmer gegen die Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates (ABl. EU Nr. L 102 S. 1), die zuletzt durch die Verordnung (EG) Nr. 1073/2009 (ABl. L 300 vom 14.11.2009, S. 88) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -232,8 +217,7 @@ Im Fall von Satz 1 Nummer 1 wird die regelmäßige wöchentliche Ruhezeit nach A
 
 (5) In den Fällen der Absätze 1 und 2 kann die Ordnungswidrigkeit auch dann geahndet werden, wenn sie nicht im Geltungsbereich dieses Gesetzes begangen wurde.
 
-
-## § 9 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+# § 9 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 (1) Wird ein Verstoß in einem Unternehmen begangen, das im Geltungsbereich dieses Gesetzes seinen Sitz oder eine geschäftliche Niederlassung hat, ist nur die Verwaltungsbehörde örtlich zuständig, in deren Bezirk die geschäftliche Niederlassung oder der Hauptsitz des Betriebes liegt, bei dem der Betroffene tätig ist. Die §§ 38 und 39 des Gesetzes über Ordnungswidrigkeiten gelten entsprechend. Soweit nach Satz 1 oder Satz 2 eine Verwaltungsbehörde zuständig ist, die nicht auch für die Kontrolle der Bestimmungen dieses Gesetzes auf dem Betriebsgelände zuständig ist, unterrichtet diese Verwaltungsbehörde die für die Kontrollen der Bestimmungen dieses Gesetzes auf dem Betriebsgelände zuständige Behörde über begangene Ordnungswidrigkeiten.
 
@@ -243,8 +227,7 @@ Im Fall von Satz 1 Nummer 1 wird die regelmäßige wöchentliche Ruhezeit nach A
 
 (4) (weggefallen)
 
-
-## § 10 – Datenschutzbestimmungen
+# § 10 – Datenschutzbestimmungen
 
 (1) Die nach § 9 für die Durchführung von Bußgeldverfahren zuständigen Behörden dürfen folgende personenbezogene Daten über laufende und abgeschlossene Bußgeldverfahren wegen der in § 8 Absatz 1 und der in § 8a Absatz 1 bis 3 genannten Ordnungswidrigkeiten verarbeiten, soweit dies für die Erfüllung ihrer Aufgaben oder für Zwecke der Beurteilung der Zuverlässigkeit des Unternehmens, bei dem die betroffene Person angestellt ist, erforderlich ist:
 
@@ -280,7 +263,6 @@ Im Fall von Satz 1 Nummer 1 wird die regelmäßige wöchentliche Ruhezeit nach A
 
 (7) § 25 Absatz 1 Satz 1 in Verbindung mit § 23 Absatz 1 Nummer 3 und 4 des Bundesdatenschutzgesetzes sowie die entsprechenden Vorschriften der Landesdatenschutzgesetze bleiben unberührt.
 
-
-## § 11
+# § 11
 
 (Inkrafttreten)

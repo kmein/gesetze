@@ -1,26 +1,20 @@
-# [DBACHE1971Prot1992G] Gesetz zu dem Protokoll vom 21. Dezember 1992 zu dem Abkommen vom 11. August 1971 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen
-
-Ausfertigungsdatum: 30.09.1993
-
+% Gesetz zu dem Protokoll vom 21. Dezember 1992 zu dem Abkommen vom 11. August 1971 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen
+% Ausfertigungsdatum: 30.09.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Bern am 21. Dezember 1992 unterzeichneten Protokoll zu dem Abkommen vom 11. August 1971 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und Vermögen (BGBl. 1972 II S. 1021) in der Fassung des Protokolls vom 17. Oktober 1989 (BGBl. 1990 II S. 766) und dem Verhandlungsprotokoll vom 18. Dezember 1991 wird zugestimmt. Das Protokoll und das Verhandlungsprotokoll werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Zur Anwendung des Artikels 4 Absatz 5 des Abkommens gilt folgendes:  
 Endet nach Artikel 4 Abs. 5 des Abkommens die unbeschränkte Steuerpflicht und ist von diesem Zeitpunkt an nur noch Vermögensteuer für das Inlandsvermögen im Sinne des § 121 Abs. 2 des Bewertungsgesetzes zu erheben, ist eine Nachveranlagung auf den Zeitpunkt vorzunehmen, der dem Tage folgt, an dem die unbeschränkte Vermögensteuerpflicht endet. Die auf die Dauer der unbeschränkten und der beschränkten Steuerpflicht entfallende Vermögensteuer ist nach der jeweiligen Jahressteuer zeitanteilig zu berechnen.
 
-
-## Art 3
+# Art 3
 
 Zur Anwendung des Artikels 15a des Abkommens gilt folgendes:
 
@@ -32,8 +26,7 @@ Zur Anwendung des Artikels 15a des Abkommens gilt folgendes:
 
 (4) In der Bundesrepublik Deutschland ansässige Grenzgänger haben der Einkommensteuererklärung die Bescheinigung des Arbeitgebers über den Lohnausweis (nach schweizerischem Muster) und über die erhobene Abzugssteuer beizufügen.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

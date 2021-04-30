@@ -1,15 +1,11 @@
-# [IDNrG] Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung  (Identifikationsnummerngesetz - IDNrG)
-
-Ausfertigungsdatum: 28.03.2021
-
+% Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung  (Identifikationsnummerngesetz - IDNrG)
+% Ausfertigungsdatum: 28.03.2021
  
-
-## §§ 1 bis 11 – (zukünftig in Kraft)
+# §§ 1 bis 11 – (zukünftig in Kraft)
 
 (+++ §§ 1 bis 11: Treten gem. Art. 22 S. 2 G v. 6.4.2021 I 591 an dem Tag in Kraft, an dem das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt gibt, dass die technischen Voraussetzungen für den Betrieb nach dem Identifikationsnummerngesetz gegeben sind. +++)
 
-
-## § 12 – Verordnungsermächtigung
+# § 12 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anzahl und die Abgrenzung der Bereiche nach § 7 Absatz 2 Satz 2 zu bestimmen. Die Anzahl und die Abgrenzung der Bereiche hat dabei so zu erfolgen, dass das Risiko, bezogen auf die einzelne Person ein vollständiges Persönlichkeitsprofil durch Datenübermittlungen innerhalb eines Bereichs zu erstellen, wirksam begrenzt wird.
 
@@ -29,7 +25,6 @@ Ausfertigungsdatum: 28.03.2021
 
 (4) Das jeweils zuständige Bundesministerium wird ermächtigt, die Anwendung des Verfahrens nach § 7 Absatz 2 auch innerhalb eines Verwaltungsbereichs durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen.
 
-
-## §§ 13 bis 17 – (zukünftig in Kraft)
+# §§ 13 bis 17 – (zukünftig in Kraft)
 
 (+++ §§ 13 bis 17: Treten gem. Art. 22 S. 2 G v. 6.4.2021 I 591 an dem Tag in Kraft, an dem das Bundesministerium des Innern, für Bau und Heimat im Bundesgesetzblatt bekannt gibt, dass die technischen Voraussetzungen für den Betrieb nach dem Identifikationsnummerngesetz gegeben sind. +++)

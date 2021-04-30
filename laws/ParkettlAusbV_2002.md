@@ -1,25 +1,19 @@
-# [ParkettlAusbV 2002] Verordnung über die Berufsausbildung zum Parkettleger/zur Parkettlegerin
-
-Ausfertigungsdatum: 17.06.2002
-
+% Verordnung über die Berufsausbildung zum Parkettleger/zur Parkettlegerin
+% Ausfertigungsdatum: 17.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Parkettleger/Parkettlegerin wird für das Gewerbe Nummer 39, Parkettleger, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -61,25 +55,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 19. Qualitätssichernde Maßnahmen, Kundenorientierung.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -87,8 +77,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe sowie im schriftlichen Teil der Prüfung in insgesamt höchstens 120 Minuten die zur Arbeitsaufgabe gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommt insbesondere das Herstellen eines Parkettbodens unter Anwendung manueller und maschineller Bearbeitungstechniken einschließlich des Prüfens der Verlegebedingungen sowie des Vorbereitens des Untergrundes in Betracht. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie den Umweltschutz, die Sicherheit und den Gesundheitsschutz bei der Arbeit beachten kann.
 
-
-## § 8 – Gesellenprüfung
+# § 8 – Gesellenprüfung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -144,18 +133,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in einer der Arbeitsaufgaben oder in einem der Prüfungsbereiche Untergründe sowie Parkett und Bodenbeläge mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-
-## Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Parkettleger/zur Parkettlegerin
+# Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Parkettleger/zur Parkettlegerin
 
 (Fundstelle: BGBl. I 2002, 1855 - 1860)
 

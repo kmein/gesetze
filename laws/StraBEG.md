@@ -1,10 +1,7 @@
-# [StraBEG] Gesetz über die strafbefreiende Erklärung  (Strafbefreiungserklärungsgesetz - StraBEG)
-
-Ausfertigungsdatum: 23.12.2003
-
+% Gesetz über die strafbefreiende Erklärung  (Strafbefreiungserklärungsgesetz - StraBEG)
+% Ausfertigungsdatum: 23.12.2003
  
-
-## § 1 – Inhalt und Wirkung der strafbefreienden Erklärung
+# § 1 – Inhalt und Wirkung der strafbefreienden Erklärung
 
 (1) Wer gegenüber den Finanzbehörden unrichtige oder unvollständige Angaben über steuerlich erhebliche Tatsachen gemacht oder die Finanzbehörden pflichtwidrig über steuerlich erhebliche Tatsachen in Unkenntnis gelassen und dadurch Einkommensteuer, Körperschaftsteuer, Umsatzsteuer, Vermögensteuer, Gewerbesteuer, Erbschaftsteuer, Schenkungsteuer oder Abzugsteuern nach dem Einkommensteuergesetz verkürzt oder für sich oder einen anderen nicht gerechtfertigte Steuervorteile erlangt hat, wird nicht nach den §§ 370, 370a der Abgabenordnung oder § 26c des Umsatzsteuergesetzes bestraft, soweit
 
@@ -40,8 +37,7 @@ Satz 1 Nr. 2 ist nicht anzuwenden, soweit Ausgaben bereits nach Absatz 2 Nr. 2 b
 
 (7) Soweit die Tat im Sinne des Absatzes 1 Satz 1 nach dem 17. Oktober 2003 begangen worden ist, ist die Abgabe einer strafbefreienden Erklärung ausgeschlossen.
 
-
-## § 2 – Erklärungsberechtigte Person
+# § 2 – Erklärungsberechtigte Person
 
 (1) Zur Abgabe der strafbefreienden Erklärung ist berechtigt, wer gegenüber den Finanzbehörden die unrichtigen oder unvollständigen Angaben über steuerlich erhebliche Tatsachen gemacht oder die Finanzbehörden pflichtwidrig über die steuerlich erheblichen Tatsachen in Unkenntnis gelassen und dadurch Steuern verkürzt oder für sich oder einen anderen nicht gerechtfertigte Steuervorteile erlangt hat. Satz 1 gilt nicht für Anstifter und Gehilfen.
 
@@ -51,15 +47,13 @@ Satz 1 Nr. 2 ist nicht anzuwenden, soweit Ausgaben bereits nach Absatz 2 Nr. 2 b
 
 (4) Ist in den Fällen der Absätze 1 bis 3 Gesamtrechtsnachfolge eingetreten, kann die Erklärung durch den Rechtsnachfolger abgegeben werden.
 
-
-## § 3 – Inhalt, Form und Adressat der strafbefreienden Erklärung
+# § 3 – Inhalt, Form und Adressat der strafbefreienden Erklärung
 
 (1) Der Erklärende hat den nach § 1 zu entrichtenden Betrag selbst zu berechnen. Die strafbefreiende Erklärung ist nach amtlich vorgeschriebenem Vordruck abzugeben und eigenhändig zu unterschreiben. In der strafbefreienden Erklärung sind die erklärten Einnahmen nach Kalenderjahren und zugrunde liegenden Lebenssachverhalten zu spezifizieren. Ist der Erklärende nicht zugleich Schuldner der nach § 8 Abs. 1 erlöschenden Steueransprüche, ist in der Erklärung auch der Steuerschuldner zu bezeichnen. Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit den obersten Finanzbehörden der Länder den Vordruck für die strafbefreiende Erklärung zu bestimmen.
 
 (2) Die strafbefreiende Erklärung ist bei der für den Steuerschuldner nach § 19 oder § 20 der Abgabenordnung zuständigen Finanzbehörde abzugeben. Bei Gesellschaften und Gemeinschaften im Sinne des § 180 Abs. 1 Nr. 2 Buchstabe a der Abgabenordnung ist die Erklärung bei der nach § 18 der Abgabenordnung zuständigen Finanzbehörde abzugeben.
 
-
-## § 4 – Umfang der Strafbefreiung
+# § 4 – Umfang der Strafbefreiung
 
 (1) Die Strafbefreiung erstreckt sich auf alle Taten im Sinne des § 1 Abs. 1 Satz 1, die sich auf nach dem 31. Dezember 1992 und vor dem 1. Januar 2003 entstandene Ansprüche auf Einkommen- oder Körperschaftsteuer, Umsatzsteuer, Vermögensteuer, Gewerbesteuer sowie Erbschaftsteuer und Schenkungsteuer beziehen, soweit die entsprechenden Einnahmen im Sinne des § 1 Abs. 2 bis 5 in der strafbefreienden Erklärung berücksichtigt sind. Hat der Steuerschuldner die in der strafbefreienden Erklärung berücksichtigten Einnahmen zu Zahlungen verwendet, auf Grund derer er nach dem Einkommensteuergesetz einen Steuerabzug hätte vornehmen müssen, erstreckt sich die Strafbefreiung auch auf zu Unrecht nicht entrichtete Steuerabzugsbeträge; die Straffreiheit erstreckt sich auch auf die Verkürzung von Einkommensteuer durch Abgabe einer unzutreffenden Steuererklärung durch den Vergütungsgläubiger. Umfasst die strafbefreiende Erklärung eine Ausschüttung, die nicht den gesellschaftsrechtlichen Vorschriften entspricht, erstreckt sich die Straffreiheit auch auf die Verkürzung von Einkommensteuer durch Abgabe einer unzutreffenden Steuererklärung durch den Gläubiger der Gewinnausschüttung.
 
@@ -67,18 +61,15 @@ Satz 1 Nr. 2 ist nicht anzuwenden, soweit Ausgaben bereits nach Absatz 2 Nr. 2 b
 
 (3) Umfasst die strafbefreiende Erklärung nicht alle Einnahmen im Sinne des § 1 Abs. 2 bis 5, bleibt die Strafbarkeit von Taten, die auf nicht berücksichtigten Einnahmen beruhen, so bestehen, wie sie vor Abgabe der strafbefreienden Erklärung gegeben war.
 
-
-## § 5 – Strafausschluss in besonderen Fällen
+# § 5 – Strafausschluss in besonderen Fällen
 
 Kann eine andere Tat wegen der Strafbarkeit nach den §§ 370 und 370a der Abgabenordnung nicht bestraft werden, so gilt dies auch dann, wenn eine Bestrafung nach den §§ 370 und 370a der Abgabenordnung auf Grund dieses Gesetzes entfällt.
 
-
-## § 6 – Steuerordnungswidrigkeiten
+# § 6 – Steuerordnungswidrigkeiten
 
 Die §§ 1 bis 5 gelten bei Steuerordnungswidrigkeiten nach §§ 378 bis 380 der Abgabenordnung und § 26b des Umsatzsteuergesetzes entsprechend.
 
-
-## § 7 – Ausschluss der Straf- oder Bußgeldbefreiung
+# § 7 – Ausschluss der Straf- oder Bußgeldbefreiung
 
 Straf- oder Bußgeldfreiheit tritt nicht ein, soweit vor Eingang der strafbefreienden Erklärung wegen einer Tat im Sinne des § 1 Abs. 1 Satz 1 oder einer Handlung im Sinne des § 6
 
@@ -92,8 +83,7 @@ b) die Tat bereits entdeckt war und der Erklärende dies wusste oder bei verstä
 
 Ist das Verfahren im Sinne des Satzes 1 Nr. 1 oder 2 vor Eingang der strafbefreienden Erklärung abgeschlossen worden, kann Straf- oder Bußgeldfreiheit eintreten, soweit sich die strafbefreiende Erklärung auf Einnahmen bezieht, die im Rahmen dieses Verfahrens nicht festgestellt worden sind.
 
-
-## § 8 – Sachlicher Umfang der Abgeltungswirkung
+# § 8 – Sachlicher Umfang der Abgeltungswirkung
 
 (1) Soweit nach dem ersten Abschnitt Straf- oder Bußgeldfreiheit eintritt, erlöschen mit Entrichtung des nach § 1 zu zahlenden Betrags nach dem 31. Dezember 1992 und vor dem 1. Januar 2003 entstandene Einkommen- oder Körperschaftsteueransprüche, Umsatzsteueransprüche, Vermögensteueransprüche, Gewerbesteueransprüche, Erbschaftsteuer- und Schenkungsteueransprüche sowie alle Ansprüche auf damit zusammenhängende steuerliche Nebenleistungen. Hat der Steuerschuldner die in der strafbefreienden Erklärung berücksichtigten Einnahmen zu Zahlungen verwendet, auf Grund derer er nach dem Einkommensteuergesetz einen Steuerabzug hätte vornehmen müssen, erlöschen auch Ansprüche auf zu Unrecht nicht entrichtete Steuerabzugsbeträge.
 
@@ -101,13 +91,11 @@ Ist das Verfahren im Sinne des Satzes 1 Nr. 1 oder 2 vor Eingang der strafbefrei
 
 (3) Werden der Finanzbehörde aus anderem Anlass Taten im Sinne des § 1 Abs. 1 oder Handlungen im Sinne des § 6 bekannt, wird vermutet, dass der Erklärende diese Taten oder Handlungen in seiner strafbefreienden Erklärung nicht berücksichtigt hat. Diese Vermutung kann nur widerlegt werden, soweit der Erklärende nachweist, dass diese Taten oder Handlungen Gegenstand seiner strafbefreienden Erklärung waren.
 
-
-## § 9 – Persönlicher Umfang der Abgeltungswirkung
+# § 9 – Persönlicher Umfang der Abgeltungswirkung
 
 Die Abgeltungswirkung nach § 8 erstreckt sich neben dem Steuerschuldner auf alle Gesamtschuldner.
 
-
-## § 10 – Besondere Vorschriften
+# § 10 – Besondere Vorschriften
 
 (1) Der nach § 1 Abs. 1 Satz 1 Nr. 2 zu entrichtende Betrag gilt als Einkommensteuer; dies gilt nicht für Zwecke der Zuschlagsteuern.
 
@@ -117,20 +105,17 @@ Die Abgeltungswirkung nach § 8 erstreckt sich neben dem Steuerschuldner auf all
 
 (4) Die §§ 156, 163, 222, 227, 240 und 361 der Abgabenordnung und § 69 der Finanzgerichtsordnung sind nicht anzuwenden.
 
-
-## § 11 – Besondere Verfolgungsverjährung
+# § 11 – Besondere Verfolgungsverjährung
 
 (1) Taten im Sinne des § 1 Abs. 1 Satz 1 und Handlungen im Sinne des § 6, die sich auf vor dem 1. Januar 1993 entstandene Ansprüche auf Einkommen- oder Körperschaftsteuer, Umsatzsteuer, Vermögensteuer, Gewerbesteuer und Erbschaft- und Schenkungsteuer sowie auf damit zusammenhängende steuerliche Nebenleistungen beziehen, können nach dem 31. Dezember 2003 nicht mehr verfolgt werden, wenn eine wirksame strafbefreiende Erklärung abgegeben wurde; dies gilt auch, wenn sich später herausstellt, dass diese Erklärung unvollständig war. Satz 1 gilt auch dann, wenn die Tat oder Handlung erst nach dem 31. Dezember 1992 begangen wurde.
 
 (2) Absatz 1 gilt auch für Taten und Handlungen, die sich auf Ansprüche auf Steuerabzugsbeträge beziehen, die nach dem Einkommensteuergesetz vor dem 1. Januar 1993 einzubehalten waren.
 
-
-## § 12 – Besondere Festsetzungsverjährung
+# § 12 – Besondere Festsetzungsverjährung
 
 Die in § 11 genannten Ansprüche gelten als erloschen, soweit sie der zuständigen Finanzbehörde bei Eingang einer wirksamen strafbefreienden Erklärung noch nicht bekannt waren. Dies gilt auch, wenn sich später herausstellt, dass diese Erklärung unvollständig war.
 
-
-## § 13 – Verwendungsbeschränkung
+# § 13 – Verwendungsbeschränkung
 
 (1) Der Inhalt einer strafbefreienden Erklärung (geschützte Daten) darf vorbehaltlich des Absatzes 2 ohne Einwilligung des Betroffenen nur zur Durchführung dieses Gesetzes sowie für Verfahren im Sinne des § 30 Abs. 2 Nr. 1 Buchstabe a und b der Abgabenordnung, die sich auf Besteuerungszeiträume und Besteuerungszeitpunkte nach 2002 beziehen, verwendet werden.
 

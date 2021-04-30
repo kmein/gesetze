@@ -1,39 +1,31 @@
-# [MautVvfV] Verordnung zur Regelung des Vermittlungsverfahrens nach dem Mautsystemgesetz  (Mautdienst-Vermittlungsverfahrens-Verordnung - MautVvfV)
-
-Ausfertigungsdatum: 21.07.2016
-
+% Verordnung zur Regelung des Vermittlungsverfahrens nach dem Mautsystemgesetz  (Mautdienst-Vermittlungsverfahrens-Verordnung - MautVvfV)
+% Ausfertigungsdatum: 21.07.2016
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt das Verfahren zur Vermittlung bei Streitigkeiten zwischen den für die Erhebung einer Maut in Bund und Ländern zuständigen Behörden und registrierten Anbietern mautdienstbezogener Leistungen nach den §§ 28 bis 30 des Mautsystemgesetzes.
 
-
-## § 2 – Parteien
+# § 2 – Parteien
 
 Parteien des Vermittlungsverfahrens können nur ein registrierter Anbieter mautdienstbezogener Leistungen und eine für die Erhebung einer Maut in Bund und Ländern jeweils zuständige Behörde sein.
 
-
-## § 3 – Vermittlungsgegenstand
+# § 3 – Vermittlungsgegenstand
 
 (1) Die Vermittlungsstelle wird bei Streitigkeiten zwischen den Parteien im Zusammenhang mit der Zulassung nach § 10 des Mautsystemgesetzes und der beschränkten Zulassung nach § 11 des Mautsystemgesetzes auf Antrag tätig.
 
 (2) Gegenstand der Vermittlung ist insbesondere die Prüfung, ob Vertragsbedingungen, welche eine für die Erhebung einer Maut in Bund und Ländern zuständige Behörde den Anbietern auferlegt, keine Diskriminierung beinhalten und Kosten und Risiken der Vertragsparteien angemessen widerspiegeln.
 
-
-## § 4 – Vertretung des Vorsitzenden
+# § 4 – Vertretung des Vorsitzenden
 
 (1) Ist der Vorsitzende eines Spruchkörpers vorübergehend an der Ausübung des Vorsitzes gehindert, übt ein von dem Privaten, dem die Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde, mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur zuvor bestellter Vertreter den Vorsitz aus.
 
 (2) Ist der Vorsitzende dauerhaft an der Ausübung des Vorsitzes gehindert, bestimmt der Private, dem die Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde, mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur einen neuen Vorsitzenden.
 
-
-## § 5 – Beisitzer
+# § 5 – Beisitzer
 
 Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die Parteien auf, jeweils einen Beisitzer zu benennen und benachrichtigt die jeweils andere Partei über den benannten Beisitzer.
 
-
-## § 6 – Verfahrensgrundsätze
+# § 6 – Verfahrensgrundsätze
 
 (1) Das Vermittlungsverfahren wird in der Regel schriftlich durchgeführt.
 
@@ -49,8 +41,7 @@ Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die Parteien auf, 
 
 (7) Bei Zweifeln über die Anwendung und Auslegung dieser Verfahrensordnung entscheidet der Vorsitzende unter Berücksichtigung der Grundsätze der Zivilprozessordnung. Die Entscheidung ist zu begründen, wenn eine Partei dies beantragt.
 
-
-## § 7 – Antragstellung
+# § 7 – Antragstellung
 
 (1) Das Verfahren wird durch schriftlichen Antrag mindestens einer Partei bei der Vermittlungsstelle eingeleitet.
 
@@ -64,8 +55,7 @@ Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die Parteien auf, 
 
 (4) Erfolgt die Antragsergänzung nicht oder nicht fristgemäß, gilt der Antrag als zurückgenommen. Ein Vermittlungsverfahren wird in diesem Fall nicht durchgeführt.
 
-
-## § 8 – Ablehnung eines Antrags
+# § 8 – Ablehnung eines Antrags
 
 (1) Die Vermittlungsstelle lehnt einen Antrag auf Durchführung eines Vermittlungsverfahrens ab, wenn
 
@@ -83,15 +73,13 @@ Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die Parteien auf, 
 
 (2) Die Ablehnung des Antrags auf Durchführung eines Vermittlungsverfahrens ist dem Antragsteller schriftlich und unter Angabe der Gründe mitzuteilen.
 
-
-## § 9 – Antragserwiderung
+# § 9 – Antragserwiderung
 
 (1) Die Vermittlungsstelle übermittelt dem Antragsgegner außer in den Fällen des § 8 den vollständigen Antrag und fordert ihn auf, innerhalb von vier Wochen nach Zugang des Schreibens hierauf schriftlich zu erwidern. Die Frist kann auf Antrag verlängert werden.
 
 (2) Erfolgt die Antragserwiderung nicht innerhalb der in Absatz 1 bezeichneten Frist, gilt die Zustimmung zur Vermittlung als verweigert. Ein Vermittlungsverfahren wird in diesem Fall nicht durchgeführt.
 
-
-## § 10 – Durchführung des Vermittlungsverfahrens
+# § 10 – Durchführung des Vermittlungsverfahrens
 
 (1) Das Vermittlungsverfahren wird mit Zugang der Zustimmung des Antragsgegners zur Durchführung des Vermittlungsverfahrens bei der Vermittlungsstelle eröffnet, es sei denn, der Antragsteller hat seinen Antrag zuvor zurückgenommen.
 
@@ -103,8 +91,7 @@ Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die Parteien auf, 
 
 (5) Erfolgen die Stellungnahme oder die Erwiderung nach Absatz 1 oder die Auskünfte nach Absatz 2 nicht innerhalb der dort bezeichneten Fristen, gibt die Vermittlungsstelle ihre Stellungnahme nach § 14 Absatz 1 aufgrund der Aktenlage ab. Anstelle der Stellungnahme nach Satz 1 kann die Vermittlungsstelle feststellen, dass das Verfahren nach § 16 Nummer 2 bis 4 beendet ist.
 
-
-## § 11 – Erörterungstermine
+# § 11 – Erörterungstermine
 
 (1) Beschließt die Vermittlungsstelle die Durchführung eines Erörterungstermins, setzt sie die Parteien hierüber sowie über Zeit und Ort des Erörterungstermins mindestens zwei Wochen vor dem Termin schriftlich in Kenntnis. Der Erörterungstermin unterbleibt, wenn eine der Parteien seiner Durchführung mindestens eine Woche vor dem Termin gegenüber der Vermittlungsstelle schriftlich widerspricht.
 
@@ -116,27 +103,23 @@ Nach Einleitung des Verfahrens fordert die Vermittlungsstelle die Parteien auf, 
 
 (5) Die Parteien sind verpflichtet, zu dem Erörterungstermin zu erscheinen. Sie können an ihrer Stelle einen Vertreter entsenden. Erscheint eine Partei oder erscheinen beide Parteien nicht zu dem Erörterungstermin, gilt dies im Fall des Antragstellers als Antragsrücknahme und im Fall des Antragsgegners als Rücknahme der Zustimmung.
 
-
-## § 12 – Pflichten der Parteien
+# § 12 – Pflichten der Parteien
 
 Die Parteien zeigen der Vermittlungsstelle unverzüglich den Beginn gerichtlicher Verfahren zur Sache und wesentliche Veränderungen im laufenden Vermittlungsverfahren an.
 
-
-## § 13 – Form und Fristen
+# § 13 – Form und Fristen
 
 (1) Einlassungen der Parteien bedürfen der Schriftform. Schriftform im Sinne dieser Verordnung ist auch durch die Verwendung elektronischer Post gewahrt.
 
 (2) Die Vermittlungsstelle kann im Rahmen des Verfahrens Fristen setzen.
 
-
-## § 14 – Stellungnahme
+# § 14 – Stellungnahme
 
 (1) Der Spruchkörper nimmt spätestens sechs Monate nach Eingang eines Antrags auf Vermittlung zu der Streitigkeit schriftlich Stellung. Die Stellungnahme ist kurz und verständlich zu begründen. Hierin ist aufzuzeigen, wie der Streit der Parteien aufgrund der Rechtslage unter Berücksichtigung von Treu und Glauben angemessen beigelegt werden kann.
 
 (2) Die Stellungnahme des Spruchkörpers ist nicht verbindlich.
 
-
-## § 15 – Vertraulichkeit
+# § 15 – Vertraulichkeit
 
 (1) Die Mitglieder des Spruchkörpers, die Mitarbeiter der Geschäftsstelle, die Parteien und die zu den Verfahren hinzugezogenen Bevollmächtigten oder Dritten sind verpflichtet, die Vertraulichkeit der übermittelten Informationen zu wahren. Sie bewahren erhaltene Informationen für andere unzugänglich auf und löschen diese, sobald sie nicht mehr für das Vermittlungsverfahren benötigt werden. Dies gilt insbesondere für alle im Vermittlungsverfahren von einer Partei geäußerten Einigungsvorschläge und deren Ablehnung, Ansichten, Zugeständnisse, sowie für die von der Vermittlungsstelle geäußerten Vorschläge und Ansichten, sofern diese schriftlich niedergelegt worden sind. Die Vertraulichkeit erstreckt sich nicht auf Informationen, die allgemein oder der anderen Partei oder den anderen Beteiligten bekannt oder sonst zugänglich sind oder waren.
 
@@ -144,8 +127,7 @@ Die Parteien zeigen der Vermittlungsstelle unverzüglich den Beginn gerichtliche
 
 (3) Die Vermittlungsstelle tauscht mit den Vermittlungsstellen der anderen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum Informationen über die Grundsätze und Methodik ihrer Arbeit in nicht personenbezogener Form aus.
 
-
-## § 16 – Beendigung des Verfahrens
+# § 16 – Beendigung des Verfahrens
 
 Das Verfahren ist beendet, wenn
 
@@ -157,24 +139,20 @@ Das Verfahren ist beendet, wenn
 
 4. der Antragsgegner seine Zustimmung zur Durchführung des Vermittlungsverfahrens zurückgenommen hat.
 
-
-## § 17 – Hinzuziehung Dritter
+# § 17 – Hinzuziehung Dritter
 
 Die Vermittlungsstelle kann mit Zustimmung beider Parteien Sachverständige hinzuziehen und Gutachten einholen.
 
-
-## § 18 – Wiederaufnahme des Verfahrens
+# § 18 – Wiederaufnahme des Verfahrens
 
 Eine Wiederaufnahme des Verfahrens ist ausgeschlossen.
 
-
-## § 19 – Kosten
+# § 19 – Kosten
 
 (1) Die Parteien tragen die ihnen entstehenden Kosten einschließlich der Kosten für eine anwaltliche Vertretung und Sachverständige sowie für den von ihnen benannten Beisitzer. Beauftragen die Parteien einvernehmlich einen Sachverständigen, tragen sie die daraus entstehenden Kosten zu gleichen Teilen.
 
 (2) Die übrigen Kosten der Vermittlungsstelle trägt das Bundesministerium für Verkehr und digitale Infrastruktur.
 
-
-## § 20 – Rechtsweg
+# § 20 – Rechtsweg
 
 Die Einleitung eines Vermittlungsverfahrens berührt nicht das Recht der Parteien, den Rechtsweg zu beschreiten.

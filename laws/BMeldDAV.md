@@ -1,22 +1,17 @@
-# [BMeldDAV] Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder  (Bundesmeldedatenabrufverordnung - BMeldDAV)
-
-Ausfertigungsdatum: 01.12.2014
-
+% Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder  (Bundesmeldedatenabrufverordnung - BMeldDAV)
+% Ausfertigungsdatum: 01.12.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 56 Absatz 1 Nummer 3 und Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Diese Verordnung regelt die technischen Voraussetzungen für automatisierte Abrufe von Meldedaten durch Behörden oder sonstige öffentliche Stellen des Bundes sowie der Länder, soweit sie länderübergreifend erfolgen, nach den §§ 38 und 39 des Bundesmeldegesetzes.
 
 (2) Die Auswahldaten für Abrufe sowie Daten und Hinweise zur Übermittlung im automatisierten Abruf ergeben sich aus § 38 Absatz 1, 3 und 4 des Bundesmeldegesetzes sowie aus Bundes- und Landesrecht auf der Grundlage von § 38 Absatz 5 des Bundesmeldegesetzes.
 
-
-## § 2 – Verfahren des Datenabrufes
+# § 2 – Verfahren des Datenabrufes
 
 (1) Datenabrufe nach den §§ 38 und 39 des Bundesmeldegesetzes erfolgen elektronisch unter Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung des Übermittlungsprotokolls OSCI-Transport in der im Bundesanzeiger jeweils bekannt gemachten geltenden Fassung. § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden Fassung bleibt unberührt. Soweit bei der Nutzung des Verbindungsnetzes gleichwertige Funktionalitäten zur Verfügung stehen, kann bis zum 30. April 2018 auf die Verwendung des Übermittlungsprotokolls OSCI-Transport verzichtet werden.
 
@@ -26,8 +21,7 @@ Auf Grund des § 56 Absatz 1 Nummer 3 und Absatz 2 des Bundesmeldegesetzes vom 3
 
 (4) Bei der Datenübermittlung innerhalb von Rechenzentren und besonders gesicherter verwaltungseigener Netze kann auf die Verwendung des Übermittlungsprotokolls OSCI-Transport verzichtet werden, wenn durch technische und organisatorische Maßnahmen gewährleistet ist, dass die Sicherheitseigenschaften denen des OSCI-Transports gleichwertig sind.
 
-
-## § 3 – Standards der Datenübermittlung
+# § 3 – Standards der Datenübermittlung
 
 (1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des Datensatzes für das Meldewesen – Einheitlicher Bundes-/Länderteil – (DSMeld) herausgegebene Standard einer technischen Beschreibung des Datensatzes für Datenübermittlung im Bereich des Meldewesens.
 
@@ -39,12 +33,10 @@ Auf Grund des § 56 Absatz 1 Nummer 3 und Absatz 2 des Bundesmeldegesetzes vom 3
 
 (5) Änderungen des Datenaustauschformats OSCI-XMeld, des Übermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2015 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

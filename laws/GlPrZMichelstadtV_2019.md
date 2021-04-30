@@ -1,15 +1,11 @@
-# [GlPrZMichelstadtV 2019] Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt mit den Zeugnissen über das Bestehen der Gesellenprüfung in Ausbildungsberufen
-
-Ausfertigungsdatum: 04.07.2019
-
+% Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt mit den Zeugnissen über das Bestehen der Gesellenprüfung in Ausbildungsberufen
+% Ausfertigungsdatum: 04.07.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 40 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Gleichstellung von Prüfungszeugnissen
+# § 1 – Gleichstellung von Prüfungszeugnissen
 
 (1) Die vom 1. Oktober 2016 bis zum Ablauf des 30. September 2023 von der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlussprüfungen werden mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen nach Maßgabe der nachstehenden Auflistung gleichgestellt:  
   
@@ -41,12 +37,10 @@ Fachrichtungen<br />
 <br />
 im Gewerbe der Anlage B Abschnitt 1 Nummer 15 „Drechsler (Elfenbeinschnitzer) und Holzspielzeugmacher“ der Handwerksordnung</td></tr><tr class="even"><td style="text-align: left;">Abschlussprüfung als Holzbildhauer/in</td><td style="text-align: left;">Holzbildhauer und Holzbildhauerin im Gewerbe der Anlage B Abschnitt 1 Nummer 16 „Holzbildhauer“ der Handwerksordnung</td></tr></tbody></table>
 
-
-## § 2 – Inkrafttreten, Außerkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft und am 1. Oktober 2026 außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

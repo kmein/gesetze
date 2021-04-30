@@ -1,5 +1,3 @@
-# [RHiVtrPRTG] Gesetz zu dem Vertrag vom 15. Juni 1964 zwischen der Bundesrepublik Deutschland und der Republik von Portugal über die Auslieferung und die Rechtshilfe in Strafsachen
-
-Ausfertigungsdatum: 02.10.1967
-
+% Gesetz zu dem Vertrag vom 15. Juni 1964 zwischen der Bundesrepublik Deutschland und der Republik von Portugal über die Auslieferung und die Rechtshilfe in Strafsachen
+% Ausfertigungsdatum: 02.10.1967
  

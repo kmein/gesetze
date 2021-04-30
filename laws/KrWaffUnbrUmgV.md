@@ -1,15 +1,11 @@
-# [KrWaffUnbrUmgV] Verordnung über die Unbrauchbarmachung von Kriegswaffen und über den Umgang mit unbrauchbar gemachten Kriegswaffen  (Kriegswaffenunbrauchbarmachungs- und -umgangsverordnung - KrWaffUnbrUmgV)
-
-Ausfertigungsdatum: 10.08.2018
-
+% Verordnung über die Unbrauchbarmachung von Kriegswaffen und über den Umgang mit unbrauchbar gemachten Kriegswaffen  (Kriegswaffenunbrauchbarmachungs- und -umgangsverordnung - KrWaffUnbrUmgV)
+% Ausfertigungsdatum: 10.08.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 13a und 14 Absatz 8 des Gesetzes über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), die zuletzt durch Artikel 30 Nummer 2 und 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind, und auf Grund des § 36 Absatz 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der zuletzt durch Artikel 1 Nummer 5 Buchstabe b des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Gegenstand der Verordnung; Begriffsbestimmungen
+# § 1 – Gegenstand der Verordnung; Begriffsbestimmungen
 
 (1) Diese Verordnung regelt die Unbrauchbarmachung von Kriegswaffen, die dadurch ihre Fähigkeit zum bestimmungsgemäßen Einsatz als Kriegswaffe im Sinne des § 1 Absatz 1 des Gesetzes über die Kontrolle von Kriegswaffen verlieren, und den Umgang mit Kriegswaffen, die unbrauchbar gemacht wurden.
 
@@ -23,15 +19,13 @@ Auf Grund der §§ 13a und 14 Absatz 8 des Gesetzes über die Kontrolle von Krie
 
 Im Übrigen gelten die Begriffsbestimmungen des Abschnitts 2 der Anlage 1 zum Waffengesetz in der jeweils geltenden Fassung entsprechend.
 
-
-## § 2 – Maßnahmen zur Unbrauchbarmachung; Verwaltungsvorschriften
+# § 2 – Maßnahmen zur Unbrauchbarmachung; Verwaltungsvorschriften
 
 (1) Die für die Unbrauchbarmachung erforderlichen technischen Veränderungen richten sich nach der Art der Kriegswaffe.
 
 (2) Das Bundesministerium für Wirtschaft und Energie kann durch Allgemeinverfügung die im Einzelfall je nach Art der Kriegswaffe erforderlichen technischen Veränderungen anordnen.
 
-
-## § 3 – Bescheinigung über die Unbrauchbarmachung
+# § 3 – Bescheinigung über die Unbrauchbarmachung
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann auf Antrag feststellen, dass eine Kriegswaffe unbrauchbar im Sinne des § 1 Absatz 1 ist, und darüber eine Bescheinigung ausstellen.
 
@@ -39,8 +33,7 @@ Im Übrigen gelten die Begriffsbestimmungen des Abschnitts 2 der Anlage 1 zum Wa
 
 (3) Die Unbrauchbarmachung der Kriegswaffe ist vom Antragsteller bei Antragstellung in geeigneter Form nachzuweisen.
 
-
-## § 4 – Verbote
+# § 4 – Verbote
 
 (1) Kindern und Jugendlichen ist der Umgang mit unbrauchbar gemachten Kriegswaffen verboten.
 
@@ -56,8 +49,7 @@ Satz 1 Nummer 1 gilt nicht für die Verwendung bei Film- oder Fernsehaufnahmen o
 
 (4) Die zuständige Behörde kann im Einzelfall eine Ausnahme von den Verboten der Absätze 1 bis 3 genehmigen, wenn besondere Gründe vorliegen und öffentliche Interessen nicht entgegenstehen.
 
-
-## § 5 – Erlaubnispflicht
+# § 5 – Erlaubnispflicht
 
 (1) Wer abweichend von § 4 Absatz 3 Satz 1 Nummer 2 mit einer dort genannten fahrfähigen unbrauchbar gemachten Kriegswaffe innerhalb eigenen oder fremden befriedeten Besitztums umgehen will, bedarf der Erlaubnis. Diese Erlaubnis berechtigt den Inhaber auch zur Beförderung einer in Satz 1 genannten unbrauchbar gemachten Kriegswaffe von einem befriedeten Besitztum zu einem anderen.
 
@@ -71,8 +63,7 @@ Satz 1 Nummer 1 gilt nicht für die Verwendung bei Film- oder Fernsehaufnahmen o
 
 (3) Die Erlaubnis wird nur erteilt, sofern Gründe der öffentlichen Sicherheit oder Ordnung nicht entgegenstehen.
 
-
-## § 6 – Zuverlässigkeit
+# § 6 – Zuverlässigkeit
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen in der Regel nicht
 
@@ -88,8 +79,7 @@ c) die fahrfähige unbrauchbar gemachte Kriegswaffe Personen überlassen werden,
 
 (2) Zur Überprüfung der Zuverlässigkeit hat der Antragsteller bei Antragstellung ein Führungszeugnis im Sinne des § 30 Absatz 1 Satz 1 des Bundeszentralregistergesetzes nach Maßgabe des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen, das nicht älter als drei Monate sein darf.
 
-
-## § 7 – Ausnahmen von der Erlaubnispflicht
+# § 7 – Ausnahmen von der Erlaubnispflicht
 
 (1) Einer Erlaubnis nach § 5 für den Umgang mit einer dort genannten unbrauchbar gemachten Kriegswaffe bedarf nicht,
 
@@ -101,15 +91,13 @@ c) die fahrfähige unbrauchbar gemachte Kriegswaffe Personen überlassen werden,
 
 (2) Die zuständige Behörde kann im Einzelfall weitere Ausnahmen von der Erlaubnispflicht genehmigen, wenn besondere Gründe vorliegen und Belange der öffentlichen Sicherheit und Ordnung nicht entgegenstehen.
 
-
-## § 8 – Inhaltliche Beschränkungen; Nebenbestimmungen
+# § 8 – Inhaltliche Beschränkungen; Nebenbestimmungen
 
 (1) Eine Erlaubnis nach dieser Verordnung kann zur Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung inhaltlich beschränkt werden.
 
 (2) Zu dem in Absatz 1 genannten Zweck können Erlaubnisse befristet oder mit Auflagen verbunden werden. Auflagen können nachträglich aufgenommen oder geändert werden.
 
-
-## § 9 – Umgangsregeln für fahrfähige unbrauchbar gemachte Kriegswaffen
+# § 9 – Umgangsregeln für fahrfähige unbrauchbar gemachte Kriegswaffen
 
 (1) Sofern bei einer fahrfähigen unbrauchbar gemachten Kriegswaffe der Nummern 25 bis 28, 31 – ausgenommen fahrfähige unbrauchbar gemachte Panzerhaubitzen – und 33 der Kriegswaffenliste Ausschnitte in der Panzerung mit handelsüblichem Blech verkleidet sind, muss der genaue Verlauf der Verkleidung, zumindest aus dem Innenraum des Fahrzeugs, deutlich erkennbar sein.
 
@@ -117,8 +105,7 @@ c) die fahrfähige unbrauchbar gemachte Kriegswaffe Personen überlassen werden,
 
 (3) Wer eine fahrfähige unbrauchbar gemachte Kriegswaffe besitzt oder die Erteilung einer Erlaubnis nach § 5 beantragt hat, hat der zuständigen Behörde die zur Erfüllung der Pflicht nach Absatz 2 erforderlichen Vorkehrungen nachzuweisen.
 
-
-## § 10 – Anzeigepflichten
+# § 10 – Anzeigepflichten
 
 (1) Wer eine unbrauchbar gemachte Kriegswaffe, deren Umgang nach dieser Verordnung verboten ist oder einer Erlaubnis bedarf,
 
@@ -136,8 +123,7 @@ in Besitz nimmt, hat dies der zuständigen Behörde unverzüglich anzuzeigen. §
 
 abhandengekommen ist, hat dies der zuständigen Behörde unverzüglich anzuzeigen.
 
-
-## § 11 – Weitere Maßnahmen
+# § 11 – Weitere Maßnahmen
 
 (1) Wird eine Genehmigung nach § 4 Absatz 4 oder § 7 Absatz 2 oder eine Erlaubnis nach § 5 zurückgenommen oder widerrufen, so hat der Inhaber alle Ausfertigungen der Genehmigungsurkunde oder der Erlaubnisurkunde der zuständigen Behörde unverzüglich zurückzugeben.
 
@@ -147,13 +133,11 @@ abhandengekommen ist, hat dies der zuständigen Behörde unverzüglich anzuzeige
 
 (+++ § 11 Abs. 2: Zur Anwendung vgl. § 10 Abs. 1 Satz 2 +++)
 
-
-## § 12 – Durchfuhren
+# § 12 – Durchfuhren
 
 Teil 3 dieser Verordnung gilt nicht für Durchfuhren im Sinne des § 2 Absatz 9 des Außenwirtschaftsgesetzes.
 
-
-## § 13 – Behörden und Stellen in staatlicher Trägerschaft
+# § 13 – Behörden und Stellen in staatlicher Trägerschaft
 
 Teil 3 dieser Verordnung gilt nicht für
 
@@ -171,20 +155,17 @@ Teil 3 dieser Verordnung gilt nicht für
 
 und deren Bedienstete, soweit sie dienstlich oder im Rahmen ihres Arbeitsverhältnisses tätig werden.
 
-
-## § 14 – Zuständigkeit
+# § 14 – Zuständigkeit
 
 Zuständige Behörde ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
-
-## § 15 – Formerfordernisse
+# § 15 – Formerfordernisse
 
 (1) Soweit nichts anderes bestimmt ist, bedürfen die Verwaltungsakte nach dieser Verordnung der Schriftform. Die zuständige Behörde kann durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, vorschreiben, dass der Erlass eines Verwaltungsakts nach dieser Verordnung auf einem besonderen Vordruck beantragt werden muss. § 3a des Verwaltungsverfahrensgesetzes ist nicht anzuwenden.
 
 (2) Die zuständige Behörde kann durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, festlegen, von welchem Zeitpunkt an und unter welchen Voraussetzungen Anträge auf Erlass eines Verwaltungsakts nach dieser Verordnung elektronisch gestellt und Verwaltungsakte elektronisch erlassen werden können.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 22b Absatz 1 Nummer 3a des Gesetzes über die Kontrolle von Kriegswaffen handelt, wer vorsätzlich oder fahrlässig
 
@@ -202,14 +183,12 @@ Zuständige Behörde ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle übertragen.
 
-
-## § 17 – Übergangsvorschriften
+# § 17 – Übergangsvorschriften
 
 (1) Personen, die am 1. September 2018 Umgang mit fahrfähigen unbrauchbar gemachten Kriegswaffen der Nummer 24 oder fahrfähigen unbrauchbar gemachten Panzerhaubitzen der Nummer 31 der Kriegswaffenliste haben, haben spätestens bis zum Ablauf des 28. Februar 2019 eine Genehmigung nach § 4 Absatz 4 zu beantragen. Bis zur bestandskräftigen oder rechtskräftigen Entscheidung über den Antrag, gilt der Umgang als vorläufig genehmigt.
 
 (2) Personen, die am 1. September 2018 Umgang mit fahrfähigen unbrauchbar gemachten Kriegswaffen der Nummern 25 bis 28, 31 – ausgenommen fahrfähige unbrauchbar gemachte Panzerhaubitzen – und 33 der Kriegswaffenliste haben, haben spätestens bis zum Ablauf des 28. Februar 2019 eine Erlaubnis nach § 5 Absatz 1 zu beantragen. Bis zur bestandskräftigen oder rechtskräftigen Entscheidung über den Antrag gilt der Umgang als vorläufig erlaubt.
 
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2018 in Kraft. Gleichzeitig tritt die Verordnung über den Umgang mit unbrauchbar gemachten Kriegswaffen vom 1. Juli 2004 (BGBl. I S. 1448) außer Kraft.

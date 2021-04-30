@@ -1,15 +1,11 @@
-# [FleiAusbV 2005] Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin
-
-Ausfertigungsdatum: 23.03.2005
-
+% Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin
+% Ausfertigungsdatum: 23.03.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, in Verbindung mit Artikel 2 § 27 des Gesetzes vom 20. Juli 2000 (BGBl. I S. 1045) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fleischer/Fleischerin wird
 
@@ -19,15 +15,13 @@ Der Ausbildungsberuf Fleischer/Fleischerin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung und § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung gliedert sich in
 
@@ -39,8 +33,7 @@ staatlich anerkannt.
 
 (3) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -94,23 +87,19 @@ staatlich anerkannt.
 
 6. Verpacken von Produkten.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage 1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -130,8 +119,7 @@ Bei der Durchführung der Aufgaben soll der Prüfling zeigen, dass er Arbeiten p
 
 (4) In höchstens 150 Minuten soll der Prüfling Aufgaben schriftlich bearbeiten, die sich auf die praktischen Aufgaben beziehen. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Rohstoffe beurteilen, Mengen bestimmen sowie lebensmittelrechtliche Vorschriften und Maßnahmen der Qualitätssicherung berücksichtigen kann.
 
-
-## § 9 – Gesellenprüfung/Abschlussprüfung
+# § 9 – Gesellenprüfung/Abschlussprüfung
 
 (1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -197,18 +185,15 @@ Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Bei der
 
 (7) Die Prüfung ist bestanden, wenn im praktischen Teil der Prüfung und im schriftlichen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In keiner der Aufgaben der Prüfungsteile dürfen ungenügende Leistungen erbracht worden sein.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage 1 – (zu § 5 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
+# Anlage 1 – (zu § 5 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin
 
 (Fundstelle: BGBl. I 2005, 901 - 905;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -589,8 +574,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
          I               I    und Kontrollen durchführen       I     I     I
     ------------------------------------------------------------------------------- 
 
-
-## Anlage 2 – (zu § 9 Absatz 2 Satz 4)Regelung zur Prüfung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Anhang IV der Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1, L 326 vom 11.11.2014, S. 6)
+# Anlage 2 – (zu § 9 Absatz 2 Satz 4)Regelung zur Prüfung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Anhang IV der Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1, L 326 vom 11.11.2014, S. 6)
 
 (Fundstelle: BGBl. I 2017, 38)
 

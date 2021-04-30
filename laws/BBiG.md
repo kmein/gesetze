@@ -1,13 +1,9 @@
-# [BBiG] Berufsbildungsgesetz  (BBiG)
-
-Ausfertigungsdatum: 23.03.2005
-
+% Berufsbildungsgesetz  (BBiG)
+% Ausfertigungsdatum: 23.03.2005
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Ziele und Begriffe der Berufsbildung
+# § 1 – Ziele und Begriffe der Berufsbildung
 
 (1) Berufsbildung im Sinne dieses Gesetzes sind die Berufsausbildungsvorbereitung, die Berufsausbildung, die berufliche Fortbildung und die berufliche Umschulung.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 23.03.2005
 
 (5) Die berufliche Umschulung soll zu einer anderen beruflichen Tätigkeit befähigen.
 
-
-## § 2 – Lernorte der Berufsbildung
+# § 2 – Lernorte der Berufsbildung
 
 (1) Berufsbildung wird durchgeführt
 
@@ -38,8 +33,7 @@ Ausfertigungsdatum: 23.03.2005
 
 (3) Teile der Berufsausbildung können im Ausland durchgeführt werden, wenn dies dem Ausbildungsziel dient. Ihre Gesamtdauer soll ein Viertel der in der Ausbildungsordnung festgelegten Ausbildungsdauer nicht überschreiten.
 
-
-## § 3 – Anwendungsbereich
+# § 3 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Berufsbildung, soweit sie nicht in berufsbildenden Schulen durchgeführt wird, die den Schulgesetzen der Länder unterstehen.
 
@@ -53,8 +47,7 @@ Ausfertigungsdatum: 23.03.2005
 
 (3) Für die Berufsbildung in Berufen der Handwerksordnung gelten die §§ 4 bis 9, 27 bis 49, 53 bis 70, 76 bis 80 sowie 101 Absatz 1 Nummer 1 bis 4 sowie Nummer 6 bis 10 nicht; insoweit gilt die Handwerksordnung.
 
-
-## § 4 – Anerkennung von Ausbildungsberufen
+# § 4 – Anerkennung von Ausbildungsberufen
 
 (1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung kann das Bundesministerium für Wirtschaft und Energie oder das sonst zuständige Fachministerium im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Ausbildungsberufe staatlich anerkennen und hierfür Ausbildungsordnungen nach § 5 erlassen.
 
@@ -66,8 +59,7 @@ Ausfertigungsdatum: 23.03.2005
 
 (5) Das zuständige Fachministerium informiert die Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die Abstimmung ein.
 
-
-## § 5 – Ausbildungsordnung
+# § 5 – Ausbildungsordnung
 
 (1) Die Ausbildungsordnung hat festzulegen
 
@@ -89,11 +81,9 @@ Bei der Festlegung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Satz 1 Num
 
 2. dass die Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen durchgeführt wird,
 
-2a.  
-dass im Fall einer Regelung nach Nummer 2 bei nicht bestandener Abschlussprüfung in einem drei- oder dreieinhalbjährigen Ausbildungsberuf, der auf einem zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen Ausbildungsberufs erworben wird, sofern im ersten Teil der Abschlussprüfung mindestens ausreichende Prüfungsleistungen erbracht worden sind,
+2a. dass im Fall einer Regelung nach Nummer 2 bei nicht bestandener Abschlussprüfung in einem drei- oder dreieinhalbjährigen Ausbildungsberuf, der auf einem zweijährigen Ausbildungsberuf aufbaut, der Abschluss des zweijährigen Ausbildungsberufs erworben wird, sofern im ersten Teil der Abschlussprüfung mindestens ausreichende Prüfungsleistungen erbracht worden sind,
 
-2b.  
-dass Auszubildende bei erfolgreichem Abschluss eines zweijährigen Ausbildungsberufs vom ersten Teil der Abschlussprüfung oder einer Zwischenprüfung eines darauf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs befreit sind,
+2b. dass Auszubildende bei erfolgreichem Abschluss eines zweijährigen Ausbildungsberufs vom ersten Teil der Abschlussprüfung oder einer Zwischenprüfung eines darauf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs befreit sind,
 
 3. dass abweichend von § 4 Absatz 4 die Berufsausbildung in diesem Ausbildungsberuf unter Anrechnung der bereits zurückgelegten Ausbildungszeit fortgesetzt werden kann, wenn die Vertragsparteien dies vereinbaren,
 
@@ -107,13 +97,11 @@ Im Fall des Satzes 1 Nummer 2a bedarf es eines Antrags der Auszubildenden. Im Fa
 
 (+++ § 5 Abs. 2 Satz 1: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 ( früher § 104) +++)
 
-
-## § 6 – Erprobung neuer Ausbildungs- und Prüfungsformen
+# § 6 – Erprobung neuer Ausbildungs- und Prüfungsformen
 
 Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bundesministerium für Wirtschaft und Energie oder das sonst zuständige Fachministerium im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Ausnahmen von § 4 Absatz 2 und 3 sowie den §§ 5, 37 und 48 zulassen, die auch auf eine bestimmte Art und Zahl von Ausbildungsstätten beschränkt werden können.
 
-
-## § 7 – Anrechnung beruflicher Vorbildung auf die Ausbildungsdauer
+# § 7 – Anrechnung beruflicher Vorbildung auf die Ausbildungsdauer
 
 (1) Die Landesregierungen können nach Anhörung des Landesausschusses für Berufsbildung durch Rechtsverordnung bestimmen, dass der Besuch eines Bildungsganges berufsbildender Schulen oder die Berufsausbildung in einer sonstigen Einrichtung ganz oder teilweise auf die Ausbildungsdauer angerechnet wird. Die Ermächtigung kann durch Rechtsverordnung auf oberste Landesbehörden weiter übertragen werden.
 
@@ -123,8 +111,7 @@ Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bu
 
 (4) Ein Anrechnungszeitraum muss in ganzen Monaten durch sechs teilbar sein.
 
-
-## § 7a – Teilzeitberufsausbildung
+# § 7a – Teilzeitberufsausbildung
 
 (1) Die Berufsausbildung kann in Teilzeit durchgeführt werden. Im Berufsausbildungsvertrag ist für die gesamte Ausbildungszeit oder für einen bestimmten Zeitraum der Berufsausbildung die Verkürzung der täglichen oder der wöchentlichen Ausbildungszeit zu vereinbaren. Die Kürzung der täglichen oder der wöchentlichen Ausbildungszeit darf nicht mehr als 50 Prozent betragen.
 
@@ -134,8 +121,7 @@ Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bu
 
 (4) Der Antrag auf Eintragung des Berufsausbildungsvertrages nach § 36 Absatz 1 in das Verzeichnis der Berufsausbildungsverhältnisse für eine Teilzeitberufsausbildung kann mit einem Antrag auf Verkürzung der Ausbildungsdauer nach § 8 Absatz 1 verbunden werden.
 
-
-## § 8 – Verkürzung oder Verlängerung der Ausbildungsdauer
+# § 8 – Verkürzung oder Verlängerung der Ausbildungsdauer
 
 (1) Auf gemeinsamen Antrag der Auszubildenden und der Ausbildenden hat die zuständige Stelle die Ausbildungsdauer zu kürzen, wenn zu erwarten ist, dass das Ausbildungsziel in der gekürzten Dauer erreicht wird.
 
@@ -143,13 +129,11 @@ Zur Entwicklung und Erprobung neuer Ausbildungs- und Prüfungsformen kann das Bu
 
 (3) Für die Entscheidung über die Verkürzung oder Verlängerung der Ausbildungsdauer kann der Hauptausschuss des Bundesinstituts für Berufsbildung Empfehlungen beschließen.
 
-
-## § 9 – Regelungsbefugnis
+# § 9 – Regelungsbefugnis
 
 Soweit Vorschriften nicht bestehen, regelt die zuständige Stelle die Durchführung der Berufsausbildung im Rahmen dieses Gesetzes.
 
-
-## § 10 – Vertrag
+# § 10 – Vertrag
 
 (1) Wer andere Personen zur Berufsausbildung einstellt (Ausbildende), hat mit den Auszubildenden einen Berufsausbildungsvertrag zu schließen.
 
@@ -161,8 +145,7 @@ Soweit Vorschriften nicht bestehen, regelt die zuständige Stelle die Durchführ
 
 (5) Zur Erfüllung der vertraglichen Verpflichtungen der Ausbildenden können mehrere natürliche oder juristische Personen in einem Ausbildungsverbund zusammenwirken, soweit die Verantwortlichkeit für die einzelnen Ausbildungsabschnitte sowie für die Ausbildungszeit insgesamt sichergestellt ist (Verbundausbildung).
 
-
-## § 11 – Vertragsniederschrift
+# § 11 – Vertragsniederschrift
 
 (1) Ausbildende haben unverzüglich nach Abschluss des Berufsausbildungsvertrages, spätestens vor Beginn der Berufsausbildung, den wesentlichen Inhalt des Vertrages gemäß Satz 2 schriftlich niederzulegen; die elektronische Form ist ausgeschlossen. In die Niederschrift sind mindestens aufzunehmen
 
@@ -194,8 +177,7 @@ Soweit Vorschriften nicht bestehen, regelt die zuständige Stelle die Durchführ
 
 (+++ § 11 Abs. 1 Satz 2: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 (früher § 104) +++)
 
-
-## § 12 – Nichtige Vereinbarungen
+# § 12 – Nichtige Vereinbarungen
 
 (1) Eine Vereinbarung, die Auszubildende für die Zeit nach Beendigung des Berufsausbildungsverhältnisses in der Ausübung ihrer beruflichen Tätigkeit beschränkt, ist nichtig. Dies gilt nicht, wenn sich Auszubildende innerhalb der letzten sechs Monate des Berufsausbildungsverhältnisses dazu verpflichten, nach dessen Beendigung mit den Ausbildenden ein Arbeitsverhältnis einzugehen.
 
@@ -209,8 +191,7 @@ Soweit Vorschriften nicht bestehen, regelt die zuständige Stelle die Durchführ
 
 4. die Festsetzung der Höhe eines Schadensersatzes in Pauschbeträgen.
 
-
-## § 13 – Verhalten während der Berufsausbildung
+# § 13 – Verhalten während der Berufsausbildung
 
 Auszubildende haben sich zu bemühen, die berufliche Handlungsfähigkeit zu erwerben, die zum Erreichen des Ausbildungsziels erforderlich ist. Sie sind insbesondere verpflichtet,
 
@@ -230,8 +211,7 @@ Auszubildende haben sich zu bemühen, die berufliche Handlungsfähigkeit zu erwe
 
 (+++ § 13 Satz 2: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 (früher § 104) +++)
 
-
-## § 14 – Berufsausbildung
+# § 14 – Berufsausbildung
 
 (1) Ausbildende haben
 
@@ -251,8 +231,7 @@ Auszubildende haben sich zu bemühen, die berufliche Handlungsfähigkeit zu erwe
 
 (+++ § 14: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 (früher § 104) +++)
 
-
-## § 15 – Freistellung, Anrechnung
+# § 15 – Freistellung, Anrechnung
 
 (1) Ausbildende dürfen Auszubildende vor einem vor 9 Uhr beginnenden Berufsschulunterricht nicht beschäftigen. Sie haben Auszubildende freizustellen
 
@@ -282,15 +261,13 @@ Im Fall von Satz 2 Nummer 3 sind zusätzliche betriebliche Ausbildungsveranstalt
 
 (3) Für Auszubildende unter 18 Jahren gilt das Jugendarbeitsschutzgesetz.
 
-
-## § 16 – Zeugnis
+# § 16 – Zeugnis
 
 (1) Ausbildende haben den Auszubildenden bei Beendigung des Berufsausbildungsverhältnisses ein schriftliches Zeugnis auszustellen. Die elektronische Form ist ausgeschlossen. Haben Ausbildende die Berufsausbildung nicht selbst durchgeführt, so soll auch der Ausbilder oder die Ausbilderin das Zeugnis unterschreiben.
 
 (2) Das Zeugnis muss Angaben enthalten über Art, Dauer und Ziel der Berufsausbildung sowie über die erworbenen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten der Auszubildenden. Auf Verlangen Auszubildender sind auch Angaben über Verhalten und Leistung aufzunehmen.
 
-
-## § 17 – Vergütungsanspruch und Mindestvergütung
+# § 17 – Vergütungsanspruch und Mindestvergütung
 
 (1) Ausbildende haben Auszubildenden eine angemessene Vergütung zu gewähren. Die Vergütung steigt mit fortschreitender Berufsausbildung, mindestens jährlich, an.
 
@@ -326,8 +303,7 @@ Die Höhe der Mindestvergütung nach Satz 1 Nummer 1 wird zum 1. Januar eines je
 
 (+++ § 17: Zur Anwendung in der bis zum Ablauf des 31.12.2019 geltenden Fassung vgl. § 106 Abs. 1 +++)
 
-
-## § 18 – Bemessung und Fälligkeit der Vergütung
+# § 18 – Bemessung und Fälligkeit der Vergütung
 
 (1) Die Vergütung bemisst sich nach Monaten. Bei Berechnung der Vergütung für einzelne Tage wird der Monat zu 30 Tagen gerechnet.
 
@@ -335,8 +311,7 @@ Die Höhe der Mindestvergütung nach Satz 1 Nummer 1 wird zum 1. Januar eines je
 
 (3) Gilt für Ausbildende nicht nach § 3 Absatz 1 des Tarifvertragsgesetzes eine tarifvertragliche Vergütungsregelung, sind sie verpflichtet, den bei ihnen beschäftigten Auszubildenden spätestens zu dem in Absatz 2 genannten Zeitpunkt eine Vergütung mindestens in der bei Beginn der Berufsausbildung geltenden Höhe der Mindestvergütung nach § 17 Absatz 2 Satz 1 zu zahlen. Satz 1 findet bei einer Teilzeitberufsausbildung mit der Maßgabe Anwendung, dass die Vergütungshöhe mindestens dem prozentualen Anteil an der Arbeitszeit entsprechen muss.
 
-
-## § 19 – Fortzahlung der Vergütung
+# § 19 – Fortzahlung der Vergütung
 
 (1) Auszubildenden ist die Vergütung auch zu zahlen
 
@@ -350,13 +325,11 @@ b) aus einem sonstigen, in ihrer Person liegenden Grund unverschuldet verhindert
 
 (2) Können Auszubildende während der Zeit, für welche die Vergütung fortzuzahlen ist, aus berechtigtem Grund Sachleistungen nicht abnehmen, so sind diese nach den Sachbezugswerten (§ 17 Absatz 6) abzugelten.
 
-
-## § 20 – Probezeit
+# § 20 – Probezeit
 
 Das Berufsausbildungsverhältnis beginnt mit der Probezeit. Sie muss mindestens einen Monat und darf höchstens vier Monate betragen.
 
-
-## § 21 – Beendigung
+# § 21 – Beendigung
 
 (1) Das Berufsausbildungsverhältnis endet mit dem Ablauf der Ausbildungsdauer. Im Falle der Stufenausbildung endet es mit Ablauf der letzten Stufe.
 
@@ -364,8 +337,7 @@ Das Berufsausbildungsverhältnis beginnt mit der Probezeit. Sie muss mindestens 
 
 (3) Bestehen Auszubildende die Abschlussprüfung nicht, so verlängert sich das Berufsausbildungsverhältnis auf ihr Verlangen bis zur nächstmöglichen Wiederholungsprüfung, höchstens um ein Jahr.
 
-
-## § 22 – Kündigung
+# § 22 – Kündigung
 
 (1) Während der Probezeit kann das Berufsausbildungsverhältnis jederzeit ohne Einhalten einer Kündigungsfrist gekündigt werden.
 
@@ -379,30 +351,25 @@ Das Berufsausbildungsverhältnis beginnt mit der Probezeit. Sie muss mindestens 
 
 (4) Eine Kündigung aus einem wichtigen Grund ist unwirksam, wenn die ihr zugrunde liegenden Tatsachen dem zur Kündigung Berechtigten länger als zwei Wochen bekannt sind. Ist ein vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen Beendigung der Lauf dieser Frist gehemmt.
 
-
-## § 23 – Schadensersatz bei vorzeitiger Beendigung
+# § 23 – Schadensersatz bei vorzeitiger Beendigung
 
 (1) Wird das Berufsausbildungsverhältnis nach der Probezeit vorzeitig gelöst, so können Ausbildende oder Auszubildende Ersatz des Schadens verlangen, wenn die andere Person den Grund für die Auflösung zu vertreten hat. Dies gilt nicht im Falle des § 22 Absatz 2 Nummer 2.
 
 (2) Der Anspruch erlischt, wenn er nicht innerhalb von drei Monaten nach Beendigung des Berufsausbildungsverhältnisses geltend gemacht wird.
 
-
-## § 24 – Weiterarbeit
+# § 24 – Weiterarbeit
 
 Werden Auszubildende im Anschluss an das Berufsausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
-
-## § 25 – Unabdingbarkeit
+# § 25 – Unabdingbarkeit
 
 Eine Vereinbarung, die zuungunsten Auszubildender von den Vorschriften dieses Teils des Gesetzes abweicht, ist nichtig.
 
-
-## § 26 – Andere Vertragsverhältnisse
+# § 26 – Andere Vertragsverhältnisse
 
 Soweit nicht ein Arbeitsverhältnis vereinbart ist, gelten für Personen, die eingestellt werden, um berufliche Fertigkeiten, Kenntnisse, Fähigkeiten oder berufliche Erfahrungen zu erwerben, ohne dass es sich um eine Berufsausbildung im Sinne dieses Gesetzes handelt, die §§ 10 bis 16 und 17 Absatz 1, 6 und 7 sowie die §§ 18 bis 23 und 25 mit der Maßgabe, dass die gesetzliche Probezeit abgekürzt, auf die Vertragsniederschrift verzichtet und bei vorzeitiger Lösung des Vertragsverhältnisses nach Ablauf der Probezeit abweichend von § 23 Absatz 1 Satz 1 Schadensersatz nicht verlangt werden kann.
 
-
-## § 27 – Eignung der Ausbildungsstätte
+# § 27 – Eignung der Ausbildungsstätte
 
 (1) Auszubildende dürfen nur eingestellt und ausgebildet werden, wenn
 
@@ -416,8 +383,7 @@ Soweit nicht ein Arbeitsverhältnis vereinbart ist, gelten für Personen, die ei
 
 (4) Eine Ausbildungsstätte ist nach Art und Einrichtung für die Berufsausbildung in Berufen der Hauswirtschaft nur geeignet, wenn sie von der nach Landesrecht zuständigen Behörde als Ausbildungsstätte anerkannt ist. Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Mindestanforderungen für die Größe, die Einrichtung und den Bewirtschaftungszustand der Ausbildungsstätte festsetzen.
 
-
-## § 28 – Eignung von Ausbildenden und Ausbildern oder Ausbilderinnen
+# § 28 – Eignung von Ausbildenden und Ausbildern oder Ausbilderinnen
 
 (1) Auszubildende darf nur einstellen, wer persönlich geeignet ist. Auszubildende darf nur ausbilden, wer persönlich und fachlich geeignet ist.
 
@@ -425,8 +391,7 @@ Soweit nicht ein Arbeitsverhältnis vereinbart ist, gelten für Personen, die ei
 
 (3) Unter der Verantwortung des Ausbilders oder der Ausbilderin kann bei der Berufsausbildung mitwirken, wer selbst nicht Ausbilder oder Ausbilderin ist, aber abweichend von den besonderen Voraussetzungen des § 30 die für die Vermittlung von Ausbildungsinhalten erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt und persönlich geeignet ist.
 
-
-## § 29 – Persönliche Eignung
+# § 29 – Persönliche Eignung
 
 Persönlich nicht geeignet ist insbesondere, wer
 
@@ -434,8 +399,7 @@ Persönlich nicht geeignet ist insbesondere, wer
 
 2. wiederholt oder schwer gegen dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen Vorschriften und Bestimmungen verstoßen hat.
 
-
-## § 30 – Fachliche Eignung
+# § 30 – Fachliche Eignung
 
 (1) Fachlich geeignet ist, wer die beruflichen sowie die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt, die für die Vermittlung der Ausbildungsinhalte erforderlich sind.
 
@@ -465,8 +429,7 @@ und eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist.
 
 (6) Die nach Landesrecht zuständige Behörde kann Personen, die die Voraussetzungen des Absatzes 2, 4 oder 5 nicht erfüllen, die fachliche Eignung nach Anhörung der zuständigen Stelle widerruflich zuerkennen.
 
-
-## § 31 – Europaklausel
+# § 31 – Europaklausel
 
 (1) In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten auch, wer die Voraussetzungen für die Anerkennung seiner Berufsqualifikation nach der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255, S. 22) erfüllt, sofern er eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist. § 30 Absatz 4 Nummer 3 bleibt unberührt.
 
@@ -474,20 +437,17 @@ und eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist.
 
 (3) Die Entscheidung über die Anerkennung trifft die zuständige Stelle. Sie kann die Durchführung von Anpassungslehrgängen und Eignungsprüfungen regeln.
 
-
-## § 31a – Sonstige ausländische Vorqualifikationen
+# § 31a – Sonstige ausländische Vorqualifikationen
 
 In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten, wer die Voraussetzungen von § 2 Absatz 1 in Verbindung mit § 9 des Berufsqualifikationsfeststellungsgesetzes erfüllt und nicht in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Europäischen Wirtschaftsraums oder der Schweiz seinen Befähigungsnachweis erworben hat, sofern er eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist. § 30 Absatz 4 Nummer 3 bleibt unberührt.
 
-
-## § 32 – Überwachung der Eignung
+# § 32 – Überwachung der Eignung
 
 (1) Die zuständige Stelle hat darüber zu wachen, dass die Eignung der Ausbildungsstätte sowie die persönliche und fachliche Eignung vorliegen.
 
 (2) Werden Mängel der Eignung festgestellt, so hat die zuständige Stelle, falls der Mangel zu beheben und eine Gefährdung Auszubildender nicht zu erwarten ist, Ausbildende aufzufordern, innerhalb einer von ihr gesetzten Frist den Mangel zu beseitigen. Ist der Mangel der Eignung nicht zu beheben oder ist eine Gefährdung Auszubildender zu erwarten oder wird der Mangel nicht innerhalb der gesetzten Frist beseitigt, so hat die zuständige Stelle dies der nach Landesrecht zuständigen Behörde mitzuteilen.
 
-
-## § 33 – Untersagung des Einstellens und Ausbildens
+# § 33 – Untersagung des Einstellens und Ausbildens
 
 (1) Die nach Landesrecht zuständige Behörde kann für eine bestimmte Ausbildungsstätte das Einstellen und Ausbilden untersagen, wenn die Voraussetzungen nach § 27 nicht oder nicht mehr vorliegen.
 
@@ -495,8 +455,7 @@ In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung e
 
 (3) Vor der Untersagung sind die Beteiligten und die zuständige Stelle zu hören. Dies gilt nicht im Falle des § 29 Nummer 1.
 
-
-## § 34 – Einrichten, Führen
+# § 34 – Einrichten, Führen
 
 (1) Die zuständige Stelle hat für anerkannte Ausbildungsberufe ein Verzeichnis der Berufsausbildungsverhältnisse einzurichten und zu führen, in das der Berufsausbildungsvertrag einzutragen ist. Die Eintragung ist für Auszubildende gebührenfrei.
 
@@ -526,8 +485,7 @@ In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung e
 
 (+++ § 34: Zur Geltung und Anwendung vgl. § 106 Abs. 2 +++)
 
-
-## § 35 – Eintragen, Ändern, Löschen
+# § 35 – Eintragen, Ändern, Löschen
 
 (1) Ein Berufsausbildungsvertrag und Änderungen seines wesentlichen Inhalts sind in das Verzeichnis einzutragen, wenn
 
@@ -543,15 +501,13 @@ In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung e
 
 (+++ § 35 Abs. 3 Satz 1: Zur Anwendung in der am 31.12.2019 geltenden Fassung vgl. § 106 Abs. 2 Satz 2 +++)
 
-
-## § 36 – Antrag und Mitteilungspflichten
+# § 36 – Antrag und Mitteilungspflichten
 
 (1) Ausbildende haben unverzüglich nach Abschluss des Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu beantragen. Der Antrag kann schriftlich oder elektronisch gestellt werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen. Auf einen betrieblichen Ausbildungsplan im Sinne von § 11 Absatz 1 Satz 2 Nummer 1, der der zuständigen Stelle bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
 (2) Ausbildende und Auszubildende sind verpflichtet, den zuständigen Stellen die zur Eintragung nach § 34 erforderlichen Tatsachen auf Verlangen mitzuteilen.
 
-
-## § 37 – Abschlussprüfung
+# § 37 – Abschlussprüfung
 
 (1) In den anerkannten Ausbildungsberufen sind Abschlussprüfungen durchzuführen. Die Abschlussprüfung kann im Falle des Nichtbestehens zweimal wiederholt werden. Sofern die Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen durchgeführt wird, ist der erste Teil der Abschlussprüfung nicht eigenständig wiederholbar.
 
@@ -561,13 +517,11 @@ In den Fällen des § 30 Absatz 2 und 4 besitzt die für die fachliche Eignung e
 
 (4) Die Abschlussprüfung ist für Auszubildende gebührenfrei.
 
-
-## § 38 – Prüfungsgegenstand
+# § 38 – Prüfungsgegenstand
 
 Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In ihr soll der Prüfling nachweisen, dass er die erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
-
-## § 39 – Prüfungsausschüsse, Prüferdelegationen
+# § 39 – Prüfungsausschüsse, Prüferdelegationen
 
 (1) Für die Durchführung der Abschlussprüfung errichtet die zuständige Stelle Prüfungsausschüsse. Mehrere zuständige Stellen können bei einer von ihnen gemeinsame Prüfungsausschüsse errichten.
 
@@ -575,8 +529,7 @@ Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche H
 
 (3) Prüfungsausschüsse oder Prüferdelegationen nach § 42 Absatz 2 können zur Bewertung einzelner, nicht mündlich zu erbringender Prüfungsleistungen gutachterliche Stellungnahmen Dritter, insbesondere berufsbildender Schulen, einholen. Im Rahmen der Begutachtung sind die wesentlichen Abläufe zu dokumentieren und die für die Bewertung erheblichen Tatsachen festzuhalten.
 
-
-## § 40 – Zusammensetzung, Berufung
+# § 40 – Zusammensetzung, Berufung
 
 (1) Der Prüfungsausschuss besteht aus mindestens drei Mitgliedern. Die Mitglieder müssen für die Prüfungsgebiete sachkundig und für die Mitwirkung im Prüfungswesen geeignet sein.
 
@@ -598,15 +551,13 @@ Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche H
 
 (7) Von Absatz 2 darf nur abgewichen werden, wenn anderenfalls die erforderliche Zahl von Mitgliedern des Prüfungsausschusses nicht berufen werden kann.
 
-
-## § 41 – Vorsitz, Beschlussfähigkeit, Abstimmung
+# § 41 – Vorsitz, Beschlussfähigkeit, Abstimmung
 
 (1) Der Prüfungsausschuss wählt ein Mitglied, das den Vorsitz führt, und ein weiteres Mitglied, das den Vorsitz stellvertretend übernimmt. Der Vorsitz und das ihn stellvertretende Mitglied sollen nicht derselben Mitgliedergruppe angehören.
 
 (2) Der Prüfungsausschuss ist beschlussfähig, wenn zwei Drittel der Mitglieder, mindestens drei, mitwirken. Er beschließt mit der Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des vorsitzenden Mitglieds den Ausschlag.
 
-
-## § 42 – Beschlussfassung, Bewertung der Abschlussprüfung
+# § 42 – Beschlussfassung, Bewertung der Abschlussprüfung
 
 (1) Der Prüfungsausschuss fasst die Beschlüsse über
 
@@ -626,8 +577,7 @@ Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche H
 
 (6) Sieht die Ausbildungsordnung vor, dass Auszubildende bei erfolgreichem Abschluss eines zweijährigen Ausbildungsberufs vom ersten Teil der Abschlussprüfung eines darauf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs befreit sind, so ist das Ergebnis der Abschlussprüfung des zweijährigen Ausbildungsberufs vom Prüfungsausschuss als das Ergebnis des ersten Teils der Abschlussprüfung des auf dem zweijährigen Ausbildungsberuf aufbauenden drei- oder dreieinhalbjährigen Ausbildungsberufs zu übernehmen.
 
-
-## § 43 – Zulassung zur Abschlussprüfung
+# § 43 – Zulassung zur Abschlussprüfung
 
 (1) Zur Abschlussprüfung ist zuzulassen,
 
@@ -647,8 +597,7 @@ Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche H
 
 (+++ § 43 Abs. 1 Nr. 2: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 (früher § 104) +++)
 
-
-## § 44 – Zulassung zur Abschlussprüfung bei zeitlich auseinanderfallenden Teilen
+# § 44 – Zulassung zur Abschlussprüfung bei zeitlich auseinanderfallenden Teilen
 
 (1) Sofern die Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen durchgeführt wird, ist über die Zulassung jeweils gesondert zu entscheiden.
 
@@ -664,8 +613,7 @@ Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche H
 
 Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Abschlussprüfung zusammen mit dem zweiten Teil abzulegen.
 
-
-## § 45 – Zulassung in besonderen Fällen
+# § 45 – Zulassung in besonderen Fällen
 
 (1) Auszubildende können nach Anhörung der Ausbildenden und der Berufsschule vor Ablauf ihrer Ausbildungszeit zur Abschlussprüfung zugelassen werden, wenn ihre Leistungen dies rechtfertigen.
 
@@ -673,15 +621,13 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Abschlussprüfung zusammen 
 
 (3) Soldaten oder Soldatinnen auf Zeit und ehemalige Soldaten oder Soldatinnen sind nach Absatz 2 Satz 3 zur Abschlussprüfung zuzulassen, wenn das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle bescheinigt, dass der Bewerber oder die Bewerberin berufliche Fertigkeiten, Kenntnisse und Fähigkeiten erworben hat, welche die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 46 – Entscheidung über die Zulassung
+# § 46 – Entscheidung über die Zulassung
 
 (1) Über die Zulassung zur Abschlussprüfung entscheidet die zuständige Stelle. Hält sie die Zulassungsvoraussetzungen nicht für gegeben, so entscheidet der Prüfungsausschuss.
 
 (2) Auszubildenden, die Elternzeit in Anspruch genommen haben, darf bei der Entscheidung über die Zulassung hieraus kein Nachteil erwachsen.
 
-
-## § 47 – Prüfungsordnung
+# § 47 – Prüfungsordnung
 
 (1) Die zuständige Stelle hat eine Prüfungsordnung für die Abschlussprüfung zu erlassen. Die Prüfungsordnung bedarf der Genehmigung der zuständigen obersten Landesbehörde.
 
@@ -695,8 +641,7 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Abschlussprüfung zusammen 
 
 (6) Der Hauptausschuss des Bundesinstituts für Berufsbildung erlässt für die Prüfungsordnung Richtlinien.
 
-
-## § 48 – Zwischenprüfungen
+# § 48 – Zwischenprüfungen
 
 (1) Während der Berufsausbildung ist zur Ermittlung des Ausbildungsstandes eine Zwischenprüfung entsprechend der Ausbildungsordnung durchzuführen. Die §§ 37 bis 39 gelten entsprechend.
 
@@ -708,39 +653,33 @@ Im Fall des Satzes 1 Nummer 3 ist der erste Teil der Abschlussprüfung zusammen 
 
 (3) Umzuschulende sind auf ihren Antrag zur Zwischenprüfung zuzulassen.
 
-
-## § 49 – Zusatzqualifikationen
+# § 49 – Zusatzqualifikationen
 
 (1) Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten nach § 5 Absatz 2 Nummer 5 werden gesondert geprüft und bescheinigt. Das Ergebnis der Prüfung nach § 37 bleibt unberührt.
 
 (2) § 37 Absatz 3 und 4 sowie die §§ 39 bis 42 und 47 gelten entsprechend.
 
-
-## § 50 – Gleichstellung von Prüfungszeugnissen
+# § 50 – Gleichstellung von Prüfungszeugnissen
 
 (1) Das Bundesministerium für Wirtschaft und Energie oder das sonst zuständige Fachministerium kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der Abschlussprüfung gleichstellen, wenn die Berufsausbildung und die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
 (2) Das Bundesministerium für Wirtschaft und Energie oder das sonst zuständige Fachministerium kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der Abschlussprüfung gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-
-## § 50a – Gleichwertigkeit ausländischer Berufsqualifikationen
+# § 50a – Gleichwertigkeit ausländischer Berufsqualifikationen
 
 Ausländische Berufsqualifikationen stehen einer bestandenen Aus- oder Fortbildungsprüfung nach diesem Gesetz gleich, wenn die Gleichwertigkeit der beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten nach dem Berufsqualifikationsfeststellungsgesetz festgestellt wurde.
 
-
-## § 51 – Interessenvertretung
+# § 51 – Interessenvertretung
 
 (1) Auszubildende, deren praktische Berufsbildung in einer sonstigen Berufsbildungseinrichtung außerhalb der schulischen und betrieblichen Berufsbildung (§ 2 Absatz 1 Nummer 3) mit in der Regel mindestens fünf Auszubildenden stattfindet und die nicht wahlberechtigt zum Betriebsrat nach § 7 des Betriebsverfassungsgesetzes, zur Jugend- und Auszubildendenvertretung nach § 60 des Betriebsverfassungsgesetzes oder zur Mitwirkungsvertretung nach § 52 des Neunten Buches Sozialgesetzbuch sind (außerbetriebliche Auszubildende), wählen eine besondere Interessenvertretung.
 
 (2) Absatz 1 findet keine Anwendung auf Berufsbildungseinrichtungen von Religionsgemeinschaften sowie auf andere Berufsbildungseinrichtungen, soweit sie eigene gleichwertige Regelungen getroffen haben.
 
-
-## § 52 – Verordnungsermächtigung
+# § 52 – Verordnungsermächtigung
 
 Das Bundesministerium für Bildung und Forschung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Fragen bestimmen, auf die sich die Beteiligung erstreckt, die Zusammensetzung und die Amtszeit der Interessenvertretung, die Durchführung der Wahl, insbesondere die Feststellung der Wahlberechtigung und der Wählbarkeit sowie Art und Umfang der Beteiligung.
 
-
-## § 53 – Fortbildungsordnungen der höherqualifizierenden Berufsbildung
+# § 53 – Fortbildungsordnungen der höherqualifizierenden Berufsbildung
 
 (1) Als Grundlage für eine einheitliche höherqualifizierende Berufsbildung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie oder mit dem sonst zuständigen Fachministerium nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Abschlüsse der höherqualifizierenden Berufsbildung anerkennen und hierfür Prüfungsregelungen erlassen (Fortbildungsordnungen).
 
@@ -762,8 +701,7 @@ Das Bundesministerium für Bildung und Forschung kann durch Rechtsverordnung, di
 
 2. in Berufen der Hauswirtschaft durch das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung erlassen.
 
-
-## § 53a – Fortbildungsstufen
+# § 53a – Fortbildungsstufen
 
 (1) Die Fortbildungsstufen der höherqualifizierenden Berufsbildung sind
 
@@ -775,8 +713,7 @@ Das Bundesministerium für Bildung und Forschung kann durch Rechtsverordnung, di
 
 (2) Jede Fortbildungsordnung, die eine höherqualifizierende Berufsbildung der ersten Fortbildungsstufe regelt, soll auf einen Abschluss der zweiten Fortbildungsstufe hinführen.
 
-
-## § 53b – Geprüfter Berufsspezialist und Geprüfte Berufsspezialistin
+# § 53b – Geprüfter Berufsspezialist und Geprüfte Berufsspezialistin
 
 (1) Den Fortbildungsabschluss des Geprüften Berufsspezialisten oder der Geprüften Berufsspezialistin erlangt, wer eine Prüfung der ersten beruflichen Fortbildungsstufe besteht.
 
@@ -796,8 +733,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 2. die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
 
-
-## § 53c – Bachelor Professional
+# § 53c – Bachelor Professional
 
 (1) Den Fortbildungsabschluss Bachelor Professional erlangt, wer eine Prüfung der zweiten beruflichen Fortbildungsstufe erfolgreich besteht.
 
@@ -815,8 +751,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 2. die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
 
-
-## § 53d – Master Professional
+# § 53d – Master Professional
 
 (1) Den Fortbildungsabschluss Master Professional erlangt, wer die Prüfung der dritten beruflichen Fortbildungsstufe besteht.
 
@@ -836,8 +771,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 2. die Prüfung einer gleichwertigen beruflichen Fortbildung auf der Grundlage bundes- oder landesrechtlicher Regelungen, die diese Abschlussbezeichnung vorsehen, bestanden hat.
 
-
-## § 53e – Anpassungsfortbildungsordnungen
+# § 53e – Anpassungsfortbildungsordnungen
 
 (1) Als Grundlage für eine einheitliche Anpassungsfortbildung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie oder dem sonst zuständigen Fachministerium nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Fortbildungsabschlüsse anerkennen und hierfür Prüfungsregelungen erlassen (Anpassungsfortbildungsordnungen).
 
@@ -857,8 +791,7 @@ Der Lernumfang für den Erwerb dieser Fertigkeiten, Kenntnisse und Fähigkeiten 
 
 2. in Berufen der Hauswirtschaft durch das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung erlassen.
 
-
-## § 54 – Fortbildungsprüfungsregelungen der zuständigen Stellen
+# § 54 – Fortbildungsprüfungsregelungen der zuständigen Stellen
 
 (1) Sofern für einen Fortbildungsabschluss weder eine Fortbildungsordnung noch eine Anpassungsfortbildungsordnung erlassen worden ist, kann die zuständige Stelle Fortbildungsprüfungsregelungen erlassen. Wird im Fall des § 71 Absatz 8 als zuständige Stelle eine Landesbehörde bestimmt, so erlässt die zuständige Landesregierung die Fortbildungsprüfungsregelungen durch Rechtsverordnung. Die Ermächtigung nach Satz 2 kann durch Rechtsverordnung auf die von ihr bestimmte zuständige Stelle übertragen werden.
 
@@ -884,13 +817,11 @@ Der Abschlussbezeichnung nach Satz 1 ist in Klammern ein Zusatz beizufügen, aus
 
 (4) Eine Abschlussbezeichnung, die in einer von der zuständigen obersten Landesbehörde bestätigten Fortbildungsprüfungsregelung enthalten ist, darf nur führen, wer die Prüfung bestanden hat.
 
-
-## § 55 – Berücksichtigung ausländischer Vorqualifikationen
+# § 55 – Berücksichtigung ausländischer Vorqualifikationen
 
 Sofern Fortbildungsordnungen, Anpassungsfortbildungsordnungen oder Fortbildungsprüfungsregelungen nach § 54 Zulassungsvoraussetzungen zu Prüfungen vorsehen, sind ausländische Bildungsabschlüsse und Zeiten der Berufstätigkeit im Ausland zu berücksichtigen.
 
-
-## § 56 – Fortbildungsprüfungen
+# § 56 – Fortbildungsprüfungen
 
 (1) Für die Durchführung von Prüfungen im Bereich der beruflichen Fortbildung errichtet die zuständige Stelle Prüfungsausschüsse. § 37 Absatz 2 Satz 1 und 2 und Absatz 3 Satz 1 sowie § 39 Absatz 1 Satz 2, Absatz 2 und 3 und die §§ 40 bis 42, 46 und 47 sind entsprechend anzuwenden.
 
@@ -903,13 +834,11 @@ Sofern Fortbildungsordnungen, Anpassungsfortbildungsordnungen oder Fortbildungsp
 (+++ § 56 Abs. 2: Zur Anwendung vgl. § 17 RevierjagdMeisterPrV +++)  
 (+++ § 56 Abs. 2: Zur Nichtanwendung vgl. § 19 Abs. 3 Satz 3 GepBetrWMAProBusManFV +++)
 
-
-## § 57 – Gleichstellung von Prüfungszeugnissen
+# § 57 – Gleichstellung von Prüfungszeugnissen
 
 Das Bundesministerium für Wirtschaft und Energie oder das sonst zuständige Fachministerium kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung Prüfungszeugnisse, die außerhalb des Anwendungsbereichs dieses Gesetzes oder im Ausland erworben worden sind, den entsprechenden Zeugnissen über das Bestehen einer Fortbildungsprüfung auf der Grundlage der §§ 53b bis 53e und 54 gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-
-## § 58 – Umschulungsordnung
+# § 58 – Umschulungsordnung
 
 Als Grundlage für eine geordnete und einheitliche berufliche Umschulung kann das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie oder dem sonst zuständigen Fachministerium nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -923,23 +852,19 @@ Als Grundlage für eine geordnete und einheitliche berufliche Umschulung kann da
 
 unter Berücksichtigung der besonderen Erfordernisse der beruflichen Erwachsenenbildung bestimmen (Umschulungsordnung).
 
-
-## § 59 – Umschulungsprüfungsregelungen der zuständigen Stellen
+# § 59 – Umschulungsprüfungsregelungen der zuständigen Stellen
 
 Soweit Rechtsverordnungen nach § 58 nicht erlassen sind, kann die zuständige Stelle Umschulungsprüfungsregelungen erlassen. Wird im Fall des § 71 Absatz 8 als zuständige Stelle eine Landesbehörde bestimmt, so erlässt die zuständige Landesregierung die Umschulungsprüfungsregelungen durch Rechtsverordnung. Die Ermächtigung nach Satz 2 kann durch Rechtsverordnung auf die von ihr bestimmte zuständige Stelle übertragen werden. Die zuständige Stelle regelt die Bezeichnung des Umschulungsabschlusses, Ziel, Inhalt und Anforderungen der Prüfungen, die Zulassungsvoraussetzungen sowie das Prüfungsverfahren unter Berücksichtigung der besonderen Erfordernisse beruflicher Erwachsenenbildung.
 
-
-## § 60 – Umschulung für einen anerkannten Ausbildungsberuf
+# § 60 – Umschulung für einen anerkannten Ausbildungsberuf
 
 Sofern sich die Umschulungsordnung (§ 58) oder eine Regelung der zuständigen Stelle (§ 59) auf die Umschulung für einen anerkannten Ausbildungsberuf richtet, sind das Ausbildungsberufsbild (§ 5 Absatz 1 Nummer 3), der Ausbildungsrahmenplan (§ 5 Absatz 1 Nummer 4) und die Prüfungsanforderungen (§ 5 Absatz 1 Nummer 5) zugrunde zu legen. Die §§ 27 bis 33 gelten entsprechend.
 
-
-## § 61 – Berücksichtigung ausländischer Vorqualifikationen
+# § 61 – Berücksichtigung ausländischer Vorqualifikationen
 
 Sofern die Umschulungsordnung (§ 58) oder eine Regelung der zuständigen Stelle (§ 59) Zulassungsvoraussetzungen vorsieht, sind ausländische Bildungsabschlüsse und Zeiten der Berufstätigkeit im Ausland zu berücksichtigen.
 
-
-## § 62 – Umschulungsmaßnahmen; Umschulungsprüfungen
+# § 62 – Umschulungsmaßnahmen; Umschulungsprüfungen
 
 (1) Maßnahmen der beruflichen Umschulung müssen nach Inhalt, Art, Ziel und Dauer den besonderen Erfordernissen der beruflichen Erwachsenenbildung entsprechen.
 
@@ -951,51 +876,43 @@ Sofern die Umschulungsordnung (§ 58) oder eine Regelung der zuständigen Stelle
 
 (+++ § 62 Abs. 4: Zur Anwendung vgl. § 7 BodVerkFKrV +++)
 
-
-## § 63 – Gleichstellung von Prüfungszeugnissen
+# § 63 – Gleichstellung von Prüfungszeugnissen
 
 Das Bundesministerium für Wirtschaft und Energie oder das sonst zuständige Fachministerium kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes oder im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen einer Umschulungsprüfung auf der Grundlage der §§ 58 und 59 gleichstellen, wenn die in der Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-
-## § 64 – Berufsausbildung
+# § 64 – Berufsausbildung
 
 Behinderte Menschen (§ 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch) sollen in anerkannten Ausbildungsberufen ausgebildet werden.
 
-
-## § 65 – Berufsausbildung in anerkannten Ausbildungsberufen
+# § 65 – Berufsausbildung in anerkannten Ausbildungsberufen
 
 (1) Regelungen nach den §§ 9 und 47 sollen die besonderen Verhältnisse behinderter Menschen berücksichtigen. Dies gilt insbesondere für die zeitliche und sachliche Gliederung der Ausbildung, die Dauer von Prüfungszeiten, die Zulassung von Hilfsmitteln und die Inanspruchnahme von Hilfeleistungen Dritter wie Gebärdensprachdolmetscher für hörbehinderte Menschen.
 
 (2) Der Berufsausbildungsvertrag mit einem behinderten Menschen ist in das Verzeichnis der Berufsausbildungsverhältnisse (§ 34) einzutragen. Der behinderte Mensch ist zur Abschlussprüfung auch zuzulassen, wenn die Voraussetzungen des § 43 Absatz 1 Nummer 2 und 3 nicht vorliegen.
 
-
-## § 66 – Ausbildungsregelungen der zuständigen Stellen
+# § 66 – Ausbildungsregelungen der zuständigen Stellen
 
 (1) Für behinderte Menschen, für die wegen Art und Schwere ihrer Behinderung eine Ausbildung in einem anerkannten Ausbildungsberuf nicht in Betracht kommt, treffen die zuständigen Stellen auf Antrag der behinderten Menschen oder ihrer gesetzlichen Vertreter oder Vertreterinnen Ausbildungsregelungen entsprechend den Empfehlungen des Hauptausschusses des Bundesinstituts für Berufsbildung. Die Ausbildungsinhalte sollen unter Berücksichtigung von Lage und Entwicklung des allgemeinen Arbeitsmarktes aus den Inhalten anerkannter Ausbildungsberufe entwickelt werden. Im Antrag nach Satz 1 ist eine Ausbildungsmöglichkeit in dem angestrebten Ausbildungsgang nachzuweisen.
 
 (2) § 65 Absatz 2 Satz 1 gilt entsprechend.
 
-
-## § 67 – Berufliche Fortbildung, berufliche Umschulung
+# § 67 – Berufliche Fortbildung, berufliche Umschulung
 
 Für die berufliche Fortbildung und die berufliche Umschulung behinderter Menschen gelten die §§ 64 bis 66 entsprechend, soweit es Art und Schwere der Behinderung erfordern.
 
-
-## § 68 – Personenkreis und Anforderungen
+# § 68 – Personenkreis und Anforderungen
 
 (1) Die Berufsausbildungsvorbereitung richtet sich an lernbeeinträchtigte oder sozial benachteiligte Personen, deren Entwicklungsstand eine erfolgreiche Ausbildung in einem anerkannten Ausbildungsberuf noch nicht erwarten lässt. Sie muss nach Inhalt, Art, Ziel und Dauer den besonderen Erfordernissen des in Satz 1 genannten Personenkreises entsprechen und durch umfassende sozialpädagogische Betreuung und Unterstützung begleitet werden.
 
 (2) Für die Berufsausbildungsvorbereitung, die nicht im Rahmen des Dritten Buches Sozialgesetzbuch oder anderer vergleichbarer, öffentlich geförderter Maßnahmen durchgeführt wird, gelten die §§ 27 bis 33 entsprechend.
 
-
-## § 69 – Qualifizierungsbausteine, Bescheinigung
+# § 69 – Qualifizierungsbausteine, Bescheinigung
 
 (1) Die Vermittlung von Grundlagen für den Erwerb beruflicher Handlungsfähigkeit (§ 1 Absatz 2) kann insbesondere durch inhaltlich und zeitlich abgegrenzte Lerneinheiten erfolgen, die aus den Inhalten anerkannter Ausbildungsberufe entwickelt werden (Qualifizierungsbausteine).
 
 (2) Über vermittelte Grundlagen für den Erwerb beruflicher Handlungsfähigkeit stellt der Anbieter der Berufsausbildungsvorbereitung eine Bescheinigung aus. Das Nähere regelt das Bundesministerium für Bildung und Forschung im Einvernehmen mit den für den Erlass von Ausbildungsordnungen zuständigen Fachministerien nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
-
-## § 70 – Überwachung, Beratung
+# § 70 – Überwachung, Beratung
 
 (1) Die nach Landesrecht zuständige Behörde hat die Berufsausbildungsvorbereitung zu untersagen, wenn die Voraussetzungen des § 68 Absatz 1 nicht vorliegen.
 
@@ -1003,8 +920,7 @@ Für die berufliche Fortbildung und die berufliche Umschulung behinderter Mensch
 
 (3) Die Absätze 1 und 2 sowie § 76 finden keine Anwendung, soweit die Berufsausbildungsvorbereitung im Rahmen des Dritten Buches Sozialgesetzbuch oder anderer vergleichbarer, öffentlich geförderter Maßnahmen durchgeführt wird.
 
-
-## § 71 – Zuständige Stellen
+# § 71 – Zuständige Stellen
 
 (1) Für die Berufsbildung in Berufen der Handwerksordnung ist die Handwerkskammer zuständige Stelle im Sinne dieses Gesetzes.
 
@@ -1024,13 +940,11 @@ Für die berufliche Fortbildung und die berufliche Umschulung behinderter Mensch
 
 (9) Zuständige Stellen können vereinbaren, dass die ihnen jeweils durch Gesetz zugewiesenen Aufgaben im Bereich der Berufsbildung durch eine von ihnen für die Beteiligten wahrgenommen werden. Die Vereinbarung bedarf der Genehmigung durch die zuständigen obersten Bundes- oder Landesbehörden.
 
-
-## § 72 – Bestimmung durch Rechtsverordnung
+# § 72 – Bestimmung durch Rechtsverordnung
 
 Das zuständige Fachministerium kann im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates für Berufsbereiche, die durch § 71 nicht geregelt sind, die zuständige Stelle bestimmen.
 
-
-## § 73 – Zuständige Stellen im Bereich des öffentlichen Dienstes
+# § 73 – Zuständige Stellen im Bereich des öffentlichen Dienstes
 
 (1) Im öffentlichen Dienst bestimmt für den Bund die oberste Bundesbehörde für ihren Geschäftsbereich die zuständige Stelle
 
@@ -1044,18 +958,15 @@ dies gilt auch für die der Aufsicht des Bundes unterstehenden Körperschaften, 
 
 (3) § 71 Absatz 9 gilt entsprechend.
 
-
-## § 74 – Erweiterte Zuständigkeit
+# § 74 – Erweiterte Zuständigkeit
 
 § 73 gilt entsprechend für Ausbildungsberufe, in denen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts oder außerhalb des öffentlichen Dienstes nach Ausbildungsordnungen des öffentlichen Dienstes ausgebildet wird.
 
-
-## § 75 – Zuständige Stellen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts
+# § 75 – Zuständige Stellen im Bereich der Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts
 
 Die Kirchen und sonstigen Religionsgemeinschaften des öffentlichen Rechts bestimmen für ihren Bereich die zuständige Stelle für die Berufsbildung in anderen als den durch die §§ 71, 72 und 74 erfassten Berufsbereichen. Die §§ 77 bis 80 finden keine Anwendung.
 
-
-## § 76 – Überwachung, Beratung
+# § 76 – Überwachung, Beratung
 
 (1) Die zuständige Stelle überwacht die Durchführung
 
@@ -1075,8 +986,7 @@ und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen.
 
 (5) Die zuständige Stelle teilt der Aufsichtsbehörde nach dem Jugendarbeitsschutzgesetz Wahrnehmungen mit, die für die Durchführung des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
 
-
-## § 77 – Errichtung
+# § 77 – Errichtung
 
 (1) Die zuständige Stelle errichtet einen Berufsbildungsausschuss. Ihm gehören sechs Beauftragte der Arbeitgeber, sechs Beauftragte der Arbeitnehmer und sechs Lehrkräfte an berufsbildenden Schulen an, die Lehrkräfte mit beratender Stimme.
 
@@ -1090,15 +1000,13 @@ und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen.
 
 (6) Der Berufsbildungsausschuss wählt ein Mitglied, das den Vorsitz führt, und ein weiteres Mitglied, das den Vorsitz stellvertretend übernimmt. Der Vorsitz und seine Stellvertretung sollen nicht derselben Mitgliedergruppe angehören.
 
-
-## § 78 – Beschlussfähigkeit, Abstimmung
+# § 78 – Beschlussfähigkeit, Abstimmung
 
 (1) Der Berufsbildungsausschuss ist beschlussfähig, wenn mehr als die Hälfte seiner stimmberechtigten Mitglieder anwesend ist. Er beschließt mit der Mehrheit der abgegebenen Stimmen.
 
 (2) Zur Wirksamkeit eines Beschlusses ist es erforderlich, dass der Gegenstand bei der Einberufung des Ausschusses bezeichnet ist, es sei denn, dass er mit Zustimmung von zwei Dritteln der stimmberechtigten Mitglieder nachträglich auf die Tagesordnung gesetzt wird.
 
-
-## § 79 – Aufgaben
+# § 79 – Aufgaben
 
 (1) Der Berufsbildungsausschuss ist in allen wichtigen Angelegenheiten der beruflichen Bildung zu unterrichten und zu hören. Er hat im Rahmen seiner Aufgaben auf eine stetige Entwicklung der Qualität der beruflichen Bildung hinzuwirken.
 
@@ -1138,20 +1046,17 @@ und fördert diese durch Beratung der an der Berufsbildung beteiligten Personen.
 
 (+++ § 79 Abs. 2 Nr. 1: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 (früher § 104) +++)
 
-
-## § 80 – Geschäftsordnung
+# § 80 – Geschäftsordnung
 
 Der Berufsbildungsausschuss gibt sich eine Geschäftsordnung. Sie kann die Bildung von Unterausschüssen vorsehen und bestimmen, dass ihnen nicht nur Mitglieder des Ausschusses angehören. Für die Unterausschüsse gelten § 77 Absatz 2 bis 6 und § 78 entsprechend.
 
-
-## § 81 – Zuständige Behörden
+# § 81 – Zuständige Behörden
 
 (1) Im Bereich des Bundes ist die oberste Bundesbehörde oder die von ihr bestimmte Behörde die zuständige Behörde im Sinne des § 30 Absatz 6, der §§ 32, 33, 40 Absatz 6 und der §§ 47, 54 Absatz 3 und des § 77 Absatz 2 und 3.
 
 (2) Ist eine oberste Bundesbehörde oder eine oberste Landesbehörde zuständige Stelle im Sinne dieses Gesetzes, so bedarf es im Fall des § 40 Absatz 6, des § 47 Absatz 1 und des § 77 Absatz 3 keiner Genehmigung und im Fall des § 54 keiner Bestätigung.
 
-
-## § 82 – Errichtung, Geschäftsordnung, Abstimmung
+# § 82 – Errichtung, Geschäftsordnung, Abstimmung
 
 (1) Bei der Landesregierung wird ein Landesausschuss für Berufsbildung errichtet. Er setzt sich zusammen aus einer gleichen Zahl von Beauftragten der Arbeitgeber, der Arbeitnehmer und der obersten Landesbehörden. Die Hälfte der Beauftragten der obersten Landesbehörden muss in Fragen des Schulwesens sachverständig sein.
 
@@ -1163,15 +1068,13 @@ Der Berufsbildungsausschuss gibt sich eine Geschäftsordnung. Sie kann die Bildu
 
 (5) Der Landesausschuss ist beschlussfähig, wenn mehr als die Hälfte seiner Mitglieder anwesend ist. Er beschließt mit der Mehrheit der abgegebenen Stimmen.
 
-
-## § 83 – Aufgaben
+# § 83 – Aufgaben
 
 (1) Der Landesausschuss hat die Landesregierung in den Fragen der Berufsbildung zu beraten, die sich für das Land ergeben. Er hat im Rahmen seiner Aufgaben auf eine stetige Entwicklung der Qualität der beruflichen Bildung hinzuwirken.
 
 (2) Er hat insbesondere im Interesse einer einheitlichen Berufsbildung auf eine Zusammenarbeit zwischen der schulischen Berufsbildung und der Berufsbildung nach diesem Gesetz sowie auf eine Berücksichtigung der Berufsbildung bei der Neuordnung und Weiterentwicklung des Schulwesens hinzuwirken. Der Landesausschuss kann zur Stärkung der regionalen Ausbildungs- und Beschäftigungssituation Empfehlungen zur inhaltlichen und organisatorischen Abstimmung und zur Verbesserung der Ausbildungsangebote aussprechen.
 
-
-## § 84 – Ziele der Berufsbildungsforschung
+# § 84 – Ziele der Berufsbildungsforschung
 
 Die Berufsbildungsforschung soll
 
@@ -1185,15 +1088,13 @@ Die Berufsbildungsforschung soll
 
 5. Instrumente und Verfahren der Vermittlung von Berufsbildung sowie den Wissens- und Technologietransfer fördern.
 
-
-## § 85 – Ziele der Berufsbildungsplanung
+# § 85 – Ziele der Berufsbildungsplanung
 
 (1) Durch die Berufsbildungsplanung sind Grundlagen für eine abgestimmte und den technischen, wirtschaftlichen und gesellschaftlichen Anforderungen entsprechende Entwicklung der beruflichen Bildung zu schaffen.
 
 (2) Die Berufsbildungsplanung hat insbesondere dazu beizutragen, dass die Ausbildungsstätten nach Art, Zahl, Größe und Standort ein qualitativ und quantitativ ausreichendes Angebot an beruflichen Ausbildungsplätzen gewährleisten und dass sie unter Berücksichtigung der voraussehbaren Nachfrage und des langfristig zu erwartenden Bedarfs an Ausbildungsplätzen möglichst günstig genutzt werden.
 
-
-## § 86 – Berufsbildungsbericht
+# § 86 – Berufsbildungsbericht
 
 (1) Das Bundesministerium für Bildung und Forschung hat Entwicklungen in der beruflichen Bildung ständig zu beobachten und darüber bis zum 15. Mai jeden Jahres der Bundesregierung einen Bericht (Berufsbildungsbericht) vorzulegen. In dem Bericht sind Stand und voraussichtliche Weiterentwicklungen der Berufsbildung darzustellen. Erscheint die Sicherung eines regional und sektoral ausgewogenen Angebots an Ausbildungsplätzen als gefährdet, sollen in den Bericht Vorschläge für die Behebung aufgenommen werden.
 
@@ -1211,8 +1112,7 @@ a) die bis zum 30. September des laufenden Jahres zu erwartende Zahl der Ausbild
 
 b) eine Einschätzung des bis zum 30. September des laufenden Jahres zu erwartenden Angebots an Ausbildungsplätzen.
 
-
-## § 87 – Zweck und Durchführung der Berufsbildungsstatistik
+# § 87 – Zweck und Durchführung der Berufsbildungsstatistik
 
 (1) Für Zwecke der Planung und Ordnung der Berufsbildung wird eine Bundesstatistik durchgeführt.
 
@@ -1220,8 +1120,7 @@ b) eine Einschätzung des bis zum 30. September des laufenden Jahres zu erwarten
 
 (3) Das Erhebungs- und Aufbereitungsprogramm ist im Benehmen mit dem Bundesinstitut für Berufsbildung so zu gestalten, dass die erhobenen Daten für Zwecke der Planung und Ordnung der Berufsbildung im Rahmen der jeweiligen Zuständigkeiten Verwendung finden können.
 
-
-## § 88 – Erhebungen
+# § 88 – Erhebungen
 
 (1) Die jährliche Bundesstatistik erfasst
 
@@ -1265,13 +1164,11 @@ Der Berichtszeitraum für die Erhebungen ist das Kalenderjahr. Die Angaben werde
 
 (+++ § 88: Zur Geltung u. Anwendung vgl. § 106 Abs. 2 +++)
 
-
-## § 89 – Bundesinstitut für Berufsbildung
+# § 89 – Bundesinstitut für Berufsbildung
 
 Das Bundesinstitut für Berufsbildung ist eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts. Es hat seinen Sitz in Bonn.
 
-
-## § 90 – Aufgaben
+# § 90 – Aufgaben
 
 (1) Das Bundesinstitut für Berufsbildung führt seine Aufgaben im Rahmen der Bildungspolitik der Bundesregierung durch.
 
@@ -1303,8 +1200,7 @@ f) weitere Verwaltungsaufgaben des Bundes zur Förderung der Berufsbildung zu ü
 
 (4) Das Bundesinstitut für Berufsbildung kann mit Zustimmung des Bundesministeriums für Bildung und Forschung mit Stellen außerhalb der Bundesverwaltung Verträge zur Übernahme weiterer Aufgaben schließen.
 
-
-## § 91 – Organe
+# § 91 – Organe
 
 Die Organe des Bundesinstituts für Berufsbildung sind:
 
@@ -1312,8 +1208,7 @@ Die Organe des Bundesinstituts für Berufsbildung sind:
 
 2. der Präsident oder die Präsidentin.
 
-
-## § 92 – Hauptausschuss
+# § 92 – Hauptausschuss
 
 (1) Der Hauptausschuss hat neben den ihm durch sonstige Vorschriften dieses Gesetzes zugewiesenen Aufgaben folgende weitere Aufgaben:
 
@@ -1347,15 +1242,13 @@ Die Organe des Bundesinstituts für Berufsbildung sind:
 
 (10) Bei der Wahrnehmung seiner Aufgaben unterliegt der Hauptausschuss keinen Weisungen.
 
-
-## § 93 – Präsident oder Präsidentin
+# § 93 – Präsident oder Präsidentin
 
 (1) Der Präsident oder die Präsidentin vertritt das Bundesinstitut für Berufsbildung gerichtlich und außergerichtlich. Er oder sie verwaltet das Bundesinstitut und führt dessen Aufgaben durch. Soweit er oder sie nicht Weisungen und allgemeine Verwaltungsvorschriften des zuständigen Bundesministeriums zu beachten hat (§ 90 Absatz 3 Nummer 1 und 2), führt er oder sie die Aufgaben nach Richtlinien des Hauptausschusses durch.
 
 (2) Der Präsident oder die Präsidentin wird auf Vorschlag der Bundesregierung, der Ständige Vertreter oder die Ständige Vertreterin des Präsidenten oder der Präsidentin auf Vorschlag des Bundesministeriums für Bildung und Forschung im Benehmen mit dem Präsidenten oder der Präsidentin unter Berufung in das Beamtenverhältnis von dem Bundespräsidenten oder der Bundespräsidentin ernannt.
 
-
-## § 94 – Wissenschaftlicher Beirat
+# § 94 – Wissenschaftlicher Beirat
 
 (1) Der wissenschaftliche Beirat berät die Organe des Bundesinstituts für Berufsbildung durch Stellungnahmen und Empfehlungen
 
@@ -1373,8 +1266,7 @@ Die Organe des Bundesinstituts für Berufsbildung sind:
 
 (5) § 92 Absatz 6 gilt entsprechend.
 
-
-## § 95 – Ausschuss für Fragen behinderter Menschen
+# § 95 – Ausschuss für Fragen behinderter Menschen
 
 (1) Zur Beratung des Bundesinstituts für Berufsbildung bei seinen Aufgaben auf dem Gebiet der beruflichen Bildung behinderter Menschen wird ein ständiger Unterausschuss des Hauptausschusses errichtet. Der Ausschuss hat darauf hinzuwirken, dass die besonderen Belange der behinderten Menschen in der beruflichen Bildung berücksichtigt werden und die berufliche Bildung behinderter Menschen mit den übrigen Leistungen zur Teilhabe am Arbeitsleben koordiniert wird. Das Bundesinstitut für Berufsbildung trifft Entscheidungen über die Durchführung von Forschungsvorhaben, die die berufliche Bildung behinderter Menschen betreffen, unter Berücksichtigung von Vorschlägen des Ausschusses.
 
@@ -1391,15 +1283,13 @@ sechs weitere für die berufliche Bildung behinderter Menschen sachkundige Perso
 
 (3) Der Ausschuss kann behinderte Menschen, die beruflich ausgebildet, fortgebildet oder umgeschult werden, zu den Beratungen hinzuziehen.
 
-
-## § 96 – Finanzierung des Bundesinstituts für Berufsbildung
+# § 96 – Finanzierung des Bundesinstituts für Berufsbildung
 
 (1) Die Ausgaben für die Errichtung und Verwaltung des Bundesinstituts für Berufsbildung werden durch Zuschüsse des Bundes gedeckt. Die Höhe der Zuschüsse des Bundes regelt das Haushaltsgesetz.
 
 (2) Die Ausgaben zur Durchführung von Aufträgen nach § 90 Absatz 2 Satz 3 und von Aufgaben nach § 90 Absatz 3 Nummer 1 Buchstabe f werden durch das beauftragende Bundesministerium gedeckt. Die Ausgaben zur Durchführung von Verträgen nach § 90 Absatz 4 sind durch den Vertragspartner zu decken.
 
-
-## § 97 – Haushalt
+# § 97 – Haushalt
 
 (1) Der Haushaltsplan wird von dem Präsidenten oder der Präsidentin aufgestellt. Der Hauptausschuss stellt den Haushaltsplan fest.
 
@@ -1411,8 +1301,7 @@ sechs weitere für die berufliche Bildung behinderter Menschen sachkundige Perso
 
 (5) Nach Ende des Haushaltsjahres wird die Rechnung von dem Präsidenten oder der Präsidentin aufgestellt. Die Entlastung obliegt dem Hauptausschuss. Sie bedarf nicht der Genehmigung nach § 109 Absatz 3 der Bundeshaushaltsordnung.
 
-
-## § 98 – Satzung
+# § 98 – Satzung
 
 (1) Durch die Satzung des Bundesinstituts für Berufsbildung sind
 
@@ -1426,8 +1315,7 @@ näher zu regeln.
 
 (3) Absatz 2 gilt für Satzungsänderungen entsprechend.
 
-
-## § 99 – Personal
+# § 99 – Personal
 
 (1) Die Aufgaben des Bundesinstituts für Berufsbildung werden von Beamten, Beamtinnen und Dienstkräften, die als Angestellte, Arbeiter und Arbeiterinnen beschäftigt sind, wahrgenommen. Es ist Dienstherr im Sinne des § 2 des Bundesbeamtengesetzes. Die Beamten und Beamtinnen sind Bundesbeamte und Bundesbeamtinnen.
 
@@ -1437,13 +1325,11 @@ näher zu regeln.
 
 (4) Auf die Angestellten, Arbeiter und Arbeiterinnen des Bundesinstituts sind die für Arbeitnehmer und Arbeitnehmerinnen des Bundes geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden. Ausnahmen bedürfen der vorherigen Zustimmung des Bundesministeriums für Bildung und Forschung; die Zustimmung ergeht im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen.
 
-
-## § 100 – Aufsicht über das Bundesinstitut für Berufsbildung
+# § 100 – Aufsicht über das Bundesinstitut für Berufsbildung
 
 Das Bundesinstitut für Berufsbildung unterliegt, soweit in diesem Gesetz nicht weitergehende Aufsichtsbefugnisse vorgesehen sind, der Rechtsaufsicht des Bundesministeriums für Bildung und Forschung.
 
-
-## § 101 – Bußgeldvorschriften
+# § 101 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1471,13 +1357,11 @@ Das Bundesinstitut für Berufsbildung unterliegt, soweit in diesem Gesetz nicht 
 
 (+++ § 101 Abs. 1 Nr. 3: Zur Weiteranwendung in der bis zum 5.4.2017 geltenden Fassung vgl. § 103 +++)
 
-
-## § 102 – Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit
+# § 102 – Gleichstellung von Abschlusszeugnissen im Rahmen der deutschen Einheit
 
 Prüfungszeugnisse nach der Systematik der Ausbildungsberufe und der Systematik der Facharbeiterberufe und Prüfungszeugnisse nach § 37 Absatz 2 stehen einander gleich.
 
-
-## § 103 – Fortgeltung bestehender Regelungen
+# § 103 – Fortgeltung bestehender Regelungen
 
 (1) Die vor dem 1. September 1969 anerkannten Lehrberufe und Anlernberufe oder vergleichbar geregelten Ausbildungsberufe gelten als Ausbildungsberufe im Sinne des § 4. Die Berufsbilder, die Berufsbildungspläne, die Prüfungsanforderungen und die Prüfungsordnungen für diese Berufe sind bis zum Erlass von Ausbildungsordnungen nach § 4 und der Prüfungsordnungen nach § 47 anzuwenden.
 
@@ -1485,18 +1369,15 @@ Prüfungszeugnisse nach der Systematik der Ausbildungsberufe und der Systematik 
 
 (3) Auf Ausbildungsverträge, die vor dem 30. September 2017 abgeschlossen wurden oder bis zu diesem Zeitpunkt abgeschlossen werden, sind § 5 Absatz 2 Satz 1, § 11 Absatz 1 Satz 2, § 13 Satz 2, die §§ 14, 43 Absatz 1 Nummer 2, § 79 Absatz 2 Nummer 1 sowie § 101 Absatz 1 Nummer 3 in ihrer bis zum 5. April 2017 geltenden Fassung weiter anzuwenden.
 
-
-## § 104 – Übertragung von Zuständigkeiten
+# § 104 – Übertragung von Zuständigkeiten
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die nach diesem Gesetz den nach Landesrecht zuständigen Behörden übertragenen Zuständigkeiten nach den §§ 27, 30, 32, 33 und 70 auf zuständige Stellen zu übertragen.
 
-
-## § 105 – Evaluation
+# § 105 – Evaluation
 
 Die Regelungen zur Mindestvergütung, zu Prüferdelegationen und die Regelung des § 5 Absatz 2 Satz 1 Nummer 2a werden vom Bundesinstitut für Berufsbildung fünf Jahre nach dem Inkrafttreten des Gesetzes zur Modernisierung und Stärkung der beruflichen Bildung wissenschaftlich evaluiert.
 
-
-## § 106 – Übergangsregelung
+# § 106 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverträge, die bis zum Ablauf des 31. Dezember 2019 abgeschlossen werden, ist § 17 in der bis dahin geltenden Fassung anzuwenden.
 

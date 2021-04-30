@@ -1,10 +1,7 @@
-# [BMPErnAnO 1982] Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers für das Post- und Fernmeldewesen
-
-Ausfertigungsdatum: 06.07.1982
-
+% Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers für das Post- und Fernmeldewesen
+% Ausfertigungsdatum: 06.07.1982
  
-
-## I.
+# I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst vom 14. Juli 1975 (BGBl. I S. 1915) übertrage ich die Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamten der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren Geschäftsbereich -  
 den Präsidenten
@@ -34,17 +31,14 @@ den Rektoren
   
 der Fachhochschulen der Deutschen Bundespost.
 
-
-## II.
+# II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der in Abschnitt I genannten Beamten vor.
 
-
-## III.
+# III.
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 1982 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für das Post- und Fernmeldewesen

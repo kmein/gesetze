@@ -1,10 +1,7 @@
-# [MarkenG§8Bek 2000-04] Bekanntmachung zu § 8 des Markengesetzes
-
-Ausfertigungsdatum: 28.04.2000
-
+% Bekanntmachung zu § 8 des Markengesetzes
+% Ausfertigungsdatum: 28.04.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) wird bekannt gemacht, dass
 
@@ -14,13 +11,11 @@ Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I
 
 3. Name, Abkürzung und Embleme des "Inernationalen Büros für Maß und Gewicht" (Anlage 3)
 
-von der Eintragung als Marke ausgeschlossen sind.  
-Dieses Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 27. März 2000 (BGBl. I S. 445).
+von der Eintragung als Marke ausgeschlossen sind. Dieses Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 27. März 2000 (BGBl. I S. 445).
 
 Bundesministerium der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 2000, 737)
 
@@ -33,8 +28,7 @@ Drapeau de l'Agence Internationale de l'Energie Atomique
 
 ... (nicht darstellbares weißes Emblem auf mittelblauem Grund)
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2000, 738)
 
@@ -43,8 +37,7 @@ Emblem der Afrikanischen Organisation für geistiges Eigentum
 
 ... (nicht darstellbares Emblem weiß und dunkelblau)
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 2000, 739)
 

@@ -1,20 +1,15 @@
-# [AbLaV] Verordnung über Vereinbarungen zu abschaltbaren Lasten  (Verordnung zu abschaltbaren Lasten - AbLaV)
-
-Ausfertigungsdatum: 16.08.2016
-
+% Verordnung über Vereinbarungen zu abschaltbaren Lasten  (Verordnung zu abschaltbaren Lasten - AbLaV)
+% Ausfertigungsdatum: 16.08.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Aufgrund des § 13i Absatz 1 und 2 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), der durch Artikel 1 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) eingefügt worden ist, verordnet die Bundesregierung mit Zustimmung des Bundestages:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Pflichten der Betreiber von Übertragungsnetzen zur Durchführung von Ausschreibungen nach § 13 Absatz 6 Satz 1 des Energiewirtschaftsgesetzes und zur Annahme eingegangener Angebote zum Erwerb von Abschaltleistung aus abschaltbaren Lasten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Für diese Verordnung sind die folgenden Begriffsbestimmungen anzuwenden:
 
@@ -48,15 +43,13 @@ c) die im physikalischen Wirkungsbereich eines Höchstspannungsknotens des deuts
 
 12. Konsortium ist die technische Zusammenlegung mehrerer Verbrauchseinrichtungen.
 
-
-## § 3 – Kriterien für wirtschaftlich und technisch sinnvolle Vereinbarungen
+# § 3 – Kriterien für wirtschaftlich und technisch sinnvolle Vereinbarungen
 
 (1) Vereinbarungen zwischen Betreibern von Übertragungsnetzen und Anbietern sind bis zur Gesamtabschaltleistung nach § 8 wirtschaftlich sinnvoll im Sinne von § 13i Absatz 2 Satz 3 des Energiewirtschaftsgesetzes, wenn sie die Vergütungsgrundsätze nach § 4 beachten.
 
 (2) Vereinbarungen zwischen Betreibern von Übertragungsnetzen und Anbietern sind technisch sinnvoll im Sinne von § 13i Absatz 2 Satz 4 des Energiewirtschaftsgesetzes, wenn die abschaltbaren Lasten, die Gegenstand der Vereinbarungen sind, den technischen Anforderungen dieser Verordnung genügen.
 
-
-## § 4 – Vergütung abschaltbarer Lasten
+# § 4 – Vergütung abschaltbarer Lasten
 
 (1) Anbieter, die sich in Vereinbarungen mit Betreibern von Übertragungsnetzen zu Leistungen verpflichtet haben, die den Anforderungen dieser Verordnung genügen, erhalten eine Vergütung.
 
@@ -66,8 +59,7 @@ c) die im physikalischen Wirkungsbereich eines Höchstspannungsknotens des deuts
 
 (4) Die Abschaltleistung wird während des Abrufs messtechnisch erfasst. Die elektrische Energie, die von den abschaltbaren Lasten durch den Abruf der Abschaltleistung nicht verbraucht wird, wird dem Betreiber von Übertragungsnetzen per Fahrplan geliefert.
 
-
-## § 5 – Technische Anforderungen an abschaltbare Lasten
+# § 5 – Technische Anforderungen an abschaltbare Lasten
 
 (1) Ungeachtet weiterer Anforderungen aus dieser Verordnung können Anbieter nur dann ein Vorverfahren nach § 9 durchlaufen und an Ausschreibungsverfahren nach § 8 teilnehmen, wenn
 
@@ -87,15 +79,13 @@ c) die im physikalischen Wirkungsbereich eines Höchstspannungsknotens des deuts
 
 (3) Ist der Zeitraum nach einem Abruf der Abschaltleistung bis zum Ende des Ausschreibungszeitraums kürzer als die Reduktion der Mindestverfügbarkeit aufgrund dieses Abrufs nach Absatz 2 Satz 1, so verringert sich die Mindestverfügbarkeit nach Absatz 1 Nummer 5 bei einer Teilnahme im unmittelbar folgenden Ausschreibungszeitraum um die Anzahl der Viertelstunden, um die die Reduktion der Mindestverfügbarkeit die Zeitdauer bis zum Ende des Ausschreibungszeitraums übersteigt.
 
-
-## § 6 – Regeln für die Zusammenlegung
+# § 6 – Regeln für die Zusammenlegung
 
 (1) Um die technischen Anforderungen nach § 5 zu erfüllen, ist die Bildung eines Konsortiums zulässig. Das Konsortium wird durch einen Anbieter als Konsortialführer vertreten und bei einer Ausschreibung als einzelner Anbieter behandelt.
 
 (2) Alle Verbrauchseinrichtungen eines Konsortiums müssen im physikalischen Wirkungsbereich des gleichen Höchstspannungsknotens des deutschen Übertragungsnetzes liegen. Die Betreiber von Übertragungsnetzen werden ermächtigt, von dieser Anforderung zu Gunsten der Anbieter in transparenter und nichtdiskriminierender Weise abzuweichen.
 
-
-## § 7 – Vermarktung am Regelleistungsmarkt und am vortägigen Spotmarkt
+# § 7 – Vermarktung am Regelleistungsmarkt und am vortägigen Spotmarkt
 
 (1) Abweichend von § 5 Absatz 1 Nummer 5 muss die Abschaltleistung nicht für die Zeiträume zur Verfügung gestellt werden, für die eine Vermarktung der abschaltbaren Last erfolgt ist
 
@@ -105,8 +95,7 @@ c) die im physikalischen Wirkungsbereich eines Höchstspannungsknotens des deuts
 
 (2) Die Vermarktung nach Absatz 1 steht einem Abruf der Abschaltleistung nach § 10 Absatz 2 Nummer 4, mindestens jedoch einem Abruf mit einer Zeitdauer von vier Viertelstunden, gleich; der Anspruch auf Zahlung des Arbeitspreises entsteht durch die Vermarktung nicht.
 
-
-## § 8 – Ausschreibungsverfahren und Gesamtabschaltleistungen
+# § 8 – Ausschreibungsverfahren und Gesamtabschaltleistungen
 
 (1) Die Betreiber von Übertragungsnetzen schreiben gemeinsam einmal wöchentlich für einen Ausschreibungszeitraum jeweils von Montag 0 Uhr bis Sonntag 24 Uhr eine Gesamtabschaltleistung von 750 Megawatt an sofort abschaltbaren Lasten sowie eine Gesamtabschaltleistung von 750 Megawatt an schnell abschaltbaren Lasten aus.
 
@@ -126,8 +115,7 @@ b) für Teilmengen der Gesamtabschaltleistung für sofort abschaltbare Lasten un
 
 Die Summe der zugeschlagenen Gesamtabschaltleistungen aus sofort abschaltbaren Lasten und schnell abschaltbaren Lasten darf den Wert nach § 13i Absatz 2 Satz 1 des Energiewirtschaftsgesetzes nicht überschreiten.
 
-
-## § 9 – Vorverfahren
+# § 9 – Vorverfahren
 
 (1) Zur Teilnahme am Ausschreibungsverfahren sind nur diejenigen Anbieter berechtigt, die in einem Vorverfahren eine Rahmenvereinbarung nach Absatz 2 abgeschlossen haben.
 
@@ -157,8 +145,7 @@ Die Summe der zugeschlagenen Gesamtabschaltleistungen aus sofort abschaltbaren L
 
 9. Vorgaben für die Herbeiführung der Abschaltleistung aus Bilanzkreisen, bei denen der Anbieter nicht Bilanzkreisverantwortlicher ist.
 
-
-## § 10 – Angebotserstellung
+# § 10 – Angebotserstellung
 
 (1) Anbieter können Angebote für Vereinbarungen zu abschaltbaren Lasten auf eine Ausschreibung der Betreiber von Übertragungsnetzen abgeben, und zwar elektronisch auf der Ausschreibungsplattform am Tag der Ausschreibung bis zu einer Uhrzeit, die die Betreiber von Übertragungsnetzen vorher festgelegt und auf der Ausschreibungsplattform veröffentlicht haben.
 
@@ -192,8 +179,7 @@ b) ein Restabrufkonto zu führen, das Auskunft über das Zeitvolumen gibt, das f
 
 (4) Der Anbieter erklärt mit seinem Angebot, dass die angebotene Abschaltleistung den allgemeinen Anforderungen dieser Verordnung und den speziellen Leistungsanforderungen der Betreiber von Übertragungsnetzen entspricht und sich seit Abschluss des Vorverfahrens keine hierfür relevante Änderung ergeben hat. Für ein vorsätzlich oder grob fahrlässig erstelltes wahrheitswidriges Angebot schließen die Betreiber von Übertragungsnetzen den Anbieter für die Dauer von zwei Jahren vom Angebotsverfahren aus.
 
-
-## § 11 – Zuschlagserteilung
+# § 11 – Zuschlagserteilung
 
 (1) Die Betreiber von Übertragungsnetzen berücksichtigen nur Angebote von Anbietern, die ihre Eignung im Vorverfahren durch Abschluss einer Rahmenvereinbarung nachgewiesen haben und nicht vom Ausschreibungsverfahren ausgeschlossen sind. Die Betreiber von Übertragungsnetzen müssen bis zu den in § 8 bestimmten Gesamtabschaltleistungen Zuschläge für form- und fristgerechte sowie vollständige Angebote nach § 10 erteilen. Darüber hinausgehende Zuschläge sind nur für jeweils ein weiteres Angebot zu erteilen, wenn die in Satz 1 genannten Ausschreibungsmengen ohne diesen weiteren Zuschlag nicht erreicht sind.
 
@@ -201,8 +187,7 @@ b) ein Restabrufkonto zu führen, das Auskunft über das Zeitvolumen gibt, das f
 
 (3) Mit der Erteilung eines Zuschlags kommt die Vereinbarung zu abschaltbaren Lasten mit dem Betreiber des Übertragungsnetzes zustande, mit dem die Rahmenvereinbarung geschlossen wurde. Die Betreiber von Übertragungsnetzen vergeben eine Identifikationsnummer an die Anbieter.
 
-
-## § 12 – Meldung der Verfügbarkeit
+# § 12 – Meldung der Verfügbarkeit
 
 (1) Die Anbieter melden dem Betreiber des Übertragungsnetzes, mit dem die Vereinbarung zu abschaltbaren Lasten besteht, täglich bis 14:30 Uhr verbindlich für den Folgetag die Verfügbarkeit der Abschaltleistung auf Viertelstundenbasis und die Vermarktung nach § 7. Im Fall einer Zusammenlegung erfolgt die Meldung der Verfügbarkeit für die gesamte Abschaltleistung nach den Vorgaben der Betreiber der Übertragungsnetze durch den Konsortialführer oder den benannten Verantwortlichen. Die Unterlassung einer Meldung der Verfügbarkeit entspricht der Meldung einer Nichtverfügbarkeit.
 
@@ -216,8 +201,7 @@ b) ein Restabrufkonto zu führen, das Auskunft über das Zeitvolumen gibt, das f
 
 (4) Ist das Restabrufkonto aufgebraucht, darf sich der Anbieter als nicht verfügbar melden und die Nichtverfügbarkeit der Abschaltleistung auch technisch herbeiführen. Hierüber ist der Betreiber von Übertragungsnetzen zu informieren.
 
-
-## § 13 – Abruf der Abschaltleistung
+# § 13 – Abruf der Abschaltleistung
 
 (1) Für den Abruf der Abschaltleistung gilt die Vereinbarung zu abschaltbaren Lasten.
 
@@ -227,8 +211,7 @@ b) ein Restabrufkonto zu führen, das Auskunft über das Zeitvolumen gibt, das f
 
 (4) Bei gleicher systemtechnischer Wirksamkeit mehrerer abschaltbarer Lasten erfolgt der Abruf der Abschaltleistung mit dem vergleichsweise geringsten Arbeitspreis.
 
-
-## § 14 – Einfluss der Verfügbarkeit auf die Vergütung
+# § 14 – Einfluss der Verfügbarkeit auf die Vergütung
 
 (1) Der Anspruch des Anbieters auf Zahlung eines Leistungspreises besteht bezogen auf den Ausschreibungszeitraum anteilig für
 
@@ -248,8 +231,7 @@ b) ein Restabrufkonto zu führen, das Auskunft über das Zeitvolumen gibt, das f
 
 Es wird widerleglich vermutet, dass der Anbieter mindestens grob fahrlässig handelt, wenn die Abschaltleistung nicht verfügbar ist, obwohl er sie als verfügbar gemeldet hat.
 
-
-## § 15 – Rechte und Pflichten der Vertragsparteien
+# § 15 – Rechte und Pflichten der Vertragsparteien
 
 (1) Der Anbieter hat dem Betreiber des Übertragungsnetzes zur Überprüfung der verfügbaren Abschaltleistung zum 20. Kalendertag eines Monats für die Zeiträume des Vormonats, für die eine Vereinbarung zu abschaltbaren Lasten bestand, vollständige Lastaufzeichnungen der Verbrauchseinrichtungen mit minutengenauer Auflösung zur Verfügung zu stellen.
 
@@ -281,13 +263,11 @@ Es wird widerleglich vermutet, dass der Anbieter mindestens grob fahrlässig han
 
 Bei der Auswahl der zu veröffentlichenden Daten und ihrer Aggregation in der Darstellung ist die Vertraulichkeit der schutzbedürftigen Daten der einzelnen Anbieter zu gewährleisten. Die Bundesnetzagentur kann durch Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes Näheres regeln.
 
-
-## § 16 – Abschaltbare Lasten in nachgelagerten Netzen
+# § 16 – Abschaltbare Lasten in nachgelagerten Netzen
 
 Die Nutzung einer Abschaltleistung ist nur in Abstimmung mit den Betreibern derjenigen nachgelagerten Elektrizitätsverteilernetze zulässig, in die die abschaltbare Last eingebunden ist; § 14 Absatz 1c Satz 1 des Energiewirtschaftsgesetzes bleibt unberührt.
 
-
-## § 17 – Bericht der Bundesnetzagentur
+# § 17 – Bericht der Bundesnetzagentur
 
 (1) Zum 1. Juli 2021 berichtet die Bundesnetzagentur dem Bundesministerium für Wirtschaft und Energie über die Anwendung dieser Verordnung. In ihrem schriftlichen Bericht überprüft die Bundesnetzagentur, ob und inwiefern Vereinbarungen von Anbietern mit Betreibern von Übertragungsnetzen nach dieser Rechtsverordnung geeignet und erforderlich waren, um Gefährdungen oder Störungen der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems zu beseitigen.
 
@@ -295,8 +275,7 @@ Die Nutzung einer Abschaltleistung ist nur in Abstimmung mit den Betreibern derj
 
 (3) Das Bundesministerium für Wirtschaft und Energie leitet diesen Bericht der Bundesregierung und dem Bundestag zu.
 
-
-## § 18 – Kostenregelung
+# § 18 – Kostenregelung
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, ihre Zahlungen und Aufwendungen nach dieser Verordnung über eine finanzielle Verrechnung monatlich untereinander auszugleichen; ein Belastungsausgleich erfolgt entsprechend den §§ 26, 28 und 30 des Kraft-Wärme-Kopplungsgesetzes in der jeweils geltenden Fassung. Die Kosten nach Satz 1 können als Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher umgelegt werden; die Einführung und die Anpassungen dieses Aufschlags erfolgen jeweils zum 1. Januar eines Kalenderjahres. Zahlungen und Aufwendungen sind verzinst zu berücksichtigen entsprechend § 5 Absatz 2 Satz 3 der Anreizregulierungsverordnung vom 29. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 5 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist. Abweichend von Satz 1 sind Kosten, die für den Abruf der Abschaltleistung zur Sicherstellung des Leistungsgleichgewichts erforderlich sind, wie Kosten des Abrufs von Sekundärregelarbeit und Minutenreservearbeit gemäß § 8 Absatz 2 Satz 2 der Stromnetzzugangsverordnung vom 25. Juli 2005 (BGBl. I S. 2243), die zuletzt durch Artikel 4 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist, zu behandeln.
 
@@ -304,8 +283,7 @@ Die Nutzung einer Abschaltleistung ist nur in Abstimmung mit den Betreibern derj
 
 (3) Zur Verwirklichung einer effizienten Abwicklung der Maßnahmen nach § 13 Absatz 6 und § 13i Absatz 1 und 2 des Energiewirtschaftsgesetzes kann die Regulierungsbehörde durch Festlegung nach § 29 Absatz 1 des Energiewirtschaftsgesetzes Entscheidungen treffen über die Ermittlung und Verrechnung der Zahlungen und Aufwendungen, die sich aus dieser Verordnung ergeben. Die Umlage nach Absatz 1 kann mit Entgeltbestandteilen durch Festlegung nach § 30 Absatz 2 Nummer 6 der Stromnetzentgeltverordnung zusammen erhoben werden.
 
-
-## § 19 – Übergangsbestimmungen
+# § 19 – Übergangsbestimmungen
 
 (1) Bis zu sechs Monate ab Inkrafttreten dieser Verordnung können die Betreiber von Übertragungsnetzen abweichend von den entsprechenden Regelungen der vorliegenden Verordnung die Regelungen der §§ 1 bis 16 der Verordnung zu abschaltbaren Lasten vom 28. Dezember 2012 (BGBl. I S. 2998), die zuletzt durch Artikel 1 der Verordnung vom 16. Juni 2016 (BGBl. I S. 1359) geändert worden ist, auch nach ihrem Außerkrafttreten übergangsweise weiter anwenden.
 
@@ -319,8 +297,7 @@ Die Nutzung einer Abschaltleistung ist nur in Abstimmung mit den Betreibern derj
 
 Die ermittelten Werte sind auf ganze Zahlen abzurunden.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Oktober 2016 in Kraft.
 

@@ -1,10 +1,7 @@
-# [BetrPrämDurchfG] Gesetz zur Durchführung der einheitlichen Betriebsprämie  (Betriebsprämiendurchführungsgesetz - BetrPrämDurchfG)
-
-Ausfertigungsdatum: 21.07.2004
-
+% Gesetz zur Durchführung der einheitlichen Betriebsprämie  (Betriebsprämiendurchführungsgesetz - BetrPrämDurchfG)
+% Ausfertigungsdatum: 21.07.2004
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 21.07.2004
 
 (2) Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
 
-
-## § 2 – Regionale Anwendung der einheitlichen Betriebsprämie
+# § 2 – Regionale Anwendung der einheitlichen Betriebsprämie
 
 (1) Die einheitliche Betriebsprämie wird ab dem 1. Januar 2005 auf regionaler Ebene nach Maßgabe der nachfolgenden Vorschriften und der zu ihrer Durchführung erlassenen Vorschriften gewährt.
 
@@ -25,11 +21,9 @@ Ausfertigungsdatum: 21.07.2004
 
 § 2 idF d. G v. 21.7.2004 I 1763: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.10.2008 -1 BvF 4/05 -
 
+# § 2a – (weggefallen)
 
-## § 2a – (weggefallen)
-
-
-## § 3 – Nationale Reserve und Härtefälle
+# § 3 – Nationale Reserve und Härtefälle
 
 (1) Zur Bildung der nationalen Reserve sind
 
@@ -55,8 +49,7 @@ jeweils um 1,0 vom Hundert zu kürzen.
 
 (2) Aufgabe der nationalen Reserve ist es, Referenzbeträge oder Zahlungsansprüche für Betriebsinhaber in den nach oder im Rahmen der gemeinschaftsrechtlichen oder der unionsrechtlichen Vorschriften vorgesehenen Fällen, einschließlich der sich aus § 5 Absatz 6, auch in Verbindung mit § 5b Absatz 3, § 5c Absatz 2 oder § 5d Absatz 2, ergebenden Fälle, festsetzen zu können.
 
-
-## § 4 – Aufteilung der Obergrenze auf die Regionen
+# § 4 – Aufteilung der Obergrenze auf die Regionen
 
 (1) Die nach § 3 Absatz 1 Nummer 1 um 1,0 vom Hundert gekürzte angepasste nationale Obergrenze wird auf die einzelnen Regionen nach dem in Anlage 1 vorgesehenen Schlüssel als Grundlage für die Berechnung des Referenzbetrages nach § 5 aufgeteilt (regionale Obergrenzen).
 
@@ -84,8 +77,7 @@ auf die Regionen aufgeteilt.
 
 § 4 Abs. 1 mit Anlage 1 idF d. G v. 23.7.2004 I 1861: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.10.2008 -1 BvF 4/05 -
 
-
-## § 5 – Bestimmung des Referenzbetrages der einheitlichen Betriebsprämie
+# § 5 – Bestimmung des Referenzbetrages der einheitlichen Betriebsprämie
 
 (1) Der Referenzbetrag der einheitlichen Betriebsprämie wird, unter Berücksichtigung der Anforderungen des Artikels 41 der Verordnung (EG) Nr. 1782/2003, für jeden Betriebsinhaber in Anwendung des Artikels 59 Absatz 1 in Verbindung mit Absatz 3 der Verordnung (EG) Nr. 1782/2003 aus einem betriebsindividuellen Betrag und einem flächenbezogenen Betrag sowie mit Wirkung für das Jahr 2008 einem gesonderten Betrag für Betriebsinhaber mit Obstplantagen oder Reb- oder Baumschulen (gesonderter Betrag) festgesetzt.
 
@@ -158,8 +150,7 @@ als Dauerkulturen genutzt worden sind. Als Obstplantagen gelten nicht die mit Ob
 
 § 5 Abs. 1 idF d. G v. 21.7.2004 I 1763: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.10.2008 -1 BvF 4/05 -
 
-
-## § 5a – Ermittlung des betriebsindividuellen Zuckergrundbetrages
+# § 5a – Ermittlung des betriebsindividuellen Zuckergrundbetrages
 
 (1) Der betriebsindividuelle Zuckergrundbetrag besteht aus der um 1,0 vom Hundert gekürzten Summe der
 
@@ -181,8 +172,7 @@ in einem zwischen dem Zuckerunternehmen und dem Betriebsinhaber bis spätestens 
 
 (4) Für Zichorien ergibt sich der Betrag nach Absatz 1 Nummer 2, indem die Hektarzahl der Flächen eines Betriebsinhabers, für die er für das Anbaujahr 2004 einen Anbauvertrag für die Erzeugung von Zichorien mit einem Inulinsirup erzeugenden Unternehmen im Rahmen der diesem Unternehmen mit Wirkung für das Wirtschaftsjahr 2004/2005 zugeteilten Inulinsirupquoten abgeschlossen hatte, mit 360 Euro je Hektar multipliziert wird.
 
-
-## § 5b – Stärkekartoffelerhöhungsbetrag für das Jahr 2012
+# § 5b – Stärkekartoffelerhöhungsbetrag für das Jahr 2012
 
 (1) Jeder Zahlungsanspruch für 2012 eines Betriebsinhabers, der für das Wirtschaftsjahr 2011/2012 einen Anbauvertrag nach Artikel 78 der Verordnung (EG) Nr. 73/2009 mit einem Kartoffelstärke erzeugenden Unternehmen schließt, wird auf Antrag – vorbehaltlich der Anwendung einer nach den oder im Rahmen der gemeinschaftsrechtlichen oder der unionsrechtlichen Vorschriften vorgesehenen Kürzung der Zahlungsansprüche – mit Wirkung nur für das Jahr 2012 um einen Stärkekartoffelerhöhungsbetrag erhöht. Der Stärkekartoffelerhöhungsbetrag wird ermittelt, indem die Stärkemenge, die in dem in Satz 1 genannten Vertrag bestimmt ist, mit dem Betrag von 66,32 Euro je Tonne multipliziert und durch die Zahl der Zahlungsansprüche, über die der Betriebsinhaber am 15. Mai 2012 verfügt, geteilt wird.
 
@@ -190,22 +180,19 @@ in einem zwischen dem Zuckerunternehmen und dem Betriebsinhaber bis spätestens 
 
 (3) § 5 Absatz 6 gilt für den Stärkekartoffelerhöhungsbetrag entsprechend.
 
-
-## § 5c – Einjähriger Erhöhungsbetrag für das Jahr 2012
+# § 5c – Einjähriger Erhöhungsbetrag für das Jahr 2012
 
 (1) Jeder Zahlungsanspruch in einer Region für das Jahr 2012 erhöht sich mit Wirkung nur für das Jahr 2012 – vorbehaltlich der Anwendung einer nach den oder im Rahmen der gemeinschaftsrechtlichen oder der unionsrechtlichen Vorschriften vorgesehenen Kürzung der Zahlungsansprüche – um einen einjährigen Erhöhungsbetrag. Der einjährige Erhöhungsbetrag wird ermittelt, in dem die Summe der nach § 5b Absatz 1 und 2 für die jeweilige Region ermittelten Beträge vom Anteil der jeweiligen Region am sechsten Erhöhungsbetrag abgezogen und der sich daraus ergebende Betrag durch die Zahl der Zahlungsansprüche in dieser Region für das Jahr 2012 geteilt wird. Für die Berechnung des einjährigen Erhöhungsbetrages werden nachträgliche Änderungen für das Jahr 2012 nicht berücksichtigt. Der einjährige Erhöhungsbetrag wird von der zuständigen Behörde im Bundesanzeiger bekannt gemacht.
 
 (2) § 5 Absatz 6 gilt für den einjährigen Erhöhungsbetrag entsprechend.
 
-
-## § 5d – Erhöhung der Zahlungsansprüche ab dem Jahr 2013
+# § 5d – Erhöhung der Zahlungsansprüche ab dem Jahr 2013
 
 (1) Jeder Zahlungsanspruch in einer Region für das Jahr 2012 erhöht sich mit Wirkung ab dem Jahr 2013 – vorbehaltlich der Anwendung einer nach den oder im Rahmen der gemeinschaftsrechtlichen oder der unionsrechtlichen Vorschriften vorgesehenen Kürzung der Zahlungsansprüche – um den Betrag, der sich bei Teilung des Anteils der jeweiligen Region am sechsten Erhöhungsbetrag durch die Zahl aller Zahlungsansprüche in dieser Region für das Jahr 2012 ergibt (regionaler Erhöhungswert). Für die Berechnung des regionalen Erhöhungswertes werden nachträgliche Änderungen für das Jahr 2012 nicht berücksichtigt. Der regionale Erhöhungswert einer Region wird von der zuständigen Behörde im Bundesanzeiger bekannt gemacht. Für die auf das Jahr 2012 folgenden Jahre ist § 6 Absatz 2 Nummer 2 entsprechend anzuwenden.
 
 (2) § 5 Absatz 6 gilt für den regionalen Erhöhungswert entsprechend.
 
-
-## § 6 – Anpassung der Zahlungsansprüche
+# § 6 – Anpassung der Zahlungsansprüche
 
 (1) Jeder Zahlungsanspruch eines Betriebsinhabers in einer Region für das Jahr 2009 (Startwert) ist – unbeschadet der §§ 5b bis 5d – bis einschließlich des Jahres 2013 (Anpassungsjahre) nach dem in Anlage 3 bestimmten Berechnungsverfahren zu einem für jede Region einheitlichen Zahlungsanspruch (regionaler Zielwert) anzugleichen. Bei der Berechnung der Anpassung der Zahlungsansprüche ist dazu ab dem Jahr 2010 der Startwert um den zusätzlichen betriebsindividuellen Tabakbetrag zu erhöhen. Der regionale Zielwert ergibt sich aus der Summe der Werte aller Zahlungsansprüche einer Region für das Jahr 2009, erhöht um die Summe der zusätzlichen Werte der Zahlungsansprüche, die sich aus der Berechnung nach § 5 Absatz 4c ergeben, geteilt durch die Summe der Zahlungsansprüche einer Region für das Jahr 2009. Für die Berechnung des regionalen Zielwerts werden nachträgliche Änderungen für das Jahr 2009 nicht berücksichtigt.
 
@@ -221,13 +208,11 @@ in dem dort vorgesehenen Umfang gekürzt.
 
 § 6 Abs. 1 mit Anlage 3 idF d. G v. 23.7.2004 I 1861: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.10.2008 -1 BvF 4/05 -
 
-
-## § 6a – Regionaler Wert
+# § 6a – Regionaler Wert
 
 Ab dem Jahr 2013 werden neue Zahlungsansprüche in Höhe der Summe aus dem – nach § 6 Absatz 2 Nummer 2 für das Jahr 2013 anzuwendenden gekürzten – regionalen Zielwert und dem – in entsprechender Anwendung des § 6 Absatz 2 Nummer 2 für das Jahr 2013 anzuwendenden gekürzten – regionalen Erhöhungswert (regionaler Wert) festgesetzt. Der regionale Wert einer Region wird von der zuständigen Behörde im Bundesanzeiger bekannt gemacht. Für die auf das Jahr 2013 folgenden Jahre ist § 6 Absatz 2 Nummer 2 auf den regionalen Wert entsprechend anzuwenden.
 
-
-## § 7 – Verarbeitung und Nutzung von Daten
+# § 7 – Verarbeitung und Nutzung von Daten
 
 (1) Die für die Durchführung der im Anhang VI der Verordnung (EG) Nr. 1782/2003 genannten Stützungsregelungen jeweils zuständigen Behörden übermitteln die von ihnen jeweils zum Zwecke der Gewährung der im Anhang VI der Verordnung (EG) Nr. 1782/2003 genannten Stützungsregelungen erhobenen Daten den für die Durchführung dieses Gesetzes zuständigen Behörden, soweit die Daten erforderlich sind, um die Beträge nach § 5 zu ermitteln. Die für die Durchführung dieses Gesetzes zuständigen Behörden dürfen die übermittelten Daten im Rahmen ihrer Aufgabenerfüllung zu dem in Satz 1 genannten Zweck verarbeiten und nutzen.
 
@@ -241,16 +226,14 @@ in einem Vertrag nach Artikel 6 der Verordnung (EG) Nr. 318/2006 für das Wirtsc
 
 (3) Die zuständigen Behörden übermitteln dem Bundesministerium bis zum 31. August 2008 die Summe der für jede Region ermittelten gesonderten Beträge nach § 5 Absatz 4b.
 
-
-## Anlage 1 – (zu § 4 Abs. 1)Aufteilung der angepassten nationalen Obergrenze auf die Regionen
+# Anlage 1 – (zu § 4 Abs. 1)Aufteilung der angepassten nationalen Obergrenze auf die Regionen
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Region</th><th style="text-align: center;">Anteil in % an<br />
 der angepassten nationalen Obergrenze</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Baden-Württemberg</td><td style="text-align: center;"> 7,6017</td></tr><tr class="even"><td style="text-align: left;">Bayern</td><td style="text-align: center;">19,6701</td></tr><tr class="odd"><td style="text-align: left;">Brandenburg und Berlin</td><td style="text-align: center;"> 7,2815</td></tr><tr class="even"><td style="text-align: left;">Hessen</td><td style="text-align: center;"> 4,1374</td></tr><tr class="odd"><td style="text-align: left;">Mecklenburg-Vorpommern</td><td style="text-align: center;"> 8,1409</td></tr><tr class="even"><td style="text-align: left;">Niedersachsen und Bremen</td><td style="text-align: center;">15,3941</td></tr><tr class="odd"><td style="text-align: left;">Nordrhein-Westfalen</td><td style="text-align: center;"> 9,2730</td></tr><tr class="even"><td style="text-align: left;">Rheinland-Pfalz</td><td style="text-align: center;"> 3,1693</td></tr><tr class="odd"><td style="text-align: left;">Saarland</td><td style="text-align: center;"> 0,3723</td></tr><tr class="even"><td style="text-align: left;">Sachsen</td><td style="text-align: center;"> 5,8367</td></tr><tr class="odd"><td style="text-align: left;">Sachsen-Anhalt</td><td style="text-align: center;"> 7,4850</td></tr><tr class="even"><td style="text-align: left;">Schleswig-Holstein und Hamburg</td><td style="text-align: center;"> 6,5504</td></tr><tr class="odd"><td style="text-align: left;">Thüringen</td><td style="text-align: center;"> 5,0876</td></tr></tbody></table>
 
 § 4 Abs. 1 mit Anlage 1 idF d. G v. 23.7.2004 I 1861: Mit GG (100-1) vereinbar gem. BVerfGE v. 14.10.2008 -1 BvF 4/05 -
 
-
-## Anlage 1a – (zu § 4 Absatz 3d)Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
+# Anlage 1a – (zu § 4 Absatz 3d)Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
 
 | Region                         |     Euro      |
 |:-------------------------------|:-------------:|
@@ -268,8 +251,7 @@ der angepassten nationalen Obergrenze</th></tr></thead><tbody><tr class="odd"><t
 | Schleswig-Holstein und Hamburg |    122 625,75 |
 | Thüringen                      |    945 252,98 |
 
-
-## Anlage 2 – (zu § 5 Abs. 3 Nr. 2)Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
+# Anlage 2 – (zu § 5 Abs. 3 Nr. 2)Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
 
 Region
 
@@ -357,8 +339,7 @@ Thüringen
 
 0,180
 
-
-## Anlage 3 – (zu § 6 Abs. 1)Berechnungsverfahren zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
+# Anlage 3 – (zu § 6 Abs. 1)Berechnungsverfahren zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
 
 wobei:
 

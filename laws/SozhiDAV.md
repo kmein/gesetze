@@ -1,20 +1,15 @@
-# [SozhiDAV] Verordnung zur Durchführung des § 118 Absatz 1, 1a und 2 des Zwölften Buches Sozialgesetzbuch  (Sozialhilfedatenabgleichsverordnung - SozhiDAV)
-
-Ausfertigungsdatum: 20.02.2018
-
+% Verordnung zur Durchführung des § 118 Absatz 1, 1a und 2 des Zwölften Buches Sozialgesetzbuch  (Sozialhilfedatenabgleichsverordnung - SozhiDAV)
+% Ausfertigungsdatum: 20.02.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 120 des Zwölften Buches Sozialgesetzbuch – Sozialhilfe –, der zuletzt durch Artikel 2 Nummer 5 des Gesetzes vom 17. August 2017 (BGBl. I S. 3214) geändert worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt das Verfahren und die Kosten der Datenabgleiche, die nach § 118 Absatz 1, 1a und 2 des Zwölften Buches Sozialgesetzbuch durchgeführt werden.
 
-
-## § 2 – Auswahl der Abgleichsfälle und des Abgleichszeitraums
+# § 2 – Auswahl der Abgleichsfälle und des Abgleichszeitraums
 
 (1) In den Datenabgleich nach § 118 Absatz 1 Satz 1 Nummer 1, 2 und 4 sowie Absatz 2 des Zwölften Buches Sozialgesetzbuch beziehen die Träger der Sozialhilfe alle Personen ein, die innerhalb des Abgleichszeitraums Leistungen nach dem Zwölften Buch Sozialgesetzbuch bezogen haben. Abgleichszeitraum ist das dem Datenabgleich vorangehende Kalendervierteljahr. Der Abgleich wird viermal jährlich jeweils für das vorangegangene Kalendervierteljahr durchgeführt. Im Fall des § 118 Absatz 1 Satz 1 Nummer 4 des Zwölften Buches Sozialgesetzbuch findet der Datenabgleich nur statt, soweit zuvor kein Datenabgleich nach § 118 Absatz 1a des Zwölften Buches Sozialgesetzbuch stattgefunden hat.
 
@@ -28,8 +23,7 @@ Abgleichszeitraum für den Datenabgleich im ersten und zweiten Kalenderviertelja
 
 (3) Der Datenabgleich nach § 118 Absatz 1a des Zwölften Buches Sozialgesetzbuch richtet sich nach dem dort beschriebenen Verfahren. Ein erneuter Bezug der Leistungen nach dem Dritten und Vierten Kapitel ist wie ein erstmaliger Bezug anzuzeigen.
 
-
-## § 3 – Übermittlung der Anfragedatensätze an die Vermittlungsstelle
+# § 3 – Übermittlung der Anfragedatensätze an die Vermittlungsstelle
 
 (1) Die Datenübermittlung von den Trägern der Sozialhilfe an die Datenstelle der Rentenversicherung als Vermittlungsstelle erfolgt
 
@@ -39,8 +33,7 @@ Abgleichszeitraum für den Datenabgleich im ersten und zweiten Kalenderviertelja
 
 (2) Die Träger der Sozialhilfe übermitteln die Anfragedatensätze mit den in § 118 Absatz 1 Satz 2 des Zwölften Buches Sozialgesetzbuch genannten Daten der einbezogenen Abgleichsfälle an die Vermittlungsstelle. Zusätzlich sind der Geburtsname, soweit er vom Familiennamen abweicht, und die Dauer des Sozialleistungsbezugs anzugeben. Außerdem müssen die Anfragedatensätze ein Erkennungszeichen bezogen auf den Empfänger der Leistungen nach dem Zwölften Buch Sozialgesetzbuch und Angaben enthalten, die eine eindeutige Zuordnung zu dem Träger der Sozialhilfe ermöglichen.
 
-
-## § 4 – Verfahren bei der Vermittlungsstelle; Weiterleitung der Anfragedatensätze
+# § 4 – Verfahren bei der Vermittlungsstelle; Weiterleitung der Anfragedatensätze
 
 (1) Die Vermittlungsstelle ergänzt die Anfragedatensätze für den Datenabgleich um die Versicherungsnummer. Sie übermittelt die Anfragedatensätze für den Datenabgleich nach § 2 Absatz 1 und 2 den folgenden Auskunftsstellen:
 
@@ -60,8 +53,7 @@ Abgleichszeitraum für den Datenabgleich im ersten und zweiten Kalenderviertelja
 
 (4) Die Vermittlungsstelle leitet die Anfragedatensätze für den Datenabgleich nach § 2 Absatz 3 unverzüglich der Zentralen Zulagenstelle für Altersvermögen weiter.
 
-
-## § 5 – Anforderungen an die Datenübermittlung
+# § 5 – Anforderungen an die Datenübermittlung
 
 (1) Das für die Datenübermittlung verwendete Übermittlungsmedium und das Übermittlungsverfahren müssen dem Stand der Technik entsprechend den Datenschutz und die Datensicherheit gewährleisten, insbesondere die Vertraulichkeit, die Unversehrtheit und die Zurechenbarkeit der Daten sowie die Authentizität von Absender und Empfänger der Daten.
 
@@ -75,8 +67,7 @@ Abgleichszeitraum für den Datenabgleich im ersten und zweiten Kalenderviertelja
 
 (4) Die Auskunftsstellen, die Datenstelle der Rentenversicherung in ihrer Funktion als Auskunftsstelle und die Vermittlungsstelle haben die ihnen übermittelten Daten unverzüglich nach Abschluss des Abgleichs zu löschen. Die Daten nach § 2 Absatz 3 sind nach der Anzeige der Beendigung des Leistungsbezugs zu löschen.
 
-
-## § 6 – Automatisierter Datenabgleich bei den Auskunftsstellen
+# § 6 – Automatisierter Datenabgleich bei den Auskunftsstellen
 
 (1) Die Bundesagentur für Arbeit gleicht die Anfragedatensätze, die ihr von der Vermittlungsstelle übermittelt worden sind, mit den bei ihr gespeicherten Daten ab. Der Abgleich erfolgt im Abgleichszeitraum zur Feststellung der Dauer des Bezugs und der monatlichen Höhe von laufenden Leistungen und von Einmalzahlungen der Bundesagentur für Arbeit als Träger der Arbeitsförderung.
 
@@ -102,29 +93,25 @@ Abgleichszeitraum für den Datenabgleich im ersten und zweiten Kalenderviertelja
 
 (7) Die Zentrale Zulagenstelle für Altersvermögen speichert die Anfragedatensätze nach § 2 Absatz 3, die ihr von der Vermittlungsstelle übermittelt worden sind. Wird das Ende des Bezugs von Leistungen nach dem Dritten oder Vierten Kapitel des Zwölften Buches Sozialgesetzbuch angezeigt, so sind alle Daten zu dieser Person, die der Zentralen Zulagenstelle für Altersvermögen von den Trägern der Sozialhilfe übermittelt worden sind, unverzüglich zu löschen. Liegt zum Zeitpunkt des Bezugs von Leistungen nach dem Dritten oder Vierten Kapitel des Zwölften Buches Sozialgesetzbuch eine schädliche Verwendung von steuerlich gefördertem Altersvermögen vor, so hat die Zentrale Zulagenstelle für Altersvermögen dies dem anfragenden Träger der Sozialhilfe über die Vermittlungsstelle anzuzeigen.
 
-
-## § 7 – Rückübermittlung der Antwortdatensätze
+# § 7 – Rückübermittlung der Antwortdatensätze
 
 (1) Die Auskunftsstellen übermitteln der Vermittlungsstelle die Antwortdatensätze zu den Anfragedatensätzen zum Datenabgleich nach § 2 Absatz 1 und 2 bis zum 15. des zweiten Monats, der auf den Abgleichszeitraum folgt. Die Daten zum Datenabgleich nach § 2 Absatz 3 werden spätestens fünf Werktage nach Kenntnis über eine schädliche Verwendung an die Vermittlungsstelle übermittelt.
 
 (2) Die Vermittlungsstelle stellt den Trägern der Sozialhilfe die Antwortdatensätze der Auskunftsstellen zum Datenabgleich nach § 2 Absatz 1 und 2 bis zum Ende des zweiten Monats, der auf den Abgleichszeitraum folgt, zur Verfügung. Die Antwortdatensätze der Zentralen Zulagenstelle für Altersvermögen zum Datenabgleich nach § 2 Absatz 3 werden unverzüglich nach Eingang zur Verfügung gestellt.
 
-
-## § 8 – Weiterverwendung der Antwortdatensätze
+# § 8 – Weiterverwendung der Antwortdatensätze
 
 (1) Die von der Vermittlungsstelle den Trägern der Sozialhilfe zur Verfügung gestellten Antwortdatensätze dürfen in das Fachverfahren übernommen werden. Sie sind durch die Träger der Sozialhilfe zu überprüfen.
 
 (2) Führt die Überprüfung nicht zu abweichenden Feststellungen, sind die Antwortdatensätze unverzüglich zu löschen. Führt die Überprüfung zu abweichenden Feststellungen, so dürfen die Antwortdatensätze zur Weiterverwendung im Fachverfahren gespeichert werden, um eine mögliche rechtswidrige Inanspruchnahme von Leistungen nach dem Zwölften Buch Sozialgesetzbuch zu überprüfen und überzahlte Beträge zurückzufordern.
 
-
-## § 9 – Verfahrensgrundsätze
+# § 9 – Verfahrensgrundsätze
 
 (1) Die Vermittlungsstelle legt die technischen Einzelheiten des Datenabgleichsverfahrens, insbesondere den Aufbau, die Übermittlung sowie die Prüfung und Berichtigung der Datensätze, in Verfahrensgrundsätzen fest.
 
 (2) Die Vermittlungsstelle soll die Auskunftsstellen und die obersten Landessozialbehörden an der Erarbeitung der Verfahrensgrundsätze mit dem Ziel beteiligen, einvernehmliche Festlegungen zu erreichen.
 
-
-## § 10 – Kosten der Vermittlungsstelle
+# § 10 – Kosten der Vermittlungsstelle
 
 (1) Die Träger der Sozialhilfe haben der Vermittlungsstelle zu gleichen Teilen die notwendigen Kosten für die Durchführung und Vermittlung des Datenabgleichs zu erstatten.
 
@@ -134,12 +121,10 @@ Abgleichszeitraum für den Datenabgleich im ersten und zweiten Kalenderviertelja
 
 (4) Der Betrag wird zum 1. April des jeweiligen Jahres fällig.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft. Gleichzeitig tritt die Sozialhilfedatenabgleichsverordnung vom 21. Januar 1998 (BGBl. I S. 103), die zuletzt durch Artikel 22 Absatz 9 des Gesetzes vom 11. November 2016 (BGBl. I S. 2500) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

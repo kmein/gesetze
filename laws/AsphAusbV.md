@@ -1,32 +1,25 @@
-# [AsphAusbV] Verordnung über die Berufsausbildung zum Asphaltbauer  (Asphaltbauer-Ausbildungsverordnung - AsphAusbV)
-
-Ausfertigungsdatum: 19.03.1984
-
+% Verordnung über die Berufsausbildung zum Asphaltbauer  (Asphaltbauer-Ausbildungsverordnung - AsphAusbV)
+% Ausfertigungsdatum: 19.03.1984
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufs
+# § 1 – Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Asphaltbauer wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre. Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsgrundbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
 § 2 Kursivdruck: Richtig "Berufsbildungsgesetz"
 
-
-## § 3 – Berufsfeldbreite Grundbildung
+# § 3 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 4 – Gliederung der Berufsausbildung
+# § 4 – Gliederung der Berufsausbildung
 
 (1) Die Berufsausbildung im ersten Ausbildungsjahr ist wie folgt zu gliedern:
 
@@ -46,8 +39,7 @@ Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundb
 
 (6) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der betrieblichen Ausbildungsstätte anzurechnen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -91,30 +83,25 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 20. Auftragen von Kunststoffbeschichtungen auf Gußasphalt.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in Abschnitt I für das erste Ausbildungsjahr und in Abschnitt II unter der laufenden Nummer 2 Buchstaben a und c, Nr. 6 Buchstaben a bis c, e und f, Nr. 7 Buchstaben a, b und e bis h und Nr. 9 für das zweite Ausbildungsjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 4 Stunden 2 Arbeitsproben durchführen.  
-Hierfür kommen insbesondere in Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 4 Stunden 2 Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1. Anfertigen einer der 3 folgenden Arbeitsproben aus dem Bereich der beruflichen Grundbildung:
 
@@ -164,13 +151,11 @@ Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-
-## § 10 – Abschlußprüfung
+# § 10 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit dieser für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden eine Arbeitsprobe durchführen.  
-Hierfür kommen insbesondere in Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden eine Arbeitsprobe durchführen. Hierfür kommen insbesondere in Betracht:
 
 1. Verlegen eines schwimmenden Estrichs, bestehend aus einer mehrlagigen Dämmung, Randstreifen und Gußasphaltestrich,
 
@@ -260,23 +245,19 @@ Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 11 – Berlin-Klausel
+# § 11 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1984 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – Ausbildungsrahmenplan für die Berufsausbildung zum Asphaltbauer
+# Anlage – Ausbildungsrahmenplan für die Berufsausbildung zum Asphaltbauer
 
 (Fundstelle: BGBl. I 1984, 461 - 467)
 
@@ -772,8 +753,7 @@ b) Kunststoffe für Beschichtungen vorbereiten und verarbeiten
 
 2
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

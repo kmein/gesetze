@@ -1,15 +1,11 @@
-# [AtSMV] Verordnung über den kerntechnischen Sicherheitsbeauftragten und über die Meldung von Störfällen und sonstigen Ereignissen  (Atomrechtliche Sicherheitsbeauftragten- und Meldeverordnung - AtSMV)
-
-Ausfertigungsdatum: 14.10.1992
-
+% Verordnung über den kerntechnischen Sicherheitsbeauftragten und über die Meldung von Störfällen und sonstigen Ereignissen  (Atomrechtliche Sicherheitsbeauftragten- und Meldeverordnung - AtSMV)
+% Ausfertigungsdatum: 14.10.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 1, 7 und 13 und des § 54 Abs. 1 Satz 1 und Abs. 2 Satz 1 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), § 54 Abs. 1 Satz 1 geändert durch Artikel 2 des Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830), verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Anlagen nach § 7 Absatz 1 des Atomgesetzes.
 
@@ -33,8 +29,7 @@ a) kein Kernbrennstoff in der Anlage vorhanden ist und
 
 b) das verbliebene Aktivitätsinventar bei offenen radioaktiven Stoffen nicht mehr als das 10⁷fache und bei umschlossenen radioaktiven Stoffen nicht mehr als das 10¹⁰fache der Freigrenzen nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung beträgt.
 
-
-## § 2 – Bestellung des kerntechnischen Sicherheitsbeauftragten
+# § 2 – Bestellung des kerntechnischen Sicherheitsbeauftragten
 
 (1) Der Inhaber einer Genehmigung zum Betrieb einer Anlage nach § 7 Absatz 1 des Atomgesetzes (Betreiber) hat für die Dauer des Betriebs der Anlage bis zur Erteilung einer Genehmigung zur Stilllegung der Anlage nach § 7 Absatz 3 des Atomgesetzes und darüber hinaus bis zur Kernbrennstofffreiheit der Anlage einen kerntechnischen Sicherheitsbeauftragten (Sicherheitsbeauftragten) und dessen Vertreter schriftlich zu bestellen. Werden von dem Betreiber mehrere Anlagen auf demselben Gelände betrieben, kann ein gemeinsamer Sicherheitsbeauftragter bestellt werden. Die Aufsichtsbehörde kann den Betreiber von der Verpflichtung zur Bestellung eines Sicherheitsbeauftragten befreien, soweit wegen der Menge oder Beschaffenheit der Kernbrennstoffe oder wegen bestimmter Schutzmaßnahmen oder Sicherheitseinrichtungen eine Bestellung nicht erforderlich ist.
 
@@ -50,15 +45,13 @@ b) das verbliebene Aktivitätsinventar bei offenen radioaktiven Stoffen nicht me
 
 3. die §§ 3 bis 5 und § 10.
 
-
-## § 3 – Pflichten des Betreibers
+# § 3 – Pflichten des Betreibers
 
 (1) Der Betreiber hat den Sicherheitsbeauftragten bei der Erfüllung seiner Aufgaben zu unterstützen und ihm insbesondere, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist, Fach- und Hilfspersonal zur Verfügung zu stellen.
 
 (2) Der Betreiber hat dafür zu sorgen, daß der Sicherheitsbeauftragte die zur Erfüllung seiner Aufgaben erforderlichen Informationen erhält und ihm Verwaltungsakte und sonstige Maßnahmen, die seine Aufgaben oder Befugnisse betreffen, zur Kenntnis gegeben werden.
 
-
-## § 4 – Aufgaben des Sicherheitsbeauftragten
+# § 4 – Aufgaben des Sicherheitsbeauftragten
 
 (1) Der Sicherheitsbeauftragte hat innerhalb der Betriebsorganisation am Standort der Anlage unbeschadet der Verantwortung des Betreibers
 
@@ -84,8 +77,7 @@ zu sorgen und an der Durchführung dieser Aufgaben mitzuwirken,
 
 (2) Der Sicherheitsbeauftragte hat bei der Erfüllung seiner Aufgaben mit dem Betriebs- oder Personalrat und den Fachkräften für Arbeitssicherheit sowie nach anderen Vorschriften bestellten Betriebsbeauftragten in der Anlage zusammenzuarbeiten und diese über wichtige Angelegenheiten der kerntechnischen Sicherheit zu unterrichten. Er hat den Betriebs- oder Personalrat auf dessen Verlangen in Angelegenheiten der kerntechnischen Sicherheit zu beraten.
 
-
-## § 5 – Stellung des Sicherheitsbeauftragten
+# § 5 – Stellung des Sicherheitsbeauftragten
 
 (1) Der Sicherheitsbeauftragte darf bei der Erfüllung seiner Aufgaben nicht behindert und wegen seiner Tätigkeit nicht benachteiligt werden.
 
@@ -95,8 +87,7 @@ zu sorgen und an der Durchführung dieser Aufgaben mitzuwirken,
 
 (3) Die Stellung des Sicherheitsbeauftragten und seine Aufgaben gemäß § 4 sind im einzelnen im Betriebshandbuch festzulegen.
 
-
-## § 6 – Meldepflicht
+# § 6 – Meldepflicht
 
 (1) Der Inhaber einer Genehmigung nach § 6, § 7 Absatz 1 oder Absatz 3 Satz 1 oder einer Genehmigung oder eines Planfeststellungsbeschlusses nach § 9b des Atomgesetzes, einer Genehmigung zum Umgang mit radioaktiven Stoffen in der Schachtanlage Asse II oder einer Genehmigung nach § 9 des Atomgesetzes oder § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes zur Lagerung, Bearbeitung oder Verarbeitung radioaktiver Stoffe als radioaktive Abfälle, mit dem Ziel, diese radioaktiven Abfälle geordnet zu beseitigen (Meldepflichtiger) hat Unfälle, Störfälle oder sonstige für die kerntechnische Sicherheit bedeutsame Ereignisse (meldepflichtige Ereignisse) der Aufsichtsbehörde zu melden.
 
@@ -108,22 +99,19 @@ zu sorgen und an der Durchführung dieser Aufgaben mitzuwirken,
 
 (4) (weggefallen)
 
-
-## § 7 – Inhalt der schriftlichen Meldung
+# § 7 – Inhalt der schriftlichen Meldung
 
 (1) Der Meldepflichtige hat in der Meldung an die Aufsichtsbehörde nach § 8 Abs. 1 Satz 1 Nr. 1 bis 4 mittels amtlichen Meldeformulars das meldepflichtige Ereignis, dessen Ursachen und Auswirkungen, die Behebung der Auswirkungen sowie Vorkehrungen gegen Wiederholungen so zu beschreiben, daß sie im Hinblick auf die kerntechnische Sicherheit ausreichend beurteilt werden können. Die Aufsichtsbehörde gibt ein amtliches Meldeformular bekannt.
 
 (2) In der schriftlichen Meldung durch fernmeldemäßige Übertragung nach § 8 Abs. 1 Nr. 1 und 2 soll der Meldepflichtige die nach dem Meldeformular erforderlichen Angaben machen, soweit Angaben unverzüglich gemacht werden können und Daten bekannt sind.
 
-
-## § 7a – Elektronische Kommunikation
+# § 7a – Elektronische Kommunikation
 
 (1) Die Übermittlung elektronischer Dokumente ist erst zulässig, wenn die Aufsichtsbehörde dem Meldepflichtigen mitgeteilt hat, dass ein Zugang hierfür eröffnet wurde.
 
 (2) Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen. Im Fall der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden, die dem jeweiligen Stand der Technik entsprechen.
 
-
-## § 8 – Meldeverfahren
+# § 8 – Meldeverfahren
 
 (1) Meldepflichtige Ereignisse sind zu melden
 
@@ -153,8 +141,7 @@ Die Aufsichtsbehörde kann nähere Anordnungen über die Meldung treffen.
 
 (7) Stellt sich nach Kenntnis aller relevanten Tatsachen heraus, dass ein gemeldetes Ereignis nicht meldepflichtig war, teilt der Meldepflichtige dies der Aufsichtsbehörde unter Angabe der hierfür maßgeblichen Tatsachen schriftlich mit.
 
-
-## § 9 – Ergänzende Pflichten des Meldepflichtigen
+# § 9 – Ergänzende Pflichten des Meldepflichtigen
 
 (1) Der Meldepflichtige zeigt der Aufsichtsbehörde monatlich die Anzahl der seit Übermittlung der vorangegangenen Anzeige eingetretenen meldepflichtigen Ereignisse an.
 
@@ -166,40 +153,33 @@ b) Anfertigung von Lichtbildern,
 
 c) Anlegen einer ausführlichen Schadensdokumentation.
 
-
-## § 10 – Prüfung durch den Sicherheitsbeauftragten
+# § 10 – Prüfung durch den Sicherheitsbeauftragten
 
 Der Sicherheitsbeauftragte hat die Richtigkeit und Vollständigkeit der Meldung eines meldepflichtigen Ereignisses zu prüfen, das Ergebnis seiner Prüfung auf dem Meldeformular zu vermerken und mit seiner Unterschrift zu versehen. Gleiches gilt für die Anzeige nach § 9 Abs. 1.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 46 Abs. 1 Nr. 4 des Atomgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 6 Absatz 1 oder Absatz 3, jeweils in Verbindung mit § 7 Absatz 1 Satz 1 oder § 8 Absatz 1 Satz 1, jeweils auch in Verbindung mit § 1 Absatz 2 oder § 8 Absatz 6, oder entgegen § 8 Absatz 2 Satz 2 oder Satz 3 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
 2. entgegen § 9 Abs. 1 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet oder
 
 3. entgegen § 10 das Ergebnis der Prüfung nicht oder nicht richtig vermerkt.
 
-
-## § 12 – Verhältnis zu anderen Vorschriften
+# § 12 – Verhältnis zu anderen Vorschriften
 
 Die §§ 108 bis 110 der Strahlenschutzverordnung finden im Anwendungsbereich dieser Verordnung keine Anwendung.
 
+# § 13 – (weggefallen)
 
-## § 13 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
+# Anlage 1 – Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
 
 (Fundstelle: BGBl. I 2010, 757 - 762)
 
@@ -660,8 +640,7 @@ Anlageninterner Brand, anlageninterne Explosion, Überflutung oder sonstige Einw
 
 Nicht zu melden sind örtlich begrenzte Kleinstbrände im Zusammenhang mit Änderungs- oder Instandhaltungsarbeiten, für die vorbeugende Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der Brandbekämpfung wirksam war.
 
-
-## Anlage 2 – Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes der Kernbrennstoffversorgung und -entsorgung
+# Anlage 2 – Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes der Kernbrennstoffversorgung und -entsorgung
 
 (Fundstelle: BGBl. I 2010, 763 - 766)
 
@@ -910,8 +889,7 @@ Kriterium N 3.2.1
 
 Anlageninterner Brand, anlageninterne Explosion, heftige chemische Reaktion, Überflutung, Absturz einer schweren Last oder eine sonstige Einwirkung von innen, sofern die Anlage hiervon betroffen und dies nicht von den Kriterien S 3.2.1 oder E 3.2.1 erfasst ist.
 
-
-## Anlage 3 – Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen, die überwiegend Forschungszwecken dienen
+# Anlage 3 – Meldekriterien für meldepflichtige Ereignisse in Anlagen nach § 7 des Atomgesetzes zur Spaltung von Kernbrennstoffen, die überwiegend Forschungszwecken dienen
 
 (Fundstelle: BGBl. I 2010, 767 - 772)
 
@@ -1358,8 +1336,7 @@ Kriterium V 4.2
 
 Ereignis an einem sicherheitstechnisch wichtigen System oder Anlagenteil, soweit dieses Ereignis im Hinblick auf den späteren sicheren Betrieb von Bedeutung ist.
 
-
-## Anlage 4 – Meldekriterien für meldepflichtige Ereignisse in Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes
+# Anlage 4 – Meldekriterien für meldepflichtige Ereignisse in Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes
 
 (Fundstelle: BGBl. I 2010, 773 - 776)
 
@@ -1369,8 +1346,7 @@ Die Meldekriterien für meldepflichtige Ereignisse für in Stilllegung befindlic
 
 2. nicht der Spaltung von Kernbrennstoffen dienten und bei denen das Schutzziel „Unterkritikalität” nicht mehr relevant ist,
 
-soweit für diese eine Genehmigung nach § 7 Absatz 3 des Atomgesetzes bereits erteilt wurde.  
-Liegen diese Anwendungskriterien nicht vor, finden je nach Genehmigungs- und Anlagentyp die Anlagen 1, 2 oder 3 weiterhin Anwendung.
+soweit für diese eine Genehmigung nach § 7 Absatz 3 des Atomgesetzes bereits erteilt wurde. Liegen diese Anwendungskriterien nicht vor, finden je nach Genehmigungs- und Anlagentyp die Anlagen 1, 2 oder 3 weiterhin Anwendung.
 
 1. Radiologie und Strahlenschutz
 
@@ -1602,8 +1578,7 @@ Anlageninterner Brand, anlageninterne Explosion, Überflutung oder sonstige Einw
 
 Nicht zu melden sind örtlich begrenzte Kleinstbrände im Zusammenhang mit Abbau-, Änderungs- oder Instandhaltungsarbeiten, für die vorbeugende planmäßige Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der Brandbekämpfung wirksam war.
 
-
-## Anlage 5 – Meldekriterien für meldepflichtige Ereignisse bei Aufbewahrungen nach § 6 des Atomgesetzes
+# Anlage 5 – Meldekriterien für meldepflichtige Ereignisse bei Aufbewahrungen nach § 6 des Atomgesetzes
 
 (Fundstelle: BGBl. I 2010, 777 - 779)
 
@@ -1786,8 +1761,7 @@ Einrichtungsinterner Brand, einrichtungsinterne Explosion, heftige chemische Rea
 
 Nicht zu melden sind örtlich begrenzte Kleinstbrände im Zusammenhang mit Änderungs- und Instandhaltungsarbeiten, für die vorbeugende Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der Brandbekämpfung wirksam war.
 
-
-## Anlage 6 – Meldekriterien für meldepflichtige Ereignisse in Einrichtungen der Entsorgung radioaktiver Abfälle nach § 9 des Atomgesetzes oder § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes
+# Anlage 6 – Meldekriterien für meldepflichtige Ereignisse in Einrichtungen der Entsorgung radioaktiver Abfälle nach § 9 des Atomgesetzes oder § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes
 
 (Fundstelle: BGBl. I 2018, 2202 - 2204)
 
@@ -1970,8 +1944,7 @@ Einrichtungsinterner Brand, einrichtungsinterne Explosion, chemische Reaktion, �
 
 Nicht zu melden sind örtlich begrenzte Kleinstbrände im Zusammenhang mit Änderungs- und Instandhaltungsarbeiten, für die vorbeugende Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der Brandbekämpfung wirksam war.
 
-
-## Anlage 7 – Meldekriterien für meldepflichtige Ereignisse in nach § 9b des Atomgesetzes zugelassenen Anlagen und der Schachtanlage Asse II
+# Anlage 7 – Meldekriterien für meldepflichtige Ereignisse in nach § 9b des Atomgesetzes zugelassenen Anlagen und der Schachtanlage Asse II
 
 (Fundstelle: BGBl. I 2018, 2204 - 2207)
 

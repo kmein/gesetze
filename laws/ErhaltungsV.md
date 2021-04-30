@@ -1,15 +1,11 @@
-# [ErhaltungsV] Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten   (Erhaltungssortenverordnung)
-
-Ausfertigungsdatum: 21.07.2009
-
+% Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten   (Erhaltungssortenverordnung)
+% Ausfertigungsdatum: 21.07.2009
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saatgut von Erhaltungssorten der in der Anlage der Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz in der Fassung der Bekanntmachung vom 27. Oktober 2004 (BGBl. I S. 2696) in der jeweils geltenden Fassung genannten Pflanzenarten, außer Rebe, Zierpflanzenarten und Obstarten.
 
-
-## § 2 – Voraussetzungen für die Zulassung als Erhaltungssorte
+# § 2 – Voraussetzungen für die Zulassung als Erhaltungssorte
 
 (1) Eine Sorte wird als Erhaltungssorte zugelassen, wenn
 
@@ -83,13 +79,11 @@ ausreichend sind.
 
 (5) Im Falle einer Erhaltungssorte von Gemüse wird in die Sortenliste statt der Angabe nach § 47 Absatz 1 Nummer 7 des Saatgutverkehrsgesetzes der Hinweis „Erhaltungssorte, deren Saatgut gemäß Artikel 11 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen. Handelt es sich um eine Amateursorte, wird abweichend von Satz 1 der Hinweis „für den Anbau unter bestimmten Bedingungen gezüchtete Sorte, deren Saatgut gemäß Artikel 26 der Richtlinie 2009/145/EG der Kommission kontrolliert wird“ eingetragen.
 
-
-## § 3 – Feststellung des landeskulturellen Wertes
+# § 3 – Feststellung des landeskulturellen Wertes
 
 Abweichend von § 34 des Saatgutverkehrsgesetzes hat eine Erhaltungssorte einen landeskulturellen Wert, wenn sie hinsichtlich der Erhaltung pflanzengenetischer Ressourcen bedeutsam ist. Diese Voraussetzung ist insbesondere dann erfüllt, wenn eine erhebliche Verringerung der genetischen Vielfalt droht.
 
-
-## § 4 – Antrag auf Zulassung einer Erhaltungssorte
+# § 4 – Antrag auf Zulassung einer Erhaltungssorte
 
 (1) Der Antragsteller hat mit dem Antrag auf Zulassung einer Erhaltungssorte beim Bundessortenamt folgende Angaben zu machen und Unterlagen vorzulegen:
 
@@ -113,8 +107,7 @@ Abweichend von Satz 1 Nummer 1 sind mehrere Bezeichnungen für eine Sorte zuläs
 
 (2) Für den Antrag und die Angabe der Sortenbezeichnung sind die Vordrucke des Bundessortenamtes zu verwenden.
 
-
-## § 5 – Anforderungen an das Saatgut
+# § 5 – Anforderungen an das Saatgut
 
 (1) Abweichend von § 3 Absatz 1 Satz 1 Nummer 1 des Saatgutverkehrsgesetzes darf Saatgut zugelassener Erhaltungssorten ohne Anerkennung in den Verkehr gebracht werden.
 
@@ -150,8 +143,7 @@ Satz 1 Nummer 2 gilt nicht für Saatgut von Erhaltungssorten von Gemüse einschl
 
 (5) § 33 der Pflanzkartoffelverordnung findet auf Erhaltungssorten von Kartoffeln keine Anwendung.
 
-
-## § 6 – Beschränkung des Inverkehrbringens
+# § 6 – Beschränkung des Inverkehrbringens
 
 (1) Das Bundessortenamt setzt die Höchstmenge des je Erhaltungssorte und Jahr zum Inverkehrbringen zugelassenen Saatgutes derart fest, dass die festgesetzte Höchstmenge
 
@@ -183,13 +175,11 @@ nicht übersteigt. Reicht die Menge nach Satz 1 nicht aus, um 100 Hektar Fläche
 
 (7) Wer Saatgut von Erhaltungssorten in den Verkehr bringt, hat am Ende eines jeden Wirtschaftsjahres der zuständigen Behörde die Menge des in den Verkehr gebrachten Saatgutes je Erhaltungssorte schriftlich mitzuteilen.
 
-
-## § 7 – Zusätzliche Region für das Inverkehrbringen von Saatgut
+# § 7 – Zusätzliche Region für das Inverkehrbringen von Saatgut
 
 Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche Region für das Inverkehrbringen von Saatgut benennen, in der die natürlichen Anbaubedingungen für die Erhaltungssorte vergleichbar mit den Bedingungen der Ursprungsregion sind. Das Bundessortenamt lässt eine zusätzliche Region für das Inverkehrbringen von Saatgut nur zu, wenn für die betreffende Erhaltungssorte keine Genehmigung nach § 5 Absatz 3 erteilt worden ist und wenn der Antragsteller anhand einer Bescheinigung der im Ursprungsgebiet zuständigen Behörde nachweist, dass die Erhaltung der Sorte im Ursprungsgebiet sichergestellt ist.
 
-
-## § 8 – Verpackung und Verschließung
+# § 8 – Verpackung und Verschließung
 
 (1) Für Packungen mit Saatgut von Amateursorten gelten die in Anhang II der Richtlinie 2009/145/EG in der jeweils geltenden Fassung genannten Nettohöchstgewichte entsprechend.
 
@@ -197,8 +187,7 @@ Ein Antragsteller kann gegenüber dem Bundessortenamt eine zusätzliche Region f
 
 (3) Die Sicherungen dürfen nach Farbe und Aufschrift nicht mit Plomben, Banderolen oder Siegelmarken für Packungen anerkannten Saatgutes verwechselbar sein.
 
-
-## § 9 – Kennzeichnung
+# § 9 – Kennzeichnung
 
 Saatgut einer Erhaltungssorte darf nur in Packungen in den Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck oder ein Stempel mit folgenden Angaben befindet:
 

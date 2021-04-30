@@ -1,17 +1,11 @@
-# [KapResV] Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve  (Kapazitätsreserveverordnung - KapResV)
-
-Ausfertigungsdatum: 28.01.2019
-
+% Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve  (Kapazitätsreserveverordnung - KapResV)
+% Ausfertigungsdatum: 28.01.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13h des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), dessen Absätze 1 und 2 zuletzt durch Artikel 3 Nummer 7 Buchstabe a und b des Gesetzes vom 17. Dezember 2018 (BGBl. I S. 2549) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -43,13 +37,13 @@ Auf Grund des § 13h des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S.
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Beschaffung, die Teilnahmevoraussetzungen, den Einsatz und die Abrechnung der Kapazitätsreserve nach § 13e des Energiewirtschaftsgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -99,8 +93,7 @@ Im Sinne dieser Verordnung bedeutet
 
 23. Vorhaltung: Aufrechterhaltung eines Zustandes einer Kapazitätsreserveanlage durch deren Betreiber, der die Wirkleistungseinspeisung oder die Reduktion des Wirkleistungsbezugs entsprechend der vertraglichen Vereinbarungen ermöglicht.
 
-
-## § 3 – Verhältnis zu den Strommärkten, Anschlussverwendung
+# § 3 – Verhältnis zu den Strommärkten, Anschlussverwendung
 
 (1) In der Kapazitätsreserve gebundene Erzeugungsanlagen und Speicher speisen ausschließlich auf Anforderung der Übertragungsnetzbetreiber ein. Die aufgrund gesetzlicher Vorgaben notwendigen Anfahrvorgänge bleiben davon unberührt. Der Betreiber muss geplante Anfahrvorgänge nach Satz 2 dem Anschluss-Übertragungsnetzbetreiber und, wenn die Anlage an ein Verteilernetz angeschlossen ist, dem Verteilernetzbetreiber unverzüglich schriftlich oder elektronisch mitteilen. Die Übertragungsnetzbetreiber können verlangen, dass der Anfahrvorgang zu einem anderen Zeitpunkt stattfindet, soweit dies technisch und rechtlich möglich ist. In der Kapazitätsreserve gebundene regelbare Lasten reduzieren ihren Wirkleistungsbezug vorbehaltlich der zulässigen Nichtverfügbarkeiten nach § 27 ausschließlich auf Anforderung der Übertragungsnetzbetreiber.
 
@@ -125,8 +118,7 @@ Das Wahlrecht ist innerhalb eines Monats ab Unterrichtung durch die Übertragung
 (+++ § 3 Abs. 1 Satz 2: Zur Anwendung vgl. § 25 Abs. 3 Satz 4 iVm Sätze 1 bis 3 +++)  
 (+++ § 3 Abs. 2 Satz 1 u. 2: Zur Anwendung vgl. § 24 Abs. 1 Satz 2 +++)
 
-
-## § 4 – Anzeige- und Mitteilungspflichten der Betreiber
+# § 4 – Anzeige- und Mitteilungspflichten der Betreiber
 
 (1) Der Betreiber einer Anlage muss der zuständigen Genehmigungsbehörde und der Bundesnetzagentur anzeigen, wenn
 
@@ -140,25 +132,21 @@ Das Wahlrecht ist innerhalb eines Monats ab Unterrichtung durch die Übertragung
 
 (4) Der Betreiber einer Kapazitätsreserveanlage ist verpflichtet, den Übertragungsnetzbetreibern und, wenn die Anlage an ein Verteilernetz angeschlossen ist, dem Verteilernetzbetreiber auf deren Verlangen unverzüglich die Informationen bereitzustellen, die notwendig sind, damit die Übertragungsnetze sicher und zuverlässig betrieben werden können. § 12 Absatz 4 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
 
-
-## § 5 – Verhältnis zur Regelenergie, zu abschaltbaren Lasten und zur Netzreserve
+# § 5 – Verhältnis zur Regelenergie, zu abschaltbaren Lasten und zur Netzreserve
 
 (1) Die Übertragungsnetzbetreiber dürfen die vorgehaltene Reserveleistung der Kapazitätsreserve nicht anrechnen bei der Bestimmung des Umfangs der zu beschaffenden Primärregelleistung, Sekundärregelleistung und Minutenreserveleistung sowie bei der Beschaffung abschaltbarer Lasten.
 
 (2) Soweit Kapazitätsreserveanlagen auch die Funktion der Netzreserve erfüllen können, berücksichtigen die Übertragungsnetzbetreiber sie beim Umfang der nach den §§ 3 und 4 der Netzreserveverordnung zu beschaffenden Netzreserve entsprechend.
 
-
-## § 6 – Grundsätze der Beschaffung, Zuständigkeit
+# § 6 – Grundsätze der Beschaffung, Zuständigkeit
 
 Die Übertragungsnetzbetreiber müssen die Kapazitätsreserve in einem wettbewerblichen, transparenten und diskriminierungsfreien Ausschreibungsverfahren beschaffen. Sie führen die Ausschreibungen gemeinsam durch.
 
-
-## § 7 – Gegenstand der Beschaffung
+# § 7 – Gegenstand der Beschaffung
 
 Gegenstand der Beschaffung ist die nach § 13e Absatz 2 und 5 des Energiewirtschaftsgesetzes bestimmte Größe der Kapazitätsreserve für den jeweiligen Erbringungszeitraum in Megawatt abzüglich der für diesen Erbringungszeitraum bereits gebundenen Reserveleistung.
 
-
-## § 8 – Ausschreibungs- und Erbringungszeitraum
+# § 8 – Ausschreibungs- und Erbringungszeitraum
 
 (1) Gebotstermin ist
 
@@ -170,8 +158,7 @@ Gegenstand der Beschaffung ist die nach § 13e Absatz 2 und 5 des Energiewirtsch
 
 (3) Ein Vertragsjahr beginnt am 1. Oktober eines Jahres und endet am 30. September des folgenden Kalenderjahres.
 
-
-## § 9 – Teilnahmevoraussetzungen
+# § 9 – Teilnahmevoraussetzungen
 
 (1) Jede Anlage muss für die Teilnahme am Beschaffungsverfahren – vorbehaltlich einer Präzisierung oder Änderung nach Absatz 4 – folgende Anforderungen erfüllen:
 
@@ -203,8 +190,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 (4) Die Teilnahmevoraussetzungen nach den Absätzen 1 und 2 sind vorbehaltlich einer Präzisierung oder Änderung durch Festlegung der Bundesnetzagentur nach § 42 anzuwenden, sofern eine solche Präzisierung oder Änderung nach den Erfahrungen oder Erwartungen in Bezug auf das Beschaffungsverfahren oder den Betrieb ausnahmsweise erforderlich erscheint.
 
-
-## § 10 – Sicherheitsleistung
+# § 10 – Sicherheitsleistung
 
 (1) Jeder Bieter muss bis zum Gebotstermin eine Erstsicherheit leisten. Die Erstsicherheit beträgt 15 Prozent der für ein Vertragsjahr höchstens erzielbaren Vergütung.
 
@@ -218,8 +204,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 2. nach § 8 Absatz 1 des Versicherungsaufsichtsgesetzes oder nach dem Recht eines Mitgliedstaates der Europäischen Union eine Erlaubnis zum Geschäftsbetrieb als Versicherungsunternehmen hat oder ohne Erlaubnis das Recht zum Geschäftsbetrieb als Versicherungsunternehmen in einem Mitgliedstaat der Europäischen Union hat.
 
-
-## § 11 – Bekanntmachung der Beschaffung
+# § 11 – Bekanntmachung der Beschaffung
 
 (1) Die Übertragungsnetzbetreiber müssen die Beschaffung spätestens drei Monate vor dem Gebotstermin auf einer gemeinsamen Internetplattform bekannt machen.
 
@@ -243,8 +228,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 9. die Festlegungen der Bundesnetzagentur nach § 42, soweit sie die Teilnahmevoraussetzungen, die Gebotsabgabe oder das Zuschlagsverfahren betreffen.
 
-
-## § 12 – Höchstwert
+# § 12 – Höchstwert
 
 (1) In jeder Ausschreibung ist ein Höchstwert vorgegeben. Der Gebotswert darf den Höchstwert nicht überschreiten.
 
@@ -252,8 +236,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 (3) Die Bundesnetzagentur kann abweichend von Absatz 2 den Höchstwert für jede Ausschreibung bis spätestens 15 Monate vor dem Gebotstermin durch Festlegung anpassen, höchstens jedoch auf das Zweifache des Höchstwertes nach Absatz 2, wenn aufgrund vorangegangener Ausschreibungen oder Erbringungszeiträume zu erwarten ist, dass der Höchstwert nicht angemessen ist, um die Reserveleistung zu beschaffen.
 
-
-## § 13 – Fristen, Bindung an Gebote
+# § 13 – Fristen, Bindung an Gebote
 
 (1) Jedes Gebot muss den Übertragungsnetzbetreibern spätestens bis zum Gebotstermin zugegangen sein.
 
@@ -261,8 +244,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 (3) Jeder Bieter ist an sein fristgerecht abgegebenes und nicht widerrufenes Gebot bis zum Ablauf des dritten auf den Gebotstermin folgenden Kalendermonats gebunden.
 
-
-## § 14 – Gebote
+# § 14 – Gebote
 
 (1) Für jeden Gebotstermin führen die Übertragungsnetzbetreiber ein Ausschreibungsverfahren für die gesamte in diesem Gebotstermin zu beschaffende Reserveleistung durch.
 
@@ -294,8 +276,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 (7) Die Gebotsmenge und der Gebotswert sind einheitlich für den gesamten Erbringungszeitraum anzugeben.
 
-
-## § 15 – Regeln für die Zusammenlegung
+# § 15 – Regeln für die Zusammenlegung
 
 (1) Um die Anforderungen nach § 9 zu erfüllen, können Betreiber regelbarer Lasten abweichend von § 14 Absatz 6 Satz 2 und 3 ein Konsortium bilden. Das Konsortium wird durch einen Bevollmächtigten als Konsortialführer vertreten und bei einer Ausschreibung als einzelner Bieter behandelt.
 
@@ -305,8 +286,7 @@ Die Übertragungsnetzbetreiber dürfen in Abstimmung mit der Bundesnetzagentur d
 
 (4) Jede regelbare Last, die einem Konsortium nach Absatz 1 Satz 1 angehört, muss die Anforderungen nach dieser Verordnung vollumfänglich selbst erfüllen, soweit nicht ausdrücklich die Erfüllung durch das Konsortium oder den Konsortialführer vorgesehen ist. Dies ist insbesondere für das Verhältnis zu den Strommärkten nach § 3 sowie die Meldung nach § 9 Absatz 2 Nummer 2 maßgebend.
 
-
-## § 16 – Beizufügende Nachweise und Erklärungen
+# § 16 – Beizufügende Nachweise und Erklärungen
 
 Dem Gebot sind in geeigneter Form beizufügen:
 
@@ -326,8 +306,7 @@ Dem Gebot sind in geeigneter Form beizufügen:
 
 8. einen Nachweis über die Vertretungsmacht der nach § 14 Absatz 5 Nummer 2 benannten natürlichen Person sowie gegebenenfalls des Konsortialführers nach § 15 Absatz 1 Satz 2.
 
-
-## § 17 – Prüfung und Ausschluss von Geboten und Bietern
+# § 17 – Prüfung und Ausschluss von Geboten und Bietern
 
 (1) Die Übertragungsnetzbetreiber dürfen die Gebote erst nach Ablauf des Gebotstermins öffnen.
 
@@ -359,8 +338,7 @@ Dem Gebot sind in geeigneter Form beizufügen:
 
 Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahmevoraussetzungen für die Kapazitätsreserve erfüllen, jedoch in der Ausschreibung, auf die sich der Verdacht der Absprache bezieht, kein Gebot abgegeben haben.
 
-
-## § 18 – Zuschlag
+# § 18 – Zuschlag
 
 (1) Die Übertragungsnetzbetreiber sollen den Zuschlag spätestens 75 Tage nach dem jeweiligen Gebotstermin erteilen. Überschreiten die Übertragungsnetzbetreiber die Frist nach Satz 1, müssen sie dies unverzüglich auf der gemeinsamen Internetplattform unter Angabe der zu erwartenden Verzögerung bekannt machen und die Bundesnetzagentur über die Gründe für die Verzögerung unterrichten.
 
@@ -380,8 +358,7 @@ Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahm
 
 (9) Unterschreitet die Summe der Gebotsmengen aller wirksam geschlossenen Verträge den Umfang der nach § 7 zu beschaffenden Reserveleistung, sollen die Übertragungsnetzbetreiber innerhalb eines angemessenen Zeitraums eine Nachbeschaffung nach § 23 durchführen.
 
-
-## § 19 – Vergütung
+# § 19 – Vergütung
 
 (1) Die Betreiber der Kapazitätsreserveanlagen erhalten im Erbringungszeitraum eine jährliche Vergütung in Höhe des Produkts aus Zuschlagswert und Gebotsmenge. Zusätzlich erhalten sie im Erbringungszeitraum die nach Absatz 4 zu erstattenden Kosten.
 
@@ -417,8 +394,7 @@ Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahm
 
 (7) Nicht gesondert erstattungsfähig sind Personalkosten, start- und betriebsstundenunabhängige Instandhaltungskosten, Kosten für die Brennstofflagerungsinfrastruktur sowie Kosten für die Gastransportkapazität.
 
-
-## § 20 – Teilnahme von Anlagen der Netzreserve
+# § 20 – Teilnahme von Anlagen der Netzreserve
 
 (1) Jeder Betreiber einer Anlage, die bereits als Netzreserve verpflichtet ist, kann für diese Anlage Gebote in der Ausschreibung der Kapazitätsreserve abgeben, wenn sie alle technischen und sonstigen Anforderungen nach dieser Verordnung erfüllt. Erhält ein solches Gebot einen Zuschlag, richtet sich die zu zahlende Vergütung ausschließlich nach § 13e Absatz 3 des Energiewirtschaftsgesetzes und § 19 dieser Verordnung.
 
@@ -426,15 +402,13 @@ Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahm
 
 (3) Im Falle des Absatzes 1 Satz 2 müssen die Übertragungsnetzbetreiber und die Anlagenbetreiber zwischen ihnen bestehende Verträge entsprechend der Vorgaben der Absätze 1 und 2 anpassen. Vereinbarte technische Anforderungen bleiben auf Anforderung der Übertragungsnetzbetreiber erhalten.
 
-
-## § 21 – Rechte und Pflichten aus dem Kapazitätsreservevertrag, Änderung und Übertragung des Vertrages
+# § 21 – Rechte und Pflichten aus dem Kapazitätsreservevertrag, Änderung und Übertragung des Vertrages
 
 (1) Der Kapazitätsreservevertrag kann von den Vertragsparteien nicht nachträglich so geändert werden, dass die Reserveleistung durch eine andere als die im Gebot bezeichnete Anlage erbracht werden kann.
 
 (2) Die Rechte und Pflichten aus dem Kapazitätsreservevertrag nach § 18 Absatz 2 sind nur gemeinsam mit der Nutzungsberechtigung an der Anlage, einschließlich des Grundstücks, sowie aller für den Betrieb der Anlage erforderlichen Genehmigungen und Anlagenteile übertragbar. Hierbei muss gewährleistet sein, dass die im Gebot bezeichnete Anlage weiterhin im vertraglich vereinbarten Umfang Reserveleistung für die Kapazitätsreserve zur Verfügung stellt.
 
-
-## § 22 – Kündigung des Vertrages
+# § 22 – Kündigung des Vertrages
 
 (1) Der nach § 18 Absatz 2 geschlossene Vertrag kann ausschließlich bei Vorliegen eines Grundes nach Absatz 2 oder bei Vorliegen der Voraussetzungen nach § 314 des Bürgerlichen Gesetzbuchs gekündigt werden.
 
@@ -448,8 +422,7 @@ Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahm
 
 4. die Voraussetzungen für einen Rücktritt nach § 323 des Bürgerlichen Gesetzbuchs vorliegen.
 
-
-## § 23 – Nachbeschaffung
+# § 23 – Nachbeschaffung
 
 (1) Die Übertragungsnetzbetreiber sollen die Reserveleistung in Abstimmung mit der Bundesnetzagentur in Verfahren zusätzlich zu den nach § 8 Absatz 1 vorgesehenen Verfahren beschaffen, wenn
 
@@ -463,8 +436,7 @@ Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahm
 
 (3) Ist die Nachbeschaffung nach Absatz 1 Nummer 3 nicht erfolgreich, entscheidet die Bundesnetzagentur über geeignete Maßnahmen zur Beschaffung der notwendigen Reserveleistung durch die Übertragungsnetzbetreiber. Sie kann hierzu Analysen von den Übertragungsnetzbetreibern anfordern.
 
-
-## § 24 – Grundsätze
+# § 24 – Grundsätze
 
 (1) Die Übertragungsnetzbetreiber dürfen die Kapazitätsreserve ausschließlich als Systemdienstleistung einsetzen. Die Verbote nach § 3 Absatz 2 Satz 1 und 2 sind entsprechend anzuwenden.
 
@@ -484,8 +456,7 @@ Dritte im Sinne von Satz 1 Nummer 3 sind Betreiber von Anlagen, die die Teilnahm
 
 4. Nachbesserungen nach § 30.
 
-
-## § 25 – Aktivierung
+# § 25 – Aktivierung
 
 (1) Um sicherzustellen, dass die Anlagen zum notwendigen Zeitpunkt die vollständige Reserveleistung einspeisen können, müssen die Übertragungsnetzbetreiber die Kapazitätsreserveanlagen aktivieren, wenn:
 
@@ -503,8 +474,7 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 
 (4) Maßnahmen, die nach § 13 Absatz 2 des Energiewirtschaftsgesetzes erforderlich sind, bleiben von Absatz 1 unberührt.
 
-
-## § 26 – Abruf
+# § 26 – Abruf
 
 (1) Der Abruf erfolgt nachrangig zu Maßnahmen nach § 13 Absatz 1 Nummer 1 und 2 des Energiewirtschaftsgesetzes. Der Abruf kann im Verhältnis zur Regelenergie abweichend von Satz 1 erfolgen, wenn dies für einen sicheren und zuverlässigen Betrieb des Übertragungsnetzes erforderlich ist.
 
@@ -514,8 +484,7 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 
 (4) Der Datenaustausch zum Abruf der Kapazitätsreserveanlage erfolgt entsprechend den Vorgaben des jeweiligen Anschluss-Übertragungsnetzbetreibers.
 
-
-## § 27 – Verfügbarkeit
+# § 27 – Verfügbarkeit
 
 (1) Die Aktivierung und der Abruf von Kapazitätsreserveanlagen mit der vollständigen Reserveleistung müssen jederzeit während des gesamten Erbringungszeitraums möglich sein, mit Ausnahme der nach den Absätzen 2 oder 3 zulässigen geplanten oder ungeplanten Nichtverfügbarkeiten. Die Anlagen müssen außerhalb des Zeitraums zulässiger Nichtverfügbarkeiten nach Absatz 3 Satz 1 die Anforderungen nach § 9 erfüllen.
 
@@ -523,8 +492,7 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 
 (3) Nichtverfügbarkeiten nach Absatz 2 sind zulässig, wenn und soweit die Kapazitätsreserveanlagen in einem Vertragsjahr insgesamt nicht mehr als drei Monate nicht verfügbar sind und die Nichtverfügbarkeiten rechtzeitig im Sinne von Absatz 2 Satz 1 und 4 mitgeteilt worden sind. Bei zulässigen Nichtverfügbarkeiten besteht der Vergütungsanspruch nach § 19 Absatz 1 auch während der Nichtverfügbarkeit fort. Aktivierungen nach § 25, Abrufe nach § 26 und Probeabrufe nach § 29 sind während zulässiger Nichtverfügbarkeiten untersagt.
 
-
-## § 28 – Funktionstest
+# § 28 – Funktionstest
 
 (1) Der Anschluss-Übertragungsnetzbetreiber führt für jede Kapazitätsreserveanlage einen Funktionstest durch, um zu überprüfen, ob die Kapazitätsreserveanlagen die Teilnahmevoraussetzungen nach § 9 erfüllen. Der Funktionstest umfasst insbesondere die Aktivierung und für eine Dauer von bis zu 12 Stunden den Abruf mit der vollständigen Reserveleistung. Der Anschluss-Übertragungsnetzbetreiber kann im Rahmen des Funktionstests auch die Angaben des Anlagenbetreibers nach § 16 Nummer 7 überprüfen.
 
@@ -534,8 +502,7 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 
 (+++ § 28: Zur Anwendung vgl. § 25 Abs. 3 Satz 4 iVm Sätze 1 bis 3 +++)
 
-
-## § 29 – Probeabrufe, Testfahrten
+# § 29 – Probeabrufe, Testfahrten
 
 (1) Der jeweilige Anschluss-Übertragungsnetzbetreiber muss wenigstens einmal und darf höchstens zweimal pro Vertragsjahr Probeabrufe der Kapazitätsreserveanlage mit der vollständigen Reserveleistung für eine Dauer von bis zu 12 Stunden ohne Vorankündigung gegenüber dem Betreiber durchführen. Die Übertragungsnetzbetreiber können für die Durchführung der Probeabrufe weitere Anforderungen bestimmen. Probeabrufe dürfen erst nach einem erfolgreichen Funktionstest nach § 28 durchgeführt werden. War der Funktionstest hinsichtlich einer Teilmenge der Reserveleistung erfolgreich, sind Probeabrufe für diese Teilmenge zulässig.
 
@@ -546,8 +513,7 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 (+++ § 29: Zur Anwendung vgl. § 25 Abs. 3 Satz 4 iVm Sätze 1 bis 3 +++)  
 (+++ § 29 Abs. 1 Satz 4: Zur Anwendung vgl. § 30 Abs. 2 Satz 3 +++)
 
-
-## § 30 – Nachbesserung
+# § 30 – Nachbesserung
 
 (1) Erbringt die Kapazitätsreserveanlage in den Fällen der Aktivierung nach § 25, des Abrufs nach § 26 oder des Probeabrufs nach § 29 Absatz 1 die vertraglich vereinbarte Leistung gar nicht, nicht rechtzeitig oder nicht vollständig, so muss der Betreiber innerhalb angemessener Frist nachbessern.
 
@@ -557,15 +523,13 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 
 (+++ § 30: Zur Anwendung vgl. § 25 Abs. 3 Satz 4 iVm Sätze 1 bis 3 +++)
 
-
-## § 31 – Abrechnung zwischen Übertragungsnetzbetreiber und Betreiber der Kapazitätsreserveanlage
+# § 31 – Abrechnung zwischen Übertragungsnetzbetreiber und Betreiber der Kapazitätsreserveanlage
 
 (1) Die Vergütung nach § 19 Absatz 1 Satz 1 muss der jeweilige Anschluss-Übertragungsnetzbetreiber monatlich jeweils zum zehnten Werktag anteilig für den vorangegangenen Monat an den Betreiber der Kapazitätsreserveanlage zahlen. Sonnabend, Sonntag und bundesweit einheitliche gesetzliche Feiertage sind keine Werktage im Sinne von Satz 1.
 
 (2) Kosten, die nach § 19 Absatz 4 gesondert zu erstatten sind, erstattet der jeweilige Anschluss-Übertragungsnetzbetreiber dem Betreiber der Kapazitätsreserveanlage, sobald und soweit dieser sie dargelegt und nachgewiesen hat.
 
-
-## § 32 – Abrechnung zwischen Übertragungsnetzbetreiber und Bilanzkreisverantwortlichem
+# § 32 – Abrechnung zwischen Übertragungsnetzbetreiber und Bilanzkreisverantwortlichem
 
 (1) Die Übertragungsnetzbetreiber rechnen Bilanzkreisunterspeisungen und Bilanzkreisüberspeisungen für die Fahrplanviertelstunden, in denen ein Abruf nach § 26 erfolgt ist, im Rahmen der Ausgleichsenergieabrechnung nach § 8 Absatz 2 der Stromnetzzugangsverordnung ab.
 
@@ -575,13 +539,11 @@ Bei der Aktivierung haben die Übertragungsnetzbetreiber jeweils die Anfahrtszei
 
 2. ein Abruf nach § 26 erfolgt ist.
 
-
-## § 33 – Kosten und Erlöse
+# § 33 – Kosten und Erlöse
 
 Die Übertragungsnetzbetreiber bringen die nach § 32 Absatz 2 entstehenden Erlöse, soweit sie die Erlöse übersteigen, die bei einer Ausgleichsenergieabrechnung ohne Vorliegen der Voraussetzungen des § 32 Absatz 2 entstanden wären, und die nach § 39 vereinnahmten Vertragsstrafen sowie nach § 40 endgültig einbehaltenen Sicherheiten von den ihnen bei der Durchführung dieser Verordnung entstehenden Kosten in Abzug. Sie weisen die Kosten, Erlöse und vereinnahmten Vertragsstrafen gegenüber der Bundesnetzagentur gesondert aus.
 
-
-## § 34 – Zahlungspflichten bei Nichtverfügbarkeit der Anlage
+# § 34 – Zahlungspflichten bei Nichtverfügbarkeit der Anlage
 
 (1) Erfüllt eine Kapazitätsreserveanlage im Rahmen der Funktionstests nach § 28 die Anforderungen nach § 9 bis zum Beginn des Erbringungszeitraums nicht, muss der Betreiber eine Vertragsstrafe in Höhe von 20 Prozent der für den gesamten Erbringungszeitraum vereinbarten Vergütung nach § 19 Absatz 1 Satz 1 an den Anschluss-Übertragungsnetzbetreiber leisten. Satz 1 ist entsprechend anzuwenden, wenn bis zum Beginn des Erbringungszeitraums kein Funktionstest durchgeführt wurde; es sei denn der Anschluss-Übertragungsnetzbetreiber hat die Nichtdurchführung zu vertreten.
 
@@ -601,8 +563,7 @@ Die Übertragungsnetzbetreiber bringen die nach § 32 Absatz 2 entstehenden Erl�
 
 (9) Die Vertragsstrafen nach den Absätzen 4 und 5 sind pro Vertragsjahr der Höhe nach auf die dem Betreiber für ein Vertragsjahr nach § 19 Absatz 1 Satz 1 grundsätzlich zustehende Vergütung begrenzt.
 
-
-## § 35 – Ausschluss bei höherer Gewalt
+# § 35 – Ausschluss bei höherer Gewalt
 
 (1) Betreiber von Kapazitätsreserveanlagen müssen keine Vertragsstrafe zahlen, wenn und soweit die Kapazitätsreserveanlage die vertraglich vereinbarte Leistung aufgrund von höherer Gewalt nicht erbringen kann; der Vergütungsanspruch entfällt für den Zeitraum der Nichtverfügbarkeit. Höhere Gewalt ist ein außergewöhnliches, betriebsfremdes, von außen durch elementare Naturkräfte oder Handlungen dritter Personen herbeigeführtes Ereignis, das nach menschlicher Einsicht und Erfahrung nicht vorhersehbar ist und mit wirtschaftlich erträglichen Mitteln auch durch die äußerste, vernünftigerweise zu erwartende Sorgfalt nicht verhütet oder unschädlich gemacht werden kann. Sie liegt insbesondere vor, wenn die vertraglich vereinbarte Leistung aufgrund folgender Ereignisse nicht erbracht werden kann:
 
@@ -622,13 +583,11 @@ Die Übertragungsnetzbetreiber bringen die nach § 32 Absatz 2 entstehenden Erl�
 
 (3) Nichtverfügbarkeiten von Kapazitätsreserveanlagen aufgrund von höherer Gewalt im Sinne von Absatz 1 werden nicht auf den Zeitraum nach § 27 Absatz 3 Satz 1 angerechnet.
 
-
-## § 36 – Verstoß gegen grundlegende Pflichten
+# § 36 – Verstoß gegen grundlegende Pflichten
 
 Im Falle eines Verstoßes gegen § 3 Absatz 2 bis 6 muss der Betreiber einer Kapazitätsreserveanlage eine Vertragsstrafe in Höhe von 100 Prozent der ihm für den gesamten Erbringungszeitraum zustehenden Vergütung an den Anschluss-Übertragungsnetzbetreiber leisten. Die Pflichten des Anlagenbetreibers nach § 3 Absatz 2 bis 6 gelten auch im Falle einer Vertragsstrafe nach Satz 1 uneingeschränkt fort. Verstößt der Anlagenbetreiber nach Zahlung der Vertragsstrafe nach Satz 1 erneut gegen § 3 Absatz 2 bis 6, soll die Bundesnetzagentur nach § 43 den Betrieb der Anlage untersagen.
 
-
-## § 37 – Vorbereitung und Durchführung der Ausschreibung
+# § 37 – Vorbereitung und Durchführung der Ausschreibung
 
 (1) Die Übertragungsnetzbetreiber ergreifen unverzüglich in Abstimmung mit der Bundesnetzagentur alle erforderlichen Maßnahmen zur Vorbereitung und Durchführung der Ausschreibung, insbesondere
 
@@ -642,8 +601,7 @@ Im Falle eines Verstoßes gegen § 3 Absatz 2 bis 6 muss der Betreiber einer Kap
 
 (3) Entscheidungen der Bundesnetzagentur nach Absatz 2 sind zuzustellen. § 73 Absatz 1a des Energiewirtschaftsgesetzes ist entsprechend anzuwenden.
 
-
-## § 38 – Veröffentlichungs- und Mitteilungspflichten
+# § 38 – Veröffentlichungs- und Mitteilungspflichten
 
 (1) Die Übertragungsnetzbetreiber veröffentlichen auf einer gemeinsamen Internetplattform innerhalb angemessener Frist
 
@@ -673,8 +631,7 @@ b) die Namen der Bieter, die einen Zuschlag erhalten, einschließlich gegebenenf
 
 (3) Die Übertragungsnetzbetreiber teilen den Bietern, deren Gebote nach § 17 vom weiteren Verfahren ausgeschlossen worden sind, und den Bietern, die keinen Zuschlag nach § 18 erhalten haben, die Gründe für den Ausschluss oder die Nichtbezuschlagung mit. Die Mitteilung nach Satz 1 hat zu erfolgen, sobald die Übertragungsnetzbetreiber die Zuschläge nach § 18 erteilt und alle bezuschlagten Bieter die Zweitsicherheit nach § 10 Absatz 2 geleistet haben.
 
-
-## § 39 – Durchsetzung von Vertragsstrafen
+# § 39 – Durchsetzung von Vertragsstrafen
 
 (1) Der Betreiber einer Kapazitätsreserveanlage muss die nach den §§ 34 und 36 fälligen Geldbeträge an den Anschluss-Übertragungsnetzbetreiber zahlen. Der jeweilige Anschluss-Übertragungsnetzbetreiber muss die Zahlung fälliger Vertragsstrafen durchsetzen.
 
@@ -684,8 +641,7 @@ b) die Namen der Bieter, die einen Zuschlag erhalten, einschließlich gegebenenf
 
 (4) Der Anschluss-Übertragungsnetzbetreiber ist berechtigt, vom Betreiber der Kapazitätsreserveanlage Unterlagen und Nachweise über die Einhaltung der Teilnahmevoraussetzungen nach § 9 sowie im Falle regelbarer Lasten über die Einhaltung des § 3 Absatz 3 zu verlangen.
 
-
-## § 40 – Rückgabe der Sicherheiten
+# § 40 – Rückgabe der Sicherheiten
 
 (1) Der Anschluss-Übertragungsnetzbetreiber muss die Erstsicherheit nach § 10 Absatz 1 unverzüglich an den Bieter zurückgeben, wenn
 
@@ -703,15 +659,13 @@ b) die Namen der Bieter, die einen Zuschlag erhalten, einschließlich gegebenenf
 
 Die Rückgabe ist auf den Betrag zu begrenzen, um den die Zweitsicherheit die mögliche Strafzahlung nach § 34 Absatz 4 Satz 1 überschreitet. Die Zweitsicherheit ist vollständig zurückzugeben, wenn der Vertrag beendet ist und der Anschluss-Übertragungsnetzbetreiber keine Forderungen gegen den Bieter aufgrund des Vertrages oder aufgrund dieser Verordnung hat.
 
-
-## § 41 – Mitwirkungspflicht der Verteilernetzbetreiber
+# § 41 – Mitwirkungspflicht der Verteilernetzbetreiber
 
 (1) Der Verteilernetzbetreiber, an dessen Netz die Anlage eines Bieters angeschlossen ist, ist verpflichtet eine Bestätigung nach § 16 Nummer 5 auszustellen. Er kann die Ausstellung nur unter Angabe eines oder mehrerer konkreter Gründe ablehnen. Als Gründe für die Ablehnung dürfen nur solche Hindernisse vorgebracht werden, die bis zum Beginn des jeweiligen Erbringungszeitraums voraussichtlich nicht beseitigt werden können. Ein die Ablehnung begründendes Hindernis im Sinne von Satz 3 liegt insbesondere dann vor, wenn das Hindernis nur durch Netzausbau beseitigt werden kann, der über den im Rahmen einer ordnungsgemäß durchgeführten Kapazitätsplanung nach § 11 Absatz 2 des Energiewirtschaftsgesetzes vorgesehenen Netzausbau hinausgeht.
 
 (2) Entstehen nach Erteilung der Bestätigung nach § 16 Nummer 5 Hindernisse für den Transport der bei Aktivierung, Abruf, Funktionstest und Probeabruf entstehenden Energiemengen durch das Verteilernetz, muss der Verteilernetzbetreiber unverzüglich den Betreiber der Kapazitätsreserveanlage und den Anschluss-Übertragungsnetzbetreiber informieren.
 
-
-## § 42 – Festlegungen
+# § 42 – Festlegungen
 
 Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 des Energiewirtschaftsgesetzes Entscheidungen treffen
 
@@ -731,29 +685,24 @@ Die Bundesnetzagentur kann durch Festlegung nach § 29 Absatz 1 des Energiewirts
 
 8. zur Durchführung der Abrechnung nach den §§ 31 und 33, insbesondere zur Konkretisierung der Kostenbestandteile und zum Nachweis entstandener Kosten.
 
-
-## § 43 – Betriebsuntersagung
+# § 43 – Betriebsuntersagung
 
 Die Bundesnetzagentur kann bei Verstößen gegen § 3 im Benehmen mit der zuständigen Aufsichtsbehörde den Betrieb der Anlage untersagen.
 
-
-## § 44 – Auskunftsanspruch
+# § 44 – Auskunftsanspruch
 
 Die Bundesnetzagentur und die Übertragungsnetzbetreiber haben dem Bundesministerium für Wirtschaft und Energie auf sein Verlangen jederzeit Auskunft über sämtliche aufgrund dieser Verordnung gespeicherten und nicht nach § 45 gelöschten Daten in nicht personenbezogener Form zu erteilen, soweit dies für dessen Aufgabenerfüllung nach § 13e des Energiewirtschaftsgesetzes erforderlich ist.
 
-
-## § 45 – Löschung von Daten
+# § 45 – Löschung von Daten
 
 Die aufgrund dieser Verordnung von der Bundesnetzagentur und den Übertragungsnetzbetreibern gespeicherten Daten sind unverzüglich zu löschen, wenn sie für die Erfüllung ihrer Aufgaben nach dieser Verordnung nicht mehr erforderlich sind.
 
-
-## § 46 – Rechtsschutz
+# § 46 – Rechtsschutz
 
 (1) Gerichtliche Rechtsbehelfe mit dem Ziel, die Übertragungsnetzbetreiber zur Erteilung eines Zuschlags zu verpflichten, sind statthaft. § 160 Absatz 3 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen ist entsprechend anzuwenden. Die Übertragungsnetzbetreiber müssen dem Rechtsbehelfsführer über den zum jeweiligen Gebotstermin ausgeschriebenen Umfang der Kapazitätsreserve hinaus einen entsprechenden Zuschlag erteilen, soweit sein Begehren Erfolg hat und sobald die gerichtliche Entscheidung formell rechtskräftig wird.
 
 (2) Die Erteilung eines Zuschlags bleibt wirksam, auch wenn Dritte im Rahmen eines Rechtsschutzverfahrens nach Absatz 1 die Erteilung eines Zuschlags begehren oder aufgrund eines solchen Verfahrens einen Zuschlag erhalten haben. Dies ist auch dann anzuwenden, wenn durch den Zuschlag der zum jeweiligen Gebotstermin ausgeschriebene Umfang der Kapazitätsreserve erreicht oder überschritten wird.
 
-
-## § 47 – Inkrafttreten
+# § 47 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

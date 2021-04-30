@@ -1,10 +1,7 @@
-# [FeinGehStempG] Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten
-
-Ausfertigungsdatum: 07.01.1886
-
+% Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten
+% Ausfertigungsdatum: 07.01.1886
  
-
-## ----
+# ----
 
 Auf Grund des § 3 des Gesetzes über den Feingehalt der Gold- und Silberwaren vom 16. Juli 1884 (Reichsgesetzbl. S. 120) hat der Bundesrat folgende Bestimmung getroffen:  
 Das Stempelzeichen für die Gold- und Silbergeräte muß enthalten:

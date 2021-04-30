@@ -1,10 +1,7 @@
-# [StrRehaG] Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet  (Strafrechtliches Rehabilitierungsgesetz - StrRehaG)
-
-Ausfertigungsdatum: 29.10.1992
-
+% Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet  (Strafrechtliches Rehabilitierungsgesetz - StrRehaG)
+% Ausfertigungsdatum: 29.10.1992
  
-
-## § 1 – Aufhebung rechtsstaatswidriger Entscheidungen
+# § 1 – Aufhebung rechtsstaatswidriger Entscheidungen
 
 (1) Die strafrechtliche Entscheidung eines staatlichen deutschen Gerichts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet) aus der Zeit vom 8. Mai 1945 bis zum 2. Oktober 1990 ist auf Antrag für rechtsstaatswidrig zu erklären und aufzuheben (Rehabilitierung), soweit sie mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbar ist, insbesondere weil
 
@@ -40,29 +37,25 @@ i) Hochverrat, Spionage, Anwerbenlassen zum Zwecke der Spionage, Landesverräter
 
 (6) Ein Antrag nach Absatz 1 ist unzulässig, soweit nach dem 2. Oktober 1990 über einen auf denselben Sachverhalt gestützten zulässigen Antrag auf Rehabilitierung oder Kassation rechtskräftig entschieden worden ist. Dies gilt nicht, soweit dargelegt wird, dass der frühere Antrag nach den Vorschriften dieses Gesetzes Erfolg gehabt hätte.
 
-
-## § 2 – Rechtsstaatswidrige Entscheidungen über Freiheitsentzug außerhalb eines Strafverfahrens
+# § 2 – Rechtsstaatswidrige Entscheidungen über Freiheitsentzug außerhalb eines Strafverfahrens
 
 (1) Die Vorschriften dieses Gesetzes finden auf eine außerhalb eines Strafverfahrens ergangene gerichtliche oder behördliche Entscheidung, mit der eine Freiheitsentziehung angeordnet worden ist, entsprechende Anwendung. Dies gilt insbesondere für eine Einweisung in eine psychiatrische Anstalt sowie eine Anordnung einer Unterbringung in einem Heim für Kinder oder Jugendliche, die der politischen Verfolgung oder sonst sachfremden Zwecken gedient hat.
 
 (2) Der Freiheitsentziehung werden Leben unter haftähnlichen Bedingungen oder Zwangsarbeit unter haftähnlichen Bedingungen gleichgestellt.
 
-
-## § 3 – Folgeansprüche
+# § 3 – Folgeansprüche
 
 (1) Die Aufhebung einer Entscheidung nach § 1 begründet Ansprüche nach Maßgabe dieses Gesetzes.
 
 (2) Wird eine Einziehung von Gegenständen oder eine Vermögenseinziehung aufgehoben, richtet sich die Rückübertragung oder Rückgabe von Vermögenswerten nach dem Vermögensgesetz und dem Investitionsvorranggesetz.
 
-
-## § 4 – Beendigung der Vollstreckung
+# § 4 – Beendigung der Vollstreckung
 
 (1) Die Vollstreckung einer strafgerichtlichen Entscheidung endet mit der Rechtskraft der aufhebenden Entscheidung, wenn die Vollstreckung noch nicht beendet ist. Durch einen Antrag nach § 1 wird die Vollstreckung einer noch nicht vollstreckten Rechtsfolge nicht gehemmt. Das Gericht kann einen Aufschub oder eine Unterbrechung der Vollstreckung anordnen.
 
 (2) Soweit die Entscheidung nicht aufgehoben wird, hat das Gericht die Vollstreckung für erledigt zu erklären, wenn ihre Fortsetzung unter Berücksichtigung der bereits vollstreckten Rechtsfolgen unverhältnismäßig wäre.
 
-
-## § 5 – Bundeszentralregister
+# § 5 – Bundeszentralregister
 
 (1) Die rechtskräftige Entscheidung und die durch Beschwerde angefochtene stattgebende Entscheidung des Gerichts sind dem Bundeszentralregister mitzuteilen; dies gilt nicht, wenn der Betroffene verstorben ist.
 
@@ -74,8 +67,7 @@ i) Hochverrat, Spionage, Anwerbenlassen zum Zwecke der Spionage, Landesverräter
 
 (5) Für die Fristberechnung gelten § 36 Nr. 3, § 64a Abs. 5 des Bundeszentralregistergesetzes entsprechend.
 
-
-## § 6 – Erstattung von Geldstrafen, Kosten des Verfahrens und notwendigen Auslagen des Betroffenen
+# § 6 – Erstattung von Geldstrafen, Kosten des Verfahrens und notwendigen Auslagen des Betroffenen
 
 (1) Soweit eine Entscheidung aufgehoben wird, besteht ein Anspruch auf Erstattung gezahlter Geldstrafen, Kosten des Verfahrens und notwendiger Auslagen des Betroffenen im Verhältnis von zwei Mark der Deutschen Demokratischen Republik zu einer Deutschen Mark. Bereits erfolgte Erstattungen sind anzurechnen.
 
@@ -83,8 +75,7 @@ i) Hochverrat, Spionage, Anwerbenlassen zum Zwecke der Spionage, Landesverräter
 
 (3) § 25 Absatz 1 gilt entsprechend.
 
-
-## § 7 – Antrag
+# § 7 – Antrag
 
 (1) Der Antrag nach § 1 kann
 
@@ -104,22 +95,19 @@ gestellt werden.
 
 (5) Verstirbt der Betroffene nach Antragstellung, können die nach Absatz 1 Nr. 2 oder 3 Antragsberechtigten binnen sechs Monaten die Fortsetzung des Verfahrens beantragen.
 
-
-## § 8 – Zuständiges Gericht
+# § 8 – Zuständiges Gericht
 
 (1) Für die Entscheidung nach § 1 ist das Bezirksgericht oder das an dessen Sitz errichtete Landgericht zuständig, in dessen Bezirk nach Maßgabe der Bezirksgerichtsgrenzen vom 3. Oktober 1990 das erstinstanzliche Strafverfahren oder das Ermittlungsverfahren durchgeführt worden ist. Soweit in erster Instanz das Oberste Gericht der Deutschen Demokratischen Republik entschieden hat, ist das Landgericht Berlin zuständig.
 
 (2) Hat sich der Gerichtsbezirk nach Erlass der angegriffenen Entscheidung geändert, bleibt das Gericht örtlich zuständig, das zum Zeitpunkt des Ergehens der angegriffenen Entscheidung nach Absatz 1 zuständig gewesen wäre.
 
-
-## § 9 – Besetzung der Rehabilitierungssenate oder Rehabilitierungskammern
+# § 9 – Besetzung der Rehabilitierungssenate oder Rehabilitierungskammern
 
 (1) Das Bezirksgericht entscheidet durch Rehabilitierungssenate, das Landgericht durch Rehabilitierungskammern, die jeweils mit drei Berufsrichtern besetzt sind.
 
 (2) Wer vor dem 3. Oktober 1990 im Beitrittsgebiet als Berufsrichter oder Staatsanwalt tätig war, ist von der Mitwirkung an Rehabilitierungsentscheidungen kraft Gesetzes ausgeschlossen, solange er nicht auf Grund des Deutschen Richtergesetzes und der dazu ergangenen Maßgaben des Einigungsvertrages in ein Richterverhältnis berufen worden ist. An einer Rehabilitierungsentscheidung darf nicht mehr als ein Richter mitwirken, der vor dem 3. Oktober 1990 im Beitrittsgebiet als Berufsrichter oder Staatsanwalt tätig war.
 
-
-## § 10 – Ermittlung des Sachverhalts
+# § 10 – Ermittlung des Sachverhalts
 
 (1) Das Gericht ermittelt den Sachverhalt von Amts wegen. Dabei bestimmt es Art und Umfang der Ermittlungen, insbesondere etwaiger Beweiserhebungen, nach pflichtgemäßem Ermessen.
 
@@ -131,8 +119,7 @@ gestellt werden.
 
 (5) Das Gericht kann die Durchführung einzelner Ermittlungen der Staatsanwaltschaft übertragen.
 
-
-## § 11 – Gerichtliches Verfahren
+# § 11 – Gerichtliches Verfahren
 
 (1) Ein Antrag soll bevorzugt bearbeitet werden, wenn dies unter den Gesichtspunkten der sozialen Dringlichkeit oder des Lebensalters des Antragstellers geboten erscheint.
 
@@ -144,8 +131,7 @@ gestellt werden.
 
 (5) Ist zu erwarten, dass die Entscheidung über den Antrag unmittelbare Wirkung auf die Rechte eines Dritten haben wird, so ist auch dieser an dem Verfahren zu beteiligen. Absatz 1 und Absatz 3 Satz 1 gelten insoweit entsprechend.
 
-
-## § 12 – Rehabilitierungsentscheidung
+# § 12 – Rehabilitierungsentscheidung
 
 (1) Das Gericht entscheidet durch Beschluss. Die Entscheidung ergeht im schriftlichen Verfahren, wenn nicht die Voraussetzungen einer Verkündung nach § 35 Abs. 1 der Strafprozessordnung vorliegen.
 
@@ -163,8 +149,7 @@ gestellt werden.
 
 (4) Der Beschluss ist mit einer Rechtsmittelbelehrung zu versehen und den Verfahrensbeteiligten zuzustellen.
 
-
-## § 13 – Beschwerde
+# § 13 – Beschwerde
 
 (1) Gegen den Beschluss kann innerhalb eines Monats nach seiner Zustellung Beschwerde eingelegt werden.
 
@@ -184,8 +169,7 @@ Satz 1 Nr. 2 gilt nicht, soweit die erfolgreiche Anfechtung zur Verkürzung eine
 
 (4) Will der Beschwerdesenat bei der Entscheidung einer Rechtsfrage von einer Entscheidung eines anderen Bezirksgerichts oder eines Oberlandesgerichts oder des Bundesgerichtshofes abweichen, hat er die Sache dem Bundesgerichtshof in entsprechender Anwendung von § 121 Abs. 2 des Gerichtsverfassungsgesetzes vorzulegen.
 
-
-## § 14 – Kosten des Verfahrens und notwendige Auslagen
+# § 14 – Kosten des Verfahrens und notwendige Auslagen
 
 (1) Kosten des Verfahrens werden nicht erhoben.
 
@@ -195,13 +179,11 @@ Satz 1 Nr. 2 gilt nicht, soweit die erfolgreiche Anfechtung zur Verkürzung eine
 
 (4) Für die notwendigen Auslagen des Antragstellers im Beschwerdeverfahren gilt § 473 Abs. 1 bis 4 der Strafprozessordnung entsprechend.
 
-
-## § 15 – Anwendbarkeit des Gerichtsverfassungsgesetzes und der Strafprozessordnung
+# § 15 – Anwendbarkeit des Gerichtsverfassungsgesetzes und der Strafprozessordnung
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die Vorschriften des Gerichtsverfassungsgesetzes und der Strafprozessordnung entsprechend.
 
-
-## § 16 – Soziale Ausgleichsleistungen
+# § 16 – Soziale Ausgleichsleistungen
 
 (1) Die Rehabilitierung begründet einen Anspruch auf soziale Ausgleichsleistungen für Nachteile, die dem Betroffenen durch eine Freiheitsentziehung entstanden sind.
 
@@ -211,8 +193,7 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die Vorschriften des
 
 (4) Die Leistungen nach den §§ 17 bis 19 bleiben als Einkommen bei Sozialleistungen, deren Gewährung von anderen Einkommen abhängig ist, unberücksichtigt.
 
-
-## § 17 – Kapitalentschädigung
+# § 17 – Kapitalentschädigung
 
 (1) Die Kapitalentschädigung beträgt 306,78 Euro für jeden angefangenen Kalendermonat einer mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung.
 
@@ -222,8 +203,7 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die Vorschriften des
 
 (4) Berechtigte, denen bereits eine Kapitalentschädigung nach § 17 Abs. 1 in Verbindung mit Abs. 2 in der bis zum 31. Dezember 1999 geltenden Fassung gewährt worden ist, erhalten auf Antrag eine Nachzahlung. Soweit die zusätzliche Kapitalentschädigung nach § 17 Abs. 1 Satz 2 in der bis zum 31. Dezember 1999 geltenden Fassung bewilligt worden ist, beträgt die Nachzahlung 25,56 Euro, in den übrigen Fällen 153,39 Euro für jeden angefangenen Kalendermonat einer mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung. Der Anspruch auf Nachzahlung ist übertragbar und vererblich, soweit auch die Kapitalentschädigung gemäß Absatz 3 übertragbar und vererblich ist.
 
-
-## § 17a – Besondere Zuwendung für Haftopfer
+# § 17a – Besondere Zuwendung für Haftopfer
 
 (1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten auf Antrag eine monatliche besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbare Freiheitsentziehung von insgesamt mindestens 90 Tagen erlitten haben. Die monatliche besondere Zuwendung für Haftopfer beläuft sich auf 330 Euro. Das Bundesministerium der Justiz und für Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025, die Höhe der monatlichen besonderen Zuwendung für Haftopfer.
 
@@ -251,8 +231,7 @@ der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgese
 
 (7) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt, gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer vorsätzlichen Straftat rechtskräftig verhängt worden ist, sofern die Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
 
-
-## § 18 – Unterstützungsleistungen
+# § 18 – Unterstützungsleistungen
 
 (1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten Unterstützungsleistungen, wenn die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung insgesamt weniger als 90 Tage betragen hat. Das gilt nicht für Berechtigte, denen in Härtefällen nach § 19 eine besondere Zuwendung nach § 17a gewährt wird. Für die Gewährung der Leistungen nach Satz 1 ist die nach § 15 des Häftlingshilfegesetzes errichtete Stiftung für ehemalige politische Häftlinge zuständig.
 
@@ -282,18 +261,15 @@ Absatz 1 Satz 3 und Absatz 2 gelten entsprechend.
 
 (6) Absatz 3 gilt entsprechend für die nächsten Angehörigen von Personen, die aus Anlass der Niederschlagung des Aufstandes vom 17. Juni 1953 im Beitrittsgebiet ihr Leben verloren haben, soweit eine Entscheidung nach § 12 des Verwaltungsrechtlichen Rehabilitierungsgesetzes ergangen ist.
 
-
-## § 19 – Härteregelung
+# § 19 – Härteregelung
 
 Ergibt sich eine besondere Härte daraus, dass keine Kapitalentschädigung oder keine besondere Zuwendung gezahlt wird, kann die zuständige Behörde dem Antragsteller diese Leistung zuerkennen.
 
-
-## § 20 – Kostenregelung
+# § 20 – Kostenregelung
 
 Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch Leistungen nach diesem Gesetz entstehen.
 
-
-## § 21 – Beschädigtenversorgung
+# § 21 – Beschädigtenversorgung
 
 (1) Ein Betroffener, der infolge der Freiheitsentziehung eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit er wegen desselben schädigenden Ereignisses bereits Versorgung auf Grund des Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, erhält.
 
@@ -305,15 +281,13 @@ Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch Leistungen n
 
 (5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Wenn die Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Folge einer Schädigung anerkannt werden; die Zustimmung kann allgemein erteilt werden.
 
-
-## § 22 – Hinterbliebenenversorgung
+# § 22 – Hinterbliebenenversorgung
 
 (1) Ist der Betroffene an den Folgen der Schädigung gestorben, erhalten die Hinterbliebenen auf Antrag Versorgung in entsprechender Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit die Hinterbliebenen bereits Versorgung auf Grund des Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, erhalten. § 21 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des Bundesversorgungsgesetzes sind entsprechend anzuwenden.
 
 (2) Ist ein Todesurteil infolge einer strafrechtlichen Entscheidung nach § 1 am Betroffenen vollstreckt worden, gilt Absatz 1 entsprechend.
 
-
-## § 23 – Zusammentreffen von Ansprüchen
+# § 23 – Zusammentreffen von Ansprüchen
 
 (1) Treffen Ansprüche aus § 21 dieses Gesetzes mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, wird die Versorgung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen nach diesem Gesetz gewährt.
 
@@ -321,13 +295,11 @@ Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch Leistungen n
 
 (3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die infolge einer Schädigung im Sinne des Bundesversorgungsgesetzes gestorben oder verschollen sind. Besteht bereits ein Anspruch auf Elternrente nach dem Bundesversorgungsgesetz, wird sie nach diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten entsprechend für den Anspruch auf Elternrente nach Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen; § 51 Abs. 2 Satz 2 des Bundesversorgungsgesetzes ist entsprechend anzuwenden.
 
-
-## § 24 – Anwendung des Bundesversorgungsgesetzes
+# § 24 – Anwendung des Bundesversorgungsgesetzes
 
 Die Bestimmungen über die entsprechende Anwendung des Bundesversorgungsgesetzes und der zu seiner Durchführung erlassenen Vorschriften gelten mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) aufgeführten Maßgaben.
 
-
-## § 25 – Zuständigkeiten
+# § 25 – Zuständigkeiten
 
 (1) Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 und zur Prüfung der Voraussetzungen des § 16 Abs. 2 ist die Landesjustizverwaltung zuständig, in deren Geschäftsbereich die Rehabilitierungsentscheidung ergangen ist. Die Landesregierungen können durch Rechtsverordnung andere Zuständigkeiten begründen. Über Streitigkeiten bei der Anwendung des § 16 Abs. 2 sowie der §§ 17, 17a und 19 entscheidet das nach § 8 zuständige Gericht. Die Vorschriften des Abschnitts 2 dieses Gesetzes gelten sinngemäß. Der Antrag auf gerichtliche Entscheidung ist innerhalb eines Monats seit Zustellung der Entscheidung nach Satz 1 zu stellen.
 
@@ -345,13 +317,11 @@ Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 an Berechtigte n
 
 (5) Soweit dieses Gesetz von den für die Kriegsopferversorgung zuständigen Verwaltungsbehörden durchgeführt wird, entscheiden über öffentlich-rechtliche Streitigkeiten die Gerichte der Sozialgerichtsbarkeit. Für diese Verfahren sind die Vorschriften des Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt unberührt.
 
-
-## § 25a – Verarbeitung von personenbezogenen Daten
+# § 25a – Verarbeitung von personenbezogenen Daten
 
 Personenbezogene Daten aus einem strafrechtlichen Rehabilitierungsverfahren dürfen auch für andere Verfahren zur Rehabilitierung, Wiedergutmachung oder Gewährung von Leistungen nach dem Häftlingshilfegesetz soweit erforderlich verarbeitet werden.
 
-
-## § 26 – Übergangsvorschrift
+# § 26 – Übergangsvorschrift
 
 (1) Anhängige Rehabilitierungs- und Kassationsverfahren sind nach den Vorschriften dieses Gesetzes fortzuführen.
 
@@ -359,7 +329,6 @@ Personenbezogene Daten aus einem strafrechtlichen Rehabilitierungsverfahren dür
 
 (3) Ist ein Rehabilitierungsverfahren bis zum Inkrafttreten dieses Gesetzes abgeschlossen, gelten für die Folgeansprüche die Vorschriften dieses Gesetzes entsprechend. Ist ein Kassationsverfahren nach den vom 3. Oktober 1990 bis zum Inkrafttreten dieses Gesetzes geltenden Vorschriften abgeschlossen, treten an die Stelle von Entschädigungsansprüchen die Folgeansprüche nach den Vorschriften dieses Gesetzes.
 
-
-## § 27 – (Aufhebung und Änderung anderer Vorschriften)
+# § 27 – (Aufhebung und Änderung anderer Vorschriften)
 
 \-

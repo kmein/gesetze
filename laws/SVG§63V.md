@@ -1,10 +1,7 @@
-# [SVG§63V] Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
-
-Ausfertigungsdatum: 15.05.1962
-
+% Verordnung über die einmalige Unfallentschädigung gemäß § 63 des Soldatenversorgungsgesetzes
+% Ausfertigungsdatum: 15.05.1962
  
-
-## § 1 – Flugdienst
+# § 1 – Flugdienst
 
 (1) Flugdienst im Sinne des § 63 Abs. 1 Nr. 1 und 2 des Soldatenversorgungsgesetzes ist jeder Aufenthalt, der an Bord eines Luftfahrzeugs zur Durchführung eines Flugauftrags oder eines sonstigen Befehls vom Beginn des Starts bis zur Beendigung der Landung erforderlich ist.
 
@@ -24,8 +21,7 @@ b) der Betrieb im Stand vom Anlassen des Triebwerks bis zum Stillstand des Trieb
 
 4. im Luftrettungsdienst oder in der Ausbildung zum Luftrettungsdienst Dienstverrichtungen im Gefahrenbereich der Rotoren eines Drehflüglers oder beim Ab- oder Aufseilen an einem Drehflügler.
 
-
-## § 2 – Fliegendes Personal
+# § 2 – Fliegendes Personal
 
 (1) Soldaten, die zur Besatzung eines einsitzigen oder zweisitzigen strahlgetriebenen Kampfflugzeugs gehören oder in der Ausbildung zum Angehörigen der Besatzung eines solchen Luftfahrzeugs stehen, sind Angehörige des fliegenden Personals von einsitzigen und zweisitzigen strahlgetriebenen Kampfflugzeugen.
 
@@ -47,8 +43,7 @@ sind Angehörige des besonders gefährdeten sonstigen fliegenden Personals.
 
 (3) Für Soldaten, die auf Grund eines Befehls in einem Luftfahrzeug des Bundes, eines Landes oder der verbündeten Streitkräfte mitfliegen, gelten die Absätze 1 und 2 sinngemäß.
 
-
-## § 3 – Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
+# § 3 – Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
 
 (1) Ein besonders gefährlicher Auftrag (§ 2 Abs. 2 Nr. 5) liegt vor bei vorgeschriebenen Flügen
 
@@ -84,8 +79,7 @@ sind Angehörige des besonders gefährdeten sonstigen fliegenden Personals.
 
 3. wenn das Luftfahrzeug steuerungsunfähig ist.
 
-
-## § 4 – Springendes Personal der Luftlandetruppen
+# § 4 – Springendes Personal der Luftlandetruppen
 
 Soldaten, die
 
@@ -99,8 +93,7 @@ Soldaten, die
 
 sind für die Dauer des Sprungdiensts (§ 5) springendes Personal der Luftlandetruppen.
 
-
-## § 5 – Sprungdienst
+# § 5 – Sprungdienst
 
 Sprungdienst ist
 
@@ -108,8 +101,7 @@ Sprungdienst ist
 
 2. der Fallschirmabsprung vom Zeitpunkt des Absprungs aus dem Luftfahrzeug bis zur Beendigung des Gesamtabsetzvorgangs.
 
-
-## § 6 – Soldaten im Bergrettungsdienst
+# § 6 – Soldaten im Bergrettungsdienst
 
 (1) Soldaten, die
 
@@ -127,8 +119,7 @@ sind während der Dienstverrichtung nach Absatz 2 Soldaten im Bergrettungsdienst
 
 (2) Bergrettungsdienst ist jede Dienstverrichtung, die beim Einsatz oder bei der Ausbildung zur Bergnothilfe ausgeübt wird, und zwar im Felsklettern ab Schwierigkeitsgrad III, im Eisgehen ab Schwierigkeitsgrad II oder unter sonstigen Bedingungen, mit denen eine besondere Lebensgefahr verbunden ist. Ausbildung sind auch alle Dienstverrichtungen im Sinne des Satzes 1, die notwendig sind, um den Soldaten für die Bergnothilfe in Übung zu halten.
 
-
-## § 7 – Kampfschwimmer und Minentaucher
+# § 7 – Kampfschwimmer und Minentaucher
 
 (1) Soldaten, die als Einzelkämpfer für besondere Aufgaben gegen Schiffe, Unterwasserhindernisse sowie sonstige Anlagen im Wasser ausgebildet, in Übung gehalten und eingesetzt werden, sind Kampfschwimmer.
 
@@ -146,15 +137,13 @@ sind während der Dienstverrichtung nach Absatz 2 Soldaten im Bergrettungsdienst
 
 (4) Der Minentaucherdienst der Marine umfaßt das Tauchen nach den verschiedenen Minentauchverfahren in stehenden und strömenden Gewässern unter Fortfall der sonst im Taucherdienst der Marine üblichen Sicherheitsvorkehrungen.
 
-
-## § 8 – Minendemonteure
+# § 8 – Minendemonteure
 
 (1) Minentaucher, die zu Dienstverrichtungen nach Absatz 2 ausgebildet, in Übung gehalten und eingesetzt werden, sind Minendemonteure.
 
 (2) Der dienstliche Einsatz an Minen unter Wasser umfaßt das Klassifizieren, Identifizieren und Beseitigen von Minen.
 
-
-## § 9 – Versuchspersonal für die Erprobung von Minen und ähnlichen Kampfmitteln
+# § 9 – Versuchspersonal für die Erprobung von Minen und ähnlichen Kampfmitteln
 
 (1) Soldaten, die zur Erprobung von Minen und ähnlichen Kampfmitteln planmäßig oder auf dem Kommandoweg vorübergehend eingesetzt sind, sind Angehörige des Versuchspersonals für die dienstliche Erprobung von Minen und ähnlichen Kampfmitteln. Dies gilt auch für Soldaten, die zur dienstlichen Erprobung von Abwehrmitteln an Minen und ähnlichen Kampfmitteln planmäßig oder auf dem Kommandoweg vorübergehend eingesetzt sind, wenn eine Mine oder ein ähnliches Kampfmittel den Unfall verursacht hat.
 
@@ -162,8 +151,7 @@ sind während der Dienstverrichtung nach Absatz 2 Soldaten im Bergrettungsdienst
 
 (3) Zur dienstlichen Erprobung gehören auch das Befördern, Verlegen, Wiederaufnehmen und sonstige dienstliche Verrichtungen, soweit die Tätigkeiten mit der Erprobung im Zusammenhang stehen.
 
-
-## § 10 – Munitionsuntersuchungspersonal
+# § 10 – Munitionsuntersuchungspersonal
 
 (1) Soldaten, die zur Untersuchung von Munition eingesetzt, und Soldaten, die dabei als Hilfskräfte tätig sind, gehören während des dienstlichen Umgangs mit Munition (Absatz 3) zum besonders gefährdeten Munitionsuntersuchungspersonal.
 
@@ -171,8 +159,7 @@ sind während der Dienstverrichtung nach Absatz 2 Soldaten im Bergrettungsdienst
 
 (3) Dienstlicher Umgang mit Munition ist das befohlene Untersuchen (Prüfen und Feststellen des Zustands) von Munition, deren Zustand zweifelhaft oder deren Herkunft unbekannt ist. Dazu gehören alle Dienstverrichtungen, die mit der Untersuchung im Zusammenhang stehen, insbesondere das Suchen, Markieren, Freilegen, Befördern, Zerlegen und Vernichten sowie das Entfernen, Auswechseln und Hinzufügen von Teilen.
 
-
-## § 11 – Besonders gefährlicher Einsatz mit tauchfähigen Landfahrzeugen oder schwimmfähigen gepanzerten Landfahrzeugen
+# § 11 – Besonders gefährlicher Einsatz mit tauchfähigen Landfahrzeugen oder schwimmfähigen gepanzerten Landfahrzeugen
 
 (1) Soldaten, die zur Besatzung eines tauchfähigen Landfahrzeugs gehören, befinden sich in besonders gefährlichem Einsatz, wenn sie mit ihrem Fahrzeug zum Tauchen oder Waten eingesetzt sind und die für ihren Ausstieg aus dem Fahrzeug bestimmte Luke unter Wasser gerät.
 
@@ -180,8 +167,7 @@ sind während der Dienstverrichtung nach Absatz 2 Soldaten im Bergrettungsdienst
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Soldaten, die auf Grund eines Befehls oder aus sonstigen dienstlichen Gründen in einem tauchfähigen Landfahrzeug oder einem schwimmfähigen gepanzerten Landfahrzeug mitfahren.
 
-
-## § 12 – U-Boot-Besatzungen
+# § 12 – U-Boot-Besatzungen
 
 (1) Soldaten, die sich auf Grund eines Befehls oder aus sonstigen dienstlichen Gründen an Bord eines U-Bootes befinden, sind Besatzungsmitglieder. Als Besatzungsmitglieder gelten auch die Soldaten, die für eine Verwendung auf einem U-Boot ausgebildet werden.
 
@@ -189,8 +175,7 @@ sind während der Dienstverrichtung nach Absatz 2 Soldaten im Bergrettungsdienst
 
 (3) U-Boote im Sinne der Absätze 1 und 2 sind auch die U-Boote der verbündeten Streitkräfte.
 
-
-## § 13 – Helm- und Schwimmtaucher
+# § 13 – Helm- und Schwimmtaucher
 
 (1) Soldaten, die zu Unterwasserarbeiten mit einem Helmtauchgerät ausgebildet, in Übung gehalten oder eingesetzt werden, sind Helmtaucher. Soldaten, die zu Unterwasserarbeiten mit einem Leichttauchgerät ausgebildet, in Übung gehalten oder eingesetzt werden, sind Schwimmtaucher.
 
@@ -200,26 +185,22 @@ a) des Helmtauchers vom Schließen bis zum Öffnen des Helmfensters;
 
 b) des Schwimmtauchers vom Auf- bis zum Absetzen der Schwimmaske.
 
-
-## § 14 – Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
+# § 14 – Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
 
 (1) Soldaten, die unterhalb eines Drehflügelflugzeuges im Schwebeflug Außenlasten ein- oder aushängen, befinden sich im Einsatz beim Ein- oder Aushängen von Außenlasten. Der Einsatz umfaßt auch die Ausbildung und Erprobung.
 
 (2) Das Ein- oder Aushängen von Außenlasten ist eine Dienstverrichtung, bei der die Einhängeöse eines Außenlastgerätes in den oder aus dem Lasthaken ein- oder ausgehängt wird.
 
-
-## § 15 – Angehörige des Kommandos Spezialkräfte
+# § 15 – Angehörige des Kommandos Spezialkräfte
 
 (1) Soldaten, die im Rahmen des Kommandos Spezialkräfte in besonderen militärischen Einsätzen verwendet oder hierfür ausgebildet werden, sind Angehörige des Kommandos Spezialkräfte. Entsprechendes gilt für andere Soldaten, die gemeinsam mit den in Satz 1 genannten Soldaten in besonderen Fällen eingesetzt oder ausgebildet werden.
 
 (2) Besonders gefährlich ist eine Diensthandlung, die bei einem besonderen militärischen Einsatz oder in der Ausbildung dazu vorgenommen wird und die nach der Art des Einsatzes oder der Ausbildung über die im Militärdienst übliche Gefährdung hinausgeht.
 
-
-## § 16 – Andere Angehörige des öffentlichen Dienstes im Bereich der Bundeswehr
+# § 16 – Andere Angehörige des öffentlichen Dienstes im Bereich der Bundeswehr
 
 Für Beamte, Angestellte und Arbeiter, die ihre Dienstobliegenheiten im Bereich der Bundeswehr verrichten, gelten die §§ 1 bis 15 entsprechend.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 \-

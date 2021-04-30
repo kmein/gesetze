@@ -1,15 +1,11 @@
-# [AGebV] Allgemeine Gebührenverordnung  (AGebV)
-
-Ausfertigungsdatum: 11.02.2015
-
+% Allgemeine Gebührenverordnung  (AGebV)
+% Ausfertigungsdatum: 11.02.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet die Bundesregierung:
 
-
-## § 1 – Regelungsgegenstand
+# § 1 – Regelungsgegenstand
 
 Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) im Anwendungsbereich des Bundesgebührengesetzes:
 
@@ -17,8 +13,7 @@ Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Lei
 
 2. die Festlegung von Gebühren für Beglaubigungen.
 
-
-## § 2 – Grundsätze
+# § 2 – Grundsätze
 
 (1) Die kostendeckende Gebühr muss diejenigen durchschnittlichen Kosten aller an der Leistungserbringung beteiligten öffentlichen Stellen decken, die
 
@@ -30,8 +25,7 @@ Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Lei
 
 (3) Die Regelungen zur Ermittlung der kostendeckenden Gebühr bilden die Grundlage für die Regelungen in den Besonderen Gebührenverordnungen nach § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes.
 
-
-## § 3 – Kosten der gebührenfähigen Leistung
+# § 3 – Kosten der gebührenfähigen Leistung
 
 (1) Mit der gebührenfähigen Leistung verbunden sind die Kosten für Tätigkeiten und Prozesse, die für die Leistungserbringung notwendig sind und
 
@@ -49,13 +43,11 @@ Gegenstand dieser Verordnung sind für individuell zurechenbare öffentliche Lei
 
 4. Kosten für sonstige Bereiche, die die Leistungserbringung vorbereiten, nachbereiten oder sonst unterstützen.
 
-
-## § 4 – Pauschalierung und Typisierung
+# § 4 – Pauschalierung und Typisierung
 
 Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig großen Aufwand ermitteln, können sie unter Anwendung pauschalierender und typisierender Maßstäbe näherungsweise ermittelt werden.
 
-
-## § 5 – Berücksichtigung der Auslagen
+# § 5 – Berücksichtigung der Auslagen
 
 (1) Soweit Auslagen in die Ermittlung der Gebühren einzubeziehen sind, können sie eingerechnet werden in:
 
@@ -69,8 +61,7 @@ Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig g
 
 (3) Soweit Auslagen gesondert abzurechnen sind, dürfen sie nicht in die kostendeckende Gebühr einbezogen werden.
 
-
-## § 6 – Gegenstand der Kostenermittlung
+# § 6 – Gegenstand der Kostenermittlung
 
 (1) Gegenstand der Ermittlung der durchschnittlichen Kosten ist ausschließlich die unter den Gebührentatbestand fallende gebührenfähige Leistung. Mehrere sachlich zusammenhängende gebührenfähige Leistungen können zu einem einheitlichen Gebührentatbestand zusammengefasst werden.
 
@@ -84,8 +75,7 @@ Lassen sich die Kosten nach § 3 nicht oder nur mit einem unverhältnismäßig g
 
 4. Kosten in Form von Mindereinnahmen, die durch eine nicht fristgerechte oder nicht erfolgte Zahlung, insbesondere durch eine Stundung oder einen Erlass, entstehen.
 
-
-## § 7 – Kalkulatorische Kosten
+# § 7 – Kalkulatorische Kosten
 
 (1) Als kalkulatorische Kosten sind ausschließlich die folgenden Kosten ansatzfähig:
 
@@ -117,15 +107,13 @@ Abweichend von Satz 2 ist der Zuschlag auf die Durchschnittsbezüge der Polizeiv
 
 (6) Nicht als kalkulatorisches Wagnis ansatzfähig ist der Ausfall von Gebührenforderungen.
 
-
-## § 8 – Verteilung der Gemeinkosten
+# § 8 – Verteilung der Gemeinkosten
 
 (1) Für die Verteilung der Gemeinkosten sind sachgerechte Maßstäbe anzuwenden, die an den für die gebührenfähige Leistung erforderlichen Zeit-, Personal- oder Sachaufwand anknüpfen sollen.
 
 (2) Ist eine Verteilung der Gemeinkosten nicht oder nur mit einem unverhältnismäßig großen Aufwand möglich, so werden sie mit einem angemessenen prozentualen Zuschlag auf die Einzelkosten angesetzt.
 
-
-## § 9 – Festgebühr
+# § 9 – Festgebühr
 
 (1) Die Festgebühr ist wie folgt zu berechnen:
 
@@ -139,8 +127,7 @@ b) der besonderen pauschalen Stundensätze nach Anlage 2 oder
 
 (2) Die Berechnungsmethoden können miteinander kombiniert werden.
 
-
-## § 10 – Zeitgebühr
+# § 10 – Zeitgebühr
 
 (1) Die Zeitgebühr ist nach dem Zeitaufwand, der für die Erbringung der gebührenfähigen Leistung im Einzelfall erforderlich ist, zu bestimmen.
 
@@ -156,8 +143,7 @@ b) der besonderen pauschalen Stundensätze nach Anlage 2 oder
 
 (4) Bei der Festsetzung einer Zeitgebühr ist für jede angefangene Viertelstunde ein Viertel des jeweiligen Stundensatzes anzusetzen.
 
-
-## § 11 – Rahmengebühr
+# § 11 – Rahmengebühr
 
 Die Unter- und die Obergrenze der Rahmengebühr ergeben sich
 
@@ -171,8 +157,7 @@ b) höchsten Stundensatzes mit dem höchsten Zeitaufwand, der für die Erbringun
 
 Für die Ermittlung der Stundensätze nach Satz 1 Nummer 1 gilt § 9 entsprechend.
 
-
-## § 12 – Gebühren für Beglaubigungen
+# § 12 – Gebühren für Beglaubigungen
 
 (1) Die Gebühr beträgt 11,20 Euro je Beglaubigungsvermerk für die Beglaubigung von
 
@@ -188,13 +173,11 @@ b) Ausdrucken elektronischer Dokumente,
 
 (2) Absatz 1 gilt nicht für die Vertretungen des Bundes im Ausland.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 5 Absatz 1 Nummer 1, § 9 Absatz 1 Nummer 1 Buchstabe a und § 10 Absatz 2 Nummer 1)
+# Anlage 1 – (zu § 5 Absatz 1 Nummer 1, § 9 Absatz 1 Nummer 1 Buchstabe a und § 10 Absatz 2 Nummer 1)
 
 (Fundstelle: BGBl. I 2021, 204 – 210)
 
@@ -210,8 +193,7 @@ Personaleinzel- und Sacheinzelkosten
 
 1\. mit Gemeinkostenzuschlag
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,90 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,90 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
 
 Verwaltungsbeschäftigte
 
@@ -233,11 +215,7 @@ bis E 15 Ü
 
 93,61
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,87 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekürzt werden.  
-Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Euro gekürzt werden.  
-Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.  
-Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,87 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekürzt werden. Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Euro gekürzt werden. Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden. Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekürzt werden.
 
 Polizeivollzugsbeamtinnen und -beamte
 
@@ -255,8 +233,7 @@ höherer Dienst
 
 2\. ohne Gemeinkostenzuschlag
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,70 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,70 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
 
 Verwaltungsbeschäftigte
 
@@ -278,11 +255,7 @@ bis E 15 Ü
 
 73,08
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,68 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.  
-Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.  
-Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.  
-Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,68 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden. Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden. Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden. Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekürzt werden.
 
 Polizeivollzugsbeamtinnen und -beamte
 
@@ -386,8 +359,7 @@ Sacheinzelkosten
 
 1\. mit Gemeinkostenzuschlag
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,59 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,59 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.
 
 Verwaltungsbeschäftigte
 
@@ -395,11 +367,7 @@ Verwaltungsbeschäftigte
 
 13,33
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,57 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekürzt werden.  
-Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Euro gekürzt werden.  
-Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden.  
-Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,57 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,08 Euro gekürzt werden. Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,11 Euro gekürzt werden. Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,05 Euro gekürzt werden. Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,02 Euro gekürzt werden.
 
 Polizeivollzugsbeamtinnen und -beamte
 
@@ -409,8 +377,7 @@ Polizeivollzugsbeamtinnen und -beamte
 
 2\. ohne Gemeinkostenzuschlag
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,46 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,46 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,07 Euro gekürzt werden.
 
 Verwaltungsbeschäftigte
 
@@ -418,11 +385,7 @@ Verwaltungsbeschäftigte
 
 10,41
 
-Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,45 Euro gekürzt werden.  
-Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden.  
-Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden.  
-Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden.  
-Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekürzt werden.
+Wenn Dienstreisen als Auslage abzurechnen sind, muss der Stundensatz um 0,45 Euro gekürzt werden. Wenn Sachverständige als Auslage abzurechnen sind, muss der Stundensatz um 0,06 Euro gekürzt werden. Wenn Hubschrauber als Auslage abzurechnen sind, muss der Stundensatz um 0,09 Euro gekürzt werden. Wenn Boote oder Schiffe als Auslage abzurechnen sind, muss der Stundensatz um 0,04 Euro gekürzt werden. Wenn Wasserwerfer als Auslage abzurechnen sind, muss der Stundensatz um 0,01 Euro gekürzt werden.
 
 Polizeivollzugsbeamtinnen und -beamte
 
@@ -430,8 +393,7 @@ Polizeivollzugsbeamtinnen und -beamte
 
 10,15
 
-
-## Anlage 2 – (zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)
+# Anlage 2 – (zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)
 
 (Fundstelle: BGBl. I 2021, 210 – 215)
 

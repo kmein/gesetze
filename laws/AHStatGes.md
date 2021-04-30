@@ -1,15 +1,11 @@
-# [AHStatGes] Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs  (Außenhandelsstatistikgesetz - AHStatGes)
-
-Ausfertigungsdatum: 01.05.1957
-
+% Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs  (Außenhandelsstatistikgesetz - AHStatGes)
+% Ausfertigungsdatum: 01.05.1957
  
-
-## § 1
+# § 1
 
 Über den grenzüberschreitenden Warenverkehr wird eine Bundesstatistik durchgeführt.
 
-
-## § 2
+# § 2
 
 (1) Anzumelden ist der Warenverkehr über die Grenze des Erhebungsgebietes. Anzumelden sind ferner der übrige Warenverkehr der Freihäfen, die Zollgutlagerung und die Veredelung einschließlich des Übergangs von Waren aus einem besonderen Zollverkehr in einen anderen oder in den freien Verkehr sowie der Erwerb und die Veräußerung von Seeschiffen.
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 01.05.1957
 
 (3) Waren im Sinne dieses Gesetzes sind alle beweglichen Sachen und elektrischer Strom.
 
-
-## § 3
+# § 3
 
 Bei der Anmeldung werden folgende Tatbestände erfaßt:
 
@@ -40,8 +35,7 @@ c) bei Zwischenauslandsverkehr: das Land, durch dessen Gebiet die Waren gesandt 
 \*)  
 Gem. Art. 4 iVm Art. 13 der Statistikänderungsverordnung vom 20.11.1996 I 1804 (StatÄndV 29-22-4) werden die Erhebungen mWv 27.11.1996 bis zum 30.6.2000 ausgesetzt
 
-
-## § 3a
+# § 3a
 
 Hilfsmerkmale der Erhebungen sind
 
@@ -61,13 +55,11 @@ b) EORI-Nummer, TCUI, Steuernummer aus der Umsatzsteuer-Voranmeldung und Umsatzs
 
 c) Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen.
 
-
-## § 3b
+# § 3b
 
 Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3a Nummer 1 werden gegenüber dem Statistischen Bundesamt erteilt, die Angaben zu § 3a Nummer 2 gegenüber dem Statistischen Bundesamt oder den Anmeldestellen nach § 5 Absatz 1. Die Angaben zu § 3a Nummer 1 Buchstabe c und Nummer 2 Buchstabe c sind freiwillig.
 
-
-## § 4
+# § 4
 
 (1) Zur Anmeldung ist verpflichtet
 
@@ -85,15 +77,13 @@ Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3a Nummer 1 werd
 
 (3) Durch Rechtsverordnung kann zur Erleichterung des Anmeldeverfahrens oder zur Regelung von Sonderfällen des Verkehrsablaufs bestimmt werden, daß andere am Warenverkehr beteiligte Personen zur Anmeldung sowie zur Ausstellung oder Ergänzung des Anmeldepapiers verpflichtet sind.
 
-
-## § 5
+# § 5
 
 (1) Anmeldestellen sind die Zollstellen.
 
 (2) Durch Rechtsverordnung können zur Vereinfachung des Anmeldeverfahrens der Kreis der Zollstellen näher bestimmt und begrenzt sowie andere Dienststellen zu Anmeldestellen erklärt werden.
 
-
-## § 6
+# § 6
 
 (1) Die Anmeldung ist durch Übergabe der amtlich vorgesehenen, ordnungsmäßig ausgefüllten Anmeldepapiere durch den Anmeldepflichtigen an die Anmeldestelle zu bewirken.
 
@@ -109,8 +99,7 @@ Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3a Nummer 1 werd
 
 2. soweit andere Rechtsvorschriften über die Wareneinfuhr und die Warenausfuhr dies aus Gründen der Verwaltungsvereinfachung erfordern.
 
-
-## § 7
+# § 7
 
 (1) Die Frachtführer im Land- und Luftverkehr haben im Falle der Ausfuhr bei der Übergabe der Anmeldepapiere an die Anmeldestelle schriftlich zu erklären, daß in ihnen alle der Anmeldepflicht unterliegenden Frachtstücke aufgeführt sind.
 
@@ -122,13 +111,11 @@ Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3a Nummer 1 werd
 
 (5) Bei der Ausfuhr von Waren des Zoll- oder Verbrauchsteuerverkehrs hat der Zoll- oder Steuerbeteiligte das Anmeldepapier der Zollstelle vorzulegen, die die Zoll- und Steuerpapiere ausfertigt. Entsprechendes gilt, wenn ein Nämlichkeitsschein oder Musterpaß für Freigut ausgefertigt wird.
 
-
-## § 8
+# § 8
 
 In Ausnahmefällen können zur Vermeidung unbilliger Härten oder aus Gründen einer erhebungstechnischen Vereinfachung durch Rechtsverordnung Erleichterungen im Anmeldeverfahren oder Befreiungen von der Anmeldung oder Ausnahmen von den Vorschriften des § 7 gewährt werden, soweit es mit dem Zweck der Außenhandelsstatistik vereinbar ist. In besonders gelagerten Einzelfällen können derartige Erleichterungen und Befreiungen auch durch den Präsidenten des Statistischen Bundesamtes verfügt werden.
 
-
-## § 9
+# § 9
 
 (1) Zur Auskunft verpflichtet nach § 10 des Gesetzes über die Statistik für Bundeszwecke vom 3. September 1953 (Bundesgesetzbl. I S. 1314) sind Personen, die verpflichtet sind
 
@@ -148,8 +135,7 @@ In Ausnahmefällen können zur Vermeidung unbilliger Härten oder aus Gründen e
 
 § 9 Abs. 1 Kursivdruck: Vgl. jetzt § 15 des Gesetzes über die Statistik für Bundeszwecke (Bundesstatistikgesetz - BStatG) v. 22.1.1987 I 462
 
-
-## § 10
+# § 10
 
 (1) Die Außenhandelsstatistik ist vom Statistischen Bundesamt nach § 2 Nr. 2 des Gesetzes über die Statistik für Bundeszwecke zu erheben und aufzubereiten.
 
@@ -157,20 +143,17 @@ In Ausnahmefällen können zur Vermeidung unbilliger Härten oder aus Gründen e
 
 § 10 Abs. 1 Kursivdruck: Vgl. jetzt § 3 Abs. 1 Nr. 2 des Gesetzes über die Statistik für Bundeszwecke (Bundesstatistikgesetz - BStatG) v. 22.1.1987 I 462
 
-
-## § 11
+# § 11
 
 (1) Das Statistische Bundesamt darf für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, Tabellen mit statistischen Ergebnissen an die fachlich zuständigen obersten Bundes- und Landesbehörden übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 (2) Das Statistische Bundesamt darf zur Berichterstattung der Bundesregierung über ihre Exportpolitik für konventionelle Rüstungsgüter die Angaben nach § 3 Nummer 2 zur Benennung der Ware an die fachlich zuständigen obersten Bundesbehörden übermitteln, soweit sie der Einordnung der Ware als ziviles Gut oder konventionelles Rüstungsgut dienen.
 
-
-## § 12
+# § 12
 
 Abkommen mit fremden Staaten bleiben unberührt.
 
-
-## § 13
+# § 13
 
 Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium der Finanzen werden ermächtigt, im Einvernehmen miteinander
 
@@ -178,11 +161,9 @@ Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium der 
 
 2. durch Rechtsverordnung die in §§ 3 und 4 verwendeten Begriffe näher zu bestimmen und Durchführungsbestimmungen für das Anmeldeverfahren zu erlassen.
 
+# §§ 14 und 15 – (weggefallen)
 
-## §§ 14 und 15 – (weggefallen)
-
-
-## § 16
+# § 16
 
 (1) § 13 tritt am Tage nach der Verkündung dieses Gesetzes in Kraft. Im übrigen tritt dieses Gesetz einen Monat nach seiner Verkündung in Kraft.
 

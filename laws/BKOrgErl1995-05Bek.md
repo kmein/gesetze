@@ -1,5 +1,3 @@
-# [BKOrgErl1995-05Bek] Bekanntmachung des Organisationserlasses des Bundeskanzlers
-
-Ausfertigungsdatum: 17.05.1995
-
+% Bekanntmachung des Organisationserlasses des Bundeskanzlers
+% Ausfertigungsdatum: 17.05.1995
  

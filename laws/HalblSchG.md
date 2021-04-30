@@ -1,10 +1,7 @@
-# [HalblSchG] Gesetz über den Schutz der Topographien von mikroelektronischen Halbleitererzeugnissen  (Halbleiterschutzgesetz - HalblSchG)
-
-Ausfertigungsdatum: 22.10.1987
-
+% Gesetz über den Schutz der Topographien von mikroelektronischen Halbleitererzeugnissen  (Halbleiterschutzgesetz - HalblSchG)
+% Ausfertigungsdatum: 22.10.1987
  
-
-## § 1 – Schutzgegenstand, Eigenart
+# § 1 – Schutzgegenstand, Eigenart
 
 (1) Dreidimensionale Strukturen von mikroelektronischen Halbleitererzeugnissen (Topographien) werden nach Maßgabe dieses Gesetzes geschützt, wenn und soweit sie Eigenart aufweisen. Satz 1 ist auch auf selbständig verwertbare Teile sowie Darstellungen zur Herstellung von Topographien anzuwenden.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 22.10.1987
 
 (4) Der Schutz nach Absatz 1 erstreckt sich nicht auf die der Topographie zugrundeliegenden Entwürfe, Verfahren, Systeme, Techniken oder auf die in einem mikroelektronischen Halbleitererzeugnis gespeicherten Informationen, sondern nur auf die Topographie als solche.
 
-
-## § 2 – Recht auf den Schutz
+# § 2 – Recht auf den Schutz
 
 (1) Das Recht auf den Schutz der Topographie steht demjenigen zu, der die Topographie geschaffen hat. Haben mehrere gemeinsam eine Topographie geschaffen, steht ihnen das Recht gemeinschaftlich zu.
 
@@ -33,8 +29,7 @@ Ausfertigungsdatum: 22.10.1987
 
 2. der Staat, dem sie angehören oder in dem sich ihr Sitz oder ihre Niederlassung befindet, nach einer Bekanntmachung des Bundesministers der Justiz und für Verbraucherschutz im Bundesgesetzblatt Deutschen im Sinne des Grundgesetzes und Personen mit Sitz oder Niederlassung im Geltungsbereich dieses Gesetzes einen entsprechenden Schutz gewährt.
 
-
-## § 3 – Anmeldung
+# § 3 – Anmeldung
 
 (1) Eine Topographie, für die Schutz geltend gemacht wird, ist beim Patentamt anzumelden. Für jede Topographie ist eine besondere Anmeldung erforderlich.
 
@@ -60,8 +55,7 @@ Es kann diese Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des
 
 (5) Werden die in Absatz 4 genannten Mängel innerhalb der Frist nach Absatz 4 nicht behoben, so gilt die Anmeldung als zurückgenommen.
 
-
-## § 4 – Eintragung, Bekanntmachung, Änderungen
+# § 4 – Eintragung, Bekanntmachung, Änderungen
 
 (1) Entspricht die Anmeldung den Anforderungen des § 3, so verfügt das Patentamt die Eintragung in das Register für Topographien, ohne die Berechtigung des Anmelders zur Anmeldung, die Richtigkeit der in der Anmeldung angegebenen Tatsachen und die Eigenart der Topographie zu prüfen.
 
@@ -81,8 +75,7 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 (4) Für Anträge in Angelegenheiten des Schutzes der Topographien (Topographieschutzsachen) mit Ausnahme der Löschungsanträge (§ 8) wird im Patentamt eine Topographiestelle gebildet, die von einem vom Präsidenten des Patentamts bestimmten rechtskundigen Mitglied geleitet wird. Über Löschungsanträge (§ 8) beschließt eine im Patentamt zu bildende Topographieabteilung, die mit zwei technischen Mitgliedern und einem rechtskundigen Mitglied zu besetzen ist. Im übrigen sind die Vorschriften des Gebrauchsmustergesetzes über die Gebrauchsmusterstelle und die Gebrauchsmusterabteilungen (§ 10), über die Rechtsmittel und Rechtsmittelverfahren (§ 18) und über die Geheimgebrauchsmuster (§ 9) entsprechend anzuwenden.
 
-
-## § 5 – Entstehung des Schutzes, Schutzdauer
+# § 5 – Entstehung des Schutzes, Schutzdauer
 
 (1) Der Schutz der Topographie entsteht
 
@@ -96,8 +89,7 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 (4) Der Schutz der Topographie kann nicht mehr in Anspruch genommen werden, wenn die Topographie nicht innerhalb von fünfzehn Jahren nach dem Tag der ersten Aufzeichnung nicht nur vertraulich geschäftlich verwertet oder beim Patentamt angemeldet wird.
 
-
-## § 6 – Wirkung des Schutzes
+# § 6 – Wirkung des Schutzes
 
 (1) Der Schutz der Topographie hat die Wirkung, daß allein der Inhaber des Schutzes befugt ist, sie zu verwerten. Jedem Dritten ist es verboten, ohne seine Zustimmung
 
@@ -115,15 +107,13 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 (3) Wer ein Halbleitererzeugnis erwirbt, ohne zu wissen oder wissen zu müssen, daß es eine geschützte Topographie enthält, kann es ohne Zustimmung des Inhabers des Schutzes weiterverwerten. Sobald er weiß oder wissen muß, daß ein Schutz der Topographie besteht, kann der Inhaber des Schutzes für die weitere geschäftliche Verwertung des Halbleitererzeugnisses eine nach den Umständen angemessene Entschädigung verlangen.
 
-
-## § 7 – Beschränkung der Wirkung des Schutzes
+# § 7 – Beschränkung der Wirkung des Schutzes
 
 (1) Der Schutz der Topographie wird nicht begründet, soweit gegen den als Inhaber Eingetragenen für jedermann ein Anspruch auf Löschung besteht (§ 8 Abs. 1 und 3).
 
 (2) Wenn der wesentliche Inhalt der Anmeldung der Topographie eines anderen ohne dessen Einwilligung entnommen ist, tritt dem Verletzten gegenüber der Schutz des Gesetzes nicht ein. Die Vorschriften des Patentgesetzes über den Anspruch auf Übertragung (§ 8) sind entsprechend anzuwenden.
 
-
-## § 8 – Löschungsanspruch, Löschungsverfahren
+# § 8 – Löschungsanspruch, Löschungsverfahren
 
 (1) Jedermann hat gegen den als Inhaber Eingetragenen Anspruch auf Löschung der Eintragung der Topographie, wenn
 
@@ -141,8 +131,7 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 (5) Die Vorschriften des Gebrauchsmustergesetzes über das Löschungsverfahren (§ 17) und über die Wirkung des Löschungsverfahrens auf eine Streitsache (§ 19) sind entsprechend anzuwenden.
 
-
-## § 9 – Schutzverletzung
+# § 9 – Schutzverletzung
 
 (1) Wer den Vorschriften des § 6 Abs. 1 zuwider den Schutz der Topographie verletzt, kann vom Verletzten auf Unterlassung in Anspruch genommen werden. Wer die Handlung vorsätzlich oder fahrlässig vornimmt, ist dem Verletzten zum Ersatz des daraus entstandenen Schadens verpflichtet. § 24 Abs. 2 Satz 2 und 3 des Gebrauchsmustergesetzes gilt entsprechend.
 
@@ -152,8 +141,7 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 (4) § 24g des Gebrauchsmustergesetzes gilt entsprechend.
 
-
-## § 10 – Strafvorschriften
+# § 10 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -171,32 +159,26 @@ Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 20
 
 (6) Wird auf Strafe erkannt, so ist, wenn der Verletzte es beantragt und ein berechtigtes Interesse daran dartut, anzuordnen, daß die Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu bestimmen.
 
-
-## § 11 – Anwendung von Vorschriften des Patentgesetzes und des Gebrauchsmustergesetzes
+# § 11 – Anwendung von Vorschriften des Patentgesetzes und des Gebrauchsmustergesetzes
 
 (1) Die Vorschriften des Patentgesetzes über die Erstattung von Gutachten (§ 29 Abs. 1 und 2), über die Wiedereinsetzung in den vorigen Stand (§ 123), über die Weiterbehandlung der Anmeldung (§ 123a), über die Wahrheitspflicht im Verfahren (§ 124), über die elektronische Verfahrensführung (§ 125a), über die Amtssprache (§ 126), über Zustellungen (§ 127), über die Rechtshilfe der Gerichte (§ 128) und über den Rechtsschutz bei überlangen Gerichtsverfahren (§ 128b) sind auch für Topographieschutzsachen anzuwenden.
 
 (2) Die Vorschriften des Gebrauchsmustergesetzes über die Bewilligung von Verfahrenskostenhilfe (§ 21 Abs. 2), über die Übertragung und die Lizenz (§ 22), über die Streitwertherabsetzung (§ 26), über die Gebrauchsmusterstreitsachen (§ 27), über die Inlandsvertretung (§ 28), über die Ermächtigungen zum Erlaß von Rechtsverordnungen (§ 29) und über die Schutzberühmung (§ 30) sind entsprechend anzuwenden.
 
+# §§ 12 bis 16 – ----
 
-## §§ 12 bis 16 – ----
+# §§ 17 bis 25 – ----
 
-
-## §§ 17 bis 25 – ----
-
-
-## § 26 – Übergangsvorschriften
+# § 26 – Übergangsvorschriften
 
 (1) Der Schutz der Topographie kann nicht für solche Topographien in Anspruch genommen werden, die früher als zwei Jahre vor Inkrafttreten dieses Gesetzes nicht nur vertraulich geschäftlich verwertet worden sind. Rechte aus diesem Gesetz können nur für die Zeit ab Inkrafttreten dieses Gesetzes geltend gemacht werden.
 
 (2) Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 9 Abs. 1 Satz 4 in der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar 2002 geltenden Fassung gleichgestellt ist.
 
-
-## § 27 – Berlin-Klausel
+# § 27 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes, des Gebrauchsmustergesetzes und des Patentgesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 28 – Inkrafttreten
+# § 28 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. November 1987 in Kraft.

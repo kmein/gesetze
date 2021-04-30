@@ -1,20 +1,15 @@
-# [SVLFGG] Gesetz zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
-
-Ausfertigungsdatum: 12.04.2012
-
+% Gesetz zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+% Ausfertigungsdatum: 12.04.2012
  
-
-## § 1 – Errichtung
+# § 1 – Errichtung
 
 Zum 1. Januar 2013 wird als Träger für die landwirtschaftliche Sozialversicherung eine bundesunmittelbare Körperschaft des öffentlichen Rechts mit Selbstverwaltung errichtet. Sie trägt den Namen „Sozialversicherung für Landwirtschaft, Forsten und Gartenbau“.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist zuständig für die Durchführung der landwirtschaftlichen Unfallversicherung, der Alterssicherung der Landwirte, der landwirtschaftlichen Krankenversicherung und der landwirtschaftlichen Pflegeversicherung.
 
-
-## § 3 – Eingliederung der Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
+# § 3 – Eingliederung der Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
 
 (1) Die landwirtschaftlichen Berufsgenossenschaften, die landwirtschaftlichen Alterskassen, die landwirtschaftlichen Krankenkassen, die landwirtschaftlichen Pflegekassen (bisherige Träger der landwirtschaftlichen Sozialversicherung) sowie der Spitzenverband der landwirtschaftlichen Sozialversicherung werden am 1. Januar 2013 in die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau eingegliedert.
 
@@ -22,27 +17,23 @@ Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist zuständig
 
 (3) Die bisherigen Träger der landwirtschaftlichen Sozialversicherung und der Spitzenverband der landwirtschaftlichen Sozialversicherung werden zum 1. Januar 2013 aufgelöst.
 
-
-## § 4 – Sitz, Aufbau und Satzung
+# § 4 – Sitz, Aufbau und Satzung
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist zweistufig aufgebaut. Der Sitz der Hauptverwaltung wird durch die Satzung bestimmt. Die Hauptverwaltungen aller bisherigen Träger der landwirtschaftlichen Sozialversicherung werden Geschäftsstellen. Bei der Aufgabenverteilung ist eine fachlich umfängliche Betreuung der Versicherten sicherzustellen.
 
 (2) Die Satzung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bedarf der Genehmigung des Bundesamtes für Soziale Sicherung.
 
-
-## § 5 – Dienstherrnfähigkeit, Dienstrecht
+# § 5 – Dienstherrnfähigkeit, Dienstrecht
 
 Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat das Recht, Beamtinnen und Beamte zu haben. Für die Dienstordnungsangestellten der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau gelten § 144 Satz 1 sowie die §§ 145 bis 147 des Siebten Buches Sozialgesetzbuch entsprechend.
 
-
-## § 6 – Kosten bei Errichtung
+# § 6 – Kosten bei Errichtung
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau sowie der Eingliederung der bisherigen Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung erforderlich sind, werden Abgaben und Gerichtskosten nach dem Gerichts- und Notarkostengesetz nicht erhoben.
 
 (2) Die Abgaben- und Gerichtskostenfreiheit ist von der zuständigen Stelle ohne Nachprüfung anzuerkennen, wenn die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bestätigt, dass die Maßnahme der Durchführung dieses Gesetzes dient.
 
-
-## § 7 – Altersrückstellungen, Verordnungsermächtigung
+# § 7 – Altersrückstellungen, Verordnungsermächtigung
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bildet für die bei ihr Beschäftigten, denen eine Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen gewährleistet wird, zweckgebundene Altersrückstellungen. Dies gilt nicht für die Beschäftigten, für die bereits Altersrückstellungen auf der Grundlage der §§ 172c und 219a des Siebten Buches Sozialgesetzbuch gebildet werden. Die Altersrückstellungen umfassen Versorgungsausgaben für Versorgungsbezüge und Beihilfen. Die Verpflichtung besteht auch, wenn die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau gegenüber ihren Tarifbeschäftigten Leistungen der betrieblichen Altersversorgung unmittelbar zugesagt hat.
 
@@ -58,8 +49,7 @@ Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat das Recht,
 
 (6) Versorgungsausgaben für die in Absatz 1 genannten Personenkreise, die ab dem Jahr 2040 entstehen, sowie Ausgaben, die anstelle von Versorgungsausgaben für diese Personenkreise geleistet werden, sind aus dem Altersrückstellungsvermögen zu leisten; die Aufsichtsbehörde kann eine frühere oder spätere Entnahme genehmigen.
 
-
-## § 8 – Zusammenarbeit mit Dritten
+# § 8 – Zusammenarbeit mit Dritten
 
 (1) Mit der regelmäßigen Wahrnehmung laufender Verwaltungsaufgaben in der landwirtschaftlichen Sozialversicherung kann die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau Dritte beauftragen, soweit dies einer wirtschaftlichen Aufgabenerfüllung und einer sachgerechten Betreuung der Versicherten dient und diese nicht durch eine Zusammenarbeit mit den Versicherungsämtern gewährleistet werden kann. § 88 Absatz 3 und § 90 Satz 1 des Zehnten Buches Sozialgesetzbuch gelten entsprechend. Die Wahrnehmung von Verwaltungsaufgaben durch Dritte bedarf der Genehmigung durch die Aufsichtsbehörde. Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat mit dem Dritten einen Vertrag abzuschließen, in dem Art, Inhalt und Umfang der vom Dritten zu erbringenden Leistungen sowie die ihm zu gewährende Vergütung für die einzelnen Leistungen geregelt sind; in dem Vertrag ist ferner eine regelmäßige Wirtschaftlichkeitsprüfung vorzusehen.
 

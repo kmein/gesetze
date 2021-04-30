@@ -1,15 +1,11 @@
-# [AktFoV] Verordnung über das Aktionärsforum nach § 127a des Aktiengesetzes  (Aktionärsforumsverordnung - AktFoV)
-
-Ausfertigungsdatum: 22.11.2005
-
+% Verordnung über das Aktionärsforum nach § 127a des Aktiengesetzes  (Aktionärsforumsverordnung - AktFoV)
+% Ausfertigungsdatum: 22.11.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 127a Abs. 5 des Aktiengesetzes, der durch Artikel 1 Nr. 7 des Gesetzes vom 22. September 2005 (BGBl. I S. 2802) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Einrichtung des Aktionärsforums
+# § 1 – Einrichtung des Aktionärsforums
 
 (1) Das Aktionärsforum ist Teil des Bundesanzeigers und ist jedenfalls über die Internetseiten
 
@@ -21,8 +17,7 @@ erreichbar.
 
 (2) Das Aktionärsforum ist so zu gestalten, dass Aktionäre, Aktionärsvereinigungen und Gesellschaften (Eintragende) die Aufforderungen und Hinweise auf Stellungnahmen nach § 127a des Aktiengesetzes (Eintragungen) nur über eine im Aktionärsforum zur Verfügung gestellte Formularmaske elektronisch eintragen können. Eintragungen sind in Deutsch oder Englisch abzufassen.
 
-
-## § 2 – Inhalt und Aufbau des Aktionärsforums
+# § 2 – Inhalt und Aufbau des Aktionärsforums
 
 (1) Die Eintragungen sollen nach Gesellschaften in alphabetischer Reihenfolge geordnet sein und innerhalb der Gesellschaften in zeitlicher Abfolge dargestellt werden.
 
@@ -38,8 +33,7 @@ erreichbar.
 
 (4) Der Betreiber kann im Aktionärsforum einen Hinweis auf seine Allgemeinen Geschäftsbedingungen anbringen. Er kann zudem im Aktionärsforum eine zusätzliche Dienstleistung anbieten, mit der über veröffentlichte Eintragungen automatisiert unterrichtet wird.
 
-
-## § 3 – Registrierung, Aufforderungen des Aktionärs oder der Aktionärsvereinigung
+# § 3 – Registrierung, Aufforderungen des Aktionärs oder der Aktionärsvereinigung
 
 (1) Die Veröffentlichung einer Aufforderung kann zur Sicherung gegen Missbrauch nur vorgenommen werden, wenn der Aktionär oder die Aktionärsvereinigung (der Auffordernde)
 
@@ -71,22 +65,19 @@ erreichbar.
 
 Missbräuchliche Aufforderungen werden durch den Betreiber unverzüglich gelöscht. In Zweifelsfällen hat der Betreiber den Auffordernden vorher zu befragen.
 
-
-## § 4 – Hinweise auf Stellungnahmen der Gesellschaft
+# § 4 – Hinweise auf Stellungnahmen der Gesellschaft
 
 (1) Gibt eine Gesellschaft zu einer sie betreffenden Aufforderung auf ihrer Internetseite eine Stellungnahme nach § 127a Abs. 4 des Aktiengesetzes ab, so kann die Gesellschaft auf diese Stellungnahme im Aktionärsforum hinweisen. Der Hinweis auf die Stellungnahme wird im Aktionärsforum im räumlichen Zusammenhang mit der Aufforderung veröffentlicht, auf die sich die Stellungnahme bezieht.
 
 (2) Im Übrigen gilt für die Gesellschaften § 3 Abs. 1, 4 und 5 entsprechend.
 
-
-## § 5 – Verweis auf eine andere Internetseite
+# § 5 – Verweis auf eine andere Internetseite
 
 (1) Verweist eine Eintragung auf eine andere Internetseite, hat diese Internetseite innerhalb des Internetauftritts unmittelbar die Begründung der Aufforderung oder die Stellungnahme zu enthalten. Verstöße gegen Satz 1 oder missbräuchliche Inhalte dieser Internetseite berechtigen den Betreiber, die Eintragung zu verweigern oder Eintragungen ohne Kostenerstattung zu löschen. Der Betreiber überprüft die Einhaltung dieser Vorschrift durch Stichproben und auf konkreten Hinweis.
 
 (2) Der Verweis auf eine andere Internetseite soll so gestaltet werden, dass sich diese unmittelbar durch Anklicken öffnet. Der Verweis auf eine elektronische Postadresse kann so beschaffen sein, dass sich das Programm für elektronische Post des Nutzers unmittelbar öffnet.
 
-
-## § 6 – Berichtigung, Löschung, Löschungsfrist
+# § 6 – Berichtigung, Löschung, Löschungsfrist
 
 (1) Berichtigungen von Eintragungen im Aktionärsforum müssen vom Eintragenden vorgenommen werden.
 
@@ -96,15 +87,13 @@ Missbräuchliche Aufforderungen werden durch den Betreiber unverzüglich gelösc
 
 (4) Eintragungen, für die das Entgelt nicht entrichtet wird, werden durch den Betreiber unverzüglich gelöscht.
 
-
-## § 7 – Einsichtnahme
+# § 7 – Einsichtnahme
 
 (1) Jedermann kann das Aktionärsforum jederzeit und ohne vorherige Registrierung kostenfrei einsehen. Die Einsichtnahme erfolgt ausschließlich über das Internet.
 
 (2) Die Vorschriften der Barrierefreie Informationstechnik-Verordnung vom 17. Juli 2002 (BGBl. I S. 2654) über die Gestaltung der Einsichtnahme sind in der jeweils geltenden Fassung vom Betreiber sinngemäß anzuwenden.
 
-
-## § 8 – Datensicherheit
+# § 8 – Datensicherheit
 
 (1) Der Betreiber hat durch organisatorische und dem jeweiligen Stand der Technik entsprechende technische Maßnahmen sicherzustellen, dass die Eintragungen während ihrer Veröffentlichung im Aktionärsforum unversehrt und vollständig bleiben sowie jederzeit ihrem Ursprung nach zugeordnet werden können.
 
@@ -112,14 +101,12 @@ Missbräuchliche Aufforderungen werden durch den Betreiber unverzüglich gelösc
 
 (3) Der Betreiber erstellt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik ein Sicherheitskonzept für das Aktionärsforum. Insbesondere die nach § 9 des Bundesdatenschutzgesetzes erforderlichen technischen und organisatorischen Maßnahmen sind zu treffen. Die Wirksamkeit der Maßnahmen ist in regelmäßigen Abständen unter Berücksichtigung der aktuellen technischen Entwicklungen zu überprüfen.
 
-
-## § 9 – Entgelte, Veröffentlichung
+# § 9 – Entgelte, Veröffentlichung
 
 (1) Der Betreiber kann mit dem Eintragenden vertraglich ein angemessenes Entgelt für die Eintragung vereinbaren. Das gilt auch für vom Eintragenden vorgenommene Änderungen oder Löschungen. Die Entrichtung des Entgeltes ist so zu gestalten, dass Eintragende mit Wohnsitz oder Sitz im Ausland nicht benachteiligt werden. Es ist die Möglichkeit der Bezahlung mittels elektronischen Lastschriftverfahrens, Kreditkarte oder vergleichbarer Zahlungsmittel vorzusehen. Sie ist so zu gestalten, dass nichtelektronischer Schriftverkehr in der Regel ausgeschlossen ist. Der Betreiber soll die Mitteilung des Zahlungswegs innerhalb einer gesicherten Internet-Verbindung anbieten.
 
 (2) Die Eintragung ist spätestens bis zum Ende des auf den erfolgreichen Abschluss des Bezahlvorgangs folgenden Veröffentlichungstages des Bundesanzeigers zu veröffentlichen. Lehnt der Betreiber eine Eintragung ab oder löscht er eine Eintragung, ist dies dem Eintragenden unverzüglich unter der von ihm angegebenen elektronischen Postadresse mitzuteilen.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2005 in Kraft.

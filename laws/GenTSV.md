@@ -1,12 +1,7 @@
-# [GenTSV] Verordnung über die Sicherheitsstufen und Sicherheitsmaßnahmen bei gentechnischen Arbeiten in gentechnischen Anlagen  (Gentechnik-Sicherheitsverordnung - GenTSV)
-
-Ausfertigungsdatum: 12.08.2019
-
+% Verordnung über die Sicherheitsstufen und Sicherheitsmaßnahmen bei gentechnischen Arbeiten in gentechnischen Anlagen  (Gentechnik-Sicherheitsverordnung - GenTSV)
+% Ausfertigungsdatum: 12.08.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -30,13 +25,13 @@ Ausfertigungsdatum: 12.08.2019
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt Sicherheitsanforderungen an gentechnische Arbeiten in gentechnischen Anlagen einschließlich der Tätigkeiten im Gefahrenbereich. Die Regelungen in den Abschnitten 4, 5 und 6 gelten auch für Freisetzungen. Nach anderen Vorschriften erforderliche Arbeitsschutz- und Sicherheitsmaßnahmen bleiben unberührt.
 
-
-## § 2 – Sicherheitsstufen und Sicherheitsmaßnahmen
+# § 2 – Sicherheitsstufen und Sicherheitsmaßnahmen
 
 (1) Gentechnische Arbeiten in gentechnischen Anlagen sind nach Maßgabe der §§ 4 bis 12 den in § 7 Absatz 1 des Gentechnikgesetzes genannten Sicherheitsstufen zuzuordnen.
 
@@ -46,8 +41,7 @@ Diese Verordnung regelt Sicherheitsanforderungen an gentechnische Arbeiten in ge
 
 2. von bestimmten Sicherheitsmaßnahmen abgesehen werden, wenn der Schutz der Rechtsgüter nach § 1 Nummer 1 des Gentechnikgesetzes auch ohne diese Maßnahmen oder auf andere Weise gewährleistet ist.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -117,8 +111,7 @@ wobei der Umgang mit den gentechnisch veränderten Organismen in zumeist geschlo
 
 Gebäude oder abgetrennte Bereiche innerhalb eines Gebäudes mit Tierhaltungsräumen und dazugehörigen Funktions- und Betriebsräumen.
 
-
-## § 4 – Grundlagen der Risikobewertung und der Sicherheitseinstufung gentechnischer Arbeiten
+# § 4 – Grundlagen der Risikobewertung und der Sicherheitseinstufung gentechnischer Arbeiten
 
 Die Risikobewertung und die Zuordnung gentechnischer Arbeiten zu den Sicherheitsstufen nach § 7 Absatz 1 des Gentechnikgesetzes erfolgen unter Berücksichtigung der Risikobewertung der Organismen nach den §§ 5 und 6 sowie der vorgesehenen biologischen Sicherheitsmaßnahmen nach den §§ 7 und 8 auf der Grundlage einer Gesamtbewertung folgender Punkte:
 
@@ -138,8 +131,7 @@ e) des aus der Tätigkeit hervorgehenden gentechnisch veränderten Organismus,
 
 3. Schwere und Wahrscheinlichkeit einer Gefährdung für die in § 1 Nummer 1 des Gentechnikgesetzes genannten Rechtsgüter.
 
-
-## § 5 – Risikobewertung von Organismen
+# § 5 – Risikobewertung von Organismen
 
 (1) Das Gefährdungspotential des Spender- und des Empfänger- oder des Ausgangsorganismus sowie des gentechnisch veränderten Organismus ergibt sich aus der Zuordnung der Organismen zu vier Gruppen, den Risikogruppen 1 bis 4. Die Zuordnung zu einer Risikogruppe erfolgt aufgrund der Bestimmung des Gefährdungspotentials des Organismus, und zwar
 
@@ -165,13 +157,11 @@ Werden subgenomische Nukleinsäureabschnitte überführt, die für hochwirksame 
 
 (5) Das Gefährdungspotential des Empfängerorganismus ist vollständig in die Risikobewertung einzubeziehen. Werden Vektoren angewendet, ist eine Gesamtbewertung des Vektor-Empfänger-Systems vorzunehmen.
 
-
-## § 6 – Veröffentlichung der Liste risikobewerteter Spender- und Empfängerorganismen
+# § 6 – Veröffentlichung der Liste risikobewerteter Spender- und Empfängerorganismen
 
 Das Bundesministerium für Ernährung und Landwirtschaft veröffentlicht regelmäßig nach Anhörung der Zentralen Kommission für die Biologische Sicherheit im Bundesanzeiger eine Liste, die sowohl die Einstufung von Mikroorganismen nach dem geltenden EU-Arbeitsschutzrecht umfasst als auch Spender- und Empfängerorganismen den Risikogruppen nach den allgemeinen Kriterien gemäß § 5 Absatz 1 zuordnet.
 
-
-## § 7 – Biologische Sicherheitsmaßnahmen
+# § 7 – Biologische Sicherheitsmaßnahmen
 
 (1) Werden bei gentechnischen Arbeiten biologische Sicherheitsmaßnahmen nach den Absätzen 2 bis 6 und nach § 8 angewendet, so kann ein niedrigeres als das nach § 5 ermittelte Gefährdungspotential zugrunde gelegt werden.
 
@@ -225,8 +215,7 @@ Zur Verhinderung der wirksamen Ausbreitung von anderen Tieren, die bei gentechni
 
 (+++ § 7 Abs. 1: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
-
-## § 8 – Empfängerorganismen und Vektoren als Teil einer biologischen Sicherheitsmaßnahme
+# § 8 – Empfängerorganismen und Vektoren als Teil einer biologischen Sicherheitsmaßnahme
 
 (1) Die Verwendung eines Empfängerorganismus kann als Teil einer biologischen Sicherheitsmaßnahme anerkannt werden, wenn
 
@@ -250,13 +239,11 @@ a) Bakterien oder Pilze kein eigenes Transfersystem, eine geringe Cotransfer-Rat
 
 b) eukaryote Zellen auf viraler Basis keine eigenständige Infektiosität und ein geringer Transfer durch endogene Helferviren zu erwarten ist.
 
-
-## § 9 – Grundsatz der Sicherheitseinstufung
+# § 9 – Grundsatz der Sicherheitseinstufung
 
 Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Beachtung des Stands der Wissenschaft, nach den §§ 4, 5 und 6 sowie nach Maßgabe der §§ 10 bis 12 in die vier Sicherheitsstufen des § 7 Absatz 1 des Gentechnikgesetzes eingeordnet.
 
-
-## § 10 – Sicherheitseinstufung von gentechnischen Arbeiten mit Mikroorganismen
+# § 10 – Sicherheitseinstufung von gentechnischen Arbeiten mit Mikroorganismen
 
 (1) Gentechnische Arbeiten mit Mikroorganismen sind der Sicherheitsstufe 1 zuzuordnen, wenn
 
@@ -286,8 +273,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (5) Gentechnische Arbeiten mit Mikroorganismen, die darauf gerichtet sind, genetische Elemente herzustellen, welche die eigene Ausbreitung in Populationen sich sexuell vermehrender Organismen vorantreiben, sind grundsätzlich der Sicherheitsstufe 3 zuzuordnen. Im Rahmen des Genehmigungsverfahrens kann die Behörde die Arbeiten auf der Grundlage der Risikobewertung einer anderen Sicherheitsstufe zuordnen. Die zuständige Behörde hat von der Zentralen Kommission für die Biologische Sicherheit eine Stellungnahme mit Empfehlungen zu den erforderlichen spezifischen Sicherheitsmaßnahmen für solche Arbeiten einzuholen.
 
-
-## § 11 – Sicherheitseinstufung von gentechnischen Arbeiten mit Tieren und Pflanzen
+# § 11 – Sicherheitseinstufung von gentechnischen Arbeiten mit Tieren und Pflanzen
 
 (1) Gentechnische Arbeiten mit Tieren und Pflanzen sind der Sicherheitsstufe 1 zuzuordnen, wenn
 
@@ -321,8 +307,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (6) Gentechnische Arbeiten mit Tieren oder Pflanzen, die darauf gerichtet sind, genetische Elemente herzustellen, welche die eigene Ausbreitung in Populationen sich sexuell vermehrender Organismen vorantreiben, sind grundsätzlich der Sicherheitsstufe 3 zuzuordnen. Im Rahmen des Genehmigungsverfahrens kann die Behörde die Arbeiten auf der Grundlage der Risikobewertung einer anderen Sicherheitsstufe zuordnen. Die zuständige Behörde hat von der Zentralen Kommission für die Biologische Sicherheit eine Stellungnahme mit Empfehlungen zu den erforderlichen spezifischen Sicherheitsmaßnahmen für solche Arbeiten einzuholen.
 
-
-## § 12 – Gentechnische Arbeiten zur Herstellung von hochwirksamen Toxinen
+# § 12 – Gentechnische Arbeiten zur Herstellung von hochwirksamen Toxinen
 
 (1) Gentechnische Arbeiten, die darauf gerichtet sind, hochwirksame Toxine herzustellen, sind der Sicherheitsstufe 3 zuzuordnen.
 
@@ -330,8 +315,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (3) § 7 Absatz 1 findet Anwendung.
 
-
-## § 13 – Allgemeine Schutzpflicht, Arbeitsschutz
+# § 13 – Allgemeine Schutzpflicht, Arbeitsschutz
 
 (1) Der Betreiber, der gentechnische Arbeiten durchführen lässt, hat zum Schutz der in § 1 Nummer 1 des Gentechnikgesetzes genannten Rechtsgüter und zum Schutz der Beschäftigten mögliche Gefahren zu ermitteln, zu beurteilen und die erforderlichen Sicherheitsmaßnahmen festzulegen. Die Beurteilung der Gefahren muss Angaben nach § 10 Absatz 2 Satz 2 Nummer 4 und 5 des Gentechnikgesetzes enthalten.
 
@@ -347,8 +331,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (+++ § 13 Abs. 1 Satz 1: Zur Anwendung vgl. § 18 Abs. 6 iVm Abs. 1 +++)
 
-
-## § 14 – Sicherheitsmaßnahmen für Labor- und für Produktionsbereiche
+# § 14 – Sicherheitsmaßnahmen für Labor- und für Produktionsbereiche
 
 (1) Gentechnische Arbeiten der Sicherheitsstufen 1 bis 4 nach § 7 Absatz 1 Satz 1 des Gentechnikgesetzes im Labor- und im Produktionsbereich dürfen nur unter Beachtung der in Anlage 2 genannten Sicherheitsmaßnahmen durchgeführt werden.
 
@@ -360,8 +343,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (+++ § 14 Abs. 3: Zur Anwendung vgl. § 15 Abs. 3 u. § 16 Abs. 3 +++)
 
-
-## § 15 – Sicherheitsmaßnahmen für Gewächshäuser
+# § 15 – Sicherheitsmaßnahmen für Gewächshäuser
 
 (1) Werden in Gewächshäusern Pflanzen gezogen, die durch gentechnische Arbeiten entstanden sind oder die bei gentechnischen Arbeiten verwendet werden, gelten bei gentechnischen Arbeiten der Sicherheitsstufen 1 bis 4 nach § 7 Absatz 1 Satz 1 des Gentechnikgesetzes die in Anlage 3 genannten Sicherheitsmaßnahmen. Diese gelten entsprechend auch für Klimakammern.
 
@@ -369,8 +351,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (3) § 14 Absatz 3 gilt entsprechend.
 
-
-## § 16 – Sicherheitsmaßnahmen für Tierräume
+# § 16 – Sicherheitsmaßnahmen für Tierräume
 
 (1) Werden in Tierräumen Tiere gehalten, die durch gentechnische Arbeiten entstanden sind oder die bei gentechnischen Arbeiten verwendet werden, oder wird mit diesen Tieren umgegangen, sind bei gentechnischen Arbeiten der Sicherheitsstufen 1 bis 4 nach § 7 Absatz 1 Satz 1 des Gentechnikgesetzes die in Anlage 4 genannten Sicherheitsmaßnahmen zu beachten.
 
@@ -378,8 +359,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (3) § 14 Absatz 3 gilt entsprechend.
 
-
-## § 17 – Allgemeine Arbeitssicherheitsmaßnahmen
+# § 17 – Allgemeine Arbeitssicherheitsmaßnahmen
 
 (1) Beschäftigte dürfen mit gentechnischen Arbeiten nur beauftragt werden, wenn sie ausreichend qualifiziert und eingewiesen sind.
 
@@ -403,8 +383,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (6) Der Betreiber hat die Funktionsfähigkeit und Wirksamkeit der sicherheitsrelevanten Geräte oder Einrichtungen wie insbesondere der Autoklaven und Sicherheitswerkbänke regelmäßig nach Stand von Wissenschaft und Technik zu überprüfen. Das Ergebnis und das Datum der Wirksamkeitsprüfung sind zu dokumentieren.
 
-
-## § 18 – Arbeitssicherheit bei Prüfung, Wartung und Veränderung von Anlagen, Apparaturen und Einrichtungen
+# § 18 – Arbeitssicherheit bei Prüfung, Wartung und Veränderung von Anlagen, Apparaturen und Einrichtungen
 
 (1) Prüfungs-, Instandhaltungs-, Reinigungs-, Änderungs- oder Abbrucharbeiten in oder an Anlagen, Apparaturen oder Einrichtungen, in denen gentechnische Arbeiten der Sicherheitsstufe 2, 3 oder 4 durchgeführt wurden, dürfen nur vorgenommen werden, wenn eine schriftliche Erlaubnis des Betreibers, des Projektleiters oder des für den Betrieb der Anlage, der Apparatur oder der Einrichtung unmittelbar Verantwortlichen oder dessen Vorgesetzten vorliegt.
 
@@ -418,15 +397,13 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (6) Auf die Tätigkeiten nach Absatz 1 sind § 13 Absatz 1 Satz 1 und § 20 entsprechend anzuwenden.
 
-
-## § 19 – Anpassung von Maßnahmen der Arbeitssicherheit und Überwachung des Arbeitsbereiches
+# § 19 – Anpassung von Maßnahmen der Arbeitssicherheit und Überwachung des Arbeitsbereiches
 
 (1) Hat sich der Stand der Sicherheitstechnik eines Arbeitsverfahrens fortentwickelt und hat sich die Sicherheitstechnik bewährt und erhöht sich die Arbeitssicherheit hierdurch erheblich, hat der Betreiber das dem Stand der Sicherheitstechnik nicht entsprechende Arbeitsverfahren innerhalb einer angemessenen Frist dieser Fortentwicklung anzupassen.
 
 (2) Ist das Auftreten gentechnisch veränderter Organismen in einer Konzentration, die eine Gefährdung für die menschliche Gesundheit darstellt oder darstellen könnte, nach dem Stand von Wissenschaft und Technik nicht auszuschließen, ist der Arbeitsbereich durch geeignete Maßnahmen zu überwachen.
 
-
-## § 20 – Arbeitsmedizinische Präventionsmaßnahmen
+# § 20 – Arbeitsmedizinische Präventionsmaßnahmen
 
 (1) Der Betreiber hat für Beschäftigte, die gentechnische Arbeiten mit Organismen durchführen, die eine Gefährdung für die menschliche Gesundheit darstellen können, angemessene arbeitsmedizinische Präventionsmaßnahmen zu treffen. Diese umfassen die in § 14 Absatz 2 der Biostoffverordnung vom 15. Juli 2013 (BGBl. I S. 2514), die durch Artikel 146 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, sowie die in der Verordnung zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S. 2768), die zuletzt durch Artikel 3 Absatz 1 der Verordnung vom 15. November 2016 (BGBl. I S. 2549) geändert worden ist, genannten Regelungen und Maßnahmen.
 
@@ -436,8 +413,7 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (+++ § 20: Zur Anwendung vgl. § 18 Abs. 6 iVm Abs. 1 +++)
 
-
-## § 21 – Unterrichtung der Beschäftigten
+# § 21 – Unterrichtung der Beschäftigten
 
 (1) Der Betreiber hat die betroffenen Beschäftigten und, wenn ein Betriebs- oder Personalrat vorhanden ist, diesen sowie den Betriebsarzt über Folgendes zu unterrichten:
 
@@ -453,13 +429,11 @@ Ihrem Gefährdungspotential entsprechend werden gentechnische Arbeiten, unter Be
 
 (5) Unterrichtungs- und Beteiligungspflichten gegenüber dem Betriebs- oder Personalrat sowie gegenüber den Beschäftigten bestehen nur insoweit, als die Betroffenen Beschäftigte im Sinne des Betriebsverfassungsgesetzes oder der Personalvertretungsgesetze sind.
 
-
-## § 22 – Allgemeine Anforderungen an die Abwasser- und Abfallbehandlung
+# § 22 – Allgemeine Anforderungen an die Abwasser- und Abfallbehandlung
 
 Abwasser sowie flüssiger und fester Abfall aus gentechnischen Anlagen sind im Hinblick auf die von gentechnisch veränderten Organismen ausgehenden Gefahren nach dem Stand der Wissenschaft und Technik unschädlich zu entsorgen. Nach anderen Vorschriften zu stellende Anforderungen an die Abwasser- und Abfallentsorgung bleiben unberührt.
 
-
-## § 23 – Abwasser- und Abfallbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 1 und 2
+# § 23 – Abwasser- und Abfallbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 1 und 2
 
 (1) Der Betreiber hat dafür zu sorgen, dass Abwasser sowie flüssiger und fester Abfall aus Anlagen, in denen gentechnische Arbeiten der Sicherheitsstufe 1 oder 2 nach § 7 Absatz 1 Satz 1 Nummer 1 oder 2 des Gentechnikgesetzes durchgeführt werden, so vorbehandelt werden, dass die darin enthaltenen gentechnisch veränderten Organismen so weit inaktiviert werden, dass Gefahren für die in § 1 Nummer 1 des Gentechnikgesetzes bezeichneten Rechtsgüter nicht zu erwarten sind. Die Anforderungen an die Vorbehandlung nach Satz 1 gelten als erfüllt, wenn mittels einer Inaktivierungskinetik nachgewiesen wird, dass die Inaktivierungsdauer mindestens dem Wert entspricht, bei dem keine Vermehrungsfähigkeit und gegebenenfalls keine Infektionsfähigkeit des gentechnisch veränderten Organismus mehr beobachtet wird.
 
@@ -469,8 +443,7 @@ Abwasser sowie flüssiger und fester Abfall aus gentechnischen Anlagen sind im H
 
 2. Inaktivierung des gentechnisch veränderten Organismus mit chemischen Verfahren durch Einwirkung von geeigneten Chemikalien unter bestimmten Temperatur-, Verweilzeit- und Konzentrationsbedingungen, sofern die Beschaffenheit des Abfalls oder des Abwassers ein physikalisches Inaktivierungsverfahren nach Nummer 1 nicht zulässt.
 
-
-## § 24 – Entsorgung von Abwässern und Abfällen ohne Vorbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 1 und 2
+# § 24 – Entsorgung von Abwässern und Abfällen ohne Vorbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 1 und 2
 
 (1) Abweichend von § 23 können folgende Abwässer sowie folgende flüssige und feste Abfälle ohne besondere Vorbehandlung entsorgt werden:
 
@@ -496,8 +469,7 @@ b) der Abfall so gering kontaminiert ist, dass schädliche Auswirkungen auf die 
 
 (2) Für Abwasser, außer für Dusch- und Handwaschwasser, gilt Absatz 1 Satz 1 Nummer 2 und 3 entsprechend.
 
-
-## § 25 – Inaktivierung von gentechnisch veränderten Organismen vor der Abwasser- oder Abfallentsorgung
+# § 25 – Inaktivierung von gentechnisch veränderten Organismen vor der Abwasser- oder Abfallentsorgung
 
 (1) Eine Inaktivierung von gentechnisch veränderten Organismen nach § 23 Absatz 1 Satz 2 in Verbindung mit Absatz 2 Nummer 1 liegt in der Regel dann vor, wenn das Abwasser oder der Abfall bei einer Temperatur von 121 Grad Celsius für die Dauer von 20 Minuten autoklaviert wird. Bei thermostabilen Organismen, bei Dauerformen von Organismen oder bei Organismen, die einen thermostabilen Stoff mit Gefährdungspotenzial bilden, kann beim Autoklavieren eine Erhöhung der Temperatur auf 134 Grad Celsius oder eine Verlängerung der Einwirkzeit erforderlich sein. Beim Autoklavieren von gentechnisch veränderten Mikroorganismen in besonderen Matrices, wie in Tierkadavern, muss sichergestellt sein, dass die in den Sätzen 1 und 2 aufgeführten Temperaturen und Einwirkzeiten in allen Schichten erreicht werden. In den in den Sätzen 2 und 3 aufgeführten Fällen soll die Wirksamkeit der vorgesehenen Inaktivierung vor deren Nutzung nachgewiesen werden.
 
@@ -507,8 +479,7 @@ b) der Abfall so gering kontaminiert ist, dass schädliche Auswirkungen auf die 
 
 (+++ § 25 Abs. 3: Zur Anwendung vgl. § 26 Abs. 4 Satz 6 iVm Satz 1 und 2 +++)
 
-
-## § 26 – Abwasser- und Abfallbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 3 und 4
+# § 26 – Abwasser- und Abfallbehandlung bei gentechnischen Arbeiten der Sicherheitsstufen 3 und 4
 
 (1) Der Betreiber hat dafür zu sorgen, dass die folgenden Abfälle und Abwässer in der Anlage, in der sie entstanden sind, durch Autoklavieren bei einer Temperatur von 121 Grad Celsius für die Dauer von 20 Minuten sterilisiert werden:
 
@@ -526,8 +497,7 @@ Bei thermostabilen Organismen, bei Dauerformen von Organismen oder bei Organisme
 
 (5) Wenn Geräte oder Teile von Geräten oder Abfälle aus Anlagen, in denen gentechnische Arbeiten der Sicherheitsstufen 3 und 4 nach § 7 Absatz 1 Satz 1 Nummer 3 und 4 des Gentechnikgesetzes durchgeführt werden, wegen ihrer Größe nicht in der gentechnischen Anlage sterilisiert werden können, sind sie zur Sterilisation in sicheren, dicht verschlossenen, entsprechend gekennzeichneten und von außen desinfizierten Behältern in eine andere gentechnische Anlage zu überführen, die die erforderlichen Voraussetzungen zur Sterilisation erfüllt.
 
-
-## § 27 – Verantwortlichkeiten des Projektleiters
+# § 27 – Verantwortlichkeiten des Projektleiters
 
 (1) Der Projektleiter führt die unmittelbare Planung, Leitung oder Beaufsichtigung der gentechnischen Arbeit oder der Freisetzung durch. Er ist verantwortlich
 
@@ -559,8 +529,7 @@ c) die Genehmigung nach § 8 Absatz 1 Satz 2, Absatz 2 Satz 2, Absatz 3 oder 4 o
 
 (2) Wird eine gentechnische Arbeit, eine gentechnische Anlage oder eine Freisetzung mehreren Projektleitern gemeinsam zugeordnet, sind die Verantwortlichkeiten der einzelnen Projektleiter eindeutig festzulegen.
 
-
-## § 28 – Sachkunde des Projektleiters
+# § 28 – Sachkunde des Projektleiters
 
 (1) Zum Projektleiter darf nur eine Person bestellt werden, die die erforderliche Sachkunde besitzt. Der Projektleiter muss nachweisbare Kenntnisse insbesondere in klassischer und molekularer Genetik und praktische Erfahrungen im Umgang mit Mikroorganismen, Pflanzen oder Tieren und die erforderlichen Kenntnisse über Sicherheitsmaßnahmen und Arbeitsschutz bei gentechnischen Arbeiten besitzen. Die infektionsschutz-, tiergesundheits-, tierschutz-, artenschutz- und pflanzenschutzrechtlichen Vorschriften bleiben unberührt.
 
@@ -606,20 +575,17 @@ Die zuständige Behörde kann geeignete Veranstaltungen als Fortbildungsveransta
 
 2. zu erwarten ist, dass der so bestellte Projektleiter die in § 27 bezeichneten Aufgaben sachgerecht erfüllt.
 
-
-## § 29 – Bestellung eines Beauftragten für die Biologische Sicherheit
+# § 29 – Bestellung eines Beauftragten für die Biologische Sicherheit
 
 (1) Der Betreiber hat nach Anhörung des Betriebs- oder Personalrats einen oder, wenn dies im Hinblick auf die Art oder den Umfang der gentechnischen Arbeiten oder der Freisetzungen zum Schutz für die in § 1 Nummer 1 des Gentechnikgesetzes genannten Rechtsgüter erforderlich ist, mehrere Beauftragte für die Biologische Sicherheit schriftlich zu bestellen. Werden mehrere Beauftragte für die Biologische Sicherheit bestellt, bilden diese einen Ausschuss für Biologische Sicherheit. Die Aufgaben jedes einzelnen Beauftragten für die Biologische Sicherheit sind genau zu bezeichnen.
 
 (2) Die zuständige Behörde kann dem Betreiber auf Antrag die Bestellung eines nicht betriebsangehörigen Beauftragten oder mehrerer nicht betriebsangehöriger Beauftragter für die Biologische Sicherheit gestatten, wenn hierdurch die sachgerechte Erfüllung der in § 31 bezeichneten Aufgaben sichergestellt ist.
 
-
-## § 30 – Sachkunde des Beauftragten für die Biologische Sicherheit
+# § 30 – Sachkunde des Beauftragten für die Biologische Sicherheit
 
 Zum Beauftragten für die Biologische Sicherheit darf nur eine Person bestellt werden, die die erforderliche Sachkunde besitzt. Die Anforderungen an die erforderliche Sachkunde und an deren Nachweis richten sich nach der für den Projektleiter geltenden Vorschrift des § 28.
 
-
-## § 31 – Aufgaben des Beauftragten für Biologische Sicherheit
+# § 31 – Aufgaben des Beauftragten für Biologische Sicherheit
 
 (1) Der Beauftragte für die Biologische Sicherheit ist berechtigt und verpflichtet,
 
@@ -639,8 +605,7 @@ e) vor der Inbetriebnahme von Einrichtungen und Betriebsmitteln und vor der Einf
 
 (2) Der Beauftragte für die Biologische Sicherheit erstattet dem Betreiber jährlich einen schriftlichen Bericht über die nach Absatz 1 getroffenen und beabsichtigten Maßnahmen.
 
-
-## § 32 – Pflichten des Betreibers gegenüber dem Beauftragten für die Biologische Sicherheit
+# § 32 – Pflichten des Betreibers gegenüber dem Beauftragten für die Biologische Sicherheit
 
 (1) Der Betreiber hat den Beauftragten für die Biologische Sicherheit bei der Erfüllung seiner Aufgaben zu unterstützen und ihm insbesondere, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist, Hilfspersonal sowie Räume, Einrichtungen, Geräte und Arbeitsmittel zur Verfügung zu stellen.
 
@@ -652,8 +617,7 @@ e) vor der Inbetriebnahme von Einrichtungen und Betriebsmitteln und vor der Einf
 
 (5) Der Betreiber hat dafür zu sorgen, dass der Beauftragte für die Biologische Sicherheit seine Vorschläge oder Bedenken, die sich bei seiner Aufgabenwahrnehmung nach § 31 ergeben, unmittelbar der entscheidenden Stelle vortragen kann, wenn er sich mit dem Projektleiter nicht einigen konnte und der Beauftragte für die Biologische Sicherheit wegen der besonderen Bedeutung der Sache eine Entscheidung dieser Stelle für erforderlich hält.
 
-
-## § 33 – Ordnungswidrigkeiten
+# § 33 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 38 Absatz 1 Nummer 12 des Gentechnikgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -681,8 +645,7 @@ Ordnungswidrig im Sinne des § 38 Absatz 1 Nummer 12 des Gentechnikgesetzes hand
 
 12. entgegen § 29 Absatz 1 Satz 1 einen Beauftragten für die Biologische Sicherheit nicht oder nicht rechtzeitig bestellt.
 
-
-## Anlage 1 – (zu § 5 Absatz 1)Allgemeine Kriterien für die Risikobewertung
+# Anlage 1 – (zu § 5 Absatz 1)Allgemeine Kriterien für die Risikobewertung
 
 (Fundstelle: BGBl. I 2019, 1248 - 1250)
 
@@ -883,19 +846,16 @@ h) bekannte oder vorhersagbare Beteiligung an biogeochemischen Prozessen
 
 i) Verfügbarkeit von Methoden zur Dekontamination des Gebiets im Falle eines Austretens von gentechnisch veränderten Organismen in die Umwelt
 
-
-## Anlage 2 – (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsbereiche
+# Anlage 2 – (zu § 14)Sicherheitsmaßnahmen für Labor- und für Produktionsbereiche
 
 (Fundstelle: BGBl. I 2019, 1251 - 1268)
 
-A.  
-Sicherheitsmaßnahmen für den Laborbereich
+A. Sicherheitsmaßnahmen für den Laborbereich
 
   
 Nach § 14 Absatz 4 sind, sofern in Laborbereichen mit gentechnisch veränderten Pflanzen oder Tieren gearbeitet wird, zusätzlich zu den Anforderungen dieser Anlage entsprechend die Anforderungen der Anlage 3 für Gewächshäuser oder der Anlage 4 für Tierräume der entsprechenden Sicherheitsstufe zu beachten.
 
-I.  
-Sicherheitsstufe 1
+I. Sicherheitsstufe 1
 
 a. Bauliche und technische Sicherheitsmaßnahmen
 
@@ -1245,11 +1205,9 @@ Vor Betreten des Arbeitsbereiches sind alle Kleidungsstücke sowie Uhren und Sch
 
 2. Für die sonstige Straßenkleidung sind geeignete Aufbewahrungsmöglichkeiten außerhalb der gentechnischen Anlage vorzusehen.
 
-B.  
-Sicherheitsmaßnahmen für den Produktionsbereich
+B. Sicherheitsmaßnahmen für den Produktionsbereich
 
-I.  
-Sicherheitsstufe 1
+I. Sicherheitsstufe 1
 
 a. Bauliche und technische Sicherheitsmaßnahmen
 
@@ -1718,15 +1676,13 @@ Vor Betreten des Arbeitsbereichs sind alle Kleidungsstücke sowie Uhren und Schm
 
 2. Für die sonstige Straßenkleidung sind geeignete Aufbewahrungsmöglichkeiten außerhalb der gentechnischen Anlage vorzusehen.
 
-
-## Anlage 3 – (zu § 15)Sicherheitsmaßnahmen für Gewächshäuser
+# Anlage 3 – (zu § 15)Sicherheitsmaßnahmen für Gewächshäuser
 
 (Fundstelle: BGBl. I 2019, 1269 - 1275)
 
 Nach § 15 Absatz 1 Satz 2 sind die Sicherheitsmaßnahmen für Gewächshäuser entsprechend für Klimakammern zu beachten. Nach § 15 Absatz 2 sind, sofern in Gewächshäusern mit gentechnisch veränderten Mikroorganismen gearbeitet wird, zusätzlich zu den Anforderungen dieser Anlage entsprechend die Anforderungen der Anlage 2 für den Laborbereich für die entsprechenden Sicherheitsstufen zu beachten.
 
-I.  
-Sicherheitsstufe 1
+I. Sicherheitsstufe 1
 
 a. Bauliche und technische Sicherheitsmaßnahmen
 
@@ -1854,8 +1810,7 @@ b. Organisatorische Sicherheitsmaßnahmen
 
 2. Es ist sicherzustellen, dass nur befugte Personen das Gewächshaus betreten können. Weiterhin ist der Zutritt auf die Personen zu beschränken, deren Anwesenheit zur Durchführung der Arbeiten erforderlich ist. Hierauf ist durch geeignete Kennzeichnung hinzuweisen. Der Projektleiter ist verantwortlich für die Bestimmung der zutrittsberechtigten Personen.
 
-2a.  
-Türen müssen während der Arbeiten geschlossen sein.
+2a. Türen müssen während der Arbeiten geschlossen sein.
 
 3. Gentechnisch veränderte Organismen sowie Abfälle, die gentechnisch veränderte Organismen enthalten, dürfen nur in dicht geschlossenen, gegen Bruch geschützten, desinfizierbaren und entsprechend gekennzeichneten Behältern transportiert werden. Die Behälter sind regelmäßig von außen zu desinfizieren, zudem sind sie bei jeder Kontamination von außen zu desinfizieren.
 
@@ -2013,15 +1968,13 @@ Vor Betreten des Arbeitsbereichs sind alle Kleidungsstücke sowie Uhren und Schm
 
 2. Für die sonstige Straßenkleidung sind geeignete Aufbewahrungsmöglichkeiten außerhalb der gentechnischen Anlage vorzusehen.
 
-
-## Anlage 4 – (zu § 16)Sicherheitsmaßnahmen für Tierräume
+# Anlage 4 – (zu § 16)Sicherheitsmaßnahmen für Tierräume
 
 (Fundstelle: BGBl. I 2019, 1276 - 1285)
 
 Nach § 16 Absatz 2 sind, sofern in Tierräumen mit gentechnisch veränderten Mikroorganismen gearbeitet wird, zusätzlich zu den Anforderungen dieser Anlage entsprechend die Anforderungen der Anlage 2 für den Laborbereich zu beachten.
 
-I.  
-Sicherheitsstufe 1
+I. Sicherheitsstufe 1
 
 a. Bauliche und technische Sicherheitsmaßnahmen
 

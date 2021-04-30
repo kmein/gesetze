@@ -1,10 +1,7 @@
-# [NetzDG] Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken  (Netzwerkdurchsetzungsgesetz - NetzDG)
-
-Ausfertigungsdatum: 01.09.2017
-
+% Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken  (Netzwerkdurchsetzungsgesetz - NetzDG)
+% Ausfertigungsdatum: 01.09.2017
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Telemediendiensteanbieter, die mit Gewinnerzielungsabsicht Plattformen im Internet betreiben, die dazu bestimmt sind, dass Nutzer beliebige Inhalte mit anderen Nutzern teilen oder der Öffentlichkeit zugänglich machen (soziale Netzwerke). Plattformen mit journalistisch-redaktionell gestalteten Angeboten, die vom Diensteanbieter selbst verantwortet werden, gelten nicht als soziale Netzwerke im Sinne dieses Gesetzes. Das Gleiche gilt für Plattformen, die zur Individualkommunikation oder zur Verbreitung spezifischer Inhalte bestimmt sind.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (3) Rechtswidrige Inhalte sind Inhalte im Sinne des Absatzes 1, die den Tatbestand der §§ 86, 86a, 89a, 91, 100a, 111, 126, 129 bis 129b, 130, 131, 140, 166, 184b, 185 bis 187, 201a, 241 oder 269 des Strafgesetzbuchs erfüllen und nicht gerechtfertigt sind.
 
-
-## § 2 – Berichtspflicht
+# § 2 – Berichtspflicht
 
 (1) Anbieter sozialer Netzwerke, die im Kalenderjahr mehr als 100 Beschwerden über rechtswidrige Inhalte erhalten, sind verpflichtet, einen deutschsprachigen Bericht über den Umgang mit Beschwerden über rechtswidrige Inhalte auf ihren Plattformen mit den Angaben nach Absatz 2 halbjährlich zu erstellen und im Bundesanzeiger sowie auf der eigenen Homepage spätestens einen Monat nach Ende eines Halbjahres zu veröffentlichen. Der auf der eigenen Homepage veröffentlichte Bericht muss leicht erkennbar, unmittelbar erreichbar und ständig verfügbar sein.
 
@@ -37,8 +33,7 @@ Ausfertigungsdatum: 01.09.2017
 
 9. Maßnahmen zur Unterrichtung des Beschwerdeführers sowie des Nutzers, für den der beanstandete Inhalt gespeichert wurde, über die Entscheidung über die Beschwerde.
 
-
-## § 3 – Umgang mit Beschwerden über rechtswidrige Inhalte
+# § 3 – Umgang mit Beschwerden über rechtswidrige Inhalte
 
 (1) Der Anbieter eines sozialen Netzwerks muss ein wirksames und transparentes Verfahren nach Absatz 2 und 3 für den Umgang mit Beschwerden über rechtswidrige Inhalte vorhalten. Der Anbieter muss Nutzern ein leicht erkennbares, unmittelbar erreichbares und ständig verfügbares Verfahren zur Übermittlung von Beschwerden über rechtswidrige Inhalte zur Verfügung stellen.
 
@@ -82,8 +77,7 @@ b) das soziale Netzwerk die Entscheidung über die Rechtswidrigkeit innerhalb vo
 
 (9) Die Verwaltungsbehörde nach § 4 kann auch bestimmen, dass für einen Anbieter von sozialen Netzwerken die Möglichkeit zur Übertragung von Entscheidungen nach Absatz 2 Nummer 3 Buchstabe b für einen zeitlich befristeten Zeitraum entfällt, wenn zu erwarten ist, dass bei diesem Anbieter die Erfüllung der Pflichten des Absatzes 2 Nummer 3 durch einen Anschluss an die Regulierte Selbstregulierung nicht gewährleistet wird.
 
-
-## § 4 – Bußgeldvorschriften
+# § 4 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -111,15 +105,13 @@ b) das soziale Netzwerk die Entscheidung über die Rechtswidrigkeit innerhalb vo
 
 (5) Will die Verwaltungsbehörde ihre Entscheidung darauf stützen, dass nicht entfernte oder nicht gesperrte Inhalte rechtswidrig im Sinne des § 1 Absatz 3 sind, so soll sie über die Rechtswidrigkeit vorab eine gerichtliche Entscheidung herbeiführen. Zuständig ist das Gericht, das über den Einspruch gegen den Bußgeldbescheid entscheidet. Der Antrag auf Vorabentscheidung ist dem Gericht zusammen mit der Stellungnahme des sozialen Netzwerks zuzuleiten. Über den Antrag kann ohne mündliche Verhandlung entschieden werden. Die Entscheidung ist nicht anfechtbar und für die Verwaltungsbehörde bindend.
 
-
-## § 5 – Inländischer Zustellungsbevollmächtigter
+# § 5 – Inländischer Zustellungsbevollmächtigter
 
 (1) Anbieter sozialer Netzwerke haben im Inland einen Zustellungsbevollmächtigten zu benennen und auf ihrer Plattform in leicht erkennbarer und unmittelbar erreichbarer Weise auf ihn aufmerksam zu machen. An diese Person können Zustellungen in Verfahren nach § 4 oder in Gerichtsverfahren vor deutschen Gerichten wegen der Verbreitung rechtswidriger Inhalte bewirkt werden. Das gilt auch für die Zustellung von Schriftstücken, die solche Verfahren einleiten.
 
 (2) Für Auskunftsersuchen einer inländischen Strafverfolgungsbehörde ist eine empfangsberechtigte Person im Inland zu benennen. Die empfangsberechtigte Person ist verpflichtet, auf Auskunftsersuchen nach Satz 1 48 Stunden nach Zugang zu antworten. Soweit das Auskunftsersuchen nicht mit einer das Ersuchen erschöpfenden Auskunft beantwortet wird, ist dies in der Antwort zu begründen.
 
-
-## § 6 – Übergangsvorschriften
+# § 6 – Übergangsvorschriften
 
 (1) Der Bericht nach § 2 wird erstmals für das erste Halbjahr 2018 fällig.
 

@@ -1,10 +1,7 @@
-# [PersStruktG-Streitkräfte] Gesetz zur Verbesserung der Personalstruktur in den Streitkräften  (PersStruktG-Streitkräfte)
-
-Ausfertigungsdatum: 30.07.1985
-
+% Gesetz zur Verbesserung der Personalstruktur in den Streitkräften  (PersStruktG-Streitkräfte)
+% Ausfertigungsdatum: 30.07.1985
  
-
-## § 1
+# § 1
 
 (1) Zur Verbesserung der Personalstruktur in den Streitkräften können in den Jahren 1986 bis 1991 bis zu 1.200 Berufsoffiziere des Truppendiensts der Geburtsjahrgänge 1935 bis 1944 auf ihren schriftlichen Antrag in den Ruhestand versetzt werden, wenn sie bei Beginn des Ruhestands
 
@@ -26,8 +23,7 @@ b) in den Jahren 1988 bis 1991 eine weitere Dienstzeit von mindestens fünf Jahr
 
 (4) § 44 Abs. 6 Satz 1 bis 3 und Abs. 7 sowie § 51 Abs. 1, 3 und 5 des Soldatengesetzes gelten entsprechend.
 
-
-## § 2
+# § 2
 
 (1) Auf Berufssoldaten, die nach diesem Gesetz in den Ruhestand versetzt worden sind, finden auch § 15 Abs. 1 und § 26 Abs. 2 des Soldatenversorgungsgesetzes Anwendung, § 26 Abs. 2 Satz 2 des Soldatenversorgungsgesetzes mit der Maßgabe, daß an die Stelle des dreiundfünfzigsten Lebensjahrs das fünfundvierzigste Lebensjahr tritt.
 
@@ -45,7 +41,6 @@ b) in den Jahren 1988 bis 1991 eine weitere Dienstzeit von mindestens fünf Jahr
   
 der Dienstbezüge (§ 1 Abs. 2 Nr. 1, 3 und 4 des Bundesbesoldungsgesetzes) des letzten Monats, höchstens jedoch das Achtfache der Dienstbezüge (§ 1 Abs. 2 Nr. 1 und 3 in Verbindung mit § 40 Abs. 2 des Bundesbesoldungsgesetzes) aus der Endstufe der Besoldungsgruppe A 14.
 
-
-## § 3
+# § 3
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

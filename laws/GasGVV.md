@@ -1,10 +1,7 @@
-# [GasGVV] Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Gas aus dem Niederdrucknetz  (Gasgrundversorgungsverordnung - GasGVV)
-
-Ausfertigungsdatum: 26.10.2006
-
+% Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Gas aus dem Niederdrucknetz  (Gasgrundversorgungsverordnung - GasGVV)
+% Ausfertigungsdatum: 26.10.2006
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -136,8 +133,7 @@ Gerichtsstand
 
 Übergangsregelung
 
-
-## § 1 – Anwendungsbereich, Begriffsbestimmungen
+# § 1 – Anwendungsbereich, Begriffsbestimmungen
 
 (1) Diese Verordnung regelt die Allgemeinen Bedingungen, zu denen Gasversorgungsunternehmen Haushaltskunden in Niederdruck im Rahmen der Grundversorgung nach § 36 Abs. 1 des Energiewirtschaftsgesetzes zu Allgemeinen Preisen mit Gas zu beliefern haben. Die Bestimmungen dieser Verordnung sind Bestandteil des Grundversorgungsvertrages zwischen Grundversorgern und Haushaltskunden. Diese Verordnung regelt zugleich die Bedingungen für die Ersatzversorgung nach § 38 Abs. 1 des Energiewirtschaftsgesetzes. Sie gilt für alle nach dem 12. Juli 2005 abgeschlossenen Versorgungsverträge, soweit diese nicht vor dem 8. November 2006 beendet worden sind.
 
@@ -145,8 +141,7 @@ Gerichtsstand
 
 (3) Grundversorger im Sinne dieser Verordnung ist ein Gasversorgungsunternehmen, das nach § 36 Abs. 1 des Energiewirtschaftsgesetzes in einem Netzgebiet die Grundversorgung mit Gas durchführt.
 
-
-## § 2 – Vertragsschluss
+# § 2 – Vertragsschluss
 
 (1) Der Grundversorgungsvertrag soll in Textform abgeschlossen werden. Ist er auf andere Weise zustande gekommen, so hat der Grundversorger den Vertragsschluss dem Kunden unverzüglich in Textform zu bestätigen.
 
@@ -186,20 +181,17 @@ Die Hinweise nach Satz 4 Nummer 3 hat der Grundversorger auch auf seiner Interne
 
 (5) Der Abschluss eines Grundversorgungsvertrages darf nicht davon abhängig gemacht werden, dass Zahlungsrückstände eines vorherigen Anschlussnutzers beglichen werden.
 
-
-## § 3 – Ersatzversorgung
+# § 3 – Ersatzversorgung
 
 (1) Für die Ersatzversorgung nach § 38 des Energiewirtschaftsgesetzes gelten die §§ 4 bis 8, 10 bis 19 und 22 sowie für die Beendigung der Ersatzversorgung nach § 38 Abs. 2 Satz 1 des Energiewirtschaftsgesetzes § 20 Abs. 3 entsprechend; § 11 Abs. 2 gilt mit der Maßgabe, dass der Grundversorger den Energieverbrauch auf Grund einer rechnerischen Abgrenzung schätzen und den anteiligen Verbrauch in Rechnung stellen darf.
 
 (2) Der Grundversorger hat dem Kunden unverzüglich nach Kenntnisnahme den Zeitpunkt des Beginns und des Endes der Ersatzversorgung in Textform mitzuteilen. Dabei hat er ebenfalls mitzuteilen, dass spätestens nach dem Ende der Ersatzversorgung zur Fortsetzung des Gasbezugs der Abschluss eines Bezugsvertrages durch den Kunden erforderlich ist; auf § 2 Abs. 2 ist hinzuweisen.
 
-
-## § 4 – Bedarfsdeckung
+# § 4 – Bedarfsdeckung
 
 Der Kunde ist für die Dauer des Grundversorgungsvertrages verpflichtet, seinen gesamten leitungsgebundenen Gasbedarf aus den Gaslieferungen des Grundversorgers zu decken. Ausgenommen ist die Bedarfsdeckung durch Eigenanlagen zur Nutzung regenerativer Energiequellen.
 
-
-## § 5 – Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen
+# § 5 – Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen
 
 (1) Welche Gasart für das Vertragsverhältnis maßgebend sein soll, ergibt sich aus der Gasart des jeweiligen Gasversorgungsnetzes der allgemeinen Versorgung, an das die Anlage, über die der Kunde Gas entnimmt, angeschlossen ist. Der Brennwert mit der sich aus den Erzeugungs- oder Bezugsverhältnissen ergebenden Schwankungsbreite sowie der für die Belieferung des Kunden maßgebende Ruhedruck des Gases ergeben sich aus den ergänzenden Bestimmungen des Netzbetreibers zu den allgemeinen Netzanschlussbedingungen der Anlage, über die der Kunde Gas entnimmt.
 
@@ -207,15 +199,13 @@ Der Kunde ist für die Dauer des Grundversorgungsvertrages verpflichtet, seinen 
 
 (3) Im Fall einer Änderung der Allgemeinen Preise oder ergänzenden Bedingungen hat der Kunde das Recht, den Vertrag ohne Einhaltung einer Kündigungsfrist zum Zeitpunkt des Wirksamwerdens der Änderungen zu kündigen. Änderungen der Allgemeinen Preise und der ergänzenden Bedingungen werden gegenüber demjenigen Kunden nicht wirksam, der bei einer Kündigung des Vertrages mit dem Grundversorger die Einleitung eines Wechsels des Versorgers durch entsprechenden Vertragsschluss innerhalb eines Monats nach Zugang der Kündigung nachweist.
 
-
-## § 5a – Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter Belastungen
+# § 5a – Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter Belastungen
 
 (1) Bei Änderungen der Belastungen nach § 2 Absatz 3 Satz 1 Nummer 7, die in die Kalkulation des Allgemeinen Preises eingeflossen sind, ist der Grundversorger unter Beachtung der geltenden gesetzlichen Bestimmungen berechtigt, die Allgemeinen Preise jederzeit neu zu ermitteln und dabei die Änderung in das Ergebnis der Kalkulation einfließen zu lassen. Sinkt der Saldo der Belastungen nach § 2 Absatz 3 Satz 1 Nummer 7, ist der Grundversorger abweichend von Satz 1 verpflichtet, die Allgemeinen Preise unverzüglich neu zu ermitteln und dabei den gesunkenen Saldo in das Ergebnis der Kalkulation einfließen zu lassen.
 
 (2) Sonstige Rechte und Verpflichtungen zur Neukalkulation und die Rechte und Verpflichtungen in Bezug auf Änderungen der Allgemeinen Preise sowie die Pflichten des Grundversorgers nach § 5 Absatz 2 und die Rechte des Kunden nach § 5 Absatz 3 bleiben unberührt.
 
-
-## § 6 – Umfang der Grundversorgung
+# § 6 – Umfang der Grundversorgung
 
 (1) Der Grundversorger ist im Interesse des Kunden verpflichtet, die für die Durchführung der Grundversorgung erforderlichen Verträge mit Netzbetreibern abzuschließen. Er hat die ihm möglichen Maßnahmen zu treffen, um dem Kunden am Ende des Netzanschlusses, zu dessen Nutzung der Kunde nach der Niederdruckanschlussverordnung berechtigt ist, zu den jeweiligen Allgemeinen Preisen und Bedingungen Gas zur Verfügung zu stellen. Das Gas wird im Rahmen der Grundversorgung für die Zwecke des Letztverbrauchs geliefert.
 
@@ -229,27 +219,23 @@ Der Kunde ist für die Dauer des Grundversorgungsvertrages verpflichtet, seinen 
 
 (3) Bei einer Unterbrechung oder bei Unregelmäßigkeiten in der Gasversorgung ist, soweit es sich um Folgen einer Störung des Netzbetriebs handelt, der Grundversorger von der Leistungspflicht befreit. Satz 1 gilt nicht, soweit die Unterbrechung auf nicht berechtigten Maßnahmen des Grundversorgers nach § 19 beruht. Der Grundversorger ist verpflichtet, seinen Kunden auf Verlangen unverzüglich über die mit der Schadensverursachung durch den Netzbetreiber zusammenhängenden Tatsachen insoweit Auskunft zu geben, als sie ihm bekannt sind oder von ihm in zumutbarer Weise aufgeklärt werden können.
 
-
-## § 7 – Erweiterung und Änderung von Anlagen und Verbrauchsgeräten; Mitteilungspflichten
+# § 7 – Erweiterung und Änderung von Anlagen und Verbrauchsgeräten; Mitteilungspflichten
 
 Erweiterungen und Änderungen von Kundenanlagen sowie die Verwendung zusätzlicher Gasgeräte sind dem Grundversorger mitzuteilen, soweit sich dadurch preisliche Bemessungsgrößen ändern. Nähere Einzelheiten über den Inhalt der Mitteilung kann der Grundversorger in ergänzenden Bedingungen regeln.
 
-
-## § 8 – Messeinrichtungen
+# § 8 – Messeinrichtungen
 
 (1) Das vom Grundversorger gelieferte Gas wird durch die Messeinrichtungen nach den Vorschriften des Messstellenbetriebsgesetzes festgestellt.
 
 (2) Der Grundversorger ist verpflichtet, auf Verlangen des Kunden jederzeit eine Nachprüfung der Messeinrichtungen durch eine Eichbehörde oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz 3 des Mess- und Eichgesetzes zu veranlassen. Stellt der Kunde den Antrag auf Prüfung nicht bei dem Grundversorger, so hat er diesen zugleich mit der Antragstellung zu benachrichtigen. Die Kosten der Prüfung nach Satz 1 fallen dem Grundversorger zur Last, falls die Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst dem Kunden.
 
-
-## § 9 – Zutrittsrecht
+# § 9 – Zutrittsrecht
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis versehenen Beauftragten des Netzbetreibers, des Messstellenbetreibers oder des Grundversorgers den Zutritt zu seinem Grundstück und zu seinen Räumen zu gestatten, soweit dies zur Ermittlung preislicher Bemessungsgrundlagen oder zur Ablesung der Messeinrichtungen nach § 11 erforderlich ist. Die Benachrichtigung kann durch Mitteilung an die jeweiligen Kunden oder durch Aushang an oder im jeweiligen Haus erfolgen. Sie muss mindestens eine Woche vor dem Betretungstermin erfolgen; mindestens ein Ersatztermin ist anzubieten. Der Kunde hat dafür Sorge zu tragen, dass die Messeinrichtungen zugänglich sind.
 
 § 9 Satz 2 Kursivdruck: Anstelle dem Wort "an oder im jeweiligen Haus" muss es richtig "am oder im jeweiligen Haus" lauten
 
-
-## § 10 – Vertragsstrafe
+# § 10 – Vertragsstrafe
 
 (1) Verbraucht der Kunde Gas unter Umgehung, Beeinflussung oder vor Anbringung der Messeinrichtungen oder nach Unterbrechung der Grundversorgung, so ist der Grundversorger berechtigt, eine Vertragsstrafe zu verlangen. Diese ist für die Dauer des unbefugten Gebrauchs, längstens aber für sechs Monate, auf der Grundlage einer täglichen Nutzung der unbefugt verwendeten Geräte von bis zu zehn Stunden nach dem für den Kunden geltenden Allgemeinen Preis zu berechnen.
 
@@ -257,8 +243,7 @@ Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis versehenen 
 
 (3) Ist die Dauer des unbefugten Gebrauchs oder der Beginn der Mitteilungspflicht nicht festzustellen, so kann die Vertragsstrafe in entsprechender Anwendung der Absätze 1 und 2 über einen geschätzten Zeitraum, der längstens sechs Monate betragen darf, erhoben werden.
 
-
-## § 11 – Ablesung
+# § 11 – Ablesung
 
 (1) Der Grundversorger ist berechtigt, für Zwecke der Abrechnung die Ablesedaten zu verwenden, die er vom Netzbetreiber oder vom Messstellenbetreiber oder von dem die Messung durchführenden Dritten erhalten hat.
 
@@ -274,8 +259,7 @@ erfolgt. Der Kunde kann einer Selbstablesung im Einzelfall widersprechen, wenn d
 
 (3) Wenn der Netzbetreiber oder der Grundversorger das Grundstück und die Räume des Kunden nicht zum Zwecke der Ablesung betreten kann, darf der Grundversorger den Verbrauch auf der Grundlage der letzten Ablesung oder bei einem Neukunden nach dem Verbrauch vergleichbarer Kunden unter angemessener Berücksichtigung der tatsächlichen Verhältnisse schätzen. Dasselbe gilt, wenn der Kunde eine vereinbarte Selbstablesung nicht oder verspätet vornimmt.
 
-
-## § 12 – Abrechnung
+# § 12 – Abrechnung
 
 (1) Der Gasverbrauch wird nach Maßgabe des § 40 Absatz 3 des Energiewirtschaftsgesetzes abgerechnet.
 
@@ -283,8 +267,7 @@ erfolgt. Der Kunde kann einer Selbstablesung im Einzelfall widersprechen, wenn d
 
 (3) Im Falle einer Belieferung nach § 2 Abs. 2 ist entsprechend Absatz 2 Satz 1 eine pauschale zeitanteilige Berechnung des Verbrauchs zulässig, es sei denn, der Kunde kann einen geringeren als den von dem Grundversorger angesetzten Verbrauch nachweisen.
 
-
-## § 13 – Abschlagszahlungen
+# § 13 – Abschlagszahlungen
 
 (1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann der Grundversorger für das nach der letzten Abrechnung verbrauchte Gas eine Abschlagszahlung verlangen. Diese ist anteilig für den Zeitraum der Abschlagszahlung entsprechend dem Verbrauch im zuletzt abgerechneten Zeitraum zu berechnen. Ist eine solche Berechnung nicht möglich, so bemisst sich die Abschlagszahlung nach dem durchschnittlichen Verbrauch vergleichbarer Kunden. Macht der Kunde glaubhaft, dass sein Verbrauch erheblich geringer ist, so ist dies angemessen zu berücksichtigen.
 
@@ -292,8 +275,7 @@ erfolgt. Der Kunde kann einer Selbstablesung im Einzelfall widersprechen, wenn d
 
 (3) Ergibt sich bei der Abrechnung, dass zu hohe Abschlagszahlungen verlangt wurden, so ist der übersteigende Betrag unverzüglich zu erstatten, spätestens aber mit der nächsten Abschlagsforderung zu verrechnen. Nach Beendigung des Versorgungsverhältnisses sind zu viel gezahlte Abschläge unverzüglich zu erstatten.
 
-
-## § 14 – Vorauszahlungen
+# § 14 – Vorauszahlungen
 
 (1) Der Grundversorger ist berechtigt, für den Gasverbrauch eines Abrechnungszeitraums Vorauszahlung zu verlangen, wenn nach den Umständen des Einzelfalles Grund zu der Annahme besteht, dass der Kunde seinen Zahlungsverpflichtungen nicht oder nicht rechtzeitig nachkommt. Bei Verlangen einer Vorauszahlung ist der Kunde hierüber ausdrücklich und in verständlicher Form zu unterrichten. Hierbei sind mindestens der Beginn, die Höhe und die Gründe der Vorauszahlung sowie die Voraussetzungen für ihren Wegfall anzugeben.
 
@@ -301,8 +283,7 @@ erfolgt. Der Kunde kann einer Selbstablesung im Einzelfall widersprechen, wenn d
 
 (3) Statt eine Vorauszahlung zu verlangen, kann der Grundversorger beim Kunden einen Bargeld- oder Chipkartenzähler oder sonstige vergleichbare Vorkassensysteme einrichten.
 
-
-## § 15 – Sicherheitsleistung
+# § 15 – Sicherheitsleistung
 
 (1) Ist der Kunde zur Vorauszahlung nach § 14 nicht bereit oder nicht in der Lage, kann der Grundversorger in angemessener Höhe Sicherheit verlangen.
 
@@ -312,15 +293,13 @@ erfolgt. Der Kunde kann einer Selbstablesung im Einzelfall widersprechen, wenn d
 
 (4) Die Sicherheit ist unverzüglich zurückzugeben, wenn keine Vorauszahlung mehr verlangt werden kann.
 
-
-## § 16 – Rechnungen und Abschläge
+# § 16 – Rechnungen und Abschläge
 
 (1) Vordrucke für Rechnungen und Abschläge müssen einfach verständlich sein. Die für die Forderung maßgeblichen Berechnungsfaktoren sind vollständig und in allgemein verständlicher Form auszuweisen.
 
 (2) Der Grundversorger hat in den ergänzenden Bedingungen mindestens zwei mögliche Zahlungsweisen anzugeben.
 
-
-## § 17 – Zahlung, Verzug
+# § 17 – Zahlung, Verzug
 
 (1) Rechnungen und Abschläge werden zu dem vom Grundversorger angegebenen Zeitpunkt, frühestens jedoch zwei Wochen nach Zugang der Zahlungsaufforderung fällig. Einwände gegen Rechnungen und Abschlagsberechnungen berechtigen gegenüber dem Grundversorger zum Zahlungsaufschub oder zur Zahlungsverweigerung nur,
 
@@ -340,15 +319,13 @@ und solange durch die Nachprüfung nicht die ordnungsgemäße Funktion des Messg
 
 (3) Gegen Ansprüche des Grundversorgers kann vom Kunden nur mit unbestrittenen oder rechtskräftig festgestellten Gegenansprüchen aufgerechnet werden.
 
-
-## § 18 – Berechnungsfehler
+# § 18 – Berechnungsfehler
 
 (1) Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der Verkehrsfehlergrenzen oder werden Fehler in der Ermittlung des Rechnungsbetrages festgestellt, so ist die Überzahlung vom Grundversorger zurückzuzahlen oder der Fehlbetrag vom Kunden nachzuentrichten. Ist die Größe des Fehlers nicht einwandfrei festzustellen oder zeigt eine Messeinrichtung nicht an, so ermittelt der Grundversorger den Verbrauch für die Zeit seit der letzten fehlerfreien Ablesung aus dem Durchschnittsverbrauch des ihr vorhergehenden und des der Feststellung des Fehlers nachfolgenden Ablesezeitraums oder auf Grund des vorjährigen Verbrauchs durch Schätzung; die tatsächlichen Verhältnisse sind angemessen zu berücksichtigen. Bei Berechnungsfehlern auf Grund einer nicht ordnungsgemäßen Funktion einer Messeinrichtung ist der vom Messstellenbetreiber ermittelte und dem Kunden mitgeteilte korrigierte Verbrauch der Nachberechnung zu Grunde zu legen.
 
 (2) Ansprüche nach Absatz 1 sind auf den der Feststellung des Fehlers vorhergehenden Ablesezeitraum beschränkt, es sei denn, die Auswirkung des Fehlers kann über einen größeren Zeitraum festgestellt werden; in diesem Fall ist der Anspruch auf längstens drei Jahre beschränkt.
 
-
-## § 19 – Unterbrechung der Versorgung
+# § 19 – Unterbrechung der Versorgung
 
 (1) Der Grundversorger ist berechtigt, die Grundversorgung ohne vorherige Androhung durch den Netzbetreiber unterbrechen zu lassen, wenn der Kunde dieser Verordnung in nicht unerheblichem Maße schuldhaft zuwiderhandelt und die Unterbrechung erforderlich ist, um den Gebrauch von Gas unter Umgehung, Beeinflussung oder vor Anbringung der Messeinrichtungen zu verhindern.
 
@@ -358,8 +335,7 @@ und solange durch die Nachprüfung nicht die ordnungsgemäße Funktion des Messg
 
 (4) Der Grundversorger hat die Grundversorgung unverzüglich wiederherstellen zu lassen, sobald die Gründe für ihre Unterbrechung entfallen sind und der Kunde die Kosten der Unterbrechung und Wiederherstellung der Belieferung ersetzt hat. Die Kosten können für strukturell vergleichbare Fälle pauschal berechnet werden; die pauschale Berechnung muss einfach nachvollziehbar sein. Die Pauschale darf die nach dem gewöhnlichen Lauf der Dinge zu erwartenden Kosten nicht übersteigen. Auf Verlangen des Kunden ist die Berechnungsgrundlage nachzuweisen. Der Nachweis geringerer Kosten ist dem Kunden zu gestatten.
 
-
-## § 20 – Kündigung
+# § 20 – Kündigung
 
 (1) Der Grundversorgungsvertrag kann mit einer Frist von zwei Wochen gekündigt werden. Eine Kündigung durch den Grundversorger ist nur möglich, soweit eine Pflicht zur Grundversorgung nach § 36 Abs. 1 Satz 2 des Energiewirtschaftsgesetzes nicht besteht.
 
@@ -367,17 +343,14 @@ und solange durch die Nachprüfung nicht die ordnungsgemäße Funktion des Messg
 
 (3) Der Grundversorger darf keine gesonderten Entgelte für den Fall einer Kündigung des Vertrages, insbesondere wegen eines Wechsels des Lieferanten, verlangen.
 
-
-## § 21 – Fristlose Kündigung
+# § 21 – Fristlose Kündigung
 
 Der Grundversorger ist in den Fällen des § 19 Abs. 1 berechtigt, das Vertragsverhältnis fristlos zu kündigen, wenn die Voraussetzungen zur Unterbrechung der Grundversorgung wiederholt vorliegen. Bei wiederholten Zuwiderhandlungen nach § 19 Abs. 2 ist der Grundversorger zur fristlosen Kündigung berechtigt, wenn sie zwei Wochen vorher angedroht wurde; § 19 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 22 – Gerichtsstand
+# § 22 – Gerichtsstand
 
 Gerichtsstand für die beiderseitigen Verpflichtungen aus dem Grundversorgungsvertrag ist der Ort der Gasabnahme durch den Kunden.
 
-
-## § 23 – Übergangsregelung
+# § 23 – Übergangsregelung
 
 Der Grundversorger ist verpflichtet, die Kunden durch öffentliche Bekanntgabe und Veröffentlichung auf seiner Internetseite über die Vertragsanpassung nach § 115 Abs. 2 Satz 3 des Energiewirtschaftsgesetzes zu informieren. Die Anpassung erfolgt, soweit die Frist nach § 115 Abs. 2 Satz 3 des Energiewirtschaftsgesetzes noch nicht abgelaufen ist, durch die öffentliche Bekanntgabe nach Satz 1 mit Wirkung vom auf die Bekanntmachung folgenden Tag.

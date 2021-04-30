@@ -1,10 +1,7 @@
-# [Münz5DMBek 1975-10] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Albert-Schweitzer-Gedenkmünze)
-
-Ausfertigungsdatum: 06.10.1975
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Albert-Schweitzer-Gedenkmünze)
+% Ausfertigungsdatum: 06.10.1975
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 100. Wiederkehr des Geburtstages von Albert Schweitzer eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Staatlichen Münze Karlsruhe, die Auflage beträgt 8 Millionen Stück.
 
@@ -41,13 +38,11 @@ versehen. Zwischen Ende und Anfang der Randbeschriftung ist eine Arabeske eingep
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

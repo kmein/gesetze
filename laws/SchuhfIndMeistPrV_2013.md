@@ -1,15 +1,11 @@
-# [SchuhfIndMeistPrV 2013] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Schuhfertigung und Geprüfte Industriemeisterin – Fachrichtung Schuhfertigung
-
-Ausfertigungsdatum: 13.02.2013
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Schuhfertigung und Geprüfte Industriemeisterin – Fachrichtung Schuhfertigung
+% Ausfertigungsdatum: 13.02.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum „Geprüften Industriemeister – Fachrichtung Schuhfertigung“ und zur „Geprüften Industriemeisterin – Fachrichtung Schuhfertigung“ erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -29,8 +25,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Industriemeister – Fachrichtung Schuhfertigung“ oder „Geprüfte Industriemeisterin – Fachrichtung Schuhfertigung“.
 
-
-## § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum „Geprüften Industriemeister – Fachrichtung Schuhfertigung“ und zur „Geprüften Industriemeisterin – Fachrichtung Schuhfertigung“ umfasst:
 
@@ -50,8 +45,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Im Prüfungsteil nach Absatz 3 Nummer 1 ist schriftlich in Form von anwendungsbezogenen Aufgabenstellungen nach § 4 zu prüfen. Im Prüfungsteil nach Absatz 3 Nummer 2 ist schriftlich in Form von die Handlungsbereiche integrierenden Situationsaufgaben und mündlich in Form eines situationsbezogenen Fachgesprächs nach § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -73,8 +67,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Fachrichtungsübergreifende Basisqualifikationen
+# § 4 – Fachrichtungsübergreifende Basisqualifikationen
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -144,8 +137,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (7) Wurde in nicht mehr als einer schriftlichen Prüfungsleistung in den in Absatz 1 Nummer 1 bis 4 genannten Prüfungsbereichen eine mangelhafte Leistung erbracht, ist in diesem Prüfungsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche „Schuhtechnik“, „Organisation“ sowie „Führung und Kommunikation“. Die Handlungsbereiche werden durch die in Absatz 2 Nummer 1 bis 3 genannten Qualifikationsschwerpunkte beschrieben. Es werden drei die Handlungsbereiche integrierende Situationsaufgaben nach den Absätzen 3 bis 5 unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen gestellt. Zwei der Situationsaufgaben sind schriftlich zu lösen, eine Situationsaufgabe ist Gegenstand eines situationsbezogenen Fachgesprächs nach Absatz 6. Die Situationsaufgaben sind so zu gestalten, dass alle Qualifikationsschwerpunkte der Handlungsbereiche mindestens einmal thematisiert werden. Die Prüfungsdauer der schriftlichen Situationsaufgaben beträgt jeweils mindestens vier Stunden, insgesamt jedoch nicht mehr als zehn Stunden.
 
@@ -301,15 +293,13 @@ f) Fördern des Qualitätsbewusstseins der Mitarbeiter und Mitarbeiterinnen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder § 8 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -319,8 +309,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils 50 Punkte erreicht worden sind:
 
@@ -340,8 +329,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -355,8 +343,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -364,29 +351,25 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Begonnene Prüfungsverfahren können bis zum 31. Dezember 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die zuständige Stelle die Wiederholungsprüfung auch nach dieser Verordnung durchführen. § 8 Absatz 2 findet in diesem Fall keine Anwendung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. März 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Schuhfertigung vom 8. November 2002 (BGBl. I S. 4401), die zuletzt durch Artikel 16 der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2379 - 2380)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2381)
 

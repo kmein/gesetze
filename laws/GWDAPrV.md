@@ -1,28 +1,21 @@
-# [GWDAPrV] Verordnung über die Ausbildung und Prüfung für den gehobenen Wetterdienst des Bundes  (GWDAPrV)
-
-Ausfertigungsdatum: 03.06.2011
-
+% Verordnung über die Ausbildung und Prüfung für den gehobenen Wetterdienst des Bundes  (GWDAPrV)
+% Ausfertigungsdatum: 03.06.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Diplomstudium
+# § 1 – Diplomstudium
 
 Das Diplomstudium „Wetterdienst“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen Wetterdienst des Bundes.
 
-
-## § 2 – Studienziele
+# § 2 – Studienziele
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis sowohl die wissenschaftlichen Kenntnisse und Methoden als auch die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben des gehobenen Wetterdienstes des Bundes erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln in einem freiheitlichen demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und internationalen Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um den sich ständig wandelnden Herausforderungen der Bundesverwaltung gerecht werden zu können.
 
-
-## § 3 – Dienstbehörden, Dienstaufsicht
+# § 3 – Dienstbehörden, Dienstaufsicht
 
 (1) Der Deutsche Wetterdienst ist Einstellungsbehörde für Studierende, die nach Beendigung der Ausbildung ihren Dienst beim Deutschen Wetterdienst aufnehmen sollen. Er ist für die Ausschreibung und Durchführung des Auswahlverfahrens, die Entscheidung über die Einstellung sowie die Betreuung der von ihm eingestellten Studierenden verantwortlich und für diese die zuständige Dienstbehörde. Er entscheidet in Absprache mit der Ausbildungsleitung über Verkürzung oder Verlängerung des Vorbereitungsdienstes.
 
@@ -32,8 +25,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis sowohl di
 
 (4) Der Deutsche Wetterdienst leitet die Ausbildung.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer neben den allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
 
@@ -47,8 +39,7 @@ a) für eine zivile Laufbahn die Bereitschaft erklärt hat, an Auslandseinsätze
 
 b) für eine militärische Laufbahn ein Eignungsfeststellungsverfahren erfolgreich absolviert hat.
 
-
-## § 5 – Auswahlverfahren
+# § 5 – Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
@@ -66,32 +57,27 @@ Als Mitglieder der Auswahlkommission können auch vergleichbare Soldatinnen und 
 
 (4) Es können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass in den Auswahlverfahren die gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
-
-## § 6 – Schwerbehinderte und diesen gleichgestellte Menschen
+# § 6 – Schwerbehinderte und diesen gleichgestellte Menschen
 
 (1) Schwerbehinderten und diesen gleichgestellten Menschen werden in den Auswahl- und Prüfungsverfahren sowie zum Erbringen von Leistungsnachweisen Erleichterungen gewährt, die ihrer Behinderung angemessenen sind. Hierauf sind sie durch die Einstellungsbehörde rechtzeitig hinzuweisen. Art und Umfang der Erleichterungen sind mit ihnen und der Schwerbehindertenvertretung rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
 (2) Entscheidungen über Prüfungserleichterungen trifft das Prüfungsamt.
 
-
-## § 7 – Urlaub
+# § 7 – Urlaub
 
 Die Fachhochschule bestimmt die Zeiten des Erholungsurlaubs.
 
-
-## § 8 – Dauer des Vorbereitungsdienstes
+# § 8 – Dauer des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert drei Jahre.
 
 (2) Ein erfolgreich abgeschlossener Vorbereitungsdienst für die Laufbahn des mittleren naturwissenschaftlichen Dienstes kann bis zur Dauer von sechs Monaten auf den Vorbereitungsdienst für den gehobenen Wetterdienst angerechnet werden, wenn das Erreichen des Ausbildungsziels nicht gefährdet erscheint. Dabei können Abweichungen vom Studienplan oder vom Ausbildungsplan zugelassen werden, wenn sie der zielgerichteten Gestaltung des Vorbereitungsdienstes entsprechen.
 
-
-## § 9 – Ausbildungsakten
+# § 9 – Ausbildungsakten
 
 Für die Studierenden werden beim Deutschen Wetterdienst Ausbildungsakten geführt, in die der Ausbildungsplan, alle Leistungsnachweise, Aufsichtsarbeiten und Beurteilungen aufzunehmen sind.
 
-
-## § 10 – Aufbau des Studiums
+# § 10 – Aufbau des Studiums
 
 (1) Die im Studium zu vermittelnden Kenntnisse und Fähigkeiten orientieren sich an den Anforderungen des gehobenen Wetterdienstes. Das Studium umfasst Fachstudien an der Fachhochschule sowie Praktika.
 
@@ -103,13 +89,11 @@ abschnitt I</td><td>Grundstudium</td><td style="text-align: left;">6 Monate</td>
 
 (3) Der Studienverlauf und die Inhalte der Studienabschnitte richten sich nach dem Studienplan für das Diplomstudium „Wetterdienst“. Der Studienplan bestimmt auch die Stundenzahlen der Studieninhalte sowie die Art der Leistungsnachweise.
 
-
-## § 11 – Fachhochschule
+# § 11 – Fachhochschule
 
 Die Dienstbehörden weisen die Aufstiegsbeamtinnen und Aufstiegsbeamten dem Zentralbereich der Fachhochschule zum Grundstudium und dem Fachbereich Wetterdienst der Fachhochschule zum Hauptstudium zu. Für die übrigen Studierenden übernehmen die Einstellungsbehörden diese Aufgabe.
 
-
-## § 12 – Studieninhalte
+# § 12 – Studieninhalte
 
 (1) Studieninhalte des Grundstudiums, die sich an allgemeinen Aufgaben des gehobenen Dienstes ausrichten, sind:
 
@@ -151,8 +135,7 @@ Die Dienstbehörden weisen die Aufstiegsbeamtinnen und Aufstiegsbeamten dem Zent
 
 6. fachbezogenes Englisch.
 
-
-## § 13 – Praktika
+# § 13 – Praktika
 
 (1) Während der Praktika, die auch praxisbezogene Lehrveranstaltungen umfassen, erwerben die Studierenden Fachkenntnisse und Fähigkeiten als Grundlage für die Fachstudien, vertiefen die in den Fachstudien erworbenen wissenschaftlichen Kenntnisse und lernen, diese in der Praxis anzuwenden.
 
@@ -162,8 +145,7 @@ Die Dienstbehörden weisen die Aufstiegsbeamtinnen und Aufstiegsbeamten dem Zent
 
 (4) Die Studierenden erhalten von den Ausbildungsstellen, denen sie nach dem Ausbildungsplan für mindestens einen Monat zugewiesen werden, unverzüglich nach Abschluss einer Ausbildungseinheit eine Beurteilung. Diese muss Angaben zur Dauer sowie zu Unterbrechungen der Ausbildung, zu Fähigkeiten, zum Entwicklungspotenzial und zur erbrachten Leistung der Studierenden enthalten. § 24 Absatz 1 und 3 gilt entsprechend. Die Beurteilungen sind mit den Studierenden zu besprechen.
 
-
-## § 14 – Ausbildungsstelle, Ausbildungsleitung, Ausbilderinnen und Ausbilder
+# § 14 – Ausbildungsstelle, Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
 (1) Jede Behörde oder Dienststelle, der Studierende zur Ausbildung zugewiesen werden (Ausbildungsstelle), bestellt eine Ausbildungsleitung und deren Vertretung. Die Ausbildungsleitung ist für die ordnungsgemäße Durchführung des Praktikums verantwortlich und berät die Studierenden sowie die Ausbildenden.
 
@@ -171,13 +153,11 @@ Die Dienstbehörden weisen die Aufstiegsbeamtinnen und Aufstiegsbeamten dem Zent
 
 (3) Den Ausbildenden dürfen nicht mehr Studierende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den Ausbildungsstand.
 
-
-## § 15 – Leistungsnachweise während des Grundstudiums
+# § 15 – Leistungsnachweise während des Grundstudiums
 
 Während des Grundstudiums sind vier schriftliche Aufsichtsarbeiten anzufertigen, deren Aufgabenschwerpunkte jeweils einem der Studiengebiete nach § 12 Absatz 1 Nummer 1 bis 4 zugeordnet sind; Inhalte nach § 12 Absatz 1 Nummer 6 können berücksichtigt werden.
 
-
-## § 16 – Leistungsnachweise während des Hauptstudiums und der Praktika
+# § 16 – Leistungsnachweise während des Hauptstudiums und der Praktika
 
 (1) Während des Hauptstudiums sind mindestens zwölf Leistungsnachweise zu erbringen, die mindestens eine Woche im Voraus angekündigt werden, davon sechs schriftliche Aufsichtsarbeiten. Leistungsnachweise werden durchgeführt in Form von:
 
@@ -203,8 +183,7 @@ Während des Grundstudiums sind vier schriftliche Aufsichtsarbeiten anzufertigen
 
 (5) Zum Abschluss der Praktika stellt der Deutsche Wetterdienst den Studierenden ein zusammenfassendes Zeugnis aus, das die Bewertungen der Leistungsnachweise nach Absatz 4 und die Beurteilungen nach § 13 Absatz 4 enthält. Das Zeugnis schließt mit der Angabe der Durchschnittsrangpunktzahl. Diese ist das arithmetische Mittel der Einzelbewertungen.
 
-
-## § 17 – Zwischenprüfung
+# § 17 – Zwischenprüfung
 
 (1) Um das Grundstudium abzuschließen, haben die Studierenden in einer Zwischenprüfung nachzuweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche Fortsetzung des Studiums erwarten lässt.
 
@@ -216,18 +195,15 @@ Während des Grundstudiums sind vier schriftliche Aufsichtsarbeiten anzufertigen
 
 (5) Die Fachhochschule stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die Noten und die erzielten Rangpunkte der einzelnen Aufsichtsarbeiten sowie die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält von der Fachhochschule einen Bescheid mit dem Vermerk über die nichtbestandene Zwischenprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der hervorgeht, welche Studiengebiete belegt worden sind, wie sie bewertet worden sind und wie viele Rangpunkte erzielt worden sind.
 
-
-## § 18 – Laufbahnprüfung
+# § 18 – Laufbahnprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der Zwischenprüfung, den Leistungsnachweisen im Hauptstudium, den Leistungen in den Praktika, einer Diplomarbeit sowie einer schriftlichen und einer mündlichen Diplomprüfung. Sie dient dazu, die Eignung und Befähigung der Studierenden für die Laufbahn des gehobenen naturwissenschaftlichen Dienstes des Bundes festzustellen.
 
-
-## § 19 – Prüfungsamt
+# § 19 – Prüfungsamt
 
 Für die Organisation und Durchführung der Diplomarbeit und der schriftlichen und mündlichen Diplomprüfung richtet der Deutsche Wetterdienst ein Prüfungsamt ein. Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Aufgaben des Prüfungsamtes auch ganz oder teilweise auf andere Behörden übertragen.
 
-
-## § 20 – Prüfende, Prüfungskommissionen
+# § 20 – Prüfende, Prüfungskommissionen
 
 (1) Das Prüfungsamt bestellt Prüfende für die Bewertung der Diplomarbeit, richtet für die schriftliche und die mündliche Diplomprüfung eine oder mehrere Prüfungskommissionen ein und bestellt deren Mitglieder und Ersatzmitglieder. Bei der Einrichtung mehrerer Prüfungskommissionen ist sicherzustellen, dass die gleichen Bewertungsmaßstäbe angelegt werden.
 
@@ -247,8 +223,7 @@ Aus dem Kreis der Beisitzenden wird eine Vertretung der oder des Vorsitzenden be
 
 (6) Die Prüfenden bewerten die Diplomarbeiten oder die schriftliche Diplomprüfung unabhängig voneinander. Die Zweitprüfenden dürfen Kenntnis von der Bewertung durch die Erstprüfenden haben.
 
-
-## § 21 – Diplomarbeit
+# § 21 – Diplomarbeit
 
 (1) In der Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten. Gruppenarbeiten sind zulässig, soweit die jeweils erbrachten Leistungen oder Anteile an der Diplomarbeit kenntlich gemacht werden.
 
@@ -258,8 +233,7 @@ Aus dem Kreis der Beisitzenden wird eine Vertretung der oder des Vorsitzenden be
 
 (4) Die Diplomarbeit ist bestanden, wenn sie mindestens mit fünf Rangpunkten bewertet worden ist. Über die in der Diplomarbeit abschließend erzielte Rangpunktzahl stellt das Prüfungsamt den Studierenden ein Zeugnis aus.
 
-
-## § 22 – Schriftliche Diplomprüfung
+# § 22 – Schriftliche Diplomprüfung
 
 (1) Die schriftliche Diplomprüfung besteht aus sechs schriftlichen Aufsichtsarbeiten. Zugelassen wird, wer mit Erfolg die Zwischenprüfung abgelegt und im Zeugnis nach § 16 Absatz 3 mindestens die Durchschnittsrangpunktzahl 5 erreicht hat. Das Prüfungsamt bestimmt den Inhalt der schriftlichen Aufsichtsarbeiten auf Vorschlag des Deutschen Wetterdienstes und des Geoinformationsdienstes der Bundeswehr. Die Themen der sechs schriftlichen Aufsichtsarbeiten werden aus folgenden Prüfungsfächern entnommen:
 
@@ -285,8 +259,7 @@ Die Prüfungsvorschläge und -aufgaben sind bis zum Beginn der jeweiligen Prüfu
 
 (5) Die schriftliche Diplomprüfung ist bestanden, wenn mindestens vier schriftliche Aufsichtsarbeiten mindestens mit fünf Rangpunkten bewertet worden sind.
 
-
-## § 23 – Mündliche Diplomprüfung
+# § 23 – Mündliche Diplomprüfung
 
 (1) Wer die schriftliche Diplomprüfung bestanden hat, wird vom Prüfungsamt zur mündlichen Diplomprüfung zugelassen. Das Prüfungsamt teilt den zugelassenen Studierenden auf Antrag die von ihnen in den schriftlichen Aufsichtsarbeiten erzielten Rangpunkte mit. Die Mitteilung der Nichtzulassung bedarf der Schriftform und wird mit einer Rechtsbehelfsbelehrung versehen.
 
@@ -300,8 +273,7 @@ Die Prüfungsvorschläge und -aufgaben sind bis zum Beginn der jeweiligen Prüfu
 
 (6) Die mündliche Diplomprüfung ist bestanden, wenn insgesamt die Durchschnittsrangpunktzahl 5 erreicht worden ist.
 
-
-## § 24 – Bewertung von Prüfungsleistungen und Leistungsnachweisen
+# § 24 – Bewertung von Prüfungsleistungen und Leistungsnachweisen
 
 (1) Die Prüfungsleistungen und Leistungsnachweise werden mit Rangpunkten und der sich daraus ergebenden Note bewertet. Die Rangpunkte und Noten werden dem prozentualen Anteil der erreichten Punktzahl an der erreichbaren Punktzahl wie folgt zugeordnet:  
   
@@ -400,8 +372,7 @@ nicht ausreichend
 
 (6) Die Leistungen der mündlichen Diplomprüfung werden von der Prüfungskommission bewertet. Die oder der Fachprüfende schlägt jeweils die Bewertung vor. Das Ergebnis der mündlichen Prüfung ist in einer Durchschnittsrangpunktzahl auszudrücken. Diese ist das arithmetische Mittel der Rangpunkte, die in den Einzelprüfungen erzielt wurden.
 
-
-## § 25 – Fernbleiben, Rücktritt
+# § 25 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der Diplomarbeit, der schriftlichen oder mündlichen Diplomprüfung oder eines ihrer Teile ohne Genehmigung des Prüfungsamtes gilt diese Prüfung oder der Prüfungsteil als nicht bestanden.
 
@@ -409,8 +380,7 @@ nicht ausreichend
 
 (3) Das Prüfungsamt bestimmt, wann die Prüfung oder der Prüfungsteil nachgeholt wird; es entscheidet, ob und inwieweit die bereits abgegebenen Arbeiten gewertet werden. Soweit bei einer Verhinderung während der Diplomarbeit mindestens die Hälfte der Bearbeitungszeit zur Verfügung steht, verlängert das Prüfungsamt die Bearbeitungszeit auf Antrag der oder des Studierenden entsprechend, ansonsten gilt die Diplomarbeit als nicht begonnen.
 
-
-## § 26 – Täuschung, Ordnungsverstoß
+# § 26 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei der Diplomprüfung oder bei einem ihrer Teile eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer Entscheidung des Prüfungsamtes oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung oder einem Prüfungsteil ausgeschlossen werden.
 
@@ -422,8 +392,7 @@ nicht ausreichend
 
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 27 – Wiederholung von Prüfungen
+# § 27 – Wiederholung von Prüfungen
 
 (1) Wer die Zwischenprüfung nicht bestanden hat, kann sie frühestens einen Monat nach Bekanntgabe des Gesamtergebnisses der Zwischenprüfung und spätestens fünf Monate nach dem Ende des Grundstudiums wiederholen; in begründeten Fällen kann die oberste Dienstbehörde eine zweite Wiederholung zulassen. Die weitere Ausbildung wird wegen der Wiederholung der Prüfung nicht ausgesetzt. Ist auch die Wiederholung erfolglos, ist das Studium beendet.
 
@@ -435,8 +404,7 @@ nicht ausreichend
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 28 – Bestehen der Laufbahnprüfung
+# § 28 – Bestehen der Laufbahnprüfung
 
 (1) Im Anschluss an die mündliche Prüfung errechnet die Prüfungskommission die Rangpunktzahl der Laufbahnprüfung. Dabei werden berücksichtigt:
 
@@ -458,8 +426,7 @@ Wenn die Rangpunktzahl der Laufbahnprüfung mindestens 5 beträgt, wird bei Nach
 
 (3) Im Anschluss an die mündliche Diplomprüfung teilt die oder der Vorsitzende den Studierenden das Ergebnis mit und erläutert es auf Wunsch kurz.
 
-
-## § 29 – Abschlusszeugnis
+# § 29 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und eine Urkunde über die Verleihung des Diplomgrades. Auf Antrag stellt die Fachhochschule einen Nachweis über das erzielte Ergebnis gemäß der Anlage zu dieser Verordnung aus.
 
@@ -473,24 +440,20 @@ Wenn die Rangpunktzahl der Laufbahnprüfung mindestens 5 beträgt, wird bei Nach
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid mit dem Vermerk über die nichtbestandene Laufbahnprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der hervorgeht, wie lange die Ausbildung dauerte, welche Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
 
-
-## § 30 – Prüfungsakten, Einsichtnahme
+# § 30 – Prüfungsakten, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen nach § 17 Absatz 2 Satz 1 und § 22 Absatz 1 Satz 2, die Diplomarbeit, eine Ausfertigung des Protokolls über die mündliche Prüfung sowie je eine Ausfertigung des Zeugnisses über Hauptstudium und Praktika, des Zwischenprüfungszeugnisses und des Abschlusszeugnisses oder des Bescheids über das Nichtbestehen der Laufbahnprüfung sind zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Deutschen Wetterdienst mindestens fünf Jahre und höchstens zehn Jahre aufbewahrt.
 
 (2) Die Studierenden können nach Abschluss der Laufbahnprüfung Einsicht in ihre Prüfungsakten nehmen.
 
-
-## § 31 – Übergangsvorschriften
+# § 31 – Übergangsvorschriften
 
 Für Studierende, die bis zum Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes im Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der Bundeswehr vom 19. Februar 2002 (BGBl. I S. 983), die zuletzt durch Artikel 3 Absatz 17 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 
-
-## § 32 – Inkrafttreten, Außerkrafttreten
+# § 32 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes im Deutschen Wetterdienst und im Geophysikalischen Beratungsdienst der Bundeswehr vom 19. Februar 2002 (BGBl. I S. 983), die zuletzt durch Artikel 3 Absatz 17 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 29 Absatz 1 Satz 2)
+# Anlage – (zu § 29 Absatz 1 Satz 2)
 
 (Fundstelle: BGBl. I 2011, 1034)

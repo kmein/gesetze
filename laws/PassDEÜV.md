@@ -1,17 +1,13 @@
-# [PassDEÜV] Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller  (Passdatenerfassungs- und Übermittlungsverordnung - PassDEÜV)
-
-Ausfertigungsdatum: 09.10.2007
-
+% Verordnung zur Erfassung und Qualitätssicherung des Lichtbildes und der Fingerabdrücke in den Passbehörden und der Übermittlung der Passantragsdaten an den Passhersteller  (Passdatenerfassungs- und Übermittlungsverordnung - PassDEÜV)
+% Ausfertigungsdatum: 09.10.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die technischen Anforderungen und Verfahren für die elektronische Erfassung des Lichtbildes und der Fingerabdrücke, die Übermittlung sämtlicher Passantragsdaten von der Passbehörde an den Passhersteller, die Qualitätssicherung in der Passbehörde und beim Passhersteller sowie das Verfahren zum Nachweis der Erfüllung der Anforderungen dieser Verordnung.
 
 (2) Diese Verordnung gilt für Passbehörden, den Passhersteller sowie für Hersteller und Lieferanten von technischen Systemen und Bestandteilen, die zum Einsatz bei den Verfahren bestimmt sind, die in dieser Rechtsverordnung geregelt sind.
 
-
-## § 2 – Erfassung von Lichtbild und Fingerabdrücken; dezentrale Qualitätssicherung
+# § 2 – Erfassung von Lichtbild und Fingerabdrücken; dezentrale Qualitätssicherung
 
 (1) Die Passbehörde hat durch geeignete technische und organisatorische Maßnahmen die erforderliche Qualität der Erfassung des Lichtbildes und der Fingerabdrücke sicherzustellen.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 09.10.2007
 
 sind nach dem Stand der Technik zu erfüllen. Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik. Diese sind in der Anlage 1 aufgeführt und gelten in der jeweils im Bundesanzeiger veröffentlichten Fassung.
 
-
-## § 3 – Übermittlung der Daten an den Passhersteller
+# § 3 – Übermittlung der Daten an den Passhersteller
 
 (1) Nach der Erfassung werden sämtliche Passantragsdaten in den Passbehörden zu einem digitalen Datensatz zusammengeführt und an den Passhersteller übermittelt. Die Datenübermittlung umfasst auch die Qualitätswerte zu den erhobenen Fingerabdrücken und – soweit vorhanden – zu den Lichtbildern, die Behördenkennzahl, die Versionsnummern der QS-Software und der Sollwerte, den Zeitstempel des Passantrags sowie die Speichergröße der kodierten biometrischen Daten. Die Datenübermittlung erfolgt durch Datenübertragung über verwaltungseigene Kommunikationsnetze oder über das Internet. Sie erfolgt unmittelbar zwischen Passbehörde und Passhersteller oder über Vermittlungsstellen. Die zu übermittelnden Daten sind elektronisch zu signieren und zu verschlüsseln.
 
@@ -40,8 +35,7 @@ sind nach dem Stand der Technik zu erfüllen. Der Stand der Technik ist als nied
 
 (6) Soweit die Datenübermittlung über Vermittlungsstellen erfolgt, gelten die Absätze 1 bis 5 für die Datenübermittlung zwischen Vermittlungsstelle und Passhersteller entsprechend. Die Datenübermittlung zwischen Passbehörde und Vermittlungsstelle muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen der Verordnung entsprechendes Niveau aufweisen. Die Einzelheiten richten sich nach dem jeweiligen Landesrecht.
 
-
-## § 4 – Zertifizierung
+# § 4 – Zertifizierung
 
 (1) Die Systemkomponenten der Passbehörden und des Passherstellers, deren Zertifizierung verpflichtend ist, ergeben sich aus Anlage 2. Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
 
@@ -49,18 +43,15 @@ sind nach dem Stand der Technik zu erfüllen. Der Stand der Technik ist als nied
 
 (3) Die Kosten der Zertifizierung trägt der Antragsteller. Die BSI-Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils geltenden Fassung findet Anwendung.
 
-
-## § 5 – Qualitätsstatistik
+# § 5 – Qualitätsstatistik
 
 Der Passhersteller erstellt eine Qualitätsstatistik. Sie enthält anonymisierte Qualitätswerte zu Lichtbildern und Fingerabdrücken, die sowohl in der Passbehörde als auch beim Passhersteller ermittelt und vom Passhersteller ausgewertet werden. Der Passhersteller stellt die Ergebnisse der Auswertung und auf Verlangen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau und Heimat und dem BSI zur Verfügung.
 
-
-## § 6 – Übergangsregelungen
+# § 6 – Übergangsregelungen
 
 Passbehörden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits ein Verfahren zur elektronischen Datenübertragung betreiben, das auf einem von den Vorgaben des § 3 Abs. 3 Satz 1 abweichenden Datenaustauschformat (XPass) beruht, können dieses Verfahren bis zum 31. Dezember 2012 weiterführen.
 
-
-## Anlage 1 – Übersicht über die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+# Anlage 1 – Übersicht über die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
 (Fundstelle: BGBl. I 2010, 1455)
 
@@ -73,8 +64,7 @@ Passbehörden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits ei
 
 4. BSI: Technische Richtlinie TR-03132, Sichere Szenarien für Kommunikationsprozesse im Bereich hoheitlicher Dokumente (TR SiSKo hD)
 
-
-## Anlage 2 – Übersicht über die zu zertifizierenden Systemkomponenten
+# Anlage 2 – Übersicht über die zu zertifizierenden Systemkomponenten
 
 (Fundstelle: BGBl. I 2010, 1456)
 

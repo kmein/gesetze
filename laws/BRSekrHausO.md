@@ -1,20 +1,15 @@
-# [BRSekrHausO] Hausordnung für das Sekretariat des Bundesrates
-
-Ausfertigungsdatum: 02.10.2002
-
+% Hausordnung für das Sekretariat des Bundesrates
+% Ausfertigungsdatum: 02.10.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Präsident des Bundesrates erlässt in Ausübung des Hausrechts gemäß § 6 Abs. 3 der Geschäftsordnung des Bundesrates vom 1. Juli 1966 (BGBl. I S. 437) in der Fassung der Bekanntmachung vom 26. November 1993 (BGBl. I S. 2007) folgende allgemeine Anordnung:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Anordnung gilt für alle Gebäude, Gebäudeteile und Grundstücke, die dem Bundesrat zur Wahrnehmung seiner verfassungsmäßigen Aufgaben dienen.
 
-
-## § 2 – Zutrittsberechtigung
+# § 2 – Zutrittsberechtigung
 
 (1) Zutritt zu den Gebäuden, Gebäudeteilen und Grundstücken nach § 1 haben
 
@@ -56,8 +51,7 @@ Diese Personen haben ihre Identität - soweit diese nicht zweifelsfrei bekannt i
 
 (5) Auf Verlangen des Ordnungspersonals (§ 5) haben alle Personen, die sich im Bereich des Bundesrates nach § 1 aufhalten, ihre Zutrittsberechtigung nachzuweisen.
 
-
-## § 3 – Plenarsaal
+# § 3 – Plenarsaal
 
 (1) Zutritt zum Plenarsaal des Bundesrates während der Sitzungen des Bundesrates haben
 
@@ -79,8 +73,7 @@ Diese Personen haben ihre Identität - soweit diese nicht zweifelsfrei bekannt i
 
 (6) Die nach § 3 Abs. 1 bis 3 Zutrittsberechtigten dürfen Gegenstände wie z. B. Mäntel, Koffer und Schirme, mit Ausnahme von Aktentaschen und Handtaschen, nicht in den Plenarsaal mitführen. Der Rufton von Mobiltelefonen ist abzuschalten. Telefonate sollen grundsätzlich außerhalb des Plenarsaals geführt werden. Pressevertretern sind Telefonate im Plenarsaal nicht gestattet.
 
-
-## § 4 – Verhaltensgrundsätze
+# § 4 – Verhaltensgrundsätze
 
 (1) Im Bereich des Bundesrates nach § 1 ist jede Handlung zu unterlassen, die geeignet ist, die Tätigkeit des Bundesrates sowie seiner Organe und Einrichtungen zu beeinträchtigen. Insbesondere ist es nicht gestattet,
 
@@ -100,8 +93,7 @@ Diese Personen haben ihre Identität - soweit diese nicht zweifelsfrei bekannt i
 
 (5) Die Anordnungen des Ordnungspersonals (§ 5) sind zu beachten. Das Ordnungspersonal hat sich auf Verlangen der Besucher auszuweisen, sofern es nicht durch Dienstkleidung oder in anderer sichtbarer Weise als solches zu erkennen ist.
 
-
-## § 5 – Ordnungspersonal
+# § 5 – Ordnungspersonal
 
 (1) Zum Ordnungspersonal des Bundesrates gehören
 
@@ -119,8 +111,7 @@ b) Beschäftigten des Servicebereichs der Verwaltung.
 
 (2) Bei Gefahr im Verzug sind alle Beschäftigten des Sekretariats des Bundesrates berechtigt, die Aufgaben des Ordnungspersonals wahrzunehmen.
 
-
-## § 6 – Aufgaben und Befugnisse des Ordnungspersonals
+# § 6 – Aufgaben und Befugnisse des Ordnungspersonals
 
 (1) Das Ordnungspersonal (§ 5) hat für die Einhaltung der Vorschriften dieser Anordnung zu sorgen und ist berechtigt und verpflichtet, gegen Verstöße einzuschreiten.
 
@@ -132,22 +123,18 @@ b) Beschäftigten des Servicebereichs der Verwaltung.
 
 (3) Soweit Maßnahmen nach Absatz 2 nicht zur Abwehr der Störung führen, hat die Leitung des Sekretariats des Bundesrates oder eine von ihr beauftragte Person die zur Abwehr der Störung erforderlichen Maßnahmen zu veranlassen.
 
-
-## § 7 – Sondereinrichtungen
+# § 7 – Sondereinrichtungen
 
 Für die Benutzung der Sondereinrichtungen des Bundesrates wie Bibliothek und Archiv gelten neben dieser Anordnung zusätzlich deren Benutzungsordnungen in der jeweils geltenden Fassung.
 
-
-## § 8 – Ausnahmen und Einschränkungen
+# § 8 – Ausnahmen und Einschränkungen
 
 Die Präsidentin oder der Präsident des Bundesrates entscheidet über Ausnahmen oder Abweichungen von dieser Anordnung im Einzelfall sowie über die Einschränkung oder Erweiterung der Zutrittsberechtigung von Besuchern aus besonderem Anlass.
 
-
-## § 9 – Bußgeld- und Strafbestimmungen
+# § 9 – Bußgeld- und Strafbestimmungen
 
 Ein Verstoß gegen die Bestimmungen dieser Anordnungen kann unter den Voraussetzungen von § 106b des Strafgesetzbuches oder von § 112 des Gesetzes über Ordnungswidrigkeiten als Straftat oder als Ordnungswidrigkeit verfolgt werden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Anordnung tritt am Tag nach der Bekanntmachung im Bundesgesetzblatt in Kraft.

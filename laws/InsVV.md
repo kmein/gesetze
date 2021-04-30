@@ -1,15 +1,11 @@
-# [InsVV] Insolvenzrechtliche Vergütungsverordnung  (InsVV)
-
-Ausfertigungsdatum: 19.08.1998
-
+% Insolvenzrechtliche Vergütungsverordnung  (InsVV)
+% Ausfertigungsdatum: 19.08.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 65 in Verbindung mit § 21 Abs. 2 Nr. 1, § 73 Abs. 2, § 274 Abs. 1, § 293 Abs. 2 und § 313 Abs. 1 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866) verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Berechnungsgrundlage
+# § 1 – Berechnungsgrundlage
 
 (1) Die Vergütung des Insolvenzverwalters wird nach dem Wert der Insolvenzmasse berechnet, auf die sich die Schlußrechnung bezieht. Wird das Verfahren nach Bestätigung eines Insolvenzplans aufgehoben oder durch Einstellung vorzeitig beendet, so ist die Vergütung nach dem Schätzwert der Masse zur Zeit der Beendigung des Verfahrens zu berechnen.
 
@@ -29,8 +25,7 @@ b) Wird das Unternehmen des Schuldners fortgeführt, so ist nur der Überschuß 
 
 5. Ein Vorschuß, der von einer anderen Person als dem Schuldner zur Durchführung des Verfahrens geleistet worden ist, und ein Zuschuß, den ein Dritter zur Erfüllung eines Insolvenzplans oder zum Zweck der Erteilung der Restschuldbefreiung vor Ablauf der Abtretungsfrist geleistet hat, bleiben außer Betracht.
 
-
-## § 2 – Regelsätze
+# § 2 – Regelsätze
 
 (1) Der Insolvenzverwalter erhält in der Regel
 
@@ -54,8 +49,7 @@ b) Wird das Unternehmen des Schuldners fortgeführt, so ist nur der Überschuß 
 
 (2) Haben in dem Verfahren nicht mehr als 10 Gläubiger ihre Forderungen angemeldet, so soll die Vergütung in der Regel mindestens 1 400 Euro betragen. Von 11 bis zu 30 Gläubigern erhöht sich die Vergütung für je angefangene 5 Gläubiger um 210 Euro. Ab 31 Gläubiger erhöht sich die Vergütung je angefangene 5 Gläubiger um 140 Euro.
 
-
-## § 3 – Zu- und Abschläge
+# § 3 – Zu- und Abschläge
 
 (1) Eine den Regelsatz übersteigende Vergütung ist insbesondere festzusetzen, wenn
 
@@ -83,8 +77,7 @@ e) die Vermögensverhältnisse des Schuldners überschaubar sind und die Zahl de
 
 f) der Schuldner in ein Koordinationsverfahren einbezogen ist, in dem ein Verfahrenskoordinator nach § 269e der Insolvenzordnung bestellt worden ist.
 
-
-## § 4 – Geschäftskosten, Haftpflichtversicherung
+# § 4 – Geschäftskosten, Haftpflichtversicherung
 
 (1) Mit der Vergütung sind die allgemeinen Geschäftskosten abgegolten. Zu den allgemeinen Geschäftskosten gehört der Büroaufwand des Insolvenzverwalters einschließlich der Gehälter seiner Angestellten, auch soweit diese anläßlich des Insolvenzverfahrens eingestellt worden sind. Unberührt bleibt das Recht des Verwalters, zur Erledigung besonderer Aufgaben im Rahmen der Verwaltung für die Masse Dienst- oder Werkverträge abzuschließen und die angemessene Vergütung aus der Masse zu zahlen.
 
@@ -92,27 +85,23 @@ f) der Schuldner in ein Koordinationsverfahren einbezogen ist, in dem ein Verfah
 
 (3) Mit der Vergütung sind auch die Kosten einer Haftpflichtversicherung mit einer Versicherungssumme bis zu 2 000 000 Euro pro Versicherungsfall und mit einer Jahreshöchstleistung bis zu 4 000 000 Euro abgegolten. Ist die Verwaltung mit einem darüber hinausgehenden Haftungsrisiko verbunden, so sind die Kosten einer entsprechend höheren Versicherung als Auslagen zu erstatten.
 
-
-## § 5 – Einsatz besonderer Sachkunde
+# § 5 – Einsatz besonderer Sachkunde
 
 (1) Ist der Insolvenzverwalter als Rechtsanwalt zugelassen, so kann er für Tätigkeiten, die ein nicht als Rechtsanwalt zugelassener Verwalter angemessenerweise einem Rechtsanwalt übertragen hätte, nach Maßgabe des Rechtsanwaltsvergütungsgesetzes Gebühren und Auslagen gesondert aus der Insolvenzmasse entnehmen.
 
 (2) Ist der Verwalter Wirtschaftsprüfer oder Steuerberater oder besitzt er eine andere besondere Qualifikation, so gilt Absatz 1 entsprechend.
 
-
-## § 6 – Nachtragsverteilung. Überwachung der Erfüllung eines Insolvenzplans
+# § 6 – Nachtragsverteilung. Überwachung der Erfüllung eines Insolvenzplans
 
 (1) Für eine Nachtragsverteilung erhält der Insolvenzverwalter eine gesonderte Vergütung, die unter Berücksichtigung des Werts der nachträglich verteilten Insolvenzmasse nach billigem Ermessen festzusetzen ist. Satz 1 gilt nicht, wenn die Nachtragsverteilung voraussehbar war und schon bei der Festsetzung der Vergütung für das Insolvenzverfahren berücksichtigt worden ist.
 
 (2) Die Überwachung der Erfüllung eines Insolvenzplans nach den §§ 260 bis 269 der Insolvenzordnung wird gesondert vergütet. Die Vergütung ist unter Berücksichtigung des Umfangs der Tätigkeit nach billigem Ermessen festzusetzen.
 
-
-## § 7 – Umsatzsteuer
+# § 7 – Umsatzsteuer
 
 Zusätzlich zur Vergütung und zur Erstattung der Auslagen wird ein Betrag in Höhe der vom Insolvenzverwalter zu zahlenden Umsatzsteuer festgesetzt.
 
-
-## § 8 – Festsetzung von Vergütung und Auslagen
+# § 8 – Festsetzung von Vergütung und Auslagen
 
 (1) Die Vergütung und die Auslagen werden auf Antrag des Insolvenzverwalters vom Insolvenzgericht festgesetzt. Die Festsetzung erfolgt für Vergütung und Auslagen gesondert. Der Antrag soll gestellt werden, wenn die Schlußrechnung an das Gericht gesandt wird.
 
@@ -120,18 +109,15 @@ Zusätzlich zur Vergütung und zur Erstattung der Auslagen wird ein Betrag in H�
 
 (3) Der Verwalter kann nach seiner Wahl anstelle der tatsächlich entstandenen Auslagen einen Pauschsatz fordern, der im ersten Jahr 15 vom Hundert, danach 10 vom Hundert der Regelvergütung, höchstens jedoch 350 Euro je angefangenen Monat der Dauer der Tätigkeit des Verwalters beträgt. Der Pauschsatz darf 30 vom Hundert der Regelvergütung nicht übersteigen.
 
-
-## § 9 – Vorschuß
+# § 9 – Vorschuß
 
 Der Insolvenzverwalter kann aus der Insolvenzmasse einen Vorschuß auf die Vergütung und die Auslagen entnehmen, wenn das Insolvenzgericht zustimmt. Die Zustimmung soll erteilt werden, wenn das Insolvenzverfahren länger als sechs Monate dauert oder wenn besonders hohe Auslagen erforderlich werden. Sind die Kosten des Verfahrens nach § 4a der Insolvenzordnung gestundet, so bewilligt das Gericht einen Vorschuss, sofern die Voraussetzungen nach Satz 2 gegeben sind.
 
-
-## § 10 – Grundsatz
+# § 10 – Grundsatz
 
 Für die Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters, des vorläufigen Sachwalters und des Insolvenzverwalters im Verbraucherinsolvenzverfahren gelten die Vorschriften des Ersten Abschnitts entsprechend, soweit in den §§ 11 bis 13 nichts anderes bestimmt ist.
 
-
-## § 11 – Vergütung des vorläufigen Insolvenzverwalters
+# § 11 – Vergütung des vorläufigen Insolvenzverwalters
 
 (1) Für die Berechnung der Vergütung des vorläufigen Insolvenzverwalters ist das Vermögen zugrunde zu legen, auf das sich seine Tätigkeit während des Eröffnungsverfahrens erstreckt. Vermögensgegenstände, an denen bei Verfahrenseröffnung Aus- oder Absonderungsrechte bestehen, werden dem Vermögen nach Satz 1 hinzugerechnet, sofern sich der vorläufige Insolvenzverwalter in erheblichem Umfang mit ihnen befasst. Sie bleiben unberücksichtigt, sofern der Schuldner die Gegenstände lediglich auf Grund eines Besitzüberlassungsvertrages in Besitz hat.
 
@@ -141,8 +127,7 @@ Für die Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters, des v
 
 (4) Hat das Insolvenzgericht den vorläufigen Insolvenzverwalter als Sachverständigen beauftragt zu prüfen, ob ein Eröffnungsgrund vorliegt und welche Aussichten für eine Fortführung des Unternehmens des Schuldners bestehen, so erhält er gesondert eine Vergütung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 12 – Vergütung des Sachwalters
+# § 12 – Vergütung des Sachwalters
 
 (1) Der Sachwalter erhält in der Regel 60 vom Hundert der für den Insolvenzverwalter bestimmten Vergütung.
 
@@ -150,8 +135,7 @@ Für die Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters, des v
 
 (3) § 8 Abs. 3 gilt mit der Maßgabe, daß an die Stelle des Betrags von 350 Euro der Betrag von 175 Euro tritt.
 
-
-## § 12a – Vergütung des vorläufigen Sachwalters
+# § 12a – Vergütung des vorläufigen Sachwalters
 
 (1) Die Tätigkeit des vorläufigen Sachwalters wird gesondert vergütet. Er erhält in der Regel 25 Prozent der Vergütung des Sachwalters bezogen auf das Vermögen, auf das sich seine Tätigkeit während des Eröffnungsverfahrens erstreckt. Maßgebend für die Wertermittlung ist der Zeitpunkt der Beendigung der vorläufigen Eigenverwaltung oder der Zeitpunkt, ab dem der Gegenstand nicht mehr der Verfügungsbefugnis des eigenverwaltenden Schuldners unterliegt. Vermögensgegenstände, an denen bei Verfahrenseröffnung Aus- oder Absonderungsrechte bestehen, werden dem Vermögen nach Satz 2 hinzugerechnet, sofern sich der vorläufige Sachwalter in erheblichem Umfang mit ihnen befasst. Sie bleiben unberücksichtigt, sofern der Schuldner die Gegenstände lediglich aufgrund eines Besitzüberlassungsvertrages in Besitz hat.
 
@@ -163,13 +147,11 @@ Für die Vergütung des vorläufigen Insolvenzverwalters, des Sachwalters, des v
 
 (5) § 12 Absatz 3 gilt entsprechend.
 
-
-## § 13 – Vergütung des Insolvenzverwalters im Verbraucherinsolvenzverfahren
+# § 13 – Vergütung des Insolvenzverwalters im Verbraucherinsolvenzverfahren
 
 Werden in einem Verfahren nach dem Neunten Teil der Insolvenzordnung die Unterlagen nach § 305 Absatz 1 Nummer 3 der Insolvenzordnung von einer geeigneten Person oder Stelle erstellt, ermäßigt sich die Vergütung nach § 2 Absatz 2 Satz 1 auf 1 120 Euro.
 
-
-## § 14 – Grundsatz
+# § 14 – Grundsatz
 
 (1) Die Vergütung des Treuhänders nach § 293 der Insolvenzordnung wird nach der Summe der Beträge berechnet, die auf Grund der Abtretungserklärung des Schuldners (§ 287 Abs. 2 der Insolvenzordnung) oder auf andere Weise zur Befriedigung der Gläubiger des Schuldners beim Treuhänder eingehen.
 
@@ -183,36 +165,31 @@ Werden in einem Verfahren nach dem Neunten Teil der Insolvenzordnung die Unterla
 
 (3) Die Vergütung beträgt mindestens 140 Euro für jedes Jahr der Tätigkeit des Treuhänders. Hat er die durch Abtretung eingehenden Beträge an mehr als 5 Gläubiger verteilt, so erhöht sich diese Vergütung je 5 Gläubiger um 70 Euro.
 
-
-## § 15 – Überwachung der Obliegenheiten des Schuldners
+# § 15 – Überwachung der Obliegenheiten des Schuldners
 
 (1) Hat der Treuhänder die Aufgabe, die Erfüllung der Obliegenheiten des Schuldners zu überwachen (§ 292 Abs. 2 der Insolvenzordnung), so erhält er eine zusätzliche Vergütung. Diese beträgt regelmäßig 50 Euro je Stunde.
 
 (2) Der Gesamtbetrag der zusätzlichen Vergütung darf den Gesamtbetrag der Vergütung nach § 14 nicht überschreiten. Die Gläubigerversammlung kann eine abweichende Regelung treffen.
 
-
-## § 16 – Festsetzung der Vergütung. Vorschüsse
+# § 16 – Festsetzung der Vergütung. Vorschüsse
 
 (1) Die Höhe des Stundensatzes der Vergütung des Treuhänders, der die Erfüllung der Obliegenheiten des Schuldners überwacht, wird vom Insolvenzgericht bei der Ankündigung der Restschuldbefreiung festgesetzt. Im übrigen werden die Vergütung und die zu erstattenden Auslagen auf Antrag des Treuhänders bei der Beendigung seines Amtes festgesetzt. Auslagen sind einzeln anzuführen und zu belegen. Soweit Umsatzsteuer anfällt, gilt § 7 entsprechend.
 
 (2) Der Treuhänder kann aus den eingehenden Beträgen Vorschüsse auf seine Vergütung entnehmen. Diese dürfen den von ihm bereits verdienten Teil der Vergütung und die Mindestvergütung seiner Tätigkeit nicht überschreiten. Sind die Kosten des Verfahrens nach § 4a der Insolvenzordnung gestundet, so kann das Gericht Vorschüsse bewilligen, auf die Satz 2 entsprechend Anwendung findet.
 
-
-## § 17 – Berechnung der Vergütung
+# § 17 – Berechnung der Vergütung
 
 (1) Die Vergütung der Mitglieder des Gläubigerausschusses beträgt regelmäßig zwischen 50 und 300 Euro je Stunde. Bei der Festsetzung des Stundensatzes sind insbesondere der Umfang der Tätigkeit und die berufliche Qualifikation des Ausschussmitglieds zu berücksichtigen.
 
 (2) Die Vergütung der Mitglieder des vorläufigen Gläubigerausschusses für die Erfüllung der ihm nach § 56a und § 270b Absatz 3 der Insolvenzordnung zugewiesenen Aufgaben beträgt einmalig 500 Euro. Nach der Bestellung eines vorläufigen Insolvenzverwalters oder eines vorläufigen Sachwalters richtet sich die weitere Vergütung nach Absatz 1.
 
-
-## § 18 – Auslagen. Umsatzsteuer
+# § 18 – Auslagen. Umsatzsteuer
 
 (1) Auslagen sind einzeln anzuführen und zu belegen.
 
 (2) Soweit Umsatzsteuer anfällt, gilt § 7 entsprechend.
 
-
-## § 19 – Übergangsregelung
+# § 19 – Übergangsregelung
 
 (1) Auf Insolvenzverfahren, die vor dem 1. Januar 2004 eröffnet wurden, sind die Vorschriften dieser Verordnung in ihrer bis zum Inkrafttreten der Verordnung vom 4. Oktober 2004 (BGBl. I S. 2569) am 7. Oktober 2004 geltenden Fassung weiter anzuwenden.
 
@@ -226,7 +203,6 @@ Werden in einem Verfahren nach dem Neunten Teil der Insolvenzordnung die Unterla
 
 (5) Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt worden sind, sind die bis zum 31. Dezember 2020 geltenden Vorschriften anzuwenden.
 
-
-## § 20 – Inkrafttreten
+# § 20 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.

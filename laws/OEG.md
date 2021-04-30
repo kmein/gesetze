@@ -1,10 +1,7 @@
-# [OEG] Gesetz über die Entschädigung für Opfer von Gewalttaten  (Opferentschädigungsgesetz - OEG)
-
-Ausfertigungsdatum: 11.05.1976
-
+% Gesetz über die Entschädigung für Opfer von Gewalttaten  (Opferentschädigungsgesetz - OEG)
+% Ausfertigungsdatum: 11.05.1976
  
-
-## § 1 – Anspruch auf Versorgung
+# § 1 – Anspruch auf Versorgung
 
 (1) Wer im Geltungsbereich dieses Gesetzes oder auf einem deutschen Schiff oder Luftfahrzeug infolge eines vorsätzlichen, rechtswidrigen tätlichen Angriffs gegen seine oder eine andere Person oder durch dessen rechtmäßige Abwehr eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes. Die Anwendung dieser Vorschrift wird nicht dadurch ausgeschlossen, daß der Angreifer in der irrtümlichen Annahme von Voraussetzungen eines Rechtfertigungsgrunds gehandelt hat.
 
@@ -32,8 +29,7 @@ Ausfertigungsdatum: 11.05.1976
 
 (11) Im Rahmen der Heilbehandlung sind auch heilpädagogische Behandlung, heilgymnastische und bewegungstherapeutische Übungen zu gewähren, wenn diese bei der Heilbehandlung notwendig sind.
 
-
-## § 2 – Versagungsgründe
+# § 2 – Versagungsgründe
 
 (1) Leistungen sind zu versagen, wenn der Geschädigte die Schädigung verursacht hat oder wenn es aus sonstigen, insbesondere in dem eigenen Verhalten des Anspruchstellers liegenden Gründen unbillig wäre, Entschädigung zu gewähren. Leistungen sind auch zu versagen, wenn der Geschädigte oder Antragsteller
 
@@ -45,8 +41,7 @@ Ausfertigungsdatum: 11.05.1976
 
 (2) Leistungen können versagt werden, wenn der Geschädigte es unterlassen hat, das ihm Mögliche zur Aufklärung des Sachverhalts und zur Verfolgung des Täters beizutragen, insbesondere unverzüglich Anzeige bei einer für die Strafverfolgung zuständigen Behörde zu erstatten.
 
-
-## § 3 – Zusammentreffen von Ansprüchen
+# § 3 – Zusammentreffen von Ansprüchen
 
 (1) Treffen Ansprüche aus diesem Gesetz mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, ist unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen eine einheitliche Rente festzusetzen.
 
@@ -56,8 +51,7 @@ Ausfertigungsdatum: 11.05.1976
 
 (4) Bei Schäden nach diesem Gesetz gilt § 4 Abs. 1 Nr. 2 des Siebten Buches Sozialgesetzbuch nicht.
 
-
-## § 3a – Leistungen bei Gewalttaten im Ausland
+# § 3a – Leistungen bei Gewalttaten im Ausland
 
 (1) Erleiden Deutsche oder Ausländer nach § 1 Absatz 4 im Ausland infolge einer Gewalttat nach § 1 Absatz 1 oder 2 eine gesundheitliche Schädigung im Sinne von § 1 Absatz 1, erhalten sie wegen der gesundheitlichen und wirtschaftlichen Folgen auf Antrag einen Ausgleich nach Absatz 2, wenn sie
 
@@ -76,8 +70,7 @@ von 50 und 60 eine Einmalzahlung von 5 800 Euro,
 bei einem GdS  
 von 70 bis 90 eine Einmalzahlung von 10 200 Euro  
 und bei einem GdS  
-von 100 eine Einmalzahlung von 16 500 Euro.  
-Bei Verlust mehrerer Gliedmaßen, bei Verlust von Gliedmaßen in Kombination mit einer Schädigung von Sinnesorganen oder in Kombination mit einer Hirnschädigung oder bei schweren Verbrennungen beträgt die Einmalzahlung 28 500 Euro. Ist die Gliedmaße noch vorhanden aber nicht funktionsfähig, ist dies nur dann wie ein Verlust der Gliedmaße zu bewerten, wenn sich ausschließlich aus der Funktionsunfähigkeit mindestens ein GdS ergibt, der auch bei Verlust der gleichen Gliedmaße bestehen würde.
+von 100 eine Einmalzahlung von 16 500 Euro. Bei Verlust mehrerer Gliedmaßen, bei Verlust von Gliedmaßen in Kombination mit einer Schädigung von Sinnesorganen oder in Kombination mit einer Hirnschädigung oder bei schweren Verbrennungen beträgt die Einmalzahlung 28 500 Euro. Ist die Gliedmaße noch vorhanden aber nicht funktionsfähig, ist dies nur dann wie ein Verlust der Gliedmaße zu bewerten, wenn sich ausschließlich aus der Funktionsunfähigkeit mindestens ein GdS ergibt, der auch bei Verlust der gleichen Gliedmaße bestehen würde.
 
 (3) Ist eine Person, bei der die Voraussetzungen nach Absatz 1 vorliegen, an den Folgen der Schädigung gestorben, erhalten Hinterbliebene im Sinne von § 38 des Bundesversorgungsgesetzes mit Ausnahme der Verwandten der aufsteigenden Linie sowie Betreuungsunterhaltsberechtigte eine Einmalzahlung. Diese beträgt bei Vollwaisen 2 600 Euro, bei Halbwaisen 1 400 Euro und ansonsten 5 000 Euro. Darüber hinaus haben Hinterbliebene einschließlich der Eltern, deren minderjährige Kinder an den Folgen einer Gewalttat im Ausland verstorben sind, Anspruch auf die notwendigen psychotherapeutischen Maßnahmen. Zu den Überführungs- und Beerdigungskosten wird ein Zuschuss bis zu 1 700 Euro gewährt, soweit nicht Dritte die Kosten übernehmen.
 
@@ -87,8 +80,7 @@ Bei Verlust mehrerer Gliedmaßen, bei Verlust von Gliedmaßen in Kombination mit
 
 (6) Hinterbliebene sind von Ansprüchen nach Absatz 3 ausgeschlossen, wenn ein Ausschlussgrund nach Absatz 5 in ihrer Person oder bei der getöteten Person vorliegt.
 
-
-## § 4 – Kostenträger
+# § 4 – Kostenträger
 
 (1) Zur Gewährung der Versorgung ist das Land verpflichtet, in dem die berechtigte Person ihren Wohnsitz, bei Fehlen eines Wohnsitzes ihren gewöhnlichen Aufenthalt hat, soweit die Absätze 2 bis 8 in Verbindung mit § 6 Absatz 1 nichts Abweichendes regeln.
 
@@ -106,13 +98,11 @@ Bei Verlust mehrerer Gliedmaßen, bei Verlust von Gliedmaßen in Kombination mit
 
 (8) In den Fällen des § 3 Abs. 1 sind die Kosten, die durch das Hinzutreten der weiteren Schädigung verursacht werden, von dem Leistungsträger zu übernehmen, der für die Versorgung wegen der weiteren Schädigung zuständig ist.
 
-
-## § 5 – Übergang gesetzlicher Schadensersatzansprüche
+# § 5 – Übergang gesetzlicher Schadensersatzansprüche
 
 Ist ein Land Kostenträger (§ 4), so gilt § 81a des Bundesversorgungsgesetzes mit der Maßgabe, daß der gegen Dritte bestehende gesetzliche Schadensersatzanspruch auf das zur Gewährung der Leistungen nach diesem Gesetz verpflichtete Land übergeht.
 
-
-## § 6 – Zuständigkeit und Verfahren
+# § 6 – Zuständigkeit und Verfahren
 
 (1) Die Versorgung nach diesem Gesetz obliegt den für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden. Ist der Bund Kostenträger, so sind zuständig
 
@@ -130,37 +120,31 @@ Abweichend von Satz 2 Nummer 2 sind, wenn die Schädigung auf einem deutschen Sc
 
 § 6 Abs. 3 Kursivdruck: § 5 aufgeh. durch Art. II § 16 Nr. 1 G v. 18.8.1980 I 1469 mWv 1.1.1981
 
-
-## § 6a – Zuständigkeiten des Bundesministeriums für Arbeit und Soziales
+# § 6a – Zuständigkeiten des Bundesministeriums für Arbeit und Soziales
 
 (1) Das Bundesministerium für Arbeit und Soziales nimmt die Aufgaben der zentralen Behörde im Sinne des Artikels 12 Satz 2 des Europäischen Übereinkommens vom 24. November 1983 über die Entschädigung für Opfer von Gewalttaten (BGBl. 1996 II S. 1120) wahr.
 
 (2) Das Bundesministerium für Arbeit und Soziales nimmt ferner die Aufgaben der Unterstützungsbehörde im Sinne des Artikels 3 Abs. 1 und der zentralen Kontaktstelle im Sinne des Artikels 16 der Richtlinie 2004/80/EG des Rates vom 29. April 2004 zur Entschädigung der Opfer von Straftaten (ABl. EU Nr. L 261 S. 15) wahr.
 
-
-## § 7 – Rechtsweg
+# § 7 – Rechtsweg
 
 (1) Für öffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses Gesetzes ist, mit Ausnahme der Fälle des Absatzes 2, der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben. Soweit das Sozialgerichtsgesetz besondere Vorschriften für die Kriegsopferversorgung enthält, gelten diese auch für Streitigkeiten nach Satz 1.
 
 (2) Soweit die Versorgung in der Gewährung von Leistungen besteht, die den Leistungen der Kriegsopferfürsorge nach den §§ 25 bis 27h des Bundesversorgungsgesetzes entsprechen, ist der Verwaltungsrechtsweg gegeben.
 
-
-## § 8 – (Änderung der Reichsversicherungsordnung)
-
-\-
-
-
-## § 9 – (Änderung des Pflichtversicherungsgesetzes)
+# § 8 – (Änderung der Reichsversicherungsordnung)
 
 \-
 
+# § 9 – (Änderung des Pflichtversicherungsgesetzes)
 
-## § 10 – Übergangsvorschriften
+\-
+
+# § 10 – Übergangsvorschriften
 
 Dieses Gesetz gilt für Ansprüche aus Taten, die nach seinem Inkrafttreten begangen worden sind. Darüber hinaus gelten die §§ 1 bis 7 mit Ausnahme des § 3a für Ansprüche aus Taten, die in der Zeit vom 23. Mai 1949 bis 15. Mai 1976 begangen worden sind, nach Maßgabe der §§ 10a und 10c. In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt dieses Gesetz für Ansprüche aus Taten, die nach dem 2. Oktober 1990 begangen worden sind. Darüber hinaus gelten die §§ 1 bis 7 mit Ausnahme des § 3a für Ansprüche aus Taten, die in dem in Satz 4 genannten Gebiet in der Zeit vom 7. Oktober 1949 bis zum 2. Oktober 1990 begangen worden sind, nach Maßgabe der §§ 10a und 10c. In den Fällen des § 3a gilt dieses Gesetz erst für Ansprüche aus Taten, die nach dem 30. Juni 2009 begangen worden sind.
 
-
-## § 10a – Härteregelung
+# § 10a – Härteregelung
 
 (1) Personen, die in der Zeit vom 23. Mai 1949 bis 15. Mai 1976 geschädigt worden sind, erhalten auf Antrag Versorgung, solange sie
 
@@ -180,22 +164,18 @@ Versorgung nach Maßgabe des Satzes 1 erhalten auch Personen, die in dem in Arti
 
 (5) Die Versorgung umfaßt alle nach dem Bundesversorgungsgesetz vorgesehenen Leistungen mit Ausnahme von Berufsschadens- und Schadensausgleich.
 
+# § 10b – (weggefallen)
 
-## § 10b – (weggefallen)
-
-
-## § 10c – Übergangsregelung
+# § 10c – Übergangsregelung
 
 Neue Ansprüche, die sich auf Grund einer Änderung dieses Gesetzes ergeben, werden nur auf Antrag festgestellt. Wird der Antrag binnen eines Jahres nach Verkündung des Änderungsgesetzes gestellt, so beginnt die Zahlung mit dem Zeitpunkt des Inkrafttretens, frühestens jedoch mit dem Monat, in dem die Voraussetzungen erfüllt sind.
 
-
-## § 10d – Übergangsvorschrift
+# § 10d – Übergangsvorschrift
 
 (1) Am 1. Januar 1998 noch nicht gezahlte Erstattungen von Aufwendungen für Leistungen, die vor dem 1. Januar 1998 erbracht worden sind, werden nach den bis dahin geltenden Erstattungsregelungen abgerechnet.
 
 (2) Für das Jahr 1998 wird der Pauschalbetrag wie folgt ermittelt: Aus der Summe der Erstattungen des Landes an die Krankenkassen nach diesem Gesetz in den Jahren 1995 bis 1997, abzüglich der Erstattungen für Leistungen bei Pflegebedürftigkeit nach § 11 Abs. 4 und § 12 Abs. 5 des Bundesversorgungsgesetzes in der bis zum 31. März 1995 geltenden Fassung und abzüglich der Erstattungen nach § 19 Abs. 4 des Bundesversorgungsgesetzes in der bis zum 31. Dezember 1993 geltenden Fassung, wird der Jahresdurchschnitt ermittelt.
 
-
-## § 11 – (Inkrafttreten)
+# § 11 – (Inkrafttreten)
 
 \-

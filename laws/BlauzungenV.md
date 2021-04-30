@@ -1,10 +1,7 @@
-# [BlauzungenV] Verordnung zum Schutz gegen die Blauzungenkrankheit
-
-Ausfertigungsdatum: 22.03.2002
-
+% Verordnung zum Schutz gegen die Blauzungenkrankheit
+% Ausfertigungsdatum: 22.03.2002
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -40,11 +37,9 @@ c) von Vorkommen und Verteilung des Vektors und
 
 d) der aus einem oder in einen betroffenen Betrieb verbrachten empfänglichen Tiere sowie der aus einem solchen Betrieb verbrachten verendeten empfänglichen Tiere.
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3 – Maßnahmen im Falle des Seuchenverdachts
+# § 3 – Maßnahmen im Falle des Seuchenverdachts
 
 (1) Im Falle des Verdachts auf Blauzungenkrankheit in einem Betrieb ordnet die zuständige Behörde in Bezug auf den betroffenen Betrieb
 
@@ -68,13 +63,11 @@ an.
 
 (3) Bis zur Bekanntgabe einer Anordnung nach Absatz 1 Nummer 1 Buchstabe a hat der für den betroffenen Betrieb Verantwortliche sicherzustellen, dass empfängliche Tiere nicht in den oder aus dem Betrieb verbracht werden.
 
-
-## § 4 – Bekanntmachung des Seuchenausbruches
+# § 4 – Bekanntmachung des Seuchenausbruches
 
 Nach amtlicher Feststellung macht die zuständige Behörde den Ausbruch der Blauzungenkrankheit öffentlich bekannt.
 
-
-## § 5 – Maßnahmen im Falle der amtlichen Feststellung der Seuche
+# § 5 – Maßnahmen im Falle der amtlichen Feststellung der Seuche
 
 (1) Ist die Blauzungenkrankheit in einem Betrieb amtlich festgestellt, so ergreift die zuständige Behörde die in den Absätzen 2 bis 5 aufgeführten Maßnahmen.
 
@@ -104,18 +97,15 @@ fest. Bei der Festsetzung eines Sperrgebietes oder eines Beobachtungsgebietes si
 
 (5) Die zuständige Behörde ordnet die Durchführung epizootiologischer Nachforschungen im Sperrgebiet und im Beobachtungsgebiet an.
 
-
-## § 6 – Vorschriften für Sperrgebiet und Beobachtungsgebiet
+# § 6 – Vorschriften für Sperrgebiet und Beobachtungsgebiet
 
 Wer in einem Sperrgebiet oder einem Beobachtungsgebiet empfängliche Tiere hält, hat dies und den Standort der Tiere unverzüglich nach Bekanntgabe der Festsetzung nach § 5 Absatz 4 der zuständigen Behörde anzuzeigen.
 
-
-## § 6a – Seuchenausbruch in einem benachbarten Mitgliedstaat
+# § 6a – Seuchenausbruch in einem benachbarten Mitgliedstaat
 
 Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder eines Drittlandes der Ausbruch der Blauzungenkrankheit innerhalb einer Entfernung von weniger als 150 Kilometern von der deutschen Grenze durch die zuständige Behörde des betroffenen Mitgliedstaates amtlich festgestellt und der für das angrenzende Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so ordnet diese die Maßnahmen entsprechend § 5 Absatz 3 und 4 an. § 5 Absatz 5, die §§ 6 und 7 gelten entsprechend.
 
-
-## § 7 – Aufhebung angeordneter Maßnahmen
+# § 7 – Aufhebung angeordneter Maßnahmen
 
 (1) Die zuständige Behörde hebt die wegen einer amtlichen Feststellung der Blauzungenkrankheit angeordneten Maßnahmen auf, wenn die Informationen nach Artikel 6 Absatz 2 der Verordnung (EG) Nr. 1266/2007 der Kommission vom 26. Oktober 2007 mit Durchführungsvorschriften zur Richtlinie 2000/75/EG des Rates hinsichtlich der Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit sowie der Beschränkungen, die für Verbringungen bestimmter Tiere von für die Blauzungenkrankheit empfänglichen Arten gelten (ABl. L 283 vom 27.10.2007, S. 37) in der jeweils geltenden Fassung übermittelt sind.
 
@@ -127,8 +117,7 @@ Wird auf dem Gebiet eines benachbarten Mitgliedstaates oder eines Drittlandes de
 
 den Seuchenverdacht nicht bestätigt haben.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -138,5 +127,4 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 3. entgegen § 6 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-## § 9 – (Inkrafttreten)
+# § 9 – (Inkrafttreten)

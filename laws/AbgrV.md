@@ -1,15 +1,11 @@
-# [AbgrV] Verordnung über die Abgrenzung der im Pflegesatz nicht zu berücksichtigenden Investitionskosten von den pflegesatzfähigen Kosten der Krankenhäuser  (Abgrenzungsverordnung - AbgrV)
-
-Ausfertigungsdatum: 12.12.1985
-
+% Verordnung über die Abgrenzung der im Pflegesatz nicht zu berücksichtigenden Investitionskosten von den pflegesatzfähigen Kosten der Krankenhäuser  (Abgrenzungsverordnung - AbgrV)
+% Ausfertigungsdatum: 12.12.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16 Satz 1 des Krankenhausfinanzierungsgesetzes vom 29. Juni 1972 (BGBl. I S. 1009), der durch Artikel 1 Nr. 15 des Gesetzes vom 20. Dezember 1984 (BGBl. I S. 1716) neu gefaßt worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die nähere Abgrenzung der nach § 17 Abs. 4 Nr. 1 des Krankenhausfinanzierungsgesetzes im Pflegesatz nicht zu berücksichtigenden Investitionskosten von den pflegesatzfähigen Kosten richtet sich nach dieser Verordnung.
 
@@ -19,8 +15,7 @@ Auf Grund des § 16 Satz 1 des Krankenhausfinanzierungsgesetzes vom 29. Juni 197
 
 2. die Krankenhäuser, die nach § 5 Abs. 1 Nr. 2, 4 oder 7 des Krankenhausfinanzierungsgesetzes nicht gefördert werden, es sei denn, daß diese Krankenhäuser auf Grund Landesrechts nach § 5 Abs. 2 des Krankenhausfinanzierungsgesetzes gefördert werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -36,8 +31,7 @@ die Anlagegüter mit einer durchschnittlichen Nutzungsdauer bis zu drei Jahren (
 
 die Wirtschaftsgüter, die durch ihre bestimmungsgemäße Verwendung aufgezehrt oder unverwendbar werden oder die ausschließlich von einem Patienten genutzt werden und üblicherweise bei ihm verbleiben. Als Verbrauchsgüter gelten auch die wiederbeschafften, abnutzbaren beweglichen Anlagegüter, die einer selbständigen Nutzung fähig sind und deren Anschaffungs- oder Herstellungskosten für das einzelne Anlagegut ohne Umsatzsteuer 150 Euro nicht übersteigen.
 
-
-## § 3 – Zuordnungsgrundsätze
+# § 3 – Zuordnungsgrundsätze
 
 (1) Pflegesatzfähig sind
 
@@ -67,8 +61,7 @@ Absatz 1 Nr. 2 bleibt unberührt.
 
 (4) Einem Wirtschaftsgut sind die Lieferungen und Leistungen zuzurechnen, die üblicherweise notwendig sind, um das Wirtschaftsgut anzuschaffen oder herzustellen und in Benutzung zu nehmen.
 
-
-## § 4 – Instandhaltungskosten
+# § 4 – Instandhaltungskosten
 
 (1) Instandhaltungskosten sind die Kosten der Erhaltung oder Wiederherstellung von Anlagegütern des Krankenhauses, wenn dadurch das Anlagegut in seiner Substanz nicht wesentlich vermehrt, in seinem Wesen nicht erheblich verändert, seine Nutzungsdauer nicht wesentlich verlängert oder über seinen bisherigen Zustand hinaus nicht deutlich verbessert wird.
 
@@ -80,13 +73,11 @@ Absatz 1 Nr. 2 bleibt unberührt.
 
 vollständig oder überwiegend ersetzt werden (Verzeichnis III der Anlage). Für die Beurteilung des überwiegenden Ersetzens sind Maßnahmen, die im Rahmen eines einheitlichen Vorhabens in einem Zeitraum bis zu drei Jahren durchgeführt werden, zusammenzurechnen. Die nach Satz 1 abgegrenzten Kosten werden nach § 17 Absatz 4b Satz 3 des Krankenhausfinanzierungsgesetzes pauschal finanziert.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
-
-## § 6 – Inkrafttreten und Übergangsvorschrift
+# § 6 – Inkrafttreten und Übergangsvorschrift
 
 (1) Diese Verordnung tritt am 1. Januar 1986 in Kraft.
 
@@ -94,13 +85,11 @@ vollständig oder überwiegend ersetzt werden (Verzeichnis III der Anlage). Für
 
 (3) Für die Pflegesatzfähigkeit der Kosten von Wirtschaftsgütern, die vor dem 1. Januar 1986 angeschafft oder im Krankenhaus hergestellt worden sind, verbleibt es bei der für diese Wirtschaftsgüter vorgenommenen Abgrenzung und Zuordnung sowie angenommenen Nutzungsdauer.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 1985, 2257)
 

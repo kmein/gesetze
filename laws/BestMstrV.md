@@ -1,15 +1,11 @@
-# [BestMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Bestattungsgewerbe  (Bestattermeisterverordnung - BestMstrV)
-
-Ausfertigungsdatum: 15.09.2009
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Bestattungsgewerbe  (Bestattermeisterverordnung - BestMstrV)
+% Ausfertigungsdatum: 15.09.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Absatz 2 in Verbindung mit Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 Die Meisterprüfung im handwerksähnlichen Bestattungsgewerbe umfasst folgende selbständige Prüfungsteile:
 
@@ -21,8 +17,7 @@ Die Meisterprüfung im handwerksähnlichen Bestattungsgewerbe umfasst folgende s
 
 4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling befähigt ist,
 
@@ -66,8 +61,7 @@ seine berufliche Handlungskompetenz eigenverantwortlich umzusetzen und an neue B
 
 15. Leistungen kontrollieren, abnehmen und protokollieren, Vor- und Nachkalkulation durchführen.
 
-
-## § 3 – Gliederung des Teils I
+# § 3 – Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -75,8 +69,7 @@ Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
 2. eine Situationsaufgabe.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Der Prüfling erarbeitet vor der Durchführung des Meisterprüfungsprojekts ein Umsetzungskonzept einschließlich einer Zeit- und Materialplanung, das den vom Meisterprüfungsausschuss festgelegten Kundenanforderungen entsprechen soll.
 
@@ -94,8 +87,7 @@ zu planen, durchzuführen und zu dokumentieren.
 
 (4) Die Entwurfs-, Planungs-, Kalkulations- und Dokumentationsunterlagen werden aufgabenbezogen mit insgesamt 50 Prozent und die durchgeführten Arbeiten ebenfalls mit 50 Prozent gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
@@ -105,8 +97,7 @@ zu planen, durchzuführen und zu dokumentieren.
 
 3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Bestattungsgewerbe.
 
@@ -122,8 +113,7 @@ Auf dieser Grundlage ist eine Dokumentation zu erstellen, die insbesondere Maßn
 
 (3) Die Situationsaufgabe ist aus einem Bereich nach Absatz 2 Satz 1 Nummer 1, 2 oder 3 vorzugeben, der nicht Gegenstand des Meisterprüfungsprojekts nach § 4 Absatz 3 war.
 
-
-## § 7 – Prüfungsdauer und Bestehen des Teils I
+# § 7 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als drei Arbeitstage, das Fachgespräch nicht länger als 30 Minuten und die Ausführung der Situationsaufgabe nicht länger als fünf Stunden dauern.
 
@@ -131,8 +121,7 @@ Auf dieser Grundlage ist eine Dokumentation zu erstellen, die insbesondere Maßn
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 8 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 8 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2 Nummer 1 bis 4 genannten Handlungsfeldern seine Handlungskompetenz dadurch nachweisen, dass er berufsbezogene Probleme analysiert und bewertet sowie Lösungswege aufzeigt und dokumentiert und dabei aktuelle Entwicklungen berücksichtigt.
 
@@ -230,19 +219,16 @@ i) Chancen und Risiken betrieblicher Kooperation, auch unter Berücksichtigung v
 
 (+++ § 8 Abs. 5 u. 6: Zur Anwendung vgl. § 10 +++)
 
-
-## § 9 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 9 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 10 – Übergangsvorschrift
+# § 10 – Übergangsvorschrift
 
 Die Regelungen des § 8 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2010 in Kraft.

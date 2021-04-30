@@ -1,15 +1,11 @@
-# [EBArbSchV] Verordnung über die Übertragung von Zuständigkeiten im Bereich des technischen Arbeitsschutzes bei Eisenbahnen des Bundes  (Eisenbahn-Arbeitsschutzzuständigkeitsverordnung)
-
-Ausfertigungsdatum: 08.11.1994
-
+% Verordnung über die Übertragung von Zuständigkeiten im Bereich des technischen Arbeitsschutzes bei Eisenbahnen des Bundes  (Eisenbahn-Arbeitsschutzzuständigkeitsverordnung)
+% Ausfertigungsdatum: 08.11.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Abs. 5 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2396) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Überwachung der Einhaltung staatlicher Vorschriften des technischen Arbeitsschutzes obliegt im Bereich der Eisenbahnen des Bundes sowie der Eisenbahnverkehrsunternehmen mit Sitz im Ausland für das Gebiet der Bundesrepublik Deutschland dem Eisenbahn-Bundesamt, soweit diese Vorschriften den Betrieb von Schienenfahrzeugen und Anlagen, die unmittelbar der Sicherstellung des Betriebsablaufs dienen, betreffen. Satz 1 gilt nicht bei Sperrung oder Außerbetriebnahme einer Anlage für die Dauer der Sperrung oder Außerbetriebnahme.
 
@@ -27,12 +23,10 @@ Auf Grund des § 5 Abs. 5 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 199
 
 (3) Die Aufgaben, Zuständigkeiten und Befugnisse der Träger der gesetzlichen Unfallversicherung im Arbeitsschutz bleiben unberührt.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

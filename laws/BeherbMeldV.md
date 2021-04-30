@@ -1,20 +1,15 @@
-# [BeherbMeldV] Verordnung über die elektronische Speicherung von Daten zur Einhaltung der besonderen Meldepflicht in Beherbergungsstätten  (Beherbergungsmeldedatenverordnung - BeherbMeldV)
-
-Ausfertigungsdatum: 05.06.2020
-
+% Verordnung über die elektronische Speicherung von Daten zur Einhaltung der besonderen Meldepflicht in Beherbergungsstätten  (Beherbergungsmeldedatenverordnung - BeherbMeldV)
+% Ausfertigungsdatum: 05.06.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), der durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 22. November 2019 (BGBl. I S. 1746) eingefügt worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten Personen in Beherbergungsstätten nach § 29 Absatz 5 und § 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsstätten oder der Einrichtungen nach § 29 Absatz 4 des Bundesmeldegesetzes.
 
-
-## § 2 – Dateispezifische Anforderungen
+# § 2 – Dateispezifische Anforderungen
 
 (1) Die in § 1 genannten Leiter der Beherbergungsstätten oder der Einrichtungen haben zu jeder beherbergten Person nach § 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollständig am Tag der Ankunft zu speichern.
 
@@ -36,18 +31,15 @@ Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bere
 
 (6) Landesrechtliche Vorgaben zur Ausführung des Bundesmeldegesetzes bleiben unberührt.
 
-
-## § 3 – Bereitstellung der Daten
+# § 3 – Bereitstellung der Daten
 
 Verlangt eine nach § 30 Absatz 4 Satz 3 des Bundesmeldegesetzes berechtigte Behörde gespeicherte Dateien, so hat der Leiter der Beherbergungsstätte oder der Einrichtung die Datensätze entsprechend den Anforderungen des § 2 zur Einsichtnahme bereitzustellen und eine Übertragung auf Datenträger oder Speichersysteme zu ermöglichen.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 2 Absatz 5)Bei der Speicherung der Daten im Datensatz zu verwendende Bezeichner
+# Anlage – (zu § 2 Absatz 5)Bei der Speicherung der Daten im Datensatz zu verwendende Bezeichner
 
 (Fundstelle: BGBl. I 2020, 1219)
 

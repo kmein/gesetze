@@ -1,12 +1,7 @@
-# [ChemSanktionsV] Verordnung zur Sanktionsbewehrung gemeinschafts- oder unionsrechtlicher Verordnungen auf dem Gebiet der Chemikaliensicherheit  (Chemikalien-Sanktionsverordnung - ChemSanktionsV)
-
-Ausfertigungsdatum: 24.04.2013
-
+% Verordnung zur Sanktionsbewehrung gemeinschafts- oder unionsrechtlicher Verordnungen auf dem Gebiet der Chemikaliensicherheit  (Chemikalien-Sanktionsverordnung - ChemSanktionsV)
+% Ausfertigungsdatum: 24.04.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -24,13 +19,13 @@ Ausfertigungsdatum: 24.04.2013
 
  
 
+ 
 
-## § 1 – Straftaten nach der Verordnung (EG) Nr. 850/2004
+# § 1 – Straftaten nach der Verordnung (EG) Nr. 850/2004
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikaliengesetzes wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 der Verordnung (EG) Nr. 850/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 über persistente organische Schadstoffe und zur Änderung der Richtlinie 79/117/EWG (ABl. L 158 vom 30.4.2004, S. 7, L 229 vom 29.6.2004, S. 5, L 204 vom 4.8.2007, S. 28), die zuletzt durch die Verordnung (EU) 2015/2030 (ABl. L 298 vom 14.11.2015, S. 1) geändert worden ist, einen dort genannten Stoff herstellt, in Verkehr bringt oder verwendet.
 
-
-## § 2 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 850/2004
+# § 2 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 850/2004
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr. 850/2004 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -38,11 +33,9 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Che
 
 2. als Hersteller oder Besitzer entgegen Artikel 7 Absatz 2 Unterabsatz 1 dort genannte Abfälle nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig verwertet.
 
+# §§ 3 und 4 – (weggefallen)
 
-## §§ 3 und 4 – (weggefallen)
-
-
-## § 5 – Straftaten nach Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006
+# § 5 – Straftaten nach Artikel 67 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikaliengesetzes wird bestraft, wer gegen Artikel 67 Absatz 1 Satz 1 in Verbindung mit Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1, L 136 vom 29.5.2007, S. 3, L 141 vom 31.5.2008, S. 22, L 36 vom 5.2.2009, S. 84, L 260 vom 2.10.2010, S. 22, L 49 vom 24.2.2011, S. 52, L 136 vom 24.5.2011, S.105, L 185 vom 4.7.2013, S. 18), die zuletzt durch die Verordnung (EU) 2016/217 (ABl. L 40 vom 17.2.2016, S. 5) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -108,8 +101,7 @@ b) Absatz 1 Unterabsatz 2, Absatz 2 Unterabsatz 1 oder 3, Absatz 5 Unterabsatz 3
 
 29. entgegen Nummer 47 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 1 der zugehörigen Spalte 2 Zement oder ein zementhaltiges Gemisch verwendet oder in Verkehr bringt,
 
-29a.  
-entgegen Nummer 47 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 oder Absatz 6 der zugehörigen Spalte 2 ein dort genanntes Ledererzeugnis oder ein dort genanntes Erzeugnis, das dort genannte Lederanteile enthält, in Verkehr bringt,
+29a. entgegen Nummer 47 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 oder Absatz 6 der zugehörigen Spalte 2 ein dort genanntes Ledererzeugnis oder ein dort genanntes Erzeugnis, das dort genannte Lederanteile enthält, in Verkehr bringt,
 
 30. entgegen Nummer 48 der Spalte 1 des Anhangs XVII in Verbindung mit der zugehörigen Spalte 2 Toluol in Verkehr bringt oder verwendet,
 
@@ -117,8 +109,7 @@ entgegen Nummer 47 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 oder
 
 32. entgegen Nummer 50 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 1 Satz 1 oder Absatz 2 Unterabsatz 1 der zugehörigen Spalte 2 ein Weichmacheröl in Verkehr bringt oder verwendet oder einen dort genannten Reifen oder ein dort genanntes Profil in Verkehr bringt,
 
-32a.  
-entgegen Nummer 50 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 Unterabsatz 1 oder Absatz 6 der zugehörigen Spalte 2 ein dort genanntes Erzeugnis, ein dort genanntes Spielzeug oder einen dort genannten Artikel in Verkehr bringt,
+32a. entgegen Nummer 50 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 Unterabsatz 1 oder Absatz 6 der zugehörigen Spalte 2 ein dort genanntes Erzeugnis, ein dort genanntes Spielzeug oder einen dort genannten Artikel in Verkehr bringt,
 
 33. entgegen Nummer 51 oder Nummer 52 der Spalte 1 des Anhangs XVII, jeweils in Verbindung mit Absatz 1 oder Absatz 2 der zugehörigen Spalte 2, ein dort genanntes Phthalat verwendet oder ein Phthalat enthaltendes Spielzeug oder einen Phthalat enthaltenden Babyartikel in Verkehr bringt,
 
@@ -144,8 +135,7 @@ entgegen Nummer 50 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 Unte
 
 44. entgegen Nummer 64 der Spalte 1 des Anhangs XVII in Verbindung mit der zugehörigen Spalte 2 1,4-Dichlorbenzol in Verkehr bringt oder verwendet.
 
-
-## § 6 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1907/2006
+# § 6 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1907/2006
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr. 1907/2006 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -233,11 +223,9 @@ entgegen Nummer 50 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 Unte
 
 13. entgegen Nummer 59 der Spalte 1 des Anhangs XVII in Verbindung mit Absatz 5 der zugehörigen Spalte 2 als Lieferant einen dort genannten Farbabbeizer nicht mit der dort genannten Aufschrift versieht.
 
+# §§ 7 und 8 – (weggefallen)
 
-## §§ 7 und 8 – (weggefallen)
-
-
-## § 9 – Straftaten nach der Verordnung (EG) Nr. 1102/2008
+# § 9 – Straftaten nach der Verordnung (EG) Nr. 1102/2008
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EG) Nr. 1102/2008 des Europäischen Parlaments und des Rates vom 22. Oktober 2008 über das Verbot der Ausfuhr von metallischem Quecksilber und bestimmten Quecksilberverbindungen und -gemischen und die sichere Lagerung von metallischem Quecksilber (ABl. L 304 vom 14.11.2008, S. 75) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -245,13 +233,11 @@ Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikalie
 
 2. entgegen Artikel 1 Absatz 3 ein dort genanntes Gemisch zum Zweck des Exports herstellt.
 
-
-## § 10 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1102/2008
+# § 10 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1102/2008
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Absatz 1 oder Absatz 2, jeweils in Verbindung mit Absatz 3 der Verordnung (EG) Nr. 1102/2008, dort genannte Daten der Kommission oder der zuständigen Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 11 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1272/2008
+# § 11 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1272/2008
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1, L 16 vom 20.1.2011, S. 1), die zuletzt durch die Verordnung (EU) 2015/1221 (ABl. L 197 vom 25.7.2015, S. 10) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -285,8 +271,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Che
 
 15. einer vollziehbaren Anordnung nach Artikel 49 Absatz 3 Unterabsatz 1 zuwiderhandelt.
 
-
-## § 12 – Straftaten nach der Verordnung (EG) Nr. 1005/2009
+# § 12 – Straftaten nach der Verordnung (EG) Nr. 1005/2009
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EG) Nr. 1005/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Stoffe, die zum Abbau der Ozonschicht führen (ABl. L 286 vom 31.10.2009, S. 1), die durch die Verordnung (EU) Nr. 744/2010 (ABl. L 218 vom 19.8.2010, S. 2) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -310,8 +295,7 @@ Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikalie
 
 Nach Satz 1 Nummer 6 wird nicht bestraft, wer ein Fertigarzneimittel im Sinne des § 4 Absatz 1 des Arzneimittelgesetzes einführt, sofern die Voraussetzungen des § 73 Absatz 3 Satz 1 Nummer 1 bis 3 und Satz 2 sowie Absatz 3a Satz 1 bis 3 des Arzneimittelgesetzes erfüllt sind, das Arzneimittel im Einzelfall der Behandlung einer lebensbedrohlichen Erkrankung dient und ein gleichwertiges, nach dem Arzneimittelgesetz zugelassenes oder als zugelassen geltendes Arzneimittel nicht verfügbar ist.
 
-
-## § 13 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1005/2009
+# § 13 – Ordnungswidrigkeiten nach der Verordnung (EG) Nr. 1005/2009
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EG) Nr. 1005/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -349,8 +333,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Che
 
 17. entgegen Artikel 27 Absatz 7 über die Art der Verwendung, die verbrauchte, gelagerte, rezyklierte, aufgearbeitete oder zerstörte Menge oder die dort genannte Menge an Produkten und Einrichtungen nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig berichtet.
 
-
-## § 14 – Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 528/2012
+# § 14 – Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 528/2012
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1, L 303 vom 20.11.2015, S. 109), die zuletzt durch die Verordnung (EU) Nr. 334/2014 (ABl. L 103 vom 5.4.2014, S. 22, L 305 vom 21.11.2015, S. 55) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -396,8 +379,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Che
 
 21. entgegen Artikel 95 Absatz 2 in Verbindung mit der Liste nach Artikel 95 Absatz 1<span id="FnR.F793713_01"></span><a href="#F793713_01" class="FnR">1</a></sup> ein dort genanntes Biozidprodukt auf dem Markt bereitstellt.
 
-
-## § 15 – Straftaten nach der Verordnung (EU) Nr. 649/2012
+# § 15 – Straftaten nach der Verordnung (EU) Nr. 649/2012
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU) Nr. 649/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über die Aus- und Einfuhr gefährlicher Chemikalien (ABl. L 201 vom 27.7.2012, S. 60), die durch die delegierte Verordnung (EU) 2015/2229 (ABl. L 317 vom 3.12.2015, S. 13) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -405,8 +387,7 @@ Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikalie
 
 2. entgegen Artikel 15 Absatz 2 eine Chemikalie oder einen Artikel ausführt.
 
-
-## § 16 – Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 649/2012
+# § 16 – Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 649/2012
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EU) Nr. 649/2012 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -430,8 +411,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Che
 
 10. einer vollziehbaren Anordnung nach Artikel 19 Absatz 3 zuwiderhandelt.
 
-
-## § 17 – Straftaten nach der Verordnung (EU) Nr. 517/2014
+# § 17 – Straftaten nach der Verordnung (EU) Nr. 517/2014
 
 Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikaliengesetzes wird bestraft, wer gegen die Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006 (ABl. L 150 vom 20.5.2014, S. 195) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -443,8 +423,7 @@ Nach § 27 Absatz 1 Nummer 3 Satzteil vor Satz 2, Absatz 1a bis 4 des Chemikalie
 
 4. entgegen Artikel 14 Absatz 1 eine dort genannte Kälteanlage, Klimaanlage oder Wärmepumpe in Verkehr bringt.
 
-
-## § 18 – Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 517/2014 und den auf ihrer Grundlage fortgeltenden Kommissionsverordnungen (EG) Nr. 1497/2007 und Nr. 1516/2007
+# § 18 – Ordnungswidrigkeiten nach der Verordnung (EU) Nr. 517/2014 und den auf ihrer Grundlage fortgeltenden Kommissionsverordnungen (EG) Nr. 1497/2007 und Nr. 1516/2007
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satzteil vor Satz 2 des Chemikaliengesetzes handelt, wer gegen die Verordnung (EU) Nr. 517/2014 verstößt, indem er vorsätzlich oder fahrlässig
 

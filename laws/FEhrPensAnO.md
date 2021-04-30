@@ -1,46 +1,36 @@
-# [FEhrPensAnO] Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte des Faschismus sowie für deren Hinterbliebene
-
-Ausfertigungsdatum: 20.09.1976
-
+% Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte des Faschismus sowie für deren Hinterbliebene
+% Ausfertigungsdatum: 20.09.1976
  
+# Eingangsformel
 
-## Eingangsformel
+Unsere sozialistische Gesellschaft und ihr Staat achten und ehren die Männer und Frauen, die Jahrzehnte ihres Lebens dem Kampf gegen Faschismus und Militarismus verschrieben und mithalfen, den Boden zu bereiten auf dem wachsen konnte, was in der Deutschen Demokratischen Republik verwirklicht wird. Die Verdienste der Kämpfer gegen den Faschismus und die vieljährigen physischen und psychischen Drangsale der Verfolgten des Faschismus würdigend, wird in Übereinstimmung mit der Zentralleitung des Komitees der Antifaschistischen Widerstandskämpfer der Deutschen Demokratischen Republik und dem Bundesvorstand des Freien Deutschen Gewerkschaftsbundes folgendes angeordnet:
 
-Unsere sozialistische Gesellschaft und ihr Staat achten und ehren die Männer und Frauen, die Jahrzehnte ihres Lebens dem Kampf gegen Faschismus und Militarismus verschrieben und mithalfen, den Boden zu bereiten auf dem wachsen konnte, was in der Deutschen Demokratischen Republik verwirklicht wird.  
-Die Verdienste der Kämpfer gegen den Faschismus und die vieljährigen physischen und psychischen Drangsale der Verfolgten des Faschismus würdigend, wird in Übereinstimmung mit der Zentralleitung des Komitees der Antifaschistischen Widerstandskämpfer der Deutschen Demokratischen Republik und dem Bundesvorstand des Freien Deutschen Gewerkschaftsbundes folgendes angeordnet:
-
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 (1)  
 (2)
 
 (3) ... Für den Anspruch auf Kinderzuschlag gelten die Bestimmungen des § 7.
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5
+# § 5
 
 (1) Das Pensionsalter wird von Frauen mit Vollendung des 55. Lebensjahres und von Männern mit Vollendung des 60. Lebensjahres erreicht.
 
 (2) Für die Feststellung der Invalidität gelten die Bestimmungen der Sozialversicherung.
 
-
-## § 6
+# § 6
 
 (1) Als arbeitsunfähig gelten:
 
@@ -54,8 +44,7 @@ d) die Witwe mit einem Kind unter 3 Jahren oder 2 Kindern unter 8 Jahren.
 
 (2) Bei Wiederverheiratung erlischt der Anspruch auf Hinterbliebenenpension.
 
-
-## § 7
+# § 7
 
 (1) Als anspruchsberechtigte Voll- oder Halbwaisen von Kämpfern gegen den Faschismus oder Verfolgten des Faschismus gelten:
 
@@ -67,38 +56,31 @@ b) die Stief- und Enkelkinder sowie Pflegekinder, denen vom Kämpfer gegen den F
 
 (3) Heiratet eine Voll- oder Halbwaise während der Berufsausbildung oder des Studiums, wird die Hinterbliebenenpension bis zum Abschluß der Berufsausbildung oder des Studiums weitergezahlt.
 
-
-## § 8
+# § 8
 
 \-
 
-
-## § 9
+# § 9
 
 Besteht Anspruch auf zwei Pensionen nach dieser Anordnung, wird nur die höhere gezahlt.
 
-
-## § 10
-
-\-
-
-
-## § 11
+# § 10
 
 \-
 
-
-## § 12
+# § 11
 
 \-
 
+# § 12
 
-## Schlußformel
+\-
+
+# Schlußformel
 
 Der Staatssekretär für Arbeit und Löhne
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel VIII Sachgebiet H Abschnitt III(BGBl. II 1990, 885, 1214)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel VIII Sachgebiet H Abschnitt III(BGBl. II 1990, 885, 1214)
 
 Abschnitt III  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:

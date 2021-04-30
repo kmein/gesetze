@@ -1,10 +1,7 @@
-# [Münz5DMBek 1953] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark
-
-Ausfertigungsdatum: 06.08.1953
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark
+% Ausfertigungsdatum: 06.08.1953
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) werden zur Erinnerung an die Jahrhundertfeier des Germanischen National-Museums in Nürnberg 200 000 Stück Bundesmünzen im Nennwert von je 5 Deutschen Mark geprägt und demnächst in den Verkehr gebracht.
 
@@ -20,13 +17,11 @@ Ausfertigungsdatum: 06.08.1953
 
 (7) Dies wird namens der Bundesregierung hiermit bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

@@ -1,25 +1,19 @@
-# [FKrFBAusbV] Verordnung über die Berufsausbildung zur Fachkraft im Fahrbetrieb
-
-Ausfertigungsdatum: 11.07.2002
-
+% Verordnung über die Berufsausbildung zur Fachkraft im Fahrbetrieb
+% Ausfertigungsdatum: 11.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft im Fahrbetrieb wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die Vermittlung folgender Fertigkeiten und Kenntnisse:
 
@@ -135,25 +129,21 @@ Verhalten bei Unfällen und Zwischenfällen;
 
 17. Fitness im Fahrdienst, Stressbewältigung.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -167,14 +157,11 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 3. Bearbeiten von Geschäftsprozessen.
 
-
-## § 8 – Abschlussprüfung
+# § 8 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens zwei Stunden eine praktische Aufgabe I sowie in insgesamt höchstens zwei Stunden bis zu drei praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsaufgaben selbständig planen, durchführen und kontrollieren und die Erfordernisse der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Qualitätssicherung sowie der Kundenorientierung beachten kann.  
-Die praktische Aufgabe I umfasst das Führen eines Fahrzeuges der Klasse D mit einer Mindestlänge von 11,80 Meter auf öffentlichen Straßen oder einer Straßen- oder U-Bahn im Strecken- und Liniennetz des öffentlichen Personennahverkehrs sowie weitere Tätigkeiten im Fahrdienst.  
-Für die Tätigkeiten im Fahrdienst kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens zwei Stunden eine praktische Aufgabe I sowie in insgesamt höchstens zwei Stunden bis zu drei praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsaufgaben selbständig planen, durchführen und kontrollieren und die Erfordernisse der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Qualitätssicherung sowie der Kundenorientierung beachten kann. Die praktische Aufgabe I umfasst das Führen eines Fahrzeuges der Klasse D mit einer Mindestlänge von 11,80 Meter auf öffentlichen Straßen oder einer Straßen- oder U-Bahn im Strecken- und Liniennetz des öffentlichen Personennahverkehrs sowie weitere Tätigkeiten im Fahrdienst. Für die Tätigkeiten im Fahrdienst kommen insbesondere in Betracht:
 
 1. Vor- und Nachbereitung einer Beförderung,
 
@@ -182,9 +169,7 @@ Für die Tätigkeiten im Fahrdienst kommen insbesondere in Betracht:
 
 3. Umgang mit Kunden.
 
-Bei der Durchführung der praktischen Aufgabe I soll der Prüfling zeigen, dass er Fahrzeuge verkehrssicher, kundenfreundlich und wirtschaftlich unter Einhaltung der maßgebenden rechtlichen und betrieblichen Vorschriften führen sowie die notwendigen Aufzeichnungen anfertigen kann.  
-Bei der Aufgabenstellung ist das Streckennetz sowie das Verkehrsmittel des Ausbildungsbetriebes zu berücksichtigen, auf dem der Prüfling schwerpunktmäßig ausgebildet wurde.  
-Für die praktischen Aufgaben II kommen insbesondere Aufgaben aus folgenden Gebieten in Betracht:
+Bei der Durchführung der praktischen Aufgabe I soll der Prüfling zeigen, dass er Fahrzeuge verkehrssicher, kundenfreundlich und wirtschaftlich unter Einhaltung der maßgebenden rechtlichen und betrieblichen Vorschriften führen sowie die notwendigen Aufzeichnungen anfertigen kann. Bei der Aufgabenstellung ist das Streckennetz sowie das Verkehrsmittel des Ausbildungsbetriebes zu berücksichtigen, auf dem der Prüfling schwerpunktmäßig ausgebildet wurde. Für die praktischen Aufgaben II kommen insbesondere Aufgaben aus folgenden Gebieten in Betracht:
 
 1. Planung und Disposition des Fahrbetriebes,
 
@@ -194,9 +179,7 @@ Für die praktischen Aufgaben II kommen insbesondere Aufgaben aus folgenden Gebi
 
 Bei der Durchführung der praktischen Aufgaben II soll der Prüfling zeigen, dass er das Leistungsangebot umsetzen, Kommunikationssysteme anwenden, mit Kunden umgehen und Geschäftsvorfälle bearbeiten kann.
 
-(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Personenverkehr und Beförderungsleistungen, Planung und Disposition des Fahrbetriebes sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Personenverkehr und Beförderungsleistungen sowie Planung und Disposition des Fahrbetriebes soll der Prüfling zeigen, dass er insbesondere praxisbezogene Fälle mit verknüpften arbeitsorganisatorischen, wirtschaftlichen und rechtlichen Inhalten kundenorientiert lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Im Prüfungsbereich Personenverkehr und Beförderungsleistungen soll der Prüfling zeigen, dass er die Auswirkungen der rechtlichen, wirtschaftlichen und technologischen Rahmenbedingungen auf den öffentlichen Personennahverkehr an praxisbezogenen Fällen darstellen, Kalkulationsverfahren anwenden und Vorschläge für das Dienstleistungsangebot im öffentlichen Personennahverkehr entwickeln und begründen kann.  
-Im Prüfungsbereich Planung und Disposition des Fahrbetriebes soll der Prüfling zeigen, dass er Fahrplanunterlagen anwenden, den Personal- und Fahrzeugeinsatz für den Linienverkehr unter Beachtung der betrieblichen, tarifvertraglichen und gesetzlichen Bestimmungen planen und steuern sowie Maßnahmen zur Steigerung und Erhaltung der Beförderungsqualität anwenden kann.  
-Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
+(3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Personenverkehr und Beförderungsleistungen, Planung und Disposition des Fahrbetriebes sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Personenverkehr und Beförderungsleistungen sowie Planung und Disposition des Fahrbetriebes soll der Prüfling zeigen, dass er insbesondere praxisbezogene Fälle mit verknüpften arbeitsorganisatorischen, wirtschaftlichen und rechtlichen Inhalten kundenorientiert lösen kann. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Im Prüfungsbereich Personenverkehr und Beförderungsleistungen soll der Prüfling zeigen, dass er die Auswirkungen der rechtlichen, wirtschaftlichen und technologischen Rahmenbedingungen auf den öffentlichen Personennahverkehr an praxisbezogenen Fällen darstellen, Kalkulationsverfahren anwenden und Vorschläge für das Dienstleistungsangebot im öffentlichen Personennahverkehr entwickeln und begründen kann. Im Prüfungsbereich Planung und Disposition des Fahrbetriebes soll der Prüfling zeigen, dass er Fahrplanunterlagen anwenden, den Personal- und Fahrzeugeinsatz für den Linienverkehr unter Beachtung der betrieblichen, tarifvertraglichen und gesetzlichen Bestimmungen planen und steuern sowie Maßnahmen zur Steigerung und Erhaltung der Beförderungsqualität anwenden kann. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
 1. im Prüfungsbereich Personenverkehr und Beförderungsleistungen:
 
@@ -244,13 +227,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des praktischen Teils der Prüfung in der praktischen Aufgabe I mindestens ausreichende Leistungen erbracht worden sind. Werden die Prüfungsleistungen in den praktischen Aufgaben II insgesamt oder in einem der schriftlichen Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-
-## Anlage – (zu § 4 Abs. 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
+# Anlage – (zu § 4 Abs. 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
 
 (Fundstelle: BGBl. I 2002, 2615 - 2621; bzgl. einzelner Änderungen vgl. Fußnote)
 

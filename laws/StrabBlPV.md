@@ -1,10 +1,7 @@
-# [StrabBlPV] Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen  (Straßenbahn-Betriebsleiter-Prüfungsverordnung - StrabBlPV)
-
-Ausfertigungsdatum: 29.07.1988
-
+% Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen  (Straßenbahn-Betriebsleiter-Prüfungsverordnung - StrabBlPV)
+% Ausfertigungsdatum: 29.07.1988
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -134,20 +131,17 @@ Berlin-Klausel
 
 Inkrafttreten und Übergangsvorschriften
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1, veröffentlichten bereinigten Fassung, der zuletzt durch § 70 Abs. 2 des Gesetzes vom 15. März 1974 (BGBl. I S. 721) geändert worden ist, wird verordnet:
 
-
-## § 1 – Errichtung
+# § 1 – Errichtung
 
 (1) Für die Prüfung der fachlichen Befähigung zum Betriebsleiter eines Straßenbahnunternehmens wird bei der zuständigen obersten Landesbehörde oder bei der von ihr bestimmten Behörde ein Prüfungsausschuß errichtet.
 
 (2) Für den Bereich mehrerer Länder kann durch Vereinbarung ein gemeinsamer Prüfungsausschuß errichtet werden.
 
-
-## § 2 – Zusammensetzung und Berufung
+# § 2 – Zusammensetzung und Berufung
 
 (1) Die zuständige oberste Landesbehörde oder die von ihr bestimmte Behörde beruft aus dem Kreis von
 
@@ -167,15 +161,13 @@ die Mitglieder des Prüfungsausschusses jeweils für fünf Jahre. Die Mitglieder
 
 (5) Der Vorsitzende des Prüfungsausschusses bestimmt nach Maßgabe der §§ 3 und 4, welche Mitglieder als Prüfer jeweils an einer Prüfung mitwirken.
 
-
-## § 3 – Ausschluß und Befangenheit
+# § 3 – Ausschluß und Befangenheit
 
 (1) Bei der Prüfung darf nicht mitwirken, wer Vorgesetzter eines Prüfungsbewerbers oder Bediensteter im gleichen Verkehrsunternehmen ist.
 
 (2) Wenn sich während der Prüfung ergibt, daß infolge Ausschlusses eine ordnungsgemäße Besetzung des Prüfungsausschusses nicht möglich ist, ist die Prüfung abzubrechen. Über die Fortsetzung oder Wiederholung der Prüfung entscheidet der Prüfungsausschuß.
 
-
-## § 4 – Beschlußfähigkeit und Abstimmung
+# § 4 – Beschlußfähigkeit und Abstimmung
 
 (1) Der Prüfungsausschuß ist beschlußfähig, wenn einschließlich des Vorsitzenden oder seines Stellvertreters mindestens mitwirken
 
@@ -187,18 +179,15 @@ die Mitglieder des Prüfungsausschusses jeweils für fünf Jahre. Die Mitglieder
 
 (2) Der Prüfungsausschuß beschließt mit der Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
-
-## § 5 – Geschäftsführung
+# § 5 – Geschäftsführung
 
 Die berufende Behörde regelt im Einvernehmen mit dem Prüfungsausschuß dessen Geschäftsführung, insbesondere Einladungen, Protokollführung und Einzelheiten über die Durchführung der Prüfungen.
 
-
-## § 6 – Verschwiegenheit
+# § 6 – Verschwiegenheit
 
 Die Mitglieder des Prüfungsausschusses haben über alle Prüfungsvorgänge gegenüber Dritten Verschwiegenheit zu wahren. Ausnahmen bedürfen der Einwilligung der berufenden Behörde.
 
-
-## § 7 – Zulassungsvoraussetzungen
+# § 7 – Zulassungsvoraussetzungen
 
 Zur Prüfung wird auf Antrag einmalig zugelassen, wer
 
@@ -214,8 +203,7 @@ erfolgreich abgeschlossen hat und
 
 2. mindestens drei Jahre in Straßenbahnunternehmen in den für den Bau und Betrieb der Straßenbahn wesentlichen Fachbereichen als Ingenieur tätig gewesen ist; Tätigkeiten bei anderen Stellen als Ingenieur in der Planung, dem Bau, dem Betrieb oder der Überwachung spurgebundener Bahnen können bis zu einem Jahr angerechnet werden.
 
-
-## § 8 – Anmeldung zur Prüfung
+# § 8 – Anmeldung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist vom Bewerber an die zuständige Technische Aufsichtsbehörde zu richten. Maßgebend für die Zuständigkeit ist der Sitz des Straßenbahnunternehmens, bei dem der Bewerber zum Zeitpunkt der Antragstellung beschäftigt ist. Liegt eine solche Beschäftigung nicht vor, ist der Hauptwohnsitz des Bewerbers maßgebend.
 
@@ -227,27 +215,23 @@ erfolgreich abgeschlossen hat und
 
 3. Nachweise über Tätigkeiten nach § 7 Nr. 2.
 
-
-## § 9 – Entscheidung über die Zulassung
+# § 9 – Entscheidung über die Zulassung
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet die zuständige Technische Aufsichtsbehörde. Sie kann in begründeten Fällen Ausnahmen von den Voraussetzungen nach § 7 zulassen.
 
 (2) Die Entscheidung nach Absatz 1 wird dem Bewerber schriftlich mitgeteilt. Ein ablehnender Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 10 – Prüfungstermine
+# § 10 – Prüfungstermine
 
 (1) Prüfungen sollen jährlich einmal durchgeführt werden. Weitere Prüfungen können vom Prüfungsausschuß nach Bedarf angesetzt werden.
 
 (2) Der Vorsitzende des Prüfungsausschusses setzt im Einvernehmen mit den Prüfern die Prüfungstermine und -orte fest und gibt sie mindestens einen Monat vor Prüfungsbeginn den zur Prüfung zugelassenen Bewerbern schriftlich bekannt. Dabei unterrichtet er die Kandidaten auch über den Prüfungsablauf, über die jeweils zur Verfügung stehende Zeit sowie über die während der Prüfung zugelassenen Arbeits- und Hilfsmittel.
 
-
-## § 11 – Prüfungsgegenstand
+# § 11 – Prüfungsgegenstand
 
 In der Prüfung hat der Kandidat seine fachliche Befähigung zum Betriebsleiter nachzuweisen.
 
-
-## § 12 – Gliederung der Prüfung
+# § 12 – Gliederung der Prüfung
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil und ist in dieser Reihenfolge durchzuführen.
 
@@ -339,8 +323,7 @@ In der Prüfung hat der Kandidat seine fachliche Befähigung zum Betriebsleiter 
 
 6. strafrechtliche Vorschriften und Ordnungswidrigkeiten.
 
-
-## § 13 – Schriftlicher Teil der Prüfung
+# § 13 – Schriftlicher Teil der Prüfung
 
 (1) Im schriftlichen Teil der Prüfung hat der Kandidat nachzuweisen, daß er Aufgaben aus dem Bereich der Betriebsleitertätigkeit rasch und sicher erfassen, in kurzer Zeit mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen kann.
 
@@ -350,8 +333,7 @@ In der Prüfung hat der Kandidat seine fachliche Befähigung zum Betriebsleiter 
 
 (4) Jede Arbeit ist von zwei Prüfern zu bewerten. Bei abweichender Bewertung entscheidet der Vorsitzende des Prüfungsausschusses.
 
-
-## § 14 – Mündlicher Teil der Prüfung
+# § 14 – Mündlicher Teil der Prüfung
 
 (1) Im mündlichen Teil der Prüfung hat der Kandidat den Nachweis eines umfassenden Fachwissens in den vier Fächern nach § 12 Abs. 4 zu erbringen.
 
@@ -359,25 +341,21 @@ In der Prüfung hat der Kandidat seine fachliche Befähigung zum Betriebsleiter 
 
 (3) Die Leistung des Kandidaten ist in jedem Fach vom Prüfungsausschuß zu bewerten.
 
-
-## § 15 – Nichtöffentlichkeit
+# § 15 – Nichtöffentlichkeit
 
 Die Prüfung ist nicht öffentlich. Vertreter der berufenden Behörde und der für die Zulassung des Kandidaten zuständigen Technischen Aufsichtsbehörde können anwesend sein. An der Beratung über das Prüfungsergebnis dürfen nur die Mitglieder des Prüfungsausschusses teilnehmen.
 
-
-## § 16 – Ausweispflicht und Belehrung
+# § 16 – Ausweispflicht und Belehrung
 
 Die Kandidaten haben sich auf Verlangen des Vorsitzenden des Prüfungsausschusses oder des Aufsichtführenden über ihre Person auszuweisen. Sie sind vor Beginn eines jeden Teils der Prüfung über die jeweils zur Verfügung stehende Zeit, über die während der Prüfung zugelassenen Arbeits- und Hilfsmittel sowie über die Folgen von Täuschungshandlungen und Ordnungsverstößen zu belehren.
 
-
-## § 17 – Täuschungshandlungen und Ordnungsverstöße
+# § 17 – Täuschungshandlungen und Ordnungsverstöße
 
 (1) Kandidaten, die eine Täuschungshandlung begehen oder versuchen oder den Prüfungsablauf erheblich stören, können von der weiteren Teilnahme an der Prüfung ausgeschlossen werden. Während des schriftlichen Teils der Prüfung kann der Aufsichtführende den Kandidaten vorläufig ausschließen.
 
 (2) Über den Ausschluß und die Folgen entscheidet der Prüfungsausschuß nach Anhören des Kandidaten. In schwerwiegenden Fällen, insbesondere bei vorbereiteten Täuschungshandlungen, kann die Prüfung für nicht bestanden erklärt werden.
 
-
-## § 18 – Rücktritt und Nichtteilnahme
+# § 18 – Rücktritt und Nichtteilnahme
 
 (1) Der Kandidat kann vor Bekanntgabe der ersten schriftlichen Prüfungsaufgabe von der Prüfung durch schriftliche Erklärung oder durch Erklärung zu Protokoll zurücktreten. In diesem Falle gilt die Prüfung als nicht begonnen; dies gilt auch, wenn der Kandidat zur Prüfung nicht erscheint.
 
@@ -387,8 +365,7 @@ Die Kandidaten haben sich auf Verlangen des Vorsitzenden des Prüfungsausschusse
 
 (4) Über das Vorliegen eines wichtigen Grundes entscheidet der Prüfungsausschuß.
 
-
-## § 19 – Bewertung der Prüfungsleistungen
+# § 19 – Bewertung der Prüfungsleistungen
 
 (1) Die einzelnen schriftlichen Arbeiten und die Leistungen in jedem Fach des mündlichen Teils der Prüfung sind wie folgt zu bewerten:
 
@@ -416,8 +393,7 @@ wenn eine Leistung den Anforderungen nicht entspricht und selbst die Grundkenntn
 
 (2) Bei der Bewertung der Prüfungsleistungen sind neben Kenntnissen auch Form und Ausdrucksweise zu berücksichtigen.
 
-
-## § 20 – Feststellung und Bekanntgabe des Prüfungsergebnisses
+# § 20 – Feststellung und Bekanntgabe des Prüfungsergebnisses
 
 (1) Der Prüfungsausschuß stellt aufgrund der Bewertung der einzelnen Prüfungsleistungen nach § 19 das Prüfungsergebnis fest.
 
@@ -429,20 +405,17 @@ wenn eine Leistung den Anforderungen nicht entspricht und selbst die Grundkenntn
 
 (5) Über den Verlauf der Prüfung und die Feststellung des Prüfungsergebnisses ist eine Niederschrift zu fertigen. Sie ist vom Vorsitzenden des Prüfungsausschusses und von den Prüfern zu unterzeichnen.
 
-
-## § 21 – Prüfungszeugnis
+# § 21 – Prüfungszeugnis
 
 Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das vom Vorsitzenden des Prüfungsausschusses zu unterschreiben ist. In dem Zeugnis sind Vorname und Familienname, gegebenenfalls auch der Geburtsname des Kandidaten, der Tag seiner Geburt sowie der Tag des Bestehens der Prüfung anzugeben.
 
-
-## § 22 – Nichtbestandene Prüfung
+# § 22 – Nichtbestandene Prüfung
 
 (1) Der Vorsitzende des Prüfungsausschusses erteilt bei nichtbestandener Prüfung dem Kandidaten einen schriftlichen oder elektronischen Bescheid. Darin sind die Fächer anzugeben, in denen nicht mindestens ausreichende Leistungen erreicht worden sind. Auf die besonderen Bedingungen der Wiederholungsprüfung nach § 23 ist hinzuweisen.
 
 (2) Der Bescheid nach Absatz 1 ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 23 – Wiederholungsprüfung
+# § 23 – Wiederholungsprüfung
 
 (1) Eine nichtbestandene Prüfung darf zweimal wiederholt werden, jedoch frühestens sechs Monate nach Beendigung der vorangegangenen Prüfung.
 
@@ -452,20 +425,17 @@ Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das vom Vorsitzen
 
 (4) Im übrigen gelten die Vorschriften dieser Verordnung entsprechend.
 
-
-## § 24 – Prüfungsunterlagen
+# § 24 – Prüfungsunterlagen
 
 (1) Auf Antrag ist dem Kandidaten nach Beendigung der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren.
 
 (2) Die Prüfungsunterlagen sind 10 Jahre nach Bekanntgabe des Prüfungsergebnisses aufzubewahren.
 
-
-## § 25 – (weggefallen)
+# § 25 – (weggefallen)
 
 \-
 
-
-## § 26 – Inkrafttreten und Übergangsvorschriften
+# § 26 – Inkrafttreten und Übergangsvorschriften
 
 (1) Diese Verordnung tritt neun Monate nach der Verkündung in Kraft.
 
@@ -477,9 +447,7 @@ Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das vom Vorsitzen
 
 (5) Hat der Kandidat die nach Absatz 4 durchgeführte Wiederholungsprüfung nach Inkrafttreten dieser Verordnung nicht bestanden, ist eine zweite Wiederholung der Prüfung nur nach § 23 dieser Verordnung zulässig.
 
+# Schlußformel
 
-## Schlußformel
-
-Der Bundesrat hat zugestimmt.  
-  
+Der Bundesrat hat zugestimmt.   
 Der Bundesminister für Verkehr

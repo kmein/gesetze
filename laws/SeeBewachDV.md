@@ -1,22 +1,17 @@
-# [SeeBewachDV] Verordnung zur Durchführung der Seeschiffbewachungsverordnung  (Seeschiffbewachungsdurchführungsverordnung - SeeBewachDV)
-
-Ausfertigungsdatum: 21.06.2013
-
+% Verordnung zur Durchführung der Seeschiffbewachungsverordnung  (Seeschiffbewachungsdurchführungsverordnung - SeeBewachDV)
+% Ausfertigungsdatum: 21.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 31 Absatz 4 Satz 2 bis 4 der Gewerbeordnung in Verbindung mit § 4 Absatz 2, § 5 Absatz 3 und § 6 Absatz 1 Satz 2 der Seeschiffbewachungsverordnung vom 11. Juni 2013 (BGBl. I S. 1562), von denen § 31 der Gewerbeordnung durch Artikel 1 Nummer 4 des Gesetzes vom 4. März 2013 (BGBl. I S. 362) eingefügt worden ist, verordnet das Bundesamt für Wirtschaft und Ausfuhrkontrolle im Einvernehmen mit dem Bundespolizeipräsidium und dem Bundesamt für Seeschifffahrt und Hydrographie unter Wahrung der Rechte des Bundestages:
 
-
-## § 1 – Ernennung eines Verantwortlichen
+# § 1 – Ernennung eines Verantwortlichen
 
 (1) Wer leitender Angestellter ist, bestimmt sich nach § 5 Absatz 3 des Betriebsverfassungsgesetzes in der Fassung der Bekanntmachung vom 25. September 2001 (BGBl. I S. 2518), das zuletzt durch Artikel 3 Absatz 4 des Gesetzes vom 20. April 2013 (BGBl. I S. 2424) geändert worden ist.
 
 (2) Die Ernennung eines leitenden Angestellten zum Verantwortlichen durch die Geschäftsleitung des Bewachungsunternehmens und die Einhaltung der Anforderungen des § 11 Absatz 2 der Seeschiffbewachungsverordnung sind zu dokumentieren. Die Ernennung ist allen Mitarbeitern des Unternehmens in Textform bekannt zu geben. Mitarbeiter nach dieser Verordnung sind alle Beschäftigten des Bewachungsunternehmens einschließlich der eingesetzten Wachpersonen.
 
-
-## § 2 – Aufbauorganisation
+# § 2 – Aufbauorganisation
 
 (1) Die Aufbauorganisation hat insbesondere folgende Aspekte zu umfassen:
 
@@ -36,15 +31,13 @@ d) ein geschulter Sanitätshelfer,
 
 (2) Alle Mitarbeiter sind über Änderungen in der Aufbauorganisation, die für die Ausübung der Bewachungsaufgabe relevant sind, unverzüglich zu unterrichten. Die Unterrichtung muss in Textform erfolgen.
 
-
-## § 3 – Ablauforganisation
+# § 3 – Ablauforganisation
 
 (1) Zur Sicherstellung einer ordnungsgemäßen Ablauforganisation im Bewachungsunternehmen ist ein Prozesshandbuch zu erstellen. Darin sind unter Berücksichtigung der von der Bewachungsaufgabe ausgehenden Risiken die Verfahrensabläufe nach § 5 Absatz 1 der Seeschiffbewachungsverordnung und die jeweiligen Verantwortlichkeiten zu beschreiben.
 
 (2) Das Prozesshandbuch ist den Mitarbeitern als Leitfaden zur Verfügung zu stellen. Der Verantwortliche hat die Führung des Prozesshandbuchs sicherzustellen. Änderungen der Abläufe, insbesondere aufgrund von Veränderungen der rechtlichen Anforderungen, müssen unverzüglich in das Prozesshandbuch eingearbeitet werden. Die Änderungen sind den Mitarbeitern unverzüglich bekannt zu geben und es ist sicherzustellen, dass diese die Änderungen tatsächlich zur Kenntnis nehmen.
 
-
-## § 4 – Personalauswahlprozess
+# § 4 – Personalauswahlprozess
 
 Grundlage des Personalauswahlprozesses ist ein vom Bewachungsunternehmen zu erstellendes Anforderungsprofil. Die Dokumentation der Personalauswahl hat folgende Unterlagen zu umfassen:
 
@@ -58,13 +51,11 @@ Grundlage des Personalauswahlprozesses ist ein vom Bewachungsunternehmen zu erst
 
 5. ein amts- oder fachärztliches oder fachpsychologisches Zeugnis, wenn Tatsachen bekannt sind, die Bedenken gegen die persönliche Eignung nach § 9 Absatz 1 der Seeschiffbewachungsverordnung begründen.
 
-
-## § 5 – Personalüberprüfungsprozess
+# § 5 – Personalüberprüfungsprozess
 
 Die Zuverlässigkeit und persönliche Eignung der Wachpersonen ist im Abstand von höchstens zwölf Monaten gemäß den §§ 8 und 9 der Seeschiffbewachungsverordnung zu überprüfen. Die Prüfung ist zu dokumentieren.
 
-
-## § 6 – Personaleinarbeitung
+# § 6 – Personaleinarbeitung
 
 (1) Für die Einarbeitung jeder einzelnen Wachperson ist vom Bewachungsunternehmen ein Konzept zu entwickeln, das zu umfassen hat:
 
@@ -86,8 +77,7 @@ c) örtliche Gegebenheiten,
 
 (2) Die Einarbeitung ist zu dokumentieren und die Dokumentation dem Verantwortlichen zur Kenntnis zu geben.
 
-
-## § 7 – Personalweiterbildungsprozess
+# § 7 – Personalweiterbildungsprozess
 
 (1) Die Sachkunde nach § 10 der Seeschiffbewachungsverordnung ist durch jährliche Schulungen auf einem aktuellen Stand zu halten. Zeitpunkt, Dauer und Inhalt der Schulungen sowie die Namen der Teilnehmer sind zu dokumentieren.
 
@@ -99,13 +89,11 @@ c) örtliche Gegebenheiten,
 
 2. den Zielen von Überfällen.
 
-
-## § 8 – Sicherstellung der Rechtsberatung
+# § 8 – Sicherstellung der Rechtsberatung
 
 Der Zugang der Wachpersonen zu einer Rechtsberatung nach § 4 Absatz 1 Satz 2 Nummer 4 der Seeschiffbewachungsverordnung ist rund um die Uhr sicherzustellen. Mit der Rechtsberatung sind fachkundige, zur Rechtsberatung befähigte Personen zu beauftragen. Die Kontaktdaten dieser Personen oder Mitarbeiter sind allen Wachpersonen zur Verfügung zu stellen. Über Änderungen der Zuständigkeit sind alle Wachpersonen unverzüglich zu informieren.
 
-
-## § 9 – Dokumentierte Kontroll- und Prüfprozesse
+# § 9 – Dokumentierte Kontroll- und Prüfprozesse
 
 (1) Die internen Prüfprozesse gemäß § 4 Absatz 1 Satz 2 Nummer 5 der Seeschiffbewachungsverordnung müssen Kontrollmechanismen für die täglichen Betriebsabläufe vorsehen. Die Kontrollen haben jedenfalls die Einhaltung der rechtlichen Vorgaben, insbesondere nach den §§ 4 bis 6 und 13 bis 14 der Seeschiffbewachungsverordnung, abzudecken.
 
@@ -127,8 +115,7 @@ Der Zugang der Wachpersonen zu einer Rechtsberatung nach § 4 Absatz 1 Satz 2 Nu
 
 (4) Die für die einzelnen Schritte relevanten Ansprechpartner sind festzulegen. Ferner sind Eskalationsstufen und Notfallprozeduren einzurichten. Der Prozess und die jeweiligen Ansprechpartner sind zu dokumentieren. Auf die erforderlichen Änderungen der Maßnahmen zur Einhaltung der gesetzlichen Bestimmungen findet § 3 Absatz 2 Satz 3 Anwendung.
 
-
-## § 10 – Dokumentationssystem
+# § 10 – Dokumentationssystem
 
 Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung eines Dokumentationssystems die Erfüllung der Dokumentationspflichten des Bewachungsunternehmens gemäß dieser Verordnung zu gewährleisten. Hierfür sind in Textform festzulegen:
 
@@ -146,8 +133,7 @@ Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung eines Doku
 
 7. die Maßnahmen zur Einhaltung der Aufbewahrungsfristen nach § 13 Absatz 3 der Seeschiffbewachungsverordnung.
 
-
-## § 11 – Kommunikationssystem
+# § 11 – Kommunikationssystem
 
 (1) Die Geschäftsleitung des Bewachungsunternehmens hat durch Einrichtung und Aufrechterhaltung eines geeigneten Kommunikationssystems sicherzustellen, dass
 
@@ -169,8 +155,7 @@ Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung eines Doku
 
 4. Empfehlungen für Verbesserungen der betrieblichen Organisation oder der Verfahrensabläufe.
 
-
-## § 12 – Verfahrensabläufe für den Einsatz
+# § 12 – Verfahrensabläufe für den Einsatz
 
 (1) Für die Planung und Durchführung von Einsätzen auf See ist gemäß § 5 Absatz 1 der Seeschiffbewachungsverordnung erforderlich, dass das Bewachungsunternehmen Verfahrensabläufe für die Planung und Durchführung dieser Einsätze festlegt. Die Verfahrensabläufe sind zu dokumentieren.
 
@@ -196,8 +181,7 @@ Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung eines Doku
 
 (8) Im Rahmen der Darstellung des Verfahrensablaufs gemäß § 5 Absatz 1 Satz 2 Nummer 7 der Seeschiffbewachungsverordnung hinsichtlich der Beschaffung, des Transports, des An- und Von-Bord-Bringens, der Aufbewahrung und Sicherung der Ausrüstung hat das Bewachungsunternehmen die gesamte Lieferkette zu beschreiben. Eingeholte Ausfuhr-, Einfuhr- oder Durchfuhrgenehmigungen sowie Handels- und Vermittlungsgenehmigungen sind vorzulegen. Die internen Regelungen und Maßnahmen zur Aufbewahrung von Waffen und Munition sind ebenfalls vorzulegen.
 
-
-## § 13 – Dienstanweisungen
+# § 13 – Dienstanweisungen
 
 (1) In die allgemeine Dienstanweisung sind grundsätzliche Angaben mindestens zu der nachstehenden Aufzählung aufzunehmen und ihr ist eine Anlage mit den für die Angaben nach Satz 1 maßgeblichen rechtlichen Bestimmungen der Bundesrepublik Deutschland beizufügen:
 
@@ -231,8 +215,7 @@ Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung eines Doku
 
 6. Verzeichnis mit wichtigen Telefonnummern.
 
-
-## § 14 – Ausrüstung
+# § 14 – Ausrüstung
 
 (1) Das Bewachungsunternehmen hat darzustellen, welche Waffen und sonstige Ausrüstung verwendet werden. Dabei sind auch deren spezifische Eigenschaften zu nennen.
 
@@ -266,7 +249,6 @@ Die Geschäftsleitung des Bewachungsunternehmens hat durch Erstellung eines Doku
 
 (4) Die Ausrüstung ist vor jedem Einsatz vom Bewachungsunternehmen auf ihre Funktionsfähigkeit zu überprüfen. Nicht funktionsfähige Ausrüstungsteile sind durch gleichwertige Ausrüstungsteile zu ersetzen. Änderungen sind dem Bundesamt für Wirtschaft und Ausfuhrkontrolle unverzüglich mitzuteilen.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [MaBV] Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer und Wohnimmobilienverwalter  (Makler- und Bauträgerverordnung - MaBV)
-
-Ausfertigungsdatum: 20.06.1974
-
+% Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer und Wohnimmobilienverwalter  (Makler- und Bauträgerverordnung - MaBV)
+% Ausfertigungsdatum: 20.06.1974
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Gewerbetreibende, die Tätigkeiten nach § 34c Absatz 1 der Gewerbeordnung ausüben, unabhängig vom Bestehen einer Erlaubnispflicht.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 20.06.1974
 
 § 1 Abs. 2 Satz 2 Nr. 2 Kursivdruck: Nach dem Wort "§ 19" wurde das Komma abweichend vom Bundesgesetzblatt durch einen Punkt ersetzt
 
-
-## § 2 – Sicherheitsleistung, Versicherung
+# § 2 – Sicherheitsleistung, Versicherung
 
 (1) Bevor der Gewerbetreibende zur Ausführung des Auftrages Vermögenswerte des Auftraggebers erhält oder zu deren Verwendung ermächtigt wird, hat er dem Auftraggeber in Höhe dieser Vermögenswerte Sicherheit zu leisten oder eine zu diesem Zweck geeignete Versicherung abzuschließen; dies gilt nicht in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll. Zu sichern sind Schadensersatzansprüche des Auftraggebers wegen etwaiger von dem Gewerbetreibenden und den Personen, die er zur Verwendung der Vermögenswerte ermächtigt hat, vorsätzlich begangener unerlaubter Handlungen, die sich gegen die in Satz 1 bezeichneten Vermögenswerte richten.
 
@@ -43,8 +39,7 @@ Erhält der Gewerbetreibende Vermögenswerte des Auftraggebers in Teilbeträgen,
 
 (6) Soweit nach den Absätzen 2 und 3 eine Bürgschaft oder Versicherung verlangt wird, ist von Gewerbetreibenden aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum als Nachweis eine Bescheinigung über den Abschluss einer Bürgschaft oder Versicherung als hinreichend anzuerkennen, die von einem Kreditinstitut oder einem Versicherungsunternehmen in einem anderen Mitgliedstaat oder Vertragsstaat ausgestellt wurde, sofern die in diesem Staat abgeschlossene Versicherung im Wesentlichen vergleichbar ist zu der, die von in Deutschland niedergelassenen Gewerbetreibenden verlangt wird, und zwar hinsichtlich der Zweckbestimmung, der vorgesehenen Deckung bezüglich des versicherten Risikos, der Versicherungssumme und möglicher Ausnahmen von der Deckung. Bei nur teilweiser Gleichwertigkeit kann eine zusätzliche Sicherheit verlangt werden, die die nicht gedeckten Risiken absichert.
 
-
-## § 3 – Besondere Sicherungspflichten für Bauträger
+# § 3 – Besondere Sicherungspflichten für Bauträger
 
 (1) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages erst entgegennehmen oder sich zu deren Verwendung ermächtigen lassen, wenn
 
@@ -122,8 +117,7 @@ Sofern einzelne der in Satz 2 Nr. 2 genannten Leistungen nicht anfallen, wird de
 
 (3) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, sofern ein Nutzungsverhältnis begründet werden soll, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages in Höhe von 20 vom Hundert der Vertragssumme nach Vertragsabschluß entgegennehmen oder sich zu deren Verwendung ermächtigen lassen; im übrigen gelten Absatz 1 Satz 1 Nr. 1 und 4 und Absatz 2 entsprechend.
 
-
-## § 4 – Verwendung von Vermögenswerten des Auftraggebers
+# § 4 – Verwendung von Vermögenswerten des Auftraggebers
 
 (1) Der Gewerbetreibende darf Vermögenswerte des Auftraggebers, die er erhalten hat oder zu deren Verwendung er ermächtigt worden ist, nur verwenden
 
@@ -133,13 +127,11 @@ Sofern einzelne der in Satz 2 Nr. 2 genannten Leistungen nicht anfallen, wird de
 
 (2) Der Gewerbetreibende darf in den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe b der Gewerbeordnung, in denen er das Bauvorhaben für mehrere Auftraggeber vorbereitet und durchführt, die Vermögenswerte der Auftraggeber nur im Verhältnis der Kosten der einzelnen Einheiten zu den Gesamtkosten des Bauvorhabens verwenden.
 
-
-## § 5 – Hilfspersonal
+# § 5 – Hilfspersonal
 
 Ermächtigt der Gewerbetreibende andere Personen, Vermögenswerte des Auftraggebers zur Ausführung des Auftrages entgegenzunehmen oder zu verwenden, so hat er sicherzustellen, daß dies nur nach Maßgabe der §§ 3 und 4 geschieht.
 
-
-## § 6 – Getrennte Vermögensverwaltung
+# § 6 – Getrennte Vermögensverwaltung
 
 (1) Erhält der Gewerbetreibende zur Ausführung des Auftrages Vermögenswerte des Auftraggebers, so hat er sie von seinem Vermögen und dem seiner sonstigen Auftraggeber getrennt zu verwalten. Dies gilt nicht für vertragsgemäß im Rahmen des § 3 Abs. 2 oder 3 geleistete Zahlungen.
 
@@ -147,8 +139,7 @@ Ermächtigt der Gewerbetreibende andere Personen, Vermögenswerte des Auftraggeb
 
 (3) Wertpapiere im Sinne des § 1 Abs. 1 des Gesetzes über die Verwahrung und Anschaffung von Wertpapieren, die der Gewerbetreibende vom Auftraggeber erhält, hat er unverzüglich für Rechnung des Auftraggebers einem Kreditinstitut im Sinne des § 2 Abs. 2 Satz 2 zur Verwahrung anzuvertrauen. Absatz 2 Satz 2 bis 4 ist anzuwenden.
 
-
-## § 7 – Ausnahmevorschrift
+# § 7 – Ausnahmevorschrift
 
 (1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, die dem Auftraggeber Eigentum an einem Grundstück zu übertragen oder ein Erbbaurecht zu bestellen oder zu übertragen haben, sind von den Verpflichtungen des § 3 Abs. 1 und 2, des § 4 Abs. 1 und der §§ 5 und 6, die übrigen Gewerbetreibenden im Sinne des § 34c Abs. 1 der Gewerbeordnung sind von den Verpflichtungen des § 2, des § 3 Abs. 3 und der §§ 4 bis 6 freigestellt, sofern sie Sicherheit für alle etwaigen Ansprüche des Auftraggebers auf Rückgewähr oder Auszahlung seiner Vermögenswerte im Sinne des § 2 Abs. 1 Satz 1 geleistet haben. § 2 Abs. 2, Abs. 4 Satz 2 und 3 und Abs. 5 Satz 1 gilt entsprechend. In den Fällen des § 34c Absatz 1 Satz 1 Nummer 3 Buchstabe a der Gewerbeordnung, in denen dem Auftraggeber Eigentum an einem Grundstück übertragen oder ein Erbbaurecht bestellt oder übertragen werden soll, ist die Sicherheit aufrechtzuerhalten, bis die Voraussetzungen des § 3 Abs. 1 erfüllt sind und das Vertragsobjekt vollständig fertiggestellt ist. Ein Austausch der Sicherungen der §§ 2 bis 6 und derjenigen des § 7 ist zulässig.
 
@@ -160,20 +151,17 @@ Ermächtigt der Gewerbetreibende andere Personen, Vermögenswerte des Auftraggeb
 
 handelt und der Auftraggeber in gesonderter Urkunde auf die Anwendung dieser Bestimmungen verzichtet. Im Falle des Satzes 1 Nr. 2 hat sich der Gewerbetreibende vom Auftraggeber dessen Eigenschaft als Kaufmann durch einen Auszug aus dem Handelsregister oder dem Genossenschaftsregister nachweisen zu lassen.
 
-
-## § 8 – Rechnungslegung
+# § 8 – Rechnungslegung
 
 (1) Hat der Gewerbetreibende zur Ausführung des Auftrages Vermögenswerte des Auftraggebers erhalten oder verwendet, so hat er dem Auftraggeber nach Beendigung des Auftrages über die Verwendung dieser Vermögenswerte Rechnung zu legen. § 259 des Bürgerlichen Gesetzbuchs ist anzuwenden.
 
 (2) Die Verpflichtung, Rechnung zu legen, entfällt, soweit der Auftraggeber nach Beendigung des Auftrages dem Gewerbetreibenden gegenüber schriftlich darauf verzichtet oder der Gewerbetreibende mit den Vermögenswerten des Auftraggebers eine Leistung zu einem Festpreis zu erbringen hat.
 
-
-## § 9 – Anzeigepflicht
+# § 9 – Anzeigepflicht
 
 Der Gewerbetreibende hat der zuständigen Behörde die jeweils mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen unverzüglich anzuzeigen. Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der Anzeige sind Name, Geburtsname, sofern er vom Namen abweicht, Vornamen, Staatsangehörigkeit, Geburtstag, Geburtsort und Anschrift der betreffenden Personen anzugeben.
 
-
-## § 10 – Buchführungspflicht
+# § 10 – Buchführungspflicht
 
 (1) Der Gewerbetreibende hat von der Annahme des Auftrages an nach Maßgabe der folgenden Vorschriften Aufzeichnungen zu machen sowie Unterlagen und Belege übersichtlich zu sammeln. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache vorzunehmen.
 
@@ -233,8 +221,7 @@ f) Vertragsdauer.
 
 (6) Sonstige Vorschriften über Aufzeichnungs- und Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
-
-## § 11 – Informationspflicht und Werbung
+# § 11 – Informationspflicht und Werbung
 
 Der Gewerbetreibende hat dem Auftraggeber in Textform und in deutscher Sprache folgende Angaben mitzuteilen, soweit sie im Einzelfall in Betracht kommen:
 
@@ -250,25 +237,21 @@ b) spätestens bei Aufnahme der Vertragsverhandlungen über den vermittelten ode
 
 Die Angaben nach Satz 1 Nummer 3 können durch Verweis auf die Internetseite des Gewerbetreibenden erfolgen. Ist der Auftraggeber eine natürliche Person, kann er die Übermittlung der Angaben in der Amtssprache eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum verlangen, wenn er in diesem Mitgliedstaat oder Vertragsstaat seinen Wohnsitz hat.
 
-
-## § 12 – Unzulässigkeit abweichender Vereinbarungen
+# § 12 – Unzulässigkeit abweichender Vereinbarungen
 
 Der Gewerbetreibende darf seine Verpflichtungen nach den §§ 2 bis 8 sowie die nach § 2 Abs. 1 zu sichernden Schadensersatzansprüche des Auftraggebers durch vertragliche Vereinbarung weder ausschließen noch beschränken.
 
-
-## § 13 – (weggefallen)
+# § 13 – (weggefallen)
 
 \-
 
-
-## § 14 – Aufbewahrung
+# § 14 – Aufbewahrung
 
 (1) Die in § 10 bezeichneten Geschäftsunterlagen sind 5 Jahre in den Geschäftsräumen aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem der letzte aufzeichnungspflichtige Vorgang für den jeweiligen Auftrag angefallen ist. Vorschriften, die eine längere Frist bestimmen, bleiben unberührt.
 
 (2) Die nach Absatz 1 aufzubewahrenden Unterlagen können auch in Form einer verkleinerten Wiedergabe aufbewahrt werden, wenn gesichert ist, daß die Wiedergabe mit der Urschrift übereinstimmt. Der Gewerbetreibende hat auf Verlangen der zuständigen Behörde auf seine Kosten die erforderliche Anzahl ohne Hilfsmittel lesbarer Reproduktionen vorzulegen; bei Ermittlungen oder Prüfungen in den Geschäftsräumen sind für verkleinerte Wiedergaben die erforderlichen Lesegeräte bereitzuhalten.
 
-
-## § 15 – Umfang der Versicherung
+# § 15 – Umfang der Versicherung
 
 (1) Die nach § 34c Absatz 2 Nummer 3 der Gewerbeordnung für einen Wohnimmobilienverwalter vorgesehene Versicherung muss bei einem im Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen abgeschlossen werden.
 
@@ -280,8 +263,7 @@ Der Gewerbetreibende darf seine Verpflichtungen nach den §§ 2 bis 8 sowie die 
 
 (5) Von der Versicherung kann die Haftung für Ersatzansprüche wegen wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
-
-## § 15a – Versicherungsbestätigung; Anzeigepflicht des Versicherungsunternehmens
+# § 15a – Versicherungsbestätigung; Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum Zeitpunkt der Antragstellung bei der für die Erlaubniserteilung zuständigen Behörde nicht älter als drei Monate sein.
 
@@ -297,8 +279,7 @@ Die für die Erlaubniserteilung zuständige Behörde hat dem Versicherungsuntern
 
 (3) Die zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung zuständige Behörde.
 
-
-## § 15b – Weiterbildung
+# § 15b – Weiterbildung
 
 (1) Wer nach § 34c Absatz 2a der Gewerbeordnung zur Weiterbildung verpflichtet ist, muss sich fachlich entsprechend seiner ausgeübten Tätigkeit weiterbilden. Die inhaltlichen Anforderungen an die Weiterbildung sind an den Vorgaben der Anlage 1 auszurichten. Die Weiterbildung kann in Präsenzform, in einem begleiteten Selbststudium, durch betriebsinterne Maßnahmen des Gewerbetreibenden oder in einer anderen geeigneten Form erfolgen. Bei Weiterbildungsmaßnahmen in einem begleiteten Selbststudium ist eine nachweisbare Lernerfolgskontrolle durch den Anbieter der Weiterbildung erforderlich. Der Anbieter der Weiterbildung muss sicherstellen, dass die in Anlage 2 aufgeführten Anforderungen an die Qualität der Weiterbildungsmaßnahme eingehalten werden. Der Erwerb eines Ausbildungsabschlusses als Immobilienkaufmann oder Immobilienkauffrau oder eines Weiterbildungsabschlusses als Geprüfter Immobilienfachwirt oder Geprüfte Immobilienfachwirtin gilt als Weiterbildung.
 
@@ -316,8 +297,7 @@ Die in Satz 1 genannten Nachweise und Unterlagen sind fünf Jahre auf einem daue
 
 (4) Für zur Weiterbildung verpflichtete Gewerbetreibende und ihre zur Weiterbildung verpflichteten Beschäftigten, die im Besitz eines Ausbildungsabschlusses als Immobilienkaufmann oder Immobilienkauffrau oder eines Weiterbildungsabschlusses als Geprüfter Immobilienfachwirt oder Geprüfte Immobilienfachwirtin sind, beginnt die Pflicht zur Weiterbildung drei Jahre nach Erwerb des Ausbildungs- oder Weiterbildungsabschlusses.
 
-
-## § 16 – Prüfungen
+# § 16 – Prüfungen
 
 (1) Gewerbetreibende im Sinne des § 34c Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung haben auf ihre Kosten die Einhaltung der sich aus den §§ 2 bis 14 ergebenden Verpflichtungen für jedes Kalenderjahr durch einen geeigneten Prüfer prüfen zu lassen und der zuständigen Behörde den Prüfungsbericht bis spätestens zum 31. Dezember des darauffolgenden Jahres zu übermitteln. Sofern der Gewerbetreibende im Berichtszeitraum keine nach § 34c Abs. 1 Satz 1 der Gewerbeordnung erlaubnispflichtige Tätigkeit ausgeübt hat, hat er spätestens bis zu dem in Satz 1 genannten Termin anstelle des Prüfungsberichts eine entsprechende Erklärung zu übermitteln. Der Prüfungsbericht muß einen Vermerk darüber enthalten, ob Verstöße des Gewerbetreibenden festgestellt worden sind. Verstöße sind in dem Vermerk aufzuzeigen. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe genügt.
 
@@ -337,15 +317,13 @@ c) sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder
 
 Bei Gewerbetreibenden im Sinne des § 34c Absatz 1 Satz 1 Nummer 1 und 2 der Gewerbeordnung können mit der Prüfung nach Absatz 2 auch andere Personen, die öffentlich bestellt oder zugelassen worden sind und die auf Grund ihrer Vorbildung und Erfahrung in der Lage sind, eine ordnungsgemäße Prüfung in dem jeweiligen Gewerbebetrieb durchzuführen, sowie deren Zusammenschlüsse betraut werden. § 13a Absatz 1 und 2 Satz 1 und 2, Absatz 5 bis 7 der Gewerbeordnung gilt für die in Satz 2 genannten Personen, die mit der Prüfung betraut werden können, entsprechend. Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis der Befangenheit besteht.
 
-
-## § 17 – Rechte und Pflichten der an der Prüfung Beteiligten
+# § 17 – Rechte und Pflichten der an der Prüfung Beteiligten
 
 (1) Der Gewerbetreibende hat dem Prüfer die Einsicht in die Bücher, Aufzeichnungen und Unterlagen zu gestatten. Er hat ihm alle Aufklärungen und Nachweise zu geben, die der Prüfer für eine sorgfältige Prüfung benötigt.
 
 (2) Der Prüfer ist zur gewissenhaften und unparteiischen Prüfung und zur Verschwiegenheit verpflichtet. Er darf nicht unbefugt Geschäfts- und Betriebsgeheimnisse verwerten, die er bei seiner Tätigkeit erfahren hat. Ein Prüfer, der vorsätzlich oder fahrlässig seine Pflichten verletzt, ist dem Gewerbetreibenden zum Ersatz des daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als Gesamtschuldner.
 
-
-## § 18 – Ordnungswidrigkeiten
+# § 18 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Abs. 2 Nr. 6 der Gewerbeordnung handelt, wer
 
@@ -375,8 +353,7 @@ b) die in § 2 Abs. 4 Satz 3 bezeichneten Urkunden ausgehändigt hat,
 
 11. entgegen § 15b Absatz 2 Satz 3 einen Nachweis oder eine Unterlage nicht oder nicht mindestens fünf Jahre aufbewahrt,
 
-11a.  
-einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1 zuwiderhandelt,
+11a. einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1 zuwiderhandelt,
 
 12. entgegen § 16 Abs. 1 Satz 1 oder 2 einen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig oder eine dort genannte Erklärung nicht, nicht richtig oder nicht rechtzeitig vorlegt oder
 
@@ -386,8 +363,7 @@ einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1 zuwiderhandelt,
 
 (3) Ordnungswidrig im Sinne des § 146 Abs. 2 Nr. 11a der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Messe-, Ausstellungs- oder Marktgewerbes begeht.
 
-
-## § 19 – Anwendung bei grenzüberschreitender Dienstleistungserbringung
+# § 19 – Anwendung bei grenzüberschreitender Dienstleistungserbringung
 
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus im Geltungsbereich der Gewerbeordnung vorübergehend selbständig eine Tätigkeit
 
@@ -405,23 +381,19 @@ insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt entsprechend.
 
 auch anzuwenden, wenn der im Inland niedergelassene Gewerbetreibende die Dienstleistungsfreiheit in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in Anspruch nimmt und dort vorübergehend selbständig tätig wird.
 
-
-## § 20 – Übergangsvorschriften
+# § 20 – Übergangsvorschriften
 
 Gewerbetreibende, die Vermögenswerte des Auftraggebers nach den §§ 3 oder 7 Abs. 1 in der bis zum 28. Februar 1991 geltenden Fassung abzusichern haben, können die Verträge weiterhin nach diesen Vorschriften abwickeln.
 
-
-## § 21 – Berlin-Klausel
+# § 21 – Berlin-Klausel
 
 (gegenstandslos)
 
-
-## § 22 – Inkrafttreten
+# § 22 – Inkrafttreten
 
 (Inkrafttreten)
 
-
-## Anlage 1 – (zu § 15b Absatz 1)
+# Anlage 1 – (zu § 15b Absatz 1)
 
 (Fundstelle: BGBl. I 2018, 552 — 554)
 
@@ -818,8 +790,7 @@ Schlichtungsstellen
 8.1.3  
 Datenschutz
 
-
-## Anlage 2 – (zu § 15b Absatz 1)
+# Anlage 2 – (zu § 15b Absatz 1)
 
 (Fundstelle: BGBl. I 2018, 555)
 
@@ -858,8 +829,7 @@ Für diejenigen, die die Weiterbildungsmaßnahme durchführen, liegen Anforderun
 3.2  
 Systematische Prozesse stellen die Einhaltung dieser Anforderungen sicher.
 
-
-## Anlage 3 – (zu § 15b Absatz 3)
+# Anlage 3 – (zu § 15b Absatz 3)
 
 (Fundstelle: BGBl. I 2018, 556)
 

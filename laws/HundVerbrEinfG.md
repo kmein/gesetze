@@ -1,10 +1,7 @@
-# [HundVerbrEinfG] Gesetz zur Beschränkung des Verbringens oder der Einfuhr gefährlicher Hunde in das Inland  (Hundeverbringungs- und -einfuhrbeschränkungsgesetz - HundVerbrEinfG)
-
-Ausfertigungsdatum: 12.04.2001
-
+% Gesetz zur Beschränkung des Verbringens oder der Einfuhr gefährlicher Hunde in das Inland  (Hundeverbringungs- und -einfuhrbeschränkungsgesetz - HundVerbrEinfG)
+% Ausfertigungsdatum: 12.04.2001
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist  
 Verbringen in das Inland:  
@@ -18,8 +15,7 @@ jede Abgabe von Hunden gegen Entgelt,
 Gefährlicher Hund:  
 Hunde der Rassen Pitbull-Terrier, American Staffordshire-Terrier, Staffordshire-Bullterrier, Bullterrier und deren Kreuzungen sowie nach Landesrecht bestimmte Hunde.
 
-
-## § 2 – Einfuhr- und Verbringungsverbot
+# § 2 – Einfuhr- und Verbringungsverbot
 
 (1) Hunde der Rassen Pitbull-Terrier, American Staffordshire-Terrier, Staffordshire-Bullterrier, Bullterrier sowie deren Kreuzungen untereinander oder mit anderen Hunden dürfen nicht in das Inland eingeführt oder verbracht werden. Hunde weiterer Rassen sowie deren Kreuzungen untereinander oder mit anderen Hunden, für die nach den Vorschriften des Landes, in dem der Hund ständig gehalten werden soll, eine Gefährlichkeit vermutet wird, dürfen aus dem Ausland nicht in dieses Land eingeführt oder verbracht werden.
 
@@ -45,8 +41,7 @@ zu erlassen.
 
 § 2 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 16.3.2004 - 1 BvR 1778/01 -
 
-
-## § 3 – Überwachung
+# § 3 – Überwachung
 
 (1) Natürliche und juristische Personen sowie nichtrechtsfähige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvorschriften erforderlich sind.
 
@@ -82,15 +77,13 @@ betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grund
 
 (4) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr einer strafrechtlichen Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 4 – Mitwirkung der Zollstellen
+# § 4 – Mitwirkung der Zollstellen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Einfuhr von Hunden mit. Die genannten Behörden können Sendungen sowie mitgeführte Hunde einschließlich deren Transportmittel zur Überwachung anhalten und den Verdacht von Verstößen gegen Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den zuständigen Behörden mitteilen.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 regeln. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Unterlagen und zur Duldung von Besichtigungen vorsehen.
 
-
-## § 5 – Strafvorschriften
+# § 5 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 2 Abs. 1 einen Hund in das Inland verbringt oder einführt.
 
@@ -98,8 +91,7 @@ betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grund
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 6 – Bußgeldvorschriften
+# § 6 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -111,8 +103,7 @@ betreten; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grund
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 7 – Einziehung
+# § 7 – Einziehung
 
 Ist eine Straftat nach § 5 oder eine Ordnungswidrigkeit nach § 6 Abs. 1 begangen worden, so können
 

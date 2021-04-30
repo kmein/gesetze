@@ -1,15 +1,11 @@
-# [SeegerVorRV] Verordnung über Vorrechte und Immunitäten des Internationalen Seegerichtshofs
-
-Ausfertigungsdatum: 10.10.1996
-
+% Verordnung über Vorrechte und Immunitäten des Internationalen Seegerichtshofs
+% Ausfertigungsdatum: 10.10.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 3 Nr. 1 Buchstabe b und Nr. 2 des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen (BGBl. 1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August 1980 (BGBl. 1980 II S. 941) neu gefaßt worden ist, verordnet die Bundesregierung:
 
-
-## Art 1
+# Art 1
 
 (1) Die Mitglieder des Internationalen Seegerichtshofs und dessen Kanzler, soweit dieser nicht die deutsche Staatsangehörigkeit besitzt oder in der Bundesrepublik Deutschland ständig ansässig ist, genießen die Vorrechte, Immunitäten, Befreiungen und Erleichterungen, die den in vergleichbarem Rang stehenden Diplomaten der diplomatischen Missionen in der Bundesrepublik Deutschland gewährt werden.
 
@@ -17,8 +13,7 @@ Auf Grund des Artikels 3 Nr. 1 Buchstabe b und Nr. 2 des Gesetzes vom 22. Juni 1
 
 (3) Die deutschen Rechtsvorschriften über die Versicherungspflicht in der Sozialversicherung sowie über das Kindergeld gelten nicht für den Internationalen Seegerichtshof mit Sitz in Hamburg und seine Bediensteten, sofern die Bediensteten des Internationalen Seegerichtshofs einem System der Sozialen Sicherheit des Internationalen Seegerichtshofs oder einem System, dem sich der Internationale Seegerichtshof angeschlossen hat, angehören, das ausreichende Leistungen vorsieht.
 
-
-## Art 2
+# Art 2
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung mit Wirkung vom 1. August 1996 in Kraft, Artikel 1 Abs. 2 dieser Verordnung in bezug auf Befreiungen von der Gerichtsbarkeit mit Wirkung vom Tage nach der Verkündung.
 
@@ -26,7 +21,6 @@ Auf Grund des Artikels 3 Nr. 1 Buchstabe b und Nr. 2 des Gesetzes vom 22. Juni 1
 
 (3) Der Tag des Außerkrafttretens der Verordnung ist im Bundesgesetzblatt bekanntzugeben.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

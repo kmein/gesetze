@@ -1,10 +1,7 @@
-# [EF-VO] Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden    (Einreise-Freimengen-Verordnung - EF-VO)
-
-Ausfertigungsdatum: 24.11.2008
-
+% Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden    (Einreise-Freimengen-Verordnung - EF-VO)
+% Ausfertigungsdatum: 24.11.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -34,8 +31,7 @@ des § 66 Abs. 1 Nr. 19 des Energiesteuergesetzes vom 15. Juli 2006 (BGBl. I S. 
 
 verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Gegenstand, Begriffsbestimmungen
+# § 1 – Gegenstand, Begriffsbestimmungen
 
 (1) Waren im persönlichen Gepäck von Reisenden, die aus einem Drittland oder aus einem Drittlandsgebiet eingeführt werden, sind nach Maßgabe dieser Verordnung von Einfuhrabgaben im Sinne des § 1 Abs. 1 Satz 3 des Zollverwaltungsgesetzes befreit.
 
@@ -77,8 +73,7 @@ Gemeinden an der deutsch-schweizerischen Grenze, die in der deutschen Zollgrenzz
 
 Personen, die zur Ausübung ihrer gewöhnlichen beruflichen Tätigkeit an den Tagen, an denen sie arbeiten, die Grenze überschreiten.
 
-
-## § 2 – Höchstmengen und Wertgrenzen
+# § 2 – Höchstmengen und Wertgrenzen
 
 (1) Je Reisenden sind Reisemitbringsel (§ 1 Nr. 6) im Rahmen der folgenden Mengen- und Wertgrenzen von den Einfuhrabgaben befreit:
 
@@ -136,8 +131,7 @@ c) für Reisende unter 15 Jahren bis zu einem Warenwert von insgesamt 175 Euro.
 
 3. Kraftstoffe, die nicht unter Absatz 1 Nr. 4 fallen.
 
-
-## § 3 – Sonderfälle
+# § 3 – Sonderfälle
 
 (1) Bei Einfuhren durch
 
@@ -169,12 +163,10 @@ beschränkt und für Alkohol und alkoholhaltige Getränke ausgeschlossen. Die Ab
 
 (5) Reisende, die aus der Schweiz über den Bodensee einreisen, gelten nicht als Seereisende.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2008 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

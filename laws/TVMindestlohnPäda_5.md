@@ -1,10 +1,7 @@
-# [TVMindestlohnPäda 5] Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019
-
-Ausfertigungsdatum: 27.03.2019
-
+% Rechtsnormen des Tarifvertrags zur Regelung des Mindestlohns für pädagogisches Personal vom 15. November 2011 in der Fassung des Änderungstarifvertrags Nummer 5 vom 6. Februar 2019
+% Ausfertigungsdatum: 27.03.2019
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Dieser Tarifvertrag gilt
 
@@ -17,15 +14,13 @@ Dieser Tarifvertrag gilt
   
 Arbeitnehmer und Arbeitnehmerinnen im pädagogischen Bereich sind mit der Aus- und Weiterbildung, Vermittlung oder Betreuung von Teilnehmern und Teilnehmerinnen betraut.
 
-
-## § 2 – Regelungsgegenstände
+# § 2 – Regelungsgegenstände
 
 (1) Dieser Tarifvertrag regelt ausschließlich die Mindeststundenentgelte und den jährlichen Urlaubsanspruch. Er enthält zudem eine Öffnungsklausel für die Entgeltumwandlung nach dem Betriebsrentengesetz (BetrAVG). Für andere Regelungsgegenstände ist die Vereinbarung eines tariflichen Anspruchs aus diesem Tarifvertrag ausdrücklich nicht gewollt.
 
 (2) Für die Arbeitnehmer und Arbeitnehmerinnen günstigere Regelungen bleiben unberührt.
 
-
-## § 3 – Entgelt
+# § 3 – Entgelt
 
 (1) Das Mindeststundenentgelt (brutto) beträgt in Gruppe 1  
   
@@ -37,8 +32,7 @@ Arbeitnehmer und Arbeitnehmerinnen im pädagogischen Bereich sind mit der Aus- u
 | 3\. | ab dem 1. Januar 2021 | 16,68 Euro, |
 | 4\. | ab dem 1. Januar 2022 | 17,18 Euro. |
 
-Arbeitnehmer und Arbeitnehmerinnen nach § 1 Satz 1 Nummer 3 haben Anspruch auf das Mindeststundenentgelt der Gruppe 2, sofern sie über eine der in der Anlage „Qualifikationen – Gruppe 2“ abschließend aufgeführten formalen Qualifikationen verfügen. Die Anlage ist insofern Bestandteil dieses Tarifvertrags. Der Anspruch auf das Mindeststundenentgelt der Gruppe 2 besteht auch dann, wenn sich durch den Erwerb einer der maßgeblichen Qualifikationen die konkret auszuübende Tätigkeit nicht ändert. Er besteht auch bei Abschlüssen, die im Ausland erworben und im Inland als den in der Anlage aufgeführten Abschlüssen entsprechend anerkannt wurden.  
-  
+Arbeitnehmer und Arbeitnehmerinnen nach § 1 Satz 1 Nummer 3 haben Anspruch auf das Mindeststundenentgelt der Gruppe 2, sofern sie über eine der in der Anlage „Qualifikationen – Gruppe 2“ abschließend aufgeführten formalen Qualifikationen verfügen. Die Anlage ist insofern Bestandteil dieses Tarifvertrags. Der Anspruch auf das Mindeststundenentgelt der Gruppe 2 besteht auch dann, wenn sich durch den Erwerb einer der maßgeblichen Qualifikationen die konkret auszuübende Tätigkeit nicht ändert. Er besteht auch bei Abschlüssen, die im Ausland erworben und im Inland als den in der Anlage aufgeführten Abschlüssen entsprechend anerkannt wurden.   
 Das Mindeststundenentgelt (brutto) beträgt in Gruppe 2  
   
 
@@ -53,18 +47,15 @@ Das Mindeststundenentgelt (brutto) beträgt in Gruppe 2
 
 (3) Bei Vereinbarung eines verstetigten Monatsentgelts, das sich nach der Formel Mindeststundenentgelt x vereinbarte regelmäßige Wochenarbeitszeit x 4,348 berechnet, gilt Absatz 2 nicht für die über die regelmäßige monatliche Arbeitszeit hinaus entstandenen Arbeitsstunden, wenn eine Regelung zur Arbeitszeitflexibilisierung mit einem Arbeitszeitkonto besteht. Das Arbeitszeitkonto darf höchstens 100 Plusstunden umfassen. Plusstunden auf dem Arbeitszeitkonto sind innerhalb eines Zeitraums von zwölf Monaten nach dem Kalendermonat ihrer Entstehung abzugelten oder durch bezahlte Arbeitsbefreiung auszugleichen.
 
-
-## § 4 – Öffnungsklausel Altersvorsorge; Entgeltumwandlung
+# § 4 – Öffnungsklausel Altersvorsorge; Entgeltumwandlung
 
 Entsprechend der §§ 20 und 1a BetrAVG wird die Entgeltumwandlung zugelassen. Die Durchführung des Anspruchs des Arbeitnehmers und der Arbeitnehmerin auf Entgeltumwandlung wird durch Tarifvertrag, Betriebsvereinbarung oder individualrechtlich geregelt.
 
-
-## § 5 – Urlaub
+# § 5 – Urlaub
 
 Die Arbeitnehmer und Arbeitnehmerinnen haben unter Fortzahlung des Arbeitsentgelts Anspruch auf Jahresurlaub; Urlaubsjahr ist das Kalenderjahr. Unter Zugrundelegung einer 5-Tage-Woche beträgt der Urlaubsanspruch 29 Arbeitstage; der volle Urlaubsanspruch entsteht erstmalig nach einem ununterbrochenen Arbeitsverhältnis von sechs Monaten.
 
-
-## Anhang – (zur Anlage)
+# Anhang – (zur Anlage)
 
 |                                     |
 |:-----------------------------------:|

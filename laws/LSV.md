@@ -1,22 +1,17 @@
-# [LSV] Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile   (Ladesäulenverordnung - LSV)
-
-Ausfertigungsdatum: 09.03.2016
-
+% Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile   (Ladesäulenverordnung - LSV)
+% Ausfertigungsdatum: 09.03.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 49 Absatz 4 Satz 1 Nummer 1 bis 4 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), der zuletzt durch Artikel 6 Nummer 9 Buchstabe a des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die technischen Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile sowie weitere Aspekte des Betriebes von Ladepunkten wie Authentifizierung, Nutzung und Bezahlung entsprechend der Umsetzungsfrist der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1).
 
 § 1: IdF d. Art. 1 Nr. 1 V v. 1.6.2017 I 1520 mWv 14.6.2017 ( an Stelle der Wörter „und soll um weitere Aspekte des Betriebes von Ladepunkten wie Authentifizierung, Nutzung und Bezahlung entsprechend der Umsetzungsfrist der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 2) bis zum 18. November 2016 in einer Folgeverordnung ergänzt werden“ wurden die Wörter „und soll um weitere Aspekte des Betriebes von Ladepunkten wie Authentifizierung, Nutzung und Bezahlung entsprechend der Umsetzungsfrist der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1) bis zum 18. November 2016 in einer Folgeverordnung ergänzt werden“ durch die Wörter „sowie weitere Aspekte des Betriebes von Ladepunkten wie Authentifizierung, Nutzung und Bezahlung entsprechend der Umsetzungsfrist der Richtlinie 2014/94/EU des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307 vom 28.10.2014, S. 1)“ ersetzt
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -54,8 +49,7 @@ b) Energiespeichern, davon mindestens einer von einer außerhalb des Fahrzeuges 
 
 13. ist punktuelles Aufladen das Laden eines Elektromobils, welches nicht als Leistung im Rahmen eines Dauerschuldverhältnisses zwischen dem Nutzer und einem Elektrizitätsversorgungsunternehmen oder einem Betreiber eines Ladepunktes erbracht wird.
 
-
-## § 3 – Mindestanforderungen an die technische Sicherheit und Interoperabilität
+# § 3 – Mindestanforderungen an die technische Sicherheit und Interoperabilität
 
 (1) Beim Aufbau von Normalladepunkten, an denen das Wechselstromladen möglich ist, muss aus Gründen der Interoperabilität jeder Ladepunkt mindestens mit Steckdosen oder mit Steckdosen und Fahrzeugkupplungen jeweils des Typs 2 gemäß der Norm DIN EN 62196-2, Ausgabe Dezember 2014, ausgerüstet werden.
 
@@ -69,8 +63,7 @@ b) Energiespeichern, davon mindestens einer von einer außerhalb des Fahrzeuges 
 
 (6) Die in den Absätzen 1 bis 3 genannten DIN EN-Normen sind im Beuth Verlag GmbH, Berlin, erschienen und in der Deutschen Nationalbibliothek archivmäßig gesichert hinterlegt.
 
-
-## § 4 – Punktuelles Aufladen
+# § 4 – Punktuelles Aufladen
 
 Der Betreiber eines Ladepunkts hat den Nutzern von Elektromobilen das punktuelle Aufladen zu ermöglichen. Dies stellt er sicher, indem er an dem jeweiligen Ladepunkt
 
@@ -82,8 +75,7 @@ b) gegen Zahlung mittels Bargeld in unmittelbarer Nähe zum Ladepunkt, oder
 
 2. die für den bargeldlosen Zahlungsvorgang erforderliche Authentifizierung und den Zahlungsvorgang mittels eines gängigen kartenbasierten Zahlungssystems beziehungsweise Zahlungsverfahrens in unmittelbarer Nähe zum Ladepunkt oder mittels eines gängigen webbasierten Systems ermöglicht, wobei in der Menüführung mindestens die Sprachen Deutsch und Englisch zu berücksichtigen sind und mindestens eine Variante des Zugangs zum webbasierten Zahlungssystem kostenlos ermöglicht werden muss.
 
-
-## § 5 – Anzeige- und Nachweispflichten
+# § 5 – Anzeige- und Nachweispflichten
 
 (1) Betreiber von Normal- und Schnellladepunkten haben der Regulierungsbehörde den Aufbau und die Außerbetriebnahme von Ladepunkten schriftlich oder elektronisch anzuzeigen. Die Anzeige soll erfolgen:
 
@@ -101,24 +93,20 @@ b) gegen Zahlung mittels Bargeld in unmittelbarer Nähe zum Ladepunkt, oder
 
 (4) Die Absätze 1 bis 3 sind entsprechend anzuwenden, wenn bestehende Ladepunkte öffentlich zugänglich im Sinne dieser Verordnung werden. Absatz 1 ist entsprechend beim Betreiberwechsel von Ladepunkten anzuwenden.
 
-
-## § 6 – Kompetenzen der Regulierungsbehörde
+# § 6 – Kompetenzen der Regulierungsbehörde
 
 (1) Die Regulierungsbehörde kann die Einhaltung der technischen Anforderungen gemäß § 3 Absatz 2 bis 4 an Schnellladepunkten regelmäßig überprüfen.
 
 (2) Die Regulierungsbehörde kann den Betrieb von Ladepunkten untersagen, wenn die technischen Anforderungen gemäß § 3 Absatz 1 bis 4 nicht eingehalten oder die Einhaltung der Anforderungen gemäß § 4 nicht nachgewiesen wird.
 
-
-## § 7 – Ladepunkte mit geringer Ladeleistung
+# § 7 – Ladepunkte mit geringer Ladeleistung
 
 Ladepunkte mit einer Ladeleistung von höchstens 3,7 Kilowatt sind von den Anforderungen der §§ 3 bis 6 ausgenommen.
 
-
-## § 8 – Übergangsregelung
+# § 8 – Übergangsregelung
 
 Ladepunkte, die vor dem 14. Dezember 2017 in Betrieb genommen worden sind, sind von den Anforderungen nach § 4 ausgenommen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

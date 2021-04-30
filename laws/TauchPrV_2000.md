@@ -1,22 +1,17 @@
-# [TauchPrV 2000] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Taucher/Geprüfte Taucherin
-
-Ausfertigungsdatum: 25.02.2000
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Taucher/Geprüfte Taucherin
+% Ausfertigungsdatum: 25.02.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit den Bundesministerien für Wirtschaft und Technologie und für Verkehr, Bau- und Wohnungswesen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Zur Vorbereitung auf die Taucherprüfung kann die zuständige Stelle bei nach Art und Einrichtung geeigneten Taucherbetrieben Fortbildungsgänge nach § 4 durchführen oder durchführen lassen.
 
 (2) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Taucher erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 3, 5 bis 11 durchführen.
 
-
-## § 2 – Ziel der beruflichen Fortbildung und Bezeichnung des Abschlusses
+# § 2 – Ziel der beruflichen Fortbildung und Bezeichnung des Abschlusses
 
 (1) Durch die Teilnahme an dem Fortbildungsgang nach § 1 Abs. 1 sollen Kenntnisse, Fertigkeiten und Erfahrungen, die in der Berufsausbildung und der betrieblichen Praxis erworben wurden, vertieft und ergänzt werden.
 
@@ -34,8 +29,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -59,8 +53,7 @@ Die betriebliche Praxis gemäß Nummer 2 muss der beruflichen Fortbildung zum "G
 
 (3) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Dauer und Inhalt des Fortbildungsganges
+# § 4 – Dauer und Inhalt des Fortbildungsganges
 
 (1) Der Fortbildungsgang gliedert sich in einen Fortbildungslehrgang und eine betriebliche Fortbildung.
 
@@ -70,8 +63,7 @@ Die betriebliche Praxis gemäß Nummer 2 muss der beruflichen Fortbildung zum "G
 
 (4) Über die regelmäßige Teilnahme am Fortbildungsgang ist eine Bescheinigung auszustellen.
 
-
-## § 5 – Gliederung der Prüfung
+# § 5 – Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
@@ -81,8 +73,7 @@ Die betriebliche Praxis gemäß Nummer 2 muss der beruflichen Fortbildung zum "G
 
 (2) Die Prüfungsteile können an verschiedenen Prüfungsterminen geprüft werden. Dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu beginnen.
 
-
-## § 6 – Fachtheoretischer Teil
+# § 6 – Fachtheoretischer Teil
 
 (1) Im fachtheoretischen Teil ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -143,8 +134,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Fachpraktischer Teil
+# § 7 – Fachpraktischer Teil
 
 (1) Im fachpraktischen Teil ist in folgenden Handlungsbereichen zu prüfen:
 
@@ -182,8 +172,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 8 – Befreiung von einzelnen Prüfungsbestandteilen
 
 (1) Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9 und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 10 Absatz 3 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
@@ -191,8 +180,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bewerten der Prüfungsleistungen
+# § 9 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -202,8 +190,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Bestehen der Prüfung, Gesamtnote
+# § 10 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -219,8 +206,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zeugnisse
+# § 11 – Zeugnisse
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -234,8 +220,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Wiederholung der Prüfung
+# § 12 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -243,8 +228,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Übergangsvorschriften
+# § 13 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
@@ -252,8 +236,7 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Ausnahme von § 4 Abs. 3 Satz 2 am 1. Juni 2000 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Taucher vom 8. Oktober 1980 (BGBl. I S. 1936) außer Kraft.
 
@@ -261,15 +244,13 @@ Kenntnis der einschlägigen Unfallverhütungsvorschriften, Gesetze und Verordnun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 9 und 10)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 9 und 10)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2214 - 2215)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 11)Zeugnisinhalte
+# Anlage 2 – (zu § 11)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2215)
 
@@ -315,8 +296,7 @@ b) Benennung der beiden Handlungsbereiche und Bewertung mit Note,
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 4 Abs. 3)
+# Anlage 3 – (zu § 4 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 171; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
@@ -470,8 +450,7 @@ Transport
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 4 – (zu § 4 Abs. 2)
+# Anlage 4 – (zu § 4 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 170)
 

@@ -1,10 +1,7 @@
-# [VersatzV] Verordnung über den Versatz von Abfällen unter Tage  (Versatzverordnung - VersatzV)
-
-Ausfertigungsdatum: 24.07.2002
-
+% Verordnung über den Versatz von Abfällen unter Tage  (Versatzverordnung - VersatzV)
+% Ausfertigungsdatum: 24.07.2002
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Verwertung von Abfällen, die in den unter Bergaufsicht stehenden untertägigen Grubenbauen als Versatzmaterial eingesetzt werden. Sie gilt nicht für Anlagen zur untertägigen Endlagerung von radioaktiven Abfällen.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 24.07.2002
 
 3. Betreiber von Anlagen zur Herstellung von Versatzmaterial.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -33,13 +29,11 @@ Auf den konkreten Standort bezogener Nachweis der geologischen, geochemischen, g
 
 Konzentration der in Anlage 1 genannten Metalle im Einzelnen unvermischten Abfall. Sind Metalle chemisch gebunden, so ist der anteilige Metallgehalt in der Verbindung ausschlaggebend.
 
-
-## § 3 – Vorrang der Rückgewinnung von Metallen
+# § 3 – Vorrang der Rückgewinnung von Metallen
 
 Abfälle, welche die in Anlage 1 aufgeführten Metallgehalte erreichen, dürfen weder zur Herstellung von Versatzmaterial noch unmittelbar als Versatzmaterial eingesetzt werden, wenn die Gewinnung der Metalle aus den Abfällen technisch möglich und wirtschaftlich zumutbar sowie unter Einhaltung der Anforderungen an die Zulässigkeit einer solchen Verwertung durchführbar ist.
 
-
-## § 4 – Stoffliche Anforderungen an die Abfälle
+# § 4 – Stoffliche Anforderungen an die Abfälle
 
 (1) Der Einsatz von Abfällen zur Herstellung von Versatzmaterial sowie unmittelbar als Versatzmaterial ist nur zulässig, wenn die in Anlage 2 Tabelle 1 und Tabelle 1a aufgeführten Feststoffgrenz- und Zuordnungswerte im jeweiligen verwendeten unvermischten Abfall nicht überschritten werden und bei dem Einsatz des Versatzmaterials keine schädliche Verunreinigung des Grundwassers oder von oberirdischen Gewässern oder eine sonstige nachteilige Veränderung der Eigenschaften der Gewässer zu besorgen ist. Hierfür darf das Versatzmaterial die in Anlage 2 Tabelle 2 aufgeführten Grenzwerte im Eluat nicht überschreiten.
 
@@ -59,18 +53,15 @@ b) im Falle der zugelassenen Mitverbrennung von anderen Stoffen keine höheren s
 
 (5) Sonstige Anforderungen, wie sie sich aus bergrechtlichen oder gefahrstoffrechtlichen Rechtsvorschriften ergeben, bleiben unberührt.
 
-
-## § 5 – Inverkehrbringen von Abfällen
+# § 5 – Inverkehrbringen von Abfällen
 
 Abfälle dürfen zur Herstellung von Versatzmaterial sowie unmittelbar als Versatzmaterial nur in den Verkehr gebracht werden, um sie Anlagen zur Herstellung von Versatzmaterial oder untertägigen Grubenbauen zuzuführen, in denen die Anforderungen nach den §§ 3 und 4 eingehalten werden.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Werden aufgrund von vor dem 30. Oktober 2002 geltenden bergrechtlichen Zulassungen oder abgeschlossenen rechtsgültigen Entsorgungsverträgen Abfälle zur Herstellung von Versatzmaterial oder unmittelbar als Versatzmaterial eingesetzt, so sind die Anforderungen der §§ 3, 4 und 5 nach Ablauf der Zulassungen und der vertraglichen Bindungen, spätestens jedoch ab 1. März 2006, einzuhalten.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -78,8 +69,7 @@ Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgese
 
 2. entgegen § 5 Abfälle in den Verkehr bringt.
 
-
-## Anlage 1 – (zu § 2 Nr. 3, § 3, § 4 Abs. 4)
+# Anlage 1 – (zu § 2 Nr. 3, § 3, § 4 Abs. 4)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2835
 
@@ -118,8 +108,7 @@ Eisen
   
 Die angegebenen Konzentrationen beziehen sich auf den Feststoffgehalt des jeweiligen Abfalls.
 
-
-## Anlage 2 – (zu § 4)
+# Anlage 2 – (zu § 4)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2835 - 2836;  
 bzgl. der einzelnen Änderungen Vgl. Fußnote)
@@ -293,8 +282,7 @@ BTEX 5)
 
 20
 
-Für Salzbelastung (SO(tief)4(hoch)2-, CI(hoch)-, F(hoch)-) soll eine Gesamtleitfähigkeit von 500 mikroS/cm gelten. Der pH-Wert soll im Bereich von 5,5 bis 13 liegen. Der wasserlösliche Anteil (Abdampfrückstand) soll 3 Masse-% nicht überschreiten.  
------
+Für Salzbelastung (SO(tief)4(hoch)2-, CI(hoch)-, F(hoch)-) soll eine Gesamtleitfähigkeit von 500 mikroS/cm gelten. Der pH-Wert soll im Bereich von 5,5 bis 13 liegen. Der wasserlösliche Anteil (Abdampfrückstand) soll 3 Masse-% nicht überschreiten. -----
 
 1) PAK, gesamt: Summe der polycyclischen aromatischen Kohlenwasserstoffe ohne Naphthalin und Methylnaphthalin, in der Regel Bestimmung über die Summe von 15 Einzelsubstanzen gemäß Liste der US Environmental Protection Agency (EPA) ohne Naphthalin; ggf. unter Berücksichtigung weiterer relevanter PAK (z. B. Chinoline).
 
@@ -306,8 +294,7 @@ Für Salzbelastung (SO(tief)4(hoch)2-, CI(hoch)-, F(hoch)-) soll eine Gesamtleit
 
 5) BTEX-Aromaten, gesamt: Leichtflüchtige aromatische Kohlenwasserstoffe (Benzol, Toluol, Xylole, Ethylbenzol, Styrol, Cumol).
 
-
-## Anlage 3 – (zu § 4 Abs. 4)  Probenahme und Analytik
+# Anlage 3 – (zu § 4 Abs. 4)  Probenahme und Analytik
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2837 - 2838
 
@@ -421,8 +408,7 @@ Analyseverfahren
 
 Die anzuwendenden Verfahren sind in den Anhängen 2 und 3 aufgeführt.
 
-
-## Anhang 1
+# Anhang 1
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2839 - 2840
 
@@ -485,8 +471,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 2839 - 2840
     -------------------------------------------------------------------------------
     ------------------------------------------------------------------------------- 
 
-
-## Anhang 2 – Untersuchungsmethoden - Feststoffe
+# Anhang 2 – Untersuchungsmethoden - Feststoffe
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2841
 
@@ -635,8 +620,7 @@ November 1985
   
 ISO-Normen, EN-Normen und DIN-Normen, auf die in diesem Anhang verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 
-
-## Anhang 3 – Untersuchungsmethoden - Eluate
+# Anhang 3 – Untersuchungsmethoden - Eluate
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2842
 
@@ -841,8 +825,7 @@ Deutsche Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung Kation
 
 \- Bestimmung mittels ICP-AES
 
-
-## Anlage 4 – (zu § 4 Abs. 3 Satz 2)  Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
+# Anlage 4 – (zu § 4 Abs. 3 Satz 2)  Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2843 - 2847;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

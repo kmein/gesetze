@@ -1,25 +1,19 @@
-# [BEGSchlG] Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes  (BEG-Schlußgesetz)
-
-Ausfertigungsdatum: 14.09.1965
-
+% Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes  (BEG-Schlußgesetz)
+% Ausfertigungsdatum: 14.09.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art I
-
-\-
-
-
-## Art II
+# Art I
 
 \-
 
+# Art II
 
-## Art III – Übergangsvorschriften
+\-
+
+# Art III – Übergangsvorschriften
 
 1. (1) Steht einem Berechtigten auf Grund der Änderungen in Artikel I Nr. 1, 2, 3, 10, 87 und 94 dieses Gesetzes erstmalig ein Anspruch auf Entschädigung zu, so kann er einen Antrag auf Entschädigung bis zum 30. September 1966 stellen. Das gleiche gilt, soweit auf Grund der Änderungen in Artikel I Nr. 6, 11 bis 93 dieses Gesetzes ein einzelner Anspruch auf Entschädigung erstmalig begründet wird.
 
@@ -71,8 +65,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Soweit ein nach den in § 138 BEG genannten Vorschriften vor dem Inkrafttreten des Artikels I Nr. 77 gestellter Antrag wegen Fristversäumung abgelehnt worden ist, ist auf Antrag des Berechtigten oder, wenn dieser verstorben ist, einer der in § 1288 Abs. 2 der Reichsversicherungsordnung, § 65 Abs. 2 des Angestelltenversicherungsgesetzes oder § 88 Abs. 2 des Reichsknappschaftsgesetzes genannten Personen erneut zu entscheiden, wenn dieser Antrag innerhalb der im zweiten Halbsatz des § 138 BEG genannten Frist gestellt wird. Eine erneute Entscheidung von Amts wegen ist nicht ausgeschlossen. Der erneuten Entscheidung steht nicht entgegen, daß die frühere Entscheidung über den Antrag bindend oder rechtskräftig geworden ist.
 
-
-## Art IV – Angleichung
+# Art IV – Angleichung
 
 1. (1) Ist vor Verkündung dieses Gesetzes nach dem Bundesergänzungsgesetz oder dem Bundesentschädigungsgesetz über einen Anspruch für Schaden an Körper oder Gesundheit oder über einen Anspruch für Schaden im beruflichen Fortkommen durch unanfechtbaren Bescheid oder rechtskräftig gerichtlich entschieden worden, so ist auf Antrag des Berechtigten erneut über diesen Anspruch zu entscheiden,
 
@@ -94,8 +87,7 @@ b) soweit der Anspruch für Schaden im beruflichen Fortkommen abgelehnt oder in 
 
 3. § 172 BEG findet entsprechende Anwendung.
 
-
-## Art V – Sonderregelung für überregionale Verfolgtengruppen
+# Art V – Sonderregelung für überregionale Verfolgtengruppen
 
 1. (1) Der Verfolgte, dem die Freiheit auf die Dauer von mindestens sechs Monaten entzogen worden ist (§ 43 BEG) oder der eine nachhaltige Minderung der Erwerbsfähigkeit im Zeitpunkt der Entscheidung um mindestens 80 vom Hundert nachweist, erhält aus einem zu errichtenden Sonderfonds nach Maßgabe der Mittel dieses Fonds eine Beihilfe. Das gleiche gilt für die Witwe eines Verfolgten, der einen Schaden an Leben erlitten hat (§ 15 BEG), sowie für den Witwer einer Verfolgten unter den Voraussetzungen der §§ 15, 17 Abs. 1 Nr. 2 BEG; in diesen Fällen wird eine Beihilfe jedoch nur gewährt, wenn die Witwe oder der Witwer nicht wieder geheiratet hat.
 
@@ -179,8 +171,7 @@ bei einem Schaden an Leben unter den Voraussetzungen des Absatzes 1 Satz 2.
 
 (2)
 
-
-## Art VI – Sonderregelung für Nationalgeschädigte
+# Art VI – Sonderregelung für Nationalgeschädigte
 
 1. (1) Personen, die unter der nationalsozialistischen Gewaltherrschaft aus Gründen ihrer Nationalität unter Mißachtung der Menschenrechte geschädigt worden und am 1. Oktober 1953 Flüchtlinge im Sinne der Genfer Konvention vom 28. Juli 1951 gewesen sind, haben Anspruch auf Entschädigung für einen dauernden Schaden an Körper oder Gesundheit. Aus Gründen der Nationalität ist derjenige geschädigt, bei dem die Zugehörigkeit zu einem fremden Staat oder zu einem nichtdeutschen Volkstum ganz oder wesentlich den Grund für die schädigende Maßnahme gebildet hat. Soweit keine anderen Gründe für die unter Mißachtung der Menschenrechte vorgenommene schädigende Maßnahme ersichtlich sind, wird bei dem Personenkreis nach den Sätzen 1 und 2 vermutet, daß die Schädigung aus Gründen der Nationalität erfolgt ist.
 
@@ -240,20 +231,17 @@ Die Entschädigung wird auch in diesen Fällen nach Maßgabe dieses Artikels gew
 
 9. Die nach diesem Artikel zu leistenden Entschädigungsaufwendungen werden vom Bund getragen.
 
-
-## Art VII – Kostentragung bei Erledigung eines Rechtsstreits
+# Art VII – Kostentragung bei Erledigung eines Rechtsstreits
 
 Soweit sich ein Rechtsstreit auf Grund dieses Gesetzes erledigt, werden Gerichtskosten nicht erhoben. Jede Partei trägt ihre außergerichtlichen Auslagen.
 
-
-## Art VIII – Abschluß der Entschädigung
+# Art VIII – Abschluß der Entschädigung
 
 (1) Nach dem 31. Dezember 1969 können Ansprüche nach dem Bundesentschädigungsgesetz und nach diesem Gesetz nicht mehr angemeldet werden. Dies gilt nicht für den Anspruch auf Erstattung der Kosten eines Heilverfahrens für einen als verfolgungsbedingt anerkannten Schaden an Körper oder Gesundheit nach § 29 Nr. 1 BEG und nach Artikel VI Nr. 1 Abs. 3 Nr. 1 dieses Gesetzes, wenn das Heilverfahren erst nach dem 31. Dezember 1968 durchgeführt worden ist, sowie für den Anspruch auf Versorgung der Hinterbliebenen nach § 29 Nr. 6 BEG. § 206 BEG bleibt unberührt.
 
 (2) Absatz 1 Satz 1 gilt auch in den Fällen der §§ 90, 165 und 171 BEG sowie in den Fällen des Artikels V und des Artikels VI Nr. 4 dieses Gesetzes.
 
-
-## Art IX – Wiedergutmachung in der Strafrechtspflege
+# Art IX – Wiedergutmachung in der Strafrechtspflege
 
 (1) Die Rechtsvorschriften zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege, die eine Frist zur Stellung des Antrags auf Aufhebung strafgerichtlicher Entscheidungen vorsehen, treten insoweit außer Kraft.
 
@@ -261,20 +249,17 @@ Soweit sich ein Rechtsstreit auf Grund dieses Gesetzes erledigt, werden Gerichts
 
 (3) Ist ein Antrag auf Aufhebung einer strafgerichtlichen Entscheidung nach den in Absatz 1 bezeichneten Rechtsvorschriften lediglich wegen Ablaufs einer dort vorgesehenen Frist zurückgewiesen worden, so steht die Rechtskraft dieser Entscheidung der Zulässigkeit eines neuen Antrags nicht entgegen. Das gleiche gilt, wenn in den in Absatz 2 geregelten Fällen ein Antrag wegen mangelnder Zuständigkeit zurückgewiesen worden ist.
 
-
-## Art X
+# Art X
 
 \-
 
-
-## Art XI – Geltung im Land Berlin
+# Art XI – Geltung im Land Berlin
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 2. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 (2) Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## Art XII – Inkrafttreten
+# Art XII – Inkrafttreten
 
 Es treten in Kraft
 
@@ -315,7 +300,6 @@ am Tage der Verkündung dieses Gesetzes;
   
 am Ersten des auf die Verkündung dieses Gesetzes folgenden Monats.
 
-
-## Schlußformel
+# Schlußformel
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.

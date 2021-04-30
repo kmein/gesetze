@@ -1,10 +1,7 @@
-# [TierSchlV] Verordnung zum Schutz von Tieren im Zusammenhang mit der Schlachtung oder Tötung und zur Durchführung der Verordnung (EG) Nr. 1099/2009 des Rates  (Tierschutz-Schlachtverordnung - TierSchlV)
-
-Ausfertigungsdatum: 20.12.2012
-
+% Verordnung zum Schutz von Tieren im Zusammenhang mit der Schlachtung oder Tötung und zur Durchführung der Verordnung (EG) Nr. 1099/2009 des Rates  (Tierschutz-Schlachtverordnung - TierSchlV)
+% Ausfertigungsdatum: 20.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz verordnet auf Grund
 
@@ -19,8 +16,7 @@ des § 2a Absatz 1, des § 16 Absatz 5 Satz 1 in Verbindung mit Satz 2 Nummer 3 
 
 jeweils in Verbindung mit § 16b Absatz 1 Satz 2 des Tierschutzgesetzes nach Anhörung der Tierschutzkommission:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung dient dem Schutz von Tieren im Zusammenhang mit der Schlachtung oder Tötung, insbesondere der Durchführung der Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1).
 
@@ -46,8 +42,7 @@ jeweils in Verbindung mit § 16b Absatz 1 Satz 2 des Tierschutzgesetzes nach Anh
 
 4. einem Massenfang von Fischen, soweit es nach dem Stand der Wissenschaft nicht oder nur mit unverhältnismäßig hohem Aufwand möglich wäre, eine Betäubung durchzuführen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -71,15 +66,13 @@ das Unterbringen, Füttern, Tränken und die Pflege der Tiere, einschließlich d
 
 das Schlachten außerhalb eines Schlachthofes, soweit das Fleisch ausschließlich im eigenen Haushalt des Besitzers für den privaten häuslichen Verbrauch gewonnen und verwendet werden soll.
 
-
-## § 3 – Allgemeine Grundsätze
+# § 3 – Allgemeine Grundsätze
 
 (1) Zusätzlich zu den Anforderungen nach Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1099/2009 sind die Tiere so zu betreuen, ruhigzustellen, zu betäuben, zu schlachten oder zu töten, dass bei ihnen nicht mehr als unvermeidbare Aufregung oder Schäden verursacht werden.
 
 (2) Zusätzlich zu den Anforderungen nach Artikel 3 Absatz 3 der Verordnung (EG) Nr. 1099/2009 sind Vorrichtungen zum Ruhigstellen sowie Ausrüstungen und Anlagen für das Betäuben, Schlachten oder Töten der Tiere so zu planen, zu bauen, instand zu halten und zu verwenden, dass ein rasches und wirksames Betäuben und Schlachten oder Töten möglich ist.
 
-
-## § 4 – Sachkunde
+# § 4 – Sachkunde
 
 (1) Wer Tiere betreut, ruhigstellt, betäubt, schlachtet oder tötet, muss über die hierfür notwendigen Kenntnisse und Fähigkeiten (Sachkunde) verfügen.
 
@@ -103,8 +96,7 @@ das Schlachten außerhalb eines Schlachthofes, soweit das Fleisch ausschließlic
 
 muss über einen gültigen Sachkundenachweis nach Absatz 2 verfügen. Die Absätze 3 bis 7 sind entsprechend anzuwenden. Kleine Mengen im Sinne des Satzes 1 sind kleine Mengen nach § 3 Absatz 2 Nummer 3 der Tierischen Lebensmittel-Hygieneverordnung vom 8. August 2007 (BGBl. I S. 1816, 1828), die zuletzt durch Artikel 1 der Verordnung vom 10. November 2011 (BGBl. I S. 2233) geändert worden ist.
 
-
-## § 5 – Treiben und Befördern von Tieren innerhalb eines Schlachthofes
+# § 5 – Treiben und Befördern von Tieren innerhalb eines Schlachthofes
 
 (1) Zusätzlich zu den Vorschriften zum Umgang mit Tieren nach Anhang III Nummer 1.8. und 1.9. der Verordnung (EG) Nr. 1099/2009 ist die Anwendung elektrischer Treibgeräte nur innerhalb von Schlachthöfen bei gesunden und unverletzten über einem Jahr alten Rindern und über vier Monate alten Schweinen, die die Fortbewegung im Bereich der Vereinzelung vor oder während des unmittelbaren Zutriebs zur Fixationseinrichtung verweigern, zulässig. Elektrische Betäubungsgeräte dürfen nicht dazu verwendet werden, Tiere zur Bewegung zu veranlassen.
 
@@ -120,8 +112,7 @@ muss über einen gültigen Sachkundenachweis nach Absatz 2 verfügen. Die Absät
 
 entsprechend.
 
-
-## § 6 – Anforderungen an die Ausstattung
+# § 6 – Anforderungen an die Ausstattung
 
 Zusätzlich zu den Anforderungen an die Auslegung, den Bau und die Ausrüstung von Schlachthöfen nach Anhang II der Verordnung (EG) Nr. 1099/2009 hat der Betreiber eines Schlachthofes sicherzustellen, dass
 
@@ -139,8 +130,7 @@ b) Tiere in Behältnissen in aufrechter Stellung entladen werden,
 
 5. Treibgänge und Rampen eine Neigung von höchstens 20 Grad aufweisen, wobei die Neigung der Treibgänge zur Betäubungseinrichtung höchstens zehn Grad, für Rinder höchstens sieben Grad betragen darf.
 
-
-## § 7 – Allgemeine Vorschriften über das Betreuen von Tieren
+# § 7 – Allgemeine Vorschriften über das Betreuen von Tieren
 
 (1) Das nach Anhang II Nummer 1.2. der Verordnung (EG) Nr. 1099/2009 im Falle der Verwendung einer automatischen Be- oder Entlüftung erforderliche Alarmsystem muss den betreuenden Personen eine Betriebsstörung melden. Das Alarmsystem ist regelmäßig auf seine Funktionsfähigkeit zu überprüfen.
 
@@ -152,8 +142,7 @@ b) Tiere in Behältnissen in aufrechter Stellung entladen werden,
 
 (5) Das Allgemeinbefinden und der Gesundheitszustand der Tiere sind mindestens jeden Morgen und jeden Abend zu kontrollieren. Soweit notwendig, sind Tiere unverzüglich abzusondern oder zu töten.
 
-
-## § 8 – Betreuen von Tieren, die sich nicht in Behältnissen befinden
+# § 8 – Betreuen von Tieren, die sich nicht in Behältnissen befinden
 
 (1) Der Betreiber eines Schlachthofes hat sicherzustellen, dass
 
@@ -173,8 +162,7 @@ b) Tiere in Behältnissen in aufrechter Stellung entladen werden,
 
 Satz 1 Nummer 2 gilt nicht, soweit die Tiere innerhalb von sechs Stunden nach ihrer Ankunft der Schlachtung zugeführt werden. Satz 1 Nummer 3 gilt nicht, soweit die Tiere innerhalb von zwölf Stunden nach ihrer Ankunft der Schlachtung zugeführt werden.
 
-
-## § 9 – Aufbewahren von Fischen
+# § 9 – Aufbewahren von Fischen
 
 (1) Lebende Fische dürfen nur in Behältern aufbewahrt werden, deren Wasservolumen den Tieren ausreichende Bewegungsmöglichkeiten bietet. Unverträgliche Fische müssen voneinander getrennt gehalten werden. Den Wasserqualitäts-, Temperatur- und Lichtansprüchen der einzelnen Arten ist Rechnung zu tragen. Insbesondere müssen ein ausreichender Wasseraustausch und eine ausreichende Sauerstoffversorgung der Tiere sichergestellt sein.
 
@@ -182,13 +170,11 @@ Satz 1 Nummer 2 gilt nicht, soweit die Tiere innerhalb von sechs Stunden nach ih
 
 (3) An Endverbraucher dürfen Fische nicht lebend abgegeben werden.
 
-
-## § 10 – Aufbewahren von Krebstieren
+# § 10 – Aufbewahren von Krebstieren
 
 Das Aufbewahren lebender Krebstiere auf Eis ist verboten. Sie dürfen nur im Wasser oder nur vorübergehend während des Transports in unmittelbarem Zusammenhang mit der Abgabe an den Endverbraucher auf feuchter Unterlage aufbewahrt werden.
 
-
-## § 11 – Ruhigstellen warmblütiger Tiere
+# § 11 – Ruhigstellen warmblütiger Tiere
 
 (1) Tiere, die durch Anwendung eines mechanischen oder elektrischen Gerätes betäubt oder getötet werden sollen, sind in eine solche Stellung zu bringen, dass das Gerät ohne Schwierigkeiten, genau und so lange wie nötig angesetzt und bedient werden kann. Zu diesem Zweck sind bei Einhufern und Rindern deren Kopfbewegungen einzuschränken. In Schlachthöfen, in denen Schweine in einem Umfang geschlachtet werden, der nach dem in Artikel 17 Absatz 6 Buchstabe c und d der Verordnung (EG) Nr. 1099/2009 festgelegten Umrechnungssatz mehr als 20 Großvieheinheiten je Woche oder mehr als 1 000 Großvieheinheiten je Jahr beträgt, müssen Schweine mit einem Gewicht von über 30 Kilogramm bei Anwendung der Elektrobetäubung in Betäubungsfallen oder ähnlichen Einrichtungen einzeln ruhiggestellt werden.
 
@@ -196,8 +182,7 @@ Das Aufbewahren lebender Krebstiere auf Eis ist verboten. Sie dürfen nur im Was
 
 (3) Zusätzlich zu den Anforderungen des Artikels 9 Absatz 3 der Verordnung (EG) Nr. 1099/2009 dürfen Tiere erst dann ruhiggestellt werden, wenn die ausführende Person zur sofortigen Betäubung oder Tötung der Tiere bereitsteht.
 
-
-## § 12 – Betäuben, Schlachten und Töten
+# § 12 – Betäuben, Schlachten und Töten
 
 (1) Zusätzlich zu den Anforderungen an die Betäubung nach Artikel 4 Absatz 1 Satz 1 und 2 der Verordnung (EG) Nr. 1099/2009 sind Tiere so zu betäuben, dass sie schnell und unter Vermeidung von Schmerzen oder Leiden in einen bis zum Tod anhaltenden Zustand der Wahrnehmungs- und Empfindungslosigkeit versetzt werden.
 
@@ -241,8 +226,7 @@ ohne vorherige Betäubung geschlachtet oder getötet werden.
 
 werden. Führt die Elektrobetäubung nicht zum sofortigen Tod der Krebstiere, sind sie unmittelbar nach der Elektrobetäubung durch ein Verfahren nach Satz 1 oder Satz 2 Nummer 1 zu töten. Satz 1 und Satz 2 Nummer 2 gilt nicht im Falle des Rohverzehrs von Austern und der amtlichen Untersuchung von lebenden Schnecken oder Muscheln.
 
-
-## § 13 – Behördliche Zulassung weiterer Betäubungs- oder Tötungsverfahren
+# § 13 – Behördliche Zulassung weiterer Betäubungs- oder Tötungsverfahren
 
 (1) Abweichend von § 12 Absatz 3 Satz 1, auch in Verbindung mit Anlage 1, kann die zuständige Behörde befristet
 
@@ -256,13 +240,11 @@ werden. Führt die Elektrobetäubung nicht zum sofortigen Tod der Krebstiere, si
 
 (3) Abweichend von § 12 Absatz 3 Satz 1, auch in Verbindung mit Anlage 1, kann die zuständige Behörde befristet für eine nicht behördlich veranlasste Bestandsräumung andere Betäubungs- oder Tötungsverfahren zulassen, soweit die Tiere mit ihnen unter Vermeidung von Schmerzen oder Leiden sicher betäubt und getötet werden; § 12 Absatz 8 gilt entsprechend.
 
-
-## § 14 – Aufbewahrungs- und Vorlagepflichten
+# § 14 – Aufbewahrungs- und Vorlagepflichten
 
 Die Aufzeichnungen der Schlüsselparameter elektrischer Betäubungsverfahren nach Anhang II Nummer 4.1. Satz 1 und Nummer 5.10. Satz 1 der Verordnung (EG) Nr. 1099/2009 und die Aufzeichnungen über die Gaskonzentration und Expositionsdauer bei Gasbetäubungsverfahren nach Anhang II Nummer 6.2. Satz 1 der Verordnung (EG) Nr. 1099/2009 sind der zuständigen Behörde auf Verlangen zur Einsichtnahme vorzulegen.
 
-
-## § 15 – Entsprechende Anwendung von EU-Vorschriften
+# § 15 – Entsprechende Anwendung von EU-Vorschriften
 
 (1) Soweit das Töten von Tieren weder durch innerstaatliches Recht noch durch einen unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union geregelt ist, gelten die Artikel 3 Absatz 1 und Artikel 4 Absatz 1 Satz 1 in Verbindung mit Anhang I der Verordnung (EG) Nr. 1099/2009 entsprechend. Soweit nach Anlage 1 etwas anderes bestimmt oder zugelassen ist, gelten abweichend von Satz 1 die Regelungen der Anlage 1.
 
@@ -284,8 +266,7 @@ Die Aufzeichnungen der Schlüsselparameter elektrischer Betäubungsverfahren nac
 
 gilt Absatz 2 entsprechend.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe a des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -383,30 +364,25 @@ gilt Absatz 2 entsprechend.
 
 12. entgegen Artikel 17 Absatz 1 einen Tierschutzbeauftragten nicht vor Inbetriebnahme benennt.
 
-
-## § 17 – Übergangsbestimmungen
+# § 17 – Übergangsbestimmungen
 
 (1) Die Vorschriften der §§ 6, 7 Absatz 1 und 2 Satz 1 und des § 14 sind bis zum 8. Dezember 2019 auf Schlachthöfe oder Teile von Schlachthöfen nicht anzuwenden, soweit sie vor dem 1. Januar 2013 in Betrieb genommen worden sind.
 
 (2) Für Schlachthöfe oder Teile von Schlachthöfen sind, soweit sie vor dem 1. Januar 2013 in Betrieb genommen worden sind, abweichend von den §§ 6, 7 Absatz 1 und 2 Satz 1 und § 14 bis zum 8. Dezember 2019 die §§ 6, 7 Absatz 1 und 2 Satz 2, Absatz 3, 4 und 8, § 12 Absatz 2 sowie § 13 Absatz 6 Satz 1 in Verbindung mit Anlage 3 Teil II Nummer 3.7.2, Nummer 3.7.3 Satz 2 und 3, Nummer 3.8 Satz 1, Nummer 3.9, 4.4.2 Satz 2 und Nummer 4.5 sowie § 15 Absatz 1 Nummer 2 und Absatz 2 Nummer 2, 3 und 10 Buchstabe b Doppelbuchstabe bb der Tierschutz-Schlachtverordnung in der bis zum 31. Dezember 2012 geltenden Fassung weiter anzuwenden.
 
-
-## § 18 – Aufheben von Vorschriften
+# § 18 – Aufheben von Vorschriften
 
 Die Tierschutz-Schlachtverordnung vom 3. März 1997 (BGBl. I S. 405), die zuletzt durch Artikel 19 des Gesetzes vom 13. April 2006 (BGBl. I S. 855) geändert worden ist, wird aufgehoben.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 12 Absatz 3 und 10)Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
+# Anlage 1 – (zu § 12 Absatz 3 und 10)Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
 
 (Fundstelle: BGBl. I 2012, 2989 - 2992)
 
@@ -617,7 +593,6 @@ Kohlendioxidexposition bei Salmoniden,
 9.4  
 Verabreichung eines Stoffes mit Betäubungseffekt, ausgenommen Stoffe wie Ammoniak, die gleichzeitig dem Entschleimen dienen.
 
-
-## Anlage 2 – (zu § 12 Absatz 6)Höchstdauer zwischen Betäuben und Entblutungsschnitt
+# Anlage 2 – (zu § 12 Absatz 6)Höchstdauer zwischen Betäuben und Entblutungsschnitt
 
 (Fundstelle: BGBl. I 2012, 2993)

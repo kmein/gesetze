@@ -1,10 +1,7 @@
-# [Münz5DMBek 1986-09] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Friedrich der Große)
-
-Ausfertigungsdatum: 17.09.1986
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Friedrich der Große)
+% Ausfertigungsdatum: 17.09.1986
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, aus Anlaß des 200. Todestages von Friedrich dem Großen im Jahre 1986 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Stuttgart.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 17.09.1986
 
 (4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.
 
-(5) Die Bildseite zeigt ein Brustbild von Friedrich dem Großen im Profil mit Dreispitz und großem Ordensstern.  
-Die Umschrift lautet:  
+(5) Die Bildseite zeigt ein Brustbild von Friedrich dem Großen im Profil mit Dreispitz und großem Ordensstern. Die Umschrift lautet:  
 
 |                                   |
 |:----------------------------------|
@@ -38,12 +34,10 @@ Der glatte Münzrand enthält die vertiefte Inschrift:
 
 (8) Zwischen Ende und Anfang der Randschrift ist ein fünfeckiger Stern eingeprägt.
 
-(9) Der Entwurf der Münze stammt von Carl Vezerfi-Clemm, München.  
-  
+(9) Der Entwurf der Münze stammt von Carl Vezerfi-Clemm, München.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münzen
+# Abbildung der Münzen
 
 (Inhalt: nicht darstellbare Münzabbildungen,  
 Fundstelle: BGBl I 1986, 1525)

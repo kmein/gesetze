@@ -1,15 +1,11 @@
-# [PUDLV] Post-Universaldienstleistungsverordnung  (PUDLV)
-
-Ausfertigungsdatum: 15.12.1999
-
+% Post-Universaldienstleistungsverordnung  (PUDLV)
+% Ausfertigungsdatum: 15.12.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Abs. 2 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294) verordnet die Bundesregierung unter Wahrung der Rechte des Bundestages:
 
-
-## § 1 – Universaldienst
+# § 1 – Universaldienst
 
 (1) Als Universaldienstleistungen werden folgende Postdienstleistungen bestimmt:
 
@@ -41,8 +37,7 @@ Auf Grund des § 11 Abs. 2 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 32
 
 (4) Die Universaldienstleistungen umfassen sowohl Inlandsdienstleistungen als auch grenzüberschreitende Leistungen.
 
-
-## § 2 – Qualitätsmerkmale der Briefbeförderung
+# § 2 – Qualitätsmerkmale der Briefbeförderung
 
 Für den Universaldienst im Bereich der Briefdienstleistungen gelten die folgenden Qualitätsmerkmale:
 
@@ -56,8 +51,7 @@ Für den Universaldienst im Bereich der Briefdienstleistungen gelten die folgend
 
 5. Die Zustellung hat mindestens einmal werktäglich zu erfolgen.
 
-
-## § 3 – Qualitätsmerkmale der Paketbeförderung
+# § 3 – Qualitätsmerkmale der Paketbeförderung
 
 Für den Universaldienst im Bereich der Paketdienstleistungen gelten die folgenden Qualitätsmerkmale:
 
@@ -69,18 +63,15 @@ Für den Universaldienst im Bereich der Paketdienstleistungen gelten die folgend
 
 4. Die Zustellung hat mindestens einmal werktäglich zu erfolgen.
 
-
-## § 4 – Qualitätsmerkmale der Beförderung von Zeitungen und Zeitschriften
+# § 4 – Qualitätsmerkmale der Beförderung von Zeitungen und Zeitschriften
 
 Zeitungen und Zeitschriften sind im Rahmen des betrieblich Zumutbaren bedarfsgerecht zu befördern. § 2 Nr. 4 und 5 gilt entsprechend.
 
-
-## § 5 – Bürgereingabe
+# § 5 – Bürgereingabe
 
 Jedermann ist berechtigt, Maßnahmen zur Sicherstellung der in den §§ 2 bis 4 genannten Qualitätsvorgaben bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen anzuregen. Diese ist verpflichtet, auf die Bürgereingabe zu antworten.
 
-
-## § 6 – Entgelte
+# § 6 – Entgelte
 
 (1) Der Preis für die Universaldienstleistung nach § 1 Abs. 1 Nr. 1 gilt als erschwinglich, wenn er den am 31. Dezember 1997 geltenden realen Preis für die durchschnittliche Nachfrage eines Privathaushalts nach dieser Universaldienstleistung nicht übersteigt.
 
@@ -88,12 +79,10 @@ Jedermann ist berechtigt, Maßnahmen zur Sicherstellung der in den §§ 2 bis 4 
 
 (3) Für Postdienstleistungen, für die gemäß § 51 des Gesetzes eine Exklusivlizenz besteht, ist ein Einheitstarif anzuwenden. Satz 1 gilt nicht für Entgelte solcher Beförderungsleistungen, die eine Mindesteinlieferungsmenge von 50 Stück je Einlieferungsvorgang voraussetzen. Satz 1 berührt nicht das Recht des Universaldienstanbieters, mit Kunden individuelle Preisabsprachen zu treffen.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

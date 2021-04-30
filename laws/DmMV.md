@@ -1,20 +1,15 @@
-# [DmMV] Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln  (Dopingmittel-Mengen-Verordnung - DmMV)
-
-Ausfertigungsdatum: 03.07.2020
-
+% Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln  (Dopingmittel-Mengen-Verordnung - DmMV)
+% Ausfertigungsdatum: 03.07.2020
  
-
-## ----
+# ----
 
 Die nicht geringe Menge der Stoffe im Sinne des § 2 Absatz 3 des Anti-Doping-Gesetzes ist die in der Anlage bestimmte Menge. Die nicht geringe Menge wird für die freie Verbindung des betreffenden Stoffes angegeben.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2020, 1550 - 1553)
 
-I.  
-Anabole Stoffe
+I. Anabole Stoffe
 
 1. Anabol-androgene Steroide
 

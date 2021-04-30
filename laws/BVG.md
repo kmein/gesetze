@@ -1,10 +1,7 @@
-# [BVG] Gesetz über die Versorgung der Opfer des Krieges  (Bundesversorgungsgesetz - BVG)
-
-Ausfertigungsdatum: 27.06.1960
-
+% Gesetz über die Versorgung der Opfer des Krieges  (Bundesversorgungsgesetz - BVG)
+% Ausfertigungsdatum: 27.06.1960
  
-
-## § 1
+# § 1
 
 (1) Wer durch eine militärische oder militärähnliche Dienstverrichtung oder durch einen Unfall während der Ausübung des militärischen oder militärähnlichen Dienstes oder durch die diesem Dienst eigentümlichen Verhältnisse eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen der Schädigung auf Antrag Versorgung.
 
@@ -28,8 +25,7 @@ f) einen Unfall, den der Beschädigte bei der Durchführung einer der unter Buch
 
 (5) Ist der Beschädigte an den Folgen der Schädigung gestorben, so erhalten seine Hinterbliebenen auf Antrag Versorgung. Absatz 3 gilt entsprechend.
 
-
-## § 1a
+# § 1a
 
 (1) Leistungen sind zu versagen, wenn der Berechtigte oder derjenige, von dem sich die Berechtigung ableitet, während der Herrschaft des Nationalsozialismus gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat und er nach dem 13. November 1997 einen Antrag auf Leistungen gestellt hat. Anhaltspunkte, die eine besonders intensive Überprüfung erforderlich machen, ob ein Berechtigter durch sein individuelles Verhalten gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat, können sich insbesondere aus einer freiwilligen Mitgliedschaft des Berechtigten in der SS ergeben.
 
@@ -37,8 +33,7 @@ f) einen Unfall, den der Beschädigte bei der Durchführung einer der unter Buch
 
 (3) Soweit in den Fällen des Absatzes 2 die sofortige Entziehung oder Minderung der Leistungen zu unbilligen Härten führt, soll die Entziehung oder Minderung nach einer angemessenen Übergangsfrist erfolgen.
 
-
-## § 2
+# § 2
 
 (1) Militärischer Dienst im Sinne des § 1 Abs. 1 ist
 
@@ -54,8 +49,7 @@ d) der Dienst in den Heimatflakbatterien.
 
 (3) Bei deutschen Staatsangehörigen steht der Dienst in der Wehrmacht eines dem Deutschen Reich verbündet gewesenen Staates während eines der beiden Weltkriege oder in der tschechoslowakischen oder österreichischen Wehrmacht dem Dienst nach deutschem Wehrrecht gleich, wenn der Berechtigte vor dem 9. Mai 1945 seinen Wohnsitz oder ständigen Aufenthalt im Gebiet des Deutschen Reiches nach dem Stand vom 31. Dezember 1937 hatte.
 
-
-## § 3
+# § 3
 
 (1) Als militärähnlicher Dienst im Sinne des § 1 Abs. 1 gelten
 
@@ -89,8 +83,7 @@ o) der Dienst im Luftschutz auf Grund der Ersten Durchführungsverordnung zum Lu
 
 (2) Als militärähnlicher Dienst gilt nicht der Zivildienst, der auf Grund einer Dienstverpflichtung oder eines Arbeitsvertrags bei der Wehrmacht geleistet worden ist, es sei denn, daß der Einsatz mit besonderen, kriegseigentümlichen Gefahren für die Gesundheit verbunden war.
 
-
-## § 4
+# § 4
 
 (1) Zum militärischen oder militärähnlichen Dienst gehören auch
 
@@ -108,8 +101,7 @@ Hatte der Beschädigte wegen der Entfernung seiner ständigen Familienwohnung vo
 
 (3) Für Entlassene, die innerhalb der jetzigen Grenzen des Bundesgebiets keine Wohnung haben, gilt der Entlassungsweg mit dem Eintreffen an dem vorläufig zugewiesenen Aufenthaltsort als beendet.
 
-
-## § 5
+# § 5
 
 (1) Als unmittelbare Kriegseinwirkung im Sinne des § 1 Abs. 2 Buchstabe a gelten, wenn sie im Zusammenhang mit einem der beiden Weltkriege stehen,
 
@@ -129,13 +121,11 @@ a) mit dem zweiten Weltkrieg durch Angehörige oder sonstige Beschäftigte der B
 
 b) mit dem ersten Weltkrieg durch die in § 1 Nr. 1 des Gesetzes über den Ersatz der durch die Besetzung deutschen Reichsgebiets verursachten Personenschäden (Besatzungspersonenschädengesetz) in der Fassung der Bekanntmachung vom 12. April 1927 (RGBl. I S. 103) bezeichneten Ereignisse verursacht worden sind und zur Zuerkennung von Leistungen geführt hatten.
 
-
-## § 6
+# § 6
 
 In anderen als den in den §§ 2, 3 und 5 bezeichneten, besonders begründeten Fällen kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales das Vorliegen militärischen oder militärähnlichen Dienstes oder unmittelbarer Kriegseinwirkung anerkannt werden.
 
-
-## § 7
+# § 7
 
 (1) Dieses Gesetz wird angewendet auf
 
@@ -147,13 +137,11 @@ In anderen als den in den §§ 2, 3 und 5 bezeichneten, besonders begründeten F
 
 (2) Auf Kriegsopfer, die aus derselben Ursache einen Anspruch auf Versorgung gegen einen anderen Staat besitzen, wird das Gesetz nicht angewendet, es sei denn, daß zwischenstaatliche Vereinbarungen etwas anderes bestimmen.
 
-
-## § 8
+# § 8
 
 An Berechtigte mit Wohnsitz im Ausland werden Leistungen nach Maßgabe der §§ 64 bis 64f erbracht.
 
-
-## § 8a
+# § 8a
 
 (1) Einer Schädigung im Sinne des § 1 Abs. 1 steht eine Schädigung gleich, die ein Berechtigter oder Leistungsempfänger nach § 10 Abs. 4 oder 5 durch einen Unfall bei der Durchführung einer stationären Maßnahme nach § 12 Abs. 1 oder 4 oder § 26 oder auf dem notwendigen Hin- und Rückweg erleidet. Dies gilt entsprechend, wenn der Berechtigte oder Leistungsempfänger dem Verlangen eines zuständigen Leistungsträgers oder eines Gerichts, wegen der Versorgung persönlich zu erscheinen, folgt und dabei einen Unfall erleidet.
 
@@ -161,13 +149,11 @@ An Berechtigte mit Wohnsitz im Ausland werden Leistungen nach Maßgabe der §§ 
 
 (3) Einer Schädigung im Sinne des § 1 Abs. 1 steht eine Schädigung gleich, die eine nicht nach § 2 Abs. 1 Nr. 1 oder 9 des Siebten Buches Sozialgesetzbuch versicherte Begleitperson durch einen Unfall bei einer wegen der Folgen der Schädigung notwendigen Begleitung des Beschädigten auf einem Weg im Sinne des § 1 Abs. 2 Buchstabe e oder bei der notwendigen Begleitung während der Durchführung einer dort aufgeführten Maßnahme erleidet. Dies gilt entsprechend, wenn der Beschädigte dem Verlangen eines Leistungsträgers, einer anderen Behörde oder eines Gerichts folgt, persönlich zu erscheinen.
 
-
-## § 8b
+# § 8b
 
 Einer gesundheitlichen Schädigung im Sinne des § 1 Abs. 1 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 
-
-## § 9
+# § 9
 
 (1) Die Versorgung umfaßt
 
@@ -195,8 +181,7 @@ Einer gesundheitlichen Schädigung im Sinne des § 1 Abs. 1 steht die Beschädig
 
 5. die Pflegezulage nach § 35.
 
-
-## § 10
+# § 10
 
 (1) Heilbehandlung wird Beschädigten für Gesundheitsstörungen, die als Folge einer Schädigung anerkannt oder durch eine anerkannte Schädigungsfolge verursacht worden sind, gewährt, um die Gesundheitsstörungen oder die durch sie bewirkte Beeinträchtigung der Berufs- oder Erwerbsfähigkeit zu beseitigen oder zu bessern, eine Zunahme des Leidens zu verhüten, Pflegebedürftigkeit zu vermeiden, zu überwinden, zu mindern oder ihre Verschlimmerung zu verhüten, körperliche Beschwerden zu beheben, die Folgen der Schädigung zu erleichtern oder um den Beschädigten entsprechend den in § 4 Abs. 1 des Neunten Buches Sozialgesetzbuch genannten Zielen eine möglichst umfassende Teilhabe am Leben in der Gesellschaft zu ermöglichen. Ist eine Gesundheitsstörung nur im Sinne der Verschlimmerung als Folge einer Schädigung anerkannt, wird abweichend von Satz 1 Heilbehandlung für die gesamte Gesundheitsstörung gewährt, es sei denn, daß die als Folge einer Schädigung anerkannte Gesundheitsstörung auf den Zustand, der Heilbehandlung erfordert, ohne Einfluß ist.
 
@@ -242,8 +227,7 @@ Entsprechende Leistungen im Sinne dieses Absatzes sind Leistungen, die nach ihre
 
 (8) Heil- oder Krankenbehandlung kann auch vor der Anerkennung eines Versorgungsanspruchs gewährt werden.
 
-
-## § 11
+# § 11
 
 (1) Die Heilbehandlung umfaßt
 
@@ -293,8 +277,7 @@ Bei einzelnen Leistungen können auch die vollen Kosten übernommen werden. Empf
 
 (6) Die Heil- und Krankenbehandlung umfasst die Versorgung mit Brillengläsern und Kontaktlinsen; in Fällen des § 10 Abs. 2, 4 und 5 jedoch nur, wenn kein Versicherungsverhältnis zu einer gesetzlichen Krankenversicherung besteht. Der Anspruch auf Brillengläser umfasst auch die Ausstattung mit dem notwendigen Brillengestell, wenn die Brille zur Behandlung einer Gesundheitsstörung nach § 10 Abs. 1 oder wenn bei nichtschädigungsbedingt notwendigen Brillen wegen anerkannter Schädigungsfolgen eine aufwändigere Versorgung erforderlich ist.
 
-
-## § 11a
+# § 11a
 
 (1) Versehrtenleibesübungen werden in Übungsgruppen unter ärztlicher Betreuung und fachkundiger Leitung im Rahmen regelmäßiger örtlicher Übungsveranstaltungen geeigneter Sportgemeinschaften durchgeführt.
 
@@ -304,8 +287,7 @@ Bei einzelnen Leistungen können auch die vollen Kosten übernommen werden. Empf
 
 (4) Soweit sich die Verwaltungsbehörde bei der Erbringung der Leistungen geeigneter Sportorganisationen oder Sportgemeinschaften bedient, werden den organisatorischen Trägern die dadurch entstehenden Verwaltungskosten in angemessenem Umfang ersetzt.
 
-
-## § 12
+# § 12
 
 (1) Für die Krankenbehandlung gilt § 11 Abs. 1 mit Ausnahme von Satz 1 Nr. 4 entsprechend. Die Krankenbehandlung umfaßt auch Leistungen zur medizinischen Rehabilitation und ergänzende Leistungen; für diese Leistungen gelten die Vorschriften für die entsprechenden Leistungen der Krankenkasse (§ 18c Abs. 2 Satz 1).
 
@@ -317,8 +299,7 @@ Bei einzelnen Leistungen können auch die vollen Kosten übernommen werden. Empf
 
 (5) § 11 Abs. 4 gilt für Berechtigte oder Leistungsempfänger im Sinne des § 10 Abs. 4 und 5 entsprechend.
 
-
-## § 13
+# § 13
 
 (1) Die Versorgung mit Hilfsmitteln umfaßt die Ausstattung mit Körperersatzstücken, orthopädischen und anderen Hilfsmitteln, Blindenführhunden und mit dem Zubehör der Hilfsmittel, die Instandhaltung und den Ersatz der Hilfsmittel und des Zubehörs sowie die Ausbildung im Gebrauch von Hilfsmitteln.
 
@@ -330,18 +311,15 @@ Bei einzelnen Leistungen können auch die vollen Kosten übernommen werden. Empf
 
 (5) Zur Versorgung mit Körperersatzstücken kann das Bundesministerium für Arbeit und Soziales mit Leistungserbringern oder deren Verbänden Vereinbarungen abschließen, in denen die zu zahlenden Vergütungen und besondere Voraussetzungen der Versorgung geregelt werden.
 
-
-## § 14
+# § 14
 
 Beschädigte, bei denen Blindheit als Folge einer Schädigung anerkannt ist, erhalten monatlich 183 Euro zum Unterhalt eines Führhunds und als Beihilfe zu den Aufwendungen für fremde Führung.
 
-
-## § 15
+# § 15
 
 Verursachen die anerkannten Folgen der Schädigung außergewöhnlichen Verschleiß an Kleidung oder Wäsche, so sind die dadurch entstehenden Kosten mit einem monatlichen Pauschbetrag von 23 bis 151 Euro zu ersetzen. Der Pauschbetrag ergibt sich aus der Multiplikation von 2,317 Euro mit der auf Grund einer Rechtsverordnung nach § 24a Buchstabe d für den jeweiligen Verschleißtatbestand festgesetzten Bewertungszahl. Die sich ergebenden Beträge sind bis 0,49 Euro auf volle Euro abzurunden und von 0,50 Euro an auf volle Euro aufzurunden. Übersteigen in besonderen Fällen die tatsächlichen Aufwendungen die höchste Stufe des Pauschbetrags, so sind sie erstattungsfähig.
 
-
-## § 16
+# § 16
 
 (1) Versorgungskrankengeld nach Maßgabe der folgenden Vorschriften wird gewährt
 
@@ -367,8 +345,7 @@ keine ganztägige Erwerbstätigkeit ausüben kann.
 
 (5) Der Anspruch auf Versorgungskrankengeld ruht während der Elternzeit nach dem Bundeselterngeld- und Elternzeitgesetz. Dies gilt nicht, wenn die Arbeitsunfähigkeit vor Beginn der Elternzeit eingetreten ist oder das Versorgungskrankengeld aus dem Arbeitsentgelt zu berechnen ist, das durch Erwerbstätigkeit während der Elternzeit erzielt wurde.
 
-
-## § 16a
+# § 16a
 
 (1) Das Versorgungskrankengeld beträgt 80 vom Hundert des erzielten regelmäßigen Entgelts (Regelentgelt) und darf das entgangene regelmäßige Nettoarbeitsentgelt nicht übersteigen. Das Regelentgelt wird nach den Absätzen 2 und 3 berechnet. Das Versorgungskrankengeld wird für Kalendertage gezahlt. Ist es für einen ganzen Kalendermonat zu zahlen, so ist dieser mit 30 Tagen anzusetzen.
 
@@ -380,8 +357,7 @@ keine ganztägige Erwerbstätigkeit ausüben kann.
 
 (5) Bei der Berechnung des Regelentgelts ist für die im Jahr 2011 liegenden Entgeltabrechnungszeiträume § 9a Satz 1 Nummer 1 Buchstabe a des Einkommensteuergesetzes in der am 5. November 2011 geltenden Fassung anzuwenden.
 
-
-## § 16b
+# § 16b
 
 (1) Hat der Berechtigte unmittelbar vor Eintritt der Arbeitsunfähigkeit Einkünfte aus Land- und Forstwirtschaft (§§ 13 bis 14 des Einkommensteuergesetzes), aus Gewerbebetrieb (§§ 15 bis 17 des Einkommensteuergesetzes) oder aus selbständiger Arbeit (§ 18 des Einkommensteuergesetzes) erzielt, ist § 16a entsprechend anzuwenden.
 
@@ -401,23 +377,19 @@ c) bei Empfängern von Arbeitslosengeld oder Unterhaltsgeld ein Betrag in Höhe 
 
 (6) Ist Versorgungskrankengeld nach § 16a und nach den Absätzen 1 bis 5 zu berechnen, so ist ein einheitliches kalendertägliches Versorgungskrankengeld festzusetzen.
 
-
-## § 16c
+# § 16c
 
 (weggefallen)
 
-
-## § 16d
+# § 16d
 
 Hat der Berechtigte von einem anderen Rehabilitationsträger Krankengeld, Verletztengeld oder Übergangsgeld bezogen und ist ihm im Anschluß daran Versorgungskrankengeld nach den §§ 16 bis 16f zu gewähren, so ist bei der Berechnung des Versorgungskrankengelds von dem bisher zugrunde gelegten Entgelt auszugehen.
 
-
-## § 16e
+# § 16e
 
 Sind nach Abschluß der Heil- oder Krankenbehandlung oder einer Badekur Leistungen zur Teilhabe am Arbeitsleben erforderlich und können diese aus Gründen, die der Berechtigte nicht zu vertreten hat, nicht unmittelbar anschließend durchgeführt werden, so ist das Versorgungskrankengeld für diese Zeit weiterzugewähren, wenn der Berechtigte arbeitsunfähig ist und ihm ein Anspruch auf Krankengeld nicht zusteht oder wenn ihm eine zumutbare Beschäftigung nicht vermittelt werden kann.
 
-
-## § 16f
+# § 16f
 
 (1) Erhält der Berechtigte während des Bezugs von Versorgungskrankengeld Arbeitsentgelt, so ist das Versorgungskrankengeld um das um die gesetzlichen Abzüge verminderte Arbeitsentgelt zu kürzen; einmalig gezahltes Arbeitsentgelt sowie Leistungen des Arbeitgebers zum Versorgungskrankengeld, soweit sie zusammen mit dem Versorgungskrankengeld das vor der Arbeitsunfähigkeit erzielte, um die gesetzlichen Abzüge verminderte Arbeitsentgelt nicht übersteigen, bleiben außer Ansatz. Erzielt der Berechtigte während des Bezugs von Versorgungskrankengeld Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb oder aus selbständiger Arbeit, so ist das Versorgungskrankengeld um 80 vom Hundert der als Regelentgelt geltenden Beträge zu kürzen.
 
@@ -435,8 +407,7 @@ Sind nach Abschluß der Heil- oder Krankenbehandlung oder einer Badekur Leistung
 
 (5) § 71b findet entsprechende Anwendung.
 
-
-## § 16g
+# § 16g
 
 (1) Ist ein Arbeitnehmer am Tag nach der Beendigung eines auf einer Dienstpflicht beruhenden Dienstverhältnisses nach dem Zivildienstgesetz oder dem Bundesgrenzschutzgesetz vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist, wegen einer Gesundheitsstörung arbeitsunfähig, so werden dem privaten Arbeitgeber, der auf Grund eines bereits vor dem Beginn des Dienstverhältnisses bestehenden Arbeitsverhältnisses zur Fortzahlung des Arbeitsentgelts im Krankheitsfall verpflichtet ist, das fortgezahlte Arbeitsentgelt, die darauf entfallenden, von dem Arbeitgeber zu tragenden und abgeführten Beiträge zur Sozialversicherung und zur Arbeitsförderung sowie zu Einrichtungen der zusätzlichen Alters- und Hinterbliebenenversorgung erstattet, wenn die Gesundheitsstörung durch eine Schädigung im Sinne der §§ 47, 47a des Zivildienstgesetzes oder des § 59 des Bundesgrenzschutzgesetzes vom 18. August 1972 (BGBl. I S. 1834), das zuletzt durch Artikel 3 des Gesetzes vom 19. Oktober 1994 (BGBl. I S. 2978) geändert worden ist, verursacht worden ist.
 
@@ -446,18 +417,15 @@ Sind nach Abschluß der Heil- oder Krankenbehandlung oder einer Badekur Leistung
 
 (4) Die Aufwendungen der Arbeitgeber werden auf Antrag erstattet. Die Erstattung wird erst nach der Entscheidung über den Versorgungsanspruch geleistet. Der Anspruch auf die Erstattung verjährt mit Ablauf von vier Jahren seit dem Ende des Jahres der Beendigung des Dienstverhältnisses.
 
-
-## § 16h
+# § 16h
 
 Erfüllt der Arbeitgeber während der Arbeitsunfähigkeit des Berechtigten den Anspruch auf Fortzahlung des Arbeitsentgelts nicht, so geht der Anspruch des Berechtigten gegen den Arbeitgeber bis zur Höhe des gezahlten Versorgungskrankengelds auf den Kostenträger der Kriegsopferversorgung über. In dem Umfang, in dem der Arbeitgeber Erstattung nach § 16g Abs. 1 verlangen kann, ist dieser Anspruch nicht geltend zu machen.
 
-
-## § 17
+# § 17
 
 Führt eine notwendige Maßnahme der Behandlung einer anerkannten Schädigungsfolge (§ 10 Abs. 1, § 11 Abs. 1 und 2) zu einer erheblichen Beeinträchtigung der Erwerbsgrundlage des Beschädigten, so kann eine Beihilfe in angemessener Höhe gewährt werden; sie soll im allgemeinen 36 Euro täglich nicht übersteigen. Die Beihilfe kann auch gewährt werden, wenn die Einkünfte einschließlich des Versorgungskrankengelds infolge bestehender, unabwendbarer finanzieller Verpflichtungen nicht ausreichen, den notwendigen Lebensunterhalt zu bestreiten. Die Beihilfe ist jedoch nicht zu gewähren, soweit die finanziellen Belastungen auf einer Verpflichtung beruhen, durch die die Grundsätze wirtschaftlicher Lebensführung verletzt worden sind.
 
-
-## § 18
+# § 18
 
 (1) Die Leistungen nach den §§ 10 bis 24a werden als Sachleistungen erbracht, soweit sich aus diesem Gesetz oder dem Neunten Buch Sozialgesetzbuch nichts anderes ergibt. Sachleistungen sind Berechtigten und Leistungsempfängern ohne Beteiligung an den Kosten zu gewähren. Dasselbe gilt für den Ersatz der Fahrkosten im Rahmen der Heil- und Krankenbehandlung durch die Krankenkassen.
 
@@ -475,8 +443,7 @@ Führt eine notwendige Maßnahme der Behandlung einer anerkannten Schädigungsfo
 
 (8) Stirbt der Berechtigte, so können den Erben die Kosten der letzten Krankheit in angemessenem Umfang erstattet werden.
 
-
-## § 18a
+# § 18a
 
 (1) Die Leistungen nach den §§ 10 bis 24a werden auf Antrag gewährt; sie können auch von Amts wegen gewährt werden. Die Ausstellung eines Ausweises gilt als Antrag. Ist der Berechtigte Mitglied einer Krankenkasse, gelten Anträge auf Leistungen nach diesem Gesetz zugleich als Anträge auf die entsprechenden Leistungen der Krankenkasse, Anträge auf Leistungen der Krankenkasse zugleich als Anträge auf die entsprechenden Leistungen nach diesem Gesetz.
 
@@ -492,15 +459,13 @@ Führt eine notwendige Maßnahme der Behandlung einer anerkannten Schädigungsfo
 
 (7) Versorgungskrankengeld und Beihilfe nach § 17 enden mit dem Wegfall der Voraussetzungen für ihre Gewährung, dem Eintritt eines Dauerzustands, der Bewilligung einer Altersrente aus der gesetzlichen Rentenversicherung oder der Zahlung von Vorruhestandsgeld. Ein Dauerzustand ist gegeben, wenn die Arbeitsunfähigkeit in den nächsten 78 Wochen voraussichtlich nicht zu beseitigen ist. Versorgungskrankengeld und Beihilfe werden bei Wegfall der Voraussetzungen für ihre Gewährung bis zu dem Tag gewährt, an dem diese Voraussetzungen entfallen. Bei Eintritt eines Dauerzustands oder Bewilligung einer Altersrente werden Versorgungskrankengeld und Beihilfe, sofern sie laufend gewährt werden, bis zum Ablauf von zwei Wochen nach Feststellung des Dauerzustands, bei Altersrentenbewilligung bis zu dem Tag gewährt, an dem der Berechtigte von der Bewilligung Kenntnis erhalten hat. Bei Zahlung von Vorruhestandsgeld enden Versorgungskrankengeld und Beihilfe nach § 17 mit dem Tag, der dem Beginn des Vorruhestandes vorausgeht. Werden die Leistungen nicht laufend gewährt, so werden sie bis zu dem Tag der Feststellung des Dauerzustands oder des Beginns der Altersrente gewährt. Die Feststellung eines Dauerzustands ist ausgeschlossen, solange dem Berechtigten stationäre Behandlungsmaßnahmen gewährt werden oder solange er nicht seit mindestens 78 Wochen ununterbrochen arbeitsunfähig ist; Zeiten einer voraufgehenden, auf derselben Krankheit beruhenden Arbeitsunfähigkeit sind auf diese Frist anzurechnen, soweit sie in den letzten drei Jahren vor Eintritt der Arbeitsunfähigkeit liegen. Badekuren und stationäre Behandlungen in Rehabilitationseinrichtungen enden mit Ablauf der für die Behandlung vorgesehenen Frist. Leistungen, die in Jahresbeträgen zuerkannt werden, enden mit Ablauf des Kalenderjahrs, in dem die Voraussetzungen für ihre Gewährung entfallen sind.
 
-
-## § 18b
+# § 18b
 
 Berechtigte und Leistungsempfänger, die Leistungen nur auf Grund dieses Gesetzes erhalten, sowie die Berechtigten, die nach § 10 des Fünften Buches Sozialgesetzbuch versichert sind, haben sich bei Ärzten und anderen Leistungserbringern auszuweisen. § 15 des Fünften Buches Sozialgesetzbuch gilt entsprechend.
 
 (+++ § 18b: Zur Anwendung vgl. OEGÄndG 2 Art. 6 F. ab 23.7.1991 +++)
 
-
-## § 18c
+# § 18c
 
 (1) Die §§ 10 bis 24a werden von der Verwaltungsbehörde durchgeführt. Im Rahmen dieser Zuständigkeit erbringen die Verwaltungsbehörden Zahnersatz, Versorgung mit Hilfsmitteln, Bewegungstherapie, Sprachtherapie, Beschäftigungstherapie, Belastungserprobung, Arbeitstherapie, Badekuren nach § 11 Abs. 2 und § 12 Abs. 3, Ersatzleistungen, Versehrtenleibesübungen, Zuschüsse zur Beschaffung von Zahnersatz, Führhundzulage, Beihilfe zu den Aufwendungen für fremde Führung, Pauschbetrag als Ersatz für Kleider- und Wäscheverschleiß, Erstattungen nach § 16g, Beihilfe nach § 17, Leistungen nach § 18 Abs. 3 bis 8 und § 24, soweit die Verwaltungsbehörde für die Erbringung der Hauptleistung zuständig ist, Kostenerstattungen an Krankenkassen, Beiträge zur gesetzlichen Rentenversicherung für Zeiten des Bezugs von Versorgungskrankengeld, Ersatz der Aufwendungen für die Alterssicherung sowie Beiträge zur Arbeitsförderung. Die übrigen Leistungen werden von den Krankenkassen für die Verwaltungsbehörde erbracht. Insoweit sind die Berechtigten und Leistungsempfänger der Krankenordnung unterworfen.
 
@@ -514,15 +479,13 @@ Berechtigte und Leistungsempfänger, die Leistungen nur auf Grund dieses Gesetze
 
 (6) Ärzte, Krankenhäuser und sonstige Leistungserbringer sind verpflichtet, der Verwaltungsbehörde und der Krankenkasse (Absatz 2 Satz 1) die in den §§ 294, 295, 298 und 301 bis 303 des Fünften Buches Sozialgesetzbuch bezeichneten Daten zu übermitteln, soweit dies zur Aufgabenerfüllung der Verwaltungsbehörde oder der Krankenkasse erforderlich ist.
 
-
-## § 19
+# § 19
 
 Den Krankenkassen werden Aufwendungen für Leistungen erstattet, die sie nach § 18c erbracht haben. Aufwendungen für ihre Mitglieder werden ihnen nur erstattet, soweit diese Aufwendungen durch Behandlung anerkannter Schädigungsfolgen entstanden sind.
 
 (+++ § 19: Zur Anwendung vgl. OEGÄndG 2 Art. 6 F. ab 23.7.1991 +++)
 
-
-## § 20
+# § 20
 
 (1) Die Erstattungsansprüche der Krankenkassen nach § 19 werden pauschal abgegolten. Grundlage für die Festsetzung des Pauschalbetrages eines Kalenderjahres ist die Erstattung des Vorjahres. Sie wird um den Vom-Hundert-Satz verändert, um den sich die Zahl der rentenberechtigten Beschädigten und Hinterbliebenen am 1. Juli des Jahres im Vergleich zum 1. Juli des Vorjahres verändert hat. Dieses Ergebnis wird dann um den Vom-Hundert-Satz verändert, um den sich die Ausgaben der Krankenkassen je Mitglied und Rentner einschließlich Familienangehörige für ärztliche und zahnärztliche Behandlung (ohne Zahnersatz und ohne kieferorthopädische Behandlung), für Arznei- und Verbandmittel, für Heilmittel, für Krankenhausbehandlung und für Fahrkosten jeweils im ersten Halbjahr gegenüber dem ersten Halbjahr des Vorjahres verändert haben. Mit der Zahlung dieses Pauschalbetrages sind die in § 19 genannten Aufwendungen der Krankenkassen abgegolten.
 
@@ -534,15 +497,13 @@ Den Krankenkassen werden Aufwendungen für Leistungen erstattet, die sie nach §
 
 (+++ § 20: Zur Anwendung vgl. OEGÄndG 2 Art. 6 F. ab 23.7.1991 und OEG § 1 Abs. 13 F. ab 25.7.1996 und BSeuchG § 54 Abs. 3a F. ab 25.7.1996 +++)
 
-
-## § 21
+# § 21
 
 Für die Erstattung nach § 18c Abs. 5 gelten die §§ 107 bis 114 des Zehnten Buches Sozialgesetzbuch. Die Verjährung beginnt mit Ablauf des Jahres, in dem die Heil- oder Krankenbehandlung durchgeführt worden ist, frühestens jedoch mit der Anerkennung des Versorgungsanspruchs.
 
 (+++ § 21: Zur Anwendung vgl. OEGÄndG 2 Art. 6 F. ab 23.7.1991 +++)
 
-
-## § 22
+# § 22
 
 (1) Die Verwaltungsbehörde entrichtet für Berechtigte die Beiträge zur gesetzlichen Rentenversicherung für Zeiten des Bezugs von Versorgungskrankengeld sowie den Beitrag zur Arbeitsförderung.
 
@@ -550,13 +511,11 @@ Für die Erstattung nach § 18c Abs. 5 gelten die §§ 107 bis 114 des Zehnten B
 
 (3) Die Krankenkasse benennt der Verwaltungsbehörde vierteljährlich die Bezieher von Versorgungskrankengeld, macht die für die Entrichtung der Beträge erforderlichen Angaben und legt auf Anfrage der Verwaltungsbehörde entsprechende Unterlagen vor.
 
-
-## § 23
+# § 23
 
 (weggefallen)
 
-
-## § 24
+# § 24
 
 (1) Berechtigte haben Anspruch auf Übernahme der Reisekosten, die im Zusammenhang mit einer Leistung der Heil- oder Krankenbehandlung sowie bei einer Badekur entstehen. Den Berechtigten werden für sich, eine notwendige Begleitung sowie für Kinder, deren Mitnahme an den Rehabilitationsort erforderlich ist, weil ihre anderweitige Betreuung nicht sichergestellt ist, die notwendigen Reisekosten einschließlich des erforderlichen Gepäcktransports sowie der Kosten für Verpflegung und Unterkunft in angemessenem Umfang ersetzt. Dauert die Maßnahme länger als acht Wochen, so können auch die notwendigen Reisekosten für Familienheimfahrten oder für Fahrten eines Familienangehörigen zum Aufenthaltsort des Berechtigten oder Leistungsempfängers übernommen werden. Wird eine stationäre Behandlung ohne zwingenden Grund abgebrochen, besteht kein Anspruch auf Ersatz der Reisekosten.
 
@@ -570,8 +529,7 @@ Satz 1 Buchstabe b gilt auch im Zusammenhang mit Leistungen, die die Krankenkass
 
 (3) Ist ohne behördliche Zustimmung ein Hilfsmittel (§ 13 Abs. 1) angepaßt, geändert oder ausgebessert worden, so werden Ersatz der baren Auslagen und Entschädigung für entgangenen Arbeitsverdienst in angemessenem Umfang gewährt, wenn die Notwendigkeit der Maßnahme anerkannt wird.
 
-
-## § 24a
+# § 24a
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -583,8 +541,7 @@ c) für Beschädigte nach dem Bundesversorgungsgesetz und den Gesetzen, die eine
 
 d) die Bemessung des Pauschbetrags für Kleider- und Wäscheverschleiß für einzelne Gruppen von Schädigungsfolgen und die Bestimmung der besonderen Fälle im Sinne des § 15 zu regeln.
 
-
-## § 25
+# § 25
 
 (1) Leistungen der Kriegsopferfürsorge erhalten Beschädigte und Hinterbliebene zur Ergänzung der übrigen Leistungen nach diesem Gesetz als besondere Hilfen im Einzelfall (§ 24 Abs. 1 Nr. 2 des Ersten Buches Sozialgesetzbuch).
 
@@ -616,8 +573,7 @@ wenn der Beschädigte den Lebensunterhalt des Familienmitglieds überwiegend bes
 
 (6) Der Anspruch auf Leistung in einer Einrichtung (§ 25b Abs. 1 Satz 2) oder auf Pflegegeld (§ 26c Absatz 1) steht, soweit die Leistung den Leistungsberechtigten erbracht worden wäre, nach ihrem Tode denjenigen zu, die die Hilfe erbracht oder die Pflege geleistet haben.
 
-
-## § 25a
+# § 25a
 
 (1) Leistungen der Kriegsopferfürsorge werden erbracht, wenn und soweit die Beschädigten infolge der Schädigung und die Hinterbliebenen infolge des Verlustes des Ehegatten oder Lebenspartners, Elternteils, Kindes oder Enkelkinds nicht in der Lage sind, den nach den nachstehenden Vorschriften anzuerkennenden Bedarf aus den übrigen Leistungen nach diesem Gesetz und dem sonstigen Einkommen und Vermögen zu decken.
 
@@ -629,8 +585,7 @@ wenn der Beschädigte den Lebensunterhalt des Familienmitglieds überwiegend bes
 
 3. bei Hinterbliebenen, die voll erwerbsgemindert oder erwerbsunfähig im Sinne des Sechsten Buches Sozialgesetzbuch sind oder das 60. Lebensjahr vollendet haben.
 
-
-## § 25b
+# § 25b
 
 (1) Leistungen der Kriegsopferfürsorge sind
 
@@ -664,8 +619,7 @@ Wird die Leistung in einer stationären oder teilstationären Einrichtung erbrac
 
 (5) Art, Ausmaß und Dauer der Leistungen der Kriegsopferfürsorge richten sich nach der Besonderheit des Einzelfalls, der Art des Bedarfs und den örtlichen Verhältnissen. Dabei sind Art und Schwere der Schädigung, Gesundheitszustand und Lebensalter sowie die Lebensstellung vor Eintritt der Schädigung oder vor Auswirkung der Folgen der Schädigung oder vor dem Verlust des Ehegatten oder Lebenspartners, Elternteils, Kindes oder Enkelkinds besonders zu berücksichtigen. Wünschen der Leistungsberechtigten, die sich auf die Gestaltung der Leistung richten, soll entsprochen werden, soweit sie angemessen sind und keine unvertretbaren Mehrkosten erfordern.
 
-
-## § 25c
+# § 25c
 
 (1) Die Höhe der Geldleistungen bemißt sich nach dem Unterschied zwischen dem anzuerkennenden Bedarf und dem einzusetzenden Einkommen und Vermögen; § 26 Abs. 5 und § 26a bleiben unberührt. Darüber hinaus können in begründeten Fällen Geldleistungen auch insoweit erbracht werden, als zur Deckung des Bedarfs Einkommen oder Vermögen der Leistungsberechtigten einzusetzen oder zu verwerten ist; in diesem Umfang haben sie dem Träger der Kriegsopferfürsorge die Aufwendungen zu erstatten.
 
@@ -675,8 +629,7 @@ Wird die Leistung in einer stationären oder teilstationären Einrichtung erbrac
 
 (4) (weggefallen)
 
-
-## § 25d
+# § 25d
 
 (1) Einkommen im Sinne der Vorschriften über die Kriegsopferfürsorge sind alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen der Kriegsopferfürsorge; § 26a Abs. 4 bleibt unberührt. Als Einkommen gelten nicht die Grundrente und die Schwerstbeschädigtenzulage sowie ein Betrag in Höhe der Grundrente, soweit nach § 44 Abs. 5 Leistungen auf die Witwengrundrente angerechnet werden oder soweit die Grundrente nach § 65 ruht. Satz 2 gilt auch für den der Witwen- und Waisenbeihilfe nach § 48 zugrunde liegenden Betrag der Grundrente.
 
@@ -722,8 +675,7 @@ Satz 1 gilt auch, wenn die 33 Jahre durch die Zusammenrechnung der Zeiten nach S
 
 (6) (weggefallen)
 
-
-## § 25e
+# § 25e
 
 (1) Einkommen der Leistungsberechtigten ist zur Bedarfsdeckung nur einzusetzen, soweit es im Monat eine Einkommensgrenze übersteigt, die sich ergibt aus
 
@@ -743,8 +695,7 @@ höchstens jedoch aus einem Betrag in Höhe von einem Zwölftel des Bemessungsbe
 
 (5) Soweit im Einzelfall Einkommen zur Deckung eines bestimmten Bedarfs einzusetzen ist, kann der Einsatz dieses Einkommens zur Deckung eines anderen, gleichzeitig bestehenden Bedarfs nicht verlangt werden. Sind unterschiedliche Einkommensgrenzen maßgebend, ist zunächst über die Leistung zu entscheiden, für welche die niedrigere Einkommensgrenze maßgebend ist. Sind gleiche Einkommensgrenzen maßgebend und verschiedene Träger der Kriegsopferfürsorge zuständig, hat die Entscheidung über die Leistung für den zuerst eingetretenen Bedarf den Vorrang; treten die Bedarfsfälle gleichzeitig ein, ist das über der Einkommensgrenze liegende Einkommen zu gleichen Teilen bei den Bedarfsfällen zu berücksichtigen.
 
-
-## § 25f
+# § 25f
 
 (1) Einzusetzen ist das gesamte verwertbare Vermögen. Dies gilt auch für Ansparungen aus Leistungen nach diesem Gesetz. Leistungen der Kriegsopferfürsorge dürfen nicht von dem Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für die Leistungsberechtigten, die das Vermögen einzusetzen haben, und für ihre unterhaltsberechtigten Angehörigen eine Härte bedeuten würde. Dies ist der Fall, wenn der Einsatz des Vermögens eine angemessene Lebensführung, die Aufrechterhaltung einer angemessenen Alterssicherung oder die Sicherstellung einer angemessenen Bestattung und Grabpflege wesentlich erschweren würde. Vermögenswerte aus Nachzahlungen von Renten nach diesem Gesetz bleiben für einen Zeitraum von einem Jahr unberücksichtigt. Im Übrigen gelten § 90 Absatz 2 Nummer 1 bis 7 und 9, § 91 des Zwölften Buches Sozialgesetzbuch sowie § 25c Absatz 3 entsprechend.
 
@@ -772,8 +723,7 @@ Abweichend von Satz 1 ist das Vermögen der Eltern nicht einzusetzen oder zu ver
 
 (5) (weggefallen)
 
-
-## § 26
+# § 26
 
 (1) Beschädigte erhalten Leistungen zur Teilhabe am Arbeitsleben nach den §§ 49 bis 55 des Neunten Buches Sozialgesetzbuch sowie Leistungen im Eingangsverfahren und im Berufsbildungsbereich der Werkstätten für behinderte Menschen nach § 57 des Neunten Buches Sozialgesetzbuch und entsprechende Leistungen bei anderen Leistungsanbietern nach § 60 des Neunten Buches Sozialgesetzbuch sowie als Budget für Ausbildung nach § 61a des Neunten Buches Sozialgesetzbuch.
 
@@ -797,8 +747,7 @@ Abweichend von Satz 1 ist das Vermögen der Eltern nicht einzusetzen oder zu ver
 
 (6) Witwen, Witwer oder hinterbliebene Lebenspartner, die zur Erhaltung einer angemessenen Lebensstellung erwerbstätig sein wollen, sind in begründeten Fällen Leistungen in sinngemäßer Anwendung der Absätze 1 bis 5 mit Ausnahme des Absatzes 4 Nr. 4 zu erbringen.
 
-
-## § 26a
+# § 26a
 
 (1) Der Anspruch auf Übergangsgeld sowie die Höhe und Berechnung bestimmen sich nach Teil 1 Kapitel 11 des Neunten Buches Sozialgesetzbuch; im Übrigen gelten für die Berechnung des Übergangsgelds die §§ 16a, 16b und 16f entsprechend.
 
@@ -812,8 +761,7 @@ b) das nach § 66 Absatz 1 Satz 1 oder § 67 Absatz 1 des Neunten Buches Sozialg
 
 (4) Kommen neben Leistungen nach § 26 weitere Hilfen der Kriegsopferfürsorge in Betracht, gelten Übergangsgeld und Unterhaltsbeihilfe als Einkommen.
 
-
-## § 26b
+# § 26b
 
 (1) Krankenhilfe erhalten Beschädigte und Hinterbliebene in Ergänzung der Leistungen der Heil- und Krankenbehandlung nach diesem Gesetz. Die §§ 10 bis 24a bleiben unberührt.
 
@@ -823,8 +771,7 @@ b) das nach § 66 Absatz 1 Satz 1 oder § 67 Absatz 1 des Neunten Buches Sozialg
 
 (4) Nachdem die Krankheit während eines zusammenhängenden Zeitraums von drei Monaten entweder dauerndes Krankenlager oder wegen ihrer besonderen Schwere ständige ärztliche Betreuung erfordert hat, ist bei der Festsetzung der Einkommensgrenze § 27d Abs. 5 Satz 1 Nr. 1 entsprechend anzuwenden.
 
-
-## § 26c
+# § 26c
 
 (1) Beschädigte und Hinterbliebene erhalten Hilfe zur Pflege in entsprechender Anwendung von § 13 des Zwölften Buches Sozialgesetzbuch sowie des Siebten Kapitels des Zwölften Buches Sozialgesetzbuch, soweit in den folgenden Absätzen nichts Abweichendes geregelt ist.
 
@@ -848,8 +795,7 @@ Der Familienzuschlag beträgt 40 Prozent des Grundbetrages nach § 25e Absatz 1 
 
 (6) Werden Leistungen der Hilfe zur Pflege für ein volljähriges Kind der Beschädigten erbracht, haben Beschädigte Einkommen und Vermögen bis zur Höhe des Betrages nach § 27h Absatz 2 Satz 3 einzusetzen, soweit das Einkommen die für die Leistung maßgebliche Einkommensgrenze nach § 25e Absatz 1 oder § 26c Absatz 5 oder das Vermögen die Vermögensgrenze nach § 25f übersteigt.
 
-
-## § 26d
+# § 26d
 
 (1) Beschädigte und Hinterbliebene mit eigenem Haushalt sollen Leistungen zur Weiterführung des Haushalts erhalten, wenn weder sie selbst noch Haushaltsangehörige, mit denen sie zusammenleben, den Haushalt führen können und die Weiterführung des Haushalts geboten ist. Der Träger der Kriegsopferfürsorge soll darauf hinwirken, dass die Weiterführung des Haushalts durch Personen, die den Beschädigten und Hinterbliebenen nahestehen, oder im Wege der Nachbarschaftshilfe übernommen wird. Die Leistungen sollen in der Regel nur vorübergehend erbracht werden. Satz 3 gilt nicht, wenn durch die Leistungen die Unterbringung in einer stationären Einrichtung vermieden oder aufgeschoben werden kann.
 
@@ -859,8 +805,7 @@ Der Familienzuschlag beträgt 40 Prozent des Grundbetrages nach § 25e Absatz 1 
 
 (4) Die Leistungen können auch durch Übernahme der angemessenen Kosten für eine vorübergehende anderweitige Unterbringung von Haushaltsangehörigen erbracht werden, wenn diese Unterbringung in besonderen Fällen neben oder statt der Weiterführung des Haushalts geboten ist.
 
-
-## § 26e
+# § 26e
 
 (1) Altenhilfe soll außer den Leistungen nach den übrigen Bestimmungen dieses Gesetzes Beschädigten und Hinterbliebenen erbracht werden. Sie soll dazu beitragen, Schwierigkeiten, die durch das Alter entstehen, zu verhüten, zu überwinden oder zu mildern und Beschädigten und Hinterbliebenen im Alter die Möglichkeit zu erhalten, selbstbestimmt am Leben in der Gemeinschaft teilzunehmen und ihre Fähigkeiten zur Selbsthilfe zu stärken.
 
@@ -884,8 +829,7 @@ Der Familienzuschlag beträgt 40 Prozent des Grundbetrages nach § 25e Absatz 1 
 
 (5) Die Leistungen der Altenhilfe sind mit den übrigen Leistungen dieses Gesetzes, den Leistungen der örtlichen Altenhilfe und der kommunalen Infrastruktur zur Vermeidung sowie Verringerung der Pflegebedürftigkeit und zur Inanspruchnahme der Leistungen der Eingliederungshilfe zu verzahnen. Die Ergebnisse der Gesamtplanung nach § 121 des Neunten Buches Sozialgesetzbuch sowie die Grundsätze der Koordination, Kooperation und Konvergenz der Leistungen nach den Vorschriften des Neunten Buches Sozialgesetzbuch sind zu berücksichtigen.
 
-
-## § 27
+# § 27
 
 (1) Erziehungsbeihilfe erhalten
 
@@ -893,8 +837,7 @@ a) Waisen, die Rente oder Waisenbeihilfe nach diesem Gesetz beziehen, und
 
 b) Beschädigte, die Grundrente nach § 31 beziehen, für ihre Kinder sowie für Kinder im Sinne von § 25 Abs. 4 Satz 2 Nr. 3.
 
-§ 25 Abs. 3 Satz 2 gilt entsprechend.  
-Die Erziehungsbeihilfe soll eine Erziehung zu körperlicher, geistiger und sittlicher Tüchtigkeit sowie eine angemessene, den Anlagen und Fähigkeiten entsprechende allgemeine und berufliche Ausbildung sicherstellen.
+§ 25 Abs. 3 Satz 2 gilt entsprechend. Die Erziehungsbeihilfe soll eine Erziehung zu körperlicher, geistiger und sittlicher Tüchtigkeit sowie eine angemessene, den Anlagen und Fähigkeiten entsprechende allgemeine und berufliche Ausbildung sicherstellen.
 
 (2) Erziehungsbeihilfe wird erbracht, soweit der angemessene Bedarf für Erziehung, Ausbildung und Lebensunterhalt durch das einzusetzende Einkommen und Vermögen der Waisen und ihrer Elternteile oder durch das einzusetzende Einkommen und Vermögen Beschädigter und ihrer Kinder im Sinne von Absatz 1 Satz 1 Buchstabe b nicht gedeckt ist. Bei der Ermittlung des Bedarfs für den Lebensunterhalt bleiben Kosten der Unterkunft in der Familie unberücksichtigt. § 25e Abs. 1 ist mit der Maßgabe anzuwenden, daß für das Kind oder die Waise, für die Erziehungsbeihilfe beantragt ist oder erbracht wird, ein Familienzuschlag nicht anzusetzen ist; das gilt auch in den Fällen von Satz 5 erster Halbsatz sowie bei der Feststellung der Einkommensgrenze für den Ehegatten oder Lebenspartner des Beschädigten und den Ehegatten oder Lebenspartner der Waise nach § 25d Abs. 2 Satz 1. Einkommen der Waise und des Kindes des Beschädigten ist uneingeschränkt einzusetzen mit Ausnahme des während der Ausbildung erzielten Arbeitseinkommens, soweit es nicht Ausbildungsvergütung ist und im Kalenderjahr sieben vom Hundert des Bemessungsbetrags nicht übersteigt. Als Einkommen des Kindes gilt auch das Einkommen seines Ehegatten oder Lebenspartner, soweit es die für ihn nach § 25e Abs. 1 zu ermittelnde Einkommensgrenze übersteigt; ist ein Unterhaltsbetrag gerichtlich festgesetzt, sind die darauf beruhenden Leistungen Einkommen des Kindes. Beschädigten, die eine Pflegezulage erhalten, ist Erziehungsbeihilfe mindestens in Höhe der Kosten der Erziehung und Ausbildung zu erbringen.
 
@@ -922,13 +865,11 @@ für einen der Dauer des Grundwehrdienstes entsprechenden Zeitraum.
 
 (6) Kann die übliche Ausbildung aus Gründen, die Beschädigte, ihre Kinder oder Waisen nicht zu vertreten haben, nicht mit Vollendung des 27. Lebensjahres abgeschlossen werden, kann Erziehungsbeihilfe auch über diesen Zeitpunkt hinaus weiter erbracht werden.
 
-
-## § 27a
+# § 27a
 
 Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und Hinterbliebenen zu erbringen, soweit der Lebensunterhalt nicht aus den übrigen Leistungen nach diesem Gesetz und dem einzusetzenden Einkommen und Vermögen bestritten werden kann. Für die ergänzende Hilfe zum Lebensunterhalt gelten die Bestimmungen des Dritten Kapitels des Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen entsprechend.
 
-
-## § 27b
+# § 27b
 
 (1) Erholungshilfe erhalten Beschädigte für sich und ihren Ehegatten oder Lebenspartner sowie Hinterbliebene als Erholungsaufenthalt, wenn die Erholungsmaßnahme zur Erhaltung der Gesundheit oder Arbeitsfähigkeit notwendig, die beabsichtigte Form des Erholungsaufenthalts zweckmäßig und, soweit es sich um Beschädigte handelt, die Erholungsbedürftigkeit durch die anerkannten Schädigungsfolgen bedingt ist; bei Schwerbeschädigten wird der Zusammenhang zwischen den anerkannten Schädigungsfolgen und der Erholungsbedürftigkeit stets angenommen.
 
@@ -940,13 +881,11 @@ Ergänzende Hilfe zum Lebensunterhalt ist Beschädigten und Hinterbliebenen zu e
 
 (5) Bedürfen Erholungsuchende einer ständigen Begleitung, umfaßt der Bedarf für die Erholungshilfe auch den Bedarf aus der Mitnahme der Begleitperson.
 
-
-## § 27c
+# § 27c
 
 Wohnungshilfe erhalten Beschädigte und Hinterbliebene. Die Wohnungshilfe besteht in der Beratung in Wohnungs- und Siedlungsangelegenheiten sowie in der Mitwirkung bei der Beschaffung und Erhaltung ausreichenden und gesunden Wohnraums. Geldleistungen werden nur erbracht, wenn die Wohnung eines Schwerbeschädigten mit Rücksicht auf Art und Schwere der Schädigung besonderer Ausgestaltung oder baulicher Veränderung bedarf oder wenn Schwerbeschädigte, Witwen, Witwer oder hinterbliebene Lebenspartner innerhalb von fünf Jahren nach ihrem erstmaligen Eintreffen im Geltungsbereich dieses Gesetzes Wohnungshilfe beantragen und eine Geldleistung durch die Besonderheit des Einzelfalls gerechtfertigt ist.
 
-
-## § 27d
+# § 27d
 
 (1) Als Hilfen in besonderen Lebenslagen erhalten Beschädigte und Hinterbliebene
 
@@ -980,18 +919,15 @@ Für den Einsatz von Vermögen gilt § 25c Absatz 3 entsprechend.
 
 (7) Für den Einsatz von Einkommen bei der Erbringung der Leistungen der Eingliederungshilfe für Menschen mit Behinderungen gilt § 150 des Neunten Buches Sozialgesetzbuch entsprechend.
 
-
-## § 27e
+# § 27e
 
 Für Empfänger einer Pflegezulage nach § 35 und für Beschädigte, deren Grad der Schädigungsfolgen allein wegen Tuberkulose oder Gesichtsentstellung wenigstens 50 beträgt, sowie für Hirnbeschädigte haben die Hauptfürsorgestellen die Leistungen der Kriegsopferfürsorge unter Beachtung einer wirksamen Sonderfürsorge zu erbringen.
 
-
-## § 27f
+# § 27f
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Art, Ausmaß und Dauer der Leistungen der Kriegsopferfürsorge (§§ 25 bis 27e) sowie das Verfahren zu bestimmen.
 
-
-## § 27g
+# § 27g
 
 (1) Haben Beschädigte oder Hinterbliebene für die Zeit, für die Leistungen der Kriegsopferfürsorge erbracht werden, einen Anspruch gegen einen anderen, der kein Leistungsträger im Sinne von § 12 des Ersten Buches Sozialgesetzbuch ist, kann der Träger der Kriegsopferfürsorge durch schriftliche Anzeige an den anderen bewirken, daß dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht. Der Übergang des Anspruchs darf nur insoweit bewirkt werden, als die Hilfe bei rechtzeitiger Leistung des anderen nicht erbracht worden wäre oder als die Leistungsberechtigten nach § 25c Abs. 1 Satz 2 oder Abs. 2 die Aufwendungen zu ersetzen oder zu tragen haben. Der Übergang ist nicht dadurch ausgeschlossen, daß die Ansprüche nicht übertragen, verpfändet oder gepfändet werden können. § 115 des Zehnten Buches Sozialgesetzbuch geht der Regelung des Absatzes 1 Satz 1 vor.
 
@@ -999,8 +935,7 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Recht
 
 (3) u. (4) (weggefallen)
 
-
-## § 27h
+# § 27h
 
 (1) Haben Beschädigte oder Hinterbliebene für die Zeit, für die Hilfe erbracht wird, nach bürgerlichem Recht einen Unterhaltsanspruch, geht dieser bis zur Höhe der geleisteten Aufwendungen zusammen mit dem unterhaltsrechtlichen Auskunftsanspruch auf den Träger der Kriegsopferfürsorge über. Der Übergang des Anspruchs ist ausgeschlossen, soweit der Unterhaltsanspruch durch laufende Zahlungen erfüllt wird. Gleiches gilt, wenn Unterhaltspflichtige mit Beschädigten oder Hinterbliebenen im zweiten oder in einem entfernteren Grad verwandt sind, sowie für Unterhaltsansprüche gegen Verwandte ersten Grades einer Beschädigten oder Hinterbliebenen, die schwanger ist oder ihr leibliches Kind bis zur Vollendung des 6. Lebensjahres betreut. § 115 des Zehnten Buches Sozialgesetzbuch geht der Regelung des Absatzes 1 Satz 1 vor.
 
@@ -1012,18 +947,15 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Recht
 
 (4) Der Träger der Kriegsopferfürsorge kann den auf ihn übergegangenen Unterhaltsanspruch im Einvernehmen mit den Leistungsberechtigten auf diese zur gerichtlichen Geltendmachung rückübertragen und sich den geltend gemachten Unterhaltsanspruch abtreten lassen. Kosten, mit denen Leistungsberechtigte dadurch selbst belastet werden, sind zu übernehmen. Über die Ansprüche nach den Absätzen 1 bis 3 ist im Zivilrechtsweg zu entscheiden.
 
-
-## § 27i
+# § 27i
 
 Der erstattungsberechtigte Träger der Kriegsopferfürsorge kann die Feststellung einer Sozialleistung betreiben sowie Rechtsmittel einlegen. Der Ablauf der Fristen, die ohne sein Verschulden verstrichen sind, wirkt nicht gegen ihn; dies gilt nicht für die Verfahrensfristen, soweit der Träger der Kriegsopferfürsorge das Verfahren selbst betreibt.
 
-
-## § 27j
+# § 27j
 
 Pflegebedürftige, die bis zum 31. März 1995 nach § 26c Abs. 6 in der bis zum 31. März 1995 geltenden Fassung Pflegegeld bezogen haben, erhalten das Pflegegeld insoweit weiter, als es den Pflegegeldanspruch nach § 37 des Elften Buches Sozialgesetzbuch übersteigt und die geltenden Vorschriften des Bundesversorgungsgesetzes ungeachtet des § 26c den Leistungsbezug nicht ausschließen; dabei bleibt eine Anrechnung der Geldleistung nach § 57 des Fünften Buches Sozialgesetzbuch in der bis zum 31. März 1995 geltenden Fassung außer Betracht. Gleiches gilt, soweit Pflegebedürftige, die bis zum 31. März 1995 Pflegegeld nach § 26c Abs. 6 in der bis zum 31. März 1995 geltenden Fassung und daneben Leistungen zur hauswirtschaftlichen Versorgung nach diesem Gesetz bezogen, deshalb geringere Leistungen für hauswirtschaftliche Versorgung nach diesem Gesetz erhalten, weil hierauf der auf die hauswirtschaftliche Versorgung entfallende Teil des Pflegegeldes nach dem Elften Buch Sozialgesetzbuch angerechnet wird.
 
-
-## § 27k
+# § 27k
 
 (1) Pflegebedürftige, deren Pflegebedürftigkeit nach § 26c in der am 31. Dezember 2016 geltenden Fassung festgestellt worden ist und bei denen spätestens am 31. Dezember 2016 die Voraussetzungen auf Leistungen nach § 26c in der am 31. Dezember 2016 geltenden Fassung vorliegen, werden ab dem 1. Januar 2017 ohne erneute Antragstellung und ohne erneute Begutachtung wie folgt in die Pflegegrade übergeleitet:
 
@@ -1035,23 +967,19 @@ Pflegebedürftige, die bis zum 31. März 1995 nach § 26c Abs. 6 in der bis zum 
 
 (2) Die Überleitung in die Pflegegrade nach § 140 des Elften Buches Sozialgesetzbuch ist für den Träger der Kriegsopferfürsorge bindend.
 
-
-## § 27l
+# § 27l
 
 Einer Person, die am 31. Dezember 2016 einen Anspruch auf Leistungen nach § 26c in der am 31. Dezember 2016 geltenden Fassung hat, sind die ihr am 31. Dezember 2016 zustehenden Leistungen über den 31. Dezember 2016 hinaus bis zum Abschluss des von Amts wegen zu betreibenden Verfahrens zur Ermittlung und Feststellung des Pflegegrades und des notwendigen pflegerischen Bedarfs nach § 26c Absatz 1 in Verbindung mit § 63a des Zwölften Buches Sozialgesetzbuch in der ab dem 1. Januar 2017 geltenden Fassung weiter zu gewähren. Soweit Personen zugleich Leistungen nach dem Elften Buch Sozialgesetzbuch in der ab dem 1. Januar 2017 geltenden Fassung erhalten, sind diese anzurechnen; dies gilt nicht für die Zuschläge nach § 141 Absatz 2 des Elften Buches Sozialgesetzbuch sowie für den Entlastungsbetrag nach § 45b des Elften Buches Sozialgesetzbuch. Ergibt das Verfahren, dass für die Zeit ab dem 1. Januar 2017 die Leistungen für den notwendigen pflegerischen Bedarf, die nach § 26c in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren sind, geringer sind als die nach Satz 1 gewährten Leistungen, so sind die nach Satz 1 gewährten höheren Leistungen nicht vom Leistungsbezieher zu erstatten; § 45 des Zehnten Buches Sozialgesetzbuch bleibt unberührt. Ergibt das Verfahren, dass für die Zeit ab dem 1. Januar 2017 die Leistungen für den notwendigen pflegerischen Bedarf, die nach § 26c in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren sind, höher sind als die nach Satz 1 gewährten Leistungen, so sind die Leistungen rückwirkend nach § 26c in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren.
 
-
-## § 28
+# § 28
 
 (weggefallen)
 
-
-## § 29
+# § 29
 
 Sind Leistungen zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben erfolgversprechend und zumutbar, so entsteht ein Anspruch auf Höherbewertung des Grades der Schädigungsfolgen nach § 30 Abs. 2, auf Berufsschadensausgleich sowie auf Ausgleichsrente frühestens in dem Monat, in dem diese Maßnahmen abgeschlossen werden.
 
-
-## § 30
+# § 30
 
 (1) Der Grad der Schädigungsfolgen ist nach den allgemeinen Auswirkungen der Funktionsbeeinträchtigungen, die durch die als Schädigungsfolge anerkannten körperlichen, geistigen oder seelischen Gesundheitsstörungen bedingt sind, in allen Lebensbereichen zu beurteilen. Der Grad der Schädigungsfolgen ist nach Zehnergraden von 10 bis 100 zu bemessen; ein bis zu fünf Grad geringerer Grad der Schädigungsfolgen wird vom höheren Zehnergrad mit umfasst. Vorübergehende Gesundheitsstörungen sind nicht zu berücksichtigen; als vorübergehend gilt ein Zeitraum bis zu sechs Monaten. Bei beschädigten Kindern und Jugendlichen ist der Grad der Schädigungsfolgen nach dem Grad zu bemessen, der sich bei Erwachsenen mit gleicher Gesundheitsstörung ergibt, soweit damit keine Schlechterstellung der Kinder und Jugendlichen verbunden ist. Für erhebliche äußere Gesundheitsschäden können Mindestgrade festgesetzt werden.
 
@@ -1117,8 +1045,7 @@ e) wie in besonderen Fällen das Nettoeinkommen abweichend von Absatz 8 Satz 1 N
 
 (16) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Verteidigung und mit Zustimmung des Bundesrates durch Rechtsverordnung die Grundsätze aufzustellen, die für die medizinische Bewertung von Schädigungsfolgen und die Feststellung des Grades der Schädigungsfolgen im Sinne des Absatzes 1 maßgebend sind, sowie die für die Anerkennung einer Gesundheitsstörung nach § 1 Abs. 3 maßgebenden Grundsätze und die Kriterien für die Bewertung der Hilflosigkeit und der Stufen der Pflegezulage nach § 35 Abs. 1 aufzustellen und das Verfahren für deren Ermittlung und Fortentwicklung zu regeln.
 
-
-## § 31
+# § 31
 
 (1) Beschädigte erhalten eine monatliche Grundrente bei einem Grad der Schädigungsfolgen
 
@@ -1191,8 +1118,7 @@ Stufe I</td><td style="text-align: right;">94 Euro,<br />
   
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung den Personenkreis, der durch seine Schädigungsfolgen außergewöhnlich betroffen ist, sowie seine Einordnung in die Stufen I bis VI näher zu bestimmen.
 
-
-## § 32
+# § 32
 
 (1) Schwerbeschädigte erhalten eine Ausgleichsrente, wenn sie infolge ihres Gesundheitszustands oder hohen Alters oder aus einem von ihnen nicht zu vertretenden sonstigen Grund eine ihnen zumutbare Erwerbstätigkeit nicht oder nur in beschränktem Umfang oder nur mit überdurchschnittlichem Kräfteaufwand ausüben können.
 
@@ -1212,8 +1138,7 @@ von  50 oder 60</td><td style="text-align: right;">499 Euro,<br />
 |:--------|----------:|
 | von 100 | 811 Euro. |
 
-
-## § 33
+# § 33
 
 (1) Die volle Ausgleichsrente ist um das anzurechnende Einkommen zu mindern. Dieses ist, ausgehend vom Bruttoeinkommen, nach der nach Absatz 6 zu erlassenden Rechtsverordnung stufenweise so zu ermitteln, daß
 
@@ -1247,8 +1172,7 @@ b) wie das Bruttoeinkommen zu ermitteln ist.
 
 (6) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, mit Zustimmung des Bundesrates die Rechtsverordnung über das anzurechnende Einkommen nach Absatz 1 zu erlassen. Die anzurechnenden Beträge sind in einer Tabelle anzugeben, die für Beschädigte mit einem Grad der Schädigungsfolgen von 100 in 200 Stufen gegliedert ist; die ermittelten Werte gelten auch für die übrigen Beschädigtengruppen. Der jeweilige Betrag, bis zu dem die einzelne Stufe reicht, ist zu ermitteln, indem die Stufenzahl mit dem zweihundertsten Teil des um den Freibetrag (Absatz 1 Buchstabe a) verminderten Betrags nach Absatz 1 Buchstabe b multipliziert und dem auf volle Euro abgerundeten Produkt der Freibetrag hinzugerechnet wird. Der jeder Stufe zugeordnete Betrag des anzurechnenden Einkommens ist zu ermitteln, indem die jeweilige Stufenzahl mit dem zweihundertsten Teil des Betrags der vollen Ausgleichsrente für Beschädigte mit einem Grad der Schädigungsfolgen von 100 multipliziert und das Produkt auf volle Euro abgerundet wird. In der Rechtsverordnung kann ferner Näheres über die Anwendung der Tabelle bestimmt und können die jeweils zustehenden Beträge der Ausgleichsrente angegeben werden.
 
-
-## § 33a
+# § 33a
 
 (1) Schwerbeschädigte erhalten für den Ehegatten oder Lebenspartner einen Zuschlag von 91 Euro monatlich. Den Zuschlag erhalten auch Schwerbeschädigte, deren Ehe oder Lebenspartnerschaft aufgelöst oder für nichtig erklärt worden ist, wenn sie im eigenen Haushalt für ein Kind im Sinne des § 33b Abs. 1 Satz 1 und der Absätze 2 bis 4 sorgen. Steht keine Ausgleichsrente zu, so gilt § 33 entsprechend mit folgender Maßgabe:
 
@@ -1258,8 +1182,7 @@ b) § 33 Abs. 1 Satz 2 Buchstabe b ist nicht anzuwenden.
 
 (2) Alle Empfänger einer Pflegezulage erhalten den vollen Zuschlag, auch wenn die Pflegezulage nach § 35 Abs. 4 nicht gezahlt wird oder nach § 65 Abs. 1 ruht.
 
-
-## § 33b
+# § 33b
 
 (1) Schwerbeschädigte erhalten für jedes Kind einen Kinderzuschlag. Das gilt nicht, wenn für dasselbe Kind Anspruch auf Kindergeld oder auf Leistungen im Sinne des § 4 Abs. 1 Satz 1 Nr. 1 des Bundeskindergeldgesetzes besteht oder nach dem Einkommensteuergesetz ein Kinderfreibetrag zusteht.
 
@@ -1299,15 +1222,13 @@ Werden Kinderzuschläge für mehrere Kinder gewährt, so ist das nach Satz 3 Buc
 
 § 33b Abs. 6 Satz 2 iVm Abs. 2: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 28.6.1983 I 951 - 1 BvL 20/79 -
 
-
-## § 34
+# § 34
 
 (1) Die Ausgleichsrente beträgt für Schwerbeschädigte vor Vollendung des 14. Lebensjahrs bis zu 30 vom Hundert, vor Vollendung des 18. Lebensjahrs bis zu 50 vom Hundert der Sätze des § 32 Abs. 2; sie ist auf den vollen Satz zu erhöhen, wenn der Schwerbeschädigte seinen Lebensunterhalt allein bestreiten muß.
 
 (2) Ausgleichsrente ist nur insoweit zu gewähren, als dies nach den wirtschaftlichen Verhältnissen des Beschädigten und seiner unterhaltspflichtigen Angehörigen gerechtfertigt ist. Lehrlingsvergütung bis zu 77 Euro monatlich bleibt unberücksichtigt.
 
-
-## § 35
+# § 35
 
 (1) Solange Beschädigte infolge der Schädigung hilflos sind, wird eine Pflegezulage von 342 Euro (Stufe I) monatlich gezahlt. Hilflos im Sinne des Satzes 1 sind Beschädigte, wenn sie für eine Reihe von häufig und regelmäßig wiederkehrenden Verrichtungen zur Sicherung ihrer persönlichen Existenz im Ablauf eines jeden Tages fremder Hilfe dauernd bedürfen. Diese Voraussetzungen sind auch erfüllt, wenn die Hilfe in Form einer Überwachung oder Anleitung zu den in Satz 2 genannten Verrichtungen erforderlich ist oder wenn die Hilfe zwar nicht dauernd geleistet werden muß, jedoch eine ständige Bereitschaft zur Hilfeleistung erforderlich ist. Ist die Gesundheitsstörung so schwer, daß sie dauerndes Krankenlager oder dauernd außergewöhnliche Pflege erfordert, so ist die Pflegezulage je nach Lage des Falles unter Berücksichtigung des Umfangs der notwendigen Pflege auf 584, 832, 1 068, 1 386 oder 1 706 Euro (Stufen II, III, IV, V und VI) zu erhöhen. Für die Ermittlung der Hilflosigkeit und der Stufen der Pflegezulage sind die in der Verordnung zu § 30 Abs. 17 aufgestellten Grundsätze maßgebend. Blinde erhalten mindestens die Pflegezulage nach Stufe III. Hirnbeschädigte mit einem Grad der Schädigungsfolgen von 100 erhalten eine Pflegezulage mindestens nach Stufe I.
 
@@ -1321,8 +1242,7 @@ Werden Kinderzuschläge für mehrere Kinder gewährt, so ist das nach Satz 3 Buc
 
 (6) Für Beschädigte, die infolge der Schädigung dauernder Pflege im Sinne des Absatzes 1 bedürfen, werden, wenn geeignete Pflege sonst nicht sichergestellt werden kann, die Kosten der nicht nur vorübergehenden Heimpflege, soweit sie Unterkunft, Verpflegung und Betreuung einschließlich notwendiger Pflege umfassen, unter Anrechnung auf die Versorgungsbezüge übernommen. Jedoch ist den Beschädigten von ihren Versorgungsbezügen zur Bestreitung der sonstigen Bedürfnisse ein Betrag in Höhe der Beschädigtengrundrente nach einem Grad der Schädigungsfolgen von 100 und den Angehörigen ein Betrag mindestens in Höhe der Hinterbliebenenbezüge zu belassen, die ihnen zustehen würden, wenn Beschädigte an den Folgen der Schädigung gestorben wären. Bei der Berechnung der Bezüge der Angehörigen ist auch das Einkommen der Beschädigten zu berücksichtigen, soweit es nicht ausnahmsweise für andere Zwecke, insbesondere die Erfüllung anderer Unterhaltspflichten, einzusetzen ist.
 
-
-## § 36
+# § 36
 
 (1) Stirbt eine Beschädigte oder ein Beschädigter an den Schädigungsfolgen, so hat diejenige Person einen Anspruch auf Übernahme der Kosten der Überführung, die die Überführung veranlasst hat. Der Anspruch auf Übernahme umfasst die erforderlichen und angemessenen Kosten der Überführung an den Ort der Bestattung.
 
@@ -1338,8 +1258,7 @@ Werden Kinderzuschläge für mehrere Kinder gewährt, so ist das nach Satz 3 Buc
 
 (7) Auf das Bestattungsgeld werden einmalige Leistungen angerechnet, die anlässlich des Todes auf Grund öffentlich-rechtlicher Vorschriften zum Zweck der Erstattung der Kosten der Bestattung erbracht werden.
 
-
-## § 37
+# § 37
 
 (1) Beim Tod eines Beschädigten ist ein Sterbegeld in Höhe des Dreifachen der Versorgungsbezüge zu zahlen, die ihm für den Sterbemonat nach den §§ 30 bis 33, 34 und 35 zustanden. Pflegezulage jedoch höchstens nach Stufe II. Minderungen der nach Satz 1 maßgebenden Bezüge, die durch Sonderleistungen im Sinne des § 60a Abs. 4 bedingt sind, sowie Erhöhungen dieser Bezüge, die auf Einkommensminderungen infolge des Todes beruhen, bleiben unberücksichtigt.
 
@@ -1347,8 +1266,7 @@ Werden Kinderzuschläge für mehrere Kinder gewährt, so ist das nach Satz 3 Buc
 
 (3) Sind Anspruchsberechtigte im Sinne des Absatzes 2 nicht vorhanden, kann das Sterbegeld dem gezahlt werden, der die Kosten der letzten Krankheit oder der Bestattung getragen oder den Verstorbenen bis zu seinem Tod gepflegt hat.
 
-
-## § 38
+# § 38
 
 (1) Ist ein Beschädigter an den Folgen einer Schädigung gestorben, so haben die Witwe, der hinterbliebene Lebenspartner, die Waisen und die Verwandten der aufsteigenden Linie Anspruch auf Hinterbliebenenrente. Der Tod gilt stets dann als Folge einer Schädigung, wenn ein Beschädigter an einem Leiden stirbt, das als Folge einer Schädigung rechtsverbindlich anerkannt und für das ihm im Zeitpunkt des Todes Rente zuerkannt war.
 
@@ -1356,18 +1274,15 @@ Werden Kinderzuschläge für mehrere Kinder gewährt, so ist das nach Satz 3 Buc
 
 (3) Ein hinterbliebener Lebenspartner hat keinen Anspruch auf Versorgung, wenn eine Witwe, die im Zeitpunkt des Todes mit dem Beschädigten verheiratet war, Anspruch auf eine Witwenversorgung hat.
 
-
-## § 39
+# § 39
 
 \-
 
-
-## § 40
+# § 40
 
 Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 488 Euro monatlich.
 
-
-## § 40a
+# § 40a
 
 (1) Witwen oder hinterbliebene Lebenspartner, deren Einkommen geringer ist als die Hälfte des Einkommens, das der Ehemann oder der verstorbene Lebenspartner ohne die Schädigung erzielt hätte, erhalten einen Schadensausgleich in Höhe von 42,5 vom Hundert des festgestellten, auf volle Euro aufgerundeten Unterschiedsbetrags (Absatz 2) oder, falls dies günstiger ist, einen Schadensausgleich nach Absatz 4. Ein Schadensausgleich ist nur zu gewähren, wenn die Witwe oder der hinterbliebene Lebenspartner die Voraussetzungen des § 41 Abs. 1 Satz 1 erfüllt. § 41 Abs. 1 Satz 2 gilt entsprechend.
 
@@ -1383,8 +1298,7 @@ Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 488 
 
 § 40a Abs. 1: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.11.2004, 2005 I 1047 - 1 BvR 684/98 -
 
-
-## § 40b
+# § 40b
 
 (1) Die Witwe oder der hinterbliebene Lebenspartner eines Beschädigten, der hilflos im Sinne des § 35 Abs. 1 war, erhält einen Pflegeausgleich, wenn sie den Beschädigten während ihrer Ehe oder Lebenspartnerschaft länger als 10 Jahre gepflegt hat. Als Pflegezeit zählen die Kalendermonate, in denen der Beschädigte während der Ehe oder der Lebenspartnerschaft infolge der Schädigung mindestens in einem der Stufe II entsprechenden Umfang hilflos im Sinne des § 35 Abs. 1 war oder der Beschädigte infolge der Schädigung blind war. Kalendermonate, in denen die Ehefrau oder der Lebenspartner die Pflege nicht unentgeltlich geleistet hat, werden nicht mitgezählt. Dies gilt auch für Kalendermonate, in denen ein mehr als nur geringfügiger Teil der Pflege von Dritten erbracht worden ist, es sei denn, diese Pflegetätigkeit Dritter hat jeweils nicht länger als drei Monate gedauert. Die anzurechnende Gesamtpflegezeit wird auf volle Jahre aufgerundet.
 
@@ -1396,8 +1310,7 @@ Die Witwe oder der hinterbliebene Lebenspartner erhält eine Grundrente von 488 
 
 (5) Ab 1. Januar 1991 wird in dem in Artikel 3 des Einigungsvertrages genannten Gebiet der Pflegeausgleich nach den Absätzen 1 bis 3 abweichend von der Regelung des Absatzes 2 Satz 3 nach dem in diesem Gebiet jeweils geltenden Betrag der Pflegezulagestufe errechnet, nach der der Beschädigte jeweils Anspruch auf Pflegezulage hatte oder die dem Umfang seiner Hilflosigkeit nach § 35 Abs. 1 entsprochen hätte; dabei ist § 15 Satz 2 zweiter Halbsatz entsprechend anzuwenden. Sobald in dem in Artikel 3 des Einigungsvertrages genannten Gebiet § 56 anzuwenden ist, ist Satz 1 nicht mehr anzuwenden.
 
-
-## § 41
+# § 41
 
 (1) Ausgleichsrente erhalten Witwen oder hinterbliebene Lebenspartner, die
 
@@ -1421,20 +1334,17 @@ Beim Zusammentreffen von Einkünften aus gegenwärtiger Erwerbstätigkeit mit ü
 
 § 41 Abs. 1 Satz 1 Buchst. c: Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.11.2004, 2005 I 1047 - 1 BvR 684/98 -
 
-
-## § 42
+# § 42
 
 (1) Im Falle der Scheidung, Aufhebung oder Nichtigerklärung der Ehe oder der Aufhebung der Lebenspartnerschaft steht der frühere Ehegatte oder Lebenspartner des Verstorbenen einer Witwe oder einem hinterbliebenen Lebenspartner gleich, wenn der Verstorbene zur Zeit seines Todes Unterhalt nach ehe- oder familienrechtlichen Vorschriften oder aus sonstigen Gründen zu leisten hatte oder im letzten Jahr vor seinem Tode geleistet hat. Eine Versorgung ist nur so lange zu leisten, als der frühere Ehegatte oder Lebenspartner nach den ehe- oder familienrechtlichen Vorschriften unterhaltsberechtigt gewesen wäre oder sonst Unterhaltsleistungen erhalten hätte. Hat eine Unterhaltspflicht aus kriegs- oder wehrdienstbedingten Gründen nicht bestanden, so bleibt dies unberücksichtigt. Ist die Ehe im Zusammenhang mit einer Gesundheitsstörung des Verstorbenen, die Folge einer Schädigung im Sinne des § 1 war, geschieden, aufgehoben oder für nichtig erklärt oder die Lebenspartnerschaft aus dem gleichen Grunde aufgehoben worden, so steht der frühere Ehegatte oder Lebenspartner auch ohne die Voraussetzungen des Satzes 1 einer Witwe oder einem hinterbliebenen Lebenspartner gleich.
 
 (2) Entsprechendes gilt, wenn beim Tod des Beschädigten die eheliche Gemeinschaft aufgehoben war.
 
-
-## § 43
+# § 43
 
 Der Witwer erhält Versorgung wie eine Witwe.
 
-
-## § 44
+# § 44
 
 (1) Im Falle der Wiederverheiratung oder Begründung einer Lebenspartnerschaft erhält die Witwe oder im Falle der Verheiratung oder Begründung einer neuen Lebenspartnerschaft erhält der hinterbliebene Lebenspartner anstelle des Anspruchs auf Rente eine Abfindung in Höhe des Fünfzigfachen der monatlichen Grundrente. Die Abfindung ist auch zu zahlen, wenn im Zeitpunkt der Wiederverheiratung oder der Begründung der neuen Lebenspartnerschaft mangels Antrags kein Anspruch auf Rente bestand.
 
@@ -1448,8 +1358,7 @@ Der Witwer erhält Versorgung wie eine Witwe.
 
 (6) Hat eine Witwe oder der hinterbliebene Lebenspartner keine Witwenrente nach diesem Gesetz bezogen und ist der frühere Ehegatte oder Lebenspartner an den Folgen einer Schädigung (§ 1) gestorben, so finden die Absätze 2, 4 und 5 entsprechend Anwendung, wenn sie ohne die Wiederverheiratung oder Begründung einer neuen Lebenspartnerschaft einen Anspruch auf Versorgung hätte.
 
-
-## § 45
+# § 45
 
 (1) Waisenrente erhalten nach dem Tode des Beschädigten seine Kinder bis zur Vollendung des 18. Lebensjahres.
 
@@ -1477,8 +1386,7 @@ Der tatsächliche zeitliche Aufwand der Schulausbildung und Berufsausbildung ist
 
 (5) Kommen für dieselbe Waise mehrere Waisenrenten nach diesem Gesetz oder Gesetzen, die eine entsprechende Anwendung dieses Gesetzes vorsehen, in Betracht, so wird nur eine Rente gewährt.
 
-
-## § 46
+# § 46
 
 Die Grundrente beträgt monatlich  
   
@@ -1488,8 +1396,7 @@ Die Grundrente beträgt monatlich
 | bei Halbwaisen | 213 Euro, |
 | bei Vollwaisen | 373 Euro. |
 
-
-## § 47
+# § 47
 
 (1) Die volle Ausgleichsrente beträgt monatlich  
   
@@ -1504,8 +1411,7 @@ Die Grundrente beträgt monatlich
 
 (2) § 33 gilt mit Ausnahme von Absatz 1 Satz 2 Buchstabe b und Absatz 4 entsprechend.
 
-
-## § 48
+# § 48
 
 (1) Ist ein rentenberechtigter Beschädigter nicht an den Folgen der Schädigung gestorben, so ist der Witwe, dem hinterbliebenen Lebenspartner und den Waisen (§ 45) eine Witwen- und Waisenbeihilfe zu zahlen, wenn der Beschädigte durch die Folgen der Schädigung gehindert war, eine entsprechende Erwerbstätigkeit auszuüben, und dadurch die aus der Ehe mit dem Beschädigten hergeleitete Witwenversorgung insgesamt mindestens um den folgenden Vomhundertsatz gemindert ist:  
 
@@ -1541,15 +1447,13 @@ des in § 33 Abs. 1 Buchstabe a genannten Bemessungsbetrages, ist die zu gewähr
 
 (6) Die Absätze 1 bis 5 gelten entsprechend, wenn der Beschädigte die Ansprüche nur deshalb nicht geltend machen konnte, weil er vor dem 1. Januar 1991 seinen Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet hatte.
 
-
-## § 48a
+# § 48a
 
 (1) § 42 Abs. 1, § 43 und § 48 Abs. 4 in der vom 1. Januar 1986 an geltenden Fassung gelten nur, wenn der Beschädigte nach dem 31. Dezember 1985 gestorben ist.
 
 (2) § 42 Abs. 1, § 43 und § 48 Abs. 4 in der bis zum 31. Dezember 1985 geltenden Fassung gelten hinsichtlich der Anspruchsvoraussetzungen für die Hinterbliebenenversorgung weiter, wenn der Beschädigte vor dem 1. Januar 1986 gestorben ist.
 
-
-## § 49
+# § 49
 
 (1) Ist der Beschädigte an den Folgen einer Schädigung gestorben, so erhalten die Eltern Elternrente, frühestens jedoch von dem Monat an, in dem der Beschädigte das 18. Lebensjahr vollendet hätte.
 
@@ -1561,13 +1465,11 @@ des in § 33 Abs. 1 Buchstabe a genannten Bemessungsbetrages, ist die zu gewähr
 
 3. Großeltern, wenn der Verstorbene ihnen Unterhalt geleistet hat oder hätte.
 
-
-## § 50
+# § 50
 
 Elternrente erhält, wer voll erwerbsgemindert oder erwerbsunfähig im Sinne des Sechsten Buches Sozialgesetzbuch ist oder aus anderen zwingenden Gründen eine zumutbare Erwerbstätigkeit nicht ausüben kann oder das 60. Lebensjahr vollendet hat.
 
-
-## § 51
+# § 51
 
 (1) Die volle Elternrente beträgt monatlich  
   
@@ -1617,20 +1519,17 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 (9) Stirbt bei Empfängern von Elternrente für ein Elternpaar ein Ehegatte oder Lebenspartner, ist dem überlebenden Ehegatten oder Lebenspartner die für den Sterbemonat zustehende Elternrente für ein Elternpaar anstelle der Rente für einen Elternteil für die folgenden drei Monate weiterzuzahlen, wenn dies günstiger ist. Minderungen der nach Satz 1 maßgebenden Rente für ein Elternpaar, die durch Sonderleistungen im Sinne des § 60a Abs. 4 bedingt sind, sowie Erhöhungen dieser Bezüge, die auf Einkommensminderungen infolge des Todes beruhen, bleiben unberücksichtigt.
 
-
-## § 52
+# § 52
 
 (1) Ist eine Person, deren Hinterbliebenen Versorgung zustehen würde, verschollen, so wird diesen Versorgung schon vor der Todeserklärung gewährt, wenn das Ableben des Verschollenen mit hoher Wahrscheinlichkeit anzunehmen ist. Stellt sich heraus, daß der Verschollene noch lebt, so gelten Leistungen nach Satz 1 als auch zur Erfüllung seiner gesetzlichen Unterhaltspflicht gewährt; er ist von dem Zeitpunkt an zum Ersatz nach den Vorschriften über die Geschäftsführung ohne Auftrag verpflichtet, von dem an er seinen gesetzlichen Unterhaltspflichten aus von ihm zu vertretenden Gründen nicht nachgekommen ist. Weitergehende Ansprüche bleiben unberührt.
 
 (2) Ein Kind hat keinen Anspruch auf Rente, wenn der Ehemann der Mutter während der Dauer der Empfängniszeit verschollen war.
 
-
-## § 53
+# § 53
 
 Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein Bestattungsgeld nach Maßgabe der Vorschriften des § 36 gewährt. Es beträgt beim Tod einer Witwe oder des hinterbliebenen Lebenspartners, die mindestens ein waisenrenten- oder waisenbeihilfeberechtigtes Kind hinterlassen, 1 958 Euro, in allen übrigen Fällen 982 Euro.
 
-
-## § 53a – Beiträge zur Pflegeversicherung
+# § 53a – Beiträge zur Pflegeversicherung
 
 (1) Rentenberechtigten Beschädigten und Hinterbliebenen, die einen Anspruch auf Heil- oder Krankenbehandlung haben und die bei einem privaten Versicherungsunternehmen oder bei einer Pflegekasse nach § 20 Abs. 3 des Elften Buches Sozialgesetzbuch versichert sind, wird der Beitrag zur Pflegeversicherung erstattet.
 
@@ -1638,15 +1537,13 @@ Beim Tod von versorgungsberechtigten Hinterbliebenen wird ein Bestattungsgeld na
 
 (3) § 61 Abs. 6 und 7 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
-
-## § 54
+# § 54
 
 (1) Ist eine Schädigung im Sinne des § 1 zugleich ein Unfall im Sinne der gesetzlichen Unfallversicherung, so besteht nur Anspruch nach diesem Gesetz. Das gilt nicht, soweit das schädigende Ereignis vor dem 1. Januar 1942 oder nach dem 8. Mai 1945 eingetreten ist.
 
 (2) Personen, bei denen eine Schädigung im Sinne des § 1 infolge einer Heranziehung zur Zwangsarbeit in der Zeit vom 8. Mai 1945 bis zum 5. Oktober 1955 im Beitrittsgebiet verursacht worden ist, sowie deren Hinterbliebene haben keinen Anspruch nach diesem Gesetz. Sie haben Anspruch auf Leistungen der gesetzlichen Unfallversicherung; die Tätigkeit nach Satz 1 gilt als versicherte Tätigkeit. Die Sätze 1 und 2 gelten nicht für Personen, die ihren gewöhnlichen Aufenthalt vor dem 19. Mai 1990 im damaligen Geltungsbereich dieses Gesetzes genommen haben.
 
-
-## § 55
+# § 55
 
 (1) Treffen nach diesem Gesetz zusammen
 
@@ -1660,8 +1557,7 @@ Ist nach Satz 1 Buchstabe a die Witwenausgleichsrente zu gewähren, zählt bei d
 
 (2) Für Witwen- oder Waisenbeihilfen gilt Absatz 1 entsprechend.
 
-
-## § 56
+# § 56
 
 (1) Die Leistungen für Blinde (§ 14), der Pauschbetrag als Ersatz für Kleider- und Wäscheverschleiß (§ 15), die Grundrenten und die Schwerstbeschädigtenzulage (§ 31 Abs. 1 und 4, §§ 40 und 46), die Ausgleichs- und Elternrenten (§§ 32, 41, 47 und 51), der Ehegattenzuschlag (§ 33a), die Pflegezulage (§ 35) und das Bestattungsgeld (§§ 36, 53) werden jeweils entsprechend dem Vomhundertsatz angepaßt, um den sich die Renten der gesetzlichen Rentenversicherung verändern. Gleichzeitig wird der Bemessungsbetrag (§ 33 Absatz 1) entsprechend dem Prozentsatz angepasst, um den sich die für die Rentenanpassung maßgebenden Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 in Verbindung mit § 228b des Sechsten Buches Sozialgesetzbuch) verändern.
 
@@ -1669,11 +1565,9 @@ Ist nach Satz 1 Buchstabe a die Witwenausgleichsrente zu gewähren, zählt bei d
 
 (3) u. (4) (weggefallen)
 
+# §§ 57 bis 59 – (weggefallen)
 
-## §§ 57 bis 59 – (weggefallen)
-
-
-## § 60
+# § 60
 
 (1) Die Beschädigtenversorgung beginnt mit dem Monat, in dem ihre Voraussetzungen erfüllt sind, frühestens mit dem Antragsmonat. Die Versorgung ist auch für Zeiträume vor der Antragstellung zu leisten, wenn der Antrag innerhalb eines Jahres nach Eintritt der Schädigung gestellt wird. War der Beschädigte ohne sein Verschulden an der Antragstellung verhindert, so verlängert sich diese Frist um den Zeitraum der Verhinderung. Für Zeiträume vor dem Monat der Entlassung aus der Kriegsgefangenschaft oder aus ausländischem Gewahrsam steht keine Versorgung zu.
 
@@ -1683,8 +1577,7 @@ Ist nach Satz 1 Buchstabe a die Witwenausgleichsrente zu gewähren, zählt bei d
 
 (4) Eine Minderung oder Entziehung der Leistungen tritt mit Ablauf des Monats ein, in dem die Voraussetzungen für ihre Gewährung weggefallen sind. Eine durch Besserung des Gesundheitszustands bedingte Minderung oder Entziehung der Leistungen tritt mit Ablauf des Monats ein, der auf die Bekanntgabe des die Änderung aussprechenden Bescheides folgt. Beruht die Minderung oder Entziehung von Leistungen, deren Höhe vom Einkommen beeinflußt wird, auf einer Erhöhung dieses Einkommens, so tritt die Minderung oder Entziehung mit dem Monat ein, in dem das Einkommen sich erhöht hat.
 
-
-## § 60a
+# § 60a
 
 (1) Die Ausgleichsrente (§§ 32, 33, 41 und 47) ist bei monatlich feststehenden Einkünften endgültig festzustellen. In den übrigen Fällen ist die Ausgleichsrente entsprechend den im Zeitpunkt der Bescheiderteilung bekannten Einkommensverhältnissen vorläufig festzusetzen und jeweils nachträglich endgültig festzustellen.
 
@@ -1696,8 +1589,7 @@ Ist nach Satz 1 Buchstabe a die Witwenausgleichsrente zu gewähren, zählt bei d
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für die Feststellung aller laufenden Versorgungsbezüge, deren Höhe vom Einkommen beeinflußt wird, soweit durch dieses Gesetz nichts anderes bestimmt ist. Absatz 3 ist beim Zusammentreffen mehrerer vorläufig gezahlter Leistungen so anzuwenden, daß die Gesamtbeträge einander gegenüberzustellen sind.
 
-
-## § 61
+# § 61
 
 Für die Hinterbliebenenversorgung gilt § 60 mit folgender Maßgabe entsprechend:
 
@@ -1707,8 +1599,7 @@ b) An die Stelle des Berufsschadensausgleichs nach § 30 Abs. 3 oder 6 tritt bei
 
 c) Der Änderung des Familienstands steht bei Waisen der Tod des Vaters oder der Mutter gleich.
 
-
-## § 62
+# § 62
 
 (1) Eine vom Einkommen beeinflußte Leistung ist nicht neu festzustellen, solange sich das Bruttoeinkommen seit der letzten Feststellung dieser Leistung insgesamt um weniger als 5 Euro monatlich erhöht oder das Vergleichseinkommen im Sinne des § 30 Abs. 5 insgesamt um weniger als 5 Euro monatlich gemindert hat, es sei denn, daß eine Neufeststellung einer dieser Leistungen aus anderem Anlaß notwendig wird.
 
@@ -1718,13 +1609,11 @@ c) Der Änderung des Familienstands steht bei Waisen der Tod des Vaters oder der
 
 (4) Wird der gemeinsame Haushalt aufgelöst, den eine Schwerbeschädigte oder ein Schwerbeschädigter mit den in § 30 Abs. 12 Satz 1 genannten Personen geführt hat, so sind der Grad der Schädigungsfolgen nach § 30 Abs. 2 und der Berufsschadensausgleich nach § 30 Abs. 16 von Amts wegen nur neu festzustellen, wenn ihr oder ihm ohne die Schädigungsfolgen die Aufnahme eines anderen Berufs zuzumuten wäre oder nach Wegfall des Berufsschadensausgleichs nach § 30 Abs. 16 ein Berufsschadensausgleich nach § 30 Abs. 3 bis 11 zusteht.
 
-
-## § 63
+# § 63
 
 (weggefallen)
 
-
-## § 64
+# § 64
 
 Berechtigte mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland erhalten Versorgung wie Berechtigte im Geltungsbereich dieses Gesetzes, soweit die §§ 64a bis 64f nichts Abweichendes bestimmen. Die Leistungen können mit Zustimmung des Bundesministeriums für Arbeit und Soziales ganz oder teilweise versagt oder entzogen werden, wenn
 
@@ -1732,8 +1621,7 @@ Berechtigte mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland erhalten Verso
 
 2. in der Person des Berechtigten ein von ihm zu vertretender wichtiger Grund, insbesondere eine gegen die Bundesrepublik Deutschland gerichtete Handlung des Berechtigten, vorliegt.
 
-
-## § 64a
+# § 64a
 
 (1) Beschädigte führen die Heilbehandlung wegen der anerkannten Folgen einer Schädigung selbst durch, soweit sie nicht im Geltungsbereich dieses Gesetzes gewährt wird. Sie erhalten die nachgewiesenen medizinisch notwendigen und angemessenen Kosten bis zur zweifachen Summe der Kosten einer entsprechenden Heilbehandlung im Geltungsbereich dieses Gesetzes erstattet; in besonders begründeten Fällen kann auch der darüber hinausgehende Betrag teilweise oder ganz erstattet werden. Die Kosten für Arznei- und Verbandmittel sowie Heilmittel können in voller Höhe ersetzt werden. Die Heilbehandlung wegen Schädigungsfolgen kann auch im Geltungsbereich dieses Gesetzes nach vorheriger Genehmigung durch die zuständige Verwaltungsbehörde durchgeführt werden, wenn medizinische oder Kostengründe dies erfordern.
 
@@ -1747,8 +1635,7 @@ Berechtigte mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland erhalten Verso
 
 (6) Die zuständige Verwaltungsbehörde kann anstelle von Leistungen nach den Absätzen 1 bis 3 auch Beiträge für eine Versicherung der Berechtigten im Wohnsitzstaat übernehmen, wenn eine besondere Härte vorliegt, oder Leistungen in Zusammenarbeit mit einer ausländischen Krankenversicherung, mit der sie einen Vertrag geschlossen hat, erbringen.
 
-
-## § 64b
+# § 64b
 
 (1) Berechtigte nach § 64 erhalten bei Bedürftigkeit
 
@@ -1768,8 +1655,7 @@ Dasselbe gilt für die mit Berechtigten nach Satz 1 in einem Haushalt lebenden A
 
 (5) Sofern sich in einzelnen Fällen aus der Anwendung der Vorschrift des Absatzes 1 Satz 1 eine besondere Härte ergibt, können mit Zustimmung des zuständigen Bundesministeriums weitere in den §§ 26 bis 27d genannte Leistungen erbracht werden.
 
-
-## § 64c
+# § 64c
 
 (1) Bei der Festsetzung der Versorgungsbezüge werden ausländische Einkünfte wie vergleichbare inländische Einkünfte berücksichtigt.
 
@@ -1783,18 +1669,15 @@ Dasselbe gilt für die mit Berechtigten nach Satz 1 in einem Haushalt lebenden A
 
 (6) Bestattungsgeld wird beim Tod von Beschädigten bis zur Höhe des Betrags in § 36 Absatz 1 Satz 2 zweite Alternative, beim Tod von Hinterbliebenen bis zur Höhe des Betrags in § 53 Satz 2 zweite Alternative geleistet.
 
-
-## § 64d
+# § 64d
 
 (1) Die Zahlung der Versorgungsbezüge richtet sich nach den devisenrechtlichen Vorschriften. Bei Einkünften aus Staaten mit schwankendem Geldwert und damit verbundenen erheblichen Kursänderungen ist entsprechend der Regelung in § 60a Absatz 1 Satz 2 zu verfahren. In diesen Fällen ist, sofern die Kursänderungen im Laufe des Kalenderjahres in einem gleichbleibenden Rahmen liegen, nach dem Ende des abgelaufenen Kalenderjahres bei der Feststellung der einkommensabhängigen Leistungen der durchschnittliche Kurs dieses Jahres zugrunde zu legen. In Fällen, in denen die Kurse während des Kalenderjahres größeren Schwankungen unterliegen, kann der durchschnittliche Kurs jeweils für einen größeren Zeitabschnitt ermittelt werden.
 
 (2) Können dem Berechtigten die nach diesem Gesetz zustehenden Leistungen nicht zugeführt werden, so können mit Zustimmung des Bundesministeriums für Arbeit und Soziales Ersatzleistungen gewährt werden. Ein Anspruch auf nachträgliche Gewährung des Unterschieds zur vollen Versorgung besteht nicht.
 
+# § 64e – (weggefallen)
 
-## § 64e – (weggefallen)
-
-
-## § 64f
+# § 64f
 
 (1) Die jeweils maßgebenden verfahrensrechtlichen Vorschriften gelten, soweit nicht Besonderheiten der Versorgung von Kriegsopfern außerhalb des Bundesgebiets eine vereinfachte Regelung bedingen. Eine vereinfachte Regelung bedarf der Zulassung durch das Bundesministerium für Arbeit und Soziales. Das gilt insbesondere für die Begründung von Bescheiden und die Zuziehung Dritter zum Verfahren.
 
@@ -1804,8 +1687,7 @@ Dasselbe gilt für die mit Berechtigten nach Satz 1 in einem Haushalt lebenden A
 
 (4) Die Träger der Kriegsopferversorgung und der Kriegsopferfürsorge arbeiten unmittelbar mit den deutschen Dienststellen im Ausland zusammen.
 
-
-## § 65
+# § 65
 
 (1) Der Anspruch auf Versorgungsbezüge ruht, wenn beide Ansprüche auf derselben Ursache beruhen
 
@@ -1827,53 +1709,43 @@ Kinderzulagen zur Verletztenrente aus der gesetzlichen Unfallversicherung bleibe
 
 (5) Das Ruhen wird mit dem Zeitpunkt wirksam, in dem seine Voraussetzungen eingetreten sind. Die Zahlung von Versorgungsbezügen wird mit Ablauf des Monats eingestellt oder gemindert, in dem das Ruhen wirksam wird, und wieder aufgenommen oder erhöht mit Beginn des Monats, in dem das Ruhen endet.
 
-
-## § 66
+# § 66
 
 (1) Die Versorgungsbezüge werden in Monatsbeträgen zuerkannt, auf volle Euro aufgerundet und monatlich im voraus gezahlt. Versorgungskrankengeld und Beihilfe nach § 17 werden tageweise zuerkannt und mit Ablauf jeder Woche gezahlt.
 
 (2) Alle Geldleistungen werden kostenfrei auf ein Konto des Empfangsberechtigten oder eines mit diesem in häuslicher Gemeinschaft lebenden Dritten, das der Empfangsberechtigte angegeben hat, überwiesen. Wenn der Empfangsberechtigte es verlangt, sind sie ihm kostenfrei durch Zahlungsanweisung durch die Deutsche Postbank AG an seinem Wohnsitz oder gewöhnlichen Aufenthaltsort zu zahlen. In besonderen Fällen können sie bei der zuständigen Verwaltungsstelle bar gezahlt werden. § 118 Abs. 3 bis 4a des Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
-
-## § 66a – (weggefallen)
-
-\-
-
-
-## § 66b – (weggefallen)
+# § 66a – (weggefallen)
 
 \-
 
-
-## § 66c – (weggefallen)
+# § 66b – (weggefallen)
 
 \-
 
+# § 66c – (weggefallen)
 
-## § 66d – Umstellung auf Euro in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+\-
+
+# § 66d – Umstellung auf Euro in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 Die in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nummer 1 bis 21 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1067) genannten Maßgaben sind ab 1. Januar 2002 mit der Maßgabe anzuwenden, dass an die Stelle der Wörter "Deutsche Mark" jeweils das Wort "Euro" tritt.
 
+# §§ 67 bis 70a – (weggefallen)
 
-## §§ 67 bis 70a – (weggefallen)
-
-
-## § 71
+# § 71
 
 Bei Unterbringung des Leistungsberechtigten (§ 49 des Ersten Buches Sozialgesetzbuch) zum Vollzug einer Freiheitsstrafe oder einer freiheitsentziehenden Maßregel der Besserung und Sicherung sind bei der Bemessung der Versorgungsbezüge Einkünfte, die durch die Unterbringung gemindert werden, in der bis zur Unterbringung bezogenen Höhe zugrunde zu legen; sie sind im Zeitpunkt der Anpassung der Versorgungsbezüge (§ 56) um den Vomhundertsatz, um den die laufenden Rentenleistungen angepaßt werden, zu erhöhen. Schließt der Vollzug einer Freiheitsstrafe oder einer freiheitsentziehenden Maßregel der Besserung und Sicherung unmittelbar an eine Untersuchungshaft an, so ist Satz 1 mit der Maßgabe anzuwenden, daß durch die Untersuchungshaft geminderte Einkünfte in der bis zum Beginn der Untersuchungshaft bezogenen Höhe zugrunde zu legen sind.
 
-
-## § 71a
+# § 71a
 
 (weggefallen)
 
-
-## § 71b
+# § 71b
 
 Hat die zuständige Verwaltungsbehörde Versorgungsbezüge geleistet, gelten, wenn der Versorgungsberechtigte Ansprüche gegen einen Träger der Sozialversicherung oder eine öffentlich-rechtliche Kasse hat, §§ 104 sowie 106 bis 114 des Zehnten Buches Sozialgesetzbuch und, wenn der Versorgungsberechtigte Ansprüche gegen einen öffentlich-rechtlichen Dienstherrn hat, § 115 des Zehnten Buches Sozialgesetzbuch mit der Maßgabe, daß die Ansprüche dem Kostenträger der Kriegsopferversorgung zustehen. Das gilt auch, wenn der Kostenträger der Kriegsopferversorgung auch diese Leistungen zu tragen hat.
 
-
-## § 72
+# § 72
 
 (1) Beschädigten, die eine Rente erhalten, kann zum Erwerb oder zur wirtschaftlichen Stärkung eigenen Grundbesitzes eine Kapitalabfindung gewährt werden.
 
@@ -1889,8 +1761,7 @@ Hat die zuständige Verwaltungsbehörde Versorgungsbezüge geleistet, gelten, we
 
 (3) Dem Eigentum an einem Grundstück steht das Erbbaurecht, dem Wohnungseigentum das Wohnungserbbaurecht gleich.
 
-
-## § 73
+# § 73
 
 (1) Eine Kapitalabfindung kann nur gewährt werden, wenn
 
@@ -1904,8 +1775,7 @@ Hat die zuständige Verwaltungsbehörde Versorgungsbezüge geleistet, gelten, we
 
 (2) Eine Kapitalabfindung kann ausnahmsweise nach dem 55. Lebensjahr gewährt werden, jedoch nicht, wenn der Antrag erst nach Vollendung des 65. Lebensjahrs gestellt wird.
 
-
-## § 74
+# § 74
 
 (1) Die Kapitalabfindung kann einen Betrag bis zur Höhe der Grundrente (§ 31 Abs. 1 Satz 1) umfassen. Ist eine Herabsetzung der Minderung der Erwerbsfähigkeit innerhalb des Abfindungszeitraums zu erwarten, so kann der Kapitalabfindung nur die Rente zugrunde gelegt werden, die dem zu erwartenden Grad der Schädigungsfolgen entspricht.
 
@@ -1913,15 +1783,13 @@ Hat die zuständige Verwaltungsbehörde Versorgungsbezüge geleistet, gelten, we
 
 (3) Abweichend von Absatz 2 ist die Abfindung auf die für einen Zeitraum von fünf Jahren zustehende Grundrente beschränkt, wenn der Antrag erst nach Vollendung des sechzigsten Lebensjahres gestellt wird. Als Abfindungssumme wird das Siebenundfünfzigfache des der Kapitalabfindung zugrunde liegenden Monatsbetrags gezahlt. Der Anspruch auf die Bezüge, an deren Stelle die Abfindung tritt, erlischt für die Dauer von fünf Jahren mit Ablauf des Monats, der auf den Monat der Auszahlung folgt.
 
-
-## § 75
+# § 75
 
 (1) Die bestimmungsgemäße Verwendung des Kapitals ist durch die Form der Auszahlung und in der Regel durch Maßnahmen zur Verhinderung alsbaldiger Veräußerung des Grundstücks, Erbbaurechts, Wohnungseigentums, Wohnungserbbaurechts oder Dauerwohnrechts zu sichern. Zu diesem Zweck kann insbesondere angeordnet werden, daß die Veräußerung und Belastung des mit der Kapitalabfindung erworbenen oder wirtschaftlich gestärkten Grundstücks, Erbbaurechts, Wohnungseigentums oder Wohnungserbbaurechts innerhalb einer Frist bis zu fünf Jahren nur mit Genehmigung der zuständigen Verwaltungsbehörde zulässig sind. Diese Anordnung wird mit der Eintragung in das Grundbuch wirksam. Die Eintragung erfolgt auf Ersuchen der zuständigen Verwaltungsbehörde.
 
 (2) Ferner kann die Abfindung davon abhängig gemacht werden, daß die Eintragung einer Sicherungshypothek zur Sicherung der Forderung auf die Rückzahlung der Kapitalabfindung nach den §§ 76 und 77 bewilligt wird.
 
-
-## § 76
+# § 76
 
 (1) Die Abfindung ist auf Erfordern insoweit zurückzuzahlen, als sie nicht innerhalb einer von der zuständigen Verwaltungsbehörde bemessenen Frist bestimmungsgemäß verwendet worden ist.
 
@@ -1929,8 +1797,7 @@ Hat die zuständige Verwaltungsbehörde Versorgungsbezüge geleistet, gelten, we
 
 (3) Dem Abgefundenen können vor Ablauf des Abfindungszeitraums auf Antrag die durch die Kapitalabfindung erloschenen Bezüge gegen Rückzahlung der Abfindungssumme wieder bewilligt werden, wenn wichtige Gründe vorliegen.
 
-
-## § 77
+# § 77
 
 (1) Die Pflicht zur Rückzahlung (§ 76) beschränkt sich im Falle der Abfindung nach § 74 Abs. 2 nach Ablauf des  
 
@@ -1976,13 +1843,11 @@ Die Zeiten rechnen vom Ersten des auf die Auszahlung der Abfindungssumme folgend
 
 (3) Nach Rückzahlung der Abfindungssumme leben die der Abfindung zugrunde liegenden Bezüge mit dem Ersten des auf die Rückzahlung folgenden Monats wieder auf.
 
-
-## § 78
+# § 78
 
 Innerhalb der in § 76 Abs. 1 vorgesehenen Frist ist ein der ausgezahlten Abfindungssumme gleichkommender Betrag an Geld, Wertpapieren und Forderungen der Pfändung nicht unterworfen.
 
-
-## § 78a
+# § 78a
 
 (1) Eine Kapitalabfindung kann auch Witwen mit Anspruch auf Rente oder Witwenbeihilfe (§ 48) und Ehegatten Verschollener (§ 52 Abs. 1) gewährt werden. Die Vorschriften der §§ 72 bis 80 gelten entsprechend.
 
@@ -1990,23 +1855,19 @@ Innerhalb der in § 76 Abs. 1 vorgesehenen Frist ist ein der ausgezahlten Abfind
 
 (3) Die Absätze 1 und 2 gelten für hinterbliebene Lebenspartner entsprechend.
 
-
-## § 79
+# § 79
 
 (weggefallen)
 
-
-## § 80
+# § 80
 
 Kapitalabfindungen, die bis zum 9. Mai 1945 gewährt worden sind, bewirken keine Kürzung der nach diesem Gesetz festgestellten Renten.
 
-
-## § 81
+# § 81
 
 Erfüllen Personen die Voraussetzungen des § 1 oder entsprechender Vorschriften anderer Gesetze, die eine entsprechende Anwendung dieses Gesetzes vorsehen, so haben sie wegen einer Schädigung gegen den Bund nur die auf diesem Gesetz beruhenden Ansprüche; jedoch finden die Vorschriften der beamtenrechtlichen Unfallfürsorge, das Gesetz über die Erweiterte Zulassung von Schadenersatzansprüchen bei Dienstunfällen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2030-2-19, bereinigten Fassung, und § 82 des Beamtenversorgungsgesetzes Anwendung.
 
-
-## § 81a
+# § 81a
 
 (1) Soweit den Versorgungsberechtigten ein gesetzlicher Anspruch auf Ersatz des ihnen durch die Schädigung verursachten Schadens gegen Dritte zusteht, geht dieser Anspruch im Umfang der durch dieses Gesetz begründeten Pflicht zur Erbringung von Leistungen auf den Bund über. Das gilt nicht bei Ansprüchen, die aus Schwangerschaft und Niederkunft erwachsen sind. Der Übergang des Anspruchs kann nicht zum Nachteil des Berechtigten geltend gemacht werden.
 
@@ -2016,18 +1877,15 @@ Erfüllen Personen die Voraussetzungen des § 1 oder entsprechender Vorschriften
 
 (4) § 116 Abs. 8 des Zehnten Buches Sozialgesetzbuch gilt entsprechend.
 
-
-## § 81b
+# § 81b
 
 Hat eine Verwaltungsbehörde oder eine andere Einrichtung der Kriegsopferversorgung Leistungen gewährt und stellt sich nachträglich heraus, daß statt ihrer eine andere öffentlich-rechtliche Stelle, die kein Leistungsträger im Sinne von § 12 des Ersten Buches Sozialgesetzbuch ist, zur Leistung verpflichtet gewesen wäre, hat die zur Leistung verpflichtete Stelle die Aufwendungen in dem Umfang zu erstatten, wie sie ihr nach den für sie geltenden Rechtsvorschriften oblagen.
 
-
-## § 81c
+# § 81c
 
 Werden nach diesem Gesetz Leistungen erbracht, deren Höhe vom Umfang eines Anspruchs gegen einen Dritten, der kein Leistungsträger ist, beeinflußt wird, kann die Verwaltungsbehörde den zu berücksichtigenden Anspruch bis zur Höhe ihrer Leistung durch schriftliche Anzeige auf den Kostenträger der Kriegsopferversorgung überleiten.
 
-
-## § 82
+# § 82
 
 (1) Dieses Gesetz ist entsprechend anzuwenden auf
 
@@ -2043,35 +1901,29 @@ b) auf Grund des § 1 Nr. 2 des Gesetzes über den Ersatz der durch die Besetzun
 
 (2) Versorgung nach diesem Gesetz kann auch an Vertriebene im Sinne des § 1 des Bundesvertriebenengesetzes, die Deutsche oder deutsche Volkszugehörige sind, gewährt werden, wenn sie nach dem 8. Mai 1945 in Erfüllung ihrer gesetzlichen Wehrpflicht nach den im Vertreibungsgebiet geltenden Vorschriften eine Schädigung im Sinne des § 1 Abs. 1 erlitten haben; das gilt nicht, wenn sie aus derselben Ursache einen Anspruch auf Versorgung gegen das Land, das die Dienstpflicht gefordert hat, haben und diesen Anspruch verwirklichen können. Satz 1 gilt auch für Spätaussiedler im Sinne des § 4 des Bundesvertriebenengesetzes.
 
-
-## § 83
+# § 83
 
 Bei der Bemessung des Arbeitsentgelts von Beschäftigten, die Versorgungsbezüge nach diesem Gesetz erhalten, dürfen diese Bezüge nicht zum Nachteil des Beschäftigten berücksichtigt werden; insbesondere ist es unzulässig, die Versorgungsbezüge ganz oder teilweise auf das Entgelt anzurechnen. Das gilt auch für Leistungen, die mit Rücksicht auf eine frühere Tätigkeit an den ehemals Erwerbstätigen oder seine Hinterbliebenen zur Erfüllung eines Rechtsanspruchs oder freiwillig erbracht werden.
 
-
-## § 84
+# § 84
 
 (1) Vor dem 1. Juli 1985 bewilligte Witwen- und Waisenbeihilfen bleiben von der am 1. Juli 1985 in Kraft getretenen Änderung des § 48 unberührt.
 
 (2) Haben Berechtigte mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland im Monat Juni 1988 Anspruch auf Berufsschadensausgleich oder Schadensausgleich unter Zugrundelegung ausländischer Vergleichseinkommen, gilt § 64c in der bis zum 30. Juni 1988 geltenden Fassung, solange dies günstiger ist. Dabei ist dem derzeitigen Einkommen das für den Monat Juli 1988 maßgebende ausländische Vergleichseinkommen gegenüberzustellen; dieses Vergleichseinkommen wird in den Folgejahren jeweils zum 1. Juli in dem gleichen Umfang wie der Bemessungsbetrag (§ 33 Abs. 1) verändert.
 
-
-## § 84a
+# § 84a
 
 Die Maßgabe nach Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nummer 1 Buchstabe a in Verbindung mit Artikel 3 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) ist ab dem 1. Juli 2011 nicht mehr anzuwenden.
 
-
-## § 85
+# § 85
 
 Soweit nach vor dem 1. Oktober 1950 geltenden versorgungsrechtlichen Vorschriften über die Frage des ursächlichen Zusammenhangs einer Gesundheitsstörung mit einer Schädigung im Sinne des § 1 entschieden worden ist, ist die Entscheidung auch nach diesem Gesetz rechtsverbindlich. Satz 1 gilt nicht für eine den ursächlichen Zusammenhang verneinende Entscheidung, die nach dem 8. Mai 1945 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet getroffen worden ist.
 
-
-## § 86 – Unterhaltsbeihilfe für Angehörige von Kriegsgefangenen und politischen Häftlingen
+# § 86 – Unterhaltsbeihilfe für Angehörige von Kriegsgefangenen und politischen Häftlingen
 
 Personen, die am 20. Dezember 2007 Anspruch auf Unterhaltsbeihilfe nach dem Gesetz über die Unterhaltshilfe für Angehörige von Kriegsgefangenen in der Fassung der Bekanntmachung vom 18. März 1964 (BGBl. I S. 218) oder nach § 8 des Häftlingshilfegesetzes haben, erhalten die gleichen Leistungen, die Hinterbliebenen nach diesem Gesetz zustehen.
 
-
-## § 87
+# § 87
 
 (1) Wurde der Berufsschadensausgleich vor dem 1. Juli 2011 beantragt, wird zum 30. Juni 2011 der Betrag des jeweiligen Vergleichseinkommens festgestellt und dann jährlich mit dem in § 56 Absatz 1 Satz 1 bestimmten Vomhundertsatz angepasst. Dabei ist § 15 Satz 3 entsprechend anzuwenden. Die Sätze 1 und 2 gelten auch für Anträge auf Anpassung des Berufsschadensausgleichs nach § 30 Absatz 16 in der bis zum 30. Juni 2011 geltenden Fassung.
 
@@ -2081,8 +1933,7 @@ Personen, die am 20. Dezember 2007 Anspruch auf Unterhaltsbeihilfe nach dem Gese
 
 (4) Die Maßgabe nach Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nummer 1 Buchstabe a des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) ist bei der Berechnung der Leistungen nach den Absätzen 1 und 2 nicht anzuwenden.
 
-
-## § 88 – Übergangsregelung zur Verhinderung einer Zahlungslücke
+# § 88 – Übergangsregelung zur Verhinderung einer Zahlungslücke
 
 Leistungsberechtigte,
 
@@ -2094,8 +1945,7 @@ Leistungsberechtigte,
 
 haben dieses im Januar 2020 zufließende Einkommen abweichend von § 25d nicht für die ergänzende Hilfe zum Lebensunterhalt nach § 27a einzusetzen. Einer laufenden Rente aus der gesetzlichen Rentenversicherung stehen Renten und rentenähnliche Dauerleistungen anderer Sozialleistungsträger gleich, sofern diese erst am Ende des laufenden Monats fällig sind.
 
-
-## § 88a
+# § 88a
 
 (1) Ergänzende Hilfe zum Lebensunterhalt nach § 27a für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. Dezember 2021 beginnen, wird nach Maßgabe der Absätze 2 bis 4 erbracht.
 
@@ -2109,8 +1959,7 @@ haben dieses im Januar 2020 zufließende Einkommen abweichend von § 25d nicht f
 
 (6) (weggefallen)
 
-
-## § 88b
+# § 88b
 
 (1) Abweichend von § 27a Satz 2 dieses Gesetzes in Verbindung mit § 34 Absatz 6 Satz 1 des Zwölften Buches Sozialgesetzbuch kommt es im Zeitraum vom 1. März 2020 bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 31. Dezember 2021, auf eine Gemeinschaftlichkeit der Mittagsverpflegung nicht an. Zu den Aufwendungen im Sinne des § 27a Satz 2 dieses Gesetzes in Verbindung mit § 34 Absatz 6 Satz 1 des Zwölften Buches Sozialgesetzbuch zählen bei den Leistungsberechtigten anfallende Zahlungsverpflichtungen auch dann, wenn sie pandemiebedingt in geänderter Höhe oder aufgrund abweichender Abgabewege berechnet werden. Dies umfasst auch die Kosten einer Belieferung. § 27a Satz 2 dieses Gesetzes in Verbindung mit § 34 Absatz 6 Satz 2 des Zwölften Buches Sozialgesetzbuch findet keine Anwendung.
 
@@ -2118,18 +1967,15 @@ haben dieses im Januar 2020 zufließende Einkommen abweichend von § 25d nicht f
 
 (3) (weggefallen)
 
-
-## § 88c
+# § 88c
 
 Der Träger der Kriegsopferfürsorge hat über Leistungen der ergänzenden Hilfe zum Lebensunterhalt ohne Berücksichtigung eines eventuellen Freibetrages nach § 25d Absatz 3c zu entscheiden, so lange ihm nicht durch eine Mitteilung des Rentenversicherungsträgers oder berufsständischer Versicherungs- oder Versorgungseinrichtungen nachgewiesen ist, dass die Voraussetzungen für die Einräumung des Freibetrages vorliegen.
 
-
-## § 88d
+# § 88d
 
 Erwachsene Leistungsberechtigte, denen für den Monat Mai 2021 Leistungen nach § 27a gezahlt werden, erhalten für sich und ihren Ehegatten oder Lebenspartner im Sinne des § 25 Absatz 4 Satz 2 Nummer 1 für den Zeitraum vom 1. Januar 2021 bis zum 30. Juni 2021 zum Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe von 150 Euro.
 
-
-## § 89
+# § 89
 
 (1) Sofern sich in einzelnen Fällen aus den Vorschriften dieses Gesetzes besondere Härten ergeben, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales ein Ausgleich gewährt werden.
 
@@ -2137,8 +1983,7 @@ Erwachsene Leistungsberechtigte, denen für den Monat Mai 2021 Leistungen nach �
 
 (3) Zahlungen für Zeiträume vor dem Monat, in dem die Entscheidung für die Verwaltungsbehörde bindend wird, kommen in der Regel nicht in Betracht, wenn sie überwiegend zur Erfüllung von Erstattungsansprüchen anderer Leistungsträger führten.
 
-
-## § 90
+# § 90
 
 (1) Führt eine Änderung des Bundesversorgungsgesetzes, einer Verordnung auf Grund des Bundesversorgungsgesetzes oder einer Rechtsvorschrift, auf die das Bundesversorgungsgesetz verweist, zu einer Änderung laufend gewährter Versorgungsbezüge, Versorgungskrankengelder und Übergangsgelder, sind diese von Amts wegen neu festzustellen. Sind nur die einkommensunabhängigen Leistungen nach den §§ 14, 15, 31 Abs. 1 und 4, § 35 Abs. 1 und den §§ 40 und 46 anzupassen (§ 56), kann von einer förmlichen Bescheiderteilung abgesehen werden.
 
@@ -2146,12 +1991,10 @@ Erwachsene Leistungsberechtigte, denen für den Monat Mai 2021 Leistungen nach �
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn Versorgung als Kannleistung oder im Wege des Härteausgleichs gewährt wird.
 
-
-## § 91
+# § 91
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, den Wortlaut des Gesetzes und der zu diesem Gesetz erlassenen Durchführungsverordnungen in der jeweils geltenden Fassung mit neuem Datum und in neuer Paragraphenfolge bekanntzumachen. Es kann dabei Unstimmigkeiten des Wortlauts beseitigen.
 
-
-## § 92 – (weggefallen)
+# § 92 – (weggefallen)
 
 \-

@@ -1,20 +1,15 @@
-# [VKVV] Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung  (Versicherungsnummern-, Kontoführungs- und Versicherungsverlaufsverordnung - VKVV)
-
-Ausfertigungsdatum: 30.03.2001
-
+% Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung  (Versicherungsnummern-, Kontoführungs- und Versicherungsverlaufsverordnung - VKVV)
+% Ausfertigungsdatum: 30.03.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 152 Nr. 1 bis 6 des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
-## § 1 – Vergabe und Zuordnung der Versicherungsnummer
+# § 1 – Vergabe und Zuordnung der Versicherungsnummer
 
 Die Datenstelle der Rentenversicherung vergibt für Versicherte, an die noch keine inländische Versicherungsnummer vergeben wurde, gemäß § 147 des Sechsten Buches Sozialgesetzbuch eine Versicherungsnummer. Für andere Personen kann eine Versicherungsnummer vergeben werden, soweit dies zur Aufgabenerfüllung der Rentenversicherung erforderlich ist. Gleichzeitig ordnet die Datenstelle gemäß § 127 des Sechsten Buches Sozialgesetzbuch jeden Versicherten einem Rentenversicherungsträger zu.
 
-
-## § 2 – Aufbau der Versicherungsnummer
+# § 2 – Aufbau der Versicherungsnummer
 
 (1) Die Versicherungsnummer wird gemäß § 147 Abs. 2 des Sechsten Buches Sozialgesetzbuch nach Maßgabe der folgenden Absätze gebildet aus
 
@@ -38,8 +33,7 @@ e) der Prüfziffer.
 
 (6) Die zwölfte Stelle, die Prüfziffer, wird errechnet, indem der Buchstabe in der neunten Stelle durch eine zweistellige Zahl ersetzt wird, die die Position des Buchstabens im deutschen Alphabet kennzeichnet. Die Ziffern der damit zwölfstelligen Nummer werden - an der ersten Stelle beginnend - mit den Faktoren 2, 1, 2, 5, 7, 1, 2, 1, 2, 1, 2 und 1 multipliziert. Von den Produkten werden die Quersummen gebildet. Die Quersummen werden addiert. Die Summe wird durch 10 dividiert. Der verbleibende Rest ist die Prüfziffer.
 
-
-## § 3 – Berichtigung der Versicherungsnummer
+# § 3 – Berichtigung der Versicherungsnummer
 
 (1) Eine Versicherungsnummer wird nur einmal vergeben und nicht berichtigt. Versicherungsnummern, in denen das Geburtsdatum oder die Seriennummer unrichtig sind oder Versicherungsnummern, die aufgrund einer nach § 33a des Ersten Buches Sozialgesetzbuch zu berücksichtigenden Änderung des Geburtsdatums fehlerhaft geworden sind, werden gesperrt. Die Versicherten erhalten eine neue Versicherungsnummer.
 
@@ -47,44 +41,37 @@ e) der Prüfziffer.
 
 (3) Wird eine Versicherungsnummer für mehrere Versicherte benutzt, darf diese nicht mehr verwendet werden. Die Versicherten erhalten eine neue Versicherungsnummer. Die gespeicherten Daten werden durch die Rentenversicherungsträger dem richtigen Versicherungskonto zugeordnet.
 
-
-## § 4 – Zuständigkeit für die Kontoführung
+# § 4 – Zuständigkeit für die Kontoführung
 
 Zuständig für die Kontoführung ist der Träger der Rentenversicherung, der nach den Bestimmungen des Sechsten Buches Sozialgesetzbuch für die Erfüllung der Aufgaben der Rentenversicherung zuständig ist.
 
-
-## § 5 – Aufgaben der Datenstelle im Rahmen der Kontoführung
+# § 5 – Aufgaben der Datenstelle im Rahmen der Kontoführung
 
 Die Datenstelle der Rentenversicherung ist zur Aufgabenerfüllung nach § 150 des Sechsten Buches Sozialgesetzbuch von den Rentenversicherungsträgern über Änderungen in den in der Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
 
-
-## § 6 – Wechsel der Kontoführung
+# § 6 – Wechsel der Kontoführung
 
 (1) Bei einem Wechsel der Kontoführung erfolgt der Austausch des Inhalts des Versicherungskontos über die Datenstelle. Auf Anforderung sind die Versicherungsunterlagen zu übersenden.
 
 (2) Stellt die Datenstelle der Rentenversicherung bei der Annahme von Meldungen fest, dass die Voraussetzungen für einen Wechsel der Kontoführung vorliegen, ist der neu zuständige Rentenversicherungsträger zur Übernahme des Versicherungskontos aufzufordern.
 
-
-## § 7 – Versendung eines Versicherungsverlaufs
+# § 7 – Versendung eines Versicherungsverlaufs
 
 (1) Der Konto führende Träger der Rentenversicherung teilt den Versicherten, die das 43. Lebensjahr vollendet haben, alle sechs Jahre die in ihrem Versicherungskonto gespeicherten Sozialdaten mit, die für die Höhe einer Rentenanwartschaft erheblich sind. Ein Versicherungsverlauf kann auch in kürzeren Abständen, an jüngere Versicherte und an Versicherte mit Wohnsitz oder gewöhnlichem Aufenthalt im Ausland erteilt werden.
 
 (2) Der erste Versicherungsverlauf enthält die gespeicherten Beitragszeiten, beitragsfreie Zeiten und Berücksichtigungszeiten unabhängig von deren Anrechenbarkeit sowie Zeiten, die für die Anerkennung solcher Zeiten erheblich sein können. Auf Kalendermonate, für die rentenerhebliche Tatsache nicht gespeichert sind, ist hinzuweisen. Die folgenden Versicherungsverläufe können auf bisher noch nicht bindend festgestellte Daten beschränkt werden.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Juli 2001 in Kraft.
 
 (2)
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 2 Abs. 2)  Bereichsnummern
+# Anlage – (zu § 2 Abs. 2)  Bereichsnummern
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3290 u. 3291
 

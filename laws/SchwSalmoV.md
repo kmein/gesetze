@@ -1,15 +1,11 @@
-# [SchwSalmoV] Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine  (Schweine-Salmonellen-Verordnung)
-
-Ausfertigungsdatum: 13.03.2007
-
+% Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine  (Schweine-Salmonellen-Verordnung)
+% Ausfertigungsdatum: 13.03.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1, 3, 4, 7, 13, 14, 17 und 19, des § 79a Abs. 2 Nr. 2 in Verbindung mit § 17b Abs. 1 Nr. 4 Buchstabe b, c, d und f, des § 79a Abs. 2 Nr. 4 in Verbindung mit § 18, § 20 Abs. 1 Nr. 2, § 23, § 27 und § 29 und des § 79a Abs. 2 Nr. 5 in Verbindung mit § 73a Satz 1 und 2 Nr. 1, 4 und 5, jeweils auch in Verbindung mit § 79a Abs. 1 Satz 1, des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260), von denen § 79a Abs. 1 Satz 1 durch Artikel 2 § 3 Abs. 5 des Gesetzes vom 1. September 2005 (BGBl. I S. 2618) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -39,8 +35,7 @@ a) eine Blutprobe zur Gewinnung von Blutserum, die der Probenehmer entnommen hat
 
 b) eine Muskelprobe zur Gewinnung von Fleischsaft, die ein Probenehmer in der Schlachtstätte entnommen hat.
 
-
-## § 2 – Untersuchung
+# § 2 – Untersuchung
 
 (1) Der Inhaber eines Endmastbetriebs (Untersuchungspflichtiger) hat Blutproben von Mastschweinen seines Betriebs oder, soweit Betriebsabteilungen vorhanden sind, für jede Betriebsabteilung gesondert, nach dem Stichprobenschlüssel der Anlage 1 entnehmen und in einer Einrichtung, die die Anforderungen der DIN-Norm 17025/2005 \*) erfüllt (Untersuchungsstelle), auf Antikörper gegen Salmonellen untersuchen zu lassen. Die Probenahme ist auf alle Schweine eines Endmastbetriebs oder, soweit Betriebsabteilungen vorhanden sind, getrennt nach Betriebsabteilungen auf alle Schweine der jeweiligen Betriebsabteilung, gleichmäßig über das Jahr, jedoch frühestens 14 Tage vor deren Abgabe zur Schlachtung, zu verteilen.
 
@@ -60,19 +55,16 @@ b) eine Muskelprobe zur Gewinnung von Fleischsaft, die ein Probenehmer in der Sc
 
 (5) Der Untersuchungspflichtige hat sicherzustellen, dass er eine Mehrfertigung des Probenahmeberichts erhält. Die weitere Mehrfertigung des Probenahmeberichts bleibt beim Probenehmer. Der Untersuchungspflichtige hat die Mehrfertigung des Probenahmeberichts auf Verlangen der zuständigen Behörde auf seine Kosten vorzulegen.
 
-(6) Der Betreiber der Untersuchungsstelle, der Untersuchungspflichtige und der Probenehmer haben den Probenahmebericht vom Tage der Ausstellung an gerechnet mindestens drei Jahre aufzubewahren.  
------
+(6) Der Betreiber der Untersuchungsstelle, der Untersuchungspflichtige und der Probenehmer haben den Probenahmebericht vom Tage der Ausstellung an gerechnet mindestens drei Jahre aufzubewahren. -----
 
 \*)  
 Die DIN-Norm ist im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie ist beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
-
-## § 3 – Untersuchungsergebnisse
+# § 3 – Untersuchungsergebnisse
 
 Der Untersuchungspflichtige hat sicherzustellen, dass ihm die Untersuchungsstelle das Ergebnis der Untersuchung unverzüglich schriftlich oder elektronisch mitteilt.
 
-
-## § 4 – Aufzeichnungen und Kategorisierung
+# § 4 – Aufzeichnungen und Kategorisierung
 
 (1) Der Untersuchungspflichtige hat, im Falle des § 2 Abs. 1 Satz 2 geordnet nach Betriebsabteilungen,
 
@@ -86,13 +78,11 @@ Die Ergebnisse nach Satz 1 Nr. 1 und die Aufzeichnungen nach Satz 1 Nr. 2 sind v
 
 (3) Die erste Feststellung des Vom-Hundert-Anteils nach Absatz 1 Satz 1 Nr. 2 oder Absatz 2 erfolgt zwölf Monate nach dem 24. März 2007. Soweit der Untersuchungspflichtige Maßnahmen vor dem Inkrafttreten dieser Verordnung ergriffen hat, die den Absätzen 1 und 2 sowie den §§ 2 und 3 entsprechen, kann die Feststellung des Vom-Hundert-Anteils bereits zu einem früheren Zeitpunkt erfolgen.
 
-
-## § 5 – Impfungen
+# § 5 – Impfungen
 
 Bei einer Impfung gegen Salmonellen dürfen keine Impfstoffe angewendet werden, die geeignet sind, die Untersuchungen auf Antikörper nach § 2 Abs. 1 und 2 zu beeinträchtigen.
 
-
-## § 6 – Maßnahmen
+# § 6 – Maßnahmen
 
 Ergibt die Feststellung der positiven Salmonellenantikörperbefunde nach § 4 Abs. 2 einen Vom-Hundert-Anteil von mehr als 40, so hat der Untersuchungspflichtige unter Hinzuziehung des betreuenden Tierarztes sicherzustellen, dass unverzüglich
 
@@ -102,8 +92,7 @@ Ergibt die Feststellung der positiven Salmonellenantikörperbefunde nach § 4 Ab
 
 Die Art, der Umfang, die Durchführung und das Ergebnis der Maßnahmen sind unverzüglich aufzuzeichnen. Der Untersuchungspflichtige hat die Aufzeichnungen vom Tage des Beginns der jeweiligen Maßnahmen an mindestens drei Jahre aufzubewahren.
 
-
-## § 7 – Informationspflicht
+# § 7 – Informationspflicht
 
 (1) Auf Anforderung der zuständigen Behörde hat der Untersuchungspflichtige
 
@@ -113,13 +102,11 @@ Die Art, der Umfang, die Durchführung und das Ergebnis der Maßnahmen sind unve
 
 (2) Der Untersuchungspflichtige hat der zuständigen Behörde innerhalb von zwei Wochen nach der Aufzeichnung des Vom-Hundert-Anteils der positiven Salmonellenantikörperbefunde nach § 4 Abs. 1 Satz 1 Nr. 2 jede Feststellung des Vom-Hundert-Anteils von mehr als 40 schriftlich oder elektronisch mitzuteilen.
 
-
-## § 8 – Beauftragung
+# § 8 – Beauftragung
 
 Der Untersuchungspflichtige kann sich zur Erfüllung seiner Pflichten nach dieser Verordnung einer von ihm beauftragten Einrichtung bedienen.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -137,23 +124,19 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 7. entgegen § 7 Abs. 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 10 – Übergangsvorschriften
+# § 10 – Übergangsvorschriften
 
 Diese Verordnung findet bis zum 31. Dezember 2008 mit der Maßgabe Anwendung, dass ein Endmastbetrieb im Sinne des § 1 Nr. 1 ein Betrieb im Sinne des § 1 Nr. 1 der Schweinehaltungshygieneverordnung ist, der mehr als 100 Mastplätze hat und in dem Schweine bis zur Schlachtreife gemästet werden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Abs. 1 und 2, § 4 Abs. 2)
+# Anlage 1 – (zu § 2 Abs. 1 und 2, § 4 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 325)
 
@@ -169,8 +152,7 @@ Stichprobenschlüssel
 \*)  
 Sofern weniger als 26 Schweine voraussichtlich zur Schlachtung abgegeben werden, sind alle Schweine zu untersuchen.
 
-
-## Anlage 2 – (zu § 4 Abs. 2)
+# Anlage 2 – (zu § 4 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 325)
 

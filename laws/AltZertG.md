@@ -1,10 +1,7 @@
-# [AltZertG] Gesetz über die Zertifizierung von Altersvorsorge- und Basisrentenverträgen  (Altersvorsorgeverträge-Zertifizierungsgesetz - AltZertG)
-
-Ausfertigungsdatum: 26.06.2001
-
+% Gesetz über die Zertifizierung von Altersvorsorge- und Basisrentenverträgen  (Altersvorsorgeverträge-Zertifizierungsgesetz - AltZertG)
+% Ausfertigungsdatum: 26.06.2001
  
-
-## § 1 – Begriffsbestimmungen zum Altersvorsorgevertrag
+# § 1 – Begriffsbestimmungen zum Altersvorsorgevertrag
 
 (1) Ein Altersvorsorgevertrag im Sinne dieses Gesetzes liegt vor, wenn zwischen dem Anbieter und einer natürlichen Person (Vertragspartner) eine Vereinbarung in deutscher Sprache geschlossen wird,
 
@@ -26,8 +23,7 @@ a) im Fall der Aufgabe der Selbstnutzung der Genossenschaftswohnung, des Ausschl
 
 b) die auf die weiteren Geschäftsanteile entfallenden Erträge nicht ausgezahlt, sondern für den Erwerb weiterer Geschäftsanteile verwendet werden;
 
-6\. und 7.  
-(weggefallen)
+6\. und 7. (weggefallen)
 
 8. die vorsieht, dass die angesetzten Abschluss- und Vertriebskosten gleichmäßig mindestens auf die ersten fünf Vertragsjahre verteilt werden, soweit sie nicht als Prozentsatz von den Altersvorsorgebeiträgen abgezogen werden;
 
@@ -113,8 +109,7 @@ Abzüge, soweit sie nicht in diesem Gesetz vorgesehen sind, sind nicht zulässig
 
 (+++ § 1: Zur Anwendung d. Änderungen d. Art. 2 Nr. 1 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 2 – Begriffsbestimmungen zum Basisrentenvertrag
+# § 2 – Begriffsbestimmungen zum Basisrentenvertrag
 
 (1) Ein Basisrentenvertrag im Sinne dieses Gesetzes liegt vor, wenn zwischen dem Anbieter und einer natürlichen Person (Vertragspartner) eine Vereinbarung in deutscher Sprache geschlossen wird, die die Voraussetzungen des § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe aa des Einkommensteuergesetzes erfüllt. Dies gilt entsprechend, wenn zum Aufbau einer kapitalgedeckten betrieblichen Altersversorgung eine Vereinbarung, die die Anforderungen des § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe aa des Einkommensteuergesetzes erfüllt, zwischen dem Anbieter und dem Arbeitgeber zugunsten des Arbeitnehmers geschlossen wird.
 
@@ -138,8 +133,7 @@ Abzüge, soweit sie nicht in diesem Gesetz vorgesehen sind, sind nicht zulässig
 
 (+++ § 2: Zur Anwendung d. Änderungen d. Art. 2 Nr. 2 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 2a – Kostenstruktur
+# § 2a – Kostenstruktur
 
 Ein Altersvorsorgevertrag oder ein Basisrentenvertrag darf ausschließlich die nachfolgend genannten Kostenarten vorsehen:
 
@@ -177,8 +171,7 @@ Von Satz 1 bleiben unberührt
 
 (+++ § 2a: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 3 – Zertifizierungsstelle, Aufgaben
+# § 3 – Zertifizierungsstelle, Aufgaben
 
 (1) Zertifizierungsstelle ist das Bundeszentralamt für Steuern.
 
@@ -188,8 +181,7 @@ Von Satz 1 bleiben unberührt
 
 (4) Die Zertifizierungsstelle nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben nur im öffentlichen Interesse wahr.
 
-
-## § 3a – Produktinformationsstelle Altersvorsorge
+# § 3a – Produktinformationsstelle Altersvorsorge
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, die Aufgaben nach § 3 Absatz 2 Satz 2 und 3 einer juristischen Person des Privatrechts (Produktinformationsstelle Altersvorsorge) im Wege der Beleihung ganz oder teilweise zu übertragen. Sie untersteht nicht den Weisungen des Bundesministeriums der Finanzen. Verletzt sie in Ausübung der ihr auf Grund dieses Gesetzes übertragenen Aufgaben Pflichten, die ihr einem Dritten gegenüber obliegen, so haftet allein sie. Die Produktinformationsstelle Altersvorsorge haftet nur für Vorsatz oder grobe Fahrlässigkeit. § 9 gilt entsprechend.
 
@@ -197,8 +189,7 @@ Von Satz 1 bleiben unberührt
 
 (3) Die Produktinformationsstelle Altersvorsorge darf Gebühren auf der Grundlage einer Gebührensatzung erheben, um die ihr entstehenden Verwaltungskosten zu decken. Die Gebührensatzung bedarf der Genehmigung des Bundesministeriums der Finanzen.
 
-
-## § 4 – Antrag, Ergänzungsanforderungen, Ergänzungsanzeigen, Ausschlussfristen
+# § 4 – Antrag, Ergänzungsanforderungen, Ergänzungsanzeigen, Ausschlussfristen
 
 (1) Die Zertifizierung erfolgt auf Antrag des Anbieters. Mit dem Antrag sind vorzulegen:
 
@@ -220,27 +211,23 @@ Der Bevollmächtigte hat auf Verlangen der Zertifizierungsstelle seine Vollmacht
 
 (5) Fehlende Angaben oder Unterlagen fordert die Zertifizierungsstelle innerhalb von drei Monaten als Ergänzungsanzeige an (Ergänzungsanforderung). Innerhalb von drei Monaten nach Zugang der Ergänzungsanforderung ist die Ergänzungsanzeige der Zertifizierungsstelle zu erstatten; andernfalls lehnt die Zertifizierungsstelle den Zertifizierungsantrag ab. Die Frist nach Satz 2 ist eine Ausschlussfrist.
 
-
-## § 5 – Zertifizierung von Altersvorsorgeverträgen
+# § 5 – Zertifizierung von Altersvorsorgeverträgen
 
 Die Zertifizierungsstelle erteilt die Zertifizierung nach § 1 Abs. 3, wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen vorliegen sowie die Vertragsbedingungen des Altersvorsorgevertrags dem § 1 Absatz 1, 1a oder beiden Absätzen sowie dem § 2a entsprechen und der Anbieter den Anforderungen des § 1 Absatz 2 entspricht.
 
 (+++ § 5: Zur Anwendung d. Änderungen d. Art. 2 Nr. 6 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 5a – Zertifizierung von Basisrentenverträgen
+# § 5a – Zertifizierung von Basisrentenverträgen
 
 Die Zertifizierungsstelle erteilt die Zertifizierung nach § 2 Abs. 3, wenn ihr die nach diesem Gesetz erforderlichen Angaben und Unterlagen vorliegen sowie die Vertragsbedingungen des Basisrentenvertrags dem § 2 Absatz 1 oder Absatz 1a sowie dem § 2a entsprechen und der Anbieter den Anforderungen des § 2 Absatz 2 entspricht.
 
 (+++ § 5a: Zur Anwendung d. Änderungen d. Art. 2 Nr. 7 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 6 – Rechtsverordnung
+# § 6 – Rechtsverordnung
 
 Zum Schutz der Verbraucher, insbesondere zur besseren Vergleichbarkeit der Produkte sowie zur Vereinheitlichung des Verfahrens, kann das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über das Zertifizierungsverfahren und zu Art, Inhalt, Umfang und Darstellung von Produktinformationsblättern und Informationspflichten gemäß den §§ 7 bis 7c treffen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf das Bundeszentralamt für Steuern übertragen.
 
-
-## § 7 – Informationspflichten im Produktinformationsblatt
+# § 7 – Informationspflichten im Produktinformationsblatt
 
 (1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags hat den Vertragspartner rechtzeitig durch ein individuelles Produktinformationsblatt zu informieren, spätestens jedoch, bevor dieser seine Vertragserklärung abgibt. Das individuelle Produktinformationsblatt muss folgende Angaben enthalten:
 
@@ -302,8 +289,7 @@ Satz 2 Nummer 7, 8, 10 und 13 gilt nicht für Basisrentenverträge nach § 10 Ab
 
 (+++ § 7: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 7a – Jährliche Informationspflicht
+# § 7a – Jährliche Informationspflicht
 
 (1) Der Anbieter eines Altersvorsorge- oder Basisrentenvertrags ist verpflichtet, den Vertragspartner jährlich bis zum Ablauf des auf das Beitragsjahr folgenden Jahres schriftlich über folgende Punkte zu informieren:
 
@@ -333,8 +319,7 @@ Absatz 1 Satz 1 Nummer 5 gilt nicht für Verträge, die vor dem in § 14 Absatz 
 
 (+++ § 7a: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 7b – Information vor der Auszahlungsphase des Altersvorsorgevertrags
+# § 7b – Information vor der Auszahlungsphase des Altersvorsorgevertrags
 
 (1) Sind aus einem Altersvorsorgevertrag Leistungen nach § 1 Absatz 1 Satz 1 Nummer 4 zu erbringen, hat ein Anbieter von Altersvorsorgeverträgen den Vertragspartner frühestens zwei Jahre vor Beginn der vertraglich vereinbarten Auszahlungsphase schriftlich über folgende Punkte zu informieren:
 
@@ -350,34 +335,29 @@ Ist kein Beginn der Auszahlungsphase vereinbart, so gilt für Altersvorsorgevert
 
 (+++ § 7b: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 7c – Kostenänderung
+# § 7c – Kostenänderung
 
 Ein Anbieter hat dem Vertragspartner eine Änderung der Kosten, die im individuellen Produktinformationsblatt nach § 7 Absatz 1 Satz 1 ausgewiesen sind, nach Maßgabe der Sätze 2 bis 7 anzuzeigen; nicht angezeigte Kosten nach § 2a Satz 1 sind vom Vertragspartner nicht geschuldet. Die Anzeige einer Kostenänderung hat mit einer Frist von vier Monaten zum Ende eines Kalendervierteljahres, bevor die Kostenänderung wirksam werden soll, zu erfolgen. Bei einer Kostenänderung vor Beginn der Auszahlungsphase hat der Anbieter dazu dem Vertragspartner ein angepasstes individuelles Produktinformationsblatt oder ein Blatt, das mindestens die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 9, 10 und 13 enthält, zur Verfügung zu stellen. Den Berechnungen für die Angaben nach § 7 Absatz 1 Satz 2 Nummer 10 und 13 sind die Wertentwicklungen zugrunde zu legen, die den Berechnungen im vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt zugrunde gelegen haben; bei Altersvorsorge- und Basisrentenverträgen, die abgeschlossen wurden, um Anrechte auf Grund einer internen Teilung nach § 10 des Versorgungsausgleichsgesetzes zu übertragen, sind die Wertentwicklungen zugrunde zu legen, die den Berechnungen im vor Vertragsabschluss zur Verfügung gestellten individuellen Produktinformationsblatt der ausgleichspflichtigen Person zugrunde gelegen haben. Bei Altersvorsorgeverträgen in Form eines Darlehens oder Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Nummer 3 treten an die Stelle der verkürzten Angaben nach Satz 2 zweite Alternative die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 8 und 9. Bei Basisrentenverträgen nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes treten an die Stelle der verkürzten Angaben nach Satz 2 zweite Alternative die Angaben nach § 7 Absatz 1 Satz 2 Nummer 1, 9 und 11. Ab dem Beginn der Auszahlungsphase sind dem Vertragspartner Kostenänderungen auf einem gesonderten Blatt auszuweisen.
 
 (+++ § 7c: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 7d – Sicherung bei Genossenschaften
+# § 7d – Sicherung bei Genossenschaften
 
 Zur Erfüllung ihrer Verpflichtung aus § 1 Absatz 2 Satz 1 Nummer 4 Buchstabe b hat die Genossenschaft dem Vertragspartner einen unmittelbaren Anspruch gegen den Sicherungsgeber zu verschaffen und durch Übergabe einer von diesem oder auf dessen Veranlassung ausgestellten Bestätigung (Sicherungsschein) nachzuweisen. Auf eine betragsmäßige Begrenzung der Sicherung ist in hervorgehobener Weise hinzuweisen. Der Sicherungsgeber kann sich gegenüber einem Vertragspartner, dem ein Sicherungsschein ausgehändigt worden ist, weder auf Einwendungen aus dem Sicherungsvertrag noch darauf berufen, dass der Sicherungsschein erst nach Beendigung des Sicherungsvertrags ausgestellt worden ist. Bei Aushändigung eines Sicherungsscheins nach Satz 3 geht der Anspruch des Vertragspartners gegen die Genossenschaft auf den Sicherungsgeber über, soweit dieser den Forderungen des Vertragspartners nachkommt. Die Sicherung kann auch in anderer Weise erfolgen, wenn dadurch ein vergleichbares Sicherungsniveau erreicht wird.
 
 (+++ § 7d: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 7e – Widerrufsrecht
+# § 7e – Widerrufsrecht
 
 Dem Vertragspartner steht bei einem nach diesem Gesetz zertifizierten Vertrag, unbeschadet anderer Regelungen, ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs zu. Steht dem Verbraucher zugleich nach Maßgabe anderer Vorschriften ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs oder nach anderen Vorschriften zu, ist das Widerrufsrecht nach Satz 1 ausgeschlossen.
 
 (+++ § 7e: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 7f – Prüfkompetenz
+# § 7f – Prüfkompetenz
 
 Die Zertifizierungsstelle kann anlassunabhängig prüfen, ob der Anbieter eines Altersvorsorgevertrags oder eines Basisrentenvertrags seine Pflichten nach § 7 erfüllt hat.
 
-
-## § 8 – Rücknahme, Widerruf und Verzicht
+# § 8 – Rücknahme, Widerruf und Verzicht
 
 (1) Die Zertifizierungsstelle kann den Antrag auf Zertifizierung eines Altersvorsorgevertrages ablehnen oder die Zertifizierung eines Altersvorsorgevertrages gegenüber dem Anbieter widerrufen, wenn Tatsachen die Annahme rechtfertigen, dass der Anbieter die für die Beachtung der Vorschriften dieses Gesetzes sowie der §§ 10a, 22 Nr. 5, § 22a und des Abschnitts XI des Einkommensteuergesetzes erforderliche Zuverlässigkeit nicht besitzt. Die Zertifizierungsstelle kann den Antrag auf Zertifizierung eines Basisrentenvertrages ablehnen oder die Zertifizierung eines Basisrentenvertrages gegenüber dem Anbieter widerrufen, wenn Tatsachen die Annahme rechtfertigen, dass der Anbieter die für die Beachtung der Vorschriften dieses Gesetzes sowie der §§ 10 und 22a des Einkommensteuergesetzes erforderliche Zuverlässigkeit nicht besitzt. Die Zertifizierungsstelle hat die Zertifizierung gegenüber dem Anbieter zu widerrufen, wenn der Anbieter die Voraussetzungen des § 1 Absatz 2 oder des § 236 des Versicherungsaufsichtsgesetzes nicht mehr erfüllt. Die Aufhebung der Zertifizierung nach den allgemeinen Verfahrensvorschriften der Abgabenordnung bleibt unberührt. Bei einem Anbieter im Sinne des § 1 Abs. 2 Satz 1 Nr. 4 (Genossenschaften) ist der Prüfungsverband, von dem die Genossenschaft geprüft wird, verpflichtet, die Zertifizierungsstelle zu unterrichten, soweit er im Rahmen einer Prüfung nach § 53 Abs. 1 des Genossenschaftsgesetzes Tatsachen im Sinne des Satzes 1 oder einen Widerrufsgrund im Sinne des Satzes 2 feststellt oder dem Prüfungsverband anderweitig bekannt werden oder ihm bekannt wird, dass die Satzung der Genossenschaft in der Weise geändert werden soll oder geändert wurde, dass die Voraussetzungen des § 1 Absatz 2 Satz 1 Nummer 4 Buchstabe b nicht mehr erfüllt werden. Satz 4 gilt entsprechend für die nach § 81 des Genossenschaftsgesetzes zuständige oberste Landesbehörde.
 
@@ -391,18 +371,15 @@ Die Zertifizierungsstelle kann anlassunabhängig prüfen, ob der Anbieter eines 
 
 (+++ § 8: Zur Anwendung d. Änderungen d. Art. 2 Nr. 11 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 9 – Rechtsbehelf und sofortige Vollziehung
+# § 9 – Rechtsbehelf und sofortige Vollziehung
 
 Einspruch und Klage richten sich nach den Vorschriften der Abgabenordnung und der Finanzgerichtsordnung. Sie haben keine aufschiebende Wirkung.
 
-
-## § 10 – Veröffentlichung
+# § 10 – Veröffentlichung
 
 Die Zertifizierungsstelle macht die Zertifizierung sowie den Widerruf, die Rücknahme oder den Verzicht durch eine Veröffentlichung des Namens und der Anschrift des Anbieters und dessen Zertifizierungsnummer im Bundessteuerblatt bekannt. Das Gleiche gilt sinngemäß für die Zertifizierung von Verträgen im Sinne des § 4 Abs. 2 Satz 1.
 
-
-## § 11 – Verschwiegenheitspflicht und Datenschutz
+# § 11 – Verschwiegenheitspflicht und Datenschutz
 
 (1) Die bei der Zertifizierungsbehörde beschäftigten oder von ihr beauftragen Personen dürfen bei ihrer Tätigkeit erhaltene vertrauliche Informationen nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist (Schweigepflicht). Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten.
 
@@ -420,8 +397,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (4) Sofern personenbezogene Daten verarbeitet werden, gelten vorbehaltlich des Rechts der Europäischen Union, insbesondere der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung, die Vorschriften der Abgabenordnung.
 
-
-## § 12 – Gebühren
+# § 12 – Gebühren
 
 (1) Die Zertifizierungsstelle erhebt für die Bearbeitung eines Antrags, einen Altersvorsorgevertrag oder einen Basisrentenvertrag zu zertifizieren, Gebühren in Höhe von 5 000 Euro. Für Anbieter, die ihrem Antrag nach § 4 Absatz 1 einen zertifizierten Vertrag eines Spitzenverbands zugrunde legen, beträgt die Gebühr 500 Euro, wenn
 
@@ -435,8 +411,7 @@ Für Anträge nach § 4 Abs. 3 Satz 1 und 2 beträgt die Gebühr 250 Euro.
 
 (+++ § 12: Zur Anwendung d. Änderungen d. Art. 2 Nr. 12 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 13 – Bußgeldvorschriften
+# § 13 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -452,8 +427,7 @@ Für Anträge nach § 4 Abs. 3 Satz 1 und 2 beträgt die Gebühr 250 Euro.
 
 (+++ § 13: Zur Anwendung d. Änderungen d. Art. 2 Nr. 13 G v. 24.6.2013 I 1667 vgl. § 14 Abs. 6 +++)
 
-
-## § 14 – Übergangsvorschrift
+# § 14 – Übergangsvorschrift
 
 (1) Für Verträge, die nach § 5 in der am 31. Dezember 2004 geltenden Fassung zertifiziert wurden und die alle die in Artikel 7 Nr. 1 des Gesetzes vom 5. Juli 2004 (BGBl. I S. 1427) enthaltenen Änderungen insgesamt bis zum 31. Dezember 2005 nachvollziehen, ist eine erneute Zertifizierung des Vertrags nicht erforderlich. Satz 1 gilt ohne zeitliche Beschränkung entsprechend, soweit der Anbieter unter Beibehaltung der vertraglichen Ausgestaltung nach § 1 Abs. 1 Satz 1 Nr. 8 in der bis 31. Dezember 2004 geltenden Fassung mit seinen Bestandskunden die einvernehmliche Übernahme der in Artikel 7 Nr. 1 Buchstabe a Doppelbuchstabe aa bis cc und ee des Gesetzes vom 5. Juli 2004 (BGBl. I S. 1427) enthaltenen Änderungen ganz oder teilweise vereinbart. Die Änderung des Vertrags ist der Zertifizierungsstelle gegenüber schriftlich anzuzeigen.
 

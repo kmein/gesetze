@@ -1,25 +1,19 @@
-# [NatPSchaalseeV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Naturpark Schaalsee"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Naturpark Schaalsee"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Aufgrund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13, 15 und 16 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) In dem in § 2 näher bezeichneten Umfang werden im Bereich des Schaalsees und der angrenzenden Seen Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark festgesetzt.
 
 (2) Der Naturpark erhält die Bezeichnung "Naturpark Schaalsee".
 
+# § 2 – Flächenbeschreibung und Abgrenzung
 
-## § 2 – Flächenbeschreibung und Abgrenzung
-
-(1) Kernstück des Naturparkes ist der Schaalsee mit einer Reihe von Inseln und Halbinseln und den nördlich anschließenden Seen, Mooren und Wäldern.  
-Einbezogen in den Naturpark wird die Seenkette des Neuenkirchner und Boissower Sees sowie die zwischen dem Schaalsee und dieser Seenkette liegende Heckenlandschaft mit Waldresten, Kesselmooren, Feuchtwiesen und Hutungsresten. Außerdem gehört die stärker reliefierte vorwiegend ackerbaulich genutzte Moränenlandschaft zwischen Ratzeburger und Röggeliner See zum Naturpark.
+(1) Kernstück des Naturparkes ist der Schaalsee mit einer Reihe von Inseln und Halbinseln und den nördlich anschließenden Seen, Mooren und Wäldern. Einbezogen in den Naturpark wird die Seenkette des Neuenkirchner und Boissower Sees sowie die zwischen dem Schaalsee und dieser Seenkette liegende Heckenlandschaft mit Waldresten, Kesselmooren, Feuchtwiesen und Hutungsresten. Außerdem gehört die stärker reliefierte vorwiegend ackerbaulich genutzte Moränenlandschaft zwischen Ratzeburger und Röggeliner See zum Naturpark.
 
 (2) Die äußere Umgrenzung des Naturparks verläuft wie folgt:
 
@@ -35,8 +29,7 @@ Einbezogen in den Naturpark wird die Seenkette des Neuenkirchner und Boissower S
 
 (3) Die Grenze des Naturparkes ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Naturparkes in Karten M 1:10.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei den Kreisverwaltungen Hagenow, Gadebusch und Grevesmühlen sowie bei der Naturparkverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Mit der Festsetzung als Naturpark wird bezweckt:
 
@@ -50,8 +43,7 @@ Einbezogen in den Naturpark wird die Seenkette des Neuenkirchner und Boissower S
 
 (2) Mit dem Naturpark soll die Strukturverbesserung der ehemaligen Grenzregion gefördert werden.
 
-
-## § 4 – Schutzzone
+# § 4 – Schutzzone
 
 (1) Das Gebiet des Naturparkes wird zunächst nur in die Schutzzonen II und III gegliedert. Die Schutzzone I ist nicht ausgewiesen.
 
@@ -93,8 +85,7 @@ d) die Schalißer Bucht einschließlich der angrenzenden Ufer.
 
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Naturpark ist es geboten:
 
@@ -116,8 +107,7 @@ c) durch geeignete Maßnahmen der Verkehrs- und Besucherlenkung, den Erholungswe
 
 (2) Zur Umsetzung der im Absatz 1 genannten Gebote sowie zur Erhaltung, Pflege und Entwicklung des Naturparkes soll innerhalb von zwei Jahren nach Inkrafttreten dieser Verordnung ein Pflege- und Entwicklungsplan erstellt werden.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Naturpark sind alle Handlungen verboten, die zu einer Zerstörung, Beschädigung oder erheblichen Veränderung des Schutzgebietes oder seiner Bestandteile oder zu einer erheblichen Beeinträchtigung oder Störung führen könnte. Insbesondere ist verboten,
 
@@ -171,8 +161,7 @@ c) durch geeignete Maßnahmen der Verkehrs- und Besucherlenkung, den Erholungswe
 
 11. bauliche Anlagen oder Werbeträger zu errichten oder zu ändern, auch wenn hierfür keine Baugenehmigung erforderlich ist, das gilt auch für das Aufstellen von Buden sowie mobilen oder festen Verkaufsständen.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -190,8 +179,7 @@ c) durch geeignete Maßnahmen der Verkehrs- und Besucherlenkung, den Erholungswe
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Naturparkes (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -205,8 +193,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Naturparkverwaltung. Die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Verwaltung des Naturparkes ist herzustellen bei
 
@@ -216,34 +203,28 @@ Das Einvernehmen mit der Verwaltung des Naturparkes ist herzustellen bei
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1477)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

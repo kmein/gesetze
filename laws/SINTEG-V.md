@@ -1,10 +1,7 @@
-# [SINTEG-V] Verordnung zur Schaffung eines rechtlichen Rahmens zur Sammlung von Erfahrungen im Förderprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“  (SINTEG-Verordnung - SINTEG-V)
-
-Ausfertigungsdatum: 14.06.2017
-
+% Verordnung zur Schaffung eines rechtlichen Rahmens zur Sammlung von Erfahrungen im Förderprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“  (SINTEG-Verordnung - SINTEG-V)
+% Ausfertigungsdatum: 14.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -19,13 +16,11 @@ des § 33 Absatz 1 Nummer 3 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt den notwendigen Rahmen für Teilnehmer des vom Bundesministerium für Wirtschaft und Energie betriebenen Förderprogramms „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“, dessen Förderbekanntmachung am 3. Februar 2015 im Bundesanzeiger (BAnz AT 03.02.2015 B1) veröffentlicht worden ist. Sie regelt insbesondere die Erstattung von wirtschaftlichen Nachteilen, die Teilnehmern aufgrund der Projekttätigkeit entstehen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -49,8 +44,7 @@ b) mit einem Zuwendungsempfänger oder Unterauftragnehmer einen Vertrag schließ
 
 Im Übrigen sind die Begriffsbestimmungen des Energiewirtschaftsgesetzes, des Erneuerbare-Energien-Gesetzes und des Kraft-Wärme-Kopplungsgesetzes sowie der aufgrund dieser Gesetze erlassenen Verordnungen anzuwenden.
 
-
-## § 3 – Anzeige der Teilnahme am Förderprogramm
+# § 3 – Anzeige der Teilnahme am Förderprogramm
 
 (1) Teilnehmer, die eine Erstattung wirtschaftlicher Nachteile nach den §§ 6 bis 9 in Anspruch nehmen wollen, sind verpflichtet, der Bundesnetzagentur ihre Projekttätigkeit anzuzeigen.
 
@@ -112,8 +106,7 @@ g) der Wirkungsgrad der Anlage,
 
 (5) Die Bundesnetzagentur bestätigt den Eingang der Anzeige in Textform innerhalb von drei Monaten nach Eingang der vollständigen Anzeige. Der Teilnehmer hat diese Bestätigung dem jeweils zuständigen Netzbetreiber vorzulegen.
 
-
-## § 4 – Erlöschen der Teilnahmeberechtigung
+# § 4 – Erlöschen der Teilnahmeberechtigung
 
 (1) Die Berechtigung zur Teilnahme erlischt, wenn
 
@@ -125,13 +118,11 @@ g) der Wirkungsgrad der Anlage,
 
 (2) Das Erlöschen der Berechtigung zur Teilnahme ist der Bundesnetzagentur unverzüglich anzuzeigen.
 
-
-## § 5 – Ausnahmen von der Pflicht zur Einrichtung einer gemeinsamen Internetplattform
+# § 5 – Ausnahmen von der Pflicht zur Einrichtung einer gemeinsamen Internetplattform
 
 Bei Projekttätigkeiten eines Verteilernetzbetreibers kann bei der Beschaffung von ab- und zuschaltbaren Lasten entgegen § 13 Absatz 6 in Verbindung mit § 14 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes auf die Einrichtung einer gemeinsamen Internetplattform aller Verteilernetzbetreiber verzichtet werden.
 
-
-## § 6 – Anspruch auf die Erstattung wirtschaftlicher Nachteile
+# § 6 – Anspruch auf die Erstattung wirtschaftlicher Nachteile
 
 (1) Wirtschaftliche Nachteile, die Teilnehmern aufgrund der Projekttätigkeit entstehen, sind nach Maßgabe der §§ 7 bis 9 durch den für die Vereinnahmung der jeweiligen Netzentgelte, Netzentgeltaufschläge und Umlagen jeweils zuständigen Netzbetreiber zu erstatten.
 
@@ -145,8 +136,7 @@ Bei Projekttätigkeiten eines Verteilernetzbetreibers kann bei der Beschaffung v
 
 (4) Ein Anspruch nach Absatz 1 besteht nur für Projekttätigkeiten, die der Teilnehmer zuvor nach Maßgabe von § 3 angezeigt hat, eine Bestätigung der Bundesnetzagentur für die Anzeige nach § 3 Absatz 5 vorliegt und soweit der Anspruch auf Antrag nach § 12 festgestellt worden ist.
 
-
-## § 7 – Erstattung des wirtschaftlichen Nachteils bei Letztverbrauchern
+# § 7 – Erstattung des wirtschaftlichen Nachteils bei Letztverbrauchern
 
 (1) Ein Teilnehmer, der Letztverbraucher ist, ist auch im Rahmen der Projekttätigkeit verpflichtet, das nach den Maßgaben der Stromnetzentgeltverordnung ermittelte Netzentgelt zu entrichten.
 
@@ -158,8 +148,7 @@ Bei Projekttätigkeiten eines Verteilernetzbetreibers kann bei der Beschaffung v
 
 3. die Veränderung der Entnahmeleistung bei der Bestimmung der Benutzungsstunden nach § 19 Absatz 2 Satz 2 der Stromnetzentgeltverordnung.
 
-
-## § 8 – Erstattung wirtschaftlicher Nachteile von Betreibern von Stromspeichern oder Anlagen zur Umwandlung von elektrischer Energie in andere Energieträger
+# § 8 – Erstattung wirtschaftlicher Nachteile von Betreibern von Stromspeichern oder Anlagen zur Umwandlung von elektrischer Energie in andere Energieträger
 
 Ein Teilnehmer, der einen Stromspeicher oder eine Anlage zur Umwandlung von elektrischer Energie in einen anderen Energieträger betreibt, ist auch im Rahmen der Projekttätigkeit verpflichtet, Netzentgelte und Umlagen nach Maßgabe der bestehenden Gesetze und Verordnungen zu entrichten. Die Erstattung von wirtschaftlichen Nachteilen im Sinne von § 6 Absatz 1 erfolgt für folgende Preisbestandteile, die aufgrund einer Projekttätigkeit in den in § 6 Absatz 2 genannten Zeiträumen entstehen:
 
@@ -167,8 +156,7 @@ Ein Teilnehmer, der einen Stromspeicher oder eine Anlage zur Umwandlung von elek
 
 2. 60 Prozent der nach den §§ 60 und 61 des Erneuerbare-Energien-Gesetzes gezahlten EEG-Umlage.
 
-
-## § 9 – Erstattung wirtschaftlicher Nachteile von Betreibern von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
+# § 9 – Erstattung wirtschaftlicher Nachteile von Betreibern von Anlagen zur Erzeugung von Strom aus erneuerbaren Energien
 
 (1) Ein Teilnehmer, der eine Anlage zur Erzeugung von Strom aus erneuerbaren Energien nach § 3 des Erneuerbare-Energien-Gesetzes betreibt, die nach § 14 Absatz 1 des Erneuerbare-Energien-Gesetzes vom Netzbetreiber geregelt werden soll, darf im Rahmen der Projekttätigkeit anstelle der Reduzierung der Erzeugungsleistung die Einspeiseleistung in das Netz der allgemeinen Versorgung durch die Nutzung einer zuschaltbaren Last reduzieren, wenn
 
@@ -180,8 +168,7 @@ Ein Teilnehmer, der einen Stromspeicher oder eine Anlage zur Umwandlung von elek
 
 (2) Bei Anwendung von Absatz 1 fällt keine Entschädigung nach § 15 Absatz 1 des Erneuerbare-Energien-Gesetzes an. Der Netzbetreiber ist jedoch verpflichtet, dem Teilnehmer den durch die entgangene Entschädigung entstandenen wirtschaftlichen Nachteil zu erstatten.
 
-
-## § 10 – Anrechnung wirtschaftlicher Vorteile
+# § 10 – Anrechnung wirtschaftlicher Vorteile
 
 (1) Im Rahmen der Erstattung wirtschaftlicher Nachteile nach den §§ 6 bis 9 sind die wirtschaftlichen Vorteile anzurechnen, die einem Teilnehmer unmittelbar aufgrund der Projekttätigkeit entstanden sind.
 
@@ -191,13 +178,11 @@ Ein Teilnehmer, der einen Stromspeicher oder eine Anlage zur Umwandlung von elek
 
 (4) Im Rahmen der Anrechnung auf den Erstattungsanspruch nach § 8 sind die wirtschaftlichen Vorteile anteilig dem jeweiligen Tatbestand zuzuordnen, der die jeweilige Erstattung eines wirtschaftlichen Nachteils begründet.
 
-
-## § 11 – Auszahlung verbliebener Vorteile
+# § 11 – Auszahlung verbliebener Vorteile
 
 Sofern nach der Anrechnung nach § 10 Absatz 1 noch wirtschaftliche Vorteile beim Teilnehmer verbleiben, ist er verpflichtet, diese Vorteile an den Netzbetreiber auszuzahlen, an dessen Netz die jeweilige Anlage angeschlossen ist.
 
-
-## § 12 – Feststellung der Ansprüche; Beweislast
+# § 12 – Feststellung der Ansprüche; Beweislast
 
 (1) Die Bundesnetzagentur stellt die Ansprüche nach den §§ 6 bis 10 auf Antrag des Teilnehmers fest. Der Teilnehmer kann den Antrag nach Satz 1 nur in dem Kalenderjahr stellen, das auf das Kalenderjahr folgt, in dem die Projekttätigkeit stattgefunden hat. Bei Inanspruchnahme von § 9 Absatz 1 ist der Teilnehmer zu einer jährlichen Antragstellung verpflichtet.
 
@@ -217,13 +202,11 @@ Der Teilnehmer ist verpflichtet, im Rahmen der Differenzberechnung nach Satz 1 N
 
 (5) Der Teilnehmer hat die Feststellung nach Absatz 1 dem nach § 6 Absatz 4 jeweils zuständigen Netzbetreiber vorzulegen. Verbleiben nach Anrechnung nach § 10 Absatz 1 wirtschaftliche Nachteile beim Teilnehmer, so ist der jeweils zuständige Netzbetreiber verpflichtet, aus dem jeweiligen Konto für Entgelte oder Umlagen den jeweils festgestellten Betrag an den erstattungsberechtigten Teilnehmer zu entrichten. Die Erstattungen von Netzentgelten nach Satz 2 mindern im Regulierungskonto nach § 5 der Anreizregulierungsverordnung die erzielbaren Erlöse. Für die Erstattung der anteiligen EEG-Umlage nach § 8 Satz 2 Nummer 2 ist der vorgelagerte Übertragungsnetzbetreiber nach § 57 Absatz 1 des Erneuerbare-Energien-Gesetzes zuständig. Verbliebene wirtschaftliche Vorteile sind nach § 11 auszuzahlen. Der nach § 11 ausgezahlte Betrag ist zur Senkung der Netzentgelte zu verwenden.
 
-
-## § 13 – Bericht
+# § 13 – Bericht
 
 Die Bundesregierung legt einen Bericht zu den gewonnenen Erfahrungen, den wirtschaftlichen Auswirkungen sowie zu daraus abgeleiteten rechtlichen oder regulatorischen Fragestellungen vor. Der Bericht wird auf der Internetseite des Bundesministeriums für Wirtschaft und Energie veröffentlicht.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

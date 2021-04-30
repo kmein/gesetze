@@ -1,20 +1,15 @@
-# [StImmÜbkG] Gesetz zum Europäischen Übereinkommen vom 16. Mai 1972 über Staatenimmunität
-
-Ausfertigungsdatum: 22.01.1990
-
+% Gesetz zum Europäischen Übereinkommen vom 16. Mai 1972 über Staatenimmunität
+% Ausfertigungsdatum: 22.01.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Basel am 16. Mai 1972 von der Bundesrepublik Deutschland unterzeichneten Europäischen Übereinkommen über Staatenimmunität wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Zur Feststellung, ob die Bundesrepublik Deutschland oder ein Bundesland die Entscheidung eines Gerichts eines anderen Vertragsstaates gemäß Artikel 20 oder Artikel 25 oder einen Vergleich gemäß Artikel 22 des Übereinkommens zu erfüllen hat, ist das Landgericht zuständig, in dessen Bezirk die Bundesregierung ihren Sitz hat.
 
@@ -22,13 +17,11 @@ Dem in Basel am 16. Mai 1972 von der Bundesrepublik Deutschland unterzeichneten 
 
 (3) Die Feststellungsklage kann von der Partei, die aus der ausländischen Gerichtsentscheidung oder dem Vergleich unmittelbar Rechte für sich ableitet, sowie in jedem Fall von der Bundesrepublik Deutschland oder dem von der Entscheidung betroffenen Bundesland erhoben werden.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

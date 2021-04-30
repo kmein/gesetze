@@ -1,10 +1,7 @@
-# [PersAnpassG] Gesetz zur Anpassung der Personalstärke der Streitkräfte  (Personalanpassungsgesetz - PersAnpassG)
-
-Ausfertigungsdatum: 20.12.2001
-
+% Gesetz zur Anpassung der Personalstärke der Streitkräfte  (Personalanpassungsgesetz - PersAnpassG)
+% Ausfertigungsdatum: 20.12.2001
  
-
-## § 1
+# § 1
 
 (1) In den Jahren 2007 bis 2011 können bis zu 1.200 Berufssoldaten mit ihrer Zustimmung vor Überschreiten der für sie maßgeblichen Altersgrenze in den Ruhestand versetzt werden, wenn
 
@@ -16,13 +13,11 @@ Ausfertigungsdatum: 20.12.2001
 
 (2) Die Versetzung in den Ruhestand hat zum Ablauf eines Monats zu erfolgen. Für die Versetzung in den Ruhestand gilt § 44 Abs. 5, 6 Satz 1 bis 3, Satz 4 zweiter Halbsatz und Abs. 7 des Soldatengesetzes entsprechend.
 
-
-## § 2
+# § 2
 
 Die Versorgung der von § 1 erfassten Berufssoldaten und der Berufssoldaten, deren Dienstverhältnis nach § 45a des Soldatengesetzes in das eines Soldaten auf Zeit umgewandelt worden ist, sowie ihrer Hinterbliebenen bestimmt sich nach dem Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
 
-
-## § 3
+# § 3
 
 (1) § 15 Abs. 1 des Soldatenversorgungsgesetzes findet auch Anwendung auf Berufssoldaten, die nach § 1 in den Ruhestand versetzt worden sind.
 
@@ -40,7 +35,6 @@ Die Versorgung der von § 1 erfassten Berufssoldaten und der Berufssoldaten, der
 
 (8) § 53 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass die Versetzung in den Ruhestand nach § 1 als Versetzung in den Ruhestand wegen Überschreitens einer festgesetzten besonderen Altersgrenze gilt.
 
-
-## § 4
+# § 4
 
 Im Falle der Umwandlung eines Dienstverhältnisses im Sinne des § 45a des Soldatengesetzes bis zum 31. Dezember 2008 ist § 12 des Soldatenversorgungsgesetzes mit der Maßgabe anzuwenden, dass die Übergangsbeihilfe für jedes weitere vollendete Jahr der Wehrdienstzeit von mehr als zwölf Jahren um ein Zwölftel, höchstens jedoch um acht Zwölftel der nach § 12 Abs. 2 Nr. 5 und Abs. 3 des Soldatenversorgungsgesetzes zustehenden Übergangsbeihilfe zu erhöhen ist.

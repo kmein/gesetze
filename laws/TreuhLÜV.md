@@ -1,15 +1,11 @@
-# [TreuhLÜV] Verordnung zur Übertragung von liegenschaftsbezogenen Aufgaben und Liegenschaftsgesellschaften der Treuhandanstalt  (Treuhandliegenschaftsübertragungsverordnung - TreuhLÜV)
-
-Ausfertigungsdatum: 20.12.1994
-
+% Verordnung zur Übertragung von liegenschaftsbezogenen Aufgaben und Liegenschaftsgesellschaften der Treuhandanstalt  (Treuhandliegenschaftsübertragungsverordnung - TreuhLÜV)
+% Ausfertigungsdatum: 20.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Übertragung von Aufgaben
+# § 1 – Übertragung von Aufgaben
 
 (1) Die der Treuhandanstalt auf Grund des Treuhandgesetzes und des Artikels 25 des Einigungsvertrages zugewiesenen liegenschaftsbezogenen Aufgaben werden mit Wirkung vom 31. Dezember 1994 auf das Bundesministerium der Finanzen übertragen, das sie im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem jeweils zuständigen Bundesministerium wahrnimmt.
 
@@ -21,8 +17,7 @@ Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch Artikel 1 Nr. 
 
 3. die Wahrnehmung der Rechte und Pflichten aus Verwaltungsvereinbarungen mit den in Artikel 1 Abs. 1 des Einigungsvertrages genannten Ländern oder dem Land Berlin zur Komplementärfinanzierung von Maßnahmen zur Beseitigung von ökologischen Altlasten und von Maßnahmen zur Verbesserung der Umwelt im Rahmen des § 249h des Arbeitsförderungsgesetzes.
 
-
-## § 2 – Übertragung von Unternehmensbeteiligungen
+# § 2 – Übertragung von Unternehmensbeteiligungen
 
 (1) Die Geschäftsanteile der Treuhandanstalt an der im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 36064 eingetragenen Liegenschaftsgesellschaft der Treuhandanstalt mbH mit Sitz in Berlin werden mit Wirkung vom 31. Dezember 1994 auf den Bund übertragen.
 
@@ -30,13 +25,11 @@ Auf Grund des § 23a Abs. 1 und 2 des Treuhandgesetzes, der durch Artikel 1 Nr. 
 
 (3) Die Aktien und Geschäftsanteile der Bundesanstalt für vereinigungsbedingte Sonderaufgaben an den in Anlage 2 bezeichneten Gesellschaften werden mit Wirkung vom 1. Juli 1996 auf die TLG Treuhand Liegenschaftsgesellschaft mbH übertragen.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2 Abs. 2)
+# Anlage 1 – (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3909;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -57,8 +50,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | Montan Wohnungsgesellschaft mbH                     | Rötha           | HRB 5695               | Leipzig               |
 | Service Berlin-Markgrafendamm GmbH                  | Berlin          | HRB 37006              | Berlin-Charlottenburg |
 
-
-## Anlage 2 – (zu § 2 Abs. 3)
+# Anlage 2 – (zu § 2 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 1996, 889
 

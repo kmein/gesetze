@@ -1,15 +1,11 @@
-# [GewAnzV] Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens  (Gewerbeanzeigeverordnung - GewAnzV)
-
-Ausfertigungsdatum: 22.07.2014
-
+% Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens  (Gewerbeanzeigeverordnung - GewAnzV)
+% Ausfertigungsdatum: 22.07.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund des § 14 Absatz 14 der Gewerbeordnung, der durch Artikel 1 Nummer 2 Buchstabe g des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310):
 
-
-## § 1 – Erstattung der Gewerbeanzeige
+# § 1 – Erstattung der Gewerbeanzeige
 
 Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
@@ -21,8 +17,7 @@ Für die Erstattung der Gewerbeanzeige ist zu verwenden
 
 Die Vordrucke sind vollständig und gut lesbar maschinell oder in Druckbuchstaben auszufüllen.
 
-
-## § 2 – Elektronische Erstattung der Gewerbeanzeige
+# § 2 – Elektronische Erstattung der Gewerbeanzeige
 
 (1) Wird die Gewerbeanzeige elektronisch erstattet, kann die zuständige Behörde zur elektronischen Datenverarbeitung Abweichungen von der Form der in § 1 geregelten Vordrucke, nicht aber vom Inhalt der Anzeige zulassen. Bei einer für die elektronische Versendung an die zuständige Behörde bestimmten Fassung des Vordrucks entfällt das in Feld 33 vorgesehene Unterschriftsfeld gemäß § 13 Satz 2 des E-Government-Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749).
 
@@ -40,8 +35,7 @@ Alternativ kann die zuständige Behörde zur Feststellung der Identität des Anz
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 3 – Übermittlung von Daten aus der Gewerbeanzeige an weitere Behörden
+# § 3 – Übermittlung von Daten aus der Gewerbeanzeige an weitere Behörden
 
 (1) Die zuständige Behörde übermittelt die mittels der Vordrucke der Anlagen 1 bis 3 erhobenen Daten aus der Gewerbeanzeige regelmäßig an die nachfolgenden Stellen zur Wahrnehmung ihrer jeweiligen Aufgaben:
 
@@ -135,18 +129,15 @@ c) in den Feldern 6, 10, 18 bis 26, 28 und 29 der Anlage 3 als Erhebungsmerkmale
 
 (6) (weggefallen)
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. Januar 2015 in Kraft. § 3 Absatz 4 und 5 treten am 1. Januar 2016 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Satz 1 Nummer 1)Gewerbe-Anmeldung
+# Anlage 1 – (zu § 1 Satz 1 Nummer 1)Gewerbe-Anmeldung
 
 (Fundstelle: BGBl. I 2019, 918 – 919)
 
@@ -154,8 +145,7 @@ Der Bundesrat hat zugestimmt.
 
 <a href="../normengrafiken/bgbl1_2019/j0916-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 1 Satz 1 Nummer 2)Gewerbe-Ummeldung
+# Anlage 2 – (zu § 1 Satz 1 Nummer 2)Gewerbe-Ummeldung
 
 (Fundstelle: BGBl. I 2019, 920 – 921)
 
@@ -163,8 +153,7 @@ Der Bundesrat hat zugestimmt.
 
 <a href="../normengrafiken/bgbl1_2019/j0916-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 1 Satz 1 Nummer 3)Gewerbe-Abmeldung
+# Anlage 3 – (zu § 1 Satz 1 Nummer 3)Gewerbe-Abmeldung
 
 (Fundstelle: BGBl. I 2019, 922 – 923)
 

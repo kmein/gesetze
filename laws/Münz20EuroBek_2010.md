@@ -1,10 +1,7 @@
-# [Münz20EuroBek 2010] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Eiche“ der Serie „Deutscher Wald“)
-
-Ausfertigungsdatum: 30.04.2010
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Eiche“ der Serie „Deutscher Wald“)
+% Ausfertigungsdatum: 30.04.2010
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, in den Jahren 2010 bis 2015 eine Serie von Kleinen Goldmünzen im Nominalwert von 20 Euro prägen zu lassen, die dem deutschen Wald gewidmet werden und die sich im Kontext mit dem Internationalen Jahr der Wälder 2011 (UN-Resolution 61/193 vom 20. Dezember 2006) befindet. Die Serie beginnt mit der Münze „Eiche“.
 
@@ -18,12 +15,10 @@ Die Wertseite der Münze wurde von dem Künstler Frantisek Chochola aus Hamburg 
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“, die zwölf Europasterne, die Wertziffer mit der Euro-Bezeichnung sowie die Jahreszahl „2010“ und – je nach Münzstätte – das Münzzeichen „A“, „D“, „F“, „G“ oder „J“.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2010, 609)

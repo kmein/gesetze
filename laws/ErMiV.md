@@ -1,15 +1,11 @@
-# [ErMiV] Verordnung über das Inverkehrbringen von Saatgut von Erhaltungsmischungen  (Erhaltungsmischungsverordnung)
-
-Ausfertigungsdatum: 06.12.2011
-
+% Verordnung über das Inverkehrbringen von Saatgut von Erhaltungsmischungen  (Erhaltungsmischungsverordnung)
+% Ausfertigungsdatum: 06.12.2011
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Verordnung gilt für das Inverkehrbringen von Saatgut von Erhaltungsmischungen, welche neben Arten, die nicht im Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführt sind, auch Saatgut der in Nummer 1.2 der Anlage zur Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz aufgeführten Arten enthalten. Die Verordnung gilt nicht für Mulch, Grünschnitt, Mahdgut, sowie daraus gewonnenes frisches Druschgut und diasporenhaltigen Boden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -62,8 +58,7 @@ ein als solches in der Anlage bezeichnetes Gebiet, in dessen Abgrenzung die zuge
 
 das einem Ursprungsgebiet oder mehreren Ursprungsgebieten zugeordnete Gebiet, in dem sich die Vermehrungsflächen einer angebauten Mischung befinden, deren Entnahmeort in einem der diesem Produktionsraum zugeordneten Ursprungsgebiete liegt.
 
-
-## § 3 – Antrag auf Genehmigung des Inverkehrbringens einer Erhaltungsmischung
+# § 3 – Antrag auf Genehmigung des Inverkehrbringens einer Erhaltungsmischung
 
 (1) Wer Erhaltungsmischungen in den Verkehr bringen will, bedarf der Genehmigung. Diese ist vor dem erstmaligen Inverkehrbringen bei der zuständigen Behörde zu beantragen. Der Antrag ist unter Angabe des Namens, der Anschrift und der Telekommunikationsangaben zu stellen.
 
@@ -89,8 +84,7 @@ Im Falle des Satzes 1 Nummer 3 genügt es, bei direkt geernteten Mischungen die 
 
 (3) Der Hersteller der Erhaltungsmischung vergibt für jede Mischung eine Erhaltungsmischungsnummer, anhand der die Erhaltungsmischung eindeutig identifiziert werden kann.
 
-
-## § 4 – Anforderungen an Saatgut von Erhaltungsmischungen
+# § 4 – Anforderungen an Saatgut von Erhaltungsmischungen
 
 (1) Saatgut von Erhaltungsmischungen darf nur innerhalb des Ursprungsgebietes in den Verkehr gebracht werden, in dem sich der Entnahmeort der Erhaltungsmischung befindet, wenn
 
@@ -122,8 +116,7 @@ Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässi
 
 (2) Saatgut von Erhaltungsmischungen oder von deren Komponenten darf darüber hinaus bis zum 1. März 2024 auch in den unmittelbar an das Ursprungsgebiet der jeweiligen Erhaltungsmischung angrenzenden Ursprungsgebieten, vorzugsweise desselben Produktionsraumes, in den Verkehr gebracht werden, sofern für einzelne Komponenten einer aus diesen angrenzenden Ursprungsgebieten stammenden Erhaltungsmischung Saatgut nicht in ausreichender Menge zur Verfügung steht und Saatgut anderer Arten aus den betroffenen angrenzenden Ursprungsgebieten nicht als Ersatz in Frage kommt. Unberührt bleibt das Erfordernis einer durch die nach Landesrecht für Naturschutz und Landschaftspflege zuständige Behörde erteilten Genehmigung für das Ausbringen von Saatgut außerhalb seines Vorkommensgebietes nach § 40 Absatz 1 des Bundesnaturschutzgesetzes.
 
-
-## § 5 – Überwachung durch Sichtkontrollen und Prüfungen
+# § 5 – Überwachung durch Sichtkontrollen und Prüfungen
 
 (1) Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
 
@@ -137,8 +130,7 @@ Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässi
 
 (3) Die zuständige Behörde hat die Durchführung der Überwachung aufzuzeichnen.
 
-
-## § 5a – Gestattung des Inverkehrbringens
+# § 5a – Gestattung des Inverkehrbringens
 
 (1) Saatgut von Erhaltungsmischungen darf nur in den Verkehr gebracht werden, wenn der Erhaltungsmischung eine Prüfbescheinigung eines anerkannten Zertifizierungsunternehmens beigefügt ist. In der Bescheinigung hat das anerkannte Zertifizierungsunternehmen zu bestätigen, dass die betroffene Saatgutpartie unter Einbeziehung des anerkannten Zertifizierungsunternehmens hergestellt wurde und den Anforderungen des § 4 entspricht.
 
@@ -154,8 +146,7 @@ Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch dann zulässi
 
 (3) Das Zertifizierungsunternehmen hat die fachlichen Kenntnisse und Fähigkeiten des eingesetzten Personals durch geeignete Zeugnisse und Bescheinigungen nachzuweisen. Das Zertifizierungsunternehmen ist verpflichtet, Änderungen hinsichtlich des weiteren Vorliegens der Voraussetzungen nach Absatz 2 unverzüglich der zuständigen Behörde anzuzeigen. Die zuständige Behörde widerruft die Anerkennung, wenn die Voraussetzungen nach Absatz 2 nicht mehr vorliegen. Die zuständige Behörde kann die Anerkennung widerrufen, wenn gegen die Pflichten nach Satz 2 verstoßen wird. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Bestimmungen über Rücknahme und Widerruf unberührt.
 
-
-## § 6 – Beschränkung des Inverkehrbringens
+# § 6 – Beschränkung des Inverkehrbringens
 
 (1) Das Bundessortenamt setzt die Höchstmenge des in Erhaltungsmischungen in den Verkehr gebrachten Saatgutes von Arten, die unter die Richtlinie 66/401/EWG in der jeweils geltenden Fassung fallen, derart fest, dass die festgesetzte Höchstmenge 5 vom Hundert des Gesamtgewichtes aller Saatgutmischungen, die im Rahmen der Richtlinie 66/401/EWG in der jeweils geltenden Fassung im Inland jährlich in den Verkehr gebracht werden, nicht übersteigt.
 
@@ -181,8 +172,7 @@ c) die Erhaltungsmischungsnummer,
 
 (5) Wer Saatgut von Erhaltungsmischungen in den Verkehr bringt, hat am Ende eines jeden Kalenderjahres dem Bundessortenamt die Menge des in den Verkehr gebrachten Saatgutes je Erhaltungsmischung schriftlich mitzuteilen.
 
-
-## § 7 – Verschließung
+# § 7 – Verschließung
 
 (1) Packungen oder Behältnisse von Saatgut von Erhaltungsmischungen sind von demjenigen zu schließen und mit einer Sicherung zu versehen, der sie gekennzeichnet hat. § 34 Absatz 2 und 4 der Saatgutverordnung gilt entsprechend.
 
@@ -190,8 +180,7 @@ c) die Erhaltungsmischungsnummer,
 
 (3) Ist eine Verschließung nach Absatz 1 bei direkt geernteten Mischungen aus technischen Gründen nicht möglich, dann darf das Saatgut dieser Mischungen auch in nicht geschlossenen Packungen oder Behältnissen und ohne Verschlusssicherung in den Verkehr gebracht werden.
 
-
-## § 8 – Kennzeichnung
+# § 8 – Kennzeichnung
 
 (1) Saatgut einer Erhaltungsmischung darf nur in Packungen in den Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein Aufdruck oder ein Stempel mit folgenden Angaben befindet:
 
@@ -227,12 +216,11 @@ c) die Erhaltungsmischungsnummer,
 
 (2) Wird der Erhaltungsmischung beim Inverkehrbringen ein Lieferschein beigefügt, der die vollständigen Angaben nach Absatz 1 Nummer 1 bis 15 enthält, dann genügt es, auf dem Etikett nur die Angaben nach Absatz 1 Nummer 1 bis 5, 8 bis 10 sowie 12 und 13 und im Fall der Nummer 15 nur den nach dem ersten Halbsatz anzugebenden Hinweis aufzuführen. Wenn der Umfang der Angaben nach Absatz 1 Nummer 6 und 7 die Lesbarkeit des Lieferscheines erschwert, können diese Angaben auf dem Lieferschein entfallen, soweit sich der Inverkehrbringer durch eine entsprechende Erklärung auf dem Lieferschein verpflichtet, die entfallenen Angaben dem Käufer der Erhaltungsmischung auf Verlangen schriftlich oder auf elektronischem Wege unverzüglich mitzuteilen.
 
-
-## Anlage – (zu § 2 Nummer 6 und 7)Ursprungsgebiete und Produktionsräume
+# Anlage – (zu § 2 Nummer 6 und 7)Ursprungsgebiete und Produktionsräume
 
 (Fundstelle: BGBl. I 2011, 2644 - 2645)
 
-![](../normengrafiken/bgbl1_2011/j2641-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j2641-1_0010.jpg)
 
 Nr.
 

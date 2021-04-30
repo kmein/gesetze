@@ -1,10 +1,7 @@
-# [Münz5DMBek 1973-04] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kopernikus-Gedenkmünze)
-
-Ausfertigungsdatum: 18.04.1973
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kopernikus-Gedenkmünze)
+% Ausfertigungsdatum: 18.04.1973
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 500. Wiederkehr des Geburtstages des großen Astronomen und vielseitigen Wissenschaftlers Nikolaus Kopernikus eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Hamburgischen Münze, die Auflage beträgt 8 Millionen Stück.
 
@@ -42,13 +39,11 @@ Zwischen Ende und Anfang der Randschrift befinden sich drei kleine Sternchen.
 
 (11) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

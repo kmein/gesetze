@@ -1,15 +1,11 @@
-# [TierSchG] Tierschutzgesetz
-
-Ausfertigungsdatum: 24.07.1972
-
+% Tierschutzgesetz
+% Ausfertigungsdatum: 24.07.1972
  
-
-## § 1
+# § 1
 
 Zweck dieses Gesetzes ist es, aus der Verantwortung des Menschen für das Tier als Mitgeschöpf dessen Leben und Wohlbefinden zu schützen. Niemand darf einem Tier ohne vernünftigen Grund Schmerzen, Leiden oder Schäden zufügen.
 
-
-## § 2
+# § 2
 
 Wer ein Tier hält, betreut oder zu betreuen hat,
 
@@ -19,8 +15,7 @@ Wer ein Tier hält, betreut oder zu betreuen hat,
 
 3. muss über die für eine angemessene Ernährung, Pflege und verhaltensgerechte Unterbringung des Tieres erforderlichen Kenntnisse und Fähigkeiten verfügen.
 
-
-## § 2a
+# § 2a
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, die Anforderungen an die Haltung von Tieren nach § 2 näher zu bestimmen und dabei insbesondere Vorschriften zu erlassen über Anforderungen
 
@@ -50,15 +45,13 @@ b) an Transportmittel für Tiere
 
 festlegen,
 
-1a.  
-bestimmte Transportmittel und Versendungsarten für die Beförderung bestimmter Tiere, insbesondere die Versendung als Nachnahme, verbieten oder beschränken,
+1a. bestimmte Transportmittel und Versendungsarten für die Beförderung bestimmter Tiere, insbesondere die Versendung als Nachnahme, verbieten oder beschränken,
 
 2. bestimmte Transportmittel und Versendungsarten für die Beförderung bestimmter Tiere vorschreiben,
 
 3. vorschreiben, dass bestimmte Tiere bei der Beförderung von einem Betreuer begleitet werden müssen,
 
-3a.  
-vorschreiben, dass Personen, die Tiertransporte durchführen oder hierbei mitwirken, bestimmte Kenntnisse und Fähigkeiten haben und diese nachweisen müssen,
+3a. vorschreiben, dass Personen, die Tiertransporte durchführen oder hierbei mitwirken, bestimmte Kenntnisse und Fähigkeiten haben und diese nachweisen müssen,
 
 4. Vorschriften über das Verladen, Entladen, Unterbringen, Ernähren und Pflegen der Tiere erlassen,
 
@@ -74,18 +67,15 @@ vorschreiben, dass Personen, die Tiertransporte durchführen oder hierbei mitwir
 
 2. nach Absatz 2 Satz 1, soweit sie die Beförderung von Tieren regeln, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden.
 
-
-## § 3
+# § 3
 
 Es ist verboten,
 
 1. einem Tier außer in Notfällen Leistungen abzuverlangen, denen es wegen seines Zustandes offensichtlich nicht gewachsen ist oder die offensichtlich seine Kräfte übersteigen,
 
-1a.  
-einem Tier, an dem Eingriffe und Behandlungen vorgenommen worden sind, die einen leistungsmindernden körperlichen Zustand verdecken, Leistungen abzuverlangen, denen es wegen seines körperlichen Zustandes nicht gewachsen ist,
+1a. einem Tier, an dem Eingriffe und Behandlungen vorgenommen worden sind, die einen leistungsmindernden körperlichen Zustand verdecken, Leistungen abzuverlangen, denen es wegen seines körperlichen Zustandes nicht gewachsen ist,
 
-1b.  
-an einem Tier im Training oder bei sportlichen Wettkämpfen oder ähnlichen Veranstaltungen Maßnahmen, die mit erheblichen Schmerzen, Leiden oder Schäden verbunden sind und die die Leistungsfähigkeit von Tieren beeinflussen können, sowie an einem Tier bei sportlichen Wettkämpfen oder ähnlichen Veranstaltungen Dopingmittel anzuwenden,
+1b. an einem Tier im Training oder bei sportlichen Wettkämpfen oder ähnlichen Veranstaltungen Maßnahmen, die mit erheblichen Schmerzen, Leiden oder Schäden verbunden sind und die die Leistungsfähigkeit von Tieren beeinflussen können, sowie an einem Tier bei sportlichen Wettkämpfen oder ähnlichen Veranstaltungen Dopingmittel anzuwenden,
 
 2. ein gebrechliches, krankes, abgetriebenes oder altes, im Haus, Betrieb oder sonst in Obhut des Menschen gehaltenes Tier, für das ein Weiterleben mit nicht behebbaren Schmerzen oder Leiden verbunden ist, zu einem anderen Zweck als zur unverzüglichen schmerzlosen Tötung zu veräußern oder zu erwerben; dies gilt nicht für die unmittelbare Abgabe eines kranken Tieres an eine Person oder Einrichtung, der eine Genehmigung nach § 8 Absatz 1 Satz 1 und, wenn es sich um ein Wirbeltier handelt, erforderlichenfalls eine Genehmigung nach Vorschriften, die auf Grund des § 9 Absatz 3 Nummer 1 und 2 erlassen worden sind, für Versuche an solchen Tieren erteilt worden ist,
 
@@ -101,8 +91,7 @@ an einem Tier im Training oder bei sportlichen Wettkämpfen oder ähnlichen Vera
 
 8. ein Tier auf ein anderes Tier zu hetzen, soweit dies nicht die Grundsätze weidgerechter Jagdausübung erfordern,
 
-8a.  
-ein Tier zu einem derartig aggressiven Verhalten auszubilden oder abzurichten, dass dieses Verhalten
+8a. ein Tier zu einem derartig aggressiven Verhalten auszubilden oder abzurichten, dass dieses Verhalten
 
 a) bei ihm selbst zu Schmerzen, Leiden oder Schäden führt oder
 
@@ -122,8 +111,7 @@ c) seine Haltung nur unter Bedingungen zulässt, die bei ihm zu Schmerzen oder v
 
 Satz 1 Nummer 12 gilt nicht, wenn das Tier auf einer in Satz 1 Nummer 12 bezeichneten Veranstaltung ausgelobt wird, bei der erwartet werden kann, dass die Teilnehmer der Veranstaltung im Falle des Gewinns als künftige Tierhalter die Einhaltung der Anforderungen des § 2 sicherstellen können.
 
-
-## § 4
+# § 4
 
 (1) Ein Wirbeltier darf nur unter wirksamer Schmerzausschaltung (Betäubung) in einem Zustand der Wahrnehmungs- und Empfindungslosigkeit oder sonst, soweit nach den gegebenen Umständen zumutbar, nur unter Vermeidung von Schmerzen getötet werden. Ist die Tötung eines Wirbeltieres ohne Betäubung im Rahmen weidgerechter Ausübung der Jagd oder auf Grund anderer Rechtsvorschriften zulässig oder erfolgt sie im Rahmen zulässiger Schädlingsbekämpfungsmaßnahmen, so darf die Tötung nur vorgenommen werden, wenn hierbei nicht mehr als unvermeidbare Schmerzen entstehen. Ein Wirbeltier töten darf nur, wer die dazu notwendigen Kenntnisse und Fähigkeiten hat.
 
@@ -137,8 +125,7 @@ Satz 1 Nummer 12 gilt nicht, wenn das Tier auf einer in Satz 1 Nummer 12 bezeich
 
 2. die jeweiligen wissenschaftlichen Zwecke die Verwendung von Tieren erforderlich machen, die nicht nach Satz 2 gezüchtet worden sind.
 
-
-## § 4a
+# § 4a
 
 (1) Ein warmblütiges Tier darf nur geschlachtet werden, wenn es vor Beginn des Blutentzugs zum Zweck des Schlachtens betäubt worden ist.
 
@@ -150,8 +137,7 @@ Satz 1 Nummer 12 gilt nicht, wenn das Tier auf einer in Satz 1 Nummer 12 bezeich
 
 3. dies als Ausnahme durch Rechtsverordnung nach § 4b Nr. 3 bestimmt ist.
 
-
-## § 4b
+# § 4b
 
 Das Bundesministerium wird ermächtigt, für die Zwecke der §§ 4 und 4a durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -177,8 +163,7 @@ Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe b und d bedürfen,
 
 2. soweit sie das Betäuben oder Töten von Tieren, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, oder darauf bezogene Voraussetzungen für den Erwerb eines Sachkundenachweises betreffen, des Einvernehmens des Bundesministeriums für Bildung und Forschung.
 
-
-## § 5
+# § 5
 
 (1) An einem Wirbeltier darf ohne Betäubung ein mit Schmerzen verbundener Eingriff nicht vorgenommen werden. Die Betäubung warmblütiger Wirbeltiere sowie von Amphibien und Reptilien ist von einem Tierarzt vorzunehmen. Dies gilt nicht, soweit die Betäubung ausschließlich durch äußerliche Anwendung eines Tierarzneimittels erfolgt, das nach arzneimittelrechtlichen Vorschriften zugelassen ist, um eine örtliche Schmerzausschaltung zu erreichen, und nach dem Stand von Wissenschaft und Technik zum Zweck der Durchführung des jeweiligen Eingriffs geeignet ist. Dies gilt ferner nicht für einen Eingriff im Sinne des § 6 Absatz 1 Satz 2 Nummer 2a, soweit die Betäubung ohne Beeinträchtigung des Zustandes der Wahrnehmungs- und Empfindungsfähigkeit, ausgenommen die Schmerzempfindung, durch ein Tierarzneimittel erfolgt, das nach arzneimittelrechtlichen Vorschriften für die Schmerzausschaltung bei diesem Eingriff zugelassen ist. Für die Betäubung mit Betäubungspatronen kann die zuständige Behörde Ausnahmen von Satz 2 zulassen, sofern ein berechtigter Grund nachgewiesen wird. Ist nach den Absätzen 2, 3 und 4 Nr. 1 eine Betäubung nicht erforderlich, sind alle Möglichkeiten auszuschöpfen, um die Schmerzen oder Leiden der Tiere zu vermindern.
 
@@ -192,8 +177,7 @@ Rechtsverordnungen nach Satz 1 Nummer 1 Buchstabe b und d bedürfen,
 
 1. für das Kastrieren von unter vier Wochen alten männlichen Rindern, Schafen und Ziegen, sofern kein von der normalen anatomischen Beschaffenheit abweichender Befund vorliegt,
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
 2. für das Enthornen oder das Verhindern des Hornwachstums bei unter sechs Wochen alten Rindern,
 
@@ -223,8 +207,7 @@ e) von landwirtschaftlichen Nutztieren durch Ohrmarke oder Flügelmarke.
 
 2. Verfahren und Methoden zur Durchführung von Maßnahmen nach Absatz 3 sowie auf Grund einer Rechtsverordnung nach Nummer 1 bestimmter Maßnahmen vorzuschreiben, zuzulassen oder zu verbieten, soweit dies zum Schutz der Tiere erforderlich ist.
 
-
-## § 6
+# § 6
 
 (1) Verboten ist das vollständige oder teilweise Amputieren von Körperteilen oder das vollständige oder teilweise Entnehmen oder Zerstören von Organen oder Geweben eines Wirbeltieres. Das Verbot gilt nicht, wenn
 
@@ -234,16 +217,13 @@ a) nach tierärztlicher Indikation geboten ist oder
 
 b) bei jagdlich zu führenden Hunden für die vorgesehene Nutzung des Tieres unerläßlich ist und tierärztliche Bedenken nicht entgegenstehen,
 
-1a.  
-eine nach artenschutzrechtlichen Vorschriften vorgeschriebene Kennzeichnung vorgenommen wird,
+1a. eine nach artenschutzrechtlichen Vorschriften vorgeschriebene Kennzeichnung vorgenommen wird,
 
-1b.  
-eine Kennzeichnung von Pferden durch Schenkelbrand vorgenommen wird,
+1b. eine Kennzeichnung von Pferden durch Schenkelbrand vorgenommen wird,
 
 2. ein Fall des § 5 Abs. 3 Nr. 1 oder 7 vorliegt,
 
-2a.  
-unter acht Tage alte männliche Schweine kastriert werden,
+2a. unter acht Tage alte männliche Schweine kastriert werden,
 
 3. ein Fall des § 5 Abs. 3 Nr. 2 bis 6 vorliegt und der Eingriff im Einzelfall für die vorgesehene Nutzung des Tieres zu dessen Schutz oder zum Schutz anderer Tiere unerläßlich ist,
 
@@ -311,13 +291,11 @@ erlauben. Die Erlaubnis darf nur erteilt werden, wenn glaubhaft dargelegt wird, 
 
 3. nähere Vorschriften über die Art und den Umfang der nach Nummer 2 erforderlichen Kenntnisse und Fähigkeiten erlassen sowie Anforderungen an den Nachweis und die Aufrechterhaltung der erforderlichen Kenntnisse und Fähigkeiten festgelegt und das Verfahren des Nachweises geregelt werden.
 
-
-## § 6a
+# § 6a
 
 Die Vorschriften dieses Abschnittes gelten nicht für Tierversuche nach § 7 Absatz 2 Satz 1, auch in Verbindung mit Satz 2.
 
-
-## § 7
+# § 7
 
 (1) Die Vorschriften dieses Abschnitts dienen dem Schutz von Tieren, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden. Dazu sind
 
@@ -363,8 +341,7 @@ soweit eine der in Satz 1 Nummer 1 bis 3 genannten Voraussetzungen vorliegt. Nic
 
 (3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten zu den Anforderungen nach Absatz 1 Satz 2 Nummer 2 zu regeln.
 
-
-## § 7a
+# § 7a
 
 (1) Tierversuche dürfen nur durchgeführt werden, soweit sie zu einem der folgenden Zwecke unerlässlich sind:
 
@@ -434,8 +411,7 @@ b) nicht mehr erwartet wird, dass die Nachkommenschaft auf Grund der biotechnisc
 
 auf Versuche an Tieren in einem Entwicklungsstadium vor der Geburt oder dem Schlupf zu erstrecken, soweit dies zum Schutz dieser Tiere auf Grund ihrer Fähigkeit, Schmerzen oder Leiden zu empfinden oder Schäden zu erleiden, und zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
 
-
-## § 8
+# § 8
 
 (1) Wer Versuche an Wirbeltieren oder Kopffüßern durchführen will, bedarf der Genehmigung des Versuchsvorhabens durch die zuständige Behörde. Die Genehmigung eines Versuchsvorhabens ist zu erteilen, wenn
 
@@ -505,8 +481,7 @@ die in einer auf Grund des § 2a Absatz 1 Nummer 5 oder des § 4b Satz 1 Nummer 
 
 enthalten, und die Form der Zusammenfassungen sowie das Verfahren ihrer Veröffentlichung zu regeln, soweit dies zur Verbesserung des Schutzes der Tiere in Tierversuchen und zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist. Es kann dabei vorsehen, dass die Veröffentlichung der Zusammenfassungen durch das Bundesinstitut für Risikobewertung erfolgt.
 
-
-## § 8a
+# § 8a
 
 (1) Wer ein Versuchsvorhaben, in dem Wirbeltiere oder Kopffüßer verwendet werden, durchführen will,
 
@@ -558,8 +533,7 @@ hat das Versuchsvorhaben der zuständigen Behörde anzuzeigen.
 
 4. das Verfahren im Falle nachträglicher Änderungen der im Rahmen der Anzeige nach Absatz 1 oder 3 mitgeteilten Sachverhalte.
 
-
-## § 9
+# § 9
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Art und den Umfang der nach § 7 Absatz 1 Satz 3 erforderlichen Kenntnisse und Fähigkeiten der Personen, die Tierversuche planen oder durchführen, insbesondere der biologischen, tiermedizinischen, rechtlichen und ethischen Kenntnisse und der Fähigkeiten im Hinblick auf die Durchführung von Tierversuchen, zu erlassen sowie Anforderungen an den Nachweis und die Aufrechterhaltung der erforderlichen Kenntnisse und Fähigkeiten festzulegen; in der Rechtsverordnung kann auch vorgeschrieben werden, dass Aufzeichnungen über die Maßnahmen, die zum Zwecke der Aufrechterhaltung der Kenntnisse und Fähigkeiten ergriffen werden, zu machen, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen sind.
 
@@ -609,8 +583,7 @@ b) des § 7 Absatz 1 Satz 3 und
 
 sicherzustellen. Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zu der Verpflichtung nach Satz 1 zu regeln.
 
-
-## § 10
+# § 10
 
 (1) Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopffüßer,
 
@@ -644,8 +617,7 @@ zu erlassen. Dabei kann das Bundesministerium
 
 3. vorschreiben, dass über die Tätigkeit der Beiräte nach Nummer 1 Aufzeichnungen zu machen, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen sind.
 
-
-## § 11
+# § 11
 
 (1) Wer
 
@@ -727,8 +699,7 @@ zu regeln.
 
 (8) Wer Nutztiere zu Erwerbszwecken hält, hat durch betriebliche Eigenkontrollen sicherzustellen, dass die Anforderungen des § 2 eingehalten werden. Insbesondere hat er zum Zwecke seiner Beurteilung, dass die Anforderungen des § 2 erfüllt sind, geeignete tierbezogene Merkmale (Tierschutzindikatoren) zu erheben und zu bewerten.
 
-
-## § 11a
+# § 11a
 
 (1) Wer
 
@@ -778,8 +749,7 @@ Sonstige Einfuhrvorschriften bleiben unberührt.
 
 (5) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung und, soweit artenschutzrechtliche Belange berührt sind, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates bei Tieren, die zur Verwendung in Tierversuchen bestimmt waren oder deren Organe oder Gewebe dazu bestimmt waren, zu wissenschaftlichen Zwecken verwendet zu werden, bei denen diese Bestimmung jedoch entfallen ist, die dauerhafte Unterbringung außerhalb eines Betriebes oder einer Einrichtung nach § 10 Absatz 1 Satz 1 oder 2 oder die Freilassung solcher Tiere zu verbieten oder zu beschränken.
 
-
-## § 11b
+# § 11b
 
 (1) Es ist verboten, Wirbeltiere zu züchten oder durch biotechnische Maßnahmen zu verändern, soweit im Falle der Züchtung züchterische Erkenntnisse oder im Falle der Veränderung Erkenntnisse, die Veränderungen durch biotechnische Maßnahmen betreffen, erwarten lassen, dass als Folge der Zucht oder Veränderung
 
@@ -803,13 +773,11 @@ c) die Haltung nur unter Schmerzen oder vermeidbaren Leiden möglich ist oder zu
 
 2. das Züchten mit Wirbeltieren bestimmter Arten, Rassen und Linien zu verbieten oder zu beschränken, wenn dieses Züchten zu Verstößen gegen Absatz 1 führen kann.
 
-
-## § 11c
+# § 11c
 
 Ohne Einwilligung der Erziehungsberechtigten dürfen Wirbeltiere an Kinder oder Jugendliche bis zum vollendeten 16. Lebensjahr nicht abgegeben werden.
 
-
-## § 12
+# § 12
 
 (1) Wirbeltiere, an denen Schäden feststellbar sind, von denen anzunehmen ist, dass sie durch tierschutzwidrige Handlungen verursacht worden sind, dürfen nicht gehalten oder ausgestellt werden, soweit dies durch Rechtsverordnungen nach Absatz 2 Nr. 4 oder 5 bestimmt ist.
 
@@ -829,8 +797,7 @@ Ohne Einwilligung der Erziehungsberechtigten dürfen Wirbeltiere an Kinder oder 
 
 Eine Rechtsverordnung nach Satz 1 Nr. 1 bis 5 kann nicht erlassen werden, soweit Unionsrecht oder völkerrechtliche Verpflichtungen entgegenstehen.
 
-
-## § 13
+# § 13
 
 (1) Es ist verboten, zum Fangen, Fernhalten oder Verscheuchen von Wirbeltieren Vorrichtungen oder Stoffe anzuwenden, wenn damit die Gefahr vermeidbarer Schmerzen, Leiden oder Schäden für Wirbeltiere verbunden ist; dies gilt nicht für die Anwendung von Vorrichtungen oder Stoffen, die auf Grund anderer Rechtsvorschriften zugelassen sind. Vorschriften des Jagdrechts, des Naturschutzrechts, des Pflanzenschutzrechts und des Seuchenrechts bleiben unberührt.
 
@@ -838,8 +805,7 @@ Eine Rechtsverordnung nach Satz 1 Nr. 1 bis 5 kann nicht erlassen werden, soweit
 
 (3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz der Tiere erforderlich ist, das Halten von Tieren wildlebender Arten, den Handel mit solchen Tieren sowie ihre Einfuhr oder ihre Ausfuhr aus dem Inland in einen Staat, der der Europäischen Union nicht angehört (Ausfuhr), zu verbieten, zu beschränken oder von einer Genehmigung abhängig zu machen. Als Genehmigungsvoraussetzung kann insbesondere gefordert werden, dass der Antragsteller die für die jeweilige Tätigkeit erforderliche Zuverlässigkeit und die erforderlichen fachlichen Kenntnisse und Fähigkeiten besitzt und nachweist sowie dass eine den Anforderungen des § 2 entsprechende Ernährung, Pflege und Unterbringung der Tiere sichergestellt ist. In der Rechtsverordnung können ferner Anforderungen an den Nachweis der erforderlichen Zuverlässigkeit und der erforderlichen fachlichen Kenntnisse und Fähigkeiten nach Satz 2 festgelegt sowie das Verfahren des Nachweises geregelt werden.
 
-
-## § 13a
+# § 13a
 
 (1) Das Bundesministerium wird ermächtigt, zur Verbesserung des Tierschutzes durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an freiwillige Prüfverfahren zu bestimmen, mit denen nachgewiesen wird, dass serienmäßig hergestellte Aufstallungssysteme und Stalleinrichtungen zum Halten von Nutztieren und beim Schlachten verwendete Betäubungsgeräte und -anlagen über die Anforderungen dieses Gesetzes und die Mindestanforderungen der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen hinausgehen. Es hat hierbei insbesondere Kriterien, Verfahren und Umfang der freiwilligen Prüfverfahren sowie Anforderungen an die Sachkunde der im Rahmen derartiger Prüfverfahren tätigen Gutachter festzulegen.
 
@@ -875,8 +841,7 @@ Die fachliche Eignung im Sinne des Satzes 3 Nummer 1 ist insbesondere gegeben, w
 
 (6) Die Absätze 1 und 5 gelten nicht für das Inverkehrbringen zum Zwecke des Verbringens in einen anderen Mitgliedstaat oder der Ausfuhr in ein Drittland.
 
-
-## § 13b
+# § 13b
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zum Schutz freilebender Katzen bestimmte Gebiete festzulegen, in denen
 
@@ -892,8 +857,7 @@ In der Rechtsverordnung sind die Gebiete abzugrenzen und die für die Verminderu
 
 werden. Eine Regelung nach Satz 3 Nummer 1 ist nur zulässig, soweit andere Maßnahmen, insbesondere solche mit unmittelbarem Bezug auf die freilebenden Katzen, nicht ausreichen. Die Landesregierungen können ihre Ermächtigung durch Rechtsverordnung auf andere Behörden übertragen.
 
-
-## § 14
+# § 14
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Einfuhr und Ausfuhr von Tieren mit. Die genannten Behörden können
 
@@ -905,8 +869,7 @@ werden. Eine Regelung nach Satz 3 Nummer 1 ist nur zulässig, soweit andere Maß
 
 (2) Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen vorsehen.
 
-
-## § 15
+# § 15
 
 (1) Die Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt, vorbehaltlich des § 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach dessen Absatz 4, den nach Landesrecht zuständigen Behörden. Die nach Landesrecht zuständigen Behörden berufen jeweils eine oder mehrere Kommissionen zur Unterstützung der zuständigen Behörden bei
 
@@ -940,13 +903,11 @@ zu regeln. Rechtsverordnungen, die das Nähere zu der Kommission nach Absatz 3 S
 
 Angaben zu Entscheidungen der zuständigen Behörden über die Genehmigung von Versuchsvorhaben oder zu von den zuständigen Behörden genehmigten Versuchsvorhaben übermitteln, und dabei das Nähere über die Form und den Inhalt sowie das Verfahren der Übermittlung zu regeln. Personenbezogene Daten dürfen nicht übermittelt werden. Die Vorschriften zum Schutz des geistigen Eigentums und zum Schutz von Betriebs- und Geschäftsgeheimnissen bleiben unberührt.
 
-
-## § 15a
+# § 15a
 
 Das Bundesinstitut für Risikobewertung nimmt die Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU wahr. Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU, einschließlich der Befugnisse des Bundesinstitutes für Risikobewertung zum Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europäischen Kommission, soweit dies zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist, zu regeln.
 
-
-## § 16
+# § 16
 
 (1) Der Aufsicht durch die zuständige Behörde unterliegen
 
@@ -1050,8 +1011,7 @@ Im Übrigen bleiben die Verordnung (EU) 2016/679 des Europäischen Parlaments un
 
 (7) Bestehen bei der zuständigen Behörde erhebliche Zweifel, ob bei bestimmungsgemäßem Gebrauch serienmäßig hergestellte Aufstallungssysteme und Stalleinrichtungen zum Halten landwirtschaftlicher Nutztiere und beim Schlachten verwendete Betäubungsgeräte und -anlagen den Anforderungen dieses Gesetzes sowie der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen entsprechen, kann dem Hersteller oder Anbieter aufgegeben werden, auf seine Kosten eine gutachterliche Stellungnahme einer einvernehmlich zu benennenden unabhängigen Sachverständigenstelle oder Person beizubringen, soweit er nicht auf den erfolgreichen Abschluss einer freiwilligen Prüfung nach Maßgabe einer nach § 13a Abs. 1 erlassenen Rechtsverordnung verweisen kann. Satz 1 gilt nicht, soweit Stalleinrichtungen auf Grund einer Rechtsverordnung nach § 13a Abs. 2 oder Betäubungsgeräte oder Betäubungsanlagen auf Grund einer Rechtsverordnung nach § 13a Abs. 5 zugelassen oder bauartzugelassen sind.
 
-
-## § 16a
+# § 16a
 
 (1) Die zuständige Behörde trifft die zur Beseitigung festgestellter Verstöße und die zur Verhütung künftiger Verstöße notwendigen Anordnungen. Sie kann insbesondere
 
@@ -1071,15 +1031,13 @@ Im Übrigen bleiben die Verordnung (EU) 2016/679 des Europäischen Parlaments un
 
 2. die Untersagung der Ausübung einer Tätigkeit nach § 11 Absatz 1 Satz 1 Nummer 1 oder die Rücknahme oder der Widerruf einer Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 keine negativen Auswirkungen auf das Wohlergehen der Tiere hat, die in den der jeweiligen Tätigkeit dienenden Betrieben oder Einrichtungen gehalten werden.
 
-
-## § 16b
+# § 16b
 
 (1) Das Bundesministerium beruft eine Tierschutzkommission zu seiner Unterstützung in Fragen des Tierschutzes. Vor dem Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften nach diesem Gesetz hat das Bundesministerium die Tierschutzkommission anzuhören.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über Zusammensetzung, Berufung der Mitglieder, Aufgaben und Geschäftsführung der Tierschutzkommission zu regeln.
 
-
-## § 16c
+# § 16c
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Personen, Einrichtungen und Betriebe, die Tierversuche an Wirbeltieren oder Kopffüßern durchführen oder die Wirbeltiere nach § 4 Absatz 3 verwenden, sowie Einrichtungen und Betriebe, in denen Wirbeltiere oder Kopffüßer für die genannten Zwecke gezüchtet oder zum Zwecke der Abgabe an Dritte gehalten werden,
 
@@ -1093,18 +1051,15 @@ zu melden und
 
 2. das Melde- und Übermittlungsverfahren zu regeln.
 
-
-## § 16d
+# § 16d
 
 Das Bundesministerium erlässt mit Zustimmung des Bundesrates die allgemeinen Verwaltungsvorschriften, die zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich sind.
 
-
-## § 16e
+# § 16e
 
 Die Bundesregierung erstattet dem Deutschen Bundestag alle vier Jahre einen Bericht über den Stand der Entwicklung des Tierschutzes.
 
-
-## § 16f
+# § 16f
 
 (1) Die zuständigen Behörden
 
@@ -1116,32 +1071,27 @@ Die Bundesregierung erstattet dem Deutschen Bundestag alle vier Jahre einen Beri
 
 (3) Die zuständigen Behörden können, soweit dies zum Schutz der Tiere erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen der Überwachung gewonnen haben, den zuständigen Behörden anderer Länder und anderer Mitgliedstaaten, dem Bundesministerium, dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und der Kommission der Europäischen Gemeinschaft oder der Europäischen Union mitteilen.
 
-
-## § 16g
+# § 16g
 
 (1) Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europäischen Kommission obliegt dem Bundesministerium. Es kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden übertragen. Ferner kann es im Einzelfall im Benehmen mit der zuständigen obersten Landesbehörde dieser die Befugnis übertragen. Die obersten Landesbehörden können die Befugnis nach den Sätzen 2 und 3 auf andere Behörden übertragen.
 
 (2) Abweichend von Absatz 1 Satz 1 obliegt im Falle des Artikels 47 Absatz 5 der Richtlinie 2010/63/EU der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europäischen Kommission dem Bundesinstitut für Risikobewertung, soweit sich das Bundesministerium im Einzelfall nicht etwas anderes vorbehält.
 
-
-## § 16h
+# § 16h
 
 Die §§ 16f und 16g gelten entsprechend für Staaten, die - ohne Mitgliedstaaten zu sein - Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind.
 
-
-## § 16i
+# § 16i
 
 (1) Ist eine von der zuständigen Behörde getroffene Maßnahme, die sich auf die Durchführung von Tiertransporten aus anderen Mitgliedstaaten bezieht, zwischen ihr und dem Verfügungsberechtigten streitig, so können beide Parteien einvernehmlich den Streit durch den Schiedsspruch eines Sachverständigen schlichten lassen. Die Streitigkeit ist binnen eines Monats nach Bekanntgabe der Maßnahme einem Sachverständigen zu unterbreiten, der in einem von der Europäischen Kommission aufgestellten Verzeichnis aufgeführt ist. Der Sachverständige hat das Gutachten binnen 72 Stunden zu erstatten.
 
 (2) Auf den Schiedsvertrag und das schiedsgerichtliche Verfahren finden die Vorschriften der §§ 1025 bis 1065 der Zivilprozessordnung entsprechende Anwendung. Gericht im Sinne des § 1062 der Zivilprozessordnung ist das zuständige Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozessordnung das zuständige Oberverwaltungsgericht. Abweichend von § 1059 Abs. 3 Satz 1 der Zivilprozessordnung muss der Aufhebungsantrag innerhalb eines Monats bei Gericht eingereicht werden.
 
-
-## § 16j
+# § 16j
 
 Verwaltungsverfahren nach diesem Gesetz können in den Ländern über eine einheitliche Stelle abgewickelt werden.
 
-
-## § 17
+# § 17
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -1155,8 +1105,7 @@ b) länger anhaltende oder sich wiederholende erhebliche Schmerzen oder Leiden
 
 zufügt.
 
-
-## § 18
+# § 18
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1176,8 +1125,7 @@ erlassenen Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten Tat
 
 5. entgegen § 4 Abs. 1 ein Wirbeltier tötet,
 
-5a.  
-entgegen § 4 Absatz 3 Satz 2 einen Hund, eine Katze oder einen Primaten tötet,
+5a. entgegen § 4 Absatz 3 Satz 2 einen Hund, eine Katze oder einen Primaten tötet,
 
 6. entgegen § 4a Abs. 1 ein warmblütiges Tier schlachtet,
 
@@ -1187,8 +1135,7 @@ entgegen § 4 Absatz 3 Satz 2 einen Hund, eine Katze oder einen Primaten tötet,
 
 9. (weggefallen)
 
-9a.  
-entgegen § 6 Absatz 1a Satz 2 oder Satz 3 zweiter Halbsatz eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+9a. entgegen § 6 Absatz 1a Satz 2 oder Satz 3 zweiter Halbsatz eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 10. entgegen § 6 Abs. 2 elastische Ringe verwendet,
 
@@ -1212,16 +1159,13 @@ entgegen § 6 Absatz 1a Satz 2 oder Satz 3 zweiter Halbsatz eine Anzeige nicht, 
 
 20. eine Tätigkeit ohne die nach § 11 Abs. 1 Satz 1 erforderliche Erlaubnis ausübt oder einer mit einer solchen Erlaubnis verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-20a.  
-einer vollziehbaren Anordnung nach § 11 Absatz 5 Satz 6 oder § 16a Absatz 1 Satz 2 Nummer 1, 3 oder Nummer 4 oder Absatz 2 oder 3 zuwiderhandelt,
+20a. einer vollziehbaren Anordnung nach § 11 Absatz 5 Satz 6 oder § 16a Absatz 1 Satz 2 Nummer 1, 3 oder Nummer 4 oder Absatz 2 oder 3 zuwiderhandelt,
 
-20b.  
-entgegen § 11 Absatz 6 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 11 Absatz 6 Satz 2 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+20b. entgegen § 11 Absatz 6 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 11 Absatz 6 Satz 2 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 21. (weggefallen)
 
-21a.  
-entgegen § 11a Absatz 4 Satz 1 ein Wirbeltier einführt,
+21a. entgegen § 11a Absatz 4 Satz 1 ein Wirbeltier einführt,
 
 22. Wirbeltiere entgegen § 11b Abs. 1 züchtet oder durch biotechnische Maßnahmen verändert,
 
@@ -1231,8 +1175,7 @@ entgegen § 11a Absatz 4 Satz 1 ein Wirbeltier einführt,
 
 25. entgegen § 13 Abs. 1 Satz 1 eine Vorrichtung oder einen Stoff anwendet,
 
-25a.  
-entgegen § 16 Abs. 1a Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+25a. entgegen § 16 Abs. 1a Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
 26. entgegen § 16 Abs. 2 eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt oder einer Duldungs- oder Mitwirkungspflicht nach § 16 Abs. 3 Satz 2, auch in Verbindung mit einer Rechtsverordnung nach § 16 Abs. 5 Satz 2 Nr. 3, zuwiderhandelt oder
 
@@ -1256,8 +1199,7 @@ b) Nr. 3 Buchstabe b genannten Vorschriften ermächtigen, soweit eine Rechtsvero
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 und 3 Buchstabe a, Nummer 4 bis 8, 11, 12, 17, 20, 20a, 22 und 25, des Absatzes 2 sowie des Absatzes 3 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 18a
+# § 18a
 
 Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach
 
@@ -1267,8 +1209,7 @@ Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsa
 
 geahndet werden können.
 
-
-## § 19
+# § 19
 
 (1) Tiere, auf die sich
 
@@ -1284,8 +1225,7 @@ bezieht, können eingezogen werden.
 
 2. nach § 18 Abs. 3 Nr. 2 bezieht, soweit die Ordnungswidrigkeit eine unmittelbar geltende Vorschrift in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union betrifft, die inhaltlich einer Rechtsverordnung nach den §§ 2a, 5 Abs. 4, § 9 Absatz 1 bis 4 oder Absatz 6 Satz 2, § 11b Absatz 4 Nummer 2 oder § 12 Abs. 2 Nr. 4 oder 5 entspricht.
 
-
-## § 20
+# § 20
 
 (1) Wird jemand wegen einer nach § 17 rechtswidrigen Tat verurteilt oder nur deshalb nicht verurteilt, weil seine Schuldunfähigkeit erwiesen oder nicht auszuschließen ist, so kann ihm das Gericht das Halten oder Betreuen von sowie den Handel oder den sonstigen berufsmäßigen Umgang mit Tieren jeder oder einer bestimmten Art für die Dauer von einem Jahr bis zu fünf Jahren oder für immer verbieten, wenn die Gefahr besteht, dass er weiterhin eine nach § 17 rechtswidrige Tat begehen wird.
 
@@ -1293,8 +1233,7 @@ bezieht, können eingezogen werden.
 
 (3) Wer einem Verbot nach Absatz 1 zuwiderhandelt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 20a
+# § 20a
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass ein Verbot nach § 20 angeordnet werden wird, so kann der Richter dem Beschuldigten durch Beschluss das Halten oder Betreuen von sowie den Handel oder den sonstigen berufsmäßigen Umgang mit Tieren jeder oder einer bestimmten Art vorläufig verbieten.
 
@@ -1302,8 +1241,7 @@ bezieht, können eingezogen werden.
 
 (3) Wer einem Verbot nach Absatz 1 zuwiderhandelt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 21
+# § 21
 
 (1) Längstens bis zum Ablauf des 31. Dezember 2020 ist abweichend von § 5 Absatz 1 Satz 1 eine Betäubung nicht erforderlich für das Kastrieren von unter acht Tage alten männlichen Schweinen, sofern kein von der normalen anatomischen Beschaffenheit abweichender Befund vorliegt. Ist eine Betäubung nach Satz 1 nicht erforderlich, gilt § 5 Absatz 1 Satz 6 mit der Maßgabe entsprechend, dass insbesondere schmerzstillende Tierarzneimittel anzuwenden sind.
 
@@ -1347,29 +1285,24 @@ Bis zum Erlass einer Rechtsverordnung nach § 11 Absatz 2 Satz 1 Nummer 1 ist im
 
 (6) § 11 Absatz 8 ist ab dem 1. Februar 2014 anzuwenden.
 
-
-## § 21a
+# § 21a
 
 Rechtsverordnungen nach diesem Gesetz können auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des Tierschutzes erlassen werden.
 
-
-## § 21b
+# § 21b
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist.
 
-
-## § 21c
+# § 21c
 
 (1) Die nach § 13a Abs. 3, auch in Verbindung mit einer Rechtsverordnung nach Abs. 4, zuständige Behörde erhebt für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz oder auf Grund dieses Gesetzes erlassener Rechtsverordnungen Gebühren und Auslagen.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird. Bei der Bemessung der Höhe der Gebühr ist auch der mit den Mitwirkungshandlungen beteiligter Prüfeinrichtungen verbundene Aufwand zu berücksichtigen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
 
-
-## § 21d
+# § 21d
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 22
+# § 22
 
 (Inkrafttreten)

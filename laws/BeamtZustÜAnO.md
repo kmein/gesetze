@@ -1,10 +1,7 @@
-# [BeamtZustÜAnO] Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Beamtenrechts auf den Generaldirektor der Deutschen Bibliothek
-
-Ausfertigungsdatum: 28.01.1987
-
+% Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Beamtenrechts auf den Generaldirektor der Deutschen Bibliothek
+% Ausfertigungsdatum: 28.01.1987
  
-
-## I.
+# I.
 
 Hiermit übertrage ich auf den Generaldirektor der Deutschen Bibliothek, soweit er nicht selbst betroffen ist,
 
@@ -12,17 +9,14 @@ Hiermit übertrage ich auf den Generaldirektor der Deutschen Bibliothek, soweit 
 
 2. die Vertretung bei Klagen aus dem Beamtenverhältnis (§ 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 - BGBl. I S. 479).
 
-
-## II.
+# II.
 
 Der Vorsitzende des Verwaltungsrats kann sich im Einzelfall die Ausübung seiner Befugnisse als oberste Dienstbehörde vorbehalten.
 
-
-## III.
+# III.
 
 Die Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Vorsitzende des Verwaltungsrats der Deutschen Bibliothek

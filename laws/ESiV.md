@@ -1,10 +1,7 @@
-# [ESiV] Verordnung über die Sicherheit des Eisenbahnsystems  (Eisenbahn-Sicherheitsverordnung - ESiV)
-
-Ausfertigungsdatum: 17.06.2020
-
+% Verordnung über die Sicherheit des Eisenbahnsystems  (Eisenbahn-Sicherheitsverordnung - ESiV)
+% Ausfertigungsdatum: 17.06.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für das öffentliche Eisenbahnsystem im übergeordneten Netz nach § 2b des Allgemeinen Eisenbahngesetzes.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 17.06.2020
 
 2. für Eisenbahnen, soweit sie Fahrzeuge, die ausschließlich zu historischen oder touristischen Zwecken genutzt werden, betreiben.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -27,8 +23,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 4. „zentrale Anlaufstelle“ das Informations- und Kommunikationssystem im Sinne des Artikels 12 der Verordnung (EU) 2016/796 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Eisenbahnagentur der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 881/2004 (ABl. L 138 vom 26.5.2016, S. 1) in der jeweils geltenden Fassung.
 
-
-## § 3 – Notifizierung von Sicherheitsvorschriften
+# § 3 – Notifizierung von Sicherheitsvorschriften
 
 (1) Sicherheitsvorschriften dürfen nur dann erlassen oder herausgegeben werden,
 
@@ -56,8 +51,7 @@ Ausgenommen von den Anforderungen nach Satz 1 sind bereits notifizierte Sicherhe
 
 (5) Bei dringlichen Präventionsmaßnahmen können Sicherheitsvorschriften sofort angewendet werden. Bei Sicherheitsvorschriften nach Absatz 2 bedarf es der Zustimmung der Sicherheitsbehörde. Die Sicherheitsbehörde notifiziert die Sicherheitsvorschrift umgehend nach Erlass und begründet deren Dringlichkeit. Das Bundesministerium für Verkehr und digitale Infrastruktur erhält die notifizierte Sicherheitsvorschrift zur Kenntnis.
 
-
-## § 4 – Voraussetzungen für die Erteilung einer einheitlichen Sicherheitsbescheinigung
+# § 4 – Voraussetzungen für die Erteilung einer einheitlichen Sicherheitsbescheinigung
 
 Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für nach Art, Umfang und räumliche Ausdehnung festgelegte Eisenbahnverkehrsdienste für die betreffenden Schienennetze oder Schienenwege öffentlicher Eisenbahninfrastrukturunternehmen zu erteilen, wenn das Eisenbahnverkehrsunternehmen den Nachweis erbringt, dass es
 
@@ -65,8 +59,7 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 2. die Anforderungen erfüllt, die in den Sicherheitsvorschriften niedergelegt sind.
 
-
-## § 5 – Sicherheitsbescheinigungsstelle
+# § 5 – Sicherheitsbescheinigungsstelle
 
 (1) Die Sicherheitsbescheinigungsstelle erteilt Sicherheitsbescheinigungen nach der Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäß der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission (ABl. L 129 vom 25.5.2018, S. 49) in der jeweils geltenden Fassung.
 
@@ -76,15 +69,13 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 (4) Ist die Agentur Sicherheitsbescheinigungsstelle, bewertet die Sicherheitsbehörde, ob das Eisenbahnverkehrsunternehmen die jeweils einschlägigen Sicherheitsvorschriften erfüllt. Stimmt die Agentur der Bewertung der Sicherheitsbehörde nicht zu, ist das Verfahren nach Artikel 10 Absatz 7 der Richtlinie (EU) 2016/798 anzuwenden.
 
-
-## § 6 – Antrag auf Erteilung einer Sicherheitsbescheinigung
+# § 6 – Antrag auf Erteilung einer Sicherheitsbescheinigung
 
 (1) Eisenbahnverkehrsunternehmen haben eine Sicherheitsbescheinigung bei der Sicherheitsbescheinigungsstelle über die zentrale Anlaufstelle zu beantragen. Der Antrag kann auf eine erstmalige Erteilung, auf eine Erneuerung oder auf eine Änderung einer Sicherheitsbescheinigung gerichtet sein.
 
 (2) Ist die Sicherheitsbehörde Sicherheitsbescheinigungsstelle, sind der Antrag und die für den Antrag erforderlichen Unterlagen in deutscher Sprache vorzulegen.
 
-
-## § 7 – Erweiterung des geografischen Tätigkeitsgebiets
+# § 7 – Erweiterung des geografischen Tätigkeitsgebiets
 
 (1) Wenn das Eisenbahnverkehrsunternehmen eine Erweiterung des geografischen Tätigkeitsgebiets beabsichtigt, hat es die Änderung der Sicherheitsbescheinigung zu beantragen. Mit dem Antrag sind die Nachweise nach § 4 bezogen auf das zusätzliche geografische Tätigkeitsgebiet einzureichen.
 
@@ -94,8 +85,7 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 2. das Einvernehmen mit den zuständigen Sicherheitsbehörden der betroffenen Mitgliedstaaten der Europäischen Union hergestellt worden ist oder eine entsprechende Vereinbarung mit dem Nachbarstaat besteht.
 
-
-## § 8 – Überprüfung nach Artikel 14 der Durchführungsverordnung (EU) 2018/763
+# § 8 – Überprüfung nach Artikel 14 der Durchführungsverordnung (EU) 2018/763
 
 (1) Hat die Sicherheitsbescheinigungsstelle einem Antrag auf Erteilung einer Sicherheitsbescheinigung nicht oder nicht vollständig entsprochen, kann der Antragsteller innerhalb eines Monats nach Eingang der ablehnenden Entscheidung eine Überprüfung nach Artikel 14 der Durchführungsverordnung (EU) 2018/763 beantragen.
 
@@ -103,8 +93,7 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 (3) Wird die ablehnende Entscheidung der Agentur bestätigt, so kann der Antragsteller bei der Beschwerdekammer nach Artikel 55 der Verordnung (EU) 2016/796 Beschwerde einlegen.
 
-
-## § 9 – Änderung einer Sicherheitsbescheinigung
+# § 9 – Änderung einer Sicherheitsbescheinigung
 
 (1) Wenn sich Art und Umfang der Eisenbahnverkehrsdienste wesentlich ändern, hat das Eisenbahnverkehrsunternehmen unverzüglich die Änderung der Sicherheitsbescheinigung zu beantragen.
 
@@ -112,8 +101,7 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 (+++ § 9: Zur Geltung vgl. § 16 Abs. 4 +++)
 
-
-## § 10 – Widerruf einer Sicherheitsbescheinigung
+# § 10 – Widerruf einer Sicherheitsbescheinigung
 
 (1) Die Sicherheitsbescheinigung kann ganz oder teilweise widerrufen werden, wenn
 
@@ -129,8 +117,7 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 (+++ § 10 Abs. 1 und 3: Zur Geltung vgl. § 16 Abs. 4 +++)
 
-
-## § 11 – Widerruf einer Sicherheitsbescheinigung der Agentur
+# § 11 – Widerruf einer Sicherheitsbescheinigung der Agentur
 
 (1) Die Sicherheitsbehörde kann bei der Agentur beantragen, die Sicherheitsbescheinigung ganz oder teilweise zu widerrufen, wenn die Sicherheitsbehörde
 
@@ -140,13 +127,11 @@ Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist für na
 
 (2) Bei Meinungsverschiedenheiten zwischen der Agentur und der Sicherheitsbehörde im Sinne des Artikels 17 Absatz 5 Unterabsatz 2 der Richtlinie (EU) 2016/798 gilt das Verfahren nach Artikel 10 Absatz 7 der Richtlinie (EU) 2016/798 entsprechend. Maßnahmen, die die Sicherheitsbehörde nach § 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahngesetzes getroffen hat, werden ausgesetzt, wenn die Sicherheitsbescheinigung nach Durchführung des Verfahrens nicht widerrufen oder nur teilweise widerrufen wird.
 
-
-## § 12 – Unverhältnismäßige Maßnahmen
+# § 12 – Unverhältnismäßige Maßnahmen
 
 Hält die Agentur im Fall des § 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahngesetzes die von der Sicherheitsbehörde getroffenen Maßnahmen für unverhältnismäßig, findet das Verfahren nach Artikel 17 Absatz 6 Unterabsatz 3 der Richtlinie (EU) 2016/798 Anwendung.
 
-
-## § 13 – Unterrichtungspflichten der Sicherheitsbehörde über Sicherheitsbescheinigungen
+# § 13 – Unterrichtungspflichten der Sicherheitsbehörde über Sicherheitsbescheinigungen
 
 (1) Die Sicherheitsbehörde unterrichtet die Agentur über die zentrale Anlaufstelle unverzüglich, bei erstmaliger Erteilung spätestens innerhalb von zwei Wochen, über die erstmalige Erteilung, die Erneuerung, die Änderung oder den Widerruf einer Sicherheitsbescheinigung.
 
@@ -164,8 +149,7 @@ Hält die Agentur im Fall des § 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahnges
 
 6. im Fall eines Widerrufs der Sicherheitsbescheinigung die Gründe für den Widerruf.
 
-
-## § 14 – Voraussetzungen für die Erteilung einer Sicherheitsgenehmigung
+# § 14 – Voraussetzungen für die Erteilung einer Sicherheitsgenehmigung
 
 Die Sicherheitsgenehmigung ist für bestimmte Schienennetze oder Schienenwege des übergeordneten Netzes zu erteilen, wenn das Eisenbahninfrastrukturunternehmen den Nachweis erbringt, dass es
 
@@ -173,8 +157,7 @@ Die Sicherheitsgenehmigung ist für bestimmte Schienennetze oder Schienenwege de
 
 2. die besonderen Anforderungen für eine sichere Planung, Instandhaltung und einen sicheren Betrieb der Schienenwege einschließlich der Steuerungs- und Sicherungssysteme erfüllt.
 
-
-## § 15 – Antrag auf Erteilung einer Sicherheitsgenehmigung
+# § 15 – Antrag auf Erteilung einer Sicherheitsgenehmigung
 
 (1) Eisenbahninfrastrukturunternehmen haben eine Sicherheitsgenehmigung bei der Sicherheitsbehörde zu beantragen. Der Antrag kann auf eine erstmalige Erteilung, auf eine Erneuerung oder auf eine Änderung einer Sicherheitsgenehmigung gerichtet sein.
 
@@ -182,8 +165,7 @@ Die Sicherheitsgenehmigung ist für bestimmte Schienennetze oder Schienenwege de
 
 (3) Die Sicherheitsbehörde stellt den Antragstellern einen Leitfaden zur Verfügung, in dem die Anforderungen für Sicherheitsgenehmigungen erläutert sowie die für die Entscheidung erforderlichen Unterlagen aufgelistet sind.
 
-
-## § 16 – Verfahren für die Erteilung einer Sicherheitsgenehmigung
+# § 16 – Verfahren für die Erteilung einer Sicherheitsgenehmigung
 
 (1) Die Sicherheitsbehörde entscheidet über einen Antrag auf Erteilung einer Sicherheitsgenehmigung unverzüglich nach Vorlage der für die Entscheidung erforderlichen Unterlagen, spätestens jedoch vier Monate nach Vorlage.
 
@@ -193,8 +175,7 @@ Die Sicherheitsgenehmigung ist für bestimmte Schienennetze oder Schienenwege de
 
 (4) Für Änderungen und den Widerruf einer Sicherheitsgenehmigung gelten die §§ 9 und 10 Absatz 1 und 3 entsprechend.
 
-
-## § 17 – Unterrichtungspflichten der Sicherheitsbehörde über Sicherheitsgenehmigungen
+# § 17 – Unterrichtungspflichten der Sicherheitsbehörde über Sicherheitsgenehmigungen
 
 (1) Die Sicherheitsbehörde unterrichtet die Agentur über die erstmalige Erteilung, die Erneuerung, die Änderung oder den Widerruf einer Sicherheitsgenehmigung. Die Unterrichtung hat innerhalb von zwei Wochen nach der erstmaligen Erteilung, der Erneuerung, der Änderung oder dem Widerruf einer Sicherheitsgenehmigung zu erfolgen.
 
@@ -210,13 +191,11 @@ Die Sicherheitsgenehmigung ist für bestimmte Schienennetze oder Schienenwege de
 
 5. im Fall des Widerrufs der Sicherheitsgenehmigung die Gründe für den Widerruf.
 
-
-## § 18 – Pflicht, Voraussetzungen einer Sicherheitsbescheinigung und einer Sicherheitsgenehmigung zu erfüllen
+# § 18 – Pflicht, Voraussetzungen einer Sicherheitsbescheinigung und einer Sicherheitsgenehmigung zu erfüllen
 
 Eisenbahnen haben sicherzustellen, dass die Voraussetzungen, die für die Erteilung einer Sicherheitsbescheinigung oder einer Sicherheitsgenehmigung gegolten haben, auch nach der Erteilung erfüllt werden.
 
-
-## § 19 – Pflichten der für die Instandhaltung zuständigen Stellen
+# § 19 – Pflichten der für die Instandhaltung zuständigen Stellen
 
 (1) Die für die Instandhaltung zuständigen Stellen stellen sicher, dass sich die Instandhaltung richtet nach
 
@@ -226,8 +205,7 @@ Eisenbahnen haben sicherzustellen, dass die Voraussetzungen, die für die Erteil
 
 (2) § 20 Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 20 – Maßnahmen zur Risikobegrenzung
+# § 20 – Maßnahmen zur Risikobegrenzung
 
 (1) Eisenbahnen verpflichten bei Änderungen am Eisenbahnsystem gegebenenfalls die Halter von Eisenbahnfahrzeugen und die sonstigen Verantwortlichen nach § 2 Absatz 22 des Allgemeinen Eisenbahngesetzes vertraglich dazu, Maßnahmen zur Risikobegrenzung nach der Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009 (ABl. L 121 vom 3.5.2013, S. 8), die durch die Durchführungsverordnung (EU) 2015/1136 (ABl. L 185 vom 14.7.2015, S. 6; L 70 vom 16.3.2016, S. 38) geändert worden ist, in der jeweils geltenden Fassung durchzuführen.
 
@@ -241,8 +219,7 @@ Eisenbahnen haben sicherzustellen, dass die Voraussetzungen, die für die Erteil
 
 (+++ § 20 Abs. 2 Satz 2: Zur Geltung vgl. § 19 Abs. 2 +++)
 
-
-## § 21 – Beseitigungs- und Informationspflicht bei Sicherheitsrisiken
+# § 21 – Beseitigungs- und Informationspflicht bei Sicherheitsrisiken
 
 (1) Erkennen
 
@@ -258,18 +235,15 @@ ein Sicherheitsrisiko aufgrund von Mängeln an der Bauweise oder an der technisc
 
 (2) Die nach Absatz 1 Verpflichteten müssen das erkannte Sicherheitsrisiko anderen betroffenen Verantwortlichen unverzüglich melden.
 
-
-## § 22 – Informationspflicht im Fall eines Fahrzeugaustausches
+# § 22 – Informationspflicht im Fall eines Fahrzeugaustausches
 
 Tauschen Eisenbahnverkehrsunternehmen untereinander ein Fahrzeug aus, übermitteln die nach § 21 Absatz 1 verpflichteten Betroffenen einander alle für einen sicheren Betrieb relevanten Informationen.
 
-
-## § 23 – Sicherheitsbericht
+# § 23 – Sicherheitsbericht
 
 Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen sind verpflichtet, der Sicherheitsbehörde zum 31. Mai jedes Jahres einen schriftlichen Sicherheitsbericht vorzulegen, der sich auf das vorangegangene Kalenderjahr bezieht, nach Maßgabe des Anhangs I Nummer 4.5.1.2 oder des Anhangs II Nummer 4.5.1.2 der Delegierten Verordnung (EU) 2018/762 der Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden bezüglich der Anforderungen an Sicherheitsmanagementsysteme gemäß der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010 (ABl. L 129 vom 25.5.2018, S. 26) in der jeweils geltenden Fassung.
 
-
-## § 24 – Jahresbericht
+# § 24 – Jahresbericht
 
 (1) Die Sicherheitsbehörde veröffentlicht jedes Jahr einen Bericht über ihre Tätigkeiten des Vorjahres. Sie übermittelt den Bericht der Agentur spätestens bis zum 30. September jedes Jahres.
 
@@ -287,12 +261,10 @@ Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen sind verpflic
 
 6. die Durchführung der Eisenbahnaufsicht in allgemeiner Form.
 
-
-## § 25 – Ordnungswidrigkeiten
+# § 25 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe b des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 23 einen Sicherheitsbericht nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt.
 
-
-## § 26 – Übergangsregelung
+# § 26 – Übergangsregelung
 
 Eisenbahnen sind verpflichtet, der Sicherheitsbehörde den Sicherheitsbericht für das Jahr 2019 nach § 6 der Eisenbahn-Sicherheitsverordnung in der Fassung vom 26. November 2019 (BGBl. I S. 1958) vorzulegen. § 23 ist erstmals für den Sicherheitsbericht für das Jahr 2020 anzuwenden.

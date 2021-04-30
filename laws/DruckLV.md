@@ -1,10 +1,7 @@
-# [DruckLV] Verordnung über Arbeiten in Druckluft  (Druckluftverordnung)
-
-Ausfertigungsdatum: 04.10.1972
-
+% Verordnung über Arbeiten in Druckluft  (Druckluftverordnung)
+% Ausfertigungsdatum: 04.10.1972
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 |       |                                                                    |
 |:------|:-------------------------------------------------------------------|
@@ -36,8 +33,7 @@ Ausfertigungsdatum: 04.10.1972
 | § 25  | (weggefallen)                                                      |
 | § 26  | Inkrafttreten                                                      |
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -51,15 +47,13 @@ Auf Grund
 
 in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für Arbeiten in Druckluft, soweit diese von einem Arbeitgeber gewerbsmäßig ausgeführt werden.
 
 (2) Diese Verordnung gilt nicht für Arbeiten in Taucherglocken ohne Schleusen und für Taucherarbeiten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -75,8 +69,7 @@ in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird mit Zustimmung des B
 
 (2) Druckluft im Sinne dieser Verordnung ist Luft mit einem Überdruck von mehr als 0,1 bar. Der Arbeitsdruck ist der über den atmosphärischen Druck hinausgehende Überdruck.
 
-
-## § 3 – Anzeige
+# § 3 – Anzeige
 
 (1) Will ein Arbeitgeber Arbeiten in Druckluft ausführen, so hat er dies spätestens 2 Wochen vorher der zuständigen Behörde anzuzeigen.
 
@@ -114,8 +107,7 @@ Ihr sind als Unterlagen beizufügen:
 
 (4) Erfolgt die Anzeige nach Absatz 1 oder nach Absatz 3 elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
-
-## § 4 – Allgemeine Anforderungen
+# § 4 – Allgemeine Anforderungen
 
 (1) Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen müssen den Nummern 1 und 2 des Anhangs 1 zu dieser Verordnung und im übrigen den allgemein anerkannten Regeln der Technik entsprechend beschaffen sein und betrieben werden.
 
@@ -123,18 +115,15 @@ Ihr sind als Unterlagen beizufügen:
 
 (3) Bei Arbeitskammern und ihrem Betrieb dienende Einrichtungen, die nach den in einem anderen Mitgliedstaat der Europäischen Gemeinschaften oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum geltenden Regelungen oder Anforderungen rechtmäßig hergestellt und in den Verkehr gebracht werden und die gleiche Sicherheit gewährleisten, ist davon auszugehen, daß die die sicherheitstechnische Beschaffenheit betreffenden Anforderungen nach Absatz 1 erfüllt sind. In begründeten Einzelfällen ist auf Verlangen der zuständigen Behörde nachzuweisen, daß die Anforderungen nach Satz 1 erfüllt sind. Normen des Deutschen Instituts für Normung oder andere technische Regelungen gelten beispielhaft und schließen andere, mindestens ebenso sichere Lösungen nicht aus, die insbesondere auch in Normen oder technischen Regelungen oder Anforderungen anderer Mitgliedstaaten der Europäischen Gemeinschaften oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ihren Niederschlag gefunden haben. Soweit in dieser Verordnung zum Nachweis dafür, daß die die sicherheitstechnische Beschaffenheit betreffenden Anforderungen im Sinne des Absatzes 1 erfüllt sind, die Vorlage von Gutachten oder Prüfbescheinigungen deutscher Stellen vorgesehen ist, werden auch Prüfberichte von in anderen Mitgliedstaaten der Europäischen Gemeinschaften oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zugelassenen Stellen berücksichtigt, wenn die den Prüfberichten dieser Stellen zugrunde liegenden technischen Anforderungen, Prüfungen, Prüfverfahren denen der deutschen Stellen gleichwertig sind. Um derartige Stellen handelt es sich vor allem dann, wenn diese die an sie zu stellenden Anforderungen erfüllen, die insbesondere in den harmonisierten europäischen Normen niedergelegt sind, deren Fundstelle der Bundesminister für Arbeit und Sozialordnung im Bundesarbeitsblatt bekanntgemacht hat. Vorschriften dieser Verordnung zur Umsetzung von Rechtsakten des Rates der Europäischen Union oder der Kommission der Europäischen Gemeinschaften bleiben unberührt.
 
-
-## § 5 – Weitergehende Anforderungen
+# § 5 – Weitergehende Anforderungen
 
 Die Arbeitskammern und die ihrem Betrieb dienenden Einrichtungen müssen den über die Vorschriften des § 4 Abs. 1 hinausgehenden Anforderungen entsprechen, die von der zuständigen Behörde im Einzelfall zur Abwendung besonderer Gefahren für die Arbeitnehmer gestellt werden.
 
-
-## § 6 – Ausnahmebewilligung
+# § 6 – Ausnahmebewilligung
 
 Die zuständige Behörde kann von den Vorschriften des § 4 Abs. 1, § 9 Abs. 1, § 21 Abs. 4 und von dem Beschäftigungsverbot für Arbeitnehmer, die das 50. Lebensjahr vollendet haben (§ 9 Abs. 2), Ausnahmen zulassen, wenn hierfür besondere Gründe vorliegen und der Schutz der Arbeitnehmer auf andere Weise gewährleistet ist. Die Ausnahmezulassung ist schriftlich oder elektronisch zu beantragen. Dem Antrag ist bei einer Abweichung von den Regelungen des § 4 Abs. 1 ein Gutachten eines behördlich anerkannten Sachverständigen und bei einer Abweichung von den Regelungen des § 9 Abs. 1, 2 oder § 21 Abs. 4 ein Gutachten eines ermächtigten Arztes beizufügen, das jeweils dokumentiert, ob der Schutz der Arbeitnehmer gewährleistet ist. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen. Über den Antrag ist innerhalb einer Frist von vier Wochen nach Eingang bei der zuständigen Behörde zu entscheiden. Die Frist kann in begründeten Fällen verlängert werden. Die Zulassung gilt als erteilt, wenn die zuständige Behörde nicht innerhalb der genannten Frist die Beschäftigung der Arbeitnehmer untersagt.
 
-
-## § 7 – Prüfung durch Sachverständige
+# § 7 – Prüfung durch Sachverständige
 
 (1) Die Arbeitskammern dürfen nur betrieben werden, wenn
 
@@ -178,18 +167,15 @@ Ist die Schleusenanlage Teil des Baukörpers und eine Wasserdruckprüfung nach d
 
 (4) Die zuständige Behörde kann bei Schadensfällen oder aus besonderem Anlaß im Einzelfall außerordentliche Prüfungen anordnen. Dies gilt auch bei Arbeitskammern mit einem höchstzulässigen Arbeitsdruck von weniger als 0,5 bar.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Beschäftigungsverbot
+# § 9 – Beschäftigungsverbot
 
 (1) In Druckluft von mehr als 3,6 bar Überdruck dürfen Arbeitnehmer nicht beschäftigt werden.
 
 (2) In Druckluft dürfen Arbeitnehmer unter 18 oder über 50 Jahren nicht beschäftigt werden.
 
-
-## § 10 – Ärztliche Untersuchung
+# § 10 – Ärztliche Untersuchung
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer in Druckluft nur beschäftigen, wenn der Arbeitnehmer
 
@@ -205,8 +191,7 @@ von einem nach § 13 ermächtigten Arzt oder einer nach § 13 ermächtigten Ärz
 
 2. innerhalb von sechs Wochen vor Ablauf der Nachuntersuchungsfrist nach Absatz 1 Nummer 2.
 
-
-## § 11 – Weitere ärztliche Maßnahmen
+# § 11 – Weitere ärztliche Maßnahmen
 
 (1) Arbeitnehmer, die
 
@@ -220,30 +205,25 @@ dürfen in Druckluft erst weiterbeschäftigt werden, nachdem sie dem ermächtigt
 
 (2) Der Arzt hat auf Verlangen des Arbeitgebers oder Arbeitnehmers eine Bescheinigung über seine Feststellung nach Absatz 1 auszustellen. Halten der untersuchte Arbeitnehmer oder der Arbeitgeber das Untersuchungsergebnis für unzutreffend, so entscheidet auf Antrag die zuständige Behörde.
 
-
-## § 12 – Allgemeine Aufgaben und Erreichbarkeit des ermächtigten Arztes
+# § 12 – Allgemeine Aufgaben und Erreichbarkeit des ermächtigten Arztes
 
 (1) Der Arbeitgeber hat einem nach § 13 ermächtigten Arzt, der drucklufttauglich ist, die Aufgabe zu übertragen, die notwendigen Maßnahmen zur Verhütung von Gesundheitsgefahren für Arbeitnehmer, die in Druckluft beschäftigt werden, zu veranlassen, die Arbeitnehmer arbeitsmedizinisch zu beraten und drucklufterkrankte Arbeitnehmer zu behandeln. Der Arbeitgeber hat dafür zu sorgen, daß dieser Arzt während der Arbeits- und Wartezeiten jederzeit erreichbar ist und in angemessener Zeit, bei Arbeiten bei einem Arbeitsdruck von mehr als 2,0 bar ständig, an der Arbeitsstelle zur Verfügung steht. Der Arbeitgeber hat den Arzt zu verpflichten, sich bei dem nach § 18 Abs. 1 Nr. 1 bestellten Fachkundigen über die arbeitsspezifischen und örtlichen Gegebenheiten der Arbeitsstelle zu informieren und sich mit diesen durch regelmäßige Begehungen vertraut zu machen. Die zuständige Behörde kann von der Verpflichtung, daß bei einem Arbeitsdruck von mehr als 2,0 bar ständig ein Arzt an der Arbeitsstelle zur Verfügung steht, in begründeten Fällen Ausnahmen zulassen. Der Antrag auf Zulassung soll Angaben darüber enthalten, durch welche anderen Maßnahmen die Erstversorgung drucklufterkrankter Arbeitnehmer gewährleistet wird. Über den Antrag ist innerhalb einer Frist von vier Wochen nach Eingang bei der zuständigen Behörde zu entscheiden. Die Frist kann in begründeten Fällen verlängert werden. Die Zulassung gilt als erteilt, wenn die zuständige Behörde nicht innerhalb der genannten Frist die Beschäftigung der Arbeitnehmer untersagt.
 
 (2) Der Arbeitgeber hat Name, Anschrift und Fernsprechnummer des ermächtigten Arztes an der Arbeitsstelle an geeigneter, allen Arbeitnehmern zugänglicher Stelle, insbesondere in der Personenschleuse und im Erholungsraum auszuhängen und den Aushang in gut lesbarem Zustand zu erhalten.
 
-
-## § 13 – Ermächtigte Ärzte
+# § 13 – Ermächtigte Ärzte
 
 Ärzte, die nach dieser Verordnung tätig werden, müssen die erforderliche arbeitsmedizinische Fachkunde sowie Fachkenntnisse bezüglich der Arbeiten in Druckluft besitzen und von der zuständigen Behörde ermächtigt sein.
 
-
-## § 14 – Veranlassung der ärztlichen Maßnahmen
+# § 14 – Veranlassung der ärztlichen Maßnahmen
 
 (1) Der Arbeitgeber hat die ärztlichen Maßnahmen nach den §§ 11 und 12 Abs. 1 auf seine Kosten zu veranlassen.
 
 (2) Er hat dem Arzt mitzuteilen, unter welchem höchsten Arbeitsdruck der Arbeitnehmer beschäftigt wird und welche Arbeiten er zu verrichten hat.
 
+# §§ 15 und 16 – (weggefallen)
 
-## §§ 15 und 16 – (weggefallen)
-
-
-## § 17 – Krankendruckluftkammern, Erholungsräume und sanitäre Einrichtungen
+# § 17 – Krankendruckluftkammern, Erholungsräume und sanitäre Einrichtungen
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß dort, wo die Arbeitskammer betrieben wird, die nachstehenden Einrichtungen vorhanden sind:
 
@@ -275,8 +255,7 @@ Ist die Zahl der Arbeitnehmer gering, so kann die zuständige Behörde zulassen,
 
 Er hat den Sachverständigen zu veranlassen, hierüber Prüfbescheinigungen zu erteilen. § 7 Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 18 – Bestellung von Fachkräften
+# § 18 – Bestellung von Fachkräften
 
 (1) Der Arbeitgeber hat zu bestellen
 
@@ -320,8 +299,7 @@ Der Befähigungsschein ist in der Regel für die Dauer von drei Jahren zu erteil
 
 (10) Für die in Absatz 1 genannten Personen gelten die Bestimmungen der §§ 9 bis 11 entsprechend.
 
-
-## § 19 – Nachweise
+# § 19 – Nachweise
 
 Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 
@@ -331,15 +309,13 @@ Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 
 3. ein Verzeichnis der nach § 18 bestellten Fachkräfte unter Angabe von Name und Anschrift.
 
-
-## § 20 – Belehrung der Arbeitnehmer
+# § 20 – Belehrung der Arbeitnehmer
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß der Fachkundige, der die Arbeiten in Druckluft leitet (§ 18 Abs. 1 Nr. 1) und der nach § 12 Abs. 1 beauftragte Arzt, die beim Betrieb der Arbeitskammer Beschäftigten vor Beginn der Beschäftigung über die Unfall- und Gesundheitsgefahren, denen sie bei der Beschäftigung ausgesetzt sind, sowie über die Einrichtungen und Maßnahmen zur Abwendung dieser Gefahren belehren. Die Belehrungen sind in angemessenen Zeitabständen, mindestens in Abständen von sechs Monaten, zu wiederholen.
 
 (2) Der Arbeitgeber hat jedem Arbeitnehmer außerdem vor Beginn der Beschäftigung mit Arbeiten in Druckluft ein Merkblatt auszuhändigen, in dem der Inhalt der Unterrichtung nach Absatz 1 enthalten ist. Das Merkblatt muß in der Sprache des Beschäftigten abgefaßt sein.
 
-
-## § 21 – Ausschleusungs- und Wartezeiten
+# § 21 – Ausschleusungs- und Wartezeiten
 
 (1) Der Arbeitgeber hat dafür zu sorgen, daß die Vorschriften des Anhanges 2 eingehalten werden.
 
@@ -351,8 +327,7 @@ Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 
 (5) Wenn die Zeit des Aufenthalts in der Arbeitskammer 4 Stunden überschreitet, sind den Beschäftigten Pausen in der Gesamtdauer von mindestens einer halben Stunde zu gewähren.
 
-
-## § 22 – Straftaten und Ordnungswidrigkeiten nach dem Arbeitsschutzgesetz
+# § 22 – Straftaten und Ordnungswidrigkeiten nach dem Arbeitsschutzgesetz
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -392,13 +367,11 @@ Der Arbeitgeber hat auf der Arbeitsstelle bereitzuhalten
 
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
-
-## § 22a – Ordnungswidrigkeit nach dem Jugendarbeitsschutzgesetz
+# § 22a – Ordnungswidrigkeit nach dem Jugendarbeitsschutzgesetz
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 26 Buchstabe a des Jugendarbeitsschutzgesetzes handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig entgegen § 9 Abs. 2 einen Arbeitnehmer, der das 18. Lebensjahr noch nicht vollendet hat, in Druckluft beschäftigt.
 
-
-## § 23 – Ordnungswidrigkeiten nach dem Arbeitszeitgesetz
+# § 23 – Ordnungswidrigkeiten nach dem Arbeitszeitgesetz
 
 Ordnungswidrig im Sinne des § 22 Abs. 1 Nr. 4 des Arbeitszeitgesetzes handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
@@ -406,26 +379,21 @@ Ordnungswidrig im Sinne des § 22 Abs. 1 Nr. 4 des Arbeitszeitgesetzes handelt, 
 
 2. entgegen § 21 Abs. 5 Pausen nicht, nicht mit der vorgeschriebenen Mindestdauer oder nicht rechtzeitig gewährt.
 
+# § 24 – (weggefallen)
 
-## § 24 – (weggefallen)
+# § 25 – (weggefallen)
 
-
-## § 25 – (weggefallen)
-
-
-## § 26 – Inkrafttreten
+# § 26 – Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden 6. Kalendermonats in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung
 
-
-## Anhang 1 – (§§ 4 und 17 Abs. 2 der Verordnung über Arbeiten in Druckluft)
+# Anhang 1 – (§§ 4 und 17 Abs. 2 der Verordnung über Arbeiten in Druckluft)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 1915 - 1918;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -740,8 +708,7 @@ Waschräume und Aborte
 
 (4) Waschräume müssen heizbar sein. Die Temperatur hat mindestens 20 Grad C zu betragen.
 
-
-## Anhang 2 – (§ 21 Abs. 1)Ausschleusungs- und Wartezeiten
+# Anhang 2 – (§ 21 Abs. 1)Ausschleusungs- und Wartezeiten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 1387 - 1401
 
@@ -761,10 +728,8 @@ Fundstelle des Originaltextes: BGBl. I 1997, 1387 - 1401
 | \- nach Ausschleusungen mit mehreren Druckstufen              | 60 Minuten, |
 | \- vor Entfernung von der Arbeitsstelle länger als 12 Stunden | 90 Minuten. |
 
-(6) Der Arbeitgeber hat sicherzustellen, daß die Arbeitnehmer von dem ermächtigten Arzt über den Antritt von Flugreisen beraten werden.  
-Tabelle 1: Ausschleusung mit Sauerstoff im Normalbetrieb  
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist.  
-(Inhalt: nicht darstellbare Tabelle,  
+(6) Der Arbeitgeber hat sicherzustellen, daß die Arbeitnehmer von dem ermächtigten Arzt über den Antritt von Flugreisen beraten werden. Tabelle 1: Ausschleusung mit Sauerstoff im Normalbetrieb  
+Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist. (Inhalt: nicht darstellbare Tabelle,  
 Fundstelle: BGBl. I 1997, 1388 - 1393) \*)
 
   
@@ -781,8 +746,7 @@ Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinaus
 
 Notfalltabelle 2: Ausschleusung mit Sauerstoff in Notfällen bei Überschreitung zulässiger Aufenthaltszeit  
 - nur in Abstimmung mit dem Arzt anzuwenden! -  
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist.  
-(Inhalt: nicht darstellbare Tabelle,  
+Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist. (Inhalt: nicht darstellbare Tabelle,  
 Fundstelle: BGBl. I 1997, 1395 - 1396) \*)
 
   
@@ -796,8 +760,7 @@ Fundstelle: BGBl. I 1997, 1397 - 1401) \*)
   
 Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
 
-
-## Anhang 3 – (Nach § 18 Abs. 1 Nr. 4 der Verordnung über Arbeiten in Druckluft)
+# Anhang 3 – (Nach § 18 Abs. 1 Nr. 4 der Verordnung über Arbeiten in Druckluft)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 1927 - 1928;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

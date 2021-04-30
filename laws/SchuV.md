@@ -1,15 +1,11 @@
-# [SchuV] Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds  (Schuldverschreibungsverordnung - SchuV)
-
-Ausfertigungsdatum: 21.06.1995
-
+% Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds  (Schuldverschreibungsverordnung - SchuV)
+% Ausfertigungsdatum: 21.06.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 8 des Entschädigungsgesetzes vom 27. September 1994 (BGBl. I S. 2624) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Begebung, Nennwert, Laufzeit, Tilgung und Verzinsung der Schuldverschreibungen
+# § 1 – Begebung, Nennwert, Laufzeit, Tilgung und Verzinsung der Schuldverschreibungen
 
 (1) Für die Schuldverschreibungen wird eine Sammelschuldbuchforderung für die Deutscher Kassenverein AG mit der Maßgabe der Verfügung durch die Deutsche Bundesbank in das Bundesschuldbuch eingetragen. Die Eintragungen werden in Teilbeträgen vorgenommen.
 
@@ -25,13 +21,11 @@ Auf Grund des § 9 Abs. 8 des Entschädigungsgesetzes vom 27. September 1994 (BG
 
 (6) Sämtliche Zahlungen werden durch die das Bundesschuldbuch führende Stelle veranlaßt. Die fälligen Zinsen und Rückzahlungsbeträge werden bei Sammelbestandsanteilen durch das depotführende Kreditinstitut gutgeschrieben. Bei Einzelschuldbuchforderungen erfolgt die Überweisung auf Veranlassung der das Bundesschuldbuch führenden Stelle.
 
-
-## § 2 – Marktpflege
+# § 2 – Marktpflege
 
 Der Entschädigungsfonds sorgt für die Marktpflege. Hierzu können in Höhe bis zu zehn Prozent der umlaufenden Schuldtitel Schuldverschreibungen angekauft werden. Die Mittel für die Marktpflege stellt der Entschädigungsfonds zur Verfügung. Sie sind in dessen jährlichem Wirtschaftsplan zu berücksichtigen. Eine Kreditaufnahme ist nicht zulässig.
 
-
-## § 3 – Zuteilung der Schuldverschreibungen
+# § 3 – Zuteilung der Schuldverschreibungen
 
 (1) Nach § 1 Abs. 1 Satz 2 des Entschädigungsgesetzes wird ein in einem bestandskräftigen Bescheid festgestellter Entschädigungs- oder Ausgleichsleistungsanspruch durch Zuteilung von Schuldverschreibungen des Entschädigungsfonds erfüllt. Diese werden für den Berechtigten nach seiner Wahl in einem Depot eines von ihm zu benennenden Kreditinstitutes oder als Einzelschuldbuchforderung im Bundesschuldbuch verwaltet. Haben sich die Gesellschafter eines als Berechtigten festgestellten Unternehmens i.L. einvernehmlich auseinandergesetzt, kann die Zuteilung von Schuldverschreibungen unmittelbar an die Gesellschafter erfolgen, ohne dass eine nochmalige Abrundung stattfindet. Entsprechendes gilt für Erbengemeinschaften.
 
@@ -51,13 +45,11 @@ der bescheidenden Stelle mitteilt oder dieser erklärt, daß er die Neueröffnun
 
 (6) Die Zuteilung an den im Formblatt (Datensatz) genannten Berechtigten erfolgt unbeschadet bereits getroffener Verfügungen über den Entschädigungsanspruch und hat befreiende Wirkung.
 
-
-## § 4 – Handelbarkeit
+# § 4 – Handelbarkeit
 
 Die Schuldverschreibungen sind handelbare Wertrechte.
 
-
-## § 5 – Verwaltung der Einzelschuldbuchkonten
+# § 5 – Verwaltung der Einzelschuldbuchkonten
 
 (1) Die das Bundesschuldbuch führende Stelle führt Einzelschuldbuchkonten für natürliche Personen (ein oder höchstens zwei Kontoinhaber), für juristische Personen und für Handelsgesellschaften.
 
@@ -67,28 +59,23 @@ Die Schuldverschreibungen sind handelbare Wertrechte.
 
 (4) Die Einzelschuldbuchforderungen können verkauft werden, sobald die Schuldverschreibungen in den Handel an den deutschen Wertpapierbörsen eingeführt worden sind. Der Inhaber richtet seinen Verkaufsauftrag an die das Bundesschuldbuch führende Stelle. Diese läßt den Verkaufsauftrag durch die Deutsche Bundesbank nach deren Allgemeinen Geschäftsbedingungen einschließlich Gebührentabelle ausführen.
 
-
-## § 6 – Verwaltung durch Kreditinstitute
+# § 6 – Verwaltung durch Kreditinstitute
 
 Die Verwaltung und der Verkauf von Schuldverschreibungen durch Kreditinstitute richtet sich nach deren Bedingungen.
 
-
-## § 7 – Datenschutz
+# § 7 – Datenschutz
 
 Die zur Durchführung dieser Verordnung erforderlichen Angaben der Berechtigten dürfen nur zu Zwecken der Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen verarbeitet und genutzt werden.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 3 Abs. 3)
+# Anlage – (zu § 3 Abs. 3)
 
   
 

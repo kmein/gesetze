@@ -1,10 +1,7 @@
-# [HeimmwV] Verordnung über die Mitwirkung der Bewohnerinnen und Bewohner in Angelegenheiten des Heimbetriebes  (Heimmitwirkungsverordnung - HeimmwV)
-
-Ausfertigungsdatum: 19.07.1976
-
+% Verordnung über die Mitwirkung der Bewohnerinnen und Bewohner in Angelegenheiten des Heimbetriebes  (Heimmitwirkungsverordnung - HeimmwV)
+% Ausfertigungsdatum: 19.07.1976
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -594,8 +591,7 @@ Inkrafttreten
 
 § 36
 
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Die Mitwirkung der Bewohnerinnen und Bewohner in Heimen nach § 1 des Gesetzes erfolgt durch Heimbeiräte. Ihre Mitglieder werden von den Bewohnerinnen und Bewohnern der Heime gewählt.
 
@@ -605,15 +601,13 @@ Inkrafttreten
 
 (4) In den Heimen kann ein Angehörigen- oder Betreuerbeirat gebildet werden. Ebenso kann ein Beirat, der sich aus Angehörigen, Betreuern und Vertretern von Behinderten- und Seniorenorganisationen zusammensetzt, eingerichtet werden. Der Heimbeirat und der Heimfürsprecher können sich vom Beirat nach den Sätzen 1 und 2 bei ihrer Arbeit beraten und unterstützen lassen.
 
-
-## § 2 – Aufgaben der Träger
+# § 2 – Aufgaben der Träger
 
 (1) Die Träger des Heims (Träger) haben auf die Bildung von Heimbeiräten hinzuwirken. Ihre Selbständigkeit bei der Erfüllung der ihnen obliegenden Aufgaben wird durch die Bildung von Heimbeiräten nicht berührt. Die Träger haben die Bewohnerinnen und Bewohner über ihre Rechte und die Möglichkeiten eines partnerschaftlichen Zusammenwirkens im Heimbeirat aufzuklären.
 
 (2) Heimbeiräten sind diejenigen Kenntnisse zum Heimgesetz und seinen Verordnungen zu vermitteln, die für ihre Tätigkeit erforderlich sind. Die hierdurch entstehenden angemessenen Kosten übernimmt der Träger.
 
-
-## § 3 – Wahlberechtigung und Wählbarkeit
+# § 3 – Wahlberechtigung und Wählbarkeit
 
 (1) Wahlberechtigt sind alle Personen, die am Wahltag im Heim wohnen.
 
@@ -621,8 +615,7 @@ Inkrafttreten
 
 (3) Nicht wählbar ist, wer bei dem Heimträger, bei den Kostenträgern oder bei der zuständigen Behörde gegen Entgelt beschäftigt ist oder als Mitglied des Vorstandes, des Aufsichtsrates oder eines gleichartigen Organs des Trägers tätig ist. Nicht wählbar ist ebenfalls, wer bei einem anderen Heimträger oder einem Verband von Heimträgern eine Leitungsfunktion innehat.
 
-
-## § 4 – Zahl der Heimbeiratsmitglieder
+# § 4 – Zahl der Heimbeiratsmitglieder
 
 (1) Der Heimbeirat besteht in Heimen mit in der Regel  
 
@@ -645,8 +638,7 @@ Inkrafttreten
   
 betragen.
 
-
-## § 5 – Wahlverfahren
+# § 5 – Wahlverfahren
 
 (1) Der Heimbeirat wird in gleicher, geheimer und unmittelbarer Wahl gewählt.
 
@@ -654,15 +646,13 @@ betragen.
 
 (3) Jede Wahlberechtigte oder jeder Wahlberechtigte hat so viele Stimmen wie Heimbeiratsmitglieder zu wählen sind. Sie oder er kann für jede Bewerberin oder jeden Bewerber nur eine Stimme abgeben. Gewählt sind die Bewerberinnen und Bewerber, die die meisten Stimmen auf sich vereinigen. Bei Stimmengleichheit zwischen Bewerberinnen oder Bewerbern, die im Heim wohnen, und Bewerberinnen oder Bewerbern, die nicht im Heim wohnen, ist die Bewerberin bzw. der Bewerber gewählt, die oder der im Heim wohnt. Im Übrigen entscheidet das Los. § 4 Abs. 2 bleibt unberührt.
 
-
-## § 6 – Bestellung des Wahlausschusses
+# § 6 – Bestellung des Wahlausschusses
 
 (1) Spätestens acht Wochen vor Ablauf der Amtszeit bestellt der Heimbeirat drei Wahlberechtigte als Wahlausschuss und eine oder einen von ihnen als Vorsitzende oder als Vorsitzenden.
 
 (2) Besteht kein Heimbeirat oder besteht sechs Wochen vor Ablauf der Amtszeit des Heimbeirates kein Wahlausschuss, so hat die Leitung des Heims den Wahlausschuss zu bestellen. Soweit hierfür Wahlberechtigte nicht in der erforderlichen Zahl zur Verfügung stehen, hat die Leitung Mitarbeiterinnen und Mitarbeiter des Heims zu Mitgliedern des Wahlausschusses zu bestellen.
 
-
-## § 7 – Vorbereitung und Durchführung der Wahl
+# § 7 – Vorbereitung und Durchführung der Wahl
 
 (1) Der Wahlausschuss bestimmt Ort und Zeit der Wahl und informiert die Bewohnerinnen und Bewohner und die zuständige Behörde über die bevorstehende Wahl. Der Wahltermin ist mindestens vier Wochen vor der Wahl bekannt zu geben. Der Wahlausschuss holt die Wahlvorschläge und die Zustimmungserklärung der vorgeschlagenen Personen zur Annahme der Wahl ein. Der Wahlausschuss stellt eine Liste der Wahlvorschläge auf und gibt diese Liste sowie den Gang der Wahl bekannt.
 
@@ -672,8 +662,7 @@ betragen.
 
 (4) Der Wahlausschuss fasst seine Beschlüsse mit einfacher Stimmenmehrheit.
 
-
-## § 7a – Wahlversammlung
+# § 7a – Wahlversammlung
 
 (1) In Heimen mit in der Regel bis zu 50 Bewohnerinnen und Bewohnern kann der Heimbeirat auf einer Wahlversammlung gewählt werden. Der Wahlausschuss entscheidet, ob ein vereinfachtes Wahlverfahren durchgeführt wird. Bewohnerinnen und Bewohner, die an der Wahlversammlung nicht teilnehmen, ist innerhalb einer angemessenen Frist Gelegenheit zur Stimmabgabe zu geben. Die Stimmen dürfen erst nach Ablauf der Frist ausgezählt werden.
 
@@ -683,53 +672,45 @@ betragen.
 
 (4) Die Leitung des Heims kann an der Wahlversammlung teilnehmen. Der Wahlausschuss kann die Heimleitung durch Beschluss von der Wahlversammlung ausschließen.
 
-
-## § 8 – Mithilfe der Leitung
+# § 8 – Mithilfe der Leitung
 
 Die Leitung des Heims hat die Vorbereitung und Durchführung der Wahl in dem erforderlichen Maße personell und sächlich zu unterstützen und die erforderlichen Auskünfte zu erteilen.
 
-
-## § 9 – Wahlschutz und Wahlkosten
+# § 9 – Wahlschutz und Wahlkosten
 
 (1) Die Wahl des Heimbeirates darf nicht behindert oder durch Zufügung oder Androhung von Nachteilen oder Gewährung oder Versprechen von Vorteilen beeinflusst werden.
 
 (2) Die erforderlichen Kosten der Wahl übernimmt der Träger.
 
-
-## § 10 – Wahlanfechtung
+# § 10 – Wahlanfechtung
 
 (1) Mindestens drei Wahlberechtigte können binnen einer Frist von zwei Wochen, vom Tage der Bekanntmachung des Wahlergebnisses an gerechnet, die Wahl bei der zuständigen Behörde anfechten, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist. Eine Anfechtung ist ausgeschlossen, wenn durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
 (2) Über die Anfechtung entscheidet die zuständige Behörde.
 
-
-## § 11 – Mitteilung an die zuständige Behörde
+# § 11 – Mitteilung an die zuständige Behörde
 
 (1) Der Träger hat die zuständige Behörde innerhalb von vier Wochen nach Ablauf des in § 12 genannten Zeitraumes oder bis spätestens sechs Monate nach Betriebsaufnahme über die Bildung eines Heimbeirates zu unterrichten. Ist ein Heimbeirat nicht gebildet worden, so hat dies der Träger der zuständigen Behörde unter Angabe der Gründe unverzüglich mitzuteilen. In diesen Fällen hat die zuständige Behörde in enger Zusammenarbeit mit Träger und Leitung des Heims in geeigneter Weise auf die Bildung eines Heimbeirates hinzuwirken, sofern nicht die besondere personelle Struktur der Bewohnerschaft der Bildung eines Heimbeirates entgegensteht.
 
 (2) Absatz 1 gilt entsprechend, wenn der Heimbeirat vor Ablauf der regelmäßigen Amtszeit nach § 13 neu zu wählen ist. Die Frist zur Mitteilung beginnt mit dem Eintritt der die Neuwahl begründenden Tatsachen.
 
-
-## § 11a – Abweichende Bestimmungen für die Bildung des Heimbeirates
+# § 11a – Abweichende Bestimmungen für die Bildung des Heimbeirates
 
 (1) Die zuständige Behörde kann in Einzelfällen Abweichungen von der Zahl der Mitglieder des Heimbeirates nach § 4 und den Fristen und der Zahl der Wahlberechtigten nach § 6 zulassen, wenn dadurch die Bildung eines Heimbeirates ermöglicht wird. Abweichungen von § 4 dürfen die Funktionsfähigkeit des Heimbeirates nicht beeinträchtigen.
 
 (2) Auf Antrag des Wahlausschusses kann in Ausnahmefällen die zuständige Behörde die Wahlversammlung nach § 7a auch für Heime mit in der Regel mehr als 50 Bewohnerinnen und Bewohnern zulassen.
 
-
-## § 12 – Amtszeit
+# § 12 – Amtszeit
 
 (1) Die regelmäßige Amtszeit des Heimbeirates beträgt zwei Jahre. Die Amtszeit beginnt mit dem Tage der Wahl oder, wenn zu diesem Zeitpunkt noch ein Heimbeirat besteht, mit dem Ablauf seiner Amtszeit.
 
 (2) In Einrichtungen der Hilfe für behinderte Menschen beträgt die Amtszeit vier Jahre.
 
-
-## § 13 – Neuwahl des Heimbeirates
+# § 13 – Neuwahl des Heimbeirates
 
 Der Heimbeirat ist neu zu wählen, wenn die Gesamtzahl der Mitglieder um mehr als die Hälfte der vorgeschriebenen Zahl gesunken ist oder der Heimbeirat mit Mehrheit der Mitglieder seinen Rücktritt beschlossen hat.
 
-
-## § 14 – Erlöschen der Mitgliedschaft
+# § 14 – Erlöschen der Mitgliedschaft
 
 Die Mitgliedschaft im Heimbeirat erlischt durch
 
@@ -743,20 +724,17 @@ Die Mitgliedschaft im Heimbeirat erlischt durch
 
 5. Feststellung der zuständigen Behörde auf Antrag von zwei Drittel der Mitglieder des Heimbeirates, dass das Heimbeiratsmitglied seinen Pflichten nicht mehr nachkommt oder nicht mehr nachkommen kann.
 
-
-## § 15 – Nachrücken von Ersatzmitgliedern
+# § 15 – Nachrücken von Ersatzmitgliedern
 
 Scheidet ein Mitglied aus dem Heimbeirat aus, so rückt die nicht gewählte Person mit der höchsten Stimmenzahl als Ersatzmitglied nach. § 4 Abs. 2 findet Anwendung. Das Gleiche gilt, wenn ein Mitglied des Heimbeirates zeitweilig verhindert ist.
 
-
-## § 16 – Vorsitz
+# § 16 – Vorsitz
 
 (1) Der Heimbeirat wählt mit der Mehrheit seiner Mitglieder den Vorsitz und dessen Stellvertretung. Eine Bewohnerin oder ein Bewohner soll den Vorsitz innehaben.
 
 (2) Die oder der Vorsitzende vertritt den Heimbeirat im Rahmen der von diesem gefassten Beschlüsse, soweit der Heimbeirat im Einzelfall keine andere Vertretung bestimmt.
 
-
-## § 17 – Sitzungen des Heimbeirates
+# § 17 – Sitzungen des Heimbeirates
 
 (1) Unbeschadet einer Wahlanfechtung beruft der Wahlausschuss den Heimbeirat binnen zwei Wochen nach Bekanntmachung des Wahlergebnisses zu einer konstituierenden Sitzung ein.
 
@@ -772,25 +750,21 @@ Scheidet ein Mitglied aus dem Heimbeirat aus, so rückt die nicht gewählte Pers
 
 (7) Der Heimbeirat kann Arbeitsgruppen bilden. Das weitere Verfahren regelt der Heimbeirat.
 
-
-## § 18 – Beschlüsse des Heimbeirates
+# § 18 – Beschlüsse des Heimbeirates
 
 (1) Die Beschlüsse des Heimbeirates werden mit einfacher Stimmenmehrheit der anwesenden Mitglieder gefasst. Bei Stimmengleichheit entscheidet die Stimme der Vorsitzenden oder des Vorsitzenden.
 
 (2) Der Heimbeirat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist.
 
-
-## § 19 – Sitzungsniederschrift
+# § 19 – Sitzungsniederschrift
 
 Über jede Verhandlung des Heimbeirates ist eine Niederschrift aufzunehmen, die mindestens die Sitzungsteilnehmer, den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst sind, enthält. Die Niederschrift ist von der Vorsitzenden oder dem Vorsitzenden und einem weiteren Mitglied zu unterzeichnen.
 
-
-## § 20 – Bewohnerversammlung und Tätigkeitsbericht des Heimbeirates
+# § 20 – Bewohnerversammlung und Tätigkeitsbericht des Heimbeirates
 
 Der Heimbeirat soll mindestens einmal im Amtsjahr eine Bewohnerversammlung abhalten. Teilbewohnerversammlungen sind zulässig. Der Heimbeirat hat in der Bewohnerversammlung einen Tätigkeitsbericht zu erstatten, der auch möglichst schriftlich an alle Bewohnerinnen und Bewohner zu verteilen ist. Die Bewohnerinnen und Bewohner können zum Tätigkeitsbericht Stellung nehmen. Die Bewohnerinnen und Bewohner sind berechtigt, zur Bewohnerversammlung Personen ihres Vertrauens hinzuzuziehen. Auf Verlangen des Heimbeirates hat die Leitung des Heims an der Bewohnerversammlung teilzunehmen. Der Heimbeirat kann die Leitung von der Bewohnerversammlung insgesamt oder von einzelnen Tagesordnungspunkten ausschließen.
 
-
-## § 21 – Kosten und Sachaufwand des Heimbeirates
+# § 21 – Kosten und Sachaufwand des Heimbeirates
 
 (1) Der Träger gewährt dem Heimbeirat die zur Erfüllung seiner Aufgaben erforderlichen Hilfen und stellt insbesondere die Räumlichkeiten zur Verfügung.
 
@@ -798,27 +772,23 @@ Der Heimbeirat soll mindestens einmal im Amtsjahr eine Bewohnerversammlung abhal
 
 (3) Die durch die Tätigkeit des Heimbeirates entstehenden angemessenen Kosten trägt der Träger.
 
-
-## § 22 – Ehrenamtliche Tätigkeit
+# § 22 – Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Heimbeirates führen ihr Amt unentgeltlich und ehrenamtlich aus.
 
-
-## § 23 – Benachteiligungs- und Begünstigungsverbot
+# § 23 – Benachteiligungs- und Begünstigungsverbot
 
 (1) Die Mitglieder des Heimbeirates dürfen bei der Erfüllung ihrer Aufgaben nicht behindert und wegen ihrer Tätigkeit nicht benachteiligt oder begünstigt werden.
 
 (2) Eine Bewohnerin oder ein Bewohner darf aufgrund der Tätigkeit eines Angehörigen oder einer Vertrauensperson im Heimbeirat nicht benachteiligt oder begünstigt werden.
 
-
-## § 24 – Verschwiegenheitspflicht
+# § 24 – Verschwiegenheitspflicht
 
 (1) Die Mitglieder und Ersatzmitglieder des Heimbeirates haben über die ihnen bei Ausübung des Amtes bekannt gewordenen Angelegenheiten oder Tatsachen Stillschweigen zu bewahren. Dies gilt nicht gegenüber den übrigen Mitgliedern des Heimbeirates. Satz 1 gilt für die nach § 17 Abs. 5 teilnehmenden Personen entsprechend.
 
 (2) Die Pflicht zur Verschwiegenheit besteht nicht für Angelegenheiten oder Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner vertraulichen Behandlung bedürfen.
 
-
-## § 25 – Bestellung des Heimfürsprechers
+# § 25 – Bestellung des Heimfürsprechers
 
 (1) Die zuständige Behörde hat unverzüglich einen Heimfürsprecher zu bestellen, sobald die Voraussetzungen für seine Bestellung nach § 10 Abs. 4 des Gesetzes gegeben sind. In Heimen mit mehr als 70 Plätzen können zwei Heimfürsprecher, in Heimen mit mehr als 150 Plätzen drei Heimfürsprecher eingesetzt werden. Sind mehrere Heimfürsprecher eingesetzt, stimmen sie ihre Tätigkeit untereinander ab und legen fest, welcher Heimfürsprecher die Interessen der Bewohnerinnen und Bewohner gegenüber der Heimleitung und außerhalb des Heimes vertritt.
 
@@ -830,8 +800,7 @@ Die Mitglieder des Heimbeirates führen ihr Amt unentgeltlich und ehrenamtlich a
 
 (5) § 1 Abs. 3 gilt entsprechend.
 
-
-## § 26 – Aufhebung der Bestellung des Heimfürsprechers
+# § 26 – Aufhebung der Bestellung des Heimfürsprechers
 
 (1) Die zuständige Behörde hat die Bestellung aufzuheben, wenn
 
@@ -847,8 +816,7 @@ Die Mitglieder des Heimbeirates führen ihr Amt unentgeltlich und ehrenamtlich a
 
 (3) § 25 Abs. 4 gilt entsprechend.
 
-
-## § 27 – Beendigung der Tätigkeit
+# § 27 – Beendigung der Tätigkeit
 
 Die Tätigkeit des Heimfürsprechers endet mit
 
@@ -856,8 +824,7 @@ Die Tätigkeit des Heimfürsprechers endet mit
 
 2. Aufhebung seiner Bestellung durch die zuständige Behörde nach § 26.
 
-
-## § 28 – Stellung und Amtsführung des Heimfürsprechers
+# § 28 – Stellung und Amtsführung des Heimfürsprechers
 
 (1) Für die Stellung und Amtsführung des Heimfürsprechers gelten die §§ 20, 21 Abs. 1 und 2 sowie §§ 23 und 24 entsprechend.
 
@@ -867,13 +834,11 @@ Die Tätigkeit des Heimfürsprechers endet mit
 
 (4) Der Heimträger hat dem Heimfürsprecher zur Ausübung seines Amtes Zutritt zum Heim zu gewähren und ihm zu ermöglichen, sich mit den Bewohnerinnen und Bewohnern in Verbindung zu setzen.
 
-
-## § 28a – Ersatzgremium
+# § 28a – Ersatzgremium
 
 Von der Bestellung eines Heimfürsprechers nach § 10 Abs. 4 Satz 5 des Gesetzes kann die zuständige Behörde absehen, wenn ein Ersatzgremium besteht, das die Mitwirkung der Bewohnerinnen und Bewohner auf andere Weise gewährleisten und die Aufgaben des Heimbeirates übernehmen kann. Für das Ersatzgremium gelten die §§ 20 bis 24 und die §§ 29 bis 32 entsprechend.
 
-
-## § 29 – Aufgaben des Heimbeirates
+# § 29 – Aufgaben des Heimbeirates
 
 Der Heimbeirat hat folgende Aufgaben:
 
@@ -893,8 +858,7 @@ Der Heimbeirat hat folgende Aufgaben:
 
 8. Mitwirkung nach § 7 Abs. 4 des Gesetzes an den Leistungs- und Qualitätsvereinbarungen sowie an den Vergütungsvereinbarungen und nach § 7 Abs. 5 des Gesetzes an den Leistungs-, Vergütungs- und Prüfungsvereinbarungen.
 
-
-## § 30 – Mitwirkung bei Entscheidungen
+# § 30 – Mitwirkung bei Entscheidungen
 
 Der Heimbeirat wirkt bei Entscheidungen der Leitung oder des Trägers in folgenden Angelegenheiten mit:
 
@@ -922,8 +886,7 @@ Der Heimbeirat wirkt bei Entscheidungen der Leitung oder des Trägers in folgend
 
 12. Mitwirkung nach § 7 Abs. 4 des Gesetzes an den Leistungs- und Qualitätsvereinbarungen sowie an den Vergütungsvereinbarungen und nach § 7 Abs. 5 des Gesetzes an den Leistungs-, Vergütungs- und Prüfungsvereinbarungen.
 
-
-## § 31 – Mitwirkung bei Leistung von Finanzierungsbeiträgen
+# § 31 – Mitwirkung bei Leistung von Finanzierungsbeiträgen
 
 (1) Wenn von einer Bewohnerin oder einem Bewohner oder von Dritten zu ihren oder seinen Gunsten Finanzierungsbeiträge an den Träger geleistet worden sind, wirkt der Heimbeirat auch bei der Aufstellung der Haushalts- oder Wirtschaftspläne mit. Der Heimträger hat zu diesem Zweck dem Heimbeirat die erforderlichen Informationen zu geben. Erfolgt bei einem Heimträger, der mehrere Heime betreibt, eine zentrale Wirtschafts- und Rechnungsführung, so hat der Heimträger dem Heimbeirat am Ort des Heims die Unterlagen vorzulegen und die Auskünfte zu erteilen, die das Heim betreffen. Der Träger hat insbesondere anhand der in Satz 1 genannten Pläne über die wirtschaftliche Lage des Heims schriftlich zu berichten. Der Heimbeirat kann hierbei auch Auskünfte über die Vermögens- und Ertragslage des Heims und, sofern vom Träger ein Jahresabschluss aufgestellt worden ist, Einsicht in den Jahresabschluss verlangen.
 
@@ -931,8 +894,7 @@ Der Heimbeirat wirkt bei Entscheidungen der Leitung oder des Trägers in folgend
 
 (3) Die Mitwirkung des Heimbeirates entfällt, wenn alle Ansprüche, die gegenüber dem Träger durch die Leistung von Finanzierungsbeiträgen begründet worden sind, durch Verrechnung, Rückzahlung oder sonstiger Weise erloschen sind.
 
-
-## § 32 – Form und Durchführung der Mitwirkung des Heimbeirates
+# § 32 – Form und Durchführung der Mitwirkung des Heimbeirates
 
 (1) Die Mitwirkung des Heimbeirates soll von dem Bemühen um gegenseitiges Vertrauen und Verständnis zwischen Bewohnerschaft, Leitung und Träger bestimmt sein.
 
@@ -942,13 +904,11 @@ Der Heimbeirat wirkt bei Entscheidungen der Leitung oder des Trägers in folgend
 
 (4) Anträge oder Beschwerden des Heimbeirates sind von der Leitung oder vom Träger in angemessener Frist, längstens binnen sechs Wochen, zu beantworten. Der Träger hat die Antwort zu begründen, wenn er das Anliegen des Heimbeirates bei seiner Entscheidung nicht berücksichtigt hat.
 
-
-## § 33 – Mitwirkung des Heimfürsprechers
+# § 33 – Mitwirkung des Heimfürsprechers
 
 Die §§ 29 bis 32 gelten für die Mitwirkung des Heimfürsprechers entsprechend.
 
-
-## § 34 – Ordnungswidrigkeiten
+# § 34 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 21 Abs. 2 Nr. 1 des Heimgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -968,12 +928,10 @@ Ordnungswidrig im Sinne des § 21 Abs. 2 Nr. 1 des Heimgesetzes handelt, wer vor
 
 8. entgegen § 32 Abs. 3 Satz 1 Entscheidungen vor ihrer Durchführung nicht rechtzeitig erörtert.
 
-
-## § 35 – Übergangsvorschrift
+# § 35 – Übergangsvorschrift
 
 Heimbeiräte, die vor Inkrafttreten der Verordnung gewählt worden sind, müssen nicht neu gewählt werden.
 
-
-## § 36
+# § 36
 
 (Inkrafttreten)

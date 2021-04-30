@@ -1,15 +1,11 @@
-# [KosmetikV 2014] Verordnung über kosmetische Mittel  (Kosmetik-Verordnung)
-
-Ausfertigungsdatum: 16.07.2014
-
+% Verordnung über kosmetische Mittel  (Kosmetik-Verordnung)
+% Ausfertigungsdatum: 16.07.2014
  
-
-## § 1 – Ziel
+# § 1 – Ziel
 
 Diese Verordnung dient der Überwachung des Verkehrs mit kosmetischen Mitteln sowie der Durchführung der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2015/1298 vom 28. Juli 2015 (ABl. L 199 vom 29.7.2015, S. 22) geändert worden ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -17,35 +13,29 @@ Im Sinne dieser Verordnung sind:
 
 2. Inverkehrbringen: Inverkehrbringen im Sinne des Artikels 2 Absatz 1 Buchstabe h der Verordnung (EG) Nr. 1223/2009.
 
-
-## § 3 – Anzeigepflichten
+# § 3 – Anzeigepflichten
 
 Wer im Inland kosmetische Mittel herstellt, hat der für die Überwachung zuständigen Behörde vor dem Inverkehrbringen den Ort der Herstellung anzuzeigen. Werden kosmetische Mittel in die Europäische Union eingeführt, hat der für die Einfuhr Verantwortliche vor deren erstmaliger Einfuhr den Ort, an dem kosmetische Mittel von ihm in den Geltungsbereich dieser Verordnung verbracht werden (Einfuhrort), der für die Überwachung zuständigen Behörde anzuzeigen. Die Verpflichtungen nach den Sätzen 1 und 2 können auf einen Beauftragten übertragen werden. Für Änderungen des angezeigten Herstellungs- oder Einfuhrortes gelten die Sätze 1 bis 3 entsprechend.
 
-
-## § 4 – Sprache
+# § 4 – Sprache
 
 Kosmetische Mittel dürfen nur auf dem Markt bereitgestellt werden, wenn die Angaben nach Artikel 19 Absatz 1 Buchstabe b, c, d und f, Buchstabe d auch in Verbindung mit Absatz 2, der Verordnung (EG) Nr. 1223/2009 in deutscher Sprache angegeben sind.
 
-
-## § 5 – Kennzeichnung nicht vorverpackter kosmetischer Mittel
+# § 5 – Kennzeichnung nicht vorverpackter kosmetischer Mittel
 
 (1) Zusätzlich zu der Anforderung des § 4 dürfen nicht vorverpackte kosmetische Mittel und kosmetische Mittel, die an den Verkaufsstellen auf Wunsch des Käufers verpackt werden oder im Hinblick auf ihren sofortigen Verkauf vorverpackt sind, nur auf dem Markt bereitgestellt werden, wenn die in Artikel 19 Absatz 1 der Verordnung (EG) Nr. 1223/2009 genannten Angaben auf einem dem kosmetischen Mittel beigepackten oder an ihm befestigten Etikett, Papierstreifen, Anhänger oder Kärtchen aufgeführt sind.
 
 (2) Ist bei Angaben nach Artikel 19 Absatz 1 Buchstabe g der Verordnung (EG) Nr. 1223/2009 die Kennzeichnung nach Absatz 1 aus praktischen Gründen, insbesondere wegen der geringen Größe oder der Form des kosmetischen Mittels, nicht möglich, sind diese auf einem Schild in unmittelbarer Nähe des kosmetischen Mittels oder des Behältnisses, in dem das kosmetische Mittel zum Verkauf angeboten wird, anzubringen.
 
-
-## § 6 – Informations- und Behandlungszentren für Vergiftungen
+# § 6 – Informations- und Behandlungszentren für Vergiftungen
 
 Die Informations- und Behandlungszentren für Vergiftungen berichten dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit auf Anfrage über die Erkenntnisse, die sie auf Grund ihrer Tätigkeit gewonnen haben und die für die Beratung bei und die Behandlung von stoffbezogenen gesundheitlichen Beeinträchtigungen durch kosmetische Mittel von allgemeiner Bedeutung sind.
 
-
-## § 7 – Ausnahmen für die Einfuhr
+# § 7 – Ausnahmen für die Einfuhr
 
 Für die Einfuhr von kosmetischen Mitteln gilt § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung entsprechend mit der Maßgabe, dass an die Stelle der Verbote des § 5 Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches und des Artikels 14 Absatz 1 in Verbindung mit Absatz 2 Buchstabe a der Verordnung (EG) Nr. 178/2002 die Pflicht nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 1223/2009 tritt, für die Einhaltung der Sicherheit im Umfang des Artikels 3 der Verordnung (EG) Nr. 1223/2009 zu sorgen.
 
-
-## § 8 – Straftaten
+# § 8 – Straftaten
 
 (1) Nach § 58 Absatz 3 Nummer 1, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 1 in Verbindung mit Artikel 3 Satz 1 Buchstabe a, b oder Buchstabe c der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2015/1298 vom 28. Juli 2015 (ABl. L 199 vom 29.7.2015, S. 22) geändert worden ist, nicht dafür sorgt, dass ein auf dem Markt bereitgestelltes kosmetisches Mittel für die menschliche Gesundheit sicher ist.
 
@@ -87,8 +77,7 @@ a) ein kosmetisches Mittel eine dort genannte Sicherheitsbewertung durchlaufen h
 
 b) ein Sicherheitsbericht für das kosmetische Mittel gemäß Anhang I erstellt worden ist.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 

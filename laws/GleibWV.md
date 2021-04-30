@@ -1,12 +1,7 @@
-# [GleibWV] Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen in Dienststellen des Bundes  (Gleichstellungsbeauftragtenwahlverordnung - GleibWV)
-
-Ausfertigungsdatum: 17.12.2015
-
+% Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen in Dienststellen des Bundes  (Gleichstellungsbeauftragtenwahlverordnung - GleibWV)
+% Ausfertigungsdatum: 17.12.2015
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -20,25 +15,23 @@ Ausfertigungsdatum: 17.12.2015
 
  
 
+ 
 
-## § 1 – Wahlrechtsgrundsätze
+# § 1 – Wahlrechtsgrundsätze
 
 Die Gleichstellungsbeauftragte und ihre Stellvertreterinnen werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt.
 
-
-## § 2 – Wahlberechtigung
+# § 2 – Wahlberechtigung
 
 (1) Wahlberechtigt sind auch teilzeitbeschäftigte Frauen und minderjährige weibliche Auszubildende sowie Frauen, die beurlaubt oder zu einer anderen Dienststelle abgeordnet sind.
 
 (2) Wählen kann nur, wer in die Wählerinnenliste eingetragen ist.
 
-
-## § 3 – Wählbarkeit
+# § 3 – Wählbarkeit
 
 Wählbar für das Amt der Gleichstellungsbeauftragten und das Amt einer Stellvertreterin sind alle weiblichen Beschäftigten der Dienststelle. Ausgenommen sind diejenigen Beschäftigten, die vom Wahltag an länger als drei Monate beurlaubt oder zu einer anderen Dienststelle abgeordnet sind.
 
-
-## § 4 – Fristen für die Wahl
+# § 4 – Fristen für die Wahl
 
 (1) Bei erstmaliger Bestellung einer Gleichstellungsbeauftragten und ihrer Stellvertreterinnen muss die Wahl innerhalb von vier Monaten nach Vorliegen der Voraussetzungen nach § 19 Absatz 1 des Bundesgleichstellungsgesetzes abgeschlossen sein.
 
@@ -50,15 +43,13 @@ Wählbar für das Amt der Gleichstellungsbeauftragten und das Amt einer Stellver
 
 (5) Im Fall des § 22 Absatz 3 des Bundesgleichstellungsgesetzes muss die Wahl unverzüglich nach dem vorzeitigen Ausscheiden oder der Feststellung der nicht nur vorübergehenden Verhinderung sowohl der Gleichstellungsbeauftragten als auch ihrer Stellvertreterinnen durchgeführt und abgeschlossen werden.
 
-
-## § 5 – Formen der Stimmabgabe
+# § 5 – Formen der Stimmabgabe
 
 (1) Die Dienststelle kann anordnen, dass die Stimmabgabe ausschließlich durch eine einzige der nach den §§ 16, 17 und 19 zulässigen Formen der Stimmabgabe erfolgt. Die Anordnung kann auf Dienststellenteile oder nachgeordnete oder zugehörende Dienststellen beschränkt sein. Hat die Dienststelle ausschließlich die Stimmabgabe im Wahlraum angeordnet, kann die Stimmabgabe im Fall der Verhinderung auf Antrag auch durch Briefwahl erfolgen.
 
 (2) Für alle Formen der Stimmabgabe ist dasselbe Fristende festzulegen.
 
-
-## § 6 – Pflichten der Dienststelle
+# § 6 – Pflichten der Dienststelle
 
 (1) Die Dienststelle bestellt einen Wahlvorstand, der aus drei volljährigen Beschäftigten der Dienststelle besteht, in der gewählt wird, und überträgt einer dieser Personen den Vorsitz. Dem Wahlvorstand sollen mindestens zwei Frauen angehören. Zugleich sind drei Ersatzmitglieder zu bestellen, davon sollen mindestens zwei Frauen sein. Ist ein Mitglied an der Mitwirkung im Wahlvorstand verhindert, rückt ein Ersatzmitglied nach. In welcher Reihenfolge die Ersatzmitglieder nachrücken, entscheidet der Wahlvorstand. Die Mitglieder des Wahlvorstandes sind, soweit erforderlich, für die Durchführung der Wahl von ihren dienstlichen Aufgaben freizustellen.
 
@@ -72,13 +63,11 @@ Wählbar für das Amt der Gleichstellungsbeauftragten und das Amt einer Stellver
 
 (4) Die Dienststelle unterstützt die Arbeit des Wahlvorstandes. Insbesondere stellt sie dem Wahlvorstand notwendige Unterlagen zur Verfügung und erteilt erforderliche Auskünfte. Für die Vorbereitung und Durchführung der Wahl hat die Dienststelle dem Wahlvorstand die notwendige personelle, räumliche und sachliche Ausstattung zur Verfügung zu stellen.
 
-
-## § 7 – Wahlvorstand
+# § 7 – Wahlvorstand
 
 Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit Stimmenmehrheit. Er führt über jede Sitzung eine Niederschrift, die den Wortlaut der gefassten Beschlüsse enthält und von zwei Mitgliedern zu unterzeichnen ist. Für die Durchführung der Stimmabgabe und die Auszählung der Stimmen kann der Wahlvorstand Beschäftigte der Dienststelle zu Wahlhelferinnen oder Wahlhelfern bestellen. Die Wahlhelferinnen und Wahlhelfer sind, soweit erforderlich, für die Durchführung der Wahl von ihren dienstlichen Aufgaben freizustellen. Die Bestellung zur Wahlhelferin oder zum Wahlhelfer erfolgt einvernehmlich mit den zu bestellenden Beschäftigten sowie in Abstimmung mit der oder dem zuständigen Vorgesetzten.
 
-
-## § 8 – Bekanntgabe der Wählerinnenliste
+# § 8 – Bekanntgabe der Wählerinnenliste
 
 (1) Der Wahlvorstand überprüft die Richtigkeit der Liste nach § 6 Absatz 3 und die Wahlberechtigung der eingetragenen Beschäftigten. Im Anschluss an die Prüfung stellt er die Liste als Wählerinnenliste fest und gibt sie in allen Dienststellen, in denen gewählt wird, schriftlich oder elektronisch bekannt. Die Bekanntgabe erfolgt an dem Tag, an dem das Wahlausschreiben (§ 10) erlassen wird.
 
@@ -90,8 +79,7 @@ Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit 
 
 3. Eintritt oder Ausscheiden einer Wahlberechtigten.
 
-
-## § 9 – Einspruch gegen die Wählerinnenliste
+# § 9 – Einspruch gegen die Wählerinnenliste
 
 (1) Jede Wahlberechtigte kann innerhalb von zwei Wochen nach Bekanntgabe der Wählerinnenliste beim Wahlvorstand Einspruch gegen die Richtigkeit der Wählerinnenliste einlegen. Der Einspruch ist schriftlich einzulegen und zu begründen.
 
@@ -99,8 +87,7 @@ Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit 
 
 (3) Nach Ablauf der Einspruchsfrist soll der Wahlvorstand die Wählerinnenliste nochmals auf ihre Richtigkeit hin überprüfen.
 
-
-## § 10 – Wahlausschreiben
+# § 10 – Wahlausschreiben
 
 (1) Spätestens sechs Wochen vor dem Wahltag erlässt der Wahlvorstand ein Wahlausschreiben, das mindestens zwei Mitglieder des Wahlvorstandes unterschreiben. Der Wahlvorstand gibt das Wahlausschreiben am Tag seines Erlasses in allen Dienststellen, in denen gewählt wird, schriftlich oder elektronisch bekannt.
 
@@ -144,8 +131,7 @@ Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit 
 
 9. ob die Dienststelle ausschließlich die Briefwahl oder die elektronische Wahl angeordnet hat und ob die Anordnung auf Dienststellenteile oder nachgeordnete oder zugehörende Dienststellen beschränkt ist.
 
-
-## § 11 – Bewerbung
+# § 11 – Bewerbung
 
 (1) Jede Beschäftigte der Dienststelle, die wählbar ist, kann sich entweder für das Amt der Gleichstellungsbeauftragten oder für das Amt einer Stellvertreterin bewerben.
 
@@ -157,8 +143,7 @@ Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Er beschließt mit 
 
 Erfüllt die Bewerbung die Vorgaben des Satzes 1 oder des Satzes 3 nicht, hat der Wahlvorstand die Bewerberin unverzüglich über die Ungültigkeit der Bewerbung zu informieren, sofern die Frist nach Satz 2 noch nicht abgelaufen ist. Die Bewerberin kann die Bewerbung innerhalb der Frist nachbessern. Ist die Frist abgelaufen und erfüllt die Bewerbung die Vorgaben nach den Sätzen 1 bis 3 nicht, ist sie ungültig.
 
-
-## § 12 – Nachfrist für Bewerbungen
+# § 12 – Nachfrist für Bewerbungen
 
 (1) Ist nach Ablauf der Frist nach § 11 Absatz 2 Satz 2 keine gültige Bewerbung für das Amt der Gleichstellungsbeauftragten eingegangen, muss der Wahlvorstand dies unverzüglich in allen Dienststellen, in denen gewählt wird, schriftlich oder elektronisch bekannt geben und eine Nachfrist von einer Woche für die Einreichung von Bewerbungen setzen. In der Bekanntgabe ist darauf hinzuweisen, dass die Wahl der Gleichstellungsbeauftragten nur stattfinden kann, wenn innerhalb der Nachfrist mindestens eine gültige Bewerbung eingereicht wird.
 
@@ -170,8 +155,7 @@ Erfüllt die Bewerbung die Vorgaben des Satzes 1 oder des Satzes 3 nicht, hat de
 
 2. nach § 20 Absatz 2 oder Absatz 3 des Bundesgleichstellungsgesetzes eine Bestellung von Amts wegen durch die Dienststelle erfolgt.
 
-
-## § 13 – Bekanntgabe der Bewerbungen
+# § 13 – Bekanntgabe der Bewerbungen
 
 Der Wahlvorstand gibt unverzüglich nach Ablauf der Frist nach § 11 Absatz 2 Satz 2 oder nach Ablauf der Nachfrist nach § 12 Absatz 1 Satz 1 Folgendes bekannt:
 
@@ -181,8 +165,7 @@ Der Wahlvorstand gibt unverzüglich nach Ablauf der Frist nach § 11 Absatz 2 Sa
 
 Die Bekanntgabe hat in allen Dienststellen, in denen gewählt wird, schriftlich oder elektronisch zu erfolgen.
 
-
-## § 14 – Form und Inhalt der Stimmzettel
+# § 14 – Form und Inhalt der Stimmzettel
 
 (1) Für jeden Wahlgang ist ein eigener Stimmzettel vorzusehen. Die Stimmzettel eines Wahlgangs müssen in Größe, Farbe, Beschaffenheit und Beschriftung identisch sein und sich farblich von denen des anderen Wahlgangs deutlich unterscheiden. Stimmzettel müssen so beschaffen sein, dass nach Kennzeichnung und Faltung durch die Wählerin andere Personen vor der Auszählung der Stimmzettel nicht erkennen können, wie die Wählerin gewählt hat.
 
@@ -192,8 +175,7 @@ Die Bekanntgabe hat in allen Dienststellen, in denen gewählt wird, schriftlich 
 
 § 14 Abs. 1 Satz 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Auszähung" durch "Auszählung" ersetzt
 
-
-## § 15 – Ausübung des Wahlrechts
+# § 15 – Ausübung des Wahlrechts
 
 (1) Jede Wählerin hat für jeden Wahlgang eine Stimme.
 
@@ -209,8 +191,7 @@ Die Bekanntgabe hat in allen Dienststellen, in denen gewählt wird, schriftlich 
 
 4. der Stimmzettel bei der Briefwahl nicht in einem Wahlumschlag abgegeben wurde.
 
-
-## § 16 – Stimmabgabe im Wahlraum
+# § 16 – Stimmabgabe im Wahlraum
 
 (1) Der Wahlvorstand trifft Vorkehrungen, damit die Wählerin ihre Stimmen im Wahlraum unter Wahrung des Wahlgeheimnisses abgeben kann.
 
@@ -236,8 +217,7 @@ Die Bekanntgabe hat in allen Dienststellen, in denen gewählt wird, schriftlich 
 
 Sie dürfen erst bei der Wiedereröffnung oder für die Stimmauszählung entsiegelt werden.
 
-
-## § 17 – Briefwahl
+# § 17 – Briefwahl
 
 (1) Eine Wahlberechtigte, die an der persönlichen Stimmabgabe verhindert ist, erhält auf Antrag vom Wahlvorstand folgende Unterlagen ausgehändigt oder übersandt:
 
@@ -267,20 +247,17 @@ Der Wahlvorstand vermerkt die Aushändigung oder Übersendung der Unterlagen in 
 
 (5) Die beim Wahlvorstand eingehenden Freiumschläge sind ungeöffnet und sicher vor dem Zugriff Dritter aufzubewahren.
 
-
-## § 18 – Behandlung der Briefwahlstimmen
+# § 18 – Behandlung der Briefwahlstimmen
 
 (1) Bis zum Ablauf der Frist für die Stimmabgabe öffnet der Wahlvorstand in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen Freiumschläge und entnimmt ihnen die Wahlumschläge sowie die vorgedruckten Erklärungen. Der Wahlvorstand vermerkt in der Wählerinnenliste, dass die Wählerin an der Briefwahl teilgenommen und die vorgedruckte Erklärung unterzeichnet hat. Anschließend öffnet er die Wahlumschläge, entnimmt ihnen die gefalteten Stimmzettel und legt diese ungeprüft in die für den jeweiligen Wahlgang vorgesehene Wahlurne.
 
 (2) Freiumschläge, die nach Ablauf der Frist für die Stimmabgabe beim Wahlvorstand eingehen, gelten als verspätet. Verspätet eingehende Freiumschläge nimmt der Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen. Die Dienststelle vernichtet die ungeöffneten Freiumschläge einen Monat nach Bekanntgabe des Wahlergebnisses, wenn die Wahl bis dahin nicht angefochten worden ist.
 
-
-## § 19 – Elektronische Wahl
+# § 19 – Elektronische Wahl
 
 Hat die Dienststelle eine elektronische Wahl angeordnet, hat sie die technischen und organisatorischen Abläufe so zu regeln, dass die Einhaltung der Wahlrechtsgrundsätze (§ 1) gewährleistet ist. Für die Wahl soll ein für elektronische Wahlen zugelassenes System eingesetzt werden.
 
-
-## § 20 – Stimmenauszählung, Feststellung des Wahlergebnisses
+# § 20 – Stimmenauszählung, Feststellung des Wahlergebnisses
 
 (1) Unverzüglich nach Ablauf der Frist zur Stimmabgabe, im Fall der Briefwahl nach Abschluss der Tätigkeiten nach § 18 Absatz 1, zählt der Wahlvorstand öffentlich die Stimmen aus. Dazu öffnet er die Wahlurnen, entnimmt ihnen die Stimmzettel und prüft deren Gültigkeit. Stimmzettel, die der Wahlvorstand durch Beschluss für ungültig erklärt hat, sind mit fortlaufenden Nummern zu versehen und von den übrigen Stimmzetteln gesondert bei den Wahlunterlagen aufzubewahren. Anschließend stellt der Wahlvorstand das Wahlergebnis fest.
 
@@ -304,13 +281,11 @@ Hat die Dienststelle eine elektronische Wahl angeordnet, hat sie die technischen
 
 (6) Der Wahlvorstand gibt das Wahlergebnis in allen Dienststellen, in denen gewählt worden ist, schriftlich oder elektronisch bekannt und weist auf die Anfechtungsfrist nach § 21 Absatz 3 des Bundesgleichstellungsgesetzes hin.
 
-
-## § 21 – Benachrichtigung der Bewerberinnen
+# § 21 – Benachrichtigung der Bewerberinnen
 
 Der Wahlvorstand benachrichtigt unverzüglich alle Bewerberinnen schriftlich oder elektronisch gegen Empfangsbestätigung über das Wahlergebnis. Der Benachrichtigung der Gewählten ist ein Hinweis auf das Verfahren zur Annahme der Wahl und die Folgen einer Nichtannahme (§ 22) beizufügen.
 
-
-## § 22 – Annahme der Wahl
+# § 22 – Annahme der Wahl
 
 (1) Die Wahl gilt als angenommen, wenn die Gewählte dem Wahlvorstand nicht innerhalb von drei Arbeitstagen nach Zugang der Benachrichtigung über das Wahlergebnis erklärt, dass sie die Wahl ablehnt.
 
@@ -322,8 +297,7 @@ Der Wahlvorstand benachrichtigt unverzüglich alle Bewerberinnen schriftlich ode
 
 (3) Lehnt die Gewählte die Wahl ab oder nimmt sie die Wahl in den Fällen des Absatzes 2 nicht frist- und formgerecht ausdrücklich an, tritt an ihre Stelle die Bewerberin auf dem folgenden Listenplatz. Die Absätze 1 und 2 gelten für die Nachrückerin entsprechend. Steht eine Nachrückerin nicht zur Verfügung, teilt der Wahlvorstand dies unverzüglich der Dienststelle mit und gibt es gleichzeitig in allen Dienststellen, in denen gewählt worden ist, bekannt. Mitteilung und Bekanntgabe haben schriftlich oder elektronisch zu erfolgen.
 
-
-## § 23 – Bekanntgabe der Gewählten und Bestellung
+# § 23 – Bekanntgabe der Gewählten und Bestellung
 
 (1) Sobald die Wahl angenommen ist, teilt der Wahlvorstand der Dienststelle die Namen der Gewählten mit und gibt sie gleichzeitig in allen Dienststellen, in denen gewählt worden ist, schriftlich oder elektronisch bekannt. Nach der Bekanntgabe durch den Wahlvorstand und Ablauf der Amtszeit der Vorgängerin bestellt die Dienststelle unverzüglich die jeweils Gewählte zur Gleichstellungsbeauftragten oder zur Stellvertreterin.
 
@@ -337,13 +311,11 @@ Die Bestellung der Gleichstellungsbeauftragten und der Stellvertreterinnen bedar
 
 (3) Die Dienststelle bestellt die Stellvertreterinnen auch dann von Amts wegen, wenn trotz Bestellung einer Stellvertreterin nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 Nummer 2 die nach § 6 Absatz 2 Nummer 1 festgelegte Zahl an Stellvertreterinnen noch nicht erreicht ist. In diesem Fall gilt Absatz 2 Satz 3 entsprechend.
 
-
-## § 24 – Aufbewahrung der Wahlunterlagen
+# § 24 – Aufbewahrung der Wahlunterlagen
 
 Die Dienststelle bewahrt die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen und Stimmzettel, mindestens bis zum Ablauf der Anfechtungsfrist nach § 21 Absatz 3 des Bundesgleichstellungsgesetzes auf. Im Fall der Anfechtung bewahrt die Dienststelle die Wahlunterlagen bis zum bestands- oder rechtskräftigen Abschluss des Anfechtungsverfahrens auf. Danach sind die Stimmzettel und die Wählerinnenlisten unverzüglich zu vernichten.
 
-
-## § 25 – Auflösung des Wahlvorstandes
+# § 25 – Auflösung des Wahlvorstandes
 
 Die Amtszeit des Wahlvorstandes endet
 
@@ -353,13 +325,11 @@ Die Amtszeit des Wahlvorstandes endet
 
 3. mit Bekanntgabe, dass im Fall des § 12 Absatz 3 Nummer 2 für alle zu besetzenden Ämter eine Bestellung von Amts wegen durch die Dienststelle erfolgt.
 
-
-## § 26 – Sonderregelungen für den Bundesnachrichtendienst
+# § 26 – Sonderregelungen für den Bundesnachrichtendienst
 
 Für den Bundesnachrichtendienst gilt diese Verordnung mit der Einschränkung, dass bei der Erstellung und Aufbewahrung der Wahlunterlagen die für den Bundesnachrichtendienst geltenden Sicherheitsbestimmungen zu beachten sind. Die Bekanntmachungen sind den Beschäftigten in der im Bundesnachrichtendienst üblichen Weise während der Dienststunden zugänglich zu machen.
 
-
-## § 27 – Übergangsbestimmungen
+# § 27 – Übergangsbestimmungen
 
 (1) Wahlverfahren, die nach § 40 Absatz 3 Satz 2 des Bundesgleichstellungsgesetzes unverzüglich durchgeführt werden müssen, sind innerhalb von vier Monaten nach Inkrafttreten dieser Verordnung abzuschließen. Die neu gewählten Stellvertreterinnen werden bis zum Ablauf der Amtszeit der amtierenden Gleichstellungsbeauftragten und Stellvertreterin bestellt.
 

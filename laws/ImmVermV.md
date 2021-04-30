@@ -1,10 +1,7 @@
-# [ImmVermV] Verordnung über Immobiliardarlehensvermittlung  (Immobiliardarlehensvermittlungsverordnung - ImmVermV)
-
-Ausfertigungsdatum: 28.04.2016
-
+% Verordnung über Immobiliardarlehensvermittlung  (Immobiliardarlehensvermittlungsverordnung - ImmVermV)
+% Ausfertigungsdatum: 28.04.2016
  
-
-## § 1 – Sachkundeprüfung
+# § 1 – Sachkundeprüfung
 
 (1) Durch das Bestehen der Sachkundeprüfung erbringt der Prüfling den Nachweis, dass er über die fachspezifischen Produkt- und Beratungskenntnisse verfügt, die zur Ausübung der Tätigkeiten als Immobiliardarlehensvermittler nach § 34i Absatz 1 der Gewerbeordnung erforderlich sind.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 28.04.2016
 
 Die inhaltlichen Anforderungen an die Sachkundeprüfung bestimmen sich nach der Anlage 1.
 
-
-## § 2 – Zuständige Stelle und Prüfungsausschuss
+# § 2 – Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Abnahme der Sachkundeprüfung erfolgt durch die Industrie- und Handelskammern. Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer abgelegt werden, die diese Prüfung anbietet.
 
@@ -27,8 +23,7 @@ Die inhaltlichen Anforderungen an die Sachkundeprüfung bestimmen sich nach der 
 
 (3) Mehrere Industrie- und Handelskammern können Vereinbarungen zur gemeinsamen Durchführung der Sachkundeprüfung schließen. Sie können einen gemeinsamen Prüfungsausschuss errichten. Unberührt bleibt § 10 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern in der im Bundesgesetzblatt Teil III, Gliederungsnummer 701-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 254 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist.
 
-
-## § 3 – Prüfungsinhalt, Verfahren
+# § 3 – Prüfungsinhalt, Verfahren
 
 (1) Die Sachkundeprüfung besteht aus einem schriftlichen und einem praktischen Teil. Die Teilnahme am praktischen Teil der Prüfung setzt das Bestehen des schriftlichen Teils voraus.
 
@@ -76,8 +71,7 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
 
 (9) Die Einzelheiten des Prüfungsverfahrens regeln die Industrie- und Handelskammern nach Maßgabe des § 32 Absatz 1 Satz 2 der Gewerbeordnung durch Satzung.
 
-
-## § 4 – Gleichstellung anderer Berufsqualifikationen
+# § 4 – Gleichstellung anderer Berufsqualifikationen
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer oder Nachfolger sind dem Nachweis der erforderlichen Sachkunde gleichgestellt:
 
@@ -111,13 +105,11 @@ h) als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte F
 
 (2) Der erfolgreiche Abschluss eines mathematischen, wirtschafts- oder rechtswissenschaftlichen Studiums an einer Hochschule oder Berufsakademie wird als Nachweis anerkannt, wenn die erforderliche Sachkunde bei der antragstellenden Person vorliegt. Dies setzt in der Regel voraus, dass zusätzlich zu dem Abschluss nach Satz 1 eine mindestens dreijährige Berufserfahrung im Bereich der Immobiliardarlehensvermittlung nachgewiesen wird.
 
-
-## § 5 – Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
+# § 5 – Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die Kenntnisse, Fähigkeiten und Kompetenzen, die die antragstellende Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworben hat, diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
 
-
-## § 6 – Angaben zur Speicherung im Vermittlerregister
+# § 6 – Angaben zur Speicherung im Vermittlerregister
 
 (1) Im Vermittlerregister nach § 11a der Gewerbeordnung werden folgende Angaben zu den Eintragungspflichtigen gespeichert:
 
@@ -147,8 +139,7 @@ Ist der Eintragungspflichtige eine juristische Person, so werden neben ihrer Fir
 
 (2) Zudem werden im Register nach § 11a der Gewerbeordnung Angaben nach Absatz 1 Satz 1 Nummer 1, 2, 5, 6, 8 und 9 sowie die Angaben nach Absatz 1 Satz 2 eines in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zugelassenen Immobiliardarlehensvermittlers unter einer Registrierungsnummer gespeichert, die die zuständige Behörde des Herkunftsstaates der zuständigen Registerbehörde mitgeteilt hat.
 
-
-## § 7 – Mitteilungspflichten
+# § 7 – Mitteilungspflichten
 
 (1) Der Eintragungspflichtige hat der zuständigen Erlaubnisbehörde unverzüglich nach Aufnahme seiner Tätigkeit die Angaben nach § 6 Absatz 1 Satz 1 Nummer 1 bis 9 und Satz 2 mitzuteilen. Ebenso hat er Änderungen der Angaben nach § 6 Absatz 1 unverzüglich mitzuteilen. Die zuständige Erlaubnisbehörde leitet diese Angaben und Änderungen unverzüglich an die Registerbehörde weiter.
 
@@ -158,18 +149,15 @@ Ist der Eintragungspflichtige eine juristische Person, so werden neben ihrer Fir
 
 (4) Die Registerbehörde unterrichtet den Eintragungspflichtigen, die zuständige Erlaubnisbehörde sowie die zuständige Behörde der Staaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nach § 6 Absatz 1 Satz 1 Nummer 6 unverzüglich über eine Datenlöschung nach § 11a Absatz 3b Satz 2 der Gewerbeordnung.
 
-
-## § 8 – Zugang
+# § 8 – Zugang
 
 Die Angaben nach § 6 Absatz 1 Satz 1 Nummer 2 und 11 dürfen nicht automatisiert abgerufen werden. Die Registerbehörde darf zu diesen Angaben nur den in § 11a Absatz 7 der Gewerbeordnung genannten Behörden Auskunft erteilen.
 
-
-## § 9 – Geltungsbereich der Versicherung
+# § 9 – Geltungsbereich der Versicherung
 
 Die Versicherung nach § 34i Absatz 2 Nummer 3 der Gewerbeordnung muss für das gesamte Gebiet der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gelten, wenn sich die Tätigkeit des Gewerbetreibenden nicht ausschließlich auf das Inland beschränkt.
 
-
-## § 10 – Umfang der Versicherung
+# § 10 – Umfang der Versicherung
 
 (1) Die Versicherung nach § 34i Absatz 2 Nummer 3 der Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen abgeschlossen werden.
 
@@ -181,8 +169,7 @@ Die Versicherung nach § 34i Absatz 2 Nummer 3 der Gewerbeordnung muss für das 
 
 (5) Von der Versicherung kann die Haftung für Ersatzansprüche wegen wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
-
-## § 11 – Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
+# § 11 – Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung nach § 113 Absatz 2 des Versicherungsvertragsgesetzes vom 23. November 2007 (BGBl. I S. 2631), das zuletzt durch Artikel 15 des Gesetzes vom 19. Februar 2016 (BGBl. I S. 254) geändert worden ist, darf zum Zeitpunkt der Antragstellung bei der für die Erlaubniserteilung zuständigen Behörde nicht älter als drei Monate sein.
 
@@ -198,18 +185,15 @@ Die zuständige Behörde hat dem Versicherungsunternehmen das Datum des Eingangs
 
 (3) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach § 34i Absatz 1 der Gewerbeordnung zuständige Behörde.
 
-
-## § 12 – Allgemeine Verhaltenspflicht
+# § 12 – Allgemeine Verhaltenspflicht
 
 Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der erforderlichen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit im Interesse des Immobiliardarlehensnehmers auszuüben.
 
-
-## § 13 – Verbot der Annahme von Geldern
+# § 13 – Verbot der Annahme von Geldern
 
 Der Gewerbetreibende ist nicht befugt, sich im Zusammenhang mit der Immobiliardarlehensvermittlung oder -beratung nach § 34i Absatz 1 Satz 1 der Gewerbeordnung Eigentum oder Besitz an Geldern des Immobiliardarlehensnehmers zu verschaffen.
 
-
-## § 14 – Aufzeichnungs- und Aufbewahrungspflicht
+# § 14 – Aufzeichnungs- und Aufbewahrungspflicht
 
 (1) Der Gewerbetreibende hat ab der Annahme des Auftrags Folgendes nach Satz 3 aufzuzeichnen:
 
@@ -223,8 +207,7 @@ Er hat die entsprechenden Unterlagen und Belege übersichtlich zu sammeln. Die A
 
 (2) Die in Absatz 1 genannten Unterlagen sind fünf Jahre auf einem dauerhaften Datenträger vorzuhalten und in den Geschäftsräumen aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Ende des Kalenderjahres, in dem der letzte aufzeichnungspflichtige Vorgang für den jeweiligen Auftrag angefallen ist. Sonstige Vorschriften über Aufzeichnungs- und Buchführungspflichten bleiben unberührt.
 
-
-## § 15 – Außerordentliche Prüfungen
+# § 15 – Außerordentliche Prüfungen
 
 (1) Die für die Erlaubniserteilung nach § 34i Absatz 1 der Gewerbeordnung zuständige Behörde kann aus besonderem Anlass anordnen, dass der Gewerbetreibende sich auf seine Kosten im Rahmen einer außerordentlichen Prüfung durch einen geeigneten Prüfer auf die Einhaltung der sich aus § 34i Absatz 5 bis 7 der Gewerbeordnung und § 14 ergebenden Pflichten überprüfen lässt und der Behörde den Prüfungsbericht übermittelt. Der Prüfer wird von der nach Satz 1 zuständigen Behörde bestimmt. Der Prüfungsbericht hat einen Vermerk darüber zu enthalten, ob und welche Verstöße des Gewerbetreibenden festgestellt worden sind. Der Prüfer hat den Vermerk unter Angabe von Ort und Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe genügt.
 
@@ -244,15 +227,13 @@ c) sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder
 
 (4) Ungeeignet für eine außerordentliche Prüfung sind Personen, bei denen die Besorgnis der Befangenheit besteht.
 
-
-## § 16 – Rechte und Pflichten der an der außerordentlichen Prüfung Beteiligten
+# § 16 – Rechte und Pflichten der an der außerordentlichen Prüfung Beteiligten
 
 (1) Der Gewerbetreibende hat dem Prüfer jederzeit Einsicht in die Bücher, Aufzeichnungen und Unterlagen zu gestatten. Er hat dem Prüfer alle Aufklärungen und Nachweise auf Verlangen zu geben, die der Prüfer für eine sorgfältige Prüfung benötigt.
 
 (2) Der Prüfer ist zur gewissenhaften und unparteiischen Prüfung und zur Verschwiegenheit verpflichtet. Er darf nicht unbefugt Geschäfts- und Betriebsgeheimnisse verwerten, die er bei seiner Tätigkeit erfahren hat. Ein Prüfer, der vorsätzlich oder fahrlässig seine Pflichten verletzt, ist dem Gewerbetreibenden zum Ersatz des daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als Gesamtschuldner.
 
-
-## § 17 – Anzeigepflicht
+# § 17 – Anzeigepflicht
 
 Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34i Absatz 1 der Gewerbeordnung zuständigen Behörde unverzüglich nach Satz 3 anzuzeigen, welche Personen jeweils mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragt sind. Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der Anzeige ist für jede Person Folgendes anzugeben:
 
@@ -264,13 +245,11 @@ Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34i Absatz 1 de
 
 4. die aktuelle Anschrift.
 
-
-## § 18 – Grenzüberschreitende Zusammenarbeit
+# § 18 – Grenzüberschreitende Zusammenarbeit
 
 Die für die Erlaubniserteilung zuständigen Behörden und die Registerbehörde arbeiten zur Überwachung der Gewerbetreibenden gemäß der Richtlinie 2014/17/EU unmittelbar oder über die Stelle nach § 11a Absatz 6 Satz 3 der Gewerbeordnung mit der Europäischen Bankenaufsichtsbehörde und den Aufsichtsbehörden der Herkunftsmitgliedstaaten zusammen. Bei Meinungsverschiedenheiten zwischen den Aufsichtsbehörden bei der Zusammenarbeit nach Satz 1 ist Artikel 19 der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12), die zuletzt durch die Richtlinie 2014/17/EU (ABl. L 60 vom 28.2.2014, S. 34) geändert worden ist, entsprechend anzuwenden.
 
-
-## § 19 – Ordnungswidrigkeiten
+# § 19 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -292,18 +271,15 @@ Die für die Erlaubniserteilung zuständigen Behörden und die Registerbehörde 
 
 (3) Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 11a der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Messe-, Ausstellungs- oder Marktgewerbes begeht.
 
-
-## § 20 – Übergangsregelung
+# § 20 – Übergangsregelung
 
 Ein vor dem 21. März 2016 abgelegter Abschluss nach dem Standard des gemeinsamen Lernzielkatalogs<span id="FnR.F793957_02"></span><a href="#F793957_02" class="FnR">2</a></sup> der deutschen Bausparkassen des Berufsbildungswerks der Bausparkassen e. V., der Industrie- und Handelskammer Potsdam, der Industrie- und Handelskammer Nord Westfalen, der Sparkassenakademie Niedersachsen, der Sparkassenakademie Schloss Waldthausen, der Sparkassenakademie Baden-Württemberg, der Wirtschaftsakademie Schleswig Holstein/Niederlassung Lübeck oder der Beruflichen Fortbildungszentren der Bayerischen Wirtschaft (BFZ) gemeinnützige GmbH steht der erfolgreich abgelegten Sachkundeprüfung gleich.
 
-
-## Anlage 1 – (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
+# Anlage 1 – (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2016, 1052 - 1054)
 
-
-## Anlage 2 – (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Fachmann für Immobiliardarlehensvermittlung IHK“ und „Geprüfte Fachfrau für Immobiliardarlehensvermittlung IHK“ nach § 34i Absatz 2 Nummer 4 der Gewerbeordnung
+# Anlage 2 – (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Fachmann für Immobiliardarlehensvermittlung IHK“ und „Geprüfte Fachfrau für Immobiliardarlehensvermittlung IHK“ nach § 34i Absatz 2 Nummer 4 der Gewerbeordnung
 
 (Fundstelle: BGBl. I 2016, 1055)
 

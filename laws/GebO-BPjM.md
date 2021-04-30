@@ -1,15 +1,11 @@
-# [GebO-BPjM] Verordnung über die Erhebung von Gebühren durch die Bundesprüfstelle für jugendgefährdende Medien  (GebO-BPjM)
-
-Ausfertigungsdatum: 28.04.2004
-
+% Verordnung über die Erhebung von Gebühren durch die Bundesprüfstelle für jugendgefährdende Medien  (GebO-BPjM)
+% Ausfertigungsdatum: 28.04.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 Abs. 10 Satz 2 des Jugendschutzgesetzes vom 23. Juli 2002 (BGBl. I S. 2730, 2003 I S. 476), der durch Artikel 3 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) geändert worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), zuletzt geändert durch Artikel 4 des Gesetzes vom 5. Oktober 1994 (BGBl. I S. 2911), verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Für Verfahren, die auf Antrag der Urheberin oder des Urhebers, der Inhaberin oder des Inhabers der Nutzungsrechte sowie bei Telemedien des Anbieters eingeleitet werden und die auf die Entscheidung gerichtet sind, dass ein Medium
 
@@ -19,28 +15,23 @@ Für Verfahren, die auf Antrag der Urheberin oder des Urhebers, der Inhaberin od
 
 erhebt die Bundesprüfstelle für jugendgefährdende Medien Gebühren.
 
-
-## § 2 – Vorschusszahlung
+# § 2 – Vorschusszahlung
 
 Die Bundesprüfstelle für jugendgefährdende Medien kann die Entscheidung über einen Antrag nach § 1 von der Zahlung eines angemessenen Vorschusses bis zur Höhe der voraussichtlich entstehenden Gebühren abhängig machen.
 
-
-## § 3 – Höhe der Gebühren
+# § 3 – Höhe der Gebühren
 
 Gebühren werden nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Die Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 3)Gebührenverzeichnis
+# Anlage – (zu § 3)Gebührenverzeichnis
 
                                    Teil 1
                           Ablehnende Entscheidungen 

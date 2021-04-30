@@ -1,25 +1,19 @@
-# [PharmAusbV 2009] Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
-
-Ausfertigungsdatum: 10.06.2009
-
+% Verordnung über die Berufsausbildung zum Pharmakanten/zur Pharmakantin
+% Ausfertigungsdatum: 10.06.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Pharmakant/Pharmakantin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre und sechs Monate.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in:
 
@@ -27,8 +21,7 @@ Die Berufsausbildung gliedert sich in:
 
 2. vom Ausbildenden festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt II Nummer 1 bis 16 im Umfang von insgesamt 72 Wochen; dabei sind aus den Wahlqualifikationen nach den Nummern 1 bis 3 mindestens zwei und aus den Wahlqualifikationen nach den Nummern 4 bis 6 mindestens eine auszuwählen.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -120,8 +113,7 @@ Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
 
 16. Internationale Kompetenz.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 10 nachzuweisen.
 
@@ -129,15 +121,13 @@ Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Abschlussprüfung
+# § 7 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -219,8 +209,7 @@ i) Herstellen von Granulat und nicht überzogenen Tabletten, Cremes und Injektio
 
 4. die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 8 – Teil 2 der Abschlussprüfung
+# § 8 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -312,8 +301,7 @@ i) nach § 3 Nummer 2 gewählte Wahlqualifikationen, wobei aus der Auswahlliste 
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen
+# § 9 – Gewichtungs- und Bestehensregelungen
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -336,18 +324,15 @@ Sozialkunde</td><td style="text-align: right;"> </td><td style="text-align: rig
 
 bewertet worden sind.
 
-
-## § 10 – Mündliche Ergänzungsprüfung
+# § 10 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 
 Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1
 

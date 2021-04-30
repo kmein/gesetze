@@ -1,15 +1,11 @@
-# [PatV] Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt  (Patentverordnung - PatV)
-
-Ausfertigungsdatum: 01.09.2003
-
+% Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt  (Patentverordnung - PatV)
+% Ausfertigungsdatum: 01.09.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34 Abs. 6 und des § 63 Abs. 4 des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), von denen § 34 Abs. 6 zuletzt durch Artikel 7 Nr. 16 Buchstabe b und § 63 Abs. 4 durch Artikel 7 Nr. 27 Buchstabe b des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden sind, jeweils in Verbindung mit § 20 der Verordnung über das Deutsche Patent- und Markenamt vom 5. September 1968 (BGBl. I S. 997), der durch Artikel 24 Nr. 2 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) neu gefasst worden ist, verordnet das Deutsche Patent- und Markenamt:
 
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 Abschnitt 1
 
@@ -143,25 +139,21 @@ Anlage 2 (zu § 12)
 
 Standards für die Einreichung von Zeichnungen
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Für die im Patentgesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt gelten ergänzend zu den Bestimmungen des Patentgesetzes und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 
-
-## § 2 – DIN-Normen, Einheiten im Messwesen, Symbole und Zeichen
+# § 2 – DIN-Normen, Einheiten im Messwesen, Symbole und Zeichen
 
 (1) DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 (2) Einheiten im Messwesen sind in Übereinstimmung mit dem Gesetz über die Einheiten im Messwesen und die Zeitbestimmung und der hierzu erlassenen Ausführungsverordnung in den jeweils geltenden Fassungen anzugeben. Bei chemischen Formeln sind die auf dem Fachgebiet national oder international anerkannten Zeichen und Symbole zu verwenden.
 
-
-## § 3 – Form der Einreichung
+# § 3 – Form der Einreichung
 
 Die Anmeldung (§ 34 des Patentgesetzes) und die Zusammenfassung (§ 36 des Patentgesetzes) sind beim Deutschen Patent- und Markenamt schriftlich oder elektronisch einzureichen. Für die elektronische Einreichung ist die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
-
-## § 4 – Anmeldung zur Erteilung eines Patents
+# § 4 – Anmeldung zur Erteilung eines Patents
 
 (1) Für die schriftliche Anmeldung zur Erteilung eines Patents ist für die nachfolgend genannten Angaben das vom Deutschen Patent- und Markenamt herausgegebene Formblatt zu verwenden, sofern diese Verordnung nichts anderes bestimmt.
 
@@ -199,15 +191,13 @@ bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit A
 
 (8) Die Angaben zum geographischen Herkunftsort biologischen Materials nach § 34a Absatz 1 Satz 1 des Patentgesetzes sind auf einem gesonderten Blatt anzugeben.
 
-
-## § 5 – Anmeldungsunterlagen
+# § 5 – Anmeldungsunterlagen
 
 (1) Die Anmeldungsunterlagen und die Zusammenfassung dürfen im Text keine bildlichen Darstellungen enthalten. Ausgenommen sind chemische und mathematische Formeln sowie Tabellen. Phantasiebezeichnungen, Marken oder andere Bezeichnungen, die zur eindeutigen Angabe der Beschaffenheit eines Gegenstands nicht geeignet sind, dürfen nicht verwendet werden. Kann eine Angabe ausnahmsweise nur durch Verwendung einer Marke eindeutig bezeichnet werden, so ist die Bezeichnung als Marke kenntlich zu machen.
 
 (2) Technische Begriffe und Bezeichnungen sowie Bezugszeichen sind in der gesamten Anmeldung einheitlich zu verwenden, sofern nicht die Verwendung verschiedener Ausdrücke sachdienlich ist.
 
-
-## § 6 – Formerfordernisse der Anmeldung
+# § 6 – Formerfordernisse der Anmeldung
 
 (1) Die Anmeldungsunterlagen sind in einer Form einzureichen, die eine elektronische Erfassung gestattet.
 
@@ -233,8 +223,7 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 (6) Die Anmeldungsunterlagen sollen deutlich erkennen lassen, zu welcher Anmeldung sie gehören.
 
-
-## § 7 – Benennung des Erfinders
+# § 7 – Benennung des Erfinders
 
 (1) Der Anmelder muss bei schriftlicher Benennung des Erfinders das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwenden.
 
@@ -250,15 +239,13 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 5. die Unterschrift des Anmelders oder seines Vertreters; ist das Patent von mehreren Personen beantragt, so hat jede von ihnen oder ihr Vertreter die Benennung zu unterzeichnen.
 
-
-## § 8 – Nichtnennung des Erfinders; Änderungen der Erfindernennung
+# § 8 – Nichtnennung des Erfinders; Änderungen der Erfindernennung
 
 (1) Der Antrag des Erfinders, ihn nicht als Erfinder zu nennen, der Widerruf dieses Antrags (§ 63 Abs. 1 Satz 3 und 4 des Patentgesetzes) sowie Anträge auf Berichtigung oder Nachholung der Nennung (§ 63 Abs. 2 des Patentgesetzes) sind schriftlich einzureichen. Die Schriftstücke müssen vom Erfinder unterzeichnet sein und die Bezeichnung der Erfindung sowie das amtliche Aktenzeichen enthalten.
 
 (2) Die Zustimmung des Anmelders oder Patentinhabers sowie des zu Unrecht Benannten zur Berichtigung oder Nachholung der Nennung (§ 63 Abs. 2 des Patentgesetzes) hat schriftlich zu erfolgen.
 
-
-## § 9 – Patentansprüche
+# § 9 – Patentansprüche
 
 (1) In den Patentansprüchen kann das, was als patentfähig unter Schutz gestellt werden soll (§ 34 Abs. 3 Nr. 3 des Patentgesetzes), einteilig oder nach Oberbegriff und kennzeichnendem Teil geteilt (zweiteilig) gefasst sein.♦ In beiden Fällen kann die Fassung nach Merkmalen gegliedert sein.♦
 
@@ -280,8 +267,7 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 (10) (weggefallen)
 
-
-## § 10 – Beschreibung
+# § 10 – Beschreibung
 
 (1) Am Anfang der Beschreibung nach § 34 Abs. 3 Nr. 4 des Patentgesetzes ist als Titel die in der Anmeldung nach § 4 Absatz 2 Nummer 2 angegebene Bezeichnung der Erfindung anzugeben.
 
@@ -305,8 +291,7 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 (4) (weggefallen)
 
-
-## § 11 – Beschreibung von Nukleotid- und Aminosäuresequenzen
+# § 11 – Beschreibung von Nukleotid- und Aminosäuresequenzen
 
 (1) Sind in der Patentanmeldung Strukturformeln in Form von Nukleotid- oder Aminosäuresequenzen angegeben und damit konkret offenbart, so ist ein entsprechendes Sequenzprotokoll getrennt von Beschreibung und Ansprüchen als Anlage zur Anmeldung einzureichen. Das Sequenzprotokoll hat den in der Anlage 1 enthaltenen Standards für die Einreichung von Sequenzprotokollen zu entsprechen.
 
@@ -318,13 +303,11 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 (5) (weggefallen)
 
-
-## § 12 – Zeichnungen
+# § 12 – Zeichnungen
 
 Eingereichte Zeichnungen müssen den in der Anlage 2 enthaltenen Standards entsprechen.
 
-
-## § 13 – Zusammenfassung
+# § 13 – Zusammenfassung
 
 (1) Die Zusammenfassung nach § 36 des Patentgesetzes soll aus nicht mehr als 1.500 Zeichen bestehen.
 
@@ -334,8 +317,7 @@ Eingereichte Zeichnungen müssen den in der Anlage 2 enthaltenen Standards entsp
 
 (4) (weggefallen)
 
-
-## § 14 – Fremdsprachige Dokumente
+# § 14 – Fremdsprachige Dokumente
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
 
@@ -353,8 +335,7 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 (5) Wird die Übersetzung im Sinne der Absätze 2 bis 4 nach Ablauf der Frist eingereicht, so gilt das fremdsprachige Dokument als zum Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht eingegangen.
 
-
-## § 15 – Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen
+# § 15 – Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen
 
 (1) Auf allen nach Mitteilung des amtlichen Aktenzeichens eingereichten Schriftstücken ist dieses vollständig anzubringen. Werden die Anmeldungsunterlagen im Laufe des Verfahrens geändert, so hat der Anmelder eine Reinschrift der Anmeldungsunterlagen einzureichen, die die Änderungen berücksichtigt. § 6 Abs. 1 und § 11 Abs. 2 gelten entsprechend.
 
@@ -364,8 +345,7 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 (4) Der Anmelder hat, sofern die Änderungen vom Deutschen Patent- und Markenamt vorgeschlagen und vom Anmelder ohne weitere Änderungen angenommen worden sind, der Reinschrift nach Absatz 1 Satz 2 eine Erklärung beizufügen, dass die Reinschrift keine über die vom Deutschen Patent- und Markenamt vorgeschlagenen Änderungen hinausgehenden Änderungen enthält.
 
-
-## § 16 – Modelle und Proben
+# § 16 – Modelle und Proben
 
 (1) Modelle und Proben sind nur auf Anforderung des Deutschen Patent- und Markenamts einzureichen. Sie sind mit einer dauerhaften Beschriftung zu versehen, aus der Inhalt und Zugehörigkeit zu der entsprechenden Anmeldung hervorgehen. Dabei ist gegebenenfalls der Bezug zum Patentanspruch und der Beschreibung genau anzugeben.
 
@@ -375,45 +355,37 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 (4) Ausfärbungen, Gerbproben und andere flächige Proben müssen auf steifem Papier im Format 21 x 29,7 Zentimeter (DIN A4) dauerhaft befestigt sein. Sie sind durch eine genaue Beschreibung des angewandten Herstellungs- oder Verwendungsverfahrens zu erläutern.
 
-
-## § 17 – Öffentliche Beglaubigung von Unterschriften
+# § 17 – Öffentliche Beglaubigung von Unterschriften
 
 Auf Anforderung des Deutschen Patent- und Markenamts sind die in § 7 Abs. 2 Nr. 5 und in § 8 genannten Unterschriften öffentlich beglaubigen zu lassen (§ 129 des Bürgerlichen Gesetzbuchs).
 
-
-## § 18
+# § 18
 
 (weggefallen)
 
-
-## § 19 – Form der Einreichung
+# § 19 – Form der Einreichung
 
 (1) Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats und der Antrag auf Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats (§ 49a des Patentgesetzes) sind auf den vom Deutschen Patent- und Markenamt herausgegebenen Formblättern einzureichen. § 4 Absatz 2 Nummer 1, 4 und 5, Absatz 3, 5 und 6 sowie § 14 Absatz 1, 3 bis 5 sind entsprechend anzuwenden.
 
 (2) Dem Antrag auf Erteilung eines ergänzenden Schutzzertifikats sind Angaben zur Erläuterung des durch das Grundpatent vermittelten Schutzes beizufügen.
 
-
-## § 20 – Ergänzende Schutzzertifikate für Arzneimittel
+# § 20 – Ergänzende Schutzzertifikate für Arzneimittel
 
 Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für Arzneimittel und der Antrag auf Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats für Arzneimittel müssen jeweils die Angaben und Unterlagen enthalten, die in Artikel 8 der Verordnung (EG) Nr. 469/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über das ergänzende Schutzzertifikat für Arzneimittel (ABl. L 152 vom 16.6.2009, S. 1) bezeichnet sind.
 
-
-## § 21 – Ergänzende Schutzzertifikate für Pflanzenschutzmittel
+# § 21 – Ergänzende Schutzzertifikate für Pflanzenschutzmittel
 
 Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für Pflanzenschutzmittel muss die Angaben und Unterlagen enthalten, die in Artikel 8 der Verordnung (EG) Nr. 1610/96 des Europäischen Parlaments und des Rates vom 23. Juli 1996 über die Schaffung eines ergänzenden Schutzzertifikats für Pflanzenschutzmittel (ABl. L 198 vom 8.8.1996, S. 30) bezeichnet sind.
 
-
-## § 22 – Übergangsregelung
+# § 22 – Übergangsregelung
 
 Für Patentanmeldungen, Erfinderbenennungen und Anträge auf Erteilung eines ergänzenden Schutzzertifikats, die vor Inkrafttreten von Änderungen dieser Verordnung eingereicht worden sind, sind die bisherigen Vorschriften in ihrer bis dahin geltenden Fassung anzuwenden.
 
-
-## § 23 – Inkrafttreten; Außerkrafttreten
+# § 23 – Inkrafttreten; Außerkrafttreten
 
 Diese Verordnung tritt am 15. Oktober 2003 in Kraft.
 
-
-## Anlage 1 – (zu § 11 Abs. 1 Satz 2)  Standards für die Einreichung von Sequenzprotokollen
+# Anlage 1 – (zu § 11 Abs. 1 Satz 2)  Standards für die Einreichung von Sequenzprotokollen
 
 (Fundstelle: BGBl. I 2003, 1708 - 1725;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2348,8 +2320,7 @@ Leu
 
  
 
-
-## Anlage 2 – (zu § 12)Standards für die Einreichung von Zeichnungen
+# Anlage 2 – (zu § 12)Standards für die Einreichung von Zeichnungen
 
 (Fundstelle: BGBl. I 2003, 1726 - 1727;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

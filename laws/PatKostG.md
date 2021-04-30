@@ -1,10 +1,7 @@
-# [PatKostG] Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts  (Patentkostengesetz - PatKostG)
-
-Ausfertigungsdatum: 13.12.2001
-
+% Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts  (Patentkostengesetz - PatKostG)
+% Ausfertigungsdatum: 13.12.2001
  
-
-## § 1 – Geltungsbereich, Verordnungsermächtigungen
+# § 1 – Geltungsbereich, Verordnungsermächtigungen
 
 (1) Die Gebühren des Deutschen Patent- und Markenamts und des Bundespatentgerichts werden, soweit gesetzlich nichts anderes bestimmt ist, nach diesem Gesetz erhoben. Für Auslagen in Verfahren vor dem Bundespatentgericht ist das Gerichtskostengesetz anzuwenden.
 
@@ -14,15 +11,13 @@ Ausfertigungsdatum: 13.12.2001
 
 2. welche Zahlungswege für die an das Deutsche Patent- und Markenamt und das Bundespatentgericht zu zahlenden Kosten (Gebühren und Auslagen) gelten und Bestimmungen über den Zahlungstag zu treffen.
 
-
-## § 2 – Höhe der Gebühren
+# § 2 – Höhe der Gebühren
 
 (1) Gebühren werden nach dem Gebührenverzeichnis der Anlage zu diesem Gesetz erhoben.
 
 (2) Für Klagen und einstweilige Verfügungen vor dem Bundespatentgericht richten sich die Gebühren nach dem Streitwert. Die Höhe der Gebühr bestimmt sich nach § 34 des Gerichtskostengesetzes. Der Mindestbetrag einer Gebühr beträgt 121 Euro. Für die Festsetzung des Streitwerts gelten die Vorschriften des Gerichtskostengesetzes entsprechend. Die Regelungen über die Streitwertherabsetzung (§ 144 des Patentgesetzes und § 26 des Gebrauchsmustergesetzes) sind entsprechend anzuwenden.
 
-
-## § 3 – Fälligkeit der Gebühren
+# § 3 – Fälligkeit der Gebühren
 
 (1) Die Gebühren werden mit der Einreichung einer Anmeldung, eines Antrags oder durch die Vornahme einer sonstigen Handlung oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig, soweit gesetzlich nichts anderes bestimmt ist. Eine sonstige Handlung im Sinn dieses Gesetzes ist insbesondere
 
@@ -42,8 +37,7 @@ Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtli
 
 (3) Die Verlängerungsgebühren für Marken sind jeweils für die folgende Schutzfrist sechs Monate vor dem Ablauf der Schutzdauer gemäß § 47 Absatz 1 des Markengesetzes fällig. Wird eine Marke erst nach Beendigung der ersten oder einer folgenden Schutzfrist eingetragen, so ist die Verlängerungsgebühr am letzten Tag des Monats fällig, in dem die Eintragung in das Register erfolgt ist.
 
-
-## § 4 – Kostenschuldner
+# § 4 – Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -59,15 +53,13 @@ Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtli
 
 (3) Soweit ein Kostenschuldner auf Grund von Absatz 1 Nr. 2 und 3 haftet, soll die Haftung eines anderen Kostenschuldners nur geltend gemacht werden, wenn eine Zwangsvollstreckung in das bewegliche Vermögen des ersteren erfolglos geblieben ist oder aussichtslos erscheint. Soweit einem Kostenschuldner, der auf Grund von Absatz 1 Nr. 2 haftet, Verfahrenskostenhilfe bewilligt ist, soll die Haftung eines anderen Kostenschuldners nicht geltend gemacht werden. Bereits gezahlte Beträge sind zu erstatten.
 
-
-## § 5 – Vorauszahlung, Vorschuss
+# § 5 – Vorauszahlung, Vorschuss
 
 (1) In Verfahren vor dem Deutschen Patent- und Markenamt soll die Bearbeitung erst nach Zahlung der Gebühr für das Verfahren erfolgen; das gilt auch, wenn Anträge geändert werden. Satz 1 gilt nicht für die Anträge auf Weiterleitung einer Anmeldung an das Amt der Europäischen Union für geistiges Eigentum nach § 62 des Designgesetzes und die Anträge auf Weiterleitung internationaler Anmeldungen an das Internationale Büro der Weltorganisation für geistiges Eigentum nach § 68 des Designgesetzes. In Verfahren vor dem Bundespatentgericht soll die Klage erst nach Zahlung der Gebühr für das Verfahren zugestellt werden; im Fall eines Beitritts zum Einspruch im Beschwerdeverfahren oder eines Beitritts zum Einspruch im Fall der gerichtlichen Entscheidung nach § 61 Abs. 2 des Patentgesetzes soll vor Zahlung der Gebühr keine gerichtliche Handlung vorgenommen werden.
 
 (2) Die Jahresgebühren für Patente, Schutzzertifikate und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs dürfen frühestens ein Jahr vor Eintritt der Fälligkeit vorausgezahlt werden, soweit nichts anderes bestimmt ist. Die Verlängerungsgebühren für Marken dürfen frühestens sechs Monate vor Eintritt der Fälligkeit vorausgezahlt werden.
 
-
-## § 6 – Zahlungsfristen, Folgen der Nichtzahlung
+# § 6 – Zahlungsfristen, Folgen der Nichtzahlung
 
 (1) Ist für die Stellung eines Antrags oder die Vornahme einer sonstigen Handlung durch Gesetz eine Frist bestimmt, so ist innerhalb dieser Frist auch die Gebühr zu zahlen. Alle übrigen Gebühren sind innerhalb von drei Monaten ab Fälligkeit (§ 3 Abs. 1) zu zahlen, soweit gesetzlich nichts anderes bestimmt ist.
 
@@ -77,8 +69,7 @@ Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtli
 
 (4) Zahlt der Erinnerungsführer die Gebühr für das Erinnerungsverfahren nicht, nicht rechtzeitig oder nicht vollständig, so gilt auch die von ihm nach § 64 Abs. 6 Satz 2 des Markengesetzes eingelegte Beschwerde als zurückgenommen.
 
-
-## § 7 – Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag
+# § 7 – Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag
 
 (1) Die Jahresgebühren für Patente, Schutzzertifikate und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs sind bis zum Ablauf des zweiten Monats nach Fälligkeit zu zahlen. Wird die Gebühr innerhalb dieser Frist nicht gezahlt, so kann sie mit dem Verspätungszuschlag noch bis zum Ablauf des sechsten Monats nach Fälligkeit gezahlt werden.
 
@@ -86,8 +77,7 @@ Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtli
 
 (3) Die Verlängerungsgebühren für Marken sind innerhalb eines Zeitraums von sechs Monaten nach Fälligkeit zu zahlen. Wird die Gebühr nicht innerhalb dieser Frist gezahlt, so kann die Gebühr mit dem Verspätungszuschlag noch innerhalb einer Nachfrist von sechs Monaten nach Ablauf der Schutzdauer gemäß § 47 Absatz 1 des Markengesetzes gezahlt werden.
 
-
-## § 8 – Kostenansatz
+# § 8 – Kostenansatz
 
 (1) Die Kosten werden angesetzt:
 
@@ -117,20 +107,17 @@ auch wenn sie bei einem ersuchten Gericht oder einer ersuchten Behörde entstand
 
 (2) Die Stelle, die die Kosten angesetzt hat, trifft auch die Entscheidungen nach den §§ 9 und 10.
 
-
-## § 9 – Unrichtige Sachbehandlung
+# § 9 – Unrichtige Sachbehandlung
 
 Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben.
 
-
-## § 10 – Rückzahlung von Kosten, Wegfall der Gebühr
+# § 10 – Rückzahlung von Kosten, Wegfall der Gebühr
 
 (1) Vorausgezahlte Gebühren, die nicht mehr fällig werden können, und nicht verbrauchte Auslagenvorschüsse werden erstattet. Die Rückerstattung von Teilbeträgen der Jahresgebühr Nummer 312 205 bis 312 207 des Gebührenverzeichnisses ist ausgeschlossen.
 
 (2) Gilt eine Anmeldung oder ein Antrag als zurückgenommen (§ 6 Abs. 2) oder auf Grund anderer gesetzlicher Bestimmungen als zurückgenommen oder erlischt ein Schutzrecht, weil die Gebühr nicht oder nicht vollständig gezahlt wurde, so entfällt die Gebühr, wenn die beantragte Amtshandlung nicht vorgenommen wurde.
 
-
-## § 11 – Erinnerung, Beschwerde
+# § 11 – Erinnerung, Beschwerde
 
 (1) Über Erinnerungen des Kostenschuldners gegen den Kostenansatz oder gegen Maßnahmen nach § 5 Abs. 1 entscheidet die Stelle, die die Kosten angesetzt hat. Sie kann ihre Entscheidung von Amts wegen ändern. Die Erinnerung ist schriftlich oder zu Protokoll der Geschäftsstelle bei der Stelle einzulegen, die die Kosten angesetzt hat.
 
@@ -138,13 +125,11 @@ Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden n
 
 (3) Eine Beschwerde gegen die Entscheidungen des Bundespatentgerichts über den Kostenansatz findet nicht statt.
 
-
-## § 12 – Verjährung, Verzinsung
+# § 12 – Verjährung, Verzinsung
 
 Für die Verjährung und Verzinsung der Kostenforderungen und der Ansprüche auf Erstattung von Kosten gilt § 5 des Gerichtskostengesetzes entsprechend.
 
-
-## § 13 – Anwendung der bisherigen Gebührensätze
+# § 13 – Anwendung der bisherigen Gebührensätze
 
 (1) Auch nach dem Inkrafttreten eines geänderten Gebührensatzes sind die vor diesem Zeitpunkt geltenden Gebührensätze weiter anzuwenden,
 
@@ -162,8 +147,7 @@ Für die Verjährung und Verzinsung der Kostenforderungen und der Ansprüche auf
 
 (5) Verfahrenshandlungen, die eine Anmeldung oder einen Antrag ändern, wirken sich nicht auf die Höhe der Gebühr aus, wenn die Gebühr zur Zeit des verfahrenseinleitenden Antrages nicht nach dessen Umfang bemessen wurde.
 
-
-## § 14 – Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes
+# § 14 – Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes
 
 (1) Die bisherigen Gebührensätze der Anlage zu § 1 (Gebührenverzeichnis) des Patentgebührengesetzes vom 18. August 1976 in der durch Artikel 10 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2534) geänderten Fassung, sind auch nach dem 1. Januar 2002 weiter anzuwenden,
 
@@ -183,11 +167,9 @@ Ist in den Fällen des Satzes 1 Nr. 1 nach den bisher geltenden Vorschriften fü
 
 (5) Wird eine innerhalb von drei Monaten nach dem 1. Januar 2002 fällig werdende Gebühr nach den bisherigen Gebührensätzen rechtzeitig gezahlt, so kann der Unterschiedsbetrag bis zum Ablauf einer vom Deutschen Patent- und Markenamt oder Bundespatentgericht zu setzenden Frist nachgezahlt werden. Wird der Unterschiedsbetrag innerhalb der gesetzten Frist nachgezahlt, so gilt die Gebühr als rechtzeitig gezahlt. Ein Verspätungszuschlag wird in diesen Fällen nicht erhoben.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## Anlage – (zu § 2 Abs. 1)Gebührenverzeichnis
+# Anlage – (zu § 2 Abs. 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3659 - 3666;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1895,8 +1877,7 @@ Anmeldeverfahren (§ 3 HalblSchG)
 362 000  
 362 100
 
-Weiterbehandlungsgebühr (§ 11 Abs. 1 HalblSchG i.V.m. § 123a PatG) . . . . . . . . . .  
-Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .
+Weiterbehandlungsgebühr (§ 11 Abs. 1 HalblSchG i.V.m. § 123a PatG) . . . . . . . . . . Löschungsverfahren (§ 8 HalblSchG) . . . . . . . . . .
 
 100  
 300

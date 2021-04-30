@@ -1,28 +1,21 @@
-# [NatPMSchweizV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark "Märkische Schweiz"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark "Märkische Schweiz"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13, 15 und 16 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) In dem in § 2 näher bezeichneten Umfang werden im Bereich der Märkischen Schweiz Naturschutzgebiete von zentraler Bedeutung und ein Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark festgesetzt.
 
 (2) Der Naturpark erhält die Bezeichnung "Naturpark Märkische Schweiz".
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Der Naturpark Märkische Schweiz ist ein an unterschiedlichen Waldbestockungen, vielfältig strukturierten Agrarlandschaften und Gewässern reiches Gebiet. Es ist ein typischer Ausschnitt aus dem Endmoränenbogen des Frankfurter Stadiums der Weichselvereisung. Daraus ergibt sich die starke Reliefierung und eine besonders große Mannigfaltigkeit an Lebensräumen für Pflanzen und Tiere. Das Gebiet hat auf Grund einer besonderen Ausstattung und seiner Lage im Umland von Berlin einen hervorragenden Stellenwert für Erholung und Tourismus.
 
-(2) Alle den Naturpark begrenzenden Straßen und Wege sind einschließlich beider Banketten Bestandteile des Naturparkes.  
-Zur Grenzbeschreibung werden topographische Karten im M 1:25.000 (1: BDS - Karten und 2: Volkswirtschaftskarten) verwendet. Die Bezeichnung der Verkehrsstraßen erfolgt auf der Grundlage der Straßenkarte des Bezirkes Frankfurt (Oder) im M 1:100.000 (3:).  
-Der Naturpark Märkische Schweiz ist folgendermaßen im Uhrzeigersinn begrenzt:
+(2) Alle den Naturpark begrenzenden Straßen und Wege sind einschließlich beider Banketten Bestandteile des Naturparkes. Zur Grenzbeschreibung werden topographische Karten im M 1:25.000 (1: BDS - Karten und 2: Volkswirtschaftskarten) verwendet. Die Bezeichnung der Verkehrsstraßen erfolgt auf der Grundlage der Straßenkarte des Bezirkes Frankfurt (Oder) im M 1:100.000 (3:). Der Naturpark Märkische Schweiz ist folgendermaßen im Uhrzeigersinn begrenzt:
 
 1. Ausgangspunkt
 
@@ -228,8 +221,7 @@ der Dahmsdorfer Weg bis zur Landstraße (3: Landstraße I. Ordnung Nr. 68) am Ei
 
 (3) Die Grenze des Naturparkes ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus sind die Grenzen des Naturparkes in Karten M 1:25.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei den Kreisverwaltungen Strausberg und Seelow und der Naturparkverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 Mit der Festsetzung zum Naturpark wird bezweckt:
 
@@ -247,8 +239,7 @@ Mit der Festsetzung zum Naturpark wird bezweckt:
 
 7. Erhalt, Pflege und Entwicklung der vielfältigen Lebensräume insbesondere für die gefährdeten Organismenarten und eines umfassenden Biotopverbundsystems.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Gebiet des Naturparkes ist in zwei Schutzzonen gegliedert, die Schutzzone II (Entwicklungs- und Pflegezone) und die Schutzzone III (Erholungszone). Die Schutzzone I (Kernzone) ist nicht ausgewiesen.
 
@@ -409,8 +400,7 @@ Fahrweg an nordwestlichen Rand Rotes Luch bis Ausgangspunkt Eberswalder Chaussee
 
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Zur Erreichung des Schutzzweckes im Landschaftsschutzgebiet ist es im Naturpark geboten,
 
@@ -440,8 +430,7 @@ Fahrweg an nordwestlichen Rand Rotes Luch bis Ausgangspunkt Eberswalder Chaussee
 
 (3) Zur Umsetzung der in den Absätzen 1 und 2 genannten Gebote sowie zur Erhaltung, Pflege und Entwicklung des Naturparkes soll in angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Naturpark ist es verboten,
 
@@ -479,8 +468,7 @@ Fahrweg an nordwestlichen Rand Rotes Luch bis Ausgangspunkt Eberswalder Chaussee
 
 10. fischereiliche Intensivnutzung (z.B. Düngung, Zufütterung und Netzkäfighälterung) durchzuführen.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind,
 
@@ -496,8 +484,7 @@ Fahrweg an nordwestlichen Rand Rotes Luch bis Ausgangspunkt Eberswalder Chaussee
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Naturparkes (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -511,8 +498,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Naturparkverwaltung. Die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei,
 
@@ -522,34 +508,28 @@ Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei,
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1479)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

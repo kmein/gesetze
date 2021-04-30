@@ -1,17 +1,13 @@
-# [InvZulG 1996] Investitionszulagengesetz 1996  (InvZulG 1996)
-
-Ausfertigungsdatum: 24.06.1991
-
+% Investitionszulagengesetz 1996  (InvZulG 1996)
+% Ausfertigungsdatum: 24.06.1991
  
-
-## § 1 – Anspruchsberechtigter, Fördergebiet
+# § 1 – Anspruchsberechtigter, Fördergebiet
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des Körperschaftsteuergesetzes, die im Fördergebiet begünstigte Investitionen im Sinne der §§ 2 und 3 vornehmen, haben Anspruch auf eine Investitionszulage, soweit sie nicht nach § 5 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit sind. Bei Gesellschaften im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 und Abs. 3 des Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen die Gesellschaft als Anspruchsberechtigte.
 
 (2) Fördergebiet sind die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem Gebietsstand vom 3. Oktober 1990.
 
-
-## § 2 – Art der Investitionen
+# § 2 – Art der Investitionen
 
 Begünstigte Investitionen sind die Anschaffung und die Herstellung von neuen abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die mindestens 3 Jahre nach ihrer Anschaffung oder Herstellung
 
@@ -31,8 +27,7 @@ Nicht begünstigt sind
 
 4. Wirtschaftsgüter, die der Anspruchsberechtigte nach dem 2. September 1998 angeschafft oder hergestellt hat und die in Nummer 1.2 zweiter oder dritter Gedankenstrich oder in Nummer 2 des Anhangs der Entscheidung der Europäischen Kommission 94/173/EG vom 22. März 1994 zur Festlegung der Auswahlkriterien für Investitionen zur Verbesserung der Verarbeitungs- und Vermarktungsbedingungen für land- und forstwirtschaftliche Erzeugnisse und zur Aufhebung der Entscheidung 90/342/EWG - ABl. EG Nr. L 79 S. 29 - (Land- und Forstwirtschaftsentscheidung) genannt sind.
 
-
-## § 3 – Investitionszeiträume
+# § 3 – Investitionszeiträume
 
 Die Investitionen sind begünstigt, wenn sie der Anspruchsberechtigte
 
@@ -48,13 +43,11 @@ Die Investitionen sind begünstigt, wenn sie der Anspruchsberechtigte
 
 Hat ein Betrieb Betriebsstätten im Fördergebiet und außerhalb des Fördergebiets, gilt bei Investitionen im Sinne der Nummer 4 für die Einordnung eines Betriebs in das verarbeitende Gewerbe die Gesamtheit aller Betriebsstätten im Fördergebiet als ein Betrieb. Die Nummern 3 bis 5 gelten nicht bei Investitionen in Betriebsstätten der Kreditinstitute, des Versicherungsgewerbes - ausgenommen der Versicherungsvertreter und Versicherungsmakler -, der Elektrizitätsversorgung, der Gasversorgung und vorbehaltlich des § 5 Abs. 4 nicht bei Investitionen in Betriebsstätten des Handels. Investitionen sind in dem Zeitpunkt abgeschlossen, in dem die Wirtschaftsgüter angeschafft oder hergestellt werden. Investitionen sind in dem Zeitpunkt begonnen, in dem die Wirtschaftsgüter bestellt oder herzustellen begonnen worden sind.
 
-
-## § 4 – Bemessungsgrundlage
+# § 4 – Bemessungsgrundlage
 
 Bemessungsgrundlage für die Investitionszulage ist die Summe der Anschaffungs- und Herstellungskosten der im Wirtschaftsjahr abgeschlossenen begünstigten Investitionen. In die Bemessungsgrundlage können die im Wirtschaftsjahr geleisteten Anzahlungen auf Anschaffungskosten und entstandenen Teilherstellungskosten einbezogen werden. In den Fällen des Satzes 2 dürfen im Wirtschaftsjahr der Anschaffung oder Herstellung der Wirtschaftsgüter die Anschaffungs- oder Herstellungskosten bei der Bemessung der Investitionszulage nur berücksichtigt werden, soweit sie die Anzahlungen oder Teilherstellungskosten übersteigen. § 7a Abs. 2 Satz 3 bis 5 des Einkommensteuergesetzes gilt entsprechend.
 
-
-## § 5 – Höhe der Investitionszulage
+# § 5 – Höhe der Investitionszulage
 
 (1) Die Investitionszulage beträgt  
 
@@ -111,8 +104,7 @@ b) in einer Betriebsstätte des Groß- oder Einzelhandels des Anspruchsberechtig
 
 Satz 1 gilt nicht bei Investitionen, bei denen die Voraussetzungen des Absatzes 3 vorliegen.
 
-
-## § 6 – Antrag auf Investitionszulage
+# § 6 – Antrag auf Investitionszulage
 
 (1) Der Antrag auf Investitionszulage ist bis zum 30. September des Kalenderjahrs zu stellen, das auf das Wirtschaftsjahr folgt, in dem die Investitionen abgeschlossen worden, Anzahlungen geleistet worden oder Teilherstellungskosten entstanden sind.
 
@@ -120,35 +112,29 @@ Satz 1 gilt nicht bei Investitionen, bei denen die Voraussetzungen des Absatzes 
 
 (3) Der Antrag ist nach amtlichem Vordruck zu stellen und vom Anspruchsberechtigten eigenhändig zu unterschreiben. In dem Antrag sind die Investitionen, für die eine Investitionszulage beansprucht wird, innerhalb der Antragsfrist so genau zu bezeichnen, daß ihre Feststellung bei einer Nachprüfung möglich ist.
 
-
-## § 7 – Anwendung der Abgabenordnung, Festsetzung und Auszahlung
+# § 7 – Anwendung der Abgabenordnung, Festsetzung und Auszahlung
 
 (1) Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163 der Abgabenordnung. In öffentlich-rechtlichen Streitigkeiten über die aufgrund dieses Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg gegeben.
 
 (2) Die Investitionszulage ist nach Ablauf des Wirtschaftsjahrs festzusetzen und innerhalb von 3 Monaten nach Bekanntgabe des Bescheids aus den Einnahmen an Einkommensteuer oder Körperschaftsteuer auszuzahlen. Die Investitionszulage für Investitionen, die zu einem Investitionsvorhaben gehören, das die Anmeldungsvoraussetzungen gemäß dem multisektoralen Regionalbeihilferahmen für große Investitionsvorhaben (ABl. EG 1998 Nr. C 107 S. 7) erfüllt, ist erst festzusetzen, wenn die Europäische Kommission die höchstzulässige Beihilfeintensität festgelegt hat.
 
-
-## § 8 – Verzinsung des Rückforderungsanspruchs
+# § 8 – Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder zuungunsten des Anspruchsberechtigten geändert worden, so ist der Rückzahlungsanspruch nach § 238 der Abgabenordnung vom Tag der Auszahlung der Investitionszulage, in den Fällen des § 175 Abs. 1 Satz 1 Nr. 2 der Abgabenordnung vom Tag des Eintritts des rückwirkenden Ereignisses an, zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden ist.
 
-
-## § 9 – Verfolgung von Straftaten
+# § 9 – Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach § 264 des Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie der Begünstigung einer Person, die eine solche Straftat begangen hat, gelten die Vorschriften der Abgabenordnung über die Verfolgung von Steuerstraftaten entsprechend.
 
-
-## § 10 – Ertragsteuerliche Behandlung der Investitionszulage
+# § 10 – Ertragsteuerliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des Einkommensteuergesetzes. Sie mindert nicht die steuerlichen Anschaffungs- und Herstellungskosten.
 
-
-## § 10a – Ermächtigung
+# § 10a – Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum, unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
-## § 11 – Anwendungsbereich
+# § 11 – Anwendungsbereich
 
 (1) Dieses Gesetz ist vorbehaltlich des Absatzes 2 bei Investitionen anzuwenden, die nach dem 31. Dezember 1990 abgeschlossen werden. Bei Investitionen, die vor dem 1. Januar 1991 abgeschlossen worden sind, ist die Investitionszulagenverordnung vom 4. Juli 1990 (GBl. I Nr. 41 S. 621), zuletzt geändert durch Artikel 9 des Gesetzes vom 13. Dezember 1990 (BGBl. I S. 2775), weiter anzuwenden.
 

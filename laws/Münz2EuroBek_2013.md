@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2013] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „50 Jahre Élysée-Vertrag“)
-
-Ausfertigungsdatum: 30.01.2013
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „50 Jahre Élysée-Vertrag“)
+% Ausfertigungsdatum: 30.01.2013
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen eine 2-Euro-Gedenkmünze „50 Jahre Élysée-Vertrag“ prägen zu lassen.
 
@@ -20,12 +17,10 @@ Die für den Umlauf bestimmte Auflage der Münze soll 11 Millionen Stück betrag
 
 Der Entwurf der nationalen Seite wurde von Yves Sampo (Monnaie de Paris), Stefanie Lindner (Staatliche Münze Berlin), Alina Hoyer (Berlin) und Sneschana Russewa-Hoyer (Berlin) gestaltet.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2013, 259)

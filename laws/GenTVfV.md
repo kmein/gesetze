@@ -1,10 +1,7 @@
-# [GenTVfV] Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- und Anmeldeverfahren nach dem Gentechnikgesetz  (Gentechnik-Verfahrensverordnung - GenTVfV)
-
-Ausfertigungsdatum: 24.10.1990
-
+% Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- und Anmeldeverfahren nach dem Gentechnikgesetz  (Gentechnik-Verfahrensverordnung - GenTVfV)
+% Ausfertigungsdatum: 24.10.1990
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -126,8 +123,7 @@ Anlage (zu § 4)
 
 Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt Einzelheiten des Verfahrens
 
@@ -169,18 +165,15 @@ der wesentlichen Änderung der Lage, der Beschaffenheit oder des Betriebs einer 
 
 b) der Durchführung weiterer gentechnischer Arbeiten der Sicherheitsstufe 2 nach § 9 Abs. 2 Satz 1 des Gentechnikgesetzes.
 
-
-## § 2 – Beratung
+# § 2 – Beratung
 
 Sobald der Betreiber die zuständige Behörde über das geplante gentechnische Vorhaben unterrichtet, soll diese ihn im Hinblick auf die Antragstellung oder auf eine notwendige Anzeige oder Anmeldung beraten.
 
-
-## § 3 – Formvorschriften
+# § 3 – Formvorschriften
 
 Die Anzeige, die Anmeldung oder der Antrag auf Erteilung einer Genehmigung nach dem Gentechnikgesetz ist vom Betreiber schriftlich in einer von der Genehmigungsbehörde zu bestimmenden Anzahl von Ausfertigungen einzureichen. Die zuständige Behörde kann die Verwendung von Vordrucken für die Anzeige, die Anmeldung oder den Genehmigungsantrag und die Unterlagen verlangen.
 
-
-## § 4 – Unterlagen für gentechnische Anlagen, erstmalige oder weitere gentechnische Arbeiten
+# § 4 – Unterlagen für gentechnische Anlagen, erstmalige oder weitere gentechnische Arbeiten
 
 (1) Die nach § 10 Abs. 2 und 3, nach § 12 Abs. 2 sowie nach § 12 Abs. 2a des Gentechnikgesetzes bezeichneten Unterlagen zur Anzeige zur Anmeldung oder zum Antrag auf Genehmigung einer gentechnischen Anlage, in denen gentechnische Arbeiten durchgeführt werden sollen, sowie zur Anzeige, zur Anmeldung oder zum Antrag auf Genehmigung weiterer gentechnischer Arbeiten bestimmen sich
 
@@ -196,8 +189,7 @@ Die Anzeige, die Anmeldung oder der Antrag auf Erteilung einer Genehmigung nach 
 
 (3) Soweit nach § 18 des Gentechnikgesetzes ein Anhörungsverfahren durchzuführen ist, hat der Antragsteller der zuständigen Behörde außer den Unterlagen nach den Absätzen 1 und 2 eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung der gentechnischen Anlage vorzulegen, die einen Überblick über die Anlage, ihren Betrieb und die darin durchzuführenden Arbeiten sowie die voraussichtlichen Auswirkungen auf die in § 1 Nr. 1 des Gentechnikgesetzes genannten Rechtsgüter ermöglicht.
 
-
-## § 6 – Unterlagen bei Inverkehrbringen
+# § 6 – Unterlagen bei Inverkehrbringen
 
 (1) Für folgende der in § 15 Abs. 3 Satz 3 des Gentechnikgesetzes bezeichneten Unterlagen zum Antrag auf Genehmigung des Inverkehrbringens gilt:
 
@@ -209,8 +201,7 @@ Die Anzeige, die Anmeldung oder der Antrag auf Erteilung einer Genehmigung nach 
 
 4. die nach § 15 Abs. 3 Satz 3 Nr. 5 des Gentechnikgesetzes erforderliche Beschreibung der geplanten Maßnahmen zur Kontrolle des weiteren Verhaltens oder der Qualität des in Verkehr zu bringenden Organismus oder Produkts, der entstehenden Reststoffe und ihrer Behandlung sowie der Notfallpläne erfolgt nach Anhang IV Abschnitt B der Richtlinie 2001/18/EG;
 
-4a.  
-der nach § 15 Abs. 3 Satz 3 Nr. 5a erforderliche Beobachtungsplan ist nach Maßgabe des Anhangs VII der Richtlinie 2001/18/EG sowie der Entscheidung des Rates vom 3. Oktober 2002 über Leitlinien zur Ergänzung des Anhangs VII der Richtlinie 2001/18/EG des Europäischen Parlaments und des Rates über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG des Rates (ABl. EG Nr. L 280 S. 27) zu erstellen und hat die Angabe seiner Laufzeit zu enthalten;
+4a. der nach § 15 Abs. 3 Satz 3 Nr. 5a erforderliche Beobachtungsplan ist nach Maßgabe des Anhangs VII der Richtlinie 2001/18/EG sowie der Entscheidung des Rates vom 3. Oktober 2002 über Leitlinien zur Ergänzung des Anhangs VII der Richtlinie 2001/18/EG des Europäischen Parlaments und des Rates über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG des Rates (ABl. EG Nr. L 280 S. 27) zu erstellen und hat die Angabe seiner Laufzeit zu enthalten;
 
 5. die nach § 15 Abs. 3 Satz 3 Nr. 6 des Gentechnikgesetzes erforderliche Beschreibung von besonderen Bedingungen für den Umgang mit dem in Verkehr zu bringenden Produkt und der Vorschlag für seine Kennzeichnung und Verpackung erfolgt nach Anhang IV Abschnitt A Nr. 8 und Abschnitt B der Richtlinie 2001/18/EG.
 
@@ -218,18 +209,15 @@ der nach § 15 Abs. 3 Satz 3 Nr. 5a erforderliche Beobachtungsplan ist nach Maß
 
 (3) Der Antragsteller kann auf Antrag von der Vorlage von Unterlagen über einzelne der in Anhang IV Abschnitt B der Richtlinie 2001/18/EG aufgeführten Anforderungen befreit werden, wenn auf Grund der Ergebnisse einer genehmigten Freisetzung oder wissenschaftlicher Untersuchungen anzunehmen ist, daß mit dem Inverkehrbringen und der Verwendung eines gemäß Absatz 1 Nr. 1 beschriebenen Produkts kein Risiko für eines der in § 1 Nr. 1 des Gentechnikgesetzes genannten Rechtsgüter verbunden ist.
 
-
-## § 7 – Ausnahmen von Angaben und Maßnahmen
+# § 7 – Ausnahmen von Angaben und Maßnahmen
 
 Kommen einzelne nach den §§ 4 bis 6 und den dazu bestehenden Anlagen geforderte Angaben und Maßnahmen wegen der Art des Einzelfalles nicht in Betracht, so ist dies in den Unterlagen zu vermerken. Sind Informationen zu solchen Angaben und Maßnahmen technisch unmöglich oder erscheinen sie nicht erforderlich, so sind jeweils die Gründe hierfür anzugeben.
 
-
-## § 8 – Unterlagen für eingeschlossene Entscheidungen
+# § 8 – Unterlagen für eingeschlossene Entscheidungen
 
 Art und Umfang der einem Antrag auf Erteilung einer Anlagengenehmigung beizufügenden Unterlagen für die gemäß § 22 Abs. 1 des Gentechnikgesetzes im Einzelfall eingeschlossenen behördlichen Entscheidungen bestimmen sich nach den dafür jeweils maßgeblichen Rechtsvorschriften.
 
-
-## § 9 – Beteiligung anderer Stellen
+# § 9 – Beteiligung anderer Stellen
 
 (1) Die zuständige Behörde leitet den Antrag auf Erteilung einer Genehmigung nach § 1 Nr. 1 und 2 und die erforderlichen Unterlagen zur gentechnischen Sicherheitsbeurteilung unverzüglich an die zu beteiligenden Stellen weiter.
 
@@ -237,47 +225,39 @@ Art und Umfang der einem Antrag auf Erteilung einer Anlagengenehmigung beizufüg
 
 (3) Soweit nicht anders geregelt, setzt die zuständige Behörde den beteiligten Stellen und Fachbehörden für die Abgabe ihrer Äußerung eine angemessene Frist. Hat eine beteiligte Stelle oder Fachbehörde bis zum Ablauf der Frist keine Stellungnahme abgegeben, so kann die Genehmigungsbehörde davon ausgehen, daß die Stelle oder Fachbehörde sich nicht äußern will.
 
-
-## § 10 – Bewertungsbericht
+# § 10 – Bewertungsbericht
 
 Der Bewertungsbericht nach § 16 Abs. 3 Satz 2 des Gentechnikgesetzes ist nach Maßgabe des Anhangs VI der Richtlinie 2001/18/EG zu erstellen.
 
-
-## § 11 – Vereinfachtes Verfahren für Freisetzungen
+# § 11 – Vereinfachtes Verfahren für Freisetzungen
 
 (1) Unter den in den Nummern 2, 6 und 6.1 der Entscheidung 94/730/EG der Kommission vom 4. November 1994 zur Festlegung von vereinfachten Verfahren für die absichtliche Freisetzung genetisch veränderter Pflanzen nach Artikel 6 Absatz 5 der Richtlinie 90/220/EWG des Rates (ABl. EG Nr. L 292 S. 31) genannten Voraussetzungen kann der Betreiber die Genehmigung aller innerhalb eines Arbeitsprogramms für Freisetzungen von gentechnisch veränderten Pflanzen erfolgenden Freisetzungen beantragen. Der Genehmigung ist die Bedingung beizufügen, dass der Betreiber die auf die erste Freisetzung folgenden weiteren Freisetzungen der Genehmigungsbehörde nach Nummer 7 der Entscheidung 94/730/EG nachzumelden hat und diese nur unter den dort genannten Voraussetzungen durchführen darf. Hinsichtlich des Verfahrens, insbesondere der bei der Antragstellung zu machenden Angaben, gelten die Bestimmungen der Entscheidung 94/730/EG.
 
 (2) Unter den in den Nummern 1 und 2 der Entscheidung 94/730/EG genannten Voraussetzungen kann der Betreiber eine einheitliche Genehmigung für mehrere Freisetzungen beantragen. Hinsichtlich des Verfahrens, insbesondere der bei der Antragstellung zu machenden Angaben, gelten die Bestimmungen der Entscheidung 94/730/EG.
 
-
-## § 12 – Form der Entscheidung, Bekanntgabe
+# § 12 – Form der Entscheidung, Bekanntgabe
 
 (1) Für die Form der Entscheidung sowie deren Bekanntgabe und Zustellung gilt § 10 Abs. 7 und 8 des Bundes-Immissionsschutzgesetzes. Genehmigungen über die Errichtung, den Betrieb oder die wesentliche Änderung einer gentechnischen Anlage, über weitere gentechnische Arbeiten oder Freisetzungen, die ohne Anhörung nach § 18 des Gentechnikgesetzes erteilt werden, sind entsprechend § 10 Abs. 8 Satz 2 bis 5 des Bundes-Immissionsschutzgesetzes öffentlich bekanntzumachen. Nach der öffentlichen Bekanntmachung können der Genehmigungsbescheid und seine Begründung bis zum Ablauf der Widerspruchsfrist von den Beteiligten schriftlich angefordert werden; hierauf ist in der Bekanntmachung gleichfalls hinzuweisen.
 
 (2) Die Genehmigungsbehörde gibt Entscheidungen über das Inverkehrbringen im Bundesanzeiger öffentlich bekannt. Satz 1 gilt entsprechend für Entscheidungen im Sinne des § 14 Abs. 5 des Gentechnikgesetzes; diesen Entscheidungen ist eine deutsche Übersetzung beizufügen.
 
-
-## § 13 – (weggefallen)
-
-\-
-
-
-## § 14 – (weggefallen)
+# § 13 – (weggefallen)
 
 \-
 
+# § 14 – (weggefallen)
 
-## § 15
+\-
+
+# § 15
 
 (weggefallen)
 
-
-## § 16
+# § 16
 
 (Inkrafttreten)
 
-
-## Anlage – (zu § 4)Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
+# Anlage – (zu § 4)Angaben in den Unterlagen für gentechnische Anlagen oder gentechnische Arbeiten
 
 ( Fundstelle des Originaltextes: BGBl. I 2002, 3227 - 3228;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -371,12 +351,10 @@ gegebenenfalls Informationen, die die zuständige Behörde für die Bewertung de
 \-  
 eine umfassende Bewertung der potenziellen Gefahren und Risiken, die durch die vorgesehene gentechnische Arbeit entstehen könnten.
 
-
-## Anlage 2
+# Anlage 2
 
 (weggefallen)
 
-
-## Anlage 3
+# Anlage 3
 
 (weggefallen)

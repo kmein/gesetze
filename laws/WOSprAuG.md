@@ -1,10 +1,7 @@
-# [WOSprAuG] Erste Verordnung zur Durchführung des Sprecherausschußgesetzes  (Wahlordnung zum Sprecherausschußgesetz - WOSprAuG)
-
-Ausfertigungsdatum: 28.09.1989
-
+% Erste Verordnung zur Durchführung des Sprecherausschußgesetzes  (Wahlordnung zum Sprecherausschußgesetz - WOSprAuG)
+% Ausfertigungsdatum: 28.09.1989
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -236,13 +233,11 @@ Besondere Vorschriften für die Seeschiffahrt
 
 Vierter Teil
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20. Dezember 1988 - BGBl. I S. 2312, 2316) wird verordnet:
 
-
-## § 1 – Wahlvorstand
+# § 1 – Wahlvorstand
 
 (1) Die Leitung der Wahl obliegt dem Wahlvorstand.
 
@@ -250,8 +245,7 @@ Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20
 
 (3) Die Beschlüsse des Wahlvorstands werden mit einfacher Stimmenmehrheit seiner Mitglieder gefaßt. Über jede Sitzung des Wahlvorstands ist eine Niederschrift aufzunehmen, die mindestens den Wortlaut der gefaßten Beschlüsse enthält. Die Niederschrift ist vom Vorsitzenden und einem weiteren Mitglied des Wahlvorstands zu unterzeichnen.
 
-
-## § 2 – Wählerliste
+# § 2 – Wählerliste
 
 (1) Der Wahlvorstand hat für jede Wahl des Sprecherausschusses eine Liste der leitenden Angestellten (Wählerliste) aufzustellen. Die leitenden Angestellten sollen mit Familienname, Vorname und Geburtsdatum in alphabetischer Reihenfolge aufgeführt werden.
 
@@ -261,8 +255,7 @@ Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20
 
 (4) Ein Abdruck der Wählerliste und ein Abdruck dieser Verordnung sind vom Tage der Einleitung der Wahl (§ 3 Abs. 1) bis zum Abschluß der Stimmabgabe an einer oder mehreren geeigneten Stellen zur Einsichtnahme auszulegen. Der Abdruck der Wählerliste soll die Geburtsdaten der leitenden Angestellten nicht enthalten.
 
-
-## § 3 – Wahlausschreiben
+# § 3 – Wahlausschreiben
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erläßt der Wahlvorstand ein Wahlausschreiben, das vom Vorsitzenden und von mindestens einem weiteren Mitglied des Wahlvorstands zu unterschreiben ist. Mit Erlaß des Wahlausschreibens ist die Wahl des Sprecherausschusses eingeleitet. Der erste Tag der Stimmabgabe soll spätestens eine Woche vor dem Tag liegen, an dem die Amtszeit des Sprecherausschusses abläuft.
 
@@ -294,8 +287,7 @@ Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20
 
 (4) Ein Abdruck des Wahlausschreibens ist vom Tage seines Erlasses bis zum letzten Tag der Stimmabgabe an einer oder mehreren geeigneten, den leitenden Angestellten zugänglichen Stellen vom Wahlvorstand auszuhängen und in gut lesbarem Zustand zu erhalten.
 
-
-## § 4 – Einspruch gegen die Wählerliste
+# § 4 – Einspruch gegen die Wählerliste
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können mit Wirksamkeit für die Wahl des Sprecherausschusses nur vor Ablauf von zwei Wochen seit Erlaß des Wahlausschreibens beim Wahlvorstand schriftlich eingelegt werden.
 
@@ -303,8 +295,7 @@ Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20
 
 (3) Nach Ablauf der Einspruchsfrist soll der Wahlvorstand die Wählerliste nochmals auf ihre Vollständigkeit hin überprüfen. Im übrigen kann nach Ablauf der Einspruchsfrist die Wählerliste nur bei Schreibfehlern, offenbaren Unrichtigkeiten, in Erledigung rechtzeitig eingelegter Einsprüche oder bei Eintritt eines leitenden Angestellten in den Betrieb bis zum Tage vor dem Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
-
-## § 5 – Vorschlagslisten
+# § 5 – Vorschlagslisten
 
 (1) Sind mehrere Mitglieder des Sprecherausschusses zu wählen, erfolgt die Wahl auf Grund von Vorschlagslisten. Die Vorschlagslisten sind von den leitenden Angestellten vor Ablauf von zwei Wochen seit Erlaß des Wahlausschreibens beim Wahlvorstand einzureichen.
 
@@ -320,15 +311,13 @@ Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20
 
 (7) Ein Bewerber kann nur auf einer Vorschlagsliste vorgeschlagen werden. Ist sein Name mit seiner schriftlichen Zustimmung auf mehreren Vorschlagslisten aufgeführt, hat er auf Aufforderung des Wahlvorstands vor Ablauf von drei Arbeitstagen zu erklären, welche Bewerbung er aufrechterhält. Unterbleibt die fristgerechte Erklärung, ist der Bewerber auf sämtlichen Listen zu streichen.
 
-
-## § 6 – Prüfung der Vorschlagslisten
+# § 6 – Prüfung der Vorschlagslisten
 
 (1) Der Wahlvorstand hat dem Überbringer der Vorschlagsliste oder, falls die Vorschlagsliste auf eine andere Weise eingereicht wird, dem Listenvertreter den Zeitpunkt der Einreichung schriftlich zu bestätigen.
 
 (2) Der Wahlvorstand hat die eingereichten Vorschlagslisten, wenn die Liste nicht mit einem Kennwort versehen ist, mit Familienname und Vorname der beiden in der Liste an erster und zweiter Stelle benannten Bewerber zu bezeichnen. Er hat die Vorschlagsliste unverzüglich, möglichst binnen einer Frist von zwei Arbeitstagen nach ihrem Eingang, zu prüfen und bei Ungültigkeit oder Beanstandung einer Liste den Listenvertreter unverzüglich schriftlich unter Angabe der Gründe zu unterrichten.
 
-
-## § 7 – Ungültige Vorschlagslisten
+# § 7 – Ungültige Vorschlagslisten
 
 (1) Ungültig sind Vorschlagslisten,
 
@@ -348,22 +337,19 @@ Auf Grund des § 38 des Sprecherausschußgesetzes (Artikel 2 des Gesetzes vom 20
 
 falls diese Mängel trotz Beanstandung nicht binnen einer Frist von drei Arbeitstagen beseitigt werden.
 
-
-## § 8 – Nachfrist für Vorschlagslisten
+# § 8 – Nachfrist für Vorschlagslisten
 
 (1) Ist nach Ablauf der in § 5 Abs. 1 genannten Frist für die Wahl keine gültige Vorschlagsliste eingereicht, hat dies der Wahlvorstand sofort in gleicher Weise bekanntzumachen wie das Wahlausschreiben (§ 3 Abs. 4) und eine Nachfrist von einer Woche für die Einreichung von Vorschlagslisten zu setzen. In der Bekanntmachung ist darauf hinzuweisen, daß die Wahl nur stattfinden kann, wenn innerhalb der Nachfrist mindestens eine gültige Vorschlagsliste eingereicht wird.
 
 (2) Wird trotz Bekanntmachung nach Absatz 1 eine gültige Vorschlagsliste nicht eingereicht, hat der Wahlvorstand sofort bekanntzumachen, daß die Wahl nicht stattfindet.
 
-
-## § 9 – Bekanntmachung der Vorschlagslisten
+# § 9 – Bekanntmachung der Vorschlagslisten
 
 (1) Nach Ablauf der in § 5 Abs. 1 sowie der in den §§ 7 und 8 genannten Fristen ermittelt der Wahlvorstand durch das Los die Reihenfolge der Ordnungsnummern, die den eingereichten Vorschlagslisten zugeteilt werden (Liste 1 usw.). Die Listenvertreter sind zu der Losentscheidung rechtzeitig einzuladen.
 
 (2) Spätestens eine Woche vor Beginn der Stimmabgabe hat der Wahlvorstand die als gültig anerkannten Vorschlagslisten bis zum Abschluß der Stimmabgabe in gleicher Weise bekanntzumachen wie das Wahlausschreiben (§ 3 Abs. 4).
 
-
-## § 10 – Stimmabgabe
+# § 10 – Stimmabgabe
 
 (1) Der Wähler kann seine Stimme nur für eine der als gültig anerkannten Vorschlagslisten abgeben. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln in den hierfür bestimmten Umschlägen (Wahlumschlägen).
 
@@ -373,8 +359,7 @@ falls diese Mängel trotz Beanstandung nicht binnen einer Frist von drei Arbeits
 
 (4) Stimmzettel, die mit einem besonderen Merkmal versehen sind oder aus denen sich der Wille des Wählers nicht unzweifelhaft ergibt oder die andere Angaben als die in Absatz 1 genannten Vorschlagslisten, einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
-
-## § 11 – Wahlvorgang
+# § 11 – Wahlvorgang
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen zu treffen, daß der Wähler den Stimmzettel im Wahlraum unbeobachtet kennzeichnen und in den Wahlumschlag legen kann. Für die Aufnahme der Wahlumschläge sind eine oder mehrere Wahlurnen zu verwenden. Vor Beginn der Stimmabgabe sind die Wahlurnen vom Wahlvorstand zu verschließen. Sie müssen so eingerichtet sein, daß die eingeworfenen Wahlumschläge nicht herausgenommen werden können, ohne daß die Wahlurnen geöffnet werden.
 
@@ -384,8 +369,7 @@ falls diese Mängel trotz Beanstandung nicht binnen einer Frist von drei Arbeits
 
 (4) Nach Abschluß der Stimmabgabe sind die Wahlurnen zu versiegeln, wenn die Stimmauszählung nicht unmittelbar nach Beendigung der Wahl durchgeführt wird.
 
-
-## § 12 – Öffentliche Stimmauszählung
+# § 12 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluß der Stimmabgabe nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen vor.
 
@@ -393,8 +377,7 @@ falls diese Mängel trotz Beanstandung nicht binnen einer Frist von drei Arbeits
 
 (3) Befinden sich in einem Wahlumschlag mehrere gekennzeichnete Stimmzettel (§ 10 Abs. 3), werden sie, wenn sie vollständig übereinstimmen, nur einfach gezählt, andernfalls als ungültig angesehen.
 
-
-## § 13 – Verteilung der Sitze
+# § 13 – Verteilung der Sitze
 
 (1) Die auf die einzelnen Vorschlagslisten entfallenen Stimmenzahlen werden in einer Reihe nebeneinander gestellt und sämtlich durch 1, 2, 3, 4 usw. geteilt. Die ermittelten Teilzahlen sind nacheinander reihenweise unter den Zahlen der ersten Reihe aufzuführen, bis höhere Teilzahlen, als aus früheren Reihen für die Zuweisung von Sitzen in Betracht kommen, nicht mehr entstehen.
 
@@ -404,8 +387,7 @@ falls diese Mängel trotz Beanstandung nicht binnen einer Frist von drei Arbeits
 
 (4) Die Reihenfolge der Bewerber innerhalb der einzelnen Vorschlagslisten bestimmt sich nach der Reihenfolge ihrer Benennung.
 
-
-## § 14 – Wahlniederschrift
+# § 14 – Wahlniederschrift
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in einer Niederschrift festzustellen:
 
@@ -425,25 +407,21 @@ falls diese Mängel trotz Beanstandung nicht binnen einer Frist von drei Arbeits
 
 (2) Die Niederschrift ist vom Vorsitzenden und von mindestens einem weiteren Mitglied des Wahlvorstands zu unterschreiben.
 
-
-## § 15 – Benachrichtigung der Gewählten
+# § 15 – Benachrichtigung der Gewählten
 
 (1) Der Wahlvorstand hat die als Mitglieder des Sprecherausschusses gewählten leitenden Angestellten unverzüglich schriftlich von ihrer Wahl zu benachrichtigen. Erklärt der Gewählte nicht binnen drei Arbeitstagen nach Zugang der Benachrichtigung dem Wahlvorstand, daß er die Wahl ablehne, gilt die Wahl als angenommen.
 
 (2) Lehnt ein Gewählter die Wahl ab, tritt an seine Stelle der in derselben Vorschlagsliste in der Reihenfolge nach ihm benannte, nicht gewählte Bewerber.
 
-
-## § 16 – Bekanntmachung des Wahlergebnisses und der Gewählten
+# § 16 – Bekanntmachung des Wahlergebnisses und der Gewählten
 
 Sobald die Mitglieder des Sprecherausschusses endgültig feststehen, hat der Wahlvorstand das Wahlergebnis und die Namen der Gewählten durch zweiwöchigen Aushang in gleicher Weise bekanntzumachen wie das Wahlausschreiben (§ 3 Abs. 4). Ein Abdruck der Wahlniederschrift (§ 14) ist dem Arbeitgeber unverzüglich zu übersenden.
 
-
-## § 17 – Aufbewahrung der Wahlakten
+# § 17 – Aufbewahrung der Wahlakten
 
 Der Sprecherausschuß hat die Wahlakten mindestens bis zur Beendigung seiner Amtszeit aufzubewahren.
 
-
-## § 18 – Stimmabgabe
+# § 18 – Stimmabgabe
 
 (1) Ist für die Wahl nur eine gültige Vorschlagsliste eingereicht, kann der Wähler seine Stimme nur für solche Bewerber abgeben, die in der Vorschlagsliste aufgeführt sind.
 
@@ -451,25 +429,21 @@ Der Sprecherausschuß hat die Wahlakten mindestens bis zur Beendigung seiner Amt
 
 (3) Der Wähler kennzeichnet die von ihm gewählten Bewerber durch Ankreuzen an der im Stimmzettel hierfür vorgesehenen Stelle; er darf nicht mehr Bewerber ankreuzen, als Mitglieder des Sprecherausschusses zu wählen sind. § 10 Abs. 1 Satz 2, Abs. 2 Satz 2 und 3 und Abs. 4 sowie die §§ 11 und 12 Abs. 1 gelten entsprechend.
 
-
-## § 19 – Stimmauszählung
+# § 19 – Stimmauszählung
 
 Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand die Stimmzettel den Wahlumschlägen und zählt die auf jeden Bewerber entfallenden Stimmen zusammen; § 12 Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
 
-
-## § 20 – Ermittlung der Gewählten
+# § 20 – Ermittlung der Gewählten
 
 Gewählt sind die Bewerber, die die meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet das Los.
 
-
-## § 21 – Wahlniederschrift, Bekanntmachung
+# § 21 – Wahlniederschrift, Bekanntmachung
 
 (1) Nachdem ermittelt ist, wer gewählt ist, hat der Wahlvorstand in einer Niederschrift außer den Angaben nach § 14 Abs. 1 Nr. 1 und 5 bis 7 die auf jeden Bewerber entfallenen Stimmenzahlen festzustellen. § 14 Abs. 2, § 15 Abs. 1 sowie die §§ 16 und 17 gelten entsprechend.
 
 (2) Lehnt ein Gewählter die Wahl ab, tritt an seine Stelle der nicht gewählte Bewerber mit der nächsthöchsten Stimmenzahl.
 
-
-## § 22 – Verfahren
+# § 22 – Verfahren
 
 (1) Ist nur ein Mitglied des Sprecherausschusses zu wählen, erfolgt die Wahl auf Grund von Wahlvorschlägen; § 5 Abs. 1 Satz 2 und Abs. 2 bis 5, die §§ 6 bis 8 sowie § 9 Abs. 2 gelten für die Wahlvorschläge entsprechend.
 
@@ -497,8 +471,7 @@ Gewählt sind die Bewerber, die die meisten Stimmen erhalten haben. Bei Stimmeng
 
 5. der Wähler bei der Wahl nach Absatz 1 und Absatz 5 seine Stimme nicht demselben Wahlbewerber geben darf.
 
-
-## § 23 – Voraussetzungen
+# § 23 – Voraussetzungen
 
 (1) Einem leitenden Angestellten, der im Zeitpunkt der Stimmabgabe verhindert ist, seine Stimme persönlich abzugeben, hat der Wahlvorstand auf sein Verlangen
 
@@ -516,8 +489,7 @@ auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem Wähler ferner ein
 
 (2) Für Betriebsteile und Betriebe im Sinne des § 1 Abs. 2 des Gesetzes kann der Wahlvorstand die schriftliche Stimmabgabe beschließen. Der Wahlvorstand hat den leitenden Angestellten die in Absatz 1 bezeichneten Unterlagen auszuhändigen oder zu übersenden.
 
-
-## § 24 – Stimmabgabe
+# § 24 – Stimmabgabe
 
 Der Wähler gibt seine Stimme in der Weise ab, daß er
 
@@ -527,22 +499,19 @@ Der Wähler gibt seine Stimme in der Weise ab, daß er
 
 3. den Wahlumschlag und die unterschriebene vorgedruckte Erklärung in dem Freiumschlag verschließt und diesen so rechtzeitig an den Wahlvorstand absendet oder übergibt, daß er vor Abschluß der Stimmabgabe vorliegt.
 
-
-## § 25 – Verfahren bei der Stimmabgabe
+# § 25 – Verfahren bei der Stimmabgabe
 
 (1) Unmittelbar vor Abschluß der Stimmabgabe öffnet der Wahlvorstand in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen Freiumschläge und entnimmt ihnen die Wahlumschläge sowie die vorgedruckten Erklärungen. Ist die schriftliche Stimmabgabe ordnungsgemäß erfolgt (§ 24), legt der Wahlvorstand den Wahlumschlag nach Vermerk der Stimmabgabe in der Wählerliste ungeöffnet in die Wahlurne.
 
 (2) Verspätet eingehende Freiumschläge hat der Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen zu nehmen. Die Freiumschläge sind einen Monat nach Bekanntgabe des Wahlergebnisses ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
-
-## § 26 – Art der Abstimmung
+# § 26 – Art der Abstimmung
 
 (1) Ist der Wahlvorstand nach § 7 Abs. 2 des Gesetzes gewählt, hat er unverzüglich eine geheime Abstimmung darüber herbeizuführen, ob ein Sprecherausschuß gewählt werden soll. Der Wahlvorstand beschließt, ob die Abstimmung in einer Versammlung oder durch schriftliche Stimmabgabe erfolgt. Die Abstimmung muß spätestens drei Wochen vor dem Tag liegen, an dem die Wahl des Sprecherausschusses eingeleitet wird (§ 3 Abs. 1).
 
 (2) Der Wahlvorstand hat eine Liste der nach § 7 Abs. 3 des Gesetzes Abstimmungsberechtigten (Abstimmungsliste) aufzustellen. § 2 Abs. 1 Satz 2 sowie Abs. 2 und 4 gilt entsprechend. Abstimmungsberechtigt sind nur leitende Angestellte, die in die Abstimmungsliste eingetragen sind. Die Abstimmungsliste kann bei Schreibfehlern oder offenbaren Unrichtigkeiten bis zum Tage vor dem Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
-
-## § 27 – Einladung und Abstimmungsausschreiben
+# § 27 – Einladung und Abstimmungsausschreiben
 
 (1) Hat der Wahlvorstand beschlossen, daß die Abstimmung in einer Versammlung erfolgen soll, hat er unverzüglich den Zeitpunkt für die Versammlung festzusetzen. Spätestens vier Wochen vor dem Tag der Versammlung hat er hierzu einzuladen und ein Abstimmungsausschreiben zu erlassen. Das Abstimmungsausschreiben ist vom Vorsitzenden und von mindestens einem weiteren Mitglied des Wahlvorstands zu unterschreiben.
 
@@ -564,20 +533,17 @@ Der Wähler gibt seine Stimme in der Weise ab, daß er
 
 (3) Das Abstimmungsausschreiben ist bis zum Tag der Versammlung in gleicher Weise wie das Wahlausschreiben (§ 3 Abs. 4) bekanntzumachen.
 
-
-## § 28 – Stimmabgabe
+# § 28 – Stimmabgabe
 
 (1) Die Abstimmung erfolgt durch Abgabe von Abstimmungszetteln in den hierfür bestimmten Umschlägen (Abstimmungsumschlägen). Die Abstimmungszettel dürfen nur die Frage an den Abstimmungsberechtigten enthalten, ob er für oder gegen die Wahl eines Sprecherausschusses stimmt. Der Abstimmende gibt seine Stimme in der Weise ab, daß er auf dem Abstimmungszettel das vorgedruckte "Ja" oder "Nein" ankreuzt. Die Abstimmungszettel müssen dieselbe Größe, Farbe, Beschaffenheit und Beschriftung haben. Dasselbe gilt für die Abstimmungsumschläge.
 
 (2) Abstimmungszettel, die mit einem besonderen Merkmal versehen sind oder aus denen sich der Wille des Abstimmenden nicht unzweifelhaft ergibt oder die andere als die in Absatz 1 genannten Angaben, einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
-
-## § 29 – Abstimmungsvorgang
+# § 29 – Abstimmungsvorgang
 
 Der Wahlvorstand hat geeignete Vorkehrungen zu treffen, daß der Abstimmende den Abstimmungszettel im Versammlungsraum unbeobachtet kennzeichnen und in den Abstimmungsumschlag legen kann. § 11 Abs. 1 Satz 2 bis 4 sowie Abs. 2 bis 4 gilt entsprechend.
 
-
-## § 30 – Schriftliche Stimmabgabe bei Verhinderung
+# § 30 – Schriftliche Stimmabgabe bei Verhinderung
 
 (1) Einem Abstimmungsberechtigten, der im Zeitpunkt der Versammlung verhindert ist, seine Stimme persönlich abzugeben, hat der Wahlvorstand auf sein Verlangen
 
@@ -603,15 +569,13 @@ auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem Abstimmungsberecht
 
 (4) Verspätet eingehende Freiumschläge hat der Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen zu nehmen. Die Freiumschläge sind einen Monat nach Bekanntgabe des Ergebnisses der Wahl des Sprecherausschusses ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
-
-## § 31 – Öffentliche Stimmauszählung
+# § 31 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluß der Abstimmung nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen vor.
 
 (2) Nach Öffnung der Wahlurnen entnimmt der Wahlvorstand die Abstimmungszettel den Abstimmungsumschlägen und stellt fest, wieviele Stimmen für die Wahl eines Sprecherausschusses abgegeben worden sind. Dabei ist die Gültigkeit der Abstimmungszettel zu prüfen; § 12 Abs. 3 gilt entsprechend.
 
-
-## § 32 – Bekanntmachung des Abstimmungsergebnisses
+# § 32 – Bekanntmachung des Abstimmungsergebnisses
 
 (1) Der Wahlvorstand hat die Zahl der Abstimmungsberechtigten und die Zahl der für die Wahl eines Sprecherausschusses abgegebenen Stimmen in einer Niederschrift festzuhalten; § 14 Abs. 2 gilt entsprechend.
 
@@ -619,8 +583,7 @@ auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem Abstimmungsberecht
 
 (3) Ist ein Sprecherausschuß nicht zu wählen, endet das Amt des Wahlvorstands mit der Bekanntgabe des Abstimmungsergebnisses.
 
-
-## § 33 – Verfahren bei schriftlicher Abstimmung
+# § 33 – Verfahren bei schriftlicher Abstimmung
 
 (1) Hat der Wahlvorstand schriftliche Stimmabgabe beschlossen, hat er unverzüglich den Zeitpunkt festzusetzen, bis zu dem die Freiumschläge bei ihm eingegangen sein müssen. Spätestens vier Wochen vor diesem Zeitpunkt hat er ein Abstimmungsausschreiben zu erlassen, das vom Vorsitzenden und von mindestens einem weiteren Mitglied des Wahlvorstands zu unterschreiben ist.
 
@@ -632,8 +595,7 @@ auszuhändigen oder zu übersenden. Der Wahlvorstand soll dem Abstimmungsberecht
 
 (5) Unmittelbar nach Ablauf der Frist (Absatz 1 Satz 1) öffnet der Wahlvorstand in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen Freiumschläge und entnimmt ihnen die Abstimmungsumschläge sowie die vorgedruckten Erklärungen. Ist die schriftliche Stimmabgabe ordnungsgemäß erfolgt (Absatz 4 Satz 2), legt der Wahlvorstand den Abstimmungsumschlag nach Vermerk der Stimmabgabe in der Abstimmungsliste ungeöffnet in eine oder mehrere Wahlurnen. § 11 Abs. 1 Satz 3 und 4 sowie Abs. 4, § 30 Abs. 4 sowie die §§ 31 und 32 gelten entsprechend.
 
-
-## § 34 – Wahl des Unternehmenssprecherausschusses
+# § 34 – Wahl des Unternehmenssprecherausschusses
 
 Für die Wahl des Unternehmenssprecherausschusses sind die §§ 1 bis 25 mit der Maßgabe anzuwenden, daß
 
@@ -649,8 +611,7 @@ Für die Wahl des Unternehmenssprecherausschusses sind die §§ 1 bis 25 mit der
 
 6. das Wahlausschreiben die Angabe enthalten muß, ob für einzelne Betriebe des Unternehmens die schriftliche Stimmabgabe beschlossen ist (§ 3 Abs. 2 Nr. 10).
 
-
-## § 35 – Voraussetzungen für die Wahl des Unternehmenswahlvorstands
+# § 35 – Voraussetzungen für die Wahl des Unternehmenswahlvorstands
 
 (1) Die Einladung zu einer Versammlung zur Wahl eines Unternehmenswahlvorstands ist in gleicher Weise wie das Wahlausschreiben (§ 3 Abs. 4) in jedem Betrieb des Unternehmens spätestens vier Wochen vor dem Tag der Versammlung bekanntzumachen. Die Einladung muß das Datum ihrer Bekanntmachung sowie die Namen der einladenden leitenden Angestellten und ihre Anschrift (Betriebsadresse) enthalten.
 
@@ -658,23 +619,19 @@ Für die Wahl des Unternehmenssprecherausschusses sind die §§ 1 bis 25 mit der
 
 (3) Sind die Mitteilungen nach Absatz 2 Satz 1 nicht rechtzeitig erfolgt, kann die Wahl von Sprecherausschüssen nicht mehr durchgeführt werden. Dies haben die leitenden Angestellten, die zur Wahl des Unternehmenswahlvorstands eingeladen haben, unverzüglich in gleicher Weise wie das Wahlausschreiben (§ 3 Abs. 4) in jedem Betrieb des Unternehmens bekanntzumachen. Satz 1 gilt nicht, wenn kein Unternehmenswahlvorstand gewählt wird oder die Mehrheit der leitenden Angestellten des Unternehmens nicht für die Wahl eines Unternehmenssprecherausschusses stimmt (§ 20 Abs. 1 des Gesetzes, § 36); für die Bekanntmachung gilt Satz 2 oder, falls ein Unternehmenswahlvorstand gewählt worden ist, § 32 Abs. 2 Satz 1 und § 34 Nr. 2 entsprechend.
 
-
-## § 36 – Abstimmung über die Wahl eines Unternehmenssprecherausschusses
+# § 36 – Abstimmung über die Wahl eines Unternehmenssprecherausschusses
 
 Ist der Wahlvorstand für die Wahl eines Unternehmenssprecherausschusses gewählt (§ 20 Abs. 1 Satz 2, § 7 Abs. 2 des Gesetzes), hat er unverzüglich eine geheime Abstimmung darüber herbeizuführen, ob ein Unternehmenssprecherausschuß gewählt werden soll. § 26 Abs. 1 Satz 2 und 3 und Abs. 2 sowie die §§ 27 bis 34 Nr. 1 bis 3 gelten entsprechend.
 
-
-## § 37 – Wechsel von Sprecherausschüssen zum Unternehmenssprecherausschuß
+# § 37 – Wechsel von Sprecherausschüssen zum Unternehmenssprecherausschuß
 
 Bestehen in einem Unternehmen Sprecherausschüsse und stellen ein Zwanzigstel der leitenden Angestellten, jedoch mindestens drei leitende Angestellte des Unternehmens bei dem Sprecherausschuß der Hauptverwaltung oder, sofern ein solcher nicht besteht, bei dem Sprecherausschuß des nach der Zahl der leitenden Angestellten größten Betriebs einen Antrag auf Wahl eines Unternehmenssprecherausschusses (§ 20 Abs. 2 des Gesetzes), hat der Sprecherausschuß unverzüglich eine geheime Abstimmung darüber herbeizuführen, ob ein Unternehmenssprecherausschuß gewählt werden soll. Der Antrag muß spätestens ein Jahr vor Beginn des für die regelmäßigen Wahlen festgelegten Zeitraums (§ 5 Abs. 1 Satz 1 des Gesetzes) bei dem Sprecherausschuß eingehen. § 26 Abs. 1 Satz 2 und Abs. 2, die §§ 27 bis 32 Abs. 1 und 2 sowie die §§ 33 und 34 Nr. 1 bis 3 gelten entsprechend.
 
-
-## § 38 – Wechsel vom Unternehmenssprecherausschuß zu Sprecherausschüssen
+# § 38 – Wechsel vom Unternehmenssprecherausschuß zu Sprecherausschüssen
 
 Besteht ein Unternehmenssprecherausschuß und stellen ein Zwanzigstel der leitenden Angestellten, jedoch mindestens drei leitende Angestellte des Unternehmens einen Antrag auf Wahl von Sprecherausschüssen (§ 20 Abs. 3 des Gesetzes), hat der Unternehmenssprecherausschuß unverzüglich eine geheime Abstimmung darüber herbeizuführen, ob Sprecherausschüsse gewählt werden sollen. Der Antrag muß spätestens ein Jahr vor Beginn des für die regelmäßigen Wahlen festgelegten Zeitraums (§ 5 Abs. 1 Satz 1 des Gesetzes) bei dem Unternehmenssprecherausschuß eingehen. § 26 Abs. 1 Satz 2 und Abs. 2, die §§ 27 bis 32 Abs. 1 und 2 sowie die §§ 33 und 34 Nr. 1 bis 3 gelten entsprechend.
 
-
-## § 39 – Teilnahme der Kapitäne an der Wahl
+# § 39 – Teilnahme der Kapitäne an der Wahl
 
 Werden in Landbetrieben von Seeschiffahrtsunternehmen Sprecherausschüsse gewählt, finden die §§ 1 bis 38 mit folgender Maßgabe Anwendung:
 
@@ -704,22 +661,18 @@ c) die Kapitäne in Briefwahl abstimmen (§ 3 Abs. 2 Nr. 10).
 
 10. Die Abstimmungen nach den §§ 26, 36, 37 und 38 erfolgen durch schriftliche Stimmabgabe. § 33 gilt entsprechend.
 
-
-## § 40 – Berechnung der Fristen
+# § 40 – Berechnung der Fristen
 
 Für die Berechnung der in dieser Verordnung festgelegten Fristen finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
-## § 41 – Berlin-Klausel
+# § 41 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 39 des Sprecherausschußgesetzes auch im Land Berlin.
 
-
-## § 42 – Inkrafttreten
+# § 42 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

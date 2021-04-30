@@ -1,10 +1,7 @@
-# [WiStrG 1954] Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts  (Wirtschaftsstrafgesetz 1954)
-
-Ausfertigungsdatum: 09.07.1954
-
+% Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts  (Wirtschaftsstrafgesetz 1954)
+% Ausfertigungsdatum: 09.07.1954
  
-
-## § 1 – Strafbare Verstöße gegen Sicherstellungsvorschriften
+# § 1 – Strafbare Verstöße gegen Sicherstellungsvorschriften
 
 (1) Wer eine Zuwiderhandlung nach
 
@@ -40,8 +37,7 @@ c) gewerbsmäßig zur Erzielung von hohen Gewinnen handelt.
 
 § 1: Gilt nicht in Berlin gem. § 21a bis zum 14.12.2010
 
-
-## § 2 – Ordnungswidrige Verstöße gegen Sicherstellungsvorschriften
+# § 2 – Ordnungswidrige Verstöße gegen Sicherstellungsvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig eine der in § 1 Abs. 1 bezeichneten Handlungen begeht, wenn die Tat ihrem Umfang und ihrer Auswirkung nach, namentlich nach Art und Menge der Sachen oder Leistungen, auf die sie sich bezieht, nicht geeignet ist,
 
@@ -53,8 +49,7 @@ c) gewerbsmäßig zur Erzielung von hohen Gewinnen handelt.
 
 (3) Die Ordnungswidrigkeit und der Versuch einer Ordnungswidrigkeit können mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
-
-## § 3 – Verstöße gegen die Preisregelung
+# § 3 – Verstöße gegen die Preisregelung
 
 (1) Ordnungswidrig handelt, wer in anderen als den in den §§ 1, 2 bezeichneten Fällen vorsätzlich oder fahrlässig einer Rechtsvorschrift über
 
@@ -70,15 +65,13 @@ oder einer auf Grund einer solchen Rechtsvorschrift ergangenen vollziehbaren Ver
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
-
-## § 4 – Preisüberhöhung in einem Beruf oder Gewerbe
+# § 4 – Preisüberhöhung in einem Beruf oder Gewerbe
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig in befugter oder unbefugter Betätigung in einem Beruf oder Gewerbe für Gegenstände oder Leistungen des lebenswichtigen Bedarfs Entgelte fordert, verspricht, vereinbart, annimmt oder gewährt, die infolge einer Beschränkung des Wettbewerbs oder infolge der Ausnutzung einer wirtschaftlichen Machtstellung oder einer Mangellage unangemessen hoch sind.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
 
-
-## § 5 – Mietpreisüberhöhung
+# § 5 – Mietpreisüberhöhung
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig für die Vermietung von Räumen zum Wohnen oder damit verbundene Nebenleistungen unangemessen hohe Entgelte fordert, sich versprechen lässt oder annimmt.
 
@@ -86,15 +79,13 @@ oder einer auf Grund einer solchen Rechtsvorschrift ergangenen vollziehbaren Ver
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 6 – Durchführung einer baulichen Veränderung in missbräuchlicher Weise
+# § 6 – Durchführung einer baulichen Veränderung in missbräuchlicher Weise
 
 (1) Ordnungswidrig handelt, wer in der Absicht, einen Mieter von Wohnraum hierdurch zur Kündigung oder zur Mitwirkung an der Aufhebung des Mietverhältnisses zu veranlassen, eine bauliche Veränderung in einer Weise durchführt oder durchführen lässt, die geeignet ist, zu erheblichen, objektiv nicht notwendigen Belastungen des Mieters zu führen.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
-
-## § 7 – Einziehung
+# § 7 – Einziehung
 
 Ist eine Zuwiderhandlung im Sinne der §§ 1 bis 4 begangen worden, so können
 
@@ -104,8 +95,7 @@ Ist eine Zuwiderhandlung im Sinne der §§ 1 bis 4 begangen worden, so können
 
 eingezogen werden.
 
-
-## § 8 – Abführung des Mehrerlöses
+# § 8 – Abführung des Mehrerlöses
 
 (1) Hat der Täter durch eine Zuwiderhandlung im Sinne der §§ 1 bis 6 einen höheren als den zulässigen Preis erzielt, so ist anzuordnen, daß er den Unterschiedsbetrag zwischen dem zulässigen und dem erzielten Preis (Mehrerlös) an das Land abführt, soweit er ihn nicht auf Grund einer rechtlichen Verpflichtung zurückerstattet hat. Die Abführung kann auch angeordnet werden, wenn eine rechtswidrige Tat nach den §§ 1 bis 6 vorliegt, der Täter jedoch nicht schuldhaft gehandelt hat oder die Tat aus anderen Gründen nicht geahndet werden kann.
 
@@ -115,8 +105,7 @@ eingezogen werden.
 
 (4) Die Abführung des Mehrerlöses tritt an die Stelle der Einziehung von Taterträgen (§§ 73 bis 73e und 75 des Strafgesetzbuches, § 29a des Gesetzes über Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne des § 1 gelten die Vorschriften des Strafgesetzbuches über die Verjährung der Einziehung von Taterträgen entsprechend.
 
-
-## § 9 – Rückerstattung des Mehrerlöses
+# § 9 – Rückerstattung des Mehrerlöses
 
 (1) Statt der Abführung kann auf Antrag des Geschädigten die Rückerstattung des Mehrerlöses an ihn angeordnet werden, wenn sein Rückforderungsanspruch gegen den Täter begründet erscheint.
 
@@ -124,27 +113,23 @@ eingezogen werden.
 
 (3) Die Vorschriften der Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis 406c) sind mit Ausnahme des § 405 Satz 1, § 406a Abs. 3 und § 406c Abs. 2 entsprechend anzuwenden.
 
-
-## § 10 – Selbständige Abführung des Mehrerlöses
+# § 10 – Selbständige Abführung des Mehrerlöses
 
 (1) Kann ein Straf- oder Bußgeldverfahren nicht durchgeführt werden, so kann die Abführung oder Rückerstattung des Mehrerlöses selbständig angeordnet werden, wenn im übrigen die Voraussetzungen des § 8 oder § 9 vorliegen.
 
 (2) Ist eine rechtswidrige Tat nach diesem Gesetz in einem Betrieb begangen worden, so kann die Abführung des Mehrerlöses gegen den Inhaber oder Leiter des Betriebes und, falls der Inhaber eine juristische Person oder eine Personengesellschaft des Handelsrechts ist, auch gegen diese selbständig angeordnet werden, wenn ihnen der Mehrerlös zugeflossen ist.
 
-
-## § 11 – Verfahren
+# § 11 – Verfahren
 
 (1) Im Strafverfahren ist die Abführung des Mehrerlöses im Urteil auszusprechen. Für das selbständige Verfahren gelten § 435 Absatz 1, 2 und 3 Satz 1 und § 436 Absatz 1 und 2 in Verbindung mit § 434 Absatz 2 oder 3 der Strafprozeßordnung entsprechend.
 
 (2) Im Bußgeldverfahren ist die Abführung des Mehrerlöses im Bußgeldbescheid auszusprechen. Im selbständigen Verfahren steht der von der Verwaltungsbehörde zu erlassende Bescheid einem Bußgeldbescheid gleich.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13 – Besondere Vorschriften für das Strafverfahren
+# § 13 – Besondere Vorschriften für das Strafverfahren
 
 (1) Soweit für Straftaten nach § 1 das Amtsgericht sachlich zuständig ist, ist örtlich zuständig das Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat. Die Landesregierung kann durch Rechtsverordnung die örtliche Zuständigkeit des Amtsgerichts abweichend regeln, soweit dies mit Rücksicht auf die Wirtschafts- oder Verkehrsverhältnisse, den Aufbau der Verwaltungsbehörden oder andere örtliche Bedürfnisse zweckmäßig erscheint. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen.
 
@@ -152,48 +137,38 @@ eingezogen werden.
 
 § 13: Gilt nicht in Berlin gem. § 21a bis zum 14.12.2010
 
-
-## § 14
-
-(weggefallen)
-
-
-## § 15
+# § 14
 
 (weggefallen)
 
+# § 15
 
-## § 16 – Verweisungen
+(weggefallen)
+
+# § 16 – Verweisungen
 
 Verweisen Vorschriften der in § 3 Abs. 1 Satz 1 bezeichneten Art auf die Straf- und Bußgeldvorschriften dieses Gesetzes in der vor dem 1. Januar 1975 geltenden Fassung, auf die Straf- und Bußgeldvorschriften des Wirtschaftsstrafgesetzes in der früher geltenden Fassung, auf dessen § 18 oder auf eine nach § 102 des genannten Gesetzes außer Kraft getretene Vorschrift, so gelten solche Verweisungen als ausdrückliche Verweisungen im Sinne des § 3 Abs. 1 Satz 1. Das gleiche gilt, wenn in Vorschriften der in § 3 Abs. 1 Satz 1 bezeichneten Art auf die Straf- und Bußgeldvorschriften des Getreidegesetzes, des Milch- und Fettgesetzes sowie des Zuckergesetzes in der vor dem 1. Januar 1975 geltenden Fassung verwiesen wird. Soweit eine Verweisung nach § 104 Abs. 3 des Wirtschaftsstrafgesetzes in der früher geltenden Fassung nicht erforderlich war, bestimmt sich die Ahndung der Zuwiderhandlungen nach § 3 Abs. 1 Satz 1, ohne daß es einer Verweisung bedarf.
 
-
-## § 17
-
-(weggefallen)
-
-
-## § 18
+# § 17
 
 (weggefallen)
 
-
-## § 19
+# § 18
 
 (weggefallen)
 
+# § 19
 
-## § 20 – (weggefallen)
+(weggefallen)
 
+# § 20 – (weggefallen)
 
-## § 21 – Begriffsbestimmung
+# § 21 – Begriffsbestimmung
 
 Wirtschaftsstrafgesetz in der früher geltenden Fassung im Sinne der §§ 15 bis 18 ist das Wirtschaftsstrafgesetz vom 26. Juli 1949 (Gesetzblatt der Verwaltung des Vereinigten Wirtschaftsgebietes S. 193) mit seinen weiteren Fassungen, die durch die Erstreckungsverordnung vom 24. Januar 1950 (Bundesgesetzbl. S. 24), das Gesetz zur Erstreckung und zur Verlängerung der Geltungsdauer des Wirtschaftsstrafgesetzes vom 29. März 1950 (Bundesgesetzbl. S. 78), das Gesetz zur Verlängerung des Wirtschaftsstrafgesetzes vom 30. März 1951 (Bundesgesetzbl. I S. 223), das Gesetz zur Änderung und Verlängerung des Wirtschaftsstrafgesetzes vom 25. März 1952 (Bundesgesetzbl. I S. 188) und das Gesetz zur Verlängerung des Wirtschaftsstrafgesetzes vom 17. Dezember 1952 (Bundesgesetzbl. I S. 805) bestimmt sind.
 
+# §§ 21a und 22 – (weggefallen)
 
-## §§ 21a und 22 – (weggefallen)
-
-
-## § 23 – Inkrafttreten
+# § 23 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

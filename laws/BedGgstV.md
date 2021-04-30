@@ -1,10 +1,7 @@
-# [BedGgstV] Bedarfsgegenständeverordnung
-
-Ausfertigungsdatum: 10.04.1992
-
+% Bedarfsgegenständeverordnung
+% Ausfertigungsdatum: 10.04.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundesminister für Gesundheit verordnet, jeweils in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S. 705) und mit dem Organisationserlaß vom 23. Januar 1991 (BGBl. I S. 530),
 
@@ -20,13 +17,11 @@ auf Grund des § 31 Abs. 2 und des § 44 Nr. 2 des Lebensmittel- und Bedarfsgege
 \-  
 auf Grund des § 32 Abs. 1 Nr. 1 bis 5, 8, 9 Buchstabe b und Nr. 9b in Verbindung mit Abs. 3 des Lebensmittel- und Bedarfsgegenständegesetzes, der zuletzt durch das Gesetz vom 22. Januar 1991 (BGBl. I S. 121) geändert worden ist, im Einvernehmen mit den Bundesministern für Wirtschaft, für Arbeit und Sozialordnung, für Umwelt, Naturschutz und Reaktorsicherheit und für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Gleichstellung
+# § 1 – Gleichstellung
 
 Imprägnierungsmittel in Aerosolpackungen für Leder- und Textilerzeugnisse, die für den häuslichen Bedarf bestimmt und nicht Erzeugnisse im Sinne des § 2 Abs. 6 Satz 1 Nr. 8 des Lebensmittel- und Futtermittelgesetzbuches sind, werden den Bedarfsgegenständen gleichgestellt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -48,14 +43,11 @@ jeweils hergestellt aus regenerierter Cellulose, die aus nicht zu anderen Zwecke
 
 3. (weggefallen)
 
-3a.  
-(weggefallen)
+3a. (weggefallen)
 
-3b.  
-(weggefallen)
+3b. (weggefallen)
 
-3c.  
-(weggefallen)
+3c. (weggefallen)
 
 4. Lebensmittelbedarfsgegenstände aus Keramik:
 
@@ -73,13 +65,11 @@ die unter Verwendung von Vinylchloridpolymerisaten oder Vinylchloridkopolymerisa
 
 jedes Produkt, das dazu bestimmt ist, den Schlaf, die Entspannung, das Füttern und das Saugen von Kindern zu erleichtern oder ihrer hygienischen Versorgung zu dienen.
 
-
-## § 3 – Verbotene Stoffe
+# § 3 – Verbotene Stoffe
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln der in Anlage 1 aufgeführten Bedarfsgegenstände dürfen die dort genannten Stoffe nicht verwendet werden.
 
-
-## § 4 – Zugelassene Stoffe
+# § 4 – Zugelassene Stoffe
 
 (1) Bei dem gewerbsmäßigen Herstellen von Lebensmittelbedarfsgegenständen aus den in § 2 Nr. 2 Buchstabe a und b genannten Zellglasfolien dürfen nur die in Anlage 2 aufgeführten Stoffe unter Einhaltung der dort in Spalte 2 genannten Verwendungsbeschränkungen verwendet werden. Die Stoffe dürfen nur verwendet werden, wenn sie den in Spalte 4 festgesetzten Reinheitsanforderungen entsprechen. Soweit in Spalte 4 keine Reinheitsanforderungen festgelegt sind, müssen die verwendeten Stoffe im Hinblick auf ihren Einsatzbereich handelsüblichen Reinheitsanforderungen genügen. Abweichend von Satz 1 dürfen auch andere als die dort genannten Stoffe als Farbstoff und Klebstoff verwendet werden, sofern ein Übergang der Stoffe auf die mit der Folie in Berührung kommenden Lebensmittel oder deren Oberfläche nach einer anerkannten Analysenmethode nicht festzustellen ist.
 
@@ -101,13 +91,11 @@ nur die in Anhang I Nummer 1 Tabelle 1 der Verordnung (EU) Nr. 10/2011 in der am
 
 (4) Bei dem gewerbsmäßigen Herstellen von Materialien und Gegenständen aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 dürfen neben den nach Anhang I der Verordnung (EU) Nr. 10/2011 zugelassenen Zusatzstoffen als Additive auch die in Anlage 13 aufgeführten Stoffe unter Einhaltung der in Anlage 13 Spalte 4 genannten Beschränkungen verwendet werden, sofern Artikel 3 Absatz 1 der Verordnung (EG) Nr. 1935/2004 dem nicht entgegensteht.
 
-
-## § 5 – Verbotene Verfahren
+# § 5 – Verbotene Verfahren
 
 Bei dem Herstellen der in Anlage 4 aufgeführten Bedarfsgegenstände dürfen die dort genannten Verfahren nicht angewendet werden.
 
-
-## § 6 – Höchstmengen
+# § 6 – Höchstmengen
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
@@ -121,15 +109,13 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 2 Nr. 2 Buchstabe c besteht.
 
-
-## § 7 – Verwendungsverbote
+# § 7 – Verwendungsverbote
 
 (1) Lebensmittelbedarfsgegenstände, die den Anforderungen der §§ 4 bis 6 nicht entsprechen, dürfen beim gewerbsmäßigen Herstellen oder Behandeln von Lebensmitteln nicht verwendet werden.
 
 (2) Bedruckte Zellglasfolie darf gewerbsmäßig nur so verwendet werden, daß die bedruckte Seite nicht mit Lebensmitteln in Berührung kommt.
 
-
-## § 8 – Übergang von Stoffen auf Lebensmittel
+# § 8 – Übergang von Stoffen auf Lebensmittel
 
 (1) (weggefallen)
 
@@ -147,13 +133,11 @@ Satz 1 Nr. 1 gilt nicht, soweit die Beschichtung aus Kunststoff im Sinne des § 
 
 (4) Die Artikel 10, 11, 12, 17 und 18 der Verordnung (EU) Nr. 10/2011 in der jeweils geltenden Fassung gelten für Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung entsprechend.
 
-
-## § 9 – Warnhinweise
+# § 9 – Warnhinweise
 
 In Anlage 7 aufgeführte Bedarfsgegenstände dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn die dort aufgeführten Warnhinweise an der dort genannten Stelle unverwischbar, deutlich sichtbar, leicht lesbar und in deutscher Sprache angegeben sind.
 
-
-## § 10 – Kennzeichnung, Nachweispflichten
+# § 10 – Kennzeichnung, Nachweispflichten
 
 (1) (weggefallen)
 
@@ -175,8 +159,7 @@ Darüber hinaus müssen der Hersteller oder der Einführer für Zwecke der Über
 
 (4) Wer Bedarfsgegenstände in Verkehr bringt, hat die Angaben nach Artikel 15 Abs. 1 Buchstabe a und b der Verordnung (EG) Nr. 1935/2004 in deutscher Sprache anzubringen.
 
-
-## § 10a – Kennzeichnung von Schuherzeugnissen
+# § 10a – Kennzeichnung von Schuherzeugnissen
 
 (1) Schuherzeugnisse nach Anlage 11 Nr. 1 müssen von dem Hersteller oder seinem in der Europäischen Union niedergelassenen Bevollmächtigten oder, sofern weder der Hersteller noch sein Bevollmächtigter in der Europäischen Union eine Niederlassung hat, von demjenigen, der die Schuherzeugnisse in der Europäischen Union erstmals in den Verkehr bringt, vor dem gewerbsmäßigen Inverkehrbringen mit den Angaben nach Absatz 2 Satz 1 in Verbindung mit Absatz 3 versehen werden. Die Angaben nach Satz 1 sind an mindestens einem Schuherzeugnis eines jeden Paares lesbar, haltbar und gut sichtbar anzubringen. Wer Schuherzeugnisse gewerbsmäßig abgibt, muß sicherstellen, daß bei der Abgabe die Kennzeichnung nach Maßgabe von Satz 2 angebracht ist. Die Angaben können durch schriftliche Angaben ergänzt werden.
 
@@ -200,13 +183,11 @@ Die Vorschriften der Chemikalien-Verbotsverordnung bleiben unberührt.
 
 ausmacht. Entfallen auf kein Material mindestens 80 Prozent, so sind Angaben zu den beiden Materialien mit den größten Anteilen am Schuhbestandteil zu machen. Die Bestimmung der Materialien des Obermaterials erfolgt unabhängig von Zubehör oder Verstärkungsteilen, wie Knöchelschützern, Randeinfassungen, Verzierungen, Schnallen, Laschen, Ösen oder ähnlichen Vorrichtungen.
 
-
-## § 11 – Untersuchungsverfahren
+# § 11 – Untersuchungsverfahren
 
 Die in Anlage 10 genannten Untersuchungen sind nach den dort aufgeführten Untersuchungsverfahren durchzuführen.
 
-
-## § 11a – Besondere Vorschriften für die Einfuhr
+# § 11a – Besondere Vorschriften für die Einfuhr
 
 (1) § 18 Absatz 1 der Lebensmitteleinfuhr-Verordnung gilt entsprechend für die Einfuhr von Bedarfsgegenständen mit der Maßgabe, dass an die Stelle
 
@@ -218,8 +199,7 @@ tritt.
 
 (2) Sendungen von Lebensmittelbedarfsgegenständen nach Artikel 1 in Verbindung mit Artikel 2 Buchstabe a der Verordnung (EU) Nr. 284/2011 der Kommission vom 22. März 2011 mit besonderen Bedingungen und detaillierten Verfahren für die Einfuhr von Polyamid- und Melamin-Kunststoffküchenartikeln, deren Ursprung oder Herkunft die Volksrepublik China oder die Sonderverwaltungsregion Hongkong, China, ist (ABl. L 77 vom 23.3.2011, S. 25) dürfen aus Drittländern nur über einen der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 eingeführt werden. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit macht die Liste der benannten spezifischen Orte der ersten Einführung im Sinne des Artikels 5 der Verordnung (EU) Nr. 284/2011 im Bundesanzeiger und nachrichtlich auf seiner Internetseite bekannt.
 
-
-## § 12 – Straftaten und Ordnungswidrigkeiten
+# § 12 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 7 Bedarfsgegenstände verwendet.
 
@@ -295,23 +275,19 @@ a) entgegen Artikel 4 Buchstabe f in Verbindung mit Artikel 12 Absatz 1 und 2 Ma
 
 b) entgegen Artikel 13 eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
-
-## § 13 – Unberührtheitsklausel
+# § 13 – Unberührtheitsklausel
 
 Die Bestimmungen der auf das Chemikaliengesetz gestützten Rechtsverordnungen und der Verordnung über die Sicherheit von Spielzeug bleiben unberührt.
 
-
-## § 14 – (Aufhebung von Vorschriften)
-
-\-
-
-
-## § 15 – (weggefallen)
+# § 14 – (Aufhebung von Vorschriften)
 
 \-
 
+# § 15 – (weggefallen)
 
-## § 16 – Übergangsvorschriften
+\-
+
+# § 16 – Übergangsvorschriften
 
 (1) Lebensmittelbedarfsgegenstände, die den Vorschriften dieser Verordnung in der bis zum 10. April 2003 geltenden Fassung entsprechen und vor dem 11. April 2003 erstmals in den Verkehr gebracht wurden, dürfen noch bis zum Abbau der Bestände weiter in den Verkehr gebracht werden. Soweit jedoch bei der Herstellung von Lebensmittelbedarfsgegenständen die Stoffe mit den PM/REF-Nummern 13510, 13720, 14650, 14950, 15310, 15700, 16240, 16570, 16600, 16630, 16690, 18640, 22420, 22570, 25210, 25240, 25270, 25840, 36840, 39120, 40320, 40580, 45650, 68860, 71670 oder 87040 verwendet werden und diese Stoffe den Vorschriften dieser Verordnung in der bis zum 10. April 2003 geltenden Fassung entsprechen, dürfen diese Bedarfsgegenstände noch bis zum 29. Februar 2004 hergestellt und eingeführt und nach diesem Termin noch bis zum Abbau der Bestände in den Verkehr gebracht werden.
 
@@ -351,18 +327,15 @@ kann weiterhin in Verkehr gebracht werden, soweit das Abfülldatum auf dem Leben
 
 (14) Trinkflaschen aus Kunststoff, die für Säuglinge bestimmt sind und den Vorschriften dieser Verordnung in der bis zum 11. Februar 2011 geltenden Fassung entsprechen, dürfen noch bis zum 28. Februar 2011 hergestellt und bis zum 31. Mai 2011 eingeführt und in den Verkehr gebracht werden.
 
-
-## § 17 – (Inkrafttreten)
+# § 17 – (Inkrafttreten)
 
 \-
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 3)Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
+# Anlage 1 – (zu § 3)Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
 
 (Fundstelle: BGBl. I 1998, 10 - 11;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -683,8 +656,7 @@ Phthalate gelten als nicht verwendet, sofern ihre Konzentration im weichmacherha
 Materialien und Gegenstände aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 und Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung
 
 2,4,4´-Trichlor-2´-hydroxydiphenylether  
-CAS-Nr.  
-0003380-34-5  
+CAS-Nr. 0003380-34-5  
 PEM/REF-Nr. 93930
 
 10\.
@@ -693,8 +665,7 @@ PEM/REF-Nr. 93930
 
  
 
-
-## Anlage 2 – zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1  Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
+# Anlage 2 – zu § 4 Abs. 1 und 1a und § 6 Satz 1 Nr. 1  Stoffe, die für die Herstellung von Zellglasfolien zugelassen sind
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 12 - 21;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -761,8 +732,7 @@ Bis(2-hydroxyethyl) ether (Diethylenglykol)
 ) Zellglas und für  
 ) die Verpackung  
 ) von nicht feuchten  
-) Lebensmitteln, d.  
-) h. die kein  
+) Lebensmitteln, d. ) h. die kein  
 ) physikalisch freies  
 ) Wasser an der  
 ) Oberfläche haben
@@ -2074,11 +2044,9 @@ Die Folienseite, die mit den Lebensmitteln in Berührung kommt, darf insgesamt h
 
 2) Die angegebenen Prozentsätze beziehen sich auf das Gewicht und sind im Verhältnis zu der Menge an wasserfreier Zellglasfolie berechnet.
 
+# Anlage 3 – (weggefallen)
 
-## Anlage 3 – (weggefallen)
-
-
-## Anlage 4 – (zu § 5)Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
+# Anlage 4 – (zu § 5)Verfahren, die beim Herstellen bestimmter Bedarfsgegenstände nicht angewendet werden dürfen
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 31;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2087,8 +2055,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 8%" /><col style="width: 46%" /><col style="width: 46%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Lfd. Nr.</th><th style="text-align: left;">Bedarfsgegenstand</th><th>Verfahren</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1.</td><td style="text-align: left;"><dl><dt>a)</dt><dd>Beruhigungs- und Flaschensauger aus Elastomeren oder Gummi</dd><dt>b)</dt><dd>Spielzeug aus Natur- oder Synthesekautschuk für Kinder bis zu 36 Monaten, das bestimmungsgemäß oder vorhersehbar in den Mund genommen wird</dd></dl></td><td>Verfahren, die bewirken, dass aus dem Bedarfsgegenstand N-Nitrosamine oder in N-Nitrosamine umsetzbare Stoffe in eine Speichellösung in einer Menge abgegeben werden, die mit einer in Anlage 10 Nr. 6 beschriebenen Methode nachweisbar sind.</td></tr><tr class="even"><td style="text-align: left;">2.</td><td style="text-align: left;">Bedarfsgegenstände aus Leder, die dazu bestimmt sind, nicht nur vorübergehend mit dem menschlichen Körper in Berührung zu kommen, insbesondere Bekleidungsgegenstände, Uhrarmbänder, Taschen und Rucksäcke, Stuhlüberzüge, Brustbeutel sowie Lederspielwaren</td><td>Verfahren, die bewirken, dass in dem Bedarfsgegenstand Chrom(VI) mit der in Anlage 10 Nummer 8 beschriebenen Methode nachweisbar ist.</td></tr></tbody></table>
 
-
-## Anlage 5 – (zu § 6 Nr. 3)Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
+# Anlage 5 – (zu § 6 Nr. 3)Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge enthalten dürfen
 
 (Fundstelle: BGBl. I 1998, 31;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2149,8 +2116,7 @@ b) 1,0 Milligramm je Kilogramm Luftballon
 
  
 
-
-## Anlage 5a – (zu § 6 Nr. 4)  Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
+# Anlage 5a – (zu § 6 Nr. 4)  Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge freisetzen dürfen
 
 Fundstelle des (Originaltextes: BGBl. I 2000, 850;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2165,8 +2131,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 |   2\.   |              Bedarfsgegenstände wie unter Nr. 1, jedoch mit einer nickelfreien Beschichtung               | Nickel und seine Verbindungen |                        Wie unter Nr. 1, aber Einhaltung der Höchstmenge für einen Zeitraum von mindestens zwei Jahren bei normaler Verwendung                        |
 |   3\.   | Stäbe jedweder Form, die in durchstochene Ohren oder andere durchstochene Körperpartien eingeführt werden | Nickel und seine Verbindungen | Weniger als 0,2 myg Nickel/qcm/Woche, freigesetzt von den Stäben jedweder Form, die in durchstochene Ohren oder andere durchstochene Körperpartien eingeführt werden |
 
-
-## Anlage 6 – (zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3)Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
+# Anlage 6 – (zu § 8 Absatz 3 und § 10 Absatz 2 Satz 3)Bedarfsgegenstände, von denen bestimmte Stoffe nur bis zu einer festgelegten Höchstmenge auf Lebensmittel übergehen dürfen
 
 Lfd. Nr.
 
@@ -2228,8 +2193,7 @@ Koch- und Backgeräte; Verpackungs- und Lagerbehältnisse mit mehr als 3 Liter F
 
 Besteht ein Lebensmittelbedarfsgegenstand aus Keramik aus einem Behälter und einem Keramikdeckel, so gilt als Höchstmenge der Wert, der für den Behälter allein gilt. Der Behälter allein und die innere Oberfläche des Deckels werden unter den gleichen Bedingungen getrennt geprüft. Die Summe der beiden so festgestellten Werte wird je nach Fall auf die Fläche oder das Volumen des Behälters allein bezogen.
 
-
-## Anlage 7 – (zu § 9)Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
+# Anlage 7 – (zu § 9)Bedarfsgegenstände, die mit einem Warnhinweis versehen sein müssen
 
 Lfd. Nr.
 
@@ -2271,13 +2235,11 @@ Verpackung und Verpackung einzelner Verpackungen.
 
  
 
-
-## Anlage 8 – (weggefallen)
+# Anlage 8 – (weggefallen)
 
 \-
 
-
-## Anlage 9 – (zu § 10 Abs. 3)  Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
+# Anlage 9 – (zu § 10 Abs. 3)  Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe anzugeben sind
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 33;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2292,8 +2254,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 |   2\.    | Textilien mit einem Massengehalt von mehr als 0,15 vom Hundert an freiem Formaldehyd, die beim bestimmungsgemäßen Gebrauch mit der Haut in Berührung kommen und mit einer Ausrüstung versehen sind | "Enthält Formaldehyd. Es wird empfohlen, das Kleidungsstück zur besseren Hautverträglichkeit vor dem ersten Tragen zu waschen." | Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem Bedarfsgegenstand oder seiner Verpackung befindet |
 |   3\.    |                             Reinigungs- und Pflegemittel, die für den häuslichen Bedarf bestimmt sind, mit einem Massengehalt von mehr als 0,1 vom Hundert Formaldehyd                             |                                                     "Enthält Formaldehyd."                                                      | Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem Bedarfsgegenstand oder seiner Verpackung befindet |
 
-
-## Anlage 10 – (zu § 11)Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
+# Anlage 10 – (zu § 11)Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
 
 (Fundstelle: BGBl. I 1998, 34 - 35;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2384,8 +2345,7 @@ Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
 (weggefallen)
 
-
-## Anlage 11 – (zu § 10a)
+# Anlage 11 – (zu § 10a)
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 35 - 36;  
   
@@ -2495,11 +2455,9 @@ Sonstiges Material
 
 Sonstiges Material
 
+# Anlage 12 – (weggefallen)
 
-## Anlage 12 – (weggefallen)
-
-
-## Anlage 13 – (zu § 4 Absatz 3 und 4)  Vorläufiges Verzeichnis der Additive
+# Anlage 13 – (zu § 4 Absatz 3 und 4)  Vorläufiges Verzeichnis der Additive
 
 (Fundstelle: BGBl. I 2009, 3135 - 3137;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

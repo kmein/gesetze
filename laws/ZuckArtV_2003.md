@@ -1,10 +1,7 @@
-# [ZuckArtV 2003] Verordnung über einige zur menschlichen Ernährung bestimmte Zuckerarten  (Zuckerartenverordnung)
-
-Ausfertigungsdatum: 23.10.2003
-
+% Verordnung über einige zur menschlichen Ernährung bestimmte Zuckerarten  (Zuckerartenverordnung)
+% Ausfertigungsdatum: 23.10.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft verordnet auf Grund
 
@@ -14,15 +11,13 @@ des § 19 Abs. 1 Nr. 1, 2 Buchstabe b und Nr. 4 Buchstabe a, b und c des Lebensm
 \-  
 des § 44 Abs.1 Nr. 2 des Lebensmittel- und Bedarfsgegenständegesetzes:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
 
 (2) Diese Verordnung gilt nicht für die in Anlage 1 genannten Erzeugnisse in Form von Staubzucker, Kandiszucker und Zuckerhüten.
 
-
-## § 2 – Kennzeichnung
+# § 2 – Kennzeichnung
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
 
@@ -50,8 +45,7 @@ nicht übersteigt.
 
 (8) Für die Art und Weise der Kennzeichnung nach Absatz 7 gelten Artikel 8 Absatz 7, Artikel 12 Absatz 1 und 2, Artikel 13 Absatz 1 bis 3 der Verordnung (EU) Nr. 1169/2011 und § 2 der Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
-
-## § 3 – Verkehrsverbote
+# § 3 – Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
@@ -61,13 +55,11 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 Im Falle des Satzes 1 Nr. 1 bleibt § 2 Abs. 6 unberührt.
 
-
-## § 4 – Analysemethoden
+# § 4 – Analysemethoden
 
 Die Merkmale der in Anlage 1 aufgeführten Erzeugnisse sind nach den in Anlage 2 vorgesehenen Analysemethoden zu bestimmen.
 
-
-## § 5 – Straftaten und Ordnungswidrigkeiten
+# § 5 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 Satz 1 Lebensmittel in den Verkehr bringt.
 
@@ -75,25 +67,21 @@ Die Merkmale der in Anlage 1 aufgeführten Erzeugnisse sind nach den in Anlage 2
 
 (3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 7 ein Erzeugnis in den Verkehr bringt.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Bis zum 11. Juli 2004 dürfen Erzeugnisse nach den bis zum 31. Oktober 2003 geltenden Vorschriften hergestellt und gekennzeichnet werden. Nach Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2)
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu den §§ 1 bis 4)  Bezeichnungen und Begriffsbestimmungen
+# Anlage 1 – (zu den §§ 1 bis 4)  Bezeichnungen und Begriffsbestimmungen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 
@@ -208,13 +196,11 @@ Gereinigte und kristallisierte D-Fruktose mit folgenden Merkmalen:
 | Verlust beim Trocknen | höchstens 0,5% in Gewicht,                     |
 | Leitfähigkeitsasche   | höchstens 0,1% in Gewicht in der Trockenmasse. |
 
-
-## Anlage 2 – (zu § 2 Abs. 3 und § 4)  Analysemethoden
+# Anlage 2 – (zu § 2 Abs. 3 und § 4)  Analysemethoden
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2102
 
-Die jeweils anzuwendende Methode ist aus der nachstehenden Aufstellung zu ersehen. Die Beschreibung der Methoden ergibt sich aus der Verordnung (EWG) Nr. 1265/69 der Kommission vom 1. Juli 1969 über die Methoden zur Bestimmung der Qualität von Zucker, der von den Interventionsstellen gekauft wird (ABl. EG Nr. L 163 S. 1) und der Ersten Richtlinie (79/796/EWG) der Kommission vom 26. Juli 1979 zur Festlegung gemeinschaftlicher Analysenmethoden für die Kontrolle von zur menschlichen Ernährung bestimmten Zuckerarten (ABl. EG Nr. L 239 S. 24).  
-
+Die jeweils anzuwendende Methode ist aus der nachstehenden Aufstellung zu ersehen. Die Beschreibung der Methoden ergibt sich aus der Verordnung (EWG) Nr. 1265/69 der Kommission vom 1. Juli 1969 über die Methoden zur Bestimmung der Qualität von Zucker, der von den Interventionsstellen gekauft wird (ABl. EG Nr. L 163 S. 1) und der Ersten Richtlinie (79/796/EWG) der Kommission vom 26. Juli 1979 zur Festlegung gemeinschaftlicher Analysenmethoden für die Kontrolle von zur menschlichen Ernährung bestimmten Zuckerarten (ABl. EG Nr. L 239 S. 24). 
 Merkmale
 
 Zuckerart (Nummer der Anlage 1)

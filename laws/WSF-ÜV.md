@@ -1,22 +1,17 @@
-# [WSF-ÜV] Verordnung zur Verwaltung des Wirtschaftsstabilisierungsfonds und zur Übertragung von Aufgaben auf die Kreditanstalt für Wiederaufbau nach § 20 des Stabilisierungsfondsgesetzes  (Wirtschaftsstabilisierungsfonds-Übertragungsverordnung - WSF-ÜV)
-
-Ausfertigungsdatum: 01.10.2020
-
+% Verordnung zur Verwaltung des Wirtschaftsstabilisierungsfonds und zur Übertragung von Aufgaben auf die Kreditanstalt für Wiederaufbau nach § 20 des Stabilisierungsfondsgesetzes  (Wirtschaftsstabilisierungsfonds-Übertragungsverordnung - WSF-ÜV)
+% Ausfertigungsdatum: 01.10.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Absatz 4 Satz 4, auch in Verbindung mit Satz 5, und Absatz 6 des Stabilisierungsfondsgesetzes, der durch Artikel 1 Nummer 7 des Gesetzes vom 27. März 2020 (BGBl. I S. 543) eingefügt worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt, in welchen Fällen die Entscheidung über Anträge zu Stabilisierungsmaßnahmen nach den §§ 21 und 22 des Stabilisierungsfondsgesetzes auf die Kreditanstalt für Wiederaufbau übertragen wird, und in welchen Fällen diese Entscheidung bei anderen Entscheidungsorganen verbleibt.
 
 (2) Sie regelt ferner, wie die Entscheidung über die Anträge gefällt werden, welche Institutionen zu beteiligen sind und welche Informationspflichten bestehen. Sie regelt in diesem Zusammenhang ferner die Zusammenarbeit der Kreditanstalt für Wiederaufbau mit den Behörden, denen Aufgaben nach dem Stabilisierungsfondsgesetz übertragen sind.
 
-
-## § 2 – Bestimmung der Entscheidungsorgane
+# § 2 – Bestimmung der Entscheidungsorgane
 
 (1) Dem Wirtschaftsstabilisierungsfonds-Ausschuss sind zur Entscheidung vorzulegen
 
@@ -52,8 +47,7 @@ soweit sie nicht in die Zuständigkeit des Wirtschaftsstabilisierungsfonds-Aussc
 
 (5) Der Wirtschaftsstabilisierungsfonds-Ausschuss kann sich im Rahmen des § 20 Absatz 1 Satz 2 des Stabilisierungsfondsgesetzes Entscheidungen vorbehalten.
 
-
-## § 3 – Antragsregistrierung
+# § 3 – Antragsregistrierung
 
 (1) Anträge von Unternehmen auf Maßnahmen nach dem Stabilisierungsfondsgesetz sind bei dem Bundesministerium für Wirtschaft und Energie einzureichen. Anträge, die durch die Kreditanstalt für Wiederaufbau zu prüfen sind, werden ihr unmittelbar durch das Bundesministerium für Wirtschaft und Energie zugeleitet.
 
@@ -63,15 +57,13 @@ soweit sie nicht in die Zuständigkeit des Wirtschaftsstabilisierungsfonds-Aussc
 
 (4) Soweit die Anträge nicht von der Kreditanstalt für Wiederaufbau bearbeitet werden, nimmt das Bundesministerium für Wirtschaft und Energie die Prüfung der Anträge vor und erstellt die Entscheidungsvoten sowie die Vorbereitung für den Wirtschaftsstabilisierungsfonds-Ausschuss. Das Bundesministerium für Wirtschaft und Energie kann zur Erfüllung dieser Aufgaben Dritte mandatieren.
 
-
-## § 4 – Antragsbearbeitung durch die Kreditanstalt für Wiederaufbau
+# § 4 – Antragsbearbeitung durch die Kreditanstalt für Wiederaufbau
 
 (1) Die Kreditanstalt für Wiederaufbau informiert das Bundesministerium der Finanzen und das Bundesministerium für Wirtschaft und Energie sowie die Finanzagentur über Anträge auf Gewährung von Stabilisierungsmaßnahmen nach § 21 des Stabilisierungsfondsgesetzes, beabsichtigte oder getroffene Entscheidungen oder über sonstige Sachverhalte oder Tätigkeiten der Kreditanstalt für Wiederaufbau im Rahmen des Stabilisierungsfondsgesetzes.
 
 (2) Die Kreditanstalt für Wiederaufbau ist bei der Wahrnehmung der ihr nach § 2 Absatz 3 übertragenen Aufgaben auch an die im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie ergehenden Weisungen oder Entscheidungen des Bundesministeriums der Finanzen gebunden, die auf der Grundlage des Stabilisierungsfondsgesetzes, dieser Verordnung oder auf der Grundlage der nach § 19 Absatz 2, § 21 Absatz 2, § 25 Absatz 3 und § 26 Absatz 3 des Stabilisierungsfondsgesetzes erlassenen Verordnungen ergangen sind, sowie an die Beschlüsse des Wirtschaftsstabilisierungsfonds-Ausschusses.
 
-
-## § 5 – Entscheidungsvorschläge des Bundesministeriums für Wirtschaft und Energie
+# § 5 – Entscheidungsvorschläge des Bundesministeriums für Wirtschaft und Energie
 
 (1) Das Bundesministerium für Wirtschaft und Energie bereitet die Entscheidungen über die Anträge vor und legt dem Entscheidungsorgan einen entscheidungsreifen Vorschlag vor. Das Bundesministerium für Wirtschaft und Energie kann auf einen Entscheidungsvorschlag verzichten, soweit die Entscheidung nach dieser Verordnung der Kreditanstalt für Wiederaufbau übertragen ist. Der Verzicht kann generell oder im Einzelfall widerrufen werden.
 
@@ -93,8 +85,7 @@ soweit sie nicht in die Zuständigkeit des Wirtschaftsstabilisierungsfonds-Aussc
 
 (5) Entscheidungsvorschläge nach Absatz 3 sind dem Bundesministerium der Finanzen und der Finanzagentur zur Kenntnis zu geben. Dem Wirtschaftsstabilisierungsfonds-Ausschuss sind sie nach § 20 Absatz 4 Satz 3 des Stabilisierungsfondsgesetzes mit einer die Sitzung des Wirtschaftsstabilisierungsfonds-Ausschusses vorbereitenden Unterlage zuzuleiten. Die Kreditanstalt für Wiederaufbau und die Finanzagentur nehmen auf Anforderung an den Sitzungen des Ausschusses mit beratender Stimme teil.
 
-
-## § 6 – Zusammenarbeit von Finanzagentur und Kreditanstalt für Wiederaufbau
+# § 6 – Zusammenarbeit von Finanzagentur und Kreditanstalt für Wiederaufbau
 
 (1) Einzelheiten der Zusammenarbeit zwischen der Kreditanstalt für Wiederaufbau und der Finanzagentur regelt eine zwischen der Kreditanstalt für Wiederaufbau und der Finanzagentur zu schließende Verwaltungsvereinbarung, die der Zustimmung des Bundesministeriums der Finanzen bedarf.
 
@@ -108,15 +99,13 @@ soweit sie nicht in die Zuständigkeit des Wirtschaftsstabilisierungsfonds-Aussc
 
 (4) Die Kreditanstalt für Wiederaufbau wird ermächtigt, Verwaltungsakte über die von den begünstigten Unternehmen zu erfüllenden Anforderungen nach § 25 Absatz 3 des Stabilisierungsfondsgesetzes mit Zustimmung der Finanzagentur in Vertretung des Wirtschaftsstabilisierungsfonds zu erlassen.
 
-
-## § 7 – Weitere Aufgaben der Kreditanstalt für Wiederaufbau
+# § 7 – Weitere Aufgaben der Kreditanstalt für Wiederaufbau
 
 (1) Die Kreditanstalt für Wiederaufbau nimmt in den vom Bundesministerium der Finanzen festgelegten Fällen für das Bundesministerium der Finanzen die Führung der im Rahmen von Stabilisierungsmaßnahmen erworbenen Beteiligungen und die Verwahrung und Verwaltung der anderen im Rahmen von Rekapitalisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes übernommenen Instrumente wahr.
 
 (2) Das Bundesministerium der Finanzen bestimmt, in welchen Fällen die Kreditanstalt für Wiederaufbau die Aufgaben nach Absatz 1 wahrnimmt und in welchen Fällen diese Aufgabe im Bundesministerium verbleibt. Es kann hierzu Grundsätze festlegen und Weisungen erteilen.
 
-
-## § 8 – Zusammenarbeit mit Dritten
+# § 8 – Zusammenarbeit mit Dritten
 
 (1) Die Kreditanstalt für Wiederaufbau und die Finanzagentur können sich mit Zustimmung und nach Maßgabe des Bundesministeriums der Finanzen bei der Erfüllung ihrer Aufgaben nach dieser Verordnung geeigneter Dritter bedienen. Soweit es sich hier nicht um Aufgaben nach § 7 dieser Verordnung handelt, ergehen die Maßgaben im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie.
 
@@ -126,8 +115,7 @@ soweit sie nicht in die Zuständigkeit des Wirtschaftsstabilisierungsfonds-Aussc
 
 (4) § 3b Absatz 1 bis 3 des Stabilisierungsfondsgesetzes gilt entsprechend.
 
-
-## § 9 – Sonstige Befugnisse des Bundesministeriums der Finanzen
+# § 9 – Sonstige Befugnisse des Bundesministeriums der Finanzen
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie der Kreditanstalt für Wiederaufbau hinsichtlich der dieser nach § 4 übertragenen Aufgaben
 
@@ -137,7 +125,6 @@ Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministeriu
 
 3. sonstige Durchführungshinweise und Vorgaben für die Wahrnehmung der an die Kreditanstalt für Wiederaufbau übertragenen Aufgaben festlegen.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

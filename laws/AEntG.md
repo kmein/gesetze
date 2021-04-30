@@ -1,20 +1,15 @@
-# [AEntG] Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen  (Arbeitnehmer-Entsendegesetz - AEntG)
-
-Ausfertigungsdatum: 20.04.2009
-
+% Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen  (Arbeitnehmer-Entsendegesetz - AEntG)
+% Ausfertigungsdatum: 20.04.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zielsetzung
+# § 1 – Zielsetzung
 
 Ziele des Gesetzes sind die Schaffung und Durchsetzung angemessener Mindestarbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen sowie die Gewährleistung fairer und funktionierender Wettbewerbsbedingungen durch die Erstreckung der Rechtsnormen von Branchentarifverträgen. Dadurch sollen zugleich sozialversicherungspflichtige Beschäftigung erhalten und die Ordnungs- und Befriedungsfunktion der Tarifautonomie gewahrt werden.
 
-
-## § 2 – Allgemeine Arbeitsbedingungen
+# § 2 – Allgemeine Arbeitsbedingungen
 
 (1) Die in Rechts- oder Verwaltungsvorschriften enthaltenen Regelungen über folgende Arbeitsbedingungen sind auch auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern und Arbeitnehmerinnen zwingend anzuwenden:
 
@@ -42,20 +37,17 @@ Ziele des Gesetzes sind die Schaffung und Durchsetzung angemessener Mindestarbei
 
 2. von dem Arbeitgeber von seinem oder ihrem regelmäßigen Arbeitsort im Inland vorübergehend zu einem anderen Arbeitsort geschickt wird.
 
-
-## § 2a – Gegenstand der Entlohnung
+# § 2a – Gegenstand der Entlohnung
 
 Entlohnung im Sinne von § 2 Absatz 1 Nummer 1 sind alle Bestandteile der Vergütung, die der Arbeitnehmer oder die Arbeitnehmerin vom Arbeitgeber in Geld oder als Sachleistung für die geleistete Arbeit erhält. Zur Entlohnung zählen insbesondere die Grundvergütung, einschließlich Entgeltbestandteilen, die an die Art der Tätigkeit, Qualifikation und Berufserfahrung der Arbeitnehmer und Arbeitnehmerinnen und die Region anknüpfen, sowie Zulagen, Zuschläge und Gratifikationen, einschließlich Überstundensätzen. Die Entlohnung umfasst auch Regelungen zur Fälligkeit der Entlohnung einschließlich Ausnahmen und deren Voraussetzungen.
 
-
-## § 2b – Anrechenbarkeit von Entsendezulagen
+# § 2b – Anrechenbarkeit von Entsendezulagen
 
 (1) Erhält der Arbeitnehmer oder die Arbeitnehmerin vom Arbeitgeber mit Sitz im Ausland eine Zulage für die Zeit der Arbeitsleistung im Inland (Entsendezulage), kann diese auf die Entlohnung nach § 2 Absatz 1 Nummer 1 angerechnet werden. Dies gilt nicht, soweit die Entsendezulage zur Erstattung von Kosten gezahlt wird, die infolge der Entsendung tatsächlich entstanden sind (Entsendekosten). Als Entsendekosten gelten insbesondere Reise-, Unterbringungs- und Verpflegungskosten.
 
 (2) Legen die für das Arbeitsverhältnis geltenden Arbeitsbedingungen nicht fest, welche Bestandteile einer Entsendezulage als Erstattung von Entsendekosten gezahlt werden oder welche Bestandteile einer Entsendezulage Teil der Entlohnung sind, wird unwiderleglich vermutet, dass die gesamte Entsendezulage als Erstattung von Entsendekosten gezahlt wird.
 
-
-## § 3 – Tarifvertragliche Arbeitsbedingungen
+# § 3 – Tarifvertragliche Arbeitsbedingungen
 
 Die Rechtsnormen eines bundesweiten Tarifvertrages finden unter den Voraussetzungen der §§ 4 bis 6 auch auf Arbeitsverhältnisse zwischen einem Arbeitgeber mit Sitz im Ausland und seinen im räumlichen Geltungsbereich dieses Tarifvertrages beschäftigten Arbeitnehmern und Arbeitnehmerinnen zwingend Anwendung, wenn
 
@@ -65,8 +57,7 @@ Die Rechtsnormen eines bundesweiten Tarifvertrages finden unter den Voraussetzun
 
 § 2 Absatz 2 gilt entsprechend. Eines bundesweiten Tarifvertrages bedarf es nicht, soweit Arbeitsbedingungen im Sinne des § 5 Nummer 2, 3 oder 4 Gegenstand tarifvertraglicher Regelungen sind, die zusammengefasst räumlich den gesamten Geltungsbereich dieses Gesetzes abdecken.
 
-
-## § 4 – Branchen
+# § 4 – Branchen
 
 (1) § 3 Satz 1 Nummer 2 gilt für Tarifverträge
 
@@ -90,15 +81,13 @@ Die Rechtsnormen eines bundesweiten Tarifvertrages finden unter den Voraussetzun
 
 (2) § 3 Satz 1 Nummer 2 gilt darüber hinaus für Tarifverträge aller anderen als der in Absatz 1 genannten Branchen, wenn die Erstreckung der Rechtsnormen des Tarifvertrages im öffentlichen Interesse geboten erscheint, um die in § 1 genannten Gesetzesziele zu erreichen und dabei insbesondere einem Verdrängungswettbewerb über die Lohnkosten entgegen zu wirken.
 
-
-## § 5 – Arbeitsbedingungen
+# § 5 – Arbeitsbedingungen
 
 Gegenstand eines Tarifvertrages nach § 3 können sein
 
 1. Mindestentgeltsätze, die nach Art der Tätigkeit, Qualifikation der Arbeitnehmer und Arbeitnehmerinnen und Regionen differieren können, einschließlich der Überstundensätze, wobei die Differenzierung nach Art der Tätigkeit und Qualifikation insgesamt bis zu drei Stufen umfassen kann,
 
-1a.  
-die über Nummer 1 hinausgehenden Entlohnungsbestandteile nach § 2 Absatz 1 Nummer 1,
+1a. die über Nummer 1 hinausgehenden Entlohnungsbestandteile nach § 2 Absatz 1 Nummer 1,
 
 2. die Dauer des Erholungsurlaubs, das Urlaubsentgelt oder ein zusätzliches Urlaubsgeld,
 
@@ -110,8 +99,7 @@ die über Nummer 1 hinausgehenden Entlohnungsbestandteile nach § 2 Absatz 1 Num
 
 Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur Fälligkeit entsprechender Ansprüche einschließlich hierzu vereinbarter Ausnahmen und deren Voraussetzungen.
 
-
-## § 6 – Besondere Regelungen
+# § 6 – Besondere Regelungen
 
 (1) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 1 findet dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige Betriebsabteilung überwiegend Bauleistungen gemäß § 101 Abs. 2 des Dritten Buches Sozialgesetzbuch erbringt.
 
@@ -133,8 +121,7 @@ Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur F
 
 (10) Bestimmt ein Tarifvertrag nach den Absätzen 1 bis 9 den Begriff des Betriebs oder der selbstständigen Betriebsabteilung, ist diese Begriffsbestimmung maßgeblich.
 
-
-## § 7 – Rechtsverordnung für die Fälle des § 4 Absatz 1
+# § 7 – Rechtsverordnung für die Fälle des § 4 Absatz 1
 
 (1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne von § 4 Absatz 1 sowie §§ 5 und 6 kann das Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die Rechtsnormen dieses Tarifvertrages auf alle unter seinen Geltungsbereich fallenden und nicht an ihn gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen Anwendung finden, wenn dies im öffentlichen Interesse geboten erscheint, um die in § 1 genannten Gesetzesziele zu erreichen. Satz 1 gilt nicht für tarifvertragliche Arbeitsbedingungen nach § 5 Satz 1 Nummer 1a.
 
@@ -150,8 +137,7 @@ Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur F
 
 (5) Wird in einer Branche nach § 4 Absatz 1 erstmals ein Antrag nach Absatz 1 gestellt, wird nach Ablauf der Frist nach Absatz 4 der Ausschuss nach § 5 Absatz 1 Satz 1 des Tarifvertragsgesetzes (Tarifausschuss) befasst. Stimmen mindestens vier Ausschussmitglieder für den Antrag oder gibt der Tarifausschuss innerhalb von zwei Monaten keine Stellungnahme ab, kann eine Rechtsverordnung nach Absatz 1 erlassen werden. Stimmen zwei oder drei Ausschussmitglieder für den Antrag, kann eine Rechtsverordnung nur von der Bundesregierung erlassen werden. Die Sätze 1 bis 3 gelten nicht für Tarifverträge nach § 4 Absatz 1 Nummer 1 bis 8.
 
-
-## § 7a – Rechtsverordnung für die Fälle des § 4 Absatz 2
+# § 7a – Rechtsverordnung für die Fälle des § 4 Absatz 2
 
 (1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne von § 4 Absatz 2 und § 5 kann das Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die Rechtsnormen dieses Tarifvertrages auf alle unter seinen Geltungsbereich fallenden und nicht an ihn gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen Anwendung finden, wenn dies im öffentlichen Interesse geboten erscheint, um die in § 1 genannten Gesetzesziele zu erreichen und dabei insbesondere einem Verdrängungswettbewerb über die Lohnkosten entgegenzuwirken. Satz 1 gilt nicht für tarifvertragliche Arbeitsbedingungen nach § 5 Satz 1 Nummer 1a. Eine Rechtsverordnung, deren Geltungsbereich die Pflegebranche (§ 10) erfasst, erlässt das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit ohne Zustimmung des Bundesrates. Im Fall einer Rechtsverordnung nach Satz 2 sind auch die in Absatz 1a genannten Voraussetzungen zu erfüllen und die in § 11 Absatz 2 genannten Gesetzesziele zu berücksichtigen.
 
@@ -163,8 +149,7 @@ Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur F
 
 (4) Wird ein Antrag nach Absatz 1 gestellt, wird nach Ablauf der Frist nach Absatz 3 der Ausschuss nach § 5 Absatz 1 Satz 1 des Tarifvertragsgesetzes (Tarifausschuss) befasst. Stimmen mindestens vier Ausschussmitglieder für den Antrag oder gibt der Tarifausschuss innerhalb von zwei Monaten keine Stellungnahme ab, kann eine Rechtsverordnung nach Absatz 1 erlassen werden. Stimmen zwei oder drei Ausschussmitglieder für den Antrag, kann eine Rechtsverordnung nur von der Bundesregierung erlassen werden.
 
-
-## § 8 – Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
+# § 8 – Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
 
 (1) Arbeitgeber mit Sitz im In- oder Ausland, die unter den Geltungsbereich eines für allgemeinverbindlich erklärten Tarifvertrages nach § 3 Satz 1 Nummer 1 oder einer Rechtsverordnung nach § 7 oder § 7a fallen, sind verpflichtet, ihren Arbeitnehmern und Arbeitnehmerinnen mindestens die in dem Tarifvertrag für den Beschäftigungsort vorgeschriebenen Arbeitsbedingungen zu gewähren sowie einer gemeinsamen Einrichtung der Tarifvertragsparteien die ihr nach § 5 Nr. 3 zustehenden Beiträge zu leisten. Satz 1 gilt unabhängig davon, ob die entsprechende Verpflichtung kraft Tarifbindung nach § 3 des Tarifvertragsgesetzes oder kraft Allgemeinverbindlicherklärung nach § 5 des Tarifvertragsgesetzes oder aufgrund einer Rechtsverordnung nach § 7 oder § 7a besteht.
 
@@ -174,20 +159,17 @@ Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch Regelungen zur F
 
 (+++ § 8: Zur Anwendung vgl. §§ 13 u. 13a +++)
 
-
-## § 9 – Verzicht, Verwirkung
+# § 9 – Verzicht, Verwirkung
 
 Ein Verzicht auf den aufgrund einer Rechtsverordnung nach § 7 oder § 7a entstandenen Anspruch der Arbeitnehmer und Arbeitnehmerinnen auf Mindestentgeltsätze nach § 5 Satz 1 Nummer 1 ist nur durch gerichtlichen Vergleich zulässig; im Übrigen ist ein Verzicht ausgeschlossen. Die Verwirkung des in Satz 1 genannten Anspruchs ist ausgeschlossen. Ausschlussfristen für die Geltendmachung des in Satz 1 genannten Anspruchs können ausschließlich in dem der Rechtsverordnung nach § 7 oder § 7a zugrunde liegenden Tarifvertrag geregelt werden; die Frist muss mindestens sechs Monate betragen.
 
 (+++ § 9: Zur Anwendung vgl. §§ 13 u. 13a +++)
 
-
-## § 10 – Anwendungsbereich
+# § 10 – Anwendungsbereich
 
 Dieser Abschnitt findet Anwendung auf die Pflegebranche. Diese umfasst Betriebe und selbstständige Betriebsabteilungen, die überwiegend ambulante, teilstationäre oder stationäre Pflegeleistungen oder ambulante Krankenpflegeleistungen für Pflegebedürftige erbringen (Pflegebetriebe). Pflegebedürftig sind Personen, die gesundheitlich bedingte Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten aufweisen, deshalb vorübergehend oder auf Dauer der Hilfe durch andere bedürfen und körperliche, kognitive oder psychische Beeinträchtigungen oder gesundheitlich bedingte Belastungen oder Anforderungen nicht selbständig kompensieren oder bewältigen können. Keine Pflegebetriebe im Sinne des Satzes 2 sind Einrichtungen, in denen die Leistungen zur medizinischen Vorsorge, zur medizinischen Rehabilitation, zur Teilhabe am Arbeitsleben oder am Leben in der Gemeinschaft, die schulische Ausbildung oder die Erziehung kranker oder behinderter Menschen im Vordergrund des Zweckes der Einrichtung stehen, sowie Krankenhäuser.
 
-
-## § 11 – Rechtsverordnung
+# § 11 – Rechtsverordnung
 
 (1) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die von der nach § 12 errichteten Kommission vorgeschlagenen Arbeitsbedingungen nach § 5 Nr. 1 und 2 auf alle Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen, die unter den Geltungsbereich einer Empfehlung nach § 12a Absatz 2 fallen, Anwendung finden.
 
@@ -195,8 +177,7 @@ Dieser Abschnitt findet Anwendung auf die Pflegebranche. Diese umfasst Betriebe 
 
 (3) Vor Erlass einer Rechtsverordnung gibt das Bundesministerium für Arbeit und Soziales den in den Geltungsbereich der Rechtsverordnung fallenden Arbeitgebern und Arbeitnehmern und Arbeitnehmerinnen sowie den Parteien von Tarifverträgen, die zumindest teilweise in den fachlichen Geltungsbereich der Rechtsverordnung fallen, und paritätisch besetzten Kommissionen, die auf der Grundlage kirchlichen Rechts Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber in der Pflegebranche festlegen, Gelegenheit zur schriftlichen Stellungnahme innerhalb von drei Wochen ab dem Tag der Bekanntmachung des Entwurfs der Rechtsverordnung.
 
-
-## § 12 – Berufung der Kommission
+# § 12 – Berufung der Kommission
 
 (1) Das Bundesministerium für Arbeit und Soziales beruft eine ständige Kommission, die über Empfehlungen zur Festlegung von Arbeitsbedingungen nach § 12a Absatz 2 beschließt.
 
@@ -244,8 +225,7 @@ Bei gemeinsamen Vorschlägen im Sinne des Absatzes 4 Satz 3 sind die auf die vor
 
 (8) Klagen gegen die Benennung von Mitgliedern durch das Bundesministerium für Arbeit und Soziales haben keine aufschiebende Wirkung.
 
-
-## § 12a – Empfehlung von Arbeitsbedingungen
+# § 12a – Empfehlung von Arbeitsbedingungen
 
 (1) Auf Antrag einer vorschlagsberechtigten Stelle im Sinne des § 12 Absatz 4 Satz 2 nimmt die Kommission Beratungen auf. Hat das Bundesministerium für Arbeit und Soziales bekannt gegeben, dass Verhandlungen über einen Tarifvertrag im Sinne des § 7a Absatz 1a Satz 1 aufgenommen worden sind, so können drei Viertel der Mitglieder der Gruppen nach § 12 Absatz 4 Satz 2 Nummer 2 Buchstabe a und b gemeinsam verlangen, dass Beratungen über neue Empfehlungen frühestens vier Monate nach Ablauf der Frist für die Benennung von Kommissionen nach § 7a Absatz 1a Satz 2 aufgenommen oder fortgesetzt werden.
 
@@ -265,18 +245,15 @@ anwesend sind und zustimmen. Ordentliche Mitglieder können durch ihre jeweilige
 
 (4) Die Sitzungen der Kommission werden von einem oder einer nicht stimmberechtigten Beauftragten des Bundesministeriums für Arbeit und Soziales geleitet. Sie sind nicht öffentlich. Der Inhalt ihrer Beratungen ist vertraulich. Die Kommission zieht regelmäßig nicht stimmberechtigte Vertreter des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums für Gesundheit zu den Sitzungen hinzu. Näheres ist in der Geschäftsordnung der Kommission zu regeln.
 
-
-## § 13 – Rechtsfolgen
+# § 13 – Rechtsfolgen
 
 Die Regelungen einer Rechtsverordnung nach § 7a gehen den Regelungen einer Rechtsverordnung nach § 11 vor, soweit sich die Geltungsbereiche der Rechtsverordnungen überschneiden. Unbeschadet des Satzes 1 steht eine Rechtsverordnung nach § 11 für die Anwendung der §§ 8 und 9 sowie der Abschnitte 5 und 6 einer Rechtsverordnung nach § 7 gleich.
 
-
-## § 13a – Gleichstellung
+# § 13a – Gleichstellung
 
 Die Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßig grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1) steht für die Anwendung der §§ 8 und 9 sowie der Abschnitte 5 und 6 einer Rechtsverordnung nach § 7 gleich.
 
-
-## § 13b – Zusätzliche Arbeitsbedingungen
+# § 13b – Zusätzliche Arbeitsbedingungen
 
 (1) Wird ein Arbeitnehmer oder eine Arbeitnehmerin von einem im Ausland ansässigen Arbeitgeber mehr als zwölf Monate im Inland beschäftigt, so finden auf dieses Arbeitsverhältnis nach zwölf Monaten Beschäftigungsdauer im Inland zusätzlich zu den Arbeitsbedingungen nach den Abschnitten 2 bis 4a alle Arbeitsbedingungen Anwendung, die am Beschäftigungsort in Rechts- und Verwaltungsvorschriften und in allgemeinverbindlichen Tarifverträgen vorgeschrieben sind, nicht jedoch
 
@@ -306,8 +283,7 @@ Die zuständige Behörde der Zollverwaltung bestätigt den Eingang der Mitteilun
 
 (4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die zuständige Behörde nach Absatz 2 bestimmen.
 
-
-## § 13c – Berechnung der Beschäftigungsdauer im Inland
+# § 13c – Berechnung der Beschäftigungsdauer im Inland
 
 (1) Wird der Arbeitnehmer oder die Arbeitnehmerin im Rahmen von Dienst- oder Werkverträgen im Inland beschäftigt, werden zur Berechnung der Beschäftigungsdauer im Inland alle Zeiten berücksichtigt, in denen er oder sie im Rahmen dieser Verträge im Inland beschäftigt wird.
 
@@ -335,8 +311,7 @@ Der Arbeitnehmer oder die Arbeitnehmerin übt die Tätigkeit am gleichen Ort im 
 
 2. im Rahmen derselben Dienst- oder Werkverträge wie der Arbeitnehmer oder die Arbeitnehmerin, den oder die er oder sie ersetzt, an anderen für diese Dienst- oder Werkverträge vorgegebenen Anschriften tätig ist.
 
-
-## § 14 – Haftung des Auftraggebers
+# § 14 – Haftung des Auftraggebers
 
 Ein Unternehmer, der einen anderen Unternehmer mit der Erbringung von Werk- oder Dienstleistungen beauftragt, haftet für die Verpflichtungen dieses Unternehmers, eines Nachunternehmers oder eines von dem Unternehmer oder einem Nachunternehmer beauftragten Verleihers zur Zahlung des Mindestentgelts an Arbeitnehmer oder Arbeitnehmerinnen oder zur Zahlung von Beiträgen an eine gemeinsame Einrichtung der Tarifvertragsparteien nach § 8 wie ein Bürge, der auf die Einrede der Vorausklage verzichtet hat. Das Mindestentgelt im Sinne des Satzes 1 umfasst nur den Betrag, der nach Abzug der Steuern und der Beiträge zur Sozialversicherung und zur Arbeitsförderung oder entsprechender Aufwendungen zur sozialen Sicherung an Arbeitnehmer oder Arbeitnehmerinnen auszuzahlen ist (Nettoentgelt).
 
@@ -346,8 +321,7 @@ Ein Unternehmer, der einen anderen Unternehmer mit der Erbringung von Werk- oder
     (+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. § 12 SokaSiG +++)
     (+++ § 14: Zur Anwendung vgl. § 13 G v. 11.8.2014 I 1348 (MiLoG) +++) 
 
-
-## § 15 – Gerichtsstand
+# § 15 – Gerichtsstand
 
 Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im Ausland im Geltungsbereich dieses Gesetzes beschäftigt sind oder waren, können eine auf den Zeitraum der Beschäftigung im Geltungsbereich dieses Gesetzes bezogene Klage auf Erfüllung der Verpflichtungen nach den §§ 2, 8, 13b oder 14 auch vor einem deutschen Gericht für Arbeitssachen erheben. Diese Klagemöglichkeit besteht auch für eine gemeinsame Einrichtung der Tarifvertragsparteien nach § 5 Satz 1 Nummer 3 in Bezug auf die ihr zustehenden Beiträge.
 
@@ -356,22 +330,19 @@ Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im Ausland im 
     (+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. §§ 13 u. 13a +++)
     (+++ Abschn. 5 (§§ 14 u. 15): Zur Anwendung vgl. § 12 SokaSiG +++) 
 
-
-## § 15a – Unterrichtungspflichten des Entleihers bei grenzüberschreitender Arbeitnehmerüberlassung
+# § 15a – Unterrichtungspflichten des Entleihers bei grenzüberschreitender Arbeitnehmerüberlassung
 
 (1) Bevor ein Entleiher mit Sitz im Ausland einen Leiharbeitnehmer oder eine Leiharbeitnehmerin im Inland beschäftigt, unterrichtet er den Verleiher hierüber in Textform nach § 126b des Bürgerlichen Gesetzbuchs.
 
 (2) Bevor ein Entleiher mit Sitz im In- oder Ausland einen Leiharbeitnehmer oder eine Leiharbeitnehmerin eines im Ausland ansässigen Verleihers im Inland beschäftigt, unterrichtet der Entleiher den Verleiher in Textform nach § 126b des Bürgerlichen Gesetzbuchs über die wesentlichen Arbeitsbedingungen, die im Betrieb des Entleihers für einen vergleichbaren Arbeitnehmer oder eine vergleichbare Arbeitnehmerin des Entleihers gelten, einschließlich der Entlohnung. Die Unterrichtungspflicht gilt nicht, wenn die Voraussetzungen für ein Abweichen vom Gleichstellungsgrundsatz nach § 8 Absatz 2 und 4 Satz 2 des Arbeitnehmerüberlassungsgesetzes vorliegen. § 13 des Arbeitnehmerüberlassungsgesetzes bleibt unberührt.
 
-
-## § 16 – Zuständigkeit
+# § 16 – Zuständigkeit
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach § 8, soweit sie sich auf die Gewährung von Arbeitsbedingungen nach § 5 Satz 1 Nummer 1 bis 4 beziehen, sind die Behörden der Zollverwaltung zuständig.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
-
-## § 17 – Befugnisse der Behörden der Zollverwaltung und anderer Behörden
+# § 17 – Befugnisse der Behörden der Zollverwaltung und anderer Behörden
 
 Die §§ 2 bis 6, 14, 15, 20, 22 und 23 des Schwarzarbeitsbekämpfungsgesetzes sind entsprechend anzuwenden mit der Maßgabe, dass
 
@@ -385,8 +356,7 @@ Die §§ 16 bis 19 des Schwarzarbeitsbekämpfungsgesetzes finden Anwendung. § 6
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
-
-## § 18 – Meldepflicht
+# § 18 – Meldepflicht
 
 (1) Soweit Arbeitsbedingungen auf das Arbeitsverhältnis Anwendung finden, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung kontrolliert wird, ist ein Arbeitgeber mit Sitz im Ausland, der einen Arbeitnehmer oder eine Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen innerhalb des Geltungsbereichs dieses Gesetzes beschäftigt, verpflichtet, vor Beginn jeder Werk- oder Dienstleistung eine schriftliche Anmeldung in deutscher Sprache bei der zuständigen Behörde der Zollverwaltung vorzulegen, die die für die Prüfung wesentlichen Angaben enthält. Wesentlich sind die Angaben über
 
@@ -441,8 +411,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)  
 (+++ § 18 Abs. 1 bis 4: Zur Anwendung vgl. § 1 Abs. 2 MiLoDokV +++)
 
-
-## § 19 – Erstellen und Bereithalten von Dokumenten
+# § 19 – Erstellen und Bereithalten von Dokumenten
 
 (1) Soweit Arbeitsbedingungen auf das Arbeitsverhältnis anzuwenden sind, deren Einhaltung nach § 16 von den Behörden der Zollverwaltung kontrolliert wird, ist der Arbeitgeber verpflichtet, Beginn, Ende und Dauer der täglichen Arbeitszeit der Arbeitnehmer und Arbeitnehmerinnen und, soweit stundenbezogene Zuschläge zu gewähren sind, unter Angabe des jeweiligen Zuschlags Beginn, Ende und Dauer der Arbeitszeit, die einen Anspruch auf den Zuschlag begründet, spätestens bis zum Ablauf des siebten auf den Tag der Arbeitsleistung folgenden Kalendertages aufzuzeichnen und diese Aufzeichnungen mindestens zwei Jahre beginnend ab dem für die Aufzeichnung maßgeblichen Zeitpunkt aufzubewahren. Satz 1 gilt entsprechend für einen Entleiher, dem ein Verleiher einen Arbeitnehmer oder eine Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen zur Arbeitsleistung überlässt.
 
@@ -455,8 +424,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)  
 (+++ § 19 Abs. 1 u. 2: Zur Anwendung vgl. § 1 Abs. 2 MiLoDokV +++)
 
-
-## § 20 – Zusammenarbeit der in- und ausländischen Behörden
+# § 20 – Zusammenarbeit der in- und ausländischen Behörden
 
 (1) Die Behörden der Zollverwaltung unterrichten die zuständigen örtlichen Landesfinanzbehörden über Meldungen nach § 18 Abs. 1 und 3.
 
@@ -466,8 +434,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (4) (weggefallen)
 
-
-## § 21 – Ausschluss von der Vergabe öffentlicher Aufträge
+# § 21 – Ausschluss von der Vergabe öffentlicher Aufträge
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die wegen eines Verstoßes nach § 23 mit einer Geldbuße von wenigstens zweitausendfünfhundert Euro belegt worden sind. Das Gleiche gilt auch schon vor Durchführung eines Bußgeldverfahrens, wenn im Einzelfall angesichts der Beweislage kein vernünftiger Zweifel an einer schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
 
@@ -481,11 +448,9 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
+# § 22 – (weggefallen)
 
-## § 22 – (weggefallen)
-
-
-## § 23 – Bußgeldvorschriften
+# § 23 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -521,8 +486,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (+++ Abschn. 6 (§§ 16 bis 23): Zur Anwendung vgl. §§ 13 u. 13a +++)
 
-
-## § 23a – Leistungsanspruch
+# § 23a – Leistungsanspruch
 
 (1) Der Deutsche Gewerkschaftsbund hat für den Aufbau und die Unterhaltung von Beratungsstellen zu arbeits- und sozialrechtlichen Themen sowie für die in diesem Zusammenhang erfolgende Entwicklung und Bereitstellung von Fortbildungsangeboten und Informationsmaterialien einen kalenderjährlichen Anspruch in Höhe von bis zu 3,996 Millionen Euro aus Mitteln des Bundes.
 
@@ -548,8 +512,7 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (9) Das Beratungs- und Informationsangebot wird bis zum 31. Dezember 2025 durch das Bundesministerium für Arbeit und Soziales evaluiert.
 
-
-## § 23b – Verordnungsermächtigung
+# § 23b – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -561,8 +524,7 @@ Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, 
 
 4. das Nähere zur Kontrolle der Mittelverwendung.
 
-
-## § 24 – Sonderregeln für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
+# § 24 – Sonderregeln für bestimmte Tätigkeiten von Arbeitnehmern und Arbeitnehmerinnen, die bei Arbeitgebern mit Sitz im Ausland beschäftigt sind
 
 (1) Die Arbeitsbedingungen nach § 2 Absatz 1 Nummer 1 und 2, § 5 Satz 1 Nummer 1 bis 3 und § 13b dieses Gesetzes sowie nach § 20 des Mindestlohngesetzes sind auf Arbeitnehmer und Arbeitnehmerinnen, die von Arbeitgebern mit Sitz im Ausland im Inland beschäftigt werden, nicht anzuwenden, wenn
 
@@ -590,24 +552,20 @@ Satz 1 gilt nicht für Bauleistungen im Sinne des § 101 Absatz 2 des Dritten Bu
 
 Vorübergehend ist eine Beschäftigung, wenn der Arbeitnehmer oder die Arbeitnehmerin nicht mehr als 14 Tage ununterbrochen und nicht mehr als 30 Tage innerhalb eines Zeitraums von zwölf Monaten im Inland tätig ist.
 
-
-## § 25 – Übergangsbestimmungen für Langzeitentsendung
+# § 25 – Übergangsbestimmungen für Langzeitentsendung
 
 (1) Die nach § 13b Absatz 1 vorgeschriebenen Arbeitsbedingungen sind frühestens ab dem 30. Juli 2020 anzuwenden.
 
 (2) Für die Berechnung der Beschäftigungsdauer nach § 13b Absatz 1 werden Zeiten der Beschäftigung im Inland vor dem 30. Juli 2020 mitgezählt. Hat die Beschäftigung im Inland vor dem 30. Juli 2020 begonnen, gilt die Mitteilung nach § 13b Absatz 2 als abgegeben.
 
-
-## § 26 – Übergangsbestimmungen für das Baugewerbe
+# § 26 – Übergangsbestimmungen für das Baugewerbe
 
 Die vor dem 30. Juli 2020 ausgesprochene Allgemeinverbindlicherklärung eines Tarifvertrags im Baugewerbe nach § 4 Absatz 1 Nummer 1, § 6 Absatz 2 steht, soweit sie Arbeitsbedingungen nach § 5 Satz 1 Nummer 1 zum Gegenstand hat, für die Anwendung der §§ 8 und 9 sowie des Abschnitts 5 einer Rechtsverordnung nach § 7 gleich.
 
-
-## § 27 – Sondervorschrift für den Straßenverkehrssektor
+# § 27 – Sondervorschrift für den Straßenverkehrssektor
 
 Beschäftigt ein Arbeitgeber mit Sitz im Ausland als Kraftverkehrsunternehmer im Sinne von Artikel 2 Nummer 3 in Verbindung mit den Nummern 1 und 2 der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates (ABl. L 300 vom 14.11.2009, S. 51), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, im Inland einen Arbeitnehmer oder eine Arbeitnehmerin als Fahrer oder Fahrerin oder Beifahrer oder Beifahrerin, so sind die Vorschriften dieses Gesetzes in seiner zuletzt durch Artikel 2 Absatz 5 des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2739) geänderten Fassung anzuwenden.
 
-
-## § 28 – Übergangsregelung für die Pflegebranche
+# § 28 – Übergangsregelung für die Pflegebranche
 
 Auf eine vor dem 29. November 2019 berufene Kommission sind § 11 Absatz 1, § 12 Absatz 1 bis 6 und § 12a nicht anwendbar. § 12 Absatz 8 ist nur insoweit anwendbar, als die jeweiligen Mitglieder ab dem 29. November 2019 ausscheiden und nach § 12 Absatz 7 benannt werden. Auf diese Kommission sind § 11 Absatz 1 und § 12 in der bis zum Ablauf des 28. November 2019 geltenden Fassung anwendbar.

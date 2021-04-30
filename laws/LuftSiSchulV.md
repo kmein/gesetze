@@ -1,10 +1,7 @@
-# [LuftSiSchulV] Luftsicherheits-Schulungsverordnung  (LuftSiSchulV)
-
-Ausfertigungsdatum: 02.04.2008
-
+% Luftsicherheits-Schulungsverordnung  (LuftSiSchulV)
+% Ausfertigungsdatum: 02.04.2008
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Flugplatzbetreiber und Luftfahrtunternehmen, die gemäß § 8 Abs. 1 Satz 1 Nr. 6, § 8 Abs. 2 oder § 9 Abs. 1 Satz 1 Nr. 3, Abs. 2 oder Abs. 4 des Luftsicherheitsgesetzes verpflichtet sind, Personal zu schulen.
 
@@ -26,8 +23,7 @@ Ausfertigungsdatum: 02.04.2008
 
 (5) Flugplatzbetreiber und Luftfahrtunternehmen bleiben auch dann für die Umsetzung und Ausführung der Schulungsmaßnahmen verantwortlich, wenn sie Eigensicherungspflichten, einschließlich der Schulung, durch andere im Auftrag vornehmen lassen.
 
-
-## § 2 – Ausbildungspersonal
+# § 2 – Ausbildungspersonal
 
 (1) Flugplatzbetreiber und Luftfahrtunternehmen erfüllen ihre Schulungsverpflichtung mit Hilfe von zugelassenen Ausbildern. Zugelassene Ausbilder müssen über die erforderliche Erfahrung und Befähigung gemäß Kapitel 12.2 Nr. 1 Buchstabe a des Anhangs der Verordnung (EG) Nr. 2320/2002 verfügen.
 
@@ -37,8 +33,7 @@ Ausfertigungsdatum: 02.04.2008
 
 (4) Liegt der zuständigen Luftsicherheitsbehörde nicht spätestens 13 Monate nach der Zulassung und erneut nach spätestens 25 Monaten ein Nachweis über die Fortbildungsunterweisung vor, soll sie die Zulassung widerrufen. Wird nach Ablauf der Befristung der Zulassung eine neue Zulassung nach Absatz 2 beantragt, so darf diese nur erteilt werden, wenn eine Fortbildungsunterweisung nach Absatz 3 Satz 1 innerhalb der letzten zwölf Monate nachgewiesen wird.
 
-
-## § 3 – Schulungen für Sicherheitspersonal und Luftsicherheitskontrollkräfte
+# § 3 – Schulungen für Sicherheitspersonal und Luftsicherheitskontrollkräfte
 
 (1) Flugplatzbetreiber und Luftfahrtunternehmen schulen Sicherheitspersonal gemäß Kapitel 12.2 Nr. 2 des Anhangs der Verordnung (EG) Nr. 2320/2002. Die Schulung muss mindestens 34 Unterrichtsstunden umfassen.
 
@@ -78,15 +73,13 @@ die nicht länger als sechs Monate zurückliegen sollen, erworben hat, oder Pers
 
 Über Zeitpunkt, Dauer und Inhalt der Fortbildung sind zu jeder Luftsicherheitskontrollkraft Nachweise zu führen und auf Verlangen der zuständigen Luftsicherheitsbehörde vorzulegen. Für Luftsicherheitskontrollkräfte, die die Mindestdauer der vorgeschriebenen Fortbildung innerhalb von zwei Jahren nicht erfüllen, wird das Befähigungszeugnis ungültig.
 
-
-## § 4 – Zusatzschulungen für Luftsicherheitskontrollkräfte für Personal- und Warenkontrollen
+# § 4 – Zusatzschulungen für Luftsicherheitskontrollkräfte für Personal- und Warenkontrollen
 
 (1) Personal, das bereits ein Befähigungszeugnis als Luftsicherheitskontrollkraft für Personal- und Warenkontrollen besitzt, kann für die Tätigkeit als Luftsicherheitskontrollkraft für Frachtkontrollen qualifiziert werden, indem die Auswertung von Röntgenbildern im Bereich von Fracht und Post geschult wird. Die Zusatzschulung muss mindestens 20 Unterrichtsstunden umfassen.
 
 (2) Die in § 3 Abs. 5 Satz 4 vorgegebene Mindestdauer für Fortbildungen verlängert sich für den Erhalt der zusätzlichen Qualifikation um jährlich vier Stunden für Fortbildung zu besonderen Bedrohungen im Bereich von Fracht und Post sowie um monatlich eine Stunde Fortbildung in der Auswertung von Röntgenbildern im Bereich von Fracht und Post. § 3 Abs. 5 Satz 5 gilt entsprechend. Ist ein Befähigungszeugnis nicht mehr gültig, so richtet sich die notwendige Fortbildung für den Erhalt des verbleibenden Befähigungszeugnisses nach § 3 Abs. 5.
 
-
-## § 5 – Zusatzschulungen für Luftsicherheitskontrollkräfte für Personalkontrollen
+# § 5 – Zusatzschulungen für Luftsicherheitskontrollkräfte für Personalkontrollen
 
 (1) Personal, das bereits ein Befähigungszeugnis als Luftsicherheitskontrollkraft für Personalkontrollen besitzt, kann für die Tätigkeit als
 
@@ -118,8 +111,7 @@ d) eine praktische Einweisung an einer Kontrollstelle für Fracht und Post vorge
 
 § 3 Abs. 5 Satz 5 gilt entsprechend. Ist ein Befähigungszeugnis nicht mehr gültig, richtet sich die notwendige Fortbildung für den Erhalt des verbleibenden Befähigungszeugnisses nach § 3 Abs. 5.
 
-
-## § 6 – Zusatzschulungen für Luftsicherheitskontrollkräfte für Frachtkontrollen
+# § 6 – Zusatzschulungen für Luftsicherheitskontrollkräfte für Frachtkontrollen
 
 (1) Personal, das bereits ein Befähigungszeugnis als Luftsicherheitskontrollkraft für Frachtkontrollen besitzt, kann für die Tätigkeit als
 
@@ -149,8 +141,7 @@ c) eine praktische Einweisung an einer Kontrollstelle vorgenommen wird.
 
 § 3 Abs. 5 Satz 5 gilt entsprechend. Ist ein Befähigungszeugnis nicht mehr gültig, richtet sich die notwendige Fortbildung für den Erhalt des verbleibenden Befähigungszeugnisses nach § 3 Abs. 5.
 
-
-## § 7 – Zusatzschulungen für Luftsicherheitsassistenten
+# § 7 – Zusatzschulungen für Luftsicherheitsassistenten
 
 (1) Personal, das bereits erfolgreich für den Einsatz nach § 5 Abs. 1 Satz 1 des Luftsicherheitsgesetzes geprüft wurde (Luftsicherheitsassistenten), kann für die Tätigkeit als
 
@@ -172,8 +163,7 @@ c) eine praktische Einweisung für Kfz-Kontrollen und Plausibilitätsprüfungen 
 
 § 3 Abs. 5 Satz 5 gilt entsprechend. Ist ein Befähigungszeugnis nicht mehr gültig, so richtet sich die notwendige Fortbildung für den Erhalt der Qualifikation als Luftsicherheitsassistent nach den Vorgaben des Bundesministeriums des Innern. Entfällt die Qualifikation als Luftsicherheitsassistent, so richtet sich die notwendige Fortbildung für den Erhalt des Befähigungszeugnisses nach § 3 Abs. 5.
 
-
-## § 8 – Schulungen für sonstiges Personal
+# § 8 – Schulungen für sonstiges Personal
 
 (1) Die Schulung des sonstigen Personals muss mindestens drei Stunden für den theoretischen Teil umfassen. Die praktische Einweisung dauert mindestens eine Stunde und erfolgt durch betriebs- oder stationsleitendes Personal oder durch den Ausbilder an Ort und Stelle. Schulung und Einweisung erfolgen gemäß Kapitel 12.3 des Anhangs der Verordnung (EG) Nr. 2320/2002 und müssen spätestens sechs Wochen nach Beginn der Tätigkeit des sonstigen Personals abgeschlossen sein. Die Schulung kann unterbleiben, sofern das sonstige Personal eine gültige Schulungsbescheinigung nach § 20 Abs. 1 besitzt.
 
@@ -181,8 +171,7 @@ c) eine praktische Einweisung für Kfz-Kontrollen und Plausibilitätsprüfungen 
 
 (3) Schulung und Einweisung müssen nach spätestens fünf Jahren wiederholt werden.
 
-
-## § 9 – Lernerfolgskontrollen, Prüfungen
+# § 9 – Lernerfolgskontrollen, Prüfungen
 
 (1) Die Ausbilder führen im Rahmen der Schulung des sonstigen Personals eine Lernerfolgskontrolle durch, über die ein Nachweis zu führen ist.
 
@@ -192,8 +181,7 @@ c) eine praktische Einweisung für Kfz-Kontrollen und Plausibilitätsprüfungen 
 
 (4) Inhalt und Umfang der Prüfung von Personal, das bereits ein Befähigungszeugnis als Luftsicherheitskontrollkraft für Personal- und Warenkontrollen besitzt oder Luftsicherheitsassistent ist und zusätzlich ein weiteres Befähigungszeugnis anstrebt, werden auf die praktischen Prüfungsteile für das angestrebte Befähigungszeugnis beschränkt.
 
-
-## § 10 – Prüfungszweck
+# § 10 – Prüfungszweck
 
 Die Prüfung von Luftsicherheitskontrollkräften dient der Feststellung, ob der Prüfling das Ziel der Ausbildung erreicht hat und in der Lage ist, selbstständig und eigenverantwortlich folgende Kontrollen durchzuführen:
 
@@ -203,8 +191,7 @@ Die Prüfung von Luftsicherheitskontrollkräften dient der Feststellung, ob der 
 
 3. Frachtkontrollen gemäß § 9 Abs. 1 Satz 1 Nr. 1 des Luftsicherheitsgesetzes.
 
-
-## § 11 – Prüfungsausschuss
+# § 11 – Prüfungsausschuss
 
 (1) Die Luftsicherheitsbehörde beruft einen Prüfungsausschuss und benennt seinen Vorsitzenden, der einer Luftsicherheitsbehörde angehören muss. Dem Prüfungsausschuss müssen mindestens zwei Prüfer angehören. Der Prüfungsvorsitzende entscheidet im Einzelfall auch, ob Beobachter zur Prüfung zugelassen werden. Vertreter anderer Luftsicherheitsbehörden werden auf deren Antrag als Beobachter zugelassen.
 
@@ -212,8 +199,7 @@ Die Prüfung von Luftsicherheitskontrollkräften dient der Feststellung, ob der 
 
 (3) Die Mitglieder des Prüfungsausschusses müssen gemäß § 2 Abs. 1 Satz 2 qualifiziert sein. Eine Zulassung gemäß § 2 Abs. 2 ist entbehrlich. Ein Ausbilder kann nicht an der Prüfung der von ihm ausgebildeten Luftsicherheitskontrollkräfte mitwirken.
 
-
-## § 12 – Zulassungsvoraussetzungen, Fristen
+# § 12 – Zulassungsvoraussetzungen, Fristen
 
 (1) Die Zulassung zur Prüfung setzt voraus:
 
@@ -227,8 +213,7 @@ Soll die Prüfung gemäß § 9 Abs. 4 auf den praktischen Teil beschränkt werde
 
 (2) Anträge auf Zulassung zur Prüfung werden der Luftsicherheitsbehörde oder der von ihr bestimmten Stelle durch den Arbeitgeber spätestens mit Beginn der jeweiligen Schulung vorgelegt. Der Arbeitgeber übergibt der Luftsicherheitsbehörde spätestens sieben Werktage vor dem Prüfungstermin eine namentliche Aufstellung der Prüflinge.
 
-
-## § 13 – Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personal- und Warenkontrollen
+# § 13 – Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personal- und Warenkontrollen
 
 (1) Die Prüfung umfasst einen theoretischen und zwei praktische Teile. Die praktische Prüfung soll innerhalb von zwei Wochen nach dem theoretischen Teil der Prüfung beendet sein.
 
@@ -248,8 +233,7 @@ Soll die Prüfung gemäß § 9 Abs. 4 auf den praktischen Teil beschränkt werde
 
 Die Einzelheiten der praktischen Prüfungsteile werden vom Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums des Innern und des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt.
 
-
-## § 14 – Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personalkontrollen
+# § 14 – Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Personalkontrollen
 
 (1) Die Prüfung umfasst einen theoretischen und einen praktischen Teil. Die praktische Prüfung soll innerhalb von zwei Wochen nach dem theoretischen Teil der Prüfung beendet sein.
 
@@ -267,8 +251,7 @@ Die Einzelheiten der praktischen Prüfungsteile werden vom Prüfungsausschuss an
 
 Die Einzelheiten des praktischen Prüfungsteils werden vom Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums des Innern und des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt.
 
-
-## § 15 – Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Frachtkontrollen
+# § 15 – Inhalt und Umfang der Prüfung von Luftsicherheitskontrollkräften für Frachtkontrollen
 
 (1) Die Prüfung umfasst einen theoretischen und zwei praktische Teile. Die praktische Prüfung soll innerhalb von zwei Wochen nach dem theoretischen Teil der Prüfung beendet sein.
 
@@ -280,13 +263,11 @@ Die Einzelheiten des praktischen Prüfungsteils werden vom Prüfungsausschuss an
 
 (5) Ein praktischer Teil der Prüfung dauert 30 Minuten. Er besteht aus der Auswertung von 30 Röntgenbildern, einschließlich Beschreibung der abgebildeten Gegenstände. Ein weiterer praktischer Teil der Prüfung dauert bis zu 30 Minuten. Er besteht aus der Prüfung von Kontrollabläufen in der Frachtkontrolle. Die Einzelheiten der praktischen Prüfungsteile werden vom Prüfungsausschuss anhand der näheren Vorgaben des Bundesministeriums des Innern und des Bundesministeriums für Verkehr und digitale Infrastruktur festgelegt.
 
-
-## § 16 – Zulassung zur praktischen Prüfung
+# § 16 – Zulassung zur praktischen Prüfung
 
 Zur praktischen Prüfung wird nur zugelassen, wer die theoretische Prüfung bestanden hat. Wer den ersten Teil der praktischen Prüfung nicht bestanden hat, wird zur weiteren praktischen Prüfung nicht zugelassen.
 
-
-## § 17 – Bewertung von Prüfungsleistungen
+# § 17 – Bewertung von Prüfungsleistungen
 
 (1) Alle Prüfungsteile müssen erfolgreich absolviert werden.
 
@@ -304,20 +285,17 @@ Zur praktischen Prüfung wird nur zugelassen, wer die theoretische Prüfung best
 
 (4) Bei der Leistungsbewertung sind die Mitglieder des Prüfungsausschusses unabhängig; bei unterschiedlichen Auffassungen entscheidet der oder die Vorsitzende.
 
-
-## § 18 – Täuschung, sonstige Verstöße
+# § 18 – Täuschung, sonstige Verstöße
 
 Hat ein Prüfling die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuches schuldig gemacht, kann der Vorsitzende die gesamte Prüfung für nicht bestanden erklären und den Prüfling bei schwerwiegenden Verstößen von einer Wiederholungsprüfung ausschließen. Eine solche Entscheidung ist nur bis zum Abschluss der gesamten Prüfung zulässig.
 
-
-## § 19 – Wiederholung der Prüfung
+# § 19 – Wiederholung der Prüfung
 
 (1) Wird ein Prüfungsteil erstmalig nicht bestanden, so kann dieser einmal innerhalb von sechs Monaten ohne erneute Schulung wiederholt werden. Die Luftsicherheitsbehörde kann in begründeten Ausnahmefällen eine weitere Wiederholung der Prüfung ohne erneute Schulung zulassen.
 
 (2) Wurde nur der theoretische Prüfungsteil oder nur der theoretische und ein praktischer Prüfungsteil bestanden, erhält der Prüfling von der Luftsicherheitsbehörde hierüber eine Bestätigung, die er bei der erneuten Anmeldung zum praktischen Prüfungsteil vorzulegen hat.
 
-
-## § 20 – Schulungsbescheinigungen, Befähigungszeugnisse, Zulassungen
+# § 20 – Schulungsbescheinigungen, Befähigungszeugnisse, Zulassungen
 
 (1) Jede Person, die alle Elemente einer Schulung besucht hat, erhält vom Ausbilder eine Schulungsbescheinigung. Die Schulungsbescheinigung nach einer Schulung für Sicherheitspersonal enthält eine Dokumentation der Lernerfolgskontrolle, die es der zuständigen Luftsicherheitsbehörde ermöglicht, ein Befähigungszeugnis oder eine Zulassung auszustellen.
 
@@ -327,13 +305,11 @@ Hat ein Prüfling die ordnungsgemäße Durchführung der Prüfung in erheblichem
 
 (4) Die zuständige Luftsicherheitsbehörde kann bei Personalengpässen, die unvorhersehbar sind und nicht anders abgewendet werden können, den Einsatz von Luftsicherheitsassistenten als Luftsicherheitskontrollkräfte für Personal- und Warenkontrollen an bis zu sieben Tagen pro Kalenderjahr bei einem Flugplatzbetreiber oder Luftfahrtunternehmen zulassen.
 
-
-## § 21 – Musterlehrpläne und Formulare
+# § 21 – Musterlehrpläne und Formulare
 
 Das Bundesministerium des Innern erstellt im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur Musterlehrpläne für die Ausbildungen nach § 3 Abs. 3 und § 8 sowie Formulare für die Ausbilderzulassung nach § 2 Abs. 2, die Bestätigung der bestandenen Theorieprüfung nach § 19 Abs. 2, die Schulungsbescheinigung nach § 20 Abs. 1 und die Ausstellung von Befähigungszeugnissen nach § 20 Abs. 2. Diese Formulare sind zu verwenden.
 
-
-## § 22 – Übergangsvorschriften
+# § 22 – Übergangsvorschriften
 
 (1) Auf Antrag des Arbeitgebers kann eine erstmalige Schulung entfallen, wenn der Antragsteller der zuständigen Luftsicherheitsbehörde innerhalb eines Jahres nach Inkrafttreten dieser Verordnung nachweist, dass gleichwertige Ausbildungen absolviert wurden. Die Luftsicherheitsbehörde stellt für gleichwertig ausgebildetes Sicherheitspersonal die Befähigungszeugnisse oder Zulassungen nach § 20 Abs. 2 Satz 1 aus. Die Auffrischungsschulung gemäß § 3 Abs. 2 muss in diesem Fall fünf Jahre nach der ursprünglichen Schulung erfolgen. Die Wiederholung von Schulung und Einweisung nach § 8 Abs. 3 muss fünf Jahre nach der ursprünglichen Schulung erfolgen.
 

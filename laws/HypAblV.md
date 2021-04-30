@@ -1,32 +1,25 @@
-# [HypAblV] Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche Fragen  (Hypothekenablöseverordnung - HypAblV)
-
-Ausfertigungsdatum: 10.06.1994
-
+% Verordnung über die Ablösung früherer Rechte und andere vermögensrechtliche Fragen  (Hypothekenablöseverordnung - HypAblV)
+% Ausfertigungsdatum: 10.06.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 40 des Vermögensgesetzes in der Fassung der Bekanntmachung vom 3. August 1992 (BGBl. I S. 1446), der durch Artikel 15 § 2 Nr. 11 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2182) eingefügt worden ist, sowie des Artikels 14 Abs. 5 Satz 6 Nr. 3 des zweiten Vermögensrechtsänderungsgesetzes vom 14. Juli 1992 (BGBl. I S. 1257), der durch Artikel 12 Nr. 1 des Gesetzes vom 22. April 1993 (BGBl. I S. 466) neu gefaßt worden ist, § 1 Abs. 4 und § 134 der Grundbuchordnung, die zuletzt durch Artikel 1 des genannten Gesetzes vom 20. Dezember 1993 geändert worden ist, und Artikel 18 Abs. 1 dieses Gesetzes verordnet das Bundesministerium der Justiz im Einvernehmen mit den Bundesministerien der Finanzen und für Raumordnung, Bauwesen und Städtebau und für Wirtschaft:
 
-
-## § 1 – Mitteilung
+# § 1 – Mitteilung
 
 In der Mitteilung nach § 32 des Vermögensgesetzes sind die früheren dinglichen Rechte, die zuletzt im Grundbuch eingetragenen Gläubiger dieser Rechte, deren Rechtsnachfolger, wenn diese dem Amt zur Regelung offener Vermögensfragen bekannt sind, die nach § 18 des Vermögensgesetzes und dieser Verordnung für die einzelnen Rechte berücksichtigten Einzelbeträge und der insgesamt zu hinterlegende Ablösebetrag anzugeben. In dem Bescheid soll auf die Möglichkeit einer einvernehmlichen Bereinigung früherer Rechte gemäß § 18 Abs. 1 Satz 4 des Vermögensgesetzes und § 3 Abs. 1 dieser Verordnung hingewiesen werden, wenn das Amt zur Regelung offener Vermögensfragen eine solche Bereinigung im Einzelfall für zweckdienlich hält. Eine Abschrift der Mitteilung ist dem betroffenen Kreditinstitut zu übersenden.
 
-
-## § 2 – Umrechnung
+# § 2 – Umrechnung
 
 (1) Mark der DDR, Mark der deutschen Notenbank, Renten-, Reichs- oder Goldmark oder vergleichbare Währungsbezeichnungen sind in den Fällen des § 16 Abs. 5 bis 9 und des § 18 des Vermögensgesetzes im Verhältnis 2 zu 1 auf Deutsche Mark umzurechnen. Für ausländische Währungen findet § 244 Abs. 2 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Für wertbeständige Rechte (§ 1 Abs. 1 Satz 1 des Grundbuchbereinigungsgesetzes) finden im übrigen die jeweiligen Umrechnungsvorschriften Anwendung; eine von den allgemeinen Vorschriften abweichende Umstellung im Rahmen landwirtschaftlicher Entschuldungsverfahren ist vom Berechtigten nachzuweisen.
 
-(2) Für die Bewertung und Kapitalisierung von Rechten, die auf Erbringung wiederkehrender Leistungen aus dem Grundstück gerichtet sind, sind, wenn nicht eine Ablösesumme vertraglich vereinbart ist, die §§ 15 bis 17 des Reichsbewertungsgesetzes vom 16. Oktober 1934 (RGBl. I S. 1035) in der Fassung des Bewertungsgesetzes der Deutschen Demokratischen Republik vom 18. September 1970 (GBl. Sonderdruck Nr. 674)\*) maßgeblich.  
------
+(2) Für die Bewertung und Kapitalisierung von Rechten, die auf Erbringung wiederkehrender Leistungen aus dem Grundstück gerichtet sind, sind, wenn nicht eine Ablösesumme vertraglich vereinbart ist, die §§ 15 bis 17 des Reichsbewertungsgesetzes vom 16. Oktober 1934 (RGBl. I S. 1035) in der Fassung des Bewertungsgesetzes der Deutschen Demokratischen Republik vom 18. September 1970 (GBl. Sonderdruck Nr. 674)\*) maßgeblich. -----
 
 \*)
 
 Der Wortlaut des Reichsbewertungsgesetzes vom 16. Oktober 1934 (RGBl. I S. 1035) in der Fassung des Bewertungsgesetzes der Deutschen Demokratischen Republik vom 18. September 1970 (GBl. Sonderdruck Nr. 674) ist auch im Bundesanzeiger Nr. 117a vom 27. Juni 1995 abgedruckt.
 
-
-## § 3 – Kürzung und Entfallen von Einzelbeträgen
+# § 3 – Kürzung und Entfallen von Einzelbeträgen
 
 (1) In den Fällen des § 18 Abs. 1 Satz 4 des Vermögensgesetzes darf die Berücksichtigung eines Einzelbetrages nur unterbleiben, wenn das Amt zur Regelung offener Vermögensfragen als Vertreter der Interessen des Entschädigungsfonds zustimmt und die Berechtigung des Begünstigten zweifelsfrei nachgewiesen wurde.
 
@@ -34,8 +27,7 @@ Der Wortlaut des Reichsbewertungsgesetzes vom 16. Oktober 1934 (RGBl. I S. 1035)
 
 (3) Auf Antrag des Berechtigten sind die Einzelbeträge angemessen zu kürzen, wenn die volle Berücksichtigung unbillig erscheint. Dies ist insbesondere der Fall, wenn nur ein Teil des früher belasteten Grundstücks zurückübertragen wird oder nicht alle früher mit einem Gesamtrecht belasteten Grundstücke zurückübertragen werden und die Abweichung nicht nur geringfügig ist oder wenn ein Miteigentumsanteil zurückübertragen wird, der vor der Überführung des Grundstücks in Volkseigentum durch den staatlichen Verwalter mit Aufbauhypotheken oder sonstigen Grundpfandrechten zur Sicherung von Baukrediten belastet wurde und die zugrundeliegende Kreditaufnahme dem Gesamtgrundstück zugute kam. Die Sätze 1 und 2 gelten für die Bestimmung des zu übernehmenden Teils von Grundpfandrechten gemäß § 16 Abs. 5 bis 9 des Vermögensgesetzes entsprechend.
 
-
-## § 4 – Verfahren bei Veräußerung des Grundstücks und bei Ablösung von Rechten
+# § 4 – Verfahren bei Veräußerung des Grundstücks und bei Ablösung von Rechten
 
 (1) Veräußert der Verfügungsberechtigte ein ehemals volkseigenes Grundstück und steht dem Berechtigten aufgrund gesetzlicher Vorschriften oder vertraglicher Vereinbarungen der Verkaufserlös oder ein Anspruch auf Ersatz des Verkehrswertes im Zusammenhang mit der Veräußerung des Grundstücks zu, so stellt das Amt zur Regelung offener Vermögensfragen auf Antrag des Berechtigten dessen Berechtigung fest und setzt die nach den §§ 7, 7a und 18 des Vermögensgesetzes zu zahlenden oder zu hinterlegenden Beträge fest. § 32 Abs. 1 und § 33 Abs. 5a des Vermögensgesetzes gelten entsprechend. Der Veräußerungserlös oder der Verkehrswert darf erst dann an den Berechtigten ausgezahlt werden, wenn die Feststellung seiner Berechtigung unanfechtbar ist und die festgesetzten Zahlungsansprüche erfüllt sind oder hierfür Sicherheit geleistet sowie die nach § 349 Abs. 3c des Lastenausgleichsgesetzes festgesetzte Sicherheit erbracht worden ist. Dem Verfügungsberechtigten ist durch Bescheid aufzugeben,
 
@@ -59,27 +51,23 @@ Der Wortlaut des Reichsbewertungsgesetzes vom 16. Oktober 1934 (RGBl. I S. 1035)
 
 (7) Gilt ein Briefgrundpfandrecht nach § 16 Abs. 9 Satz 1 des Vermögensgesetzes oder nach § 41 Abs. 6 Satz 2 und 3 des Vermögensgesetzes als erloschen oder als nicht entstanden, so bedarf es zum Vollzug der Löschung im Grundbuch nicht der Vorlage des Briefes.
 
-
-## § 5 – Zustellung
+# § 5 – Zustellung
 
 (1) Entscheidungen, durch die ein Ablösebetrag gemäß § 18 des Vermögensgesetzes festgesetzt wird, und Auszahlungsbescheide des Entschädigungsfonds gemäß § 18b Abs. 1 Satz 5 des Vermögensgesetzes können den Gläubigern der Grundpfandrechte und den Begünstigten im Sinne des § 18b Abs. 1 Satz 1 des Vermögensgesetzes durch öffentliche Bekanntmachung nach Maßgabe des § 10 Abs. 2 des Verwaltungszustellungsgesetzes zugestellt werden, wenn der Aufenthaltsort oder die Person des Begünstigten unbekannt und nur unter unverhältnismäßigen Schwierigkeiten zu ermitteln ist; ist die Person des Begünstigten unbekannt, sind in der Benachrichtigung Name und die letzte bekannte Anschrift des ehemaligen Rechtsinhabers anzugeben.
 
 (2) Ist der Empfänger einer Zustellung nicht im Inland ansässig oder vertreten, so erfolgt die Zustellung, sofern nicht besondere völkervertragliche Regelungen etwas Abweichendes vorschreiben, nach Absendung einer Abschrift des Bescheides durch Aufgabe des Bescheides zur Post mit Einschreiben; die Zustellung gilt nach Ablauf von zwei Wochen ab der Aufgabe zur Post als erfolgt.
 
-
-## § 6 – Grundsatz
+# § 6 – Grundsatz
 
 (1) Sicherheit nach den Vorschriften des Vermögensgesetzes kann durch Hinterlegung bei der gemäß § 18a dieses Gesetzes zuständigen Stelle oder durch Beibringung einer Garantie oder eines sonstigen Zahlungsversprechens eines Kreditinstitutes geleistet werden.
 
 (2) Sicherheit ist in Höhe des in der angefochtenen Entscheidung festgesetzten Betrages zu leisten.
 
-
-## § 7 – Hinterlegung
+# § 7 – Hinterlegung
 
 Leistet der Berechtigte für einen festgesetzten Betrag Sicherheit durch Hinterlegung, kann er die Differenz zwischen dem hinterlegten und dem bestandskräftig festgesetzten Betrag von der Hinterlegungsstelle herausverlangen.
 
-
-## § 8 – Garantie oder sonstiges Zahlungsversprechen
+# § 8 – Garantie oder sonstiges Zahlungsversprechen
 
 (1) Sicherheit durch Beibringung einer Garantie oder eines sonstigen Zahlungsversprechens eines Kreditinstitutes ist dadurch zu leisten, daß sich das Kreditinstitut gegenüber dem Amt zur Regelung offener Vermögensfragen unwiderruflich dazu verpflichtet, auf erstes Anfordern des Amtes zur Regelung offener Vermögensfragen einen Betrag bis zu der in dem angefochtenen Bescheid festgesetzten Höhe
 
@@ -91,18 +79,15 @@ Leistet der Berechtigte für einen festgesetzten Betrag Sicherheit durch Hinterl
 
 (3) In den Fällen des § 349 Abs. 3a bis 3c des Lastenausgleichsgesetzes gelten die Absätze 2 und 3 mit der Maßgabe entsprechend, daß an die Stelle des Amtes zur Regelung offener Vermögensfragen das zuständige Ausgleichsamt tritt.
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
-
-## § 10 – Überleitungsvorschrift
+# § 10 – Überleitungsvorschrift
 
 Diese Verordnung ist auch auf Verfahren anzuwenden, die vor ihrem Inkrafttreten begonnen haben, aber noch nicht bestandskräftig entschieden sind. Entscheidungen, deren Zustellung vor Inkrafttreten dieser Verordnung entsprechend § 5 betrieben worden ist, gelten als am 1. August 1994 zugestellt.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 4. Juli 1994 in Kraft.
 
@@ -110,7 +95,6 @@ Diese Verordnung ist auch auf Verfahren anzuwenden, die vor ihrem Inkrafttreten 
 
 (3)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,10 +1,7 @@
-# [AtG] Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren  (Atomgesetz)
-
-Ausfertigungsdatum: 23.12.1959
-
+% Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren  (Atomgesetz)
+% Ausfertigungsdatum: 23.12.1959
  
-
-## § 1 – Zweckbestimmung des Gesetzes
+# § 1 – Zweckbestimmung des Gesetzes
 
 Zweck dieses Gesetzes ist,
 
@@ -16,8 +13,7 @@ Zweck dieses Gesetzes ist,
 
 4. die Erfüllung internationaler Verpflichtungen der Bundesrepublik Deutschland auf dem Gebiet der Kernenergie und des Strahlenschutzes zu gewährleisten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Radioaktive Stoffe (Kernbrennstoffe und sonstige radioaktive Stoffe) im Sinne dieses Gesetzes sind alle Stoffe, die ein Radionuklid oder mehrere Radionuklide enthalten und deren Aktivität oder spezifische Aktivität im Zusammenhang mit der Kernenergie oder dem Strahlenschutz nach den Regelungen dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nicht außer Acht gelassen werden kann. Kernbrennstoffe sind besondere spaltbare Stoffe in Form von
 
@@ -82,8 +78,7 @@ c) das Aufsuchen, die Gewinnung und die Aufbereitung von Bodenschätzen im Sinne
 
 (8) Wiener Übereinkommen bedeutet das Wiener Übereinkommen vom 21. Mai 1963 über die zivilrechtliche Haftung für nukleare Schäden (BGBl. 2001 II S. 202, 207) in der für die Vertragsparteien dieses Übereinkommens jeweils geltenden Fassung.
 
-
-## § 2a – Umweltverträglichkeitsprüfung
+# § 2a – Umweltverträglichkeitsprüfung
 
 (1) Besteht nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung für Vorhaben, die einer Genehmigung oder Planfeststellung nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung bedürfen (UVP-pflichtige Vorhaben), ist die Umweltverträglichkeitsprüfung unselbständiger Teil der Verfahren zur Erteilung der nach diesem Gesetz oder der nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung erforderlichen Genehmigung oder Planfeststellung. Die Umweltverträglichkeitsprüfung ist nach den Vorschriften des § 7 Abs. 4 Satz 1 und 2 und der Rechtsverordnung nach § 7 Abs. 4 Satz 3 über den Gegenstand der Umweltverträglichkeitsprüfung, die Antragsunterlagen, die Bekanntmachung des Vorhabens und des Erörterungstermins, die Auslegung und Zugänglichmachung, auch über das einschlägige zentrale Internetportal nach dem Gesetz über die Umweltverträglichkeitsprüfung von Antragsunterlagen, die Erhebung von Einwendungen, die Beteiligung von Behörden, die Durchführung des Erörterungstermins, den Inhalt des Genehmigungsbescheids und die Zustellung, öffentliche Bekanntmachung und Zugänglichmachung, auch über das einschlägige zentrale Internetportal nach dem Gesetz über die Umweltverträglichkeitsprüfung der Entscheidung durchzuführen. § 31 des Gesetzes über die Umweltverträglichkeitsprüfung sowie § 9b Abs. 2 und 5 Nr. 1 bleiben unberührt.
 
@@ -91,8 +86,7 @@ c) das Aufsuchen, die Gewinnung und die Aufbereitung von Bodenschätzen im Sinne
 
 (2) Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen nach Durchführung einer Umweltverträglichkeitsprüfung erlassenen Verwaltungsakt zum Gegenstand hat, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
-
-## § 2b – Elektronische Kommunikation
+# § 2b – Elektronische Kommunikation
 
 (1) Die Vorschriften des Verwaltungsverfahrensgesetzes über die elektronische Kommunikation finden Anwendung, soweit nicht durch Rechtsvorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung etwas anderes bestimmt ist.
 
@@ -100,8 +94,7 @@ c) das Aufsuchen, die Gewinnung und die Aufbereitung von Bodenschätzen im Sinne
 
 (3) Erfolgt die Antragstellung in elektronischer Form, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
-
-## § 2c – Nationales Entsorgungsprogramm
+# § 2c – Nationales Entsorgungsprogramm
 
 (1) Die Bundesregierung legt in einem Nationalen Entsorgungsprogramm dar, wie die nationale Strategie für eine verantwortungsvolle und sichere Entsorgung abgebrannter Brennelemente und radioaktiver Abfälle umgesetzt werden soll.
 
@@ -143,8 +136,7 @@ Das Nationale Entsorgungsprogramm kann in einem oder in mehreren Dokumenten nied
 
 Die Übermittlung des Auskunftsverlangens nach diesem Absatz an die Auskunftsverpflichteten und der erteilten Auskünfte an das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium erfolgt über die zuständigen Behörden der Länder.
 
-
-## § 2d – Grundsätze der nuklearen Entsorgung
+# § 2d – Grundsätze der nuklearen Entsorgung
 
 Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende Grundsätze:
 
@@ -160,8 +152,7 @@ Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende Grundsätz
 
 6. in Bezug auf alle Stufen der Entsorgung abgebrannter Brennelemente und radioaktiver Abfälle wird ein faktengestützter und dokumentierter Entscheidungsprozess angewendet.
 
-
-## § 3 – Einfuhr und Ausfuhr
+# § 3 – Einfuhr und Ausfuhr
 
 (1) Wer Kernbrennstoffe einführt oder ausführt, bedarf der Genehmigung.
 
@@ -183,8 +174,7 @@ Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende Grundsätz
 
 (6) Die Erteilung einer Genehmigung zur Ausfuhr von aus dem Betrieb von Anlagen zur Spaltung von Kernbrennstoffen zu Forschungszwecken stammenden bestrahlten Brennelementen darf nur aus schwerwiegenden Gründen der Nichtverbreitung von Kernbrennstoffen oder aus Gründen einer ausreichenden Versorgung deutscher Forschungsreaktoren mit Brennelementen für medizinische und sonstige Zwecke der Spitzenforschung erfolgen. Davon ausgenommen ist die Verbringung der Brennelemente nach Satz 1 mit dem Ziel der Herstellung in Deutschland endlagerfähiger und endzulagernder Abfallgebinde. Abweichend von Satz 1 darf eine Genehmigung zur Ausfuhr bestrahlter Brennelemente nach Satz 1 nicht erteilt werden, wenn diese Brennelemente auf der Grundlage einer Genehmigung nach § 6 im Inland zwischengelagert sind.
 
-
-## § 4 – Beförderung von Kernbrennstoffen
+# § 4 – Beförderung von Kernbrennstoffen
 
 (1) Die Beförderung von Kernbrennstoffen außerhalb eines abgeschlossenen Geländes, auf dem Kernbrennstoffe staatlich verwahrt werden oder eine nach den §§ 6, 7 und 9 genehmigte Tätigkeit ausgeübt wird, bedarf der Genehmigung. Diese wird dem Absender oder demjenigen erteilt, der es übernimmt, die Versendung oder Beförderung der Kernbrennstoffe zu besorgen.
 
@@ -212,8 +202,7 @@ Das Nationale Entsorgungsprogramm nach § 2c berücksichtigt folgende Grundsätz
 
 (6) Absatz 5 Satz 1 gilt nicht für die Beförderung mit der Eisenbahn durch einen Eisenbahnunternehmer. Im übrigen bleiben die für die jeweiligen Verkehrsträger geltenden Rechtsvorschriften über die Beförderung gefährlicher Güter unberührt.
 
-
-## § 4a – Deckungsvorsorge bei grenzüberschreitender Beförderung
+# § 4a – Deckungsvorsorge bei grenzüberschreitender Beförderung
 
 (1) Die nach § 4 Abs. 2 Nr. 4 erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen ist vorbehaltlich der Absätze 3 und 4 bei der grenzüberschreitenden Beförderung von Kernbrennstoffen getroffen, wenn sich die nach Artikel 4 Abs. c des Pariser Übereinkommens erforderliche Bescheinigung über die Deckungsvorsorge auf den Inhaber einer in einem Vertragsstaat des Pariser Übereinkommens gelegenen Kernanlage bezieht.
 
@@ -229,15 +218,13 @@ Eine sonstige finanzielle Sicherheit kann anstelle der Versicherung zugelassen w
 
 (4) Im Falle der Einfuhr oder Ausfuhr von Kernbrennstoffen aus einem oder in einen anderen Vertragsstaat des Pariser Übereinkommens, für den das Brüsseler Zusatzübereinkommen nicht in Kraft getreten ist, kann die Genehmigung nach § 4 davon abhängig gemacht werden, daß der Inhaber der im Inland gelegenen Kernanlage, zu oder von der die Kernbrennstoffe befördert werden sollen, die Haftung für nukleare Ereignisse, die im Verlaufe der Beförderung im Inland eintreten, nach den Vorschriften dieses Gesetzes übernimmt, wenn der in dem anderen Vertragsstaat des Pariser Übereinkommens vorgesehene Haftungshöchstbetrag im Hinblick auf die Menge und Beschaffenheit der Kernbrennstoffe sowie die getroffenen Sicherheitsmaßnahmen nicht angemessen ist.
 
-
-## § 4b – Beförderung von Kernmaterialien in besonderen Fällen
+# § 4b – Beförderung von Kernmaterialien in besonderen Fällen
 
 (1) Wer Kernmaterialien befördert, ohne einer Genehmigung nach § 4 zu bedürfen, hat vor Beginn der Beförderung der zuständigen Behörde die erforderliche Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nachzuweisen. Reicht die angebotene Vorsorge nicht aus, so hat die Verwaltungsbehörde die erforderliche Deckungsvorsorge nach den Grundsätzen des § 13 Abs. 2 Nr. 1 festzusetzen. § 4 Abs. 5 Satz 2 und 3 und § 4a sind anzuwenden.
 
 (2) Absatz 1 ist nicht anzuwenden, soweit es sich um die Beförderung von Kernmaterialien handelt, die in Anlage 2 zu diesem Gesetz bezeichnet sind.
 
-
-## § 5 – Berechtigung zum Besitz von Kernbrennstoffen; staatliche Verwahrung
+# § 5 – Berechtigung zum Besitz von Kernbrennstoffen; staatliche Verwahrung
 
 (1) Zum Besitz von Kernbrennstoffen ist berechtigt, wer auf Grund einer nach diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung erteilten Genehmigung mit Kernbrennstoffen umgeht oder Kernbrennstoffe befördert, insbesondere Kernbrennstoffe
 
@@ -265,8 +252,7 @@ Zum Besitz von Kernbrennstoffen berechtigt auch eine Anordnung nach § 19 Abs. 3
 
 (8) Die Absätze 1 bis 7 gelten nicht für Kernbrennstoffe, die in radioaktiven Abfällen enthalten sind.
 
-
-## § 6 – Genehmigung zur Aufbewahrung von Kernbrennstoffen
+# § 6 – Genehmigung zur Aufbewahrung von Kernbrennstoffen
 
 (1) Wer Kernbrennstoffe außerhalb der staatlichen Verwahrung aufbewahrt, bedarf der Genehmigung. Einer Genehmigung bedarf ferner, wer eine genehmigte Aufbewahrung wesentlich verändert.
 
@@ -286,8 +272,7 @@ Zum Besitz von Kernbrennstoffen berechtigt auch eine Anordnung nach § 19 Abs. 3
 
 (5) Die Aufbewahrung von Kernbrennstoffen in kerntechnischen Anlagen nach Absatz 3 in Verbindung mit Absatz 1 soll 40 Jahre ab Beginn der ersten Einlagerung eines Behälters nicht überschreiten. Eine Verlängerung von Genehmigungen nach Satz 1 darf nur aus unabweisbaren Gründen und nach der vorherigen Befassung des Deutschen Bundestages erfolgen.
 
-
-## § 7 – Genehmigung von Anlagen
+# § 7 – Genehmigung von Anlagen
 
 (1) Wer eine ortsfeste Anlage zur Erzeugung oder zur Bearbeitung oder Verarbeitung oder zur Spaltung von Kernbrennstoffen oder zur Aufarbeitung bestrahlter Kernbrennstoffe errichtet, betreibt oder sonst innehat oder die Anlage oder ihren Betrieb wesentlich verändert, bedarf der Genehmigung. Für die Errichtung und den Betrieb von Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität und von Anlagen zur Aufarbeitung bestrahlter Kernbrennstoffe werden keine Genehmigungen erteilt. Dies gilt nicht für wesentliche Veränderungen von Anlagen oder ihres Betriebs.
 
@@ -353,20 +338,17 @@ Der Genehmigungsinhaber hat in der ersten monatlichen Mitteilung über die erzeu
 § 7 Abs. 1c Satz 1 Nr. 1: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 8.12.2010 I 1814 mWv 14.12.2010 u. d. Art. 1 Nr. 1 Buchst. c DBuchst. aa G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)  
 § 7 Abs. 1c Satz 4: IdF d. Art. 1 Nr. 1 Buchst. c DBuchst. bb G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)
 
-
-## § 7a – Vorbescheid
+# § 7a – Vorbescheid
 
 (1) Auf Antrag kann zu einzelnen Fragen, von denen die Erteilung der Genehmigung einer Anlage nach § 7 abhängt, insbesondere zur Wahl des Standorts einer Anlage, ein Vorbescheid erlassen werden. Der Vorbescheid wird unwirksam, wenn der Antragsteller nicht innerhalb von zwei Jahren nach Eintritt der Unanfechtbarkeit die Genehmigung beantragt; die Frist kann auf Antrag bis zu zwei Jahren verlängert werden.
 
 (2) § 7 Abs. 4 und 5 sowie die §§ 17 und 18 gelten entsprechend.
 
-
-## § 7b – Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
+# § 7b – Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
 
 Soweit in einer Teilgenehmigung oder in einem Vorbescheid über einen Antrag nach § 7 oder § 7a entschieden worden und diese Entscheidung unanfechtbar geworden ist, können in einem weiteren Verfahren zur Genehmigung der Anlage Einwendungen Dritter nicht mehr auf Grund von Tatsachen erhoben werden, die schon vorgebracht waren oder von dem Dritten nach den ausgelegten Unterlagen oder dem ausgelegten Bescheid hätten vorgebracht werden können.
 
-
-## § 7c – Pflichten des Genehmigungsinhabers
+# § 7c – Pflichten des Genehmigungsinhabers
 
 (1) Die Verantwortung für die nukleare Sicherheit obliegt dem Inhaber der Genehmigung für die kerntechnische Anlage. Diese Verantwortung kann nicht delegiert werden und erstreckt sich auch auf die Tätigkeiten der Auftragnehmer und Unterauftragnehmer, deren Tätigkeiten die nukleare Sicherheit einer kerntechnischen Anlage beeinträchtigen könnten.
 
@@ -394,13 +376,11 @@ Soweit in einer Teilgenehmigung oder in einem Vorbescheid über einen Antrag nac
 
 Die organisatorischen Vorkehrungen des anlageninternen Notfallschutzes müssen die eindeutige Zuweisung von Zuständigkeiten, die Koordinierung mit den zuständigen Behörden sowie Vorkehrungen zur Annahme externer Unterstützung beinhalten. Bei den Verfahren und Vorkehrungen für den anlageninternen Notfallschutz hat der Genehmigungsinhaber Planungen und Maßnahmen des anlagenexternen Notfallschutzes zu berücksichtigen.
 
-
-## § 7d – Weitere Vorsorge gegen Risiken
+# § 7d – Weitere Vorsorge gegen Risiken
 
 Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität hat entsprechend dem fortschreitenden Stand von Wissenschaft und Technik dafür zu sorgen, dass die Sicherheitsvorkehrungen verwirklicht werden, die jeweils entwickelt, geeignet und angemessen sind, um zusätzlich zu den Anforderungen des § 7 Absatz 2 Nummer 3 einen nicht nur geringfügigen Beitrag zur weiteren Vorsorge gegen Risiken für die Allgemeinheit zu leisten.
 
-
-## § 7e – Ausgleich für Investitionen
+# § 7e – Ausgleich für Investitionen
 
 (1) Wer als Eigentümer einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität oder als Inhaber einer Genehmigung zum Betrieb einer solchen Anlage nachweist, in der Zeit vom 28. Oktober 2010 bis zum 16. März 2011 im Vertrauen auf die durch das Elfte Gesetz zur Änderung des Atomgesetzes vom 8. Dezember 2010 (BGBl. I S. 1814) geschaffene Rechtslage zum Zweck der Erzeugung der für das Kernkraftwerk in Anlage 3 Spalte 4 zusätzlich zugewiesenen Elektrizitätsmengen im erforderlichen Umfang Investitionen in das Kernkraftwerk getätigt zu haben, hat Anspruch auf einen angemessenen Ausgleich in Geld, soweit die Investitionen allein auf Grund des Entzugs der zusätzlichen Elektrizitätsmengen durch das Dreizehnte Gesetz zur Änderung des Atomgesetzes vom 31. Juli 2011 (BGBl. I S. 1704) wertlos geworden sind.
 
@@ -418,8 +398,7 @@ Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbren
 
 § 7e: Eingef. durch Art. 1 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
 
-
-## § 7f – Ausgleich für Elektrizitätsmengen
+# § 7f – Ausgleich für Elektrizitätsmengen
 
 (1) Die Genehmigungsinhaber der Kernkraftwerke Brunsbüttel, Krümmel und Mülheim-Kärlich haben einen Anspruch auf angemessenen Ausgleich in Geld, soweit die diesen Kernkraftwerken nach Anlage 3 Spalte 2 ursprünglich zugewiesenen Elektrizitätsmengen bis zum Ablauf des 31. Dezember 2022 nicht erzeugt und nicht auf ein anderes Kernkraftwerk übertragen werden. Der Ausgleich ist begrenzt für das Kernkraftwerk Brunsbüttel auf zwei Drittel und für das Kernkraftwerk Krümmel auf die Hälfte der Elektrizitätsmengen nach Satz 1. Der Ausgleich setzt voraus, dass der Ausgleichsberechtigte nachweist, dass er sich unverzüglich nach dem 4. Juli 2018 bis zum Ablauf des 31. Dezember 2022 ernsthaft um eine Übertragung der ausgleichsfähigen Elektrizitätsmengen auf Grund von § 7 Absatz 1b zu angemessenen Bedingungen bemüht hat.
 
@@ -437,8 +416,7 @@ Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbren
 
 § 7e: Eingef. durch Art. 1 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
 
-
-## § 7g – Verwaltungsverfahren
+# § 7g – Verwaltungsverfahren
 
 (1) Ein Ausgleich nach § 7e ist innerhalb eines Jahres ab dem 4. Juli 2018 schriftlich bei dem für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministerium zu beantragen. Wird der Ausgleich nicht innerhalb dieser Frist beantragt, verfällt der Anspruch. Der Ausgleichsberechtigte hat insbesondere Nachweise zu erbringen zu Vertragsschlüssen, Bestellungen, Kündigungen, Stornierungen, Zahlungen und Rückerstattungen von Zahlungen sowie Erklärungen zu gezogenen Steuervorteilen vorzulegen. Ein Ausgleich wird durch schriftlichen Bescheid des für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministeriums im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie festgesetzt.
 
@@ -454,8 +432,7 @@ Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbren
 
 § 7e: Eingef. durch Art. 1 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
 
-
-## § 8 – Verhältnis zum Bundes-Immissionsschutzgesetz und zum Produktsicherheitsgesetz
+# § 8 – Verhältnis zum Bundes-Immissionsschutzgesetz und zum Produktsicherheitsgesetz
 
 (1) Die Vorschriften des Bundes-Immissionsschutzgesetzes über genehmigungsbedürftige Anlagen sowie über die Untersagung der ferneren Benutzung solcher Anlagen finden auf genehmigungspflichtige Anlagen im Sinne des § 7 keine Anwendung, soweit es sich um den Schutz vor den Gefahren der Kernenergie oder der schädlichen Wirkung ionisierender Strahlen handelt.
 
@@ -463,8 +440,7 @@ Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbren
 
 (3) Für überwachungsbedürftige Anlagen nach § 2 Nummer 30 des Produktsicherheitsgesetzes, die in genehmigungspflichtigen Anlagen im Sinne des § 7 Verwendung finden, kann die Genehmigungsbehörde im Einzelfall Ausnahmen von den geltenden Rechtsvorschriften über die Errichtung und den Betrieb überwachungsbedürftiger Anlagen zulassen, soweit dies durch die besondere technische Eigenart der Anlagen nach § 7 bedingt ist.
 
-
-## § 9 – Bearbeitung, Verarbeitung und sonstige Verwendung von Kernbrennstoffen außerhalb genehmigungspflichtiger Anlagen
+# § 9 – Bearbeitung, Verarbeitung und sonstige Verwendung von Kernbrennstoffen außerhalb genehmigungspflichtiger Anlagen
 
 (1) Wer Kernbrennstoffe außerhalb von Anlagen der in § 7 bezeichneten Art bearbeitet, verarbeitet oder sonst verwendet, bedarf der Genehmigung. Einer Genehmigung bedarf ferner, wer von dem in der Genehmigungsurkunde festgelegten Verfahren für die Bearbeitung, Verarbeitung oder sonstige Verwendung wesentlich abweicht oder die in der Genehmigungsurkunde bezeichnete Betriebsstätte oder deren Lage wesentlich verändert.
 
@@ -482,8 +458,7 @@ Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbren
 
 6. überwiegende öffentliche Interessen, insbesondere im Hinblick auf die Reinhaltung des Wassers, der Luft und des Bodens, der Wahl des Ortes der Verwendung von Kernbrennstoffen nicht entgegenstehen.
 
-
-## § 9a – Verwertung radioaktiver Reststoffe und Beseitigung radioaktiver Abfälle
+# § 9a – Verwertung radioaktiver Reststoffe und Beseitigung radioaktiver Abfälle
 
 (1) Wer Anlagen, in denen mit Kernbrennstoffen umgegangen wird, errichtet, betreibt, sonst innehat, wesentlich verändert, stillegt oder beseitigt, außerhalb solcher Anlagen mit radioaktiven Stoffen umgeht oder Anlagen zur Erzeugung ionisierender Strahlung im Sinne des § 5 Absatz 2 des Strahlenschutzgesetzes betreibt, hat dafür zu sorgen, daß anfallende radioaktive Reststoffe sowie ausgebaute oder abgebaute radioaktive Anlagenteile den in § 1 Nr. 2 bis 4 bezeichneten Zwecken entsprechend schadlos verwertet oder als radioaktive Abfälle geordnet beseitigt werden (direkte Endlagerung); die Pflicht nach Satz 1 erster Halbsatz kann an einen vom Bund mit der Wahrnehmung der Zwischenlagerung beauftragten Dritten nach § 2 Absatz 1 Satz 1 des Entsorgungsübergangsgesetzes übergehen. Die Abgabe von aus dem Betrieb von Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität stammenden bestrahlten Kernbrennstoffen zur schadlosen Verwertung an eine Anlage zur Aufarbeitung bestrahlter Kernbrennstoffe ist vom 1. Juli 2005 an unzulässig.
 
@@ -505,8 +480,7 @@ Der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbren
 
 (4) (weggefallen)
 
-
-## § 9b – Zulassungsverfahren
+# § 9b – Zulassungsverfahren
 
 (1) Die Errichtung, der Betrieb und die Stilllegung der in § 9a Abs. 3 genannten Anlagen des Bundes sowie die wesentliche Veränderung solcher Anlagen oder ihres Betriebes bedürfen der Planfeststellung. Auf Antrag kann das Vorhaben in Stufen durchgeführt und dementsprechend können Teilplanfeststellungsbeschlüsse erteilt werden, wenn eine vorläufige Prüfung ergibt, dass die Voraussetzungen nach Absatz 4 im Hinblick auf die Errichtung, den Betrieb der gesamten Anlage und die Stilllegung vorliegen werden. § 74 Abs. 6 des Verwaltungsverfahrensgesetzes gilt mit der Maßgabe, daß die zuständige Behörde nur dann auf Antrag oder von Amts wegen an Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilen kann, wenn die wesentliche Veränderung der in Satz 1 genannten Anlagen oder ihres Betriebes beantragt wird und die Veränderung keine erheblichen nachteiligen Auswirkungen auf ein in § 2 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung genanntes Schutzgut haben kann. § 76 des Verwaltungsverfahrensgesetzes findet keine Anwendung.
 
@@ -538,20 +512,17 @@ Durch die Genehmigung wird die Zulässigkeit des Vorhabens im Hinblick auf alle 
 
 4. § 7b dieses Gesetzes sowie § 18 der Atomrechtlichen Verfahrensverordnung gelten entsprechend für Teilplanfeststellungsbeschlüsse für Anlagen des Bundes nach § 9a Absatz 3.
 
-
-## § 9c – Landessammelstellen
+# § 9c – Landessammelstellen
 
 Für das Lagern oder Bearbeiten radioaktiver Abfälle in Landessammelstellen nach § 9a Abs. 3 Satz 1 erster Halbsatz sind die für den Umgang mit diesen radioaktiven Stoffen geltenden Genehmigungsvorschriften dieses Gesetzes, des Strahlenschutzgesetzes und der auf Grund dieser Gesetze erlassenen Rechtsverordnungen anwendbar.
 
-
-## § 9d – Enteignung
+# § 9d – Enteignung
 
 (1) Für Zwecke der Errichtung und des Betriebs von Anlagen zur Endlagerung radioaktiver Abfälle sowie für Zwecke der Vornahme wesentlicher Veränderungen solcher Anlagen oder ihres Betriebs ist die Enteignung zulässig, soweit sie zur Ausführung eines nach § 9b festgestellten oder genehmigten Plans notwendig ist.
 
 (2) Die Enteignung ist ferner zulässig für Zwecke der vorbereitenden Standorterkundung für Anlagen zur Endlagerung radioaktiver Abfälle, soweit sie zur Durchführung von Erkundungsmaßnahmen auf der Grundlage der Vorschriften des Bundesberggesetzes sowie zu deren Offenhaltung ab der Entscheidung über eine übertägige Erkundung nach § 15 Absatz 3 des Standortauswahlgesetzes notwendig ist. Die Enteignung ist insbesondere dann zur Durchführung von Erkundungsmaßnahmen notwendig, wenn die Eignung bestimmter geologischer Formationen als Endlagerstätte für radioaktive Abfälle ohne die Enteignung nicht oder nicht in dem erforderlichen Umfang untersucht werden könnte oder wenn die Untersuchung der Eignung ohne die Enteignung erheblich behindert, verzögert oder sonst erschwert würde. Die besonderen Vorschriften des Bundesberggesetzes über die Zulegung und die Grundabtretung sowie über sonstige Eingriffe in Rechte Dritter für bergbauliche Zwecke bleiben unberührt.
 
-
-## § 9e – Gegenstand und Zulässigkeit der Enteignung; Entschädigung
+# § 9e – Gegenstand und Zulässigkeit der Enteignung; Entschädigung
 
 (1) Durch die Enteignung nach § 9d können
 
@@ -573,8 +544,7 @@ Grundstücksteile stehen Grundstücken nach Satz 1 gleich.
 
 (5) Für Rechtsbehelfe gegen Entscheidungen der Enteignungsbehörde gelten die §§ 217 bis 231 des Baugesetzbuches. Rechtsbehelfe gegen Beschlüsse nach § 116 des Baugesetzbuches haben keine aufschiebende Wirkung. Der Antrag auf Anordnung der aufschiebenden Wirkung nach § 80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der Zustellung des Beschlusses gestellt und begründet werden. Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen.
 
-
-## § 9f – Vorarbeiten an Grundstücken
+# § 9f – Vorarbeiten an Grundstücken
 
 (1) Eigentümer und sonstige Nutzungsberechtigte haben zu dulden, dass zur Vorbereitung der Planfeststellung nach § 9b sowie zur obertägigen Standorterkundung für Anlagen zur Endlagerung radioaktiver Abfälle Grundstücke betreten und befahren sowie Vermessungen, Boden- und Grundwasseruntersuchungen und ähnliche vorübergehende Vorarbeiten auf Grundstücken durch die dafür zuständigen Personen ausgeführt werden. Die Absicht, Grundstücke zu betreten und solche Arbeiten auszuführen, ist dem Eigentümer und den sonstigen Nutzungsberechtigten rechtzeitig vorher bekannt zu geben.
 
@@ -582,8 +552,7 @@ Grundstücksteile stehen Grundstücken nach Satz 1 gleich.
 
 (3) Entstehen durch eine Maßnahme nach Absatz 1 oder durch eine Anordnung nach Absatz 2 Satz 2 dem Eigentümer oder sonstigen Nutzungsberechtigten unmittelbare Vermögensnachteile, so ist eine angemessene Entschädigung in Geld zu leisten. § 21b bleibt unberührt.
 
-
-## § 9g – Veränderungssperre
+# § 9g – Veränderungssperre
 
 (1) Zur Sicherung von Planungen für Vorhaben nach § 9b oder zur Sicherung oder Fortsetzung einer Standorterkundung für Anlagen zur Endlagerung radioaktiver Abfälle können durch Rechtsverordnung für die Dauer von höchstens zehn Jahren Planungsgebiete festgelegt werden, auf deren Flächen oder in deren Untergrund wesentlich wertsteigernde oder das Vorhaben nach § 9b oder die Standorterkundung erheblich erschwerende Veränderungen nicht vorgenommen werden dürfen. Eine zweimalige Verlängerung der Festlegung um jeweils höchstens zehn Jahre durch Rechtsverordnung ist zulässig, wenn die Voraussetzungen nach Satz 1 fortbestehen. Vor einer Festlegung nach den Sätzen 1 und 2 sind die Gemeinden und Kreise, deren Gebiet von der Festlegung betroffen wird, zu hören. Die Festlegung nach den Sätzen 1 und 2 ist vor Ablauf der bezeichneten Fristen aufzuheben, wenn die Voraussetzungen für eine Festlegung weggefallen sind. Die Festlegung nach den Sätzen 1 und 2 tritt mit dem Beginn der Auslegung des Plans im Planfeststellungsverfahren nach § 9b oder nach § 57a des Bundesberggesetzes außer Kraft.
 
@@ -595,8 +564,7 @@ Grundstücksteile stehen Grundstücken nach Satz 1 gleich.
 
 (5) Dauert die Veränderungssperre nach den Absätzen 1 bis 3 länger als fünf Jahre, so können der Eigentümer und die sonstigen Nutzungsberechtigten für die dadurch entstandenen Vermögensnachteile eine angemessene Entschädigung in Geld verlangen. Die Entschädigung ist vom Vorhabensträger zu leisten. § 21b bleibt unberührt.
 
-
-## § 9h – Pflichten des Zulassungsinhabers
+# § 9h – Pflichten des Zulassungsinhabers
 
 Die §§ 7c und 19a Absatz 3 und 4 gelten entsprechend für:
 
@@ -604,8 +572,7 @@ Die §§ 7c und 19a Absatz 3 und 4 gelten entsprechend für:
 
 2. den Inhaber einer Genehmigung zum Umgang mit radioaktiven Stoffen zum Zweck der Lagerung, Bearbeitung oder Verarbeitung als radioaktive Abfälle, mit dem Ziel, diese radioaktiven Abfälle geordnet zu beseitigen, soweit es sich nicht um die Genehmigung für eine kerntechnische Anlage im Sinne des § 2 Absatz 3a Nummer 1 handelt.
 
-
-## § 9i – Bestandsaufnahme und Schätzung
+# § 9i – Bestandsaufnahme und Schätzung
 
 (1) Das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium erstellt erstmals bis spätestens 23. August 2015 und danach alle drei Jahre
 
@@ -615,13 +582,11 @@ Die §§ 7c und 19a Absatz 3 und 4 gelten entsprechend für:
 
 (2) Zur Vorbereitung der Erstellung der Bestandsaufnahme nach Absatz 1 sind die nach § 9a Absatz 1 Satz 1 Entsorgungspflichtigen und die Besitzer abgebrannter Brennelemente oder radioaktiver Abfälle, sofern beide ihre radioaktiven Abfälle nicht nach einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung an eine Landessammelstelle abzuliefern haben, verpflichtet, die erforderlichen und nicht bereits nach § 2c Absatz 4 vorzulegenden Auskünfte auf Verlangen des zuständigen Bundesministeriums zu erteilen. Die Übermittlung des Auskunftsverlangens nach diesem Absatz an die Auskunftsverpflichteten und der erteilten Auskünfte an das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium erfolgt über die zuständigen Behörden der Länder.
 
-
-## § 10
+# § 10
 
 Durch Rechtsverordnung können Ausnahmen von den Vorschriften der §§ 3 bis 7 und 9 zugelassen werden, soweit wegen der Menge oder Beschaffenheit der Kernbrennstoffe oder wegen bestimmter Schutzmaßnahmen oder Schutzeinrichtungen nicht mit Schäden infolge einer sich selbst tragenden Kettenreaktion oder infolge der Wirkung ionisierender Strahlen zu rechnen ist und soweit die in § 1 Nr. 3 und 4 bezeichneten Zwecke nicht entgegenstehen. Für radioaktive Abfälle können durch Rechtsverordnung nach § 11 Abs. 1 Nr. 6 Ausnahmen von den Vorschriften des § 3 getroffen werden.
 
-
-## § 10a – Erstreckung auf strahlenschutzrechtliche Genehmigungen; Ausnahmen vom Erfordernis der Genehmigung
+# § 10a – Erstreckung auf strahlenschutzrechtliche Genehmigungen; Ausnahmen vom Erfordernis der Genehmigung
 
 (1) Eine Genehmigung nach § 3 Absatz 1 kann sich auch auf eine genehmigungsbedürftige Verbringung nach der auf Grund des § 30 des Strahlenschutzgesetzes erlassenen Rechtsverordnung beziehen.
 
@@ -631,8 +596,7 @@ Durch Rechtsverordnung können Ausnahmen von den Vorschriften der §§ 3 bis 7 u
 
 (4) Wer als Arbeitnehmer oder Arbeitnehmerin oder anderweitig unter der Aufsicht stehend im Rahmen einer nach diesem Gesetz genehmigungsbedürftigen Tätigkeit beschäftigt wird, bedarf keiner Genehmigung nach diesem Gesetz.
 
-
-## § 11 – Ermächtigungsvorschriften (Genehmigung, Anzeige, allgemeine Zulassung)
+# § 11 – Ermächtigungsvorschriften (Genehmigung, Anzeige, allgemeine Zulassung)
 
 (1) Soweit nicht durch dieses Gesetz für Kernbrennstoffe und für Anlagen im Sinne des § 7 eine besondere Regelung getroffen ist, kann durch Rechtsverordnung zur Erreichung der in § 1 bezeichneten Zwecke bestimmt werden,
 
@@ -650,8 +614,7 @@ Durch Rechtsverordnung können Ausnahmen von den Vorschriften der §§ 3 bis 7 u
 
 § 11 Abs. 1 Nr. 4 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde "können," durch "können." ersetzt
 
-
-## § 12 – Ermächtigungsvorschriften (Schutzmaßnahmen)
+# § 12 – Ermächtigungsvorschriften (Schutzmaßnahmen)
 
 Durch Rechtsverordnung kann zur Erreichung der in § 1 bezeichneten Zwecke bestimmt werden,
 
@@ -679,13 +642,11 @@ Durch Rechtsverordnung kann zur Erreichung der in § 1 bezeichneten Zwecke besti
 
 Satz 1 Nr. 1 und 7 gilt entsprechend für die Beförderung radioaktiver Stoffe, soweit es sich um die Erreichung der in § 1 Nr. 1, 3 und 4 genannten Zwecke und um Regelungen über die Deckungsvorsorge handelt.
 
-
-## § 12a – Ermächtigungsvorschrift (Entscheidung des Direktionsausschusses)
+# § 12a – Ermächtigungsvorschrift (Entscheidung des Direktionsausschusses)
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Entscheidungen des Direktionsausschusses der Europäischen Kernenergieagentur oder seines Funktionsnachfolgers nach Artikel 1 Abs. a Unterabs. ii und iii und nach Artikel 1 Abs. b des Pariser Übereinkommens durch Rechtsverordnung in Kraft zu setzen und insoweit die Anlage 1 Abs. 1 Nr. 2 und 3 und die Anlage 2 zu diesem Gesetz zu ändern oder aufzuheben, sofern dies zur Erfüllung der in § 1 bezeichneten Zwecke erforderlich ist.
 
-
-## § 12b – Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe
+# § 12b – Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe
 
 (1) Zum Schutz gegen unbefugte Handlungen, die zu einer Entwendung oder Freisetzung radioaktiver Stoffe führen können, führen die nach den §§ 23d und 24 sowie die nach den §§ 184, 185, 186, 189, 190 und 191 des Strahlenschutzgesetzes zuständigen Genehmigungs- und Aufsichtsbehörden eine Überprüfung der Zuverlässigkeit folgender Personen durch:
 
@@ -735,11 +696,9 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (+++ § 12b: Zur Anwendung vgl. § 75 StrlSchG +++)
 
+# §§ 12c und 12d – (weggefallen)
 
-## §§ 12c und 12d – (weggefallen)
-
-
-## § 13 – Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
+# § 13 – Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
 
 (1) Die Verwaltungsbehörde hat im Genehmigungsverfahren Art, Umfang und Höhe der Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen (Deckungsvorsorge) festzusetzen, die der Antragsteller zu treffen hat. Die Festsetzung ist im Abstand von jeweils zwei Jahren sowie bei erheblicher Änderung der Verhältnisse erneut vorzunehmen; hierbei hat die Verwaltungsbehörde dem zur Deckungsvorsorge Verpflichteten eine angemessene Frist zu bestimmen, binnen deren die Deckungsvorsorge nachgewiesen sein muß.
 
@@ -755,15 +714,13 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (5) Gesetzliche Schadensersatzverpflichtungen im Sinne dieses Gesetzes sind die auf gesetzlichen Haftpflichtbestimmungen privatrechtlichen Inhalts beruhenden Schadensersatzverpflichtungen. Zu den gesetzlichen Schadensersatzverpflichtungen im Sinne dieses Gesetzes gehören Verpflichtungen aus den §§ 110, 111 des Siebten Buches Sozialgesetzbuch nicht, Verpflichtungen zur Schadloshaltung, die sich aus § 7 Abs. 6 dieses Gesetzes in Verbindung mit § 14 des Bundes-Immissionsschutzgesetzes ergeben, sowie ähnliche Entschädigungs- oder Ausgleichsverpflichtungen nur insoweit, als der Schaden oder die Beeinträchtigung durch Unfall entstanden ist.
 
-
-## § 14 – Haftpflichtversicherung und sonstige Deckungsvorsorge
+# § 14 – Haftpflichtversicherung und sonstige Deckungsvorsorge
 
 (1) Wird die Deckungsvorsorge bei Anlagen und Tätigkeiten, bei denen eine Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1 bis 4, nach § 25a, nach einem der in § 25a Abs. 2 genannten internationalen Verträge oder nach § 26 Abs. 1 in Verbindung mit Abs. 1a in Betracht kommt, durch eine Haftpflichtversicherung erbracht, gelten für diese, ohne dass ein Direktanspruch im Sinn von § 115 des Versicherungsvertragsgesetzes begründet wird, die §§ 117 und 119 bis 122 des Versicherungsvertragsgesetzes entsprechend mit der Maßgabe, dass die Frist des § 117 Abs. 2 des Versicherungsvertragsgesetzes zwei Monate beträgt und ihr Ablauf bei der Haftung für die Beförderung von Kernmaterialien und radioaktiven Stoffen, die ihnen nach § 26 Abs. 1a gleichgestellt sind, für die Dauer der Beförderung gehemmt ist; bei Anwendung des § 117 Abs. 3 Satz 2 des Versicherungsvertragsgesetzes bleibt die Freistellungsverpflichtung nach § 34 außer Betracht. § 109 des Versicherungsvertragsgesetzes ist nicht anzuwenden.
 
 (2) Wird die Deckungsvorsorge anstatt durch eine Haftpflichtversicherung durch eine sonstige finanzielle Sicherheit erbracht, gilt Absatz 1 entsprechend.
 
-
-## § 15 – Rangfolge der Befriedigung aus der Deckungsvorsorge
+# § 15 – Rangfolge der Befriedigung aus der Deckungsvorsorge
 
 (1) Sind der zur Deckungsvorsorge verpflichtete Inhaber einer Kernanlage und ein Geschädigter im Zeitpunkt des Eintritts des nuklearen Ereignisses Konzernunternehmen eines Konzerns im Sinne des § 18 des Aktiengesetzes, so darf die Deckungsvorsorge zur Erfüllung gesetzlicher Schadensersatzansprüche dieses Geschädigten nur herangezogen werden, wenn dadurch nicht die Deckung der Ersatzansprüche sonstiger Geschädigter beeinträchtigt wird. Kernanlagen im Sinne des Satzes 1 sind auch Reaktoren, die Teil eines Beförderungsmittels sind.
 
@@ -773,13 +730,11 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (4) Die nach Absatz 3 nachrangig zu erfüllenden Ersatzansprüche gehen den nachrangig zu erfüllenden Ersatzansprüchen nach den Absätzen 1 und 2 vor. Die nach den Absätzen 1 und 2 nachrangig zu erfüllenden Ersatzansprüche sind untereinander gleichrangig.
 
-
-## § 16
+# § 16
 
 (weggefallen)
 
-
-## § 17 – Inhaltliche Beschränkungen, Auflagen, Widerruf, Bezeichnung als Inhaber einer Kernanlage
+# § 17 – Inhaltliche Beschränkungen, Auflagen, Widerruf, Bezeichnung als Inhaber einer Kernanlage
 
 (1) Genehmigungen und allgemeine Zulassungen nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung sind schriftlich, aber nicht in elektronischer Form zu erteilen; abweichend hiervon kann in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen vorgesehen werden, dass die Genehmigung oder allgemeine Zulassung auch in elektronischer Form mit einer dauerhaft überprüfbaren Signatur nach § 37 Abs. 4 des Verwaltungsverfahrensgesetzes erteilt werden kann. Sie können zur Erreichung der in § 1 bezeichneten Zwecke inhaltlich beschränkt und mit Auflagen verbunden werden. Soweit es zur Erreichung der in § 1 Nr. 2 und 3 bezeichneten Zwecke erforderlich ist, sind nachträgliche Auflagen zulässig. Genehmigungen, mit Ausnahme derjenigen nach § 7, sowie allgemeine Zulassungen können befristet werden.
 
@@ -801,8 +756,7 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (6) Bei der Genehmigung von Tätigkeiten, die zum Betrieb einer Kernanlage berechtigen, ist der Genehmigungsinhaber in dem Genehmigungsbescheid ausdrücklich als Inhaber einer Kernanlage zu bezeichnen.
 
-
-## § 18 – Entschädigung
+# § 18 – Entschädigung
 
 (1) Im Falle der Rücknahme oder des Widerrufs einer nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung erteilten Genehmigung oder allgemeinen Zulassung muß dem Berechtigten eine angemessene Entschädigung in Geld geleistet werden. Wird die Rücknahme oder der Widerruf von einer Behörde des Bundes ausgesprochen, so ist der Bund, wird die Rücknahme oder der Widerruf von einer Landesbehörde ausgesprochen, so ist das Land, dessen Behörde die Rücknahme oder den Widerruf ausgesprochen hat, zur Leistung der Entschädigung verpflichtet. Die Entschädigung ist unter gerechter Abwägung der Interessen der Allgemeinheit und des Betroffenen sowie der Gründe, die zur Rücknahme oder zum Widerruf führten, zu bestimmen. Die Entschädigung ist begrenzt durch die Höhe der vom Betroffenen gemachten Aufwendungen, bei Anlagen durch die Höhe ihres Zeitwerts. Wegen der Höhe der Entschädigung steht der Rechtsweg vor den ordentlichen Gerichten offen.
 
@@ -818,8 +772,7 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (4) Wenn das Land eine Entschädigung zu leisten hat, sind der Bund oder ein anderes Land entsprechend ihrem sich aus der Gesamtlage ergebenden Interesse an der Rücknahme oder am Widerruf verpflichtet, diesem Land Ausgleich zu leisten. Entsprechendes gilt, wenn der Bund eine Entschädigung zu leisten hat.
 
-
-## § 19 – Staatliche Aufsicht
+# § 19 – Staatliche Aufsicht
 
 (1) Der Umgang und Verkehr mit radioaktiven Stoffen, die Errichtung, der Betrieb und der Besitz von Anlagen der in § 7 bezeichneten Art und die Beförderung dieser Stoffe und Anlagen unterliegen der staatlichen Aufsicht. Die Aufsichtsbehörden haben insbesondere darüber zu wachen, daß nicht gegen die Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden und die Bestimmungen des Bescheids über die Genehmigung oder allgemeine Zulassung verstoßen wird und daß nachträgliche Auflagen eingehalten werden. Auf die Befugnisse und Obliegenheiten der Aufsichtsbehörden finden die Vorschriften des § 139b der Gewerbeordnung entsprechende Anwendung. Das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium kann die ihm von den nach den §§ 22 bis 24 zuständigen Behörden übermittelten Informationen, die auf Verstöße gegen Ein- und Ausfuhrvorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden oder gegen die Bestimmungen des Bescheids über die Genehmigung hinweisen, an das Bundesministerium des Innern, für Bau und Heimat übermitteln, soweit dies für die Wahrnehmung der Aufgaben des Bundeskriminalamtes bei der Verfolgung von Straftaten im Außenwirtschaftsverkehr erforderlich ist; die übermittelten Informationen dürfen, soweit gesetzlich nichts anderes bestimmt ist, nur für den Zweck verwendet werden, zu dem sie übermittelt worden sind.
 
@@ -837,8 +790,7 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für Anlagen des Bundes nach § 9a Absatz 3 Satz 1 und für die Schachtanlage Asse II.
 
-
-## § 19a – Überprüfung, Bewertung und kontinuierliche Verbesserung kerntechnischer Anlagen
+# § 19a – Überprüfung, Bewertung und kontinuierliche Verbesserung kerntechnischer Anlagen
 
 (1) Wer eine Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität betreibt, hat eine Sicherheitsüberprüfung und Bewertung der Anlage durchzuführen und auf deren Grundlage die nukleare Sicherheit der Anlage kontinuierlich zu verbessern. Die Ergebnisse der Sicherheitsüberprüfung und Bewertung sind bis zu dem in Anlage 4 zu diesem Gesetz genannten Datum, soweit dieses nach dem 27. April 2002 liegt, der Aufsichtsbehörde vorzulegen. Jeweils alle zehn Jahre nach dem in Anlage 4 genannten Datum sind die Ergebnisse einer erneuten Sicherheitsüberprüfung und Bewertung vorzulegen.
 
@@ -848,13 +800,11 @@ Maßnahmen nach Satz 1 sind unter Berücksichtigung der Art der Anlage oder Einr
 
 (4) Die Bewertungen nach Absatz 1 oder Absatz 3 umfassen auch die Überprüfung, dass Maßnahmen zur Verhütung von Unfällen und zur Abmilderung von Unfallfolgen getroffen sind, einschließlich der Überprüfung der physischen Barrieren sowie der administrativen Schutzvorkehrungen des Genehmigungsinhabers, die versagen müssen, bevor Leben, Gesundheit und Sachgüter durch die Wirkung ionisierender Strahlen geschädigt würden. Die zuständige Aufsichtsbehörde kann nähere Anordnungen zu dem Umfang der Überprüfung und Bewertung durch den Genehmigungsinhaber treffen.
 
-
-## § 20 – Sachverständige
+# § 20 – Sachverständige
 
 Im Genehmigungs- und Aufsichtsverfahren nach diesem Gesetz und den auf Grund dieses Gesetzes ergangenen Rechtsverordnungen können von den zuständigen Behörden Sachverständige zugezogen werden. § 36 des Produktsicherheitsgesetzes findet entsprechende Anwendung.
 
-
-## § 21 – Kosten
+# § 21 – Kosten
 
 (1) Kosten (Gebühren und Auslagen) werden erhoben
 
@@ -866,8 +816,7 @@ Im Genehmigungs- und Aufsichtsverfahren nach diesem Gesetz und den auf Grund die
 
 4. für sonstige Amtshandlungen einschließlich Prüfungen und Untersuchungen des Bundesamtes für Strahlenschutz, soweit es nach § 23 zuständig ist, des Luftfahrt-Bundesamtes, soweit es nach § 23b zuständig ist, und des Bundesamtes für die Sicherheit der nuklearen Entsorgung, soweit es nach § 23d zuständig ist;
 
-4a.  
-für Entscheidungen nach §§ 9d bis 9g;
+4a. für Entscheidungen nach §§ 9d bis 9g;
 
 5. für die in der Rechtsverordnung nach Absatz 3 näher zu bestimmenden sonstigen Aufsichtsmaßnahmen nach § 19;
 
@@ -899,8 +848,7 @@ werden Kosten erhoben. Die Gebühr darf in den Fällen des Satzes 1 Nr. 1, 2 und
 
 (5) Im übrigen gelten bei der Ausführung dieses Gesetzes und von Rechtsverordnungen, die auf Grund des § 7 Abs. 4 Satz 3 und Abs. 5, des § 7a Abs. 2 und der §§ 10 bis 12 erlassen sind, durch Landesbehörden vorbehaltlich des Absatzes 2 die landesrechtlichen Kostenvorschriften.
 
-
-## § 21a – Kosten (Gebühren und Auslagen) oder Entgelte für die Benutzung von Anlagen nach § 9a Abs. 3
+# § 21a – Kosten (Gebühren und Auslagen) oder Entgelte für die Benutzung von Anlagen nach § 9a Abs. 3
 
 (1) Für die Benutzung von Anlagen nach § 9a Abs. 3 werden von den Ablieferungspflichtigen Kosten (Gebühren und Auslagen) erhoben. Als Auslagen können auch Vergütungen nach § 21 Abs. 2 und Aufwendungen nach § 21 Abs. 4 erhoben werden. Die allgemeinen gebührenrechtlichen Grundsätze über Entstehung der Gebühr, Gebührengläubiger, Gebührenschuldner, Gebührenentscheidung, Vorschußzahlung, Sicherheitsleistung, Fälligkeit, Säumniszuschlag, Stundung, Niederschlagung, Erlaß, Verjährung, Erstattung und Rechtsbehelfe finden nach Maßgabe der §§ 11, 12, 13 Abs. 2, §§ 14 und 16 bis 22 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung Anwendung, soweit nicht in der Rechtsverordnung nach Absatz 2 Abweichendes bestimmt wird. Im Übrigen gelten bei der Erhebung von Kosten in Ausführung dieses Gesetzes durch Landesbehörden die landesrechtlichen Kostenvorschriften.
 
@@ -908,8 +856,7 @@ werden Kosten erhoben. Die Gebühr darf in den Fällen des Satzes 1 Nr. 1, 2 und
 
 (3) Die Landessammelstellen können für die Benutzung an Stelle von Kosten ein Entgelt nach Maßgabe einer Benutzungsordnung erheben. Bei der Berechnung des Entgeltes sind die in Absatz 2 enthaltenen Bemessungsgrundsätze zu berücksichtigen.
 
-
-## § 21b – Beiträge
+# § 21b – Beiträge
 
 (1) Zur Deckung des notwendigen Aufwandes für die Planung, den Erwerb von Grundstücken und Rechten, die anlagenbezogene Forschung und Entwicklung, die Erkundung, die Unterhaltung von Grundstücken und Einrichtungen sowie die Errichtung, die Erweiterung und die Erneuerung von Anlagen des Bundes nach § 9a Abs. 3 werden von demjenigen, dem sich ein Vorteil durch die Möglichkeit der Inanspruchnahme dieser Anlagen zur geordneten Beseitigung radioaktiver Abfälle nach § 9a Abs. 1 Satz 1 bietet, Beiträge erhoben. Der notwendige Aufwand umfaßt auch den Wert der aus dem Vermögen des Trägers der Anlage bereitgestellten Sachen und Rechte im Zeitpunkt der Bereitstellung.
 
@@ -919,13 +866,11 @@ werden Kosten erhoben. Die Gebühr darf in den Fällen des Satzes 1 Nr. 1, 2 und
 
 (4) Bereits erhobene Beiträge oder Vorausleistungen, soweit sie zur Deckung entstandener Aufwendungen erhoben worden sind, werden nicht erstattet, wenn eine Anlage des Bundes nach § 9a Abs. 3 endgültig nicht errichtet oder betrieben wird oder wenn der Beitrags- oder Vorausleistungspflichtige den Vorteil nach Absatz 1 Satz 1 nicht wahrnimmt.
 
-
-## § 21c – Öffentlich-rechtlicher Vertrag
+# § 21c – Öffentlich-rechtlicher Vertrag
 
 Zur Ablösung der nach den §§ 21a und 21b zu erhebenden Kosten, Entgelte und Beiträge können im Einzelfall unter Berücksichtigung der in § 21a Absatz 2 Satz 2 bis 6 und § 21b Absatz 3 Satz 3 bis 5 geregelten Grundsätze öffentlich-rechtliche Verträge geschlossen werden.
 
-
-## § 22 – Zuständigkeit für grenzüberschreitende Verbringungen und deren Überwachung
+# § 22 – Zuständigkeit für grenzüberschreitende Verbringungen und deren Überwachung
 
 (1) Über Anträge auf Erteilung einer Genehmigung nach § 3 sowie über die Rücknahme oder den Widerruf einer erteilten Genehmigung entscheidet das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA). Das Gleiche gilt, soweit die auf Grund des § 11 ergehenden Rechtsverordnungen das Erfordernis von Genehmigungen und Zustimmungen sowie die Prüfung von Anzeigen für grenzüberschreitende Verbringungen vorsehen.
 
@@ -941,24 +886,19 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 (3) Soweit das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) auf Grund des Absatzes 1 entscheidet, ist es unbeschadet seiner Unterstellung unter das Bundesministerium für Wirtschaft und Energie und dessen auf anderen Rechtsvorschriften beruhender Weisungsbefugnisse an die fachlichen Weisungen des für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministeriums gebunden.
 
-
-## § 23 – Ausstattung der zuständigen Behörden
+# § 23 – Ausstattung der zuständigen Behörden
 
 Die für die Ausführung dieses Gesetzes zuständigen Behörden verfügen über eine zur Erfüllung ihrer gesetzlichen Aufgaben angemessene Ausstattung an Finanzmitteln und eine angemessene Personalausstattung.
 
-
-## § 23a – Zuständigkeit des Bundesverwaltungsamtes
+# § 23a – Zuständigkeit des Bundesverwaltungsamtes
 
 Das Bundesverwaltungsamt ist für Entscheidungen nach den §§ 9d bis 9g zuständig.
 
+# § 23b – (weggefallen)
 
-## § 23b – (weggefallen)
+# § 23c – (weggefallen)
 
-
-## § 23c – (weggefallen)
-
-
-## § 23d – Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+# § 23d – Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständig für
 
@@ -982,8 +922,7 @@ Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständig für
 
 In den Fällen, in denen der Standort nach dem Standortauswahlgesetz durch Bundesgesetz festgelegt wird, gelten die Zuständigkeitsregelungen des Satzes 1 erst nach dieser abschließenden Entscheidung über den Standort.
 
-
-## § 24 – Zuständigkeit der Landesbehörden
+# § 24 – Zuständigkeit der Landesbehörden
 
 (1) Die übrigen Verwaltungsaufgaben nach dem Zweiten Abschnitt und den hierzu ergehenden Rechtsverordnungen werden im Auftrage des Bundes durch die Länder ausgeführt. Die Beaufsichtigung der Beförderung radioaktiver Stoffe im Schienen- und Schiffsverkehr der Eisenbahnen sowie im Magnetschwebebahnverkehr obliegt dem Eisenbahn-Bundesamt; dies gilt nicht für die Beförderung radioaktiver Stoffe durch nichtbundeseigene Eisenbahnen, wenn die Verkehre ausschließlich über Schienenwege dieser Eisenbahnen führen. Satz 2 gilt auch für die Genehmigung solcher Beförderungen, soweit eine Zuständigkeit nach § 23d nicht gegeben ist.
 
@@ -991,8 +930,7 @@ In den Fällen, in denen der Standort nach dem Standortauswahlgesetz durch Bunde
 
 (3) Für den Geschäftsbereich des Bundesministeriums der Verteidigung werden die in den Absätzen 1 und 2 bezeichneten Zuständigkeiten durch dieses Bundesministerium oder die von ihm bezeichneten Dienststellen im Benehmen mit dem für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministerium wahrgenommen. Dies gilt auch für zivile Arbeitskräfte bei sich auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland aufhaltenden Truppen und zivilen Gefolgen.
 
-
-## § 24a – Information der Öffentlichkeit; Informationsübermittlung
+# § 24a – Information der Öffentlichkeit; Informationsübermittlung
 
 (1) Die zuständigen Behörden unterrichten die Öffentlichkeit für den Bereich der nuklearen Sicherheit mindestens über Folgendes:
 
@@ -1004,8 +942,7 @@ Das Umweltinformationsgesetz und die Bestimmungen der Länder über die Verbreit
 
 (2) Das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium kann Informationen, die in atomrechtlichen Genehmigungen der nach den §§ 22 bis 24 zuständigen Behörden enthalten sind (Inhaber, Rechtsgrundlagen, wesentlicher Inhalt), an die für den Außenwirtschaftsverkehr zuständigen obersten Bundesbehörden zur Erfüllung ihrer Aufgaben bei Genehmigungen oder der Überwachung des Außenwirtschaftsverkehrs übermitteln. Reichen diese Informationen im Einzelfall nicht aus, können weitere Informationen aus der atomrechtlichen Genehmigung übermittelt werden. Die Empfänger dürfen die übermittelten Informationen, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verwenden, zu dem sie übermittelt worden sind.
 
-
-## § 24b – Selbstbewertung und internationale Prüfung
+# § 24b – Selbstbewertung und internationale Prüfung
 
 (1) Mit dem Ziel der kontinuierlichen Verbesserung der nuklearen Sicherheit und der Sicherheit der Entsorgung abgebrannter Brennelemente und radioaktiver Abfälle
 
@@ -1029,8 +966,7 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 (3) Im Falle eines Unfalls in einer kerntechnischen Anlage, der Maßnahmen des anlagenexternen Notfallschutzes erfordert, lädt das für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesministerium unverzüglich zu einer internationalen Überprüfung ein.
 
-
-## § 25 – Haftung für Kernanlagen
+# § 25 – Haftung für Kernanlagen
 
 (1) Beruht ein Schaden auf einem von einer Kernanlage ausgehenden nuklearen Ereignis, so gelten für die Haftung des Inhabers der Kernanlage ergänzend zu den Bestimmungen des Pariser Übereinkommens und des Gemeinsamen Protokolls die Vorschriften dieses Gesetzes. Das Pariser Übereinkommen ist unabhängig von seiner völkerrechtlichen Verbindlichkeit für die Bundesrepublik Deutschland innerstaatlich anzuwenden, soweit nicht seine Regeln eine durch das Inkrafttreten des Übereinkommens bewirkte Gegenseitigkeit voraussetzen.
 
@@ -1042,8 +978,7 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 (5) Der Inhaber einer Kernanlage haftet nicht nach dem Pariser Übereinkommen, sofern der Schaden durch ein nukleares Ereignis verursacht wurde, das auf Kernmaterialien zurückzuführen ist, die in Anlage 2 zu diesem Gesetz bezeichnet sind.
 
-
-## § 25a – Haftung für Reaktorschiffe
+# § 25a – Haftung für Reaktorschiffe
 
 (1) Auf die Haftung des Inhabers eines Reaktorschiffes finden die Vorschriften dieses Abschnitts mit folgender Maßgabe entsprechende Anwendung:
 
@@ -1059,8 +994,7 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 (2) Soweit internationale Verträge über die Haftung für Reaktorschiffe zwingend abweichende Bestimmungen enthalten, haben diese Vorrang vor den Bestimmungen dieses Gesetzes.
 
-
-## § 26 – Haftung in anderen Fällen
+# § 26 – Haftung in anderen Fällen
 
 (1) Wird in anderen als den in dem Pariser Übereinkommen in Verbindung mit den in § 25 Abs. 1 bis 4 bezeichneten Fällen durch die Wirkung eines Kernspaltungsvorgangs oder der Strahlen eines radioaktiven Stoffes oder durch die von einer Anlage zur Erzeugung ionisierender Strahlen ausgehende Wirkung ionisierender Strahlen ein Mensch getötet oder der Körper oder die Gesundheit eines anderen verletzt oder eine Sache beschädigt, so ist der Besitzer des von der Kernspaltung betroffenen Stoffes, des radioaktiven Stoffes oder der Anlage zur Erzeugung ionisierender Strahlen verpflichtet, den daraus entstehenden Schaden nach den §§ 27 bis 30, 31 Abs. 3, § 32 Abs. 1, 4 und 5 und § 33 zu ersetzen. Die Ersatzpflicht tritt nicht ein, wenn der Schaden durch ein Ereignis verursacht wird, das der Besitzer und die für ihn im Zusammenhang mit dem Besitz tätigen Personen auch bei Anwendung jeder nach den Umständen gebotenen Sorgfalt nicht vermeiden konnten und das weder auf einen Fehler in der Beschaffenheit der Schutzeinrichtungen noch auf einem Versagen ihrer Verrichtungen beruht.
 
@@ -1082,13 +1016,11 @@ Die erste Selbstbewertung nach Absatz 2 Satz 1 Nummer 1 leitet das für die kern
 
 (7) Unberührt bleiben im Anwendungsbereich des Absatzes 1 Satz 1 gesetzliche Vorschriften, nach denen der dort genannte Besitzer und die ihm nach Absatz 3 gleichgestellten Personen in weiterem Umfang haften als nach den Vorschriften dieses Gesetzes oder nach denen ein anderer für den Schaden verantwortlich ist.
 
-
-## § 27 – Mitwirkendes Verschulden des Verletzten
+# § 27 – Mitwirkendes Verschulden des Verletzten
 
 Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gilt § 254 des Bürgerlichen Gesetzbuchs; bei Beschädigung einer Sache steht das Verschulden desjenigen, der die tatsächliche Gewalt über sie ausübt, dem Verschulden des Verletzten gleich.
 
-
-## § 28 – Umfang des Schadensersatzes bei Tötung
+# § 28 – Umfang des Schadensersatzes bei Tötung
 
 (1) Im Falle der Tötung ist der Schadensersatz durch Ersatz der Kosten einer versuchten Heilung sowie des Vermögensnachteils zu leisten, den der Getötete dadurch erlitten hat, daß während der Krankheit seine Erwerbsfähigkeit aufgehoben oder gemindert, eine Vermehrung seiner Bedürfnisse eingetreten oder sein Fortkommen erschwert war. Der Ersatzpflichtige hat außerdem die Kosten der Beerdigung demjenigen zu ersetzen, dem die Verpflichtung obliegt, diese Kosten zu tragen.
 
@@ -1096,15 +1028,13 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der Verletzung zu dem Getöteten in einem besonderen persönlichen Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des Getöteten war.
 
-
-## § 29 – Umfang des Schadensersatzes bei Körperverletzung
+# § 29 – Umfang des Schadensersatzes bei Körperverletzung
 
 (1) Im Falle der Verletzung des Körpers oder der Gesundheit ist der Schadensersatz durch Ersatz der Kosten der Heilung sowie des Vermögensnachteils zu leisten, den der Verletzte dadurch erleidet, daß infolge der Verletzung zeitweise oder dauernd seine Erwerbsfähigkeit aufgehoben oder gemindert, eine Vermehrung seiner Bedürfnisse eingetreten oder sein Fortkommen erschwert ist.
 
 (2) Wegen des Schadens, der nicht Vermögensschaden ist, kann auch eine billige Entschädigung in Geld gefordert werden.
 
-
-## § 30 – Geldrente
+# § 30 – Geldrente
 
 (1) Der Schadensersatz wegen Aufhebung oder Minderung der Erwerbsfähigkeit, wegen Vermehrung der Bedürfnisse oder wegen Erschwerung des Fortkommens des Verletzten sowie der nach § 28 Abs. 2 einem Dritten zu gewährende Schadensersatz ist für die Zukunft durch Entrichtung einer Geldrente zu leisten.
 
@@ -1112,8 +1042,7 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (3) Ist bei der Verurteilung des Verpflichteten zur Entrichtung einer Geldrente nicht auf Sicherheitsleistung erkannt worden, so kann der Berechtigte gleichwohl Sicherheitsleistung verlangen, wenn die Vermögensverhältnisse des Verpflichteten sich erheblich verschlechtert haben; unter der gleichen Voraussetzung kann er eine Erhöhung der in dem Urteil bestimmten Sicherheit verlangen.
 
-
-## § 31 – Haftungshöchstgrenzen
+# § 31 – Haftungshöchstgrenzen
 
 (1) Die Haftung des Inhabers einer Kernanlage nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 sowie nach dem Pariser Übereinkommen und dem Gemeinsamen Protokoll in Verbindung mit § 25 Abs. 1, 2 und 4 ist summenmäßig unbegrenzt. In den Fällen des § 25 Abs. 3 wird die Haftung des Inhabers auf den Höchstbetrag der staatlichen Freistellungsverpflichtung begrenzt.
 
@@ -1123,8 +1052,7 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (3) Der nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 sowie nach dem Pariser Übereinkommen und dem Gemeinsamen Protokoll in Verbindung mit § 25 Abs. 1, 2 und 4 oder der nach § 26 Ersatzpflichtige haftet im Falle der Sachbeschädigung nur bis zur Höhe des gemeinen Wertes der beschädigten Sache zuzüglich der Kosten für die Sicherung gegen die von ihr ausgehende Strahlengefahr. Bei einer Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 Abs. 1, 2 und 4 ist Ersatz für Schäden am Beförderungsmittel, auf dem sich die Kernmaterialien zur Zeit des nuklearen Ereignisses befunden haben, nur dann zu leisten, wenn die Befriedigung anderer Schadensersatzansprüche in den Fällen des Absatzes 1 aus dem Höchstbetrag der staatlichen Freistellungsverpflichtung, in den Fällen des Absatzes 2 aus der Haftungshöchstsumme sichergestellt ist.
 
-
-## § 32 – Verjährung
+# § 32 – Verjährung
 
 (1) Die nach diesem Abschnitt begründeten Ansprüche auf Schadensersatz verjähren in drei Jahren von dem Zeitpunkt an, in welchem der Ersatzberechtigte von dem Schaden und von der Person des Ersatzpflichtigen Kenntnis erlangt hat oder hätte erlangen müssen, ohne Rücksicht darauf in dreißig Jahren von dem schädigenden Ereignis an.
 
@@ -1136,15 +1064,13 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (5) Im übrigen finden die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung Anwendung.
 
-
-## § 33 – Mehrere Verursacher
+# § 33 – Mehrere Verursacher
 
 (1) Sind für einen Schaden, der durch ein nukleares Ereignis oder in sonstiger Weise durch die Wirkung eines Kernspaltungsvorgangs oder der Strahlen eines radioaktiven Stoffes oder durch die von einem Beschleuniger ausgehende Wirkung ionisierender Strahlen verursacht ist, mehrere einem Dritten kraft Gesetzes zum Schadensersatz verpflichtet, so haften sie, sofern sich nicht aus Artikel 5 Abs. d des Pariser Übereinkommens etwas anderes ergibt, dem Dritten gegenüber als Gesamtschuldner.
 
 (2) In den Fällen des Absatzes 1 hängt im Verhältnis der Ersatzpflichtigen untereinander die Verpflichtung zum Ersatz von den Umständen, insbesondere davon ab, inwieweit der Schaden vorwiegend von dem einen oder anderen Teil verursacht worden ist, sofern sich aus Artikel 5 Abs. d des Pariser Übereinkommens nicht etwas anderes ergibt. Der Inhaber einer Kernanlage ist jedoch nicht verpflichtet, über die Haftungshöchstbeträge des § 31 Abs. 1 und 2 hinaus Ersatz zu leisten.
 
-
-## § 34 – Freistellungsverpflichtung
+# § 34 – Freistellungsverpflichtung
 
 (1) Haben sich infolge von Wirkungen eines nuklearen Ereignisses gesetzliche Schadensersatzverpflichtungen des Inhabers einer im Geltungsbereich dieses Gesetzes gelegenen Kernanlage nach den Bestimmungen des Pariser Übereinkommens in Verbindung mit § 25 Abs. 1 bis 4 sowie des Pariser Übereinkommens und des Gemeinsamen Protokolls in Verbindung mit § 25 Abs. 1 bis 4 oder auf Grund des auf den Schadensfall anwendbaren Rechts eines fremden Staates oder in den Fällen des § 26 Abs. 1a ergeben, so hat der Bund den Inhaber der Kernanlage oder den Besitzer radioaktiver Stoffe von Schadensersatzverpflichtungen freizustellen, soweit diese von der Deckungsvorsorge nicht gedeckt sind oder aus ihr nicht erfüllt werden können. Der Höchstbetrag der Freistellungsverpflichtung beträgt 2,5 Milliarden Euro. Die Freistellungsverpflichtung beschränkt sich auf diesen Höchstbetrag abzüglich des Betrages, in dessen Höhe die entstandenen Schadensersatzverpflichtungen von der Deckungsvorsorge gedeckt sind und aus ihr erfüllt werden können.
 
@@ -1160,20 +1086,17 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (3) Im Übrigen finden auf die Freistellungsverpflichtung die §§ 83 und 87 und die Vorschriften des Teils 2 Kapitel 1 des Versicherungsvertragsgesetzes mit Ausnahme der §§ 103 und 118 entsprechende Anwendung, ohne dass gegen den zur Freistellung Verpflichteten ein Direktanspruch im Sinn von § 115 des Versicherungsvertragsgesetzes begründet wird.
 
-
-## § 35 – Verteilungsverfahren
+# § 35 – Verteilungsverfahren
 
 (1) Ist damit zu rechnen, daß die gesetzlichen Schadensersatzverpflichtungen aus einem Schadensereignis die zur Erfüllung der Schadensersatzverpflichtungen zur Verfügung stehenden Mittel übersteigen, so wird ihre Verteilung sowie das dabei zu beobachtende Verfahren durch Gesetz, bis zum Erlaß eines solchen Gesetzes durch Rechtsverordnung geregelt.
 
 (2) Die in Absatz 1 bezeichnete Rechtsverordnung kann über die Verteilung der zur Erfüllung gesetzlicher Schadensersatzverpflichtungen zur Verfügung stehenden Mittel nur solche Regelungen treffen, die zur Abwendung von Notständen erforderlich sind. Sie muß sicherstellen, daß die Befriedigung der Gesamtheit aller Geschädigten nicht durch die Befriedigung einzelner Geschädigter unangemessen beeinträchtigt wird.
 
-
-## § 36 – (weggefallen)
+# § 36 – (weggefallen)
 
 \-
 
-
-## § 37 – Rückgriff bei der Freistellung
+# § 37 – Rückgriff bei der Freistellung
 
 (1) Ist der Inhaber einer Kernanlage oder der Besitzer eines radioaktiven Stoffes nach § 34 von Schadensersatzverpflichtungen freigestellt worden, so kann gegen den Inhaber der Kernanlage oder gegen den Besitzer eines radioaktiven Stoffes in Höhe der erbrachten Leistungen Rückgriff genommen werden, soweit
 
@@ -1185,8 +1108,7 @@ Hat bei Entstehung des Schadens ein Verschulden des Verletzten mitgewirkt, so gi
 
 (2) Gegen den Inhaber der Kernanlage oder den Besitzer eines radioaktiven Stoffes kann ohne Vorliegen der in Absatz 1 genannten Voraussetzungen Rückgriff genommen werden, soweit er kein Deutscher ist und seinen Sitz, Wohnsitz oder ständigen Aufenthalt in einem Staat hat, der weder Vertragsstaat der Verträge über die Europäischen Gemeinschaften noch des Pariser Übereinkommens noch des Wiener Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll noch eines sonstigen, zum Zeitpunkt des schädigenden Ereignisses in Kraft befindlichen Übereinkommens mit der Bundesrepublik Deutschland über die Haftung für nukleare Schäden ist.
 
-
-## § 38 – Ausgleich durch den Bund
+# § 38 – Ausgleich durch den Bund
 
 (1) Hat ein durch ein nukleares Ereignis Geschädigter seinen Schaden im Geltungsbereich dieses Gesetzes erlitten und kann er nach dem auf den Schadensfall anwendbaren Recht eines anderen Vertragsstaates des Pariser Übereinkommens oder des Wiener Übereinkommens in Verbindung mit dem Gemeinsamen Protokoll keinen Ersatz verlangen, weil
 
@@ -1210,15 +1132,13 @@ so gewährt der Bund bis zum Höchstbetrag der staatlichen Freistellungsverpflic
 
 (4) Ansprüche nach den Absätzen 1 und 2 sind bei dem Bundesverwaltungsamt geltend zu machen. Sie erlöschen in drei Jahren von dem Zeitpunkt an, in dem die auf Grund ausländischen oder internationalen Rechts ergangene Entscheidung über den Schadensersatz unanfechtbar geworden ist oder erkennbar wird, dass die Rechtsverfolgung im Sinne des Absatzes 2 aussichtslos ist.
 
-
-## § 39 – Ausnahmen von den Leistungen des Bundes
+# § 39 – Ausnahmen von den Leistungen des Bundes
 
 (1) Bei der Freistellungsverpflichtung nach § 34 und dem Ausgleich nach § 38 sind die nach § 15 Abs. 1 bis 3 nachrangig zu befriedigenden Ersatzansprüche nicht zu berücksichtigen.
 
 (2) Entschädigungen nach § 29 Abs. 2 sind in die Freistellungsverpflichtung nach § 34 und den Ausgleich nach § 38 nur miteinzubeziehen, wenn die Leistung einer Entschädigung wegen der besonderen Schwere der Verletzung zur Vermeidung einer groben Unbilligkeit erforderlich ist.
 
-
-## § 40 – Klagen gegen den Inhaber einer Kernanlage, die in einem anderen Vertragsstaat gelegen ist
+# § 40 – Klagen gegen den Inhaber einer Kernanlage, die in einem anderen Vertragsstaat gelegen ist
 
 (1) Ist nach den Bestimmungen des Pariser Übereinkommens ein Gericht im Geltungsbereich dieses Gesetzes für die Entscheidung über die Schadensersatzklage gegen den Inhaber einer in einem anderen Vertragsstaat des Pariser Übereinkommens gelegenen Kernanlage zuständig, so bestimmt sich die Haftung des Inhabers nach den Vorschriften dieses Gesetzes.
 
@@ -1238,43 +1158,33 @@ so gewährt der Bund bis zum Höchstbetrag der staatlichen Freistellungsverpflic
 
 7. ob und inwieweit ein nuklearer Schaden in den Fällen des Artikels 9 des Pariser Übereinkommens ersetzt wird.
 
+# §§ 41 bis 44 – (weggefallen)
 
-## §§ 41 bis 44 – (weggefallen)
-
-
-## § 44b – Meldewesen für die Sicherheit in der Informationstechnik
+# § 44b – Meldewesen für die Sicherheit in der Informationstechnik
 
 Genehmigungsinhaber nach den §§ 6, 7 und 9 haben Beeinträchtigungen ihrer informationstechnischen Systeme, Komponenten oder Prozesse, die zu einer Gefährdung oder Störung der nuklearen Sicherheit der betroffenen kerntechnischen Anlage oder Tätigkeit führen können oder bereits geführt haben, unverzüglich an das Bundesamt für Sicherheit in der Informationstechnik als zentrale Meldestelle zu melden. § 8b Absatz 1, 2 Nummer 1 bis 3, Nummer 4 Buchstabe a bis c und Absatz 7 des BSI-Gesetzes sind entsprechend anzuwenden. Die Meldung muss Angaben zu der Störung sowie zu den technischen Rahmenbedingungen, insbesondere der vermuteten oder tatsächlichen Ursache, und der betroffenen Informationstechnik enthalten. Das Bundesamt für Sicherheit in der Informationstechnik leitet diese Meldungen unverzüglich an die für die nukleare Sicherheit und Sicherung zuständigen Genehmigungs- und Aufsichtsbehörden des Bundes und der Länder und an die von diesen bestimmten Sachverständigen nach § 20 weiter.
 
+# § 45 – (weggefallen)
 
-## § 45 – (weggefallen)
-
-
-## § 46 – Ordnungswidrigkeiten
+# § 46 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 2c Absatz 4 oder § 9i Satz 2 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
-1a.  
-Kernmaterialien befördert, ohne die nach § 4b Abs. 1 Satz 1 oder 2 erforderliche Deckungsvorsorge nachgewiesen zu haben,
+1a. Kernmaterialien befördert, ohne die nach § 4b Abs. 1 Satz 1 oder 2 erforderliche Deckungsvorsorge nachgewiesen zu haben,
 
 2. Anlagen zur Erzeugung oder zur Bearbeitung oder Verarbeitung oder zur Spaltung von Kernbrennstoffen oder zur Aufarbeitung bestrahlter Kernbrennstoffe ohne die nach § 7 Abs. 1 Satz 1, auch in Verbindung mit Abs. 5 Satz 1, erforderliche Genehmigung errichtet,
 
-2a.  
-entgegen § 7 Abs. 1a Satz 4 ein Messgerät verwendet,
+2a. entgegen § 7 Abs. 1a Satz 4 ein Messgerät verwendet,
 
-2b.  
-entgegen § 7 Abs. 1a Satz 5 ein Messgerät nicht, nicht richtig oder nicht rechtzeitig aufstellt, nicht, nicht richtig oder nicht rechtzeitig anschließt, nicht oder nicht richtig handhabt oder nicht oder nicht richtig wartet,
+2b. entgegen § 7 Abs. 1a Satz 5 ein Messgerät nicht, nicht richtig oder nicht rechtzeitig aufstellt, nicht, nicht richtig oder nicht rechtzeitig anschließt, nicht oder nicht richtig handhabt oder nicht oder nicht richtig wartet,
 
-2c.  
-entgegen § 7 Abs. 1a Satz 7 den Zustand des Messgerätes oder die erzeugte Elektrizitätsmenge nicht oder nicht rechtzeitig überprüfen oder nicht oder nicht rechtzeitig testieren lässt,
+2c. entgegen § 7 Abs. 1a Satz 7 den Zustand des Messgerätes oder die erzeugte Elektrizitätsmenge nicht oder nicht rechtzeitig überprüfen oder nicht oder nicht rechtzeitig testieren lässt,
 
-2d.  
-entgegen § 7 Abs. 1c Satz 1 Nr. 1 oder 2 oder Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder ein Ergebnis oder ein Testat nicht oder nicht rechtzeitig vorlegt,
+2d. entgegen § 7 Abs. 1c Satz 1 Nr. 1 oder 2 oder Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder ein Ergebnis oder ein Testat nicht oder nicht rechtzeitig vorlegt,
 
-2e.  
-entgegen § 7 Abs. 1c Satz 1 Nr. 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+2e. entgegen § 7 Abs. 1c Satz 1 Nr. 3 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 3. einer Festsetzung nach § 13 Abs. 1, einer vollziehbaren Auflage nach § 17 Abs. 1 Satz 2 oder 3 oder einer vollziehbaren Anordnung nach § 19 Abs. 3 zuwiderhandelt,
 
@@ -1292,11 +1202,9 @@ entgegen § 7 Abs. 1c Satz 1 Nr. 3 eine Mitteilung nicht, nicht richtig, nicht v
 
 2. das Bundesamt für die Sicherheit der nuklearen Entsorgung in den Fällen des Absatzes 1 Nr. 2a bis 2e.
 
+# §§ 47 und 48 – (weggefallen)
 
-## §§ 47 und 48 – (weggefallen)
-
-
-## § 49 – Einziehung
+# § 49 – Einziehung
 
 Ist eine vorsätzliche Ordnungswidrigkeit nach § 46 Absatz 1 Nummer 1a, 2, 3 oder 4 begangen worden, so können Gegenstände,
 
@@ -1306,16 +1214,13 @@ Ist eine vorsätzliche Ordnungswidrigkeit nach § 46 Absatz 1 Nummer 1a, 2, 3 od
 
 eingezogen werden.
 
+# §§ 50 bis 52 – (weggefallen)
 
-## §§ 50 bis 52 – (weggefallen)
-
-
-## § 53 – Erfassung von Schäden aus ungeklärter Ursache
+# § 53 – Erfassung von Schäden aus ungeklärter Ursache
 
 Schäden, die nach dem Stand der wissenschaftlichen Erkenntnis aus der Einwirkung von Strahlen radioaktiver Stoffe herrühren und deren Verursacher nicht festgestellt werden kann, sind bei dem für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesministerium zu registrieren und zu untersuchen.
 
-
-## § 54 – Erlaß von Rechtsverordnungen
+# § 54 – Erlaß von Rechtsverordnungen
 
 (1) Rechtsverordnungen auf Grund der §§ 2, 9g, 11, 12, 12b, 13, 21 Abs. 3, § 21a Abs. 2 und § 21b Abs. 3 erläßt die Bundesregierung. Das gleiche gilt für Rechtsverordnungen auf Grund des § 10, soweit Ausnahmen von dem Erfordernis einer Genehmigung nach § 7 zugelassen werden. Die übrigen in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt der für die kerntechnische Sicherheit und den Strahlenschutz zuständige Bundesminister.
 
@@ -1323,25 +1228,21 @@ Schäden, die nach dem Stand der wissenschaftlichen Erkenntnis aus der Einwirkun
 
 (3) Die Bundesregierung kann durch Rechtsverordnung die in den §§ 11 und 12 bezeichneten Ermächtigungen ganz oder teilweise auf den für die kerntechnische Sicherheit und den Strahlenschutz zuständigen Bundesminister übertragen.
 
-
-## § 55 – (Aufhebung von Rechtsvorschriften)
+# § 55 – (Aufhebung von Rechtsvorschriften)
 
 \-
 
-
-## § 56 – Genehmigungen auf Grund Landesrechts
+# § 56 – Genehmigungen auf Grund Landesrechts
 
 (1) Die auf Grund Landesrechts erteilten Genehmigungen, Befreiungen und Zustimmungen für die Errichtung und den Betrieb von Anlagen im Sinne des § 7 bleiben wirksam. Sie stehen einer nach § 7 erteilten Genehmigung, die mit ihnen verbundenen Auflagen den gemäß § 17 Abs. 1 angeordneten Auflagen gleich. Soweit mit der landesrechtlichen Genehmigung Bestimmungen über die vom Inhaber der Anlage zu treffende Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen verbunden sind, gelten diese vorbehaltlich des Absatzes 2 als Festsetzung im Sinne des § 13 Abs. 1.
 
 (2) Die vom Inhaber der Anlage zu treffende Deckungsvorsorge wird von der Verwaltungsbehörde (§ 24 Abs. 2) innerhalb von drei Monaten nach Inkrafttreten des Gesetzes festgesetzt; § 13 Abs. 1 Satz 2 letzter Halbsatz gilt entsprechend. Wird gemäß § 13 Abs. 4 eine Einstandspflicht festgesetzt, so wirkt diese auf den Zeitpunkt des Inkrafttretens dieses Gesetzes zurück.
 
-
-## § 57 – Abgrenzungen
+# § 57 – Abgrenzungen
 
 Auf den Umgang mit Kernbrennstoffen finden das Sprengstoffgesetz und die auf Grund dieses Gesetzes erlassenen Rechtsvorschriften sowie landesrechtliche Vorschriften auf dem Gebiet des Sprengstoffwesens keine Anwendung.
 
-
-## § 57a – Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
+# § 57a – Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
 
 Für bis zum 30. Juni 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet erteilte Genehmigungen, Erlaubnisse und Zulassungen gilt folgendes:
 
@@ -1361,8 +1262,7 @@ werden mit dem 27. April 2002 unwirksam; im Übrigen bestehen diese Genehmigunge
 
 (2) (weggefallen)
 
-
-## § 57b – Betrieb und Stilllegung der Schachtanlage Asse II
+# § 57b – Betrieb und Stilllegung der Schachtanlage Asse II
 
 (1) Für den Betrieb und die Stilllegung der Schachtanlage Asse II gelten die für die Anlagen des Bundes nach § 9a Absatz 3 geltenden Vorschriften nach Maßgabe der Absätze 2 bis 7.
 
@@ -1388,8 +1288,7 @@ Der Störfallplanungswert für die Planung von Rückholungs- und Stilllegungsma�
 
 (9) § 24 Absatz 2 in der bis zum Inkrafttreten dieses Gesetzes geltenden Fassung gilt für die Schachtanlage Asse II fort; § 23d Satz 1 findet mit Ausnahme von Nummer 2 keine Anwendung.
 
-
-## § 58 – Übergangsvorschriften
+# § 58 – Übergangsvorschriften
 
 (1) § 21 Abs. 1a ist auch auf die am 11. Mai 2000 anhängigen Verwaltungsverfahren anzuwenden, soweit zu diesem Zeitpunkt die Kosten nicht bereits festgesetzt sind.
 
@@ -1401,16 +1300,13 @@ Der Störfallplanungswert für die Planung von Rückholungs- und Stilllegungsma�
 
 (5) § 9a Absatz 3 Satz 4 wird für das Endlager für radioaktive Abfälle Morsleben, das Endlager Schacht Konrad und die Schachtanlage Asse II erst ab dem 1. Januar 2018 angewendet. Gleiches gilt für das nach § 36 Absatz 2 des Standortauswahlgesetzes offenzuhaltende Bergwerk.
 
+# § 58a – (weggefallen)
 
-## § 58a – (weggefallen)
-
-
-## § 59 – (Inkrafttreten)
+# § 59 – (Inkrafttreten)
 
 \-
 
-
-## Anlage 1 – Begriffsbestimmungen nach § 2 Abs. 4
+# Anlage 1 – Begriffsbestimmungen nach § 2 Abs. 4
 
 Fundstelle des Originaltextes: BGBl. I 1985, 1583;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1435,8 +1331,7 @@ b) Radioisotope außerhalb einer Kernanlage, die das Endstadium der Herstellung 
 
 (2) Sonderziehungsrechte im Sinne dieses Gesetzes sind Sonderziehungsrechte des Internationalen Währungsfonds (BGBl. 1978 II S. 13), wie er sie für seine eigenen Operationen und Transaktionen verwendet.
 
-
-## Anlage 2 – Haftungs- und Deckungsfreigrenzen
+# Anlage 2 – Haftungs- und Deckungsfreigrenzen
 
 Fundstelle des Originaltextes: BGBl. I 1985, 1583
 
@@ -1450,13 +1345,11 @@ Fundstelle des Originaltextes: BGBl. I 1985, 1583
 
 das 10(hoch)5fache der Freigrenze nicht überschreitet und die bei angereichertem Uran nicht mehr als 350 Gramm Uran 235 enthalten. Freigrenze ist die Aktivität oder Menge, bis zu der es für den Umgang einer Genehmigung oder Anzeige nach diesem Gesetz, dem Strahlenschutzgesetz oder einer auf Grund dieser Gesetze erlassenen Rechtsverordnung nicht bedarf.
 
-
-## Anlage 3 – (zu § 7 Absatz 1a)Elektrizitätsmengen nach § 7 Absatz 1a
+# Anlage 3 – (zu § 7 Absatz 1a)Elektrizitätsmengen nach § 7 Absatz 1a
 
 Anlage 3 Fußn.: IdF d. Art. 1 Nr. 3 Buchst. b G v. 31.7.2011 I 1704 mWv 6.8.2011; nach Maßgabe der Entscheidungsformel mit GG (100-1) unvereinbar gem. BVerfGE v. 6.12.2016 I 3451 (1 BvR 2821/11 u. a.)
 
-
-## Anlage 4 – Sicherheitsüberprüfung nach § 19a Abs. 1
+# Anlage 4 – Sicherheitsüberprüfung nach § 19a Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1357
 

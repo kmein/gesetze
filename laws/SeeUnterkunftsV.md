@@ -1,17 +1,11 @@
-# [SeeUnterkunftsV] Verordnung über die Unterkünfte und Freizeiteinrichtungen der Besatzungsmitglieder an Bord von Kauffahrteischiffen  (See-Unterkunftsverordnung - SeeUnterkunftsV)
-
-Ausfertigungsdatum: 17.10.2019
-
+% Verordnung über die Unterkünfte und Freizeiteinrichtungen der Besatzungsmitglieder an Bord von Kauffahrteischiffen  (See-Unterkunftsverordnung - SeeUnterkunftsV)
+% Ausfertigungsdatum: 17.10.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Arbeit und Soziales verordnet auf Grund des § 96 des Seearbeitsgesetzes, der durch Artikel 8 Nummer 8 des Gesetzes vom 25. November 2015 (BGBl. I S. 2095) geändert worden ist, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium für Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -67,8 +61,9 @@ Das Bundesministerium für Arbeit und Soziales verordnet auf Grund des § 96 des
 
  
 
+ 
 
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für die Unterkünfte, die Freizeiteinrichtungen und die medizinischen Räumlichkeiten für Besatzungsmitglieder auf Kauffahrteischiffen, die
 
@@ -76,8 +71,7 @@ Diese Verordnung gilt für die Unterkünfte, die Freizeiteinrichtungen und die m
 
 2. nach dem 1. November 2019 auf Kiel gelegt worden sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Zu den Unterkünften und Freizeiteinrichtungen im Sinne dieser Verordnung gehören
 
@@ -123,8 +117,7 @@ i) Gänge in den Bereichen des Schiffs, die der Unterbringung der Besatzungsmitg
 
 Bei Schiffen mit Kielfall hat die Wasserlinie, in der diese Länge gemessen wird, parallel zur Konstruktionswasserlinie zu verlaufen.
 
-
-## § 3 – Allgemeine Anforderungen an Unterkünfte und Freizeiteinrichtungen
+# § 3 – Allgemeine Anforderungen an Unterkünfte und Freizeiteinrichtungen
 
 Der Reeder hat dafür zu sorgen, dass die Unterkünfte und Freizeiteinrichtungen
 
@@ -136,13 +129,11 @@ Der Reeder hat dafür zu sorgen, dass die Unterkünfte und Freizeiteinrichtungen
 
 4. für eine menschenwürdige und gesundheitsgerechte Unterbringung oder Verpflegung der Besatzungsmitglieder, soweit dafür vorgesehen, geeignet sind.
 
-
-## § 4 – Bekanntmachung
+# § 4 – Bekanntmachung
 
 Auf jedem Schiff ist den Besatzungsmitgliedern der Wortlaut dieser Verordnung in der im Borddienst gebräuchlichen Sprache zugänglich zu machen.
 
-
-## § 5 – Genehmigung vor Bau, wesentlicher Änderung oder Flaggenwechsel eines Schiffs
+# § 5 – Genehmigung vor Bau, wesentlicher Änderung oder Flaggenwechsel eines Schiffs
 
 (1) Wer den Bau eines Schiffs in Auftrag gibt, hat vor Beginn des Baus der Berufsgenossenschaft alle erforderlichen Pläne und Unterlagen der Unterkünfte und Freizeiteinrichtungen vorzulegen und die Zustimmung der Berufsgenossenschaft hierzu einzuholen. Aus den Plänen und Unterlagen müssen erkennbar sein
 
@@ -162,8 +153,7 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Unterkünfte und Freizeiteinric
 
 (2) Bei der Bauausführung darf von den vorgelegten Plänen nur dann abgewichen werden, wenn die Berufsgenossenschaft der Abweichung zugestimmt hat.
 
-
-## § 6 – Ausnahmen
+# § 6 – Ausnahmen
 
 (1) Die Berufsgenossenschaft kann für Schiffe, auf denen die Interessen von Besatzungsmitgliedern mit unterschiedlichen religiösen und sozialen Gebräuchen zu berücksichtigen sind, zur Vermeidung von Diskriminierung Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit die dadurch entstehenden Verhältnisse im Ganzen nicht ungünstiger sind als die Verhältnisse, die sich aus der Anwendung dieser Verordnung ergeben würden.
 
@@ -197,8 +187,7 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Unterkünfte und Freizeiteinric
 
 9. Freizeitbereiche und Freizeiträume (§ 28).
 
-
-## § 7 – Wände, Decken, Fußböden
+# § 7 – Wände, Decken, Fußböden
 
 (1) In allen Unterkunftsräumen ist eine angemessene Deckenhöhe einzuhalten. Die lichte Höhe muss in allen Unterkunftsräumen, in denen volle Bewegungsfreiheit erforderlich ist, mindestens 203 Zentimeter betragen. Die Berufsgenossenschaft kann eine geringere Mindestdeckenhöhe zulassen, wenn dadurch die Gesundheit und das Wohlbefinden der Besatzungsmitglieder nicht beeinträchtigt werden.
 
@@ -226,15 +215,13 @@ Die Innenwände und Decken der Unterkunftsräume, mit Ausnahme der Küchen und T
 
 (5) Die Übergänge zwischen Fußbodenbelägen aus Verbundwerkstoffen und Wänden müssen so mit Profilen versehen sein, dass Fugen möglichst vermieden werden.
 
-
-## § 8 – Isolierung
+# § 8 – Isolierung
 
 (1) Die Unterkunftsräume müssen gegen Kälte und Hitze, die von außen oder aus Nachbarräumen einwirken, wirksam isoliert sein. Die Isolierung muss zweckmäßig sein und gewährleisten, dass Kondenswasser abfließen kann.
 
 (2) Technische Einrichtungen, die die Temperatur in den Unterkunftsräumen beeinflussen können, müssen isoliert sein.
 
-
-## § 9 – Schutzvorrichtungen gegen Ungeziefer
+# § 9 – Schutzvorrichtungen gegen Ungeziefer
 
 (1) Unterkunftsräume, Vorratsräume und Kühlräume sind gegen das Eindringen und das Einnisten von Ungeziefer zu schützen.
 
@@ -246,8 +233,7 @@ Die Innenwände und Decken der Unterkunftsräume, mit Ausnahme der Küchen und T
 
 Bei Klimaanlagen kann auf zusätzlichen Insektenschutz verzichtet werden, wenn sie mit einem Reservemotor ausgestattet sind.
 
-
-## § 10 – Beleuchtung
+# § 10 – Beleuchtung
 
 (1) Schlafräume, Wohnräume, Messen und sonstige Aufenthaltsräume müssen durch Tageslicht angemessen erhellt sein; dies gilt nicht auf
 
@@ -265,8 +251,7 @@ wenn diese Räume ausnahmsweise unter der Ladelinie untergebracht werden dürfen
 
 (4) Wenn auf einem Fischereifahrzeug in den Messen, Gängen oder sonstigen Räumen, die als Notausgang verwendet werden, keine Notbeleuchtung vorhanden ist, ist in solchen Räumen eine ständige Nachtbeleuchtung vorzusehen.
 
-
-## § 11 – Luftreinhaltung, raumlufttechnische Anlagen
+# § 11 – Luftreinhaltung, raumlufttechnische Anlagen
 
 (1) Unterkunftsräume sind so anzuordnen und auszustatten, dass sie gegen Luftverunreinigung aus anderen Schiffsteilen, insbesondere gegen Maschinenabgase, sowie gegen Abluft aus Tanks, Küchen, medizinischen Räumlichkeiten und sanitären Einrichtungen, geschützt sind.
 
@@ -286,8 +271,7 @@ wenn diese Räume ausnahmsweise unter der Ladelinie untergebracht werden dürfen
 
 (6) Durch Reinigung und Wartung der raumlufttechnischen Anlagen hat der Reeder sicherzustellen, dass gesundheitliche Beeinträchtigungen der Besatzungsmitglieder durch diese Anlagen vermieden werden.
 
-
-## § 12 – Heizungsanlage
+# § 12 – Heizungsanlage
 
 (1) Die Unterkunftsräume müssen mit einer Heizungsanlage ausgestattet sein, die eine der Gesundheit zuträgliche Temperatur unter den Wetter- und Klimabedingungen, denen das Schiff auf der Fahrt ausgesetzt sein wird, gewährleistet; davon ausgenommen sind Schiffe, die ausschließlich in den Tropen verkehren. Die Heizungsanlage ist in Betrieb zu halten, wenn sich Besatzungsmitglieder an Bord aufhalten und die Witterung es erfordert.
 
@@ -295,13 +279,11 @@ wenn diese Räume ausnahmsweise unter der Ladelinie untergebracht werden dürfen
 
 (3) Heizkörper und sonstige Heizgeräte müssen so aufgestellt und abgeschirmt sein, dass die Gefahr eines Brandes oder eine Gefährdung oder Belästigung der Besatzungsmitglieder vermieden werden.
 
-
-## § 13 – Leitungen
+# § 13 – Leitungen
 
 Leitungen mit gesundheitsgefährlichen Gasen oder Flüssigkeiten oder Leitungen, die unter einem so hohen inneren Überdruck stehen, dass sie bei einem Undichtwerden Leben oder Gesundheit der Besatzungsmitglieder gefährden können, dürfen nicht in Unterkunftsräumen, ausgenommen in Küchen, verlegt sein.
 
-
-## § 14 – Verhütung von Lärm und Vibrationen
+# § 14 – Verhütung von Lärm und Vibrationen
 
 (1) Unterkunftsräume und Freizeitbereiche an Deck dürfen keinen Lärmbelastungen oder Vibrationen ausgesetzt sein, die der Gesundheit oder dem Wohlbefinden der Besatzungsmitglieder nicht zuträglich sind.
 
@@ -309,8 +291,7 @@ Leitungen mit gesundheitsgefährlichen Gasen oder Flüssigkeiten oder Leitungen,
 
 (3) Bei Bau und Verkleidung der Wände, Decken und Fußböden in den Lärmquellen aufweisenden Räumen sowie von selbstschließenden schalldichten Türen in Maschinenräumen sind Schallabdichtungen und andere geeignete schallschluckende Materialien zu verwenden.
 
-
-## § 15 – Schlafräume
+# § 15 – Schlafräume
 
 (1) Für die Besatzungsmitglieder sind Schlafräume vorzusehen, wenn die Betriebsumstände eine Übernachtung an Bord erforderlich machen.
 
@@ -338,8 +319,7 @@ Die Regelungen zu den Mindestbodenflächen in § 16 Absatz 4 Nummer 1 gelten ent
 
 (7) Soweit möglich, ist bei der Gestaltung von Schlafräumen die Mitnahme von Partnern der Besatzungsmitglieder zu berücksichtigen.
 
-
-## § 16 – Bodenflächen
+# § 16 – Bodenflächen
 
 (1) In Schlafräumen mit Einzelkojen darf die Bodenfläche nicht geringer sein als
 
@@ -385,8 +365,7 @@ wenn diesen Besatzungsmitgliedern neben dem Schlafraum kein gesonderter Wohnraum
 
 (8) Dem Kapitän, dem Leiter der Maschinenanlage und dem Ersten Offizier muss zusätzlich zu ihrem jeweiligen Schlafraum ein mit diesem Schlafraum unmittelbar in Verbindung stehender Wohnraum, Tagesraum oder ein gleichwertiger zusätzlicher Raum zur Verfügung stehen. Die Berufsgenossenschaft kann im Einzelfall für Schiffe mit einer Bruttoraumzahl von weniger als 3 000 Ausnahmen von Satz 1 zulassen.
 
-
-## § 17 – Kojen und sonstige Schlafraumausstattungen
+# § 17 – Kojen und sonstige Schlafraumausstattungen
 
 (1) Im Schlafraum ist jedem Besatzungsmitglied eine Einzelkoje zur Verfügung zu stellen, die seiner Körpergröße entspricht. Die Innenmaße einer Koje müssen mindestens 200 Zentimeter mal 80 Zentimeter betragen. Auf Fischereifahrzeugen müssen die Innenmaße abweichend von Satz 2 mindestens 198 Zentimeter mal 80 Zentimeter betragen.
 
@@ -428,8 +407,7 @@ Die Fenster der Schlafräume sind mit Vorhängen auszustatten.
 
 (8) Die Einrichtungsgegenstände dürfen keine scharfen Kanten haben. Sie müssen, mit Ausnahme der gepolsterten Teile, aus einem festen, glatten und gegen Korrosion geschützten Werkstoff bestehen.
 
-
-## § 18 – Küchen, Vorratsräume und Kühlräume
+# § 18 – Küchen, Vorratsräume und Kühlräume
 
 (1) Es sind Küchen vorzusehen, wenn die Betriebsumstände eine Zubereitung von Speisen an Bord erforderlich machen. Die Küchen müssen insbesondere ausgestattet sein mit
 
@@ -453,8 +431,7 @@ Die Fenster der Schlafräume sind mit Vorhängen auszustatten.
 
 2. auf Fischereifahrzeugen mit einer Länge von weniger als 24 Metern.
 
-
-## § 19 – Messen, Pantries und Ausstattungen
+# § 19 – Messen, Pantries und Ausstattungen
 
 (1) Es sind Messen vorzusehen, wenn die Betriebsumstände Aufenthaltsräume erforderlich machen, in denen die Besatzungsmitglieder ihre Mahlzeiten einnehmen können. Soweit es die Größe des Schiffs zulässt, sind getrennte Messen für den Kapitän und die Offiziere einerseits sowie für die übrigen Besatzungsmitglieder andererseits einzurichten. Dabei sind die besonderen kulturellen, religiösen und sozialen Bedürfnisse der Besatzungsmitglieder zu berücksichtigen.
 
@@ -480,8 +457,7 @@ Diese Einrichtungen müssen jederzeit zugänglich sein. Sie sollen nach Möglich
 
 (6) Den Besatzungsmitgliedern ist geeignetes Essgeschirr und Besteck zur Verfügung zu stellen. Teller, Gläser und andere Messeutensilien müssen aus leicht zu säuberndem Material bestehen.
 
-
-## § 20 – Anzahl und Anordnung der sanitären Einrichtungen
+# § 20 – Anzahl und Anordnung der sanitären Einrichtungen
 
 (1) Für die Besatzungsmitglieder sind sanitäre Einrichtungen, getrennt nach Männern und Frauen vorzusehen.
 
@@ -503,8 +479,7 @@ Die Berufsgenossenschaft kann im Einzelfall für Schiffe mit einer Bruttoraumzah
 
 (7) Für Fahrgastschiffe, die normalerweise zu Reisen mit einer Fahrtdauer von höchstens vier Stunden eingesetzt werden, kann die Berufsgenossenschaft Sonderregelungen oder eine Herabsetzung der sich aus den Absätzen 1 bis 5 ergebenden Anzahl der sanitären Einrichtungen genehmigen.
 
-
-## § 21 – Ausstattung und Gestaltung der sanitären Einrichtungen
+# § 21 – Ausstattung und Gestaltung der sanitären Einrichtungen
 
 (1) An allen Waschstellen muss fließendes warmes und kaltes Trinkwasser vorhanden sein.
 
@@ -528,8 +503,7 @@ jede Toilette muss mit einer starken und jederzeit verwendungsbereiten Wassersp�
 
 5. die Abflussrohre müssen so eingerichtet sein, dass sie nicht leicht verstopfen, dass sie leicht gereinigt werden können und dass auch bei tiefen Außentemperaturen ein ungehindertes Abfließen der Abwässer sichergestellt ist; die Abflussrohre dürfen nicht entlang der Decke von Messen, Schlaf- und Vorratsräumen sowie Küchen und Pantries verlaufen; sie dürfen nicht in der Nähe von Ansaugöffnungen der Trinkwasseraufbereitungsanlage ins Freie münden.
 
-
-## § 22 – Behandlungsraum
+# § 22 – Behandlungsraum
 
 (1) Über einen von anderen Unterkunftsräumen getrennten Raum für die medizinische Behandlung von Personen an Bord (Behandlungsraum) müssen verfügen:
 
@@ -549,8 +523,7 @@ jede Toilette muss mit einer starken und jederzeit verwendungsbereiten Wassersp�
 
 (5) Auf Fischereifahrzeugen, die über keinen Behandlungsraum verfügen, ist einem erkrankten oder verletzten Besatzungsmitglied ein Schlafraum oder ein gleichwertiger Unterkunftsraum zur Verfügung zu stellen.
 
-
-## § 23 – Krankenraum
+# § 23 – Krankenraum
 
 (1) Die in § 22 Absatz 1 bezeichneten Schiffe müssen zusätzlich zu dem Behandlungsraum über mindestens einen von anderen Unterkunftsräumen getrennten Raum zur Pflege erkrankter oder verletzter Personen an Bord verfügen (Krankenraum). Abweichend von Satz 1 müssen Fahrgastschiffe in der Europäischen Fahrt nur bei Reisen, die länger als zwölf Stunden dauern, einen Krankenraum haben.
 
@@ -564,18 +537,15 @@ jede Toilette muss mit einer starken und jederzeit verwendungsbereiten Wassersp�
 
 (6) Auf einen Krankenraum kann verzichtet werden, wenn für jede Person ein eigener Schlafraum mit einer abgeteilten Sanitärzelle mit Waschbecken, Dusche oder Badewanne und Toilette sowie mit einer Rufanlage oder einem Telefon nach Absatz 3 vorhanden ist.
 
-
-## § 24 – Eingriffsraum
+# § 24 – Eingriffsraum
 
 Schiffe, die nach Maßgabe der Schiffsbesetzungsverordnung mit einem Schiffsarzt zu besetzen sind, müssen neben dem Behandlungsraum und dem Krankenraum über einen besonderen Eingriffsraum von mindestens 10 Quadratmetern Bodenfläche verfügen. Der Eingriffsraum muss bestimmungsgemäß ausgestattet sein und dem Stand der Technik entsprechen.
 
-
-## § 25 – Büroräume
+# § 25 – Büroräume
 
 Auf Schiffen müssen von anderen Unterkunftsräumen getrennte Büroräume oder ein gemeinsames Schiffsbüro für den Decksdienst und den Maschinendienst vorhanden sein. Die Berufsgenossenschaft kann im Einzelfall für Schiffe mit einer Bruttoraumzahl von weniger als 3 000 Ausnahmen von Satz 1 zulassen.
 
-
-## § 26 – Einrichtungen zur Wäschepflege
+# § 26 – Einrichtungen zur Wäschepflege
 
 (1) Folgende Einrichtungen zur Wäschepflege müssen für Besatzungsmitglieder vorhanden sein, soweit die Betriebsumstände dies erfordern:
 
@@ -587,8 +557,7 @@ Auf Schiffen müssen von anderen Unterkunftsräumen getrennte Büroräume oder e
 
 (2) Auf Fischereifahrzeugen mit einer Länge von 45 Metern oder mehr sind die Einrichtungen für die Wäschepflege in einem gesonderten Raum mit angemessener Lüftung und Heizung vorzusehen.
 
-
-## § 27 – Einrichtungen zur Aufbewahrung von Kleidung und persönlichen Gegenständen, Umkleideeinrichtungen
+# § 27 – Einrichtungen zur Aufbewahrung von Kleidung und persönlichen Gegenständen, Umkleideeinrichtungen
 
 (1) Außerhalb der Schlafräume muss ein gut belüfteter Raum mit verschließbaren Einrichtungen für das Aufbewahren von persönlicher Schutzausrüstung vorhanden sein.
 
@@ -596,8 +565,7 @@ Auf Schiffen müssen von anderen Unterkunftsräumen getrennte Büroräume oder e
 
 (3) Auf Schiffen mit einer Bruttoraumzahl von 3 000 oder mehr müssen für die Besatzungsmitglieder zusätzlich zu den Schlafräumen und den sanitären Einrichtungen leicht zugängliche Umkleideeinrichtungen vorhanden sein, die mit Einzelspinden sowie mit Waschbecken und Duschen ausgestattet sind.
 
-
-## § 28 – Freizeitbereiche und Freizeiträume
+# § 28 – Freizeitbereiche und Freizeiträume
 
 (1) Für Besatzungsmitglieder sind ein oder mehrere Freizeitbereiche an Deck vorzusehen. Die Freizeitbereiche müssen so gelegen oder abgeschirmt sein, dass die erholungssuchenden Besatzungsmitglieder möglichst gegen Wind, Spritzwasser, Abgase und Abluft von Absauganlagen geschützt sind.
 
@@ -625,8 +593,7 @@ Auf Schiffen müssen von anderen Unterkunftsräumen getrennte Büroräume oder e
 
 (5) Messen dürfen auch als Freizeiträume genutzt werden, wenn sie entsprechend ausgestattet sind.
 
-
-## § 29 – Ordnungswidrigkeiten
+# § 29 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 145 Absatz 1 Nummer 18 des Seearbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -634,8 +601,7 @@ Ordnungswidrig im Sinne des § 145 Absatz 1 Nummer 18 des Seearbeitsgesetzes han
 
 2. entgegen § 5 Absatz 2 bei der Bauausführung von den Plänen abweicht.
 
-
-## § 30 – Übergangsvorschriften
+# § 30 – Übergangsvorschriften
 
 (1) Abweichend von § 1 sind auf Schiffe, die vor dem 1. August 2013 auf Kiel gelegt worden sind, die folgenden Rechtsvorschriften anzuwenden:
 
@@ -663,17 +629,15 @@ b) den Anforderungen der §§ 22 bis 24,
 
 3. wenn es nach dem 31. Juli 2013 auf Kiel gelegt wird, den Anforderungen dieser Verordnung entsprechen.
 
-
-## § 31 – Inkrafttreten, Außerkrafttreten
+# § 31 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 2019 in Kraft. Gleichzeitig tritt die See-Unterkunftsverordnung vom 25. Juli 2013 (BAnz AT 30.07.2013 V1) außer Kraft.
 
-
-## Anlage 1 – (zu § 22 Absatz 3)Apothekenschrank für die Aufbewahrung der medizinischen Ausstattung an Bord
+# Anlage 1 – (zu § 22 Absatz 3)Apothekenschrank für die Aufbewahrung der medizinischen Ausstattung an Bord
 
 (Fundstelle: BGBl. I 2019, 1463)
 
-![](../normengrafiken/bgbl1_2019/j1453-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1453-1_0010.jpg)
 
  
 

@@ -1,15 +1,11 @@
-# [MulMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Maler- und Lackierer-Handwerk  (Maler- und Lackierermeisterverordnung - MulMstrV)
-
-Ausfertigungsdatum: 13.06.2005
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Maler- und Lackierer-Handwerk  (Maler- und Lackierermeisterverordnung - MulMstrV)
+% Ausfertigungsdatum: 13.06.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 1 Nr. 39 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 (1) Die Meisterprüfung im zulassungspflichtigen Maler- und Lackierer-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -23,8 +19,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (2) Für die Meisterprüfung in Teil I im Maler- und Lackierer-Handwerk werden die Schwerpunkte Gestaltung und Instandhaltung, Kirchenmalerei und Denkmalpflege, Bauten- und Korrosionsschutz sowie Fahrzeuglackierung gebildet; der Prüfling hat einen dieser Schwerpunkte auszuwählen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung wird festgestellt, dass der Prüfling befähigt ist, einen Betrieb selbständig zu führen, technische, kaufmännische und personalwirtschaftliche Leitungsaufgaben wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz eigenverantwortlich umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
@@ -140,13 +135,11 @@ h) karosserie- und fahrzeugspezifische Informationen beschaffen, analysieren und
 
 i) Maßnahmen, insbesondere zur Pflege, Wartung und Konservierung von Fahrzeugen konzipieren, durchführen und kontrollieren.
 
-
-## § 3 – Gliederung des Teils I
+# § 3 – Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die auftragsbezogenen Kundenanforderungen werden vom Meisterprüfungsausschuss festgelegt. Vorschläge des Prüflings für den Kundenauftrag sollen berücksichtigt werden. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept, einschließlich einer Zeit- und Materialbedarfsplanung. Dieses hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Kundenanforderungen entspricht.
 
@@ -182,13 +175,11 @@ entwerfen, die ablauf-, anwendungs- und werkstofftechnische Ausführung planen u
 
 (5) Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 40 vom Hundert, die durchgeführten Arbeiten mit 50 vom Hundert und die Dokumentation mit 10 vom Hundert gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Prüfungsdauer und Bestehen des Teils I
+# § 6 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als sechs Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern.
 
@@ -196,8 +187,7 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichendePrüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2 genannten Handlungsfeldern seine Handlungskompetenz dadurch nachweisen, dass er berufsbezogene Probleme analysieren und bewerten sowie Lösungswege aufzeigen und dokumentieren und dabei aktuelle Entwicklungen berücksichtigen kann.
 
@@ -297,19 +287,16 @@ i) Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen.
 
 (+++ § 7 Abs. 6 u. 7: Zur Anwendung vgl. § 9 +++)
 
-
-## § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die Regelungen des § 7 Absatz 6 und 7 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2005 in Kraft.

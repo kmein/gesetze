@@ -1,17 +1,11 @@
-# [GDBNDVerfSchVDV] Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes  (GDBNDVerfSchVDV)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes  (GDBNDVerfSchVDV)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes in Verbindung mit § 10 und Anlage 2 Nummer 16 und 21 der Bundeslaufbahnverordnung – Anlage 2 Nummer 21 der Bundeslaufbahnverordnung in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 14. März 2018 (BGBl. I S. 374) –, von denen § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, § 10 der Bundeslaufbahnverordnung durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert worden ist und Anlage 2 der Bundeslaufbahnverordnung durch Artikel 1 Nummer 14 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) neu gefasst worden ist, verordnen das Bundeskanzleramt und das Bundesministerium des Innern, für Bau und Heimat:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -73,8 +67,9 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes in 
 
  
 
+ 
 
-## § 1 – Studium
+# § 1 – Studium
 
 Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist
 
@@ -82,8 +77,7 @@ Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den Nachrichtendie
 
 2. in der Fachrichtung „Verfassungsschutz“ der Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes.
 
-
-## § 2 – Ziele des Studiums
+# § 2 – Ziele des Studiums
 
 (1) Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen Dienst im Bundesnachrichtendienst und im gehobenen Dienst im Verfassungsschutz des Bundes erforderlich sind.
 
@@ -93,8 +87,7 @@ Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den Nachrichtendie
 
 (4) Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns, zum selbständigen und zum wirtschaftlichen Handeln, sowie die soziale Kompetenz sind zu fördern.
 
-
-## § 3 – Dienstbehörden
+# § 3 – Dienstbehörden
 
 (1) Dienstbehörde ist
 
@@ -104,8 +97,7 @@ Der Diplomstudiengang „Gehobener nichttechnischer Dienst in den Nachrichtendie
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
 
-
-## § 4 – Ausbildungsbehörden
+# § 4 – Ausbildungsbehörden
 
 Ausbildungsbehörden sind
 
@@ -113,8 +105,7 @@ Ausbildungsbehörden sind
 
 2. andere Bundesbehörden oder Landesbehörden, die von der Dienstbehörde als Ausbildungsbehörden bestimmt worden sind.
 
-
-## § 5 – Dienstaufsicht
+# § 5 – Dienstaufsicht
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die Leiterin oder der Leiter der Dienstbehörde.
 
@@ -124,13 +115,11 @@ Ausbildungsbehörden sind
 
 2. während der Fachstudien der Dienstaufsicht der Präsidentin oder des Präsidenten der Hochschule.
 
-
-## § 6 – Erholungsurlaub
+# § 6 – Erholungsurlaub
 
 Erholungsurlaub wird in der Regel während der berufspraktischen Studienzeiten gewährt.
 
-
-## § 7 – Nachteilsausgleich
+# § 7 – Nachteilsausgleich
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, werden im Auswahlverfahren, bei Leistungstests und bei Prüfungen auf Antrag angemessene Erleichterungen gewährt.
 
@@ -144,8 +133,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Studienzeiten g
 
 (3) Art und Umfang der Erleichterungen sind mit den Betroffenen rechtzeitig zu erörtern. Bei schwerbehinderten Menschen und bei gleichgestellten behinderten Menschen erfolgt zudem eine Erörterung mit der Schwerbehindertenvertretung, sofern die betroffene Person dem nicht widerspricht. Bei Bedarf kann ein ärztliches oder ein amtsärztliches Gutachten gefordert werden. Die Kosten für das Gutachten trägt die Dienstbehörde.
 
-
-## § 8 – Bewertung der Leistungen im Studium und in den Prüfungen
+# § 8 – Bewertung der Leistungen im Studium und in den Prüfungen
 
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen werden wie folgt bewertet:  
   
@@ -299,8 +287,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Wenn eine Leistung von mehr als einer oder einem Prüfenden bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer Bewertung zusammengefasst werden, wird als Bewertung eine Rangpunktzahl berechnet. Rangpunktzahlen sind, soweit in dieser Verordnung nicht etwas anderes bestimmt ist, auf zwei Nachkommastellen ohne Rundung zu berechnen.
 
-
-## § 9 – Prüfende
+# § 9 – Prüfende
 
 (1) Die Prüfenden müssen mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen.
 
@@ -308,8 +295,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (+++ § 9 Abs. 1: zur Anwendung vgl. § 68 Abs. 1 Satz 4 +++)
 
-
-## § 10 – Abweichende Bewertungen
+# § 10 – Abweichende Bewertungen
 
 (1) Weichen die Bewertungen von zwei Prüfenden um höchstens drei Rangpunkte voneinander ab, so wird als Bewertung eine Rangpunktzahl ermittelt, die das arithmetische Mittel der beiden Einzelbewertungen ist.
 
@@ -323,8 +309,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 3. der Bewertung der oder des Drittprüfenden.
 
-
-## § 11 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 11 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und für den gehobenen Dienst im Verfassungsschutz des Bundes geeignet sind. Insbesondere wird festgestellt, ob sie über das erforderliche Allgemeinwissen, die erforderlichen kognitiven, methodischen und sozialen Kompetenzen und die erforderliche Leistungsmotivation verfügen.
 
@@ -340,8 +325,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
 
-
-## § 12 – Auswahlkommission
+# § 12 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Dienstbehörde eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt die Dienstbehörde sicher, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -365,13 +349,11 @@ In begründeten Fällen kann höchstens ein Mitglied der Auswahlkommission eine 
 
 (+++ § 12 Abs. 5 und 6: zur Anwendung vgl. § 68 Abs. 6 +++)
 
-
-## § 13 – Teile des Auswahlverfahrens
+# § 13 – Teile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-
-## § 14 – Festlegungen der Dienstbehörde
+# § 14 – Festlegungen der Dienstbehörde
 
 (1) Die Dienstbehörde legt fest:
 
@@ -387,8 +369,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder vor jedem Teil des Auswahlverfahrens.
 
-
-## § 15 – Schriftlicher Teil
+# § 15 – Schriftlicher Teil
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere kognitive und sprachliche Fähigkeiten geprüft.
 
@@ -400,15 +381,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Von der Teilnahme am Aufsatz kann ausgeschlossen werden, wer in den Leistungstests nicht die erforderliche Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
 
-
-## § 16 – Bestehen des schriftlichen Teils und Rangfolge
+# § 16 – Bestehen des schriftlichen Teils und Rangfolge
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in den Leistungstests und im Aufsatz jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
 
 (2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
-
-## § 17 – Zulassung zum mündlichen Teil
+# § 17 – Zulassung zum mündlichen Teil
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil bestanden hat.
 
@@ -416,8 +395,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Haben schwerbehinderte oder diesen gleichgestellte behinderte Bewerberinnen und Bewerber am schriftlichen Teil teilgenommen, so werden sie immer zum mündlichen Teil zugelassen.
 
-
-## § 18 – Mündlicher Teil
+# § 18 – Mündlicher Teil
 
 (1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich der Motivation, der sozialen Kompetenz und des Kommunikationsverhaltens.
 
@@ -441,13 +419,11 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (5) Bei einer Gruppenaufgabe oder Gruppendiskussion ist die Zahl der teilnehmenden Bewerberinnen und Bewerber auf fünf begrenzt.
 
-
-## § 19 – Bestehen des mündlichen Teils
+# § 19 – Bestehen des mündlichen Teils
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturierten Interview und bei den weiteren Aufgaben jeweils die erforderliche Mindestpunktzahl erreicht worden ist.
 
-
-## § 20 – Gesamtergebnis und Rangfolge
+# § 20 – Gesamtergebnis und Rangfolge
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens teilgenommen hat, das Gesamtergebnis des Auswahlverfahrens.
 
@@ -457,15 +433,13 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 
 (4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
 
-
-## § 21 – Täuschung
+# § 21 – Täuschung
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren ausgeschlossen.
 
 (2) Die Betroffenen sind vor einer Entscheidung anzuhören.
 
-
-## § 22 – Dauer und Gliederung des Studiums
+# § 22 – Dauer und Gliederung des Studiums
 
 (1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Hochschule.
 
@@ -526,8 +500,7 @@ Fachstudienzeit Hauptstudium II
 
 (5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
-
-## § 23 – Studienplan
+# § 23 – Studienplan
 
 (1) Für das Studium erstellt die Hochschule einen Studienplan.
 
@@ -561,8 +534,7 @@ b) in welchen Studienfächern die Leistungstests zu absolvieren sind und
 
 c) in welcher Form die Leistungstests zu absolvieren sind.
 
-
-## § 24 – Leistungstests
+# § 24 – Leistungstests
 
 (1) Leistungstests werden durchgeführt in der Form
 
@@ -584,8 +556,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind.
 
 (3) Leistungstests werden durch eine Lehrkraft der Hochschule bewertet.
 
-
-## § 25 – Fernbleiben und Rücktritt von Leistungstests
+# § 25 – Fernbleiben und Rücktritt von Leistungstests
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem Leistungstest gilt der Leistungstest als mit null Rangpunkten bewertet.
 
@@ -599,8 +570,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind.
 
 (+++ § 25 Abs. 4: zur Anwendung vgl. § 57 Abs. 2 und § 78 Abs. 4 +++)
 
-
-## § 26 – Täuschung und Ordnungsverstoß bei Leistungstests
+# § 26 – Täuschung und Ordnungsverstoß bei Leistungstests
 
 (1) Studierenden, die bei einem Leistungstest täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung des Leistungstests unter dem Vorbehalt einer abweichenden Entscheidung der Hochschule gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme am Leistungstest ausgeschlossen werden.
 
@@ -614,8 +584,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind.
 
 (4) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 und 3 anzuhören.
 
-
-## § 27 – Studiengebiete des Grundstudiums
+# § 27 – Studiengebiete des Grundstudiums
 
 Die Studiengebiete des Grundstudiums sind:
 
@@ -629,8 +598,7 @@ Die Studiengebiete des Grundstudiums sind:
 
 5. sozialwissenschaftliche Grundlagen des Verwaltungshandelns.
 
-
-## § 28 – Studiengebiete des Hauptstudiums
+# § 28 – Studiengebiete des Hauptstudiums
 
 Die Studiengebiete des Hauptstudiums sind:
 
@@ -650,8 +618,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 8. nachrichtendienstlich relevante Themen aus Wirtschaft und Technologie.
 
-
-## § 29 – Leistungstests im Hauptstudium
+# § 29 – Leistungstests im Hauptstudium
 
 (1) Im Hauptstudium sind mindestens zwölf Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
 
@@ -671,8 +638,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 (4) Die Leistungstests des Hauptstudiums II sollen einen Monat vor Beginn der schriftlichen Abschlussprüfung abgeschlossen sein.
 
-
-## § 30 – Zeugnis über die Leistungstests im Hauptstudium, Rangpunktzahl der Leistungstests im Hauptstudium
+# § 30 – Zeugnis über die Leistungstests im Hauptstudium, Rangpunktzahl der Leistungstests im Hauptstudium
 
 (1) Die oder der Studierende erhält von der Hochschule ein Zeugnis über die Leistungstests im Hauptstudium mit Angabe der Rangpunkte jedes Leistungstests und der Rangpunktzahl.
 
@@ -682,8 +648,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 2. die übrigen Bewertungen einfach zu gewichten.
 
-
-## § 31 – Gliederung, Organisation und Durchführung
+# § 31 – Gliederung, Organisation und Durchführung
 
 (1) Die berufspraktischen Studienzeiten bestehen aus
 
@@ -697,8 +662,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 (4) Die praxisbezogenen Lehrveranstaltungen werden von der Hochschule durchgeführt.
 
-
-## § 32 – Ausbildungsleitung
+# § 32 – Ausbildungsleitung
 
 (1) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule eine Beamtin oder einen Beamten des gehobenen oder höheren Dienstes als Ausbildungsleitung sowie eine Vertretung.
 
@@ -710,8 +674,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 2. die Ausbildenden.
 
-
-## § 33 – Ausbildende
+# § 33 – Ausbildende
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktischen Studienzeiten Ausbildende.
 
@@ -719,8 +682,7 @@ Die Studiengebiete des Hauptstudiums sind:
 
 (3) Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 34 – Praktikumsordnungen
+# § 34 – Praktikumsordnungen
 
 (1) Die Hochschule erlässt für jede Fachrichtung im Einvernehmen mit der zuständigen Dienstbehörde eine Praktikumsordnung.
 
@@ -732,20 +694,17 @@ Die Studiengebiete des Hauptstudiums sind:
 
 3. die inhaltlichen Anforderungen an die Praktika.
 
-
-## § 35 – Leistungstests in den praxisbezogenen Lehrveranstaltungen
+# § 35 – Leistungstests in den praxisbezogenen Lehrveranstaltungen
 
 In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests zu absolvieren.
 
-
-## § 36 – Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen, Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen
+# § 36 – Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen, Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen
 
 (1) Die oder der Studierende erhält von der Hochschule ein Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen mit Angabe der Rangpunkte jedes Leistungstests und der Rangpunktzahl.
 
 (2) Die Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen ist das arithmetische Mittel der Rangpunkte der einzelnen Leistungstests.
 
-
-## § 37 – Ausbildungsplan für die Praktika
+# § 37 – Ausbildungsplan für die Praktika
 
 (1) Der Fachbereich Nachrichtendienste der Hochschule stellt im Einvernehmen mit den betroffenen Ausbildungsbehörden für jede Studierende und jeden Studierenden einen Ausbildungsplan auf.
 
@@ -753,34 +712,29 @@ In den praxisbezogenen Lehrveranstaltungen sind mindestens drei Leistungstests z
 
 (3) Der Ausbildungsplan wird der oder dem Studierenden bekannt gegeben.
 
-
-## § 38 – Bewertung der Praktika
+# § 38 – Bewertung der Praktika
 
 (1) Die Ausbildenden bewerten die Leistungen der Studierenden während der Praktika für jede Ausbildungsstation, der die Studierenden für mindestens 20 Arbeitstage zugewiesen sind, mit Rangpunkten.
 
 (2) Die Bewertung ist mit der oder dem Studierenden zu besprechen.
 
-
-## § 39 – Zeugnis über die Praktika, Rangpunktzahl der Praktika
+# § 39 – Zeugnis über die Praktika, Rangpunktzahl der Praktika
 
 (1) Die oder der Studierende erhält von der Hochschule ein Zeugnis über die Praktika mit Angabe der Rangpunkte jeder bewerteten Ausbildungsstation und der Rangpunktzahl der Praktika.
 
 (2) Die Rangpunktzahl der Praktika ist das arithmetische Mittel der Einzelbewertungen der einzelnen Ausbildungsstationen.
 
-
-## § 40 – Zweck
+# § 40 – Zweck
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
 
-
-## § 41 – Prüfungsamt für die Zwischenprüfung
+# § 41 – Prüfungsamt für die Zwischenprüfung
 
 Die Zwischenprüfung wird vom Prüfungsamt für das Grundstudium am Zentralen Lehrbereich der Hochschule organisiert und durchgeführt.
 
-
-## § 42 – Gegenstand und Durchführung der Zwischenprüfung
+# § 42 – Gegenstand und Durchführung der Zwischenprüfung
 
 (1) Die Zwischenprüfung besteht aus vier Klausuren.
 
@@ -792,18 +746,15 @@ Die Zwischenprüfung wird vom Prüfungsamt für das Grundstudium am Zentralen Le
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
-
-## § 43 – Prüfende für die Zwischenprüfung
+# § 43 – Prüfende für die Zwischenprüfung
 
 Zur Bewertung wird vom Prüfungsamt für jede Klausur der Zwischenprüfung eine Prüfende oder ein Prüfender bestellt.
 
-
-## § 44 – Rangpunktzahl der Zwischenprüfung
+# § 44 – Rangpunktzahl der Zwischenprüfung
 
 Aus den Bewertungen der Klausuren der Zwischenprüfung wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen der einzelnen Klausuren ist.
 
-
-## § 45 – Bestehen der Zwischenprüfung
+# § 45 – Bestehen der Zwischenprüfung
 
 Die Zwischenprüfung hat bestanden,
 
@@ -811,8 +762,7 @@ Die Zwischenprüfung hat bestanden,
 
 2. bei wem die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
 
-
-## § 46 – Zwischenprüfungszeugnis
+# § 46 – Zwischenprüfungszeugnis
 
 Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zwischenprüfungszeugnis mit Angabe
 
@@ -820,13 +770,11 @@ Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zwischenpr�
 
 2. der Rangpunktzahl der Zwischenprüfung.
 
-
-## § 47 – Bescheid über die nichtbestandene Zwischenprüfung
+# § 47 – Bescheid über die nichtbestandene Zwischenprüfung
 
 Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nichtbestandene Zwischenprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen.
 
-
-## § 48 – Wiederholung der Zwischenprüfung
+# § 48 – Wiederholung der Zwischenprüfung
 
 (1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
@@ -838,18 +786,15 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 (5) Die Rangpunkte, die bei der Wiederholung der Zwischenprüfung erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 49 – Diplomprüfung
+# § 49 – Diplomprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung.
 
-
-## § 50 – Prüfungsamt für die Laufbahnprüfung
+# § 50 – Prüfungsamt für die Laufbahnprüfung
 
 Die Laufbahnprüfung wird vom Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung organisiert und durchgeführt.
 
-
-## § 51 – Bestandteile der Laufbahnprüfung
+# § 51 – Bestandteile der Laufbahnprüfung
 
 Die Laufbahnprüfung besteht aus
 
@@ -859,15 +804,13 @@ Die Laufbahnprüfung besteht aus
 
 3. der mündlichen Abschlussprüfung.
 
-
-## § 52 – Zweck und Zeitpunkt der Diplomarbeit
+# § 52 – Zweck und Zeitpunkt der Diplomarbeit
 
 (1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten.
 
 (2) Die Diplomarbeit wird während der berufspraktischen Studienzeit II angefertigt.
 
-
-## § 53 – Thema und Bearbeitungszeit der Diplomarbeit
+# § 53 – Thema und Bearbeitungszeit der Diplomarbeit
 
 (1) Das Thema der Diplomarbeit wird vom Prüfungsamt bestimmt. Eine Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor. Die Studierenden können der oder dem Vorschlagsberechtigten eigene Themenvorschläge unterbreiten.
 
@@ -877,13 +820,11 @@ Die Laufbahnprüfung besteht aus
 
 (4) Das Thema und der Tag der Ausgabe des Themas sind aktenkundig zu machen.
 
-
-## § 54 – Diplomarbeitsordnung
+# § 54 – Diplomarbeitsordnung
 
 Die formalen Anforderungen an die Diplomarbeit regelt die Hochschule in einer Diplomarbeitsordnung.
 
-
-## § 55 – Prüfende für die Diplomarbeit
+# § 55 – Prüfende für die Diplomarbeit
 
 (1) Für die Bewertung der Diplomarbeit bestellt das Prüfungsamt zwei Prüfende.
 
@@ -897,15 +838,13 @@ Die oder der Zweitprüfende kann auch eine Tarifbeschäftigte oder ein Tarifbesc
 
 (3) Die Bewertung der Diplomarbeit soll zwei Wochen vor Beginn der schriftlichen Abschlussprüfung abgeschlossen sein.
 
-
-## § 56 – Betreuung und Freistellung bei der Anfertigung der Diplomarbeit
+# § 56 – Betreuung und Freistellung bei der Anfertigung der Diplomarbeit
 
 (1) Bei der Anfertigung der Diplomarbeit wird die oder der Studierende von der oder dem Erstprüfenden betreut.
 
 (2) Zur Anfertigung der Diplomarbeit werden die Studierenden vier Wochen vor Ende der Bearbeitungszeit von ihren übrigen dienstlichen Tätigkeiten freigestellt.
 
-
-## § 57 – Verhinderung bei der Diplomarbeit
+# § 57 – Verhinderung bei der Diplomarbeit
 
 (1) Sind Studierende durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Bearbeitung der Diplomarbeit verhindert, so verlängert das Prüfungsamt die Bearbeitungszeit für die Diplomarbeit auf Antrag um die Dauer der Verhinderung.
 
@@ -913,8 +852,7 @@ Die oder der Zweitprüfende kann auch eine Tarifbeschäftigte oder ein Tarifbesc
 
 (3) Die Verlängerung der Bearbeitungszeit darf zwei Monate nicht überschreiten. Dauert die Verhinderung länger, so stellt das Prüfungsamt auf Antrag fest, dass die Diplomarbeit als nicht begonnen gilt. In diesem Fall wird ein neues Thema ausgegeben.
 
-
-## § 58 – Abgabe der Diplomarbeit
+# § 58 – Abgabe der Diplomarbeit
 
 (1) Der Termin für die Abgabe der Diplomarbeit wird vom Prüfungsamt festgelegt.
 
@@ -930,13 +868,11 @@ Die Form für die Erklärung kann vom Prüfungsamt vorgegeben werden.
 
 (4) Wird die Diplomarbeit nach dem Abgabetermin abgegeben, so gilt sie als mit null Rangpunkten bewertet.
 
-
-## § 59 – Bestehen der Diplomarbeit
+# § 59 – Bestehen der Diplomarbeit
 
 Die Diplomarbeit ist bestanden, wenn eine Rangpunktzahl von mindestens 5,00 erreicht worden ist.
 
-
-## § 60 – Diplomkolloquium
+# § 60 – Diplomkolloquium
 
 (1) Die Studierenden stellen die Diplomarbeit im Rahmen eines Diplomkolloquiums vor.
 
@@ -958,8 +894,7 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 (5) Bewertet wird das Diplomkolloquium nur von der oder dem Erstprüfenden der Diplomarbeit.
 
-
-## § 61 – Wiederholung der Diplomarbeit und des Diplomkolloquiums
+# § 61 – Wiederholung der Diplomarbeit und des Diplomkolloquiums
 
 (1) Studierende, die die Diplomarbeit nicht bestanden haben, können sie einmal wiederholen.
 
@@ -975,8 +910,7 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 (7) Die Rangpunkte, die bei der Wiederholung erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 62 – Gegenstand und Durchführung der schriftlichen Abschlussprüfung
+# § 62 – Gegenstand und Durchführung der schriftlichen Abschlussprüfung
 
 (1) Die schriftliche Abschlussprüfung besteht aus sechs Klausuren.
 
@@ -1000,8 +934,7 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 (6) Die Klausuren werden unter Aufsicht geschrieben.
 
-
-## § 63 – Prüfende für die schriftliche Abschlussprüfung
+# § 63 – Prüfende für die schriftliche Abschlussprüfung
 
 (1) Zur Bewertung werden vom Prüfungsamt für jede Klausur der schriftlichen Abschlussprüfung zwei Prüfende bestellt.
 
@@ -1013,13 +946,11 @@ In der Aussprache werden fachliche Fragen mit Bezug auf die Diplomarbeit und die
 
 Die oder der Zweitprüfende kann auch eine Tarifbeschäftigte oder ein Tarifbeschäftigter oder eine Soldatin oder ein Soldat sein.
 
-
-## § 64 – Rangpunktzahl der schriftlichen Abschlussprüfung
+# § 64 – Rangpunktzahl der schriftlichen Abschlussprüfung
 
 Aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen der sechs Klausuren ist.
 
-
-## § 65 – Bestehen der schriftlichen Abschlussprüfung
+# § 65 – Bestehen der schriftlichen Abschlussprüfung
 
 Die schriftliche Abschlussprüfung hat bestanden,
 
@@ -1027,15 +958,13 @@ Die schriftliche Abschlussprüfung hat bestanden,
 
 2. bei wem die Rangpunktzahl der schriftlichen Abschlussprüfung mindestens 5,00 beträgt.
 
-
-## § 66 – Zulassung zur mündlichen Abschlussprüfung
+# § 66 – Zulassung zur mündlichen Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die schriftliche Abschlussprüfung bestanden hat.
 
 (2) Die Zulassung oder Nichtzulassung wird der oder dem Studierenden rechtzeitig vor der mündlichen Abschlussprüfung bekannt gegeben.
 
-
-## § 67 – Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung
+# § 67 – Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung
 
 Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung werden der oder dem Studierenden mitgeteilt
 
@@ -1043,8 +972,7 @@ Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprü
 
 2. die Rangpunktzahl der Diplomarbeit und die Rangpunkte des Diplomkolloquiums.
 
-
-## § 68 – Prüfungskommissionen der mündlichen Abschlussprüfung
+# § 68 – Prüfungskommissionen der mündlichen Abschlussprüfung
 
 (1) Für die Durchführung und Bewertung der mündlichen Abschlussprüfung richtet das Prüfungsamt für jede Fachrichtung eine Prüfungskommission oder bei Bedarf mehrere Prüfungskommissionen ein. Das Prüfungsamt bestellt deren Mitglieder und Ersatzmitglieder in der Regel für die Dauer von fünf Jahren. Wiederbestellung ist zulässig. § 9 Absatz 1 gilt entsprechend.
 
@@ -1068,8 +996,7 @@ Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten 
 
 (7) § 12 Absatz 5 und 6 gilt entsprechend.
 
-
-## § 69 – Gegenstand und Durchführung der mündlichen Abschlussprüfung
+# § 69 – Gegenstand und Durchführung der mündlichen Abschlussprüfung
 
 (1) Die Prüfungsfächer für die mündliche Abschlussprüfung stammen aus den Studiengebieten des Hauptstudiums nach § 28 Nummer 1 bis 6. Ausgewählt werden sie von der Prüfungskommission.
 
@@ -1081,8 +1008,7 @@ Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten 
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Studierende oder Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten je Studierende oder Studierenden nicht überschreiten.
 
-
-## § 70 – Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
+# § 70 – Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung ist nicht öffentlich.
 
@@ -1104,8 +1030,7 @@ Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten 
 
 (4) Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
 
-
-## § 71 – Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung
+# § 71 – Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung
 
 (1) Jedes Prüfungsfach der mündlichen Abschlussprüfung wird einzeln bewertet.
 
@@ -1113,8 +1038,7 @@ Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten 
 
 (3) Aus den einzelnen Bewertungen der Prüfungsfächer wird die Rangpunktzahl der mündlichen Abschlussprüfung berechnet. Die Rangpunktzahl der mündlichen Abschlussprüfung ist das arithmetische Mittel aus den Bewertungen der in den Prüfungsfächern erbrachten Leistungen.
 
-
-## § 72 – Protokoll zur mündlichen Abschlussprüfung
+# § 72 – Protokoll zur mündlichen Abschlussprüfung
 
 (1) Über die mündliche Abschlussprüfung ist ein Protokoll anzufertigen.
 
@@ -1122,13 +1046,11 @@ Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder Soldaten 
 
 (3) Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission zu bestätigen.
 
-
-## § 73 – Bestehen der mündlichen Abschlussprüfung
+# § 73 – Bestehen der mündlichen Abschlussprüfung
 
 Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschlussprüfung mindestens eine Rangpunktzahl von 5,00 erreicht hat.
 
-
-## § 74 – Bestehen der Laufbahnprüfung und Abschlussnote
+# § 74 – Bestehen der Laufbahnprüfung und Abschlussnote
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest.
 
@@ -1158,8 +1080,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 (4) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl der Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet und als Abschlussnote festgesetzt.
 
-
-## § 75 – Wiederholung der schriftlichen und der mündlichen Abschlussprüfung
+# § 75 – Wiederholung der schriftlichen und der mündlichen Abschlussprüfung
 
 (1) Studierende, die die schriftliche oder mündliche Abschlussprüfung nicht bestanden haben oder deren Rangpunktzahl der Laufbahnprüfung unter 5,00 liegt, können Teile des Studiums sowie die schriftliche und die mündliche Abschlussprüfung einmal wiederholen. Die schriftliche und die mündliche Abschlussprüfung sind vollständig zu wiederholen.
 
@@ -1175,8 +1096,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 (5) Die Rangpunkte, die bei der Wiederholung der Leistungstests sowie der schriftlichen und der mündlichen Abschlussprüfung erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 76 – Abschlusszeugnis und Diplomurkunde
+# § 76 – Abschlusszeugnis und Diplomurkunde
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
@@ -1192,8 +1112,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 3. das Thema und die Rangpunktzahl der Diplomarbeit.
 
-
-## § 77 – Bescheid über die nichtbestandene Laufbahnprüfung
+# § 77 – Bescheid über die nichtbestandene Laufbahnprüfung
 
 Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung
 
@@ -1201,8 +1120,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentru
 
 2. eine Bescheinigung über die erbrachten Studienleistungen.
 
-
-## § 78 – Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil
+# § 78 – Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil gilt die Prüfung oder der Prüfungsteil als mit null Rangpunkten bewertet.
 
@@ -1214,8 +1132,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentru
 
 (5) Das Prüfungsamt, das für die Organisation und Durchführung der Prüfung zuständig ist, bestimmt, ob und inwieweit eine bereits absolvierte Prüfung oder ein bereits absolvierter Prüfungsteil gewertet wird und zu welchem Zeitpunkt die Prüfung oder der Prüfungsteil nachgeholt wird.
 
-
-## § 79 – Täuschung und Ordnungsverstoß bei Prüfungen
+# § 79 – Täuschung und Ordnungsverstoß bei Prüfungen
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes, das für die Organisation und Durchführung der Prüfung zuständig ist, gestattet werden. Bei einem erheblichen Verstoß können die Studierenden von der weiteren Teilnahme an der Prüfung oder dem Prüfungsteil ausgeschlossen werden.
 
@@ -1233,8 +1150,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentru
 
 (5) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 80 – Prüfungsakte und Einsichtnahme
+# § 80 – Prüfungsakte und Einsichtnahme
 
 (1) Zu jeder und jedem Studierenden wird eine Prüfungsakte geführt.
 
@@ -1262,13 +1178,11 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentru
 
 (4) Nach Abschluss der Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme in die Prüfungsakte ist aktenkundig zu machen.
 
-
-## § 80a – Entscheidung über Widersprüche
+# § 80a – Entscheidung über Widersprüche
 
 Über Widersprüche gegen Maßnahmen, die bei den Prüfungsverfahren nach dieser Verordnung getroffen worden sind, entscheidet das Prüfungsamt, das für die Organisation und Durchführung der Prüfung zuständig ist.
 
-
-## § 81 – Anerkennung von Studienleistungen und Prüfungsleistungen
+# § 81 – Anerkennung von Studienleistungen und Prüfungsleistungen
 
 (1) Auf Antrag der oder des Studierenden können folgende Leistungen anerkannt werden:
 
@@ -1292,15 +1206,13 @@ c) vor einem staatlichen Prüfungsausschuss.
 
 (6) Die übernommenen und die zugeordneten Bewertungen sind in die Berechnung der entsprechenden Rangpunktzahlen und in die Berechnung der Rangpunktzahl der Laufbahnprüfung einzubeziehen.
 
-
-## § 82 – Qualitätsmanagement, Evaluation und Evaluationsordnung
+# § 82 – Qualitätsmanagement, Evaluation und Evaluationsordnung
 
 (1) Das Studium wird einem systematischen Qualitätsmanagement unterworfen.
 
 (2) Teil des systematischen Qualitätsmanagements ist die Evaluation. Das Nähere zur Evaluation regelt die Evaluationsordnung des Fachbereichs Nachrichtendienste der Hochschule.
 
-
-## § 83 – Übergangsvorschriften
+# § 83 – Übergangsvorschriften
 
 (1) Für Studierende, die bis zum 30. September 2018 mit dem Vorbereitungsdienst gehobener Dienst im Bundesnachrichtendienst begonnen haben, ist weiter die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst im Bundesnachrichtendienst vom 5. Dezember 2006 (BGBl. I S. 2767), die zuletzt durch Artikel 3 Absatz 15 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, anzuwenden mit der Maßgabe, dass an die Stelle des § 28 Absatz 5 Satz 3 und 4 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst im Bundesnachrichtendienst § 10 dieser Verordnung tritt.
 
@@ -1310,8 +1222,7 @@ c) vor einem staatlichen Prüfungsausschuss.
 
 (4) Für Bewerberinnen und Bewerber, die vor dem 1. April 2019 an einem Auswahlverfahren für einen Studienplatz, der in der Fachrichtung Verfassungsschutz angeboten wird, teilnehmen, ist anstelle des § 12 Absatz 2 und 3 dieser Verordnung § 6 Absatz 5 Satz 1, 3 und 6 sowie Absatz 7 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst im Verfassungsschutz des Bundes in der Fassung vom 11. Oktober 2001 (BGBl. I S. 2640) anzuwenden.
 
-
-## § 84 – Inkrafttreten, Außerkrafttreten
+# § 84 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2018 in Kraft. Gleichzeitig treten außer Kraft:
 

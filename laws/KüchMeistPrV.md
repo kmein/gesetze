@@ -1,15 +1,11 @@
-# [KüchMeistPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Küchenmeister/Geprüfte Küchenmeisterin
-
-Ausfertigungsdatum: 05.08.2003
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Küchenmeister/Geprüfte Küchenmeisterin
+% Ausfertigungsdatum: 05.08.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 4 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Küchenmeister/zur Geprüften Küchenmeisterin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 11 durchführen.
 
@@ -29,8 +25,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Die erfolgreich abgelegte Prüfung führt zu dem anerkannten Abschluss "Geprüfter Küchenmeister/Geprüfte Küchenmeisterin".
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil "Wirtschaftsbezogene Qualifikationen" ist zuzulassen, wer
 
@@ -72,8 +67,7 @@ nachweist.
 
 (6) Abweichend von den in Absatz 1 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Erfahrungen erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -113,8 +107,7 @@ nachweist.
 
 (6) Der Prüfungsteil "Praktische Prüfung" besteht aus einer integrativen Situationsaufgabe nach Maßgabe des § 6 Abs. 1 und 2.
 
-
-## § 4 – Wirtschaftsbezogene Qualifikationen
+# § 4 – Wirtschaftsbezogene Qualifikationen
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können geprüft werden:
 
@@ -168,8 +161,7 @@ Die Gesamtdauer der Prüfung soll 330 Minuten nicht überschreiten.
 
 (6) Wurden in nicht mehr als einem Qualifikationsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Qualifikationsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 20 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Im Qualifikationsschwerpunkt "Mitarbeiter führen und fördern" soll die Fähigkeit nachgewiesen werden, den Personalbedarf ermitteln und den Personaleinsatz den Anforderungen entsprechend sicherstellen zu können. Dazu gehört insbesondere, Mitarbeiter durch die Anwendung geeigneter Führungsmethoden zielgerichtet zu eigenverantwortlichem Handeln führen zu können. Weiterhin gehört dazu die Fähigkeit, auf der Basis einer quantitativen und qualitativen Personalplanung eine systematische Personalentwicklung durchführen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -237,8 +229,7 @@ Die Gesamtdauer der Prüfung soll 330 Minuten nicht überschreiten.
 
 (7) Wurden in nicht mehr als zwei schriftlichen Prüfungen gemäß den Absätzen 1 bis 5 mangelhafte Leistungen erbracht, ist darin eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll handlungsspezifisch und integriert durchgeführt werden und in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 6 – Praktische Prüfung
+# § 6 – Praktische Prüfung
 
 (1) Im Prüfungsteil "Praktische Prüfung" ist eine Situationsaufgabe zu bearbeiten, die vollständige Handlungen beinhaltet, wie sie für die betriebliche Praxis des Küchenmeisters und der Küchenmeisterin typisch sind. Es soll die Fähigkeit nachgewiesen werden, aus einem vorgegebenen Warenkorb eine fünfteilige Speisenfolge für sechs Personen, bestehend aus Vorspeise, Suppe, Zwischengericht, Hauptgericht und Nachspeise, planen, zubereiten und präsentieren zu können. Die kalte und die warme Küche sowie die Küchenkonditorei sind zu berücksichtigen. Der Prüfungsausschuss beschließt den Warenkorb, der Pflicht- und Ergänzungsbestandteile enthält und in den Höchstmengen der zu verwendenden Hauptbestandteile sowie im Wert zu begrenzen ist.
 
@@ -260,20 +251,17 @@ Die Gesamtdauer der Prüfung soll 330 Minuten nicht überschreiten.
 
 7. Geschmack und Beschaffenheit der Speisen.
 
-
-## § 7 – Berufs- und arbeitspädagogische Qualifikationen
+# § 7 – Berufs- und arbeitspädagogische Qualifikationen
 
 Die "Berufs- und arbeitspädagogischen Qualifikationen" sind durch eine Prüfung gemäß der Ausbilder-Eignungsverordnung nachzuweisen.
 
-
-## § 8 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 8 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9 und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 9 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder Absatz 4 Satz 2 oder § 10 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bewerten der Prüfungsleistungen
+# § 9 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -291,8 +279,7 @@ Bei der Bewertung der einzelnen Menübestandteile ist die Schwierigkeit der Hers
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Bestehen der Prüfung, Gesamtnote
+# § 10 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -310,8 +297,7 @@ Bei der Bewertung der einzelnen Menübestandteile ist die Schwierigkeit der Hers
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zeugnisse
+# § 11 – Zeugnisse
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -325,8 +311,7 @@ Bei der Bewertung der einzelnen Menübestandteile ist die Schwierigkeit der Hers
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Wiederholung der Prüfung
+# § 12 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -334,29 +319,25 @@ Bei der Bewertung der einzelnen Menübestandteile ist die Schwierigkeit der Hers
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften bis zum 31. Dezember 2011 zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2003 in Kraft. Gleichzeitig tritt die Gastgewerbemeisterprüfungsverordnung vom 5. März 1985 (BGBl. I S. 506), zuletzt geändert durch Artikel 2 § 28 des Gesetzes vom 20. Juli 2000 (BGBl. I S. 1045), außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 9 und 10)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 9 und 10)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2245 - 2246)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 11)Zeugnisinhalte
+# Anlage 2 – (zu § 11)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2246 - 2247)
 

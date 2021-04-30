@@ -1,27 +1,21 @@
-# [GFlFleischV] Verordnung über Vermarktungsnormen für Geflügelfleisch
-
-Ausfertigungsdatum: 22.03.2013
-
+% Verordnung über Vermarktungsnormen für Geflügelfleisch
+% Ausfertigungsdatum: 22.03.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Absatz 3 Satz 1 Nummer 1 in Verbindung mit § 2 Absatz 2 Nummer 1, 2, 3, 5 und 6, des § 1 Absatz 3 Satz 1 Nummer 2 und des § 1 Absatz 3 Satz 2 des Handelsklassengesetzes in der Fassung der Bekanntmachung vom 23. November 1972 (BGBl. I S. 2201), § 1 Absatz 3 zuletzt geändert durch Artikel 35 des Gesetzes vom 9. Dezember 2010 (BGBl. I S. 1934), verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Vermarktungsnormen für Geflügelfleisch.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 (1) Die Bestimmungen des Anhangs XIV Teil B Abschnitt III Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl. L 299 vom 16.11.2007, S. 1) in der bis zum 31. Dezember 2013 geltenden Fassung sowie die Bestimmungen des Anhangs VII Teil V Abschnitt III der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) müssen nicht eingehalten werden bei der direkten Abgabe kleiner Mengen Geflügelfleischs durch Landwirte, die jährlich weniger als 10 000 Tiere erzeugen.
 
 (2) Eine direkte Abgabe kleiner Mengen Geflügelfleischs im Sinne des Absatzes 1 ist die Abgabe von Fleisch von Geflügel, das im landwirtschaftlichen Betrieb geschlachtet worden ist und durch den Erzeuger an den Endverbraucher oder an Einzelhandelsunternehmen im Umkreis von nicht mehr als 100 Kilometern vom Ort des landwirtschaftlichen Betriebes abgegeben wird. Einzelhandelsunternehmen im Sinne des Satzes 1 sind in Artikel 3 Nummer 2 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1) in der jeweils geltenden Fassung genannte Lebensmittelunternehmen, die Einzelhandel im Sinne des Artikels 3 Nummer 7 der Verordnung (EG) Nr. 178/2002 mit Geflügelfleisch betreiben, dieses be- oder verarbeiten und direkt an den Endverbraucher abgeben.
 
-
-## § 3 – Verbot des Inverkehrbringens
+# § 3 – Verbot des Inverkehrbringens
 
 (1) Es ist verboten,
 
@@ -45,20 +39,17 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 7. Geflügelschlachtkörper vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die der in Artikel 10 der Verordnung (EG) Nr. 543/2008 genannten Anforderung an Angaben nicht entsprechen.
 
-
-## § 4 – Kennzeichnung von Geflügelfleisch
+# § 4 – Kennzeichnung von Geflügelfleisch
 
 (1) Nicht vorverpacktes Geflügelfleisch oder Geflügelfleisch, das auf Wunsch des Verbrauchers am Verkaufsort verpackt oder das in der Verkaufsstätte zur alsbaldigen Abgabe an den Verbraucher, jedoch nicht zur Selbstbedienung, vorverpackt wird, darf nur zum Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht werden, wenn es mit den Angaben nach Artikel 5 Absatz 5 in Verbindung mit Absatz 4 der Verordnung (EG) Nr. 543/2008 nach Maßgabe des Absatzes 2 gekennzeichnet ist. Satz 1 gilt nicht für die Angabe des Gesamtpreises und nicht für die Zulassungsnummer des Schlacht- und Zerlegungsbetriebs. Der Verbraucher ist auf die Nachfragemöglichkeit in Bezug auf den Gesamtpreis und Zulassungsnummer des Schlacht- und Zerlegungsbetriebs in geeigneter Form hinzuweisen.
 
 (2) Die Angaben nach Absatz 1 sind auf einem Schild auf oder neben dem Geflügelfleisch oder auf der Verpackung oder einem daran befestigten Etikett gut sichtbar, in deutscher Sprache, leicht verständlich, deutlich lesbar und unverwischbar anzubringen. Die Angaben nach Satz 1 dürfen auch in einer anderen leicht verständlichen Sprache gemacht werden, wenn dadurch die Information des Verbrauchers nicht beeinträchtigt wird. Sie dürfen nicht durch andere Angaben oder Bildzeichen oder sonstiges eingefügtes Material verdeckt, undeutlich gemacht oder getrennt werden.
 
-
-## § 5 – Marktnotierungen
+# § 5 – Marktnotierungen
 
 Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die amtliche oder für gesetzlich vorgesehene Zwecke bestimmte Preisnotierungen oder Preisfeststellungen für Geflügelfleisch vornehmen, sind verpflichtet, ihren Notierungen oder Feststellungen die Handelsklassen nach Anhang XIV Teil B Abschnitt III Nummer 1 der Verordnung (EG) Nr. 1234/2007 zugrunde zu legen.
 
-
-## § 6 – Vorschriften für Schlachthöfe und Zerlegungsbetriebe
+# § 6 – Vorschriften für Schlachthöfe und Zerlegungsbetriebe
 
 (1) Jedes Los im Sinne des Artikels 2 Buchstabe f der Verordnung (EG) Nr. 543/2008 ist von dem Schlachthof und Zerlegungsbetrieb unverzüglich so zu kennzeichnen, dass das Herstellungsdatum festgestellt werden kann. Diese Loskennzeichnung muss von dem Schlachthof und Zerlegungsbetrieb in einem Herstellungsprotokoll unverzüglich aufgeführt werden. Dieses Herstellungsprotokoll ist bis zum Ende des Jahres aufzubewahren, das auf das Jahr der Erstellung des Protokolls folgt.
 
@@ -68,22 +59,19 @@ Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die amtliche o
 
 (4) Zum Zwecke der Durchführung der Kontrollen in Bezug auf die Kennzeichnung von Geflügelfleisch und den Fremdwassergehalt von Geflügelfleisch verarbeitet die zuständige Behörde die Daten gemäß Abschnitt III der Anlage des Marktorganisationsgesetzes.
 
-
-## § 7 – Analyseverfahren zur Feststellung des Wassergehaltes, Gegenanalyse
+# § 7 – Analyseverfahren zur Feststellung des Wassergehaltes, Gegenanalyse
 
 (1) Für die Kontrollen des Wassergehaltes gefrorener oder tiefgefrorener Hähnchen nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 543/2008 wird das Verfahren nach Anhang VI der Verordnung (EG) Nr. 543/2008 (Drip-Verfahren) bestimmt.
 
 (2) Überschreiten die Ergebnisse der Kontrollen bei gefrorenen oder tiefgefrorenen Hähnchen die nach Artikel 15 Absatz 1 oder bei Geflügelteilstücken die nach Artikel 20 Absatz 1 der Verordnung (EG) Nr. 543/2008 zulässigen Grenzwerte, so kann der Besitzer des Loses eine Gegenanalyse nach demselben Verfahren wie für die ursprüngliche Kontrolle im Referenzlaboratorium verlangen. Die Kosten dieser Gegenanalyse sind vom Besitzer des Loses zu tragen.
 
-
-## § 8 – Anordnungen der zuständigen Behörden
+# § 8 – Anordnungen der zuständigen Behörden
 
 (1) Die zuständige Behörde kann die zur Beseitigung festgestellter Verstöße und die zur Verhütung künftiger Verstöße notwendigen Anordnungen treffen.
 
 (2) Bei der Annahme von Unregelmäßigkeiten kann die zuständige Behörde anordnen, dass Lose oder Bestandteile von Losen im Sinne des Artikels 2 Buchstabe f der Verordnung (EG) Nr. 543/2008 bis zum Abschluss des Kontrollverfahrens nicht vermarktet werden dürfen.
 
-
-## § 8a – Überwachung, Duldungs- und Auskunftspflichten
+# § 8a – Überwachung, Duldungs- und Auskunftspflichten
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser Verordnung geltenden Vorschriften erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Geflügelfleisch zum Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem Geltungsbereich dieser Verordnung verbringen, während der Geschäftszeit
 
@@ -97,8 +85,7 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 
 (2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, die zu besichtigenden Erzeugnisse selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 
@@ -140,12 +127,10 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 
 8. entgegen Artikel 15 Absatz 1 oder Artikel 20 Absatz 1 ein dort genanntes Hähnchen oder Geflügelstück vermarktet.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über Vermarktungsnormen für Geflügelfleisch in der Fassung der Bekanntmachung vom 23. Dezember 1994 (BGBl. I S. 3989), die zuletzt durch Artikel 2 der Verordnung vom 23. Juni 2005 (BGBl. I S. 1797) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

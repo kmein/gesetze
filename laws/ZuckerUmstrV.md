@@ -1,30 +1,23 @@
-# [ZuckerUmstrV] Verordnung über die befristete Umstrukturierungsregelung für die Zuckerindustrie
-
-Ausfertigungsdatum: 30.06.2006
-
+% Verordnung über die befristete Umstrukturierungsregelung für die Zuckerindustrie
+% Ausfertigungsdatum: 30.06.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe s, der §§ 15 und 16 sowie des § 31 Abs. 2 Satz 1 Nr. 1 in Verbindung mit Satz 3 und 4 und § 6 Abs. 4 Satz 2 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen in der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847), von denen § 31 Abs. 2 durch Artikel 34 des Gesetzes vom 13. April 2006 (BGBl. I S. 855) geändert worden ist, in Verbindung mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Technologie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Verordnung (EG) Nr. 320/2006 des Rates vom 20. Februar 2006 mit einer befristeten Umstrukturierungsregelung für die Zuckerindustrie in der Europäischen Gemeinschaft und zur Änderung der Verordnung (EG) Nr. 1290/2005 über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. EU Nr. L 58 S. 42) in der jeweils geltenden Fassung sowie der zur ihrer Durchführung erlassenen Rechtsakte der Kommission der Europäischen Gemeinschaften.
 
-
-## § 2 – Zuständige Stelle
+# § 2 – Zuständige Stelle
 
 Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist für die Gewährung der Umstrukturierungsbeihilfe zuständig.
 
-
-## § 3 – Umstrukturierungsbeihilfe
+# § 3 – Umstrukturierungsbeihilfe
 
 Der Antrag auf Umstrukturierungsbeihilfe ist von den in Artikel 3 Abs. 1 der Verordnung (EG) Nr. 320/2006 genannten Unternehmen bei der Bundesanstalt schriftlich einzureichen. Die Bundesanstalt kann für den Antrag Muster im Bundesanzeiger bekannt geben; soweit Muster bekannt gegeben sind, sind diese zu verwenden.
 
-
-## § 3a – Umstrukturierungsbeihilfe für Lohn-unternehmen nach Artikel 3 Abs. 6 Unterabs. 1 Buchstabe b der Verordnung (EG) Nr. 320/2006
+# § 3a – Umstrukturierungsbeihilfe für Lohn-unternehmen nach Artikel 3 Abs. 6 Unterabs. 1 Buchstabe b der Verordnung (EG) Nr. 320/2006
 
 (1) Der Anteil der Lohnunternehmer an der Umstrukturierungsbeihilfe wird auf 2 Millionen Euro festgesetzt. Überschreitet der Bedarf für die Umstrukturierungsbeihilfen für Lohnunternehmer den verfügbaren Betrag nach Satz 1, so werden deren festzusetzende Umstrukturierungsbeihilfen anteilmäßig verringert.
 
@@ -50,8 +43,7 @@ Der Antrag auf Umstrukturierungsbeihilfe ist von den in Artikel 3 Abs. 1 der Ver
 
 7. bis 31. Januar 2009 geeignete Nachweise über die von ihm für die Zuckererzeugung im Wirtschaftsjahr 2008/2009 verladene Rübenmenge in Tonnen.
 
-
-## § 4 – Duldungs- und Mitwirkungspflichten
+# § 4 – Duldungs- und Mitwirkungspflichten
 
 (1) Die Beihilfeempfänger haben die bei ihnen verbleibenden Antrags- und Bewilligungsunterlagen sowie alle sonstigen Belege für die Beihilfegewährung bis zum Ablauf des vierten Jahres, das der Gewährung folgt, aufzubewahren. Andere Vorschriften, nach denen eine längere Aufbewahrungszeit besteht, bleiben unberührt.
 
@@ -67,7 +59,6 @@ Der Antrag auf Umstrukturierungsbeihilfe ist von den in Artikel 3 Abs. 1 der Ver
 
 (3) Zum Zwecke des Absatzes 2 sind die Beihilfeempfänger verpflichtet, den Bediensteten der Bundesanstalt das Betreten der Geschäfts- und Untersuchungsräume zu gestatten, die in Betracht kommenden Bücher, Aufzeichnungen und sonstigen Unterlagen vorzulegen, Auskunft zu erteilen sowie die erforderliche Unterstützung zu gewähren.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2006 in Kraft.

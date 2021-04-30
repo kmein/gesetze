@@ -1,23 +1,17 @@
-# [GepBetrWMAProBusManFV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach dem Berufsbildungsgesetz und Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz  (Geprüfter Betriebswirt-Master Professional Business Management-Fortbildungsverordnung - GepBetrWMAProBusManFV)
-
-Ausfertigungsdatum: 18.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach dem Berufsbildungsgesetz und Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz  (Geprüfter Betriebswirt-Master Professional Business Management-Fortbildungsverordnung - GepBetrWMAProBusManFV)
+% Ausfertigungsdatum: 18.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und 53d des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920), verordnet das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter Betriebswirt nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz“ und „Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz“.
 
-
-## § 2 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+# § 2 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter Betriebswirt nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz“ oder „Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz“ wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der dritten beruflichen Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
 
@@ -37,8 +31,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss „Ge
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Master Professional in Business Management nach dem Berufsbildungsgesetz“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Betriebswirt nach dem Berufsbildungsgesetz“ oder „Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz“ vorangestellt.
 
-
-## § 3 – Voraussetzung für die Zulassung zur Prüfung
+# § 3 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53d des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
@@ -58,8 +51,7 @@ b) zum „Geprüften Kaufmännischen Fachwirt nach der Handwerksordnung-Bachelor
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit der in Absatz 1 bezeichneten Personen vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -73,8 +65,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 5. Planung, Steuerung und Überwachung von Unternehmensprozessen wahrnehmen.
 
-
-## § 5 – Handlungsbereich „Unternehmensspezifische Strategiefelder erkennen und ausgestalten“
+# § 5 – Handlungsbereich „Unternehmensspezifische Strategiefelder erkennen und ausgestalten“
 
 (1) Im Handlungsbereich „Unternehmensspezifische Strategiefelder erkennen und ausgestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Entscheidungsgrundlagen dazu zu erarbeiten, mit welchen Mitteln und Maßnahmen gesichert, neue Erfolgspotentiale erschlossen und Risikopotentiale verringert werden können. Dabei sind wirtschaftliche und gesellschaftspolitische Entwicklungen genauso wie arbeitsmarktpolitische Entwicklungen zu erfassen und zu bewerten.
 
@@ -98,8 +89,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 9. Logistik als unterstützendes Element in der Unternehmensstrategie berücksichtigen.
 
-
-## § 6 – Handlungsbereich „Normenbestimmte und finanzwirtschaftliche Rahmenbedingungen im Hinblick auf die Unternehmensstrategie bewerten“
+# § 6 – Handlungsbereich „Normenbestimmte und finanzwirtschaftliche Rahmenbedingungen im Hinblick auf die Unternehmensstrategie bewerten“
 
 (1) Im Handlungsbereich „Normenbestimmte und finanzwirtschaftliche Rahmenbedingungen im Hinblick auf die Unternehmensstrategie bewerten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Unternehmensstrategien im nationalen und internationalen Zusammenhang regelnder und finanzwirtschaftlicher Rahmenbedingungen zu bewerten. Insbesondere sind hier rechtliche und steuerliche Rahmenbedingungen sowie kulturelle Besonderheiten bei Auslandsaktivitäten zu beachten sowie Entscheidungen der Finanzierung und Investition unter wirtschaftlichen Gesichtspunkten zu optimieren. Die Unternehmensführung ist so auszugestalten, dass sie den Grundsätzen eines verantwortungsvollen, transparenten und auf eine langfristige Steigerung des Unternehmenswertes ausgerichteten Handelns entspricht.
 
@@ -117,8 +107,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 6. Ergebnisse des Controllings für strategische Entscheidungen nutzen.
 
-
-## § 7 – Handlungsbereich „Nationale und internationale Leistungsprozesse organisieren“
+# § 7 – Handlungsbereich „Nationale und internationale Leistungsprozesse organisieren“
 
 (1) Im Handlungsbereich „Nationale und internationale Leistungsprozesse organisieren“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, unter den Einflüssen der nationalen und internationalen Märkte die Leistungsprozesse des Unternehmens so zu gestalten, dass diese der strategischen Ausrichtung des Unternehmens entsprechen. Insbesondere sollen dabei die entsprechenden Marketingstrategien und -instrumente ausgewählt und eingesetzt werden. Weiterhin sind Entscheidungen zu treffen entsprechend der Unternehmensstrategie im Hinblick auf die Unternehmensorganisation und das Management der Unternehmensprozesse mit besonderem Augenmerk auf Personalmanagement und -führung, Projektmanagement, internationaler Finanzierung der Leistungsprozesse und die Einflüsse der technologischen Entwicklungen.
 
@@ -136,8 +125,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 6. im Rahmen des Projektmanagements Projekte planen, steuern und kontrollieren.
 
-
-## § 8 – Handlungsbereich „Unternehmensorganisation zur Sicherstellung der Leistungs- und Unternehmensprozesse unter Berücksichtigung der strategischen Vorgaben gestalten“
+# § 8 – Handlungsbereich „Unternehmensorganisation zur Sicherstellung der Leistungs- und Unternehmensprozesse unter Berücksichtigung der strategischen Vorgaben gestalten“
 
 (1) Im Handlungsbereich „Unternehmensorganisation zur Sicherstellung der Leistungs- und Unternehmensprozesse unter Berücksichtigung der strategischen Vorgaben gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die entsprechenden Handlungsfelder so zu gestalten, dass die Unternehmensorganisation nachhaltig dazu beiträgt, die strategischen Ziele des Unternehmens zu erreichen. Dabei sind insbesondere die getroffenen Entscheidungen hinsichtlich des Personals, der Strukturen und der Prozesse auf Strategiekonformität zu überprüfen und notwendige Anpassungen abzuleiten und umzusetzen. Damit steht eine an strategischen Vorgaben und Rahmenbedingungen ausgerichtete Flexibilisierung der verschiedenen Ausprägungen der Unternehmensorganisation im Fokus dieses Handlungsbereichs.
 
@@ -151,8 +139,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 4. Organisationsentwicklung unter besonderer Berücksichtigung interkultureller und ethischer Aspekte ausrichten und überwachen.
 
-
-## § 9 – Handlungsbereich „Planung, Steuerung und Überwachung von Unternehmensprozessen wahrnehmen“
+# § 9 – Handlungsbereich „Planung, Steuerung und Überwachung von Unternehmensprozessen wahrnehmen“
 
 (1) Im Handlungsbereich „Planung, Steuerung und Überwachung von Unternehmensprozessen wahrnehmen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Managementaufgaben bei Unternehmensprozessen im Verständnis eines integrierten Managementsystems zur Einhaltung von Anforderungen, insbesondere von Qualität, Arbeitsschutz, Umweltschutz, Datenschutz, in einer einheitlichen Struktur verantwortlich wahrzunehmen, zu überwachen und weiterzuentwickeln. Dafür sind die Werkzeuge des strategischen Controllings unter besonderer Beachtung von Risiken zu beherrschen, dabei aber auch die strategischen Chancen für das Wertschöpfungspotenzial des Unternehmens, insbesondere durch Innovationsmanagement und modernes Informationsmanagement, zu nutzen.
 
@@ -168,8 +155,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 5. Prozesse eines an ethischen Aspekten ausgerichteten Wertemanagements überwachen.
 
-
-## § 10 – Durchführung der Prüfung
+# § 10 – Durchführung der Prüfung
 
 (1) Die Prüfung besteht aus einem schriftlichen Prüfungsteil, einem mündlichen Prüfungsteil und einem projektbezogenen Prüfungsteil.
 
@@ -179,8 +165,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ § 10 Abs. 3: Zur Geltung vgl. § 12 Abs. 2 Satz 3 +++)
 
-
-## § 11 – Schriftlicher Prüfungsteil
+# § 11 – Schriftlicher Prüfungsteil
 
 (1) Der schriftliche Prüfungsteil wird auf der Grundlage der Beschreibung einer betrieblichen Situation durchgeführt.
 
@@ -192,8 +177,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (5) Innerhalb jeder Aufgabenstellung müssen die Aufgaben zu einem Handlungsbereich nach § 4 in englischer Sprache formuliert sein. Diese Aufgaben sind in englischer Sprache zu bearbeiten.
 
-
-## § 12 – Mündlicher Prüfungsteil
+# § 12 – Mündlicher Prüfungsteil
 
 (1) Zum mündlichen Prüfungsteil wird nur zugelassen, wer den schriftlichen Prüfungsteil abgelegt hat.
 
@@ -205,8 +189,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (5) Der mündliche Prüfungsteil soll nicht länger als 45 Minuten dauern.
 
-
-## § 13 – Projektbezogener Prüfungsteil
+# § 13 – Projektbezogener Prüfungsteil
 
 (1) Zum projektbezogenen Prüfungsteil wird nur zugelassen, wer den schriftlichen und den mündlichen Prüfungsteil bestanden hat.
 
@@ -234,8 +217,7 @@ Dabei sind mindestens zwei der Handlungsbereiche nach § 4 zu berücksichtigen.
 
 (10) Die Dauer des projektarbeitsbezogenen Fachgespräches soll 30 Minuten nicht überschreiten.
 
-
-## § 14 – Bewerten von Prüfungsleistungen
+# § 14 – Bewerten von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -257,8 +239,7 @@ Aus den einzelnen Bewertungen wird als Bewertung des projektbezogenen Prüfungst
 
 3. die Bewertung des projektarbeitsbezogenen Fachgesprächs mit 60 Prozent.
 
-
-## § 15 – Bestehen der Prüfung, Gesamtnote
+# § 15 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -292,15 +273,13 @@ c) im projektarbeitsbezogenen Fachgespräch.
 
 Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 16 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 16 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 14 und 15 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Prozentsätze nach § 14 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder § 15 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander; allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zu Grunde zu legen.
 
 (+++ § 16: Zur Nichtanwendung vgl. § 18 Abs. 3 Satz 3 +++)
 
-
-## § 17 – Zeugnisse
+# § 17 – Zeugnisse
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -312,8 +291,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 18 – Wiederholung der Prüfung
+# § 18 – Wiederholung der Prüfung
 
 (1) Ein nicht bestandener Prüfungsteil kann zweimal wiederholt werden.
 
@@ -321,8 +299,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (3) Mit dem Antrag auf Wiederholung des schriftlichen Prüfungsteils wird die zu prüfende Person von den Aufgabenstellungen befreit, die in einer vorangegangenen Prüfung mit mindestens „ausreichend“ bewertet wurden. Bei der Wiederholung sind nur die nicht bestandenen Aufgabenstellungen zu wiederholen. § 16 ist nicht anzuwenden.
 
-
-## § 19 – Übergangsvorschriften
+# § 19 – Übergangsvorschriften
 
 (1) Vor Ablauf des 30. Dezember 2019 angemeldete Prüfungen nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz vom 12. Juli 2006 (BGBl. I S. 1625), die durch Artikel 4 der Verordnung vom 16. Oktober 2016 (BGBl. I S. 2390) geändert worden ist, sind bis zum Ablauf des 31. März 2024 nach den Vorschriften der genannten Verordnung zu Ende zu führen.
 
@@ -334,18 +311,15 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (5) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Geprüfter-Betriebswirt-Fortbildungsverordnung vom 3. Dezember 2019 (BGBl. I S. 2552) außer Kraft.
 
-
-## Anlage 1 – (zu den §§ 15 und 16)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 15 und 16)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2020, 3085 - 3086)
 
-
-## Anlage 2 – (zu § 17 Absatz 1)Zeugnisinhalte
+# Anlage 2 – (zu § 17 Absatz 1)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 3087)
 

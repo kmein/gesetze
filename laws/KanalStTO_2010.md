@@ -1,15 +1,11 @@
-# [KanalStTO 2010] Verordnung über die Entgelte der Kanalsteurer auf dem Nord-Ostsee-Kanal  (Kanalsteurertarifverordnung)
-
-Ausfertigungsdatum: 26.10.2010
-
+% Verordnung über die Entgelte der Kanalsteurer auf dem Nord-Ostsee-Kanal  (Kanalsteurertarifverordnung)
+% Ausfertigungsdatum: 26.10.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Absatz 2 in Verbindung mit Absatz 3 Satz 1 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), von denen § 14 Absatz 2 durch Artikel 319 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung nach Anhörung der Küstenländer:
 
-
-## § 1 – Entgelte und Entgeltberechnung
+# § 1 – Entgelte und Entgeltberechnung
 
 (1) Für die Leistungen der Kanalsteurer auf dem Nord-Ostsee-Kanal sind die in der Anlage aufgeführten Entgelte zu entrichten. Sie gelten jeweils für eine aus zwei Kanalsteurern bestehende Kanalsteurerrotte. Für Schiffe, die nur mit einem Kanalsteurer besetzt werden, werden die Entgelte nach den Nummern 1.1 und 1.2 der Anlage um 15 Prozent und die Entgelte nach den Nummern 2, 3 und 5 bis 10 der Anlage um 50 Prozent ermäßigt. Für Schiffe, die auf Grund ihrer Abmessungen auf den Fahrtstrecken zwischen Brunsbüttel und Rüsterbergen keiner Besetzung durch Kanalsteurer bedürfen, werden die Entgelte nach Nummer 1.1 der Anlage um 47 Prozent ermäßigt. Die Entgelte werden von der Generaldirektion Wasserstraßen und Schifffahrt eingezogen.
 
@@ -45,13 +41,11 @@ von einem von der Generaldirektion Wasserstraßen und Schifffahrt bestimmten Sac
 
 6. bei Schlepp- und Schubverbänden die Summe der nach den Nummern 1 bis 5 ermittelten Bruttoraumzahl oder Tonnen aller Fahrzeuge des Verbandes.
 
-
-## § 2 – Inkrafttreten, Außerkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 2010 in Kraft. Gleichzeitig tritt die Kanalsteurertarifordnung vom 29. März 1977 (BAnz. Nr. 63 vom 31. März 1977), die zuletzt durch die Verordnung vom 25. August 2004 (BAnz. S. 19493) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 1 Absatz 1)Verzeichnis der Entgelte (zum 1. Januar 2021)
+# Anlage – (zu § 1 Absatz 1)Verzeichnis der Entgelte (zum 1. Januar 2021)
 
 (Fundstelle: BAnz AT 28.02.2020 V1)
 

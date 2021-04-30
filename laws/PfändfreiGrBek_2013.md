@@ -1,10 +1,7 @@
-# [PfändfreiGrBek 2013] Bekanntmachung zu § 850c der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2013)
-
-Ausfertigungsdatum: 26.03.2013
-
+% Bekanntmachung zu § 850c der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2013)
+% Ausfertigungsdatum: 26.03.2013
  
-
-## ----
+# ----
 
 Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781) wird bekannt gemacht:
 
@@ -45,12 +42,10 @@ von 137,08 auf 139,23 Euro täglich.
 
 Die ab 1. Juli 2013 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin der Justiz
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2013, 711 - 725)

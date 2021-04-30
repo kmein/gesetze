@@ -1,15 +1,11 @@
-# [SattlFeintMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Sattler- und Feintäschner-Handwerk  (Sattler- und Feintäschnermeisterverordnung - SattlFeintMstrV)
-
-Ausfertigungsdatum: 15.08.2008
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Sattler- und Feintäschner-Handwerk  (Sattler- und Feintäschnermeisterverordnung - SattlFeintMstrV)
+% Ausfertigungsdatum: 15.08.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Abs. 2 in Verbindung mit Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 Die Meisterprüfung im zulassungsfreien Sattler- und Feintäschner-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -21,8 +17,7 @@ Die Meisterprüfung im zulassungsfreien Sattler- und Feintäschner-Handwerk umfa
 
 4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung wird festgestellt, ob der Prüfling befähigt ist,
 
@@ -68,13 +63,11 @@ seine berufliche Handlungskompetenz eigenverantwortlich umzusetzen und an neue B
 
 16. Leistungen kontrollieren und dokumentieren, dem Kunden übergeben sowie Nachkalkulation durchführen.
 
-
-## § 3 – Gliederung des Teils I
+# § 3 – Gliederung des Teils I
 
 Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Vorschläge des Prüflings für den Kundenauftrag sollen berücksichtigt werden. Die auftragsbezogenen Kundenanforderungen werden vom Meisterprüfungsausschuss festgelegt. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept einschließlich einer Zeit- und Materialbedarfsplanung. Dieses hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Kundenanforderungen entspricht.
 
@@ -104,8 +97,7 @@ durchzuführen. Die durchgeführten Arbeiten sind zu dokumentieren.
 
 (4) Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 40 Prozent, die durchgeführten Arbeiten einschließlich Dokumentation mit 60 Prozent gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch zu führen. Dabei soll der Prüfling nachweisen, dass er befähigt ist,
 
@@ -115,8 +107,7 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Prüfungsdauer und Bestehen des Teils I
+# § 6 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Die Durchführung des Meisterprüfungsprojekts soll nicht länger als sechs Arbeitstage, das Fachgespräch nicht länger als 30 Minuten dauern.
 
@@ -124,8 +115,7 @@ Nach Durchführung des Meisterprüfungsprojekts ist hierüber das Fachgespräch 
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling in den in Absatz 2 Nr. 1 bis 3 genannten Handlungsfeldern seine Handlungskompetenz dadurch nachweisen, dass er berufsbezogene Probleme analysiert und bewertet sowie Lösungswege aufzeigt und dokumentiert und dabei aktuelle Entwicklungen berücksichtigt.
 
@@ -207,19 +197,16 @@ h) Chancen und Risiken betrieblicher Kooperation darstellen und beurteilen.
 
 (+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
 
-
-## § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.

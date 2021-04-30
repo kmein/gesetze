@@ -1,10 +1,7 @@
-# [AujeszkKrV] Verordnung zum Schutz gegen die Aujeszkysche Krankheit
-
-Ausfertigungsdatum: 30.04.1980
-
+% Verordnung zum Schutz gegen die Aujeszkysche Krankheit
+% Ausfertigungsdatum: 30.04.1980
  
-
-## § 1
+# § 1
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -28,13 +25,11 @@ Satz 1 Nr. 1 Buchstabe a sowie Nr. 2 im Falle der serologischen Untersuchung gil
 
 2. in einem Gebiet liegt, das nach einem nicht unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union, der auf Grund des Artikels 10 der Richtlinie 64/432/EWG des Rates vom 26. Juni 1964 zur Regelung viehseuchenrechtlicher Fragen beim innergemeinschaftlichen Handelsverkehr mit Rindern und Schweinen (ABl. EG Nr. L 121 S. 1977) in der jeweils geltenden Fassung erlassen und vom Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) im Bundesanzeiger bekannt gemacht worden ist, als frei von Aujeszkyscher Krankheit gilt.
 
-
-## § 2
+# § 2
 
 Zur Aufrechterhaltung des Status als frei von Aujeszkyscher Krankheit geltendes Gebiet im Sinne des § 1 Abs. 2 Nr. 2 sind die Untersuchungen nach Anlage 2 vorzunehmen.
 
-
-## § 3
+# § 3
 
 (1) Impfungen gegen die Aujeszkysche Krankheit sowie Heilversuche an seuchenkranken und seuchenverdächtigen Schweinen sind verboten.
 
@@ -56,18 +51,15 @@ In den Fällen der Nummern 3 und 4 kann die Ausnahme zum Zwecke der flächenhaft
 
 (5) Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung erforderlich ist, für Schweine eines bestimmten Bestandes oder Gebietes eine amtstierärztliche Untersuchung einschließlich der Entnahme von Blutproben anordnen.
 
-
-## § 3a
+# § 3a
 
 Der Besitzer hat Zucht- und Nutzschweine im Abstand von längstens 12 Monaten nach näherer Anweisung der zuständigen Behörde serologisch auf Antikörper gegen das gl-Glykoprotein des Virus der Aujeszkyschen Krankheit untersuchen zu lassen, soweit der Bestand nicht frei von Aujeszkyscher Krankheit im Sinne des § 1 Abs. 2 ist. Die zuständige Behörde kann bei Mastbeständen Ausnahmen von Satz 1 genehmigen, wenn unter Berücksichtigung des seuchenhygienischen Risikos des jeweiligen Bestandes und der Seuchensituation des betroffenen Gebietes Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 3b
+# § 3b
 
 Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung erforderlich ist, anordnen, dass Dung und flüssige Stallabgänge aus Schweineställen oder sonstigen Standorten der Schweine nur mit ihrer Genehmigung ausgebracht werden dürfen.
 
-
-## § 4
+# § 4
 
 (1) Zucht- und Nutzschweine dürfen
 
@@ -79,13 +71,11 @@ werden, wenn sie aus einem von Aujeszkyscher Krankheit freien Schweinebestand st
 
 (2) Gilt ein Gebiet des Inlandes nach einem nicht unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union auf Grund des Artikels 10 der Richtlinie 64/432/EWG in der jeweils geltenden Fassung als frei von Aujeszkyscher Krankheit und hat das Bundesministerium diesen Rechtsakt im Bundesanzeiger bekannt gemacht, dürfen in dieses Gebiet nur Schweine verbracht werden, die von einer amtstierärztlichen Bescheinigung begleitet sind, aus der sich ergibt, dass die Tiere den Bestimmungen des Rechtsaktes genügen.
 
-
-## § 4a
+# § 4a
 
 (weggefallen)
 
-
-## § 5
+# § 5
 
 Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Aujeszkyschen Krankheit bei Schweinen in einem Gehöft oder an einem sonstigen Standort gilt vor der amtlichen Feststellung Folgendes:
 
@@ -103,13 +93,11 @@ Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Aujeszkyschen Krankh
 
 7. Von Schweinen stammende Teile, Erzeugnisse und Rohstoffe, ferner Futter, Einstreu, Dung und flüssige Stallabgänge sowie sonstige Gegenstände, die mit Schweinen in Berührung gekommen sind, dürfen aus dem Gehöft oder sonstigen Standort nicht entfernt werden.
 
-
-## § 5a
+# § 5a
 
 Die zuständige Behörde macht den Ausbruch der Seuche öffentlich bekannt.
 
-
-## § 6
+# § 6
 
 Ist der Ausbruch oder der Verdacht auf Ausbruch der Aujeszkyschen Krankheit bei Schweinen amtlich festgestellt, so unterliegen das Gehöft oder der sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -143,28 +131,23 @@ b) zum Zwecke der Ausmästung in einen Mastbestand, sofern die zu verbringenden 
 
 13. Hunde und Katzen sind von Ställen oder sonstigen Standorten, in oder an denen sich Schweine befinden, fernzuhalten.
 
-
-## § 7
+# § 7
 
 (1) Ist die Aujeszkysche Krankheit in einem Gehöft oder an einem sonstigen Standort amtlich festgestellt, so ordnet die zuständige Behörde die Tötung und unschädliche Beseitigung der seuchenkranken sowie die Tötung der seuchenverdächtigen Schweine an. Sie kann die Tötung der übrigen Schweine anordnen, sofern dies aus Gründen der Seuchenbekämpfung erforderlich ist. Dies gilt auch für bis zu zwei Wochen alte Ferkel getöteter Sauen.
 
 (2) Ist der Verdacht auf Aujeszkysche Krankheit in einem Gehöft oder an einem sonstigen Standort amtlich festgestellt, so ordnet die zuständige Behörde die Tötung der auf Grund einer serologischen Untersuchung festgestellten seuchenverdächtigen Schweine an. Sie kann die Tötung der auf Grund einer klinischen Untersuchung festgestellten seuchenverdächtigen Schweine anordnen. Sie kann ferner die Tötung der übrigen Schweine anordnen, sofern dies aus Gründen der Seuchenbekämpfung erforderlich ist.
 
+# §§ 8 und 9 – (weggefallen)
 
-## §§ 8 und 9 – (weggefallen)
-
-
-## § 10
+# § 10
 
 Ist der Ausbruch der Aujeszkyschen Krankheit bei Schweinen in einem Gehöft oder an einem sonstigen Standort amtlich festgestellt, so kann die zuständige Behörde das Gebiet in einem bestimmten Umkreis um das Gehöft oder den sonstigen Standort zum Sperrbezirk erklären und eine amtstierärztliche Untersuchung von Schweinebeständen einschließlich der Entnahme von Blutproben zur Untersuchung auf Aujeszkysche Krankheit im Sperrbezirk anordnen. Sie kann ferner anordnen, dass Schweine nur mit Genehmigung aus dem Sperrbezirk entfernt werden dürfen.
 
-
-## § 10a
+# § 10a
 
 (weggefallen)
 
-
-## § 11
+# § 11
 
 Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch oder der Verdacht des Ausbruchs der Aujeszkyschen Krankheit amtlich festgestellt, so stellt die zuständige Behörde epizootiologische Nachforschungen an und unterstellt alle Schweine der Gehöfte oder sonstigen Standorte,
 
@@ -174,8 +157,7 @@ Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch oder der Verd
 
 worden sein kann, für die Dauer von drei Wochen der behördlichen Beobachtung. Die zuständige Behörde kann die Tötung der ansteckungsverdächtigen Schweine anordnen.
 
-
-## § 12
+# § 12
 
 (1) Nach Entfernung der seuchenkranken und -verdächtigen Schweine sind unverzüglich nach näherer Anweisung des beamteten Tierarztes
 
@@ -187,13 +169,11 @@ worden sein kann, für die Dauer von drei Wochen der behördlichen Beobachtung. 
 
 (3) Dung und flüssige Abgänge dürfen nach ausreichender Desinfektion oder Lagerung auf landwirtschaftlich genutzte Flächen nur ausgebracht werden, wenn sie bodennah ausgebracht und unverzüglich untergepflügt werden.
 
-
-## § 13
+# § 13
 
 Wird bei Schweinen, die sich auf Schweineausstellungen, Schweinemärkten und Veranstaltungen ähnlicher Art befinden, Aujeszkysche Krankheit amtlich festgestellt oder liegt ein Seuchen- oder Ansteckungsverdacht vor, so kann die zuständige Behörde die sinngemäße Anwendung der Maßregeln nach den §§ 6 bis 12 anordnen.
 
-
-## § 14
+# § 14
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Aujeszkysche Krankheit erloschen ist oder der Verdacht auf Aujeszkysche Krankheit beseitigt ist oder sich als unbegründet erwiesen hat.
 
@@ -215,13 +195,11 @@ a) keine auf Aujeszkysche Krankheit hindeutenden klinischen Erscheinungen festge
 
 b) frühestens 21 Tage nach Entfernen der seuchenverdächtigen Schweine eine serologische Untersuchung nach Abschnitt I Nr. 1 Buchstabe b der Anlage 1 mit negativem Ergebnis durchgeführt worden ist.
 
-
-## § 15
+# § 15
 
 Wird bei anderen für die Aujeszkysche Krankheit empfänglichen Tieren der Ausbruch oder der Verdacht des Ausbruchs der Seuche amtlich festgestellt, so gelten die §§ 5a bis 14 entsprechend.
 
-
-## § 16
+# § 16
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -259,13 +237,11 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 17. entgegen § 12 Absatz 3 Dung oder flüssigen Abgang ausbringt.
 
-
-## § 17
+# § 17
 
 (Inkrafttreten)
 
-
-## Anlage 1 – (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3)  Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
+# Anlage 1 – (zu § 1 Abs. 2 Nr. 1 und § 14 Abs. 3)  Voraussetzungen, unter denen ein Schweinebestand als frei von Aujeszkyscher Krankheit gilt
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3615 - 3616;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -359,8 +335,7 @@ Auf die Anzahl zu untersuchender Tiere können Untersuchungen der Mastschweine, 
 
 7. Abschnitt I Nr. 4 und 5 gilt entsprechend.
 
-
-## Anlage 2 – (zu § 2)  Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als frei von der Aujeszkyschen Krankheit
+# Anlage 2 – (zu § 2)  Untersuchungen zur Aufrechterhaltung des Status des Gebiets Deutschlands als frei von der Aujeszkyschen Krankheit
 
 Fundstelle des Originaltextes: BGBl. I 2005, 3617
 

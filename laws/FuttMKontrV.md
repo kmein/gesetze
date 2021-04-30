@@ -1,10 +1,7 @@
-# [FuttMKontrV] Verordnung über die fachlichen Anforderungen an die in der Futtermittelüberwachung tätigen Kontrolleure  (Futtermittelkontrolleur-Verordnung - FuttMKontrV)
-
-Ausfertigungsdatum: 28.03.2003
-
+% Verordnung über die fachlichen Anforderungen an die in der Futtermittelüberwachung tätigen Kontrolleure  (Futtermittelkontrolleur-Verordnung - FuttMKontrV)
+% Ausfertigungsdatum: 28.03.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft verordnet
 
@@ -14,8 +11,7 @@ auf Grund des § 19 Abs. 1a Satz 2 des Futtermittelgesetzes in der Fassung der B
 \-  
 auf Grund des § 4 Abs. 3 Satz 1 in Verbindung mit Satz 2 Nr. 2 des Verfütterungsverbotsgesetzes in der Fassung der Bekanntmachung vom 29. März 2001 (BGBl. I S. 463) sowie in Verbindung mit § 19 Abs. 1a des Futtermittelgesetzes in der Fassung der Bekanntmachung vom 25. August 2000 (BGBl. I S. 1358), von denen § 4 Abs. 3 Satz 2 Nr. 2 des Verfütterungsverbotsgesetzes durch Artikel 1 Abs. 2 des Gesetzes vom 8. August 2002 (BGBl. I S. 3116) geändert und § 19 Abs. 1a des Futtermittelgesetzes durch Artikel 1 Abs. 1 Nr. 3 des Gesetzes vom 8. August 2002 (BGBl. I S. 3116) eingefügt worden sind:
 
-
-## § 1 – Anforderungen an die Sachkunde
+# § 1 – Anforderungen an die Sachkunde
 
 (1) Personen dürfen von den zuständigen Behörden beim Vollzug des Futtermittelrechts mit der Überwachung der Einhaltung der futtermittelrechtlichen Vorschriften nur betraut werden, wenn sie insbesondere befähigt sind,
 
@@ -69,8 +65,7 @@ g) die Sicherstellung der Unbedenklichkeit der vom Tier gewonnenen Lebensmittel 
 
 11. Erstellen von Statistiken, Erstatten von Meldungen und sonstige Dokumentation der Kontrolltätigkeit.
 
-
-## § 2 – Nachweis der Sachkunde
+# § 2 – Nachweis der Sachkunde
 
 (1) Die Anforderungen nach § 1 erfüllt, wer
 
@@ -86,8 +81,7 @@ nachweist. Dem Nachweis nach Satz 1 Nr. 4 steht der Nachweis eines erfolgreichen
 
 (2) Die zuständige oberste Landesbehörde kann zulassen, dass für die Durchführung der Probenahme nach § 1 Abs. 2 Nr. 4 Personen eingesetzt werden, die nicht die Anforderungen nach Absatz 1 erfüllen, soweit diese Personen den für die Probenahme relevanten Teilabschnitt des Lehrgangs nach § 3 erfolgreich absolviert haben. Dies gilt als erfüllt, wenn die in § 3 Abs. 2 Nr. 1 bis 3, 5 bis 10 und 12 genannten Kenntnisse und Fertigkeiten nachweislich erfolgreich vermittelt wurden und die praktische Unterweisung einschließlich Praktika in diesen Themenfeldern nach einem von der zuständigen Behörde vorzulegenden Einarbeitungsplan abgeschlossen ist. Die erworbenen Kenntnisse und Fertigkeiten sind durch Bescheinigung nachzuweisen.
 
-
-## § 3 – Lehrgang
+# § 3 – Lehrgang
 
 (1) Der Lehrgang nach § 2 Abs. 1 Satz 1 Nr. 4 und Satz 2 wird von einer Einrichtung, die von der nach Landesrecht zuständigen Behörde anerkannt ist, durchgeführt und dauert mindestens sechs Monate; er kann auch in Abschnitten durchgeführt werden. Er gliedert sich in
 
@@ -139,8 +133,7 @@ verkürzt werden.
 
 (4) Die zuständige oberste Landesbehörde kann, soweit besondere Gründe vorliegen und Kenntnisse vorhanden sind, die denen, die in der praktischen Unterweisung nach Absatz 1 Satz 2 Nr. 2 vermittelt werden, entsprechen, im Einzelfall Ausnahmen von der Praktikumsverpflichtung nach Absatz 1 Satz 2 Nr. 2 zulassen.
 
-
-## § 4 – Fortbildung
+# § 4 – Fortbildung
 
 (1) Die in § 1 genannten Personen haben mindestens alle zwei Jahre an Fortbildungsveranstaltungen von insgesamt mindestens einer Woche teilzunehmen, in denen die erworbenen Kenntnisse erweitert und neue Erkenntnisse und Entwicklungen auf den in § 3 Abs. 2 genannten Gebieten vermittelt werden. Kürzere Fortbildungsveranstaltungen in auf das Futtermittelrecht oder die Tierernährung bezogenen Fachrichtungen können angerechnet werden.
 
@@ -150,24 +143,20 @@ verkürzt werden.
 
 (4) Probenehmer nach § 2 Abs. 2 nehmen alle zwei Jahre an Fortbildungsveranstaltungen teil, in denen die unter § 3 Abs. 2 Nr. 1 bis 3, 5 bis 10 und 12 genannten Kenntnisse und Fertigkeiten theoretisch und praktisch vermittelt und erweitert werden.
 
-
-## § 5 – Ergänzende Regelungen der Landesregierungen
+# § 5 – Ergänzende Regelungen der Landesregierungen
 
 Die Landesregierungen können durch Rechtsverordnung nähere Vorschriften über den Lehrgang, die Prüfung und die Fortbildung erlassen. Bei den Ausbildungsplänen können Vorkenntnisse berücksichtigt werden.
 
-
-## § 6 – Übergangsvorschriften
+# § 6 – Übergangsvorschriften
 
 (1) Die Anforderungen nach § 1 gelten als erfüllt bei Personen, die am 8. Oktober 2003 mit der Durchführung der amtlichen Futtermittelüberwachung betraut sind. Die zuständige Landesbehörde stellt sicher, dass die in Satz 1 genannten Personen, soweit erforderlich, durch Fortbildungsmaßnahmen, die insbesondere die theoretischen Unterrichtsteile des Lehrgangs nach § 3 zum Gegenstand haben, innerhalb von drei Jahren nach dem 8. Oktober 2003 in den Stand gesetzt werden, alle in § 1 genannten Tätigkeiten auszuüben. Der erfolgreiche Abschluss einer Fortbildungsmaßnahme nach Satz 2 ist durch Zeugnis oder Bescheinigung nachzuweisen.
 
 (2) Auf Personen, die am 8. Oktober 2003 mit der Durchführung der Probenahme nach § 1 Abs. 2 Nr. 4 betraut sind, ist § 2 Abs. 2 nicht anzuwenden. Die zuständige Landesbehörde stellt sicher, dass die in Satz 1 genannten Personen, soweit erforderlich, durch Fortbildungsmaßnahmen die die relevanten Ausbildungsziele des Lehrgangs nach § 3 zum Gegenstand haben, innerhalb von drei Jahren nach dem 8. Oktober 2003 in den Stand gesetzt werden, die Probenahme entsprechend den an die in § 2 Abs. 2 genannten Personen gestellten Anforderungen durchzuführen. Der erfolgreiche Abschluss einer Fortbildungsmaßnahme nach Satz 2 ist durch Zeugnis oder Bescheinigung nachzuweisen.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt sechs Monate nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

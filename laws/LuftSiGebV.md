@@ -1,25 +1,19 @@
-# [LuftSiGebV] Luftsicherheitsgebührenverordnung  (LuftSiGebV)
-
-Ausfertigungsdatum: 23.05.2007
-
+% Luftsicherheitsgebührenverordnung  (LuftSiGebV)
+% Ausfertigungsdatum: 23.05.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 17 Abs. 2 des Luftsicherheitsgesetzes vom 11. Januar 2005 (BGBl. I S. 78), der zuletzt durch Artikel 337 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Gebühren
+# § 1 – Gebühren
 
 Die gebührenpflichtigen Amtshandlungen und die Gebührensätze ergeben sich aus dem anliegenden Gebührenverzeichnis, soweit nichts anderes bestimmt ist.
 
-
-## § 2 – Pflichten der Luftfahrtunternehmer und Luftfahrzeughalter
+# § 2 – Pflichten der Luftfahrtunternehmer und Luftfahrzeughalter
 
 Im Falle von Amtshandlungen nach Nummer 2 des Gebührenverzeichnisses sind Luftfahrtunternehmer und Luftfahrzeughalter verpflichtet, der für den Vollzug des § 5 des Luftsicherheitsgesetzes zuständigen Luftsicherheitsbehörde die Anzahl der durchsuchten oder überprüften Fluggäste mitzuteilen. Die Einzelheiten werden von der nach § 5 des Luftsicherheitsgesetzes zuständigen Behörde festgelegt und den Gebühren- und Auslagenschuldnern (§ 3) bekannt gegeben.
 
-
-## § 3 – Gebühren- und Auslagenschuldnerschaft
+# § 3 – Gebühren- und Auslagenschuldnerschaft
 
 Gebühren- und Auslagenschuldner sind
 
@@ -33,13 +27,11 @@ Gebühren- und Auslagenschuldner sind
 
 5. für Amtshandlungen nach den Nummern 12 und 13 des Gebührenverzeichnisses der jeweilige Antragsteller nach den Kapiteln 6 und 7 des Anhangs der Verordnung (EG) Nr. 2320/2002 des Europäischen Parlaments und des Rates vom 16. Dezember 2002 zur Festlegung gemeinsamer Vorschriften für die Sicherheit in der Zivilluftfahrt (ABl. EG Nr. L 355 S. 1).
 
-
-## § 4 – Prüfungsgebühren
+# § 4 – Prüfungsgebühren
 
 Für Amtshandlungen nach den Nummern 5 und 6 des Gebührenverzeichnisses sind die Gebühren spätestens mit Abgabe der namentlichen Aufstellung der Prüfungsteilnehmer zu entrichten.
 
-
-## § 5 – Auslagen
+# § 5 – Auslagen
 
 (1) Auslagen sind nach § 10 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erheben, soweit nichts anderes bestimmt ist.
 
@@ -47,28 +39,23 @@ Für Amtshandlungen nach den Nummern 5 und 6 des Gebührenverzeichnisses sind di
 
 (3) Die Aufwendungen für den Einsatz von Dienstkraftfahrzeugen bei Dienstgeschäften außerhalb der Dienststelle sind gesondert zu erheben.
 
-
-## § 6 – Gebühren- und Auslagenermäßigung und -befreiung
+# § 6 – Gebühren- und Auslagenermäßigung und -befreiung
 
 Aus Gründen der Billigkeit oder des öffentlichen Interesses können im Einzelfall Gebührenermäßigung und Auslagenermäßigung sowie Gebührenbefreiung und Auslagenbefreiung zugelassen werden.
 
-
-## § 7 – Übergangsregelungen
+# § 7 – Übergangsregelungen
 
 Ist für die in den Nummern 1 bis 4, 12 und 13 des Gebührenverzeichnisses aufgeführten Amtshandlungen, die ab dem 15. Januar 2005 beantragt waren, durch diese Verordnung eine Gebührenpflicht neu begründet worden, so können die Gebühren nach dieser Verordnung erhoben werden.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1)Gebührenverzeichnis
+# Anlage – (zu § 1)Gebührenverzeichnis
 
 Fundstelle des Originaltextes: BGBl. I 2007, 945 - 946
 

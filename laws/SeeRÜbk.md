@@ -1,5 +1,3 @@
-# [SeeRÜbk] Seerechtsübereinkommen der Vereinten Nationen
-
-Ausfertigungsdatum: 10.12.1982
-
+% Seerechtsübereinkommen der Vereinten Nationen
+% Ausfertigungsdatum: 10.12.1982
  

@@ -1,22 +1,16 @@
-# [RV] Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Versicherungsunternehmer  (RV)
-
-Ausfertigungsdatum: 26.08.1949
-
+% Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Versicherungsunternehmer  (RV)
+% Ausfertigungsdatum: 26.08.1949
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 der 23. Verordnung zur Durchführung des Umstellungsgesetzes (Umstellungsrechnung der Versicherungsunternehmen) haben die Versicherungsaufsichtsbehörden der Westzonen im Einvernehmen mit der Bank deutscher Länder die folgenden Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Versicherungsunternehmen erlassen.
 
+# 1. bis 6. – (weggefallen)
 
-## 1. bis 6. – (weggefallen)
-
-
-## 6a. – Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
+# 6a. – Allgemeine Grundsätze für den Ansatz der Aktiven und Passiven in der Reichsmarkschlußbilanz
 
 Soweit nicht in diesen Richtlinien für besondere Fälle etwas anderes vorgeschrieben ist, gelten für den Ansatz von Aktiven und Passiven in der Reichsmarkschlußbilanz die nachstehenden Grundsätze:  
-A.  
-Aktiven
+A. Aktiven
 
 1. Für Vermögensgegenstände, für die bereits in der letzten Bilanz vor dem 20. Juni 1948 ein Wert ausgewiesen wurde, dürfen in der Reichsmarkschlußbilanz die bisherigen Ansätze beibehalten werden, sofern sie nicht gegen zwingende Grundsätze des Handelsrechts verstoßen.
 
@@ -28,8 +22,7 @@ Aktiven
 
 5. Die Grundsätze nach Nummer 1 bis 3 gelten nicht, soweit die danach zulässigen Ansätze solche Wertminderungen unberücksichtigt lassen würden, die ersichtlich in keinem Zusammenhang mit dem Krieg und den Kriegsfolgen stehen (z.B. Abschreibungen für Abnutzung) oder Überpreise enthalten würden, d.h. Preise, die über den Betrag hinausgehen, der unter Berücksichtigung der allgemeinen Verhältnisse und der Betriebsbedürfnisse im Zeitpunkt der Anschaffung des Vermögensgegenstandes angemessen war. Bisherige Ansätze, die hiernach zu hoch sind, müssen in der Reichsmarkschlußbilanz durch Abschreibung oder durch Bildung einer Wertberichtigung der zulässigen Bewertung angeglichen werden.
 
-B.  
-Passiven
+B. Passiven
 
 1. Bisherige technische Reserven, Rückstellungen, Wertberichtigungen und ähnliche Passivposten dürfen in der Reichsmarkschlußbilanz aufgelöst werden, soweit sie auf den 20. Juni 1948 überdotiert sein würden. Hieraus folgt insbesondere:
 
@@ -51,25 +44,21 @@ In der Reichsmarkschlußbilanz braucht keine Rückstellung gebildet zu werden we
 bb)  
 Bisher nicht oder nur unzureichend ausgewiesene Pensionsrückstellungen brauchen in der Reichsmarkschlußbilanz nur bis zum Betrage von einer Reichsmark für je eine Deutsche Mark der in die Umstellungsrechnung eingestellten Pensionsrückstellung gebildet zu werden; Rückstellungen für Kapitalabfindungen müssen jedoch mit zehn Reichsmark für je eine Deutsche Mark des hierfür in die Umstellungsrechnung eingestellten Betrages gebildet werden. Buchstabe a letzter Halbsatz ist entsprechend anzuwenden.
 
-
-## 6b. – Grundstücke, Inventar, Warenvorräte
+# 6b. – Grundstücke, Inventar, Warenvorräte
 
 Die bisherigen Ansätze für Grundstücke und Gebäude, Betriebs- und Geschäftsausstattungen, Maschinen und maschinelle Anlagen sowie für Warenvorräte dürfen in der Reichsmarkschlußbilanz nur bis auf eine Reichsmark für je eine Deutsche Mark des hierfür in die Umstellungsrechnung einzustellenden Betrages - soweit die Vermögensgegenstände außerhalb des Währungsgebietes belegen sind, desjenigen Betrages, mit dem sie als Vermögenswerte im Währungsgebiet in die Umstellungsrechnung einzustellen wären - erhöht werden. Bisher gesondert aktivierte Hauszinssteuerabgeltungsbeträge dürfen als Aktivposten in der Reichsmarkschlußbilanz beibehalten werden; dies gilt auch dann, wenn der Hauszinssteuerabgeltungsbetrag zusammen mit dem bisherigen Ansatz für das Grundstück einen höheren Betrag als eine Reichsmark für je eine Deutsche Mark des Ansatzes für das Grundstück in der Umstellungsrechnung ergibt. Eine Erhöhung des bisherigen Ansatzes für den Hauszinssteuerabgeltungsbetrag oder für das Grundstück ist jedoch in der Reichsmarkschlußbilanz nur zulässig, soweit beide Posten zusammen nicht mehr als eine Reichsmark für je eine Deutsche Mark des Ansatzes für das Grundstück in der Umstellungsrechnung ergeben.
 
-
-## 6c. – Kriegssachschäden
+# 6c. – Kriegssachschäden
 
 (1) Kriegssachschädenforderungen dürfen in der Reichsmarkschlußbilanz bis zu einem Betrage angesetzt werden, der zusammen mit dem Restwert des zerstörten oder beschädigten Gegenstandes nach Eintritt des Kriegssachschadens den Ansatz für diesen Gegenstand in der letzten Bilanz vor Eintritt des Kriegssachschadens oder den Wert ergibt, mit dem der unbeschädigte Gegenstand gemäß Ziffer 6b. in der Reichsmarkschlußbilanz hätte angesetzt werden dürfen. Dies gilt auch, wenn der zerstörte oder beschädigte Gegenstand bis zum 20. Juni 1948 mit eigenen Mitteln des Versicherungsunternehmens wiederbeschafft oder wiederhergestellt worden ist.
 
 (2) Für die Bewertung eines wiederbeschafften oder wiederhergestellten Gegenstandes oder den gesonderten Ausweis von Wiederaufbaukosten in der Reichsmarkschlußbilanz gelten die Grundsätze der Ziffer 6a Buchstabe A.
 
-
-## 6d. – Zinsansprüche
+# 6d. – Zinsansprüche
 
 Zinsansprüche für die Zeit bis zum 20. Juni 1948 dürfen mit der sich aus Ziffer 6a Buchstabe A Nr. 5 ergebenden Einschränkung in der Reichsmarkschlußbilanz aktiviert werden, soweit sie auf die Zeit bis zum letzten Bilanzstichtag vor dem 9. Mai 1945 entfallen, oder soweit es sich um solche Zinsansprüche für die Zeit von diesem Stichtag bis zum 20. Juni 1948 handelt, die nach dem 20. Juni 1948 beglichen wurden, oder mit deren Begleichung gerechnet werden kann. Dies gilt in gleicher Weise für Zinsansprüche aus Krediten wie für Zinsansprüche aus Schuldverschreibungen, sonstigen Wertpapieren und Schuldbuchforderungen.
 
-
-## 6e. – Anleiheablösungsforderungen mit Auslösungsrechten und Reichsschatzanweisungen 1944, Folge III
+# 6e. – Anleiheablösungsforderungen mit Auslösungsrechten und Reichsschatzanweisungen 1944, Folge III
 
 (1) Für die Bewertung von Reichsanleiheablösungsforderungen mit Auslosungsrecht in der Reichsmarkschlußbilanz gelten folgende Grundsätze:
 
@@ -83,18 +72,15 @@ c) Für rechtsgeschäftlich erworbene Stücke, deren Anschaffungspreis nicht meh
 
 (3) Der bisherige Ansatz für 3 1/2prozentige Reichsschatzanweisungen 1944, Folge III, darf in der Reichsmarkschlußbilanz bis auf den Anschaffungspreis zuzüglich 3,5 Prozent Zinsen auf den Nennbetrag für die Zeit vom Anschaffungsstichtag bis zum 8. Mai 1945 erhöht werden.
 
-
-## 6f. – Zuführung zum früheren Eigenkapital
+# 6f. – Zuführung zum früheren Eigenkapital
 
 Wird für die Zeit vor dem 21. Juni 1948 die Veranlagung eines Versicherungsunternehmens zur Körperschaftsteuer im Pauschalierungswege durchgeführt, so dürfen die in einem früheren Jahre steuerlich als Betriebsaufwand anerkannten Beträge, die durch die Rückgängigmachung von Abschreibungen oder durch die Auflösung überdotierter technischer Reserven, Rückstellungen und Wertberichtigungen gewonnen werden - nicht jedoch Überschüsse aus der Abwicklung technischer Reserven -, nur insoweit dem früheren Eigenkapital zugeführt werden, als dies bei einer Veranlagung zur Körperschaftsteuer auf Grund der Reichsmarkschlußbilanz möglich gewesen wäre. Wenn, und soweit diese Beträge in der handelsrechtlichen Reichsmarkschlußbilanz zu einem Gewinn führen, sind sie um den Betrag zu kürzen, der sich bei Anwendung des für das Versicherungsunternehmen maßgebenden Körperschaftsteuersatzes auf diesen Teil des Gewinns als Steuerschuld ergeben würde. Dasselbe gilt auch dann, wenn die Körperschaftsteuer für die Zeit bis zum 20. Juni 1948 bereits rechtskräftig im normalen Verfahren veranlagt worden ist, ohne daß hierbei die durch die Rückgängigmachung von Abschreibungen oder durch die Auflösung überdotierter technischer Reserven, Rückstellungen und Wertberichtigungen in der Reichsmarkschlußbilanz gewonnenen Beträge mitberücksichtigt sind.
 
-
-## 6g. – Bilanztechnische Behandlung
+# 6g. – Bilanztechnische Behandlung
 
 Erhöhungen bisheriger Wertansätze der Aktivseite und Verminderungen bisheriger Wertansätze der Passivseite sowie Abschreibungen auf Wertansätze der Aktivseite oder Erhöhungen oder Neueinstellungen von Passivposten können - unbeschadet der Vorschrift der Ziffer 6f - entweder über die Gewinn- und Verlustrechnung für das am 20. Juni 1948 endende Geschäftsjahr oder unmittelbar zugunsten oder zu Lasten von Eigenkapitalsposten erfolgen. Nach Ziffer 6c erforderliche Abschreibungen auf Kriegssachschädenforderungen sind zu Lasten der Rücklage für Ersatzbeschaffungen vorzunehmen.
 
-
-## 6h. – Berichtigungen der Reichsmarkschlußbilanz
+# 6h. – Berichtigungen der Reichsmarkschlußbilanz
 
 (1) Entspricht ein bereits festgestellter Abschluß auf den 20. Juni 1948 nicht den vorstehenden Grundsätzen, so muß er diesen für die Zwecke der Umstellungsrechnung im Wege einer Berichtigung angepaßt werden, soweit in dem festgestellten Abschluß
 
@@ -112,24 +98,19 @@ b) Passivposten ausgewiesen sind, die nach den vorstehenden Grundsätzen nicht o
 
 (3) Berichtigungen nach Absatz 1 und 2 sind lediglich in den Reichsmarkspalten des "Überleitungsbogens zur Reichsmarkschlußbilanz" oder in einem "Berichtigungsbogen zum Überleitungsbogen" auszuweisen; sie sind gemeinsam mit dem ersten vorläufigen Abschluß der Umstellungsrechnung oder jeweils in Verbindung mit einer Berichtigung dieses Abschlusses zu prüfen.
 
-
-## 6i. – Weitergeltung bisheriger Grundsätze
+# 6i. – Weitergeltung bisheriger Grundsätze
 
 Soweit in den Vorschriften zur Neuordnung des Geldwesens und in diesen Richtlinien nichts Abweichendes bestimmt ist, gelten für die Reichsmarkschlußbilanz die für die vorangegangenen Jahresabschlüsse maßgebenden Grundsätze, insbesondere auch die von den Versicherungsaufsichtsbehörden für die Bilanzen ab 1945 erlassenen Bilanzierungsrichtlinien.
 
+# 7. bis 15. – (weggefallen)
 
-## 7. bis 15. – (weggefallen)
+# 16. bis 54. – (weggefallen)
 
-
-## 16. bis 54. – (weggefallen)
-
-
-## Anlage – (zu Teil D)  Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
+# Anlage – (zu Teil D)  Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
 
 Für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld (unselbständiges Sterbegeld) und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen in der Umstellungsrechnung gelten in den Fällen der Ziffer III, 1b Abs. 2 und 1c der Ergänzungsrichtlinien Teil D die nachstehenden Grundsätze.
 
-I.  
-Rechnungsgrundlagen
+I. Rechnungsgrundlagen
 
 1. Sterbenswahrscheinlichkeiten (q) nach der Sterbetafel 1924/26 Männer;
 
@@ -139,7 +120,7 @@ Rechnungsgrundlagen
 
 |                                                   |
 |:-------------------------------------------------:|
-| ![ ](../normengrafiken/bgbl3_1964/j0089_0010.jpg) |
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl3_1964/j0089_0010.jpg) |
 
   
 
@@ -169,21 +150,21 @@ b) Die Schäden der Erwachsenen sind um den durch Beiträge nicht gedeckten Teil
 
 |                                                   |
 |:-------------------------------------------------:|
-| ![ ](../normengrafiken/bgbl3_1964/j0090_0010.jpg) |
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl3_1964/j0090_0010.jpg) |
 
   
 die normierten Kopfschäden der Alter bzw. Gruppenalter  
 
 |                                                   |
 |:-------------------------------------------------:|
-| ![ ](../normengrafiken/bgbl3_1964/j0090_0020.jpg) |
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl3_1964/j0090_0020.jpg) |
 
   
 die Versichertenbestände der entsprechenden Alter, so erhält man den Wert des Grundkopfschadens G des in Frage kommenden Tarifs nach folgender Formel:  
 
 |                                                   |
 |:-------------------------------------------------:|
-| ![ ](../normengrafiken/bgbl3_1964/j0090_0030.jpg) |
+| ![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl3_1964/j0090_0030.jpg) |
 
   
 
@@ -249,8 +230,7 @@ IV. Schlußbemerkungen
 
 2. Ist eine im Reichsmarkabschluß ausgewiesene Rückstellung höher als die berechnete, so ist der sich im Reichsmarkabschluß zwischen der bilanzmäßigen und der rechnungsmäßigen Rückstellung ergebende Mehrbetrag als Rückstellung für den schwankenden Jahresbedarf auszuweisen.
 
-
-## Anhang 1 – Normierte Kopfschäden
+# Anhang 1 – Normierte Kopfschäden
 
 Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 
@@ -293,8 +273,7 @@ Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 |   51   |  1,359  |  1,081  |   84   |  2,326  |  1,672  |
 |   52   |  1,375  |  1,093  |        |         |         |
 
-
-## Anhang 2 – Tafel der Krankheitsdauern
+# Anhang 2 – Tafel der Krankheitsdauern
 
 Fundstelle des Originaltextes: BGBl. III 7601-6-8, S. 91
 

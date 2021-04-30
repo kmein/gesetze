@@ -1,16 +1,12 @@
-# [MarkenG§8Bek 98-05] Bekanntmachung zu § 8 des Markengesetzes
-
-Ausfertigungsdatum: 20.05.1998
-
+% Bekanntmachung zu § 8 des Markengesetzes
+% Ausfertigungsdatum: 20.05.1998
  
-
-## I.
+# I.
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156; 1996 I S. 1014, 1546) wird bekanntgemacht, daß das folgende amtliche Prüf- und Gewährzeichen von der Eintragung als Marke ausgeschlossen ist:  
 Konformitätsmarke für obligatorische und freiwillige Zertifikation von Waren und Dienstleistungen in dem nationalen Zertifikationssystem der Republik Kasachstan (Anlage 1).
 
-
-## II.
+# II.
 
 Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht, daß die folgenden Kennzeichen von der Eintragung als Marke ausgeschlossen sind:
 
@@ -30,18 +26,15 @@ Diese Bekanntmachung ersetzt die Bekanntmachung vom 14. April 1975 (BGBl. I S. 9
 
 7. Abkürzung und Name (in Spanisch, Deutsch, Englisch, Französisch und Italienisch), Emblem (sowohl farbig als auch schwarz-weiß) des Harmonisierungsamtes für den Binnenmarkt (Marken, Muster und Modelle) (Anlage 8).
 
-
-## III.
+# III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 23. März 1998 (BGBl. I S. 632).
 
-
-## Schlußformel
+# Schlußformel
 
 Bundesministerium der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 1998, 1217)
 
@@ -63,8 +56,7 @@ freiwillige Zertifikation
   
 Das Prüfzeichen besteht aus einer Kombination der Buchstaben "C", "T" und "K". Es kann in jedem Kontrast zur Hintergrundfarbe wiedergegeben werden und auf dem Produkt mittels Etikett, Gravur oder Abdruck angebracht oder auf der Verpackung oder der dazugehörigen Dokumentation aufgedruckt werden.
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 1998, 1218)
 
@@ -117,8 +109,7 @@ Siegel:
 
 (... nicht darstellbare Abbildung)
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 1998, 1219)
 
@@ -148,8 +139,7 @@ Siegel in Englisch, Französisch und Spanisch:
 
 (... nicht darstellbare Abbildungen)
 
-
-## Anlage 4
+# Anlage 4
 
 (Fundstelle: BGBl. I 1998, 1220)
 
@@ -167,8 +157,7 @@ Emblem:
 
 (... nicht darstellbare Abbildung)
 
-
-## Anlage 5
+# Anlage 5
 
 (Fundstelle: BGBl. I 1998, 1221)
 
@@ -201,8 +190,7 @@ farbig (blau-grün)
 
 (... nicht darstellbare Abbildung)
 
-
-## Anlage 6
+# Anlage 6
 
 (Fundstelle: BGBl. I 1998, 1222)
 
@@ -224,8 +212,7 @@ The European Agency for the Evaluation of Medicinal Products - Englisch -
   
 Abkürzung: EMEA
 
-
-## Anlage 7
+# Anlage 7
 
 (Fundstelle: BGBl. I 1998, 1223)
 
@@ -260,8 +247,7 @@ ORGANISATION POUR L'INTER DICTION DES ARMES CHIMIQUES - Französisch -
   
 ORGANIZACION PARA LA PROHIBICION DE LAS ARMAS QUIMICAS - Spanisch -
 
-
-## Anlage 8
+# Anlage 8
 
 (Fundstelle: BGBl. I 1998, 1224)
 

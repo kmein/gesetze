@@ -1,10 +1,7 @@
-# [EEMD-ZVAnl I] Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen  (Prüfvereinbarung)
-
-Ausfertigungsdatum: 20.03.2018
-
+% Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen  (Prüfvereinbarung)
+% Ausfertigungsdatum: 20.03.2018
  
-
-## Anlage I – Prüfvereinbarung
+# Anlage I – Prüfvereinbarung
 
 (Fundstelle: BAnz AT 27.03.2018 V2)
 
@@ -20,8 +17,7 @@ und
 
  
 
-
-## § 1 – Gegenstand der Vereinbarung
+# § 1 – Gegenstand der Vereinbarung
 
 (1) Diese Prüfvereinbarung („Vereinbarung“) regelt auf der Grundlage von § 10 des Mautsystemgesetzes (MautSysG) und § 4d des Bundesfernstraßenmautgesetzes (BFStrMG) sowie der dazu erlassenen Rechtsverordnungen die Rechte und Pflichten des Anbieters und des Mauterhebers im Zusammenhang mit der Durchführung des Prüfverfahrens für das EETS-Gebiet BFStrMG. Soweit nicht ausdrücklich geregelt, sind Rechte und Pflichten des Anbieters gegenüber Nutzern sowie die zwischen Anbieter und Nutzern geltenden vertraglichen und sonstigen Vereinbarungen nicht Gegenstand dieser Vereinbarung.
 
@@ -31,8 +27,7 @@ und
 
 (4) Vorbehaltlich der in dieser Vereinbarung enthaltenen Definitionen gelten für diese Vereinbarung die im Glossar nach (Anlage 6) enthaltenen Definitionen.
 
-
-## § 2 – Vertragsbestandteile
+# § 2 – Vertragsbestandteile
 
 (1) Bestandteile dieses Vertrags sind
 
@@ -82,13 +77,11 @@ das Glossar (Anlage 6).
 
  
 
-
-## § 3 – Ablauf des Prüfverfahrens
+# § 3 – Ablauf des Prüfverfahrens
 
 Der Ablauf des Prüfverfahrens für das EETS-Gebiet BFStrMG ist im BFStrMG und in der Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz (EEMD-ZV) festgelegt.
 
-
-## § 4 – Zeit- und Projektplan
+# § 4 – Zeit- und Projektplan
 
 (1) Nach Abschluss dieser Vereinbarung werden Anbieter und Mauterheber für das Verfahren zur Feststellung der Gebrauchstauglichkeit und für das Verfahren zur Prüfung der Erfüllung der wirtschaftlichen Vorgaben gemäß den Regelungen dieses Paragraphen einen Zeit- und Projektplan vereinbaren, in dem die Meilensteine der einzelnen Verfahrensabschnitte sowie die Zeitabläufe konkretisiert sind. Der Zeit- und Projektplan wird Teil dieser Vereinbarung (Anlage 4).
 
@@ -96,8 +89,7 @@ Der Ablauf des Prüfverfahrens für das EETS-Gebiet BFStrMG ist im BFStrMG und i
 
 (3) Der Anbieter darf von den Festlegungen des Zeit- und Projektplans nur aus wichtigem Grund und nur mit Zustimmung des Mauterhebers abweichen. Die Regelungen zur Haftung des Anbieters gemäß § 20 bleiben hiervon unberührt. Sofern der Mauterheber einer Abweichung von den Festlegungen des Zeit- und Projektplans nicht zugestimmt hat, bleibt auch das Recht des Mauterhebers zur Kündigung dieser Vereinbarung nach § 23 von den Regelungen dieses Paragraphen unberührt. Der Mauterheber ist von der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung so lange frei, bis der Anbieter die ihm nach dem Zeit- und Projektplan obliegenden Verpflichtungen erfüllt hat.
 
-
-## § 5 – Austausch von Daten
+# § 5 – Austausch von Daten
 
 (1) Nach Abschluss dieser Vereinbarung tauschen die Parteien nach Maßgabe des Zeit- und Projektplans die zum Nachweis der Erfüllung der Vorgaben für das EETS-Gebiet BFStrMG erforderlichen Daten aus.
 
@@ -123,8 +115,7 @@ Muster-Zulassungsvertrag.
 
 (6) Wird eine Partei zur Ergänzung der für die Durchführung des Prüfverfahrens erforderlichen Dokumente durch die andere Partei aufgefordert, so trägt sie dafür Sorge, dass die fehlenden Dokumente, Dokumententeile oder für den Nachweis der Erfüllung der Vorgaben für das EETS-Gebiet BFStrMG wesentliche Informationen der anderen Partei zur Verfügung gestellt werden. Diese Verpflichtung gilt nicht für den Mauterheber, wenn er zur Herausgabe von Dokumenten, Dokumententeilen oder wesentlichen Informationen aus gesetzlichen oder sonstigen rechtlichen Gründen nicht berechtigt ist. Der Mauterheber ist von der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung so lange frei, bis ihm der Anbieter sämtliche für die Durchführung des Prüfverfahrens erforderlichen Dokumente vollständig zur Verfügung gestellt hat.
 
-
-## § 6 – Mauterhebung und Mautauskehr
+# § 6 – Mauterhebung und Mautauskehr
 
 (1) Der Anbieter ist im Rahmen des Prüfverfahrens nur nach schriftlicher Erlaubnis des Mauterhebers und nur in dem in der Erlaubnis festgelegten Umfang zur Mitwirkung an der Erhebung der Maut im Geltungsbereich des EETS-Gebiets BFStrMG befugt.
 
@@ -132,8 +123,7 @@ Muster-Zulassungsvertrag.
 
 (3) Der Anbieter muss sicherstellen, dass die Zahlungsvorgänge zwischen ihm, seinen Nutzern und dem Mauterheber so ausgestaltet sind, dass in jedem Fall, auch im Fall der Insolvenz oder drohender Insolvenz des Anbieters, die Sicherheit der vollständigen Auskehr der Mauteinnahmen nicht gefährdet ist.
 
-
-## § 7 – Sicherheiten
+# § 7 – Sicherheiten
 
 (1) Der Anbieter wird dem Mauterheber unverzüglich nach Abschluss dieser Vereinbarung die Garantieerklärung einer Bank oder den Nachweis eines gleichwertigen Finanzinstruments in Höhe der erwarteten monatlichen Durchschnittssumme für Mauttransaktionen und Zahlungen gemäß § 19 Absatz 1 MautSysG übergeben, die den Mauterheber berechtigt, für alle Ansprüche aus dieser Vereinbarung, insbesondere für die an den Mauterheber auszukehrenden Mauteinnahmen, Zahlungen auf erstes Anfordern zu erhalten. Für die Prognose wird ein Betrachtungszeitraum von 12 Monaten zugrunde gelegt. Die Wirksamkeit der Bankgarantie oder des gleichwertigen Finanzinstruments kann bis zum Beginn des Pilotbetriebs aufschiebend bedingt sein.
 
@@ -143,8 +133,7 @@ Muster-Zulassungsvertrag.
 
 (4) Die Garantieerklärung oder der Nachweis eines gleichwertigen Finanzinstruments muss vom Anbieter in deutscher Sprache oder in einer amtlich beglaubigten Übersetzung übergeben werden. Sollte die Bankgarantieerklärung oder die Laufzeit des gleichwertigen Finanzinstruments befristet sein, ist der Anbieter verpflichtet, spätestens zwei Kalendermonate vor Ablauf des Geltungszeitraums eine Verlängerung dieser Bankgarantieerklärung oder des gleichwertigen Finanzinstruments vorzulegen. Legt der Anbieter die Verlängerung der Bankgarantie oder des gleichwertigen Finanzinstruments nicht rechtzeitig vor, ist der Mauterheber – unbeschadet seines Rechts zur Beendigung dieser Vereinbarung nach § 23 – von der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung so lange frei, bis der Anbieter die Verlängerung der Bankgarantieerklärung oder des gleichwertigen Finanzinstruments vorgelegt hat
 
-
-## § 8 – Versicherungen
+# § 8 – Versicherungen
 
 (1) Der Anbieter ist verpflichtet, für die im Rahmen dieser Vereinbarung ausgeführten Tätigkeiten auf eigene Kosten eine Betriebshaftpflichtversicherung mit mindestens den folgenden Inhalten abzuschließen und während der Laufzeit dieser Vereinbarung aufrechtzuerhalten:
 
@@ -160,37 +149,31 @@ b) Deckung für gesetzliche Haftpflichtansprüche wegen Personen-, Sach- und dar
 
 (5) Die Ansprüche auf Leistungen aus den Versicherungen nach den Absätzen 1 und 2 tritt der Anbieter zur Sicherung der Haftungsansprüche des Mauterhebers an diesen ab. In den Versicherungen nach den Absätzen 1 und 2 ist vorzusehen, dass der Mauterheber vom Versicherer über etwaige Versicherungsleistungen an den Anbieter unmittelbar in Kenntnis gesetzt wird. Der Anbieter ist zum Einzug der Versicherungsleistungen berechtigt und verpflichtet sich, die Versicherungsleistung umgehend zur vollständigen Beseitigung und vollständigen Wiederherstellung der Funktionsfähigkeit des vom Schaden betroffenen Teils zu verwenden. Im Falle der Verletzung dieser Pflicht ist der Mauterheber zur Offenlegung der Abtretung und zum Widerruf der nach Satz 3 erteilten Einziehungsberechtigung berechtigt. Eine Abtretung oder Verpfändung von Versicherungsansprüchen an Dritte ist nur mit vorheriger Zustimmung des Mauterhebers zulässig.
 
-
-## § 9 – Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
+# § 9 – Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
 
 Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche Zustimmung des Mauterhebers Rechte aus dieser Vereinbarung an Dritte abzutreten. Dies gilt auch für die Übernahme von Verpflichtungen des Anbieters aus dieser Vereinbarung durch Dritte sowie eine vollständige Übernahme dieser Vereinbarung des Anbieters durch Dritte. Die Erteilung der Zustimmung steht im freien Ermessen des Mauterhebers.
 
-
-## § 10 – Entgeltpflicht
+# § 10 – Entgeltpflicht
 
 Der Anbieter trägt die Kosten für die Durchführung des Prüfverfahrens. Das Entgelt bestimmt sich nach der Entgeltordnung (Anlage 5).
 
-
-## § 11 – Sicherstellung der Rückwirkungsfreiheit
+# § 11 – Sicherstellung der Rückwirkungsfreiheit
 
 (1) Der Anbieter ist verpflichtet, die Rückwirkungsfreiheit der verwendeten Systeme und eingebrachten Komponenten im Hinblick auf die ungestörte Funktion der Systeme des Mauterhebers, des nationalen Betreibers und der von ihm betriebenen Kontrolleinrichtungen zu jedem Zeitpunkt zu gewährleisten. Er steht für die jederzeitige Rückwirkungsfreiheit gemäß Satz 1 ein.
 
 (2) Ist nach den Feststellungen des Mauterhebers die Rückwirkungsfreiheit gemäß Absatz 1 nicht gewährleistet und droht daraus ein Schaden für die ungestörte Funktion der Systeme des Mauterhebers zu entstehen, so ist der Anbieter verpflichtet, alle erforderlichen Maßnahmen zu ergreifen, um den Eintritt solcher Schäden sicher auszuschließen. Der Mauterheber ist berechtigt, das Prüfverfahren so lange auszusetzen bis der Anbieter nachgewiesen hat, dass der Eintritt eines Schadens ausgeschlossen ist.
 
-
-## § 12 – Mitwirkungspflichten
+# § 12 – Mitwirkungspflichten
 
 (1) Anbieter und Mauterheber sowie die von diesen hinzugezogenen Personen und Unternehmen arbeiten während der Durchführung des Prüfverfahrens, insbesondere während des Verfahrens zur Prüfung der Erfüllung aller Vorgaben für das EETS-Gebiet BFStrMG, zusammen. Der Mauterheber stellt dem Anbieter solche Informationen zur Verfügung, die für die Vertragserfüllung erforderlich sind und seinem unmittelbaren Einwirkungsrecht unterliegen.
 
 (2) Anbieter und Mauterheber informieren die jeweils andere Partei unverzüglich und nachvollziehbar über Störungen während der Durchführung des Prüfverfahrens. Der Mauterheber ist berechtigt, das Prüfverfahren so lange auszusetzen, bis der Anbieter nachgewiesen hat, dass nicht unerhebliche Störungen ausgeschlossen sind.
 
-
-## § 13 – Finanzielle Ausstattung des Anbieters
+# § 13 – Finanzielle Ausstattung des Anbieters
 
 Der Anbieter ist verpflichtet, auf Verlangen des Mauterhebers ihm diejenigen Unterlagen zur Information vorzulegen, die er zum Nachweis seiner finanziellen Leistungsfähigkeit gemäß Artikel 3 Buchstabe d der Entscheidung 2009/750/EG im Rahmen seiner Registrierung verwendet hat. Die Unterlagen gemäß Satz 1 sind in deutscher Sprache oder in einer amtlich beglaubigten Übersetzung vorzulegen.
 
-
-## § 14 – Datenschutz
+# § 14 – Datenschutz
 
 (1) Der Anbieter stellt sicher, dass er bei der Durchführung des Prüfverfahrens jederzeit alle Anforderungen des Datenschutzes erfüllt. Dazu gehören insbesondere die spezialgesetzlichen Vorgaben des MautSysG, des BFStrMG und – soweit das MautSysG und das BFStrMG keine abschließende Regelung treffen – ergänzend die Bestimmungen des Bundesdatenschutzgesetzes (BDSG) sowie ab dem 25. Mai 2018 die Bestimmungen der Europäischen Datenschutz-Grundverordnung (EU-DSGVO). Diese Verpflichtung des Anbieters gilt unabhängig davon, ob der Anbieter selbst in den Anwendungsbereich solcher Datenschutzbestimmungen fällt. Die Pflicht des Anbieters zur Einhaltung nationaler Datenschutzbestimmungen des Staates, in dem er niedergelassen ist oder in dem er Daten erhebt oder verarbeitet, bleibt unberührt. Im Zweifel haben das MautSysG, das BFStrMG und − soweit das MautSysG und das BFStrMG keine abschließende Regelung treffen − ergänzend die Bestimmungen des BDSG sowie − soweit anwendbar − weitere spezialgesetzliche deutsche oder supranationale Datenschutzvorschriften und ab dem 25. Mai 2018 die Bestimmungen der EU-DSGVO, Vorrang vor anderen nationalen Datenschutzbestimmungen.
 
@@ -198,8 +181,7 @@ Der Anbieter ist verpflichtet, auf Verlangen des Mauterhebers ihm diejenigen Unt
 
 (3) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
-
-## § 15 – Datensicherheit
+# § 15 – Datensicherheit
 
 (1) Der Anbieter wird seine Datensysteme und Schnittstellen so ausgestalten, dass während des Prüfverfahrens zu jeder Zeit und uneingeschränkt ein verlustfreier und sicherer elektronischer Datenaustausch möglich ist.
 
@@ -217,8 +199,7 @@ von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird insbesonder
 
 (5) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
-
-## § 16 – Aufbewahrung von vertraulichen Daten
+# § 16 – Aufbewahrung von vertraulichen Daten
 
 (1) Die vertraulichen Daten sind bis zu ihrer Vernichtung, Löschung oder Rückgabe sicher aufzubewahren bzw. zu speichern und vor dem Ein- und Zugriff Dritter zu schützen.
 
@@ -232,8 +213,7 @@ von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter wird insbesonder
 
 (6) Für die Regelungen dieses Paragraphen gelten § 17 Absatz 3 und 8 entsprechend.
 
-
-## § 17 – Geheimhaltung und Vertraulichkeit
+# § 17 – Geheimhaltung und Vertraulichkeit
 
 (1) Die Parteien werden alle Daten, die ihnen vor Beginn oder während der Durchführung des Prüfverfahrens zur Verfügung gestellt werden oder die sie im Zusammenhang mit dieser Vereinbarung oder dem Prüfverfahren in sonstiger Weise erlangt haben (insgesamt: „vertrauliche Daten“), vertraulich behandeln und sie Dritten nicht zugänglich machen. Als vertrauliche Daten gelten auch solche Daten, die die Parteien selbst im Rahmen der Durchführung des Prüfverfahrens erstellt oder erhoben haben und die mit dem Mautdienst, den ihm zugrunde liegenden Parametern, den technischen Spezifikationen, wirtschaftlichen Vorgaben oder den Parteien selbst in Verbindung stehen. Die Verpflichtung zur Vertraulichkeit gilt auch nach Beendigung dieser Vereinbarung oder nach Abschluss eines Zulassungsvertrags zwischen Anbieter und Mauterheber fort.
 
@@ -277,8 +257,7 @@ c) die vertraulichen Daten zur Ausführung der ihnen obliegenden Aufgaben benöt
 
 (+++ § 17 Abs. 3 und Abs. 8: Zur Anwendung vgl. § 16 Abs. 6 +++)
 
-
-## § 18 – Gewerbliche Schutzrechte
+# § 18 – Gewerbliche Schutzrechte
 
 (1) Der Anbieter hat keine Rechte in Bezug auf gewerbliche Schutzrechte und Urheberrechte (gemeinsam: „Schutzrechte“) des Mauterhebers oder der Betreibergesellschaft. Soweit nachfolgend nicht ein anderes geregelt ist, werden an den Anbieter unter dieser Vereinbarung keine Schutzrechte lizenziert.
 
@@ -286,15 +265,13 @@ c) die vertraulichen Daten zur Ausführung der ihnen obliegenden Aufgaben benöt
 
 (3) Soweit beim Mauterheber im Zusammenhang mit dem Prüfverfahren Schutzrechte entstehen, deren Nutzung für den Anbieter im Zusammenhang mit der Erbringung mautdienstbezogener Leistungen im EETS-Gebiet BFStrMG erforderlich ist, hat der Anbieter einen Anspruch auf Einräumung eines einfachen Nutzungsrechts für das EETS-Gebiet BFStrMG, in dem zeitlichen und inhaltlichen Umfang, der für das Verhältnis zwischen Anbieter und Mauterheber erforderlich ist. Eine Unterlizenzierung bedarf der vorherigen schriftlichen Genehmigung des Mauterhebers. Der Anbieter steht dem Mauterheber für die Erfüllung der Pflicht gemäß Satz 2 ein.
 
-
-## § 19 – Eigentum
+# § 19 – Eigentum
 
 (1) Jede Partei bleibt unabhängig von Art und Umfang des Zusammenwirkens von Einrichtungen und Gegenständen der Parteien jeweils Eigentümer der von ihnen bereitgestellten Einrichtungen und Gegenstände.
 
 (2) Soweit im Rahmen des Prüfverfahrens vom Anbieter Einrichtungen und Gegenstände mit dem Grund und Boden des Mauterhebers verbunden werden, wird bereits jetzt vereinbart, dass solche Einrichtungen und Gegenstände nur zu dem vorübergehenden Zweck mit dem Grund und Boden verbunden sind. Der Anbieter hat dafür Sorge zu tragen, gegebenenfalls gesonderte Absprachen und Vereinbarungen mit den jeweils zuständigen Landesverwaltungen zu treffen bzw. abzuschließen.
 
-
-## § 20 – Haftung
+# § 20 – Haftung
 
 (1) Der Anbieter haftet bei Verletzung gesetzlicher oder vertraglicher Verpflichtungen nach den allgemeinen gesetzlichen Bestimmungen für Vorsatz und Fahrlässigkeit. Er haftet für die Rückwirkungsfreiheit der von ihm im Rahmen des Verfahrens zur Feststellung der Gebrauchstauglichkeit verwendeten Systeme und eingebrachten Komponenten im Hinblick auf die ungestörte Funktion der Systeme des Mauterhebers, des nationalen Betreibers und der von ihm betriebenen Kontrolleinrichtungen und für die inhaltliche Richtigkeit aller im Rahmen des Prüfverfahrens übermittelten Daten. Soweit der Anbieter in dieser Vereinbarung explizit oder aus den Umständen ersichtlich eine Einstandspflicht übernommen hat, haftet er dem Mauterheber auch verschuldensunabhängig.
 
@@ -314,8 +291,7 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für EETS-Anb
 
 (6) Das Recht des Mauterhebers, wegen der Verletzung von Pflichten aus dieser Vereinbarung Vertragsstrafen zu erheben, bleibt von der Regelung dieses Paragraphen unberührt.
 
-
-## § 21 – Freistellung
+# § 21 – Freistellung
 
 (1) Der Anbieter stellt den Mauterheber, die beim Mauterheber beschäftigten oder eingesetzten Personen sowie die vom Mauterheber im Zusammenhang mit dem Prüfverfahren hinzugezogenen oder beschäftigten Personen und Unternehmen (gemeinsam: die „Freistellungsberechtigten“) vollumfänglich von allen Ansprüchen frei, die aufgrund von Verletzungen dieser Vereinbarung durch den Anbieter im Zusammenhang mit der Durchführung des Prüfverfahrens von Dritten einschließlich anderer Anbieter gegen die Freistellungsberechtigten geltend gemacht werden. Der Freistellungsanspruch nach diesem Abschnitt erfasst auch alle Schäden und Kosten, die den Freistellungsberechtigten in Folge der Inanspruchnahme im Sinne dieses Paragraphen entstehen.
 
@@ -323,8 +299,7 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für EETS-Anb
 
 (3) Die Freistellung des Mauterhebers nach Absatz 1 und die Zurverfügungstellung des Betrags an den Mauterheber nach Absatz 2 erfolgen auf erstes Anfordern.
 
-
-## § 22 – Vertragsstrafen
+# § 22 – Vertragsstrafen
 
 (1) Für jeden schuldhaften Verstoß gegen die Regelungen zum Datenschutz gemäß § 14, zur Datensicherheit gemäß § 15 und zur Geheimhaltung und Vertraulichkeit gemäß § 17 dieser Vereinbarung verwirkt der Anbieter eine Vertragsstrafe in Höhe von 50 000 Euro.
 
@@ -338,8 +313,7 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für EETS-Anb
 
 (6) Sonstige Ansprüche des Mauterhebers, insbesondere auf Erfüllung, auf Schadensersatz oder auf Beendigung der Prüfvereinbarung bleiben unberührt. Vertragsstrafen werden auf Schadensersatzansprüche angerechnet, wenn und soweit sie auf demselben Sachverhalt beruhen.
 
-
-## § 23 – Beginn und Beendigung der Vereinbarung
+# § 23 – Beginn und Beendigung der Vereinbarung
 
 (1) Diese Vereinbarung tritt am Tag ihrer Unterzeichnung durch beide Parteien in Kraft.
 
@@ -375,29 +349,25 @@ Liegt ein wichtiger Grund für die Kündigung durch den Mauterheber vor, ist der
 
 (4) Die Kündigung dieser Vereinbarung ist durch schriftliche Erklärung auszusprechen und ist der jeweils anderen Partei per Einschreiben/Rückschein zuzustellen.
 
-
-## § 24 – Anpassungen der Vereinbarung
+# § 24 – Anpassungen der Vereinbarung
 
 (1) Der Anbieter ist verpflichtet, mit dem Mauterheber diejenigen Änderungen und/oder Ergänzungen zu dieser Vereinbarung zu vereinbaren, die aufgrund von Änderungen des geltenden Rechts erforderlich sind. Stimmt der Anbieter den erforderlichen Vereinbarungsanpassungen nicht oder nicht innerhalb angemessener Frist zu, ist der Mauterheber von der Erfüllung eigener Verpflichtungen nach dieser Vereinbarung so lange frei, bis die erforderlichen Änderungen und/oder Ergänzungen vereinbart sind.
 
 (2) Wird einer Partei die Erfüllung einer ihrer nach der Vereinbarung obliegenden Verpflichtung infolge höherer Gewalt oder anderer objektiv unabwendbarer Ereignisse zeitweise unmöglich, so ruhen die betroffenen Rechte und Pflichten der Parteien für den entsprechenden Zeitraum.
 
-
-## § 25 – Streitbeilegung
+# § 25 – Streitbeilegung
 
 (1) Den Parteien steht es frei, im Falle von Streitigkeiten über den Inhalt oder die Auslegung dieser Vereinbarung die Vermittlungsstelle nach den §§ 28 ff. MautSysG anzurufen.
 
 (2) Die Anrufung der Vermittlungsstelle hindert nicht die Inanspruchnahme von gerichtlichen Rechtsschutzmöglichkeiten in Deutschland oder auf Ebene der Europäischen Union.
 
-
-## § 26 – Anwendbares Recht und Gerichtsstand
+# § 26 – Anwendbares Recht und Gerichtsstand
 
 (1) Diese Vereinbarung und ihre Auslegung unterliegen deutschem Recht.
 
 (2) Gerichtsstand ist Köln.
 
-
-## § 27 – Schriftverkehr
+# § 27 – Schriftverkehr
 
 (1) Sämtliche Mitteilungen aus oder im Zusammenhang mit dieser Vereinbarung sind schriftlich und in deutscher Sprache abzufassen.
 
@@ -417,13 +387,11 @@ Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter)
 
 (5) Die Parteien werden einander Änderungen der Angaben nach den Absätzen 2 bis 4, insbesondere in der Person der Empfangs- und Zustellungsbevollmächtigten, unverzüglich mitteilen.
 
-
-## § 28 – Schriftform
+# § 28 – Schriftform
 
 Änderungen und Ergänzungen dieser Vereinbarung bedürfen der Schriftform, soweit nicht eine notarielle Beurkundung gesetzlich oder nach dieser Vereinbarung erforderlich ist. Dies gilt auch für die Aufhebung des Schriftformerfordernisses. Die Anwendung von § 126 Absatz 3 BGB ist ausgeschlossen. Sämtliche Änderungen und Ergänzungen sind in deutscher Sprache abzufassen.
 
-
-## § 29 – Salvatorische Klausel
+# § 29 – Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam oder undurchführbar sein, so berührt dies nicht die Wirksamkeit der übrigen Bestimmungen. Die unwirksame oder undurchführbare Bestimmung ist durch eine solche zu ersetzen, die dem entspricht, was die Parteien vereinbart hätten, wenn sie die Unwirksamkeit oder Undurchführbarkeit bei Abschluss dieser Vereinbarung erkannt hätten.
 
@@ -431,8 +399,7 @@ Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam oder undurchführbar
 
 Unterschriften
 
-
-## Anlagen:
+# Anlagen:
 
 –  
 Anlage 1: gegebenenfalls Zusatzvereinbarung
@@ -455,15 +422,13 @@ Anlage 6: Glossar
 –  
 Anlage 7: gegebenenfalls Erklärungen/Schriftwechsel
 
-
-## Anlage 1 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen(Prüfvereinbarung)
+# Anlage 1 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen(Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
 \[Soweit von den Parteien als erforderlich erachtet.\]
 
-
-## Anlage 2 – zur Prüfvereinbarung
+# Anlage 2 – zur Prüfvereinbarung
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
@@ -582,7 +547,7 @@ Das Zulassungsverfahren gilt als erfolgreich beendet, sobald der EETS-Zulassungs
 
 In folgendem Schaubild wird der Ablauf des EETS-Vertragsverfahrens grafisch dargestellt:
 
-![](../normengrafiken/banzat_2019/20190110v2_01.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2019/20190110v2_01.jpg)
 
 Abbildung 1: Einbettung der Gebrauchstauglichkeitsprüfung in den Ablauf des EETS-Zulassungsverfahrens
 
@@ -595,8 +560,7 @@ Die Gebrauchstauglichkeitsprüfung ist in zwei Prüfblöcke unterteilt. Der Prü
 Prüfblock 2 umfasst drei Prüfphasen. Die Prüfungen finden in bestimmten Systemumgebungen statt, um den laufenden Wirkbetrieb nicht zu gefährden und möglichst realistische Prüfergebnisse zu erhalten.
 
 –  
-Für die Schnittstellenprüfung (Phase 1) stellt der Mauterheber eine Testumgebung zur Verfügung. Der EETS-Anbieter kann für Phase 1 ein wirkbetriebsnahes Erprobungssystem einsetzen, das jedoch identische Software- und vergleichbare Hardwarestände wie das Wirkbetriebssystem aufweisen muss. Anderenfalls hat er sein Wirkbetriebssystem zur Verfügung zu stellen.  
-  
+Für die Schnittstellenprüfung (Phase 1) stellt der Mauterheber eine Testumgebung zur Verfügung. Der EETS-Anbieter kann für Phase 1 ein wirkbetriebsnahes Erprobungssystem einsetzen, das jedoch identische Software- und vergleichbare Hardwarestände wie das Wirkbetriebssystem aufweisen muss. Anderenfalls hat er sein Wirkbetriebssystem zur Verfügung zu stellen.   
 Die Kompatibilitätstests werden parallel zur Schnittstellenprüfung durchgeführt und sollen die Kompatibilität der Bordgeräte der EETS-Anbieter mit den Kontrolleinrichtungen des deutschen Mautsystems nachweisen.
 
 –  
@@ -1020,8 +984,7 @@ Die detaillierten Anforderungen an die Inhalte aller geforderten Protokolle und 
 
 Um die Nachvollziehbarkeit der Prüfergebnisse zu gewährleisten, muss der EETS-Anbieter alle zum Nachweis der Gebrauchstauglichkeit anfallenden Prüfdokumente und Prüfdaten fünf Jahre archivieren.
 
-
-## Anlage 3 – zur Prüfvereinbarung
+# Anlage 3 – zur Prüfvereinbarung
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
@@ -1397,8 +1360,7 @@ Es wird empfohlen, dass die vom EETS-Anbieter bereitzustellende Dokumentation in
 
 3.2 Schwerpunkte der Prüfung
 
-In der nachfolgenden Tabelle sind die Schwerpunkte aufgeführt, die bei der Dokumentenprüfung vorrangig betrachtet werden. Der Mauterheber prüft in dieser Phase anhand der Dokumentation des Teilsystems des EETS-Anbieters, ob und wie der EETS-Anbieter beabsichtigt, die Vorgaben des Mauterhebers zu erfüllen.  
-  
+In der nachfolgenden Tabelle sind die Schwerpunkte aufgeführt, die bei der Dokumentenprüfung vorrangig betrachtet werden. Der Mauterheber prüft in dieser Phase anhand der Dokumentation des Teilsystems des EETS-Anbieters, ob und wie der EETS-Anbieter beabsichtigt, die Vorgaben des Mauterhebers zu erfüllen.   
 
 Vorgabe
 
@@ -1837,8 +1799,7 @@ Vorgabe zu Mauterhebung, Kontrolle und Überwachung
 
 gebührenrelevante Parameter
 
-Prüfung, ob laut Systemspezifikation und Systemdokumentation die nicht variablen, gebührenrelevanten Parameter (komplementär zu Nummer 37 – also z. B. Kennzeichen, falls keine Wechselkennzeichen oder mehrere Fahrzeuge pro Bordgerät erlaubt sind) gesichert gegen Veränderungen hinterlegt sind.  
-Ist ein Prozess vorgesehen, der bei der Erfassung und Hinterlegung dieser Parameter eine Validierung vorsieht (Abgleich mit Fahrzeugpapieren, Anfrage beim nationalen Fahrzeugregister der jeweiligen Zulassungsstelle)?
+Prüfung, ob laut Systemspezifikation und Systemdokumentation die nicht variablen, gebührenrelevanten Parameter (komplementär zu Nummer 37 – also z. B. Kennzeichen, falls keine Wechselkennzeichen oder mehrere Fahrzeuge pro Bordgerät erlaubt sind) gesichert gegen Veränderungen hinterlegt sind. Ist ein Prozess vorgesehen, der bei der Erfassung und Hinterlegung dieser Parameter eine Validierung vorsieht (Abgleich mit Fahrzeugpapieren, Anfrage beim nationalen Fahrzeugregister der jeweiligen Zulassungsstelle)?
 
 Vorgabe zu Mauterhebung, Kontrolle und Überwachung
 
@@ -1928,7 +1889,7 @@ Die Systeme sind über die technischen Schnittstellen gekoppelt.
 
 Die folgende Abbildung veranschaulicht die verwendete Prüfumgebung:
 
-![](../normengrafiken/banzat_2018/20180327v2_02.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2018/20180327v2_02.jpg)
 
 Abbildung 1: Testumgebung Phase 1
 
@@ -1956,8 +1917,7 @@ Der EETS-Anbieter muss sicherstellen, dass ausschließlich Daten zur Testumgebun
 
 Die im Rahmen der Phase 1 zwischen EETS-Anbieter und Mauterheber ausgetauschten Schlüssel unterliegen auf Seite des Mauterhebers keinem besonderen Schutzbedürfnis.
 
-Die Durchführung der Prüfungen erfolgt unter Verwendung der folgenden Ausrüstung. Die hier genannten Verantwortlichkeiten gelten in Ergänzung zu den in Kapitel 2.4 genannten Verantwortlichkeiten speziell für diese Prüfphase.  
-  
+Die Durchführung der Prüfungen erfolgt unter Verwendung der folgenden Ausrüstung. Die hier genannten Verantwortlichkeiten gelten in Ergänzung zu den in Kapitel 2.4 genannten Verantwortlichkeiten speziell für diese Prüfphase.   
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; "><colgroup><col style="width: 82%" /><col style="width: 18%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Ausrüstung</th><th style="text-align: left;">Verantwortlich</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Bereitstellung der für die Durchführung der Kontrolle notwendigen Einrichtungen.</td><td style="text-align: left;">Mauterheber</td></tr><tr class="even"><td style="text-align: left;">Bereitstellung, Betrieb und Administration einer Testumgebung zur Entgegennahme von Daten des EETS-Anbieters an den technischen Schnittstellen (z. B. abschnittsbezogene Erhebungsdaten, DSRC-Daten).</td><td style="text-align: left;">Mauterheber</td></tr><tr class="odd"><td style="text-align: left;">Betriebsbereites Zentralsystem im wirkbetriebsnahen Erprobungssystem oder im Wirkbetriebssystem des EETS-Anbieters.</td><td style="text-align: left;">EETS-Anbieter</td></tr><tr class="even"><td style="text-align: left;">In Fahrzeugen verbaute Bordgeräte in ausreichender Zahl.<br />
 Die Anzahl ist im Prüfprogramm zu dokumentieren und mit dem Mauterheber abzustimmen.</td><td style="text-align: left;">EETS-Anbieter</td></tr></tbody></table>
@@ -2071,8 +2031,7 @@ Für die Durchführung der anteiligen Befahrung des mautpflichtigen Streckennetz
 
 5.3 Übersicht Prüfszenarien
 
-Die in der folgenden Tabelle dargestellten Szenarien bilden die Grundlage für die Prüfungen, die im Rahmen des Programms zur Betriebsbewährung des Teilsystems des EETS-Anbieters abgedeckt und durchgeführt werden müssen.  
-  
+Die in der folgenden Tabelle dargestellten Szenarien bilden die Grundlage für die Prüfungen, die im Rahmen des Programms zur Betriebsbewährung des Teilsystems des EETS-Anbieters abgedeckt und durchgeführt werden müssen.   
 
 | Prüfszenario | Beschreibung                    |
 |:-------------|:--------------------------------|
@@ -2780,8 +2739,7 @@ Wird während der Prüfungen festgestellt, dass die Qualität oder Fahrleistung 
 
 6.3 Übersicht Prüfszenarien
 
-Die in der folgenden Tabelle dargestellten Szenarien bilden die Grundlage für die Prüfungen, die im Rahmen des Programms zur Validierung durch Betriebsbewährung des Teilsystems des EETS-Anbieters abgedeckt und durchgeführt werden müssen.  
-  
+Die in der folgenden Tabelle dargestellten Szenarien bilden die Grundlage für die Prüfungen, die im Rahmen des Programms zur Validierung durch Betriebsbewährung des Teilsystems des EETS-Anbieters abgedeckt und durchgeführt werden müssen.   
 
 | Prüfszenario | Beschreibung                    |
 |:-------------|:--------------------------------|
@@ -4667,19 +4625,17 @@ Tabelle 64: Fahrszenarien
 
  
 
-![](../normengrafiken/banzat_2018/20180327v2_03.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2018/20180327v2_03.jpg)
 
 Anlage 3 Anhang B Nr. 2.2 Tabelle 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Kennzeichung" durch das Wort "Kennzeichnung" ersetzt
 
-
-## Anlage 4 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage 4 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
 (Nach Abschluss der Prüfvereinbarung beizufügen.)
 
-
-## Anlage 5 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage 5 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
@@ -4689,7 +4645,7 @@ Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbe
 
 Das Zulassungsverfahren gliedert sich in folgende Phasen:
 
-![](../normengrafiken/banzat_2018/20180327v2_04.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2018/20180327v2_04.jpg)
 
  
 
@@ -4777,15 +4733,13 @@ Werden die durchgeführten Anpassungen oder Hinweise auf Nichteinhaltung von Vor
 
 Die erneute Durchführung des Verfahrens zur Gebrauchstauglichkeit orientiert sich an denselben Phasen wie die initiale Durchführung. Sämtliche in der Bewertung der Änderungen als relevant eingestuften Prüfszenarien aller Verfahrensphasen müssen komplett durchlaufen werden. Die erneute Durchführung des Verfahrens zur Gebrauchstauglichkeit wird dem EETS-Anbieter berechnet, es sei denn, Änderungen im System des Mauterhebers sind ursächlich für die erneute Durchführung des Verfahrens. Sollte eine Verfahrensphase von der erneuten Durchführung nicht betroffen sein, ist der entsprechende Pauschalbetrag nicht zu entrichten. Sollte eine der Verfahrensphasen von der erneuten Durchführung teilweise betroffen sein, ist der Pauschalbetrag nach billigem Ermessen des Mauterhebers anteilig zu entrichten.
 
-
-## Anlage 6 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage 6 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
  
 
-
-## Anlage 7 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
+# Anlage 7 – zur Vereinbarung über die Durchführung des Prüfverfahrenszur Erbringung mautdienstbezogener Leistungen (Prüfvereinbarung)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 

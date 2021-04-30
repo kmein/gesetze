@@ -1,22 +1,17 @@
-# [UrhRSchFrVerlG] Gesetz zur Verlängerung der Schutzfristen im Urheberrecht
-
-Ausfertigungsdatum: 13.12.1934
-
+% Gesetz zur Verlängerung der Schutzfristen im Urheberrecht
+% Ausfertigungsdatum: 13.12.1934
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
-
-## § 1
+# § 1
 
 (1) Die Schutzfristen im Urheberrecht, die dreißig Jahre betragen, werden auf fünfzig Jahre verlängert.
 
 (2) ...
 
-
-## § 2
+# § 2
 
 (1) Die Verlängerung der Schutzdauer tritt auch für die bereits geschaffenen Werke ein, die beim Inkrafttreten dieses Gesetzes noch urheberrechtlich geschützt sind.
 

@@ -1,15 +1,11 @@
-# [PMMPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager - Mikrotechnologie und Geprüfte Prozessmanagerin - Mikrotechnologie (Certified Process Manager - Microtechnology)
-
-Ausfertigungsdatum: 17.07.2007
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager - Mikrotechnologie und Geprüfte Prozessmanagerin - Mikrotechnologie (Certified Process Manager - Microtechnology)
+% Ausfertigungsdatum: 17.07.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 53 Abs. 1 durch Artikel 232 Nr. 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Prozessmanager – Mikrotechnologie und zur Geprüften Prozessmanagerin – Mikrotechnologie nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -35,8 +31,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Ber
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Prozessmanager – Mikrotechnologie und Geprüfte Prozessmanagerin – Mikrotechnologie (Certified Process Manager – Microtechnology).
 
-
-## § 2 – Gliederung der Prüfung
+# § 2 – Gliederung der Prüfung
 
 Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -48,8 +43,7 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -65,8 +59,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse"
+# § 4 – Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse"
 
 (1) Im Prüfungsteil "Betriebliche Mikrotechnologie-Prozesse" sollen die folgenden Befähigungen nachgewiesen werden:
 
@@ -94,8 +87,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Prüfungsteil "Mikrotechnologie-Fachaufgaben"
+# § 5 – Prüfungsteil "Mikrotechnologie-Fachaufgaben"
 
 (1) Im Prüfungsteil "Mikrotechnologie-Fachaufgaben" soll die Befähigung zur Bewältigung berufstypischer Probleme nachgewiesen werden. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
 
@@ -145,8 +137,7 @@ c) Anwenden von Kalkulationsverfahren und Deckungsbeitragsrechnungen.
 
 (3) Wurde in nicht mehr als einer Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 6 – Prüfungsteil "Mitarbeiterführung und Personalmanagement"
+# § 6 – Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 
 (1) Im Prüfungsteil "Mitarbeiterführung und Personalmanagement" sind durch die Bearbeitung der Situationsaufgaben folgende Befähigungen nachzuweisen:
 
@@ -228,22 +219,19 @@ Die zu prüfende Person wählt einen der Anwendungsfälle aus. Die praktische De
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9 und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 9 Absatz 3 Satz 1 oder § 9 Absatz 3 Satz 2 oder § 10 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Ausbildereignung
+# § 8 – Ausbildereignung
 
 (1) Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (2) Wer dabei im Prüfungsteil "Mitarbeiterführung und Personalmanagement" für die praktische Demonstration den Anwendungsfall "Vorbereiten und Durchführen einer Ausbildungseinheit" oder "Vorbereiten und Durchführen einer Mitarbeiterqualifizierung" ausgewählt hat, hat die berufs- und arbeitspädagogische Qualifikation nach dem Berufsbildungsgesetz nachgewiesen. Hierüber ist ein Zeugnis auszustellen.
 
-
-## § 9 – Bewerten von Prüfungsleistungen
+# § 9 – Bewerten von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -253,8 +241,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Bestehen der Prüfung, Gesamtnote
+# § 10 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 9 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -274,8 +261,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zeugnisse
+# § 11 – Zeugnisse
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und B.
 
@@ -289,8 +275,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Wiederholung der Prüfung
+# § 12 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -298,15 +283,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu § 3 Abs. 2)Spezialistenprofile in der Mikrotechnologie
+# Anlage 1 – (zu § 3 Abs. 2)Spezialistenprofile in der Mikrotechnologie
 
 (Fundstelle: BGBl. I 2007, 1423 - 1424; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -450,15 +433,13 @@ Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Per
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu den §§ 9 und 10)Bewertungsmaßstab und -schlüssel
+# Anlage 2 – (zu den §§ 9 und 10)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2283 – 2284)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 11)Zeugnisinhalte
+# Anlage 3 – (zu § 11)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2285)
 

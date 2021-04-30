@@ -1,10 +1,7 @@
-# [AUG§1Abs2Bek 13] Dreizehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
-
-Ausfertigungsdatum: 11.05.1992
-
+% Dreizehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
+% Ausfertigungsdatum: 11.05.1992
  
-
-## ----
+# ----
 
 Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes nunmehr auch im Verhältnis zu dem US-Bundesstaat
 
@@ -18,8 +15,7 @@ verbürgt ist. Ferner wird bekanntgemacht, daß im Verhältnis zu dem US-Bundess
   
 Wisconsin
 
-die Gegenseitigkeit nicht mehr auf Kindesunterhalt beschränkt ist (BGBl. 1989 I S. 372), sondern nunmehr auch für Ehegattenunterhalt besteht.  
-Damit ist die Gegenseitigkeit im Sinne des Auslandsunterhaltsgesetzes insgesamt im Verhältnis zu folgenden Staaten verbürgt:
+die Gegenseitigkeit nicht mehr auf Kindesunterhalt beschränkt ist (BGBl. 1989 I S. 372), sondern nunmehr auch für Ehegattenunterhalt besteht. Damit ist die Gegenseitigkeit im Sinne des Auslandsunterhaltsgesetzes insgesamt im Verhältnis zu folgenden Staaten verbürgt:
 
 1. in den Vereinigten Staaten von Amerika im Verhältnis zu
 
@@ -57,6 +53,5 @@ Damit ist die Gegenseitigkeit im Sinne des Auslandsunterhaltsgesetzes insgesamt 
 
 3. im Verhältnis zu Südafrika.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7. Oktober 1991 (BGBl. I S. 2000).  
-  
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7. Oktober 1991 (BGBl. I S. 2000).   
 Der Bundesminister der Justiz

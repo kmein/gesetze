@@ -1,13 +1,9 @@
-# [GüKVO] Verordnung über den Güterkraftverkehr  (GüKVO)
-
-Ausfertigungsdatum: 20.06.1990
-
+% Verordnung über den Güterkraftverkehr  (GüKVO)
+% Ausfertigungsdatum: 20.06.1990
  
+# §§ 1 bis 3, 5 bis 13, 15 bis 44, 45 bis 69 – (weggefallen)
 
-## §§ 1 bis 3, 5 bis 13, 15 bis 44, 45 bis 69 – (weggefallen)
-
-
-## § 70 – Güterfernverkehr
+# § 70 – Güterfernverkehr
 
 (1) Unternehmen, die bis zum Zeitpunkt des Inkrafttretens dieser Verordnung genehmigungspflichtige Beförderungen betrieben haben, können ihren Betrieb bis zum 31. Dezember 1990 weiterführen. Der § 9 Abs. 1 ist insoweit nicht anzuwenden. Dies gilt auch für Unternehmen, die nach Inkrafttreten dieser Verordnung Güterfernverkehr aufnehmen.
 
@@ -15,23 +11,19 @@ Ausfertigungsdatum: 20.06.1990
 
 (3) Die Weiterführung des Güterfernverkehrsunternehmens nach dem im Abs. 1 bestimmten Zeitpunkt setzt die rechtzeitige Einholung der Genehmigung nach § 9 dieser Verordnung voraus.
 
-
-## § 71 – Speditioneller Abfertigungsdienst, Umzugsverkehr und Güternahverkehr
+# § 71 – Speditioneller Abfertigungsdienst, Umzugsverkehr und Güternahverkehr
 
 (1) Unternehmer, die zum Zeitpunkt des Inkrafttretens dieser Verordnung speditionellen Abfertigungsdienst, Umzugsverkehr oder Güternahverkehr betrieben haben, können ihr Unternehmen bis zum 31. Dezember 1990 weiterführen. Die §§ 33, 35 und 52 sind insoweit nicht anzuwenden. Dies gilt auch für Unternehmen, die nach Inkrafttreten dieser Verordnung bis zum 31. Dezember 1990 eine dieser Tätigkeiten aufnehmen.
 
 (2) Die Weiterführung eines solchen Unternehmens nach dem in Abs. 1 bestimmten Zeitpunkt setzt die rechtzeitige Einholung der Zulassung bzw. Erlaubnis nach dieser Verordnung voraus.
 
+# §§ 72 bis 75 – (weggefallen)
 
-## §§ 72 bis 75 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III  (BGBl. II 1990, 885, 1223)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III  (BGBl. II 1990, 885, 1223)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 

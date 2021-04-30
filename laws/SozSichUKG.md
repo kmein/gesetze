@@ -1,25 +1,19 @@
-# [SozSichUKG] Gesetz zur Koordinierung der sozialen Sicherheit mit dem Vereinigten Königreich Großbritannien und Nordirland  (SozSichUKG)
-
-Ausfertigungsdatum: 01.04.2021
-
+% Gesetz zur Koordinierung der sozialen Sicherheit mit dem Vereinigten Königreich Großbritannien und Nordirland  (SozSichUKG)
+% Ausfertigungsdatum: 01.04.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz regelt die Zuständigkeit der deutschen Sozialversicherungsträger und anderer für die soziale Sicherheit zuständiger deutscher Träger und Behörden bei der Anwendung und Durchführung des Protokolls über die Koordinierung der sozialen Sicherheit als Teil des Handels- und Kooperationsabkommens zwischen der Europäischen Union und der Europäischen Atomgemeinschaft einerseits und dem Vereinigten Königreich Großbritannien und Nordirland andererseits (ABl. L 444 vom 31.12.2020, S. 14).
 
-
-## § 2 – Zuständige Behörde
+# § 2 – Zuständige Behörde
 
 Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde nach Artikel SSC.1 Buchstabe g des Protokolls über die Koordinierung der sozialen Sicherheit.
 
-
-## § 3 – Verbindungsstellen
+# § 3 – Verbindungsstellen
 
 (1) Zur Durchführung des Protokolls über die Koordinierung der sozialen Sicherheit und seiner Anhänge werden in der Bundesrepublik Deutschland folgende Verbindungsstellen bestimmt:
 
@@ -41,8 +35,7 @@ Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde nach Art
 
 (5) Für die Krankenversicherung gilt § 219a des Fünften Buches Sozialgesetzbuch mit Ausnahme des Absatzes 1 Satz 3 Nummer 4, Satz 4 und des Absatzes 6. Für die Unfallversicherung gilt § 139a des Siebten Buches Sozialgesetzbuch. Für die Arbeitslosenversicherung gilt § 368 Absatz 1a des Dritten Buches Sozialgesetzbuch. Für die Rentenversicherung gelten die §§ 126, 127a Absatz 1 Satz 1 und § 128 Absatz 3 des Sechsten Buches Sozialgesetzbuch mit der Maßgabe, dass in § 128 Absatz 3 Nummer 3 des Sechsten Buches Sozialgesetzbuch das Vereinigte Königreich Großbritannien und Nordirland wie ein Mitgliedstaat der Europäischen Union zu behandeln ist. Für die Alterssicherung der Landwirte gilt § 50 des Gesetzes über die Alterssicherung der Landwirte.
 
-
-## § 4 – Zuständige Stellen für die Bestimmung des anwendbaren Rechts
+# § 4 – Zuständige Stellen für die Bestimmung des anwendbaren Rechts
 
 (1) Den Trägern der gesetzlichen Krankenversicherung wird die Aufgabe übertragen, die weitere Anwendbarkeit der deutschen Rechtsvorschriften zu prüfen und insbesondere für eine Person darüber zu entscheiden, die
 
@@ -70,14 +63,12 @@ Das Bundesministerium für Arbeit und Soziales ist zuständige Behörde nach Art
 
 (6) § 150 Absatz 3 und § 274 des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
 
-
-## § 5 – Zugangsstellen für den elektronischen Datenaustausch
+# § 5 – Zugangsstellen für den elektronischen Datenaustausch
 
 (1) Für die Zugangsstellen für den elektronischen Datenaustausch gilt § 6 Absatz 1 Nummer 1 bis 4 des Gesetzes zur Koordinierung der Systeme der sozialen Sicherheit in Europa entsprechend.
 
 (2) § 6 Absatz 2 des Gesetzes zur Koordinierung der Systeme der sozialen Sicherheit in Europa sowie § 219b des Fünften Buches Sozialgesetzbuch gelten entsprechend mit der Maßgabe, dass an die Stelle der Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit der Sonderausschuss für die Koordinierung der sozialen Sicherheit tritt.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 2021 in Kraft.

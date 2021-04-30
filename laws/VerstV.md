@@ -1,10 +1,7 @@
-# [VerstV] Verordnung über gewerbsmäßige Versteigerungen  (Versteigererverordnung - VerstV)
-
-Ausfertigungsdatum: 24.04.2003
-
+% Verordnung über gewerbsmäßige Versteigerungen  (Versteigererverordnung - VerstV)
+% Ausfertigungsdatum: 24.04.2003
  
-
-## § 1 – Versteigerungsauftrag
+# § 1 – Versteigerungsauftrag
 
 Der Versteigerer darf nur auf Grund eines schriftlichen Vertrags mit dem Inhalt nach Satz 2 versteigern. Der Vertrag muss enthalten:
 
@@ -26,15 +23,13 @@ b) ob und welche Mindestpreise festgesetzt werden,
 
 c) ob Gold- und Silbersachen unter dem Gold- oder Silberwert zugeschlagen werden können.
 
-
-## § 2 – Verzeichnis
+# § 2 – Verzeichnis
 
 (1) Der Versteigerer hat bis spätestens zwei Wochen vor der Versteigerung ein Verzeichnis der zu versteigernden Sachen anzufertigen, in dem das Versteigerungsgut jedes Auftraggebers einheitlich zu kennzeichnen ist. Das Versteigerungsgut ist durch den Namen des Auftraggebers oder durch Deckworte, Buchstaben oder Zahlen bei jeder einzelnen Nummer des Verzeichnisses oder bei übersichtlichen Zusammenstellungen der den einzelnen Auftraggebern gehörenden Sachen zu kennzeichnen. Bei den Zusammenstellungen sind die Sachen, die dem Versteigerer gehören, gesondert aufzuführen und als solche zu kennzeichnen.
 
 (2) Absatz 1 gilt nicht für Briefmarkenversteigerungen, Münzversteigerungen und öffentliche Versteigerungen auf Grund gesetzlicher Vorschrift (§ 383 Abs. 3 des Bürgerlichen Gesetzbuchs). Bei freiwilligen Hausrat- und Nachlassversteigerungen können durch die am Ort der Versteigerung zuständige Behörde Ausnahmen von den Anforderungen nach Absatz 1 zugelassen werden.
 
-
-## § 3 – Anzeige
+# § 3 – Anzeige
 
 (1) Der Versteigerer hat jede Versteigerung spätestens zwei Wochen vor dem in Aussicht genommenen Versteigerungstermin der zuständigen Behörde sowie der Industrie- und Handelskammer, in deren Bezirk die Versteigerung stattfinden soll, schriftlich oder elektronisch mit den Angaben nach Absatz 2 anzuzeigen. Die Behörde kann in Ausnahmefällen, insbesondere bei leicht verderblichem Versteigerungsgut, die Frist auf Antrag abkürzen. Bei der Versteigerung von landwirtschaftlichem Inventar, landwirtschaftlichen und forstwirtschaftlichen Erzeugnissen oder Vieh ist keine Anzeige erforderlich.
 
@@ -56,18 +51,15 @@ Zur Ausübung der Befugnisse nach Satz 1 Nr. 1 bis 3 kann sich die Behörde der 
 
 (5) Auf Versteigerungen im Reisegewerbe findet § 56a Abs. 2 der Gewerbeordnung keine Anwendung.
 
-
-## § 4 – Besichtigung
+# § 4 – Besichtigung
 
 Der Versteigerer hat für die Dauer von mindestens zwei Stunden Gelegenheit zur Besichtigung des Versteigerungsgutes zu geben. Die zuständige Behörde kann Ausnahmen zulassen, wenn der Versteigerer den Bietern in anderer Weise hinreichend Gelegenheit gibt, das Versteigerungsgut zu beurteilen.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
-
-## § 6 – Ausnahme von den verbotenen Tätigkeiten
+# § 6 – Ausnahme von den verbotenen Tätigkeiten
 
 (1) Das Verbot der Versteigerung von Waren, die in offenen Verkaufsstellen feilgeboten werden und die ungebraucht sind oder deren bestimmungsgemäßer Gebrauch in ihrem Verbrauch besteht (§ 34b Abs. 6 Nr. 5 Buchstabe b der Gewerbeordnung), gilt nicht, wenn das Versteigerungsgut
 
@@ -87,13 +79,11 @@ Die zuständige Behörde kann im Einzelfall nach Anhörung der für den Versteig
 
 Die für den Versteigerungsort zuständige Behörde kann im Einzelfall unter den Voraussetzungen des Absatzes 1 Satz 2 Ausnahmen zulassen.
 
-
-## § 7 – Zuschlag
+# § 7 – Zuschlag
 
 Der Versteigerer darf den Zuschlag erst erteilen, wenn nach dreimaligem Wiederholen des Höchstgebots kein Übergebot abgegeben wird.
 
-
-## § 8 – Buchführung
+# § 8 – Buchführung
 
 (1) Der Versteigerer hat über jeden Versteigerungsauftrag und dessen Abwicklung nach den Grundsätzen ordnungsmäßiger Buchführung Aufzeichnungen zu machen sowie Unterlagen und Belege zu sammeln. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache zu machen. § 239 Abs. 2 bis 4 des Handelsgesetzbuchs gilt sinngemäß.
 
@@ -101,13 +91,11 @@ Der Versteigerer darf den Zuschlag erst erteilen, wenn nach dreimaligem Wiederho
 
 (3) Soweit sich aus handels- oder steuerrechtlichen Bestimmungen Pflichten zur Buchführung ergeben, die der Pflicht nach Absatz 1 vergleichbar sind, kann der Gewerbetreibende auf diese Buchführung verweisen; die Aufbewahrungspflichten nach Absatz 2 gelten in diesem Fall entsprechend.
 
-
-## § 9 – Untersagung, Aufhebung und Unterbrechung der Versteigerung
+# § 9 – Untersagung, Aufhebung und Unterbrechung der Versteigerung
 
 Die zuständige Behörde kann die Versteigerung ganz oder teilweise untersagen oder eine begonnene Versteigerung aufheben oder unterbrechen, wenn der Versteigerer gegen § 34b Abs. 6 oder 7 der Gewerbeordnung oder gegen § 2 Abs. 1 oder §§ 3, 4 oder § 6 Abs. 2 dieser Verordnung verstößt oder verstoßen hat.
 
-
-## § 10 – Straftaten und Ordnungswidrigkeiten
+# § 10 – Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -133,8 +121,7 @@ Die zuständige Behörde kann die Versteigerung ganz oder teilweise untersagen o
 
 (4) Wer durch eine in Absatz 1 bezeichnete Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 148 Nr. 2 der Gewerbeordnung strafbar.
 
-
-## § 11 – Anwendung bei grenzüberschreitender Dienstleistungserbringung
+# § 11 – Anwendung bei grenzüberschreitender Dienstleistungserbringung
 
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus im Geltungsbereich dieser Verordnung vorübergehend selbständig eine gewerbsmäßige Tätigkeit als Versteigerer aus, sind die §§ 2 bis 10 insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt entsprechend.
 

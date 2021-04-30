@@ -1,25 +1,19 @@
-# [SystElektronAusbV 2008] Verordnung über die Berufsausbildung zum Systemelektroniker und zur Systemelektronikerin
-
-Ausfertigungsdatum: 25.07.2008
-
+% Verordnung über die Berufsausbildung zum Systemelektroniker und zur Systemelektronikerin
+% Ausfertigungsdatum: 25.07.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des § 27 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs.1 und § 27 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 der Handwerksordnung zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Systemelektroniker und Systemelektronikerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 25, Elektrotechniker, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan/Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan/Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -61,8 +55,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 18. Durchführen von Serviceleistungen.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in § 3 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 bis 9 nachzuweisen.
 
@@ -70,15 +63,13 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Gesellenprüfung
+# § 5 – Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen die Qualifikationen, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Gesellenprüfung mit 40 Prozent, Teil 2 der Gesellenprüfung mit 60 Prozent gewichtet.
 
-
-## § 6 – Teil 1 der Gesellenprüfung
+# § 6 – Teil 1 der Gesellenprüfung
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -108,8 +99,7 @@ kann;
 
 4. die Prüfungszeit beträgt zehn Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen; die schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von zwei Stunden haben.
 
-
-## § 7 – Teil 2 der Gesellenprüfung
+# § 7 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -189,8 +179,7 @@ Analyse eines elektronischen Gerätes oder Systems;
 
 3. die Prüfungszeit beträgt eine Stunde.
 
-
-## § 8 – Gewichtungs- und Bestehensregelung
+# § 8 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -217,23 +206,19 @@ Analyse eines elektronischen Gerätes oder Systems;
 
 bewertet worden sind.
 
-
-## § 9 – Mündliche Ergänzungsprüfung
+# § 9 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von höchstens 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 10 – Bestehende Berufsausbildungsverhältnisse
+# § 10 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren. Kommt eine Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in § 11 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-
-## Anlage – (zu § 3)Ausbildungsrahmenplan für die Berufsausbildung zum Systemelektroniker/zur Systemelektronikerin
+# Anlage – (zu § 3)Ausbildungsrahmenplan für die Berufsausbildung zum Systemelektroniker/zur Systemelektronikerin
 
 (Fundstelle: BGBl. I 2008, 1459 - 1467)  
 

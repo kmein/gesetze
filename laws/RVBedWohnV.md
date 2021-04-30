@@ -1,15 +1,11 @@
-# [RVBedWohnV] Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge für Bedienstete der Träger der Rentenversicherung  (Bedienstetenwohnungs-Verordnung der RV-Träger - RVBedWohnV)
-
-Ausfertigungsdatum: 15.04.2005
-
+% Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge für Bedienstete der Träger der Rentenversicherung  (Bedienstetenwohnungs-Verordnung der RV-Träger - RVBedWohnV)
+% Ausfertigungsdatum: 15.04.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 222 Abs. 1 des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom 19. Februar 2002 (BGBl. I S. 754, 1404, 3384), der durch Artikel 208 Nr. 1 des Gesetzes vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Zulässigkeit der Wohnungsfürsorge
+# § 1 – Zulässigkeit der Wohnungsfürsorge
 
 (1) Maßnahmen der Wohnungsfürsorge sind nur zulässig für die Bediensteten eines Trägers der Rentenversicherung, die an Dienststellen in Orten mit unzulänglichem Wohnungsangebot versetzt werden.
 
@@ -19,8 +15,7 @@ Auf Grund des § 222 Abs. 1 des Sechsten Buches Sozialgesetzbuch - Gesetzliche R
 
 (4) Die Errichtung, der Umbau und die Modernisierung von funktionsbezogenen Dienstwohnungen sind ohne das Vorliegen der Voraussetzungen nach Absatz 1 zulässig.
 
-
-## § 2 – Umfang der Wohnungsfürsorge
+# § 2 – Umfang der Wohnungsfürsorge
 
 (1) Wohnungsfürsorge ist auf angemessenen Wohnraum zu beschränken.
 
@@ -28,27 +23,22 @@ Auf Grund des § 222 Abs. 1 des Sechsten Buches Sozialgesetzbuch - Gesetzliche R
 
 (3) Als Miete soll grundsätzlich die örtliche Vergleichsmiete vereinbart werden.
 
-
-## § 3 – Beteiligung der Aufsichtsbehörde
+# § 3 – Beteiligung der Aufsichtsbehörde
 
 Maßnahmen der Wohnungsfürsorge sind im Einvernehmen mit der zuständigen Aufsichtsbehörde vorzunehmen.
 
-
-## § 4 – Befristung
+# § 4 – Befristung
 
 Maßnahmen der Wohnungsfürsorge sind nur zulässig, wenn sie bis zum 31. Dezember 2008 eingeleitet werden. Dies gilt nicht für die Errichtung, den Umbau und die Modernisierung von funktionsbezogenen Dienstwohnungen sowie von Dienstwohnungen für Klinikpersonal in Rehabilitationseinrichtungen.
 
-
-## § 5 – Übergangsregelung
+# § 5 – Übergangsregelung
 
 Wohnungsfürsorgemaßnahmen, die bis zum 25. April 2005 eingeleitet worden sind, bleiben mit Ausnahme der Regelung in § 2 Abs. 3 unberührt.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

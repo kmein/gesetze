@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2019-08-07] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Bundesrat“)
-
-Ausfertigungsdatum: 07.08.2019
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Bundesrat“)
+% Ausfertigungsdatum: 07.08.2019
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „Bundesrat“ im Rahmen einer Serie „Bundesländer“ prägen zu lassen.
 
@@ -18,12 +15,10 @@ Die für den Umlauf bestimmte Auflage der Münze beträgt 30 Millionen Stück.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von dem Künstler Michael Otto aus Rodenbach.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2019, 1379)

@@ -1,15 +1,11 @@
-# [PodAPrV] Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen  (PodAPrV)
-
-Ausfertigungsdatum: 18.12.2001
-
+% Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen  (PodAPrV)
+% Ausfertigungsdatum: 18.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 des Podologengesetzes vom 4. Dezember 2001 (BGBl. I S. 3320) verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Ausbildung
+# § 1 – Ausbildung
 
 (1) Die Ausbildung für Podologinnen und Podologen umfasst mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2000 Stunden und die aufgeführte praktische Ausbildung von 1000 Stunden.
 
@@ -17,8 +13,7 @@ Auf Grund des § 7 des Podologengesetzes vom 4. Dezember 2001 (BGBl. I S. 3320) 
 
 (3) Die regelmäßige und erfolgreiche Teilnahme an den Ausbildungsveranstaltungen nach Absatz 1 ist durch eine Bescheinigung nach dem Muster der Anlage 2 nachzuweisen.
 
-
-## § 2 – Staatliche Prüfung, staatliche Ergänzungsprüfung
+# § 2 – Staatliche Prüfung, staatliche Ergänzungsprüfung
 
 (1) Die staatliche Prüfung für die Ausbildung nach § 4 des Podologengesetzes umfasst einen schriftlichen, einen mündlichen und einen praktischen Teil.
 
@@ -26,8 +21,7 @@ Auf Grund des § 7 des Podologengesetzes vom 4. Dezember 2001 (BGBl. I S. 3320) 
 
 (3) Die staatliche Ergänzungsprüfung nach § 10 Abs. 4 oder 5 des Podologengesetzes umfasst den mündlichen und praktischen Teil der staatlichen Prüfung nach Absatz 1. Sie findet an einer von der zuständigen Behörde für die Durchführung von Ergänzungsprüfungen bestimmten Schule statt. Für die staatliche Prüfung nach § 10 Abs. 6 des Gesetzes gilt Satz 2 entsprechend.
 
-
-## § 3 – Prüfungsausschuss
+# § 3 – Prüfungsausschuss
 
 (1) Bei jeder Schule wird ein Prüfungsausschuss gebildet, der mindestens aus folgenden Mitgliedern besteht:
 
@@ -51,8 +45,7 @@ Als Fachprüferinnen oder Fachprüfer sollen die Lehrkräfte bestellt werden, di
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 4 – Zulassung zur staatlichen Prüfung, Zulassung zur staatlichen Ergänzungsprüfung
+# § 4 – Zulassung zur staatlichen Prüfung, Zulassung zur staatlichen Ergänzungsprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleitung fest. Der Prüfungsbeginn soll nicht früher als zwei Monate vor dem Ende der Ausbildung liegen.
 
@@ -68,8 +61,7 @@ Als Fachprüferinnen oder Fachprüfer sollen die Lehrkräfte bestellt werden, di
 
 (5) Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 5 – Schriftlicher Teil der Prüfung
+# § 5 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -83,8 +75,7 @@ Der Prüfling hat in den drei Fächergruppen in jeweils einer Aufsichtsarbeit sc
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüferinnen oder Fachprüfern zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Note für die einzelne Aufsichtsarbeit sowie aus den Noten der drei Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
-
-## § 6 – Mündlicher Teil der Prüfung
+# § 6 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf die folgenden Fächer:
 
@@ -102,8 +93,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Die Prüfun
 
 (3) Die oder der Vorsitzende des Prüfungsausschusses kann mit Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
-
-## § 7 – Praktischer Teil der Prüfung
+# § 7 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die folgenden Fächer:
 
@@ -115,13 +105,11 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Die Prüfun
 
 (3) Der praktische Teil der Prüfung wird in jedem Fach von mindestens zwei Fachprüferinnen oder Fachprüfern, darunter mindestens einer Fachprüferin oder einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b, abgenommen und benotet. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fach mit mindestens "ausreichend" benotet wird.
 
-
-## § 8 – Niederschrift
+# § 8 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 9 – Benotung
+# § 9 – Benotung
 
 Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und praktischen Prüfung werden wie folgt benotet:
 
@@ -143,8 +131,7 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 \-  
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 10 – Bestehen und Wiederholung der staatlichen Prüfung, Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
+# § 10 – Bestehen und Wiederholung der staatlichen Prüfung, Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
 
 (1) Die staatliche Prüfung nach § 2 Abs. 1 und Abs. 3 Satz 3 ist bestanden, wenn jeder der darin vorgeschriebenen Prüfungsteile bestanden ist.
 
@@ -156,37 +143,31 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 (5) Hat der Prüfling ein Fach der praktischen Prüfung oder die gesamte praktische Prüfung zu wiederholen, so darf er zur Prüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt von der oder dem Vorsitzenden des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern bestimmt wurden. Dem Antrag des Prüflings auf Zulassung zur Wiederholungsprüfung ist ein Nachweis über die Teilnahme an der weiteren Ausbildung beizufügen. Die Wiederholungsprüfung soll spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein.
 
-
-## § 11 – Rücktritt von der Prüfung
+# § 11 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder einem Teil der Prüfung zurück, so hat er die Gründe für seinen Rücktritt unverzüglich der oder dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt die oder der Vorsitzende des Prüfungsausschusses den Rücktritt, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht unternommen. Die Genehmigung ist zu erteilen, wenn wichtige Gründe vorliegen. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterlässt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht bestanden. § 10 Abs. 4 gilt entsprechend.
 
-
-## § 12 – Versäumnisfolgen
+# § 12 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, so gilt die Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 10 Abs. 4 gilt entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft die oder der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
-## § 13 – Ordnungsverstöße und Täuschungsversuche
+# § 13 – Ordnungsverstöße und Täuschungsversuche
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuchs schuldig gemacht haben, den betreffenden Teil der Prüfung für "nicht bestanden" erklären; § 10 Abs. 4 gilt entsprechend. Eine solche Entscheidung ist im Falle der Störung der Prüfung nur bis zum Abschluss der gesamten Prüfung, im Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluss der Prüfung zulässig.
 
-
-## § 14 – Prüfungsunterlagen
+# § 14 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfling nach Abschluss der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 15 – Erlaubnisurkunde
+# § 15 – Erlaubnisurkunde
 
 Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1 des Gesetzes vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
-
-## § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+# § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragstellerinnen oder Antragsteller, die eine Erlaubnis nach § 1 des Podologengesetzes beantragen, können zum Nachweis, dass die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem des Podologen entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -200,8 +181,7 @@ Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes für die E
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Podologengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 2 Absatz 3 Satz 7 des Podologengesetzes erworben haben.
 
@@ -211,8 +191,7 @@ Liegen die Voraussetzungen nach § 2 oder § 10 des Podologengesetzes für die E
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 7a Absatz 3 Satz 6 des Podologengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 13 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Podologengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 2 Satz 5 des Podologengesetzes vorliegenden Umstände nicht durchgeführt wird.
 
@@ -238,8 +217,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 7 erteilt.
 
-
-## § 16c – Fristen, Bescheide, Durchführungsbestimmungen
+# § 16c – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis nach § 1 Absatz 1 Satz 1 des Podologengesetzes in Verbindung mit § 2 Absatz 2, 3, 3a oder Absatz 4 des Podologengesetzes kurzfristig, spätestens vier Monate, nach Vorlage der für Entscheidungen nach § 2 des Podologengesetzes erforderlichen Unterlagen zu entscheiden. Im Falle des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -255,18 +233,15 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (3) Die Prüfungen nach § 16a Absatz 3 und § 16b Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in den §§ 16a und 16b nichts anderes bestimmt ist, gelten die §§ 8, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 16 - 22
 
@@ -1816,8 +1791,7 @@ Stunden insgesamt
 
 Davon sind mindestens 280 Stunden in einem unter ärztlicher Anleitung stehenden Praktikum in internistischen, in dermatologischen und in orthopädischen Kliniken oder entsprechenden Ambulanzen abzuleisten. Dabei sollen die Schülerinnen und Schüler mit den im Unterricht vermittelten Krankheitsbildern anschaulich bekannt gemacht und gleichzeitig die Verbindung zu den in der podologischen Behandlung zu berücksichtigenden Aspekten hergestellt werden.
 
-
-## Anlage 2 – (zu § 1 Abs. 3)
+# Anlage 2 – (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 23)
 
@@ -1853,8 +1827,7 @@ Davon sind mindestens 280 Stunden in einem unter ärztlicher Anleitung stehenden
     -----
     *) Nichtzutreffendes streichen. 
 
-
-## Anlage 3 – (zu § 10 Abs. 2 S 1)
+# Anlage 3 – (zu § 10 Abs. 2 S 1)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 24)
 
@@ -1893,8 +1866,7 @@ Davon sind mindestens 280 Stunden in einem unter ärztlicher Anleitung stehenden
     (Unterschrift der/des Vorsitzenden
     des Prüfungsausschusses) 
 
-
-## Anlage 4 – (zu § 10 Abs. 3 Satz 2)
+# Anlage 4 – (zu § 10 Abs. 3 Satz 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 25)
 
@@ -1935,8 +1907,7 @@ Davon sind mindestens 280 Stunden in einem unter ärztlicher Anleitung stehenden
     -----
     *) Nichtzutreffendes streichen. 
 
-
-## Anlage 5 – (zu § 15)
+# Anlage 5 – (zu § 15)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 26)
 
@@ -1965,13 +1936,11 @@ Davon sind mindestens 280 Stunden in einem unter ärztlicher Anleitung stehenden
     ................................
     (Unterschrift) 
 
-
-## Anlage 5a – (zu § 16a Absatz 2)
+# Anlage 5a – (zu § 16a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 938)
 
-........................................................................................................  
-
+........................................................................................................ 
 (Bezeichnung der Einrichtung)
 
 Bescheinigung  
@@ -1985,19 +1954,16 @@ Geburtsdatum        Geburtsort
 
 ..............................................................................................................................................
 
-hat in der Zeit vom ................................................................................bis .................................................................................  
-regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+hat in der Zeit vom ................................................................................bis ................................................................................. regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
 
 Ort, Datum
 
 .........................................................................................................  (Stempel)
 
-..........................................................................................................  
-
+.......................................................................................................... 
 Unterschrift(en) der Einrichtung
 
-
-## Anlage 5b – (zu § 16a Absatz 2)
+# Anlage 5b – (zu § 16a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 939)
 
@@ -2033,12 +1999,9 @@ Ort, Datum
 
 .......................................................................................................................................... (Siegel)
 
-...........................................................................................................................................  
-
+........................................................................................................................................... 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
+# Anlage 6 – (zu § 16b Absatz 2)
 
-## Anlage 6 – (zu § 16b Absatz 2)
-
-
-## Anlage 7 – (zu § 16b Absatz 7)
+# Anlage 7 – (zu § 16b Absatz 7)

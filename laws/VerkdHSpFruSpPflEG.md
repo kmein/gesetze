@@ -1,18 +1,13 @@
-# [VerkdHSpFruSpPflEG] Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
-
-Ausfertigungsdatum: 10.12.2015
-
+% Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
+% Ausfertigungsdatum: 10.12.2015
  
+# Art 1 bis 5 – Änderungsvorschriften
 
-## Art 1 bis 5 – Änderungsvorschriften
-
-
-## Art 6 – Einschränkung von Grundrechten
+# Art 6 – Einschränkung von Grundrechten
 
 Durch die Artikel 1 und 2 dieses Gesetzes wird das Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) eingeschränkt.
 
-
-## Art 7 – Evaluierung
+# Art 7 – Evaluierung
 
 (1) Die Anwendung der durch dieses Gesetz geschaffenen und geänderten Vorschriften der Strafprozessordnung und des Telekommunikationsgesetzes sind von der Bundesregierung zu evaluieren. Der Evaluationszeitraum beginnt am 1. Juli 2017 und beträgt sechsunddreißig Monate. Über das Ergebnis der Evaluierung ist dem Deutschen Bundestag Bericht zu erstatten.
 
@@ -28,7 +23,6 @@ Durch die Artikel 1 und 2 dieses Gesetzes wird das Fernmeldegeheimnis (Artikel 1
 
 Der Evaluierungsbericht soll auch möglichen Handlungsbedarf für eine wirksamere Strafverfolgung und Gefahrenabwehr benennen. Hierbei ist die Fortentwicklung der Kommunikationstechnik zu berücksichtigen.
 
-
-## Art 8 – Inkrafttreten
+# Art 8 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

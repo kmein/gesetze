@@ -1,10 +1,7 @@
-# [EVZStiftG] Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung und Zukunft"
-
-Ausfertigungsdatum: 02.08.2000
-
+% Gesetz zur Errichtung einer Stiftung "Erinnerung, Verantwortung und Zukunft"
+% Ausfertigungsdatum: 02.08.2000
  
-
-## Präambel
+# Präambel
 
 In Anerkennung, dass  
 der nationalsozialistische Staat Sklaven- und Zwangsarbeitern durch Deportation, Inhaftierung, Ausbeutung bis hin zur Vernichtung durch Arbeit und durch eine Vielzahl weiterer Menschenrechtsverletzungen schweres Unrecht zugefügt hat,  
@@ -12,25 +9,21 @@ deutsche Unternehmen, die an dem nationalsozialistischen Unrecht beteiligt waren
 die in der Stiftungsinitiative der deutschen Wirtschaft zusammengeschlossenen Unternehmen sich zu dieser Verantwortung bekannt haben,  
 das begangene Unrecht und das damit zugefügte menschliche Leid auch durch finanzielle Leistungen nicht wiedergutgemacht werden können,  
 das Gesetz für diejenigen, die als Opfer des nationalsozialistischen Regimes ihr Leben verloren haben oder inzwischen verstorben sind, zu spät kommt,  
-bekennt sich der Deutsche Bundestag zur politischen und moralischen Verantwortung für die Opfer des Nationalsozialismus. Er will die Erinnerung an das ihnen zugefügte Unrecht auch für kommende Generationen wach halten.  
-Der Deutsche Bundestag geht davon aus, dass durch dieses Gesetz, das deutsch-amerikanische Regierungsabkommen sowie die Begleiterklärungen der US-Regierung und die gemeinsame Erklärung aller an den Verhandlungen beteiligter Parteien ein ausreichendes Maß an Rechtssicherheit deutscher Unternehmen und der Bundesrepublik Deutschland insbesondere in den Vereinigten Staaten von Amerika bewirkt wird. Er hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
+bekennt sich der Deutsche Bundestag zur politischen und moralischen Verantwortung für die Opfer des Nationalsozialismus. Er will die Erinnerung an das ihnen zugefügte Unrecht auch für kommende Generationen wach halten. Der Deutsche Bundestag geht davon aus, dass durch dieses Gesetz, das deutsch-amerikanische Regierungsabkommen sowie die Begleiterklärungen der US-Regierung und die gemeinsame Erklärung aller an den Verhandlungen beteiligter Parteien ein ausreichendes Maß an Rechtssicherheit deutscher Unternehmen und der Bundesrepublik Deutschland insbesondere in den Vereinigten Staaten von Amerika bewirkt wird. Er hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Errichtung und Sitz
+# § 1 – Errichtung und Sitz
 
 (1) Unter dem Namen "Erinnerung, Verantwortung und Zukunft" wird eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 (2) Der Sitz der Stiftung ist Berlin.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist es, über Partnerorganisationen Finanzmittel zur Gewährung von Leistungen an ehemalige Zwangsarbeiter und von anderem Unrecht aus der Zeit des Nationalsozialismus Betroffene bereitzustellen.
 
 (2) Innerhalb der Stiftung wird ein Fonds "Erinnerung und Zukunft" gebildet. Seine dauerhafte Aufgabe besteht darin, vor allem mit den Erträgen aus den ihm zugewiesenen Stiftungsmitteln Projekte zu fördern, die der Völkerverständigung, den Interessen von Überlebenden des nationalsozialistischen Regimes, dem Jugendaustausch, der sozialen Gerechtigkeit, der Erinnerung an die Bedrohung durch totalitäre Systeme und Gewaltherrschaft und der internationalen Zusammenarbeit auf humanitärem Gebiet dienen. Im Gedenken an und zu Ehren derjenigen Opfer nationalsozialistischen Unrechts, die nicht überlebt haben, soll er auch Projekte im Interesse ihrer Erben fördern.
 
-
-## § 3 – Stifter und Stiftungsvermögen
+# § 3 – Stifter und Stiftungsvermögen
 
 (1) Stifter sind die in der Stiftungsinitiative der deutschen Wirtschaft zusammengeschlossenen Unternehmen und der Bund.
 
@@ -46,8 +39,7 @@ Der Deutsche Bundestag geht davon aus, dass durch dieses Gesetz, das deutsch-ame
 
 (5) Erträge des Stiftungsvermögens und sonstige Einnahmen sind nur im Sinne des Stiftungszwecks zu verwenden.
 
-
-## § 4 – Organe der Stiftung
+# § 4 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -55,8 +47,7 @@ Organe der Stiftung sind
 
 2. der Stiftungsvorstand.
 
-
-## § 5 – Kuratorium
+# § 5 – Kuratorium
 
 (1) Das Kuratorium besteht aus 27 Mitgliedern. Dies sind
 
@@ -112,8 +103,7 @@ Die entsendende Stelle kann für jedes Kuratoriumsmitglied einen Vertreter besti
 
 (8) Die Mitglieder des Kuratoriums sind ehrenamtlich tätig; notwendige Auslagen werden erstattet.
 
-
-## § 6 – Stiftungsvorstand
+# § 6 – Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus dem Vorsitzenden und einem weiteren Mitglied. Mitglieder des Kuratoriums dürfen nicht zugleich dem Vorstand angehören.
 
@@ -125,13 +115,11 @@ Die entsendende Stelle kann für jedes Kuratoriumsmitglied einen Vertreter besti
 
 (5) Das Nähere regelt die Satzung.
 
-
-## § 7 – Satzung
+# § 7 – Satzung
 
 Das Kuratorium beschließt mit einer Mehrheit von zwei Dritteln eine Satzung. Kommt innerhalb von drei Monaten nach der konstituierenden Sitzung des Kuratoriums eine Satzung nicht zustande, schlägt der Vorsitzende eine Satzung vor, die mit einfacher Mehrheit angenommen wird. Das Kuratorium kann die Satzung mit einer Mehrheit von zwei Dritteln ändern.
 
-
-## § 8 – Aufsicht, Haushalt, Rechnungsprüfung
+# § 8 – Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums der Finanzen.
 
@@ -139,8 +127,7 @@ Das Kuratorium beschließt mit einer Mehrheit von zwei Dritteln eine Satzung. Ko
 
 (3) Die Stiftung unterliegt der Prüfung durch den Bundesrechnungshof. Unbeschadet dessen sind die Rechnung und die Haushalts- und Wirtschaftsführung der Stiftung durch das Bundesamt für zentrale Dienste und offene Vermögensfragen zu prüfen.
 
-
-## § 9 – Verwendung der Stiftungsmittel
+# § 9 – Verwendung der Stiftungsmittel
 
 (1) Dem Stiftungszweck gemäß § 2 Abs. 1 dienende Mittel der Stiftung werden Partnerorganisationen zugewiesen. Sie dienen der Gewährung von Einmalleistungen an die nach § 11 Leistungsberechtigten sowie zur Deckung der bei den Partnerorganisationen entstehenden Personal- und Sachkosten. Leistungsberechtigte nach § 11 Abs. 1 Satz 1 Nr. 1 oder Satz 5 können bis zu 15.000 Deutsche Mark, Leistungsberechtigte nach § 11 Abs. 1 Satz 1 Nr. 2 oder Satz 2 bis zu 5.000 Deutsche Mark erhalten. Eine Leistung nach § 11 Abs. 1 Satz 1 Nr. 1 oder 2 schließt eine Leistung nach § 11 Abs. 1 Satz 1 Nr. 3 oder Satz 4 oder 5 nicht aus.
 
@@ -194,15 +181,13 @@ Die Partnerorganisationen müssen mit diesen Mitteln die vorgesehenen Leistungen
 
 (13) Für anhängige Rechtsstreitigkeiten, die in diesem Gesetz geregelte Tatbestände betreffen, werden Gerichtskosten nicht erhoben.
 
-
-## § 10 – Mittelvergabe durch Partnerorganisationen
+# § 10 – Mittelvergabe durch Partnerorganisationen
 
 (1) Die Gewährung und die Auszahlung der Einmalleistungen an die nach § 11 Leistungsberechtigten erfolgen durch Partnerorganisationen. Die Stiftung ist insoweit weder berechtigt noch verpflichtet. Das Kuratorium kann eine andere Art der Auszahlung beschließen. Die Partnerorganisationen sollen mit geeigneten Verfolgtenverbänden und örtlichen Organisationen zusammenarbeiten.
 
 (2) Die Stiftung und ihre Partnerorganisationen sorgen innerhalb von zwei Monaten nach Inkrafttreten des Gesetzes für eine angemessene Bekanntmachung der nach diesem Gesetz möglichen Leistungen für alle in Betracht kommenden Gruppen von Leistungsberechtigten in den jeweiligen Wohnsitzländern. Diese beinhaltet insbesondere Informationen über die Stiftung und ihre Partnerorganisationen, die Leistungsvoraussetzungen und Anmeldefristen.
 
-
-## § 11 – Leistungsberechtigte
+# § 11 – Leistungsberechtigte
 
 (1) Leistungsberechtigt nach diesem Gesetz ist, wer
 
@@ -212,8 +197,7 @@ Die Partnerorganisationen müssen mit diesen Mitteln die vorgesehenen Leistungen
 
 3. im Zuge rassischer Verfolgung unter wesentlicher, direkter und schadensursächlicher Beteiligung deutscher Unternehmen Vermögensschäden im Sinne der Wiedergutmachungsgesetze erlitten hat und hierfür keine Leistungen erhalten konnte, weil er entweder die Wohnsitzvoraussetzungen des Bundesentschädigungsgesetzes nicht erfüllte oder auf Grund seines Wohnsitzes oder dauernden Aufenthalts in einem Gebiet, mit dessen Regierung die Bundesrepublik Deutschland keine diplomatischen Beziehungen unterhielt, nicht imstande war, fristgerecht Herausgabe- oder Wiedergutmachungsansprüche geltend zu machen, oder weil er die Verbringung einer außerhalb des Deutschen Reichs in den Grenzen von 1937 verfolgungsbedingt entzogenen, dort nicht mehr auffindbaren Sache in die Bundesrepublik Deutschland nicht nachweisen konnte oder Nachweise über die Begründetheit von Ansprüchen nach dem Bundesrückerstattungsgesetz und dem Bundesentschädigungsgesetz erst auf Grund der deutschen Wiedervereinigung bekannt und verfügbar wurden und die Geltendmachung der Ansprüche nach dem Gesetz zur Regelung offener Vermögensfragen oder nach dem NS-Verfolgtenentschädigungsgesetz ausgeschlossen war oder soweit Rückerstattungsleistungen für außerhalb des Reichsgebietes entzogene Geldforderungen mangels Feststellbarkeit abgelehnt worden sind und hierfür Leistungen weder nach den Gesetzen zur Neuordnung des Geldwesens, dem Bundesentschädigungsgesetz, dem Lastenausgleichsgesetz oder dem Reparationsschädengesetz beantragt werden konnten; das gilt auch für andere Verfolgte im Sinne des Bundesentschädigungsgesetzes; Sonderregelungen im Rahmen der International Commission on Holocaust Era Insurance Claims bleiben unberührt.
 
-Die Partnerorganisationen können im Rahmen der ihnen nach § 9 Abs. 2 zugewiesenen Mittel Leistungen auch solchen Opfern nationalsozialistischer Unrechtsmaßnahmen, insbesondere Zwangsarbeitern im landwirtschaftlichen Bereich, gewähren, die nicht zu einer der in Satz 1 Nr. 1 und 2 genannten Fallgruppen gehören. Diese Leistungen dürfen vorbehaltlich § 9 Abs. 8 nicht zu einer Minderung der für Leistungsberechtigte nach Absatz 1 Satz 1 Nr. 1 vorgesehenen Beträge führen. Die in § 9 Abs. 4 Satz 2 Nr. 2 vorgesehenen Mittel sind zum Ausgleich von Vermögensschäden bestimmt, die im Rahmen von nationalsozialistischen Unrechtshandlungen unter wesentlicher, direkter und schadensursächlicher Beteiligung deutscher Unternehmen verursacht wurden und nicht aus Gründen nationalsozialistischer Verfolgung zugefügt worden sind.  
-Die in § 9 Abs. 3 genannten Mittel sollen in Fällen medizinischer Versuche oder bei Tod oder bei schweren Gesundheitsschäden eines in einem Zwangsarbeiterkinderheim untergebrachten Kindes gewährt werden; sie können in Fällen sonstiger Personenschäden gewährt werden.
+Die Partnerorganisationen können im Rahmen der ihnen nach § 9 Abs. 2 zugewiesenen Mittel Leistungen auch solchen Opfern nationalsozialistischer Unrechtsmaßnahmen, insbesondere Zwangsarbeitern im landwirtschaftlichen Bereich, gewähren, die nicht zu einer der in Satz 1 Nr. 1 und 2 genannten Fallgruppen gehören. Diese Leistungen dürfen vorbehaltlich § 9 Abs. 8 nicht zu einer Minderung der für Leistungsberechtigte nach Absatz 1 Satz 1 Nr. 1 vorgesehenen Beträge führen. Die in § 9 Abs. 4 Satz 2 Nr. 2 vorgesehenen Mittel sind zum Ausgleich von Vermögensschäden bestimmt, die im Rahmen von nationalsozialistischen Unrechtshandlungen unter wesentlicher, direkter und schadensursächlicher Beteiligung deutscher Unternehmen verursacht wurden und nicht aus Gründen nationalsozialistischer Verfolgung zugefügt worden sind. Die in § 9 Abs. 3 genannten Mittel sollen in Fällen medizinischer Versuche oder bei Tod oder bei schweren Gesundheitsschäden eines in einem Zwangsarbeiterkinderheim untergebrachten Kindes gewährt werden; sie können in Fällen sonstiger Personenschäden gewährt werden.
 
 (2) Die Leistungsberechtigung ist vom Antragsteller durch Unterlagen nachzuweisen. Die Partnerorganisation hat entsprechende Beweismittel hinzuzuziehen. Liegen solche Beweismittel nicht vor, kann die Leistungsberechtigung auf andere Weise glaubhaft gemacht werden.
 
@@ -221,22 +205,19 @@ Die in § 9 Abs. 3 genannten Mittel sollen in Fällen medizinischer Versuche ode
 
 (4) Leistungen der Stiftung sind von der Erbschaft- und Schenkungsteuer befreit.
 
-
-## § 12 – Begriffsbestimmungen
+# § 12 – Begriffsbestimmungen
 
 (1) Kennzeichen für andere Haftstätten im Sinne von § 11 Abs. 1 Nr. 1 sind unmenschliche Haftbedingungen, unzureichende Ernährung und fehlende medizinische Versorgung.
 
 (2) Deutsche Unternehmen im Sinne der §§ 11 und 16 sind alle Unternehmen, die ihren Sitz im Gebiet des Deutschen Reichs in den Grenzen von 1937 hatten oder in der Bundesrepublik Deutschland haben, sowie deren Muttergesellschaften, auch wenn diese ihren Sitz im Ausland hatten oder haben. Deutsche Unternehmen sind ferner außerhalb der Grenzen des Deutschen Reichs von 1937 gelegene Unternehmen, an denen in der Zeit zwischen dem 30. Januar 1933 und dem Inkrafttreten dieses Gesetzes deutsche Unternehmen nach Satz 1 unmittelbar oder mittelbar mit mindestens 25 vom Hundert beteiligt waren.
 
-
-## § 13 – Antragsrecht
+# § 13 – Antragsrecht
 
 (1) Leistungen nach § 11 Abs. 1 Satz 1 Nr. 1 oder 2 oder Satz 2 oder 5 sind höchstpersönlich und als solche zu beantragen. Ist der Leistungsberechtigte nach dem 15. Februar 1999 verstorben oder werden Leistungen nach § 11 Abs. 1 Nr. 3 oder Satz 4 beantragt, sind der überlebende Ehegatte und die noch lebenden Kinder zu gleichen Teilen leistungsberechtigt. Leistungen können, wenn der Berechtigte weder Ehegatten noch Kinder hinterlassen hat, zu gleichen Teilen auch von den Enkeln oder, falls auch solche nicht mehr leben, von den Geschwistern beantragt werden. Wird auch von diesen Personen kein Antrag gestellt, sind die in einem Testament eingesetzten Erben antragsberechtigt. Sonderregelungen im Rahmen der International Commission on Holocaust Era Insurance Claims bleiben unberührt. Das Leistungsrecht kann nicht abgetreten oder gepfändet werden.
 
 (2) Juristische Personen sind nicht leistungsberechtigt. Sie können als Vertreter ihrer nach diesem Gesetz berechtigten Anteilseigner Anträge stellen, soweit sie von diesem jeweils bevollmächtigt werden. Ist eine religiöse Gemeinde oder Organisation unter wesentlicher, direkter und schadensursächlicher Beteiligung deutscher Unternehmen in ihrem Vermögen geschädigt worden, gilt für sie oder ihren Rechtsnachfolger Satz 1 nicht.
 
-
-## § 14 – Antrags- und Ausschlussfristen
+# § 14 – Antrags- und Ausschlussfristen
 
 (1) Eine Leistungsberechtigung nach Maßgabe von § 11 kann nicht mehr festgestellt werden, wenn bei Ablauf des 31. Dezember 2001 kein Antrag bei einer Partnerorganisation eingegangen ist. Dies gilt auch, wenn bei Abschluss der Bearbeitung im Sinne des § 9 Abs. 9 Satz 2 bei der jeweiligen Partnerorganisation die für die Entscheidung über den Antrag erforderlichen Antragsformulare, Unterlagen und Beweismittel nicht eingegangen sind.
 
@@ -246,15 +227,13 @@ Die in § 9 Abs. 3 genannten Mittel sollen in Fällen medizinischer Versuche ode
 
 (4) Die Leistungsberechtigungen nach § 11 erlöschen mit Ablauf des 30. September 2006. Hat die Partnerorganisation die nicht fristgerechte Erfüllung zu vertreten, können Leistungen trotz des Erlöschens der Berechtigung nach Satz 1 noch bis zum 31. Dezember 2006 gewährt werden. Die Partnerorganisationen sind verpflichtet, das Ende der Leistungsberechtigung nach Satz 1 erstmalig spätestens zwölf Monate sowie wiederholt spätestens sechs Monate vor Fristablauf in geeigneter Weise bekannt zu machen.
 
-
-## § 15 – Berücksichtigung anderer Leistungen
+# § 15 – Berücksichtigung anderer Leistungen
 
 (1) Die Leistungen sollen den Leistungsberechtigten für erlittenes nationalsozialistisches Unrecht zugute kommen und dürfen nicht zur Minderung von Einkünften aus der Sozialfürsorge und dem Gesundheitswesen führen.
 
 (2) Frühere Leistungen von Unternehmen zum Ausgleich von Zwangsarbeit und anderem nationalsozialistischen Unrecht, auch wenn sie über Dritte gewährt wurden, werden auf Leistungen nach § 9 Abs. 1 angerechnet. Sonderregelungen im Rahmen der International Comission on Holocaust Era Insurance Claims bleiben unberührt.
 
-
-## § 16 – Ausschluss von Ansprüchen
+# § 16 – Ausschluss von Ansprüchen
 
 (1) Leistungen aus Mitteln der öffentlichen Hand einschließlich der Sozialversicherung sowie deutscher Unternehmen für erlittenes nationalsozialistisches Unrecht im Sinne von § 11 können nur nach diesem Gesetz beantragt werden. Etwaige weitergehende Ansprüche im Zusammenhang mit nationalsozialistischem Unrecht sind ausgeschlossen. Das gilt auch, soweit etwaige Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf einen Dritten übertragen worden sind.
 
@@ -262,15 +241,13 @@ Die in § 9 Abs. 3 genannten Mittel sollen in Fällen medizinischer Versuche ode
 
 (3) Weitergehende Wiedergutmachungs- und Kriegsfolgenregelungen gegen die öffentliche Hand bleiben hiervon unberührt.
 
-
-## § 17 – Bereitstellung der Mittel
+# § 17 – Bereitstellung der Mittel
 
 (1) Die Stiftung stellt den Partnerorganisationen die Mittel nach Maßgabe des § 9 Abs. 2 und 3 vierteljährlich entsprechend des nachgewiesenen Bedarfs zur Verfügung. Ihre Verwendung wird von der Stiftung in angemessener Weise überprüft.
 
 (2) Die erstmalige Bereitstellung der Stiftungsmittel setzt das Inkrafttreten des deutsch-amerikanischen Regierungsabkommens betreffend die Stiftung "Erinnerung, Verantwortung und Zukunft" sowie die Herstellung ausreichender Rechtssicherheit für deutsche Unternehmen voraus. Das Vorliegen dieser Voraussetzungen stellt der Deutsche Bundestag fest.
 
-
-## § 18 – Auskunftsersuchen
+# § 18 – Auskunftsersuchen
 
 (1) Die Stiftung und ihre Partnerorganisationen sind berechtigt, von Behörden und anderen öffentlichen Einrichtungen Auskünfte einzuholen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Eine Auskunftserteilung unterbleibt, soweit besondere gesetzliche Verwendungsregelungen entgegenstehen oder die schutzwürdigen Interessen des Betroffenen das Allgemeininteresse an der Auskunftserteilung überwiegen.
 
@@ -278,12 +255,10 @@ Die in § 9 Abs. 3 genannten Mittel sollen in Fällen medizinischer Versuche ode
 
 (3) Antragsteller nach diesem Gesetz können von Unternehmen in Deutschland, bei denen oder deren Rechtsvorgängern sie Zwangsarbeit geleistet haben, Auskunft verlangen, soweit dies zur Feststellung ihrer Leistungsberechtigung erforderlich ist.
 
-
-## § 19 – Beschwerdeverfahren
+# § 19 – Beschwerdeverfahren
 
 Bei den Partnerorganisationen sind unabhängige und keinen Weisungen unterworfene Beschwerdestellen einzurichten. Das Verfahren vor den Beschwerdestellen ist kostenfrei. Kosten des Antragstellers werden nicht erstattet.
 
-
-## § 20 – Inkrafttreten
+# § 20 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [UBAG] Gesetz über die Errichtung eines Umweltbundesamtes
-
-Ausfertigungsdatum: 22.07.1974
-
+% Gesetz über die Errichtung eines Umweltbundesamtes
+% Ausfertigungsdatum: 22.07.1974
  
-
-## § 1
+# § 1
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit ist eine selbständige Bundesoberbehörde unter der Bezeichnung "Umweltbundesamt" errichtet.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 22.07.1974
 
 (2a) (weggefallen)
 
-
-## § 2
+# § 2
 
 (1) Das Umweltbundesamt erledigt in eigener Zuständigkeit Verwaltungsaufgaben auf dem Gebiet der Umwelt und der gesundheitlichen Belange des Umweltschutzes, die ihm durch dieses Gesetz oder andere Bundesgesetze zugewiesen werden. Das Umweltbundesamt hat insbesondere folgende Aufgaben:
 
@@ -27,17 +23,14 @@ Ausfertigungsdatum: 22.07.1974
 
 (4) Das Umweltbundesamt erledigt als beauftragte Behörde, soweit keine andere Zuständigkeit gesetzlich festgelegt ist, Verwaltungsaufgaben des Bundes auf den in Absatz 1 genannten Gebieten, mit deren Durchführung es vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit oder mit seiner Zustimmung von der sachlich zuständigen obersten Bundesbehörde beauftragt wird.
 
-
-## § 3
+# § 3
 
 Soweit im Umweltbundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit erledigt werden, steht das fachliche Weisungsrecht der sachlich zuständigen obersten Bundesbehörde zu.
 
-
-## § 4 – (weggefallen)
+# § 4 – (weggefallen)
 
 \-
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-

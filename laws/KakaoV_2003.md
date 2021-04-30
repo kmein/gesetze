@@ -1,20 +1,15 @@
-# [KakaoV 2003] Verordnung über Kakao- und Schokoladenerzeugnisse  (Kakaoverordnung)
-
-Ausfertigungsdatum: 15.12.2003
-
+% Verordnung über Kakao- und Schokoladenerzeugnisse  (Kakaoverordnung)
+% Ausfertigungsdatum: 15.12.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft verordnet auf Grund des § 19 Abs. 1 Nr. 1 und 2 Buchstabe b, Nr. 3 und 4 Buchstabe a, b und c des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), der durch Artikel 34 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die in Anlage 1 aufgeführten Kakao- und Schokoladenerzeugnisse unterliegen dieser Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
 
-
-## § 2 – Zutaten
+# § 2 – Zutaten
 
 (1) Bei der Herstellung von Erzeugnissen nach Anlage 1 Nr. 3 bis 6, 8 und 9 dürfen zusätzlich zu den dort angegebenen Zutaten unbeschadet der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) und der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34) in der jeweils geltenden Fassung verwendet werden
 
@@ -34,8 +29,7 @@ Im Falle des Satzes 1 Nr. 1 darf der Anteil der dort genannten pflanzlichen Fett
 
 (6) (weggefallen)
 
-
-## § 3 – Kennzeichnung
+# § 3 – Kennzeichnung
 
 (1) Für Erzeugnisse nach Anlage 1 sind die dort aufgeführten Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung. Sie sind diesen Erzeugnissen vorbehalten.
 
@@ -65,8 +59,7 @@ dürfen die Bezeichnungen der Lebensmittel "Schokolade", "Milchschokolade" und "
 
 (6) Die Bezeichnungen der Lebensmittel nach Anlage 1 dürfen ergänzend zur Bezeichnung anderer Lebensmittel verwendet werden, sofern diese nicht mit den in Anlage 1 aufgeführten Erzeugnissen verwechselt werden können.
 
-
-## § 4 – Verkehrsverbote
+# § 4 – Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
@@ -78,8 +71,7 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 4. Erzeugnisse im Sinne des § 3 Abs. 4, die nicht oder nicht in der vorgeschriebenen Weise mit den dort vorgesehenen Angaben versehen sind.
 
-
-## § 5 – Straftaten und Ordnungswidrigkeiten
+# § 5 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 4 Nr. 1, 2 oder 3 ein Lebensmittel gewerbsmäßig in den Verkehr bringt.
 
@@ -87,23 +79,19 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 (3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Nr. 4 ein Erzeugnis gewerbsmäßig in den Verkehr bringt.
 
-
-## § 6 – Übergangsvorschriften
+# § 6 – Übergangsvorschriften
 
 Kakao- und Schokoladenerzeugnisse dürfen bis zum 24. Juni 2004 nach den bis zum 23. Dezember 2003 geltenden Vorschriften hergestellt und gekennzeichnet sowie bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu den §§ 1, 2, 3)
+# Anlage 1 – (zu den §§ 1, 2, 3)
 
 Begriffsbestimmungen
 
@@ -240,8 +228,7 @@ aus gefüllter Schokolade gemäß Nummer 7 oder
 \-  
 aus einer einzigen Schokoladenart oder aus zusammengesetzten Schichten oder einer Mischung von Schokoladenarten gemäß den Begriffsbestimmungen der Nummern 3, 4, 5 oder 6 und anderen Lebensmitteln, sofern der Schokoladenanteil mindestens 25 Prozent des Gesamtgewichts des Erzeugnisses entspricht.
 
-
-## Anlage 2 – (zu § 2 Abs. 1 Nr. 1)
+# Anlage 2 – (zu § 2 Abs. 1 Nr. 1)
 
 Pflanzliche Fette
 

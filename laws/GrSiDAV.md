@@ -1,10 +1,7 @@
-# [GrSiDAV] Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende  (Grundsicherungs-Datenabgleichsverordnung - GrSiDAV)
-
-Ausfertigungsdatum: 27.07.2005
-
+% Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende  (Grundsicherungs-Datenabgleichsverordnung - GrSiDAV)
+% Ausfertigungsdatum: 27.07.2005
  
-
-## § 1 – Verfahren bei der Bundesagentur für Arbeit
+# § 1 – Verfahren bei der Bundesagentur für Arbeit
 
 (1) Die Bundesagentur für Arbeit bezieht in den Datenabgleich alle Personen ein, die innerhalb des dem Abgleich vorangehenden Kalendervierteljahres oder in den Fällen des § 52 Absatz 1 Satz 3 des Zweiten Buches Sozialgesetzbuch innerhalb des dem Abgleich vorangehenden Kalendermonats (Abgleichszeitraum) von einem Träger der Grundsicherung für Arbeitsuchende mit Ausnahme der zugelassenen kommunalen Träger Leistungen bezogen haben oder mit Personen, die Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezogen haben, in einer Bedarfsgemeinschaft gelebt haben (Abgleichsfälle). Abweichend von Satz 1 werden in den Abgleich nach § 2 Absatz 4 zum dritten Kalendervierteljahr alle Personen einbezogen, die innerhalb des dem Abgleich vorangegangenen Jahres Leistungen bezogen haben oder mit Personen, die Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezogen haben, in einer Bedarfsgemeinschaft gelebt haben.
 
@@ -14,13 +11,11 @@ Ausfertigungsdatum: 27.07.2005
 
 (4) (weggefallen)
 
-
-## § 1a – Verfahren bei den zugelassenen kommunalen Trägern
+# § 1a – Verfahren bei den zugelassenen kommunalen Trägern
 
 Die zugelassenen kommunalen Träger beziehen in den Datenabgleich alle Personen ein, die im Abgleichszeitraum von ihnen Leistungen der Grundsicherung für Arbeitssuchende erhalten haben oder mit Personen, die Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezogen haben, in einer Bedarfsgemeinschaft gelebt haben. § 1 Absatz 1 Satz 2 und Absatz 2 gilt entsprechend.
 
-
-## § 1b – Verfahren bei der Kopfstelle
+# § 1b – Verfahren bei der Kopfstelle
 
 (1) Die Kopfstelle
 
@@ -38,8 +33,7 @@ Kann eine Versicherungsnummer nicht ermittelt werden, erfolgt die Übermittlung 
 
 der auf den Abgleichszeitraum folgt.
 
-
-## § 2 – Verfahren bei den Auskunftsstellen und der Datenstelle der Rentenversicherung
+# § 2 – Verfahren bei den Auskunftsstellen und der Datenstelle der Rentenversicherung
 
 (1) Die Auskunftsstellen und die Datenstelle der Rentenversicherung führen den Datenabgleich nach den Absätzen 2 bis 7 durch und übermitteln die Antwortdatensätze bis zum 15. des zweiten Monats, der auf den Abgleichszeitraum folgt, an die Kopfstelle. In den Fällen des § 52 Absatz 1 Satz 3 des Zweiten Buches Sozialgesetzbuch wird ausschließlich der Abgleich nach Absatz 6 mit Ausnahme des Abgleichs mit Leistungen der Grundsicherung für Arbeitsuchende durchgeführt. Die Datenstelle der Rentenversicherung stellt in den Fällen des § 52 Absatz 1 Satz 3 des Zweiten Buches Sozialgesetzbuch der Kopfstelle die Antwortdatensätze bis zum 25. des Monats, der auf den Abgleichszeitraum folgt, bereit. Die Übermittlung der Antwortdatensätze beim Abgleich nach Absatz 4 unterbleibt in Fällen, in denen dem Bundeszentralamt für Steuern Kapitalerträge und Zinserträge von insgesamt weniger als 10 Euro übermittelt worden sind.
 
@@ -59,8 +53,7 @@ der auf den Abgleichszeitraum folgt.
 
 (7) Die Bundesagentur für Arbeit gleicht die ihr übermittelten Daten nach § 1b Abs. 1 mit den bei ihr gespeicherten Daten ab zur Feststellung der Dauer des Bezugs und der monatlichen Höhe von laufenden Leistungen und von Einmalzahlungen der Bundesagentur für Arbeit als Träger der Arbeitsförderung im Abgleichszeitraum.
 
-
-## § 3 – Anforderungen an die Datenübermittlung
+# § 3 – Anforderungen an die Datenübermittlung
 
 (1) Das für die Datenübermittlung verwendete Übermittlungsmedium und das Übermittlungsverfahren müssen dem Stand der Technik entsprechend den Datenschutz und die Datensicherheit gewährleisten, insbesondere die Vertraulichkeit, die Unversehrtheit und die Zurechenbarkeit der Daten sowie die Authentizität von Absender und Empfänger der Daten. Werden Mängel festgestellt, die eine ordnungsgemäße Übernahme der Daten beeinträchtigen, kann die Übernahme der Daten ganz oder teilweise abgelehnt werden. Der Absender ist über die festgestellten Mängel unter Beachtung der Verfahrensgrundsätze (§ 4) zu unterrichten. Er kann die zurückgewiesenen Datensätze unverzüglich berichtigen und innerhalb des Zeitraumes des § 1 Abs. 2 erneut übermitteln.
 
@@ -72,13 +65,11 @@ der auf den Abgleichszeitraum folgt.
 
 (3) Die Auskunftsstellen, die Datenstelle der Rentenversicherung und die Kopfstelle haben die ihnen übermittelten Daten unverzüglich nach Abschluss des Abgleichs zu löschen.
 
-
-## § 4 – Einzelheiten des Datenabgleichverfahrens
+# § 4 – Einzelheiten des Datenabgleichverfahrens
 
 Die Einzelheiten des Datenabgleichverfahrens, insbesondere des Aufbaus der Datensätze, der Übermittlung, der Prüfung und Berichtigung von Datensätzen legt die Kopfstelle in Verfahrensgrundsätzen fest. Die Kopfstelle hat die Bundesagentur für Arbeit, die zugelassenen kommunalen Träger und die Auskunftsstellen an der Erarbeitung der Verfahrensgrundsätze mit dem Ziel zu beteiligen, einvernehmliche Festlegungen zu erreichen.
 
-
-## § 5 – Kosten der Kopfstelle
+# § 5 – Kosten der Kopfstelle
 
 (1) Die Bundesagentur für Arbeit erstattet der Kopfstelle den Aufwand für die Vermittlung des Datenabgleichs nach § 52 des Zweiten Buches Sozialgesetzbuch.
 

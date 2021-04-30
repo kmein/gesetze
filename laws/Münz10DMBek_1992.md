@@ -1,10 +1,7 @@
-# [Münz10DMBek 1992] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 125. Geburtstag von Käthe Kollwitz)
-
-Ausfertigungsdatum: 04.06.1992
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 125. Geburtstag von Käthe Kollwitz)
+% Ausfertigungsdatum: 04.06.1992
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, zum 125. Geburtstag von Käthe Kollwitz eine Bundesmünze (Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 8,45 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Karlsruhe.
 
@@ -47,17 +44,15 @@ Ausfertigungsdatum: 04.06.1992
 
 (9) Zwischen Ende und Anfang der Randschrift befinden sich drei fünfzackige Sterne.
 
-(10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg-Ottmaring.  
-  
+(10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg-Ottmaring.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
   
 (Fundstelle: BGBl. I 1992, 1028)
 
   
   
-![](../normengrafiken/bgbl1_1992/j1028_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1992/j1028_0010.jpg)  
   

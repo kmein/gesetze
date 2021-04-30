@@ -1,20 +1,15 @@
-# [KatHiLAbkCZEG] Gesetz zu dem Vertrag vom 19. September 2000 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die gegenseitige Hilfeleistung bei Katastrophen und schweren Unglücksfällen
-
-Ausfertigungsdatum: 16.08.2002
-
+% Gesetz zu dem Vertrag vom 19. September 2000 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die gegenseitige Hilfeleistung bei Katastrophen und schweren Unglücksfällen
+% Ausfertigungsdatum: 16.08.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Berlin am 19. September 2000 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die gegenseitige Hilfeleistung bei Katastrophen und schweren Unglücksfällen wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Aufwendungen, die auf Seiten der Bundesrepublik Deutschland bei Hilfeleistungen in der Tschechischen Republik entstehen, trägt
 
@@ -26,8 +21,7 @@ Dem in Berlin am 19. September 2000 unterzeichneten Vertrag zwischen der Bundesr
 
 (3) Bei Aufwendungen, die auf Seiten der Bundesrepublik Deutschland in den Fällen des Artikels 9 Abs. 2 bis 4 des Vertrags entstehen, richtet sich die Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in den Aufgabenbereich des Bundes oder eines Landes fällt.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

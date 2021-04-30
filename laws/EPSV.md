@@ -1,10 +1,7 @@
-# [EPSV] Verordnung zur Anerkennung, zum Einsatz und zur Überwachung von Prüfsachverständigen im Eisenbahnbereich  (Eisenbahn-Prüfsachverständigenverordnung - EPSV)
-
-Ausfertigungsdatum: 05.10.2020
-
+% Verordnung zur Anerkennung, zum Einsatz und zur Überwachung von Prüfsachverständigen im Eisenbahnbereich  (Eisenbahn-Prüfsachverständigenverordnung - EPSV)
+% Ausfertigungsdatum: 05.10.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Anerkennung, den Einsatz und die Überwachung der Prüfsachverständigen nach § 4b des Allgemeinen Eisenbahngesetzes in dem Fachbereich Ingenieurbau, Oberbau und Hochbau sowie in dem Fachbereich Signaltechnik, Telekommunikation und Elektrotechnik.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 05.10.2020
 
 (3) Beauftragen gemäß § 4b Absatz 1 Satz 1 des Allgemeinen Eisenbahngesetzes Hersteller oder Eisenbahnen im Zuständigkeitsbereich der Eisenbahnaufsichtsbehörden der Länder oder Eisenbahnaufsichtsbehörden der Länder nach dieser Verordnung anerkannte Prüfsachverständige, so sind die Prüfsachverständigen auch im Rahmen dieses Auftrags den Bestimmungen der Teile 1, 3 und 4 mit Ausnahme der §§ 21 und 22 dieser Verordnung unterworfen.
 
-
-## § 2 – Fachbereiche und Tätigkeiten der Prüfsachverständigen
+# § 2 – Fachbereiche und Tätigkeiten der Prüfsachverständigen
 
 (1) Die Fachbereiche nach § 1 gliedern sich in folgende Fachgebiete:
 
@@ -55,13 +51,11 @@ Eine weitere Unterteilung der Fach- und Teilgebiete erfolgt bei Bedarf in Verwal
 
 6. Prüfung von Nachweisen mindestens gleicher Sicherheit wie bei der Einhaltung von nationalen technischen Vorschriften oder von den zu beachtenden behördlichen Entscheidungen oder Prüfung von expliziten Risikoabschätzungen bei nichtsignifikanten Änderungen nach § 13 Satz 1 Nummer 1 und 3.
 
-
-## § 3 – Zuständige Behörde
+# § 3 – Zuständige Behörde
 
 Das Eisenbahn-Bundesamt ist die zuständige Behörde für die Anerkennung und Überwachung der Prüfsachverständigen gemäß den Teilen 2 und 5.
 
-
-## § 4 – Anerkennungsvoraussetzungen
+# § 4 – Anerkennungsvoraussetzungen
 
 (1) Prüfsachverständige bedürfen vor Aufnahme ihrer Tätigkeit der Anerkennung durch die zuständige Behörde.
 
@@ -81,8 +75,7 @@ Das Eisenbahn-Bundesamt ist die zuständige Behörde für die Anerkennung und Ü
 
 7. körperlich geeignet ist.
 
-
-## § 5 – Antragsverfahren
+# § 5 – Antragsverfahren
 
 (1) Die erstmalige Anerkennung als Prüfsachverständiger, die Verlängerung der Anerkennung, die Erweiterung einer vorhandenen Anerkennung und eine projektspezifische Anerkennung als Prüfsachverständiger erfolgen auf Antrag bei der zuständigen Behörde.
 
@@ -132,8 +125,7 @@ Der Antrag auf Verlängerung der Anerkennung als Prüfsachverständiger ist spä
 
 (7) Bei einem Antrag auf Erweiterung einer vorhandenen Anerkennung als Prüfsachverständiger oder bei einem Antrag auf eine projektspezifische Anerkennung als Prüfsachverständiger kann die zuständige Behörde auf die Vorlage einzelner Nachweise nach Absatz 3 verzichten oder zur Berücksichtigung besonderer Verhältnisse Ausnahmen von den Anforderungen nach § 4 zulassen. Näheres regeln Verwaltungsvorschriften.
 
-
-## § 6 – Anerkennung als Prüfsachverständiger
+# § 6 – Anerkennung als Prüfsachverständiger
 
 (1) Der Prüfsachverständige erhält über seine Anerkennung einen Bescheid. In dem Bescheid sind festzulegen:
 
@@ -149,8 +141,7 @@ Der Antrag auf Verlängerung der Anerkennung als Prüfsachverständiger ist spä
 
 (4) Die zuständige Behörde veröffentlicht auf ihrer Internetseite für jeden Fachbereich eine Liste der anerkannten Prüfsachverständigen mit Namen und beruflicher Anschrift sowie mit den Fachgebieten und Tätigkeiten, für die der jeweilige Prüfsachverständige anerkannt ist, wenn der jeweilige Prüfsachverständige der Veröffentlichung zugestimmt hat.
 
-
-## § 7 – Erlöschen, Rücknahme und Widerruf der Anerkennung
+# § 7 – Erlöschen, Rücknahme und Widerruf der Anerkennung
 
 (1) Die Anerkennung erlischt
 
@@ -176,15 +167,13 @@ Ein Widerruf wegen eines wiederholten Verstoßes setzt voraus, dass wegen eines 
 
 (5) Der Anerkennungsbescheid ist unverzüglich an die zuständige Behörde zurückzugeben, wenn die Anerkennung erloschen ist, zurückgenommen oder widerrufen wird.
 
-
-## § 8 – Beauftragung
+# § 8 – Beauftragung
 
 (1) Eisenbahnen, Hersteller oder die nach § 5 des Allgemeinen Eisenbahngesetzes zuständigen Behörden beauftragen Prüfsachverständige schriftlich mit der Prüfung der Einhaltung der nationalen technischen Vorschriften.
 
 (2) In der Beauftragung nach Absatz 1 sind insbesondere der Umfang und der Inhalt der Prüfung festzulegen.
 
-
-## § 9 – Bautechnische Prüfung der Nachweise von Ingenieurbau-, Oberbau- oder Hochbau-Anlagen
+# § 9 – Bautechnische Prüfung der Nachweise von Ingenieurbau-, Oberbau- oder Hochbau-Anlagen
 
 (1) Bei der bautechnischen Prüfung hat der Prüfsachverständige die erforderlichen Nachweise von Ingenieurbau-, Oberbau- oder Hochbau-Anlagen sowie Ausführungs- und Konstruktionszeichnungen auf Vollständigkeit und auf Übereinstimmung mit den nationalen technischen Vorschriften zu prüfen. Hierbei sind, soweit erforderlich, auch die Anforderungen des Wärme- und Schallschutzes sowie des baulichen und konstruktiven Brandschutzes zu berücksichtigen.
 
@@ -194,27 +183,23 @@ Ein Widerruf wegen eines wiederholten Verstoßes setzt voraus, dass wegen eines 
 
 2. die ordnungsgemäße Durchführung erforderlicher Abnahmen.
 
-
-## § 10 – Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
+# § 10 – Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
 
 (1) Bei der Planprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen hat der Prüfsachverständige Ausführungsunterlagen auf Vollständigkeit und auf Übereinstimmung mit den nationalen technischen Vorschriften und den vorhandenen Planfeststellungen zu prüfen.
 
 (2) Ausführungsunterlagen, die für den Endzustand der Signal-, Telekommunikations- oder elektrotechnischen Anlagen bedeutsam sind, sind als Anlage dem Prüfbericht nach § 20 Absatz 2 beizufügen.
 
-
-## § 11 – Abnahmeprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
+# § 11 – Abnahmeprüfung von Signal-, Telekommunikations- oder elektrotechnischen Anlagen
 
 (1) Bei der Abnahmeprüfung hat der Prüfsachverständige die neu gebaute oder die veränderte Signal-, Telekommunikations- oder elektrotechnische Anlage auf Übereinstimmung mit der Ausführungsplanung und auf ihre ordnungsgemäße Funktion zu prüfen.
 
 (2) Prüfsachverständige für Abnahmeprüfungen dürfen nur solche Anlagen prüfen, an deren Planprüfung nach § 10 sie nicht beteiligt waren.
 
-
-## § 12 – Zulassungsprüfung
+# § 12 – Zulassungsprüfung
 
 Bei der Zulassungsprüfung von generischen Produkten, von Verfahren, Anwendungen, Bauprodukten oder Bauarten hat der Prüfsachverständige die Übereinstimmung mit den nationalen technischen Vorschriften zu prüfen und zu bewerten.
 
-
-## § 13 – Prüfung bei festgestellten Abweichungen von nationalen technischen Vorschriften oder behördlichen Entscheidungen
+# § 13 – Prüfung bei festgestellten Abweichungen von nationalen technischen Vorschriften oder behördlichen Entscheidungen
 
 Wenn eine Abweichung von den nationalen technischen Vorschriften oder den zu beachtenden behördlichen Entscheidungen festgestellt wird, prüft der Prüfsachverständige,
 
@@ -226,8 +211,7 @@ Wenn eine Abweichung von den nationalen technischen Vorschriften oder den zu bea
 
 Dies gilt nicht, wenn die Durchführung eines Risikomanagementverfahrens wegen einer signifikanten Änderung nach der Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009 (ABl. L 121 vom 3.5.2013, S. 8), die durch die Durchführungsverordnung (EU) 2015/1136 (ABl. L 185 vom 14.7.2015, S. 6; L 70 vom 16.3.2016, S. 38) geändert worden ist, erforderlich ist.
 
-
-## § 14 – Unabhängigkeit, Weisungsfreiheit und Gewissenhaftigkeit
+# § 14 – Unabhängigkeit, Weisungsfreiheit und Gewissenhaftigkeit
 
 (1) Der Prüfsachverständige ist in der Ausübung seiner Tätigkeit unabhängig und an Weisungen seines Auftraggebers nicht gebunden. Er erfüllt die ihm obliegenden Aufgaben unparteiisch und nach bestem Wissen und Gewissen.
 
@@ -235,8 +219,7 @@ Dies gilt nicht, wenn die Durchführung eines Risikomanagementverfahrens wegen e
 
 (3) Der Prüfsachverständige hat seine Tätigkeiten unter Beachtung der nationalen technischen Vorschriften mit der erforderlichen Sorgfalt durchzuführen. Er hat die Grundlagen seiner Prüftätigkeit mit der erforderlichen Sorgfalt zu ermitteln.
 
-
-## § 15 – Persönliche Aufgabenerfüllung und Beschäftigung von Hilfskräften
+# § 15 – Persönliche Aufgabenerfüllung und Beschäftigung von Hilfskräften
 
 (1) Der Prüfsachverständige hat die zu erbringenden Leistungen grundsätzlich persönlich zu erbringen. Eine zeitweise Vertretung ist nur durch Prüfsachverständige mit gleicher Anerkennung zulässig.
 
@@ -246,32 +229,27 @@ Dies gilt nicht, wenn die Durchführung eines Risikomanagementverfahrens wegen e
 
 (4) Der Prüfsachverständige darf Hilfskräften einzelne Prüftätigkeiten insoweit übertragen, als er deren Tätigkeit ordnungsgemäß überwachen kann. Der Prüfsachverständige trägt die Verantwortung für die Auswahl und die Überwachung der Hilfskräfte. Erforderliche Beurteilungen muss der Prüfsachverständige persönlich vornehmen.
 
-
-## § 16 – Haftpflichtversicherung
+# § 16 – Haftpflichtversicherung
 
 (1) Der Prüfsachverständige hat eine Haftpflichtversicherung für Personen-, Sach- und Vermögensschäden abzuschließen und während der Dauer der Anerkennung aufrechtzuerhalten. Die Pflicht nach Satz 1 ist erfüllt, wenn das Unternehmen, das den Prüfsachverständigen beschäftigt, eine Haftpflichtversicherung abgeschlossen hat, die den Prüfsachverständigen namentlich einbezieht. Die Haftpflichtversicherung muss eine Mindestversicherungssumme in Höhe von 2,5 Millionen Euro für jeden Versicherungsfall sowie mindestens eine zweifache Deckung für das gesamte Jahr aufweisen.
 
 (2) Die Versicherung muss eine fünfjährige Nachhaftung vorsehen.
 
-
-## § 17 – Berufsgeheimnis
+# § 17 – Berufsgeheimnis
 
 (1) Dem Prüfsachverständigen ist es untersagt, die bei der Ausübung seiner Tätigkeit erlangten Kenntnisse Dritten unbefugt mitzuteilen oder zum Vor- oder Nachteil Dritter unbefugt zu verwenden. Diese Pflicht des Prüfsachverständigen zur Geheimhaltung besteht über die Beendigung des Auftragsverhältnisses hinaus. Sie gilt auch nach dem Erlöschen oder nach dem Widerruf der Anerkennung.
 
 (2) Für Hilfskräfte des Prüfsachverständigen gilt Absatz 1 entsprechend.
 
-
-## § 18 – Anzeigepflicht
+# § 18 – Anzeigepflicht
 
 Erkennt der Prüfsachverständige, dass eine Gefahr für die öffentliche Sicherheit oder für die ordnungsgemäße Durchführung seiner Prüftätigkeit besteht, so hat er dies unverzüglich dem betreffenden Auftraggeber und der zuständigen Eisenbahnaufsichtsbehörde anzuzeigen.
 
-
-## § 19 – Verantwortung für die eingesetzten Mittel, Einrichtungen und Ausrüstungen
+# § 19 – Verantwortung für die eingesetzten Mittel, Einrichtungen und Ausrüstungen
 
 Der Prüfsachverständige ist für die zur Ausübung seiner Tätigkeit erforderlichen Mittel, technischen Einrichtungen und Ausrüstungen verantwortlich.
 
-
-## § 20 – Aufzeichnungs- und Aufbewahrungspflichten; Prüfbericht
+# § 20 – Aufzeichnungs- und Aufbewahrungspflichten; Prüfbericht
 
 (1) Der Prüfsachverständige hat über jede von ihm durchgeführte Prüftätigkeit Aufzeichnungen zu führen. Die Aufzeichnungen hat der Prüfsachverständige mit dem Datum ihrer Anfertigung zu versehen und zu unterzeichnen.
 
@@ -293,8 +271,7 @@ Die Aufbewahrungsfrist beginnt mit dem Ende des Kalenderjahres, in dem der betre
 
 3. nicht nachträglich geändert werden können.
 
-
-## § 21 – Anzeigepflichten zur Person und zur beruflichen oder gewerblichen Tätigkeit des Prüfsachverständigen
+# § 21 – Anzeigepflichten zur Person und zur beruflichen oder gewerblichen Tätigkeit des Prüfsachverständigen
 
 Der Prüfsachverständige hat der zuständigen Behörde unverzüglich Folgendes anzuzeigen:
 
@@ -310,18 +287,15 @@ Der Prüfsachverständige hat der zuständigen Behörde unverzüglich Folgendes 
 
 6. das Erlöschen des Versicherungsschutzes nach § 16.
 
-
-## § 22 – Auskunftspflichten
+# § 22 – Auskunftspflichten
 
 Der Prüfsachverständige hat der zuständigen Behörde auf deren Verlangen unentgeltlich solche Auskünfte zu erteilen und angeforderte Unterlagen vorzulegen, die zur Überwachung seiner Tätigkeit und der Einhaltung seiner Pflichten erforderlich sind.
 
-
-## § 23 – Fortbildung und Erfahrungsaustausch
+# § 23 – Fortbildung und Erfahrungsaustausch
 
 Der Prüfsachverständige hat sich in den Fachgebieten, für die er anerkannt ist, regelmäßig, mindestens einmal jährlich, fortzubilden und den Erfahrungsaustausch zu pflegen.
 
-
-## § 24 – Überwachung
+# § 24 – Überwachung
 
 (1) Die zuständige Behörde überwacht die Prüfsachverständigen regelmäßig.
 
@@ -337,8 +311,7 @@ Der Prüfsachverständige hat sich in den Fachgebieten, für die er anerkannt is
 
 5. einer Auswertung von elektronisch gespeicherten Arbeitsergebnissen.
 
-
-## § 25 – Übergangsvorschriften
+# § 25 – Übergangsvorschriften
 
 (1) Anerkennungen von Prüfern und Gutachtern, die am 1. Dezember 2020 Tätigkeiten nach den §§ 9 bis 11 ausüben, gelten fort, wenn die darin bezeichneten Prüfer und Gutachter gegenüber der zuständigen Behörde bis zum Ablauf des 1. März 2021 eine schriftliche oder elektronische Erklärung abgeben, dass sie die Pflichten nach den §§ 14 bis 23 anerkennen und bei ihrer künftigen Tätigkeit zugrunde legen werden. Soweit Bestimmungen der §§ 14 bis 23 die Vorlage bestimmter Nachweise vorsehen, sind diese Nachweise zusammen mit der Erklärung nach Satz 1 einzureichen.
 
@@ -346,13 +319,11 @@ Der Prüfsachverständige hat sich in den Fachgebieten, für die er anerkannt is
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Prüfer und Gutachter im Fachbereich Signaltechnik, Telekommunikation und Elektrotechnik, die am 1. Dezember 2020 Tätigkeiten nach § 12 oder § 13 ausüben und die bislang keine Anerkennung beim Eisenbahn-Bundesamt haben.
 
-
-## Anlage 1 – (§ 4 Absatz 2 Nummer 2)  Fachkunde im Eisenbahnwesen
+# Anlage 1 – (§ 4 Absatz 2 Nummer 2)  Fachkunde im Eisenbahnwesen
 
 (Fundstelle: BGBl. I 2020, 2083)
 
-
-## Anlage 2 – (§ 4 Absatz 2 Nummer 3)  Berufserfahrung
+# Anlage 2 – (§ 4 Absatz 2 Nummer 3)  Berufserfahrung
 
 (Fundstelle: BGBl. I 2020, 2084 - 2085)
 

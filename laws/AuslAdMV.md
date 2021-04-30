@@ -1,15 +1,11 @@
-# [AuslAdMV] Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an die Bundeszentralstelle für Auslandsadoption  (Auslandsadoptions-Meldeverordnung - AuslAdMV)
-
-Ausfertigungsdatum: 11.11.2002
-
+% Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an die Bundeszentralstelle für Auslandsadoption  (Auslandsadoptions-Meldeverordnung - AuslAdMV)
+% Ausfertigungsdatum: 11.11.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 1 in Verbindung mit § 2a Abs. 5 Satz 1 Nr. 1 und Satz 2 des Adoptionsvermittlungsgesetzes in der Fassung der Bekanntmachung vom 22. Dezember 2001 (BGBl. 2002 I S. 354) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Meldungen der nach dem Adoptionsvermittlungsgesetz zur internationalen Adoptionsvermittlung befugten Stellen an das Bundesamt für Justiz als Bundeszentralstelle für Auslandsadoption (Bundeszentralstelle). Die Verordnung gilt für alle Vermittlungsfälle, in denen
 
@@ -19,8 +15,7 @@ oder
 
 2. das Kind innerhalb von zwei Jahren vor der Einleitung des Vermittlungsverfahrens in das Inland gebracht worden ist.
 
-
-## § 2 – Anlässe für Meldungen
+# § 2 – Anlässe für Meldungen
 
 (1) Der Bundeszentralstelle sind zu melden:
 
@@ -38,13 +33,11 @@ oder
 
 2. die Adoptionsbewerber an einer internationalen Adoptionsvermittlung erkennbar nicht mehr interessiert sind.
 
-
-## § 3 – Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen
+# § 3 – Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen
 
 Meldepflichtig ist die nach dem Adoptionsvermittlungsgesetz zur internationalen Adoptionsvermittlung befugte Stelle, die zum Zeitpunkt des die Meldepflicht auslösenden Ereignisses die Akten des Adoptionsverfahrens führt. Ein Wechsel der aktenführenden Stelle sowie Änderungen, Berichtigungen oder Ergänzungen des Inhalts einer Meldung sind der Bundeszentralstelle unverzüglich mitzuteilen.
 
-
-## § 4 – Inhalt der Meldungen
+# § 4 – Inhalt der Meldungen
 
 (1) Die Meldung nach § 2 Abs. 1 Nr. 1 muss enthalten:
 
@@ -146,29 +139,24 @@ e) soweit bekannt die Staatsangehörigkeit des Kindes nach der Annahme als Kind,
 
 2. wenn die Annahme des Kindes nicht erfolgt: die Mitteilung dieser Tatsache.
 
-
-## § 5 – Einmalige Meldung
+# § 5 – Einmalige Meldung
 
 Betrifft das Vermittlungsverfahren sonstige Staaten, sind der Bundeszentralstelle mit Abschluss des Vermittlungsverfahrens in sinngemäßer Anwendung die Angaben nach § 4 Abs. 1 Nr. 1 bis 3, Abs. 3 und Abs. 4 Nr. 1 Buchstabe b bis e in einer Meldung zusammengefasst zu übermitteln. § 2 Abs. 2 und § 3 gelten entsprechend.
 
-
-## § 6 – Form und Frist der Meldungen der Daten
+# § 6 – Form und Frist der Meldungen der Daten
 
 (1) Die Meldungen sollen im Wege der Datenfernübertragung übermittelt werden und dem von der Bundeszentralstelle festgelegten Muster entsprechen. Dabei sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentizität der übermittelnden und der empfangenden Stelle gewährleisten; bei der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden.
 
 (2) Die Meldungen sind innerhalb von drei Monaten nach Eintritt des die Meldepflicht auslösenden Ereignisses zu übermitteln. Innerhalb der Frist können mehrere Meldungen zusammengefasst übermittelt werden.
 
-
-## § 7 – Übergangsregelung
+# § 7 – Übergangsregelung
 
 Für internationale Adoptionsvermittlungsverfahren im Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens, die zum Zeitpunkt des Inkrafttretens dieser Verordnung begonnen, aber noch nicht abgeschlossen sind, gelten die §§ 2 bis 4 mit der Maßgabe, dass die Meldungen bei Eintritt eines neuen meldepflichtigen Ereignisses zusammengefasst übermittelt werden können.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

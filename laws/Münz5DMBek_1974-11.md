@@ -1,10 +1,7 @@
-# [Münz5DMBek 1974-11] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kant-Gedenkmünze)
-
-Ausfertigungsdatum: 06.11.1974
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kant-Gedenkmünze)
+% Ausfertigungsdatum: 06.11.1974
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. I S. 323) ist aus Anlaß des 250. Geburtstages von Immanuel Kant eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte im Bayerischen Hauptmünzamt München, die Auflage beträgt 8 Millionen Stück.
 
@@ -39,13 +36,11 @@ Zwischen den Wörtern "GESETZ" und "ACHTUNG" sind drei punktförmige Vertiefunge
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

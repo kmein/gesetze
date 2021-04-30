@@ -1,10 +1,7 @@
-# [GräbG] Gesetz über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft  (Gräbergesetz)
-
-Ausfertigungsdatum: 01.07.1965
-
+% Gesetz über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft  (Gräbergesetz)
+% Ausfertigungsdatum: 01.07.1965
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient dazu, der Opfer von Krieg und Gewaltherrschaft in besonderer Weise zu gedenken und für zukünftige Generationen die Erinnerung daran wach zu halten, welche schrecklichen Folgen Krieg und Gewaltherrschaft haben.
 
@@ -36,8 +33,7 @@ Ausfertigungsdatum: 01.07.1965
 
 (4) Bei Anwendung des Absatzes 2 Nummer 4 gilt § 6 Absatz 1 und 2 des Bundesentschädigungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 251-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 30 des Gesetzes vom 23. Dezember 2003 (BGBl. I S. 2848) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 2 – Ruherecht
+# § 2 – Ruherecht
 
 (1) Gräber nach § 1 bleiben dauernd bestehen.
 
@@ -45,8 +41,7 @@ Ausfertigungsdatum: 01.07.1965
 
 (3) Die öffentliche Last nach Absatz 2 geht den öffentlichen und privaten Rechten an dem Grundstück im Rang vor.
 
-
-## § 3 – Ruherechtsentschädigung
+# § 3 – Ruherechtsentschädigung
 
 (1) Entstehen dem Eigentümer eines Grundstücks oder einem anderen Berechtigten durch die öffentliche Last nach § 2 Vermögensnachteile, ist von dem Land, in dem das Grundstück liegt, eine Entschädigung in Geld zu leisten.
 
@@ -72,8 +67,7 @@ Ausfertigungsdatum: 01.07.1965
 
 Bei Gräbern nach § 1 auf Friedhöfen mit einer Gebührenordnung gilt die Beeinträchtigung nach Nummer 1 als unwesentlich, wenn die Nutzung des Friedhofs durch die öffentliche Last 5 vom Hundert der im Jahr der Belegung mit Gräbern nach § 1 oder bei einer späteren Antragstellung der in diesem Jahr vereinnahmten Grabgebühren nicht übersteigt. Bei Gräbern nach § 1 Absatz 2 auf sonstigen Grundstücken gilt die Beeinträchtigung nach Nummer 1 als unwesentlich, wenn die Nutzung des Grundstücks durch die öffentliche Last 5 vom Hundert der Gesamtfläche nicht übersteigt.
 
-
-## § 4 – Übernahme eines Grundstücks
+# § 4 – Übernahme eines Grundstücks
 
 (1) Wird dem Eigentümer eines Grundstücks durch die öffentliche Last nach § 2 die bisher zulässige Nutzung des Grundstücks unzumutbar erschwert, kann er die Übernahme des Grundstücks verlangen. Treffen diese Voraussetzungen nur für einen Teil des Grundstücks zu, kann nur die Übernahme dieses Teils verlangt werden, es sei denn, dass der übrige Teil für den Eigentümer keinen oder einen verhältnismäßig geringen Wert hätte.
 
@@ -91,8 +85,7 @@ Bei Gräbern nach § 1 auf Friedhöfen mit einer Gebührenordnung gilt die Beein
 
 (3) Juristische Personen des öffentlichen Rechts können einen Anspruch nach Absatz 1 nicht geltend machen.
 
-
-## § 5 – Feststellung und Erhaltung von Gräbern
+# § 5 – Feststellung und Erhaltung von Gräbern
 
 (1) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1 festzustellen, in Listen nachzuweisen und diese Listen auf dem Laufenden zu halten.
 
@@ -100,8 +93,7 @@ Bei Gräbern nach § 1 auf Friedhöfen mit einer Gebührenordnung gilt die Beein
 
 (3) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1 zu erhalten. Maßnahmen zur Erhaltung sind Anlegung, Instandsetzung und Pflege.
 
-
-## § 6 – Verlegung von Gräbern
+# § 6 – Verlegung von Gräbern
 
 (1) Gräber nach § 1 Absatz 2 dürfen im Inland nur verlegt werden, wenn die zuständige Landesbehörde zugestimmt hat. Die Toten sollen in einem Sammelgrab in einer geschlossenen Begräbnisstelle wiederbestattet werden.
 
@@ -109,23 +101,19 @@ Bei Gräbern nach § 1 auf Friedhöfen mit einer Gebührenordnung gilt die Beein
 
 (3) Geschlossene Begräbnisstätten sind Friedhöfe und Abteilungen eines Friedhofs.
 
-
-## § 7 – Herausgabe von Gegenständen
+# § 7 – Herausgabe von Gegenständen
 
 Wer Unterlagen zur Person oder Nachlassgegenstände der in § 1 genannten Personen sowie Verlustunterlagen der ehemaligen deutschen Wehrmacht (Truppenlisten und -meldungen, Erkennungsmarkenverzeichnisse, Soldbücher, Kranken- und Lazarettpapiere, Grablageakten) oder sonstige Gegenstände unberechtigt in Besitz hat, die für personenstandsrechtliche Feststellungen, Identifizierung unbekannter Toter oder Ermittlung von Grablagen der in § 1 genannten Personen zweckdienlich sein können, ist verpflichtet, sie dem Bundesarchiv herauszugeben.
 
-
-## § 8 – Identifizierungen
+# § 8 – Identifizierungen
 
 Zum Zwecke der Identifizierung namentlich unbekannter Toter kann eine Graböffnung angeordnet werden. Eine solche Anordnung soll nur getroffen werden, wenn eine Identifizierung nach gutachtlicher Äußerung des Bundesarchivs anders nicht durchführbar ist und eine Identitätsfeststellung mit hoher Wahrscheinlichkeit zu erwarten steht.
 
-
-## § 9 – (weggefallen)
+# § 9 – (weggefallen)
 
 \-
 
-
-## § 10 – Aufwendungen
+# § 10 – Aufwendungen
 
 (1) Der Bund trägt die Aufwendungen, die sich aus §§ 3, 4, 5, 6 und 8 ergeben.
 
@@ -169,32 +157,27 @@ Der Betrag nach Nummer 1 erhöht sich um den Betrag, der aus dem Zuschlag nach N
 
 (10) Verpflichtungen nach anderen Rechtsvorschriften zur Tragung von Aufwendungen bleiben unberührt.
 
-
-## § 11 – Befreiung von Gebühren, Auslagen und Steuern
+# § 11 – Befreiung von Gebühren, Auslagen und Steuern
 
 (1) Für Amtshandlungen, die bei Durchführung dieses Gesetzes mit Ausnahme des § 7 erforderlich werden, werden Gebühren und Auslagen nicht erhoben. Dies gilt auch für Gerichtskosten, Beurkundungs- und Beglaubigungskosten nach dem Gerichts- und Notarkostengesetz.
 
 (2) Die Wahrnehmung der Aufgaben nach diesem Gesetz gilt nicht als gewerbliche Tätigkeit im Sinne des § 2 Absatz 3 des Umsatzsteuergesetzes.
 
-
-## § 12 – Zuständigkeit
+# § 12 – Zuständigkeit
 
 (1) Aufgaben nach diesem Gesetz nehmen, soweit nichts anderes bestimmt ist, die nach Landesrecht zuständigen Stellen wahr.
 
 (2) Bei Ankauf eines Grundstücks nach § 10 Absatz 2 Nummer 2 ist das Grundstück von dem Land zu erwerben, in dem es liegt. Aus besonderen Gründen kann das Eigentum an dem Grundstück auf Gemeinden oder Gemeindeverbände als Friedhofsträger übertragen werden.
 
-
-## § 13 – Überleitungsvorschriften
+# § 13 – Überleitungsvorschriften
 
 Entscheidungen über die Festsetzung von Entschädigungsleistungen für Minderung des Nutzungswertes durch Belegung eines Grundstücks mit Gräbern nach § 1, die bis zum Inkrafttreten dieses Gesetzes ergangen sind, gelten als Entscheidungen nach § 3.
 
-
-## §§ 14 und 15 – (weggefallen)
+# §§ 14 und 15 – (weggefallen)
 
 (Änderung und Aufhebung anderer Rechtsvorschriften)
 
-
-## § 16 – Sondervorschriften
+# § 16 – Sondervorschriften
 
 Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
 
@@ -204,14 +187,12 @@ Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
 
 3. es sich um ein Grab handelt, dessen Erhaltung (§ 5 Absatz 3) Angehörige des Verstorbenen oder Dritte zeitweilig oder dauerhaft übernommen haben (privat gepflegtes Grab); eine Übernahme dieser Gräber in die öffentliche Obhut ist ausgeschlossen.
 
-
-## § 17 – Anwendung des Gräbergesetzes in den neuen Bundesländern
+# § 17 – Anwendung des Gräbergesetzes in den neuen Bundesländern
 
 (1) Abweichend von Anlage I Kapitel X Sachgebiet H Abschnitt III Nummer 11 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1096) tritt dieses Gesetz in dem in Artikel 3 des Einigungsvertrages genannten Gebiet am 1. Januar 1993 in Kraft.
 
 (2) Abweichend von Anlage II Kapitel X Sachgebiet H Abschnitt III Nummer 15 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1020) gilt § 12 der Verordnung über das Bestattungs- und Friedhofswesen vom 17. April 1980 (GBl. I Nummer 18 S. 159) nur bis zum 31. Dezember 1992.
 
-
-## § 18 – (Inkrafttreten)
+# § 18 – (Inkrafttreten)
 
 \-

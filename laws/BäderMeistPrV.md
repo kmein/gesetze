@@ -1,15 +1,11 @@
-# [BäderMeistPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe
-
-Ausfertigungsdatum: 07.07.1998
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe
+% Ausfertigungsdatum: 07.07.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert ist, verordnet das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerien für Wirtschaft und des Innern:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Meister für Bäderbetriebe/zur Meisterin für Bäderbetriebe erworben wurden, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
@@ -29,15 +25,13 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte Abschlußprüfung in den anerkannten Ausbildungsberufen Fachangestellter für Bäderbetriebe oder Schwimmeistergehilfe und danach eine mindestens zweijährige Berufspraxis, die wesentliche Bezüge zu den Aufgaben eines Meisters für Bäderbetriebe gemäß § 1 Abs. 2 hat, nachweist.
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Inhalt der Prüfung
+# § 3 – Gliederung und Inhalt der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister für Bäderbetriebe/zur Geprüften Meisterin für Bäderbetriebe umfasst:
 
@@ -53,8 +47,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Der Erwerb der berufs- und arbeitspädagogischen Eignung ist durch eine erfolgreich abgelegte Prüfung nach § 4 der Ausbilder-Eignungsverordnung oder durch eine andere erfolgreich abgelegte vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn der letzten Prüfungsleistung zu erbringen.
 
-
-## § 4 – Allgemeiner Teil
+# § 4 – Allgemeiner Teil
 
 (1) Im allgemeinen Teil ist in folgenden Fächern zu prüfen:
 
@@ -188,8 +181,7 @@ c) Führungstechniken und Führungsverhalten.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Fachtheoretischer Teil
+# § 5 – Fachtheoretischer Teil
 
 (1) Im fachtheoretischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -379,8 +371,7 @@ b) Streßabbau und Steigerung des Wohlbefindens.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Fachpraktischer Teil
+# § 6 – Fachpraktischer Teil
 
 (1) Im fachpraktischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -390,9 +381,7 @@ b) Streßabbau und Steigerung des Wohlbefindens.
 
 3. Betriebstechnische Situationsaufgabe.
 
-(2) Im Prüfungsfach "Rettungsschwimmen und Schwimmsport" soll die zu prüfende Person nachweisen, daß sie Personen ohne Eigengefährdung retten und versorgen, die Schwimm- und einfachen Sprung- und Tauchtechniken vermitteln, sowie Schwimmtraining organisieren und durchführen kann.  
-Im Bereich Rettungsschwimmen sind eine praxisnahe Rettungsübung mit anschließender 5-minütiger Herz-Lungen-Wiederbelebung, der Aufbau einer Rettungskette sowie Wiederbelebungsversuche mit Gerät zu prüfen.  
-Weiter können geprüft werden:
+(2) Im Prüfungsfach "Rettungsschwimmen und Schwimmsport" soll die zu prüfende Person nachweisen, daß sie Personen ohne Eigengefährdung retten und versorgen, die Schwimm- und einfachen Sprung- und Tauchtechniken vermitteln, sowie Schwimmtraining organisieren und durchführen kann. Im Bereich Rettungsschwimmen sind eine praxisnahe Rettungsübung mit anschließender 5-minütiger Herz-Lungen-Wiederbelebung, der Aufbau einer Rettungskette sowie Wiederbelebungsversuche mit Gerät zu prüfen. Weiter können geprüft werden:
 
 1. 100-Meter-Kleiderschwimmen mit Jacke und Hose mit sofort anschließendem 50-Meter-Retten und das Anlandbringen des zu Rettenden (Retter und zu Rettender sind mit Jacke und Hose bekleidet),
 
@@ -430,8 +419,7 @@ Vorschläge der zu prüfenden Person können berücksichtigt werden. Im Rahmen d
 
 8. Nachbereitung.
 
-Bei der Prüfung der Projektarbeit ist die Hausarbeit einschließlich der Präsentation der Lösung der gestellten Aufgabe und das Fachgespräch vom Prüfungsausschuß zu bewerten. Die Präsentation soll nicht länger als 20 Minuten dauern. Die verwendeten Unterlagen sind dem Prüfungsausschuß zu überlassen.  
-Die Hausarbeit und die Präsentation sind Ausgangspunkt des anschließenden Fachgesprächs. Das Fachgespräch soll nicht länger als 15 Minuten dauern.
+Bei der Prüfung der Projektarbeit ist die Hausarbeit einschließlich der Präsentation der Lösung der gestellten Aufgabe und das Fachgespräch vom Prüfungsausschuß zu bewerten. Die Präsentation soll nicht länger als 20 Minuten dauern. Die verwendeten Unterlagen sind dem Prüfungsausschuß zu überlassen. Die Hausarbeit und die Präsentation sind Ausgangspunkt des anschließenden Fachgesprächs. Das Fachgespräch soll nicht länger als 15 Minuten dauern.
 
 (4) Im Prüfungsfach "Betriebstechnische Situationsaufgabe" soll die zu prüfende Person im Rahmen von praxisnahen Situationsaufgaben nachweisen, daß sie den technischen Betriebsablauf überwachen und steuern kann und gegebenenfalls durch entsprechende Maßnahmen unter Beachtung der Wirksamkeit, Betriebssicherheit, Arbeitssicherheit, Wirtschaftlichkeit und Umweltverträglichkeit den reibungslosen Betriebsablauf sicherstellen und deren Erfolg unter Anwendung der erworbenen Kenntnisse einschätzen kann. Folgende Situationen können Gegenstand der Aufgabe sein:
 
@@ -450,15 +438,13 @@ Die Hausarbeit und die Präsentation sind Ausgangspunkt des anschließenden Fach
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 3 Satz 1 oder § 9 Absatz 3 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bewerten der Prüfungsleistungen
+# § 8 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -468,8 +454,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -491,8 +476,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -506,8 +490,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -515,29 +498,25 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschrift
+# § 12 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die berufliche Fortbildung zum Geprüften Schwimmeister vom 3. Dezember 1975 (BGBl. I S. 2986) außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2207 - 2208)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 10)Zeugnisinhalte
+# Anlage 2 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2208 - 2209)
 

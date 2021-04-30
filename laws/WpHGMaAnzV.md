@@ -1,18 +1,13 @@
-# [WpHGMaAnzV] Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes  (WpHG-Mitarbeiteranzeigeverordnung - WpHGMaAnzV)
-
-Ausfertigungsdatum: 21.12.2011
-
+% Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes  (WpHG-Mitarbeiteranzeigeverordnung - WpHGMaAnzV)
+% Ausfertigungsdatum: 21.12.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34d Absatz 6 Satz 1 und 2 des Wertpapierhandelsgesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 5. April 2011 (BGBl. I S. 538) eingefügt worden ist, in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch die Verordnung vom 23. Mai 2011 (BGBl. I S. 938) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Sachkunde des Mitarbeiters in der Anlageberatung
+# § 1 – Sachkunde des Mitarbeiters in der Anlageberatung
 
 (1) Mitarbeiter in der Anlageberatung im Sinne des § 87 Absatz 1 des Wertpapierhandelsgesetzes müssen die für die Erbringung der Anlageberatung erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen und Finanzinstrumenten.
 
@@ -72,8 +67,7 @@ Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zei
 
 (7) Die Absätze 1 bis 6 gelten für die Sachkunde von Mitarbeitern von Wertpapierdienstleistungsunternehmen entsprechend, wenn diese Mitarbeiter strukturierte Einlagen an Kunden verkaufen oder Kunden über solche beraten.
 
-
-## § 1a – Sachkunde des Vertriebsmitarbeiters
+# § 1a – Sachkunde des Vertriebsmitarbeiters
 
 (1) Vertriebsmitarbeiter im Sinne des § 87 Absatz 2 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
 
@@ -109,8 +103,7 @@ Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zei
 
 (6) Die nach den Absätzen 1 bis 5 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
 
-
-## § 1b – Sachkunde des Mitarbeiters in der Finanzportfolioverwaltung
+# § 1b – Sachkunde des Mitarbeiters in der Finanzportfolioverwaltung
 
 (1) Mitarbeiter in der Finanzportfolioverwaltung im Sinne des § 87 Absatz 3 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
 
@@ -142,8 +135,7 @@ Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zei
 
 (6) Die nach den Absätzen 1 bis 5 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
 
-
-## § 2 – Sachkunde des Vertriebsbeauftragten
+# § 2 – Sachkunde des Vertriebsbeauftragten
 
 (1) Vertriebsbeauftragte im Sinne des § 87 Absatz 4 des Wertpapierhandelsgesetzes müssen die für ihre Tätigkeit erforderliche Sachkunde haben. Sie ist kontinuierlich zu wahren und regelmäßig auf den neuesten Stand zu bringen. Das Wertpapierdienstleistungsunternehmen überprüft die Sachkunde jedes Mitarbeiters mindestens einmal jährlich unter Berücksichtigung von Veränderungen der gesetzlichen Anforderungen und seines Angebots an Wertpapierdienstleistungen, Wertpapiernebendienstleistungen, Finanzinstrumenten und strukturierten Einlagen.
 
@@ -153,8 +145,7 @@ Die Tätigkeit unter Aufsicht nach Satz 3 darf nicht länger als über einen Zei
 
 (4) Die nach den Absätzen 1 bis 3 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
 
-
-## § 3 – Sachkunde des Compliance-Beauftragten
+# § 3 – Sachkunde des Compliance-Beauftragten
 
 (1) Der Compliance-Beauftragte im Sinne des § 87 Absatz 5 des Wertpapierhandelsgesetzes muss die für seine Tätigkeit erforderliche Sachkunde haben. Die Sachkunde umfasst insbesondere Kenntnisse in folgenden Sachgebieten und ihre praktische Anwendung:
 
@@ -186,8 +177,7 @@ e) Kenntnisse verschiedener Ausgestaltungsmöglichkeiten von Vertriebsvorgaben s
 
 (2) Die nach Absatz 1 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, durch Schulungs- oder Weiterbildungsnachweise oder in anderer geeigneter Weise nachgewiesen sein.
 
-
-## § 4 – Berufsqualifikationen als Sachkundenachweis
+# § 4 – Berufsqualifikationen als Sachkundenachweis
 
 Die erforderliche Sachkunde gilt insbesondere durch die folgenden Berufsqualifikationen und deren Vorläufer- oder Nachfolgeberufe als nachgewiesen:
 
@@ -217,8 +207,7 @@ b) Abschlusszeugnis gemäß Nummer 1, wenn darüber hinaus eine fachspezifische 
 
 c) Abschlusszeugnis gemäß Nummer 2 Buchstabe a.
 
-
-## § 5 – Anerkennung ausländischer Berufsbefähigungsnachweise im Rahmen der Niederlassungsfreiheit
+# § 5 – Anerkennung ausländischer Berufsbefähigungsnachweise im Rahmen der Niederlassungsfreiheit
 
 (1) Als Nachweis der erforderlichen Sachkunde nach den § 1 Absatz 2, auch in Verbindung mit § 1 Absatz 7, § 1a Absatz 2, § 1b Absatz 2, § 2 Absatz 2 oder § 3 Absatz 1 Satz 2 werden auch Befähigungs- und Ausbildungsnachweise anerkannt, die
 
@@ -228,18 +217,15 @@ c) Abschlusszeugnis gemäß Nummer 2 Buchstabe a.
 
 (2) Ist die Ausübung der Tätigkeit in dem anderen Mitglied- oder Vertragsstaat nicht durch Rechts- oder Verwaltungsvorschrift an eine bestimmte Berufsqualifikation gebunden, kann die Sachkunde durch jedes andere geeignete Dokument, insbesondere Abschluss- oder Arbeitszeugnisse, gegebenenfalls in Verbindung mit Stellenbeschreibungen, nachgewiesen werden.
 
-
-## § 6 – Zuverlässigkeit
+# § 6 – Zuverlässigkeit
 
 Die erforderliche Zuverlässigkeit nach § 87 Absatz 1 Satz 1, Absatz 2, 3, 4 Satz 1, jeweils auch in Verbindung mit § 96, oder § 87 Absatz 5 Satz 1 des Wertpapierhandelsgesetzes hat in der Regel nicht, wer in den letzten fünf Jahren vor Beginn der Tätigkeit wegen eines Verbrechens oder wegen Diebstahls, Unterschlagung, Erpressung, Betruges, Untreue, Geldwäsche, Urkundenfälschung, Hehlerei, Wuchers, einer Insolvenzstraftat, einer Steuerhinterziehung oder aufgrund des § 119 des Wertpapierhandelsgesetzes oder des § 38 des Wertpapierhandelsgesetzes in der bis zum 2. Januar 2018 geltenden Fassung rechtskräftig verurteilt worden ist.
 
-
-## § 7 – Einreichung der Anzeigen
+# § 7 – Einreichung der Anzeigen
 
 Die Anzeigen nach § 87 Absatz 1 Satz 2 bis 4, Absatz 4 Satz 2 und 3 sowie Absatz 5 Satz 2 und 3 des Wertpapierhandelsgesetzes sind im Wege der elektronischen Übermittlung unter Verwendung des von der Bundesanstalt bereitgestellten elektronischen Anzeigeverfahrens einzureichen. Bei der elektronischen Übermittlung sind dem jeweiligen Stand der Technik entsprechende Verfahren einzusetzen, die die Authentizität, Vertraulichkeit und Integrität der Daten gewährleisten. Im Falle der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren anzuwenden. Vor der erstmaligen Verwendung des elektronischen Anzeigeverfahrens ist eine Anmeldung bei der Bundesanstalt erforderlich. Die Anmeldung hat über die Internetseite der Bundesanstalt zu erfolgen. Die Bundesanstalt teilt unverzüglich nach Eingang der Anmeldung die zur Verwendung des elektronischen Anzeigeverfahrens erforderliche Zugangskennung zu. Unmittelbar nach jeder erfolgreichen Übermittlung einer Anzeige erhält das Unternehmen eine Bestätigung über deren Eingang bei der Bundesanstalt.
 
-
-## § 8 – Inhalt der Anzeigen
+# § 8 – Inhalt der Anzeigen
 
 (1) Die Erstanzeigen nach § 87 Absatz 1 Satz 2, Absatz 4 Satz 2 und Absatz 5 Satz 2 des Wertpapierhandelsgesetzes müssen enthalten:
 
@@ -263,8 +249,7 @@ Die Anzeigen nach § 87 Absatz 1 Satz 2 bis 4, Absatz 4 Satz 2 und 3 sowie Absat
 
 enthalten. Die Anzeige ist spätestens innerhalb von sechs Wochen, nachdem die Beschwerde gegenüber dem Wertpapierdienstleistungsunternehmen erhoben worden ist, bei der Bundesanstalt einzureichen. Mehrere Beschwerden können in chronologischer Reihenfolge zu einer Anzeige zusammengefasst werden.
 
-
-## § 9 – Inhalt der Datenbank
+# § 9 – Inhalt der Datenbank
 
 (1) Die Angaben aus den Anzeigen nach § 8 werden automatisiert in der Datenbank nach § 87 Absatz 7 des Wertpapierhandelsgesetzes gespeichert.
 
@@ -292,22 +277,18 @@ b) das Wertpapierdienstleistungsunternehmen, das die Tätigkeit seinerzeit angez
 
 c) die nach § 8 Absatz 4 angezeigten Beschwerden, die diese frühere Tätigkeit betrafen.
 
-
-## § 10 – Verantwortlichkeit
+# § 10 – Verantwortlichkeit
 
 Das Wertpapierdienstleistungsunternehmen trägt die Verantwortung für die Vollständigkeit, die Richtigkeit und die Aktualität der von ihm angezeigten und automatisiert in die Datenbank eingestellten Angaben. Erforderliche Berichtigungen sind unter Verwendung des elektronischen Anzeigeverfahrens vorzunehmen.
 
-
-## § 11 – Dauer der Speicherung
+# § 11 – Dauer der Speicherung
 
 Eintragungen nach § 8 Absatz 4 und § 9 Absatz 2 Nummer 7 sind fünf Jahre nach Ablauf des Jahres, in dem die Beschwerde gegenüber der Bundesanstalt angezeigt worden ist, oder fünf Jahre nach dem Tag, an dem die Anordnung erlassen worden ist, durch die Bundesanstalt aus der Datenbank zu löschen. Alle übrigen Eintragungen sind fünf Jahre nach Ablauf des Jahres, in dem die Beendigung der Tätigkeit für das anzeigende Wertpapierdienstleistungsunternehmen angezeigt worden ist, durch die Bundesanstalt aus der Datenbank zu löschen.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 Für Personen, die am 3. Januar 2018 als Mitarbeiter in der Anlageberatung, als Vertriebsmitarbeiter, als Mitarbeiter in der Finanzportfolioverwaltung, als Vertriebsbeauftragter oder als Compliance-Beauftragter eines Wertpapierdienstleistungsunternehmens tätig sind, wird im Zeitraum vom 3. Januar 2018 bis längstens zum 3. Juli 2018 vermutet, dass sie jeweils die notwendige Sachkunde im Sinne der §§ 1, 1a, 1b, 2 und 3 haben. Für Mitarbeiter in der Anlageberatung, für Vertriebsbeauftragte und für Compliance-Beauftragte gilt Satz 1 nur, wenn für sie vor dem 3. Januar 2018 Anzeigen nach § 8 Absatz 1 und 3 Satz 2 und § 10 Satz 2 eingereicht worden sind, wonach sie zumindest am 3. Januar 2018 mit der jeweils angezeigten Tätigkeit betraut sind.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2012 in Kraft.

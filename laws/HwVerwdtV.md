@@ -1,35 +1,27 @@
-# [HwVerwdtV] Verordnung über verwandte Handwerke
-
-Ausfertigungsdatum: 18.12.1968
-
+% Verordnung über verwandte Handwerke
+% Ausfertigungsdatum: 18.12.1968
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 2 des Gesetzes zur Ordnung des Handwerks (Handwerksordnung) in der Fassung der Bekanntmachung vom 28. Dezember 1965 (Bundesgesetzbl. 1966 I S. 1), geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzblatt I S. 503), wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Die in der Anlage zu dieser Verordnung in Spalte I aufgeführten zulassungspflichtige Handwerke sind mit den unter der gleichen Nummer in Spalte II aufgeführten zulassungspflichtigen Handwerken im Sinne des § 7 Abs. 1 Satz 2 der Handwerksordnung verwandt.
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – (zu § 1)  Verzeichnis der verwandten Handwerke
+# Anlage – (zu § 1)  Verzeichnis der verwandten Handwerke
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2952;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -55,8 +47,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | 15\. | Orthopädietechniker     | Orthopädieschuhmacher (diabetes-adaptierte Fußbettungen) |
 | 16\. | Orthopädieschuhmacher   | Orthopädietechniker (diabetes-adaptierte Fußbettungen)   |
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 998)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 998)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:

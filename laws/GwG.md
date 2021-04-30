@@ -1,12 +1,7 @@
-# [GwG] Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten  (Geldwäschegesetz - GwG)
-
-Ausfertigungsdatum: 23.06.2017
-
+% Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten  (Geldwäschegesetz - GwG)
+% Ausfertigungsdatum: 23.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -18,8 +13,9 @@ Ausfertigungsdatum: 23.06.2017
 
  
 
+ 
 
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Geldwäsche im Sinne dieses Gesetzes ist eine Straftat nach § 261 des Strafgesetzbuchs.
 
@@ -199,8 +195,7 @@ Holdinggesellschaften, die ausschließlich Beteiligungen an Unternehmen außerha
 
 (25) Mutterunternehmen im Sinne dieses Gesetzes ist ein Unternehmen, dem mindestens ein anderes Unternehmen nach Absatz 16 Nummer 2 bis 4 nachgeordnet ist, und dem kein anderes Unternehmen übergeordnet ist.
 
-
-## § 2 – Verpflichtete, Verordnungsermächtigung
+# § 2 – Verpflichtete, Verordnungsermächtigung
 
 (1) Verpflichtete im Sinne dieses Gesetzes sind, soweit sie in Ausübung ihres Gewerbes oder Berufs handeln,
 
@@ -304,8 +299,7 @@ In diesem Fall hat es die Europäische Kommission zeitnah zu unterrichten.
 
 (4) Für Behörden sowie Körperschaften und Anstalten des öffentlichen Rechts, die öffentliche Versteigerungen durchführen, gelten die in den Abschnitten 3, 5 und 6 genannten Identifizierungs- und Meldepflichten sowie die Pflicht zur Zusammenarbeit mit der Zentralstelle für Finanztransaktionsuntersuchungen entsprechend, soweit Transaktionen mit Barzahlungen über mindestens 10 000 Euro getätigt werden. Satz 1 gilt nicht, soweit im Rahmen der Zwangsvollstreckung gepfändete Gegenstände verwertet werden. Die Identifizierung des Erstehers soll bei Zuschlag erfolgen, spätestens jedoch bei Einzahlung des Bargebots. Nach Satz 1 verpflichtete Behörden sowie Körperschaften und Anstalten des öffentlichen Rechts können bei der Erfüllung ihrer Pflichten nach Satz 1 auf Dritte zurückgreifen.
 
-
-## § 3 – Wirtschaftlich Berechtigter
+# § 3 – Wirtschaftlich Berechtigter
 
 (1) Wirtschaftlich Berechtigter im Sinne dieses Gesetzes ist
 
@@ -344,8 +338,7 @@ Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von eine
 (+++ § 3 Abs. 1 u. 2: Zur Anwendung vgl. § 19 Abs. 2 +++)  
 (+++ § 3 Abs 1 u. 3: Zur Anwendung vgl. § 19 Abs. 2 +++)
 
-
-## § 4 – Risikomanagement
+# § 4 – Risikomanagement
 
 (1) Die Verpflichteten müssen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung über ein wirksames Risikomanagement verfügen, das im Hinblick auf Art und Umfang ihrer Geschäftstätigkeit angemessen ist.
 
@@ -371,8 +364,7 @@ c) Transaktionen über sonstige Güter, bei welchen sie Barzahlungen über minde
 
 2. als Kunstvermittler und Kunstlagerhalter bei Transaktionen im Wert von mindestens 10 000 Euro.
 
-
-## § 5 – Risikoanalyse
+# § 5 – Risikoanalyse
 
 (1) Die Verpflichteten haben diejenigen Risiken der Geldwäsche und der Terrorismusfinanzierung zu ermitteln und zu bewerten, die für Geschäfte bestehen, die von ihnen betrieben werden. Dabei haben sie insbesondere die in den Anlagen 1 und 2 genannten Risikofaktoren sowie die Informationen, die auf Grundlage der nationalen Risikoanalyse zur Verfügung gestellt werden, zu berücksichtigen. Der Umfang der Risikoanalyse richtet sich nach Art und Umfang der Geschäftstätigkeit der Verpflichteten.
 
@@ -388,8 +380,7 @@ c) Transaktionen über sonstige Güter, bei welchen sie Barzahlungen über minde
 
 (4) Die Aufsichtsbehörde kann einen Verpflichteten auf dessen Antrag von der Dokumentation der Risikoanalyse befreien, wenn der Verpflichtete darlegen kann, dass die in dem jeweiligen Bereich bestehenden konkreten Risiken klar erkennbar sind und sie verstanden werden.
 
-
-## § 6 – Interne Sicherungsmaßnahmen
+# § 6 – Interne Sicherungsmaßnahmen
 
 (1) Verpflichtete haben angemessene geschäfts- und kundenbezogene interne Sicherungsmaßnahmen zu schaffen, um die Risiken von Geldwäsche und von Terrorismusfinanzierung in Form von Grundsätzen, Verfahren und Kontrollen zu steuern und zu mindern. Angemessen sind solche Maßnahmen, die der jeweiligen Risikosituation des einzelnen Verpflichteten entsprechen und diese hinreichend abdecken. Die Verpflichteten haben die Funktionsfähigkeit der internen Sicherungsmaßnahmen zu überwachen und sie bei Bedarf zu aktualisieren.
 
@@ -441,8 +432,7 @@ Die Verpflichteten haben in ihrer Anzeige darzulegen, dass die Voraussetzungen f
 
 (9) Die Aufsichtsbehörde kann anordnen, dass auf einzelne Verpflichtete oder Gruppen von Verpflichteten wegen der Art der von diesen betriebenen Geschäfte und wegen der Größe des Geschäftsbetriebs unter Berücksichtigung der Risiken in Bezug auf Geldwäsche oder Terrorismusfinanzierung die Vorschriften der Absätze 1 bis 6 risikoangemessen anzuwenden sind.
 
-
-## § 7 – Geldwäschebeauftragter
+# § 7 – Geldwäschebeauftragter
 
 (1) Verpflichtete nach § 2 Absatz 1 Nummer 1 bis 3, 6, 7, 9 und 15 haben einen Geldwäschebeauftragten auf Führungsebene sowie einen Stellvertreter zu bestellen. Der Geldwäschebeauftragte ist für die Einhaltung der geldwäscherechtlichen Vorschriften zuständig; die Verantwortung der Leitungsebene bleibt hiervon unberührt. Der Geldwäschebeauftragte ist der Geschäftsleitung unmittelbar nachgeordnet.
 
@@ -462,8 +452,7 @@ Die Verpflichteten haben in ihrer Anzeige darzulegen, dass die Voraussetzungen f
 
 (7) Dem Geldwäschebeauftragten und dem Stellvertreter darf wegen der Erfüllung ihrer Aufgaben keine Benachteiligung im Beschäftigungsverhältnis entstehen. Die Kündigung des Arbeitsverhältnisses ist unzulässig, es sei denn, dass Tatsachen vorliegen, welche die verantwortliche Stelle zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigen. Nach der Abberufung als Geldwäschebeauftragter oder als Stellvertreter ist die Kündigung innerhalb eines Jahres nach der Beendigung der Bestellung unzulässig, es sei denn, dass die verantwortliche Stelle zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigt ist.
 
-
-## § 8 – Aufzeichnungs- und Aufbewahrungspflicht
+# § 8 – Aufzeichnungs- und Aufbewahrungspflicht
 
 (1) Vom Verpflichteten aufzuzeichnen und aufzubewahren sind
 
@@ -497,8 +486,7 @@ Die Aufzeichnungen nach Satz 1 Nummer 1 Buchstabe a schließen Aufzeichnungen ü
 
 (+++ § 8: Zur Anwendung vgl. § 25i Abs. 3 Satz 2 KredWG +++)
 
-
-## § 9 – Gruppenweite Pflichten
+# § 9 – Gruppenweite Pflichten
 
 (1) Verpflichtete, die Mutterunternehmen einer Gruppe sind, haben eine Risikoanalyse für alle Zweigstellen, Zweigniederlassungen und gruppenangehörigen Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4, die geldwäscherechtlichen Pflichten unterliegen, durchzuführen. Auf Grundlage dieser Risikoanalyse haben sie gruppenweit folgende Maßnahmen zu ergreifen:
 
@@ -530,8 +518,7 @@ Reichen die getroffenen Maßnahmen nicht aus, so ordnet die nach § 50 zuständi
 
 (5) Verpflichtete, die gruppenangehörige Unternehmen nach § 1 Absatz 16 Nummer 2 bis 4 eines Mutterunternehmens im Sinne von Absatz 1 sind, haben die in Absatz 1 Satz 2 Nummer 1, 3 und 4 genannten Maßnahmen umzusetzen. Alle anderen gruppenangehörigen Verpflichteten müssen die für sie geltenden gruppenweiten Pflichten umsetzen, die insbesondere Verfahren für den Informationsaustausch innerhalb der Gruppe zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung sowie Vorkehrungen zum Schutz von personenbezogenen Daten umfassen müssen. Die Pflichten nach den Sätzen 1 und 2 gelten unbeschadet der von den Verpflichteten zu beachtenden eigenen gesetzlichen Verpflichtung zur Erfüllung sonstiger geldwäscherechtlicher Vorschriften.
 
-
-## § 10 – Allgemeine Sorgfaltspflichten
+# § 10 – Allgemeine Sorgfaltspflichten
 
 (1) Die allgemeinen Sorgfaltspflichten sind:
 
@@ -621,8 +608,7 @@ c) Transaktionen über sonstige Güter, bei welchen sie Barzahlungen über minde
 (+++ § 10 Abs. 2 Satz 4: Zur Anwendung vgl. § 15 Abs. 2 +++)  
 (+++ § 10 Abs. 9: Zur Anwendung vgl. § 14 Abs. 3 +++)
 
-
-## § 11 – Identifizierung
+# § 11 – Identifizierung
 
 (1) Verpflichtete haben Vertragspartner, gegebenenfalls für diese auftretende Personen und wirtschaftlich Berechtigte vor Begründung der Geschäftsbeziehung oder vor Durchführung der Transaktion zu identifizieren. Die Identifizierung kann auch noch während der Begründung der Geschäftsbeziehung unverzüglich abgeschlossen werden, wenn dies erforderlich ist, um den normalen Geschäftsablauf nicht zu unterbrechen, und wenn ein geringes Risiko der Geldwäsche und der Terrorismusfinanzierung besteht.
 
@@ -664,8 +650,7 @@ e) die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzliche
 
 (7) Verwalter von Trusts und anderen Rechtsgestaltungen nach § 21 haben dem Verpflichteten ihren Status offenzulegen und ihm die Angaben nach § 21 Absatz 1 und 2 unverzüglich zu übermitteln, wenn sie in dieser Position eine Geschäftsbeziehung aufnehmen oder eine Transaktion oberhalb der in § 10 Absatz 3 Nummer 2, Absatz 5, Absatz 6 oder Absatz 6a genannten Schwellenbeträge durchführen.
 
-
-## § 11a – Verarbeitung personenbezogener Daten durch Verpflichtete
+# § 11a – Verarbeitung personenbezogener Daten durch Verpflichtete
 
 (1) Verpflichtete nach § 2 dürfen personenbezogene Daten nur verarbeiten, soweit dies auf Grundlage dieses Gesetzes für Zwecke der Verhinderung von Geldwäsche und Terrorismusfinanzierung erforderlich ist.
 
@@ -673,8 +658,7 @@ e) die Namen der Mitglieder des Vertretungsorgans oder die Namen der gesetzliche
 
 (3) Die Absätze 1 und 2 finden entsprechende Anwendung auf Dritte im Sinne von § 17, auf die ein Verpflichteter zur Erfüllung der allgemeinen Sorgfaltspflichten nach § 10 Absatz 1 Nummer 1 bis 4 zurückgreift.
 
-
-## § 12 – Identitätsüberprüfung, Verordnungsermächtigung
+# § 12 – Identitätsüberprüfung, Verordnungsermächtigung
 
 (1) Die Identitätsüberprüfung hat in den Fällen des § 10 Absatz 1 Nummer 1 bei natürlichen Personen zu erfolgen anhand
 
@@ -708,8 +692,7 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 13 – Verfahren zur Identitätsüberprüfung, Verordnungsermächtigung
+# § 13 – Verfahren zur Identitätsüberprüfung, Verordnungsermächtigung
 
 (1) Verpflichtete überprüfen die Identität der natürlichen Personen mit einem der folgenden Verfahren:
 
@@ -723,8 +706,7 @@ Im Fall der Identitätsüberprüfung anhand einer qualifizierten elektronischen 
 
 2. Verfahren bestimmen, die zur geldwäscherechtlichen Identifizierung nach Absatz 1 Nummer 2 geeignet sind.
 
-
-## § 14 – Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung
+# § 14 – Vereinfachte Sorgfaltspflichten, Verordnungsermächtigung
 
 (1) Verpflichtete müssen nur vereinfachte Sorgfaltspflichten erfüllen, soweit sie unter Berücksichtigung der in den Anlagen 1 und 2 genannten Risikofaktoren feststellen, dass in bestimmten Bereichen, insbesondere im Hinblick auf Kunden, Transaktionen und Dienstleistungen oder Produkte, nur ein geringes Risiko der Geldwäsche oder der Terrorismusfinanzierung besteht. Vor der Anwendung vereinfachter Sorgfaltspflichten haben sich die Verpflichteten zu vergewissern, dass die Geschäftsbeziehung oder Transaktion tatsächlich mit einem geringeren Risiko der Geldwäsche oder Terrorismusfinanzierung verbunden ist. Für die Darlegung der Angemessenheit gilt § 10 Absatz 2 Satz 4 entsprechend.
 
@@ -748,8 +730,7 @@ Die Verpflichteten müssen in jedem Fall die Überprüfung von Transaktionen und
 
 3. der überwiesene Betrag höchstens 1 000 Euro beträgt.
 
-
-## § 15 – Verstärkte Sorgfaltspflichten, Verordnungsermächtigung
+# § 15 – Verstärkte Sorgfaltspflichten, Verordnungsermächtigung
 
 (1) Die verstärkten Sorgfaltspflichten sind zusätzlich zu den allgemeinen Sorgfaltspflichten zu erfüllen.
 
@@ -857,8 +838,7 @@ Bei der Anordnung dieser Maßnahmen gilt für die zuständigen Aufsichtsbehörde
 
 Das Bundesministerium der Finanzen hat bei Erlass einer Rechtsverordnung nach dieser Vorschrift einschlägige Evaluierungen, Bewertungen oder Berichte internationaler Organisationen oder von Einrichtungen für die Festlegung von Standards mit Kompetenzen im Bereich der Verhinderung von Geldwäsche und der Bekämpfung von Terrorismusfinanzierung hinsichtlich der von einzelnen Drittstaaten ausgehenden Risiken zu berücksichtigen.
 
-
-## § 16 – Besondere Vorschriften für das Glücksspiel im Internet
+# § 16 – Besondere Vorschriften für das Glücksspiel im Internet
 
 (1) Für Verpflichtete nach § 2 Absatz 1 Nummer 15 gelten, soweit sie das Glücksspiel im Internet anbieten oder vermitteln, die besonderen Vorschriften der Absätze 2 bis 8. Bei der Anwendung der allgemeinen Sorgfaltspflichten findet der Schwellenbetrag nach § 10 Absatz 5 keine Anwendung.
 
@@ -894,8 +874,7 @@ Bei der Transaktion hat der Verpflichtete den Verwendungszweck dahingehend zu sp
 
 (8) Abweichend von § 11 kann der Verpflichtete bei einem Spieler, für den er ein Spielerkonto einrichtet, eine vorläufige Identifizierung durchführen. Die vorläufige Identifizierung kann anhand einer elektronisch oder auf dem Postweg übersandten Kopie eines Dokuments nach § 12 Absatz 1 Satz 1 Nummer 1 erfolgen. Eine vollständige Identifizierung ist unverzüglich nachzuholen. Sowohl die vorläufige als auch die vollständige Identifizierung kann auch anhand der glücksspielrechtlichen Anforderungen an Identifizierung und Authentifizierung erfolgen.
 
-
-## § 17 – Ausführung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung
+# § 17 – Ausführung der Sorgfaltspflichten durch Dritte, vertragliche Auslagerung
 
 (1) Zur Erfüllung der allgemeinen Sorgfaltspflichten nach § 10 Absatz 1 Nummer 1 bis 4 kann ein Verpflichteter auf Dritte zurückgreifen. Dritte dürfen nur sein
 
@@ -963,8 +942,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 (9) Bei der Übertragung nach Absatz 5 bleiben die Vorschriften über die Auslagerung von Aktivitäten und Prozessen nach § 25b des Kreditwesengesetzes unberührt.
 
-
-## § 18 – Einrichtung des Transparenzregisters und registerführende Stelle
+# § 18 – Einrichtung des Transparenzregisters und registerführende Stelle
 
 (1) Es wird ein Register zur Erfassung und Zugänglichmachung von Angaben über den wirtschaftlich Berechtigten (Transparenzregister) eingerichtet.
 
@@ -980,8 +958,7 @@ Absatz 3 Satz 2 und 3 gilt entsprechend.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die technischen Einzelheiten zu Einrichtung und Führung des Transparenzregisters einschließlich der Speicherung historischer Datensätze sowie die Einhaltung von Löschungsfristen für die im Transparenzregister gespeicherten Daten zu regeln.
 
-
-## § 19 – Angaben zum wirtschaftlich Berechtigten
+# § 19 – Angaben zum wirtschaftlich Berechtigten
 
 (1) Über das Transparenzregister sind im Hinblick auf Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 folgende Angaben zum wirtschaftlich Berechtigten nach Maßgabe des § 23 zugänglich:
 
@@ -1009,8 +986,7 @@ c) der Funktion des gesetzlichen Vertreters, geschäftsführenden Gesellschafter
 
 2. bei Rechtsgestaltungen nach § 21 und rechtsfähigen Stiftungen aus einer der in § 3 Absatz 3 aufgeführten Funktionen.
 
-
-## § 20 – Transparenzpflichten im Hinblick auf bestimmte Vereinigungen
+# § 20 – Transparenzpflichten im Hinblick auf bestimmte Vereinigungen
 
 (1) Juristische Personen des Privatrechts und eingetragene Personengesellschaften haben die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten dieser Vereinigungen einzuholen, aufzubewahren, auf aktuellem Stand zu halten und der registerführenden Stelle unverzüglich zur Eintragung in das Transparenzregister mitzuteilen. Die Pflicht nach Satz 1 gilt auch für Vereinigungen mit Sitz im Ausland, wenn sie sich verpflichten, Eigentum an einer im Inland gelegenen Immobilie zu erwerben. Die Pflicht nach Satz 1 gilt nicht für in Satz 2 genannte Vereinigungen, wenn sie die Angaben nach Artikel 1 Nummer 15 Buchstabe c der Richtlinie (EU) 2018/843 und nach § 19 Absatz 1 bereits an ein anderes Register eines Mitgliedstaates der Europäischen Union übermittelt haben. Die Mitteilung hat elektronisch in einer Form zu erfolgen, die ihre elektronische Zugänglichmachung ermöglicht. Bei den Angaben zu Art und Umfang des wirtschaftlichen Interesses nach § 19 Absatz 1 Nummer 4 ist anzugeben, woraus nach § 19 Absatz 3 die Stellung als wirtschaftlich Berechtigter folgt, sofern nicht Absatz 2 Satz 2 einschlägig ist.
 
@@ -1054,8 +1030,7 @@ Der Anteilseigner hat die Mitteilung an die Vereinigung zu dokumentieren und auf
 
 (5) Die Zentralstelle für Finanztransaktionsuntersuchungen und die Aufsichtsbehörden können im Rahmen ihrer Aufgaben und Befugnisse die nach Absatz 1 aufbewahrten Angaben einsehen oder sich vorlegen lassen. Die Angaben sind ihnen unverzüglich zur Verfügung zu stellen.
 
-
-## § 21 – Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen
+# § 21 – Transparenzpflichten im Hinblick auf bestimmte Rechtsgestaltungen
 
 (1) Verwalter von Trusts (Trustees) mit Wohnsitz oder Sitz in Deutschland haben die in § 19 Absatz 1 aufgeführten Angaben zu den wirtschaftlich Berechtigten des Trusts, den sie verwalten, und die Staatsangehörigkeit der wirtschaftlich Berechtigten einzuholen, aufzubewahren, auf aktuellem Stand zu halten und der registerführenden Stelle unverzüglich zur Eintragung in das Transparenzregister mitzuteilen. Die Pflicht nach Satz 1 gilt auch für Trustees, die außerhalb der Europäischen Union ihren Wohnsitz oder Sitz haben, wenn sie für den Trust eine Geschäftsbeziehung mit einem Vertragspartner mit Sitz in Deutschland aufnehmen oder sich verpflichten, Eigentum an einer im Inland gelegenen Immobilie zu erwerben. Die Pflicht nach Satz 1 gilt nicht für die in Satz 2 genannten Trustees, wenn ein Trustee die Angaben nach Artikel 1 Nummer 16 Buchstabe a der Richtlinie (EU) 2018/843 und nach § 19 Absatz 1 bereits an ein anderes Register eines Mitgliedstaates der Europäischen Union übermittelt hat und
 
@@ -1083,8 +1058,7 @@ Der Anteilseigner hat die Mitteilung an die Vereinigung zu dokumentieren und auf
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten zu regeln, welche Trusts und trustähnlichen Rechtsgestaltungen von § 21 Absatz 1 und 2 erfasst sind und durch welche Merkmale sich diese auszeichnen.
 
-
-## § 22 – Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung
+# § 22 – Zugängliche Dokumente und Datenübermittlung an das Transparenzregister, Verordnungsermächtigung
 
 (1) Über die Internetseite des Transparenzregisters sind nach Maßgabe des § 23 zugänglich:
 
@@ -1112,8 +1086,7 @@ Zugänglich in dem nach den besonderen registerrechtlichen Vorschriften für die
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Registrierungsverfahren für die Mitteilungsverpflichteten nach den §§ 20 und 21 sowie technische Einzelheiten der Datenübermittlung nach Absatz 2 Satz 2 sowie nach den §§ 20 und 21 einschließlich der Vorgaben für die zu verwendenden Datenformate und Formulare sowie zur Sicherstellung von Datenschutz und Datensicherheit zu regeln.
 
-
-## § 23 – Einsichtnahme in das Transparenzregister, Verordnungsermächtigung
+# § 23 – Einsichtnahme in das Transparenzregister, Verordnungsermächtigung
 
 (1) Bei Vereinigungen nach § 20 Absatz 1 Satz 1 und Rechtsgestaltungen nach § 21 ist die Einsichtnahme gestattet:
 
@@ -1185,8 +1158,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (+++ § 23 Abs. 1 bis 3: Zur Anwendung vgl. § 26 Abs. 1 u. § 59 Abs. 3 +++)
 
-
-## § 23a – Meldung von Unstimmigkeiten an die registerführende Stelle
+# § 23a – Meldung von Unstimmigkeiten an die registerführende Stelle
 
 (1) Verpflichtete nach § 23 Absatz 1 Satz 1 Nummer 2 haben der registerführenden Stelle Unstimmigkeiten unverzüglich zu melden, die sie zwischen den Angaben über die wirtschaftlich Berechtigten, die im Transparenzregister zugänglich sind, und den ihnen zur Verfügung stehenden Angaben und Erkenntnissen über die wirtschaftlich Berechtigten feststellen. § 43 Absatz 2 gilt entsprechend. Zuständige Behörden nach § 23 Absatz 1 Satz 1 Nummer 1 Buchstabe a und b trifft die Pflicht nach Satz 1, sofern dadurch die Aufgabenwahrnehmung der Behörden nicht beeinträchtigt wird. Eine Unstimmigkeit nach Satz 1 besteht, wenn Eintragungen nach § 20 Absatz 1 und 2 sowie nach § 21 Absatz 1 und 2 fehlen, einzelne Angaben zu den wirtschaftlich Berechtigten nach § 19 Absatz 1 abweichen oder wenn abweichende wirtschaftlich Berechtigte ermittelt wurden. Die der Unstimmigkeitsmeldung zugrunde liegende Ermittlung der wirtschaftlich Berechtigten hat nach den Vorgaben des § 3 zu erfolgen.
 
@@ -1204,8 +1176,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (6) Nach Eingang der Unstimmigkeitsmeldung nach Absatz 1 hat die registerführende Stelle auf dem Registerauszug sichtbar zu vermerken, dass die Angaben zu den wirtschaftlich Berechtigten der Vereinigung nach § 20 oder der Rechtsgestaltung nach § 21 der Prüfung unterliegen. Der Abschluss des Verfahrens zur Prüfung der Unstimmigkeitsmeldung ist auf dem Registerauszug zu vermerken.
 
-
-## § 24 – Gebühren und Auslagen, Verordnungsermächtigung
+# § 24 – Gebühren und Auslagen, Verordnungsermächtigung
 
 (1) Für die Führung des Transparenzregisters erhebt die registerführende Stelle von Vereinigungen nach § 20 und von Rechtsgestaltungen nach § 21 Gebühren. Dies gilt auf Antrag nicht für Vereinigungen nach § 20, die einen steuerbegünstigten Zweck im Sinne der §§ 52 bis 54 der Abgabenordnung verfolgen und dies mittels einer Bescheinigung des zuständigen Finanzamtes gegenüber der registerführenden Stelle nachweisen.
 
@@ -1225,8 +1196,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 5. das Verfahren für eine Gebührenbefreiung nach Absatz 1 Satz 2.
 
-
-## § 25 – Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung
+# § 25 – Übertragung der Führung des Transparenzregisters, Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine juristische Person des Privatrechts mit den Aufgaben der registerführenden Stelle und mit den hierfür erforderlichen Befugnissen zu beleihen.
 
@@ -1250,8 +1220,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (7) Für den Fall, dass keine juristische Person des Privatrechts beliehen wird, oder für den Fall, dass die Beleihung beendet wird, kann das Bundesministerium der Finanzen die Führung des Transparenzregisters auf eine Bundesoberbehörde in seinem Geschäftsbereich oder im Einvernehmen mit dem zuständigen Bundesministerium auf eine Bundesoberbehörde in dessen Geschäftsbereich übertragen.
 
-
-## § 26 – Europäisches System der Registervernetzung, Verordnungsermächtigung
+# § 26 – Europäisches System der Registervernetzung, Verordnungsermächtigung
 
 (1) Die in § 22 Absatz 1 Satz 1 aufgeführten Daten sind, sofern sie juristische Personen des Privatrechts und eingetragene Personengesellschaften nach § 20 sowie Rechtsgestaltungen nach § 21 betreffen, über die durch Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts geschaffene zentrale Europäische Plattform zugänglich. § 23 Absatz 1 bis 3 gilt entsprechend. Zur Zugänglichmachung über die zentrale Europäische Plattform übermittelt die registerführende Stelle die dem Transparenzregister nach § 20 Absatz 1 und § 21 mitgeteilten Daten sowie die Indexdaten nach § 22 Absatz 2 an die zentrale Europäische Plattform nach Artikel 22 Absatz 1 der Richtlinie (EU) 2017/1132 und Artikel 4a Absatz 1 der Richtlinie 2009/101/EG des Europäischen Parlaments und des Rates vom 16. September 2009 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 48 Absatz 2 des Vertrags im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. L 258 vom 1.10.2009, S. 11), die zuletzt durch die Richtlinie 2013/24/EU (ABl. L 158 vom 10.6.2013, S. 365) geändert worden ist, sofern die Übermittlung für die Eröffnung eines Zugangs zu den Originaldaten über den Suchdienst auf der Internetseite der zentralen Europäischen Plattform erforderlich ist.
 
@@ -1261,8 +1230,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (4) Das Bundesministerium der Finanzen wird im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die erforderlichen Bestimmungen über die Einzelheiten des elektronischen Datenverkehrs und seiner Abwicklung nach Absatz 1 einschließlich Vorgaben über Datenformate und Zahlungsmodalitäten zu treffen, soweit keine Regelungen in den von der Europäischen Kommission gemäß Artikel 24 der Richtlinie (EU) 2017/1132 und Artikel 31a der Richtlinie (EU) 2018/843 erlassenen Durchführungsrechtsakten enthalten sind.
 
-
-## § 26a – Abruf durch die Zentralstelle für Finanztransaktionsuntersuchungen und die Strafverfolgungsbehörden
+# § 26a – Abruf durch die Zentralstelle für Finanztransaktionsuntersuchungen und die Strafverfolgungsbehörden
 
 (1) Die registerführende Stelle übermittelt der Zentralstelle für Finanztransaktionsuntersuchungen für Zwecke nach § 28 Absatz 1 Satz 2 Nummer 2, 4 und 8 und den Strafverfolgungsbehörden für ihre Aufgabenerfüllung die erforderlichen Informationen aus dem Transparenzregister.
 
@@ -1270,15 +1238,13 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (3) Die beteiligten Stellen haben zu gewährleisten, dass für Abfragen nach Absatz 1 dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gewährleisten.
 
-
-## § 27 – Zentrale Meldestelle
+# § 27 – Zentrale Meldestelle
 
 (1) Zentrale Meldestelle zur Verhinderung, Aufdeckung und Unterstützung bei der Bekämpfung von Geldwäsche und Terrorismusfinanzierung nach Artikel 32 Absatz 1 der Richtlinie (EU) 2015/849 ist die Zentralstelle für Finanztransaktionsuntersuchungen.
 
 (2) Die Zentralstelle für Finanztransaktionsuntersuchungen ist organisatorisch eigenständig und arbeitet im Rahmen ihrer Aufgaben und Befugnisse fachlich unabhängig.
 
-
-## § 28 – Aufgaben, Aufsicht und Zusammenarbeit
+# § 28 – Aufgaben, Aufsicht und Zusammenarbeit
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat die Aufgabe der Erhebung und Analyse von Informationen im Zusammenhang mit Geldwäsche oder Terrorismusfinanzierung und der Weitergabe dieser Informationen an die zuständigen inländischen öffentlichen Stellen zum Zwecke der Aufklärung, Verhinderung oder Verfolgung solcher Taten. Ihr obliegen in diesem Zusammenhang:
 
@@ -1314,8 +1280,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (4) Die Zentralstelle für Finanztransaktionsuntersuchungen informiert, soweit erforderlich, die für das Besteuerungsverfahren oder den Schutz der sozialen Sicherungssysteme zuständigen Behörden über Sachverhalte, die ihr bei der Wahrnehmung ihrer Aufgaben bekannt werden und die sie nicht an eine andere zuständige staatliche Stelle übermittelt hat.
 
-
-## § 29 – Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen
+# § 29 – Verarbeitung personenbezogener Daten durch die Zentralstelle für Finanztransaktionsuntersuchungen
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten verarbeiten, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
@@ -1323,8 +1288,7 @@ Die beantragte Auskunft ist mindestens einmal im Kalenderjahr, höchstens jedoch
 
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen darf personenbezogene Daten, die bei ihr vorhanden sind, zu Fortbildungszwecken oder zu statistischen Zwecken verarbeiten, soweit eine Verarbeitung anonymisierter Daten zu diesen Zwecken nicht möglich ist.
 
-
-## § 30 – Entgegennahme und Analyse von Meldungen
+# § 30 – Entgegennahme und Analyse von Meldungen
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hat zur Erfüllung ihrer Aufgaben folgende Meldungen und Informationen entgegenzunehmen und zu verarbeiten:
 
@@ -1344,8 +1308,7 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 (3) Die Zentralstelle für Finanztransaktionsuntersuchungen kann unabhängig vom Vorliegen einer Meldung Informationen von Verpflichteten einholen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist. Zur Beantwortung ihres Auskunftsverlangens gewährt sie dem Verpflichteten eine angemessene Frist. Verpflichtete nach § 2 Absatz 1 Nummer 10 und 12 können die Auskunft verweigern, soweit sich das Auskunftsverlangen auf Informationen bezieht, die sie im Rahmen der Rechtsberatung oder der Prozessvertretung des Vertragspartners erhalten haben. Die Auskunftspflicht bleibt jedoch bestehen, wenn der Verpflichtete weiß, dass der Vertragspartner die Rechtsberatung für den Zweck der Geldwäsche oder der Terrorismusfinanzierung in Anspruch genommen hat oder nimmt.
 
-
-## § 31 – Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht
+# § 31 – Auskunftsrecht gegenüber inländischen öffentlichen Stellen, Datenzugriffsrecht
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann, soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, bei inländischen öffentlichen Stellen Daten erheben. Die inländischen öffentlichen Stellen erteilen der Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung von deren Aufgaben auf deren Ersuchen Auskunft, soweit der Auskunft keine Übermittlungsbeschränkungen entgegenstehen.
 
@@ -1377,8 +1340,7 @@ b) nach § 12a des Zollverwaltungsgesetzes, und
 
 3. Ausstellungsbehörde, Ausstellungsdatum, Gültigkeitsdauer, Seriennummer des Personalausweises, vorläufigen Personalausweises oder Ersatzpersonalausweises, des anerkannten und gültigen Passes oder Passersatzpapiers.
 
-
-## § 32 – Datenübermittlungsverpflichtung an inländische öffentliche Stellen
+# § 32 – Datenübermittlungsverpflichtung an inländische öffentliche Stellen
 
 (1) Meldungen nach § 43 Absatz 1, § 44 sind von der Zentralstelle für Finanztransaktionsuntersuchungen unverzüglich an das Bundesamt für Verfassungsschutz zu übermitteln, soweit tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung dieser Informationen für die Erfüllung der Aufgaben des Bundesamtes für Verfassungsschutz erforderlich ist.
 
@@ -1420,8 +1382,7 @@ Soweit ein Abruf nach Absatz 4 zu Daten erfolgt, zu denen Übermittlungsbeschrä
 
 (7) Der Empfänger darf die ihm übermittelten personenbezogenen Daten nur zu dem Zweck verwenden, zu dem sie ihm übermittelt worden sind. Eine Verwendung für andere Zwecke ist zulässig, soweit die Daten auch dafür hätten übermittelt werden dürfen.
 
-
-## § 33 – Datenaustausch mit Mitgliedstaaten der Europäischen Union
+# § 33 – Datenaustausch mit Mitgliedstaaten der Europäischen Union
 
 (1) Der Datenaustausch mit den für die Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und von Terrorismusfinanzierung zuständigen zentralen Meldestellen anderer Mitgliedstaaten der Europäischen Union ist unabhängig von der Art der Vortat der Geldwäsche und auch dann, wenn die Art der Vortat nicht feststeht, zu gewährleisten. Insbesondere steht eine im Einzelfall abweichende Definition der Steuerstraftaten, die nach nationalem Recht eine taugliche Vortat zur Geldwäsche sein können, einem Informationsaustausch mit zentralen Meldestellen anderer Mitgliedstaaten der Europäischen Union nicht entgegen. Geht bei der Zentralstelle für Finanztransaktionsuntersuchungen eine Meldung nach § 43 Absatz 1 ein, die die Zuständigkeit eines anderen Mitgliedstaates betrifft, so leitet sie diese Meldung umgehend an die zentrale Meldestelle des betreffenden Mitgliedstaates weiter. Hierzu kann die Zentralstelle für Finanztransaktionsuntersuchungen mit den Zentralstellen anderer Mitgliedstaaten ein System zur verschlüsselten automatisierten Weiterleitung einrichten und betreiben.
 
@@ -1445,8 +1406,7 @@ Die Gründe für die Ablehnung des Informationsersuchens legt die Zentralstelle 
 
 (6) Die Zentralstelle für Finanztransaktionsuntersuchungen benennt eine zentrale Kontaktstelle, die für die Annahme von Informationsersuchen der zentralen Meldestellen anderer Mitgliedstaaten nach dieser Vorschrift zuständig ist.
 
-
-## § 34 – Informationsersuchen im Rahmen der internationalen Zusammenarbeit
+# § 34 – Informationsersuchen im Rahmen der internationalen Zusammenarbeit
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen kann die zentralen Meldestellen anderer Staaten, die mit der Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche, von Vortaten der Geldwäsche sowie von Terrorismusfinanzierung befasst sind, um die Erteilung von Auskünften einschließlich der personenbezogenen Daten oder der Übermittlung von Unterlagen ersuchen, wenn diese Informationen und Unterlagen erforderlich sind zur Erfüllung ihrer Aufgaben.
 
@@ -1460,8 +1420,7 @@ Die Gründe für die Ablehnung des Informationsersuchens legt die Zentralstelle 
 
 Sollen die übermittelten Daten nachträglich an eine andere öffentliche Stelle weitergegeben werden oder für einen Zweck genutzt werden, der über die ursprünglichen Zwecke hinausgeht, so ist vorher die Zustimmung der übermittelnden zentralen Meldestelle einzuholen.
 
-
-## § 35 – Datenübermittlung im Rahmen der internationalen Zusammenarbeit
+# § 35 – Datenübermittlung im Rahmen der internationalen Zusammenarbeit
 
 (1) Geht bei der Zentralstelle für Finanztransaktionsuntersuchungen eine Meldung nach § 43 Absatz 1 ein, die die Zuständigkeit eines anderen Staates betrifft, so kann sie diese Meldung umgehend an die zentrale Meldestelle des betreffenden Staates weiterleiten. Sie weist die zentrale Meldestelle des betreffenden Staates darauf hin, dass die personenbezogenen Daten nur zu dem Zweck genutzt werden dürfen, zu dem sie übermittelt worden sind.
 
@@ -1519,13 +1478,11 @@ Zu den schutzwürdigen Interessen der betroffenen Person gehört auch das Vorhan
 
 (+++ § 35 Abs. 2 bis 6: Zur Anwendung vgl. § 33 Abs. 2 +++)
 
-
-## § 36 – Automatisierter Datenabgleich im europäischen Verbund
+# § 36 – Automatisierter Datenabgleich im europäischen Verbund
 
 Die Zentralstelle für Finanztransaktionsuntersuchungen kann im Verbund mit zentralen Meldestellen anderer Mitgliedstaaten der Europäischen Union ein System zum verschlüsselten automatisierten Abgleich von dazu geeigneten Daten, die die nationalen zentralen Meldestellen im Rahmen ihrer Aufgabenerfüllung erhoben haben, einrichten und betreiben. Zweck dieses Systems ist es, Kenntnis davon zu erlangen, ob zu einer betreffenden Person bereits durch zentrale Meldestellen anderer Mitgliedstaaten der Europäischen Union eine Analyse nach § 30 durchgeführt wurde oder anderweitige Informationen zu dieser Person dort vorliegen.
 
-
-## § 37 – Berichtigung, Einschränkung der Verarbeitung und Löschung personenbezogener Daten aus automatisierter Verarbeitung und bei Speicherung in automatisierten Dateien
+# § 37 – Berichtigung, Einschränkung der Verarbeitung und Löschung personenbezogener Daten aus automatisierter Verarbeitung und bei Speicherung in automatisierten Dateien
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen berichtigt unrichtig gespeicherte personenbezogene Daten, die sie automatisiert verarbeitet.
 
@@ -1551,8 +1508,7 @@ Der eingeschränkten Verarbeitung unterliegende Daten dürfen nur für den Zweck
 
 (+++ § 37 Abs. 3 Satz 2 u. 3: Zur Anwendung vgl. § 38 Abs. 4 +++)
 
-
-## § 38 – Berichtigung, Einschränkung der Verarbeitung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet werden noch in einer automatisierten Datei gespeichert sind
+# § 38 – Berichtigung, Einschränkung der Verarbeitung und Vernichtung personenbezogener Daten, die weder automatisiert verarbeitet werden noch in einer automatisierten Datei gespeichert sind
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen hält in geeigneter Weise fest, wenn
 
@@ -1582,8 +1538,7 @@ In diesen Fällen schränkt die Zentralstelle für Finanztransaktionsuntersuchun
 
 (6) Für den Fall, dass unrichtige, zu löschende oder in der Verarbeitung einzuschränkende personenbezogene Daten übermittelt worden sind, gilt § 37 Absatz 7 entsprechend.
 
-
-## § 39 – Errichtungsanordnung
+# § 39 – Errichtungsanordnung
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen erlässt für jede automatisierte Datei mit personenbezogenen Daten, die sie zur Erfüllung ihrer Aufgaben führt, eine Errichtungsanordnung. Die Errichtungsanordnung bedarf der Zustimmung des Bundesministeriums der Finanzen. Vor Erlass einer Errichtungsanordnung ist die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit anzuhören.
 
@@ -1613,8 +1568,7 @@ Die Fristen für die Überprüfung der gespeicherten Daten dürfen fünf Jahre n
 
 (4) In angemessenen Abständen ist die Notwendigkeit der Weiterführung oder der Änderung der Errichtungsanordnung zu überprüfen.
 
-
-## § 40 – Sofortmaßnahmen
+# § 40 – Sofortmaßnahmen
 
 (1) Liegen der Zentralstelle für Finanztransaktionsuntersuchungen Anhaltspunkte dafür vor, dass eine Transaktion im Zusammenhang mit Geldwäsche steht oder der Terrorismusfinanzierung dient, oder erhält sie eine Meldung nach Artikel 23 Absatz 2 der Verordnung (EU) 2017/1509 des Rates vom 30. August 2017 über restriktive Maßnahmen gegen die Demokratische Volksrepublik Korea, so kann sie die Durchführung der Transaktion untersagen, um den Anhaltspunkten nachzugehen und die Transaktion zu analysieren. Außerdem kann sie unter den Voraussetzungen des Satzes 1
 
@@ -1650,15 +1604,13 @@ b) sonstige Finanztransaktionen durchzuführen,
 
 (6) Gegen Maßnahmen nach Absatz 1 kann der Verpflichtete oder ein anderer Beschwerter Widerspruch erheben. Der Widerspruch hat keine aufschiebende Wirkung.
 
-
-## § 41 – Rückmeldung an den meldenden Verpflichteten
+# § 41 – Rückmeldung an den meldenden Verpflichteten
 
 (1) Die Zentralstelle für Finanztransaktionsuntersuchungen bestätigt dem Verpflichteten, der eine Meldung nach § 43 Absatz 1 durch elektronische Datenübermittlung abgegeben hat, unverzüglich den Eingang seiner Meldung.
 
 (2) Die Zentralstelle für Finanztransaktionsuntersuchungen gibt dem Verpflichteten in angemessener Zeit Rückmeldung zur Relevanz seiner Meldung. Der Verpflichtete darf hierdurch erlangte personenbezogene Daten nur zur Verbesserung seines Risikomanagements, der Erfüllung seiner Sorgfaltspflichten und seines Meldeverhaltens nutzen. Er hat diese Daten zu löschen, wenn sie für den jeweiligen Zweck nicht mehr erforderlich sind, spätestens jedoch nach einem Jahr.
 
-
-## § 42 – Benachrichtigung von inländischen öffentlichen Stellen an die Zentralstelle für Finanztransaktionsuntersuchungen
+# § 42 – Benachrichtigung von inländischen öffentlichen Stellen an die Zentralstelle für Finanztransaktionsuntersuchungen
 
 (1) In Strafverfahren, in denen die Zentralstelle für Finanztransaktionsuntersuchungen Informationen weitergeleitet hat, teilt die zuständige Staatsanwaltschaft der Zentralstelle für Finanztransaktionsuntersuchungen die Erhebung der öffentlichen Klage und den Ausgang des Verfahrens einschließlich aller Einstellungsentscheidungen mit. Die Mitteilung erfolgt durch Übersendung einer Kopie der Anklageschrift, der begründeten Einstellungsentscheidung oder des Urteils.
 
@@ -1666,8 +1618,7 @@ b) sonstige Finanztransaktionen durchzuführen,
 
 § 42 Abs. 2 Satz 2: Eingef. durch Art. 1 Nr. 32 G v. 12.12.2019 I 2602 mWv 1.1.2020 (Kursivdruck: Müsste richtig "Abgabenordnung" lauten)
 
-
-## § 43 – Meldepflicht von Verpflichteten, Verordnungsermächtigung
+# § 43 – Meldepflicht von Verpflichteten, Verordnungsermächtigung
 
 (1) Liegen Tatsachen vor, die darauf hindeuten, dass
 
@@ -1696,15 +1647,13 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 (+++ § 43 Abs. 1: Zur Anwendung vgl. § 54 Abs. 3 VAG 2016 +++)  
 (+++ § 43 Abs. 2: Zur Anwendung vgl. § 23a Abs. 1 +++)
 
-
-## § 44 – Meldepflicht von Aufsichtsbehörden
+# § 44 – Meldepflicht von Aufsichtsbehörden
 
 (1) Liegen Tatsachen vor, die darauf hindeuten, dass ein Vermögensgegenstand mit Geldwäsche oder mit Terrorismusfinanzierung im Zusammenhang steht, meldet die Aufsichtsbehörde diese Tatsachen unverzüglich der Zentralstelle für Finanztransaktionsuntersuchungen.
 
 (2) Absatz 1 gilt entsprechend für Behörden, die für die Überwachung der Aktien-, Devisen- und Finanzderivatemärkte zuständig sind.
 
-
-## § 45 – Form der Meldung, Registrierungspflicht, Ausführung durch Dritte, Verordnungsermächtigung
+# § 45 – Form der Meldung, Registrierungspflicht, Ausführung durch Dritte, Verordnungsermächtigung
 
 (1) Die Meldung nach § 43 Absatz 1 oder § 44 hat elektronisch zu erfolgen. Verpflichtete nach § 2 Absatz 1 haben sich unabhängig von der Abgabe einer Verdachtsmeldung bei der Zentralstelle für Finanztransaktionsuntersuchungen elektronisch zu registrieren. Bei einer Störung der elektronischen Datenübermittlung ist die Übermittlung auf dem Postweg zulässig. Meldungen nach § 44 sind aufgrund des besonderen Bedürfnisses nach einem einheitlichen Datenübermittlungsverfahren auch für die aufsichtsführenden Landesbehörden bindend.
 
@@ -1716,8 +1665,7 @@ so hat der Verpflichtete diesen Sachverhalt unabhängig vom Wert des betroffenen
 
 (5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen über die Form der Meldung nach § 43 Absatz 1 oder § 44 erlassen. Von Absatz 1 und den Regelungen einer Rechtsverordnung nach Satz 1 kann durch Landesrecht nicht abgewichen werden.
 
-
-## § 46 – Durchführung von Transaktionen
+# § 46 – Durchführung von Transaktionen
 
 (1) Eine Transaktion, wegen der eine Meldung nach § 43 Absatz 1 erfolgt ist, darf frühestens durchgeführt werden, wenn
 
@@ -1729,8 +1677,7 @@ Für die Berechnung der Frist gilt der Samstag nicht als Werktag.
 
 (2) Ist ein Aufschub der Transaktion, bei der Tatsachen vorliegen, die auf einen Sachverhalt nach § 43 Absatz 1 hindeuten, nicht möglich oder könnte durch den Aufschub die Verfolgung einer mutmaßlichen strafbaren Handlung behindert werden, so darf die Transaktion durchgeführt werden. Die Meldung nach § 43 Absatz 1 ist vom Verpflichteten unverzüglich nachzuholen.
 
-
-## § 47 – Verbot der Informationsweitergabe, Verordnungsermächtigung
+# § 47 – Verbot der Informationsweitergabe, Verordnungsermächtigung
 
 (1) Ein Verpflichteter darf den Vertragspartner, den Auftraggeber der Transaktion und sonstige Dritte nicht in Kenntnis setzen von
 
@@ -1794,8 +1741,7 @@ Die Informationen dürfen auch unter Verwendung von Datenbanken zur Kenntnis geg
 
 (+++ § 47 Abs. 5: Zur Anwendung vgl. § 25h Abs. 3 Satz 4 KredWG +++)
 
-
-## § 48 – Freistellung von der Verantwortlichkeit
+# § 48 – Freistellung von der Verantwortlichkeit
 
 (1) Wer Sachverhalte nach § 43 Absatz 1 meldet oder eine Strafanzeige nach § 158 der Strafprozessordnung erstattet, darf wegen dieser Meldung oder Strafanzeige nicht verantwortlich gemacht werden, es sei denn, die Meldung oder Strafanzeige ist vorsätzlich oder grob fahrlässig unwahr erstattet worden.
 
@@ -1805,8 +1751,7 @@ Die Informationen dürfen auch unter Verwendung von Datenbanken zur Kenntnis geg
 
 2. ein Verpflichteter oder einer seiner Beschäftigten einem Auskunftsverlangen der Zentralstelle für Finanztransaktionsuntersuchungen nach § 30 Absatz 3 Satz 1 nachkommt.
 
-
-## § 49 – Informationszugang und Schutz der meldenden Beschäftigten
+# § 49 – Informationszugang und Schutz der meldenden Beschäftigten
 
 (1) Ist die Analyse aufgrund eines nach § 43 gemeldeten Sachverhalts noch nicht abgeschlossen, so kann die Zentralstelle für Finanztransaktionsuntersuchungen dem Betroffenen auf Anfrage Auskunft über die zu ihm vorliegenden Informationen geben, wenn dadurch der Analysezweck nicht beeinträchtigt wird. Gibt sie dem Betroffenen Auskunft, so macht sie die personenbezogenen Daten der Einzelperson, die die Meldung nach § 43 Absatz 1 abgegeben hat, unkenntlich.
 
@@ -1828,8 +1773,7 @@ In der Auskunft macht sie personenbezogene Daten der Einzelperson, die eine Meld
 
 (5) Einer Person, die aufgrund der Abgabe einer Meldung nach § 43 Absatz 1 oder aufgrund der internen Meldung eines solchen Sachverhalts an den Verpflichteten entgegen dem Benachteiligungsverbot des Absatzes 4 einer Benachteiligung im Zusammenhang mit ihrem Beschäftigungsverhältnis ausgesetzt ist, steht bei der zuständigen Aufsichtsbehörde nach § 50 das Recht der Beschwerde zu. Der Rechtsweg bleibt von dem Beschwerdeverfahren unberührt. Dem Beschwerdeführer steht für die Einreichung der Beschwerde nach Satz 1 das vertrauliche Informationssystem der Aufsichtsbehörde nach § 53 Absatz 1 Satz 2 zur Verfügung.
 
-
-## § 50 – Zuständige Aufsichtsbehörde
+# § 50 – Zuständige Aufsichtsbehörde
 
 Zuständige Aufsichtsbehörde für die Durchführung dieses Gesetzes ist
 
@@ -1865,15 +1809,13 @@ i) die Kreditanstalt für Wiederaufbau,
 
 7. für Steuerberater und Steuerbevollmächtigte nach § 2 Absatz 1 Nummer 12 die jeweils örtlich zuständige Steuerberaterkammer (§ 76 des Steuerberatungsgesetzes),
 
-7a.  
-für Vereine nach § 4 Nummer 11 des Steuerberatungsgesetzes die für die Aufsicht nach § 27 des Steuerberatungsgesetzes zuständige Behörde,
+7a. für Vereine nach § 4 Nummer 11 des Steuerberatungsgesetzes die für die Aufsicht nach § 27 des Steuerberatungsgesetzes zuständige Behörde,
 
 8. für die Veranstalter und Vermittler von Glücksspielen nach § 2 Absatz 1 Nummer 15, soweit das Landesrecht nichts anderes bestimmt, die für die glücksspielrechtliche Aufsicht zuständige Behörde und
 
 9. im Übrigen die jeweils nach Bundes- oder Landesrecht zuständige Stelle.
 
-
-## § 51 – Aufsicht
+# § 51 – Aufsicht
 
 (1) Die Aufsichtsbehörden üben die Aufsicht über die Verpflichteten aus.
 
@@ -1941,8 +1883,7 @@ Die Aufsichtsbehörden haben dem Bundesministerium der Finanzen und der Zentrals
 
 (10) Die zuständigen Aufsichtsbehörden unterrichten das Bundesministerium der Finanzen vor der Anordnung oder der Anwendung der in § 15 Absatz 5a genannten Maßnahmen. Das Bundesministerium der Finanzen unterrichtet die Europäische Kommission vor der Anordnung oder der Anwendung der in § 15 Absatz 5a genannten Maßnahmen durch die zuständigen Aufsichtsbehörden sowie über den Erlass einer Rechtsverordnung nach § 15 Absatz 10 Satz 1 Nummer 2.
 
-
-## § 51a – Verarbeitung personenbezogener Daten durch Aufsichtsbehörden
+# § 51a – Verarbeitung personenbezogener Daten durch Aufsichtsbehörden
 
 (1) Die nach diesem Gesetz zuständigen Aufsichtsbehörden sind befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
 
@@ -1962,8 +1903,7 @@ Unter diesen Voraussetzungen ist die zuständige Aufsichtsbehörde auch von den 
 
 (4) Wird der betroffenen Person in den Fällen des Absatzes 2 Satz 1 bis 3 keine Auskunft erteilt, so ist auf ihr Verlangen je nach Zuständigkeit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit oder der nach Landesrecht für den Datenschutz zuständigen Aufsichtsbehörde die Auskunft zu erteilen, soweit nicht im Einzelfall festgestellt wird, dass dadurch die öffentliche Sicherheit des Bundes oder eines Landes oder die Stabilität und Integrität der Finanzmärkte gefährdet würde. Die Mitteilung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit oder der nach Landesrecht für den Datenschutz zuständigen Aufsichtsbehörde an die betroffene Person über das Ergebnis der datenschutzrechtlichen Prüfung darf keine Rückschlüsse auf den Erkenntnisstand der zuständigen Aufsichtsbehörde und der Personen und Einrichtungen, derer sich die zuständige Aufsichtsbehörde bei der Durchführung ihrer Aufgaben bedient, zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
-
-## § 52 – Mitwirkungspflichten
+# § 52 – Mitwirkungspflichten
 
 (1) Ein Verpflichteter, die Mitglieder seiner Organe und seine Beschäftigten haben der nach § 50 Nummer 1 zuständigen Aufsichtsbehörde, soweit sich die Aufsichtstätigkeit auf die in § 50 Nummer 1 Buchstabe g und h genannten Verpflichteten bezieht, der nach § 50 Nummer 3 bis 9 zuständigen Aufsichtsbehörde sowie den Personen und Einrichtungen, derer sich diese Aufsichtsbehörden zur Durchführung ihrer Aufgaben bedienen, auf Verlangen unentgeltlich
 
@@ -1983,8 +1923,7 @@ die für die Einhaltung der in diesem Gesetz festgelegten Anforderungen von Bede
 
 (6) Personen, bei denen aufgrund ihrer Geschäftstätigkeit Tatsachen die Annahme rechtfertigen, dass sie Verpflichtete nach § 2 Absatz 1 sind, haben der nach § 50 zuständigen Aufsichtsbehörde auf Verlangen unentgeltlich Auskunft über alle Geschäftsangelegenheiten zu erteilen und Unterlagen vorzulegen, soweit dies für die Feststellung der Verpflichteteneigenschaft erforderlich ist. Absatz 1 Satz 2 sowie die Absätze 4 und 5 gelten entsprechend.
 
-
-## § 53 – Hinweise auf Verstöße
+# § 53 – Hinweise auf Verstöße
 
 (1) Die Aufsichtsbehörden errichten ein System zur Annahme von Hinweisen zu potenziellen oder tatsächlichen Verstößen gegen dieses Gesetz und gegen auf Grundlage dieses Gesetzes erlassene Rechtsverordnungen und gegen andere Bestimmungen zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung, bei denen es die Aufgabe der Aufsichtsbehörde ist, die Einhaltung der genannten Rechtsvorschriften sicherzustellen oder Verstöße gegen die genannten Rechtsvorschriften zu ahnden. Das System hat die Abgabe von Hinweisen über einen geschützten Kommunikationsweg zu ermöglichen. Die Hinweise können auch anonym abgegeben werden.
 
@@ -2018,8 +1957,7 @@ Dem entgegenstehende Vereinbarungen sind unwirksam.
 
 3. §§ 137, 140, 141 und 147 der Strafprozessordnung.
 
-
-## § 54 – Verschwiegenheitspflicht
+# § 54 – Verschwiegenheitspflicht
 
 (1) Soweit Personen, die bei den zuständigen Aufsichtsbehörden nach § 50 beschäftigt sind oder für diese Aufsichtsbehörden tätig sind, Aufgaben nach § 51 Absatz 1 erfüllen, dürfen sie die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen nicht unbefugt offenbaren oder verwerten, wenn die Geheimhaltung dieser Tatsachen, insbesondere Geschäfts- und Betriebsgeheimnisse, im Interesse eines von ihnen beaufsichtigten Verpflichteten oder eines Dritten liegt. Satz 1 gilt auch, wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Die datenschutzrechtlichen Bestimmungen, die von den beaufsichtigten Verpflichteten zu beachten sind, bleiben unberührt.
 
@@ -2047,8 +1985,7 @@ e) an andere Stellen, die kraft Gesetzes oder im öffentlichen Auftrag mit der A
 
 2. für solche Zwecke, denen die zuständigen Behörden zugestimmt haben.
 
-
-## § 55 – Zusammenarbeit mit anderen Behörden
+# § 55 – Zusammenarbeit mit anderen Behörden
 
 (1) Die Aufsichtsbehörden arbeiten zur Verhinderung und zur Bekämpfung von Geldwäsche und von Terrorismusfinanzierung bei der Wahrnehmung ihrer Aufgaben nach § 51 untereinander sowie mit den in § 54 Absatz 3 genannten Stellen umfassend zusammen. Im Rahmen dieser Zusammenarbeit sind die Aufsichtsbehörden verpflichtet, einander von Amts wegen und auf Ersuchen Informationen einschließlich personenbezogener Daten und die Ergebnisse der Prüfungen zu übermitteln, soweit deren Kenntnis für die Erfüllung der Aufgaben der Aufsichtsbehörden nach § 51 erforderlich ist. Die zuständige Aufsichtsbehörde übermittelt im Einzelfall von Amts wegen sämtliche Informationen an die zuständige Verwaltungsbehörde, soweit diese für die Erfüllung der Aufgaben der Verwaltungsbehörde erforderlich sind. Bei Anhaltspunkten für strafrechtliche Verstöße informieren die Aufsichtsbehörden unverzüglich die zuständigen Strafverfolgungsbehörden.
 
@@ -2086,8 +2023,7 @@ b) ein Berufsgeheimnis gemäß § 43 Absatz 2 Satz 1 greift,
 
 (8) Die zuständigen Aufsichtsbehörden gemäß § 50 Nummer 1 und 2 können mit den zuständigen Behörden von Drittstaaten, die diesen zuständigen Aufsichtsbehörden entsprechen, Kooperationsvereinbarungen zur Zusammenarbeit und zum Austausch von Tatsachen im Sinne von § 54 Absatz 1 schließen. Solche Kooperationsvereinbarungen werden auf Basis der Gegenseitigkeit und nur dann geschlossen, wenn gewährleistet ist, dass die übermittelten Tatsachen zumindest den in § 54 Absatz 1 enthaltenen Anforderungen unterliegen. Die gemäß diesen Kooperationsvereinbarungen weitergegebenen Tatsachen müssen der Erfüllung der aufsichtsrechtlichen Aufgaben dieser Behörden dienen. § 54 Absatz 4 gilt entsprechend.
 
-
-## § 56 – Bußgeldvorschriften
+# § 56 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -2317,8 +2253,7 @@ Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutt
 
 3. diesbezügliche Rechtsmittelverfahren und deren Ergebnisse.
 
-
-## § 57 – Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen
+# § 57 – Bekanntmachung von bestandskräftigen Maßnahmen und von unanfechtbaren Bußgeldentscheidungen
 
 (1) Die zuständigen Aufsichts- und Verwaltungsbehörden und die Behörde nach § 56 Absatz 5 Satz 2 haben bestandskräftige Maßnahmen und unanfechtbare Bußgeldentscheidungen, die sie wegen eines Verstoßes gegen dieses Gesetz oder die auf seiner Grundlage erlassenen Rechtsverordnungen verhängt haben, nach Unterrichtung des Adressaten der Maßnahme oder Bußgeldentscheidung auf ihrer Internetseite oder auf einer gemeinsamen Internetseite bekannt zu machen. Dies gilt auch für gerichtliche Entscheidungen, soweit diese unanfechtbar geworden sind und die Verhängung eines Bußgeldes zum Gegenstand haben. In der Bekanntmachung sind Art und Charakter des Verstoßes und die für den Verstoß verantwortlichen natürlichen Personen und juristischen Personen oder Personenvereinigungen zu benennen.
 
@@ -2336,11 +2271,9 @@ Anstelle einer Aufschiebung kann die Bekanntmachung auf anonymisierter Basis erf
 
 (4) Eine Bekanntmachung muss fünf Jahre auf der Internetseite der Aufsichtsbehörde veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald die Bekanntmachung nicht mehr erforderlich ist.
 
+# § 58 – (weggefallen)
 
-## § 58 – (weggefallen)
-
-
-## § 59 – Übergangsregelung
+# § 59 – Übergangsregelung
 
 (1) Die Mitteilungen nach § 20 Absatz 1 und § 21 haben erstmals bis zum 1. Oktober 2017 an das Transparenzregister zu erfolgen.
 
@@ -2354,8 +2287,7 @@ Anstelle einer Aufschiebung kann die Bekanntmachung auf anonymisierter Basis erf
 
 (6) Die Pflicht zur Registrierung nach § 45 Absatz 1 Satz 2 besteht mit Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen, spätestens jedoch ab dem 1. Januar 2024. Das Bundesministerium der Finanzen gibt den Tag der Inbetriebnahme des neuen Informationsverbundes der Zentralstelle für Finanztransaktionsuntersuchungen im Bundesgesetzblatt bekannt.
 
-
-## Anlage 1 – (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell geringeres Risiko
+# Anlage 1 – (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell geringeres Risiko
 
 (Fundstelle: BGBl. I 2017, 1858;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2392,8 +2324,7 @@ c) Drittstaaten, in denen Korruption und andere kriminelle Tätigkeiten laut gla
 
 d) Drittstaaten, deren Anforderungen an die Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und von Terrorismusfinanzierung laut glaubwürdigen Quellen (z. B. gegenseitige Evaluierungen, detaillierte Bewertungsberichte oder veröffentlichte Follow-up-Berichte) den überarbeiteten FATF (Financial Action Task Force)-Empfehlungen entsprechen und die diese Anforderungen wirksam umsetzen.
 
-
-## Anlage 2 – (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell höheres Risiko
+# Anlage 2 – (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell höheres Risiko
 
 (Fundstelle: BGBl. I 2017, 1859;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

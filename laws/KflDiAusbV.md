@@ -1,15 +1,11 @@
-# [KflDiAusbV] Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft
-
-Ausfertigungsdatum: 25.06.2001
-
+% Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft
+% Ausfertigungsdatum: 25.06.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |     |                                               |
 |:----|:----------------------------------------------|
@@ -49,8 +45,7 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 | Anlage 2: | (weggefallen)                                                                                                    |
 | Anlage 3: | Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau             |
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -62,13 +57,11 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung vermittelt in einem zeitlichen Umfang von insgesamt 18 Monaten, verteilt über die gesamte Ausbildungszeit, gemeinsame Fertigkeiten und Kenntnisse für eine kaufmännische Berufstätigkeit in den Dienstleistungsbereichen Gesundheitswesen oder Veranstaltungswirtschaft gemäß § 4 Nr. 1 bis 6 und § 16 Nr. 1 bis 6.
 
@@ -82,8 +75,7 @@ c) für den Veranstaltungskaufmann/für die Veranstaltungskauffrau gemäß § 16
 
 (3) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 sowie 20 und 21 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -174,23 +166,19 @@ Besonderheiten des Rechnungswesens im Gesundheitsbereich;
 
 12. Qualitätsmanagement im Gesundheitswesen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach den in der Anlage 1 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -204,8 +192,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -261,11 +248,9 @@ bearbeiten. Für die Vorbereitung ist ein Zeitraum von höchstens 15 Minuten vor
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
+# §§ 10 bis 15 – (weggefallen)
 
-## §§ 10 bis 15 – (weggefallen)
-
-
-## § 16 – Ausbildungsberufsbild
+# § 16 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -393,23 +378,19 @@ Einsatz von Veranstaltungstechnik;
 
 14. Anwenden von Fremdsprachen bei Fachaufgaben.
 
-
-## § 17 – Ausbildungsrahmenplan
+# § 17 – Ausbildungsrahmenplan
 
 Die in § 16 genannten Fertigkeiten und Kenntnisse sollen nach den in der Anlage 3 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 18 – Ausbildungsplan
+# § 18 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 19 – Berichtsheft
+# § 19 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 20 – Zwischenprüfung
+# § 20 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -423,8 +404,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 21 – Abschlussprüfung
+# § 21 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -478,13 +458,11 @@ bearbeiten. Für die Vorbereitung ist ein Zeitraum von höchstens 15 Minuten vor
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 22 – Inkrafttreten
+# § 22 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Gesundheitswesen/zur Kauffrau im Gesundheitswesen
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im Gesundheitswesen/zur Kauffrau im Gesundheitswesen
 
 (Fundstelle: BGBl. I 2001, 1269 - 1277)
 
@@ -1194,13 +1172,11 @@ Qualitätsmanagement,
 
 fortzuführen.
 
-
-## Anlage 2 – (weggefallen)
+# Anlage 2 – (weggefallen)
 
 \-
 
-
-## Anlage 3 – (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
+# Anlage 3 – (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
 
 (Fundstelle: BGBl. I 2001, 1287 - 1296; bzgl. der einzelnen Änderungen vgl. Fußnote)
 

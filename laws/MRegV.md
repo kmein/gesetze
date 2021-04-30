@@ -1,10 +1,7 @@
-# [MRegV] Verordnung zur Registrierung von Anbietern mautdienstbezogener Leistungen  (Mautdienst-Registrierungs-Verordnung - MRegV)
-
-Ausfertigungsdatum: 21.07.2016
-
+% Verordnung zur Registrierung von Anbietern mautdienstbezogener Leistungen  (Mautdienst-Registrierungs-Verordnung - MRegV)
+% Ausfertigungsdatum: 21.07.2016
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -14,20 +11,17 @@ Diese Verordnung regelt
 
 3. die Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der Registrierung und der regelmäßigen Überprüfung der Voraussetzungen für die Registrierung nach § 8 des Mautsystemgesetzes.
 
-
-## § 2 – Unterlagen und Bescheinigungen
+# § 2 – Unterlagen und Bescheinigungen
 
 Die für das Registrierungsverfahren erforderlichen Nachweise, Unterlagen und Bescheinigungen zum Nachweis der Voraussetzungen für die Registrierung nach § 5 des Mautsystemgesetzes sind in deutscher Sprache vorzulegen. Nachweise, Unterlagen oder Bescheinigungen in anderen Sprachen sind mit einer amtlich beglaubigten Übersetzung in die deutsche Sprache vorzulegen.
 
 (+++ § 2: Zur Anwendung vgl. § 10 +++)
 
-
-## § 3 – Sitz oder ständige Niederlassung
+# § 3 – Sitz oder ständige Niederlassung
 
 Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 1 des Mautsystemgesetzes durch einen gültigen Auszug aus dem Handelsregister nachzuweisen. Der Auszug darf zum Zeitpunkt der Antragstellung nicht älter als drei Monate sein.
 
-
-## § 4 – Zertifiziertes Qualitätsmanagementsystem
+# § 4 – Zertifiziertes Qualitätsmanagementsystem
 
 (1) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 2 des Mautsystemgesetzes durch ein Zertifikat einer nach dem Akkreditierungsstellengesetz akkreditierten Stelle nachzuweisen.
 
@@ -37,8 +31,7 @@ Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 1 des Maut
 
 (+++ § 4: Zur Anwendung vgl. § 10 +++)
 
-
-## § 5 – Technische Ausrüstung und Konformität der Interoperabilitätskomponenten
+# § 5 – Technische Ausrüstung und Konformität der Interoperabilitätskomponenten
 
 (1) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 3 des Mautsystemgesetzes nachzuweisen durch
 
@@ -56,8 +49,7 @@ b) das EG-Zertifikat einer nach § 27 des Mautsystemgesetzes notifizierten Stell
 
 (4) EG-Konformitätserklärungen und EG-Zertifikate nach Absatz 1 Nummer 2 Buchstabe a und b müssen ab dem Zeitpunkt der Antragstellung noch mindestens 24 Monate gültig sein.
 
-
-## § 6 – Befähigung zum Erbringen mautdienstbezogener Leistungen
+# § 6 – Befähigung zum Erbringen mautdienstbezogener Leistungen
 
 (1) Die Voraussetzung des § 5 Nummer 4 des Mautsystemgesetzes ist erfüllt, wenn der Antragsteller innerhalb der letzten fünf Jahre vor Antragstellung mindestens ein Jahr Dienstleistungen im Bereich der elektronischen Mauterhebung oder in einem vergleichbaren bedeutsamen Bereich,
 
@@ -71,8 +63,7 @@ erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu zählen insbes
 
 (3) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 4 des Mautsystemgesetzes durch mindestens eine Eigenerklärung nachzuweisen, aus der Inhalt und Zeitraum der ausgeübten Tätigkeit nach Absatz 1 hervorgehen. In den Fällen des Absatzes 2 ist in der Eigenerklärung auch darzulegen, in welcher Form und in welchen Bereichen die Erfahrung dem Antragsteller zur Verfügung gestellt wird.
 
-
-## § 7 – Finanzielle Leistungsfähigkeit
+# § 7 – Finanzielle Leistungsfähigkeit
 
 (1) Die Voraussetzung des § 5 Nummer 5 des Mautsystemgesetzes ist erfüllt, wenn der Antragsteller über die nach seinem Geschäftsmodell erforderlichen finanziellen Mittel zur Aufnahme und ordnungsgemäßen Führung des Betriebes der mautdienstbezogenen Leistungen in allen Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum verfügt.
 
@@ -98,8 +89,7 @@ erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu zählen insbes
 
 (+++ § 7: Zur Anwendung vgl. § 10 +++)
 
-
-## § 8 – Risikomanagementplan
+# § 8 – Risikomanagementplan
 
 (1) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 6 des Mautsystemgesetzes durch einen Risikomanagementplan und das Ergebnis eines Audits dieses Risikomanagementplans nachzuweisen.
 
@@ -127,8 +117,7 @@ erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu zählen insbes
 
 (+++ § 8: Zur Anwendung vgl. § 10 +++)
 
-
-## § 9 – Gewähr für Zuverlässigkeit
+# § 9 – Gewähr für Zuverlässigkeit
 
 (1) Die Voraussetzung des § 5 Nummer 7 des Mautsystemgesetzes ist insbesondere nicht erfüllt, wenn
 
@@ -172,13 +161,11 @@ In den Fällen des § 6 Absatz 2 Satz 1 und § 7 Absatz 2 ist die Voraussetzung 
 
 (+++ § 9: Zur Anwendung vgl. § 10 +++)
 
-
-## § 10 – Regelmäßige Überprüfung der Registrierungsvoraussetzungen
+# § 10 – Regelmäßige Überprüfung der Registrierungsvoraussetzungen
 
 Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach § 7 Absatz 2 des Mautsystemgesetzes gelten die §§ 2, 4 und 7 bis 9 entsprechend.
 
-
-## § 11 – Gebühren und Auslagen
+# § 11 – Gebühren und Auslagen
 
 (1) Für die Registrierung nach den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes sowie die regelmäßige Überprüfung der Registrierungsvoraussetzungen nach § 7 Absatz 2 Satz 1 des Mautsystemgesetzes werden vom Bundesamt für Güterverkehr Gebühren und Auslagen erhoben.
 
@@ -186,7 +173,6 @@ Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach § 7 Absatz 2
 
 (3) Für öffentliche Leistungen nach den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes, die vor dem Inkrafttreten dieser Verordnung beantragt wurden, werden vom Bundesamt für Güterverkehr Gebühren nach Maßgabe dieser Verordnung erhoben, soweit bei den öffentlichen Leistungen unter Hinweis auf das bevorstehende Inkrafttreten dieser Verordnung eine Kostenentscheidung ausdrücklich vorbehalten ist.
 
-
-## Anlage – (zu § 11)
+# Anlage – (zu § 11)
 
 (Fundstelle: BGBl. I 2016,1853)

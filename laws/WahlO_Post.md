@@ -1,37 +1,29 @@
-# [WahlO Post] Verordnung zur Durchführung der Betriebsratswahlen bei den Postunternehmen  (WahlO Post)
-
-Ausfertigungsdatum: 22.02.2002
-
+% Verordnung zur Durchführung der Betriebsratswahlen bei den Postunternehmen  (WahlO Post)
+% Ausfertigungsdatum: 22.02.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34 des Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325, 2353) verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1
+# § 1
 
 Die Vorschriften der Ersten Verordnung zur Durchführung des Betriebsverfassungsgesetzes (Wahlordnung - WO) vom 11. Dezember 2001 (BGBl. I S. 3494) in der jeweiligen Fassung finden für die Wahlen zum Betriebsrat in den Postunternehmen Anwendung, soweit sich aus dieser Verordnung nicht etwas anderes ergibt.
 
-
-## § 2
+# § 2
 
 Die bei den Aktiengesellschaften beschäftigten Beamtinnen und Beamten gelten für die Anwendung der Vorschriften der Wahlordnung als Arbeitnehmerinnen und Arbeitnehmer.
 
-
-## § 3
+# § 3
 
 Die Beamtinnen und Beamten bilden bei der Wahl zum Betriebsrat neben der Gruppe der Arbeitnehmerinnen und Arbeitnehmer eine eigene Gruppe, wenn nicht die Mehrheit der wahlberechtigten Beamtinnen und Beamten in geheimer Abstimmung innerhalb der vom Wahlvorstand festzusetzenden Frist hierauf verzichtet (§ 26 Nr. 1 Postpersonalrechtsgesetz). Im vereinfachten Wahlverfahren nach § 14a Abs. 1 des Betriebsverfassungsgesetzes kann die Abstimmung nach Satz 1 bis zur Wahl des Wahlvorstands erfolgen.
 
-
-## § 4
+# § 4
 
 (1) Bilden die Beamtinnen und Beamten eine eigene Gruppe, müssen sie und die Arbeitnehmerinnen und Arbeitnehmer entsprechend ihrem zahlenmäßigen Verhältnis im Betriebsrat vertreten sein, wenn dieser aus mindestens drei Mitgliedern besteht (§ 26 Nr. 2 Postpersonalrechtsgesetz). Innerhalb der jeweiligen Gruppe im Betriebsrat muss das Geschlecht in der Minderheit mindestens entsprechend seinem zahlenmäßigen Verhältnis in der Gruppe vertreten sein.
 
 (2) Bilden die Beamtinnen und Beamten keine eigene Gruppe, muss das Geschlecht, das in der Belegschaft in der Minderheit ist, mindestens entsprechend seinem zahlenmäßigen Verhältnis im Betriebsrat vertreten sein, wenn dieser aus mindestens drei Mitgliedern besteht (§ 26 Postpersonalrechtsgesetz i.V.m. § 15 Abs. 2 Betriebsverfassungsgesetz).
 
-
-## § 5
+# § 5
 
 (1) Der Wahlvorstand, dem in Betrieben mit Beamten eine Beamtin oder ein Beamter angehören muss, hat unverzüglich nach seiner Bestellung durch Aushang
 
@@ -43,8 +35,7 @@ Der Aushang hat an einer oder mehreren geeigneten, den Beamtinnen und Beamten zu
 
 (2) Absatz 1 findet keine Anwendung im vereinfachten Wahlverfahren nach § 14a Abs. 1 des Betriebsverfassungsgesetzes. Im vereinfachten Wahlverfahren nach § 14a Abs. 3 und 5 des Betriebsverfassungsgesetzes verkürzt sich die Frist in Absatz 1 auf mindestens drei Arbeitstage.
 
-
-## § 6
+# § 6
 
 Bei Bildung einer eigenen Gruppe der Beamtinnen und Beamten bei der Wahl zum Betriebsrat findet die Wahlordnung mit folgender Maßgabe Anwendung:
 
@@ -76,8 +67,7 @@ c) Gehört beiden Gruppen die gleiche Zahl von Arbeitnehmern an, so entscheidet 
 
 4. Die Verteilung der Mindestsitze des Geschlechts in der Minderheit innerhalb der jeweiligen Gruppe (§ 4 Abs. 1 Satz 2) erfolgt entsprechend § 5 der Wahlordnung.
 
-5.  
-a)  
+5. a)  
 Abweichend von § 6 Abs. 1 der Wahlordnung erfolgt die Wahl aufgrund von Vorschlagslisten auch dann, wenn im Fall der Gruppenwahl mehrere Vertreter zu wählen sind.
 
   
@@ -206,12 +196,10 @@ h) Im einstufigen vereinfachten Wahlverfahren nach § 36 der Wahlordnung sind di
 
 i) Für das vereinbarte vereinfachte Wahlverfahren nach § 37 der Wahlordnung gilt die Maßgabe nach Buchstabe h entsprechend. Sind für beide Gruppen mehrere Vertreter zu wählen, erfolgt die Ermittlung der Gewählten abweichend von Buchstabe g Doppelbuchstabe bb und cc in entsprechender Anwendung der Maßgaben der Nummern 15 und 16.
 
-
-## § 7
+# § 7
 
 Haben die Beamtinnen und Beamten auf die Bildung einer eigenen Gruppe verzichtet, findet die Wahlordnung mit der Maßgabe Anwendung, dass das Wahlausschreiben (§§ 3, 31 und 36 Abs. 3 Wahlordnung) zusätzlich die Angabe zu enthalten hat, dass die Beamtinnen und Beamten auf die Bildung einer eigenen Gruppe verzichtet haben.
 
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

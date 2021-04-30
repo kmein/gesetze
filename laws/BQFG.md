@@ -1,22 +1,17 @@
-# [BQFG] Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen  (Berufsqualifikationsfeststellungsgesetz - BQFG)
-
-Ausfertigungsdatum: 06.12.2011
-
+% Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen  (Berufsqualifikationsfeststellungsgesetz - BQFG)
+% Ausfertigungsdatum: 06.12.2011
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifikationen für den deutschen Arbeitsmarkt, um eine qualifikationsnahe Beschäftigung zu ermöglichen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Feststellung der Gleichwertigkeit im Ausland erworbener Ausbildungsnachweise, unter Berücksichtigung sonstiger nachgewiesener Berufsqualifikationen, und inländischer Ausbildungsnachweise für bundesrechtlich geregelte Berufe, sofern die entsprechenden berufsrechtlichen Regelungen nicht etwas anderes bestimmen. § 10 des Bundesvertriebenengesetzes bleibt unberührt.
 
 (2) Dieses Gesetz ist auf alle Personen anwendbar, die im Ausland einen Ausbildungsnachweis erworben haben und darlegen, im Inland eine ihren Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Berufsqualifikationen sind Qualifikationen, die durch Ausbildungsnachweise, Befähigungsnachweise oder einschlägige, im Ausland oder Inland erworbene Berufserfahrung nachgewiesen werden.
 
@@ -28,8 +23,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Reglementierte Berufe sind berufliche Tätigkeiten, deren Aufnahme oder Ausübung durch Rechts- oder Verwaltungsvorschriften an den Besitz bestimmter Berufsqualifikationen gebunden ist; eine Art der Ausübung ist insbesondere die Führung einer Berufsbezeichnung, die durch Rechts- oder Verwaltungsvorschriften auf Personen beschränkt ist, die über bestimmte Berufsqualifikationen verfügen.
 
-
-## § 4 – Feststellung der Gleichwertigkeit
+# § 4 – Feststellung der Gleichwertigkeit
 
 (1) Die zuständige Stelle stellt auf Antrag die Gleichwertigkeit fest, sofern
 
@@ -45,8 +39,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 3. die Antragstellerin oder der Antragsteller diese Unterschiede nicht durch sonstige Befähigungsnachweise, nachgewiesene einschlägige Berufserfahrung oder sonstige nachgewiesene einschlägige Qualifikationen ausgeglichen hat.
 
-
-## § 5 – Vorzulegende Unterlagen
+# § 5 – Vorzulegende Unterlagen
 
 (1) Dem Antrag sind folgende Unterlagen beizufügen:
 
@@ -70,8 +63,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine der Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen können beispielsweise der Nachweis der Beantragung eines Einreisevisums zur Erwerbstätigkeit, der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern oder ein Geschäftskonzept sein. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
 
-
-## § 6 – Verfahren
+# § 6 – Verfahren
 
 (1) Antragsberechtigt ist jede Person, die im Ausland einen Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat. Der Antrag ist bei der zuständigen Stelle zu stellen.
 
@@ -85,8 +77,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Der Antrag soll abgelehnt werden, wenn die Gleichwertigkeit im Rahmen anderer Verfahren oder durch Rechtsvorschrift bereits festgestellt ist.
 
-
-## § 7 – Form der Entscheidung
+# § 7 – Form der Entscheidung
 
 (1) Die Entscheidung über den Antrag nach § 4 Absatz 1 ergeht durch schriftlichen oder elektronischen Bescheid.
 
@@ -94,8 +85,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (3) Dem Bescheid ist eine Rechtsbehelfsbelehrung beizufügen.
 
-
-## § 8 – Zuständige Stelle
+# § 8 – Zuständige Stelle
 
 (1) Zuständige Stelle im Sinne dieses Kapitels bei einer Berufsbildung,
 
@@ -119,8 +109,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (5) Zuständige Stellen nach Absatz 1 Nummer 2 bis 6 und Absatz 2 können vereinbaren, dass die ihnen durch dieses Gesetz übertragenen Aufgaben von einer anderen zuständigen Stelle nach den Absätzen 1 und 2 wahrgenommen werden. Die Vereinbarung bedarf der Genehmigung der jeweils zuständigen Aufsichtsbehörden.
 
-
-## § 9 – Voraussetzungen der Gleichwertigkeit
+# § 9 – Voraussetzungen der Gleichwertigkeit
 
 (1) Bei der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs gilt der im Ausland erworbene Ausbildungsnachweis, unter Berücksichtigung sonstiger nachgewiesener Berufsqualifikationen, als gleichwertig mit dem entsprechenden inländischen Ausbildungsnachweis, sofern
 
@@ -138,15 +127,13 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 3. die Antragstellerin oder der Antragsteller diese Unterschiede nicht durch sonstige Befähigungsnachweise, nachgewiesene einschlägige Berufserfahrung oder sonstige nachgewiesene einschlägige Qualifikationen ausgeglichen hat.
 
-
-## § 10 – Feststellung der vorhandenen Berufsqualifikationen
+# § 10 – Feststellung der vorhandenen Berufsqualifikationen
 
 (1) Sofern die Feststellung der Gleichwertigkeit wegen wesentlicher Unterschiede im Sinne des § 9 Absatz 2 nicht erfolgen kann, werden bei der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs die vorhandenen Berufsqualifikationen und die wesentlichen Unterschiede gegenüber der entsprechenden inländischen Berufsbildung durch Bescheid festgestellt.
 
 (2) In dem Bescheid wird zudem festgestellt, durch welche Maßnahmen nach § 11 die wesentlichen Unterschiede gegenüber dem erforderlichen inländischen Ausbildungsnachweis ausgeglichen werden können.
 
-
-## § 11 – Ausgleichsmaßnahmen
+# § 11 – Ausgleichsmaßnahmen
 
 (1) Wesentliche Unterschiede im Sinne des § 9 Absatz 2 können durch die Absolvierung eines höchstens dreijährigen Anpassungslehrgangs, der Gegenstand einer Bewertung sein kann, oder das Ablegen einer Eignungsprüfung im Inland ausgeglichen werden.
 
@@ -156,8 +143,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (4) Hat sich die Antragstellerin oder der Antragsteller für eine Eignungsprüfung nach Absatz 3 entschieden, muss diese innerhalb von sechs Monaten abgelegt werden können. Legt auf Grund entsprechender berufsrechtlicher Regelungen im Sinne des Absatzes 3 die zuständige Stelle fest, dass eine Eignungsprüfung zu absolvieren ist, so muss diese innerhalb von sechs Monaten ab dem Zugang dieser Entscheidung abgelegt werden können.
 
-
-## § 12 – Vorzulegende Unterlagen
+# § 12 – Vorzulegende Unterlagen
 
 (1) Zur Bewertung der Gleichwertigkeit sind dem Antrag auf Befugnis zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs folgende Unterlagen beizufügen:
 
@@ -183,8 +169,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (6) Die Antragstellerin oder der Antragsteller hat durch geeignete Unterlagen darzulegen, im Inland eine ihren Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen können beispielsweise der Nachweis der Beantragung eines Einreisevisums zur Erwerbstätigkeit, der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern oder ein Geschäftskonzept sein. Für Antragstellerinnen oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine entsprechende Absicht sprechen.
 
-
-## § 13 – Verfahren
+# § 13 – Verfahren
 
 (1) Die Bewertung der Gleichwertigkeit nach § 9 erfolgt im Rahmen der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im Inland reglementierten Berufs. Auf Antrag erteilt die zuständige Stelle der Antragstellerin oder dem Antragsteller einen gesonderten Bescheid über die Feststellung der Gleichwertigkeit ihrer oder seiner Berufsqualifikation oder entscheidet auf Antrag nur über die Gleichwertigkeit der Berufsqualifikation.
 
@@ -200,8 +185,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist, Regelungen zur Ausstellung eines Europäischen Berufsausweises für die Niederlassung sowie zur damit verbundenen Durchführung des Verfahrens zur Feststellung der Gleichwertigkeit einer im Ausland erworbenen Berufsqualifikation zu erlassen. Das Verfahren zur Feststellung der vorhandenen Berufsqualifikationen nach diesem Kapitel bleibt unberührt.
 
-
-## § 14 – Sonstige Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen
+# § 14 – Sonstige Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen
 
 (1) Kann die Antragstellerin oder der Antragsteller die für die Feststellung oder Bewertung der Gleichwertigkeit erforderlichen Nachweise nach § 5 Absatz 1, 4 und 5 oder § 12 Absatz 1, 4 und 5 aus nicht selbst zu vertretenden Gründen nicht oder nur teilweise vorlegen oder ist die Vorlage der entsprechenden Unterlagen mit einem unangemessenen zeitlichen und sachlichen Aufwand verbunden, stellt die zuständige Stelle die für einen Vergleich mit der entsprechenden inländischen Berufsbildung maßgeblichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten der Antragstellerin oder des Antragstellers durch sonstige geeignete Verfahren fest. Die Antragstellerin oder der Antragsteller hat die Gründe glaubhaft zu machen, die einer Vorlage der entsprechenden Unterlagen entgegenstehen. Die zuständige Stelle ist befugt, eine Versicherung an Eides statt zu verlangen und abzunehmen.
 
@@ -209,8 +193,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (3) Die Feststellung oder Bewertung der Gleichwertigkeit nach den § 4 oder 9 erfolgt auf der Grundlage der Ergebnisse der in Absätzen 1 und 2 vorgesehenen sonstigen Verfahren.
 
-
-## § 14a – Beschleunigtes Verfahren im Fall des § 81a des Aufenthaltsgesetzes
+# § 14a – Beschleunigtes Verfahren im Fall des § 81a des Aufenthaltsgesetzes
 
 (1) Im Fall des § 81a des Aufenthaltsgesetzes erfolgt die Feststellung der Gleichwertigkeit nach den §§ 4 und 9 auf Antrag bei der dafür zuständigen Stelle. Antragsberechtigt ist jede Person, die im Ausland einen Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat. Die Zuleitung der Anträge erfolgt durch die zuständige Ausländerbehörde nach § 71 Absatz 1 des Aufenthaltsgesetzes.
 
@@ -224,8 +207,7 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (6) Der Antrag auf Feststellung nach § 4 soll abgelehnt werden, wenn die Gleichwertigkeit im Rahmen anderer Verfahren oder durch Rechtsvorschrift bereits festgestellt ist.
 
-
-## § 15 – Mitwirkungspflichten
+# § 15 – Mitwirkungspflichten
 
 (1) Die Antragstellerin oder der Antragsteller ist verpflichtet, alle für die Ermittlung der Gleichwertigkeit notwendigen Unterlagen vorzulegen sowie alle dazu erforderlichen Auskünfte zu erteilen.
 
@@ -233,13 +215,11 @@ Dieses Gesetz dient der besseren Nutzung von im Ausland erworbenen Berufsqualifi
 
 (3) Der Antrag darf wegen fehlender Mitwirkung nur abgelehnt werden, nachdem die Antragstellerin oder der Antragsteller auf die Folge hingewiesen worden ist und der Mitwirkungspflicht nicht innerhalb einer angemessenen Frist nachgekommen ist. Der Hinweis muss schriftlich oder elektronisch erfolgen.
 
-
-## § 16 – Rechtsweg
+# § 16 – Rechtsweg
 
 Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
-
-## § 17 – Statistik
+# § 17 – Statistik
 
 (1) Über die Verfahren zur Feststellung der Gleichwertigkeit nach diesem Gesetz und nach anderen berufsrechtlichen Gesetzen und Verordnungen wird eine Bundesstatistik durchgeführt.
 
@@ -279,14 +259,12 @@ Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
 (+++ § 17: zur Anwendung vgl. §§ 15 Abs. 2 Satz 5 u. 17 Abs. 1 Satz 4 TierZG 2019 +++)
 
-
-## § 18 – Evaluation und Bericht
+# § 18 – Evaluation und Bericht
 
 (1) Auf der Grundlage der Statistik nach § 17 überprüft die Bundesregierung nach Ablauf von vier Jahren nach Inkrafttreten dieses Gesetzes seine Anwendung und Auswirkungen.
 
 (2) Über das Ergebnis ist dem Deutschen Bundestag und dem Bundesrat zu berichten.
 
-
-## § 19 – Ausschluss abweichenden Landesrechts
+# § 19 – Ausschluss abweichenden Landesrechts
 
 Von den in § 5 Absatz 1, 3, 4 und 6, in § 6 Absatz 1 bis 3, 4 bis 5, in den §§ 7, 10, 12 Absatz 1, 4 und 6, in § 13 Absatz 1 Satz 1, Absatz 2 bis 4 sowie in den §§ 14 und 15 Absatz 1, 2 und 3 Satz 1 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.

@@ -1,22 +1,17 @@
-# [EUZBBG] Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union  (EUZBBG)
-
-Ausfertigungsdatum: 04.07.2013
-
+% Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union  (EUZBBG)
+% Ausfertigungsdatum: 04.07.2013
  
-
-## § 1 – Mitwirkung des Bundestages
+# § 1 – Mitwirkung des Bundestages
 
 (1) In Angelegenheiten der Europäischen Union wirkt der Bundestag an der Willensbildung des Bundes mit und hat das Recht zur Stellungnahme. Die Bundesregierung hat ihn umfassend und zum frühestmöglichen Zeitpunkt zu unterrichten.
 
 (2) Angelegenheiten der Europäischen Union im Sinne von Artikel 23 des Grundgesetzes sind insbesondere Vertragsänderungen und entsprechende Änderungen auf der Ebene des Primärrechts sowie Rechtsetzungsakte der Europäischen Union. Um eine Angelegenheit der Europäischen Union handelt es sich auch bei völkerrechtlichen Verträgen und intergouvernementalen Vereinbarungen, wenn sie in einem Ergänzungs- oder sonstigen besonderen Näheverhältnis zum Recht der Europäischen Union stehen.
 
-
-## § 2 – Ausschuss für die Angelegenheiten der Europäischen Union
+# § 2 – Ausschuss für die Angelegenheiten der Europäischen Union
 
 Der Bundestag bestellt einen Ausschuss für die Angelegenheiten der Europäischen Union. Der Bundestag kann den Ausschuss ermächtigen, für ihn Stellungnahmen abzugeben. Er kann ihn ermächtigen, die Rechte des Bundestages gemäß Artikel 23 des Grundgesetzes gegenüber der Bundesregierung wahrzunehmen. Er kann ihn auch ermächtigen, die Rechte wahrzunehmen, die dem Bundestag in den vertraglichen Grundlagen der Europäischen Union eingeräumt sind.
 
-
-## § 3 – Grundsätze der Unterrichtung
+# § 3 – Grundsätze der Unterrichtung
 
 (1) Die Bundesregierung unterrichtet den Bundestag in Angelegenheiten der Europäischen Union umfassend, zum frühestmöglichen Zeitpunkt und fortlaufend. Diese Unterrichtung erfolgt grundsätzlich schriftlich durch die Weiterleitung von Dokumenten oder die Abgabe von eigenen Berichten der Bundesregierung, darüber hinaus mündlich. Der mündlichen Unterrichtung kommt lediglich eine ergänzende und erläuternde Funktion zu. Die Bundesregierung stellt sicher, dass diese Unterrichtung die Befassung des Bundestages ermöglicht.
 
@@ -28,8 +23,7 @@ Der Bundestag bestellt einen Ausschuss für die Angelegenheiten der Europäische
 
 (5) Der Bundestag kann auf einzelne Unterrichtungen verzichten, es sei denn, dass eine Fraktion oder fünf Prozent der Mitglieder des Bundestages widersprechen.
 
-
-## § 4 – Übersendung von Dokumenten und Berichtspflichten
+# § 4 – Übersendung von Dokumenten und Berichtspflichten
 
 (1) Die Unterrichtung des Bundestages nach § 3 erfolgt insbesondere durch Übersendung von allen bei der Bundesregierung eingehenden
 
@@ -79,8 +73,7 @@ Dies gilt auch für alle vorbereitenden Gremien und Arbeitsgruppen.
 
 3. auf Anforderung über weitere Verfahren vor dem Gerichtshof der Europäischen Union und übermittelt die entsprechenden Dokumente, soweit sie ihr vorliegen.
 
-
-## § 5 – Vorhaben der Europäischen Union
+# § 5 – Vorhaben der Europäischen Union
 
 (1) Vorhaben der Europäischen Union (Vorhaben) im Sinne dieses Gesetzes sind insbesondere
 
@@ -118,8 +111,7 @@ Dies gilt auch für alle vorbereitenden Gremien und Arbeitsgruppen.
 
 3. der Gemeinsamen Außen- und Sicherheitspolitik und der Gemeinsamen Sicherheits- und Verteidigungspolitik gilt § 7.
 
-
-## § 6 – Förmliche Zuleitung, Berichtsbogen und Umfassende Bewertung, Abschluss von EU-Gesetzgebungsverfahren
+# § 6 – Förmliche Zuleitung, Berichtsbogen und Umfassende Bewertung, Abschluss von EU-Gesetzgebungsverfahren
 
 (1) Die Bundesregierung übersendet dem Bundestag alle Vorhaben mit einem Zuleitungsschreiben (förmliche Zuleitung). Das Zuleitungsschreiben enthält auf der Grundlage des zuzuleitenden Dokuments die folgenden Hinweise:
 
@@ -143,8 +135,7 @@ Dies gilt auch für alle vorbereitenden Gremien und Arbeitsgruppen.
 
 (6) Die Bundesregierung unterrichtet den Bundestag über den Abschluss eines Gesetzgebungsverfahrens der Europäischen Union; diese Unterrichtung enthält auch eine Bewertung, ob die Bundesregierung den Gesetzgebungsakt mit den Grundsätzen der Subsidiarität und Verhältnismäßigkeit für vereinbar hält; bei Richtlinien informiert die Bundesregierung über die zu berücksichtigenden Fristen für die innerstaatliche Umsetzung und den Umsetzungsbedarf.
 
-
-## § 7 – Gemeinsame Außen- und Sicherheitspolitik und Gemeinsame Sicherheits- und Verteidigungspolitik
+# § 7 – Gemeinsame Außen- und Sicherheitspolitik und Gemeinsame Sicherheits- und Verteidigungspolitik
 
 (1) Im Bereich der Gemeinsamen Außen- und Sicherheitspolitik und der Gemeinsamen Sicherheits- und Verteidigungspolitik unterrichtet die Bundesregierung umfassend, fortlaufend und zum frühestmöglichen Zeitpunkt. Die Unterrichtung erfolgt in der Regel schriftlich. Sie umfasst die Zuleitung einer Übersicht der absehbar zur Beratung anstehenden Rechtsakte, deren Bewertung und eine Einschätzung über den weiteren Beratungsverlauf. Über Tagungen des Europäischen Rates und des Rates, die Beschlüsse und Schlussfolgerungen im Bereich der Gemeinsamen Außen- und Sicherheitspolitik und der Gemeinsamen Sicherheits- und Verteidigungspolitik zum Gegenstand haben, gilt § 4 Absatz 4 entsprechend.
 
@@ -154,8 +145,7 @@ Dies gilt auch für alle vorbereitenden Gremien und Arbeitsgruppen.
 
 (4) Über die Sitzungen des Politischen und Sicherheitspolitischen Komitees unterrichtet die Bundesregierung die zuständigen Ausschüsse des Bundestages mündlich.
 
-
-## § 8 – Stellungnahmen des Bundestages
+# § 8 – Stellungnahmen des Bundestages
 
 (1) Vor ihrer Mitwirkung an Vorhaben gibt die Bundesregierung dem Bundestag Gelegenheit zur Stellungnahme. Hierzu übermittelt die Bundesregierung dem Bundestag fortlaufend aktualisierte Informationen über den Beratungsablauf, die es ermöglichen, den für eine Stellungnahme geeigneten Zeitpunkt zu bestimmen, und teilt mit, bis zu welchem Zeitpunkt auf Grund des Beratungsverlaufs eine Stellungnahme angemessen erscheint.
 
@@ -167,8 +157,7 @@ Dies gilt auch für alle vorbereitenden Gremien und Arbeitsgruppen.
 
 (5) Nach der abschließenden Beschlussfassung unterrichtet die Bundesregierung den Bundestag unverzüglich schriftlich, insbesondere über die Durchsetzung seiner Stellungnahme. Sollten nicht alle Belange der Stellungnahme berücksichtigt worden sein, benennt die Bundesregierung auch die Gründe hierfür. Auf Verlangen eines Viertels der Mitglieder des Bundestages erläutert die Bundesregierung diese Gründe im Rahmen einer Plenardebatte.
 
-
-## § 9 – Aufnahme von Verhandlungen über Beitritte und Vertragsänderungen
+# § 9 – Aufnahme von Verhandlungen über Beitritte und Vertragsänderungen
 
 (1) Mit der Unterrichtung über Vorschläge und Initiativen für Beschlüsse zur Aufnahme von Verhandlungen
 
@@ -180,15 +169,13 @@ weist die Bundesregierung den Bundestag auf sein Recht zur Stellungnahme nach §
 
 (2) Vor der abschließenden Entscheidung im Rat oder im Europäischen Rat soll die Bundesregierung Einvernehmen mit dem Bundestag herstellen. Das Recht der Bundesregierung, in Kenntnis der Stellungnahme des Bundestages aus wichtigen außen- oder integrationspolitischen Gründen abweichende Entscheidungen zu treffen, bleibt unberührt.
 
-
-## § 9a – Einführung des Euro in einem Mitgliedstaat
+# § 9a – Einführung des Euro in einem Mitgliedstaat
 
 (1) Mit der Unterrichtung über Vorschläge und Initiativen für Beschlüsse des Rates gemäß Artikel 140 Absatz 2 des Vertrages über die Arbeitsweise der Europäischen Union zur Einführung des Euro in einem weiteren Mitgliedstaat weist die Bundesregierung den Bundestag auf sein Recht zur Stellungnahme nach § 8 hin.
 
 (2) Vor der abschließenden Entscheidung im Rat soll die Bundesregierung mit dem Bundestag Einvernehmen herstellen. Das Recht der Bundesregierung, in Kenntnis der Stellungnahme des Bundestages aus wichtigen außen- oder integrationspolitischen Gründen abweichende Entscheidungen zu treffen, bleibt unberührt.
 
-
-## § 10 – Zugang zu Datenbanken, vertrauliche Behandlung von Dokumenten
+# § 10 – Zugang zu Datenbanken, vertrauliche Behandlung von Dokumenten
 
 (1) Die Bundesregierung eröffnet dem Bundestag im Rahmen der Datenschutzvorschriften Zugang zu Dokumentendatenbanken der Europäischen Union, die ihr zugänglich sind.
 
@@ -196,19 +183,16 @@ weist die Bundesregierung den Bundestag auf sein Recht zur Stellungnahme nach §
 
 (3) Dem besonderen Schutzbedürfnis laufender vertraulicher Verhandlungen trägt der Bundestag durch eine vertrauliche Behandlung Rechnung.
 
-
-## § 11 – Verbindungsbüro des Bundestages
+# § 11 – Verbindungsbüro des Bundestages
 
 (1) Der Bundestag kann über ein Verbindungsbüro unmittelbare Kontakte zu Einrichtungen der Europäischen Union pflegen, soweit dies der Wahrnehmung seiner Mitwirkungsrechte in Angelegenheiten der Europäischen Union dient. Die Fraktionen des Bundestages entsenden Vertreter in das Verbindungsbüro.
 
 (2) Die Bundesregierung unterstützt über die Ständige Vertretung der Bundesrepublik Deutschland bei der Europäischen Union und die bilaterale Botschaft der Bundesrepublik Deutschland beim Königreich Belgien das Verbindungsbüro des Bundestages im Hinblick auf seine fachlichen Aufgaben.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt das Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union vom 12. März 1993 (BGBl. I S. 311, 1780), das zuletzt durch Artikel 2 des Gesetzes vom 13. September 2012 (BGBl. 2012 II S. 1006) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 6 Absatz 2)Berichtsbogen
+# Anlage – (zu § 6 Absatz 2)Berichtsbogen
 
 (Fundstelle: BGBl. I 2013, 2175)

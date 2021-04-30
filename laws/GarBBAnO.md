@@ -1,15 +1,11 @@
-# [GarBBAnO] Anordnung über den Bau und Betrieb von Garagen
-
-Ausfertigungsdatum: 10.09.1990
-
+% Anordnung über den Bau und Betrieb von Garagen
+% Ausfertigungsdatum: 10.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 81 Abs. 1 Nr. 1, 3 und 4 sowie der Absätze 2 und 3 des Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50 S. 929) in Verbindung mit § 2 Abs. 2 des Gesetzes vom 20. Juli 1990 zur Einführung des Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50 S. 950) wird folgendes angeordnet:
 
-
-## ----
+# ----
 
 Teil I
 
@@ -141,8 +137,7 @@ Ordnungswidrigkeiten
 
 Inkrafttreten
 
-
-## § 1 – Begriffe
+# § 1 – Begriffe
 
 (1) Offene Garagen sind Garagen, die unmittelbar ins Freie führende unverschließbare Öffnungen in einer Größe von insgesamt mindestens einem Drittel der Gesamtfläche der Umfassungswände haben, bei denen mindestens zwei sich gegenüberliegende Umfassungswände mit den ins Freie führenden Öffnungen nicht mehr als 70 m voneinander entfernt sind und bei denen eine ständige Querlüftung vorhanden ist.
 
@@ -164,8 +159,7 @@ Inkrafttreten
 
 3. über 1.000 qm Großgaragen.
 
-
-## § 2 – Zu- und Abfahrten
+# § 2 – Zu- und Abfahrten
 
 (1) Zwischen Garagen und öffentlichen Verkehrsflächen müssen Zu- und Abfahrten von mindestens 3 m Länge vorhanden sein. Ausnahmen können gestattet werden, wenn wegen der Sicht auf die öffentliche Verkehrsfläche Bedenken nicht bestehen.
 
@@ -181,8 +175,7 @@ Inkrafttreten
 
 (7) Für Zu- und Abfahrten von Stellplätzen gelten die Absätze 2 bis 5 sinngemäß.
 
-
-## § 3 – Rampen
+# § 3 – Rampen
 
 (1) Rampen von Mittel- und Großgaragen dürfen nicht mehr als 15 v.H. geneigt sein. Die Breite der Fahrbahnen auf diesen Rampen muß mindestens 2,75 m, in gewendelten Rampenbereichen mindestens 3,50 m betragen. Gewendelte Rampenteile müssen eine Querneigung von mindestens 3 v.H. haben. Der Halbmesser des inneren Fahrbahnrandes muß mindestens 5,0 m betragen.
 
@@ -192,8 +185,7 @@ Inkrafttreten
 
 (4) Für Rampen von Stellplätzen gelten die Absätze 1 bis 3 sinngemäß.
 
-
-## § 4 – Einstellplätze und Verkehrsflächen
+# § 4 – Einstellplätze und Verkehrsflächen
 
 (1) Ein Einstellplatz muß mindestens 5 m lang sein. Die Breite eines Einstellplatzes muß mindestens betragen
 
@@ -247,13 +239,11 @@ bis 45 Grad
 
 (6) Für Einstellplätze auf horizontal verschiebbaren Plattformen können Ausnahmen von den Absätzen 1 und 2 gestattet werden, wenn die Verkehrssicherheit nicht beeinträchtigt wird und eine Breite der Fahrgasse von mindestens 2,75 m erhalten bleibt.
 
-
-## § 5 – Lichte Höhe
+# § 5 – Lichte Höhe
 
 Mittel- und Großgaragen müssen in zum Begehen bestimmten Bereichen, auch unter Unterzügen, Lüftungsleitungen und sonstigen Bauteilen eine lichte Höhe von mindestens 2 m haben.
 
-
-## § 6 – Tragende Wände, Decken, Dächer
+# § 6 – Tragende Wände, Decken, Dächer
 
 (1) Tragende Wände von Garagen sowie Decken über und unter Garagen und zwischen Garagengeschossen müssen feuerbeständig sein.
 
@@ -287,8 +277,7 @@ In den Fällen des Satzes 1 Nr. 1 bleiben Abstellräume mit nicht mehr als 20 qm
 
 2. bei Mittelgaragen mindestens schwerentflammbar sein.
 
-
-## § 7 – Außenwände
+# § 7 – Außenwände
 
 (1) Außenwände von Mittel- und Großgaragen müssen aus nichtbrennbaren Baustoffen bestehen oder feuerbeständig sein.
 
@@ -302,8 +291,7 @@ soweit sich aus § 27 BauO nichts anderes ergibt.
 
 (3) Auf Außenwände von offenen Kleingaragen findet § 6 Abs. 7 BauO keine Anwendung.
 
-
-## § 8 – Trennwände
+# § 8 – Trennwände
 
 (1) Trennwände und Tore im Innern von Mittel- und Großgaragen müssen aus nichtbrennbaren Baustoffen bestehen oder feuerbeständig sein.
 
@@ -321,8 +309,7 @@ soweit sich aus § 28 BauO keine weitergehenden Anforderungen ergeben.
 
 2. zwischen offenen Kleingaragen und anders genutzten Räumen oder Gebäuden.
 
-
-## § 9 – Brandwände
+# § 9 – Brandwände
 
 (1) Anstelle von Brandwänden nach § 29 Abs. 1 Nr. 1 BauO genügen
 
@@ -332,13 +319,11 @@ soweit sich aus § 28 BauO keine weitergehenden Anforderungen ergeben.
 
 (2) § 29 Abs. 1 Nr. 1 BauO gilt nicht für Abschlußwände von offenen Kleingaragen.
 
-
-## § 10 – Pfeiler und Stützen
+# § 10 – Pfeiler und Stützen
 
 Für Pfeiler und Stützen gelten die §§ 6 bis 9 sinngemäß.
 
-
-## § 11 – Rauchabschnitte
+# § 11 – Rauchabschnitte
 
 (1) Geschlossene Garagen müssen durch mindestens feuerhemmende, aus nichtbrennbaren Baustoffen bestehende Wände in Rauchabschnitte unterteilt sein. Die Nutzfläche eines Rauchabschnittes darf
 
@@ -352,8 +337,7 @@ betragen; sie darf höchstens doppelt so groß sein, wenn die Garagen selbsttät
 
 (3) § 29 Abs. 1 Nr. 2 BauO gilt nicht für Garagen.
 
-
-## § 12 – Verbindungen zu Garagen und zwischen Garagengeschossen
+# § 12 – Verbindungen zu Garagen und zwischen Garagengeschossen
 
 (1) Flure, Treppenräume und Aufzüge, die nicht nur den Benutzern der Garage dienen, dürfen
 
@@ -373,8 +357,7 @@ verbunden sein.
 
 (4) Türen zu Treppenräumen, die Garagengeschosse miteinander verbinden, müssen selbstschließend, mindestens feuerhemmend und aus nichtbrennbaren Baustoffen sein.
 
-
-## § 13 – Rettungswege
+# § 13 – Rettungswege
 
 (1) Jede Mittel- und Großgarage muß in jedem Geschoß mindestens zwei voneinander unabhängige Rettungswege nach § 17 Abs. 4 BauO haben. Der zweite Rettungsweg darf auch über eine Rampe führen. Bei oberirdischen Mittel- und Großgaragen, deren Einstellplätze im Mittel nicht mehr als 3 m über der Geländeoberfläche liegen, sind Treppenräume für notwendige Treppen nicht erforderlich.
 
@@ -390,15 +373,13 @@ erreichbar sein. Die Entfernung ist in der Luftlinie, jedoch nicht durch Bauteil
 
 (4) Für Dacheinstellplätze gelten die Absätze 1 bis 3 sinngemäß.
 
-
-## § 14 – Beleuchtung
+# § 14 – Beleuchtung
 
 (1) In Mittel- und Großgaragen muß eine allgemeine elektrische Beleuchtung vorhanden sein. Sie muß so beschaffen und mindestens in zwei Stufen derartig schaltbar sein, daß an allen Stellen der Nutzflächen und Rettungswege in der ersten Stufe eine Beleuchtungsstärke von mindestens 1 Lux und in der zweiten Stufe von mindestens 20 Lux erreicht wird.
 
 (2) In geschlossenen Großgaragen, ausgenommen eingeschossige Großgaragen mit festem Benutzerkreis, muß zur Beleuchtung der Rettungswege eine Sicherheitsbeleuchtung vorhanden sein. Diese muß eine vom Versorgungsnetz unabhängige, bei Ausfall des Netzstromes sich selbsttätig innerhalb von 15 Sekunden einschaltende Ersatzstromquelle haben, die für einen mindestens einstündigen Betrieb ausgelegt ist. Die Beleuchtungsstärke der Sicherheitsbeleuchtung muß mindestens 1 Lux betragen.
 
-
-## § 15 – Lüftung
+# § 15 – Lüftung
 
 (1) Geschlossene Mittel- und Großgaragen müssen maschinelle Abluftanlagen und so große und so verteilte Zuluftöffnungen haben, daß alle Teile der Garage ausreichend gelüftet werden. Bei nicht ausreichenden Zuluftöffnungen muß eine maschinelle Zuluftanlage vorhanden sein.
 
@@ -426,20 +407,17 @@ Die Lüftungsschächte müssen
 
 (6) Geschlossene Großgaragen mit nicht nur geringem Zu- und Abgangsverkehr müssen CO-Anlagen zur Messung und Warnung (CO-Warnanlagen) haben. Die CO-Warnanlagen müssen so beschaffen sein, daß die Benutzer der Garagen bei einem CO-Gehalt der Luft von mehr als 250 ppm über Lautsprecher oder durch Blinkzeichen dazu aufgefordert werden, die Garage zügig zu verlassen oder die Motoren abzustellen. Während dieses Zeitraumes müssen die Garagenausfahrten ständig offen gehalten werden. Die CO-Warnanlagen müssen an eine Ersatzstromquelle angeschlossen sein.
 
-
-## § 16 – Feuerlöschanlagen
+# § 16 – Feuerlöschanlagen
 
 (1) Mittel- und Großgaragen müssen in Geschossen, deren Fußboden im Mittel mehr als 4 m unter der Geländeoberfläche liegt, Wandhydranten an einer nassen Steigleitung in der Nähe jedes Treppenraumes einer notwendigen Treppe haben.
 
 (2) Großgaragen müssen in Geschossen, deren Fußboden im Mittel mehr als 4 m unter der Geländeoberfläche liegt, selbsttätige Feuerlöschanlagen mit über die Fläche verteilten Sprühdüsen haben, wenn das Gebäude nicht allein der Garagennutzung dient. Das gilt nicht, wenn die Großgarage zu Geschossen mit anderer Nutzung in keiner Verbindung steht.
 
-
-## § 17 – Brandmeldeanlagen
+# § 17 – Brandmeldeanlagen
 
 Geschlossene Mittel- und Großgaragen müssen Brandmeldeanlagen haben, wenn sie in Verbindung stehen mit baulichen Anlagen oder Räumen, für die Brandmeldeanlagen erforderlich sind.
 
-
-## § 18 – Betriebsvorschriften für Garagen
+# § 18 – Betriebsvorschriften für Garagen
 
 (1) In Mittel- und Großgaragen muß die allgemeine elektrische Beleuchtung nach § 14 Absatz 1 während der Benutzungszeit ständig mit einer Beleuchtungsstärke von mindestens 20 Lux eingeschaltet sein, soweit nicht Tageslicht mit einer entsprechenden Beleuchtungsstärke vorhanden ist.
 
@@ -449,8 +427,7 @@ Geschlossene Mittel- und Großgaragen müssen Brandmeldeanlagen haben, wenn sie 
 
 (4) In Mittel- und Großgaragen dürfen brennbare Stoffe außerhalb von Kraftfahrzeugen nicht aufbewahrt werden. In Kleingaragen dürfen bis zu 200 l Dieselkraftstoff und bis zu 20 l Benzin in dicht verschlossenen, bruchsicheren Behältern aufbewahrt werden.
 
-
-## § 19 – Abstellen von Kraftfahrzeugen in anderen Räumen als Garagen
+# § 19 – Abstellen von Kraftfahrzeugen in anderen Räumen als Garagen
 
 (1) Kraftfahrzeuge dürfen in Treppenräumen, Fluren und Kellergängen nicht abgestellt werden.
 
@@ -464,8 +441,7 @@ Geschlossene Mittel- und Großgaragen müssen Brandmeldeanlagen haben, wenn sie 
 
 4. die Kraftfahrzeuge Arbeitsmaschinen sind.
 
-
-## § 20 – Zusätzliche Bauvorlagen
+# § 20 – Zusätzliche Bauvorlagen
 
 Die Bauvorlagen müssen zusätzliche Angaben enthalten über:
 
@@ -479,16 +455,14 @@ Die Bauvorlagen müssen zusätzliche Angaben enthalten über:
 
 5. die Sicherheitsbeleuchtung.
 
-
-## § 21 – Prüfungen
+# § 21 – Prüfungen
 
 (1) Folgende Anlagen müssen vor der ersten Inbetriebnahme der Garage, nach einer wesentlichen Änderung sowie mindestens alle 3 Jahre durch einen anerkannten Sachverständigen auf ihre Wirksamkeit und Betriebssicherheit geprüft werden:  
 Sicherheitsbeleuchtung (§ 14)  
 Maschinelle Lüftungsanlagen (§ 15)  
 CO-Warnanlagen (§ 15)  
 Feuerlöschanlagen (§ 16)  
-Brandmeldeanlagen (§ 17).  
-Die wiederkehrenden Prüfungen sowie die Prüfungen nach einer wesentlichen Änderung der Anlagen und Einrichtungen hat der Betreiber zu veranlassen.
+Brandmeldeanlagen (§ 17). Die wiederkehrenden Prüfungen sowie die Prüfungen nach einer wesentlichen Änderung der Anlagen und Einrichtungen hat der Betreiber zu veranlassen.
 
 (2) Für die Prüfungen sind die nötigen Vorrichtungen und fachlich geeignete Arbeitskräfte bereitzustellen und die erforderlichen Unterlagen bereitzuhalten.
 
@@ -496,15 +470,13 @@ Die wiederkehrenden Prüfungen sowie die Prüfungen nach einer wesentlichen Änd
 
 (4) Der Betreiber hat die Berichte über die Prüfungen mindestens 5 Jahre aufzubewahren und der Bauaufsichtsbehörde auf Verlagen vorzulegen.
 
-
-## § 22 – Ausnahmen und weitergehende Anforderungen
+# § 22 – Ausnahmen und weitergehende Anforderungen
 
 (1) Für Garagen ohne Fahrverkehr, in denen die Kraftfahrzeuge mit mechanischen Förderanlagen von der Garagenzufahrt zu den Garageneinstellplätzen befördert und ebenso zum Abholen an die Garagenausfahrt zurückbefördert werden, können Ausnahmen von den Vorschriften dieser Anordnung zugelassen werden, wenn hinsichtlich der Betriebssicherheit und des Brandschutzes Bedenken nicht bestehen.
 
 (2) Weitergehende Anforderungen als nach dieser Anordnung können zur Erfüllung des § 3 BauO gestellt werden, soweit Garagen oder Stellplätze für Kraftfahrzeuge bestimmt sind, deren Länge mehr als 5 m und deren Breite mehr als 2 m beträgt.
 
-
-## § 23 – Ordnungswidrigkeiten
+# § 23 – Ordnungswidrigkeiten
 
 Ordnungswidrig nach § 81 Abs. 1 BauO handelt, wer vorsätzlich oder fahrlässig
 
@@ -514,17 +486,14 @@ Ordnungswidrig nach § 81 Abs. 1 BauO handelt, wer vorsätzlich oder fahrlässig
 
 3. entgegen § 21 Abs. 1 die vorgeschriebenen Prüfungen nicht oder nicht rechtzeitig durchführen läßt.
 
-
-## § 24 – Übergangsvorschriften
+# § 24 – Übergangsvorschriften
 
 Auf die zum Zeitpunkt des Inkrafttretens dieser Anordnung bestehenden Garagen sind die Betriebsvorschriften (§ 18) sowie die Vorschriften über Prüfungen (§ 21) entsprechend anzuwenden.
 
-
-## § 25 – Inkrafttreten
+# § 25 – Inkrafttreten
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft

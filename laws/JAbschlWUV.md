@@ -1,15 +1,11 @@
-# [JAbschlWUV] Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen
-
-Ausfertigungsdatum: 22.09.1970
-
+% Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Wohnungsunternehmen
+% Ausfertigungsdatum: 22.09.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 161 und 278 Abs. 3 des Aktiengesetzes sowie des § 33g des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird im Einvernehmen mit dem Bundesminister für Wirtschaft und dem Bundesminister für Städtebau und Wohnungswesen verordnet:
 
-
-## § 1
+# § 1
 
 (1) Wohnungsunternehmen, die Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung oder eingetragene Genossenschaften sind, haben die Bilanz abweichend von § 266 Abs. 2, 3, § 336 Abs. 2 Satz 1 des Handelsgesetzbuchs nach dem anliegenden Formblatt (Muster) aufzustellen. Sie haben abweichend von § 275 Abs. 2, 3 des Handelsgesetzbuchs bei der Aufstellung der Gewinn- und Verlustrechnung nach dem Gesamtkostenverfahren oder dem Umsatzkostenverfahren den Posten 1 wie folgt aufzugliedern:
 
@@ -39,8 +35,7 @@ c) Aufwendungen für andere Lieferungen und Leistungen.
 
 (3) Eine Aktiengesellschaft, Kommanditgesellschaft auf Aktien, Gesellschaft mit beschränkter Haftung oder eingetragene Genossenschaft ist ein Wohnungsunternehmen im Sinne dieser Vorschriften, wenn sie nach dem in ihrer Satzung (Statut) festgesetzten Gegenstand des Unternehmens sich mit dem Bau von Wohnungen im eigenen Namen befaßt, Wohnungsbauten betreut oder Eigenheime, Kleinsiedlungen und Eigentumswohnungen im Sinne des Teil 1 des Wohnungseigentumsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 403-1, veröffentlichten bereinigten Fassung errichtet und veräußert.
 
-
-## § 2
+# § 2
 
 (1) § 265 Abs. 7 Nr. 1 des Handelsgesetzbuchs darf angewendet werden.
 
@@ -52,8 +47,7 @@ c) Aufwendungen für andere Lieferungen und Leistungen.
 
 (+++ § 2: Zur Anwendung vgl. § 3 +++)
 
-
-## § 2a
+# § 2a
 
 Abweichend von § 327 Nr. 1 des Handelsgesetzbuchs ist § 325 Abs. 1 des Handelsgesetzbuchs auf mittelgroße Wohnungsunternehmen mit der Maßgabe anzuwenden, daß die gesetzlichen Vertreter die Bilanz nur in der für kleine Wohnungsunternehmen nach § 1 Abs. 2 vorgeschriebenen Form elektronisch beim Betreiber des Bundesanzeigers einreichen müssen. In der Bilanz oder im Anhang sind jedoch die folgenden Posten des Formblatts zusätzlich gesondert anzugeben:  
   
@@ -61,107 +55,79 @@ Auf der Aktivseite
 
   
   
-A. II. 1.  
-Grundstücke und grundstücksgleiche Rechte mit Wohnbauten
+A. II. 1. Grundstücke und grundstücksgleiche Rechte mit Wohnbauten
 
-A. II. 2.  
-Grundstücke und grundstücksgleiche Rechte mit Geschäfts- und anderen Bauten
+A. II. 2. Grundstücke und grundstücksgleiche Rechte mit Geschäfts- und anderen Bauten
 
-A. II. 3.  
-Grundstücke und grundstücksgleiche Rechte ohne Bauten
+A. II. 3. Grundstücke und grundstücksgleiche Rechte ohne Bauten
 
-A. II. 4.  
-Grundstücke mit Erbbaurechten Dritter
+A. II. 4. Grundstücke mit Erbbaurechten Dritter
 
-A. II. 5.  
-Bauten auf fremden Grundstücken
+A. II. 5. Bauten auf fremden Grundstücken
 
-A. II. 6.  
-technische Anlagen und Maschinen
+A. II. 6. technische Anlagen und Maschinen
 
-A. II. 7.  
-andere Anlagen, Betriebs- und Geschäftsausstattung
+A. II. 7. andere Anlagen, Betriebs- und Geschäftsausstattung
 
-A. II. 8.  
-Anlagen im Bau
+A. II. 8. Anlagen im Bau
 
-A. II. 9.  
-Bauvorbereitungskosten
+A. II. 9. Bauvorbereitungskosten
 
-A. II. 10.  
-geleistete Anzahlungen
+A. II. 10. geleistete Anzahlungen
 
-A. III. 1.  
-Anteile an verbundenen Unternehmen
+A. III. 1. Anteile an verbundenen Unternehmen
 
-A. III. 2.  
-Ausleihungen an verbundene Unternehmen
+A. III. 2. Ausleihungen an verbundene Unternehmen
 
-A. III. 3.  
-Beteiligungen
+A. III. 3. Beteiligungen
 
-A. III. 4.  
-Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+A. III. 4. Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht
 
-B. II. 5.  
-Forderungen gegen verbundene Unternehmen
+B. II. 5. Forderungen gegen verbundene Unternehmen
 
-B. II. 6.  
-Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht
+B. II. 6. Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht
 
-B. III.  
-Anteile an verbundenen Unternehmen
+B. III. Anteile an verbundenen Unternehmen
 
 Auf der Passivseite
 
   
   
-C. 1.  
-Anleihen
+C. 1. Anleihen
 
 davon konvertibel
 
-C. 2.  
-Verbindlichkeiten gegenüber Kreditinstituten
+C. 2. Verbindlichkeiten gegenüber Kreditinstituten
 
-C. 7.  
-Verbindlichkeiten gegenüber verbundenen Unternehmen
+C. 7. Verbindlichkeiten gegenüber verbundenen Unternehmen
 
-C. 8.  
-Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht.
+C. 8. Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht.
 
-
-## § 2b
+# § 2b
 
 Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Wohnungsunternehmens, das Aktiengesellschaft, Kommanditgesellschaft auf Aktien oder Gesellschaft mit beschränkter Haftung ist, den Vorschriften des § 1 Abs. 1 oder des § 2 Abs. 2, 3 oder 4, jeweils in Verbindung mit dem anliegenden Formblatt, über Gliederung, Form oder Inhalt des Jahresabschlusses oder im Anhang zu machende Angaben zuwiderhandelt.
 
-
-## § 3
+# § 3
 
 § 2 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) ist erstmals auf Jahresabschlüsse für ein Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt. Auf Jahresabschlüsse für Geschäftsjahre, die vor dem 1. Januar 2016 beginnen, bleibt § 2 in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage – Formblatt(Muster)
+# Anlage – Formblatt(Muster)
 
 (Fundstelle: BGBl. I 1987, 772;  
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -742,7 +708,6 @@ E.
 
 Passive latente Steuern
 
-
-## Muster 1 u. 2
+# Muster 1 u. 2
 
 \-

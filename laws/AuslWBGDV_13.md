@@ -1,15 +1,11 @@
-# [AuslWBGDV 13] Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Endgültige Verwaltungsabgabe)
-
-Ausfertigungsdatum: 10.11.1959
-
+% Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Endgültige Verwaltungsabgabe)
+% Ausfertigungsdatum: 10.11.1959
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 64, 65 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Höhe der Verwaltungsabgabe
+# § 1 – Höhe der Verwaltungsabgabe
 
 (1) Die Aussteller von Auslandsbonds haben als Verwaltungsabgabe für das Bereinigungsverfahren sieben vom Tausend des Bemessungsbetrages (Absätze 2, 3) zu entrichten. § 2 der Fünften Durchführungsverordnung vom 28. Juli 1953 (Bundesgesetzbl. I S. 717) über die Verwaltungsabgabe für das Verfahren der Sammelanerkennung bleibt unberührt.
 
@@ -38,13 +34,11 @@ Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit Goldklausel verseh
 | 100 hfl. |   = | 168,80 DM |
 | 1 Pfund  |   = | 20,40 DM. |
 
-
-## § 2 – Anrechnung früherer Leistungen
+# § 2 – Anrechnung früherer Leistungen
 
 Auf die Verwaltungsabgabe nach § 1 werden die Beträge angerechnet, die als Abschlag auf die Verwaltungsabgabe für das Bereinigungsverfahren nach § 1 der Fünften Durchführungsverordnung vom 28. Juli 1953 geleistet worden sind.
 
-
-## § 3 – Erhebung der Verwaltungsabgabe
+# § 3 – Erhebung der Verwaltungsabgabe
 
 (1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt für Wertpapierbereinigung gegen die Aussteller einen Zahlungsbescheid. Für die Zustellung des Zahlungsbescheides gelten die Vorschriften des Verwaltungszustellungsgesetzes.
 
@@ -58,17 +52,14 @@ Auf die Verwaltungsabgabe nach § 1 werden die Beträge angerechnet, die als Abs
 
 (+++ § 3 Abs. 1 Satz 1, Abs. 3 u. Abs. 4 Satz 2: Vgl. V v. 8.5.1964 4139-1-7 +++)
 
-
-## § 4 – Befreiungen
+# § 4 – Befreiungen
 
 Der Bund, die Länder sowie die Konversionskasse für deutsche Auslandsschulden sind von den Zahlungen nach § 1 befreit.
 
-
-## § 5 – Land Berlin
+# § 5 – Land Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Bereinigungsgesetzes für deutsche Auslandsbonds auch im Land Berlin.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündigung in Kraft.

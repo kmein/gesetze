@@ -1,25 +1,19 @@
-# [ThermMAusbV] Verordnung über die Berufsausbildung zum Thermometermacher/zur Thermometermacherin  (Thermometermacher-Ausbildungsverordnung - ThermMAusbV)
-
-Ausfertigungsdatum: 27.05.1986
-
+% Verordnung über die Berufsausbildung zum Thermometermacher/zur Thermometermacherin  (Thermometermacher-Ausbildungsverordnung - ThermMAusbV)
+% Ausfertigungsdatum: 27.05.1986
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und auf Grund des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und unter Berücksichtigung von Artikel 1 Nr. 2 der Verordnung vom 2. November 1983 (BGBl. I S. 1354) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Thermometermacher/Thermometermacherin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
-
-## § 2 – Staatliche Anerkennung des Ausbildungsberufes
+# § 2 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Thermometermacher/Thermometermacherin wird staatlich anerkannt.
 
-
-## § 3 – Ausbildungsdauer, Fachrichtungen
+# § 3 – Ausbildungsdauer, Fachrichtungen
 
 Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann zwischen den Fachrichtungen
 
@@ -29,8 +23,7 @@ Die Ausbildung dauert drei Jahre. Für das dritte Ausbildungsjahr kann zwischen 
 
 gewählt werden.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -68,23 +61,19 @@ a) Justieren von Thermometern,
 
 b) Skalieren und Fertigmachen von Thermometern.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.
 
@@ -109,13 +98,11 @@ Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-
-## § 9 – Abschluß- und Gesellenprüfung
+# § 9 – Abschluß- und Gesellenprüfung
 
 (1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf die in der Anlage zu § 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden 4 Prüfungsstücke anfertigen.  
-Als Prüfungsstücke kommen insbesondere in Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden 4 Prüfungsstücke anfertigen. Als Prüfungsstücke kommen insbesondere in Betracht:
 
 1. in der Fachrichtung Thermometerblasen:
 
@@ -196,28 +183,23 @@ Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 10 – Aufhebung von Vorschriften
+# § 10 – Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für Lehrberufe, Anlernberufe und für vergleichbar geregelte Ausbildungsberufe, die in dieser Rechtsverordnung geregelt sind, insbesondere die Ausbildungsberufe Thermometerbläser und Thermometerjustierer, sind vorbehaltlich des § 11 nicht mehr anzuwenden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Berlin-Klausel
+# § 12 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der Handwerksordnung auch im Land Berlin.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1986 in Kraft.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Thermometermacher/zur Thermometermacherin
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Thermometermacher/zur Thermometermacherin
 
 (Fundstelle: BGBl. I 1986, 837 - 842)
 
@@ -935,8 +917,7 @@ Thermometer fertigmachen, insbesondere einfärben, einbrennen, aufbinden sowie S
 
 7
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 - Kapitel V Sachgebiet B Abschnitt III -
@@ -983,8 +964,7 @@ n) Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs.
 
 o) Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systematik der Facharbeiterberufe in Handwerksberufen aus dem in Artikel 3 des Vertrages genannten Gebiet stehen Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung gleich.
 
-...  
-  
+...   
 - Kapitel XVI Sachgebiet C Abschnitt III -
 
 1. Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen

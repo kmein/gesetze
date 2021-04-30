@@ -1,15 +1,11 @@
-# [HufBeschlV] Verordnung über den Beschlag von Hufen und Klauen  (Hufbeschlagverordnung - HufBeschlV)
-
-Ausfertigungsdatum: 15.12.2006
-
+% Verordnung über den Beschlag von Hufen und Klauen  (Hufbeschlagverordnung - HufBeschlV)
+% Ausfertigungsdatum: 15.12.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 1 des Hufbeschlaggesetzes vom 19. April 2006 (BGBl. I S. 900) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -143,32 +139,27 @@ Anlage 5 (zu § 14 Abs. 4)
 
 Anlage 6 (zu § 21 Abs. 4)
 
-
-## § 1 – Staatlich anerkannter Hufbeschlagschmied/Staatlich anerkannte Hufbeschlagschmiedin
+# § 1 – Staatlich anerkannter Hufbeschlagschmied/Staatlich anerkannte Hufbeschlagschmiedin
 
 (1) Als Hufbeschlagschmied/Hufbeschlagschmiedin ist durch die nach Landesrecht zuständige Behörde anzuerkennen, wer durch Vorlage der entsprechenden Unterlagen die Erfüllung der Voraussetzungen des § 4 Abs. 1 des Hufbeschlaggesetzes nachweist. Der Nachweis der nach § 4 Abs. 1 Nr. 2 des Hufbeschlaggesetzes erforderlichen praktischen Beschäftigung im Hufbeschlag kann auch mit einem Tätigkeitsnachweis nach § 7 Abs. 2 erbracht werden. Zur Beurteilung der nach § 4 Abs. 1 Nr. 4 des Hufbeschlaggesetzes erforderlichen Zuverlässigkeit ist mit dem Antrag auf Anerkennung ein Führungszeugnis zur Vorlage bei der für die Anerkennung zuständigen Behörde zu beantragen. Über die Anerkennung ist eine Urkunde nach dem Muster der Anlage 1 auszustellen.
 
 (2) Personen, die nach § 5 Abs. 3 oder 4 oder nach § 23 Abs. 2 zur Prüfung zugelassen worden sind, sind für die staatliche Anerkennung von dem Einhalten der Voraussetzungen des § 4 Abs. 1 Nr. 1 und 2 des Hufbeschlaggesetzes befreit.
 
-
-## § 2 – Staatlich anerkannter Hufbeschlaglehrschmied/Staatlich anerkannte Hufbeschlaglehrschmiedin
+# § 2 – Staatlich anerkannter Hufbeschlaglehrschmied/Staatlich anerkannte Hufbeschlaglehrschmiedin
 
 (1) Als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin ist durch die nach Landesrecht zuständige Behörde anzuerkennen, wer durch Vorlage der entsprechenden Unterlagen die Erfüllung der Voraussetzungen nach § 5 Abs. 1 des Hufbeschlaggesetzes nachweist. Der Nachweis des nach § 5 Abs. 1 Nr. 3 des Hufbeschlaggesetzes erforderlichen Besuchs von Fortbildungsveranstaltungen ist durch Teilnahmebestätigungen der Veranstalter zu erbringen. Die Veranstaltungen müssen einen eindeutigen Tätigkeitsbezug zum Huf- und Klauenbeschlag haben. Die nach § 5 Abs. 1 Nr. 4 des Hufbeschlaggesetzes erforderlichen berufs- und arbeitspädagogischen Kenntnisse können auch durch die Vorlage einer Bescheinigung über die erfolgreiche Teilnahme an einer Prüfung nach § 3 der Ausbildereignungsverordnung oder der erfolgreichen Absolvierung eines dem § 2 der Ausbildereignungsverordnung entsprechenden Teils einer Meisterprüfung nachgewiesen werden. Über die Anerkennung ist eine Urkunde nach dem Muster der Anlage 2 auszustellen.
 
 (2) Personen, die nach § 17 Abs. 2 zur Prüfung zugelassen worden sind, sind für die staatliche Anerkennung von dem Einhalten der Voraussetzung des § 5 Abs. 1 Nr. 2 des Hufbeschlaggesetzes befreit.
 
-
-## § 3 – Staatlich anerkannte Hufbeschlagschule
+# § 3 – Staatlich anerkannte Hufbeschlagschule
 
 Eine Bildungseinrichtung ist durch die nach Landesrecht zuständige Behörde als Hufbeschlagschule anzuerkennen, wenn sie durch Vorlage der entsprechenden Unterlagen die Erfüllung der Voraussetzungen des § 6 Abs. 2 des Hufbeschlaggesetzes nachweist. Über die Anerkennung ist eine Urkunde nach dem Muster der Anlage 3 auszustellen.
 
-
-## § 4 – Ziel der Prüfung
+# § 4 – Ziel der Prüfung
 
 Durch die Prüfung ist festzustellen, ob der Prüfling befähigt ist, den Anforderungen des § 4 Abs. 2 des Hufbeschlaggesetzes zu entsprechen.
 
-
-## § 5 – Zulassung zur Prüfung
+# § 5 – Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer eine mindestens zweijährige praktische Tätigkeit nach Maßgabe des § 7 und den Besuch der erforderlichen Lehrgänge nach Absatz 2 nachweist.
 
@@ -212,8 +203,7 @@ vorzulegen.
 
 (8) Über die Zulassung zur Prüfung entscheidet die zuständige Behörde.
 
-
-## § 6 – Einführungslehrgang
+# § 6 – Einführungslehrgang
 
 (1) Der Einführungslehrgang dient der Vermittlung der notwendigen Grundlagen für die Aufnahme einer praktischen Tätigkeit im Bereich des Huf- und Klauenbeschlags. Er gliedert sich in einen theoretischen und einen praktischen Teil. Die Dauer des Lehrgangs soll insgesamt mindestens vier Wochen mit mindestens 160 Stunden betragen. Er soll grundsätzlich vor der Aufnahme einer praktischen Tätigkeit nach § 7 absolviert werden.
 
@@ -225,8 +215,7 @@ vorzulegen.
 
 (5) Die Teilnahme an dem Lehrgang ist von dem Veranstalter zu bestätigen. In der Bestätigung ist die Anerkennungsnummer des Lehrgangs anzugeben.
 
-
-## § 7 – Praktische Tätigkeit
+# § 7 – Praktische Tätigkeit
 
 (1) Im Verlauf der mindestens zweijährigen praktischen Tätigkeit sollen die maßgeblichen Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) im Huf- und Klauenbeschlag mit dem Ziel erworben werden, dass der Prüfling sich in die einschlägigen Tätigkeiten eines Hufbeschlagschmieds/einer Hufbeschlagschmiedin eingearbeitet hat und so über die wesentlichen Voraussetzungen zur selbstständigen Ausübung des Huf- und Klauenbeschlags verfügt, die insbesondere das selbstständige Planen, Durchführen und Überprüfen der vorgenommenen Tätigkeiten einschließen. Zu den maßgeblichen Kenntnissen, Fertigkeiten und Fähigkeiten zählen insbesondere
 
@@ -254,8 +243,7 @@ In Zusammenhang mit dem Erwerb der Fertigkeiten, Kenntnisse und Fähigkeiten sol
 
 (2) Die während der praktischen Tätigkeit erworbene berufliche Handlungsfähigkeit ist durch einen Tätigkeitsnachweis zu dokumentieren und durch die Unterschrift des Arbeitgebers zu bestätigen.
 
-
-## § 8 – Vorbereitungslehrgang
+# § 8 – Vorbereitungslehrgang
 
 (1) Der Besuch des Vorbereitungslehrgangs hat an einer nach § 6 Abs. 2 des Hufbeschlaggesetzes anerkannten Hufbeschlagschule zu erfolgen. Die Teilnahme an dem Vorbereitungslehrgang ist durch die Hufbeschlagschule zu bestätigen.
 
@@ -337,13 +325,11 @@ zu vermitteln und zu vertiefen.
 
 zu vermitteln.
 
-
-## § 9 – Prüfungsteile
+# § 9 – Prüfungsteile
 
 Die Prüfung besteht aus einem praktischen Teil nach Maßgabe des § 10 und einem theoretischen Teil nach Maßgabe des § 11.
 
-
-## § 10 – Praktischer Teil der Prüfung
+# § 10 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil besteht aus den Prüfungsbereichen:
 
@@ -375,8 +361,7 @@ Die Prüfung kann durch den Prüfungsausschuss aus Gründen des Tierschutzes abg
 
 (5) Bei der Herstellung eines Huf- oder Klaueneisens hat der Prüfling entsprechend den Vorgaben des Prüfungsausschusses ein Prüfungsstück aus Stabmaterial zu schmieden. Die Prüfungsaufgabe soll unter Einbeziehung zeitgemäßer Techniken Bezug zur gängigen Berufspraxis aufweisen. Für die Durchführung der Aufgabe stehen bis zu 90 Minuten zur Verfügung.
 
-
-## § 11 – Theoretischer Teil der Prüfung
+# § 11 – Theoretischer Teil der Prüfung
 
 (1) Der theoretische Teil der Prüfung besteht aus den Prüfungsbereichen:
 
@@ -410,8 +395,7 @@ Die Prüfung kann durch den Prüfungsausschuss aus Gründen des Tierschutzes abg
 
 Die schriftliche Arbeit soll nicht länger als 180 Minuten dauern. Sie ist durch eine mündliche Prüfung zu ergänzen, soweit diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je Prüfling nicht länger als 30 Minuten dauern.
 
-
-## § 12 – Prüfungsausschuss
+# § 12 – Prüfungsausschuss
 
 (1) Die Prüfung wird vor einem Prüfungsausschuss der zuständigen Behörde abgelegt.
 
@@ -427,8 +411,7 @@ Die schriftliche Arbeit soll nicht länger als 180 Minuten dauern. Sie ist durch
 
 (7) Die zuständige Behörde kann Prüfungen, bei denen erhebliche Verstöße gegen die Prüfungsbestimmungen festgestellt werden, für ungültig erklären. Wird die Prüfung für ungültig erklärt, so ist das Prüfungszeugnis einzuziehen.
 
-
-## § 13 – Prüfungsverfahren
+# § 13 – Prüfungsverfahren
 
 (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet die Prüfung und setzt die Prüfungstermine in Absprache mit der zuständigen Behörde fest. Die zuständige Behörde gibt die Prüfungstermine bekannt und bereitet die Prüfung vor.
 
@@ -440,8 +423,7 @@ Die schriftliche Arbeit soll nicht länger als 180 Minuten dauern. Sie ist durch
 
 (5) Die Ergebnisse der einzelnen Prüfungsleistungen nach § 10 Abs. 1 und § 11 Abs. 1 sind in der Niederschrift des Prüfungsausschusses auszuweisen.
 
-
-## § 14 – Bewerten und Bestehen der Prüfung
+# § 14 – Bewerten und Bestehen der Prüfung
 
 (1) Für die Bewertung der Leistungen in den Prüfungsteilen nach § 10 Abs. 1 und § 11 Abs. 1 ist die in Anlage 4 dargestellte sechsstufige Notenskala anzuwenden.
 
@@ -457,8 +439,7 @@ mindestens ausreichende Leistungen erbracht worden sind. Wird eine der Leistunge
 
 (4) Über das Ergebnis der Prüfung ist dem Prüfling ein Prüfungszeugnis nach dem in der Anlage 5 enthaltenen Muster auszustellen.
 
-
-## § 15 – Wiederholung der Prüfung
+# § 15 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann in einem Zeitraum von zwei Jahren nach dem Zeitpunkt der Mitteilung der Ergebnisse der ersten Prüfung zweimal wiederholt werden.
 
@@ -466,13 +447,11 @@ mindestens ausreichende Leistungen erbracht worden sind. Wird eine der Leistunge
 
 (3) Der Antrag auf Wiederholungsprüfung ist bei der gleichen Behörde zu stellen, bei der die vorausgegangene Prüfung erfolgte. In begründeten Fällen kann diese Behörde mit Zustimmung des Antragstellers die Prüfung bei einer anderen Behörde zulassen.
 
-
-## § 16 – Ziel der Prüfung
+# § 16 – Ziel der Prüfung
 
 Durch die Prüfung zum Hufbeschlaglehrschmied/zur Hufbeschlaglehrschmiedin ist festzustellen, ob der Prüfling befähigt ist, den Anforderungen des § 5 Abs. 2 des Hufbeschlaggesetzes zu entsprechen.
 
-
-## § 17 – Zulassung zur Prüfung
+# § 17 – Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -500,8 +479,7 @@ vorzulegen.
 
 (5) Über die Zulassung zur Prüfung entscheidet die zuständige Behörde.
 
-
-## § 18 – Prüfung
+# § 18 – Prüfung
 
 (1) Die Hufbeschlaglehrschmiedprüfung besteht aus den Prüfungsteilen:
 
@@ -527,8 +505,7 @@ schriftlich und bildlich zu dokumentieren. In ihnen ist auch auf Einsatzmöglich
 
 (5) Bei der Vorbereitung und Durchführung von praktischen und theoretischen Unterweisungen hat der Prüfling jeweils eine praktische und theoretische Unterweisung zu Inhalten aus dem Vorbereitungslehrgang an einer Hufbeschlagschule im Rahmen eines laufenden Lehrgangs nach den Vorgaben des Prüfungsausschusses vorzubereiten und durchzuführen. In unmittelbarem Anschluss an die jeweilige Unterweisung hat der Prüfling die Vorbereitung und Durchführung unter fachlichen und pädagogischen Gesichtspunkten in einem Prüfungsgespräch zu erläutern. Die Dauer der einzelnen Unterweisung soll 45 Minuten betragen. Für das jeweilige Prüfungsgespräch stehen bis zu 15 Minuten zur Verfügung.
 
-
-## § 19 – Prüfungsausschuss
+# § 19 – Prüfungsausschuss
 
 (1) Die Hufbeschlaglehrschmiedprüfung wird vor einem Prüfungsausschuss der zuständigen Behörde abgelegt.
 
@@ -544,8 +521,7 @@ schriftlich und bildlich zu dokumentieren. In ihnen ist auch auf Einsatzmöglich
 
 (7) Die zuständige Behörde kann Prüfungen, bei denen erhebliche Verstöße gegen die Prüfungsbestimmungen festgestellt werden, für ungültig erklären. Wird die Prüfung für ungültig erklärt, so ist das Prüfungszeugnis einzuziehen.
 
-
-## § 20 – Prüfungsverfahren
+# § 20 – Prüfungsverfahren
 
 (1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet die Prüfung und setzt die Prüfungstermine in Absprache mit der nach Landesrecht zuständigen Behörde fest. Die zuständige Behörde gibt die Prüfungstermine öffentlich bekannt und bereitet die Prüfung vor.
 
@@ -557,8 +533,7 @@ schriftlich und bildlich zu dokumentieren. In ihnen ist auch auf Einsatzmöglich
 
 (5) Die Ergebnisse der einzelnen Prüfungsleistungen nach § 18 Abs. 1 sind in der Niederschrift des Prüfungsausschusses auszuweisen.
 
-
-## § 21 – Bewerten und Bestehen der Prüfung
+# § 21 – Bewerten und Bestehen der Prüfung
 
 (1) Für die Bewertung der Leistungen in den Prüfungsteilen nach § 18 Abs. 1 ist die in Anlage 4 dargestellte sechsstufige Notenskala anzuwenden.
 
@@ -568,8 +543,7 @@ schriftlich und bildlich zu dokumentieren. In ihnen ist auch auf Einsatzmöglich
 
 (4) Über das Ergebnis der Prüfung ist dem Prüfling ein Prüfungszeugnis nach dem in der Anlage 6 enthaltenen Muster auszustellen.
 
-
-## § 22 – Wiederholung der Prüfung
+# § 22 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann im Zeitraum von zwei Jahren nach der Bekanntgabe der Ergebnisse der ersten Prüfung zweimal wiederholt werden.
 
@@ -577,25 +551,21 @@ schriftlich und bildlich zu dokumentieren. In ihnen ist auch auf Einsatzmöglich
 
 (3) Der Antrag auf Wiederholungsprüfung ist bei der gleichen zuständigen Behörde zu stellen, bei der die vorausgegangene Prüfung erfolgte. In besonderen Fällen kann diese Behörde mit Zustimmung des Antragstellers die Prüfung bei einer anderen zuständigen Behörde zulassen.
 
-
-## § 23 – Übergangsvorschriften
+# § 23 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren einschließlich der Wiederholungsprüfungen können auf Antrag des Prüflings bis längstens zum 22. Juni 2007 nach den bis dahin geltenden Vorschriften zu Ende geführt werden. Dabei gilt ein Prüfungsverfahren als eröffnet, wenn der Prüfling eine verbindliche Zusage für die Teilnahme an einem Vorbereitungslehrgang an einer anerkannten Hufbeschlagschule vorweisen kann, der nicht später als vier Wochen nach dem Inkrafttreten der Verordnung beginnt.
 
 (2) Für einen Zeitraum von fünf Jahren nach Inkrafttreten dieser Verordnung sind Personen im Sinne des § 10 Abs. 2 Satz 1 des Hufbeschlaggesetzes abweichend von § 5 Abs. 1 zur Prüfung zum Hufbeschlagschmied/zur Hufbeschlagschmiedin zuzulassen, wenn sie den Besuch eines Vorbereitungslehrgangs nach § 8 nachweisen und ihre Tätigkeit seit mindestens zwei Jahren ununterbrochen gewerblich ausüben.
 
-
-## § 24 – Inkrafttreten
+# § 24 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3213
 
@@ -626,8 +596,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 3213
     -----
     *) Geschlechtsspezifische Bezeichnung verwenden. 
 
-
-## Anlage 2 – (zu § 2 Abs. 1)
+# Anlage 2 – (zu § 2 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3214
 
@@ -657,8 +626,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 3214
     -----
     *) Geschlechtsspezifische Bezeichnung verwenden. 
 
-
-## Anlage 3 – (zu § 3)
+# Anlage 3 – (zu § 3)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3215
 
@@ -688,8 +656,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 3215
     -----
     *) Bezeichnung der Einrichtung und Anschrift einfügen. 
 
-
-## Anlage 4 – (zu § 14 Abs. 1 und § 21 Abs. 1)  Bewertungsskala für die Bildung der Noten in den einzelnen Prüfungsleistungen der Prüfungen nach § 10 Abs. 1, § 11 Abs. 1 und § 18 Abs. 1
+# Anlage 4 – (zu § 14 Abs. 1 und § 21 Abs. 1)  Bewertungsskala für die Bildung der Noten in den einzelnen Prüfungsleistungen der Prüfungen nach § 10 Abs. 1, § 11 Abs. 1 und § 18 Abs. 1
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3216)
 
@@ -704,8 +671,7 @@ Die einzelnen Leistungen in den Prüfungsteilen sind mit einer der folgenden Not
 | Note 5 = mangelhaft:   | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass notwendige Grundlagen für die berufliche Handlungsfähigkeit vorhanden sind. |
 | Note 6 = ungenügend:   | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundlagen für die berufliche Handlungsfähigkeit fehlen.                              |
 
-
-## Anlage 5 – (zu § 14 Abs. 4)
+# Anlage 5 – (zu § 14 Abs. 4)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3217
 
@@ -757,8 +723,7 @@ Fundstelle des Originaltextes: BGBl. I 2006, 3217
     2) Noten (sehr gut, gut, befriedigend, ausreichend, mangelhaft, ungenügend).
     3) Nichtzutreffendes bitte streichen. 
 
-
-## Anlage 6 – (zu § 21 Abs. 4)
+# Anlage 6 – (zu § 21 Abs. 4)
 
 Fundstelle des Originaltextes: BGBl. I 2006, 3218
 

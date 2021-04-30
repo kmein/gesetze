@@ -1,10 +1,7 @@
-# [BPräsAmtsbezAnO 1965] Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen
-
-Ausfertigungsdatum: 28.07.1965
-
+% Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen
+% Ausfertigungsdatum: 28.07.1965
  
-
-## ----
+# ----
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnungen fest:
 

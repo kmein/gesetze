@@ -1,15 +1,11 @@
-# [MilchMargG] Gesetz über Milch, Milcherzeugnisse, Margarineerzeugnisse und ähnliche Erzeugnisse  (Milch- und Margarinegesetz)
-
-Ausfertigungsdatum: 25.07.1990
-
+% Gesetz über Milch, Milcherzeugnisse, Margarineerzeugnisse und ähnliche Erzeugnisse  (Milch- und Margarinegesetz)
+% Ausfertigungsdatum: 25.07.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vorschriften dieses Gesetzes sind anzuwenden auf
 
@@ -27,8 +23,7 @@ soweit sie für den menschlichen Verzehr bestimmt sind.
 
 (2) Die Vorschriften dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen gelten nicht für Erzeugnisse im Sinne dieses Gesetzes, die zur Lieferung in Gebiete außerhalb des Geltungsbereichs dieses Gesetzes oder für die Ausrüstung von Seeschiffen bestimmt sind. Zu diesem Zweck bestimmte Erzeugnisse müssen, wenn sie nicht den Vorschriften dieses Gesetzes entsprechen, von den für den Geltungsbereich dieses Gesetzes bestimmten Erzeugnissen getrennt gehalten und kenntlich gemacht werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -60,8 +55,7 @@ b) Mischfettschmalz;
 
 (2) Verbraucher im Sinne dieses Gesetzes ist derjenige, an den Erzeugnisse im Sinne dieses Gesetzes zur persönlichen Verwendung oder zur Verwendung im eigenen Haushalt abgegeben werden. Dem Verbraucher stehen gleich Gaststätten und Einrichtungen zur Gemeinschaftsverpflegung.
 
-
-## § 3 – Ermächtigungen
+# § 3 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, um einheitliche Sorten von Erzeugnissen im Sinne dieses Gesetzes, auch aus bestimmten Herstellungsgebieten, zu schaffen,
 
@@ -79,8 +73,7 @@ In Rechtsverordnungen nach Satz 1 kann auch bestimmt werden, daß bestimmte geog
 
 In der Rechtsverordnung nach Satz 1 kann vorgeschrieben werden, dass im Falle des Nichterfüllens bestimmter Anforderungen oder des nicht ausreichenden Nachweises der Sachkunde dem Verantwortlichen das Führen eines milchwirtschaftlichen Betriebes ganz oder teilweise untersagt oder nur unter Auflagen gestattet werden kann.
 
-
-## § 4 – Zulassung von Ausnahmen
+# § 4 – Zulassung von Ausnahmen
 
 (1) Von den Vorschriften der auf Grund des § 3 Abs. 1 erlassenen Rechtsverordnungen können im Einzelfall auf Antrag Ausnahmen zugelassen werden
 
@@ -102,8 +95,7 @@ von bestimmten Lebensmitteln einschließlich der hierfür erforderlichen Versuch
 
 (4) Die Zulassung einer Ausnahme kann jederzeit aus wichtigem Grund widerrufen werden.
 
-
-## § 4a
+# § 4a
 
 (1) Ein Erzeugnis im Sinne des § 1 Absatz 1 Nummer 1 bis 3 darf nur in Verkehr gebracht werden, wenn die Vorgaben für die Kennzeichnung dieses Erzeugnisses eingehalten sind, die
 
@@ -119,28 +111,23 @@ enthalten sind.
 
 (3) Ist ein Erzeugnis im Sinne des § 1 Absatz 1 Nummer 4 unter Verwendung von Milch oder Milcherzeugnissen hergestellt worden, dürfen die der Milch oder dem Milcherzeugnis entstammenden Bestandteile in der Kennzeichnung und Bewerbung des Erzeugnisses nicht besonders hervorgehoben werden. Davon unberührt bleiben besondere Pflichten zur Hervorhebung dieser Erzeugnisse, die in Bestimmungen des Lebensmittelrechts enthalten sind.
 
-
-## § 5 – Überwachung; Monitoring
+# § 5 – Überwachung; Monitoring
 
 Die Überwachung der Einhaltung der Vorschriften dieses Gesetzes erfolgt nach Maßgabe der Bestimmungen der §§ 38 bis 48 des Lebensmittel- und Futtermittelgesetzbuches auch insoweit, als die Vorschriften dieses Gesetzes über den Rahmen des Lebensmittel- und Futtermittelgesetzbuches hinausgehen. Die §§ 50 bis 52 des Lebensmittel- und Futtermittelgesetzbuches finden im Bereich dieses Gesetzes Anwendung.
 
-
-## § 6 – Erlaß von allgemeinen Verwaltungsvorschriften
+# § 6 – Erlaß von allgemeinen Verwaltungsvorschriften
 
 Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes erforderlichen allgemeinen Verwaltungsvorschriften.
 
-
-## § 7 – Befugnisse der Länder
+# § 7 – Befugnisse der Länder
 
 Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach § 3 zu erlassen, solange der Bund von den in diesem Gesetz genannten Befugnissen keinen Gebrauch macht oder sich in Rechtsverordnungen die Regelung bestimmter Gegenstände nicht ausdrücklich vorbehält. Die Landesregierungen sind befugt, die Ermächtigung durch Rechtsverordnung auf andere Behörden zu übertragen.
 
-
-## § 8 – Strafvorschriften
+# § 8 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 4a Absatz 2 ein Erzeugnis in Verkehr bringt.
 
-
-## § 9 – Bußgeldvorschriften
+# § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer fahrlässig eine in § 8 bezeichnete Handlung begeht.
 
@@ -164,39 +151,32 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ent
 
 (+++ § 14 Abs. 2 Nr. 2 u. 4: Weiter anzuwenden in der bis zum 6.9.2005 geltenden Fassung, soweit auf § 3 verwiesen wird, nach Maßgabe d. Art. 2 § 1 Abs. 1 Satz 1 Nr. 6 G v. 1.9.2005 I 2618, 2653 (LFÜG) +++)
 
-
-## § 10 – Ermächtigung
+# § 10 – Ermächtigung
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach § 9 Abs. 2 Nr. 4 geahndet werden können.
 
-
-## § 11 – Einziehung
+# § 11 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 8 oder eine Ordnungswidrigkeit nach § 9 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 12 – Rechtsverordnungen in besonderen Fällen
+# § 12 – Rechtsverordnungen in besonderen Fällen
 
 (1) Rechtsverordnungen nach § 3 Absatz 1 können ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten im Sinne des § 1 Absatz 1a erforderlich und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt ist.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Verweisungen auf Vorschriften in Rechtsakten im Sinne des § 1 Absatz 1, insbesondere Verweisungen auf Vorschriften in der Verordnung (EG) Nr. 1308/2013, in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften erforderlich ist. Von der Ermächtigung nach Satz 1 darf nur zur Anpassung an redaktionelle Änderungen, einschließlich der Änderung der Nummern oder der Bezeichnungen von Rechtsakten oder von Einzelnormen, sowie zur Anpassung von Änderungshinweisen Gebrauch gemacht werden.
 
-
-## § 13 – Anhörung von Sachkennern
+# § 13 – Anhörung von Sachkennern
 
 Vor Erlaß von Rechtsverordnungen nach diesem Gesetz soll ein jeweils auszuwählender Kreis von Sachkennern aus der Wissenschaft, der Verbraucherschaft und der beteiligten Wirtschaft gehört werden.
 
-
-## § 14 – Geltung lebensmittelrechtlicher Vorschriften
+# § 14 – Geltung lebensmittelrechtlicher Vorschriften
 
 Unberührt bleiben die Vorschriften des Lebensmittelrechts, soweit nicht Vorschriften dieses Gesetzes entgegenstehen.
 
-
-## § 15 – Verkündung von Rechtsverordnungen
+# § 15 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 16 – Inkrafttreten, abgelöste Vorschriften
+# § 16 – Inkrafttreten, abgelöste Vorschriften
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

@@ -1,15 +1,11 @@
-# [BDGBMinGAnO] Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
-
-Ausfertigungsdatum: 29.04.2002
-
+% Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
+% Ausfertigungsdatum: 29.04.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2, des § 42 Abs. 1 sowie des § 84 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) wird angeordnet:
 
-
-## I.
+# I.
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind - jeweils für die ihnen unterstellten Beamtinnen/Beamten - außer der Bundesministerin/dem Bundesminister für Gesundheit und Soziale Sicherung
 
@@ -27,32 +23,26 @@ Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind - jeweils für die
 
 7. die Präsidentin/der Präsident des Bundesversicherungsamtes.
 
-
-## II.
+# II.
 
 Die Befugnis zur Festsetzung der Kürzung von Dienstbezügen nach § 33 Abs. 3 Nr. 1 des Bundesdisziplinargesetzes wird gemäß § 33 Abs. 5 des Bundesdisziplinargesetzes auf die in Abschnitt I genannten Dienstvorgesetzten übertragen.
 
-
-## III.
+# III.
 
 Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Abs. 2 Satz 1 des Bundesdisziplinargesetzes gegen Beamtinnen/Beamte der Besoldungsgruppen A 1 bis A 13 g wird gemäß § 34 Abs. 2 Satz 2 des Bundesdisziplinargesetzes auf die in Abschnitt I genannten Dienstvorgesetzten übertragen. Diese sind im Übrigen auch bei Klagen, die seitens der Beamtinnen/Beamten der Besoldungsgruppen A 1 bis A 13 g in disziplinarrechtlichen Angelegenheiten erhoben werden, für die gerichtliche Vertretung des Dienstherrn zuständig.
 
-
-## IV.
+# IV.
 
 Die Befugnis, Widerspruchsbescheide nach § 42 Abs. 1 Satz 1 des Bundesdisziplinargesetzes bei Beamtinnen/Beamten der Besoldungsgruppen A 1 bis A 13 g zu erlassen, wird gemäß § 42 Abs. 1 Satz 2 des Bundesdisziplinargesetzes auf die in Abschnitt I genannten Dienstvorgesetzten übertragen.
 
-
-## V.
+# V.
 
 Die Disziplinarbefugnisse der obersten Dienstbehörde bei Ruhestandsbeamtinnen/Ruhestandsbeamten der Besoldungsgruppen A 1 bis A 13 g gemäß § 84 Satz 1 des Bundesdisziplinargesetzes werden gemäß § 84 Satz 2 des Bundesdisziplinargesetzes auf die in Abschnitt I genannten Dienstvorgesetzten übertragen.
 
-
-## VI.
+# VI.
 
 Ich behalte mir in Einzelfällen oder in Gruppen von Fällen Entscheidungen nach den Abschnitten II bis V dieser Anordnung vor.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin für Gesundheit

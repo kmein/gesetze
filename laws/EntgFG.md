@@ -1,17 +1,13 @@
-# [EntgFG] Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall  (Entgeltfortzahlungsgesetz)
-
-Ausfertigungsdatum: 26.05.1994
-
+% Gesetz über die Zahlung des Arbeitsentgelts an Feiertagen und im Krankheitsfall  (Entgeltfortzahlungsgesetz)
+% Ausfertigungsdatum: 26.05.1994
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Zahlung des Arbeitsentgelts an gesetzlichen Feiertagen und die Fortzahlung des Arbeitsentgelts im Krankheitsfall an Arbeitnehmer sowie die wirtschaftliche Sicherung im Bereich der Heimarbeit für gesetzliche Feiertage und im Krankheitsfall.
 
 (2) Arbeitnehmer in Sinne dieses Gesetzes sind Arbeiter und Angestellte sowie die zu ihrer Berufsbildung Beschäftigten.
 
-
-## § 2 – Entgeltzahlung an Feiertagen
+# § 2 – Entgeltzahlung an Feiertagen
 
 (1) Für Arbeitszeit, die infolge eines gesetzlichen Feiertages ausfällt, hat der Arbeitgeber dem Arbeitnehmer das Arbeitsentgelt zu zahlen, das er ohne den Arbeitsausfall erhalten hätte.
 
@@ -19,8 +15,7 @@ Ausfertigungsdatum: 26.05.1994
 
 (3) Arbeitnehmer, die am letzten Arbeitstag vor oder am ersten Arbeitstag nach Feiertagen unentschuldigt der Arbeit fernbleiben, haben keinen Anspruch auf Bezahlung für diese Feiertage.
 
-
-## § 3 – Anspruch auf Entgeltfortzahlung im Krankheitsfall
+# § 3 – Anspruch auf Entgeltfortzahlung im Krankheitsfall
 
 (1) Wird ein Arbeitnehmer durch Arbeitsunfähigkeit infolge Krankheit an seiner Arbeitsleistung verhindert, ohne daß ihn ein Verschulden trifft, so hat er Anspruch auf Entgeltfortzahlung im Krankheitsfall durch den Arbeitgeber für die Zeit der Arbeitsunfähigkeit bis zur Dauer von sechs Wochen. Wird der Arbeitnehmer infolge derselben Krankheit erneut arbeitsunfähig, so verliert er wegen der erneuten Arbeitsunfähigkeit den Anspruch nach Satz 1 für einen weiteren Zeitraum von höchstens sechs Wochen nicht, wenn
 
@@ -32,15 +27,13 @@ Ausfertigungsdatum: 26.05.1994
 
 (3) Der Anspruch nach Absatz 1 entsteht nach vierwöchiger ununterbrochener Dauer des Arbeitsverhältnisses.
 
-
-## § 3a – Anspruch auf Entgeltfortzahlung bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
+# § 3a – Anspruch auf Entgeltfortzahlung bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
 
 (1) Ist ein Arbeitnehmer durch Arbeitsunfähigkeit infolge der Spende von Organen oder Geweben, die nach den §§ 8 und 8a des Transplantationsgesetzes erfolgt, oder einer Blutspende zur Separation von Blutstammzellen oder anderen Blutbestandteilen im Sinne von § 9 des Transfusionsgesetzes an seiner Arbeitsleistung verhindert, hat er Anspruch auf Entgeltfortzahlung durch den Arbeitgeber für die Zeit der Arbeitsunfähigkeit bis zur Dauer von sechs Wochen. § 3 Absatz 1 Satz 2 gilt entsprechend.
 
 (2) Dem Arbeitgeber sind von der gesetzlichen Krankenkasse des Empfängers von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen das an den Arbeitnehmer nach Absatz 1 fortgezahlte Arbeitsentgelt sowie die hierauf entfallenden vom Arbeitgeber zu tragenden Beiträge zur Sozialversicherung und zur betrieblichen Alters- und Hinterbliebenenversorgung auf Antrag zu erstatten. Ist der Empfänger von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen gemäß § 193 Absatz 3 des Versicherungsvertragsgesetzes bei einem privaten Krankenversicherungsunternehmen versichert, erstattet dieses dem Arbeitgeber auf Antrag die Kosten nach Satz 1 in Höhe des tariflichen Erstattungssatzes. Ist der Empfänger von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen bei einem Beihilfeträger des Bundes beihilfeberechtigt oder berücksichtigungsfähiger Angehöriger, erstattet der zuständige Beihilfeträger dem Arbeitgeber auf Antrag die Kosten nach Satz 1 zum jeweiligen Bemessungssatz des Empfängers von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen; dies gilt entsprechend für sonstige öffentlich-rechtliche Träger von Kosten in Krankheitsfällen auf Bundesebene. Unterliegt der Empfänger von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen der Heilfürsorge im Bereich des Bundes oder der truppenärztlichen Versorgung, erstatten die zuständigen Träger auf Antrag die Kosten nach Satz 1. Mehrere Erstattungspflichtige haben die Kosten nach Satz 1 anteilig zu tragen. Der Arbeitnehmer hat dem Arbeitgeber unverzüglich die zur Geltendmachung des Erstattungsanspruches erforderlichen Angaben zu machen.
 
-
-## § 4 – Höhe des fortzuzahlenden Arbeitsentgelts
+# § 4 – Höhe des fortzuzahlenden Arbeitsentgelts
 
 (1) Für den in § 3 Abs. 1 oder in § 3a Absatz 1 bezeichneten Zeitraum ist dem Arbeitnehmer das ihm bei der für ihn maßgebenden regelmäßigen Arbeitszeit zustehende Arbeitsentgelt fortzuzahlen.
 
@@ -52,20 +45,17 @@ Ausfertigungsdatum: 26.05.1994
 
 (4) Durch Tarifvertrag kann eine von den Absätzen 1, 1a und 3 abweichende Bemessungsgrundlage des fortzuzahlenden Arbeitsentgelts festgelegt werden. Im Geltungsbereich eines solchen Tarifvertrages kann zwischen nichttarifgebundenen Arbeitgebern und Arbeitnehmern die Anwendung der tarifvertraglichen Regelung über die Fortzahlung des Arbeitsentgelts im Krankheitsfalle vereinbart werden.
 
-
-## § 4a – Kürzung von Sondervergütungen
+# § 4a – Kürzung von Sondervergütungen
 
 Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber zusätzlich zum laufenden Arbeitsentgelt erbringt (Sondervergütungen), ist auch für Zeiten der Arbeitsunfähigkeit infolge Krankheit zulässig. Die Kürzung darf für jeden Tag der Arbeitsunfähigkeit infolge Krankheit ein Viertel des Arbeitsentgelts, das im Jahresdurchschnitt auf einen Arbeitstag entfällt, nicht überschreiten.
 
-
-## § 5 – Anzeige- und Nachweispflichten
+# § 5 – Anzeige- und Nachweispflichten
 
 (1) Der Arbeitnehmer ist verpflichtet, dem Arbeitgeber die Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich mitzuteilen. Dauert die Arbeitsunfähigkeit länger als drei Kalendertage, hat der Arbeitnehmer eine ärztliche Bescheinigung über das Bestehen der Arbeitsunfähigkeit sowie deren voraussichtliche Dauer spätestens an dem darauffolgenden Arbeitstag vorzulegen. Der Arbeitgeber ist berechtigt, die Vorlage der ärztlichen Bescheinigung früher zu verlangen. Dauert die Arbeitsunfähigkeit länger als in der Bescheinigung angegeben, ist der Arbeitnehmer verpflichtet, eine neue ärztliche Bescheinigung vorzulegen. Ist der Arbeitnehmer Mitglied einer gesetzlichen Krankenkasse, muß die ärztliche Bescheinigung einen Vermerk des behandelnden Arztes darüber enthalten, daß der Krankenkasse unverzüglich eine Bescheinigung über die Arbeitsunfähigkeit mit Angaben über den Befund und die voraussichtliche Dauer der Arbeitsunfähigkeit übersandt wird.
 
 (2) Hält sich der Arbeitnehmer bei Beginn der Arbeitsunfähigkeit im Ausland auf, so ist er verpflichtet, dem Arbeitgeber die Arbeitsunfähigkeit, deren voraussichtliche Dauer und die Adresse am Aufenthaltsort in der schnellstmöglichen Art der Übermittlung mitzuteilen. Die durch die Mitteilung entstehenden Kosten hat der Arbeitgeber zu tragen. Darüber hinaus ist der Arbeitnehmer, wenn er Mitglied einer gesetzlichen Krankenkasse ist, verpflichtet, auch dieser die Arbeitsunfähigkeit und deren voraussichtliche Dauer unverzüglich anzuzeigen. Dauert die Arbeitsunfähigkeit länger als angezeigt, so ist der Arbeitnehmer verpflichtet, der gesetzlichen Krankenkasse die voraussichtliche Fortdauer der Arbeitsunfähigkeit mitzuteilen. Die gesetzlichen Krankenkassen können festlegen, daß der Arbeitnehmer Anzeige- und Mitteilungspflichten nach den Sätzen 3 und 4 auch gegenüber einem ausländischen Sozialversicherungsträger erfüllen kann. Absatz 1 Satz 5 gilt nicht. Kehrt ein arbeitsunfähig erkrankter Arbeitnehmer in das Inland zurück, so ist er verpflichtet, dem Arbeitgeber und der Krankenkasse seine Rückkehr unverzüglich anzuzeigen.
 
-
-## § 6 – Forderungsübergang bei Dritthaftung
+# § 6 – Forderungsübergang bei Dritthaftung
 
 (1) Kann der Arbeitnehmer auf Grund gesetzlicher Vorschriften von einem Dritten Schadensersatz wegen des Verdienstausfalls beanspruchen, der ihm durch die Arbeitsunfähigkeit entstanden ist, so geht dieser Anspruch insoweit auf den Arbeitgeber über, als dieser dem Arbeitnehmer nach diesem Gesetz Arbeitsentgelt fortgezahlt und darauf entfallende vom Arbeitgeber zu tragende Beiträge zur Bundesagentur für Arbeit, Arbeitgeberanteile an Beiträgen zur Sozialversicherung und zur Pflegeversicherung sowie zu Einrichtungen der zusätzlichen Alters- und Hinterbliebenenversorgung abgeführt hat.
 
@@ -73,8 +63,7 @@ Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber zusätz
 
 (3) Der Forderungsübergang nach Absatz 1 kann nicht zum Nachteil des Arbeitnehmers geltend gemacht werden.
 
-
-## § 7 – Leistungsverweigerungsrecht des Arbeitgebers
+# § 7 – Leistungsverweigerungsrecht des Arbeitgebers
 
 (1) Der Arbeitgeber ist berechtigt, die Fortzahlung des Arbeitsentgelts zu verweigern,
 
@@ -84,15 +73,13 @@ Eine Vereinbarung über die Kürzung von Leistungen, die der Arbeitgeber zusätz
 
 (2) Absatz 1 gilt nicht, wenn der Arbeitnehmer die Verletzung dieser ihm obliegenden Verpflichtungen nicht zu vertreten hat.
 
-
-## § 8 – Beendigung des Arbeitsverhältnisses
+# § 8 – Beendigung des Arbeitsverhältnisses
 
 (1) Der Anspruch auf Fortzahlung des Arbeitsentgelts wird nicht dadurch berührt, daß der Arbeitgeber das Arbeitsverhältnis aus Anlaß der Arbeitsunfähigkeit kündigt. Das gleiche gilt, wenn der Arbeitnehmer das Arbeitsverhältnis aus einem vom Arbeitgeber zu vertretenden Grunde kündigt, der den Arbeitnehmer zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigt.
 
 (2) Endet das Arbeitsverhältnis vor Ablauf der in § 3 Abs. 1 oder in § 3a Absatz 1 bezeichneten Zeit nach dem Beginn der Arbeitsunfähigkeit, ohne daß es einer Kündigung bedarf, oder infolge einer Kündigung aus anderen als den in Absatz 1 bezeichneten Gründen, so endet der Anspruch mit dem Ende des Arbeitsverhältnisses.
 
-
-## § 9 – Maßnahmen der medizinischen Vorsorge und Rehabilitation
+# § 9 – Maßnahmen der medizinischen Vorsorge und Rehabilitation
 
 (1) Die Vorschriften der §§ 3 bis 4a und 6 bis 8 gelten entsprechend für die Arbeitsverhinderung infolge einer Maßnahme der medizinischen Vorsorge oder Rehabilitation, die ein Träger der gesetzlichen Renten-, Kranken- oder Unfallversicherung, eine Verwaltungsbehörde der Kriegsopferversorgung oder ein sonstiger Sozialleistungsträger bewilligt hat und die in einer Einrichtung der medizinischen Vorsorge oder Rehabilitation durchgeführt wird. Ist der Arbeitnehmer nicht Mitglied einer gesetzlichen Krankenkasse oder nicht in der gesetzlichen Rentenversicherung versichert, gelten die §§ 3 bis 4a und 6 bis 8 entsprechend, wenn eine Maßnahme der medizinischen Vorsorge oder Rehabilitation ärztlich verordnet worden ist und in einer Einrichtung der medizinischen Vorsorge oder Rehabilitation oder einer vergleichbaren Einrichtung durchgeführt wird.
 
@@ -104,8 +91,7 @@ b) eine ärztliche Bescheinigung über die Erforderlichkeit der Maßnahme im Sin
 
 unverzüglich vorzulegen.
 
-
-## § 10 – Wirtschaftliche Sicherung für den Krankheitsfall im Bereich der Heimarbeit
+# § 10 – Wirtschaftliche Sicherung für den Krankheitsfall im Bereich der Heimarbeit
 
 (1) In Heimarbeit Beschäftigte (§ 1 Abs. 1 des Heimarbeitsgesetzes) und ihnen nach § 1 Abs. 2 Buchstabe a bis c des Heimarbeitsgesetzes Gleichgestellte haben gegen ihren Auftraggeber oder, falls sie von einem Zwischenmeister beschäftigt werden, gegen diesen Anspruch auf Zahlung eines Zuschlags zum Arbeitsentgelt. Der Zuschlag beträgt
 
@@ -123,8 +109,7 @@ des Arbeitsentgelts vor Abzug der Steuern, des Beitrags zur Bundesagentur für A
 
 (5) Auf die in den Absätzen 1 und 2 vorgesehenen Zuschläge sind die §§ 23 bis 25, 27 und 28 des Heimarbeitsgesetzes, auf die in Absatz 1 dem Zwischenmeister gegenüber vorgesehenen Zuschläge außerdem § 21 Abs. 2 des Heimarbeitsgesetzes entsprechend anzuwenden. Auf die Ansprüche der fremden Hilfskräfte der in Absatz 1 unter Nummer 2 genannten Personen auf Entgeltfortzahlung im Krankheitsfall ist § 26 des Heimarbeitsgesetzes entsprechend anzuwenden.
 
-
-## § 11 – Feiertagsbezahlung der in Heimarbeit Beschäftigten
+# § 11 – Feiertagsbezahlung der in Heimarbeit Beschäftigten
 
 (1) Die in Heimarbeit Beschäftigen (§ 1 Abs. 1 des Heimarbeitsgesetzes) haben gegen den Auftraggeber oder Zwischenmeister Anspruch auf Feiertagsbezahlung nach Maßgabe der Absätze 2 bis 5. Den gleichen Anspruch haben die in § 1 Abs. 2 Buchstabe a bis d des Heimarbeitsgesetzes bezeichneten Personen, wenn sie hinsichtlich der Feiertagsbezahlung gleichgestellt werden; die Vorschriften des § 1 Abs. 3 Satz 3 und Abs. 4 und 5 des Heimarbeitsgesetzes finden Anwendung. Eine Gleichstellung, die sich auf die Entgeltregelung erstreckt, gilt auch für die Feiertagsbezahlung, wenn diese nicht ausdrücklich von der Gleichstellung ausgenommen ist.
 
@@ -136,12 +121,10 @@ des Arbeitsentgelts vor Abzug der Steuern, des Beitrags zur Bundesagentur für A
 
 (5) Das Feiertagsgeld gilt als Entgelt im Sinne der Vorschriften des Heimarbeitsgesetzes über Mithaftung des Auftraggebers (§ 21 Abs. 2), über Entgeltschutz (§§ 23 bis 27) und über Auskunftspflicht über Entgelte (§ 28); hierbei finden die §§ 24 bis 26 des Heimarbeitsgesetzes Anwendung, wenn ein Feiertagsgeld gezahlt ist, das niedriger ist als das in diesem Gesetz festgesetzte.
 
-
-## § 12 – Unabdingbarkeit
+# § 12 – Unabdingbarkeit
 
 Abgesehen von § 4 Abs. 4 kann von den Vorschriften dieses Gesetzes nicht zuungunsten des Arbeitnehmers oder der nach § 10 berechtigten Personen abgewichen werden.
 
-
-## § 13 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
 Ist der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998 bis zum 1. Januar 1999 oder darüber hinaus durch Arbeitsunfähigkeit infolge Krankheit oder infolge einer Maßnahme der medizinischen Vorsorge oder Rehabilitation an seiner Arbeitsleistung verhindert, sind für diesen Zeitraum die seit dem 1. Januar 1999 geltenden Vorschriften maßgebend, es sei denn, daß diese für den Arbeitnehmer ungünstiger sind.

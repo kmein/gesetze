@@ -1,32 +1,25 @@
-# [ZVerkV] Verordnung über Anforderungen an Zusatzstoffe und das Inverkehrbringen von Zusatzstoffen für technologische Zwecke  (Zusatzstoff-Verkehrsverordnung - ZVerkV)
-
-Ausfertigungsdatum: 29.01.1998
-
+% Verordnung über Anforderungen an Zusatzstoffe und das Inverkehrbringen von Zusatzstoffen für technologische Zwecke  (Zusatzstoff-Verkehrsverordnung - ZVerkV)
+% Ausfertigungsdatum: 29.01.1998
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Anforderungen an Zusatzstoffe und den Zusatzstoffen gleichgestellte Stoffe, die Lebensmitteln zu technologischen Zwecken zugesetzt werden, sowie an Trägerstoffe und Trägerlösungsmittel für diese Zusatzstoffe.
 
-
-## § 2 – Gleichstellung
+# § 2 – Gleichstellung
 
 Die in Anlage 1 aufgeführten Stoffe sind den Zusatzstoffen gleichgestellt.
 
-
-## § 3 – Reinheitsanforderungen
+# § 3 – Reinheitsanforderungen
 
 (1) Die in Anlage 2 aufgeführten Zusatzstoffe müssen den dort festgelegten Reinheitsanforderungen entsprechen.
 
 (2) (weggefallen)
 
-
-## § 4 – Trägerstoffe und -lösungsmittel
+# § 4 – Trägerstoffe und -lösungsmittel
 
 Die in Anlage 4 aufgeführten Zusatzstoffe sind unter den dort festgelegten Bedingungen als Trägerstoffe oder Trägerlösungsmittel für die in Anlage 2 aufgeführten Zusatzstoffe zugelassen.
 
-
-## § 5 – Verwendungs- und Verkehrsverbote
+# § 5 – Verwendungs- und Verkehrsverbote
 
 (1) Zusatzstoffe, die den in § 3 festgesetzten Reinheitsanforderungen nicht entsprechen, dürfen bei dem gewerbsmäßigen Herstellen und Behandeln von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, nicht verwendet werden.
 
@@ -54,8 +47,7 @@ Nitritpökelsalz darf nur in Räumen hergestellt werden, die ausschließlich zu 
 
 (6) Ethylenoxid darf zur Sterilisierung von Zusatzstoffen nicht verwendet werden.
 
-
-## § 6 – Kennzeichnung, Warnhinweise
+# § 6 – Kennzeichnung, Warnhinweise
 
 (1) (weggefallen)
 
@@ -65,15 +57,13 @@ Nitritpökelsalz darf nur in Räumen hergestellt werden, die ausschließlich zu 
 
 (4) (weggefallen)
 
-
-## § 6a – Übergangsvorschrift
+# § 6a – Übergangsvorschrift
 
 (1) Zusatzstoffe, die vor dem 21. Oktober 2006 nach den Vorschriften dieser Verordnung hergestellt, behandelt und gekennzeichnet worden sind, dürfen bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 (2) Zusatzstoffe, die bis zum Ablauf des 14. August 2008 nach den bis zum 14. Februar 2008 geltenden Vorschriften gekennzeichnet und in den Verkehr gebracht sein werden, dürfen bis zum Abbau der Vorräte noch weiter in den Verkehr gebracht werden.
 
-
-## § 7 – Straftaten und Ordnungswidrigkeiten
+# § 7 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig
 
@@ -97,8 +87,7 @@ Nitritpökelsalz darf nur in Räumen hergestellt werden, die ausschließlich zu 
 
 (5) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 21 Absatz 1 Satz 1 in Verbindung mit Artikel 22 Absatz 1, 2 oder Absatz 3 oder entgegen Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlamentes und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) einen Lebensmittelzusatzstoff in den Verkehr bringt.
 
-
-## Anlage 1 – (zu § 2)Den Zusatzstoffen gleichgestellte Stoffe
+# Anlage 1 – (zu § 2)Den Zusatzstoffen gleichgestellte Stoffe
 
 (Fundstelle: BGBl. I 1998, 271;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -249,8 +238,7 @@ Wachsester
 
 Wollwachs
 
-
-## Anlage 2 – (zu § 3 Abs. 1)  Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
+# Anlage 2 – (zu § 3 Abs. 1)  Verkehrsbezeichnungen und Reinheitsanforderungen von für technologische Zwecke zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 271 - 289;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2640,8 +2628,7 @@ Liste A
 
 Calciumphytat Calcium-Magnesiumphytat
 
-Salze der Inosithexaphosphorsäure, Hexa-O-phosphono-Inosit, C<sub>6</sub>H<sub>18</sub>O<sub>24</sub>P<sub>6</sub> bzw.  
-C<sub>6</sub>H<sub>6</sub>(H<sub>2</sub>PO<sub>4</sub>) <sub>6</sub>
+Salze der Inosithexaphosphorsäure, Hexa-O-phosphono-Inosit, C<sub>6</sub>H<sub>18</sub>O<sub>24</sub>P<sub>6</sub> bzw. C<sub>6</sub>H<sub>6</sub>(H<sub>2</sub>PO<sub>4</sub>) <sub>6</sub>
 
  
 
@@ -2832,13 +2819,11 @@ in wässriger Lösung von ... Gramm pro 100 ml
 
 nach 2stündigem Trocknen bei 105 Grad Celsius
 
-
-## Anlage 3 – (weggefallen)
+# Anlage 3 – (weggefallen)
 
 \-
 
-
-## Anlage 4 – (zu § 4)Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
+# Anlage 4 – (zu § 4)Trägerstoffe und Trägerlösungsmittel für Lebensmittelzusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1568 - 1570;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

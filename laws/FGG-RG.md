@@ -1,10 +1,7 @@
-# [FGG-RG] Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit  (FGG-Reformgesetz - FGG-RG)
-
-Ausfertigungsdatum: 17.12.2008
-
+% Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit  (FGG-Reformgesetz - FGG-RG)
+% Ausfertigungsdatum: 17.12.2008
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |              |                                                                                                                                                                                                          |
 |:-------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -127,18 +124,15 @@ Ausfertigungsdatum: 17.12.2008
 | Artikel 111  | Übergangsvorschrift                                                                                                                                                                                      |
 | Artikel 112  | Inkrafttreten, Außerkrafttreten                                                                                                                                                                          |
 
-
-## Art 1
-
-\-
-
-
-## Art 2
+# Art 1
 
 \-
 
+# Art 2
 
-## Art 111 – Übergangsvorschrift
+\-
+
+# Art 111 – Übergangsvorschrift
 
 (1) Auf Verfahren, die bis zum Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit eingeleitet worden sind oder deren Einleitung bis zum Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beantragt wurde, sind weiter die vor Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit geltenden Vorschriften anzuwenden. Auf Abänderungs-, Verlängerungs- und Aufhebungsverfahren finden die vor Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit geltenden Vorschriften Anwendung, wenn die Abänderungs-, Verlängerungs- und Aufhebungsverfahren bis zum Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit eingeleitet worden sind oder deren Einleitung bis zum Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit beantragt wurde.
 
@@ -150,8 +144,7 @@ Ausfertigungsdatum: 17.12.2008
 
 (5) Abweichend von Absatz 1 Satz 1 sind auf Verfahren über den Versorgungsausgleich, in denen am 31. August 2010 im ersten Rechtszug noch keine Endentscheidung erlassen wurde, sowie auf die mit solchen Verfahren im Verbund stehenden Scheidungs- und Folgesachen ab dem 1. September 2010 die nach Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit geltenden Vorschriften anzuwenden.
 
-
-## Art 112 – Inkrafttreten, Außerkrafttreten
+# Art 112 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt, mit Ausnahme von Artikel 110a Abs. 2 und 3, am 1. September 2009 in Kraft; ...
 

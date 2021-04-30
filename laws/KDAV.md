@@ -1,20 +1,15 @@
-# [KDAV] Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes  (Kundendatenauskunftsverordnung - KDAV)
-
-Ausfertigungsdatum: 14.06.2017
-
+% Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes  (Kundendatenauskunftsverordnung - KDAV)
+% Ausfertigungsdatum: 14.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 112 Absatz 3 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 1 des Gesetzes vom 10. November 2016 (BGBl. I S. 2473) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium des Innern, dem Bundesministerium der Justiz und für Verbraucherschutz, dem Bundesministerium der Finanzen, dem Bundesministerium für Verkehr und digitale Infrastruktur sowie dem Bundesministerium der Verteidigung:
 
-
-## § 1 – Anwendungsbereich, Verpflichtete
+# § 1 – Anwendungsbereich, Verpflichtete
 
 Diese Verordnung gilt für diejenigen Erbringer von öffentlich zugänglichen Telekommunikationsdiensten, die dabei Rufnummern vergeben und mehr als 10 000 Teilnehmer haben (Verpflichtete).
 
-
-## § 2 – Ersuchen
+# § 2 – Ersuchen
 
 (1) Ein Ersuchen, das der Bundesnetzagentur im automatisierten Auskunftsverfahren von einer ersuchenden Stelle nach § 112 Absatz 2 des Telekommunikationsgesetzes vorgelegt wird, kann personenbasiert, nummernbasiert oder anschriftenbasiert erfolgen. Das Ersuchen muss folgende Angaben enthalten:
 
@@ -30,8 +25,7 @@ Diese Verordnung gilt für diejenigen Erbringer von öffentlich zugänglichen Te
 
 (2) Ersuchen dürfen nicht ausschließlich selbsttätig von einem IT-System erzeugt werden.
 
-
-## § 3 – Personenbasiertes Ersuchen
+# § 3 – Personenbasiertes Ersuchen
 
 (1) Ein personenbasiertes Ersuchen muss neben den Angaben nach § 2 Absatz 1 in der Regel folgende Angaben enthalten:
 
@@ -85,13 +79,11 @@ Die Platzhalter dürfen in einer Angabe nicht als einziges Zeichen gesetzt werde
 
 (6) Die Platzhaltersuche und die phonetische Suche dürfen in einem Ersuchen nicht gleichzeitig verwendet werden.
 
-
-## § 4 – Nummernbasiertes Ersuchen
+# § 4 – Nummernbasiertes Ersuchen
 
 Ein nummernbasiertes Ersuchen muss neben den Angaben nach § 2 Absatz 1 die vollständige Rufnummer enthalten. Die Rufnummer muss mit vorangestellter internationaler Länderkennung und einer nationalen Ortsnetz- oder Dienstekennzahl angegeben werden. Das nummernbasierte Ersuchen kann zusätzlich das Datum eines ermittlungsrelevanten Stichtags oder die Angabe des ermittlungsrelevanten Zeitraums enthalten.
 
-
-## § 5 – Anschriftenbasiertes Ersuchen
+# § 5 – Anschriftenbasiertes Ersuchen
 
 Wenn es zur Ermittlung von Rufnummern zu einer bestimmten Anschrift erforderlich ist, kann auch ein anschriftenbasiertes Ersuchen erfolgen. Das Ersuchen muss neben den Angaben nach § 2 Absatz 1 folgende zusätzliche Angaben enthalten:
 
@@ -103,15 +95,13 @@ Wenn es zur Ermittlung von Rufnummern zu einer bestimmten Anschrift erforderlich
 
 Das anschriftenbasierte Ersuchen kann zusätzlich das Datum eines ermittlungsrelevanten Stichtags oder die Angabe des ermittlungsrelevanten Zeitraums enthalten.
 
-
-## § 6 – Abfrage der Daten
+# § 6 – Abfrage der Daten
 
 (1) Die Bundesnetzagentur übernimmt aus dem Ersuchen die Daten ohne die Angaben nach § 2 Absatz 1 und leitet die Daten unverzüglich an die in Betracht kommenden Verpflichteten weiter.
 
 (2) Der Verpflichtete muss seine technischen Systeme jederzeit zum Empfang von Abfragen der Bundesnetzagentur bereithalten. Zur Empfangsbereitschaft gehören insbesondere die Einrichtung und die laufende Bereitstellung eines geeigneten Telekommunikationsanschlusses.
 
-
-## § 7 – Datenübermittlung durch den Verpflichteten
+# § 7 – Datenübermittlung durch den Verpflichteten
 
 (1) Auf Grund einer Abfrage hat der Verpflichtete unverzüglich die Gesamtheit der aktuellen Kundendaten zum ermittlungsrelevanten Stichtag oder zum ermittlungsrelevanten Zeitraum, die zu einer Rufnummer nach § 111 Absatz 1 Satz 1 und Absatz 2 des Telekommunikationsgesetzes erhoben wurden und in der Kundendatei nach § 112 Absatz 1 Satz 1 bis 3 des Telekommunikationsgesetzes gespeichert sind, an die Bundesnetzagentur zu übermitteln. Die Übermittlung der aktuellen Kundendaten umfasst auch die Übermittlung der Angabe anderer Anschlusskennungen sowie die Übermittlung der Kennungen elektronischer Postfächer, die von dem Verpflichteten vergeben wurden. Die Bundesnetzagentur legt in der Technischen Richtlinie fest, welche Anschlusskennungen von den Verpflichteten zu beauskunften sind.
 
@@ -127,13 +117,11 @@ Das anschriftenbasierte Ersuchen kann zusätzlich das Datum eines ermittlungsrel
 
 teilt der Verpflichtete der Bundesnetzagentur als Antwort ausschließlich die Anzahl der gefundenen Datensätze mit.
 
-
-## § 8 – Datenübermittlung durch die Bundesnetzagentur
+# § 8 – Datenübermittlung durch die Bundesnetzagentur
 
 Die Bundesnetzagentur leitet die erhaltenen Antworten als Ergebnis an die ersuchende Stelle weiter. Die ersuchende Stelle soll ihre Empfangseinrichtungen jederzeit zum Empfang von Daten bereithalten.
 
-
-## § 9 – Sicherheitsanforderungen
+# § 9 – Sicherheitsanforderungen
 
 (1) Die zu übermittelnden Daten sowie die Übertragungswege zwischen den am automatisierten Auskunftsverfahren Beteiligten sind mit geeigneten Maßnahmen zur Sicherstellung der Verfügbarkeit, Vertraulichkeit und Integrität zu schützen. Diese Maßnahmen haben fortwährend dem Stand der Technik zu entsprechen.
 
@@ -141,8 +129,7 @@ Die Bundesnetzagentur leitet die erhaltenen Antworten als Ergebnis an die ersuch
 
 (3) Der Verpflichtete hat die ihm von der Bundesnetzagentur zu Testzwecken vorgegebenen Datensätze in seine Kundendateien nach § 112 Absatz 1 Satz 1 des Telekommunikationsgesetzes aufzunehmen und diese Datensätze verfügbar zu halten.
 
-
-## § 10 – Evaluierung
+# § 10 – Evaluierung
 
 (1) Die Anwendung der Vorschriften dieser Verordnung ist vom Bundesministerium für Wirtschaft und Energie unter Einbeziehung der betroffenen Kreise innerhalb von drei Jahren nach ihrem Inkrafttreten zu evaluieren. Der Evaluationszeitraum beträgt drei Jahre. Über das Ergebnis der Evaluierung ist dem Verordnungsgeber Bericht zu erstatten.
 
@@ -156,12 +143,10 @@ Die Bundesnetzagentur leitet die erhaltenen Antworten als Ergebnis an die ersuch
 
 Hierbei ist die Weiterentwicklung der Kommunikationstechnik zu berücksichtigen.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,11 +1,8 @@
-# [SGB XIV] Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –  (SGB XIV)
-
-Ausfertigungsdatum: 12.12.2019
-
+% Sozialgesetzbuch Vierzehntes Buch – Soziale Entschädigung –  (SGB XIV)
+% Ausfertigungsdatum: 12.12.2019
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
  
 
  
@@ -201,14 +198,12 @@ Ausfertigungsdatum: 12.12.2019
  
 
  
-
 
-## § 1 – (zukünftig in Kraft)
+# § 1 – (zukünftig in Kraft)
 
 (+++ § 1: Tritt gem. Art. 60 Abs. 7 G vom 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 2 – Berechtigte der Sozialen Entschädigung
+# § 2 – Berechtigte der Sozialen Entschädigung
 
 (1) Berechtigte sind Geschädigte sowie deren Angehörige, Hinterbliebene und Nahestehende.
 
@@ -230,53 +225,43 @@ einer an den Folgen einer Schädigung verstorbenen Person. Als Waisen gelten auc
 
 (+++ § 2: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 3 – (zukünftig in Kraft)
+# § 3 – (zukünftig in Kraft)
 
 (+++ § 3: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 4 bis 12 – (zukünftig in Kraft)
+# §§ 4 bis 12 – (zukünftig in Kraft)
 
 (+++ §§ 4 bis 12: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 13 bis 20 – (zukünftig in Kraft)
+# §§ 13 bis 20 – (zukünftig in Kraft)
 
 (+++ §§ 13 bis 20: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 21 und 22 – (zukünftig in Kraft)
+# §§ 21 und 22 – (zukünftig in Kraft)
 
 (+++ §§ 21 u. 22: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 23 – (zukünftig in Kraft)
+# § 23 – (zukünftig in Kraft)
 
 (+++ § 23: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 24 – (zukünftig in Kraft)
+# § 24 – (zukünftig in Kraft)
 
 (+++ § 24: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 25 bis 28 – (zukünftig in Kraft)
+# §§ 25 bis 28 – (zukünftig in Kraft)
 
 (+++ §§ 25 bis 28: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 29 – (zukünftig in Kraft)
+# § 29 – (zukünftig in Kraft)
 
 (+++ § 29: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 30 – (zukünftig in Kraft)
+# § 30 – (zukünftig in Kraft)
 
 (+++ § 30: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 31 – Leistungen in einer Traumaambulanz
+# § 31 – Leistungen in einer Traumaambulanz
 
 (1) In einer Traumaambulanz wird psychotherapeutische Intervention erbracht, um den Eintritt einer psychischen Gesundheitsstörung oder deren Chronifizierung zu verhindern.
 
@@ -284,8 +269,7 @@ einer an den Folgen einer Schädigung verstorbenen Person. Als Waisen gelten auc
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 32 – Psychotherapeutische Frühintervention
+# § 32 – Psychotherapeutische Frühintervention
 
 (1) Geschädigte sollen psychotherapeutische Frühintervention in einer Traumaambulanz erhalten, wenn die erste Sitzung innerhalb von zwölf Monaten nach dem schädigenden Ereignis oder nach Kenntnisnahme hiervon erfolgt.
 
@@ -293,15 +277,13 @@ einer an den Folgen einer Schädigung verstorbenen Person. Als Waisen gelten auc
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 33 – Psychotherapeutische Intervention in anderen Fällen
+# § 33 – Psychotherapeutische Intervention in anderen Fällen
 
 Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychotherapeutische Intervention in einer Traumaambulanz erhalten, wenn ein mehr als zwölf Monate zurückliegendes schädigendes Ereignis zu einer akuten psychischen Belastung geführt hat und die erste Sitzung innerhalb von zwölf Monaten nach Auftreten der akuten Belastung erfolgt.
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 34 – Leistungsvoraussetzungen und Leistungsumfang
+# § 34 – Leistungsvoraussetzungen und Leistungsumfang
 
 (1) Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende haben Anspruch auf insgesamt bis zu 15 Sitzungen in der Traumaambulanz nach Maßgabe der folgenden Absätze, sofern die Voraussetzungen nach § 32 oder § 33 vorliegen. Bei Kindern und Jugendlichen beträgt der Höchstanspruch 18 Sitzungen.
 
@@ -311,8 +293,7 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 35 – Weiterer Bedarf nach Betreuung in der Traumaambulanz
+# § 35 – Weiterer Bedarf nach Betreuung in der Traumaambulanz
 
 (1) Besteht bei Personen, die die Betreuung in der Traumaambulanz in Anspruch nehmen, auch nach dieser Betreuung weiterer psychotherapeutischer Behandlungsbedarf, so verweist der Träger der Sozialen Entschädigung sie auf weitere psychotherapeutische Angebote.
 
@@ -320,8 +301,7 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 36 – Fahrkosten
+# § 36 – Fahrkosten
 
 (1) Übernommen werden die erforderlichen Fahrkosten zur nächstgelegenen Traumaambulanz. Gleiches gilt für die erforderlichen Fahrkosten einer notwendigen Begleitperson sowie für Kinder, deren Mitnahme erforderlich ist, weil ihre Betreuung nicht sichergestellt ist. Übernommen werden auch die notwendigen Betreuungskosten für zu pflegende oder zu betreuende Familienangehörige sowohl für die Berechtigten als auch für die notwendigen Begleitpersonen für Kinder und Jugendliche.
 
@@ -329,8 +309,7 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 37 – Vereinbarungen mit Traumaambulanzen
+# § 37 – Vereinbarungen mit Traumaambulanzen
 
 (1) Die nach Landesrecht zuständigen Behörden schließen Vereinbarungen mit Traumaambulanzen, die die Voraussetzungen nach diesem Abschnitt erfüllen. Am 1. Januar 2021 bestehende Vereinbarungen bleiben hiervon für die Dauer ihrer Laufzeit unberührt.
 
@@ -350,8 +329,7 @@ Geschädigte sowie Angehörige, Hinterbliebene und Nahestehende sollen psychothe
 
 (+++ §§ 31 bis 37: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 38 – Verordnungsermächtigung
+# § 38 – Verordnungsermächtigung
 
 Das Nähere zu den Vereinbarungen nach § 37 regelt eine vom Bundesministerium für Arbeit und Soziales mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung, die zum 1. Januar 2024 in Kraft tritt. Mindestinhalt der Verordnung sind Bestimmungen
 
@@ -371,13 +349,11 @@ Das Nähere zu den Vereinbarungen nach § 37 regelt eine vom Bundesministerium f
 
 (+++ § 38: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)
 
-
-## § 39 – (zukünftig in Kraft)
+# § 39 – (zukünftig in Kraft)
 
 (+++ § 39: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 40 – Verordnungsermächtigung
+# § 40 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die qualitativen Anforderungen an Kooperationsvereinbarungen zu regeln. Mindestinhalte der Verordnung sind:
 
@@ -387,73 +363,59 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 
 (+++ § 40: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)
 
-
-## §§ 41 bis 53 – (zukünftig in Kraft)
+# §§ 41 bis 53 – (zukünftig in Kraft)
 
 (+++ §§ 41 bis 53: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 54 bis 56 – (zukünftig in Kraft)
+# §§ 54 bis 56 – (zukünftig in Kraft)
 
 (+++ §§ 54 bis 56: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 57 bis 59 – (zukünftig in Kraft)
+# §§ 57 bis 59 – (zukünftig in Kraft)
 
 (+++ § 57 bis 59: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 60 und 61 – (zukünftig in Kraft)
+# §§ 60 und 61 – (zukünftig in Kraft)
 
 (+++ §§ 60 u. 61: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 62 bis 70 – (zukünftig in Kraft)
+# §§ 62 bis 70 – (zukünftig in Kraft)
 
 (+++ §§ 62 bis 70: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 71 bis 73 – (zukünftig in Kraft)
+# §§ 71 bis 73 – (zukünftig in Kraft)
 
 (+++ §§ 71 bis 73: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 74 bis 76 – (zukünftig in Kraft)
+# §§ 74 bis 76 – (zukünftig in Kraft)
 
 (+++ §§ 74 bis 76: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 77 bis 79 – (zukünftig in Kraft)
+# §§ 77 bis 79 – (zukünftig in Kraft)
 
 (+++ §§ 77 bis 79: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 80 und 81 – (zukünftig in Kraft)
+# §§ 80 und 81 – (zukünftig in Kraft)
 
 (+++ §§ 80 u. 81: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 82 – (zukünftig in Kraft)
+# § 82 – (zukünftig in Kraft)
 
 (+++ § 82: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 83 und 84 – (zukünftig in Kraft)
+# §§ 83 und 84 – (zukünftig in Kraft)
 
 (+++ §§ 83 u. 84: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 85 bis 88 – (zukünftig in Kraft)
+# §§ 85 bis 88 – (zukünftig in Kraft)
 
 (+++ §§ 85 bis 88: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 89 und 90 – (zukünftig in Kraft)
+# §§ 89 und 90 – (zukünftig in Kraft)
 
 (+++ §§ 89 u. 90: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 91 – Verordnungsermächtigung
+# § 91 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen:
 
@@ -469,38 +431,31 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (+++ § 91: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)
 
-
-## §§ 92 bis 98 – (zukünftig in Kraft)
+# §§ 92 bis 98 – (zukünftig in Kraft)
 
 (+++ § 92 bis 98: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 99 – (zukünftig in Kraft)
+# § 99 – (zukünftig in Kraft)
 
 (+++ § 99: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 100 – (zukünftig in Kraft)
+# § 100 – (zukünftig in Kraft)
 
 (+++ § 100: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 101 – (zukünftig in Kraft)
+# § 101 – (zukünftig in Kraft)
 
 (+++ § 101: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 102 bis 104 – (zukünftig in Kraft)
+# §§ 102 bis 104 – (zukünftig in Kraft)
 
 (+++ §§ 102 bis 104: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 105 bis 108 – (zukünftig in Kraft)
+# §§ 105 bis 108 – (zukünftig in Kraft)
 
 (+++ §§ 105 bis 108: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 109 – Verordnungsermächtigung
+# § 109 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen, welche weiteren
 
@@ -512,27 +467,23 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (+++ § 109: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)
 
-
-## § 110 – (zukünftig in Kraft)
+# § 110 – (zukünftig in Kraft)
 
 (+++ § 110: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 111 – Träger der Sozialen Entschädigung
+# § 111 – Träger der Sozialen Entschädigung
 
 Träger der Sozialen Entschädigung sind die Länder.
 
 (+++ §§ 111 u. 112: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 112 – Sachliche Zuständigkeit
+# § 112 – Sachliche Zuständigkeit
 
 Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständigkeit kann auf gemeinsame Behörden oder auf andere Träger übertragen werden.
 
 (+++ §§ 111 u. 112: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 113 – Örtliche Zuständigkeit
+# § 113 – Örtliche Zuständigkeit
 
 (1) Die örtliche Zuständigkeit der Behörden nach § 112 bestimmen die Länder.
 
@@ -549,13 +500,11 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 (+++ § 113 Abs. 6: Inkraft gem. Art. 60 Abs. 3 Nr. 1 G vom 12.12.2019 I 2652 mWv 20.12.2019 +++)  
 (+++ § 113 Abs. 1 bis 5: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 mWv 1.1.2024 in Kraft +++)
 
-
-## § 114 – (zukünftig in Kraft)
+# § 114 – (zukünftig in Kraft)
 
 (+++ § 114: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 115 – Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen
+# § 115 – Erleichtertes Verfahren bei Leistungen der Schnellen Hilfen
 
 (1) Leistungen der Schnellen Hilfen werden in der Regel im Erleichterten Verfahren erbracht.
 
@@ -565,8 +514,7 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (+++ §§ 115 u. 116: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## § 116 – Weiteres Verfahren
+# § 116 – Weiteres Verfahren
 
 (1) Nach der Entscheidung im Erleichterten Verfahren wird geprüft, ob Ansprüche auf Leistungen der Sozialen Entschädigung bestehen, es sei denn, die antragstellende Person hat den Antrag ausdrücklich auf Schnelle Hilfen beschränkt.
 
@@ -576,33 +524,27 @@ Sachlich zuständig sind die nach Landesrecht bestimmten Behörden. Die Zuständ
 
 (+++ §§ 115 u. 116: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021 +++)
 
-
-## §§ 117 bis 119 – (zukünftig in Kraft)
+# §§ 117 bis 119 – (zukünftig in Kraft)
 
 (+++ §§ 117 bis 119: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 123 bis 125 – (zukünftig in Kraft)
+# §§ 123 bis 125 – (zukünftig in Kraft)
 
 (+++ §§ 123 bis 125: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 126 bis 132 – (zukünftig in Kraft)
+# §§ 126 bis 132 – (zukünftig in Kraft)
 
 (+++ §§ 126 bis 132: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 133 bis 136 – (zukünftig in Kraft)
+# §§ 133 bis 136 – (zukünftig in Kraft)
 
 (+++ §§ 133 bis 136: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 137 – (zukünftig in Kraft)
+# § 137 – (zukünftig in Kraft)
 
 (+++ § 137: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 138 – Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten
+# § 138 – Besonderer zeitlicher Geltungsbereich für Opfer von Gewalttaten
 
 (1) Personen, die in der Zeit vom 16. Mai 1976 bis 31. Dezember 2023 geschädigt worden sind, erhalten Leistungen nach diesem Buch, wenn die Voraussetzungen nach dem Opferentschädigungsgesetz in der zum Tatzeitpunkt geltenden Fassung erfüllt waren. Wurde die Schädigung durch mehrere Taten herbeigeführt, findet diese Vorschrift Anwendung, wenn die letzte Tat in dem in Satz 1 genannten Zeitraum stattgefunden hat.
 
@@ -631,42 +573,34 @@ Bedürftig sind Personen, wenn sie nicht oder nicht ausreichend in der Lage sind
 (+++ § 138 Abs. 7: Inkraft gem. Art. 60 Abs. 5 G vom 12.12.2019 I 2652 mWv 1.1.2021  
 (+++ § 138 Abs. 1 bis 6: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 139 bis 141 – (zukünftig in Kraft)
+# §§ 139 bis 141 – (zukünftig in Kraft)
 
 (+++ §§ 139 bis 141: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 142 bis 148 – (zukünftig in Kraft)
+# §§ 142 bis 148 – (zukünftig in Kraft)
 
 (+++ §§ 142 bis 148: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 149 und 150 – (zukünftig in Kraft)
+# §§ 149 und 150 – (zukünftig in Kraft)
 
 (+++ §§ 149 u. 150: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 151 – (zukünftig in Kraft)
+# § 151 – (zukünftig in Kraft)
 
 (+++ § 151: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 152 und 153 – (zukünftig in Kraft)
+# §§ 152 und 153 – (zukünftig in Kraft)
 
 (+++ §§ 152 u. 153: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 154 – (zukünftig in Kraft)
+# § 154 – (zukünftig in Kraft)
 
 (+++ § 154: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## §§ 155 bis 157 – (zukünftig in Kraft)
+# §§ 155 bis 157 – (zukünftig in Kraft)
 
 (+++ §§ 155 bis 157: Treten gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)
 
-
-## § 158 – (zukünftig in Kraft)
+# § 158 – (zukünftig in Kraft)
 
 (+++ § 158: Tritt gem. Art. 60 Abs. 7 G v. 12.12.2019 I 2652 am 1.1.2024 in Kraft +++)

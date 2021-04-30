@@ -1,15 +1,11 @@
-# [KVHilfsmV] Verordnung über Hilfsmittel von geringem therapeutischen Nutzen oder geringem Abgabepreis in der gesetzlichen Krankenversicherung
-
-Ausfertigungsdatum: 13.12.1989
-
+% Verordnung über Hilfsmittel von geringem therapeutischen Nutzen oder geringem Abgabepreis in der gesetzlichen Krankenversicherung
+% Ausfertigungsdatum: 13.12.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34 Abs. 4 des Fünften Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477) wird verordnet:
 
-
-## § 1 – Sächliche Mittel mit geringem oder umstrittenem therapeutischen Nutzen
+# § 1 – Sächliche Mittel mit geringem oder umstrittenem therapeutischen Nutzen
 
 Von der Versorgung sind ausgeschlossen:
 
@@ -33,8 +29,7 @@ Knie- und Knöchelkompressionsstücke
 
 9. Hysterophore (Ausnahme: bei inoperabelem Gebärmuttervorfall).
 
-
-## § 2 – Sächliche Mittel mit geringem Abgabepreis
+# § 2 – Sächliche Mittel mit geringem Abgabepreis
 
 Von der Versorgung sind ausgeschlossen:
 
@@ -78,20 +73,16 @@ Von der Versorgung sind ausgeschlossen:
 
 20. Zehen- und Ballenpolster, Zehenspreizer.
 
-
-## § 3 – Instandsetzungen
+# § 3 – Instandsetzungen
 
 Von der Versorgung sind ausgeschlossen:  
 Instandsetzungen von Brillengestellen für Versicherte, die das 18. Lebensjahr vollendet haben, einschließlich Aufarbeitung einer vorhandenen Fassung.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1990 in Kraft.
 
+# Schlußformel
 
-## Schlußformel
-
-Der Bundesrat hat zugestimmt.  
-  
+Der Bundesrat hat zugestimmt.   
 Der Bundesminister für Arbeit und Sozialordnung

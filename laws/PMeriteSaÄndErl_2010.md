@@ -1,10 +1,7 @@
-# [PMeriteSaÄndErl 2010] Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste
-
-Ausfertigungsdatum: 23.09.2010
-
+% Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste
+% Ausfertigungsdatum: 23.09.2010
  
-
-## ----
+# ----
 
 Das Ordenskapitel des Ordens Pour le mérite für Wissenschaften und Künste hat am 30. Mai 2010 Änderungen der Satzung des Ordens beschlossen.
 
@@ -12,7 +9,6 @@ Nach Artikel 6 Absatz 1 des Erlasses über die Genehmigung der Stiftung und Verl
 
 Die Neufassung der Satzung wird vom Bundesministerium des Innern im Bundesanzeiger veröffentlicht.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundespräsident

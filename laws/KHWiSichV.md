@@ -1,10 +1,7 @@
-# [KHWiSichV] Verordnung zur Regelung weiterer Maßnahmen zur wirtschaftlichen Sicherung der Krankenhäuser
-
-Ausfertigungsdatum: 07.04.2021
-
+% Verordnung zur Regelung weiterer Maßnahmen zur wirtschaftlichen Sicherung der Krankenhäuser
+% Ausfertigungsdatum: 07.04.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
 
@@ -17,8 +14,7 @@ des § 111d Absatz 9 des Fünften Buches Sozialgesetzbuch, der durch Artikel 4 N
 –  
 des § 417 Satz 4 des Fünften Buches Sozialgesetzbuch, der durch Artikel 4 Nummer 5 Buchstabe c des Gesetzes vom 18. November 2020 (BGBl. I S. 2397) eingefügt worden ist:
 
-
-## § 1 – Sonderregelung zur 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle
+# § 1 – Sonderregelung zur 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle
 
 Abweichend von § 21 Absatz 1a Satz 2 des Krankenhausfinanzierungsgesetzes kann die für die Krankenhausplanung zuständige Landesbehörde für die Zeit ab dem 5. April 2021 Krankenhäuser bestimmen, die Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes erhalten, wenn in dem Landkreis oder der kreisfreien Stadt die 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000 Einwohnerinnen und Einwohner über 50 liegt und
 
@@ -30,15 +26,13 @@ Abweichend von § 21 Absatz 1a Satz 2 des Krankenhausfinanzierungsgesetzes kann 
 
 Liegt die 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000 Einwohnerinnen und Einwohner in dem Landkreis oder der kreisfreien Stadt 14 Tage in Folge unter 50, gilt § 21 Absatz 1a Satz 2 in Verbindung mit Satz 6 des Krankenhausfinanzierungsgesetzes sowie § 3.
 
-
-## § 2 – Sonderregelung bei besonders hoher 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle
+# § 2 – Sonderregelung bei besonders hoher 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle
 
 (1) Sofern in einem Landkreis oder in einer kreisfreien Stadt die 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000 Einwohnerinnen und Einwohnern über 200 liegt, kann die für die Krankenhausplanung zuständige Landesbehörde für den Zeitraum seit dem 17. Dezember 2020 bis zum 14. Januar 2021 abweichend von § 21 Absatz 1a Satz 2 Nummer 1 und 2 und Satz 4 des Krankenhausfinanzierungsgesetzes unabhängig von dem Anteil freier betreibbarer intensivmedizinischer Behandlungskapazitäten in dem Landkreis oder in der kreisfreien Stadt Krankenhäuser nach § 21 Absatz 1a Satz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes sowie im Sinne von § 3 bestimmen, die Ausgleichszahlungen im Sinne von § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes erhalten. Liegt die 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000 Einwohnerinnen und Einwohnern in einem Landkreis oder in einer kreisfreien Stadt 14 Tage in Folge unter 200, gilt § 21 Absatz 1a Satz 2 in Verbindung mit Satz 6 des Krankenhausfinanzierungsgesetzes sowie Absatz 2 und § 3.
 
 (2) Sofern in einem Landkreis oder in einer kreisfreien Stadt die 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000 Einwohnerinnen und Einwohnern über 150 liegt, kann die für die Krankenhausplanung zuständige Landesbehörde für den Zeitraum seit dem 15. Januar 2021 abweichend von § 21 Absatz 1a Satz 2 Nummer 1 und 2 und Satz 4 des Krankenhausfinanzierungsgesetzes unabhängig von dem Anteil freier betreibbarer intensivmedizinischer Behandlungskapazitäten in dem Landkreis oder in der kreisfreien Stadt Krankenhäuser nach § 21 Absatz 1a Satz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes sowie im Sinne von § 3 bestimmen, die Ausgleichszahlungen im Sinne von § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes erhalten. Liegt die 7-Tage-Inzidenz der Coronavirus-SARS-CoV-2-Fälle je 100 000 Einwohnerinnen und Einwohnern in einem Landkreis oder in einer kreisfreien Stadt 14 Tage in Folge unter 150, gilt § 21 Absatz 1a Satz 2 in Verbindung mit Satz 6 des Krankenhausfinanzierungsgesetzes sowie § 3.
 
-
-## § 3 – Erweiterung der Bestimmungsmöglichkeit gemäß § 21 Absatz 1a Satz 2 Nummer 2 des Krankenhausfinanzierungsgesetzes
+# § 3 – Erweiterung der Bestimmungsmöglichkeit gemäß § 21 Absatz 1a Satz 2 Nummer 2 des Krankenhausfinanzierungsgesetzes
 
 (1) Unter den Voraussetzungen des § 21 Absatz 1a Satz 2 Nummer 2 des Krankenhausfinanzierungsgesetzes oder in begründeten Ausnahmefällen nach § 21 Absatz 1a Satz 4 zweiter Halbsatz des Krankenhausfinanzierungsgesetzes kann die für die Krankenhausplanung zuständige Landesbehörde für den Zeitraum seit dem 17. Dezember 2020 auch Krankenhäuser für Ausgleichszahlungen nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes bestimmen, wenn diese noch keine Zu- oder Abschläge für die Teilnahme oder Nichtteilnahme an der Notfallversorgung gemäß § 9 Absatz 1a Nummer 5 des Krankenhausentgeltgesetzes vereinbart haben und eine Versorgungsstruktur aufweisen, die nach der Feststellung der für die Krankenhausplanung zuständigen Landesbehörde den Anforderungen des Beschlusses des Gemeinsamen Bundesausschusses nach § 136c Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch über ein gestuftes System von Notfallstrukturen in Krankenhäusern für die Teilnahme an der Basisnotfallversorgung entspricht.
 
@@ -66,8 +60,7 @@ Die Übersicht muss für jeden Krankenhausstandort die folgenden Angaben enthalt
 
 Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht an das Bundesministerium für Gesundheit. Das Bundesministerium für Gesundheit stellt den für die Krankenhausplanung zuständigen Landesbehörden die Übersicht elektronisch zur Verfügung.
 
-
-## § 4 – Verlängerung von Fristen nach den §§ 21 und 22 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch
+# § 4 – Verlängerung von Fristen nach den §§ 21 und 22 des Krankenhausfinanzierungsgesetzes sowie nach den §§ 111d und 417 des Fünften Buches Sozialgesetzbuch
 
 (1) Die Frist nach § 21 Absatz 1a Satz 1 des Krankenhausfinanzierungsgesetzes wird bis zum 31. Mai 2021 verlängert.
 
@@ -81,8 +74,7 @@ Das Institut für das Entgeltsystem im Krankenhaus übermittelt die Übersicht a
 
 (6) Die Frist nach § 417 Satz 1 des Fünften Buches Sozialgesetzbuch wird bis zum 31. Dezember 2021 verlängert.
 
-
-## § 5 – Erlösausgleiche für das Jahr 2021
+# § 5 – Erlösausgleiche für das Jahr 2021
 
 (1) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes vereinbaren bis zum 31. Juli 2021 das Nähere über den Ausgleich
 
@@ -160,8 +152,7 @@ Die Vereinbarung kann unabhängig von den Vereinbarungen nach § 11 Absatz 1 Sat
 
 (14) Erlösausgleiche nach § 4 Absatz 3 des Krankenhausentgeltgesetzes oder § 3 Absatz 7 der Bundespflegesatzverordnung sind für das Jahr 2021 ausgeschlossen.
 
-
-## § 6 – Abschlagszahlungen
+# § 6 – Abschlagszahlungen
 
 (1) Der Träger eines zugelassenen Krankenhauses kann vor dem Abschluss der Vereinbarung über einen Erlösausgleich nach § 5 Absatz 8 Satz 1 für das Jahr 2021 von den anderen Vertragsparteien nach § 18 Absatz 2 des Krankenhausfinanzierungsgesetzes eine Abschlagszahlung verlangen, um die Finanzierung der durch Pflegesätze nach § 17 des Krankenhausfinanzierungsgesetzes zu deckenden Kosten im Jahr 2021 zu gewährleisten, wenn
 
@@ -211,7 +202,6 @@ Der verbleibende Teil des Jahres 2021 sind die Tage des Jahres 2021 ab dem erste
 
 (8) Der Träger eines Krankenhauses, das den Zuschlag nach Absatz 3 Satz 1 erhebt, ist verpflichtet, eine Vereinbarung über einen Erlösausgleich nach § 5 Absatz 8 Satz 1 abzuschließen.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung zur Anpassung der Voraussetzungen für die Anspruchsberechtigung der Krankenhäuser nach § 21 Absatz 1a des Krankenhausfinanzierungsgesetzes vom 22. Dezember 2020 (BAnz AT 24.12.2020 V1), die zuletzt durch Artikel 1 der Verordnung vom 24. Februar 2021 (BAnz AT 25.02.2021 V1) geändert worden ist, außer Kraft.

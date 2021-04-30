@@ -1,10 +1,7 @@
-# [PCBAbfallV] Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane und zur Änderung chemikalienrechtlicher Vorschriften)  (PCB/PCT-Abfallverordnung - PCBAbfallV)
-
-Ausfertigungsdatum: 26.06.2000
-
+% Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle und halogenierter Monomethyldiphenylmethane (Artikel 1 der Verordnung über die Entsorgung polychlorierter Biphenyle, polychlorierter Terphenyle sowie halogenierter Monomethyldiphenylmethane und zur Änderung chemikalienrechtlicher Vorschriften)  (PCB/PCT-Abfallverordnung - PCBAbfallV)
+% Ausfertigungsdatum: 26.06.2000
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Verordnung gilt für nachfolgend definierte "PCB", die als Abfälle entsorgt werden oder entsorgt werden müssen.
 
@@ -34,8 +31,7 @@ Bei der Beurteilung, ob ein aus mehreren Einzelerzeugnissen zusammengefügtes Er
 
 (3) (weggefallen)
 
-
-## § 2 – Pflichten zur Entsorgung
+# § 2 – Pflichten zur Entsorgung
 
 (1) Der Besitzer hat PCB unverzüglich zu beseitigen. Dies gilt nicht, soweit PCB im Sinne von § 1 Abs. 2 Nr. 3 nach Absatz 2 verwertet werden dürfen.
 
@@ -51,13 +47,11 @@ Bei der Beurteilung, ob ein aus mehreren Einzelerzeugnissen zusammengefügtes Er
 
 (5) Die Beseitigung von PCB darf nur mit den Verfahren D8, D9 oder D15, dem sich die Verfahren D10 oder D12 entsprechend Anlage 1 des Kreislaufwirtschaftsgesetzes anschließen, sowie D10 oder D12 erfolgen. Bei dem Verfahren D12 dürfen Abfälle nach § 1 Abs. 2 Nr. 3, deren Flüssigkeit abgelassen worden ist, in zugelassenen Untertagedeponien im Salzgestein nur abgelagert werden, soweit die Nutzung eines Verfahrens D9 oder D10 technisch nicht möglich oder wirtschaftlich nicht zumutbar ist.
 
-
-## § 3 – Brand- und Explosionsschutz
+# § 3 – Brand- und Explosionsschutz
 
 Nach Maßgabe der einschlägigen Vorschriften sind beim Bereitstellen, Überlassen, Einsammeln und innerbetrieblichen Befördern von PCB nach § 1 Abs. 2 alle notwendigen Maßnahmen zu treffen, um eine Freisetzung der Stoffe nach § 1 Abs. 2 Nr. 1 oder Zubereitungen nach § 1 Abs. 2 Nr. 2 durch Brände und Explosionen zu vermeiden.
 
-
-## § 4 – Nachweis- und Mitteilungspflichten
+# § 4 – Nachweis- und Mitteilungspflichten
 
 (1) Unternehmen und Betreiber von Beseitigungsanlagen, die eines der in § 2 Abs. 5 genannten Verfahren zur Beseitigung von PCB durchführen (PCB-Beseitigungsunternehmen), haben über Menge, Herkunft, Art des Abfalls und PCB-Gehalt von angelieferten PCB-Abfällen ein Register zu führen. Sie teilen diese Angaben der zuständigen Behörde vierteljährlich mit. Sie stellen den Erzeugern oder Besitzern, deren PCB-Abfälle angeliefert werden, eine Bescheinigung aus, in der Art und Menge des PCB angegeben werden.
 
@@ -69,7 +63,6 @@ Nach Maßgabe der einschlägigen Vorschriften sind beim Bereitstellen, Überlass
 
 (5) Die Bestimmungen des Umweltinformationsgesetzes bleiben unberührt.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 1 Satz 1 in Verbindung mit Abs. 4 oder 5 PCB nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigt.

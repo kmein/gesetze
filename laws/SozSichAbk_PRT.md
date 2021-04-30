@@ -1,5 +1,3 @@
-# [SozSichAbk PRT] Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik über Soziale Sicherheit
-
-Ausfertigungsdatum: 06.11.1964
-
+% Abkommen zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik über Soziale Sicherheit
+% Ausfertigungsdatum: 06.11.1964
  

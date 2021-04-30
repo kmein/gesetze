@@ -1,17 +1,13 @@
-# [BfJG] Gesetz über die Errichtung des Bundesamts für Justiz  (BfJG)
-
-Ausfertigungsdatum: 17.12.2006
-
+% Gesetz über die Errichtung des Bundesamts für Justiz  (BfJG)
+% Ausfertigungsdatum: 17.12.2006
  
-
-## § 1 – Errichtung, Zweck und Sitz des Bundesamts
+# § 1 – Errichtung, Zweck und Sitz des Bundesamts
 
 (1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz und für Verbraucherschutz. Zweck der Errichtung des Bundesamts ist die Neuorganisation der Bundesjustizverwaltung durch Schaffung einer zentralen Dienstleistungsbehörde.
 
 (2) Das Bundesamt hat seinen Sitz in Bonn.
 
-
-## § 2 – Aufgaben des Bundesamts
+# § 2 – Aufgaben des Bundesamts
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und Ahndung von Ordnungswidrigkeiten und der allgemeinen Justizverwaltung wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen werden.
 
@@ -37,13 +33,11 @@ d) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
 (4) Erfolgt die Aufgabenwahrnehmung nach den Absätzen 1 bis 3 mit elektronischer Unterstützung, gelten die §§ 4 bis 7, soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.
 
-
-## § 3 – Fachaufsicht
+# § 3 – Fachaufsicht
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums der Justiz und für Verbraucherschutz wahrnimmt, untersteht es der Fachaufsicht der zuständigen obersten Bundesbehörde.
 
-
-## § 4 – Elektronische Aktenführung; Gewährung von Akteneinsicht
+# § 4 – Elektronische Aktenführung; Gewährung von Akteneinsicht
 
 (1) Das Bundesamt kann Akten ganz oder teilweise elektronisch führen.
 
@@ -59,8 +53,7 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 4. den elektronischen Zugriff auf den Inhalt der Akten gestattet.
 
-
-## § 5 – Digitalisierung von Dokumenten
+# § 5 – Digitalisierung von Dokumenten
 
 (1) Werden Akten ganz oder teilweise elektronisch geführt, so soll das Bundesamt die elektronische Wiedergabe der Papierdokumente zum elektronischen Teil der Akte nehmen.
 
@@ -68,8 +61,7 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (3) Papierdokumente sollen nach ihrer Übertragung in elektronische Dokumente vernichtet oder dem Einsender zurückgegeben werden, sobald die Aufbewahrung aus rechtlichen Gründen oder zur Qualitätssicherung des Übertragungsvorgangs nicht mehr erforderlich ist.
 
-
-## § 6 – Elektronische Kommunikation
+# § 6 – Elektronische Kommunikation
 
 (1) Beim Bundesamt können elektronische Dokumente eingereicht werden, wenn diese für die Bearbeitung im Bundesamt geeignet sind. Ist ein elektronisches Dokument für die Bearbeitung durch das Bundesamt nicht geeignet, ist dies dem Einsender unter Hinweis auf die Unwirksamkeit des Eingangs und auf die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das elektronische Dokument gilt als zum Zeitpunkt seiner früheren Einreichung eingegangen, sofern der Einsender es unverzüglich in einer für das Bundesamt zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
 
@@ -87,8 +79,7 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (4) Das Bundesamt kann elektronische Dokumente versenden, wenn die empfangende Stelle hierfür einen Zugang eröffnet hat.
 
-
-## § 7 – Verordnungsermächtigung
+# § 7 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz kann, um die elektronische Aktenführung und die Digitalisierung von Dokumenten beim Bundesamt sowie die elektronische Kommunikation mit dem Bundesamt näher auszugestalten, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 

@@ -1,20 +1,15 @@
-# [SBGWV] Wahlverordnung zum Soldatinnen- und Soldatenbeteiligungsgesetz  (SBGWV)
-
-Ausfertigungsdatum: 31.05.2017
-
+% Wahlverordnung zum Soldatinnen- und Soldatenbeteiligungsgesetz  (SBGWV)
+% Ausfertigungsdatum: 31.05.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Wahlbereiche
+# § 1 – Wahlbereiche
 
 (1) Soldatinnen und Soldaten, die sich in der Grundausbildung befinden, wählen Vertrauenspersonen nach § 4 Absatz 3 Nummer 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes.
 
 (2) Sobald bei einer Wählergruppe nach § 4 Absatz 1 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes die Voraussetzungen für eine Zuteilung nach § 4 Absatz 6 des Soldatinnen- und Soldatenbeteiligungsgesetzes vorliegen, meldet die oder der Disziplinarvorgesetzte dies unverzüglich der zuständigen Kommandobehörde. Gleichzeitig legt sie oder er einen Vorschlag vor, welcher Dienststelle oder Einheit die Wahlberechtigten zugeteilt werden sollen. Die Zuteilung durch die zuständige Kommandobehörde wird mit Bekanntgabe der Entscheidung an die Disziplinarvorgesetzte oder den Disziplinarvorgesetzten wirksam. Die Kommandos der militärischen Organisationsbereiche sollen für wiederkehrende Fälle allgemeine Regelungen treffen.
 
-
-## § 2 – Zuständige Disziplinarvorgesetzte
+# § 2 – Zuständige Disziplinarvorgesetzte
 
 (1) Die Aufgaben und Befugnisse der oder des Disziplinarvorgesetzten nach diesem Kapitel und nach dem Soldatinnen- und Soldatenbeteiligungsgesetz nimmt die oder der unterste gemeinsame Disziplinarvorgesetzte der Angehörigen derjenigen Wählergruppe wahr, für die die Vertrauensperson und die stellvertretenden Vertrauenspersonen gewählt werden sollen.
 
@@ -22,8 +17,7 @@ Ausfertigungsdatum: 31.05.2017
 
 § 2 Abs. 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Abschnitt" durch das Wort "Kapitel" ersetzt
 
-
-## § 3 – Wahlvorstand
+# § 3 – Wahlvorstand
 
 (1) Die oder der Disziplinarvorgesetzte bestellt für den Wahlvorstand nach § 3 Absatz 2 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes Ersatzmitglieder in ausreichender Zahl.
 
@@ -35,13 +29,11 @@ Ausfertigungsdatum: 31.05.2017
 
 (5) Die Beschlüsse des Wahlvorstands werden in einer Niederschrift dokumentiert.
 
-
-## § 4 – Wahltermin
+# § 4 – Wahltermin
 
 Der Wahlvorstand legt im Einvernehmen mit der oder dem Disziplinarvorgesetzten unverzüglich nach seiner Bestellung Zeitpunkt, Ort und Dauer der Wahl fest. Die Wahl soll spätestens sechs Wochen nach Bestellung des Wahlvorstands stattfinden.
 
-
-## § 5 – Wählerverzeichnis
+# § 5 – Wählerverzeichnis
 
 (1) Die oder der Disziplinarvorgesetzte stellt dem Wahlvorstand ein Verzeichnis der Wahlberechtigten zur Verfügung. Der Wahlvorstand prüft das Wählerverzeichnis und führt es bis zum Abschluss der Wahl fort. Das Wählerverzeichnis enthält zu jeder und jedem Wahlberechtigten jeweils
 
@@ -53,8 +45,7 @@ Der Wahlvorstand legt im Einvernehmen mit der oder dem Disziplinarvorgesetzten u
 
 (2) Das Wählerverzeichnis oder eine Abschrift davon ist innerhalb einer Woche nach Einleitung der Wahl bis zu deren Abschluss an allgemein zugänglichen Stellen zur Einsicht auszulegen.
 
-
-## § 6 – Einspruch gegen das Wählerverzeichnis
+# § 6 – Einspruch gegen das Wählerverzeichnis
 
 (1) Die Wahlberechtigten können gegen das Wählerverzeichnis innerhalb einer Woche nach Auslegung Einspruch einlegen. Der Einspruch ist schriftlich einzulegen.
 
@@ -62,8 +53,7 @@ Der Wahlvorstand legt im Einvernehmen mit der oder dem Disziplinarvorgesetzten u
 
 (3) Ist der Einspruch fristgerecht eingegangen und begründet, berichtigt der Wahlvorstand das Wählerverzeichnis.
 
-
-## § 7 – Wahlausschreiben
+# § 7 – Wahlausschreiben
 
 (1) Mit Erlass des Wahlausschreibens ist die Wahl eingeleitet. Ausfertigungen oder Kopien des Wahlausschreibens werden an allgemein zugänglichen Stellen ausgehängt. Die Aushänge sind bis zum Abschluss der Wahl in lesbarem Zustand zu halten. Unrichtigkeiten des Wahlausschreibens hat der Wahlvorstand zu berichtigen.
 
@@ -111,8 +101,7 @@ d) die Dienststelle,
 
 8. Wahlberechtigte, die verhindert sind, ihre Stimme persönlich abzugeben, die Möglichkeit der Briefwahl haben.
 
-
-## § 8 – Wahlvorschläge
+# § 8 – Wahlvorschläge
 
 (1) Wahlvorschläge können innerhalb von zwei Wochen nach Aushang des Wahlausschreibens eingereicht werden. Jeder Wahlvorschlag muss von mindestens drei Wahlberechtigten unterzeichnet sein. Niemand darf mehr als einen Wahlvorschlag unterzeichnen. In dem Wahlvorschlag ist zu jeder Bewerberin und jedem Bewerber Folgendes anzugeben:
 
@@ -148,15 +137,13 @@ Die Rückgabe ist zu begründen. Der oder dem Vorschlagenden ist Gelegenheit zu 
 
 (6) Verspätet eingegangene Wahlvorschläge sind zurückzuweisen.
 
-
-## § 9 – Aufstellung und Bekanntgabe der Bewerberliste
+# § 9 – Aufstellung und Bekanntgabe der Bewerberliste
 
 (1) Nach Ablauf der letzten Frist für das Einreichen der Wahlvorschläge stellt der Wahlvorstand eine Liste der gültig vorgeschlagenen Bewerberinnen und Bewerber in alphabetischer Reihenfolge zusammen (Bewerberliste).
 
 (2) Der Wahlvorstand gibt den Wahlberechtigten spätestens fünf Werktage vor Beginn der Wahl die Bewerberliste durch Aushang an denselben Stellen bekannt, an denen das Wahlausschreiben ausgehängt worden ist.
 
-
-## § 10 – Stimmabgabe
+# § 10 – Stimmabgabe
 
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die Wahlberechtigten haben jeweils drei Stimmen. Sie dürfen für jede Bewerberin und jeden Bewerber höchstens eine Stimme abgeben.
 
@@ -172,8 +159,7 @@ Die Rückgabe ist zu begründen. Der oder dem Vorschlagenden ist Gelegenheit zu 
 
 (4) Mindestens zwei Mitglieder des Wahlvorstands müssen während der Zeit anwesend sein, in der die Stimmen abgegeben werden können. Sie sorgen für die Wahrung des Wahlgeheimnisses und vermerken die Stimmabgabe im Wählerverzeichnis.
 
-
-## § 11 – Briefwahl
+# § 11 – Briefwahl
 
 (1) Wahlberechtigte, die am Wahltag verhindert sind, ihre Stimme persönlich abzugeben, können mittels Briefwahl an der Wahl teilnehmen.
 
@@ -197,8 +183,7 @@ b) im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten W
 
 (4) Der Wahlvorstand hat die Bereitstellung der Unterlagen für die Briefwahl im Wählerverzeichnis zu vermerken.
 
-
-## § 12 – Wahlbriefe
+# § 12 – Wahlbriefe
 
 (1) Die Wahlberechtigten kennzeichnen den Stimmzettel und legen ihn in den Stimmzettelumschlag. Der Stimmzettelumschlag darf nur den Stimmzettel enthalten. Die Wahlberechtigten haben durch Unterzeichnung der vorgedruckten Erklärung zu bestätigen, dass sie den Stimmzettel persönlich und geheim gekennzeichnet haben. Die Wahlberechtigten legen den Stimmzettelumschlag zusammen mit der Erklärung in den Freiumschlag und senden den Wahlbrief an den Wahlvorstand.
 
@@ -210,8 +195,7 @@ b) im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten W
 
 (5) Verspätet eingegangene Wahlbriefe bleiben ungeöffnet und werden vom Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs versehen.
 
-
-## § 13 – Auszählung
+# § 13 – Auszählung
 
 (1) Der Wahlvorstand zählt unverzüglich nach Abschluss der Wahl die Stimmen öffentlich aus.
 
@@ -231,8 +215,7 @@ Ungültige Stimmzettel sind in einer Liste zu erfassen, mit fortlaufenden Nummer
 
 (5) Der Wahlvorstand stellt das Ergebnis der Wahl fest.
 
-
-## § 14 – Vereinfachtes Wahlverfahren
+# § 14 – Vereinfachtes Wahlverfahren
 
 (1) Ein vereinfachtes Wahlverfahren ist durchzuführen
 
@@ -244,8 +227,7 @@ Ungültige Stimmzettel sind in einer Liste zu erfassen, mit fortlaufenden Nummer
 
 (2) Das vereinfachte Wahlverfahren richtet sich nach den §§ 1 und 2, § 3 Absatz 2 bis 4, § 5 Absatz 1, § 10 Absatz 1 Satz 1 und Absatz 4, § 13 Absatz 3 Nummer 2 und 3 und Absatz 4, den §§ 14 bis 17 und § 19 Absatz 1 Nummer 1, 3, 5, 6, 12 bis 14.
 
-
-## § 15 – Ablauf des vereinfachten Wahlverfahrens
+# § 15 – Ablauf des vereinfachten Wahlverfahrens
 
 (1) Die oder der Disziplinarvorgesetzte bestellt den Wahlvorstand auf Vorschlag der amtierenden Vertrauensperson. Falls keine Vertrauensperson vorhanden ist, beruft die oder der Disziplinarvorgesetzte zur Wahl des Wahlvorstands eine Versammlung der Wahlberechtigten des Wahlbereichs ein.
 
@@ -263,8 +245,7 @@ Ungültige Stimmzettel sind in einer Liste zu erfassen, mit fortlaufenden Nummer
 
 Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. Auf Antrag von mindestens drei Wahlberechtigten ist ein neues Wahlverfahren einzuleiten.
 
-
-## § 16 – Wahlvorgang im vereinfachten Wahlverfahren
+# § 16 – Wahlvorgang im vereinfachten Wahlverfahren
 
 (1) Die Wahlberechtigten haben jeweils eine Stimme.
 
@@ -276,8 +257,7 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (5) Der Wahlvorstand gibt das Ergebnis der Wahl unverzüglich durch einen zweiwöchigen Aushang der Wahlniederschrift an der Stelle bekannt, an der auch das Wählerverzeichnis veröffentlicht wurde. Der Aushang ist mit Datumsstempel und Unterschrift zu dokumentieren.
 
-
-## § 17 – Wahlniederschrift
+# § 17 – Wahlniederschrift
 
 (1) Über das Wahlergebnis fertigt der Wahlvorstand eine Wahlniederschrift an. Sie enthält
 
@@ -299,15 +279,13 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (4) Besondere Ereignisse bei der Wahl, insbesondere der Losentscheid nach § 13 Absatz 4 Satz 3, sind zu vermerken.
 
-
-## § 18 – Bekanntgabe des Wahlergebnisses
+# § 18 – Bekanntgabe des Wahlergebnisses
 
 (1) Der Wahlvorstand gibt das Ergebnis der Wahl unverzüglich durch einen zweiwöchigen Aushang der Wahlniederschrift an der Stelle bekannt, an der auch das Wahlausschreiben veröffentlicht wurde. Der Aushang ist mit Datumsstempel und Unterschrift zu dokumentieren.
 
 (2) Der Wahlvorstand benachrichtigt unverzüglich die als Vertrauensperson oder stellvertretende Vertrauensperson Gewählten und die oder den Disziplinarvorgesetzten. Soweit die Gewählten nicht innerhalb von drei Werktagen die Ablehnung schriftlich erklären, gilt die Wahl als angenommen.
 
-
-## § 19 – Wahlunterlagen
+# § 19 – Wahlunterlagen
 
 (1) Zu den Wahlunterlagen sind zu nehmen:
 
@@ -341,8 +319,7 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (2) Die Vertrauensperson bewahrt die Wahlunterlagen bis zum Ende ihrer Amtszeit auf und vernichtet sie sodann.
 
-
-## § 20 – Wahlvorstände
+# § 20 – Wahlvorstände
 
 (1) Der zentrale Wahlvorstand bildet im Einvernehmen mit den Organisationsbereichen dezentrale Wahlvorstände
 
@@ -376,8 +353,7 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (6) Die Wahlvorstände fassen ihre Beschlüsse mit einfacher Mehrheit ihrer Mitglieder.
 
-
-## § 21 – Leitung der Wahl
+# § 21 – Leitung der Wahl
 
 (1) Der zentrale Wahlvorstand leitet die Wahl des Gesamtvertrauenspersonenausschusses. Die Durchführung der Wahl in den einzelnen Bereichen übernehmen dezentrale Wahlvorstände im Auftrag und nach den Weisungen des zentralen Wahlvorstands.
 
@@ -385,8 +361,7 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (3) Der zentrale Wahlvorstand und die dezentralen Wahlvorstände geben die Namen ihrer Mitglieder und Ersatzmitglieder unverzüglich nach ihrer Bestellung bekannt. Die Bekanntgabe erfolgt durch Aushang in den Einheiten und vergleichbaren Dienststellen. Der Aushang muss bis zum Abschluss der Wahl zugänglich sein.
 
-
-## § 22 – Unterstützung
+# § 22 – Unterstützung
 
 (1) Das Bundesministerium der Verteidigung, die in § 20 Absatz 1 bezeichneten Stellen sowie die Vorgesetzten unterstützen die Wahlvorstände bei der Erfüllung ihrer Aufgaben. Insbesondere erteilen sie Auskünfte und stellen den Wahlvorständen die notwendigen Unterlagen und Räume sowie den notwendigen Geschäftsbedarf zur Verfügung.
 
@@ -394,8 +369,7 @@ Gehen auch danach keine Wahlvorschläge ein, ist das Wahlverfahren abzubrechen. 
 
 (3) Soweit erforderlich, sind die Mitglieder des Wahlvorstands für die Durchführung der Wahl von ihrer dienstlichen Tätigkeit freizustellen.
 
-
-## § 23 – Sitzverteilung
+# § 23 – Sitzverteilung
 
 (1) Der zentrale Wahlvorstand stellt für jede Laufbahngruppe die Sitze im Gesamtvertrauenspersonenausschuss fest, die entfallen
 
@@ -415,13 +389,11 @@ Erhält eine Laufbahngruppe keinen Sitz, weist der zentrale Wahlvorstand sie ein
 
 (+++ § 23: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 24 – Briefwahl
+# § 24 – Briefwahl
 
 Die Wahl der Mitglieder des Gesamtvertrauenspersonenausschusses findet als Briefwahl statt.
 
-
-## § 25 – Wahlausschreiben
+# § 25 – Wahlausschreiben
 
 (1) Der zentrale Wahlvorstand erlässt spätestens vier Monate vor der Wahl des Gesamtvertrauenspersonenausschusses ein Wahlausschreiben. Das Wahlausschreiben ist bis zur Ebene der Einheiten und vergleichbaren Dienststellen an allgemein zugänglichen Stellen durch Aushang bekannt zu geben.
 
@@ -457,8 +429,7 @@ d) die Dienststelle,
 
 4. nur gewählt werden kann, wer in die Bewerberliste aufgenommen worden ist.
 
-
-## § 26 – Wählerverzeichnis
+# § 26 – Wählerverzeichnis
 
 (1) Der dezentrale Wahlvorstand stellt ein nach Laufbahngruppen untergliedertes Verzeichnis der wahlberechtigten Vertrauenspersonen seines Zuständigkeitsbereichs auf. Das Wählerverzeichnis enthält zu jeder und jedem Wahlberechtigten jeweils
 
@@ -480,8 +451,7 @@ d) die Dienststelle,
 
 (+++ § 26 Abs. 5: Zur Anwendung vgl. § 29 Abs. 2 +++)
 
-
-## § 27 – Einspruch gegen das Wählerverzeichnis
+# § 27 – Einspruch gegen das Wählerverzeichnis
 
 (1) Die Wahlberechtigten können gegen das Wählerverzeichnis Einspruch beim dezentralen Wahlvorstand einlegen. Der Einspruch ist schriftlich innerhalb von zwei Wochen nach Auslegung des Wählerverzeichnisses einzulegen.
 
@@ -491,8 +461,7 @@ d) die Dienststelle,
 
 (4) Versäumt eine Einspruchsberechtigte oder ein Einspruchsberechtigter die Frist nach Absatz 1, obwohl sie oder er den Einspruchsgrund kannte oder ihr oder ihm eine Kenntnisnahme zumutbar gewesen wäre, ist eine spätere Anfechtung nach § 52 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes unter Berufung auf diesen Einspruchsgrund ausgeschlossen.
 
-
-## § 28 – Bewerbungen
+# § 28 – Bewerbungen
 
 (1) Jede wahlberechtigte Vertrauensperson eines Wahlbereichs, der für mindestens drei Monate gebildet wurde, kann sich beim dezentralen Wahlvorstand bewerben. Die Bewerbung muss bis zu der vom zentralen Wahlvorstand festgesetzten Frist eingehen. Die Mitglieder des Gesamtvertrauenspersonenausschusses, die keine Vertrauensperson mehr sind, können sich bis zur festgesetzten Frist beim zentralen Wahlvorstand bewerben.
 
@@ -518,8 +487,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 
 (5) Ist nach Ablauf der Frist nach Absatz 1 Satz 2 nicht für alle Organisationsbereiche und Laufbahngruppen, denen jeweils mindestens ein Sitz nach § 23 zusteht, wenigstens eine Bewerbung für jeden Sitz dieses Wahlgangs eingegangen, fordert der zentrale Wahlvorstand die Wahlberechtigten, die sich für diese Sitze bewerben können, auf, sich innerhalb von zwei Wochen zu bewerben. Die Aufforderung erfolgt über die dezentralen Wahlvorstände.
 
-
-## § 29 – Aufstellung und Bekanntgabe der Bewerberliste
+# § 29 – Aufstellung und Bekanntgabe der Bewerberliste
 
 (1) Nach Ablauf der Bewerbungsfrist stellt jeder dezentrale Wahlvorstand eine Liste der gültig vorgeschlagenen Bewerberinnen und Bewerber in alphabetischer Reihenfolge auf (Bewerberliste). Die Aufstellung der Bewerberinnen und Bewerber erfolgt getrennt nach Wahlgängen und mit den Angaben nach § 28 Absatz 2 Satz 1. Der dezentrale Wahlvorstand übersendet die Bewerberliste dem zentralen Wahlvorstand.
 
@@ -529,8 +497,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 
 (4) Sind für einen Wahlgang nach Ablauf der Bewerbungsfrist weniger Bewerberinnen und Bewerber vorhanden als Sitze zu vergeben sind, teilt der zentrale Wahlvorstand die nicht besetzbaren Sitze in sinngemäßer Anwendung des § 23 weiter auf. Der zentrale Wahlvorstand gibt den Wahlberechtigten die geänderte Sitzverteilung auf dieselbe Weise wie das Wahlausschreiben bekannt.
 
-
-## § 30 – Briefwahlunterlagen
+# § 30 – Briefwahlunterlagen
 
 (1) Jeder dezentrale Wahlvorstand fordert die erforderliche Anzahl von Briefwahlunterlagen beim zentralen Wahlvorstand an. Für die Anforderung ist eine Kopie des Wählerverzeichnisses vorzulegen.
 
@@ -556,8 +523,7 @@ b) im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten W
 
 5. einem Begleitschreiben, in denen das Wahlverfahren beschrieben und die Frist für die Rücksendung des Wahlbriefs genannt ist.
 
-
-## § 31 – Stimmabgabe
+# § 31 – Stimmabgabe
 
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die Wahlberechtigten haben jeweils eine Stimme.
 
@@ -571,8 +537,7 @@ b) im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten W
 
 (6) Verspätet eingegangene Wahlbriefe bleiben ungeöffnet und werden vom Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs versehen.
 
-
-## § 32 – Auszählung, Losentscheid
+# § 32 – Auszählung, Losentscheid
 
 (1) Am Tag nach Ablauf der Frist, die für den Eingang der Wahlbriefe beim dezentralen Wahlvorstand festgesetzt ist, öffnen mindestens zwei Mitglieder des dezentralen Wahlvorstands die Wahlurne. Sie entnehmen den Stimmzettelumschlägen die Stimmzettel und zählen die Stimmen aus.
 
@@ -590,8 +555,7 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (4) Zu Mitgliedern des Gesamtvertrauenspersonenausschusses sind die Bewerberinnen und Bewerber gewählt, die in ihren Wahlgängen die meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet das Los. Dieses wird im unmittelbaren Anschluss an die Auszählung von der oder dem Vorsitzenden des zentralen Wahlvorstands gezogen.
 
-
-## § 33 – Feststellung des Wahlergebnisses, Wahlniederschrift
+# § 33 – Feststellung des Wahlergebnisses, Wahlniederschrift
 
 (1) Das Wahlergebnis wird durch den dezentralen Wahlvorstand festgestellt.
 
@@ -615,22 +579,19 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (5) Besondere Ereignisse bei der Wahl sind in der Wahlniederschrift und in der Gesamtwahlniederschrift zu vermerken.
 
-
-## § 34 – Benachrichtigung der gewählten Bewerberinnen und Bewerber
+# § 34 – Benachrichtigung der gewählten Bewerberinnen und Bewerber
 
 (1) Der zentrale Wahlvorstand benachrichtigt die Bewerberinnen und Bewerber, die zu Mitgliedern des Gesamtvertrauenspersonenausschusses gewählt worden sind. Die Benachrichtigung erfolgt schriftlich gegen Empfangsbestätigung.
 
 (2) Erklärt ein gewähltes Mitglied nicht innerhalb von drei Werktagen nach Zugang der Benachrichtigung gegenüber dem zentralen Wahlvorstand, dass es die Wahl ablehnt, so gilt die Wahl als angenommen.
 
-
-## § 35 – Bekanntgabe des Wahlergebnisses
+# § 35 – Bekanntgabe des Wahlergebnisses
 
 (1) Der zentrale Wahlvorstand gibt dem Bundesministerium der Verteidigung sowie den Organisationsbereichen das Wahlergebnis durch Übermittlung der Gesamtwahlniederschrift nach § 33 Absatz 4 bekannt. Hierbei ist das Ergebnis der Benachrichtigung der gewählten Bewerberinnen und Bewerber nach § 34 zu berücksichtigen.
 
 (2) Die Angaben nach Absatz 1 werden in einem internen elektronischen Informationssystem der Bundeswehr veröffentlicht. Das Wahlergebnis gilt als an dem Tag bekannt gegeben, der auf die Veröffentlichung folgt. Das Datum der Veröffentlichung ist durch den zentralen Wahlvorstand zu vermerken.
 
-
-## § 36 – Wahlunterlagen
+# § 36 – Wahlunterlagen
 
 (1) Zu den Wahlunterlagen sind zu nehmen:
 
@@ -664,8 +625,7 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (2) Der Gesamtvertrauenspersonenausschuss bewahrt die Wahlunterlagen bis zum Ende seiner Amtszeit auf und vernichtet sie sodann.
 
-
-## § 37 – Wahlvorstand
+# § 37 – Wahlvorstand
 
 (1) Neben dem Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes können im Einvernehmen zwischen dem Wahlvorstand und den Organisationsbereichen dezentrale Wahlvorstände gebildet werden
 
@@ -679,22 +639,19 @@ Der Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteili
 
 (3) Der Wahlvorstand fasst seine Beschlüsse mit einfacher Mehrheit seiner Mitglieder.
 
-
-## § 38 – Leitung der Wahl
+# § 38 – Leitung der Wahl
 
 (1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, leitet die Wahl der Vertrauenspersonenausschüsse der militärischen Organisationsbereiche.
 
 (2) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, gibt die Namen seiner Mitglieder und Ersatzmitglieder unverzüglich nach seiner Bestellung bekannt. Die Bekanntgabe erfolgt durch Aushang in den Einheiten und vergleichbaren Dienststellen. Der Aushang muss bis zum Abschluss der Wahl zugänglich sein.
 
-
-## § 39 – Unterstützung
+# § 39 – Unterstützung
 
 (1) Das jeweilige Kommando des militärischen Organisationsbereichs, die Stellen, bei denen weitere Wahlvorstände gebildet sind, und alle Vorgesetzten unterstützen den Wahlvorstand bei der Erfüllung seiner Aufgaben. Insbesondere erteilen sie Auskünfte und stellen dem Wahlvorstand die notwendigen Unterlagen und Räume sowie den notwendigen Geschäftsbedarf zur Verfügung.
 
 (2) Die Mitglieder und Ersatzmitglieder des Wahlvorstands sind durch Schulungsmaßnahmen auf ihre Aufgaben vorzubereiten.
 
-
-## § 40 – Sitzverteilung
+# § 40 – Sitzverteilung
 
 (1) Der Wahlvorstand stellt auf der Grundlage von § 39 Absatz 1 des Soldatinnen- und Soldatenbeteiligungsgesetzes die auf die Laufbahngruppen entfallenden Sitze fest.
 
@@ -702,13 +659,11 @@ Der Wahlvorstand nach § 41 Absatz 3 Satz 1 des Soldatinnen- und Soldatenbeteili
 
 (+++ § 40: Zur Anwendung vgl. § 46 Abs. 3 +++)
 
-
-## § 41 – Briefwahl
+# § 41 – Briefwahl
 
 Die Wahl der Mitglieder der Vertrauenspersonenausschüsse findet als Briefwahl statt.
 
-
-## § 42 – Wahlausschreiben
+# § 42 – Wahlausschreiben
 
 (1) Der Wahlvorstand gibt spätestens drei Monate vor der Wahl des Vertrauenspersonenausschusses ein Wahlausschreiben bekannt. Das Wahlausschreiben ist bis zur Ebene der Einheiten und vergleichbaren Dienststellen bekannt zu geben.
 
@@ -742,8 +697,7 @@ d) die Dienststelle,
 
 4. nur gewählt werden kann, wer in die Bewerberliste aufgenommen worden ist.
 
-
-## § 43 – Wählerverzeichnis
+# § 43 – Wählerverzeichnis
 
 (1) Der Wahlvorstand stellt ein nach Laufbahngruppen untergliedertes Verzeichnis der wahlberechtigten Vertrauenspersonen seines Zuständigkeitsbereichs auf. Das Wählerverzeichnis enthält zu jeder oder jedem Wahlberechtigten
 
@@ -763,8 +717,7 @@ d) die Dienststelle,
 
 (5) Umfasst der Zuständigkeitsbereich des Wahlvorstands sicherheitsempfindliche Bereiche, können Angaben im Wählerverzeichnis und in den Wahlunterlagen im erforderlichen Umfang als Verschlusssachen des in Betracht kommenden Geheimhaltungsgrades eingestuft werden. Im Fall einer solchen Einstufung dürfen Zugang zu diesen Unterlagen oder Einsicht in diese Unterlagen nur Personen erhalten, die zum Umgang mit Verschlusssachen dieses Geheimhaltungsgrades ermächtigt sind.
 
-
-## § 44 – Einspruch gegen das Wählerverzeichnis
+# § 44 – Einspruch gegen das Wählerverzeichnis
 
 (1) Die Wahlberechtigten können gegen das Wählerverzeichnis Einspruch beim Wahlvorstand einlegen. Der Einspruch ist schriftlich innerhalb von zwei Wochen nach Auslegung des Wählerverzeichnisses einzulegen.
 
@@ -774,8 +727,7 @@ d) die Dienststelle,
 
 (4) Versäumt eine Einspruchsberechtigte oder ein Einspruchsberechtigter die Frist nach Absatz 1, obwohl sie oder er den Einspruchsgrund kannte oder ihr oder ihm eine Kenntnisnahme zumutbar gewesen wäre, ist eine spätere Anfechtung nach § 52 Absatz 2 des Soldatinnen- und Soldatenbeteiligungsgesetzes unter Berufung auf diesen Einspruchsgrund ausgeschlossen.
 
-
-## § 45 – Bewerbungen
+# § 45 – Bewerbungen
 
 (1) Jede wahlberechtigte Vertrauensperson eines Wahlbereichs, der für mindestens drei Monate im jeweiligen militärischen Organisationsbereich gebildet wurde, kann sich beim Wahlvorstand bewerben. Die Bewerbung muss bis zur festgesetzten Frist eingehen. Gleiches gilt für die Mitglieder des jeweiligen Vertrauenspersonenausschusses, die keine Vertrauensperson mehr sind.
 
@@ -801,8 +753,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 
 (5) Ist nach Ablauf der Frist des Absatzes 1 nicht für alle Laufbahngruppen wenigstens eine Bewerbung für jeden Sitz der Wahlgänge eingegangen, fordert der Wahlvorstand die Wahlberechtigten, die sich für diese Sitze bewerben können, dazu auf, sich innerhalb von zwei Wochen zu bewerben.
 
-
-## § 46 – Aufstellung und Bekanntgabe der Bewerberliste
+# § 46 – Aufstellung und Bekanntgabe der Bewerberliste
 
 (1) Nach Ablauf der Bewerbungsfrist stellt der Wahlvorstand eine Liste der gültig vorgeschlagenen Bewerberinnen und Bewerber in alphabetischer Reihenfolge auf (Bewerberliste). Die Aufstellung der Bewerberinnen und Bewerber erfolgt getrennt nach Wahlgängen und mit den Angaben nach § 45 Absatz 2 Satz 1. Jedes Mitglied des Vertrauenspersonenausschusses, das nicht mehr Vertrauensperson ist, wird der Laufbahngruppe zugeteilt, der es am Tag des Ablaufs der Bewerbungsfrist angehört.
 
@@ -810,8 +761,7 @@ Die Bewerberin oder der Bewerber muss die Bewerbung unterschreiben.
 
 (3) Sind für einen Wahlgang nach Ablauf der Fristen weniger Bewerberinnen oder Bewerber vorhanden als Sitze zu vergeben sind, teilt der Wahlvorstand die nicht besetzbaren Sitze in sinngemäßer Anwendung des § 40 weiter auf. Der Wahlvorstand gibt die geänderte Sitzverteilung auf dieselbe Weise wie das Wahlausschreiben bekannt.
 
-
-## § 47 – Briefwahlunterlagen
+# § 47 – Briefwahlunterlagen
 
 (1) Der Wahlvorstand erstellt anhand der Bewerberliste die Stimmzettel, getrennt nach Wahlgängen. Die Bewerberinnen und Bewerber sind in alphabetischer Reihenfolge mit den Angaben nach § 45 Absatz 2 Satz 1 aufzuführen.
 
@@ -833,8 +783,7 @@ b) im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten W
 
 5. einem Begleitschreiben, in dem das Wahlverfahren beschrieben und die Frist für die Rücksendung des Wahlbriefs genannt ist.
 
-
-## § 48 – Stimmabgabe
+# § 48 – Stimmabgabe
 
 (1) Wählen darf nur, wer in das Wählerverzeichnis eingetragen ist. Die Wahlberechtigten haben jeweils eine Stimme.
 
@@ -848,8 +797,7 @@ b) im Fall eines körperlichen Gebrechens gemäß ihrem oder seinem erklärten W
 
 (6) Verspätet eingegangene Wahlbriefe bleiben ungeöffnet und werden vom Wahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs versehen.
 
-
-## § 49 – Auszählung, Losentscheid
+# § 49 – Auszählung, Losentscheid
 
 (1) Am Tag nach Ablauf der Frist, die für den Eingang der Wahlbriefe beim Wahlvorstand festgesetzt ist, öffnen mindestens zwei Mitglieder des Wahlvorstands die Wahlurnen. Sie entnehmen den Stimmzettelumschlägen die Stimmzettel und zählen die Stimmen aus.
 
@@ -867,8 +815,7 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (4) Zu Mitgliedern des Vertrauenspersonenausschusses sind die Bewerberinnen und Bewerber gewählt, die in ihren Wahlgängen die meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet das Los. Dieses wird im unmittelbaren Anschluss an die Auszählung von der oder dem Vorsitzenden des Wahlvorstands gezogen.
 
-
-## § 50 – Feststellung des Wahlergebnisses, Wahlniederschrift
+# § 50 – Feststellung des Wahlergebnisses, Wahlniederschrift
 
 (1) Das Wahlergebnis wird durch den Wahlvorstand festgestellt.
 
@@ -890,22 +837,19 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (4) Besondere Ereignisse bei der Wahl sind in der Wahlniederschrift und in den Fällen des Absatzes 3 auch in der Gesamtwahlniederschrift zu vermerken.
 
-
-## § 51 – Benachrichtigung der gewählten Bewerberinnen und Bewerber
+# § 51 – Benachrichtigung der gewählten Bewerberinnen und Bewerber
 
 (1) Der Wahlvorstand benachrichtigt die Bewerberinnen und Bewerber, die zu Mitgliedern des Vertrauenspersonenausschusses gewählt worden sind. Die Benachrichtigung erfolgt schriftlich gegen Empfangsbestätigung.
 
 (2) Erklärt ein gewähltes Mitglied nicht innerhalb von drei Werktagen nach Zugang der Benachrichtigung gegenüber dem Wahlvorstand, dass es die Wahl ablehnt, gilt die Wahl als angenommen.
 
-
-## § 52 – Bekanntgabe des Wahlergebnisses
+# § 52 – Bekanntgabe des Wahlergebnisses
 
 (1) Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, übermittelt dem Kommando des militärischen Organisationsbereichs die Wahlniederschrift nach § 50 Absatz 2 oder 3. Hierbei ist das Ergebnis der Benachrichtigung der gewählten Bewerberinnen und Bewerber nach § 51 zu berücksichtigen.
 
 (2) Die Angaben nach Absatz 1 werden in einem internen elektronischen Informationssystem der Bundeswehr veröffentlicht. Das Wahlergebnis gilt als an dem Tag bekannt gegeben, der auf die Veröffentlichung folgt. Der Wahlvorstand, in den Fällen des § 37 Absatz 1 Satz 1 der zentrale Wahlvorstand, hat das Datum der Veröffentlichung in den Wahlunterlagen zu vermerken.
 
-
-## § 53 – Wahlunterlagen
+# § 53 – Wahlunterlagen
 
 (1) Zu den Wahlunterlagen sind zu nehmen:
 
@@ -939,7 +883,6 @@ Ungültige Stimmzettel sind von den übrigen Stimmzetteln zu trennen, in einer L
 
 (2) Der Vertrauenspersonenausschuss bewahrt die Wahlunterlagen bis zum Ende seiner Amtszeit auf und vernichtet sie sodann.
 
-
-## § 54 – Übergangsregelung
+# § 54 – Übergangsregelung
 
 Für Wahlen, zu deren Durchführung der Wahlvorstand vor dem 14. Juni 2017 bestellt worden ist, ist diese Verordnung in der bis dahin geltenden Fassung weiter anzuwenden.

@@ -1,10 +1,7 @@
-# [AgrarZahlVerpflV] Verordnung über die Einhaltung von Grundanforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen  (Agrarzahlungen-Verpflichtungenverordnung - AgrarZahlVerpflV)
-
-Ausfertigungsdatum: 17.12.2014
-
+% Verordnung über die Einhaltung von Grundanforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen  (Agrarzahlungen-Verpflichtungenverordnung - AgrarZahlVerpflV)
+% Ausfertigungsdatum: 17.12.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 4 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4, des Agrarzahlungen-Ve
 –  
 des § 9a Satz 1 und des § 15 Satz 1 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847), die durch Artikel 1 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2314) geändert worden sind, jeweils in Verbindung mit § 1 Absatz 2 des Agrarzahlungen-Verpflichtungengesetzes vom 2. Dezember 2014 (BGBl. I S. 1928) und mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -23,18 +19,15 @@ Diese Verordnung regelt
 
 2. die Einzelheiten zur Kontrolle und Sanktionierung der Anforderungen und Standards nach Nummer 1 und nach Artikel 93 Absatz 1 bis 3 in Verbindung mit Anhang II der Verordnung (EU) Nr. 1306/2013.
 
-
-## § 2 – Schaffung von Pufferzonen entlang von Wasserläufen
+# § 2 – Schaffung von Pufferzonen entlang von Wasserläufen
 
 Wer landwirtschaftliche Flächen entlang von Wasserläufen bewirtschaftet, hat zur Erhaltung des guten landwirtschaftlichen und ökologischen Zustands die Anforderungen des § 5 Absatz 2 Satz 1 Nummer 1 in Verbindung mit Satz 2, Absatz 2 Satz 3 und 4 und Absatz 3, jeweils in Verbindung mit Absatz 4, der Düngeverordnung zu beachten, soweit sich die Anforderungen auf stickstoffhaltige Düngemittel beziehen. Soweit die Landesregierungen durch Rechtsverordnungen nach § 13a Absatz 3 der Düngeverordnung von den in Satz 1 genannten Anforderungen abweichende Anforderungen vorschreiben oder durch Rechtsverordnungen nach § 13 Absatz 2 Satz 1 in Verbindung mit Satz 4 Nummer 5 der Düngeverordnung in der bis zum 30. April 2020 geltenden Fassung abweichende Vorschriften erlassen haben, die sich jeweils auf stickstoffhaltige Düngemittel beziehen, sind abweichend von Satz 1 die Anforderungen nach Landesrecht zu beachten.
 
-
-## § 3 – Einhaltung von Genehmigungsverfahren für die Verwendung von Wasser zur Bewässerung
+# § 3 – Einhaltung von Genehmigungsverfahren für die Verwendung von Wasser zur Bewässerung
 
 Wer landwirtschaftliche Flächen beregnet oder sonst bewässert, hat bei einer erlaubnispflichtigen oder bewilligungspflichtigen Gewässerbenutzung im Sinne von § 9 Absatz 1 Nummer 1 oder 5 des Wasserhaushaltsgesetzes im Falle einer Kontrolle hinsichtlich der Einhaltung der Verpflichtungen zur Erhaltung der landwirtschaftlichen Flächen in einem guten landwirtschaftlichen und ökologischen Zustand nachzuweisen, dass die Erlaubnis oder Bewilligung vorliegt.
 
-
-## § 4 – Schutz des Grundwassers gegen Verschmutzung
+# § 4 – Schutz des Grundwassers gegen Verschmutzung
 
 (1) Stoffe nach Liste I der Anlage 1 dürfen im Rahmen einer landwirtschaftlichen Tätigkeit nicht in das Grundwasser eingeleitet oder eingebracht werden.
 
@@ -50,8 +43,7 @@ Wer landwirtschaftliche Flächen beregnet oder sonst bewässert, hat bei einer e
 
 (7) Zur Erhaltung des guten landwirtschaftlichen und ökologischen Zustands sind außerdem die Vorgaben von Wasserschutzgebietsverordnungen und behördlichen Entscheidungen nach § 52 Absatz 1 bis 3 des Wasserhaushaltsgesetzes einzuhalten, soweit sie die Lagerung von Silage und Festmist außerhalb von ortsfesten Anlagen betreffen.
 
-
-## § 5 – Mindestanforderungen an die Bodenbedeckung
+# § 5 – Mindestanforderungen an die Bodenbedeckung
 
 (1) Ackerland, das durch den Betriebsinhaber als im Umweltinteresse genutzte Fläche im Sinne von Artikel 46 Absatz 2 Buchstabe a, c, d oder f der Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der jeweils geltenden Fassung ausgewiesen ist, ist der Selbstbegrünung zu überlassen oder durch eine Ansaat zu begrünen, soweit keine landwirtschaftliche Erzeugung stattfindet oder soweit nur eine Beweidung oder Schnittnutzung zugelassen ist. Im Falle des Artikels 46 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 1307/2013 gilt Satz 1 nur, soweit es sich um Feldränder im Sinne des § 28 der Direktzahlungen-Durchführungsverordnung handelt, die keine Feldraine im Sinne des § 8 Absatz 1 Nummer 6 sind. Ein Umbruch ist zu Pflegezwecken mit unverzüglich folgender Ansaat oder zur Erfüllung von Verpflichtungen im Rahmen von Agrarumwelt- und Klimamaßnahmen außerhalb des in Absatz 5 genannten Zeitraums zulässig. Abweichend von Satz 3 ist innerhalb des in Absatz 5 genannten Zeitraums ein Umbruch zulässig, wenn der Betriebsinhaber auf Antrag einer Verpflichtung zur Anlage von ein- oder mehrjährigen Blühflächen im Rahmen von Agrarumwelt- und Klimamaßnahmen unterliegt und dieser Verpflichtung durch Neuansaat nachkommen muss.
 
@@ -81,8 +73,7 @@ auf der Fläche zu belassen sind, eine Schnittnutzung für Futterzwecke zulässi
 
 Rechnung zu tragen, abweichende frühere Termine bestimmen, jedoch nicht vor dem Ablauf des 14. Januar des auf das Antragsjahr folgenden Jahres.
 
-
-## § 6 – Mindestpraktiken der Bodenbearbeitung zur Begrenzung von Erosion
+# § 6 – Mindestpraktiken der Bodenbearbeitung zur Begrenzung von Erosion
 
 (1) Mindestanforderungen zur Begrenzung von Erosion sind durch Maßnahmen zu gewährleisten, die sich an den aus der Einteilung landwirtschaftlicher Flächen nach dem Grad der Wasser- oder Winderosionsgefährdung (Erosionsgefährdung) nach Maßgabe einer Rechtsverordnung nach Satz 2 in Verbindung mit den Absätzen 2 bis 4 ergebenden Anforderungen auszurichten haben. Die Landesregierungen haben durch Rechtsverordnung nach § 4 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Absatz 4 Satz 1 des Agrarzahlungen-Verpflichtungengesetzes die landwirtschaftlichen Flächen nach dem Grad der Erosionsgefährdung einzuteilen. Der Einteilung nach Satz 2 sind
 
@@ -120,13 +111,11 @@ Rechnung zu tragen oder
 
 2. eine sachgerechte Kontrolle der Anforderungen der Absätze 2 bis 4 zu gewährleisten.
 
-
-## § 7 – Erhaltung des Anteils der organischen Substanz im Boden
+# § 7 – Erhaltung des Anteils der organischen Substanz im Boden
 
 Stoppelfelder dürfen nicht abgebrannt werden.
 
-
-## § 8 – Keine Beseitigung von Landschaftselementen
+# § 8 – Keine Beseitigung von Landschaftselementen
 
 (1) Landschaftselemente dürfen nicht beseitigt werden. Landschaftselemente im Sinne von Satz 1 sind
 
@@ -172,15 +161,13 @@ c) andere mit Buchstabe b vergleichbare Feuchtgebiete,
 
 (5) Mit dem Beseitigungsverbot der Absätze 1 und 2, auch in Verbindung mit einer Rechtsverordnung nach Absatz 4, ist eine Pflicht zur Pflege nicht verbunden.
 
-
-## § 9 – Kontrollvorschriften
+# § 9 – Kontrollvorschriften
 
 (1) Artikel 68 Absatz 1 Unterabsatz 4 Satz 2 der Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227 vom 31.7.2014, S. 69) in der jeweils geltenden Fassung ist anzuwenden.
 
 (2) Enthält der Kontrollbericht im Sinne von Artikel 72 Absatz 1 der Durchführungsverordnung (EU) Nr. 809/2014 keine Feststellungen, so ist es nicht erforderlich, den Bericht unter den Voraussetzungen des Artikels 72 Absatz 4 Unterabsatz 3 der Durchführungsverordnung (EU) Nr. 809/2014 zu übermitteln.
 
-
-## § 10 – Übergangsregelungen
+# § 10 – Übergangsregelungen
 
 (1) Bis zum Erlass einer Rechtsverordnung nach § 6 Absatz 1 Satz 2, auch in Verbindung mit Absatz 6, sind die auf Grund des § 2 Absatz 1 Satz 2 in Verbindung mit § 5 Absatz 1 Satz 1 Nummer 2 und Absatz 4 des Direktzahlungen-Verpflichtungengesetzes und in Verbindung mit § 2 Absatz 1 und 7 der Direktzahlungen-Verpflichtungenverordnung erlassenen landesrechtlichen Regelungen längstens bis zum Ablauf des 31. Dezember 2015 weiter anzuwenden.
 
@@ -190,18 +177,15 @@ c) andere mit Buchstabe b vergleichbare Feuchtgebiete,
 
 (4) Soweit nach § 8 Absatz 4 eine landesrechtliche Regelung erlassen wird, ist Absatz 2 nicht mehr anzuwenden.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt die Direktzahlungen-Verpflichtungenverordnung vom 4. November 2004 (BGBl. I S. 2778), die zuletzt durch Artikel 1 der Verordnung vom 3. Januar 2014 (BAnz AT 06.01.2014 V1) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 4)Liste der Stofffamilien und Stoffgruppen
+# Anlage 1 – (zu § 4)Liste der Stofffamilien und Stoffgruppen
 
 Die Liste I umfasst die einzelnen Stoffe der nachstehend aufgeführten Stofffamilien und -gruppen, mit Ausnahme der Stoffe, die aufgrund des geringen Toxizitäts-, Langlebigkeits- oder Bioakkumulationsrisikos als ungeeignet für die Liste I angesehen werden.
 
@@ -282,8 +266,7 @@ t) Silber
 <span id="FnA1-F788068_01"></span><a href="#FnR.FnA1-F788068_01" class="Footnote">1</a>  
 Sofern bestimmte Stoffe aus der Liste II krebserregende, mutagene oder teratogene Wirkung haben, fallen sie unter Kategorie 4 dieser Liste.
 
-
-## Anlage 2 – (zu § 6 Absatz 1 Satz 3 Nummer 1, Absatz 2 und 3) Bestimmung der potenziellen Erosionsgefährdung durch Wasser
+# Anlage 2 – (zu § 6 Absatz 1 Satz 3 Nummer 1, Absatz 2 und 3) Bestimmung der potenziellen Erosionsgefährdung durch Wasser
 
 Wassererosionsgefährdungsklasse
 
@@ -326,12 +309,11 @@ Der Regenerosivitätsfaktor R kann optional verwendet werden. Er ist gemäß DIN
 <span id="FnA1-F788068_04"></span><a href="#FnR.FnA1-F788068_04" class="Footnote">3</a>  
 Der Hanglängenfaktor L kann optional verwendet werden. Er ist gemäß DIN 19708 Abschnitt 4.5 standortspezifisch zu ermitteln und anzuwenden.
 
-
-## Anlage 3 – (zu § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 4)
+# Anlage 3 – (zu § 6 Absatz 1 Satz 2 Nummer 2 und Absatz 4)
 
 Die Erosionsgefährdung durch Wind ist nach DIN 19706, Bodenbeschaffenheit – Ermittlung der Erosionsgefährdung von Böden durch Wind, zu ermitteln.
 
-![Die Grafik beschreibt die Bestimmung der Erosionsgefährdung eines Bodenstandortes durch Wind im Wege einer grundsätzlichen Einstufung dieses Standortes nach DIN 19706 plus Hinzuziehung weiterer Faktoren, wie Windgeschwindigkeit, Trockenheit, Bewuchs (Vegetation) und Windhindernisse.](../normengrafiken/banz_2014/j3511-1_0010.jpg)
+![Die Grafik beschreibt die Bestimmung der Erosionsgefährdung eines Bodenstandortes durch Wind im Wege einer grundsätzlichen Einstufung dieses Standortes nach DIN 19706 plus Hinzuziehung weiterer Faktoren, wie Windgeschwindigkeit, Trockenheit, Bewuchs (Vegetation) und Windhindernisse.](https://www.gesetze-im-internet.de/normengrafiken/banz_2014/j3511-1_0010.jpg)
 
  
 

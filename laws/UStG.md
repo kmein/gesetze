@@ -1,10 +1,7 @@
-# [UStG] Umsatzsteuergesetz  (UStG)
-
-Ausfertigungsdatum: 26.11.1979
-
+% Umsatzsteuergesetz  (UStG)
+% Ausfertigungsdatum: 26.11.1979
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 I.
 
@@ -546,8 +543,7 @@ Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
 
 Anlage 4 (zu § 13b Absatz 2 Nummer 11)
 
-
-## § 1 – Steuerbare Umsätze
+# § 1 – Steuerbare Umsätze
 
 (1) Der Umsatzsteuer unterliegen die folgenden Umsätze:
 
@@ -597,8 +593,7 @@ b) einfuhrumsatzsteuerrechtlich im freien Verkehr befinden;
 
 Lieferungen und sonstige Leistungen an juristische Personen des öffentlichen Rechts sowie deren innergemeinschaftlicher Erwerb in den bezeichneten Gebieten sind als Umsätze im Sinne der Nummern 1 und 2 anzusehen, soweit der Unternehmer nicht anhand von Aufzeichnungen und Belegen das Gegenteil glaubhaft macht.
 
-
-## § 1a – Innergemeinschaftlicher Erwerb
+# § 1a – Innergemeinschaftlicher Erwerb
 
 (1) Ein innergemeinschaftlicher Erwerb gegen Entgelt liegt vor, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -638,8 +633,7 @@ d) eine juristische Person, die nicht Unternehmer ist oder die den Gegenstand ni
 
 (5) Absatz 3 gilt nicht für den Erwerb neuer Fahrzeuge und verbrauchsteuerpflichtiger Waren. Verbrauchsteuerpflichtige Waren im Sinne dieses Gesetzes sind Mineralöle, Alkohol und alkoholische Getränke sowie Tabakwaren.
 
-
-## § 1b – Innergemeinschaftlicher Erwerb neuer Fahrzeuge
+# § 1b – Innergemeinschaftlicher Erwerb neuer Fahrzeuge
 
 (1) Der Erwerb eines neuen Fahrzeugs durch einen Erwerber, der nicht zu den in § 1a Abs. 1 Nr. 2 genannten Personen gehört, ist unter den Voraussetzungen des § 1a Abs. 1 Nr. 1 innergemeinschaftlicher Erwerb.
 
@@ -661,8 +655,7 @@ Satz 1 gilt nicht für die in § 4 Nr. 12 Satz 2 und Nr. 17 Buchstabe b bezeichn
 
 3. Luftfahrzeug nicht länger als 40 Betriebsstunden genutzt worden ist oder wenn seine erste Inbetriebnahme im Zeitpunkt des Erwerbs nicht mehr als drei Monate zurückliegt.
 
-
-## § 1c – Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags
+# § 1c – Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags
 
 (1) Ein innergemeinschaftlicher Erwerb im Sinne des § 1a liegt nicht vor, wenn ein Gegenstand bei einer Lieferung aus dem Gebiet eines anderen Mitgliedstaates in das Inland gelangt und die Erwerber folgende Einrichtungen sind, soweit sie nicht Unternehmer sind oder den Gegenstand nicht für ihr Unternehmen erwerben:
 
@@ -676,8 +669,7 @@ Diese Einrichtungen gelten nicht als Erwerber im Sinne des § 1a Abs. 1 Nr. 2. �
 
 (2) Als innergemeinschaftlicher Erwerb gegen Entgelt im Sinne des § 1a Abs. 2 gilt das Verbringen eines Gegenstands durch die deutschen Streitkräfte aus dem übrigen Gemeinschaftsgebiet in das Inland für den Gebrauch oder Verbrauch dieser Streitkräfte oder ihres zivilen Begleitpersonals, wenn die Lieferung des Gegenstands an die deutschen Streitkräfte im übrigen Gemeinschaftsgebiet oder die Einfuhr durch diese Streitkräfte nicht der Besteuerung unterlegen hat.
 
-
-## § 2 – Unternehmer, Unternehmen
+# § 2 – Unternehmer, Unternehmen
 
 (1) Unternehmer ist, wer eine gewerbliche oder berufliche Tätigkeit selbständig ausübt. Das Unternehmen umfasst die gesamte gewerbliche oder berufliche Tätigkeit des Unternehmers. Gewerblich oder beruflich ist jede nachhaltige Tätigkeit zur Erzielung von Einnahmen, auch wenn die Absicht, Gewinn zu erzielen, fehlt oder eine Personenvereinigung nur gegenüber ihren Mitgliedern tätig wird.
 
@@ -691,13 +683,11 @@ Diese Einrichtungen gelten nicht als Erwerber im Sinne des § 1a Abs. 1 Nr. 2. �
 
 (+++ § 2 Abs. 3: Zur Anwendung vgl. § 27 Abs. 22 +++)
 
-
-## § 2a – Fahrzeuglieferer
+# § 2a – Fahrzeuglieferer
 
 Wer im Inland ein neues Fahrzeug liefert, das bei der Lieferung in das übrige Gemeinschaftsgebiet gelangt, wird, wenn er nicht Unternehmer im Sinne des § 2 ist, für diese Lieferung wie ein Unternehmer behandelt. Dasselbe gilt, wenn der Lieferer eines neuen Fahrzeugs Unternehmer im Sinne des § 2 ist und die Lieferung nicht im Rahmen des Unternehmens ausführt.
 
-
-## § 2b – Juristische Personen des öffentlichen Rechts
+# § 2b – Juristische Personen des öffentlichen Rechts
 
 (1) Vorbehaltlich des Absatzes 4 gelten juristische Personen des öffentlichen Rechts nicht als Unternehmer im Sinne des § 2, soweit sie Tätigkeiten ausüben, die ihnen im Rahmen der öffentlichen Gewalt obliegen, auch wenn sie im Zusammenhang mit diesen Tätigkeiten Zölle, Gebühren, Beiträge oder sonstige Abgaben erheben. Satz 1 gilt nicht, sofern eine Behandlung als Nichtunternehmer zu größeren Wettbewerbsverzerrungen führen würde.
 
@@ -735,8 +725,7 @@ d) der Leistende gleichartige Leistungen im Wesentlichen an andere juristische P
 
 (+++ § 2b: Zur Anwendung vgl. § 27 Abs. 22 +++)
 
-
-## § 3 – Lieferung, sonstige Leistung
+# § 3 – Lieferung, sonstige Leistung
 
 (1) Lieferungen eines Unternehmers sind Leistungen, durch die er oder in seinem Auftrag ein Dritter den Abnehmer oder in dessen Auftrag einen Dritten befähigt, im eigenen Namen über einen Gegenstand zu verfügen (Verschaffung der Verfügungsmacht).
 
@@ -820,8 +809,7 @@ Instrumente, die lediglich zu einem Preisnachlass berechtigen, sind keine Gutsch
 
 (+++ § 3 Abs. 13 bis 15: Zur Anwendung vgl. § 27 Abs. 23 +++)
 
-
-## § 3a – Ort der sonstigen Leistung
+# § 3a – Ort der sonstigen Leistung
 
 (1) Eine sonstige Leistung wird vorbehaltlich der Absätze 2 bis 8 und der §§ 3b und 3e an dem Ort ausgeführt, von dem aus der Unternehmer sein Unternehmen betreibt. Wird die sonstige Leistung von einer Betriebsstätte ausgeführt, gilt die Betriebsstätte als der Ort der sonstigen Leistung.
 
@@ -923,8 +911,7 @@ ist diese Leistung abweichend von Absatz 1, Absatz 3 Nummer 2, Absatz 4 Satz 1 o
 
 (+++ § 3a Abs. 5 Satz 3 bis 5: Zur Anwendung vgl. § 27 Abs. 24 Satz 1 +++)
 
-
-## § 3b – Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen
+# § 3b – Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen
 
 (1) Eine Beförderung einer Person wird dort ausgeführt, wo die Beförderung bewirkt wird. Erstreckt sich eine solche Beförderung nicht nur auf das Inland, fällt nur der Teil der Leistung unter dieses Gesetz, der auf das Inland entfällt. Die Sätze 1 und 2 gelten entsprechend für die Beförderung von Gegenständen, die keine innergemeinschaftliche Beförderung eines Gegenstands im Sinne des Absatzes 3 ist, wenn der Empfänger weder ein Unternehmer, für dessen Unternehmen die Leistung bezogen wird, noch eine nicht unternehmerisch tätige juristische Person ist, der eine Umsatzsteuer-Identifikationsnummer erteilt worden ist. Die Bundesregierung kann mit Zustimmung des Bundesrates durch Rechtsverordnung zur Vereinfachung des Besteuerungsverfahrens bestimmen, dass bei Beförderungen, die sich sowohl auf das Inland als auch auf das Ausland erstrecken (grenzüberschreitende Beförderungen),
 
@@ -936,8 +923,7 @@ ist diese Leistung abweichend von Absatz 1, Absatz 3 Nummer 2, Absatz 4 Satz 1 o
 
 (3) Die Beförderung eines Gegenstands, die in dem Gebiet eines Mitgliedstaates beginnt und in dem Gebiet eines anderen Mitgliedstaates endet (innergemeinschaftliche Beförderung eines Gegenstands), an einen Empfänger, der weder ein Unternehmer ist, für dessen Unternehmen die Leistung bezogen wird, noch eine nicht unternehmerisch tätige juristische Person, der eine Umsatzsteuer-Identifikationsnummer erteilt worden ist, wird an dem Ort ausgeführt, an dem die Beförderung des Gegenstands beginnt.
 
-
-## § 3c – Ort der Lieferung in besonderen Fällen
+# § 3c – Ort der Lieferung in besonderen Fällen
 
 (1) Wird bei einer Lieferung der Gegenstand durch den Lieferer oder einen von ihm beauftragten Dritten aus dem Gebiet eines Mitgliedstaates in das Gebiet eines anderen Mitgliedstaates oder aus dem übrigen Gemeinschaftsgebiet in die in § 1 Abs. 3 bezeichneten Gebiete befördert oder versendet, so gilt die Lieferung nach Maßgabe der Absätze 2 bis 5 dort als ausgeführt, wo die Beförderung oder Versendung endet. Das gilt auch, wenn der Lieferer den Gegenstand in das Gemeinschaftsgebiet eingeführt hat.
 
@@ -965,23 +951,19 @@ und als einer der in den Buchstaben a bis d genannten Abnehmer weder die maßgeb
 
 (5) Die Absätze 1 bis 4 gelten nicht für die Lieferung neuer Fahrzeuge. Absatz 2 Nr. 2 und Absatz 3 gelten nicht für die Lieferung verbrauchsteuerpflichtiger Waren.
 
-
-## § 3d – Ort des innergemeinschaftlichen Erwerbs
+# § 3d – Ort des innergemeinschaftlichen Erwerbs
 
 Der innergemeinschaftliche Erwerb wird in dem Gebiet des Mitgliedstaates bewirkt, in dem sich der Gegenstand am Ende der Beförderung oder Versendung befindet. Verwendet der Erwerber gegenüber dem Lieferer eine ihm von einem anderen Mitgliedstaat erteilte Umsatzsteuer-Identifikationsnummer, gilt der Erwerb so lange in dem Gebiet dieses Mitgliedstaates als bewirkt, bis der Erwerber nachweist, dass der Erwerb durch den in Satz 1 bezeichneten Mitgliedstaat besteuert worden ist oder nach § 25b Abs. 3 als besteuert gilt, sofern der erste Abnehmer seiner Erklärungspflicht nach § 18a Absatz 7 Satz 1 Nummer 4 nachgekommen ist.
 
-
-## § 3e – Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn
+# § 3e – Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn
 
 (1) Wird ein Gegenstand an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn während einer Beförderung innerhalb des Gemeinschaftsgebiets geliefert oder dort eine sonstige Leistung ausgeführt, die in der Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle (Restaurationsleistung) besteht, gilt der Abgangsort des jeweiligen Beförderungsmittels im Gemeinschaftsgebiet als Ort der Lieferung oder der sonstigen Leistung.
 
 (2) Als Beförderung innerhalb des Gemeinschaftsgebiets im Sinne des Absatzes 1 gilt die Beförderung oder der Teil der Beförderung zwischen dem Abgangsort und dem Ankunftsort des Beförderungsmittels im Gemeinschaftsgebiet ohne Zwischenaufenthalt außerhalb des Gemeinschaftsgebiets. Abgangsort im Sinne des Satzes 1 ist der erste Ort innerhalb des Gemeinschaftsgebiets, an dem Reisende in das Beförderungsmittel einsteigen können. Ankunftsort im Sinne des Satzes 1 ist der letzte Ort innerhalb des Gemeinschaftsgebiets, an dem Reisende das Beförderungsmittel verlassen können. Hin- und Rückfahrt gelten als gesonderte Beförderungen.
 
+# § 3f – (weggefallen)
 
-## § 3f – (weggefallen)
-
-
-## § 3g – Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte
+# § 3g – Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte
 
 (1) Bei einer Lieferung von Gas über das Erdgasnetz, von Elektrizität oder von Wärme oder Kälte über Wärme- oder Kältenetze an einen Unternehmer, dessen Haupttätigkeit in Bezug auf den Erwerb dieser Gegenstände in deren Lieferung besteht und dessen eigener Verbrauch dieser Gegenstände von untergeordneter Bedeutung ist, gilt als Ort dieser Lieferung der Ort, an dem der Abnehmer sein Unternehmen betreibt. Wird die Lieferung an die Betriebsstätte eines Unternehmers im Sinne des Satzes 1 ausgeführt, so ist stattdessen der Ort der Betriebsstätte maßgebend.
 
@@ -989,8 +971,7 @@ Der innergemeinschaftliche Erwerb wird in dem Gebiet des Mitgliedstaates bewirkt
 
 (3) Auf Gegenstände, deren Lieferungsort sich nach Absatz 1 oder Absatz 2 bestimmt, sind die Vorschriften des § 1a Abs. 2 und § 3 Abs. 1a nicht anzuwenden.
 
-
-## § 4 – Steuerbefreiungen bei Lieferungen und sonstigen Leistungen
+# § 4 – Steuerbefreiungen bei Lieferungen und sonstigen Leistungen
 
 Von den unter § 1 Abs. 1 Nr. 1 fallenden Umsätzen sind steuerfrei:
 
@@ -1018,8 +999,7 @@ Die Vorschrift gilt nicht für die in den Nummern 8, 10 und 11 bezeichneten Ums�
 
 4. die Lieferungen von Gold an Zentralbanken;
 
-4a.  
-die folgenden Umsätze:
+4a. die folgenden Umsätze:
 
 a) die Lieferungen der in der Anlage 1 bezeichneten Gegenstände an einen Unternehmer für sein Unternehmen, wenn der Gegenstand der Lieferung im Zusammenhang mit der Lieferung in ein Umsatzsteuerlager eingelagert wird oder sich in einem Umsatzsteuerlager befindet. Mit der Auslagerung eines Gegenstands aus einem Umsatzsteuerlager entfällt die Steuerbefreiung für die der Auslagerung vorangegangene Lieferung, den der Auslagerung vorangegangenen innergemeinschaftlichen Erwerb oder die der Auslagerung vorangegangene Einfuhr; dies gilt nicht, wenn der Gegenstand im Zusammenhang mit der Auslagerung in ein anderes Umsatzsteuerlager im Inland eingelagert wird. Eine Auslagerung ist die endgültige Herausnahme eines Gegenstands aus einem Umsatzsteuerlager. Der endgültigen Herausnahme steht gleich der sonstige Wegfall der Voraussetzungen für die Steuerbefreiung sowie die Erbringung einer nicht nach Buchstabe b begünstigten Leistung an den eingelagerten Gegenständen,
 
@@ -1027,8 +1007,7 @@ b) die Leistungen, die mit der Lagerung, der Erhaltung, der Verbesserung der Auf
 
 Die Steuerbefreiung gilt nicht für Leistungen an Unternehmer, die diese zur Ausführung von Umsätzen verwenden, für die die Steuer nach den Durchschnittssätzen des § 24 festgesetzt ist. Die Voraussetzungen der Steuerbefreiung müssen vom Unternehmer eindeutig und leicht nachprüfbar nachgewiesen sein. Umsatzsteuerlager kann jedes Grundstück oder Grundstücksteil im Inland sein, das zur Lagerung der in Anlage 1 genannten Gegenstände dienen soll und von einem Lagerhalter betrieben wird. Es kann mehrere Lagerorte umfassen. Das Umsatzsteuerlager bedarf der Bewilligung des für den Lagerhalter zuständigen Finanzamts. Der Antrag ist schriftlich zu stellen. Die Bewilligung ist zu erteilen, wenn ein wirtschaftliches Bedürfnis für den Betrieb des Umsatzsteuerlagers besteht und der Lagerhalter die Gewähr für dessen ordnungsgemäße Verwaltung bietet;
 
-4b.  
-die einer Einfuhr vorangehende Lieferung von Gegenständen, wenn der Abnehmer oder dessen Beauftragter den Gegenstand der Lieferung einführt. Dies gilt entsprechend für Lieferungen, die den in Satz 1 genannten Lieferungen vorausgegangen sind. Die Voraussetzungen der Steuerbefreiung müssen vom Unternehmer eindeutig und leicht nachprüfbar nachgewiesen sein;
+4b. die einer Einfuhr vorangehende Lieferung von Gegenständen, wenn der Abnehmer oder dessen Beauftragter den Gegenstand der Lieferung einführt. Dies gilt entsprechend für Lieferungen, die den in Satz 1 genannten Lieferungen vorausgegangen sind. Die Voraussetzungen der Steuerbefreiung müssen vom Unternehmer eindeutig und leicht nachprüfbar nachgewiesen sein;
 
 5. die Vermittlung
 
@@ -1096,8 +1075,7 @@ b) die Leistungen, die darin bestehen, dass anderen Personen Versicherungsschutz
 
 11. die Umsätze aus der Tätigkeit als Bausparkassenvertreter, Versicherungsvertreter und Versicherungsmakler;
 
-11a.  
-die folgenden vom 1. Januar 1993 bis zum 31. Dezember 1995 ausgeführten Umsätze der Deutschen Bundespost TELEKOM und der Deutsche Telekom AG:
+11a. die folgenden vom 1. Januar 1993 bis zum 31. Dezember 1995 ausgeführten Umsätze der Deutschen Bundespost TELEKOM und der Deutsche Telekom AG:
 
 a) die Überlassung von Anschlüssen des Telefonnetzes und des diensteintegrierenden digitalen Fernmeldenetzes sowie die Bereitstellung der von diesen Anschlüssen ausgehenden Verbindungen innerhalb dieser Netze und zu Mobilfunkendeinrichtungen,
 
@@ -1105,8 +1083,7 @@ b) die Überlassung von Übertragungswegen im Netzmonopol des Bundes,
 
 c) die Ausstrahlung und Übertragung von Rundfunksignalen einschließlich der Überlassung der dazu erforderlichen Sendeanlagen und sonstigen Einrichtungen sowie das Empfangen und Verteilen von Rundfunksignalen in Breitbandverteilnetzen einschließlich der Überlassung von Kabelanschlüssen;
 
-11b.  
-Universaldienstleistungen nach Artikel 3 Absatz 4 der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität (ABl. L 15 vom 21.1.1998, S. 14, L 23 vom 30.1.1998, S. 39), die zuletzt durch die Richtlinie 2008/6/EG (ABl. L 52 vom 27.2.2008, S. 3) geändert worden ist, in der jeweils geltenden Fassung. Die Steuerbefreiung setzt voraus, dass der Unternehmer sich entsprechend einer Bescheinigung des Bundeszentralamtes für Steuern gegenüber dieser Behörde verpflichtet hat, flächendeckend im gesamten Gebiet der Bundesrepublik Deutschland die Gesamtheit der Universaldienstleistungen oder einen Teilbereich dieser Leistungen nach Satz 1 anzubieten. Die Steuerbefreiung gilt nicht für Leistungen, die der Unternehmer erbringt
+11b. Universaldienstleistungen nach Artikel 3 Absatz 4 der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität (ABl. L 15 vom 21.1.1998, S. 14, L 23 vom 30.1.1998, S. 39), die zuletzt durch die Richtlinie 2008/6/EG (ABl. L 52 vom 27.2.2008, S. 3) geändert worden ist, in der jeweils geltenden Fassung. Die Steuerbefreiung setzt voraus, dass der Unternehmer sich entsprechend einer Bescheinigung des Bundeszentralamtes für Steuern gegenüber dieser Behörde verpflichtet hat, flächendeckend im gesamten Gebiet der Bundesrepublik Deutschland die Gesamtheit der Universaldienstleistungen oder einen Teilbereich dieser Leistungen nach Satz 1 anzubieten. Die Steuerbefreiung gilt nicht für Leistungen, die der Unternehmer erbringt
 
 a) auf Grund individuell ausgehandelter Vereinbarungen oder
 
@@ -1175,11 +1152,9 @@ a) untereinander,
 
 b) an die Versicherten, die Bezieher von Leistungen nach dem Zweiten Buch Sozialgesetzbuch, die Empfänger von Sozialhilfe oder die Versorgungsberechtigten;
 
-15a.  
-die auf Gesetz beruhenden Leistungen der Medizinischen Dienste (§ 278 SGB V) und des Medizinischen Dienstes Bund (§ 281 SGB V) untereinander und für die gesetzlichen Träger der Sozialversicherung und deren Verbände und für die Träger der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch sowie die gemeinsamen Einrichtungen nach § 44b des Zweiten Buches Sozialgesetzbuch;
+15a. die auf Gesetz beruhenden Leistungen der Medizinischen Dienste (§ 278 SGB V) und des Medizinischen Dienstes Bund (§ 281 SGB V) untereinander und für die gesetzlichen Träger der Sozialversicherung und deren Verbände und für die Träger der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch Sozialgesetzbuch sowie die gemeinsamen Einrichtungen nach § 44b des Zweiten Buches Sozialgesetzbuch;
 
-15b.  
-Eingliederungsleistungen nach dem Zweiten Buch Sozialgesetzbuch, Leistungen der aktiven Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen, die von Einrichtungen des öffentlichen Rechts oder anderen Einrichtungen mit sozialem Charakter erbracht werden. Andere Einrichtungen mit sozialem Charakter im Sinne dieser Vorschrift sind Einrichtungen,
+15b. Eingliederungsleistungen nach dem Zweiten Buch Sozialgesetzbuch, Leistungen der aktiven Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch und vergleichbare Leistungen, die von Einrichtungen des öffentlichen Rechts oder anderen Einrichtungen mit sozialem Charakter erbracht werden. Andere Einrichtungen mit sozialem Charakter im Sinne dieser Vorschrift sind Einrichtungen,
 
 a) die nach § 178 des Dritten Buches Sozialgesetzbuch zugelassen sind,
 
@@ -1187,8 +1162,7 @@ b) die für ihre Leistungen nach Satz 1 Verträge mit den gesetzlichen Trägern 
 
 c) die für Leistungen, die denen nach Satz 1 vergleichbar sind, Verträge mit juristischen Personen des öffentlichen Rechts, die diese Leistungen mit dem Ziel der Eingliederung in den Arbeitsmarkt durchführen, geschlossen haben;
 
-15c.  
-Leistungen zur Teilhabe am Arbeitsleben nach § 49 des Neunten Buches Sozialgesetzbuch, die von Einrichtungen des öffentlichen Rechts oder anderen Einrichtungen mit sozialem Charakter erbracht werden. Andere Einrichtungen mit sozialem Charakter im Sinne dieser Vorschrift sind Rehabilitationsdienste und -einrichtungen nach den §§ 36 und 51 des Neunten Buches Sozialgesetzbuch, mit denen Verträge nach § 38 des Neunten Buches Sozialgesetzbuch abgeschlossen worden sind;
+15c. Leistungen zur Teilhabe am Arbeitsleben nach § 49 des Neunten Buches Sozialgesetzbuch, die von Einrichtungen des öffentlichen Rechts oder anderen Einrichtungen mit sozialem Charakter erbracht werden. Andere Einrichtungen mit sozialem Charakter im Sinne dieser Vorschrift sind Rehabilitationsdienste und -einrichtungen nach den §§ 36 und 51 des Neunten Buches Sozialgesetzbuch, mit denen Verträge nach § 38 des Neunten Buches Sozialgesetzbuch abgeschlossen worden sind;
 
 16. die eng mit der Betreuung oder Pflege körperlich, kognitiv oder psychisch hilfsbedürftiger Personen verbundenen Leistungen, die erbracht werden von
 
@@ -1226,8 +1200,7 @@ b) die Beförderungen von kranken und verletzten Personen mit Fahrzeugen, die hi
 
 18. eng mit der Sozialfürsorge und der sozialen Sicherheit verbundene Leistungen, wenn diese Leistungen von Einrichtungen des öffentlichen Rechts oder anderen Einrichtungen, die keine systematische Gewinnerzielung anstreben, erbracht werden. Etwaige Gewinne, die trotzdem anfallen, dürfen nicht verteilt, sondern müssen zur Erhaltung oder Verbesserung der durch die Einrichtung erbrachten Leistungen verwendet werden. Für in anderen Nummern des § 4 bezeichnete Leistungen kommt die Steuerbefreiung nur unter den dort genannten Voraussetzungen in Betracht;
 
-18a.  
-die Leistungen zwischen den selbständigen Gliederungen einer politischen Partei, soweit diese Leistungen im Rahmen der satzungsgemäßen Aufgaben gegen Kostenerstattung ausgeführt werden, und sofern die jeweilige Partei nicht gemäß § 18 Absatz 7 des Parteiengesetzes von der staatlichen Teilfinanzierung ausgeschlossen ist;
+18a. die Leistungen zwischen den selbständigen Gliederungen einer politischen Partei, soweit diese Leistungen im Rahmen der satzungsgemäßen Aufgaben gegen Kostenerstattung ausgeführt werden, und sofern die jeweilige Partei nicht gemäß § 18 Absatz 7 des Parteiengesetzes von der staatlichen Teilfinanzierung ausgeschlossen ist;
 
 19. a) die Umsätze der Blinden, die nicht mehr als zwei Arbeitnehmer beschäftigen. Nicht als Arbeitnehmer gelten der Ehegatte, der eingetragene Lebenspartner, die minderjährigen Abkömmlinge, die Eltern des Blinden und die Lehrlinge. Die Blindheit ist nach den für die Besteuerung des Einkommens maßgebenden Vorschriften nachzuweisen. Die Steuerfreiheit gilt nicht für die Lieferungen von Energieerzeugnissen im Sinne des § 1 Abs. 2 und 3 des Energiesteuergesetzes und von Alkoholerzeugnissen im Sinne des Alkoholsteuergesetzes, wenn der Blinde für diese Erzeugnisse Energiesteuer oder Alkoholsteuer zu entrichten hat, und für Lieferungen im Sinne der Nummer 4a Satz 1 Buchstabe a Satz 2,
 
@@ -1259,8 +1232,7 @@ an Hochschulen im Sinne der §§ 1 und 70 des Hochschulrahmengesetzes und öffen
 bb)  
 an privaten Schulen und anderen allgemeinbildenden oder berufsbildenden Einrichtungen, soweit diese die Voraussetzungen des Buchstabens a erfüllen;
 
-21a.  
-(weggefallen)
+21a. (weggefallen)
 
 22. a) die Vorträge, Kurse und anderen Veranstaltungen wissenschaftlicher oder belehrender Art, die von juristischen Personen des öffentlichen Rechts, von Verwaltungs- und Wirtschaftsakademien, von Volkshochschulen oder von Einrichtungen, die gemeinnützigen Zwecken oder dem Zweck eines Berufsverbandes dienen, durchgeführt werden, wenn die Einnahmen überwiegend zur Deckung der Kosten verwendet werden,
 
@@ -1323,8 +1295,7 @@ b) die Gestellung von land- und forstwirtschaftlichen Arbeitskräften durch juri
 
 29. sonstige Leistungen von selbständigen, im Inland ansässigen Zusammenschlüssen von Personen, deren Mitglieder eine dem Gemeinwohl dienende nichtunternehmerische Tätigkeit oder eine dem Gemeinwohl dienende Tätigkeit ausüben, die nach den Nummern 11b, 14 bis 18, 20 bis 25 oder 27 von der Steuer befreit ist, gegenüber ihren im Inland ansässigen Mitgliedern, soweit diese Leistungen für unmittelbare Zwecke der Ausübung dieser Tätigkeiten verwendet werden und der Zusammenschluss von seinen Mitgliedern lediglich die genaue Erstattung des jeweiligen Anteils an den gemeinsamen Kosten fordert, vorausgesetzt, dass diese Befreiung nicht zu einer Wettbewerbsverzerrung führt.
 
-
-## § 4a – Steuervergütung
+# § 4a – Steuervergütung
 
 (1) Körperschaften, die ausschließlich und unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke verfolgen (§§ 51 bis 68 der Abgabenordnung), und juristischen Personen des öffentlichen Rechts wird auf Antrag eine Steuervergütung zum Ausgleich der Steuer gewährt, die auf der an sie bewirkten Lieferung eines Gegenstands, seiner Einfuhr oder seinem innergemeinschaftlichen Erwerb lastet, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -1350,8 +1321,7 @@ Der Antrag ist nach amtlich vorgeschriebenem Vordruck zu stellen, in dem der Ant
 
 2. in welcher Frist die Vergütung zu beantragen ist.
 
-
-## § 4b – Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen
+# § 4b – Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen
 
 Steuerfrei ist der innergemeinschaftliche Erwerb
 
@@ -1363,8 +1333,7 @@ Steuerfrei ist der innergemeinschaftliche Erwerb
 
 4. der Gegenstände, die zur Ausführung von Umsätzen verwendet werden, für die der Ausschluss vom Vorsteuerabzug nach § 15 Abs. 3 nicht eintritt.
 
-
-## § 5 – Steuerbefreiungen bei der Einfuhr
+# § 5 – Steuerbefreiungen bei der Einfuhr
 
 (1) Steuerfrei ist die Einfuhr
 
@@ -1406,8 +1375,7 @@ c) nachzuweisen, dass die Gegenstände zur Beförderung oder Versendung in das �
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, anordnen, dass unter den sinngemäß anzuwendenden Voraussetzungen von Rechtsakten des Rates der Europäischen Union oder der Europäischen Kommission über die Erstattung oder den Erlass von Einfuhrabgaben die Einfuhrumsatzsteuer ganz oder teilweise erstattet oder erlassen wird.
 
-
-## § 6 – Ausfuhrlieferung
+# § 6 – Ausfuhrlieferung
 
 (1) Eine Ausfuhrlieferung (§ 4 Nr. 1 Buchstabe a) liegt vor, wenn bei einer Lieferung
 
@@ -1451,8 +1419,7 @@ Nummer 3 tritt zum Ende des Jahres außer Kraft, in dem die Ausfuhr- und Abnehme
 
 (5) Die Absätze 1 bis 4 gelten nicht für die Lieferungen im Sinne des § 3 Abs. 1b.
 
-
-## § 6a – Innergemeinschaftliche Lieferung
+# § 6a – Innergemeinschaftliche Lieferung
 
 (1) Eine innergemeinschaftliche Lieferung (§ 4 Nummer 1 Buchstabe b) liegt vor, wenn bei einer Lieferung die folgenden Voraussetzungen erfüllt sind:
 
@@ -1480,8 +1447,7 @@ Der Gegenstand der Lieferung kann durch Beauftragte vor der Beförderung oder Ve
 
 (4) Hat der Unternehmer eine Lieferung als steuerfrei behandelt, obwohl die Voraussetzungen nach Absatz 1 nicht vorliegen, so ist die Lieferung gleichwohl als steuerfrei anzusehen, wenn die Inanspruchnahme der Steuerbefreiung auf unrichtigen Angaben des Abnehmers beruht und der Unternehmer die Unrichtigkeit dieser Angaben auch bei Beachtung der Sorgfalt eines ordentlichen Kaufmanns nicht erkennen konnte. In diesem Fall schuldet der Abnehmer die entgangene Steuer.
 
-
-## § 6b – Konsignationslagerregelung
+# § 6b – Konsignationslagerregelung
 
 (1) Für die Beförderung oder Versendung eines Gegenstandes aus dem Gebiet eines Mitgliedstaates in das Gebiet eines anderen Mitgliedstaates für Zwecke einer Lieferung des Gegenstandes nach dem Ende dieser Beförderung oder Versendung an einen Erwerber gilt eine Besteuerung nach Maßgabe der nachfolgenden Vorschriften, wenn folgende Voraussetzungen erfüllt sind:
 
@@ -1517,8 +1483,7 @@ Der Gegenstand der Lieferung kann durch Beauftragte vor der Beförderung oder Ve
 
 (6) Fällt eine der Voraussetzungen nach den Absätzen 1 und 5 innerhalb von zwölf Monaten nach dem Ende der Beförderung oder Versendung des Gegenstandes im Sinne des Absatzes 1 Nummer 1 und vor dem Zeitpunkt der Lieferung weg, so gilt am Tag des Wegfalls der Voraussetzung die Beförderung oder Versendung des Gegenstandes als das einer innergemeinschaftlichen Lieferung gleichgestellte Verbringen (§ 6a Absatz 2 in Verbindung mit § 3 Absatz 1a). Wird die Lieferung an einen anderen Erwerber als einen Erwerber nach Absatz 1 Nummer 1 oder Absatz 5 bewirkt, gelten die Voraussetzungen nach den Absätzen 1 und 5 an dem Tag vor der Lieferung als nicht mehr erfüllt. Satz 2 gilt sinngemäß, wenn der Gegenstand vor der Lieferung oder bei der Lieferung in einen anderen Mitgliedstaat als den Abgangsmitgliedstaat oder in das Drittlandsgebiet befördert oder versendet wird. Im Fall der Zerstörung, des Verlustes oder des Diebstahls des Gegenstandes nach dem Ende der Beförderung oder Versendung des Gegenstandes im Sinne des Absatzes 1 Nummer 1 und vor dem Zeitpunkt der Lieferung gelten die Voraussetzungen nach den Absätzen 1 und 5 an dem Tag, an dem die Zerstörung, der Verlust oder der Diebstahl festgestellt wird, als nicht mehr erfüllt.
 
-
-## § 7 – Lohnveredelung an Gegenständen der Ausfuhr
+# § 7 – Lohnveredelung an Gegenständen der Ausfuhr
 
 (1) Eine Lohnveredelung an einem Gegenstand der Ausfuhr (§ 4 Nr. 1 Buchstabe a) liegt vor, wenn bei einer Bearbeitung oder Verarbeitung eines Gegenstands der Auftraggeber den Gegenstand zum Zweck der Bearbeitung oder Verarbeitung in das Gemeinschaftsgebiet eingeführt oder zu diesem Zweck in diesem Gebiet erworben hat und
 
@@ -1542,8 +1507,7 @@ Der bearbeitete oder verarbeitete Gegenstand kann durch weitere Beauftragte vor 
 
 (5) Die Absätze 1 bis 4 gelten nicht für die sonstigen Leistungen im Sinne des § 3 Abs. 9a Nr. 2.
 
-
-## § 8 – Umsätze für die Seeschiffahrt und für die Luftfahrt
+# § 8 – Umsätze für die Seeschiffahrt und für die Luftfahrt
 
 (1) Umsätze für die Seeschiffahrt (§ 4 Nr. 2) sind:
 
@@ -1569,8 +1533,7 @@ Der bearbeitete oder verarbeitete Gegenstand kann durch weitere Beauftragte vor 
 
 (3) Die in den Absätzen 1 und 2 bezeichneten Voraussetzungen müssen vom Unternehmer nachgewiesen sein. Das Bundesministerium der Finanzen kann mit Zustimmung des Bundesrates durch Rechtsverordnung bestimmen, wie der Unternehmer den Nachweis zu führen hat.
 
-
-## § 9 – Verzicht auf Steuerbefreiungen
+# § 9 – Verzicht auf Steuerbefreiungen
 
 (1) Der Unternehmer kann einen Umsatz, der nach § 4 Nr. 8 Buchstabe a bis g, Nr. 9 Buchstabe a, Nr. 12, 13 oder 19 steuerfrei ist, als steuerpflichtig behandeln, wenn der Umsatz an einen anderen Unternehmer für dessen Unternehmen ausgeführt wird.
 
@@ -1578,8 +1541,7 @@ Der bearbeitete oder verarbeitete Gegenstand kann durch weitere Beauftragte vor 
 
 (3) Der Verzicht auf Steuerbefreiung nach Absatz 1 ist bei Lieferungen von Grundstücken (§ 4 Nr. 9 Buchstabe a) im Zwangsversteigerungsverfahren durch den Vollstreckungsschuldner an den Ersteher bis zur Aufforderung zur Abgabe von Geboten im Versteigerungstermin zulässig. Bei anderen Umsätzen im Sinne von § 4 Nummer 9 Buchstabe a kann der Verzicht auf Steuerbefreiung nach Absatz 1 nur in dem gemäß § 311b Absatz 1 des Bürgerlichen Gesetzbuchs notariell zu beurkundenden Vertrag erklärt werden.
 
-
-## § 10 – Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe
+# § 10 – Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe
 
 (1) Der Umsatz wird bei Lieferungen und sonstigen Leistungen (§ 1 Abs. 1 Nr. 1 Satz 1) und bei dem innergemeinschaftlichen Erwerb (§ 1 Abs. 1 Nr. 5) nach dem Entgelt bemessen. Entgelt ist alles, was den Wert der Gegenleistung bildet, die der leistende Unternehmer vom Leistungsempfänger oder von einem anderen als dem Leistungsempfänger für die Leistung erhält oder erhalten soll, einschließlich der unmittelbar mit dem Preis dieser Umsätze zusammenhängenden Subventionen, jedoch abzüglich der für diese Leistung gesetzlich geschuldeten Umsatzsteuer. Bei dem innergemeinschaftlichen Erwerb sind Verbrauchsteuern, die vom Erwerber geschuldet oder entrichtet werden, in die Bemessungsgrundlage einzubeziehen. Bei Lieferungen und dem innergemeinschaftlichen Erwerb im Sinne des § 4 Nr. 4a Satz 1 Buchstabe a Satz 2 sind die Kosten für die Leistungen im Sinne des § 4 Nr. 4a Satz 1 Buchstabe b und die vom Auslagerer geschuldeten oder entrichteten Verbrauchsteuern in die Bemessungsgrundlage einzubeziehen. Die Beträge, die der Unternehmer im Namen und für Rechnung eines anderen vereinnahmt und verausgabt (durchlaufende Posten), gehören nicht zum Entgelt. Liegen bei der Entgegennahme eines Mehrzweck-Gutscheins (§ 3 Absatz 15) keine Angaben über die Höhe der für den Gutschein erhaltenen Gegenleistung nach Satz 2 vor, so wird das Entgelt nach dem Gutscheinwert selbst oder nach dem in den damit zusammenhängenden Unterlagen angegebenen Geldwert bemessen, abzüglich der Umsatzsteuer, die danach auf die gelieferten Gegenstände oder die erbrachten Dienstleistungen entfällt.
 
@@ -1609,8 +1571,7 @@ wenn die Bemessungsgrundlage nach Absatz 4 das Entgelt nach Absatz 1 übersteigt
 
 (+++ § 10 Abs. 1 Satz 6: Zur Anwendung vgl. § 27 Abs. 23 +++)
 
-
-## § 11 – Bemessungsgrundlage für die Einfuhr
+# § 11 – Bemessungsgrundlage für die Einfuhr
 
 (1) Der Umsatz wird bei der Einfuhr (§ 1 Abs. 1 Nr. 4) nach dem Wert des eingeführten Gegenstands nach den jeweiligen Vorschriften über den Zollwert bemessen.
 
@@ -1630,8 +1591,7 @@ wenn die Bemessungsgrundlage nach Absatz 4 das Entgelt nach Absatz 1 übersteigt
 
 (5) Für die Umrechnung von Werten in fremder Währung gelten die entsprechenden Vorschriften über den Zollwert der Waren, die in Rechtsakten des Rates der Europäischen Union oder der Europäischen Kommission festgelegt sind.
 
-
-## § 12 – Steuersätze
+# § 12 – Steuersätze
 
 (1) Die Steuer beträgt für jeden steuerpflichtigen Umsatz 19 Prozent der Bemessungsgrundlage (§§ 10, 11, 25 Abs. 3 und § 25a Abs. 3 und 4).
 
@@ -1702,8 +1662,7 @@ cc) den Unternehmer zum vollen Vorsteuerabzug berechtigt haben;
 \*)  
 § 12 Abs. 2 Nr. 10: Gilt gem. § 28 Abs. 4 idF d. Art. 8 Nr. 9 G v. 20.12.2007 I 3150 bis zum 31. Dezember 2011 in folgender Fassung:
 
-"10.  
-a) die Beförderungen von Personen mit Schiffen,
+"10. a) die Beförderungen von Personen mit Schiffen,
 
 b) die Beförderungen von Personen im Schienenbahnverkehr, im Verkehr mit Oberleitungsomnibussen, im genehmigten Linienverkehr mit Kraftfahrzeugen, im Verkehr mit Taxen, mit Drahtseilbahnen und sonstigen mechanischen Aufstiegshilfen aller Art und die Beförderungen im Fährverkehr
 
@@ -1715,8 +1674,7 @@ wenn die Beförderungsstrecke nicht mehr als 50 Kilometer beträgt."
 
 (+++ § 12: Zur Anwendung vgl. § 28 +++)
 
-
-## § 13 – Entstehung der Steuer
+# § 13 – Entstehung der Steuer
 
 (1) Die Steuer entsteht
 
@@ -1752,8 +1710,7 @@ e) in den Fällen des § 18 Absatz 4e mit Ablauf des Besteuerungszeitraums nach 
 
 (3) (weggefallen)
 
-
-## § 13a – Steuerschuldner
+# § 13a – Steuerschuldner
 
 (1) Steuerschuldner ist in den Fällen
 
@@ -1771,8 +1728,7 @@ e) in den Fällen des § 18 Absatz 4e mit Ablauf des Besteuerungszeitraums nach 
 
 (2) Für die Einfuhrumsatzsteuer gilt § 21 Abs. 2.
 
-
-## § 13b – Leistungsempfänger als Steuerschuldner
+# § 13b – Leistungsempfänger als Steuerschuldner
 
 (1) Für nach § 3a Absatz 2 im Inland steuerpflichtige sonstige Leistungen eines im übrigen Gemeinschaftsgebiet ansässigen Unternehmers entsteht die Steuer mit Ablauf des Voranmeldungszeitraums, in dem die Leistungen ausgeführt worden sind.
 
@@ -1840,8 +1796,7 @@ b) von Gas über das Erdgasnetz und von Elektrizität, die nicht unter Buchstabe
 
 3. die Verordnung nach neun Monaten außer Kraft tritt, wenn die Ermächtigung nach Nummer 2 nicht erteilt worden ist; wurde die Ermächtigung nach Nummer 2 erteilt, tritt die Verordnung außer Kraft, sobald die gesetzliche Regelung, mit der die Ermächtigung in nationales Recht umgesetzt wird, in Kraft tritt.
 
-
-## § 13c – Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen
+# § 13c – Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen
 
 (1) Soweit der leistende Unternehmer den Anspruch auf die Gegenleistung für einen steuerpflichtigen Umsatz im Sinne des § 1 Abs. 1 Nr. 1 an einen anderen Unternehmer abgetreten und die festgesetzte Steuer, bei deren Berechnung dieser Umsatz berücksichtigt worden ist, bei Fälligkeit nicht oder nicht vollständig entrichtet hat, haftet der Abtretungsempfänger nach Maßgabe des Absatzes 2 für die in der Forderung enthaltene Umsatzsteuer, soweit sie im vereinnahmten Betrag enthalten ist. Ist die Vollziehung der Steuerfestsetzung in Bezug auf die in der abgetretenen Forderung enthaltene Umsatzsteuer gegenüber dem leistenden Unternehmer ausgesetzt, gilt die Steuer insoweit als nicht fällig. Soweit der Abtretungsempfänger die Forderung an einen Dritten abgetreten hat, gilt sie in voller Höhe als vereinnahmt. Die Forderung gilt durch den Abtretungsempfänger nicht als vereinnahmt, soweit der leistende Unternehmer für die Abtretung der Forderung eine Gegenleistung in Geld vereinnahmt. Voraussetzung ist, dass dieser Geldbetrag tatsächlich in den Verfügungsbereich des leistenden Unternehmers gelangt; davon ist nicht auszugehen, soweit dieser Geldbetrag auf ein Konto gezahlt wird, auf das der Abtretungsempfänger die Möglichkeit des Zugriffs hat.
 
@@ -1849,13 +1804,11 @@ b) von Gas über das Erdgasnetz und von Elektrizität, die nicht unter Buchstabe
 
 (3) Die Absätze 1 und 2 gelten bei der Verpfändung oder der Pfändung von Forderungen entsprechend. An die Stelle des Abtretungsempfängers tritt im Fall der Verpfändung der Pfandgläubiger und im Fall der Pfändung der Vollstreckungsgläubiger.
 
-
-## § 13d – (weggefallen)
+# § 13d – (weggefallen)
 
 \-
 
-
-## § 14 – Ausstellung von Rechnungen
+# § 14 – Ausstellung von Rechnungen
 
 (1) Rechnung ist jedes Dokument, mit dem über eine Lieferung oder sonstige Leistung abgerechnet wird, gleichgültig, wie dieses Dokument im Geschäftsverkehr bezeichnet wird. Die Echtheit der Herkunft der Rechnung, die Unversehrtheit ihres Inhalts und ihre Lesbarkeit müssen gewährleistet werden. Echtheit der Herkunft bedeutet die Sicherheit der Identität des Rechnungsausstellers. Unversehrtheit des Inhalts bedeutet, dass die nach diesem Gesetz erforderlichen Angaben nicht geändert wurden. Jeder Unternehmer legt fest, in welcher Weise die Echtheit der Herkunft, die Unversehrtheit des Inhalts und die Lesbarkeit der Rechnung gewährleistet werden. Dies kann durch jegliche innerbetriebliche Kontrollverfahren erreicht werden, die einen verlässlichen Prüfpfad zwischen Rechnung und Leistung schaffen können. Rechnungen sind auf Papier oder vorbehaltlich der Zustimmung des Empfängers elektronisch zu übermitteln. Eine elektronische Rechnung ist eine Rechnung, die in einem elektronischen Format ausgestellt und empfangen wird.
 
@@ -1917,8 +1870,7 @@ In den Fällen des § 10 Abs. 5 sind die Nummern 7 und 8 mit der Maßgabe anzuwe
 (+++ § 14 Abs. 2 Satz 1 Nr. 2, Abs. 3 Nr. 2: Zur Anwendung vgl. § 27 Abs. 15 +++)  
 (+++ § 14 Abs. 7 Satz 3: Zur Anwendung vgl. § 27 Abs. 24 Satz 1 +++)
 
-
-## § 14a – Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen
+# § 14a – Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen
 
 (1) Hat der Unternehmer seinen Sitz, seine Geschäftsleitung, eine Betriebsstätte, von der aus der Umsatz ausgeführt wird, oder in Ermangelung eines Sitzes seinen Wohnsitz oder gewöhnlichen Aufenthalt im Inland und führt er einen Umsatz in einem anderen Mitgliedstaat aus, an dem eine Betriebsstätte in diesem Mitgliedstaat nicht beteiligt ist, so ist er zur Ausstellung einer Rechnung mit der Angabe „Steuerschuldnerschaft des Leistungsempfängers“ verpflichtet, wenn die Steuer in dem anderen Mitgliedstaat von dem Leistungsempfänger geschuldet wird und keine Gutschrift gemäß § 14 Absatz 2 Satz 2 vereinbart worden ist. Führt der Unternehmer eine sonstige Leistung im Sinne des § 3a Absatz 2 in einem anderen Mitgliedstaat aus, so ist die Rechnung bis zum fünfzehnten Tag des Monats, der auf den Monat folgt, in dem der Umsatz ausgeführt worden ist, auszustellen. In dieser Rechnung sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Wird eine Abrechnung durch Gutschrift gemäß § 14 Absatz 2 Satz 2 über eine sonstige Leistung im Sinne des § 3a Absatz 2 vereinbart, die im Inland ausgeführt wird und für die der Leistungsempfänger die Steuer nach § 13b Absatz 1 und 5 schuldet, sind die Sätze 2 und 3 und Absatz 5 entsprechend anzuwenden.
 
@@ -1934,8 +1886,7 @@ In den Fällen des § 10 Abs. 5 sind die Nummern 7 und 8 mit der Maßgabe anzuwe
 
 (7) Wird in einer Rechnung über eine Lieferung im Sinne des § 25b Abs. 2 abgerechnet, ist auch auf das Vorliegen eines innergemeinschaftlichen Dreiecksgeschäfts und die Steuerschuldnerschaft des letzten Abnehmers hinzuweisen. Dabei sind die Umsatzsteuer-Identifikationsnummer des Unternehmers und die des Leistungsempfängers anzugeben. Die Vorschrift über den gesonderten Steuerausweis in einer Rechnung (§ 14 Abs. 4 Satz 1 Nr. 8) findet keine Anwendung.
 
-
-## § 14b – Aufbewahrung von Rechnungen
+# § 14b – Aufbewahrung von Rechnungen
 
 (1) Der Unternehmer hat ein Doppel der Rechnung, die er selbst oder ein Dritter in seinem Namen und für seine Rechnung ausgestellt hat, sowie alle Rechnungen, die er erhalten oder die ein Leistungsempfänger oder in dessen Namen und für dessen Rechnung ein Dritter ausgestellt hat, zehn Jahre aufzubewahren. Die Rechnungen müssen für den gesamten Zeitraum die Anforderungen des § 14 Absatz 1 Satz 2 erfüllen. Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem die Rechnung ausgestellt worden ist; § 147 Abs. 3 der Abgabenordnung bleibt unberührt. Die Sätze 1 bis 3 gelten auch
 
@@ -1959,15 +1910,13 @@ In den Fällen des § 14 Abs. 2 Satz 1 Nr. 1 hat der Leistungsempfänger die Rec
 
 (5) Will der Unternehmer die Rechnungen außerhalb des Gemeinschaftsgebiets elektronisch aufbewahren, gilt § 146 Absatz 2b der Abgabenordnung.
 
-
-## § 14c – Unrichtiger oder unberechtigter Steuerausweis
+# § 14c – Unrichtiger oder unberechtigter Steuerausweis
 
 (1) Hat der Unternehmer in einer Rechnung für eine Lieferung oder sonstige Leistung einen höheren Steuerbetrag, als er nach diesem Gesetz für den Umsatz schuldet, gesondert ausgewiesen (unrichtiger Steuerausweis), schuldet er auch den Mehrbetrag. Berichtigt er den Steuerbetrag gegenüber dem Leistungsempfänger, ist § 17 Abs. 1 entsprechend anzuwenden. In den Fällen des § 1 Abs. 1a und in den Fällen der Rückgängigmachung des Verzichts auf die Steuerbefreiung nach § 9 gilt Absatz 2 Satz 3 bis 5 entsprechend.
 
 (2) Wer in einer Rechnung einen Steuerbetrag gesondert ausweist, obwohl er zum gesonderten Ausweis der Steuer nicht berechtigt ist (unberechtigter Steuerausweis), schuldet den ausgewiesenen Betrag. Das Gleiche gilt, wenn jemand wie ein leistender Unternehmer abrechnet und einen Steuerbetrag gesondert ausweist, obwohl er nicht Unternehmer ist oder eine Lieferung oder sonstige Leistung nicht ausführt. Der nach den Sätzen 1 und 2 geschuldete Steuerbetrag kann berichtigt werden, soweit die Gefährdung des Steueraufkommens beseitigt worden ist. Die Gefährdung des Steueraufkommens ist beseitigt, wenn ein Vorsteuerabzug beim Empfänger der Rechnung nicht durchgeführt oder die geltend gemachte Vorsteuer an die Finanzbehörde zurückgezahlt worden ist. Die Berichtigung des geschuldeten Steuerbetrags ist beim Finanzamt gesondert schriftlich zu beantragen und nach dessen Zustimmung in entsprechender Anwendung des § 17 Abs. 1 für den Besteuerungszeitraum vorzunehmen, in dem die Voraussetzungen des Satzes 4 eingetreten sind.
 
-
-## § 15 – Vorsteuerabzug
+# § 15 – Vorsteuerabzug
 
 (1) Der Unternehmer kann die folgenden Vorsteuerbeträge abziehen:
 
@@ -2031,8 +1980,7 @@ b) nach § 4 Nummer 8 Buchstabe a bis g, Nummer 10 oder Nummer 11 steuerfrei wä
 
 (+++ § 15: Zur Anwendung vgl. § 27 +++)
 
-
-## § 15a – Berichtigung des Vorsteuerabzugs
+# § 15a – Berichtigung des Vorsteuerabzugs
 
 (1) Ändern sich bei einem Wirtschaftsgut, das nicht nur einmalig zur Ausführung von Umsätzen verwendet wird, innerhalb von fünf Jahren ab dem Zeitpunkt der erstmaligen Verwendung die für den ursprünglichen Vorsteuerabzug maßgebenden Verhältnisse, ist für jedes Kalenderjahr der Änderung ein Ausgleich durch eine Berichtigung des Abzugs der auf die Anschaffungs- oder Herstellungskosten entfallenden Vorsteuerbeträge vorzunehmen. Bei Grundstücken einschließlich ihrer wesentlichen Bestandteile, bei Berechtigungen, für die die Vorschriften des bürgerlichen Rechts über Grundstücke gelten, und bei Gebäuden auf fremdem Grund und Boden tritt an die Stelle des Zeitraums von fünf Jahren ein Zeitraum von zehn Jahren.
 
@@ -2068,8 +2016,7 @@ b) der Teil des Vorsteuerbetrags, der bei einer gleichmäßigen Verteilung auf d
 
 c) der Unternehmer den nach den Absätzen 1 bis 9 oder Buchstabe b geschuldeten Betrag dem Leistungsempfänger wie eine Steuer in Rechnung stellen und dieser den Betrag als Vorsteuer abziehen kann.
 
-
-## § 16 – Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung
+# § 16 – Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung
 
 (1) Die Steuer ist, soweit nicht § 20 gilt, nach vereinbarten Entgelten zu berechnen. Besteuerungszeitraum ist das Kalenderjahr. Bei der Berechnung der Steuer ist von der Summe der Umsätze nach § 1 Abs. 1 Nr. 1 und 5 auszugehen, soweit für sie die Steuer in dem Besteuerungszeitraum entstanden und die Steuerschuldnerschaft gegeben ist. Der Steuer sind die nach § 6a Abs. 4 Satz 2, nach § 14c sowie nach § 17 Abs. 1 Satz 6 geschuldeten Steuerbeträge hinzuzurechnen.
 
@@ -2095,8 +2042,7 @@ c) der Unternehmer den nach den Absätzen 1 bis 9 oder Buchstabe b geschuldeten 
 
 (+++ § 16: Zur Anwendung vgl. § 27 +++)
 
-
-## § 17 – Änderung der Bemessungsgrundlage
+# § 17 – Änderung der Bemessungsgrundlage
 
 (1) Hat sich die Bemessungsgrundlage für einen steuerpflichtigen Umsatz im Sinne des § 1 Abs. 1 Nr. 1 geändert, hat der Unternehmer, der diesen Umsatz ausgeführt hat, den dafür geschuldeten Steuerbetrag zu berichtigen. Ebenfalls ist der Vorsteuerabzug bei dem Unternehmer, an den dieser Umsatz ausgeführt wurde, zu berichtigen. Dies gilt nicht, soweit er durch die Änderung der Bemessungsgrundlage wirtschaftlich nicht begünstigt wird. Wird in diesen Fällen ein anderer Unternehmer durch die Änderung der Bemessungsgrundlage wirtschaftlich begünstigt, hat dieser Unternehmer seinen Vorsteuerabzug zu berichtigen. Die Sätze 1 bis 4 gelten in den Fällen des § 1 Abs. 1 Nr. 5 und des § 13b sinngemäß. Bei Preisnachlässen und Preiserstattungen eines Unternehmers in einer Leistungskette an einen in dieser Leistungskette nicht unmittelbar nachfolgenden Abnehmer liegt eine Minderung der Bemessungsgrundlage nach Satz 1 nur vor, wenn der Leistungsbezug dieses Abnehmers im Rahmen der Leistungskette im Inland steuerpflichtig ist. Die Berichtigung des Vorsteuerabzugs kann unterbleiben, soweit ein dritter Unternehmer den auf die Minderung des Entgelts entfallenden Steuerbetrag an das Finanzamt entrichtet; in diesem Fall ist der dritte Unternehmer Schuldner der Steuer. Die Berichtigungen nach den Sätzen 1 und 2 sind für den Besteuerungszeitraum vorzunehmen, in dem die Änderung der Bemessungsgrundlage eingetreten ist. Die Berichtigung nach Satz 4 ist für den Besteuerungszeitraum vorzunehmen, in dem der andere Unternehmer wirtschaftlich begünstigt wird.
 
@@ -2116,8 +2062,7 @@ c) der Unternehmer den nach den Absätzen 1 bis 9 oder Buchstabe b geschuldeten 
 
 (4) Werden die Entgelte für unterschiedlich besteuerte Lieferungen oder sonstige Leistungen eines bestimmten Zeitabschnitts gemeinsam geändert (z.B. Jahresboni, Jahresrückvergütungen), so hat der Unternehmer dem Leistungsempfänger einen Beleg zu erteilen, aus dem zu ersehen ist, wie sich die Änderung der Entgelte auf die unterschiedlich besteuerten Umsätze verteilt.
 
-
-## § 18 – Besteuerungsverfahren
+# § 18 – Besteuerungsverfahren
 
 (1) Der Unternehmer hat bis zum 10. Tag nach Ablauf jedes Voranmeldungszeitraums eine Voranmeldung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, in der er die Steuer für den Voranmeldungszeitraum (Vorauszahlung) selbst zu berechnen hat. Auf Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten; in diesem Fall hat der Unternehmer eine Voranmeldung nach amtlich vorgeschriebenem Vordruck abzugeben. § 16 Abs. 1 und 2 und § 17 sind entsprechend anzuwenden. Die Vorauszahlung ist am 10. Tag nach Ablauf des Voranmeldungszeitraums fällig.
 
@@ -2258,8 +2203,7 @@ b) Ist die Steuer für den innergemeinschaftlichen Erwerb nicht entrichtet worde
 
 (+++ § 18: Zur Anwendung vgl. §§ 18a, 18g, 18h, 27 +++)
 
-
-## § 18a – Zusammenfassende Meldung
+# § 18a – Zusammenfassende Meldung
 
 (1) Der Unternehmer im Sinne des § 2 hat bis zum 25. Tag nach Ablauf jedes Kalendermonats (Meldezeitraum), in dem er innergemeinschaftliche Warenlieferungen oder Lieferungen im Sinne des § 25b Absatz 2 ausgeführt hat, dem Bundeszentralamt für Steuern eine Meldung (Zusammenfassende Meldung) nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln, in der er die Angaben nach Absatz 7 Satz 1 Nummer 1, 2, 2a und 4 zu machen hat. Soweit die Summe der Bemessungsgrundlagen für innergemeinschaftliche Warenlieferungen und für Lieferungen im Sinne des § 25b Absatz 2 weder für das laufende Kalendervierteljahr noch für eines der vier vorangegangenen Kalendervierteljahre jeweils mehr als 50 000 Euro beträgt, kann die Zusammenfassende Meldung bis zum 25. Tag nach Ablauf des Kalendervierteljahres übermittelt werden. Übersteigt die Summe der Bemessungsgrundlage für innergemeinschaftliche Warenlieferungen und für Lieferungen im Sinne des § 25b Absatz 2 im Laufe eines Kalendervierteljahres 50 000 Euro, hat der Unternehmer bis zum 25. Tag nach Ablauf des Kalendermonats, in dem dieser Betrag überschritten wird, eine Zusammenfassende Meldung für diesen Kalendermonat und die bereits abgelaufenen Kalendermonate dieses Kalendervierteljahres zu übermitteln. Nimmt der Unternehmer die in Satz 2 enthaltene Regelung nicht in Anspruch, hat er dies gegenüber dem Bundeszentralamt für Steuern anzuzeigen. Vom 1. Juli 2010 bis zum 31. Dezember 2011 gelten die Sätze 2 und 3 mit der Maßgabe, dass an die Stelle des Betrages von 50 000 Euro der Betrag von 100 000 Euro tritt.
 
@@ -2293,8 +2237,7 @@ a) die Umsatzsteuer-Identifikationsnummer des Unternehmers in den Mitgliedstaate
 
 b) die darauf entfallende Summe der Bemessungsgrundlagen;
 
-2a.  
-für Beförderungen oder Versendungen oder einen Erwerberwechsel im Sinne des Absatzes 6 Nummer 3:
+2a. für Beförderungen oder Versendungen oder einen Erwerberwechsel im Sinne des Absatzes 6 Nummer 3:
 
 a) in den Fällen des § 6b Absatz 1 die Umsatzsteuer-Identifikationsnummer des Erwerbers im Sinne des § 6b Absatz 1 Nummer 1 und 3,
 
@@ -2352,8 +2295,7 @@ Absatz 8 gilt entsprechend.
 
 Zur Regelung der Datenübermittlung kann in der Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen verwiesen werden; hierbei sind das Datum der Veröffentlichung, die Bezugsquelle und eine Stelle zu bezeichnen, bei der die Veröffentlichung archivmäßig gesichert niedergelegt ist.
 
-
-## § 18b – Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren
+# § 18b – Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren
 
 Der Unternehmer im Sinne des § 2 hat für jeden Voranmeldungs- und Besteuerungszeitraum in den amtlich vorgeschriebenen Vordrucken (§ 18 Abs. 1 bis 4) die Bemessungsgrundlagen folgender Umsätze gesondert zu erklären:
 
@@ -2365,8 +2307,7 @@ Der Unternehmer im Sinne des § 2 hat für jeden Voranmeldungs- und Besteuerungs
 
 Die Angaben für einen in Satz 1 Nummer 1 genannten Umsatz sind in dem Voranmeldungszeitraum zu machen, in dem die Rechnung für diesen Umsatz ausgestellt wird, spätestens jedoch in dem Voranmeldungszeitraum, in dem der auf die Ausführung dieses Umsatzes folgende Monat endet. Die Angaben für Umsätze im Sinne des Satzes 1 Nummer 2 und 3 sind in dem Voranmeldungszeitraum zu machen, in dem diese Umsätze ausgeführt worden sind. § 16 Abs. 6 und § 17 sind sinngemäß anzuwenden. Erkennt der Unternehmer nachträglich vor Ablauf der Festsetzungsfrist, dass in einer von ihm abgegebenen Voranmeldung (§ 18 Abs. 1) die Angaben zu Umsätzen im Sinne des Satzes 1 unrichtig oder unvollständig sind, ist er verpflichtet, die ursprüngliche Voranmeldung unverzüglich zu berichtigen. Die Sätze 2 bis 5 gelten für die Steuererklärung (§ 18 Abs. 3 und 4) entsprechend.
 
-
-## § 18c – Meldepflicht bei der Lieferung neuer Fahrzeuge
+# § 18c – Meldepflicht bei der Lieferung neuer Fahrzeuge
 
 Zur Sicherung des Steueraufkommens durch einen Austausch von Auskünften mit anderen Mitgliedstaaten kann das Bundesministerium der Finanzen mit Zustimmung des Bundesrates durch Rechtsverordnung bestimmen, dass Unternehmer (§ 2) und Fahrzeuglieferer (§ 2a) der Finanzbehörde ihre innergemeinschaftlichen Lieferungen neuer Fahrzeuge an Abnehmer ohne Umsatzsteuer-Identifikationsnummer melden müssen. Dabei können insbesondere geregelt werden:
 
@@ -2380,13 +2321,11 @@ Zur Sicherung des Steueraufkommens durch einen Austausch von Auskünften mit and
 
 5. (weggefallen)
 
-
-## § 18d – Vorlage von Urkunden
+# § 18d – Vorlage von Urkunden
 
 Die Finanzbehörden sind zur Erfüllung der Auskunftsverpflichtung nach der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1) berechtigt, von Unternehmern die Vorlage der jeweils erforderlichen Bücher, Aufzeichnungen, Geschäftspapiere und anderen Urkunden zur Einsicht und Prüfung zu verlangen. § 97 Absatz 2 der Abgabenordnung gilt entsprechend. Der Unternehmer hat auf Verlangen der Finanzbehörde die in Satz 1 bezeichneten Unterlagen vorzulegen.
 
-
-## § 18e – Bestätigungsverfahren
+# § 18e – Bestätigungsverfahren
 
 Das Bundeszentralamt für Steuern bestätigt auf Anfrage
 
@@ -2394,20 +2333,17 @@ Das Bundeszentralamt für Steuern bestätigt auf Anfrage
 
 2. dem Lagerhalter im Sinne des § 4 Nr. 4a die Gültigkeit der inländischen Umsatzsteuer-Identifikationsnummer sowie den Namen und die Anschrift des Auslagerers oder dessen Fiskalvertreters.
 
-
-## § 18f – Sicherheitsleistung
+# § 18f – Sicherheitsleistung
 
 Bei Steueranmeldungen im Sinne von § 18 Abs. 1 und 3 kann die Zustimmung nach § 168 Satz 2 der Abgabenordnung im Einvernehmen mit dem Unternehmer von einer Sicherheitsleistung abhängig gemacht werden. Satz 1 gilt entsprechend für die Festsetzung nach § 167 Abs. 1 Satz 1 der Abgabenordnung, wenn sie zu einer Erstattung führt.
 
-
-## § 18g – Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat
+# § 18g – Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat
 
 Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von Vorsteuerbeträgen entsprechend der Richtlinie 2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der Erstattung der Mehrwertsteuer gemäß der Richtlinie 2006/112/EG an nicht im Mitgliedstaat der Erstattung, sondern in einem anderen Mitgliedstaat ansässige Steuerpflichtige (ABl. EU Nr. L 44 S. 23) in einem anderen Mitgliedstaat stellen kann, hat diesen Antrag nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung dem Bundeszentralamt für Steuern zu übermitteln. In diesem hat er die Steuer für den Vergütungszeitraum selbst zu berechnen. § 18 Absatz 4f ist entsprechend anzuwenden.
 
 (+++ § 18g: Zur Anwendung vgl. § 27 Abs. 14 +++)
 
-
-## § 18h – Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
+# § 18h – Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat
 
 (1) Ein im Inland ansässiger Unternehmer, der in einem anderen Mitgliedstaat der Europäischen Union Umsätze nach § 3a Absatz 5 erbringt, für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat, hat gegenüber dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung anzuzeigen, wenn er an dem besonderen Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 3 der Richtlinie 2006/112/EG des Rates in der Fassung des Artikels 5 Nummer 15 der Richtlinie 2008/8/EG des Rates vom 12. Februar 2008 zur Änderung der Richtlinie 2006/112/EG bezüglich des Ortes der Dienstleistung (ABl. L 44 vom 20.2.2008, S. 11) teilnimmt. Eine Teilnahme im Sinne des Satzes 1 ist dem Unternehmer nur einheitlich für alle Mitgliedstaaten der Europäischen Union möglich, in denen er weder einen Sitz noch eine Betriebsstätte hat. Die Anzeige nach Satz 1 hat vor Beginn des Besteuerungszeitraums zu erfolgen, ab dessen Beginn der Unternehmer von dem besonderen Besteuerungsverfahren Gebrauch macht. Die Anwendung des besonderen Besteuerungsverfahrens kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber dem Bundeszentralamt für Steuern nach amtlich vorgeschriebenem Datensatz auf elektronischem Weg zu erklären.
 
@@ -2425,8 +2361,7 @@ Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von Vorsteuer
 
 (+++ § 18h Abs. 3 u. 4: Zur Anwendung vgl. § 27 Abs. 20 +++)
 
-
-## § 18i – Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen
+# § 18i – Besonderes Besteuerungsverfahren für von nicht im Gemeinschaftsgebiet ansässigen Unternehmern erbrachte sonstige Leistungen
 
 (1) Ein nicht im Gemeinschaftsgebiet ansässiger Unternehmer, der nach dem 30. Juni 2021 als Steuerschuldner sonstige Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 im Gemeinschaftsgebiet erbringt, für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat, hat anzuzeigen, wenn er an dem besonderen Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 2 der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 2 Nummer 14 bis 20 der Richtlinie (EU) 2017/2455 des Rates vom 5. Dezember 2017 zur Änderung der Richtlinie 2006/112/EG und der Richtlinie 2009/132/EG in Bezug auf bestimmte mehrwertsteuerliche Pflichten für die Erbringung von Dienstleistungen und für Fernverkäufe von Gegenständen (ABl. L 348 vom 29.12.2017, S. 7) teilnimmt. Die Anzeige ist der zuständigen Finanzbehörde eines Mitgliedstaates der Europäischen Union nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln; zuständige Finanzbehörde im Inland ist insoweit das Bundeszentralamt für Steuern. Die Anzeige hat vor Beginn des Besteuerungszeitraums (§ 16 Absatz 1c Satz 1) zu erfolgen, ab dessen Beginn der Unternehmer von dem besonderen Besteuerungsverfahren Gebrauch macht. Eine Teilnahme an dem besonderen Besteuerungsverfahren ist dem Unternehmer nur einheitlich für alle Mitgliedstaaten der Europäischen Union und alle sonstigen Leistungen an Empfänger nach § 3a Absatz 5 Satz 1 im Gemeinschaftsgebiet möglich. Die Anwendung des besonderen Besteuerungsverfahrens kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber der Finanzbehörde nach Satz 2 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu erklären.
 
@@ -2442,8 +2377,7 @@ Ein im Inland ansässiger Unternehmer, der Anträge auf Vergütung von Vorsteuer
 
 (+++ § 18i: Zur Anwendung vgl. § 27 +++)
 
-
-## § 18j – Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen
+# § 18j – Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen
 
 (1) Ein Unternehmer, der
 
@@ -2469,8 +2403,7 @@ für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat,
 
 (+++ § 18i: Zur Anwendung vgl. § 27 +++)
 
-
-## § 18k – Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro
+# § 18k – Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro
 
 (1) Ein Unternehmer, der nach dem 30. Juni 2021 als Steuerschuldner Fernverkäufe nach § 3 Absatz 3a Satz 2 oder § 3c Absatz 2 oder 3 in Sendungen mit einem Sachwert von höchstens 150 Euro im Gemeinschaftsgebiet erbringt, für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat, oder ein in seinem Auftrag handelnder im Gemeinschaftsgebiet ansässiger Vertreter hat anzuzeigen, wenn er an dem besonderen Besteuerungsverfahren entsprechend Titel XII Kapitel 6 Abschnitt 4 der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 2 Nummer 30 der Richtlinie (EU) 2017/2455 des Rates vom 5. Dezember 2017 zur Änderung der Richtlinie 2006/112/EG und der Richtlinie 2009/132/EG in Bezug auf bestimmte mehrwertsteuerliche Pflichten für die Erbringung von Dienstleistungen und für Fernverkäufe von Gegenständen (ABl. L 348 vom 29.12.2017, S. 7) teilnimmt. Die Anzeige ist der zuständigen Finanzbehörde des unter den Voraussetzungen des Artikels 369l Unterabsatz 2 Nummer 3 der Richtlinie 2006/112/EG zuständigen Mitgliedstaates der Europäischen Union vor Beginn des Besteuerungszeitraums (§ 16 Absatz 1e Satz 1) nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln; zuständige Finanzbehörde im Inland ist insoweit das Bundeszentralamt für Steuern. Eine Teilnahme an dem besonderen Besteuerungsverfahren ist für nicht im Gemeinschaftsgebiet ansässige Unternehmer nur zulässig, wenn das Drittland, in dem sie ansässig sind, in der Durchführungsverordnung entsprechend Artikel 369m Absatz 3 der Richtlinie 2006/112/EG aufgeführt ist, oder wenn sie einen im Gemeinschaftsgebiet ansässigen Vertreter vertraglich bestellt und dies der Finanzbehörde nach Satz 2 angezeigt haben. Satz 1 gilt nicht für Sendungen, die verbrauchsteuerpflichtige Waren enthalten. Eine Teilnahme an dem besonderen Besteuerungsverfahren ist nur einheitlich für alle Mitgliedstaaten der Europäischen Union und für alle Fernverkäufe im Sinne des Satzes 1 möglich; sie gilt ab dem Tag, an dem dem Unternehmer oder dem im Auftrag handelnden Vertreter die nach Artikel 369q Absatz 1 oder 3 der Richtlinie 2006/112/EG erteilte individuelle Identifikationsnummer des Unternehmers bekannt gegeben wurde. Die Anwendung des besonderen Besteuerungsverfahrens kann nur mit Wirkung vom Beginn eines Besteuerungszeitraums an widerrufen werden. Der Widerruf ist vor Beginn des Besteuerungszeitraums, für den er gelten soll, gegenüber der Finanzbehörde nach Satz 2 nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu erklären.
 
@@ -2490,8 +2423,7 @@ für die er dort die Steuer schuldet und Umsatzsteuererklärungen abzugeben hat,
 
 (+++ § 18i: Zur Anwendung vgl. § 27 +++)
 
-
-## § 19 – Besteuerung der Kleinunternehmer
+# § 19 – Besteuerung der Kleinunternehmer
 
 (1) Die für Umsätze im Sinne des § 1 Abs. 1 Nr. 1 geschuldete Umsatzsteuer wird von Unternehmern, die im Inland oder in den in § 1 Abs. 3 bezeichneten Gebieten ansässig sind, nicht erhoben, wenn der in Satz 2 bezeichnete Umsatz zuzüglich der darauf entfallenden Steuer im vorangegangenen Kalenderjahr 22 000 Euro nicht überstiegen hat und im laufenden Kalenderjahr 50 000 Euro voraussichtlich nicht übersteigen wird. Umsatz im Sinne des Satzes 1 ist der nach vereinnahmten Entgelten bemessene Gesamtumsatz, gekürzt um die darin enthaltenen Umsätze von Wirtschaftsgütern des Anlagevermögens. Satz 1 gilt nicht für die nach § 13a Abs. 1 Nr. 6, § 13b Absatz 5, § 14c Abs. 2 und § 25b Abs. 2 geschuldete Steuer. In den Fällen des Satzes 1 finden die Vorschriften über die Steuerbefreiung innergemeinschaftlicher Lieferungen (§ 4 Nr. 1 Buchstabe b, § 6a), über den Verzicht auf Steuerbefreiungen (§ 9), über den gesonderten Ausweis der Steuer in einer Rechnung (§ 14 Abs. 4), über die Angabe der Umsatzsteuer-Identifikationsnummern in einer Rechnung (§ 14a Abs. 1, 3 und 7) und über den Vorsteuerabzug (§ 15) keine Anwendung.
 
@@ -2507,8 +2439,7 @@ Soweit der Unternehmer die Steuer nach vereinnahmten Entgelten berechnet (§ 13 
 
 (4) Absatz 1 gilt nicht für die innergemeinschaftlichen Lieferungen neuer Fahrzeuge. § 15 Abs. 4a ist entsprechend anzuwenden.
 
-
-## § 20 – Berechnung der Steuer nach vereinnahmten Entgelten
+# § 20 – Berechnung der Steuer nach vereinnahmten Entgelten
 
 Das Finanzamt kann auf Antrag gestatten, dass ein Unternehmer,
 
@@ -2520,8 +2451,7 @@ Das Finanzamt kann auf Antrag gestatten, dass ein Unternehmer,
 
 die Steuer nicht nach den vereinbarten Entgelten (§ 16 Abs. 1 Satz 1), sondern nach den vereinnahmten Entgelten berechnet. Erstreckt sich die Befreiung nach Satz 1 Nr. 2 nur auf einzelne Betriebe des Unternehmers und liegt die Voraussetzung nach Satz 1 Nr. 1 nicht vor, so ist die Erlaubnis zur Berechnung der Steuer nach den vereinnahmten Entgelten auf diese Betriebe zu beschränken. Wechselt der Unternehmer die Art der Steuerberechnung, so dürfen Umsätze nicht doppelt erfasst werden oder unversteuert bleiben.
 
-
-## § 21 – Besondere Vorschriften für die Einfuhrumsatzsteuer
+# § 21 – Besondere Vorschriften für die Einfuhrumsatzsteuer
 
 (1) Die Einfuhrumsatzsteuer ist eine Verbrauchsteuer im Sinne der Abgabenordnung.
 
@@ -2537,8 +2467,7 @@ die Steuer nicht nach den vereinbarten Entgelten (§ 16 Abs. 1 Satz 1), sondern 
 
 (5) Die Absätze 2 bis 4 gelten entsprechend für Gegenstände, die nicht Waren im Sinne des Zollrechts sind und für die keine Zollvorschriften bestehen.
 
-
-## § 22 – Aufzeichnungspflichten
+# § 22 – Aufzeichnungspflichten
 
 (1) Der Unternehmer ist verpflichtet, zur Feststellung der Steuer und der Grundlagen ihrer Berechnung Aufzeichnungen zu machen. Diese Verpflichtung gilt in den Fällen des § 13a Abs. 1 Nr. 2 und 5, des § 13b Absatz 5 und des § 14c Abs. 2 auch für Personen, die nicht Unternehmer sind. Ist ein land- und forstwirtschaftlicher Betrieb nach § 24 Abs. 3 als gesondert geführter Betrieb zu behandeln, so hat der Unternehmer Aufzeichnungspflichten für diesen Betrieb gesondert zu erfüllen. In den Fällen des § 18 Abs. 4c und 4d sind die erforderlichen Aufzeichnungen auf Anfrage des Bundeszentralamtes für Steuern auf elektronischem Weg zur Verfügung zu stellen; in den Fällen des § 18 Absatz 4e sind die erforderlichen Aufzeichnungen auf Anfrage der für das Besteuerungsverfahren zuständigen Finanzbehörde auf elektronischem Weg zur Verfügung zu stellen.
 
@@ -2646,8 +2575,7 @@ Wenn der Inhaber des Lagers, in das der Gegenstand im Sinne des § 6b Absatz 1 N
 
 2. Unternehmer im Sinne des Absatzes 5 von der Führung des Steuerhefts befreien, sofern sich die Grundlagen der Besteuerung aus anderen Unterlagen ergeben, und diese Befreiung an Auflagen knüpfen.
 
-
-## § 22a – Fiskalvertretung
+# § 22a – Fiskalvertretung
 
 (1) Ein Unternehmer, der weder im Inland noch in einem der in § 1 Abs. 3 genannten Gebiete seinen Wohnsitz, seinen Sitz, seine Geschäftsleitung oder eine Zweigniederlassung hat und im Inland ausschließlich steuerfreie Umsätze ausführt und keine Vorsteuerbeträge abziehen kann, kann sich im Inland durch einen Fiskalvertreter vertreten lassen.
 
@@ -2655,8 +2583,7 @@ Wenn der Inhaber des Lagers, in das der Gegenstand im Sinne des § 6b Absatz 1 N
 
 (3) Der Fiskalvertreter bedarf der Vollmacht des im Ausland ansässigen Unternehmers.
 
-
-## § 22b – Rechte und Pflichten des Fiskalvertreters
+# § 22b – Rechte und Pflichten des Fiskalvertreters
 
 (1) Der Fiskalvertreter hat die Pflichten des im Ausland ansässigen Unternehmers nach diesem Gesetz als eigene zu erfüllen. Er hat die gleichen Rechte wie der Vertretene.
 
@@ -2668,8 +2595,7 @@ Wenn der Inhaber des Lagers, in das der Gegenstand im Sinne des § 6b Absatz 1 N
 
 (+++ § 22b: Zur Anwendung vgl. § 27 +++)
 
-
-## § 22c – Ausstellung von Rechnungen im Falle der Fiskalvertretung
+# § 22c – Ausstellung von Rechnungen im Falle der Fiskalvertretung
 
 Die Rechnung hat folgende Angaben zu enthalten:
 
@@ -2679,22 +2605,19 @@ Die Rechnung hat folgende Angaben zu enthalten:
 
 3. die dem Fiskalvertreter nach § 22d Abs. 1 erteilte Umsatzsteuer-Identifikationsnummer.
 
-
-## § 22d – Steuernummer und zuständiges Finanzamt
+# § 22d – Steuernummer und zuständiges Finanzamt
 
 (1) Der Fiskalvertreter erhält für seine Tätigkeit eine gesonderte Steuernummer und eine gesonderte Umsatzsteuer-Identifikationsnummer nach § 27a, unter der er für alle von ihm vertretenen im Ausland ansässigen Unternehmen auftritt.
 
 (2) Der Fiskalvertreter wird bei dem Finanzamt geführt, das für seine Umsatzbesteuerung zuständig ist.
 
-
-## § 22e – Untersagung der Fiskalvertretung
+# § 22e – Untersagung der Fiskalvertretung
 
 (1) Die zuständige Finanzbehörde kann die Fiskalvertretung der in § 22a Abs. 2 mit Ausnahme der in § 3 des Steuerberatungsgesetzes genannten Person untersagen, wenn der Fiskalvertreter wiederholt gegen die ihm auferlegten Pflichten nach § 22b verstößt oder ordnungswidrig im Sinne des § 26a handelt.
 
 (2) Für den vorläufigen Rechtsschutz gegen die Untersagung gelten § 361 Abs. 4 der Abgabenordnung und § 69 Abs. 5 der Finanzgerichtsordnung.
 
-
-## § 22f – Besondere Pflichten für Betreiber eines elektronischen Marktplatzes
+# § 22f – Besondere Pflichten für Betreiber eines elektronischen Marktplatzes
 
 (1) Der Betreiber eines elektronischen Marktplatzes im Sinne des § 25e Absatz 5 und 6 hat für Lieferungen eines Unternehmers, die auf dem von ihm bereitgestellten Marktplatz rechtlich begründet worden sind und bei denen die Beförderung oder Versendung im Inland beginnt oder endet, Folgendes aufzuzeichnen:
 
@@ -2716,8 +2639,7 @@ Der Nachweis über die Angaben nach Satz 1 Nummer 1 bis 3 ist vom Betreiber durc
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Ausgestaltung des Datenabrufverfahrens nach Absatz 1 Satz 6, zur Verarbeitung und Weiterverarbeitung der in diesem Verfahren erhobenen Daten sowie zum Datenübermittlungsverfahren nach Absatz 3 zu erlassen.
 
-
-## § 23 – Allgemeine Durchschnittsätze
+# § 23 – Allgemeine Durchschnittsätze
 
 (1) Das Bundesministerium der Finanzen kann mit Zustimmung des Bundesrates zur Vereinfachung des Besteuerungsverfahrens für Gruppen von Unternehmern, bei denen hinsichtlich der Besteuerungsgrundlagen annähernd gleiche Verhältnisse vorliegen und die nicht verpflichtet sind, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, durch Rechtsverordnung Durchschnittsätze festsetzen für
 
@@ -2729,8 +2651,7 @@ Der Nachweis über die Angaben nach Satz 1 Nummer 1 bis 3 ist vom Betreiber durc
 
 (3) Der Unternehmer, bei dem die Voraussetzungen für eine Besteuerung nach Durchschnittssätzen im Sinne des Absatzes 1 gegeben sind, kann beim Finanzamt bis zur Unanfechtbarkeit der Steuerfestsetzung (§ 18 Abs. 3 und 4) beantragen, nach den festgesetzten Durchschnittssätzen besteuert zu werden. Der Antrag kann nur mit Wirkung vom Beginn eines Kalenderjahres an widerrufen werden. Der Widerruf ist spätestens bis zur Unanfechtbarkeit der Steuerfestsetzung des Kalenderjahres, für das er gelten soll, zu erklären. Eine erneute Besteuerung nach Durchschnittssätzen ist frühestens nach Ablauf von fünf Kalenderjahren zulässig.
 
-
-## § 23a – Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
+# § 23a – Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes
 
 (1) Zur Berechnung der abziehbaren Vorsteuerbeträge (§ 15) wird für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes, die nicht verpflichtet sind, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, ein Durchschnittssatz von 7 Prozent des steuerpflichtigen Umsatzes, mit Ausnahme der Einfuhr und des innergemeinschaftlichen Erwerbs, festgesetzt. Ein weiterer Vorsteuerabzug ist ausgeschlossen.
 
@@ -2738,8 +2659,7 @@ Der Nachweis über die Angaben nach Satz 1 Nummer 1 bis 3 ist vom Betreiber durc
 
 (3) Der Unternehmer, bei dem die Voraussetzungen für die Anwendung des Durchschnittssatzes gegeben sind, kann dem Finanzamt spätestens bis zum zehnten Tag nach Ablauf des ersten Voranmeldungszeitraums eines Kalenderjahres erklären, dass er den Durchschnittssatz in Anspruch nehmen will. Die Erklärung bindet den Unternehmer mindestens für fünf Kalenderjahre. Sie kann nur mit Wirkung vom Beginn eines Kalenderjahres an widerrufen werden. Der Widerruf ist spätestens bis zum zehnten Tag nach Ablauf des ersten Voranmeldungszeitraums dieses Kalenderjahres zu erklären. Eine erneute Anwendung des Durchschnittssatzes ist frühestens nach Ablauf von fünf Kalenderjahren zulässig.
 
-
-## § 24 – Durchschnittssätze für land- und forstwirtschaftliche Betriebe
+# § 24 – Durchschnittssätze für land- und forstwirtschaftliche Betriebe
 
 (1) Hat der Gesamtumsatz des Unternehmers (§ 19 Absatz 3) im vorangegangenen Kalenderjahr nicht mehr als 600 000 Euro betragen, wird die Steuer für die im Rahmen eines land- und forstwirtschaftlichen Betriebs ausgeführten Umsätze vorbehaltlich der Sätze 2 bis 4 wie folgt festgesetzt:
 
@@ -2763,8 +2683,7 @@ Zum land- und forstwirtschaftlichen Betrieb gehören auch die Nebenbetriebe, die
 
 (4) Der Unternehmer kann spätestens bis zum 10. Tag eines Kalenderjahres gegenüber dem Finanzamt erklären, dass seine Umsätze vom Beginn des vorangegangenen Kalenderjahres an nicht nach den Absätzen 1 bis 3, sondern nach den allgemeinen Vorschriften dieses Gesetzes besteuert werden sollen. Die Erklärung bindet den Unternehmer mindestens für fünf Kalenderjahre; im Falle der Geschäftsveräußerung ist der Erwerber an diese Frist gebunden. Sie kann mit Wirkung vom Beginn eines Kalenderjahres an widerrufen werden. Der Widerruf ist spätestens bis zum 10. Tag nach Beginn dieses Kalenderjahres zu erklären. Die Frist nach Satz 4 kann verlängert werden. Ist die Frist bereits abgelaufen, so kann sie rückwirkend verlängert werden, wenn es unbillig wäre, die durch den Fristablauf eingetretenen Rechtsfolgen bestehen zu lassen.
 
-
-## § 25 – Besteuerung von Reiseleistungen
+# § 25 – Besteuerung von Reiseleistungen
 
 (1) Die nachfolgenden Vorschriften gelten für Reiseleistungen eines Unternehmers, soweit der Unternehmer dabei gegenüber dem Leistungsempfänger im eigenen Namen auftritt und Reisevorleistungen in Anspruch nimmt. Die Leistung des Unternehmers ist als sonstige Leistung anzusehen. Erbringt der Unternehmer an einen Leistungsempfänger im Rahmen einer Reise mehrere Leistungen dieser Art, so gelten sie als eine einheitliche sonstige Leistung. Der Ort der sonstigen Leistung bestimmt sich nach § 3a Abs. 1. Reisevorleistungen sind Lieferungen und sonstige Leistungen Dritter, die den Reisenden unmittelbar zugute kommen.
 
@@ -2786,8 +2705,7 @@ Zum land- und forstwirtschaftlichen Betrieb gehören auch die Nebenbetriebe, die
 
 (+++ § 25 Abs. 3: Zur Anwendung vgl. § 27 Abs. 26 (F 2019-12-12) +++)
 
-
-## § 25a – Differenzbesteuerung
+# § 25a – Differenzbesteuerung
 
 (1) Für die Lieferungen im Sinne des § 1 Abs. 1 Nr. 1 von beweglichen körperlichen Gegenständen gilt eine Besteuerung nach Maßgabe der nachfolgenden Vorschriften (Differenzbesteuerung), wenn folgende Voraussetzungen erfüllt sind:
 
@@ -2839,8 +2757,7 @@ b) auf die innergemeinschaftliche Lieferung eines neuen Fahrzeugs im Sinne des �
 
 (8) Der Wiederverkäufer kann bei jeder Lieferung auf die Differenzbesteuerung verzichten, soweit er Absatz 4 nicht anwendet. Bezieht sich der Verzicht auf die in Absatz 2 bezeichneten Gegenstände, ist der Vorsteuerabzug frühestens in dem Voranmeldungszeitraum möglich, in dem die Steuer für die Lieferung entsteht.
 
-
-## § 25b – Innergemeinschaftliche Dreiecksgeschäfte
+# § 25b – Innergemeinschaftliche Dreiecksgeschäfte
 
 (1) Ein innergemeinschaftliches Dreiecksgeschäft liegt vor, wenn
 
@@ -2884,8 +2801,7 @@ Beim ersten Abnehmer, der eine Umsatzsteuer-Identifikationsnummer eines anderen 
 
 (+++ § 25b Abs. 3 u. 5: Zur Anwendung vgl. § 25f Abs. 2 +++)
 
-
-## § 25c – Besteuerung von Umsätzen mit Anlagegold
+# § 25c – Besteuerung von Umsätzen mit Anlagegold
 
 (1) Die Lieferung, die Einfuhr und der innergemeinschaftliche Erwerb von Anlagegold, einschließlich Anlagegold in Form von Zertifikaten über sammel- oder einzelverwahrtes Gold und über Goldkonten gehandeltes Gold, insbesondere auch Golddarlehen und Goldswaps, durch die ein Eigentumsrecht an Anlagegold oder ein schuldrechtlicher Anspruch auf Anlagegold begründet wird, sowie Terminkontrakte und im Freiverkehr getätigte Terminabschlüsse mit Anlagegold, die zur Übertragung eines Eigentumsrechts an Anlagegold oder eines schuldrechtlichen Anspruchs auf Anlagegold führen, sind steuerfrei. Satz 1 gilt entsprechend für die Vermittlung der Lieferung von Anlagegold.
 
@@ -2909,11 +2825,9 @@ Beim ersten Abnehmer, der eine Umsatzsteuer-Identifikationsnummer eines anderen 
 
 (6) Bei Umsätzen mit Anlagegold gelten zusätzlich zu den Aufzeichnungspflichten nach § 22 die Identifizierungs-, Aufzeichnungs- und Aufbewahrungspflichten des Geldwäschegesetzes entsprechend.
 
+# § 25d – (weggefallen)
 
-## § 25d – (weggefallen)
-
-
-## § 25e – Haftung beim Handel auf einem elektronischen Marktplatz
+# § 25e – Haftung beim Handel auf einem elektronischen Marktplatz
 
 (1) Der Betreiber eines elektronischen Marktplatzes (Betreiber) haftet für die nicht entrichtete Steuer aus der Lieferung eines Unternehmers, die auf dem von ihm bereitgestellten Marktplatz rechtlich begründet worden ist.
 
@@ -2933,8 +2847,7 @@ Beim ersten Abnehmer, der eine Umsatzsteuer-Identifikationsnummer eines anderen 
 
 (+++ § 25e Abs. 1 bis 4: Zur Anwendung vgl. § 27 Abs. 25 Satz 4 +++)
 
-
-## § 25f – Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung
+# § 25f – Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung
 
 (1) Sofern der Unternehmer wusste oder hätte wissen müssen, dass er sich mit der von ihm erbrachten Leistung oder seinem Leistungsbezug an einem Umsatz beteiligt, bei dem der Leistende oder ein anderer Beteiligter auf einer vorhergehenden oder nachfolgenden Umsatzstufe in eine begangene Hinterziehung von Umsatzsteuer oder Erlangung eines nicht gerechtfertigten Vorsteuerabzugs im Sinne des § 370 der Abgabenordnung oder in eine Schädigung des Umsatzsteueraufkommens im Sinne der §§ 26b, 26c einbezogen war, ist Folgendes zu versagen:
 
@@ -2950,8 +2863,7 @@ Beim ersten Abnehmer, der eine Umsatzsteuer-Identifikationsnummer eines anderen 
 
 (+++ § 25f: Zur Anwendung vgl. § 27 +++)
 
-
-## § 26 – Durchführung, Erstattung in Sonderfällen
+# § 26 – Durchführung, Erstattung in Sonderfällen
 
 (1) Die Bundesregierung kann mit Zustimmung des Bundesrates durch Rechtsverordnung zur Wahrung der Gleichmäßigkeit bei der Besteuerung, zur Beseitigung von Unbilligkeiten in Härtefällen oder zur Vereinfachung des Besteuerungsverfahrens den Umfang der in diesem Gesetz enthaltenen Steuerbefreiungen, Steuerermäßigungen und des Vorsteuerabzugs näher bestimmen sowie die zeitlichen Bindungen nach § 19 Abs. 2, § 23 Abs. 3 und § 24 Abs. 4 verkürzen. Bei der näheren Bestimmung des Umfangs der Steuerermäßigung nach § 12 Abs. 2 Nr. 1 kann von der zolltariflichen Abgrenzung abgewichen werden.
 
@@ -2983,8 +2895,7 @@ Satz 1 gilt entsprechend für die von einem Konsortium nach § 13b Absatz 5 gesc
 
 (6) Das Bundesministerium der Finanzen kann dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung mit neuem Datum und unter neuer Überschrift im Bundesgesetzblatt bekanntmachen.
 
-
-## § 26a – Bußgeldvorschriften
+# § 26a – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -3006,20 +2917,17 @@ Satz 1 gilt entsprechend für die von einem Konsortium nach § 13b Absatz 5 gesc
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 5 und 6 das Bundeszentralamt für Steuern.
 
-
-## § 26b – Schädigung des Umsatzsteueraufkommens
+# § 26b – Schädigung des Umsatzsteueraufkommens
 
 (1) Ordnungswidrig handelt, wer die in einer Rechnung im Sinne von § 14 ausgewiesene Umsatzsteuer zu einem in § 18 Absatz 1 Satz 4 oder Abs. 4 Satz 1 oder 2 genannten Fälligkeitszeitpunkt nicht oder nicht vollständig entrichtet.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 26c – Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens
+# § 26c – Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer in den Fällen des § 26b gewerbsmäßig oder als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher Handlungen verbunden hat, handelt.
 
-
-## § 27 – Allgemeine Übergangsvorschriften
+# § 27 – Allgemeine Übergangsvorschriften
 
 (1) Änderungen dieses Gesetzes sind, soweit nichts anderes bestimmt ist, auf Umsätze im Sinne des § 1 Abs. 1 Nr. 1 und 5 anzuwenden, die ab dem Inkrafttreten der maßgeblichen Änderungsvorschrift ausgeführt werden. Das gilt für Lieferungen und sonstige Leistungen auch insoweit, als die Steuer dafür nach § 13 Abs. 1 Nr. 1 Buchstabe a Satz 4, Buchstabe b oder § 13b Absatz 4 Satz 2 vor dem Inkrafttreten der Änderungsvorschrift entstanden ist. Die Berechnung dieser Steuer ist für den Voranmeldungszeitraum zu berichtigen, in dem die Lieferung oder sonstige Leistung ausgeführt wird.
 
@@ -3107,8 +3015,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (33) § 18i Absatz 3 und 6, § 18j Absatz 4 und 7, § 18k Absatz 4 und 7 in der Fassung des Artikels 13 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Umsätze anzuwenden, die nach dem 30. Juni 2021 ausgeführt werden. Die in den §§ 18i, 18j und 18k enthaltenen Verweise auf die §§ 3, 3a, 3c, 16, 18i, 18j, 18k und 22 beziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des vorgenannten Gesetzes.
 
-
-## § 27a – Umsatzsteuer-Identifikationsnummer
+# § 27a – Umsatzsteuer-Identifikationsnummer
 
 (1) Das Bundeszentralamt für Steuern erteilt Unternehmern im Sinne des § 2 auf Antrag eine Umsatzsteuer-Identifikationsnummer. Das Bundeszentralamt für Steuern erteilt auch juristischen Personen, die nicht Unternehmer sind oder die Gegenstände nicht für ihr Unternehmen erwerben, eine Umsatzsteuer-Identifikationsnummer, wenn sie diese für innergemeinschaftliche Erwerbe benötigen. Im Fall der Organschaft wird auf Antrag für jede juristische Person eine eigene Umsatzsteuer-Identifikationsnummer erteilt. Der Antrag auf Erteilung einer Umsatzsteuer-Identifikationsnummer nach den Sätzen 1 bis 3 ist schriftlich zu stellen. In dem Antrag sind Name, Anschrift und Steuernummer, unter der der Antragsteller umsatzsteuerlich geführt wird, anzugeben.
 
@@ -3116,8 +3023,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (2) Die Landesfinanzbehörden übermitteln dem Bundeszentralamt für Steuern die für die Erteilung der Umsatzsteuer-Identifikationsnummer nach Absatz 1 erforderlichen Angaben über die bei ihnen umsatzsteuerlich geführten natürlichen und juristischen Personen und Personenvereinigungen. Diese Angaben dürfen nur für die Erteilung einer Umsatzsteuer-Identifikationsnummer, für Zwecke der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1), für die Umsatzsteuerkontrolle, für Zwecke der Amtshilfe zwischen den zuständigen Behörden anderer Staaten in Umsatzsteuersachen sowie für Übermittlungen an das Statistische Bundesamt nach § 2a des Statistikregistergesetzes verarbeitet werden. Außerdem übermitteln die Landesfinanzbehörden dem Bundeszentralamt für Steuern die nach Absatz 1a erforderlichen Daten. Das Bundeszentralamt für Steuern übermittelt den Landesfinanzbehörden die erteilten Umsatzsteuer-Identifikationsnummern und die Daten, die sie für die Umsatzsteuerkontrolle benötigen.
 
-
-## § 27b – Umsatzsteuer-Nachschau
+# § 27b – Umsatzsteuer-Nachschau
 
 (1) Zur Sicherstellung einer gleichmäßigen Festsetzung und Erhebung der Umsatzsteuer können die damit betrauten Amtsträger der Finanzbehörde ohne vorherige Ankündigung und außerhalb einer Außenprüfung Grundstücke und Räume von Personen, die eine gewerbliche oder berufliche Tätigkeit selbständig ausüben, während der Geschäfts- und Arbeitszeiten betreten, um Sachverhalte festzustellen, die für die Besteuerung erheblich sein können (Umsatzsteuer-Nachschau). Wohnräume dürfen gegen den Willen des Inhabers nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung betreten werden.
 
@@ -3127,8 +3033,7 @@ und wenn mit der Errichtung des Gebäudes in den Fällen der Nummern 1 und 2 vor
 
 (4) Werden anlässlich der Umsatzsteuer-Nachschau Verhältnisse festgestellt, die für die Festsetzung und Erhebung anderer Steuern als der Umsatzsteuer erheblich sein können, so ist die Auswertung der Feststellungen insoweit zulässig, als ihre Kenntnis für die Besteuerung der in Absatz 1 genannten Personen oder anderer Personen von Bedeutung sein kann.
 
-
-## § 28 – Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
+# § 28 – Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften
 
 (1) § 12 Absatz 1 ist vom 1. Juli 2020 bis 31. Dezember 2020 mit der Maßgabe anzuwenden, dass die Steuer für jeden steuerpflichtigen Umsatz 16 Prozent der Bemessungsgrundlage (§§ 10, 11, 25 Absatz 3 und § 25a Absatz 3 und 4) beträgt.
 
@@ -3148,15 +3053,13 @@ innerhalb einer Gemeinde oder
 bb)  
 wenn die Beförderungsstrecke nicht mehr als 50 Kilometer beträgt;
 
-
-## § 29 – Umstellung langfristiger Verträge
+# § 29 – Umstellung langfristiger Verträge
 
 (1) Beruht die Leistung auf einem Vertrag, der nicht später als vier Kalendermonate vor dem Inkrafttreten dieses Gesetzes abgeschlossen worden ist, so kann, falls nach diesem Gesetz ein anderer Steuersatz anzuwenden ist, der Umsatz steuerpflichtig, steuerfrei oder nicht steuerbar wird, der eine Vertragsteil von dem anderen einen angemessenen Ausgleich der umsatzsteuerlichen Mehr- oder Minderbelastung verlangen. Satz 1 gilt nicht, soweit die Parteien etwas anderes vereinbart haben. Ist die Höhe der Mehr- oder Minderbelastung streitig, so ist § 287 Abs. 1 der Zivilprozessordnung entsprechend anzuwenden.
 
 (2) Absatz 1 gilt sinngemäß bei einer Änderung dieses Gesetzes.
 
-
-## Anlage 1 – (zu § 4 Nr. 4a)  Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
+# Anlage 1 – (zu § 4 Nr. 4a)  Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können
 
 (Fundstelle: BGBl. I 2006, 2896 - 2897)
 
@@ -3195,14 +3098,12 @@ wenn die Beförderungsstrecke nicht mehr als 50 Kilometer beträgt;
 
 Die Gegenstände dürfen nicht für die Lieferung auf der Einzelhandelsstufe aufgemacht sein.
 
-
-## Anlage 2 – (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
+# Anlage 2 – (zu § 12 Absatz 2 Nummer 1, 2, 12, 13 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände
 
 (Fundstelle: BGBl. I 2006, 2897 - 2901;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Warenbezeichnung
 
@@ -3778,8 +3679,7 @@ e) Periodenhosen (Slips und andere Unterhosen mit einer eingearbeiteten saugfäh
 
 aus Position 9619
 
-
-## Anlage 3 – (zu § 13b Absatz 2 Nummer 7) Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
+# Anlage 3 – (zu § 13b Absatz 2 Nummer 7) Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
 
 (Fundstelle: BGBl. I 2010, 1787)
 
@@ -3787,8 +3687,7 @@ aus Position 9619
 (Kapitel, Position, Unterposition)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1</td><td style="text-align: left;">Granulierte Schlacke (Schlackensand) aus der Eisen- und Stahlherstellung</td><td style="text-align: left;">Unterposition 2618 00 00</td></tr><tr class="even"><td style="text-align: center;">2</td><td style="text-align: left;">Schlacken (ausgenommen granulierte Schlacke), Zunder und andere Abfälle der Eisen- und Stahlherstellung</td><td style="text-align: left;">Unterposition 2619 00</td></tr><tr class="odd"><td style="text-align: center;">3</td><td style="text-align: left;">Schlacken, Aschen und Rückstände (ausgenommen solche<br />
 der Eisen- und Stahlherstellung), die Metalle, Arsen oder deren Verbindungen enthalten</td><td style="text-align: left;">Position 2620</td></tr><tr class="even"><td style="text-align: center;">4</td><td style="text-align: left;">Abfälle, Schnitzel und Bruch von Kunststoffen</td><td style="text-align: left;">Position 3915</td></tr><tr class="odd"><td style="text-align: center;">5</td><td style="text-align: left;">Abfälle, Bruch und Schnitzel von Weichkautschuk, auch zu Pulver oder Granulat zerkleinert</td><td style="text-align: left;">Unterposition 4004 00 00</td></tr><tr class="even"><td style="text-align: center;">6</td><td style="text-align: left;">Bruchglas und andere Abfälle und Scherben von Glas</td><td style="text-align: left;">Unterposition 7001 00 10</td></tr><tr class="odd"><td style="text-align: center;">7</td><td style="text-align: left;">Abfälle und Schrott von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, von der hauptsächlich zur Wiedergewinnung von Edelmetallen verwendeten Art</td><td style="text-align: left;">Position 7112</td></tr><tr class="even"><td style="text-align: center;">8</td><td style="text-align: left;">Abfälle und Schrott, aus Eisen oder Stahl; Abfallblöcke aus Eisen oder Stahl</td><td style="text-align: left;">Position 7204</td></tr><tr class="odd"><td style="text-align: center;">9</td><td style="text-align: left;">Abfälle und Schrott, aus Kupfer</td><td style="text-align: left;">Position 7404</td></tr><tr class="even"><td style="text-align: center;">10</td><td style="text-align: left;">Abfälle und Schrott, aus Nickel</td><td style="text-align: left;">Position 7503</td></tr><tr class="odd"><td style="text-align: center;">11</td><td style="text-align: left;">Abfälle und Schrott, aus Aluminium</td><td style="text-align: left;">Position 7602</td></tr><tr class="even"><td style="text-align: center;">12</td><td style="text-align: left;">Abfälle und Schrott, aus Blei</td><td style="text-align: left;">Position 7802</td></tr><tr class="odd"><td style="text-align: center;">13</td><td style="text-align: left;">Abfälle und Schrott, aus Zink</td><td style="text-align: left;">Position 7902</td></tr><tr class="even"><td style="text-align: center;">14</td><td style="text-align: left;">Abfälle und Schrott, aus Zinn</td><td style="text-align: left;">Position 8002</td></tr><tr class="odd"><td style="text-align: center;">15</td><td style="text-align: left;">Abfälle und Schrott, aus anderen unedlen Metallen</td><td style="text-align: left;">aus Positionen 8101 bis 8113</td></tr><tr class="even"><td style="text-align: center;">16</td><td style="text-align: left;">Abfälle und Schrott, von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren</td><td style="text-align: left;">Unterposition 8548 10</td></tr></tbody></table>
 
-
-## Anlage 4 – (zu § 13b Absatz 2 Nummer 11)Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet
+# Anlage 4 – (zu § 13b Absatz 2 Nummer 11)Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet
 
 (Fundstelle: BGBl. I 2014, 2429)
 

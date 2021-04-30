@@ -1,10 +1,7 @@
-# [EVO] Eisenbahn-Verkehrsordnung  (EVO)
-
-Ausfertigungsdatum: 08.09.1938
-
+% Eisenbahn-Verkehrsordnung  (EVO)
+% Ausfertigungsdatum: 08.09.1938
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Auf die Beförderung von Personen und Reisegepäck durch öffentliche Eisenbahnen sind die Vorschriften dieser Verordnung anzuwenden, soweit nicht
 
@@ -18,13 +15,11 @@ inhaltsgleiche oder entgegenstehende Regelungen enthalten.
 
 (3) Auf Beförderungen im Schienenpersonennahverkehr, die hauptsächlich aus Gründen historischen Interesses oder zu touristischen Zwecken betrieben werden, sind die Vorschriften der Verordnung (EG) Nr. 1371/2007 nach Maßgabe ihres Artikels 2 Absatz 5 nicht anzuwenden.
 
-
-## § 2 – Beförderungsbedingungen
+# § 2 – Beförderungsbedingungen
 
 Das Eisenbahnverkehrsunternehmen kann zugunsten des Reisenden von allen nachfolgenden Bestimmungen dieser Verordnung in den Beförderungsbedingungen abweichen. Darüber hinaus kann das Eisenbahnverkehrsunternehmen in den Beförderungsbedingungen von § 8 Absatz 1 Nummer 1 abweichen, wenn nach dem vorgesehenen Tarif für den Fahrausweis ein erheblich ermäßigtes Beförderungsentgelt zu zahlen ist. Erheblich ermäßigte Beförderungsentgelte sind solche, die im Tarif ausdrücklich so benannt sind und eine Ersparnis gegenüber dem gewöhnlichen Fahrpreis von mehr als 50 Prozent gewähren. Mehrtages-Zeitkarten, insbesondere Wochen-, Monats- und Jahreskarten, gelten nicht als ermäßigte Beförderungsentgelte im Sinne von Satz 3.
 
-
-## § 3 – Sonderabmachungen
+# § 3 – Sonderabmachungen
 
 (1) Die Eisenbahn kann ohne Bindung an die Tarife Entgelte und Bedingungen vereinbaren (Sonderabmachungen) mit
 
@@ -40,15 +35,13 @@ Vergleichbaren Großkunden, vergleichbaren Reiseveranstaltern und vergleichbare 
 
 (2) Andere Sonderabmachungen, durch die Ermäßigungen oder sonstige Vergünstigungen gegenüber den tariflichen Entgelten gewährt werden, sind unzulässig und nichtig. Sie berühren die rechtliche Wirksamkeit des Beförderungsvertrages nicht. Die Entgelte und Beförderungsbedingungen richten sich auch in solchen Fällen nach dem Tarif.
 
-
-## § 4 – Ausschluss von der Beförderung
+# § 4 – Ausschluss von der Beförderung
 
 (1) In Ergänzung zu Anhang I Artikel 9 Absatz 2 der Verordnung (EG) Nr. 1371/2007 können nicht schulpflichtige Kinder vor Vollendung des sechsten Lebensjahres von der Beförderung ausgeschlossen werden, sofern sie nicht auf der ganzen Fahrstrecke von einer Aufsichtsperson begleitet werden.
 
 (2) Personen, die eine Gefahr für die Sicherheit und Ordnung des Betriebes oder für die Sicherheit der Mitreisenden darstellen oder den Anordnungen des Eisenbahnpersonals nicht folgen, können von der Beförderung ausgeschlossen werden. Sie haben keinen Anspruch auf Erstattung von Fahrpreis oder Gepäckfracht.
 
-
-## § 5 – Erhöhtes Beförderungsentgelt
+# § 5 – Erhöhtes Beförderungsentgelt
 
 (1) Der Reisende ist zur Zahlung eines erhöhten Beförderungsentgeltes verpflichtet, wenn er
 
@@ -62,8 +55,7 @@ b) sich einen gültigen Fahrausweis beschafft hat, ihn jedoch bei einer Prüfung
 
 (4) Das erhöhte Beförderungsentgelt ist nicht zu zahlen, wenn vor Antritt der Fahrt ein Fahrausweis nicht gelöst werden konnte, weil ein Fahrkartenschalter oder Fahrkartenautomat nicht vorhanden, nicht geöffnet oder nicht betriebsbereit war.
 
-
-## § 6 – Fahrausweise
+# § 6 – Fahrausweise
 
 (1) Der Reisende ist verpflichtet, Fahrausweise und sonstige Karten (zum Beispiel Zuschlags-, Übergangs-, Umwegkarten) entsprechend der Beförderungsstrecke zu entwerten und sich sofort von der Entwertung zu überzeugen, sofern der Tarif eine Entwertung vor Betreten des Bahnsteigs oder bei Betreten des Zuges vorschreibt.
 
@@ -71,15 +63,13 @@ b) sich einen gültigen Fahrausweis beschafft hat, ihn jedoch bei einer Prüfung
 
 (3) Sind Fahrpreise von Fahrausweisen unrichtig erhoben worden, ist der Unterschiedsbetrag nachzuzahlen oder zu erstatten. Der Anspruch auf Nachzahlung oder Erstattung erlischt, wenn er nicht binnen eines Jahres nach Ablauf der Geltungsdauer des Fahrausweises geltend gemacht wird.
 
-
-## § 7 – Informationen
+# § 7 – Informationen
 
 (1) Beim Verkauf eines Fahrausweises für eine Zugfahrt, die ausschließlich im Schienenpersonennahverkehr durchgeführt wird, müssen der Beförderer sowie ein Fahrkartenverkäufer, der Fahrausweise ausstellt, den Reisenden über seine aus dieser Verordnung sowie der Verordnung (EG) Nr. 1371/2007 erwachsenden Rechte und Pflichten informieren. Hierbei kann der Informationspflichtige eine Zusammenfassung verwenden. Die Information kann durch Aushang oder Auslage an geeigneter Stelle oder den Einsatz eines rechnergestützten Informations- und Buchungssystems erfolgen.
 
 (2) Während der Fahrt eines Zuges im Schienenpersonennahverkehr muss das Eisenbahnverkehrsunternehmen den Reisenden über den nächsten Haltebahnhof, über Verspätungen, über Sicherheit und über Dienstleistungen im Zug informieren.
 
-
-## § 8 – Verspätung im Schienenpersonennahverkehr
+# § 8 – Verspätung im Schienenpersonennahverkehr
 
 (1) Besitzt der Reisende einen Fahrausweis, der ausschließlich für den öffentlichen Personennahverkehr gilt, so hat er, sofern vernünftigerweise davon ausgegangen werden muss, dass er wegen eines Ausfalls oder einer Unpünktlichkeit des von ihm gemäß dem Beförderungsvertrag gewählten Zuges eines Eisenbahnverkehrsunternehmens verspätet am Zielort ankommen wird, neben den in der Verordnung (EG) Nr. 1371/2007 genannten Rechten und Ansprüchen die folgenden Rechte:
 
@@ -101,8 +91,7 @@ b) sich einen gültigen Fahrausweis beschafft hat, ihn jedoch bei einer Prüfung
 
 Liegt eine der in Satz 1 Nr. 1 oder Nr. 3 genannten Ursachen vor, so kann sich derjenige, mit dem der Reisende den Beförderungsvertrag geschlossen hat, hierauf nur berufen, wenn der Reisende über die Ursache rechtzeitig unterrichtet wurde oder wenn die Ursache offensichtlich war. Der Betreiber der Eisenbahninfrastruktur, auf der die Beförderung erfolgt, ist im Verhältnis zum Eisenbahnverkehrsunternehmen nicht als Dritter anzusehen.
 
-
-## § 9 – Fahrpreiserstattung
+# § 9 – Fahrpreiserstattung
 
 (1) Hat ein Reisender den Fahrausweis nicht zur Fahrt benutzt, so kann er den Fahrpreis zurückverlangen. Ist der Fahrausweis nur auf einer Teilstrecke benutzt worden, so wird der Unterschied zwischen dem gezahlten Fahrpreis und dem gewöhnlichen Fahrpreis für die zurückgelegte Strecke erstattet.
 
@@ -118,8 +107,7 @@ Liegt eine der in Satz 1 Nr. 1 oder Nr. 3 genannten Ursachen vor, so kann sich d
 
 (7) Alle Ansprüche auf Fahrpreiserstattung nach dieser Vorschrift erlöschen, wenn sie nicht binnen sechs Monaten nach Ablauf der Geltungsdauer des Fahrausweises bei der Eisenbahn geltend gemacht werden.
 
-
-## § 10 – Aufbewahrung des Gepäcks
+# § 10 – Aufbewahrung des Gepäcks
 
 (1) Die Eisenbahn haftet für Reise- und Handgepäck, das sie zur Aufbewahrung annimmt, als Verwahrer. Die Bedingungen für die Aufbewahrung regelt der Tarif. Außer bei Vorsatz und grober Fahrlässigkeit kann der Tarif die Haftung auf einen Höchstbetrag beschränken. Die Entgelte sowie die Öffnungszeiten der Aufbewahrungsstellen sind durch Aushang bekanntzumachen.
 
@@ -135,8 +123,7 @@ Liegt eine der in Satz 1 Nr. 1 oder Nr. 3 genannten Ursachen vor, so kann sich d
 
 (7) Wird das hinterlegte Gepäck nicht binnen der im Tarif festgesetzten Aufbewahrungsfrist abgeholt, so ist die Eisenbahn berechtigt, das Gepäck drei Monate nach Ablauf der Aufbewahrungsfrist ohne Förmlichkeit bestmöglich zu verkaufen. Sie ist hierzu schon früher berechtigt, wenn der Wert des Gepäcks durch längeres Lagern unverhältnismäßig vermindert oder in keinem Verhältnis zu den Lagerkosten stehen würde. Die Eisenbahn hat dem Reisenden den Verkaufserlös nach Abzug der noch nicht bezahlten Kosten zur Verfügung zu stellen. Reicht der Erlös zur Deckung dieser Beträge nicht aus, so ist der Reisende zur Nachzahlung des ungedeckten Betrags verpflichtet. Die Eisenbahn hat den Reisenden, wenn sich sein Aufenthalt ermitteln läßt, vom bevorstehenden Verkauf des Gepäcks zu benachrichtigen.
 
-
-## § 11 – Schlichtungsstelle
+# § 11 – Schlichtungsstelle
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung durch Eisenbahnverkehrsunternehmen kann der Reisende eine geeignete Verbraucherschlichtungsstelle anrufen.
 

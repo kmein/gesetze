@@ -1,10 +1,7 @@
-# [OrdensErl7NeufGenErl] Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr
-
-Ausfertigungsdatum: 12.11.2010
-
+% Erlass zur Genehmigung des neu gefassten Erlasses über die Stiftung der Einsatzmedaille der Bundeswehr
+% Ausfertigungsdatum: 12.11.2010
  
-
-## ----
+# ----
 
 Der Bundesminister der Verteidigung hat am 9. November 2010 den Erlass über die Stiftung der Einsatzmedaille der Bundeswehr vom 25. April 1996, zuletzt geändert am 6. November 2002, neu gefasst und mit der Neufassung die Einsatzmedaille der Stufe „Gefecht“ gestiftet.
 
@@ -12,7 +9,6 @@ Nach § 3 Absatz 1 des Gesetzes über Titel, Orden und Ehrenzeichen in der im Bu
 
 Das Bundesministerium des Innern veröffentlicht den neu gefassten Erlass über die Stiftung der Einsatzmedaille der Bundeswehr im Bundesanzeiger.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundespräsident

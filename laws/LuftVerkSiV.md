@@ -1,20 +1,15 @@
-# [LuftVerkSiV] Verordnung zur Sicherstellung des Luftverkehrs
-
-Ausfertigungsdatum: 28.12.1979
-
+% Verordnung zur Sicherstellung des Luftverkehrs
+% Ausfertigungsdatum: 28.12.1979
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und Abs. 2 Nr. 3, der §§ 3, 5 Abs. 1, des § 19 Abs. 8 und des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082) verordnet die Bundesregierung hinsichtlich des § 2 Abs. 2 und des § 3 dieser Verordnung ohne Zustimmung des Bundesrates, im übrigen mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Zweck dieser Verordnung ist es, sicherzustellen, daß in einem Verteidigungsfall sowie in einer Zeit, in der die Verteidigungsbereitschaft der Bundesrepublik Deutschland im Hinblick auf einen möglichen Verteidigungsfall erhöht werden muß, die erforderlichen lebenswichtigen Verkehrsleistungen, insbesondere zur Versorgung der Zivilbevölkerung und der Streitkräfte, im Luftverkehr erbracht werden können.
 
-
-## § 2
+# § 2
 
 (1) Luftfahrzeuge, die in die Luftfahrzeugrolle (§ 2 Abs. 1 des Luftverkehrsgesetzes) eingetragen sind, dürfen im Luftverkehr nur noch betrieben werden
 
@@ -32,8 +27,7 @@ c) für lebenswichtige gewerbliche und berufliche Zwecke, wenn die höhere Verwa
 
 (3) Die Absätze 1 und 2 gelten nicht für die von der Bundespolizei, der Polizei, dem Katastrophenschutz sowie von den Behörden des Bundes, der Länder, der Gemeinden und Gemeindeverbände betriebenen Luftfahrzeuge, ferner für die bei Anwendung dieser Verordnung (§ 7 Abs. 2) bereits angetretenen Flüge sowie für Rückflüge aus Gebieten außerhalb des Geltungsbereichs dieser Verordnung in das Bundesgebiet.
 
-
-## § 3
+# § 3
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung
 
@@ -41,18 +35,15 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsv
 
 2. Luftfahrtunternehmen, soweit sie einer Beförderungspflicht nach § 21 Abs. 2 bis 4 des Luftverkehrsgesetzes unterliegen, verpflichten, bestimmte Beförderungen mit Vorrang vor anderen Beförderungen oder in einer bestimmten Reihenfolge durchzuführen.
 
-
-## § 4
+# § 4
 
 Die oberste Landesverkehrsbehörde kann einen Flugplatzhalter verpflichten, regelmäßig oder unter bestimmten Voraussetzungen Meldungen über Art und Umfang der auf dem Flugplatz jeweils möglichen Verkehrsleistungen zu erstatten. Dazu gehören insbesondere Angaben über die Zahl und den Betriebszustand der Verkehrsanlagen und -einrichtungen.
 
-
-## § 5
+# § 5
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann ein nach § 20 Abs. 1 oder § 21 Abs. 1 des Luftverkehrsgesetzes genehmigtes Luftfahrtunternehmen verpflichten, regelmäßig oder unter bestimmten Voraussetzungen Meldungen über Art und Umfang der Verkehrsleistungen zu erstatten, die das Unternehmen jeweils erbringen kann. Dazu gehören insbesondere Angaben über die Zahl und den Betriebszustand der Luftfahrzeuge.
 
-
-## § 6
+# § 6
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -66,8 +57,7 @@ begeht eine Zuwiderhandlung im Sinne des § 26 Nr. 1 des Verkehrssicherstellungs
 
 (2) Verwaltungsbehörde im Sinne des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes ist bei Ordnungswidrigkeiten nach Absatz 1 Nr. 1 und 2 das Luftfahrt-Bundesamt, bei Ordnungswidrigkeiten nach Absatz 1 Nr. 3 die oberste Landesverkehrsbehörde.
 
-
-## § 7
+# § 7
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

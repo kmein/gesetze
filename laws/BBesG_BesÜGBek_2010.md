@@ -1,10 +1,7 @@
-# [BBesG/BesÜGBek 2010] Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
-
-Ausfertigungsdatum: 19.11.2010
-
+% Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
+% Ausfertigungsdatum: 19.11.2010
  
-
-## ----
+# ----
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
@@ -14,13 +11,11 @@ Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassu
 
 3. als Anlage 3 die sich zum 1. Januar 2010, zum 1. Januar 2011 und zum 1. August 2011 ergebenden Beträge des Grundgehalts nach Anlage 1 des Besoldungsüberleitungsgesetzes für Beamtinnen und Beamte bei den Postnachfolgeunternehmen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 2010, 1694 - 1696)  
   
@@ -37,8 +32,7 @@ Bundesbesoldungsordnung C
 Gültig ab 1. August 2011  
 Bundesbesoldungsordnung C
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2010, 1697 - 1714)  
   
@@ -63,8 +57,7 @@ Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 2 bis A 3 um je 25,56 Euro,  
 in der Besoldungsgruppe A 4 um je 20,45 Euro und  
-in der Besoldungsgruppe A 5 um je 15,34 Euro.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
+in der Besoldungsgruppe A 5 um je 15,34 Euro. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
@@ -90,8 +83,7 @@ Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 2 bis A 3 um je 25,56 Euro,  
 in der Besoldungsgruppe A 4 um je 20,45 Euro und  
-in der Besoldungsgruppe A 5 um je 15,34 Euro.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
+in der Besoldungsgruppe A 5 um je 15,34 Euro. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
@@ -117,16 +109,14 @@ Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 2 bis A 3 um je 25,56 Euro,  
 in der Besoldungsgruppe A 4 um je 20,45 Euro und  
-in der Besoldungsgruppe A 5 um je 15,34 Euro.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
+in der Besoldungsgruppe A 5 um je 15,34 Euro. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 
 (Anlage IX des BBesG)  
 Gültig ab 1. August 2011 für Postnachfolgeunternehmen
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 2010, 1715 - 1717)  
   

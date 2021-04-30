@@ -1,27 +1,21 @@
-# [AuslZuschlV] Verordnung über die Gewährung von Auslandszuschlägen  (Auslandszuschlagsverordnung - AuslZuschlV)
-
-Ausfertigungsdatum: 17.08.2010
-
+% Verordnung über die Gewährung von Auslandszuschlägen  (Auslandszuschlagsverordnung - AuslZuschlV)
+% Ausfertigungsdatum: 17.08.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 7 des Bundesbesoldungsgesetzes, der durch Artikel 2 Nummer 38 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) neu gefasst worden ist, verordnet das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium der Finanzen und dem Bundesministerium der Verteidigung:
 
-
-## § 1 – Bemessungsgrundlage für den Auslandszuschlag und Zuordnung der Dienstorte zu den Zonenstufen
+# § 1 – Bemessungsgrundlage für den Auslandszuschlag und Zuordnung der Dienstorte zu den Zonenstufen
 
 (1) Bei Anwärterinnen und Anwärtern bemisst sich der Auslandszuschlag nicht nach dem zustehenden Grundgehalt, sondern nach dem zustehenden Anwärtergrundbetrag, dem zustehenden Anwärtererhöhungsbetrag und dem zustehenden Anwärtersonderzuschlag.
 
 (2) Die Dienstorte, an denen sich eine Vertretung der Bundesrepublik Deutschland befindet, werden nach Maßgabe der Anlage 1 den Zonenstufen zugeordnet. Die Zuordnung eines in der Anlage 1 nicht aufgeführten Dienstortes richtet sich nach der Zuordnung derjenigen Vertretung der Bundesrepublik Deutschland, in deren Amtsbezirk der Dienstort liegt. Abweichend von Satz 2 werden die Dienstorte, die in der Anlage 2 aufgeführt sind, den dort ausgewiesenen Zonenstufen zugeordnet.
 
-
-## § 1a – Lebenspartnerschaft
+# § 1a – Lebenspartnerschaft
 
 Die Vorschriften dieser Verordnung, die sich auf die Ehegattin oder den Ehegatten beziehen, gelten entsprechend für die Lebenspartnerin oder den Lebenspartner. Die Vorschriften dieser Verordnung, die sich auf Verheiratete beziehen, gelten entsprechend für Verpartnerte.
 
-
-## § 2 – Zuschlag zum Auslandszuschlag nach § 53 Absatz 1 Satz 5 des Bundesbesoldungsgesetzes
+# § 2 – Zuschlag zum Auslandszuschlag nach § 53 Absatz 1 Satz 5 des Bundesbesoldungsgesetzes
 
 (1) Als monatlicher Zuschlag zur Abgeltung außergewöhnlicher materieller Mehraufwendungen oder immaterieller Belastungen können zusätzlich zum Auslandszuschlag gezahlt werden:
 
@@ -47,13 +41,11 @@ Den Zuschlag erhalten Beamtinnen und Beamte, Richterinnen und Richter sowie Sold
 
 (4) Die oberste Dienstbehörde setzt die Zuschläge nach den Absätzen 1 und 2 und die Zeiträume, für die die Zuschläge gewährt werden, im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen fest. Wird ein Zuschlag nach Absatz 1 im Ressorteinvernehmen durch das Auswärtige Amt festgesetzt, können andere oberste Dienstbehörden den festgesetzten Zuschlag ohne erneute Einholung des Ressorteinvernehmens für ihren Geschäftsbereich übernehmen.
 
-
-## § 3 – Auslandszuschlag bei Arbeitsplatzteilung
+# § 3 – Auslandszuschlag bei Arbeitsplatzteilung
 
 Teilen sich Ehegatten, die auf Grund unterschiedlicher Besoldungsgruppen oder Erfahrungsstufen unterschiedlichen Grundgehaltsspannen nach der Anlage VI zum Bundesbesoldungsgesetz zuzuordnen sind, einen Arbeitsplatz, richtet sich die Höhe des Auslandszuschlags nach § 53 Absatz 3 Satz 3 des Bundesbesoldungsgesetzes nach der Grundgehaltsspanne der oder des höher besoldeten Berechtigten.
 
-
-## § 4 – Erhöhter Auslandszuschlag
+# § 4 – Erhöhter Auslandszuschlag
 
 (1) Maßgebliche Dienstbezüge für den erhöhten Auslandszuschlag nach § 53 Absatz 6 Satz 1 und 2 des Bundesbesoldungsgesetzes sind:
 
@@ -67,8 +59,7 @@ Teilen sich Ehegatten, die auf Grund unterschiedlicher Besoldungsgruppen oder Er
 
 (2) Bei einer befristeten Verwendung im Ausland informiert die entsendende Dienststelle die für die Besoldungsfestsetzung zuständige Stelle, wenn die Frist des § 53 Absatz 6 Satz 2 des Bundesbesoldungsgesetzes erfüllt ist. Dienstzeiten, die vor Inkrafttreten dieser Verordnung geleistet worden sind, sind berücksichtigungsfähig.
 
-
-## § 5 – Erhöhter Auslandszuschlag für Verheiratete
+# § 5 – Erhöhter Auslandszuschlag für Verheiratete
 
 (1) Verheiratete Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt, erhalten einen um 18,6 Prozent ihres Grundgehalts erhöhten Auslandszuschlag, höchstens jedoch 18,6 Prozent des Grundgehalts aus der Endstufe der Besoldungsgruppe A 14. Der Erhöhungsbetrag ist zugunsten der Ehegattin oder des Ehegatten zu verwenden
 
@@ -110,8 +101,7 @@ c) in eine berufsständische Versorgungseinrichtung, die Leistungen erbringt, di
 
 (7) (weggefallen)
 
-
-## § 5a – Anrechnung des Nettoerwerbseinkommens der Ehegattin oder des Ehegatten
+# § 5a – Anrechnung des Nettoerwerbseinkommens der Ehegattin oder des Ehegatten
 
 (1) Ist die Ehegattin oder der Ehegatte in dem Zeitraum, für den der erhöhte Auslandszuschlag nach § 53 Absatz 6 Satz 3 und 5 des Bundesbesoldungsgesetzes gewährt wird, erwerbstätig, so wird das Nettoerwerbseinkommen, das die Ehegattin oder der Ehegatte aus einer in diesem Zeitraum ausgeübten Erwerbstätigkeit erzielt hat, auf die Hälfte des erhöhten Auslandszuschlags angerechnet. Dies gilt nur, soweit das Nettoerwerbseinkommen für diesen Zeitraum die Arbeitsentgeltgrenze bei geringfügiger Beschäftigung (§ 8 Absatz 1 Nummer 1 des Vierten Buches Sozialgesetzbuch) oder den entsprechenden Betrag in ausländischer Währung übersteigt. Die Anrechnung erfolgt getrennt für jedes Kalenderjahr. Bei einem Dienstortwechsel innerhalb eines Kalenderjahres wird das erzielte Nettoerwerbseinkommen grundsätzlich getrennt nach Dienstorten betrachtet.
 
@@ -127,18 +117,15 @@ c) in eine berufsständische Versorgungseinrichtung, die Leistungen erbringt, di
 
 (3) Bei Einkünften nach Absatz 2 Nummer 1 bis 3 wird der erhöhte Auslandszuschlag zunächst vorläufig auf der Grundlage der Einkünfte im vorangegangenen Besteuerungszeitraum festgesetzt. Die Empfängerin oder der Empfänger des erhöhten Auslandszuschlags hat die Einkünfte der Ehegattin oder des Ehegatten durch Vorlage des Steuerbescheids für den vorangegangenen Besteuerungszeitraum nachzuweisen. Für die endgültige Festsetzung des erhöhten Auslandszuschlags bei Einkünften nach Absatz 2 Nummer 1 bis 3 ist der Steuerbescheid vorzulegen, der den Bezugszeitraum des erhöhten Auslandszuschlags umfasst. War das tatsächlich erzielte Nettoerwerbseinkommen im Bezugszeitraum des erhöhten Auslandszuschlags geringer als zum Zeitpunkt der vorläufigen Festsetzung nach Satz 1, so besteht bei Nachweis der zweckgerechten Verwendung des erhöhten Auslandszuschlags ein Nachzahlungsanspruch auf den nicht anrechnungsfreien Teil des erhöhten Auslandszuschlags. War das tatsächlich erzielte Nettoerwerbseinkommen im Bezugszeitraum des erhöhten Auslandszuschlags höher als zum Zeitpunkt der vorläufigen Festsetzung nach Satz 1, so ist der nicht anrechnungsfreie Teil des erhöhten Auslandszuschlags ganz oder teilweise zurückzufordern. Weist die Empfängerin oder der Empfänger des erhöhten Auslandszuschlags nach, dass die Steuerfestsetzung, die den Bezugszeitraum des erhöhten Auslandszuschlags umfasst, Einkünfte der Ehegattin oder des Ehegatten nach Absatz 2 Nummer 1 bis 3 einbezieht, die ausschließlich mit Tätigkeiten erzielt wurden, die vor dem Beginn oder nach dem Ende des Gewährungszeitraums des erhöhten Auslandszuschlags erbracht wurden, so kann von der Berücksichtigung der betreffenden Einkünfte abgesehen werden.
 
-
-## § 6 – Erhöhter Auslandszuschlag für weitere Berechtigte
+# § 6 – Erhöhter Auslandszuschlag für weitere Berechtigte
 
 Empfängerinnen und Empfänger von Auslandsdienstbezügen, für die das Gesetz über den Auswärtigen Dienst gilt und denen kein erhöhter Auslandszuschlag für Verheiratete nach § 5 zusteht, können nach § 53 Absatz 6 Satz 6 des Bundesbesoldungsgesetzes einen erhöhten Auslandszuschlag von bis zu 6 Prozent der Dienstbezüge im Ausland auch für die in § 53 Absatz 4 Nummer 3 des Bundesbesoldungsgesetzes genannten Personen erhalten. Dies gilt nur soweit diese im dienstlichen Interesse bei der Erfüllung von Aufgaben der Auslandsvertretung oder von Aufgaben der Empfängerin oder des Empfängers von Auslandsdienstbezügen mitwirken. § 5 Absatz 6 und § 5a gelten entsprechend.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 2010 in Kraft.
 
-
-## Anlage 1 – (zu § 1 Absatz 2 Satz 1)
+# Anlage 1 – (zu § 1 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2020, 1486 – 1491)
 
@@ -1783,8 +1770,7 @@ Taipei (Taiwan)
 
 12
 
-
-## Anlage 2 – (zu § 1 Absatz 2 Satz 3)
+# Anlage 2 – (zu § 1 Absatz 2 Satz 3)
 
 (Fundstelle: BGBl. I 2020, 1492–1493)
 

@@ -1,10 +1,7 @@
-# [VersStG 1996] Versicherungsteuergesetz  (VersStG 1996)
-
-Ausfertigungsdatum: 08.04.1922
-
+% Versicherungsteuergesetz  (VersStG 1996)
+% Ausfertigungsdatum: 08.04.1922
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |                                                                  |       |
 |:-----------------------------------------------------------------|:------|
@@ -25,8 +22,7 @@ Ausfertigungsdatum: 08.04.1922
 | Ermächtigungen                                                   | § 11  |
 | Übergangsvorschrift                                              | § 12  |
 
-
-## § 1 – Gegenstand der Steuer
+# § 1 – Gegenstand der Steuer
 
 (1) Der Steuer unterliegt die Zahlung des Versicherungsentgelts auf Grund eines durch Vertrag oder auf sonstige Weise entstandenen Versicherungsverhältnisses.
 
@@ -66,15 +62,13 @@ wenn der Versicherungsnehmer seinen Sitz, Wohnsitz oder gewöhnlichen Aufenthalt
 
 (+++ § 1 Abs. 4: Zur Anwendung vgl. § 12 Abs. 1 +++)
 
-
-## § 2 – Versicherungsverträge
+# § 2 – Versicherungsverträge
 
 (1) Als Versicherungsvertrag im Sinne dieses Gesetzes gilt auch eine Vereinbarung zwischen mehreren Personen oder Personenvereinigungen, solche Verluste oder Schäden gemeinsam zu tragen, die den Gegenstand einer Versicherung bilden können.
 
 (2) Als Versicherungsvertrag gilt nicht ein Vertrag, durch den der Versicherer sich verpflichtet, für den Versicherungsnehmer Bürgschaft oder sonstige Sicherheit zu leisten.
 
-
-## § 3 – Versicherungsentgelt
+# § 3 – Versicherungsentgelt
 
 (1) Versicherungsentgelt im Sinne dieses Gesetzes ist jede Leistung, die für die Begründung und zur Durchführung des Versicherungsverhältnisses an den Versicherer zu bewirken ist. Hierunter fallen insbesondere
 
@@ -96,8 +90,7 @@ Zum Versicherungsentgelt gehört nicht, was zur Abgeltung einer Sonderleistung d
 
 (2) Wird auf die Prämie ein Gewinnanteil verrechnet und nur der Unterschied zwischen Prämie und Gewinnanteil an den Versicherer gezahlt, so ist dieser Unterschiedsbetrag Versicherungsentgelt. Das gleiche gilt, wenn eine Verrechnung zwischen Prämie und Gewinnanteil nicht möglich ist und die Gutschriftanzeige über den Gewinnanteil dem Versicherungsnehmer mit der Prämienrechnung vorgelegt wird.
 
-
-## § 4 – Ausnahmen von der Besteuerung
+# § 4 – Ausnahmen von der Besteuerung
 
 (1) Von der Besteuerung ausgenommen ist die Zahlung des Versicherungsentgelts
 
@@ -117,8 +110,7 @@ b) im Fall der Krankheit, der Pflegebedürftigkeit, der Berufs- oder der Erwerbs
 
 Die Ausnahme von der Besteuerung nach Satz 1 gilt nicht für die Unfallversicherung, die Haftpflichtversicherung und sonstige Sachversicherungen. Nummer 3 bleibt unberührt;
 
-5a.  
-für eine Versicherung, die auf dem Vierten Abschnitt des Ersten Teils des Gesetzes zur Verbesserung der betrieblichen Altersversorgung vom 19. Dezember 1974 (BGBl. I S. 3610) beruht;
+5a. für eine Versicherung, die auf dem Vierten Abschnitt des Ersten Teils des Gesetzes zur Verbesserung der betrieblichen Altersversorgung vom 19. Dezember 1974 (BGBl. I S. 3610) beruht;
 
 6. für eine Versicherung bei einer Lohnausgleichskasse, die von Tarifvertragsparteien errichtet worden ist, um Arbeitnehmer bei Arbeitsausfällen zu unterstützen;
 
@@ -148,8 +140,7 @@ Die Steuerbefreiung tritt nur ein, wenn Gegenseitigkeit gewährt wird;
 
 (+++ § 4: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
-
-## § 5 – Steuerberechnung, Steuerentstehung, Steuerausweis
+# § 5 – Steuerberechnung, Steuerentstehung, Steuerausweis
 
 (1) Die Steuer wird für die einzelnen Versicherungen berechnet, und zwar
 
@@ -173,8 +164,7 @@ Das Bundeszentralamt für Steuern kann auf Antrag gestatten, dass die Steuer nic
 
 (+++ § 5 Abs. 4: Zur Anwendung vgl. § 12 Abs. 2 +++)
 
-
-## § 6 – Steuersatz
+# § 6 – Steuersatz
 
 (1) Die Steuer beträgt vorbehaltlich des folgenden Absatzes 19 Prozent des Versicherungsentgelts ohne Versicherungsteuer.
 
@@ -192,8 +182,7 @@ Das Bundeszentralamt für Steuern kann auf Antrag gestatten, dass die Steuer nic
 
 6. bei der Unfallversicherung mit Prämienrückgewähr 3,8 Prozent des Versicherungsentgelts.
 
-
-## § 7 – Steuerschuldner, Steuerentrichtungsschuldner, Haftende
+# § 7 – Steuerschuldner, Steuerentrichtungsschuldner, Haftende
 
 (1) Steuerschuldner ist der Versicherungsnehmer.
 
@@ -219,13 +208,11 @@ Das Bundeszentralamt für Steuern kann auf Antrag gestatten, dass die Steuer nic
 
 (9) Im Verhältnis zwischen dem Versicherer und dem Versicherungsnehmer gilt die Steuer als Teil des Versicherungsentgelts, soweit es sich um dessen Einziehung und Geltendmachung im Rechtsweg handelt.
 
-
-## § 7a – Zuständigkeit
+# § 7a – Zuständigkeit
 
 Zuständig ist das Bundeszentralamt für Steuern.
 
-
-## § 8 – Anmeldung, Fälligkeit
+# § 8 – Anmeldung, Fälligkeit
 
 (1) Der Steuerentrichtungsschuldner nach § 7 Absatz 2, 3, 4 oder Absatz 5 hat innerhalb von 15 Tagen nach Ablauf eines jeden Anmeldungszeitraums
 
@@ -243,8 +230,7 @@ Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Här
 
 (+++ § 8: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
-
-## § 9 – Erstattung, Nachentrichtung der Steuer
+# § 9 – Erstattung, Nachentrichtung der Steuer
 
 (1) Ist das Versicherungsentgelt ganz oder zum Teil zurückgezahlt worden, weil die Versicherung vorzeitig endete oder weil das Versicherungsentgelt oder die Versicherungssumme herabgesetzt worden ist, so wird die Steuer auf Antrag insoweit erstattet, als sie bei Berücksichtigung dieser Umstände nicht zu erheben gewesen wäre. Die Steuer wird dem Steuerentrichtungsschuldner (§ 7 Absatz 2 bis 5) oder dem Haftenden (§ 7 Absatz 7) für Rechnung des Steuerschuldners und im Fall des § 7 Absatz 6 dem Versicherungsnehmer erstattet. Die Steuer wird nicht erstattet, wenn die Prämienrückgewähr ausdrücklich versichert war. Ein Erstattungsanspruch ist nur gegeben, wenn die Steuer tatsächlich an das Bundeszentralamt für Steuern entrichtet wurde.
 
@@ -260,8 +246,7 @@ Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Här
 
 (7) Ist Steuer nach den Absätzen 5 und 6 nachzuentrichten, so ist der Versicherer zum Zweck der Steuerentrichtung berechtigt, die Steuer beim Versicherungsnehmer nachträglich einzufordern oder im Leistungsfall die Versicherungsleistung entsprechend zu kürzen.
 
-
-## § 10 – Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung
+# § 10 – Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung
 
 (1) Alle Gesamtschuldner im Sinne des § 7 Absatz 8 Satz 1, die nach der Abgabenordnung oder anderen Gesetzen aufzeichnungspflichtig sind, haben zur Feststellung der Steuer und der Grundlagen ihrer Berechnung Aufzeichnungen zu führen, die alle Angaben enthalten, die für die Besteuerung von Bedeutung sind. Hierzu gehören insbesondere
 
@@ -291,20 +276,17 @@ Wer nach § 7 Absatz 4 steuerentrichtungspflichtig ist, hat den Gesamtbetrag des
 
 (4) Steuerbeträge, die auf Grund einer Außenprüfung nachzuentrichten oder zu erstatten sind, sind zusammen mit der Steuer für den letzten Monat, das letzte Quartal oder das letzte Kalenderjahr des Prüfungszeitraums festzusetzen. Nachzuentrichtende Steuerbeträge sind einen Monat nach Bekanntgabe der Festsetzung fällig.
 
-
-## § 10a – Mitteilungspflicht
+# § 10a – Mitteilungspflicht
 
 (1) Die mit der Aufsicht über die Versicherungsunternehmen betrauten Behörden teilen dem Bundeszentralamt für Steuern die zu ihrer Kenntnis gelangenden Versicherer mit.
 
 (2) Das Registergericht teilt Eintragungen von Vereinen oder Genossenschaften, die sich mit dem Abschluß von Versicherungen befassen, dem Bundeszentralamt für Steuern mit; das gilt auch dann, wenn die Vereine oder Genossenschaften ihre Leistungen als Unterstützungen ohne Rechtsanspruch bezeichnen.
 
-
-## § 10b – Anwendungsvorschriften
+# § 10b – Anwendungsvorschriften
 
 Wird ein Steuersatz geändert oder die Zahlung des Versicherungsentgelts von der Steuer ausgenommen, ist der neue Steuersatz oder die neue Befreiungsvorschrift auf Versicherungsentgelte anzuwenden, die ab dem Inkrafttreten der Änderung des Steuersatzes oder der neuen Befreiungsvorschrift fällig werden. Satz 1 gilt entsprechend für geänderte oder aufgehobene Befreiungsvorschriften. Wird die Fälligkeit des Versicherungsentgelts geändert für Zeitpunkte, ab denen eine Rechtsänderung in Kraft tritt, so ist die Änderung dieser Fälligkeit im Hinblick auf die Steueranmeldung und Steuerentrichtung insoweit nicht zu berücksichtigen, als sie zu einer niedrigeren Steuer führen würde. Dies gilt entsprechend, wenn ein Versicherungsvertrag zur Änderung der Fälligkeit des Versicherungsentgelts gekündigt und alsbald neu abgeschlossen oder wenn die Fälligkeit des Versicherungsentgelts für einen Zeitpunkt vor Abschluß des Versicherungsvertrags festgelegt wird.
 
-
-## § 10c – Geschäftstätigkeit von Lloyd´s
+# § 10c – Geschäftstätigkeit von Lloyd´s
 
 (1) Der Hauptbevollmächtigte von Lloyd´s hat für alle der bei Lloyd´s vereinigten Einzelversicherer die nach diesem Gesetz entstandene Steuer als Steuerentrichtungsschuldner anzumelden und zu entrichten, soweit nicht ein anderer nachweislich die Steuer selbst angemeldet und entrichtet hat.
 
@@ -312,8 +294,7 @@ Wird ein Steuersatz geändert oder die Zahlung des Versicherungsentgelts von der
 
 (3) Steuerfestsetzungen im Sinne des § 168 der Abgabenordnung, behördliche Maßnahmen, insbesondere Verwaltungsakte, sowie gerichtliche Titel auf dem Gebiet des Versicherungsteuerrechts wirken für und gegen die an einem konkreten Versicherungsgeschäft beteiligten Einzelversicherer. Vollstreckungsmaßnahmen in die inländischen Vermögenswerte aller bei Lloyd´s vereinigten Einzelversicherer sind zulässig, soweit diese Vermögenswerte von dem Hauptbevollmächtigten verwaltet werden.
 
-
-## § 11 – Ermächtigungen
+# § 11 – Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, Rechtsverordnungen, die nicht der Zustimmung des Bundesrates bedürfen, zu erlassen über:
 
@@ -343,8 +324,7 @@ c) bei Werten in fremder Währung,
 
 (2) Das Bundesministerium der Finanzen kann dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung mit neuem Datum und unter neuer Überschrift im Bundesgesetzblatt bekanntmachen.
 
-
-## § 12 – Übergangsvorschrift
+# § 12 – Übergangsvorschrift
 
 (1) § 1 Absatz 4 ist anzuwenden für Versicherungsentgelte, die sich auf Versicherungszeiträume ab dem 1. Januar 2014 beziehen.
 

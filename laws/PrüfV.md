@@ -1,17 +1,11 @@
-# [PrüfV] Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüssen und den Solvabilitätsübersichten von Versicherungsunternehmen  (Prüfungsberichteverordnung - PrüfV)
-
-Ausfertigungsdatum: 19.07.2017
-
+% Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüssen und den Solvabilitätsübersichten von Versicherungsunternehmen  (Prüfungsberichteverordnung - PrüfV)
+% Ausfertigungsdatum: 19.07.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2, 4 und 5 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434), von denen § 39 Absatz 1 Satz 1 Nummer 3 durch Artikel 4 Nummer 7 des Gesetzes vom 6. Juni 2017 (BGBl. I S. 1495) geändert worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung des Versicherungsbeirats im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -49,8 +43,9 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2, 4 und 5 d
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt den Inhalt der folgenden Prüfungsberichte:
 
@@ -64,8 +59,7 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2, 4 und 5 d
 
 (2) Diese Verordnung ist nicht anzuwenden, wenn das geprüfte Unternehmen der Aufsicht durch die Aufsichtsbehörden der Länder unterliegt.
 
-
-## § 2 – Art und Umfang der Berichterstattung
+# § 2 – Art und Umfang der Berichterstattung
 
 (1) Der Umfang der Berichterstattung in einem Prüfungsbericht hat der Bedeutung und dem Risikogehalt der dargestellten Vorgänge zu entsprechen. Bei den vorgenommenen Beurteilungen sind die aufsichtlichen Vorgaben zu den einzelnen Bereichen zu beachten. Die Beurteilungen sind nachvollziehbar zu begründen. Verweisungen auf den Inhalt vorangegangener Prüfungsberichte sind grundsätzlich zu vermeiden.
 
@@ -73,18 +67,15 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2, 4 und 5 d
 
 (3) Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer Beseitigung eingeleitet worden sind.
 
-
-## § 3 – Anlagen zu Prüfungsberichten
+# § 3 – Anlagen zu Prüfungsberichten
 
 Erläuternde Darstellungen zu den in dieser Verordnung geforderten Angaben können einem Prüfungsbericht als Anlagen beigefügt werden, wenn im Prüfungsbericht selbst eine hinreichende Beurteilung erfolgt und die Lesbarkeit des Prüfungsberichts nicht beeinträchtigt wird.
 
-
-## § 4 – Gegenstand der Berichterstattung
+# § 4 – Gegenstand der Berichterstattung
 
 Gegenstand der Berichterstattung ist die Prüfung der Solvabilitätsübersicht, die das Versicherungsunternehmen nach Maßgabe des Artikels 9 Buchstabe a oder des Artikels 26 Buchstabe a der Durchführungsverordnung (EU) 2015/2450 der Kommission vom 2. Dezember 2015 zur Festlegung technischer Durchführungsstandards hinsichtlich der Meldebögen für die Übermittlung von Informationen an die Aufsichtsbehörde gemäß der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates (ABl. L 347 vom 31.12.2015, S. 1) in den Meldebogen S.02.01.01 aus Anhang I der Durchführungsverordnung (EU) 2015/2450 eingetragen hat. Von der Prüfung ausgenommen sind die Angaben in der Spalte „Bewertung im gesetzlichen Abschluss“ des Meldebogens.
 
-
-## § 5 – Grundsätze zur Berichterstattung
+# § 5 – Grundsätze zur Berichterstattung
 
 (1) Die geprüfte Solvabilitätsübersicht ist in den Prüfungsbericht aufzunehmen.
 
@@ -96,25 +87,21 @@ Gegenstand der Berichterstattung ist die Prüfung der Solvabilitätsübersicht, 
 
 (5) Bei Abweichungen von Ansätzen und Bewertungen von den für die Solvabilitätsübersicht relevanten Leitlinien der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung oder Veröffentlichungen der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) ist im Prüfungsbericht darauf einzugehen, ob die Abweichung von dem Unternehmen nachvollziehbar begründet wird und sachlich gerechtfertigt ist.
 
-
-## § 6 – Besondere Hinweispflichten
+# § 6 – Besondere Hinweispflichten
 
 Der Prüfer hat darauf hinzuweisen, wenn sich die bei der Wahl der Wertansätze ausgeübten Ermessensspielräume wesentlich auf den Überschuss der Vermögenswerte über die Verbindlichkeiten auswirken. Unabhängig davon sind diejenigen Ermessensspielräume, deren Ausübung die Bewertung von Vermögenswerten oder Verbindlichkeiten nicht unerheblich nach oben oder unten beeinflusst, anzugeben und zu beurteilen.
 
-
-## § 7 – Datenqualität
+# § 7 – Datenqualität
 
 (1) Der Prüfer hat insbesondere darzustellen und zu beurteilen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, Authentizität und Verfügbarkeit der aufsichtlich relevanten Daten angemessen sind und wirksam umgesetzt werden.
 
 (2) Werden externe IT-Ressourcen eingesetzt, so erstrecken sich die Berichtspflichten nach Absatz 1 auch auf diese IT-Ressourcen sowie deren Einbindung im berichtspflichtigen Unternehmen.
 
-
-## § 8 – Ansatz der Vermögenswerte und Verbindlichkeiten
+# § 8 – Ansatz der Vermögenswerte und Verbindlichkeiten
 
 Der Prüfer hat darüber zu berichten, ob die in die Solvabilitätsübersicht einbezogenen Vermögenswerte und Verbindlichkeiten vollständig sind und ob in der Solvabilitätsübersicht Vermögenswerte und Verbindlichkeiten enthalten sind, für die ein Ansatzverbot besteht.
 
-
-## § 9 – Bewertung
+# § 9 – Bewertung
 
 (1) Der Prüfer hat darüber zu berichten, ob Artikel 9 Absatz 1 bis 3, 5 und 6 sowie Artikel 10 der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2016/2283 vom 22. August 2016 (ABl. L 346 vom 20.12.2016, S. 111) geändert worden ist, beachtet wurden.
 
@@ -132,8 +119,7 @@ Der Prüfer hat darüber zu berichten, ob die in die Solvabilitätsübersicht ei
 
 (5) Veränderungen der Bewertungsmethoden gegenüber dem Vorjahr sind zu erläutern und hinsichtlich ihrer Zulässigkeit zu beurteilen.
 
-
-## § 10 – Erleichterungen bei der Bewertung
+# § 10 – Erleichterungen bei der Bewertung
 
 Macht das Unternehmen von der Erleichterung gemäß Artikel 9 Absatz 4 der Delegierten Verordnung (EU) 2015/35 Gebrauch, muss der Prüfungsbericht Ausführungen dazu enthalten,
 
@@ -145,32 +131,27 @@ Macht das Unternehmen von der Erleichterung gemäß Artikel 9 Absatz 4 der Deleg
 
 4. ob und warum eine Bewertung der Vermögenswerte oder der Verbindlichkeiten nach internationalen Rechnungslegungsstandards für das Unternehmen oder die Gruppe mit unverhältnismäßigen Kosten verbunden wäre.
 
-
-## § 11 – Eventualverbindlichkeiten
+# § 11 – Eventualverbindlichkeiten
 
 Im Prüfungsbericht ist darauf einzugehen, ob unter Beachtung der Kriterien des Artikels 11 der Delegierten Verordnung (EU) 2015/35 Eventualverbindlichkeiten vollständig und zutreffend in der Solvabilitätsübersicht angesetzt sind. Dabei ist der Prozess zur Identifizierung der Eventualverbindlichkeiten zu beurteilen.
 
-
-## § 12 – Immaterielle Vermögenswerte
+# § 12 – Immaterielle Vermögenswerte
 
 Der Prüfer hat zur Angemessenheit der Bewertung immaterieller Vermögenswerte Stellung zu nehmen. Dabei ist insbesondere darauf einzugehen, ob für den Ansatz die Voraussetzungen erfüllt sind, die sich aus Artikel 12 Nummer 2 der Delegierten Verordnung (EU) 2015/35 ergeben.
 
-
-## § 13 – Latente Steuern
+# § 13 – Latente Steuern
 
 (1) Soweit in der Solvabilitätsübersicht latente Steuern angesetzt sind, ist das Verfahren zu ihrer Ermittlung darzustellen und zur Angemessenheit dieses Verfahrens Stellung zu nehmen. Zudem ist die Zusammensetzung des Elements zu erläutern.
 
 (2) Bei aktiven latenten Steuern auf steuerliche Verlustvorträge ist darauf einzugehen, ob die Ansatzvoraussetzungen erfüllt sind.
 
-
-## § 14 – Fremdgenutzte Immobilien
+# § 14 – Fremdgenutzte Immobilien
 
 (1) Im Prüfungsbericht ist darauf einzugehen, ob bei der Ermittlung von Marktwerten für fremdgenutzte Immobilien alle wesentlichen Risiken der zu bewertenden Immobilien in die Bewertung eingeflossen sind.
 
 (2) Es ist darauf einzugehen, ob die Häufigkeit der Neubewertung dem Umfang und der Volatilität des Portfolios angemessen ist und ob das Unternehmen eindeutige und angemessene Kriterien dafür festgelegt hat, wann außerhalb des regelmäßigen Turnus eine Neubewertung vorzunehmen ist.
 
-
-## § 15 – Bewertungsverfahren und -modelle für bestimmte Vermögenswerte
+# § 15 – Bewertungsverfahren und -modelle für bestimmte Vermögenswerte
 
 (1) Im Prüfungsbericht muss der Prüfer auf die Bewertungsmethoden gemäß Artikel 13 der Delegierten Verordnung (EU) 2015/35 eingehen und deren zutreffende Anwendung bestätigen.
 
@@ -186,13 +167,11 @@ Der Prüfer hat zur Angemessenheit der Bewertung immaterieller Vermögenswerte S
 
 aus Bewertungsverfahren und -modellen abgeleitet werden, sind Ausführungen zur Angemessenheit dieser Verfahren und Modelle zu machen.
 
-
-## § 16 – Organismen für gemeinsame Anlagen in Wertpapieren und anderen Anlagen in Fondsform
+# § 16 – Organismen für gemeinsame Anlagen in Wertpapieren und anderen Anlagen in Fondsform
 
 Bei der Anlage in Organismen für gemeinsame Anlagen in Wertpapieren und in anderen Anlagen in Fondsform hat der Prüfer die jeweils verwendeten Bewertungsmethoden darzustellen und deren Angemessenheit zu bestätigen.
 
-
-## § 17 – Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften
+# § 17 – Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften
 
 (1) Der Prüfer hat über die angewendeten Berechnungs- und Bewertungsmethoden der einforderbaren Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften zu berichten und zur Angemessenheit dieser Methoden Stellung zu nehmen. Die Nutzung von Wahlrechten und Gestaltungsspielräumen ist zu erläutern und deren Angemessenheit zu beurteilen.
 
@@ -202,8 +181,7 @@ Bei der Anlage in Organismen für gemeinsame Anlagen in Wertpapieren und in ande
 
 2. in welchem Umfang sich die einforderbaren Beträge aus traditionellen Rückversicherungsverträgen, Finanzrückversicherungsverträgen und Risikotransferverträgen mit Zweckgesellschaften ergeben.
 
-
-## § 18 – Versicherungstechnische Rückstellungen
+# § 18 – Versicherungstechnische Rückstellungen
 
 Bei den versicherungstechnischen Rückstellungen hat der Prüfer die Einhaltung der aufsichtsrechtlichen Vorschriften zur Berechnung und Bewertung zu bestätigen. Dabei ist insbesondere einzugehen auf
 
@@ -223,13 +201,11 @@ Bei den versicherungstechnischen Rückstellungen hat der Prüfer die Einhaltung 
 
 8. die Validierung nach Maßgabe des Artikels 264 der Delegierten Verordnung (EU) 2015/35.
 
-
-## § 19 – Besonderheiten bei der Bewertung von versicherungstechnischen Rückstellungen bei Nichtlebensversicherungsunternehmen
+# § 19 – Besonderheiten bei der Bewertung von versicherungstechnischen Rückstellungen bei Nichtlebensversicherungsunternehmen
 
 Bei Nichtlebensversicherungsverpflichtungen ist getrennt nach Prämien- und Schadenrückstellung zu berichten. Dabei ist auch auf die Verfahren zur Berechnung der Risikomarge einzugehen.
 
-
-## § 20 – Bewertungsmodelle versicherungstechnischer Rückstellungen in der Personenversicherung
+# § 20 – Bewertungsmodelle versicherungstechnischer Rückstellungen in der Personenversicherung
 
 (1) Soweit ein Unternehmen zur Bewertung der versicherungstechnischen Rückstellungen ein eigenes oder von Dritten entwickeltes Bewertungsmodell verwendet, hat der Prüfer insbesondere zu beurteilen die Angemessenheit
 
@@ -259,15 +235,13 @@ Bei Nichtlebensversicherungsverpflichtungen ist getrennt nach Prämien- und Scha
 
 Hat das Unternehmen das Bewertungsmodell unternehmensspezifisch angepasst, ist zusätzlich auf die Angemessenheit der vorgenommenen Änderungen einzugehen.
 
-
-## § 21 – Gruppen
+# § 21 – Gruppen
 
 (1) Im Prüfungsbericht nach § 1 Absatz 1 Nummer 2 ist darauf einzugehen, ob die aufsichtsrechtlichen Konsolidierungsvorschriften beachtet worden sind und dadurch die Finanz- und Risikolage der Gruppe sachgerecht dargestellt wird. Bei der Darstellung des Konsolidierungskreises ist auch auf nicht-kontrollierte Beteiligungen im Sinne des Artikels 335 Absatz 1 Buchstabe d der Delegierten Verordnung (EU) 2015/35 sowie Finanzunternehmen anderer Sektoren einzugehen.
 
 (2) Im Prüfungsbericht nach § 1 Absatz 1 Nummer 2 sind die internen Kontrollmechanismen zur Überwachung gruppeninterner Transaktionen darzustellen und zu beurteilen. Dabei ist auch auf die Verfahren zur Eliminierung von gruppeninternen Transaktionen einzugehen.
 
-
-## § 22 – Zusammenfassende Feststellungen
+# § 22 – Zusammenfassende Feststellungen
 
 (1) Im abschließenden Abschnitt des Prüfungsberichts hat der Prüfer darzustellen, ob die Elemente der Solvabilitätsübersicht ordnungsgemäß angesetzt und bewertet wurden. Dabei ist auch auf die Angemessenheit der verwendeten Bewertungsmethoden und -modelle einzugehen. Die Ausführungen richten sich nach der Wesentlichkeit der Elemente.
 
@@ -277,15 +251,13 @@ Hat das Unternehmen das Bewertungsmodell unternehmensspezifisch angepasst, ist z
 
 (4) Zu berichten ist auch über wesentliche Feststellungen, die sich auf das Prüfungsurteil nach § 23 Absatz 1 Satz 1 nicht ausgewirkt haben, sofern sie die Solvabilitätsübersicht des Unternehmens betreffen und ihre Kenntnis für die Bundesanstalt von Bedeutung sein kann.
 
-
-## § 23 – Prüfungsvermerk
+# § 23 – Prüfungsvermerk
 
 (1) In einem Prüfungsvermerk hat der Prüfer die wesentlichen Feststellungen zusammenzufassen und in einer Gesamtwürdigung der Prüfungsergebnisse ein Prüfungsurteil darüber abzugeben, ob die Vermögenswerte und Verbindlichkeiten der Solvabilitätsübersicht zutreffend nach Maßgabe der gesetzlichen Vorschriften und aufsichtsrechtlichen Vorgaben ermittelt wurden. Im Rahmen des Prüfungsvermerks hat der Prüfer die Art und den Umfang der Prüfungshandlungen sowie der Prüfungsergebnisse prägnant darzustellen.
 
 (2) Der Prüfungsbericht ist unter Angabe von Ort und Datum vom Prüfer zu unterzeichnen und mit Siegel zu versehen.
 
-
-## § 24 – Bestandteile des Prüfungsberichts
+# § 24 – Bestandteile des Prüfungsberichts
 
 (1) Der Bericht über die Prüfung des Jahresabschlusses und Lageberichts hat einen Allgemeinen Teil und einen Besonderen Teil. Für den Allgemeinen Teil sind die Abschnitte 2 bis 9 maßgebend, für den Besonderen Teil der Abschnitt 10.
 
@@ -293,15 +265,13 @@ Hat das Unternehmen das Bewertungsmodell unternehmensspezifisch angepasst, ist z
 
 (+++ § 24 Abs. 2: Zur Anwendung vgl. § 52 Abs. 4 +++)
 
-
-## § 25 – Berichtszeitraum
+# § 25 – Berichtszeitraum
 
 (1) Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum), ist in der Regel das am Bilanzstichtag endende Geschäftsjahr (Berichtsjahr). Der Bilanzstichtag ist der Stichtag des Jahresabschlusses oder des konsolidierten Abschlusses.
 
 (2) Bedeutsame Vorgänge, die nach dem Bilanzstichtag eingetreten und dem Prüfer bekannt geworden sind, sind im Prüfungsbericht zu berücksichtigen und darzulegen.
 
-
-## § 26 – Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+# § 26 – Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
 (1) Die wesentlichen Änderungen der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen des Versicherungsunternehmens im Berichtszeitraum sind im Prüfungsbericht darzustellen, wobei insbesondere zu berichten ist über
 
@@ -331,20 +301,17 @@ Hat das Unternehmen das Bewertungsmodell unternehmensspezifisch angepasst, ist z
 
 (3) Der Prüfer hat über die wesentlichen Unternehmensbereiche, die auf andere Unternehmen ausgelagert sind, zu berichten.
 
-
-## § 27 – Auslandsgeschäft
+# § 27 – Auslandsgeschäft
 
 Der Prüfer hat über die wesentlichen ausländischen Aktivitäten im Wege des Dienstleistungsverkehrs oder über Niederlassungen zu berichten und die Art des betriebenen Versicherungsgeschäfts darzustellen. Dabei ist über Art und Umfang der Tätigkeit im Ausland getrennt nach Ländern innerhalb und außerhalb des Europäischen Wirtschaftsraums zu berichten sowie ihr Einfluss auf die Vermögens-, Finanz- und Ertragslage zu erläutern.
 
-
-## § 28 – Geschäftliche Entwicklung im Berichtsjahr
+# § 28 – Geschäftliche Entwicklung im Berichtsjahr
 
 (1) Die geschäftliche Entwicklung ist unter Gegenüberstellung der für sie kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres darzustellen und zu erläutern.
 
 (2) Im Rahmen der Berichterstattung nach § 26 Absatz 1 Nummer 10 und 11 ist über die Ordnungsmäßigkeit der Buchführung und über interne Kontrollmaßnahmen zu berichten. Beim Einsatz von elektronischen Datenverarbeitungsanlagen ist Stellung zu nehmen, ob eine Verfahrensdokumentation vorliegt und das angewandte Verfahren ausreichende Kontrollmaßnahmen enthält. Auf wesentliche Mängel im Rechnungswesen ist hinzuweisen.
 
-
-## § 29 – Beurteilung der Vermögenslage
+# § 29 – Beurteilung der Vermögenslage
 
 (1) Die Vermögenslage ist unter Angabe der angewandten Bilanzierungs- und Bewertungsmethoden so darzustellen, dass alle Umstände, die zu ihrer sicheren Beurteilung erforderlich sind, erläutert werden.
 
@@ -372,15 +339,13 @@ Der Prüfer hat über die wesentlichen ausländischen Aktivitäten im Wege des D
 
 (4) Der Prüfer hat über die Anwendung des § 341b Absatz 2 des Handelsgesetzbuchs zu berichten. Dabei ist die Abweichung zwischen beizulegendem Zeitwert und Börsen- und Marktpreis unter Angabe der Bewertungsmethode und den zugrunde liegenden Annahmen darzustellen. Die Fähigkeit des Unternehmens, die entsprechenden Positionen bis zum Zeitpunkt der erwarteten Wertaufholung zu halten, ist darzustellen und zu beurteilen. Einzugehen ist auch auf die vermiedenen Abschreibungen auf Grund nicht dauerhafter Wertminderungen im Anlagevermögen.
 
-
-## § 30 – Liquiditätslage
+# § 30 – Liquiditätslage
 
 (1) Die Art der Liquiditätsvorsorge ist darzustellen. Ergeben sich während der Prüfung Anhaltspunkte dafür, dass die Liquidität des Versicherungsunternehmens nach dem Bilanzstichtag gefährdet ist, so ist darauf einzugehen.
 
 (2) Über Maßnahmen zur Verbesserung der Liquiditätslage ist gegebenenfalls zu berichten. Hierzu gehören auch Angaben über Kreditaufnahmen und über den Kreditrahmen, der dem Unternehmen zur Verfügung steht.
 
-
-## § 31 – Darstellung der Ertragslage
+# § 31 – Darstellung der Ertragslage
 
 (1) Die Ertragslage ist unter Aufgliederung der ordentlichen und außerordentlichen Aufwendungen und Erträge so darzustellen, dass alle Umstände, die zu einer sicheren Beurteilung der Ertragslage erforderlich sind, erläutert werden. Die einzelnen Posten sind mit denjenigen des Vorjahres zu vergleichen. Besonderheiten bei den einzelnen Aufwands- und Ertragsposten sind zu erläutern. Für das nichtversicherungstechnische Geschäft ist unter Herausstellung der wesentlichen ergebnisbestimmenden Ertrags- und Aufwandsfaktoren zu berichten. Über den Einfluss der Tätigkeit im Ausland auf die Ertragslage ist gesondert zu berichten, sofern er wesentlich ist.
 
@@ -388,15 +353,13 @@ Der Prüfer hat über die wesentlichen ausländischen Aktivitäten im Wege des D
 
 (3) Über nicht bilanzwirksame Geschäfte und Verpflichtungen, die einen wesentlichen Einfluss auf die Ertragslage des Versicherungsunternehmens haben können, ist zu berichten.
 
-
-## § 32 – Anlage und Struktur der Kapitalanlagen
+# § 32 – Anlage und Struktur der Kapitalanlagen
 
 (1) Die Grundzüge der Bilanzierung und Bewertung der Kapitalanlagen sind darzustellen. Dabei ist insbesondere auf die Ausübung von Wahlrechten und Ermessensspielräumen sowie die Bildung von Bewertungseinheiten und deren Auswirkungen auf die Vermögens- und Ertragslage einzugehen.
 
 (2) Die Struktur der Kapitalanlagen ist unter Berücksichtigung des betriebenen Versicherungsgeschäfts darzustellen. Dabei ist insbesondere auf die Sicherheit der Kapitalanlagen, deren Fristigkeit sowie deren Sensitivität auf Kapitalmarktschwankungen einzugehen.
 
-
-## § 33 – Geschäfte mit besonderen Kapitalanlagen
+# § 33 – Geschäfte mit besonderen Kapitalanlagen
 
 (1) Bei Geschäften mit besonderen Kapitalanlagen ist deren Einfluss auf die Vermögens-, Finanz- und Ertragslage im Sinne des § 264 Absatz 2 des Handelsgesetzbuchs darzustellen. Als besondere Kapitalanlagen sind insbesondere aufzufassen
 
@@ -418,32 +381,27 @@ Der Prüfer hat über die wesentlichen ausländischen Aktivitäten im Wege des D
 
 (3) Das Kontrollsystem für den Abschluss, die Abwicklung und die Erfassung der Derivate, insbesondere das Buchungssystem sowie die Kompetenz- und Zeichnungsbefugnisse, sind darzustellen. Dabei ist insbesondere auf die Befolgung von Arbeitsanweisungen der Geschäftsleitung zu diesen Geschäften sowie die Berichterstattung gegenüber dem Vorstand und dem Aufsichtsrat einzugehen. Es ist zu erläutern, ob das Kontrollsystem jederzeit einen Überblick über diese Geschäfte erlaubt. Über die Einhaltung der Anforderungen an Mitarbeitergeschäfte in Derivaten ist zu berichten.
 
-
-## § 34 – Kostenverteilung
+# § 34 – Kostenverteilung
 
 Bei Unternehmensverbindungen ist die Kostenverteilung auf die einzelnen Unternehmen sowie innerhalb des zu prüfenden Versicherungsunternehmens auf die einzelnen Funktionsbereiche, die in § 43 Absatz 1 Satz 1 der Versicherungsunternehmens-Rechnungslegungsverordnung genannt sind, und auf die sonstigen Aufwendungen unter Aufteilung auf die einzelnen Versicherungszweige und Versicherungsarten darzustellen. Es ist zu beurteilen, ob die Kostenverteilung verursachungsgerecht ist.
 
-
-## § 35 – Berichterstattung
+# § 35 – Berichterstattung
 
 (1) Über Art und Umfang des aktiven und passiven Rückversicherungsgeschäfts ist anhand einer Darstellung der Rückversicherungspolitik unter Angabe der wesentlichen Verträge zu berichten. Dabei ist insbesondere einzugehen auf Änderungen wesentlicher Konditionen, wie zum Beispiel Prioritäten, Haftungssummen oder Provisionsregelungen.
 
 (2) Es ist sowohl auf die Ergebnisse der Rückversicherungsverträge insgesamt als auch auf die entsprechenden Ergebnisse aus dem aktiven und dem passiven Rückversicherungsgeschäft in den nach § 51 Absatz 4 der Versicherungsunternehmens-Rechnungslegungsverordnung genannten wesentlichen Versicherungszweiggruppen, Versicherungszweigen und -arten einzugehen. Zur Werthaltigkeit der Forderungen ist Stellung zu nehmen.
 
-
-## § 36 – Finanzrückversicherungsverträge
+# § 36 – Finanzrückversicherungsverträge
 
 (1) Über Finanzrückversicherungsverträge im Sinne des § 167 des Versicherungsaufsichtsgesetzes und über Verträge, die nach dem Risikotransfertest gemäß § 4 der Finanzrückversicherungsverordnung keinen hinreichenden Risikotransfer aufweisen, ist jeweils unter Nennung der wesentlichen Vertragsinhalte und der Vertragspartner zu berichten.
 
 (2) Zur Angemessenheit und Wirksamkeit des Verfahrens zur Durchführung des Risikotransfertests gemäß § 5 der Finanzrückversicherungsverordnung sowie der internen Verwaltungs- und Rechnungslegungsverfahren gemäß § 7 der Finanzrückversicherungsverordnung ist Stellung zu nehmen.
 
-
-## § 37 – Pensionskassen
+# § 37 – Pensionskassen
 
 Bei Pensionskassen hat der Prüfer über Konditionen, Umfang und Sicherheit von Anlagen bei Mitglieds- oder Trägerunternehmen zu berichten.
 
-
-## § 38 – Lebens- und Krankenversicherungsunternehmen
+# § 38 – Lebens- und Krankenversicherungsunternehmen
 
 Bei Lebens- und Krankenversicherungsunternehmen hat sich die Berichterstattung insbesondere zu erstrecken auf
 
@@ -459,8 +417,7 @@ Bei Lebens- und Krankenversicherungsunternehmen hat sich die Berichterstattung i
 
 6. das sonstige versicherungstechnische Ergebnis, das Ergebnis aus dem abgegebenen Versicherungsgeschäft sowie das nichtversicherungstechnische Ergebnis.
 
-
-## § 39 – Schaden- und Unfallversicherungsunternehmen
+# § 39 – Schaden- und Unfallversicherungsunternehmen
 
 (1) Bei Schaden- und Unfallversicherungsunternehmen ist über die Ertragslage aus dem versicherungstechnischen Geschäft nach Maßgabe der Absätze 2 und 3 zu berichten. Dabei ist auf wesentliche Ertrags- und Aufwandsfaktoren einzugehen.
 
@@ -482,8 +439,7 @@ Die Angaben sind jeweils nach dem Bruttoanteil, dem Nettoanteil und dem Anteil a
 
 (3) Zu den wesentlichen Versicherungszweiggruppen, Versicherungszweigen und Versicherungsarten entsprechend der Gliederung in § 51 Absatz 4 Nummer 1 Satz 3 der Versicherungsunternehmens-Rechnungslegungsverordnung ist gesondert nach Maßgabe des Absatzes 1 Satz 2 und des Absatzes 2 zu berichten.
 
-
-## § 40 – Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
+# § 40 – Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
 
 (1) Der Prüfer hat zu beurteilen
 
@@ -521,25 +477,21 @@ sicherzustellen.
 
 (5) Sofern die Erfüllung der in den Absätzen 1 bis 4 genannten Pflichten oder Prozesse durch das Unternehmen vertraglich auf eine dritte Person oder ein anderes Unternehmen übertragen worden ist, hat der Prüfer hierüber zu berichten.
 
-
-## § 41 – Berichterstattung über die Verwendung von Ratings
+# § 41 – Berichterstattung über die Verwendung von Ratings
 
 (1) Im Prüfungsbericht ist darauf einzugehen, wie und in welchem Umfang das Unternehmen oder die Gruppe eigene Kreditrisikobewertungen vornimmt, um zu vermeiden, dass das Unternehmen oder die Gruppe sich bei der Bewertung der Bonität eines Unternehmens oder eines Finanzinstruments automatisch auf Ratings stützt. Zur Angemessenheit dieser zusätzlichen Bewertungen ist dabei unter Berücksichtigung von Art, Umfang und Komplexität der Risiken, denen das Unternehmen oder die Gruppe ausgesetzt ist, Stellung zu nehmen.
 
 (2) Sofern das geprüfte Unternehmen oder die Gruppe als Emittent von strukturierten Finanzinstrumenten fungiert, sind die betreffenden Finanzinstrumente darzustellen. Es ist anzugeben, auf welche Weise die Anforderungen eingehalten worden sind, die sich ergeben aus den Artikeln 8b bis 8d der Verordnung (EG) Nr. 1060/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über Ratingagenturen (ABl. L 302 vom 17.11.2009, S. 1; L 145 vom 31.5.2011, S. 57), die zuletzt durch die Richtlinie 2014/51/EU (ABl. L 153 vom 22.5.2014, S. 1) geändert worden ist, und aus den technischen Regulierungsstandards.
 
-
-## § 42 – Anzeigewesen
+# § 42 – Anzeigewesen
 
 Bezogen auf die in § 35 Absatz 1 Satz 1 Nummer 1 des Versicherungsaufsichtsgesetzes genannten Anzeigepflichten ist die Organisation des Anzeigewesens zu beurteilen. Auf die Vollständigkeit und Richtigkeit der Anzeigen ist einzugehen. Festgestellte Verstöße sind aufzuführen.
 
-
-## § 43 – Anordnungen der Bundesanstalt nach dem Wertpapierhandelsgesetz
+# § 43 – Anordnungen der Bundesanstalt nach dem Wertpapierhandelsgesetz
 
 Der Prüfer hat darüber zu berichten, ob die Anordnungen der Bundesanstalt nach § 4 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes eingehalten werden.
 
-
-## § 43a – Zeitpunkt der Prüfung
+# § 43a – Zeitpunkt der Prüfung
 
 (1) Die Prüfung der Einhaltung der Pflichten nach dem Geldwäschegesetz sowie nach den §§ 53 bis 56 des Versicherungsaufsichtsgesetzes durch die verpflichteten Unternehmen im Sinne von § 52 des Versicherungsaufsichtsgesetzes findet einmal jährlich statt. Der Prüfer legt den Beginn der Prüfung und den Berichtszeitraum vorbehaltlich der nachfolgenden Bestimmungen nach pflichtgemäßem Ermessen fest.
 
@@ -549,8 +501,7 @@ Der Prüfer hat darüber zu berichten, ob die Anordnungen der Bundesanstalt nach
 
 (4) Die Einhaltung der Vorschriften des Geldwäschegesetzes sowie der §§ 53 bis 56 des Versicherungsaufsichtsgesetzes ist bei verpflichteten Unternehmen, deren versicherungstechnische Rückstellungen 400 Millionen Euro zum Bilanzstichtag nicht überschreiten, nur in zweijährigem Turnus, beginnend mit dem ersten vollen Geschäftsjahr der Erbringung von Versicherungsgeschäften, zu prüfen, es sei denn, die Risikolage des Unternehmens erfordert ein kürzeres Prüfintervall.
 
-
-## § 43b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+# § 43b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
 (1) Der Prüfer hat im Prüfungsbericht die Vorkehrungen darzustellen, die das verpflichtete Unternehmen im Berichtszeitraum zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung getroffen hat. Die Ausführungen des Prüfers müssen sich auf sämtliche im Erfassungsbogen nach der Anlage relevanten und einschlägigen Pflichten im Hinblick auf das Geschäftsmodell erstrecken.
 
@@ -596,8 +547,7 @@ c) deren Anzahl in Drittstaaten und von diesen Niederlassungen und sonstigen nac
 
 (10) Die Vorschrift zum Prüfintervall nach § 43a Absatz 4 bleibt durch die vorstehenden Absätze unberührt.
 
-
-## § 44 – Schlussbemerkung
+# § 44 – Schlussbemerkung
 
 (1) In der Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus ihr selbst ein Gesamturteil gewonnen werden kann über
 
@@ -615,22 +565,19 @@ Hinsichtlich der wirtschaftlichen Lage des Unternehmens ist insbesondere auf die
 
 (+++ § 44: Zur Anwendung vgl. § 52 Abs. 4 +++)
 
-
-## § 45 – Allgemeine Erläuterungen
+# § 45 – Allgemeine Erläuterungen
 
 (1) Im Besonderen Teil des Prüfungsberichts sind die einzelnen Posten der Bilanz und der Gewinn- und Verlust-Rechnung zu erläutern. Die Erläuterung hat auch die Entwicklung der wesentlichen Posten und Unterposten der Bilanz zu enthalten.
 
 (2) Die jeweiligen Bewertungsmethoden sind darzustellen. Auf stille Reserven in den Kapitalanlagen je Bilanzposten ist hinzuweisen, soweit die entsprechenden Zeitwerte im Anhang anzugeben sind.
 
-
-## § 46 – Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft
+# § 46 – Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft
 
 (1) Bei der Erläuterung der Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft an Versicherungsvermittler und Versicherungsnehmer ist unter Berücksichtigung der bis zum Berichtszeitpunkt gewonnenen Erkenntnisse zu berichten über die Einbringlichkeit der Forderungen und auch darüber, inwieweit diese bis zum Berichtszeitpunkt beglichen sind. Ferner sind die mit diesen Posten zusammenhängenden Abschreibungen und Wertberichtigungen sowie ihre Berechnungsmethode aufzuführen.
 
 (2) Zu den Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft an Versicherungsvermittler ist auch darüber zu berichten, ob die gestellten Sicherheiten für Provisionsvorschüsse und andere Forderungen ausreichend sind.
 
-
-## § 47 – Versicherungstechnische Rückstellungen
+# § 47 – Versicherungstechnische Rückstellungen
 
 (1) Die Vollständigkeit der versicherungstechnischen Rückstellungen ist zu bestätigen.
 
@@ -640,8 +587,7 @@ Hinsichtlich der wirtschaftlichen Lage des Unternehmens ist insbesondere auf die
 
 (4) Sofern der Prüfer zur Beurteilung der versicherungstechnischen Rückstellungen einen unabhängigen Sachverständigen heranzieht, hat er dessen Namen im Prüfungsbericht zu nennen.
 
-
-## § 48 – Rückstellung für noch nicht abgewickelte Versicherungsfälle
+# § 48 – Rückstellung für noch nicht abgewickelte Versicherungsfälle
 
 (1) Für das selbst abgeschlossene Versicherungsgeschäft in der Schaden- und Unfallversicherung sind die Methoden zur Ermittlung der Rückstellungen für die bis zum Bilanzstichtag eingetretenen und gemeldeten Schäden sowie die Methoden zur Ermittlung der Rückstellungen für Spätschäden, für wiederauflebende Schadenfälle, für Großschäden und für Schadenregulierungsaufwendungen darzustellen und zu beurteilen. Die Berichterstattung nach Satz 1 hat gesondert für die in § 51 Absatz 4 der Versicherungsunternehmens-Rechnungslegungsverordnung genannten Versicherungszweiggruppen, Versicherungszweige und -arten zu erfolgen. Hierbei ist aufzuzeigen, in welcher Weise die je Schaden festgestellten Rückstellungsbeträge ermittelt wurden. Bei Anwendung von Pauschalmethoden ist auch anzugeben, wie die Anzahl der zugrunde gelegten offenen Schadenfälle ermittelt wurde. Über Art und Umfang der Prüfung der Rückstellung sind aussagefähige Angaben insbesondere zu Ergebnissen einer etwaigen Schadenrevision des Unternehmens und zu anderen vom Prüfer zur Urteilsbildung getroffenen Maßnahmen zu machen. Zur Frage der ausreichenden Dotierung der zum Ende des Berichtsjahres ausgewiesenen Gesamtrückstellungen sowohl für die einzelnen Versicherungszweige als auch für das gesamte selbst abgeschlossene Versicherungsgeschäft ist unter Angabe des Beurteilungsmaßstabs Stellung zu nehmen. Bei der Beurteilung der Berechnungs- und Bewertungsmethoden der Rückstellungen für die in § 51 Absatz 4 der Versicherungsunternehmens-Rechnungslegungsverordnung genannten Versicherungszweige ist die Abwicklung der Ursprungsschadenrückstellung und gegebenenfalls der Rückstellungen nach Zeichnungsjahren, insbesondere im Hinblick auf deren Angemessenheit, zu berücksichtigen.
 
@@ -653,25 +599,21 @@ Hinsichtlich der wirtschaftlichen Lage des Unternehmens ist insbesondere auf die
 
 (3) Für das in Rückdeckung übernommene Versicherungsgeschäft sind die Methoden der Ermittlung der Rückstellung für alle Versicherungszweige gemäß § 51 Absatz 4 der Versicherungsunternehmens-Rechnungslegungsverordnung darzustellen und zu beurteilen. Wurde von den Aufgaben des Vorversicherers abgewichen, so ist hierzu Stellung zu nehmen. Absatz 1 Satz 6 gilt entsprechend.
 
-
-## § 49 – Schwankungsrückstellung und ähnliche Rückstellungen
+# § 49 – Schwankungsrückstellung und ähnliche Rückstellungen
 
 Es ist darüber zu berichten, ob die in § 341h des Handelsgesetzbuchs, in den §§ 29 und 30 sowie in der Anlage zu § 29 der Versicherungsunternehmens-Rechnungslegungsverordnung ergangenen Bestimmungen über Bildung, Höhe, Zuführung, Entnahme und Auflösung beachtet worden sind. Ferner ist anzugeben, in welchem Umfang und auf welche Art eine Nachprüfung erfolgt ist.
 
-
-## § 50 – Einzelne Posten der Gewinn- und Verlust-Rechnung
+# § 50 – Einzelne Posten der Gewinn- und Verlust-Rechnung
 
 Über die bei den sonstigen Aufwendungen und Erträgen ausgewiesenen Aufwendungen und Erträge für erbrachte Dienstleistungen ist gesondert zu berichten.
 
-
-## § 51 – In die Konsolidierung einzubeziehende Unternehmen
+# § 51 – In die Konsolidierung einzubeziehende Unternehmen
 
 (1) Im Bericht über die Prüfung des Konzernabschlusses und Konzernlageberichts sind die in die Konsolidierung einbezogenen Unternehmen unter Angabe der Unternehmensart und des Vorliegens einer Einbeziehungspflicht darzustellen.
 
 (2) Der Prüfer hat zu bestätigen, dass alle in die Konsolidierung einzubeziehenden Unternehmen berücksichtigt worden sind.
 
-
-## § 52 – Mindestanforderungen an den Konzernprüfungsbericht
+# § 52 – Mindestanforderungen an den Konzernprüfungsbericht
 
 (1) Die wirtschaftliche Lage des Konzerns ist nach Maßgabe der §§ 28 bis 31 darzustellen und zu erläutern. Dabei ist insbesondere auf die Konzeption der Steuerung des Konzerns unter Würdigung der Konzernstruktur sowie der Segmentierung in Geschäftsbereiche einzugehen.
 
@@ -681,25 +623,21 @@ Es ist darüber zu berichten, ob die in § 341h des Handelsgesetzbuchs, in den �
 
 (4) § 24 Absatz 2 und § 44 sind entsprechend anzuwenden.
 
-
-## § 53 – Ort der Berichterstattung
+# § 53 – Ort der Berichterstattung
 
 Die Berichterstattung nach diesem Abschnitt kann auch im Prüfungsbericht für den Einzelabschluss des Mutterunternehmens erfolgen.
 
-
-## § 54 – Übergangsvorschrift
+# § 54 – Übergangsvorschrift
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
 (2) Für die Geschäftsjahre, die vor dem 1. Januar 2016 begonnen haben, ist die Prüfungsberichteverordnung vom 3. Juni 1998 (BGBl. I S. 1209), die durch Artikel 2 Nummer 1 der Verordnung vom 16. Dezember 2015 (BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. März 2016 geltenden Fassung weiter anzuwenden.
 
-
-## § 55 – Inkrafttreten
+# § 55 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 43b Absatz 9)Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+# Anlage – (zu § 43b Absatz 9)Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
 Unternehmen:
 
@@ -709,8 +647,7 @@ Prüfungsstichtag:
 
 Prüfungsleiter vor Ort:
 
-A.  
-Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen unternehmenseigenen Risikoanalyse (§ 43b Abs. 8 PrüfV):
+A. Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen unternehmenseigenen Risikoanalyse (§ 43b Abs. 8 PrüfV):
 
 1. Auflistung sämtlicher angebotener Hochrisikoprodukte (laut Risikoanalyse):
 
@@ -720,8 +657,7 @@ Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen unte
 
 2\.
 
-B.  
-Klassifizierung von Prüfungsfeststellungen
+B. Klassifizierung von Prüfungsfeststellungen
 
 Für die Klassifizierung von Prüfungsfeststellungen ist der Prüfungsleiter vor Ort verantwortlich.
 

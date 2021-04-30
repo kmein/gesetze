@@ -1,20 +1,15 @@
-# [WoStichPrG] Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiet des Wohnungswesens  (Wohnungsstichprobengesetz 1978)
-
-Ausfertigungsdatum: 14.12.1977
-
+% Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiet des Wohnungswesens  (Wohnungsstichprobengesetz 1978)
+% Ausfertigungsdatum: 14.12.1977
  
-
-## § 1
+# § 1
 
 Im Geltungsbereich dieses Gesetzes wird auf repräsentativer Grundlage eine Bundesstatistik über Gebäude, Wohnungen, Wohnparteien und deren Wohnumgebung (Wohnungsstichprobe) nach den Verhältnissen im April 1978 durchgeführt.
 
-
-## § 2
+# § 2
 
 Die Wohnungsstichprobe wird mit einem Auswahlsatz von 1 vom Hundert der Gebäude mit Wohnraum durchgeführt.
 
-
-## § 3
+# § 3
 
 In der Wohnungsstichprobe sind zu erfassen:
 
@@ -46,15 +41,13 @@ d) Beurteilung der Wohnumgebung hinsichtlich der in Nummer 2 Buchstabe b genannt
 
 e) bei Untermietern Fläche und Einrichtung der gemieteten Räume sowie die Höhe der Miete.
 
-
-## § 4
+# § 4
 
 (1) Auskunftspflichtig sind alle volljährigen oder einen eigenen Haushalt führenden minderjährigen Personen, die im April 1978 bei der Erhebung nach dem Gesetz über die Durchführung einer Repräsentativstatistik der Bevölkerung und des Erwerbslebens vom 15. Juli 1975 (BGBl. I S. 1909) befragt werden, und zwar auch für minderjährige oder behinderte Haushaltsmitglieder; für Personen in Anstalten, Wohnheimen und ähnlichen Einrichtungen auch die Leiter dieser Einrichtungen. Auskunftspflichtig sind ferner die Wohnungsinhaber, die Eigentümer oder Verwalter von Gebäuden oder deren Vertreter und die Gemeinden.
 
 (2) Die Auskünfte werden durch persönliche oder schriftliche Befragung eingeholt.
 
-
-## § 5
+# § 5
 
 (1) Die Weiterleitung von Einzelangaben nach § 12 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke in der im Bundesgesetzblatt Teil III, Gliederungsnummer 29-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 52 des Einführungsgesetzes zur Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341), an die fachlich zuständigen obersten Bundes- und Landesbehörden und die von ihnen bestimmten Stellen und Personen ist ohne Nennung von Namen und Anschrift des Auskunftspflichtigen zugelassen.
 
@@ -66,12 +59,10 @@ e) bei Untermietern Fläche und Einrichtung der gemieteten Räume sowie die Höh
 
 § 5 Abs. 1, 3 u. 4 Kursivdruck: StatG aufgeh. durch § 17 Abs. 2 G v. 14.3.1980 I 289, vgl. § 11 BStatG 29-14, aufgeh. durch § 28 Nr. 1 G v. 22.1.1987 I 462; vgl. jetzt BStatG 1987 29-22
 
-
-## § 6
+# § 6
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 7
+# § 7
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

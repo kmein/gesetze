@@ -1,10 +1,7 @@
-# [GPatG] Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften  (Gemeinschaftspatentgesetz - GPatG)
-
-Ausfertigungsdatum: 26.07.1979
-
+% Gesetz über das Gemeinschaftspatent und zur Änderung patentrechtlicher Vorschriften  (Gemeinschaftspatentgesetz - GPatG)
+% Ausfertigungsdatum: 26.07.1979
  
-
-## Art 1 – Anwendung und Änderung von Artikel II des Gesetzes über internationale Patentübereinkommen
+# Art 1 – Anwendung und Änderung von Artikel II des Gesetzes über internationale Patentübereinkommen
 
 (1)
 
@@ -16,31 +13,25 @@ Ausfertigungsdatum: 26.07.1979
 
 (5)
 
+# Art 2 bis 7 – ----
 
-## Art 2 bis 7 – ----
-
-
-## Art 8
+# Art 8
 
 \-
 
-
-## Art 9
-
-\-
-
-
-## Art 10
+# Art 9
 
 \-
 
-
-## Art 11
+# Art 10
 
 \-
 
+# Art 11
 
-## Art 12 – Anmeldungen vor Inkrafttreten des Gesetzes
+\-
+
+# Art 12 – Anmeldungen vor Inkrafttreten des Gesetzes
 
 (1) Die §§ 6 bis 7, 10, 24 bis 24c, 26 bis 26e, 28 bis 28c Abs. 1 und die §§ 36a und 47 bis 49 des Patentgesetzes sowie die Nummern 111 100 bis 111 202 und 113 300 bis 113 500 des Gebührenverzeichnisses der Anlage zu § 1 des Gesetzes über die Gebühren des Patentamts und des Patentgerichts sind in der Fassung dieses Gesetzes nicht auf die bereits vor Inkrafttreten dieses Gesetzes beim Deutschen Patentamt eingereichten Anmeldungen und auf die darauf erteilten Patente oder eingetragenen Gebrauchsmuster anzuwenden; insoweit verbleibt es bei den bisher geltenden Vorschriften.
 
@@ -54,15 +45,13 @@ Ausfertigungsdatum: 26.07.1979
 
 Art. 12 Abs. 3 Kursivdruck: Jetzt § 17 PatG idF d. Bek. v. 16.12.1980, 1981 I 1
 
-
-## Art 13 – Anhängige gerichtliche Verfahren
+# Art 13 – Anhängige gerichtliche Verfahren
 
 (1) § 110 Abs. 4 Satz 1 des Patentgesetzes ist in der Fassung dieses Gesetzes nicht auf gerichtliche Verfahren anzuwenden, die bei Inkrafttreten dieses Gesetzes beim Bundespatentgericht anhängig sind; insoweit verbleibt es bei der bisher geltenden Vorschrift.
 
 (2) § 121 des Patentgesetzes ist in der Fassung dieses Gesetzes nicht auf gerichtliche Verfahren anzuwenden, die bei Inkrafttreten dieses Gesetzes beim Bundesgerichtshof anhängig sind; insoweit verbleibt es bei der bisher geltenden Vorschrift.
 
-
-## Art 14 – Gebühr bei Prüfungsanträgen
+# Art 14 – Gebühr bei Prüfungsanträgen
 
 § 4 des Gesetzes über die Gebühren des Patentamts und des Patentgerichts vom 18. August 1976 (BGBl. I S. 2188), geändert durch Artikel 2 des Gesetzes vom 29. Januar 1979 (BGBl. I S. 125), ist auf Anträge gemäß § 28b des Patentgesetzes zu Patentanmeldungen, die vor dem 1. November 1976 eingereicht worden sind, wie folgt anzuwenden:
 
@@ -70,18 +59,15 @@ Art. 12 Abs. 3 Kursivdruck: Jetzt § 17 PatG idF d. Bek. v. 16.12.1980, 1981 I 1
 
 2. Im übrigen sind die vom 1. November 1976 an geltenden Gebührensätze anzuwenden.
 
-
-## Art 15 – Neufassung des Patentgesetzes
+# Art 15 – Neufassung des Patentgesetzes
 
 Der Bundesminister der Justiz kann den Wortlaut des Patentgesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung mit der sich daraus ergebenden Bezeichnung der Paragraphen und Absätze im Bundesgesetzblatt bekanntmachen.
 
-
-## Art 16 – Berlin-Klausel
+# Art 16 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## Art 17 – Inkrafttreten
+# Art 17 – Inkrafttreten
 
 (1)
 

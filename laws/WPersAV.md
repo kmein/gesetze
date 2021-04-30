@@ -1,20 +1,15 @@
-# [WPersAV] Verordnung über die Führung der Personalakten der ungedienten Wehrpflichtigen  (Personalaktenverordnung Wehrpflichtige - WPersAV)
-
-Ausfertigungsdatum: 15.10.1998
-
+% Verordnung über die Führung der Personalakten der ungedienten Wehrpflichtigen  (Personalaktenverordnung Wehrpflichtige - WPersAV)
+% Ausfertigungsdatum: 15.10.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 27 und 50 Abs. 1 Nr. 7 des Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom 15. Dezember 1995 (BGBl. I S. 1756) verordnet die Bundesregierung:
 
-
-## § 1
+# § 1
 
 Die Verordnung regelt Einzelheiten zum Personalaktenrecht der ungedienten Wehrpflichtigen nach § 25 des Wehrpflichtgesetzes. Als Wehrpflichtiger im Sinne dieser Verordnung gelten auch die vor Beginn der Wehrpflicht Erfaßten.
 
-
-## § 2
+# § 2
 
 (1) Die Personalakte ist beim Karrierecenter der Bundeswehr zu führen; sie ist vertraulich zu behandeln und vor unbefugter Einsichtnahme zu schützen. Sie kann nach sachlichen Gesichtspunkten in Grundakte und Teilakten gegliedert werden.
 
@@ -22,8 +17,7 @@ Die Verordnung regelt Einzelheiten zum Personalaktenrecht der ungedienten Wehrpf
 
 (3) In die Grundakte ist ein vollständiges Verzeichnis aller Teil- und Nebenakten aufzunehmen.
 
-
-## § 3
+# § 3
 
 (1) Die Gesundheitsakte dient dienen der personenbezogenen Dokumentation ärztlicher Aufzeichnungen aus Untersuchungen, Behandlungen und Begutachtungen. Sie ist Bestandteil der Personalakte und in einem als Arztsache gekennzeichneten verschlossenen Umschlag aufzubewahren.
 
@@ -33,8 +27,7 @@ Die Verordnung regelt Einzelheiten zum Personalaktenrecht der ungedienten Wehrpf
 
 (4) Für den Leiter des Psychologischen Dienstes des Karrierecenters der Bundeswehr und die Fachkräfte im Psychologischen Dienst sowie für deren Fachvorgesetzte gelten die Absätze 1 bis 3 hinsichtlich des Umgangs mit psychologischen Unterlagen der Eignungsuntersuchung und Eignungsfeststellung entsprechend.
 
-
-## § 4
+# § 4
 
 (1) Die Personalakte des Wehrpflichtigen ist so lange aufzubewahren, wie dies zur Erfüllung der Wehrpflicht erforderlich ist, längstens bis zum Ablauf des Jahres, in dem der Wehrpflichtige das 45. Lebensjahr vollendet. Im Falle der Wehrdienstunfähigkeit, des Ausschlusses oder der Befreiung vom Wehrdienst ist die Personalakte längstens bis zum Ablauf von fünf Jahren nach Eintritt der Wehrdienstausnahme aufzubewahren. Die Aufbewahrungsfrist endet ferner mit dem Tod des Wehrpflichtigen.
 
@@ -46,8 +39,7 @@ Die Verordnung regelt Einzelheiten zum Personalaktenrecht der ungedienten Wehrpf
 
 (5) Auskünfte aus dem Bundeszentralregister sind zu vernichten, wenn der mit der Einholung beabsichtigte Zweck erfüllt ist.
 
-
-## § 5
+# § 5
 
 (1) Die Personalaktendaten dürfen auch in automatisierten Dateien nur für Zwecke des Wehrersatzwesens sowie der Personalführung oder der Personalbearbeitung verarbeitet und genutzt werden. Ihre Übermittlung ist, soweit keine andere Rechtsvorschrift dies gestattet, nur nach Maßgabe des § 25 des Wehrpflichtgesetzes und nach dieser Verordnung zulässig.
 
@@ -57,24 +49,20 @@ Die Verordnung regelt Einzelheiten zum Personalaktenrecht der ungedienten Wehrpf
 
 (4) Bei erstmaliger Speicherung ist dem Wehrpflichtigen die Art der über ihn gespeicherten Daten mitzuteilen. Bei wesentlichen Änderungen ist er in derselben Weise zu benachrichtigen, wenn er nicht auf andere Weise Kenntnis von der Speicherung erlangt hat.
 
-
-## § 6
+# § 6
 
 (1) Einsicht in die Personalakte wird grundsätzlich beim Karrierecenter der Bundeswehr gewährt. Auszüge, Abschriften, Ablichtungen oder Ausdrucke dürfen gefertigt werden, soweit dienstliche Gründe nicht entgegenstehen. Hinderungsgrund kann insbesondere ein besonderes Vertraulichkeitsbedürfnis hinsichtlich einzelner dienstlicher Vorgänge oder darin enthaltener Daten Dritter sein. Dem Wehrpflichtigen ist auf Verlangen ein Ausdruck der zu seiner Person automatisiert gespeicherten Personalaktendaten zu überlassen.
 
 (2) Auskünfte aus der Personalakte dürfen an Dritte, soweit nicht besondere Rechtsvorschriften einen entsprechenden Anspruch gewähren, nur unter den Voraussetzungen des § 25 Abs. 3 des Wehrpflichtgesetzes erteilt werden. Einsichtnahme in die Gesundheitsakte oder Auskunft aus der Gesundheitsakte darf Bevollmächtigten nur auf Grund ausdrücklicher Vollmacht des Wehrpflichtigen gewährt werden.
 
-
-## § 7
+# § 7
 
 Personenbezogene medizinische Daten, die im Rahmen der Untersuchungen nach dem Wehrpflichtgesetz in zivilen medizinischen Einrichtungen oder von zivilen Ärzten erhoben werden, dürfen den Zahlung leistenden Stellen offenbart werden, soweit dies zur Kostenabrechnung erforderlich ist.
 
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

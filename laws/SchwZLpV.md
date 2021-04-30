@@ -1,39 +1,31 @@
-# [SchwZLpV] Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schweinen
-
-Ausfertigungsdatum: 16.05.1991
-
+% Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schweinen
+% Ausfertigungsdatum: 16.05.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 bis 3 des Tierzuchtgesetzes vom 22. Dezember 1989 (BGBl. I S. 2493) verordnet der Bundesminister für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1
+# § 1
 
 (1) Zur Zuchtwertfeststellung bei einem Zuchtschwein werden die Zuchtwertteile Fleischleistung und Zuchtleistung in Leistungsprüfungen nach Anlage 1 festgestellt, bei einem männlichen Zuchtschwein auch die äußere Erscheinung beurteilt. Der Zuchtwertteil Fleischleistung umfaßt mindestens die Leistungsmerkmale Gewichtszunahme, Futteraufwand, Fleischanteil und Fleischbeschaffenheit, der Zuchtwertteil Zuchtleistung mindestens das Leistungsmerkmal Anzahl der aufgezogenen Ferkel. Zusätzlich kann die Vitalität berücksichtigt werden.
 
 (2) Der Zuchtwert wird nach allgemein anerkannten und wissenschaftlich gesicherten Methoden festgestellt. Dabei werden verwandtschaftliche Beziehungen berücksichtigt und Leistungsunterschiede, die nicht genetisch bedingt sind, soweit wie möglich ausgeschaltet. Werden die Zuchtwertteile Fleischleistung und Zuchtleistung in einem Index zusammengefaßt, so werden sie nach ihrer sich aus dem Zuchtprogramm ergebenden Bedeutung gewichtet; dabei wird der Index auf einen Mittelwert von 100 und eine Standardabweichung von 20 standardisiert.
 
-
-## § 2
+# § 2
 
 (1) Abweichend von § 1 werden für Zuchtschweine, die in einem Kreuzungszuchtprogramm als Eltern von Endprodukten verwendet werden sollen, die Fleischleistung und Zuchtleistung einheitlich für alle Zuchtschweine des Kreuzungszuchtprogramms nach Anlage 2 festgestellt, und zwar die Fleischleistung durch Prüfung einer Stichprobe der Endprodukte und die Zuchtleistung durch Prüfung einer Stichprobe der Mütter von Endprodukten des Kreuzungszuchtprogramms.
 
 (2) Der Stichprobentest für eine Herkunft muß spätestens nach drei Jahren wiederholt werden. Die zuständige Behörde kann diese Frist verlängern, soweit der Zweck des Tierzuchtgesetzes dadurch nicht beeinträchtigt wird.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)  Grundsätze für die Durchführung von Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
+# Anlage 1 – (zu § 1 Abs. 1)  Grundsätze für die Durchführung von Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1131
 
@@ -87,8 +79,7 @@ Die Merkmale der äußeren Erscheinung werden nach einem Notensystem beurteilt.
 5  
 Das Prüfungsverfahren und die in der Prüfung erhobenen Leistungsmerkmale richten sich nach allgemein anerkannten und wissenschaftlich gesicherten Methoden.
 
-
-## Anlage 2 – (zu § 2 Abs. 1)  Grundsätze für die Durchführung und Auswertung von Stichprobentests bei Kreuzungsherkünften
+# Anlage 2 – (zu § 2 Abs. 1)  Grundsätze für die Durchführung und Auswertung von Stichprobentests bei Kreuzungsherkünften
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1131 - 1132;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

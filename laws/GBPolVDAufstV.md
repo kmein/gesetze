@@ -1,30 +1,23 @@
-# [GBPolVDAufstV] Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei  (GBPolVDAufstV)
-
-Ausfertigungsdatum: 15.03.2017
-
+% Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei  (GBPolVDAufstV)
+% Ausfertigungsdatum: 15.03.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Absatz 2 Satz 2 des Bundespolizeibeamtengesetzes vom 3. Juni 1976 (BGBl. I S. 1357), der durch Artikel 4 des Gesetzes vom 19. Oktober 2016 (BGBl. I S. 2362) eingefügt worden ist, verordnet das Bundesministerium des Innern:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt die Auswahl, die Ausbildung und das Prüfungsgespräch für den verkürzten Aufstieg von Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren Polizeivollzugsdienstes in den gehobenen Polizeivollzugsdienst in der Bundespolizei nach den §§ 16 und 16a der Bundespolizei-Laufbahnverordnung.
 
-
-## § 2 – Ziele der Ausbildung
+# § 2 – Ziele der Ausbildung
 
 (1) Die Ausbildung vermittelt den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das erforderliche Fach- und Methodenwissen, das sie befähigt, Aufgaben im Schnittstellenbereich der Laufbahn des mittleren und der des gehobenen Polizeivollzugsdienstes wahrzunehmen. Aufgaben im Schnittstellenbereich sind Aufgaben, die in der Regel keine Führungs- und Fortbilderbefähigung erfordern. Zu ihnen gehören zum Beispiel Aufgaben als Kontroll- und Streifenbeamtin oder Kontroll- und Streifenbeamter, als Ermittlungsbeamtin oder Ermittlungsbeamter oder als Sachbearbeiterin oder Sachbearbeiter.
 
 (2) Aufbauend auf den Fähigkeiten des mittleren Polizeivollzugsdienstes und auf vorhandenem Laufbahnwissen werden die berufsbezogenen Kenntnisse und Fertigkeiten in den Schwerpunkten analytische Fähigkeiten, ganzheitliches Planen und verantwortliches Handeln sowie selbstständiges Lernen vertieft. Die persönliche und soziale Kompetenz wird ausgebaut.
 
-
-## § 3 – Auswahlverfahren
+# § 3 – Auswahlverfahren
 
 (1) Über die Zulassung zum verkürzten Aufstieg entscheidet das Bundespolizeipräsidium auf Grundlage der Ergebnisse eines Auswahlverfahrens. Das Auswahlverfahren wird von der Bundespolizeiakademie durchgeführt.
 
@@ -44,8 +37,7 @@ Die Mitglieder der Auswahlkommission werden vom Bundespolizeipräsidium auf Vors
 
 (6) Die Auswahlkommission ist beschlussfähig, wenn alle Mitglieder anwesend sind. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig.
 
-
-## § 4 – Dauer und Gliederung
+# § 4 – Dauer und Gliederung
 
 (1) Die Ausbildung dauert sechs Monate. Sie umfasst eine theoretische und eine praktische Ausbildung.
 
@@ -53,8 +45,7 @@ Die Mitglieder der Auswahlkommission werden vom Bundespolizeipräsidium auf Vors
 
 (3) Während der Ausbildung kann kein Erholungsurlaub in Anspruch genommen werden.
 
-
-## § 5 – Ausbildungsgebiete
+# § 5 – Ausbildungsgebiete
 
 (1) Die Ausbildungsinhalte werden in drei Ausbildungsgebieten vermittelt.
 
@@ -80,8 +71,7 @@ Die Mitglieder der Auswahlkommission werden vom Bundespolizeipräsidium auf Vors
 
 3. Psychologie.
 
-
-## § 6 – Dienstaufsicht und Durchführung
+# § 6 – Dienstaufsicht und Durchführung
 
 (1) Die Bundespolizeiakademie führt die Dienstaufsicht über die an der Ausbildung teilnehmenden Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten während der Ausbildung.
 
@@ -89,8 +79,7 @@ Die Mitglieder der Auswahlkommission werden vom Bundespolizeipräsidium auf Vors
 
 (3) Die praktische Ausbildung wird in den Dienststellen der Bundespolizei durchgeführt.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 In einem Ausbildungsplan regelt die Bundespolizeiakademie
 
@@ -98,13 +87,11 @@ In einem Ausbildungsplan regelt die Bundespolizeiakademie
 
 2. Einzelheiten zur Organisation und Durchführung der Ausbildung.
 
-
-## § 8 – Zuständigkeit
+# § 8 – Zuständigkeit
 
 Für die Organisation und Durchführung des Prüfungsgespräches ist das Prüfungsamt der Bundespolizeiakademie zuständig.
 
-
-## § 9 – Prüfungskommission
+# § 9 – Prüfungskommission
 
 (1) Das Prüfungsamt der Bundespolizeiakademie richtet für die Durchführung des Prüfungsgespräches eine Prüfungskommission ein. Bei Bedarf können mehrere Prüfungskommissionen eingerichtet werden. In diesem Fall stellt das Prüfungsamt sicher, dass alle Prüfungskommissionen gleiche Bewertungsmaßstäbe anlegen.
 
@@ -120,8 +107,7 @@ Mindestens ein Mitglied der Prüfungskommission soll Lehrende oder Lehrender an 
 
 (4) Die Prüfungskommission ist beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig.
 
-
-## § 10 – Inhalt und Durchführung
+# § 10 – Inhalt und Durchführung
 
 (1) Gegenstand des Prüfungsgespräches sind die in § 5 aufgeführten Ausbildungsgebiete. Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer sollen nachweisen, dass sie die Inhalte der Ausbildung beherrschen und zueinander in Beziehung setzen können und ihre Kenntnisse und Fähigkeiten den Anforderungen des gehobenen Polizeivollzugsdienstes mit begrenzter Ämterreichweite genügen.
 
@@ -133,8 +119,7 @@ Mindestens ein Mitglied der Prüfungskommission soll Lehrende oder Lehrender an 
 
 (5) Das Prüfungsgespräch ist nicht öffentlich. Je eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern, für Bau und Heimat und des Bundespolizeipräsidiums, die Leiterin oder der Leiter der Bundespolizeiakademie sowie Angehörige des Prüfungsamtes können an ihm teilnehmen. Anderen Personen kann das Prüfungsamt die Anwesenheit beim Prüfungsgespräch allgemein oder im Einzelfall gestatten. Diese anderen Personen dürfen während des Prüfungsgespräches keinerlei Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder, Angehörige des Prüfungsamtes sowie die Protokollführerin oder der Protokollführer anwesend sein.
 
-
-## § 11 – Bewertung
+# § 11 – Bewertung
 
 (1) Die Leistungen im Prüfungsgespräch werden wie folgt bewertet:
 
@@ -242,20 +227,17 @@ Bei der Bewertung werden neben der fachlichen Leistung auch die Klarheit der Dar
 
 (2) Die oder der Vorsitzende der Prüfungskommission teilt den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte nach Abschluss des Prüfungsgespräches mit und erläutert das Prüfungsergebnis mündlich.
 
-
-## § 12 – Bestehen
+# § 12 – Bestehen
 
 Das Prüfungsgespräch hat bestanden, wer mindestens fünf Rangpunkte erreicht hat.
 
-
-## § 13 – Fernbleiben und Rücktritt
+# § 13 – Fernbleiben und Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt vom Prüfungsgespräch ohne Genehmigung des Prüfungsamtes gilt das Prüfungsgespräch als nicht bestanden.
 
 (2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt das Prüfungsgespräch als nicht begonnen. Die Genehmigung darf nur erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung kann die Genehmigung in der Regel nur erteilt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird.
 
-
-## § 14 – Täuschung und Ordnungsverstoß
+# § 14 – Täuschung und Ordnungsverstoß
 
 (1) Prüfungsteilnehmerinnen oder Prüfungsteilnehmern, die beim Prüfungsgespräch täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung des Prüfungsgespräches gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme am Prüfungsgespräch ausgeschlossen werden.
 
@@ -271,8 +253,7 @@ Das Prüfungsgespräch hat bestanden, wer mindestens fünf Rangpunkte erreicht h
 
 (5) Die oder der Betroffene ist vor einer Entscheidung nach Absatz 3 oder 4 anzuhören.
 
-
-## § 15 – Wiederholung
+# § 15 – Wiederholung
 
 (1) Prüfungsteilnehmerinnen und Prüfungsteilnehmer, die das Prüfungsgespräch nicht bestanden haben, können es einmal wiederholen. In Ausnahmefällen kann das Bundespolizeipräsidium im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat auf Antrag eine zweite Wiederholung zulassen.
 
@@ -284,8 +265,7 @@ Das Prüfungsgespräch hat bestanden, wer mindestens fünf Rangpunkte erreicht h
 
 (5) Ein bestandenes Prüfungsgespräch darf nicht wiederholt werden.
 
-
-## § 16 – Abschlusszeugnis und Bescheid über das nicht bestandene Prüfungsgespräch
+# § 16 – Abschlusszeugnis und Bescheid über das nicht bestandene Prüfungsgespräch
 
 (1) Wer das Prüfungsgespräch bestanden hat, erhält ein Abschlusszeugnis. Das Abschlusszeugnis enthält mindestens die Rangpunktzahl des Prüfungsgespräches und die Note.
 
@@ -295,8 +275,7 @@ Das Prüfungsgespräch hat bestanden, wer mindestens fünf Rangpunkte erreicht h
 
 (4) Wird das Prüfungsgespräch nachträglich für nicht bestanden erklärt, ist das Abschlusszeugnis zurückzugeben.
 
-
-## § 17 – Prüfungsakten und Einsichtnahme
+# § 17 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jeder Prüfungsteilnehmerin und jedem Prüfungsteilnehmer führt das Prüfungsamt eine Prüfungsakte.
 
@@ -310,12 +289,10 @@ Das Prüfungsgespräch hat bestanden, wer mindestens fünf Rangpunkte erreicht h
 
 (4) Auf Antrag können die Prüfungsteilnehmerinnen und Prüfungsteilnehmer nach Abschluss des Prüfungsgespräches beim Prüfungsamt Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme wird in den Prüfungsakten vermerkt.
 
-
-## § 18 – Zuständigkeit für die Entscheidung über Widersprüche
+# § 18 – Zuständigkeit für die Entscheidung über Widersprüche
 
 Über Widersprüche gegen Entscheidungen im Prüfungsverfahren, die auf Grund dieser Verordnung getroffen werden, entscheidet das Prüfungsamt der Bundespolizeiakademie.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

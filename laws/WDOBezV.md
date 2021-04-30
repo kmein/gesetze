@@ -1,15 +1,11 @@
-# [WDOBezV] Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung  (WDO-Bezügeverordnung - WDOBezV)
-
-Ausfertigungsdatum: 17.08.2020
-
+% Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung  (WDO-Bezügeverordnung - WDOBezV)
+% Ausfertigungsdatum: 17.08.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 146 der Wehrdisziplinarordnung, der durch Artikel 15 Nummer 5 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147) geändert worden ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat:
 
-
-## § 1 – Dienstbezüge und Wehrsold
+# § 1 – Dienstbezüge und Wehrsold
 
 (1) Dienstbezüge im Sinne der §§ 24, 59 und 126 der Wehrdisziplinarordnung sind
 
@@ -63,8 +59,7 @@ c) der Auslandszuschlag nach § 19 des Unterhaltssicherungsgesetzes.
 
 4. der Auslandsverwendungszuschlag nach § 12 des Wehrsoldgesetzes.
 
-
-## § 2 – Übergangsvorschrift
+# § 2 – Übergangsvorschrift
 
 Die WDO-Bezügeverordnung vom 7. Februar 2016 (BGBl. I S. 178) ist weiter anzuwenden, wenn vor dem 1. September 2020
 
@@ -74,7 +69,6 @@ Die WDO-Bezügeverordnung vom 7. Februar 2016 (BGBl. I S. 178) ist weiter anzuwe
 
 3. ein Teil der Dienstbezüge auf Grund einer Anordnung der Einleitungsbehörde erstmals einbehalten worden ist.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die WDO-Bezügeverordnung vom 7. Februar 2016 (BGBl. I S. 178) außer Kraft.

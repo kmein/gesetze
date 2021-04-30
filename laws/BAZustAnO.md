@@ -1,10 +1,7 @@
-# [BAZustAnO] Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts  (BAZustAnO)
-
-Ausfertigungsdatum: 28.12.2017
-
+% Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts  (BAZustAnO)
+% Ausfertigungsdatum: 28.12.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach
 
@@ -43,8 +40,7 @@ in Verbindung mit
 
 ordnet der Vorstand der Bundesagentur für Arbeit an:
 
-
-## I. – Übertragung von Befugnissen für Beamtinnen und Beamte der Bundesagentur für Arbeit
+# I. – Übertragung von Befugnissen für Beamtinnen und Beamte der Bundesagentur für Arbeit
 
 1. Ernennung, Entlassung und Versetzung in den Ruhestand
 
@@ -198,12 +194,10 @@ Nach § 84 Satz 1 und 2 des Bundesdisziplinargesetzes wird das Recht, gegenüber
 
 Die Zuständigkeiten gelten auch für die Beamtinnen und Beamten der Agenturen für Arbeit, denen nach § 44g Absatz 1 des Zweiten Buches Sozialgesetzbuch eine Tätigkeit bei einer gemeinsamen Einrichtung zugewiesen ist oder die zur Geschäftsführerin oder zum Geschäftsführer einer gemeinsamen Einrichtung bestellt sind. Die Übertragung dieser Befugnisse gilt auch für die jeweilige Abwesenheitsvertretung.
 
-
-## II. – Vorbehalt
+# II. – Vorbehalt
 
 Der Vorstand kann die übertragenen Befugnisse in Einzelfällen selbst ausüben. Der Vorbehalt gilt entsprechend im Verhältnis der Vorsitzenden der Geschäftsführung der Regionaldirektionen zu den Vorsitzenden der Geschäftsführung der Agenturen für Arbeit oder Geschäftsführerinnen oder Geschäftsführern der Agenturen für Arbeit in deren Bezirk.
 
-
-## III. – Schlussvorschriften
+# III. – Schlussvorschriften
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig wird die Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts vom 22. Juli 2008 (BGBl. I S. 1405) aufgehoben.

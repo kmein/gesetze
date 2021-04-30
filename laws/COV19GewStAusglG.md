@@ -1,10 +1,7 @@
-# [COV19GewStAusglG] Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
-
-Ausfertigungsdatum: 06.10.2020
-
+% Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder
+% Ausfertigungsdatum: 06.10.2020
  
-
-## § 1 – Pauschaler Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden
+# § 1 – Pauschaler Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden
 
 (1) Der Bund gewährt den Gemeinden zu gleichen Teilen mit dem jeweiligen Land für im Jahr 2020 erwartete Gewerbesteuermindereinnahmen einen pauschalen Ausgleich nach Artikel 143h des Grundgesetzes. Hierzu erhalten die Länder aus dem Bundeshaushalt einen Betrag in Höhe von insgesamt 6,134 Milliarden Euro. In dem Betrag nach Satz 2 sind die den Ländern zuzurechnenden Wirkungen der erwarteten Gewerbesteuermindereinnahmen auf die Bundesergänzungszuweisungen enthalten.
 
@@ -80,8 +77,7 @@ In den Beträgen nach Satz 1 sind die den jeweiligen Ländern zuzurechnenden Wir
 
 (3) Die Auszahlung der Beträge nach Absatz 2 an die Länder erfolgt durch das Bundesministerium der Finanzen unverzüglich nach Inkrafttreten dieses Gesetzes.
 
-
-## § 2 – Verteilung auf die Gemeinden
+# § 2 – Verteilung auf die Gemeinden
 
 (1) Die Länder stellen ihren Gemeinden unverzüglich bis spätestens zum 31. Dezember 2020 nach Zahlungseingang der Beträge nach § 1 Absatz 3 zum pauschalen Ausgleich der Gewerbesteuermindereinnahmen 2020 die folgenden Beträge zur Verfügung:  
   
@@ -109,7 +105,6 @@ In den Beträgen nach Satz 1 sind die den jeweiligen Ländern zuzurechnenden Wir
 
 (+++ § 2: zur Nichtanwendung vgl. § 3 Satz 2 +++)
 
-
-## § 3 – Sondervorschriften für Berlin und Hamburg
+# § 3 – Sondervorschriften für Berlin und Hamburg
 
 In Berlin und Hamburg steht der Betrag nach § 1 Absatz 2 vollständig dem Land zu. § 2 findet keine Anwendung.

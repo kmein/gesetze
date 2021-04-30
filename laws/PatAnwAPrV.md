@@ -1,10 +1,7 @@
-# [PatAnwAPrV] Verordnung über die Ausbildung und Prüfung der Patentanwälte  (Patentanwaltsausbildungs- und -prüfungsverordnung - PatAnwAPrV)
-
-Ausfertigungsdatum: 22.09.2017
-
+% Verordnung über die Ausbildung und Prüfung der Patentanwälte  (Patentanwaltsausbildungs- und -prüfungsverordnung - PatAnwAPrV)
+% Ausfertigungsdatum: 22.09.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnet auf Grund
 
@@ -14,10 +11,7 @@ des § 12 der Patentanwaltsordnung, der zuletzt durch Artikel 4 Nummer 7 des Ges
 –  
 des § 10 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland vom 12. Mai 2017 (BGBl. I S. 1121, 1137) das Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -37,13 +31,13 @@ des § 10 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deut
 
  
 
+ 
 
-## § 1 – Voraussetzungen für die Zulassung
+# § 1 – Voraussetzungen für die Zulassung
 
 Zur Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes wird als Bewerberin oder Bewerber für den Beruf des Patentanwalts zugelassen, wer die Voraussetzungen des § 6 der Patentanwaltsordnung erfüllt.
 
-
-## § 2 – Zulassungsantrag
+# § 2 – Zulassungsantrag
 
 (1) Die Zulassung zur Ausbildung ist schriftlich zu beantragen. Der Antrag ist an das Deutsche Patent- und Markenamt zu richten.
 
@@ -71,13 +65,11 @@ Zur Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes wird als Bewerberi
 
 (5) Kann eine der Urkunden nach Absatz 2 Nummer 1, 5 oder 6 nicht vorgelegt werden, so ist der Nachweis auf andere Weise zu erbringen.
 
-
-## § 3 – Entscheidung über die Zulassung
+# § 3 – Entscheidung über die Zulassung
 
 Über die Zulassung zur Ausbildung hat das Deutsche Patent- und Markenamt durch schriftlichen Bescheid zu entscheiden.
 
-
-## § 4 – Rücknahme und Widerruf der Zulassung
+# § 4 – Rücknahme und Widerruf der Zulassung
 
 (1) Die Zulassung zur Ausbildung ist mit Wirkung für die Zukunft durch schriftlichen Bescheid zurückzunehmen, wenn nachträglich Tatsachen bekannt werden, nach denen die Bewerberin oder der Bewerber nicht hätte zur Ausbildung zugelassen werden dürfen. Die Rücknahme darf nur innerhalb von drei Monaten nach Kenntnis von den Tatsachen, die die Rücknahme der rechtswidrigen Zulassung rechtfertigen, erfolgen. Satz 2 gilt nicht, wenn die Bewerberin oder der Bewerber die Zulassung zur Ausbildung durch arglistige Täuschung, Drohung oder Bestechung erwirkt hat. Von der Rücknahme kann abgesehen werden, wenn die Gründe, aus denen die Zulassung hätte versagt werden müssen, nicht mehr bestehen.
 
@@ -93,13 +85,11 @@ Zur Ausbildung auf dem Gebiet des gewerblichen Rechtsschutzes wird als Bewerberi
 
 (+++ § 4 Abs. 1: Zur Anwendung vgl. § 22 Abs. 5 +++)
 
-
-## § 5 – Freiwilliges Ausscheiden
+# § 5 – Freiwilliges Ausscheiden
 
 Wer freiwillig aus der Ausbildung ausscheiden will, hat dies dem Deutschen Patent- und Markenamt unverzüglich schriftlich mitzuteilen.
 
-
-## § 6 – Ausbildungsziel
+# § 6 – Ausbildungsziel
 
 (1) Ziel der Ausbildung ist es, dass die Bewerberinnen und Bewerber auf der Grundlage ihrer technischen Befähigung (§ 6 der Patentanwaltsordnung)
 
@@ -111,8 +101,7 @@ Wer freiwillig aus der Ausbildung ausscheiden will, hat dies dem Deutschen Paten
 
 (2) Ausbildende haben das Maß und die Art der Tätigkeiten, die sie Bewerberinnen und Bewerbern übertragen, am Ziel der Ausbildung auszurichten. Die Nutzbarmachung der Arbeitskraft der Bewerberinnen und Bewerber darf nicht im Vordergrund stehen.
 
-
-## § 7 – Ausbildungsabschnitte
+# § 7 – Ausbildungsabschnitte
 
 Die Ausbildung gliedert sich in drei Ausbildungsabschnitte, die Bewerberinnen und Bewerber in folgender Reihenfolge zu durchlaufen haben:
 
@@ -122,8 +111,7 @@ Die Ausbildung gliedert sich in drei Ausbildungsabschnitte, die Bewerberinnen un
 
 3. sechs Monate beim Bundespatentgericht (dritter Ausbildungsabschnitt).
 
-
-## § 8 – Ausbildung in Teilzeit
+# § 8 – Ausbildung in Teilzeit
 
 (1) Die Ausbildung hat grundsätzlich in Vollzeit zu erfolgen. Sie kann nur aus wichtigem Grund in Teilzeit erfolgen, insbesondere
 
@@ -143,13 +131,11 @@ Die Ausbildung gliedert sich in drei Ausbildungsabschnitte, die Bewerberinnen un
 
 (+++ § 8 Abs. 2 u. 3: Zur Anwendung vgl. § 11 Abs. 5 +++)
 
-
-## § 9 – Anrechnung früherer Ausbildungszeiten
+# § 9 – Anrechnung früherer Ausbildungszeiten
 
 Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen worden oder sind Bewerberinnen oder Bewerber freiwillig aus der Ausbildung ausgeschieden, so hat das Deutsche Patent- und Markenamt frühere Ausbildungszeiten bei einer erneuten Zulassung zur Ausbildung anzurechnen, wenn das Ausbildungsziel noch erreicht werden kann. Dies wird regelmäßig dann der Fall sein, wenn die Ausbildung innerhalb von einem Jahr nach ihrer Unterbrechung wieder aufgenommen wird.
 
-
-## § 10 – Beurteilungen
+# § 10 – Beurteilungen
 
 (1) Ausbildende haben Bewerberinnen und Bewerber am Ende der bei ihnen durchgeführten Ausbildung schriftlich zu beurteilen. Im ersten Ausbildungsabschnitt haben sie die Bewerberinnen und Bewerber zudem am Ende eines jeden Ausbildungsjahres zu beurteilen. Die Beurteilungen sind dem Deutschen Patent- und Markenamt zuzuleiten.
 
@@ -171,8 +157,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (+++ § 10 Abs. 2 Nr. 1 : Zur Anwendung vgl. § 76 Abs. 3 +++)
 
-
-## § 11 – Urlaub und Krankheit
+# § 11 – Urlaub und Krankheit
 
 (1) Erholungsurlaub während des ersten Ausbildungsabschnitts wird mit bis zu 30 Arbeitstagen pro Ausbildungsjahr auf die Ausbildungszeit angerechnet.
 
@@ -186,8 +171,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (6) Sonderurlaub wird auf die Ausbildungszeit nicht angerechnet, es sei denn, dass er im ersten Ausbildungsabschnitt zehn und im zweiten und dritten Ausbildungsabschnitt jeweils fünf Arbeitstage nicht überschreitet. Während des Sonderurlaubs ruht die Ausbildung.
 
-
-## § 12 – Ausbildungsbefugnis
+# § 12 – Ausbildungsbefugnis
 
 (1) Zur Ausbildung befugt sind Patentanwälte und Patentassessoren, die insgesamt fünf Jahre lang
 
@@ -197,8 +181,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (2) Das Deutsche Patent- und Markenamt kann auf Antrag vom Erfordernis der fünfjährigen Tätigkeit des Patentanwalts oder Patentassessors absehen, wenn das Ziel der Ausbildung nicht gefährdet wird.
 
-
-## § 13 – Pflichten der Ausbildenden
+# § 13 – Pflichten der Ausbildenden
 
 (1) Die Ausbildungstätigkeit ist gewissenhaft auszuüben.
 
@@ -206,15 +189,13 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (3) Ausbildende haben Bewerberinnen und Bewerbern ausreichend Zeit für das Selbststudium und für das Studium im allgemeinen Recht an einer Universität einzuräumen.
 
-
-## § 14 – Aufsicht über ausbildende Patentassessoren
+# § 14 – Aufsicht über ausbildende Patentassessoren
 
 (1) Patentassessoren unterliegen hinsichtlich der Ausübung ihrer Ausbildungsbefugnis der Aufsicht des Deutschen Patent- und Markenamts.
 
 (2) Ausbildende Patentassessoren haben dem Deutschen Patent- und Markenamt auf Verlangen schriftliche Berichte über den Stand und den Inhalt der Ausbildung zu erteilen und die über die Ausbildung geführten Unterlagen vorzulegen.
 
-
-## § 15 – Verlust und Entziehung der Ausbildungsbefugnis
+# § 15 – Verlust und Entziehung der Ausbildungsbefugnis
 
 (1) Patentanwälte verlieren ihre Ausbildungsbefugnis
 
@@ -240,8 +221,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (4) Bewerberinnen und Bewerbern sind alle Ausbildungszeiten anzurechnen, die bis zum Verlust oder zur Entziehung der Ausbildungsbefugnis erbracht worden sind. Dies gilt auch dann, wenn der Verlust oder die Entziehung auf Umständen beruht, die die oder den Ausbildenden als zur Ausbildung ungeeignet erscheinen lassen.
 
-
-## § 16 – Beginn und Ende der Ausbildung
+# § 16 – Beginn und Ende der Ausbildung
 
 (1) Der Ausbildungsbeginn wird im Bescheid über die Zulassung zur Ausbildung festgesetzt. Er bestimmt sich nach den Angaben in der Ausbildungserklärung, wird jedoch frühestens auf den Tag festgesetzt, an dem sowohl der Antrag auf Zulassung zur Ausbildung als auch die Ausbildungserklärung im Deutschen Patent- und Markenamt eingegangen sind.
 
@@ -259,8 +239,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (3) Am Ende der bei ihnen durchgeführten Ausbildung haben Ausbildende dem Deutschen Patent- und Markenamt die anrechenbaren Ausbildungszeiten sowie die Urlaubs- und Krankheitszeiten der Bewerberinnen und Bewerber schriftlich mitzuteilen.
 
-
-## § 17 – Wechsel der Ausbildenden
+# § 17 – Wechsel der Ausbildenden
 
 (1) Bewerberinnen und Bewerber dürfen ihre Ausbildenden jederzeit wechseln.
 
@@ -268,8 +247,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (3) Die Ausbildung soll bei allen Ausbildenden jeweils mindestens drei Monate dauern.
 
-
-## § 18 – Inhalt der Ausbildung
+# § 18 – Inhalt der Ausbildung
 
 (1) Ausbildende haben Bewerberinnen und Bewerbern Gelegenheit zu geben, folgende Rechtskenntnisse zu erwerben, wobei besonderes Gewicht auf die Nummern 1 und 2 zu legen ist:
 
@@ -291,8 +269,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 3. mit den Auftraggeberinnen und Auftraggebern zu kommunizieren.
 
-
-## § 19 – Ausbildung bei einem Gericht für Patentstreitsachen
+# § 19 – Ausbildung bei einem Gericht für Patentstreitsachen
 
 (1) Bewerberinnen und Bewerber können während des ersten Ausbildungsabschnitts eine Ausbildung bei einem Gericht für Patentstreitsachen durchführen. Die Ausbildung soll frühestens ein Jahr nach dem Beginn des ersten Ausbildungsabschnitts erfolgen.
 
@@ -306,8 +283,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (3) Ausbildende beim Gericht für Patentstreitsachen haben Beurteilungen nach Maßgabe des § 10 Absatz 2 und 3 Satz 1 zu erstellen, diese den Bewerberinnen und Bewerbern zu eröffnen und sie anschließend dem Deutschen Patent- und Markenamt zuzuleiten.
 
-
-## § 20 – Ausbildung im Ausland
+# § 20 – Ausbildung im Ausland
 
 (1) Bewerberinnen und Bewerber können während des ersten Ausbildungsabschnitts eine praktische Ausbildung im gewerblichen Rechtsschutz im Ausland durchführen.
 
@@ -323,8 +299,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (4) Bewerberinnen und Bewerber haben dem Deutschen Patent- und Markenamt die Aufnahme und die Beendigung der Ausbildung im Ausland unverzüglich anzuzeigen und nach dem Ende der Ausbildung im Ausland Beurteilungen der Ausbildenden vorzulegen. Aus den Beurteilungen muss sich ergeben, ob die Ausbildung erfolgreich war. Die Beurteilungen sollen den Vorgaben des § 10 Absatz 2 bis 4 entsprechen.
 
-
-## § 21 – Arbeitsgemeinschaften
+# § 21 – Arbeitsgemeinschaften
 
 (1) Die Patentanwaltskammer hat regionale Arbeitsgemeinschaften zu bilden und geeignete Personen mit deren Leitung zu beauftragen. Sie hat die regionalen Arbeitsgemeinschaften und die Namen und Anschriften ihrer Leitenden dem Deutschen Patent- und Markenamt mitzuteilen.
 
@@ -341,8 +316,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 (+++ § 21 Abs. 6 Satz 2: Zur Anwendung vgl. § 28 Abs. 1 +++)  
 (+++ § 21 Abs. 6 Satz 2: Zur Anwendung vgl. § 28 Abs. 3 +++)
 
-
-## § 22 – Zulassungsantrag
+# § 22 – Zulassungsantrag
 
 (1) Eine Bewerberin oder ein Bewerber hat die Zulassung zum zeitlich unmittelbar aufeinanderfolgenden zweiten und dritten Ausbildungsabschnitt in einem gemeinsamen schriftlichen Antrag beim Deutschen Patent- und Markenamt zu beantragen. Das Deutsche Patent- und Markenamt hat über die Zulassung durch schriftlichen Bescheid zu entscheiden und die Präsidentin oder den Präsidenten des Bundespatentgerichts über die Zulassung zu unterrichten.
 
@@ -362,8 +336,7 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (+++ § 22 Abs. 3 Nr. 1: Zur Anwendung vgl. § 76 Abs. 5 +++)
 
-
-## § 23 – Verschwiegenheitspflicht und Zugang zu Akten
+# § 23 – Verschwiegenheitspflicht und Zugang zu Akten
 
 (1) Bewerberinnen und Bewerber haben über die ihnen in der Ausbildung beim Deutschen Patent- und Markenamt und beim Bundespatentgericht bekannt gewordenen dienstlichen Angelegenheiten Verschwiegenheit zu bewahren. Sie sind vor Beginn der Ausbildung nach § 1 des Verpflichtungsgesetzes förmlich zu verpflichten.
 
@@ -371,13 +344,11 @@ Ist die Zulassung zur Ausbildung nach § 4 Absatz 2 Nummer 1 oder 2 widerrufen w
 
 (3) Bewerberinnen und Bewerber haben ihnen zugänglich gemachte Akten und sonstige dienstliche Vorgänge sorgfältig zu behandeln und auf Verlangen unverzüglich herauszugeben.
 
-
-## § 24 – Anwesenheitspflicht
+# § 24 – Anwesenheitspflicht
 
 Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewerber Anwesenheitspflicht. Jedes Fernbleiben bedarf der vorherigen Zustimmung der Ausbildenden. Bewerberinnen und Bewerber haben eine Arbeitsunfähigkeit infolge Krankheit unverzüglich der ausbildenden Stelle anzuzeigen und eine länger als drei Kalendertage dauernde Arbeitsunfähigkeit unaufgefordert durch ärztliches Attest nachzuweisen. Die ausbildende Stelle kann auch vor dem vierten Tag die Vorlage eines Attests verlangen.
 
-
-## § 25 – Ausbildungsplan
+# § 25 – Ausbildungsplan
 
 (1) Das Deutsche Patent- und Markenamt und die Präsidentin oder der Präsident des Bundespatentgerichts stellen jeweils einen Plan für die Ausbildung in ihrem Geschäftsbereich auf. Die Pläne sollen inhaltlich aufeinander abgestimmt sein.
 
@@ -393,8 +364,7 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 (4) Gegenstand der Übungsklausuren im dritten Ausbildungsabschnitt sind die Rechtsgebiete nach § 18 Absatz 1.
 
-
-## § 26 – Lehr- und Informationsveranstaltungen
+# § 26 – Lehr- und Informationsveranstaltungen
 
 (1) Das Deutsche Patent- und Markenamt und die Präsidentin oder der Präsident des Bundespatentgerichts führen Lehrveranstaltungen vor allem auf dem Gebiet des deutschen gewerblichen Rechtsschutzes durch, insbesondere im Patent-, Gebrauchsmuster-, Marken- und Designrecht sowie im Recht der Arbeitnehmererfindungen.
 
@@ -402,15 +372,13 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 (3) Die Teilnahme an den Lehr- und Informationsveranstaltungen ist für die Bewerberinnen und Bewerber verpflichtend.
 
-
-## § 27 – Ausbildende und Lehrende
+# § 27 – Ausbildende und Lehrende
 
 (1) Mit der Ausbildung nach § 25 Absatz 2 Nummer 1 darf nur betraut werden, wer über die erforderlichen fachlichen Kenntnisse und Fähigkeiten verfügt und nach seiner Persönlichkeit für diese Aufgabe geeignet ist.
 
 (2) Mit Lehrveranstaltungen nach § 26 Absatz 1 darf nur betraut werden, wer hierzu pädagogisch und fachlich geeignet ist. Der Nachweis der fachlichen Eignung ist regelmäßig dann erbracht, wenn eine mindestens vierjährige Tätigkeit beim Deutschen Patent- und Markenamt als rechtskundiges oder technisches Mitglied oder beim Bundespatentgericht als Richterin oder Richter ausgeübt wurde. Lehrende sollen pädagogisch und fachlich fortgebildet werden.
 
-
-## § 28 – Erreichen der Ausbildungsziele
+# § 28 – Erreichen der Ausbildungsziele
 
 (1) Das Ziel der Ausbildung beim Deutschen Patent- und Markenamt hat erreicht, wem von der Mehrheit der Ausbildenden eine erfolgreiche Ausbildung bescheinigt oder im Fall einer Benotung zumindest die Note „ausreichend (4,00 Punkte)“ erteilt worden ist. Zudem muss regelmäßig an den Lehrveranstaltungen teilgenommen worden sein; § 21 Absatz 6 Satz 2 gilt entsprechend.
 
@@ -422,22 +390,19 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 (+++ § 28 Abs. 1 u. 3: Zur Anwendung vgl. § 76 Abs. 6 +++)
 
-
-## § 29 – Verlängerung der Ausbildung
+# § 29 – Verlängerung der Ausbildung
 
 (1) Hat eine Bewerberin oder ein Bewerber das Ausbildungsziel des zweiten Ausbildungsabschnitts nicht erreicht, so hat das Deutsche Patent- und Markenamt einmalig bis zu einer Dauer von zwei Monaten die Verlängerung der Ausbildung anzuordnen und hiervon die Präsidentin oder den Präsidenten des Bundespatentgerichts zu unterrichten.
 
 (2) Hat eine Bewerberin oder ein Bewerber das Ausbildungsziel des dritten Ausbildungsabschnitts nicht erreicht, so hat die Präsidentin oder der Präsident des Bundespatentgerichts dies dem Deutschen Patent- und Markenamt mitzuteilen. Das Deutsche Patent- und Markenamt hat sodann in Abstimmung mit der Präsidentin oder dem Präsidenten des Bundespatentgerichts einmalig bis zur Dauer von sechs Monaten die Verlängerung der Ausbildung anzuordnen.
 
-
-## § 30 – Beendigung der Ausbildung
+# § 30 – Beendigung der Ausbildung
 
 (1) Hat eine Bewerberin oder ein Bewerber das Ausbildungsziel in allen drei Ausbildungsabschnitten erreicht, erklärt das Deutsche Patent- und Markenamt die Ausbildung für erfolgreich beendet.
 
 (2) Hat eine Bewerberin oder ein Bewerber das Ausbildungsziel beim Deutschen Patent- und Markenamt oder beim Bundespatentgericht endgültig nicht erreicht, erklärt das Deutsche Patent- und Markenamt die Ausbildung für erfolglos beendet. Eine erneute Zulassung zur Ausbildung ist ausgeschlossen.
 
-
-## § 31 – Nebentätigkeiten
+# § 31 – Nebentätigkeiten
 
 (1) Bewerberinnen und Bewerber dürfen während der Ausbildung im zweiten und dritten Ausbildungsabschnitt entgeltliche oder unentgeltliche Nebentätigkeiten auf dem Gebiet des gewerblichen Rechtsschutzes mit Ausnahme von Nebentätigkeiten nach § 100 Absatz 1 des Bundesbeamtengesetzes nur mit vorheriger Genehmigung des Deutschen Patent- und Markenamts ausüben. Genehmigungen sind schriftlich zu beantragen.
 
@@ -457,8 +422,7 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 3. Bewerberinnen und Bewerber in einen Widerstreit mit ihrer Pflicht nach § 23 Absatz 1 Satz 1 oder in einen Interessenwiderstreit im Sinne des § 39a Absatz 4 der Patentanwaltsordnung bringen können.
 
-
-## § 32 – Studium im allgemeinen Recht
+# § 32 – Studium im allgemeinen Recht
 
 (1) Das Studium im allgemeinen Recht nach § 7 Absatz 3 der Patentanwaltsordnung erfolgt durch das Absolvieren
 
@@ -474,8 +438,7 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 (5) Das Studium im allgemeinen Recht soll vor Beginn des zweiten Ausbildungsabschnitts abgeschlossen sein.
 
-
-## § 33 – Prüfungskommission
+# § 33 – Prüfungskommission
 
 (1) Die Prüfungskommission beim Deutschen Patent- und Markenamt (§ 9 der Patentanwaltsordnung) besteht aus folgenden ehrenamtlich tätigen Mitgliedern:
 
@@ -509,8 +472,7 @@ Im zweiten und dritten Ausbildungsabschnitt besteht für Bewerberinnen und Bewer
 
 (+++ § 33: Zur Anwendung vgl. § 75 Abs. 1 +++)
 
-
-## § 34 – Aufgaben, Rechte und Pflichten der Mitglieder der Prüfungskommission
+# § 34 – Aufgaben, Rechte und Pflichten der Mitglieder der Prüfungskommission
 
 (1) Den Mitgliedern der Prüfungskommission obliegt es,
 
@@ -549,8 +511,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 (+++ § 34: Zur Anwendung vgl. § 75 Abs. 1 +++)  
 (+++ § 34 Abs. 4 Satz 2 u.3: Zur Anwendung vgl. § 77 Abs. 4 +++)
 
-
-## § 35 – Prüfungstermine und Prüfungstage
+# § 35 – Prüfungstermine und Prüfungstage
 
 (1) Das Deutsche Patent- und Markenamt hat möglichst bis zum 31. Juli eines Jahres die Monate zu bestimmen und zu veröffentlichen, in denen im Folgejahr die Patentanwaltsprüfung abgelegt werden kann (Prüfungstermine). Jährlich sollen mindestens zwei Prüfungstermine stattfinden. Die Veröffentlichung hat im Blatt für Patent-, Muster- und Zeichenwesen sowie auf der Internetseite des Deutschen Patent- und Markenamts zu erfolgen.
 
@@ -558,8 +519,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (+++ § 35: Zur Anwendung vgl. § 67 +++)
 
-
-## § 36 – Zulassungsantrag
+# § 36 – Zulassungsantrag
 
 (1) Zur Prüfung nach § 8 der Patentanwaltsordnung wird zugelassen, wer die Voraussetzungen der §§ 6 und 7 der Patentanwaltsordnung oder des § 158 der Patentanwaltsordnung erfüllt.
 
@@ -577,8 +537,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 3. ein umfassender Tätigkeitsbericht, den die antragstellende Person selbst verfasst und dessen Richtigkeit sie eidesstattlich versichert haben muss.
 
-
-## § 37 – Prüfungsgebühr
+# § 37 – Prüfungsgebühr
 
 (1) Die Prüfungsgebühr beträgt 650 Euro. Prüflinge, die zur Prüfung zugelassen wurden, haben die Prüfungsgebühr spätestens einen Monat vor dem Monatsersten des beantragten Prüfungstermins mittels Banküberweisung an die Präsidentin oder den Präsidenten des Deutschen Patent- und Markenamts zu zahlen und die Zahlung auf Anforderung nachzuweisen. Wird die Gebühr nicht rechtzeitig gezahlt oder nicht innerhalb von zwei Wochen nach Anforderung nachgewiesen, gilt der Antrag auf Zulassung zur Prüfung als zurückgenommen.
 
@@ -588,8 +547,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (+++ § 37: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)
 
-
-## § 38 – Rücknahme der Zulassung und Rücktritt
+# § 38 – Rücknahme der Zulassung und Rücktritt
 
 (1) Die Präsidentin oder der Präsident des Deutschen Patent- und Markenamts kann die Zulassung zur Prüfung zurücknehmen, wenn nachträglich Tatsachen bekannt werden, die der Zulassung zur Prüfung entgegengestanden haben.
 
@@ -597,8 +555,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (+++ § 38: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)
 
-
-## § 39 – Bestandteile der Prüfung
+# § 39 – Bestandteile der Prüfung
 
 (1) Die Prüfung besteht aus einer schriftlichen und einer mündlichen Prüfung.
 
@@ -609,8 +566,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 (+++ § 39: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
 (+++ § 39 Abs. 2 Satz 2: Zur Anwendung vgl. § 75 Abs. 1 +++)
 
-
-## § 40 – Gegenstände der Prüfung
+# § 40 – Gegenstände der Prüfung
 
 (1) Gegenstand der schriftlichen Prüfung ist das Gebiet des gewerblichen Rechtsschutzes. Zumindest jeweils eine Klausur soll sich dabei im Schwerpunkt auf folgende Aufgabenstellungen beziehen:
 
@@ -638,8 +594,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (+++ § 40: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
 
-
-## § 41 – Hilfsmittel und Nachteilsausgleich
+# § 41 – Hilfsmittel und Nachteilsausgleich
 
 (1) Die oder der Vorsitzende der Prüfungskommission hat die Hilfsmittel zu bestimmen, die die Prüflinge mitzubringen haben und die sie benutzen dürfen.
 
@@ -655,8 +610,7 @@ Bei vierstündigen Klausuren erhöhen sich die Sätze nach Satz 2 Nummer 1 um 30
 
 (+++ § 41: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)
 
-
-## § 42 – Nichtöffentlichkeit der Prüfung und Zuhörer
+# § 42 – Nichtöffentlichkeit der Prüfung und Zuhörer
 
 (1) Die Prüfung ist nicht öffentlich.
 
@@ -689,8 +643,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 (+++ § 42: Zur Anwendung vgl. § 54 Abs. 5 +++)  
 (+++ § 42 Abs. 1, 2, 3 Satz 1 Nr. 4, Satz 2 u. 3, Abs. 4: Zur Anwendung vgl. § 75 Abs. 1 +++)
 
-
-## § 43 – Säumnis und Verhinderung
+# § 43 – Säumnis und Verhinderung
 
 (1) Kommt ein Prüfling einer Ladung zu einer Klausur oder zur mündlichen Prüfung nicht nach (Säumnis), so gilt die jeweilige Prüfungsleistung als mit der Bewertung „ungenügend (0 Punkte)“ nicht bestanden. Im Fall der mündlichen Prüfung gilt dies auch, wenn nur ein Teil der Prüfung versäumt wird.
 
@@ -712,8 +665,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 (+++ § 43 Abs. 1: Zur Anwendung vgl. § 44 Abs. 3 +++)  
 (+++ § 43 Abs. 5 bis 7: Zur Anwendung vgl. § 44 Abs. 3 +++)
 
-
-## § 44 – Ausschluss von der Prüfung
+# § 44 – Ausschluss von der Prüfung
 
 (1) Von der Teilnahme an der Prüfung kann ganz oder für einzelne Prüfungstage ausgeschlossen werden, wer
 
@@ -731,8 +683,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 
 (+++ § 44: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1, § 77 Abs. 4 +++)
 
-
-## § 45 – Täuschungsversuch und Ordnungsverstoß
+# § 45 – Täuschungsversuch und Ordnungsverstoß
 
 (1) Eine Klausur ist mit „ungenügend (0 Punkte)“ zu bewerten, wenn ein Prüfling durch Täuschung versucht, das Ergebnis einer Klausur zu eigenem oder fremdem Vorteil zu beeinflussen. Ein Täuschungsversuch liegt auch vor, wenn ein Prüfling
 
@@ -757,8 +708,7 @@ Das Anwesenheitsrecht erstreckt sich nicht auf die Beratungen. An der Bekanntgab
 (+++ § 45: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)  
 (+++ § 45 Abs. 1 Satz 1 u. Abs. 3: Zur Anwendung vgl. § 77 Abs. 5 +++)
 
-
-## § 46 – Bewertung der Prüfungsleistungen
+# § 46 – Bewertung der Prüfungsleistungen
 
 Jede Klausur sowie die mündliche Prüfung ist mit einer der folgenden Noten und Punktzahlen zu bewerten:
 
@@ -788,8 +738,7 @@ Leistung</td><td style="text-align: right;"><br />
 
 (+++ § 46: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
 
-
-## § 47 – Prüfungsausschuss
+# § 47 – Prüfungsausschuss
 
 (1) Für die Abnahme der Prüfung hat das Deutsche Patent- und Markenamt aus den Mitgliedern der Prüfungskommission einen Prüfungsausschuss zu bilden. Für einen Prüfungstermin können mehrere Prüfungsausschüsse gebildet werden. Werden für einen Prüfungstermin mehrere Prüfungsausschüsse gebildet, sind dieselben Klausuren zu schreiben.
 
@@ -814,8 +763,7 @@ Für den Fall, dass ein Mitglied des Prüfungsausschusses durch Krankheit oder e
 (+++ § 47: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
 (+++ § 47 Abs. 1 Satz 2 u. 3, Abs. 2 Satz 2, Abs. 3 u. 4: Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 48 – Schriftliche Prüfung
+# § 48 – Schriftliche Prüfung
 
 (1) Die oder der Vorsitzende der Prüfungskommission hat die Aufgaben für die Klausuren auszuwählen. Sie oder er kann von den Mitgliedern der Prüfungskommission Entwürfe für Klausuren anfordern. Sie oder er kann auch eine Aufgabenkommission aus bis zu vier Mitgliedern der Prüfungskommission bilden, die sie oder ihn bei der Auswahl der Klausuren unterstützt.
 
@@ -845,8 +793,7 @@ e) besondere Vorkommnisse,
 
 (+++ § 48: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)
 
-
-## § 49 – Bewertung der Klausuren
+# § 49 – Bewertung der Klausuren
 
 (1) Für jede Klausur hat die oder der Vorsitzende der Prüfungskommission zwei im Schwerpunkt der Aufgabenstellung nach § 40 Absatz 1 fachkundige Mitglieder der Prüfungskommission zu bestimmen, die die Klausur zu bewerten haben. Dabei sollen mindestens zwei Klausuren von der oder dem Vorsitzenden des Prüfungsausschusses bewertet werden, dem der Prüfling zugeteilt wird. Erkrankt ein Mitglied oder liegt ein anderer wichtiger Grund vor, kann die oder der Vorsitzende der Prüfungskommission es durch ein anderes Mitglied ersetzen.
 
@@ -865,8 +812,7 @@ e) besondere Vorkommnisse,
 (+++ § 49: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
 (+++ § 49 Abs. 5: Zur Anwendung vgl. § 71 +++)
 
-
-## § 50 – Mündliche Prüfung
+# § 50 – Mündliche Prüfung
 
 (1) Die oder der Vorsitzende der Prüfungskommission hat die Prüflinge zur mündlichen Prüfung zu laden. Dabei dürfen höchstens sechs Prüflinge gemeinsam geprüft werden.
 
@@ -881,8 +827,7 @@ e) besondere Vorkommnisse,
 (+++ § 50: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)  
 (+++ § 50 Abs. 1 bis 3: Zur Anwendung vgl. § 75 Abs. 1 +++)
 
-
-## § 51 – Gesamtpunktzahl und Prüfungsgesamtnote
+# § 51 – Gesamtpunktzahl und Prüfungsgesamtnote
 
 (1) Der Prüfungsausschuss hat die vom Prüfling in der Prüfung erzielte Gesamtpunktzahl zu berechnen, wobei jede in den beiden vierstündigen Klausuren als Endbewertung erzielte Punktzahl mit 18 Prozent, jede in den beiden dreistündigen Klausuren als Endbewertung erzielte Punktzahl mit 14 Prozent und die in der mündlichen Prüfung als Endbewertung erzielte Punktzahl mit 36 Prozent in die Gesamtnote einfließt. Die Gesamtpunktzahl wird bis auf zwei Dezimalstellen ohne Auf- oder Abrundung berechnet.
 
@@ -904,8 +849,7 @@ e) besondere Vorkommnisse,
 
 (+++ § 51: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
 
-
-## § 52 – Niederschrift und Bekanntgabe
+# § 52 – Niederschrift und Bekanntgabe
 
 (1) Der Prüfungsausschuss hat in einer Niederschrift für jeden Prüfling Folgendes festzuhalten:
 
@@ -937,8 +881,7 @@ e) besondere Vorkommnisse,
 
 (+++ § 52: Zur Anwendung vgl. § 54 Abs. 5, § 77 Abs. 4 +++)
 
-
-## § 53 – Mängel im Prüfungsverfahren
+# § 53 – Mängel im Prüfungsverfahren
 
 (1) Ein Prüfling hat Mängel im schriftlichen Prüfungsverfahren unverzüglich und spätestens am Ende der Bearbeitungszeit gegenüber der Aufsichtsperson zu rügen. Bei vorübergehenden Störungen kann die Aufsichtsperson die Bearbeitungszeit in angemessenem Umfang verlängern. Mängel im mündlichen Prüfungsverfahren hat ein Prüfling unverzüglich und spätestens vor dem Beginn der Beratung gegenüber der oder dem Vorsitzenden des Prüfungsausschusses zu rügen.
 
@@ -958,8 +901,7 @@ e) besondere Vorkommnisse,
 
 (+++ § 53: Zur Anwendung vgl. § 54 Abs. 5, § 75 Abs. 1 +++)
 
-
-## § 54 – Erste Wiederholungsprüfung
+# § 54 – Erste Wiederholungsprüfung
 
 (1) Wer die Prüfung nicht bestanden hat, darf sie nach Maßgabe der Absätze 2 bis 4 wiederholen. Der Zulassungsantrag ist beim Deutschen Patent- und Markenamt schriftlich zu stellen und muss sich auf einen bestimmten Prüfungstermin beziehen. Über den Antrag hat das Deutsche Patent- und Markenamt durch schriftlichen Bescheid zu entscheiden.
 
@@ -974,8 +916,7 @@ e) besondere Vorkommnisse,
 (+++ § 54: Zur Anwendung vgl. § 77 Abs. 6 +++)  
 (+++ § 54 Abs. 2 u. 5: Zur Anwendung vgl. § 55 Abs. 4 +++)
 
-
-## § 55 – Zweite Wiederholungsprüfung
+# § 55 – Zweite Wiederholungsprüfung
 
 (1) Wer die erste Wiederholungsprüfung nicht bestanden hat, ist auf Antrag zu einer zweiten Wiederholungsprüfung zuzulassen, wenn die bisherigen Prüfungsleistungen vermuten lassen, dass die zweite Wiederholungsprüfung bestanden wird.
 
@@ -990,8 +931,7 @@ e) besondere Vorkommnisse,
 (+++ § 55: Zur Anwendung vgl. § 77 Abs. 6 +++)  
 (+++ § 55 Abs. 2 Satz 2, Abs. 3 u. 5: Zur Anwendung vgl. § 74 Abs. 1 +++)
 
-
-## § 56 – Aufbewahrungsfrist und Akteneinsicht
+# § 56 – Aufbewahrungsfrist und Akteneinsicht
 
 (1) Die Klausuren, die darauf bezogenen Gutachten und die Prüfungsniederschriften (Prüfungsakte) sind fünf Jahre aufzubewahren. Die Frist beginnt mit Ablauf des Jahres, in dem das Prüfungsergebnis bekanntgegeben worden ist. Im Fall einer Wiederholungsprüfung ist der Tag der Bekanntgabe des Ergebnisses der letzten Prüfung maßgebend.
 
@@ -999,8 +939,7 @@ e) besondere Vorkommnisse,
 
 (3) Ein Prüfling hat seine Prüfungsakte grundsätzlich persönlich in den Räumen des Deutschen Patent- und Markenamts und unter dessen Aufsicht einzusehen. Hat er gegen die Prüfungsentscheidung Widerspruch eingelegt oder ist ihm das persönliche Erscheinen nicht zumutbar, ist ihm auf Antrag und gegen Zahlung einer angemessenen Kostenpauschale eine Kopie der Prüfungsakte zur Verfügung zu stellen.
 
-
-## § 57 – Darlehensanspruch
+# § 57 – Darlehensanspruch
 
 (1) Bewerberinnen und Bewerbern ist auf Antrag zur Sicherung ihres Unterhalts während ihrer Ausbildung bei einem Gericht für Patentstreitsachen, beim Deutschen Patent- und Markenamt und beim Bundespatentgericht sowie während ihrer Prüfungszeit ein Unterhaltsdarlehen zu gewähren. Dies gilt nicht für Prüflinge, die nach § 158 der Patentanwaltsordnung zur Prüfung zugelassen sind.
 
@@ -1008,8 +947,7 @@ e) besondere Vorkommnisse,
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 58 – Entstehen, Ruhen und Erlöschen des Anspruchs
+# § 58 – Entstehen, Ruhen und Erlöschen des Anspruchs
 
 (1) Der Anspruch auf Zahlung des Unterhaltsdarlehens entsteht am Ersten des Monats, in dem die Bewerberinnen oder Bewerber
 
@@ -1051,8 +989,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 59 – Darlehenshöhe und Darlehensschuld
+# § 59 – Darlehenshöhe und Darlehensschuld
 
 (1) Das Unterhaltsdarlehen setzt sich zusammen aus
 
@@ -1066,8 +1003,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 60 – Einkommensanrechnung
+# § 60 – Einkommensanrechnung
 
 (1) Einkommen der Bewerberinnen und Bewerber und ihrer Ehegatten wird auf die Höhe des zu gewährenden Unterhaltsdarlehens angerechnet, sofern es zusammengerechnet mehr als 70 Prozent des Anwärtergrundbetrags für das Eingangsamt A 13 nach der Anlage VIII zum Bundesbesoldungsgesetz beträgt.
 
@@ -1075,8 +1011,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 61 – Vermögensanrechnung
+# § 61 – Vermögensanrechnung
 
 (1) Vermögen der Bewerberinnen und Bewerber und ihrer Ehegatten wird auf die Höhe des zu gewährenden Unterhaltsdarlehens angerechnet.
 
@@ -1084,8 +1019,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 62 – Auskunftspflichten und Änderungen
+# § 62 – Auskunftspflichten und Änderungen
 
 (1) Bewerberinnen und Bewerber sind verpflichtet, über ihre Einkommens- und Vermögensverhältnisse und diejenigen ihrer Ehegatten sowie über die für den Familienzuschlag maßgeblichen Umstände Auskunft zu geben. Änderungen dieser Verhältnisse und Umstände haben sie unverzüglich mitzuteilen.
 
@@ -1093,8 +1027,7 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 63 – Zahlung und Feststellung
+# § 63 – Zahlung und Feststellung
 
 (1) Das Unterhaltsdarlehen ist monatlich im Voraus zum Ersten des Monats auszuzahlen.
 
@@ -1104,15 +1037,13 @@ Satz 1 gilt nicht, soweit die Zeiten im Fall eines Sonderurlaubs in jedem Ausbil
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 64 – Verfügungen über das Darlehen
+# § 64 – Verfügungen über das Darlehen
 
 Sofern gesetzlich nichts anderes bestimmt ist, kann der Anspruch auf das Unterhaltsdarlehen nur insoweit abgetreten oder verpfändet werden, als er der Pfändung unterliegt.
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 65 – Rückforderungen
+# § 65 – Rückforderungen
 
 (1) Die Rückforderung eines zu viel gezahlten Unterhaltsdarlehens bestimmt sich nach den Vorschriften des Bürgerlichen Gesetzbuchs über die Herausgabe einer ungerechtfertigten Bereicherung.
 
@@ -1128,8 +1059,7 @@ Sofern gesetzlich nichts anderes bestimmt ist, kann der Anspruch auf das Unterha
 
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)
 
-
-## § 66 – Rückzahlung
+# § 66 – Rückzahlung
 
 (1) Das Darlehen ist mit 3 Prozent jährlich zu verzinsen. Das Jahr wird mit 360 Tagen und jeder Monat mit 30 Tagen berechnet. Die Verzinsung beginnt am Ersten des Monats, der auf das Erlöschen des letzten geltend gemachten Anspruchs auf Zahlung des Darlehens oder dem Verzicht auf dessen weitere Zahlung folgt.
 
@@ -1146,20 +1076,17 @@ Sofern gesetzlich nichts anderes bestimmt ist, kann der Anspruch auf das Unterha
 (+++ Teil 3 (§§ 57 bis 66): Zur Anwendung vgl. § 78 +++)  
 (+++ § 66 Abs. 1 Satz 1 u. 2: Zur Anwendung vgl. § 65 Abs. 4 +++)
 
-
-## § 67 – Prüfungstermine und Prüfungstage
+# § 67 – Prüfungstermine und Prüfungstage
 
 Für die Bestimmung und Veröffentlichung der Prüfungstermine und der Prüfungstage der Eignungsprüfungen sowie für die Ankündigung des voraussichtlichen Zeitraums ihrer mündlichen Prüfungsteile gilt § 35 entsprechend mit der Maßgabe, dass jährlich mindestens drei Termine im Abstand von höchstens vier Monaten stattzufinden haben.
 
-
-## § 68 – Antragsverfahren
+# § 68 – Antragsverfahren
 
 (1) Die Ablegung einer Eignungsprüfung nach dem Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland ist schriftlich beim Deutschen Patent- und Markenamt zu beantragen. Der Antrag muss sich auf einen bestimmten Eignungsprüfungstermin beziehen und spätestens zwei Monate vor dem Monatsersten dieses Termins gestellt werden. Danach gestellte Anträge sind nur dann zu berücksichtigen, wenn anderenfalls die Vorgabe des § 4 Satz 2 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland nicht eingehalten werden könnte. Über den Antrag hat das Deutsche Patent- und Markenamt durch schriftlichen Bescheid zu entscheiden.
 
 (2) Sofern ein Prüfling nach § 6 Absatz 2 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland Prüfungsleistungen erlassen bekommen möchte, hat er dies unter Beifügung der erforderlichen Nachweise spätestens zusammen mit dem Antrag nach Absatz 1 zu beantragen. Über den Antrag hat der Prüfungsausschuss durch schriftlichen Bescheid zu entscheiden.
 
-
-## § 69 – Prüfungsausschuss
+# § 69 – Prüfungsausschuss
 
 (1) Für die Abnahme der Eignungsprüfung hat das Deutsche Patent- und Markenamt aus den Mitgliedern der Prüfungskommission einen Prüfungsausschuss zu bilden. Ein Prüfungsausschuss besteht aus
 
@@ -1175,8 +1102,7 @@ Für die Bestimmung und Veröffentlichung der Prüfungstermine und der Prüfungs
 
 (+++ § 69: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
 
-
-## § 70 – Prüfungsteile und Bewertungsmaßstab
+# § 70 – Prüfungsteile und Bewertungsmaßstab
 
 (1) Die Klausuren sollen die Lösung von Aufgaben aus der beruflichen Praxis eines Patentanwalts zum Gegenstand haben. Die Bearbeitungsdauer beträgt jeweils drei Stunden.
 
@@ -1186,15 +1112,13 @@ Für die Bestimmung und Veröffentlichung der Prüfungstermine und der Prüfungs
 
 (+++ § 70: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
 
-
-## § 71 – Bewertung der Klausuren
+# § 71 – Bewertung der Klausuren
 
 Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und unabhängig voneinander bewertet. Für die Bekanntgabe der Bewertungen gilt § 49 Absatz 5 entsprechend.
 
 (+++ § 71: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
 
-
-## § 72 – Beratung, Niederschrift und Bekanntgabe
+# § 72 – Beratung, Niederschrift und Bekanntgabe
 
 (1) Im Anschluss an den mündlichen Teil der Eignungsprüfung hat der Prüfungsausschuss in einer Beratung die Prüfungsentscheidung nach § 7 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland zu treffen.
 
@@ -1220,8 +1144,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (+++ § 72: Zur Anwendung vgl. § 75 Abs. 2, § 79 Abs. 1 +++)
 
-
-## § 73 – Erste Wiederholung
+# § 73 – Erste Wiederholung
 
 (1) Ein Antrag auf Wiederholung einer nicht bestandenen Eignungsprüfung ist beim Deutschen Patent- und Markenamt schriftlich zu stellen und muss sich auf einen bestimmten Eignungsprüfungstermin beziehen. Über den Antrag hat das Deutsche Patent- und Markenamt durch schriftlichen Bescheid zu entscheiden.
 
@@ -1230,8 +1153,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 (+++ § 73: Zur Anwendung vgl. § 79 Abs. 2 +++)  
 (+++ § 73 Abs. 2: Zur Anwendung vgl. § 74 Abs. 2 +++)
 
-
-## § 74 – Zweite Wiederholung
+# § 74 – Zweite Wiederholung
 
 (1) Wer die erste Wiederholung einer Eignungsprüfung nicht bestanden hat, kann sie unter den Voraussetzungen des § 55 Absatz 1 und 2 Satz 1 ein zweites Mal wiederholen. § 55 Absatz 2 Satz 2, Absatz 3 und 5 gilt entsprechend.
 
@@ -1239,8 +1161,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (+++ § 74: Zur Anwendung vgl. § 79 Abs. 2 +++)
 
-
-## § 75 – Geltung weiterer Vorschriften
+# § 75 – Geltung weiterer Vorschriften
 
 (1) Im Übrigen gelten für Eignungsprüfungen die §§ 33, 34, 37, 38, 39 Absatz 2 Satz 2, die §§ 41, 42 Absatz 1, 2, 3 Satz 1 Nummer 4, Satz 2 und 3, Absatz 4, die §§ 43 bis 45, 48, 50 Absatz 1 bis 3 und § 53 mit der Maßgabe, dass in den Fällen des § 43 Absatz 1 und des § 45 Absatz 1 und 3 die Klausuren den Anforderungen nicht genügen.
 
@@ -1249,8 +1170,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 (+++ § 75 Abs. 1: Zur Anwendung vgl. § 79 Abs. 1 +++)  
 (+++ § 75 Abs. 2: Zur Anwendung vgl. § 79 Abs. 2 +++)
 
-
-## § 76 – Übergangsbestimmungen zu Teil 1
+# § 76 – Übergangsbestimmungen zu Teil 1
 
 (1) Bei der Jahresfrist nach § 4 Absatz 2 Nummer 2 bleiben vor dem 1. Oktober 2017 liegende Zeiten unberücksichtigt.
 
@@ -1266,8 +1186,7 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (7) Das Insolvenzrecht und das Marken- und Designrecht können erst dann zum Gegenstand der Prüfung nach § 32 Absatz 4 werden, wenn sie zuvor Gegenstand des Studiengangs waren.
 
-
-## § 77 – Übergangsbestimmungen zu Teil 2
+# § 77 – Übergangsbestimmungen zu Teil 2
 
 (1) Abweichend von § 33 Absatz 1 Nummer 4 müssen bis zum 31. Dezember 2018 nur 40 Patentanwälte oder Patentassessoren berufen werden.
 
@@ -1281,24 +1200,20 @@ Jede Klausur wird von allen Mitgliedern des Prüfungsausschusses einzeln und una
 
 (6) Die §§ 54 und 55 sind auf Wiederholungsprüfungen, die vor dem 1. Juni 2018 stattfinden, nicht anzuwenden. Stattdessen gelten in diesen Fällen die §§ 39 und 40 Absatz 3 Satz 2 der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung.
 
-
-## § 78 – Übergangsbestimmungen zu Teil 3
+# § 78 – Übergangsbestimmungen zu Teil 3
 
 Die Vorschriften über die Sicherung des Unterhalts nach Teil 3 gelten nur für Unterhaltsdarlehen, die ab dem 1. Oktober 2017 gewährt werden. Für davor gewährte Darlehen gelten die Vorschriften des Dritten Teils der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung.
 
-
-## § 79 – Übergangsbestimmungen zu Teil 4
+# § 79 – Übergangsbestimmungen zu Teil 4
 
 (1) Die §§ 69 bis 72 sind auf Eignungsprüfungen, die vor dem 1. Juni 2018 stattfinden, nicht anzuwenden. Stattdessen gelten in diesen Fällen die §§ 44a, 44e Absatz 1 Satz 1, Absatz 2 Satz 1 und § 44f Absatz 1 bis 3 der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung. Zudem gelten § 36 Absatz 1 Satz 1, Absatz 2, § 37 Absatz 2 und § 38 Absatz 6 und 7 Satz 1 und 3 der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung entsprechend. Die Verweisungen in § 75 Absatz 1 gelten für Eignungsprüfungen, die vor dem 1. Juni 2018 stattfinden, nur nach Maßgabe von § 77 Absatz 3 und 4.
 
 (2) Die §§ 73, 74 und 75 Absatz 2 sind auf Wiederholungen von Eignungsprüfungen, die vor dem 1. Juni 2018 stattfinden, nicht anzuwenden. Stattdessen gilt in diesen Fällen § 44g Satz 1, 2, 4 und 5 der Patentanwaltsausbildungs- und -prüfungsverordnung in der bis zum 30. September 2017 geltenden Fassung.
 
-
-## § 80 – Inkrafttreten, Außerkrafttreten
+# § 80 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2017 in Kraft. Gleichzeitig tritt die Patentanwaltsausbildungs- und -prüfungsverordnung in der Fassung der Bekanntmachung vom 8. Dezember 1977 (BGBl. I S. 2491), die zuletzt durch Artikel 213 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

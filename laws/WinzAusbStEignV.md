@@ -1,15 +1,11 @@
-# [WinzAusbStEignV] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Winzer/zur Winzerin
-
-Ausfertigungsdatum: 09.01.2001
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Winzer/zur Winzerin
+% Ausfertigungsdatum: 09.01.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+# § 1 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 22 Abs. 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein, der nach Art und Umfang der Produktion sowie nach seinem Bewirtschaftungszustand die Voraussetzungen dafür bietet, dass dem Auszubildenden die in der Verordnung über die Berufsausbildung zum Winzer/zur Winzerin vom 3. Februar 1997 (BGBl. I S. 161) geforderten Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt werden können. Eine kontinuierliche Anleitung muss gewährleistet sein.
 
@@ -25,12 +21,10 @@ Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (7) Ein Betrieb ist als Ausbildungsstätte ungeeignet, wenn über das Vermögen des Inhabers ein Insolvenz- oder Vergleichsverfahren eröffnet worden ist.
 
-
-## § 2 – Ausnahmeregelungen
+# § 2 – Ausnahmeregelungen
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden, wenn sichergestellt ist, dass die durch die Ausbildungsstätte nicht vermittelbaren erforderlichen Fertigkeiten und Kenntnisse durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen anerkannten Ausbildungsstätte oder in Form überbetrieblicher Ausbildung vermittelt werden können.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

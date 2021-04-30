@@ -1,20 +1,15 @@
-# [WpÜGGebV] Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz  (WpÜG-Gebührenverordnung)
-
-Ausfertigungsdatum: 27.12.2001
-
+% Verordnung über Gebühren nach dem Wertpapiererwerbs- und Übernahmegesetz  (WpÜG-Gebührenverordnung)
+% Ausfertigungsdatum: 27.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 47 Satz 2 des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001 (BGBl. I S. 3822) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt zur Deckung der Verwaltungskosten für die nachfolgend aufgezählten Handlungen nach dem Wertpapiererwerbs- und Übernahmegesetz Gebühren und Auslagen nach Maßgabe dieser Verordnung.
 
-
-## § 2 – Gebührenpflichtige Handlungen
+# § 2 – Gebührenpflichtige Handlungen
 
 (1) Gebührenpflichtige Handlungen sind:
 
@@ -38,13 +33,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt zur 
 
 (2) Eine Gebühr wird auch erhoben, wenn ein Antrag auf Vornahme einer nach Absatz 1 Nr. 1, 4, 5, 7 oder Nr. 8 gebührenpflichtigen Handlung nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen wird.
 
-
-## § 3 – Auslagen
+# § 3 – Auslagen
 
 Als Auslagen werden die Kosten der Veröffentlichung nach § 44 des Wertpapiererwerbs- und Übernahmegesetzes, sowie die Kosten, die im Rahmen des Widerspruchsverfahrens den Mitgliedern des Widerspruchsausschusses für die Teilnahme an den Sitzungen entstehen, erhoben. Im Übrigen gilt § 23 Absatz 6 des Bundesgebührengesetzes.
 
-
-## § 4 – Höhe der Gebühren
+# § 4 – Höhe der Gebühren
 
 (1) Die Gebühr beträgt für individuell zurechenbare öffentliche Leistungen  
 
@@ -71,12 +64,10 @@ Die Gebühr beträgt für Entscheidungen über Widersprüche gegen individuell z
 
 (3) Im Fall einer Antragsrücknahme nach § 2 Abs. 2 ist die Hälfte der für die beantragte individuell zurechenbare öffentliche Leistung vorgesehenen Gebühr zu entrichten.
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.

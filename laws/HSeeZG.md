@@ -1,10 +1,7 @@
-# [HSeeZG] Gesetz über die internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen und über die internationale strafrechtliche Zusammenarbeit auf Hoher See  (Hohe-See-Zusammenarbeitsgesetz - HSeeZG)
-
-Ausfertigungsdatum: 25.11.2015
-
+% Gesetz über die internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen und über die internationale strafrechtliche Zusammenarbeit auf Hoher See  (Hohe-See-Zusammenarbeitsgesetz - HSeeZG)
+% Ausfertigungsdatum: 25.11.2015
  
-
-## § 1 – Ausgehende Ersuchen
+# § 1 – Ausgehende Ersuchen
 
 (1) Um einen Verstoß gegen Sanktionsbeschlüsse des Sicherheitsrates der Vereinten Nationen nach Kapitel VII der Charta der Vereinten Nationen (Sanktionsrecht der Vereinten Nationen) abzuwehren, können das Auswärtige Amt, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam einen ausländischen Staat ersuchen, ein Schiff, das die Bundesflagge führt und sich seewärts der Grenze des deutschen Küstenmeeres befindet, anzuhalten, zu betreten, zu durchsuchen und weitere geeignete und erforderliche Maßnahmen zum Schutz der öffentlichen Sicherheit und der auswärtigen Interessen der Bundesrepublik Deutschland durchzuführen.
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 25.11.2015
 
 (5) Das Ersuchen wird vom Auswärtigen Amt an den ersuchten Staat übermittelt.
 
-
-## § 2 – Eingehende Ersuchen
+# § 2 – Eingehende Ersuchen
 
 (1) Um einen Verstoß gegen Sanktionsrecht der Vereinten Nationen abzuwehren, können das Auswärtige Amt, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Verkehr und digitale Infrastruktur gemeinsam ein Ersuchen eines ausländischen Staates zur Durchführung von Maßnahmen im Sinne des § 1 Absatz 1 gegenüber einem Schiff, das die Bundesflagge führt und sich seewärts der Grenze des deutschen Küstenmeeres befindet, bewilligen, wenn die Voraussetzungen des § 1 Absatz 2 vorliegen.
 
@@ -37,8 +33,7 @@ Ausfertigungsdatum: 25.11.2015
 
 (4) Die Bewilligung wird vom Auswärtigen Amt an den ersuchenden Staat übermittelt.
 
-
-## § 3 – Befugnisse des Kapitäns nach dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt (SUA-Übereinkommen) und dem Protokoll vom 14. Oktober 2005 zu diesem Übereinkommen (SUA-Änderungsprotokoll)
+# § 3 – Befugnisse des Kapitäns nach dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt (SUA-Übereinkommen) und dem Protokoll vom 14. Oktober 2005 zu diesem Übereinkommen (SUA-Änderungsprotokoll)
 
 (1) Hat der Kapitän eines Schiffes, das die Bundesflagge führt, Anlass zu der Annahme, dass eine Person an Bord eine Straftat begangen hat, die in Artikel 3, 3bis</sup>, 3ter</sup> oder 3quater</sup> des Übereinkommens vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt (BGBl. 1990 II S. 494, 496) in der Fassung von Artikel 8 des Änderungsprotokolls vom 14. Oktober 2005 genannt ist, und hat er die Absicht, diese Person einem ausländischen Staat zu übergeben, so ist er verpflichtet, die Behörden dieses Empfangsstaates, sofern durchführbar, vor Einlaufen in das Küstenmeer dieses Staates von dieser Absicht sowie den Gründen für die Übergabe zu unterrichten.
 
@@ -58,15 +53,13 @@ unverzüglich im Schiffstagebuch zu dokumentieren.
 
 (+++ § 3: Zur Anwendung vgl. § 10 iVm G v. 23.11.2015 II 1446 u. Bek v. 10.3.2016 II 506 +++)
 
-
-## § 4 – Rechtshilfeersuchen nach dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen
+# § 4 – Rechtshilfeersuchen nach dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen
 
 (1) Erhält eine Schifffahrtspolizeibehörde oder die für die Hafenstaatkontrolle zuständige Schiffssicherheitsbehörde ein Ersuchen im Sinne des Artikels 6 Absatz 5 des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen in der Fassung der Bekanntmachung vom 15. Juni 1996 (BGBl. 1996 II S. 399) um Untersuchung eines Schiffes, so leitet sie, wenn es sich um ein Ersuchen um Beweissicherung nach Abschnitt 5 der Pariser Vereinbarung vom 26. Januar 1982 über die Hafenstaatkontrolle in der Fassung der Bekanntmachung vom 6. Februar 2013 (BGBl. 2013 II S. 187, 188), die durch die 33. Änderung (Bekanntmachung vom 5. Februar 2014 (BGBl. 2014 II S. 140, 141)) geändert worden ist, handelt, dieses Rechtshilfeersuchen unverzüglich an die zuständige Strafverfolgungsbehörde weiter.
 
 (2) Ist in einem ausländischen Staat eine entsprechende Regelung vorgesehen, so verliert ein solches Ersuchen einschließlich der damit zusammenhängenden Unterlagen nicht seinen Charakter als Rechtshilfeersuchen, wenn es von einer Schifffahrtspolizeibehörde oder der für die Durchführung der genannten Vereinbarung zuständigen Schiffssicherheitsbehörde dieses Staates entgegengenommen werden kann.
 
-
-## § 5 – Rechtshilfeersuchen in Strafsachen
+# § 5 – Rechtshilfeersuchen in Strafsachen
 
 (1) Ein Ersuchen an einen ausländischen Staat zur Durchführung von Strafverfolgungsmaßnahmen seewärts der Grenze des deutschen Küstenmeeres kann zur Erfüllung völkerrechtlicher Verpflichtungen oder zur Wahrnehmung völkerrechtlicher Befugnisse der Bundesrepublik Deutschland gestellt werden, wenn
 
@@ -98,15 +91,13 @@ Die Genehmigung kann im Einzelfall hinsichtlich des Umfanges der beabsichtigten 
 
 (6) Soweit nicht anderweitig geregelt, ist das Bundeskriminalamt für die Entgegennahme eingehender Ersuchen ausländischer Staaten und für die Weiterleitung der Entscheidung hierüber sowie für die Weiterleitung ausgehender Ersuchen an einen ausländischen Staat nach dieser Vorschrift zuständig.
 
-
-## § 6 – Entschädigung
+# § 6 – Entschädigung
 
 (1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind die §§ 51 bis 56 des Bundespolizeigesetzes entsprechend anzuwenden.
 
 (2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 51 bis 56, ausgenommen § 52 Absatz 1 Satz 2 und Absatz 2, des Bundespolizeigesetzes entsprechend anzuwenden.
 
-
-## § 7 – Datenverarbeitung
+# § 7 – Datenverarbeitung
 
 Die nach diesem Gesetz zuständigen Bundesbehörden können personenbezogene Daten, auch automatisiert, verarbeiten, wenn es zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist. Dies betrifft insbesondere personenbezogene Daten,
 
@@ -118,13 +109,11 @@ Die nach diesem Gesetz zuständigen Bundesbehörden können personenbezogene Dat
 
 um Strafverfolgungsmaßnahmen nach § 5 Absatz 1 bis 3 durchzusetzen.
 
-
-## § 8 – Verordnungsermächtigung
+# § 8 – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz, dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur ohne Zustimmung des Bundesrates die Vollzugsbeamten des Bundes zu bezeichnen, die für die Durchführung strafprozessualer Maßnahmen zur Erfüllung völkerrechtlicher Verpflichtungen oder zur Wahrnehmung völkerrechtlicher Befugnisse seewärts der Grenze des deutschen Küstenmeeres zuständig sind. Die Vollzugsbeamten des Bundes sind insoweit Ermittlungspersonen der Staatsanwaltschaft (§ 152 des Gerichtsverfassungsgesetzes) und haben die Rechte und Pflichten der Polizeibeamten nach der Strafprozessordnung.
 
-
-## § 9 – Bußgeldvorschriften
+# § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -136,15 +125,13 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Re
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Seeschifffahrt und Hydrographie.
 
-
-## § 10 – Anwendungsklausel
+# § 10 – Anwendungsklausel
 
 (1) § 3 ist vorbehaltlich dessen Absatz 5 erst ab dem Tag anzuwenden, an dem das Protokoll vom 14. Oktober 2005 zu dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschifffahrt (BGBl. 1990 II S. 494, 496) gemäß seinem Artikel 18 für die Bundesrepublik Deutschland in Kraft getreten ist.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz gibt den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
-
-## § 11 – Unberührtheitsklausel
+# § 11 – Unberührtheitsklausel
 
 (1) Maßnahmen der Bundespolizei auf See seewärts der Grenze des deutschen Küstenmeeres nach dem Bundespolizeigesetz erfolgen unbeschadet der Befugnisse der zuständigen Behörden nach diesem Gesetz.
 

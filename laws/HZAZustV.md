@@ -1,17 +1,11 @@
-# [HZAZustV] Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich mehrerer Hauptzollämter  (Hauptzollamtszuständigkeitsverordnung - HZAZustV)
-
-Ausfertigungsdatum: 13.11.2020
-
+% Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich mehrerer Hauptzollämter  (Hauptzollamtszuständigkeitsverordnung - HZAZustV)
+% Ausfertigungsdatum: 13.11.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Absatz 3 des Finanzverwaltungsgesetzes, der durch Artikel 1 Nummer 7 Buchstabe b des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert worden ist, und des § 387 Absatz 2 Satz 1 bis 3 sowie des § 409 Satz 2 in Verbindung mit § 387 Absatz 2 Satz 1 bis 3 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61) verordnet das Bundesministerium der Finanzen:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -21,8 +15,9 @@ Auf Grund des § 12 Absatz 3 des Finanzverwaltungsgesetzes, der durch Artikel 1 
 
  
 
+ 
 
-## § 1 – Anwendungsbereich, Begriffsbestimmungen
+# § 1 – Anwendungsbereich, Begriffsbestimmungen
 
 (1) Die in Abschnitt 2 dieser Verordnung aufgeführten Zuständigkeitsübertragungen für die Festsetzung und die Erhebung der Kraftfahrzeugsteuer schließen die Zuständigkeit für das gerichtliche und das außergerichtliche Rechtsbehelfsverfahren mit ein. Satz 1 gilt nicht für die Festsetzung und die Erhebung der Kraftfahrzeugsteuer mittels Steuerkarte durch die Zollämter und die Kontrolleinheiten der Sachgebiete C in folgenden Fällen:
 
@@ -66,8 +61,7 @@ Auf Grund des § 12 Absatz 3 des Finanzverwaltungsgesetzes, der durch Artikel 1 
 
 2. die Anforderung von Säumniszuschlägen durch die Vollstreckungsbehörden, einschließlich der Verwertung beweglicher Sachen.
 
-
-## § 2 – Hauptzollamt Aachen
+# § 2 – Hauptzollamt Aachen
 
 Dem Hauptzollamt Aachen werden die Zuständigkeiten übertragen für
 
@@ -81,8 +75,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Aachen als erstes mit
 
 3. den Aufgabenbereich Vollstreckung des Hauptzollamts Köln, mit Ausnahme des Oberbergischen Kreises, des Rheinisch-Bergischen Kreises und der kreisfreien Stadt Leverkusen.
 
-
-## § 3 – Hauptzollamt Augsburg
+# § 3 – Hauptzollamt Augsburg
 
 Dem Hauptzollamt Augsburg werden die Zuständigkeiten übertragen für
 
@@ -92,8 +85,7 @@ Dem Hauptzollamt Augsburg werden die Zuständigkeiten übertragen für
 
 3. die Straf- und Bußgeldsachen der Hauptzollämter Landshut, München und Rosenheim.
 
-
-## § 4 – Hauptzollamt Berlin
+# § 4 – Hauptzollamt Berlin
 
 Dem Hauptzollamt Berlin werden die Zuständigkeiten übertragen für
 
@@ -107,13 +99,11 @@ Dem Hauptzollamt Berlin werden die Zuständigkeiten übertragen für
 
 5. die Straf- und Bußgeldsachen des Hauptzollamts Potsdam.
 
-
-## § 5 – Hauptzollamt Bielefeld
+# § 5 – Hauptzollamt Bielefeld
 
 Dem Hauptzollamt Bielefeld wird die Zuständigkeit für den Aufgabenbereich Vollstreckung des Hauptzollamts Münster, mit Ausnahme des Kreises Borken, übertragen.
 
-
-## § 6 – Hauptzollamt Braunschweig
+# § 6 – Hauptzollamt Braunschweig
 
 Dem Hauptzollamt Braunschweig werden die Zuständigkeiten übertragen für
 
@@ -137,8 +127,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Braunschweig als erst
 
 8. den Aufgabenbereich Vollstreckung des Hauptzollamts Hannover.
 
-
-## § 7 – Hauptzollamt Bremen
+# § 7 – Hauptzollamt Bremen
 
 Dem Hauptzollamt Bremen werden die Zuständigkeiten übertragen für
 
@@ -156,8 +145,7 @@ Dem Hauptzollamt Bremen werden die Zuständigkeiten übertragen für
 
 7. die Straf- und Bußgeldsachen der Hauptzollämter Oldenburg und Osnabrück.
 
-
-## § 8 – Hauptzollamt Darmstadt
+# § 8 – Hauptzollamt Darmstadt
 
 Dem Hauptzollamt Darmstadt werden die Zuständigkeiten übertragen für
 
@@ -169,8 +157,7 @@ Dem Hauptzollamt Darmstadt werden die Zuständigkeiten übertragen für
 
 4. die Sonderprüfungen der Hauptzollämter Frankfurt am Main, Gießen, Koblenz und Saarbrücken.
 
-
-## § 9 – Hauptzollamt Dresden
+# § 9 – Hauptzollamt Dresden
 
 Dem Hauptzollamt Dresden werden die Zuständigkeiten übertragen für
 
@@ -186,8 +173,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Dresden als erstes mi
 
 4. die Marktordnungsprüfungen, einschließlich der Überwachungsmaßnahmen, und die Sonderprüfungen des Hauptzollamts Erfurt.
 
-
-## § 10 – Hauptzollamt Duisburg
+# § 10 – Hauptzollamt Duisburg
 
 Dem Hauptzollamt Duisburg werden die Zuständigkeiten übertragen für
 
@@ -201,8 +187,7 @@ Dem Hauptzollamt Duisburg werden die Zuständigkeiten übertragen für
 
 5. den Aufgabenbereich Vollstreckung des Hauptzollamts Krefeld, mit Ausnahme des Rhein-Kreises Neuss, und des Hauptzollamts Münster für den Kreis Borken.
 
-
-## § 11 – Hauptzollamt Düsseldorf
+# § 11 – Hauptzollamt Düsseldorf
 
 Dem Hauptzollamt Düsseldorf werden die Zuständigkeiten übertragen für
 
@@ -212,13 +197,11 @@ Dem Hauptzollamt Düsseldorf werden die Zuständigkeiten übertragen für
 
 3. den Aufgabenbereich Vollstreckung des Hauptzollamts Köln für den Oberbergischen Kreis, den Rheinisch-Bergischen Kreis und die kreisfreie Stadt Leverkusen und des Hauptzollamts Krefeld für den Rhein-Kreis Neuss.
 
-
-## § 12 – Hauptzollamt Erfurt
+# § 12 – Hauptzollamt Erfurt
 
 Dem Hauptzollamt Erfurt wird die Zuständigkeit für die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Dresden übertragen.
 
-
-## § 13 – Hauptzollamt Frankfurt am Main
+# § 13 – Hauptzollamt Frankfurt am Main
 
 Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten übertragen für
 
@@ -226,8 +209,7 @@ Dem Hauptzollamt Frankfurt am Main werden die Zuständigkeiten übertragen für
 
 2. die Straf- und Bußgeldsachen des Hauptzollamts Gießen.
 
-
-## § 14 – Hauptzollamt Frankfurt (Oder)
+# § 14 – Hauptzollamt Frankfurt (Oder)
 
 Dem Hauptzollamt Frankfurt (Oder) werden die Zuständigkeiten übertragen für
 
@@ -235,8 +217,7 @@ Dem Hauptzollamt Frankfurt (Oder) werden die Zuständigkeiten übertragen für
 
 2. die Festsetzung und die Erhebung der Kraftfahrzeugsteuer der Hauptzollämter Berlin, Potsdam und des Hauptzollamts Erfurt, mit Ausnahme der Landkreise Mittelsachsen und Meißen.
 
-
-## § 15 – Hauptzollamt Gießen
+# § 15 – Hauptzollamt Gießen
 
 Dem Hauptzollamt Gießen werden die Zuständigkeiten übertragen für
 
@@ -262,8 +243,7 @@ b) eine Beitreibung der Forderungen bei ihrem steuerlichen Beauftragten erfolglo
 
 7. die Vollstreckung und die Erzwingung von Sicherheiten wegen öffentlich-rechtlicher Geldforderungen der Bundespolizei gegen ausländische Luftverkehrsgesellschaften aller Hauptzollämter bundesweit.
 
-
-## § 16 – Hauptzollamt Hamburg
+# § 16 – Hauptzollamt Hamburg
 
 Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 
@@ -289,8 +269,7 @@ Dem Hauptzollamt Hamburg werden die Zuständigkeiten übertragen für
 
 11. den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe für das Stadtgebiet Hamburg.
 
-
-## § 17 – Hauptzollamt Hannover
+# § 17 – Hauptzollamt Hannover
 
 Dem Hauptzollamt Hannover werden die Zuständigkeiten übertragen für
 
@@ -306,8 +285,7 @@ Dem Hauptzollamt Hannover werden die Zuständigkeiten übertragen für
 
 6. die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Braunschweig, Bremen, Magdeburg, Oldenburg und Osnabrück.
 
-
-## § 18 – Hauptzollamt Heilbronn
+# § 18 – Hauptzollamt Heilbronn
 
 Dem Hauptzollamt Heilbronn werden die Zuständigkeiten übertragen für
 
@@ -331,8 +309,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Heilbronn als erstes 
 
 8. den Aufgabenbereich Vollstreckung aller Hauptzollämter bundesweit, sofern eine rückständige Abgabe auf Kaffee, kaffeehaltige Waren, Schaumwein, Zwischenerzeugnisse sowie auf Alkohol und alkoholhaltige Waren im Rahmen eines IT-Verbrauchsteuerverfahrens bei der Zollzahlstelle des Hauptzollamts Stuttgart zum Soll gestellt wurde.
 
-
-## § 19 – Hauptzollamt Itzehoe
+# § 19 – Hauptzollamt Itzehoe
 
 Dem Hauptzollamt Itzehoe werden die Zuständigkeiten übertragen für
 
@@ -346,8 +323,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Itzehoe als erstes mi
 
 3. die Straf- und Bußgeldsachen des Hauptzollamts Kiel.
 
-
-## § 20 – Hauptzollamt Karlsruhe
+# § 20 – Hauptzollamt Karlsruhe
 
 Dem Hauptzollamt Karlsruhe werden die Zuständigkeiten übertragen für
 
@@ -355,8 +331,7 @@ Dem Hauptzollamt Karlsruhe werden die Zuständigkeiten übertragen für
 
 2. die Straf- und Bußgeldsachen der Hauptzollämter Lörrach und Singen.
 
-
-## § 21 – Hauptzollamt Kiel
+# § 21 – Hauptzollamt Kiel
 
 Dem Hauptzollamt Kiel werden die Zuständigkeiten übertragen für
 
@@ -380,8 +355,7 @@ Dem Hauptzollamt Kiel werden die Zuständigkeiten übertragen für
 
 10. den Aufgabenbereich Vollstreckung des Hauptzollamts Itzehoe, mit Ausnahme des Hamburger Stadtgebiets.
 
-
-## § 22 – Hauptzollamt Koblenz
+# § 22 – Hauptzollamt Koblenz
 
 Dem Hauptzollamt Koblenz werden die Zuständigkeiten übertragen für
 
@@ -389,13 +363,11 @@ Dem Hauptzollamt Koblenz werden die Zuständigkeiten übertragen für
 
 2. den Aufgabenbereich Vollstreckung des Hauptzollamts Saarbrücken.
 
-
-## § 23 – Hauptzollamt Köln
+# § 23 – Hauptzollamt Köln
 
 Dem Hauptzollamt Köln wird die Zuständigkeit für die Zollprüfungen, die Präferenzprüfungen und die Außenprüfungen, einschließlich der Überwachungsmaßnahmen, des Hauptzollamts Aachen übertragen.
 
-
-## § 24 – Hauptzollamt Krefeld
+# § 24 – Hauptzollamt Krefeld
 
 Dem Hauptzollamt Krefeld werden die Zuständigkeiten übertragen für
 
@@ -407,8 +379,7 @@ Dem Hauptzollamt Krefeld werden die Zuständigkeiten übertragen für
 
 4. die Straf- und Bußgeldsachen der Hauptzollämter Duisburg und Düsseldorf.
 
-
-## § 25 – Hauptzollamt Landshut
+# § 25 – Hauptzollamt Landshut
 
 Dem Hauptzollamt Landshut werden die Zuständigkeiten übertragen für
 
@@ -418,8 +389,7 @@ Dem Hauptzollamt Landshut werden die Zuständigkeiten übertragen für
 
 3. den Aufgabenbereich Vollstreckung, mit Ausnahme des Verwertungsverfahrens, des Hauptzollamts Augsburg und des Hauptzollamts München für die Städte Garching bei München und Unterschleißheim sowie die Gemeinden Aschheim, Ismaning, Kirchheim bei München, Oberschleißheim und Unterföhring des Landkreises München und das Gebiet des Flughafens München.
 
-
-## § 26 – Hauptzollamt Lörrach
+# § 26 – Hauptzollamt Lörrach
 
 Dem Hauptzollamt Lörrach werden die Zuständigkeiten übertragen für
 
@@ -429,13 +399,11 @@ Dem Hauptzollamt Lörrach werden die Zuständigkeiten übertragen für
 
 3. den Aufgabenbereich Vollstreckung der Hauptzollämter Karlsruhe und Singen.
 
-
-## § 27 – Hauptzollamt Magdeburg
+# § 27 – Hauptzollamt Magdeburg
 
 Dem Hauptzollamt Magdeburg wird die Zuständigkeit für die Sonderprüfungen der Hauptzollämter Braunschweig, Hannover und Osnabrück übertragen.
 
-
-## § 28 – Hauptzollamt München
+# § 28 – Hauptzollamt München
 
 Dem Hauptzollamt München werden die Zuständigkeiten übertragen für
 
@@ -447,8 +415,7 @@ Dem Hauptzollamt München werden die Zuständigkeiten übertragen für
 
 4. die Außenwirtschaftsprüfungen, einschließlich der Überwachungsmaßnahmen, der Hauptzollämter Augsburg, Landshut und Rosenheim.
 
-
-## § 29 – Hauptzollamt Münster
+# § 29 – Hauptzollamt Münster
 
 Dem Hauptzollamt Münster werden die Zuständigkeiten übertragen für
 
@@ -466,8 +433,7 @@ Dem Hauptzollamt Münster werden die Zuständigkeiten übertragen für
 
 7. die Straf- und Bußgeldsachen der Hauptzollämter Bielefeld und Dortmund.
 
-
-## § 30 – Hauptzollamt Nürnberg
+# § 30 – Hauptzollamt Nürnberg
 
 Dem Hauptzollamt Nürnberg werden die Zuständigkeiten übertragen für
 
@@ -483,13 +449,11 @@ Dem Hauptzollamt Nürnberg werden die Zuständigkeiten übertragen für
 
 6. die Sonderprüfungen der Hauptzollämter Augsburg, Landshut, München, Regensburg, Rosenheim und Schweinfurt.
 
-
-## § 31 – Hauptzollamt Oldenburg
+# § 31 – Hauptzollamt Oldenburg
 
 Dem Hauptzollamt Oldenburg wird die Zuständigkeit für die Anmahnung öffentlich-rechtlicher Geldforderungen und die Anforderung von Säumniszuschlägen des Hauptzollamts Bremen übertragen, sofern der Zollzahlstelle des Hauptzollamts Oldenburg die Überwachung des Zahlungseingangs obliegt.
 
-
-## § 32 – Hauptzollamt Osnabrück
+# § 32 – Hauptzollamt Osnabrück
 
 Dem Hauptzollamt Osnabrück werden die Zuständigkeiten übertragen für
 
@@ -501,8 +465,7 @@ Dem Hauptzollamt Osnabrück werden die Zuständigkeiten übertragen für
 
 4. den Aufgabenbereich Vollstreckung der Hauptzollämter Bremen und Oldenburg.
 
-
-## § 33 – Hauptzollamt Potsdam
+# § 33 – Hauptzollamt Potsdam
 
 Dem Hauptzollamt Potsdam werden die Zuständigkeiten übertragen für
 
@@ -520,8 +483,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Potsdam als erstes mi
 
 5. die Vollstreckung in bewegliche Sachen gegen im Ausland ansässige Schuldner im Inland nach dem Grenzausschreibungsverfahren aller Hauptzollämter bundesweit.
 
-
-## § 34 – Hauptzollamt Regensburg
+# § 34 – Hauptzollamt Regensburg
 
 Dem Hauptzollamt Regensburg werden die Zuständigkeiten übertragen für
 
@@ -533,8 +495,7 @@ Dem Hauptzollamt Regensburg werden die Zuständigkeiten übertragen für
 
 4. den Aufgabenbereich Vollstreckung der Hauptzollämter Nürnberg und Schweinfurt.
 
-
-## § 35 – Hauptzollamt Rosenheim
+# § 35 – Hauptzollamt Rosenheim
 
 Dem Hauptzollamt Rosenheim werden die Zuständigkeiten übertragen für
 
@@ -552,8 +513,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Rosenheim als erstes 
 
 5. den Aufgabenbereich Vollstreckung des Hauptzollamts München für die Landkreise Fürstenfeldbruck und München sowie die Stadt München, einschließlich des Verwertungsverfahrens der Hauptzollämter Augsburg, Landshut und München, sofern nicht die in § 25 Nummer 3 genannten Städte und Gemeinden betroffen sind.
 
-
-## § 36 – Hauptzollamt Saarbrücken
+# § 36 – Hauptzollamt Saarbrücken
 
 Dem Hauptzollamt Saarbrücken werden die Zuständigkeiten übertragen für
 
@@ -561,8 +521,7 @@ Dem Hauptzollamt Saarbrücken werden die Zuständigkeiten übertragen für
 
 2. die Straf- und Bußgeldsachen der Hauptzollämter Darmstadt und Koblenz.
 
-
-## § 37 – Hauptzollamt Schweinfurt
+# § 37 – Hauptzollamt Schweinfurt
 
 Dem Hauptzollamt Schweinfurt werden die Zuständigkeiten übertragen für
 
@@ -574,8 +533,7 @@ b) aller Hauptzollämter bundesweit, wenn das Hauptzollamt Schweinfurt als erste
 
 2. die Straf- und Bußgeldsachen der Hauptzollämter Nürnberg und Regensburg.
 
-
-## § 38 – Hauptzollamt Singen
+# § 38 – Hauptzollamt Singen
 
 Dem Hauptzollamt Singen werden die Zuständigkeiten übertragen für
 
@@ -585,8 +543,7 @@ Dem Hauptzollamt Singen werden die Zuständigkeiten übertragen für
 
 3. die Zollprüfungen von Zollanmeldern mit Sitz in der Schweiz oder in Liechtenstein, die bei den Zollstellen der Hauptzollämter Lörrach, Singen und Ulm Zollanmeldungen im eigenen Namen abgegeben haben.
 
-
-## § 39 – Hauptzollamt Stuttgart
+# § 39 – Hauptzollamt Stuttgart
 
 Dem Hauptzollamt Stuttgart werden die Zuständigkeiten übertragen für
 
@@ -606,8 +563,7 @@ Dem Hauptzollamt Stuttgart werden die Zuständigkeiten übertragen für
 
 8. die Überwachung der allgemein zugelassenen Steuerbürgen der Hauptzollämter Heilbronn und Ulm.
 
-
-## § 40 – Hauptzollamt Ulm
+# § 40 – Hauptzollamt Ulm
 
 Dem Hauptzollamt Ulm werden die Zuständigkeiten übertragen für
 
@@ -625,7 +581,6 @@ b) für die Städte Burgau, Günzburg und Leipheim sowie die Gemeinden Bibertal,
 
 5. die Straf- und Bußgeldsachen der Hauptzollämter Heilbronn und Stuttgart und des Hauptzollamts Augsburg für den Bodensee und den grenznahen Raum zur Schweiz.
 
-
-## § 41 – Inkrafttreten, Außerkrafttreten
+# § 41 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt die Hauptzollamtszuständigkeitsverordnung vom 18. November 2019 (BGBl. I S. 1781) außer Kraft.

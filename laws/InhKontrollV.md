@@ -1,10 +1,7 @@
-# [InhKontrollV] Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes    (Inhaberkontrollverordnung - InhKontrollV)
-
-Ausfertigungsdatum: 20.03.2009
-
+% Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 104 des Versicherungsaufsichtsgesetzes    (Inhaberkontrollverordnung - InhKontrollV)
+% Ausfertigungsdatum: 20.03.2009
  
-
-## § 1 – Zielunternehmen
+# § 1 – Zielunternehmen
 
 Zielunternehmen im Sinne dieser Verordnung ist
 
@@ -20,8 +17,7 @@ Zielunternehmen im Sinne dieser Verordnung ist
 
 an dem oder an der eine bedeutende Beteiligung im Sinne des § 1 Absatz 9 des Kreditwesengesetzes oder des § 7a Absatz 2 Satz 3 bis 6 des Versicherungsaufsichtsgesetzes erworben, eine bestehende bedeutende Beteiligung verändert oder eine bedeutende Beteiligung aufgegeben werden soll.
 
-
-## § 2 – Anzeigenexemplare, Einreichungsweg und Übersetzungen
+# § 2 – Anzeigenexemplare, Einreichungsweg und Übersetzungen
 
 (1) Ist das Zielunternehmen ein Kreditinstitut oder Finanzdienstleistungsinstitut, sind die Anzeigen nach § 2c Absatz 1, 1b Satz 8 und Absatz 3 des Kreditwesengesetzes und die Anzeigen und Mitteilungen nach den §§ 7, 18 und 19 jeweils in einfacher Ausfertigung der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der für das betroffene Kreditinstitut oder Finanzdienstleistungsinstitut zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen. Dies gilt für nachgeforderte Unterlagen und Erklärungen entsprechend.
 
@@ -29,13 +25,11 @@ an dem oder an der eine bedeutende Beteiligung im Sinne des § 1 Absatz 9 des Kr
 
 (3) Unterlagen und Erklärungen, die nicht in deutscher Sprache verfasst sind, hat der Anzeigepflichtige zusätzlich zum Original in einer amtlich beglaubigten oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigten Übersetzung einzureichen. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann im Einzelfall auf amtlich beglaubigte Übersetzungen verzichten.
 
-
-## § 3 – Angaben zum Empfangsbevollmächtigten im Inland
+# § 3 – Angaben zum Empfangsbevollmächtigten im Inland
 
 Anzeigepflichtige ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland müssen im Formular nach § 6 Absatz 1 Satz 1 und § 17 Absatz 1 Satz 1 den Namen und die Anschrift eines Empfangsbevollmächtigten im Inland angeben. Die Bevollmächtigung ist durch die Beifügung einer amtlich beglaubigten Kopie der entsprechenden Urkunde nachzuweisen.
 
-
-## § 4 – Angaben zu Personen, Personenhandelsgesellschaften, Gesellschaften anderer Rechtsform und Zweckvermögen
+# § 4 – Angaben zu Personen, Personenhandelsgesellschaften, Gesellschaften anderer Rechtsform und Zweckvermögen
 
 (1) Die nach dieser Verordnung und nach § 2c Absatz 1 Satz 2 letzter Halbsatz des Kreditwesengesetzes und § 104 Absatz 1 Satz 2 letzter Halbsatz des Versicherungsaufsichtsgesetzes vom Anzeigepflichtigen anzugebenden natürlichen Personen sind mit
 
@@ -67,8 +61,7 @@ zu benennen.
 
 (+++ §§ 4, 5 u. 16: Zur Anwendung vgl. § 14 Abs. 5 Satz 3 AnzV 2016 +++)
 
-
-## § 5 – Kapital- und Stimmrechtsanteile
+# § 5 – Kapital- und Stimmrechtsanteile
 
 (1) Bei der Berechnung der Kapital- oder Stimmrechtsanteile nach § 8 Nummer 5, § 11 Nummer 1 und 3 sowie § 12 Absatz 2 Nummer 3 und 4 und Absatz 4 Nummer 2 sind unmittelbar und mittelbar gehaltene Anteile zu berücksichtigen. Für die Berechnung der Stimmrechtsanteile gelten § 1 Absatz 9 Satz 2 und 3 des Kreditwesengesetzes und § 7a Absatz 2 Satz 4 und 5 des Versicherungsaufsichtsgesetzes.
 
@@ -76,8 +69,7 @@ zu benennen.
 
 (+++ §§ 4, 5 u. 16: Zur Anwendung vgl. § 14 Abs. 5 Satz 3 AnzV 2016 +++)
 
-
-## § 6 – Anzeigeformulare, Vollständigkeit der Anzeige
+# § 6 – Anzeigeformulare, Vollständigkeit der Anzeige
 
 (1) Die Absicht
 
@@ -95,8 +87,7 @@ ist mit dem Formular „Erwerb-Erhöhung“ der Anlage dieser Verordnung anzuzei
 
 (3) Eine Anzeige gilt für die Zwecke des § 2c Absatz 1 Satz 7 des Kreditwesengesetzes als vollständig eingegangen, wenn sie bei der Bundesanstalt vollständig eingegangen ist.
 
-
-## § 7 – Änderung der angezeigten Absicht und der angezeigten Angaben
+# § 7 – Änderung der angezeigten Absicht und der angezeigten Angaben
 
 (1) Gibt der Anzeigepflichtige die Absicht, eine bedeutende Beteiligung zu erwerben oder zu erhöhen, vor dem Erwerb oder der Erhöhung auf, hat er dies unverzüglich schriftlich mitzuteilen.
 
@@ -104,8 +95,7 @@ ist mit dem Formular „Erwerb-Erhöhung“ der Anlage dieser Verordnung anzuzei
 
 (3) Ändern sich nach Absendung einer Absichtsanzeige bis zum Ende des Beurteilungszeitraums nach § 2c Absatz 1a des Kreditwesengesetzes oder § 104 Absatz 1a des Versicherungsaufsichtsgesetzes Angaben in den eingereichten Unterlagen und Erklärungen, hat der Anzeigepflichtige die betroffenen Dokumente unverzüglich aktualisiert einzureichen, damit die Bundesanstalt oder die zuständige Landesaufsichtsbehörde diese in ihre Beurteilung einbeziehen kann. Unterlässt er dies oder geht die Aktualisierung der Angaben so spät ein, dass der Behörde für deren Prüfung innerhalb des Beurteilungszeitraums nicht mehr fünf Arbeitstage zur Verfügung stehen, gelten die Angaben in den eingereichten Unterlagen und Erklärungen als nicht richtig.
 
-
-## § 8 – Allgemeine Unterlagen und Erklärungen
+# § 8 – Allgemeine Unterlagen und Erklärungen
 
 Den Absichtsanzeigen sind folgende Unterlagen und Erklärungen beizufügen:
 
@@ -127,8 +117,7 @@ b) bei sonstigen Anzeigepflichtigen amtlich beglaubigte Kopien der Gründungsdok
 
 7. eine Erklärung, ob und durch welche Personen beabsichtigt ist, Geschäftsleiter des Zielunternehmens auszutauschen.
 
-
-## § 9 – Erklärungen und Unterlagen zur Zuverlässigkeit
+# § 9 – Erklärungen und Unterlagen zur Zuverlässigkeit
 
 (1) Der Anzeigepflichtige hat zu jeder Absichtsanzeige mit dem Formular „Angaben zur Zuverlässigkeit“ der Anlage dieser Verordnung anzugeben, ob gegen ihn, gegen eine Person nach § 8 Nummer 3 oder Nummer 7 oder gegen ein von ihm derzeit oder früher geleitetes oder kontrolliertes Unternehmen
 
@@ -152,8 +141,7 @@ Vergleichbare Sachverhalte und Verfahren nach anderen Rechtsordnungen sind ebenf
 
 (5) Anzeigepflichtige natürliche Personen und Personen nach § 8 Nummer 3 oder Nummer 7 haben, wenn sie einen Wohnsitz in Deutschland innehaben oder hatten oder eine berufliche Tätigkeit in Deutschland ausüben oder ausgeübt haben, bei der Bundesanstalt oder der zuständigen Landesaufsichtsbehörde einen Auszug aus dem Gewerbezentralregister gemäß § 150 der Gewerbeordnung einzureichen. Der Registerauszug darf zum Zeitpunkt des Einreichens nicht älter als drei Monate sein. Maßgeblich hierfür ist das Ausstellungsdatum des Dokuments.
 
-
-## § 10 – Lebenslauf
+# § 10 – Lebenslauf
 
 (1) Den Absichtsanzeigen sind ein Lebenslauf des Anzeigepflichtigen, sofern dieser eine natürliche Person ist, und ein eigenhändig unterzeichneter Lebenslauf jeder natürlichen Person nach § 8 Nummer 3 oder Nummer 7 beizufügen.
 
@@ -191,8 +179,7 @@ e) die ihr unterstellten Geschäftsbereiche.
 
 Alle Zeitangaben müssen monatsgenau erfolgen. Die Angaben müssen lückenlos, vollständig und wahr sein. Dem Lebenslauf von Personen nach § 8 Nummer 7 sind, sofern vorhanden, Arbeitszeugnisse über unselbständige Tätigkeiten, die in den letzten drei Jahren vor Abgabe der Anzeige ausgeübt wurden, beizufügen.
 
-
-## § 11 – Beteiligungsverhältnisse und Konzernzugehörigkeit sowie sonstige Einflussmöglichkeiten
+# § 11 – Beteiligungsverhältnisse und Konzernzugehörigkeit sowie sonstige Einflussmöglichkeiten
 
 Die Absichtsanzeigen müssen folgende Angaben zu den aktivischen und passivischen Beteiligungsverhältnissen, zur Konzernzugehörigkeit und sonstigen Einflussmöglichkeiten des Anzeigepflichtigen enthalten:
 
@@ -218,8 +205,7 @@ e) sofern der Anzeigepflichtige keine natürliche Person ist, zusätzlich eine L
 
 3. sofern der Anzeigepflichtige keine natürliche Person ist und keinem Konzern angehört, eine Liste der natürlichen und juristischen Personen, Personenhandelsgesellschaften und Gesellschaften anderer Rechtsform sowie Zweckvermögen, die an dem Anzeigepflichtigen mindestens 10 Prozent der Kapital- oder Stimmrechtsanteile halten oder, unabhängig davon, ob Kapital- oder Stimmrechtsanteile gehalten werden, einen maßgeblichen Einfluss auf den Anzeigepflichtigen ausüben können oder die, sofern der Anzeigepflichtige ein Zweckvermögen ist, an der Verteilung dessen Gewinns in Höhe von mindestens 10 Prozent teilnehmen; bestehende Stimmrechtsvereinbarungen sind zu erläutern.
 
-
-## § 12 – Erwerbsinteressen
+# § 12 – Erwerbsinteressen
 
 (1) Den Absichtsanzeigen ist eine ausführliche Darstellung der finanziellen und der sonstigen Interessen des Anzeigepflichtigen an der bedeutenden Beteiligung beizufügen.
 
@@ -249,8 +235,7 @@ unterhält.
 
 (5) Auf Interessen oder Tätigkeiten des Anzeigepflichtigen, die den Interessen des Zielunternehmens an einer soliden und umsichtigen Geschäftsführung entgegenstehen könnten, ist gesondert einzugehen und zu erklären, wie verhindert werden soll, dass sich diese Interessen negativ auf das Zielunternehmen auswirken.
 
-
-## § 13 – Finanzlage und Bonität des Anzeigepflichtigen
+# § 13 – Finanzlage und Bonität des Anzeigepflichtigen
 
 (1) Der Anzeigepflichtige hat seine wirtschaftlichen Verhältnisse darzustellen.
 
@@ -282,13 +267,11 @@ unterhält.
 
 (6) Wurde die Bonität des Anzeigepflichtigen von einer oder mehreren Ratingagenturen beurteilt, hat der Anzeigepflichtige das jüngste Rating jeder Ratingagentur anzugeben und jeweils durch aussagekräftige Unterlagen der beurteilenden Ratingagentur zu belegen. Gleiches gilt in Bezug auf die Bonität des Konzerns, dem der Anzeigepflichtige angehört, sowie in Bezug auf die nicht konzernangehörigen Unternehmen, über die der Anzeigepflichtige, sofern dieser eine natürliche Person ist, Kontrolle hat oder deren Geschäfte er führt. Liegen dem Anzeigepflichtigen die Unterlagen nach Satz 1 nicht vor, hat er dies zu begründen.
 
-
-## § 14 – Finanzierung des Erwerbs, Offenlegung sämtlicher Vereinbarungen
+# § 14 – Finanzierung des Erwerbs, Offenlegung sämtlicher Vereinbarungen
 
 Den Absichtsanzeigen sind eine aussagekräftige, lückenlose Darstellung und geeignete, lückenlose Nachweise über das Vorhandensein und die wirtschaftliche Herkunft der Eigen- und Fremdmittel, die für den Erwerb eingesetzt werden sollen, sowie sämtliche im Zusammenhang mit dem beabsichtigten Erwerb getroffenen Vereinbarungen und Verträge beizufügen.
 
-
-## § 15 – Geschäftsplan, Darstellung strategischer Ziele und Pläne
+# § 15 – Geschäftsplan, Darstellung strategischer Ziele und Pläne
 
 (1) Erlangt der Anzeigepflichtige durch den geplanten Erwerb oder die geplante Erhöhung der bedeutenden Beteiligung Kontrolle über das Zielunternehmen, ist der Anzeige ein Geschäftsplan beizufügen, der die mit dem Erwerb oder der Erhöhung verfolgten strategischen Ziele und Pläne des Anzeigepflichtigen nachvollziehbar beschreibt. Der Geschäftsplan hat insbesondere aussagekräftige Angaben zur geplanten strategischen Entwicklung, zur geplanten Entwicklung der Vermögens-, Finanz- und Ertragslage sowie zu Auswirkungen auf die Unternehmensstruktur und -organisation des Zielunternehmens zu enthalten. Die Angaben zur geplanten strategischen Entwicklung haben allgemeine Ausführungen zu den wesentlichen Zielen des Beteiligungserwerbs und den zur Zielerreichung geplanten Maßnahmen zu enthalten. Dies umfasst insbesondere:
 
@@ -336,8 +319,7 @@ Die Angaben zu den Auswirkungen auf die Unternehmens- und Organisationsstruktur 
 
 3. Aussagen zur Bereitschaft und der wirtschaftlichen Fähigkeit, dem Zielunternehmen zukünftig weiteres Kapital, sofern dies notwendig wird, zur Verfügung zu stellen.
 
-
-## § 16 – Abweichende Vorlage- und Nachweispflichten
+# § 16 – Abweichende Vorlage- und Nachweispflichten
 
 (1) Der Anzeigepflichtige muss Unterlagen und Erklärungen nicht erneut einreichen, die er bereits mit einer früheren Anzeige nach § 2c Absatz 1 Satz 1, 5 oder 6 des Kreditwesengesetzes in der ab dem 18. März 2009 geltenden Fassung oder § 104 Absatz 1 Satz 1, 5 oder 6 des Versicherungsaufsichtsgesetzes in der ab dem 18. März 2009 geltenden Fassung innerhalb des letzten Jahres vor der aktuellen Absichtsanzeige eingereicht hat, wenn sich die in den Unterlagen und Erklärungen enthaltenen Angaben nicht verändert haben. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann im Einzelfall einen längeren Zeitraum zulassen. Ist der Anzeigepflichtige bereits Inhaber einer bedeutenden Beteiligung, braucht er seine Identität oder Existenz nach § 8 Nummer 1 nicht erneut nachzuweisen. Die Bundesanstalt oder die zuständige Landesaufsichtsbehörde kann die in den Sätzen 1 und 3 genannten Unterlagen und Erklärungen jedoch im Rahmen des § 2c Absatz 1a Satz 3 bis 9 des Kreditwesengesetzes oder des § 104 Absatz 1a Satz 3 bis 9 des Versicherungsaufsichtsgesetzes anfordern.
 
@@ -371,8 +353,7 @@ Absatz 1 Satz 4 gilt entsprechend.
 
 (+++ §§ 4, 5 u. 16: Zur Anwendung vgl. § 14 Abs. 5 Satz 3 AnzV 2016 +++)
 
-
-## § 17 – Anzeige der Absicht der Verringerung oder Aufgabe einer bedeutenden Beteiligung
+# § 17 – Anzeige der Absicht der Verringerung oder Aufgabe einer bedeutenden Beteiligung
 
 (1) Die Absicht
 
@@ -390,8 +371,7 @@ ist mit dem Formular „Aufgabe-Verringerung“ der Anlage dieser Verordnung anz
 
 (3) Für alle Absichtsanzeigen nach Absatz 1 gilt § 16 Absatz 3 entsprechend.
 
-
-## § 18 – Anzeige von Änderungen beim Inhaber einer bedeutenden Beteiligung
+# § 18 – Anzeige von Änderungen beim Inhaber einer bedeutenden Beteiligung
 
 Der Anzeige nach § 2c Absatz 1 Satz 5 des Kreditwesengesetzes oder § 104 Absatz 1 Satz 5 des Versicherungsaufsichtgesetzes sind für jede neu bestellte Person nach § 8 Nummer 3 die Unterlagen und Erklärungen nach den §§ 9 und 10 beizufügen. Die Anzeige ist entbehrlich, wenn der Inhaber der bedeutenden Beteiligung
 
@@ -405,8 +385,7 @@ Der Anzeige nach § 2c Absatz 1 Satz 5 des Kreditwesengesetzes oder § 104 Absat
 
 5. eine Zentralregierung, Zentralnotenbank, Regionalregierung oder örtliche Gebietskörperschaft eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder die Europäische Zentralbank ist.
 
-
-## § 19 – Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
+# § 19 – Ergänzende Mitteilungen bei nachträglichen Änderungen beim Inhaber einer bedeutenden Beteiligung zur Sicherung der Zusammenarbeit mit den zuständigen Stellen im Europäischen Wirtschaftsraum
 
 Ist der Inhaber einer bedeutenden Beteiligung kein Kreditinstitut oder Finanzdienstleistungsinstitut, Versicherungsunternehmen oder Pensionsfonds mit Sitz im Inland, hat er unverzüglich schriftlich unter Angabe des betreffenden Staates und der Bezeichnung der jeweils zuständigen Aufsichtsbehörde mitzuteilen, wenn er
 
@@ -418,11 +397,9 @@ Ist der Inhaber einer bedeutenden Beteiligung kein Kreditinstitut oder Finanzdie
 
 Das CRR-Kreditinstitut, E-Geld-Institut, Wertpapierhandelsunternehmen, Erstversicherungsunternehmen oder Rückversicherungsunternehmen nach Satz 1 Nummer 2 und 3 ist auch mit der Identitätsnummer, unter der es bei der zuständigen Aufsichtsbehörde geführt wird, anzugeben.
 
+# § 20 – (weggefallen)
 
-## § 20 – (weggefallen)
-
-
-## Anlage – (zu § 6 Absatz 1 Satz 1 und 2, § 9 Absatz 1 Satz 1 und § 17 Absatz 1)
+# Anlage – (zu § 6 Absatz 1 Satz 1 und 2, § 9 Absatz 1 Satz 1 und § 17 Absatz 1)
 
 (Fundstelle: BGBl. I 2015, 1950 — 1977;  
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -1034,9 +1011,7 @@ Familienname
 Fußnoten
 
 <span id="FnA1-f791615_01"></span><a href="#FnR.FnA1-f791615_01" class="Footnote">1</a>  
-Ist das Zielunternehmen ein Kredit- oder Finanzdienstleistungsinstitut, ist eine Ausfertigung an die Bundesanstalt und eine Ausfertigung an die für das Institut zuständige Hauptverwaltung der Deutschen Bundesbank zu adressieren.  
-Handelt es sich bei dem Zielunternehmen um ein Versicherungsunternehmen, eine Versicherungs-Holdinggesellschaft im Sinne des § 1b VAG oder einen Pensionsfonds, ist lediglich entweder eine Ausfertigung an die Bundesanstalt oder eine Ausfertigung an die zuständige Länderaufsichtsbehörde zu adressieren.  
-Die entsprechende Adresse ist in dem Adressatenfeld einzutragen.
+Ist das Zielunternehmen ein Kredit- oder Finanzdienstleistungsinstitut, ist eine Ausfertigung an die Bundesanstalt und eine Ausfertigung an die für das Institut zuständige Hauptverwaltung der Deutschen Bundesbank zu adressieren. Handelt es sich bei dem Zielunternehmen um ein Versicherungsunternehmen, eine Versicherungs-Holdinggesellschaft im Sinne des § 1b VAG oder einen Pensionsfonds, ist lediglich entweder eine Ausfertigung an die Bundesanstalt oder eine Ausfertigung an die zuständige Länderaufsichtsbehörde zu adressieren. Die entsprechende Adresse ist in dem Adressatenfeld einzutragen.
 
 <span id="FnA1-f791615_02"></span><a href="#FnR.FnA1-f791615_02" class="Footnote">2</a>  
 Legal Entity Identifier.
@@ -1363,10 +1338,7 @@ Sofern das Kapital des Unternehmens nicht auf Euro lautet, ist zusätzlich das K
 Ist der Anzeigepflichtige oder der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Mutterunternehmen des Zielunternehmens, ist „Mutter“ einzutragen. Ist der die zukünftig gehaltenen Kapital- oder Stimmrechtsanteile Vermittelnde ein Schwesterunternehmen des Zielunternehmens, ist „Schwester“ einzutragen. Ansonsten ist das Feld nicht auszufüllen.
 
 <span id="FnA2-f791615_27"></span><a href="#FnR.FnA2-f791615_27" class="Footnote">11</a>  
-Alle Beteiligungsbeziehungen zur Darstellung des Beteiligungsgeflechtes, beginnend beim Anzeigepflichtigen über die Vermittler von Anteilen bis hin zum Zielunternehmen, sind in logischer Reihenfolge in der Beteiligungsstruktur darzustellen.  
-Dabei ist in einer Zeile der Beteiligungsstruktur jeweils nur eine Beteiligungsbeziehung zwischen zwei Parteien darzustellen. Die Anzahl der Zeilen in der „Beteiligungsstruktur“ ist bei Bedarf beliebig erweiterbar.  
-In der ersten Zeile ist in der ersten Spalte „Beteiligtes Unternehmen“ stets der Anzeigepflichtige und in der zweiten Spalte grundsätzlich das erste Beteiligungsunternehmen einzutragen, das Anteile an dem ihm nachfolgenden zweiten Beteiligungsunternehmen dem Anzeigepflichtigen vermittelt. In der folgenden Zeile, in der die Beziehung (Verkettung) zwischen dem ersten und dem zweiten Beteiligungsunternehmen darzustellen ist, tritt grundsätzlich das erste Beteiligungsunternehmen an die Stelle des Anzeigepflichtigen (Spalte 1), und das zweite Beteiligungsunternehmen tritt grundsätzlich an die Stelle des ersten Beteiligungsunternehmens (Spalte 2). Entsprechendes gilt für die Darstellung der folgenden Beteiligungsbeziehungen bis hin zum Zielunternehmen, das stets in Spalte 2 einzutragen ist.  
-Eine Ausnahme gilt für den Fall, dass in einer oder mehreren Beteiligungsbeziehungen eine sonstige Stimmrechtszurechnung nach § 1 Abs. 9 Satz 2 KWG oder § 7a Abs. 2 Satz 4 VAG oder eine sonstige Zurechnung von Kapital- oder Stimmrechtsanteilen durch Zusammenwirken mit anderen erfolgt. Die Beteiligungsbeziehungen sind dann wie folgt darzustellen: Derjenige, der in der jeweils betrachteten Beteiligungsbeziehung die betreffenden Anteile unmittelbar hält, ist in der Spalte „besonderer Vermittler“, und derjenige, dem die betreffenden Anteile zugerechnet werden, ist in der ersten Spalte „Beteiligtes Unternehmen“ einzutragen. Diese Differenzierung ist aus technischen Gründen vorzunehmen und ermöglicht getrennte Auswertungen durch die Behörde.
+Alle Beteiligungsbeziehungen zur Darstellung des Beteiligungsgeflechtes, beginnend beim Anzeigepflichtigen über die Vermittler von Anteilen bis hin zum Zielunternehmen, sind in logischer Reihenfolge in der Beteiligungsstruktur darzustellen. Dabei ist in einer Zeile der Beteiligungsstruktur jeweils nur eine Beteiligungsbeziehung zwischen zwei Parteien darzustellen. Die Anzahl der Zeilen in der „Beteiligungsstruktur“ ist bei Bedarf beliebig erweiterbar. In der ersten Zeile ist in der ersten Spalte „Beteiligtes Unternehmen“ stets der Anzeigepflichtige und in der zweiten Spalte grundsätzlich das erste Beteiligungsunternehmen einzutragen, das Anteile an dem ihm nachfolgenden zweiten Beteiligungsunternehmen dem Anzeigepflichtigen vermittelt. In der folgenden Zeile, in der die Beziehung (Verkettung) zwischen dem ersten und dem zweiten Beteiligungsunternehmen darzustellen ist, tritt grundsätzlich das erste Beteiligungsunternehmen an die Stelle des Anzeigepflichtigen (Spalte 1), und das zweite Beteiligungsunternehmen tritt grundsätzlich an die Stelle des ersten Beteiligungsunternehmens (Spalte 2). Entsprechendes gilt für die Darstellung der folgenden Beteiligungsbeziehungen bis hin zum Zielunternehmen, das stets in Spalte 2 einzutragen ist. Eine Ausnahme gilt für den Fall, dass in einer oder mehreren Beteiligungsbeziehungen eine sonstige Stimmrechtszurechnung nach § 1 Abs. 9 Satz 2 KWG oder § 7a Abs. 2 Satz 4 VAG oder eine sonstige Zurechnung von Kapital- oder Stimmrechtsanteilen durch Zusammenwirken mit anderen erfolgt. Die Beteiligungsbeziehungen sind dann wie folgt darzustellen: Derjenige, der in der jeweils betrachteten Beteiligungsbeziehung die betreffenden Anteile unmittelbar hält, ist in der Spalte „besonderer Vermittler“, und derjenige, dem die betreffenden Anteile zugerechnet werden, ist in der ersten Spalte „Beteiligtes Unternehmen“ einzutragen. Diese Differenzierung ist aus technischen Gründen vorzunehmen und ermöglicht getrennte Auswertungen durch die Behörde.
 
 <span id="FnA2-f791615_28"></span><a href="#FnR.FnA2-f791615_28" class="Footnote">12</a>  
 Liegt eines der folgenden besonderen Zurechnungsverhältnisse vor, ist in der Spalte „besonderer Vermittler“ die Nummer der Person oder des Unternehmens laut Unternehmensliste einzutragen, die oder das die besondere Vermittlerposition gemäß der folgenden Übersicht einnimmt. In der Spalte „Art“ ist der entsprechende Kennbuchstabe des besonderen Zurechnungsverhältnisses zu vermerken. Eine Mehrfachauswahl ist zulässig.
@@ -1975,9 +1947,7 @@ Seite 7
 Fußnoten
 
 <span id="FnA4-f791615_44"></span><a href="#FnR.FnA4-f791615_44" class="Footnote">1</a>  
-Ist das Zielunternehmen ein Kredit- oder Finanzdienstleistungsinstitut, sind eine Ausfertigung an die Bundesanstalt und eine Ausfertigung an die für das Institut zuständige Hauptverwaltung der Deutschen Bundesbank zu adressieren.  
-Handelt es sich bei dem Zielunternehmen um ein Versicherungsunternehmen oder einen Pensionsfonds, ist lediglich entweder eine Ausfertigung an die Bundesanstalt oder eine Ausfertigung an die zuständige Länderaufsichtsbehörde zu adressieren.  
-Die entsprechende Adresse ist in dem Adressatenfeld einzutragen.
+Ist das Zielunternehmen ein Kredit- oder Finanzdienstleistungsinstitut, sind eine Ausfertigung an die Bundesanstalt und eine Ausfertigung an die für das Institut zuständige Hauptverwaltung der Deutschen Bundesbank zu adressieren. Handelt es sich bei dem Zielunternehmen um ein Versicherungsunternehmen oder einen Pensionsfonds, ist lediglich entweder eine Ausfertigung an die Bundesanstalt oder eine Ausfertigung an die zuständige Länderaufsichtsbehörde zu adressieren. Die entsprechende Adresse ist in dem Adressatenfeld einzutragen.
 
 <span id="FnA4-f791615_45"></span><a href="#FnR.FnA4-f791615_45" class="Footnote">2</a>  
 Legal Entity Identifier.

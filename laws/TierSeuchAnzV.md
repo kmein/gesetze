@@ -1,38 +1,30 @@
-# [TierSeuchAnzV] Verordnung über anzeigepflichtige Tierseuchen
-
-Ausfertigungsdatum: 23.05.1991
-
+% Verordnung über anzeigepflichtige Tierseuchen
+% Ausfertigungsdatum: 23.05.1991
  
-
-## § 1 – Anzeigepflichtige Tierseuchen
+# § 1 – Anzeigepflichtige Tierseuchen
 
 Folgende Tierseuchen sind anzeigepflichtig:
 
 1. Affenpocken,
 
-1a.  
-Afrikanische Pferdepest,
+1a. Afrikanische Pferdepest,
 
 2. Afrikanische Schweinepest,
 
-2a.  
-Amerikanische Faulbrut,
+2a. Amerikanische Faulbrut,
 
 3. Ansteckende Blutarmut der Einhufer,
 
-3a.  
-Ansteckende Blutarmut der Lachse,
+3a. Ansteckende Blutarmut der Lachse,
 
 4. (weggefallen)
 
 5. Aujeszkysche Krankheit bei Hausrindern und Hausschweinen,
 
-5a.  
-Befall mit dem Kleinen Bienenbeutenkäfer  
+5a. Befall mit dem Kleinen Bienenbeutenkäfer  
 (Aethina tumida),
 
-5b.  
-Befall mit der Tropilaelaps-Milbe,
+5b. Befall mit der Tropilaelaps-Milbe,
 
 6. Beschälseuche der Pferde,
 
@@ -40,22 +32,17 @@ Befall mit der Tropilaelaps-Milbe,
 
 8. Bovine Herpesvirus Typ 1-Infektion (alle Formen),
 
-8a.  
-Bovine Virus Diarrhoe,
+8a. Bovine Virus Diarrhoe,
 
 9. Brucellose der Rinder, Hausschweine, Schafe und Ziegen,
 
-9a.  
-Ebola-Virus-Infektion,
+9a. Ebola-Virus-Infektion,
 
-9b.  
-Epizootische Hämorrhagie der Hirsche,
+9b. Epizootische Hämorrhagie der Hirsche,
 
-9c.  
-Epizootische Hämatopoetische Nekrose,
+9c. Epizootische Hämatopoetische Nekrose,
 
-9d.  
-(weggefallen)
+9d. (weggefallen)
 
 10. Enzootische Leukose der Rinder,
 
@@ -63,23 +50,17 @@ Epizootische Hämatopoetische Nekrose,
 
 12. Infektion mit Bonamia exitiosa,
 
-12a.  
-Infektion mit Bonamia ostreae,
+12a. Infektion mit Bonamia ostreae,
 
-12b.  
-Infektion mit Marteilia refringens,
+12b. Infektion mit Marteilia refringens,
 
-12c.  
-Infektion mit Microcytos mackini,
+12c. Infektion mit Microcytos mackini,
 
-12d.  
-Infektion mit Perkinsus marinus,
+12d. Infektion mit Perkinsus marinus,
 
-12e.  
-Infektion mit dem West-Nil-Virus bei einem Vogel oder Pferd,
+12e. Infektion mit dem West-Nil-Virus bei einem Vogel oder Pferd,
 
-12f.  
-Infektiöse Epididymitis,
+12f. Infektiöse Epididymitis,
 
 13. Infektiöse Hämatopoetische Nekrose der Salmoniden,
 
@@ -97,13 +78,11 @@ Infektiöse Epididymitis,
 
 20. Newcastle-Krankheit,
 
-20a.  
-Niedrigpathogene aviäre Influenza bei einem gehaltenen Vogel,
+20a. Niedrigpathogene aviäre Influenza bei einem gehaltenen Vogel,
 
 21. Pest der kleinen Wiederkäuer,
 
-21a.  
-Pferdeenzephalomyelitis (alle Formen),
+21a. Pferdeenzephalomyelitis (alle Formen),
 
 22. Pockenseuche der Schafe und Ziegen,
 
@@ -127,8 +106,7 @@ Pferdeenzephalomyelitis (alle Formen),
 
 32. Stomatitis vesicularis,
 
-32a.  
-Taura-Syndrom,
+32a. Taura-Syndrom,
 
 33. Tollwut,
 
@@ -148,5 +126,4 @@ Taura-Syndrom,
 
 41. Yellowhead Disease.
 
-
-## § 2 – (Inkrafttreten)
+# § 2 – (Inkrafttreten)

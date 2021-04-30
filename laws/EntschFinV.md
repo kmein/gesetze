@@ -1,18 +1,13 @@
-# [EntschFinV] Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH  (Entschädigungseinrichtungs-Finanzierungsverordnung - EntschFinV)
-
-Ausfertigungsdatum: 05.01.2016
-
+% Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH  (Entschädigungseinrichtungs-Finanzierungsverordnung - EntschFinV)
+% Ausfertigungsdatum: 05.01.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsgesetzes vom 28. Mai 2015 (BGBl. I S. 786) verordnet das Bundesministerium der Finanzen nach Anhörung der Entschädigungseinrichtung deutscher Banken GmbH und der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich und Verordnungsgegenstand
+# § 1 – Anwendungsbereich und Verordnungsgegenstand
 
 (1) Diese Verordnung gilt für
 
@@ -30,8 +25,7 @@ Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsg
 
 4. die Berücksichtigung von Zahlungsverpflichtungen und dazugehörigen Finanzsicherheiten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Gedeckte Einlagen eines CRR-Kreditinstituts im Sinne dieser Verordnung sind die nach § 8 Absatz 1 des Einlagensicherungsgesetzes gedeckten Einlagen.
 
@@ -43,8 +37,7 @@ Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsg
 
 (5) Barsicherheiten im Sinne dieser Verordnung sind Barsicherheiten im Sinne des Artikels 2 Absatz 1 Buchstabe d der Richtlinie 2002/47/EG des Europäischen Parlaments und des Rates vom 6. Juni 2002 über Finanzsicherheiten (ABl. L 168 vom 27.6.2002, S. 43), die durch die Richtlinie 2014/59/EU (ABl. L 173 vom 12.6.2014, S. 190) geändert worden ist, soweit diese Barsicherheiten nach § 28 Absatz 1 als Finanzsicherheit für Zahlungsverpflichtungen zugelassen sind.
 
-
-## § 3 – Beitragspflicht
+# § 3 – Beitragspflicht
 
 (1) CRR-Kreditinstitute, die der Entschädigungseinrichtung im jeweiligen Abrechnungsjahr zugeordnet sind, sind nach Maßgabe des § 26 Absatz 1 Satz 1 des Einlagensicherungsgesetzes zur Zahlung eines Jahresbeitrags verpflichtet. Der Jahresbeitrag vermindert sich für CRR-Kreditinstitute, die vom 1. Oktober bis zum 31. Dezember vor Beitragsfälligkeit aus der Entschädigungseinrichtung ausscheiden, um 75 Prozent, für CRR-Kreditinstitute, die vom 1. Januar bis zum 31. März vor Beitragsfälligkeit ausscheiden, um 50 Prozent und für CRR-Kreditinstitute, die vom 1. April bis zum 30. Juni vor Beitragsfälligkeit ausscheiden, um 25 Prozent.
 
@@ -52,8 +45,7 @@ Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsg
 
 (+++ § 3: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 4 – Beitragsbescheid und Zahlungsverpflichtung
+# § 4 – Beitragsbescheid und Zahlungsverpflichtung
 
 (1) Die Entschädigungseinrichtung erhebt den Jahresbeitrag zum Ende eines Abrechnungsjahres durch einen Beitragsbescheid.
 
@@ -65,8 +57,7 @@ Auf Grund des § 33 Absatz 1 Satz 1 Nummer 1 bis 3 und 6 des Einlagensicherungsg
 
 (+++ § 4: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 5 – Beitragsbemessung und Zuschlag für Verwaltungskosten
+# § 5 – Beitragsbemessung und Zuschlag für Verwaltungskosten
 
 (1) Der Jahresbeitrag eines CRR-Kreditinstituts ist nach § 7 so zu bemessen, dass mit der Summe aller Jahresbeiträge mindestens die Jahreszielausstattung nach § 6 erreicht wird.
 
@@ -86,8 +77,7 @@ jeweils zuzüglich 0,5 Prozent des Jahresbeitrags des CRR-Kreditinstituts nicht 
 
 (+++ § 5: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 6 – Jahreszielausstattung
+# § 6 – Jahreszielausstattung
 
 (1) Um sicherzustellen, dass die Zielausstattung nach § 17 Absatz 2 Satz 1 des Einlagensicherungsgesetzes erreicht wird, ermittelt die Entschädigungseinrichtung im jeweiligen Abrechnungsjahr eine Jahreszielausstattung.
 
@@ -103,8 +93,7 @@ jeweils zuzüglich 0,5 Prozent des Jahresbeitrags des CRR-Kreditinstituts nicht 
 
 (+++ § 6: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 7 – Berechnungsformel
+# § 7 – Berechnungsformel
 
 (1) Der Jahresbeitrag wird nach der folgenden Formel berechnet:  
      C<sub>i</sub> = max {MC<sub>i</sub> ; (CR x ARW<sub>i</sub> x CD<sub>i</sub> x µ)}  
@@ -127,13 +116,12 @@ Der Jahresbeitrag ist der höhere Betrag, entweder der Mindestbetrag MC<sub>i</s
 
 (4) Die gedeckten Einlagen des CRR-Kreditinstituts sind die zum Stand vom 31. Dezember des Vorjahres bei dem CRR-Kreditinstitut vorhandenen und nach § 17 Absatz 4 des Einlagensicherungsgesetzes zu meldenden gedeckten Einlagen.
 
-(5) Mit dem Korrekturfaktor passt die Entschädigungseinrichtung die Summe der Jahresbeiträge aller CRR-Kreditinstitute, die sich bei der Berechnung der Jahresbeiträge auf Grundlage der Beitragsrate, des aggregierten Risikogewichts und der gedeckten Einlagen eines jeden CRR-Kreditinstituts nach der Formel C<sub>i</sub> = CR x ARW<sub>i</sub> x CD<sub>i</sub> ergeben würden (nicht angepasste Jahresbeiträge), an die Jahreszielausstattung an. Der Korrekturfaktor wird nach der folgenden Formel ermittelt:![](../normengrafiken/bgbl1_2016/j0009-1_0010_thumb.gif)  
+(5) Mit dem Korrekturfaktor passt die Entschädigungseinrichtung die Summe der Jahresbeiträge aller CRR-Kreditinstitute, die sich bei der Berechnung der Jahresbeiträge auf Grundlage der Beitragsrate, des aggregierten Risikogewichts und der gedeckten Einlagen eines jeden CRR-Kreditinstituts nach der Formel C<sub>i</sub> = CR x ARW<sub>i</sub> x CD<sub>i</sub> ergeben würden (nicht angepasste Jahresbeiträge), an die Jahreszielausstattung an. Der Korrekturfaktor wird nach der folgenden Formel ermittelt:![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0009-1_0010_thumb.gif)  
 Die Entschädigungseinrichtung ist berechtigt, den Korrekturfaktor zu verringern oder zu erhöhen, wenn dies aufgrund einer Entwicklung des Konjunkturzyklus und der prozyklischen Wirkung der Jahresbeiträge erforderlich ist.
 
 (+++ § 7: Zur Anwendung vgl. § 34 Abs. 2 +++) (+++ § 7 Abs. 1: Die Fomelfaktoren sind insoweit teilweise unrichtig, da das tiefgestellte "i" an vier Stellen nach oben verrutscht ist +++)
 
-
-## § 8 – Bestimmung des aggregierten Risikogewichts
+# § 8 – Bestimmung des aggregierten Risikogewichts
 
 (1) Für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind, wird das aggregierte Risikogewicht auf der Grundlage einer Bonitätsnote bestimmt. Die Bonitätsnote beruht auf einer Risikoeinschätzung des CRR-Kreditinstituts durch die Entschädigungseinrichtung auf der Grundlage von Risikokategorien und Risikoindikatoren nach Maßgabe der §§ 9 und 10 sowie nach Maßgabe der Anlage 1.
 
@@ -146,8 +134,7 @@ Risikogewicht</td><td style="text-align: center;">50 %</td><td style="text-align
 
 (+++ § 8: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 9 – Risikokategorien, Risikoindikatoren und Risikogewichtung
+# § 9 – Risikokategorien, Risikoindikatoren und Risikogewichtung
 
 (1) Für die Einschätzung des Risikos des CRR-Kreditinstituts legt die Entschädigungseinrichtung deutscher Banken GmbH die folgenden Risikokategorien zugrunde:
 
@@ -169,8 +156,7 @@ Den Risikokategorien sind jeweils Risikoindikatoren gemäß Anlage 1 zugeordnet.
 
 (+++ § 9: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 10 – Risikoeinschätzung auf der Grundlage von Ratings
+# § 10 – Risikoeinschätzung auf der Grundlage von Ratings
 
 (1) Für die Risikoeinschätzung auf Grundlage von Ratings dürfen nur Ratingergebnisse von aktuellen Kreditratings eines anerkannten Ratingunternehmens in Form von Vollratings mit einem Prognosezeitraum von einem Jahr zugrunde gelegt werden. Aktuelle Ratings sind solche, die im Auftrag des CRR-Kreditinstituts oder eines Dritten in Bezug auf die Bonität des CRR-Kreditinstituts erstellt worden und am 31. Mai des jeweiligen Abrechnungsjahres gültig sind. Aktuelle Ratings von CRR-Kreditinstituten im Sinne des § 53 Absatz 1 Satz 1 des Kreditwesengesetzes sind auch solche, die in Bezug auf die Bonität ihres Unternehmens im Ausland erstellt worden sind.
 
@@ -190,8 +176,7 @@ Die CRR-Kreditinstitute haben der Entschädigungseinrichtung deutscher Banken Gm
 
 (+++ § 10: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 11 – Bestimmung des aggregierten Risikogewichts
+# § 11 – Bestimmung des aggregierten Risikogewichts
 
 (1) Für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind, wird das aggregierte Risikogewicht auf der Grundlage einer Risikoklasse bestimmt. Die Risikoklasse beruht auf einer Risikoeinschätzung des CRR-Kreditinstituts durch die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH auf der Grundlage von Risikokategorien und Risikoindikatoren nach Maßgabe des § 12 und nach Maßgabe der Anlage 2.
 
@@ -206,8 +191,7 @@ Die CRR-Kreditinstitute haben der Entschädigungseinrichtung deutscher Banken Gm
 
 (+++ § 11: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 12 – Risikokategorien, Risikoindikatoren und Risikogewichtung
+# § 12 – Risikokategorien, Risikoindikatoren und Risikogewichtung
 
 (1) Für die Einschätzung des Risikos eines CRR-Kreditinstituts legt die Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH die folgenden Risikokategorien zugrunde:
 
@@ -227,8 +211,7 @@ Den Risikokategorien sind jeweils Risikoindikatoren gemäß Anlage 2 zugeordnet.
 
 (+++ § 12: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 13 – Zahlungspflicht
+# § 13 – Zahlungspflicht
 
 (1) CRR-Kreditinstitute, die einer Entschädigungseinrichtung neu zugeordnet werden, haben neben dem Jahresbeitrag eine nach Maßgabe des § 14 berechnete einmalige Zahlung zu leisten.
 
@@ -244,15 +227,13 @@ oder
 
 2. durch Umwandlung aus CRR-Kreditinstituten, die vormals der Entschädigungseinrichtung angehört haben, entstanden sind, sofern diese CRR-Kreditinstitute im Aufnahmejahr bereits Jahresbeiträge geleistet haben.
 
-
-## § 14 – Bemessung und Fälligkeit
+# § 14 – Bemessung und Fälligkeit
 
 (1) Die einmalige Zahlung beträgt 0,2 Prozent der gedeckten Einlagen, die bei dem CRR-Kreditinstitut am 31. Dezember des Vorjahres vorhanden waren, mindestens jedoch 25 000 Euro.
 
 (2) Die einmalige Zahlung wird mit der Bekanntgabe des Bescheids fällig.
 
-
-## § 15 – Vorlage- und Nachweispflichten
+# § 15 – Vorlage- und Nachweispflichten
 
 (1) Die Entschädigungseinrichtung bestimmt die Modalitäten der nach § 17 Absatz 4 des Einlagensicherungsgesetzes vorgeschriebenen Meldung zur Höhe der gedeckten Einlagen und veröffentlicht sie auf ihrer Internetseite. Die CRR-Kreditinstitute haben der Entschädigungseinrichtung die sachliche und rechnerische Richtigkeit der übermittelten Informationen zu bestätigen. Die Entschädigungseinrichtung kann die Richtigkeit der Meldung prüfen.
 
@@ -280,8 +261,7 @@ oder
 
 (6) Die Pflichten nach Absatz 2 bis 4 bestehen auch nach Erreichen der Zielausstattung gemäß § 17 Absatz 2 Satz 1 des Einlagensicherungsgesetzes.
 
-
-## § 16 – Vorläufige und endgültige Festsetzung
+# § 16 – Vorläufige und endgültige Festsetzung
 
 (1) Legt ein CRR-Kreditinstitut die zur Bemessung des Jahresbeitrags erforderlichen Daten und Unterlagen nicht rechtzeitig oder nicht vollständig vor, ist die Entschädigungseinrichtung befugt, den Jahresbeitrag nach Maßgabe der Absätze 2 bis 4 zu bemessen und vorläufig festzusetzen. Der Beitrag wird mit Bekanntgabe des Beitragsbescheids fällig.
 
@@ -295,20 +275,17 @@ oder
 
 (6) Das CRR-Kreditinstitut hat eine Differenz zwischen dem vorläufig festgesetzten Jahresbeitrag und dem endgültig festgesetzten Jahresbeitrag nachzuentrichten. Die Differenzzahlung wird mit der Bekanntgabe des endgültigen Bescheids über den Jahresbeitrag fällig.
 
-
-## § 17 – Ausschlussfrist
+# § 17 – Ausschlussfrist
 
 (1) Daten und Unterlagen, die nach dem 31. Dezember des jeweils folgenden Abrechnungsjahres vorgelegt werden, berücksichtigt die Entschädigungseinrichtung für die Zwecke der Beitragsbemessung zu Gunsten der CRR-Kreditinstitute nicht mehr.
 
 (2) Die in Absatz 1 genannte Frist ist eine Ausschlussfrist.
 
-
-## § 18 – Verzugszinsen
+# § 18 – Verzugszinsen
 
 Wird bis zum Ablauf eines Monats nach dem Fälligkeitstag der jeweilige Beitrag, ein vorläufiger Beitrag oder die jeweilige Zahlung nicht entrichtet, erhebt die Entschädigungseinrichtung Verzugszinsen. Die Entschädigungseinrichtung sieht von der Erhebung von Verzugszinsen ab, sofern die Verzugszinsen 50 Euro nicht überschreiten. Ergänzend gelten die Vorschriften des Bürgerlichen Gesetzbuchs zum Schuldnerverzug entsprechend.
 
-
-## § 19 – Gestattung der Übernahme von Zahlungsverpflichtungen
+# § 19 – Gestattung der Übernahme von Zahlungsverpflichtungen
 
 (1) Die Entschädigungseinrichtung kann den ihr zugeordneten CRR-Kreditinstituten gestatten, in einem Abrechnungsjahr bis zu 30 Prozent ihres Jahresbeitrags durch Übernahme einer vertraglichen Zahlungsverpflichtung zu erbringen. Die Übernahme einer Zahlungsverpflichtung muss allen CRR-Kreditinstituten, die der Entschädigungseinrichtung die nach § 17 Absatz 4 des Einlagensicherungsgesetzes und nach § 15 Absatz 2 bis 4 erforderlichen Daten und Unterlagen bis zum 15. August des Abrechnungsjahres vollständig zur Verfügung gestellt haben, in Höhe des gleichen Prozentsatzes vom jeweiligen Jahresbeitrag gestattet werden. Ein Anspruch der CRR-Kreditinstitute auf Gestattung der Übernahme einer Zahlungsverpflichtung besteht weder dem Grunde noch der Höhe nach.
 
@@ -320,8 +297,7 @@ Wird bis zum Ablauf eines Monats nach dem Fälligkeitstag der jeweilige Beitrag,
 
 Dem einzelnen CRR-Kreditinstitut darf die Übernahme einer Zahlungsverpflichtung nach Satz 1 nur gestattet werden, soweit die von dem CRR-Kreditinstitut insgesamt übernommenen Zahlungsverpflichtungen nicht mehr als 30 Prozent des Anteils des CRR-Kreditinstituts an den verfügbaren Finanzmitteln betragen.
 
-
-## § 20 – Voraussetzungen für die Übernahme von Zahlungsverpflichtungen
+# § 20 – Voraussetzungen für die Übernahme von Zahlungsverpflichtungen
 
 Die Übernahme einer Zahlungsverpflichtung in einem Abrechnungsjahr setzt voraus, dass ein CRR-Kreditinstitut
 
@@ -331,8 +307,7 @@ Die Übernahme einer Zahlungsverpflichtung in einem Abrechnungsjahr setzt voraus
 
 Die in Satz 1 genannten Fristen sind Ausschlussfristen. Ein CRR-Kreditinstitut ist nicht verpflichtet, eine Zahlungsverpflichtung zu erbringen.
 
-
-## § 21 – Rahmenvertrag über Zahlungsverpflichtungen
+# § 21 – Rahmenvertrag über Zahlungsverpflichtungen
 
 (1) Der Rahmenvertrag bildet die Grundlage für den Abschluss von Verträgen über die Übernahme von Zahlungsverpflichtungen nach § 22 in den einzelnen Abrechnungsjahren. Im Rahmenvertrag sind der Inhalt der Verträge und das Verfahren zum Abschluss der Verträge zu regeln.
 
@@ -340,8 +315,7 @@ Die in Satz 1 genannten Fristen sind Ausschlussfristen. Ein CRR-Kreditinstitut i
 
 (3) Der Rahmenvertrag ist von den gesetzlichen Vertretern des CRR-Kreditinstituts zu unterzeichnen. Das CRR-Kreditinstitut hat der Entschädigungseinrichtung die Vertretungsbefugnis der für sie handelnden Personen in geeigneter Weise nachzuweisen. Soweit die Verträge über Zahlungsverpflichtungen nach § 22 auf Seiten des CRR-Kreditinstituts nicht von den gesetzlichen Vertretern des CRR-Kreditinstituts abgeschlossen werden sollen, sind die vertretungsberechtigten Personen im Rahmenvertrag zu bestimmen.
 
-
-## § 22 – Verträge über die Übernahme von Zahlungsverpflichtungen
+# § 22 – Verträge über die Übernahme von Zahlungsverpflichtungen
 
 (1) Auf der Grundlage des Rahmenvertrags sind in den jeweiligen Abrechnungsjahren einzelne Verträge über die Übernahme von Zahlungsverpflichtungen abzuschließen. Diese Verträge müssen insbesondere regeln, dass
 
@@ -361,8 +335,7 @@ Die in Satz 1 genannten Fristen sind Ausschlussfristen. Ein CRR-Kreditinstitut i
 
 (2) Die Entschädigungseinrichtung verwendet für die Verträge über die Übernahme von Zahlungsverpflichtungen ein einheitliches Vertragsmuster, das als Anlage zu dem Rahmenvertrag nach § 21 vereinbart wird. Das Vertragsmuster ist der Bundesanstalt anzuzeigen.
 
-
-## § 23 – Anforderung und Fälligkeit der Zahlung
+# § 23 – Anforderung und Fälligkeit der Zahlung
 
 (1) Die Entschädigungseinrichtung fordert die Zahlung aus der Zahlungsverpflichtung ganz oder in Teilbeträgen an, wenn sie die Zahlung zur Entschädigung der Einleger nach den §§ 5 bis 9 des Einlagensicherungsgesetzes oder für die Leistung eines Ausgleichsbetrags gemäß § 145 des Sanierungs- und Abwicklungsgesetzes im Rahmen der Abwicklung eines CRR-Kreditinstituts benötigt. Mit Zugang der Anforderung bei den CRR-Kreditinstituten wird die Zahlung fällig.
 
@@ -386,8 +359,7 @@ Die in Satz 1 genannten Fristen sind Ausschlussfristen. Ein CRR-Kreditinstitut i
 
 (5) Soweit ein CRR-Kreditinstitut einen Teil des Jahresbeitrags, der für die Bemessung von Sonderbeiträgen und Sonderzahlungen nach § 27 Absatz 3 Satz 1 des Einlagensicherungsgesetzes maßgeblich ist, durch Übernahme eine Zahlungsverpflichtung erbracht hat, gilt die Zahlungsverpflichtung für die Zwecke der Bemessung der Sonderbeiträge oder der Sonderzahlung als fällig, sobald der nach § 4 Absatz 1 durch Beitragsbescheid festgesetzte Beitragsteil fällig geworden ist. Absatz 1 Satz 2 bleibt unberührt.
 
-
-## § 24 – Übertragung von Zahlungsverpflichtungen
+# § 24 – Übertragung von Zahlungsverpflichtungen
 
 (1) Die CRR-Kreditinstitute sind berechtigt, Verträge über die Übernahme von Zahlungsverpflichtungen nach § 22 mit Zustimmung der Entschädigungseinrichtung auf andere CRR-Kreditinstitute, die mit der Entschädigungseinrichtung Rahmenverträge nach § 21 abgeschlossen haben, zu übertragen. Das übernehmende CRR-Kreditinstitut muss alle Verpflichtungen aus dem Vertrag über die Übernahme von Zahlungsverpflichtungen uneingeschränkt übernehmen und sich insbesondere gegenüber der Entschädigungseinrichtung bezüglich der übernommenen Zahlungsverpflichtung der sofortigen Vollstreckung unterwerfen. Das übernehmende CRR-Kreditinstitut muss mit Übertragung in die Stellung des übertragenden CRR-Kreditinstituts hinsichtlich der für die übertragenen Zahlungsverpflichtungen nach den §§ 26 und 27 geleisteten Finanzsicherheiten eintreten, soweit das übernehmende CRR-Kreditinstitut nicht eigene Finanzsicherheiten nach Maßgabe des § 27 stellt.
 
@@ -401,13 +373,11 @@ Die in Satz 1 genannten Fristen sind Ausschlussfristen. Ein CRR-Kreditinstitut i
 
 (3) Überträgt ein CRR-Kreditinstitut einen Teil der gedeckten Einlagen auf ein CRR-Kreditinstitut, das der anderen Entschädigungseinrichtung zugeordnet ist, gelten die Absätze 1 und 2 entsprechend mit der Maßgabe, dass die Übertragung der Zahlungsverpflichtungen und der diesbezüglichen Finanzsicherheiten durch eine Vereinbarung im Sinne des § 32 Absatz 1 Nummer 2 erfolgt.
 
-
-## § 25 – Besicherung von Zahlungsverpflichtungen
+# § 25 – Besicherung von Zahlungsverpflichtungen
 
 Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen Finanzsicherheiten zu leisten. Der Marktwert der Finanzsicherheiten abzüglich eines Bewertungsabschlags nach § 30 (Anrechnungswert) muss fortwährend der Summe der von dem CRR-Kreditinstitut übernommenen Zahlungsverpflichtungen entsprechen.
 
-
-## § 26 – Leistung von Finanzsicherheiten
+# § 26 – Leistung von Finanzsicherheiten
 
 (1) Finanzsicherheiten dürfen ausschließlich risikoarme Schuldtitel oder Barsicherheiten sein. Die Entschädigungseinrichtung kann in den einzelnen Abrechnungsjahren bestimmen, dass die Finanzsicherheiten in einem bestimmten Verhältnis oder ausschließlich in Form von risikoarmen Schuldtiteln oder Barsicherheiten zu leisten sind. Ein Anspruch der CRR-Kreditinstitute, die Finanzsicherheiten anteilig oder vollständig in Form von risikoarmen Schuldtiteln oder Barsicherheiten leisten zu dürfen, besteht nicht.
 
@@ -419,8 +389,7 @@ Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen Finanzsic
 
 (5) Für den Fall der Leistung von Finanzsicherheiten durch Verpfändung müssen die Finanzsicherheiten auf ein Wertpapierdepot oder Konto des sicherungsgebenden CRR-Kreditinstituts, das bei einem von der Entschädigungseinrichtung benannten CRR-Kreditinstitut oder der Deutschen Bundesbank geführt wird, übertragen und der Entschädigungseinrichtung verpfändet werden.
 
-
-## § 27 – Rahmenvertrag über Finanzsicherheiten
+# § 27 – Rahmenvertrag über Finanzsicherheiten
 
 (1) Grundlage für die Leistung von Finanzsicherheiten im Zusammenhang mit dem Abschluss von Verträgen über die Übernahme von Zahlungsverpflichtungen in einzelnen Abrechnungsjahren nach § 26 ist ein Rahmenvertrag über Finanzsicherheiten. Im Rahmenvertrag sind der Inhalt sowie das Verfahren zur Leistung von Finanzsicherheiten abschließend zu regeln. Der Rahmenvertrag ist von den gesetzlichen Vertretern des CRR-Kreditinstituts zu unterzeichnen. Das CRR-Kreditinstitut hat der Entschädigungseinrichtung die Vertretungsbefugnis in geeigneter Weise nachzuweisen.
 
@@ -446,22 +415,19 @@ Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen Finanzsic
 
 9. dass etwaige Erträge aus den Finanzsicherheiten dem CRR-Kreditinstitut zustehen.
 
-
-## § 28 – Zulässige Finanzsicherheiten
+# § 28 – Zulässige Finanzsicherheiten
 
 (1) Die Entschädigungseinrichtung kann die als Finanzsicherheiten zulässigen risikoarmen Schuldtitel oder Barsicherheiten einschränken oder konkretisieren. Dabei berücksichtigt sie Kredit- und Marktrisiken der Emittenten, die Liquidität der entsprechenden Instrumente und Konzentrations- und Währungsrisiken. Die Entschädigungseinrichtung veröffentlicht die zulässigen risikoarmen Schuldtitel oder Barsicherheiten auf ihrer Internetseite.
 
 (2) Die Entschädigungseinrichtung trifft geeignete Vorkehrungen, um etwaige Risiken aufgrund eines Unterschieds zwischen den Währungen der gedeckten Einlagen und der von den CRR-Kreditinstituten gestellten Finanzsicherheiten zu begrenzen.
 
-
-## § 29 – Verwaltung von Finanzsicherheiten
+# § 29 – Verwaltung von Finanzsicherheiten
 
 (1) Die Entschädigungseinrichtung kann einen Dritten mit der Verwaltung der Finanzsicherheiten beauftragen. Hierzu ist eine Vereinbarung zwischen der Entschädigungseinrichtung, dem CRR-Kreditinstitut und dem Sicherheitenverwalter abzuschließen.
 
 (2) Die Kosten der Sicherheitenverwaltung sind von den CRR-Kreditinstituten zu tragen. Erfolgt die Sicherheitenverwaltung durch einen Dritten, ist die Kostentragungspflicht der CRR-Kreditinstitute in der Vereinbarung zu regeln.
 
-
-## § 30 – Bewertungsabschläge, Bewertung
+# § 30 – Bewertungsabschläge, Bewertung
 
 (1) Die Entschädigungseinrichtung legt Bewertungsabschläge für die gestellten Finanzsicherheiten fest und veröffentlicht sie auf ihrer Internetseite.
 
@@ -471,8 +437,7 @@ Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen Finanzsic
 
 (4) Die Entschädigungseinrichtung stellt sicher, dass die gestellten Finanzsicherheiten arbeitstäglich bewertet werden. Nicht in Euro denominierte Beträge sind in Euro umzurechnen.
 
-
-## § 31 – Anzeige- und Informationspflichten
+# § 31 – Anzeige- und Informationspflichten
 
 (1) Ein CRR-Kreditinstitut, das eine Zahlungsverpflichtung nach § 19 übernommen hat, ist verpflichtet, der Entschädigungseinrichtung unverzüglich alle Umstände anzuzeigen, die die Fähigkeit des CRR-Kreditinstituts beeinträchtigen könnten, der Zahlungsverpflichtung oder dem Rahmenvertrag über Finanzsicherheiten nachzukommen.
 
@@ -486,8 +451,7 @@ Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen Finanzsic
 
 (3) Die Entschädigungseinrichtung kann den CRR-Kreditinstituten im Rahmenvertrag weitere Anzeige- oder Informationspflichten in Bezug auf die gestellten Finanzsicherheiten auferlegen.
 
-
-## § 32 – Zuordnung zu einer anderen Entschädigungseinrichtung, Ausscheiden aus der Entschädigungseinrichtung
+# § 32 – Zuordnung zu einer anderen Entschädigungseinrichtung, Ausscheiden aus der Entschädigungseinrichtung
 
 (1) Wechselt ein CRR-Kreditinstitut nach § 24 Absatz 2 oder 3 des Einlagensicherungsgesetzes die Entschädigungseinrichtung und werden Beiträge nach § 25 Absatz 2 des Einlagensicherungsgesetzes übertragen, so kann die bisherige Entschädigungseinrichtung
 
@@ -507,15 +471,13 @@ Das CRR-Kreditinstitut hat zur Absicherung der Zahlungsverpflichtungen Finanzsic
 
 Die Entschädigungseinrichtung soll bei der Entscheidung nach Satz 2 diejenige Maßnahme wählen, die das CRR-Kreditinstitut am geringsten belastet.
 
-
-## § 33 – Verwertung und Freigabe von Finanzsicherheiten
+# § 33 – Verwertung und Freigabe von Finanzsicherheiten
 
 (1) Liegen die Voraussetzungen für eine Verwertung der Finanzsicherheiten nach § 27 Absatz 3 Nummer 8 vor, so veräußert die Entschädigungseinrichtung die Finanzsicherheit im Einklang mit dem Rahmenvertrag oder eignet sich diese an.
 
 (2) Erfüllt ein CRR-Kreditinstitut eine Zahlungsverpflichtung nach § 23, so hebt die Entschädigungseinrichtung das Pfandrecht an den Finanzsicherheiten auf oder überträgt die Finanzsicherheiten an das CRR-Kreditinstitut zurück, soweit die Finanzsicherheiten nicht zur Besicherung fortbestehender Zahlungsverpflichtungen erforderlich sind.
 
-
-## § 34 – Übergangsvorschriften
+# § 34 – Übergangsvorschriften
 
 (1) Jahresbeiträge für vor dem 30. September 2015 endende Abrechnungsjahre und einmalige Zahlungen für vor dem 30. September 2014 endende Abrechnungsjahre werden nach der EdB-Beitragsverordnung oder der EdVÖB-Beitragsverordnung in ihrer jeweils bis zum Ablauf des 11. Januar 2016 geltenden Fassung erhoben.
 
@@ -523,18 +485,15 @@ Die Entschädigungseinrichtung soll bei der Entscheidung nach Satz 2 diejenige M
 
 (3) Die Entschädigungseinrichtung ist berechtigt, in dem Abrechnungsjahr, in dem der Ansparzeitraum nach § 17 Absatz 2 des Einlagensicherungsgesetzes endet, zum 31. März eine Vorauszahlung auf den Jahresbeitrag zu erheben, wenn nur so die Zielausstattung rechtzeitig erreicht werden kann. Die Vorauszahlung ist in Höhe des im vorherigen Abrechnungsjahr erhobenen Jahresbeitrags zu erheben. Für die Vorauszahlung kann die Übernahme einer Zahlungsverpflichtung gestattet werden. Das Abrechnungsjahr nach Satz 1 gilt als volles Jahr bis zum Ende des Ansparzeitraums im Sinne des § 6 Absatzes 2 und 3.
 
-
-## § 35 – Inkrafttreten, Außerkrafttreten
+# § 35 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten die EdB-Beitragsverordnung vom 10. Juli 1999 (BGBl. I S. 1540), die zuletzt durch Artikel 5 der Verordnung vom 30. Januar 2014 (BGBl. I S. 322) geändert worden ist, und die EdVÖB-Beitragsverordnung vom 10. Juli 1999 (BGBl. I S. 1538), die zuletzt durch Artikel 4 der Verordnung vom 30. Januar 2014 (BGBl. I S. 322) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 8 Absatz 1 und § 9)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
+# Anlage 1 – (zu § 8 Absatz 1 und § 9)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung deutscher Banken GmbH zugeordnet sind
 
 (Fundstelle: BGBl. I 2016, 21 - 23)
 
-I.  
-Risikokategorien und Risikoindikatoren
+I. Risikokategorien und Risikoindikatoren
 
 Folgende Risikokategorien und -indikatoren gehen in die Risikoeinschätzung mit folgender Gewichtung ein:
 
@@ -619,13 +578,11 @@ Die Bonitätsnote nach § 8 Absatz 2 wird wie folgt ermittelt:
 
 3. Der IRS jedes Risikoindikators wird mit der jeweiligen Indikatorgewichtung gemäß Spalte 2 der Tabelle unter Ziffer I multipliziert. Die gewichteten IRS werden aufsummiert und entsprechend ihrem Summenwert einer Bonitätsnote zwischen 0 für „höchste Bonität“ und 9 für „schwächste Bonität“ gemäß § 8 Absatz 2 zugeordnet.
 
-
-## Anlage 2 – (zu § 11 Absatz 1 und § 12)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind
+# Anlage 2 – (zu § 11 Absatz 1 und § 12)Risikoeinschätzung auf der Grundlage von Risikokategorien und Risikoindikatoren für CRR-Kreditinstitute, die der Entschädigungseinrichtung des Bundesverbandes Öffentlicher Banken Deutschlands GmbH zugeordnet sind
 
 (Fundstelle: BGBl. I 2016, 24 - 26)
 
-I.  
-Risikokategorien und Risikoindikatoren
+I. Risikokategorien und Risikoindikatoren
 
 Folgende Risikokategorien und -indikatoren gehen in die Risikoeinschätzung mit folgender Gewichtung ein:
 

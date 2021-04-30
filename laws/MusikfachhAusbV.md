@@ -1,25 +1,19 @@
-# [MusikfachhAusbV] Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
-
-Ausfertigungsdatum: 24.03.2009
-
+% Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+% Ausfertigungsdatum: 24.03.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Musikfachhändler/Musikfachhändlerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -27,8 +21,7 @@ Die Berufsausbildung gliedert sich in
 
 2. eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit nach § 4 Absatz 2 Abschnitt B.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -198,8 +191,7 @@ Informations- und Kommunikationssysteme,
 2.3  
 Interne Kommunikation und Kooperation.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -207,8 +199,7 @@ Interne Kommunikation und Kooperation.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
@@ -224,8 +215,7 @@ Die Ausbildungsordnung ist zugrunde zu legen.
 
 (3) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Abschlussprüfung
+# § 7 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -279,8 +269,7 @@ kann;
 
 3. die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 8 – Teil 2 der Abschlussprüfung
+# § 8 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung soll am Ende der Berufsausbildung stattfinden.
 
@@ -350,8 +339,7 @@ kann;
 
 4. die Prüfungszeit für das fallbezogene Fachgespräch beträgt höchstens 30 Minuten, die Vorbereitungszeit für den Prüfling höchstens 15 Minuten.
 
-
-## § 9 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+# § 9 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -392,15 +380,13 @@ Musikhandel</td><td style="text-align: right;">mit 20 Prozent,</td></tr></tbody>
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 10 – Zusatzqualifikationen
+# § 10 – Zusatzqualifikationen
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt B können als Zusatzqualifikationen vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikationen gilt die in der Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
 
-
-## § 11 – Prüfung der Zusatzqualifikationen
+# § 11 – Prüfung der Zusatzqualifikationen
 
 (1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die dafür erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
@@ -408,11 +394,9 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
-
-
-## Anlage 2 – (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+# Anlage 2 – (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
 Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten erstmals schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich.
 

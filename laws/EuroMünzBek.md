@@ -1,10 +1,7 @@
-# [EuroMünzBek] Bekanntmachung über die Gestaltung der nationalen Münzseiten der für den Umlauf bestimmten deutschen Euro-Münzen
-
-Ausfertigungsdatum: 04.11.2001
-
+% Bekanntmachung über die Gestaltung der nationalen Münzseiten der für den Umlauf bestimmten deutschen Euro-Münzen
+% Ausfertigungsdatum: 04.11.2001
  
-
-## ----
+# ----
 
 Gemäß den §§ 1 und 4 des am 1. Januar 2002 in Kraft tretenden Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, für den Umlauf bestimmte deutsche Euro-Münzen mit nationalen Motiven auszuprägen. Insgesamt wird es drei nationale Motive geben. Folgende Münzwerte erhalten jeweils eine einheitliche Gestaltung:
 
@@ -36,8 +33,7 @@ EINIGKEIT UND RECHT UND FREIHEIT (... Bundesadler).
 
 Der Entwurf stammt von Heinz Hoyer und Sneschana Russewa-Hoyer aus Berlin.
 
-Die nationalen Symbole aller Nominale sind - wie in den übrigen Euro-Teilnehmerländern auch - von einem Kranz aus zwölf Sternen umgeben.  
-Die Herstellung der Münzen erfolgt in allen fünf deutschen Münzstätten mit den folgenden Münzzeichen: A (Berlin), D (München), F (Stuttgart), G (Karlsruhe) und J (Hamburg).
+Die nationalen Symbole aller Nominale sind - wie in den übrigen Euro-Teilnehmerländern auch - von einem Kranz aus zwölf Sternen umgeben. Die Herstellung der Münzen erfolgt in allen fünf deutschen Münzstätten mit den folgenden Münzzeichen: A (Berlin), D (München), F (Stuttgart), G (Karlsruhe) und J (Hamburg).
 
 Der Bundesminister der Finanzen
 

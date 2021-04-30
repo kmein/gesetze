@@ -1,15 +1,11 @@
-# [SparSichSaarGDV] Verordnung zur Durchführung des Gesetzes zur Sicherung von Ersparnissen im Saarland
-
-Ausfertigungsdatum: 25.07.1959
-
+% Verordnung zur Durchführung des Gesetzes zur Sicherung von Ersparnissen im Saarland
+% Ausfertigungsdatum: 25.07.1959
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 3 des Gesetzes zur Sicherung von Ersparnissen im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 367) verordnet die Bundesregierung:
 
-
-## § 1
+# § 1
 
 (1) Natürlichen Personen im Sinne von § 2 des Gesetzes werden gleichgestellt
 
@@ -23,8 +19,7 @@ Auf Grund des § 2 Abs. 3 des Gesetzes zur Sicherung von Ersparnissen im Saarlan
 
 § 1 Abs. 3 Kursivdruck: Aufgeh. durch Art. 96 Nr. 5 u. 6 G v. 14.12.1976 I 3341
 
-
-## § 2
+# § 2
 
 (1) Eine Sparanlage gilt als für die begünstigten Zwecke gebunden, wenn das Vermögen des Berechtigten am 19. Dezember 1958 nach der Satzung oder der Verfassung oder einer sonst getroffenen verbindlichen Regelung für diese Zwecke zu verwenden war.
 
@@ -36,8 +31,7 @@ Auf Grund des § 2 Abs. 3 des Gesetzes zur Sicherung von Ersparnissen im Saarlan
 
 § 2 Abs. 2 Satz 1 Kursivdruck: Aufgeh. durch Art. 96 Nr. 6 G v. 14.12.1976 I 3341
 
-
-## § 3
+# § 3
 
 Diente das Vermögen des Berechtigten am 19. Dezember 1958 nur teilweise den begünstigten Zwecken, so gilt folgendes:
 
@@ -47,23 +41,19 @@ Diente das Vermögen des Berechtigten am 19. Dezember 1958 nur teilweise den beg
 
 3. Waren aus dem Vermögen auch die Aufwendungen zur Unterstützung natürlicher Personen zu bestreiten, sind zu dem Vermögen gehörige, nicht im Sinne von Nummer 1 abgrenzbare Sparanlagen bis zur Höhe des zwanzigfachen Jahresbetrages der in den Jahren 1953 bis 1958 durchschnittlich für die Unterstützung natürlicher Personen aufgewendeten Beträge als für Zwecke der Unterstützung natürlicher Personen gebunden anzusehen.
 
-
-## § 4
+# § 4
 
 Die Leistung nach § 5 des Gesetzes wird in den Fällen des § 1 Abs. 1 nur auf Antrag gewährt. Über die Anträge entscheidet die Oberfinanzdirektion Saarbrücken.
 
-
-## § 5
+# § 5
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 23 des Gesetzes zur Sicherung von Ersparnissen im Saarland auch im Land Berlin.
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt mit Wirkung vom 6. Juli 1959 in Kraft.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1959, 563
 
@@ -85,8 +75,7 @@ Fundstelle des Originaltextes: BGBl. I 1959, 563
 
 8. Notarkammer des Saarlandes hinsichtlich ihrer Versorgungseinrichtung
 
-
-## Anlage 2 – (zu § 3 Nr. 2)  Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
+# Anlage 2 – (zu § 3 Nr. 2)  Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
 
 Fundstelle des Originaltextes: BGBl. I 1959, 563
 

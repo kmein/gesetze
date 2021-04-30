@@ -1,10 +1,7 @@
-# [TGV] Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland  (Trennungsgeldverordnung - TGV)
-
-Ausfertigungsdatum: 20.05.1986
-
+% Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland  (Trennungsgeldverordnung - TGV)
+% Ausfertigungsdatum: 20.05.1986
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Berechtigte nach dieser Verordnung sind
 
@@ -52,8 +49,7 @@ Ausfertigungsdatum: 20.05.1986
 
 (4) Die Absätze 2 und 3 gelten auch für im Grenzverkehr tätige Beamte im Bereich ausländischer Lokalgrenzbehörden, zwischen solchen Bereichen und zwischen diesen und dem Inland.
 
-
-## § 2 – Trennungsgeld nach Zusage der Umzugskostenvergütung
+# § 2 – Trennungsgeld nach Zusage der Umzugskostenvergütung
 
 (1) Ist Umzugskostenvergütung zugesagt, steht Trennungsgeld zu,
 
@@ -85,8 +81,7 @@ Trennungsgeld darf auch gewährt werden, wenn zum Zeitpunkt des Wirksamwerdens d
 
 (+++ § 2 Abs. 3: Zur Anwendung vgl. DBeglG § 2 Abs. 2 Buchst. a +++)
 
-
-## § 3 – Trennungsgeld beim auswärtigen Verbleiben
+# § 3 – Trennungsgeld beim auswärtigen Verbleiben
 
 (1) Ein Berechtigter, der nicht täglich zum Wohnort zurückkehrt und dem die tägliche Rückkehr nicht zuzumuten oder aus dienstlichen Gründen nicht gestattet ist, erhält für die ersten 14 Tage nach beendeter Dienstantrittsreise als Trennungsgeld die gleiche Vergütung wie bei Dienstreisen (Trennungsreisegeld). Die tägliche Rückkehr zum Wohnort ist in der Regel nicht zuzumuten, wenn beim Benutzen regelmäßig verkehrender Beförderungsmittel die Abwesenheit von der Wohnung mehr als 12 Stunden oder die benötigte Zeit für das Zurücklegen der Strecke zwischen Wohnung und Dienststätte und zurück mehr als 3 Stunden beträgt. Ändert sich vorübergehend der Beschäftigungsort auf Grund einer Maßnahme nach § 1 Abs. 2 oder für volle Kalendertage der Abwesenheit wegen einer Dienstreise für längstens drei Monate, wird bei Rückkehr nach Beendigung der Maßnahme oder Dienstreise Trennungsreisegeld gewährt, soweit der Anspruchszeitraum nach Satz 1 noch nicht ausgeschöpft war.
 
@@ -94,8 +89,7 @@ Trennungsgeld darf auch gewährt werden, wenn zum Zeitpunkt des Wirksamwerdens d
 
 (3) Notwendige Fahrtkosten zwischen der außerhalb des Dienstortes bereitgestellten Unterkunft und der Dienststätte werden in entsprechender Anwendung des § 5 Absatz 4 erstattet.
 
-
-## § 4 – Sonderbestimmungen beim auswärtigen Verbleiben
+# § 4 – Sonderbestimmungen beim auswärtigen Verbleiben
 
 (1) Das Tagegeld des Trennungsreisegeldes und das Trennungstagegeld werden für volle Kalendertage
 
@@ -121,8 +115,7 @@ nicht gewährt.
 
 (8) Wird nach einem Umzug mit Zusage der Umzugskostenvergütung kein Trennungsgeld für die bisherige Unterkunft mehr gewährt, werden die notwendigen Auslagen für diese Unterkunft längstens bis zu dem Zeitpunkt erstattet, zu dem das Mietverhältnis frühestens gelöst werden kann.
 
-
-## § 5 – Reisebeihilfe für Heimfahrten
+# § 5 – Reisebeihilfe für Heimfahrten
 
 (1) Ein Berechtigter nach § 3 hat einen Anspruch auf Reisebeihilfen nach Maßgabe des § 8 des Bundesreisekostengesetzes.
 
@@ -138,20 +131,17 @@ nicht gewährt.
 
 (+++ § 5: Zur Anwendung vgl. DBeglG § 2 Abs. 2 Buchst. b +++)
 
-
-## § 5a – Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern
+# § 5a – Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern
 
 Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerbern für von der obersten Dienstbehörde beschlossene personelle Unterstützungsmaßnahmen eingesetzt werden, erhalten eine Reisebeihilfe für jede Woche. § 5 Absatz 1 Satz 2 bis 4 und Absatz 2 bis 4 bleibt im Übrigen unberührt.
 
 (+++ § 5a: Zur Anwendung vgl. § 10 TGV 1986 +++)
 
-
-## § 5b
+# § 5b
 
 (weggefallen)
 
-
-## § 6 – Trennungsgeld bei täglicher Rückkehr zum Wohnort
+# § 6 – Trennungsgeld bei täglicher Rückkehr zum Wohnort
 
 (1) Ein Berechtigter, der täglich an den Wohnort zurückkehrt oder dem die tägliche Rückkehr zuzumuten ist (§ 3 Abs. 1 Satz 2), erhält als Trennungsgeld Fahrtkostenerstattung oder Wegstreckenentschädigung wie bei Dienstreisen. Hierauf sind die Fahrauslagen anzurechnen, die für das Zurücklegen der Strecke zwischen Wohnung und der bisherigen, bei einer Kette von Maßnahmen nach § 1 Abs. 2 der ursprünglichen Dienststätte entstanden wären, wenn die Entfernung mindestens fünf Kilometer beträgt. Dabei ist als Aufwand ein Betrag von 0,08 Euro je Entfernungskilometer und Arbeitstag zugrunde zu legen. Von der Anrechnung ist ganz oder teilweise abzusehen, wenn der Berechtigte nachweist, daß er bei Fahrten zwischen Wohnung und bisheriger Dienststätte üblicherweise keinen entsprechenden Aufwand hätte.
 
@@ -161,8 +151,7 @@ Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerber
 
 (4) Das Trennungsgeld nach den Absätzen 1 und 2 darf das in einem Kalendermonat zustehende Trennungsgeld nach den §§ 3 und 4 sowie das Tage- und Übernachtungsgeld für die Hin- und Rückreise nicht übersteigen. Als Übernachtungsgeld wird für die ersten 14 Tage höchstens der Betrag nach § 7 Abs. 1 Satz 1 des Bundesreisekostengesetzes und ab dem 15. Tag als Trennungsübernachtungsgeld 75 Prozent dieses Betrages berücksichtigt.
 
-
-## § 7 – Sonderfälle
+# § 7 – Sonderfälle
 
 (1) Anspruch auf Trennungsgeld besteht weiter, wenn sich aus Anlaß einer neuen Maßnahme nach § 1 Abs. 2 der neue Dienstort nicht ändert.
 
@@ -172,8 +161,7 @@ Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerber
 
 (4) Anspruch auf Trennungsgeld besteht nur, solange Anspruch auf Besoldung besteht; § 4 Absatz 7 bleibt hiervon unberührt.
 
-
-## § 8 – Ende des Trennungsgeldanspruchs
+# § 8 – Ende des Trennungsgeldanspruchs
 
 (1) Das Trennungsgeld wird bis zum Tag des Wegfalls der maßgebenden Voraussetzungen gewährt.
 
@@ -181,8 +169,7 @@ Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerber
 
 (3) Bei einer neuen dienstlichen Maßnahme nach § 1 Abs. 2 wird Trennungsgeld bis zu dem Tag gewährt, an dem der Dienstort verlassen wird, bei Gewährung von Reisekostenvergütung für diesen Tag bis zum vorausgehenden Tag.
 
-
-## § 9 – Verfahrensvorschriften
+# § 9 – Verfahrensvorschriften
 
 (1) Das Trennungsgeld ist innerhalb einer Ausschlußfrist von einem Jahr nach Beginn der Maßnahme nach § 1 Abs. 2 schriftlich oder elektronisch zu beantragen. Trennungsgeld wird monatlich nachträglich auf Grund von Forderungsnachweisen gezahlt, die der Berechtigte innerhalb einer Ausschlußfrist von einem Jahr nach Ablauf des maßgeblichen Kalendermonats abzugeben hat. Satz 2 gilt entsprechend für Anträge auf Reisebeihilfe nach Ablauf des maßgebenden Anspruchszeitraums.
 
@@ -190,10 +177,8 @@ Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von Asylbewerber
 
 (3) Die oberste Dienstbehörde bestimmt die Behörde, die das Trennungsgeld gewährt.
 
-
-## § 10 – Anwendungsvorschrift
+# § 10 – Anwendungsvorschrift
 
 § 5a ist nur bis zum 31. Dezember 2023 anzuwenden.
 
-
-## §§ 11 bis 15 – (weggefallen)
+# §§ 11 bis 15 – (weggefallen)

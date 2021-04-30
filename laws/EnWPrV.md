@@ -1,20 +1,15 @@
-# [EnWPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft  (Energiewirtschaftsfachwirtprüfungsverordnung - EnWPrV)
-
-Ausfertigungsdatum: 09.05.2017
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft  (Energiewirtschaftsfachwirtprüfungsverordnung - EnWPrV)
+% Ausfertigungsdatum: 09.05.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 zuletzt durch Artikel 436 Nummer 4 Buchstabe a der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft.
 
-
-## § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft und Geprüfte Fachwirtin für Energiewirtschaft soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -44,8 +39,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Energiewirtschaft oder Geprüfte Fachwirtin für Energiewirtschaft.
 
-
-## § 3 – Voraussetzung für die Zulassung zur Prüfung
+# § 3 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -61,8 +55,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -74,8 +67,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 4. Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen.
 
-
-## § 5 – Handlungsbereich „Marktmechanismen analysieren und Vorschläge zur Unternehmenspositionierung erarbeiten“
+# § 5 – Handlungsbereich „Marktmechanismen analysieren und Vorschläge zur Unternehmenspositionierung erarbeiten“
 
 (1) Im Handlungsbereich „Marktmechanismen analysieren und Vorschläge zur Unternehmenspositionierung erarbeiten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Marktmechanismen der Energiewirtschaft zu analysieren, zu präsentieren und zu erläutern sowie auf dieser Grundlage Vorschläge zu erarbeiten, um die Entwicklung des Marktes zu prognostizieren und das Unternehmen langfristig wirtschaftlich und technisch stabil zu positionieren. Dabei sollen auch rechtliche, technische, ökologische, wirtschaftliche und gesellschaftliche Aspekte zielorientiert und situationsbezogen berücksichtigt werden.
 
@@ -97,8 +89,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Handlungsbereich „Energiebeschaffung und Energievertrieb durchführen“
+# § 6 – Handlungsbereich „Energiebeschaffung und Energievertrieb durchführen“
 
 (1) Im Handlungsbereich „Energiebeschaffung und Energievertrieb durchführen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Prozesse der Energiebeschaffung und des Energievertriebs schnittstellenorientiert und wirtschaftlich unter Berücksichtigung von technischen, organisatorischen und betrieblichen Anforderungen sowie unter rechtlichen Rahmenbedingungen zu planen, zu steuern und zu optimieren. Dabei sollen auch Aspekte der Nachhaltigkeit beachtet werden.
 
@@ -116,8 +107,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Handlungsbereich „Netzmanagement im regulierten und nicht regulierten Geschäftsfeld unterstützen“
+# § 7 – Handlungsbereich „Netzmanagement im regulierten und nicht regulierten Geschäftsfeld unterstützen“
 
 (1) Im Handlungsbereich „Netzmanagement im regulierten und nicht regulierten Geschäftsfeld unterstützen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Prozesse des regulierten und nicht regulierten Netzmanagements schnittstellenorientiert und wirtschaftlich unter Berücksichtigung von technischen, physikalischen, organisatorischen und betrieblichen Anforderungen sowie unter rechtlichen Rahmenbedingungen zu unterstützen und zu optimieren. Dabei sollen auch Aspekte der Nachhaltigkeit beachtet werden.
 
@@ -135,8 +125,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“
+# § 8 – Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“
 
 (1) Im Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, zielorientiert mit Mitarbeitern und Mitarbeiterinnen, Auszubildenden, Geschäftspartnern und Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen, ethische Grundsätze zu berücksichtigen und Mitarbeiter und Mitarbeiterinnen, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen und der Unternehmensziele zu führen und zu motivieren.
 
@@ -158,15 +147,13 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Durchführung der Prüfung
+# § 9 – Durchführung der Prüfung
 
 (1) Die Prüfung besteht aus einem selbstständigen schriftlichen Teil und einem selbstständigen mündlichen Teil.
 
 (2) Das Prüfungsverfahren ist innerhalb von zwei Jahren, beginnend vom Zeitpunkt der ersten Prüfungsleistung, abzuschließen.
 
-
-## § 10 – Schriftliche Prüfung
+# § 10 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung wird auf der Grundlage einer Beschreibung einer betrieblichen Situation durchgeführt.
 
@@ -178,8 +165,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Mündliche Prüfung
+# § 11 – Mündliche Prüfung
 
 (1) Zur mündlichen Prüfung wird nur zugelassen, wer die schriftliche Prüfung abgelegt hat.
 
@@ -195,15 +181,13 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 12 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 13 und 14 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 13 Absatz 3 oder Absatz 4 oder § 14 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Bewertung von Prüfungsleistungen
+# § 13 – Bewertung von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -219,8 +203,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Bestehen der Prüfung, Gesamtnote
+# § 14 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen und der mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -230,8 +213,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Zeugnisse
+# § 15 – Zeugnisse
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -245,8 +227,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Wiederholung der Prüfung
+# § 16 – Wiederholung der Prüfung
 
 (1) Ist die schriftliche Prüfung nicht bestanden, kann sie zweimal wiederholt werden. Ist die mündliche Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -260,15 +241,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Ausbildereignung
+# § 17 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Folgende Prüfungen, die vor Ablauf des 31. Dezember 2017 angemeldet wurden, werden bis zum 31. Juli 2021 nach den bisherigen Vorschriften zu Ende geführt:
 
@@ -282,15 +261,13 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2017 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2435 – 2436)
 
@@ -299,8 +276,7 @@ Diese Verordnung tritt am 1. Oktober 2017 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 15)Zeugnisinhalte
+# Anlage 2 – (zu § 15)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2436 – 2437)
 

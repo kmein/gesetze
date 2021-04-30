@@ -1,15 +1,11 @@
-# [LuftPersVDV 3 2017] Dritte Durchführungsverordnung des Luftfahrt-Bundesamtes zur Verordnung über Luftfahrtpersonal
-
-Ausfertigungsdatum: 30.05.2017
-
+% Dritte Durchführungsverordnung des Luftfahrt-Bundesamtes zur Verordnung über Luftfahrtpersonal
+% Ausfertigungsdatum: 30.05.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Absatz 1 Satz 1 Nummer 4 und 5 und Absatz 3 Satz 1 bis 3 des Luftverkehrsgesetzes, von denen Absatz 1 Satz 1 zuletzt durch Artikel 567 Nummer 2 Buchstabe a Doppelbuchstabe aa und Absatz 3 Satz 3 zuletzt durch Artikel 567 Nummer 2 Buchstabe b der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert und Absatz 3 Satz 1 und 2 durch Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) neu gefasst worden ist, in Verbindung mit § 6 Nummer 1 und 2, die §§ 125 und 125a Absatz 1 Satz 1 und 2 und Absatz 2 Satz 3 der Verordnung über Luftfahrtpersonal, von denen § 6 Nummer 1 durch Artikel 2 Nummer 4 der Verordnung vom 17. Dezember 2014 (BGBl. I S. 2237) eingefügt, § 6 Nummer 2 durch Artikel 3a Nummer 2 des Gesetzes vom 28. Juni 2016 (BGBl. I S. 1548) geändert, § 125 durch Artikel 2 Nummer 49 der Verordnung vom 17. Dezember 2014 (BGBl. I S. 2237) neu gefasst und § 125a Absatz 1 durch Artikel 2 Nummer 50 der Verordnung vom 17. Dezember 2014 (BGBl. I S. 2237) geändert und Absatz 2 Satz 3 durch Artikel 3 Nummer 3 der Verordnung vom 21. September 2008 (BGBl. I S. 1834) eingefügt worden ist, verordnet das Luftfahrt-Bundesamt:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung enthält Regelungen zu
 
@@ -25,15 +21,13 @@ Diese Verordnung enthält Regelungen zu
 
 6. den Verfahren bei Beschwerden bezüglich des Ergebnisses einer Sprachprüfung.
 
-
-## § 2 – Gegenstand der Sprachprüfung; Bestehen der Sprachprüfung
+# § 2 – Gegenstand der Sprachprüfung; Bestehen der Sprachprüfung
 
 (1) In der Sprachprüfung nach § 125 Absatz 1 LuftPersV werden Hörverstehen und Sprechfertigkeiten des Bewerbers überprüft. Die Bewertung richtet sich nach den Kriterien entsprechend der Einstufungsskala in Anlage 2 zu Anhang I der Verordnung (EU) Nr. 1178/2011.
 
 (2) Die Sprachprüfung ist bestanden, wenn als Ergebnis der Bewertung das Niveau der Einsatzfähigkeit (Stufe 4), das erweiterte Niveau (Stufe 5) oder das Expertenniveau (Stufe 6) entsprechend Anlage 2 zu Anhang I der Verordnung (EU) Nr. 1178/2011 erreicht wurde.
 
-
-## § 3 – Nachweis von Sprachkenntnissen
+# § 3 – Nachweis von Sprachkenntnissen
 
 (1) Das Hörverstehen in der zu überprüfenden Sprache ist in einem Prüfungsgespräch und zusätzlich durch das Verstehen eines oder mehrerer Hörtexte nachzuweisen. Das Verstehen der Hörtexte ist je nach Aufgabenstellung nachzuweisen durch:
 
@@ -49,15 +43,13 @@ Diese Verordnung enthält Regelungen zu
 
 (4) Die einzelnen Verfahren zur Prüfung und zur Bewertung der Sprachkenntnisse, einschließlich der Prüfungsformate und der Prüfungssätze zur Feststellung des Hörverstehens und der Sprechfertigkeiten, ergeben sich aus dem Prüfstellenhandbuch nach § 14 oder dem Handbuch für Einzelprüfer nach § 15. Das Prüfungsformat ist der grundlegende und verbindliche Aufbau einer Prüfung. Je nach Prüfungsformat besteht ein Prüfungssatz aus einzelnen Aufgabenstellungen zur Feststellung des Hörverstehens nach Absatz 1 oder aus einzelnen Fragen zur Feststellung der Sprechfertigkeiten nach Absatz 2.
 
-
-## § 4 – Erstprüfung
+# § 4 – Erstprüfung
 
 (1) Die erstmalige Bewertung der Sprachkenntnisse einer Stufe gilt als Erstprüfung.
 
 (2) Als erstmalig bewertet gelten auch die Sprachkenntnisse einer Stufe, wenn die Geltungsdauer des Sprachvermerks für diese Stufe abgelaufen ist.
 
-
-## § 5 – Verlängerungsprüfung
+# § 5 – Verlängerungsprüfung
 
 (1) Die regelmäßige Neubewertung der Sprachkenntnisse einer Stufe entsprechend § 125 Absatz 2 LuftPersV gilt als Verlängerungsprüfung.
 
@@ -71,15 +63,13 @@ Diese Verordnung enthält Regelungen zu
 
 (4) Die Überprüfung der Sprechfertigkeiten hat in den Fällen der Absätze 2 und 3 unmittelbar vor oder unmittelbar nach dem fliegerischen Ereignis, der wiederkehrenden Schulung oder der Überprüfung stattzufinden.
 
-
-## § 6 – Sprachprüfer
+# § 6 – Sprachprüfer
 
 (1) Die Erstprüfung für eine Stufe erfolgt durch eine Kommission, bestehend aus mindestens zwei Sprachprüfern. Der für die Bewertung der Sprachkenntnisse verantwortliche Sprachprüfer muss über die entsprechende Prüfberechtigung verfügen; die Prüfberechtigung ergibt sich aus dem Beiblatt zum Bescheid der Anerkennung. Der zweite Sprachprüfer, der das Prüfungsgespräch führt, muss über eine Prüfberechtigung sowie über Sprachkenntnisse einer Stufe verfügen, die höher ist als die zu prüfende Stufe, oder über Sprachkenntnisse der Stufe 6.
 
 (2) Die Verlängerungsprüfung für eine Stufe kann durch einen einzelnen Sprachprüfer abgenommen werden, sofern dieser über die entsprechende Prüfberechtigung verfügt; die Prüfberechtigung ergibt sich aus dem Bescheid der Anerkennung als Sprachprüfer oder aus dem Beiblatt zum Bescheid.
 
-
-## § 7 – Prüfungsprotokoll
+# § 7 – Prüfungsprotokoll
 
 (1) Der Prüfungsverlauf ist durch die an der Sprachprüfung beteiligten Sprachprüfer zu protokollieren. Das Prüfungsprotokoll muss mindestens die folgenden Angaben enthalten:
 
@@ -105,15 +95,13 @@ Diese Verordnung enthält Regelungen zu
 
 (3) Weitere Einzelheiten zur Dokumentation einer Sprachprüfung ergeben sich aus dem Prüfstellenhandbuch nach § 14 oder dem Standardisierungsgespräch einschließlich des Handbuchs für Einzelprüfer nach § 15.
 
-
-## § 8 – Sprachvermerk nach Erstprüfung; Geltungsdauer
+# § 8 – Sprachvermerk nach Erstprüfung; Geltungsdauer
 
 (1) Nach einer bestandenen Erstprüfung wird der Sprachvermerk über die Sprachkenntnisse der entsprechenden Stufe von der nach § 5 LuftPersV zuständigen Stelle auf der Vorderseite der Lizenz eingetragen. Der Sprachvermerk wird nur eingetragen, wenn der Bewerber über eine Berechtigung oder die nachgewiesene Befähigung zur Durchführung des Sprechfunkverkehrs unter Anwendung der Sprechgruppen nach Anhang I FCL.055 Buchstabe b der Verordnung (EU) Nr. 1178/2011 in der entsprechenden Sprache verfügt.
 
 (2) Der Sprachvermerk ist gültig ab dem Tag der Erstprüfung bis zum Ablauf des letzten Kalendermonats der Geltungsdauer von Sprachvermerken für die entsprechende Stufe.
 
-
-## § 9 – Sprachvermerk nach Verlängerungsprüfung; Geltungsdauer
+# § 9 – Sprachvermerk nach Verlängerungsprüfung; Geltungsdauer
 
 (1) Sofern nach bestandener Verlängerungsprüfung die Geltungsdauer des Sprachvermerks nicht durch die nach § 5 LuftPersV zuständige Stelle verlängert wird, wird er durch handschriftlichen Eintrag auf der Rückseite einer nach § 8 LuftPersV erteilten Lizenz verlängert. Ein handschriftlicher Eintrag ist nur zur Verlängerung der noch gültigen Geltungsdauer einer bereits eingetragenen Stufe zulässig. Der handschriftliche Eintrag ist von einem Sprachprüfer vorzunehmen, der zur Eintragung des Sprachvermerks nach § 125a Absatz 1 LuftPersV durch das Luftfahrt-Bundesamt ausdrücklich ermächtigt ist.
 
@@ -121,8 +109,7 @@ Diese Verordnung enthält Regelungen zu
 
 (3) Wird bei einem Bewerber, dessen gültiger Sprachvermerk Sprachkenntnisse der Stufe 5 ausweist, bei der Verlängerungsprüfung festgestellt, dass seine Sprachkenntnisse nur noch der Stufe 4 genügen, oder ist die prüfende Stelle nicht für die Abnahme von Prüfungen zum Nachweis von Sprachkenntnissen der Stufe 5 anerkannt, entspricht die neue Geltungsdauer des Sprachvermerks die der Geltungsdauer des Sprachvermerks für die Stufe 4. Der Eintrag erfolgt in diesen Fällen durch die nach § 5 LuftPersV zuständige Stelle auf der Vorderseite der Lizenz.
 
-
-## § 10 – Nachweis von Sprachkenntnissen der Stufe 6
+# § 10 – Nachweis von Sprachkenntnissen der Stufe 6
 
 Zum Nachweis von Sprachkenntnissen der Stufe 6 entsprechend § 125 Absatz 1 Satz 2 LuftPersV muss der Bewerber durch geeignete Dokumente nachweisen, dass er berechtigt oder befähigt ist, den Sprechfunkverkehr in der entsprechenden Sprache unter Anwendung der Sprechgruppen nach Anhang I FCL.055 Buchstabe b der Verordnung (EU) Nr. 1178/2011 durchzuführen, und dass
 
@@ -130,8 +117,7 @@ Zum Nachweis von Sprachkenntnissen der Stufe 6 entsprechend § 125 Absatz 1 Satz
 
 2. er die Sprachkenntnisse im Rahmen eines abgeschlossenen sprachlichen Studiums erworben hat (§ 12).
 
-
-## § 11 – Nachweis der Erstsprache
+# § 11 – Nachweis der Erstsprache
 
 (1) Die Erstsprache kann gegenüber der nach § 5 LuftPersV zuständigen Stelle durch die Vorlage von Dokumenten nachgewiesen werden, aus denen hervorgeht, dass der Bewerber mindestens acht seiner ersten 14 Lebensjahre in einem Staat verbracht hat, in dem die entsprechende Sprache Amtssprache ist. Auch bei einer geringfügigen Abweichung von der Erfüllung der Voraussetzungen nach Satz 1 kann das Luftfahrt-Bundesamt die entsprechende Sprache als Erstsprache anerkennen.
 
@@ -139,8 +125,7 @@ Zum Nachweis von Sprachkenntnissen der Stufe 6 entsprechend § 125 Absatz 1 Satz
 
 (3) Die Erstsprache Deutsch kann auch durch eine schriftliche Selbsterklärung gegenüber der nach § 5 LuftPersV zuständigen Stelle nachgewiesen werden.
 
-
-## § 12 – Nachweis eines sprachlichen Studiums
+# § 12 – Nachweis eines sprachlichen Studiums
 
 Dokumente über ein abgeschlossenes sprachliches Studium werden als Nachweis über Sprachkenntnisse der Stufe 6 anerkannt, wenn aus diesen Dokumenten hervorgeht, dass
 
@@ -150,20 +135,17 @@ Dokumente über ein abgeschlossenes sprachliches Studium werden als Nachweis üb
 
 3. der Bewerber das Hörverstehen und die Sprechfertigkeiten in der entsprechenden Sprache in einer sprachpraktischen Prüfung nachgewiesen hat.
 
-
-## § 13 – Anerkennung von Stellen für die Abnahme von Sprachprüfungen
+# § 13 – Anerkennung von Stellen für die Abnahme von Sprachprüfungen
 
 Die Anerkennung als Stelle für die Abnahme von Sprachprüfungen können sowohl Organisationen als auch Einzelpersonen beantragen. Einzelpersonen können nur für die Abnahme von Verlängerungsprüfungen für Stufe 4 anerkannt werden.
 
-
-## § 14 – Prüfstellenhandbuch einer Organisation; anerkannte Organisation
+# § 14 – Prüfstellenhandbuch einer Organisation; anerkannte Organisation
 
 (1) Eine Organisation weist das Vorliegen der Voraussetzungen nach Anlage 2 zu § 125a LuftPersV durch ein Prüfstellenhandbuch nach, welches der Genehmigung durch das Luftfahrt-Bundesamt bedarf. Das Prüfstellenhandbuch enthält Zuständigkeiten und Verfahren zur Prüfung, Bewertung, Dokumentation und Qualitätssicherung.
 
 (2) Liegen die Voraussetzungen vor, so wird die Organisation gemäß § 125a Absatz 1 LuftPersV vom Luftfahrt-Bundesamt anerkannt (anerkannte Organisation).
 
-
-## § 15 – Standardisierungsgespräch und Handbuch für Einzelprüfer
+# § 15 – Standardisierungsgespräch und Handbuch für Einzelprüfer
 
 (1) Eine Einzelperson kann das Vorliegen der Voraussetzungen nach Anlage 2 zu § 125a LuftPersV durch ein Standardisierungsgespräch nachweisen. Das Standardisierungsgespräch findet nach der erstmaligen Schulung der Einzelperson, die der Einhaltung der Bewertungsanforderungen dient, beim Luftfahrt-Bundesamt statt.
 
@@ -173,8 +155,7 @@ Die Anerkennung als Stelle für die Abnahme von Sprachprüfungen können sowohl 
 
 (4) Einzelprüfer ist eine Einzelperson, der die Anerkennung mittels Bescheid erteilt worden ist.
 
-
-## § 16 – Aufsicht über anerkannte Stellen für die Abnahme von Sprachprüfungen
+# § 16 – Aufsicht über anerkannte Stellen für die Abnahme von Sprachprüfungen
 
 (1) Für seine Aufsicht über die anerkannten Stellen gemäß § 125a Absatz 2 LuftPersV ergreift das Luftfahrt-Bundesamt insbesondere folgende Aufsichtsmaßnahmen:
 
@@ -198,8 +179,7 @@ Die Anerkennung als Stelle für die Abnahme von Sprachprüfungen können sowohl 
 
 5. Ablehnung von Anträgen der anerkannten Stelle, insbesondere der Erweiterung der Prüfberechtigung oder des Prüfpersonals.
 
-
-## § 17 – Pflichten der anerkannten Stelle im Rahmen der Aufsicht
+# § 17 – Pflichten der anerkannten Stelle im Rahmen der Aufsicht
 
 (1) Die anerkannte Stelle erteilt dem Luftfahrt-Bundesamt auf Verlangen die zur Wahrnehmung der Aufsicht erforderlichen Auskünfte und gewährt hierfür Einsicht in diejenigen Dokumente, Unterlagen oder Aufzeichnungen, auf die im Prüfstellenhandbuch nach § 14 oder im Handbuch für Einzelprüfer nach § 15 Bezug genommen wird.
 
@@ -227,8 +207,7 @@ Die anerkannte Stelle hat die Audioaufzeichnungen zwei Jahre lang aufzubewahren 
 
 (5) Stellt das Luftfahrt-Bundesamt fest, dass die für die anerkannte Stelle genehmigten Verfahren ungeeignet sind, hat die anerkannte Stelle die Verfahren im Prüfstellenhandbuch zu überarbeiten. Einzelprüfer haben im Fall von Satz 1 zur Gewährleistung der Standardisierung eine Schulung durch das Luftfahrt-Bundesamt zu absolvieren.
 
-
-## § 18 – Standardisierung
+# § 18 – Standardisierung
 
 (1) Die Einhaltung rechtlicher, organisatorischer, verfahrenstechnischer und fachlicher Vorgaben, insbesondere der Bewertungsanforderungen, durch die anerkannten Stellen (Standardisierung) ist durch Schulungen der Sprachprüfer zu gewährleisten. Sprachprüfer einer anerkannten Organisation und Einzelprüfer haben an einer erstmaligen Schulung und an regelmäßig wiederkehrenden Schulungen teilzunehmen.
 
@@ -238,8 +217,7 @@ Die anerkannte Stelle hat die Audioaufzeichnungen zwei Jahre lang aufzubewahren 
 
 (4) Das Luftfahrt-Bundesamt kann die Befähigung der an den Schulungen teilnehmenden Sprachprüfer zur Durchführung von Sprachprüfungen feststellen und ihre Fähigkeit zur Einhaltung der Vorgaben zur Standardisierung nach Absatz 1 überprüfen und dokumentieren.
 
-
-## § 19 – Beschwerde über das Ergebnis einer Sprachprüfung
+# § 19 – Beschwerde über das Ergebnis einer Sprachprüfung
 
 (1) Ist der Bewerber mit dem Ergebnis einer Sprachprüfung nicht einverstanden, kann er Beschwerde bei der anerkannten Stelle einlegen.
 
@@ -261,7 +239,6 @@ b) welche Maßnahmen bereits durch die anerkannte Stelle durchgeführt wurden, u
 
 (4) Stellt das Luftfahrt-Bundesamt bei der Prüfung der Beschwerde fest, dass eine anerkannte Stelle die genehmigten Verfahren bei der Sprachprüfung nicht eingehalten hat, so hat die anerkannte Stelle dem Beschwerdeführer eine erneute, kostenfreie Sprachprüfung unter Einhaltung der genehmigten Verfahren anzubieten.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Dritte Durchführungsverordnung zur Verordnung über Luftfahrtpersonal vom 3. Dezember 2010 (BAnz. S. 4086) außer Kraft.

@@ -1,20 +1,15 @@
-# [UKlaG] Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen  (Unterlassungsklagengesetz - UKlaG)
-
-Ausfertigungsdatum: 26.11.2001
-
+% Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen  (Unterlassungsklagengesetz - UKlaG)
+% Ausfertigungsdatum: 26.11.2001
  
-
-## § 1 – Unterlassungs- und Widerrufsanspruch bei Allgemeinen Geschäftsbedingungen
+# § 1 – Unterlassungs- und Widerrufsanspruch bei Allgemeinen Geschäftsbedingungen
 
 Wer in Allgemeinen Geschäftsbedingungen Bestimmungen, die nach den §§ 307 bis 309 des Bürgerlichen Gesetzbuchs unwirksam sind, verwendet oder für den rechtsgeschäftlichen Verkehr empfiehlt, kann auf Unterlassung und im Fall des Empfehlens auch auf Widerruf in Anspruch genommen werden.
 
-
-## § 1a – Unterlassungsanspruch wegen der Beschränkung der Haftung bei Zahlungsverzug
+# § 1a – Unterlassungsanspruch wegen der Beschränkung der Haftung bei Zahlungsverzug
 
 Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Geschäftsbedingungen den Vorschriften des § 271a Absatz 1 bis 3, des § 286 Absatz 5 oder des § 288 Absatz 6 des Bürgerlichen Gesetzbuchs zuwiderhandelt, kann auf Unterlassung in Anspruch genommen werden.
 
-
-## § 2 – Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
+# § 2 – Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
 
 (1) Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Geschäftsbedingungen Vorschriften zuwiderhandelt, die dem Schutz der Verbraucher dienen (Verbraucherschutzgesetze), kann im Interesse des Verbraucherschutzes auf Unterlassung und Beseitigung in Anspruch genommen werden. Werden die Zuwiderhandlungen in einem Unternehmen von einem Mitarbeiter oder Beauftragten begangen, so ist der Unterlassungsanspruch oder der Beseitigungsanspruch auch gegen den Inhaber des Unternehmens begründet. Bei Zuwiderhandlungen gegen die in Absatz 2 Satz 1 Nummer 11 genannten Vorschriften richtet sich der Beseitigungsanspruch nach den entsprechenden datenschutzrechtlichen Vorschriften.
 
@@ -76,8 +71,7 @@ Eine Datenerhebung, Datenverarbeitung oder Datennutzung zu einem vergleichbaren 
 
 (3) (weggefallen)
 
-
-## § 2a – Unterlassungsanspruch nach dem Urheberrechtsgesetz
+# § 2a – Unterlassungsanspruch nach dem Urheberrechtsgesetz
 
 (1) Wer gegen § 95b Abs. 1 des Urheberrechtsgesetzes verstößt, kann auf Unterlassung in Anspruch genommen werden.
 
@@ -85,8 +79,7 @@ Eine Datenerhebung, Datenverarbeitung oder Datennutzung zu einem vergleichbaren 
 
 (3) (weggefallen)
 
-
-## § 2b – Missbräuchliche Geltendmachung von Ansprüchen
+# § 2b – Missbräuchliche Geltendmachung von Ansprüchen
 
 Die Geltendmachung eines Anspruchs nach den §§ 1 bis 2a ist unzulässig, wenn sie unter Berücksichtigung der gesamten Umstände missbräuchlich ist, insbesondere wenn sie vorwiegend dazu dient, gegen den Anspruchsgegner einen Anspruch auf Ersatz von Aufwendungen oder Kosten der Rechtsverfolgung entstehen zu lassen. Eine missbräuchliche Geltendmachung ist im Zweifel anzunehmen, wenn
 
@@ -100,8 +93,7 @@ Die Geltendmachung eines Anspruchs nach den §§ 1 bis 2a ist unzulässig, wenn 
 
 In diesen Fällen kann der Anspruchsgegner Ersatz der für seine Rechtsverteidigung erforderlichen Aufwendungen verlangen. Weitergehende Ersatzansprüche bleiben unberührt.
 
-
-## § 3 – Anspruchsberechtigte Stellen
+# § 3 – Anspruchsberechtigte Stellen
 
 (1) Die in den §§ 1 bis 2 bezeichneten Ansprüche auf Unterlassung, auf Widerruf und auf Beseitigung stehen zu:
 
@@ -119,13 +111,11 @@ Der Anspruch kann nur an Stellen im Sinne des Satzes 1 abgetreten werden.
 
 2. Ansprüche nach § 1a, es sei denn, eine Zuwiderhandlung gegen § 288 Absatz 6 des Bürgerlichen Gesetzbuchs betrifft einen Anspruch eines Verbrauchers.
 
-
-## § 3a – Anspruchsberechtigte Verbände nach § 2a
+# § 3a – Anspruchsberechtigte Verbände nach § 2a
 
 Der in § 2a Abs. 1 bezeichnete Anspruch auf Unterlassung steht rechtsfähigen Verbänden zur nicht gewerbsmäßigen und nicht nur vorübergehenden Förderung der Interessen derjenigen zu, die durch § 95b Abs. 1 Satz 1 des Urheberrechtsgesetzes begünstigt werden. Der Anspruch kann nur an Verbände im Sinne des Satzes 1 abgetreten werden.
 
-
-## § 4 – Liste der qualifizierten Einrichtungen
+# § 4 – Liste der qualifizierten Einrichtungen
 
 (1) Das Bundesamt für Justiz führt eine Liste der qualifizierten Einrichtungen und veröffentlicht sie in der jeweils aktuellen Fassung auf seiner Internetseite. Es übermittelt die Liste mit Stand zum 1. Januar und zum 1. Juli eines jeden Jahres an die Europäische Kommission unter Hinweis auf Artikel 4 Absatz 2 der Richtlinie 2009/22/EG.
 
@@ -149,8 +139,7 @@ Es wird unwiderleglich vermutet, dass Verbraucherzentralen sowie andere Verbrauc
 
 (4) Auf Antrag erteilt das Bundesamt für Justiz einer qualifizierten Einrichtung, die in der Liste eingetragen ist, eine Bescheinigung über ihre Eintragung.
 
-
-## § 4a – Überprüfung der Eintragung
+# § 4a – Überprüfung der Eintragung
 
 (1) Das Bundesamt für Justiz überprüft von Amts wegen, ob eine qualifizierte Einrichtung, die in der Liste nach § 4 eingetragen ist, die Eintragungsvoraussetzungen nach § 4 Absatz 2 Satz 1 erfüllt,
 
@@ -162,8 +151,7 @@ Es wird unwiderleglich vermutet, dass Verbraucherzentralen sowie andere Verbrauc
 
 (3) Das Bundesamt für Justiz kann die qualifizierten Einrichtungen und deren Vorstandsmitglieder zur Befolgung der Pflichten im Verfahren zur Überprüfung der Eintragung durch die Festsetzung eines Zwangsgelds anhalten.
 
-
-## § 4b – Berichtspflichten und Mitteilungspflichten
+# § 4b – Berichtspflichten und Mitteilungspflichten
 
 (1) Die qualifizierten Einrichtungen, die in der Liste nach § 4 Absatz 1 eingetragen sind, sind verpflichtet, bis zum 30. Juni eines jeden Kalenderjahres dem Bundesamt für Justiz für das vorangegangene Kalenderjahr zu berichten über
 
@@ -187,8 +175,7 @@ Satz 1 Nummer 4 ist nicht anzuwenden auf qualifizierte Einrichtungen, für die d
 
 (3) Gerichte haben dem Bundesamt für Justiz Entscheidungen mitzuteilen, in denen festgestellt wird, dass eine qualifizierte Einrichtung, die in der Liste nach § 4 eingetragen ist, einen Anspruch missbräuchlich geltend gemacht hat.
 
-
-## § 4c – Aufhebung der Eintragung
+# § 4c – Aufhebung der Eintragung
 
 (1) Die Eintragung einer qualifizierten Einrichtung in der Liste nach § 4 ist mit Wirkung für die Zukunft aufzuheben, wenn
 
@@ -202,8 +189,7 @@ Satz 1 Nummer 4 ist nicht anzuwenden auf qualifizierte Einrichtungen, für die d
 
 (4) Auf Antrag bescheinigt das Bundesamt für Justiz einem Dritten, der ein rechtliches Interesse daran hat, dass die Eintragung einer qualifizierten Einrichtung in der Liste nach § 4 ruht oder aufgehoben worden ist.
 
-
-## § 4d – Verordnungsermächtigung
+# § 4d – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten zu regeln
 
@@ -211,20 +197,17 @@ Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, du
 
 2. zu den Berichtspflichten der qualifizierten Einrichtungen nach § 4b Absatz 1.
 
-
-## § 4e – Unterlassungsanspruch bei innergemeinschaftlichen Verstößen
+# § 4e – Unterlassungsanspruch bei innergemeinschaftlichen Verstößen
 
 (1) Wer einen Verstoß im Sinne von Artikel 3 Nummer 5 der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom 27.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771 (ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, in der jeweils geltenden Fassung, begeht, kann auf Unterlassung in Anspruch genommen werden.
 
 (2) Die Ansprüche stehen den Stellen nach § 3 Absatz 1 Satz 1 zu. Es wird unwiderleglich vermutet, dass ein nach § 7 Absatz 3 des EU-Verbraucherschutzdurchführungsgesetzes benannter Dritter eine Stelle nach Satz 1 ist. § 3 Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 5 – Anwendung der Zivilprozessordnung und anderer Vorschriften
+# § 5 – Anwendung der Zivilprozessordnung und anderer Vorschriften
 
 Auf das Verfahren sind die Vorschriften der Zivilprozessordnung und § 12 Absatz 1, 3 und 4, § 13 Absatz 1 bis 3 und 5 sowie § 13a des Gesetzes gegen den unlauteren Wettbewerb anzuwenden, soweit sich aus diesem Gesetz nicht etwas anderes ergibt.
 
-
-## § 6 – Zuständigkeit
+# § 6 – Zuständigkeit
 
 (1) Für Klagen nach diesem Gesetz ist das Landgericht ausschließlich zuständig, in dessen Bezirk der Beklagte seine gewerbliche Niederlassung oder in Ermangelung einer solchen seinen Wohnsitz hat. Hat der Beklagte im Inland weder eine gewerbliche Niederlassung noch einen Wohnsitz, so ist das Gericht des inländischen Aufenthaltsorts zuständig, in Ermangelung eines solchen das Gericht, in dessen Bezirk
 
@@ -238,13 +221,11 @@ Auf das Verfahren sind die Vorschriften der Zivilprozessordnung und § 12 Absatz
 
 (3) Die vorstehenden Absätze gelten nicht für Klagen, die einen Anspruch der in § 13 bezeichneten Art zum Gegenstand haben.
 
-
-## § 7 – Veröffentlichungsbefugnis
+# § 7 – Veröffentlichungsbefugnis
 
 Wird der Klage stattgegeben, so kann dem Kläger auf Antrag die Befugnis zugesprochen werden, die Urteilsformel mit der Bezeichnung des verurteilten Beklagten auf dessen Kosten im Bundesanzeiger, im Übrigen auf eigene Kosten bekannt zu machen. Das Gericht kann die Befugnis zeitlich begrenzen.
 
-
-## § 8 – Klageantrag und Anhörung
+# § 8 – Klageantrag und Anhörung
 
 (1) Der Klageantrag muss bei Klagen nach § 1 auch enthalten:
 
@@ -258,8 +239,7 @@ Wird der Klage stattgegeben, so kann dem Kläger auf Antrag die Befugnis zugespr
 
 2. Bestimmungen in Allgemeinen Geschäftsbedingungen sind, für die nach dem Bausparkassengesetz oder dem Kapitalanlagegesetzbuch eine Genehmigung vorgesehen ist.
 
-
-## § 9 – Besonderheiten der Urteilsformel
+# § 9 – Besonderheiten der Urteilsformel
 
 Erachtet das Gericht die Klage nach § 1 für begründet, so enthält die Urteilsformel auch:
 
@@ -271,28 +251,23 @@ Erachtet das Gericht die Klage nach § 1 für begründet, so enthält die Urteil
 
 4. für den Fall der Verurteilung zum Widerruf das Gebot, das Urteil in gleicher Weise bekannt zu geben, wie die Empfehlung verbreitet wurde.
 
-
-## § 10 – Einwendung wegen abweichender Entscheidung
+# § 10 – Einwendung wegen abweichender Entscheidung
 
 Der Verwender, dem die Verwendung einer Bestimmung untersagt worden ist, kann im Wege der Klage nach § 767 der Zivilprozessordnung einwenden, dass nachträglich eine Entscheidung des Bundesgerichtshofs oder des Gemeinsamen Senats der Obersten Gerichtshöfe des Bundes ergangen ist, welche die Verwendung dieser Bestimmung für dieselbe Art von Rechtsgeschäften nicht untersagt, und dass die Zwangsvollstreckung aus dem Urteil gegen ihn in unzumutbarer Weise seinen Geschäftsbetrieb beeinträchtigen würde.
 
-
-## § 11 – Wirkungen des Urteils
+# § 11 – Wirkungen des Urteils
 
 Handelt der verurteilte Verwender einem auf § 1 beruhenden Unterlassungsgebot zuwider, so ist die Bestimmung in den Allgemeinen Geschäftsbedingungen als unwirksam anzusehen, soweit sich der betroffene Vertragsteil auf die Wirkung des Unterlassungsurteils beruft. Er kann sich jedoch auf die Wirkung des Unterlassungsurteils nicht berufen, wenn der verurteilte Verwender gegen das Urteil die Klage nach § 10 erheben könnte.
 
-
-## § 12 – Einigungsstelle
+# § 12 – Einigungsstelle
 
 Für Klagen nach § 2 gelten § 15 des Gesetzes gegen den unlauteren Wettbewerb und die darin enthaltene Verordnungsermächtigung entsprechend.
 
-
-## § 12a – Anhörung der Datenschutzbehörden in Verfahren über Ansprüche nach § 2
+# § 12a – Anhörung der Datenschutzbehörden in Verfahren über Ansprüche nach § 2
 
 Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch nach § 2, das eine Zuwiderhandlung gegen ein Verbraucherschutzgesetz nach § 2 Absatz 2 Satz 1 Nummer 11 zum Gegenstand hat, die zuständige inländische Datenschutzbehörde zu hören. Satz 1 ist nicht anzuwenden, wenn über einen Antrag auf Erlass einer einstweiligen Verfügung ohne mündliche Verhandlung entschieden wird.
 
-
-## § 13 – Auskunftsanspruch der anspruchsberechtigten Stellen
+# § 13 – Auskunftsanspruch der anspruchsberechtigten Stellen
 
 (1) Wer geschäftsmäßig Post-, Telekommunikations- oder Telemediendienste erbringt oder an der Erbringung solcher Dienste mitwirkt, hat anspruchsberechtigten Stellen nach § 3 Absatz 1 Satz 1 auf deren Verlangen den Namen und die zustellfähige Anschrift eines an Post-, Telekommunikations- oder Telemediendiensten Beteiligten mitzuteilen, wenn diese Stellen schriftlich versichern, dass sie die Angaben zur Durchsetzung ihrer Ansprüche nach den §§ 1 bis 2a oder nach § 4e benötigen und nicht anderweitig beschaffen können.
 
@@ -300,13 +275,11 @@ Das Gericht hat vor einer Entscheidung in einem Verfahren über einen Anspruch n
 
 (3) Der Auskunftspflichtige kann von dem Auskunftsberechtigten einen angemessenen Ausgleich für die Erteilung der Auskunft verlangen. Der Auskunftsberechtigte kann von dem Beteiligten, dessen Angaben mitgeteilt worden sind, Erstattung des gezahlten Ausgleichs verlangen, wenn er gegen diesen Beteiligten einen Anspruch nach den §§ 1 bis 2a oder nach § 4e hat.
 
-
-## § 13a – Auskunftsanspruch sonstiger Betroffener
+# § 13a – Auskunftsanspruch sonstiger Betroffener
 
 Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen, der Erbringung unbestellter sonstiger Leistungen oder der Zusendung oder sonstiger Übermittlung unverlangter Werbung verlangen kann, hat die Ansprüche gemäß § 13 mit der Maßgabe, dass an die Stelle eines Anspruchs nach den §§ 1 bis 2a oder nach § 4e sein Anspruch auf Unterlassung nach allgemeinen Vorschriften tritt.
 
-
-## § 14 – Schlichtungsverfahren und Verordnungsermächtigung
+# § 14 – Schlichtungsverfahren und Verordnungsermächtigung
 
 (1) Bei Streitigkeiten aus der Anwendung
 
@@ -360,13 +333,11 @@ a) staatlichen Stellen, insbesondere der Bundesanstalt für Finanzdienstleistung
 
 b) vergleichbaren Stellen zur außergerichtlichen Streitbeilegung in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum.
 
-
-## § 15 – Ausnahme für das Arbeitsrecht
+# § 15 – Ausnahme für das Arbeitsrecht
 
 Dieses Gesetz findet auf das Arbeitsrecht keine Anwendung.
 
-
-## § 16 – Bußgeldvorschriften
+# § 16 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -378,8 +349,7 @@ Dieses Gesetz findet auf das Arbeitsrecht keine Anwendung.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
-
-## § 17 – Überleitungsvorschriften zu dem Gesetz zur Stärkung des fairen Wettbewerbs
+# § 17 – Überleitungsvorschriften zu dem Gesetz zur Stärkung des fairen Wettbewerbs
 
 (1) Abweichend von § 4a Absatz 1 Nummer 1 sind die Eintragungsvoraussetzungen bei qualifizierten Einrichtungen, die vor dem 2. Dezember 2020 in die Liste nach § 4 eingetragen wurden und die am 2. Dezember 2020 schon länger als zwei Jahre in der Liste nach § 4 eingetragen sind, vom Bundesamt für Justiz im Zeitraum vom 2. Dezember 2020 bis zum 31. Dezember 2021 zu überprüfen.
 

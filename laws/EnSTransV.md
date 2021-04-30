@@ -1,13 +1,9 @@
-# [EnSTransV] Verordnung zur Umsetzung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz  (Energiesteuer- und Stromsteuer-Transparenzverordnung - EnSTransV)
-
-Ausfertigungsdatum: 04.05.2016
-
+% Verordnung zur Umsetzung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz  (Energiesteuer- und Stromsteuer-Transparenzverordnung - EnSTransV)
+% Ausfertigungsdatum: 04.05.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck und Anwendungsbereich
+# § 1 – Zweck und Anwendungsbereich
 
 (1) Diese Verordnung dient der Umsetzung unionsrechtlicher Vorgaben des Beihilferechts zur Erhebung, Verarbeitung, Nutzung und Übermittlung von Informationen durch die Zollverwaltung, die für die Erfüllung der Veröffentlichungs-, Informations- und Transparenzpflichten von Bedeutung sind. Auf § 66 Absatz 1 Nummer 21 des Energiesteuergesetzes und § 11 Satz 1 Nummer 13 des Stromsteuergesetzes wird Bezug genommen. Rechtsakte der Kommission hierzu sind insbesondere
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 04.05.2016
 
 2. bei der Kommission angezeigt oder von ihr genehmigt worden sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Steuerbegünstigungen im Sinne dieser Verordnung sind
 
@@ -50,8 +45,7 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (5) Zuständiges Hauptzollamt im Sinne dieser Verordnung ist das Hauptzollamt nach § 1a der Energiesteuer-Durchführungsverordnung und nach § 1 der Stromsteuer-Durchführungsverordnung.
 
-
-## § 3 – Grundsätze
+# § 3 – Grundsätze
 
 (1) Begünstigte haben gegenüber dem zuständigen Hauptzollamt Anzeige- oder Erklärungspflichten, wenn die Höhe der einzelnen Steuerbegünstigung jeweils ein Aufkommen im Kalenderjahr von 200 000 Euro oder mehr beträgt.
 
@@ -73,8 +67,7 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (5) Eine Veröffentlichung erfolgt, wenn das Aufkommen der Steuerbegünstigung für die jeweilige Einzelbeihilfe im Kalenderjahr, das nach § 4 Absatz 2 Nummer 4 oder nach § 5 Absatz 2 Nummer 4 jeweils maßgeblich ist, mindestens 500 000 Euro beträgt. Die Veröffentlichung erfolgt in Aufkommensschritten von 500 000 bis 1 000 000 Euro, von 1 000 001 bis 2 000 000 Euro, von 2 000 001 bis 5 000 000 Euro, von 5 000 001 bis 10 000 000 Euro, von 10 000 001 bis 30 000 000 Euro sowie von 30 000 001 und mehr Euro. Das Aufkommen der Steuerbegünstigung im Einzelnen wird zur Zuordnung zu den Aufkommensschritten auf volle Euro aufgerundet.
 
-
-## § 4 – Anzeigepflicht für Steuerbegünstigungen
+# § 4 – Anzeigepflicht für Steuerbegünstigungen
 
 (1) In den Fällen des § 3 Absatz 2 Nummer 2 haben Begünstigte, die eine der dort genannten Steuerbegünstigungen in Anspruch nehmen, für jeden Begünstigungstatbestand des Energiesteuer- oder des Stromsteuergesetzes nach Maßgabe des § 3 Absatz 3 eine Anzeige abzugeben. Die Anzeige ist einmal jährlich abzugeben.
 
@@ -106,8 +99,7 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (6) Eine Anzeige ist nicht erforderlich, wenn Energieerzeugnisse ausschließlich der Stromerzeugung in Anlagen im Sinne des § 3 des Energiesteuergesetzes dienen, die während des gesamten von der Anzeige erfassten Zeitraums stromsteuerpflichtig waren.
 
-
-## § 5 – Erklärungspflicht für Steuerentlastungen
+# § 5 – Erklärungspflicht für Steuerentlastungen
 
 (1) In den Fällen des § 3 Absatz 2 Nummer 1 haben Begünstigte, denen eine Steuerentlastung ausgezahlt worden ist, für jeden Entlastungstatbestand des Energiesteuer- oder des Stromsteuergesetzes nach Maßgabe des § 3 Absatz 3 eine Erklärung abzugeben. Die Erklärung ist einmal jährlich abzugeben.
 
@@ -129,11 +121,9 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (3) Das zuständige Hauptzollamt kann darüber hinaus weitere Angaben und Unterlagen verlangen, soweit diese zur Dokumentation der Veröffentlichungs-, Informations- und Transparenzpflichten gegenüber der Kommission oder zur Nachweisführung erforderlich sind.
 
+# § 6 – (weggefallen)
 
-## § 6 – (weggefallen)
-
-
-## § 7 – Elektronische Datenübermittlung, Ausnahme
+# § 7 – Elektronische Datenübermittlung, Ausnahme
 
 (1) Anzeigen und Erklärungen nach den §§ 4 und 5 sind von Begünstigten nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung elektronisch an die zuständigen Behörden der Zollverwaltung zu übermitteln (elektronische Datenübermittlung).
 
@@ -143,15 +133,13 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (4) Bei der elektronischen Datenübermittlung sind dem jeweiligen Stand der Technik entsprechende Verfahren einzusetzen, die Authentizität, Vertraulichkeit und Integrität der Daten gewährleisten. Werden allgemein zugängliche Netze genutzt, sind Verschlüsselungsverfahren einzusetzen.
 
-
-## § 8 – Verarbeitung der erhobenen Daten
+# § 8 – Verarbeitung der erhobenen Daten
 
 (1) Zur Erfüllung der Pflichten nach § 1 Absatz 1 kann die Zollverwaltung die nach den §§ 3 bis 5 erhobenen Daten verarbeiten.
 
 (2) Für andere als die in Absatz 1 genannten Zwecke darf die Zollverwaltung die Daten in anonymisierter Form verarbeiten, soweit andere Gesetze dem nicht entgegenstehen.
 
-
-## § 9 – Datenübermittlung im innerstaatlichen Bereich
+# § 9 – Datenübermittlung im innerstaatlichen Bereich
 
 (1) Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt die Zollverwaltung die nach den §§ 3 bis 5 erhobenen Daten an die innerstaatliche Stelle, der die Übermittlung der vorgenannten Daten an die Kommission obliegt. Diese Stelle ist das Bundesministerium der Finanzen. Es kann die Aufgabe auf die Generalzolldirektion übertragen. Die Übertragung ist im Bundesanzeiger sowie im Internet auf den Seiten der Zollverwaltung unter zoll.de zu veröffentlichen.
 
@@ -159,13 +147,11 @@ die aufgrund des Energiesteuer- oder des Stromsteuergesetzes gewährt werden und
 
 (3) Die Zollverwaltung darf bereits aufbereitete und anonymisierte Daten nur dann an andere als die in den Absätzen 1 und 2 genannten Stellen zu statistischen Zwecken übermitteln, soweit andere Gesetze dem nicht entgegenstehen.
 
-
-## § 10 – Datenübermittlung an die Kommission
+# § 10 – Datenübermittlung an die Kommission
 
 Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt das Bundesministerium der Finanzen die nach den §§ 3 bis 5 erhobenen Daten an die Kommission oder an eine nachgeordnete Behörde der Europäischen Union, die die Kommission zur Verarbeitung der Daten bestimmt hat. Das Bundesministerium der Finanzen kann diese Aufgabe auf die Generalzolldirektion übertragen.
 
-
-## § 11 – Berichtigung, Speicherung und Löschung der erhobenen Daten
+# § 11 – Berichtigung, Speicherung und Löschung der erhobenen Daten
 
 (1) Nach dieser Verordnung erhobene und gespeicherte Daten sind zu berichtigen, wenn sie unrichtig sind.
 
@@ -173,8 +159,7 @@ Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt das Bundesministeri
 
 (3) Nach Ablauf der Frist nach Absatz 2 werden die Daten gelöscht. Die Löschung erfolgt frühestmöglich zum 30. Juni oder zum 31. Dezember. In anonymisierter und aufbereiteter Form können Daten zu statistischen Zwecken über den Zeitpunkt nach Satz 1 hinaus gespeichert werden.
 
-
-## § 12 – Elektronische Datenbank
+# § 12 – Elektronische Datenbank
 
 (1) Für die Zwecke des § 1 Absatz 1 richtet die Generalzolldirektion eine Datenbank zur Erfassung der nach den §§ 3 bis 5 erhobenen Daten ein.
 
@@ -184,8 +169,7 @@ Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt das Bundesministeri
 
 (4) Die §§ 8 bis 11 gelten entsprechend.
 
-
-## § 13 – Datenschutzrechtliche Verantwortung
+# § 13 – Datenschutzrechtliche Verantwortung
 
 (1) Die Einhaltung der Regelungen zur Führung der Datenbank nach § 12 obliegt der Generalzolldirektion.
 
@@ -193,13 +177,11 @@ Zur Erfüllung der Pflichten nach § 1 Absatz 1 übermittelt das Bundesministeri
 
 (3) (weggefallen)
 
-
-## § 14 – Einsichtnahme
+# § 14 – Einsichtnahme
 
 Die nach dieser Verordnung erhobenen Daten sind ausschließlich über die allgemein zugängliche Internetseite nach § 3 Absatz 4 einsehbar. Die datenschutzrechtlichen Betroffenenrechte bleiben unberührt.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 66c Absatz 1 des Energiesteuergesetzes handelt, wer vorsätzlich oder leichtfertig
 
@@ -209,18 +191,15 @@ Die nach dieser Verordnung erhobenen Daten sind ausschließlich über die allgem
 
 (2) Ordnungswidrig im Sinne des § 14 Absatz 1 des Stromsteuergesetzes handelt, wer vorsätzlich oder leichtfertig eine in Absatz 1 bezeichnete Handlung in Bezug auf eine Steuerbegünstigung nach dem Stromsteuergesetz begeht.
 
-
-## § 16 – Steueraufsicht
+# § 16 – Steueraufsicht
 
 Der Steueraufsicht nach § 209 der Abgabenordnung unterliegt, wer Begünstigter nach § 2 Absatz 2 ist.
 
-
-## § 17 – Geltungszeitraum
+# § 17 – Geltungszeitraum
 
 Die sich aus dieser Verordnung ergebenden Verpflichtungen gelten für Steuerbegünstigungen ab dem 1. Juli 2016.
 
-
-## Anlage – (zu § 2 Absatz 1)
+# Anlage – (zu § 2 Absatz 1)
 
 (Fundstelle: BGBl. I 2018, 97)
 

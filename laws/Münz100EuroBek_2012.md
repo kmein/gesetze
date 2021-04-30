@@ -1,10 +1,7 @@
-# [Münz100EuroBek 2012] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe - Dom zu Aachen“)
-
-Ausfertigungsdatum: 17.10.2012
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe - Dom zu Aachen“)
+% Ausfertigungsdatum: 17.10.2012
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung am 5. Oktober 2011 beschlossen, in Würdigung des UNESCO Welterbes Dom zu Aachen eine Gedenkmünze zu 100 Euro aus Gold prägen zu lassen.
 
@@ -20,12 +17,10 @@ Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“
 
 Der Münzrand wird geriffelt ausgeführt.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I S. 2174)

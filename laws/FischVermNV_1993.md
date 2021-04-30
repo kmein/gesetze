@@ -1,20 +1,15 @@
-# [FischVermNV 1993] Verordnung über Vermarktungsnormen für Fischereierzeugnisse
-
-Ausfertigungsdatum: 17.08.1993
-
+% Verordnung über Vermarktungsnormen für Fischereierzeugnisse
+% Ausfertigungsdatum: 17.08.1993
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Verordnungen des Rates und der Kommission der Europäischen Gemeinschaften über Vermarktungsnormen, die im Rahmen der Gemeinsamen Marktorganisation für Fischereierzeugnisse und Erzeugnisse der Aquakultur erlassen worden sind.
 
-
-## § 2 – Marktnotierungen
+# § 2 – Marktnotierungen
 
 Börsen, Verwaltungen, öffentliche Märkte und sonstige Stellen, die über das erste Anbieten und den ersten Verkauf von Fischereierzeugnissen nach dem Eintreffen in der Europäischen Gemeinschaft amtliche oder für gesetzliche Zwecke bestimmte Preisnotierungen oder Preisfeststellungen vornehmen, haben ihren Notierungen oder Feststellungen die Frische- und Größenklassen zugrunde zu legen, die in der Verordnung (EG) Nr. 2406/96 des Rates vom 26. November 1996 über gemeinsame Vermarktungsnormen für bestimmte Fischereierzeugnisse (ABl. EG Nr. L 334 S. 1) in der jeweils geltenden Fassung festgelegt sind.
 
-
-## § 3 – Überwachung
+# § 3 – Überwachung
 
 Die Bundesanstalt für Landwirtschaft und Ernährung ist außerhalb der verbindlichen Anlandeorte nach Anlage 3 der Seefischereiverordnung zuständig für die Überwachung der Einhaltung der Vorschriften
 
@@ -24,8 +19,7 @@ Die Bundesanstalt für Landwirtschaft und Ernährung ist außerhalb der verbindl
 
 bei der Einfuhr von Fischereierzeugnissen aus dritten Ländern in das Inland, solange die Fischereierzeugnisse Nichtgemeinschaftswaren sind.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
@@ -79,7 +73,6 @@ f) bei denen das Verhältnis zwischen dem Fischgewicht und dem Nettogewicht nich
 
 (2) Die Ordnungswidrigkeit kann nach § 1 Abs. 3 Satz 1 Nr. 2 des Handelsklassengesetzes mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 5 – Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
+# § 5 – Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 7 Abs. 1 Nr. 3 des Handelsklassengesetzes und nach § 4 Abs. 1 Nr. 1 dieser Verordnung wird auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen, soweit sie nach § 3 für die Überwachung zuständig ist.

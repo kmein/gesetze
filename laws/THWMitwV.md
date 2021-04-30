@@ -1,32 +1,25 @@
-# [THWMitwV] Verordnung über die Mitwirkung der Helfer und Helferinnen im Technischen Hilfswerk  (THW-Mitwirkungsverordnung - THWMitwV)
-
-Ausfertigungsdatum: 11.01.2004
-
+% Verordnung über die Mitwirkung der Helfer und Helferinnen im Technischen Hilfswerk  (THW-Mitwirkungsverordnung - THWMitwV)
+% Ausfertigungsdatum: 11.01.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 4 und des § 4 Abs. 3 Satz 1 des THW-Helferrechtsgesetzes vom 22. Januar 1990 (BGBl. I S. 118) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Helferinnen und Helfer
+# § 1 – Helferinnen und Helfer
 
 Helferin oder Helfer kann werden, wer das sechste Lebensjahr vollendet hat. Personen, die das 18. Lebensjahr noch nicht vollendet haben, wirken als Junghelferinnen und Junghelfer mit.
 
-
-## § 2 – Begründung des Dienstverhältnisses
+# § 2 – Begründung des Dienstverhältnisses
 
 (1) Die Aufnahme in das Dienstverhältnis zum Technischen Hilfswerk erfolgt auf schriftlichen Antrag.
 
 (2) Die schriftliche Annahme des Antrages begründet das Dienstverhältnis. Die Nichtannahme bedarf keiner Begründung. Die Annahme erfolgt nicht, wenn Tatsachen vorliegen, die nach § 6 Absatz 1 zur Beendigung des Dienstverhältnisses führen würden.
 
-
-## § 3 – Probezeit
+# § 3 – Probezeit
 
 Der Dienst im Technischen Hilfswerk beginnt mit einer sechsmonatigen Probezeit. Das Technische Hilfswerk kann die Probezeit aus wichtigem Grund verlängern oder verkürzen; dies ist den Betroffenen schriftlich mitzuteilen.
 
-
-## § 4 – Inhalt des Dienstverhältnisses
+# § 4 – Inhalt des Dienstverhältnisses
 
 (1) Helferinnen und Helfer wirken bei der Erfüllung der Aufgaben des Technischen Hilfswerks mit. Sie können in besondere Funktionen berufen werden und nehmen an den angeordneten Einsätzen, Ausbildungsveranstaltungen und sonstigen dienstlichen Veranstaltungen teil.
 
@@ -34,13 +27,11 @@ Der Dienst im Technischen Hilfswerk beginnt mit einer sechsmonatigen Probezeit. 
 
 (3) Junghelfer und Junghelferinnen erhalten eine kind- oder jugendgemäße Ausbildung und Betreuung, die sie auf ihre spätere Verwendung als Helferinnen und Helfer vorbereiten sollen. Sie werden nicht zur unmittelbaren Hilfeleistung bei Einsätzen herangezogen.
 
-
-## § 5 – Verstoß gegen Dienstpflichten
+# § 5 – Verstoß gegen Dienstpflichten
 
 Wer als Helferin oder Helfer schuldhaft gegen Dienstpflichten verstößt, kann ermahnt, von der Teilnahme an dienstlichen Veranstaltungen vorübergehend oder dauerhaft ausgeschlossen oder von besonderen Funktionen abberufen werden; erteilte Berechtigungen können entzogen werden. Bei schwerwiegenden Verstößen kann eine Entlassung erfolgen. Eine Abberufung von besonderen Funktionen ist auch ohne Verschulden möglich, wenn das mit der besonderen Funktion verbundene Vertrauensverhältnis gestört ist oder wenn der Helferin oder dem Helfer in sonstiger Weise die notwendige Eignung fehlt.
 
-
-## § 6 – Beendigung des Dienstverhältnisses
+# § 6 – Beendigung des Dienstverhältnisses
 
 (1) Das Technische Hilfswerk kann das Dienstverhältnis durch Entlassung beenden, wenn die Helferin oder der Helfer
 
@@ -62,8 +53,7 @@ Wer als Helferin oder Helfer schuldhaft gegen Dienstpflichten verstößt, kann e
 
 (4) Wird in den Fällen der Absätze 1 und 2 ein Rechtsbehelf gegen die Beendigung des Dienstverhältnisses eingelegt, ruht es bis zum Abschluss des Rechtsbehelfsverfahrens, im Falle eines Verwaltungsrechtsstreits bis zu dessen rechtskräftigem Abschluss.
 
-
-## § 7 – Ausschüsse
+# § 7 – Ausschüsse
 
 (1) Helferinnen und Helfer wirken in Ausschüssen an der Mitgestaltung und Weiterentwicklung des Technischen Hilfswerks mit.
 
@@ -113,7 +103,6 @@ Wer als Helferin oder Helfer schuldhaft gegen Dienstpflichten verstößt, kann e
 
 8. den Leitern und Leiterinnen der Ausbildungsstätten der Bundesschule des Technischen Hilfswerks.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

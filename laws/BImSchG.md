@@ -1,10 +1,7 @@
-# [BImSchG] Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge  (Bundes-Immissionsschutzgesetz - BImSchG)
-
-Ausfertigungsdatum: 15.03.1974
-
+% Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge  (Bundes-Immissionsschutzgesetz - BImSchG)
+% Ausfertigungsdatum: 15.03.1974
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -82,8 +79,7 @@ Ausfertigungsdatum: 15.03.1974
 
 Anlage (zu § 3 Absatz 6) Kriterien zur Bestimmung des Standes der Technik
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es, Menschen, Tiere und Pflanzen, den Boden, das Wasser, die Atmosphäre sowie Kultur- und sonstige Sachgüter vor schädlichen Umwelteinwirkungen zu schützen und dem Entstehen schädlicher Umwelteinwirkungen vorzubeugen.
 
@@ -95,8 +91,7 @@ der integrierten Vermeidung und Verminderung schädlicher Umwelteinwirkungen dur
 –  
 dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die auf andere Weise herbeigeführt werden.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 (1) Die Vorschriften dieses Gesetzes gelten für
 
@@ -118,8 +113,7 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 3. nicht kontaminiertes Bodenmaterial und andere natürlich vorkommende Materialien, die bei Bauarbeiten ausgehoben wurden, sofern sichergestellt ist, dass die Materialien in ihrem natürlichen Zustand an dem Ort, an dem sie ausgehoben wurden, für Bauzwecke verwendet werden.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Schädliche Umwelteinwirkungen im Sinne dieses Gesetzes sind Immissionen, die nach Art, Ausmaß oder Dauer geeignet sind, Gefahren, erhebliche Nachteile oder erhebliche Belästigungen für die Allgemeinheit oder die Nachbarschaft herbeizuführen.
 
@@ -175,15 +169,13 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 (10) Relevante gefährliche Stoffe im Sinne dieses Gesetzes sind gefährliche Stoffe, die in erheblichem Umfang in der Anlage verwendet, erzeugt oder freigesetzt werden und die ihrer Art nach eine Verschmutzung des Bodens oder des Grundwassers auf dem Anlagengrundstück verursachen können.
 
-
-## § 4 – Genehmigung
+# § 4 – Genehmigung
 
 (1) Die Errichtung und der Betrieb von Anlagen, die auf Grund ihrer Beschaffenheit oder ihres Betriebs in besonderem Maße geeignet sind, schädliche Umwelteinwirkungen hervorzurufen oder in anderer Weise die Allgemeinheit oder die Nachbarschaft zu gefährden, erheblich zu benachteiligen oder erheblich zu belästigen, sowie von ortsfesten Abfallentsorgungsanlagen zur Lagerung oder Behandlung von Abfällen bedürfen einer Genehmigung. Mit Ausnahme von Abfallentsorgungsanlagen bedürfen Anlagen, die nicht gewerblichen Zwecken dienen und nicht im Rahmen wirtschaftlicher Unternehmungen Verwendung finden, der Genehmigung nur, wenn sie in besonderem Maße geeignet sind, schädliche Umwelteinwirkungen durch Luftverunreinigungen oder Geräusche hervorzurufen. Die Bundesregierung bestimmt nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlagen, die einer Genehmigung bedürfen (genehmigungsbedürftige Anlagen); in der Rechtsverordnung kann auch vorgesehen werden, dass eine Genehmigung nicht erforderlich ist, wenn eine Anlage insgesamt oder in ihren in der Rechtsverordnung bezeichneten wesentlichen Teilen der Bauart nach zugelassen ist und in Übereinstimmung mit der Bauartzulassung errichtet und betrieben wird. Anlagen nach Artikel 10 in Verbindung mit Anhang I der Richtlinie 2010/75/EU sind in der Rechtsverordnung nach Satz 3 zu kennzeichnen.
 
 (2) Anlagen des Bergwesens oder Teile dieser Anlagen bedürfen der Genehmigung nach Absatz 1 nur, soweit sie über Tage errichtet und betrieben werden. Keiner Genehmigung nach Absatz 1 bedürfen Tagebaue und die zum Betrieb eines Tagebaus erforderlichen sowie die zur Wetterführung unerlässlichen Anlagen.
 
-
-## § 5 – Pflichten der Betreiber genehmigungsbedürftiger Anlagen
+# § 5 – Pflichten der Betreiber genehmigungsbedürftiger Anlagen
 
 (1) Genehmigungsbedürftige Anlagen sind so zu errichten und zu betreiben, dass zur Gewährleistung eines hohen Schutzniveaus für die Umwelt insgesamt
 
@@ -207,8 +199,7 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 (4) Wurden nach dem 7. Januar 2013 auf Grund des Betriebs einer Anlage nach der Industrieemissions-Richtlinie erhebliche Bodenverschmutzungen oder erhebliche Grundwasserverschmutzungen durch relevante gefährliche Stoffe im Vergleich zu dem im Bericht über den Ausgangszustand angegebenen Zustand verursacht, so ist der Betreiber nach Einstellung des Betriebs der Anlage verpflichtet, soweit dies verhältnismäßig ist, Maßnahmen zur Beseitigung dieser Verschmutzung zu ergreifen, um das Anlagengrundstück in jenen Ausgangszustand zurückzuführen. Die zuständige Behörde hat der Öffentlichkeit relevante Informationen zu diesen vom Betreiber getroffenen Maßnahmen zugänglich zu machen, und zwar auch über das Internet. Soweit Informationen Geschäfts- oder Betriebsgeheimnisse enthalten, gilt § 10 Absatz 2 entsprechend.
 
-
-## § 6 – Genehmigungsvoraussetzungen
+# § 6 – Genehmigungsvoraussetzungen
 
 (1) Die Genehmigung ist zu erteilen, wenn
 
@@ -228,8 +219,7 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 4. die konkreten Umstände einen Widerruf der Genehmigung nicht erfordern.
 
-
-## § 7 – Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen
+# § 7 – Rechtsverordnungen über Anforderungen an genehmigungsbedürftige Anlagen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit, der Betrieb, der Zustand nach Betriebseinstellung und die betreibereigene Überwachung genehmigungsbedürftiger Anlagen zur Erfüllung der sich aus § 5 ergebenden Pflichten bestimmten Anforderungen genügen müssen, insbesondere, dass
 
@@ -237,8 +227,7 @@ dem Schutz und der Vorsorge gegen Gefahren, erhebliche Nachteile und erhebliche 
 
 2. die von Anlagen ausgehenden Emissionen bestimmte Grenzwerte nicht überschreiten dürfen oder Anlagen äquivalenten Parametern oder äquivalenten technischen Maßnahmen entsprechen müssen,
 
-2a.  
-der Einsatz von Energie bestimmten Anforderungen entsprechen muss,
+2a. der Einsatz von Energie bestimmten Anforderungen entsprechen muss,
 
 3. die Betreiber von Anlagen Messungen von Emissionen und Immissionen nach in der Rechtsverordnung näher zu bestimmenden Verfahren vorzunehmen haben oder vornehmen lassen müssen,
 
@@ -292,8 +281,7 @@ Absatz 1 Satz 2 bleibt unberührt. Emissionsgrenzwerte und Emissionsbegrenzungen
 
 2. die Bekanntmachung bei dem Deutschen Patentamt archivmäßig gesichert niederzulegen und in der Rechtsverordnung darauf hinzuweisen.
 
-
-## § 8 – Teilgenehmigung
+# § 8 – Teilgenehmigung
 
 Auf Antrag soll eine Genehmigung für die Errichtung einer Anlage oder eines Teils einer Anlage oder für die Errichtung und den Betrieb eines Teils einer Anlage erteilt werden, wenn
 
@@ -305,8 +293,7 @@ Auf Antrag soll eine Genehmigung für die Errichtung einer Anlage oder eines Tei
 
 Die Bindungswirkung der vorläufigen Gesamtbeurteilung entfällt, wenn eine Änderung der Sach- oder Rechtslage oder Einzelprüfungen im Rahmen späterer Teilgenehmigungen zu einer von der vorläufigen Gesamtbeurteilung abweichenden Beurteilung führen.
 
-
-## § 8a – Zulassung vorzeitigen Beginns
+# § 8a – Zulassung vorzeitigen Beginns
 
 (1) In einem Verfahren zur Erteilung einer Genehmigung soll die Genehmigungsbehörde auf Antrag vorläufig zulassen, dass bereits vor Erteilung der Genehmigung mit der Errichtung einschließlich der Maßnahmen, die zur Prüfung der Betriebstüchtigkeit der Anlage erforderlich sind, begonnen wird, wenn
 
@@ -320,8 +307,7 @@ Die Bindungswirkung der vorläufigen Gesamtbeurteilung entfällt, wenn eine Änd
 
 (3) In einem Verfahren zur Erteilung einer Genehmigung nach § 16 Absatz 1 kann die Genehmigungsbehörde unter den in Absatz 1 genannten Voraussetzungen auch den Betrieb der Anlage vorläufig zulassen, wenn die Änderung der Erfüllung einer sich aus diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung ergebenden Pflicht dient.
 
-
-## § 9 – Vorbescheid
+# § 9 – Vorbescheid
 
 (1) Auf Antrag soll durch Vorbescheid über einzelne Genehmigungsvoraussetzungen sowie über den Standort der Anlage entschieden werden, sofern die Auswirkungen der geplanten Anlage ausreichend beurteilt werden können und ein berechtigtes Interesse an der Erteilung eines Vorbescheides besteht.
 
@@ -329,8 +315,7 @@ Die Bindungswirkung der vorläufigen Gesamtbeurteilung entfällt, wenn eine Änd
 
 (3) Die Vorschriften der §§ 6 und 21 gelten sinngemäß.
 
-
-## § 10 – Genehmigungsverfahren
+# § 10 – Genehmigungsverfahren
 
 (1) Das Genehmigungsverfahren setzt einen schriftlichen oder elektronischen Antrag voraus. Dem Antrag sind die zur Prüfung nach § 6 erforderlichen Zeichnungen, Erläuterungen und sonstigen Unterlagen beizufügen. Reichen die Unterlagen für die Prüfung nicht aus, so hat sie der Antragsteller auf Verlangen der zuständigen Behörde innerhalb einer angemessenen Frist zu ergänzen. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der dem Antrag beizufügenden Unterlagen auch in schriftlicher Form verlangen.
 
@@ -376,13 +361,11 @@ Soweit der Genehmigungsbescheid Geschäfts- oder Betriebsgeheimnisse enthält, s
 
 (11) Das Bundesministerium der Verteidigung wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates das Genehmigungsverfahren für Anlagen, die der Landesverteidigung dienen, abweichend von den Absätzen 1 bis 9 zu regeln.
 
-
-## § 11 – Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
+# § 11 – Einwendungen Dritter bei Teilgenehmigung und Vorbescheid
 
 Ist eine Teilgenehmigung oder ein Vorbescheid erteilt worden, können nach Eintritt ihrer Unanfechtbarkeit im weiteren Verfahren zur Genehmigung der Errichtung und des Betriebs der Anlage Einwendungen nicht mehr auf Grund von Tatsachen erhoben werden, die im vorhergehenden Verfahren fristgerecht vorgebracht worden sind oder nach den ausgelegten Unterlagen hätten vorgebracht werden können.
 
-
-## § 12 – Nebenbestimmungen zur Genehmigung
+# § 12 – Nebenbestimmungen zur Genehmigung
 
 (1) Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der in § 6 genannten Genehmigungsvoraussetzungen sicherzustellen. Zur Sicherstellung der Anforderungen nach § 5 Absatz 3 soll bei Abfallentsorgungsanlagen im Sinne des § 4 Absatz 1 Satz 1 auch eine Sicherheitsleistung auferlegt werden.
 
@@ -406,23 +389,19 @@ Bei der Festlegung der Emissionsbegrenzungen nach Satz 1 sind insbesondere mögl
 
 (3) Die Teilgenehmigung kann für einen bestimmten Zeitraum oder mit dem Vorbehalt erteilt werden, dass sie bis zur Entscheidung über die Genehmigung widerrufen oder mit Auflagen verbunden werden kann.
 
-
-## § 13 – Genehmigung und andere behördliche Entscheidungen
+# § 13 – Genehmigung und andere behördliche Entscheidungen
 
 Die Genehmigung schließt andere die Anlage betreffende behördliche Entscheidungen ein, insbesondere öffentlich-rechtliche Genehmigungen, Zulassungen, Verleihungen, Erlaubnisse und Bewilligungen mit Ausnahme von Planfeststellungen, Zulassungen bergrechtlicher Betriebspläne, behördlichen Entscheidungen auf Grund atomrechtlicher Vorschriften und wasserrechtlichen Erlaubnissen und Bewilligungen nach § 8 in Verbindung mit § 10 des Wasserhaushaltsgesetzes.
 
-
-## § 14 – Ausschluss von privatrechtlichen Abwehransprüchen
+# § 14 – Ausschluss von privatrechtlichen Abwehransprüchen
 
 Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche zur Abwehr benachteiligender Einwirkungen von einem Grundstück auf ein benachbartes Grundstück kann nicht die Einstellung des Betriebs einer Anlage verlangt werden, deren Genehmigung unanfechtbar ist; es können nur Vorkehrungen verlangt werden, die die benachteiligenden Wirkungen ausschließen. Soweit solche Vorkehrungen nach dem Stand der Technik nicht durchführbar oder wirtschaftlich nicht vertretbar sind, kann lediglich Schadensersatz verlangt werden.
 
-
-## § 14a – Vereinfachte Klageerhebung
+# § 14a – Vereinfachte Klageerhebung
 
 Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über seinen Widerspruch nach Ablauf von drei Monaten seit der Einlegung nicht entschieden ist, es sei denn, dass wegen besonderer Umstände des Falles eine kürzere Frist geboten ist.
 
-
-## § 15 – Änderung genehmigungsbedürftiger Anlagen
+# § 15 – Änderung genehmigungsbedürftiger Anlagen
 
 (1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer genehmigungsbedürftigen Anlage ist, sofern eine Genehmigung nicht beantragt wird, der zuständigen Behörde mindestens einen Monat, bevor mit der Änderung begonnen werden soll, schriftlich oder elektronisch anzuzeigen, wenn sich die Änderung auf in § 1 genannte Schutzgüter auswirken kann. Der Anzeige sind Unterlagen im Sinne des § 10 Absatz 1 Satz 2 beizufügen, soweit diese für die Prüfung erforderlich sein können, ob das Vorhaben genehmigungsbedürftig ist. Die zuständige Behörde hat dem Träger des Vorhabens den Eingang der Anzeige und der beigefügten Unterlagen unverzüglich schriftlich oder elektronisch zu bestätigen; sie kann bei einer elektronischen Anzeige Mehrausfertigungen sowie die Übermittlung der Unterlagen, die der Anzeige beizufügen sind, auch in schriftlicher Form verlangen. Sie teilt dem Träger des Vorhabens nach Eingang der Anzeige unverzüglich mit, welche zusätzlichen Unterlagen sie zur Beurteilung der Voraussetzungen des § 16 Absatz 1 und des § 16a benötigt. Die Sätze 1 bis 4 gelten entsprechend für eine Anlage, die nach § 67 Absatz 2 oder § 67a Absatz 1 anzuzeigen ist oder vor Inkrafttreten dieses Gesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen war.
 
@@ -434,8 +413,7 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 (4) In der Rechtsverordnung nach § 10 Absatz 10 können die näheren Einzelheiten für das Verfahren nach den Absätzen 1 bis 3 geregelt werden.
 
-
-## § 16 – Wesentliche Änderung genehmigungsbedürftiger Anlagen
+# § 16 – Wesentliche Änderung genehmigungsbedürftiger Anlagen
 
 (1) Die Änderung der Lage, der Beschaffenheit oder des Betriebs einer genehmigungsbedürftigen Anlage bedarf der Genehmigung, wenn durch die Änderung nachteilige Auswirkungen hervorgerufen werden können und diese für die Prüfung nach § 6 Absatz 1 Nummer 1 erheblich sein können (wesentliche Änderung); eine Genehmigung ist stets erforderlich, wenn die Änderung oder Erweiterung des Betriebs einer genehmigungsbedürftigen Anlage für sich genommen die Leistungsgrenzen oder Anlagengrößen des Anhangs zur Verordnung über genehmigungsbedürftige Anlagen erreichen. Eine Genehmigung ist nicht erforderlich, wenn durch die Änderung hervorgerufene nachteilige Auswirkungen offensichtlich gering sind und die Erfüllung der sich aus § 6 Absatz 1 Nummer 1 ergebenden Anforderungen sichergestellt ist.
 
@@ -447,13 +425,11 @@ Der Antragsteller kann eine verwaltungsgerichtliche Klage erheben, wenn über se
 
 (5) Einer Genehmigung bedarf es nicht, wenn eine genehmigte Anlage oder Teile einer genehmigten Anlage im Rahmen der erteilten Genehmigung ersetzt oder ausgetauscht werden sollen.
 
-
-## § 16a – Störfallrelevante Änderung genehmigungsbedürftiger Anlagen
+# § 16a – Störfallrelevante Änderung genehmigungsbedürftiger Anlagen
 
 Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, bedarf der Genehmigung, wenn durch die störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und die Änderung nicht bereits durch § 16 Absatz 1 Satz 1 erfasst ist. Einer Genehmigung bedarf es nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
-
-## § 17 – Nachträgliche Anordnungen
+# § 17 – Nachträgliche Anordnungen
 
 (1) Zur Erfüllung der sich aus diesem Gesetz und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ergebenden Pflichten können nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung Anordnungen getroffen werden. Wird nach Erteilung der Genehmigung sowie nach einer nach § 15 Absatz 1 angezeigten Änderung festgestellt, dass die Allgemeinheit oder die Nachbarschaft nicht ausreichend vor schädlichen Umwelteinwirkungen oder sonstigen Gefahren, erheblichen Nachteilen oder erheblichen Belästigungen geschützt ist, soll die zuständige Behörde nachträgliche Anordnungen treffen.
 
@@ -485,8 +461,7 @@ Die störfallrelevante Änderung einer genehmigungsbedürftigen Anlage, die Betr
 
 (5) Die Absätze 1 bis 4b gelten entsprechend für Anlagen, die nach § 67 Absatz 2 anzuzeigen sind oder vor Inkrafttreten dieses Gesetzes nach § 16 Absatz 4 der Gewerbeordnung anzuzeigen waren.
 
-
-## § 18 – Erlöschen der Genehmigung
+# § 18 – Erlöschen der Genehmigung
 
 (1) Die Genehmigung erlischt, wenn
 
@@ -500,8 +475,7 @@ worden ist.
 
 (3) Die Genehmigungsbehörde kann auf Antrag die Fristen nach Absatz 1 aus wichtigem Grunde verlängern, wenn hierdurch der Zweck des Gesetzes nicht gefährdet wird.
 
-
-## § 19 – Vereinfachtes Verfahren
+# § 19 – Vereinfachtes Verfahren
 
 (1) Durch Rechtsverordnung nach § 4 Absatz 1 Satz 3 kann vorgeschrieben werden, dass die Genehmigung von Anlagen bestimmter Art oder bestimmten Umfangs in einem vereinfachten Verfahren erteilt wird, sofern dies nach Art, Ausmaß und Dauer der von diesen Anlagen hervorgerufenen schädlichen Umwelteinwirkungen und sonstigen Gefahren, erheblichen Nachteilen und erheblichen Belästigungen mit dem Schutz der Allgemeinheit und der Nachbarschaft vereinbar ist. Satz 1 gilt für Abfallentsorgungsanlagen entsprechend.
 
@@ -511,8 +485,7 @@ worden ist.
 
 (4) Die Genehmigung einer Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, kann nicht im vereinfachten Verfahren erteilt werden, wenn durch deren störfallrelevante Errichtung und Betrieb der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten unterschritten wird oder durch deren störfallrelevante Änderung der angemessene Sicherheitsabstand zu benachbarten Schutzobjekten erstmalig unterschritten wird, der bereits unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird. In diesen Fällen ist das Verfahren nach § 10 mit Ausnahme von Absatz 4 Nummer 3 und Absatz 6 anzuwenden. § 10 Absatz 3 Satz 4 ist mit der Maßgabe anzuwenden, dass nur die Personen Einwendungen erheben können, deren Belange berührt sind oder Vereinigungen, welche die Anforderungen des § 3 Absatz 1 oder des § 2 Absatz 2 des Umwelt-Rechtsbehelfsgesetzes erfüllen. Bei störfallrelevanten Änderungen ist § 16 Absatz 3 entsprechend anzuwenden. Die Sätze 1 bis 4 gelten nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist.
 
-
-## § 20 – Untersagung, Stilllegung und Beseitigung
+# § 20 – Untersagung, Stilllegung und Beseitigung
 
 (1) Kommt der Betreiber einer genehmigungsbedürftigen Anlage einer Auflage, einer vollziehbaren nachträglichen Anordnung oder einer abschließend bestimmten Pflicht aus einer Rechtsverordnung nach § 7 nicht nach und betreffen die Auflage, die Anordnung oder die Pflicht die Beschaffenheit oder den Betrieb der Anlage, so kann die zuständige Behörde den Betrieb ganz oder teilweise bis zur Erfüllung der Auflage, der Anordnung oder der Pflichten aus der Rechtsverordnung nach § 7 untersagen. Die zuständige Behörde hat den Betrieb ganz oder teilweise nach Satz 1 zu untersagen, wenn ein Verstoß gegen die Auflage, Anordnung oder Pflicht eine unmittelbare Gefährdung der menschlichen Gesundheit verursacht oder eine unmittelbare erhebliche Gefährdung der Umwelt darstellt.
 
@@ -522,8 +495,7 @@ worden ist.
 
 (3) Die zuständige Behörde kann den weiteren Betrieb einer genehmigungsbedürftigen Anlage durch den Betreiber oder einen mit der Leitung des Betriebs Beauftragten untersagen, wenn Tatsachen vorliegen, welche die Unzuverlässigkeit dieser Personen in Bezug auf die Einhaltung von Rechtsvorschriften zum Schutz vor schädlichen Umwelteinwirkungen dartun, und die Untersagung zum Wohl der Allgemeinheit geboten ist. Dem Betreiber der Anlage kann auf Antrag die Erlaubnis erteilt werden, die Anlage durch eine Person betreiben zu lassen, die die Gewähr für den ordnungsgemäßen Betrieb der Anlage bietet. Die Erlaubnis kann mit Auflagen verbunden werden.
 
-
-## § 21 – Widerruf der Genehmigung
+# § 21 – Widerruf der Genehmigung
 
 (1) Eine nach diesem Gesetz erteilte rechtmäßige Genehmigung darf, auch nachdem sie unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die Zukunft nur widerrufen werden,
 
@@ -549,8 +521,7 @@ worden ist.
 
 (7) Die Absätze 1 bis 6 gelten nicht, wenn eine Genehmigung, die von einem Dritten angefochten worden ist, während des Vorverfahrens oder während des verwaltungsgerichtlichen Verfahrens aufgehoben wird, soweit dadurch dem Widerspruch oder der Klage abgeholfen wird.
 
-
-## § 22 – Pflichten der Betreiber nicht genehmigungsbedürftiger Anlagen
+# § 22 – Pflichten der Betreiber nicht genehmigungsbedürftiger Anlagen
 
 (1) Nicht genehmigungsbedürftige Anlagen sind so zu errichten und zu betreiben, dass
 
@@ -566,8 +537,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 
 (2) Weitergehende öffentlich-rechtliche Vorschriften bleiben unberührt.
 
-
-## § 23 – Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen
+# § 23 – Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb nicht genehmigungsbedürftiger Anlagen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit und der Betrieb nicht genehmigungsbedürftiger Anlagen bestimmten Anforderungen zum Schutz der Allgemeinheit und der Nachbarschaft vor schädlichen Umwelteinwirkungen und, soweit diese Anlagen gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden und Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, vor sonstigen Gefahren zur Verhütung schwerer Unfälle im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU und zur Begrenzung der Auswirkungen derartiger Unfälle für Mensch und Umwelt sowie zur Vorsorge gegen schädliche Umwelteinwirkungen genügen müssen, insbesondere dass
 
@@ -579,8 +549,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 
 4. die Betreiber bestimmter Anlagen der zuständigen Behörde unverzüglich die Inbetriebnahme oder eine Änderung einer Anlage, die für die Erfüllung von in der Rechtsverordnung vorgeschriebenen Pflichten von Bedeutung sein kann, anzuzeigen haben,
 
-4a.  
-die Betreiber von Anlagen, die Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, innerhalb einer angemessenen Frist vor Errichtung, vor Inbetriebnahme oder vor einer Änderung dieser Anlagen, die für die Erfüllung von in der Rechtsverordnung vorgeschriebenen Pflichten von Bedeutung sein kann, dies der zuständigen Behörde anzuzeigen haben und
+4a. die Betreiber von Anlagen, die Betriebsbereiche oder Bestandteile von Betriebsbereichen sind, innerhalb einer angemessenen Frist vor Errichtung, vor Inbetriebnahme oder vor einer Änderung dieser Anlagen, die für die Erfüllung von in der Rechtsverordnung vorgeschriebenen Pflichten von Bedeutung sein kann, dies der zuständigen Behörde anzuzeigen haben und
 
 5. bestimmte Anlagen nur betrieben werden dürfen, nachdem die Bescheinigung eines von der nach Landesrecht zuständigen Behörde bekannt gegebenen Sachverständigen vorgelegt worden ist, dass die Anlage den Anforderungen der Rechtsverordnung oder einer Bauartzulassung nach § 33 entspricht.
 
@@ -590,8 +559,7 @@ In der Rechtsverordnung nach Satz 1 können auch die Anforderungen bestimmt werd
 
 (2) Soweit die Bundesregierung von der Ermächtigung keinen Gebrauch macht, sind die Landesregierungen ermächtigt, durch Rechtsverordnung Vorschriften im Sinne des Absatzes 1 zu erlassen. Die Landesregierungen können die Ermächtigung auf eine oder mehrere oberste Landesbehörden übertragen.
 
-
-## § 23a – Anzeigeverfahren für nicht genehmigungsbedürftige Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
+# § 23a – Anzeigeverfahren für nicht genehmigungsbedürftige Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
 
 (1) Die störfallrelevante Errichtung und der Betrieb oder die störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, ist der zuständigen Behörde vor ihrer Durchführung schriftlich oder elektronisch anzuzeigen, sofern eine Genehmigung nach Absatz 3 in Verbindung mit § 23b nicht beantragt wird. Der Anzeige sind alle Unterlagen beizufügen, die für die Feststellung nach Absatz 2 erforderlich sein können; die zuständige Behörde kann bei einer elektronischen Anzeige Mehrausfertigungen sowie die Übermittlung der der Anzeige beizufügenden Unterlagen auch in schriftlicher Form verlangen. Soweit es zur Ermittlung des angemessenen Sicherheitsabstands erforderlich ist, kann die zuständige Behörde ein Gutachten zu den Auswirkungen verlangen, die bei schweren Unfällen durch die Anlage hervorgerufen werden können. Die zuständige Behörde hat dem Träger des Vorhabens den Eingang der Anzeige und der beigefügten Unterlagen unverzüglich schriftlich oder elektronisch zu bestätigen. Sie teilt dem Träger des Vorhabens nach Eingang der Anzeige unverzüglich mit, welche zusätzlichen Unterlagen sie für die Feststellung nach Absatz 2 benötigt.
 
@@ -599,8 +567,7 @@ In der Rechtsverordnung nach Satz 1 können auch die Anforderungen bestimmt werd
 
 (3) Auf Antrag des Trägers des Vorhabens führt die zuständige Behörde das Genehmigungsverfahren nach § 23b auch ohne die Feststellung nach Absatz 2 Satz 1 durch.
 
-
-## § 23b – Störfallrechtliches Genehmigungsverfahren
+# § 23b – Störfallrechtliches Genehmigungsverfahren
 
 (1) Ergibt die Feststellung nach § 23a Absatz 2 Satz 1, dass der angemessene Sicherheitsabstand erstmalig unterschritten wird, räumlich noch weiter unterschritten wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird, bedarf die störfallrelevante Errichtung und der Betrieb oder die störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, einer störfallrechtlichen Genehmigung. Dies gilt nicht, soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren, bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch verbindliche Vorgaben Rechnung getragen worden ist. Die Genehmigung setzt einen schriftlichen oder elektronischen Antrag voraus. § 10 Absatz 1 Satz 4 und Absatz 2 gilt entsprechend. Die Genehmigung ist zu erteilen, wenn sichergestellt ist, dass die Anforderungen des § 22 und der auf Grundlage des § 23 erlassenen Rechtsverordnungen eingehalten werden und andere öffentlich-rechtliche Vorschriften und Belange des Arbeitsschutzes nicht entgegenstehen. Die Genehmigung kann unter Bedingungen erteilt und mit Auflagen verbunden werden, soweit dies erforderlich ist, um die Erfüllung der Genehmigungsvoraussetzungen sicherzustellen. Die Genehmigung schließt andere die Anlage betreffende behördliche Entscheidungen ein mit Ausnahme von Planfeststellungen, Zulassungen bergrechtlicher Betriebspläne, behördlichen Entscheidungen auf Grund atomrechtlicher Vorschriften und wasserrechtlichen Erlaubnissen und Bewilligungen nach § 8 in Verbindung mit § 10 des Wasserhaushaltsgesetzes. Die §§ 8, 8a, 9 und 18 gelten entsprechend.
 
@@ -618,18 +585,15 @@ In der Rechtsverordnung nach Satz 1 können auch die Anforderungen bestimmt werd
 
 3. Inhalt und Bekanntmachung des Genehmigungsbescheids.
 
-
-## § 23c – Betriebsplanzulassung nach dem Bundesberggesetz
+# § 23c – Betriebsplanzulassung nach dem Bundesberggesetz
 
 Die §§ 23a und 23b Absatz 1, 3 und 4 gelten nicht für die störfallrelevante Errichtung und den Betrieb oder die störfallrelevante Änderung einer nicht genehmigungsbedürftigen Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist, wenn für die Errichtung und den Betrieb oder die Änderung eine Betriebsplanzulassung nach dem Bundesberggesetz erforderlich ist. § 23b Absatz 2 ist für die in Satz 1 genannten Vorhaben unter den in § 57d des Bundesberggesetzes genannten Bedingungen entsprechend anzuwenden. Die Regelungen, die auf Grundlage des § 23b Absatz 5 durch Rechtsverordnung getroffen werden, gelten für die in Satz 1 genannten Vorhaben, soweit § 57d des Bundesberggesetzes dies anordnet.
 
-
-## § 24 – Anordnungen im Einzelfall
+# § 24 – Anordnungen im Einzelfall
 
 Die zuständige Behörde kann im Einzelfall die zur Durchführung des § 22 und der auf dieses Gesetz gestützten Rechtsverordnungen erforderlichen Anordnungen treffen. Kann das Ziel der Anordnung auch durch eine Maßnahme zum Zwecke des Arbeitsschutzes erreicht werden, soll diese angeordnet werden.
 
-
-## § 25 – Untersagung
+# § 25 – Untersagung
 
 (1) Kommt der Betreiber einer Anlage einer vollziehbaren behördlichen Anordnung nach § 24 Satz 1 nicht nach, so kann die zuständige Behörde den Betrieb der Anlage ganz oder teilweise bis zur Erfüllung der Anordnung untersagen.
 
@@ -641,18 +605,15 @@ Die zuständige Behörde kann im Einzelfall die zur Durchführung des § 22 und 
 
 (2) Wenn die von einer Anlage hervorgerufenen schädlichen Umwelteinwirkungen das Leben oder die Gesundheit von Menschen oder bedeutende Sachwerte gefährden, soll die zuständige Behörde die Errichtung oder den Betrieb der Anlage ganz oder teilweise untersagen, soweit die Allgemeinheit oder die Nachbarschaft nicht auf andere Weise ausreichend geschützt werden kann.
 
-
-## § 25a – Stilllegung und Beseitigung nicht genehmigungsbedürftiger Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
+# § 25a – Stilllegung und Beseitigung nicht genehmigungsbedürftiger Anlagen, die Betriebsbereich oder Bestandteil eines Betriebsbereichs sind
 
 Die zuständige Behörde kann anordnen, dass eine Anlage, die Betriebsbereich oder Bestandteil eines Betriebsbereichs ist und ohne die erforderliche Genehmigung nach § 23b störfallrelevant errichtet oder geändert wird, ganz oder teilweise stillzulegen oder zu beseitigen ist. Sie soll die Beseitigung anordnen, wenn die Allgemeinheit oder die Nachbarschaft nicht auf andere Weise ausreichend geschützt werden kann.
 
-
-## § 26 – Messungen aus besonderem Anlass
+# § 26 – Messungen aus besonderem Anlass
 
 Die zuständige Behörde kann anordnen, dass der Betreiber einer genehmigungsbedürftigen Anlage oder, soweit § 22 Anwendung findet, einer nicht genehmigungsbedürftigen Anlage Art und Ausmaß der von der Anlage ausgehenden Emissionen sowie die Immissionen im Einwirkungsbereich der Anlage durch eine der von der zuständigen Behörde eines Landes bekannt gegebenen Stellen ermitteln lässt, wenn zu befürchten ist, dass durch die Anlage schädliche Umwelteinwirkungen hervorgerufen werden. Die zuständige Behörde ist befugt, Einzelheiten über Art und Umfang der Ermittlungen sowie über die Vorlage des Ermittlungsergebnisses vorzuschreiben.
 
-
-## § 27 – Emissionserklärung
+# § 27 – Emissionserklärung
 
 (1) Der Betreiber einer genehmigungsbedürftigen Anlage ist verpflichtet, der zuständigen Behörde innerhalb einer von ihr zu setzenden Frist oder zu dem in der Rechtsverordnung nach Absatz 4 festgesetzten Zeitpunkt Angaben zu machen über Art, Menge, räumliche und zeitliche Verteilung der Luftverunreinigungen, die von der Anlage in einem bestimmten Zeitraum ausgegangen sind, sowie über die Austrittsbedingungen (Emissionserklärung); er hat die Emissionserklärung nach Maßgabe der Rechtsverordnung nach Absatz 4 entsprechend dem neuesten Stand zu ergänzen. § 52 Absatz 5 gilt sinngemäß. Satz 1 gilt nicht für Betreiber von Anlagen, von denen nur in geringem Umfang Luftverunreinigungen ausgehen können.
 
@@ -662,8 +623,7 @@ Die zuständige Behörde kann anordnen, dass der Betreiber einer genehmigungsbed
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Inhalt, Umfang, Form und Zeitpunkt der Abgabe der Emissionserklärung, das bei der Ermittlung der Emissionen einzuhaltende Verfahren und den Zeitraum, innerhalb dessen die Emissionserklärung zu ergänzen ist, zu regeln. In der Rechtsverordnung wird auch bestimmt, welche Betreiber genehmigungsbedürftiger Anlagen nach Absatz 1 Satz 3 von der Pflicht zur Abgabe einer Emissionserklärung befreit sind. Darüber hinaus kann zur Erfüllung der Pflichten aus bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union in der Rechtsverordnung vorgeschrieben werden, dass die zuständigen Behörden über die nach Landesrecht zuständige Behörde dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zu einem festgelegten Zeitpunkt Emissionsdaten zur Verfügung stellen, die den Emissionserklärungen zu entnehmen sind.
 
-
-## § 28 – Erstmalige und wiederkehrende Messungen bei genehmigungsbedürftigen Anlagen
+# § 28 – Erstmalige und wiederkehrende Messungen bei genehmigungsbedürftigen Anlagen
 
 Die zuständige Behörde kann bei genehmigungsbedürftigen Anlagen
 
@@ -673,15 +633,13 @@ Die zuständige Behörde kann bei genehmigungsbedürftigen Anlagen
 
 Anordnungen nach § 26 auch ohne die dort genannten Voraussetzungen treffen. Hält die Behörde wegen Art, Menge und Gefährlichkeit der von der Anlage ausgehenden Emissionen Ermittlungen auch während des in Nummer 2 genannten Zeitraums für erforderlich, so soll sie auf Antrag des Betreibers zulassen, dass diese Ermittlungen durch den Immissionsschutzbeauftragten durchgeführt werden, wenn dieser hierfür die erforderliche Fachkunde, Zuverlässigkeit und gerätetechnische Ausstattung besitzt.
 
-
-## § 29 – Kontinuierliche Messungen
+# § 29 – Kontinuierliche Messungen
 
 (1) Die zuständige Behörde kann bei genehmigungsbedürftigen Anlagen anordnen, dass statt durch Einzelmessungen nach § 26 oder § 28 oder neben solchen Messungen bestimmte Emissionen oder Immissionen unter Verwendung aufzeichnender Messgeräte fortlaufend ermittelt werden. Bei Anlagen mit erheblichen Emissionsmassenströmen luftverunreinigender Stoffe sollen unter Berücksichtigung von Art und Gefährlichkeit dieser Stoffe Anordnungen nach Satz 1 getroffen werden, soweit eine Überschreitung der in Rechtsvorschriften, Auflagen oder Anordnungen festgelegten Emissionsbegrenzungen nach der Art der Anlage nicht ausgeschlossen werden kann.
 
 (2) Die zuständige Behörde kann bei nicht genehmigungsbedürftigen Anlagen, soweit § 22 anzuwenden ist, anordnen, dass statt durch Einzelmessungen nach § 26 oder neben solchen Messungen bestimmte Emissionen oder Immissionen unter Verwendung aufzeichnender Messgeräte fortlaufend ermittelt werden, wenn dies zur Feststellung erforderlich ist, ob durch die Anlage schädliche Umwelteinwirkungen hervorgerufen werden.
 
-
-## § 29a – Anordnung sicherheitstechnischer Prüfungen
+# § 29a – Anordnung sicherheitstechnischer Prüfungen
 
 (1) Die zuständige Behörde kann anordnen, dass der Betreiber einer genehmigungsbedürftigen Anlage oder einer Anlage innerhalb eines Betriebsbereichs nach § 3 Absatz 5a einen der von der zuständigen Behörde eines Landes bekannt gegebenen Sachverständigen mit der Durchführung bestimmter sicherheitstechnischer Prüfungen sowie Prüfungen von sicherheitstechnischen Unterlagen beauftragt. In der Anordnung kann die Durchführung der Prüfungen durch den Störfallbeauftragten (§ 58a), eine zugelassene Überwachungsstelle nach § 37 Absatz 1 des Produktsicherheitsgesetzes oder einen in einer für Anlagen nach § 2 Nummer 30 des Produktsicherheitsgesetzes erlassenen Rechtsverordnung genannten Sachverständigen gestattet werden, wenn diese die Anforderungen nach § 29b Absatz 2 Satz 2 und 3 erfüllen; das Gleiche gilt für einen nach § 36 Absatz 1 der Gewerbeordnung bestellten Sachverständigen oder für Sachverständige, die im Rahmen von § 13a der Gewerbeordnung ihre gewerbliche Tätigkeit nur vorübergehend und gelegentlich im Inland ausüben wollen, soweit eine besondere Sachkunde im Bereich sicherheitstechnischer Prüfungen nachgewiesen wird. Die zuständige Behörde ist befugt, Einzelheiten über Art und Umfang der sicherheitstechnischen Prüfungen sowie über die Vorlage des Prüfungsergebnisses vorzuschreiben.
 
@@ -701,8 +659,7 @@ Satz 1 gilt entsprechend bei einer Änderung im Sinne des § 15 oder des § 16.
 
 (3) Der Betreiber hat die Ergebnisse der sicherheitstechnischen Prüfungen der zuständigen Behörde spätestens einen Monat nach Durchführung der Prüfungen vorzulegen; er hat diese Ergebnisse unverzüglich vorzulegen, sofern dies zur Abwehr gegenwärtiger Gefahren erforderlich ist.
 
-
-## § 29b – Bekanntgabe von Stellen und Sachverständigen
+# § 29b – Bekanntgabe von Stellen und Sachverständigen
 
 (1) Die Bekanntgabe von Stellen im Sinne von § 26, von Stellen im Sinne einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder von Sachverständigen im Sinne von § 29a durch die zuständige Behörde eines Landes berechtigt die bekannt gegebenen Stellen und Sachverständigen, die in der Bekanntgabe festgelegten Ermittlungen oder Prüfungen auf Antrag eines Anlagenbetreibers durchzuführen.
 
@@ -724,8 +681,7 @@ Satz 1 gilt entsprechend bei einer Änderung im Sinne des § 15 oder des § 16.
 
 7. Pflichten der bekannt gegebenen Stellen und Sachverständigen festgelegt werden.
 
-
-## § 30 – Kosten der Messungen und sicherheitstechnischen Prüfungen
+# § 30 – Kosten der Messungen und sicherheitstechnischen Prüfungen
 
 Die Kosten für die Ermittlungen der Emissionen und Immissionen sowie für die sicherheitstechnischen Prüfungen trägt der Betreiber der Anlage. Bei nicht genehmigungsbedürftigen Anlagen trägt der Betreiber die Kosten für Ermittlungen nach § 26 oder § 29 Absatz 2 nur, wenn die Ermittlungen ergeben, dass
 
@@ -733,8 +689,7 @@ Die Kosten für die Ermittlungen der Emissionen und Immissionen sowie für die s
 
 2. Anordnungen oder Auflagen nach den Vorschriften dieses Gesetzes oder der auf dieses Gesetz gestützten Rechtsverordnungen geboten sind.
 
-
-## § 31 – Auskunftspflichten des Betreibers
+# § 31 – Auskunftspflichten des Betreibers
 
 (1) Der Betreiber einer Anlage nach der Industrieemissions-Richtlinie hat nach Maßgabe der Nebenbestimmungen der Genehmigung oder auf Grund von Rechtsverordnungen der zuständigen Behörde jährlich Folgendes vorzulegen:
 
@@ -754,8 +709,7 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 
 (5) Der Betreiber der Anlage hat das Ergebnis der auf Grund einer Anordnung nach § 26, § 28 oder § 29 getroffenen Ermittlungen der zuständigen Behörde auf Verlangen mitzuteilen und die Aufzeichnungen der Messgeräte nach § 29 fünf Jahre lang aufzubewahren. Die zuständige Behörde kann die Art der Übermittlung der Messergebnisse vorschreiben. Die Ergebnisse der Überwachung der Emissionen, die bei der Behörde vorliegen, sind für die Öffentlichkeit nach den Bestimmungen des Umweltinformationsgesetzes mit Ausnahme des § 12 zugänglich; für Landesbehörden gelten die landesrechtlichen Vorschriften.
 
-
-## § 32 – Beschaffenheit von Anlagen
+# § 32 – Beschaffenheit von Anlagen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass serienmäßig hergestellte Teile von Betriebsstätten und sonstigen ortsfesten Einrichtungen sowie die in § 3 Absatz 5 Nummer 2 bezeichneten Anlagen und hierfür serienmäßig hergestellte Teile gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht oder eingeführt werden dürfen, wenn sie bestimmten Anforderungen zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen oder nichtionisierende Strahlen genügen. In den Rechtsverordnungen nach Satz 1 kann insbesondere vorgeschrieben werden, dass
 
@@ -767,8 +721,7 @@ Emissionswerte nach Satz 2 Nummer 1 können unter Berücksichtigung der technisc
 
 (2) In einer Rechtsverordnung kann ferner vorgeschrieben werden, dass die Anlagen oder die serienmäßig hergestellten Teile gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht oder eingeführt werden dürfen, wenn sie mit Angaben über die Höhe ihrer Emissionen gekennzeichnet sind.
 
-
-## § 33 – Bauartzulassung
+# § 33 – Bauartzulassung
 
 (1) Die Bundesregierung wird ermächtigt, zum Schutz vor schädlichen Umwelteinwirkungen sowie zur Vorsorge gegen schädliche Umwelteinwirkungen nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -782,15 +735,13 @@ Emissionswerte nach Satz 2 Nummer 1 können unter Berücksichtigung der technisc
 
 (2) Die Zulassung der Bauart darf nur von der Erfüllung der in § 32 Absatz 1 und 2 genannten oder in anderen Rechtsvorschriften festgelegten Anforderungen sowie von einem Nachweis der Höhe der Emissionen der Anlage oder des Teils abhängig gemacht werden.
 
-
-## § 34 – Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen
+# § 34 – Beschaffenheit von Brennstoffen, Treibstoffen und Schmierstoffen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass Brennstoffe, Treibstoffe, Schmierstoffe oder Zusätze zu diesen Stoffen gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur hergestellt, in den Verkehr gebracht oder eingeführt werden dürfen, wenn sie bestimmten Anforderungen zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen genügen. In den Rechtsverordnungen nach Satz 1 kann insbesondere bestimmt werden, dass
 
 1. natürliche Bestandteile oder Zusätze von Brennstoffen, Treibstoffen oder Schmierstoffen nach Satz 1, die bei bestimmungsgemäßer Verwendung der Brennstoffe, Treibstoffe, Schmierstoffe oder Zusätze Luftverunreinigungen hervorrufen oder die Bekämpfung von Luftverunreinigungen behindern, nicht zugesetzt werden oder einen bestimmten Höchstgehalt nicht überschreiten dürfen,
 
-1a.  
-Zusätze zu Brennstoffen, Treibstoffen oder Schmierstoffen bestimmte Stoffe, die Luftverunreinigungen hervorrufen oder die Bekämpfung von Luftverunreinigungen behindern, nicht oder nur in besonderer Zusammensetzung enthalten dürfen,
+1a. Zusätze zu Brennstoffen, Treibstoffen oder Schmierstoffen bestimmte Stoffe, die Luftverunreinigungen hervorrufen oder die Bekämpfung von Luftverunreinigungen behindern, nicht oder nur in besonderer Zusammensetzung enthalten dürfen,
 
 2. Brennstoffe, Treibstoffe oder Schmierstoffe nach Satz 1 bestimmte Zusätze enthalten müssen, durch die das Entstehen von Luftverunreinigungen begrenzt wird,
 
@@ -828,8 +779,7 @@ a) die Gesamtmenge der jeweiligen Art von geliefertem Treibstoff unter Angabe de
 
 b) die Lebenszyklustreibhausgasemissionen pro Energieeinheit.
 
-
-## § 35 – Beschaffenheit von Stoffen und Erzeugnissen
+# § 35 – Beschaffenheit von Stoffen und Erzeugnissen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass bestimmte Stoffe oder Erzeugnisse aus Stoffen, die geeignet sind, bei ihrer bestimmungsgemäßen Verwendung oder bei der Verbrennung zum Zwecke der Beseitigung oder der Rückgewinnung einzelner Bestandteile schädliche Umwelteinwirkungen durch Luftverunreinigungen hervorzurufen, gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur hergestellt, eingeführt oder sonst in den Verkehr gebracht werden dürfen, wenn sie zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen bestimmten Anforderungen an ihre Zusammensetzung und das Verfahren zu ihrer Herstellung genügen. Die Ermächtigung des Satzes 1 erstreckt sich nicht auf Anlagen, Brennstoffe, Treibstoffe und Fahrzeuge.
 
@@ -837,18 +787,15 @@ b) die Lebenszyklustreibhausgasemissionen pro Energieeinheit.
 
 (3) Soweit dies mit dem Schutz der Allgemeinheit vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen vereinbar ist, kann in der Rechtsverordnung nach Absatz 1 an Stelle der Anforderungen über die Zusammensetzung und das Herstellungsverfahren vorgeschrieben werden, dass die Stoffe und Erzeugnisse deutlich sichtbar und leicht lesbar mit dem Hinweis zu kennzeichnen sind, dass bei ihrer bestimmungsgemäßen Verwendung oder bei ihrer Verbrennung schädliche Umwelteinwirkungen entstehen können oder dass bei einer bestimmten Verwendungsart schädliche Umwelteinwirkungen vermieden werden können.
 
-
-## § 36 – Ausfuhr
+# § 36 – Ausfuhr
 
 In den Rechtsverordnungen nach den §§ 32 bis 35 kann vorgeschrieben werden, dass die Vorschriften über das Herstellen, Einführen und das Inverkehrbringen nicht gelten für Anlagen, Stoffe, Erzeugnisse, Brennstoffe und Treibstoffe, die zur Lieferung in Gebiete außerhalb des Geltungsbereichs dieses Gesetzes bestimmt sind.
 
-
-## § 37 – Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
+# § 37 – Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
 
 Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass Anlagen, Stoffe, Erzeugnisse, Brennstoffe oder Treibstoffe gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nur in den Verkehr gebracht werden dürfen, wenn sie nach Maßgabe der §§ 32 bis 35 bestimmte Anforderungen erfüllen. In einer Rechtsverordnung nach Satz 1, die der Erfüllung bindender Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Maßnahmen zur Bekämpfung der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus Verbrennungsmotoren für mobile Maschinen und Geräte dient, kann das Kraftfahrt-Bundesamt als Genehmigungsbehörde bestimmt und insoweit der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit unterstellt werden.
 
-
-## § 37a – Mindestanteil von Biokraftstoffen an der Gesamtmenge des in Verkehr gebrachten Kraftstoffs; Treibhausgasminderung
+# § 37a – Mindestanteil von Biokraftstoffen an der Gesamtmenge des in Verkehr gebrachten Kraftstoffs; Treibhausgasminderung
 
 (1) Wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen nach § 2 Absatz 1 Nummer 1 und 4 des Energiesteuergesetzes zu versteuernde Otto- oder Dieselkraftstoffe in Verkehr bringt, hat sicherzustellen, dass für die gesamte im Lauf eines Kalenderjahres (Verpflichtungsjahr) von ihm in Verkehr gebrachte Menge Kraftstoffs die Vorgaben der Absätze 3 und 4 eingehalten werden. Kraftstoff gilt mit dem Entstehen der Energiesteuer nach § 8 Absatz 1, § 9 Absatz 1, § 9a Absatz 4, § 15 Absatz 1 oder Absatz 2, auch jeweils in Verbindung mit § 15 Absatz 4, §§ 19b Absatz 1, § 22 Absatz 1 oder § 23 Absatz 1 oder Absatz 2, § 38 Absatz 1, § 42 Absatz 1 oder § 43 Absatz 1 des Energiesteuergesetzes als in Verkehr gebracht. Die Abgabe von fossilem Otto- und fossilem Dieselkraftstoff an die Bundeswehr zu Zwecken der Verteidigung oder der Erfüllung zwischenstaatlicher Verpflichtungen gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für den Erwerb von fossilem Otto- und fossilem Dieselkraftstoff durch die Bundeswehr zu einem in Satz 3 genannten Zweck. Der Bundeswehr gleichgestellt sind auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland befindliche Truppen sowie Einrichtungen, die die Bundeswehr oder diese Truppen zur Erfüllung ihrer jeweiligen Aufgaben einsetzt oder einsetzen. Die Abgabe von Kraftstoff im Eigentum des Erdölbevorratungsverbandes auf Grund einer Freigabe nach § 12 Absatz 1 des Erdölbevorratungsgesetzes durch den Erdölbevorratungsverband, Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie nachfolgende Abgaben gelten nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Dies gilt auch für die Abgabe von Kraftstoff in den in Satz 6 genannten Fällen im Rahmen von Delegationen nach § 7 Absatz 1 des Erdölbevorratungsgesetzes durch Mitglieder des Erdölbevorratungsverbandes oder Dritte sowie für nachfolgende Abgaben. Die Abgabe von Ausgleichsmengen an unterversorgte Unternehmen zum Versorgungsausgleich im Sinne von § 1 Absatz 1 der Mineralölausgleichs-Verordnung vom 13. Dezember 1985 (BGBl. I S. 2267), die zuletzt durch Artikel 5 Absatz 3 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1738) geändert worden ist, in der jeweils geltenden Fassung gilt nicht als Inverkehrbringen im Sinne der Sätze 1 und 2. Ein Inverkehrbringen im Sinne der Sätze 1 und 2 liegt ebenfalls nicht vor, wenn der Erdölbevorratungsverband Kraftstoff aus seinem Eigentum abgibt und dieser Abgabe keine Rücklieferung am Abgabeort gegenüber steht oder er dafür Mineralölprodukte erwirbt, die nicht unter die Vorschrift des Satzes 1 fallen. Satz 9 gilt auch für die nachfolgenden Abgaben des Kraftstoffs.
 
@@ -904,8 +851,7 @@ zugunsten des Verpflichteten berücksichtigt. Im Fall des Satzes 6 Nummer 2 bere
 
 (8) Biokraftstoff- oder Treibhausgasminderungsmengen, die den nach den Absätzen 3 und 4 vorgeschriebenen Mindestanteil oder Prozentsatz für ein bestimmtes Verpflichtungsjahr übersteigen und für die keine Steuerentlastung nach § 50 Absatz 1 Satz 1 Nummer 1, 2 und 4 des Energiesteuergesetzes beantragt wurde, werden auf Antrag des Verpflichteten auf den Mindestanteil oder Prozentsatz des Folgejahres angerechnet. Bei Biokraftstoffmengen, die den nach Absatz 3 vorgeschriebenen Mindestanteil im Verpflichtungsjahr 2014 übersteigen und deren Anrechnung auf das Verpflichtungsjahr 2015 vom Verpflichteten beantragt wird, ist die anrechenbare Treibhausgasminderungsmenge auf der Grundlage eines Durchschnittswertes von 43,58 Kilogramm Kohlendioxid-Äquivalent pro Gigajoule zu ermitteln.
 
-
-## § 37b – Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
+# § 37b – Begriffsbestimmungen und Anrechenbarkeit von Biokraftstoffen
 
 (1) Biokraftstoffe sind unbeschadet der Absätze 2 bis 6 Energieerzeugnisse ausschließlich aus Biomasse im Sinne der Biomasseverordnung vom 21. Juni 2001 (BGBl. I S. 1234), die zuletzt durch Artikel 12 des Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) geändert worden ist, in der jeweils geltenden Fassung. Energieerzeugnisse, die anteilig aus Biomasse hergestellt werden, gelten in Höhe dieses Anteils als Biokraftstoff.
 
@@ -935,8 +881,7 @@ Im Fall des § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 werde
 
 (9) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt den Energiegehalt der verschiedenen Kraftstoffe sowie Änderungen ihres Energiegehaltes im Bundesanzeiger bekannt.
 
-
-## § 37c – Mitteilungs- und Abgabepflichten
+# § 37c – Mitteilungs- und Abgabepflichten
 
 (1) Verpflichtete haben der zuständigen Stelle jeweils bis zum 15. April des auf das Verpflichtungsjahr folgenden Jahres die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge fossilen Otto- und fossilen Dieselkraftstoffs, die im Verpflichtungsjahr von ihnen in Verkehr gebrachte Menge Biokraftstoffs, bezogen auf die verschiedenen jeweils betroffenen Biokraftstoffe, und für die Verpflichtungsjahre ab dem Kalenderjahr 2015 außerdem die Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent der jeweiligen Mengen schriftlich mitzuteilen. In der Mitteilung sind darüber hinaus die Firma des Verpflichteten, der Ort der für das Inverkehrbringen verantwortlichen Niederlassung oder der Sitz des Unternehmens, die jeweils zugehörige Anschrift sowie der Name und die Anschrift des Vertretungsberechtigten anzugeben. Soweit die Erfüllung von Verpflichtungen nach § 37a Absatz 6 Satz 1 oder nach § 37a Absatz 7 Satz 1 vertraglich auf Dritte übertragen wurde, haben Verpflichtete der zuständigen Stelle zusätzlich die Angaben nach § 37a Absatz 6 Satz 2 oder Satz 3 oder § 37a Absatz 7 Satz 2 oder Satz 3 schriftlich mitzuteilen und eine Kopie des Vertrags mit dem Dritten vorzulegen. Im Fall des § 37a Absatz 6 hat der Dritte der zuständigen Stelle die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Biokraftstoffs, bezogen auf die verschiedenen jeweils betroffenen Biokraftstoffe, und für die Verpflichtungsjahre ab dem Kalenderjahr 2015 außerdem die Treibhausgasemissionen in Kilogramm Kohlenstoffdioxid-Äquivalent der jeweiligen Mengen schriftlich mitzuteilen. Im Fall des § 37a Absatz 6 Satz 5 gilt dies entsprechend für die im Vorjahr des Verpflichtungsjahres vom Dritten in Verkehr gebrachten Biokraftstoffe. Im Fall des § 37a Absatz 7 hat der Dritte der zuständigen Stelle die auf Grund seiner vertraglichen Verpflichtung von ihm im Verpflichtungsjahr in Verkehr gebrachte Menge Biokraftstoffs, bezogen auf die verschiedenen jeweils betroffenen Biokraftstoffe, und für die Verpflichtungsjahre ab dem Kalenderjahr 2015 die auf Grund seiner vertraglichen Verpflichtung im Verpflichtungsjahr sichergestellte Treibhausgasminderungsmenge in Kilogramm Kohlenstoffdioxid-Äquivalent schriftlich mitzuteilen. Die zuständige Stelle erteilt jedem Verpflichteten eine Registriernummer und führt ein elektronisches Register, das für alle Verpflichteten die nach den Sätzen 1 bis 6 erforderlichen Angaben enthält.
 
@@ -948,8 +893,7 @@ Im Fall des § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 werde
 
 (5) Hinsichtlich der Absätze 1 bis 4 finden die für die Verbrauchsteuern geltenden Vorschriften der Abgabenordnung entsprechende Anwendung. Die Mitteilungen nach Absatz 1 und Absatz 4 gelten als Steueranmeldungen im Sinne der Abgabenordnung. § 170 Absatz 2 Satz 1 Nummer 1 der Abgabenordnung findet Anwendung. In den Fällen des Absatzes 2 ist der Verpflichtete vor der Festsetzung der Abgabe anzuhören.
 
-
-## § 37d – Zuständige Stelle, Rechtsverordnungen
+# § 37d – Zuständige Stelle, Rechtsverordnungen
 
 (1) Innerhalb der Bundesverwaltung werden eine oder mehrere Stellen errichtet, denen die Aufgaben übertragen werden, die Erfüllung der Verpflichtungen nach § 37a zu überwachen, die in § 37c geregelten Aufgaben zu erfüllen und die Berichte nach § 37f zu überprüfen. Die Bundesregierung wird ermächtigt, die jeweils zuständige Stelle durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen.
 
@@ -1039,8 +983,7 @@ In Rechtsverordnungen nach Satz 1 kann die Zuständigkeit zur Durchführung eine
 
 4. zu bestimmen, dass das Entstehen von Verpflichtungen nach § 37a Absatz 1 Satz 1 und 2 in Verbindung mit § 37a Absatz 3 und 4 an das Inverkehrbringen einer bestimmten Mindestmenge an Kraftstoff geknüpft wird.
 
-
-## § 37e – Gebühren und Auslagen; Verordnungsermächtigung
+# § 37e – Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für Amtshandlungen, die auf Rechtsverordnungen beruhen
 
@@ -1054,8 +997,7 @@ werden zur Deckelung des Verwaltungsaufwands Gebühren und Auslagen erhoben.
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und Gebührensätze für Amtshandlungen im Sinne von Absatz 1 Nummer 2 zu bestimmen und dabei feste Sätze, auch in Form von Zeitgebühren oder Rahmensätzen, vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen auch abweichend von § 12 Absatz 1 des Bundesgebührengesetzes geregelt werden.
 
-
-## § 37f – Berichte über Kraftstoffe und Energieerzeugnisse
+# § 37f – Berichte über Kraftstoffe und Energieerzeugnisse
 
 (1) Verpflichtete haben der zuständigen Stelle jährlich bis zum 31. März einen Bericht über die im vorangegangenen Verpflichtungsjahr in Verkehr gebrachten Kraftstoffe und Energieerzeugnisse vorzulegen, sofern eine Rechtsverordnung nach § 37d Absatz 2 Satz 1 Nummer 14 dies vorsieht. Der Bericht enthält zumindest folgende Angaben:
 
@@ -1065,13 +1007,11 @@ werden zur Deckelung des Verwaltungsaufwands Gebühren und Auslagen erhoben.
 
 (2) Die zuständige Stelle überprüft die Berichte. Der Verpflichtete hat der zuständigen Stelle auf Verlangen die Auskünfte zu erteilen und die Unterlagen vorzulegen, die zur Überprüfung der Berichte erforderlich sind.
 
-
-## § 37g – Bericht der Bundesregierung
+# § 37g – Bericht der Bundesregierung
 
 Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der Europäischen Kommission vorgelegt wurde, übermittelt die Bundesregierung den Bericht nach § 64 der Biokraftstoff-Nachhaltigkeitsverordnung dem Deutschen Bundestag und dem Bundesrat.
 
-
-## § 38 – Beschaffenheit und Betrieb von Fahrzeugen
+# § 38 – Beschaffenheit und Betrieb von Fahrzeugen
 
 (1) Kraftfahrzeuge und ihre Anhänger, Schienen-, Luft- und Wasserfahrzeuge sowie Schwimmkörper und schwimmende Anlagen müssen so beschaffen sein, dass ihre durch die Teilnahme am Verkehr verursachten Emissionen bei bestimmungsgemäßem Betrieb die zum Schutz vor schädlichen Umwelteinwirkungen einzuhaltenden Grenzwerte nicht überschreiten. Sie müssen so betrieben werden, dass vermeidbare Emissionen verhindert und unvermeidbare Emissionen auf ein Mindestmaß beschränkt bleiben.
 
@@ -1079,13 +1019,11 @@ Nachdem der Bericht nach Artikel 22 der Richtlinie 2009/28/EG der Europäischen 
 
 (3) Wegen der Anforderungen nach Absatz 2 gilt § 7 Absatz 5 entsprechend.
 
-
-## § 39 – Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
+# § 39 – Erfüllung von zwischenstaatlichen Vereinbarungen und Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union
 
 Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union können zu dem in § 1 genannten Zweck das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass die in § 38 genannten Fahrzeuge bestimmten Anforderungen an Beschaffenheit, Ausrüstung, Prüfung und Betrieb genügen müssen. Wegen der Anforderungen nach Satz 1 gilt § 7 Absatz 5 entsprechend.
 
-
-## § 40 – Verkehrsbeschränkungen
+# § 40 – Verkehrsbeschränkungen
 
 (1) Die zuständige Straßenverkehrsbehörde beschränkt oder verbietet den Kraftfahrzeugverkehr nach Maßgabe der straßenverkehrsrechtlichen Vorschriften, soweit ein Luftreinhalteplan oder ein Plan für kurzfristig zu ergreifende Maßnahmen nach § 47 Absatz 1 oder 2 dies vorsehen. Die Straßenverkehrsbehörde kann im Einvernehmen mit der für den Immissionsschutz zuständigen Behörde Ausnahmen von Verboten oder Beschränkungen des Kraftfahrzeugverkehrs zulassen, wenn unaufschiebbare und überwiegende Gründe des Wohls der Allgemeinheit dies erfordern.
 
@@ -1093,15 +1031,13 @@ Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder v
 
 (3) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln, dass Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung von Verkehrsverboten ganz oder teilweise ausgenommen sind oder ausgenommen werden können, sowie die hierfür maßgebenden Kriterien und die amtliche Kennzeichnung der Kraftfahrzeuge festzulegen. Die Verordnung kann auch regeln, dass bestimmte Fahrten oder Personen ausgenommen sind oder ausgenommen werden können, wenn das Wohl der Allgemeinheit oder unaufschiebbare und überwiegende Interessen des Einzelnen dies erfordern.
 
-
-## § 41 – Straßen und Schienenwege
+# § 41 – Straßen und Schienenwege
 
 (1) Bei dem Bau oder der wesentlichen Änderung öffentlicher Straßen sowie von Eisenbahnen, Magnetschwebebahnen und Straßenbahnen ist unbeschadet des § 50 sicherzustellen, dass durch diese keine schädlichen Umwelteinwirkungen durch Verkehrsgeräusche hervorgerufen werden können, die nach dem Stand der Technik vermeidbar sind.
 
 (2) Absatz 1 gilt nicht, soweit die Kosten der Schutzmaßnahme außer Verhältnis zu dem angestrebten Schutzzweck stehen würden.
 
-
-## § 42 – Entschädigung für Schallschutzmaßnahmen
+# § 42 – Entschädigung für Schallschutzmaßnahmen
 
 (1) Werden im Falle des § 41 die in der Rechtsverordnung nach § 43 Absatz 1 Satz 1 Nummer 1 festgelegten Immissionsgrenzwerte überschritten, hat der Eigentümer einer betroffenen baulichen Anlage gegen den Träger der Baulast einen Anspruch auf angemessene Entschädigung in Geld, es sei denn, dass die Beeinträchtigung wegen der besonderen Benutzung der Anlage zumutbar ist. Dies gilt auch bei baulichen Anlagen, die bei Auslegung der Pläne im Planfeststellungsverfahren oder bei Auslegung des Entwurfs der Bauleitpläne mit ausgewiesener Wegeplanung bauaufsichtlich genehmigt waren.
 
@@ -1109,8 +1045,7 @@ Zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder v
 
 (3) Kommt zwischen dem Träger der Baulast und dem Betroffenen keine Einigung über die Entschädigung zustande, setzt die nach Landesrecht zuständige Behörde auf Antrag eines der Beteiligten die Entschädigung durch schriftlichen Bescheid fest. Im Übrigen gelten für das Verfahren die Enteignungsgesetze der Länder entsprechend.
 
-
-## § 43 – Rechtsverordnung der Bundesregierung
+# § 43 – Rechtsverordnung der Bundesregierung
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung des § 41 und des § 42 Absatz 1 und 2 erforderlichen Vorschriften zu erlassen, insbesondere über
 
@@ -1124,15 +1059,13 @@ Der in den Rechtsverordnungen auf Grund des Satzes 1 zur Berücksichtigung der B
 
 (2) Wegen der Anforderungen nach Absatz 1 gilt § 7 Absatz 5 entsprechend.
 
-
-## § 44 – Überwachung der Luftqualität
+# § 44 – Überwachung der Luftqualität
 
 (1) Zur Überwachung der Luftqualität führen die zuständigen Behörden regelmäßige Untersuchungen nach den Anforderungen der Rechtsverordnungen nach § 48a Absatz 1 oder 1a durch.
 
 (2) Die Landesregierungen oder die von ihnen bestimmten Stellen werden ermächtigt, durch Rechtsverordnungen Untersuchungsgebiete festzulegen, in denen Art und Umfang bestimmter nicht von Absatz 1 erfasster Luftverunreinigungen in der Atmosphäre, die schädliche Umwelteinwirkungen hervorrufen können, in einem bestimmten Zeitraum oder fortlaufend festzustellen sowie die für die Entstehung der Luftverunreinigungen und ihrer Ausbreitung bedeutsamen Umstände zu untersuchen sind.
 
-
-## § 45 – Verbesserung der Luftqualität
+# § 45 – Verbesserung der Luftqualität
 
 (1) Die zuständigen Behörden ergreifen die erforderlichen Maßnahmen, um die Einhaltung der durch eine Rechtsverordnung nach § 48a festgelegten Immissionswerte sicherzustellen. Hierzu gehören insbesondere Pläne nach § 47.
 
@@ -1144,18 +1077,15 @@ b) dürfen nicht gegen die Vorschriften zum Schutz von Gesundheit und Sicherheit
 
 c) dürfen keine erheblichen Beeinträchtigungen der Umwelt in anderen Mitgliedstaaten verursachen.
 
-
-## § 46 – Emissionskataster
+# § 46 – Emissionskataster
 
 Soweit es zur Erfüllung von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union erforderlich ist, stellen die zuständigen Behörden Emissionskataster auf.
 
-
-## § 46a – Unterrichtung der Öffentlichkeit
+# § 46a – Unterrichtung der Öffentlichkeit
 
 Die Öffentlichkeit ist nach Maßgabe der Rechtsverordnungen nach § 48a Absatz 1 über die Luftqualität zu informieren. Überschreitungen von in Rechtsverordnungen nach § 48a Absatz 1 festgelegten Informations- oder Alarmschwellen sind der Öffentlichkeit von der zuständigen Behörde unverzüglich durch Rundfunk, Fernsehen, Presse oder auf andere Weise bekannt zu geben.
 
-
-## § 47 – Luftreinhaltepläne, Pläne für kurzfristig zu ergreifende Maßnahmen, Landesverordnungen
+# § 47 – Luftreinhaltepläne, Pläne für kurzfristig zu ergreifende Maßnahmen, Landesverordnungen
 
 (1) Werden die durch eine Rechtsverordnung nach § 48a Absatz 1 festgelegten Immissionsgrenzwerte einschließlich festgelegter Toleranzmargen überschritten, hat die zuständige Behörde einen Luftreinhalteplan aufzustellen, welcher die erforderlichen Maßnahmen zur dauerhaften Verminderung von Luftverunreinigungen festlegt und den Anforderungen der Rechtsverordnung entspricht. Satz 1 gilt entsprechend, soweit eine Rechtsverordnung nach § 48a Absatz 1 zur Einhaltung von Zielwerten die Aufstellung eines Luftreinhalteplans regelt. Die Maßnahmen eines Luftreinhalteplans müssen geeignet sein, den Zeitraum einer Überschreitung von bereits einzuhaltenden Immissionsgrenzwerten so kurz wie möglich zu halten.
 
@@ -1203,13 +1133,11 @@ Im Einzelfall kann der Luftreinhalteplan im Fall des Satzes 2 Nummer 6 auch für
 
 soweit die Anlagen oder Brennstoffe geeignet sind, zur Überschreitung der Immissionswerte beizutragen. Absatz 4 Satz 1 und § 49 Absatz 3 gelten entsprechend.
 
-
-## § 47a – Anwendungsbereich des Sechsten Teils
+# § 47a – Anwendungsbereich des Sechsten Teils
 
 Dieser Teil des Gesetzes gilt für den Umgebungslärm, dem Menschen insbesondere in bebauten Gebieten, in öffentlichen Parks oder anderen ruhigen Gebieten eines Ballungsraums, in ruhigen Gebieten auf dem Land, in der Umgebung von Schulgebäuden, Krankenhäusern und anderen lärmempfindlichen Gebäuden und Gebieten ausgesetzt sind. Er gilt nicht für Lärm, der von der davon betroffenen Person selbst oder durch Tätigkeiten innerhalb von Wohnungen verursacht wird, für Nachbarschaftslärm, Lärm am Arbeitsplatz, in Verkehrsmitteln oder Lärm, der auf militärische Tätigkeiten in militärischen Gebieten zurückzuführen ist.
 
-
-## § 47b – Begriffsbestimmungen
+# § 47b – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
@@ -1223,8 +1151,7 @@ Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
 5. „Großflughafen“ ein Verkehrsflughafen mit einem Verkehrsaufkommen von über 50 000 Bewegungen pro Jahr, wobei mit „Bewegung“ der Start oder die Landung bezeichnet wird, hiervon sind ausschließlich der Ausbildung dienende Bewegungen mit Leichtflugzeugen ausgenommen.
 
-
-## § 47c – Lärmkarten
+# § 47c – Lärmkarten
 
 (1) Die zuständigen Behörden arbeiten bis zum 30. Juni 2007 bezogen auf das vorangegangene Kalenderjahr Lärmkarten für Ballungsräume mit mehr als 250 000 Einwohnern sowie für Hauptverkehrsstraßen mit einem Verkehrsaufkommen von über sechs Millionen Kraftfahrzeugen pro Jahr, Haupteisenbahnstrecken mit einem Verkehrsaufkommen von über 60 000 Zügen pro Jahr und Großflughäfen aus. Gleiches gilt bis zum 30. Juni 2012 und danach alle fünf Jahre für sämtliche Ballungsräume sowie für sämtliche Hauptverkehrsstraßen und Haupteisenbahnstrecken.
 
@@ -1244,8 +1171,7 @@ Im Sinne dieses Gesetzes bezeichnen die Begriffe
 
 (6) Die zuständigen Behörden teilen Informationen aus den Lärmkarten, die in der Rechtsverordnung nach § 47f bezeichnet werden, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit oder einer von ihm benannten Stelle mit.
 
-
-## § 47d – Lärmaktionspläne
+# § 47d – Lärmaktionspläne
 
 (1) Die zuständigen Behörden stellen bis zum 18. Juli 2008 Lärmaktionspläne auf, mit denen Lärmprobleme und Lärmauswirkungen geregelt werden für
 
@@ -1269,8 +1195,7 @@ Gleiches gilt bis zum 18. Juli 2013 für sämtliche Ballungsräume sowie für s�
 
 (7) Die zuständigen Behörden teilen Informationen aus den Lärmaktionsplänen, die in der Rechtsverordnung nach § 47f bezeichnet werden, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit oder einer von ihm benannten Stelle mit.
 
-
-## § 47e – Zuständige Behörden
+# § 47e – Zuständige Behörden
 
 (1) Zuständige Behörden für die Aufgaben dieses Teils des Gesetzes sind die Gemeinden oder die nach Landesrecht zuständigen Behörden, soweit nicht nachstehend Abweichendes geregelt ist.
 
@@ -1280,8 +1205,7 @@ Gleiches gilt bis zum 18. Juli 2013 für sämtliche Ballungsräume sowie für s�
 
 (4) Abweichend von Absatz 1 ist ab dem 1. Januar 2015 das Eisenbahn-Bundesamt zuständig für die Aufstellung eines bundesweiten Lärmaktionsplanes für die Haupteisenbahnstrecken des Bundes mit Maßnahmen in Bundeshoheit. Bei Lärmaktionsplänen für Ballungsräume wirkt das Eisenbahn-Bundesamt an der Lärmaktionsplanung mit.
 
-
-## § 47f – Rechtsverordnungen
+# § 47f – Rechtsverordnungen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Regelungen zur Umsetzung der Richtlinie 2002/49/EG in deutsches Recht zu erlassen, insbesondere
 
@@ -1301,8 +1225,7 @@ Passt die Kommission gemäß Artikel 12 der Richtlinie 2002/49/EG deren Anhang I
 
 2. zur Datenerhebung und Datenübermittlung.
 
-
-## § 48 – Verwaltungsvorschriften
+# § 48 – Verwaltungsvorschriften
 
 (1) Die Bundesregierung erlässt nach Anhörung der beteiligten Kreise (§ 51) mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen des Bundes allgemeine Verwaltungsvorschriften, insbesondere über
 
@@ -1340,8 +1263,7 @@ Absatz 1 Satz 2 bleibt unberührt. Emissionswerte und Emissionsbegrenzungen nach
 
 (2) (weggefallen)
 
-
-## § 48a – Rechtsverordnungen über Emissionswerte und Immissionswerte
+# § 48a – Rechtsverordnungen über Emissionswerte und Immissionswerte
 
 (1) Zur Erfüllung von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck mit Zustimmung des Bundesrates Rechtsverordnungen über die Festsetzung von Immissions- und Emissionswerten einschließlich der Verfahren zur Ermittlung sowie Maßnahmen zur Einhaltung dieser Werte und zur Überwachung und Messung erlassen. In den Rechtsverordnungen kann auch geregelt werden, wie die Bevölkerung zu unterrichten ist.
 
@@ -1351,13 +1273,11 @@ Absatz 1 Satz 2 bleibt unberührt. Emissionswerte und Emissionsbegrenzungen nach
 
 (3) Zur Erfüllung von bindenden Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union kann die Bundesregierung zu dem in § 1 genannten Zweck mit Zustimmung des Bundesrates in Rechtsverordnungen von Behörden zu erfüllende Pflichten begründen und ihnen Befugnisse zur Erhebung, Verarbeitung und Nutzung personenbezogener Daten einräumen, soweit diese für die Beurteilung und Kontrolle der in den Beschlüssen gestellten Anforderungen erforderlich sind.
 
-
-## § 48b – Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
+# § 48b – Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
 
 Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2, § 23 Absatz 1 Satz 1 Nummer 2, § 43 Absatz 1 Satz 1 Nummer 1, § 48a Absatz 1 und § 48a Absatz 1a dieses Gesetzes sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet. Die Sätze 1 bis 5 gelten nicht bei Rechtsverordnungen nach § 7 Absatz 1 Satz 1 Nummer 2 für den Fall, dass wegen der Fortentwicklung des Standes der Technik die Umsetzung von BVT-Schlussfolgerungen nach § 7 Absatz 1a erforderlich ist.
 
-
-## § 49 – Schutz bestimmter Gebiete
+# § 49 – Schutz bestimmter Gebiete
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung vorzuschreiben, dass in näher zu bestimmenden Gebieten, die eines besonderen Schutzes vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen oder Geräusche bedürfen, bestimmte
 
@@ -1381,18 +1301,15 @@ werden dürfen, sobald die austauscharme Wetterlage von der zuständigen Behörd
 
 (3) Landesrechtliche Ermächtigungen für die Gemeinden und Gemeindeverbände zum Erlass von ortsrechtlichen Vorschriften, die Regelungen zum Schutz der Bevölkerung vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen oder Geräusche zum Gegenstand haben, bleiben unberührt.
 
-
-## § 50 – Planung
+# § 50 – Planung
 
 Bei raumbedeutsamen Planungen und Maßnahmen sind die für eine bestimmte Nutzung vorgesehenen Flächen einander so zuzuordnen, dass schädliche Umwelteinwirkungen und von schweren Unfällen im Sinne des Artikels 3 Nummer 13 der Richtlinie 2012/18/EU in Betriebsbereichen hervorgerufene Auswirkungen auf die ausschließlich oder überwiegend dem Wohnen dienenden Gebiete sowie auf sonstige schutzbedürftige Gebiete, insbesondere öffentlich genutzte Gebiete, wichtige Verkehrswege, Freizeitgebiete und unter dem Gesichtspunkt des Naturschutzes besonders wertvolle oder besonders empfindliche Gebiete und öffentlich genutzte Gebäude, so weit wie möglich vermieden werden. Bei raumbedeutsamen Planungen und Maßnahmen in Gebieten, in denen die in Rechtsverordnungen nach § 48a Absatz 1 festgelegten Immissionsgrenzwerte und Zielwerte nicht überschritten werden, ist bei der Abwägung der betroffenen Belange die Erhaltung der bestmöglichen Luftqualität als Belang zu berücksichtigen.
 
-
-## § 51 – Anhörung beteiligter Kreise
+# § 51 – Anhörung beteiligter Kreise
 
 Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften die Anhörung der beteiligten Kreise vorschreiben, ist ein jeweils auszuwählender Kreis von Vertretern der Wissenschaft, der Betroffenen, der beteiligten Wirtschaft, des beteiligten Verkehrswesens und der für den Immissionsschutz zuständigen obersten Landesbehörden zu hören.
 
-
-## § 51a – Kommission für Anlagensicherheit
+# § 51a – Kommission für Anlagensicherheit
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird zur Beratung der Bundesregierung oder des zuständigen Bundesministeriums eine Kommission für Anlagensicherheit gebildet.
 
@@ -1402,13 +1319,11 @@ Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwalt
 
 (4) Die Kommission für Anlagensicherheit wählt aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden und gibt sich eine Geschäftsordnung. Die Wahl der oder des Vorsitzenden und die Geschäftsordnung bedürfen der im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales zu erteilenden Zustimmung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 51b – Sicherstellung der Zustellungsmöglichkeit
+# § 51b – Sicherstellung der Zustellungsmöglichkeit
 
 Der Betreiber einer genehmigungsbedürftigen Anlage hat sicherzustellen, dass für ihn bestimmte Schriftstücke im Geltungsbereich dieses Gesetzes zugestellt werden können. Kann die Zustellung nur dadurch sichergestellt werden, dass ein Bevollmächtigter bestellt wird, so hat der Betreiber den Bevollmächtigten der zuständigen Behörde zu benennen.
 
-
-## § 52 – Überwachung
+# § 52 – Überwachung
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen. Sie können die dafür erforderlichen Maßnahmen treffen und bei der Durchführung dieser Maßnahmen Beauftragte einsetzen. Sie haben Genehmigungen im Sinne des § 4 regelmäßig zu überprüfen und soweit erforderlich durch nachträgliche Anordnungen nach § 17 auf den neuesten Stand zu bringen. Eine Überprüfung im Sinne von Satz 2 wird in jedem Fall vorgenommen, wenn
 
@@ -1450,8 +1365,7 @@ sind.
 
 (7) Auf die nach den Absätzen 2, 3 und 6 erlangten Kenntnisse und Unterlagen sind die §§ 93, 97, 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-
-## § 52a – Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie
+# § 52a – Überwachungspläne, Überwachungsprogramme für Anlagen nach der Industrieemissions-Richtlinie
 
 (1) Überwachungspläne haben Folgendes zu enthalten:
 
@@ -1489,15 +1403,13 @@ Wurde bei einer Überwachung festgestellt, dass der Betreiber einer Anlage in sc
 
 (5) Nach jeder Vor-Ort-Besichtigung einer Anlage erstellt die zuständige Behörde einen Bericht mit den relevanten Feststellungen über die Einhaltung der Genehmigungsanforderungen nach § 6 Absatz 1 Nummer 1 und der Nebenbestimmungen nach § 12 sowie mit Schlussfolgerungen, ob weitere Maßnahmen notwendig sind. Der Bericht ist dem Betreiber innerhalb von zwei Monaten nach der Vor-Ort-Besichtigung durch die zuständige Behörde zu übermitteln. Der Bericht ist der Öffentlichkeit nach den Vorschriften über den Zugang zu Umweltinformationen innerhalb von vier Monaten nach der Vor-Ort-Besichtigung zugänglich zu machen.
 
-
-## § 52b – Mitteilungspflichten zur Betriebsorganisation
+# § 52b – Mitteilungspflichten zur Betriebsorganisation
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei Personengesellschaften mehrere vertretungsberechtigte Gesellschafter vorhanden, so ist der zuständigen Behörde anzuzeigen, wer von ihnen nach den Bestimmungen über die Geschäftsführungsbefugnis für die Gesellschaft die Pflichten des Betreibers der genehmigungsbedürftigen Anlage wahrnimmt, die ihm nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen Verwaltungsvorschriften obliegen. Die Gesamtverantwortung aller Organmitglieder oder Gesellschafter bleibt hiervon unberührt.
 
 (2) Der Betreiber der genehmigungsbedürftigen Anlage oder im Rahmen ihrer Geschäftsführungsbefugnis die nach Absatz 1 Satz 1 anzuzeigende Person hat der zuständigen Behörde mitzuteilen, auf welche Weise sichergestellt ist, dass die dem Schutz vor schädlichen Umwelteinwirkungen und vor sonstigen Gefahren, erheblichen Nachteilen und erheblichen Belästigungen dienenden Vorschriften und Anordnungen beim Betrieb beachtet werden.
 
-
-## § 53 – Bestellung eines Betriebsbeauftragten für Immissionsschutz
+# § 53 – Bestellung eines Betriebsbeauftragten für Immissionsschutz
 
 (1) Betreiber genehmigungsbedürftiger Anlagen haben einen oder mehrere Betriebsbeauftragte für Immissionsschutz (Immissionsschutzbeauftragte) zu bestellen, sofern dies im Hinblick auf die Art oder die Größe der Anlagen wegen der
 
@@ -1511,8 +1423,7 @@ erforderlich ist. Das Bundesministerium für Umwelt, Naturschutz und nukleare Si
 
 (2) Die zuständige Behörde kann anordnen, dass Betreiber genehmigungsbedürftiger Anlagen, für die die Bestellung eines Immissionsschutzbeauftragten nicht durch Rechtsverordnung vorgeschrieben ist, sowie Betreiber nicht genehmigungsbedürftiger Anlagen einen oder mehrere Immissionsschutzbeauftragte zu bestellen haben, soweit sich im Einzelfall die Notwendigkeit der Bestellung aus den in Absatz 1 Satz 1 genannten Gesichtspunkten ergibt.
 
-
-## § 54 – Aufgaben
+# § 54 – Aufgaben
 
 (1) Der Immissionsschutzbeauftragte berät den Betreiber und die Betriebsangehörigen in Angelegenheiten, die für den Immissionsschutz bedeutsam sein können. Er ist berechtigt und verpflichtet,
 
@@ -1532,8 +1443,7 @@ hinzuwirken,
 
 (2) Der Immissionsschutzbeauftragte erstattet dem Betreiber jährlich einen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis 4 getroffenen und beabsichtigten Maßnahmen.
 
-
-## § 55 – Pflichten des Betreibers
+# § 55 – Pflichten des Betreibers
 
 (1) Der Betreiber hat den Immissionsschutzbeauftragten schriftlich zu bestellen und die ihm obliegenden Aufgaben genau zu bezeichnen. Der Betreiber hat die Bestellung des Immissionsschutzbeauftragten und die Bezeichnung seiner Aufgaben sowie Veränderungen in seinem Aufgabenbereich und dessen Abberufung der zuständigen Behörde unverzüglich anzuzeigen. Dem Immissionsschutzbeauftragten ist eine Abschrift der Anzeige auszuhändigen.
 
@@ -1545,34 +1455,29 @@ hinzuwirken,
 
 (4) Der Betreiber hat den Immissionsschutzbeauftragten bei der Erfüllung seiner Aufgaben zu unterstützen und ihm insbesondere, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist, Hilfspersonal sowie Räume, Einrichtungen, Geräte und Mittel zur Verfügung zu stellen und die Teilnahme an Schulungen zu ermöglichen.
 
-
-## § 56 – Stellungnahme zu Entscheidungen des Betreibers
+# § 56 – Stellungnahme zu Entscheidungen des Betreibers
 
 (1) Der Betreiber hat vor Entscheidungen über die Einführung von Verfahren und Erzeugnissen sowie vor Investitionsentscheidungen eine Stellungnahme des Immissionsschutzbeauftragten einzuholen, wenn die Entscheidungen für den Immissionsschutz bedeutsam sein können.
 
 (2) Die Stellungnahme ist so rechtzeitig einzuholen, dass sie bei den Entscheidungen nach Absatz 1 angemessen berücksichtigt werden kann; sie ist derjenigen Stelle vorzulegen, die über die Einführung von Verfahren und Erzeugnissen sowie über die Investition entscheidet.
 
-
-## § 57 – Vortragsrecht
+# § 57 – Vortragsrecht
 
 Der Betreiber hat durch innerbetriebliche Organisationsmaßnahmen sicherzustellen, dass der Immissionsschutzbeauftragte seine Vorschläge oder Bedenken unmittelbar der Geschäftsleitung vortragen kann, wenn er sich mit dem zuständigen Betriebsleiter nicht einigen konnte und er wegen der besonderen Bedeutung der Sache eine Entscheidung der Geschäftsleitung für erforderlich hält. Kann der Immissionsschutzbeauftragte sich über eine von ihm vorgeschlagene Maßnahme im Rahmen seines Aufgabenbereichs mit der Geschäftsleitung nicht einigen, so hat diese den Immissionsschutzbeauftragten umfassend über die Gründe ihrer Ablehnung zu unterrichten.
 
-
-## § 58 – Benachteiligungsverbot, Kündigungsschutz
+# § 58 – Benachteiligungsverbot, Kündigungsschutz
 
 (1) Der Immissionsschutzbeauftragte darf wegen der Erfüllung der ihm übertragenen Aufgaben nicht benachteiligt werden.
 
 (2) Ist der Immissionsschutzbeauftragte Arbeitnehmer des zur Bestellung verpflichteten Betreibers, so ist die Kündigung des Arbeitsverhältnisses unzulässig, es sei denn, dass Tatsachen vorliegen, die den Betreiber zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigen. Nach der Abberufung als Immissionsschutzbeauftragter ist die Kündigung innerhalb eines Jahres, vom Zeitpunkt der Beendigung der Bestellung an gerechnet, unzulässig, es sei denn, dass Tatsachen vorliegen, die den Betreiber zur Kündigung aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist berechtigen.
 
-
-## § 58a – Bestellung eines Störfallbeauftragten
+# § 58a – Bestellung eines Störfallbeauftragten
 
 (1) Betreiber genehmigungsbedürftiger Anlagen haben einen oder mehrere Störfallbeauftragte zu bestellen, sofern dies im Hinblick auf die Art und Größe der Anlage wegen der bei einer Störung des bestimmungsgemäßen Betriebs auftretenden Gefahren für die Allgemeinheit und die Nachbarschaft erforderlich ist. Die Bundesregierung bestimmt nach Anhörung der beteiligten Kreise (§ 51) durch Rechtsverordnung mit Zustimmung des Bundesrates die genehmigungsbedürftigen Anlagen, deren Betreiber Störfallbeauftragte zu bestellen haben.
 
 (2) Die zuständige Behörde kann anordnen, dass Betreiber genehmigungsbedürftiger Anlagen, für die die Bestellung eines Störfallbeauftragten nicht durch Rechtsverordnung vorgeschrieben ist, einen oder mehrere Störfallbeauftragte zu bestellen haben, soweit sich im Einzelfall die Notwendigkeit der Bestellung aus dem in Absatz 1 Satz 1 genannten Gesichtspunkt ergibt.
 
-
-## § 58b – Aufgaben des Störfallbeauftragten
+# § 58b – Aufgaben des Störfallbeauftragten
 
 (1) Der Störfallbeauftragte berät den Betreiber in Angelegenheiten, die für die Sicherheit der Anlage bedeutsam sein können. Er ist berechtigt und verpflichtet,
 
@@ -1586,8 +1491,7 @@ Der Betreiber hat durch innerbetriebliche Organisationsmaßnahmen sicherzustelle
 
 (2) Der Störfallbeauftragte erstattet dem Betreiber jährlich einen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis 3 getroffenen und beabsichtigten Maßnahmen. Darüber hinaus ist er verpflichtet, die von ihm ergriffenen Maßnahmen zur Erfüllung seiner Aufgaben nach Absatz 1 Satz 2 Nummer 2 schriftlich oder elektronisch aufzuzeichnen. Er muss diese Aufzeichnungen mindestens fünf Jahre aufbewahren.
 
-
-## § 58c – Pflichten und Rechte des Betreibers gegenüber dem Störfallbeauftragten
+# § 58c – Pflichten und Rechte des Betreibers gegenüber dem Störfallbeauftragten
 
 (1) Die in den §§ 55 und 57 genannten Pflichten des Betreibers gelten gegenüber dem Störfallbeauftragten entsprechend; in Rechtsverordnungen nach § 55 Absatz 2 Satz 3 kann auch geregelt werden, welche Anforderungen an die Fachkunde und Zuverlässigkeit des Störfallbeauftragten zu stellen sind.
 
@@ -1595,13 +1499,11 @@ Der Betreiber hat durch innerbetriebliche Organisationsmaßnahmen sicherzustelle
 
 (3) Der Betreiber kann dem Störfallbeauftragten für die Beseitigung und die Begrenzung der Auswirkungen von Störungen des bestimmungsgemäßen Betriebs, die zu Gefahren für die Allgemeinheit und die Nachbarschaft führen können oder bereits geführt haben, Entscheidungsbefugnisse übertragen.
 
-
-## § 58d – Verbot der Benachteiligung des Störfallbeauftragten, Kündigungsschutz
+# § 58d – Verbot der Benachteiligung des Störfallbeauftragten, Kündigungsschutz
 
 § 58 gilt für den Störfallbeauftragten entsprechend.
 
-
-## § 58e – Erleichterungen für auditierte Unternehmensstandorte
+# § 58e – Erleichterungen für auditierte Unternehmensstandorte
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten Eigenverantwortung für EMAS-Standorte durch Rechtsverordnung mit Zustimmung des Bundesrates Erleichterungen zum Inhalt der Antragsunterlagen im Genehmigungsverfahren sowie überwachungsrechtliche Erleichterungen vorzusehen, soweit die entsprechenden Anforderungen der Verordnung (EG) Nr. 1221/2009 gleichwertig mit den Anforderungen sind, die zur Überwachung und zu den Antragsunterlagen nach diesem Gesetz oder nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen vorgesehen sind oder soweit die Gleichwertigkeit durch die Rechtsverordnung nach dieser Vorschrift sichergestellt wird.
 
@@ -1619,27 +1521,23 @@ Der Betreiber hat durch innerbetriebliche Organisationsmaßnahmen sicherzustelle
 
 5. der Häufigkeit der behördlichen Überwachung.
 
-
-## § 59 – Zuständigkeit bei Anlagen der Landesverteidigung
+# § 59 – Zuständigkeit bei Anlagen der Landesverteidigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass der Vollzug dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen bei Anlagen, die der Landesverteidigung dienen, Bundesbehörden obliegt.
 
-
-## § 60 – Ausnahmen für Anlagen der Landesverteidigung
+# § 60 – Ausnahmen für Anlagen der Landesverteidigung
 
 (1) Das Bundesministerium der Verteidigung kann für Anlagen nach § 3 Absatz 5 Nummer 1 und 3, die der Landesverteidigung dienen, in Einzelfällen, auch für bestimmte Arten von Anlagen, Ausnahmen von diesem Gesetz und von den auf dieses Gesetz gestützten Rechtsverordnungen zulassen, soweit dies zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Verpflichtungen erfordern. Dabei ist der Schutz vor schädlichen Umwelteinwirkungen zu berücksichtigen.
 
 (2) Die Bundeswehr darf bei Anlagen nach § 3 Absatz 5 Nummer 2, die ihrer Bauart nach ausschließlich zur Verwendung in ihrem Bereich bestimmt sind, von den Vorschriften dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen abweichen, soweit dies zur Erfüllung ihrer besonderen Aufgaben zwingend erforderlich ist. Die auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Truppen dürfen bei Anlagen nach § 3 Absatz 5 Nummer 2, die zur Verwendung in deren Bereich bestimmt sind, von den Vorschriften dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen abweichen, soweit dies zur Erfüllung ihrer besonderen Aufgaben zwingend erforderlich ist.
 
-
-## § 61 – Berichterstattung an die Europäische Kommission
+# § 61 – Berichterstattung an die Europäische Kommission
 
 (1) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2010/75/EU, insbesondere über repräsentative Daten über Emissionen und sonstige Arten von Umweltverschmutzung, über Emissionsgrenzwerte und darüber, inwieweit der Stand der Technik angewendet wird. Die Länder stellen diese Informationen auf elektronischem Wege zur Verfügung. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegt werden. § 5 Absatz 1 Satz 2 und Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002), das durch Artikel 1 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gilt entsprechend.
 
 (2) Die Länder übermitteln dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dessen Vorgaben Informationen über die Umsetzung der Richtlinie 2012/18/EU sowie über die unter diese Richtlinie fallenden Betriebsbereiche. Art und Form der von den Ländern zu übermittelnden Informationen sowie der Zeitpunkt ihrer Übermittlung richten sich nach den Anforderungen, die auf der Grundlage von Artikel 21 Absatz 5 der Richtlinie 2012/18/EU festgelegt werden. Absatz 1 Satz 2 und 4 gilt entsprechend.
 
-
-## § 62 – Ordnungswidrigkeiten
+# § 62 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1651,8 +1549,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 4. die Lage, die Beschaffenheit oder den Betrieb einer genehmigungsbedürftigen Anlage ohne die Genehmigung nach § 16 Absatz 1 wesentlich ändert,
 
-4a.  
-ohne Genehmigung nach § 16a Satz 1 oder § 23b Absatz 1 Satz 1 eine dort genannte Anlage störfallrelevant ändert oder störfallrelevant errichtet,
+4a. ohne Genehmigung nach § 16a Satz 1 oder § 23b Absatz 1 Satz 1 eine dort genannte Anlage störfallrelevant ändert oder störfallrelevant errichtet,
 
 5. einer vollziehbaren Anordnung nach § 17 Absatz 1 Satz 1 oder 2, jeweils auch in Verbindung mit Absatz 5, § 24 Satz 1, § 26, § 28 Satz 1 oder § 29 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachkommt,
 
@@ -1660,8 +1557,7 @@ ohne Genehmigung nach § 16a Satz 1 oder § 23b Absatz 1 Satz 1 eine dort genann
 
 7. einer auf Grund der §§ 23, 32, 33 Absatz 1 Nummer 1 oder 2, §§ 34, 35, 37, 38 Absatz 2, § 39 oder § 48a Absatz 1 Satz 1 oder 2, Absatz 1a oder 3 erlassenen Rechtsverordnung oder einer auf Grund einer solchen Rechtsverordnung ergangenen vollziehbaren Anordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-7a.  
-entgegen § 38 Absatz 1 Satz 2 Kraftfahrzeuge und ihre Anhänger, die nicht zum Verkehr auf öffentlichen Straßen zugelassen sind, Schienen-, Luft- und Wasserfahrzeuge sowie Schwimmkörper und schwimmende Anlagen nicht so betreibt, dass vermeidbare Emissionen verhindert und unvermeidbare Emissionen auf ein Mindestmaß beschränkt bleiben oder
+7a. entgegen § 38 Absatz 1 Satz 2 Kraftfahrzeuge und ihre Anhänger, die nicht zum Verkehr auf öffentlichen Straßen zugelassen sind, Schienen-, Luft- und Wasserfahrzeuge sowie Schwimmkörper und schwimmende Anlagen nicht so betreibt, dass vermeidbare Emissionen verhindert und unvermeidbare Emissionen auf ein Mindestmaß beschränkt bleiben oder
 
 8. entgegen einer Rechtsverordnung nach § 49 Absatz 1 Nummer 2 oder einer auf Grund einer solchen Rechtsverordnung ergangenen vollziehbaren Anordnung eine ortsfeste Anlage errichtet, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -1675,18 +1571,15 @@ entgegen § 38 Absatz 1 Satz 2 Kraftfahrzeuge und ihre Anhänger, die nicht zum 
 
 1. entgegen § 15 Absatz 1 oder 3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-1a.  
-entgegen § 15 Absatz 2 Satz 2 eine Änderung vornimmt,
+1a. entgegen § 15 Absatz 2 Satz 2 eine Änderung vornimmt,
 
-1b.  
-entgegen § 23a Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+1b. entgegen § 23a Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 2. entgegen § 27 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 4 Satz 1 eine Emissionserklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ergänzt,
 
 3. entgegen § 31 Absatz 1 Satz 1 eine dort genannte Zusammenfassung oder dort genannte Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
-3a.  
-entgegen § 31 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+3a. entgegen § 31 Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
 4. entgegen § 52 Absatz 2 Satz 1, 3 oder 4, auch in Verbindung mit Absatz 3 Satz 1 oder Absatz 6 Satz 1 Auskünfte nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt, eine Maßnahme nicht duldet, Unterlagen nicht vorlegt, beauftragte Personen nicht hinzuzieht oder einer dort sonst genannten Verpflichtung zuwiderhandelt,
 
@@ -1714,23 +1607,19 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nummer 9 bis 11 die zuständige Stelle.
 
-
-## § 63 – Entfall der aufschiebenden Wirkung
+# § 63 – Entfall der aufschiebenden Wirkung
 
 Widerspruch und Anfechtungsklage eines Dritten gegen die Zulassung einer Windenergieanlage an Land mit einer Gesamthöhe von mehr als 50 Metern haben keine aufschiebende Wirkung.
 
+# §§ 64 bis 65 – (weggefallen)
 
-## §§ 64 bis 65 – (weggefallen)
-
-
-## § 66 – Fortgeltung von Vorschriften
+# § 66 – Fortgeltung von Vorschriften
 
 (1) (weggefallen)
 
 (2) Bis zum Inkrafttreten von entsprechenden Rechtsverordnungen oder allgemeinen Verwaltungsvorschriften nach diesem Gesetz ist die Allgemeine Verwaltungsvorschrift zum Schutz gegen Baulärm – Geräuschimmissionen – vom 19. August 1970 (Beilage zum BAnz. Nr. 160 vom 1. September 1970) maßgebend.
 
-
-## § 67 – Übergangsvorschrift
+# § 67 – Übergangsvorschrift
 
 (1) Eine Genehmigung, die vor dem Inkrafttreten dieses Gesetzes nach § 16 oder § 25 Absatz 1 der Gewerbeordnung erteilt worden ist, gilt als Genehmigung nach diesem Gesetz fort.
 
@@ -1768,8 +1657,7 @@ ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nac
 
 (11) Für Kraftstoffe, die bis zum 31. Dezember 2014 in Verkehr gebracht werden, finden die §§ 37a bis 37f in der am 31. Dezember 2014 geltenden Fassung Anwendung. Die weitere Behandlung von Biokraftstoffmengen, die den Mindestanteil für das Kalenderjahr 2014 übersteigen und deren Anrechnung auf das Verpflichtungsjahr 2015 vom Verpflichteten beantragt wurde, richtet sich ausschließlich nach den am 1. Januar 2015 geltenden Regelungen.
 
-
-## § 67a – Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands
+# § 67a – Überleitungsregelung aus Anlass der Herstellung der Einheit Deutschlands
 
 (1) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet muss eine genehmigungsbedürftige Anlage, die vor dem 1. Juli 1990 errichtet worden ist oder mit deren Errichtung vor diesem Zeitpunkt begonnen wurde, innerhalb von sechs Monaten nach diesem Zeitpunkt der zuständigen Behörde angezeigt werden. Der Anzeige sind Unterlagen über Art, Umfang und Betriebsweise beizufügen.
 
@@ -1781,18 +1669,15 @@ ausgenommen Anlagen, die ausschließlich Forschungszwecken dienen, gilt auch nac
 
 (3) Soweit die Technische Anleitung zur Reinhaltung der Luft vom 27. Februar 1986 (GMBl. S. 95, 202) die Durchführung von Maßnahmen zur Sanierung von Altanlagen bis zu einem bestimmten Termin vorsieht, verlängern sich die hieraus ergebenden Fristen für das in Artikel 3 des Einigungsvertrages genannte Gebiet um ein Jahr; als Fristbeginn gilt der 1. Juli 1990.
 
-
-## §§ 68 bis 72 – (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften)
+# §§ 68 bis 72 – (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften)
 
 (Änderung von Rechtsvorschriften, Überleitung von Verweisungen, Aufhebung von Vorschriften)
 
-
-## § 73 – Bestimmungen zum Verwaltungsverfahren
+# § 73 – Bestimmungen zum Verwaltungsverfahren
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
-
-## Anlage – (zu § 3 Abs. 6)Kriterien zur Bestimmung des Standes der Technik
+# Anlage – (zu § 3 Abs. 6)Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle: BGBl. I 2013, 1311)
 

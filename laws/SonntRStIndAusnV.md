@@ -1,10 +1,7 @@
-# [SonntRStIndAusnV] Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Eisen- und Stahlindustrie
-
-Ausfertigungsdatum: 07.07.1961
-
+% Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Eisen- und Stahlindustrie
+% Ausfertigungsdatum: 07.07.1961
  
-
-## § 1
+# § 1
 
 (1) In der Eisen- und Stahlindustrie dürfen Arbeitnehmer an Sonn- und Feiertagen beschäftigt werden beim Betrieb
 
@@ -38,18 +35,15 @@ Dies gilt nicht, sofern die Arbeiten oder Hilfsverrichtungen auf einen Werktag v
 
 (3) Beim Betrieb der Walzenstraßen erster Hitze ist nur die Beschäftigung mit dem Antransport der Rohstahlblöcke und Brammen und mit allen anderen für das Walzen der Blöcke und Brammen in erster Hitze unmittelbar erforderlichen Arbeiten sowie mit den jeweils zugehörigen Hilfsverrichtungen gestattet. Dies gilt nicht, sofern die Arbeiten oder Hilfsverrichtungen auf einen Werktag verlegt werden können.
 
-
-## § 2
+# § 2
 
 Die Beschäftigung nach § 1 Abs. 1 Nr. 2 bis 7 ist nur gestattet, wenn die in § 10 Abs. 1 Nr. 14 des Arbeitszeitgesetzes zugelassenen Arbeiten zur Reinigung und Instandhaltung entweder in der Zeit von 6 bis 14 Uhr oder in der Zeit von 14 bis 22 Uhr nicht vorgenommen werden, in den Fällen des § 1 Abs. 1 Nr. 7 während der Zeit, während der eine Beschäftigung nach dieser Verordnung nicht gestattet ist.
 
-
-## § 3
+# § 3
 
 Arbeitnehmer dürfen nach § 1 nur unter den in den §§ 4 bis 8 vorgesehenen Bedingungen beschäftigt werden.
 
-
-## § 4
+# § 4
 
 (1) Den Arbeitnehmern, die nach § 1 Abs. 1 Nr. 1 beschäftigt werden, ist in einem im Schichtplan festzulegenden Wechsel an mindestens 13 Sonntagen im Jahr eine ununterbrochene Ruhezeit von mindestens 72 Stunden zu gewähren, die den vollen Kalendersonntag umfassen muß.
 
@@ -61,20 +55,17 @@ Arbeitnehmer dürfen nach § 1 nur unter den in den §§ 4 bis 8 vorgesehenen Be
 
 (5) Den Arbeitnehmern, die nach § 1 Abs. 1 Nr. 1 beschäftigt werden, ist an den Weihnachts-, Oster- und Pfingstfeiertagen eine ununterbrochene Ruhezeit von angemessener Dauer zu gewähren. Sie muß für mindestens die Hälfte dieser Arbeitnehmer mindestens 40 Stunden betragen und in der Zeit von 6 Uhr des den Feiertagen vorangehenden Tages bis 6 Uhr des auf die Feiertage folgenden Tages liegen.
 
-
-## § 5
+# § 5
 
 (1) Die Arbeitszeit an einem Sonn- oder Feiertag darf die Dauer von acht Stunden nicht überschreiten. Sie kann, soweit es bisher gestattet war, auf höchstens zwölf Stunden verlängert werden, wenn den Arbeitnehmern an Stelle der in § 4 Abs. 1 und 3 Satz 2 zu gewährenden freien Sonntage in einem im Schichtplan festzulegenden Wechsel an mindestens 26 Sonntagen im Jahr eine ununterbrochene Ruhezeit von mindestens 40 Stunden gewährt wird, die den vollen Kalendersonntag umfaßt; § 4 Abs. 4 bleibt unberührt.
 
 (2) Den Arbeitnehmern ist für die Beschäftigung an einem Sonntag eine ununterbrochene Ersatzruhezeit von mindestens 24 Stunden in derselben oder in der vorhergehenden Woche zu gewähren.
 
-
-## § 6
+# § 6
 
 \-
 
-
-## § 7
+# § 7
 
 (1) Wer Arbeitnehmer nach § 1 Abs. 1 Nr. 3 und 5 beschäftigt, hat ein Verzeichnis zu führen, in dem für jeden dieser Arbeitnehmer zu vermerken sind
 
@@ -84,12 +75,10 @@ b) die nach § 5 Abs. 2 gewährten Ersatzruhezeiten und deren Dauer.
 
 (2) Das Verzeichnis ist der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen oder einzusenden. Es ist mindestens bis zum Ablauf von zwei Jahren nach der letzten Eintragung aufzubewahren. Die Landesregierungen können durch Rechtsverordnung eine einheitliche Form für das Verzeichnis vorschreiben.
 
-
-## § 8
+# § 8
 
 Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser Verordnung an geeigneter Stelle im Betrieb zur Einsicht auszulegen oder auszuhängen.
 
-
-## § 9
+# § 9
 
 Diese Verordnung gilt mit der Maßgabe, daß in § 1 Abs. 1 Nr. 2 und 3 die Zahl "75" durch die Zahl "50" ersetzt wird, auch im Land Berlin, sofern sie im Land Berlin in Kraft gesetzt wird.

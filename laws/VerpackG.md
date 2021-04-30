@@ -1,10 +1,7 @@
-# [VerpackG] Gesetz über das Inverkehrbringen, die Rücknahme und die hochwertige Verwertung von Verpackungen  (Verpackungsgesetz - VerpackG)
-
-Ausfertigungsdatum: 05.07.2017
-
+% Gesetz über das Inverkehrbringen, die Rücknahme und die hochwertige Verwertung von Verpackungen  (Verpackungsgesetz - VerpackG)
+% Ausfertigungsdatum: 05.07.2017
  
-
-## § 1 – Abfallwirtschaftliche Ziele
+# § 1 – Abfallwirtschaftliche Ziele
 
 (1) Dieses Gesetz legt Anforderungen an die Produktverantwortung nach § 23 des Kreislaufwirtschaftsgesetzes für Verpackungen fest. Es bezweckt, die Auswirkungen von Verpackungsabfällen auf die Umwelt zu vermeiden oder zu verringern. Um dieses Ziel zu erreichen, soll das Gesetz das Verhalten der Verpflichteten so regeln, dass Verpackungsabfälle vorrangig vermieden und darüber hinaus einer Vorbereitung zur Wiederverwendung oder dem Recycling zugeführt werden. Dabei sollen die Marktteilnehmer vor unlauterem Wettbewerb geschützt werden.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 05.07.2017
 
 (4) Mit diesem Gesetz soll außerdem das Erreichen der europarechtlichen Zielvorgaben der Richtlinie 94/62/EG über Verpackungen und Verpackungsabfälle sichergestellt werden. Danach sind von den im Geltungsbereich dieses Gesetzes anfallenden Verpackungsabfällen jährlich mindestens 65 Masseprozent zu verwerten und mindestens 55 Masseprozent zu recyceln. Dabei muss das Recycling der einzelnen Verpackungsmaterialien mindestens für Holz 15, für Kunststoffe 22,5, für Metalle 50 und für Glas sowie Papier und Karton 60 Masseprozent erreichen, wobei bei Kunststoffen nur Material berücksichtigt wird, das durch Recycling wieder zu Kunststoff wird. Bis spätestens 31. Dezember 2025 sind von den im Geltungsbereich dieses Gesetzes anfallenden Verpackungsabfällen jährlich mindestens 65 Masseprozent zu recyceln, bis spätestens 31. Dezember 2030 mindestens 70 Masseprozent. Dabei muss das Recycling der einzelnen Verpackungsmaterialien bis spätestens 31. Dezember 2025 mindestens für Holz 25, für Aluminium und Kunststoffe 50, für Eisenmetalle und Glas 70 sowie für Papier und Karton 75 Masseprozent erreichen; bis spätestens 31. Dezember 2030 mindestens für Holz 30, für Kunststoffe 55, für Aluminium 60, für Glas 75, für Eisenmetalle 80 sowie für Papier und Karton 85 Masseprozent. Zum Nachweis des Erreichens der Zielvorgaben nach den Sätzen 2 bis 5 führt die Bundesregierung die notwendigen Erhebungen durch und veranlasst die Information der Öffentlichkeit und der Marktteilnehmer.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für alle Verpackungen.
 
@@ -27,8 +23,7 @@ Ausfertigungsdatum: 05.07.2017
 
 (5) Die Befugnis des Bundes, der Länder, der Kreise und der Gemeinden, Dritte bei der Nutzung ihrer Einrichtungen oder Grundstücke sowie der Sondernutzung öffentlicher Straßen zur Vermeidung und Verwertung von Abfällen zu verpflichten, bleibt unberührt.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Verpackungen sind aus beliebigen Materialien hergestellte Erzeugnisse zur Aufnahme, zum Schutz, zur Handhabung, zur Lieferung oder zur Darbietung von Waren, die vom Rohstoff bis zum Verarbeitungserzeugnis reichen können, vom Hersteller an den Vertreiber oder Endverbraucher weitergegeben werden und
 
@@ -92,8 +87,7 @@ und von der Zentralen Stelle in dem Prüferregister nach § 27 geführt wird.
 
 (20) Wertstoffhof ist eine zentrale Sammelstelle zur getrennten Erfassung von Abfällen verschiedener Materialien, die typischerweise bei privaten Endverbrauchern anfallen.
 
-
-## § 4 – Allgemeine Anforderungen an Verpackungen
+# § 4 – Allgemeine Anforderungen an Verpackungen
 
 Verpackungen sind so herzustellen und zu vertreiben, dass
 
@@ -105,8 +99,7 @@ Verpackungen sind so herzustellen und zu vertreiben, dass
 
 4. die Wiederverwendbarkeit von Verpackungen und der Anteil von sekundären Rohstoffen an der Verpackungsmasse auf ein möglichst hohes Maß gesteigert wird, welches unter Berücksichtigung der Gewährleistung der erforderlichen Sicherheit und Hygiene der zu verpackenden Ware und unter Berücksichtigung der Akzeptanz für den Verbraucher technisch möglich und wirtschaftlich zumutbar ist.
 
-
-## § 5 – Beschränkungen des Inverkehrbringens
+# § 5 – Beschränkungen des Inverkehrbringens
 
 (1) Das Inverkehrbringen von Verpackungen oder Verpackungsbestandteilen, bei denen die Konzentration von Blei, Cadmium, Quecksilber und Chrom VI kumulativ den Wert von 100 Milligramm je Kilogramm überschreitet, ist verboten. Satz 1 gilt nicht für
 
@@ -120,13 +113,11 @@ Verpackungen sind so herzustellen und zu vertreiben, dass
 
 (2) Letztvertreibern ist ab dem 1. Januar 2022 das Inverkehrbringen von Kunststofftragetaschen, mit oder ohne Tragegriff, mit einer Wandstärke von weniger als 50 Mikrometern, die dazu bestimmt sind, in der Verkaufsstelle mit Waren gefüllt zu werden, verboten. Satz 1 gilt nicht für Kunststofftragetaschen mit einer Wandstärke von weniger als 15 Mikrometern, sofern diese die übrigen Voraussetzungen nach Artikel 3 Nummer 1d der Richtlinie 94/62/EG des Europäischen Parlaments und des Rates vom 20. Dezember 1994 über Verpackungen und Verpackungsabfälle (ABl. L 365 vom 31.12.1994, S. 10), die zuletzt durch die Richtlinie (EU) 2018/852 (ABl. L 150 vom 14.6.2018, S. 141) geändert worden ist, erfüllen.
 
-
-## § 6 – Kennzeichnung zur Identifizierung des Verpackungsmaterials
+# § 6 – Kennzeichnung zur Identifizierung des Verpackungsmaterials
 
 Verpackungen können zur Identifizierung des Materials, aus dem sie hergestellt sind, mit den in der Anlage 5 festgelegten Nummern und Abkürzungen gekennzeichnet werden. Die Verwendung von anderen als den in der Anlage 5 festgelegten Nummern und Abkürzungen zur Kennzeichnung der gleichen Materialien ist nicht zulässig.
 
-
-## § 7 – Systembeteiligungspflicht
+# § 7 – Systembeteiligungspflicht
 
 (1) Hersteller von systembeteiligungspflichtigen Verpackungen haben sich mit diesen Verpackungen zur Gewährleistung der flächendeckenden Rücknahme an einem oder mehreren Systemen zu beteiligen. Dabei haben sie Materialart und Masse der zu beteiligenden Verpackungen sowie die Registrierungsnummer nach § 9 Absatz 3 Satz 2 anzugeben. Die Systeme haben den Herstellern eine erfolgte Beteiligung unter Angabe von Materialart und Masse der beteiligten Verpackungen unverzüglich schriftlich oder elektronisch zu bestätigen; dies gilt auch, wenn die Beteiligung durch einen beauftragten Dritten nach § 33 vermittelt wurde. Das gewerbsmäßige Inverkehrbringen von systembeteiligungspflichtigen Verpackungen, die der Hersteller nicht an einem System beteiligt hat, ist verboten.
 
@@ -142,8 +133,7 @@ Verpackungen können zur Identifizierung des Materials, aus dem sie hergestellt 
 
 (+++ § 7: Zur Nichtanwendung vgl. § 12 +++)
 
-
-## § 8 – Branchenlösung
+# § 8 – Branchenlösung
 
 (1) Die Pflicht eines Herstellers nach § 7 Absatz 1 entfällt, soweit er die von ihm in Verkehr gebrachten systembeteiligungspflichtigen Verpackungen bei nach § 3 Absatz 11 Satz 2 und 3 den privaten Haushaltungen gleichgestellten Anfallstellen, die von ihm entweder selbst oder durch zwischengeschaltete Vertreiber in nachprüfbarer Weise beliefert werden, unentgeltlich zurücknimmt und einer Verwertung entsprechend den Anforderungen des § 16 Absatz 1 bis 3 zuführt (Branchenlösung). Der Hersteller muss durch Bescheinigung eines registrierten Sachverständigen nachweisen, dass er oder ein von ihm hierfür beauftragter Dritter
 
@@ -171,8 +161,7 @@ Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die 
 
 (+++ § 8: Zur Nichtanwendung vgl. § 12 +++)
 
-
-## § 9 – Registrierung
+# § 9 – Registrierung
 
 (1) Hersteller nach § 7 Absatz 1 Satz 1 sind verpflichtet, sich vor dem Inverkehrbringen von systembeteiligungspflichtigen Verpackungen bei der Zentralen Stelle registrieren zu lassen. Änderungen von Registrierungsdaten sowie die dauerhafte Aufgabe der Herstellertätigkeit sind der Zentralen Stelle unverzüglich mitzuteilen.
 
@@ -198,8 +187,7 @@ Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die 
 
 (+++ § 9: Zur Nichtanwendung vgl. § 12 +++)
 
-
-## § 10 – Datenmeldung
+# § 10 – Datenmeldung
 
 (1) Hersteller nach § 7 Absatz 1 Satz 1 sind verpflichtet, die im Rahmen einer Systembeteiligung getätigten Angaben zu den Verpackungen unverzüglich auch der Zentralen Stelle unter Nennung mindestens der folgenden Daten zu übermitteln:
 
@@ -219,8 +207,7 @@ Bei einer Anzeige von Änderungen der Branchenlösung genügt es, wenn sich die 
 
 (+++ § 10: Zur Nichtanwendung vgl. § 12 +++)
 
-
-## § 11 – Vollständigkeitserklärung
+# § 11 – Vollständigkeitserklärung
 
 (1) Hersteller nach § 7 Absatz 1 Satz 1 sind verpflichtet, jährlich bis zum 15. Mai eine Erklärung über sämtliche von ihnen im vorangegangenen Kalenderjahr erstmals in Verkehr gebrachten Verkaufs- und Umverpackungen nach den Vorgaben des Absatzes 3 zu hinterlegen (Vollständigkeitserklärung). Die Vollständigkeitserklärung bedarf der Prüfung und Bestätigung durch einen registrierten Sachverständigen oder durch einen gemäß § 27 Absatz 2 registrierten Wirtschaftsprüfer, Steuerberater oder vereidigten Buchprüfer.
 
@@ -248,8 +235,7 @@ Die Angaben nach Satz 1 sind nach den in § 16 Absatz 2 genannten Materialarten 
 
 (+++ § 11: Zur Nichtanwendung vgl. § 12 +++)
 
-
-## § 12 – Ausnahmen
+# § 12 – Ausnahmen
 
 Die Vorschriften dieses Abschnitts gelten nicht für
 
@@ -261,13 +247,11 @@ Die Vorschriften dieses Abschnitts gelten nicht für
 
 4. Verkaufsverpackungen schadstoffhaltiger Füllgüter.
 
-
-## § 13 – Getrennte Sammlung
+# § 13 – Getrennte Sammlung
 
 Beim privaten Endverbraucher als Abfall anfallende restentleerte Verpackungen sind, unbeschadet der Vorgaben nach der Gewerbeabfallverordnung, einer vom gemischten Siedlungsabfall getrennten Sammlung gemäß den nachfolgenden Vorschriften zuzuführen.
 
-
-## § 14 – Pflichten der Systeme zur Sammlung, Verwertung und Information
+# § 14 – Pflichten der Systeme zur Sammlung, Verwertung und Information
 
 (1) Die Systeme sind verpflichtet, im Einzugsgebiet der beteiligten Hersteller eine vom gemischten Siedlungsabfall getrennte, flächendeckende Sammlung aller restentleerten Verpackungen bei den privaten Endverbrauchern (Holsystem) oder in deren Nähe (Bringsystem) oder durch eine Kombination beider Varianten in ausreichender Weise und für den privaten Endverbraucher unentgeltlich sicherzustellen. Die Sammelsysteme müssen geeignet sein, alle bei den privaten Endverbrauchern anfallenden restentleerten Verpackungen bei einer regelmäßigen Leerung aufzunehmen. Die Sammlung ist auf Abfälle privater Endverbraucher zu beschränken. Mehrere Systeme können bei der Einrichtung und dem Betrieb ihrer Sammelstrukturen zusammenwirken.
 
@@ -275,8 +259,7 @@ Beim privaten Endverbraucher als Abfall anfallende restentleerte Verpackungen si
 
 (3) Unbeschadet der Regelung in § 22 Absatz 9 sind die Systeme verpflichtet, die privaten Endverbraucher in angemessenem Umfang über Sinn und Zweck der getrennten Sammlung von Verpackungsabfällen, die hierzu eingerichteten Sammelsysteme und die erzielten Verwertungsergebnisse zu informieren. Die Information hat in regelmäßigen Zeitabständen zu erfolgen und soll sowohl lokale als auch überregionale Maßnahmen beinhalten. Bei der Vorbereitung der Informationsmaßnahmen sind die Einrichtungen der kommunalen Abfallberatung und Verbraucherschutzorganisationen zu beteiligen.
 
-
-## § 15 – Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung
+# § 15 – Pflichten der Hersteller und Vertreiber zur Rücknahme und Verwertung
 
 (1) Hersteller und in der Lieferkette nachfolgende Vertreiber von
 
@@ -298,8 +281,7 @@ sind verpflichtet, gebrauchte, restentleerte Verpackungen der gleichen Art, Form
 
 (+++ § 15 Abs. 1 Satz 4: Zur Anwendung vgl. § 31 Abs. 3 +++)
 
-
-## § 16 – Anforderungen an die Verwertung
+# § 16 – Anforderungen an die Verwertung
 
 (1) Die Systeme haben die durch die Sammlung nach § 14 Absatz 1 erfassten restentleerten Verpackungen nach Maßgabe des § 8 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes vorrangig einer Vorbereitung zur Wiederverwendung oder dem Recycling zuzuführen. Soweit die Abfälle nach Satz 1 nicht verwertet werden, sind sie dem zuständigen öffentlich-rechtlichen Entsorgungsträger nach Maßgabe des § 17 Absatz 1 Satz 2 des Kreislaufwirtschaftsgesetzes zu überlassen.
 
@@ -329,8 +311,7 @@ Kunststoffe sind zu mindestens 90 Masseprozent einer Verwertung zuzuführen. Dab
 
 (7) Die Bundesregierung überprüft innerhalb von drei Jahren nach dem 1. Januar 2022 die Verwertungsergebnisse mit dem Ziel einer weiteren Erhöhung der materialspezifischen Verwertungsquoten in Absatz 2 Satz 1 und 2 und der Recyclingquote in Absatz 4 Satz 1.
 
-
-## § 17 – Nachweispflichten
+# § 17 – Nachweispflichten
 
 (1) Die Systeme haben die Verwertung der durch die Sammlung nach § 14 Absatz 1 Satz 1 erfassten restentleerten Verpackungen kalenderjährlich in nachprüfbarer Form zu dokumentieren (Mengenstromnachweis). Grundlage des Mengenstromnachweises sind die an einem System beteiligten Mengen an Verpackungen sowie vollständig dokumentierte Angaben über die erfassten und über die der Vorbereitung zur Wiederverwendung, dem Recycling, der werkstofflichen oder der energetischen Verwertung zugeführten Mengen. Die dem Mengenstromnachweis zugrunde liegenden Entsorgungsnachweise müssen mindestens den Auftraggeber, das beauftragte Entsorgungsunternehmen sowie die Masse der entsorgten Abfälle unter Angabe des Abfallschlüssels und der Abfallbezeichnung nach der Anlage zur Abfallverzeichnis-Verordnung enthalten. Der Mengenstromnachweis ist nach den in § 16 Absatz 2 Satz 1 und 2 genannten Materialarten aufzuschlüsseln; sonstige Materialien sind jeweils zu einer einheitlichen Angabe zusammenzufassen. Dabei ist außerdem darzustellen, welche Mengen in den einzelnen Ländern erfasst wurden.
 
@@ -338,8 +319,7 @@ Kunststoffe sind zu mindestens 90 Masseprozent einer Verwertung zuzuführen. Dab
 
 (3) Die Systeme haben den Mengenstromnachweis der Zentralen Stelle spätestens bis zum 1. Juni des auf den Berichtszeitraum folgenden Kalenderjahres schriftlich vorzulegen. Die zugehörigen Dokumente sind auf Verlangen der Zentralen Stelle im Original nachzureichen.
 
-
-## § 18 – Genehmigung
+# § 18 – Genehmigung
 
 (1) Der Betrieb eines Systems bedarf der Genehmigung durch die zuständige Landesbehörde. Die Genehmigung wird auf Antrag erteilt, wenn ein System
 
@@ -359,8 +339,7 @@ Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentli
 
 (4) Die Behörde nach Absatz 1 Satz 1 kann jederzeit verlangen, dass ein System eine angemessene, insolvenzfeste Sicherheit für den Fall leistet, dass es oder die von ihm beauftragten Dritten Pflichten nach diesem Gesetz, aus der Abstimmungsvereinbarung nach § 22 Absatz 1 oder aus den Vorgaben nach § 22 Absatz 2 nicht, nicht vollständig oder nicht ordnungsgemäß erfüllen und den öffentlich-rechtlichen Entsorgungsträgern oder den zuständigen Behörden dadurch zusätzliche Kosten oder finanzielle Verluste entstehen.
 
-
-## § 19 – Gemeinsame Stelle
+# § 19 – Gemeinsame Stelle
 
 (1) Die Systeme haben sich an einer Gemeinsamen Stelle zu beteiligen. Die Genehmigung nach § 18 wird unwirksam, wenn ein System sich nicht innerhalb von drei Monaten nach Erteilung der Genehmigung an der Gemeinsamen Stelle beteiligt.
 
@@ -380,8 +359,7 @@ Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentli
 
 (3) Die Gemeinsame Stelle muss gewährleisten, dass sie für alle Systeme zu gleichen Bedingungen zugänglich ist und die Vorschriften zum Schutz personenbezogener Daten sowie von Betriebs- und Geschäftsgeheimnissen eingehalten werden. Bei Entscheidungen, die die öffentlich-rechtlichen Entsorgungsträger betreffen, hört die Gemeinsame Stelle die kommunalen Spitzenverbände an.
 
-
-## § 20 – Meldepflichten
+# § 20 – Meldepflichten
 
 (1) Systeme sind verpflichtet, die folgenden Informationen über die bei ihnen vorgenommenen oder erwarteten Beteiligungen nach § 7 Absatz 1 Satz 1 und über eventuelle Abzüge von Verpackungsmengen aufgrund von Entgelterstattungen nach § 7 Absatz 3, jeweils aufgeschlüsselt nach Materialart und Masse der Verpackungen sowie zugeordnet nach Herstellern unter Angabe der jeweiligen Registrierungsnummer, elektronisch an die Zentrale Stelle zu melden:
 
@@ -395,8 +373,7 @@ Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentli
 
 (4) Die Systeme benennen einvernehmlich für einen Zeitraum von höchstens fünf Jahren vier Systemprüfer. Einigen sich die Systeme nicht innerhalb von sechs Monaten nach Ablauf des Benennungszeitraums eines Systemprüfers auf die Benennung eines Nachfolgers, entscheidet die Zentrale Stelle über die Benennung des Systemprüfers.
 
-
-## § 21 – Ökologische Gestaltung der Beteiligungsentgelte
+# § 21 – Ökologische Gestaltung der Beteiligungsentgelte
 
 (1) Systeme sind verpflichtet, im Rahmen der Bemessung der Beteiligungsentgelte Anreize zu schaffen, um bei der Herstellung von systembeteiligungspflichtigen Verpackungen
 
@@ -410,8 +387,7 @@ Die Genehmigung ist öffentlich bekannt zu geben und vom Zeitpunkt der öffentli
 
 (4) Die Bundesregierung entscheidet bis zum 1. Januar 2022 auf der Grundlage der Berichte nach Absatz 2 und unter Berücksichtigung der nach Absatz 3 veröffentlichten Mindeststandards über weiter gehende Anforderungen an die Bemessung der Beteiligungsentgelte zur Förderung der werkstofflichen Verwertbarkeit von systembeteiligungspflichtigen Verpackungen sowie zur Förderung der Verwendung von Recyclaten und nachwachsenden Rohstoffen unter Berücksichtigung der gesamtökologischen Auswirkungen.
 
-
-## § 22 – Abstimmung
+# § 22 – Abstimmung
 
 (1) Die Sammlung nach § 14 Absatz 1 ist auf die vorhandenen Sammelstrukturen der öffentlich-rechtlichen Entsorgungsträger, in deren Gebiet sie eingerichtet wird, abzustimmen. Die Abstimmung hat durch schriftliche Vereinbarung der Systeme mit dem jeweils zuständigen öffentlich-rechtlichen Entsorgungsträger zu erfolgen (Abstimmungsvereinbarung). Die Belange des öffentlich-rechtlichen Entsorgungsträgers sind dabei besonders zu berücksichtigen. Rahmenvorgaben nach Absatz 2 sind zwingend zu beachten. Die Abstimmungsvereinbarung darf der Vergabe von Entsorgungsdienstleistungen im Wettbewerb und den Zielen dieses Gesetzes nicht entgegenstehen.
 
@@ -439,8 +415,7 @@ auszugestalten ist, soweit eine solche Vorgabe geeignet ist, um eine möglichst 
 
 (9) Ein System ist verpflichtet, sich entsprechend seinem Marktanteil an den Kosten zu beteiligen, die den öffentlich-rechtlichen Entsorgungsträgern durch Abfallberatung in Bezug auf die von den Systemen durchgeführte Sammlung nach § 14 Absatz 1 sowie durch die Errichtung, Bereitstellung, Unterhaltung und Sauberhaltung von Flächen, auf denen von den Systemen genutzte Sammelgroßbehältnisse aufgestellt werden, entstehen. Zur Berechnung der Kosten sind die in § 9 des Bundesgebührengesetzes festgelegten Gebührenbemessungsgrundsätze anzuwenden.
 
-
-## § 23 – Vergabe von Sammelleistungen
+# § 23 – Vergabe von Sammelleistungen
 
 (1) Die Systeme haben die nach § 14 Absatz 1 zu erbringenden Sammelleistungen unter Beachtung der Abstimmungsvereinbarungen nach § 22 Absatz 1 und der Rahmenvorgaben nach § 22 Absatz 2 im Wettbewerb im Wege transparenter und diskriminierungsfreier Ausschreibungsverfahren über eine elektronische Ausschreibungsplattform nach Maßgabe dieser Vorschrift zu vergeben. Die Erteilung eines Sammelauftrags durch ein System ist von Anfang an unwirksam, wenn sie ohne Ausschreibungsverfahren oder ohne vorherige Information nach Absatz 6 Satz 1 und Einhaltung der Wartefrist nach Absatz 6 Satz 2 erfolgte und dieser Verstoß in einem Schiedsverfahren nach den Absätzen 8 und 9 festgestellt worden ist.
 
@@ -464,8 +439,7 @@ auszugestalten ist, soweit eine solche Vorgabe geeignet ist, um eine möglichst 
 
 (11) Soweit in dieser Vorschrift nichts anderes geregelt ist, gelten die §§ 121 bis 126 und 128, § 132 Absatz 1 bis 4 und § 133 des Gesetzes gegen Wettbewerbsbeschränkungen sowie die §§ 5 bis 7, § 29 Absatz 1, die §§ 31 bis 34, 36 und 43 bis 47, § 48 Absatz 1, 2 und 4 bis 8, § 49, § 53 Absatz 7 bis 9, die §§ 56 und 57, § 60 Absatz 1 bis 3 sowie die §§ 61 und 63 der Vergabeverordnung vom 12. April 2016 (BGBl. I S. 624) in der jeweils geltenden Fassung entsprechend.
 
-
-## § 24 – Errichtung und Rechtsform; Stiftungssatzung
+# § 24 – Errichtung und Rechtsform; Stiftungssatzung
 
 (1) Hersteller von systembeteiligungspflichtigen Verpackungen sowie Vertreiber von noch nicht befüllten Verkaufs- oder Umverpackungen oder von ihnen getragene Interessenverbände errichten bis zum 1. Januar 2019 unter dem Namen Zentrale Stelle Verpackungsregister eine rechtsfähige Stiftung des bürgerlichen Rechts mit einem Stiftungsvermögen von mindestens 100 000 Euro.
 
@@ -485,8 +459,7 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (3) Änderungen der Stiftungssatzung sind dem Kuratorium vorbehalten. Das Kuratorium entscheidet über Satzungsänderungen mit einer Mehrheit von mindestens zwei Dritteln der abgegebenen Stimmen. Jede Satzungsänderung bedarf der Zustimmung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 25 – Finanzierung
+# § 25 – Finanzierung
 
 (1) Die Systeme und Betreiber von Branchenlösungen sind verpflichtet, sich gemäß ihrem jeweiligen Marktanteil an der Finanzierung der Zentralen Stelle einschließlich der erforderlichen Errichtungskosten zu beteiligen. Zu diesem Zweck schließen sie mit der Zentralen Stelle vertragliche Vereinbarungen, welche die Einzelheiten der Finanzierung unter Berücksichtigung der Vorgaben der nachfolgenden Absätze regeln (Finanzierungsvereinbarungen).
 
@@ -500,8 +473,7 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (6) Die nach Absatz 1 Satz 1 Verpflichteten leisten auf Verlangen der Zentralen Stelle eine angemessene insolvenzfeste Sicherheit bis zu einer Höhe von drei Monatsumlagen.
 
-
-## § 26 – Aufgaben
+# § 26 – Aufgaben
 
 (1) Die Zentrale Stelle ist mit der Wahrnehmung der in Satz 2 aufgeführten hoheitlichen Aufgaben beliehen. Die Zentrale Stelle
 
@@ -583,8 +555,7 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (3) Die Zentrale Stelle darf nur die ihr durch die Absätze 1 und 2 zugewiesenen Aufgaben wahrnehmen. Mit Ausnahme der Finanzierungsvereinbarungen nach § 25 Absatz 1 Satz 2 darf sie Verträge mit Systemen oder Entsorgungsunternehmen weder schließen noch vermitteln.
 
-
-## § 27 – Registrierung von Sachverständigen und sonstigen Prüfern
+# § 27 – Registrierung von Sachverständigen und sonstigen Prüfern
 
 (1) Die Zentrale Stelle nimmt Sachverständige, die ihr gegenüber anzeigen, dass sie beabsichtigen, Prüfungen nach § 8 Absatz 1 Satz 2, § 11 Absatz 1 Satz 2 oder § 17 Absatz 2 durchzuführen, in ein Prüferregister auf und veröffentlicht dieses im Internet. Die Zentrale Stelle kann die Aufnahme in das Prüferregister ablehnen, wenn der Sachverständige ihr auf Anforderung keinen geeigneten Nachweis über eine Berechtigung nach § 3 Absatz 15 Nummer 1 bis 4 vorlegt.
 
@@ -594,8 +565,7 @@ Die Stiftungssatzung ist im Internet zu veröffentlichen.
 
 (4) Die Zentrale Stelle kann einen registrierten Sachverständigen oder einen nach Absatz 2 registrierten Prüfer für bis zu drei Jahre aus dem Prüferregister entfernen, wenn er wiederholt und grob pflichtwidrig gegen die Prüfleitlinien verstoßen hat.
 
-
-## § 28 – Organisation
+# § 28 – Organisation
 
 (1) Organe der Zentralen Stelle sind
 
@@ -659,8 +629,7 @@ Das Kuratorium trifft Entscheidungen mit der Mehrheit der abgegebenen Stimmen. �
 
 (6) Nähere Regelungen bleiben der Stiftungssatzung vorbehalten.
 
-
-## § 29 – Aufsicht und Finanzkontrolle
+# § 29 – Aufsicht und Finanzkontrolle
 
 (1) Die Zentrale Stelle untersteht hinsichtlich der ihr nach § 26 Absatz 1 übertragenen Aufgaben der Rechts- und Fachaufsicht des Umweltbundesamtes. Das Umweltbundesamt kann von der Zentralen Stelle Ersatz für die Kosten verlangen, die ihm für die Rechts- und Fachaufsicht entstehen. Der Anspruch darf der Höhe nach die im Haushaltsplan des Bundes für die Durchführung der Rechts- und Fachaufsicht veranschlagten Einnahmen nicht übersteigen.
 
@@ -668,15 +637,13 @@ Das Kuratorium trifft Entscheidungen mit der Mehrheit der abgegebenen Stimmen. �
 
 (3) Erfüllt die Zentrale Stelle die ihr nach § 26 Absatz 1 übertragenen Aufgaben nicht oder nicht ausreichend, ist das Umweltbundesamt befugt, die Aufgaben selbst durchzuführen oder im Einzelfall durch einen Beauftragten durchführen zu lassen. Die Zentrale Stelle trifft geeignete Vorkehrungen, um im Falle eines Selbsteintritts nach Satz 1 die Arbeitsfähigkeit des Umweltbundesamtes oder des von ihm beauftragten Dritten sicherzustellen. Hierzu gehört, dass die jeweils aktuellen Datenbestände sowie die für die Erledigung der hoheitlichen Aufgaben unabdingbar benötigte Software und deren Nutzungsrechte durch die Zentrale Stelle zur Verfügung gestellt werden. Im Falle der Auflösung der Zentralen Stelle gehen die aktuellen Datenbestände sowie die für die Aufgabenerfüllung unabdingbar benötigte Software und deren Nutzungsrechte an das Umweltbundesamt über.
 
-
-## § 30 – Teilweiser Ausschluss des Widerspruchsverfahrens und der aufschiebenden Wirkung der Anfechtungsklage; Widerspruchsbehörde
+# § 30 – Teilweiser Ausschluss des Widerspruchsverfahrens und der aufschiebenden Wirkung der Anfechtungsklage; Widerspruchsbehörde
 
 (1) Vor Erhebung einer Anfechtungsklage gegen Verwaltungsakte nach § 26 Absatz 1 Satz 2 Nummer 14 bis 16 findet ein Widerspruchsverfahren nicht statt. In den Fällen des Satzes 1 hat die Anfechtungsklage keine aufschiebende Wirkung.
 
 (2) Soweit ein Widerspruchsverfahren stattfindet, entscheidet über den Widerspruch gegen einen Verwaltungsakt der Zentralen Stelle das Umweltbundesamt.
 
-
-## § 31 – Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen
+# § 31 – Pfand- und Rücknahmepflichten für Einweggetränkeverpackungen
 
 (1) Hersteller von mit Getränken befüllten Einweggetränkeverpackungen sind verpflichtet, von ihren Abnehmern ein Pfand in Höhe von mindestens 0,25 Euro einschließlich Umsatzsteuer je Verpackung zu erheben. Das Pfand ist von jedem weiteren Vertreiber auf allen Handelsstufen bis zur Abgabe an den Endverbraucher zu erheben. Die Einweggetränkeverpackungen sind vor dem Inverkehrbringen dauerhaft, deutlich lesbar und an gut sichtbarer Stelle als pfandpflichtig zu kennzeichnen. Die Hersteller nach Satz 1 sind verpflichtet, sich an einem bundesweit tätigen, einheitlichen Pfandsystem zu beteiligen, das den Teilnehmern die Abwicklung von Pfanderstattungsansprüchen untereinander ermöglicht.
 
@@ -720,8 +687,7 @@ i) Fruchtnektare ohne Kohlensäure und Gemüsenektare ohne Kohlensäure;
 
 j) diätetische Getränke im Sinne des § 1 Absatz 2 Nummer 1 Buchstabe c der Diätverordnung in der Fassung der Bekanntmachung vom 28. April 2005 (BGBl. I S. 1161), die zuletzt durch Artikel 60 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung, die ausschließlich für Säuglinge oder Kleinkinder angeboten werden.
 
-
-## § 32 – Hinweispflichten
+# § 32 – Hinweispflichten
 
 (1) Letztvertreiber von mit Getränken befüllten Einweggetränkeverpackungen, die gemäß § 31 Absatz 1 Satz 1 der Pfandpflicht unterliegen, sind verpflichtet, die Endverbraucher in der Verkaufsstelle durch deutlich sicht- und lesbare, in unmittelbarer Nähe zu den Einweggetränkeverpackungen befindliche Informationstafeln oder -schilder mit dem Schriftzeichen „EINWEG“ darauf hinzuweisen, dass diese Verpackungen nach der Rückgabe nicht wiederverwendet werden.
 
@@ -733,13 +699,11 @@ j) diätetische Getränke im Sinne des § 1 Absatz 2 Nummer 1 Buchstabe c der Di
 
 (5) Die Absätze 1 bis 3 gelten nicht für Letztvertreiber, die gemäß § 9 Absatz 4 Nummer 3 bis 5 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 11 des Gesetzes vom 11. März 2016 (BGBl. I S. 396) geändert worden ist, bezüglich der von ihnen in Verkehr gebrachten Getränkeverpackungen von der Pflicht zur Angabe des Grundpreises befreit sind.
 
-
-## § 33 – Beauftragung Dritter
+# § 33 – Beauftragung Dritter
 
 Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pflichten beauftragen; § 22 Satz 2 und 3 des Kreislaufwirtschaftsgesetzes gilt entsprechend. Satz 1 gilt nicht für die Registrierung nach § 9 und nicht für die Abgabe von Datenmeldungen nach § 10.
 
-
-## § 34 – Bußgeldvorschriften
+# § 34 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -801,8 +765,7 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die nach Landesrecht zuständige Behörde.
 
-
-## § 35 – Übergangsvorschriften
+# § 35 – Übergangsvorschriften
 
 (1) Systeme, die zum 1. Januar 2019 gemäß § 6 Absatz 5 Satz 1 der Verpackungsverordnung bereits wirksam festgestellt sind, gelten auch im Sinne des § 18 Absatz 1 als genehmigt, wenn sie bis zum 1. Januar 2019 mit der Zentralen Stelle eine Finanzierungsvereinbarung, die den Vorgaben des § 25 entspricht, abgeschlossen und der für die Erteilung der Genehmigung zuständigen Landesbehörde vorgelegt haben.
 
@@ -814,8 +777,7 @@ Die nach diesem Gesetz Verpflichteten können Dritte mit der Erfüllung ihrer Pf
 
 (5) Die in § 10 Absatz 5 Satz 6 der Verpackungsverordnung in der Fassung vom 17. Juli 2014 (BGBl. I S. 1061) genannte Stelle übergibt der Zentralen Stelle die bis zum 1. Januar 2019 dort hinterlegten Datensätze.
 
-
-## Anlage 1 – (zu § 3 Absatz 1)Verpackungskriterien und -beispiele
+# Anlage 1 – (zu § 3 Absatz 1)Verpackungskriterien und -beispiele
 
 (Fundstelle: BGBl. I 2017, 2252 - 2253)
 
@@ -989,8 +951,7 @@ Gegenstände, die nicht als Verpackungen gelten:
 –  
 RFID-Tags für die Funkfrequenzkennzeichnung
 
-
-## Anlage 2 – (zu § 3 Absatz 7)Schadstoffhaltige Füllgüter im Sinne von § 3 Absatz 7
+# Anlage 2 – (zu § 3 Absatz 7)Schadstoffhaltige Füllgüter im Sinne von § 3 Absatz 7
 
 (Fundstelle: BGBl. I 2017, 2254)
 
@@ -1002,8 +963,7 @@ RFID-Tags für die Funkfrequenzkennzeichnung
 
 4. Öle, flüssige Brennstoffe und sonstige ölbürtige Produkte, die als Abfall unter die Abfallschlüssel 12 01 06, 12 01 07, 12 01 10, 16 01 13 oder 16 01 14 oder unter Kapitel 13 der Anlage zur Abfallverzeichnis-Verordnung fallen würden.
 
-
-## Anlage 3 – (zu § 5 Absatz 1 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
+# Anlage 3 – (zu § 5 Absatz 1 Satz 2 Nummer 2)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Kunststoffkästen und -paletten gilt
 
 (Fundstelle: BGBl. I 2017, 2255)
 
@@ -1057,8 +1017,7 @@ Kreisläufe, in denen Produkte auf Grund eines kontrollierten Vertriebs- und Meh
 
 (2) Der Hersteller oder sein bevollmächtigter Vertreter haben diese Unterlagen mindestens vier Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## Anlage 4 – (zu § 5 Absatz 1 Satz 2 Nummer 4)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
+# Anlage 4 – (zu § 5 Absatz 1 Satz 2 Nummer 4)Anforderungen, unter denen der in § 5 Absatz 1 Satz 1 festgelegte Schwermetallgrenzwert nicht für Glasverpackungen gilt
 
 (Fundstelle: BGBl. I 2017, 2256)
 
@@ -1093,7 +1052,6 @@ eingehende Beschreibung der zur Verringerung der Konzentrationsgrenzwerte getrof
 
 (2) Die Messergebnisse aus Produktionsstätten und die verwendeten Messmethoden sind mindestens drei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## Anlage 5 – (zu § 6)Kennzeichnung von Verpackungen
+# Anlage 5 – (zu § 6)Kennzeichnung von Verpackungen
 
 (Fundstelle: BGBl. I 2017, 2257 - 2259)

@@ -1,15 +1,11 @@
-# [SchHaltHygV] Verordnung über hygienische Anforderungen beim Halten von Schweinen  (Schweinehaltungshygieneverordnung - SchHaltHygV)
-
-Ausfertigungsdatum: 07.06.1999
-
+% Verordnung über hygienische Anforderungen beim Halten von Schweinen  (Schweinehaltungshygieneverordnung - SchHaltHygV)
+% Ausfertigungsdatum: 07.06.1999
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für alle Betriebe, die Schweine zu Zucht- oder Mastzwecken halten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -63,8 +59,7 @@ der Tod eines Schweines auf natürlichem Wege, auch infolge einer Krankheit.
 
 Wird ein Schwein infolge einer Krankheit aus Gründen des Tierschutzes getötet, ist das Schwein im Sinne des Satzes 1 Nummer 12 verendet.
 
-
-## § 3 – Anforderungen an die Stallhaltung und an die Auslaufhaltung
+# § 3 – Anforderungen an die Stallhaltung und an die Auslaufhaltung
 
 (1) Tierhalter haben die Schweine nach den Anforderungen der Anlage 1 zu halten, soweit die Schweine nicht in Freilandhaltung gehalten werden.
 
@@ -90,8 +85,7 @@ die Schweine nach den Anforderungen der Anlage 3 zu halten.
 
 (4) Wer Schweine in einer Auslaufhaltung halten will, hat dies der zuständigen Behörde vor Beginn der Tätigkeit unter Angabe seines Namens, seiner Anschrift, der Anzahl der im Jahresdurchschnitt voraussichtlich gehaltenen Tiere, ihrer Nutzungsart und ihres Standortes anzuzeigen, soweit der zuständigen Behörde diese Angaben nicht bereits nach anderen Vorschriften zum Schutz vor Tierseuchen übermittelt worden sind.
 
-
-## § 4 – Anforderungen an die Freilandhaltung
+# § 4 – Anforderungen an die Freilandhaltung
 
 (1) Tierhalter in Freilandhaltungen haben die Schweine nach den Anforderungen der Anlage 4 zu halten.
 
@@ -119,18 +113,15 @@ Anstelle des Widerrufs der Genehmigung kann die zuständige Behörde in Fällen
 
 für Freilandhaltungen anordnen, soweit tierseuchenrechtliche Gründe nicht entgegenstehen.
 
-
-## § 5 – Beförderung von Schweinen
+# § 5 – Beförderung von Schweinen
 
 Zucht- oder Nutzschweine dürfen nicht gemeinsam mit Schlachtschweinen aus einem anderen Betrieb befördert werden.
 
-
-## § 6 – Betriebseigene Kontrollen
+# § 6 – Betriebseigene Kontrollen
 
 Wer Zucht- oder Nutzschweine hält, hat über die nach § 4 Absatz 1 Satz 1 Nummer 2 der Tierschutz-Nutztierhaltungsverordnung vorgesehene Überprüfung hinaus durch betriebseigene Kontrollen und durch Hygienemaßnahmen das seuchenhygienische Risiko für die Schweine seines Bestandes niedrig zu halten. Der Tierhalter kontrolliert jede Ein- und Ausstallung und stellt eine tierärztliche Bestandsbetreuung sicher.
 
-
-## § 7 – Tierärztliche Bestandsbetreuung
+# § 7 – Tierärztliche Bestandsbetreuung
 
 (1) Jeder Tierhalter hat im Rahmen der betriebseigenen Kontrollen seinen Bestand durch einen Tierarzt betreuen zu lassen. Die Bestandsbetreuung umfasst zumindest
 
@@ -164,8 +155,7 @@ teilgenommen hat. Die Bestätigung der Tierärztekammer nach Satz 1 ist auf 3 Ja
 
 unverzüglich einzutragen; die Eintragung muss mit dem Namenszeichen des Tierarztes versehen sein.
 
-
-## § 8 – Besondere Untersuchungen
+# § 8 – Besondere Untersuchungen
 
 (1) Bei
 
@@ -183,8 +173,7 @@ hat der Tierhalter unverzüglich durch den Tierarzt, der den Bestand nach § 7 A
 
 (2) Gehäuftes Auftreten von verendeten Schweinen, gehäuftes Auftreten von Kümmerern, gehäufte fieberhafte Erkrankungen im Sinne von Absatz 1 liegen vor, wenn die Kriterien der Anlage 6 erfüllt werden.
 
-
-## § 9 – Zusätzliche Anforderungen an Zuchtbetriebe
+# § 9 – Zusätzliche Anforderungen an Zuchtbetriebe
 
 (1) Der Tierhalter eines Zuchtbetriebes mit mehr als drei Sauenplätzen hat für jede Sau unverzüglich
 
@@ -206,13 +195,11 @@ zu dokumentieren. § 25 Absatz 3 der Viehverkehrsverordnung gilt entsprechend.
 
 (2) Steigt innerhalb eines Zeitraums von vier Wochen in einem Stall die Umrauschquote<span id="FnR.F783835_01"></span><a href="#F783835_01" class="FnR">1</a></sup> auf über 20 vom Hundert oder die Abortquote<span id="FnR.F783835_02"></span><a href="#F783835_02" class="FnR">2</a></sup> von über 2,5 vom Hundert an, so hat der Tierhalter eine Untersuchung durch den Tierarzt gemäß § 7 Absatz 1 zur Feststellung der Ursache zu veranlassen. § 8 Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 10 – Amtliche Beaufsichtigung
+# § 10 – Amtliche Beaufsichtigung
 
 Jeder Betrieb unterliegt der Beaufsichtigung durch den beamteten Tierarzt.
 
-
-## § 11 – Anordnungsbefugnis
+# § 11 – Anordnungsbefugnis
 
 Die zuständige Behörde kann
 
@@ -226,8 +213,7 @@ Die zuständige Behörde kann
 
 5. für Schweinehaltungen Ausnahmen zulassen, soweit auf andere Weise sichergestellt ist, dass der Schutzzweck der Verordnung erfüllt wird.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -249,16 +235,13 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 9. entgegen § 9 Absatz 1 Satz 1 die vorgeschriebene Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
 
-
-## § 13 – Übergangsregelungen
+# § 13 – Übergangsregelungen
 
 Wer das Halten von Schweinen nicht nach § 3 Absatz 4 angezeigt hat, hat dies abweichend von § 3 Absatz 4 bis zum 31. Dezember 2014 anzuzeigen, soweit der zuständigen Behörde die dort genannten Angaben nicht bereits nach anderen Vorschriften zum Schutz vor Tierseuchen übermittelt worden sind.
 
+# § 14 – Inkrafttreten, Außerkrafttreten
 
-## § 14 – Inkrafttreten, Außerkrafttreten
-
-
-## Anlage 1 – (zu § 3 Absatz 1)Allgemeine Anforderungen an Schweinehaltungen gemäß § 3 Absatz 1
+# Anlage 1 – (zu § 3 Absatz 1)Allgemeine Anforderungen an Schweinehaltungen gemäß § 3 Absatz 1
 
 (Fundstelle: BGBl. I 2014, S. 331)
 
@@ -282,8 +265,7 @@ a) Schweine in Auslaufhaltung beim Aufenthalt im Freien keinen Kontakt zu Schwei
 
 b) Futter und Einstreu vor Wildschweinen sicher geschützt gelagert werden.
 
-
-## Anlage 2 – (zu § 3 Absatz 2)Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Absatz 2
+# Anlage 2 – (zu § 3 Absatz 2)Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Absatz 2
 
 (Fundstelle: BGBl. I 2014, S. 332 - 333)
 
@@ -339,8 +321,7 @@ a) auf eine ausreichende betriebseigene oder sonst dem Betrieb zur Verfügung ge
 
 b) in einer betriebseigenen Kläranlage oder einer anderen Anlage zur technischen oder biologischen Aufarbeitung von Dung oder flüssigen Abgängen einem Verfahren unterzogen werden, durch das Tierseuchenerreger abgetötet werden.
 
-
-## Anlage 3 – (zu § 3 Absatz 3)Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Absatz 3
+# Anlage 3 – (zu § 3 Absatz 3)Zusätzliche Anforderungen an Schweinehaltungen gemäß § 3 Absatz 3
 
 (Fundstelle: BGBl. I 2014, S. 334 - 335)
 
@@ -408,8 +389,7 @@ Der Tierhalter hat sicherzustellen, dass
 
 2. in das nach der Viehverkehrsverordnung erforderliche Bestandsregister oder eine sonstige Bestandsdokumentation zusätzlich Beginn, Verlauf und Ende der Absonderung im Isolierstall eingetragen werden.
 
-
-## Anlage 4 – (zu § 4 Absatz 1)Allgemeine Anforderungen an Freilandhaltungen gemäß § 4 Absatz 1
+# Anlage 4 – (zu § 4 Absatz 1)Allgemeine Anforderungen an Freilandhaltungen gemäß § 4 Absatz 1
 
 (Fundstelle: BGBl. I 2014, S. 336 - 337)
 
@@ -461,8 +441,7 @@ c) Einstreu und Dung sicher vor Wildschweinen geschützt gelagert werden.
 
 5. Im Rahmen der Reinigung und Desinfektion anfallende Flüssigkeiten sind schadlos zu entsorgen.
 
-
-## Anlage 5 – (zu § 4 Absatz 2)Zusätzliche Anforderungen an Freilandhaltungen mit Betriebsgrößen nach § 4 Absatz 2
+# Anlage 5 – (zu § 4 Absatz 2)Zusätzliche Anforderungen an Freilandhaltungen mit Betriebsgrößen nach § 4 Absatz 2
 
 (Fundstelle: BGBl. I 2014, S. 338)
 
@@ -502,8 +481,7 @@ b) die am Viehverkehr sowie die bei der Ver- oder Entladung beteiligten betriebs
 
 c) bereits auf das Transportfahrzeug verladene Tiere nicht in die Freilandhaltung zurücklaufen können.
 
-
-## Anlage 6 – (zu § 8 Absatz 2)Grenzwerte für besondere Untersuchungen
+# Anlage 6 – (zu § 8 Absatz 2)Grenzwerte für besondere Untersuchungen
 
 (Fundstelle: BGBl. I 2014, 339)
 

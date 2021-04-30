@@ -1,10 +1,7 @@
-# [Polst/DekoAusbV] Verordnung über die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
-
-Ausfertigungsdatum: 09.05.2005
-
+% Verordnung über die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
+% Ausfertigungsdatum: 09.05.2005
  
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Polster- und Dekorationsnäher/ Polster- und Dekorationsnäherin wird
 
@@ -14,18 +11,15 @@ Der Ausbildungsberuf Polster- und Dekorationsnäher/ Polster- und Dekorationsnä
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -61,23 +55,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 16. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des ersten Ausbildungsjahres stattfinden.
 
@@ -93,8 +83,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Grundsätze der Kundenorientierung sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
 
-
-## § 9 – Gesellenprüfung/Abschlussprüfung
+# § 9 – Gesellenprüfung/Abschlussprüfung
 
 (1) Die Gesellenprüfung/Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -140,13 +129,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn im praktischen Teil der Prüfung und im schriftlichen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Fortsetzung der Berufsausbildung
+# § 10 – Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Polster- und Dekorationsnäher/zur Polster- und Dekorationsnäherin
 
 (Fundstelle: BGBl. I 2005, 1288 - 1291)
 

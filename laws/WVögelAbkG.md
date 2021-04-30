@@ -1,25 +1,19 @@
-# [WVögelAbkG] Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel
-
-Ausfertigungsdatum: 18.09.1998
-
+% Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel
+% Ausfertigungsdatum: 18.09.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Den Haag am 15. August 1996 von der Bundesrepublik Deutschland unterzeichneten Abkommen zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel vom 16. Juni 1995 wird zugestimmt. Das Abkommen wird nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, Änderungen der Anlagen 1 bis 3 des Abkommens nach dessen Artikel X, die sich im Rahmen der Ziele des Abkommens halten, durch Rechtsverordnung in bezug auf Änderungen der Anlage 3 mit, im übrigen ohne Zustimmung des Bundesrates in Kraft zu setzen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens mit dem Bundesministerium für Ernährung und Landwirtschaft, soweit sie sich auf Tierarten, die dem Jagdrecht unterliegen, beziehen.
 
-
-## Art 3
+# Art 3
 
 (1) Es ist verboten, Vögel der in Anlage 3 Tabelle 1 Spalte A des Abkommens aufgeführten Arten von einem Schiff aus, das berechtigt ist, die Bundesflagge zu führen, außerhalb der nationalen Hoheitsgewässer der Natur zu entnehmen.
 
@@ -37,8 +31,7 @@ Die Ausnahmen sind räumlich und zeitlich zu beschränken und dürfen die Erhalt
 
 2. absichtlich beunruhigen oder absichtlich töten.
 
-
-## Art 4
+# Art 4
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen Artikel 3 Abs. 1 in Verbindung mit Abs. 3 Nr. 2 einen Vogel beunruhigt oder tötet.
 
@@ -50,8 +43,7 @@ Die Ausnahmen sind räumlich und zeitlich zu beschränken und dürfen die Erhalt
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

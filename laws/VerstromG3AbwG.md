@@ -1,10 +1,7 @@
-# [VerstromG3AbwG] Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten Verstromungsgesetz
-
-Ausfertigungsdatum: 12.12.1995
-
+% Gesetz zur Abwicklung des Ausgleichsfonds nach dem Dritten Verstromungsgesetz
+% Ausfertigungsdatum: 12.12.1995
  
-
-## § 1 – Abwicklung des Ausgleichsfonds
+# § 1 – Abwicklung des Ausgleichsfonds
 
 (1) Der Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes nach dem Dritten Verstromungsgesetz in der Fassung der Bekanntmachung vom 19. April 1990 (BGBl. I S. 917), zuletzt geändert durch Artikel 3 des Gesetzes vom 19. Juli 1994 (BGBl. I S. 1618), besteht mit dem Ziel seiner Abwicklung nach dem 31. Dezember 1995 fort und wird vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) verwaltet.
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 12.12.1995
 
 (5) Bis zum 31. Dezember 2000 entstandene Korrekturen auf erzielte Erlöse aus vor dem 1. Januar 1996 durchgeführte Elektrizitätslieferungen an Endverbraucher sind dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) von den Abgabeschuldnern bis zum 12. Februar 2001 anzuzeigen. Nach dem 31. Dezember 2000 eintretende Erlöskorrekturen bleiben abgaberechtlich ohne Auswirkungen. Dies gilt nicht, wenn die verspätete Anzeige einer sich ergebenden Nachzahlung vom Abgabeschuldner zu vertreten ist.
 
-
-## § 2 – Verwaltung des Ausgleichsfonds
+# § 2 – Verwaltung des Ausgleichsfonds
 
 (1) Der Ausgleichsfonds ist ein Sondervermögen im Sinne des Artikels 110 Abs. 1 des Grundgesetzes. Auf das Sondervermögen sind die §§ 1 und 25 der Bundeshaushaltsordnung nicht anzuwenden.
 
@@ -33,8 +29,7 @@ Ausfertigungsdatum: 12.12.1995
 
 (4) Der Ausgleichsfonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
 
-
-## § 3 – Auflösung des Ausgleichsfonds
+# § 3 – Auflösung des Ausgleichsfonds
 
 (1) Der Ausgleichsfonds wird zum 31. Dezember 2000 aufgelöst.
 

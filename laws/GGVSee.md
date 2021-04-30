@@ -1,13 +1,9 @@
-# [GGVSee] Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen  (Gefahrgutverordnung See - GGVSee)
-
-Ausfertigungsdatum: 09.02.2016
-
+% Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen  (Gefahrgutverordnung See - GGVSee)
+% Ausfertigungsdatum: 09.02.2016
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt die Beförderung gefährlicher Güter mit Seeschiffen. Für die Beförderung gefährlicher Güter mit Seeschiffen auf schiffbaren Binnengewässern in Deutschland, mit Ausnahme von Seeschifffahrtsstraßen und angrenzenden Seehäfen, gelten die Vorschriften der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt.
 
@@ -19,8 +15,7 @@ Ausfertigungsdatum: 09.02.2016
 
 (5) In Häfen und an sonstigen Liegeplätzen gelten für das Einbringen, den zeitweiligen Aufenthalt im Verlauf der Beförderung und den Umschlag gefährlicher Güter zusätzlich die jeweiligen örtlichen Sicherheitsvorschriften.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Die nachfolgenden Begriffe werden im Sinne dieser Verordnung wie folgt verwendet:
 
@@ -84,8 +79,7 @@ c) die unter die Begriffsbestimmung „schädlicher flüssiger Stoff“ in Kapit
 
 d) die in Kapitel 19 des IGC-Codes aufgeführt sind.
 
-
-## § 3 – Zulassung zur Beförderung
+# § 3 – Zulassung zur Beförderung
 
 (1) Gefährliche Güter dürfen zur Beförderung auf Seeschiffen im Geltungsbereich dieser Verordnung nur übergeben, nur auf Seeschiffe verladen und mit Seeschiffen nur befördert werden, wenn die folgenden auf die einzelne Beförderung zutreffenden Vorschriften eingehalten sind:
 
@@ -152,8 +146,7 @@ Bei der Beförderung in Güterbeförderungseinheiten muss die Identifikationsnum
 (+++ § 3 Abs. 1 Nr. 1 u. 2: Zur Anwendung vgl. § 28 Abs. 2 +++)  
 (+++ § 3 Abs. 1 Nr. 3 u. 4: Zur Anwendung vgl. § 28 Abs. 3 +++)
 
-
-## § 4 – Allgemeine Sicherheitspflichten, Überwachung, Ausrüstung, Unterweisung
+# § 4 – Allgemeine Sicherheitspflichten, Überwachung, Ausrüstung, Unterweisung
 
 (1) Die an der Beförderung gefährlicher Güter mit Seeschiffen Beteiligten haben die nach Art und Ausmaß der vorhersehbaren Gefahren erforderlichen Vorkehrungen zu treffen, um Schadensfälle zu verhindern und bei Eintritt eines Schadens dessen Umfang so gering wie möglich zu halten.
 
@@ -185,8 +178,7 @@ zu unterrichten.
 
 (12) An Land tätige Personen (Landpersonal), die Aufgaben nach Unterabschnitt 1.3.1.2 des IMDG-Codes ausüben, sind vor der selbstständigen Übernahme der Aufgaben nach den Vorschriften des Kapitels 1.3 des IMDG-Codes zu unterweisen. Die Unterweisung ist in regelmäßigen Abständen zu wiederholen, um Änderungen in den Vorschriften und der Praxis Rechnung zu tragen, spätestens jedoch in einem Abstand von fünf Jahren. Datum und Inhalt der Unterweisung sind unverzüglich nach der Unterweisung aufzuzeichnen, die Aufzeichnungen sind fünf Jahre aufzubewahren und dem Arbeitnehmer und der zuständigen Behörde auf Verlangen vorzulegen. Nach Ablauf der Aufbewahrungsfrist sind die Aufzeichnungen unverzüglich zu löschen.
 
-
-## § 5 – Verladung gefährlicher Güter
+# § 5 – Verladung gefährlicher Güter
 
 (1) Vor der Verladung gefährlicher Güter sind Stauanweisungen unter Beachtung der anwendbaren Stau- und Trennvorschriften nach den Kapiteln 7.1, 7.2, 7.4 bis 7.7 in Verbindung mit Abschnitt 3.1.4 und Kapitel 3.2 des IMDG-Codes und nach Unterabschnitt 9.3 des IMSBC-Codes sowie der Vorschriften des Kapitels II-2 Regel 19 des SOLAS-Übereinkommens festzulegen.
 
@@ -194,8 +186,7 @@ zu unterrichten.
 
 (+++ § 5 Abs. 1: Zur Anwendung vgl. § 28 Abs. 4 +++)
 
-
-## § 6 – Unterlagen für die Beförderung gefährlicher Güter
+# § 6 – Unterlagen für die Beförderung gefährlicher Güter
 
 (1) Für verpackte gefährliche Güter sind folgende Anforderungen zu erfüllen:
 
@@ -271,8 +262,7 @@ e) bei der grenzüberschreitenden Beförderung gefährlicher Abfälle zusätzlic
 
 (+++ § 6 Abs. 5 Nr. 2 Buchst. e, Nr. 3 Buchst. b: Zur Anwendung vgl. § 28 Abs. 5 +++)
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Die nach Landesrecht zuständigen Behörden können in ihrem Zuständigkeitsbereich, die Generaldirektion Wasserstraßen und Schifffahrt in bundeseigenen Häfen, auf Antrag für Einzelfälle oder für einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis Ausnahmen von dieser Verordnung zulassen oder Ausnahmen anderer Staaten anerkennen, soweit dies
 
@@ -304,13 +294,11 @@ zulassen. Die für die Schiffssicherheit zuständige bundesunmittelbare Berufsge
 
 (7) Eine Kopie oder Abschrift der Ausnahmegenehmigung nach den Absätzen 1, 3 und 4 ist dem Beförderer mit der Sendung zu übergeben und auf dem Seeschiff mitzuführen.
 
-
-## § 8 – Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur
+# § 8 – Zuständigkeiten des Bundesministeriums für Verkehr und digitale Infrastruktur
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur ist für die Durchführung dieser Verordnung in allen Fällen zuständig, in denen nach den in § 2 Absatz 1 genannten Vorschriften zuständigen Behörden Aufgaben übertragen worden sind und nachfolgend keine ausdrücklich abweichende Zuständigkeitsregelung getroffen ist.
 
-
-## § 9 – Zuständigkeiten der nach Landesrecht zuständigen Behörden
+# § 9 – Zuständigkeiten der nach Landesrecht zuständigen Behörden
 
 (1) Die nach Landesrecht zuständigen Behörden sind zuständig für die Überwachung der Einhaltung der Vorschriften über die Beförderung gefährlicher Güter in Unternehmen, an den Be- und Entladestellen und auf Seeschiffen in den Landes- und Kommunalhäfen, die keine Bundeswasserstraßen sind. Sie sind auch zuständig für die Überwachung auf Seeschiffen in den Häfen an Bundeswasserstraßen, die nicht vom Bund betrieben werden.
 
@@ -324,8 +312,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur ist für die Durch
 
 liegt, sind zuständig für die Festlegung von Stau- und Trennvorschriften für gefährliche Güter nach den Kapiteln 7.1 bis 7.7 und für die Festlegung von Stauvorschriften nach Kapitel 3.3 Sondervorschrift 76 sowie Aufgaben nach Kapitel 3.3 Sondervorschrift 962.2 des IMDG-Codes.
 
-
-## § 10 – Zuständigkeiten der durch das Bundesministerium der Verteidigung bestimmten Sachverständigen und Dienststellen
+# § 10 – Zuständigkeiten der durch das Bundesministerium der Verteidigung bestimmten Sachverständigen und Dienststellen
 
 (1) Neben den zuständigen Behörden des Bundes und der Länder sind für die Durchführung dieser Verordnung auch Dienststellen, die das Bundesministerium der Verteidigung bestimmt, zuständig für die Überwachung nach § 9 Absatz 1 und 2 des Gefahrgutbeförderungsgesetzes bei der Verladung auf Seeschiffe in Hafenanlagen im Auftrag der Bundeswehr oder ausländischer Streitkräfte einschließlich der Festlegung von Stau- und Trennvorschriften.
 
@@ -339,8 +326,7 @@ liegt, sind zuständig für die Festlegung von Stau- und Trennvorschriften für 
 
 4. die Baumusterprüfung sowie die erstmalige, wiederkehrende und außerordentliche Prüfung von Tanks der Straßentankfahrzeuge nach den Absätzen 6.8.2.2.1 und 6.8.2.2.2 und die Prüfungen im Zusammenhang mit der Ausstellung der Bescheinigung nach den Absätzen 6.8.3.1.3.2, 6.8.3.2.3.2 und 6.8.3.3.3.2 des IMDG-Codes.
 
-
-## § 11 – Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
+# § 11 – Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
 
 Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr ist, soweit es sich um den militärischen Bereich handelt, zuständige Behörde für Aufgaben nach
 
@@ -350,8 +336,7 @@ Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr i
 
 3. Kapitel 4.1 des IMDG-Codes in Bezug auf explosive Stoffe und Gegenstände mit Explosivstoff.
 
-
-## § 12 – Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
+# § 12 – Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung
 
 (1) Die Bundesanstalt für Materialforschung und -prüfung ist zuständige Behörde für
 
@@ -403,8 +388,7 @@ c) Baumusterprüfungen sowie erstmalige, wiederkehrende und außerordentliche Pr
 
 (3) Die nach Absatz 1 Nummer 8 Buchstabe b und c anerkannten Prüfstellen müssen an dem Erfahrungsaustausch nach § 12 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt teilnehmen.
 
-
-## § 13 – Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+# § 13 – Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständige Behörde für
 
@@ -420,13 +404,11 @@ Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständige Behö
 
 6. die Genehmigung eines Strahlenschutzprogramms nach Absatz 5.1.5.1.2 in Verbindung mit Absatz 7.1.4.5.8 des IMDG-Codes.
 
-
-## § 14 – Zuständigkeiten des Umweltbundesamtes
+# § 14 – Zuständigkeiten des Umweltbundesamtes
 
 Das Umweltbundesamt ist zuständig für die Zustimmung nach Unterabschnitt 2.10.2.6 des IMDG-Codes.
 
-
-## § 15 – Zuständigkeiten der für die Schiffssicherheit zuständigen bundesunmittelbaren Berufsgenossenschaft
+# § 15 – Zuständigkeiten der für die Schiffssicherheit zuständigen bundesunmittelbaren Berufsgenossenschaft
 
 Die für die Schiffssicherheit zuständige bundesunmittelbare Berufsgenossenschaft ist zuständig für
 
@@ -438,8 +420,7 @@ Die für die Schiffssicherheit zuständige bundesunmittelbare Berufsgenossenscha
 
 4. die Erteilung von Bescheinigungen nach Ziffer 1.3.2 des IMSBC-Codes.
 
-
-## § 16 – Zuständigkeiten der Benannten Stellen
+# § 16 – Zuständigkeiten der Benannten Stellen
 
 (1) Die Benannten Stellen nach § 16 der Ortsbewegliche-Druckgeräte-Verordnung sind zuständig für Baumusterprüfungen sowie erstmalige und wiederkehrende Prüfungen von ortsbeweglichen Druckgefäßen nach den Absätzen 6.2.1.4.1 und 6.2.2.5.4.9 und den Unterabschnitten 6.2.1.5 und 6.2.1.6 sowie die Überprüfung des Qualitätssicherungssystems des Herstellers nach Absatz 6.2.2.5.3.2 des IMDG-Codes.
 
@@ -451,15 +432,13 @@ Die für die Schiffssicherheit zuständige bundesunmittelbare Berufsgenossenscha
 
 (3) Die Benannten Stellen nach Absatz 2 müssen an dem Erfahrungsaustausch nach § 12 Absatz 2 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt teilnehmen.
 
-
-## § 16a – Zuständigkeiten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+# § 16a – Zuständigkeiten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
 (1) Die Wasserstraßen- und Schifffahrtsämter sind zuständig für die Überwachung der Einhaltung der Vorschriften über die Beförderung gefährlicher Güter auf Bundeswasserstraßen einschließlich der bundeseigenen Häfen. Unberührt bleiben die Zuständigkeiten für die Hafenaufsicht (Hafenpolizei) in den nicht vom Bund betriebenen Häfen an Bundeswasserstraßen.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt ist zuständig für die Entgegennahme von Meldungen über Verstöße nach Unterabschnitt 1.1.1.8 des IMDG-Codes und für die Weiterleitung dieser Meldungen an die zuständige Behörde des Staates, in dem das Unternehmen ansässig ist, das den Verstoß begangen hat. Die hierfür erforderlichen Daten können zu diesen Zwecken von der Generaldirektion Wasserstraßen und Schifffahrt und den nach Landesrecht zuständigen Behörden verarbeitet werden.
 
-
-## § 17 – Pflichten des Versenders
+# § 17 – Pflichten des Versenders
 
 Der Versender und der Beauftragte des Versenders
 
@@ -499,8 +478,7 @@ Der Versender und der Beauftragte des Versenders
 
 18. haben dem Schiffsführer vor der Verladung die nach § 6 Absatz 3 vorgeschriebenen Informationen schriftlich oder elektronisch zu übermitteln.
 
-
-## § 18 – Pflichten des für das Packen oder Beladen einer Güterbeförderungseinheit Verantwortlichen
+# § 18 – Pflichten des für das Packen oder Beladen einer Güterbeförderungseinheit Verantwortlichen
 
 Der für das Packen oder Beladen einer Güterbeförderungseinheit jeweils Verantwortliche
 
@@ -510,8 +488,7 @@ Der für das Packen oder Beladen einer Güterbeförderungseinheit jeweils Verant
 
 3. hat vor Übergabe zur Beförderung die in Abschnitt 5.4.2 des IMDG-Codes geforderte Bescheinigung (CTU-Packzertifikat) auszustellen oder den Inhalt der Bescheinigung in das Beförderungsdokument aufzunehmen.
 
-
-## § 19 – Pflichten des Auftraggebers des Beförderers
+# § 19 – Pflichten des Auftraggebers des Beförderers
 
 Wer einen Beförderer mit der Beförderung gefährlicher Güter in verpackter Form mit Seeschiffen beauftragt, hat dem Beförderer vor der Verladung folgende Dokumente zu übergeben oder zu übermitteln:
 
@@ -523,8 +500,7 @@ Wer einen Beförderer mit der Beförderung gefährlicher Güter in verpackter Fo
 
 4. alle weiteren gemäß Absatz 5.1.5.4.2, Abschnitt 5.4.4 und den Unterabschnitten 5.5.2.4 und 5.5.3.7 des IMDG-Codes für die Beförderung vorgeschriebenen Dokumente.
 
-
-## § 20 – Pflichten des für den Umschlag Verantwortlichen
+# § 20 – Pflichten des für den Umschlag Verantwortlichen
 
 Der für den Umschlag Verantwortliche
 
@@ -544,8 +520,7 @@ c) für gefährliche Schüttgüter, die im IMSBC-Code nicht namentlich aufgefüh
 
 5. darf gefährliche Massengüter in flüssiger oder verflüssigter Form nur verladen, wenn die erforderlichen Informationen nach § 6 Absatz 3 vorliegen.
 
-
-## § 21 – Pflichten des Beförderers
+# § 21 – Pflichten des Beförderers
 
 Der Beförderer und der Beauftragte des Beförderers
 
@@ -563,8 +538,7 @@ Der Beförderer und der Beauftragte des Beförderers
 
 7. dürfen gefährliche Massengüter in flüssiger oder verflüssigter Form zur Beförderung nur annehmen, wenn sie jeweils nach dem Kapitel 17 oder 18 des IBC-Codes, Kapitel 19 des IGC-Codes oder Kapitel XIX des GC-Codes für die Beförderung zugelassen sind.
 
-
-## § 22 – Pflichten des Reeders
+# § 22 – Pflichten des Reeders
 
 Der Reeder
 
@@ -576,8 +550,7 @@ Der Reeder
 
 4. hat dafür zu sorgen, dass der Schiffsführer und der für die Ladung verantwortliche Offizier nach § 4 Absatz 11 Satz 1 und 2 unterwiesen werden und die Aufzeichnungen darüber nach § 4 Absatz 11 Satz 4 und 5 aufbewahrt und nach Ablauf der Aufbewahrungsfrist gelöscht werden.
 
-
-## § 23 – Pflichten des Schiffsführers
+# § 23 – Pflichten des Schiffsführers
 
 Der Schiffsführer
 
@@ -607,18 +580,15 @@ Der Schiffsführer
 
 13. darf verflüssigte Gase, die dem IGC-Code oder dem GC-Code unterliegen, nur übernehmen, wenn die für das jeweilige Gut in Kapitel 19 des IGC-Codes oder Kapitel XIX des GC-Codes aufgeführten Mindestanforderungen eingehalten sind.
 
-
-## § 24 – Pflichten des mit der Planung der Beladung Beauftragten
+# § 24 – Pflichten des mit der Planung der Beladung Beauftragten
 
 Der mit der Planung der Beladung Beauftragte hat dafür zu sorgen, dass Stauanweisungen nach § 5 Absatz 1 festgelegt werden.
 
-
-## § 25 – Pflichten des Empfängers
+# § 25 – Pflichten des Empfängers
 
 Der Empfänger hat so bald wie möglich oder im Falle einer Notfallexpositionssituation sofort den Versender, den Beförderer und weitere an der Beförderung beteiligte Stellen nach Absatz 1.5.6.1.1 Gliederungseinheit ii in Verbindung mit Absatz 1.5.6.1.3 des IMDG-Codes über die Nichteinhaltung eines Grenzwertes für die Dosisleistung oder die Kontamination zu informieren.
 
-
-## § 26 – Pflichten mehrerer Beteiligter
+# § 26 – Pflichten mehrerer Beteiligter
 
 (1) Die an der Beförderung gefährlicher Güter Beteiligten haben entsprechend ihren Verantwortlichkeiten bei der Beförderung gefährlicher Güter die Vorschriften über die Sicherung nach Kapitel 1.4 des IMDG-Codes zu beachten. Die an der Beförderung gefährlicher Güter mit hohem Gefahrenpotential beteiligten Hersteller oder Vertreiber gefährlicher Güter, die für das Packen und Beladen von Güterbeförderungseinheiten verantwortlichen Personen und die Beförderer müssen Sicherungspläne nach Absatz 1.4.3.2.2 des IMDG-Codes vor der Aufnahme der Tätigkeit einführen und während der Tätigkeit anwenden, sofern sie nicht dem Kapitel XI-2 des SOLAS-Übereinkommens und dem ISPS-Code unterliegen.
 
@@ -630,8 +600,7 @@ Der Empfänger hat so bald wie möglich oder im Falle einer Notfallexpositionssi
 
 2. vor der Übernahme ihrer Pflichten nach Unterabschnitt 5.5.2.2 und Absatz 5.5.3.2.4 des IMDG-Codes unterwiesen werden.
 
-
-## § 27 – Ordnungswidrigkeiten
+# § 27 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gefahrgutbeförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -741,8 +710,7 @@ e) Absatz 3 Nummer 2 nicht dafür sorgt, dass eine dort genannte Person unterwie
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird im Bereich seewärts der Begrenzung des deutschen Küstenmeeres, der Bundeswasserstraßen und der bundeseigenen Häfen auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## § 28 – Übergangsbestimmungen
+# § 28 – Übergangsbestimmungen
 
 (1) Bis zum 31. Dezember 2015 kann die Beförderung gefährlicher Güter mit Seeschiffen noch nach den Vorschriften der Gefahrgutverordnung See in der Fassung der Bekanntmachung vom 26. März 2014 (BGBl. I S. 301), die durch Artikel 5 der Verordnung vom 26. Februar 2015 (BGBl. I S. 265) geändert worden ist, in der bis zum 31. Dezember 2014 geltenden Fassung durchgeführt werden.
 

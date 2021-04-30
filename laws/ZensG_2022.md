@@ -1,17 +1,11 @@
-# [ZensG 2022] Gesetz zur Durchführung des Zensus im Jahr 2022  (Zensusgesetz 2022 - ZensG 2022)
-
-Ausfertigungsdatum: 26.11.2019
-
+% Gesetz zur Durchführung des Zensus im Jahr 2022  (Zensusgesetz 2022 - ZensG 2022)
+% Ausfertigungsdatum: 26.11.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -51,8 +45,9 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
  
 
+ 
 
-## § 1 – Art, Stichtag, Quellen und Zwecke des Zensus
+# § 1 – Art, Stichtag, Quellen und Zwecke des Zensus
 
 (1) Die statistischen Ämter des Bundes und der Länder führen eine Bevölkerungs-, Gebäude- und Wohnungszählung (Zensus) mit Stand vom 15. Mai 2022 (Zensusstichtag) als Bundesstatistik durch.
 
@@ -76,8 +71,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 3. der Gewinnung von Grunddaten für das Gesamtsystem der amtlichen Statistik sowie von Strukturdaten über die Bevölkerung als Datengrundlage insbesondere für politische Entscheidungen von Bund, Ländern und Gemeinden auf den Gebieten Bevölkerung, Wirtschaft, Soziales, Wohnungswesen, Raumordnung, Verkehr, Umwelt und Arbeitsmarkt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Einwohner einer Gemeinde sind alle Personen, die ihren üblichen Aufenthaltsort in der Gemeinde haben.
 
@@ -89,8 +83,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (5) Einen Haushalt bilden alle Personen, die gemeinsam wohnen. Wer allein wohnt, bildet einen eigenen Haushalt.
 
-
-## § 3 – Erhebungseinheiten der Bevölkerungszählung
+# § 3 – Erhebungseinheiten der Bevölkerungszählung
 
 (1) Erhebungseinheiten der Bevölkerungszählung sind Personen und Haushalte.
 
@@ -102,15 +95,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Personen mit mehreren Wohnungen werden an jedem Wohnort mit der jeweiligen Angabe zur alleinigen Wohnung, Hauptwohnung oder Nebenwohnung (Wohnungsstatus) erfasst. Für die Ermittlung der Einwohnerzahl ist nur die alleinige Wohnung oder die Hauptwohnung maßgeblich.
 
-
-## § 4 – Gebietsstand und Bevölkerungsfortschreibung
+# § 4 – Gebietsstand und Bevölkerungsfortschreibung
 
 (1) Sofern Erhebungen auf Kreise, Gemeindeverbände unterhalb der Kreisebene und Gemeinden sowie Teile von Städten Bezug nehmen, werden der Gebietsstand und die in § 5 des Bevölkerungsstatistikgesetzes geregelte Bevölkerungsfortschreibung mit Stand vom 31. Dezember 2020 zugrunde gelegt.
 
 (2) Von der Regelung nach Absatz 1 kann abgewichen werden, wenn und soweit es innerhalb der Länder bis zur Stichprobenziehung zu Gebietsreformen kommt.
 
-
-## § 5 – Übermittlung von Daten durch die Meldebehörden
+# § 5 – Übermittlung von Daten durch die Meldebehörden
 
 (1) Zur Aktualisierung des Steuerungsregisters nach § 3 des Zensusvorbereitungsgesetzes 2022 vom 3. März 2017 (BGBl. I S. 388), geändert durch Artikel 1 des Gesetzes vom 3. Dezember 2020 (BGBl. I S. 2675) und zur Vorbereitung und Durchführung des Zensus übermitteln die Meldebehörden den statistischen Ämtern der Länder nach Maßgabe von Absatz 2 für jede Person elektronisch die Daten zu folgenden Merkmalen:
 
@@ -174,8 +165,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 1. zum Stichtag 2. Februar 2020 für jede gemeldete Person die Daten zu den Merkmalen nach Absatz 1 Nummer 1 bis 17, 23 und 27,
 
-1a.  
-zum Stichtag 7. Februar 2021 für jede gemeldete Person die Daten zu den Merkmalen nach Absatz 1 Nummer 1 bis 17, 23 und 27,
+1a. zum Stichtag 7. Februar 2021 für jede gemeldete Person die Daten zu den Merkmalen nach Absatz 1 Nummer 1 bis 17, 23 und 27,
 
 2. zum Stichtag 14. November 2021 für jede gemeldete Person die Daten zu den Merkmalen nach Absatz 1 Nummer 1 bis 23 und 27,
 
@@ -187,8 +177,7 @@ zum Stichtag 7. Februar 2021 für jede gemeldete Person die Daten zu den Merkmal
 
 (4) Zur Klärung eventueller Rückfragen sind die übermittelten Daten bei den Meldebehörden aufzubewahren und vier Wochen nach der Überprüfung gemäß Absatz 3 zu löschen.
 
-
-## § 6 – Erhebungsmerkmale und Hilfsmerkmale
+# § 6 – Erhebungsmerkmale und Hilfsmerkmale
 
 (1) Die nach § 5 Absatz 2 Nummer 1 bis 2 übermittelten Daten werden als Hilfsmerkmale für die Vorbereitung der Durchführung des Zensus erfasst.
 
@@ -196,8 +185,7 @@ zum Stichtag 7. Februar 2021 für jede gemeldete Person die Daten zu den Merkmal
 
 (3) Von den nach § 5 Absatz 2 Nummer 4 übermittelten Daten werden die Daten zu den Merkmalen nach § 5 Absatz 1 Nummer 4, 6 bis 11, 13 bis 17 sowie 24 bis 28 als Erhebungsmerkmale und die Daten zu den Merkmalen nach § 5 Absatz 1 Nummer 1 bis 3, 12 sowie 18 bis 23 als Hilfsmerkmale erfasst. Vom Geburtsdatum nach § 5 Absatz 1 Nummer 5 werden die Angaben des Monats und des Jahres als Erhebungsmerkmale und die Angabe des Tages als Hilfsmerkmal erfasst.
 
-
-## § 7 – Übermittlungen von Daten durch oberste Bundesbehörden
+# § 7 – Übermittlungen von Daten durch oberste Bundesbehörden
 
 (1) Für die in das Ausland entsandten
 
@@ -231,8 +219,7 @@ sowie für ihre dort ansässigen in Deutschland nicht gemeldeten Familienangehö
 
 (5) Das Statistische Bundesamt überprüft die Daten innerhalb von vier Wochen nach der Übermittlung auf Schlüssigkeit, Vollzähligkeit und Vollständigkeit.
 
-
-## § 8 – Übermittlung von Daten durch die Bundesagentur für Arbeit
+# § 8 – Übermittlung von Daten durch die Bundesagentur für Arbeit
 
 Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt für Zwecke der Hochrechnung zu dem Stichtag, der dem Zensusstichtag am nächsten liegt, elektronisch bis spätestens sieben Monate nach dem Stichtag die folgenden statistischen Auswertungen aus ihrem Datenbestand:
 
@@ -246,8 +233,7 @@ Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt für Zwec
 
 Die Daten sind getrennt für jede Wohnsitz-Gemeinde und untergliedert nach Geschlecht und Altersklassen zu übermitteln. Die Daten sind auch zu übermitteln, sofern Einzelangaben, welche Betroffenen zugeordnet werden können, enthalten sind.
 
-
-## § 9 – Erhebungseinheiten der Gebäude- und Wohnungszählung
+# § 9 – Erhebungseinheiten der Gebäude- und Wohnungszählung
 
 (1) Die statistischen Ämter der Länder führen zum Zensusstichtag eine Gebäude- und Wohnungszählung durch.
 
@@ -255,8 +241,7 @@ Die Daten sind getrennt für jede Wohnsitz-Gemeinde und untergliedert nach Gesch
 
 (3) Ausgenommen von der Gebäude- und Wohnungszählung sind Kasernen und vergleichbare Unterkünfte ausländischer Streitkräfte sowie Dienstwohnungen, die ausschließlich dem Wohnen Bediensteter internationaler Organisationen oder diplomatischer oder berufskonsularischer Vertretungen anderer Staaten vorbehalten sind.
 
-
-## § 10 – Erhebungsmerkmale und Hilfsmerkmale der Gebäude- und Wohnungszählung
+# § 10 – Erhebungsmerkmale und Hilfsmerkmale der Gebäude- und Wohnungszählung
 
 (1) Erhebungsmerkmale sind
 
@@ -302,8 +287,7 @@ f) Nettokaltmiete.
 
 5. Straße, Hausnummer und Anschriftenzusätze der Wohnung.
 
-
-## § 11 – Zwecke und Umfang der Haushaltebefragung auf Stichprobenbasis
+# § 11 – Zwecke und Umfang der Haushaltebefragung auf Stichprobenbasis
 
 (1) Die statistischen Ämter der Länder führen zum Zensusstichtag Befragungen der Haushalte auf Stichprobenbasis (Haushaltsstichprobe) durch. Die Erhebungen dienen
 
@@ -345,15 +329,13 @@ Bei Nichterreichen der angestrebten Präzisionsziele sind nachträgliche erneute
 
 (5) Werden bei der Haushaltsstichprobe Erhebungsbeauftragte eingesetzt, haben diese die Befragung innerhalb von zwölf Wochen nach dem Zensusstichtag abzuschließen. Hiervon kann nur in begründeten Ausnahmefällen abgewichen werden.
 
-
-## § 12 – Auswahleinheiten der Haushaltebefragung auf Stichprobenbasis
+# § 12 – Auswahleinheiten der Haushaltebefragung auf Stichprobenbasis
 
 (1) Auswahleinheiten der Haushaltsstichprobe sind, unbeschadet des § 17 Absatz 1 Satz 1, Anschriften mit Wohnraum aus dem Steuerungsregister nach § 3 des Zensusvorbereitungsgesetzes 2022 zum Stand nach Abschluss der Aktualisierung nach § 5 Absatz 2 Nummer 1a. Für Anschriften mit Wohnraum, die zwischen Stichprobenziehung und Abschluss der Aktualisierung des Steuerungsregisters nach § 5 Absatz 2 Nummer 2 neu ins Steuerungsregister aufgenommen worden sind, wird eine ergänzende Stichprobe gezogen. Die nach der Ziehung nach Satz 2 stichtagsrelevant neu ins Steuerungsregister aufgenommenen Anschriften mit Wohnraum fließen in die Ermittlung der Einwohnerzahlen ein, ohne dass Korrekturen auf Grund von Feststellungen im Rahmen der Haushaltsstichprobe nach § 11 erfolgen.
 
 (2) Die Auswahl der Anschriften mit Wohnraum erfolgt durch das Statistische Bundesamt geschichtet nach Anschriftengrößenklassen nach einem mathematisch-statistischen Verfahren auf der Grundlage des Steuerungsregisters.
 
-
-## § 13 – Erhebungsmerkmale und Hilfsmerkmale der Haushaltebefragung auf Stichprobenbasis
+# § 13 – Erhebungsmerkmale und Hilfsmerkmale der Haushaltebefragung auf Stichprobenbasis
 
 (1) Erhebungsmerkmale sind:
 
@@ -403,13 +385,11 @@ Bei Nichterreichen der angestrebten Präzisionsziele sind nachträgliche erneute
 
 4. Kontaktdaten der Auskunftspflichtigen oder einer anderen für Rückfragen zur Verfügung stehenden Person.
 
-
-## § 14 – Umfang und Zuständigkeiten bei den Erhebungen an Anschriften mit Sonderbereichen
+# § 14 – Umfang und Zuständigkeiten bei den Erhebungen an Anschriften mit Sonderbereichen
 
 Die statistischen Ämter der Länder stellen für alle Anschriften mit Sonderbereichen die dort wohnenden Personen fest. Für die Liegenschaften der Bundespolizei mit Unterkunft und die Kasernen der Bundeswehr erfolgt die hierfür erforderliche Datenlieferung an das Statistische Bundesamt.
 
-
-## § 15 – Erhebungsmerkmale der Erhebungen an Anschriften mit Sonderbereichen
+# § 15 – Erhebungsmerkmale der Erhebungen an Anschriften mit Sonderbereichen
 
 (1) Für jede an einer Anschrift mit Sonderbereichen wohnende Person werden Daten zu folgenden Erhebungsmerkmalen erhoben:
 
@@ -427,8 +407,7 @@ Die statistischen Ämter der Länder stellen für alle Anschriften mit Sonderber
 
 (2) Für Personen an Anschriften mit Sonderbereichen, die nicht in einer Gemeinschaftsunterkunft wohnen, werden zusätzlich die Anzahl der Personen im Haushalt und der Wohnungsstatus erhoben.
 
-
-## § 16 – Hilfsmerkmale der Erhebungen an Anschriften mit Sonderbereichen
+# § 16 – Hilfsmerkmale der Erhebungen an Anschriften mit Sonderbereichen
 
 (1) Für jede an einer Anschrift mit Sonderbereichen wohnende Person werden Daten zu folgenden Hilfsmerkmalen erhoben:
 
@@ -442,20 +421,17 @@ Die statistischen Ämter der Länder stellen für alle Anschriften mit Sonderber
 
 (2) Für Personen an Anschriften mit Sonderbereichen, die nicht in einer Gemeinschaftsunterkunft wohnen, wird zusätzlich die Lage der Wohnung im Gebäude erfasst.
 
-
-## § 17 – Durchführung der Haushaltebefragung auf Stichprobenbasis bei Anschriften mit Sonderbereichen
+# § 17 – Durchführung der Haushaltebefragung auf Stichprobenbasis bei Anschriften mit Sonderbereichen
 
 (1) An Anschriften mit Sonderbereichen mit Gemeinschaftsunterkünften darf keine Haushaltsstichprobe nach § 11 durchgeführt werden. Aus den Anschriften mit Sonderbereichen, an denen keine Gemeinschaftsunterkünfte bestehen, wird eine Stichprobe gezogen, die maximal 8 Prozent der dort wohnenden Personen erfasst. Maßgeblich für die Auswahleinheiten ist das Steuerungsregister nach § 3 des Zensusvorbereitungsgesetzes 2022 zum Stand nach Abschluss der Aktualisierung nach § 5 Absatz 2 Nummer 1a.
 
 (2) Die Personen, die an den nach Absatz 1 Satz 2 und 3 ausgewählten Anschriften wohnhaft sind, werden zu den Erhebungsmerkmalen nach § 13 Absatz 1 Nummer 6, 7, 10 bis 18 sowie zu dem Hilfsmerkmal nach § 13 Absatz 2 Nummer 4 befragt.
 
-
-## § 18 – Durchführung der Gebäude- und Wohnungszählung bei Anschriften mit Sonderbereichen
+# § 18 – Durchführung der Gebäude- und Wohnungszählung bei Anschriften mit Sonderbereichen
 
 An Anschriften mit reinen Gemeinschaftsunterkünften darf keine Gebäude- und Wohnungszählung nach § 9 durchgeführt werden.
 
-
-## § 19 – Weitere Erhebungsstellen
+# § 19 – Weitere Erhebungsstellen
 
 (1) Zur Durchführung der Erhebungen nach den §§ 9, 11, 14, 22, 24 Absatz 4 und § 29 Absatz 1 Satz 3 können die Länder neben den statistischen Ämtern der Länder weitere Erhebungsstellen einrichten. Diesen Erhebungsstellen können auch Aufgaben übertragen werden, die nach diesem Gesetz von den statistischen Ämtern der Länder zu erfüllen sind.
 
@@ -463,8 +439,7 @@ An Anschriften mit reinen Gemeinschaftsunterkünften darf keine Gebäude- und Wo
 
 (3) Die in diesen Erhebungsstellen tätigen Personen sind schriftlich zu verpflichten, das Statistikgeheimnis zu wahren und auch solche Erkenntnisse über Auskunftspflichtige geheim zu halten, die gelegentlich ihrer Tätigkeit gewonnen werden. Die Verpflichtung gilt auch nach Beendigung der Tätigkeit in den Erhebungsstellen.
 
-
-## § 20 – Erhebungsbeauftragte
+# § 20 – Erhebungsbeauftragte
 
 (1) Für die Erhebungen können Erhebungsbeauftragte eingesetzt werden. Sie sind von den Erhebungsstellen auszuwählen und zu bestellen. Erhebungsbeauftragte dürfen nicht in der unmittelbaren Nähe ihrer Wohnung eingesetzt werden.
 
@@ -486,8 +461,7 @@ An Anschriften mit reinen Gemeinschaftsunterkünften darf keine Gebäude- und Wo
 
 (5) Die Erhebungsbeauftragten sind verpflichtet, alle Unterlagen, die sie in Ausführung ihrer Tätigkeit erhaltenen haben, unverzüglich den Erhebungsstellen auszuhändigen, sobald sie die Unterlagen nicht mehr für die Wahrnehmung ihrer Aufgaben benötigen.
 
-
-## § 21 – Mehrfachfallprüfung
+# § 21 – Mehrfachfallprüfung
 
 (1) Das Statistische Bundesamt prüft anhand der nach § 5 Absatz 2 Nummer 1a, 3 und 4 übermittelten Daten, ob Personen für mehr als eine alleinige Wohnung oder Hauptwohnung oder nur für Nebenwohnungen gemeldet sind, und bereinigt die Daten erforderlichenfalls.
 
@@ -497,8 +471,7 @@ An Anschriften mit reinen Gemeinschaftsunterkünften darf keine Gebäude- und Wo
 
 (4) Eine Rückmeldung an die Meldebehörden ist unzulässig.
 
-
-## § 22 – Wiederholungsbefragungen zur Qualitätsbewertung
+# § 22 – Wiederholungsbefragungen zur Qualitätsbewertung
 
 (1) Zur Prüfung der Qualität der in der Haushaltsstichprobe und den Erhebungen an Anschriften mit Sonderbereichen ermittelten Einwohnerzahl sind repräsentative Wiederholungsbefragungen durch das zuständige statistische Landesamt durchzuführen. Auswahleinheiten sind die nach § 12 ausgewählten Anschriften und die nach § 14 erfassten Anschriften mit Sonderbereichen, an denen keine Gemeinschaftsunterkünfte bestehen. Es ist ein Auswahlsatz von höchstens 4 Prozent der an den nach § 12 ausgewählten Anschriften und den nach § 14 erfassten Wohnheime wohnenden Personen zugrunde zu legen.
 
@@ -520,15 +493,13 @@ b) Tag der Geburt ohne Monats- und Jahresangabe,
 
 c) Anschrift der Wohnung und Lage der Wohnung im Gebäude.
 
-
-## § 23 – Auskunftspflicht und Form der Auskunftserteilung
+# § 23 – Auskunftspflicht und Form der Auskunftserteilung
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Auskunftserteilung erfolgt grundsätzlich elektronisch. Bei elektronischer Auskunftserteilung sind die Angaben über das den Auskunftspflichtigen zur Verfügung gestellte Verfahren zu erteilen. § 11a des Bundesstatistikgesetzes bleibt unberührt. Im Fall der schriftlichen Auskunftserteilung können die ausgefüllten Erhebungsvordrucke gebührenfrei übersendet werden, wenn sie sich in amtlichen hierfür vorgesehenen Umschlägen befinden. Bei Inanspruchnahme einer besonderen Versendungsform hat der Absender den die jeweils gültige Briefgebühr übersteigenden Betrag zu tragen.
 
 (2) Soweit in diesem Gesetz eine Auskunftspflicht über Daten anderer Personen angeordnet ist, erstreckt sich diese nur auf Daten, die der auskunftspflichtigen Person bekannt sind.
 
-
-## § 24 – Auskunftspflichtige für die Gebäude- und Wohnungszählung
+# § 24 – Auskunftspflichtige für die Gebäude- und Wohnungszählung
 
 (1) Auskunftspflichtig für die Erhebung nach § 9 sind die Eigentümerinnen und Eigentümer, die Verwalterinnen und Verwalter sowie die sonstigen Verfügungs- und Nutzungsberechtigten der Gebäude oder Wohnungen. Als Eigentümerinnen und Eigentümer gelten auch die Personen, denen die Gebäude und Wohnungen nach § 39 Absatz 2 der Abgabenordnung wirtschaftlich zuzurechnen sind.
 
@@ -538,8 +509,7 @@ c) Anschrift der Wohnung und Lage der Wohnung im Gebäude.
 
 (4) Im Falle von Antwortausfällen dürfen ersatzweise die Bewohnerinnen und Bewohner des Gebäudes oder der Wohnung befragt werden. Unbeschadet der Absätze 1 bis 3 sind die in Satz 1 genannten Personen nicht auskunftspflichtig.
 
-
-## § 25 – Auskunftspflichtige für die Haushaltebefragung auf Stichprobenbasis
+# § 25 – Auskunftspflichtige für die Haushaltebefragung auf Stichprobenbasis
 
 (1) Auskunftspflichtig für die Haushaltsstichprobe nach § 11 und die Wiederholungsbefragungen nach § 22 sind alle Volljährigen und alle einen eigenen Haushalt führenden Minderjährigen. Sie sind jeweils auch auskunftspflichtig für minderjährige Haushaltsmitglieder, die unter den ausgewählten Anschriften wohnen.
 
@@ -554,8 +524,7 @@ c) Anschrift der Wohnung und Lage der Wohnung im Gebäude.
 (+++ § 25 Abs. 4: Zur Geltung vgl. § 26 Abs. 1 Satz 2  
 § 25 Abs. 5 Satz 3: Zur Geltung vgl. § 26 Abs. 3 Satz 2 +++)
 
-
-## § 26 – Auskunftspflichtige für die Erhebungen an Anschriften mit Sonderbereichen
+# § 26 – Auskunftspflichtige für die Erhebungen an Anschriften mit Sonderbereichen
 
 (1) Personen an Anschriften mit Sonderbereichen, die nicht in einer Gemeinschaftsunterkunft wohnen, sind entsprechend § 25 Absatz 1 bis 3 auskunftspflichtig. § 25 Absatz 4 gilt entsprechend.
 
@@ -565,13 +534,11 @@ c) Anschrift der Wohnung und Lage der Wohnung im Gebäude.
 
 (4) Für Personen in Gemeinschaftsunterkünften ist die Leitung der Einrichtung auskunftspflichtig.
 
-
-## § 27 – Datenschutzrechtliche Verantwortlichkeit
+# § 27 – Datenschutzrechtliche Verantwortlichkeit
 
 Datenschutzrechtlich Verantwortlicher für die Verarbeitung der zentral gespeicherten Daten ist das nach den Vorschriften dieses Gesetzes sowie nach den §§ 2 und 3 des Zensusvorbereitungsgesetzes 2022 für die Datenverarbeitung zuständige statistische Amt. Es hat insbesondere zu gewährleisten, dass die anderen statistischen Ämter ausschließlich zur Erfüllung ihrer Aufgaben nach diesem Gesetz und dem Zensusvorbereitungsgesetz 2022 im dort definierten Umfang auf die Daten zugreifen können. Die Verantwortung für die Zulässigkeit des Abrufs im automatisierten Verfahren trägt der Empfänger.
 
-
-## § 28 – Befugnisse zur Verarbeitung der zentral gespeicherten Daten
+# § 28 – Befugnisse zur Verarbeitung der zentral gespeicherten Daten
 
 Soweit dies zur Erfüllung der in diesem Gesetz und im Zensusvorbereitungsgesetz 2022 festgelegten Aufgaben erforderlich ist, dürfen die statistischen Ämter des Bundes und der Länder folgende Datensätze und Angaben, die auch personenbezogene Daten enthalten, verarbeiten:
 
@@ -587,8 +554,7 @@ Soweit dies zur Erfüllung der in diesem Gesetz und im Zensusvorbereitungsgesetz
 
 6. die Ergebnisse aus der Mehrfachfallprüfung nach § 21.
 
-
-## § 29 – Aufgaben des Statistischen Bundesamts bei der Verarbeitung der Daten nach § 28
+# § 29 – Aufgaben des Statistischen Bundesamts bei der Verarbeitung der Daten nach § 28
 
 (1) Das Statistische Bundesamt gleicht die Daten nach § 28 im Benehmen mit den statistischen Ämtern der Länder ab und prüft sie erhebungsteilübergreifend. Hierbei festgestellte Unstimmigkeiten werden vom Statistischen Bundesamt nach den im Zusammenwirken mit den statistischen Ämtern der Länder erstellten Regeln aufgeklärt und vom Statistischen Bundesamt gegebenenfalls maschinell korrigiert. Sofern hierfür manuelle Abgleiche oder gezielte Nacherhebungen der nicht plausiblen Erhebungseinheiten erforderlich sind, nehmen die statistischen Ämter der Länder diese für ihren jeweiligen Zuständigkeitsbereich vor und sind insoweit datenschutzrechtlich verantwortlich im Sinne des § 27.
 
@@ -596,13 +562,11 @@ Soweit dies zur Erfüllung der in diesem Gesetz und im Zensusvorbereitungsgesetz
 
 (3) Zum Zwecke der Erstellung von Qualitätsberichten gleicht das Statistische Bundesamt die Ergebnisse der Wiederholungsbefragungen nach § 22 mit den Daten nach § 28 ab.
 
-
-## § 30 – Verarbeitung der Hilfsmerkmale zur Merkmalsgenerierung
+# § 30 – Verarbeitung der Hilfsmerkmale zur Merkmalsgenerierung
 
 Die Hilfsmerkmale nach den §§ 6, 10 Absatz 2, § 13 Absatz 2 und § 16 dürfen verwendet werden, um neue Merkmale zu Typ und Größe der Familie und des Haushalts zu generieren und zu speichern.
 
-
-## § 31 – Trennung und Löschung der Hilfsmerkmale
+# § 31 – Trennung und Löschung der Hilfsmerkmale
 
 (1) Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren oder gesondert zu speichern. Sie sind, soweit sich nicht aus § 32 Absatz 2 und § 33 etwas anderes ergibt, zu löschen, sobald bei den statistischen Ämtern die Überprüfung der Erhebungs- und Hilfsmerkmale auf ihre Schlüssigkeit und Vollständigkeit und die Merkmalsgenerierung nach § 30 abgeschlossen sind. Sie sind spätestens vier Jahre nach dem Zensusstichtag zu löschen.
 
@@ -610,37 +574,31 @@ Die Hilfsmerkmale nach den §§ 6, 10 Absatz 2, § 13 Absatz 2 und § 16 dürfen
 
 (3) Die Erhebungsunterlagen sind nach Abschluss der Aufbereitung des Zensus, spätestens vier Jahre nach dem Zensusstichtag, zu vernichten.
 
-
-## § 32 – Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
+# § 32 – Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen die statistischen Ämter des Bundes und der Länder den obersten Bundes- oder Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 (2) Für ausschließlich kommunalstatistische Zwecke dürfen die statistischen Ämter des Bundes und der Länder den für statistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände (Statistikstellen) auf Ersuchen für deren Zuständigkeitsbereich Einzelangaben zu den Erhebungsmerkmalen sowie zu den Hilfsmerkmalen „Straße“ und „Hausnummer“ oder nach Blockseiten zusammengefasste Einzelangaben übermitteln. Die Übermittlung ist nur zulässig, wenn das Statistikgeheimnis durch gesetzlich vorgeschriebene Maßnahmen, insbesondere zur räumlichen, organisatorischen und personellen Trennung der Statistikstellen von den für nichtstatistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, gewährleistet ist. Die Hilfsmerkmale sind zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach Übermittlung, zu löschen.
 
-
-## § 33 – Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
+# § 33 – Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
 
 (1) Als Grundlage für Gebäude-, Wohnungs- und Bevölkerungsstichproben, die als Bundes- oder Landesstatistiken durchgeführt werden, dürfen die statistischen Ämter des Bundes und der Länder die Zahl der Wohnungen und Personen, getrennt nach Wohnungsstatus, die Art des Sonderbereichs, die Anschrift des Gebäudes oder der Unterkunft sowie deren Geokoordinaten zur Ermittlung von Auswahlbezirken im Geltungsbereich dieses Gesetzes nach mathematischen Zufallsverfahren nutzen. Diese Daten sind gesondert aufzubewahren. Die Auswahlbezirke für die Stichproben werden auf 20 Prozent begrenzt. Die Daten für diese Auswahlbezirke sind unverzüglich nach Zweckerfüllung zu löschen, spätestens am 31. Dezember des Folgejahres, in dem entsprechende Auswahlgrundlagen aus einer künftigen Zählung zur Verfügung stehen. Die Daten für die nicht benötigten 80 Prozent der Auswahlbezirke sind unverzüglich nach Festlegung der Auswahlbezirke nach Satz 3, spätestens vier Jahre nach dem Zensusstichtag, zu löschen.
 
 (2) Als Grundlage für Stichproben für Mietpreise dürfen die statistischen Ämter des Bundes und der Länder die Daten zu den Merkmalen nach § 10 Absatz 1 Nummer 1 und 2 in Verbindung mit den Daten zu den Merkmalen nach § 4 Nummer 1 bis 6 und 8, § 5 Nummer 1 und 5 bis 8 und § 7 des Zensusvorbereitungsgesetzes 2022 zur Ermittlung von Auswahleinheiten im Geltungsbereich dieses Gesetzes nach mathematisch-statistischen Verfahren nutzen. Diese Daten sind gesondert aufzubewahren. Die Auswahleinheiten des vorliegenden Gesetzes, die als Grundlage für die Ziehung der Mietenstichprobe gespeichert werden dürfen, werden auf 60 000 begrenzt. Die Daten für die Auswahleinheiten sind unverzüglich nach Zweckerfüllung zu löschen, spätestens zu dem Zeitpunkt, zu dem entsprechende Auswahlgrundlagen aus einer künftigen Zählung zur Verfügung stehen.
 
-
-## § 34 – Bereitstellung der Zensusdaten für die statistischen Ämter der Länder
+# § 34 – Bereitstellung der Zensusdaten für die statistischen Ämter der Länder
 
 Nach Abschluss aller Aufbereitungsschritte ist das Statistische Bundesamt verpflichtet, auf Anfrage eines statistischen Landesamts für dessen Zuständigkeitsbereich eine Kopie der Zensusdaten aus der Auswertungsdatenbank sowie eine Kopie der Daten zu den Merkmalen nach § 4 Nummer 4 bis 6 des Zensusvorbereitungsgesetzes 2022 aus den zentral im Statistischen Bundesamt gespeicherten Daten für ausschließlich statistische Zwecke des Landes im Rahmen des § 1 Absatz 3 Nummer 3 zu übermitteln. Es gilt die Löschungsfrist nach § 16 Absatz 1 des Zensusvorbereitungsgesetzes 2022.
 
-
-## § 35 – Kosten der Übermittlungen an das Statistische Bundesamt
+# § 35 – Kosten der Übermittlungen an das Statistische Bundesamt
 
 Die Kosten der Datenübermittlungen an das Statistische Bundesamt werden nicht erstattet.
 
-
-## § 36 – Finanzzuweisung
+# § 36 – Finanzzuweisung
 
 Der Bund gewährt den Ländern zum Ausgleich der Kosten der Vorbereitung und der Durchführung des registergestützten Zensus am 1. Juli 2021 sowie am 1. Juli 2022 jeweils eine Finanzzuweisung in Höhe von 150 Millionen Euro. Die Verteilung der Finanzzuweisung erfolgt nach dem jeweiligen Aufwand der Länder; sie ist im Rahmen einer Verwaltungsvereinbarung zwischen den Ländern bis spätestens 31. März 2020 festzulegen.
 
-
-## § 36a – Verordnungsermächtigung
+# § 36a – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -660,7 +618,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 soweit dies erforderlich ist, um eine ordnungsgemäße Durchführung des Zensus 2022 zu gewährleisten.
 
-
-## § 37 – Inkrafttreten
+# § 37 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

@@ -1,27 +1,21 @@
-# [VBD] Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehinderte Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz  (Verordnung über barrierefreie Dokumente in der Bundesverwaltung - VBD)
-
-Ausfertigungsdatum: 17.07.2002
-
+% Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehinderte Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz  (Verordnung über barrierefreie Dokumente in der Bundesverwaltung - VBD)
+% Ausfertigungsdatum: 17.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Verordnung gilt für alle blinden Menschen und Menschen mit anderen Sehbehinderungen nach Maßgabe des § 3 des Behindertengleichstellungsgesetzes, die als Beteiligte eines Verwaltungsverfahrens zur Wahrnehmung eigener Rechte einen Anspruch darauf haben, dass ihnen Dokumente in einer für sie wahrnehmbaren Form zugänglich gemacht werden (Berechtigte).
 
 (2) Die Berechtigten können ihren Anspruch nach § 10 Absatz 1 Satz 2 des Behindertengleichstellungsgesetzes gegenüber jedem Träger öffentlicher Gewalt im Sinne des § 1 Absatz 2 Satz 1 des Behindertengleichstellungsgesetzes geltend machen.
 
-
-## § 2 – Gegenstand der Zugänglichmachung
+# § 2 – Gegenstand der Zugänglichmachung
 
 Der Anspruch nach § 10 Absatz 1 Satz 2 des Behindertengleichstellungsgesetzes umfasst Bescheide, öffentlich-rechtliche Verträge und Vordrucke (Dokumente), einschließlich der Anlagen, die die Dokumente in Bezug nehmen.
 
-
-## § 3 – Formen der Zugänglichmachung
+# § 3 – Formen der Zugänglichmachung
 
 (1) Die Dokumente können den Berechtigten schriftlich, elektronisch, akustisch, mündlich oder in sonstiger Weise zugänglich gemacht werden.
 
@@ -29,13 +23,11 @@ Der Anspruch nach § 10 Absatz 1 Satz 2 des Behindertengleichstellungsgesetzes u
 
 (3) Werden Dokumente auf elektronischem Wege zugänglich gemacht, sind die Standards der Barrierefreie Informationstechnik-Verordnung maßgebend.
 
-
-## § 4 – Bekanntgabe
+# § 4 – Bekanntgabe
 
 Die Dokumente sollen den Berechtigten, soweit möglich, gleichzeitig mit der Bekanntgabe auch in der für sie wahrnehmbaren Form zugänglich gemacht werden.
 
-
-## § 5 – Umfang des Anspruchs
+# § 5 – Umfang des Anspruchs
 
 (1) Berechtigte haben zur Wahrnehmung eigener Rechte im Verwaltungsverfahren einen Anspruch darauf, dass ihnen Dokumente in einer für sie wahrnehmbaren Form zugänglich gemacht werden. Dabei ist insbesondere der individuelle Bedarf der Berechtigten zu berücksichtigen.
 
@@ -43,8 +35,7 @@ Die Dokumente sollen den Berechtigten, soweit möglich, gleichzeitig mit der Bek
 
 (3) Erhält der Träger öffentlicher Gewalt Kenntnis von der Blindheit oder einer anderen Sehbehinderung von Berechtigten im Verwaltungsverfahren, hat er diese auf ihr Recht, dass ihnen Dokumente in einer für sie wahrnehmbaren Form zugänglich gemacht werden, und auf ihr Wahlrecht nach Absatz 2 Satz 1 hinzuweisen.
 
-
-## § 6 – Organisation und Kosten
+# § 6 – Organisation und Kosten
 
 (1) Die Dokumente können den Berechtigten durch den Träger öffentlicher Gewalt selbst, durch eine andere Behörde oder durch eine Beauftragung Dritter in einer für sie wahrnehmbaren Form zugänglich gemacht werden.
 

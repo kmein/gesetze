@@ -1,20 +1,15 @@
-# [UVSV] Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter Strahlung   (UV-Schutz-Verordnung - UVSV)
-
-Ausfertigungsdatum: 20.07.2011
-
+% Verordnung zum Schutz vor schädlichen Wirkungen künstlicher ultravioletter Strahlung   (UV-Schutz-Verordnung - UVSV)
+% Ausfertigungsdatum: 20.07.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 3 und 5 Absatz 2 des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen vom 29. Juli 2009 (BGBl. I S. 2433) verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für den Betrieb von UV-Bestrahlungsgeräten, die zu kosmetischen Zwecken oder für sonstige Anwendungen am Menschen außerhalb der Heil- oder Zahnheilkunde gewerblich oder im Rahmen sonstiger wirtschaftlicher Unternehmungen eingesetzt werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -34,7 +29,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 |     |                                                    |     |
 |:----|:---------------------------------------------------|:----|
-|     | ![](../normengrafiken/bgbl1_2011/j1412-1_0010.jpg) |     |
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1412-1_0010.jpg) |     |
 
   
 
@@ -44,7 +39,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 |     |                                                    |     |
 |:----|:---------------------------------------------------|:----|
-|     | ![](../normengrafiken/bgbl1_2011/j1412-1_0020.jpg) |     |
+|     | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1412-1_0020.jpg) |     |
 
   
 
@@ -54,8 +49,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 10. „Höchstbestrahlungsdauer“ ist die Bestrahlungsdauer, die bei gegebener erythemwirksamer Bestrahlungsstärke eines UV-Bestrahlungsgerätes bei nicht vorbestrahlter Haut ein gerade noch erkennbares UV-Erythem hervorruft; sie ist der Quotient aus der erythemwirksamen Schwellenbestrahlung des jeweiligen Hauttyps und der erythemwirksamen Bestrahlungsstärke des UV-Bestrahlungsgerätes.
 
-
-## § 3 – Anforderungen an den Betrieb von UV-Bestrahlungsgeräten
+# § 3 – Anforderungen an den Betrieb von UV-Bestrahlungsgeräten
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
 
@@ -81,8 +75,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 (3) Wer ein UV-Bestrahlungsgerät betreibt, hat der zuständigen Behörde auf Verlangen nachzuweisen, dass die Anforderungen nach den Absätzen 1 und 2 erfüllt sind.
 
-
-## § 4 – Einsatz, Aufgaben und Qualifikation des Fachpersonals
+# § 4 – Einsatz, Aufgaben und Qualifikation des Fachpersonals
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
 
@@ -110,8 +103,7 @@ Es ist ausreichend, die Angebote nach Satz 1 Nummer 2 bis 4 zu Beginn einer Best
 
 (4) Als Fachpersonal ist qualifiziert, wer an einer Schulung nach § 5 Absatz 1 teilgenommen hat und mindestens alle fünf Jahre an einer Fortbildung nach § 5 Absatz 2 teilnimmt. Fachpersonal, das länger als fünf Jahre nicht an einer Fortbildung nach § 5 Absatz 2 teilgenommen hat, kann nicht mehr als Fachpersonal nach Satz 1 tätig werden, bis es an einer Fortbildung nach § 5 Absatz 2 teilgenommen hat. Als Fachpersonal gilt auch das Personal mit vergleichbaren Qualifikationen aus anderen EU- und EWR-Staaten gemäß § 6.
 
-
-## § 5 – Schulung, Fortbildung
+# § 5 – Schulung, Fortbildung
 
 (1) Die Schulung zum Fachpersonal muss zumindest die in Anlage 6 aufgeführten fachlichen Kenntnisse für einen sicheren Umgang mit UV-Bestrahlungsgeräten sowie Kenntnisse in den allgemeinen Wirkungen von UV-Strahlung auf den Menschen und für die Einschätzung des individuellen Risikos von UV-Strahlung vermitteln. Die Schulungsdauer beträgt mindestens zwölf Stunden.
 
@@ -131,8 +123,7 @@ Die Akkreditierung gilt für maximal fünf Jahre für das gesamte Bundesgebiet. 
 
 (+++ § 5: Zum amtlichen Hinweis des Normgebers auf EG-Recht vgl. Überschrift V v. 20.7.2011 I 1412 +++)
 
-
-## § 6 – Gleichwertigkeit vergleichbarer Qualifikationen aus anderen EU- und EWR-Staaten
+# § 6 – Gleichwertigkeit vergleichbarer Qualifikationen aus anderen EU- und EWR-Staaten
 
 (1) Als der Teilnahme an einer Schulung nach § 5 Absatz 1 oder einer Fortbildung nach § 5 Absatz 2 gleichwertige Qualifikationen gelten Schulungs-, Befähigungs- und Ausbildungsnachweise, die von einer zuständigen Behörde eines anderen Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden sind und
 
@@ -148,8 +139,7 @@ Nachweisen nach Satz 1 gleichgestellt sind Nachweise, die in einem Drittstaat au
 
 (+++ § 6: Zum amtlichen Hinweis des Normgebers auf EG-Recht vgl. Überschrift V v. 20.7.2011 I 1412 +++)
 
-
-## § 7 – Informationspflichten
+# § 7 – Informationspflichten
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat die Hinweise nach Anlage 7 so auszuhängen, dass sie für die Nutzerinnen und Nutzer deutlich sicht- und lesbar sind.
 
@@ -165,8 +155,7 @@ Ist es auf Grund der Beschaffenheit des UV-Bestrahlungsgerätes nicht möglich, 
 
 (4) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass den Nutzerinnen und Nutzern eine Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung zur Mitnahme angeboten wird, deren Inhalt sich aus Anlage 8 ergibt.
 
-
-## § 8 – Dokumentationspflichten
+# § 8 – Dokumentationspflichten
 
 (1) Wer ein UV-Bestrahlungsgerät betreibt, hat für das UV-Bestrahlungsgerät fortlaufend ein Geräte- und Betriebsbuch zu führen. Das Geräte- und Betriebsbuch muss zumindest die in Anlage 4 genannten Informationen enthalten. Das Geräte- und Betriebsbuch ist nach der letzten Nutzung des UV-Bestrahlungsgerätes drei Jahre aufzubewahren. Die Unterlagen sind vor unbefugtem Zugriff zu schützen.
 
@@ -176,13 +165,11 @@ Ist es auf Grund der Beschaffenheit des UV-Bestrahlungsgerätes nicht möglich, 
 
 (4) Die zuständige Behörde kann zur Überwachung der Dokumentationspflichten die nach den Absätzen 1 bis 3 dokumentierten Aufzeichnungen überprüfen.
 
-
-## § 9 – Hinweis auf Bußgeldvorschriften des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen
+# § 9 – Hinweis auf Bußgeldvorschriften des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen
 
 Zuwiderhandlungen gegen § 3 des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen in Verbindung mit § 3 Absatz 1 oder Absatz 2, § 4 Absatz 1, § 7 oder § 8 Absatz 1 oder Absatz 2 dieser Verordnung können nach § 8 Absatz 1 Nummer 3 des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen geahndet werden.
 
-
-## § 10 – Übergangsvorschrift
+# § 10 – Übergangsvorschrift
 
 (1) UV-Bestrahlungsgeräte, die vor dem 1. Januar 2012 bereits betrieben werden und die Anforderungen nach § 3 Absatz 1 und 2 nicht erfüllen, dürfen ab dem 1. August 2012 zu kosmetischen Zwecken oder für sonstige Anwendungen am Menschen außerhalb der Heil- oder Zahnheilkunde nicht weiter betrieben werden.
 
@@ -190,20 +177,17 @@ Zuwiderhandlungen gegen § 3 des Gesetzes zum Schutz vor nichtionisierender Stra
 
 (2) Wer ein Zertifikat über seine fachliche Qualifikation von der Akademie für Besonnung e. V. erhalten hat, gilt als Fachpersonal im Sinne von § 4 Absatz 4, wenn das Zertifikat nicht vor mehr als fünf Jahren vor Inkrafttreten der Verordnung und nicht nach dem 15. August 2010 ausgestellt worden ist. Der Inhaber eines Zertifikats nach Satz 1 muss an einer Fortbildungsveranstaltung teilnehmen, sobald das Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. Januar 2012 in Kraft.
 
 (2) § 4 Absatz 1 tritt am 1. November 2012 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
+# Anlage 1 – (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
 
 (Fundstelle: BGBl. I 2011, 1416 - 1418)
 
@@ -218,11 +202,9 @@ Die folgenden 10 Fragen sind dazu geeignet, die Hauttypen I bis IV zu bestimmen.
 
 Die folgenden Fragen sind so genau wie möglich zu beantworten:
 
-Name: .............................................................. Alter ≥ 18 Jahre: Ja ............  
-  
+Name: .............................................................. Alter ≥ 18 Jahre: Ja ............   
 
-Unterschrift: ................................... Datum: ............................  
-  
+Unterschrift: ................................... Datum: ............................   
 
 Erläuterung:
 
@@ -236,8 +218,7 @@ Dabei ist zu bedenken, dass es sich hierbei nur um eine sehr grobe Einschätzung
 
 Können eine oder mehrere Fragen nicht beantwortet werden, wird empfohlen, zur Bestimmung des Hauttyps für diese Fragen die Punktzahl 1 zu vergeben.
 
-
-## Anlage 2 – (zu § 2 Nummer 6)
+# Anlage 2 – (zu § 2 Nummer 6)
 
 (Fundstelle: BGBl. I 2011, 1419)
 
@@ -249,15 +230,13 @@ Wichtungsfaktoren zur Ermittlung der erythemwirksamen Bestrahlungsstärke von UV
 | 298 ≤ λ ≤ 328       | 100,094\ (298\ –\ λ)</sup> |
 | 328 &lt; λ ≤ 400    | 100,015\ (140\ –\ λ)</sup> |
 
-
-## Anlage 3 – (zu § 3 Absatz 2 Nummer 1)UV-Schutzbrillen
+# Anlage 3 – (zu § 3 Absatz 2 Nummer 1)UV-Schutzbrillen
 
 (Fundstelle: BGBl. I 2011, 1419 )
 
 Die Filter der UV-Schutzbrillen müssen die Anforderungen der Schutzstufe 2-5 nach DIN EN 170, Ausgabe Januar 2003 (über die VDE Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt), erfüllen.
 
-
-## Anlage 4 – (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)Geräte- und Betriebsbuch
+# Anlage 4 – (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)Geräte- und Betriebsbuch
 
 (Fundstelle: BGBl. I 2011, 1420 - 1422)
 
@@ -398,8 +377,7 @@ Stand des Betriebsstundenzählers: .........................................
 Äquivalenzbescheinigungen sind dem Geräte- und Betriebsbuch als Anlage beizufügen.
 
 Wenn bei Äquivalenzbescheinigung „nein“ angegeben wurde: Von welchem Bautyp sind diese optischen Bauteile?  
-.......................................................................... ...........................  
-  
+.......................................................................... ...........................   
 Sie sind nicht gleichartig mit den Original-Bauteilen. Durch den Austausch mit nicht gleichartigen Bauteilen ergeben sich folgende Änderungen der Eigenschaften des UV-Bestrahlungsgerätes:  
 .......................................................................... ..............................
 
@@ -436,8 +414,7 @@ Bei Verwendung von EDV-Ausdrucken ist der Inhalt der zutreffenden Seiten zu übe
 
 Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 
-
-## Anlage 5 – (zu § 4 Absatz 1 bis 3)Dosierungsplan
+# Anlage 5 – (zu § 4 Absatz 1 bis 3)Dosierungsplan
 
 (Fundstelle: BGBl. I 2011, 1423)
 
@@ -511,8 +488,7 @@ Einhalten der Abfolge der im Dosierungsplan festgelegten Einzelbestrahlungen.
 –  
 Bei Auftreten eines UV-Erythems oder anderer anormaler Hautreaktionen: sofortiger Abbruch der Bestrahlungsserie und ärztliche Abklärung.
 
-
-## Anlage 6 – (zu § 5 Absatz 1 Satz 1)Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
+# Anlage 6 – (zu § 5 Absatz 1 Satz 1)Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
 
 (Fundstelle: BGBl. I 2011, 1424 - 1425)
 
@@ -637,8 +613,7 @@ Erwartungen an die Teilnahme an einer Schulung:
 
 Die Teilnehmerinnen und Teilnehmer der Schulung sollen fähig sein, das erworbene Wissen mit eigenen Worten wiederzugeben, eigenständig ein fachlich korrektes Beratungsgespräch zu führen und auf Kundenfragen zur UV-Bestrahlung und zu den damit verbundenen gesundheitlichen Risiken zu antworten.
 
-
-## Anlage 7 – (zu § 7 Absatz 1)Hinweise im Geschäftsraum und in der Kabine
+# Anlage 7 – (zu § 7 Absatz 1)Hinweise im Geschäftsraum und in der Kabine
 
 (Fundstelle: BGBl. I 2011, 1426)
 
@@ -734,8 +709,7 @@ Benutzen Sie das Solarium nicht, wenn Sie Beschädigungen am Gerät feststellen.
 
 Bei Bedarf/Bei Interesse können Sie gerne eine persönliche Beratung von unserem qualifizierten Fachpersonal erhalten.
 
-
-## Anlage 8 – (zu § 7 Absatz 4)Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
+# Anlage 8 – (zu § 7 Absatz 4)Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
 
 (Fundstelle: BGBl. I 2011, 1427 - 1428)
 

@@ -1,10 +1,7 @@
-# [Münz100EuroBek 2007] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
-
-Ausfertigungsdatum: 07.09.2007
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
+% Ausfertigungsdatum: 07.09.2007
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum Thema „UNESCO Welterbe — Hansestadt Lübeck“ eine Gedenkmünze zu 100 Euro aus Gold prägen zu lassen.
 
@@ -18,14 +15,12 @@ Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“
 
 Der Entwurf der Münze stammt von Herrn Bodo Broschat, Berlin.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle der Originalgrafik: BGBl. I 2007, 2298)  
 
-![](../normengrafiken/bgbl1_2007/j2298_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j2298_0010.jpg)

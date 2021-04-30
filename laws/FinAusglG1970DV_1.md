@@ -1,20 +1,15 @@
-# [FinAusglG1970DV 1] Erste Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen Bund und Ländern
-
-Ausfertigungsdatum: 30.01.1970
-
+% Erste Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen Bund und Ländern
+% Ausfertigungsdatum: 30.01.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 4 Nr. 1 und des § 14 Abs. 3 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern vom 28. August 1969 (Bundesgesetzbl. I S. 1432) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Ausgleich unterschiedlicher Einheitsbewertung
+# § 1 – Ausgleich unterschiedlicher Einheitsbewertung
 
 Zum Ausgleich der unterschiedlichen Einheitsbewertung des Grundbesitzes im Bundesgebiet werden die nach § 8 Abs. 2 und 3 des Gesetzes errechneten Steuerkraftzahlen der Grundsteuer von den Grundstücken im Lande Baden-Württemberg, im Regierungsbezirk Darmstadt des Landes Hessen und im Regierungsbezirk Rheinhessen des Landes Rheinland-Pfalz um 20 vom Hundert gekürzt. Die Kürzung entfällt von dem Ausgleichsjahr ab, für das die Einheitswerte der Hauptfeststellung 1964 bei der Errechnung der Steuerkraftmeßzahlen der Grundsteuer nach § 8 Abs. 2 des Gesetzes erstmals wirksam werden.
 
-
-## § 2 – Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 1970
+# § 2 – Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 1970
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs unter den Ländern im Ausgleichsjahr 1970 wird der Zahlungsverkehr nach § 14 Abs. 1 des Gesetzes in der Weise durchgeführt, daß die Ablieferung des Bundesanteils an der durch Landesfinanzbehörden verwalteten Umsatzsteuer auf die folgenden Hundertsätze erhöht oder vermindert wird:  
 
@@ -38,17 +33,14 @@ Zum Ausgleich der unterschiedlichen Einheitsbewertung des Grundbesitzes im Bunde
 
 (5) Auf den Länderanteil an der durch Bundesfinanzbehörden verwalteten Umsatzsteuer wird am 15. eines jeden Monats eine Abschlagszahlung auf der Grundlage des Aufkommens des Vormonats entrichtet. Im jeweils darauffolgenden Monat werden gleichzeitig die mit der Abschlagszahlung des Vormonats zu viel oder zu wenig gezahlten Beträge verrechnet. Für die Aufteilung auf die einzelnen Länder gilt die in § 13 Nr. 3 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern genannte Feststellung der Einwohnerzahlen.
 
-
-## § 3 – Geltung in Berlin
+# § 3 – Geltung in Berlin
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 19 des Gesetzes auch im Land Berlin.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1970 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen

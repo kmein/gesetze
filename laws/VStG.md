@@ -1,10 +1,7 @@
-# [VStG] Vermögensteuergesetz  (VStG)
-
-Ausfertigungsdatum: 17.04.1974
-
+% Vermögensteuergesetz  (VStG)
+% Ausfertigungsdatum: 17.04.1974
  
-
-## § 1 – Unbeschränkte Steuerpflicht
+# § 1 – Unbeschränkte Steuerpflicht
 
 (1) Unbeschränkt vermögensteuerpflichtig sind
 
@@ -40,8 +37,7 @@ sowie zu ihrem Haushalt gehörende Angehörige, die die deutsche Staatsangehöri
 
 § 1 Abs. 1 Nr. 2 Buchst. d: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 iVm Art. 9 Abs. 1, Art. 28 Abs. 1 Satz 2 GG unvereinbar und nichtig gem. BVerfGE v. 29.9.1998 I 3682 - 2 BvL 64/93 -
 
-
-## § 2 – Beschränkte Steuerpflicht
+# § 2 – Beschränkte Steuerpflicht
 
 (1) Beschränkt steuerpflichtig sind
 
@@ -53,8 +49,7 @@ sowie zu ihrem Haushalt gehörende Angehörige, die die deutsche Staatsangehöri
 
 (3) Abweichend von Absatz 2 erstreckt sich die beschränkte Steuerpflicht eines Steuerpflichtigen mit Wohnsitz oder gewöhnlichem Aufenthalt, Sitz oder Ort der Geschäftsleitung in einem ausländischen Staat nicht auf das inländische Betriebsvermögen, das dem Betrieb von eigenen oder gecharterten Seeschiffen oder Luftfahrzeugen eines Unternehmens dient, dessen Geschäftsleitung sich in dem ausländischen Staat befindet. Voraussetzung für die Steuerbefreiung ist, daß dieser ausländische Staat Steuerpflichtigen mit Wohnsitz oder gewöhnlichem Aufenthalt, Sitz oder Ort der Geschäftsleitung im Inland eine entsprechende Steuerbefreiung für derartiges Vermögen gewährt und daß das Bundesministerium für Verkehr, Bau- und Wohnungswesen die Steuerbefreiung für verkehrspolitisch unbedenklich erklärt hat.
 
-
-## § 3 – Befreiungen
+# § 3 – Befreiungen
 
 (1) Von der Vermögensteuer sind befreit
 
@@ -64,8 +59,7 @@ sowie zu ihrem Haushalt gehörende Angehörige, die die deutsche Staatsangehöri
 
 2. die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die Deutsche Ausgleichsbank, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Hessische Landesentwicklungs- und Treuhandgesellschaft mit beschränkter Haftung, die Niedersächsische Gesellschaft für öffentliche Finanzierungen mit beschränkter Haftung, die Finanzierungs-Aktiengesellschaft Rheinland-Pfalz, die Hanseatische Gesellschaft für öffentliche Finanzierungen mit beschränkter Haftung Bremen, die Landeskreditbank Baden-Württemberg-Förderungsanstalt, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin - Anstalt der Landesbank Berlin-Girozentrale -, die Hamburgische Wohnungsbaukreditanstalt, die Niedersächsische Landestreuhandstelle für den Wohnungs- und Städtebau, die Wohnungsbauförderungsanstalt Nordrhein-Westfalen - Anstalt der Westdeutschen Landesbank Girozentrale -, die Niedersächsische Landestreuhandstelle für Wirtschaftsförderung Norddeutsche Landesbank, die Landestreuhandstelle für Agrarförderung Norddeutsche Landesbank, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein - Zentralbereich der Landesbank Schleswig-Holstein Girozentrale -, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank, die Sächsische Aufbaubank GmbH, die Thüringer Aufbaubank, das Landesförderinstitut Sachsen-Anhalt - Geschäftsbereich der Norddeutschen Landesbank Girozentrale Mitteldeutsche Landesbank -, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale - und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
-2a.  
-die Staatsbank Berlin, die Treuhandanstalt;
+2a. die Staatsbank Berlin, die Treuhandanstalt;
 
 3. Unternehmen, die durch Staatsverträge verpflichtet sind, die Erträge ihres Vermögens zur Aufbringung der Mittel für die Errichtung von Bundeswasserstraßen zu verwenden, sowie Unternehmen, deren Erträge ganz oder teilweise einem solchen Unternehmen zufließen, solange und soweit das Vermögen der Unternehmen ausschließlich diesem Zweck dient; § 101 des Bewertungsgesetzes findet keine Anwendung;
 
@@ -79,13 +73,11 @@ b) den Religionsgesellschaften, die Körperschaften des öffentlichen Rechts sin
 
 6. kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 53 des Versicherungsaufsichtsgesetzes, wenn sie die für eine Befreiung von der Körperschaftsteuer erforderlichen Voraussetzungen erfüllen;
 
-6a.  
-der Pensions-Sicherungs-Verein Versicherungsverein auf Gegenseitigkeit, wenn er die für eine Befreiung von der Körperschaftsteuer erforderlichen Voraussetzungen erfüllt;
+6a. der Pensions-Sicherungs-Verein Versicherungsverein auf Gegenseitigkeit, wenn er die für eine Befreiung von der Körperschaftsteuer erforderlichen Voraussetzungen erfüllt;
 
 7. Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine im Sinne des § 5 Abs. 1 Nr. 14 des Körperschaftsteuergesetzes, soweit sie von der Körperschaftsteuer befreit sind. In den Fällen des Verzichts nach § 54 Abs. 5 Satz 1 des Körperschaftsteuergesetzes besteht die Steuerpflicht jeweils für das Kalenderjahr, für das auf die Steuerbefreiung verzichtet wird. In den Fällen des Widerrufs nach § 54 Abs. 5 Satz 3 des Körperschaftsteuergesetzes tritt die Steuerbefreiung für das Kalenderjahr ein, für das er gelten soll;
 
-7a.  
-landwirtschaftliche Produktionsgenossenschaften und deren Rechtsnachfolger in der Rechtsform der Genossenschaft, wenn sie von der Gewerbesteuer befreit sind;
+7a. landwirtschaftliche Produktionsgenossenschaften und deren Rechtsnachfolger in der Rechtsform der Genossenschaft, wenn sie von der Gewerbesteuer befreit sind;
 
 8. Berufsverbände ohne öffentlich-rechtlichen Charakter sowie kommunale Spitzenverbände auf Bundes- oder Landesebene einschließlich ihrer Zusammenschlüsse, wenn der Zweck dieser Verbände nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist. Die Steuerbefreiung ist ausgeschlossen,
 
@@ -141,8 +133,7 @@ Mittelständische Beteiligungsgesellschaft Baden-Württemberg GmbH, Kapitalbetei
 (+++ § 3 Abs. 1 Nr. 23: Zur erstmaligen Anwendung vgl. § 25 Abs. 4 Satz 2 F. ab 1995-12-18 +++)  
 § 3 Abs. 1 Nr. 10 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 iVm Art. 9 Abs. 1, Art. 28 Abs. 1 Satz 2 GG unvereinbar und nichtig gem. BVerfGE v. 29.9.1998 I 3682 - 2 BvL 64/93 -
 
-
-## § 4 – Bemessungsgrundlage
+# § 4 – Bemessungsgrundlage
 
 (1) Der Vermögensteuer unterliegt
 
@@ -152,15 +143,13 @@ Mittelständische Beteiligungsgesellschaft Baden-Württemberg GmbH, Kapitalbetei
 
 (2) Der Wert des Gesamtvermögens oder des Inlandsvermögens wird auf volle tausend Deutsche Mark nach unten abgerundet.
 
-
-## § 5 – Stichtag für die Festsetzung der Vermögensteuer, Entstehung der Steuer
+# § 5 – Stichtag für die Festsetzung der Vermögensteuer, Entstehung der Steuer
 
 (1) Die Vermögensteuer wird nach den Verhältnissen zu Beginn des Kalenderjahrs (Veranlagungszeitpunkt, §§ 15 bis 17) festgesetzt.
 
 (2) Die Steuer entsteht mit Beginn des Kalenderjahrs, für das die Steuer festzusetzen ist.
 
-
-## § 6 – Freibeträge für natürliche Personen
+# § 6 – Freibeträge für natürliche Personen
 
 (1) Bei der Veranlagung einer unbeschränkt steuerpflichtigen natürlichen Person bleiben 120.000 Deutsche Mark und im Falle der Zusammenveranlagung von Ehegatten 240.000 Deutsche Mark vermögensteuerfrei.
 
@@ -170,8 +159,7 @@ Mittelständische Beteiligungsgesellschaft Baden-Württemberg GmbH, Kapitalbetei
 
 (4)
 
-
-## § 7 – Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
+# § 7 – Freibetrag für Erwerbs- und Wirtschaftsgenossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
 
 (1) Bei der Veranlagung der inländischen Erwerbs- und Wirtschaftsgenossenschaften sowie der inländischen Vereine, deren Tätigkeit sich auf den Betrieb der Land- und Forstwirtschaft beschränkt, bleiben 100.000 Deutsche Mark in den der Gründung folgenden zehn Kalenderjahren vermögensteuerfrei. Voraussetzung ist, daß
 
@@ -185,15 +173,13 @@ nicht wesentlich von dem Verhältnis abweicht, in dem der Wert der von dem einze
 
 (2) Absatz 1 Satz 1 gilt auch für inländische Erwerbs- und Wirtschaftsgenossenschaften sowie für inländische Vereine, die eine gemeinschaftliche Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben.
 
-
-## § 8 – Besteuerungsgrenze bei Körperschaften und bei beschränkt Steuerpflichtigen
+# § 8 – Besteuerungsgrenze bei Körperschaften und bei beschränkt Steuerpflichtigen
 
 (1) Von den unbeschränkt steuerpflichtigen Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 1 Abs. 1 Nr. 2 wird die Vermögensteuer nur erhoben, wenn das Gesamtvermögen (§ 4) mindestens 20.000 Deutsche Mark beträgt.
 
 (2) Von den beschränkt Steuerpflichtigen wird die Vermögensteuer nur erhoben, wenn das Inlandsvermögen (§ 4) mindestens 20.000 Deutsche Mark beträgt.
 
-
-## § 9 – Steuerpflichtiges Vermögen
+# § 9 – Steuerpflichtiges Vermögen
 
 Steuerpflichtiges Vermögen ist
 
@@ -207,8 +193,7 @@ b) bei Körperschaften, Personenvereinigungen und Vermögensmassen (§ 1 Abs. 1 
 
 2. bei beschränkt Steuerpflichtigen mit mindestens 20.000 Deutsche Mark Inlandsvermögen das Inlandsvermögen (§ 4).
 
-
-## § 10 – Steuersatz
+# § 10 – Steuersatz
 
 Die Vermögensteuer beträgt jährlich
 
@@ -218,8 +203,7 @@ Die Vermögensteuer beträgt jährlich
 
 § 10 Nr. 1: Nach Maßgabe der Entscheidungsformel mit dem GG teilweise unvereinbar gem. BVerfGE v. 22.6.1995 I 1191 - 2 BvL 37/91 -
 
-
-## § 11 – Anrechnung ausländischer Steuern
+# § 11 – Anrechnung ausländischer Steuern
 
 (1) Bei unbeschränkt Steuerpflichtigen, die in einem ausländischen Staat mit ihrem in diesem Staat belegenen Vermögen (Auslandsvermögen) zu einer der inländischen Vermögensteuer entsprechenden Steuer (ausländische Steuer) herangezogen werden, ist, sofern nicht die Vorschriften eines Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden sind, die festgesetzte und gezahlte und keinem Ermäßigungsanspruch unterliegende ausländische Steuer auf den Teil der Vermögensteuer anzurechnen, der auf dieses Auslandsvermögen entfällt. Dieser Teil ist in der Weise zu ermitteln, daß die sich bei der Veranlagung des Gesamtvermögens (einschließlich des Auslandsvermögens) ergebende Vermögensteuer im Verhältnis des Auslandsvermögens zum Gesamtvermögen aufgeteilt wird. Ist das Auslandsvermögen in verschiedenen ausländischen Staaten belegen, so ist dieser Teil für jeden einzelnen ausländischen Staat gesondert zu berechnen. Die ausländische Steuer ist insoweit anzurechnen, als sie auf das Kalenderjahr entfällt, das mit dem jeweiligen Veranlagungszeitpunkt beginnt.
 
@@ -233,8 +217,7 @@ Die Vermögensteuer beträgt jährlich
 
 (6) Die Absätze 1 bis 4 sind bei Vermögen, das in einem ausländischen Staat belegen ist und das zum inländischen land- und forstwirtschaftlichen Vermögen oder zum inländischen Betriebsvermögen eines beschränkt Steuerpflichtigen gehört, entsprechend anzuwenden, soweit darin nicht Vermögen enthalten ist, mit dem der beschränkt Steuerpflichtige dort in einem der unbeschränkten Steuerpflicht ähnlichen Umfang zu einer Steuer vom Vermögen herangezogen wird.
 
-
-## § 12 – Steuerermäßigung bei Auslandsvermögen
+# § 12 – Steuerermäßigung bei Auslandsvermögen
 
 (1) Anstelle einer Anrechnung ausländischer Steuern nach § 11 Abs. 1 bis 4 ist auf Antrag des Steuerpflichtigen die auf ausländisches Betriebsvermögen entfallende Vermögensteuer (§ 11 Abs. 1 Satz 2 und 3) auf die Hälfte zu ermäßigen. Satz 1 gilt für
 
@@ -250,13 +233,11 @@ Der Ermäßigungsantrag muß das gesamte Vermögen im Sinne des Satzes 2 Nr. 1 u
 
 (4)
 
-
-## § 13 – Pauschbesteuerung bei beschränkter Steuerpflicht
+# § 13 – Pauschbesteuerung bei beschränkter Steuerpflicht
 
 Die obersten Finanzbehörden der Länder oder die von ihnen beauftragten Finanzbehörden können im Einvernehmen mit dem Bundesministerium der Finanzen die Vermögensteuer bei beschränkt Steuerpflichtigen ganz oder zum Teil erlassen oder in einem Pauschbetrag festsetzen, wenn es aus volkswirtschaftlichen Gründen zweckmäßig oder die Ermittlung der Vermögensteuer besonders schwierig ist.
 
-
-## § 14 – Zusammenveranlagung
+# § 14 – Zusammenveranlagung
 
 (1) Bei unbeschränkter Steuerpflicht aller Beteiligten werden zusammen veranlagt
 
@@ -270,8 +251,7 @@ Die obersten Finanzbehörden der Länder oder die von ihnen beauftragten Finanzb
 
 2. mit Kindern, wenn diese wegen körperlicher, geistiger oder seelischer Behinderung dauernd außerstande sind, sich selbst zu unterhalten.
 
-
-## § 15 – Hauptveranlagung
+# § 15 – Hauptveranlagung
 
 (1) Die Vermögensteuer wird für drei Kalenderjahre allgemein festgesetzt (Hauptveranlagung). Der Zeitraum, für den die Hauptveranlagung gilt, ist der Hauptveranlagungszeitraum; der Beginn dieses Zeitraums ist der Hauptveranlagungszeitpunkt.
 
@@ -279,8 +259,7 @@ Die obersten Finanzbehörden der Länder oder die von ihnen beauftragten Finanzb
 
 (3) Ist die Festsetzungsfrist (§ 169 der Abgabenordnung) bereits abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der Verhältnisse des Hauptveranlagungszeitpunkts mit Wirkung für einen späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist noch nicht abgelaufen ist.
 
-
-## § 16 – Neuveranlagung
+# § 16 – Neuveranlagung
 
 (1) Die Vermögensteuer wird neu veranlagt, wenn dem Finanzamt bekannt wird,
 
@@ -300,8 +279,7 @@ Die obersten Finanzbehörden der Länder oder die von ihnen beauftragten Finanzb
 
 Der Beginn des maßgebenden Kalenderjahrs ist der Neuveranlagungszeitpunkt. § 15 Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 17 – Nachveranlagung
+# § 17 – Nachveranlagung
 
 (1) Die Vermögensteuer wird nachträglich festgesetzt (Nachveranlagung), wenn nach dem Hauptveranlagungszeitpunkt
 
@@ -313,8 +291,7 @@ Der Beginn des maßgebenden Kalenderjahrs ist der Neuveranlagungszeitpunkt. § 1
 
 (2) Nachveranlagt wird mit Wirkung vom Beginn des Kalenderjahrs an, der dem maßgebenden Ereignis folgt. Der Beginn dieses Kalenderjahrs ist der Nachveranlagungszeitpunkt. § 15 Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 18 – Aufhebung der Veranlagung
+# § 18 – Aufhebung der Veranlagung
 
 (1) Wird dem Finanzamt bekannt, daß
 
@@ -332,8 +309,7 @@ so ist die Veranlagung aufzuheben.
 
 Der Beginn des maßgebenden Kalenderjahrs ist der Aufhebungszeitpunkt. § 15 Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 19 – Pflicht zur Abgabe von Vermögensteuererklärungen
+# § 19 – Pflicht zur Abgabe von Vermögensteuererklärungen
 
 (1) Vermögensteuererklärungen sind auf jeden Hauptveranlagungszeitpunkt abzugeben. Für andere Veranlagungszeitpunkte hat eine Erklärung abzugeben, wer von der Finanzbehörde dazu aufgefordert wird (§ 149 der Abgabenordnung). Die Vermögensteuererklärung ist vom Vermögensteuerpflichtigen eigenhändig zu unterschreiben.
 
@@ -351,15 +327,13 @@ b) die mit anderen Personen zusammen veranlagt werden (§ 14), wenn das Gesamtve
 
 (4) Die Erklärungen sind innerhalb der Frist abzugeben, die das Bundesministerium der Finanzen im Einvernehmen mit den obersten Finanzbehörden der Länder bestimmt. Die Frist ist im Bundesanzeiger bekanntzumachen. Fordert die Finanzbehörde zur Abgabe einer Erklärung zur Hauptveranlagung oder zu einer anderen Veranlagung besonders auf (§ 149 Abs. 1 Satz 2 der Abgabenordnung), hat sie eine besondere Frist zu bestimmen, die mindestens einen Monat betragen soll.
 
-
-## § 20 – Entrichtung der Jahressteuer
+# § 20 – Entrichtung der Jahressteuer
 
 (1) Die Steuer wird zu je einem Viertel der Jahressteuer am 10. Februar, 10. Mai, 10. August und 10. November fällig. Eine Jahressteuer bis zu 500 Deutsche Mark ist in einem Betrag am 10. November zu entrichten.
 
 (2) Von der Festsetzung der Vermögensteuer ist abzusehen, wenn die Jahressteuer den Betrag von 50 Deutsche Mark nicht übersteigt.
 
-
-## § 21 – Vorauszahlungen
+# § 21 – Vorauszahlungen
 
 (1) Der Steuerpflichtige hat, solange die Jahressteuer noch nicht bekanntgegeben worden ist, Vorauszahlungen auf die Jahressteuer zu entrichten.
 
@@ -367,8 +341,7 @@ b) die mit anderen Personen zusammen veranlagt werden (§ 14), wenn das Gesamtve
 
 (3) Das Finanzamt kann die Vorauszahlungen der Steuer anpassen, die sich für das Kalenderjahr voraussichtlich ergeben wird.
 
-
-## § 22 – Abrechnung über die Vorauszahlungen
+# § 22 – Abrechnung über die Vorauszahlungen
 
 (1) Ist die Summe der Vorauszahlungen, die bis zur Bekanntgabe des Steuerbescheids zu entrichten waren (§ 21), geringer als die Steuer, die sich nach dem bekanntgegebenen Steuerbescheid für die vorangegangenen Fälligkeitstage ergibt (§ 20), so ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten (Nachzahlung). Die Verpflichtung, rückständige Vorauszahlungen schon früher zu entrichten, bleibt unberührt.
 
@@ -376,30 +349,25 @@ b) die mit anderen Personen zusammen veranlagt werden (§ 14), wenn das Gesamtve
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Steuerbescheid aufgehoben oder geändert wird.
 
-
-## § 23 – Nachentrichtung der Steuer
+# § 23 – Nachentrichtung der Steuer
 
 Hatte der Steuerpflichtige bis zur Bekanntgabe der Jahressteuer keine Vorauszahlungen nach § 21 zu entrichten, so hat er die Steuer, die sich nach dem bekanntgegebenen Steuerbescheid für die vorangegangenen Fälligkeitstage ergibt (§ 20), innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten.
 
-
-## § 24 – Neufassung
+# § 24 – Neufassung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum, unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und dabei offenbare Unrichtigkeiten und Unstimmigkeiten im Wortlaut zu beseitigen.
 
-
-## § 24a
+# § 24a
 
 \-
 
-
-## § 24b – Verzicht auf die Vermögensteuer der umgewandelten ehemaligen volkseigenen Kombinate, Betriebe und Einrichtungen für das zweite Halbjahr 1990
+# § 24b – Verzicht auf die Vermögensteuer der umgewandelten ehemaligen volkseigenen Kombinate, Betriebe und Einrichtungen für das zweite Halbjahr 1990
 
 Bei ehemaligen volkseigenen Kombinaten, Betrieben und Einrichtungen, die auf Grund des Treuhandgesetzes vom 17. Juni 1990 (GBl. I Nr. 33 S. 300) in Aktiengesellschaften oder Gesellschaften mit beschränkter Haftung umgewandelt worden sind, wird die Vermögensteuer auf den 1. Juli 1990 nicht nachträglich festgesetzt. § 1 Abs. 2 sowie § 2 Abs. 1 und Abs. 5 der Verordnung über die Zahlung von Steuern der in Kapitalgesellschaften umgewandelten ehemaligen volkseigenen Kombinate, Betriebe und Einrichtungen im 2. Halbjahr 1990 vom 27. Juni 1990 (GBl. I Nr. 41 S. 618) sind nicht anzuwenden, soweit dort Regelungen zur Festsetzung und Erhebung der Vermögensteuer für das zweite Halbjahr 1990 getroffen worden sind.
 
 (+++ § 24b: Zur Anwendung vgl. § 25 Abs. 3 F. ab 1992-02-25 +++)
 
-
-## § 24c – Zeitlich befristete Sondervorschrift für die Besteuerung nach dem Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+# § 24c – Zeitlich befristete Sondervorschrift für die Besteuerung nach dem Vermögen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 Für die Vermögensteuer der Kalenderjahre 1996 bis 1998 gilt in dem in Artikel 3 des Einigungsvertrages genannten Gebiet folgendes:
 
@@ -425,8 +393,7 @@ sowie zu ihrem Haushalt gehörende Angehörige, die die deutsche Staatsangehöri
 
 (+++ § 24c: Zur erstmaligen Anwendung vgl. § 25 Abs. 9 Satz 2 F. ab 1995-10-11 +++)
 
-
-## § 25 – Anwendung des Gesetzes
+# § 25 – Anwendung des Gesetzes
 
 (1) Die vorstehende Fassung des Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals auf die Vermögensteuer des Kalenderjahres 1995 anzuwenden.
 

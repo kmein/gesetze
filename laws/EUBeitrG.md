@@ -1,13 +1,9 @@
-# [EUBeitrG] Gesetz über die Durchführung der Amtshilfe bei der Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen zwischen den Mitgliedstaaten der Europäischen Union  (EU-Beitreibungsgesetz - EUBeitrG)
-
-Ausfertigungsdatum: 07.12.2011
-
+% Gesetz über die Durchführung der Amtshilfe bei der Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen zwischen den Mitgliedstaaten der Europäischen Union  (EU-Beitreibungsgesetz - EUBeitrG)
+% Ausfertigungsdatum: 07.12.2011
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich und anzuwendendes Recht
+# § 1 – Anwendungsbereich und anzuwendendes Recht
 
 (1) Dieses Gesetz regelt die Einzelheiten der Amtshilfe zwischen Deutschland und den anderen Mitgliedstaaten der Europäischen Union (Mitgliedstaaten) zur Geltendmachung von in den Mitgliedstaaten entstandenen Forderungen. Forderungen im Sinne dieses Gesetzes sind
 
@@ -45,8 +41,7 @@ b) die von den Behörden, die für die Erhebung der betreffenden Steuern oder Ab
 
 (4) Für Ersuchen nach diesem Gesetz gelten die Vorschriften der Abgabenordnung entsprechend, soweit dieses Gesetz nicht etwas anderes bestimmt. Zur Ausführung der Abgabenordnung hat das Bundesministerium der Finanzen Verwaltungsvorschriften erlassen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) „Person“ ist
 
@@ -60,8 +55,7 @@ b) die von den Behörden, die für die Erhebung der betreffenden Steuern oder Ab
 
 (2) Beitreibungsrichtlinie im Sinne dieses Gesetzes sowie des Einkommensteuergesetzes, des Körperschaftsteuergesetzes und des Gewerbesteuergesetzes bezeichnet die Richtlinie 2010/24/EU des Rates vom 16. März 2010 über die Amtshilfe bei der Beitreibung von Forderungen in Bezug auf bestimmte Steuern, Abgaben und sonstige Maßnahmen (ABl. L 84 vom 31.3.2010, S. 1) in der jeweils geltenden Fassung.
 
-
-## § 3 – Zuständigkeit und Prüfungsbefugnisse für Ersuchen
+# § 3 – Zuständigkeit und Prüfungsbefugnisse für Ersuchen
 
 (1) Das Bundesministerium der Finanzen ist zuständige Behörde ausschließlich im Sinne von Artikel 4 Absatz 1 der Beitreibungsrichtlinie und zentrales Verbindungsbüro im Sinne von Artikel 4 Absatz 2 der Beitreibungsrichtlinie. Für die Prüfung und Bearbeitung von Ersuchen werden die folgenden Verbindungsbüros benannt:
 
@@ -73,8 +67,7 @@ Die Verbindungsbüros übernehmen die Kommunikation mit den ersuchenden Behörde
 
 (2) Eingehende Ersuchen werden nach entsprechender Prüfung gemäß Absatz 1 Satz 4 und 5 von den Verbindungsbüros an die für die Durchführung der Amtshilfe in § 4 Absatz 1 genannten Vollstreckungsbehörden weitergeleitet. Ausgehende Ersuchen werden von den in § 4 Absatz 1 oder Absatz 2 genannten Vollstreckungsbehörden erstellt und über die Verbindungsbüros nach entsprechender Prüfung gemäß Absatz 1 Satz 4 an die zuständige ausländische Behörde geleitet.
 
-
-## § 4 – Zuständigkeit für die Vollstreckung eingehender Ersuchen
+# § 4 – Zuständigkeit für die Vollstreckung eingehender Ersuchen
 
 (1) Folgende Behörden nehmen nach Maßgabe dieses Gesetzes Amtshilfe in Anspruch und leisten danach Amtshilfe (Vollstreckungsbehörden):
 
@@ -108,8 +101,7 @@ Die örtliche Zuständigkeit richtet sich nach dem Dritten Abschnitt des Ersten 
 
 (3) Das Bundesministerium der Finanzen kann mit Zustimmung der zuständigen obersten Landesbehörden die Amtshilfe bei der Vollstreckung auf weitere als die in Absatz 1 Nummer 1 genannten Landesbehörden übertragen. Die Übertragung ist im Bundessteuerblatt zu veröffentlichen.
 
-
-## § 5 – Erteilen von Auskünften an andere Mitgliedstaaten auf Ersuchen
+# § 5 – Erteilen von Auskünften an andere Mitgliedstaaten auf Ersuchen
 
 (1) Auf Ersuchen teilt das Verbindungsbüro dem Mitgliedstaat alle Auskünfte mit, die bei der Beitreibung einer Forderung gemäß § 1 voraussichtlich erheblich sein werden. Zur Beschaffung dieser Auskünfte veranlasst die Vollstreckungsbehörde alle dafür erforderlichen behördlichen Ermittlungen, die nach der Abgabenordnung in vergleichbaren Fällen vorgesehen sind.
 
@@ -125,8 +117,7 @@ Die örtliche Zuständigkeit richtet sich nach dem Dritten Abschnitt des Ersten 
 
 (4) Kann das Verbindungsbüro dem Auskunftsersuchen nicht stattgeben, so sind dem anderen Mitgliedstaat die Gründe hierfür mitzuteilen.
 
-
-## § 6 – Erteilen von Auskünften an andere Mitgliedstaaten ohne Ersuchen
+# § 6 – Erteilen von Auskünften an andere Mitgliedstaaten ohne Ersuchen
 
 (1) Bei einer Erstattung von Steuern oder Abgaben an eine Person, die in einem anderen Mitgliedstaat niedergelassen oder wohnhaft ist, kann die Vollstreckungsbehörde, die die Erstattung vornehmen soll, den Mitgliedstaat der Niederlassung oder des Wohnsitzes durch das Verbindungsbüro über die bevorstehende Erstattung informieren. Dies gilt nicht für die Umsatzsteuer, mit Ausnahme der Einfuhrumsatzsteuer.
 
@@ -134,22 +125,19 @@ Die örtliche Zuständigkeit richtet sich nach dem Dritten Abschnitt des Ersten 
 
 (3) Im Falle einer Informationserteilung nach Absatz 1 oder Absatz 2 wird die Erstattung nicht fällig vor dem Ablauf von zehn Arbeitstagen nach Übermittlung der Information an den anderen Mitgliedstaat.
 
-
-## § 7 – Zustellungsersuchen von anderen Mitgliedstaaten
+# § 7 – Zustellungsersuchen von anderen Mitgliedstaaten
 
 (1) Auf Ersuchen veranlasst die Vollstreckungsbehörde die Zustellung aller Dokumente, die mit einer Forderung gemäß § 1 oder mit deren Vollstreckung zusammenhängen, einschließlich der gerichtlichen Dokumente, die aus dem anderen Mitgliedstaat stammen. Die Zustellung richtet sich nach den Vorschriften des Verwaltungszustellungsgesetzes. Dem Ersuchen muss ein Standardformblatt beigefügt sein. Eine Ausfertigung des Standardformblatts mit den zuzustellenden Dokumenten ist dem Empfänger auszuhändigen.
 
 (2) Unverzüglich nachdem die Vollstreckungsbehörde auf Grund des Zustellungsersuchens tätig geworden ist, teilt sie dem anderen Mitgliedstaat über das Verbindungsbüro das Veranlasste mit. Diese Mitteilung beinhaltet insbesondere die Angabe, an welchem Tag und an welche Anschrift dem Empfänger das Dokument zugestellt worden ist.
 
-
-## § 8 – Zustellungsersuchen in andere Mitgliedstaaten
+# § 8 – Zustellungsersuchen in andere Mitgliedstaaten
 
 (1) Das Verbindungsbüro kann um die Zustellung aller Dokumente ersuchen, die mit einer Forderung gemäß § 1 oder mit deren Vollstreckung zusammenhängen, einschließlich der Dokumente, die von deutschen Gerichten stammen. Dem Zustellungsersuchen ist ein Standardformblatt beizufügen.
 
 (2) Ein Zustellungsersuchen darf nur dann nach dieser Vorschrift erfolgen, wenn es der Vollstreckungsbehörde nicht möglich ist, das betreffende Dokument gemäß den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen oder wenn eine solche Zustellung mit unverhältnismäßigen Schwierigkeiten verbunden wäre.
 
-
-## § 9 – Beitreibungsersuchen von anderen Mitgliedstaaten
+# § 9 – Beitreibungsersuchen von anderen Mitgliedstaaten
 
 (1) Auf Ersuchen nimmt die Vollstreckungsbehörde die Vollstreckung von Forderungen vor, für die in einem anderen Mitgliedstaat ein Vollstreckungstitel besteht. Die Forderung wird wie eine inländische Forderung behandelt. Als vollstreckbarer Verwaltungsakt gilt der dem Ersuchen beigefügte einheitliche Vollstreckungstitel.
 
@@ -161,8 +149,7 @@ Die örtliche Zuständigkeit richtet sich nach dem Dritten Abschnitt des Ersten 
 
 (5) Die Vollstreckungsbehörde überweist die im Zusammenhang mit der Forderung beigetriebenen Beträge sowie die Säumniszuschläge und gegebenenfalls entstehende Zinsen. Die in § 16 Absatz 1 genannten Kosten können vorher einbehalten werden.
 
-
-## § 10 – Beitreibungsersuchen in andere Mitgliedstaaten
+# § 10 – Beitreibungsersuchen in andere Mitgliedstaaten
 
 (1) Ein Verbindungsbüro kann Beitreibungsersuchen in einen anderen Mitgliedstaat stellen, wenn
 
@@ -188,8 +175,7 @@ und der Vollstreckungsbehörde oder dem Verbindungsbüro konkrete Informationen 
 
 (4) Erlangt die Vollstreckungsbehörde im Zusammenhang mit der Angelegenheit, die dem Beitreibungsersuchen zu Grunde liegt, zweckdienliche Informationen, so teilt sie diese dem Verbindungsbüro zur unverzüglichen Weiterleitung an den anderen Mitgliedstaat mit.
 
-
-## § 11 – Änderung oder Rücknahme des Beitreibungsersuchens
+# § 11 – Änderung oder Rücknahme des Beitreibungsersuchens
 
 (1) Das Verbindungsbüro teilt unverzüglich nach entsprechender Erstellung durch die Vollstreckungsbehörde dem anderen Mitgliedstaat jede Änderung oder Rücknahme ihres Beitreibungsersuchens mit. Dabei sind die Gründe für die Änderung oder Rücknahme anzugeben. Bei Änderungen übersendet sie zusätzlich eine entsprechend geänderte Fassung des einheitlichen Vollstreckungstitels.
 
@@ -201,8 +187,7 @@ und der Vollstreckungsbehörde oder dem Verbindungsbüro konkrete Informationen 
 
 (5) Für die neue Fassung des Vollstreckungstitels gelten § 10 Absatz 3 und 4 sowie § 13 entsprechend.
 
-
-## § 12 – Ersuchen um Sicherungsmaßnahmen
+# § 12 – Ersuchen um Sicherungsmaßnahmen
 
 (1) Um die Vollstreckung sicherzustellen, führt die Vollstreckungsbehörde auf Ersuchen des anderen Mitgliedstaates Sicherungsmaßnahmen durch, sofern und soweit diese nach dem Sechsten Teil der Abgabenordnung zulässig sind. Hierfür ist Voraussetzung, dass Sicherungsmaßnahmen sowohl des Mitgliedstaates der ersuchenden als auch der ersuchten deutschen Behörde in einer vergleichbaren Situation getroffen werden können.
 
@@ -216,8 +201,7 @@ und der Vollstreckungsbehörde oder dem Verbindungsbüro konkrete Informationen 
 
 (4) § 9 Absatz 1 bis 3, § 10 Absatz 4 sowie die §§ 11 und 13 gelten entsprechend.
 
-
-## § 13 – Streitigkeiten
+# § 13 – Streitigkeiten
 
 (1) Stellt das Verbindungsbüro ein Ersuchen, so sind die nach dem Dritten Abschnitt des Ersten Teils der Abgabenordnung zuständigen Behörden oder die nach Abschnitt V des Ersten Teils der Finanzgerichtsordnung zuständigen Gerichte zuständig für
 
@@ -239,8 +223,7 @@ Dies gilt auch für Streitigkeiten bei in Deutschland ergriffenen Vollstreckungs
 
 (4) Durch die Einleitung eines Verständigungsverfahrens, das auf die Höhe der beizutreibenden Forderung Auswirkungen haben kann, werden die Beitreibungsmaßnahmen bis zum Abschluss dieses Verfahrens unterbrochen. § 231 Absatz 3 und 4 der Abgabenordnung gilt entsprechend. Dies gilt nicht, wenn auf Grund von Betrug oder Insolvenz unmittelbare Dringlichkeit gegeben ist. Werden die Beitreibungsmaßnahmen unterbrochen, so ist Absatz 2 Satz 4 und 5 anzuwenden.
 
-
-## § 14 – Ablehnungsgründe
+# § 14 – Ablehnungsgründe
 
 (1) Die in den §§ 9 bis 13 vorgesehene Amtshilfe wird nicht geleistet, wenn die Vollstreckung oder die Anordnung von Sicherungsmaßnahmen unbillig wäre oder die Forderungen insgesamt weniger als 1 500 Euro betragen.
 
@@ -254,8 +237,7 @@ Die Frist nach Nummer 1 beginnt ab dem Zeitpunkt, zu dem die Forderung in dem Mi
 
 (3) Gründe für die Ablehnung eines Ersuchens um Amtshilfe teilt das Verbindungsbüro dem anderen Mitgliedstaat mit.
 
-
-## § 15 – Verjährung
+# § 15 – Verjährung
 
 (1) Für die Verjährung von Forderungen, hinsichtlich derer um Amtshilfe ersucht wird, sind die §§ 228 bis 232 der Abgabenordnung entsprechend anzuwenden.
 
@@ -271,8 +253,7 @@ Die Frist nach Nummer 1 beginnt ab dem Zeitpunkt, zu dem die Forderung in dem Mi
 
 (5) Die Vollstreckungsbehörden teilen über das Verbindungsbüro dem anderen Mitgliedstaat jede Maßnahme mit, die die Verjährung der Forderung, hinsichtlich derer um Beitreibung oder Sicherungsmaßnahmen ersucht wurde, unterbricht oder hemmt.
 
-
-## § 16 – Kosten
+# § 16 – Kosten
 
 (1) Die Vollstreckungsbehörde bemüht sich bei den betreffenden Personen, neben den in § 9 Absatz 5 genannten Beträgen auch die ihr nach den §§ 337 bis 346 der Abgabenordnung entstandenen Kosten beizutreiben, und behält diese ein.
 
@@ -280,8 +261,7 @@ Die Frist nach Nummer 1 beginnt ab dem Zeitpunkt, zu dem die Forderung in dem Mi
 
 (3) Deutschland haftet einem ersuchten Mitgliedstaat für alle Schäden aus Handlungen, die im Hinblick auf die tatsächliche Begründetheit der Forderung oder auf die Wirksamkeit des von der ersuchenden Behörde ausgestellten Vollstreckungstitels oder des Titels, der zur Ergreifung von Sicherungsmaßnahmen ermächtigt, für nicht angemessen befunden werden.
 
-
-## § 17 – Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
+# § 17 – Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
 
 (1) Die Verbindungsbüros können zur Förderung der Amtshilfe gemäß der Beitreibungsrichtlinie vereinbaren, dass unter den von ihr festgelegten Voraussetzungen befugte Bedienstete des anderen Mitgliedstaates
 
@@ -295,13 +275,11 @@ Dabei stellt das Verbindungsbüro sicher, dass dem befugten Bediensteten der ers
 
 (2) Zur Ausübung der Möglichkeiten nach Absatz 1 ist die jederzeitige Vorlage einer schriftlichen Vollmacht notwendig. Aus der Vollmacht müssen die Identität und dienstliche Stellung des Bediensteten der ersuchenden Behörde hervorgehen.
 
-
-## § 18 – Anwesenheit von deutschen Bediensteten in anderen Mitgliedstaaten
+# § 18 – Anwesenheit von deutschen Bediensteten in anderen Mitgliedstaaten
 
 Sofern die Komplexität eines Ersuchens es erfordert, können ordnungsgemäß bevollmächtigte deutsche Bedienstete in andere Mitgliedstaaten entsandt werden. Die Voraussetzungen und Bedingungen des § 17 gelten sinngemäß.
 
-
-## § 19 – Standardformblätter und Kommunikationsmittel
+# § 19 – Standardformblätter und Kommunikationsmittel
 
 (1) Ersuchen um Auskünfte gemäß § 5 Absatz 1, um Zustellung gemäß § 7 Absatz 1 und § 8 Absatz 1, um Beitreibung gemäß § 9 Absatz 1 und § 10 Absatz 1 oder um Sicherungsmaßnahmen gemäß § 12 Absatz 1 und 3 werden jeweils mittels eines Standardformblatts auf elektronischem Weg übermittelt. Diese Formblätter werden, soweit möglich, auch für jede weitere Mitteilung im Zusammenhang mit dem Ersuchen verwendet.
 
@@ -313,8 +291,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können ordnungsgemäß be
 
 (5) Erfolgt die Übermittlung nicht auf elektronischem Weg oder auf Standardformblättern, so berührt dies nicht die Gültigkeit der erhaltenen Auskünfte oder der im Rahmen eines Ersuchens um Amtshilfe ergriffenen Maßnahmen.
 
-
-## § 20 – Sprachen
+# § 20 – Sprachen
 
 (1) Alle Ersuchen um Amtshilfe, Standardformblätter für die Zustellung sowie einheitliche Vollstreckungstitel für die Vollstreckung werden entweder in der Amtssprache oder einer der Amtssprachen des Mitgliedstaates der ersuchten Behörde übermittelt oder es wird ihnen eine Übersetzung in der entsprechenden Amtssprache beigefügt. Der Umstand, dass bestimmte Teile davon in einer Sprache verfasst sind, die nicht Amtssprache oder eine der Amtssprachen des Mitgliedstaates der ersuchten Behörde ist, berührt nicht deren Gültigkeit oder die Gültigkeit des Verfahrens, sofern es sich bei dieser anderen Sprache um eine zwischen den betroffenen Mitgliedstaaten vereinbarte Sprache handelt.
 
@@ -322,8 +299,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können ordnungsgemäß be
 
 (3) Legt die deutsche Behörde dem Ersuchen andere Dokumente, als die in den Absätzen 1 und 2 genannten bei, so hat sie auf Verlangen der ersuchten Behörde die Übersetzung in die Amtssprache, in eine der Amtssprachen oder in eine zwischen beiden Staaten vereinbarte Sprache beizufügen.
 
-
-## § 21 – Weiterleitung von Auskünften und Dokumenten
+# § 21 – Weiterleitung von Auskünften und Dokumenten
 
 (1) Die Auskünfte, die im Rahmen der Durchführung dieses Gesetzes an Deutschland übermittelt werden, unterliegen dem Steuergeheimnis und genießen den Schutz, den die Abgabenordnung für Auskünfte dieser Art gewährt. Solche Auskünfte können für Vollstreckungs- und Sicherungsmaßnahmen mit Bezug auf Forderungen, die unter dieses Gesetz fallen, verwendet werden. Eine Verwendung für einen anderen Zweck ist nur mit Einwilligung des Mitgliedstaates, von dem die Auskünfte stammen, zulässig.
 
@@ -335,8 +311,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können ordnungsgemäß be
 
 (5) Auskünfte, die in jedweder Form im Rahmen dieses Gesetzes übermittelt werden, können von allen Behörden des Mitgliedstaates, die die Auskünfte erhalten, auf der gleichen Grundlage wie vergleichbare Auskünfte, die in diesem Staat erlangt wurden, angeführt oder als Beweismittel verwendet werden.
 
-
-## § 22 – Anwendung anderer Abkommen zur Unterstützung bei der Beitreibung
+# § 22 – Anwendung anderer Abkommen zur Unterstützung bei der Beitreibung
 
 (1) Dieses Gesetz gilt unbeschadet der Erfüllung von Verpflichtungen zur Leistung von Amtshilfe in größerem Umfang, die sich aus bilateralen oder multilateralen Übereinkünften oder Vereinbarungen ergeben. Das gilt auch für die Zustellung gerichtlicher oder sonstiger Dokumente.
 

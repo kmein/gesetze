@@ -1,10 +1,7 @@
-# [HHG] Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen außerhalb der Bundesrepublik Deutschland in Gewahrsam genommen wurden  (Häftlingshilfegesetz - HHG)
-
-Ausfertigungsdatum: 06.08.1955
-
+% Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen außerhalb der Bundesrepublik Deutschland in Gewahrsam genommen wurden  (Häftlingshilfegesetz - HHG)
+% Ausfertigungsdatum: 06.08.1955
  
-
-## § 1 – Personenkreis
+# § 1 – Personenkreis
 
 (1) Leistungen nach Maßgabe der folgenden Vorschriften erhalten deutsche Staatsangehörige und deutsche Volkszugehörige, wenn sie
 
@@ -28,8 +25,7 @@ und den gewöhnlichen Aufenthalt im Geltungsbereich des Gesetzes genommen haben.
 
 (7) Keine Leistungen nach diesem Gesetz erhalten die im Gewahrsam geborenen Abkömmlinge von im Gewahrsam geborenen Berechtigten; die ihnen als Erben auf Grund des § 9a Abs. 2 in Verbindung mit § 5 Abs. 2 oder 3 des Kriegsgefangenenentschädigungsgesetzes zustehenden Ansprüche bleiben unberührt.
 
-
-## § 2 – Ausschließungsgründe
+# § 2 – Ausschließungsgründe
 
 (1) Leistungen nach diesem Gesetz werden nicht gewährt an Personen,
 
@@ -47,8 +43,7 @@ und den gewöhnlichen Aufenthalt im Geltungsbereich des Gesetzes genommen haben.
 
 (5) Solange wegen einer Straftat, die zu einem Ausschluß nach Absatz 1 Nr. 2 und 3 oder Absatz 2 führen kann, ein Ermittlungsverfahren oder Strafverfahren schwebt, sind Entscheidungen über Anträge nach diesem Gesetz zurückzustellen. Wird ein solches Verfahren eingeleitet, nachdem der Anspruch auf Leistungen zuerkannt ist, so ist die Auszahlung einmaliger Leistungen auszusetzen; wiederkehrende Leistungen können ausgesetzt werden.
 
-
-## § 3 – Erweiterung des Personenkreises
+# § 3 – Erweiterung des Personenkreises
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Gruppen von Personen, die aus den in § 1 Abs. 1 Nr. 1 genannten Gründen
 
@@ -58,8 +53,7 @@ b) ohne in Gewahrsam genommen worden zu sein, durch andere Maßnahmen eine gesun
 
 sowie deren Angehörige und Hinterbliebene den nach diesem Gesetz zum Empfang von Leistungen Berechtigten gleichzustellen.
 
-
-## § 4 – Beschädigtenversorgung
+# § 4 – Beschädigtenversorgung
 
 (1) Ein nach § 1 Abs. 1 Nr. 1 Berechtigter, der infolge des Gewahrsams eine gesundheitliche Schädigung erlitten hat, erhält wegen der gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Gesetzes über die Versorgung der Opfer des Krieges (Bundesversorgungsgesetz), soweit ihm nicht wegen desselben schädigenden Ereignisses ein Anspruch auf Versorgung unmittelbar auf Grund des Bundesversorgungsgesetzes zusteht.
 
@@ -71,13 +65,11 @@ sowie deren Angehörige und Hinterbliebene den nach diesem Gesetz zum Empfang vo
 
 (5) Zur Anerkennung einer Gesundheitsstörung als Folge einer Schädigung genügt die Wahrscheinlichkeit des ursächlichen Zusammenhanges. Wenn die Wahrscheinlichkeit nur deshalb nicht gegeben ist, weil über die Ursache des festgestellten Leidens in der medizinischen Wissenschaft Ungewißheit besteht, kann mit Zustimmung des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung als Folge einer Schädigung anerkannt werden; die Zustimmung kann allgemein erteilt werden.
 
-
-## § 5 – Hinterbliebenenversorgung
+# § 5 – Hinterbliebenenversorgung
 
 Ist der Beschädigte an den Folgen der Schädigung gestorben, so erhalten die Hinterbliebenen Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes, soweit ihnen nicht ein Anspruch auf Versorgung unmittelbar auf Grund des Bundesversorgungsgesetzes zusteht. § 4 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des Bundesversorgungsgesetzes sind entsprechend anzuwenden.
 
-
-## § 6 – Zusammentreffen von Ansprüchen
+# § 6 – Zusammentreffen von Ansprüchen
 
 (1) Treffen Ansprüche aus § 4 dieses Gesetzes mit Ansprüchen aus § 1 des Bundesversorgungsgesetzes zusammen, wird die Versorgung unter Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten Grades der Schädigungsfolgen unmittelbar nach den Vorschriften des Bundesversorgungsgesetzes gewährt.
 
@@ -85,23 +77,19 @@ Ist der Beschädigte an den Folgen der Schädigung gestorben, so erhalten die Hi
 
 (3) Bei der Feststellung der Elternrente sind auch die Kinder zu berücksichtigen, die an den Folgen einer nach dem Bundesversorgungsgesetz anzuerkennenden Schädigung gestorben oder verschollen sind. Besteht ein Anspruch auf Elternrente unmittelbar nach den Vorschriften des Bundesversorgungsgesetzes, so wird sie nach diesem Gesetz nicht gewährt.
 
-
-## § 7 – Antragsfristen
+# § 7 – Antragsfristen
 
 (weggefallen)
 
-
-## § 8 – (weggefallen)
+# § 8 – (weggefallen)
 
 \-
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
-
-## § 9a – Eingliederungshilfen
+# § 9a – Eingliederungshilfen
 
 (1) Ein Berechtigter nach § 1 Abs. 1 Nr. 1, der nach dem 31. Dezember 1946 insgesamt länger als drei Monate in Gewahrsam gehalten wurde, erhält auf Antrag Eingliederungshilfe, wenn er den gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes am 10. August 1955 hatte oder diesen danach vor dem 1. Januar 1993 genommen hat
 
@@ -123,18 +111,15 @@ Die Eingliederungshilfe beträgt für jeden Gewahrsamsmonat, frühestens vom 1. 
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Zeitpunkt und die Reihenfolge der Auszahlung der Leistung, auf die nach Absatz 1 ein Anspruch besteht, nach den Gesichtspunkten der sozialen Dringlichkeit zu bestimmen.
 
-
-## § 9b – Zusätzliche Eingliederungshilfen
+# § 9b – Zusätzliche Eingliederungshilfen
 
 Ein Berechtigter nach § 9a Abs. 1, der nur wegen seines persönlichen Verhaltens nach der Besetzung seines Aufenthaltsortes oder nach dem 8. Mai 1945 in Gewahrsam genommen wurde und die in § 1 Abs. 1 Nr. 1 genannten Gebiete nach dem 31. Dezember 1985 verlassen hat, erhält zusätzlich zu den Leistungen nach § 9a für jeden Gewahrsamsmonat, frühestens vom 1. Januar 1947 an, 50 Deutsche Mark, vom dritten Gewahrsamsjahr, frühestens vom 1. Januar 1949 an, 150 Deutsche Mark, vom fünften Gewahrsamsjahr, frühestens vom 1. Januar 1951 an, 210 Deutsche Mark; die zusätzliche Eingliederungshilfe wird auf einen Höchstbetrag von 20.250 Deutsche Mark begrenzt. § 9a Abs. 2 gilt auch für diese Leistung.
 
-
-## § 9c – Weitere Eingliederungshilfen
+# § 9c – Weitere Eingliederungshilfen
 
 Ein Berechtigter nach § 9a Abs. 1, der keinen Anspruch auf die zusätzliche Eingliederungshilfe nach § 9b hat, erhält auf Antrag im Rahmen der Höchstgrenzen des § 9a Abs. 1 Sätze 3 und 4 vom fünften Gewahrsamsjahr, frühestens vom 1. Januar 1951 an, für jeden Gewahrsamsmonat eine weitere Eingliederungshilfe von 20 Deutsche Mark, die sich nach zwei, vier und sechs weiteren Gewahrsamsjahren jeweils um 20 Deutsche Mark erhöht; jedoch erhalten Personen, die im Gewahrsam geboren wurden, diese Leistungen nicht. § 9a Abs. 2 gilt auch für diese Leistungen.
 
-
-## § 10 – Zuständigkeit und Verfahren
+# § 10 – Zuständigkeit und Verfahren
 
 (1) Für die Gewährung von Leistungen nach den §§ 4, 5 und 8 sind die Behörden zuständig, denen die Durchführung des Bundesversorgungsgesetzes und des Unterhaltsbeihilfegesetzes obliegt. Soweit die Versorgungsbehörden zuständig sind, richtet sich das Verfahren nach den für die Kriegsopferversorgung geltenden Vorschriften.
 
@@ -152,28 +137,23 @@ Ein Berechtigter nach § 9a Abs. 1, der keinen Anspruch auf die zusätzliche Ein
 
 (8) Wird die Bescheinigung eingezogen oder für ungültig erklärt, so sind die Leistungen nach diesem Gesetz einzustellen.
 
-
-## § 11
+# § 11
 
 (weggefallen)
 
-
-## § 12 – Härteausgleich
+# § 12 – Härteausgleich
 
 Die zuständige oberste Landesbehörde kann im Einvernehmen mit dem für dieses Gesetz federführenden Bundesminister zur Vermeidung unbilliger Härten in Einzelfällen Maßnahmen nach diesem Gesetz ganz oder teilweise zulassen.
 
-
-## § 13 – Kostenregelung
+# § 13 – Kostenregelung
 
 Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz jeweils in dem gleichen Umfange wie die Aufwendungen für Leistungen, die unmittelbar auf Grund der Gesetze gewährt werden, die in diesem Gesetz für entsprechend anwendbar erklärt sind.
 
-
-## § 14
+# § 14
 
 (weggefallen)
 
-
-## § 15 – Stiftung für ehemalige politische Häftlinge
+# § 15 – Stiftung für ehemalige politische Häftlinge
 
 (1) Zur Förderung ehemaliger politischer Häftlinge wird unter dem Namen "Stiftung für ehemalige politische Häftlinge" eine rechtsfähige Stiftung des öffentlichen Rechts errichtet.
 
@@ -181,8 +161,7 @@ Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz jeweils in d
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
 
-
-## § 16 – Finanzierung
+# § 16 – Finanzierung
 
 (1) Für die Erfüllung ihrer Aufgaben nach § 18 kann die Stiftung die ihr für diese Zwecke noch zur Verfügung stehenden Mittel aus dem Stammkapital und aus den jährlichen Erträgnissen sowie Zuwendungen von dritter Seite verwenden. Darüber hinaus werden ihr hierfür im Jahr 2015 2 Millionen Euro und im Jahr 2016 13,5 Millionen Euro aus dem Bundeshaushalt zur Verfügung gestellt. Einlagen in das Stiftungsvermögen sind zulässig.
 
@@ -190,18 +169,15 @@ Der Bund trägt die Aufwendungen für Leistungen nach diesem Gesetz jeweils in d
 
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
-
-## § 17 – Personenkreis
+# § 17 – Personenkreis
 
 Von der Stiftung werden die in § 1 Abs. 1 genannten Personen gefördert. Auf die Förderung nach § 18 besteht kein Rechtsanspruch. § 12 gilt mit der Maßgabe, daß das Einvernehmen mit dem für dieses Gesetz federführenden Bundesminister vom Vorstand der Stiftung hergestellt wird.
 
-
-## § 18 – Unterstützungen
+# § 18 – Unterstützungen
 
 Den in § 17 Satz 1 genannten Personen können zur Linderung einer Notlage Unterstützungen gewährt werden. Unterstützungsleistungen nach § 18 des Strafrechtlichen Rehabilitierungsgesetzes sind bei der Unterstützung nach Satz 1 zu berücksichtigen. Die Leistungen nach Satz 1 bleiben als Einkommen und als Vermögen bei Sozialleistungen, deren Gewährung von anderen Einkommen abhängig ist, unberücksichtigt. Ein Antrag auf Leistungen nach Satz 1 kann letztmalig bis zum 30. Juni 2016 gestellt werden.
 
-
-## § 19 – Stiftungsorgane
+# § 19 – Stiftungsorgane
 
 (1) Organe der Stiftung sind
 
@@ -211,8 +187,7 @@ Den in § 17 Satz 1 genannten Personen können zur Linderung einer Notlage Unter
 
 (2) Die Mitglieder der Organe werden ehrenamtlich tätig; sie haben Anspruch auf Ersatz ihrer notwendigen Auslagen.
 
-
-## § 20 – Stiftungsrat
+# § 20 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus zwölf Mitgliedern. Der für dieses Gesetz federführende Bundesminister benennt sechs Mitglieder; er beruft weitere sechs Mitglieder aus den in § 17 Satz 1 genannten Personen. Für jedes Mitglied wird ein Stellvertreter benannt oder berufen.
 
@@ -224,8 +199,7 @@ Den in § 17 Satz 1 genannten Personen können zur Linderung einer Notlage Unter
 
 (5) Der Stiftungsrat ist beschlußfähig, wenn die Hälfte der Mitglieder anwesend ist. Er beschließt mit einfacher Mehrheit.
 
-
-## § 21 – Stiftungsvorstand
+# § 21 – Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus dem Vorsitzenden und drei weiteren Mitgliedern. Der Stiftungsrat wählt den Vorsitzenden und die weiteren Mitglieder des Stiftungsvorstandes auf die Dauer von zwei Jahren. Wiederwahl ist zulässig. Scheidet der Vorsitzende oder ein weiteres Mitglied des Stiftungsvorstandes vorzeitig aus, wird für den Rest seiner Amtszeit vom Stiftungsrat ein Nachfolger gewählt.
 
@@ -235,8 +209,7 @@ Den in § 17 Satz 1 genannten Personen können zur Linderung einer Notlage Unter
 
 (4) Für die Beschlüsse des Stiftungsvorstandes gilt § 20 Abs. 5 entsprechend.
 
-
-## § 22 – Entscheidung über Anträge
+# § 22 – Entscheidung über Anträge
 
 (1) Zur Entscheidung über Anträge nach § 18 wird bei dem Vorstand ein Ausschuß gebildet.
 
@@ -254,8 +227,7 @@ Den in § 17 Satz 1 genannten Personen können zur Linderung einer Notlage Unter
 
 (6) Der Stiftungsrat wird ermächtigt, die Entscheidung über Anträge teilweise auf den Vorsitzenden des Vorstandes oder dessen Stellvertreter zu übertragen. Über die Ablehnung eines Antrags entscheidet stets der Bewilligungsausschuss.
 
-
-## § 23 – Widerspruchsausschuß
+# § 23 – Widerspruchsausschuß
 
 (1) Zur Entscheidung über den Widerspruch gegen den Bescheid des Ausschusses nach § 22 wird ein Widerspruchsausschuß gebildet.
 
@@ -269,18 +241,15 @@ Der Stiftungsrat wählt aus seiner Mitte einen stellvertretenden Vorsitzenden de
 
 (3) Der Vorsitzende des Widerspruchsausschusses sowie sein Stellvertreter müssen die Befähigung für den höheren Verwaltungsdienst besitzen. Die Beisitzer des Ausschusses nach § 22 können nicht zugleich Mitglieder des Widerspruchsausschusses sein; im übrigen gilt § 22 Abs. 3 und 4 entsprechend.
 
-
-## § 24 – Aufsicht
+# § 24 – Aufsicht
 
 Die Stiftung untersteht der Aufsicht des für dieses Gesetz federführenden Bundesministers.
 
-
-## § 25 – Aufhebung der Stiftung
+# § 25 – Aufhebung der Stiftung
 
 Bei der Aufhebung der Stiftung vorhandenes Vermögen fließt dem Bund zu.
 
-
-## § 25a – Übergangsvorschrift
+# § 25a – Übergangsvorschrift
 
 (1) § 9b ist in der bis zum 31. Dezember 1985 geltenden Fassung weiterhin anzuwenden, wenn der Berechtigte spätestens an diesem Tage die in § 1 Abs. 1 Nr. 1 genannten Gebiete verlassen hat und die Leistungen nach § 9b vor dem 1. Januar 1989 beantragt.
 
@@ -298,18 +267,15 @@ Bei der Aufhebung der Stiftung vorhandenes Vermögen fließt dem Bund zu.
 
 (8) § 10 Abs. 2 und 3 und § 13 finden in der bis zum 28. Dezember 1991 geltenden Fassung in den in Absatz 6 und 7 genannten Fällen weiterhin Anwendung.
 
-
-## § 25b – Sonstige Vorschriften
+# § 25b – Sonstige Vorschriften
 
 Die Leistungen nach den §§ 9a bis 9c und § 18 unterliegen in der Person des unmittelbar Berechtigten nicht der Zwangsvollstreckung.
 
-
-## § 26 – (weggefallen)
+# § 26 – (weggefallen)
 
 \-
 
-
-## § 27
+# § 27
 
 (Inkrafttreten) \*)  
 -----
@@ -334,8 +300,7 @@ d)
 
 Erbrachte Leistungen für Berechtigte nach § 1 Abs. 1 in dem Gebiet, in dem das Häftlingshilfegesetz schon vor dem Beitritt gegolten hat, sind anzurechnen.
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 920)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 920)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 ...

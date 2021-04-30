@@ -1,15 +1,11 @@
-# [SeeSchMeldPortalG] Gesetz über das Verfahren für die elektronische Abgabe von Meldungen für Schiffe im Seeverkehr über das Zentrale Meldeportal des Bundes  (Seeschifffahrt-Meldeportal-Gesetz)
-
-Ausfertigungsdatum: 30.06.2017
-
+% Gesetz über das Verfahren für die elektronische Abgabe von Meldungen für Schiffe im Seeverkehr über das Zentrale Meldeportal des Bundes  (Seeschifffahrt-Meldeportal-Gesetz)
+% Ausfertigungsdatum: 30.06.2017
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Dieses Gesetz regelt das Verfahren für Meldungen, die im Falle eines Hafenbesuchs, eines Aufenthaltes in deutschen Hoheitsgewässern oder des Befahrens deutscher Hoheitsgewässer über das Zentrale Meldeportal des Bundes abzugeben sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -55,13 +51,11 @@ diejenige natürliche oder juristische Person, die aufgrund einer Meldevorschrif
 
 eine von der empfangenden Stelle eingerichtete und betriebene elektronische Eingangsstelle für Meldungen, die über das Zentrale Meldeportal eingehen.
 
-
-## § 3 – Zweck des Meldeportals
+# § 3 – Zweck des Meldeportals
 
 Das Meldeportal dient der Entgegennahme und Weiterleitung einer Meldung, die nach einer Meldevorschrift über das Meldeportal elektronisch abgegeben werden muss, an die jeweils zuständigen empfangenden Stellen.
 
-
-## § 4 – Zuständigkeit, Erreichbarkeit
+# § 4 – Zuständigkeit, Erreichbarkeit
 
 (1) Die zuständige Behörde ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Bundesanzeiger bekannt gegebene Behörde der Wasserstraßen- und Schifffahrtsverwaltung.
 
@@ -69,27 +63,23 @@ Das Meldeportal dient der Entgegennahme und Weiterleitung einer Meldung, die nac
 
 (3) Die Bekanntmachungen und Veröffentlichungen nach den Absätzen 1 und 2 sind im Verkehrsblatt nachrichtlich zu wiederholen.
 
-
-## § 5 – Berechtigung zur Datenverarbeitung
+# § 5 – Berechtigung zur Datenverarbeitung
 
 (1) Die zuständige Behörde ist befugt, Meldungen zum Zwecke des Abrufs durch die empfangende Stelle zu erheben und zu verarbeiten.
 
 (2) Die Datenübermittlung ist zulässig, soweit aus in einer in der jeweils maßgeblichen Meldevorschrift enthaltenen Befugnis Anlass und Zweck der Erhebung sowie die Datenempfänger und die zu übermittelnden Daten erkennbar sind.
 
-
-## § 6 – Abgeben von Meldungen über das Meldeportal
+# § 6 – Abgeben von Meldungen über das Meldeportal
 
 Der ersten eingehenden Meldung für ein Befahren deutscher Hoheitsgewässer oder für einen Hafenbesuch wird automatisiert eine Anlaufreferenznummer zugewiesen. Bei jeder weiteren Meldung dieser Fahrt muss der Meldende die Anlaufreferenznummer angeben.
 
-
-## § 7 – Entgegennahme, Zuordnung und Abruf der Meldungen
+# § 7 – Entgegennahme, Zuordnung und Abruf der Meldungen
 
 (1) Die zuständige Behörde stellt sicher, dass die eingegangenen Meldungen anhand ihres Typs und der Anlaufreferenznummer automatisiert den Nachrichteneingängen der berechtigten empfangenden Stellen nach Maßgabe deren Anforderungen zugeordnet werden.
 
 (2) Für den Abruf der Meldungen aus den eigenen Nachrichteneingängen ist die jeweilige empfangende Stelle verantwortlich. Unverzüglich nach Quittierung des Eingangs einer Meldung durch die letzte empfangende Stelle, spätestens nach 30 Tagen, wird die Meldung durch die zuständige Behörde automatisiert aus dem Nachrichteneingang gelöscht.
 
-
-## § 8 – Nutzung des Meldeportals durch andere Behörden
+# § 8 – Nutzung des Meldeportals durch andere Behörden
 
 Die zuständigen Behörden der Länder können sich im Wege der Organleihe der zuständigen Behörde nach § 4 Absatz 1 Satz 1 bedienen für Meldungen über Schiffe, die für behördliche oder statistische Zwecke nach Maßgabe
 

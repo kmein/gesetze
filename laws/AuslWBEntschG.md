@@ -1,10 +1,7 @@
-# [AuslWBEntschG] Gesetz zur näheren Regelung der Entschädigungsansprüche für Auslandsbonds  (Auslandsbonds-Entschädigungsgesetz)
-
-Ausfertigungsdatum: 10.03.1960
-
+% Gesetz zur näheren Regelung der Entschädigungsansprüche für Auslandsbonds  (Auslandsbonds-Entschädigungsgesetz)
+% Ausfertigungsdatum: 10.03.1960
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
@@ -22,13 +19,11 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
 7. Umtauschstücke sind Wertpapiere, die im Umtausch gegen die bei Annahme des Regelungsangebotes eingereichten Auslandsbonds ausgegeben worden sind, sowie Auslandsbonds, denen die Regelungsbedingungen nach Annahme des Regelungsangebotes aufgedruckt worden sind (Artikel 15 Abs. 2 Buchstabe a Nr. i und ii des Schuldenabkommens).
 
-
-## § 2 – Geltung des Bereinigungsgesetzes
+# § 2 – Geltung des Bereinigungsgesetzes
 
 Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich aus den folgenden Vorschriften ergebenden näheren Regelung.
 
-
-## § 3 – Inhalt des Entschädigungsanspruchs
+# § 3 – Inhalt des Entschädigungsanspruchs
 
 (1) Der Aussteller ist dem Entschädigungsberechtigten zu Geldleistungen verpflichtet, deren Währung, Höhe, Verzinsung und Fälligkeit sich nach den Leistungen richten, die dem Entschädigungsberechtigten bei Anerkennung des Auslandsbonds, auf den sich sein Feststellungsbescheid bezieht, nach dem Regelungsangebot zustehen würden.
 
@@ -38,8 +33,7 @@ Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich aus d
 
 (4) Hat der Aussteller kein Regelungsangebot abgegeben, so ist er zu den Geldleistungen verpflichtet, die sich aus dem Schuldenabkommen und seinen Anlagen für Verpflichtungen aus Auslandsbonds der im Feststellungsbescheid bezeichneten Art ergeben. Solange die Inhaber anerkannter Auslandsbonds der im Feststellungsbescheid bezeichneten Art nicht berechtigt sind, ihre Ansprüche nach § 4 Abs. 2 des Ausführungsgesetzes zum Schuldenabkommen gerichtlich geltend zu machen, ist der Aussteller zu Leistungen auf den Entschädigungsanspruch nicht verpflichtet.
 
-
-## § 4 – Ansprüche aus Zinsscheinen
+# § 4 – Ansprüche aus Zinsscheinen
 
 (1) Der Entschädigungsanspruch umfaßt nach Maßgabe des § 3 die Ansprüche aus Zinsscheinen, die nach dem 14. März 1945 fällig geworden sind. Dies gilt nicht für Zinsscheine, die nach § 1 der Zwölften Durchführungsverordnung zum Bereinigungsgesetz vom 11. August 1956 (Bundesgesetzbl. I S. 742) selbständig anerkannt worden sind oder deren Gegenwert der Entschädigungsberechtigte bereits erhalten hat. Der rechtmäßige Erwerber (§ 38 AuslWBG) eines nach dem 14. März 1945 fällig gewordenen Zinsscheins kann verlangen, daß der Entschädigungsberechtigte ihm das nach Satz 1 Erlangte nach Maßgabe der Vorschriften des Bürgerlichen Gesetzbuchs über die ungerechtfertigte Bereicherung herausgibt.
 
@@ -49,8 +43,7 @@ Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich aus d
 
 (4) Die Absätze 1 bis 3 gelten sinngemäß, wenn nach den Bedingungen, die für Auslandsbonds der im Feststellungsbescheid bezeichneten Art gelten, Zinsen gegen Vorlegung und Abstempelung der Stammurkunde zu zahlen waren.
 
-
-## § 5 – Beginn der Leistungspflicht
+# § 5 – Beginn der Leistungspflicht
 
 (1) Die Leistungspflicht des Ausstellers beginnt zwei Monate nach dem Inkrafttreten dieses Gesetzes, frühestens jedoch zwei Monate nach Abgabe des Regelungsangebots.
 
@@ -62,8 +55,7 @@ Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich aus d
 
 (5) Schwebt zu Beginn der Leistungspflicht eine Anmeldung nach § 51 AuslWBG zur nachträglichen Anerkennung des Auslandsbonds, auf den sich der Feststellungsbescheid bezieht, so gilt Absatz 4 sinngemäß.
 
-
-## § 6 – Ausschluß nachträglicher Kürzungen
+# § 6 – Ausschluß nachträglicher Kürzungen
 
 (1) Nach Beginn der Leistungspflicht ist das Recht des Ausstellers, eine Kürzung des Entschädigungsanspruchs nach § 53 Abs. 2 AuslWBG zu verlangen, ausgeschlossen, es sei denn, daß der Aussteller seine Leistungen nach § 5 Abs. 4 zurückbehalten hat.
 
@@ -73,13 +65,11 @@ Für die Entschädigungsansprüche gelten §§ 53, 54 AuslWBG mit der sich aus d
 
 (4) Die Bundesregierung kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Ausgleichsverfahren unter den Ausstellern näher regeln, soweit dies zur Erleichterung der Feststellung, in welcher Höhe Ausgleichsansprüche bestehen, notwendig ist; sie kann zu diesem Zweck die Aussteller zur Erteilung von Auskunft über die ihnen zustehenden Ablösungsbeträge verpflichten.
 
-
-## § 7 – Nachträgliche Anerkennung von Auslandsbonds
+# § 7 – Nachträgliche Anerkennung von Auslandsbonds
 
 Nach Beginn der Leistungspflicht wird durch die Anerkennung eines nach § 51 AuslWBG nachträglich angemeldeten Auslandsbonds, für den ein Feststellungsbescheid erteilt worden ist, die Geltendmachung des Entschädigungsanspruchs aus dem Feststellungsbescheid nicht ausgeschlossen. Dies gilt nicht, soweit der Aussteller seine Leistungen nach § 5 Abs. 5 zurückbehalten hat.
 
-
-## § 8 – Zahlungen an die Konversionskasse
+# § 8 – Zahlungen an die Konversionskasse
 
 (1) Der Aussteller ist unter den in Abschnitt I der Anlage V des Schuldenabkommens genannten Voraussetzungen zu Leistungen auf den Entschädigungsanspruch ohne Rücksicht auf die Zahlungen verpflichtet, die er auf Auslandsbonds der im Feststellungsbescheid bezeichneten Art an die Konversionskasse für deutsche Auslandsschulden (Konversionskasse) geleistet hat.
 
@@ -89,8 +79,7 @@ Nach Beginn der Leistungspflicht wird durch die Anerkennung eines nach § 51 Aus
 
 (4) Soweit nach Absatz 1 Zahlungen an die Konversionskasse unberücksichtigt bleiben, gehen mit dem Inkrafttreten dieses Gesetzes die Ansprüche aus den Zahlungen und den hierauf beruhenden Gutschriften bei der Konversionskasse auf den Bund über.
 
-
-## § 9 – Verbriefung von Entschädigungsansprüchen
+# § 9 – Verbriefung von Entschädigungsansprüchen
 
 (1) Die Aussteller der im anliegenden Verzeichnis genannten Arten von Auslandsbonds haben unverzüglich nach Beginn der Leistungspflicht den Entschädigungsberechtigten über die ihnen zustehenden Leistungen Schuldverschreibungen auf den Inhaber zu erteilen. Dies gilt nicht für Leistungen, die nach § 5 Abs. 2 zu Beginn der Leistungspflicht fällig werden. Bei den im anliegenden Verzeichnis unter Nummer 1 bis 11 genannten Arten von Auslandsbonds gilt Satz 1 ferner nicht für Leistungen, die den Entschädigungsberechtigten nach § 4 Abs. 2, 3 für Ansprüche aus vor dem 15. März 1945 fällig gewordenen Zinsscheinen zustehen. Soweit der Aussteller zur Erteilung von Schuldverschreibungen verpflichtet ist, entfällt seine Verpflichtung zu Geldleistungen nach § 3.
 
@@ -98,15 +87,13 @@ Nach Beginn der Leistungspflicht wird durch die Anerkennung eines nach § 51 Aus
 
 (3) Die Schuldverschreibungen nach Absatz 1 sind in sinngemäßer Anwendung der Bedingungen, die für die Umtauschstücke gelten, durch Rückkauf oder Auslosung zu tilgen; die Aufgaben der Treuhänder und Zahlungsagenten bei dem Tilgungsdienst nimmt der Aussteller selbst wahr. Auslosungen sind im Bundesanzeiger bekanntzumachen.
 
-
-## § 10 – Eintragung von Entschädigungsansprüchen in die Schuldbücher
+# § 10 – Eintragung von Entschädigungsansprüchen in die Schuldbücher
 
 (1) Entschädigungsansprüche, die sich gegen den Bund richten, sind als Schuldbuchforderungen in das Bundesschuldbuch einzutragen, wenn das Regelungsangebot die Ausgabe von Umtauschstücken vorsieht und keine Schuldverschreibungen nach § 9 Abs. 1 zu erteilen sind. Schuldverschreibungen gegen Löschung der Forderungen werden nicht ausgereicht. Im Übrigen gilt das Bundesschuldenwesengesetz.
 
 (2) Durch Landesrecht kann bestimmt werden, daß Entschädigungsansprüche, die sich gegen ein Land richten, unter den in Absatz 1 Satz 1 genannten Voraussetzungen als Schuldbuchforderungen in das Landesschuldbuch einzutragen sind.
 
-
-## § 11 – Inhalt des Entschädigungsanspruchs
+# § 11 – Inhalt des Entschädigungsanspruchs
 
 (1) Die Vorschriften dieses Gesetzes über Entschädigungsansprüche aus Feststellungsbescheiden mit Ausnahme des § 4 Abs. 3, des § 5 Abs. 1 und der §§ 6, 8, 9 sind auf Entschädigungsansprüche für Tilgungsstücke sinngemäß anzuwenden, wenn der Entschädigungsberechtigte dieser Regelung innerhalb von fünf Jahren nach dem Inkrafttreten des Gesetzes oder nach Abgabe des Regelungsangebots zustimmt. Die Zustimmung muß dem Aussteller schriftlich erklärt werden; sie kann nicht unter einer Bedingung oder Zeitbestimmung erfolgen. Die Leistungspflicht des Ausstellers beginnt zwei Monate nach der Zustimmung des Entschädigungsberechtigten, frühestens jedoch zwei Monate nach Abgabe des Regelungsangebotes.
 
@@ -114,18 +101,15 @@ Nach Beginn der Leistungspflicht wird durch die Anerkennung eines nach § 51 Aus
 
 (3) Auf Dritte, die als Schuldner für Auslandsbonds unmittelbar haften, finden die für den Aussteller geltenden Vorschriften des Absatzes 2 sinngemäß Anwendung.
 
-
-## § 12 – Fälligkeit der Entschädigungsansprüche
+# § 12 – Fälligkeit der Entschädigungsansprüche
 
 Hat sich der Aussteller in seinem Regelungsangebot zur Barablösung verpflichtet, so kann er innerhalb von zwei Monaten nach dem Inkrafttreten dieses Gesetzes oder nach Abgabe des Regelungsangebotes die Endfälligkeit der Entschädigungsansprüche durch schriftliche Erklärung gegenüber dem Entschädigungsberechtigten hinausschieben, soweit dies nach dem Schuldenabkommen und seinen Anlagen für die Art von Auslandsbonds zulässig ist, zu der die Tilgungsstücke gehören; für Arten von Auslandsbonds, die unter die Anlage II des Schuldenabkommens fallen, darf eine spätere Endfälligkeit als der 31. Dezember 1967 nicht bestimmt werden. Macht der Aussteller von dieser Befugnis Gebrauch, so ist er zu den Geldleistungen verpflichtet, die sich aus dem Schuldenabkommen und seinen Anlagen für Verpflichtungen aus der Art von Auslandsbonds ergeben, zu der die Tilgungsstücke gehören.
 
-
-## § 13 – Kürzungsrecht des Ausstellers nach Leistung
+# § 13 – Kürzungsrecht des Ausstellers nach Leistung
 
 Der Aussteller kann sein Kürzungsrecht (§ 54 Abs. 2 Satz 1 in Verbindung mit § 53 Abs. 2 AuslWBG) auch geltend machen, wenn er auf die Entschädigungsansprüche für Tilgungsstücke bereits geleistet hat; der Empfänger der Leistung haftet nach Maßgabe des § 820 des Bürgerlichen Gesetzbuchs. Ist vor der Geltendmachung des Kürzungsrechts über den Entschädigungsanspruch verfügt und die Entschädigung an den neuen Berechtigten geleistet worden, so haftet neben diesem auch der in § 54 AuslWBG bezeichnete Entschädigungsberechtigte für die Beträge, zu deren Rückzahlung der Empfänger der Leistung nach Satz 1 verpflichtet ist.
 
-
-## § 14 – Verbriefung von Entschädigungsansprüchen
+# § 14 – Verbriefung von Entschädigungsansprüchen
 
 (1) Der Aussteller hat den Entschädigungsberechtigten für Tilgungsstücke auf Verlangen über die ihnen zustehenden Leistungen Schuldverschreibungen auf den Inhaber zu erteilen; er kann die Verbriefung davon abhängig machen, daß ihm der Entschädigungsberechtigte für den Fall von Kürzungen Sicherheit leistet.
 
@@ -133,27 +117,23 @@ Der Aussteller kann sein Kürzungsrecht (§ 54 Abs. 2 Satz 1 in Verbindung mit �
 
 (3) Die Kosten, die dem Aussteller durch die Ausstellung und Ausgabe der Schuldverschreibungen entstehen, hat der Entschädigungsberechtigte zu tragen und vorzuschießen.
 
-
-## § 15 – Gerichtsstand
+# § 15 – Gerichtsstand
 
 (1) Für Klagen aus Entschädigungsansprüchen für Tilgungsstücke ist das Landgericht Berlin ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
 (2) Absatz 1 gilt sinngemäß für Klagen auf Feststellung des Bestehens oder Nichtbestehens von Entschädigungsansprüchen für Tilgungsstücke.
 
-
-## § 16 – Haftung Dritter
+# § 16 – Haftung Dritter
 
 Auf Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds unmittelbar haften, und auf Personen, die sich in einem Regelungsangebot zu Leistungen auf Auslandsbonds verpflichtet haben, finden die für Aussteller geltenden Vorschriften dieses Gesetzes sinngemäß Anwendung.
 
-
-## § 17 – Ersatzurkunden und andere Ersatzleistungen
+# § 17 – Ersatzurkunden und andere Ersatzleistungen
 
 (1) Der Aussteller ist zu Leistungen auf den Entschädigungsanspruch nicht verpflichtet, wenn der Entschädigungsberechtigte für seinen Auslandsbond eine Ersatzurkunde oder eine andere Ersatzleistung auf Kosten des Ausstellers erhalten hat. Dies gilt nicht, wenn der Entschädigungsberechtigte die als Ersatz für seinen Auslandsbond erhaltene Leistung dem Aussteller zurückgewährt.
 
 (2) Der Aussteller kann verlangen, daß sich der Entschädigungsberechtigte schriftlich verpflichtet, Ansprüche auf Ersatzurkunden oder andere Ersatzleistungen für seinen Auslandsbond nur gegen Rückgewähr der Entschädigungsleistungen geltend zu machen.
 
-
-## § 18 – Steuer- und Bilanzierungsvorschriften
+# § 18 – Steuer- und Bilanzierungsvorschriften
 
 (1)
 
@@ -163,13 +143,11 @@ Auf Dritte, die als Schuldner für die Ansprüche aus Auslandsbonds unmittelbar 
 
 (4) In der Umstellungsrechnung von Geldinstituten und in der Altbankenrechnung von Berliner Altbanken sind die Verpflichtungen aus Entschädigungsansprüchen so zu behandeln, wie die Verbindlichkeiten aus den Auslandsbonds zu behandeln wären, aus denen die Entschädigungsansprüche herrühren.
 
-
-## § 19 – Entschädigungsansprüche nach § 52 AuslWBG
+# § 19 – Entschädigungsansprüche nach § 52 AuslWBG
 
 Auf die in § 52 AuslWBG genannten Entschädigungsansprüche für kraftlos gewordene Auslandsbonds sind §§ 8, 16, 18 sinngemäß anzuwenden; in § 18 Abs. 3 Satz 2 tritt dabei an die Stelle des 30. Dezember des auf die Verkündung dieses Gesetzes folgenden Jahres der 30. Dezember des Jahres, in dem die Kammer für Wertpapierbereinigung die Voraussetzungen für den Entschädigungsanspruch nach § 52 Abs. 2 AuslWBG rechtskräftig festgestellt hat.
 
-
-## § 20 – Vorschriften für die in den Niederlanden begebenen Auslandsbonds
+# § 20 – Vorschriften für die in den Niederlanden begebenen Auslandsbonds
 
 (1) Die in § 21 Abs. 1 Satz 2 AuslWBG bezeichnete Frist für Anmeldungen beim Auslandsbevollmächtigten wird für die Arten von Auslandsbonds, als deren Begebungsland im Verzeichnis der Auslandsbonds (Anlage zu § 1 Abs. 1 AuslWBG, ergänzt durch § 1 der Ersten Durchführungsverordnung zum Bereinigungsgesetz vom 21. Februar 1953 - Bundesgesetzbl. I S. 31 - und durch § 1 der Neunten Durchführungsverordnung zum Bereinigungsgesetz vom 16. August 1954 - Bundesgesetzbl. I S. 267) die Niederlande angegeben sind, bis zum Ablauf eines Monats nach dem Inkrafttreten dieses Gesetzes verlängert.
 
@@ -181,18 +159,15 @@ Auf die in § 52 AuslWBG genannten Entschädigungsansprüche für kraftlos gewor
 
 (5) Die Leistungspflicht des Ausstellers gegenüber Entschädigungsberechtigten beginnt frühestens zwei Monate nach Ablauf der Anmeldefrist.
 
-
-## § 21 – Land Berlin
+# § 21 – Land Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 22 – Inkrafttreten
+# § 22 – Inkrafttreten
 
 Dieses Gesetz tritt am ersten Tage des zweiten Monats nach seiner Verkündung in Kraft.
 
-
-## Anlage – (§ 9 Abs. 1)Verzeichnis nach § 9 Abs. 1
+# Anlage – (§ 9 Abs. 1)Verzeichnis nach § 9 Abs. 1
 
 (Fundstelle: BGBl. Teil III 4139-3, S. 148)
 

@@ -1,15 +1,11 @@
-# [WZG§4SBek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 19.03.1985
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 19.03.1985
  
-
-## I.
+# I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden in der Anlage 1 amtliche Prüf- und Gewährzeichen bekanntgemacht, die im Königreich Schweden eingeführt sind.
 
-
-## II.
+# II.
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird bekanntgemacht, daß
 
@@ -21,18 +17,15 @@ neben den in der Bekanntmachung vom 19. Januar 1983 (BGBl. I S. 47) in der Anlag
 
 von der Eintragung als Warenzeichen ausgeschlossen sind.
 
-
-## III.
+# III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 21. September 1984 (BGBl. I S. 1259).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1 – Amtliche Prüf- und Gewährzeichen des Königreichs Schweden
+# Anlage 1 – Amtliche Prüf- und Gewährzeichen des Königreichs Schweden
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -40,8 +33,7 @@ Der Bundesminister der Justiz
 
 Fundstelle: BGBl. I 1985, 599)
 
-
-## Anlage 2 – Internationaler Währungsfonds
+# Anlage 2 – Internationaler Währungsfonds
 
 (Fundstelle: BGBl. I 1985, 599)
 
@@ -53,8 +45,7 @@ Fondo Monetario Internacional - FMI
   
 Abkürzung in englischer Sprache: IMF
 
-
-## Anlage 3 – Internationale Seeschiffahrts-Organisation
+# Anlage 3 – Internationale Seeschiffahrts-Organisation
 
 Bezeichnung in arabischer Sprache  
   

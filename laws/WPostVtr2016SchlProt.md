@@ -1,5 +1,3 @@
-# [WPostVtr2016SchlProt] Schlussprotokoll zum Weltpostvertrag
-
-Ausfertigungsdatum: 06.10.2016
-
+% Schlussprotokoll zum Weltpostvertrag
+% Ausfertigungsdatum: 06.10.2016
  

@@ -1,10 +1,7 @@
-# [ZustAO Beih] Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Festsetzung von Beihilfen sowie für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis für Versorgungsempfänger des Bundes  (BMF-Zuständigkeitsanordnung - Beihilfe - ZustAO Beih)
-
-Ausfertigungsdatum: 27.01.2000
-
+% Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Festsetzung von Beihilfen sowie für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis für Versorgungsempfänger des Bundes  (BMF-Zuständigkeitsanordnung - Beihilfe - ZustAO Beih)
+% Ausfertigungsdatum: 27.01.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Im Namen und im Einvernehmen mit
 
@@ -79,42 +76,35 @@ der Stiftung Haus der Geschichte der Bundesrepublik Deutschland
 
 ordne ich gemäß § 17 Abs. 5 der Beihilfevorschriften (BhV) des Bundes vom 10. Juli 1995 (GMBl. S. 470) und des § 174 Abs. 3 sowie § 172 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675), in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654), Folgendes an:
 
-
-## I.
+# I.
 
 1. Die Oberfinanzdirektionen, Zoll- und Verbrauchsteuerabteilung, entscheiden nach Maßgabe der anliegenden Übersicht als Festsetzungsstellen über die Beihilfeanträge von Versorgungsempfängern des Bundes. Örtlich zuständig ist die Oberfinanzdirektion, in deren Bezirk sich der Hauptwohnsitz des Versorgungsempfängers befindet. Für beihilfeberechtigte Halbwaisen ist der Hauptwohnsitz des Elternteils maßgebend; bei mehreren hinterbliebenen Vollwaisen der Hauptwohnsitz der jüngsten beihilfeberechtigten Waise. Abweichend von Satz 1 entscheidet über Beihilfeanträge von Versorgungsempfängern mit Hauptwohnsitz im Oberfinanzbezirk Berlin die Oberfinanzdirektion Cottbus, in den Oberfinanzbezirken Düsseldorf und Münster die Oberfinanzdirektion Köln sowie über Beihilfeanträge von Versorgungsempfängern mit Hauptwohnsitz im Ausland bis auf weiteres das Bundesamt für Finanzen.
 
 2. Die Festsetzungsstellen sind nicht zu Entscheidungen befugt, die nach den Vorschriften den obersten Dienstbehörden vorbehalten sind.
 
-
-## II.
+# II.
 
 Abschnitt I gilt entsprechend für Beihilfeanträge ehemaliger Bundespräsidenten, Bundeskanzler, Bundesminister und Parlamentarischer Staatssekretäre.
 
-
-## III.
+# III.
 
 1. Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes sind für die Entscheidung über Widersprüche auf dem Gebiet der nach dieser Anordnung übertragenen Beihilfe die in Abschnitt I Nr. 1 genannten Stellen zuständig, soweit sie den mit dem Widerspruch angefochtenen Bescheid erlassen oder den Erlass eines Verwaltungsaktes abgelehnt haben. Die obersten Dienstbehörden behalten sich vor, im Einzelfall über einen Widerspruch selbst zu entscheiden.
 
 2. Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes wird die Vertretung des Dienstherrn bei Klagen auf dem Gebiet der Beihilfe den in Abschnitt I Nr. 1 genannten Stellen übertragen, soweit sie nach dieser Anordnung für den Erlass von Widerspruchsbescheiden zuständig sind. Die obersten Dienstbehörden behalten sich vor, im Einzelfall oder in Gruppen von Fällen die Vertretung abweichend zu regeln oder die Vertretung selbst zu übernehmen.
 
-
-## IV.
+# IV.
 
 Die nach dieser Anordnung zuständigen Stellen führen den im Rahmen der Aufgabenübertragung erforderlich werdenden Schriftwechsel mit den obersten Dienstbehörden (§ 49 des Beamtenversorgungsgesetzes und Tz. 49.1.2 der Allgemeinen Verwaltungsvorschrift vom 3. November 1980 - GBMl. S. 742) unmittelbar.
 
-
-## V.
+# V.
 
 Die Anordnung tritt am 1. Februar 2000 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## Übersicht
+# Übersicht
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1211 - 1212;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -1,10 +1,7 @@
-# [EU-VSchDG] Gesetz zur Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004  (EU-Verbraucherschutzdurchführungsgesetz - EU-VSchDG)
-
-Ausfertigungsdatum: 21.12.2006
-
+% Gesetz zur Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004  (EU-Verbraucherschutzdurchführungsgesetz - EU-VSchDG)
+% Ausfertigungsdatum: 21.12.2006
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom 27.12.2017, S. 1), die zuletzt durch die Richtlinie (EU) 2019/771 (ABl. L 136 vom 22.5.2019, S. 28) geändert worden ist, in der jeweils geltenden Fassung.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 21.12.2006
 
 (3) Die Befugnisse nach diesem Gesetz gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Regelungen vorgesehen sind.
 
-
-## § 2 – Zuständige Behörde
+# § 2 – Zuständige Behörde
 
 Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten Verstößen mit Unions-Dimension zuständig
 
@@ -47,8 +43,7 @@ nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland eine Zweign
 
 und der Verdacht des Verstoßes sich auf die jeweilige Tätigkeit bezieht,
 
-2a.  
-die Bundesanstalt für Finanzdienstleistungsaufsicht im Falle eines Verdachtes eines Verstoßes gegen die zur Umsetzung der in Nummer 24 des Anhangs der Verordnung (EU) 2017/2394 erlassenen Rechtsvorschriften,
+2a. die Bundesanstalt für Finanzdienstleistungsaufsicht im Falle eines Verdachtes eines Verstoßes gegen die zur Umsetzung der in Nummer 24 des Anhangs der Verordnung (EU) 2017/2394 erlassenen Rechtsvorschriften,
 
 3. das Luftfahrt-Bundesamt im Falle eines Verdachtes eines Verstoßes gegen die in den Nummern 8 und 10 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Durchführung erlassenen Rechtsvorschriften,
 
@@ -66,8 +61,7 @@ und der Verdacht des Verstoßes sich auf die Tätigkeit bezieht,
 
 7. vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige Behörde in den übrigen Fällen.
 
-
-## § 3 – Zentrale Verbindungsstelle
+# § 3 – Zentrale Verbindungsstelle
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz ist zentrale Verbindungsstelle im Sinne des Artikels 5 Absatz 1 der Verordnung (EU) 2017/2394.
 
@@ -79,14 +73,11 @@ und der Verdacht des Verstoßes sich auf die Tätigkeit bezieht,
 
 (5) Die zentrale Verbindungsstelle ist befugt, Ermächtigungen nach Artikel 27 Absatz 1 der Verordnung (EU) 2017/2394 vorzunehmen.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
+# § 5 – (weggefallen)
 
-
-## § 5 – (weggefallen)
-
-
-## § 6 – Ergänzende Verfahrensvorschriften
+# § 6 – Ergänzende Verfahrensvorschriften
 
 (1) Für das Verwaltungsverfahren der Bundesbehörden gelten ergänzend die Vorschriften des Verwaltungsverfahrensgesetzes. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -104,8 +95,7 @@ Zuständig ist das Amtsgericht, in dessen Bezirk sich die zuständige Behörde b
 
 (5) Soweit Maßnahmen nach Artikel 9 Absatz 3 Buchstabe d der Verordnung (EU) 2017/2394 erforderlich sind, kann sich die zuständige Behörde auch anderer Personen und Einrichtungen bedienen. Die zuständige Behörde hat dabei die Einhaltung des Artikels 10 Absatz 2 der Verordnung (EU) 2017/2394 durch die anderen Personen und Einrichtungen zu gewährleisten. Sowohl die zuständige Behörde als auch die anderen Personen und Einrichtungen sind von den Pflichten der Artikel 12 bis 14 der Verordnung (EU) 2016/679 in Bezug auf die personenbezogenen Daten der von der Ermittlungsmaßnahme betroffenen Personen befreit, solange und soweit die Erfüllung dieser Pflichten den Zweck der Ermittlungsmaßnahme gefährden würde. Nach Wegfall der Beschränkung sind die betroffenen Personen jeweils in geeigneter Form zu informieren, wobei keine Pflicht zur Offenbarung von Ort und Zeitpunkt der durchgeführten Ermittlungsmaßnahme oder der Identität der natürlichen Personen, die die Ermittlungsmaßnahme durchgeführt haben, besteht. Die zuständige Behörde darf die durch Maßnahmen nach Artikel 9 Absatz 3 Buchstabe d der Verordnung (EU) 2017/2394 gewonnenen Erkenntnisse auch für andere Zwecke als für die Durchführung des Verwaltungsverfahrens nach diesem Gesetz verarbeiten, soweit dies für die Erfüllung der ihr durch Gesetz zugewiesenen Aufgaben erforderlich ist.
 
-
-## § 7 – Beauftragung Dritter
+# § 7 – Beauftragung Dritter
 
 (1) Die nach § 2 Nummer 1, 2 oder 2a zuständige Behörde soll bei Vorliegen der Voraussetzungen des Artikels 7 Absatz 1 Satz 2 der Verordnung (EU) 2017/2394 eine in § 3 Abs. 1 Satz 1 Nr. 1 bis 3 des Unterlassungsklagengesetzes oder in § 8 Abs. 3 Nr. 2 bis 4 des Gesetzes gegen den unlauteren Wettbewerb genannte Stelle (beauftragter Dritter) nach Maßgabe der Absätze 2 und 3 beauftragen, nach § 4e des Unterlassungsklagengesetzes, auch in Verbindung mit § 8 Abs. 5 Satz 2 zweiter Halbsatz des Gesetzes gegen den unlauteren Wettbewerb, auf das Abstellen dieser Verstöße hinzuwirken. Der beauftragte Dritte handelt im eigenen Namen.
 
@@ -115,13 +105,11 @@ Zuständig ist das Amtsgericht, in dessen Bezirk sich die zuständige Behörde b
 
 (4) Die Landesregierungen werden ermächtigt, für ihre Behörden durch Rechtsverordnung den Absätzen 1 bis 3 entsprechende Regelungen zu erlassen. Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden des Landes zu übertragen.
 
-
-## § 8 – Außenverkehr
+# § 8 – Außenverkehr
 
 Die Befugnis zum Verkehr mit der Europäischen Kommission und den mit der Durchführung der Verordnung (EU) 2017/2394 befassten Behörden anderer Mitgliedstaaten der Europäischen Union wird der zentralen Verbindungsstelle übertragen.
 
-
-## § 9 – Bußgeldvorschriften
+# § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach Artikel 9 Absatz 3 Buchstabe a, b oder c oder Absatz 4 Buchstabe a, e oder g der Verordnung (EU) 2017/2394 zuwiderhandelt.
 
@@ -129,13 +117,11 @@ Die Befugnis zum Verkehr mit der Europäischen Kommission und den mit der Durchf
 
 (3) (weggefallen)
 
-
-## § 10 – Vollstreckung
+# § 10 – Vollstreckung
 
 Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes für Entscheidungen nach Artikel 9 Absatz 4 Buchstabe a, e und g der Verordnung (EU) 2017/2394 beträgt für jeden Einzelfall höchstens zweihundertfünfzigtausend Euro.
 
-
-## § 11 – Umlagen und Kostenerstattung; Verordnungsermächtigung
+# § 11 – Umlagen und Kostenerstattung; Verordnungsermächtigung
 
 (1) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht durch Gebühren und Auslagen, gesonderte Erstattung nach Satz 2 oder sonstige Einnahmen gedeckt werden, sind sie nach Maßgabe des Absatzes 2 auf die Unternehmen und Kredit- oder Finanzdienstleistungsinstitute, die von § 2 Nr. 2 Buchstabe a und b erfasst sind, umzulegen. Die Kosten, die der zuständigen Behörde durch eine auf Grund des Artikels 9 Absatz 3 Buchstabe c der Verordnung (EU) 2017/2394 vorgenommene Besichtigung oder Prüfung entstehen, sind von den Betroffenen der Behörde gesondert zu erstatten und ihr auf Verlangen vorzuschießen. Zu den Kosten nach Satz 2 gehören auch die Kosten, mit denen die zuständige Behörde von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die zuständige Behörde tätig werden, belastet wird, sowie die Kosten für den Einsatz eigener Mitarbeiter. Auf diese Kosten ist § 15 Abs. 2 des Finanzdienstleistungsaufsichtsgesetzes entsprechend anzuwenden.
 
@@ -143,8 +129,7 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz, das Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Verkehr und digitale Infrastruktur werden jeweils ermächtigt, die Ermächtigung zum Erlass einer Rechtsverordnung nach § 22 Absatz 4 Satz 1 des Bundesgebührengesetzes durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die zu ihrem jeweiligen Geschäftsbereich gehörende, in § 2 Nummer 1, 2, 2a, 3, 5 oder 6 genannte Behörde in dem Umfang zu übertragen, in dem diese individuell zurechenbare öffentliche Leistungen nach diesem Gesetz oder aufgrund dieses Gesetzes erbringt.
 
-
-## § 12 – Verordnungsermächtigung
+# § 12 – Verordnungsermächtigung
 
 (1) Soweit weitere Rechtsakte der Europäischen Union in den Anwendungsbereich der Verordnung (EU) 2017/2394 einbezogen worden sind, wird das Bundesministerium der Justiz und für Verbraucherschutz ermächtigt, die Zuständigkeit für die Durchführung der Verordnung (EU) 2017/2394 im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das Bundesamt für Justiz zu übertragen. Im Falle einer Rechtsverordnung nach Satz 1 bleibt § 2 Nummer 2 und 4 unberührt.
 
@@ -154,8 +139,7 @@ Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung v
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union unanwendbar geworden sind.
 
-
-## § 13 – Zulässigkeit, Zuständigkeit
+# § 13 – Zulässigkeit, Zuständigkeit
 
 (1) Gegen eine Entscheidung nach
 
@@ -171,8 +155,7 @@ der zuständigen Behörde ist die Beschwerde zulässig. Im Übrigen bleiben die 
 
 (4) Über die Beschwerde entscheidet ausschließlich das für den Sitz der zuständigen Behörde zuständige Landgericht. § 36 der Zivilprozessordnung gilt entsprechend.
 
-
-## § 14 – Aufschiebende Wirkung, Anordnung der sofortigen Vollziehung
+# § 14 – Aufschiebende Wirkung, Anordnung der sofortigen Vollziehung
 
 (1) Die Beschwerde hat aufschiebende Wirkung.
 
@@ -198,8 +181,7 @@ der zuständigen Behörde ist die Beschwerde zulässig. Im Übrigen bleiben die 
 
 (9) In dringenden Fällen kann der Vorsitzende entscheiden.
 
-
-## § 15 – Frist und Form
+# § 15 – Frist und Form
 
 (1) Die Beschwerde ist binnen einer Frist von einem Monat bei der zuständigen Behörde schriftlich einzureichen. Die Frist beginnt mit der Zustellung der Entscheidung der Behörde. Es genügt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
 
@@ -215,8 +197,7 @@ der zuständigen Behörde ist die Beschwerde zulässig. Im Übrigen bleiben die 
 
 (5) Die Beschwerdeschrift und die Beschwerdebegründung müssen durch einen bei einem deutschen Gericht zugelassenen Rechtsanwalt oder Rechtslehrer an einer deutschen Hochschule im Sinne des Hochschulrahmengesetzes mit Befähigung zum Richteramt unterzeichnet sein.
 
-
-## § 16 – Beteiligte am Beschwerdeverfahren
+# § 16 – Beteiligte am Beschwerdeverfahren
 
 An dem Verfahren vor dem Beschwerdegericht sind beteiligt
 
@@ -226,20 +207,17 @@ An dem Verfahren vor dem Beschwerdegericht sind beteiligt
 
 3. Personen und Personenvereinigungen, deren Interessen durch die Entscheidung erheblich berührt werden und die das Beschwerdegericht auf ihren Antrag zu dem Verfahren beigeladen hat; Interessen der Verbraucherzentralen und anderer Verbraucherverbände, die mit öffentlichen Mitteln gefördert werden, werden auch dann erheblich berührt, wenn sich die Entscheidung auf eine Vielzahl von Verbrauchern auswirkt und dadurch die Interessen der Verbraucher insgesamt erheblich berührt werden.
 
-
-## § 17 – Anwaltszwang
+# § 17 – Anwaltszwang
 
 Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei einem deutschen Gericht zugelassenen Rechtsanwalt oder Rechtslehrer an einer deutschen Hochschule im Sinne des Hochschulrahmengesetzes mit Befähigung zum Richteramt als Bevollmächtigten vertreten lassen. Die zuständige Behörde kann sich auch durch Beamte oder Angestellte mit Befähigung zum Richteramt sowie Diplomjuristen im höheren Dienst vertreten lassen.
 
-
-## § 18 – Mündliche Verhandlung
+# § 18 – Mündliche Verhandlung
 
 (1) Das Beschwerdegericht entscheidet über die Beschwerde auf Grund mündlicher Verhandlung; mit Einverständnis der Beteiligten kann ohne mündliche Verhandlung entschieden werden.
 
 (2) Sind die Beteiligten in dem Verhandlungstermin trotz rechtzeitiger Benachrichtigung nicht erschienen oder gehörig vertreten, so kann gleichwohl in der Sache verhandelt und entschieden werden.
 
-
-## § 19 – Untersuchungsgrundsatz
+# § 19 – Untersuchungsgrundsatz
 
 (1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen; die Beteiligten sind dabei heranzuziehen. Es ist an das Vorbringen und an die Beweisanträge der Beteiligten nicht gebunden.
 
@@ -249,8 +227,7 @@ Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei einem deu
 
 (4) Das Beschwerdegericht kann den Beteiligten aufgeben, sich innerhalb einer zu bestimmenden Frist über aufklärungsbedürftige Punkte zu äußern, Beweismittel zu bezeichnen und in ihren Händen befindliche Urkunden sowie andere Beweismittel vorzulegen. Bei Versäumung der Frist kann nach Lage der Sache ohne Berücksichtigung der nicht beigebrachten Unterlagen entschieden werden.
 
-
-## § 20 – Beschwerdeentscheidung
+# § 20 – Beschwerdeentscheidung
 
 (1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung. Der Beschluss darf nur auf Tatsachen und Beweismittel gestützt werden, zu denen die Beteiligten sich äußern konnten. Das Beschwerdegericht kann hiervon abweichen, soweit Beigeladenen aus wichtigen Gründen, insbesondere zur Wahrung von Betriebs- oder Geschäftsgeheimnissen, Akteneinsicht nicht gewährt und der Akteninhalt aus diesen Gründen auch nicht vorgetragen worden ist. Dies gilt nicht für solche Beigeladene, die an dem streitigen Rechtsverhältnis derart beteiligt sind, dass die Entscheidung auch ihnen gegenüber nur einheitlich ergehen kann.
 
@@ -258,8 +235,7 @@ Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei einem deu
 
 (3) Der Beschluss ist zu begründen und mit einer Rechtsmittelbelehrung den Beteiligten zuzustellen.
 
-
-## § 21 – Akteneinsicht
+# § 21 – Akteneinsicht
 
 (1) Die in § 16 Nr. 1 und 2 bezeichneten Beteiligten können die Akten des Beschwerdegerichts einsehen und sich durch die Geschäftsstelle auf ihre Kosten Ausfertigungen, Auszüge und Abschriften erteilen lassen. § 299 Abs. 3 der Zivilprozessordnung gilt entsprechend.
 
@@ -267,8 +243,7 @@ Vor dem Beschwerdegericht müssen die Beteiligten sich durch einen bei einem deu
 
 (3) Den in § 16 Nr. 3 bezeichneten Beteiligten soll das Beschwerdegericht nach Anhörung des Verfügungsberechtigten Akteneinsicht in gleichem Umfang gewähren.
 
-
-## § 22 – Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
+# § 22 – Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung
 
 Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts anderes bestimmt ist,
 
@@ -278,8 +253,7 @@ Im Verfahren vor dem Beschwerdegericht gelten ergänzend, soweit nichts anderes 
 
 Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind entsprechend anzuwenden.
 
-
-## § 23 – Einstweilige Anordnung
+# § 23 – Einstweilige Anordnung
 
 (1) Auf Antrag kann das Beschwerdegericht, auch schon vor Beschwerdeerhebung, eine einstweilige Anordnung in Bezug auf den Streitgegenstand treffen, wenn die Gefahr besteht, dass durch eine Veränderung des bestehenden Zustands die Verwirklichung eines Rechts des Antragstellers vereitelt oder wesentlich erschwert werden könnte. Einstweilige Anordnungen sind auch zur Regelung eines vorläufigen Zustands in Bezug auf ein streitiges Rechtsverhältnis zulässig, wenn diese Regelung, vor allem bei dauernden Rechtsverhältnissen, um wesentliche Nachteile abzuwenden oder drohende Gewalt zu verhindern oder aus anderen Gründen nötig erscheint.
 
@@ -289,8 +263,7 @@ Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind ent
 
 (4) Die Absätze 1 bis 3 gelten nicht für die Fälle des § 14.
 
-
-## § 24 – Rechtsbeschwerde
+# § 24 – Rechtsbeschwerde
 
 (1) Gegen die in der Hauptsache erlassenen Beschlüsse der Landgerichte findet die Rechtsbeschwerde an den Bundesgerichtshof statt, wenn das Landgericht die Rechtsbeschwerde zugelassen hat.
 
@@ -316,8 +289,7 @@ Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind ent
 
 6. die Entscheidung ist nicht mit Gründen versehen.
 
-
-## § 25 – Nichtzulassungsbeschwerde
+# § 25 – Nichtzulassungsbeschwerde
 
 (1) Die Nichtzulassung der Rechtsbeschwerde kann selbständig durch Nichtzulassungsbeschwerde angefochten werden.
 
@@ -329,8 +301,7 @@ Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind ent
 
 (5) Wird die Rechtsbeschwerde nicht zugelassen, so wird die Entscheidung des Landgerichts mit der Zustellung des Beschlusses des Bundesgerichtshofes rechtskräftig. Wird die Rechtsbeschwerde zugelassen, so beginnt mit der Zustellung des Beschlusses des Bundesgerichtshofes der Lauf der Beschwerdefrist.
 
-
-## § 26 – Beschwerdeberechtigte, Form und Frist
+# § 26 – Beschwerdeberechtigte, Form und Frist
 
 (1) Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten zu.
 
@@ -342,13 +313,11 @@ Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind ent
 
 (5) Für die Rechtsbeschwerde gelten im Übrigen § 14 Abs. 1, § 15 Abs. 2, 3, 4 Nr. 1 und Abs. 5, die §§ 16 bis 18 sowie die §§ 20 bis 22 entsprechend.
 
-
-## § 27 – Kostentragung und -festsetzung
+# § 27 – Kostentragung und -festsetzung
 
 Im Beschwerdeverfahren und im Rechtsbeschwerdeverfahren kann das Gericht anordnen, dass die Kosten, die zur zweckentsprechenden Erledigung der Angelegenheit notwendig waren, von einem Beteiligten ganz oder teilweise zu erstatten sind, wenn dies der Billigkeit entspricht. Hat ein Beteiligter Kosten durch ein unbegründetes Rechtsmittel oder durch grobes Verschulden veranlasst, so sind ihm die Kosten aufzuerlegen. Im Übrigen gelten die Vorschriften der Zivilprozessordnung über das Kostenfestsetzungsverfahren und die Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen entsprechend.
 
-
-## § 28 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+# § 28 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -368,7 +337,6 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (6) § 149 Abs. 1 Satz 2 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
-
-## § 29 – Evaluierung
+# § 29 – Evaluierung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz berichtet dem Deutschen Bundestag bis zum 31. Januar 2025 über die Anwendung des Gesetzes durch Bundesbehörden.

@@ -1,17 +1,13 @@
-# [KHG] Gesetz zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze  (Krankenhausfinanzierungsgesetz - KHG)
-
-Ausfertigungsdatum: 29.06.1972
-
+% Gesetz zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze  (Krankenhausfinanzierungsgesetz - KHG)
+% Ausfertigungsdatum: 29.06.1972
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Zweck dieses Gesetzes ist die wirtschaftliche Sicherung der Krankenhäuser, um eine qualitativ hochwertige, patienten- und bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen digital ausgestatteten, qualitativ hochwertig und eigenverantwortlich wirtschaftenden Krankenhäusern zu gewährleisten und zu sozial tragbaren Pflegesätzen beizutragen.
 
 (2) Bei der Durchführung des Gesetzes ist die Vielfalt der Krankenhausträger zu beachten. Dabei ist nach Maßgabe des Landesrechts insbesondere die wirtschaftliche Sicherung freigemeinnütziger und privater Krankenhäuser zu gewährleisten. Die Gewährung von Fördermitteln nach diesem Gesetz darf nicht mit Auflagen verbunden werden, durch die die Selbständigkeit und Unabhängigkeit von Krankenhäusern über die Erfordernisse der Krankenhausplanung und der wirtschaftlichen Betriebsführung hinaus beeinträchtigt werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -19,8 +15,7 @@ Im Sinne dieses Gesetzes sind
 
 Einrichtungen, in denen durch ärztliche und pflegerische Hilfeleistung Krankheiten, Leiden oder Körperschäden festgestellt, geheilt oder gelindert werden sollen oder Geburtshilfe geleistet wird und in denen die zu versorgenden Personen untergebracht und verpflegt werden können,
 
-1a.  
-mit den Krankenhäusern notwendigerweise verbundene Ausbildungsstätten
+1a. mit den Krankenhäusern notwendigerweise verbundene Ausbildungsstätten
 
 staatlich anerkannte Einrichtungen an Krankenhäusern zur Ausbildung für die Berufe
 
@@ -78,15 +73,13 @@ die Entgelte der Benutzer oder ihrer Kostenträger für stationäre und teilstat
 
 die Kosten des Krankenhauses, deren Berücksichtigung im Pflegesatz nicht nach diesem Gesetz ausgeschlossen ist.
 
-
-## § 2a – Definition von Krankenhausstandorten
+# § 2a – Definition von Krankenhausstandorten
 
 (1) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft vereinbaren im Benehmen mit den Ländern, den Kassenärztlichen Bundesvereinigungen und dem Verband der Privaten Krankenversicherung bis zum 30. Juni 2017 eine bundeseinheitliche Definition, die die Kriterien für den Standort oder die Standorte eines Krankenhauses und dessen Ambulanzen festlegt. Sie haben sicherzustellen, dass diese Definition des Standorts eines Krankenhauses und dessen Ambulanzen eine eindeutige Abgrenzung von Versorgungseinheiten insbesondere in räumlicher, organisatorischer, medizinischer, wirtschaftlicher und rechtlicher Hinsicht ermöglicht. Die Definition soll insbesondere für Zwecke der Qualitätssicherung, der Abrechnung, für die Krankenhausplanung und die Krankenhausstatistik geeignet sein. Die Möglichkeit, Vereinbarungen nach § 11 des Krankenhausentgeltgesetzes oder nach § 11 der Bundespflegesatzverordnung einheitlich für alle Standorte eines Krankenhauses zu schließen, bleibt unberührt. Die Definition ist für den Spitzenverband Bund der Krankenkassen, die Unternehmen der privaten Krankenversicherung, die Deutsche Krankenhausgesellschaft, die Kassenärztlichen Bundesvereinigungen und deren Mitglieder und Mitgliedskassen sowie für die Leistungserbringer verbindlich. Das Benehmen mit den Ländern nach Satz 1 wird mit zwei von der Gesundheitsministerkonferenz der Länder benannten Vertretern der Länder hergestellt.
 
 (2) Kommt die Vereinbarung nach Absatz 1 Satz 1 ganz oder teilweise nicht fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz 6 ohne Antrag einer Vertragspartei innerhalb von sechs Wochen die Kriterien für den Standort oder die Standorte eines Krankenhauses und dessen Ambulanzen fest.
 
-
-## § 3 – Anwendungsbereich
+# § 3 – Anwendungsbereich
 
 Dieses Gesetz findet keine Anwendung auf
 
@@ -100,8 +93,7 @@ Dieses Gesetz findet keine Anwendung auf
 
 § 28 bleibt unberührt.
 
-
-## § 4
+# § 4
 
 Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
 
@@ -109,8 +101,7 @@ Die Krankenhäuser werden dadurch wirtschaftlich gesichert, daß
 
 2. leistungsgerechte Erlöse aus den Pflegesätzen, die nach Maßgabe dieses Gesetzes auch Investitionskosten enthalten können, sowie Vergütungen für vor- und nachstationäre Behandlung und für ambulantes Operieren erhalten.
 
-
-## § 5 – Nicht förderungsfähige Einrichtungen
+# § 5 – Nicht förderungsfähige Einrichtungen
 
 (1) Nach diesem Gesetz werden nicht gefördert
 
@@ -142,8 +133,7 @@ b) für Personen, die im Maßregelvollzug auf Grund strafrechtlicher Bestimmunge
 
 (2) Durch Landesrecht kann bestimmt werden, daß die Förderung nach diesem Gesetz auch den in Absatz 1 Nr. 2 bis 8 bezeichneten Krankenhäusern und Einrichtungen gewährt wird.
 
-
-## § 6 – Krankenhausplanung und Investitionsprogramme
+# § 6 – Krankenhausplanung und Investitionsprogramme
 
 (1) Die Länder stellen zur Verwirklichung der in § 1 genannten Ziele Krankenhauspläne und Investitionsprogramme auf; Folgekosten, insbesondere die Auswirkungen auf die Pflegesätze, sind zu berücksichtigen.
 
@@ -155,20 +145,17 @@ b) für Personen, die im Maßregelvollzug auf Grund strafrechtlicher Bestimmunge
 
 (4) Das Nähere wird durch Landesrecht bestimmt.
 
-
-## § 6a
+# § 6a
 
 (weggefallen)
 
-
-## § 7 – Mitwirkung der Beteiligten
+# § 7 – Mitwirkung der Beteiligten
 
 (1) Bei der Durchführung dieses Gesetzes arbeiten die Landesbehörden mit den an der Krankenhausversorgung im Lande Beteiligten eng zusammen; das betroffene Krankenhaus ist anzuhören. Bei der Krankenhausplanung und der Aufstellung der Investitionsprogramme sind einvernehmliche Regelungen mit den unmittelbar Beteiligten anzustreben.
 
 (2) Das Nähere wird durch Landesrecht bestimmt.
 
-
-## § 8 – Voraussetzungen der Förderung
+# § 8 – Voraussetzungen der Förderung
 
 (1) Die Krankenhäuser haben nach Maßgabe dieses Gesetzes Anspruch auf Förderung, soweit und solange sie in den Krankenhausplan eines Landes und bei Investitionen nach § 9 Abs. 1 Nr. 1 in das Investitionsprogramm aufgenommen sind. Die zuständige Landesbehörde und der Krankenhausträger können für ein Investitionsvorhaben nach § 9 Abs. 1 eine nur teilweise Förderung mit Restfinanzierung durch den Krankenhausträger vereinbaren; Einvernehmen mit den Landesverbänden der Krankenkassen, den Ersatzkassen und den Vertragsparteien nach § 18 Abs. 2 ist anzustreben. Die Aufnahme oder Nichtaufnahme in den Krankenhausplan wird durch Bescheid festgestellt. Gegen den Bescheid ist der Verwaltungsrechtsweg gegeben.
 
@@ -182,8 +169,7 @@ b) für Personen, die im Maßregelvollzug auf Grund strafrechtlicher Bestimmunge
 
 (3) Für die in § 2 Nr. 1a genannten Ausbildungsstätten gelten die Vorschriften dieses Abschnitts entsprechend.
 
-
-## § 9 – Fördertatbestände
+# § 9 – Fördertatbestände
 
 (1) Die Länder fördern auf Antrag des Krankenhausträgers Investitionskosten, die entstehen insbesondere
 
@@ -213,20 +199,17 @@ b) für Personen, die im Maßregelvollzug auf Grund strafrechtlicher Bestimmunge
 
 (5) Die Fördermittel sind nach Maßgabe dieses Gesetzes und des Landesrechts so zu bemessen, daß sie die förderungsfähigen und unter Beachtung betriebswirtschaftlicher Grundsätze notwendigen Investitionskosten decken.
 
-
-## § 10 – Entwicklungsauftrag zur Reform der Investitionsfinanzierung
+# § 10 – Entwicklungsauftrag zur Reform der Investitionsfinanzierung
 
 (1) Für in den Krankenhausplan eines Landes aufgenommene Krankenhäuser, die Entgelte nach § 17b erhalten, sowie für in den Krankenhausplan eines Landes aufgenommene psychiatrische und psychosomatische Einrichtungen nach § 17d Absatz 1 Satz 1 wird eine Investitionsförderung durch leistungsorientierte Investitionspauschalen ermöglicht. Dafür werden Grundsätze und Kriterien für die Ermittlung eines Investitionsfallwertes auf Landesebene entwickelt. Die Investitionsfinanzierung der Hochschulkliniken ist zu berücksichtigen. Die näheren Einzelheiten des weiteren Verfahrens legen Bund und Länder fest. Das Recht der Länder, eigenständig zwischen der Förderung durch leistungsorientierte Investitionspauschalen und der Einzelförderung von Investitionen einschließlich der Pauschalförderung kurzfristiger Anlagegüter zu entscheiden, bleibt unberührt.
 
 (2) Die Vertragsparteien auf Bundesebene nach § 17b Absatz 2 Satz 1 vereinbaren die Grundstrukturen für Investitionsbewertungsrelationen und das Verfahren zu ihrer Ermittlung, insbesondere zur Kalkulation in einer sachgerechten und repräsentativen Auswahl von Krankenhäusern; § 17b Absatz 3 Satz 4 bis 6 und Absatz 7 Satz 6 ist entsprechend anzuwenden. In den Investitionsbewertungsrelationen ist der Investitionsbedarf für die voll- und teilstationären Leistungen pauschaliert abzubilden; der Differenzierungsgrad soll praktikabel sein. Die Vertragsparteien nach Satz 1 beauftragen das Institut für das Entgeltsystem im Krankenhaus, für das DRG-Vergütungssystem und für Einrichtungen nach § 17d Abs. 1 Satz 1 bundeseinheitliche Investitionsbewertungsrelationen zu entwickeln und zu kalkulieren. Für die Finanzierung der Aufgaben gilt § 17b Abs. 5 entsprechend. Die erforderlichen Finanzmittel sind mit dem DRG-Systemzuschlag zu erheben; dieser ist entsprechend zu erhöhen. Für die Befugnisse des Bundesministeriums für Gesundheit gilt § 17b Abs. 7 und 7a entsprechend. Für die Veröffentlichung der Ergebnisse gilt § 17b Absatz 2 Satz 8 entsprechend.
 
-
-## § 11 – Landesrechtliche Vorschriften über die Förderung
+# § 11 – Landesrechtliche Vorschriften über die Förderung
 
 Das Nähere zur Förderung wird durch Landesrecht bestimmt. Dabei kann auch geregelt werden, daß Krankenhäuser bei der Ausbildung von Ärzten und sonstigen Fachkräften des Gesundheitswesens besondere Aufgaben zu übernehmen haben; soweit hierdurch zusätzliche Sach- und Personalkosten entstehen, ist ihre Finanzierung zu gewährleisten.
 
-
-## § 12 – Förderung von Vorhaben zur Verbesserung von Versorgungsstrukturen
+# § 12 – Förderung von Vorhaben zur Verbesserung von Versorgungsstrukturen
 
 (1) Zur Förderung von Vorhaben der Länder zur Verbesserung der Strukturen in der Krankenhausversorgung wird beim Bundesamt für Soziale Sicherung aus Mitteln der Liquiditätsreserve des Gesundheitsfonds ein Fonds in Höhe von insgesamt 500 Millionen Euro errichtet (Strukturfonds). Im Fall einer finanziellen Beteiligung der privaten Krankenversicherungen an der Förderung nach Satz 1 erhöht sich das Fördervolumen um den entsprechenden Betrag. Zweck des Strukturfonds ist insbesondere der Abbau von Überkapazitäten, die Konzentration von stationären Versorgungsangeboten und Standorten sowie die Umwandlung von Krankenhäusern in nicht akutstationäre örtliche Versorgungseinrichtungen; palliative Versorgungsstrukturen sollen gefördert werden. Von dem in Satz 1 genannten Betrag, abzüglich der Aufwendungen nach Absatz 2 Satz 6 und nach § 14 Satz 4, kann jedes Land den Anteil abrufen, der sich aus dem Königsteiner Schlüssel mit Stand vom 1. Januar 2016 ergibt. Soweit durch die von einem Land bis zum 31. Juli 2017 eingereichten Anträge die ihm nach Satz 4 zustehenden Fördermittel nicht ausgeschöpft werden, werden mit diesen Mitteln Vorhaben anderer Länder gefördert, für die Anträge gestellt worden sind. Fördermittel können auch für die Finanzierung der Zinsen, der Tilgung und der Verwaltungskosten von Darlehen gewährt werden, soweit diese zur Finanzierung förderungsfähiger Vorhaben nach Satz 3 aufgenommen worden sind.
 
@@ -256,8 +239,7 @@ Beträge, mit denen sich die Länder am Volumen des öffentlichen Finanzierungsa
 
 4. zum Nachweis der zweckentsprechenden Verwendung der Fördermittel und zur Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter Fördermittel.
 
-
-## § 12a – Fortführung der Förderung zur Verbesserung der Versorgungsstrukturen ab dem Jahr 2019
+# § 12a – Fortführung der Förderung zur Verbesserung der Versorgungsstrukturen ab dem Jahr 2019
 
 (1) Zur Fortführung der Förderung von Vorhaben der Länder zur Verbesserung der Strukturen in der Krankenhausversorgung werden dem beim Bundesamt für Soziale Sicherung errichteten Strukturfonds in den Jahren 2019 bis 2024 weitere Mittel in Höhe von insgesamt bis zu 2 Milliarden Euro aus der Liquiditätsreserve des Gesundheitsfonds zugeführt. Im Fall einer finanziellen Beteiligung der privaten Krankenversicherungen an der Förderung nach Satz 1 erhöht sich das Fördervolumen um den entsprechenden Betrag. § 12 Absatz 1 Satz 3 und 6 gilt entsprechend. Über die Förderung der in § 12 Absatz 1 Satz 3 genannten Zwecke hinaus können auch die folgenden Vorhaben gefördert werden:
 
@@ -297,18 +279,15 @@ Beträge, mit denen sich die Länder am Volumen des öffentlichen Finanzierungsa
 
 3. zum Nachweis zweckentsprechender Verwendung der Fördermittel und zur Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter Fördermittel.
 
-
-## § 13 – Entscheidung zu den förderungsfähigen Vorhaben
+# § 13 – Entscheidung zu den förderungsfähigen Vorhaben
 
 Im Einvernehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen treffen die Länder die Entscheidung, welche Vorhaben gefördert werden sollen und für die dann ein Antrag auf Förderung beim Bundesamt für Soziale Sicherung gestellt werden soll. Sie können andere Institutionen an der Auswahlentscheidung beteiligen. Ein Anspruch auf Förderung besteht nicht. Die Länder prüfen die zweckentsprechende Verwendung der Fördermittel.
 
-
-## § 14 – Auswertung der Wirkungen der Förderung
+# § 14 – Auswertung der Wirkungen der Förderung
 
 Das Bundesamt für Soziale Sicherung gibt in Abstimmung mit dem Bundesministerium für Gesundheit und dem Bundesministerium der Finanzen eine begleitende Auswertung des durch die Förderung nach den §§ 12 und 12a bewirkten Strukturwandels in Auftrag. Die hierfür erforderlichen nicht personenbezogenen Daten werden ihm von den antragstellenden Ländern auf Anforderung zur Weiterleitung an die mit der Auswertung beauftragte Stelle zur Verfügung gestellt. Zwischenberichte über die Auswertung sind dem Bundesministerium für Gesundheit und dem Bundesministerium der Finanzen jährlich, für die Förderung nach § 12a erstmals zum 31. Dezember 2020, vorzulegen. Die bis zum 31. Dezember 2020 entstehenden Aufwendungen für die Auswertung der Förderung nach § 12 werden aus dem Betrag nach § 12 Absatz 1 Satz 1 und 2 gedeckt. Die nach diesem Zeitpunkt entstehenden Aufwendungen für die Auswertung nach § 12 und die Aufwendungen für die Auswertung nach § 12a werden aus dem Betrag nach § 12a Absatz 1 Satz 1 und 2 gedeckt. Auf der Grundlage der Auswertung legt das Bundesministerium für Gesundheit dem Deutschen Bundestag einen Bericht über den durch die Förderung bewirkten Strukturwandel vor.
 
-
-## § 14a – Krankenhauszukunftsfonds
+# § 14a – Krankenhauszukunftsfonds
 
 (1) Beim Bundesamt für Soziale Sicherung wird aus Mitteln der Liquiditätsreserve des Gesundheitsfonds ein Krankenhauszukunftsfonds in Höhe von insgesamt 3 Milliarden Euro errichtet. Die Mittel werden der Liquiditätsreserve bis zum ersten Bankarbeitstag im Jahr 2021 vom Bund zur Verfügung gestellt.
 
@@ -352,18 +331,15 @@ b) die in Buchstabe a genannten Haushaltsmittel um den Betrag der von dem Land n
 
 3. dem Nachweis der zweckentsprechenden Verwendung der Fördermittel und zur Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter Fördermittel.
 
-
-## § 14b – Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung
+# § 14b – Evaluierung des Reifegrades der Krankenhäuser hinsichtlich der Digitalisierung
 
 Das Bundesministerium für Gesundheit beauftragt bis zum 28. Februar 2021 eine Forschungseinrichtung mit einer den Krankenhauszukunftsfonds begleitenden Auswertung hinsichtlich der Digitalisierung aller Krankenhäuser und insbesondere der nach § 14a geförderten Vorhaben. Aus der Auswertung soll sich ergeben, inwieweit die Digitalisierung der Krankenhäuser und die Versorgung von Patientinnen und Patienten durch die Förderung verbessert werden konnten. Im Rahmen dieser Auswertung ist der Reifegrad aller Krankenhäuser hinsichtlich der Digitalisierung jeweils zum 30. Juni 2021 und zum 30. Juni 2023 unter Berücksichtigung von Bewertungskriterien anerkannter Reifegradmodelle festzustellen. Die Krankenhäuser, denen Fördermittel nach § 14a gewährt worden sind, übermitteln der vom Bundesministerium für Gesundheit beauftragten Forschungseinrichtung auf deren Anforderung in elektronischer Form die für die Auswertung erforderlichen strukturierten Selbsteinschätzungen hinsichtlich des Umsetzungsstands digitaler Maßnahmen.
 
-
-## § 15 – Beteiligung an Schließungskosten
+# § 15 – Beteiligung an Schließungskosten
 
 Die Vertragsparteien nach § 18 können vereinbaren, dass sich die in § 18 Absatz 2 genannten Sozialleistungsträger an den Kosten der Schließung eines Krankenhauses beteiligen. Die Unternehmen der privaten Krankenversicherung können sich an der Vereinbarung beteiligen. Hierbei ist zu berücksichtigen, ob und inwieweit die Schließung bereits nach den §§ 12 bis 14 gefördert wird. Eine Vereinbarung nach Satz 1 darf nicht geschlossen werden, wenn der Krankenhausträger auf Grund der Schließung zur Rückzahlung von Mitteln für die Investitionsförderung verpflichtet ist, die für dieses Krankenhaus gewährt worden sind.
 
-
-## § 16 – Verordnung zur Regelung der Pflegesätze
+# § 16 – Verordnung zur Regelung der Pflegesätze
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -385,8 +361,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 Die Ermächtigung kann durch Rechtsverordnung auf die Landesregierungen übertragen werden; dabei kann bestimmt werden, daß die Landesregierungen die Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden weiter übertragen können.
 
-
-## § 17 – Grundsätze für die Pflegesatzregelung
+# § 17 – Grundsätze für die Pflegesatzregelung
 
 (1) Die Pflegesätze und die Vergütung für vor- und nachstationäre Behandlung nach § 115a des Fünften Buches Sozialgesetzbuch sind für alle Benutzer des Krankenhauses einheitlich zu berechnen. Die Pflegesätze sind im Voraus zu bemessen. Bei der Ermittlung der Pflegesätze ist der Grundsatz der Beitragssatzstabilität (§ 71 Abs. 1 des Fünften Buches Sozialgesetzbuch) nach Maßgabe dieses Gesetzes und des Krankenhausentgeltgesetzes zu beachten. Überschüsse verbleiben dem Krankenhaus; Verluste sind vom Krankenhaus zu tragen. Eine Einrichtung, die in räumlicher Nähe zu einem Krankenhaus liegt und mit diesem organisatorisch verbunden ist, darf für allgemeine, dem Versorgungsauftrag des Krankenhauses entsprechende Krankenhausleistungen keine höheren Entgelte verlangen, als sie nach den Regelungen dieses Gesetzes, des Krankenhausentgeltgesetzes und der Bundespflegesatzverordnung zu leisten wären. Für nichtärztliche Wahlleistungen gilt § 17 Absatz 1, 2 und 4 des Krankenhausentgeltgesetzes entsprechend.
 
@@ -424,8 +399,7 @@ dies gilt im Falle der vollen Förderung von Teilen eines Krankenhauses nur hins
 
 (5) Bei Krankenhäusern, die nach diesem Gesetz nicht oder nur teilweise öffentlich gefördert werden sowie bei anteilig öffentlich geförderten Maßnahmen mit Restfinanzierung durch den Krankenhausträger, dürfen von Sozialleistungsträgern und sonstigen öffentlich-rechtlichen Kostenträgern keine höheren Pflegesätze gefordert werden, als sie von diesen für Leistungen vergleichbarer nach diesem Gesetz voll geförderter Krankenhäuser zu entrichten sind. Krankenhäuser, die nur deshalb nach diesem Gesetz nicht gefördert werden, weil sie keinen Antrag auf Förderung stellen, dürfen auch von einem Krankenhausbenutzer keine höheren als die sich aus Satz 1 ergebenden Pflegesätze fordern. Soweit bei teilweiser Förderung Investitionen nicht öffentlich gefördert werden und ein vergleichbares Krankenhaus nicht vorhanden ist, dürfen die Investitionskosten in den Pflegesatz einbezogen werden, soweit die Landesverbände der Krankenkassen und die Ersatzkassen der Investition zugestimmt haben. Die Vertragsparteien nach § 18 Abs. 2 vereinbaren die nach den Sätzen 1 und 2 maßgebenden Pflegesätze. Werden die Krankenhausleistungen mit pauschalierten Pflegesätzen nach Absatz 1a vergütet, gelten diese als Leistungen vergleichbarer Krankenhäuser im Sinne des Satzes 1.
 
-
-## § 17a – Finanzierung von Ausbildungskosten
+# § 17a – Finanzierung von Ausbildungskosten
 
 (1) Die Kosten der in § 2 Nummer 1a Buchstabe a, b und d bis l genannten mit den Krankenhäusern notwendigerweise verbundenen Ausbildungsstätten, die Ausbildungsvergütungen für die in § 2 Nummer 1a genannten Berufe und die Mehrkosten des Krankenhauses infolge der Ausbildung sind nach Maßgabe der folgenden Vorschriften durch Zuschläge zu finanzieren, soweit diese Kosten nach diesem Gesetz zu den pflegesatzfähigen Kosten gehören und nicht nach anderen Vorschriften aufzubringen sind (Ausbildungskosten); der von dem jeweiligen Land finanzierte Teil der Ausbildungskosten ist in Abzug zu bringen. Abweichend von Satz 1 sind bei einer Anrechnung nach Satz 3 nur die Mehrkosten der Ausbildungsvergütungen zu finanzieren. Bei der Ermittlung der Mehrkosten der Ausbildungsvergütung sind Personen, die in der Krankenpflegehilfe ausgebildet werden, nach dem ersten Jahr ihrer Ausbildung im Verhältnis 6 zu 1 auf die Stelle einer voll ausgebildeten Person nach Teil 2 des Pflegeberufegesetzes anzurechnen. Zu den Ausbildungsvergütungen nach Satz 1 gehören auch die Vergütungen der Hebammenstudierenden nach § 34 Absatz 1 des Hebammengesetzes. Zu den Mehrkosten des Krankenhauses infolge der Ausbildung nach Satz 1 gehören auch die Kosten der berufspraktischen Ausbildung von Hebammenstudierenden durch ambulante hebammengeleitete Einrichtungen oder durch freiberufliche Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes.
 
@@ -467,8 +441,7 @@ Der Ausgleichsfonds wird von der Landeskrankenhausgesellschaft errichtet und ver
 
 (11) Für ausbildende Krankenhäuser, die der Bundespflegesatzverordnung unterliegen, gilt § 21 des Krankenhausentgeltgesetzes mit der Maßgabe, dass die Daten nach Absatz 2 Nr. 1 Buchstabe a und c zu übermitteln sind.
 
-
-## § 17b – Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser, Verordnungsermächtigung
+# § 17b – Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser, Verordnungsermächtigung
 
 (1) Für die Vergütung der allgemeinen Krankenhausleistungen gilt ein durchgängiges, leistungsorientiertes und pauschalierendes Vergütungssystem, soweit Absatz 4 keine abweichenden Regelungen enthält. Das Vergütungssystem hat Komplexitäten und Komorbiditäten abzubilden; sein Differenzierungsgrad soll praktikabel sein. Mit den Entgelten nach Satz 1 werden die allgemeinen voll- und teilstationären Krankenhausleistungen für einen Behandlungsfall vergütet. Die Fallgruppen und ihre Bewertungsrelationen sind bundeseinheitlich festzulegen. Die Bewertungsrelationen sind als Relativgewichte auf eine Bezugsleistung zu definieren; sie sind für Leistungen, bei denen in erhöhtem Maße wirtschaftlich begründete Fallzahlsteigerungen eingetreten oder zu erwarten sind, gezielt abzusenken oder in Abhängigkeit von der Fallzahl bei diesen Leistungen abgestuft vorzugeben. Um mögliche Fehlanreize durch eine systematische Übervergütung der Sachkostenanteile bei voll- und teilstationären Leistungen jährlich zu analysieren und geeignete Maßnahmen zum Abbau vorhandener Übervergütung zu ergreifen, sind auf der Grundlage eines Konzepts des Instituts für das Entgeltsystem im Krankenhaus sachgerechte Korrekturen der Bewertungsrelationen der Fallpauschalen zu vereinbaren; die Korrekturen der Bewertungsrelationen sind erstmals für die Weiterentwicklung des Vergütungssystems für das Jahr 2021 ausschließlich innerhalb der Fallpauschalenvergütung durchzuführen. Soweit dies zur Ergänzung der Fallpauschalen in eng begrenzten Ausnahmefällen erforderlich ist, können die Vertragsparteien nach Absatz 2 Satz 1 Zusatzentgelte für Leistungen, Leistungskomplexe oder Arzneimittel vereinbaren, insbesondere für die Behandlung von Blutern mit Blutgerinnungsfaktoren oder für eine Dialyse, wenn die Behandlung des Nierenversagens nicht die Hauptleistung ist. Sie vereinbaren auch die Höhe der Entgelte; diese kann nach Regionen differenziert festgelegt werden. Nach Maßgabe des Krankenhausentgeltgesetzes können Entgelte für Leistungen, die nicht durch die Entgeltkataloge erfasst sind, durch die Vertragsparteien nach § 18 Absatz 2 vereinbart werden. Besondere Einrichtungen, deren Leistungen insbesondere aus medizinischen Gründen, wegen einer Häufung von schwerkranken Patienten oder aus Gründen der Versorgungsstruktur mit den Entgeltkatalogen noch nicht sachgerecht vergütet werden, können zeitlich befristet aus dem Vergütungssystem ausgenommen werden; unabhängig davon, ob die Leistungen mit den Entgeltkatalogen sachgerecht vergütet werden, ist bei Palliativstationen oder -einheiten, die räumlich und organisatorisch abgegrenzt sind und über mindestens fünf Betten verfügen, dafür ein schriftlicher Antrag des Krankenhauses ausreichend. Entstehen bei Patientinnen oder Patienten mit außerordentlichen Untersuchungs- und Behandlungsabläufen extrem hohe Kostenunterdeckungen, die mit dem pauschalierten Vergütungssystem nicht sachgerecht finanziert werden (Kostenausreißer), sind entsprechende Fälle zur Entwicklung geeigneter Vergütungsformen vertieft zu prüfen. Zur Förderung der palliativmedizinischen Versorgung durch Palliativdienste ist die Kalkulation eines Zusatzentgelts zu ermöglichen; im Einvernehmen mit der betroffenen medizinischen Fachgesellschaft sind die hierfür erforderlichen Kriterien bis zum 29. Februar 2016 zu entwickeln.
 
@@ -532,8 +505,7 @@ Von Vereinbarungen der Vertragsparteien nach Absatz 2 kann abgewichen werden, so
 
 (10) Über die nach Absatz 1 Satz 11 vorzunehmende vertiefte Prüfung von Kostenausreißern hinausgehend beauftragen die Vertragsparteien nach Absatz 2 bis zum 31. Dezember 2013 das Institut für das Entgeltsystem im Krankenhaus mit der Festlegung von Kriterien zur Ermittlung von Kostenausreißern und einer auf dieser Grundlage erfolgenden systematischen Prüfung, in welchem Umfang Krankenhäuser mit Kostenausreißern belastet sind. Das Institut für das Entgeltsystem im Krankenhaus entwickelt ein Regelwerk für Fallprüfungen bei Krankenhäusern, die an der DRG-Kalkulation teilnehmen. Zur sachgerechten Beurteilung der Kostenausreißer hat das Institut für das Entgeltsystem im Krankenhaus von den an der Kalkulation teilnehmenden Krankenhäusern über den Kalkulationsdatensatz hinausgehende detaillierte fallbezogene Kosten- und Leistungsdaten zu erheben. Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht die Prüfergebnisse jährlich im Rahmen eines Extremkostenberichts, erstmals bis zum 31. Dezember 2014. In dem Bericht sind auch die Gründe von Kostenausreißerfällen und Belastungsunterschieden zwischen Krankenhäusern darzulegen. Auf der Grundlage des Berichts sind geeignete Regelungen für eine sachgerechte Vergütung von Kostenausreißern im Rahmen des Entgeltsystems zu entwickeln und durch die Vertragsparteien nach Absatz 2 zu vereinbaren.
 
-
-## § 17c – Prüfung der Abrechnung von Pflegesätzen, Statistik
+# § 17c – Prüfung der Abrechnung von Pflegesätzen, Statistik
 
 (1) Der Krankenhausträger wirkt durch geeignete Maßnahmen darauf hin, dass
 
@@ -595,8 +567,7 @@ Die Sachverhalte nach Satz 1 sind bundesweit und nach Medizinischen Diensten zu 
 
 (7) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft legen dem Bundesministerium für Gesundheit bis zum 30. Juni 2023 einen gemeinsamen Bericht über die Auswirkungen der Weiterentwicklung der Krankenhausabrechnungsprüfung vor. Der Bericht hat insbesondere die Auswirkungen der Einzelfallprüfung nach § 275c des Fünften Buches Sozialgesetzbuch, der Strukturprüfung nach § 275d des Fünften Buches Sozialgesetzbuch, der Tätigkeit des Schlichtungsausschusses auf Bundesebene nach § 19 sowie der erweiterten Möglichkeiten der Erbringung und Abrechnung ambulanter Leistungen und stationsersetzender Eingriffe zu untersuchen. Für die Erstellung des Berichts haben die Vertragsparteien nach Satz 1 die statistischen Ergebnisse nach Absatz 6 und nach § 275c Absatz 4 des Fünften Buches Sozialgesetzbuch sowie eine Stellungnahme des Medizinischen Dienstes Bund einzubeziehen. Die in Satz 1 genannten Vertragsparteien haben gemeinsam zur Erstellung des Berichts fachlich unabhängige wissenschaftliche Einrichtungen oder Sachverständige zu beauftragen.
 
-
-## § 17d – Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen
+# § 17d – Einführung eines pauschalierenden Entgeltsystems für psychiatrische und psychosomatische Einrichtungen
 
 (1) Für die Vergütung der allgemeinen Krankenhausleistungen von Fachkrankenhäusern und selbständigen, gebietsärztlich geleiteten Abteilungen an somatischen Krankenhäusern für die Fachgebiete Psychiatrie und Psychotherapie, Kinder- und Jugendpsychiatrie und -psychotherapie (psychiatrische Einrichtungen) sowie Psychosomatische Medizin und Psychotherapie (psychosomatische Einrichtungen) ist ein durchgängiges, leistungsorientiertes und pauschalierendes Vergütungssystem auf der Grundlage von tagesbezogenen Entgelten einzuführen. Dabei ist zu prüfen, ob für bestimmte Leistungsbereiche andere Abrechnungseinheiten eingeführt werden können. Ebenso ist zu prüfen, inwieweit auch die im Krankenhaus ambulant zu erbringenden Leistungen der psychiatrischen Institutsambulanzen nach § 118 des Fünften Buches Sozialgesetzbuch einbezogen werden können. Das Vergütungssystem hat den unterschiedlichen Aufwand der Behandlung bestimmter, medizinisch unterscheidbarer Patientengruppen abzubilden; dabei muss unter Berücksichtigung des Einsatzzwecks des Vergütungssystems als Budgetsystem sein Differenzierungsgrad praktikabel und der Dokumentationsaufwand auf das notwendige Maß begrenzt sein. Die Bewertungsrelationen sind als Relativgewichte zu definieren. Die Definition der Entgelte und ihre Bewertungsrelationen sind bundeseinheitlich festzulegen. Die Bewertungsrelationen werden auf der Grundlage der Kosten einer sachgerechten und repräsentativen Auswahl von psychiatrischen und psychosomatischen Einrichtungen kalkuliert, die ab dem 1. Januar 2020 die vom Gemeinsamen Bundesausschuss nach § 136a Absatz 2 des Fünften Buches Sozialgesetzbuch festgelegten Anforderungen erfüllen sollen; § 17b Absatz 3 Satz 4 bis 6 ist entsprechend anzuwenden. Soweit an der Kalkulation teilnehmende Einrichtungen die vom Gemeinsamen Bundesausschuss nach § 136a Absatz 2 des Fünften Buches Sozialgesetzbuch festgelegten Anforderungen nicht erfüllen, haben die Vertragsparteien nach § 17b Absatz 2 Satz 1 eine geeignete Übergangsfrist zu bestimmen. Vor dem 1. Januar 2020 soll für die Kalkulation eine umfassende Umsetzung der Vorgaben der Psychiatrie-Personalverordnung zur Zahl der Personalstellen erfolgen. Für die Dauer einer Übergangsfrist nach Satz 8 gelten die bisherigen Vorgaben der Psychiatrie-Personalverordnung zur Personalausstattung weiter.
 
@@ -624,8 +595,7 @@ Das Bundesministerium für Gesundheit kann von Vereinbarungen der Vertragspartei
 
 (9) Für Einrichtungen nach Absatz 1 Satz 1 gilt § 21 des Krankenhausentgeltgesetzes mit der Maßgabe, dass die Daten nach seinem Absatz 2 Nr. 1 Buchstabe a und Nr. 2 Buchstabe a bis h zu übermitteln sind. Zusätzlich ist von Einrichtungen, die die Psychiatrie-Personalverordnung anwenden, für jeden voll- und teilstationären Behandlungsfall die tagesbezogene Einstufung der Patientin oder des Patienten in die Behandlungsbereiche nach den Anlagen 1 und 2 der Psychiatrie-Personalverordnung zu übermitteln; für die zugrunde liegende Dokumentation reicht eine Einstufung zu Beginn der Behandlung und bei jedem Wechsel des Behandlungsbereichs aus.
 
-
-## § 18 – Pflegesatzverfahren
+# § 18 – Pflegesatzverfahren
 
 (1) Die nach Maßgabe dieses Gesetzes für das einzelne Krankenhaus zu verhandelnden Pflegesätze werden zwischen dem Krankenhausträger und den Sozialleistungsträgern nach Absatz 2 vereinbart. Die Landeskrankenhausgesellschaft, die Landesverbände der Krankenkassen, die Ersatzkassen und der Landesausschuß des Verbandes der privaten Krankenversicherung können sich am Pflegesatzverfahren beteiligen. Die Pflegesatzvereinbarung bedarf der Zustimmung der Landesverbände der Krankenkassen und des Landesausschusses des Verbandes der privaten Krankenversicherung. Die Zustimmung gilt als erteilt, wenn die Mehrheit der Beteiligten nach Satz 3 der Vereinbarung nicht innerhalb von zwei Wochen nach Vertragsschluß widerspricht.
 
@@ -643,8 +613,7 @@ im Jahr vor Beginn der Pflegesatzverhandlungen mehr als fünf vom Hundert der Be
 
 (5) Die vereinbarten oder festgesetzten Pflegesätze werden von der zuständigen Landesbehörde genehmigt, wenn sie den Vorschriften dieses Gesetzes und sonstigem Recht entsprechen; die Genehmigung ist unverzüglich zu erteilen. Gegen die Genehmigung ist der Verwaltungsrechtsweg gegeben. Ein Vorverfahren findet nicht statt; die Klage hat keine aufschiebende Wirkung.
 
-
-## § 18a – Schiedsstelle, Verordnungsermächtigung
+# § 18a – Schiedsstelle, Verordnungsermächtigung
 
 (1) Die Landeskrankenhausgesellschaften und die Landesverbände der Krankenkassen bilden für jedes Land oder jeweils für Teile des Landes eine Schiedsstelle. Ist für ein Land mehr als eine Schiedsstelle gebildet worden, bestimmen die Beteiligten nach Satz 1 die zuständige Schiedsstelle für mit landesweiter Geltung zu treffende Entscheidungen.
 
@@ -668,13 +637,11 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (6) Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft bilden eine Schiedsstelle; diese entscheidet in den ihr durch Gesetz oder auf Grund eines Gesetzes zugewiesenen Aufgaben. Die Schiedsstelle besteht aus Vertretern des Spitzenverbandes Bund der Krankenkassen und der Deutschen Krankenhausgesellschaft in gleicher Zahl sowie einem unparteiischen Vorsitzenden und zwei weiteren unparteiischen Mitgliedern. Der Schiedsstelle gehört ein vom Verband der privaten Krankenversicherung bestellter Vertreter an, der auf die Zahl der Vertreter der Krankenkassen angerechnet wird. Die unparteiischen Mitglieder werden von den beteiligten Organisationen gemeinsam bestellt. Die unparteiischen Mitglieder werden durch das Bundesministerium für Gesundheit berufen, soweit eine Einigung nicht zustande kommt. Durch die Beteiligten zuvor abgelehnte Personen können nicht berufen werden. Absatz 3 gilt entsprechend. Der Spitzenverband Bund der Krankenkassen und die Deutsche Krankenhausgesellschaft vereinbaren das Nähere über die Zahl, die Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren Auslagen und die Entschädigung für den Zeitaufwand der Mitglieder der Schiedsstelle sowie die Geschäftsführung, das Verfahren, die Höhe und die Erhebung der Gebühren und die Verteilung der Kosten. Wird eine Vereinbarung nach Satz 8 ganz oder teilweise beendet und kommt bis zum Ablauf der Vereinbarungszeit keine neue Vereinbarung zustande, bestimmt das Bundesministerium für Gesundheit durch Rechtsverordnung das Nähere über die Zahl, die Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren Auslagen und die Entschädigung für Zeitaufwand der Mitglieder der Schiedsstelle sowie die Geschäftsführung, das Verfahren, die Höhe und die Erhebung der Gebühren und die Verteilung der Kosten. In diesem Fall gelten die Bestimmungen der bisherigen Vereinbarung bis zum Inkrafttreten der Rechtsverordnung fort. Die Rechtsaufsicht über die Schiedsstelle führt das Bundesministerium für Gesundheit. Gegen die Entscheidung der Schiedsstelle ist der Verwaltungsrechtsweg gegeben. Ein Vorverfahren findet nicht statt; die Klage hat keine aufschiebende Wirkung.
 
-
-## § 18b
+# § 18b
 
 (aufgehoben)
 
-
-## § 19 – Schlichtungsausschuss auf Bundesebene zur Klärung strittiger Kodier- und Abrechnungsfragen
+# § 19 – Schlichtungsausschuss auf Bundesebene zur Klärung strittiger Kodier- und Abrechnungsfragen
 
 (1) Der Spitzenverband Bund der Krankenkassen und der Verband der Privaten Krankenversicherung gemeinsam bilden mit der Deutschen Krankenhausgesellschaft einen Schlichtungsausschuss auf Bundesebene. Das Institut für das Entgeltsystem im Krankenhaus und das Bundesinstitut für Arzneimittel und Medizinprodukte sind Mitglieder ohne Stimmrecht. Für den Schlichtungsausschuss ist § 18a Absatz 6 Satz 2 bis 5 und 7 entsprechend anzuwenden; bei der Auswahl der Vertreter der Krankenkassen und der Krankenhäuser für die Bildung des Schlichtungsausschusses sollen sowohl medizinischer Sachverstand als auch besondere Kenntnisse in Fragen der Abrechnung der Entgeltsysteme im Krankenhaus berücksichtigt werden. Kommen die für die Einrichtung des Schlichtungsausschusses erforderlichen Entscheidungen ganz oder teilweise nicht zustande, trifft auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6 die ausstehenden Entscheidungen. Für die Geschäftsführung des Schlichtungsausschusses wird eine Geschäftsstelle errichtet, die insbesondere die Vorbereitung der Entscheidungen des Schlichtungsausschusses und die Information über dessen Entscheidungen vornimmt. Die Geschäftsstelle wird von dem Institut für das Entgeltsystem im Krankenhaus geführt, das zu diesem Zweck eine Geschäftsordnung erlässt. Die Kosten der Geschäftsstelle sind aus dem Zuschlag nach § 17b Absatz 5 Satz 1 zu finanzieren, der entsprechend zu erhöhen ist. Die Vertragsparteien nach Satz 1 vereinbaren das Nähere über die Zahl, die Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren Auslagen und die Entschädigung für den Zeitaufwand der Mitglieder des Schlichtungsausschusses sowie das Verfahren, die Höhe und die Erhebung der Gebühren.
 
@@ -690,13 +657,11 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (7) Gegen die Entscheidungen des Schlichtungsausschusses auf Bundesebene ist der Sozialrechtsweg gegeben. Ein Vorverfahren findet nicht statt. Die Klage hat keine aufschiebende Wirkung. Klagebefugt sind die Einrichtungen nach Absatz 3, die den Schlichtungsausschuss angerufen haben, mit Ausnahme des Bundesministeriums für Gesundheit.
 
-
-## § 20 – Nichtanwendung von Pflegesatzvorschriften
+# § 20 – Nichtanwendung von Pflegesatzvorschriften
 
 Die Vorschriften des Dritten Abschnitts mit Ausnahme des § 17 Abs. 5 finden keine Anwendung auf Krankenhäuser, die nach § 5 Abs. 1 Nr. 2, 4 oder 7 nicht gefördert werden. § 17 Abs. 5 ist bei den nach § 5 Abs. 1 Nr. 4 oder 7 nicht geförderten Krankenhäusern mit der Maßgabe anzuwenden, daß an die Stelle der Pflegesätze vergleichbarer nach diesem Gesetz voll geförderter Krankenhäuser die Pflegesätze vergleichbarer öffentlicher Krankenhäuser treten.
 
-
-## § 21 – Ausgleichszahlungen an Krankenhäuser aufgrund von Sonderbelastungen durch das neuartige Coronavirus SARS-CoV-2
+# § 21 – Ausgleichszahlungen an Krankenhäuser aufgrund von Sonderbelastungen durch das neuartige Coronavirus SARS-CoV-2
 
 (1) Soweit zugelassene Krankenhäuser zur Erhöhung der Bettenkapazitäten für die Versorgung von Patientinnen und Patienten, die mit dem neuartigen Coronavirus SARS-CoV-2 infiziert sind, planbare Aufnahmen, Operationen und Eingriffe verschieben oder aussetzen, erhalten sie für die Ausfälle der Einnahmen, die seit dem 16. März 2020 dadurch entstehen, dass Betten nicht so belegt werden können, wie es vor dem Auftreten der SARS-CoV-2-Pandemie geplant war, Ausgleichszahlungen aus der Liquiditätsreserve des Gesundheitsfonds.
 
@@ -750,8 +715,7 @@ Bei der Ermittlung der Erlöse für das Jahr 2020 sind auch die Ausgleichszahlun
 
 (11) Auf Verlangen eines Krankenhausträgers sind die Vertragsparteien nach § 18 Absatz 2 Nummer 1 oder Nummer 2 verpflichtet, mit dem Krankenhausträger aufgrund der Vereinbarung nach Absatz 10 Satz 1 oder der Festlegung nach Absatz 10 Satz 4 die Erlöse für die Jahre 2019 und 2020, den im Jahr 2020 gegenüber dem Jahr 2019 aufgrund des Coronavirus SARS-CoV-2 entstandenen Erlösrückgang sowie einen Ausgleich für den Erlösrückgang zu vereinbaren. Die Vereinbarung nach Satz 1 kann unabhängig von den Vereinbarungen nach § 11 Absatz 1 Satz 1 des Krankenhausentgeltgesetzes und § 11 Absatz 1 Satz 1 der Bundespflegesatzverordnung getroffen werden. Die Vertragsparteien nach § 18 Absatz 2 multiplizieren den ermittelten Erlösrückgang mit dem nach Absatz 10 Satz 1 Nummer 4 vereinbarten oder nach Absatz 10 Satz 4 festgelegten Ausgleichssatz. Der nach Satz 3 errechnete Ausgleichsbetrag wird durch Zuschläge auf die Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums ausgeglichen. Kommt eine Vereinbarung nach Satz 1 nicht oder nicht vollständig zustande, entscheidet die Schiedsstelle nach § 18a Absatz 1 auf Antrag einer der Vertragsparteien nach Satz 1 innerhalb von sechs Wochen. Die Genehmigung der Vereinbarung nach Satz 1 oder der Festsetzung nach Satz 5 ist von einer der Vertragsparteien nach Satz 1 bei der zuständigen Landesbehörde zu beantragen. Die zuständige Landesbehörde erteilt die Genehmigung innerhalb von vier Wochen nach Eingang des Antrags, wenn die Vereinbarung oder die Festsetzung den Regelungen in diesem Absatz und in Absatz 10 sowie sonstigem Recht entspricht. § 14 Absatz 2 Satz 1 und 3 und Absatz 3 des Krankenhausentgeltgesetzes gilt entsprechend. Unabhängig davon, ob eine Vereinbarung nach Satz 1 getroffen wird, sind Erlösausgleiche nach § 4 Absatz 3 des Krankenhausentgeltgesetzes oder § 3 Absatz 7 der Bundespflegesatzverordnung für das Jahr 2020 ausgeschlossen.
 
-
-## § 22 – Behandlung in Vorsorge- und Rehabilitationseinrichtungen
+# § 22 – Behandlung in Vorsorge- und Rehabilitationseinrichtungen
 
 (1) Die Länder können Vorsorge- und Rehabilitationseinrichtungen bestimmen, in denen Patientinnen und Patienten, die einer nicht aufschiebbaren akutstationären Krankenhausversorgung nach § 39 des Fünften Buches Sozialgesetzbuch bedürfen, vollstationär behandelt werden können, wenn mit diesen Einrichtungen
 
@@ -765,8 +729,7 @@ Die in Satz 1 genannten Einrichtungen gelten für die Behandlung von bis zum 31.
 
 (2) Die Vertragsparteien nach § 17b Absatz 2 vereinbaren bis zum 26. April 2020 Pauschalbeträge für die Vergütung der von den in Absatz 1 genannten Einrichtungen erbrachten Behandlungsleistungen sowie das Nähere zum Verfahren der Abrechnung der Vergütungen. Kommt eine Vereinbarung nach Satz 1 nicht innerhalb dieser Frist zustande, legt die Schiedsstelle nach § 18a Absatz 6 den Inhalt der Vereinbarung ohne Antrag einer Vertragspartei innerhalb von weiteren vier Wochen fest.
 
-
-## § 23 – Verordnungsermächtigung
+# § 23 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen mit Zustimmung des Bundesrates
 
@@ -788,8 +751,7 @@ Die in Satz 1 genannten Einrichtungen gelten für die Behandlung von bis zum 31.
 
 6. vorsehen, dass die Übermittlung der Daten nach § 24 Absatz 2 Satz 1 auch für das Jahr 2022 erfolgt.
 
-
-## § 24 – Überprüfung der Auswirkungen
+# § 24 – Überprüfung der Auswirkungen
 
 (1) Das Bundesministerium für Gesundheit überprüft die Auswirkungen der Reglungen in den §§ 21 bis 23 auf die wirtschaftliche Lage der Krankenhäuser. Es kann hierfür einen Beirat von Vertreterinnen und Vertretern aus Fachkreisen einberufen, die insoweit über besondere Erfahrung verfügen.
 
@@ -809,8 +771,7 @@ Das Institut für das Entgeltsystem im Krankenhaus legt bis zum 31. Mai 2020 das
 
 (4) Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht im Benehmen mit dem Bundesministerium für Gesundheit die Daten nach Absatz 2 Satz 1 in anonymisierter und zusammengefasster Form auf seiner Internetseite.
 
-
-## § 25 – Ausnahmen von Prüfungen bei Krankenhausbehandlung und von der Prüfung von Strukturmerkmalen, Verordnungsermächtigung
+# § 25 – Ausnahmen von Prüfungen bei Krankenhausbehandlung und von der Prüfung von Strukturmerkmalen, Verordnungsermächtigung
 
 (1) Behandelt ein Krankenhaus zwischen dem 1. April 2020 und einschließlich dem 30. Juni 2020 sowie zwischen dem 1. November 2020 und einschließlich dem 30. Juni 2021 Patientinnen und Patienten, die mit dem neuartigen Coronavirus SARS-CoV-2 infiziert sind oder bei denen der Verdacht einer solchen Infektion besteht, darf der zuständige Kostenträger die ordnungsgemäße Abrechnung der von diesem Krankenhaus zwischen dem 1. April 2020 und einschließlich dem 30. Juni 2020 sowie zwischen dem 1. November 2020 und einschließlich dem 30. Juni 2021 erbrachten Leistungen nicht daraufhin prüfen oder prüfen lassen, ob die in der Liste nach Absatz 2 genannten Mindestmerkmale erfüllt sind. Die Ausnahme von der Prüfung der erbrachten Leistungen erstreckt sich jeweils auf den gesamten Behandlungsfall unabhängig vom Datum der Aufnahme, der Entlassung oder der Verlegung der Patientin oder des Patienten in ein anderes Krankenhaus.
 
@@ -820,15 +781,13 @@ Das Institut für das Entgeltsystem im Krankenhaus legt bis zum 31. Mai 2020 das
 
 (4) Im Rahmen der Prüfung von Strukturmerkmalen sind die in Absatz 1 genannten Zeiträume von dem Nachweis auszunehmen, dass ein in Absatz 1 genanntes Krankenhaus die Strukturmerkmale einhält, die in der Liste nach Absatz 2 genannt sind. Das Nähere ist in der Richtlinie nach § 283 Absatz 2 Satz 1 Nummer 3 des Fünften Buches Sozialgesetzbuch zu regeln. Ist der Nachweis eines Strukturmerkmals wegen der Vorgaben in Satz 1 nicht zu erbringen, darf der Medizinische Dienst nicht nach § 275d Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch begutachten, ob das Krankenhaus dieses Strukturmerkmal einhält.
 
-
-## § 26 – Zusatzentgelt für Testungen auf das Coronavirus SARS-CoV-2 im Krankenhaus
+# § 26 – Zusatzentgelt für Testungen auf das Coronavirus SARS-CoV-2 im Krankenhaus
 
 (1) Kosten, die den Krankenhäusern für Testungen auf eine Infektion mit dem Coronavirus SARS-CoV-2 bei Patientinnen und Patienten entstehen, die zur voll-oder teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen werden, werden mit einem Zusatzentgelt finanziert. Das Krankenhaus berechnet das Zusatzentgelt bei Patientinnen und Patienten, die ab dem 14. Mai 2020 zur voll- oder teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen werden und bei denen Testungen nach Satz 1 durchgeführt werden.
 
 (2) Die Vertragsparteien nach § 17b Absatz 2 vereinbaren bis zum 29. Mai 2020 die Höhe des Zusatzentgelts nach Absatz 1 Satz 1. Kommt eine Vereinbarung nach Satz 1 nicht innerhalb dieser Frist zustande, legt die Schiedsstelle nach § 18a Absatz 6 die Höhe des Zusatzentgelts ohne Antrag einer Vertragspartei innerhalb einer weiteren Woche fest.
 
-
-## § 26a – Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
+# § 26a – Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
 
 (1) Zugelassene Krankenhäuser, die im Zeitraum vom 1. Januar 2020 bis zum 31. Mai 2020 durch die voll- oder teilstationäre Behandlung von mit dem Coronavirus SARS-CoV-2 infizierten Patientinnen und Patienten besonders belastet waren, haben für ihre im genannten Zeitraum beschäftigten Pflegekräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen, soweit diese durch die Versorgung von mit dem Coronavirus SARS-CoV-2 infizierten Patientinnen und Patienten einer erhöhten Arbeitsbelastung ausgesetzt waren, Anspruch auf eine Auszahlung aus den in Absatz 3 Satz 1 genannten Mitteln, mit der sie diesen Beschäftigten eine Prämie als einmalige Sonderleistung zu zahlen haben. Als besonders belastet gelten Krankenhäuser mit weniger als 500 Betten mit mindestens 20 voll- oder teilstationär behandelten Patientinnen und Patienten, die mit dem Coronavirus SARS-CoV-2 infiziert waren, sowie Krankenhäuser ab 500 Betten mit mindestens 50 voll- oder teilstationär behandelten Patientinnen und Patienten, die mit dem Coronavirus SARS-CoV-2 infiziert waren. Der Betrag nach Absatz 3 Satz 1 wird unter den nach den Sätzen 1 und 2 anspruchsberechtigten Krankenhäusern zu 50 Prozent nach der jeweiligen Anzahl der voll- oder teilstationär behandelten Patientinnen und Patienten, die im Zeitraum nach Satz 1 mit dem Coronavirus SARS-CoV-2 infiziert waren, sowie zu 50 Prozent nach der Anzahl der im Jahr 2019 beschäftigten Pflegekräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen, umgerechnet in Vollkräfte, verteilt. Der jedem anspruchsberechtigten Krankenhaus nach Maßgabe des Satzes 3 zustehende Betrag wird durch das Institut für das Entgeltsystem im Krankenhaus auf der Grundlage der Daten ermittelt, die dem Institut für das Entgeltsystem im Krankenhaus nach § 24 Absatz 2 Satz 1 Nummer 1 sowie nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes zur Verfügung stehen. Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht für jedes anspruchsberechtigte Krankenhaus unter Angabe des Namens und des Kennzeichens nach § 293 Absatz 1 des Fünften Buches Sozialgesetzbuch das Prämienvolumen nach Satz 3 bis zum 5. November 2020 barrierefrei auf seiner Internetseite.
 
@@ -846,8 +805,7 @@ Das Bundesamt für Soziale Sicherung zahlt den Betrag nach Satz 1 Nummer 1 bis z
 
 (5) Die Krankenhausträger haben die Prämien nach Absatz 2 bis zum 31. Dezember 2020 an die Beschäftigten nach Absatz 2 auszuzahlen. Den Vertragsparteien nach § 18 Absatz 2 Nummer 1 oder Nummer 2 ist bis zum 30. September 2021 eine Bestätigung über die zweckentsprechende Verwendung der Mittel des Jahresabschlussprüfers vorzulegen. Werden die Bestätigungen nicht oder nicht vollständig vorgelegt oder wurden die Mittel nicht zweckentsprechend verwendet, ist der entsprechende Betrag an den Spitzenverband Bund der Krankenkassen zurückzuzahlen. Dieser zahlt 93 Prozent des Betrags über das Bundesamt für Soziale Sicherung an die Liquiditätsreserve des Gesundheitsfonds und 7 Prozent des Betrags über den Verband der Privaten Krankenversicherung an die privaten Krankenversicherungsunternehmen zurück.
 
-
-## § 26b – Kostentragung für durch den Bund beschaffte Arzneimittel mit dem Wirkstoff Remdesivir
+# § 26b – Kostentragung für durch den Bund beschaffte Arzneimittel mit dem Wirkstoff Remdesivir
 
 (1) Die Beschaffung von Arzneimitteln mit dem Wirkstoff Remdesivir für den Zeitraum Oktober 2020 bis März 2021 erfolgt zentral über den Bund im Rahmen des Joint Procurement Agreement der Europäischen Kommission.
 
@@ -871,15 +829,13 @@ Die Vertragsparteien nach § 17b Absatz 2 Satz 1 übermitteln bis zum 31. Oktobe
 
 (4) Auf der Grundlage der Statistik nach Absatz 3 Satz 2 ermittelt das Bundesministerium für Gesundheit die Kosten für die gesetzliche Krankenversicherung und die privaten Krankenversicherungsunternehmen und teilt den jeweiligen Betrag dem Bundesamt für Soziale Sicherung und dem Verband der Privaten Krankenversicherung mit. Liegt der nach Satz 1 ermittelte jeweilige Betrag unter dem nach Absatz 2 Satz 3 gezahlten Betrag, erstattet das Bundesministerium für Gesundheit dem Bundesamt für Soziale Sicherung oder dem Verband der Privaten Krankenversicherung den jeweiligen Differenzbetrag. Liegt der nach Satz 1 ermittelte jeweilige Betrag über dem nach Absatz 2 Satz 3 gezahlten Betrag, zahlt das Bundesamt für Soziale Sicherung oder der Verband der Privaten Krankenversicherung dem Bundesministerium für Gesundheit den jeweiligen Differenzbetrag. Die bis zu dem nach Absatz 3 Satz 1 Nummer 1 vereinbarten Zeitpunkt angewendeten und nach Absatz 1 beschafften Arzneimittel werden auf Grundlage der von den Krankenhausapotheken an die Krankenhäuser abgegebenen Mengen ermittelt. Die Kosten für die Arzneimittel nach Satz 4 werden nach den Anteilen nach Absatz 2 Satz 3 von dem Bundesamt für Soziale Sicherung und dem Verband der Privaten Krankenversicherung an das Bundesministerium für Gesundheit erstattet. Der Verband der Privaten Krankenversicherung erstattet den privaten Krankenversicherungsunternehmen den an ihn gezahlten Betrag nach Satz 2. Die privaten Krankenversicherungsunternehmen erstatten dem Verband der Privaten Krankenversicherung die von ihm zu zahlenden Beträge nach den Sätzen 3 und 5. Der Verband der Privaten Krankenversicherung bestimmt das Nähere zu den Erstattungen nach den Sätzen 6 und 7.
 
-
-## § 26c – Kostenerstattung für durch den Bund beschaffte Produkte
+# § 26c – Kostenerstattung für durch den Bund beschaffte Produkte
 
 (1) Für nicht anderweitig finanzierte Kosten, die den Krankenhäusern für Produkte entstehen, die während einer vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes festgestellten epidemischen Lage von nationaler Tragweite durch den Bund zentral beschafft, vorfinanziert und kostenpflichtig an die Krankenhäuser abgegeben werden, berechnen die Krankenhäuser bei Patientinnen und Patienten, die zur voll- oder teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen werden und bei deren Versorgung die Produkte zum Einsatz kommen, Zusatzentgelte nach Absatz 2.
 
 (2) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 vereinbaren innerhalb von zwei Wochen, nachdem das Bundesministerium für Gesundheit ihnen die Beschaffung der Produkte mitgeteilt hat, die Höhe und die näheren Einzelheiten zur Abrechnung eines Zusatzentgelts nach Absatz 1. Die Höhe der Zusatzentgelte entspricht den nicht anderweitig finanzierten Kosten, die den Krankenhäusern durch den Bezug der Produkte entstanden sind. Kommt eine Vereinbarung nach Satz 1 nicht innerhalb dieser Frist zustande, legt die Schiedsstelle nach § 18a Absatz 6 die Höhe und die näheren Einzelheiten zur Abrechnung eines Zusatzentgelts ohne Antrag einer Vertragspartei innerhalb von zwei weiteren Wochen fest.
 
-
-## § 26d – Erweiterte Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
+# § 26d – Erweiterte Sonderleistung an Pflegekräfte aufgrund von besonderen Belastungen durch die SARS-CoV-2-Pandemie
 
 (1) Zugelassene Krankenhäuser, die ihre Leistungen nach dem Krankenhausentgeltgesetz abrechnen und die im Zeitraum vom 1. Januar 2020 bis zum 31. Dezember 2020 durch die voll- oder teilstationäre Behandlung von mit dem Coronavirus SARS-CoV-2 infizierten Patientinnen und Patienten besonders belastet waren, haben für ihre Pflegekräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen, soweit diese durch die Versorgung von mit dem Coronavirus SARS-CoV-2 infizierten Patientinnen und Patienten einer erhöhten Arbeitsbelastung ausgesetzt waren, Anspruch auf eine Auszahlung aus den in Absatz 3 Satz 1 genannten Mitteln, mit der sie diesen Beschäftigten eine Prämie als einmalige Sonderleistung zu zahlen haben. Als besonders belastet gelten Krankenhäuser mit weniger als 500 Betten mit mindestens 20 voll- oder teilstationär behandelten Patientinnen und Patienten, die mit dem Coronavirus SARS-CoV-2 infiziert waren, sowie Krankenhäuser ab 500 Betten mit mindestens 50 voll- oder teilstationär behandelten Patientinnen und Patienten, die mit dem Coronavirus SARS-CoV-2 infiziert waren. Krankenhäuser, die nach § 26a Absatz 1 anspruchsberechtigt waren, werden bei der Verteilung berücksichtigt, wenn sie im Zeitraum vom 1. Juni 2020 bis zum 31. Dezember 2020 die Voraussetzungen der Sätze 1 und 2 erfüllt haben. Unter den nach den Sätzen 1 bis 3 anspruchsberechtigten Krankenhäusern werden 150 Millionen Euro nach der jeweiligen Summe der Verweildauertage der voll- oder teilstationär behandelten Patientinnen und Patienten, die in den in den Sätzen 1 und 3 genannten Zeiträumen in den besonders belasteten Krankenhäusern mit dem Coronavirus SARS-CoV-2 infiziert waren und entlassen wurden, sowie 150 Millionen Euro nach der Anzahl der im Jahr 2019 beschäftigten Pflegekräfte in der unmittelbaren Patientenversorgung auf bettenführenden Stationen, umgerechnet in Vollkräfte, verteilt. Zusätzlich werden 150 Millionen Euro unter den nach den Sätzen 1 bis 3 anspruchsberechtigten Krankenhäusern verteilt, in denen im Zeitraum nach Satz 1 mit dem Coronavirus SARS-CoV-2 infizierte Patientinnen und Patienten mehr als 48 Stunden gemäß der Anlage zur Vereinbarung über die Übermittlung von Daten nach § 21 Absatz 4 und Absatz 5 des Krankenhausentgeltgesetzes – Version 2020 für das Datenjahr 2019, Fortschreibung vom 4. Dezember 2019 – beatmet wurden; die Anspruchshöhe wird nach der Anzahl dieser Fälle im jeweiligen Krankenhaus bemessen. Der jedem anspruchsberechtigten Krankenhaus nach Maßgabe der Sätze 4 und 5 zustehende Betrag wird durch das Institut für das Entgeltsystem im Krankenhaus auf der Grundlage der Daten ermittelt, die dem Institut für das Entgeltsystem im Krankenhaus nach § 24 Absatz 2 Satz 1 Nummer 1 sowie nach § 21 Absatz 2 Nummer 1 Buchstabe e des Krankenhausentgeltgesetzes zur Verfügung stehen. Das Institut für das Entgeltsystem im Krankenhaus veröffentlicht für jedes anspruchsberechtigte Krankenhaus unter Angabe des Namens und des Kennzeichens nach § 293 Absatz 1 des Fünften Buches Sozialgesetzbuch das Prämienvolumen nach den Sätzen 4 und 5 bis zum 7. April 2021 barrierefrei auf seiner Internetseite.
 
@@ -891,13 +847,11 @@ Die Vertragsparteien nach § 17b Absatz 2 Satz 1 übermitteln bis zum 31. Oktobe
 
 (5) Die nach Absatz 1 Satz 1 bis 3 anspruchsberechtigten Krankenhäuser berichten dem Spitzenverband Bund der Krankenkassen bis zum 31. März 2022 in anonymisierter Form über die Anzahl der Prämienempfängerinnen und Prämienempfänger, die jeweilige Prämienhöhe und die der Verteilung nach Absatz 2 zugrunde liegenden Kriterien. Der Spitzenverband Bund der Krankenkassen kann den Krankenhäusern weitere Vorgaben zum Inhalt der Berichte machen und erstellt auf der Grundlage der Berichte einen Abschlussbericht, den er bis zum 31. August 2022 dem Bundesministerium für Gesundheit vorlegt.
 
-
-## § 27 – Zuständigkeitsregelung
+# § 27 – Zuständigkeitsregelung
 
 Die in diesem Gesetz den Landesverbänden der Krankenkassen zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs. 5 des Fünften Buches Sozialgesetzbuch benannten Bevollmächtigten, für die knappschaftliche Krankenversicherung die Deutsche Rentenversicherung Knappschaft-Bahn-See und für die Krankenversicherung der Landwirte die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau wahr.
 
-
-## § 28 – Auskunftspflicht und Statistik
+# § 28 – Auskunftspflicht und Statistik
 
 (1) Die Träger der nach § 108 des Fünften Buches Sozialgesetzbuch zur Krankenhausbehandlung zugelassenen Krankenhäuser und die Sozialleistungsträger sind verpflichtet, dem Bundesministerium für Gesundheit sowie den zuständigen Behörden der Länder auf Verlangen Auskünfte über die Umstände zu erteilen, die für die Beurteilung der Bemessung und Entwicklung der Pflegesätze nach diesem Gesetz benötigt werden. Unter die Auskunftspflicht fallen insbesondere die personelle und sachliche Ausstattung sowie die Kosten der Krankenhäuser, die im Krankenhaus in Anspruch genommenen stationären und ambulanten Leistungen sowie allgemeine Angaben über die Patienten und ihre Erkrankungen. Die zuständigen Landesbehörden können darüber hinaus von den Krankenhausträgern Auskünfte über Umstände verlangen, die sie für die Wahrnehmung ihrer Aufgaben bei der Krankenhausplanung und Krankenhausfinanzierung nach diesem Gesetz benötigen.
 
@@ -935,22 +889,18 @@ Auskunftspflichtig sind die Krankenhausträger gegenüber den statistischen Ämt
 
 6. Anzahl der Ausbildenden und Auszubildenden, jeweils gegliedert nach Berufsbezeichnung nach § 2 Nr. 1a sowie die Anzahl der Auszubildenden nach Berufsbezeichnungen zusätzlich gegliedert nach jeweiligem Ausbildungsjahr.
 
-
-## § 29
+# § 29
 
 (aufgehoben)
 
-
-## § 30 – Darlehen aus Bundesmitteln
+# § 30 – Darlehen aus Bundesmitteln
 
 Lasten aus Darlehen, die vor der Aufnahme des Krankenhauses in den Krankenhausplan für förderungsfähige Investitionskosten aus Bundesmitteln gewährt worden sind, werden auf Antrag des Krankenhausträgers erlassen, soweit der Krankenhausträger vor dem 1. Januar 1985 von diesen Lasten nicht anderweitig freigestellt worden ist und solange das Krankenhaus in den Krankenhausplan aufgenommen ist. Für die in § 2 Nr. 1a genannten Ausbildungsstätten gilt Satz 1 entsprechend.
 
-
-## § 31 – Berlin-Klausel
+# § 31 – Berlin-Klausel
 
 (gegenstandslos)
 
-
-## § 32
+# § 32
 
 (Inkrafttreten)

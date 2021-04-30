@@ -1,10 +1,7 @@
-# [Münz100EuroBek 2006] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar")
-
-Ausfertigungsdatum: 28.08.2006
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar")
+% Ausfertigungsdatum: 28.08.2006
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum Thema "UNESCO Welterbe - Klassisches Weimar" eine Gedenkmünze zu 100 Euro aus Gold prägen zu lassen.
 
@@ -18,18 +15,16 @@ Die Wertseite zeigt einen Adler, den Schriftzug "BUNDESREPUBLIK DEUTSCHLAND", di
 
 Der Entwurf der Münze stammt von Herrn Dietrich Dorfstecher, Berlin.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
   
 (Fundstelle: BGBl. I 2006, 2118)
 
   
   
-![](../normengrafiken/bgbl1_2006/j2118_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2006/j2118_0010.jpg)  
   

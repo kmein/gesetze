@@ -1,10 +1,7 @@
-# [ASG] Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung  (Arbeitssicherstellungsgesetz)
-
-Ausfertigungsdatum: 09.07.1968
-
+% Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung  (Arbeitssicherstellungsgesetz)
+% Ausfertigungsdatum: 09.07.1968
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt:
 
@@ -586,18 +583,15 @@ Inkrafttreten
 
 § 40
 
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Vorrang des freien Arbeitsvertrags
+# § 1 – Vorrang des freien Arbeitsvertrags
 
 Das Grundrecht der freien Wahl des Arbeitsplatzes (Artikel 12 des Grundgesetzes) gilt auch in Spannungszeiten und im Verteidigungsfall. Von den in § 2 geregelten Verpflichtungsbefugnissen darf nur Gebrauch gemacht werden, wenn und soweit die in der genannten Vorschrift aufgeführten Arbeitsleistungen nicht auf der Grundlage der Freiwilligkeit sichergestellt werden können.
 
-
-## § 2 – Maßnahmen der Sicherstellung von Arbeitsleistungen
+# § 2 – Maßnahmen der Sicherstellung von Arbeitsleistungen
 
 Für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung kann nach den Vorschriften dieses Gesetzes
 
@@ -607,13 +601,11 @@ Für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung 
 
 3. eine Frau vom vollendeten achtzehnten bis zum vollendeten fünfundfünfzigsten Lebensjahr im zivilen Sanitäts- oder Heilwesen sowie in der ortsfesten militärischen Lazarettorganisation in ein Arbeitsverhältnis verpflichtet werden.
 
-
-## § 3 – Voraussetzungen für die Sicherstellung von Arbeitsleistungen
+# § 3 – Voraussetzungen für die Sicherstellung von Arbeitsleistungen
 
 Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässig. Beschränkungen und Verpflichtungen nach § 2 Nr. 1 und 2 sind außerdem nach Maßgabe des Artikels 12a Abs. 5 Satz 1 und Abs. 6 Satz 2 des Grundgesetzes zulässig. Die Verpflichtung zu Ausbildungsveranstaltungen (§ 29) ist auch zulässig, wenn die Voraussetzungen der Sätze 1 und 2 nicht gegeben sind.
 
-
-## § 4 – Anwendungsbereich
+# § 4 – Anwendungsbereich
 
 (1) Verpflichtungen und Beschränkungen nach § 2 sind zulässig zur Sicherstellung von Arbeitsleistungen
 
@@ -625,8 +617,7 @@ Beschränkungen und Verpflichtungen nach § 2 sind im Verteidigungsfall zulässi
 
 4. in Betrieben der Wasser- und Energieversorgung sowie der Abwasser- und Abfallbeseitigung,
 
-4a.  
-in Ernährungsunternehmen nach § 2 Nummer 6 des Ernährungssicherstellungs- und -vorsorgegesetzes,
+4a. in Ernährungsunternehmen nach § 2 Nummer 6 des Ernährungssicherstellungs- und -vorsorgegesetzes,
 
 5. in Krankenanstalten und anderen Einrichtungen, in denen pflegebedürftige Personen betreut werden,
 
@@ -640,8 +631,7 @@ in Ernährungsunternehmen nach § 2 Nummer 6 des Ernährungssicherstellungs- und
 
 (2) Über Absatz 1 hinaus kann die Bundesregierung nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) durch Rechtsverordnung bestimmen, daß Verpflichtungen und Beschränkungen auch in anderen Bereichen innerhalb des Anwendungsbereichs nach Artikel 12a Abs. 3, 4 und 6 des Grundgesetzes zulässig sind. Die Rechtsverordnung kann den Anwendungsbereich auch einschränken oder abgrenzen. Die Bundesregierung hat die Rechtsverordnung aufzuheben, wenn der Bundestag es verlangt.
 
-
-## § 5 – Befreiungen
+# § 5 – Befreiungen
 
 (1) § 2 gilt nicht für
 
@@ -669,20 +659,17 @@ in Ernährungsunternehmen nach § 2 Nummer 6 des Ernährungssicherstellungs- und
 
 (5) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung weitere Personengruppen von der Anwendung des § 2 Nr. 2 und 3 befreien, wenn die Fortführung ihrer Tätigkeit oder Berufsausbildung im öffentlichen Interesse liegt und mit der Verpflichtung nach dieser Vorschrift unvereinbar ist.
 
-
-## § 6 – Abgrenzung zum Wehrdienst und anderen Dienstleistungen
+# § 6 – Abgrenzung zum Wehrdienst und anderen Dienstleistungen
 
 Die Verpflichtung zum Dienst in den Streitkräften, im Bundesgrenzschutz, in einem Zivilschutzverband und im Zivildienst geht einer Maßnahme zur Sicherstellung von Arbeitsleistungen nach § 2 vor. Die §§ 13 und 13a des Wehrpflichtgesetzes und die §§ 14 und 16 des Zivildienstgesetzes bleiben unberührt.
 
-
-## § 7 – Zustimmungsbedürftigkeit der Beendigung eines Arbeitsverhältnisses
+# § 7 – Zustimmungsbedürftigkeit der Beendigung eines Arbeitsverhältnisses
 
 (1) Arbeitnehmer und private Arbeitgeber im Anwendungsbereich des Gesetzes (§ 4) bedürfen nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) für die Beendigung eines Arbeitsverhältnisses der Zustimmung der Agentur für Arbeit. Die Agentur für Arbeit hat der Beendigung zuzustimmen, sofern durch sie die Sicherstellung von Arbeitsleistungen nicht beeinträchtigt wird oder die Fortsetzung des Arbeitsverhältnisses unzumutbar ist. § 1 ist zu beachten.
 
 (2) Durch die Zustimmung wird nicht über die arbeitsrechtliche Berechtigung der Beendigung des Arbeitsverhältnisses entschieden.
 
-
-## § 8 – Ausnahmen von der Zustimmungsbedürftigkeit
+# § 8 – Ausnahmen von der Zustimmungsbedürftigkeit
 
 (1) Eine Zustimmung nach § 7 ist nicht erforderlich
 
@@ -692,8 +679,7 @@ Die Verpflichtung zum Dienst in den Streitkräften, im Bundesgrenzschutz, in ein
 
 (2) Die Bundesagentur für Arbeit kann Arbeitnehmer und Arbeitgeber bestimmter Betriebe und Bereiche von der Verpflichtung befreien, vor Lösung eines Arbeitsverhältnisses die Zustimmung der Agentur für Arbeit einzuholen. Die Befreiung ist dem Arbeitgeber und dem Betriebsrat (Personalrat) schriftlich mitzuteilen. Der Arbeitgeber hat sie den Arbeitnehmern auf betriebsübliche Weise bekanntzumachen. Die Befreiung kann befristet und für bestimmte Betriebsabteilungen erteilt werden; sie ist jederzeit widerruflich.
 
-
-## § 9 – Zustimmungsverfahren
+# § 9 – Zustimmungsverfahren
 
 (1) Die Zustimmung zu der Beendigung eines Arbeitsverhältnisses ist von dem Vertragsteil, der die Beendigung beabsichtigt, bei der Agentur für Arbeit schriftlich zu beantragen, in deren Bezirk seine Dienststelle oder sein Betrieb liegt; für das fahrende Personal der See- und Binnenschiffahrt ist in dringenden Fällen auch die Agentur für Arbeit zuständig, in deren Bezirk das Schiff liegt.
 
@@ -701,27 +687,23 @@ Die Verpflichtung zum Dienst in den Streitkräften, im Bundesgrenzschutz, in ein
 
 (3) Wird der Antrag abgelehnt, so ist die Entscheidung dem Antragsteller zuzustellen.
 
-
-## § 10 – Inhalt der Verpflichtung
+# § 10 – Inhalt der Verpflichtung
 
 Durch den Verpflichtungsbescheid (§ 13) wird ein Arbeitsverhältnis begründet.
 
-
-## § 11 – Verpflichtungsbehörden
+# § 11 – Verpflichtungsbehörden
 
 (1) Verpflichtungsbehörde ist die Agentur für Arbeit. Örtlich zuständig ist die Agentur für Arbeit, in deren Bezirk der Betrieb oder die Dienststelle liegt, in dem der zu Verpflichtende beschäftigt ist. Für das fahrende Personal der See- und Binnenschiffahrt ist in dringenden Fällen auch die Agentur für Arbeit zuständig, in deren Bezirk das Schiff liegt. Für Grenzarbeitnehmer und für Nichtbeschäftigte ist die Agentur für Arbeit zuständig, in deren Bezirk sie ihren ständigen Aufenthalt oder mangels eines solchen ihren jeweiligen Aufenthalt haben.
 
 (2) Bei Gefahr im Verzug können auch die Gemeinden, in den Ländern Berlin, Bremen und Hamburg die von den Senaten bestimmten Stellen, sowie die Behörden der allgemeinen Verwaltung auf der Kreisstufe Verpflichtungen bis zu einer Dauer von drei Tagen vornehmen. In diesem Fall haben sie die der Agentur für Arbeit als Verpflichtungsbehörde zustehenden Aufgaben.
 
-
-## § 12 – Grundsätze für die Verpflichtung
+# § 12 – Grundsätze für die Verpflichtung
 
 (1) Die Verpflichtungsbehörde darf Personen nur in zumutbare Arbeitsverhältnisse verpflichten. Dabei sind Ausbildung, berufliche Tätigkeit, körperliche und geistige Fähigkeiten und die sozialen und wirtschaftlichen Verhältnisse der zu verpflichtenden Person sowie die besonderen Verhältnisse des Arbeitsplatzes zu berücksichtigen. § 1 ist zu beachten. Den Belangen des bisherigen Arbeitgebers ist nach Möglichkeit Rechnung zu tragen. Das Bundesministerium für Arbeit und Soziales kann hierzu allgemeine Verwaltungsvorschriften erlassen; für die in § 11 Abs. 2 genannten Verpflichtungsbehörden bedürfen sie der Zustimmung des Bundesrates.
 
 (2) Bei Personen, die in einem Dienst- oder Arbeitsverhältnis mit dem Bund, einem Land, einer Gemeinde oder einem Gemeindeverband stehen, bedarf die Verpflichtung der vorherigen Zustimmung der für Personalangelegenheiten zuständigen Behörde. Die Zustimmung kann nur verweigert werden, wenn die Person lebens- und verteidigungswichtige Aufgaben der Behörde wahrzunehmen hat.
 
-
-## § 13 – Verpflichtungsbescheid
+# § 13 – Verpflichtungsbescheid
 
 (1) Der Verpflichtungsbescheid hat zu bezeichnen
 
@@ -749,22 +731,19 @@ Der Verpflichtungsbescheid muß außerdem einen Hinweis auf die Vorschriften zur
 
 (4) Bei Gefahr im Verzug kann die Verpflichtung auch mündlich oder fernmündlich ausgesprochen werden. Sie ist unverzüglich schriftlich zu bestätigen.
 
-
-## § 14 – Inhalt des durch Verpflichtung begründeten Arbeitsverhältnisses
+# § 14 – Inhalt des durch Verpflichtung begründeten Arbeitsverhältnisses
 
 (1) Die gegenseitigen Rechte und Pflichten aus dem Arbeitsverhältnis richten sich nach den Bedingungen, die im Betrieb, in der Dienststelle oder in entsprechenden Betrieben oder Dienststellen für Arbeitsleistungen vergleichbarer Art üblich sind; bei dem Arbeitgeber bestehende Regelungen über eine zusätzliche Alters- und Hinterbliebenenversorgung werden nicht angewendet. Der Arbeitgeber hat dem Arbeitnehmer die aus der An- und Abreise entstehenden notwendigen Aufwendungen einschließlich der Umzugskosten zu erstatten und ihm eine Trennungsentschädigung zu zahlen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung nähere Bestimmungen über Voraussetzungen, Höhe und Umfang der Trennungsentschädigung und den Ersatz von Umzugskosten zu erlassen.
 
-
-## § 15 – Einfluß der Verpflichtung auf ein Arbeits- oder Vertragsverhältnis in der privaten Wirtschaft
+# § 15 – Einfluß der Verpflichtung auf ein Arbeits- oder Vertragsverhältnis in der privaten Wirtschaft
 
 (1) Wird ein Arbeitnehmer in ein Arbeitsverhältnis verpflichtet, so ruht sein bisheriges Arbeitsverhältnis während der Dauer der Verpflichtung. § 1 Absatz 4 und 5, die §§ 2, 3 und 4 Absatz 1 Satz 1, Absatz 2 bis 4, die §§ 5, 6, 12 Absatz 1 und § 13 des Arbeitsplatzschutzgesetzes gelten entsprechend; § 14a Absatz 3 und § 14b Absatz 1 des Arbeitsplatzschutzgesetzes gelten mit der Maßgabe entsprechend, dass der neue Arbeitgeber erstattungspflichtig ist. Dieser darf etwaige Arbeitnehmeranteile von dem Arbeitsentgelt der verpflichteten Personen einbehalten.
 
 (2) Für in Heimarbeit Beschäftigte und für Handelsvertreter gelten die §§ 7 und 8 des Arbeitsplatzschutzgesetzes entsprechend.
 
-
-## § 16 – Einfluß der Verpflichtung auf ein Dienst- oder Arbeitsverhältnis im öffentlichen Dienst
+# § 16 – Einfluß der Verpflichtung auf ein Dienst- oder Arbeitsverhältnis im öffentlichen Dienst
 
 (1) Wird ein Beamter oder ein Richter auf Probe in ein Arbeitsverhältnis verpflichtet, so ist er für die Dauer der Verpflichtung mit Dienstbezügen oder Unterhaltszuschuß beurlaubt; § 9 Abs. 3 bis 11 des Arbeitsplatzschutzgesetzes gilt entsprechend, Absatz 8 nur, soweit er die Einberufung zu Wehrübungen betrifft, und Absatz 9, soweit er auf § 4 Abs. 1, 2 und 4 verweist. Für einen Lehrer an einer privaten genehmigten Ersatzschule, der nach § 6 Abs. 1 Nr. 5 des Fünften Buches Sozialgesetzbuch versicherungsfrei ist, gilt Satz 1 entsprechend.
 
@@ -772,8 +751,7 @@ Der Verpflichtungsbescheid muß außerdem einen Hinweis auf die Vorschriften zur
 
 (3) Auf die nach den Absätzen 1 und 2 weiter zu gewährenden Dienstbezüge, Unterhaltszuschüsse, Vergütungen oder Arbeitsentgelte werden die dem verpflichteten Arbeitnehmer gewährten laufenden Geldbezüge aus dem Arbeitsverhältnis angerechnet. Diesen Geldbezügen stehen gleich das Krankengeld aus der gesetzlichen Krankenversicherung, entsprechende Leistungen aus der gesetzlichen Unfallversicherung, das Kurzarbeitergeld und das Schlechtwettergeld.
 
-
-## § 17 – Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben
+# § 17 – Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben
 
 (1) Ein in ein Arbeitsverhältnis Verpflichteter, der nicht unter § 16 fällt, erhält, soweit sich sein Arbeitsentgelt, gemindert um die hierauf zu entrichtende Einkommensteuer, den Solidaritätszuschlag, die Arbeitnehmeranteile zur gesetzlichen Sozialversicherung und die Kirchensteuer durch die Verpflichtung vermindert, den Unterschiedsbetrag von der zuständigen Unterhaltssicherungsbehörde zu Lasten des Bundes; dieser ist auch nach dem Ende der Verpflichtung weiterzuzahlen, solange Krankengeld aus der gesetzlichen Krankenversicherung oder entsprechende Leistungen aus der gesetzlichen Unfallversicherung gewährt werden; § 16 Abs. 2 Satz 2 zweiter Halbsatz gilt entsprechend. Der Unterschiedsbetrag darf zusammen mit den laufenden Nettogeldbezügen aus dem neuen Arbeitsverhältnis je Kalendertag der Verpflichtung den in § 5 Absatz 3 des Unterhaltssicherungsgesetzes bestimmten Höchstbetrag jeweils nicht mehr als um 135 Prozent übersteigen. Der Unterschiedsbetrag unterliegt nicht den Steuern vom Einkommen und Ertrag.
 
@@ -785,13 +763,11 @@ Der Verpflichtungsbescheid muß außerdem einen Hinweis auf die Vorschriften zur
 
 (5) (weggefallen)
 
-
-## § 18 – Allgemeines
+# § 18 – Allgemeines
 
 Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Versicherungspflicht in der gesetzlichen Kranken-, Unfall- und Rentenversicherung sowie in der Arbeitslosenversicherung und sozialen Pflegeversicherung nach Maßgabe der allgemeinen Vorschriften, soweit die nachfolgenden Vorschriften nichts Abweichendes bestimmen.
 
-
-## § 19 – Krankenversicherung
+# § 19 – Krankenversicherung
 
 (1) Beamte, Lehrer an privaten genehmigten Ersatzschulen, Richter auf Probe und Arbeitnehmer im öffentlichen Dienst, die auf Grund des § 6 Abs. 1 Nr. 2, 5 oder 6 des Fünften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung versicherungsfrei sind, bleiben auch während ihrer Verpflichtung in ein Arbeitsverhältnis versicherungsfrei, solange sie nach § 16 mit Dienstbezügen oder Unterhaltszuschuß beurlaubt sind oder ihr Arbeitsentgelt weiter erhalten.
 
@@ -799,15 +775,13 @@ Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Ver
 
 (3) Die Leistungen nach § 16, welche die laufenden Geldbezüge aus dem Arbeitsverhältnis übersteigen, und die Unterschiedsbeträge nach § 17 Abs. 1 werden als Entgelt nur bei der Berechnung der Jahresarbeitsentgeltgrenze (§ 6 Abs. 6 oder 7 des Fünften Buches Sozialgesetzbuch) berücksichtigt.
 
-
-## § 20 – Unfallversicherung
+# § 20 – Unfallversicherung
 
 (1) In der gesetzlichen Unfallversicherung gilt während der Verpflichtung in ein Arbeitsverhältnis als Jahresarbeitsverdienst eines Versicherten, der im Zeitpunkt seiner Verpflichtung bereits versichert war, der in der Versicherung zuletzt vor der Verpflichtung maßgebende Jahresarbeitsverdienst, wenn es für den Berechtigten günstiger ist.
 
 (2) Erleidet jemand, dem sonst Unfallfürsorge nach beamtenrechtlichen Vorschriften oder Grundsätzen gewährleistet ist, während seiner Verpflichtung in ein Arbeitsverhältnis einen Versicherungsfall, gelten § 61 Abs. 1 und § 82 Abs. 4 des Siebten Buches Sozialgesetzbuch mit der Maßgabe, daß sich der Jahresarbeitsverdienst nach § 82 Abs. 1 und 2 des Siebten Buches Sozialgesetzbuch errechnet, wenn es für den Berechtigten günstiger ist.
 
-
-## § 21 – Rentenversicherung Versicherungsfreiheit und Zuständigkeit
+# § 21 – Rentenversicherung Versicherungsfreiheit und Zuständigkeit
 
 (1) In der gesetzlichen Rentenversicherung sind während der Verpflichtung in ein Arbeitsverhältnis auch versicherungsfrei
 
@@ -819,8 +793,7 @@ Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Ver
 
 (2) Für Personen, die im Zeitpunkt ihrer Verpflichtung in ein Arbeitsverhältnis in der gesetzlichen Rentenversicherung pflichtversichert sind, ändert sich während der Verpflichtung die Zugehörigkeit zu dem Zweig der gesetzlichen Rentenversicherung nicht, es sei denn, daß sie auf Grund der Verpflichtung eine Beschäftigung ausüben, die anders als bisher in der knappschaftlichen Rentenversicherung zu versichern ist.
 
-
-## § 22 – Rentenversicherung Entgelt und Beiträge
+# § 22 – Rentenversicherung Entgelt und Beiträge
 
 (1) Bei Personen, die während ihrer Verpflichtung in ein Arbeitsverhältnis in der gesetzlichen Rentenversicherung pflichtversichert sind, gelten auch die Leistungen nach § 16, welche die laufenden Geldbezüge aus dem Arbeitsverhältnis übersteigen, und die Unterschiedsbeträge nach § 17 Abs. 1 als Entgelt, wenn diese Personen bereits im Zeitpunkt ihrer Verpflichtung in der gesetzlichen Rentenversicherung pflichtversichert waren. Für Handwerker, die in die Handwerksrolle eingetragen sind, gilt Satz 1 nicht.
 
@@ -828,8 +801,7 @@ Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Ver
 
 (3) und (4)
 
-
-## § 23 – Arbeitslosenversicherung
+# § 23 – Arbeitslosenversicherung
 
 (1) Personen, die unmittelbar vor der Verpflichtung in ein Arbeitsverhältnis nicht als Arbeitnehmer oder nicht zu ihrer Berufsausbildung beschäftigt waren, bleiben auch während ihrer Verpflichtung in ein Arbeitsverhältnis versicherungsfrei.
 
@@ -839,13 +811,11 @@ Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Ver
 
 (4)
 
-
-## § 23a – Pflegeversicherung
+# § 23a – Pflegeversicherung
 
 § 61 des Elften Buches Sozialgesetzbuch ist mit der Maßgabe anzuwenden, daß der Dienstherr oder Arbeitgeber des öffentlichen Dienstes, der nach § 16 Dienstbezüge, Unterhaltszuschuß oder Arbeitsentgelt weiter zu zahlen hat, und der neue Arbeitgeber den Beitragszuschuß anteilig nach der Höhe der jeweils zu gewährenden Dienstbezüge, Unterhaltszuschüsse und Arbeitsentgelte zu zahlen haben.
 
-
-## § 24 – Auskunftspflicht
+# § 24 – Auskunftspflicht
 
 (1) Wehrpflichtige und Frauen, die in ein Arbeitsverhältnis verpflichtet werden können, haben der Agentur für Arbeit auf Verlangen die Auskünfte zu erteilen und zu belegen, die zur Durchführung des Gesetzes erforderlich sind. Die gleiche Verpflichtung haben Dienstherren des öffentlichen Rechts und Arbeitgeber; sie haben den Betriebs- oder Personalrat vor Erteilung der Auskunft zu unterrichten.
 
@@ -853,8 +823,7 @@ Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Ver
 
 (3) Die nach Absatz 1 erlangten Kenntnisse und Unterlagen dürfen nicht für ein Besteuerungsverfahren, ein Strafverfahren wegen einer Steuerstraftat oder ein Bußgeldverfahren wegen einer Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
 
-
-## § 25 – Persönliche Vorstellung
+# § 25 – Persönliche Vorstellung
 
 (1) Nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) müssen Wehrpflichtige, die in ein Arbeitsverhältnis verpflichtet werden können, sich auf Aufforderung der Agentur für Arbeit melden oder vorstellen. Die Aufforderung ergeht schriftlich; sie kann bei Gefahr im Verzug auch mündlich, fernmündlich oder durch öffentlichen Aufruf in der Presse, im Rundfunk oder in anderer Art ergehen.
 
@@ -864,13 +833,11 @@ Personen, die in ein Arbeitsverhältnis verpflichtet werden, unterliegen der Ver
 
 (4) Für die durch die Verpflichtungen nach den Absätzen 1 und 2 ausfallende Arbeitszeit hat der Dienstherr oder Arbeitgeber die Dienstbezüge oder das Arbeitsentgelt weiter zu zahlen. Das gleiche gilt bei in Heimarbeit Beschäftigten für den Auftraggeber oder, falls sie von einem Zwischenmeister beschäftigt werden, für den Zwischenmeister, der sie mindestens ein Jahr ausschließlich oder überwiegend beschäftigt hat. Die von der Agentur für Arbeit geladene Person hat die schriftliche Ladung ihrem Dienstherrn, ihrem Arbeitgeber oder ihrem Auftraggeber (Zwischenmeister) unverzüglich vorzulegen, im Falle einer Aufforderung nach Absatz 1 Satz 2 zweiter Halbsatz diese Person unverzüglich zu unterrichten.
 
-
-## § 26 – Kosten des Verpflichtungs- und Zustimmungsverfahrens
+# § 26 – Kosten des Verpflichtungs- und Zustimmungsverfahrens
 
 Das Verfahren vor der Agentur für Arbeit ist kostenfrei. Notwendige Auslagen, die einer Person durch das Verfahren entstanden sind, werden ihr von der Agentur für Arbeit erstattet. Die Kosten der Untersuchungen nach § 25 Abs. 2 übernimmt die Agentur für Arbeit. Die Agentur für Arbeit ersetzt im Auftrag des Bundes Grenzarbeitnehmern, in Heimarbeit Beschäftigten, soweit sie nicht durch § 25 Abs. 4 erfaßt werden, sowie Selbständigen den Verdienstausfall; die Vorschriften des Justizvergütungs- und -entschädigungsgesetzes finden sinngemäß Anwendung. Diese Aufwendungen werden der Bundesagentur für Arbeit vom Bund erstattet.
 
-
-## § 27 – Rechtsweg
+# § 27 – Rechtsweg
 
 (1) Für Rechtsstreitigkeiten über Maßnahmen nach diesem Gesetz oder einer auf diesem Gesetz beruhenden Rechtsverordnung ist der Verwaltungsrechtsweg gegeben.
 
@@ -878,13 +845,11 @@ Das Verfahren vor der Agentur für Arbeit ist kostenfrei. Notwendige Auslagen, d
 
 (3) Absatz 2 gilt nicht für Rechtsstreitigkeiten über Leistungen nach § 17 dieses Gesetzes.
 
-
-## § 28 – Anwendung der §§ 14 bis 23
+# § 28 – Anwendung der §§ 14 bis 23
 
 Wird nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) im Anwendungsbereich des Gesetzes (§ 4) freiwillig ein Arbeitsverhältnis begründet, in das ein Wehrpflichtiger verpflichtet werden könnte, so kann die Agentur für Arbeit auf Antrag des Arbeitnehmers anordnen, daß die §§ 14 bis 23a anzuwenden sind. Dem Antrag soll, solange das bisherige Arbeitsverhältnis besteht, nicht entsprochen werden, wenn der bisherige Arbeitgeber widerspricht und die Anordnung für ihn eine unzumutbare Belastung zur Folge hätte. Für die Anordnung gelten die §§ 11 und 13 Abs. 3 und 4 sinngemäß.
 
-
-## § 29 – Ausbildungsveranstaltungen
+# § 29 – Ausbildungsveranstaltungen
 
 (1) Wehrpflichtige, die nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) im Anwendungsbereich des Gesetzes (§ 4) für eine Aufgabe verwandt werden sollen, die besondere Kenntnisse und Fertigkeiten erfordert, können zu Ausbildungsveranstaltungen verpflichtet werden. Der Vorrang der Freiwilligkeit (§ 1) gilt entsprechend. Die Erstausbildung darf 28 Tage, Wiederholungsveranstaltungen dürfen 14 Tage jährlich nicht überschreiten.
 
@@ -910,8 +875,7 @@ e) dem Teilnehmer sind die notwendigen Auslagen und Schäden an mitgebrachten Sa
 
 f) während der Ausbildung ist der Schutz der gesetzlichen Unfallversicherung sicherzustellen.
 
-
-## § 30 – Bereithaltungsbescheid
+# § 30 – Bereithaltungsbescheid
 
 (1) Soll ein Wehrpflichtiger, auf den die in § 29 Abs. 2 genannte Rechtsverordnung angewandt werden kann und der für Zwecke der Verteidigung einschließlich des Schutzes der Zivilbevölkerung ausgebildet ist, zu einem bestimmten Zeitpunkt nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) im Anwendungsbereich des Gesetzes (§ 4) in ein Arbeitsverhältnis verpflichtet werden, so kann der Verpflichtungsbescheid nach Abschluß der Ausbildung zugestellt werden (Bereithaltungsbescheid). Die Bestimmung des Zeitpunkts kann einem öffentlichen Aufruf in der Presse, im Rundfunk oder in anderer Art vorbehalten werden.
 
@@ -919,13 +883,11 @@ f) während der Ausbildung ist der Schutz der gesetzlichen Unfallversicherung si
 
 (3) Aus der Zustellung eines Bereithaltungsbescheids dürfen dem Empfänger keine Nachteile innerhalb eines bestehenden Dienst- oder Arbeitsverhältnisses, Heimarbeitsverhältnisses oder Handelsvertreterverhältnisses erwachsen.
 
-
-## § 31 – Zumutung von Gefahren
+# § 31 – Zumutung von Gefahren
 
 Nach Eintritt der Voraussetzungen für die Sicherstellung von Arbeitsleistungen (§ 3) ist ein Arbeitnehmer im Anwendungsbereich des Gesetzes (§ 4) verpflichtet, bei der Erfüllung von Aufgaben, die Zwecken des Gesetzes dienen, soweit nach den Umständen und seinen persönlichen Verhältnissen zumutbar, Gefahren und Erschwernisse auf sich zu nehmen.
 
-
-## § 32 – Verletzung von Sicherstellungsvorschriften
+# § 32 – Verletzung von Sicherstellungsvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -953,46 +915,38 @@ b) sich beharrlich weigert, eine ihm aufgetragene und zumutbare Arbeit zu verric
 
 (5) Wer eine der in Absatz 1 bezeichneten Handlungen begeht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn die Tat geeignet ist, die Verwirklichung der Ziele, denen die Sicherstellung von Arbeitsleistungen im allgemeinen oder im Einzelfall zu dienen bestimmt ist, merkbar zu beeinträchtigen.
 
-
-## § 33
+# § 33
 
 \-
 
-
-## § 34 – Koordinierung und Bedarfsdeckung
+# § 34 – Koordinierung und Bedarfsdeckung
 
 Die Bundesregierung erläßt durch Rechtsverordnung Vorschriften über die Zusammenarbeit der Bundesagentur für Arbeit mit den fachlich zuständigen Bundes- und Landesbehörden bei der Feststellung und Deckung des Arbeitskräftebedarfs. Sie regelt hierbei, wie die zur Verfügung stehenden Arbeitskräfte zu verteilen sind, wenn diese nicht ausreichen, den Bedarf zu decken.
 
-
-## § 35 – Weisungsrecht gegenüber der Bundesagentur für Arbeit
+# § 35 – Weisungsrecht gegenüber der Bundesagentur für Arbeit
 
 (1) Das Bundesministerium für Arbeit und Soziales kann zur Durchführung des Gesetzes der Bundesagentur für Arbeit Weisungen erteilen. Es führt insoweit auch die Dienstaufsicht.
 
 (2) Die Bundesagentur für Arbeit übernimmt die ihr aus der Durchführung dieses Gesetzes entstehenden Kosten. Sie werden ihr vom Bund erstattet.
 
-
-## § 36 – Begriffsbestimmung
+# § 36 – Begriffsbestimmung
 
 Arbeitnehmer im Sinne dieses Gesetzes sind Arbeiter und Angestellte einschließlich der zu ihrer Berufsausbildung Beschäftigten.
 
-
-## § 37 – Öffentlich-rechtliche Dienstverhältnisse
+# § 37 – Öffentlich-rechtliche Dienstverhältnisse
 
 Soweit nach Artikel 12a Abs. 3 des Grundgesetzes öffentlich-rechtliche Dienstverhältnisse begründet werden können, werden diese nach den Vorschriften geregelt, die für die Dienstverhältnisse im jeweiligen Bereich gelten.
 
-
-## § 38 – Rechtsverordnung
+# § 38 – Rechtsverordnung
 
 (1) Für Arbeitnehmer bei der Bundeswehr gelten § 7 Abs. 1, § 9 Abs. 1 und 2 und § 32 Abs. 1 Nr. 1 und Abs. 4 mit der Maßgabe, daß an die Stelle der Agentur für Arbeit die vom Bundesministerium der Verteidigung durch Rechtsverordnung bestimmte Stelle tritt.
 
 (2) Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-
-## § 39 – Einschränkung von Grundrechten
+# § 39 – Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des Grundgesetzes) und der freien Wahl des Arbeitsplatzes (Artikel 12 Abs. 1 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 40 – Inkrafttreten
+# § 40 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

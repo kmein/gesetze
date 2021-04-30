@@ -1,10 +1,7 @@
-# [EntwLStG] Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen in Entwicklungsländern  (Entwicklungsländer-Steuergesetz - EntwLStG)
-
-Ausfertigungsdatum: 23.12.1963
-
+% Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen in Entwicklungsländern  (Entwicklungsländer-Steuergesetz - EntwLStG)
+% Ausfertigungsdatum: 23.12.1963
  
-
-## § 1 – Steuerfreie Rücklage für Kapitalanlagen in Entwicklungsländern
+# § 1 – Steuerfreie Rücklage für Kapitalanlagen in Entwicklungsländern
 
 (1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs, dessen Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermittelt wird, Kapitalanlagen in Entwicklungsländern vornehmen, können zu Lasten des Gewinns des inländischen Betriebs eine Rücklage bilden. Die Rücklage darf bei Kapitalanlagen  
 
@@ -90,15 +87,13 @@ b) eine eigene Tätigkeit im Sinne des Satzes 1 letzter Halbsatz ausübt und im 
 
 (+++ § 1 Abs. 7 u. 8: Zur Anwendung vgl. § 11 Abs. 4 Satz 1 F. ab 1981-12-22 +++)
 
-
-## § 2 – Steuerfreie Rücklage für Beteiligungen an Kapitalgesellschaften in Entwicklungsländern, die von der Entwicklungsgesellschaft erworben werden
+# § 2 – Steuerfreie Rücklage für Beteiligungen an Kapitalgesellschaften in Entwicklungsländern, die von der Entwicklungsgesellschaft erworben werden
 
 (1) Steuerpflichtige, die mit Mitteln eines inländischen Betriebs, dessen Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermittelt wird, von der Deutschen Gesellschaft für wirtschaftliche Zusammenarbeit (Entwicklungsgesellschaft) mit beschränkter Haftung Beteiligungen an Kapitalgesellschaften in Entwicklungsländern erwerben, bei denen die Voraussetzungen des § 1 Abs. 3 Satz 1 letzter Halbsatz erfüllt sind, können im Wirtschaftsjahr der Anschaffung zu Lasten des Gewinns des inländischen Betriebs eine Rücklage bilden. § 1 Abs. 1 Satz 2 und 4 gilt entsprechend. Die Rücklage ist spätestens vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an jährlich mit mindestens einem Sechstel gewinnerhöhend aufzulösen.
 
 (2)
 
-
-## § 3 – Sondervorschriften für Kapitalanlagen durch Sacheinlagen
+# § 3 – Sondervorschriften für Kapitalanlagen durch Sacheinlagen
 
 (1) Kapitalanlagen im Sinne des § 1 Abs. 3, die durch Sacheinlagen erworben worden sind oder in solchen bestehen, können auch dann, wenn sie nach § 6 des Einkommensteuergesetzes mit einem höheren Wert anzusetzen wären, mit dem Wert in der Bilanz ausgewiesen werden, mit dem die hingegebenen Wirtschaftsgüter im Zeitpunkt ihres Ausscheidens aus dem Betriebsvermögen des inländischen Betriebs nach den Vorschriften über die steuerliche Gewinnermittlung anzusetzen gewesen wären (Buchwert). Das gleiche gilt für Beteiligungen an Kapitalgesellschaften im Sinne des § 1 Abs. 3 Satz 4 Nr. 1, die durch Sacheinlagen erworben worden sind, unter der Bedingung, daß die Voraussetzung des § 1 Abs. 3 Satz 4 Nr. 2 erfüllt wird. Bei in Sacheinlagen bestehenden Kapitalanlagen im Sinne des § 1 Abs. 3 Satz 1 Nr. 3 und 4 in Entwicklungsländern, mit denen ein Abkommen zur Vermeidung der Doppelbesteuerung besteht, kann der Unterschied zwischen dem Buchwert und dem Teilwert der hingegebenen Wirtschaftsgüter im Zeitpunkt ihres Ausscheidens aus dem Betriebsvermögen des inländischen Betriebs bei der Gewinnermittlung außer Ansatz bleiben. Die Vergünstigung des Satzes 3 wird unter der Bedingung gewährt, daß die hingegebenen Wirtschaftsgüter mindestens drei Jahre nach ihrer Zuführung in der Personengesellschaft, dem Betrieb oder der Betriebstätte im Entwicklungsland, im Fall einer durch die Verhältnisse im Entwicklungsland bedingten Umwandlung der Personengesellschaft, des Betriebs oder der Betriebstätte in eine Kapitalgesellschaft in dieser Kapitalgesellschaft verbleiben.
 
@@ -110,8 +105,7 @@ b) eine eigene Tätigkeit im Sinne des Satzes 1 letzter Halbsatz ausübt und im 
 
 (+++ § 3 Abs. 4: Zur Anwendung vgl. § 11 Abs. 4 Satz 1 F. ab 1981-12-22 +++)
 
-
-## § 4 – Sondervorschriften für bestimmte Umwandlungen oder Veräußerungen
+# § 4 – Sondervorschriften für bestimmte Umwandlungen oder Veräußerungen
 
 (1) Ist bei Kapitalanlagen im Sinne des § 1 Abs. 3 Satz 1 Nr. 3 und 4 infolge einer durch die Verhältnisse im Entwicklungsland bedingten Umwandlung der Personengesellschaft, des Betriebs oder der Betriebstätte im Entwicklungsland in eine Kapitalgesellschaft ein im Inland steuerpflichtiger Gewinn entstanden, so kann der Steuerpflichtige im Wirtschaftsjahr der Umwandlung von den Anschaffungs- oder Herstellungskosten abnutzbarer beweglicher Wirtschaftsgüter des Anlagevermögens, die in diesem Wirtschaftsjahr angeschafft oder hergestellt worden sind, einen Betrag bis zur Höhe dieses Gewinns abziehen. Soweit der Steuerpflichtige den Abzug nach Satz 1 nicht vorgenommen hat, kann er im Wirtschaftsjahr der Umwandlung eine den steuerlichen Gewinn mindernde Rücklage bilden. In diesem Fall sind die Vorschriften des § 6b Abs. 3 bis 5 mit Ausnahme des Absatzes 4 Nr. 2 des Einkommensteuergesetzes mit der Maßgabe entsprechend anzuwenden, daß die Rücklage nur auf die Anschaffungs- oder Herstellungskosten von abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens übertragen werden darf.
 
@@ -128,8 +122,7 @@ ein im Inland steuerpflichtiger Gewinn entstanden ist. Satz 1 ist in den Fällen
 (+++ § 4 Abs. 2 Satz 1 Nr. 2: Zur Anwendung vgl. § 11 Abs. 2 F. ab 1981-12-22 +++)  
 (+++ § 4 Abs. 2 Satz 2: Zur Anwendung vgl. § 11 Abs. 4 Satz 1 F. ab 1981-12-22 +++)
 
-
-## § 5 – Wegfall der Steuervergünstigungen
+# § 5 – Wegfall der Steuervergünstigungen
 
 (1) Werden Kapitalanlagen im Sinne des § 1 Abs. 3 oder Beteiligungen im Sinne des § 2 nach § 6 des Einkommensteuergesetzes mit dem niedrigeren Teilwert angesetzt, so ist eine nach § 1 oder nach § 2 gebildete Rücklage im Wirtschaftsjahr des Ansatzes des niedrigeren Teilwerts in Höhe des Anteils, der dem Unterschied zwischen dem Wert, mit dem die Kapitalanlage bisher angesetzt war, und dem niedrigeren Teilwert entspricht, vorzeitig gewinnerhöhend aufzulösen. Satz 1 ist nicht anzuwenden, soweit bei Darlehen im Sinne des § 1 Abs. 3 Satz 1 Nr. 2 Buchstabe b der niedrigere Teilwert ausschließlich mit Rücksicht auf die Unverzinslichkeit der Darlehen angesetzt worden ist. Eine für Darlehen im Sinne des § 1 Abs. 3 Satz 1 Nr. 2 Buchstabe b gebildete Rücklage ist abweichend von § 1 Abs. 1 Satz 3 vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an jährlich in Höhe des Betrags oder Teilbetrags gewinnerhöhend aufzulösen, der dem Anteil der Tilgung im jeweiligen Wirtschaftsjahr am Nennbetrag des hingegebenen Darlehens entspricht; die Rücklage ist jedoch vom sechsten auf ihre Bildung folgenden Wirtschaftsjahr an mindestens mit den in § 1 Abs. 1 Satz 3 bezeichneten Teilbeträgen gewinnerhöhend aufzulösen.
 
@@ -164,21 +157,18 @@ Werden Wirtschaftsgüter des Anlagevermögens oder des Vorratsvermögens oder Be
 (+++ § 5 Abs. 2 Satz 2 Nr. 1, Satz 5 u. Satz 7: Zur Anwendung vgl. § 11 Abs. 2 F. ab 1981-12-22 +++)  
 (+++ § 5 Abs. 4: Zur Anwendung vgl. § 11 Abs. 3 Satz 1 F. ab 1981-12-22 +++)
 
-
-## § 6 – Entwicklungsländer
+# § 6 – Entwicklungsländer
 
 (1) Entwicklungsländer im Sinne dieses Gesetzes sind die folgenden Länder und Gebiete:  
 Gruppe 1  
-Äthiopien, Afghanistan, Bangladesch, Benin, Bhutan, Botsuana, Burundi, Gambia, Guinea, Haiti, Jemen (Arabische Republik), Demokratische Volksrepublik Jemen, Kap Verde, Komoren, Laotische Demokratische Volksrepublik, Lesotho, Malawi, Malediven, Mali, Nepal, Niger, Obervolta, Ruanda, Samoa, Somalia, Sudan, Tansania, Tschad, Uganda, Zentralafrikanisches Kaiserreich.  
-Gruppe 2  
+Äthiopien, Afghanistan, Bangladesch, Benin, Bhutan, Botsuana, Burundi, Gambia, Guinea, Haiti, Jemen (Arabische Republik), Demokratische Volksrepublik Jemen, Kap Verde, Komoren, Laotische Demokratische Volksrepublik, Lesotho, Malawi, Malediven, Mali, Nepal, Niger, Obervolta, Ruanda, Samoa, Somalia, Sudan, Tansania, Tschad, Uganda, Zentralafrikanisches Kaiserreich. Gruppe 2  
 Ägypten, Äquatorialguinea, Algerien, Angola, Antigua, Argentinien, Bahamas, Bahrain, Barbados, Birma, Bolivien, Brasilien, Brunei, Chile, Volksrepublik China, Costa Rica, Dominica, Dominikanische Republik, Dschibuti, Ecuador, Elfenbeinküste, Fidschi, Gabun, Ghana, Grenada, Griechenland, Guatemala, Guinea-Bissau, Guyana, Honduras, Indien, Indonesien, Irak, Iran, Island, Israel, Jamaika, Jordanien, Jugoslawien, Vereinigte Republik Kamerun, Katar, Kenia, Kolumbien, Volksrepublik Kongo, Republik Korea, Kuwait, Libanon, Liberia, Libysch-Arabische Dschamahirija, Madagaskar, Malaysia, Malta, Marokko, Mauretanien, Mauritius, Mexiko, Mosambik, Nauru, Nicaragua, Nigeria, Oman, Pakistan, Panama, Papua-Neuguinea, Paraguay, Peru, Philippinen, Portugal (ohne außereuropäische Gebiete), Rumänien, Salomonen, El Salvador, Sambia, Sao Tome und Principe, Saudi Arabien, Senegal, Seschellen, Sierra Leone, Singapur, Spanien (ohne außereuropäische Gebiete), Sri Lanka, St. Christoph-Nevis-Anguilla, St. Lucia, St. Vincent, Suriname, Swasiland, Syrien, Taiwan, Thailand, Togo, Tonga, Trinidad und Tobago, Türkei, Tunesien, Tuvalu, Uruguay, Venezuela, Vereinigte Arabische Emirate, Sozialistische Republik Vietnam, Zaire, Zypern.
 
 (2) Entwicklungsländer der Gruppe 2 im Sinne dieses Gesetzes sind auch außereuropäische Länder, die nach dem 31. Dezember 1978 unabhängig geworden sind.
 
 (+++ § 6 Abs. 2: Zur Anwendung vgl. § 11 Abs. 3 F. ab 1981-12-22 +++)
 
-
-## § 7
+# § 7
 
 (1) Die Vorschriften der §§ 1 bis 6 gelten auch für die Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes.
 
@@ -186,13 +176,11 @@ Gruppe 2
 
 (3) Ist die Kapitalanlage im Rahmen eines land- und forstwirtschaftlichen Betriebs vorgenommen worden, so ist Absatz 2 entsprechend bei der Ermittlung des Gesamtvermögens des Inhabers dieses land- und forstwirtschaftlichen Betriebs anzuwenden.
 
-
-## § 8 – Ermächtigung
+# § 8 – Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum, unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
-## § 9 – Statistik
+# § 9 – Statistik
 
 (1) Über die Inanspruchnahme der steuerfreien Rücklagen nach den §§ 1 und 7 wird beim Statistischen Bundesamt eine Bundesstatistik geführt.
 
@@ -210,13 +198,11 @@ Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetze
 
 (4) Die Bundesstatistik wird für das Wirtschaftsjahr durchgeführt, das nach dem 31. Dezember 1978 endet.
 
-
-## § 10 – Berlin-Klausel
+# § 10 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 11 – Anwendungsbereich
+# § 11 – Anwendungsbereich
 
 (1) Die vorstehende Fassung dieses Gesetzes ist vorbehaltlich der Absätze 2 bis 4 auf Kapitalanlagen anzuwenden, die nach dem 31. Dezember 1978 und vor dem 1. Januar 1982 vorgenommen werden, sowie auf Kapitalanlagen, die nach dem 31. Dezember 1981, jedoch nachweislich in Erfüllung einer am 30. Juli 1981 bestehenden rechtsverbindlichen Verpflichtung vorgenommen werden.
 

@@ -1,36 +1,25 @@
-# [BTHG] Gesetz zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen  (Bundesteilhabegesetz - BTHG)
-
-Ausfertigungsdatum: 23.12.2016
-
+% Gesetz zur Stärkung der Teilhabe und Selbstbestimmung von Menschen mit Behinderungen  (Bundesteilhabegesetz - BTHG)
+% Ausfertigungsdatum: 23.12.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
+# Art 1 – Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen –
 
+# Art 2 bis 12 – Änderungsvorschriften
 
-## Art 1 – Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen –
+# Art 13 – Änderungsvorschrift
 
+# Art 14 bis 18 – Änderungsvorschriften
 
-## Art 2 bis 12 – Änderungsvorschriften
+# Art 19 – Änderungsvorschrift
 
+# Art 20 bis 24 – Änderungsvorschriften
 
-## Art 13 – Änderungsvorschrift
-
-
-## Art 14 bis 18 – Änderungsvorschriften
-
-
-## Art 19 – Änderungsvorschrift
-
-
-## Art 20 bis 24 – Änderungsvorschriften
-
-
-## Art 25 – Bekanntmachungserlaubnis und Umsetzungsunterstützung
+# Art 25 – Bekanntmachungserlaubnis und Umsetzungsunterstützung
 
 (1) Das Bundesministerium für Arbeit und Soziales kann den Wortlaut des Zwölften Buches Sozialgesetzbuch in der vom 1. Januar 2020 an geltenden Fassung im Bundesgesetzblatt bekannt machen.
 
@@ -68,11 +57,9 @@ untersucht und konkretisiert werden mit dem Ziel, den leistungsberechtigten Pers
 
 (7) Das Bundesministerium für Arbeit und Soziales berichtet dem Bundestag und dem Bundesrat in den Jahren 2018, 2019 und 2022 zum Stand und zu den Ergebnissen der Maßnahmen nach den Absätzen 2 bis 4.
 
+# Art 25a – Änderungsvorschrift
 
-## Art 25a – Änderungsvorschrift
-
-
-## Art 26 – Inkrafttreten, Außerkrafttreten
+# Art 26 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 4 am 1. Januar 2018 in Kraft.Gleichzeitig treten das Neunte Buch Sozialgesetzbuch – Rehabilitation und Teilhabe behinderter Menschen – (Artikel 1 des Gesetzes vom 19. Juni 2001, BGBl. I S. 1046, 1047), das zuletzt durch Artikel 2 dieses Gesetzes geändert worden ist, und die Budgetverordnung vom 27. Mai 2004 (BGBl. I S. 1055) außer Kraft.
 

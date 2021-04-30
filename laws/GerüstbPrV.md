@@ -1,15 +1,11 @@
-# [GerüstbPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Gerüstbau-Kolonnenführer
-
-Ausfertigungsdatum: 14.11.1978
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Gerüstbau-Kolonnenführer
+% Ausfertigungsdatum: 14.11.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und auf Grund des § 42 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und unter Berücksichtigung des § 28 des Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S. 2658) wird im Einvernehmen mit dem Bundesminister für Wirtschaft verordnet:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Gerüstbau-Kolonnenführer erworben worden sind, kann die zuständige Stelle Prüfungen gemäß den §§ 2 bis 8 durchführen.
 
@@ -31,8 +27,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -46,8 +41,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten abgeleist
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
@@ -57,8 +51,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten abgeleist
 
 (2) Die Prüfungsteile können an verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens ein Jahr nach dem ersten Prüfungstag des bereits abgelegten Prüfungsteils zu beginnen.
 
-
-## § 4 – Fachtheoretischer Teil
+# § 4 – Fachtheoretischer Teil
 
 (1) Im fachtheoretischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -130,8 +123,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten abgeleist
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Fachpraktischer Teil
+# § 5 – Fachpraktischer Teil
 
 (1) Im fachpraktischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -169,15 +161,13 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten abgeleist
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -187,8 +177,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -204,8 +193,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -219,8 +207,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -228,20 +215,17 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2277 – 2278)
 
@@ -250,8 +234,7 @@ Der Bundesminister für Bildung und Wissenschaft
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2279)
 
@@ -298,8 +281,7 @@ b) Benennung der beiden Prüfungsfächer und Bewertung mit Note,
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

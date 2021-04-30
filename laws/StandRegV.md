@@ -1,15 +1,11 @@
-# [StandRegV] Verordnung über Standardregistrierungen von Arzneimitteln
-
-Ausfertigungsdatum: 03.12.1982
-
+% Verordnung über Standardregistrierungen von Arzneimitteln
+% Ausfertigungsdatum: 03.12.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Abs. 3 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister für Ernährung, Landwirtschaft und Forsten mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Homöopathische Arzneimittel sind von der Pflicht zur Einzelregistrierung nach § 38 Abs. 1 Satz 1 freigestellt, wenn
 
@@ -19,23 +15,19 @@ Homöopathische Arzneimittel sind von der Pflicht zur Einzelregistrierung nach �
 
 3. für sie keine Zulassung erteilt ist (Standardregistrierung).
 
-
-## § 2
+# § 2
 
 Arzneimittel, die sich am 19. Juli 2007 im Verkehr befinden und den Vorschriften dieser Verordnung in der bis zum 19. Juli 2007 geltenden Fassung entsprechen, müssen ab dem 1. Januar 2009 vom pharmazeutischen Unternehmer entsprechend den §§ 10 und 11 des Arzneimittelgesetzes in der jeweils geltenden Fassung gekennzeichnet und mit einer Packungsbeilage versehen werden.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
-
-## Anlage – Standardregistrierungen  - Anlage zur Verordnung über Standardregistrierungen -
+# Anlage – Standardregistrierungen  - Anlage zur Verordnung über Standardregistrierungen -
 
 (Inhalt: nicht erfaßter Anlagenband,  
 Fundstelle: BGBl. I Nr. 47 v. 8.12.1982 (Anlagenband II)

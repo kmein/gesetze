@@ -1,25 +1,19 @@
-# [KlempnerAusbV] Verordnung über die Berufsausbildung zum Klempner und zur Klempnerin   (Klempner-Ausbildungsverordnung - KlempnerAusbV)
-
-Ausfertigungsdatum: 21.06.2013
-
+% Verordnung über die Berufsausbildung zum Klempner und zur Klempnerin   (Klempner-Ausbildungsverordnung - KlempnerAusbV)
+% Ausfertigungsdatum: 21.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Klempners und der Klempnerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 23 „Klempner“ der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -79,8 +73,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 8. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -88,13 +81,11 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Gesellenprüfung
+# § 5 – Gesellenprüfung
 
 Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-
-## § 6 – Teil 1 der Gesellenprüfung
+# § 6 – Teil 1 der Gesellenprüfung
 
 (1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -122,8 +113,7 @@ a) für die Arbeitsaufgabe sieben Stunden; innerhalb dieser Zeit soll das situat
 
 b) für die Bearbeitung der schriftlichen Aufgabenstellungen 60 Minuten.
 
-
-## § 7 – Teil 2 der Gesellenprüfung
+# § 7 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -191,8 +181,7 @@ f) Sicherheit, Wirtschaftlichkeit und Umweltschutz zu berücksichtigen.
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelungen
+# § 8 – Gewichtungs- und Bestehensregelungen
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -224,17 +213,14 @@ und Sozialkunde</td><td style="text-align: right;">mit 10 Prozent.</td></tr></tb
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Fertigungs-, Montage- und Instandhaltungstechnik sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Bestehende Berufsausbildungsverhältnisse
+# § 9 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Klempner-Ausbildungsverordnung vom 10. März 1989 (BGBl. I S. 420) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 3 und 4)Ausbildungsrahmenplan für die Berufsausbildung zum Klempner und zur Klempnerin
+# Anlage – (zu § 3 Absatz 3 und 4)Ausbildungsrahmenplan für die Berufsausbildung zum Klempner und zur Klempnerin
 
 (Fundstelle: BGBl. I 2013, 1617 - 1622)

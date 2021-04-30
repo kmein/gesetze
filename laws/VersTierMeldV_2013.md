@@ -1,10 +1,7 @@
-# [VersTierMeldV 2013] Verordnung über die Meldung zu Versuchszwecken verwendeter Wirbeltiere oder Kopffüßer oder zu bestimmten anderen Zwecken verwendeter Wirbeltiere  (Versuchstiermeldeverordnung)
-
-Ausfertigungsdatum: 12.12.2013
-
+% Verordnung über die Meldung zu Versuchszwecken verwendeter Wirbeltiere oder Kopffüßer oder zu bestimmten anderen Zwecken verwendeter Wirbeltiere  (Versuchstiermeldeverordnung)
+% Ausfertigungsdatum: 12.12.2013
  
-
-## § 1 – Meldeverfahren
+# § 1 – Meldeverfahren
 
 (1) Wer Tierversuche nach § 7 Absatz 2 des Tierschutzgesetzes an Wirbeltieren oder Kopffüßern durchführt, hat der zuständigen Behörde Angaben über
 
@@ -18,23 +15,19 @@ nach Maßgabe des Absatzes 2 zu melden. Satz 1 Nummer 1 und 2 gilt entsprechend 
 
 (2) Die Meldungen sind elektronisch für jedes Kalenderjahr bis zum 31. März des folgenden Jahres mit dem Inhalt nach dem Muster der Anlage zu erstatten.
 
-
-## § 2 – Übermittlungsverfahren
+# § 2 – Übermittlungsverfahren
 
 Die zuständige Behörde übermittelt alle in einem Land für ein Kalenderjahr gemachten Meldungen in anonymisierter Form jeweils bis zum 30. Juni des folgenden Jahres dem Bundesministerium für Ernährung und Landwirtschaft.
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe b des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 1 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 4 – Übergangsvorschrift
+# § 4 – Übergangsvorschrift
 
 Für die Meldungen für das Kalenderjahr 2013 ist die Versuchstiermeldeverordnung vom 4. November 1999 (BGBl. I S. 2156), die zuletzt durch Artikel 3 der Verordnung vom 1. August 2013 (BGBl. I S. 3125) geändert worden ist, mit der Maßgabe weiter anzuwenden, dass Verweise auf das Tierschutzgesetz als Verweise auf das Tierschutzgesetz in der bis zum 13. Juli 2013 geltenden Fassung gelten.
 
-
-## Anlage – (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltieren oder Kopffüßern oder nach § 4 Absatz 3 des Tierschutzgesetzes verwendeten Wirbeltieren für das Jahr: ______
+# Anlage – (zu § 1 Absatz 2) Meldung von in Tierversuchen verwendeten Wirbeltieren oder Kopffüßern oder nach § 4 Absatz 3 des Tierschutzgesetzes verwendeten Wirbeltieren für das Jahr: ______
 
 (Fundstelle: BGBl. I 2013, 4147 - 4152)
 
@@ -160,8 +153,7 @@ Es ist anzugeben, ob die Tiere erneut in einem Versuchsvorhaben verwendet wurden
   
 Spalte I:
 
-Der Geburtsort der verwendeten Tiere, außer von Primaten, ist anzugeben. Der Geburtsort von erneut verwendeten Tieren ist nicht anzugeben.  
-  
+Der Geburtsort der verwendeten Tiere, außer von Primaten, ist anzugeben. Der Geburtsort von erneut verwendeten Tieren ist nicht anzugeben.   
 
 |                                                                                 |
 |:--------------------------------------------------------------------------------|
@@ -174,8 +166,7 @@ Der Geburtsort der verwendeten Tiere, außer von Primaten, ist anzugeben. Der Ge
   
 Spalte J:
 
-Die Spalte ist nur bei der Verwendung von Primaten auszufüllen.  
-  
+Die Spalte ist nur bei der Verwendung von Primaten auszufüllen.   
 
 |                                                                      |
 |:---------------------------------------------------------------------|
@@ -190,8 +181,7 @@ Die Spalte ist nur bei der Verwendung von Primaten auszufüllen.
   
 Spalte K:
 
-Die Generation der verwendeten Primaten ist anzugeben. Solange sich die Kolonie nicht selbst erhält, sind in diese Kolonie hineingeborene Tiere nach ihrer von mütterlicher Seite hergeleiteten Generation unter F0, F1, F2 oder höher zu erfassen.  
-  
+Die Generation der verwendeten Primaten ist anzugeben. Solange sich die Kolonie nicht selbst erhält, sind in diese Kolonie hineingeborene Tiere nach ihrer von mütterlicher Seite hergeleiteten Generation unter F0, F1, F2 oder höher zu erfassen.   
 
 |                                  |
 |:---------------------------------|
@@ -204,8 +194,7 @@ Die Generation der verwendeten Primaten ist anzugeben. Solange sich die Kolonie 
   
 Spalte L:
 
-Der genetische Status der verwendeten Tiere (GS1, GS2, GS3) ist nach Maßgabe der Erläuterungen in Anhang II Buchstabe B Nummer 6 des Durchführungsbeschlusses 2012/707/EU anzugeben.  
-  
+Der genetische Status der verwendeten Tiere (GS1, GS2, GS3) ist nach Maßgabe der Erläuterungen in Anhang II Buchstabe B Nummer 6 des Durchführungsbeschlusses 2012/707/EU anzugeben.   
 
 |                                                        |
 |:-------------------------------------------------------|
@@ -217,8 +206,7 @@ Der genetische Status der verwendeten Tiere (GS1, GS2, GS3) ist nach Maßgabe de
   
 Spalte M:
 
-Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der „Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.  
-  
+Es ist anzugeben, ob die Verwendung der Schaffung neuer genetisch veränderter Linien/Stämme diente (Ja/Nein). Zur Schaffung neuer genetisch veränderter Linien/Stämme verwendete Tiere sind solche, die zur Schaffung einer neuen genetisch veränderten Linie beziehungsweise eines Stamms verwendet und von anderen Tieren, die der „Grundlagenforschung“ oder sonstiger Forschung vorbehalten sind, zu unterscheiden sind.   
 
 Spalte N:  
   
@@ -302,13 +290,11 @@ Der Zweck der Verwendung ist anzugeben:
   
 Spalte O:
 
-Falls die Option „Andere …“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.  
-  
+Falls die Option „Andere …“ angegeben wurde (PB13, PT32, PR53, PR64, PR82, PR103, PR106), ist der spezifische Verwendungszweck zu benennen.   
 
 Spalte P:
 
-Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ eine der Optionen PR51 bis PR106 (Regulatorischer Zweck, …) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.  
-  
+Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ eine der Optionen PR51 bis PR106 (Regulatorischer Zweck, …) angegeben wurde. Die Rechtsvorschrift muss entsprechend dem vorgesehenen Hauptverwendungszweck angegeben werden.   
 
 |                                                                                                                              |
 |:-----------------------------------------------------------------------------------------------------------------------------|
@@ -327,13 +313,11 @@ Diese Spalte ist nur auszufüllen, wenn in Spalte N bei „Verwendungszweck“ e
   
 Spalte Q:
 
-Falls unter Spalte P „Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.  
-  
+Falls unter Spalte P „Andere“ angegeben wurde, ist die spezifische Rechtsvorschrift, die der Verwendung zugrunde liegt, zu benennen.   
 
 Spalte R:
 
-Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben wurde oder eine andere in der Spalte Q. Ausschlaggebend ist dabei nicht, wer die Prüfung in Auftrag gibt, sondern welchen Vorschriften nachgekommen wird, wobei der weitreichenderen Vorschrift Vorrang eingeräumt wird. Dienen die nationalen Vorschriften der Umsetzung von EU-Recht (z. B. Umsetzung von Richtlinien der EU, Durchführung von Verordnungen der EU u. Ä.), muss „Vorschriften, die EU-Anforderungen erfüllen“ gewählt werden.  
-  
+Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben wurde oder eine andere in der Spalte Q. Ausschlaggebend ist dabei nicht, wer die Prüfung in Auftrag gibt, sondern welchen Vorschriften nachgekommen wird, wobei der weitreichenderen Vorschrift Vorrang eingeräumt wird. Dienen die nationalen Vorschriften der Umsetzung von EU-Recht (z. B. Umsetzung von Richtlinien der EU, Durchführung von Verordnungen der EU u. Ä.), muss „Vorschriften, die EU-Anforderungen erfüllen“ gewählt werden.   
 
 |                                                              |
 |:-------------------------------------------------------------|
@@ -345,8 +329,7 @@ Diese Spalte ist nur auszufüllen, wenn eine Vorschrift nach Spalte P angegeben 
   
 Spalte S:
 
-Der tatsächliche Schweregrad der Schmerzen, Leiden und Schäden, dem die Tiere durch die Verwendung ausgesetzt waren, ist anzugeben, nicht der im Genehmigungsantrag oder in der Anzeige angegebene Schweregrad. Bei einer Verwendung nach § 4 Absatz 3 des Tierschutzgesetzes ist diese Spalte nicht auszufüllen. Im Falle des § 25 Absatz 2 der Tierschutz-Versuchstierverordnung, der besonders belastende Tierversuche mit erheblichen Schmerzen oder Leiden, die länger anhalten und nicht gelindert werden können, zum Gegenstand hat, sollen in Spalte U Angaben zu einer Ausnahmegenehmigung, zu den Einzelheiten der Verwendung und den Gründen für das Erreichen dieser besonderen Belastungen gemacht werden.  
-  
+Der tatsächliche Schweregrad der Schmerzen, Leiden und Schäden, dem die Tiere durch die Verwendung ausgesetzt waren, ist anzugeben, nicht der im Genehmigungsantrag oder in der Anzeige angegebene Schweregrad. Bei einer Verwendung nach § 4 Absatz 3 des Tierschutzgesetzes ist diese Spalte nicht auszufüllen. Im Falle des § 25 Absatz 2 der Tierschutz-Versuchstierverordnung, der besonders belastende Tierversuche mit erheblichen Schmerzen oder Leiden, die länger anhalten und nicht gelindert werden können, zum Gegenstand hat, sollen in Spalte U Angaben zu einer Ausnahmegenehmigung, zu den Einzelheiten der Verwendung und den Gründen für das Erreichen dieser besonderen Belastungen gemacht werden.   
 
 |                                                  |
 |:-------------------------------------------------|
@@ -359,8 +342,7 @@ Der tatsächliche Schweregrad der Schmerzen, Leiden und Schäden, dem die Tiere 
   
 Spalte T:
 
-In diese Spalte ist die von der zuständigen Behörde im Rahmen des Genehmigungs- oder Anzeigeverfahrens vergebene Angabe zur eindeutigen Identifizierung des Versuchsvorhabens, z. B. Kennziffer oder Geschäftszeichen, einzutragen.  
-  
+In diese Spalte ist die von der zuständigen Behörde im Rahmen des Genehmigungs- oder Anzeigeverfahrens vergebene Angabe zur eindeutigen Identifizierung des Versuchsvorhabens, z. B. Kennziffer oder Geschäftszeichen, einzutragen.   
 
 Spalte U:
 

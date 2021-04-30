@@ -1,10 +1,7 @@
-# [AWV] Außenwirtschaftsverordnung  (AWV)
-
-Ausfertigungsdatum: 02.08.2013
-
+% Außenwirtschaftsverordnung  (AWV)
+% Ausfertigungsdatum: 02.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen auf Grund
 
@@ -14,18 +11,15 @@ des § 12 Absatz 1 Satz 1 in Verbindung mit § 3 Absatz 3, § 4 Absatz 1 und 3, 
 –  
 des § 12 Absatz 1 Satz 2 in Verbindung mit § 4 Absatz 2 und 3 des Außenwirtschaftsgesetzes vom 6. Juni 2013 (BGBl. I S. 1482) das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium der Finanzen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Beantragung von Genehmigungen
+# § 1 – Beantragung von Genehmigungen
 
 (1) Anträge auf Erteilung einer Genehmigung können, wenn im Folgenden nichts anderes bestimmt ist, von jedem gestellt werden, der das genehmigungsbedürftige Rechtsgeschäft oder die genehmigungsbedürftige Handlung vornimmt. Antragsberechtigt ist auch, wer einen Anspruch aus dem Rechtsgeschäft herleitet oder einen Anspruch auf Vornahme der Handlung geltend macht.
 
 (2) Genehmigungen in der Form der Allgemeinverfügung (§ 35 Satz 2 des Verwaltungsverfahrensgesetzes) werden von Amts wegen erteilt.
 
-
-## § 2 – Zertifikate nach Artikel 9 der Richtlinie 2009/43/EG
+# § 2 – Zertifikate nach Artikel 9 der Richtlinie 2009/43/EG
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) erteilt einem Teilnehmer am Außenwirtschaftsverkehr auf Antrag ein Zertifikat, das ihm Zuverlässigkeit bescheinigt, insbesondere in Bezug auf seine Fähigkeit, die Ausfuhrbestimmungen für in Teil I Abschnitt A der Ausfuhrliste (Anlage AL) genannte Güter einzuhalten, die er im Rahmen einer Genehmigung aus einem anderen Mitgliedstaat der Europäischen Union bezieht.
 
@@ -67,20 +61,17 @@ b) die betreffenden Güter außer zum Zweck der Wartung oder Reparatur nicht als
 
 (3) Die Gültigkeitsdauer des Zertifikats darf höchstens fünf Jahre betragen.
 
-
-## § 3 – Formerfordernisse
+# § 3 – Formerfordernisse
 
 (1) Soweit nichts anderes bestimmt ist, bedürfen Verwaltungsakte im Außenwirtschaftsverkehr der Schriftform. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, vorschreiben, dass der Erlass eines Verwaltungsakts auf einem besonderen Vordruck beantragt werden muss. § 3a des Verwaltungsverfahrensgesetzes ist nicht anzuwenden.
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, festlegen, von welchem Zeitpunkt an und unter welchen Voraussetzungen Anträge auf Erlass eines Verwaltungsakts im Außenwirtschaftsverkehr elektronisch gestellt und Verwaltungsakte elektronisch erlassen werden können.
 
-
-## § 4 – Sammelgenehmigungen
+# § 4 – Sammelgenehmigungen
 
 Dem Antragsteller kann eine Genehmigung für eine unbestimmte Anzahl gleichartiger Rechtsgeschäfte oder Handlungen mit einem oder mehreren genau bestimmten Endverwendern oder Drittländern (Sammelgenehmigung) erteilt werden, wenn dies wegen der beabsichtigten Wiederholung der Rechtsgeschäfte oder Handlungen zweckmäßig erscheint.
 
-
-## § 5 – Rückgabe von Verwaltungsakten
+# § 5 – Rückgabe von Verwaltungsakten
 
 (1) Der Adressat eines Verwaltungsakts in Papierform muss der für den Erlass zuständigen Stelle die diesen Verwaltungsakt verkörpernde Urkunde unverzüglich zurückgeben, wenn
 
@@ -96,8 +87,7 @@ Im Übrigen bleibt § 52 des Verwaltungsverfahrensgesetzes unberührt.
 
 (3) Die Rückgabepflicht auf Grund von Rechtsakten der Europäischen Union bleibt unberührt.
 
-
-## § 6 – Aufbewahrung von Verwaltungsakten
+# § 6 – Aufbewahrung von Verwaltungsakten
 
 (1) Der Adressat eines Verwaltungsakts muss die diesen Verwaltungsakt verkörpernde Urkunde nach Ablauf der Gültigkeit des Verwaltungsaktes für die Dauer von fünf Jahren aufbewahren, es sei denn, dass die Urkunde vorher zurückgegeben werden muss.
 
@@ -107,8 +97,7 @@ Im Übrigen bleibt § 52 des Verwaltungsverfahrensgesetzes unberührt.
 
 2. die weiteren Voraussetzungen für die Aufbewahrung regeln.
 
-
-## § 7 – Boykotterklärung
+# § 7 – Boykotterklärung
 
 Die Abgabe einer Erklärung im Außenwirtschaftsverkehr, durch die sich ein Inländer an einem Boykott gegen einen anderen Staat beteiligt (Boykott-Erklärung), ist verboten. Satz 1 gilt nicht für eine Erklärung, die abgegeben wird, um den Anforderungen einer wirtschaftlichen Sanktionsmaßnahme eines Staates gegen einen anderen Staat zu genügen, gegen den auch
 
@@ -120,8 +109,7 @@ Die Abgabe einer Erklärung im Außenwirtschaftsverkehr, durch die sich ein Inl�
 
 wirtschaftliche Sanktionsmaßnahmen beschlossen haben.
 
-
-## § 8 – Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils I der Ausfuhrliste
+# § 8 – Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils I der Ausfuhrliste
 
 (1) Die Ausfuhr der folgenden Güter bedarf der Genehmigung:
 
@@ -141,8 +129,7 @@ Satz 1 gilt nicht, wenn dem Ausführer bekannt ist, dass das endgültige Bestimm
 
 (3) Eine Genehmigung nach Absatz 1 Nummer 2 ist nicht erforderlich, wenn nach dem der Ausfuhr zugrunde liegenden Vertrag derartige Güter im Wert von nicht mehr als 5 000 Euro geliefert werden sollen. Die Ausfuhr von Software und Technologie ist abweichend von Satz 1 stets genehmigungspflichtig.
 
-
-## § 9 – Genehmigungserfordernisse für die Ausfuhr von Gütern mit einem bestimmten Verwendungszweck
+# § 9 – Genehmigungserfordernisse für die Ausfuhr von Gütern mit einem bestimmten Verwendungszweck
 
 (1) Die Ausfuhr von Gütern, die nicht in der Ausfuhrliste oder in Anhang I der Verordnung (EG) Nr. 428/2009 des Rates vom 5. Mai 2009 über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck (ABl. L 134 vom 29.5.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 388/2012 (ABl. L 129 vom 16.5.2012, S. 12) geändert worden ist, genannt sind, bedarf der Genehmigung, wenn der Ausführer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass
 
@@ -160,13 +147,11 @@ Soweit in Satz 1 und im Folgenden auf einen Anhang der VO (EG) Nr. 428/2009 Bezu
 
 2. in Fällen, in denen nach dem der Ausfuhr zugrunde liegenden Vertrag derartige Güter im Wert von nicht mehr als 5 000 Euro geliefert werden sollen; die Ausfuhr von Software und Technologie ist unabhängig von ihrem Wert stets genehmigungspflichtig.
 
-
-## § 10 – Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils II der Ausfuhrliste
+# § 10 – Genehmigungserfordernisse für die Ausfuhr von Gütern des Teils II der Ausfuhrliste
 
 Die Ausfuhr der in Teil II Spalte 3 der Ausfuhrliste mit „G“ gekennzeichneten Waren bedarf der Genehmigung. Dies gilt nicht, wenn die Waren den im Amtsblatt der Europäischen Union veröffentlichten Vermarktungsnormen oder Mindestanforderungen entsprechen, die in der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden Fassung festgelegt worden sind. Satz 2 ist nicht anzuwenden, soweit in der Verordnung (EU) Nr. 1308/2013 Ausnahmen hinsichtlich der Beachtung der Vermarktungsnormen oder Mindestanforderungen vorgesehen sind.
 
-
-## § 11 – Genehmigungserfordernisse für die Verbringung von Gütern
+# § 11 – Genehmigungserfordernisse für die Verbringung von Gütern
 
 (1) Die Verbringung der in Teil I Abschnitt A der Ausfuhrliste genannten Güter bedarf der Genehmigung. Dies gilt nicht für
 
@@ -192,8 +177,7 @@ Satz 2 gilt nicht, wenn dem Verbringer bekannt ist, dass das endgültige Bestimm
 
 3. Güter im Wert von nicht mehr als 5 000 Euro geliefert werden sollen; die Verbringung von Software und Technologie ist unabhängig von ihrem Wert stets genehmigungspflichtig.
 
-
-## § 12 – Gestellung und Anmeldung
+# § 12 – Gestellung und Anmeldung
 
 (1) Jede Ausfuhrsendung ist vor der Ausfuhr vom Anmelder unter Vorlage einer Ausfuhranmeldung oder einer Wiederausfuhranmeldung bei der Ausfuhrzollstelle zu gestellen.
 
@@ -215,8 +199,7 @@ Die Anmeldung muss den Anforderungen der folgenden Vorschriften entsprechen:
 
 (5) Für in Rohrleitungen beförderte Waren ist zuständige Ausgangszollstelle jede Zollstelle, in deren Bezirk sich ein Zugang zu der Rohrleitung befindet, in der die Ware befördert wird.
 
-
-## § 13 – Ergänzende Vorschriften für die Gestellung und Anmeldung bei Seeschiffen
+# § 13 – Ergänzende Vorschriften für die Gestellung und Anmeldung bei Seeschiffen
 
 (1) Der Verfrachter, der Frachtführer oder, wenn kein Frachtgeschäft vorliegt, der Besitzer der Ladung hat dem zuständigen Hauptzollamt für jedes aus einem Seehafen seewärts ausgehende Schiff ein Ladungsverzeichnis gemäß Absatz 2 und 3 Satz 1 einzureichen.
 
@@ -236,8 +219,7 @@ Die Anmeldung muss den Anforderungen der folgenden Vorschriften entsprechen:
 
 (5) Bei unbeladenen Schiffen muss der Schiffsführer vor Abgang des Schiffes schriftlich oder elektronisch erklären, dass das Schiff unbeladen ist.
 
-
-## § 14 – Verfahren bei der zollamtlichen Behandlung
+# § 14 – Verfahren bei der zollamtlichen Behandlung
 
 (1) Zur Prüfung der Zulässigkeit der Ausfuhr können die Ausfuhrzollstelle und die Ausgangszollstelle von dem Ausführer oder dem Anmelder weitere Angaben und Beweismittel verlangen.
 
@@ -247,8 +229,7 @@ Die Anmeldung muss den Anforderungen der folgenden Vorschriften entsprechen:
 
 (4) Der Anmelder darf Waren nicht vor Abschluss der Prüfung durch die Ausgangszollstelle vom Ort der Gestellung entfernen oder entfernen lassen oder dort verladen oder verladen lassen.
 
-
-## § 15 – Vereinfachte Zollanmeldung
+# § 15 – Vereinfachte Zollanmeldung
 
 (1) Wenn ein Anmelder von der vereinfachten Zollanmeldung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 Gebrauch machen will, muss er bei der Ausfuhranmeldung oder bei der Wiederausfuhranmeldung mindestens die Angaben machen, die nach Anhang 9 Anlage A der Delegierten Verordnung (EU) 2016/341 für dieses Verfahren erforderlich sind. Bei Waren, für die Ausfuhrabgaben zu entrichten sind oder für die sonstige im Rahmen der gemeinsamen Agrarpolitik vorgesehene Maßnahmen gelten, hat der Anmelder darüber hinaus alle Angaben zu machen, die die Erhebung der Abgaben oder die Durchführung der Maßnahmen ermöglichen.
 
@@ -262,8 +243,7 @@ Die Anmeldung muss den Anforderungen der folgenden Vorschriften entsprechen:
 
 (4) Zuständig für die Bewilligung der regelmäßigen Inanspruchnahme vereinfachter Zollanmeldungen nach Artikel 166 Absatz 2 der Verordnung (EU) Nr. 952/2013 in Verbindung mit Artikel 145 der Delegierten Verordnung (EU) 2015/2446 ist das Hauptzollamt.
 
-
-## § 16 – Anschreibung in der Buchführung des Anmelders
+# § 16 – Anschreibung in der Buchführung des Anmelders
 
 (1) In dem Antrag auf Bewilligung der Anschreibung in der Buchführung des Anmelders nach Artikel 182 der Verordnung (EU) Nr. 952/2013 sind die auszuführenden Waren zu bezeichnen und die Nummer des Warenverzeichnisses für die Außenhandelsstatistik anzugeben, das vom Statistischen Bundesamt in 65189 Wiesbaden, Gustav-Stresemann-Ring 11, herausgegeben wird und auch über www.destatis.de bezogen werden kann.
 
@@ -271,11 +251,9 @@ Die Anmeldung muss den Anforderungen der folgenden Vorschriften entsprechen:
 
 (3) Zuständig für die Bewilligung der Anschreibung in der Buchführung des Anmelders ist das Hauptzollamt.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Erhebung von Ausfuhrdaten bei der Ausfuhr von Mineralöl und Gas
+# § 18 – Erhebung von Ausfuhrdaten bei der Ausfuhr von Mineralöl und Gas
 
 (1) Bei der Ausfuhr von Waren der Warennummern 2707 10 00 bis 2707 50 00, 2709 00 10 bis 2711 14 00, 2711 21 00, 2711 29 00, 2712 10 10 bis 2712 90 11, 2712 90 31 bis 2713 20 00, 2713 90 90 und 3403 19 80 des Warenverzeichnisses für die Außenhandelsstatistik hat der Ausführer zum Zweck der Marktbeobachtung gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) folgende Angaben zu machen:
 
@@ -303,8 +281,7 @@ Der Ausführer übermittelt diese Angaben der zuständigen Zollstelle elektronis
 
 (3) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) löscht die Daten spätestens nach Ablauf von zwei Jahren. Die Frist beginnt mit dem Ende des Jahres, in dem die Daten von der zuständigen Zollstelle übermittelt worden sind.
 
-
-## § 19 – Ausfuhr von Obst und Gemüse
+# § 19 – Ausfuhr von Obst und Gemüse
 
 (1) Bei der genehmigungsfreien Ausfuhr von Obst und Gemüse, das in Teil II Kapitel 7, 8, 9 und 12 der Ausfuhrliste mit „G“ gekennzeichnet ist, ist der Ausfuhrzollstelle zusammen mit der Ausfuhranmeldung eines der nachstehend genannten Dokumente vorzulegen:
 
@@ -324,13 +301,11 @@ Erfolgt der gesamte Ausfuhrvorgang im Inland, kann das nach Nummern 1 bis 3 maß
 
 (5) Bei der genehmigungsfreien Ausfuhr von verarbeitetem Obst und Gemüse, für das Vermarktungsnormen oder Mindestanforderungen auf Grund der Verordnung (EU) Nr. 1308/2013 erlassen wurden, ist der Ausfuhrzollstelle zusammen mit der Ausfuhranmeldung entweder eine Konformitätsbescheinigung oder eine Verzichtserklärung der Bundesanstalt für Landwirtschaft und Ernährung vorzulegen. Absatz 2 gilt entsprechend.
 
-
-## § 20 – Wiederausfuhren
+# § 20 – Wiederausfuhren
 
 Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer Wiederausfuhranmeldung bedürfen, gelten die Vorschriften dieses Unterabschnitts entsprechend.
 
-
-## § 20a – Summarische Ausgangsanmeldung
+# § 20a – Summarische Ausgangsanmeldung
 
 (1) Sofern keine Ausfuhranmeldung oder Wiederausfuhranmeldung abgegeben wurde, hat der Beförderer eine summarische Ausgangsanmeldung nach Artikel 271 der Verordnung (EU) Nr. 952/2013 innerhalb der Fristen des Artikels 244 der Delegierten Verordnung (EU) 2015/2446 bei der Ausgangszollstelle abzugeben. Die Ausnahmen von der Verpflichtung zur Abgabe einer Vorabanmeldung nach Artikel 245 der Delegierten Verordnung (EU) 2015/2446 sind zu berücksichtigen.
 
@@ -338,15 +313,13 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (3) § 14 Absatz 4 gilt entsprechend.
 
-
-## § 20b – Wiederausfuhrmitteilung
+# § 20b – Wiederausfuhrmitteilung
 
 (1) Sollen Waren aus dem Zollgebiet der Union ausgeführt werden und ist weder eine Zollanmeldung noch eine Wiederausfuhranmeldung noch eine summarische Ausgangsanmeldung erforderlich, so ist von der Person, die gemäß Artikel 267 Absatz 2 der Verordnung (EU) Nr. 952/2013 für die Gestellung der Waren beim Ausgang zuständig ist, eine Wiederausfuhrmitteilung im Sinne von Artikel 5 Nummer 14 und Artikel 274 der Verordnung (EU) Nr. 952/2013 entsprechend den Anforderungen des Anhangs 9 Anlage A und Anlage C1 der Delegierten Verordnung (EU) 2016/341 bei der Ausgangszollstelle abzugeben.
 
 (2) § 14 Absatz 4 gilt entsprechend.
 
-
-## § 21 – Ausfuhrgenehmigung
+# § 21 – Ausfuhrgenehmigung
 
 (1) Eine Ausfuhrgenehmigung kann nur der Ausführer beantragen.
 
@@ -360,8 +333,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (6) Das Nähere bestimmt das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist.
 
-
-## § 22 – Informations- und Buchführungspflichten
+# § 22 – Informations- und Buchführungspflichten
 
 (1) Ausführer der in Teil I Abschnitt A der Ausfuhrliste genannten Güter sind verpflichtet, den Empfänger spätestens bei der Ausfuhr über die Beschränkungen zu informieren, die hinsichtlich einer Ausfuhr aus dem Bestimmungsland in der erteilten Ausfuhrgenehmigung festgelegt sind.
 
@@ -381,8 +353,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (3) Die Register oder Aufzeichnungen nach Absatz 2 Satz 1 sind nach Ende des Kalenderjahres, in dem die Ausfuhr erfolgt ist, für die Dauer von fünf Jahren aufzubewahren.
 
-
-## § 23 – Ausfuhrabfertigung
+# § 23 – Ausfuhrabfertigung
 
 (1) Erfolgt die Ausfuhrabfertigung aufgrund einer elektronischen Ausfuhranmeldung nach § 12 Absatz 3 Satz 1, ist die Vorlage der Ausfuhrgenehmigung in Papierform bei der Ausfuhrabfertigung grundsätzlich nicht erforderlich. Der Ausführer hat jedoch sicherzustellen, dass die Ausfuhrgenehmigung im Zeitpunkt der Beantragung der Ausfuhrabfertigung bei ihm oder seinem Vertreter vorhanden ist. Im Fall des § 12 Absatz 3 Satz 4 ist die Ausfuhrgenehmigung bei der Ausfuhrabfertigung vorzulegen.
 
@@ -420,8 +391,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (7) Für die Abgabe einer Wiederausfuhranmeldung nach § 20 und für die Abgabe einer rückwirkenden Ausfuhr- oder Wiederausfuhranmeldung nach Artikel 337 Absatz 1 Satz 3 der Durchführungsverordnung (EU) 2015/2447 gelten die Absätze 2 bis 6 entsprechend.
 
-
-## § 24 – Datenaustausch
+# § 24 – Datenaustausch
 
 (1) Zum Zweck der Ausfuhrabfertigung ausfuhrgenehmigungspflichtiger Waren ruft die zuständige Zollstelle die Daten der vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) erteilten Ausfuhrgenehmigungen über das Informationstechnikzentrum Bund vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ab. Hat das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) eine Bescheinigung erteilt, dass die Ausfuhr keiner Genehmigung bedarf, so tritt diese Bescheinigung an die Stelle der Ausfuhrgenehmigung nach Satz 1.
 
@@ -439,8 +409,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (3) Die zuständige Zollstelle und das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) löschen die nach den Absätzen 1 und 2 übermittelten Daten spätestens nach Ablauf von fünf Jahren, soweit sie nicht nach anderen Vorschriften aufzubewahren sind. Die Frist beginnt jeweils mit dem Ende des Jahres, in dem die Daten an die zuständige Zollstelle oder das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übermittelt worden sind.
 
-
-## § 25 – Ausfuhrabfertigung in einem anderen Mitgliedstaat
+# § 25 – Ausfuhrabfertigung in einem anderen Mitgliedstaat
 
 (1) Wenn der Ausführer eine vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) erteilte Ausfuhrgenehmigung zur Ausfuhrabfertigung in einem anderen Mitgliedstaat der Europäischen Union verwenden will, so hat er die Ausfuhrgenehmigung zusammen mit dem Ausfuhrbegleitdokument oder einem vergleichbaren zollrechtlichen Ausfuhrdokument der für ihn oder seinen Firmensitz zuständigen Zollstelle innerhalb eines Monats nach Ausgang der Waren aus dem Zollgebiet der Europäischen Union vorzulegen.
 
@@ -452,8 +421,7 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (3) § 24 Absatz 3 gilt entsprechend.
 
-
-## § 26 – Aufzeichnungspflichten
+# § 26 – Aufzeichnungspflichten
 
 (1) Der Ausführer ist verpflichtet, für jede von einer Zollstelle vorgenommene Abschreibung gemäß § 23 oder § 25 unter Bezugnahme auf die Ausfuhranmeldung ausführliche Register oder Aufzeichnungen zu führen. Diese müssen folgende Angaben enthalten:
 
@@ -471,13 +439,11 @@ Soweit Wiederausfuhren nach Artikel 270 der Verordnung (EU) Nr. 952/2013 einer W
 
 (2) Die Register oder Aufzeichnungen sind für die Dauer von fünf Jahren aufzubewahren.
 
-
-## § 27 – Anzuwendende Vorschriften
+# § 27 – Anzuwendende Vorschriften
 
 Für die Verbringung genehmigungspflichtiger Güter gilt § 21 entsprechend. Für die Verbringung der in Teil I Abschnitt A der Ausfuhrliste genannten Güter gilt darüber hinaus § 22 entsprechend.
 
-
-## § 28 – Zertifizierungsverfahren
+# § 28 – Zertifizierungsverfahren
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bestimmt durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, die dem Antrag auf Erteilung eines Zertifikats nach § 2 beizufügenden Unterlagen.
 
@@ -485,13 +451,11 @@ Für die Verbringung genehmigungspflichtiger Güter gilt § 21 entsprechend. Fü
 
 (3) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) veröffentlicht und aktualisiert regelmäßig eine Liste der zertifizierten Empfänger und teilt deren Inhalt dem Europäischen Parlament, den anderen Mitgliedstaaten der Europäischen Union und der Europäischen Kommission mit, damit diese auf ihrer Webseite ein Zentralregister der von den Mitgliedstaaten zertifizierten Empfänger veröffentlichen kann.
 
-
-## § 29 – Verwendungsbeschränkungen
+# § 29 – Verwendungsbeschränkungen
 
 Ist die Einfuhr einer Ware unter der Voraussetzung zugelassen oder unter der Auflage genehmigt, dass die Ware nur in bestimmter Weise verwendet werden darf, so hat der Veräußerer diese Verwendungsbeschränkung bei der Veräußerung jedem Erwerber der Ware nachweisbar mitzuteilen. Der Einführer und der Erwerber dürfen die Ware nur in der vorgeschriebenen Weise verwenden.
 
-
-## § 30 – Bestätigungen über Internationale Einfuhrbescheinigungen und Wareneingangsbescheinigungen
+# § 30 – Bestätigungen über Internationale Einfuhrbescheinigungen und Wareneingangsbescheinigungen
 
 (1) Wer Waren ins Inland einführt oder verbringt, kann beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) eine Internationale Einfuhrbescheinigung (IEB) oder eine Wareneingangsbescheinigung (WEB) beantragen. § 21 Absatz 2 gilt entsprechend. Dem Antrag soll entsprochen werden, wenn die Bescheinigung zur Vorlage bei einer ausländischen Exportkontrollbehörde benötigt wird.
 
@@ -501,8 +465,7 @@ Ist die Einfuhr einer Ware unter der Voraussetzung zugelassen oder unter der Auf
 
 (4) § 8 Absatz 1 und Absatz 2 Satz 1 des Außenwirtschaftsgesetzes ist entsprechend anwendbar.
 
-
-## § 31 – Antrag auf Einfuhrabfertigung
+# § 31 – Antrag auf Einfuhrabfertigung
 
 (1) Der Einführer hat die Einfuhrabfertigung bei einer Zollstelle zu beantragen. Anstelle des Einführers kann ein Unionsansässiger im eigenen Namen die Einfuhrabfertigung für Waren beantragen, die auf Grund eines Einfuhrvertrags geliefert werden, wenn er
 
@@ -528,8 +491,7 @@ Auf Antrag des Einführers kann eine zeitlich vorgezogene Einfuhrabfertigung erf
 
 (5) Der Einführer hat im Antrag die handelsübliche oder sprachgebräuchliche Bezeichnung der Waren sowie die Nummer des Warenverzeichnisses für die Außenhandelsstatistik anzugeben.
 
-
-## § 32 – Einfuhrdokumente
+# § 32 – Einfuhrdokumente
 
 (1) Wird die Einfuhrabfertigung elektronisch beantragt, hat der Einführer sicherzustellen, dass die nachstehend genannten Dokumente zum Zeitpunkt der Beantragung der Einfuhrabfertigung bei ihm oder seinem Vertreter vorhanden sind:
 
@@ -551,8 +513,7 @@ Die in Satz 1 Nummer 1 und 2 Buchstabe a und d genannten Dokumente müssen bei d
 
 (3) Wird die Einfuhrabfertigung in Papierform beantragt, sind die in Absatz 1 genannten Dokumente und eine Einfuhrkontrollmeldung nach Maßgabe des § 35 Absatz 1 vorzulegen.
 
-
-## § 33 – Verfahren bei der Einfuhrabfertigung
+# § 33 – Verfahren bei der Einfuhrabfertigung
 
 (1) Die Zollstelle prüft die Zulässigkeit der Einfuhr. Sie lehnt die Einfuhrabfertigung ab, wenn
 
@@ -566,8 +527,7 @@ Bestehen ernsthafte Zweifel an der Richtigkeit eines Ursprungszeugnisses, könne
 
 (2) Bei der Einfuhr von Wasser, elektrischem Strom, Stadtgas, Ferngas oder ähnlichen Gasen in Leitungen entfällt die Einfuhrabfertigung.
 
-
-## § 34 – Erhebung von Einfuhrdaten
+# § 34 – Erhebung von Einfuhrdaten
 
 (1) Bei der Einfuhr von Waren der Warennummern 0105 11 11 bis 0105 99 50, 0207 11 10 bis 0207 13 70, 0207 13 99 bis 0207 14 70, 0207 14 99 bis 0207 26 80, 0207 26 99 bis 0207 27 80, 0207 27 99 bis 0207 42 80, 0207 44 10 bis 0207 44 81, 0207 44 99 bis 0207 45 81, 0207 45 99 bis 0207 52 90, 0207 54 10 bis 0207 54 81, 0207 54 99 bis 0207 55 81, 0207 55 99 bis 0207 60 81, 0207 60 99, 0209 90 00, 0401 10 10 bis 0403 10 39, 0403 90 11 bis 0403 90 69, 0404 10 02 bis 0407 90 90, 0408 11 80, 0408 19 81, 0408 19 89, 0408 91 80, 0408 99 80, 0701 10 00, 0701 90 50, 0701 90 90, 1105 10 00, 1105 20 00, 1602 32 11, 1602 39 21, 1702 11 00, 1702 19 00, 2106 90 51, 2309 90 20, 3502 11 90 und 3502 19 90 bis 3502 90 70 des Warenverzeichnisses für die Außenhandelsstatistik hat der Einführer zum Zweck der Marktbeobachtung gegenüber der Bundesanstalt für Landwirtschaft und Ernährung die folgenden Angaben zu machen:
 
@@ -643,8 +603,7 @@ Bestehen ernsthafte Zweifel an der Richtigkeit eines Ursprungszeugnisses, könne
 
 (4) Die Bundesanstalt für Landwirtschaft und Ernährung und das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) löschen die Daten spätestens nach Ablauf von zwei Jahren. Die Frist beginnt mit dem Ende des Jahres, in dem die Daten von der zuständigen Zollstelle übermittelt worden sind.
 
-
-## § 35 – Einfuhrkontrollmeldung
+# § 35 – Einfuhrkontrollmeldung
 
 (1) Bei der Einfuhr von Waren der Warennummern 2709 00 10, 2709 00 90, 2711 11 00 und 2711 21 00 des Warenverzeichnisses für die Außenhandelsstatistik ist zum Zweck der Marktbeobachtung eine Einfuhrkontrollmeldung vorzulegen, wenn die Einfuhrabfertigung in Papierform beantragt wird und der Wert der Einfuhrsendung 1 000 Euro übersteigt. Die zuständige Zollstelle leitet die Einfuhrkontrollmeldungen zum Zweck der Marktbeobachtung an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) weiter.
 
@@ -652,8 +611,7 @@ Bestehen ernsthafte Zweifel an der Richtigkeit eines Ursprungszeugnisses, könne
 
 (3) Bei der Einfuhr von Waren mit einer vereinfachten Zollanmeldung nach Artikel 166 der Verordnung (EU) Nr. 952/2013 oder Anschreibung in der Buchführung des Anmelders nach Artikel 182 der Verordnung (EU) Nr. 952/2013 hat der Einführer die ausgenutzten Blätter der Einfuhrkontrollmeldung unverzüglich nach der Einfuhr dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu übersenden. Die Einfuhrkontrollmeldung mit der letzten Eintragung des Abrechnungszeitraums ist jedoch bei der Einfuhrabfertigung vorzulegen.
 
-
-## § 36 – Vorherige Einfuhrüberwachung
+# § 36 – Vorherige Einfuhrüberwachung
 
 (1) Unterliegt die Einfuhr einer Ware auf Grund eines Rechtsakts der Europäischen Union der Überwachung, so wird bei der genehmigungsfreien Einfuhr auf Antrag ein Überwachungsdokument auf einem Einfuhrdokument nach den Rechtsakten der Europäischen Union erteilt. Das Einfuhrdokument ist in der gesamten Union gültig.
 
@@ -673,8 +631,7 @@ a) eine Überschreitung des Preises je Einheit, zu dem das Geschäft getätigt w
 
 b) eine Überschreitung des angegebenen Gesamtwertes oder der angegebenen Menge in handelsüblichen Einheiten bei der Einfuhrabfertigung zulässig ist.
 
-
-## § 37 – Einfuhrabfertigung bei vorheriger Einfuhrüberwachung
+# § 37 – Einfuhrabfertigung bei vorheriger Einfuhrüberwachung
 
 (1) Erfolgt die Einfuhrabfertigung auf Grund einer elektronischen Einfuhranmeldung, rufen die Zollstellen die Daten des Überwachungsdokuments im automatisierten Verfahren ab. § 32 Absatz 1 Satz 1 Nummer 2 Buchstabe b gilt entsprechend. Bei elektronischer Einfuhrabfertigung nach Satz 1 werden Überwachungsdokumente durch die Zollstellen grundsätzlich elektronisch abgeschrieben, wenn sie zur Verwendung im Inland bestimmt sind. In anderen Mitgliedstaaten der Europäischen Union ausgestellte Überwachungsdokumente müssen in Papierform vorgelegt und abgeschrieben werden.
 
@@ -688,8 +645,7 @@ b) eine Überschreitung des angegebenen Gesamtwertes oder der angegebenen Menge 
 
 3. soweit der Gesamtwert oder die Gesamtmenge der zur Einfuhr angemeldeten Waren um mehr als den im Überwachungsdokument vermerkten Prozentsatz überschritten wird.
 
-
-## § 38 – Ursprungszeugnis und Ursprungserklärung
+# § 38 – Ursprungszeugnis und Ursprungserklärung
 
 (1) Wenn für Waren auf Grund eines Rechtsakts der Europäischen Union ein Ursprungszeugnis oder eine Ursprungserklärung vorgesehen ist, sind diese bei der Einfuhrabfertigung vorzulegen. § 32 Absatz 1 Satz 1 Nummer 2 Buchstabe a und Satz 2 sowie § 32 Absatz 3 gelten entsprechend. Die Sätze 1 und 2 gelten nicht, wenn der Wert der in der Einfuhrsendung enthaltenen Waren, für die ein Ursprungszeugnis oder eine Ursprungserklärung vorgeschrieben ist, 1 000 Euro nicht übersteigt. Satz 3 gilt nicht, wenn es sich um Waren der Ernährung und Landwirtschaft handelt.
 
@@ -697,8 +653,7 @@ b) eine Überschreitung des angegebenen Gesamtwertes oder der angegebenen Menge 
 
 (3) Die Ursprungserklärung muss vom Exporteur oder Lieferanten auf der Rechnung oder, falls eine Rechnung nicht vorgelegt werden kann, auf einem anderen mit der Ausfuhr in Verbindung stehenden geschäftlichen Beleg eingetragen werden. Sie muss bestätigen, dass die Waren ihren Ursprung im Sinne der Artikel 59 bis 63 der Verordnung (EU) Nr. 952/2013 in Verbindung mit den Artikeln 31 bis 36 der Delegierten Verordnung (EU) 2015/2446 in dem angegebenen Drittland haben.
 
-
-## § 39 – Einfuhrgenehmigung
+# § 39 – Einfuhrgenehmigung
 
 (1) Durch Allgemeinverfügung, die im Bundesanzeiger bekannt zu machen ist, können die für die Erteilung von Einfuhrgenehmigungen und Einfuhrlizenzen zuständigen Stellen im Sinne des § 13 des Außenwirtschaftsgesetzes (Genehmigungsstellen) die Einzelheiten bekannt geben, die bei den Anträgen auf Erteilung der Genehmigung zu beachten sind (Ausschreibung). In der Ausschreibung werden insbesondere die Formerfordernisse und die Fristen für die Beantragung festgelegt. Antragsberechtigt ist nur der Einführer. Beruht das Genehmigungserfordernis auf einem unmittelbar geltenden Rechtsakt der Europäischen Union, so wird die Einfuhrgenehmigung auf dem in diesem Rechtsakt vorgeschriebenen Einfuhrdokument erteilt und ist in der gesamten Europäischen Union gültig.
 
@@ -712,8 +667,7 @@ b) eine Überschreitung des angegebenen Gesamtwertes oder der angegebenen Menge 
 
 (6) Bei der Einfuhrabfertigung in Papierform gemäß § 37 Absatz 2 Satz 1 muss der Einführer die Einfuhrgenehmigung vorlegen. Die Zollstelle vermerkt auf der Einfuhrgenehmigung die Menge oder den Wert der abgefertigten Waren.
 
-
-## § 40 – Erleichtertes Verfahren für landwirtschaftliche Waren
+# § 40 – Erleichtertes Verfahren für landwirtschaftliche Waren
 
 (1) Ohne Einfuhrgenehmigung dürfen folgende landwirtschaftliche Waren eingeführt werden:
 
@@ -733,8 +687,7 @@ b) eine Überschreitung des angegebenen Gesamtwertes oder der angegebenen Menge 
 
 (2) Die §§ 31 bis 39 gelten nicht für die in Absatz 1 genannten Einfuhren.
 
-
-## § 41 – Erleichtertes Verfahren für sonstige Waren
+# § 41 – Erleichtertes Verfahren für sonstige Waren
 
 (1) Ohne Einfuhrgenehmigung dürfen ferner folgende Waren eingeführt werden:
 
@@ -786,8 +739,7 @@ d) nach den Artikeln 203 bis 207 der Verordnung (EU) Nr. 952/2013, wenn die Ware
 
 (2) Die §§ 31 bis 39 gelten nicht für die in Absatz 1 genannten Einfuhren. Absatz 1 Nummer 13 gilt entsprechend, wenn die dort genannten Waren aus einem anderen Grund zollfrei eingeführt werden können.
 
-
-## § 42 – Einfuhr von Gartenbauerzeugnissen
+# § 42 – Einfuhr von Gartenbauerzeugnissen
 
 (1) Bei der Einfuhr von frischem Obst und Gemüse, für das Vermarktungsnormen auf Grund der Verordnung (EU) Nr. 1308/2013 festgelegt worden sind, prüft die Bundesanstalt für Landwirtschaft und Ernährung vor der Überlassung zum zollrechtlich freien Verkehr, ob die Waren diesen Vermarktungsnormen entsprechen.
 
@@ -807,13 +759,11 @@ d) nach den Artikeln 203 bis 207 der Verordnung (EU) Nr. 952/2013, wenn die Ware
 
 (4) Absatz 2 ist nicht anwendbar, soweit für die Einfuhr der Ware das erleichterte Verfahren nach § 40 gilt.
 
-
-## § 43 – Zwangsvollstreckung
+# § 43 – Zwangsvollstreckung
 
 Soll eine Zwangsvollstreckung in Waren vorgenommen werden, die sich in einer Freizone oder in einem Zolllager befinden, so kann der Gläubiger ein Überwachungsdokument oder eine Einfuhrgenehmigung oder Einfuhrlizenz und die Einfuhrabfertigung beantragen. Im Antrag auf das Überwachungsdokument oder die Einfuhrgenehmigung oder Einfuhrlizenz ist zu vermerken: „Zwangsvollstreckung“.
 
-
-## § 44 – Beschränkungen bei der Durchfuhr von Gütern
+# § 44 – Beschränkungen bei der Durchfuhr von Gütern
 
 (1) Die zuständigen Zollstellen können im Fall einer Durchfuhr von Gütern nach Artikel 2 Nummer 7 der Verordnung (EG) Nr. 428/2009 die Überlassung der Güter bis zur Mitteilung einer Entscheidung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) nach Absatz 4 aussetzen, um zu verhindern, dass die Güter das Inland verlassen, wenn sie Anhaltspunkte dafür haben, dass die Güter
 
@@ -831,13 +781,11 @@ Die Befugnisse der zuständigen Zollstellen nach Maßgabe der Verordnung (EU) Nr
 
 (5) Kosten, die im Zusammenhang mit der Lagerung der Güter während der Dauer einer Maßnahme nach Absatz 1 oder Absatz 3 anfallen, tragen die in Artikel 271 Absatz 2 der Verordnung (EU) Nr. 952/2013 genannten Personen. Artikel 197 und 198 der Verordnung (EU) Nr. 952/2013, jeweils in Verbindung mit § 13 des Zollverwaltungsgesetzes, sind entsprechend anzuwenden.
 
-
-## § 45 – Durchfuhrverfahren
+# § 45 – Durchfuhrverfahren
 
 Die Zulässigkeit der Durchfuhr wird beim Ausgang der Güter aus dem Inland von der Ausgangszollstelle geprüft und beim Ausgang über eine Binnengrenze zu einem anderen Mitgliedstaat der Europäischen Union von jeder beteiligten Zollstelle geprüft. Die Zollstelle kann zu diesem Zweck von dem Transporteur der Güter oder von den Verfügungsberechtigten weitere Angaben und Beweismittel, insbesondere auch die Vorlage der Verladescheine verlangen.
 
-
-## § 46 – Genehmigungserfordernisse für Handels- und Vermittlungsgeschäfte über Güter des Teils I Abschnitt A der Ausfuhrliste
+# § 46 – Genehmigungserfordernisse für Handels- und Vermittlungsgeschäfte über Güter des Teils I Abschnitt A der Ausfuhrliste
 
 (1) Handels- und Vermittlungsgeschäfte über Güter des Teils I Abschnitt A der Ausfuhrliste bedürfen der Genehmigung, wenn
 
@@ -851,8 +799,7 @@ b) im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind und
 
 (2) Eine Genehmigung nach Absatz 1 ist nicht erforderlich, wenn das Handels- und Vermittlungsgeschäft nach § 4a des Gesetzes über die Kontrolle von Kriegswaffen genehmigungspflichtig ist.
 
-
-## § 47 – Genehmigungserfordernisse für Handels- und Vermittlungsgeschäfte in einem Drittland
+# § 47 – Genehmigungserfordernisse für Handels- und Vermittlungsgeschäfte in einem Drittland
 
 (1) § 46 gilt auch für Handels- und Vermittlungsgeschäfte, die in einem Drittland durch Deutsche mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland vorgenommen werden, wenn sich das Handels- und Vermittlungsgeschäft auf folgende Kriegswaffen bezieht:
 
@@ -880,13 +827,11 @@ b) im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind,
 
 (3) Ist einem Deutschen mit Wohnsitz oder gewöhnlichem Aufenthalt im Inland, der ein Handels- und Vermittlungsgeschäft in einem Drittland vornehmen will, bekannt, dass die in Anhang I der Verordnung (EG) Nr. 428/2009 erfassten Güter, die sich in einem Drittland oder im Inland befinden und noch nicht einfuhrrechtlich abgefertigt sind und die von dort in ein anderes Drittland geliefert werden sollen, ganz oder teilweise für einen der Verwendungszwecke des Artikels 4 Absatz 1 der Verordnung (EG) Nr. 428/2009 bestimmt sind, so hat er das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu unterrichten. Dieses entscheidet, ob das Handels- und Vermittlungsgeschäft genehmigungspflichtig ist. Das Handels- und Vermittlungsgeschäft darf erst vorgenommen werden, wenn das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) das Handels- und Vermittlungsgeschäft genehmigt hat oder entschieden hat, dass es keiner Genehmigung bedarf.
 
-
-## § 48 – Einfuhrdokumente für Handels- und Vermittlungsgeschäfte
+# § 48 – Einfuhrdokumente für Handels- und Vermittlungsgeschäfte
 
 Wer für Handels- und Vermittlungsgeschäfte eine Internationale Einfuhrbescheinigung oder eine Wareneingangsbescheinigung benötigt, hat diese beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu beantragen. § 30 gilt entsprechend mit der Maßgabe, dass die Einfuhr in das im Antrag bezeichnete Bestimmungsland nachzuweisen ist.
 
-
-## § 49 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit chemischen oder biologischen Waffen oder Kernwaffen
+# § 49 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit chemischen oder biologischen Waffen oder Kernwaffen
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit
 
@@ -908,8 +853,7 @@ b) Kernwaffen oder sonstigen Kernsprengkörpern oder
 
 3. mündlich erfolgt und keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste oder Nummern der Gattung E des Anhangs I der Verordnung (EG) Nr. 428/2009 genannt ist.
 
-
-## § 50 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung
+# § 50 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer, die nicht von § 49 Absatz 1 erfasst ist, bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit einer militärischen Endverwendung steht und in einem Land im Sinne des Artikels 4 Absatz 2 der Verordnung (EG) Nr. 428/2009 erbracht wird.
 
@@ -921,8 +865,7 @@ b) Kernwaffen oder sonstigen Kernsprengkörpern oder
 
 2. mündlich erfolgt und keine Technologie betrifft, die in Teil I Abschnitt A Nummer 0022 oder Teil I Abschnitt B Nummern der Gattung E der Ausfuhrliste oder Nummern der Gattung E des Anhangs I der Verordnung (EG) Nr. 428/2009 genannt ist.
 
-
-## § 51 – Genehmigungserfordernisse für technische Unterstützung im Inland
+# § 51 – Genehmigungserfordernisse für technische Unterstützung im Inland
 
 (1) Technische Unterstützung im Inland durch einen Inländer bedarf der Genehmigung, wenn der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung
 
@@ -952,8 +895,7 @@ b) im Zusammenhang mit der Entwicklung, der Herstellung, der Wartung oder der La
 
 (5) Als Ausländer im Sinne der Absätze 1 und 2 sind auch solche natürlichen Personen anzusehen, deren Wohnsitz oder gewöhnlicher Aufenthalt im Inland auf höchstens fünf Jahre befristet ist.
 
-
-## § 52 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb kerntechnischer Anlagen
+# § 52 – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb kerntechnischer Anlagen
 
 (1) Technische Unterstützung durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung im Zusammenhang mit der Errichtung oder dem Betrieb von Anlagen für kerntechnische Zwecke im Sinne der Kategorie 0 des Anhangs I der Verordnung (EG) Nr. 428/2009 in den in § 9 Absatz 1 Satz 1 Nummer 2 genannten Ländern steht.
 
@@ -967,8 +909,7 @@ b) im Zusammenhang mit der Entwicklung, der Herstellung, der Wartung oder der La
 
 (4) Das Verfahren nach dieser Vorschrift kann über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
-
-## § 52a – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EG) Nr. 428/2009 gelisteten Gütern der Kommunikationsüberwachung
+# § 52a – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Anhang I der Verordnung (EG) Nr. 428/2009 gelisteten Gütern der Kommunikationsüberwachung
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit der Entwicklung, der Herstellung, der Handhabung, dem Betrieb, der Wartung oder der Reparatur von Gütern der Nummern 4A005, 4D004, 4E001 Buchstabe c, Nummer 5A001 Buchstabe f oder Nummer 5A001 Buchstabe j des Anhangs I der Verordnung (EG) Nr. 428/2009 und gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 genannt oder Mitglied der Europäischen Union ist.
 
@@ -982,8 +923,7 @@ b) im Zusammenhang mit der Entwicklung, der Herstellung, der Wartung oder der La
 
 3. der Erfüllung eines Vertrages dient, der vor dem 13. Mai 2015 geschlossen wurde, und mit der Erbringung der technischen Unterstützung bereits begonnen wurde; diese Regelung tritt am 1. Januar 2016 außer Kraft.
 
-
-## § 52b – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Teil I Abschnitt B der Ausfuhrliste gelisteten Gütern der Kommunikationsüberwachung
+# § 52b – Genehmigungserfordernisse für technische Unterstützung im Zusammenhang mit bestimmten in Teil I Abschnitt B der Ausfuhrliste gelisteten Gütern der Kommunikationsüberwachung
 
 (1) Technische Unterstützung in Drittländern durch einen Deutschen oder einen Inländer bedarf der Genehmigung, wenn der Deutsche oder der Inländer vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darüber unterrichtet worden ist, dass die technische Unterstützung bestimmt ist zur Verwendung im Zusammenhang mit der Entwicklung, der Herstellung, der Handhabung, dem Betrieb, der Wartung oder der Reparatur von Gütern der Nummern 5A902, 5D902 oder 5E902 des Teils I Abschnitt B der Ausfuhrliste und gegenüber Ausländern erbracht wird, die nicht in einem Land ansässig sind, das in Anhang IIa Teil 2 der Verordnung (EG) Nr. 428/2009 genannt oder Mitglied der Europäischen Union ist.
 
@@ -997,8 +937,7 @@ b) im Zusammenhang mit der Entwicklung, der Herstellung, der Wartung oder der La
 
 3. der Erfüllung eines Vertrages dient, der vor dem 13. Mai 2015 geschlossen wurde, und mit der Erbringung der technischen Unterstützung bereits begonnen wurde; diese Regelung tritt am 1. Januar 2016 außer Kraft.
 
-
-## § 53 – Befreiungen von der Genehmigungspflicht
+# § 53 – Befreiungen von der Genehmigungspflicht
 
 Die §§ 49 bis 52b gelten nicht in den Fällen der
 
@@ -1010,8 +949,7 @@ Die §§ 49 bis 52b gelten nicht in den Fällen der
 
 4. technischen Unterstützung, die das unbedingt notwendige Minimum für Aufbau, Betrieb, Wartung und Reparatur derjenigen Güter darstellt, für die eine Ausfuhrgenehmigung erteilt wurde.
 
-
-## § 54 – Bewirkung von Zahlungen und sonstigen Leistungen
+# § 54 – Bewirkung von Zahlungen und sonstigen Leistungen
 
 (1) Einem Schuldner ist die Bewirkung von Zahlungen und sonstigen Leistungen verboten, wenn sie
 
@@ -1027,8 +965,7 @@ b) zwar den Voraussetzungen des Artikels 4 Absatz 1 und 2 des Abkommens entsprec
 
 (2) Die in Artikel 3 des Abkommens enthaltenen Begriffsbestimmungen gelten auch für Absatz 1.
 
-
-## § 55 – Anwendungsbereich der sektorübergreifenden Prüfung
+# § 55 – Anwendungsbereich der sektorübergreifenden Prüfung
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann prüfen, ob es die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland, eines anderen Mitgliedstaates der Europäischen Union oder in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne des Artikels 8 der Verordnung (EU) 2019/452 des Europäischen Parlaments und des Rates vom 19. März 2019 zur Schaffung eines Rahmens für die Überprüfung ausländischer Direktinvestitionen in der Union (ABl. L 79 I vom 21.3.2019, S. 1) voraussichtlich beeinträchtigt, wenn ein Unionsfremder unmittelbar oder mittelbar ein inländisches Unternehmen oder unmittelbar oder mittelbar eine Beteiligung im Sinne des § 56 an einem inländischen Unternehmen erwirbt. Eine voraussichtliche Beeinträchtigung der öffentlichen Ordnung oder Sicherheit kann insbesondere vorliegen, wenn das inländische Unternehmen
 
@@ -1101,8 +1038,7 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (4) Der Abschluss eines schuldrechtlichen Vertrags über den Erwerb eines in Absatz 1 Satz 2 Nummer 1 bis 11 bezeichneten inländischen Unternehmens oder einer mittelbaren Beteiligung im Sinne des § 56 an einem solchen Unternehmen durch einen Unionsfremden ist dem Bundesministerium für Wirtschaft und Energie schriftlich zu melden. In der Meldung sind der Erwerb, der Erwerber und das zu erwerbende inländische Unternehmen anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. Zur Meldung ist der unmittelbare Erwerber unverzüglich nach Abschluss des schuldrechtlichen Vertrages verpflichtet, auch wenn in dessen Person die Voraussetzungen des Absatzes 1 nicht vorliegen. Satz 3 gilt nicht, soweit der mittelbare Erwerber die Meldung nach Satz 1 abgegeben hat. Im Falle, dass ein Prüfverfahren nach Absatz 1 im Anschluss an die Meldung durchgeführt wird, ist Absatz 3 Satz 1 und 3 mit der Maßgabe anzuwenden, dass die Eröffnung des Prüfungsverfahrens nur dem unmittelbaren Erwerber mitzuteilen und zuzustellen ist; Absatz 3 Satz 4 ist nicht anzuwenden.
 
-
-## § 56 – Stimmrechtsanteile
+# § 56 – Stimmrechtsanteile
 
 (1) Der unmittelbare oder mittelbare Stimmrechtsanteil des Erwerbers an dem inländischen Unternehmen muss nach dem Erwerb der Beteiligung
 
@@ -1132,18 +1068,15 @@ der Stimmrechte hält oder
 
 wenn der Erwerber und der jeweilige Zwischengesellschafter unter entsprechender Anwendung der Zurechnungsgrundsätze nach Absatz 2 mindestens den nach Nummer 1 oder Nummer 2 maßgeblichen Anteil der Stimmrechte an der jeweiligen Tochtergesellschaft halten.
 
+# § 57 – (weggefallen)
 
-## § 57 – (weggefallen)
-
-
-## § 58 – Unbedenklichkeitsbescheinigung
+# § 58 – Unbedenklichkeitsbescheinigung
 
 (1) Das Bundesministerium für Wirtschaft und Energie bescheinigt dem Erwerber auf schriftlichen Antrag die Unbedenklichkeit eines Erwerbs im Sinne des § 55, wenn dem Erwerb keine Bedenken im Hinblick auf die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland entgegenstehen (Unbedenklichkeitsbescheinigung). In dem Antrag sind der Erwerb, der Erwerber und das zu erwerbende inländische Unternehmen anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen.
 
 (2) Die Unbedenklichkeitsbescheinigung gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Energie nicht innerhalb der in § 14a Absatz 1 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren nach § 55 eröffnet. Für die Durchführung des Prüfverfahrens ist § 55 Absatz 3 Satz 1 und 3 mit der Maßgabe anzuwenden, dass dessen Eröffnung nur dem Antragsteller nach Absatz 1 Satz 1 mitzuteilen und zuzustellen ist; § 55 Absatz 3 Satz 4 ist nicht anzuwenden.
 
-
-## § 59 – Untersagung oder Anordnungen
+# § 59 – Untersagung oder Anordnungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann einen Erwerb im Sinne des § 55 bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit den Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist gegenüber dem unmittelbaren Erwerber untersagen oder Anordnungen erlassen, um die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland zu gewährleisten.
 
@@ -1153,8 +1086,7 @@ wenn der Erwerber und der jeweilige Zwischengesellschafter unter entsprechender 
 
 2. auf Kosten des Erwerbers einen Treuhänder bestellen, der die Rückabwicklung eines vollzogenen Erwerbs herbeiführt.
 
-
-## § 60 – Anwendungsbereich der sektorspezifischen Prüfung
+# § 60 – Anwendungsbereich der sektorspezifischen Prüfung
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann prüfen, ob der Erwerb eines inländischen Unternehmens oder einer unmittelbaren oder mittelbaren Beteiligung im Sinne des § 60a an einem inländischen Unternehmen durch einen Ausländer wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland gefährdet, wenn das Unternehmen:
 
@@ -1199,8 +1131,7 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (3) Der Erwerb ist dem Bundesministerium für Wirtschaft und Energie schriftlich zu melden. In der Meldung sind der Erwerb, der Erwerber und das zu erwerbende inländische Unternehmen anzugeben sowie die Geschäftsfelder des Erwerbers und des zu erwerbenden inländischen Unternehmens in den Grundzügen darzustellen. Die Meldung erfolgt ausschließlich durch den unmittelbaren Erwerber, auch wenn in dessen Person die Voraussetzungen des Absatzes 1 nicht vorliegen.
 
-
-## § 60a – Stimmrechtsanteile
+# § 60a – Stimmrechtsanteile
 
 (1) Der unmittelbare oder mittelbare Stimmrechtsanteil des Erwerbers an dem inländischen Unternehmen muss nach dem Erwerb 10 Prozent der Stimmrechte erreichen oder überschreiten.
 
@@ -1212,18 +1143,15 @@ Kontrolle im Sinne des Satzes 1 Nummer 1 kann insbesondere auf Grund der Eigent�
 
 (3) Im Fall des Erwerbs einer mittelbaren Beteiligung beträgt der Stimmrechtsanteil des Erwerbers an dem inländischen Unternehmen mindestens 10 Prozent, wenn der Erwerber und der jeweilige Zwischengesellschafter unter entsprechender Anwendung der Zurechnungsgrundsätze nach Absatz 2 mindestens 10 Prozent der Stimmrechte an der jeweiligen Tochtergesellschaft halten.
 
-
-## § 61 – Freigabe eines Erwerbs nach § 60
+# § 61 – Freigabe eines Erwerbs nach § 60
 
 Das Bundesministerium für Wirtschaft und Energie gibt den Erwerb gegenüber dem Meldepflichtigen nach § 60 Absatz 3 Satz 3 schriftlich frei, wenn dem Erwerb keine Bedenken im Hinblick auf wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland entgegenstehen. Die Freigabe gilt als erteilt, wenn das Bundesministerium für Wirtschaft und Energie nicht innerhalb der in § 14a Absatz 1 Nummer 1 in Verbindung mit Absatz 3 Satz 1 des Außenwirtschaftsgesetzes genannten Frist ein Prüfverfahren gemäß § 60 Absatz 1 gegenüber dem Meldepflichtigen eröffnet.
 
-
-## § 62 – Untersagung oder Anordnungen
+# § 62 – Untersagung oder Anordnungen
 
 Das Bundesministerium für Wirtschaft und Energie kann gegenüber dem Meldepflichtigen bis zum Ablauf der in § 14a Absatz 1 Nummer 2, auch in Verbindung mit den Absätzen 6 und 7, des Außenwirtschaftsgesetzes genannten Frist einen Erwerb im Sinne des § 60 untersagen oder Anordnungen erlassen, um wesentliche Sicherheitsinteressen der Bundesrepublik Deutschland zu gewährleisten.
 
-
-## § 63 – Begriffsbestimmungen
+# § 63 – Begriffsbestimmungen
 
 Für Zwecke der Meldungen nach diesem Kapitel ist
 
@@ -1235,8 +1163,7 @@ Für Zwecke der Meldungen nach diesem Kapitel ist
 
 Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen, Betriebsstätten und Banken, deren Sitz sich im Ausland befindet.
 
-
-## § 64 – Meldung von Vermögen von Inländern im Ausland
+# § 64 – Meldung von Vermögen von Inländern im Ausland
 
 (1) Der Meldepflichtige nach Absatz 6 hat der Deutschen Bundesbank in der Frist des § 71 Absatz 1 den Stand und ausgewählte Positionen der Zusammensetzung folgenden Vermögens im Ausland gemäß Absatz 4 oder Absatz 5 zu melden:
 
@@ -1262,8 +1189,7 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (6) Meldepflichtig ist der Inländer, dem das Vermögen unmittelbar oder über ein abhängiges ausländisches Unternehmen am Bilanzstichtag des Inländers oder, soweit er nicht bilanziert, am 31. Dezember zuzurechnen ist.
 
-
-## § 65 – Meldung von Vermögen von Ausländern im Inland
+# § 65 – Meldung von Vermögen von Ausländern im Inland
 
 (1) Der Meldepflichtige nach Absatz 6 hat der Deutschen Bundesbank in der Frist des § 71 Absatz 2 den Stand und ausgewählte Positionen der Zusammensetzung folgenden Vermögens im Inland gemäß Absatz 5 zu melden:
 
@@ -1305,8 +1231,7 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 3. im Fall des Absatzes 1 Nummer 3 die inländische Zweigniederlassung oder Betriebsstätte.
 
-
-## § 66 – Meldung von Forderungen und Verbindlichkeiten
+# § 66 – Meldung von Forderungen und Verbindlichkeiten
 
 (1) Inländer, ausgenommen natürliche Personen, monetäre Finanzinstitute gemäß Artikel 1 erster Gedankenstrich der Verordnung (EG) Nr. 25/2009 der Europäischen Zentralbank vom 19. Dezember 2008 über die Bilanz des Sektors der monetären Finanzinstitute (ABl. L 15 vom 20.1.2009, S. 14), die zuletzt durch die Verordnung (EU) Nr. 883/2011 (ABl. L 228 vom 3.9.2011, S. 13) geändert worden ist, und Investmentaktiengesellschaften sowie Kapitalverwaltungsgesellschaften bezüglich der Forderungen und Verbindlichkeiten ihrer Investmentfonds, haben ihre Forderungen und Verbindlichkeiten gegenüber Ausländern der Deutschen Bundesbank gemäß der Absätze 2 und 3 in den Fristen des § 71 Absatz 3 und 4 zu melden, wenn diese Forderungen oder Verbindlichkeiten bei Ablauf eines Monats jeweils zusammengerechnet mehr als 5 Millionen Euro betragen.
 
@@ -1318,8 +1243,7 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (5) Entfällt für einen Inländer, der für einen vorangegangenen Meldestichtag meldepflichtig war, wegen Unterschreitens der in den Absätzen 1 und 4 genannten Betragsgrenzen die Meldepflicht, so hat er dies schriftlich oder elektronisch anzuzeigen.
 
-
-## § 67 – Meldung von Zahlungen
+# § 67 – Meldung von Zahlungen
 
 (1) Inländer haben der Deutschen Bundesbank in den Fristen des § 71 Absatz 7 und 8 Zahlungen gemäß Absatz 4 zu melden, die sie
 
@@ -1341,8 +1265,7 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (5) In den Meldungen sind aussagefähige Angaben zu den zugrunde liegenden Leistungen oder zum Grundgeschäft zu machen und die entsprechenden Kennzahlen der Anlage LV „Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz“, bei Zahlungen für in Aktien verbriefte Direktinvestitionen zusätzlich die internationale Wertpapierkennnummer und Nennbetrag oder Stückzahl anzugeben. Im Fall von Zahlungen im Zusammenhang mit Wertpapieren und Finanzderivaten sind anstelle der Angaben zum Grundgeschäft die Bezeichnungen der Wertpapiere, die internationale Wertpapierkennnummer sowie Nennbetrag oder Stückzahl anzugeben.
 
-
-## § 68 – Meldung von Zahlungen im Transithandel
+# § 68 – Meldung von Zahlungen im Transithandel
 
 (1) Sind Meldungen nach § 67 Absatz 1 aufgrund von Transithandelsgeschäften abzugeben, sind zusätzlich zu § 67 Absatz 4 noch folgende Angaben zu machen:
 
@@ -1354,13 +1277,11 @@ Ausländer im Sinne dieses Kapitels sind auch Unternehmen, Zweigniederlassungen,
 
 (2) Der Meldepflichtige gemäß § 67 Absatz 1, der eine ausgehende Zahlung im Transithandel gemeldet hat und die Transithandelsware danach in das Inland einführt oder verbringt, hat den ursprünglich gemeldeten Betrag als „Stornierung im Transithandel” der Deutschen Bundesbank in der Frist des § 71 Absatz 7 anzuzeigen.
 
-
-## § 69 – Meldung von Zahlungen der Seeschifffahrtsunternehmen
+# § 69 – Meldung von Zahlungen der Seeschifffahrtsunternehmen
 
 Inländer, die ein Seeschifffahrtsunternehmen betreiben, haben abweichend von § 67 Zahlungen, die sie im Zusammenhang mit dem Betrieb der Seeschifffahrt entgegennehmen oder leisten, der Deutschen Bundesbank in der Frist des § 71 Absatz 7 zu melden. In der Meldung müssen die Angaben gemäß Anlage Z8 „Einnahmen und Ausgaben der Seeschifffahrt“ enthalten sein.
 
-
-## § 70 – Meldungen der Geldinstitute
+# § 70 – Meldungen der Geldinstitute
 
 (1) Inländische Geldinstitute haben der Deutschen Bundesbank in der Frist des § 71 Absatz 8 zu melden:
 
@@ -1390,8 +1311,7 @@ b) ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie Umsät
 
 (5) Soweit Zahlungen nach Absatz 1 zu melden sind, ist § 67 nicht anzuwenden.
 
-
-## § 71 – Meldefristen
+# § 71 – Meldefristen
 
 (1) Meldungen gemäß § 64 nach Anlage K3 sind einmal jährlich spätestens bis zum letzten Werktag des sechsten auf den Bilanzstichtag des Meldepflichtigen oder, soweit der Meldepflichtige nicht bilanziert, des sechsten auf den 31. Dezember folgenden Kalendermonats einzureichen.
 
@@ -1409,8 +1329,7 @@ b) ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie Umsät
 
 (8) Meldungen gemäß § 67 Absatz 1 in Verbindung mit § 67 Absatz 4 Satz 2 nach Anlage Z10 sowie Meldungen gemäß § 70 Absatz 1 nach den Anlagen Z10, Z11, Z12, Z13, Z14 und Z15 sind bis zum fünften Kalendertag des folgenden Monats einzureichen.
 
-
-## § 72 – Meldestelle und Einreichungsweg
+# § 72 – Meldestelle und Einreichungsweg
 
 (1) Die Meldungen nach den §§ 64 bis 70 sind der Deutschen Bundesbank elektronisch einzureichen. Soweit die vorliegende Verordnung keine Formvorschriften enthält, sind dabei die von der Deutschen Bundesbank erlassenen Formvorschriften zu beachten.
 
@@ -1418,8 +1337,7 @@ b) ein- und ausgehende Zahlungen aus dem An- und Verkauf von Sorten sowie Umsät
 
 (3) Meldungen können anstatt elektronisch auch in anderer Form abgegeben werden, sofern die Deutsche Bundesbank dies genehmigt hat und die erlassenen Formvorschriften beachtet werden.
 
-
-## § 73 – Ausnahmen
+# § 73 – Ausnahmen
 
 Die Deutsche Bundesbank kann
 
@@ -1429,8 +1347,7 @@ Die Deutsche Bundesbank kann
 
 soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften nicht beeinträchtigt wird.
 
-
-## § 74 – Ausfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern
+# § 74 – Ausfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern
 
 (1) Verboten sind der Verkauf, die Ausfuhr und die Durchfuhr von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern vom Inland aus oder über das Inland oder deren Beförderung unter Benutzung eines Schiffes oder Luftfahrzeugs, das berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen, in die folgenden Länder:
 
@@ -1464,13 +1381,11 @@ soweit dafür besondere Gründe vorliegen oder der Zweck der Meldevorschriften n
 
 15. Sudan,
 
-15a.  
-Südsudan,
+15a. Südsudan,
 
 16. Syrien,
 
-16a.  
-Venezuela,
+16a. Venezuela,
 
 17. Zentralafrikanische Republik.
 
@@ -1488,8 +1403,7 @@ Venezuela,
 
 6. in der jeweils geltenden Fassung des Anhangs des Beschlusses (GASP) 2016/1693 des Rates vom 20. September 2016 betreffend restriktive Maßnahmen gegen ISIL (Da´esh) und Al-Qaida und mit ihnen verbündete Personen, Gruppen, Unternehmen und Einrichtungen und zur Aufhebung des Gemeinsamen Standpunkts 2002/402/GASP (ABl. L 255 vom 21.9.2016, S. 25).
 
-
-## § 75 – Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter
+# § 75 – Verbote von Handels- und Vermittlungsgeschäften in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter
 
 (1) Verboten sind Handels- und Vermittlungsgeschäfte in Bezug auf in Teil I Abschnitt A der Ausfuhrliste erfasste Güter, welche unmittelbar oder mittelbar für Personen, Organisationen oder Einrichtungen in folgenden Ländern bestimmt sind:
 
@@ -1509,20 +1423,17 @@ Venezuela,
 
 8. Libyen,
 
-8a.  
-Russland,
+8a. Russland,
 
 9. Simbabwe,
 
 10. Sudan,
 
-10a.  
-Südsudan,
+10a. Südsudan,
 
 11. Syrien,
 
-11a.  
-Venezuela,
+11a. Venezuela,
 
 12. Zentralafrikanische Republik.
 
@@ -1540,25 +1451,21 @@ Venezuela,
 
 6. Libyen,
 
-6a.  
-Russland,
+6a. Russland,
 
 7. Simbabwe,
 
 8. Sudan,
 
-8a.  
-Südsudan,
+8a. Südsudan,
 
 9. Syrien,
 
-9a.  
-Venezuela,
+9a. Venezuela,
 
 10. Zentralafrikanische Republik.
 
-
-## § 76 – Ausnahmen von § 74 Absatz 1 und § 75
+# § 76 – Ausnahmen von § 74 Absatz 1 und § 75
 
 (1) Abweichend von § 74 Absatz 1 und § 75 können der Verkauf, die Ausfuhr, die Durchfuhr oder Handels- und Vermittlungsgeschäfte unter den Voraussetzungen der Absätze 2 bis 17 genehmigt werden.
 
@@ -1746,8 +1653,7 @@ e) die nationale Koalition der Kräfte der syrischen Revolution und Opposition f
 
 6. Rüstungsgüter und dazugehörige Güter im Einklang mit dem Verfahren nach Ziffer 54 f) der Resolution 2127 (2013) des Sicherheitsrates der Vereinten Nationen.
 
-
-## § 76a – Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
+# § 76a – Ausnahmen von § 74 Absatz 1 und § 75 in Einzelfällen
 
 Abweichend von § 74 Absatz 1 und § 75 können genehmigt werden:
 
@@ -1759,8 +1665,7 @@ a) diplomatischen oder berufskonsularischen Vertretungen mit Ausnahme von Vertre
 
 b) Büros internationaler zwischenstaatlicher Organisationen, deren Sonderorganisationen sowie der institutionell mit diesen verbundenen zwischenstaatlichen Einrichtungen.
 
-
-## § 77 – Einfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern aus bestimmten Ländern
+# § 77 – Einfuhrverbote von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern aus bestimmten Ländern
 
 (1) Verboten sind die Einfuhr und der Erwerb von in Teil I Abschnitt A der Ausfuhrliste erfassten Gütern aus den folgenden Ländern, unabhängig davon, ob die Güter ihren Ursprung in diesen Ländern haben:
 
@@ -1796,18 +1701,15 @@ b) für den Flugbetrieb des ExoMars-Trägermoduls bis zu einer Gesamtmenge von 3
 
 Die Einfuhr, der Erwerb und die Beförderung nach Satz 1 Nummer 3 und 4 bedürfen der Genehmigung durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
-
-## § 78 – Genehmigungserfordernisse für die Ausfuhr bestimmter Ausrüstung
+# § 78 – Genehmigungserfordernisse für die Ausfuhr bestimmter Ausrüstung
 
 Die Ausfuhr von Ausrüstung für die Herstellung von Banknoten, Wertzeichen, Banknoten- oder Wertzeichenspezialpapieren bedarf der Genehmigung, wenn das Bestimmungsland die Demokratische Volksrepublik Korea ist.
 
-
-## § 79 – Beschränkungen nach § 5 Absatz 5 des Außenwirtschaftsgesetzes
+# § 79 – Beschränkungen nach § 5 Absatz 5 des Außenwirtschaftsgesetzes
 
 Die §§ 74 bis 77 gelten auch für Deutsche im Ausland.
 
-
-## § 80 – Straftaten
+# § 80 – Straftaten
 
 Nach § 17 Absatz 1, Absatz 2 bis 5 des Außenwirtschaftsgesetzes wird bestraft, wer vorsätzlich oder leichtfertig
 
@@ -1817,8 +1719,7 @@ Nach § 17 Absatz 1, Absatz 2 bis 5 des Außenwirtschaftsgesetzes wird bestraft,
 
 3. entgegen § 77 Absatz 1, auch in Verbindung mit § 77 Absatz 2, jeweils auch in Verbindung mit § 79, dort genannte Güter einführt, erwirbt oder befördert.
 
-
-## § 81 – Ordnungswidrigkeiten – Verstöße gegen Bestimmungen der Außenwirtschaftsverordnung
+# § 81 – Ordnungswidrigkeiten – Verstöße gegen Bestimmungen der Außenwirtschaftsverordnung
 
 (1) Ordnungswidrig im Sinne des § 19 Absatz 3 Nummer 1 Buchstabe a des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1886,8 +1787,7 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 20. entgegen § 68 Absatz 2 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-## § 82 – Ordnungswidrigkeiten – Verstöße gegen Rechtsakte der Europäischen Union
+# § 82 – Ordnungswidrigkeiten – Verstöße gegen Rechtsakte der Europäischen Union
 
 (1) Ordnungswidrig im Sinne des § 19 Absatz 4 Satz 1 Nummer 1 des Außenwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 
@@ -1899,19 +1799,15 @@ b) eine Bescheinigung nicht oder nicht rechtzeitig zurückgibt und eine Mitteilu
 
 4. Artikel 2 Absatz 1 der Verordnung (EG) Nr. 1733/94 des Rates vom 11. Juli 1994 zum Verbot der Erfüllung von Ansprüchen im Zusammenhang mit Verträgen und Geschäften, deren Durchführung durch die Resolution 757 (1992) des Sicherheitsrates der Vereinten Nationen und mit ihr in Verbindung stehende Resolutionen berührt wurde (ABl. L 182 vom 16.7.1994, S. 1),
 
-4a.  
-Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom 18. Juli 2005 über die Anwendung spezifischer restriktiver Maßnahmen gegen Personen, die gegen das Waffenembargo betreffend die Demokratische Republik Kongo verstoßen (ABl. L 193 vom 23.7.2005, S. 1), die zuletzt durch die Verordnung (EU) 2015/613 (ABl. L 102 vom 21.4.2015, S. 3) geändert worden ist,
+4a. Artikel 7a Absatz 1 der Verordnung (EG) Nr. 1183/2005 des Rates vom 18. Juli 2005 über die Anwendung spezifischer restriktiver Maßnahmen gegen Personen, die gegen das Waffenembargo betreffend die Demokratische Republik Kongo verstoßen (ABl. L 193 vom 23.7.2005, S. 1), die zuletzt durch die Verordnung (EU) 2015/613 (ABl. L 102 vom 21.4.2015, S. 3) geändert worden ist,
 
-4b.  
-(weggefallen)
+4b. (weggefallen)
 
-4c.  
-Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 des Rates vom 18. Januar 2012 über restriktive Maßnahmen angesichts der Lage in Syrien und zur Aufhebung der Verordnung (EU) Nr. 442/2011 (ABl. L 16 vom 19.1.2012, S. 1, L 259 vom 27.9.2012, S. 7), die zuletzt durch die Verordnung (EU) Nr. 1323/2014 (ABl. L 358 vom 13.12.2014, S. 1) geändert worden ist,
+4c. Artikel 27 Absatz 1 der Verordnung (EU) Nr. 36/2012 des Rates vom 18. Januar 2012 über restriktive Maßnahmen angesichts der Lage in Syrien und zur Aufhebung der Verordnung (EU) Nr. 442/2011 (ABl. L 16 vom 19.1.2012, S. 1, L 259 vom 27.9.2012, S. 7), die zuletzt durch die Verordnung (EU) Nr. 1323/2014 (ABl. L 358 vom 13.12.2014, S. 1) geändert worden ist,
 
 5. Artikel 38 Absatz 1 der Verordnung (EU) Nr. 267/2012 des Rates vom 23. März 2012 über restriktive Maßnahmen gegen Iran und zur Aufhebung der Verordnung (EU) Nr. 961/2010 (ABl. L 88 vom 24.3.2012, S. 1, L 332 vom 4.12.2012, S. 31), die zuletzt durch die Durchführungsverordnung (EU) 2016/74 (ABl. L 16 vom 23.1.2016, S. 6) geändert worden ist,
 
-5a.  
-Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 des Rates vom 2. Mai 2013 über restriktive Maßnahmen gegen Myanmar/Birma und zur Aufhebung der Verordnung (EG) Nr. 194/2008 (ABl. L 121 vom 3.5.2013, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2018/1117 (ABl. L 204 vom 13.8.2018, S. 9) geändert worden ist,
+5a. Artikel 4h Absatz 1 der Verordnung (EU) Nr. 401/2013 des Rates vom 2. Mai 2013 über restriktive Maßnahmen gegen Myanmar/Birma und zur Aufhebung der Verordnung (EG) Nr. 194/2008 (ABl. L 121 vom 3.5.2013, S. 1), die zuletzt durch die Durchführungsverordnung (EU) 2018/1117 (ABl. L 204 vom 13.8.2018, S. 9) geändert worden ist,
 
 6. Artikel 14 Absatz 1 der Verordnung (EU) Nr. 224/2014 des Rates vom 10. März 2014 über restriktive Maßnahmen angesichts der Lage in der Zentralafrikanischen Republik (ABl. L 70 vom 11.3.2014, S. 1),
 
@@ -2041,13 +1937,11 @@ Soweit die in Satz 1 genannten Vorschriften auf Anhang I oder Anhang IV der Vero
 
 24. entgegen Artikel 31 Buchstabe a oder Buchstabe b eine dort genannte Anleihe kauft oder einen Vermittlungsdienst im Zusammenhang mit dem Kauf einer solchen Anlage erbringt.
 
-
-## § 83 – Inkrafttreten, Außerkrafttreten
+# § 83 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag des Inkrafttretens des Gesetzes zur Modernisierung des Außenwirtschaftsrechts nach Artikel 4 Absatz 1 Satz 1 in Kraft. Gleichzeitig tritt die Außenwirtschaftsverordnung in der Fassung der Bekanntmachung vom 22. November 1993 (BGBl. I S. 1934, 2493), die zuletzt durch Artikel 27 Absatz 12 des Gesetzes vom 4. Juli 2013 (BGBl. I S. 1981) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
+# Anlage 1 – Anlage AL zur Außenwirtschaftsverordnung
 
 (Fundstelle: BAnz AT 28.10.2020 V1)
 
@@ -4380,8 +4274,7 @@ Siehe auch „Luftfahrzeug“.
 Waren pflanzlichen Ursprungs
 
 Nr. des  
-Warenverz.  
-für die  
+Warenverz. für die  
 Außenhandels-  
 statistik
 
@@ -4556,11 +4449,9 @@ G
 
 Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Unterummer" durch das Wort "Unternummer" ersetzt
 
+# Anlage 2 – (weggefallen)
 
-## Anlage 2 – (weggefallen)
-
-
-## Anlage 3 – Anlage K3 „Vermögen von Inländern im Ausland“
+# Anlage 3 – Anlage K3 „Vermögen von Inländern im Ausland“
 
 (Fundstelle: BGBl. I 2013, 2930 - 2932)
 
@@ -4570,8 +4461,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 4 – Anlage K4 „Vermögen von Ausländern im Inland“
+# Anlage 4 – Anlage K4 „Vermögen von Ausländern im Inland“
 
 (Fundstelle: BGBl. I 2013, 2933 - 2935)
 
@@ -4581,8 +4471,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr“
+# Anlage 5 – Anlage Z4 „Zahlungen im Außenwirtschaftsverkehr“
 
 (Fundstelle: BGBl. I 2013, 2936 - 2937)
 
@@ -4590,8 +4479,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 6 – Anlage Z5 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“
+# Anlage 6 – Anlage Z5 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit ausländischen Banken“
 
 (Fundstelle: BGBl. I 2013, 2938 - 2939)
 
@@ -4599,8 +4487,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 7 – Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“
+# Anlage 7 – Anlage Z5a Blatt 1/1 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit verbundenen ausländischen Nichtbanken“
 
 (Fundstelle: BGBl. I 2013, 2940 - 2941)
 
@@ -4608,8 +4495,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0070.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 8 – Anlage Z5a Blatt 1/2 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit sonstigen ausländischen Nichtbanken“
+# Anlage 8 – Anlage Z5a Blatt 1/2 „Forderungen und Verbindlichkeiten aus Finanzbeziehungen mit sonstigen ausländischen Nichtbanken“
 
 (Fundstelle: BGBl. I 2013, 2942 - 2943)
 
@@ -4617,8 +4503,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 9 – Anlage Z5a Blatt 2/1 „Forderungen und Verbindlichkeiten gegenüber verbundenen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
+# Anlage 9 – Anlage Z5a Blatt 2/1 „Forderungen und Verbindlichkeiten gegenüber verbundenen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
 
 (Fundstelle: BGBl. I 2013, 2944 - 2945)
 
@@ -4626,8 +4511,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 10 – Anlage Z5a Blatt 2/2 „Forderungen und Verbindlichkeiten gegenüber sonstigen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
+# Anlage 10 – Anlage Z5a Blatt 2/2 „Forderungen und Verbindlichkeiten gegenüber sonstigen ausländischen Nichtbanken aus dem Waren- und Dienstleistungsverkehr“
 
 (Fundstelle: BGBl. I 2013, 2946 - 2947)
 
@@ -4635,8 +4519,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0100.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 11 – Anlage Z5b „Forderungen und Verbindlichkeiten gegenüber Ausländern aus derivativen Finanzinstrumenten“
+# Anlage 11 – Anlage Z5b „Forderungen und Verbindlichkeiten gegenüber Ausländern aus derivativen Finanzinstrumenten“
 
 (Fundstelle: BGBl. I 2013, 2948 - 2949)
 
@@ -4644,8 +4527,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 12 – Anlage Z8 „Einnahmen und Ausgaben der Seeschifffahrt“
+# Anlage 12 – Anlage Z8 „Einnahmen und Ausgaben der Seeschifffahrt“
 
 (Fundstelle: BGBl. I 2013, 2950 - 2951)
 
@@ -4653,8 +4535,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0120.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 13 – Anlage Z10 „Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“
+# Anlage 13 – Anlage Z10 „Wertpapiergeschäfte und Finanzderivate im Außenwirtschaftsverkehr“
 
 (Fundstelle: BGBl. I 2013, 2952 - 2953)
 
@@ -4662,8 +4543,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0130.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 14 – Anlage Z11 „Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr“
+# Anlage 14 – Anlage Z11 „Zahlungen für Wertpapier-Erträge im Außenwirtschaftsverkehr“
 
 (Fundstelle: BGBl. I 2013, 2954 - 2956)
 
@@ -4673,8 +4553,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0150.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 15 – Anlage Z12 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze“
+# Anlage 15 – Anlage Z12 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Karten-Umsätze“
 
 (Fundstelle: BGBl. I 2013, 2957 - 2958)
 
@@ -4682,8 +4561,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0160.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 16 – Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks“
+# Anlage 16 – Anlage Z13 „Zahlungseingänge/Zahlungsausgänge im Reiseverkehr: Sorten und Fremdwährungsreiseschecks“
 
 (Fundstelle: BGBl. I 2013, 2959 - 2960)
 
@@ -4691,8 +4569,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0170.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 17 – Anlage Z14 „Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
+# Anlage 17 – Anlage Z14 „Zinseinnahmen und zinsähnliche Erträge im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
 
 (Fundstelle: BGBl. I 2013, 2961 - 2962)
 
@@ -4700,8 +4577,7 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0180.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 18 – Anlage Z15 „Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
+# Anlage 18 – Anlage Z15 „Zinsausgaben und zinsähnliche Aufwendungen im Außenwirtschaftsverkehr (ohne Wertpapierzinsen)“
 
 (Fundstelle: BGBl. I 2013, 2963 - 2964)
 
@@ -4709,7 +4585,6 @@ Anlage 1 Teil I Abschn. A Nr. 0013 Anmerkung 5 Kursivdruck: Aufgrund offensichtl
 
 <a href="../normengrafiken/bgbl1_2013/j2865-1_0190.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 19 – Anlage LV zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
+# Anlage 19 – Anlage LV zur Außenwirtschaftsverordnung Leistungsverzeichnis der Deutschen Bundesbank für die Zahlungsbilanz
 
 (Fundstelle: BAnz AT 28.10.2020 V1)

@@ -1,20 +1,15 @@
-# [GrAbfErlPolAbkG] Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung
-
-Ausfertigungsdatum: 03.02.1994
-
+% Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung
+% Ausfertigungsdatum: 03.02.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung des Bundesrates die Rechtsverordnungen zu erlassen, die zur Durchführung der Vereinbarungen nach Artikel 2 Abs. 3 des Abkommens über
 
@@ -24,8 +19,7 @@ b) die Strecken, auf denen die Bediensteten beider Vertragsparteien in den Verke
 
 erforderlich sind.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

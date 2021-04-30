@@ -1,20 +1,15 @@
-# [KonsVerLUXV] Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg  (Deutsch-Luxemburgische Konsultationsvereinbarungsverordnung - KonsVerLUXV)
-
-Ausfertigungsdatum: 09.07.2012
-
+% Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg  (Deutsch-Luxemburgische Konsultationsvereinbarungsverordnung - KonsVerLUXV)
+% Ausfertigungsdatum: 09.07.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) angefügt worden ist, und des Artikels 97 § 1 Absatz 9 Satz 2 des Einführungsgesetzes zur Abgabenordnung, der durch Artikel 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Abkommen
+# § 1 – Abkommen
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern vom 23. August 1958 (BGBl. 1959 II S. 1269, 1270), das zuletzt durch das Protokoll vom 11. Dezember 2009 (BGBl. 2010 II S. 1150, 1151) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 Die einheitliche Anwendung und Auslegung des Abkommens hinsichtlich der Besteuerung von
 
@@ -26,8 +21,7 @@ Die einheitliche Anwendung und Auslegung des Abkommens hinsichtlich der Besteuer
 
 auf der Grundlage entsprechender Konsultationsvereinbarungen im Sinn des § 2 Absatz 2 Satz 2 der Abgabenordnung, die zwischen den zuständigen Behörden im Sinn des Artikels 2 Absatz 1 Nummer 3 des Abkommens getroffen worden sind, richtet sich nach dieser Verordnung.
 
-
-## § 3 – Arbeitsentgelt
+# § 3 – Arbeitsentgelt
 
 (1) Die Aufteilung des Arbeitsentgelts zwischen Ansässigkeits- und Tätigkeitsstaat erfolgt auf der Grundlage der vertraglich vereinbarten Arbeitstage nach § 5.
 
@@ -37,8 +31,7 @@ auf der Grundlage entsprechender Konsultationsvereinbarungen im Sinn des § 2 Ab
 
 (+++ § 3: Zur Anwendung vgl. § 11 Nr. 1 +++)
 
-
-## § 4 – Vergütungen oder Zusatzvergütungen, Sonderfälle
+# § 4 – Vergütungen oder Zusatzvergütungen, Sonderfälle
 
 (1) Geleistete Überstunden sind bei der Aufteilung des Arbeitsentgelts zwischen Ansässigkeits- und Tätigkeitsstaat zu berücksichtigen, soweit der Arbeitgeber für sie Ausgleich geleistet hat. Arbeitszeiten, die der Arbeitnehmer vereinbarungsgemäß in Drittstaaten verbracht hat, sind im Rahmen der Aufteilung dem Ansässigkeitsstaat zuzuordnen.
 
@@ -52,8 +45,7 @@ auf der Grundlage entsprechender Konsultationsvereinbarungen im Sinn des § 2 Ab
 
 (+++ § 4: Zur Anwendung vgl. § 11 Nr. 1 +++)
 
-
-## § 5 – Vertraglich vereinbarte Arbeitstage
+# § 5 – Vertraglich vereinbarte Arbeitstage
 
 (1) Vertraglich vereinbarte Arbeitstage sind die Kalendertage pro Jahr abzüglich der Tage, an denen der Arbeitnehmer laut Arbeitsvertrag nicht verpflichtet ist, zu arbeiten. Übt der Arbeitnehmer seine Tätigkeit an Tagen aus, die nicht den vertraglich vereinbarten Arbeitstagen zuzuordnen sind, und erhält er für diese Tätigkeit kein gesondert berechnetes Entgelt, sondern Freizeitausgleich, sind diese Tage bei den vertraglich vereinbarten Arbeitstagen zu berücksichtigen.
 
@@ -63,15 +55,13 @@ auf der Grundlage entsprechender Konsultationsvereinbarungen im Sinn des § 2 Ab
 
 (+++ § 5: Zur Anwendung vgl. § 11 Nr. 1 +++)
 
-
-## § 6 – Tätigkeit in einem Staat
+# § 6 – Tätigkeit in einem Staat
 
 (1) Arbeitsentgelt, das auf Arbeitstage entfällt, an denen der Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine Tätigkeit ausschließlich in seinem Ansässigkeitsstaat ausgeübt hat, wird in diesem Staat besteuert.
 
 (2) Arbeitsentgelt, das auf Arbeitstage entfällt, an denen der Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine Tätigkeit ausschließlich in dem Vertragsstaat ausgeübt hat, in dem der Arbeitgeber des Berufskraftfahrers, des Lokomotivführers oder des Begleitpersonals seinen Wohnsitz hat, wird in diesem Staat besteuert.
 
-
-## § 7 – Tätigkeit in mehreren Staaten
+# § 7 – Tätigkeit in mehreren Staaten
 
 (1) Arbeitsentgelt, das auf Arbeitstage entfällt, an denen der Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal seine Tätigkeit ausschließlich
 
@@ -93,20 +83,17 @@ wird, unabhängig von der jeweiligen Verweildauer, zu gleichen Teilen auf den An
 
 § 7 Abs. 2 Satz 1 Eingangssatz Kursivdruck: Die falsche Schreibung des Wortes "Berufkraftfahrers" wurde berichtigt
 
-
-## § 8 – Sonderregelungen
+# § 8 – Sonderregelungen
 
 (1) Das Besteuerungsrecht für das Arbeitsentgelt, das auf freie Tage des Berufskraftfahrers, des Lokomotivführers oder des Begleitpersonals entfällt, steht den Vertragsstaaten in dem Verhältnis zu, das sich aus der Berechnung nach den §§ 6 und 7 ergibt. Die Besteuerung von Krankengeld steht dem Vertragsstaat zu, in dem der Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal der Sozialversicherungspflicht unterliegt.
 
 (2) Fahrten des Berufskraftfahrers, des Lokomotivführers oder des Begleitpersonals zwischen Wohnung und Arbeitsstätte sind nicht als Ausübung seiner nichtselbständigen Arbeit anzusehen. Regelmäßige Arbeitsstätte des Berufskraftfahrers, des Lokomotivführers oder des Begleitpersonals ist das Fahrzeug.
 
-
-## § 9 – Betriebsstätte im anderen Staat
+# § 9 – Betriebsstätte im anderen Staat
 
 Die §§ 6 bis 8 gelten sinngemäß für die Fälle, in denen der Berufskraftfahrer, der Lokomotivführer oder das Begleitpersonal mit Wohnsitz in einem der beiden Vertragsstaaten für seine Tätigkeit zu Lasten einer in dem anderen Vertragsstaat befindlichen Betriebsstätte des Arbeitgebers entlohnt wird.
 
-
-## § 10 – Abfindungen und Entschädigungen an Arbeitnehmer, Arbeitslosengeld
+# § 10 – Abfindungen und Entschädigungen an Arbeitnehmer, Arbeitslosengeld
 
 (1) Ist einer Abfindung Versorgungscharakter beizumessen, ist Artikel 12 Absatz 1 des Abkommens hierauf anzuwenden.
 
@@ -122,8 +109,7 @@ findet Artikel 10 Absatz 1 des Abkommens Anwendung. War der Arbeitnehmer in der 
 
 (4) Die Absätze 1 bis 3 sind auf die in Artikel 10 Absatz 3 und Artikel 11 des Abkommens genannten Einkünfte nicht anzuwenden.
 
-
-## § 11 – Anwendungszeitpunkt
+# § 11 – Anwendungszeitpunkt
 
 Diese Verordnung ist erstmals anzuwenden
 
@@ -131,12 +117,10 @@ Diese Verordnung ist erstmals anzuwenden
 
 2. in allen anderen Fällen auf Besteuerungssachverhalte seit dem 17. Oktober 2011.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,12 +1,7 @@
-# [BKrFQG] Gesetz über die Grundqualifikation und die Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr  (Berufskraftfahrerqualifikationsgesetz - BKrFQG)
-
-Ausfertigungsdatum: 26.11.2020
-
+% Gesetz über die Grundqualifikation und die Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr  (Berufskraftfahrerqualifikationsgesetz - BKrFQG)
+% Ausfertigungsdatum: 26.11.2020
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -26,8 +21,9 @@ Ausfertigungsdatum: 26.11.2020
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz findet Anwendung auf Fahrer, die
 
@@ -99,8 +95,7 @@ b) die Beförderung der Anlieferung dieser Güter zum Unternehmen, ihrem Versand
 
 4. erfolgt eine Beförderung gelegentlich, wenn sie häufiger als einmal, jedoch nicht regelmäßig oder dauerhaft erfolgt.
 
-
-## § 2 – Erwerb der Grundqualifikation und der beschleunigten Grundqualifikation
+# § 2 – Erwerb der Grundqualifikation und der beschleunigten Grundqualifikation
 
 (1) Die Grundqualifikation wird erworben durch
 
@@ -114,8 +109,7 @@ b) die Beförderung der Anlieferung dieser Güter zum Unternehmen, ihrem Versand
 
 (4) Wer im Rahmen des Erwerbs der Grundqualifikation oder der beschleunigten Grundqualifikation ein Kraftfahrzeug auf öffentlichen Straßen führt und die für das Führen dieses Kraftfahrzeugs vorgeschriebene Fahrerlaubnis nicht besitzt, muss von einer Person begleitet werden, die Inhaber einer Fahrlehrerlaubnis nach § 1 des Fahrlehrergesetzes ist. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes. Das Fahrzeug muss den Anforderungen eines für die Fahrausbildung zugelassenen Fahrzeugs genügen.
 
-
-## § 3 – Mindestalter und Qualifikation der Fahrer
+# § 3 – Mindestalter und Qualifikation der Fahrer
 
 (1) Fahrten im Güterkraftverkehr darf
 
@@ -161,8 +155,7 @@ c) das 23. Lebensjahr vollendet und eine beschleunigte Grundqualifikation nach �
 
 (7) Im Rahmen einer Berufsausbildung nach § 2 Absatz 1 Nummer 2 muss das Mindestalter nicht eingehalten werden; an die Stelle des Nachweises über das Vorliegen einer Grundqualifikation oder einer beschleunigten Grundqualifikation nach Absatz 1 oder nach Absatz 2 tritt eine Kopie des Ausbildungsvertrages. § 10 Absatz 1 Satz 1 Nummer 7 und 8 der Fahrerlaubnis-Verordnung bleibt unberührt.
 
-
-## § 4 – Besitzstand
+# § 4 – Besitzstand
 
 Die Regelungen zur Erlangung der Grundqualifikation und der beschleunigten Grundqualifikation finden keine Anwendung auf Fahrer, die eine Fahrerlaubnis besitzen oder eine Fahrerlaubnis besessen haben, die ihnen entzogen worden ist, auf die sie verzichtet haben oder deren Geltungsdauer abgelaufen ist, sofern es sich um eine Fahrerlaubnis handelt, die
 
@@ -172,8 +165,7 @@ Die Regelungen zur Erlangung der Grundqualifikation und der beschleunigten Grund
 
 Die Pflicht zur Weiterbildung bleibt bestehen.
 
-
-## § 5 – Weiterbildung
+# § 5 – Weiterbildung
 
 (1) Die erste Weiterbildung ist fünf Jahre nach dem Erwerb der Grundqualifikation oder der beschleunigten Grundqualifikation abzuschließen. Abweichend von der Frist nach Satz 1 kann die Weiterbildung zu einem früheren oder späteren Zeitpunkt abgeschlossen werden, der mit dem Ende der Geltungsdauer der Fahrerlaubnis der Klassen C1, C1E, C, CE, D1, D1E, D und DE übereinstimmt, soweit die sich dann ergebende Frist nicht kürzer als drei Jahre und nicht länger als sieben Jahre ist.
 
@@ -187,8 +179,7 @@ Die Pflicht zur Weiterbildung bleibt bestehen.
 
 (6) Wechselt ein Fahrer zu einem anderen Unternehmen, so ist eine bereits erfolgte Weiterbildung anzurechnen.
 
-
-## § 6 – Ausbildungs- und Prüfungsort
+# § 6 – Ausbildungs- und Prüfungsort
 
 Fahrer, die ihren ordentlichen Wohnsitz im Sinne des § 7 der Fahrerlaubnis-Verordnung in der Bundesrepublik Deutschland haben oder Inhaber einer in der Bundesrepublik Deutschland erteilten Arbeitsgenehmigung-EU oder eines Aufenthaltstitels sind, der erkennen lässt, dass die Erwerbstätigkeit erlaubt ist (§ 4a Absatz 3 des Aufenthaltsgesetzes), müssen
 
@@ -202,8 +193,7 @@ b) in dem Mitgliedstaat der Europäischen Union oder dem anderen Vertragsstaat d
 
 c) in der Schweiz, wenn sie dort beschäftigt sind.
 
-
-## § 7 – Nachweis der Qualifikation
+# § 7 – Nachweis der Qualifikation
 
 (1) Die nach Landesrecht zuständige Behörde stellt auf Antrag einen Fahrerqualifizierungsnachweis aus über
 
@@ -225,13 +215,11 @@ c) in der Schweiz, wenn sie dort beschäftigt sind.
 
 (+++ § 7 Abs. 1: Tritt gem. Art. 3 Abs. 2 G v. 1.12.2020 I 2575 am 23.5.2021 in Kraft +++)
 
-
-## § 8 – Pflicht zum Mitführen des Nachweises
+# § 8 – Pflicht zum Mitführen des Nachweises
 
 Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 7 bei jeder Fahrt mitzuführen und den Kontrollberechtigten auf Verlangen zur Prüfung auszuhändigen.
 
-
-## § 9 – Anerkennung von Ausbildungsstätten
+# § 9 – Anerkennung von Ausbildungsstätten
 
 (1) Ausbildungsstätten für die beschleunigte Grundqualifikation und die Weiterbildung müssen von der nach Landesrecht zuständigen Behörde anerkannt sein.
 
@@ -249,8 +237,7 @@ Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 
 
 (4) Ausbildungsstätten, die nicht anerkannt sind, dürfen Unterricht zur beschleunigten Grundqualifikation oder zur Weiterbildung weder anbieten noch durchführen.
 
-
-## § 10 – Widerruf der Anerkennung, Untersagung der Tätigkeit
+# § 10 – Widerruf der Anerkennung, Untersagung der Tätigkeit
 
 (1) Die nach Landesrecht zuständige Behörde kann die Anerkennung einer Ausbildungsstätte widerrufen, wenn durch Handlungen einer verantwortlichen Person in grober Weise gegen die Pflichten dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nach § 27 verstoßen wurde. Verwaltungsrechtliche Vorschriften über den Widerruf von Verwaltungsakten bleiben unberührt.
 
@@ -266,8 +253,7 @@ Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 
 
 (5) In Fällen der Absätze 1, 2 und 4 haben Widerspruch und Anfechtungsklage keine aufschiebende Wirkung.
 
-
-## § 11 – Überwachung anerkannter Ausbildungsstätten
+# § 11 – Überwachung anerkannter Ausbildungsstätten
 
 (1) Die Überwachung der Tätigkeit der Ausbildungsstätten obliegt der nach Landesrecht zuständigen Behörde. Sie kann zu diesem Zweck alle erforderlichen Maßnahmen ergreifen. Sie kann insbesondere verlangen, dass ihre Vertreter zu den Büro- und Geschäftszeiten der jeweiligen Ausbildungsstätte Unterrichts- und Geschäftsräume betreten, dort Prüfungen und Besichtigungen durchführen und am Unterricht teilnehmen können.
 
@@ -289,13 +275,11 @@ Fahrer haben den Nachweis über den Erwerb der jeweiligen Qualifikation nach § 
 
 Diese Angaben sind von der nach Landesrecht zuständigen Behörde und von den zur Durchführung der Überwachung beauftragten Personen oder Stellen spätestens sechs Jahre nach Abschluss des Unterrichts zu löschen.
 
-
-## §§ 12 bis 26 – (zukünftig in Kraft)
+# §§ 12 bis 26 – (zukünftig in Kraft)
 
 (+++ §§ 12 bis 26: Treten gem. Art. 3 Abs. 2 G v. 1.12.2020 I 2575 am 23.5.2021 in Kraft +++)
 
-
-## § 27 – Verordnungsermächtigung
+# § 27 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu treffen über
 
@@ -317,8 +301,7 @@ b) die Art und Weise des Unterrichts und der Prüfungen und die Ausstellung, Auf
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die für die Durchführung dieses Gesetzes zuständigen Behörden zu bestimmen. Die Landesregierungen können diese Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
 
-
-## § 28 – Bußgeldvorschriften
+# § 28 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 3 Absatz 4 eine Fahrt anordnet oder zulässt.
 
@@ -348,13 +331,11 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (4) Soweit eine Ordnungswidrigkeit nach Absatz 1 oder nach Absatz 2 Nummer 1 oder 2 bei einer Kontrolle des Bundesamtes für Güterverkehr festgestellt wird oder in einem Unternehmen begangen wird, das seinen Sitz im Ausland hat, ist das Bundesamt für Güterverkehr Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
-
-## § 29 – Verkündung von Rechtsverordnungen
+# § 29 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 30 – Übergangsvorschriften
+# § 30 – Übergangsvorschriften
 
 (1) Die bis zum 2. Dezember 2020 nach § 7 Absatz 1 Nummer 1 bis 4 des Berufskraftfahrer-Qualifikations-Gesetzes vom 14. August 2006 (BGBl. I S. 1958), das zuletzt durch Artikel 3 des Gesetzes vom 30. Juni 2017 (BGBl. I S. 2162) geändert worden ist, gesetzlich anerkannten Ausbildungsstätten gelten bis zu ihrer Anerkennung durch die nach Landesrecht zuständige Behörde als anerkannt im Sinne des § 9 Absatz 1, längstens jedoch bis zum 2. Dezember 2022.
 
@@ -382,8 +363,7 @@ Rechtsverordnungen können abweichend von § 2 Absatz 1 des Verkündungs- und Be
 
 (Grenzgänger), abweichend von den bundesrechtlichen Vorschriften zum Nachweis der Berufskraftfahrerqualifikation einen Fahrerqualifizierungsnachweis nach dem Muster der Anlage 5 der Berufskraftfahrerqualifikationsverordnung vorzusehen und die zur Ausstellung dieses Nachweises erforderlichen Vorschriften, auch zum Verfahren, zu erlassen. Dieser Fahrerqualifizierungsnachweis steht einem Nachweis nach § 7 gleich. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen.
 
-
-## Anlage – (zu § 1 Absatz 3 Nummer 2)Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum
+# Anlage – (zu § 1 Absatz 3 Nummer 2)Liste über die Zuordnung der Stadt- und Landkreise zum städtischen oder ländlichen Raum
 
 (Fundstelle: BGBl. I 2020, 2585 - 2595)
 

@@ -1,20 +1,15 @@
-# [ZGÄndG 14] Vierzehntes Gesetz zur Änderung des Zollgesetzes
-
-Ausfertigungsdatum: 03.08.1973
-
+% Vierzehntes Gesetz zur Änderung des Zollgesetzes
+% Ausfertigungsdatum: 03.08.1973
  
-
-## Art 1
-
-\-
-
-
-## Art 2
+# Art 1
 
 \-
 
+# Art 2
 
-## Art 3 – Steuerfreiheit zur Erleichterung des Warenverkehrs und zur Vereinfachung der Verwaltung
+\-
+
+# Art 3 – Steuerfreiheit zur Erleichterung des Warenverkehrs und zur Vereinfachung der Verwaltung
 
 Der Bundesminister der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur Erleichterung des Warenverkehrs über die Grenzen und zur Vereinfachung der Verwaltung ganz oder teilweise Freiheit von der Einfuhrumsatzsteuer und von anderen Verbrauchsteuern anzuordnen
 
@@ -32,17 +27,14 @@ Der Bundesminister der Finanzen wird ermächtigt, durch Rechtsverordnung, die ni
 
 soweit dadurch schutzwürdige Interessen der inländischen Wirtschaft nicht verletzt werden und keine unangemessenen Steuervorteile entstehen. Er hat dabei Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften zu berücksichtigen.
 
-
-## Art 4
+# Art 4
 
 \-
 
-
-## Art 5
+# Art 5
 
 Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## Art 6
+# Art 6
 
 Dieses Gesetz tritt am ersten Tag des seiner Verkündung folgenden Monats in Kraft.

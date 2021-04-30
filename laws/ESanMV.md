@@ -1,15 +1,11 @@
-# [ESanMV] Verordnung zur Bestimmung von Mindestanforderungen für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden nach § 35c des Einkommensteuergesetzes  (Energetische Sanierungsmaßnahmen-Verordnung - ESanMV)
-
-Ausfertigungsdatum: 02.01.2020
-
+% Verordnung zur Bestimmung von Mindestanforderungen für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden nach § 35c des Einkommensteuergesetzes  (Energetische Sanierungsmaßnahmen-Verordnung - ESanMV)
+% Ausfertigungsdatum: 02.01.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 35c des Einkommensteuergesetzes, der durch Artikel 1 des Gesetzes vom 21. Dezember 2019 (BGBl. I S. 2886) eingefügt worden ist, verordnet die Bundesregierung mit Zustimmung des Bundestages und des Bundesrates:
 
-
-## § 1 – Mindestanforderungen an energetische Einzelmaßnahmen
+# § 1 – Mindestanforderungen an energetische Einzelmaßnahmen
 
 Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1 Satz 3 des Einkommensteuergesetzes, die die zu dieser Verordnung jeweils aufgeführten Mindestanforderungen erfüllen; im Einzelnen:
 
@@ -31,8 +27,7 @@ Berücksichtigt werden bauliche Maßnahmen im Sinne des § 35c Absatz 1 Satz 3 d
 
 Für alle baulichen Maßnahmen nach Satz 1 gilt, dass die Aufwendungen für den fachgerechten Einbau beziehungsweise die fachgerechte Installation, für die Inbetriebnahme von Anlagen, für notwendige Umfeldmaßnahmen sowie die direkt mit der Maßnahme verbundenen Materialkosten zu berücksichtigen sind. Die Einhaltung der in den Anlagen zu dieser Verordnung jeweils aufgeführten Mindestanforderungen ist durch ein Fachunternehmen nach § 2 zu bestätigen.
 
-
-## § 2 – Anforderung an ein Fachunternehmen
+# § 2 – Anforderung an ein Fachunternehmen
 
 (1) Fachunternehmen gemäß § 35c Absatz 1 Satz 6 des Einkommensteuergesetzes ist jedes Unternehmen, das in den nachfolgend aufgeführten Gewerken tätig ist:
 
@@ -74,13 +69,11 @@ Bei der ausgeführten energetischen Maßnahme muss es sich zudem um eine Maßnah
 
 3. die Person mit Ausstellungsberechtigung nach § 21 der Energieeinsparverordnung durch das Unternehmen oder den Steuerpflichtigen mit der planerischen Begleitung oder Beaufsichtigung der energetischen Maßnahme betraut worden ist.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
-
-## Anlage 1 – Wärmedämmung von Wänden
+# Anlage 1 – Wärmedämmung von Wänden
 
 (Fundstelle: BGBl. I 2020, 5)
 
@@ -105,8 +98,7 @@ Sofern Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhalten
 
 Zu beachten sind die besonderen bauphysikalischen Anforderungen bei Innenwanddämmung im Hinblick auf Tauwasserbildung und Wärmebrücken bei Planung und Ausführung.
 
-
-## Anlage 2 – Wärmedämmung von Dachflächen
+# Anlage 2 – Wärmedämmung von Dachflächen
 
 (Fundstelle: BGBl. I 2020, 6)
 
@@ -127,8 +119,7 @@ Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfol
 
 Ist die Möglichkeit zur Wärmedämmung eines Daches durch Auflagen des Denkmalschutzes oder zum Schutz sonstiger besonders erhaltenswerter Bausubstanz begrenzt, so gilt die Bauteilanforderung als erfüllt, wenn die nach anerkannten Regeln der Technik höchstmögliche Dämmschichtdicke (bei einem Bemessungswert der Wärmeleitfähigkeit von λ≤ 0,040 W/(m² K)) eingebaut wird.
 
-
-## Anlage 3 – Wärmedämmung von Geschossdecken
+# Anlage 3 – Wärmedämmung von Geschossdecken
 
 (Fundstelle: BGBl. I 2020, 7)
 
@@ -151,8 +142,7 @@ Bei allen Maßnahmen ist auf eine wärmebrückenminimierte und luftdichte Ausfü
 
 Für Gebäude ist der hydraulische Abgleich durchzuführen, wenn mit den nachfolgend aufgeführten Dämmmaßnahmen (transparente und opake Bauteile) mehr als 50 Prozent der wärmeübertragenden Umfassungsfläche wärmeschutztechnisch verbessert werden.
 
-
-## Anlage 4 – Erneuerung der Fenster oder Außentüren
+# Anlage 4 – Erneuerung der Fenster oder Außentüren
 
 (Fundstelle: BGBl. I 2020, 8 - 9)
 
@@ -183,8 +173,7 @@ Bei der Erneuerung barrierearmer Fenster, Balkon- und Terrassentüren müssen di
 
 Beim Einbau einbruchhemmender Fenster, Balkon- und Terrassentüren müssen diese die Widerstandsklasse RC 2 nach DIN EN 1627 oder besser aufweisen (auch ohne Nachweis über die Berücksichtigung der Festigkeit und Ausführung der umgebenden Wände).
 
-
-## Anlage 5 – Erneuerung oder Einbau einer Lüftungsanlage
+# Anlage 5 – Erneuerung oder Einbau einer Lüftungsanlage
 
 (Fundstelle: BGBl. I 2020, 10)
 
@@ -228,8 +217,7 @@ Die jeweiligen Anforderungen an die spezifische elektrische Leistungsaufnahme vo
 
 Lüftungsanlagen müssen die zum Zeitpunkt des Einbaus geltenden Anforderungen der Ökodesign-Richtlinie an die umweltgerechte Gestaltung von Wohnungslüftungsanlagen einhalten.
 
-
-## Anlage 6 – Erneuerung der Heizungsanlage
+# Anlage 6 – Erneuerung der Heizungsanlage
 
 (Fundstelle: BGBl. I 2020, 11 - 16)
 
@@ -500,8 +488,7 @@ Für Anlagen ab 10 kWel ist eine Informations- und Kommunikationstechnik vorhand
 
 Förderfähig sind der Erstanschluss an Nah- und Fernwärme inklusive von Wärmeübergabestationen und Hausanschlussleitungen sowie bei bestehendem Anschluss der Austausch oder der erstmalige Einbau von Wärmeübergabestationen, sofern diese in das Eigentum des Anschlussnehmers übergehen.
 
-
-## Anlage 7 – Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung
+# Anlage 7 – Einbau von digitalen Systemen zur energetischen Betriebs- und Verbrauchsoptimierung
 
 (Fundstelle: BGBl. I 2020, 17)
 
@@ -562,8 +549,7 @@ Einstellarbeiten an der Regelung der Heizungs-, Beleuchtungs-, Lüftungs- bzw. K
 
 Nicht förderfähig sind Endgeräte und Unterhaltungstechnik, wie zum Beispiel Handy, Tablet, Computer, Fernseher, Lautsprecher.
 
-
-## Anlage 8 – Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind
+# Anlage 8 – Optimierung bestehender Heizungsanlagen, sofern diese älter als zwei Jahre sind
 
 (Fundstelle: BGBl. I 2020, 18)
 

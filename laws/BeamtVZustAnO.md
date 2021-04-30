@@ -1,15 +1,11 @@
-# [BeamtVZustAnO] Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Versorgung der Beamtinnen und Beamten und der Richterinnen und Richter des Bundes sowie des Versorgungsausgleichs  (Beamtenversorgungszuständigkeitsanordnung - BeamtVZustAnO)
-
-Ausfertigungsdatum: 15.12.2015
-
+% Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten der Versorgung der Beamtinnen und Beamten und der Richterinnen und Richter des Bundes sowie des Versorgungsausgleichs  (Beamtenversorgungszuständigkeitsanordnung - BeamtVZustAnO)
+% Ausfertigungsdatum: 15.12.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach § 49 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 150) ordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern sowie den obersten Dienstbehörden und den unter der Aufsicht des Bundes stehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts nach der Anlage 1 dieser Anordnung an:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Anordnung regelt die Durchführung
 
@@ -25,8 +21,7 @@ Diese Anordnung regelt die Durchführung
 
 6. der Entscheidung über Widersprüche und der Vertretung des Dienstherrn bei Klagen aus den in den Nummern 1 bis 5 genannten Bereichen.
 
-
-## § 2 – Sachliche Zuständigkeit für die Festsetzung der Versorgungsbezüge
+# § 2 – Sachliche Zuständigkeit für die Festsetzung der Versorgungsbezüge
 
 Die Zuständigkeit der obersten Dienstbehörde für die Festsetzung der Versorgungsbezüge (einschließlich Dienstunfallfürsorge) gegenüber Versorgungsempfängerinnen und Versorgungsempfängern, deren Versorgung auf
 
@@ -54,8 +49,7 @@ g) Bundesbeauftragte oder Bundesbeauftragter für die Unterlagen des Staatssiche
 
 beruht, wird nach Maßgabe der Anlage 1 auf die Service-Center Versorgung der Generalzolldirektion nach Anlage 2 (im Folgenden Service-Center genannt) übertragen, soweit in dieser Anordnung nichts Abweichendes geregelt ist.
 
-
-## § 3 – Örtliche Zuständigkeit für die Festsetzung der Versorgungsbezüge
+# § 3 – Örtliche Zuständigkeit für die Festsetzung der Versorgungsbezüge
 
 (1) Zuständig ist das Service-Center, in dessen Zuständigkeitsbereich sich der Hauptwohnsitz der versorgungsberechtigten Person befindet. Für die Entscheidung nach § 49 Absatz 2 des Beamtenversorgungsgesetzes und die Erteilung einer Versorgungsauskunft nach § 49 Absatz 10 des Beamtenversorgungsgesetzes ist das Service-Center zuständig, in dessen Bereich sich der Hauptwohnsitz der Beamtin oder des Beamten befindet.
 
@@ -81,8 +75,7 @@ beruht,
 
 (6) Für das Bundesministerium der Verteidigung einschließlich seines Geschäftsbereichs ergibt sich die örtliche Zuständigkeit für die Aufgaben nach § 2 aus der Anlage 3.
 
-
-## § 4 – Sachliche Zuständigkeit für den Versorgungsausgleich und die Durchführung des Bundesversorgungsteilungsgesetzes
+# § 4 – Sachliche Zuständigkeit für den Versorgungsausgleich und die Durchführung des Bundesversorgungsteilungsgesetzes
 
 Die Service-Center sind nach Maßgabe der Anlage 1 zuständig für die
 
@@ -116,8 +109,7 @@ c) Ruhestandsbeamtinnen und Ruhestandsbeamte und zwischenzeitlich verstorbene Ru
 
 5. Geltendmachung von Erstattungsansprüchen gegenüber der gesetzlichen Rentenversicherung oder dem zuständigen Träger der Versorgungslast in den Fällen des § 5 des Bundesversorgungsteilungsgesetzes, soweit die Service-Center für die Zahlung der Leistungen nach dem Bundesversorgungsteilungsgesetz zuständig sind. Scheidet die ausgleichspflichtige Person aus dem Dienstverhältnis aus oder wechselt sie in den Zuständigkeitsbereich eines anderen Dienstherrn, hat die abgebende Dienststelle das für die Zahlung von Leistungen nach dem Bundesversorgungsteilungsgesetz zuständige Service-Center Dresden unverzüglich darüber zu informieren.
 
-
-## § 5 – Örtliche Zuständigkeit für den Versorgungsausgleich und die Durchführung des Bundesversorgungsteilungsgesetzes
+# § 5 – Örtliche Zuständigkeit für den Versorgungsausgleich und die Durchführung des Bundesversorgungsteilungsgesetzes
 
 (1) Für Beamtinnen und Beamte, Ruhestandsbeamtinnen und Ruhestandsbeamte und verstorbene Ruhestandsbeamtinnen und Ruhestandsbeamte ohne Hinterbliebene ist das Service-Center zuständig, in dessen Bereich die betroffene Person ihren Hauptwohnsitz hat oder hatte.
 
@@ -137,13 +129,11 @@ c) Ruhestandsbeamtinnen und Ruhestandsbeamte und zwischenzeitlich verstorbene Ru
 
 (7) Abweichend von den Absätzen 1 bis 6 richtet sich die örtliche Zuständigkeit für die Angehörigen des Bundesministeriums der Verteidigung einschließlich seines Geschäftsbereichs und deren Hinterbliebenen nach Anlage 3.
 
-
-## § 6 – Beteiligung am Verfahren in Versorgungsausgleichssachen
+# § 6 – Beteiligung am Verfahren in Versorgungsausgleichssachen
 
 Versorgungsträger im Sinne des § 219 Nummer 2 und 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind die Service-Center, soweit sie nach dieser Verordnung sachlich und örtlich zuständig sind.
 
-
-## § 7 – Sachliche Zuständigkeit bei der Versorgungslastenteilung
+# § 7 – Sachliche Zuständigkeit bei der Versorgungslastenteilung
 
 Die Service-Center sind nach Maßgabe der Anlage 1 zuständig für die
 
@@ -161,8 +151,7 @@ b) Prüfung der Dokumentation der Abfindungen und Mitteilung des anzufordernden 
 
 5. Erstattung von Versorgungslasten nach Artikel 25 des Vertrages der Bundesrepublik Deutschland mit der Evangelischen Kirche in Deutschland zur Regelung der evangelischen Militärseelsorge vom 22. Februar 1957 (BGBl. 1957 II S. 701, 702), auch in Verbindung mit Artikel 2 des Gesetzes über die Militärseelsorge in der im Bundesgesetzblatt Teil III, Gliederungsnummer 55-1, veröffentlichten bereinigten Fassung.
 
-
-## § 8 – Örtliche Zuständigkeit bei der Versorgungslastenteilung
+# § 8 – Örtliche Zuständigkeit bei der Versorgungslastenteilung
 
 (1) Übernimmt der Bund Beamtinnen und Beamte oder Richterinnen und Richter eines anderen Dienstherrn, ist für die Prüfung der Dokumentation der Abfindungen nach § 4 des Versorgungslastenteilungs-Staatsvertrags sowie der laufenden Erstattungen nach § 10 des Versorgungslastenteilungs-Staatsvertrags das Service-Center zuständig, dem nach den §§ 1 und 2 die weitere Festsetzung der Versorgungsbezüge obliegt oder obliegen würde.
 
@@ -174,37 +163,31 @@ b) Prüfung der Dokumentation der Abfindungen und Mitteilung des anzufordernden 
 
 (5) Die örtliche Zuständigkeit für die Angehörigen des Bundesministeriums der Verteidigung einschließlich seines Geschäftsbereichs und deren Hinterbliebene richtet sich nach Anlage 3.
 
-
-## § 9 – Unterrichtungsvorbehalt
+# § 9 – Unterrichtungsvorbehalt
 
 Ergeben sich bei der Prüfung der Dokumentation des oder der zahlungspflichtigen Dienstherren bei einem Dienstherrnwechsel zum Bund unaufklärbare Abweichungen von dem vom Service-Center ermittelten Betrag, so berichtet das Service-Center der obersten Dienstbehörde, in deren Geschäftsbereich die Beamtin oder der Beamte oder die Richterin oder der Richter gewechselt ist.
 
-
-## § 10 – Versorgungsangelegenheiten nach dem G 131
+# § 10 – Versorgungsangelegenheiten nach dem G 131
 
 (1) Für versorgungsberechtigte Personen nach dem G 131, die ihren Hauptwohnsitz im Inland haben, ist das Service-Center Dresden bundesweit zuständig.
 
 (2) Für versorgungsberechtigte Personen nach dem G 131, die ihren Hauptwohnsitz im Ausland haben, ist das Service-Center Köln zuständig.
 
-
-## § 11 – Weitere Aufgaben, die im Zusammenhang mit den Aufgaben nach den §§ 1 bis 10 stehen
+# § 11 – Weitere Aufgaben, die im Zusammenhang mit den Aufgaben nach den §§ 1 bis 10 stehen
 
 (1) Die Geltendmachung von nach § 76 des Bundesbeamtengesetzes auf den Dienstherrn übergegangenen gesetzlichen Schadensersatzansprüchen aus Unfällen der Versorgungsberechtigten ist Aufgabe des Grundsatzreferats Organisation der Generalzolldirektion, soweit diese Aufgabe nicht durch spezielle Verwaltungsvereinbarungen einem Service-Center zugeordnet ist.
 
 (2) Die Geltendmachung von nach § 76 des Bundesbeamtengesetzes auf den Dienstherrn übergegangenen gesetzlichen Schadensersatzansprüchen aus Unfällen der Beamtinnen und Beamten erfolgt – auch wenn die dienstunfallverletzte Person zwischenzeitlich in den Ruhestand versetzt wurde – bis zur endgültigen Entscheidung über das grundsätzliche Bestehen des Anspruchs durch die zuständige oberste Dienstbehörde oder die von ihr bestimmte Stelle.
 
-
-## § 12 – Andere Rechtsgebiete
+# § 12 – Andere Rechtsgebiete
 
 Die Zuständigkeit für Aufgaben, die zwar im Zusammenhang mit der Versorgungssachbearbeitung stehen, aber in anderen Rechtsgebieten wie zum Beispiel Disziplinarrecht, Strafrecht oder Statusrecht begründet sind, bleibt unberührt.
 
-
-## § 13 – Erstattung von Ausgaben für Polizeivollzugsbeamte der Länder auf Grund der Verwendung bei einer deutschen Auslandsvertretung
+# § 13 – Erstattung von Ausgaben für Polizeivollzugsbeamte der Länder auf Grund der Verwendung bei einer deutschen Auslandsvertretung
 
 Für die Erstattung der vom Bund längstens bis zum Erreichen der gesetzlichen Altersgrenze übernommenen Ausgaben für Versorgung und Unfallfürsorgeleistungen von Polizeivollzugsbeamtinnen und -beamten der Länder, die während der Abordnung zu einer deutschen Auslandsvertretung auf Grund eines verwendungsbedingten Schadens vorzeitig in den Ruhestand versetzt worden sind, ist das Service-Center zuständig, in dessen Zuständigkeitsbereich die anfordernde Landesbehörde ihren Sitz hat.
 
-
-## § 14 – Entscheidung über Widersprüche und Vertretung des Dienstherrn bei Klagen aus den in den §§ 1 bis 13 genannten Bereichen
+# § 14 – Entscheidung über Widersprüche und Vertretung des Dienstherrn bei Klagen aus den in den §§ 1 bis 13 genannten Bereichen
 
 (1) Nach § 126 Absatz 3 des Bundesbeamtengesetzes in Verbindung mit § 126 Absatz 3 Nummer 2 des Beamtenrechtsrahmengesetzes wird die Befugnis zur Entscheidung über Widersprüche aus den in den §§ 1 bis 13 genannten Bereichen den Service-Centern übertragen, soweit sie den mit dem Widerspruch angefochtenen Bescheid erlassen haben oder hätten erlassen müssen oder den Erlass eines Verwaltungsaktes abgelehnt haben.
 
@@ -216,15 +199,13 @@ Für die Erstattung der vom Bund längstens bis zum Erreichen der gesetzlichen A
 
 2. im Einzelfall oder in Gruppen von Fällen nach Absatz 2 die Vertretung abweichend zu regeln oder die Vertretung selbst zu übernehmen.
 
-
-## § 15 – Besonderheiten für das Bundesministerium der Verteidigung einschließlich seines Geschäftsbereichs
+# § 15 – Besonderheiten für das Bundesministerium der Verteidigung einschließlich seines Geschäftsbereichs
 
 (1) Für Widersprüche im Zusammenhang mit den nach dieser Anordnung übertragenen Aufgaben sowie für die Vertretung des Dienstherrn bei Klagen in diesem Bereich gilt die Anordnung des Bundesministers der Verteidigung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- und Wehrdienstverhältnis in Angelegenheiten der Besoldung, der Versorgung, des Wehrsolds und der Beihilfe vom 18. Juni 2013 (BGBl. I S. 1642) in der jeweils geltenden Fassung.
 
 (2) Soweit Entscheidungen im Zusammenhang mit übertragenen Aufgaben dem Bundesministerium der Verteidigung oder der von ihm bestimmten Stelle vorbehalten und die Service-Center für den Erlass des entsprechenden Verwaltungsaktes zuständig sind, leistet das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle im Rahmen der Rechtsmittelverfahren die erforderliche Amtshilfe und stellt insbesondere die erforderlichen Unterlagen zur Verfügung.
 
-
-## § 16 – Sonstige Regelungen
+# § 16 – Sonstige Regelungen
 
 (1) Dem Bundesministerium des Innern bleiben vorbehalten:
 
@@ -280,25 +261,21 @@ Für die Erstattung der vom Bund längstens bis zum Erreichen der gesetzlichen A
 
 (5) Soweit die erste Festsetzung der Versorgungsbezüge durch die obersten Dienstbehörden erfolgt und die weitere Festsetzung den Service-Centern obliegt, sendet die oberste Dienstbehörde dem örtlich zuständigen Service-Center den Pensionsfestsetzungsbescheid zusammen mit den erforderlichen Personalakten zu, zumindest aber die für die Rechnungsprüfung erforderlichen Personalunterlagen. In Dienstunfallangelegenheiten sind alle dienstunfallrechtlich relevanten Unterlagen mit zu übersenden. In Schadensersatzfällen nach § 76 des Bundesbeamtengesetzes ist eine Kopie einer bereits vorhandenen Akte über die Bearbeitung des Schadensersatzanspruchs mit zu übersenden. Das Service-Center leitet den Vorgang an das zuständige Rechtsreferat weiter.
 
-
-## § 17 – Amtshilfe
+# § 17 – Amtshilfe
 
 Die Service-Center unterstützen die obersten Dienstbehörden bei der Erteilung von Auskünften auch in Fällen, in denen ihnen durch diese Anordnung Zuständigkeiten nicht übertragen worden sind.
 
-
-## § 18 – Schriftverkehr
+# § 18 – Schriftverkehr
 
 (1) Die Service-Center legen die Fälle, in denen sie nach dieser Anordnung zu keiner Entscheidung befugt sind, dem für das Versorgungsrecht zuständigen Ministerium (§ 16 Absatz 1 Nummer 2) beziehungsweise der obersten Dienstbehörde, aus deren Geschäftsbereich die Ruhestandsbeamtin oder der Ruhestandsbeamte stammt, zur Entscheidung vor. Eine notwendige Beteiligung des Bundesministeriums des Innern in den Fällen des § 16 Absatz 1 Nummer 1 wird durch die oberste Dienstbehörde veranlasst.
 
 (2) Die Service-Center führen den nach dieser Anordnung erforderlichen Schriftwechsel mit den zuständigen Stellen unmittelbar. Sofern in dem Schriftwechsel mit den obersten Dienstbehörden Fragen von grundsätzlicher Bedeutung angesprochen werden oder die Sachverhalte von allgemeinem Interesse auch für die versorgungsberechtigten Personen aus dem Geschäftsbereich des Bundesministeriums der Finanzen sind, ist das Bundesministerium der Finanzen nachrichtlich zu beteiligen.
 
-
-## § 19 – Inkrafttreten, Außerkrafttreten
+# § 19 – Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt am 1. Januar 2016 in Kraft. Gleichzeitig tritt die Beamtenversorgungs-Zuständigkeitsanordnung vom 13. September 2013 (BGBl. I S. 3619) außer Kraft.
 
-
-## Anlage 1 – (zu § 2)
+# Anlage 1 – (zu § 2)
 
 (Fundstelle: BGBl. I 2015, 2364 - 2373)
 
@@ -357,8 +334,7 @@ Versorgungsberechtigten
 
 11
 
-1.  
-Bundespräsidialamt
+1. Bundespräsidialamt
 
   
 Service-  
@@ -399,8 +375,7 @@ Center
   
 Generalzolldirektion
 
-2.  
-Verwaltung des  
+2. Verwaltung des  
 Deutschen Bundestages
 
   
@@ -448,8 +423,7 @@ zuständig
   
 Generalzolldirektion
 
-3.  
-Verwaltung des  
+3. Verwaltung des  
 Bundesrates
 
   
@@ -487,8 +461,7 @@ Center
   
 Generalzolldirektion
 
-4.  
-Bundes-  
+4. Bundes-  
 verfassungsgericht
 
   
@@ -533,8 +506,7 @@ Erlass des Widerspruchsbescheids zuständig
   
 Bundesverfassungsgericht
 
-5.  
-Bundeskanzleramt
+5. Bundeskanzleramt
 
   
 Bundeskanzleramt
@@ -624,8 +596,7 @@ zuständig
   
 Generalzolldirektion
 
-6.  
-Auswärtiges Amt
+6. Auswärtiges Amt
 
   
 Service-  
@@ -708,8 +679,7 @@ Center
   
 Generalzolldirektion
 
-7.  
-Geschäftsbereich des  
+7. Geschäftsbereich des  
 Bundesministeriums  
 des Innern
 
@@ -806,8 +776,7 @@ Dresden
   
 Generalzolldirektion
 
-8.  
-Bundesministerium  
+8. Bundesministerium  
 der Justiz und für  
 Verbraucherschutz
 
@@ -987,8 +956,7 @@ Center
   
 Generalzolldirektion
 
-9.  
-Geschäftsbereich des  
+9. Geschäftsbereich des  
 Bundesministeriums  
 der Finanzen und  
 Bundesdruckerei
@@ -1171,8 +1139,7 @@ Center
   
 Generalzolldirektion
 
-10.  
-Bundesministerium für  
+10. Bundesministerium für  
 Wirtschaft und Energie
 
   
@@ -1264,8 +1231,7 @@ Center
   
 Generalzolldirektion
 
-11.  
-Bundesministerium für  
+11. Bundesministerium für  
 Arbeit und Soziales<span id="FnR.FnA1-F792144_09"></span><a href="#FnA1-F792144_09" class="FnR">9</a></sup>
 
   
@@ -1446,8 +1412,7 @@ Saarbrücken
   
 Generalzolldirektion
 
-12.  
-Bundesministerium  
+12. Bundesministerium  
 für Ernährung und  
 Landwirtschaft
 
@@ -1541,8 +1506,7 @@ Center
   
 Generalzolldirektion
 
-13.  
-Geschäftsbereich des  
+13. Geschäftsbereich des  
 Bundesministeriums  
 der Verteidigung
 
@@ -1677,8 +1641,7 @@ Behörden
 im Geschäftsbereich des Bundesministeriums  
 der Verteidigung
 
-14.  
-Bundesministerium für  
+14. Bundesministerium für  
 Familie, Senioren,  
 Frauen und Jugend
 
@@ -1771,8 +1734,7 @@ Center
   
 Generalzolldirektion
 
-15.  
-Bundesministerium  
+15. Bundesministerium  
 für Gesundheit
 
   
@@ -1856,8 +1818,7 @@ Center
   
 Generalzolldirektion
 
-16.  
-Bundesministerium für  
+16. Bundesministerium für  
 Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
   
@@ -1942,8 +1903,7 @@ Center
   
 Generalzolldirektion
 
-17.  
-Bundesministerium für  
+17. Bundesministerium für  
 Bildung und Forschung
 
   
@@ -2029,8 +1989,7 @@ Center
   
 Generalzolldirektion
 
-18.  
-Bundesministerium  
+18. Bundesministerium  
 für wirtschaftliche  
 Zusammenarbeit und Entwicklung
 
@@ -2074,8 +2033,7 @@ Erlass des Widerspruchsbescheids zuständig
   
 Generalzolldirektion
 
-19.  
-Presse- und  
+19. Presse- und  
 Informationsamt der  
 Bundesregierung
 
@@ -2118,8 +2076,7 @@ Center
   
 Generalzolldirektion
 
-20.  
-Geschäftsbereich  
+20. Geschäftsbereich  
 der oder des  
 Beauftragten der  
 Bundesregierung für  
@@ -2518,8 +2475,7 @@ Dresden
   
 Generalzolldirektion
 
-21.  
-Bundesrechnungshof
+21. Bundesrechnungshof
 
   
 Bundesrechnungshof
@@ -2582,8 +2538,7 @@ Generalzolldirektion
 
  
 
-22.  
-Ministerinnen/Minister der letzten  
+22. Ministerinnen/Minister der letzten  
 DDR-Regierung<span id="FnR.FnA1-F792144_14"></span><a href="#FnA1-F792144_14" class="FnR">14</a></sup>
 
   
@@ -2616,8 +2571,7 @@ DDR-Regierung<span id="FnR.FnA1-F792144_14"></span><a href="#FnA1-F792144_14" cl
   
 –
 
-23.  
-Ehemaliges Bundesministerium für Raum-ordnung, Bauwesen  
+23. Ehemaliges Bundesministerium für Raum-ordnung, Bauwesen  
 und Städtebau<span id="FnR.FnA1-F792144_15"></span><a href="#FnA1-F792144_15" class="FnR">15</a></sup>
 
  
@@ -2684,8 +2638,7 @@ Center
   
 Generalzolldirektion
 
-24.  
-Ehemaliges Bundesministerium für Angelegenheiten des Bundesrates und der Länder
+24. Ehemaliges Bundesministerium für Angelegenheiten des Bundesrates und der Länder
 
   
 –
@@ -2725,8 +2678,7 @@ Center
   
 Generalzolldirektion
 
-25.  
-Ehemaliges Bundesschatzministerium
+25. Ehemaliges Bundesschatzministerium
 
   
 –
@@ -2766,8 +2718,7 @@ Center
   
 Generalzolldirektion
 
-26.  
-Ehemaliges Bundesministerium für die  
+26. Ehemaliges Bundesministerium für die  
 Angelegenheiten des Bundesverteidigungsrates
 
   
@@ -2808,8 +2759,7 @@ Center
   
 Generalzolldirektion
 
-27.  
-Ehemaliges Bundesministerium für  
+27. Ehemaliges Bundesministerium für  
 besondere Aufgaben
 
   
@@ -2850,8 +2800,7 @@ Center
   
 Generalzolldirektion
 
-28.  
-Ehemaliges Bundes- ministerium für  
+28. Ehemaliges Bundes- ministerium für  
 innerdeutsche  
 Beziehungen
 
@@ -2893,8 +2842,7 @@ Center
   
 Generalzolldirektion
 
-29.  
-Ehemaliges Bundes- ministerium für Post und  
+29. Ehemaliges Bundes- ministerium für Post und  
 Telekommunikation
 
   
@@ -2935,8 +2883,7 @@ Center
   
 Generalzolldirektion
 
-30.  
-Ehemaliges Bundes- ministerium für Arbeit  
+30. Ehemaliges Bundes- ministerium für Arbeit  
 und Sozialordnung
 
   
@@ -2977,8 +2924,7 @@ Center
   
 Generalzolldirektion
 
-31.  
-Die oder der Beauftragte für den Datenschutz und die Informationsfreiheit
+31. Die oder der Beauftragte für den Datenschutz und die Informationsfreiheit
 
   
 Service-  
@@ -3021,8 +2967,7 @@ Generalzolldirektion
 
 Fußnoten:
 
-
-## Anlage 2 – (zu § 2)
+# Anlage 2 – (zu § 2)
 
 (Fundstelle: BGBl. I 2016, 2523 — 2524)
 
@@ -3030,15 +2975,13 @@ Fußnoten:
 
  
 
-
-## Anlage 3 – (zu § 3 Absatz 6)
+# Anlage 3 – (zu § 3 Absatz 6)
 
 (Fundstelle: BGBl. I 2015, 2375)
 
 1. Örtliche Zuständigkeit
 
-Die örtliche Zuständigkeit der Service-Center der Generalzolldirektion für die Angehörigen des Bundesministeriums der Verteidigung einschließlich seines Geschäftsbereichs und deren Hinterbliebene richtet sich danach, welche Außenstelle des Bundesverwaltungsamtes zuletzt für die Besoldungsbearbeitung zuständig war.  
-  
+Die örtliche Zuständigkeit der Service-Center der Generalzolldirektion für die Angehörigen des Bundesministeriums der Verteidigung einschließlich seines Geschäftsbereichs und deren Hinterbliebene richtet sich danach, welche Außenstelle des Bundesverwaltungsamtes zuletzt für die Besoldungsbearbeitung zuständig war.   
 
 1
 

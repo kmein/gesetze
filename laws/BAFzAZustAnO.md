@@ -1,10 +1,7 @@
-# [BAFzAZustAnO] Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben  (BAFzAZustAnO)
-
-Ausfertigungsdatum: 01.06.2018
-
+% Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben  (BAFzAZustAnO)
+% Ausfertigungsdatum: 01.06.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach
 
@@ -61,13 +58,11 @@ Nummer 5 Absatz 1 zweite Alternative der Vorschussrichtlinien des Bundesminister
 
 ordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend (Bundesministerium) an:
 
-
-## § 1 – Ernennung und Entlassung von Beamtinnen und Beamten
+# § 1 – Ernennung und Entlassung von Beamtinnen und Beamten
 
 Dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben (Bundesamt) wird die Befugnis zur Ernennung und Entlassung der Beamtinnen und Beamten der Besoldungsgruppen A 2 bis A 15 übertragen.
 
-
-## § 2 – Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesbeamtengesetz
+# § 2 – Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesbeamtengesetz
 
 Dem Bundesamt werden übertragen
 
@@ -83,8 +78,7 @@ Dem Bundesamt werden übertragen
 
 6. die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis, soweit die Klagen Beamtinnen oder Beamte der Besoldungsgruppen A 2 bis A 15 betreffen (§ 127 Absatz 1 des Bundesbeamtengesetzes).
 
-
-## § 3 – Übertragung von Zuständigkeiten nach der Bundeslaufbahnverordnung
+# § 3 – Übertragung von Zuständigkeiten nach der Bundeslaufbahnverordnung
 
 Dem Bundesamt werden übertragen
 
@@ -94,8 +88,7 @@ Dem Bundesamt werden übertragen
 
 3. die Zuständigkeit für die Entscheidung über die Gestaltung der Personalentwicklungskonzepte (§ 46 Absatz 1 Satz 2 der Bundeslaufbahnverordnung).
 
-
-## § 4 – Übertragung von Zuständigkeiten nach dem Bundesbesoldungsgesetz
+# § 4 – Übertragung von Zuständigkeiten nach dem Bundesbesoldungsgesetz
 
 Dem Bundesamt werden übertragen
 
@@ -103,8 +96,7 @@ Dem Bundesamt werden übertragen
 
 2. die Entscheidung über die Anweisung eines dienstlichen Wohnsitzes nach § 15 Absatz 2 Satz 1 des Bundesbesoldungsgesetzes.
 
-
-## § 5 – Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz
+# § 5 – Übertragung von Zuständigkeiten nach dem Beamtenversorgungsgesetz
 
 Dem Bundesamt werden übertragen
 
@@ -116,8 +108,7 @@ Dem Bundesamt werden übertragen
 
 4. die Zuständigkeit für die Entscheidung, ob ein Dienstunfall vorliegt und ob der Verletzte den Unfall vorsätzlich herbeigeführt hat (§ 45 Absatz 3 Satz 2 des Beamtenversorgungsgesetzes).
 
-
-## § 6 – Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesdisziplinargesetz
+# § 6 – Übertragung von Befugnissen und Zuständigkeiten nach dem Bundesdisziplinargesetz
 
 (1) Der Präsidentin oder dem Präsidenten des Bundesamts werden übertragen
 
@@ -129,8 +120,7 @@ Dem Bundesamt werden übertragen
 
 (2) Dem Bundesamt wird die Zuständigkeit für den Erlass des Widerspruchsbescheids nach § 42 Absatz 1 Satz 1 des Bundesdisziplinargesetzes übertragen.
 
-
-## § 7 – Zuständigkeit bei Funktionsübertragungen
+# § 7 – Zuständigkeit bei Funktionsübertragungen
 
 Über Funktionsübertragungen entscheidet die Präsidentin oder der Präsident des Bundesamts. Der Zustimmung des Bundesministeriums bedürfen
 
@@ -138,13 +128,11 @@ Dem Bundesamt werden übertragen
 
 2. die Übertragung der Leitung einer Abteilung.
 
-
-## § 8 – Übertragung von Zuständigkeiten nach der Arbeitszeitverordnung
+# § 8 – Übertragung von Zuständigkeiten nach der Arbeitszeitverordnung
 
 Dem Bundesamt werden die der obersten Dienstbehörde nach der Arbeitszeitverordnung zustehenden Befugnisse übertragen mit Ausnahme der Befugnisse nach § 7a der Arbeitszeitverordnung.
 
-
-## § 9 – Übertragung von Befugnissen und Zuständigkeiten auf dem Gebiet des Haushalts-, Kassen- und Rechnungswesens
+# § 9 – Übertragung von Befugnissen und Zuständigkeiten auf dem Gebiet des Haushalts-, Kassen- und Rechnungswesens
 
 (1) Dem Bundesamt werden übertragen
 
@@ -174,8 +162,7 @@ Satz 1 Nummer 3 gilt nicht in Fällen von grundsätzlicher oder von erheblicher 
 
 (2) Das Bundesamt legt dem Bundesministerium jährlich einen Bericht über die Anwendungsfälle nach Absatz 1 Satz 1 vor, soweit nicht bereits nach dem jeweiligen Rechnungslegungserlass entsprechende Meldungen erforderlich sind.
 
-
-## § 10 – Übertragung von Zuständigkeiten nach anderen Vorschriften
+# § 10 – Übertragung von Zuständigkeiten nach anderen Vorschriften
 
 (1) Dem Bundesamt werden übertragen
 
@@ -195,15 +182,13 @@ Satz 1 Nummer 3 gilt nicht in Fällen von grundsätzlicher oder von erheblicher 
 
 3. die Räumung einer bundeseigenen oder im Besetzungsrecht des Bundes stehenden Mietwohnung zu veranlassen (§ 4 Absatz 2 Nummer 2 des Bundesumzugskostengesetzes).
 
-
-## § 11 – Vorbehaltsklausel
+# § 11 – Vorbehaltsklausel
 
 (1) Das Bundesministerium behält sich vor, im Einzelfall die Befugnisse nach den §§ 1 bis 6 und 8 bis 10 selbst auszuüben.
 
 (2) Zweifelsfälle und Fälle von grundsätzlicher Bedeutung sind dem Bundesministerium zur Entscheidung vorzulegen.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt in Kraft. Gleichzeitig treten außer Kraft:
 

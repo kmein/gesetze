@@ -1,10 +1,7 @@
-# [BPräsAmtsbezAnO 1973-09] Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
-
-Ausfertigungsdatum: 26.09.1973
-
+% Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+% Ausfertigungsdatum: 26.09.1973
  
-
-## ----
+# ----
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest:
 

@@ -1,12 +1,7 @@
-# [HBPolVDAufstV] Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei  (HBPolVDAufstV)
-
-Ausfertigungsdatum: 31.03.2021
-
+% Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei  (HBPolVDAufstV)
+% Ausfertigungsdatum: 31.03.2021
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -28,13 +23,13 @@ Ausfertigungsdatum: 31.03.2021
 
  
 
+ 
 
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des gehobenen Polizeivollzugsdienstes, die sich für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei nach § 17 der Bundespolizei-Laufbahnverordnung beworben haben.
 
-
-## § 2 – Ziele der Ausbildung
+# § 2 – Ziele der Ausbildung
 
 Die Ausbildung hat folgende Ziele:
 
@@ -44,8 +39,7 @@ Die Ausbildung hat folgende Ziele:
 
 3. die persönliche und soziale Kompetenz der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten auszubauen.
 
-
-## § 3 – Bewertung der Leistungen in der Ausbildung und in der Abschlussprüfung
+# § 3 – Bewertung der Leistungen in der Ausbildung und in der Abschlussprüfung
 
 (1) Die Leistungen der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der Ausbildung und in der Abschlussprüfung werden wie folgt bewertet:
 
@@ -199,23 +193,19 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Rangpunktzahlen werden auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
-## § 4 – Erholungsurlaub
+# § 4 – Erholungsurlaub
 
 Die Zeiten des Erholungsurlaubs werden von der Bundespolizeiakademie bestimmt.
 
-
-## § 5 – Durchführende Behörde
+# § 5 – Durchführende Behörde
 
 Das Auswahlverfahren wird von der Bundespolizeiakademie im Auftrag des Bundespolizeipräsidiums durchgeführt.
 
-
-## § 6 – Zweck des Auswahlverfahrens
+# § 6 – Zweck des Auswahlverfahrens
 
 Im Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber für die Aufstiegsausbildung geeignet und befähigt sind.
 
-
-## § 7 – Zulassung zum Auswahlverfahren
+# § 7 – Zulassung zum Auswahlverfahren
 
 (1) Zum Auswahlverfahren wird zugelassen, wer neben den in § 17 Absatz 1 der Bundespolizei-Laufbahnverordnung genannten Voraussetzungen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
 
@@ -223,8 +213,7 @@ Im Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber für di
 
 (3) Wer zum Auswahlverfahren nicht zugelassen worden ist, erhält einen schriftlichen oder elektronischen Bescheid.
 
-
-## § 8 – Auswahlkommission
+# § 8 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet abweichend von § 36 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das Bundespolizeipräsidium eine Auswahlkommission bei der Bundespolizeiakademie ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -242,8 +231,7 @@ Mindestens zwei Mitglieder sollen dem Polizeivollzugsdienst in der Bundespolizei
 
 (4) Die Auswahlkommission ist beschlussfähig, wenn die oder der Vorsitzende und mindestens zwei weitere Mitglieder anwesend sind. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 9 – Bestandteile des Auswahlverfahrens
+# § 9 – Bestandteile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus
 
@@ -251,8 +239,7 @@ Das Auswahlverfahren besteht aus
 
 2. einem mündlichen Teil.
 
-
-## § 10 – Verwaltungsvorschriften zum Auswahlverfahren
+# § 10 – Verwaltungsvorschriften zum Auswahlverfahren
 
 Das Bundespolizeipräsidium regelt durch Verwaltungsvorschrift:
 
@@ -266,13 +253,11 @@ Das Bundespolizeipräsidium regelt durch Verwaltungsvorschrift:
 
 5. die Mindestpunktzahl, die für das Bestehen erforderlich ist.
 
-
-## § 11 – Bestehen des Auswahlverfahrens
+# § 11 – Bestehen des Auswahlverfahrens
 
 Wer mindestens die Mindestpunktzahl, die für das Bestehen erforderlich ist, erreicht hat, hat das Auswahlverfahren bestanden. Die Mindestpunktzahl ist die Hälfte der insgesamt vergebenen Punkte.
 
-
-## § 12 – Gesamtergebnis und Rangfolge
+# § 12 – Gesamtergebnis und Rangfolge
 
 (1) Für jede Bewerberin und jeden Bewerber, die oder der am Auswahlverfahren teilgenommen hat, ermittelt die Auswahlkommission das Gesamtergebnis des Auswahlverfahrens.
 
@@ -282,13 +267,11 @@ Wer mindestens die Mindestpunktzahl, die für das Bestehen erforderlich ist, err
 
 (4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält einen schriftlichen oder elektronischen Bescheid.
 
-
-## § 13 – Dienstaufsicht
+# § 13 – Dienstaufsicht
 
 Während der Ausbildung führt die Bundespolizeiakademie die Dienstaufsicht über die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die an der Ausbildung teilnehmen.
 
-
-## § 14 – Gliederung der Ausbildung
+# § 14 – Gliederung der Ausbildung
 
 Die Ausbildung gliedert sich in
 
@@ -300,8 +283,7 @@ Die Ausbildung gliedert sich in
 
 4. den zweiten Teil der theoretischen Ausbildung (Repetitorium).
 
-
-## § 15 – Ausbildungsplan
+# § 15 – Ausbildungsplan
 
 (1) Für die Ausbildung erstellt die Bundespolizeiakademie im Einvernehmen mit dem Bundespolizeipräsidium einen Ausbildungsplan.
 
@@ -315,8 +297,7 @@ Die Ausbildung gliedert sich in
 
 4. zur Seminararbeit und zu ihrer Bewertung.
 
-
-## § 16 – Fächer der theoretischen Ausbildung
+# § 16 – Fächer der theoretischen Ausbildung
 
 (1) Die Ausbildung erfolgt in den Fächern
 
@@ -332,8 +313,7 @@ Die Ausbildung gliedert sich in
 
 (2) Die theoretische Ausbildung erfolgt an der Bundespolizeiakademie.
 
-
-## § 17 – Klausuren in der theoretischen Ausbildung
+# § 17 – Klausuren in der theoretischen Ausbildung
 
 (1) In der theoretischen Ausbildung schreibt jede Polizeivollzugsbeamtin und jeder Polizeivollzugsbeamte zwei Klausuren, und zwar je eine
 
@@ -347,13 +327,11 @@ Die Ausbildung gliedert sich in
 
 (4) Über die Ergebnisse der Klausuren stellt die Bundespolizeiakademie der Polizeivollzugsbeamtin oder dem Polizeivollzugsbeamten eine schriftliche oder elektronische Bescheinigung aus.
 
-
-## § 18 – Bestehen der Klausuren
+# § 18 – Bestehen der Klausuren
 
 Eine Klausur hat bestanden, wer in der Klausur mindestens fünf Rangpunkte erreicht hat.
 
-
-## § 19 – Wiederholung von Klausuren
+# § 19 – Wiederholung von Klausuren
 
 (1) Wer eine Klausur nicht bestanden hat, kann sie wiederholen.
 
@@ -363,8 +341,7 @@ Eine Klausur hat bestanden, wer in der Klausur mindestens fünf Rangpunkte errei
 
 (4) Die bei der Wiederholung erreichten Rangpunkte ersetzen die zuvor erreichten.
 
-
-## § 20 – Seminararbeit
+# § 20 – Seminararbeit
 
 (1) Während der Ausbildung fertigt jede Polizeivollzugsbeamtin und jeder Polizeivollzugsbeamte eine Seminararbeit an.
 
@@ -376,13 +353,11 @@ Eine Klausur hat bestanden, wer in der Klausur mindestens fünf Rangpunkte errei
 
 (5) Über das Ergebnis der Seminararbeit stellt die Bundespolizeiakademie der Polizeivollzugsbeamtin oder dem Polizeivollzugsbeamten eine schriftliche oder elektronische Bescheinigung aus.
 
-
-## § 21 – Bestehen der Seminararbeit
+# § 21 – Bestehen der Seminararbeit
 
 Die Seminararbeit hat bestanden, wer in der Seminararbeit mindestens fünf Rangpunkte erreicht hat.
 
-
-## § 22 – Wiederholung der Seminararbeit
+# § 22 – Wiederholung der Seminararbeit
 
 (1) Wer die Seminararbeit nicht bestanden hat, kann sie einmal wiederholen.
 
@@ -390,8 +365,7 @@ Die Seminararbeit hat bestanden, wer in der Seminararbeit mindestens fünf Rangp
 
 (3) Die bei der Wiederholung erreichten Rangpunkte ersetzen die zuvor erreichten.
 
-
-## § 23 – Praktische Ausbildung
+# § 23 – Praktische Ausbildung
 
 (1) Die praktische Ausbildung dauert in der Regel 30 Wochen.
 
@@ -399,15 +373,13 @@ Die Seminararbeit hat bestanden, wer in der Seminararbeit mindestens fünf Rangp
 
 (3) Näheres regelt der Ausbildungsplan.
 
-
-## § 24 – Repetitorium
+# § 24 – Repetitorium
 
 (1) Das Repetitorium dauert zwei Wochen.
 
 (2) Das Repetitorium erfolgt an der Bundespolizeiakademie.
 
-
-## § 25 – Prüfungskommission
+# § 25 – Prüfungskommission
 
 (1) Für die Durchführung der Abschlussprüfung richtet das Prüfungsamt der Bundespolizeiakademie eine Prüfungskommission ein. Bei Bedarf können mehrere Prüfungskommissionen eingerichtet werden. In diesem Fall stellt das Prüfungsamt sicher, dass alle Prüfungskommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -425,8 +397,7 @@ Als Mitglieder der Prüfungskommission können auch vergleichbare Angestellte be
 
 (5) Die Prüfungskommission ist beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig.
 
-
-## § 26 – Zulassung zur Abschlussprüfung
+# § 26 – Zulassung zur Abschlussprüfung
 
 Zur Abschlussprüfung wird zugelassen, wer
 
@@ -434,13 +405,11 @@ Zur Abschlussprüfung wird zugelassen, wer
 
 2. die Seminararbeit bestanden hat.
 
-
-## § 27 – Zeitpunkt der Abschlussprüfung
+# § 27 – Zeitpunkt der Abschlussprüfung
 
 Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums statt.
 
-
-## § 28 – Zweck und Gegenstand der Abschlussprüfung
+# § 28 – Zweck und Gegenstand der Abschlussprüfung
 
 (1) In der Abschlussprüfung wird festgestellt,
 
@@ -450,8 +419,7 @@ Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums statt.
 
 (2) Gegenstand der Prüfung sind die fünf Fächer der theoretischen Ausbildung.
 
-
-## § 29 – Durchführung und Dauer der Abschlussprüfung
+# § 29 – Durchführung und Dauer der Abschlussprüfung
 
 (1) Die Abschlussprüfung wird in Form eines fächerübergreifenden Prüfungsgesprächs durchgeführt.
 
@@ -459,8 +427,7 @@ Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums statt.
 
 (3) Das Prüfungsgespräch soll je Prüfling 30 bis 45 Minuten dauern.
 
-
-## § 30 – Bewertung der Abschlussprüfung
+# § 30 – Bewertung der Abschlussprüfung
 
 (1) Die vom Prüfling in der Abschlussprüfung erbrachten Leistungen werden als Ganzes bewertet.
 
@@ -468,8 +435,7 @@ Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums statt.
 
 (3) Nach Abschluss der Beratung über das Ergebnis der Abschlussprüfung teilt die oder der Vorsitzende dem Prüfling die erreichten Rangpunkte mit und erläutert das Ergebnis der Abschlussprüfung mündlich.
 
-
-## § 31 – Prüfungsprotokoll
+# § 31 – Prüfungsprotokoll
 
 (1) Über die Abschlussprüfung wird ein Prüfungsprotokoll angefertigt.
 
@@ -479,8 +445,7 @@ Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums statt.
 
 (4) Das Prüfungsprotokoll ist von allen Mitgliedern der Prüfungskommission zu unterschreiben.
 
-
-## § 32 – Nichtöffentlichkeit der Abschlussprüfung
+# § 32 – Nichtöffentlichkeit der Abschlussprüfung
 
 (1) Die Abschlussprüfung ist nicht öffentlich.
 
@@ -498,13 +463,11 @@ Die Abschlussprüfung findet in der zweiten Woche des Repetitoriums statt.
 
 (4) Bei den Beratungen der Prüfungskommission dürfen außer den Mitgliedern der Prüfungskommission nur Angehörige des Prüfungsamts und die Person, die das Prüfungsprotokoll anfertigt, anwesend sein.
 
-
-## § 33 – Bestehen der Abschlussprüfung
+# § 33 – Bestehen der Abschlussprüfung
 
 Die Abschlussprüfung hat bestanden, wer in der Abschlussprüfung mindestens fünf Rangpunkte erreicht hat.
 
-
-## § 34 – Wiederholung der Abschlussprüfung
+# § 34 – Wiederholung der Abschlussprüfung
 
 (1) Wer die Abschlussprüfung nicht bestanden hat, kann sie einmal wiederholen. In Ausnahmefällen kann das Bundespolizeipräsidium im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat auf Antrag eine zweite Wiederholung zulassen.
 
@@ -514,8 +477,7 @@ Die Abschlussprüfung hat bestanden, wer in der Abschlussprüfung mindestens fü
 
 (4) Ist die Wiederholung nicht bestanden worden und eine weitere Wiederholung nicht mehr möglich, so ist die Abschlussprüfung endgültig nicht bestanden.
 
-
-## § 35 – Rangpunktzahl der Ausbildung und Gesamtnote
+# § 35 – Rangpunktzahl der Ausbildung und Gesamtnote
 
 (1) Für jede Person, die die Abschlussprüfung bestanden hat, berechnet das Prüfungsamt die Rangpunktzahl der Ausbildung.
 
@@ -531,8 +493,7 @@ Die berechnete Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet. Di
 
 (3) Der Rangpunktzahl der Ausbildung wird die entsprechende Note als Gesamtnote zugeordnet.
 
-
-## § 36 – Abschlusszeugnis
+# § 36 – Abschlusszeugnis
 
 (1) Jeder Person, die die Abschlussprüfung bestanden hat, stellt das Prüfungsamt ein Abschlusszeugnis aus.
 
@@ -546,13 +507,11 @@ Die berechnete Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet. Di
 
 (4) Wird die Abschlussprüfung nachträglich für nicht bestanden erklärt, so ist das Abschlusszeugnis zurückzugeben.
 
-
-## § 37 – Bescheid über die nicht bestandene Abschlussprüfung
+# § 37 – Bescheid über die nicht bestandene Abschlussprüfung
 
 Wer die Abschlussprüfung nicht bestanden hat, erhält einen schriftlichen oder elektronischen Bescheid über die nicht bestandene Abschlussprüfung.
 
-
-## § 38 – Verhinderung
+# § 38 – Verhinderung
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von der Abschlussprüfung gilt sie als nicht bestanden.
 
@@ -562,8 +521,7 @@ Wer die Abschlussprüfung nicht bestanden hat, erhält einen schriftlichen oder 
 
 (4) Die Genehmigung darf nur erteilt werden, wenn ein wichtiger Grund vorliegt. Bei Erkrankung soll die Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird.
 
-
-## § 39 – Ordnungsverstoß
+# § 39 – Ordnungsverstoß
 
 (1) Wenn ein Prüfling bei der Abschlussprüfung täuscht, eine Täuschung versucht oder an einer Täuschung oder einem Täuschungsversuch mitwirkt oder einen anderen Ordnungsverstoß begeht, soll ihm zunächst die Fortsetzung der Abschlussprüfung gestattet werden. Ist der Ordnungsverstoß erheblich, so kann er jedoch sofort von der weiteren Teilnahme an der Abschlussprüfung ausgeschlossen werden.
 
@@ -579,8 +537,7 @@ Wer die Abschlussprüfung nicht bestanden hat, erhält einen schriftlichen oder 
 
 (5) Die oder der Betroffene ist vor einer Entscheidung nach Absatz 3 anzuhören.
 
-
-## § 40 – Prüfungsakten und Einsichtnahme
+# § 40 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jedem Prüfling führt die Bundespolizeiakademie eine Prüfungsakte.
 
@@ -598,7 +555,6 @@ Wer die Abschlussprüfung nicht bestanden hat, erhält einen schriftlichen oder 
 
 (4) Auf Antrag können die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten nach Beendigung der Abschlussprüfung beim Prüfungsamt der Bundespolizeiakademie Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme wird in den Prüfungsakten vermerkt.
 
-
-## § 41 – Zuständigkeit für die Entscheidung über Widersprüche
+# § 41 – Zuständigkeit für die Entscheidung über Widersprüche
 
 Über Widersprüche gegen Entscheidungen im Prüfungsverfahren, die auf Grund dieser Verordnung getroffen werden, entscheidet das Prüfungsamt der Bundespolizeiakademie.

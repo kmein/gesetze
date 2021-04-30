@@ -1,15 +1,11 @@
-# [FVerlV] Verordnung zur Anwendung des Fremdvergleichsgrundsatzes nach § 1 Abs. 1 des Außensteuergesetzes in Fällen grenzüberschreitender Funktionsverlagerungen  (Funktionsverlagerungsverordnung - FVerlV)
-
-Ausfertigungsdatum: 12.08.2008
-
+% Verordnung zur Anwendung des Fremdvergleichsgrundsatzes nach § 1 Abs. 1 des Außensteuergesetzes in Fällen grenzüberschreitender Funktionsverlagerungen  (Funktionsverlagerungsverordnung - FVerlV)
+% Ausfertigungsdatum: 12.08.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 3 Satz 13 des Außensteuergesetzes vom 8. September 1972 (BGBl. I S. 1713), der durch Artikel 7 des Gesetzes vom 14. August 2007 (BGBl. I S. 1912) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) ¹Eine Funktion ist eine Geschäftstätigkeit, die aus einer Zusammenfassung gleichartiger betrieblicher Aufgaben besteht, die von bestimmten Stellen oder Abteilungen eines Unternehmens erledigt werden.²Sie ist ein organischer Teil eines Unternehmens, ohne dass ein Teilbetrieb im steuerlichen Sinn vorliegen muss.
 
@@ -25,8 +21,7 @@ Auf Grund des § 1 Abs. 3 Satz 13 des Außensteuergesetzes vom 8. September 1972
 
 (7) ¹Eine Funktionsverlagerung im Sinne des Absatzes 2 liegt ebenfalls nicht vor, wenn ausschließlich Wirtschaftsgüter veräußert oder zur Nutzung überlassen werden oder wenn nur Dienstleistungen erbracht werden, es sei denn, diese Geschäftsvorfälle sind Teil einer Funktionsverlagerung.²Entsprechendes gilt, wenn Personal im Konzern entsandt wird, ohne dass eine Funktion mit übergeht, oder wenn der Vorgang zwischen voneinander unabhängigen Dritten nicht als Veräußerung oder Erwerb einer Funktion angesehen würde.
 
-
-## § 2 – Anwendung der Regelungen zum Transferpaket
+# § 2 – Anwendung der Regelungen zum Transferpaket
 
 (1) ¹In Fällen von Funktionsverlagerungen, in denen die Preisbestimmung für das Transferpaket als Ganzes auf Grund uneingeschränkt oder eingeschränkt vergleichbarer Vergleichswerte erfolgen kann, ist vorrangig § 1 Abs. 3 Satz 1 bis 4 des Außensteuergesetzes anzuwenden.²Anderenfalls ist die Preisbestimmung für das Transferpaket entsprechend dem hypothetischen Fremdvergleich nach § 1 Abs. 3 Satz 5 und 6 des Außensteuergesetzes vorzunehmen.³§ 1 Abs. 3 Satz 10 erste Alternative des Außensteuergesetzes bleibt unberührt.
 
@@ -34,15 +29,13 @@ Auf Grund des § 1 Abs. 3 Satz 13 des Außensteuergesetzes vom 8. September 1972
 
 (3) ¹In Fällen, in denen nach § 1 Abs. 3 Satz 10 zweite Alternative des Außensteuergesetzes eine Verrechnungspreisermittlung für eine Funktionsverlagerung auf der Grundlage der Summe der Verrechnungspreise für die einzelnen betroffenen Wirtschaftsgüter und Vorteile anzuerkennen ist, sind sowohl der Einigungsbereich als auch der Wert für das Transferpaket als Ganzes nach § 1 Abs. 3 Satz 7 und 9 des Außensteuergesetzes zu ermitteln.²Die Summe der Einzelverrechnungspreise für die Wirtschaftsgüter und Vorteile, die vollständig zu erfassen sind, darf nur angesetzt werden, wenn sie im Einigungsbereich liegt und der Steuerpflichtige glaubhaft macht, dass sie dem Fremdvergleichsgrundsatz entspricht.
 
-
-## § 3 – Wert des Transferpakets
+# § 3 – Wert des Transferpakets
 
 (1) Ist in den Fällen des § 2 Abs. 1 Satz 2 der Wert für ein dem verlagernden Unternehmen zuzurechnendes Transferpaket als Ganzes zu bestimmen, muss dieser Wert, dem Fremdvergleichsgrundsatz im Sinne des § 1 Abs. 1 des Außensteuergesetzes entsprechend, aus der Sicht der beteiligten Unternehmen in Übereinstimmung mit den Gewinnen stehen, die zum Zeitpunkt der Verlagerung aus der Ausübung der Funktion erwartet werden können und der Funktion zuzuordnen sind (Gewinnpotenziale).
 
 (2) ¹Die jeweiligen Gewinnpotenziale sind unter Berücksichtigung aller Umstände des Einzelfalles auf der Grundlage einer Funktionsanalyse vor und nach der Funktionsverlagerung unter Berücksichtigung tatsächlich bestehender Handlungsmöglichkeiten zu ermitteln und beinhalten auch Standortvorteile oder -nachteile und Synergieeffekte.²Ausgangspunkt für die Berechnungen sind die Unterlagen, die Grundlage für die Unternehmensentscheidung waren, eine Funktionsverlagerung durchzuführen.³Für die Berechnung der jeweiligen Gewinnpotenziale und des Einigungsbereichs (§ 7) sind die dem Maßstab des § 1 Absatz 1 Satz 3 des Außensteuergesetzes entsprechenden Gewinnerwartungen der beteiligten Unternehmen, angemessene Kapitalisierungszinssätze (§ 5) und ein von den Umständen der Funktionsausübung abhängiger Kapitalisierungszeitraum (§ 6) zu Grunde zu legen.
 
-
-## § 4 – Bestandteile des Transferpakets
+# § 4 – Bestandteile des Transferpakets
 
 (1) Werden für einzelne Teile des Transferpakets unterschiedliche Vereinbarungen getroffen oder sind solche Vereinbarungen dem Fremdvergleichsgrundsatz entsprechend anzunehmen, sind für alle Teile des Transferpakets Verrechnungspreise anzusetzen, die insgesamt dem nach § 3 Abs. 1 bestimmten Wert des Transferpakets als Ganzes entsprechen.
 
@@ -50,18 +43,15 @@ Auf Grund des § 1 Abs. 3 Satz 13 des Außensteuergesetzes vom 8. September 1972
 
 (3) In den Fällen des § 1 Abs. 6, in denen sich nachträglich herausstellt, dass eine Funktionsverlagerung vorliegt, sind die Verrechnungspreise für die Geschäftsvorfälle, die dazu geführt haben, dass eine Funktionsverlagerung vorliegt, dem Fremdvergleichsgrundsatz entsprechend so anzusetzen, dass sie zusammen mit den ursprünglich bestimmten Verrechnungspreisen dem nach § 3 Abs. 1 bestimmten Wert des Transferpakets als Ganzes entsprechen.
 
-
-## § 5 – Kapitalisierungszinssatz
+# § 5 – Kapitalisierungszinssatz
 
 ¹Zur Bestimmung des jeweils angemessenen Kapitalisierungszinssatzes ist unter Berücksichtigung der Steuerbelastung vom Zins für eine risikolose Investition auszugehen, auf den ein funktions- und risikoadäquater Zuschlag vorzunehmen ist.²Die Laufzeit der vergleichbaren risikolosen Investition richtet sich danach, wie lange die übernommene Funktion voraussichtlich ausgeübt wird.³Der Zuschlag ist so zu bemessen, dass er sowohl für das übernehmende als auch für das verlagernde Unternehmen die in vergleichbaren Fällen jeweils unternehmensübliche Risikobeurteilung berücksichtigt.
 
-
-## § 6 – Kapitalisierungszeitraum
+# § 6 – Kapitalisierungszeitraum
 
 Werden keine Gründe für einen bestimmten, von den Umständen der Funktionsausübung abhängigen Kapitalisierungszeitraum glaubhaft gemacht oder sind solche Gründe nicht ersichtlich, ist ein unbegrenzter Kapitalisierungszeitraum zu Grunde zu legen.
 
-
-## § 7 – Bestimmung des Einigungsbereichs
+# § 7 – Bestimmung des Einigungsbereichs
 
 (1) ¹Für ein verlagerndes Unternehmen, das aus der Funktion Gewinne zu erwarten hat, ergibt sich die Untergrenze des Verhandlungsrahmens (Mindestpreis des Einigungsbereichs) im Sinne des § 1 Abs. 3 Satz 6 des Außensteuergesetzes aus dem Ausgleich für den Wegfall oder die Minderung des Gewinnpotenzials zuzüglich der gegebenenfalls anfallenden Schließungskosten.²Tatsächlich bestehende Handlungsmöglichkeiten, die das verlagernde Unternehmen als vom übernehmenden Unternehmen unabhängiges Unternehmen hätte, sind zu berücksichtigen, ohne die unternehmerische Dispositionsbefugnis des verlagernden Unternehmens in Frage zu stellen.
 
@@ -73,37 +63,30 @@ Werden keine Gründe für einen bestimmten, von den Umständen der Funktionsaus�
 
 (5) Auch in den Fällen der Absätze 2 und 3, in denen der Mindestpreis des verlagernden Unternehmens bei Null oder darunter liegt, ist nach dem Fremdvergleichsgrundsatz zu prüfen, ob ein unabhängiger Dritter nach § 1 Abs. 3 Satz 9 in Verbindung mit § 1 Abs. 3 Satz 7 des Außensteuergesetzes bereit wäre, einen Preis für die Übernahme der Funktion zu bezahlen.
 
-
-## § 8 – Schadenersatz-, Entschädigungs- und Ausgleichsansprüche
+# § 8 – Schadenersatz-, Entschädigungs- und Ausgleichsansprüche
 
 ¹Gesetzliche oder vertragliche Schadenersatz-, Entschädigungs- und Ausgleichsansprüche sowie Ansprüche, die voneinander unabhängigen Dritten zustünden, wenn ihre Handlungsmöglichkeiten vertraglich oder tatsächlich ausgeschlossen würden, können der Besteuerung einer Funktionsverlagerung zu Grunde gelegt werden, wenn der Steuerpflichtige glaubhaft macht, dass solche Dritte unter ähnlichen Umständen in vergleichbarer Art und Weise verfahren wären.²Der Steuerpflichtige muss zusätzlich glaubhaft machen, dass keine wesentlichen immateriellen Wirtschaftsgüter und Vorteile übertragen oder zur Nutzung überlassen worden sind, es sei denn, die Übertragung oder Überlassung ist zwingende Folge von Ansprüchen im Sinne des Satzes 1.
 
-
-## § 9 – Anpassungsregelung des Steuerpflichtigen
+# § 9 – Anpassungsregelung des Steuerpflichtigen
 
 Eine Anpassungsregelung des Steuerpflichtigen, die nachträgliche Anpassungen im Sinne des § 1 Abs. 3 Satz 11 und 12 des Außensteuergesetzes ausschließt, liegt auch dann vor, wenn im Hinblick auf wesentliche immaterielle Wirtschaftsgüter und Vorteile Lizenzvereinbarungen getroffen werden, die die zu zahlende Lizenz vom Umsatz oder Gewinn des Lizenznehmers abhängig machen oder für die Höhe der Lizenz Umsatz und Gewinn berücksichtigen.
 
-
-## § 10 – Erhebliche Abweichung
+# § 10 – Erhebliche Abweichung
 
 ¹In den Fällen des § 1 Abs. 3 Satz 12 des Außensteuergesetzes liegt eine erhebliche Abweichung vor, wenn der unter Zugrundelegung der tatsächlichen Gewinnentwicklung zutreffende Verrechnungspreis außerhalb des ursprünglichen Einigungsbereichs liegt.²Der neue Einigungsbereich wird durch den ursprünglichen Mindestpreis und den neu ermittelten Höchstpreis des übernehmenden Unternehmens begrenzt.³Eine erhebliche Abweichung liegt auch vor, wenn der neu ermittelte Höchstpreis niedriger ist als der ursprüngliche Mindestpreis des verlagernden Unternehmens.
 
-
-## § 11 – Angemessene Anpassung
+# § 11 – Angemessene Anpassung
 
 Eine Anpassung im Sinne des § 1 Abs. 3 Satz 12 des Außensteuergesetzes ist angemessen, wenn sie in den Fällen des § 10 Satz 1 dem Unterschiedsbetrag zwischen dem ursprünglichen und dem neu ermittelten Verrechnungspreis entspricht, oder wenn sie in den Fällen des § 10 Satz 3 dem Unterschiedsbetrag zwischen dem ursprünglichen Verrechnungspreis und dem Mittelwert zwischen dem neuen Höchstpreis des übernehmenden Unternehmens und dem ursprünglichen Mindestpreis des verlagernden Unternehmens entspricht.
 
-
-## § 12 – Anwendungsvorschrift
+# § 12 – Anwendungsvorschrift
 
 Diese Verordnung ist erstmals für den Veranlagungszeitraum 2008 anzuwenden.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2008 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

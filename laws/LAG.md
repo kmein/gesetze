@@ -1,10 +1,7 @@
-# [LAG] Gesetz über den Lastenausgleich  (Lastenausgleichsgesetz - LAG)
-
-Ausfertigungsdatum: 14.08.1952
-
+% Gesetz über den Lastenausgleich  (Lastenausgleichsgesetz - LAG)
+% Ausfertigungsdatum: 14.08.1952
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil: Grundsätze und Begriffsbestimmungen
 
@@ -214,26 +211,22 @@ Vierter Teil: Gemeinsame Schlußvorschriften
 
 §§ 359 - 375
 
-
-## Präambel
+# Präambel
 
 In Anerkennung des Anspruchs der durch den Krieg und seine Folgen besonders betroffenen Bevölkerungsteile auf einen die Grundsätze der sozialen Gerechtigkeit und die volkswirtschaftlichen Möglichkeiten berücksichtigenden Ausgleich von Lasten und auf die zur Eingliederung der Geschädigten notwendige Hilfe sowie  
 unter dem ausdrücklichen Vorbehalt, daß die Gewährung und Annahme von Leistungen keinen Verzicht auf die Geltendmachung von Ansprüchen und Rückgabe des von den Vertriebenen zurückgelassenen Vermögens bedeutet,  
 und unter dem weiteren ausdrücklichen Vorbehalt, daß die Gewährung und Annahme von Leistungen für Schäden im Sinne des Beweissicherungs- und Feststellungsgesetzes weder die Vermögensrechte des Geschädigten berühren noch einen Verzicht auf die Wiederherstellung der unbeschränkten Vermögensrechte oder auf Ersatzleistung enthalten,  
 hat der Bundestag mit Zustimmung des Bundesrates das nachstehende Gesetz beschlossen:
 
-
-## § 1 – Ziel des Lastenausgleichs
+# § 1 – Ziel des Lastenausgleichs
 
 Die Abgeltung von Schäden und Verlusten, die sich infolge der Vertreibungen und Zerstörungen der Kriegs- und Nachkriegszeit oder durch Schäden im Schadensgebiet im Sinne des § 3 Abs. 1 des Beweissicherungs- und Feststellungsgesetzes ergeben haben, sowie die Milderung von Härten, die infolge der Neuordnung des Geldwesens im Geltungsbereich des Grundgesetzes einschließlich Berlin (West) eingetreten sind, bestimmt sich nach diesem Gesetz; die erforderlichen Mittel werden nach Maßgabe dieses Gesetzes aufgebracht (Lastenausgleich).
 
-
-## § 2 – Durchführung des Lastenausgleichs
+# § 2 – Durchführung des Lastenausgleichs
 
 Zur Durchführung des Lastenausgleichs werden Ausgleichsabgaben erhoben und Ausgleichsleistungen gewährt.
 
-
-## § 3 – Ausgleichsabgaben
+# § 3 – Ausgleichsabgaben
 
 Als Ausgleichsabgaben werden erhoben:
 
@@ -243,8 +236,7 @@ Als Ausgleichsabgaben werden erhoben:
 
 3. eine Sonderabgabe auf Schuldnergewinne gewerblicher Betriebe (Kreditgewinnabgabe) - §§ 161 bis 197 -.
 
-
-## § 4 – Ausgleichsleistungen
+# § 4 – Ausgleichsleistungen
 
 Als Ausgleichsleistungen werden gewährt:
 
@@ -268,23 +260,19 @@ Als Ausgleichsleistungen werden gewährt:
 
 10. Darlehen, die auf Grund des § 46 Abs. 2 des Bundesvertriebenengesetzes in den Jahren 1953 bis 1957 zur verstärkten Förderung der Flüchtlingssiedlung gewährt werden.
 
-
-## § 5 – Haushaltsmäßige Abwicklung
+# § 5 – Haushaltsmäßige Abwicklung
 
 Rechte und Pflichten des bisherigen Sondervermögens Ausgleichsfonds gehen auf den Bund über. Einnahmen nach diesem Gesetz und sonstige Werte, die bisher dem Ausgleichsfonds durch Gesetz oder auf sonstige Weise besonders zugewiesen wurden, werden dem Bundeshaushalt zugeführt.
 
-
-## § 6 – Beitrag der Länder zum Lastenausgleich
+# § 6 – Beitrag der Länder zum Lastenausgleich
 
 Die Länder mit Ausnahme der Länder Brandenburg, Mecklenburg-Vorpommern, Thüringen, Sachsen und Sachsen-Anhalt leisten an den Bund einen jährlichen Zuschuss in Höhe von einem Drittel des Jahresaufwands für Unterhaltshilfe, höchstens jedoch 30 Millionen Euro. Die Länder leisten den Zuschuss nach dem Verhältnis ihrer Steueraufkommen im jeweils vorhergehenden Rechnungsjahr.
 
-
-## § 7 – Kredite
+# § 7 – Kredite
 
 Zins- und Tilgungsleistungen für Kredite, die vom Ausgleichsfonds nach § 7 dieses Gesetzes in der bis zum 1. Januar 2005 geltenden Fassung aufgenommen worden sind, trägt der Bund.
 
-
-## § 8 – Bezeichnung von Vorschriften
+# § 8 – Bezeichnung von Vorschriften
 
 (1) In diesem Gesetz werden bezeichnet
 
@@ -340,20 +328,17 @@ Zins- und Tilgungsleistungen für Kredite, die vom Ausgleichsfonds nach § 7 die
 
 (2) Soweit in den Ländern der französischen Besatzungszone und im bayerischen Kreise Lindau sowie in Berlin (West) Vorschriften ergangen sind, die den in Absatz 1 bezeichneten Vorschriften entsprechen, umfaßt die Verweisung auf die in Absatz 1 genannten Vorschriften auch die entsprechenden Vorschriften in den Ländern der französischen Besatzungszone und im bayerischen Kreise Lindau sowie in Berlin (West).
 
-
-## § 9 – Sitz in Berlin (West)
+# § 9 – Sitz in Berlin (West)
 
 Als Sitz in Berlin (West) im Sinne dieses Gesetzes gilt ein Sitz in Berlin. Ein Unternehmen, das zwar seinen Sitz in Berlin, aber seine Geschäftsleitung im Inland außerhalb des Geltungsbereichs des Grundgesetzes einschließlich Berlin (West) hat, gilt jedoch nicht als Unternehmen mit Sitz in Berlin (West) im Sinne dieses Gesetzes.
 
-
-## § 10 – Deutsche Mark und Euro
+# § 10 – Deutsche Mark und Euro
 
 (1) Deutsche Mark im Sinne dieses Gesetzes ist die Deutsche Mark der Deutschen Bundesbank.
 
 (2) Euro im Sinne des Gesetzes ist die nach Artikel 2 der Verordnung (EG) Nr. 974/98 des Rates vom 3. Mai 1998 (ABl. EG Nr. L 139 S. 1) in der Bundesrepublik Deutschland eingeführte Währung.
 
-
-## § 11 – Vertriebener
+# § 11 – Vertriebener
 
 (1) Vertriebener ist, wer als deutscher Staatsangehöriger oder deutscher Volkszugehöriger seinen Wohnsitz in den zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebieten oder in den Gebieten außerhalb der Grenzen des Deutschen Reichs nach dem Gebietsstand vom 31. Dezember 1937 hatte und diesen im Zusammenhang mit den Ereignissen des zweiten Weltkriegs infolge Vertreibung, insbesondere durch Ausweisung oder Flucht, verloren hat. Bei mehrfachem Wohnsitz muß derjenige Wohnsitz verlorengegangen sein, der für die persönlichen Lebensverhältnisse des Betroffenen bestimmend war. Als bestimmender Wohnsitz im Sinne des Satzes 2 ist insbesondere der Wohnsitz anzusehen, an welchem die Familienangehörigen gewohnt haben.
 
@@ -375,8 +360,7 @@ Als Sitz in Berlin (West) im Sinne dieses Gesetzes gilt ein Sitz in Berlin. Ein 
 
 (4) Wer infolge von Kriegseinwirkungen Aufenthalt in den in Absatz 1 genannten Gebieten genommen hat, ist jedoch nur dann Vertriebener, wenn aus den Umständen hervorgeht, daß er sich auch nach dem Kriege in diesen Gebieten ständig niederlassen wollte.
 
-
-## § 12 – Vertreibungsschäden
+# § 12 – Vertreibungsschäden
 
 (1) Ein Vertreibungsschaden im Sinne dieses Gesetzes ist unter den Voraussetzungen des Absatzes 2 ein Schaden, der einem Vertriebenen im Zusammenhang mit den gegen Personen deutscher Staatsangehörigkeit oder deutscher Volkszugehörigkeit gerichteten Vertreibungsmaßnahmen in den zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebieten oder in den Gebieten außerhalb der Grenzen des Deutschen Reichs nach dem Gebietsstand vom 31. Dezember 1937 entstanden ist
 
@@ -456,8 +440,7 @@ Voraussetzung ist, daß der Verstorbene seinen ständigen Aufenthalt seit Beginn
 
 2. die durch Aufwendung eigener Mittel entstandene Wertsteigerung des erworbenen Wirtschaftsguts als Schaden am Wirtschaftsgut.
 
-
-## § 13 – Kriegssachschäden
+# § 13 – Kriegssachschäden
 
 (1) Ein Kriegssachschaden im Sinne dieses Gesetzes ist ein Schaden, der in der Zeit vom 26. August 1939 bis zum 31. Juli 1945 unmittelbar durch Kriegshandlungen entstanden ist
 
@@ -483,8 +466,7 @@ b) an Hausrat,
 
 (3) Als Kriegssachschaden gilt auch ein Schaden durch Beschädigung, Zerstörung oder Wegnahme von Sachen auf Grund behördlicher Maßnahmen, die im Zusammenhang mit den kriegerischen Ereignissen getroffen worden sind.
 
-
-## § 14 – Ostschäden
+# § 14 – Ostschäden
 
 (1) Ein Ostschaden im Sinne dieses Gesetzes ist ein Schaden, der in den zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebieten im Zusammenhang mit den Ereignissen des zweiten Weltkriegs durch Vermögensentziehung oder als Kriegssachschaden (§ 13) an Wirtschaftsgütern der in § 12 Abs. 1 Nr. 1, Nr. 2 Buchstaben a bis f und Nr. 4 genannten Art entstanden ist, sofern es sich nicht um einen Vertreibungsschaden handelt. Als Ostschaden gilt ein Schaden, der dadurch entstanden ist, daß den Erben bei Todesfällen, die vor dem 1. Januar 1969 eingetreten sind, in den unter fremder Verwaltung stehenden deutschen Ostgebieten das Erbrecht an Wirtschaftsgütern der in Satz 1 bezeichneten Art, die dem Erblasser nicht weggenommen waren, versagt oder der Erbantritt insoweit verwehrt wird. In den Fällen des Satzes 2 liegt jedoch ein Schaden nicht vor, soweit auf Grund späterer rechtsgeschäftlicher Erklärungen der Erbanteil auf einen Miterben übertragen worden ist; werden die übertragenen Wirtschaftsgüter dem Miterben oder seinen Erben weggenommen, liegt ein Schaden in deren Person vor. Bei Schäden der in § 12 Abs. 1 Nr. 2 Buchstabe c und d bezeichneten Art muß der Schuldner, bei Schäden der in § 12 Abs. 1 Nr. 2 Buchstabe e bezeichneten Art die Kapitalgesellschaft oder die Erwerbs- und Wirtschaftsgenossenschaft bei Beginn der allgemeinen Vertreibungsmaßnahmen den Wohnsitz oder den Sitz (bei Geldinstituten: die Haupt- oder Zweigniederlassung) in den zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebieten gehabt haben; bei dinglich gesicherten Ansprüchen gilt § 12 Abs. 2 Nr. 2, bei Geldeinlagen bei einem Geldinstitut § 12 Abs. 9 und bei Anteilen an einer Gesellschaft oder Genossenschaft § 12 Abs. 10 sinngemäß. § 12 Abs. 12 und 13 ist entsprechend anzuwenden.
 
@@ -492,8 +474,7 @@ b) an Hausrat,
 
 (3) Der Ostschaden gilt als am 8. Mai 1945, in den Fällen des Absatzes 1 Satz 2 als im Zeitpunkt des Todes des Erblassers eingetreten.
 
-
-## § 15 – Sparerschäden
+# § 15 – Sparerschäden
 
 (1) Ein Sparerschaden ist die Minderung des Nennbetrags von Sparanlagen, die dadurch eingetreten ist, daß die Sparanlagen bei der Neuordnung des Geldwesens im Geltungsbereich des Grundgesetzes einschließlich Berlin (West) im Verhältnis 10 zu 1 oder in einem ungünstigeren Verhältnis auf Deutsche Mark umgestellt oder nach § 14 des Umstellungsgesetzes nicht auf Deutsche Mark umgestellt worden sind.
 
@@ -517,8 +498,7 @@ Den in Nummer 1 bezeichneten Spareinlagen werden Geldeinlagen, für die eine Kü
 
 (4) Durch Rechtsverordnung können andere Geldanlagen den Sparanlagen im Sinne des Absatzes 2 gleichgestellt werden, sofern sie der Kapitalanlage oder der Versorgung dienten.
 
-
-## § 15a – Zonenschäden
+# § 15a – Zonenschäden
 
 (1) Ein Zonenschaden im Sinne dieses Gesetzes ist ein Vermögensschaden, der im Schadensgebiet (§ 3 Abs. 1 des Beweissicherungs- und Feststellungsgesetzes) entstanden ist
 
@@ -558,16 +538,13 @@ e) an literarischen und künstlerischen Urheberrechten, an gewerblichen Schutzre
 
 2. im übrigen nach Maßgabe der Erbteile als Zonenschaden der Erben.
 
+# §§ 16 bis 227 – (nicht abgedruckt)
 
-## §§ 16 bis 227 – (nicht abgedruckt)
-
-
-## § 227a – Anwendung des Zweiten Teils für den Zeitraum nach dem 31. Dezember 2001
+# § 227a – Anwendung des Zweiten Teils für den Zeitraum nach dem 31. Dezember 2001
 
 Für die Berechnung der Ausgleichsabgaben nach diesem Gesetz gilt die Deutsche Mark nach dem 31. Dezember 2001 als Berechnungsgröße fort. Das Ergebnis ist bei der Neufestsetzung von Ausgleichsabgaben mit dem unwiderruflich festgelegten Umrechnungskurs in der Verordnung (EG) Nr. 2866/98 des Rates vom 31. Dezember 1998 (ABl. EG Nr. L 359 S. 1) über die Umrechnungskurse zwischen dem Euro und den Mitgliedstaaten, die den Euro einführen, in Euro anzusetzen.
 
-
-## § 228 – Schadenstatbestände
+# § 228 – Schadenstatbestände
 
 (1) Ausgleichsleistungen nach dem Dritten Teil dieses Gesetzes werden gewährt auf Grund von
 
@@ -585,8 +562,7 @@ Für die Berechnung der Ausgleichsabgaben nach diesem Gesetz gilt die Deutsche M
 
 (3) Zur Milderung von Härten können Ausgleichsleistungen auch nach Maßgabe der §§ 301, 301a gewährt werden.
 
-
-## § 229 – Geschädigte
+# § 229 – Geschädigte
 
 (1) Ausgleichsleistungen werden nach näherer Maßgabe dieses Gesetzes an Geschädigte, an Erben von Geschädigten oder zugunsten von Geschädigten gewährt. Als Geschädigte gelten der unmittelbar Geschädigte und, falls dieser vor dem 1. April 1952 verstorben ist, diejenigen Personen, die am 1. April 1952 seine Erben oder weitere Erben waren; ist in den Fällen des § 12 Abs. 7 Nr. 1 oder des § 15a Abs. 4 Nr. 1 der unmittelbar Geschädigte nach dem 31. März 1952 und vor dem 1. Januar 1993 verstorben, gelten seine Erben als Geschädigte. Ist der unmittelbar Geschädigte Vorerbe eines vor Schadenseintritt verstorbenen Erblassers und ist der Nacherbfall vor dem 1. April 1952 eingetreten, gelten hinsichtlich der Schäden an dem der Nacherbfolge unterliegenden Vermögen als Geschädigte der Nacherbe und, falls dieser vor dem 1. April 1952 verstorben ist, diejenigen Personen, die am 1. April 1952 seine Erben oder weitere Erben waren. Hinsichtlich der an land- und forstwirtschaftlichem Vermögen, Grundvermögen oder Betriebsvermögen entstandenen Kriegssachschäden und hinsichtlich der an Betriebsvermögen entstandenen Vertreibungsschäden, Ostschäden und Zonenschäden steht der Erbfolge die Übernahme solchen Vermögens zu Lebzeiten des unmittelbar Geschädigten (vorweggenommene Erbfolge) gleich.
 
@@ -594,8 +570,7 @@ Für die Berechnung der Ausgleichsabgaben nach diesem Gesetz gilt die Deutsche M
 
 (3) Geschädigter kann nur eine natürliche Person sein.
 
-
-## § 230 – Stichtag
+# § 230 – Stichtag
 
 (1) Vertreibungsschäden kann der Geschädigte nur geltend machen, wenn er am 31. Dezember 1952 seinen ständigen Aufenthalt im Geltungsbereich des Grundgesetzes oder in Berlin (West) gehabt hat. Gleichgestellt ist, wer am 31. Dezember 1950 seinen ständigen Aufenthalt im Geltungsbereich des Grundgesetzes einschließlich Berlin (West) gehabt hat oder wer seinen ständigen Aufenthalt in diesem Gebiet seit Eintritt des Schadens und vor dem 31. Dezember 1952 mindestens ein Jahr gehabt und von dort in einen Staat verlegt hat, der nicht zu den Aussiedlungsgebieten (§ 11 Abs. 2 Nr. 3) gehört. Gleichgestellt ist ferner, wer aus der sowjetischen Besatzungszone Deutschlands oder aus dem Sowjetsektor von Berlin, ohne daß er dort durch sein Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat, im Wege der Notaufnahme oder eines vergleichbaren Verfahrens zugezogen ist und am 31. Dezember 1961 oder am 31. Dezember 1964 seinen ständigen Aufenthalt im Geltungsbereich des Grundgesetzes oder in Berlin (West) gehabt hat. Die Voraussetzung des Satzes 1 gilt auch dann als erfüllt, wenn der Geschädigte
 
@@ -643,8 +618,7 @@ Bei der Frist nach Nummer 1 werden solche Zeiten nicht mitgerechnet, in denen ei
 
 (6) Auf Sparerschäden an Schuldverschreibungen und verzinslichen Schatzanweisungen des Reichs, der Reichsbahn, der Reichspost und des Landes Preußen einschließlich der Schuldbuchforderungen und der Ansprüche auf Vorzugsrente (§ 15 Abs. 2 Nr. 3) sowie auf Sparerschäden im Sinne des § 15 Abs. 3 finden die Absätze 1 bis 3 entsprechende Anwendung.
 
-
-## § 230a – Besondere persönliche Voraussetzungen
+# § 230a – Besondere persönliche Voraussetzungen
 
 (1) Schäden außerhalb des Geltungsbereichs dieses Gesetzes müssen einer Person entstanden sein, die im Zeitpunkt der Schädigung
 
@@ -660,8 +634,7 @@ oder
 
 (4) Artikel 4 des Gesetzes zu dem Vertrag vom 27. November 1961 zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich (Finanz- und Ausgleichsvertrag) vom 21. August 1962 (Bundesgesetzbl. II S. 1041) bleibt unberührt.
 
-
-## § 231 – Rechtsnatur der Ausgleichsleistungen
+# § 231 – Rechtsnatur der Ausgleichsleistungen
 
 Es werden gewährt
 
@@ -669,8 +642,7 @@ Es werden gewährt
 
 2. Ausgleichsleistungen ohne Rechtsanspruch.
 
-
-## § 232 – Ausgleichsleistungen mit Rechtsanspruch
+# § 232 – Ausgleichsleistungen mit Rechtsanspruch
 
 (1) Als Ausgleichsleistungen mit Rechtsanspruch werden gewährt
 
@@ -686,8 +658,7 @@ Es werden gewährt
 
 (2) Der Rechtsanspruch gilt als mit dem 1. April 1952 in der Person des Geschädigten (§ 229) entstanden; in den Fällen des Absatzes 1 Nr. 4 und 5 gelten insoweit die entsprechenden Vorschriften des Währungsausgleichsgesetzes und des Altsparergesetzes.
 
-
-## § 233 – Ausgleichsleistungen ohne Rechtsanspruch
+# § 233 – Ausgleichsleistungen ohne Rechtsanspruch
 
 (1) Als Ausgleichsleistungen ohne Rechtsanspruch werden nach Maßgabe der verfügbaren Mittel gewährt
 
@@ -701,8 +672,7 @@ Es werden gewährt
 
 (2) Ausgleichsleistungen ohne Rechtsanspruch können auch an Erben von Geschädigten gewährt werden.
 
-
-## § 233a – Verjährung
+# § 233a – Verjährung
 
 (1) Ansprüche auf Erfüllung oder Auszahlung von Ausgleichsleistungen verjähren in vier Jahren. Die Ansprüche erlöschen durch die Verjährung.
 
@@ -714,8 +684,7 @@ Es werden gewährt
 
 (5) Bis zum 31. Juli 1996 gelten anstelle der Absätze 1 bis 4 die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung entsprechend.
 
-
-## § 234 – Antrag
+# § 234 – Antrag
 
 (1) Ausgleichsleistungen werden nur auf Antrag gewährt.
 
@@ -733,18 +702,15 @@ Der Antrag kann, wenn Vertreibungsschäden, Ostschäden oder Zonenschäden gelte
 
 (4) Anträge auf Ausgleichsleistungen können vorbehaltlich des § 264 Abs. 2 Satz 2 Nr. 2 und Satz 3 sowie des § 265 Abs. 4 Satz 3 Nr. 2 nur bis zum 31. Dezember 1995 gestellt werden, längstens jedoch drei Jahre nach Eintritt der Antragsberechtigung. Absatz 3 Satz 2 und Vorschriften dieses Gesetzes, in denen der Ablauf von Antragsfristen vor dem nach Satz 1 maßgebenden Zeitpunkt bestimmt ist, bleiben unberührt.
 
-
-## § 235 – Schadensfeststellung als Voraussetzung von Ausgleichsleistungen
+# § 235 – Schadensfeststellung als Voraussetzung von Ausgleichsleistungen
 
 Ausgleichsleistungen, auf die nach diesem Gesetz ein Rechtsanspruch besteht, werden nur gewährt, wenn der Schaden festgestellt ist.
 
-
-## § 236 – Schadensfeststellung nach dem Feststellungsgesetz und nach dem Beweissicherungs- und Feststellungsgesetz
+# § 236 – Schadensfeststellung nach dem Feststellungsgesetz und nach dem Beweissicherungs- und Feststellungsgesetz
 
 Bei Schäden im Sinne der §§ 3 bis 5 des Feststellungsgesetzes und bei Schäden im Sinne des Zweiten Abschnitts des Beweissicherungs- und Feststellungsgesetzes ist die Schadensfeststellung nach diesen Gesetzen Voraussetzung für die Gewährung von Ausgleichsleistungen mit Rechtsanspruch. Diese Schadensfeststellung ist bindend.
 
-
-## § 237 – Schadensfeststellung außerhalb des Feststellungsgesetzes
+# § 237 – Schadensfeststellung außerhalb des Feststellungsgesetzes
 
 (1) Der Feststellung nach den besonderen Vorschriften dieses Gesetzes unterliegen
 
@@ -756,13 +722,11 @@ Bei Schäden im Sinne der §§ 3 bis 5 des Feststellungsgesetzes und bei Schäde
 
 (3) Soweit Schäden nach Absatz 1 die Voraussetzung für die Gewährung von Ausgleichsleistungen mit Rechtsanspruch bilden, gilt der Antrag auf Gewährung solcher Ausgleichsleistungen zugleich als Antrag auf Feststellung des Schadens. Ein gesonderter Antrag auf Feststellung des Schadens ist in diesen Fällen ausgeschlossen.
 
-
-## § 238 – Schadensberechnung nach dem Feststellungsgesetz und nach dem Beweissicherungs- und Feststellungsgesetz
+# § 238 – Schadensberechnung nach dem Feststellungsgesetz und nach dem Beweissicherungs- und Feststellungsgesetz
 
 Für die Berechnung von Schäden, die nach dem Feststellungsgesetz oder nach dem Beweissicherungs- und Feststellungsgesetz festzustellen sind, gelten die Vorschriften dieser Gesetze.
 
-
-## § 239 – Schadensberechnung bei Verlust der beruflichen oder sonstigen Existenzgrundlage
+# § 239 – Schadensberechnung bei Verlust der beruflichen oder sonstigen Existenzgrundlage
 
 (1) Bei Feststellung des einem Vertriebenen, Kriegssachgeschädigten oder Ostgeschädigten durch den Verlust der beruflichen oder sonstigen Existenzgrundlage (§ 12 Abs. 1 Nr. 4, § 13 Abs. 1 Nr. 4, § 14) entstandenen Schadens ist von den Einkünften auszugehen, die der unmittelbar Geschädigte und sein Ehegatte im Durchschnitt der Jahre 1937, 1938 und 1939 bezogen und durch die Schädigung verloren haben; falls der unmittelbar Geschädigte und sein Ehegatte erst nach dem Jahre 1937 Einkünfte bezogen haben, treten an die Stelle der Jahre 1937, 1938 und 1939 die drei Jahre, die dem Jahr folgen, in dem sie zuerst Einkünfte bezogen haben. Liegen Unterlagen über die nach Satz 1 maßgebenden Einkünfte nicht vor, so ist von dem Beruf des Geschädigten im Zeitpunkt der Schädigung auszugehen. Eine durch die Kriegsverhältnisse oder durch Maßnahmen der nationalsozialistischen Gewaltherrschaft bedingte berufsfremde Verwendung bleibt bei der Schadensberechnung unberücksichtigt. Auf Antrag ist von den Einkünften im Durchschnitt der Jahre 1939 und 1940 oder der Jahre 1940 und 1941 auszugehen, wenn der Geschädigte seine berufliche oder sonstige Existenzgrundlage in dem in § 12 Abs. 2 Satz 2 zweiter Halbsatz bezeichneten einheitlichen Vertreibungsgebiet außerhalb der zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebiete verloren hat.
 
@@ -770,25 +734,21 @@ Für die Berechnung von Schäden, die nach dem Feststellungsgesetz oder nach dem
 
 (3) Durch Rechtsverordnung werden Vorschriften über die Berechnung und den Nachweis der Einkünfte sowie darüber getroffen, welche Einkommensrichtsätze für die einzelnen Berufsgruppen anzunehmen sind.
 
-
-## § 240 – Schadensberechnung bei Sparerschäden
+# § 240 – Schadensberechnung bei Sparerschäden
 
 (1) Sparerschäden sind mit dem Reichsmarknennbetrag des durch die Umstellung betroffenen Anspruchs abzüglich des Umstellungsbetrags anzusetzen. Sparerschäden an Ansprüchen gegen das Reich, die Reichsbahn und die Reichspost sowie das Land Preußen sind mit dem vollen Reichsmarknennbetrag anzusetzen.
 
 (2) Durch Rechtsverordnung wird Näheres über die Ermittlung des Reichsmarknennbetrags solcher Ansprüche bestimmt, deren Reichsmarknennbetrag nicht ohne weiteres festliegt.
 
-
-## § 241
+# § 241
 
 (weggefallen)
 
-
-## § 242 – Zusammenfassung der Einzelfeststellungen
+# § 242 – Zusammenfassung der Einzelfeststellungen
 
 Zum Zwecke der Gewährung von Ausgleichsleistungen werden die für die Gewährung einer Ausgleichsleistung jeweils zu berücksichtigenden Schäden, die dem unmittelbar Geschädigten entstanden sind, zusammengefaßt.
 
-
-## § 243 – Voraussetzungen
+# § 243 – Voraussetzungen
 
 Hauptentschädigung wird gewährt zur Abgeltung von
 
@@ -800,13 +760,11 @@ Hauptentschädigung wird gewährt zur Abgeltung von
 
 4. Zonenschäden.
 
-
-## § 244 – Übertragbarkeit
+# § 244 – Übertragbarkeit
 
 Der Anspruch auf Hauptentschädigung ist, vorbehaltlich der §§ 258, 278a, 283 und 283a, vererblich und übertragbar; er unterliegt jedoch in der Person des Geschädigten nicht der Zwangsvollstreckung. Ist der Geschädigte Vorerbe eines vor Schadenseintritt oder vor dem 1. April 1952 verstorbenen Erblassers, so geht der Anspruch auf Hauptentschädigung, soweit er auf Schäden an dem einer Nacherbfolge unterliegenden Vermögen beruht, bei Eintritt des Nacherbfalls auf den Nacherben oder dessen Erben über; beruht der Anspruch auf Hauptentschädigung nur teilweise auf Schäden an dem einer Nacherbfolge unterliegenden Vermögen, ist er im Verhältnis der Schadensbeträge zueinander aufzuteilen, die sich nach § 245 für die Schäden an den verschiedenen Vermögensteilen ergeben. Auf den Fiskus als gesetzlichen Erben geht der Anspruch nur insoweit über, als ohne seine Erfüllung Nachlaßverbindlichkeiten nicht befriedigt werden könnten.
 
-
-## § 245 – Schadensbetrag
+# § 245 – Schadensbetrag
 
 Für die Bemessung der Hauptentschädigung werden die festgestellten Schäden des unmittelbar Geschädigten (§ 243), vorbehaltlich des § 249a, zu einem Schadensbetrag zusammengefaßt. Hierbei gilt folgendes:
 
@@ -826,8 +784,7 @@ b) im übrigen mit dem festgestellten Betrag.
 
 Sind Schäden in einer anderen deutschen Währung als Reichsmark festgestellt worden, so werden sie für die Zusammenfassung zum Schadensbetrag nach Anwendung der Nummern 1 bis 5 unverändert als Reichsmark angesetzt.
 
-
-## § 246 – Schadensgruppen und Grundbeträge
+# § 246 – Schadensgruppen und Grundbeträge
 
 (1) Auf Grund der Schadensfeststellung wird der unmittelbar Geschädigte in eine der nachfolgenden Schadensgruppen eingestuft. Die Hauptentschädigung bemißt sich nach einem Grundbetrag, welcher der Schadensgruppe entspricht, in die der unmittelbar Geschädigte eingereiht worden ist.
 
@@ -1191,13 +1148,11 @@ bis
 
  
 
-
-## § 247 – Teilung des Grundbetrags
+# § 247 – Teilung des Grundbetrags
 
 Der Grundbetrag, der auf den für den unmittelbar Geschädigten errechneten Schadensbetrag entfällt, wird, wenn der unmittelbar Geschädigte vor dem 1. April 1952 verstorben ist, auf die Erben (§ 229 Abs. 1) nach dem Verhältnis ihrer Erbteile aufgeteilt. In den Fällen des § 12 Abs. 7 Nr. 1 und des § 15a Abs. 4 Nr. 1 gilt dies auch dann, wenn der unmittelbar Geschädigte nach dem 31. März 1952 verstorben ist; in den Fällen des § 230 Abs. 4 gilt Satz 1 ferner für die Aufteilung des Grundbetrags auf die Erben des Geschädigten.
 
-
-## § 248 – Zuschlag zum Grundbetrag
+# § 248 – Zuschlag zum Grundbetrag
 
 Der für den Geschädigten nach den §§ 246, 247 sich ergebende Grundbetrag erhöht sich um 10 vom Hundert für
 
@@ -1207,8 +1162,7 @@ Der für den Geschädigten nach den §§ 246, 247 sich ergebende Grundbetrag erh
 
 3. Kriegssachgeschädigte, die bis zum 1. April 1952 in den Stadt- oder Landkreis, in dem sie zur Zeit der Schädigung wohnten, nicht zurückkehren konnten und bis zu diesem Zeitpunkt an ihrem neuen Wohnsitz eine angemessene Lebensgrundlage nicht wieder haben finden können.
 
-
-## § 249 – Kürzung des Grundbetrags
+# § 249 – Kürzung des Grundbetrags
 
 (1) Der Grundbetrag ist zu kürzen, soweit sich durch seine Zurechnung zum Endvermögen eine Summe ergeben würde, die 50 vom Hundert des Anfangsvermögens übersteigt. Als Endvermögen gilt das Vermögen des unmittelbar Geschädigten am 21. Juni 1948, vermindert um 40 vom Hundert. Als Anfangsvermögen gilt die Summe des Schadensbetrags und des Vermögens des unmittelbar Geschädigten am 21. Juni 1948 zuzüglich des doppelten Erhöhungsbetrags nach § 246 Abs. 2. Der Kürzungsbetrag nach Satz 1 darf nicht höher sein als 50 vom Hundert des Vermögens des unmittelbar Geschädigten am 21. Juni 1948. Sind Schäden erst nach dem 20. Juni 1948 entstanden, tritt an die Stelle des Vermögens am 21. Juni 1948 das Vermögen, welches sich auf diesem Stichtag ergeben würde, wenn die Schäden vorher entstanden wären.
 
@@ -1256,8 +1210,7 @@ Sind im Schadensbetrag (§ 245) enthaltene Schäden auch nach § 55a berücksich
 
 jeweils mit dem Divisor 1,95583 in Euro anzusetzen.
 
-
-## § 249a – Sparerzuschlag
+# § 249a – Sparerzuschlag
 
 (1) Soweit die Hauptentschädigung zur Abgeltung von Verlusten an Ansprüchen gewährt wird, die Sparanlagen im Sinne des Altsparergesetzes sind, bleibt der Schaden bei der Berechnung des Schadensbetrags nach § 245 außer Ansatz. Wegen dieser Ansprüche wird zusätzlich ein Grundbetrag (Sparerzuschlag) gewährt. Dieser ist bei Vertreibungsschäden und Ostschäden mit dem Betrag anzusetzen, der sich
 
@@ -1286,8 +1239,7 @@ des Betrags der Sparanlage.
 
 (5) Für Entscheidungen nach dem 31. Dezember 2001 ist der sich nach den Absätzen 1 bis 3 ergebende Sparerzuschlag für den Verlust von Sparanlagen im Sinne des Altsparergesetzes mit dem Divisor 1,95583 in Euro anzusetzen.
 
-
-## § 249b – Besonderheiten der Grundbetragsberechnung beim Zusammentreffen von Zonenschäden mit Schäden im Sinne des Reparationsschädengesetzes
+# § 249b – Besonderheiten der Grundbetragsberechnung beim Zusammentreffen von Zonenschäden mit Schäden im Sinne des Reparationsschädengesetzes
 
 Sind einem unmittelbar Geschädigten sowohl Zonenschäden als auch Schäden im Sinne des Reparationsschädengesetzes entstanden, gilt folgendes:
 
@@ -1301,8 +1253,7 @@ b) wenn mit Schäden im Sinne des Reparationsschädengesetzes sowohl Zonenschäd
 
 3. Sind Schäden an Sparanlagen sowohl im Sinne des Reparationsschädengesetzes als auch im Sinne dieses Gesetzes entstanden, ist § 249a auf alle Schäden an Sparanlagen anzuwenden und von dem hiernach berechneten Sparerzuschlag der Sparerzuschlag nach § 36 des Reparationsschädengesetzes abzuziehen.
 
-
-## § 250 – Zuerkennung des Anspruchs und Zinszuschlag
+# § 250 – Zuerkennung des Anspruchs und Zinszuschlag
 
 (1) Der Anspruch auf Hauptentschädigung wird dem Geschädigten mit dem sich ergebenden Grundbetrag zuerkannt; dabei ist anzugeben, wie der Grundbetrag aus dem Schadensbetrag errechnet ist. In den Fällen des § 12 Abs. 13, des § 14 Abs. 1 Satz 5 und des § 15a Abs. 3 wird höchstens der Grundbetrag zuerkannt, der sich bei Zugrundelegung des Werts des erworbenen Wirtschaftsguts ergeben würde.
 
@@ -1701,8 +1652,7 @@ bis
 
 (8) Für Entscheidungen nach dem 31. Dezember 2001 sind die Abzugs- und Anrechnungsbeträge nach Absatz 2 Satz 2 und Absatz 7 Satz 1 mit dem Divisor 1,95583 in Euro anzusetzen.
 
-
-## § 251 – Erfüllung des Anspruchs
+# § 251 – Erfüllung des Anspruchs
 
 (1) Der Anspruch auf Hauptentschädigung wird, vorbehaltlich der §§ 278a, 283 und 283a, in Höhe des Betrags erfüllt, der sich durch Hinzurechnung des Zinszuschlags zum zuerkannten Endgrundbetrag ergibt (Auszahlungsbetrag). Erfüllungsbeträge werden, vorbehaltlich des § 278a Abs. 2 sowie der auf Grund des § 278a Abs. 7 und des § 283a Abs. 2 erlassenen Vorschriften, zunächst auf den im Auszahlungsbetrag enthaltenen Zinszuschlag angerechnet. Erhöht sich der Zinszuschlag durch Zuerkennung eines weiteren Grundbetrags, so bleibt diese Erhöhung für die Anrechnung der vorher geleisteten Erfüllungsbeträge außer Betracht.
 
@@ -1712,8 +1662,7 @@ bis
 
 (4) Haben in den Fällen des § 234 Abs. 2 die Voraussetzungen für die Erfüllung des Anspruchs auf Hauptentschädigung bis zum 31. Juli 1996 nicht vorgelegen, erlischt der Anspruch zu diesem Zeitpunkt, frühestens jedoch vier Jahre nach Ablauf des Kalenderjahres, in dem der Bescheid über die Zuerkennung des Anspruchs unanfechtbar geworden ist.
 
-
-## § 252 – Reihenfolge und Zeitpunkt der Erfüllung
+# § 252 – Reihenfolge und Zeitpunkt der Erfüllung
 
 (1) Die Ansprüche auf Hauptentschädigung werden vorbehaltlich der Absätze 5 und 6 vom 1. April 1957 ab nach Maßgabe der verfügbaren Mittel erfüllt. Bevorzugt zu befriedigen sind die Ansprüche von Geschädigten in hohem Lebensalter sowie solche Ansprüche, bei denen die Hauptentschädigung der Abwendung oder Milderung sozialer Notstände dient. Ferner sind solche Ansprüche vordringlich zu berücksichtigen, bei denen die Hauptentschädigung der Nachentrichtung freiwilliger Beiträge zu den gesetzlichen Rentenversicherungen dient oder nachweislich zur Bildung von land- und forstwirtschaftlichem Vermögen, von Grundvermögen oder von Betriebsvermögen oder zur Begründung oder Festigung der wirtschaftlichen Selbständigkeit beizutragen vermag. Die Ansprüche können auch in Teilbeträgen erfüllt werden. Kleinstbeträge können vorzeitig ausgezahlt werden.
 
@@ -1729,11 +1678,9 @@ bis
 
 (7) Ansprüche auf Hauptentschädigung können nach den Absätzen 3 und 4 bis zu einem Gesamtbetrag von sechs Milliarden Deutsche Mark erfüllt werden; bei der Regelung durch die vorbehaltenen Rechtsverordnungen sind die jeweiligen gesamtwirtschaftlichen Verhältnisse zu berücksichtigen.
 
+# §§ 253 bis 257 – (weggefallen)
 
-## §§ 253 bis 257 – (weggefallen)
-
-
-## § 258 – Verhältnis zur Hauptentschädigung
+# § 258 – Verhältnis zur Hauptentschädigung
 
 (1) Soweit der Empfänger eines Aufbaudarlehens Anspruch auf Hauptentschädigung hat, wird der Darlehensbetrag auf den Anspruch auf Hauptentschädigung wie folgt angerechnet:
 
@@ -1769,11 +1716,9 @@ bis
 
 (6) Soweit nach § 40 Abs. 2 des Reparationsschädengesetzes ein Darlehen auch auf den Entschädigungsanspruch nach dem Reparationsschädengesetz anzurechnen ist, geht in den Fällen des Absatzes 2 Nr. 4, 5 und 7 die Anrechnung auf die Entschädigung nach dem Reparationsschädengesetz, im übrigen die Anrechnung auf die Hauptentschädigung vor.
 
+# §§ 259 und 260 – (weggefallen)
 
-## §§ 259 und 260 – (weggefallen)
-
-
-## § 261 – Voraussetzungen
+# § 261 – Voraussetzungen
 
 (1) Kriegsschadenrente wird zur Abgeltung von Vertreibungsschäden, Kriegssachschäden, Ostschäden und, soweit sich aus den Vorschriften dieses Abschnitts nichts anderes ergibt, von Sparerschäden gewährt, wenn
 
@@ -1789,13 +1734,11 @@ bis
 
 (5) Kriegsschadenrente wird nur gewährt, wenn die Voraussetzungen für die Gewährung spätestens am 31. Dezember 1999 vorliegen und der Antrag bis zum 30. Juni 2000 gestellt ist.
 
-
-## § 262 – Übertragbarkeit
+# § 262 – Übertragbarkeit
 
 Der Anspruch auf Kriegsschadenrente kann, soweit in diesem Abschnitt nichts anderes bestimmt ist, nicht übertragen, nicht gepfändet und nicht verpfändet werden; dies gilt, vorbehaltlich der §§ 290 und 350a, nicht für Beträge, die für einen in der Vergangenheit liegenden Zeitraum rechtskräftig bewilligt worden sind.
 
-
-## § 263 – Formen der Kriegsschadenrente
+# § 263 – Formen der Kriegsschadenrente
 
 (1) Kriegsschadenrente wird gewährt als
 
@@ -1807,8 +1750,7 @@ Der Anspruch auf Kriegsschadenrente kann, soweit in diesem Abschnitt nichts ande
 
 (3) Sobald die Voraussetzungen sowohl für die Unterhaltshilfe als auch für die Entschädigungsrente vorliegen, hat der Berechtigte zu wählen, in welcher Form er Kriegsschadenrente beziehen will; die Wahl kann nach dem 31. Dezember 1992 nur einmal und nur bis zum 30. Juni 2000 ausgeübt werden. Beantragt der Berechtigte Entschädigungsrente neben Unterhaltshilfe oder ausschließlich Entschädigungsrente, so kann er entweder nur Vermögensschäden oder nur den Verlust der beruflichen oder sonstigen Existenzgrundlage geltend machen.
 
-
-## § 264 – Lebensalter
+# § 264 – Lebensalter
 
 (1) Wegen vorgeschrittenen Lebensalters wird Kriegsschadenrente nur gewährt, wenn der Geschädigte bei Antragstellung das 65. (eine Frau das 60.) Lebensjahr vollendet hat. Weitere Voraussetzung ist, vorbehaltlich des § 273 Abs. 5 bis 7, des § 282 Abs. 4 und 5 und des § 284 Abs. 2, daß der Geschädigte vor dem 1. Januar 1890 (eine Frau vor dem 1. Januar 1895) geboren ist. Die Voraussetzung des Satzes 2 entfällt, wenn der Geschädigte nach § 230 Abs. 2 Nr. 1 antragsberechtigt ist und im Zeitpunkt der Aufenthaltnahme im Geltungsbereich dieses Gesetzes, spätestens jedoch am 31. Dezember 1971, das 65. (eine Frau das 60.) Lebensjahr vollendet hat.
 
@@ -1820,8 +1762,7 @@ Der Anspruch auf Kriegsschadenrente kann, soweit in diesem Abschnitt nichts ande
 
 Personen, denen bei Ablauf der nach den Sätzen 1 und 2 für sie maßgebenden Antragsfrist Kriegsschadenrente wegen Bezugs von Einkünften im Sinne des § 267 Abs. 2 Nr. 3 nicht gewährt werden konnte, können Kriegsschadenrente vorbehaltlich des § 261 Abs. 5 noch zwei Jahre nach Ablauf des Monats beantragen, in dem derartige Einkünfte die Gewährung von Kriegsschadenrente erstmals nicht mehr ausschließen.
 
-
-## § 265 – Erwerbsunfähigkeit
+# § 265 – Erwerbsunfähigkeit
 
 (1) Wegen Erwerbsunfähigkeit wird Kriegsschadenrente nur gewährt, wenn der Geschädigte dauernd außerstande ist, durch eine Tätigkeit, die seinen Kräften und Fähigkeiten entspricht und ihm unter billiger Berücksichtigung seiner Ausbildung und seines bisherigen Berufs zugemutet werden kann, die Hälfte dessen zu erwerben, was körperlich und geistig gesunde Menschen derselben Art mit ähnlicher Ausbildung in derselben Gegend durch Arbeit zu verdienen pflegen.
 
@@ -1845,8 +1786,7 @@ In den Fällen des Satzes 3 Nr. 1 ist § 2 Abs. 4 des Bundeskindergeldgesetzes, 
 
 (5) Bestehen Zweifel, ob der Geschädigte erwerbsunfähig ist, so ist ein Gutachten des für seinen ständigen Aufenthalt zuständigen Gesundheitsamts einzuholen. Im Bedarfsfalle ist ein Obergutachten einzuholen. Universitätskliniken sind auf Anforderung zur Erstellung solcher Obergutachten verpflichtet. Die Obergutachten werden nach dem Justizvergütungs- und -entschädigungsgesetz vergütet. Das gleiche gilt, wenn zur Erstellung von Gutachten der Gesundheitsämter die gutachtliche Äußerung anderer Stellen erforderlich ist, die nicht zur unentgeltlichen Mitwirkung verpflichtet sind.
 
-
-## § 266 – Ermittlung des Schadens und des Grundbetrags
+# § 266 – Ermittlung des Schadens und des Grundbetrags
 
 (1) Soweit für Zwecke der Kriegsschadenrente die Ermittlung eines Schadensbetrags erforderlich ist, werden die festgestellten Schäden des unmittelbar Geschädigten (§ 261) zu einem Schadensbetrag zusammengefaßt; § 245 Nr. 1 bis 4 gilt entsprechend. Vertreibungsschäden und Ostschäden an Reichsmarkspareinlagen und an anderen privatrechtlichen geldwerten Ansprüchen, soweit es sich um Sparanlagen im Sinne des § 15 Abs. 2 und 4 handelt, werden in Abweichung von § 245 Nr. 4 mit dem insoweit nach dem Feststellungsgesetz festgestellten Betrag, abzüglich des etwa auf Deutsche Mark umgestellten oder nach § 3 Abs. 1 des Währungsausgleichsgesetzes gutgeschriebenen Betrags, angesetzt.
 
@@ -1856,8 +1796,7 @@ In den Fällen des Satzes 3 Nr. 1 ist § 2 Abs. 4 des Bundeskindergeldgesetzes, 
 
 (4) Bei der Anwendung der Absätze 1 und 2 bleiben vorbehaltlich der Rechtsverordnung nach § 261 Abs. 4 die Schadensbeträge und Grundbeträge insoweit außer Ansatz, als sie auf Zonenschäden beruhen (§ 250 Abs. 7 Satz 2).
 
-
-## § 267 – Einkommenshöchstbetrag
+# § 267 – Einkommenshöchstbetrag
 
 (1) Unterhaltshilfe wird gewährt, wenn die Einkünfte des Berechtigten (§ 261) insgesamt 745 Deutsche Mark &lt;angepasst auf 451 Euro&gt; \*) monatlich nicht übersteigen. Dieser Betrag erhöht sich
 
@@ -1928,20 +1867,17 @@ Die Freibeträge und Vergünstigungen nach Nummer 2 Buchstaben a bis e, Nummern 
 
 (3) Durch Rechtsverordnung kann Näheres über die Abgrenzung und Berechnung der Einkünfte und Freibeträge bestimmt werden. Dabei ist mit Wirkung vom 1. Januar 1983 ab die Minderung der Einkünfte durch den Abzug von Beiträgen zur gesetzlichen Krankenversicherung sowie in angemessenem Umfang zu einer privaten Krankenversicherung zu regeln.
 
-
-## § 268
+# § 268
 
 (weggefallen)
 
-
-## § 269 – Höhe der Unterhaltshilfe
+# § 269 – Höhe der Unterhaltshilfe
 
 (1) Die Unterhaltshilfe beträgt für den Berechtigten monatlich 745 Deutsche Mark &lt;angepasst auf 451 Euro&gt; \*).
 
 (2) Die Unterhaltshilfe erhöht sich um monatlich 497 Deutsche Mark &lt;angepasst auf 300 Euro&gt; \*) für den nicht dauernd getrennt lebenden Ehegatten und um monatlich 252 Deutsche Mark &lt;angepasst auf 153 Euro&gt; \*) für jedes Kind im Sinne des § 265 Abs. 2, sofern es von dem Berechtigten überwiegend unterhalten wird; im Falle des § 267 Abs. 1 Satz 3 bis 6 erhöht sich die Unterhaltshilfe um die Pflegezulage.
 
-
-## § 269a – Selbständigenzuschlag
+# § 269a – Selbständigenzuschlag
 
 (1) Die nach § 269 sich ergebende Unterhaltshilfe erhöht sich für ehemals Selbständige im Sinne des § 273 Abs. 5 Nr. 1 und 2 um einen Selbständigenzuschlag. Den Zuschlag nach Absatz 2 Stufe 1 erhalten auf Antrag auch Berechtigte nach § 273 Abs. 6 Nr. 2, die als künftige Erben eines landwirtschaftlichen oder gewerblichen Betriebes nur deswegen im Zeitpunkt der Schädigung keine selbständige Erwerbstätigkeit ausgeübt haben, weil es bis zu diesem Zeitpunkt zu einer Vermögensübertragung nicht mehr gekommen ist.
 
@@ -1977,8 +1913,7 @@ Die Freibeträge und Vergünstigungen nach Nummer 2 Buchstaben a bis e, Nummern 
 
 höchstens jedoch um den Betrag, um den die Rentenleistung im Fall der Nummer 1 monatlich 14 Euro, im Fall der Nummer 2 monatlich 10 Euro und im Fall der Nummer 3 monatlich 5 Euro übersteigt. Die Gewährung von Freibeträgen nach § 267 Abs. 2 Nr. 6 entfällt, soweit die Freibeträge den Selbständigenzuschlag nicht übersteigen.
 
-
-## § 269b – Sozialzuschlag
+# § 269b – Sozialzuschlag
 
 (1) Die nach den §§ 269, 269a sich ergebende Unterhaltshilfe erhöht sich um einen Sozialzuschlag.
 
@@ -1990,8 +1925,7 @@ höchstens jedoch um den Betrag, um den die Rentenleistung im Fall der Nummer 1 
 
 (3) Der Sozialzuschlag wird nur gewährt, soweit er den Selbständigenzuschlag nach § 269a übersteigt.
 
-
-## § 270 – Anrechnung von Einkünften
+# § 270 – Anrechnung von Einkünften
 
 (1) Rentenleistungen und sonstige Einkünfte werden auf die Unterhaltshilfe insoweit angerechnet, als sie nach § 267 Abs. 2 als Einkünfte gelten. Der Anrechnungsbetrag wird auf volle Euro nach unten abgerundet. Sinkt der Freibetrag nach § 267 Abs. 2 Nr. 2 Buchstabe d, weil sich die Elternrente infolge der Gewährung oder Erhöhung anderer Einkünfte verringert hat, so sind die anzurechnenden Einkünfte um denjenigen Betrag zu kürzen, um den die Summe der Einkünfte nach Absatz 2 und der Unterhaltshilfe wegen des Absinkens des Freibetrags hinter den vorherigen Gesamteinkünften zurückbleiben würde; die Kürzung der anzurechnenden Einkünfte entfällt, sobald und soweit eine Erhöhung der Gesamteinkünfte eintritt.
 
@@ -2001,13 +1935,11 @@ höchstens jedoch um den Betrag, um den die Rentenleistung im Fall der Nummer 1 
 
 (4) Unterhaltshilfe wird nicht gewährt, wenn sich nach den Absätzen 1 bis 3 ein Auszahlungsbetrag von weniger als 3 Euro monatlich ergeben würde.
 
-
-## § 271 – Dauer der Unterhaltshilfe
+# § 271 – Dauer der Unterhaltshilfe
 
 Die Unterhaltshilfe wird auf Lebenszeit oder auf Zeit gewährt.
 
-
-## § 272 – Unterhaltshilfe auf Lebenszeit
+# § 272 – Unterhaltshilfe auf Lebenszeit
 
 (1) Unterhaltshilfe auf Lebenszeit wird gewährt, wenn durch die Schädigung die Existenzgrundlage des Berechtigten auf die Dauer vernichtet worden ist. Diese Voraussetzung gilt stets dann als gegeben, wenn der Schaden als Verlust der beruflichen oder sonstigen Existenzgrundlage festgestellt ist und sich dieser Verlust noch auswirkt. Bei Vermögensschäden wird die dauernde Vernichtung der Existenzgrundlage des Berechtigten vermutet, wenn der Berechtigte Vertriebener ist; bei Kriegssachgeschädigten, Ostgeschädigten und Sparern ist das Vorliegen dieser Voraussetzungen stets dann anzunehmen, wenn der nach § 266 sich ergebende Grundbetrag 2.863,23 Euro erreicht.
 
@@ -2021,8 +1953,7 @@ Die Sätze 2 und 3 gelten unter den Voraussetzungen des § 261 Abs. 2 Satz 2 fü
 
 (3) Bezieht ein Empfänger von Unterhaltshilfe im Zeitpunkt seines Todes Zuschläge für Kinder und werden diese durch den Todesfall Vollwaisen, so treten sie an die Stelle des Verstorbenen, solange die Voraussetzungen des § 265 Abs. 2 Satz 3 Nr. 1 und 2 erfüllt sind; sie erhalten die in § 275 festgesetzten Beträge. Absatz 2 Satz 1 gilt entsprechend.
 
-
-## § 273 – Unterhaltshilfe auf Zeit
+# § 273 – Unterhaltshilfe auf Zeit
 
 (1) Unterhaltshilfe auf Zeit wird gewährt, wenn die besonderen Voraussetzungen für die Gewährung auf Lebenszeit nach § 272 nicht vorliegen.
 
@@ -2068,8 +1999,7 @@ Die Unterhaltshilfe auf Zeit wird so lange gewährt, bis die Summe der anzurechn
 
 (7) Ist der Geschädigte nach dem 31. Dezember 1906 (eine Frau nach dem 31. Dezember 1911) geboren oder nach dem 31. Dezember 1971 erwerbsunfähig im Sinne des § 265 Abs. 1 geworden, wird Unterhaltshilfe nach Absatz 5 und Absatz 6 Nr. 2 gewährt, wenn eine Existenzgrundlage im Sinne dieser Vorschriften nach Vollendung des 16. Lebensjahres bis zum Verlust dieser Existenzgrundlage insgesamt mindestens 10 Jahre bestand. Beim Verlust einer Existenzgrundlage im Sinne des Absatzes 5 Nr. 1 werden auch Zeiten des Bestehens einer Existenzgrundlage im Sinne des Absatzes 6 Nr. 2 und beim Verlust einer Existenzgrundlage im Sinne des Absatzes 6 Nr. 2 auch Zeiten des Bestehens einer Existenzgrundlage im Sinne des Absatzes 5 Nr. 1 berücksichtigt.
 
-
-## § 274 – Sonderregelung bei Wegfall öffentlicher Renten
+# § 274 – Sonderregelung bei Wegfall öffentlicher Renten
 
 (1) Beruht der Anspruch des Berechtigten auf einem Sparerschaden, der durch Nichtumstellung von Ansprüchen auf Bezug oder Wiederbezug von Vorzugsrente oder durch Einstellung der Zahlung von Liquidationsrenten des ersten Weltkriegs oder von Reichszuschüssen an Kleinrentner entstanden ist (§ 15 Abs. 3), und übersteigen die Einkünfte des Berechtigten (§ 267 Abs. 2) nicht den Einkommenshöchstbetrag nach § 279 Abs. 1 Satz 1 bis 3, so wird Unterhaltshilfe auf Lebenszeit gewährt. Die Berechnung eines Schadensbetrags und eines Grundbetrags entfällt.
 
@@ -2077,15 +2007,13 @@ Die Unterhaltshilfe auf Zeit wird so lange gewährt, bis die Summe der anzurechn
 
 (3) Trifft mit einem Sparerschaden der in Absatz 1 genannten Art ein anderer Schaden, der einen Anspruch auf Unterhaltshilfe begründet, zusammen, so hat der Berechtigte die Wahl, ob er wegen seiner anderen Schäden Kriegsschadenrente nach den allgemeinen Vorschriften oder wegen der in Absatz 1 genannten Schäden die Sonderregelung nach den Absätzen 1 und 2 in Anspruch nehmen will.
 
-
-## § 275 – Unterhaltshilfe für Vollwaisen
+# § 275 – Unterhaltshilfe für Vollwaisen
 
 (1) Unmittelbar geschädigte Vollwaisen im Sinne des § 265 Abs. 2 erhalten Unterhaltshilfe auf Zeit nach den Vorschriften dieses Abschnitts. An die Stelle des in § 267 Abs. 1 und in § 269 Abs. 1 bestimmten Betrags tritt ein Satz von monatlich 410 Deutsche Mark &lt;angepasst auf 249 Euro&gt; \*). § 269b ist nur auf Vollwaisen anzuwenden, die das 15. Lebensjahr vollendet haben; als Sozialzuschlag ist ein Betrag von 60 Deutsche Mark &lt;angepasst auf 36 Euro&gt; \*) monatlich anzusetzen.
 
 (2) Die Gewährung der Unterhaltshilfe endet mit dem Ende des Monats, in dem die Voraussetzungen des § 265 Abs. 2 Satz 3 Nr. 1 und 2 wegfallen, sofern sich nicht aus § 273 Abs. 2 ein früherer Zeitpunkt ergibt.
 
-
-## § 276 – Krankenversorgung, Pflegeversicherung
+# § 276 – Krankenversorgung, Pflegeversicherung
 
 (1) Empfänger von Unterhaltshilfe erhalten als zusätzliche Leistung Krankenbehandlung, die nach Art, Form und Maß der Krankenbehandlung entspricht, die den nicht versicherten Empfängern laufender Leistungen zum Lebensunterhalt nach dem Dritten Kapitel des Zwölften Buches Sozialgesetzbuch gewährt wird; Personen, die ihren ständigen Aufenthalt im Ausland haben, erhalten Krankenversorgung nur, wenn ihnen bei Einkommens- und Vermögenslosigkeit Sozialhilfe nach dem Zwölften Buch Sozialgesetzbuch gewährt würde. Die Krankenversorgung nach Satz 1 umfaßt auch die Angehörigen, für die nach § 269 Abs. 2 Zuschläge gewährt werden, im Falle des § 274 den nicht dauernd getrennt lebenden Ehegatten. Die Krankenversorgung entfällt, solange Krankenhilfe nach den Vorschriften der Sozialversicherung oder anderen gesetzlichen Vorschriften gewährt wird oder wenn nach dem Bundesversorgungsgesetz mit Ausnahme der Vorschriften über die Kriegsopferfürsorge ein Anspruch auf entsprechende Leistungen besteht; ist in den genannten Vorschriften bestimmt, daß Leistungen nach anderen Gesetzen vorgehen, so gilt dies nicht im Verhältnis zur Krankenversorgung nach diesem Gesetz. Hat der Empfänger von Unterhaltshilfe auf Lebenszeit seine freiwillige Krankenversicherung nach dem erstmaligen Bezug von Unterhaltshilfe nach diesem Gesetz aufgegeben und wird die Unterhaltshilfe eingestellt oder erlischt der Anspruch auf die Unterhaltshilfe, wird die Krankenversorgung auch nach Einstellung der Unterhaltshilfe oder Erlöschen des Anspruchs auf die Unterhaltshilfe weitergewährt.
 
@@ -2103,13 +2031,11 @@ Die Unterhaltshilfe auf Zeit wird so lange gewährt, bis die Summe der anzurechn
 
 (6) Durch Rechtsverordnung kann der in Absatz 2 bestimmte Betrag der Entwicklung der Beiträge zur freiwilligen Krankenversicherung angepaßt werden.
 
-
-## § 276a
+# § 276a
 
 (weggefallen)
 
-
-## § 277 – Sterbegeld
+# § 277 – Sterbegeld
 
 (1) Empfänger von Unterhaltshilfe können beantragen, daß ihnen im Falle ihres Todes oder des Todes ihres Ehegatten ein Sterbegeld von je 520 Euro gewährt wird. Zu den entstehenden Kosten tragen der Unterhaltshilfeempfänger monatlich 1 Euro, sein Ehegatte 0,50 Euro bei; diese Beträge werden von den laufenden Zahlungen an Kriegsschadenrente einbehalten. Im übrigen trägt die Kosten der Bund.
 
@@ -2123,13 +2049,11 @@ Die Unterhaltshilfe auf Zeit wird so lange gewährt, bis die Summe der anzurechn
 
 (6) Das Sterbegeld ist auf vergleichbare Leistungen nicht anzurechnen. Es unterliegt auch keiner Verrechnung mit zu viel gezahlten anderen Leistungen.
 
-
-## § 277a
+# § 277a
 
 (weggefallen)
 
-
-## § 278 – Verhältnis zur Entschädigungsrente
+# § 278 – Verhältnis zur Entschädigungsrente
 
 (1) Der nach § 266 Abs. 2 ermittelte Grundbetrag gilt durch die Gewährung von Unterhaltshilfe auf Lebenszeit in folgender Höhe als in Anspruch genommen (Sperrbetrag):  
 
@@ -2253,8 +2177,7 @@ a) bei Berechtigten, die mit Wirkung vom 1. Januar 1955 oder von einem früheren
 
 b) bei Berechtigten, die mit Wirkung von einem späteren Zeitpunkt als dem 1. Januar 1955 ab in die Unterhaltshilfe erstmalig eingewiesen worden sind oder werden, in der bei der erstmaligen Einweisung sich ergebenden Höhe.
 
-
-## § 278a – Verhältnis zur Hauptentschädigung
+# § 278a – Verhältnis zur Hauptentschädigung
 
 (1) Auf den Grundbetrag der Hauptentschädigung werden die dem Berechtigten und den an seine Stelle tretenden Personen geleistete Zahlungen wie folgt angerechnet:
 
@@ -2338,8 +2261,7 @@ Die Unterhaltshilfe kann frühestens von dem Monatsersten ab zuerkannt werden, d
 
 (7) Das Nähere über die Anrechnung von Unterhaltshilfe (Absatz 1), über die Erfüllung von Ansprüchen auf Hauptentschädigung neben der Weitergewährung von Unterhaltshilfe (Absatz 4) und über die Zuerkennung von Unterhaltshilfe nach voller oder teilweiser Erfüllung der Ansprüche auf Hauptentschädigung (Absätze 5 und 6) wird durch Rechtsverordnung bestimmt. Dabei ist hinsichtlich der Absätze 4 und 5 von dem Auszahlungsbetrag der Unterhaltshilfe sowie von der durchschnittlichen Lebenserwartung des Berechtigten auszugehen; bei nicht dauernd getrennt lebenden Ehegatten mit unterschiedlicher durchschnittlicher Lebenserwartung ist für drei Fünftel des Auszahlungsbetrags die höhere und für zwei Fünftel die niedrigere durchschnittliche Lebenserwartung zugrunde zu legen. Für die Anwendung des Absatzes 6 kann insbesondere auch die Berücksichtigung des Mindesterfüllungsbetrags, der Zeitpunkt der Zuerkennung und Zahlung von Unterhaltshilfe, die Höhe des Kürzungsbetrags der Unterhaltshilfe und die Verzinsung des Anspruchs auf Hauptentschädigung bei Rückzahlung von Erfüllungsbeträgen geregelt werden.
 
-
-## § 279 – Einkommenshöchstbetrag
+# § 279 – Einkommenshöchstbetrag
 
 (1) Entschädigungsrente wird gewährt, wenn die Einkünfte des Berechtigten insgesamt 1.133 Deutsche Mark &lt;angepasst auf 659 Euro&gt; \*) monatlich nicht übersteigen. Dieser Betrag erhöht sich
 
@@ -2357,8 +2279,7 @@ Bei unmittelbar geschädigten Vollwaisen im Sinne des § 265 Abs. 3 beträgt der
 
 (3) Die Sätze des Einkommenshöchstbetrages nach Absatz 1 sind jeweils durch Rechtsverordnung um die Beträge anzupassen, um die sich die Sätze der Unterhaltshilfe einschließlich des Sozialzuschlags durch Anpassung nach § 277a verändern.
 
-
-## § 280 – Höhe der Entschädigungsrente
+# § 280 – Höhe der Entschädigungsrente
 
 (1) Die Entschädigungsrente beträgt jährlich vier vom Hundert des Grundbetrags nach § 266 Abs. 2, in den Fällen des § 279 Abs. 1 Satz 4, des § 282 Abs. 4 und 5 sowie des § 283 Nr. 2 Buchstabe b, Nr. 3 Satz 4 und Nr. 4 jährlich vier vom Hundert des Grundbetrags der Hauptentschädigung; hierbei bleibt vorbehaltlich der Rechtsverordnung nach § 261 Abs. 4 der auf Zonenschäden beruhende Grundbetrag oder Zonenschaden-Teilgrundbetrag (§ 250 Abs. 7 Satz 2) außer Ansatz. Wird Entschädigungsrente neben Unterhaltshilfe gewährt, beträgt sie vier vom Hundert des Grundbetrags, soweit dieser die in § 278 Abs. 1 bestimmten Sperrbeträge übersteigt; liegen dem Grundbetrag überwiegend Sparerschäden zugrunde, erhöhen sich die Sperrbeträge um 30 vom Hundert.
 
@@ -2376,13 +2297,11 @@ Bei unmittelbar geschädigten Vollwaisen im Sinne des § 265 Abs. 3 beträgt der
 
 (5) Entschädigungsrente wird nicht gewährt, wenn sich nach den Absätzen 1 bis 4 ein Auszahlungsbetrag von weniger als 3 Euro monatlich ergeben würde.
 
-
-## § 281 – Vorauszahlungen auf die Entschädigungsrente
+# § 281 – Vorauszahlungen auf die Entschädigungsrente
 
 Liegen die Voraussetzungen für die Gewährung der Entschädigungsrente vor und macht der Berechtigte glaubhaft, daß ihm ein Vermögensschaden von mehr als 20.000 Reichsmark entstanden ist, so können bis zur Festsetzung des Anspruchs auf Entschädigungsrente Vorauszahlungen auf die Entschädigungsrente in Höhe von 11 Euro monatlich gewährt werden.
 
-
-## § 282 – Besondere Voraussetzungen der Entschädigungsrente
+# § 282 – Besondere Voraussetzungen der Entschädigungsrente
 
 (1) Die Entschädigungsrente wird, wenn der Grundbetrag des Berechtigten den in § 280 Abs. 1 Satz 2 bezeichneten Betrag übersteigt, nur neben Unterhaltshilfe auf Lebenszeit gewährt; der Berechtigte kann vorbehaltlich des Absatzes 5 beantragen, daß ihm ausschließlich Entschädigungsrente gewährt wird.
 
@@ -2402,8 +2321,7 @@ Liegen die Voraussetzungen für die Gewährung der Entschädigungsrente vor und 
 
 (5) Ist der Geschädigte nach dem 31. Dezember 1906 (eine Frau nach dem 31. Dezember 1911) geboren oder nach dem 31. Dezember 1971 erwerbsunfähig im Sinne des § 265 Abs. 1 geworden, wird Entschädigungsrente nach Maßgabe des Absatzes 4 neben laufender oder ruhender Unterhaltshilfe nach § 273 Abs. 7 gewährt.
 
-
-## § 283 – Verhältnis zur Hauptentschädigung
+# § 283 – Verhältnis zur Hauptentschädigung
 
 (1) Wird Entschädigungsrente allein gewährt, gilt im Verhältnis zur Hauptentschädigung folgendes:
 
@@ -2431,8 +2349,7 @@ Haben die Voraussetzungen für eine Anrechnung nach Satz 1 bis zum 31. Dezember 
 
 (2) Das Nähere über die Anrechnung von Entschädigungsrente (Absatz 1 Nr. 2 Satz 2) und über die Erfüllung von Ansprüchen auf Hauptentschädigung neben der Weitergewährung von Entschädigungsrente (Absatz 1 Nr. 3) wird durch Rechtsverordnung bestimmt. Dabei ist von dem Auszahlungsbetrag der Entschädigungsrente sowie von der durchschnittlichen Lebenserwartung des Berechtigten, bei nicht dauernd getrennt lebenden Ehegatten mit unterschiedlicher durchschnittlicher Lebenserwartung von der höheren durchschnittlichen Lebenserwartung auszugehen.
 
-
-## § 283a – Verhältnis zur Hauptentschädigung bei gleichzeitigem Bezug von Unterhaltshilfe
+# § 283a – Verhältnis zur Hauptentschädigung bei gleichzeitigem Bezug von Unterhaltshilfe
 
 (1) Wird Entschädigungsrente neben Unterhaltshilfe gewährt, gilt im Verhältnis zur Hauptentschädigung § 283 mit folgender Maßgabe:
 
@@ -2454,8 +2371,7 @@ c) des Mindesterfüllungsbetrags (§ 278a Abs. 4)
 
 (2) Das Nähere über die Erfüllung von Ansprüchen auf Hauptentschädigung neben der Weitergewährung von Unterhaltshilfe und Entschädigungsrente sowie über die Zuerkennung von Unterhaltshilfe und Entschädigungsrente nach teilweiser Erfüllung der Ansprüche auf Hauptentschädigung wird durch Rechtsverordnung bestimmt. Dabei können insbesondere auch Bestimmungen getroffen werden über die Auswirkungen vorausgegangener oder nachfolgender Erfüllung von Hauptentschädigung auf den Mindesterfüllungsbetrag, über die Reihenfolge der Anrechnung von Zahlungen an Kriegsschadenrente und Erfüllungsbeträgen auf die Hauptentschädigung sowie über die Folgen der Ausübung des Wahlrechts nach § 263 Abs. 3.
 
-
-## § 284 – Sonderregelung bei Verlust der beruflichen oder sonstigen Existenzgrundlage
+# § 284 – Sonderregelung bei Verlust der beruflichen oder sonstigen Existenzgrundlage
 
 (1) Ist ein Schaden durch Verlust der beruflichen oder sonstigen Existenzgrundlage festgestellt und wirkt sich dieser Verlust noch aus, so wird als Entschädigungsrente gewährt  
 
@@ -2479,8 +2395,7 @@ In den Fällen des Satzes 1 wird Entschädigungsrente auch dann gewährt, wenn d
 
 (4) § 280 Abs. 3 bis 5 gilt entsprechend.
 
-
-## § 285 – Dauer der Entschädigungsrente
+# § 285 – Dauer der Entschädigungsrente
 
 (1) Die Entschädigungsrente wird auf Lebenszeit, an Vollwaisen längstens bis zu dem in § 275 Abs. 2 bestimmten Zeitpunkt gewährt. Die Zahlung der Entschädigungsrente auf Lebenszeit endet mit Ablauf des Monats, in dem der Berechtigte verstorben ist, im Falle der Rechtsnachfolge nach den Absätzen 2 und 3 mit Ablauf des auf den Todestag folgenden Monats.
 
@@ -2488,18 +2403,15 @@ In den Fällen des Satzes 1 wird Entschädigungsrente auch dann gewährt, wenn d
 
 (3) Absatz 2 gilt unter den Voraussetzungen des § 261 Abs. 2 Satz 2 für eine alleinstehende Tochter entsprechend. § 266 Abs. 2 Satz 3 und Abs. 3 Satz 2 ist mit der Maßgabe anzuwenden, daß der Antrag, die Grundbeträge oder die verlorenen Einkünfte nicht zusammenzurechnen, bis zum Ablauf eines Jahres nach Rechtskraft des Bescheids, mit dem die Entschädigungsrente auf die alleinstehende Tochter umgestellt wird, gestellt werden muß.
 
-
-## § 285a
+# § 285a
 
 Bei Bezug von Entschädigungsrente und besonderer laufender Beihilfe gilt § 276 Abs. 3a und 3b entsprechend.
 
-
-## § 286 – Zuerkennung des Anspruchs auf Kriegsschadenrente
+# § 286 – Zuerkennung des Anspruchs auf Kriegsschadenrente
 
 Der Anspruch wird dem Berechtigten nach Höhe und Dauer zuerkannt.
 
-
-## § 287 – Erfüllung des Anspruchs auf Kriegsschadenrente
+# § 287 – Erfüllung des Anspruchs auf Kriegsschadenrente
 
 (1) Kriegsschadenrente wird bei Vorliegen der sonstigen Voraussetzungen mit Wirkung vom 1. April 1952 ab gewährt, wenn der Antrag bis zum 1. Mai 1953 gestellt wird; sie wird, wenn die Voraussetzungen für die Gewährung von Kriegsschadenrente in der Zeit zwischen dem 1. April 1952 und dem 1. Mai 1953 erfüllt werden, von dem Ersten des Monats ab gewährt, in dem die Voraussetzungen für die Gewährung von Kriegsschadenrente vorliegen. In allen übrigen Fällen wird Kriegsschadenrente mit Wirkung von dem auf den Tag der Antragstellung folgenden Monatsersten ab gewährt. Die laufende Zahlung hat in gleichen Monatsbeträgen im voraus jeweils bis zum fünften Tag eines Monats zu erfolgen; beträgt die sich ergebende monatliche Zahlung weniger als 10 Euro, so kann vierteljährlich im voraus gezahlt werden. Mit der ersten laufenden Zahlung werden die Beträge für zurückliegende Monate nachgezahlt.
 
@@ -2509,15 +2421,13 @@ Der Anspruch wird dem Berechtigten nach Höhe und Dauer zuerkannt.
 
 (4) Die Kriegsschadenrente gilt als dauernd beendet, wenn sie nach dem 31. Dezember 1964 ununterbrochen fünf Jahre geruht hat, es sei denn, daß sie wegen vorgeschrittenen Lebensalters gewährt worden war und wegen Bezugs von Einkünften im Sinne des § 267 Abs. 2 Nr. 3 ruht.
 
-
-## § 288 – Wirkung von Veränderungen
+# § 288 – Wirkung von Veränderungen
 
 (1) Nachträglich eingetretene, nach den Vorschriften dieses Abschnitts bedeutsame Umstände werden, soweit sie sich zugunsten des Berechtigten auswirken, mit Wirkung vom Ersten des laufenden Monats, soweit sie sich zuungunsten des Berechtigten auswirken, vom folgenden Monatsersten ab, bei Rentenzahlungen jedoch vom Zeitpunkt ihrer Gewährung ab berücksichtigt.
 
 (2) Bei Personen ohne festes Einkommen werden Umstände, die zu einer Veränderung des Anrechnungsbetrags nach § 270 führen würden, innerhalb des laufenden Kalenderjahres nur berücksichtigt, wenn der Monatsbetrag der anzurechnenden Einkünfte im Jahresdurchschnitt um mehr als ein Fünftel von dem bisherigen Anrechnungsbetrag nach oben oder unten abweicht.
 
-
-## § 289 – Meldepflicht
+# § 289 – Meldepflicht
 
 (1) Treten nachträglich Umstände ein, die für den Anspruch auf Kriegsschadenrente oder für seine Höhe von Bedeutung sind, so ist der Berechtigte, sofern diese Umstände zu einer Minderung oder zu einem Wegfall der Kriegsschadenrente führen können, verpflichtet, diese anzuzeigen.
 
@@ -2525,8 +2435,7 @@ Der Anspruch wird dem Berechtigten nach Höhe und Dauer zuerkannt.
 
 (3) Ist der Berechtigte verstorben oder nicht in der Lage, Anzeige zu erstatten, so sind hierzu der Ehegatte und die Erben, gegebenenfalls deren gesetzliche Vertreter, verpflichtet.
 
-
-## § 290 – Erstattungspflicht
+# § 290 – Erstattungspflicht
 
 (1) Berechtigte sind verpflichtet, zuviel erhaltene Beträge an Kriegsschadenrente sowie an Unterhaltshilfe nach dem Soforthilfegesetz und an Teuerungszuschlägen nach dem Soforthilfeanpassungsgesetz zurückzuerstatten, soweit nach diesen Gesetzen oder nach allgemeinem Verwaltungsrecht ein Rückforderungsanspruch besteht. Der Rückforderungsanspruch kann vorbehaltlich der Sätze 5 und 6 nur innerhalb von vier Jahren nach Ablauf des Kalenderjahres, in dem die Überzahlung erfolgte, geltend gemacht werden; die Frist beträgt zehn Jahre, wenn Berechtigte die Überzahlung zu vertreten oder mit zu vertreten haben, insbesondere, wenn sie ihrer Meldepflicht nach § 289 nicht nachgekommen sind. Soweit hiernach der Rückforderungsanspruch geltend gemacht werden kann, kann die Überzahlung als Vorauszahlung auf die laufenden Zahlungen behandelt werden. Eine Kürzung der laufenden Zahlungen ist jedoch nur bis zu einem Betrag von monatlich 50 Euro zulässig. Sind Berechtigte zur Erstattung nicht in der Lage oder ist der Rückforderungsanspruch nach Ablauf der nach Satz 2 maßgebenden Frist entstanden, so wird in erster Linie mit etwaigen Nachzahlungsbeträgen, in zweiter Linie, soweit ein Anspruch auf Hauptentschädigung besteht, mit der Hauptentschädigung verrechnet. Ist nach den Sätzen 3 bis 5 eine Verrechnung nicht möglich, so ist der Grundbetrag (§ 266 Abs. 2) um die Überzahlung zu kürzen.
 
@@ -2534,8 +2443,7 @@ Der Anspruch wird dem Berechtigten nach Höhe und Dauer zuerkannt.
 
 (3) Die Träger der Sozialversicherung und die ihnen nach § 18 Abs. 1 Nr. 16 gleichgestellten Verbände und Einrichtungen sowie alle Dienststellen und Kassen der öffentlichen Hand, insbesondere die Versorgungsdienststellen und Versorgungskassen, sind verpflichtet, die Auszahlung von Rentenleistungen, die den Beziehern von Unterhaltshilfe für zurückliegende Monate bewilligt werden, unmittelbar an den Bund zu bewirken, soweit diese Leistungen nach § 270 auf die Unterhaltshilfe anzurechnen sind oder nach Soforthilferecht auf die Unterhaltshilfe anzurechnen waren; der Anspruch auf Rentennachzahlung geht insoweit auf den Bund über. § 87 des Zehnten Buches Sozialgesetzbuch ist entsprechend anzuwenden. Soweit Überzahlungen an Unterhaltshilfe, die durch die Anrechnung von Rentennachzahlungen entstanden sind, nicht durch unmittelbare Leistung der Nachzahlung an den Bund ausgeglichen werden, gilt für den sich ergebenden Rückforderungsanspruch Absatz 1. Bei einem Anspruch auf Rentennachzahlung bis zu 50 Euro kann der Leiter des Ausgleichsamtes von der unmittelbaren Bewirkung an den Bund Abstand nehmen und statt dessen die laufende Zahlung der Kriegsschadenrente kürzen. Treffen Erstattungsansprüche des Bundes mit solchen anderer öffentlicher Kassen zusammen, so hat der Bund den Vorrang. Verfahren vor den Gerichten zur Durchsetzung des Anspruchs auf unmittelbare Bewirkung von Leistungen an den Bund nach den Sätzen 1 und 5 sind kostenfrei.
 
-
-## § 291 – Verhältnis zu Aufbaudarlehen
+# § 291 – Verhältnis zu Aufbaudarlehen
 
 (1) Personen, die Vertreibungsschäden, Kriegssachschäden oder Ostschäden geltend machen können, kann, wenn sie die Voraussetzungen für die Gewährung sowohl von Kriegsschadenrente als auch von Aufbaudarlehen nach § 254 Abs. 1 erfüllen, nach ihrer Wahl entweder Kriegsschadenrente oder ein Aufbaudarlehen nach § 254 Abs. 1 gewährt werden. Sind auf ein solches Aufbaudarlehen oder auf ein Darlehen zum Existenzaufbau nach § 44 des Soforthilfegesetzes oder nach den Vorschriften des Flüchtlingssiedlungsgesetzes an den Berechtigten oder seinen Ehegatten bereits Leistungen bewirkt worden, kann
 
@@ -2553,8 +2461,7 @@ Ist die Schaffung oder Sicherung der Lebensgrundlage nicht erreicht worden, weil
 
 (3) Aufbaudarlehen nach § 254 Abs. 2 und 3 und Aufbaudarlehen zur Förderung einer landwirtschaftlichen Nebenerwerbsstelle können auch neben Kriegsschadenrente gewährt werden. Satz 1 gilt sinngemäß, wenn Leistungen nach den Vorschriften des Flüchtlingssiedlungsgesetzes zur Förderung einer landwirtschaftlichen Nebenerwerbsstelle gewährt worden sind.
 
-
-## § 292 – Verhältnis zur Sozialhilfe, zur Kriegsopferfürsorge sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung des Lebensunterhalts
+# § 292 – Verhältnis zur Sozialhilfe, zur Kriegsopferfürsorge sowie zur Arbeitslosenversicherung und zu Leistungen zur Sicherung des Lebensunterhalts
 
 (1) Für Berechtigte, bei denen trotz Bezugs von Kriegsschadenrente die Voraussetzungen für die Gewährung von Leistungen zur Sicherung des Lebensunterhalts, von Sozialhilfe oder von Kriegsopferfürsorge vorliegen, gelten ergänzend die Vorschriften des Zweiten Buches Sozialgesetzbuch, des Zwölften Buches Sozialgesetzbuch oder die Vorschriften des Bundesversorgungsgesetzes über die Kriegsopferfürsorge.
 
@@ -2580,8 +2487,7 @@ Ist die Schaffung oder Sicherung der Lebensgrundlage nicht erreicht worden, weil
 
 (7) (weggefallen)
 
-
-## § 292a – Bestimmungen zur Unterhaltshilfe und Entschädigungsrente
+# § 292a – Bestimmungen zur Unterhaltshilfe und Entschädigungsrente
 
 (1) Nach den §§ 261 bis 292 zuerkannte Ansprüche auf Kriegsschadenrente werden nach dem 31. Dezember 2005 nach folgenden Bestimmungen erfüllt:
 
@@ -2601,15 +2507,13 @@ Ist die Schaffung oder Sicherung der Lebensgrundlage nicht erreicht worden, weil
 
 (4) Für die Erstattung von Kriegsschadenrente sowie von Zuschüssen im Sinne von § 276 Absatz 2 und 3a, die für die Zeit nach dem Tod des Berechtigten ausgezahlt wurden, gilt § 118 Absatz 3 und 4 des Sechsten Buches Sozialgesetzbuch entsprechend.
 
-
-## § 292b – Sterbegeld
+# § 292b – Sterbegeld
 
 (1) Für Empfänger von Kriegsschadenrente und deren Ehegatten, die am 1. Januar 2006 an der Sterbevorsorge nach § 277 teilnehmen, wird im Falle ihres Todes ein Sterbegeld von je 750 Euro gewährt. Zu den entstehenden Kosten trägt der Unterhaltshilfeempfänger monatlich 2 Euro bei; dieser Betrag wird von den laufenden Zahlungen an Kriegsschadenrente einbehalten.
 
 (2) Im Übrigen gelten die Bestimmungen des § 277 Abs. 3, 5 und 6.
 
-
-## § 292c – Überleitungsvorschriften
+# § 292c – Überleitungsvorschriften
 
 In den Fällen des § 292 Abs. 4 Satz 1 kann die Kriegsschadenrente übergeleitet werden
 
@@ -2619,20 +2523,17 @@ In den Fällen des § 292 Abs. 4 Satz 1 kann die Kriegsschadenrente übergeleite
 
 3. in Höhe von 4 vom Hundert des Grundbetrags der zum 1. Januar 2006 festgesetzten Entschädigungsrente nach § 280 oder in Höhe der Hälfte des Auszahlungsbetrags der zum 1. Januar 2006 festgesetzten Entschädigungsrente nach § 284.
 
-
-## § 293 – Voraussetzungen
+# § 293 – Voraussetzungen
 
 (1) Hausratentschädigung wird gewährt zur Abgeltung von Vertreibungsschäden, Kriegssachschäden und Ostschäden im Sinne des § 14 Abs. 1 Satz 1, die in dem Verlust von Hausrat bestehen.
 
 (2) Als Geschädigte gelten, wenn der Hausratverlust im gemeinsamen Haushalt lebenden Ehegatten entstanden ist, ohne Rücksicht auf die Eigentumsverhältnisse beide Ehegatten. Die Hausratentschädigung wird demjenigen der beiden Ehegatten gewährt, für den der Hausratverlust festgestellt worden ist. Ist ein Ehegatte nach der Schädigung verstorben, so wird die Hausratentschädigung in voller Höhe dem überlebenden Ehegatten gewährt. Lebten die Ehegatten am 1. April 1952 getrennt oder waren sie geschieden, so kann jeder der Ehegatten die Hälfte der Hausratentschädigung beanspruchen, es sei denn, daß einer der Ehegatten nachweist, daß er allein Eigentümer des verlorenen Hausrats war.
 
-
-## § 294 – Übertragbarkeit
+# § 294 – Übertragbarkeit
 
 Der Anspruch auf Hausratentschädigung kann vererbt, übertragen und verpfändet, jedoch nicht gepfändet werden; § 244 Sätze 2 und 3 findet entsprechende Anwendung.
 
-
-## § 295 – Zuerkennung und Höhe des Anspruchs
+# § 295 – Zuerkennung und Höhe des Anspruchs
 
 (1) Der Anspruch wird dem Geschädigten nach Maßgabe der Schadensberechnung nach § 16 des Feststellungsgesetzes zuerkannt; die Hausratentschädigung beträgt
 
@@ -2659,8 +2560,7 @@ Führte ein unverheirateter Geschädigter keinen Haushalt mit überwiegend eigen
 
 Die Zuschläge werden auch für Familienangehörige gewährt, die nach dem 1. April 1952 unter den Voraussetzungen des § 230 Abs. 2 Nr. 1 bis 4 in den Haushalt des Geschädigten aufgenommen worden sind. Die Zuschläge werden für eine Person nur einmal gewährt; sie werden nicht für den Ehegatten gewährt, der selbst Anspruch auf Hausratentschädigung hat.
 
-
-## § 296 – Anrechnung früherer Zahlungen
+# § 296 – Anrechnung früherer Zahlungen
 
 (1) Der Anspruch auf Hausratentschädigung wird um diejenigen Entschädigungszahlungen gekürzt, die für den Verlust von Hausrat auf Grund der Kriegssachschädenverordnung, des Reichsleistungsgesetzes oder anderer innerdeutscher Vorschriften gewährt worden sind, es sei denn, daß der aus den Entschädigungszahlungen wiederbeschaffte Hausrat durch Kriegsereignisse erneut verlorengegangen ist; dabei sind Reichsmarkzahlungen mit 10 vom Hundert anzusetzen.
 
@@ -2668,13 +2568,11 @@ Die Zuschläge werden auch für Familienangehörige gewährt, die nach dem 1. Ap
 
 (3) Für Entscheidungen nach dem 31. Dezember 2001 sind die sich nach den Absätzen 1 und 2 ergebenden DM-Beträge mit dem Divisor 1,95583 in Euro anzusetzen.
 
-
-## § 297 – Erfüllung des Anspruchs
+# § 297 – Erfüllung des Anspruchs
 
 Die Reihenfolge der Erfüllung der Ansprüche bestimmt sich unter Berücksichtigung sozialer Gesichtspunkte nach der Dringlichkeit.
 
-
-## § 298 – Voraussetzungen
+# § 298 – Voraussetzungen
 
 (1) Wohnraumhilfe kann Vertriebenen und Kriegssachgeschädigten gewährt werden, wenn sie nachweisen,
 
@@ -2686,20 +2584,17 @@ b) daß ihre bisherige Wohnung im Falle des Freiwerdens mit Einwilligung des Ver
 
 (2) Unter den Voraussetzungen des Absatzes 1 kann Wohnraumhilfe ferner Personen gewährt werden, die Leistungen nach den §§ 301, 301a erhalten können, Sowjetzonenflüchtlingen und Vertriebenen jedoch nur insoweit, als sie vor dem 1. Februar 1953 aufgenommen worden sind.
 
-
-## § 299 – Grundsätze
+# § 299 – Grundsätze
 
 (1) Wohnraumhilfe wird in der Weise gewährt, daß dem Geschädigten Gelegenheit zum Bezug einer Wohnung beschafft wird, deren Bereitstellung durch Darlehen des Ausgleichsfonds ermöglicht worden ist.
 
 (2) Die Darlehen sollen bevorzugt zur Bildung von Einzeleigentum für Geschädigte, besonders in der Form von Familienheimen, unter Beachtung der im Zweiten Wohnungsbaugesetz bestimmten Rangfolgen gewährt werden.
 
-
-## § 300 – Einsatz der Mittel
+# § 300 – Einsatz der Mittel
 
 Die Mittel sind so einzusetzen, daß der Bau einer möglichst großen Zahl von Wohnungen für Geschädigte, welche die Voraussetzungen des § 298 erfüllen, erreicht wird. Geschädigte, die Vertreibungsschäden oder Kriegssachschäden der in § 12 Abs. 1 Nr. 1 und § 13 Abs. 1 Nr. 1 bezeichneten Art geltend machen können, die Erben solcher Geschädigten und Gemeinschaften von solchen Geschädigten haben als Bauherren bei der Darlehensgewährung den Vorrang vor den übrigen Antragstellern; unter den letzteren haben Geschädigte, die Vertreibungsschäden oder Kriegssachschäden geltend machen können, den Vorrang. Den vorgenannten Geschädigten sind die in § 298 Abs. 2 genannten Personen jeweils insoweit gleichgestellt, als sie gleichartige Schäden geltend machen können.
 
-
-## § 301 – Allgemeine Vorschriften
+# § 301 – Allgemeine Vorschriften
 
 (1) Zur Milderung von Härten kann für Gruppen von Personen bestimmt werden, daß diese Personen Leistungen erhalten, wenn ihnen Schäden entstanden sind, die den in diesem Gesetz berücksichtigten Schäden entsprechen oder ähnlich sind, deren Ausgleich in diesem Gesetz jedoch nicht vorgesehen ist; ein Anspruch auf Hauptentschädigung für Zonenschäden steht der Gewährung von Leistungen nicht entgegen. Es sind auch Vertriebene zu berücksichtigen, welche die Voraussetzungen des § 230 nicht erfüllen, wenn sie die sowjetische Besatzungszone Deutschlands oder den Sowjetsektor von Berlin verlassen haben und im Anschluß daran ihren ständigen Aufenthalt im Geltungsbereich des Grundgesetzes oder in Berlin (West) genommen haben.
 
@@ -2725,8 +2620,7 @@ Die Gewährung der besonderen laufenden Beihilfe ist in entsprechender Anwendung
 
 (5) Personen, die zu dem in der Rechtsverordnung (Absatz 4) bestimmten Personenkreis gehören, können bei Anwendung des § 259 Abs. 1 als Arbeitnehmer berücksichtigt werden.
 
-
-## § 301a – Leistungen an Sowjetzonenflüchtlinge
+# § 301a – Leistungen an Sowjetzonenflüchtlinge
 
 (1) Härteleistungen nach § 301 sollen insbesondere auch Sowjetzonenflüchtlinge im Sinne des § 3 des Bundesvertriebenengesetzes und diesen nach § 4 des Bundesvertriebenengesetzes gleichgestellte Personen erhalten.
 
@@ -2742,8 +2636,7 @@ Ist die Ermittlung eines Grundbetrags erforderlich, so ist sie nach den Grundsä
 
 (4) § 301 Abs. 3 Satz 4 gilt entsprechend.
 
-
-## § 301b – Leistungen in außergewöhnlichen Härtefällen
+# § 301b – Leistungen in außergewöhnlichen Härtefällen
 
 (1) Sofern sich aus den Vorschriften dieses Gesetzes, des Reparationsschädengesetzes oder des Flüchtlingshilfegesetzes außergewöhnliche Härten ergeben, kann der Bund einen angemessenen Ausgleich gewähren. Dieser Ausgleich kann auch in einer einmaligen Beihilfe anderer Art als der in § 301 Abs. 3 genannten bestehen, wenn nur hierdurch die Härte beseitigt werden kann.
 
@@ -2753,40 +2646,33 @@ Ist die Ermittlung eines Grundbetrags erforderlich, so ist sie nach den Grundsä
 
 2. mit Zustimmung des Präsidenten des Bundesausgleichsamtes im Einzelfall.
 
-
-## § 302 – Bereitstellung von Mitteln
+# § 302 – Bereitstellung von Mitteln
 
 Zur weiteren wirtschaftlichen und sozialen Förderung im Wege der Berufsausbildung Jugendlicher, der Umschulung für einen geeigneten Beruf, der Errichtung von Heimen und Ausbildungsstätten für heimat- und berufslose Jugendliche sowie des Aufbaues von Einrichtungen der Wohlfahrtspflege können zugunsten von Geschädigten (§ 229) sowie von Personen, die Leistungen nach den §§ 301, 301a erhalten können, Mittel in der durch dieses Gesetz begrenzten Höhe bereitgestellt werden. Es muß gewährleistet sein, daß die Mittel ausschließlich den in Satz 1 genannten Personen zugute kommen.
 
-
-## § 303
-
-(weggefallen)
-
-
-## § 304
+# § 303
 
 (weggefallen)
 
+# § 304
 
-## § 305 – Auftragsverwaltung
+(weggefallen)
+
+# § 305 – Auftragsverwaltung
 
 (1) Die Vorschriften des Dritten Teils dieses Gesetzes und der anderen Gesetze, die der Durchführung des Lastenausgleichs dienen, werden teils vom Bund, teils im Auftrag des Bundes von den Ländern und vom Land Berlin durchgeführt.
 
 (2) Soweit die Länder diese Vorschriften nicht durch eigene Behörden durchführen, können sie die Gemeinden und Gemeindeverbände mit der Durchführung beauftragen.
 
-
-## § 306 – Landesbehörden
+# § 306 – Landesbehörden
 
 Im Bereich der Länder werden von der nach Landesrecht zuständigen oder bei Fehlen einer entsprechenden landesrechtlichen Regelung von der durch die Landesregierung bestimmten Stelle innerhalb der bestehenden Behörden Ausgleichsämter und Landesausgleichsämter errichtet.
 
-
-## § 307 – Bundesoberbehörde
+# § 307 – Bundesoberbehörde
 
 Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige Bundesoberbehörde errichtet.
 
-
-## § 308 – Ausgleichsämter
+# § 308 – Ausgleichsämter
 
 (1) Für jeden Landkreis und jeden Stadtkreis wird innerhalb der allgemeinen Verwaltung oder einer anderen bestehenden Behörde ein Ausgleichsamt eingerichtet; im Bedarfsfalle können Außenstellen eingerichtet werden. Ein Ausgleichsamt kann für mehrere Kreise oder mit landesweiter Zuständigkeit gebildet werden, wenn dies aus Gründen der Wirtschaftlichkeit der Verwaltung geboten ist. Aus den gleichen Gründen können die Aufgaben eines Ausgleichsamtes ganz oder teilweise einem anderen Ausgleichsamt oder dem Landesausgleichsamt sowie dessen Außenstellen zur Wahrnehmung in eigener Zuständigkeit übertragen werden. Eine Übertragung ist durch Vereinbarung der nach § 306 für die Errichtung von Ausgleichsämtern und Landesausgleichsämtern zuständigen Stellen auch länderübergreifend möglich.
 
@@ -2798,13 +2684,11 @@ Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige Bundesoberb
 
 (5) Die in Absatz 3 vorgesehenen Personen werden im Einvernehmen mit dem Landesausgleichsamt oder der nach Landesrecht zuständigen Stelle bestellt.
 
-
-## § 309
+# § 309
 
 (weggefallen)
 
-
-## § 310 – Beschwerdeausschüsse
+# § 310 – Beschwerdeausschüsse
 
 (1) Für den Bereich eines Stadt- oder Landkreises oder mehrerer Kreise wird ein Beschwerdeausschuß gebildet; bei Bedarf können mehrere Beschwerdeausschüsse gebildet werden.
 
@@ -2812,8 +2696,7 @@ Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige Bundesoberb
 
 (3) Die Landesregierung oder die nach Landesrecht zuständige Stelle bestimmt über Sitz und Amtsbereich des Beschwerdeausschusses, die Amtszeit der Beisitzer des Beschwerdeausschusses sowie darüber, von wem oder durch welche Wahlkörperschaft die Beisitzer bestellt werden. Nach Landesrecht kann abweichend von Absatz 1 und 2 auch bestimmt werden, dass an Stelle des Beschwerdeausschusses eine Behörde als Beschwerdestelle tätig wird. Die Vorschriften dieses Gesetzes über die Beschwerdeausschüsse gelten für die Beschwerdestelle entsprechend. Wird eine Behörde als Beschwerdestelle eingerichtet, finden Absatz 1 und 2 keine Anwendung.
 
-
-## § 311 – Landesausgleichsämter
+# § 311 – Landesausgleichsämter
 
 (1) Für jedes Land wird ein Landesausgleichsamt eingerichtet; erforderlichenfalls sind Außenstellen dieses Amtes einzurichten. Das Landesausgleichsamt ist bei einer obersten Landesbehörde zu bilden. Die Aufgaben eines Landesausgleichsamtes können entsprechend § 308 Abs. 1 Satz 3 und 4 mit Zustimmung des Bundesausgleichsamtes ganz oder teilweise einem anderen Landesausgleichsamt zur Wahrnehmung in eigener Zuständigkeit übertragen werden.
 
@@ -2821,8 +2704,7 @@ Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige Bundesoberb
 
 (3) Das Landesausgleichsamt übt die Sachaufsicht über die Ausgleichsämter seines Bereichs aus.
 
-
-## § 312 – Bundesausgleichsamt
+# § 312 – Bundesausgleichsamt
 
 (1) Das Bundesausgleichsamt wird von einem Präsidenten geleitet. Der Präsident des Bundesausgleichsamtes wird auf Vorschlag der Bundesregierung durch den Bundespräsidenten ernannt und entlassen; der Vorschlag der Bundesregierung erfolgt im Einvernehmen mit dem Bundesrat.
 
@@ -2830,8 +2712,7 @@ Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige Bundesoberb
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat übt die Dienstaufsicht über das Bundesausgleichsamt für den Bereich des Lastenausgleichs im Einvernehmen mit dem Bundesministerium der Finanzen aus. Dem Bundesministerium der Finanzen obliegt die Fachaufsicht über das Bundesausgleichsamt; die Befugnisse des Präsidenten des Bundesausgleichsamts nach Absatz 2 Satz 1 bleiben davon unberührt.
 
-
-## § 313 – Zuständigkeitsübertragung
+# § 313 – Zuständigkeitsübertragung
 
 (1) Die Zuständigkeit eines Landes für die Durchführung der in § 305 Absatz 1 genannten Vorschriften kann durch Vereinbarung der nach § 306 für die Errichtung von Ausgleichsämtern und Landesausgleichsämtern zuständigen Stelle mit dem Bundesausgleichsamt auf das Bundesausgleichsamt übertragen werden.
 
@@ -2839,23 +2720,19 @@ Im Bereich des Bundes wird ein Bundesausgleichsamt als selbständige Bundesoberb
 
 (3) Wurde die Zuständigkeit dem Bundesausgleichsamt übertragen, sind insoweit die §§ 306, 308, 310 und 311 von dem jeweiligen Land nicht mehr anzuwenden.
 
-
-## § 314
+# § 314
 
 (weggefallen)
 
-
-## § 315 – Allgemeine Verwaltungsgerichte
+# § 315 – Allgemeine Verwaltungsgerichte
 
 Die zur Durchführung der Vorschriften des Dritten Teils dieses Gesetzes erforderliche rechtsprechende Tätigkeit wird außer in den Fällen des § 276 Abs. 5 durch die allgemeinen Verwaltungsgerichte der Länder einschließlich des Landes Berlin sowie durch das Bundesverwaltungsgericht ausgeübt.
 
-
-## § 316
+# § 316
 
 (weggefallen)
 
-
-## § 317 – Amts- und Rechtshilfe sowie Auskunftspflicht
+# § 317 – Amts- und Rechtshilfe sowie Auskunftspflicht
 
 (1) Alle Behörden und Gerichte haben den in diesem Abschnitt genannten Behörden unentgeltlich Amts- und Rechtshilfe zu leisten, Auskünfte zu erteilen und Akteneinsicht zu gewähren, soweit es zur Durchführung dieses Gesetzes erforderlich ist. Als Behörden im Sinne von Satz 1 gelten auch alle anderen Einrichtungen, die mit öffentlich-rechtlichen Aufgaben betraut sind. Für die Rechtshilfe der Gerichte gelten die §§ 156ff. des Gerichtsverfassungsgesetzes entsprechend.
 
@@ -2869,13 +2746,11 @@ Die zur Durchführung der Vorschriften des Dritten Teils dieses Gesetzes erforde
 
 (5) Für die Erteilung eines Erbscheins, einschließlich des vorangegangenen Verfahrens, wird eine Gebühr nicht erhoben, wenn der Erbschein nur für Zwecke des Lastenausgleichs verwendet werden soll. Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit. Ein nach Satz 1 gebührenfrei erteilter Erbschein kann auch in Verfahren verwendet werden, die der Rückgabe, Freigabe oder Entschädigung weggenommener Wirtschaftsgüter dienen.
 
-
-## § 318
+# § 318
 
 (weggefallen)
 
-
-## § 319 – Aufgaben des Präsidenten des Bundesausgleichsamtes
+# § 319 – Aufgaben des Präsidenten des Bundesausgleichsamtes
 
 (1) Der Präsident des Bundesausgleichsamtes nimmt für den Bund die sich aus § 5 ergebenden Aufgaben wahr.
 
@@ -2883,23 +2758,19 @@ Die zur Durchführung der Vorschriften des Dritten Teils dieses Gesetzes erforde
 
 (3) (weggefallen)
 
-
-## § 320
-
-(weggefallen)
-
-
-## § 321
+# § 320
 
 (weggefallen)
 
-
-## § 322
+# § 321
 
 (weggefallen)
 
+# § 322
 
-## § 323 – Sondervorschriften über die Verwendung von Mitteln
+(weggefallen)
+
+# § 323 – Sondervorschriften über die Verwendung von Mitteln
 
 (1) Für die Gewährung von Aufbaudarlehen sind im Rechnungsjahr 1957 höchstens 650 Millionen Deutsche Mark bereitzustellen. Dieser Höchstbetrag ermäßigt sich in den Rechnungsjahren 1958 bis 1965 jeweils um 72 Millionen Deutsche Mark. Im Rechnungsjahr 1965 wird zusätzlich ein einmaliger Betrag von 200 Millionen Deutsche Mark bereitgestellt. In den Rechnungsjahren 1966 bis 1974 kann unbeschadet des Absatzes 8 ein Betrag von je 100 Millionen Deutsche Mark bereitgestellt werden.
 
@@ -2936,13 +2807,11 @@ der Präsident des Bundesausgleichsamtes kann nach Maßgabe des § 319 Abs. 1 be
 
 Der für die bezeichneten Leistungen mit Ausnahme der laufenden Beihilfe und der Beihilfe zur Beschaffung von Hausrat nach §§ 301, 301a bereitzustellende Betrag darf 5 Millionen Euro jährlich nicht übersteigen.
 
-
-## § 324
+# § 324
 
 (weggefallen)
 
-
-## § 325 – Antragstellung
+# § 325 – Antragstellung
 
 (1) Anträge auf Gewährung von Ausgleichsleistungen sind, soweit nichts anderes bestimmt wird, an das für den ständigen Aufenthalt des Geschädigten zuständige Ausgleichsamt zu richten. Hat der Antragsteller keinen ständigen Aufenthalt im Geltungsbereich des Grundgesetzes oder in Berlin (West), so ist zuständig
 
@@ -2956,8 +2825,7 @@ Der für die bezeichneten Leistungen mit Ausnahme der laufenden Beihilfe und der
 
 (4) Anträge auf Gewährung von Ausgleichsleistungen, auf die nach diesem Gesetz ein Rechtsanspruch besteht, sind auf amtlichem Formblatt einzureichen.
 
-
-## § 326 – Weiterbehandlung der Anträge
+# § 326 – Weiterbehandlung der Anträge
 
 (1) Das nach § 325 zuständige Ausgleichsamt oder in den Fällen des § 308 Abs. 1 Satz 3 und 4 das zuständig gewordene Ausgleichsamt oder Landesausgleichsamt ist, soweit der Präsident des Bundesausgleichsamtes nichts anderes bestimmt, auch für die Weiterbehandlung des Antrags zuständig.
 
@@ -2965,8 +2833,7 @@ Der für die bezeichneten Leistungen mit Ausnahme der laufenden Beihilfe und der
 
 (3) In den Fällen des Absatzes 2 wirken Rechtsbehelfe gegenüber allen Beteiligten, denen der Bescheid mit Hinweis auf diese Rechtsfolge zugestellt worden ist.
 
-
-## § 327 – Vertretung
+# § 327 – Vertretung
 
 (1) Der Antragsteller kann sich im Verfahren vor den Ausgleichsbehörden und den Beschwerdeausschüssen vertreten lassen; jedoch kann sein persönliches Erscheinen angeordnet werden. Wer nicht geschäftsmäßig die Vertretung von Geschädigten vor den Ausgleichsbehörden und den Beschwerdeausschüssen übernimmt, kann zurückgewiesen werden, wenn es ihm an der Fähigkeit zum geeigneten schriftlichen oder mündlichen Vortrag mangelt; dasselbe gilt für Personen, welche die Vertretung für Verbände (Absatz 2 Nr. 3) ausüben. Personen, die als Angehörige der Ausgleichsbehörden, der Beschwerdeausschüsse, der Heimatauskunftstellen (§ 24 des Feststellungsgesetzes), der Auskunftstellen (§ 28 des Beweissicherungs- und Feststellungsgesetzes) oder der bei diesen gebildeten Kommissionen tätig waren, dürfen während eines Zeitraumes von drei Jahren nach Beendigung dieser Tätigkeit nicht für Auftraggeber tätig werden, mit deren Angelegenheiten sie innerhalb der letzten drei Jahre vor Beendigung materiell befaßt waren.
 
@@ -2988,20 +2855,17 @@ c) wenn sie für ihre rechtsbesorgende Tätigkeit Werbung treiben, es sei denn, 
 
 (4) (aufgehoben)
 
-
-## § 328 – Ausschließung von der Mitwirkung am Verfahren
+# § 328 – Ausschließung von der Mitwirkung am Verfahren
 
 Die Angehörigen der Ausgleichsbehörden, der Beschwerdeausschüsse, der Heimatauskunftstellen, Auskunftstellen und der bei diesen gebildeten Kommissionen sind von der Mitwirkung an der Entscheidung über eigene Anträge oder über Anträge ihrer Angehörigen im Sinne des § 15 der Abgabenordnung ausgeschlossen. Im übrigen finden die Vorschriften über die Ausschließung von Gerichtspersonen nach der Zivilprozeßordnung entsprechende Anwendung.
 
-
-## § 329 – Verbindung von Verfahren
+# § 329 – Verbindung von Verfahren
 
 (1) Das Verfahren über die Gewährung von Ausgleichsleistungen, deren Gewährung von der Feststellung eines Schadens nach dem Feststellungsgesetz abhängt, soll mit dem Feststellungsverfahren verbunden werden.
 
 (2) Das Verfahren über die Rückforderung von Ausgleichsleistungen im Wege der Verrechnung nach § 8 des Entschädigungsgesetzes kann mit dem Entschädigungsverfahren zu einem Verfahren verbunden werden, wenn die Zuständigkeit für beide Verfahren bei demselben Land liegt.
 
-
-## § 330 – Beweiserhebung
+# § 330 – Beweiserhebung
 
 (1) Die Ausgleichsbehörden und die Beschwerdeausschüsse erheben von Amts wegen alle Beweise, die für die Gewährung von Ausgleichsleistungen notwendig sind.
 
@@ -3009,8 +2873,7 @@ Die Angehörigen der Ausgleichsbehörden, der Beschwerdeausschüsse, der Heimata
 
 (3) Um die eidliche Vernehmung eines Zeugen oder Sachverständigen ist das Amtsgericht, in dessen Bezirk der Zeuge oder Sachverständige seinen ständigen Aufenthalt hat, zu ersuchen. Auf das Vernehmungsersuchen sind die Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozeßordnung sinngemäß anzuwenden.
 
-
-## § 330a – Mitwirkungspflichten
+# § 330a – Mitwirkungspflichten
 
 (1) Antragsteller und Leistungsempfänger sowie ihre Angehörigen, Erben und weiteren Erben, deren persönliche und sachliche Verhältnisse für die Leistung von Bedeutung sind, haben
 
@@ -3028,15 +2891,13 @@ Die §§ 289, 342 Abs. 2 Satz 2 und § 349 Abs. 5 Satz 3 bleiben unberührt. Sat
 
 (3) Werden Mitwirkungspflichten nach Absatz 1 nicht erfüllt und wird hierdurch die Aufklärung des Sachverhalts unmöglich oder erheblich erschwert, kann die Leistung abgelehnt, eingestellt oder zurückgefordert werden, nachdem die Betroffenen auf diese Folge schriftlich hingewiesen worden und ihrer Mitwirkungspflicht nicht innerhalb einer ihnen gesetzten angemessenen Frist nachgekommen sind.
 
-
-## § 331 – Beweiswürdigung
+# § 331 – Beweiswürdigung
 
 (1) Die Ausgleichsbehörden und die Beschwerdeausschüsse entscheiden in freier Beweiswürdigung darüber, welche für die Entscheidung maßgebenden Angaben als bewiesen oder glaubhaft gemacht anzusehen sind. Als glaubhaft gemacht gelten Angaben, deren Richtigkeit mit einer ernstliche Zweifel ausschließenden Wahrscheinlichkeit dargetan ist.
 
 (2) Angaben, die nicht bewiesen oder glaubhaft gemacht sind, werden nicht berücksichtigt.
 
-
-## § 332 – Entscheidungen
+# § 332 – Entscheidungen
 
 (1) Entscheidungen der Ausgleichsbehörden und der Beschwerdeausschüsse ergehen schriftlich und sind zu begründen. Sie müssen eine Belehrung darüber enthalten, ob ein Rechtsbehelf und welcher Rechtsbehelf gegeben ist.
 
@@ -3046,8 +2907,7 @@ Die §§ 289, 342 Abs. 2 Satz 2 und § 349 Abs. 5 Satz 3 bleiben unberührt. Sat
 
 (4) Vergleiche sind zulässig, wenn bei verständiger Würdigung des Sachverhalts oder der Rechtslage eine bestehende Ungewissheit durch gegenseitiges Nachgeben beseitigt wird und die Behörde den Abschluss des Vergleichs zur Beseitigung der Ungewissheit nach pflichtgemäßem Ermessen für zweckmäßig hält.
 
-
-## § 332a – Aufgebotsverfahren
+# § 332a – Aufgebotsverfahren
 
 (1) Kann über einen Antrag nicht entschieden werden, weil die Person, der die Entscheidung zuzustellen wäre, oder ihr Aufenthalt nicht bekannt ist, so findet ein Aufgebotsverfahren statt. Mit Ablauf der darin bezeichneten Aufgebotsfrist erlöschen die Rechte aus dem Antrag.
 
@@ -3071,13 +2931,11 @@ Die §§ 289, 342 Abs. 2 Satz 2 und § 349 Abs. 5 Satz 3 bleiben unberührt. Sat
 
 (6) Die Absätze 1 bis 5 gelten entsprechend, wenn über die Anrechnung von Aufbaudarlehen oder Kriegsschadenrente auf die Hauptentschädigung oder die Verrechnung von Rückforderungsansprüchen mit Ausgleichsleistungen nicht entschieden werden kann, weil die Person, der die Entscheidung zuzustellen wäre, oder ihr Aufenthalt nicht bekannt ist. Mit dem Ablauf der Aufgebotsfrist erlöschen die Ansprüche.
 
-
-## § 333 – Verfahren vor den Verwaltungsgerichten
+# § 333 – Verfahren vor den Verwaltungsgerichten
 
 Im Verfahren vor den Verwaltungsgerichten gelten die für diese Gerichte maßgebenden Vorschriften.
 
-
-## § 334 – Gebühren und Kosten
+# § 334 – Gebühren und Kosten
 
 (1) Das Verfahren vor den Ausgleichsbehörden und den Beschwerdeausschüssen ist gebührenfrei.
 
@@ -3087,34 +2945,29 @@ Im Verfahren vor den Verwaltungsgerichten gelten die für diese Gerichte maßgeb
 
 (4) Für die Kostenregelung im Verfahren vor den Verwaltungsgerichten gelten die für diese Gerichte maßgebenden Vorschriften.
 
-
-## § 334a
+# § 334a
 
 (weggefallen)
 
-
-## § 335 – Bescheid
+# § 335 – Bescheid
 
 (1) Über die Gewährung und Rückforderung von Ausgleichsleistungen entscheidet das Ausgleichsamt durch Bescheid.
 
 (2) Kann nach dem Ergebnis der Ermittlungen über einen Teil des Anspruchs entschieden werden, so kann ein Teilbescheid erlassen werden; ein solcher Teilbescheid ist auf Antrag zu erlassen, wenn die Voraussetzungen vorliegen. Nach Abschluß des Verfahrens ist ein Gesamtbescheid zu erlassen.
 
-
-## § 335a – Bescheid unter Vorbehalt
+# § 335a – Bescheid unter Vorbehalt
 
 (1) Der Bescheid oder der Teilbescheid kann in vollem Umfang oder hinsichtlich bestimmter Teile unter dem ausdrücklichen Vorbehalt der Änderung oder der Rücknahme erlassen werden, wenn der Antragsteller an der alsbaldigen Erteilung eines solchen Bescheids ein berechtigtes Interesse hat. Voraussetzung ist, daß der Bescheid über die Schadensfeststellung nach dem Feststellungsgesetz ebenfalls unter Vorbehalt ergangen ist oder eine Berechnung der genauen Höhe des Anspruchs, insbesondere im Hinblick auf die Vorschriften des § 245 Nr. 3, des § 249 oder des § 266 noch nicht möglich ist und daher der Bescheid ohne Vorbehalt noch nicht erlassen werden kann. Aus dem Bescheid müssen sich Inhalt und Ausmaß des Vorbehalts ergeben. Ist die Ungewißheit beseitigt, ist dem Antragsteller insoweit ein abschließender Bescheid zu erteilen.
 
 (2) Unberührt bleiben die Vorschriften dieses Gesetzes und die Grundsätze des allgemeinen Verwaltungsrechts, nach denen Bescheide ohne ausdrücklichen Vorbehalt geändert, zurückgenommen oder sonst aufgehoben werden können.
 
-
-## § 335b – Verfahren bei Schadensausgleich an Beteiligungen
+# § 335b – Verfahren bei Schadensausgleich an Beteiligungen
 
 (1) In Fällen des § 349 Abs. 3 Satz 3 erteilt das nach § 31 Abs. 2 des Feststellungsgesetzes und § 33 Abs. 2 des Beweissicherungs- und Feststellungsgesetzes in der am 31. Dezember 1991 geltenden Fassung zuständige Ausgleichsamt einen einheitlichen Bescheid über die Höhe des Schadensausgleichs an der Beteiligung.
 
 (2) Hat das zuständige Ausgleichsamt nicht alle Beteiligten ermittelt, so ist der Bescheid den ermittelten Beteiligten zuzustellen und außerdem im Bundesanzeiger zu veröffentlichen. Die Veröffentlichung, die mit einer Belehrung über den Rechtsbehelf zu versehen ist, tritt für die nicht ermittelten Beteiligten an die Stelle des Bescheides.
 
-
-## § 336 – Beschwerde
+# § 336 – Beschwerde
 
 (1) Gegen den Bescheid des Ausgleichsamtes kann der Antragsteller binnen eines Monats nach Zustellung Beschwerde einlegen. Über die Beschwerde entscheidet, sofern ihr nicht abgeholfen wird, der Beschwerdeausschuß.
 
@@ -3124,20 +2977,17 @@ Im Verfahren vor den Verwaltungsgerichten gelten die für diese Gerichte maßgeb
 
 (4) In den Fällen des § 308 Abs. 1 Satz 3 und 4 können die Länder regeln, daß Beschwerden auch gegen die Bescheide des Landesausgleichsamtes eingelegt werden können.
 
-
-## § 337 – Beschluß des Beschwerdeausschusses
+# § 337 – Beschluß des Beschwerdeausschusses
 
 (1) Der Beschwerdeausschuß entscheidet durch Beschluß. Er kann, statt selbst zu entscheiden, die Sache an das Ausgleichsamt zurückverweisen.
 
 (2) Der Beschwerdeausschuß kann den Bescheid auch zum Nachteil dessen, der die Beschwerde eingelegt hat, ändern.
 
-
-## § 338 – Anfechtungsklage beim Verwaltungsgericht
+# § 338 – Anfechtungsklage beim Verwaltungsgericht
 
 Gegen den Beschluß des Beschwerdeausschusses sowie den Bescheid des Landesausgleichsamtes, sofern hiergegen keine Beschwerde zugelassen ist, oder des Bundesausgleichsamtes kann der Antragsteller binnen eines Monats nach Bekanntgabe die Anfechtungsklage beim Verwaltungsgericht erheben.
 
-
-## § 339 – Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
+# § 339 – Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
 
 (1) Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere Entscheidung des Verwaltungsgerichts sind ausgeschlossen. Das gilt nicht für die Beschwerde gegen die Nichtzulassung der Revision nach § 135 in Verbindung mit § 133 der Verwaltungsgerichtsordnung und die Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
@@ -3145,8 +2995,7 @@ Gegen den Beschluß des Beschwerdeausschusses sowie den Bescheid des Landesausgl
 
 (3) Absatz 1 findet auch bei Verfahren über öffentlich-rechtliche Streitigkeiten zwischen dem Bund und anderen öffentlichen Rechtsträgern Anwendung.
 
-
-## § 340 – Aufschiebende Wirkung
+# § 340 – Aufschiebende Wirkung
 
 (1) Die Beschwerde, die Anfechtungsklage und die Revision haben aufschiebende Wirkung.
 
@@ -3154,13 +3003,11 @@ Gegen den Beschluß des Beschwerdeausschusses sowie den Bescheid des Landesausgl
 
 (3) In den Fällen des Absatzes 2 kann das Ausgleichsamt die Vollziehung ganz oder teilweise aussetzen. § 80 Abs. 4 Satz 2, 3 und Abs. 6 der Verwaltungsgerichtsordnung gilt entsprechend.
 
-
-## § 341 – Wiedereinsetzung in den vorigen Stand
+# § 341 – Wiedereinsetzung in den vorigen Stand
 
 Wenn jemand ohne Verschulden verhindert war, im Verfahren vor den Ausgleichsbehörden und den Beschwerdeausschüssen eine Frist zur Einlegung eines Rechtsbehelfs einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. § 60 Abs. 2 bis 4 der Verwaltungsgerichtsordnung gilt entsprechend.
 
-
-## § 342 – Wiederaufnahme des Verfahrens
+# § 342 – Wiederaufnahme des Verfahrens
 
 (1) Ist eine Entscheidung unanfechtbar oder rechtskräftig geworden, kann das Verfahren innerhalb von fünf Jahren aus den gleichen Gründen, die die Vorschriften des Vierten Buchs der Zivilprozeßordnung vorsehen, wieder aufgenommen werden. Dies gilt auch für sonstige Bescheidänderungen. Satz 1 gilt nicht in den Fällen des Absatzes 2 und des § 360.
 
@@ -3174,8 +3021,7 @@ Der Geschädigte ist verpflichtet, Gründe, die hiernach zur Wiederaufnahme des 
 
 (3) Abweichend von Absatz 2 ist das Verfahren nicht wiederaufzunehmen, wenn nach dem 31. Dezember 1989 ein Schaden ganz oder teilweise ausgeglichen wird. Leistungen und Vergünstigungen nach Absatz 2 Nr. 2 sind durch Rückforderung der gewährten Ausgleichsleistungen nach Maßgabe des § 349 zu berücksichtigen.
 
-
-## § 343 – Erlöschen, Einstellung und Rückforderung der Kriegsschadenrente
+# § 343 – Erlöschen, Einstellung und Rückforderung der Kriegsschadenrente
 
 (1) Ändern sich die Voraussetzungen für die Gewährung von Kriegsschadenrente nachträglich (§ 288), so verfügt das Ausgleichsamt das Erlöschen des Anspruchs nach § 292a Abs. 3 Nr. 1, die Einstellung, das Ruhen oder die Änderung der Zahlungen.
 
@@ -3187,13 +3033,11 @@ Der Geschädigte ist verpflichtet, Gründe, die hiernach zur Wiederaufnahme des 
 
 (5) Für Zeiträume nach dem 31. Dezember 2005 gilt § 292a.
 
-
-## § 344 – Feststellungsverfahren
+# § 344 – Feststellungsverfahren
 
 Im Verfahren nach dem Feststellungsgesetz und im Feststellungsverfahren nach dem Beweissicherungs- und Feststellungsgesetz sind Rechtsbehelfe nicht gegeben, wenn auch bei erfolgreicher Durchführung des Verfahrens über den Rechtsbehelf höhere Ausgleichsleistungen nach den Vorschriften dieses Gesetzes nicht gewährt werden können.
 
-
-## § 345 – Grundsatzregelung
+# § 345 – Grundsatzregelung
 
 (1) Über die Erfüllung von Ansprüchen auf Hauptentschädigung (§ 252) und Hausratentschädigung (§ 297) sowie über den Antrag auf Gewährung von Eingliederungsdarlehen (§§ 253ff.), Härteleistungen (§§ 301, 301a) und Leistungen auf Grund sonstiger Förderungsmaßnahmen (§ 302) entscheidet das Ausgleichsamt durch Bescheid. Der Bescheid kann auch dahin lauten, daß dem Antrag zur Zeit mangels verfügbarer Mittel nicht entsprochen werden kann, der Antrag jedoch erneut geprüft werde, sobald hinreichende Mittel zur Verfügung stehen.
 
@@ -3201,20 +3045,17 @@ Im Verfahren nach dem Feststellungsgesetz und im Feststellungsverfahren nach dem
 
 (3) Sind nach allgemeinen gesetzlichen Vorschriften die Voraussetzungen für eine verwaltungsgerichtliche Klage gegen die Entscheidung des Beschwerdeausschusses oder den Bescheid des Landesausgleichsamtes oder den Bescheid des Bundesausgleichsamtes gegeben, so gelten die §§ 338ff. entsprechend.
 
-
-## § 346 – Besondere Regelung
+# § 346 – Besondere Regelung
 
 (1) Der Präsident des Bundesausgleichsamtes kann nach Maßgabe des § 319 Abs. 2 Satz 1 das Verfahren abweichend von den Vorschriften des § 345 regeln. Dabei ist, soweit in § 345 die Anhörung des Ausgleichsausschusses vorgeschrieben ist, sicherzustellen, daß Vertreter der Vertriebenen und Kriegssachgeschädigten vor der Entscheidung gehört werden. Der Geschädigte muß eine Nachprüfung des Bescheids, sofern dieser nicht durch den Präsidenten des Bundesausgleichsamtes ergangen ist, herbeiführen können; die Nachprüfung muß sich mindestens darauf beziehen, ob ein Ermessensmißbrauch vorliegt.
 
 (2) Der Präsident des Bundesausgleichsamtes kann nach Maßgabe des § 319 Abs. 2 Satz 1 ferner bestimmen, daß bei Erfüllung von Ansprüchen auf Hauptentschädigung (§ 252) von der Anhörung des Ausgleichsausschusses abgesehen wird, sofern die Entscheidung sich aus allgemein festgelegten objektiven Maßstäben ergibt.
 
-
-## § 347 – Entscheidung des Ausgleichsausschusses
+# § 347 – Entscheidung des Ausgleichsausschusses
 
 Auf den Antrag auf Wohnraumhilfe entscheidet der Leiter des Ausgleichsamtes, ob der Antragsteller als bevorzugter Anwärter auf Wohnraum anerkannt wird, durch Bescheid. Der Geschädigte kann binnen eines Monats nach Bekanntgabe des Bescheids die Entscheidung des Ausgleichsausschusses anrufen. Gegen die Entscheidung des Ausgleichsausschusses ist Einspruch oder Beschwerde nicht zulässig. Sind nach allgemeinen gesetzlichen Vorschriften die Voraussetzungen für eine verwaltungsgerichtliche Klage gegeben, so gelten die §§ 338ff entsprechend.
 
-
-## § 348 – Zuteilung der Mittel
+# § 348 – Zuteilung der Mittel
 
 (1) Die für die Wohnraumhilfe bereitgestellten Mittel sind zur Finanzierung des Wohnungsbaus für Geschädigte als öffentliche Mittel im Sinne des gemäß § 8 Abs. 1 Nr. 13 jeweils anzuwendenden Wohnungsbaugesetzes unter Berücksichtigung der Vorschriften der §§ 298 bis 300 einzusetzen.
 
@@ -3224,8 +3065,7 @@ Auf den Antrag auf Wohnraumhilfe entscheidet der Leiter des Ausgleichsamtes, ob 
 
 (4) Absatz 2 Satz 1 und 2 gilt entsprechend für die Mittel, die den Ländern darlehensweise zur Förderung des sozialen Wohnungsbaus aus dem Soforthilfefonds, aus dem Aufkommen auf Grund des Hypothekensicherungsgesetzes und nach dem Gesetz über die Förderung des Wohnungsbaus für Umsiedler in den Aufnahmeländern und des Wohnungsbaus für Sowjetzonenflüchtlinge in Berlin vom 30. Juli 1953 (Bundesgesetzbl. I S. 712) sowie nach § 46 Abs. 2 des Bundesvertriebenengesetzes gewährt worden sind.
 
-
-## § 349 – Rückforderung bei Schadensausgleich
+# § 349 – Rückforderung bei Schadensausgleich
 
 (1) In den Fällen des § 342 Abs. 3 sind die zuviel gewährten Ausgleichsleistungen nach Maßgabe der Absätze 2 bis 5 zurückzufordern. § 21a Abs. 2 des Feststellungsgesetzes findet keine Anwendung. Eine Rückforderung entfällt, soweit auf Grund anderer gesetzlicher Vorschriften Entschädigungsleistungen oder sonstige Ausgleichszahlungen wegen gewährter Ausgleichsleistungen gekürzt worden sind. Ist die Rückforderung von Lastenausgleichsleistungen durch Verrechnung entgegen § 8 des Entschädigungsgesetzes unterblieben, sind die zu viel gewährten Ausgleichsleistungen zurückzufordern; in diesem Fall findet keine Verrechnung mit der nach § 7 des Entschädigungsgesetzes gekürzten Bemessungsgrundlage statt.
 
@@ -3245,13 +3085,11 @@ Auf den Antrag auf Wohnraumhilfe entscheidet der Leiter des Ausgleichsamtes, ob 
 
 (5) Die Rückforderung richtet sich gegen Empfänger von Ausgleichsleistungen, deren Erben oder weitere Erben sowie bei einem der Nacherbfolge unterliegenden Vermögen gegen Nacherben, soweit diese oder deren Rechtsnachfolger die Schadensausgleichsleistung erlangt haben; als Erbe in Ansehung der Rückforderungsansprüche gelten auch Berechtigte im Sinne des § 2 Abs. 1 Satz 3 des Vermögensgesetzes und durch den Verzicht nach § 2a Abs. 3 des Vermögensgesetzes begünstigte Mitglieder einer Erbengemeinschaft (Rückzahlungspflichtige). Hat ein Rechtsnachfolger des Rückzahlungspflichtigen oder des Geschädigten nach § 229 die Schadensausgleichsleistung ohne angemessene Gegenleistung oder als Vermächtnisnehmer erlangt, kann er neben den in Satz 1 genannten Rückzahlungspflichtigen als Gesamtschuldner in Anspruch genommen werden. Empfänger von Schadensausgleichsleistungen sind verpflichtet, dies der zuständigen Ausgleichsbehörde anzuzeigen und die für die Rückforderung erforderlichen Angaben zu machen. Die Rückforderung ist, außer in den Fällen des § 8 des Entschädigungsgesetzes, nach Ablauf von vier Jahren nach dem Kalenderjahr, in dem die Ausgleichsbehörde von dem Schadensausgleich und von der Person des Verpflichteten Kenntnis erlangt hat, frühestens jedoch nach dem 31. Dezember 1996, ausgeschlossen; die Frist beträgt zehn Jahre, wenn der Empfänger einer Schadensausgleichsleistung seiner Verpflichtung nach Satz 3 nicht nachgekommen ist. Die Frist kann durch schriftliche Mitteilung an den Verpflichteten unterbrochen werden.
 
-
-## § 349a – Mindestbetrag für Rückforderungen
+# § 349a – Mindestbetrag für Rückforderungen
 
 Ausgleichsleistungen werden nicht zurückgefordert, solange der auf den jeweiligen Rückzahlungspflichtigen entfallende Rückforderungsbetrag 50 Euro unterschreitet.
 
-
-## § 350 – Ehrenamtliche Mitarbeit
+# § 350 – Ehrenamtliche Mitarbeit
 
 (1) Im Geltungsbereich des Grundgesetzes und in Berlin (West) wohnende Personen, die zur ehrenamtlichen Mitarbeit bei der Durchführung der Vorschriften des Dritten Teils dieses Gesetzes aufgefordert werden, sind zu dieser Mitarbeit verpflichtet.
 
@@ -3259,8 +3097,7 @@ Ausgleichsleistungen werden nicht zurückgefordert, solange der auf den jeweilig
 
 (3) Die Gewährung von Fahrtkosten, Tage- und Übernachtungsgeldern sowie Ersatz des Verdienstausfalls an Beisitzer der Ausschüsse richtet sich nach den für die Entschädigung der ehrenamtlichen Richter geltenden Vorschriften.
 
-
-## § 350a – Erstattung und Verrechnung von Ausgleichsleistungen
+# § 350a – Erstattung und Verrechnung von Ausgleichsleistungen
 
 (1) Empfänger von Ausgleichsleistungen, deren Erben oder weitere Erben sind verpflichtet, zuviel erhaltene Beträge zurückzuerstatten, soweit nach diesem Gesetz oder nach allgemeinem Verwaltungsrecht ein Rückforderungsanspruch besteht. Der Rückforderungsanspruch kann außer in den Fällen des § 342 Abs. 2 und des § 349 sowie vorbehaltlich des Absatzes 2 nur innerhalb von vier Jahren nach Ablauf des Kalenderjahres, in dem die Überzahlung erfolgte, geltend gemacht werden; die Frist beträgt zehn Jahre, wenn Empfänger von Ausgleichsleistungen die Überzahlung zu vertreten oder mitzuvertreten haben.
 
@@ -3268,8 +3105,7 @@ Ausgleichsleistungen werden nicht zurückgefordert, solange der auf den jeweilig
 
 (3) Für das Verfahren gilt § 343 Abs. 1 und 2 entsprechend.
 
-
-## § 350b – Fälligkeit, Stundung und Vollstreckung
+# § 350b – Fälligkeit, Stundung und Vollstreckung
 
 (1) Der Rückforderungsanspruch wird einen Monat nach Zustellung des Leistungsbescheides fällig. Für Zwecke der Verrechnung tritt die Fälligkeit mit Zustellung des Rückforderungsbescheides ein.
 
@@ -3281,37 +3117,31 @@ Ausgleichsleistungen werden nicht zurückgefordert, solange der auf den jeweilig
 
 (5) Die Länder können bestimmen, daß an Stelle der Vorschriften des Verwaltungsvollstreckungsgesetzes auf öffentlich-rechtliche Geldforderungen des Bundes die landesrechtlichen Vorschriften über das Verwaltungszwangsverfahren Anwendung finden.
 
-
-## § 350c – Verzinsung, Säumniszuschläge und Auslagen
+# § 350c – Verzinsung, Säumniszuschläge und Auslagen
 
 (1) Die Vorschriften des § 234 Abs. 1 und 2 und der §§ 237, 238 und 240 der Abgabenordnung sind entsprechend anzuwenden.
 
 (2) Die nach Fälligkeit eines Rückforderungsanspruchs für die Verwaltung der Forderung durch die Kreditanstalt für Wiederaufbau entstehenden Auslagen trägt der Rückzahlungsverpflichtete.
 
-
-## § 350d – Abgabe und Entgegennahme von Erklärungen für den Bund
+# § 350d – Abgabe und Entgegennahme von Erklärungen für den Bund
 
 (1) Hat der Präsident des Bundesausgleichsamtes Ausgleichsbehörden, Geldinstitute oder sonstige Stellen für zuständig bestimmt, Darlehen oder sonstige Forderungen des Bundes, die sich im Zusammenhang mit der Gewährung oder Überzahlung von Ausgleichsleistungen (§ 4) ergeben, zu verwalten, so sind diese Stellen ermächtigt, rechtswirksame Erklärungen über dingliche Rechte, die für den Bund im Grundbuch oder Schiffsregister eingetragen sind oder werden, insbesondere über deren Begründung, Änderung oder Löschung, entgegenzunehmen oder abzugeben.
 
 (2) Ist die in Absatz 1 bezeichnete Bestimmung des Präsidenten des Bundesausgleichsamtes im Bundesanzeiger bekanntgemacht worden, so bedarf es insoweit gegenüber dem Grundbuchamt oder dem Registergericht keines weiteren Nachweises. Der Nachweis, daß ein eingetragenes Recht im Einzelfall der Verwaltung der für den Bund handelnden Geldinstitute oder der sonstigen Stelle unterliegt, ist gegenüber dem Grundbuchamt oder dem Registerbericht als geführt anzusehen, wenn hierüber eine Bescheinigung des Ausgleichsamtes vorgelegt wird oder wenn sich aus der zum Zweck der Eintragung des Rechts errichteten Urkunde oder aus der Urkunde über einen der Bestellung des Rechts zugrunde liegenden schuldrechtlichen Vertrag ergibt, daß das Geldinstitut oder die sonstige Stelle auch hierbei bereits für den Bund gehandelt hat. Wird die Erklärung über ein dingliches Recht von einer Ausgleichsbehörde abgegeben, so ist ein Nachweis, daß das im Einzelfall in Betracht kommende Recht der Verwaltung der Ausgleichsbehörde unterliege, nicht erforderlich.
 
-
-## § 350e – Überleitung von Rechtsbehelfsverfahren
+# § 350e – Überleitung von Rechtsbehelfsverfahren
 
 Wird auf Grund einer Entscheidung, die vor dem 31. Juli 1992 ergangen ist, die Entscheidung des Ausgleichsausschusses angerufen, so gilt diese Anrufung als Beschwerde. Für das Verfahren gelten die §§ 336 bis 341. Entsprechendes gilt für die nach § 346 in der vor dem 31. Juli 1992 geltenden Fassung abweichend geregelten Rechtsbehelfsverfahren.
 
-
-## § 351 – Verwaltungskosten
+# § 351 – Verwaltungskosten
 
 Die Kosten des Bundesausgleichsamtes trägt der Bund.
 
-
-## §§ 352 bis 357 – ----
+# §§ 352 bis 357 – ----
 
 (Die Vorschriften sind überholt.)
 
-
-## § 358 – Sondervorschriften für Berlin
+# § 358 – Sondervorschriften für Berlin
 
 Die Vorschriften des Dritten Teils dieses Gesetzes gelten in Berlin (West) mit folgender Maßgabe:
 
@@ -3344,8 +3174,7 @@ Die Vorschriften des Dritten Teils dieses Gesetzes gelten in Berlin (West) mit f
 
 7. Die Ermächtigung des § 357 gilt entsprechend für die Vorschriften des Hausrathilfegesetzes in Berlin (West).
 
-
-## § 359 – Nichtberücksichtigung von Schäden und Verlusten, Rückerstattungsfälle
+# § 359 – Nichtberücksichtigung von Schäden und Verlusten, Rückerstattungsfälle
 
 (1) Schäden und Verluste an Vermögensgegenständen, die in Ausnutzung von Maßnahmen der nationalsozialistischen Gewaltherrschaft erworben worden sind, können weder einen Anspruch auf Ausgleichsleistungen begründen noch bei Festsetzung der Vermögensabgabe berücksichtigt werden. Das Nähere wird durch Rechtsverordnung bestimmt.
 
@@ -3359,8 +3188,7 @@ Die Vorschriften des Dritten Teils dieses Gesetzes gelten in Berlin (West) mit f
 
 3. Schäden und Verluste an Wirtschaftsgütern, die nach Beginn der allgemeinen Vertreibungsmaßnahmen unter Ausnutzung der im Vertreibungsgebiet bestehenden Verhältnisse ohne angemessene Gegenleistung oder durch ein gegen die guten Sitten verstoßendes oder durch Drohung oder Zwang veranlaßtes oder mit einer widerrechtlichen Besitzentziehung verbundenes Rechtsgeschäft oder durch eine sonstige unerlaubte Handlung erworben worden sind.
 
-
-## § 360 – Ausschließung von Ausgleichsleistungen und Vergünstigungen
+# § 360 – Ausschließung von Ausgleichsleistungen und Vergünstigungen
 
 (1) Von Ausgleichsleistungen sowie von den Vergünstigungen bei der Vermögensabgabe kann unbeschadet einer strafrechtlichen oder steuerstrafrechtlichen Verfolgung ganz oder teilweise ausgeschlossen werden,
 
@@ -3376,64 +3204,53 @@ Die Vorschriften des Dritten Teils dieses Gesetzes gelten in Berlin (West) mit f
 
 (4) Für die Entscheidung über die Ausschließung von Vergünstigungen bei der Vermögensabgabe nach Absatz 1 und für die Anfechtung solcher Entscheidungen gelten die Vorschriften der Reichsabgabenordnung.
 
-
-## § 361 – Vertragshilfe
+# § 361 – Vertragshilfe
 
 Soweit in einem Verfahren der richterlichen Vertragshilfe oder in einem diesem entsprechenden, der Schuldenregelung dienenden gerichtlichen Verfahren die Vermögens- oder Einkommensverhältnisse einer Person zu berücksichtigen sind, sind hierbei Ansprüche, die ihr auf Grund dieses Gesetzes zustehen, außer Betracht zu lassen.
 
-
-## § 362 – Vollstreckungsschutz wegen alter Verbindlichkeiten
+# § 362 – Vollstreckungsschutz wegen alter Verbindlichkeiten
 
 (1) Vollstreckungsmaßnahmen wegen Verbindlichkeiten, die vor dem 8. Mai 1945 eingegangen worden sind, hat das Vollstreckungsgericht auf Antrag eines Schuldners, der Aufbaudarlehen nach diesem Gesetz, Aufbauhilfe nach dem Soforthilfegesetz oder Darlehen oder Beihilfen nach dem Flüchtlingssiedlungsgesetz empfangen hat, bis zur Durchführung eines Vertragshilfeverfahrens, längstens jedoch bis zum 31. Dezember 1953, einstweilen einzustellen.
 
 (2) Nach Erlaß des Einstellungsbeschlusses kann auch der Gläubiger den Antrag auf Einleitung des Vertragshilfeverfahrens stellen.
 
-
-## § 363 – Schutz gegen Inanspruchnahme aus Leistungen der Sozialhilfe oder Grundsicherung für Arbeitsuchende
+# § 363 – Schutz gegen Inanspruchnahme aus Leistungen der Sozialhilfe oder Grundsicherung für Arbeitsuchende
 
 Ist der Unterhaltsanspruch eines Unterhaltsberechtigten, dem Sozialhilfe nach dem Zwölften Buch Sozialgesetzbuch gewährt worden ist oder dem Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch gewährt worden sind, auf den Träger der Sozialhilfe oder auf die Agentur für Arbeit übergegangen, darf wegen dieses Anspruchs die Zwangsvollstreckung gegen den Unterhaltsverpflichteten nicht betrieben werden, wenn dieser Vertriebener oder Kriegssachgeschädigter ist und wenn durch die Zwangsvollstreckung die Neubegründung oder Sicherung seiner Existenz gefährdet würde.
 
-
-## § 364 – Ergänzende Maßnahmen
+# § 364 – Ergänzende Maßnahmen
 
 (1) Durch die in diesem Gesetz vorgesehenen Leistungen werden Förderungsmaßnahmen, welche der Bund, die Länder, Gemeinden und Gemeindeverbände zum Zweck der Eingliederung von Vertriebenen und Kriegssachgeschädigten durchführen, nicht berührt.
 
 (2) Zur Durchführung des Lastenausgleichs bleibt es den Gebietskörperschaften vorbehalten, ergänzende Vorschriften über Erleichterungen auf dem Gebiet der öffentlichen Abgaben sowie der Gebühren und Kosten zu treffen; im Bereich des Bundes kann das Nähere durch Rechtsverordnung bestimmt werden.
 
-
-## § 365 – Altsparerregelung
+# § 365 – Altsparerregelung
 
 Über die in diesem Gesetz vorgesehenen Maßnahmen zum Ausgleich von Sparerschäden hinaus wird bis zum 31. März 1953 eine weitergehende gesetzliche Regelung zum Ausgleich von Verlusten, die infolge der Neuordnung des Geldwesens im Geltungsbereich des Grundgesetzes und in Berlin (West) an Altsparanlagen eingetreten sind, getroffen werden (Altsparergesetz). Hierfür werden Mittel vom Bund zur Verfügung gestellt werden.
 
-
-## § 366
+# § 366
 
 (weggefallen)
 
-
-## § 367 – Erlaß von Rechtsverordnungen
+# § 367 – Erlaß von Rechtsverordnungen
 
 (1) Die in diesem Gesetz vorgesehenen Rechtsverordnungen erläßt die Bundesregierung mit Zustimmung des Bundesrates.
 
 (2) Durch Rechtsverordnung nach Absatz 1 kann die Ermächtigung zum Erlaß von Rechtsverordnungen auf den Präsidenten des Bundesausgleichsamtes weiter übertragen werden; der Präsident des Bundesausgleichsamtes bedarf zum Erlaß solcher Rechtsverordnungen nicht der Zustimmung des Bundesrates.
 
-
-## §§ 368 bis 372 – ----
+# §§ 368 bis 372 – ----
 
 (Die Vorschriften sind überholt.)
 
-
-## § 373 – Übergangsvorschrift aus Anlass des Gesetzes zur Änderung und Bereinigung des Lastenausgleichsrechts
+# § 373 – Übergangsvorschrift aus Anlass des Gesetzes zur Änderung und Bereinigung des Lastenausgleichsrechts
 
 Die mit den Artikeln 2 und 4 bis 8 des Gesetzes zur Änderung und Bereinigung des Lastenausgleichsrechts vom 21. Juni 2006 (BGBl. I S. 1323) aufgehobenen Vorschriften finden in Verfahren nach diesem Gesetz, dem Feststellungsgesetz, dem Beweissicherungs- und Feststellungsgesetz sowie dem Reparationsschädengesetz weiter Anwendung, wenn sie erst nach dem 1. Juli 2006 abgeschlossen werden. Dies gilt auch für Verfahren über die Änderung von Entscheidungen, die Wiederaufnahme von Verfahren sowie die Rückforderung von Leistungen, insbesondere infolge Schadensausgleichs. Vergleiche, wie in § 332 Abs. 4 vorgesehen, sind zulässig.
 
-
-## § 374 – Anwendung des Gesetzes in Berlin
+# § 374 – Anwendung des Gesetzes in Berlin
 
 Dieses Gesetz und die auf Grund dieses Gesetzes ergehenden Rechtsverordnungen, allgemeinen Verwaltungsanordnungen und Weisungen gelten auch in Berlin (West), wenn das Land Berlin die Anwendung dieses Gesetzes gemäß Artikel 87 Abs. 2 seiner Verfassung beschließt.
 
-
-## § 375
+# § 375
 
 (Inkrafttreten) \*)  
 -----
@@ -3454,8 +3271,7 @@ c)
 
 Der Präsident des Bundesausgleichsamtes bestimmt für Antragsteller mit ständigem Aufenthalt in dem in Artikel 3 des Vertrages genannten Gebiet das zuständige Ausgleichsamt.
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III(BGBl. II 1990, 889, 920)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel II Sachgebiet D Abschnitt III(BGBl. II 1990, 889, 920)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

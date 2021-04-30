@@ -1,5 +1,3 @@
-# [BergÜbk] Internationales Übereinkommen von 1989 über Bergung
-
-Ausfertigungsdatum: 28.04.1989
-
+% Internationales Übereinkommen von 1989 über Bergung
+% Ausfertigungsdatum: 28.04.1989
  

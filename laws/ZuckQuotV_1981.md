@@ -1,15 +1,11 @@
-# [ZuckQuotV 1981] Verordnung über die Zuteilung und Änderung von Quoten für Zucker  (Zucker-Quoten-Verordnung)
-
-Ausfertigungsdatum: 22.10.1981
-
+% Verordnung über die Zuteilung und Änderung von Quoten für Zucker  (Zucker-Quoten-Verordnung)
+% Ausfertigungsdatum: 22.10.1981
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die Durchführung der Quotenregelung für Zucker.
 
-
-## § 2 – Zuständige Stelle
+# § 2 – Zuständige Stelle
 
 (1) Zuständig für die Festsetzung und Änderung der Quoten ist das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium).
 
@@ -61,15 +57,13 @@ bestimmt sind.
 
 5. die Verhängung von Sanktionen nach Artikel 11 Absatz 1 und 2 der Verordnung (EG) Nr. 952/2006, auch soweit die Abweichungen durch die Bundesanstalt im Rahmen ihrer Zuständigkeit nach Absatz 2 festgestellt worden sind.
 
-
-## § 3 – Festsetzung und Änderung der Quoten
+# § 3 – Festsetzung und Änderung der Quoten
 
 (1) Das Bundesministerium setzt die Quoten durch schriftlichen Bescheid fest.
 
 (2) Das Bundesministerium kann die festgesetzten Quoten im Rahmen der Bestimmungen der in § 1 genannten Rechtsakte ändern, um Veränderungen in der Struktur der Zuckerindustrie und im Zuckerrübenanbau oder sonstigen vom Rat verfolgten Zielen Rechnung zu tragen.
 
-
-## § 4 – Zulassung der Unternehmen
+# § 4 – Zulassung der Unternehmen
 
 (1) Der Antrag auf Zulassung als Unternehmen bedarf der Schriftform.
 
@@ -79,11 +73,9 @@ bestimmt sind.
 
 (4) (weggefallen)
 
+# §§ 5 und 6 – (weggefallen)
 
-## §§ 5 und 6 – (weggefallen)
-
-
-## § 7 – Mitteilungs-, Duldungs- und Mitwirkungspflichten
+# § 7 – Mitteilungs-, Duldungs- und Mitwirkungspflichten
 
 (1) Die zugelassenen Unternehmen haben die bei ihnen verbleibenden Antrags- und Bewilligungsunterlagen und die Unterlagen für die Angaben, die sie nach den in § 2 Abs. 2 und 3 genannten Vorschriften zu melden haben, bis zum Ablauf des vierten Jahres, das der Zulassung oder der Meldung folgt, aufzubewahren. Andere Vorschriften, nach denen eine längere Aufbewahrungszeit besteht, bleiben unberührt.
 
@@ -99,7 +91,6 @@ bestimmt sind.
 
 (3) Zum Zwecke des Absatzes 2 sind die zugelassenen Unternehmen verpflichtet, den Bediensteten der Bundesanstalt und der Bundesfinanzverwaltung das Betreten der Geschäfts- und Untersuchungsräume zu gestatten, die in Betracht kommenden Bücher, Aufzeichnungen und sonstigen Unterlagen vorzulegen, Auskunft zu erteilen sowie die erforderliche Unterstützung zu gewähren.
 
-
-## § 8 – (Inkrafttreten)
+# § 8 – (Inkrafttreten)
 
 \-

@@ -1,13 +1,9 @@
-# [MessEV] Verordnung über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt sowie über ihre Verwendung und Eichung  (Mess- und Eichverordnung - MessEV)
-
-Ausfertigungsdatum: 11.12.2014
-
+% Verordnung über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt sowie über ihre Verwendung und Eichung  (Mess- und Eichverordnung - MessEV)
+% Ausfertigungsdatum: 11.12.2014
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich für Messgeräte und Teilgeräte
+# § 1 – Anwendungsbereich für Messgeräte und Teilgeräte
 
 (1) Das Mess- und Eichgesetz vom 25. Juli 2013 (BGBl. I S. 2722) in der jeweils geltenden Fassung und diese Verordnung sind auf Messgeräte anzuwenden, die zu den in Absatz 2 und Absatz 3 genannten Zwecken verwendet werden sollen, und die zumindest eine der folgenden Messgrößen bestimmen sollen:
 
@@ -115,18 +111,15 @@ Die in Absatz 1 Nummer 13 genannten Messgeräte unterfallen dem Mess- und Eichge
 
 § 1 Abs. 2 Satz 1 Nr. 4: IdF d. Art. 1 Nr. 2 Buchst. b V v. 10.8.2017 I 3098 mWv 16.8.2017;Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach dem Wort "sind" das Komma durch einen Satzendepunkt ersetzt.
 
-
-## § 2 – Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
+# § 2 – Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
 
 Das Mess- und Eichgesetz und diese Verordnung sind nicht auf Messgeräte anzuwenden, bei denen es im Hinblick auf das Schutzbedürfnis der Betroffenen nicht erforderlich ist, die gesetzlichen Vorschriften zur Gewährleistung der Messrichtigkeit und Messsicherheit anzuwenden. Diese Geräte sind in Anlage 1 im Einzelnen benannt.
 
-
-## § 3 – Anwendungsbereich für sonstige Messgeräte
+# § 3 – Anwendungsbereich für sonstige Messgeräte
 
 Die Vorschriften des Mess- und Eichgesetzes und dieser Verordnung über sonstige Messgeräte sind anzuwenden auf nichtselbsttätige Waagen, soweit diese Waagen nicht zur Verwendung im geschäftlichen oder amtlichen Verkehr oder zur Durchführung von Messungen im öffentlichen Interesse bestimmt sind.
 
-
-## § 4 – Vom Anwendungsbereich ausgenommene Zusatzeinrichtungen
+# § 4 – Vom Anwendungsbereich ausgenommene Zusatzeinrichtungen
 
 Das Mess- und Eichgesetz und diese Verordnung sind nicht anzuwenden auf folgende Zusatzeinrichtungen, die über rückwirkungsfreie Schnittstellen an Messgeräte angeschlossen werden:
 
@@ -146,8 +139,7 @@ Das Mess- und Eichgesetz und diese Verordnung sind nicht anzuwenden auf folgende
 
 Satz 1 Nummer 7 ist nicht für Zusatzeinrichtungen an nicht selbsttätigen Waagen anzuwenden.
 
-
-## § 5 – Vom Anwendungsbereich ausgenommene Verwendungen
+# § 5 – Vom Anwendungsbereich ausgenommene Verwendungen
 
 (1) Auf Messgeräte oder Messwerte, die im geschäftlichen Verkehr verwendet werden, sind das Mess- und Eichgesetz und diese Verordnung nicht anzuwenden
 
@@ -231,8 +223,7 @@ Die Ausnahmen gemäß Satz 1 Nummer 6 bis 8 sind nur anwendbar, wenn
 
 (5) Die Beweislast dafür, dass die Verwendung eines Messgeräts oder eines Messwerts eine Ausnahme vom Anwendungsbereich nach den Absätzen 1 bis 4 darstellt, trägt der Verwender.
 
-
-## § 6 – Begriffsbestimmungen
+# § 6 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind die folgenden Begriffsbestimmungen anzuwenden:
 
@@ -272,8 +263,7 @@ Im Sinne dieser Verordnung sind die folgenden Begriffsbestimmungen anzuwenden:
 
 18. Waage ist ein Messgerät oder ein sonstiges Messgerät zur Bestimmung der Masse eines Körpers auf der Grundlage der auf diesen Körper wirkenden Schwerkraft.
 
-
-## § 7 – Allgemeine wesentliche Anforderungen und Feststellung der Einhaltung von Fehlergrenzen
+# § 7 – Allgemeine wesentliche Anforderungen und Feststellung der Einhaltung von Fehlergrenzen
 
 (1) Messgeräte müssen
 
@@ -295,8 +285,7 @@ Die Fehlergrenzen sind, sofern nicht anders bestimmt, für jede relevante Einflu
 
 (4) (weggefallen)
 
-
-## § 8 – Gerätespezifische wesentliche Anforderungen
+# § 8 – Gerätespezifische wesentliche Anforderungen
 
 (1) Vorbehaltlich des Absatzes 3 müssen die nachfolgend genannten Messgeräte oder Teilgeräte im Sinne der Richtlinie 2014/32/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung von Messgeräten auf dem Markt (ABl. L 96 vom 29.3.2014, S. 149) in der jeweils geltenden Fassung und im Sinne der Richtlinie 2014/31/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung nichtselbsttätiger Waagen auf dem Markt (ABl. L 96 vom 29.3.2014, S. 107) in der jeweils geltenden Fassung den gerätespezifischen Anforderungen genügen, auf die in Anlage 3 Tabelle 1 Spalte 3 für die jeweiligen Messgeräte verwiesen wird:
 
@@ -364,8 +353,7 @@ Absatz 2 ist bis zum Ablauf des 19. April 2016 mit der Maßgabe anzuwenden, dass
 
 (+++ § 8: Zur Anwendung vgl. § 58 Abs. 1 Nr. 2 +++)
 
-
-## § 9 – Konformitätsbewertungsverfahren
+# § 9 – Konformitätsbewertungsverfahren
 
 (1) Die Konformität eines Messgeräts mit den wesentlichen Anforderungen an das Messgerät wird vorbehaltlich des Absatzes 4 durch ein Konformitätsbewertungsverfahren gemäß Anlage 4 bestätigt; eine Bestätigung darf nur ausgesprochen werden, wenn auch den Anforderungen von Anlage 4 Teil A entsprochen ist. Für die in § 8 genannten Messgeräte sind vorbehaltlich des Absatzes 4 diejenigen Konformitätsbewertungsverfahren anzuwenden, die in Anlage 3 Tabelle 1 Spalte 4 benannt sind. Für alle anderen Messgeräte kann der Hersteller wählen, welches Konformitätsbewertungsverfahren aus Anlage 4 er für den Nachweis nutzen will. Das gewählte Konformitätsbewertungsverfahren muss zur Bewertung der Konformität unter Berücksichtigung der messtechnischen Komplexität des Messgeräts geeignet sein.
 
@@ -381,8 +369,7 @@ Absatz 2 ist bis zum Ablauf des 19. April 2016 mit der Maßgabe anzuwenden, dass
 
 (+++ § 9 Abs. 1 Satz 2: Zur Anwendung vgl. § 58 Abs. 1 Nr. 2 u. 3 +++)
 
-
-## § 10 – Technische Unterlagen
+# § 10 – Technische Unterlagen
 
 (1) Der Hersteller hat technische Unterlagen zu erstellen, die
 
@@ -408,8 +395,7 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 
 2. welche Bedingungen für die Kompatibilität mit Schnittstellen und Teilgeräten maßgeblich sind.
 
-
-## § 11 – Konformitätserklärungen
+# § 11 – Konformitätserklärungen
 
 (1) Die Konformitätserklärung für eines der in § 8 genannten Messgeräte muss
 
@@ -423,8 +409,7 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 
 2. alle Angaben enthält, die nach dem jeweiligen Konformitätsbewertungsverfahren vorgesehen sind, das zum Nachweis der Konformität des Messgeräts auf Grund des § 9 Absatz 1 Satz 3 und 4 gewählt wurde.
 
-
-## § 12 – Haftpflichtversicherung der Konformitätsbewertungsstelle
+# § 12 – Haftpflichtversicherung der Konformitätsbewertungsstelle
 
 (1) Die Haftpflichtversicherung, die die Konformitätsbewertungsstelle nach § 15 Absatz 8 des Mess- und Eichgesetzes abzuschließen hat, ist zur Deckung folgender Schäden bestimmt:
 
@@ -448,15 +433,13 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 
 (5) Die Vereinbarung eines Selbstbehalts bis zu 1 Prozent der Mindestversicherungssumme ist zulässig.
 
-
-## § 13 – Gemeinsame Vorschriften für Kennzeichnungen und Aufschriften von Messgeräten und sonstigen Messgeräten
+# § 13 – Gemeinsame Vorschriften für Kennzeichnungen und Aufschriften von Messgeräten und sonstigen Messgeräten
 
 (1) Kennzeichnungen und Aufschriften müssen gut sichtbar, lesbar und dauerhaft auf dem Messgerät oder dem sonstigen Messgerät angebracht sein; sie müssen klar, unauslöschlich, eindeutig und nicht übertragbar sein. Für Kennzeichnungen und Aufschriften müssen lateinische Buchstaben und arabische Ziffern verwendet werden. Andere Buchstaben oder Ziffern dürfen zusätzlich verwendet werden.
 
 (2) Ist ein Messgerät zu klein oder zu empfindlich, um die erforderlichen Kennzeichnungen oder Aufschriften zu tragen, müssen die Verpackung und die nach § 17 beizufügenden Informationen entsprechend gekennzeichnet sein. Satz 1 ist anzuwenden auf Gewichtstücke, sofern andernfalls die Messrichtigkeit beeinträchtigt wäre.
 
-
-## § 14 – Kennzeichnung von Messgeräten beim Inverkehrbringen
+# § 14 – Kennzeichnung von Messgeräten beim Inverkehrbringen
 
 (1) Die in § 8 Absatz 1 genannten Messgeräte sind vorbehaltlich des Absatzes 2 zu kennzeichnen
 
@@ -492,8 +475,7 @@ Der Hersteller hat insbesondere die technischen Unterlagen zu erstellen, die in 
 
 (+++ § 14 Abs. 1: Zur Anwendung vgl. § 58 Abs. 1 Nr. 2 +++)
 
-
-## § 15 – Aufschriften auf Messgeräten
+# § 15 – Aufschriften auf Messgeräten
 
 (1) Messgeräte sind mit folgenden Aufschriften zu versehen:
 
@@ -557,8 +539,7 @@ Die Höchstlast, die Mindestlast, der Eichwert und der Teilungswert müssen in d
 
 (+++ § 15 Abs. 5: Zur Anwendung vgl. § 17 Abs. 1 Satz 3 +++)
 
-
-## § 16 – Aufschriften auf sonstigen Messgeräten
+# § 16 – Aufschriften auf sonstigen Messgeräten
 
 Sonstige Messgeräte tragen folgende Aufschriften:
 
@@ -566,8 +547,7 @@ Sonstige Messgeräte tragen folgende Aufschriften:
 
 2. die Höchstlast, wobei dem Massewert die Buchstabenfolge „Max“ vorangestellt ist.
 
-
-## § 17 – Beizufügende Informationen
+# § 17 – Beizufügende Informationen
 
 (1) Die nach § 23 Absatz 4, § 25 Absatz 2 Nummer 3 und § 26 Absatz 1 Nummer 2 des Mess- und Eichgesetzes beizufügenden Informationen müssen die Funktionsweise des Messgeräts in einer Bedienungsanleitung erläutern, wenn ein Hersteller nicht davon ausgehen darf, dass es auch ohne Bedienungsanleitung von jedermann ordnungsgemäß in seinem vollen Funktionsumfang verwendet sowie gewartet und geprüft werden kann. Textliche Darstellungen müssen in deutscher Sprache abgefasst sein. § 15 Absatz 5 ist anzuwenden.
 
@@ -595,8 +575,7 @@ Satz 1 ist nicht für nichtselbsttätige Waagen anzuwenden.
 
 (4) Intelligenten Messsystemen und modernen Messeinrichtungen im Sinne des Messstellenbetriebsgesetzes sind – sofern es sich um Messgeräte im Sinne des Mess- und Eichgesetzes und dieser Verordnung handelt – abweichend von Absatz 3 Beschreibungen zur Handhabung der Ableseeinrichtungen beizufügen. Die Beschreibungen müssen leicht verständlich abgefasst sein. Textliche Darstellungen müssen in deutscher Sprache abgefasst sein.
 
-
-## § 18 – Verfahrensgrundsätze, wesentliche Anforderungen
+# § 18 – Verfahrensgrundsätze, wesentliche Anforderungen
 
 (1) Die nachfolgend genannten Messgeräte dürfen in Verkehr gebracht und in Betrieb genommen werden, sofern für sie jeweils eine EG-Bauartzulassung und eine EG-Ersteichung vorliegen:
 
@@ -650,8 +629,7 @@ Die in Satz 1 genannten Messgeräte können vom Hersteller unter dessen Verantwo
 
 (5) EG-Bauartzulassungen und EG-Ersteichungen dürfen nur erteilt werden, wenn die Messgeräte den wesentlichen Anforderungen genügen, auf die in der Anlage 6 Tabelle 1 Spalte 3 verwiesen wird. Auf EG-Ersteichungen ab dem 1. Dezember 2015 sind weiterhin die Vorschriften jener europäischen Richtlinien anzuwenden, auf die in Anlage 6 Tabelle 1 verwiesen wird, und zwar für Messgeräte nach Absatz 1 Nummer 1 bis 5 und Absatz 2 Nummer 1 bis 3 in deren am 30. November 2015 geltenden Fassung und für Messgeräte nach Absatz 1 Nummer 6 bis 16 und Absatz 2 Nummer 4 in deren am 30. Oktober 2006 geltenden Fassung.
 
-
-## § 19 – EG-Bauartzulassung
+# § 19 – EG-Bauartzulassung
 
 (1) Die EG-Bauartzulassung ist bei der Physikalisch-Technischen Bundesanstalt zu beantragen. Der Antrag muss den Anforderungen des Anhangs I Nummer 1 der Richtlinie 2009/34/EG genügen. Die beigefügten Unterlagen müssen in deutscher Sprache abgefasst sein.
 
@@ -669,8 +647,7 @@ Die in Satz 1 genannten Messgeräte können vom Hersteller unter dessen Verantwo
 
 (6) Die Physikalisch-Technische Bundesanstalt übermittelt die Bescheinigung über die EG-Bauartzulassung dem Antragsteller.
 
-
-## § 20 – Rücknahme und Widerruf der EG-Bauartzulassung
+# § 20 – Rücknahme und Widerruf der EG-Bauartzulassung
 
 (1) Die EG-Bauartzulassung ist zurückzunehmen, wenn bekannt wird, dass bei ihrer Erteilung die Messrichtigkeit oder die Messbeständigkeit des Messgeräts nicht gewährleistet war.
 
@@ -682,8 +659,7 @@ Die in Satz 1 genannten Messgeräte können vom Hersteller unter dessen Verantwo
 
 2. das Messgerät, für dessen Bauart eine EG-Bauartzulassung erteilt worden ist, dieser Zulassung nicht entspricht.
 
-
-## § 21 – EG-Ersteichung
+# § 21 – EG-Ersteichung
 
 (1) Die EG-Ersteichung ist bei der nach Landesrecht zuständigen Behörde zu beantragen. EG-Ersteichungen können auch von staatlich anerkannten Prüfstellen im Rahmen ihrer Prüfbefugnisse durchgeführt werden.
 
@@ -717,15 +693,13 @@ Die in Satz 1 genannten Messgeräte können vom Hersteller unter dessen Verantwo
 
 Bei EG-Ersteichungen ab dem 1. Dezember 2015 ist der Wortlaut der in Satz 1 Nummer 1 und 2 genannten Vorschriften in der am 30. November 2015 geltenden Fassung anzuwenden, der in Satz 1 Nummer 3 bis 11 genannten Vorschriften in der am 30. Oktober 2006 geltenden Fassung.
 
-
-## § 22 – Verkehrsfehlergrenzen
+# § 22 – Verkehrsfehlergrenzen
 
 (1) Messgeräte in Form nichtselbsttätiger Waagen müssen bei der Verwendung eine Verkehrsfehlergrenze einhalten, die dem Doppelten der für sie bestimmten Fehlergrenze entspricht.
 
 (2) Messgeräte müssen in den übrigen Fällen bei der Verwendung eine Genauigkeit aufweisen, die dem Stand der Technik unter Berücksichtigung der zu erfüllenden Messaufgabe entspricht. Es wird vermutet, dass die Verkehrsfehlergrenze eines Messgeräts eingehalten ist, wenn sie nicht mehr als das Doppelte der Fehlergrenze beträgt und eine anderweitige Feststellung des Regelermittlungsausschusses nach den Vorschriften des § 46 des Mess- und Eichgesetzes nicht veröffentlicht ist.
 
-
-## § 23 – Aufstellung, Gebrauch und Wartung von Messgeräten
+# § 23 – Aufstellung, Gebrauch und Wartung von Messgeräten
 
 (1) Wer ein Messgerät verwendet im Sinne des § 1 Absatz 2 und 3, muss
 
@@ -745,15 +719,13 @@ c) innerhalb des zulässigen Messbereichs eingesetzt wird,
 
 (3) Wer ein Messgerät im Direktverkauf verwendet, muss es so aufstellen und benutzen, dass der Käufer den Messvorgang beobachten kann.
 
-
-## § 24 – Vermutungswirkung
+# § 24 – Vermutungswirkung
 
 (1) Es wird vermutet, dass Verwender ihre Pflichten nach § 23 erfüllen, wenn sie die Bedingungen einhalten, die hierzu nach § 46 des Mess- und Eichgesetzes in Regeln, technischen Spezifikationen oder Erkenntnissen ermittelt und veröffentlicht wurden.
 
 (2) (weggefallen)
 
-
-## § 25 – Ausnahmen bei Werten für Messgrößen
+# § 25 – Ausnahmen bei Werten für Messgrößen
 
 Werte für die folgenden Messgrößen dürfen Verwender angeben oder verwenden, auch ohne dass die angegebene Größe mit einem Messgerät im Sinne des Mess- und Eichgesetzes und dieser Verordnung ermittelt worden ist:
 
@@ -777,15 +749,13 @@ b) nach einem von der Molkerei errechneten, mindestens durch wöchentliches Nach
 
 Wurden Werte nach Satz 1 entsprechend einer vom Regelermittlungsausschuss nach § 46 des Mess- und Eichgesetzes ermittelten Regel, deren Fundstelle von der Physikalisch-Technischen Bundesanstalt im Bundesanzeiger bekannt gemacht wurde, ermittelt, so wird widerleglich vermutet, dass sie den anerkannten Regeln der Technik entsprechend ermittelt wurden.
 
-
-## § 26 – Angabe von Gewichtswerten
+# § 26 – Angabe von Gewichtswerten
 
 (1) Im geschäftlichen Verkehr mit losen Erzeugnissen sind Gewichtswerte, die der Preisermittlung zugrunde liegen, nur als Nettowerte anzugeben. Erfolgt die Abgabe von losen Erzeugnissen an Personen, die das Erzeugnis in ihrer selbständigen beruflichen oder gewerblichen oder in ihrer behördlichen oder dienstlichen Tätigkeit verwenden, dürfen zusätzlich auch Bruttowerte angegeben werden.
 
 (2) Das Verwenden gespeicherter Taragewichtswerte zur Berücksichtigung des Gewichts von Verpackungen oder Transportgeräten ist gestattet, wenn die gespeicherten Gewichtswerte den tatsächlichen Taragewichtswerten zum Zeitpunkt ihrer Verwendung entsprechen oder so bemessen sind, dass eine Benachteiligung des Vertragspartners ausgeschlossen ist.
 
-
-## § 27 – Verwenden von Ausschankmaßen
+# § 27 – Verwenden von Ausschankmaßen
 
 Beim Verwenden für den geschäftsmäßigen Ausschank sind Ausschankmaße nur mit einem der folgenden Nennvolumina zulässig:
 
@@ -829,15 +799,13 @@ Beim Verwenden für den geschäftsmäßigen Ausschank sind Ausschankmaße nur mi
 
 20.  5 Liter.
 
-
-## § 28 – Abgabe von flüssigen Brennstoffen
+# § 28 – Abgabe von flüssigen Brennstoffen
 
 Wer Gasöl, das auf Grund des § 2 Absatz 1 der Energiesteuer-Durchführungsverordnung vom 31. Juli 2006 (BGBl. I S. 1753), die zuletzt durch Artikel 1 der Verordnung vom 24. Juli 2013 (BGBl. I S. 2763) geändert worden ist, in der jeweils geltenden Fassung, gekennzeichnet ist und zum Verheizen verwendet wird (leichtes Heizöl), oder Flüssiggas zum Zweck des Verheizens im geschäftlichen Verkehr nach Volumen abgibt, hat das Volumen der abgegebenen Brennstoffe im Betriebszustand nach den allgemein anerkannten Regeln der Technik auf eine Temperatur von 15 Grad Celsius umzurechnen und das umgerechnete Volumen der Abrechnung zugrunde zu legen.
 
 (+++ § 28: Zur Anwendung vgl. § 58 Abs. 2 Satz 1 u. 2 +++)
 
-
-## § 29 – Besondere Vorschriften für das Verwenden von Messgeräten zur Bestimmung der Dosis ionisierender Strahlung
+# § 29 – Besondere Vorschriften für das Verwenden von Messgeräten zur Bestimmung der Dosis ionisierender Strahlung
 
 (1) Dosimetersonden für ein passives, integrierendes Dosimeter dürfen von einer Stelle, die für die Auswertung von Dosimetersonden eines Dosimeters ausgestattet und qualifiziert ist (Dosimetriestelle), nur ausgegeben werden, wenn
 
@@ -851,8 +819,7 @@ Die Vergleichsmessungen nach Satz 1 Nummer 2 werden von der Physikalisch-Technis
 
 (3) Elektronische Personendosimeter dürfen für Messungen, in denen die Personendosis mit einem Dosimeter nach § 66 Absatz 1 Nummer 2 der Strahlenschutzverordnung zu messen ist, nur von einer Dosimetriestelle verwendet werden. Die Feststellung der Personendosis der jeweiligen Person muss im Fall des Satzes 1 durch die Dosimetriestelle im Wege elektronischer Datenkommunikation erfolgen.
 
-
-## § 30 – Pflichten beim Verwenden einer öffentlichen Waage
+# § 30 – Pflichten beim Verwenden einer öffentlichen Waage
 
 Wer eine öffentliche Waage verwendet, hat
 
@@ -864,8 +831,7 @@ dem Wort „Waage“ können Hinweise auf die Art der Waage, ihren Verwendungszw
 
 2. den Beginn und die Einstellung des Betriebs einer öffentlichen Waage der zuständigen Behörde unverzüglich anzuzeigen.
 
-
-## § 31 – Pflichten bei der Durchführung öffentlicher Wägungen
+# § 31 – Pflichten bei der Durchführung öffentlicher Wägungen
 
 Wer eine öffentliche Waage verwendet, hat bei Wägungen sicherzustellen, dass
 
@@ -873,8 +839,7 @@ Wer eine öffentliche Waage verwendet, hat bei Wägungen sicherzustellen, dass
 
 2. sie abgelehnt werden, wenn der Verwender der öffentlichen Waage, das die Wägung durchführende Betriebspersonal oder einer ihrer Angehörigen im Sinne des § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung ein unmittelbares Interesse an dem Wägeergebnis haben.
 
-
-## § 32 – Nachweis des Wägeergebnisses
+# § 32 – Nachweis des Wägeergebnisses
 
 (1) Wer eine öffentliche Waage verwendet, hat sicherzustellen, dass das Wägeergebnis durch Unterschrift desjenigen bescheinigt wird, der dieses selbst ermittelt hat. Folgende Angaben müssen in der Bescheinigung enthalten sein:
 
@@ -896,8 +861,7 @@ b) das ermittelte Wägeergebnis.
 
 (2) Wer eine öffentliche Waage verwendet, muss die Unterlagen über die bescheinigten öffentlichen Wägungen für die Dauer von zwei Jahren, gerechnet ab dem Zeitpunkt der Beendigung der Wägung, aufbewahren.
 
-
-## § 33 – Pflichten der antragstellenden Person bei der Eichung
+# § 33 – Pflichten der antragstellenden Person bei der Eichung
 
 (1) Die antragstellende Person hat die Messgeräte für die Eichung zu reinigen und ordnungsgemäß herzurichten.
 
@@ -911,8 +875,7 @@ b) das ermittelte Wägeergebnis.
 
 (+++ § 33: Zur Anwendung vgl. § 50 Abs. 1 +++)
 
-
-## § 34 – Eichfrist
+# § 34 – Eichfrist
 
 (1) Die Eichfrist eines Messgeräts beträgt zwei Jahre, soweit nicht etwas anderes bestimmt ist
 
@@ -926,8 +889,7 @@ Soweit nicht die Eichfrist nach § 37 Absatz 1 Satz 2 des Mess- und Eichgesetzes
 
 (3) Unabhängig von dem nach Absatz 1 sich ergebenden rechnerischen Ende der Eichfrist endet diese bei Eichfristen, die weniger als zwölf Monate betragen, mit dem Ablauf des Kalendermonats, in dem die Frist rechnerisch endet. Es wird vermutet, dass das Messgerät zum Ende des Jahres in Verkehr gebracht wurde, in dem es nach § 14 gekennzeichnet wurde.
 
-
-## § 35 – Verlängerung der Eichfrist auf Grund von Stichprobenverfahren
+# § 35 – Verlängerung der Eichfrist auf Grund von Stichprobenverfahren
 
 Die nach § 40 Absatz 1 des Mess- und Eichgesetzes zuständige Behörde verlängert auf Antrag die Eichfrist derjenigen Messgeräte für Elektrizität, Gas, Wasser oder Wärme, die in einem Los zusammengefasst sind. Dazu ist nach anerkannten statistischen Grundsätzen eine bestimmte Größe und zufällige Auswahl einer zu prüfenden Stichprobe dieser Messgeräte zu ermitteln. Die Eichfrist wird verlängert, sofern
 
@@ -947,13 +909,11 @@ Die nach § 40 Absatz 1 des Mess- und Eichgesetzes zuständige Behörde verläng
 
 Bei der Verlängerung der Eichfrist ist der Einfluss des zu erwartenden Alterungsverhaltens der Messgeräte auf die Messbeständigkeit unter den gegebenen Verwendungsbedingungen angemessen zu berücksichtigen.
 
-
-## § 36 – Durchführung der Eichung
+# § 36 – Durchführung der Eichung
 
 Die Eichung besteht aus der eichtechnischen Prüfung (§ 37) und dem Aufbringen der Eichkennzeichen auf dem Messgerät (§ 38).
 
-
-## § 37 – Eichtechnische Prüfung
+# § 37 – Eichtechnische Prüfung
 
 (1) Die eichtechnische Prüfung besteht aus der Prüfung der formalen Anforderungen und der messtechnischen Prüfung des Messgerätes und der Bewertung der Prüfergebnisse. Sie kann in einem Vorgang erfolgen oder aus einer oder mehreren Vorprüfungen und einer Schlussprüfung bestehen.
 
@@ -964,8 +924,7 @@ Die Eichung besteht aus der eichtechnischen Prüfung (§ 37) und dem Aufbringen 
 (+++ § 37: Zur Anwendung vgl. § 50 Abs. 1 +++)  
 (+++ § 37 Abs. 1 u. 2: Zur Anwendung vgl. § 39 Abs. 1 +++)
 
-
-## § 38 – Kennzeichnung der Messgeräte
+# § 38 – Kennzeichnung der Messgeräte
 
 (1) Messgeräte werden bei der Eichung von der nach § 40 Absatz 1 des Mess- und Eichgesetzes zuständigen Behörde mit dem Eichkennzeichen nach Anlage 8 Nummer 1.1 oder 1.2 als geeicht gekennzeichnet. Das Messgerät darf mit dem Zusatzzeichen nach Anlage 8 Nummer 1.3 versehen werden, das jedoch nur an einer gut sichtbaren Stelle angebracht werden darf.
 
@@ -977,8 +936,7 @@ Die Eichung besteht aus der eichtechnischen Prüfung (§ 37) und dem Aufbringen 
 
 (+++ § 38 Abs. 4: Zur Anwendung vgl. § 50 Abs. 3 Satz 3 +++)
 
-
-## § 39 – Durchführung der Befundprüfung
+# § 39 – Durchführung der Befundprüfung
 
 (1) Auf eine Befundprüfung nach § 39 Absatz 1 des Mess- und Eichgesetzes sind die Regelungen des § 37 Absatz 1 und 2 entsprechend anzuwenden, wobei an Stelle der Fehlergrenzen die Verkehrsfehlergrenzen zu berücksichtigen sind.
 
@@ -988,8 +946,7 @@ Die Eichung besteht aus der eichtechnischen Prüfung (§ 37) und dem Aufbringen 
 
 (+++ § 39: Zur Anwendung vgl. § 51 Abs. 3 +++)
 
-
-## § 40 – Genehmigungsverfahren zur Aktualisierung von Software in Messgeräten
+# § 40 – Genehmigungsverfahren zur Aktualisierung von Software in Messgeräten
 
 (1) Antragsbefugt sind
 
@@ -1041,13 +998,11 @@ Die vorläufige Genehmigung nach Satz 1 ist innerhalb von vier Werktagen zu erte
 
 (5) Die Aktualisierung der Software eines Messgeräts darf nur erfolgen, wenn der Verwender dem zugestimmt hat.
 
-
-## § 41 – Konformitätsbewertung der aktualisierten Software
+# § 41 – Konformitätsbewertung der aktualisierten Software
 
 Die Konformitätsbewertung der aktualisierten Software hat durch eine Konformitätsbewertungsstelle im Sinne des § 13 Absatz 1 Satz 1 oder des § 14 Absatz 1 Satz 1 des Mess- und Eichgesetzes zu erfolgen, die zur Bewertung der jeweiligen Baumuster berechtigt ist.
 
-
-## § 42 – Antrag und Anerkennung
+# § 42 – Antrag und Anerkennung
 
 (1) Prüfstellen können staatlich anerkannt werden für
 
@@ -1073,8 +1028,7 @@ Sind Leitung und stellvertretende Leitung der Prüfstelle noch nicht öffentlich
 
 2. die Messbereiche, innerhalb derer Eichungen und Befundprüfungen vorgenommen werden dürfen.
 
-
-## § 43 – Anforderungen an die Prüfstelle
+# § 43 – Anforderungen an die Prüfstelle
 
 (1) Der Träger der Prüfstelle muss rechtsfähig, die Prüfstelle soll rechtsfähig sein. Ist die Prüfstelle nicht selbst rechtsfähig, muss sie als organisatorisch selbständige Einheit so eingerichtet und unterhalten werden, dass eine sach- und fachgerechte Eichung und Befundprüfung gewährleistet ist.
 
@@ -1102,8 +1056,7 @@ Sind Leitung und stellvertretende Leitung der Prüfstelle noch nicht öffentlich
 
 (+++ § 43 Abs. 5: Zur Anwendung vgl. § 58 Abs. 4 +++)
 
-
-## § 44 – Haftpflichtversicherung der Prüfstelle
+# § 44 – Haftpflichtversicherung der Prüfstelle
 
 (1) Die Haftpflichtversicherung, die die Prüfstelle nach § 40 Absatz 3 Satz 2 des Mess- und Eichgesetzes abzuschließen hat, ist zur Deckung folgender Schäden bestimmt:
 
@@ -1123,13 +1076,11 @@ Sind Leitung und stellvertretende Leitung der Prüfstelle noch nicht öffentlich
 
 (5) Es kann ein Selbstbehalt bis zu 1 Prozent der Mindestversicherungssumme vereinbart werden.
 
-
-## § 45 – Leitung und stellvertretende Leitung
+# § 45 – Leitung und stellvertretende Leitung
 
 Die Leitung oder stellvertretende Leitung einer Prüfstelle darf nur ausüben, wer von der zuständigen Behörde öffentlich bestellt ist und verpflichtet ist nach den Vorschriften des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547), das durch § 1 Nummer 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942) geändert worden ist, in der jeweils geltenden Fassung. Die öffentliche Bestellung der Leitung und der stellvertretenden Leitung erfolgt für die Tätigkeit an einer bestimmten Prüfstelle.
 
-
-## § 46 – Antrag
+# § 46 – Antrag
 
 (1) Wer als Leiterin oder Leiter oder stellvertretende Leiterin oder stellvertretender Leiter einer Prüfstelle tätig sein will, hat seine Bestellung bei der zuständigen Behörde schriftlich oder auf elektronischem Weg zu beantragen.
 
@@ -1147,8 +1098,7 @@ Die Leitung oder stellvertretende Leitung einer Prüfstelle darf nur ausüben, w
 
 Der Antragsteller hat ferner ein Führungszeugnis im Sinne des § 30 Absatz 5 des Bundeszentralregistergesetzes vorzulegen. Die Unterlagen nach den Sätzen 1 und 2, ausgenommen Ausbildungs- und Befähigungsnachweise, dürfen bei Antragstellung nicht älter als drei Monate sein.
 
-
-## § 47 – Sachkunde
+# § 47 – Sachkunde
 
 Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
@@ -1158,8 +1108,7 @@ Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
 3. durch eine Prüfung an der Deutschen Akademie für Metrologie die erforderlichen Kenntnisse des gesetzlichen Messwesens nachgewiesen hat.
 
-
-## § 48 – Öffentliche Bestellung
+# § 48 – Öffentliche Bestellung
 
 (1) Die öffentliche Bestellung der Leitung und der stellvertretenden Leitung der Prüfstelle erfolgt durch Aushändigung einer Bestellungsurkunde, nachdem die Verpflichtung der Person vorgenommen wurde.
 
@@ -1171,8 +1120,7 @@ Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
 3. Tatsachen die Annahme rechtfertigen, dass die antragstellende Person die erforderliche Zuverlässigkeit für die Leitung der Prüfstelle oder die Stellvertretung nicht besitzt, insbesondere wenn sie keine Unparteilichkeit gewährleisten kann oder in ungeordneten Vermögensverhältnissen lebt.
 
-
-## § 49 – Bezeichnung und Anzeige der staatlich anerkannten Prüfstelle
+# § 49 – Bezeichnung und Anzeige der staatlich anerkannten Prüfstelle
 
 (1) Staatlich anerkannte Prüfstellen führen die Bezeichnung „Staatlich anerkannte Prüfstelle“ mit einem Zusatz, der auf die Art der Messgeräte hinweist, für die Eichungen und Befundprüfungen durchgeführt werden dürfen, und den Träger der Prüfstelle nennt.
 
@@ -1182,8 +1130,7 @@ Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
 2. die Aufnahme und das Ende der Beschäftigung der Leitung und der stellvertretenden Leitung der staatlich anerkannten Prüfstelle.
 
-
-## § 50 – Durchführung von Eichungen durch staatlich anerkannte Prüfstellen
+# § 50 – Durchführung von Eichungen durch staatlich anerkannte Prüfstellen
 
 (1) Für die Durchführung der Eichung durch staatlich anerkannte Prüfstellen sind die §§ 33 und 37 entsprechend anzuwenden.
 
@@ -1191,8 +1138,7 @@ Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
 (3) Die staatlich anerkannten Prüfstellen schützen Messgeräte gegen ein unbefugtes Öffnen, indem sie ein Sicherungszeichen nach Anlage 8 Nummer 2.2 aufbringen. Als Sicherungszeichen kann auch das Eichkennzeichen verwendet werden. Wird ein Messgerät für vorschriftswidrig befunden, so ist § 38 Absatz 4 anzuwenden.
 
-
-## § 51 – Durchführung von Befundprüfungen durch staatlich anerkannte Prüfstellen
+# § 51 – Durchführung von Befundprüfungen durch staatlich anerkannte Prüfstellen
 
 (1) Staatlich anerkannte Prüfstellen sind im Rahmen ihrer Prüfbefugnisse verpflichtet, auf Antrag Befundprüfungen vorzunehmen.
 
@@ -1200,13 +1146,11 @@ Die erforderliche Sachkunde ist gegeben, wenn die antragstellende Person
 
 (3) Für die Durchführung der Befundprüfungen durch staatlich anerkannte Prüfstellen ist § 39 anzuwenden.
 
-
-## § 52 – Prüfungsunterlagen
+# § 52 – Prüfungsunterlagen
 
 Die staatlich anerkannten Prüfstellen haben über die von ihnen durchgeführten Eichungen und Befundprüfungen Unterlagen zu fertigen, die jederzeit für eine Nachprüfung verfügbar sein müssen. Die Unterlagen sind zwei Jahre aufzubewahren.
 
-
-## § 53 – Verantwortung der Prüfstellenleitung
+# § 53 – Verantwortung der Prüfstellenleitung
 
 (1) Die Leitung der staatlich anerkannten Prüfstelle oder bei ihrer Abwesenheit die stellvertretende Leitung ist insbesondere dafür verantwortlich, dass
 
@@ -1220,8 +1164,7 @@ Die staatlich anerkannten Prüfstellen haben über die von ihnen durchgeführten
 
 (2) Sind sowohl die Leitung als auch die stellvertretende Leitung der staatlich anerkannten Prüfstelle verhindert, dürfen keine Eichungen vorgenommen werden.
 
-
-## § 54 – Befugniserteilung an Instandsetzer
+# § 54 – Befugniserteilung an Instandsetzer
 
 (1) Die zuständige Behörde darf Betrieben (Instandsetzer) auf Antrag die Befugnis erteilen, instand gesetzte Messgeräte durch ein Zeichen kenntlich zu machen (Instandsetzerkennzeichen). Voraussetzung für die Erteilung der Befugnis ist, dass die Betriebe über die zur Instandsetzung erforderlichen Einrichtungen und über sachkundiges Personal verfügen.
 
@@ -1239,8 +1182,7 @@ Die staatlich anerkannten Prüfstellen haben über die von ihnen durchgeführten
 
 3. die Voraussetzungen des Absatzes 1 Satz 2 nicht mehr gegeben sind.
 
-
-## § 55 – Pflichten der Instandsetzer
+# § 55 – Pflichten der Instandsetzer
 
 (1) Der Instandsetzer hat die instand gesetzten Messgeräte mit dem Instandsetzerkennzeichen kenntlich zu machen, wenn
 
@@ -1264,15 +1206,13 @@ Im unteren Feld des Instandsetzerkennzeichens sind beim Anbringen des Instandset
 
 (5) Im Fall der Einstellung seiner Tätigkeit hat der Instandsetzer der Behörde unverzüglich sämtliche Instandsetzerkennzeichen zu übergeben.
 
-
-## § 56 – Meldeverfahren
+# § 56 – Meldeverfahren
 
 (1) Für Meldungen im Sinne des § 53 Absatz 2 des Mess- und Eichgesetzes an die Europäische Kommission und an die übrigen Mitgliedstaaten der Europäischen Union haben die Marktüberwachungsbehörden das Informationssystem nach Artikel 23 Absatz 1 der Verordnung (EG) Nr. 765/2008 zu verwenden, soweit europäische Vorschriften keinen anderen Informationsweg vorsehen.
 
 (2) Die Marktüberwachungsbehörden informieren die Physikalisch-Technische Bundesanstalt über Meldungen im Sinne des § 53 Absatz 2 des Mess- und Eichgesetzes.
 
-
-## § 57 – Ordnungswidrigkeiten
+# § 57 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1296,8 +1236,7 @@ Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes 
 
 10. entgegen § 55 Absatz 5 ein Instandsetzerkennzeichen nicht oder nicht rechtzeitig übergibt.
 
-
-## § 58 – Übergangsvorschriften
+# § 58 – Übergangsvorschriften
 
 (1) Bis zum Ablauf des 30. Oktober 2016:
 
@@ -1317,8 +1256,7 @@ Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes 
 
 (6) Bis zum Ablauf des 31. Dezember 2018 darf der Feuchtegehalt von Holz auch mit Geräten bestimmt werden, die nicht dem Mess- und Eichgesetz und dieser Verordnung entsprechen.
 
-
-## Anlage 1 – (zu § 2 Satz 2)Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
+# Anlage 1 – (zu § 2 Satz 2)Ausnahmen vom Anwendungsbereich für einzelne Messgeräte
 
 (Fundstelle: BGBl. I 2014, 2033 - 2034;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1488,8 +1426,7 @@ keine.
 
 Anlage 1 Nr. 5 Buchst. c DBuchst. ee: Eingef. durch Art. 1 Nr. 20 Buchst. b V v. 10.8.2017 I 3098 mWv 16.8.2017; Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde nach dem Wort "sind" ein Komma gesetzt und der Punkt entfernt
 
-
-## Anlage 2 – (zu § 7 Absatz 1 Satz 3)Anforderungen an Messgeräte
+# Anlage 2 – (zu § 7 Absatz 1 Satz 3)Anforderungen an Messgeräte
 
 (Fundstelle: BGBl. I 2014, 2035 - 2038;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1721,14 +1658,12 @@ Darüber hinaus muss bei Abschluss der Messung, die nicht der Ermittlung von Ver
 
 Ein Messgerät ist so auszulegen, dass eine Bewertung seiner Konformität mit den entsprechenden Anforderungen des Mess- und Eichgesetzes und dieser Verordnung möglich ist.
 
-
-## Anlage 3 – (zu § 8, § 9 Absatz 1 Satz 2, § 9 Absatz 4)Gerätespezifische Anforderungen und anzuwendende Konformitätsbewertungsverfahren für einzelne Messgeräte
+# Anlage 3 – (zu § 8, § 9 Absatz 1 Satz 2, § 9 Absatz 4)Gerätespezifische Anforderungen und anzuwendende Konformitätsbewertungsverfahren für einzelne Messgeräte
 
 (Fundstelle: BGBl. I 2014, 2039 - 2044;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 4 – (zu § 9 Absatz 1 Satz 1)Konformitätsbewertungsverfahren
+# Anlage 4 – (zu § 9 Absatz 1 Satz 1)Konformitätsbewertungsverfahren
 
 (Fundstelle: BGBl. I 2014, 2045 - 2060)
 
@@ -2604,8 +2539,7 @@ die Entscheidungen und Berichte der Konformitätsbewertungsstelle nach diesem Mo
 
 Der in den Nummern 4.1 und 4.2 genannte Antrag darf vom Bevollmächtigten eingereicht und die in den Nummern 3.1, 6 und 7 genannten Verpflichtungen sowie die Verpflichtung zur Unterrichtung der Konformitätsbewertungsstelle über Änderungen dürfen vom Bevollmächtigten unter der Verantwortung des Herstellers erfüllt werden, falls dies in der Beauftragung ausdrücklich festgelegt ist.
 
-
-## Anlage 5 – (zu § 11 Absatz 2)Konformitätserklärung für Messgeräte, die nicht europäischen Vorschriften unterliegen
+# Anlage 5 – (zu § 11 Absatz 2)Konformitätserklärung für Messgeräte, die nicht europäischen Vorschriften unterliegen
 
 (Fundstelle: BGBl. I 2014, 2061;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2634,20 +2568,17 @@ Unterzeichnet für und im Namen von ……………….
 
 (Name, Funktion, Unterschrift)
 
-
-## Anlage 6 – (zu § 18 Absatz 3 und 5)Messgeräte für EG-Bauartzulassung und EG-Ersteichung
+# Anlage 6 – (zu § 18 Absatz 3 und 5)Messgeräte für EG-Bauartzulassung und EG-Ersteichung
 
 (Fundstelle: BGBl. I 2014, 2062 - 2063;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 7 – (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte
+# Anlage 7 – (zu § 34 Absatz 1 Nummer 1)Besondere Eichfristen für einzelne Messgeräte
 
 (Fundstelle: BGBl. I 2014, 2064 - 2068;  
 bzgl. der einzelnen Änderungen vgl. Fußnote))
 
-
-## Anlage 8 – (zu § 38, § 50 Absatz 2 und 3, § 54 Absatz 3 Satz 2, § 55 Absatz 2 Satz 2)Kennzeichen
+# Anlage 8 – (zu § 38, § 50 Absatz 2 und 3, § 54 Absatz 3 Satz 2, § 55 Absatz 2 Satz 2)Kennzeichen
 
 (Fundstelle: BGBl. I 2014, 2069 - 2071;  
 bzgl. der einzelnen Änderungen vgl. Fußnote))
@@ -2668,7 +2599,7 @@ Das Eichkennzeichen besteht im linken Teil aus einem gewundenen Band mit dem Buc
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0010.jpg)  
 
 Wird das Eichkennzeichen als Marke verwendet, kann dieses in einer rechteckigen oder runden Form erfolgen. Die Marke kann den Namen der Eichbehörde enthalten. Die Hintergrundfarbe der Marke ist gelb, entsprechend der nachfolgenden Darstellung.
 
@@ -2676,7 +2607,7 @@ Beispiel:
 
 |                                                    |                                                    |
 |:---------------------------------------------------|:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2014/j2010-1_0020.jpg) | ![](../normengrafiken/bgbl1_2014/j2010-1_0030.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0020.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0030.jpg) |
 
   
 
@@ -2686,7 +2617,7 @@ Beträgt die Eichfrist weniger als zwölf Monate, besteht die Kennzeichnung aus 
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0040.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0040.jpg)  
 
 1.3  
 Das Zusatzzeichen zur Bezeichnung des Endes der Eichfrist hat eine der folgenden Formen.
@@ -2695,7 +2626,7 @@ Beispiel:
 
 |                                                    |                                                    |
 |:---------------------------------------------------|:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2014/j2010-1_0050.jpg) | ![](../normengrafiken/bgbl1_2014/j2010-1_0060.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0050.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0060.jpg) |
 
   
 
@@ -2706,7 +2637,7 @@ Beispiel:
 
 |                                                    |                                                    |
 |:---------------------------------------------------|:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2014/j2010-1_0070.jpg) | ![](../normengrafiken/bgbl1_2014/j2010-1_0080.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0070.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0080.jpg) |
 
   
 
@@ -2716,7 +2647,7 @@ Das Entwertungszeichen besteht aus zwei sich tangierenden Halbkreisen in nachste
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0090.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0090.jpg)  
 
 2. Kennzeichen der staatlich anerkannten Prüfstellen (§ 50 Absatz 2 und 3)
 
@@ -2726,7 +2657,7 @@ Das Eichkennzeichen der Prüfstellen trägt in der oberen Hälfte eines Kreises 
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0100.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0100.jpg)  
 
 Erläuterung: Kennzeichen einer Prüfstelle für Elektrizitätsmessgeräte (E), zuständige Behörde Nordrhein-Westfalen (NW), zugeteilte Ordnungsnummer „3“, Jahr der Eichung 2015.
 
@@ -2736,7 +2667,7 @@ Das Sicherungszeichen der staatlich anerkannten Prüfstelle entspricht dem obere
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0110.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0110.jpg)  
 
 3. Kennzeichen des Instandsetzers (§ 54 Absatz 3 Satz 2, § 55 Absatz 2 Satz 2)
 
@@ -2748,7 +2679,7 @@ Das Kennzeichen enthält im oberen Feld die Kennung der zuständigen Behörde, i
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0120.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0120.jpg)  
 
 3.2  
 Das Sicherungszeichen des Instandsetzers besteht aus einer dreieckigen Klebemarke mit einer Seitenlänge von mindestens 7 mm. Die Rückseite des Sicherungszeichens in der Ausführung als Plombe darf mit einem Firmenzeichen versehen sein.
@@ -2758,7 +2689,7 @@ Das Kennzeichen trägt im oberen Feld die Kennung der zuständigen Behörde, dar
 Beispiel:
 
   
-![](../normengrafiken/bgbl1_2014/j2010-1_0130.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j2010-1_0130.jpg)  
 
 4. Kennungen der in den Ländern zuständigen Behörden:
 

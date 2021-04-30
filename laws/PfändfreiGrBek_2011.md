@@ -1,10 +1,7 @@
-# [PfändfreiGrBek 2011] Bekanntmachung zu § 850c der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2011)
-
-Ausfertigungsdatum: 09.05.2011
-
+% Bekanntmachung zu § 850c der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2011)
+% Ausfertigungsdatum: 09.05.2011
  
-
-## ----
+# ----
 
 Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung, der durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3638) eingefügt worden ist, wird bekannt gemacht:
 
@@ -45,12 +42,10 @@ von 131,25 auf 137,08 Euro täglich.
 
 Die ab 1. Juli 2011 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin der Justiz
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2011, 826 - 840)

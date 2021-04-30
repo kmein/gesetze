@@ -1,10 +1,7 @@
-# [AMFarbV] Arzneimittelfarbstoffverordnung  (AMFarbV)
-
-Ausfertigungsdatum: 17.10.2005
-
+% Arzneimittelfarbstoffverordnung  (AMFarbV)
+% Ausfertigungsdatum: 17.10.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -14,8 +11,7 @@ das Bundesministerium für Gesundheit und Soziale Sicherung auf Grund des § 6 A
 \-  
 das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf Grund des § 6 Abs. 1 Satz 1 in Verbindung mit Satz 2 und des § 83 Abs. 1 und 2 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586), von denen § 6 Abs. 1 zuletzt durch Artikel 1 Nr. 4 Buchstabe a des Gesetzes vom 30. Juli 2004 (BGBl. I S. 2031) neu gefasst worden ist, im Einvernehmen mit dem Bundesministerium für Gesundheit und Soziale Sicherung:
 
-
-## § 1
+# § 1
 
 (1) Bei der Herstellung von Arzneimitteln im Sinne des § 2 Absatz 1 des Arzneimittelgesetzes dürfen über die in § 55 Absatz 8 des Arzneimittelgesetzes genannten Voraussetzungen hinaus zur Färbung nur solche Stoffe oder Zubereitungen aus Stoffen verwendet werden, die
 
@@ -25,8 +21,7 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 (2) Arzneimittel im Sinne des § 2 Abs. 1 des Arzneimittelgesetzes, die nicht nach den Vorschriften des Absatzes 1 hergestellt sind, dürfen im Geltungsbereich des Arzneimittelgesetzes nicht in den Verkehr gebracht werden.
 
-
-## § 2
+# § 2
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird bestraft, wer vorsätzlich oder fahrlässig Arzneimittel entgegen § 1 Abs. 2 in den Verkehr bringt.
 
@@ -34,8 +29,7 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 (3) Wer eine in Absatz 2 bezeichnete Handlung fahrlässig begeht, handelt nach § 97 Abs. 1 des Arzneimittelgesetzes ordnungswidrig.
 
-
-## § 3
+# § 3
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

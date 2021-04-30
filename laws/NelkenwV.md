@@ -1,37 +1,29 @@
-# [NelkenwV] Verordnung zur Bekämpfung von Nelkenwicklern
-
-Ausfertigungsdatum: 03.05.1976
-
+% Verordnung zur Bekämpfung von Nelkenwicklern
+% Ausfertigungsdatum: 03.05.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3 und 15 des Pflanzenschutzgesetzes in der Fassung der Bekanntmachung vom 2. Oktober 1975 (Bundesgesetzbl. I S. 2591) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 (1) Verfügungsberechtigte und Besitzer von Nelkenbeständen, die zum Vertrieb bestimmt sind, sind verpflichtet, der zuständigen Behörde das Auftreten und den Verdacht des Auftretens von Nelkenwicklern unter Angabe des Standorts der Pflanzen unverzüglich zu melden.
 
 (2) Nelkenwickler sind der Mittelmeer-Nelkenwickler (Cacoecimorpha pronubana Hb. = Tortrix pronubana Hb.) und der Südafrikanische Nelkenwickler (Epichoristodes acerbella (Walk.) Diak.).
 
-
-## § 2
+# § 2
 
 Verfügungsberechtigte und Besitzer von Nelkenbeständen und Nelken, die zum Vertrieb bestimmt sind, sind verpflichtet, von Nelkenwicklern befallene und des Befalls mit Nelkenwicklern verdächtige Pflanzen so zu behandeln, daß die Nelkenwickler vernichtet sind, bevor die Nelken vertrieben werden.
 
-
-## § 3
+# § 3
 
 Das Züchten und Halten von Nelkenwicklern sowie das Arbeiten mit diesen Schadorganismen sind verboten.
 
-
-## § 4
+# § 4
 
 Die zuständige Behörde kann im Einzelfall Ausnahmen von den §§ 2 und 3 für wissenschaftliche Untersuchungen, für die Prüfung von Bekämpfungsmitteln und -verfahren und für Züchtungsvorhaben genehmigen, soweit hierdurch die Bekämpfung der Nelkenwickler nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieser Schadorganismen besteht.
 
-
-## § 5
+# § 5
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -43,12 +35,10 @@ Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschu
 
 4. einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

@@ -1,28 +1,21 @@
-# [PassV] Verordnung zur Durchführung des Passgesetzes  (Passverordnung - PassV)
-
-Ausfertigungsdatum: 19.10.2007
-
+% Verordnung zur Durchführung des Passgesetzes  (Passverordnung - PassV)
+% Ausfertigungsdatum: 19.10.2007
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Muster für den Reisepass
+# § 1 – Muster für den Reisepass
 
 Der Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 1 oder Anlage 1a abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-
-## § 2 – Muster für den Kinderreisepass
+# § 2 – Muster für den Kinderreisepass
 
 Der Kinderreisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 2 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-
-## § 3 – Muster für den vorläufigen Reisepass
+# § 3 – Muster für den vorläufigen Reisepass
 
 Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach dem in der Anlage 3 abgedruckten Muster auszustellen. Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11.
 
-
-## § 4 – Muster für den amtlichen Pass
+# § 4 – Muster für den amtlichen Pass
 
 (1) Der Dienstpass der Bundesrepublik Deutschland ist nach dem in der Anlage 4 abgedruckten Muster auszustellen.
 
@@ -34,13 +27,11 @@ Der vorläufige Reisepass der Bundesrepublik Deutschland ist nach dem in der Anl
 
 (5) Für die einzutragenden Daten gelten die formalen Anforderungen der Anlage 11. Für die Änderung des Dienstortes und der Dienstbezeichnung kann ein Änderungsaufkleber nach dem in der Anlage 7a abgedruckten Muster verwendet werden.
 
-
-## § 5 – Lichtbild
+# § 5 – Lichtbild
 
 Bei der Beantragung eines Passes ist vom Passbewerber ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand vorzulegen. Das Lichtbild muss die Person in einer Frontalaufnahme, ohne Kopfbedeckung und ohne Bedeckung der Augen zeigen. Im Übrigen muss das Lichtbild den Anforderungen der Anlage 8 entsprechen. Die Passbehörde kann vom Gebot der fehlenden Kopfbedeckung insbesondere aus religiösen Gründen, von den übrigen Anforderungen aus medizinischen Gründen, die nicht nur vorübergehender Art sind, Ausnahmen zulassen. Weitere zulässige Abweichungen bei Lichtbildern von Kindern regelt Anlage 8.
 
-
-## § 6 – Befreiung von der Passpflicht
+# § 6 – Befreiung von der Passpflicht
 
 Von der Passpflicht sind befreit:
 
@@ -54,8 +45,7 @@ Von der Passpflicht sind befreit:
 
 5. Deutsche, die zum Flug- oder Begleitpersonal von Rettungsflügen gehören.
 
-
-## § 7 – Passersatz
+# § 7 – Passersatz
 
 (1) Als Passersatz für Deutsche sind zugelassen:
 
@@ -83,20 +73,17 @@ Von der Passpflicht sind befreit:
 
 (4) Für Deutsche, die aus dem Ausland in das Gebiet der Bundesrepublik Deutschland ausgewiesen, abgeschoben, zurückgewiesen oder übernommen werden, gelten – sofern dies nach den bestehenden zwischenstaatlichen Vereinbarungen nicht formlos zu geschehen hat – die für diesen Zweck ausgestellten Bescheinigungen als Passersatz.
 
-
-## § 8 – Muster der amtlichen Ausweise als Passersatz
+# § 8 – Muster der amtlichen Ausweise als Passersatz
 
 (1) Der Ausweis, der von den für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen ausgestellt wird (§ 7 Abs. 1 Nr. 7), ist nach dem in der Anlage 9 abgedruckten Muster auszustellen.
 
 (2) Der Ausweis, der ausschließlich zur Einreise in die Bundesrepublik Deutschland berechtigt (§ 7 Abs. 1 Nr. 8), ist nach dem in der Anlage 10 abgedruckten Muster auszustellen.
 
-
-## § 9 – Lichtbilder für den Passersatz
+# § 9 – Lichtbilder für den Passersatz
 
 Sofern auf einem Passersatz die Anbringung eines Lichtbildes vorgesehen ist, gilt § 5 entsprechend.
 
-
-## § 10 – Gültigkeitsdauer des Passersatzes
+# § 10 – Gültigkeitsdauer des Passersatzes
 
 Die Gültigkeitsdauer
 
@@ -106,20 +93,17 @@ Die Gültigkeitsdauer
 
 ist nach der Dauer der beabsichtigten Reise zu bemessen. Ein Ausweis nach Nummer 1 darf nicht länger als drei Monate, ein Ausweis nach Nummer 2 nicht länger als einen Monat gültig sein.
 
-
-## § 11 – Andere Regelungen für einen Passersatz
+# § 11 – Andere Regelungen für einen Passersatz
 
 Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen festgelegten Muster amtlicher Ausweise als Passersatz sowie die dort getroffenen Regelungen über Lichtbilder und Gültigkeitsdauer bleiben von dieser Rechtsverordnung unberührt.
 
-
-## § 12 – Ausstellung
+# § 12 – Ausstellung
 
 (1) Ein amtlicher Pass wird vom Auswärtigen Amt zur Wahrnehmung dienstlicher Aufgaben oder in den Fällen des § 1 Abs. 4 des Passgesetzes ausgestellt. Ein Anspruch auf Ausstellung eines amtlichen Passes besteht nicht. Eine Änderung des amtlichen Passes durch eine andere Behörde ist nicht zulässig.
 
 (2) Das Auswärtige Amt kann das persönliche Erscheinen des Passbewerbers verlangen. Von diesem Verlangen kann Abstand genommen werden, wenn die Behörde, in deren Auftrag die dienstliche Aufgabe wahrgenommen wird, die für die Passausstellung erforderlichen Unterlagen einschließlich des Lichtbildes und der Fingerabdrücke übermittelt.
 
-
-## § 13 – Gültigkeitsdauer
+# § 13 – Gültigkeitsdauer
 
 (1) Die Gültigkeitsdauer eines amtlichen Passes ist nach der Dauer der dienstlichen Aufgabe oder des amtlichen Auftrags im Sinne des § 1 Abs. 4 des Passgesetzes zu bemessen. Dabei darf eine Gültigkeitsdauer von zehn Jahren nicht überschritten werden.
 
@@ -127,8 +111,7 @@ Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen fes
 
 (3) Eine Verlängerung der Gültigkeitsdauer ist nicht zulässig.
 
-
-## § 14 – Rückgabe
+# § 14 – Rückgabe
 
 (1) Ein amtlicher Pass ist dem Auswärtigen Amt unverzüglich zurückzugeben, wenn
 
@@ -142,8 +125,7 @@ Die in anderen Rechtsvorschriften oder in zwischenstaatlichen Vereinbarungen fes
 
 (2) Das Auswärtige Amt kann abweichend von Absatz 1 Ausnahmen zulassen, wenn ein besonderes Interesse der Bundesrepublik Deutschland an der Belassung des amtlichen Passes vorliegt.
 
-
-## § 15 – Gebühren
+# § 15 – Gebühren
 
 (1) An Gebühren sind zu erheben
 
@@ -247,18 +229,15 @@ für die Änderung eines Reisepasses oder vorläufigen Reisepasses und für die 
 
 3. für die Berichtigung der Wohnortangabe im Reisepass, im vorläufigen Reisepass, im Kinderreisepass oder in einem anderen in Absatz 1 Nr. 1 genannten Ausweis.
 
-
-## § 16 – Erstattung von Auslagen
+# § 16 – Erstattung von Auslagen
 
 Als Auslagen erhebt die Passbehörde von der die Gebühren schuldenden Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung bezeichneten Aufwendungen.
 
-
-## § 17 – Ermäßigung und Befreiung von Gebühren
+# § 17 – Ermäßigung und Befreiung von Gebühren
 
 Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen werden, wenn die Person, die die Gebühren schuldet, bedürftig ist.
 
-
-## § 18 – Übergangsregelung
+# § 18 – Übergangsregelung
 
 (1) Kinderreisepässe ohne Lichtbild und Kinderausweise, die vor Inkrafttreten dieser Verordnung ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum ihre Geltung als Passersatz. Kinderreisepässe, die maschinenlesbar und mit einem digitalen Lichtbild versehen sind und vor Inkrafttreten dieser Verordnung ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum ihre Geltung und sind Pässe im Sinne des § 1 des Passgesetzes.
 
@@ -266,27 +245,26 @@ Die Gebühr kann ermäßigt oder von ihrer Erhebung kann abgesehen werden, wenn 
 
 (3) Geht ein Antrag auf Ausstellung eines Passes vor dem 1. März 2017 beim Passhersteller ein, kann der Pass auf Grundlage der bis zum 28. Februar 2017 geltenden Fassung dieser Verordnung ausgestellt werden.
 
-
-## Anlage 1 – Passmuster Reisepass (32 Seiten)
+# Anlage 1 – Passmuster Reisepass (32 Seiten)
 
 (Fundstelle: BGBl. I 2017, 163 — 172)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | Reisepass (32 Seiten)                              |                                            Einband |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_0010.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0010.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0020.jpg) |
 
 |                       |                                  |
 |:----------------------|---------------------------------:|
 | Reisepass (32 Seiten) | Vorsatz und Passkartentitelseite |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0030.jpg)
 
 |                       |                                               |
 |:----------------------|----------------------------------------------:|
 | Reisepass (32 Seiten) | Passkartendatenseite und Passbuchinnenseite 1 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0040.jpg)
 
 Die Seiten 1 bis 32 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
@@ -295,119 +273,118 @@ werden am unteren Rand mit der Seriennummer perforiert.
 |:----------------------|----------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 2 und 3 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0050.jpg)
 
 |                       |                             |
 |:----------------------|----------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 4 und 5 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0060.jpg)
 
 |                       |                             |
 |:----------------------|----------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 6 und 7 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0070.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0070.jpg)
 
 |                       |                             |
 |:----------------------|----------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 8 und 9 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0080.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0080.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 10 und 11 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0090.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0090.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 12 und 13 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0100.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0100.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 14 und 15 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0110.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0110.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 16 und 17 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0120.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0120.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 18 und 19 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0130.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0130.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 20 und 21 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0140.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0140.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 22 und 23 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0150.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0150.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 24 und 25 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0160.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0160.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 26 und 27 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0170.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0170.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 28 und 29 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0180.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0180.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseiten 30 und 31 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0190.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0190.jpg)
 
 |                       |                                                          |
 |:----------------------|---------------------------------------------------------:|
 | Reisepass (32 Seiten) | Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0200.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0200.jpg)
 
-
-## Anlage 1a – Passmuster Reisepass (48 Seiten)
+# Anlage 1a – Passmuster Reisepass (48 Seiten)
 
 (Fundstelle: BGBl. I 2017, 173 — 186)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | Reisepass (48 Seiten)                              |                                            Einband |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_0210.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_0220.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0210.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0220.jpg) |
 
 |                       |                                  |
 |:----------------------|---------------------------------:|
 | Reisepass (48 Seiten) | Vorsatz und Passkartentitelseite |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0230.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0230.jpg)
 
 |                       |                                               |
 |:----------------------|----------------------------------------------:|
 | Reisepass (48 Seiten) | Passkartendatenseite und Passbuchinnenseite 1 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0240.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0240.jpg)
 
 Die Seiten 1 bis 48 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
@@ -416,148 +393,147 @@ werden am unteren Rand mit der Seriennummer perforiert.
 |:----------------------|----------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 2 und 3 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0250.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0250.jpg)
 
 |                       |                             |
 |:----------------------|----------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 4 und 5 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0260.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0260.jpg)
 
 |                       |                             |
 |:----------------------|----------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 6 und 7 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0270.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0270.jpg)
 
 |                       |                             |
 |:----------------------|----------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 8 und 9 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0280.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0280.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 10 und 11 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0290.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0290.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 12 und 13 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0300.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0300.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 14 und 15 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0310.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0310.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 16 und 17 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0320.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0320.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 18 und 19 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0330.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0330.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 20 und 21 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0340.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0340.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 22 und 23 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0350.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0350.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 24 und 25 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0360.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0360.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 26 und 27 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0370.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0370.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 28 und 29 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0380.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0380.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 30 und 31 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0390.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0390.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 32 und 33 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0400.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0400.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 34 und 35 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0410.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0410.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 36 und 37 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0420.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0420.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 38 und 39 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0430.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0430.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 40 und 41 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0440.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0440.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 42 und 43 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0450.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0450.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 44 und 45 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0460.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0460.jpg)
 
 |                       |                               |
 |:----------------------|------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseiten 46 und 47 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0470.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0470.jpg)
 
 |                       |                                                          |
 |:----------------------|---------------------------------------------------------:|
 | Reisepass (48 Seiten) | Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0480.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0480.jpg)
 
-
-## Anlage 2 – Passmuster Kinderreisepass
+# Anlage 2 – Passmuster Kinderreisepass
 
 (Fundstelle: BGBl. I 2017, 187 — 192)
 
@@ -565,13 +541,13 @@ werden am unteren Rand mit der Seriennummer perforiert.
 |:----------------|--------:|
 | Kinderreisepass | Einband |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0490.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0490.jpg)
 
 |                 |                                  |
 |:----------------|---------------------------------:|
 | Kinderreisepass | Vorsatz und Passbuchinnenseite 1 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0500.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0500.jpg)
 
 Die Seiten 1 bis 16 sowie der hintere Einband  
 werden am unteren Rand mit der Dokumentennummer perforiert.
@@ -580,25 +556,25 @@ werden am unteren Rand mit der Dokumentennummer perforiert.
 |:----------------|----------------------------:|
 | Kinderreisepass | Passbuchinnenseiten 2 und 3 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0510.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0510.jpg)
 
 |                 |                             |
 |:----------------|----------------------------:|
 | Kinderreisepass | Passbuchinnenseiten 4 und 5 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0520.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0520.jpg)
 
 |                 |                             |
 |:----------------|----------------------------:|
 | Kinderreisepass | Passbuchinnenseiten 6 und 7 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0530.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0530.jpg)
 
 |                 |                             |
 |:----------------|----------------------------:|
 | Kinderreisepass | Passbuchinnenseiten 8 und 9 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0540.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0540.jpg)
 
 Seiten 8 bis 15 gleichlautend.
 
@@ -606,22 +582,21 @@ Seiten 8 bis 15 gleichlautend.
 |:----------------|----------------------------------:|
 | Kinderreisepass | Passbuchinnenseite 16 und Vorsatz |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0550.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0550.jpg)
 
 |                 |                         |
 |:----------------|------------------------:|
 | Kinderreisepass | Aufkleber Personaldaten |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0560.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0560.jpg)
 
 |                 |                                 |
 |:----------------|--------------------------------:|
 | Kinderreisepass | Aufkleber Verlängerung/Änderung |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0570.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0570.jpg)
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 2007, 2413 - 2420;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)  
@@ -633,7 +608,7 @@ Vorläufiger Reisepass
 
 Decke
 
-![](../normengrafiken/bgbl1_2007/j23860_0240.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0240.jpg)
 
   
   
@@ -642,7 +617,7 @@ Vorläufiger Reisepass
 
 Vorsatz und Passbuchinnenseite 1
 
-![](../normengrafiken/bgbl1_2007/j23860_0250.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0250.jpg)
 
   
   
@@ -651,7 +626,7 @@ Vorläufiger Reisepass
 
 Passbuchinnenseiten 2 und 3
 
-![](../normengrafiken/bgbl1_2007/j23860_0260.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0260.jpg)
 
 Die Seiten 1 bis 16 und die hintere Passdecke werden  
 am unteren Rand mit der Dokumentennummer versehen
@@ -663,7 +638,7 @@ Vorläufiger Reisepass
 
 Passbuchinnenseiten 4 und 5
 
-![](../normengrafiken/bgbl1_2007/j23860_0270.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0270.jpg)
 
   
   
@@ -672,7 +647,7 @@ Vorläufiger Reisepass
 
 Passbuchinnenseiten 6 und 7
 
-![](../normengrafiken/bgbl1_2015/j0218-1_0100.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0218-1_0100.jpg)
 
   
   
@@ -681,7 +656,7 @@ Vorläufiger Reisepass
 
 Passbuchinnenseiten 8 und 9
 
-![](../normengrafiken/bgbl1_2007/j23860_0290.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0290.jpg)
 
 Seiten 8 bis 15 gleichlautend
 
@@ -692,7 +667,7 @@ Vorläufiger Reisepass
 
 Passbuchinnenseite 16 und Vorsatz
 
-![](../normengrafiken/bgbl1_2007/j23860_0300.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0300.jpg)
 
   
   
@@ -701,29 +676,28 @@ Vorläufiger Reisepass
 
 Aufkleber Personaldaten
 
-![](../normengrafiken/bgbl1_2013/j0330-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0040.jpg)
 
-
-## Anlage 4 – Passmuster Dienstpass
+# Anlage 4 – Passmuster Dienstpass
 
 (Fundstelle: BGBl. I 2017, 193 — 206)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | Dienstpass                                         |                                            Einband |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_0580.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_0590.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0580.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0590.jpg) |
 
 |            |                                  |
 |:-----------|---------------------------------:|
 | Dienstpass | Vorsatz und Passkartentitelseite |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0600.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0600.jpg)
 
 |            |                                               |
 |:-----------|----------------------------------------------:|
 | Dienstpass | Passkartendatenseite und Passbuchinnenseite 1 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0610.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0610.jpg)
 
 Die Seiten 1 bis 48 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
@@ -732,167 +706,166 @@ werden am unteren Rand mit der Seriennummer perforiert.
 |:-----------|----------------------------:|
 | Dienstpass | Passbuchinnenseiten 2 und 3 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0620.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0620.jpg)
 
 |            |                             |
 |:-----------|----------------------------:|
 | Dienstpass | Passbuchinnenseiten 4 und 5 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0630.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0630.jpg)
 
 |            |                             |
 |:-----------|----------------------------:|
 | Dienstpass | Passbuchinnenseiten 6 und 7 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0640.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0640.jpg)
 
 |            |                             |
 |:-----------|----------------------------:|
 | Dienstpass | Passbuchinnenseiten 8 und 9 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0650.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0650.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 10 und 11 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0660.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0660.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 12 und 13 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0670.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0670.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 14 und 15 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0680.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0680.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 16 und 17 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0690.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0690.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 18 und 19 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0700.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0700.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 20 und 21 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0710.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0710.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 22 und 23 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0720.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0720.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 24 und 25 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0730.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0730.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 26 und 27 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0740.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0740.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 28 und 29 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0750.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0750.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 30 und 31 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0760.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0760.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 32 und 33 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0770.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0770.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 34 und 35 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0780.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0780.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 36 und 37 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0790.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0790.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 38 und 39 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0800.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0800.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 40 und 41 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0810.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0810.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 42 und 43 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0820.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0820.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 44 und 45 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0830.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0830.jpg)
 
 |            |                               |
 |:-----------|------------------------------:|
 | Dienstpass | Passbuchinnenseiten 46 und 47 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0840.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0840.jpg)
 
 |            |                                                          |
 |:-----------|---------------------------------------------------------:|
 | Dienstpass | Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0850.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0850.jpg)
 
-
-## Anlage 5 – Passmuster Diplomatenpass
+# Anlage 5 – Passmuster Diplomatenpass
 
 (Fundstelle: BGBl. I 2017, 207 — 220)
 
 |                                                    |                                                    |
 |:---------------------------------------------------|---------------------------------------------------:|
 | Diplomatenpass                                     |                                            Einband |
-| ![](../normengrafiken/bgbl1_2017/j0162-1_0860.jpg) | ![](../normengrafiken/bgbl1_2017/j0162-1_0870.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0860.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0870.jpg) |
 
 |                |                                  |
 |:---------------|---------------------------------:|
 | Diplomatenpass | Vorsatz und Passkartentitelseite |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0880.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0880.jpg)
 
 |                |                                               |
 |:---------------|----------------------------------------------:|
 | Diplomatenpass | Passkartendatenseite und Passbuchinnenseite 1 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0890.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0890.jpg)
 
 Die Seiten 1 bis 48 sowie der hintere Einband  
 werden am unteren Rand mit der Seriennummer perforiert.
@@ -901,148 +874,147 @@ werden am unteren Rand mit der Seriennummer perforiert.
 |:---------------|----------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 2 und 3 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0900.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0900.jpg)
 
 |                |                             |
 |:---------------|----------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 4 und 5 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0910.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0910.jpg)
 
 |                |                             |
 |:---------------|----------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 6 und 7 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0920.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0920.jpg)
 
 |                |                             |
 |:---------------|----------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 8 und 9 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0930.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0930.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 10 und 11 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0940.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0940.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 12 und 13 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0950.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0950.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 14 und 15 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0960.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0960.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 16 und 17 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0970.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0970.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 18 und 19 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0980.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0980.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 20 und 21 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_0990.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_0990.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 22 und 23 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1000.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1000.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 24 und 25 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1010.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 26 und 27 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1020.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 28 und 29 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1030.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 30 und 31 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1040.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 32 und 33 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1050.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 34 und 35 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1060.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 36 und 37 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1070.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1070.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 38 und 39 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1080.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1080.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 40 und 41 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1090.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1090.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 42 und 43 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1100.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1100.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 44 und 45 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1110.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1110.jpg)
 
 |                |                               |
 |:---------------|------------------------------:|
 | Diplomatenpass | Passbuchinnenseiten 46 und 47 |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1120.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1120.jpg)
 
 |                |                                                          |
 |:---------------|---------------------------------------------------------:|
 | Diplomatenpass | Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes |
 
-![](../normengrafiken/bgbl1_2017/j0162-1_1130.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0162-1_1130.jpg)
 
-
-## Anlage 6
+# Anlage 6
 
 (Fundstelle: BGBl. I 2007, 2437 - 2444  
 bzgl. der einzelnen Änderungen vgl. Fußnote)  
@@ -1054,7 +1026,7 @@ Vorläufiger Dienstpass
 
 Decke
 
-![](../normengrafiken/bgbl1_2007/j23860_0480.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0480.jpg)
 
   
   
@@ -1063,7 +1035,7 @@ Vorläufiger Dienstpass
 
 Vorsatz und Passbuchinnenseite 1
 
-![](../normengrafiken/bgbl1_2007/j23860_0490.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0490.jpg)
 
   
   
@@ -1072,7 +1044,7 @@ Vorläufiger Dienstpass
 
 Passbuchinnenseiten 2 und 3
 
-![](../normengrafiken/bgbl1_2007/j23860_0500.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0500.jpg)
 
 Die Seiten 1 bis 16 und die hintere Passdecke werden  
 am unteren Rand mit der Dokumentennummer versehen.
@@ -1084,7 +1056,7 @@ Vorläufiger Dienstpass
 
 Passbuchinnenseiten 4 und 5
 
-![](../normengrafiken/bgbl1_2007/j23860_0510.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0510.jpg)
 
   
   
@@ -1093,7 +1065,7 @@ Vorläufiger Dienstpass
 
 Passbuchinnenseiten 6 und 7
 
-![](../normengrafiken/bgbl1_2015/j0218-1_0190.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0218-1_0190.jpg)
 
   
   
@@ -1102,7 +1074,7 @@ Vorläufiger Dienstpass
 
 Passbuchinnenseiten 8 und 9
 
-![](../normengrafiken/bgbl1_2007/j23860_0530.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0530.jpg)
 
 Seiten 8 bis 15 gleichlautend
 
@@ -1113,7 +1085,7 @@ Vorläufiger Dienstpass
 
 Passbuchinnenseite 16 und Vorsatz
 
-![](../normengrafiken/bgbl1_2007/j23860_0540.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0540.jpg)
 
   
   
@@ -1122,10 +1094,9 @@ Vorläufiger Dienstpass
 
 Aufkleber Personaldaten
 
-![](../normengrafiken/bgbl1_2013/j0330-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0050.jpg)
 
-
-## Anlage 7
+# Anlage 7
 
 (Fundstelle: BGBl. I 2007, 2445 - 2452  
 bzgl. der einzelnen Änderungen vgl. Fußnote)  
@@ -1137,7 +1108,7 @@ Vorläufiger Diplomatenpass
 
 Decke
 
-![](../normengrafiken/bgbl1_2007/j23860_0560.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0560.jpg)
 
   
   
@@ -1146,7 +1117,7 @@ Vorläufiger Diplomatenpass
 
 Vorsatz und Passbuchinnenseite 1
 
-![](../normengrafiken/bgbl1_2007/j23860_0570.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0570.jpg)
 
   
   
@@ -1155,7 +1126,7 @@ Vorläufiger Diplomatenpass
 
 Passbuchinnenseiten 2 und 3
 
-![](../normengrafiken/bgbl1_2007/j23860_0580.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0580.jpg)
 
 Die Seiten 1 bis 16 und die hintere Passdecke werden  
 am unteren Rand mit der Dokumentennummer versehen.
@@ -1167,7 +1138,7 @@ Vorläufiger Diplomatenpass
 
 Passbuchinnenseiten 4 und 5
 
-![](../normengrafiken/bgbl1_2007/j23860_0590.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0590.jpg)
 
   
   
@@ -1176,7 +1147,7 @@ Vorläufiger Diplomatenpass
 
 Passbuchinnenseiten 6 und 7
 
-![](../normengrafiken/bgbl1_2015/j0218-1_0200.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0218-1_0200.jpg)
 
   
   
@@ -1185,7 +1156,7 @@ Vorläufiger Diplomatenpass
 
 Passbuchinnenseiten 8 und 9
 
-![](../normengrafiken/bgbl1_2007/j23860_0610.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0610.jpg)
 
 Seiten 8 bis 15 gleichlautend
 
@@ -1196,7 +1167,7 @@ Vorläufiger Diplomatenpass
 
 Passbuchinnenseite 16 und Vorsatz
 
-![](../normengrafiken/bgbl1_2007/j23860_0620.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0620.jpg)
 
   
   
@@ -1205,22 +1176,19 @@ Vorläufiger Diplomatenpass
 
 Aufkleber Personaldaten
 
-![](../normengrafiken/bgbl1_2013/j0330-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0330-1_0060.jpg)
 
-
-## Anlage 7a – Aufkleber Dienstort- und Dienstbezeichnungsänderung
+# Anlage 7a – Aufkleber Dienstort- und Dienstbezeichnungsänderung
 
 (Fundstelle: BGBl. I 2010, 1452)
 
-![](../normengrafiken/bgbl1_2010/j1440-1_0180.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2010/j1440-1_0180.jpg)
 
-
-## Anlage 8
+# Anlage 8
 
 (Fundstelle: BGBl. I 2007, 2453 - 2455)
 
-
-## Anlage 9
+# Anlage 9
 
 ( Fundstelle: BGBl. I 2007, 2456 - 2457 )  
 
@@ -1233,7 +1201,7 @@ Reiseausweis als Passersatz
 Außenseiten  
   
 
-![](../normengrafiken/bgbl1_2007/j23860_0760.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0760.jpg)
 
   
   
@@ -1244,10 +1212,9 @@ Reiseausweis als Passersatz
 Innenseiten  
   
 
-![](../normengrafiken/bgbl1_2007/j23860_0770.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0770.jpg)
 
-
-## Anlage 10
+# Anlage 10
 
 ( Fundstelle: BGBl. I 2007, 2458 - 2459 )  
 
@@ -1261,7 +1228,7 @@ zur Einreise in die Bundesrepublik Deutschland
 Außenseiten  
   
 
-![](../normengrafiken/bgbl1_2007/j23860_0780.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0780.jpg)
 
   
   
@@ -1273,10 +1240,9 @@ zur Einreise in die Bundesrepublik Deutschland
 Innenseiten  
   
 
-![](../normengrafiken/bgbl1_2007/j23860_0790.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2007/j23860_0790.jpg)
 
-
-## Anlage 11 – Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
+# Anlage 11 – Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
 
 (Fundstelle: BGBl. I 2017, 221 — 225)
 

@@ -1,10 +1,7 @@
-# [StAbzVeranlZÜV] Verordnung zur Übertragung der Zuständigkeit für das Steuerabzugs- und Veranlagungsverfahren auf das Bundeszentralamt für Steuern und zur Regelung verschiedener Anwendungszeitpunkte
-
-Ausfertigungsdatum: 24.06.2013
-
+% Verordnung zur Übertragung der Zuständigkeit für das Steuerabzugs- und Veranlagungsverfahren auf das Bundeszentralamt für Steuern und zur Regelung verschiedener Anwendungszeitpunkte
+% Ausfertigungsdatum: 24.06.2013
  
-
-## § 1 – Übertragung der Zuständigkeit auf das Bundeszentralamt für Steuern
+# § 1 – Übertragung der Zuständigkeit auf das Bundeszentralamt für Steuern
 
 Das Bundeszentralamt für Steuern ist zuständig für
 
@@ -16,8 +13,7 @@ Das Bundeszentralamt für Steuern ist zuständig für
 
 soweit die zugrundeliegenden Vergütungen nach dem 31. Dezember 2013 zufließen.
 
-
-## § 2 – Anwendungszeitpunkte zum Einkommensteuergesetz
+# § 2 – Anwendungszeitpunkte zum Einkommensteuergesetz
 
 (1) § 50 Absatz 2 Satz 8 des Einkommensteuergesetzes ist erstmals für Vergütungen anzuwenden, die nach dem 31. Dezember 2013 zufließen.
 

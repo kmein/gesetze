@@ -1,17 +1,11 @@
-# [TexModSchneiderAusbV] Verordnung über die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin   (Textil- und Modeschneiderausbildungsverordnung - TexModSchneiderAusbV)
-
-Ausfertigungsdatum: 25.06.2015
-
+% Verordnung über die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin   (Textil- und Modeschneiderausbildungsverordnung - TexModSchneiderAusbV)
+% Ausfertigungsdatum: 25.06.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -27,25 +21,23 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nu
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Textil- und Modeschneiders und der Textil- und Modeschneiderin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -105,20 +97,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 9. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
+# § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -126,8 +115,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (3) Teil 1 soll am Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
-
-## § 8 – Inhalt von Teil 1
+# § 8 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -135,8 +123,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereiche von Teil 1
+# § 9 – Prüfungsbereiche von Teil 1
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -144,8 +131,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 2. Planung und Fertigung.
 
-
-## § 10 – Prüfungsbereich Fertigungstechniken
+# § 10 – Prüfungsbereich Fertigungstechniken
 
 (1) Im Prüfungsbereich Fertigungstechniken soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -187,8 +173,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (4) Die Prüfungszeit beträgt insgesamt acht Stunden. Die beiden situativen Fachgespräche dauern zusammen höchstens 15 Minuten.
 
-
-## § 11 – Prüfungsbereich Planung und Fertigung
+# § 11 – Prüfungsbereich Planung und Fertigung
 
 (1) Im Prüfungsbereich Planung und Fertigung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -212,8 +197,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 12 – Inhalt von Teil 2
+# § 12 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -223,8 +207,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 13 – Prüfungsbereiche von Teil 2
+# § 13 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -234,8 +217,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 14 – Prüfungsbereich Produktionsauftrag
+# § 14 – Prüfungsbereich Produktionsauftrag
 
 (1) Im Prüfungsbereich Produktionsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -279,8 +261,7 @@ d) Erstellen von Schnittbildern.
 
 (5) Der Prüfling soll ein Prüfungsprodukt, das einem betrieblichen Auftrag entspricht, planen, fertigen, kontrollieren und die Durchführung mit praxisbezogenen Unterlagen dokumentieren. Nach der Durchführung wird mit ihm ein auftragsbezogenes Fachgespräch geführt. Die Prüfungszeit für die Herstellung des Prüfungsproduktes einschließlich der Dokumentation beträgt 15 Stunden und 40 Minuten; das auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
-
-## § 15 – Prüfungsbereich Planung, Fertigung und Konstruktion
+# § 15 – Prüfungsbereich Planung, Fertigung und Konstruktion
 
 (1) Im Prüfungsbereich Planung, Fertigung und Konstruktion soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -302,8 +283,7 @@ d) Erstellen von Schnittbildern.
 
 (3) Die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 16 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 16 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -311,8 +291,7 @@ d) Erstellen von Schnittbildern.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -353,13 +332,11 @@ Konstruktion</td><td style="text-align: right;">mit 15 Prozent und</td></tr></tb
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 18 – Abschluss als Textil- und Modenäher oder Textil- und Modenäherin
+# § 18 – Abschluss als Textil- und Modenäher oder Textil- und Modenäherin
 
 Hat der Prüfling die Abschlussprüfung nicht bestanden, erfüllen jedoch die Ergebnisse der Prüfungsbereiche „Fertigungstechniken“, „Planung und Fertigung“ von Teil 1 sowie „Wirtschafts- und Sozialkunde“ von Teil 2 der Abschlussprüfung die Anforderungen nach § 16 der Textil- und Modenäherausbildungsverordnung vom 25. Juni 2015 (BGBl. I S. 1012), so hat er den Abschluss des Ausbildungsberufs Textil- und Modenäher und Textil- und Modenäherin erreicht.
 
-
-## § 19 – Anrechnung von Ausbildungszeiten
+# § 19 – Anrechnung von Ausbildungszeiten
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum Textil- und Modenäher und zur Textil- und Modenäherin kann im Umfang von zwei Jahren auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
@@ -367,20 +344,17 @@ Hat der Prüfling die Abschlussprüfung nicht bestanden, erfüllen jedoch die Er
 
 (3) Die erfolgreich abgeschlossene Berufsausbildung zum Änderungsschneider und zur Änderungsschneiderin sowie zum Polster- und Dekorationsnäher und zur Polster- und Dekorationsnäherin kann im Umfang von jeweils einem Jahr auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
-
-## § 20 – Bestehende Berufsausbildungsverhältnisse
+# § 20 – Bestehende Berufsausbildungsverhältnisse
 
 (1) Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung in den Berufsbildern des staatlich anerkannten Ausbildungsberufes Modeschneider und Modeschneiderin bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher zurückgelegten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
 (2) Eine bis zum 31. Dezember 2014 begonnene Berufsausbildung zum Modenäher und zur Modenäherin kann nach den Vorschriften der Berufsausbildung zum Modeschneider und Modeschneiderin nach der Verordnung über die Berufsausbildung in der Bekleidungsindustrie vom 13. Februar 1997 (BGBl. I S. 262), die durch Artikel 2 der Verordnung vom 9. Mai 2005 (BGBl. I S. 1292) geändert worden ist, fortgesetzt und spätestens mit Ablauf des 31. Juli 2017 abgeschlossen werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 21 – Inkrafttreten, Außerkrafttreten
+# § 21 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung in der Bekleidungsindustrie vom 13. Februar 1997 (BGBl. I S. 262), die durch Artikel 2 der Verordnung vom 9. Mai 2005 (BGBl. I S. 1292) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Textil- und Modeschneider und zur Textil- und Modeschneiderin
 
 (Fundstelle: BGBl. I 2015, 1026 - 1033)
 

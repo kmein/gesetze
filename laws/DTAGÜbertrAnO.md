@@ -1,10 +1,7 @@
-# [DTAGÜbertrAnO] Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten im Bereich der Deutschen Telekom AG  (DTAGÜbertrAnO)
-
-Ausfertigungsdatum: 09.07.2019
-
+% Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten im Bereich der Deutschen Telekom AG  (DTAGÜbertrAnO)
+% Ausfertigungsdatum: 09.07.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach
 
@@ -19,8 +16,7 @@ Nach
 
 ordnet der Vorstand der Deutschen Telekom AG an:
 
-
-## § 1 – Befugnisse und Zuständigkeiten im Bereich des allgemeinen Beamtenrechts und des Besoldungsrechts einschließlich der Entscheidung über Widersprüche und Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
+# § 1 – Befugnisse und Zuständigkeiten im Bereich des allgemeinen Beamtenrechts und des Besoldungsrechts einschließlich der Entscheidung über Widersprüche und Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis
 
 (1) Die Ausübung der dienstrechtlichen Befugnisse des Vorstands der Deutschen Telekom AG wird, soweit im Folgenden nichts anderes bestimmt ist, auf die Abteilung Civil Servant Matters übertragen.
 
@@ -38,19 +34,16 @@ Die Zuständigkeit für die Entscheidung über Widersprüche gegen die in Satz 1
 
 (3) Die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis wird der Abteilung Civil Servant Matters übertragen.
 
-
-## § 2 – Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
+# § 2 – Befugnisse und Zuständigkeiten im Bereich des Disziplinarrechts
 
 (1) Die Befugnisse zur Kürzung der Dienstbezüge bis zum Höchstmaß und zur Erhebung der Disziplinarklage gegen Beamtinnen und Beamte werden der Leitung der Abteilung Civil Servant Matters übertragen.
 
 (2) Die Zuständigkeit zum Erlass von Widerspruchsbescheiden in disziplinarrechtlichen Angelegenheiten wird der Abteilung Civil Servant Matters übertragen.
 
-
-## § 3 – Vorbehaltsklausel
+# § 3 – Vorbehaltsklausel
 
 Der Vorstand der Deutschen Telekom AG behält sich vor, die übertragenen Befugnisse im Einzelfall oder in bestimmten Gruppen von Fällen und in jedem Stadium des Verfahrens selbst wahrzunehmen.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 2019 in Kraft. Gleichzeitig tritt die Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten im Bereich der Deutschen Telekom AG vom 15. November 2016 (BGBl. I S. 2638) außer Kraft.

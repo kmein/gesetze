@@ -1,15 +1,11 @@
-# [VeranstFachwPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin
-
-Ausfertigungsdatum: 25.01.2008
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin
+% Ausfertigungsdatum: 25.01.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 53 Abs. 1 durch Artikel 232 Nr. 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Veranstaltungsfachwirt/zur Geprüften Veranstaltungsfachwirtin nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -35,8 +31,7 @@ Insbesondere ist festzustellen, dass folgende Aufgaben eigenständig und verantw
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss „Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung in dem Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ ist zuzulassen, wer
 
@@ -60,8 +55,7 @@ nachweist.
 
 (4) Abweichend von den Absätzen 1 und 2 Nr. 2 und Absatz 3 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -105,8 +99,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Wirtschaftsbezogene Qualifikationen
+# § 4 – Wirtschaftsbezogene Qualifikationen
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -158,8 +151,7 @@ Die Gesamtdauer der Prüfung soll 330 Minuten nicht überschreiten.
 
 (6) Wurden in nicht mehr als einem Qualifikationsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Qualifikationsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsfeldspezifische Qualifikationen
+# § 5 – Handlungsfeldspezifische Qualifikationen
 
 (1) Im Handlungsbereich „Analysieren von Märkten und Definieren von Marktchancen“ soll die Fähigkeit nachgewiesen werden, dass Märkte analysiert werden können, um nationale und internationale Marktchancen einzuschätzen und zu definieren sowie unternehmerische Entscheidungen zu treffen. Arten und Formen von Veranstaltungen sowie deren Ziele sollen gekannt und wesentliche Verbände und Organisationen der Veranstaltungswirtschaft in Überlegungen mit einbezogen werden. Ziele sollen formuliert, Zielgruppen bestimmt und die jeweiligen Marktgegebenheiten beobachtet und analysiert werden. Hierbei werden relevante Instrumente der Marktforschung genutzt und Marketingstrategien entwickelt. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -265,15 +257,13 @@ Die Gesamtdauer der Prüfung soll 480 Minuten nicht überschreiten.
 
 (7) Wurden in nicht mehr als zwei schriftlichen Prüfungsleistungen mangelhafte Prüfungsleistungen erbracht, ist in diesen Handlungsbereichen jeweils eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und je Ergänzungsprüfung in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder Absatz 4 Satz 2 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewertung der Prüfungsleistungen
+# § 7 – Bewertung der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -295,8 +285,7 @@ Aus den einzelnen Bewertungen des Fachgesprächs und der Präsentation ist als z
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -332,8 +321,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -347,8 +335,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen Prüfungsverfahrens wiederholt werden.
 
@@ -358,8 +345,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Ausbildereignung
+# § 11 – Ausbildereignung
 
 (1) Wer den Handlungsbereich „Führung und Zusammenarbeit“ bestanden hat, kann beantragen, eine zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese zusätzliche Prüfung besteht aus einer Präsentation oder praktischen Durchführung einer Ausbildungssituation und einem Fachgespräch. Die Auswahl und Gestaltung der Ausbildungssituation ist in dem Fachgespräch zu begründen. Die Dauer der zusätzlichen Prüfung beträgt höchstens 30 Minuten. Diese zusätzliche Prüfung ist bestanden, wenn in dem Handlungsbereich „Führung und Zusammenarbeit“ und in der zusätzlichen Prüfung mindestens ausreichende Leistungen erbracht wurden.
 
@@ -367,8 +353,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Fachwirt Tagungs-, Kongress- und Messewirtschaft/zur Fachwirtin Tagungs-, Kongress- und Messewirtschaft (IHK) sowie zum Fachwirt Messe-, Tagungs- und Kongresswirtschaft/zur Fachwirtin Messe-, Tagungs- und Kongresswirtschaft (IHK) können bis zum 31. Dezember 2011 nach den bisherigen Vorschriften zu Ende geführt werden.
 
@@ -376,15 +361,13 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2296 – 2297)
 
@@ -393,8 +376,7 @@ Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2298)
 

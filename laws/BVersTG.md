@@ -1,10 +1,7 @@
-# [BVersTG] Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich  (Bundesversorgungsteilungsgesetz - BVersTG)
-
-Ausfertigungsdatum: 03.04.2009
-
+% Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich  (Bundesversorgungsteilungsgesetz - BVersTG)
+% Ausfertigungsdatum: 03.04.2009
  
-
-## § 1 – Zweckbestimmung
+# § 1 – Zweckbestimmung
 
 (1) Dieses Gesetz regelt die Ansprüche von ausgleichsberechtigten Personen und deren Hinterbliebenen gegenüber den Versorgungsträgern der ausgleichspflichtigen Personen, wenn nach § 10 Abs. 1 des Versorgungsausgleichsgesetzes Anrechte übertragen wurden.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 03.04.2009
 
 (3) Dieses Gesetz gilt entsprechend, wenn die ausgleichspflichtige Person in einem öffentlich-rechtlichen Amtsverhältnis des Bundes steht oder stand.
 
-
-## § 2 – Anspruch
+# § 2 – Anspruch
 
 (1) Anspruchsberechtigt ist die Person, zu deren Gunsten ein Anrecht nach § 10 Abs. 1 des Versorgungsausgleichsgesetzes übertragen worden ist.
 
@@ -35,8 +31,7 @@ Ausfertigungsdatum: 03.04.2009
 
 (6) Der Anspruch der ausgleichsberechtigten Person endet spätestens mit Ablauf des Monats, in dem sie verstirbt. Für Hinterbliebene gilt § 61 Abs. 1 Satz 1 Nr. 1 bis 3, Abs. 2 und 3 des Beamtenversorgungsgesetzes entsprechend.
 
-
-## § 3 – Anpassung
+# § 3 – Anpassung
 
 (1) Der durch Entscheidung des Familiengerichts zugunsten der ausgleichsberechtigten Person festgesetzte oder sich in den Fällen des § 10 Absatz 2 des Versorgungsausgleichsgesetzes nach Verrechnung zugunsten der ausgleichsberechtigten Person ergebende monatliche Betrag erhöht oder vermindert sich um die Prozentsätze der nach dem Ende der Ehezeit bis zum Zeitpunkt des Eintritts der ausgleichspflichtigen Person in den Ruhestand eingetretenen Erhöhungen oder Verminderungen der Versorgungsbezüge nach dem Beamtenversorgungsgesetz, die in festen Beträgen festgesetzt sind.
 
@@ -46,10 +41,8 @@ Ausfertigungsdatum: 03.04.2009
 
 (4) Hinterbliebene nach § 2 Absatz 2 erhalten den Betrag nach den Absätzen 1 bis 3 in entsprechender Anwendung der §§ 20, 24 und 25 Absatz 1 und 2 des Beamtenversorgungsgesetzes.
 
-
-## § 4 – Rückforderung
+# § 4 – Rückforderung
 
 Für die Rückforderung zu viel gezahlter Leistungen gilt § 52 Abs. 2 bis 4 des Beamtenversorgungsgesetzes entsprechend.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)

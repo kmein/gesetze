@@ -1,18 +1,13 @@
-# [FATCA-USA-UmsV] Verordnung zur Umsetzung der Verpflichtungen aus dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten und hinsichtlich der als Gesetz über die Steuerehrlichkeit bezüglich Auslandskonten bekannten US-amerikanischen Informations- und Meldebestimmungen  (FATCA-USA-Umsetzungsverordnung - FATCA-USA-UmsV)
-
-Ausfertigungsdatum: 23.07.2014
-
+% Verordnung zur Umsetzung der Verpflichtungen aus dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten und hinsichtlich der als Gesetz über die Steuerehrlichkeit bezüglich Auslandskonten bekannten US-amerikanischen Informations- und Meldebestimmungen  (FATCA-USA-Umsetzungsverordnung - FATCA-USA-UmsV)
+% Ausfertigungsdatum: 23.07.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 117c Absatz 1 Satz 1 der Abgabenordnung, der durch Artikel 13 des Gesetzes vom 18. Dezember 2013 (BGBl. I S. 4318) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -24,8 +19,7 @@ Diese Verordnung regelt
 
 entsprechend dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten und hinsichtlich der als Gesetz über die Steuerehrlichkeit bezüglich Auslandskonten bekannten US-amerikanischen Informations- und Meldebestimmungen, das am 31. Mai 2013 unterzeichnet wurde und am 11. Dezember 2013 in Kraft getreten ist (BGBl. 2013 II S. 1363).
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Abkommen im Sinne dieser Verordnung ist das in § 1 genannte Abkommen, das am 11. Dezember 2013 in Kraft getreten ist und durch das Zustimmungsgesetz vom 10. Oktober 2013 (BGBl. 2013 II S. 1362) innerstaatlich anzuwenden ist.
 
@@ -53,18 +47,15 @@ Ein Konto gilt nicht als US-amerikanisches meldepflichtiges Konto, wenn es unter
 
 (5) Im Übrigen gelten die Begriffsbestimmungen des Abkommens.
 
-
-## § 3 – Inanspruchnahme von Fremddienstleistern
+# § 3 – Inanspruchnahme von Fremddienstleistern
 
 Meldende deutsche Finanzinstitute können zur Erfüllung der Verpflichtungen, die ihnen durch diese Verordnung auferlegt werden, Fremddienstleister nach Artikel 5 Absatz 3 des Abkommens in Anspruch nehmen. Die Verantwortung für die Erfüllung der Verpflichtungen liegt weiterhin bei den meldenden deutschen Finanzinstituten.
 
-
-## § 4 – Verhinderung der Umgehung der Meldepflicht
+# § 4 – Verhinderung der Umgehung der Meldepflicht
 
 Durch Missbrauch von Gestaltungsmöglichkeiten des Rechts können die Verpflichtungen aus dieser Verordnung nicht umgangen werden. § 42 der Abgabenordnung gilt entsprechend.
 
-
-## § 5 – Identifizierungs- und Sorgfaltspflichten
+# § 5 – Identifizierungs- und Sorgfaltspflichten
 
 (1) Meldende deutsche Finanzinstitute müssen geeignete Verfahren anwenden, die es ermöglichen, bei ihnen geführte Konten zu identifizieren als
 
@@ -106,13 +97,11 @@ Das Recht, Konten von der Überprüfung und Identifizierung auszunehmen, ist ent
 
 (7) Für bestehende Konten natürlicher Personen, bei denen das meldende deutsche Finanzinstitut im Rahmen seiner Funktion als von der Bundessteuerbehörde der Vereinigten Staaten von Amerika (Internal Revenue Service) zugelassener qualifizierter Intermediär eine ausreichende und aktuelle Dokumentation dafür vorliegen hat, dass der Kontoinhaber keine spezifizierte Person der Vereinigten Staaten von Amerika ist, braucht keine weitere Überprüfung durchgeführt und keine Dokumentation eingeholt zu werden.
 
-
-## § 6 – Kleine Finanzinstitute mit lokalem Kundenstamm
+# § 6 – Kleine Finanzinstitute mit lokalem Kundenstamm
 
 Kleine Finanzinstitute mit lokalem Kundenstamm im Sinne von Anlage II Abschnitt II Unterabschnitt A des Abkommens unterliegen den in Anlage II Abschnitt II Unterabschnitt A Buchstabe g und h des Abkommens geregelten Identifizierungs- und Sorgfaltspflichten, wobei an Stelle des in diesem Unterabschnitt genannten 1. Januar 2014 der 1. Juli 2014 tritt.
 
-
-## § 7 – Registrierungspflicht
+# § 7 – Registrierungspflicht
 
 (1) Meldende deutsche Finanzinstitute, die US-amerikanische meldepflichtige Konten im Sinne von § 2 Absatz 4 oder Konten nicht teilnehmender Finanzinstitute im Sinne von Artikel 1 Absatz 1 Buchstabe r des Abkommens führen, sind verpflichtet,
 
@@ -124,8 +113,7 @@ Sie benutzen dazu das von der Bundessteuerbehörde der Vereinigten Staaten von A
 
 (2) Absatz 1 gilt auch für kleine Finanzinstitute mit lokalem Kundenstamm im Sinne von Anlage II Abschnitt II Unterabschnitt A des Abkommens, wenn sie meldepflichtige Konten im Sinne von Anlage II Abschnitt II Unterabschnitt A Buchstabe g und h des Abkommens führen.
 
-
-## § 8 – Erhebungs- und Übermittlungspflichten in Bezug auf US-amerikanische meldepflichtige Konten
+# § 8 – Erhebungs- und Übermittlungspflichten in Bezug auf US-amerikanische meldepflichtige Konten
 
 (1) Meldende deutsche Finanzinstitute haben zu den nach § 5 identifizierten US-amerikanischen meldepflichtigen Konten folgende Daten zu erheben:
 
@@ -167,8 +155,7 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Vermöge
 
 (9) Die Finanzinstitute oder Dritte im Sinne des § 3 müssen die geprüften Belege, anhand derer der Status eines Kontoinhabers festgestellt wurde, oder einen Vermerk über Art und Inhalt dieser Belege nach Ablauf des Jahres, in dem die Feststellung erfolgt ist, über einen Zeitraum von sechs Jahren aufbewahren.
 
-
-## § 9 – Weiterleitung von Daten an die Bundessteuerbehörde der Vereinigten Staaten von Amerika und Entgegennahme von Meldungen
+# § 9 – Weiterleitung von Daten an die Bundessteuerbehörde der Vereinigten Staaten von Amerika und Entgegennahme von Meldungen
 
 (1) Das Bundeszentralamt für Steuern speichert die nach § 8 Absatz 3 von den meldenden deutschen Finanzinstituten erhaltenen Daten und übermittelt diese bis zum 30. September des Kalenderjahres, das auf das Kalenderjahr folgt, für das die Daten ermittelt wurden, an die Bundessteuerbehörde der Vereinigten Staaten von Amerika (Internal Revenue Service).
 
@@ -178,8 +165,7 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Vermöge
 
 (4) Alle ausgetauschten Informationen unterliegen den Verwendungsbeschränkungen nach Artikel 26 des Abkommens zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und einiger anderer Steuern vom 29. August 1989 (BGBl. 1991 II S. 355) unter Berücksichtigung des Änderungsprotokolls vom 1. Juni 2006 (BGBl. 2006 II S. 1184) in der Fassung der Bekanntmachung vom 4. Juni 2008 (BGBl. 2008 II S. 611) in Verbindung mit Artikel 3 Absatz 7 des Abkommens.
 
-
-## § 10 – Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016
+# § 10 – Erhebungs- und Übermittlungspflichten in Bezug auf Zahlungen an nicht teilnehmende Finanzinstitute in den Kalenderjahren 2015 und 2016
 
 (1) Meldende deutsche Finanzinstitute haben zu den nach § 5 identifizierten Konten nicht teilnehmender Finanzinstitute im Sinne des Abkommens für die Kalenderjahre 2015 und 2016 folgende Daten zu erheben und an das Bundeszentralamt für Steuern zu übermitteln:
 
@@ -189,18 +175,15 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Vermöge
 
 (2) Das meldende deutsche Finanzinstitut hat diese Daten bis zum 31. Juli des folgenden Kalenderjahres nach amtlich vorgeschriebenem Datensatz im Wege der Datenfernübertragung an das Bundeszentralamt für Steuern zu übermitteln.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 379 Absatz 2 Nummer 1b der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 3 oder entgegen § 10 Absatz 1 oder Absatz 2 Satz 1 Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 

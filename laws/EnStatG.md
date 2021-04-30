@@ -1,10 +1,7 @@
-# [EnStatG] Energiestatistikgesetz  (EnStatG)
-
-Ausfertigungsdatum: 06.03.2017
-
+% Energiestatistikgesetz  (EnStatG)
+% Ausfertigungsdatum: 06.03.2017
  
-
-## § 1 – Zweck der Erhebungen und Erhebungsbereiche
+# § 1 – Zweck der Erhebungen und Erhebungsbereiche
 
 (1) Die in Absatz 2 genannten statistischen Erhebungen werden als Bundesstatistik durchgeführt als Beitrag zur Darstellung des Energieangebots und der Energieverwendung, insbesondere in Form von Energiebilanzen des Bundes und der Länder, für Zwecke
 
@@ -28,8 +25,7 @@ Ausfertigungsdatum: 06.03.2017
 
 6. über die Energieverwendung einschließlich der erneuerbaren Energien (§ 8).
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) „Betreiber von Anlagen zur Erzeugung“ im Sinne dieses Gesetzes sind natürliche oder juristische Personen oder Personenvereinigungen, die bestimmenden Einfluss auf die Beschaffenheit und den Betrieb der Anlage zur Erzeugung ausüben. Wird die Anlage zur Erzeugung in einem Betrieb oder in einem Unternehmen eingesetzt, ist der Betriebsinhaber oder der Unternehmensinhaber der Betreiber der Anlage zur Erzeugung. Betreiber der Anlage zur Erzeugung können sowohl ihr Eigentümer als auch die auf Grund schuldrechtlicher Verpflichtung zum Betrieb berechtigten natürlichen oder juristischen Personen oder Personenvereinigungen sein.
 
@@ -55,8 +51,7 @@ Ausfertigungsdatum: 06.03.2017
 
 4. des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das zuletzt durch Artikel 1 des Gesetzes vom 22. Dezember 2016 (BGBl. I S. 3106) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 3 – Erhebungen in der Elektrizitätswirtschaft einschließlich der erneuerbaren Energien
+# § 3 – Erhebungen in der Elektrizitätswirtschaft einschließlich der erneuerbaren Energien
 
 (1) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich bei allen Betreibern
 
@@ -136,8 +131,7 @@ Die Angaben nach Satz 1 Nummer 1 und 2 sind auch länderweise zu erfassen.
 
 7. die Menge der eingesetzten Brennstoffe zur Erzeugung von Elektrizität oder von Elektrizität und Wärme bei KWK-Anlagen, jeweils getrennt nach Energieträgern und Energiegehalt.
 
-
-## § 4 – Erhebungen in der Gaswirtschaft einschließlich der erneuerbaren Energien
+# § 4 – Erhebungen in der Gaswirtschaft einschließlich der erneuerbaren Energien
 
 (1) Die Erhebung erfasst, jeweils bezogen auf das Inland, monatlich bei allen Betreibern von Anlagen
 
@@ -235,8 +229,7 @@ c) die Erlöse aus dem Absatz von Gas, getrennt nach Abnehmergruppen.
 
 Die Angaben nach Satz 1 Nummer 2 Buchstabe a und Nummer 4 Buchstabe a sind auch nach Gasarten getrennt zu erfassen. Die Angaben nach Satz 1 Nummer 2 Buchstabe c und d und Nummer 4 Buchstabe b und c schließen Erdgasverdichterstationen mit ein. Die Angaben nach Satz 1 Nummer 3 Buchstabe c schließen Kissengas mit ein. Die Angaben nach Satz 1 Nummer 1 Buchstabe b und c, Nummer 2 Buchstabe a, c und d, Nummer 3 Buchstabe b, Nummer 4 Buchstabe a sowie Nummer 5 Buchstabe b und c sind auch länderweise zu erfassen.
 
-
-## § 5 – Erhebungen in der Wärmewirtschaft einschließlich der erneuerbaren Energien
+# § 5 – Erhebungen in der Wärmewirtschaft einschließlich der erneuerbaren Energien
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von Heizwerken ab einer installierten Nettonennleistung von 1 Megawatt thermisch und bei allen Betreibern von Anlagen zur netzgebundenen Wärmeversorgung einschließlich wärmegeführter Blockheizkraftwerke, soweit deren Anlagen nicht bereits nach § 3 erfasst werden, sowie bei Dritten, die sich dieser Anlagen zur Verteilung bedienen, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
@@ -268,8 +261,7 @@ Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Betreibern von H
 
 Alle Angaben mit Ausnahme der Angaben nach Satz 1 Nummer 7 und 13 sind länderweise zu erfassen.
 
-
-## § 6 – Erhebungen über Kohleeinfuhr und -ausfuhr
+# § 6 – Erhebungen über Kohleeinfuhr und -ausfuhr
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Unternehmen, die Braunkohle, Braunkohleprodukte, Steinkohle, Steinkohlenkoks oder -briketts ein- oder ausführen, monatlich Angaben zu folgenden Erhebungsmerkmalen:
 
@@ -279,8 +271,7 @@ Die Erhebung erfasst, jeweils bezogen auf das Inland, bei allen Unternehmen, die
 
 3. die abgegebene Menge, jeweils getrennt nach Kohlearten sowie innerhalb der Kohlearten jeweils getrennt nach Abnehmer- und Verbrauchergruppen.
 
-
-## § 7 – Erhebungen über Flüssiggas, Klärgas, Klärschlamm, Tiefengeothermie, Biokraftstoffe, Mineralöl und Mineralölerzeugnisse
+# § 7 – Erhebungen über Flüssiggas, Klärgas, Klärschlamm, Tiefengeothermie, Biokraftstoffe, Mineralöl und Mineralölerzeugnisse
 
 Die Erhebungen erfassen, jeweils bezogen auf das Inland, jährlich für das Vorjahr
 
@@ -334,8 +325,7 @@ e) die Bestandsmengen von Mineralöl und Mineralölerzeugnissen,
 
 Soweit den statistischen Ämtern der Länder die Daten nach Satz 1 Nummer 5 aus Erhebungen anderer Behörden zur Verfügung gestellt werden, ist von der Durchführung der Erhebung nach Satz 1 Nummer 5 abzusehen.
 
-
-## § 8 – Erhebungen über die Energieverwendung einschließlich der erneuerbaren Energien
+# § 8 – Erhebungen über die Energieverwendung einschließlich der erneuerbaren Energien
 
 Die Erhebung erfasst, jeweils bezogen auf das Inland, bei den Betrieben des Bergbaus, der Gewinnung von Steinen und Erden sowie des Verarbeitenden Gewerbes, soweit die Betriebe dem Berichtskreis für die Erhebungen nach § 2 des Gesetzes über die Statistik im Produzierenden Gewerbe in der Fassung der Bekanntmachung vom 21. März 2002 (BGBl. I S. 1181), das zuletzt durch Artikel 271 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in der jeweils geltenden Fassung angehören, jährlich für das Vorjahr Angaben zu folgenden Erhebungsmerkmalen:
 
@@ -349,8 +339,7 @@ Die Erhebung erfasst, jeweils bezogen auf das Inland, bei den Betrieben des Berg
 
 5. die Menge der energetischen und nichtenergetischen Verwendung der Energieträger.
 
-
-## § 9 – Hilfsmerkmale
+# § 9 – Hilfsmerkmale
 
 Hilfsmerkmale bei der Erhebung sind:
 
@@ -362,8 +351,7 @@ Hilfsmerkmale bei der Erhebung sind:
 
 Bei Betreibern von Elektrizitätsversorgungsnetzen ist der Standort der Anlage kein Hilfsmerkmal, sondern Erhebungsmerkmal nach § 3 Absatz 3 Satz 1 Nummer 3.
 
-
-## § 10 – Auskunftspflicht
+# § 10 – Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Auskunftserteilung zu den Angaben nach § 9 Satz 1 Nummer 2 ist freiwillig.
 
@@ -415,15 +403,13 @@ b) die Leitungen der Unternehmen, Betriebe oder sonstigen Einrichtungen, die sic
 
 Von der Auskunftspflicht nach Satz 1 Nummer 5 ausgenommen sind Unternehmen, Betriebe oder sonstige Einrichtungen, die Anlagen zur Gewinnung, zum Transport oder zur Speicherung von Biogas betreiben.
 
-
-## § 11 – Durchführung der Erhebung, Übermittlungsfrist
+# § 11 – Durchführung der Erhebung, Übermittlungsfrist
 
 (1) Die Erhebungen nach § 4 Absatz 1 und 2 sowie § 6 werden vom Statistischen Bundesamt durchgeführt.
 
 (2) Die Angaben zu § 4 Absatz 1 sind dem Statistischen Bundesamt spätestens am 27. Tag des dem Berichtsmonat folgenden Monats zu übermitteln.
 
-
-## § 12 – Verordnungsermächtigung
+# § 12 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die nach den §§ 3, 4 Absatz 3, den §§ 5, 7 und 8 durchzuführenden Erhebungen
 
@@ -435,8 +421,7 @@ Von der Auskunftspflicht nach Satz 1 Nummer 5 ausgenommen sind Unternehmen, Betr
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Erhebungen nach § 4 Absatz 1 und 2 sowie § 6 einzelne Erhebungsmerkmale auszusetzen oder einzelne neue Erhebungsmerkmale einzuführen, die Periodizität der Erhebungen zu verkürzen oder zu verlängern, die Erhebungszeitpunkte zu verschieben sowie den Kreis der Auskunftspflichtigen einzuschränken, wenn dies in Übereinstimmung mit der Übermittlungsverpflichtung der Bundesrepublik Deutschland nach der Verordnung (EG) Nr. 1099/2008 des Europäischen Parlaments und des Rates vom 22. Oktober 2008 über die Energiestatistik (ABl. L 304 vom 14.11.2008, S. 1, L 41 vom 12.2.2009, S. 34), die zuletzt durch die Verordnung (EU) Nr. 431/2014 (ABl. L 131 vom 1.5.2014, S. 1) geändert worden ist, in der jeweils geltenden Fassung geschieht und die Zuverlässigkeit der Ergebnisse nicht beeinträchtigt.
 
-
-## § 13 – Datenübermittlung
+# § 13 – Datenübermittlung
 
 (1) An die fachlich zuständigen obersten Bundes- und Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
@@ -448,8 +433,7 @@ Von der Auskunftspflicht nach Satz 1 Nummer 5 ausgenommen sind Unternehmen, Betr
 
 (5) Die für die Genehmigung oder Förderung der in den §§ 3 bis 8 genannten Anlagen zuständigen Behörden übermitteln den statistischen Ämtern des Bundes und der Länder zur Berichtskreisfindung auf deren Ersuchen Namen und Anschriften der Betreiber dieser Anlagen.
 
-
-## § 14 – Nutzung von nach energierechtlichen Vorschriften erhobenen Daten
+# § 14 – Nutzung von nach energierechtlichen Vorschriften erhobenen Daten
 
 Das Statistische Bundesamt nutzt für die Erstellung der jeweiligen Bundesstatistik folgende Daten, soweit diese Daten für die Erstellung der jeweiligen Bundesstatistik qualitativ geeignet sind:
 
@@ -459,12 +443,10 @@ Das Statistische Bundesamt nutzt für die Erstellung der jeweiligen Bundesstatis
 
 Soweit das Statistische Bundesamt die in Satz 1 genannten Daten nutzt, sieht es von einer Erhebung bei den nach § 10 Absatz 2 Auskunftspflichtigen ab.
 
-
-## § 15 – Übergangsregelung
+# § 15 – Übergangsregelung
 
 Die Jahreserhebungen für das Berichtsjahr 2017 und die monatlichen Erhebungen für das Jahr 2017 werden nach dem Energiestatistikgesetz vom 26. Juli 2002 (BGBl. I S. 2867), das zuletzt durch Artikel 273 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, durchgeführt.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am 10. März 2017 in Kraft. Gleichzeitig tritt das Energiestatistikgesetz vom 26. Juli 2002 (BGBl. I S. 2867), das zuletzt durch Artikel 273 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, außer Kraft.

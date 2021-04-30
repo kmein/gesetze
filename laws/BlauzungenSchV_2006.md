@@ -1,10 +1,7 @@
-# [BlauzungenSchV 2006] Verordnung zur Durchführung gemeinschaftsrechtlicher und unionsrechtlicher Vorschriften über Maßnahmen zur Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit  (EG-Blauzungenbekämpfung-Durchführungsverordnung)
-
-Ausfertigungsdatum: 31.08.2006
-
+% Verordnung zur Durchführung gemeinschaftsrechtlicher und unionsrechtlicher Vorschriften über Maßnahmen zur Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit  (EG-Blauzungenbekämpfung-Durchführungsverordnung)
+% Ausfertigungsdatum: 31.08.2006
  
-
-## § 1 – Verbringungsverbot zum Schutz gegen die Blauzungenkrankheit
+# § 1 – Verbringungsverbot zum Schutz gegen die Blauzungenkrankheit
 
 (1) Das Verbringen empfänglicher Tiere aus einer Sperrzone im Sinne des Artikels 2 Buchstabe d der Verordnung (EG) Nr. 1266/2007 der Kommission vom 26. Oktober 2007 mit Durchführungsvorschriften zur Richtlinie 2000/75/EG des Rates hinsichtlich der Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit sowie der Beschränkungen, die für Verbringungen bestimmter Tiere von für die Blauzungenkrankheit empfänglichen Arten gelten (ABl. L 283 vom 27.10.2007, S. 37) in der jeweils geltenden Fassung ist verboten. Das Verbot des Satzes 1 gilt, unbeschadet der Befugnisse der zuständigen Behörden nach Artikel 7 Absatz 1, auch in Verbindung mit Absatz 4, der Verordnung (EG) Nr. 1266/2007 nicht, soweit die Voraussetzungen
 
@@ -36,8 +33,7 @@ erfüllt sind.
 
 (2) Das Verbringen von Embryonen, Samen und Eizellen aus einer Sperrzone im Sinne des Artikels 2 Buchstabe d der Verordnung (EG) Nr. 1266/2007 ist verboten. Das Verbot des Satzes 1 gilt nicht, soweit die Voraussetzungen des Artikels 8 Absatz 1, jeweils auch in Verbindung mit Absatz 6, der Verordnung (EG) Nr. 1266/2007 vorliegen.
 
-
-## § 2 – Überwachungsprogramme, Beobachtungsprogramme
+# § 2 – Überwachungsprogramme, Beobachtungsprogramme
 
 (1) Die Durchführung der Programme
 
@@ -49,11 +45,9 @@ obliegt der zuständigen Behörde.
 
 (2) Die zuständige Behörde unterrichtet das Bundesministerium für Ernährung und Landwirtschaft auf Anforderung über die Ergebnisse der in Absatz 1 genannten Programme.
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Impfungen
+# § 4 – Impfungen
 
 (1) Empfängliche Tiere dürfen gegen die Blauzungenkrankheit nur mit Genehmigung der zuständigen Behörde und nur mit inaktivierten Impfstoffen geimpft werden. Die Genehmigung ist unter Berücksichtigung einer Risikobewertung des Friedrich-Loeffler-Institutes zu erteilen.
 
@@ -75,8 +69,7 @@ mitzuteilen. Auf Anordnung der zuständigen Behörde hat er zusätzlich die Ohrm
 
 anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
-## § 4a – Wildtieruntersuchung, weitergehende Maßnahmen
+# § 4a – Wildtieruntersuchung, weitergehende Maßnahmen
 
 (1) Die zuständige Behörde kann zur Erkennung der Blauzungenkrankheit bei empfänglichen Wildwiederkäuern Untersuchungen anordnen. Im Falle der Anordnung nach Satz 1 haben Jagdausübungsberechtigte
 
@@ -86,8 +79,7 @@ anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 (2) Die Befugnis der zuständigen Behörde, zur Bekämpfung der Blauzungenkrankheit weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 Nummer 10 des Tiergesundheitsgesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung erforderlich sind, bleibt unberührt.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -103,5 +95,4 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 6. einer vollziehbaren Anordnung nach § 4 Absatz 2 Satz 2 oder Absatz 3 zuwiderhandelt.
 
-
-## § 6 – (Inkrafttreten, Außerkrafttreten)
+# § 6 – (Inkrafttreten, Außerkrafttreten)

@@ -1,15 +1,11 @@
-# [ProstStatV] Verordnung über die Führung einer Bundesstatistik nach dem Prostituiertenschutzgesetz  (Prostitutions-Statistikverordnung - ProstStatV)
-
-Ausfertigungsdatum: 13.06.2017
-
+% Verordnung über die Führung einer Bundesstatistik nach dem Prostituiertenschutzgesetz  (Prostitutions-Statistikverordnung - ProstStatV)
+% Ausfertigungsdatum: 13.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 36 Absatz 3 in Verbindung mit § 35 des Prostituiertenschutzgesetzes vom 21. Oktober 2016 (BGBl. I S. 2372) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1 – Umfang der Erhebungen
+# § 1 – Umfang der Erhebungen
 
 Erhebungen als Bundesstatistik werden durchgeführt über:
 
@@ -21,8 +17,7 @@ Erhebungen als Bundesstatistik werden durchgeführt über:
 
 4. Prostitutionsveranstaltungen.
 
-
-## § 2 – Erhebungsmerkmale für die Statistik über die Prostitutionstätigkeit
+# § 2 – Erhebungsmerkmale für die Statistik über die Prostitutionstätigkeit
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 1 sind für jeden Vorgang:
 
@@ -40,8 +35,7 @@ Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 1 sind für jeden Vorgang:
 
 7. die Anmeldung der Personen, die bereits vor dem 1. Juli 2017 der Prostitution nachgegangen sind.
 
-
-## § 3 – Erhebungsmerkmale für die Statistik über das Prostitutionsgewerbe
+# § 3 – Erhebungsmerkmale für die Statistik über das Prostitutionsgewerbe
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 2 sind für jeden Vorgang:
 
@@ -77,8 +71,7 @@ e) anderen nicht in den Buchstaben a bis d genannten Gründen,
 
 7. die Anzeige eines Prostitutionsgewerbes, das bereits vor dem 1. Juli 2017 betrieben wurde.
 
-
-## § 4 – Erhebungsmerkmale für die Statistik über Prostitutionsfahrzeuge
+# § 4 – Erhebungsmerkmale für die Statistik über Prostitutionsfahrzeuge
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 3 sind für jeden Vorgang:
 
@@ -88,8 +81,7 @@ Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 3 sind für jeden Vorgang:
 
 3. die Untersagung der Aufstellung eines Prostitutionsfahrzeuges.
 
-
-## § 5 – Erhebungsmerkmale für die Statistik über Prostitutionsveranstaltungen
+# § 5 – Erhebungsmerkmale für die Statistik über Prostitutionsveranstaltungen
 
 Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 4 sind für jeden Vorgang:
 
@@ -97,8 +89,7 @@ Erhebungsmerkmale bei den Erhebungen nach § 1 Nummer 4 sind für jeden Vorgang:
 
 2. der Ort der Prostitutionsveranstaltung.
 
-
-## § 6 – Hilfsmerkmale
+# § 6 – Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
@@ -106,22 +97,19 @@ Hilfsmerkmale sind:
 
 2. der Name sowie die Kontaktdaten der für Rückfragen zur Verfügung stehenden Person.
 
-
-## § 7 – Periodizität, Berichtszeitpunkt, Berichtszeitraum
+# § 7 – Periodizität, Berichtszeitpunkt, Berichtszeitraum
 
 (1) Die Erhebungen werden jährlich, erstmalig für das Berichtsjahr 2017 durchgeführt. Die Angaben nach § 2 Nummer 2 bis 6 und § 3 Nummer 4 bis 5 werden zusätzlich zum Stichtag 31. Dezember des jeweiligen Kalenderjahres erhoben. Dabei sind jeweils ausschließlich Daten für alle zu diesem Zeitpunkt gültigen Anmeldebescheinigungen und Erlaubnisse zu erfassen.
 
 (2) Die Angaben nach § 3 Nummer 6 werden nur zum Stichtag 31. Dezember des jeweiligen Kalenderjahres erhoben.
 
-
-## § 8 – Auskunftspflicht
+# § 8 – Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig sind die für die Durchführung der in den §§ 2 bis 5 genannten Sachverhalte zuständigen Behörden in den Ländern. Die Auskunftserteilung zu den Angaben nach § 6 Nummer 2 ist freiwillig.
 
 (2) Die Angaben sind dem zuständigen statistischen Landesamt bis zum 28. Februar des Folgejahres zu melden.
 
-
-## § 9 – Übermittlung, Löschung
+# § 9 – Übermittlung, Löschung
 
 (1) Die statistischen Landesämter übermitteln die erhobenen Einzeldaten auf Anforderung an das Statistische Bundesamt.
 
@@ -131,17 +119,14 @@ Hilfsmerkmale sind:
 
 (4) Die statistischen Landesämter und das Statistische Bundesamt löschen die Einzeldaten spätestens zehn Jahre nach der jeweiligen Erhebung.
 
-
-## § 10 – Regelung für das Jahr 2017
+# § 10 – Regelung für das Jahr 2017
 
 Abweichend von § 7 werden für das Jahr 2017 die Angaben nach § 2 Nummer 2, 4 bis 6 und § 3 Nummer 4 bis 6 zum Stichtag 31. Dezember erhoben. Die Angaben nach § 2 Nummer 7 und § 3 Nummer 7 werden ausschließlich für das Jahr 2017 zum Stichtag 31. Dezember erhoben.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

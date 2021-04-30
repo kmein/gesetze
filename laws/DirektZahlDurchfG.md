@@ -1,10 +1,7 @@
-# [DirektZahlDurchfG] Gesetz zur Durchführung der Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik  (Direktzahlungen-Durchführungsgesetz - DirektZahlDurchfG)
-
-Ausfertigungsdatum: 09.07.2014
-
+% Gesetz zur Durchführung der Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik  (Direktzahlungen-Durchführungsgesetz - DirektZahlDurchfG)
+% Ausfertigungsdatum: 09.07.2014
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1307/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit Vorschriften über Direktzahlungen an Inhaber landwirtschaftlicher Betriebe im Rahmen von Stützungsregelungen der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnung (EG) Nr. 637/2008 des Rates und der Verordnung (EG) Nr. 73/2009 des Rates (ABl. L 347 vom 20.12.2013, S. 608) in der jeweils geltenden Fassung sowie der im Rahmen dieser Verordnung und zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union.
 
@@ -18,13 +15,11 @@ Ausfertigungsdatum: 09.07.2014
 
 Satz 1 Nummer 3 gilt nicht für die Einführung von Direktzahlungen und die Flexibilität zwischen den Säulen der Gemeinsamen Agrarpolitik der Europäischen Union.
 
-
-## § 2 – Dauergrünland
+# § 2 – Dauergrünland
 
 Als Dauergrünland im Sinne des Artikels 4 Absatz 1 Buchstabe h der Verordnung (EU) Nr. 1307/2013 gelten auch Flächen, die abgeweidet werden können und einen Teil der etablierten lokalen Praktiken darstellen, wo Gras und andere Grünfutterpflanzen traditionell nicht in Weidegebieten vorherrschen.
 
-
-## § 3 – Überschreitung der Nettoobergrenze
+# § 3 – Überschreitung der Nettoobergrenze
 
 (1) Wenn der unbeschadet der Anwendung des Artikels 8 der Verordnung (EU) Nr. 1307/2013 zu gewährende Gesamtbetrag der Direktzahlungen die in Anhang III der Verordnung (EU) Nr. 1307/2013 für Deutschland jeweils aufgeführte Obergrenze (Nettoobergrenze) überschreitet, werden alle Direktzahlungen, die für das jeweilige Jahr zu gewähren sind, linear gekürzt, um die Nettoobergrenze einzuhalten.
 
@@ -32,13 +27,11 @@ Als Dauergrünland im Sinne des Artikels 4 Absatz 1 Buchstabe h der Verordnung (
 
 (3) Die zuständigen Behörden teilen dem Bundesministerium für Ernährung und Landwirtschaft jährlich die Summe der für das jeweilige Jahr vorbehaltlich der Anwendung des Absatzes 1 zu gewährenden Direktzahlungen mit.
 
-
-## § 4 – Nichtanwendung von Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013
+# § 4 – Nichtanwendung von Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013
 
 Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
-
-## § 5 – Umschichtung von Mitteln
+# § 5 – Umschichtung von Mitteln
 
 (1) 4,5 Prozent der für die Kalenderjahre 2015 bis 2019 für Deutschland festgesetzten jährlichen nationalen Obergrenzen nach Anhang II der Verordnung (EU) Nr. 1307/2013 werden als zusätzliche Förderung für Maßnahmen im Rahmen der Programmplanung für die Entwicklung des ländlichen Raums, die nach Maßgabe der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487) in der jeweils geltenden Fassung aus dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums finanziert werden, bereitgestellt.
 
@@ -46,8 +39,7 @@ Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
 (3) 6 Prozent der für das Kalenderjahr 2021 für Deutschland anzuwendenden nationalen Obergrenze nach Anhang II der Verordnung (EU) Nr. 1307/2013 werden als zusätzliche, im Haushaltsjahr 2022 aus dem ELER finanzierte Förderung bereitgestellt, soweit die Verordnung (EU) Nr. 1307/2013 nicht entgegensteht.
 
-
-## § 6 – Aufstockung der nationalen Obergrenze für die Basisprämienregelung
+# § 6 – Aufstockung der nationalen Obergrenze für die Basisprämienregelung
 
 (1) Die nationale Obergrenze für die Basisprämienregelung wird ab dem Jahr 2015 für jedes Jahr um einen Betrag in Höhe von 0,5 Prozent des in Artikel 22 Absatz 2 der Verordnung (EU) Nr. 1307/2013 bestimmten Betrags aufgestockt.
 
@@ -57,8 +49,7 @@ Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
 2. eine Überschreitung der Nettoobergrenze zu vermeiden.
 
-
-## § 7 – Nationale Reserve
+# § 7 – Nationale Reserve
 
 (1) Zur Einrichtung der nationalen Reserve wird die für das Jahr 2015 geltende nationale Obergrenze für die Basisprämienregelung um einen nach Maßgabe des Absatzes 2 bestimmten Prozentsatz linear gekürzt.
 
@@ -68,15 +59,13 @@ Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft macht den Prozentsatz nach Absatz 1 im Bundesanzeiger bekannt.
 
-
-## § 8 – Anwendung der Basisprämienregelung für die Jahre 2015 bis 2018
+# § 8 – Anwendung der Basisprämienregelung für die Jahre 2015 bis 2018
 
 (1) Die Basisprämienregelung wird für die Jahre 2015 bis 2018 auf regionaler Ebene angewendet.
 
 (2) Für die Anwendung der Vorschriften über die Basisprämienregelung bildet für die Jahre 2015 bis 2018 das Gebiet jedes Landes eine Region. Abweichend von Satz 1 bildet das Gebiet der Länder Brandenburg und Berlin, Niedersachsen und Bremen sowie Schleswig-Holstein und Hamburg jeweils eine Region.
 
-
-## § 9 – Regionale Aufteilung der jährlichen nationalen Obergrenze
+# § 9 – Regionale Aufteilung der jährlichen nationalen Obergrenze
 
 (1) Die jährliche nationale Obergrenze für die Basisprämienregelung wird für die Jahre 2015 bis 2018 auf die Regionen nach Maßgabe der Absätze 2 bis 5 aufgeteilt.
 
@@ -92,18 +81,15 @@ Artikel 11 Absatz 1 der Verordnung (EU) Nr. 1307/2013 wird nicht angewendet.
 
 (7) Das Bundesministerium für Ernährung und Landwirtschaft macht für die Jahre 2015 bis 2018 jeweils die regionalen Obergrenzen für die Basisprämienregelung im Bundesanzeiger bekannt.
 
-
-## § 10 – Ende der regionalen Anwendung der Basisprämienregelung
+# § 10 – Ende der regionalen Anwendung der Basisprämienregelung
 
 Mit Wirkung ab dem 1. Januar 2019 wird die regionale Anwendung der Basisprämienregelung beendet.
 
-
-## § 11 – Erstzuweisung der Zahlungsansprüche
+# § 11 – Erstzuweisung der Zahlungsansprüche
 
 Zahlungsansprüche werden Betriebsinhabern auch zugewiesen bei Vorliegen der Voraussetzungen nach Artikel 24 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 in den dort in Buchstabe a Unterbuchstabe i im zweiten Anstrich und in den Buchstaben b und c genannten Fällen.
 
-
-## § 12 – Wert der Zahlungsansprüche
+# § 12 – Wert der Zahlungsansprüche
 
 (1) Die Unterrichtung nach Artikel 25 Absatz 10 der Verordnung (EU) Nr. 1307/2013 über den Wert der Zahlungsansprüche erfolgt durch Bekanntmachung des Bundesministeriums für Ernährung und Landwirtschaft im Bundesanzeiger.
 
@@ -115,20 +101,17 @@ Zahlungsansprüche werden Betriebsinhabern auch zugewiesen bei Vorliegen der Vor
 
 (5) Das Bundesministerium für Ernährung und Landwirtschaft macht ab dem Jahr 2019 den Wert der Zahlungsansprüche, der sich in Anwendung der in § 1 Absatz 1 genannten Rechtsakte und der zu ihrer Umsetzung und Durchführung erlassenen nationalen Vorschriften ergibt, vor dem 1. Dezember des jeweiligen Jahres im Bundesanzeiger bekannt.
 
-
-## § 13 – Zahlungsbetrag
+# § 13 – Zahlungsbetrag
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft macht den bundeseinheitlichen Zahlungsbetrag je Hektar für die Zahlung für dem Klima- und Umweltschutz förderliche Landbewirtschaftungsmethoden nach Artikel 43 Absatz 9 Unterabsatz 2 der Verordnung (EU) Nr. 1307/2013 für jedes Jahr jeweils im Bundesanzeiger bekannt.
 
 (2) Die zuständigen Behörden teilen dem Bundesministerium für Ernährung und Landwirtschaft jährlich bis zum 1. November die Gesamtzahl der beihilfefähigen Hektarflächen, die in der betreffenden Region nach Artikel 33 Absatz 1 der Verordnung (EU) Nr. 1307/2013 für dieses Jahr angemeldet worden sind, für jede Region mit.
 
-
-## § 14 – Ausschluss gleichwertiger Methoden
+# § 14 – Ausschluss gleichwertiger Methoden
 
 Ein Betriebsinhaber kann gleichwertige Methoden nach Maßgabe des Artikels 43 Absatz 3 der Verordnung (EU) Nr. 1307/2013 nicht anwenden.
 
-
-## § 15 – Dauergrünland in bestimmten Gebieten
+# § 15 – Dauergrünland in bestimmten Gebieten
 
 (1) Das am 1. Januar 2015 bestehende Dauergrünland, das in den in Artikel 45 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 1307/2013 bezeichneten Gebieten belegen ist, ist umweltsensibles Dauergrünland, soweit die Gebiete am 1. Januar 2015 in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7) eingetragen sind.
 
@@ -170,8 +153,7 @@ Der Antrag auf Aufhebung der Bestimmung einer Fläche als umweltsensibel ist zus
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung des Erhalts des Dauergrünlands sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Verfahren in den Fällen der Absätze 2a und 2b zu erlassen.
 
-
-## § 16 – Beibehaltung des Dauergrünlandanteils
+# § 16 – Beibehaltung des Dauergrünlandanteils
 
 (1) Die Beibehaltung des Anteils des Dauergrünlands an der gesamten landwirtschaftlichen Fläche (Dauergrünlandanteil) nach Artikel 45 Absatz 2 der Verordnung (EU) Nr. 1307/2013 wird nach Maßgabe von Rechtsverordnungen auf Grund des Absatzes 2 und des § 17 auf regionaler Ebene sichergestellt. Region ist das Gebiet jedes Landes. Abweichend von Satz 2 ist das Gebiet der Länder Brandenburg und Berlin, Niedersachsen und Bremen sowie Schleswig-Holstein und Hamburg jeweils eine Region, solange die jeweiligen Länder die Direktzahlungen über jeweils eine gemeinsame Zahlstelle durchführen.
 
@@ -219,8 +201,7 @@ Eine Genehmigung nach Satz 2, auch in Verbindung mit Satz 4, wird jedoch nicht e
 
 (7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, um Regelungen im Sinne des § 1 Absatz 1 zur Gewährleistung des Erhalts des Dauergrünlands sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das Verfahren im Fall des Absatzes 6 zu erlassen.
 
-
-## § 16a – Bagatellregelung
+# § 16a – Bagatellregelung
 
 (1) Abweichend von § 16 Absatz 3 bedarf die Umwandlung von bis zu 500 Quadratmeter Dauergrünland je Betriebsinhaber und Jahr nicht der Genehmigung.
 
@@ -248,8 +229,7 @@ Eine Genehmigung nach Satz 2, auch in Verbindung mit Satz 4, wird jedoch nicht e
 
 3. Vorschriften über das Verfahren.
 
-
-## § 17 – Ermächtigungen zur Beibehaltung des Dauergrünlandanteils
+# § 17 – Ermächtigungen zur Beibehaltung des Dauergrünlandanteils
 
 (1) § 16 Absatz 3 und 5, § 16a und die folgenden Absätze gelten nicht für Dauergrünland, das der Verpflichtung nach Artikel 45 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 1307/2013 unterliegt.
 
@@ -291,8 +271,7 @@ Diese Vorschriften können insbesondere umfassen:
 
 5. Vorschriften über die Möglichkeit einer Neuanlage von Dauergrünland an anderer Stelle in derselben Region nach § 16 Absatz 1.
 
-
-## § 18 – Flächennutzung im Umweltinteresse
+# § 18 – Flächennutzung im Umweltinteresse
 
 (1) Im Umweltinteresse genutzte Flächen sind vorbehaltlich der Absätze 2 bis 4 und einer Rechtsverordnung auf Grund des Absatzes 5 Satz 1 Nummer 1 oder 2 die in Artikel 46 Absatz 2 der Verordnung (EU) Nr. 1307/2013 bezeichneten Flächenarten.
 
@@ -318,8 +297,7 @@ Diese Vorschriften können insbesondere umfassen:
 
 Die Ermächtigung nach Satz 1 Nummer 1 gilt bei Flächen der in Artikel 46 Absatz 2 Buchstabe j der Verordnung (EU) Nr. 1307/2013 bezeichneten Flächenart für Kriterien hinsichtlich des Einsatzes von Düngemitteln sowie von Pflanzenschutzmitteln mit der Maßgabe, dass nur Regelungen für die vorbezeichnete Flächenart getroffen werden, die eine Startdüngung und Pflanzenschutz nach guter fachlicher Praxis zulassen.
 
-
-## § 19 – Betrag und Höchstgrenze
+# § 19 – Betrag und Höchstgrenze
 
 (1) Der Betrag für die jährliche Zahlung für Junglandwirte wird bundeseinheitlich nach Maßgabe des Artikels 50 Absatz 6 Buchstabe b der Verordnung (EU) Nr. 1307/2013 berechnet.
 
@@ -329,8 +307,7 @@ Die Ermächtigung nach Satz 1 Nummer 1 gilt bei Flächen der in Artikel 46 Absat
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft macht den Betrag der Zahlung für Junglandwirte im Bundesanzeiger bekannt.
 
-
-## § 20 – Zu verwendender Prozentsatz der nationalen Obergrenze
+# § 20 – Zu verwendender Prozentsatz der nationalen Obergrenze
 
 (1) Für die Zahlung für Junglandwirte werden 1 Prozent der für Deutschland festgesetzten jährlichen nationalen Obergrenzen nach Anhang II der Verordnung (EU) Nr. 1307/2013 verwendet.
 
@@ -344,8 +321,7 @@ Die Ermächtigung nach Satz 1 Nummer 1 gilt bei Flächen der in Artikel 46 Absat
 
 (6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, zur sachgerechten Anwendung der in § 1 Absatz 1 genannten Rechtsakte durch Rechtsverordnung mit Zustimmung des Bundesrates den in Absatz 1 genannten Prozentsatz in Abhängigkeit vom auf der Grundlage statistischer Daten geschätzten künftigen Bedarf zu ändern.
 
-
-## § 21 – Umverteilungsprämie
+# § 21 – Umverteilungsprämie
 
 (1) Ein Betriebsinhaber erhält jährlich auf Antrag eine Zahlung nach Artikel 41 Absatz 1 der Verordnung (EU) Nr. 1307/2013 (Umverteilungsprämie) nach Maßgabe dieses Unterabschnitts.
 
@@ -355,8 +331,7 @@ Die Ermächtigung nach Satz 1 Nummer 1 gilt bei Flächen der in Artikel 46 Absat
 
 2. auf der Grundlage der Festlegung eines Betrages je Zahlungsanspruch der Gruppe 1 und eines Betrages je Zahlungsanspruch der Gruppe 2 nach § 22.
 
-
-## § 22 – Finanzvolumen und Beträge
+# § 22 – Finanzvolumen und Beträge
 
 (1) Für die Festlegung des Betrages je Zahlungsanspruch der Gruppe 1 und des Betrages je Zahlungsanspruch der Gruppe 2 wird ein Gesamtbetrag in Höhe von 7 Prozent der in Anhang II der Verordnung (EU) Nr. 1307/2013 für Deutschland für das jeweilige Jahr festgelegten Obergrenze verwendet (Finanzvolumen).
 
@@ -366,23 +341,19 @@ Die Ermächtigung nach Satz 1 Nummer 1 gilt bei Flächen der in Artikel 46 Absat
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft macht für jedes Jahr den Betrag je Zahlungsanspruch der Gruppe 1 und den Betrag je Zahlungsanspruch der Gruppe 2 im Bundesanzeiger bekannt.
 
-
-## § 23 – Mitteilungspflichten
+# § 23 – Mitteilungspflichten
 
 Die zuständigen Behörden der Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft bis zum 1. November jedes Jahres die Summe der berücksichtigungsfähigen Zahlungsansprüche mit. Bei der Bildung der Summe der berücksichtigungsfähigen Zahlungsansprüche werden Zahlungsansprüche der Gruppe 2 mit dem Faktor 0,6 berücksichtigt.
 
-
-## § 24 – Sonstige Bestimmungen
+# § 24 – Sonstige Bestimmungen
 
 Die Gewährung einer Umverteilungsprämie ist ausgeschlossen, wenn ein Betriebsinhaber seinen Betrieb nach dem 18. Oktober 2011 nachweislich einzig zu dem Zweck aufgespalten hat, um in den Genuss der Umverteilungsprämie zu kommen. Dies gilt auch für eine Zahlung an einen Betriebsinhaber, dessen Betrieb aus einer solchen Aufspaltung hervorgegangen ist.
 
-
-## § 25 – Anwendung der Kleinerzeugerregelung
+# § 25 – Anwendung der Kleinerzeugerregelung
 
 Die Kleinerzeugerregelung nach Titel V der Verordnung (EU) Nr. 1307/2013 wird angewendet mit der Zahlungsmodalität nach Artikel 63 Absatz 2 Unterabsatz 1 Buchstabe a der Verordnung (EU) Nr. 1307/2013. Der einem teilnehmenden Betriebsinhaber zu gewährende Betrag beträgt für jedes Jahr höchstens 1 250 Euro.
 
-
-## § 26 – Weitere Ermächtigungen
+# § 26 – Weitere Ermächtigungen
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -390,23 +361,19 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Union unanwendbar geworden sind.
 
-
-## § 27 – Bundesanstalt für Landwirtschaft und Ernährung
+# § 27 – Bundesanstalt für Landwirtschaft und Ernährung
 
 In Rechtsverordnungen auf Grund der in § 1 Absatz 2 Satz 1 Nummer 1 bezeichneten Vorschriften oder auf Grund dieses Gesetzes kann als für die Durchführung zuständige Stelle die Bundesanstalt für Landwirtschaft und Ernährung bestimmt werden.
 
-
-## § 28 – Verkündung von Rechtsverordnungen
+# § 28 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 29 – Inkrafttreten
+# § 29 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 9 Absatz 2, 4 und 5)
+# Anlage – (zu § 9 Absatz 2, 4 und 5)
 
 (Fundstelle: BGBl. I 2014, 905)
 

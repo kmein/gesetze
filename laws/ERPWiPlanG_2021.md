@@ -1,10 +1,7 @@
-# [ERPWiPlanG 2021] Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2021  (ERP-Wirtschaftsplangesetz 2021)
-
-Ausfertigungsdatum: 01.12.2020
-
+% Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2021  (ERP-Wirtschaftsplangesetz 2021)
+% Ausfertigungsdatum: 01.12.2020
  
-
-## § 1 – Feststellung des Wirtschaftsplans des ERP-Sondervermögens
+# § 1 – Feststellung des Wirtschaftsplans des ERP-Sondervermögens
 
 Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2021, der diesem Gesetz als Anlage beigefügt und nach § 8 Absatz 1 Satz 1 des ERP-Verwaltungsgesetzes vom 26. Juni 2007 (BGBl. I S. 1160), geändert durch Artikel 246 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), aufgestellt worden ist, wird in Einnahmen und Ausgaben auf
 
@@ -14,18 +11,15 @@ Der Wirtschaftsplan des ERP-Sondervermögens für das Jahr 2021, der diesem Gese
 
 festgestellt.
 
-
-## § 2 – Ermächtigung zur Kreditaufnahme
+# § 2 – Ermächtigung zur Kreditaufnahme
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, Kredite bei der Kreditanstalt für Wiederaufbau bis zu der Höhe von 30 Prozent des in § 1 festgestellten Betrages aufzunehmen.
 
-
-## § 3 – Zulässige Mehrausgaben ohne Nachtragswirtschaftsplan
+# § 3 – Zulässige Mehrausgaben ohne Nachtragswirtschaftsplan
 
 Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unabweisbaren Bedürfnisses eine Mehrausgabe erforderlich (Artikel 112 des Grundgesetzes), so bedarf es keines Nachtragswirtschaftsplans, wenn die Mehrausgabe im Einzelfall einen Betrag von 5 000 000 Euro nicht überschreitet oder wenn Rechtsverpflichtungen zu erfüllen sind.
 
-
-## § 4 – Übernahme von Gewährleistungen
+# § 4 – Übernahme von Gewährleistungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen Bürgschaften, Garantien oder sonstige Gewährleistungen zur Förderung der gewerblichen Wirtschaft einschließlich der freien Berufe bis zu einem Gesamtbetrag von 3 000 000 000 Euro zu Lasten des ERP-Sondervermögens zu übernehmen.
 
@@ -35,23 +29,19 @@ Wird gegenüber dem ERP-Wirtschaftsplan infolge eines unvorhergesehenen und unab
 
 (4) Soweit das ERP-Sondervermögen ohne Inanspruchnahme von seiner Haftung frei wird oder Ersatz für erbrachte Leistungen erlangt hat, ist eine übernommene Gewährleistung auf den Höchstbetrag nicht mehr anzurechnen.
 
-
-## § 5 – Vom Verwendungszweck ausgenommene Beträge
+# § 5 – Vom Verwendungszweck ausgenommene Beträge
 
 Die in Kapitel 1 Titel 681 02 und 681 03 veranschlagten Beträge und Verpflichtungsermächtigungen sind von der Begrenzung der in § 2 des ERP-Verwaltungsgesetzes festgelegten Zweckbestimmung ausgenommen.
 
-
-## § 6 – Befristung
+# § 6 – Befristung
 
 Die §§ 2 bis 5 treten am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2022 außer Kraft.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2021 in Kraft.
 
-
-## Anlage – (zu § 1)Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
+# Anlage – (zu § 1)Wirtschaftsplan nach § 8 des ERP-Verwaltungsgesetzes vom 26. Juni 2007
 
 (Fundstelle: BGBl. I 2020, 2621 - 2635)
 

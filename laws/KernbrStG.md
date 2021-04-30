@@ -1,17 +1,13 @@
-# [KernbrStG] Kernbrennstoffsteuergesetz  (KernbrStG)
-
-Ausfertigungsdatum: 08.12.2010
-
+% Kernbrennstoffsteuergesetz  (KernbrStG)
+% Ausfertigungsdatum: 08.12.2010
  
-
-## § 1 – Steuergegenstand, Steuergebiet
+# § 1 – Steuergegenstand, Steuergebiet
 
 (1) Kernbrennstoff, der zur gewerblichen Erzeugung von elektrischem Strom verwendet wird, unterliegt im Steuergebiet der Kernbrennstoffsteuer. Die Kernbrennstoffsteuer ist eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
 (2) Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist:
 
@@ -33,13 +29,11 @@ auch in Verbindungen, Legierungen, keramischen Erzeugnissen und Mischungen;
 
 6. Betreiber: derjenige, der Inhaber einer Genehmigung zum Betrieb einer Anlage zur Spaltung von Kernbrennstoff zur gewerblichen Erzeugung von Elektrizität ist.
 
-
-## § 3 – Steuertarif
+# § 3 – Steuertarif
 
 Die Steuer für ein Gramm Plutonium 239, Plutonium 241, Uran 233 oder Uran 235 beträgt 145 Euro.
 
-
-## § 4 – Pflichten des Betreibers
+# § 4 – Pflichten des Betreibers
 
 (1) Wer eine Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität betreibt, hat dies dem zuständigen Hauptzollamt unverzüglich anzumelden. Das Hauptzollamt erteilt dem Betreiber einen schriftlichen Nachweis über die Anmeldung.
 
@@ -67,15 +61,13 @@ Das Hauptzollamt kann weitere Aufzeichnungen verlangen, wenn sie zur Sicherung d
 
 (5) Der Betreiber hat dem Hauptzollamt Änderungen der nach Absatz 2 angegebenen Verhältnisse sowie Überschuldung, drohende oder eingetretene Zahlungsunfähigkeit, Zahlungseinstellung und Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens unverzüglich schriftlich anzuzeigen, soweit das Hauptzollamt nicht darauf verzichtet.
 
-
-## § 5 – Entstehung der Steuer, Steuerschuldner
+# § 5 – Entstehung der Steuer, Steuerschuldner
 
 (1) Die Steuer entsteht dadurch, dass ein Brennelement oder einzelne Brennstäbe in einen Kernreaktor erstmals eingesetzt werden und eine sich selbsttragende Kettenreaktion ausgelöst wird. Der Austausch nachweislich defekter Brennstäbe führt nicht zur Steuer-entstehung.
 
 (2) Steuerschuldner ist der Betreiber.
 
-
-## § 6 – Steueranmeldung, Fälligkeit der Steuer
+# § 6 – Steueranmeldung, Fälligkeit der Steuer
 
 (1) Der Steuerschuldner hat für Kernbrennstoff, für den die Steuer nach § 5 Absatz 1 entstanden ist, bis zum 15. Tag des folgenden Monats eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer, die in einem Monat entstanden ist, ist am 25. Tag des folgenden Monats fällig.
 
@@ -83,23 +75,19 @@ Das Hauptzollamt kann weitere Aufzeichnungen verlangen, wenn sie zur Sicherung d
 
 (3) Für die nach § 5 entstehende Steuer kann das Hauptzollamt im Voraus Sicherheit verlangen, wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
 
-
-## § 7 – Auskunftspflicht des Herstellers der Brennelemente oder Brennstäbe
+# § 7 – Auskunftspflicht des Herstellers der Brennelemente oder Brennstäbe
 
 Der Hersteller von Brennelementen oder Brennstäben, die nach § 5 verwendet werden, hat dem Hauptzollamt die Auskünfte zu erteilen, die zur Sicherung und Nachprüfung der Besteuerung eines Betreibers erforderlich sind.
 
-
-## § 8 – Steueraufsicht
+# § 8 – Steueraufsicht
 
 Der Steueraufsicht im Sinn von § 209 der Abgabenordnung unterliegt der Betreiber einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität.
 
-
-## § 9 – Zuständiges Hauptzollamt
+# § 9 – Zuständiges Hauptzollamt
 
 Unbeschadet der Bestimmungen des § 27 der Abgabenordnung ist für den Anwendungsbereich dieses Gesetzes das Hauptzollamt örtlich zuständig, von dessen Bezirk aus die in den einzelnen Vorschriften jeweils bezeichnete Person ihr Unternehmen betreibt. Für Unternehmen, die von einem Ort außerhalb des Steuergebiets betrieben werden, ist das Hauptzollamt örtlich zuständig, in dessen Bezirk sie erstmals steuerlich in Erscheinung treten.
 
-
-## § 10 – Bußgeldvorschriften
+# § 10 – Bußgeldvorschriften
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -111,8 +99,7 @@ Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, 
 
 4. entgegen § 4 Absatz 5 eine Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anzeigt.
 
-
-## § 11 – Verordnungsermächtigung
+# § 11 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung dieses Gesetzes durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -122,12 +109,10 @@ Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, 
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Regelungen zur Ermittlung des in einem Brennelement oder Brennstab enthaltenen Kernbrennstoffanteils zu erlassen und dabei zur Vereinfachung Mengenschätzungen durch einen zugelassenen Sachverständigen zuzulassen, soweit eine genaue Ermittlung nur mit unvertretbarem Aufwand möglich ist.
 
-
-## § 12 – Anwendungsvorschrift
+# § 12 – Anwendungsvorschrift
 
 Das Gesetz ist auf Besteuerungsvorgänge anzuwenden, bei denen die sich selbsttragende Kettenreaktion vor dem 1. Januar 2017 ausgelöst wurde.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2011 in Kraft.

@@ -1,34 +1,27 @@
-# [AuslWBGDV 6] Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Belgien)
-
-Ausfertigungsdatum: 01.10.1953
-
+% Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Belgien)
+% Ausfertigungsdatum: 01.10.1953
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23 Abs. 5, des § 35 Abs. 2 und des § 76 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung:
 
-
-## § 1 – Geltungsbereich und Begriffsbestimmungen
+# § 1 – Geltungsbereich und Begriffsbestimmungen
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten oder bei einer Ergänzung (§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes), soweit Belgien als Begebungsland angegeben ist.
 
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der Auslandsbevollmächtigte" den für Belgien nach § 8 Abs. 1 des Gesetzes bestellten Auslandsbevollmächtigten sowie einen für ihn nach § 8 Abs. 7 des Gesetzes bestellten ständigen Vertreter.
 
-
-## § 2 – Hinterlegung der Bonds
+# § 2 – Hinterlegung der Bonds
 
 (1) Eine Hinterlegung von Auslandsbonds nach § 23 Abs. 2 des Gesetzes ist in Belgien nur bei einer Bank zulässig, die in der von der Belgischen Bankenkommission gemäß Artikel 2 der Königlich Belgischen Verordnung Nr. 185 vom 9. Juli 1935 veröffentlichten Liste verzeichnet ist.
 
 (2) Die Befugnis des Auslandsbevollmächtigten, nach § 23 Abs. 4 des Gesetzes im Einzelfall eine abweichende Regelung zuzulassen, bleibt unberührt; der Auslandsbevollmächtigte kann insbesondere zulassen, daß Auslandsbonds, die bei anderen Stellen als bei den in Absatz 1 genannten Banken hinterlegt sind, dort verbleiben, sofern eine Bescheinigung nach § 23 Abs. 2 des Gesetzes beigebracht wird.
 
-
-## § 3 – Verfahren bei der Anmeldung
+# § 3 – Verfahren bei der Anmeldung
 
 Für die Anmeldung soll der Vordruck verwendet werden, der vom Auslandsbevollmächtigten zur Verfügung gestellt wird.
 
-
-## § 4 – Gesetzliches Schiedsgericht
+# § 4 – Gesetzliches Schiedsgericht
 
 (1) Für die Nachprüfung ablehnender Entscheidungen des Auslandsbevollmächtigten wird nach § 35 des Gesetzes für Belgien ein Schiedsgericht eingerichtet.
 
@@ -38,8 +31,7 @@ Für die Anmeldung soll der Vordruck verwendet werden, der vom Auslandsbevollmä
 
 (4) Der Bundesminister der Finanzen kann die Ernennung der Schiedsrichter widerrufen, wenn sie ihre Amtspflichten gröblich verletzen. § 77 des Gesetzes gilt sinngemäß. Für die Ernennung eines Nachfolgers gilt Absatz 2.
 
-
-## § 5 – Verfahren vor dem gesetzlichen Schiedsgericht
+# § 5 – Verfahren vor dem gesetzlichen Schiedsgericht
 
 (1) Der Antrag auf schiedsgerichtliche Entscheidung ist bei dem Auslandsbevollmächtigten schriftlich einzureichen. Dem Antrag sind fünf Abschriften beizufügen.
 
@@ -51,17 +43,14 @@ Für die Anmeldung soll der Vordruck verwendet werden, der vom Auslandsbevollmä
 
 (5) Das Schiedsgericht stellt seine Entscheidung dem Auslandsbevollmächtigten und dem Anmelder zu. Der Auslandsbevollmächtigte benachrichtigt die Prüfstelle, den Aussteller sowie die Treuhänder und Zahlungsagenten von der Entscheidung.
 
-
-## § 6 – Zustellungen
+# § 6 – Zustellungen
 
 Zustellungen nach dem Gesetz oder nach dieser Verordnung können in Belgien gemäß § 70 Abs. 2 des Gesetzes durch eingeschriebenen Brief gegen Rückschein bewirkt werden.
 
-
-## § 7 – Land Berlin
+# § 7 – Land Berlin
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt diese Rechtsverordnung auch im Land Berlin.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

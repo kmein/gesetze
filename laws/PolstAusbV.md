@@ -1,32 +1,25 @@
-# [PolstAusbV] Verordnung über die Berufsausbildung zum Polsterer und zur Polsterin   (Polstererausbildungsverordnung - PolstAusbV)
-
-Ausfertigungsdatum: 20.05.2014
-
+% Verordnung über die Berufsausbildung zum Polsterer und zur Polsterin   (Polstererausbildungsverordnung - PolstAusbV)
+% Ausfertigungsdatum: 20.05.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Polsterers und der Polsterin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan
+# § 3 – Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
 (2) Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 4 – Struktur und Inhalte der Berufsausbildung
+# § 4 – Struktur und Inhalte der Berufsausbildung
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -70,8 +63,7 @@ Die Berufsausbildung dauert drei Jahre.
 
 7. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+# § 5 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -79,8 +71,7 @@ Die Berufsausbildung dauert drei Jahre.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -130,8 +121,7 @@ b) Vorpolstern und Beziehen eines Polsterteils;
 
 4. die Prüfungszeit beträgt insgesamt neun Stunden; innerhalb dieser Zeit soll das situative Fachgespräch höchstens 10 Minuten dauern und die Bearbeitungszeit für die schriftlichen Aufgaben 120 Minuten betragen.
 
-
-## § 7 – Abschlussprüfung
+# § 7 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
@@ -241,8 +231,7 @@ g) Prüftechniken und Qualitätskriterien anzuwenden;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+# § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -279,23 +268,19 @@ oder einer Matratze</td><td style="text-align: right;">mit 50 Prozent,</td></tr>
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 9 – Bestehende Berufsausbildungsverhältnisse
+# § 9 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2014 bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende die Zwischenprüfung noch nicht absolviert hat.
 
-
-## § 10 – Anrechnungsregelung
+# § 10 – Anrechnungsregelung
 
 Die erfolgreich abgeschlossene Berufsausbildung zum Polster- und Dekorationsnäher oder zur Polster- und Dekorationsnäherin kann im Umfang von zwei Jahren auf die Dauer einer Berufsausbildung nach dieser Verordnung angerechnet werden.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Polsterer/zur Polsterin in der Industrie vom 13. Februar 1997 (BGBl. I S. 246), die durch Artikel 2 der Verordnung vom 9. Mai 2005 (BGBl. I S. 1285) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer und zur Polsterin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Polsterer und zur Polsterin
 
 (Fundstelle: BGBl. I 2014, 543 - 547)
 

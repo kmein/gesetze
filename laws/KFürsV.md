@@ -1,10 +1,7 @@
-# [KFürsV] Verordnung zur Kriegsopferfürsorge  (KFürsV)
-
-Ausfertigungsdatum: 16.01.1979
-
+% Verordnung zur Kriegsopferfürsorge  (KFürsV)
+% Ausfertigungsdatum: 16.01.1979
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -358,13 +355,11 @@ Inkrafttreten
 
 § 61
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27f des Bundesversorgungsgesetzes in der Fassung der Bekanntmachung vom 22. Juni 1976 (BGBl. I S. 1633), der durch Artikel 1 Nr. 18 und 19 des Gesetzes vom 10. August 1978 (BGBl. I S. 1217) geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Allgemeine Bestimmungen
+# § 1 – Allgemeine Bestimmungen
 
 (1) Die Leistungen zur Teilhabe am Arbeitsleben nach § 26 des Bundesversorgungsgesetzes sind darauf auszurichten, durch Hilfen zur Erhaltung oder Erlangung einer der Eignung, Neigung und bisherigen Tätigkeit des Beschädigten entsprechenden beruflichen Tätigkeit die Folgen der Schädigung angemessen auszugleichen oder zu mildern. Sie umfassen auch Maßnahmen zur Vorbereitung der Arbeits- und Berufsförderung sowie Maßnahmen zur Sicherung der Teilhabe am Arbeitsleben.
 
@@ -388,8 +383,7 @@ Auf Grund des § 27f des Bundesversorgungsgesetzes in der Fassung der Bekanntmac
 
 (7) Wird eine Maßnahme zur Teilhabe am Arbeitsleben in Abschnitten durchgeführt, ist die Leistung für den jeweiligen Abschnitt festzustellen.
 
-
-## § 2 – Leistungen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur Förderung der Arbeitsaufnahme,  Leistungen an Arbeitgeber
+# § 2 – Leistungen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur Förderung der Arbeitsaufnahme,  Leistungen an Arbeitgeber
 
 (1) Hilfen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur Förderung der Arbeitsaufnahme sind insbesondere
 
@@ -415,13 +409,11 @@ Die Hilfen umfassen auch Leistungen an den Arbeitgeber.
 
 4. teilweise oder volle Kostenerstattung für eine befristete Probebeschäftigung, wenn dadurch die Möglichkeiten einer vollständigen und dauerhaften Teilhabe am Arbeitsleben verbessert werden oder nur dadurch eine vollständige und dauerhafte Teilhabe am Arbeitsleben zu erreichen ist.
 
-
-## § 3 – Klärung der beruflichen Eignung und Arbeitserprobung
+# § 3 – Klärung der beruflichen Eignung und Arbeitserprobung
 
 Durch Maßnahmen zur Klärung der beruflichen Eignung und Arbeitserprobung ist Beschädigten die Möglichkeit zu geben, eine ihrer Leistungsfähigkeit entsprechende berufliche Tätigkeit zu finden.
 
-
-## § 4 – Berufsvorbereitung
+# § 4 – Berufsvorbereitung
 
 (1) Durch Maßnahmen der Berufsvorbereitung ist Beschädigten der Zugang zur beruflichen Ausbildung oder Umschulung sowie zu einer beruflichen Tätigkeit zu ermöglichen oder zu erleichtern.
 
@@ -435,13 +427,11 @@ Durch Maßnahmen zur Klärung der beruflichen Eignung und Arbeitserprobung ist B
 
 4. blindentechnische und vergleichbare spezielle Grundausbildungen.
 
-
-## § 5 – Berufliche Anpassung
+# § 5 – Berufliche Anpassung
 
 Durch Maßnahmen der beruflichen Anpassung sind Beschädigten vor allem Fähigkeiten und Kenntnisse zu vermitteln, die notwendig sind, um die infolge der Schädigung eingetretenen Lücken im beruflichen Wissen zu schließen, berufliche Fertigkeiten wieder zu erlangen, Fähigkeiten und Fertigkeiten an die fortgeschrittene Entwicklung der Technik anzupassen oder einer anderen Tätigkeit im erlernten oder ausgeübten Beruf nachzugehen.
 
-
-## § 6 – Berufliche Weiterbildung
+# § 6 – Berufliche Weiterbildung
 
 (1) Die berufliche Weiterbildung soll Beschädigten mit abgeschlossener Berufsausbildung oder angemessener Berufserfahrung dazu verhelfen, berufliche Kenntnisse und Fertigkeiten festzustellen, zu erhalten oder zu erweitern.
 
@@ -449,20 +439,17 @@ Durch Maßnahmen der beruflichen Anpassung sind Beschädigten vor allem Fähigke
 
 (3) Die Leistungen zur beruflichen Weiterbildung umfassen auch Leistungen zum Aufstieg im Beruf. Leistungen sind zu erbringen, wenn den Beschädigten erst hierdurch die Erlangung einer angemessenen Lebensstellung ermöglicht wird. Im übrigen können sie erbracht werden, wenn die Beschädigten in ihrem beruflichen Fortkommen infolge der Schädigung benachteiligt sind und ihre Fähigkeiten eine berufliche Weiterbildung rechtfertigen.
 
-
-## § 7 – Berufliche Ausbildung
+# § 7 – Berufliche Ausbildung
 
 (1) Die berufliche Ausbildung soll den Beschädigten die notwendigen Fertigkeiten und Kenntnisse für die Ausübung einer ihren Kräften und Fähigkeiten angemessenen qualifizierten beruflichen Tätigkeit vermitteln.
 
 (2) Beschädigte erhalten Leistungen zur beruflichen Ausbildung, wenn sie infolge der Schädigung eine Berufsausbildung nicht beginnen, fortsetzen oder beenden konnten oder das Ausbildungsziel ändern müssen und ihnen durch die Änderung Mehraufwendungen für die berufliche Ausbildung entstehen, die ohne die Schädigung nicht entstanden wären. Leistungen zur beruflichen Ausbildung erhalten Beschädigte auch dann, wenn die angestrebte Ausbildung infolge der Schädigung nicht ohne besondere Maßnahmen durchgeführt werden kann.
 
-
-## § 8 – Berufliche Umschulung
+# § 8 – Berufliche Umschulung
 
 Die berufliche Umschulung soll Beschädigten, die infolge der Schädigung ihrem erlernten oder ausgeübten Beruf nicht mehr nachgehen können, Fähigkeiten und Kenntnisse vermitteln, die den Übergang in eine andere berufliche Tätigkeit ermöglichen. Der neue Beruf soll dem erlernten oder ausgeübten Beruf mindestens gleichwertig sein. Die Umschulung soll mit einem qualifizierenden Abschluß enden.
 
-
-## § 9 – Schulausbildung
+# § 9 – Schulausbildung
 
 (1) Beschädigte erhalten Leistungen
 
@@ -472,15 +459,13 @@ Die berufliche Umschulung soll Beschädigten, die infolge der Schädigung ihrem 
 
 (2) Leistungen zu sonstigen Maßnahmen zur Vermittlung schulischen Wissens erhalten Beschädigte, wenn ihnen wegen Art oder Schwere der Schädigung der Besuch einer allgemein- oder berufsbildenden Schule nicht möglich ist.
 
-
-## § 10 – Sonstige Leistungen zur Teilhabe am Arbeitsleben
+# § 10 – Sonstige Leistungen zur Teilhabe am Arbeitsleben
 
 (1) Sonstige Leistungen zur Teilhabe am Arbeitsleben sind alle Leistungen, die erforderlich sind, um die Teilhabe am Arbeitsleben zu erreichen oder zu sichern, soweit dies durch die Leistungen nach den §§ 2 bis 9 nicht oder nicht vollständig erreicht werden kann.
 
 (2) Zu den sonstigen Leistungen zur Teilhabe am Arbeitsleben gehören auch Hilfen zur Beschaffung, zur schädigungsbedingten Zusatzausstattung, zum Betrieb, zur Unterhaltung, zum Unterstellen und zum Abstellen eines Kraftfahrzeugs sowie zur Erlangung der Fahrerlaubnis, wenn der Beschädigte zur Erreichung seines Arbeitsplatzes infolge der Schädigung auf die Benutzung eines Kraftfahrzeugs angewiesen ist. Die Hilfen zur Beschaffung eines Kraftfahrzeugs, zu einer schädigungsbedingten Zusatzausstattung und zur Erlangung der Fahrerlaubnis richten sich nach der Kraftfahrzeughilfe-Verordnung.
 
-
-## § 11 – Gründung und Erhaltung einer selbständigen Existenz
+# § 11 – Gründung und Erhaltung einer selbständigen Existenz
 
 (1) Beschädigte erhalten Leistungen zur Gründung und Erhaltung einer selbständigen beruflichen Existenz, wenn sie
 
@@ -492,8 +477,7 @@ Die berufliche Umschulung soll Beschädigten, die infolge der Schädigung ihrem 
 
 (2) Zum Nachweis der Voraussetzungen nach Absatz 1 ist die Stellungnahme einer fachkundigen Stelle vorzulegen. Fachkundige Stellen sind insbesondere die Industrie- und Handelskammern, Handwerkskammern, berufsständische Kammern, Fachverbände und Kreditinstitute. Bestehen begründete Zweifel an den Kenntnissen und Fähigkeiten zur Ausübung der selbständigen Tätigkeit, kann die Teilnahme an Maßnahmen zur Eignungsfeststellung oder zur Vorbereitung der Existenzgründung verlangt werden; die Kosten für diese Maßnahmen werden als Beihilfe erstattet.
 
-
-## § 12 – Gegenstand der Förderung
+# § 12 – Gegenstand der Förderung
 
 Als Leistungen zur Teilhabe am Arbeitsleben kommen in Betracht
 
@@ -507,30 +491,25 @@ Als Leistungen zur Teilhabe am Arbeitsleben kommen in Betracht
 
 5. Vorbereitung auf den Erwerb des Doktorgrads, wenn die Promotion üblicherweise die einzige Abschlußprüfung darstellt oder Voraussetzung für die Habilitation ist und die Erreichung dieses Zieles auf Grund einer besonderen Befähigung der Doktoranden zu wissenschaftlicher Arbeit erwartet werden kann, oder wenn Beschädigte ohne den Doktorgrad im Wettbewerb mit Nichtbeschädigten benachteiligt wären oder der Erwerb des Doktorgrads in einem bestimmten akademischen Beruf allgemein üblich ist.
 
-
-## § 13 – Dauer der Förderung
+# § 13 – Dauer der Förderung
 
 Die Dauer der Förderung soll die übliche oder vorgeschriebene Ausbildungszeit nicht überschreiten, sofern nicht infolge der Schädigung eine längere Ausbildung geboten ist.
 
-
-## § 14 – Berufsfördernde Maßnahmen außerhalb des Geltungsbereichs des Bundesversorgungsgesetzes
+# § 14 – Berufsfördernde Maßnahmen außerhalb des Geltungsbereichs des Bundesversorgungsgesetzes
 
 Bei Beschädigten, die ihren gewöhnlichen Aufenthalt im Geltungsbereich des Bundesversorgungsgesetzes haben, können Leistungen zur Teilhabe am Arbeitsleben auch außerhalb des Geltungsbereichs des Bundesversorgungsgesetzes durchgeführt werden, wenn es der Erreichung des Zwecks der Maßnahme förderlich ist, dadurch die Dauer der Maßnahme nicht wesentlich verlängert wird und keine unvertretbaren Mehrkosten entstehen.
 
-
-## § 15 – Pauschalierte Abgeltung von Kosten
+# § 15 – Pauschalierte Abgeltung von Kosten
 
 Die Kosten im Sinne des § 49 Absatz 7 des Neunten Buches Sozialgesetzbuch können durch Pauschbeträge abgegolten werden.
 
-
-## § 16 – Unterhaltsbeihilfe
+# § 16 – Unterhaltsbeihilfe
 
 (1) Der Höchstbetrag der Unterhaltsbeihilfe nach § 26a Abs. 3 des Bundesversorgungsgesetzes bemisst sich entsprechend dem Unterhaltsbedarf nach § 21 Abs. 1 Satz 1 Nr. 1 oder Nr. 3.
 
 (2) Der Betrag zur Abgeltung zusätzlicher weiterer Bedürfnisse (§ 26a Abs. 3 Satz 3 des Bundesversorgungsgesetzes) soll den nach § 27b Absatz 2 des Zwölften Buches Sozialgesetzbuch von den zuständigen Landesbehörden festgesetzten Barbetrag nicht übersteigen.
 
-
-## § 17 – Förderungsmaßnahmen für Witwen, Witwer und hinterbliebene Lebenspartner
+# § 17 – Förderungsmaßnahmen für Witwen, Witwer und hinterbliebene Lebenspartner
 
 (1) Für Leistungen zur Teilhabe am Arbeitsleben für Witwen und Witwer gelten vorstehende Vorschriften entsprechend.
 
@@ -538,8 +517,7 @@ Die Kosten im Sinne des § 49 Absatz 7 des Neunten Buches Sozialgesetzbuch könn
 
 (3) Die Absätze 1 und 2 gelten für hinterbliebene Lebenspartner entsprechend.
 
-
-## § 18 – Gegenstand der Förderung
+# § 18 – Gegenstand der Förderung
 
 (1) Mit der Erziehungsbeihilfe nach § 27 des Bundesversorgungsgesetzes werden Maßnahmen der Erziehung sowie der Schul- und Berufsausbildung, in besonders begründeten Fällen auch Maßnahmen der beruflichen Weiterbildung im Sinne von § 6 Abs. 2 gefördert.
 
@@ -551,15 +529,13 @@ Die Kosten im Sinne des § 49 Absatz 7 des Neunten Buches Sozialgesetzbuch könn
 
 (5) Bei Auszubildenden, die ihren gewöhnlichen Aufenthalt im Geltungsbereich des Bundesversorgungsgesetzes haben, umfaßt die Erziehungsbeihilfe auch Ausbildungsmaßnahmen außerhalb des Geltungsbereichs des Bundesversorgungsgesetzes, wenn es der Erreichung des Ausbildungsziels förderlich ist, dadurch die Dauer der Förderung nicht wesentlich verlängert wird und keine unvertretbaren Mehrkosten entstehen.
 
-
-## § 19 – Dauer der Förderung
+# § 19 – Dauer der Förderung
 
 (1) Die Dauer der Förderung soll die übliche oder vorgeschriebene Ausbildungszeit nicht überschreiten. Wird die Ausbildung in Abschnitten durchgeführt, ist die Leistung für den jeweiligen Ausbildungsabschnitt festzustellen. Erziehungsbeihilfe ist bis zum Erwerb des Doktorgrads zu zahlen, wenn die Promotion üblicherweise die einzige Abschlußprüfung darstellt oder Voraussetzung für die Habilitation ist und die Erreichung dieses Zieles auf Grund einer besonderen Befähigung der Doktoranden zu wissenschaftlicher Arbeit erwartet werden kann.
 
 (2) Kann eine Ausbildungsmaßnahme aus Gründen, die Auszubildende nicht zu vertreten haben, nicht zu dem in Aussicht genommenen Ziel geführt werden, sind weitere Maßnahmen nicht ausgeschlossen.
 
-
-## § 20 – Erziehungs- und Ausbildungsbedarf
+# § 20 – Erziehungs- und Ausbildungsbedarf
 
 (1) Bei Maßnahmen der Erziehung ist als Bedarf der infolge der Schädigung oder des Verlustes eines Elternteils notwendige besondere Bedarf für die Erziehung anzuerkennen.
 
@@ -581,8 +557,7 @@ Die Kosten im Sinne des § 49 Absatz 7 des Neunten Buches Sozialgesetzbuch könn
 
 Die Kosten nach Satz 1 Nr. 1, 2, 4 und 7 können durch Pauschbeträge abgegolten werden.
 
-
-## § 21 – Unterhaltsbedarf
+# § 21 – Unterhaltsbedarf
 
 (1) Der Bedarf für den Lebensunterhalt Auszubildender während der Erziehung und Ausbildung umfaßt
 
@@ -596,18 +571,15 @@ Ein etwaiger Sonderbedarf ist in die Bedarfsberechnung mit aufzunehmen.
 
 (2) In den Fällen des § 18 Abs. 3 umfaßt der Bedarf nur den besonderen Aufwand; bei der Festsetzung der Einkommensgrenze des § 25e Abs. 1 des Bundesversorgungsgesetzes ist für das Kind oder die Waise ein Familienzuschlag anzusetzen.
 
-
-## § 22 – Leistungen für weitere Auszubildende
+# § 22 – Leistungen für weitere Auszubildende
 
 Bei der Entscheidung über die Leistung von Erziehungsbeihilfe für weitere Auszubildende ist die Erziehungsbeihilfe für alle Leistungsfälle neu zu berechnen; das gilt nicht für die Fälle des § 18 Abs. 3.
 
-
-## § 23 – Erhöhung des Einkommens
+# § 23 – Erhöhung des Einkommens
 
 Wegen einer Erhöhung des Einkommens darf die Erziehungsbeihilfe während eines Ausbildungsabschnitts nicht entzogen oder gekürzt werden, wenn sich das monatliche Einkommen um nicht mehr als 26 Euro gegenüber dem nach § 25d des Bundesversorgungsgesetzes bei der Bewilligung berücksichtigten monatlichen Einkommen erhöht hat.
 
-
-## § 24 – Freibetrag für Erwerbstätigkeit
+# § 24 – Freibetrag für Erwerbstätigkeit
 
 (1) Bei der ergänzenden Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes ist für Erwerbstätige, vor allem wenn sie trotz beschränkten Leistungsvermögens einem Erwerb nachgehen, ein Freibetrag in angemessener Höhe anzuerkennen. Satz 1 gilt auch bei einer Unterbrechung der Erwerbstätigkeit bis zu 6 Monaten, wenn das Arbeitsverhältnis fortbesteht und bis zur Unterbrechung der Erwerbstätigkeit ein Freibetrag anerkannt war.
 
@@ -631,8 +603,7 @@ Wegen einer Erhöhung des Einkommens darf die Erziehungsbeihilfe während eines 
 
 (6) Der in den Fällen des Absatzes 3 anzuerkennende Freibetrag soll bei Sonderfürsorgeberechtigten 175 vom Hundert, im übrigen 125 vom Hundert der Regelbedarfsstufe 1 nicht übersteigen.
 
-
-## § 25 – Nachweis der Voraussetzungen
+# § 25 – Nachweis der Voraussetzungen
 
 (1) Die Notwendigkeit und Zweckmäßigkeit einer Erholungsmaßnahme nach § 27b des Bundesversorgungsgesetzes sind durch ärztliches Zeugnis nachzuweisen. Bei Beschädigten mit einem Grad der Schädigungsfolgen von weniger als 50 muss der Zusammenhang zwischen Erholungsbedürftigkeit und anerkannten Schädigungsfolgen gesondert ärztlich begründet werden.
 
@@ -642,13 +613,11 @@ Wegen einer Erhöhung des Einkommens darf die Erziehungsbeihilfe während eines 
 
 2. einen Ausweis nach § 152 Absatz 5 des Neunten Buches Sozialgesetzbuch mit einem Vermerk nach § 3 Absatz 2 der Schwerbehindertenausweisverordnung.
 
-
-## § 26 – Erholungsbedingte Aufwendungen
+# § 26 – Erholungsbedingte Aufwendungen
 
 Zusätzliche geringfügige Aufwendungen, die Erholungsuchenden durch die Erholungsmaßnahme entstehen, sind je Erholungstag mit einem Pauschbetrag in Höhe von 1,5 vom Hundert der Regelbedarfsstufe 1 abzugelten; der Gesamtbetrag der Pauschbeträge ist auf volle Euro aufzurunden. Neben dem Pauschbetrag sind Kosten für Gepäckbeförderung und Kurtaxe als Bedarf zu berücksichtigen. Sonstige Aufwendungen für Gegenstände, die üblicherweise für einen Gebrauch über den Zeitraum des Erholungsaufenthalts hinaus bestimmt sind, gehören nicht zum Bedarf nach § 27b des Bundesversorgungsgesetzes, auch wenn die Gegenstände anläßlich der Erholungsmaßnahme beschafft werden.
 
-
-## § 27 – Geldleistungen
+# § 27 – Geldleistungen
 
 Geldleistungen der Wohnungshilfe nach § 27c des Bundesversorgungsgesetzes erhalten
 
@@ -668,8 +637,7 @@ wenn sie die Hilfe innerhalb von fünf Jahren nach ihrem erstmaligen Eintreffen 
 
 sofern eine Geldleistung durch die Besonderheit des Einzelfalls gerechtfertigt ist. In den Fällen des Satzes 1 Nr. 3 Buchstaben a und b kommt eine Leistung vor allem in Betracht, wenn die Wohnraumbeschaffung zur Erlangung oder Erhaltung eines Arbeitsplatzes notwendig ist.
 
-
-## § 28 – Eingliederungshilfe
+# § 28 – Eingliederungshilfe
 
 (1) Beschädigte erhalten als Hilfen in besonderen Lebenslagen nach § 27d Abs. 1 Nr. 3 des Bundesversorgungsgesetzes auch
 
@@ -679,8 +647,7 @@ sofern eine Geldleistung durch die Besonderheit des Einzelfalls gerechtfertigt i
 
 (2) Die gesundheitlichen Voraussetzungen für die Leistungen nach Absatz 1 Nr. 2 gelten bei Beschädigten als erfüllt, die zum Personenkreis des § 23 Abs. 1 der Orthopädieverordnung in der jeweils geltenden Fassung gehören. Im Übrigen sind sie durch ärztliches Zeugnis nachzuweisen.
 
-
-## § 28a – Hilfe zum Aufbau oder zur Sicherung der Lebensgrundlage
+# § 28a – Hilfe zum Aufbau oder zur Sicherung der Lebensgrundlage
 
 (1) Leistungsberechtigte, bei denen die ausreichende wirtschaftliche Lebensgrundlage fehlt oder gefährdet ist, können Leistungen nach § 27d Abs. 1 Nr. 1 des Bundesversorgungsgesetzes zum Aufbau oder zur Sicherung einer Lebensgrundlage durch eigene Tätigkeit erhalten.
 
@@ -688,15 +655,13 @@ sofern eine Geldleistung durch die Besonderheit des Einzelfalls gerechtfertigt i
 
 (3) Die Voraussetzungen nach § 11 gelten entsprechend.
 
-
-## § 29 – Leistungen an Sonderfürsorgeberechtigte
+# § 29 – Leistungen an Sonderfürsorgeberechtigte
 
 (1) Die Leistungen der Kriegsopferfürsorge an Beschädigte, die zu dem Personenkreis des § 27e des Bundesversorgungsgesetzes gehören (Sonderfürsorgeberechtigte), sind der Schwere und Eigenart der Schädigung anzupassen und mit Rücksicht auf die jeweils erschwerten Lebensbedingungen Beschädigter und ihrer Familien in Ausmaß und Dauer besonders wirksam zu gestalten.
 
 (2) Sofern sich die Zugehörigkeit Beschädigter zu dem Personenkreis der Sonderfürsorgeberechtigten aus dem Bescheid der nach Landesrecht zuständigen Stelle nicht ergibt, stellt diese ihnen auf ihren Antrag eine Bescheinigung zum Nachweis ihrer Zugehörigkeit zu den Sonderfürsorgeberechtigten aus.
 
-
-## § 30 – Einkommen
+# § 30 – Einkommen
 
 (1) Einkommen im Sinne des § 25d Abs. 1 des Bundesversorgungsgesetzes sind alle Einkünfte in Geld oder Geldeswert ohne Rücksicht auf ihre Quelle und Rechtsnatur, soweit nicht das Bundesversorgungsgesetz, diese Verordnung oder andere Rechtsvorschriften vorschreiben, daß bestimmte Einkünfte bei der Feststellung von Leistungen der Kriegsopferfürsorge nicht zum Einkommen gehören. Dabei ist es unerheblich, ob sie zu den Einkünften des Einkommensteuergesetzes gehören und ob sie der Steuerpflicht unterliegen.
 
@@ -704,8 +669,7 @@ sofern eine Geldleistung durch die Besonderheit des Einzelfalls gerechtfertigt i
 
 1. ein der Grundrente und der Schwerstbeschädigtenzulage entsprechender Betrag, wenn anstelle von Grundrente oder Schwerstbeschädigtenzulage ein Ausgleich nach § 89 des Bundesversorgungsgesetzes gewährt wird; entsprechendes gilt in den übrigen Fällen des § 25d Abs. 1 Satz 2 des Bundesversorgungsgesetzes sowie in den Fällen des § 25d Abs. 1 Satz 3 des Bundesversorgungsgesetzes,
 
-1a.  
-ein der Grundrente und der Schwerstbeschädigtenzulage entsprechender Betrag, wenn die Versorgungsbezüge nach § 35 Abs. 6 des Bundesversorgungsgesetzes auf die Kosten der stationären Pflege angerechnet werden; der freizulassende Betrag darf denjenigen bei einer ausschließlichen Kostenübernahme nach § 35 Abs. 6 des Bundesversorgungsgesetzes nicht übersteigen,
+1a. ein der Grundrente und der Schwerstbeschädigtenzulage entsprechender Betrag, wenn die Versorgungsbezüge nach § 35 Abs. 6 des Bundesversorgungsgesetzes auf die Kosten der stationären Pflege angerechnet werden; der freizulassende Betrag darf denjenigen bei einer ausschließlichen Kostenübernahme nach § 35 Abs. 6 des Bundesversorgungsgesetzes nicht übersteigen,
 
 2. Wohngeld, es sei denn, bei der Feststellung von Leistungen der Kriegsopferfürsorge sind Kosten der Unterkunft zu berücksichtigen,
 
@@ -717,8 +681,7 @@ ein der Grundrente und der Schwerstbeschädigtenzulage entsprechender Betrag, we
 
 (3) Kindergeld oder Leistungen im Sinne des § 4 Abs. 1 Satz 1 Nr. 1 des Bundeskindergeldgesetzes sowie Kinderzuschlag und Zuschlag nach § 33b Abs. 1 und 6 des Bundesversorgungsgesetzes gelten als Einkommen desjenigen, in dessen Person der Anspruch auf diese Leistungen besteht; werden sie für Stiefkinder gezahlt, gelten sie als Einkommen des Stiefkinds.
 
-
-## § 31 – Bewertung von Sachbezügen
+# § 31 – Bewertung von Sachbezügen
 
 (1) Für die Bewertung von Sachbezügen gilt § 3 Abs. 1, 2 und 4 der Ausgleichsrentenverordnung.
 
@@ -726,8 +689,7 @@ ein der Grundrente und der Schwerstbeschädigtenzulage entsprechender Betrag, we
 
 (3) Absatz 1 gilt nicht, soweit durch den Wert eines Sachguts die Höhe einer Geldleistung festgelegt wird oder ein Sachbezug nach Art und Menge nicht zum Verbrauch durch den Berechtigten, sondern zur Erzielung eines Geldbetrags bestimmt ist. Als Einkommen ist die Geldleistung oder der erzielte Geldbetrag anzusetzen.
 
-
-## § 32 – Einkünfte aus nichtselbständiger Arbeit
+# § 32 – Einkünfte aus nichtselbständiger Arbeit
 
 (1) Welche Einkünfte zu den Einkünften aus nichtselbständiger Arbeit gehören, bestimmt sich nach § 19 Abs. 1 Nr. 1 des Einkommensteuergesetzes.
 
@@ -763,8 +725,7 @@ für jeden vollen Kilometer, den die Wohnung von der Arbeitsstätte entfernt lie
 
 (7) Sind Einkommensbezieher außerhalb des Ortes beschäftigt, an dem sie einen eigenen Hausstand unterhalten, und können ihnen weder der Umzug noch die tägliche Rückkehr an den Ort des eigenen Hausstandes zugemutet werden, sind die durch Führung des doppelten Haushalts nachweislich entstehenden Mehraufwendungen sowie die unter Ausnutzung bestehender Tarifvergünstigungen entstehenden Aufwendungen für Fahrtkosten der zweiten Wagenklasse für eine Familienheimfahrt im Kalendermonat abzusetzen. Ein eigener Hausstand ist dann anzunehmen, wenn Einkommensbezieher eine Wohnung mit eigener oder selbstbeschaffter Möbelausstattung besitzen. Eine doppelte Haushaltsführung kann auch dann anerkannt werden, wenn Einkommensbezieher nachweislich ganz oder überwiegend die Kosten für einen Haushalt tragen, den sie gemeinsam mit nächsten Angehörigen führen.
 
-
-## § 33 – Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
+# § 33 – Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
 
 (1) Welche Einkünfte zu den Einkünften aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit gehören, bestimmt sich nach § 13 Abs. 1 und 2, § 15 Abs. 1 und § 18 Abs. 1 des Einkommensteuergesetzes; der Nutzungswert der Wohnung im eigenen Haus bleibt unberücksichtigt.
 
@@ -776,13 +737,11 @@ für jeden vollen Kilometer, den die Wohnung von der Arbeitsstätte entfernt lie
 
 (5) Findet eine Veranlagung zur Einkommensteuer nicht statt, haben Leistungsberechtigte die Gewinne nachzuweisen. Sind sie hierzu nicht in der Lage, sind die Gewinne im Benehmen mit dem Finanzamt zu schätzen.
 
-
-## § 34 – Einkünfte von Land- und Forstwirten, deren Gewinn nach Durchschnittsätzen ermittelt wird
+# § 34 – Einkünfte von Land- und Forstwirten, deren Gewinn nach Durchschnittsätzen ermittelt wird
 
 Die Berechnung der Einkünfte von Land- und Forstwirten, deren Gewinn auf Grund von Vorschriften des Einkommensteuerrechts nach Durchschnittsätzen zu ermitteln ist, richtet sich nach § 9 der Verordnung zur Durchführung des § 33 des Bundesversorgungsgesetzes mit der Maßgabe, daß ein Nutzungswert der Wohnung im eigenen Haus nicht anzusetzen und § 9 Abs. 9 Satz 2 der vorgenannten Verordnung nicht anzuwenden ist.
 
-
-## § 35 – Einkünfte aus Kapitalvermögen
+# § 35 – Einkünfte aus Kapitalvermögen
 
 (1) Welche Einkünfte zu den Einkünften aus Kapitalvermögen gehören, bestimmt sich nach § 20 Abs. 1 bis 3 des Einkommensteuergesetzes.
 
@@ -792,8 +751,7 @@ Die Berechnung der Einkünfte von Land- und Forstwirten, deren Gewinn auf Grund 
 
 (4) Einkünfte im Sinne des Absatzes 2 bleiben unberücksichtigt, wenn sie insgesamt jährlich 50 Euro nicht übersteigen.
 
-
-## § 36 – Einkünfte aus Vermietung und Verpachtung
+# § 36 – Einkünfte aus Vermietung und Verpachtung
 
 (1) Welche Einkünfte zu den Einkünften aus Vermietung und Verpachtung gehören, bestimmt sich nach § 21 Abs. 1 und 3 des Einkommensteuergesetzes.
 
@@ -828,8 +786,7 @@ der Roheinnahmen. Dies gilt nicht, wenn geringere Einkünfte nachgewiesen werden
 
 (7) Die Einkünfte sind als Jahreseinkünfte, bei der Vermietung von möblierten Wohnungen und von Zimmern jedoch als Monatseinkünfte zu berechnen. Sind sie als Jahreseinkünfte zu berechnen, gilt § 35 Abs. 3 entsprechend.
 
-
-## § 37 – Andere Einkünfte
+# § 37 – Andere Einkünfte
 
 (1) Andere als die in den §§ 32 bis 36 genannten Einkünfte sind, wenn sie nicht monatlich oder wenn sie monatlich in unterschiedlicher Höhe erzielt werden, als Jahreseinkünfte zu berechnen. Zu den anderen Einkünften im Sinne des Satzes 1 gehören auch die in § 19 Abs. 1 Nr. 2 des Einkommensteuergesetzes genannten Bezüge sowie Renten und sonstige wiederkehrende Bezüge.
 
@@ -837,30 +794,25 @@ der Roheinnahmen. Dies gilt nicht, wenn geringere Einkünfte nachgewiesen werden
 
 (3) Sind die Einkünfte als Jahreseinkünfte zu berechnen, gilt § 35 Abs. 3 entsprechend.
 
-
-## § 38 – Einkommensberechnung in besonderen Fällen
+# § 38 – Einkommensberechnung in besonderen Fällen
 
 Ist der Bedarf einmalig oder nur von kurzer Dauer und duldet die Entscheidung über die Hilfe keinen Aufschub, kann der Träger der Kriegsopferfürsorge nach Anhörung der Einkommensbezieher die Einkünfte schätzen.
 
-
-## § 39 – Verlustausgleich
+# § 39 – Verlustausgleich
 
 Ein Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht vorzunehmen. In Härtefällen kann jedoch die jeweilige wirtschaftliche Lage der Einkommensbezieher berücksichtigt werden.
 
-
-## § 40 – Maßgebender Zeitraum
+# § 40 – Maßgebender Zeitraum
 
 (1) Soweit die Einkünfte als Jahreseinkünfte berechnet werden, gilt der zwölfte Teil dieser Einkünfte zusammen mit den monatlich berechneten Einkünften als monatliches Einkommen.
 
 (2) Ist der Betrieb oder die sonstige Grundlage der als Jahreseinkünfte zu berechnenden Einkünfte nur während eines Teils des Jahres vorhanden oder zur Einkommenserzielung genutzt, sind die Einkünfte aus der betreffenden Einkunftsart nur für diesen Zeitraum zu berechnen; für ihn gilt als monatliches Einkommen derjenige Teil der Einkünfte, der der Anzahl der in den genannten Zeitraum fallenden Monate entspricht. Satz 1 gilt nicht für Einkünfte aus Saisonbetrieben und andere ihrer Natur nach auf einen Teil des Jahres beschränkte Einkünfte, wenn die Einkünfte den Hauptbestandteil des Einkommens bilden.
 
-
-## § 41 – Einzelfallprüfung
+# § 41 – Einzelfallprüfung
 
 Die Feststellung, ob und inwieweit Einkommen und Vermögen aus Billigkeitsgründen im Sinne des § 25c Abs. 3 des Bundesversorgungsgesetzes nicht einzusetzen ist, richtet sich nach der Besonderheit des Einzelfalls. Hierbei sind vor allem die in den §§ 42 bis 47 aufgeführten Billigkeitsgründe zu berücksichtigen.
 
-
-## § 42 – Geminderte Lebensstellung
+# § 42 – Geminderte Lebensstellung
 
 (1) Zum allgemeinen Ausgleich der durch die Schädigung geminderten Lebensstellung ist vom einzusetzenden Einkommen ein Freibetrag abzusetzen, der folgenden Anteil des Bemessungsbetrags nach § 33 Absatz 1 Satz 2 Buchstabe a des Bundesversorgungsgesetzes beträgt:
 
@@ -882,13 +834,11 @@ Die Feststellung, ob und inwieweit Einkommen und Vermögen aus Billigkeitsgründ
 
 (4) Bei Eltern ist vom einzusetzenden Einkommen neben dem Freibetrag nach Absatz 1 für einen Elternteil ein Freibetrag in Höhe von 0,33 vom Hundert des Bemessungsbetrags und für ein Elternpaar ein Freibetrag in Höhe des Zweifachen des Freibetrags für einen Elternteil abzusetzen. Satz 1 findet keine Anwendung bei der ergänzenden Hilfe zum Lebensunterhalt, soweit ein Freibetrag für Erwerbstätige nach § 24 anzuerkennen ist.
 
-
-## § 43 – Art und Schwere der Schädigung
+# § 43 – Art und Schwere der Schädigung
 
 Bei Beschädigten, die wegen Art oder Schwere der Folgen der Schädigung zu dem Personenkreis des § 27e des Bundesversorgungsgesetzes gehören (Sonderfürsorgeberechtigte), ist vom einzusetzenden Einkommen ein zusätzlicher Freibetrag in Höhe von 0,5 vom Hundert, bei Empfängern von Pflegezulage nach § 35 des Bundesversorgungsgesetzes mindestens der Stufe III bis zu 1 vom Hundert und bei sonstigen Pflegezulageempfängern in Höhe von 0,75 vom Hundert des Bemessungsbetrags abzusetzen. § 42 bleibt unberührt.
 
-
-## § 44 – Ausschluss des Einsatzes von Vermögen
+# § 44 – Ausschluss des Einsatzes von Vermögen
 
 (1) Bei Barvermögen und sonstigen Geldwerten ist zum allgemeinen Ausgleich der geminderten Lebensstellung der jeweilige gesetzliche Schonbetrag wie folgt zu erhöhen:
 
@@ -912,8 +862,7 @@ des entsprechenden gesetzlichen Schonbetrages.
 
 (3) Die Erhöhungsbeträge nach Absatz 1 und 2 sind nebeneinander zu berücksichtigen.
 
-
-## § 45 – Besondere Tatkraft bei Erzielung von Erwerbseinkommen
+# § 45 – Besondere Tatkraft bei Erzielung von Erwerbseinkommen
 
 (1) Sind Beschädigte, Witwen, Witwer, hinterbliebene Lebenspartner oder Waisen erwerbstätig, ist zum Ausgleich der besonderen Tatkraft bei Erzielung von Erwerbseinkommen vom einzusetzenden Einkommen ein der Art oder Schwere der Folgen der Schädigung angemessener Freibetrag abzusetzen. Satz 1 gilt auch bei einer Unterbrechung der Erwerbstätigkeit bis zu 6 Monaten, wenn das Arbeitsverhältnis fortbesteht und bis zur Unterbrechung der Erwerbstätigkeit ein Freibetrag abgesetzt war.
 
@@ -945,23 +894,19 @@ des diesen Betrag übersteigenden Erwerbseinkommens.
 
 (5) Ein Freibetrag nach Absatz 2 ist nicht abzusetzen vom einzusetzenden Einkommen, das Waisen und Kinder Beschädigter bei der Erziehungsbeihilfe nach § 27 des Bundesversorgungsgesetzes beziehen, sowie vom einzusetzenden Einkommen bei der ergänzenden Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes und bei den Hilfen in besonderen Lebenslagen nach § 27d des Bundesversorgungsgesetzes, die den Lebensunterhalt umfassen.
 
-
-## § 46 – Besondere wirtschaftliche Belastungen
+# § 46 – Besondere wirtschaftliche Belastungen
 
 Aufwendungen, die die Leistungsberechtigten wirtschaftlich besonders belasten und nicht durch Leistungen der Kriegsopferfürsorge oder durch Leistungen nach anderen Rechtsvorschriften gedeckt werden können, können vom einzusetzenden Einkommen der Leistungsberechtigten in angemessenem Umfang abgesetzt werden.
 
-
-## § 47 – Dauer des Bedarfs
+# § 47 – Dauer des Bedarfs
 
 Bei Leistungen der Kriegsopferfürsorge für einen Zeitraum von mehr als 6 Monaten kann vom einzusetzenden Einkommen ein Betrag in Höhe von 0,6 vom Hundert des Bemessungsbetrags abgesetzt werden. Das gilt nicht bei der Erziehungsbeihilfe nach § 27 des Bundesversorgungsgesetzes, bei der ergänzenden Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes und bei den Hilfen in besonderen Lebenslagen nach § 27d des Bundesversorgungsgesetzes, die den Lebensunterhalt umfassen.
 
-
-## § 48 – Besonderheiten bei Aufenthalt in Einrichtungen
+# § 48 – Besonderheiten bei Aufenthalt in Einrichtungen
 
 Bei Aufenthalt in einer stationären oder teilstationären Einrichtung sind Freibeträge nach § 42 Abs. 1 und 2, § 43 und §§ 45 bis 47 sowie Erhöhungsbeträge nach § 44 nur in besonders begründeten Fällen zuzuerkennen.
 
-
-## § 49 – Überwiegender Unterhalt
+# § 49 – Überwiegender Unterhalt
 
 (1) Ehegatten oder Lebenspartner werden von Leistungsberechtigten überwiegend unterhalten im Sinne des § 25e Abs. 1 Nr. 3 des Bundesversorgungsgesetzes, wenn die Leistungsberechtigten zu deren Lebensunterhalt mehr als die Hälfte beitragen. Entsprechendes gilt für weitere Personen, wenn sie überwiegend unterhalten werden:
 
@@ -975,8 +920,7 @@ Bei Aufenthalt in einer stationären oder teilstationären Einrichtung sind Frei
 
 (2) Personen, deren Einkommen einen Betrag in Höhe des Familienzuschlags nach § 25e Abs. 1 Nr. 3 des Bundesversorgungsgesetzes zuzüglich des auf sie entfallenden Anteils an den Kosten der Unterkunft nicht übersteigt, gelten als überwiegend unterhalten.
 
-
-## § 50 – Einkommens- und Vermögenseinsatz bei Leistungen für Familienmitglieder
+# § 50 – Einkommens- und Vermögenseinsatz bei Leistungen für Familienmitglieder
 
 (1) Bei der Feststellung von Leistungen an Beschädigte für Familienmitglieder ist Einkommen des Familienmitglieds zur Deckung seines anzuerkennenden Bedarfs vorrangig einzusetzen. Einkommen des Familienmitglieds ist nur insoweit einzusetzen, als es einen Betrag in Höhe des Familienzuschlags nach § 25e Abs. 1 Nr. 3 des Bundesversorgungsgesetzes zuzüglich des auf das Familienmitglied entfallenden Anteils an den Kosten der Unterkunft übersteigt; das gilt nicht bei Aufenthalt des Familienmitglieds in einer stationären Einrichtung, bei der Erziehungsbeihilfe nach § 27 des Bundesversorgungsgesetzes und bei der ergänzenden Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes.
 
@@ -984,13 +928,11 @@ Bei Aufenthalt in einer stationären oder teilstationären Einrichtung sind Frei
 
 (3) Für den Einsatz und für die Verwertung von Vermögen des Familienmitglieds ist § 25f Abs. 1 und 2 des Bundesversorgungsgesetzes entsprechend anzuwenden mit der Maßgabe, daß kleinere Barbeträge oder sonstige Geldwerte nur einzusetzen sind, soweit sie zusammen mit den kleineren Barbeträgen und sonstigen Geldwerten der Beschädigten die in § 25f Abs. 2 des Bundesversorgungsgesetzes genannten Beträge übersteigen. Steht das Wohneigentum den Leistungsberechtigten gemeinschaftlich mit Familienangehörigen zu, gilt § 25f Abs. 3 des Bundesversorgungsgesetzes auch für den Anteil des Familienmitglieds.
 
-
-## § 51 – Einschränkung der Leistung; Kürzung der Leistung
+# § 51 – Einschränkung der Leistung; Kürzung der Leistung
 
 Haben Leistungsberechtigte nach Eintritt der Geschäftsfähigkeit ihr Einkommen oder Vermögen in der Absicht vermindert, die Voraussetzungen für die Erbringung oder Erhöhung von Leistungen der Kriegsopferfürsorge herbeizuführen, können die Leistungen unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen bis auf den zur Erreichung des Zwecks der Hilfe im Einzelfall unerläßlichen Umfang eingeschränkt werden. Für die ergänzende Hilfe zum Lebensunterhalt nach § 27a des Bundesversorgungsgesetzes gelten § 26 Abs. 1 und § 39a des Zwölften Buches Sozialgesetzbuch und für die Hilfen in besonderen Lebenslagen nach § 27d des Bundesversorgungsgesetzes § 26 Abs. 4 des Zwölften Buches Sozialgesetzbuch unter Berücksichtigung der besonderen Lage der Beschädigten oder Hinterbliebenen entsprechend.
 
-
-## § 52 – Rundungsvorschriften
+# § 52 – Rundungsvorschriften
 
 (1) Bei der Feststellung der Einkommensgrenze sind die Beträge nach § 25e Abs. 1 Nr. 1 bis 3 des Bundesversorgungsgesetzes und § 27d Abs. 5 des Bundesversorgungsgesetzes jeweils auf volle Euro zu runden. Entsprechendes gilt für die Feststellung des Höchstbetrags der Einkommensgrenze nach § 25e Abs. 1 des Bundesversorgungsgesetzes und der kleineren Barbeträge und sonstigen Geldwerte nach § 25f Abs. 2 und Absatz 4 des Bundesversorgungsgesetzes.
 
@@ -1002,8 +944,7 @@ Haben Leistungsberechtigte nach Eintritt der Geschäftsfähigkeit ihr Einkommen 
 
 (5) Die Erhöhungsbeträge nach § 44 sind auf den nächst höheren durch 50 Euro teilbaren Betrag aufzurunden.
 
-
-## § 53 – Örtliche Zuständigkeit
+# § 53 – Örtliche Zuständigkeit
 
 (1) Für Leistungen der Kriegsopferfürsorge ist örtlich zuständig die für die Durchführung der Kriegsopferfürsorge sachlich zuständige Stelle, in deren Bereich Leistungsberechtigte ihren gewöhnlichen Aufenthalt haben. Bei Aufnahme in eine stationäre Einrichtung gilt als gewöhnlicher Aufenthalt derjenige, den Leistungsberechtigte im Zeitpunkt der Aufnahme in die Einrichtung haben oder in den zwei Monaten vor der Aufnahme zuletzt gehabt hatten. Treten Leistungsberechtigte aus einer stationären Einrichtung in eine andere Einrichtung oder von dort in weitere Einrichtungen über, gilt als gewöhnlicher Aufenthalt derjenige, der für die erste Einrichtung maßgebend ist. Ist ein gewöhnlicher Aufenthalt nicht vorhanden, richtet sich die örtliche Zuständigkeit nach dem Ort des tatsächlichen Aufenthalts der Leistungsberechtigten im Geltungsbereich des Bundesversorgungsgesetzes.
 
@@ -1013,35 +954,29 @@ Haben Leistungsberechtigte nach Eintritt der Geschäftsfähigkeit ihr Einkommen 
 
 (4) Haben Leistungsberechtigte ihren gewöhnlichen Aufenthalt außerhalb des Geltungsbereichs des Bundesversorgungsgesetzes, ist örtlich zuständig die Hauptfürsorgestelle, in deren Bereich sich die Versorgungsverwaltung befindet, die nach der Auslandszuständigkeitsverordnung in der jeweils gültigen Fassung für die Versorgung der Leistungsberechtigten zuständig ist. Absatz 1 Satz 4 und Absatz 2 Satz 2 finden keine Anwendung. Ziehen Leistungsberechtigte nach Satz 1 in den Geltungsbereich des Bundesversorgungsgesetzes, ist die für die Durchführung der Kriegsopferfürsorge sachlich zuständige Stelle örtlich zuständig, in deren Bereich sich die Leistungsberechtigten tatsächlich aufhalten.
 
-
-## § 54 – Dauer der Leistungen, Leistungen von Amts wegen
+# § 54 – Dauer der Leistungen, Leistungen von Amts wegen
 
 (1) § 60 Abs. 1, 2 und 4 und § 61 Buchstabe a des Bundesversorgungsgesetzes gelten für Leistungen der Kriegsopferfürsorge mit der Maßgabe, dass laufende Leistungen nur für die Zeiträume zu erbringen sind, in denen die Voraussetzungen für die Leistungen erfüllt sind.
 
 (2) Leistungen der Kriegsopferfürsorge sind von Amts wegen zu erbringen, wenn die anspruchsbegründenden Tatsachen dem Träger der Kriegsopferfürsorge bekannt sind und Beschädigte oder Hinterbliebene dem zustimmen. Laufende Leistungen sind frühestens vom Ersten des Monats an zu zahlen, in dem die der Leistung zugrunde liegenden Tatsachen bekannt geworden sind. Werden Tatsachen bekannt, die auf die Notwendigkeit von Maßnahmen der Kriegsopferfürsorge schließen lassen, hat der Träger der Kriegsopferfürsorge die Antragstellung anzuregen.
 
-
-## § 55 – Nachweispflicht der Leistungsberechtigten
+# § 55 – Nachweispflicht der Leistungsberechtigten
 
 Bei Leistungen zur Teilhabe am Arbeitsleben nach § 26 des Bundesversorgungsgesetzes und bei der Erziehungsbeihilfe nach § 27 des Bundesversorgungsgesetzes haben Leistungsberechtigte den Erfolg der Maßnahme, gegebenenfalls abschnittsweise, durch Leistungsnachweise zu belegen.
 
-
-## § 56 – Beteiligung der Ausbildungsstätte
+# § 56 – Beteiligung der Ausbildungsstätte
 
 Vor der Entscheidung über Maßnahmen zur Förderung der Schul- oder Berufsausbildung nach § 27 des Bundesversorgungsgesetzes ist die Schule oder Hochschule zu beteiligen, wenn Zweifel an der Eignung der Auszubildenden bestehen.
 
-
-## § 57
+# § 57
 
 \-
 
-
-## § 58 – Nachweis bestimmter Voraussetzungen bei Eltern
+# § 58 – Nachweis bestimmter Voraussetzungen bei Eltern
 
 Sofern sich bei Eltern, denen wegen der Höhe ihres Einkommens Elternrente nicht zusteht, aus dem Bescheid der nach Landesrecht zuständigen Stelle nicht ergibt, daß die Voraussetzungen der §§ 49 und 50 des Bundesversorgungsgesetzes erfüllt sind, stellt diese Stelle den Eltern auf deren Antrag eine Bescheinigung zum Nachweis dieser Voraussetzungen aus. Das gilt nicht für den Nachweis der Vollendung des 60. Lebensjahrs.
 
-
-## § 59 – Übergangsregelung
+# § 59 – Übergangsregelung
 
 (1) (gegenstandslos)
 
@@ -1049,12 +984,10 @@ Sofern sich bei Eltern, denen wegen der Höhe ihres Einkommens Elternrente nicht
 
 (3) (gegenstandslos)
 
-
-## § 60 – (weggefallen)
+# § 60 – (weggefallen)
 
 \-
 
-
-## § 61 – Inkrafttreten
+# § 61 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1979 in Kraft.

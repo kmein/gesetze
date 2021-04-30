@@ -1,15 +1,11 @@
-# [SVFAngAusbV 1997] Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
-
-Ausfertigungsdatum: 18.12.1996
-
+% Verordnung über die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten
+% Ausfertigungsdatum: 18.12.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf Sozialversicherungsfachangestellter/Sozialversicherungsfachangestellte wird staatlich anerkannt.
 
@@ -27,13 +23,11 @@ Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1
 
 gewählt werden.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -96,8 +90,7 @@ Umgang mit Konflikten;
 
 (2) Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
-A.  
-in der Fachrichtung allgemeine Krankenversicherung:
+A. in der Fachrichtung allgemeine Krankenversicherung:
 
 1. Marketing;
 
@@ -129,8 +122,7 @@ Anspruchsvoraussetzungen und Umfang der Leistungen,
 3.2  
 Zusammenarbeit mit Vertragspartnern;
 
-B.  
-in der Fachrichtung gesetzliche Unfallversicherung:
+B. in der Fachrichtung gesetzliche Unfallversicherung:
 
 1. versicherter Personenkreis;
 
@@ -140,8 +132,7 @@ in der Fachrichtung gesetzliche Unfallversicherung:
 
 4. Leistungen;
 
-C.  
-in der Fachrichtung gesetzliche Rentenversicherung:
+C. in der Fachrichtung gesetzliche Rentenversicherung:
 
 1. Versicherungsverhältnisse:
 
@@ -170,8 +161,7 @@ Zusatzleistungen und sonstige Leistungen,
 3.5  
 Kontenklärung und Rentenauskunft;
 
-D.  
-in der Fachrichtung knappschaftliche Sozialversicherung:
+D. in der Fachrichtung knappschaftliche Sozialversicherung:
 
 1. Marketing;
 
@@ -196,8 +186,7 @@ Leistungen in der Kranken- und Pflegeversicherung,
 4.2  
 Leistungen in der Rentenversicherung;
 
-E.  
-in der Fachrichtung landwirtschaftliche Sozialversicherung:
+E. in der Fachrichtung landwirtschaftliche Sozialversicherung:
 
 1. Versicherungsverhältnisse;
 
@@ -216,32 +205,27 @@ Leistungen in der Alterssicherung der Landwirte,
 4.3  
 Leistungen in der Krankenversicherung der Landwirte und in der landwirtschaftlichen Pflegeversicherung.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern. Soweit Fertigkeiten und Kenntnisse nach § 3 Abs. 1 Nr. 2 sich auf das Recht der Sozialversicherung erstrecken, sind sie in bezug auf das im jeweiligen Zweig der Sozialversicherung anzuwendende Recht zu vermitteln.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 bis 13 nachzuweisen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Während der Berufsausbildung beim Versicherungsträger soll der Auszubildende mit Vorgängen befaßt werden, die den im Ausbildungsrahmenplan bezeichneten Fertigkeiten und Kenntnissen entsprechend auszuwählen sind. Dabei sind ihm Einsichten in Sinn, Zweck und Bedeutung der Rechts- und Verwaltungsvorschriften praxisbezogen zu vermitteln.
 
 (2) Zur Ergänzung der Berufsausbildung sind die Fertigkeiten und Kenntnisse zu den rechtlichen und fachlichen Grundlagen, insbesondere zu Versicherungsverhältnissen, Beiträgen und Leistungen, entsprechend dem Ausbildungsrahmenplan in einem zeitlichen Umfang von etwa sechzehn Wochen bei den Versicherungsträgern selbst oder in überbetrieblichen Einrichtungen systematisch zu vermitteln und zu vertiefen. Diese Ausbildungsmaßnahmen sind zeitlich unter Beachtung der Pflicht des Auszubildenden zum Besuch der Berufsschule zu organisieren.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -257,8 +241,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die Prüfung in programmierter Form durchgeführt wird.
 
-
-## § 9 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung allgemeine Krankenversicherung
+# § 9 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung allgemeine Krankenversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung allgemeine Krankenversicherung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -300,8 +283,7 @@ bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und 
 
 (7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses hat die mündliche Prüfung gegenüber jedem der schriftlichen Prüfungsfächer das doppelte Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 10 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Unfallversicherung
+# § 10 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Unfallversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung gesetzliche Unfallversicherung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -343,8 +325,7 @@ bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und 
 
 (7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 11 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Rentenversicherung
+# § 11 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung gesetzliche Rentenversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung gesetzliche Rentenversicherung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -386,8 +367,7 @@ bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und 
 
 (7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 12 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung knappschaftliche Sozialversicherung
+# § 12 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung knappschaftliche Sozialversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung knappschaftliche Sozialversicherung erstreckt sich auf die in der Anlage 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -431,8 +411,7 @@ bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und 
 
 (7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 13 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung landwirtschaftliche Sozialversicherung
+# § 13 – Abschlußprüfung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten, Fachrichtung landwirtschaftliche Sozialversicherung
 
 (1) Die Abschlußprüfung in der Fachrichtung landwirtschaftliche Sozialversicherung erstreckt sich auf die in der Anlage 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -476,18 +455,15 @@ bearbeiten. Er soll dabei zeigen, daß er wirtschaftliche, sozialrechtliche und 
 
 (7) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Leistungen erbracht werden. Bei der Ermittlung des Gesamtergebnisses haben die drei Prüfungsfächer und die mündliche Prüfung das gleiche Gewicht. Werden die Prüfungsleistungen in einem Prüfungsfach oder in der mündlichen Prüfung mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 14 – Übergangsregelung
+# § 14 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 15 – Inkrafttreten, Außerkrafttreten
+# § 15 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
-
-## Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung allgemeine Krankenversicherung
+# Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung allgemeine Krankenversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1981 - 1988;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1095,8 +1071,7 @@ Arbeits- und Dienstrecht, Berufsbildung,
 2.1  
 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
-zu vermitteln.  
-  
+zu vermitteln.   
 
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
@@ -1123,8 +1098,7 @@ Kommunikation und Kooperation in berufstypischen Situationen,
 6  
 Anwenden von Lern- und Arbeitstechniken
 
-zu vermitteln.  
-  
+zu vermitteln.   
 
 (3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
@@ -1188,58 +1162,43 @@ II. 1   Marketing,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3   Informationsverarbeitung und Datenschutz,
+I. 3   Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6   Anwenden von Lern- und Arbeitstechniken
+I. 6   Anwenden von Lern- und Arbeitstechniken
 
-fortzuführen.  
-  
+fortzuführen.   
 
 (2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.3 Beiträge für Beschäftigte, Lernziele d und e,
+I. 2.3 Beiträge für Beschäftigte, Lernziele d und e,
 
 II. 2.5 Berechnung, Einzug und Überwachung der Beiträge, Lernziele a und d,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3   Informationsverarbeitung und Datenschutz,
+I. 3   Informationsverarbeitung und Datenschutz,
 
-I.  
-4   Kommunikation und Kooperation,
+I. 4   Kommunikation und Kooperation,
 
-I.  
-5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6   Anwenden von Lern- und Arbeitstechniken
+I. 6   Anwenden von Lern- und Arbeitstechniken
 
 II. 1   Marketing
 
-fortzuführen.  
-  
+fortzuführen.   
 
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
@@ -1247,30 +1206,23 @@ II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele a und b,
 
 in Verbindung mit
 
-I.  
-2.4 Leistungen, Lernziel e,
+I. 2.4 Leistungen, Lernziel e,
 
 II. 3.2 Zusammenarbeit mit Vertragspartnern
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3   Informationsverarbeitung und Datenschutz,
+I. 3   Informationsverarbeitung und Datenschutz,
 
-I.  
-4   Kommunikation und Kooperation,
+I. 4   Kommunikation und Kooperation,
 
-I.  
-5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6   Anwenden von Lern- und Arbeitstechniken
+I. 6   Anwenden von Lern- und Arbeitstechniken
 
 II. 1   Marketing
 
@@ -1292,41 +1244,31 @@ II. 2.5 Berechnung, Einzug und Überwachung der Beiträge, Lernziel b,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
   
 
-I.  
-3 Informationsverarbeitung und Datenschutz,
+I. 3 Informationsverarbeitung und Datenschutz,
 
-I.  
-4 Kommunikation und Kooperation,
+I. 4 Kommunikation und Kooperation,
 
-I.  
-5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6 Anwenden von Lern- und Arbeitstechniken,
+I. 6 Anwenden von Lern- und Arbeitstechniken,
 
 II. 1 Marketing
 
-fortzuführen.  
-  
+fortzuführen.   
 
 (2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
+I. 2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
-I.  
-2.4 Leistungen, Lernziele f und g,
+I. 2.4 Leistungen, Lernziele f und g,
 
-I.  
-5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
 
 II. 2.6 Ausgleich der Arbeitgeberaufwendungen bei Krankheit und Mutterschaft,
 
@@ -1334,28 +1276,21 @@ II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele c und d,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-2.4 Leistungen, Lernziel e,
+I. 2.4 Leistungen, Lernziel e,
 
   
 
-I.  
-3   Informationsverarbeitung und Datenschutz,
+I. 3   Informationsverarbeitung und Datenschutz,
 
-I.  
-4   Kommunikation und Kooperation,
+I. 4   Kommunikation und Kooperation,
 
-I.  
-5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6   Anwenden von Lern- und Arbeitstechniken,
+I. 6   Anwenden von Lern- und Arbeitstechniken,
 
 II. 1   Marketing
 
@@ -1363,41 +1298,31 @@ II. 3.1 Anspruchsvoraussetzungen und Umfang der Leistungen, Lernziele a und b,
 
 II. 3.2 Zusammenarbeit mit Vertragspartnern
 
-fortzuführen.  
-  
+fortzuführen.   
 
 (3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
-I.  
-1.3 Personalwesen, Lernziele a und b,
+I. 1.3 Personalwesen, Lernziele a und b,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziel d,
+I. 1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziel d,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3   Informationsverarbeitung und Datenschutz,
+I. 3   Informationsverarbeitung und Datenschutz,
 
-I.  
-4   Kommunikation und Kooperation,
+I. 4   Kommunikation und Kooperation,
 
-I.  
-5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5   Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6   Anwenden von Lern- und Arbeitstechniken,
+I. 6   Anwenden von Lern- und Arbeitstechniken,
 
 II. 1   Marketing
 
-fortzuführen.  
-----------  
+fortzuführen. ----------  
 
 \*1) Abschnitt II.
 
@@ -1405,8 +1330,7 @@ fortzuführen.
 
 \*2) Abschnitt I.
 
-
-## Anlage 2 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
+# Anlage 2 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1989 - 1995)
 
@@ -2045,52 +1969,39 @@ II. 3    Finanzierung
   
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken
+I. 6    Anwenden von Lern- und Arbeitstechniken
 
 fortzuführen.
 
 (2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.4 Leistungen, Lernziel e,
+I. 2.4 Leistungen, Lernziel e,
 
 II. 4    Leistungen, Lernziele a bis e,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken
+I. 6    Anwenden von Lern- und Arbeitstechniken
 
 fortzuführen.
 
@@ -2100,23 +2011,17 @@ II. 4    Leistungen, Lernziele f bis i,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken
+I. 6    Anwenden von Lern- und Arbeitstechniken
 
 fortzuführen.
 
@@ -2130,37 +2035,27 @@ Drittes Ausbildungsjahr
 
 (1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-1.3 Personalwesen, Lernziele a und b,
+I. 1.3 Personalwesen, Lernziele a und b,
 
-I.  
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel e,
+I. 2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel e,
 
-I.  
-2.4 Leistungen, Lernziel f,
+I. 2.4 Leistungen, Lernziel f,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
+I. 1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken,
+I. 6    Anwenden von Lern- und Arbeitstechniken,
 
 II. 1    Versicherter Personenkreis,
 
@@ -2170,36 +2065,27 @@ fortzuführen.
 
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.4 Leistungen, Lernziel g,
+I. 2.4 Leistungen, Lernziel g,
 
-I.  
-4.2 Umgang mit Konflikten,
+I. 4.2 Umgang mit Konflikten,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziel e,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziel e,
 
 II. 4    Leistungen, Lernziel k,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken,
+I. 6    Anwenden von Lern- und Arbeitstechniken,
 
 II. 1    Versicherter Personenkreis,
 
@@ -2213,31 +2099,23 @@ fortzuführen.
 
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel f,
+I. 2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel f,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele c und d,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele c und d,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4    Kommunikation und Kooperation,
+I. 4    Kommunikation und Kooperation,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken,
+I. 6    Anwenden von Lern- und Arbeitstechniken,
 
 II. 1    Versicherter Personenkreis,
 
@@ -2247,8 +2125,7 @@ II. 3   Finanzierung,
 
 II. 4    Leistungen
 
-fortzuführen.  
-----------  
+fortzuführen. ----------  
 
 1)</sup> Abschnitt I.
 
@@ -2256,8 +2133,7 @@ fortzuführen.
 
 2)</sup> Abschnitt II.
 
-
-## Anlage 3 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Rentenversicherung
+# Anlage 3 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Rentenversicherung
 
 (Fundstelle: BGBl. I 1996, S. 1996 - 2003)
 
@@ -2919,36 +2795,30 @@ Finanzierung
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
@@ -2958,8 +2828,7 @@ fortzuführen.
 (2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
   
-I.  
-2.4
+I. 2.4
 
   
 Leistungen, Lernziel e,
@@ -2971,36 +2840,30 @@ Rehabilitation, Lernziele a und c,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
@@ -3026,36 +2889,30 @@ Kontenklärung und Rentenauskunft
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
@@ -3081,36 +2938,30 @@ Rehabilitation, Lernziel b,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken,
@@ -3124,8 +2975,7 @@ fortzuführen.
 (2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
   
-I.  
-4.2
+I. 4.2
 
   
 Umgang mit Konflikten,
@@ -3141,37 +2991,31 @@ Zusatzleistungen und sonstige Leistungen
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-4
+I. 4
 
   
 Kommunikation und Kooperation,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken,
@@ -3189,19 +3033,16 @@ fortzuführen.
 (3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
   
-I.  
-2.1
+I. 2.1
 
   
 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
-I.  
-  
+I.   
 2.4  
 Leistungen, Lernziele f und g,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
@@ -3209,36 +3050,30 @@ Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken,
@@ -3263,8 +3098,7 @@ fortzuführen.
 (4) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
   
-I.  
-1.3
+I. 1.3
 
   
 Personalwesen, Lernziele a und b,
@@ -3272,48 +3106,40 @@ Personalwesen, Lernziele a und b,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.5  
 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-4
+I. 4
 
   
 Kommunikation und Kooperation,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
 
-fortzuführen.  
-----------  
+fortzuführen. ----------  
 
 \*1) Abschnitt I.
 
@@ -3321,8 +3147,7 @@ fortzuführen.
 
 \*2) Abschnitt II.
 
-
-## Anlage 4 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung knappschaftliche Sozialversicherung
+# Anlage 4 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung knappschaftliche Sozialversicherung
 
 (Fundstelle: BGBl. I 1996, S. 2004 - 2011)
 
@@ -4012,36 +3837,30 @@ Finanzierung, Lernziele a bis c,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
@@ -4051,8 +3870,7 @@ fortzuführen.
 (2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
   
-I.  
-2.4
+I. 2.4
 
   
 Leistungen, Lernziel e,
@@ -4064,36 +3882,30 @@ Leistungen in der Rentenversicherung, Lernziele a, b, d, e, h, n und o,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
@@ -4111,8 +3923,7 @@ Leistungen in der Kranken- und Pflegeversicherung, Lernziele a bis d,
 in Verbindung mit
 
   
-I.  
-4.2
+I. 4.2
 
   
 Umgang mit Konflikten,
@@ -4125,36 +3936,30 @@ Marketing
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-  
+I.   
 4.1  
 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken
@@ -4180,42 +3985,35 @@ Leistungen in der Rentenversicherung, Lernziele c, f, g, i, k, l und m,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-  
+I.   
 2.3  
 Beiträge für Beschäftigte, Lernziele d und e,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-4
+I. 4
 
   
 Kommunikation und Kooperation,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken,
@@ -4251,42 +4049,35 @@ Leistungen in der Kranken- und Pflegeversicherung, Lernziel e,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-  
+I.   
 2.3  
 Beiträge für Beschäftigte, Lernziele d und e,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-4
+I. 4
 
   
 Kommunikation und Kooperation,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken,
@@ -4315,24 +4106,20 @@ fortzuführen.
 (3) In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
   
-I.  
-1.3
+I. 1.3
 
   
 Personalwesen, Lernziele a und b,
 
-I.  
-  
+I.   
 2.1  
 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
-I.  
-  
+I.   
 2.4  
 Leistungen, Lernziele f und g,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
@@ -4340,42 +4127,35 @@ Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.2
+I. 1.2
 
   
 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-  
+I.   
 1.5  
 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
 
-I.  
-  
+I.   
 1.6  
 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3
+I. 3
 
   
 Informationsverarbeitung und Datenschutz,
 
-I.  
-4
+I. 4
 
   
 Kommunikation und Kooperation,
 
-I.  
-5
+I. 5
 
   
 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6
+I. 6
 
   
 Anwenden von Lern- und Arbeitstechniken,
@@ -4395,8 +4175,7 @@ II. 4
   
 Leistungen
 
-fortzuführen.  
-----------  
+fortzuführen. ----------  
 
 \*1) Abschnitt I.
 
@@ -4404,8 +4183,7 @@ fortzuführen.
 
 \*2) Abschnitt II.
 
-
-## Anlage 5 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung landwirtschaftliche Sozialversicherung
+# Anlage 5 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung landwirtschaftliche Sozialversicherung
 
 (Fundstelle: BGBl. I 1996, S. 2012 - 2019)
 
@@ -5045,8 +4823,7 @@ Arbeits- und Dienstrecht, Berufsbildung,
 2.1  
 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
 
-zu vermitteln.  
-  
+zu vermitteln.   
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
 
 2.2  
@@ -5072,8 +4849,7 @@ Kommunikation und Kooperation in berufstypischen Situationen,
 6  
 Anwenden von Lern- und Arbeitstechniken
 
-zu vermitteln.  
-  
+zu vermitteln.   
 (3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
 
 2.4  
@@ -5104,8 +4880,7 @@ Kommunikation und Kooperation in berufstypischen Situationen,
 6  
 Anwenden von Lern- und Arbeitstechniken
 
-fortzuführen.  
-  
+fortzuführen.   
   
 
   
@@ -5131,78 +4906,57 @@ zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Ken
 I. 2)</sup>  
 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken
+I. 6    Anwenden von Lern- und Arbeitstechniken
 
-fortzuführen.  
-  
+fortzuführen.   
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.3 Beiträge für Beschäftigte, Lernziele d und e,
+I. 2.3 Beiträge für Beschäftigte, Lernziele d und e,
 
 II. 3    Finanzierung, Lernziele b bis f,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken
+I. 6    Anwenden von Lern- und Arbeitstechniken
 
-fortzuführen.  
-  
+fortzuführen.   
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 II. 4.1 Leistungen der landwirtschaftlichen Unfallversicherung
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen, Lernziel a und b,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen, Lernziel a und b,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken
+I. 6    Anwenden von Lern- und Arbeitstechniken
 
-fortzuführen.  
-  
+fortzuführen.   
   
 
   
@@ -5216,102 +4970,75 @@ Drittes Ausbildungsjahr
   
 (1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-2.4 Leistungen, Lernziel e,
+I. 2.4 Leistungen, Lernziel e,
 
 II. 4.3 Leistungen in der Krankenversicherung der Landwirte und in der landwirtschaftlichen Pflegeversicherung
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken,
+I. 6    Anwenden von Lern- und Arbeitstechniken,
 
 II. 1    Versicherungsverhältnisse, Lernziele c bis e,
 
-fortzuführen.  
-  
+fortzuführen.   
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
 
 II. 4.2 Leistungen in der Alterssicherung der Landwirte
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken,
+I. 6    Anwenden von Lern- und Arbeitstechniken,
 
 II. 1   Versicherungsverhältnisse, Lernziele c bis e,
 
-fortzuführen.  
-  
+fortzuführen.   
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
 
-I.  
-1.3 Personalwesen, Lernziele a und b,
+I. 1.3 Personalwesen, Lernziele a und b,
 
-I.  
-2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
+I. 2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele e und f,
 
-I.  
-2.4 Leistungen, Lernziele f und g,
+I. 2.4 Leistungen, Lernziele f und g,
 
-I.  
-4.2 Umgang mit Konflikten,
+I. 4.2 Umgang mit Konflikten,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele c bis e,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
 
-I.  
-1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
+I. 1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
 
-I.  
-1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
 
-I.  
-3    Informationsverarbeitung und Datenschutz,
+I. 3    Informationsverarbeitung und Datenschutz,
 
-I.  
-4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
 
-I.  
-5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 5    Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
 
-I.  
-6    Anwenden von Lern- und Arbeitstechniken,
+I. 6    Anwenden von Lern- und Arbeitstechniken,
 
 II. 1    Versicherungsverhältnisse,
 
@@ -5321,8 +5048,7 @@ II. 3    Finanzierung,
 
 II. 4    Leistungen
 
-fortzuführen.  
-  
+fortzuführen.   
 ----------  
 
 1)</sup> Abschnitt II.

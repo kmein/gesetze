@@ -1,15 +1,11 @@
-# [LAP-hADV 2004] Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Auswärtigen Dienst
-
-Ausfertigungsdatum: 15.06.2004
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Auswärtigen Dienst
+% Ausfertigungsdatum: 15.06.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -139,8 +135,7 @@ Schwerbehinderte Menschen
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des höheren Auswärtigen Dienstes umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn.
 
@@ -177,20 +172,17 @@ Inkrafttreten, Außerkrafttreten
 
 (3) Die Ämter der Bundesbesoldungsordnung A sind regelmäßig zu durchlaufen.
 
-
-## § 2 – Ziel und Inhalt der Ausbildung
+# § 2 – Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat bei der Erfüllung ihrer Aufgaben vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung für die freiheitliche demokratische Grundordnung hingewiesen. Ihre Ausbildung führt zur Berufsbefähigung. Sie vermittelt ihnen die theoretischen und berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die sie zur Erfüllung der Aufgaben in ihrer Laufbahn benötigen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt und europarelevante Kenntnisse vermittelt. Auch die allgemeinen beruflichen Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns, zum selbständigen und wirtschaftlichen Handeln sowie soziale und interkulturelle Kompetenz sind zu fördern.
 
 (2) Die Beamtinnen und Beamten werden befähigt, sich eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet.
 
-
-## § 3 – Einstellungsbehörde
+# § 3 – Einstellungsbehörde
 
 Einstellungsbehörde ist das Auswärtige Amt. Ihm obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung und die Begleitung sowie die Unterstützung der Anwärterinnen und Anwärter; es trifft die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung. Das Auswärtige Amt ist die für die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -208,8 +200,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung seiner Aufgaben erheblichen Bedarf sieht, als weitere Ersatzsprachen für Französisch zulassen.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -227,8 +218,7 @@ Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung seiner
 
 6. gegebenenfalls eine Ablichtung des Schwerbehindertenausweises oder des Bescheids über die Gleichstellung als schwerbehinderter Mensch.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind. Die Bewerberinnen und Bewerber werden bei Beginn des Auswahlverfahrens über dessen Ablauf unterrichtet.
 
@@ -274,8 +264,7 @@ Die Vertretungen der übrigen Ausschussmitglieder werden von der Leiterin oder d
 
 (9) Im Falle einer erfolglosen Teilnahme am mündlichen Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig. In begründeten Einzelfällen kann der Auswahlausschuss eine frühere oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Staatssekretärin oder der Staatssekretär des Auswärtigen Amts entscheidet nach dem Ergebnis des Auswahlverfahrens und unter Berücksichtigung des Bedarfs über die Einstellung der Bewerberinnen und Bewerber.
 
@@ -297,15 +286,13 @@ Das Auswärtige Amt kann die Beibringung weiterer Unterlagen verlangen, die für
 
 (3) Die Bewerberinnen und Bewerber sowie gegebenenfalls ihre Ehepartnerinnen, Ehepartner, Lebenspartnerinnen oder Lebenspartner und Kinder haben ihre gesundheitliche Eignung gemäß § 4 Nummer 6 durch ein Gesundheitszeugnis des Gesundheitsdienstes des Auswärtigen Amts nachzuweisen, durch den oder in dessen Auftrag die Untersuchung durchgeführt wird. Die Kosten der Untersuchung trägt das Auswärtige Amt.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Attachées und Bewerber zu Attachés ernannt. Sie unterstehen der Dienstaufsicht des Auswärtigen Amts.
 
 (2) Bei der Gewährung von Urlaub sind Ausbildungsbelange zu berücksichtigen. Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 9 – Dauer des Vorbereitungsdienstes
+# § 9 – Dauer des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert 14 Monate.
 
@@ -327,8 +314,7 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (5) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 22.
 
-
-## § 10 – Gliederung des Vorbereitungsdienstes
+# § 10 – Gliederung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst umfasst insbesondere:
 
@@ -352,8 +338,7 @@ Die praktischen und theoretischen Ausbildungsinhalte werden eng aufeinander abge
 
 (6) Die Ausbildungsleitung fördert die aktive Beteiligung der Anwärterinnen und Anwärter an der Planung und Durchführung der Ausbildungsinhalte.
 
-
-## § 11 – Allgemeines
+# § 11 – Allgemeines
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und Anwärter für die vorgesehene Laufbahn befähigt sind. Die Prüfung wird an den Lernzielen ausgerichtet.
 
@@ -361,8 +346,7 @@ Die praktischen und theoretischen Ausbildungsinhalte werden eng aufeinander abge
 
 (3) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die Prüfungskommission. § 6 Abs. 8 gilt entsprechend.
 
-
-## § 12 – Durchführung
+# § 12 – Durchführung
 
 Die Durchführung der Laufbahnprüfung obliegt der Aus- und Fortbildungsstätte des Auswärtigen Amts. Diese
 
@@ -384,8 +368,7 @@ Die Durchführung der Laufbahnprüfung obliegt der Aus- und Fortbildungsstätte 
 
 9. bewahrt die Prüfungsakten auf und entscheidet über Anträge auf Einsichtnahme.
 
-
-## § 13 – Prüfungskommission
+# § 13 – Prüfungskommission
 
 (1) Die Prüfungskommission besteht in der Regel aus vier Mitgliedern. Die Mitglieder sind unabhängig und an Weisungen nicht gebunden. Mitglieder sind
 
@@ -401,8 +384,7 @@ Die Durchführung der Laufbahnprüfung obliegt der Aus- und Fortbildungsstätte 
 
 (3) § 6 Abs. 7 gilt entsprechend.
 
-
-## § 14 – Fach- und Sprachprüfungen
+# § 14 – Fach- und Sprachprüfungen
 
 (1) Prüfungsfächer sind:
 
@@ -434,8 +416,7 @@ Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündlic
 
 (5) Eine Prüfung ist bestanden, wenn eine Anwärterin oder ein Anwärter mindestens die Note "ausreichend" erzielt hat und mindestens die Hälfte der erbrachten Einzelleistungen mit "ausreichend" bewertet wurde.
 
-
-## § 15 – Abschlussprüfung
+# § 15 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus
 
@@ -447,8 +428,7 @@ Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündlic
 
 (3) Die Abschlussprüfung ist bestanden, wenn eine Anwärterin oder ein Anwärter mindestens die Note "ausreichend" erzielt hat.
 
-
-## § 16 – Verhinderung, Rücktritt, Säumnis
+# § 16 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines ärztlichen Zeugnisses nachzuweisen.
 
@@ -458,8 +438,7 @@ Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündlic
 
 (4) Versäumen Anwärterinnen oder Anwärter schriftliche oder mündliche Prüfungen ganz oder teilweise ohne ausreichende Entschuldigung, ist die nicht erbrachte Leistung mit "ungenügend" (0 Rangpunkte) zu werten.
 
-
-## § 17 – Täuschung, Ordnungsverstoß
+# § 17 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung der Prüfungskommission nach Absatz 2 gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme am betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -469,8 +448,7 @@ Für das Ergebnis der Sprachprüfungen zählen der schriftliche und der mündlic
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören. Bescheide der Prüfungskommission nach den Absätzen 2 und 3 sind mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 18 – Bewertung der Prüfungsleistungen
+# § 18 – Bewertung der Prüfungsleistungen
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
 
@@ -518,8 +496,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die Note "ausreichend" setzt voraus, dass der Anteil der erreichten Punkte 50 Prozent der erreichbaren Gesamtpunktzahl beträgt.
 
-
-## § 19 – Gesamtergebnis
+# § 19 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung ermittelt die Prüfungskommission das Gesamtergebnis der Laufbahnprüfung als Durchschnittspunktzahl aus den Punktzahlen der Teilprüfungen und unter Berücksichtigung ihrer Gewichtung (Absatz 3). Die Punktzahl wird auf volle Punkte gerundet und entsprechend der Zuordnung von Noten und Rangpunkten gemäß § 18 Abs. 1 auch als Note ausgedrückt.
 
@@ -532,29 +509,25 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 | 1\. | die vier Fach- und zwei Sprachprüfungen | 72 Prozent, |
 | 2\. | die Abschlussprüfung                    | 28 Prozent. |
 
-
-## § 20 – Zeugnis
+# § 20 – Zeugnis
 
 (1) Die Prüfungskommission erteilt den Anwärterinnen und Anwärtern, die die Prüfung bestanden haben, ein Prüfungszeugnis, das die Abschlussnote sowie die nach § 19 errechnete Durchschnittspunktzahl enthält. Ist die Prüfung nicht bestanden, gibt die Prüfungskommission dies den Anwärterinnen und Anwärtern schriftlich bekannt. Das Zeugnis nach Satz 1 und die Bekanntgabe nach Satz 2 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalakten genommen. Das Beamtenverhältnis auf Widerruf endet mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
 (2) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch die Prüfungskommission berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den Fällen des § 17 Abs. 3 ist das Prüfungszeugnis zurückzugeben.
 
-
-## § 21 – Prüfungsakten, Einsichtnahme
+# § 21 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Niederschriften über die Teilprüfungen und die Abschlussprüfung ist mit den schriftlichen Aufsichtsarbeiten zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Auswärtigen Amt mindestens fünf Jahre aufbewahrt.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der Laufbahnprüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 22 – Wiederholung
+# § 22 – Wiederholung
 
 (1) Die Anwärterinnen und Anwärter, die eine Prüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen; das Auswärtige Amt kann in begründeten Ausnahmefällen eine zweite Wiederholung zulassen. Prüfungen sind jeweils vollständig zu wiederholen.
 
 (2) Die Leiterin oder der Leiter der Aus- und Fortbildungsstätte bestimmt auf Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters für den höheren Auswärtigen Dienst, innerhalb welcher Frist die Prüfung wiederholt werden kann. Die Wiederholungsfrist soll mindestens drei Monate betragen und ein Jahr nicht überschreiten. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verlängert.
 
-
-## § 23 – Allgemeine Aufstiegsregelungen
+# § 23 – Allgemeine Aufstiegsregelungen
 
 (1) Beamtinnen und Beamte des gehobenen Auswärtigen Dienstes können von Vorgesetzten für die Zulassung zum Aufstieg in die Laufbahn des höheren Auswärtigen Dienstes vorgeschlagen werden oder sich bewerben. Ihre Eignung, die an den Anforderungen der künftigen Laufbahn gemessen wird, wird in einem Auswahlverfahren überprüft. Das für den gehobenen Dienst zuständige Personalreferat prüft, ob die formalen, in diesem Kapitel genannten Voraussetzungen für die Teilnahme am Auswahlverfahren zum Ausbildungs- oder Praxisaufstieg vorliegen. Auf die Durchführung des beim Auswärtigen Amt stattfindenden Auswahlverfahrens ist § 6 entsprechend anzuwenden, sofern in den folgenden Vorschriften nicht andere Regelungen getroffen werden.
 
@@ -570,8 +543,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Für die Zulassung zum Aufstieg ist § 7 Abs. 1 entsprechend anzuwenden. Nach der bestandenen Laufbahnprüfung oder der Feststellung der Befähigung für die höhere Laufbahn wird den Beamtinnen und Beamten im Rahmen der besetzbaren Planstellen ein Amt der Laufbahn des höheren Dienstes verliehen. Bis dahin verbleiben sie in ihrer bisherigen Rechtsstellung. Aufstiegsbeamtinnen und Aufstiegsbeamte, die die Befähigung für die Laufbahn des höheren Auswärtigen Dienstes endgültig nicht erwerben, verbleiben in ihrer bisherigen Laufbahn.
 
-
-## § 24 – Ausbildungsaufstieg
+# § 24 – Ausbildungsaufstieg
 
 (1) Zum Ausbildungsaufstieg in die Laufbahn des höheren Auswärtigen Dienstes können Beamtinnen und Beamte der Laufbahn des gehobenen Auswärtigen Dienstes zugelassen werden, die
 
@@ -587,8 +559,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die zum Aufstieg zugelassenen Bewerberinnen und Bewerber nehmen an dem für die Laufbahn des höheren Auswärtigen Dienstes eingerichteten Vorbereitungsdienst teil. Der Vorbereitungsdienst schließt mit der Laufbahnprüfung ab. Die Vorschriften der Kapitel 1 und 2 über den Vorbereitungsdienst und die Laufbahnprüfung sind entsprechend anzuwenden, soweit nicht in Kapitel 3 anderweitige Regelungen getroffen wurden.
 
-
-## § 25 – Praxisaufstieg
+# § 25 – Praxisaufstieg
 
 (1) Zum Praxisaufstieg in die Laufbahn des höheren Auswärtigen Dienstes können Beamtinnen und Beamte des gehobenen Auswärtigen Dienstes zugelassen werden, die
 
@@ -620,8 +591,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (6) Die Feststellung hierüber trifft die Prüfungskommission für die Laufbahn des höheren Auswärtigen Dienstes (§ 13) als Feststellungsausschuss in einem Vorstellungstermin. Sie hat hierbei den Inhalt der Einführung sowie die während dieser Zeit erbrachten Leistungsnachweise einschließlich einer eingehenden Beurteilung der Leistungen während der Einführungszeit zu berücksichtigen. Reicht das Ergebnis des Vorstellungstermins zur Feststellung des erfolgreichen Abschlusses nicht aus, kann die Prüfungskommission bestimmen, in welcher Form der weitere Nachweis des erfolgreichen Abschlusses der Einführung geführt werden soll. Die Prüfungskommission kann die Anfertigung von Ausarbeitungen verlangen. Das Feststellungsverfahren kann nach Ablauf von mindestens sechs Monaten einmal wiederholt werden. Für diesen Fall ist die Einführungszeit entsprechend zu verlängern. Mit der Feststellung der erfolgreichen Einführung wird die Befähigung für die Laufbahn des höheren Auswärtigen Dienstes zuerkannt.
 
-
-## § 26 – Schwerbehinderte Menschen
+# § 26 – Schwerbehinderte Menschen
 
 (1) Geeignete schwerbehinderte Menschen sind bei der Besetzung freier Arbeitsplätze vorrangig zu berücksichtigen, sofern sie - mit Ausnahme der durch ihre Behinderung eingeschränkten Eignung - über die gleiche Qualifikation verfügen. Von schwerbehinderten Menschen darf bei der Einstellung nur das Mindestmaß körperlicher Eignung verlangt werden. Hinsichtlich der sonstigen Eignung, insbesondere der beruflichen Kenntnisse und Fähigkeiten, gilt uneingeschränkt das Leistungsprinzip im Wettbewerb mit anderen nichtbehinderten Bewerberinnen und Bewerbern. Schwerbehinderte Menschen sind grundsätzlich zu Auswahlverfahren zuzulassen, es sei denn, dass sie nach den vorgelegten Unterlagen für eine Verwendung offensichtlich nicht geeignet erscheinen.
 
@@ -631,14 +601,12 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Entscheidungen über Prüfungserleichterungen trifft der Auswahlausschuss oder die Prüfungskommission auf Vorschlag der Ausbildungsleitung.
 
-
-## § 27 – Übergangsregelungen
+# § 27 – Übergangsregelungen
 
 (1) Für Beamtinnen und Beamte, die vor dem 12. Februar 2009 in ein Beamtenverhältnis auf Probe berufen worden sind, ist § 1 Absatz 2 in der bis dahin geltenden Fassung weiter anzuwenden.
 
 (2) Für Anwärterinnen und Anwärter sowie Aufstiegsbeamtinnen und Aufstiegsbeamte, die ihre Ausbildung vor dem 29. April 2010 aufgenommen haben, ist § 9 Absatz 1 in der bis dahin geltenden Fassung weiter anzuwenden.
 
-
-## § 28 – Inkrafttreten, Außerkrafttreten
+# § 28 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

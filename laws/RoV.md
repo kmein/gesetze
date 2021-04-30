@@ -1,15 +1,11 @@
-# [RoV] Raumordnungsverordnung  (RoV)
-
-Ausfertigungsdatum: 13.12.1990
-
+% Raumordnungsverordnung  (RoV)
+% Ausfertigungsdatum: 13.12.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6a Abs. 2 Satz 1 des Raumordnungsgesetzes in der Fassung der Bekanntmachung vom 19. Juli 1989 (BGBl. I S. 1461) verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Für die nachfolgend aufgeführten Planungen und Maßnahmen soll ein Raumordnungsverfahren (§ 15 des Raumordnungsgesetzes) durchgeführt werden, wenn sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben. Die Befugnis der für die Raumordnung zuständigen Landesbehörden, weitere raumbedeutsame Planungen und Maßnahmen von überörtlicher Bedeutung nach landesrechtlichen Vorschriften in einem Raumordnungsverfahren zu überprüfen, bleibt unberührt.
 
@@ -51,17 +47,14 @@ Für die nachfolgend aufgeführten Planungen und Maßnahmen soll ein Raumordnung
 
 19. Errichtung von Einkaufszentren, großflächigen Einzelhandelsbetrieben und sonstigen großflächigen Handelsbetrieben.
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

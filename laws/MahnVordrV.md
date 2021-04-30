@@ -1,15 +1,11 @@
-# [MahnVordrV] Verordnung zur Einführung von Vordrucken für das Mahnverfahren
-
-Ausfertigungsdatum: 06.05.1977
-
+% Verordnung zur Einführung von Vordrucken für das Mahnverfahren
+% Ausfertigungsdatum: 06.05.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 95 der Vereinfachungsnovelle vom 3. Dezember 1976 (BGBl. I S. 3281) eingefügten § 703c Abs. 1 Satz 1 und 2 Nr. 2 der Zivilprozeßordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 310-4, veröffentlichten bereinigten Fassung wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Vordrucke für die nichtmaschinelle Bearbeitung
+# § 1 – Vordrucke für die nichtmaschinelle Bearbeitung
 
 (1) Für Mahnverfahren bei Gerichten, die die Verfahren nicht maschinell bearbeiten, werden eingeführt
 
@@ -35,8 +31,7 @@ Dies gilt nicht für Mahnverfahren, in denen der Mahnbescheid im Ausland oder na
 
 (5) Die auf den Vorderseiten der Vordrucke enthaltenen maskulinen Personenbezeichnungen können durch feminine Personenbezeichnungen ersetzt werden.
 
-
-## § 1a – Beschriftung mittels Schreibprogramm
+# § 1a – Beschriftung mittels Schreibprogramm
 
 (1) Die in § 174 Abs. 1 der Zivilprozeßordnung bezeichneten Personen und Stellen können den in Anlage 1 bestimmten Vordruck in einem aus Blatt 1 bis 3 bestehenden Teil des Vordrucks für den Antrag auf Erlaß des Mahnbescheids und in einem aus Blatt 3 bis 5 bestehenden Teil des Vordrucks für den Antrag auf Erlaß des Vollstreckungsbescheids in einer Ausführung verwenden, in der die Blätter jeweils einzeln mit Hilfe eines Schreibprogramms beschriftet werden. Das Programm muß
 
@@ -54,21 +49,17 @@ vorsehen.
 
 (4) Treten nicht dem Gericht zuzurechnende Mängel auf, ist die Anwendung der vorstehenden Vorschriften auszusetzen, bis die Ursache behoben ist.
 
-
-## § 2 – Angaben bei Verbraucherdarlehen und -finanzierungshilfen
+# § 2 – Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs geltend, so hat der Unternehmer oder der Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§ 690 Abs. 1 Nr. 3 der Zivilprozessordnung):  
-"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs vom .... Effektiver Jahreszins ... %".  
-In den Fällen des § 504 des Bürgerlichen Gesetzbuchs genügt die Angabe:  
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs vom .... Effektiver Jahreszins ... %". In den Fällen des § 504 des Bürgerlichen Gesetzbuchs genügt die Angabe:  
 "Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs".
 
 (2) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar Forderungen aus einem Vertrag geltend, für den das Verbraucherkreditgesetz gilt, so hat der Unternehmer oder der Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§ 690 Abs. 1 Nr. 3 der Zivilprozessordnung):  
-"Anspruch aus Vertrag vom ..., für den das Verbraucherkreditgesetz gilt. Effektiver Jahreszins ... %".  
-In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:  
+"Anspruch aus Vertrag vom ..., für den das Verbraucherkreditgesetz gilt. Effektiver Jahreszins ... %". In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:  
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
 
-
-## § 2a – Übergang zum Euro
+# § 2a – Übergang zum Euro
 
 (1) Für Mahnverfahren, die die Zahlung einer bestimmten Geldsumme in Euro zum Gegenstand haben, wird der in Anlage 1 bestimmte Vordruck in einer Fassung eingeführt, in der die Bezeichnung "DM" in allen Teilen durch die Bezeichnung "Euro" oder "EUR" ersetzt ist und die in dem Vorblatt des Vordrucks angeführten Geldbeträge in Euro bezeichnet sind.
 
@@ -78,30 +69,25 @@ In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 
 (4) Ist vor dem 1. Januar 2002 ein Mahnbescheid in der Währungseinheit Deutsche Mark unter Verwendung des Vordrucks nach § 1a Abs. 1 erlassen worden, darf der Antrag auf Erlass eines Vollstreckungsbescheids von den Angaben zum Inhalt des Mahnbescheids auf Blatt 2 und 3 insoweit abweichen, als ein Vordruck mit der Währungsbezeichnung "Euro" oder "EUR" verwendet wird und die Geldbeträge unter Verwendung des in der Verordnung (EG) Nr. 2866/98 des Rates vom 31. Dezember 1998 über die Umrechnungskurse zwischen dem Euro und den Währungen der Mitgliedstaaten, die den Euro einführen (ABl. EG Nr. L 359 S. 1), unwiderruflich festgelegten Umrechnungskurses von 1 Euro = 1,95583 Deutsche Mark in Euro umgerechnet sind. Bei der Umrechnung erforderliche Rundungen müssen unter Beachtung des Artikels 5 der Verordnung (EG) Nr. 1103/97 des Rates vom 17. Juni 1997 über bestimmte Vorschriften im Zusammenhang mit der Einführung des Euro (ABl. EG Nr. L 162 S. 1) erfolgen. Dem Vermerk gemäß § 1a Abs. 2 Satz 4 ist der Satz hinzuzufügen: "Die Geldbeträge sind unter Verwendung des amtlichen Kurses von 1 Euro = 1,95583 Deutsche Mark umgerechnet."
 
-
-## § 2b – Überleitungsvorschrift
+# § 2b – Überleitungsvorschrift
 
 Die bisher eingeführten Vordrucke können bis zum 31. Dezember 2002 weiterverwendet werden. Berichtigungen auf der Vorderseite von Blatt 3, 4 und 5 in der mit "Hinzu kommen folgende weitere Kostenbeträge" überschriebenen Zeile in dem für die Verzinsung der Kosten vorgesehenen Feld sind zulässig. Die bisher eingeführten Vordrucke können bis 31. Dezember 2003 weiterverwendet werden, wenn sie der Anlage 1 in der Fassung des Artikels 6 Nr. 2 des Gesetzes zur Reform des Zivilprozesses vom 27. Juli 2001 (BGBl. I S. 1887) entsprechen.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1977 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 &lt; Inhalt: nicht darstellbare Vordrucke,  
 Fundstelle: BGBl. I 1991, 1549 - 1562,  
 bzgl. der einzelnen Änderungen vgl. Fußnote &gt;
 
-
-## Anlage 2
+# Anlage 2
 
 &lt; Inhalt: nicht darstellbare Vordrucke,  
 Fundstelle: BGBl. I 1991, 1563 - 1566,  

@@ -1,15 +1,11 @@
-# [GrÄndStVtr SN/TH 2] Zweiter Staatsvertrag zwischen dem Freistaat Sachsen und dem Freistaat Thüringen über die Änderung der gemeinsamen Landesgrenze
-
-Ausfertigungsdatum: 22.09.1994
-
+% Zweiter Staatsvertrag zwischen dem Freistaat Sachsen und dem Freistaat Thüringen über die Änderung der gemeinsamen Landesgrenze
+% Ausfertigungsdatum: 22.09.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der Grundlage von Artikel 1 Abs. 1 des Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag - vom 31. August 1990 (BGBl. II S. 889) in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885) und in Verbindung mit § 2 Abs. 2 und 3 des Verfassungsgesetzes zur Bildung von Ländern in der Deutschen Demokratischen Republik vom 22. Juli 1990 (GBl. I Nr. 51 S. 955), das aufgrund von Artikel 9 Abs. 2 in Verbindung mit Anlage II Kapitel II Sachgebiet A Abschnitt II des Einigungsvertrages fortgeltendes Recht ist, folgenden Staatsvertrag:
 
-
-## Art 1
+# Art 1
 
 (1) Die Gemeinde Cunsdorf im Landkreis Greiz (katastermäßig: Gemarkung Cunsdorf: künftig Umgliederungsgebiet) wird aus dem Freistaat Thüringen ausgegliedert und in den Freistaat Sachsen eingegliedert.
 
@@ -17,8 +13,7 @@ Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der Grundlage 
 
 (3) Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze sind aus der Anlage zu diesem Vertrag ersichtlich.
 
-
-## Art 2
+# Art 2
 
 (1) Das Umgliederungsgebiet wird im Freistaat Sachsen zunächst in den Landkreis Plauen aufgenommen.
 
@@ -38,8 +33,7 @@ Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der Grundlage 
 
 (9) Im übrigen werden die Sächsische Staatsregierung und die Thüringer Landesregierung dafür Sorge tragen, daß die mit dem Übergang des Umgliederungsgebiets zusammenhängenden Fragen möglichst innerhalb von sechs Monaten nach dem Wechsel der Landeszugehörigkeit geregelt werden.
 
-
-## Art 3
+# Art 3
 
 (1) Das im Umgliederungsgebiet belegene Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht gegen angemessene Entschädigung mit allen Rechten, Lasten und Verpflichtungen auf die entsprechenden Körperschaften des öffentlichen Rechts im Freistaat Sachsen über. Eine Entschädigung ist nicht zu leisten, wenn es sich um Verwaltungsvermögen der Gemeinde Cunsdorf handelt; insofern sind auch situationsbedingte Wertsteigerungen unbeachtlich. Die Pflicht zur Entschädigungszahlung entfällt nicht hinsichtlich von Aufwendungen, Verwendungen usw. für dieses Verwaltungsvermögen. Im Zusammenhang mit dem Übergang des Umgliederungsgebiets durchzuführende Rechtshandlungen sind frei von nach Landesrecht zu erhebenden Abgaben und Gebühren.
 
@@ -51,13 +45,11 @@ Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der Grundlage 
 
 (5) Verbindlichkeiten, die sich für den Freistaat Thüringen aus Förderzusagen, Bewilligungsbescheiden und Verpflichtungsermächtigungen ergeben, die vor Inkrafttreten des Vertrages für das Umgliederungsgebiet oder Einwohnern dieses Gebiets erteilt wurden, übernimmt der Freistaat Sachsen, soweit in den Artikeln 5 bis 7 des Vertrages nichts anderes bestimmt ist. Gleiches gilt für Verbindlichkeiten gegenüber juristischen Personen, die im Umgliederungsgebiet ihren Sitz haben oder sich dort betätigen. Die Vertragsparteien sind sich einig, daß die genannten Verbindlichkeiten ermittelt und durch eine besondere Vereinbarung nachträglich geregelt werden.
 
-
-## Art 4
+# Art 4
 
 Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst innerhalb von sechs Monaten nach dem Wechsel der Landeszugehörigkeit des Umgliederungsgebiets die mit dem Übergang zusammenhängenden Fragen der Verwaltung wie die Übergabe von Akten, Urkunden, Registern und dergleichen durch Vereinbarung zu regeln sowie die für die Berichtigung des Grundbuchs erforderlichen Erklärungen abzugeben. Die Vereinbarungen bedürfen der Genehmigung der jeweils zuständigen Rechtsaufsichtsbehörde. Die Verpflichtung nach Satz 1 trifft auch sämtliche Landesbehörden einschließlich der Gerichte.
 
-
-## Art 5
+# Art 5
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums sind sich die Vertragsparteien über folgendes einig:
 
@@ -69,8 +61,7 @@ Für den Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und d
 
 4. Der Freistaat Sachsen unterläßt alle Maßnahmen, die geeignet sind, das Recht der Eltern oder sonstiger Sorgeberechtigten auf Wahl eines Kindergartenplatzes in Thüringen zu beeinträchtigen.
 
-
-## Art 6
+# Art 6
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums für Landwirtschaft und Forsten sind sich die Vertragsparteien über folgendes einig:
 
@@ -78,8 +69,7 @@ Für den Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtscha
 
 2. Der Freistaat Thüringen verzichtet auf eine Rückforderung der Fördermittel.
 
-
-## Art 7
+# Art 7
 
 Für den Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Ministeriums für Umwelt und Landesplanung sind sich die Vertragsparteien über folgendes einig:
 
@@ -91,13 +81,11 @@ Für den Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und L
 
 4. Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit ist über die Abgabe zu unterrichten.
 
-
-## Art 8
+# Art 8
 
 Die Anlage ist Bestandteil des Vertrages. Ausfertigungen der Anlage (Artikel 1 Abs. 3) werden bei dem Landesvermessungsamt Sachsen, bei dem Thüringer Landesverwaltungsamt und bei den Landratsämtern Greiz und Plauen aufbewahrt und können von jedermann eingesehen werden.
 
-
-## Art 9
+# Art 9
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden werden ausgetauscht, sobald der Sächsische Landtag und der Thüringer Landtag diesem Vertrag durch Gesetz zugestimmt haben.
 
@@ -105,9 +93,8 @@ Die Anlage ist Bestandteil des Vertrages. Ausfertigungen der Anlage (Artikel 1 A
 
 (3) Der Staatsvertrag tritt am Tage nach dem Austausch der Ratifikationsurkunden in Kraft.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 1994, 2857)
 
-![](../normengrafiken/bgbl1_1994/j2857_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1994/j2857_0010.jpg)

@@ -1,17 +1,13 @@
-# [PEhrlInstKostV 1996] Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz
-
-Ausfertigungsdatum: 16.12.1996
-
+% Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz
+% Ausfertigungsdatum: 16.12.1996
  
-
-## § 1
+# § 1
 
 (1) Das Paul-Ehrlich-Institut erhebt für seine Entscheidungen über die Zulassung eines Arzneimittels, über die Genehmigung einer Gewebezubereitung oder eines Arzneimittels für neuartige Therapien, über die Freigabe von Chargen sowie für andere individuell zurechenbare öffentliche Leistungen nach dem Arzneimittelgesetz Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Für die Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren Leistung werden Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung erhoben.
 
-
-## § 2
+# § 2
 
 (1) Für die Zulassung sind an Gebühren zu entrichten bei
 
@@ -207,8 +203,7 @@ so ist für die erste Zulassung die volle Gebühr und für jede weitere Zulassun
 
 (10) Für die Verlängerung der Schutzfrist nach § 24b Absatz 1 Satz 3 des Arzneimittelgesetzes wird eine Gebühr in Höhe von 800 Euro erhoben.
 
-
-## § 2a
+# § 2a
 
 (1) Für die Genehmigung von Gewebezubereitungen und Blutstammzellzubereitungen nach § 21a Absatz 1 des Arzneimittelgesetzes sind an Gebühren zu entrichten bei
 
@@ -229,20 +224,17 @@ so ist für die erste Zulassung die volle Gebühr und für jede weitere Zulassun
 
 (4) Hat die Genehmigung einen außergewöhnlich geringen Aufwand erfordert, so kann die Gebühr bis auf ein Viertel der Gebühr nach Absatz 1 und im Falle des Absatzes 2 bis auf ein Viertel der in Absatz 2 genannten Gebühr ermäßigt werden.
 
-
-## § 2b
+# § 2b
 
 (1) Für die Genehmigung von Arzneimitteln für neuartige Therapien nach § 4b Absatz 3 des Arzneimittelgesetzes wird eine Gebühr von 4 250 bis 17 000 Euro erhoben.
 
 (2) Hat die Genehmigung einen außergewöhnlich hohen Aufwand gefordert, gilt § 2 Absatz 4 entsprechend.
 
-
-## § 3
+# § 3
 
 Wird eine Auflage nach § 36 des Verwaltungsverfahrensgesetzes oder nach § 21a Absatz 5, § 28 oder § 30 Absatz 2a des Arzneimittelgesetzes nach Erteilung der Zulassung nach § 21 des Arzneimittelgesetzes oder im Rahmen der Genehmigungen nach § 4b Absatz 3 oder § 21a Absatz 1 des Arzneimittelgesetzes, jeweils in Verbindung mit § 21a Absatz 5 des Arzneimittelgesetzes, angeordnet, so wird dafür eine Gebühr von 260 bis 1 020 Euro erhoben. § 2 Absatz 2 und 3 gilt entsprechend. Wird dieselbe Auflage bei weiteren Arzneimitteln eines pharmazeutischen Unternehmers angeordnet und entsteht dadurch kein wesentlich weiterer Bearbeitungsaufwand, so beträgt die Gebühr für jedes weitere Arzneimittel ein Zehntel der für das erste Arzneimittel bestimmten Gebühr. Betrifft dieselbe Auflage mehrere pharmazeutische Unternehmer, so ist die Gebühr nach dem tatsächlichen Aufwand und anteilig nach der Anzahl der betroffenen pharmazeutischen Unternehmer zu bemessen. In diesen Fällen beträgt die Gebühr, abweichend von Satz 1, mindestens jeweils 100 Euro.
 
-
-## § 4
+# § 4
 
 (1) Bei folgenden Entscheidungen über die Zulassung nach § 21 des Arzneimittelgesetzes oder über eine Genehmigung nach § 21a oder nach § 4b des Arzneimittelgesetzes sind an Gebühren zu erheben für
 
@@ -555,8 +547,7 @@ einer größeren Änderung des Typs II im Sinne von Artikel 2 Nummer 3 der Veror
 
 (9) Im Falle des Absatzes 1 Nummer 3 Buchstabe a bis d kann die vorgesehene Gebühr bis auf ein Viertel ermäßigt werden, wenn der durch die Änderungsanzeige veranlasste Bearbeitungsaufwand besonders gering ist und deshalb die vorgesehene Gebühr oder Mindestgebühr nicht angemessen ist.
 
-
-## § 4a
+# § 4a
 
 (1) Für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit der klinischen Prüfung sind folgende Gebühren zu erheben:  
 Genehmigung der klinischen Prüfung nach § 42 Absatz 2 des Arzneimittelgesetzes,
@@ -808,8 +799,7 @@ Gebühr
   
 85 Euro.
 
-
-## § 4b
+# § 4b
 
 (1) Für die Bewertung des regelmäßigen, aktualisierten Berichts über die Unbedenklichkeit des Arzneimittels nach § 63b Absatz 5 des Arzneimittelgesetzes sind an Gebühren zu erheben, wenn
 
@@ -881,13 +871,11 @@ richt</td><td style="text-align: right;"><br />
 
 (4) Für die Verlängerung der Berichtsintervalle nach § 63b Absatz 5 Satz 5 des Arzneimittelgesetzes wird eine Gebühr in Höhe von 400 Euro erhoben.
 
-
-## § 4c
+# § 4c
 
 Wird zur Prüfung von zulassungsbezogenen Angaben nach § 25 Absatz 5 des Arzneimittelgesetzes oder zur Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken sowie der Koordinierung von Maßnahmen im Sinne des § 63b Absatz 5a des Arzneimittelgesetzes oder zur Prüfung von genehmigungsbezogenen Angaben nach § 42 Absatz 3 des Arzneimittelgesetzes in Verbindung mit § 9 Absatz 5 der GCP-Verordnung oder zur Überprüfung der Sammlung und Auswertung von Arzneimittelrisiken nach § 63b Absatz 5a oder § 63c Absatz 5 des Arzneimittelgesetzes eine Inspektion durchgeführt, so bestimmt sich die Gebühr nach dem Personalaufwand; sie beträgt höchstens 25 000 Euro. Der Gebührenschuldner ist zu hören, wenn eine solche Inspektion beabsichtigt ist, wenn die voraussichtliche Gebühr 5 000 Euro überschreitet.
 
-
-## § 5
+# § 5
 
 (1) Die Gebühr für die Freigabe einer Charge beträgt für
 
@@ -1099,18 +1087,15 @@ Plasmen
 
 (7) Wird die Freigabe einer Charge auf der Grundlage der Prüfung der zuständigen Behörde eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum erteilt, oder wurde die Charge vom Paul-Ehrlich-Institut im Sinne des § 8 Nummer 5 zertifiziert, so beträgt die Gebühr 100 Euro.
 
-
-## § 6
+# § 6
 
 Die nach den §§ 2 bis 5 zu erhebenden Gebühren können bis auf die Hälfte ermäßigt werden, wenn die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der individuell zurechenbaren öffentlichen Leistung für den Gebührenschuldner sowie dessen wirtschaftliche Verhältnisse dies rechtfertigen.
 
-
-## § 7
+# § 7
 
 Die nach den §§ 2 bis 5 zu erhebenden Gebühren können auf Antrag des Gebührenschuldners bis auf ein Viertel ermäßigt werden, wenn an dem Inverkehrbringen des Arzneimittels aufgrund des Anwendungsgebietes ein öffentliches Interesse besteht und der Antragsteller infolge der Seltenheit der Anwendungsfälle einen diesen Gebühren und dem Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht erwarten kann. Von der Erhebung der Gebühren kann ganz abgesehen werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Entwicklungskosten besonders gering ist.
 
-
-## § 8
+# § 8
 
 Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für
 
@@ -1212,8 +1197,7 @@ verfahrensgesetzes
   
 200 Euro.
 
-
-## § 9
+# § 9
 
 (1) Für die klinische Prüfung von Arzneimitteln, für die vor dem 6. August 2004 die nach § 40 Absatz 1 Satz 2 des Arzneimittelgesetzes in der bis zum 5. August 2004 geltenden Fassung erforderlichen Unterlagen der für den Leiter der klinischen Prüfung zuständigen Ethik-Kommission vorgelegt worden sind, sind für die Bearbeitung von Unterlagen für die klinische Prüfung nach § 40 Absatz 1 des Arzneimittelgesetzes in der bis zum 5. August 2004 geltenden Fassung an Gebühren zu erheben:
 
@@ -1231,8 +1215,7 @@ liegt</td><td style="text-align: right;"><br />
 
 (3) Die Kostenverordnung in der ab dem 24. Juli 2005 geltenden Fassung ist weiterhin auch auf Änderungen der Zulassung im Sinne von Artikel 4 der Verordnung (EG) Nr. 1084/2003 anzuwenden, die zwischen dem 1. Oktober 2003 und dem Inkrafttreten der Zweiten Verordnung zur Änderung der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz angezeigt worden sind.
 
-
-## § 10
+# § 10
 
 (1) Wird ein Widerspruch gegen eine
 
@@ -1252,13 +1235,11 @@ b) als unzulässig zurückgewiesen, beträgt die Gebühr 10 Prozent des streitig
 
 (3) Wird ein Widerspruch, nachdem mit der sachlichen Bearbeitung begonnen worden ist, vor deren Beendigung zurückgenommen, so beträgt die zu erhebende Gebühr höchstens 75 Prozent der in Absatz 1 vorgesehenen Gebühr.
 
-
-## § 11
+# § 11
 
 Auslagen werden nach Maßgabe des § 23 Absatz 6 des Bundesgebührengesetzes erhoben.
 
-
-## § 12
+# § 12
 
 (1) Diese Verordnung in der ab dem 4. Juli 2009 geltenden Fassung ist auch anzuwenden auf Fälle, in denen vor dem 4. Juli 2009 individuell zurechenbare öffentliche Leistungen im Sinne des § 2a vorgenommen worden sind und die Gebührenerhebung im Hinblick auf die Ergänzung der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts um einen entsprechenden Gebührentatbestand vorbehalten und der Antragsteller über die voraussichtliche Gebührenhöhe informiert worden ist.
 

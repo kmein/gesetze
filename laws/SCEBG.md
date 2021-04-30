@@ -1,10 +1,7 @@
-# [SCEBG] Gesetz über die Beteiligung der Arbeitnehmer und Arbeitnehmerinnen in einer Europäischen Genossenschaft  (SCE-Beteiligungsgesetz - SCEBG)
-
-Ausfertigungsdatum: 14.08.2006
-
+% Gesetz über die Beteiligung der Arbeitnehmer und Arbeitnehmerinnen in einer Europäischen Genossenschaft  (SCE-Beteiligungsgesetz - SCEBG)
+% Ausfertigungsdatum: 14.08.2006
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -326,8 +323,7 @@ Geltung nationalen Rechts
 
 Sonderregelung aus Anlass der COVID-19-Pandemie
 
-
-## § 1 – Zielsetzung des Gesetzes
+# § 1 – Zielsetzung des Gesetzes
 
 (1) Dieses Gesetz regelt die Beteiligung der Arbeitnehmer in einer Europäischen Genossenschaft, die Gegenstand der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S.1) ist. Ziel dieses Gesetzes ist, in einer Europäischen Genossenschaft die erworbenen Rechte der Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) auf Beteiligung an Unternehmensentscheidungen zu sichern. Maßgeblich für die Ausgestaltung der Beteiligungsrechte der Arbeitnehmer in der Europäischen Genossenschaft sind die bestehenden Beteiligungsrechte in den beteiligten juristischen Personen, die die Europäische Genossenschaft gründen.
 
@@ -337,8 +333,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (4) Die Grundsätze der Absätze 1 bis 3 gelten auch für strukturelle Änderungen einer gegründeten Europäischen Genossenschaft sowie für deren Auswirkungen auf die betroffenen Unternehmen und Betriebe und ihre Arbeitnehmer.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Der Begriff des Arbeitnehmers richtet sich nach den Rechtsvorschriften und Gepflogenheiten der jeweiligen Mitgliedstaaten. Arbeitnehmer eines inländischen Unternehmens oder Betriebs sind Arbeiter und Angestellte einschließlich der zu ihrer Berufsausbildung Beschäftigten und der in § 5 Abs. 3 Satz 2 des Betriebsverfassungsgesetzes genannten leitenden Angestellten, unabhängig davon, ob sie im Betrieb, im Außendienst oder mit Telearbeit beschäftigt werden. Als Arbeitnehmer gelten auch die in Heimarbeit Beschäftigten, die in der Hauptsache für die juristische Person oder den Betrieb arbeiten.
 
@@ -368,15 +363,13 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 2. die Wahrnehmung des Rechts, die Bestellung eines Teils oder aller Mitglieder des Aufsichts- oder Verwaltungsorgans der juristischen Person zu empfehlen oder abzulehnen.
 
-
-## § 3 – Geltungsbereich
+# § 3 – Geltungsbereich
 
 (1) Dieses Gesetz gilt für eine Europäische Genossenschaft mit Sitz im Inland. Es gilt unabhängig vom Sitz der Europäischen Genossenschaft auch für Arbeitnehmer der Europäischen Genossenschaft, die im Inland beschäftigt sind, sowie für beteiligte juristische Personen, betroffene Tochtergesellschaften und betroffene Betriebe mit Sitz im Inland.
 
 (2) Mitgliedstaaten im Sinn dieses Gesetzes sind die Mitgliedstaaten der Europäischen Union und die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum.
 
-
-## § 4 – Information der Leitungen
+# § 4 – Information der Leitungen
 
 (1) Ist die Gründung einer Europäischen Genossenschaft durch mindestens zwei juristische Personen oder durch Umwandlung geplant, informieren die Leitungen die Arbeitnehmervertretungen und Sprecherausschüsse in den beteiligten juristischen Personen, betroffenen Tochtergesellschaften und betroffenen Betrieben über das Gründungsvorhaben. Besteht keine Arbeitnehmervertretung, erfolgt die Information gegenüber den Arbeitnehmern. Die Information erfolgt unaufgefordert und unverzüglich nach Offenlegung des Verschmelzungsplans, nach der Erstellung der Satzung der Europäischen Genossenschaft oder nach Offenlegung des Umwandlungsplans.
 
@@ -392,8 +385,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (3) Maßgeblicher Zeitpunkt für die Ermittlung der Zahl der Arbeitnehmer ist der Zeitpunkt der Information nach Absatz 1.
 
-
-## § 5 – Zusammensetzung des besonderen Verhandlungsgremiums
+# § 5 – Zusammensetzung des besonderen Verhandlungsgremiums
 
 (1) Das besondere Verhandlungsgremium ist auf Grund einer schriftlichen Aufforderung der Leitungen zu bilden. Es hat die Aufgabe, mit den Leitungen eine schriftliche Vereinbarung über die Beteiligung der Arbeitnehmer in der Europäischen Genossenschaft abzuschließen.
 
@@ -405,8 +397,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (5) Treten während der Tätigkeitsdauer des besonderen Verhandlungsgremiums solche Änderungen in der Struktur oder Arbeitnehmerzahl der beteiligten juristischen Personen, der betroffenen Tochtergesellschaften oder der betroffenen Betriebe ein, dass sich die konkrete Zusammensetzung des besonderen Verhandlungsgremiums ändern würde, so ist das besondere Verhandlungsgremium entsprechend neu zusammenzusetzen. Über solche Änderungen haben die zuständigen Leitungen unverzüglich das besondere Verhandlungsgremium zu informieren. § 4 gilt entsprechend.
 
-
-## § 6 – Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums
+# § 6 – Persönliche Voraussetzungen der auf das Inland entfallenden Mitglieder des besonderen Verhandlungsgremiums
 
 (1) Die persönlichen Voraussetzungen der Mitglieder des besonderen Verhandlungsgremiums richten sich nach den jeweiligen Bestimmungen der Mitgliedstaaten, in denen sie gewählt oder bestellt werden.
 
@@ -416,8 +407,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (4) Gehören dem besonderen Verhandlungsgremium mehr als sechs Mitglieder aus dem Inland an, ist mindestens jedes siebte Mitglied ein leitender Angestellter.
 
-
-## § 7 – Verteilung der auf das Inland entfallenden Sitze des besonderen Verhandlungsgremiums
+# § 7 – Verteilung der auf das Inland entfallenden Sitze des besonderen Verhandlungsgremiums
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen Verhandlungsgremiums nach § 5 erfolgt nach den jeweiligen Bestimmungen der Mitgliedstaaten.
 
@@ -429,8 +419,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (5) Sind keine juristischen Personen mit Sitz im Inland an der Gründung der Europäischen Genossenschaft beteiligt, sondern von ihr nur Tochtergesellschaften oder Betriebe ausländischer juristischer Personen betroffen, gelten die Absätze 2 bis 4 entsprechend.
 
-
-## § 8 – Zusammensetzung des Wahlgremiums; Urwahl
+# § 8 – Zusammensetzung des Wahlgremiums; Urwahl
 
 (1) Die nach diesem Gesetz oder dem Gesetz eines anderen Mitgliedstaats auf die im Inland beschäftigten Arbeitnehmer der an der Gründung der Europäischen Genossenschaft beteiligten juristischen Personen, betroffenen Tochtergesellschaften und betroffenen Betriebe entfallenden Mitglieder des besonderen Verhandlungsgremiums werden von einem Wahlgremium in geheimer und unmittelbarer Wahl gewählt. Im Fall des § 6 Abs. 3 ist jedes dritte Mitglied auf Vorschlag einer Gewerkschaft zu wählen, die in einer der an der Gründung der Europäischen Genossenschaft beteiligten juristischen Personen, betroffenen Tochtergesellschaften oder betroffenen Betriebe vertreten ist. Wird nur ein Wahlvorschlag gemacht, muss dieser mindestens doppelt so viele Bewerber enthalten wie Vertreter von Gewerkschaften zu wählen sind. Jeder Wahlvorschlag einer Gewerkschaft muss von einem Vertreter der Gewerkschaft unterzeichnet sein. Im Fall des § 6 Abs. 4 ist jedes siebte Mitglied auf Vorschlag der Sprecherausschüsse zu wählen; Satz 3 gilt entsprechend. Besteht in einer der beteiligten juristischen Personen, betroffenen Tochtergesellschaften oder betroffenen Betriebe kein Sprecherausschuss, können die leitenden Angestellten Wahlvorschläge machen; ein Wahlvorschlag muss von einem Zwanzigstel oder 50 der wahlberechtigten leitenden Angestellten unterzeichnet sein.
 
@@ -446,8 +435,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (7) Besteht in den Fällen der Absätze 2 bis 5 keine Arbeitnehmervertretung, wählen die Arbeitnehmer die Mitglieder des besonderen Verhandlungsgremiums in geheimer und unmittelbarer Wahl. Die Wahl wird von einem Wahlvorstand eingeleitet und durchgeführt, der in einer Versammlung der Arbeitnehmer gewählt wird, zu der die inländische Konzernleitung, Unternehmensleitung oder Betriebsleitung einlädt. Die Wahl der Mitglieder des besonderen Verhandlungsgremiums erfolgt nach den Grundsätzen der Verhältniswahl. Sie erfolgt nach den Grundsätzen der Mehrheitswahl, wenn nur ein Wahlvorschlag eingereicht wird. Jeder Wahlvorschlag der Arbeitnehmer muss von mindestens einem Zwanzigstel der wahlberechtigten Arbeitnehmer, mindestens jedoch von drei Wahlberechtigten, höchstens aber von 50 Wahlberechtigten unterzeichnet sein; in Betrieben mit in der Regel bis zu 20 wahlberechtigten Arbeitnehmern genügt die Unterzeichnung durch zwei Wahlberechtigte. Absatz 1 Satz 2 bis 6 gilt entsprechend.
 
-
-## § 9 – Einberufung des Wahlgremiums
+# § 9 – Einberufung des Wahlgremiums
 
 (1) Auf der Grundlage der von den Leitungen erhaltenen Informationen hat der Vorsitzende der Arbeitnehmervertretung auf Konzernebene oder, sofern eine solche nicht besteht, auf Unternehmensebene oder, sofern eine solche nicht besteht, auf Betriebsebene
 
@@ -459,8 +447,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (2) Bestehen auf einer Ebene mehrere Arbeitnehmervertretungen, treffen die Verpflichtungen nach Absatz 1 den Vorsitzenden der Arbeitnehmervertretung, die die meisten Arbeitnehmer vertritt.
 
-
-## § 10 – Wahl der Mitglieder des besonderen Verhandlungsgremiums
+# § 10 – Wahl der Mitglieder des besonderen Verhandlungsgremiums
 
 (1) Bei der Wahl müssen mindestens zwei Drittel der Mitglieder des Wahlgremiums, die mindestens zwei Drittel der Arbeitnehmer vertreten, anwesend sein. Die Mitglieder des Wahlgremiums haben jeweils so viele Stimmen, wie sie Arbeitnehmer vertreten. Die Wahl erfolgt mit einfacher Mehrheit der abgegebenen Stimmen.
 
@@ -468,36 +455,31 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (3) Sind für eine Arbeitnehmervertretung mehrere Mitglieder im Wahlgremium vertreten, werden die entsprechend der von ihnen vertretenen Arbeitnehmer bestehenden Stimmenanteile gleichmäßig aufgeteilt. Dies gilt auch für die nach § 8 Abs. 5 Satz 3 gewählten Mitglieder des Wahlgremiums.
 
-
-## § 11 – Information über die Mitglieder des besonderen Verhandlungsgremiums
+# § 11 – Information über die Mitglieder des besonderen Verhandlungsgremiums
 
 (1) Die Wahl oder Bestellung der Mitglieder des besonderen Verhandlungsgremiums soll innerhalb von zehn Wochen nach der in § 4 Abs. 1 und 2 vorgeschriebenen Information erfolgen. Den Leitungen sind unverzüglich die Namen der Mitglieder des besonderen Verhandlungsgremiums, ihre Anschriften sowie die jeweilige Betriebszugehörigkeit mitzuteilen. Die Leitungen haben die örtlichen Betriebs- und Unternehmensleitungen, die dort bestehenden Arbeitnehmervertretungen und Sprecherausschüsse sowie die in inländischen Betrieben vertretenen Gewerkschaften über diese Angaben zu informieren.
 
 (2) Das Verhandlungsverfahren nach den §§ 12 bis 17 findet auch dann statt, wenn die in Absatz 1 Satz 1 genannte Frist aus Gründen, die die Arbeitnehmer zu vertreten haben, überschritten wird. Nach Ablauf der Frist gewählte oder bestellte Mitglieder können sich jederzeit an dem Verhandlungsverfahren beteiligen.
 
-
-## § 12 – Sitzungen, Geschäftsordnung
+# § 12 – Sitzungen, Geschäftsordnung
 
 (1) Die Leitungen laden unverzüglich nach Benennung der Mitglieder oder im Fall des § 11 nach Ablauf der in § 11 Abs. 1 Satz 1 genannten Frist zur konstituierenden Sitzung des besonderen Verhandlungsgremiums ein und informieren die örtlichen Betriebs- und Unternehmensleitungen. Das besondere Verhandlungsgremium wählt aus seiner Mitte einen Vorsitzenden und mindestens zwei Stellvertreter. Es kann sich eine schriftliche Geschäftsordnung geben.
 
 (2) Der Vorsitzende kann weitere Sitzungen einberufen.
 
-
-## § 13 – Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen
+# § 13 – Zusammenarbeit zwischen besonderem Verhandlungsgremium und Leitungen
 
 (1) Das besondere Verhandlungsgremium schließt mit den Leitungen eine schriftliche Vereinbarung über die Beteiligung der Arbeitnehmer in der Europäischen Genossenschaft ab. Zur Erfüllung dieser Aufgabe arbeiten sie vertrauensvoll zusammen.
 
 (2) Die Leitungen haben dem besonderen Verhandlungsgremium rechtzeitig alle erforderlichen Auskünfte zu erteilen und die erforderlichen Unterlagen zur Verfügung zu stellen. Das besondere Verhandlungsgremium ist insbesondere über das Gründungsvorhaben und den Verlauf des Verfahrens bis zur Eintragung der Europäischen Genossenschaft zu unterrichten. Zeitpunkt, Häufigkeit und Ort der Verhandlungen werden zwischen den Leitungen und dem besonderen Verhandlungsgremium einvernehmlich festgelegt.
 
-
-## § 14 – Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
+# § 14 – Sachverständige und Vertreter von geeigneten außenstehenden Organisationen
 
 (1) Das besondere Verhandlungsgremium kann bei den Verhandlungen Sachverständige seiner Wahl, zu denen auch Vertreter von einschlägigen Gewerkschaftsorganisationen auf Gemeinschaftsebene zählen können, hinzuziehen, um sich von ihnen bei seiner Arbeit unterstützen zu lassen. Diese Sachverständigen können, wenn das besondere Verhandlungsgremium es wünscht, an den Verhandlungen in beratender Funktion teilnehmen.
 
 (2) Das besondere Verhandlungsgremium kann beschließen, die Vertreter von geeigneten außenstehenden Organisationen vom Beginn der Verhandlungen zu unterrichten.
 
-
-## § 15 – Beschlussfassung im besonderen Verhandlungsgremium
+# § 15 – Beschlussfassung im besonderen Verhandlungsgremium
 
 (1) Die Mitglieder des besonderen Verhandlungsgremiums, die in einem Mitgliedstaat gewählt oder bestellt werden, vertreten alle in dem jeweiligen Mitgliedstaat beschäftigten Arbeitnehmer. Solange aus einem Mitgliedstaat keine Mitglieder in das besondere Verhandlungsgremium gewählt oder bestellt sind (§ 11 Abs. 2), gelten die betroffenen Arbeitnehmer als nicht vertreten.
 
@@ -517,8 +499,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (5) Wird eine Europäische Genossenschaft durch Umwandlung gegründet, kann ein Beschluss nach Absatz 3 nicht gefasst werden.
 
-
-## § 16 – Nichtaufnahme oder Abbruch der Verhandlungen
+# § 16 – Nichtaufnahme oder Abbruch der Verhandlungen
 
 (1) Das besondere Verhandlungsgremium kann beschließen, keine Verhandlungen aufzunehmen oder bereits aufgenommene Verhandlungen abzubrechen. Für diesen Beschluss ist eine Mehrheit von zwei Dritteln der Mitglieder erforderlich, die mindestens zwei Drittel der Arbeitnehmer in mindestens zwei Mitgliedstaaten vertreten. Die Vorschriften für die Unterrichtung und Anhörung der Arbeitnehmer, die in den Mitgliedstaaten gelten, in denen die Europäische Genossenschaft Arbeitnehmer beschäftigt, finden Anwendung.
 
@@ -526,8 +507,7 @@ Sonderregelung aus Anlass der COVID-19-Pandemie
 
 (3) Wird eine Europäische Genossenschaft durch Umwandlung gegründet, kann ein Beschluss nach Absatz 1 nicht gefasst werden, wenn den Arbeitnehmern der umzuwandelnden Genossenschaft Mitbestimmungsrechte zustehen.
 
-
-## § 17 – Niederschrift
+# § 17 – Niederschrift
 
 In eine Niederschrift, die vom Vorsitzenden und einem weiteren Mitglied des besonderen Verhandlungsgremiums zu unterzeichnen ist, sind aufzunehmen
 
@@ -539,8 +519,7 @@ In eine Niederschrift, die vom Vorsitzenden und einem weiteren Mitglied des beso
 
 Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
 
-
-## § 18 – Wiederaufnahme der Verhandlungen
+# § 18 – Wiederaufnahme der Verhandlungen
 
 (1) Frühestens zwei Jahre nach dem Beschluss nach § 16 Abs. 1 wird auf schriftlichen Antrag von mindestens 10 Prozent der Arbeitnehmer der Europäischen Genossenschaft, ihrer Tochtergesellschaften und Betriebe oder von deren Vertretern ein besonderes Verhandlungsgremium erneut gebildet, mit der Maßgabe, dass an die Stelle der beteiligten juristischen Personen, betroffenen Tochtergesellschaften und betroffenen Betriebe die Europäische Genossenschaft, ihre Tochtergesellschaften und ihre Betriebe treten. Die Parteien können eine frühere Wiederaufnahme der Verhandlungen vereinbaren.
 
@@ -550,20 +529,17 @@ Eine Abschrift der Niederschrift ist den Leitungen zu übermitteln.
 
 (4) In den Fällen der Absätze 1 und 3 gelten die Vorschriften dieses Teils entsprechend mit der Maßgabe, dass an die Stelle der Leitungen die Leitung der Europäischen Genossenschaft tritt.
 
-
-## § 19 – Kosten des besonderen Verhandlungsgremiums
+# § 19 – Kosten des besonderen Verhandlungsgremiums
 
 Die durch die Bildung und Tätigkeit des besonderen Verhandlungsgremiums entstehenden erforderlichen Kosten tragen die beteiligten juristischen Personen und nach ihrer Gründung die Europäische Genossenschaft als Gesamtschuldner. Insbesondere sind für die Sitzungen in erforderlichem Umfang Räume, sachliche Mittel, Dolmetscher und Büropersonal zur Verfügung zu stellen sowie die erforderlichen Reise- und Aufenthaltskosten der Mitglieder des besonderen Verhandlungsgremiums zu tragen.
 
-
-## § 20 – Dauer der Verhandlungen
+# § 20 – Dauer der Verhandlungen
 
 (1) Die Verhandlungen beginnen mit der Einsetzung des besonderen Verhandlungsgremiums und können bis zu sechs Monate dauern. Einsetzung bezeichnet den Tag, zu dem die Leitungen zur konstituierenden Sitzung des besonderen Verhandlungsgremiums eingeladen haben.
 
 (2) Die Parteien können einvernehmlich beschließen, die Verhandlungen über den in Absatz 1 genannten Zeitraum hinaus bis zu insgesamt einem Jahr ab der Einsetzung des besonderen Verhandlungsgremiums fortzusetzen.
 
-
-## § 21 – Inhalt der Vereinbarung
+# § 21 – Inhalt der Vereinbarung
 
 (1) In der schriftlichen Vereinbarung zwischen den Leitungen und dem besonderen Verhandlungsgremium wird, unbeschadet der Autonomie der Parteien im Übrigen und vorbehaltlich des Absatzes 5, festgelegt:
 
@@ -595,8 +571,7 @@ Die durch die Bildung und Tätigkeit des besonderen Verhandlungsgremiums entsteh
 
 (5) Unbeschadet des Verhältnisses dieses Gesetzes zu anderen Regelungen der Mitbestimmung der Arbeitnehmer auf Unternehmensebene muss in der Vereinbarung im Fall einer durch Umwandlung gegründeten Europäischen Genossenschaft in Bezug auf alle Komponenten der Arbeitnehmerbeteiligung zumindest das gleiche Ausmaß gewährleistet werden, das in der Genossenschaft besteht, die in eine Europäische Genossenschaft umgewandelt werden soll. Dies gilt auch bei einem Wechsel der Genossenschaft von einer dualistischen zu einer monistischen Organisationsstruktur und umgekehrt.
 
-
-## § 22 – Voraussetzung
+# § 22 – Voraussetzung
 
 (1) Die §§ 23 bis 33 über den SCE-Betriebsrat kraft Gesetzes finden ab dem Zeitpunkt der Eintragung der Europäischen Genossenschaft Anwendung, wenn
 
@@ -606,8 +581,7 @@ Die durch die Bildung und Tätigkeit des besonderen Verhandlungsgremiums entsteh
 
 (2) Absatz 1 gilt entsprechend im Fall des § 18 Abs. 3.
 
-
-## § 23 – Errichtung des SCE-Betriebsrats
+# § 23 – Errichtung des SCE-Betriebsrats
 
 (1) Zur Sicherung des Rechts auf Unterrichtung und Anhörung in der Europäischen Genossenschaft ist ein SCE-Betriebsrat zu errichten. Dieser setzt sich aus Arbeitnehmern der Europäischen Genossenschaft, ihrer Tochtergesellschaften und Betriebe zusammen. Für die Errichtung des SCE-Betriebsrats gelten § 5 Abs. 2, § 6 Abs. 1 und 2 Satz 2 und 3, die §§ 7 bis 10 und 11 Abs. 1 Satz 2 und 3 entsprechend mit der Maßgabe, dass an die Stelle der beteiligten juristischen Personen, betroffenen Tochtergesellschaften und betroffenen Betriebe die Europäische Genossenschaft, ihre Tochtergesellschaften und ihre Betriebe treten. Im Fall des § 22 Abs. 1 Nr. 2 ist für die Feststellung der Zahl der beschäftigten Arbeitnehmer das Ende des in § 20 angegebenen Zeitraums maßgeblich. Die Mitgliedschaft im SCE-Betriebsrat beginnt mit der Wahl oder Bestellung. Die Dauer der Mitgliedschaft der aus dem Inland kommenden Mitglieder beträgt vier Jahre, wenn sie nicht durch Abberufung oder aus anderen Gründen vorzeitig endet. Für die Abberufung gelten die §§ 8 bis 10 entsprechend mit der Maßgabe, dass an die Stelle der beteiligten juristischen Personen, betroffenen Tochtergesellschaften und betroffenen Betriebe die Europäische Genossenschaft, ihre Tochtergesellschaften und ihre Betriebe treten.
 
@@ -617,8 +591,7 @@ Die durch die Bildung und Tätigkeit des besonderen Verhandlungsgremiums entsteh
 
 (4) Der SCE-Betriebsrat bildet aus seiner Mitte einen Ausschuss von drei Mitgliedern, dem neben dem Vorsitzenden zwei weitere zu wählende Mitglieder angehören. Der Ausschuss führt die laufenden Geschäfte des SCE-Betriebsrats (geschäftsführender Ausschuss).
 
-
-## § 24 – Sitzungen und Beschlüsse
+# § 24 – Sitzungen und Beschlüsse
 
 (1) Der SCE-Betriebsrat soll sich eine schriftliche Geschäftsordnung geben, die er mit der Mehrheit seiner Mitglieder beschließt.
 
@@ -626,25 +599,21 @@ Die durch die Bildung und Tätigkeit des besonderen Verhandlungsgremiums entsteh
 
 (3) Der SCE-Betriebsrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder anwesend ist. Die Beschlüsse des SCE-Betriebsrats werden, soweit in diesem Gesetz nichts anderes bestimmt ist, mit der Mehrheit der anwesenden Mitglieder gefasst.
 
-
-## § 25 – Prüfung der Zusammensetzung des SCE-Betriebsrats
+# § 25 – Prüfung der Zusammensetzung des SCE-Betriebsrats
 
 Alle zwei Jahre, vom Tag der konstituierenden Sitzung des SCE-Betriebsrats an gerechnet, hat die Leitung der Europäischen Genossenschaft zu prüfen, ob Änderungen der Europäischen Genossenschaft und ihrer Tochtergesellschaften und Betriebe, insbesondere bei den Arbeitnehmerzahlen in den einzelnen Mitgliedstaaten eingetreten sind. Sie hat das Ergebnis dem SCE-Betriebsrat mitzuteilen. Ist danach eine andere Zusammensetzung des SCE-Betriebsrats erforderlich, veranlasst dieser bei den in den jeweiligen Mitgliedstaaten zuständigen Stellen, dass die Mitglieder des SCE-Betriebsrats in diesen Mitgliedstaaten neu gewählt oder bestellt werden. Mit der neuen Wahl oder Bestellung endet die Mitgliedschaft der bisherigen Arbeitnehmervertreter aus diesen Mitgliedstaaten.
 
-
-## § 26 – Beschluss zur Aufnahme von Neuverhandlungen
+# § 26 – Beschluss zur Aufnahme von Neuverhandlungen
 
 (1) Spätestens vier Jahre nach seiner Einsetzung hat der SCE-Betriebsrat mit der Mehrheit seiner Mitglieder einen Beschluss darüber zu fassen, ob über eine Vereinbarung nach § 21 verhandelt werden oder die bisherige Regelung weiter gelten soll.
 
 (2) Wird der Beschluss gefasst, über eine Vereinbarung nach § 21 zu verhandeln, gelten die §§ 13 bis 15, 17, 20 und 21 entsprechend mit der Maßgabe, dass an die Stelle des besonderen Verhandlungsgremiums der SCE-Betriebsrat tritt. Kommt keine Vereinbarung zustande, findet die bisherige Regelung weiter Anwendung.
 
-
-## § 27 – Zuständigkeiten des SCE-Betriebsrats
+# § 27 – Zuständigkeiten des SCE-Betriebsrats
 
 Der SCE-Betriebsrat ist zuständig für die Angelegenheiten, die die Europäische Genossenschaft selbst, eine ihrer Tochtergesellschaften oder einen ihrer Betriebe in einem anderen Mitgliedstaat betreffen oder die über die Befugnisse der zuständigen Organe auf der Ebene des einzelnen Mitgliedstaats hinausgehen.
 
-
-## § 28 – Jährliche Unterrichtung und Anhörung
+# § 28 – Jährliche Unterrichtung und Anhörung
 
 (1) Die Leitung der Europäischen Genossenschaft hat den SCE-Betriebsrat mindestens einmal im Kalenderjahr in einer gemeinsamen Sitzung über die Entwicklung der Geschäftslage und die Perspektiven der Europäischen Genossenschaft unter rechtzeitiger Vorlage der erforderlichen Unterlagen zu unterrichten und ihn anzuhören. Zu den erforderlichen Unterlagen gehören insbesondere
 
@@ -678,8 +647,7 @@ Der SCE-Betriebsrat ist zuständig für die Angelegenheiten, die die Europäisch
 
 (3) Die Leitung der Europäischen Genossenschaft informiert die Leitungen über Ort und Tag der Sitzung.
 
-
-## § 29 – Unterrichtung und Anhörung über außergewöhnliche Umstände
+# § 29 – Unterrichtung und Anhörung über außergewöhnliche Umstände
 
 (1) Über außergewöhnliche Umstände, die erhebliche Auswirkungen auf die Interessen der Arbeitnehmer haben, hat die Leitung der Europäischen Genossenschaft den SCE-Betriebsrat rechtzeitig unter Vorlage der erforderlichen Unterlagen zu unterrichten. Als außergewöhnliche Umstände gelten insbesondere
 
@@ -695,28 +663,23 @@ Der SCE-Betriebsrat ist zuständig für die Angelegenheiten, die die Europäisch
 
 (4) Wenn die Leitung der Europäischen Genossenschaft beschließt, nicht entsprechend der von dem SCE-Betriebsrat oder dem geschäftsführenden Ausschuss abgegebenen Stellungnahme zu handeln, hat der SCE-Betriebsrat das Recht, ein weiteres Mal mit der Leitung der Europäischen Genossenschaft zusammenzutreffen, um eine Einigung herbeizuführen.
 
-
-## § 30 – Information durch den SCE-Betriebsrat
+# § 30 – Information durch den SCE-Betriebsrat
 
 Der SCE-Betriebsrat informiert die Arbeitnehmervertreter der Europäischen Genossenschaft, ihrer Tochtergesellschaften und ihrer Betriebe über den Inhalt und die Ergebnisse der Unterrichtungs- und Anhörungsverfahren. Sind keine Arbeitnehmervertreter vorhanden, sind die Arbeitnehmer zu informieren.
 
-
-## § 31 – Fortbildung
+# § 31 – Fortbildung
 
 Der SCE-Betriebsrat kann Mitglieder zur Teilnahme an Schulungs- und Bildungsveranstaltungen bestimmen, soweit diese Kenntnisse vermitteln, die für die Arbeit des SCE-Betriebsrats erforderlich sind. Der SCE-Betriebsrat hat die Teilnahme und die zeitliche Lage rechtzeitig der Leitung der Europäischen Genossenschaft mitzuteilen. Bei der Festlegung der zeitlichen Lage sind die betrieblichen Notwendigkeiten zu berücksichtigen.
 
-
-## § 32 – Sachverständige
+# § 32 – Sachverständige
 
 Der SCE-Betriebsrat oder der geschäftsführende Ausschuss können sich durch Sachverständige ihrer Wahl unterstützen lassen, soweit dies zur ordnungsgemäßen Erfüllung ihrer Aufgaben erforderlich ist. Sachverständige können auch Vertreter von Gewerkschaften sein.
 
-
-## § 33 – Kosten und Sachaufwand
+# § 33 – Kosten und Sachaufwand
 
 Die durch die Bildung und Tätigkeit des SCE-Betriebsrats und des geschäftsführenden Ausschusses entstehenden erforderlichen Kosten trägt die Europäische Genossenschaft. Im Übrigen gilt § 19 Satz 2 entsprechend.
 
-
-## § 34 – Besondere Voraussetzungen
+# § 34 – Besondere Voraussetzungen
 
 (1) Liegen die Voraussetzungen des § 22 vor, finden die Regelungen über die Mitbestimmung der Arbeitnehmer kraft Gesetzes nach den §§ 35 bis 38 Anwendung
 
@@ -738,15 +701,13 @@ b) vor der Eintragung der Europäischen Genossenschaft in einer oder mehreren de
 
 (3) Das besondere Verhandlungsgremium unterrichtet die Leitungen über die Beschlüsse, die es nach Absatz 1 Nr. 2 Buchstabe b und Nr. 3 Buchstabe b und Absatz 2 Satz 1 gefasst hat.
 
-
-## § 35 – Umfang der Mitbestimmung
+# § 35 – Umfang der Mitbestimmung
 
 (1) Liegen die Voraussetzungen des § 34 Abs. 1 Nr. 1 (Gründung einer Europäischen Genossenschaft durch Umwandlung) vor, bleibt die Regelung zur Mitbestimmung erhalten, die in der Genossenschaft vor der Umwandlung bestanden hat.
 
 (2) Liegen die Voraussetzungen des § 34 Abs. 1 Nr. 2 (Gründung einer Europäischen Genossenschaft durch Verschmelzung) oder des § 34 Abs. 1 Nr. 3 (Gründung auf andere Weise) vor, haben die Arbeitnehmer der Europäischen Genossenschaft, ihrer Tochtergesellschaften und ihrer Betriebe oder ihr Vertretungsorgan das Recht, einen Teil der Mitglieder des Aufsichts- oder Verwaltungsorgans der Europäischen Genossenschaft zu wählen oder zu bestellen oder deren Bestellung zu empfehlen oder abzulehnen. Die Zahl dieser Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan der Europäischen Genossenschaft bemisst sich nach dem höchsten Anteil an Arbeitnehmervertretern, der in den Organen der beteiligten juristischen Personen vor der Eintragung der Europäischen Genossenschaft bestanden hat.
 
-
-## § 36 – Sitzverteilung und Bestellung
+# § 36 – Sitzverteilung und Bestellung
 
 (1) Der SCE-Betriebsrat verteilt die Zahl der Sitze im Aufsichts- oder Verwaltungsorgan der Europäischen Genossenschaft auf die Mitgliedstaaten, in denen Mitglieder zu wählen oder zu bestellen sind. Die Verteilung richtet sich nach dem jeweiligen Anteil der in den einzelnen Mitgliedstaaten beschäftigten Arbeitnehmer der Europäischen Genossenschaft, ihrer Tochtergesellschaften und ihrer Betriebe. Können bei dieser anteiligen Verteilung die Arbeitnehmer aus einem oder mehreren Mitgliedstaaten keinen Sitz erhalten, hat der SCE-Betriebsrat den letzten zu verteilenden Sitz einem bisher unberücksichtigten Mitgliedstaat zuzuweisen. Dieser Sitz soll, soweit angemessen, dem Mitgliedstaat zugewiesen werden, in dem die Europäische Genossenschaft ihren Sitz haben wird. Dieses Verteilungsverfahren gilt auch in dem Fall, in dem die Arbeitnehmer der Europäischen Genossenschaft Mitglieder dieser Organe empfehlen oder ablehnen können.
 
@@ -756,8 +717,7 @@ b) vor der Eintragung der Europäischen Genossenschaft in einer oder mehreren de
 
 (4) Die nach den Absätzen 2 und 3 ermittelten Arbeitnehmervertreter werden der Generalversammlung der Europäischen Genossenschaft zur Bestellung vorgeschlagen. Die Generalversammlung ist an diese Vorschläge gebunden.
 
-
-## § 37 – Abberufung und Anfechtung
+# § 37 – Abberufung und Anfechtung
 
 (1) Ein Mitglied oder ein Ersatzmitglied der Arbeitnehmer aus dem Inland im Aufsichts- oder Verwaltungsorgan der Europäischen Genossenschaft kann vor Ablauf der Amtszeit abberufen werden. Antragsberechtigt sind
 
@@ -773,8 +733,7 @@ Für das Abberufungsverfahren gelten die §§ 8 bis 10 entsprechend mit der Maß
 
 (2) Die Wahl eines Mitglieds oder eines Ersatzmitglieds der Arbeitnehmer aus dem Inland im Aufsichts- oder Verwaltungsorgan der Europäischen Genossenschaft kann angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte. Zur Anfechtung berechtigt sind die in Absatz 1 Satz 2 Genannten, der SCE-Betriebsrat und die Leitung der Europäischen Genossenschaft. Die Klage muss innerhalb eines Monats nach dem Bestellungsbeschluss der Generalversammlung erhoben werden.
 
-
-## § 38 – Rechtsstellung; Innere Ordnung
+# § 38 – Rechtsstellung; Innere Ordnung
 
 (1) Die Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan der Europäischen Genossenschaft haben die gleichen Rechte und Pflichten wie die Mitglieder des Aufsichts- oder Verwaltungsorgans, die die Mitglieder der Europäischen Genossenschaft vertreten.
 
@@ -782,8 +741,7 @@ Für das Abberufungsverfahren gelten die §§ 8 bis 10 entsprechend mit der Maß
 
 (3) Besteht in einer der beteiligten juristischen Personen das Aufsichtsorgan aus derselben Zahl von Mitglieder- und Arbeitnehmervertretern sowie einem weiteren Mitglied, ist auch im Aufsichts- und Verwaltungsorgan der Europäischen Genossenschaft ein weiteres Mitglied auf gemeinsamen Vorschlag der Mitglieder- und der Arbeitnehmervertreter zu wählen.
 
-
-## § 39 – Tendenzunternehmen
+# § 39 – Tendenzunternehmen
 
 (1) Auf eine Europäische Genossenschaft, die unmittelbar und überwiegend
 
@@ -795,13 +753,11 @@ dient, findet Abschnitt 2 keine Anwendung.
 
 (2) Eine Unterrichtung und Anhörung beschränkt sich auf die Gegenstände des § 28 Abs. 2 Nr. 5 bis 10 und des § 29 und erfolgt nur über den Ausgleich oder die Milderung der wirtschaftlichen Nachteile, die den Arbeitnehmern infolge der Unternehmens- oder Betriebsänderung entstehen.
 
-
-## § 40 – Gründung einer Europäischen Genossenschaft durch mindestens zwei juristische Personen zusammen mit natürlichen Personen
+# § 40 – Gründung einer Europäischen Genossenschaft durch mindestens zwei juristische Personen zusammen mit natürlichen Personen
 
 Erfolgt die Gründung einer Europäischen Genossenschaft durch mindestens zwei juristische Personen zusammen mit natürlichen Personen, finden die §§ 1 bis 39 entsprechende Anwendung.
 
-
-## § 41 – Gründung einer Europäischen Genossenschaft durch ausschließlich natürliche Personen oder durch nur eine juristische Person zusammen mit natürlichen Personen
+# § 41 – Gründung einer Europäischen Genossenschaft durch ausschließlich natürliche Personen oder durch nur eine juristische Person zusammen mit natürlichen Personen
 
 (1) Wird eine Europäische Genossenschaft ausschließlich von natürlichen Personen oder von nur einer juristischen Person zusammen mit natürlichen Personen gegründet und sind bei den beteiligten natürlichen Personen und in der beteiligten juristischen Person sowie den betroffenen Tochtergesellschaften und betroffenen Betrieben vor der Gründung insgesamt mindestens 50 Arbeitnehmer beschäftigt, die aus mehreren Mitgliedstaaten kommen, finden die §§ 1 bis 39 entsprechende Anwendung.
 
@@ -823,13 +779,11 @@ In diesen Fällen erfolgt die entsprechende Anwendung mit der Maßgabe, dass an 
 
 (4) Wird der Sitz einer Europäischen Genossenschaft, in der Bestimmungen über die Mitbestimmung der Arbeitnehmer im Aufsichts- oder Verwaltungsorgan gelten, von einem Mitgliedstaat in einen anderen verlegt, ist den Arbeitnehmern nach der Sitzverlegung mindestens dasselbe Niveau an Mitbestimmungsrechten zu gewährleisten.
 
-
-## § 42 – Vertrauensvolle Zusammenarbeit
+# § 42 – Vertrauensvolle Zusammenarbeit
 
 Die Leitung der Europäischen Genossenschaft und der SCE-Betriebsrat oder die Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und Anhörung arbeiten zum Wohl der Arbeitnehmer und des Unternehmens oder der Unternehmensgruppe vertrauensvoll zusammen.
 
-
-## § 43 – Geheimhaltung; Vertraulichkeit
+# § 43 – Geheimhaltung; Vertraulichkeit
 
 (1) Informationspflichten der Leitungen und der Leitung der Europäischen Genossenschaft nach diesem Gesetz bestehen nur, soweit bei Zugrundelegung objektiver Kriterien dadurch nicht Betriebs- oder Geschäftsgeheimnisse der an der Gründung beteiligten juristischen Personen, der Europäischen Genossenschaft oder deren jeweiliger Tochtergesellschaften und Betriebe gefährdet werden.
 
@@ -861,8 +815,7 @@ Die Leitung der Europäischen Genossenschaft und der SCE-Betriebsrat oder die Ar
 
 2. die Arbeitnehmervertreter nach Absatz 4 Nr. 3 gegenüber Arbeitnehmervertretern im Aufsichts- oder Verwaltungsorgan der Europäischen Genossenschaft, gegenüber Dolmetschern und Sachverständigen, die vereinbarungsgemäß zur Unterstützung herangezogen werden und gegenüber Arbeitnehmervertretern der Europäischen Genossenschaft, ihrer Tochtergesellschaften und ihrer Betriebe, sofern diese nach der Vereinbarung (§ 21) über den Inhalt der Unterrichtungen und die Ergebnisse der Anhörung zu unterrichten sind.
 
-
-## § 44 – Schutz der Arbeitnehmervertreter
+# § 44 – Schutz der Arbeitnehmervertreter
 
 Bei der Wahrnehmung ihrer Aufgaben genießen die
 
@@ -876,13 +829,11 @@ Bei der Wahrnehmung ihrer Aufgaben genießen die
 
 die Beschäftigte der Europäischen Genossenschaft, ihrer Tochtergesellschaften oder ihrer Betriebe oder einer der beteiligten juristischen Personen, betroffenen Tochtergesellschaften oder betroffenen Betriebe sind, den gleichen Schutz und die gleichen Sicherheiten wie die Arbeitnehmervertreter nach den Gesetzen und Gepflogenheiten des Mitgliedstaats, in dem sie beschäftigt sind. Dies gilt insbesondere für den Kündigungsschutz, die Teilnahme an den Sitzungen der jeweiligen in Satz 1 genannten Gremien und die Entgeltfortzahlung.
 
-
-## § 45 – Missbrauchsverbot
+# § 45 – Missbrauchsverbot
 
 Eine Europäische Genossenschaft darf nicht dazu missbraucht werden, den Arbeitnehmern Beteiligungsrechte zu entziehen oder vorzuenthalten. Missbrauch wird vermutet, wenn ohne Durchführung eines Verfahrens nach § 18 Abs. 3 innerhalb eines Jahres nach Gründung der Europäischen Genossenschaft strukturelle Änderungen stattfinden, die bewirken, dass den Arbeitnehmern Beteiligungsrechte vorenthalten oder entzogen werden.
 
-
-## § 46 – Errichtungs- und Tätigkeitsschutz
+# § 46 – Errichtungs- und Tätigkeitsschutz
 
 Niemand darf
 
@@ -892,8 +843,7 @@ Niemand darf
 
 3. ein Mitglied oder Ersatzmitglied des besonderen Verhandlungsgremiums, des SCE-Betriebsrats oder einen Arbeitnehmervertreter nach § 21 Abs. 2 oder einen Arbeitnehmervertreter im Aufsichts- oder Verwaltungsorgan wegen seiner Tätigkeit benachteiligen oder begünstigen.
 
-
-## § 47 – Strafvorschriften
+# § 47 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -913,8 +863,7 @@ Niemand darf
 
 (4) Die Tat wird nur auf Antrag verfolgt. In den Fällen des Absatzes 1 Nr. 2 und des Absatzes 2 Nr. 2 und 3 sind das besondere Verhandlungsgremium, der SCE-Betriebsrat, die Mehrheit der Arbeitnehmervertreter im Rahmen eines Verfahrens zur Unterrichtung und Anhörung, jedes Mitglied des Aufsichts- oder Verwaltungsorgans, eine im Unternehmen vertretene Gewerkschaft sowie die Leitungen antragsberechtigt.
 
-
-## § 48 – Bußgeldvorschriften
+# § 48 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -924,8 +873,7 @@ Niemand darf
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
-## § 49 – Geltung nationalen Rechts
+# § 49 – Geltung nationalen Rechts
 
 (1) Dieses Gesetz berührt nicht die den Arbeitnehmern nach inländischen Rechtsvorschriften und Regelungen zustehenden Beteiligungsrechte, mit Ausnahme
 
@@ -935,7 +883,6 @@ Niemand darf
 
 (2) Regelungen und Strukturen über die Arbeitnehmervertretungen einer beteiligten juristischen Person mit Sitz im Inland, die durch die Gründung der Europäischen Genossenschaft als eigenständige juristische Person erlischt, bestehen nach Eintragung der Europäischen Genossenschaft fort. Die Leitung der Europäischen Genossenschaft stellt sicher, dass diese Arbeitnehmervertretungen ihre Aufgaben weiterhin wahrnehmen können.
 
-
-## § 50 – Sonderregelung aus Anlass der COVID-19-Pandemie
+# § 50 – Sonderregelung aus Anlass der COVID-19-Pandemie
 
 Im Rahmen der Unterrichtung und Anhörung können die Teilnahme an Sitzungen eines SCE-Betriebsrats oder einer Arbeitnehmervertretung nach § 21 Absatz 2 sowie die Beschlussfassung mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig.

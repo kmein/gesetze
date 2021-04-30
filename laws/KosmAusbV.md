@@ -1,25 +1,19 @@
-# [KosmAusbV] Verordnung über die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
-
-Ausfertigungsdatum: 09.01.2002
-
+% Verordnung über die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
+% Ausfertigungsdatum: 09.01.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kosmetiker/Kosmetikerin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 Die Ausbildung gliedert sich in:
 
@@ -27,8 +21,7 @@ Die Ausbildung gliedert sich in:
 
 2. von den Vertragsparteien festzulegende Wahlqualifikationseinheiten gemäß § 4 Abs. 2 Nr. 1 bis 7 im Umfang von insgesamt zwölf Wochen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung ist mindestens die Vermittlung folgender Fertigkeiten und Kenntnisse:
 
@@ -74,25 +67,21 @@ Die Ausbildung gliedert sich in:
 
 7. Manuelle Lymphdrainage im kosmetischen Bereich.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 (1) Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -101,8 +90,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 (3) Der Prüfling soll in insgesamt höchstens drei Stunden eine praktische Aufgabe ausführen. Dabei soll er zeigen, dass er Arbeiten planen, durchführen und beurteilen sowie Gesichtspunkte der Hygiene, des Umweltschutzes, der Wirtschaftlichkeit und der Kundenorientierung berücksichtigen kann. Hierfür kommt insbesondere in Betracht:  
 Durchführen einer Arbeit, die die Gebiete der dekorativen Kosmetik, der Körperpflege und der Handpflege unter Berücksichtigung des individuellen Hauttyps und der individuellen Hauterscheinung umfasst.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -156,13 +144,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich kosmetische Behandlung mindestens ausreichende Leistungen erbracht sind. Wird die Leistung in einem der Prüfungsbereiche mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kosmetiker/zur Kosmetikerin
 
 (Fundstelle: BGBl. I 2002, 419 - 423)
 

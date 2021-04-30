@@ -1,15 +1,11 @@
-# [WaStrG-KostV] Kostenverordnung zum Bundeswasserstraßengesetz  (WaStrG-KostV)
-
-Ausfertigungsdatum: 08.11.1994
-
+% Kostenverordnung zum Bundeswasserstraßengesetz  (WaStrG-KostV)
+% Ausfertigungsdatum: 08.11.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 47 Abs. 2 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1
+# § 1
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 14 und 14b des Bundeswasserstraßengesetzes in Verbindung mit den §§ 74 bis 77 des Verwaltungsverfahrensgesetzes, nach den §§ 28, 31, 32, 34 und 37 des Bundeswasserstraßengesetzes sowie nach den Rechtsverordnungen, die auf Grund der §§ 5, 27 und 46 des Bundeswasserstraßengesetzes erlassen worden sind, werden Gebühren und Auslagen erhoben.
 
@@ -19,31 +15,26 @@ Auf Grund des § 47 Abs. 2 des Bundeswasserstraßengesetzes in der Fassung der B
 
 (4) Die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen im einzelnen und die Gebührensätze ergeben sich aus dem anliegenden Gebührenverzeichnis, soweit nichts anderes bestimmt ist. Neben den Gebühren werden Auslagen gesondert erhoben.
 
-
-## § 2
+# § 2
 
 Erfordert die individuell zurechenbare öffentliche Leistung besonderen Verwaltungsaufwand oder umfangreiche Untersuchungen, zum Beispiel Messungen oder Berechnungen, so kann die Gebühr bis auf das Doppelte erhöht werden.
 
-
-## § 3
+# § 3
 
 Bei individuell zurechenbaren öffentlichen Leistungen nach den Nummern 6, 7, 15 und 15a des Gebührenverzeichnisses ist Gebührenschuldner (§ 6 des Bundesgebührengesetzes) der Träger des Vorhabens.
 
-
-## § 4
+# § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1 Absatz 4)Gebührenverzeichnis
+# Anlage – (zu § 1 Absatz 4)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2017, 1436 - 1439)
 
   
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Gebührenpflichtige  
 Tatbestände
@@ -73,8 +64,7 @@ bis 1 Mio. Euro
 bei Baukosten über 1 Mio. Euro  
 bis 2,5 Mio. Euro
 
-9 550 Euro zuzüglich 0,6 v. H.  
-der 1 Mio. Euro übersteigenden Baukosten
+9 550 Euro zuzüglich 0,6 v. H. der 1 Mio. Euro übersteigenden Baukosten
 
 bei Baukosten über 2,5 Mio. Euro  
 bis 5 Mio. Euro
@@ -350,8 +340,7 @@ verordnung der Generaldirektion Wasserstraßen und Schifffahrt
 Schriftliche Befreiung vom Lade-/Löschverbot (Anlanden von Passagieren/Passagierschifffahrt) in den Schutz- und  
 Sicherheitshäfen Kiel-Holtenau und Brunsbüttel
 
-§ 40 i. V. m.  
-§ 20 der Schutz- und Sicherheitshafenverordnung
+§ 40 i. V. m. § 20 der Schutz- und Sicherheitshafenverordnung
 
 60 Euro für eine einmalige Befreiung,  
 120 Euro für eine ganzjährige Befreiung

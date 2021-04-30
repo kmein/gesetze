@@ -1,23 +1,17 @@
-# [AUV] Verordnung über die Umzugskostenvergütung bei Auslandsumzügen  (Auslandsumzugskostenverordnung - AUV)
-
-Ausfertigungsdatum: 26.11.2012
-
+% Verordnung über die Umzugskostenvergütung bei Auslandsumzügen  (Auslandsumzugskostenverordnung - AUV)
+% Ausfertigungsdatum: 26.11.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Absatz 1 des Bundesumzugskostengesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1990 (BGBl. I S. 2682) und des § 82 Absatz 3 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) verordnet das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die bei Auslandsumzügen geltenden Abweichungen von den allgemeinen Vorschriften des Bundesumzugskostenrechts.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Berücksichtigungsfähige Personen sind:
 
@@ -37,15 +31,13 @@ soweit sie nach dem Umzug zur häuslichen Gemeinschaft der berechtigten Person g
 
 (2) Eine eigene Wohnung ist eine Wohnung, deren Eigentümerin oder Eigentümer oder Hauptmieterin oder Hauptmieter die berechtigte Person oder eine berücksichtigungsfähige Person ist.
 
-
-## § 3 – Antrag und Anzeigepflicht
+# § 3 – Antrag und Anzeigepflicht
 
 (1) Die Ausschlussfrist für die Beantragung der Umzugskostenvergütung nach § 14 Absatz 6 Satz 1 des Bundesumzugskostengesetzes beginnt mit Beendigung des Umzugs.
 
 (2) Die berechtigte Person hat jede Änderung der tatsächlichen Verhältnisse, die die Höhe der Umzugskostenvergütung beeinflussen kann, unverzüglich anzuzeigen. Entsprechendes gilt für Rabatte, Geld- und Sachzuwendungen sowie für unentgeltliche Leistungen. Leistungen von dritter Seite sind anzurechnen.
 
-
-## § 4 – Bemessung der Umzugskostenvergütung, berücksichtigungsfähige Kosten
+# § 4 – Bemessung der Umzugskostenvergütung, berücksichtigungsfähige Kosten
 
 (1) Die Bemessung der Umzugskostenvergütung richtet sich nach den persönlichen Verhältnissen der berechtigten Person am Tag des Dienstantritts am neuen Dienstort. Bei Umzügen aus dem Ausland ins Inland und bei Umzügen aus Anlass der Beendigung des Dienstverhältnisses (§ 28) sind die persönlichen Verhältnisse an dem Tag, für den zuletzt Auslandsdienstbezüge gewährt worden sind, maßgeblich.
 
@@ -59,8 +51,7 @@ soweit sie nach dem Umzug zur häuslichen Gemeinschaft der berechtigten Person g
 
 (6) Bei einer Beurlaubung im anerkannt dienstlichen Interesse unter Wegfall der Besoldung kann mit Zustimmung der obersten Dienstbehörde Umzugskostenvergütung zugesagt werden. Die oberste Dienstbehörde kann die Befugnis zur Erteilung der Zustimmung auf eine andere Behörde übertragen.
 
-
-## § 5 – Umzugsgut
+# § 5 – Umzugsgut
 
 (1) Die Auslagen für die Beförderung des Umzugsguts (Beförderungsauslagen) von der bisherigen zur neuen Wohnung werden erstattet.
 
@@ -76,8 +67,7 @@ soweit sie nach dem Umzug zur häuslichen Gemeinschaft der berechtigten Person g
 
 (5) Hat die berechtigte Person nach einer Auslandsverwendung mit ausgestatteter Dienstwohnung bei einem folgenden Umzug im Ausland mit Zusage der Umzugskostenvergütung den Lieferauftrag für Einrichtungsgegenstände innerhalb der in Absatz 4 genannten Frist erteilt, um mit diesen Einrichtungsgegenständen eine nicht ausgestattete Wohnung beziehen zu können, werden die Beförderungsauslagen erstattet.
 
-
-## § 6 – Umzugsvolumen
+# § 6 – Umzugsvolumen
 
 (1) Der berechtigten Person werden Beförderungsauslagen für ein Umzugsvolumen von bis zu 100 Kubikmetern erstattet. Zieht eine berücksichtigungsfähige Person mit um, werden die Auslagen für die Beförderung weiterer 30 Kubikmeter erstattet; für jede weitere mitumziehende berücksichtigungsfähige Person werden die Auslagen für die Beförderung weiterer 10 Kubikmeter erstattet.
 
@@ -87,8 +77,7 @@ soweit sie nach dem Umzug zur häuslichen Gemeinschaft der berechtigten Person g
 
 (4) Der Dienstherr kann eine amtliche Vermessung des Umzugsguts veranlassen.
 
-
-## § 7 – Personenkraftfahrzeuge
+# § 7 – Personenkraftfahrzeuge
 
 (1) Die Kosten der Beförderung eines Personenkraftfahrzeugs werden erstattet.
 
@@ -98,20 +87,17 @@ soweit sie nach dem Umzug zur häuslichen Gemeinschaft der berechtigten Person g
 
 (4) Bei einem Umzug im Ausland kann die oberste Dienstbehörde Auslagen für die Beförderung des am bisherigen Dienstort genutzten Personenkraftfahrzeugs nach Deutschland und für die Beförderung eines Fahrzeugs aus Deutschland zum neuen Dienstort erstatten, wenn bezüglich des bisher genutzten Fahrzeugs sowohl die Einfuhr am neuen Dienstort als auch der Verkauf am bisherigen Dienstort verboten sind.
 
-
-## § 8 – Tiere
+# § 8 – Tiere
 
 Beförderungsauslagen für bis zu zwei Haustiere werden erstattet, soweit diese üblicherweise in der Wohnung gehalten werden. Kosten für Transportbehältnisse, Tierheime, Quarantäne und andere Nebenkosten werden nicht erstattet.
 
-
-## § 9 – Zwischenlagern von Umzugsgut
+# § 9 – Zwischenlagern von Umzugsgut
 
 (1) Auslagen für das Zwischenlagern einschließlich der Lagerversicherung sind nur erstattungsfähig, wenn die berechtigte Person den Grund für das Zwischenlagern nicht zu vertreten hat oder wenn die berechtigte Person vorübergehend keine angemessene Leerraumwohnung am neuen Dienstort beziehen kann.
 
 (2) Diese Auslagen werden für die Zeit vom Tag des Einladens des Umzugsguts bis zum Tag des Ausladens des Umzugsguts in der endgültigen Wohnung erstattet.
 
-
-## § 10 – Lagern von Umzugsgut
+# § 10 – Lagern von Umzugsgut
 
 (1) Zieht die berechtigte Person in eine ganz oder teilweise ausgestattete Dienstwohnung, werden ihr die Auslagen für das Verpacken, Versichern und Lagern des Umzugsguts erstattet, das nicht in die neue Wohnung mitgenommen wird. Daneben werden die notwendigen Auslagen für die Beförderung zum Lagerort erstattet, höchstens jedoch bis zur Höhe der Auslagen für die Beförderung bis zum Sitz der obersten Dienstbehörde (erster Dienstsitz) oder bis zu einem anderen Ort im Inland mit unentgeltlicher Lagermöglichkeit. Bezüglich des berücksichtigungsfähigen Volumens sind Absatz 6 Satz 2 und § 6 Absatz 1 entsprechend anzuwenden.
 
@@ -129,8 +115,7 @@ Beförderungsauslagen für bis zu zwei Haustiere werden erstattet, soweit diese 
 
 (6) Kann bei einem Umzug ins Ausland aufgrund der Beschränkung des Umzugsvolumens nach § 6 ein Teil des Umzugsguts nicht mitgeführt werden, gilt Absatz 4 entsprechend. Kosten für das Lagern des Umzugsguts, das die Volumengrenzen nach § 6 Absatz 1 übersteigt, können nur für ein Volumen von bis zu 20 Kubikmetern für die berechtigte Person und von 10 Kubikmetern für jede mitumziehende berücksichtigungsfähige Person erstattet werden. Insgesamt können bei Übersteigen der Volumengrenzen nach § 6 Absatz 1 Kosten für das Lagern von bis zu 50 Kubikmetern Umzugsgut erstattet werden.
 
-
-## § 11 – Wohnungsbesichtigungsreise, Umzugsabwicklungsreise
+# § 11 – Wohnungsbesichtigungsreise, Umzugsabwicklungsreise
 
 (1) Die Auslagen für eine gemeinsame Reise der berechtigten Person und einer berücksichtigungsfähigen Person nach § 2 Absatz 1 Satz 1 Nummer 1, 2 oder 4 vom bisherigen an den neuen Dienstort zur Wohnungssuche (Wohnungsbesichtigungsreise) oder für eine Reise einer dieser Personen vom neuen zum bisherigen Dienstort zur Vorbereitung und Durchführung des Umzugs (Umzugsabwicklungsreise) werden mit der Maßgabe erstattet, dass gezahlt werden:
 
@@ -142,8 +127,7 @@ Beförderungsauslagen für bis zu zwei Haustiere werden erstattet, soweit diese 
 
 (3) Auslagen für eine Wohnungsbesichtigungsreise zu einer Dienstwohnung werden nicht erstattet.
 
-
-## § 12 – Umzugsreise
+# § 12 – Umzugsreise
 
 (1) Die Auslagen für die Umzugsreise vom bisherigen zum neuen Dienstort werden unter Berücksichtigung der notwendigen Reisedauer nach Maßgabe der folgenden Absätze erstattet.
 
@@ -159,8 +143,7 @@ Beförderungsauslagen für bis zu zwei Haustiere werden erstattet, soweit diese 
 
 (7) Für die berücksichtigungsfähigen Personen gilt Absatz 6 entsprechend.
 
-
-## § 13 – Reisegepäck
+# § 13 – Reisegepäck
 
 (1) Die Auslagen für die Beförderung unbegleiteten Reisegepäcks anlässlich der Umzugsreise vom bisherigen zum neuen Dienstort werden erstattet bis zu einem Gewicht des Reisegepäcks von 200 Kilogramm. Die Obergrenze erhöht sich
 
@@ -174,8 +157,7 @@ Beförderungsauslagen für bis zu zwei Haustiere werden erstattet, soweit diese 
 
 2. vor der Aufgabe des Gepäcks die oberste Dienstbehörde oder die von ihr ermächtigte Behörde der Erstattung zugestimmt hat.
 
-
-## § 14 – Vorübergehende Unterkunft
+# § 14 – Vorübergehende Unterkunft
 
 (1) Auslagen für eine vorübergehende Unterkunft am bisherigen oder am neuen Dienstort werden für die Zeit vom letzten Tag des Einladens des Umzugsgutes bis zum ersten Tag des Ausladens des Umzugsgutes in der endgültigen Wohnung auf Antrag gegen Nachweis erstattet, soweit sie 25 Prozent der Bezüge übersteigen, die für die Berechnung des Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes maßgeblich sind. Wird als vorübergehende Unterkunft leerer Wohnraum angemietet, werden die notwendigen Auslagen erstattet, soweit sie 18 Prozent der Bezüge übersteigen, die für die Berechnung des Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes maßgeblich sind; die §§ 18 und 19 dieser Verordnung sind anzuwenden. Bei Umzügen mit Umzugskostenvergütung nach § 26 gilt Satz 1 für die Zeit vom Tag nach Beendigung der Hinreise bis zum Tag vor Antritt der Rückreise. In diesen Fällen werden auch die notwendigen Auslagen nach dem Tag des Ausladens bis zum Tag vor Antritt der Rückreise erstattet.
 
@@ -197,8 +179,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 3. Auslandstrennungsgeld oder vergleichbare Leistungen erhält.
 
-
-## § 15 – Mietentschädigung
+# § 15 – Mietentschädigung
 
 (1) Muss für dieselbe Zeit sowohl für die bisherige als auch für die neue eigene Wohnung der berechtigten Person Miete gezahlt werden, wird die Miete für die bisherige Wohnung bis zu dem Zeitpunkt erstattet, zu dem das Mietverhältnis frühestens gelöst werden kann, höchstens jedoch für drei Monate für eine Wohnung im Inland und für neun Monate für eine Wohnung im Ausland (Mietentschädigung). Die oberste Dienstbehörde kann die Frist für eine Wohnung im Ausland um höchstens ein Jahr verlängern, wenn dies wegen der ortsüblichen Verhältnisse erforderlich ist. Ausgaben für das Weitervermieten der Wohnung innerhalb der Vertragsdauer und für Maßnahmen, durch die Mietentschädigung eingespart wird, werden erstattet. Die Sätze 1 bis 3 gelten entsprechend für die Miete für eine Garage.
 
@@ -216,8 +197,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 (6) Die bisherige Wohnung im eigenen Haus oder die Eigentumswohnung steht der Mietwohnung in Bezug auf Mietentschädigung gleich, sofern eine Vermietung nicht möglich ist; in diesem Fall wird die Mietentschädigung längstens für ein Jahr gezahlt. An die Stelle der Miete tritt der ortsübliche Mietwert der Wohnung. Entsprechendes gilt für die eigene Garage. Für die neue Wohnung im eigenen Haus oder die neue Eigentumswohnung wird keine Mietentschädigung gewährt.
 
-
-## § 16 – Wohnungsbeschaffungskosten
+# § 16 – Wohnungsbeschaffungskosten
 
 (1) Gutachterkosten, Maklerkosten, ortsübliche Mietvertragsabschlussgebühren, Kosten für Garantieerklärungen und Bürgschaften sowie vergleichbare Kosten, die beim Auszug aus der Wohnung am ausländischen Dienstort oder bei der Beschaffung einer neuen angemessenen Wohnung am ausländischen Dienstort anfallen, werden erstattet.
 
@@ -229,8 +209,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 (5) Soweit die Verhältnisse im Zusammenhang mit dem Bezug oder dem Auszug aus einer Wohnung am Auslandsdienstort von im Ausland typischen Verhältnissen abweichen und dies zu einer außergewöhnlichen, von der berechtigten Person nicht zu vertretenden Härte führt, kann die oberste Dienstbehörde eine Leistung zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
-
-## § 17 – Technische Geräte
+# § 17 – Technische Geräte
 
 (1) Müssen beim Bezug der neuen Wohnung aufgrund der örtlichen Verhältnisse Klimageräte oder Notstromerzeuger beschafft werden, werden die Auslagen für das Beschaffen und den Einbau dieser Geräte sowie die Kosten für die bauliche Herrichtung der betreffenden Räume erstattet.
 
@@ -240,8 +219,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 (4) Werden anlässlich des Umzugs an einen Dienstort mit besonderer gesundheitlicher Belastung durch hohe Luftverschmutzung Luftreiniger angeschafft, so wird auf Antrag ein Zuschuss zu den Anschaffungskosten der Geräte gewährt. Der Zuschuss beträgt 80 Prozent des Anschaffungspreises einschließlich eventuell anfallender Transportkosten. Bei Versetzung an einen anderen Ort verbleibt das Gerät bei der berechtigten Person.
 
-
-## § 18 – Umzugspauschale
+# § 18 – Umzugspauschale
 
 (1) Eine berechtigte Person, die eine eigene Wohnung einrichtet, erhält für sich und die berücksichtigungsfähigen Personen eine Pauschale für sonstige Umzugskosten (Umzugspauschale), die sich aus Teilbeträgen nach den folgenden Absätzen zusammensetzt.
 
@@ -281,8 +259,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 (9) Berechtigten Personen, die jeweils eine eigene Zusage der Umzugskostenvergütung erhalten haben und die eine gemeinsame Wohnung beziehen, wird insgesamt nur eine Umzugspauschale gewährt. In diesem Fall gilt eine der beiden Personen als berücksichtigungsfähige Person nach § 2 Absatz 1 Nummer 1 oder Nummer 2. Sind die Pauschalen der berechtigten Personen unterschiedlich hoch, wird die höhere gezahlt.
 
-
-## § 19 – Ausstattungspauschale
+# § 19 – Ausstattungspauschale
 
 (1) Bei der ersten Verwendung im Ausland erhält die verheiratete oder in einer Lebenspartnerschaft lebende berechtigte Person eine Ausstattungspauschale in Höhe von 70 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13, zuzüglich des Grundgehalts der Stufe 8 der jeweiligen Besoldungsgruppe, mindestens der Besoldungsgruppe A 5, höchstens der Besoldungsgruppe B 3. Eine berechtigte Person, die weder verheiratet ist noch in einer Lebenspartnerschaft lebt, und die berechtigte Person, deren Ehegattin oder Ehegatte oder Lebenspartnerin oder Lebenspartner nicht an den neuen Dienstort umzieht, erhält 90 Prozent des sich nach Satz 1 ergebenden Betrages. Für jedes Kind, für das ihr Auslandskinderzuschlag zusteht, erhält die berechtigte Person einen Betrag in Höhe von 14 Prozent des Grundgehalts der Stufe 8 der Besoldungsgruppe A 13. Soweit die oberste Dienstbehörde besondere Verpflichtungen der dienstlichen Repräsentation anerkennt, erhöht sich die Ausstattungspauschale nach Satz 1 oder Satz 2 um 30 Prozent; dies gilt nicht für Empfängerinnen oder Empfänger einer Einrichtungspauschale nach § 20.
 
@@ -302,8 +279,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 (6) § 18 Absatz 9 gilt entsprechend.
 
-
-## § 20 – Einrichtungspauschale
+# § 20 – Einrichtungspauschale
 
 (1) Bei der Bestellung zur Leiterin oder zum Leiter einer Auslandsvertretung erhält die berechtigte Person, die eine ausgestattete Dienstwohnung bezieht oder eine möblierte Wohnung mietet, eine Einrichtungspauschale in Höhe von 140 Prozent des Grundgehalts der Stufe 1 ihrer jeweiligen Besoldungsgruppe. Berechtigte Personen, die einer Besoldungsgruppe der Bundesbesoldungsordnung B angehören, erhalten eine Einrichtungspauschale in Höhe von 120 Prozent des jeweiligen Grundgehalts. Für zusätzliche Einrichtungsgegenstände im Zusammenhang mit der Anwesenheit der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners am Dienstort erhöht sich die Einrichtungspauschale um 10 Prozent.
 
@@ -321,8 +297,7 @@ Vom 15. Tag an wird der Zuschuss auf 50 Prozent des Auslands- oder Inlandstagege
 
 (8) Das Bundesministerium der Verteidigung kann bestimmen, dass die Absätze 1 bis 7 in seinem Geschäftsbereich auch für sonstige berechtigte Personen in vergleichbaren Dienststellungen gelten.
 
-
-## § 21 – Pauschale für klimagerechte Kleidung
+# § 21 – Pauschale für klimagerechte Kleidung
 
 (1) Bei der ersten Verwendung an einem Auslandsdienstort mit einem Klima, das vom mitteleuropäischen Klima erheblich abweicht, wird eine Pauschale für das Beschaffen klimagerechter Kleidung gezahlt, die sich aus folgenden Teilbeträgen zusammensetzt:
 
@@ -352,15 +327,13 @@ Wird klimagerechte Kleidung von Amts wegen bereitgestellt, ist die Pauschale um 
 
 (6) § 18 Absatz 9 gilt entsprechend.
 
-
-## § 22 – Zusätzlicher Unterricht
+# § 22 – Zusätzlicher Unterricht
 
 (1) Benötigt ein berücksichtigungsfähiges Kind aufgrund des Umzugs zusätzlichen Unterricht, werden die Unterrichtskosten für höchstens ein Jahr zu 90 Prozent erstattet. Die Frist beginnt spätestens ein Jahr nach Beendigung des Umzugs des Kindes.
 
 (2) Insgesamt wird für jedes berücksichtigungsfähige Kind höchstens ein Betrag in Höhe des zum Zeitpunkt der Beendigung des Umzugs maßgeblichen Grundgehalts der Stufe 1 der Besoldungsgruppe A 14 erstattet. Mit Zustimmung der obersten Dienstbehörde können höhere Kosten erstattet werden, wenn die Anwendung des Satzes 1 für eine berechtigte Person mit häufigen Auslandsverwendungen eine unzumutbare Härte bedeuten würde.
 
-
-## § 23 – Umzug am ausländischen Dienstort
+# § 23 – Umzug am ausländischen Dienstort
 
 (1) Für einen Umzug am ausländischen Dienstort kann Umzugskostenvergütung zugesagt werden, wenn die Gesundheit oder die Sicherheit der berechtigten Person oder der berücksichtigungsfähigen Personen erheblich gefährdet sind oder wenn ein Umzug aus anderen zwingenden Gründen, die sich aus dem Auslandsdienst und den besonderen Verhältnissen im Ausland ergeben, erforderlich ist. In diesen Fällen werden neben den Beförderungsauslagen nach § 5 Absatz 1 bis 3 auch die Auslagen für Wohnungsbeschaffungskosten nach § 16 sowie die Umzugspauschale nach § 18 Absatz 5 gezahlt. Soweit erforderlich, können auch Auslagen nach § 17 erstattet werden.
 
@@ -370,8 +343,7 @@ Wird klimagerechte Kleidung von Amts wegen bereitgestellt, ist die Pauschale um 
 
 (4) Die berechtigte Person, der die Umzugskostenvergütung für einen Umzug nach § 3 Absatz 1 Nummer 1, 3 oder Nummer 4, nach § 4 Absatz 1 Nummer 2 bis 4 des Bundesumzugskostengesetzes oder in den Fällen des § 28 Absatz 1 und 2 dieser Verordnung zugesagt worden ist, erhält für den Umzug in eine vorläufige Wohnung Umzugskostenvergütung, wenn der Dienstherr die neue Wohnung vorher schriftlich oder elektronisch als vorläufige Wohnung anerkannt hat.
 
-
-## § 24 – Umzugsbeihilfe
+# § 24 – Umzugsbeihilfe
 
 (1) Wenn einer berechtigten Person mit Dienstbezügen die Umzugskostenvergütung zugesagt worden ist und sie nach dem Dienstantritt am neuen ausländischen Dienstort heiratet oder eine Lebenspartnerschaft begründet, können ihr für die Umzugsreise ihrer Ehegattin oder ihres Ehegatten oder ihrer Lebenspartnerin oder ihres Lebenspartners und der zu deren oder dessen häuslicher Gemeinschaft gehörenden minderjährigen Kinder, die durch die Reise in die häusliche Gemeinschaft der berechtigten Person aufgenommen werden, die notwendigen Fahrtkosten erstattet werden. Fahrtkosten werden nur erstattet bis zur Höhe der Kosten der billigsten Fahrkarte für ein regelmäßig verkehrendes Beförderungsmittel für eine Reise vom Wohnort der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners zum Dienstort der berechtigten Person, höchstens jedoch für eine solche Reise vom letzten inländischen Dienstort der berechtigten Person an deren neuen ausländischen Dienstort. Die notwendigen Auslagen für das Befördern des Umzugsguts der Ehegattin oder des Ehegatten oder der Lebenspartnerin oder des Lebenspartners und des Umzugsguts ihrer oder seiner Kinder an den ausländischen Dienstort können bis zur Höhe der Auslagen erstattet werden, die entstanden wären, wenn das Umzugsgut vom letzten inländischen an den ausländischen Dienstort befördert worden wäre. § 6 Absatz 1 und § 10 Absatz 6 sind entsprechend anzuwenden.
 
@@ -387,8 +359,7 @@ Wird klimagerechte Kleidung von Amts wegen bereitgestellt, ist die Pauschale um 
 
 3. erstmaliger Aufnahme einer Berufsausbildung oder eines Studiums im Ausland innerhalb von 18 Monaten nach Abschluss der Schulausbildung am ausländischen Dienstort bis zur Höhe der Kosten für eine Rückkehr an den letzten inländischen Dienstort.
 
-
-## § 25 – Widerruf der Zusage der Umzugskostenvergütung
+# § 25 – Widerruf der Zusage der Umzugskostenvergütung
 
 (1) Die Zusage der Umzugskostenvergütung kann ganz oder teilweise widerrufen werden, wenn
 
@@ -414,8 +385,7 @@ Andere notwendige Auslagen, die der berechtigten Person im Zusammenhang mit dem 
 
 (6) Bei Rücknahme, Aufhebung oder Erledigung der Zusage der Umzugskostenvergütung auf andere Weise gelten die Absätze 3 bis 5 entsprechend.
 
-
-## § 26 – Umzugskostenvergütung bei einer Auslandsverwendung von bis zu zwei Jahren
+# § 26 – Umzugskostenvergütung bei einer Auslandsverwendung von bis zu zwei Jahren
 
 (1) Soweit von vornherein feststeht, dass die berechtigte Person für nicht mehr als zwei Jahre ins Ausland oder im Ausland versetzt, abgeordnet oder abkommandiert wird, wird für den Hin- und Rückumzug Umzugskostenvergütung höchstens in folgendem Umfang gewährt:
 
@@ -459,8 +429,7 @@ Andere notwendige Auslagen, die der berechtigten Person im Zusammenhang mit dem 
 
 (6) Dauert die Auslandsverwendung nach Absatz 5 länger als ursprünglich vorgesehen, kann die Umzugskostenvergütung gezahlt werden, die für die längere Verwendungsdauer zusteht. In diesem Fall beginnt die Ausschlussfrist nach § 3 Absatz 1 für die Zahlung der zusätzlichen Umzugskostenvergütung an dem Tag, an dem der berechtigten Person die Verlängerung ihrer Verwendung bekannt gegeben wird.
 
-
-## § 27 – Rückführung aus Gefährdungsgründen
+# § 27 – Rückführung aus Gefährdungsgründen
 
 (1) Sind an einem ausländischen Dienstort Leben oder Gesundheit der berechtigten Person oder der zu ihrer häuslichen Gemeinschaft gehörenden berücksichtigungsfähigen Personen und von Betreuungspersonen, für die Kosten nach § 12 Absatz 4 erstattet wurden, erheblich gefährdet, kann die oberste Dienstbehörde Umzugskostenvergütung für die Rückführung oder den Umzug der berechtigten Person oder der zu ihrer häuslichen Gemeinschaft gehörenden berücksichtigungsfähigen Personen und der Betreuungspersonen sowie von Umzugsgut zusagen.
 
@@ -472,8 +441,7 @@ Andere notwendige Auslagen, die der berechtigten Person im Zusammenhang mit dem 
 
 (5) Die berechtigte Person erhält eine pauschale Vergütung nach § 18 Absatz 6, wenn außer dem Reisegepäck Teile des Hausrats zurückgeführt werden müssen und sich die Zusage der Umzugskostenvergütung hierauf erstreckt.
 
-
-## § 28 – Umzug bei Beendigung des Dienstverhältnisses
+# § 28 – Umzug bei Beendigung des Dienstverhältnisses
 
 (1) Einer berechtigten Person mit Dienstort im Ausland, die in den Ruhestand tritt oder deren Dienstverhältnis auf Zeit endet, ist Umzugskostenvergütung für einen Umzug an einen Ort ihrer Wahl im Inland zuzusagen. Umzugskostenvergütung wird nur gezahlt, wenn der Umzug spätestens zwei Jahre nach der Beendigung des Dienstverhältnisses durchgeführt wird. Die oberste Dienstbehörde kann diese Frist in Ausnahmefällen um ein Jahr verlängern.
 
@@ -483,14 +451,12 @@ Andere notwendige Auslagen, die der berechtigten Person im Zusammenhang mit dem 
 
 (4) Endet das Dienstverhältnis einer berechtigten Person mit Dienstort im Ausland aus einem von ihr zu vertretenden Grund und zieht diese Person spätestens sechs Monate danach ins Inland um, können ihr und den berücksichtigungsfähigen Personen für diesen Umzug die Beförderungsauslagen und Fahrtkosten bis zur Höhe der Kosten der billigsten Fahrkarte für ein regelmäßig verkehrendes Beförderungsmittel erstattet werden, höchstens jedoch die Beförderungsauslagen und Fahrtkosten, die durch einen Umzug an den Sitz der obersten Dienstbehörde entstanden wären.
 
-
-## § 29 – Übergangsregelungen
+# § 29 – Übergangsregelungen
 
 (1) Die Kosten für die Beförderung und die Einlagerung von Umzugsgut werden der berechtigten Person, die bereits vor dem 1. Dezember 2012 über höheres Umzugsvolumen verfügt als nach dieser Verordnung berücksichtigt werden kann, bis zum nächsten Umzug ins Inland mit Zusage der Umzugskostenvergütung nach § 3 Absatz 1 Nummer 1 des Bundesumzugskostengesetzes in dem Umfang erstattet, in dem sie vor dem 1. Dezember 2012 erstattungsfähig waren. Reisekosten für Hausangestellte, deren Kosten für die Reise zum bisherigen Dienstort im Rahmen der Auslandsumzugskostenverordnung vor dem 1. Dezember 2012 erstattet wurden, können beim nächsten Umzug mit Zusage der Umzugskostenvergütung nach § 3 Absatz 1 Nummer 1 des Bundesumzugskostengesetzes im Rahmen der Kosten einer Reise ins Inland geltend gemacht werden.
 
 (2) Hat die berechtigte Person den Dienst am neuen Dienstort infolge einer Maßnahme, für die Umzugskostenvergütung zugesagt worden ist, nach dem 30. Juni 2010, aber vor dem 1. Dezember 2012 angetreten, bemisst sich die Höhe des Ausstattungs- und des Einrichtungsbeitrags nach den §§ 12 und 13 der Auslandsumzugskostenverordnung in der am 30. Juni 2010 geltenden Fassung und dem Bundesbesoldungsgesetz.
 
-
-## § 30 – Inkrafttreten, Außerkrafttreten
+# § 30 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2012 in Kraft. Gleichzeitig tritt die Auslandsumzugskostenverordnung in der Fassung der Bekanntmachung vom 25. November 2003 (BGBl. I S. 2360), die zuletzt durch Artikel 15 Absatz 44 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, außer Kraft.

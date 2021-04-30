@@ -1,10 +1,7 @@
-# [UmstRückstG] Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken
-
-Ausfertigungsdatum: 21.12.1960
-
+% Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken
+% Ausfertigungsdatum: 21.12.1960
  
-
-## § 1
+# § 1
 
 (1) Geldinstitute, Versicherungsunternehmen und Bausparkassen dürfen für Versorgungsverpflichtungen aus § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen in der Fassung vom 11. September 1957 (Bundesgesetzbl. I S. 1296) nach Maßgabe der Achtunddreißigsten Durchführungsverordnung zum Umstellungsgesetz Rückstellungen in ihrer Umstellungsrechnung bilden.
 
@@ -12,13 +9,11 @@ Ausfertigungsdatum: 21.12.1960
 
 (3) Die nach Absatz 1 und 2 zu bildenden Rückstellungen haben keine Rückwirkung auf die Reichsmarkschlußbilanz. Für die Berechnung des vorläufigen Eigenkapitals bleiben sie außer Ansatz.
 
-
-## § 2
+# § 2
 
 Die Bundesregierung wird ermächtigt, Vorschriften über die Berechnung der in § 1 zugelassenen Rückstellungen durch Rechtsverordnung zu erlassen.
 
-
-## § 3
+# § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 und des § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Dabei sind an Stelle der Achtunddreißigsten Durchführungsverordnung zum Umstellungsgesetz anzuwenden
 
@@ -26,12 +21,10 @@ Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 und des § 14 des Dritten Übe
 
 2. für Bausparkassen Artikel 8 Abs. 1 A c der Durchführungsbestimmung Nr. 7 zur Umstellungsergänzungsverordnung vom 26. Oktober 1950 (Verordnungsblatt für Groß-Berlin I S. 494).
 
-
-## § 4
+# § 4
 
 Dieses Gesetz gilt nicht im Saarland.
 
-
-## § 5
+# § 5
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

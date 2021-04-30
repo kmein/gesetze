@@ -1,15 +1,11 @@
-# [WRMG] Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln  (Wasch- und Reinigungsmittelgesetz - WRMG)
-
-Ausfertigungsdatum: 29.04.2007
-
+% Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln  (Wasch- und Reinigungsmittelgesetz - WRMG)
+% Ausfertigungsdatum: 29.04.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für das Inverkehrbringen und die sonstige Bereitstellung auf dem Markt von Wasch- und Reinigungsmitteln. Es gilt ergänzend zu der Verordnung (EG) Nr. 648/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 über Detergenzien (ABl. L 104 vom 8.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 259/2012 (ABl. L 94 vom 30.3.2012, S. 16) geändert worden ist. Die Vorschriften des Chemikaliengesetzes und der aufgrund des Chemikaliengesetzes erlassenen Rechtsverordnungen bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Wasch- und Reinigungsmittel im Sinne dieses Gesetzes sind die in Artikel 2 Nummer 1 der Verordnung (EG) Nr. 648/2004 genannten Stoffe, Gemische oder Produkte. Als Wasch- und Reinigungsmittel gelten auch
 
@@ -21,8 +17,7 @@ Dieses Gesetz gilt für das Inverkehrbringen und die sonstige Bereitstellung auf
 
 (2) Im Übrigen gelten die Begriffsbestimmungen des Artikels 2 der Verordnung (EG) Nr. 648/2004. Diese Begriffsbestimmungen gelten für Wasch- und Reinigungsmittel im Sinne von Absatz 1 Satz 2 entsprechend.
 
-
-## § 3 – Allgemeine Pflichten
+# § 3 – Allgemeine Pflichten
 
 (1) Wasch- und Reinigungsmittel im Sinne von § 2 Absatz 1 Satz 2 Nummer 1 dürfen nur so in den Verkehr gebracht werden, dass infolge ihres Gebrauchs jede vermeidbare Beeinträchtigung der Umwelt, insbesondere der Beschaffenheit der Gewässer, vor allem im Hinblick auf den Naturhaushalt und die Trinkwasserversorgung, und eine Beeinträchtigung des Betriebs von Abwasseranlagen unterbleibt. Wasch- und Reinigungsmittel im Sinne von § 2 Absatz 1 Satz 2 Nummer 2 und 3 dürfen nur so in den Verkehr gebracht werden, dass infolge ihres Gebrauchs jede vermeidbare Beeinträchtigung der menschlichen Gesundheit und der Umwelt im Sinne von Satz 1 und eine Beeinträchtigung des Betriebs von Abwasseranlagen unterbleibt.
 
@@ -30,22 +25,19 @@ Dieses Gesetz gilt für das Inverkehrbringen und die sonstige Bereitstellung auf
 
 (3) Wasch- und Reinigungsmittel im Sinne von § 2 Absatz 1 Satz 1 und für derartige Wasch- und Reinigungsmittel bestimmte Tenside dürfen nur in den Verkehr gebracht werden, wenn der hierfür Verantwortliche eine Niederlassung in der Europäischen Union hat.
 
-
-## § 4 – Abbaubarkeit von Tensiden
+# § 4 – Abbaubarkeit von Tensiden
 
 (1) Es ist verboten, tensidhaltige Wasch- und Reinigungsmittel im Sinne von § 2 Absatz 1 Satz 1 oder für derartige Wasch- und Reinigungsmittel bestimmte Tenside in den Verkehr zu bringen, wenn die vollständige aerobe Bioabbaubarkeit der Tenside nach Maßgabe von Anhang III der Verordnung (EG) Nr. 648/2004 nicht einer dort in Abschnitt A oder B festgelegten Rate entspricht, die nach einer dort jeweils genannten entsprechenden Prüfmethode zu messen ist. Satz 1 gilt nicht in den Fällen der Artikel 3 Absatz 1 Satz 2 und Artikel 6 Absatz 2 der Verordnung (EG) Nr. 648/2004 sowie einer nach Artikel 5 Absatz 4 der Verordnung (EG) Nr. 648/2004 erteilten Ausnahmegenehmigung.
 
 (2) Es ist verboten, Wasch- und Reinigungsmittel im Sinne von § 2 Absatz 1 Satz 2 in den Verkehr zu bringen, wenn die primäre Bioabbaubarkeit der in ihnen enthaltenen anionischen und nichtionischen Tenside nicht einer Rate von mindestens 80 vom Hundert entspricht, die nach der in Anhang II der Verordnung (EG) Nr. 648/2004 unter Ziffer 3 genannten Prüfmethode zu messen ist.
 
-
-## § 5 – Höchstmengen von Phosphorverbindungen
+# § 5 – Höchstmengen von Phosphorverbindungen
 
 (1) Es ist verboten, Wasch- und Reinigungsmittel in den Verkehr zu bringen, deren Gehalt an Phosphorverbindungen die in einer Rechtsverordnung nach Absatz 2 festgesetzten Höchstmengen überschreitet.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vermeidung von Beeinträchtigungen der Beschaffenheit der Gewässer, insbesondere im Hinblick auf den Naturhaushalt und die Trinkwasserversorgung, und von Beeinträchtigungen des Betriebs von Abwasseranlagen, soweit geeignete Ersatzmöglichkeiten zur Verfügung stehen, Höchstmengen für Phosphorverbindungen in Wasch- und Reinigungsmitteln sowie das für die Bestimmung des Gehalts an Phosphorverbindungen erforderliche Verfahren festzulegen.
 
-
-## § 6 – Weitere Anforderungen an die Umweltverträglichkeit von Wasch- und Reinigungsmitteln und deren Inhaltsstoffen
+# § 6 – Weitere Anforderungen an die Umweltverträglichkeit von Wasch- und Reinigungsmitteln und deren Inhaltsstoffen
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vermeidung von Beeinträchtigungen der Beschaffenheit der Gewässer, insbesondere im Hinblick auf den Naturhaushalt und die Trinkwasserversorgung, und von Beeinträchtigungen des Betriebs von Abwasseranlagen über die Regelungen der §§ 4 und 5 hinaus
 
@@ -53,20 +45,17 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durc
 
 2. das Inverkehrbringen von Wasch- und Reinigungsmitteln zu beschränken.
 
-
-## § 7 – Anhörung beteiligter Kreise
+# § 7 – Anhörung beteiligter Kreise
 
 In den Fällen des § 5 Absatz 2 und § 6 ist ein jeweils auszuwählender Kreis von Vertretern der Wasserversorgung und des Gewässerschutzes, der für die Wasserwirtschaft zuständigen obersten Landesbehörden, der Wissenschaft, der Verbraucher sowie der beteiligten Wirtschaft zu hören.
 
-
-## § 8 – Kennzeichnung, Veröffentlichung des Datenblattes über Inhaltsstoffe
+# § 8 – Kennzeichnung, Veröffentlichung des Datenblattes über Inhaltsstoffe
 
 (1) Wasch- und Reinigungsmittel im Sinne des § 2 Absatz 1 Satz 1 dürfen nur in den Verkehr gebracht werden, wenn sie entsprechend Artikel 11 Absatz 2 bis 4 der Verordnung (EG) Nr. 648/2004 in deutscher Sprache gekennzeichnet sind. Die Vorschriften der §§ 13 und 14 des Chemikaliengesetzes über die Kennzeichnung bleiben unberührt.
 
 (2) Hersteller von Wasch- und Reinigungsmitteln im Sinne des § 2 Absatz 1 Satz 1 und 2 Nummer 2 und 3 haben nach Maßgabe von Anhang VII Abschnitt D der Verordnung (EG) Nr. 648/2004 spätestens ab dem Zeitpunkt des Inverkehrbringens der Wasch- und Reinigungsmittel ein Verzeichnis der Inhaltsstoffe zur Verfügung zu stellen.
 
-
-## § 9 – Angabe der Wasserhärtebereiche
+# § 9 – Angabe der Wasserhärtebereiche
 
 (1) Die Wasserversorgungsunternehmen haben dem Verbraucher den Härtebereich des von ihnen abgegebenen Trinkwassers mindestens einmal jährlich, ferner bei jeder nicht nur vorübergehenden Änderung des Härtebereichs in Form von Aufklebern oder in einer ähnlich wirksamen Weise mitzuteilen.
 
@@ -79,8 +68,7 @@ In den Fällen des § 5 Absatz 2 und § 6 ist ein jeweils auszuwählender Kreis 
 | Härtebereich mittel | 1,5 bis 2,5 Millimol Calciumcarbonat je Liter,     |
 | Härtebereich hart   | mehr als 2, 5 Millimol Calciumcarbonat je Liter.   |
 
-
-## § 10 – Übermittlung von Daten zu medizinischen Zwecken
+# § 10 – Übermittlung von Daten zu medizinischen Zwecken
 
 (1) Hersteller von Wasch- und Reinigungsmitteln, die nach dem Inkrafttreten dieses Gesetzes erstmalig im Geltungsbereich dieses Gesetzes in den Verkehr gebracht werden, haben dem Bundesinstitut für Risikobewertung spätestens zum Zeitpunkt ihres erstmaligen Inverkehrbringens unentgeltlich ein Datenblatt nach Anhang VII Abschnitt C der Verordnung (EG) Nr. 648/2004 zu übermitteln, wenn keine Mitteilungspflicht besteht nach
 
@@ -94,20 +82,17 @@ Die Übermittlung hat auf elektronischem Weg in vom Bundesinstitut für Risikobe
 
 (3) Das Bundesinstitut für Risikobewertung unterliegt in den Fällen der Absätze 1 und 2 der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 11 – Verzeichnis anerkannter Labors
+# § 11 – Verzeichnis anerkannter Labors
 
 Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der Europäischen Union und der Europäischen Kommission ein Verzeichnis der im Bundesgebiet anerkannten Labors, die zur Durchführung der nach der Verordnung (EG) Nr. 648/2004 erforderlichen Prüfverfahren nach Artikel 8 Absatz 2 der Verordnung (EG) Nr. 648/2004 befähigt und befugt sind, und unterrichtet die Europäische Kommission regelmäßig über eingetretene Änderungen.
 
-
-## § 12 – Aufgaben und Zuständigkeiten des Umweltbundesamtes
+# § 12 – Aufgaben und Zuständigkeiten des Umweltbundesamtes
 
 (1) Das Umweltbundesamt hat im Rahmen dieses Gesetzes die Aufgabe, das Inverkehrbringen von Wasch- und Reinigungsmitteln sowie ihren Verbleib in der Umwelt und die von ihnen ausgehenden Umweltauswirkungen zu beobachten. Das Umweltbundesamt wertet die hierbei gewonnenen Daten aus im Hinblick auf die Vermeidung von Beeinträchtigungen der Beschaffenheit der Gewässer, insbesondere im Hinblick auf den Naturhaushalt und die Trinkwasserversorgung, sowie von Beeinträchtigungen des Betriebs von Abwasseranlagen. Das Umweltbundesamt unterrichtet die für die Überwachung zuständigen Landesbehörden über die nach Satz 1 gewonnenen Daten und, soweit dies für die Erfüllung ihrer wasserwirtschaftlichen Aufgaben von Bedeutung sein kann, über die Ergebnisse der Auswertungen nach Satz 2.
 
 (2) Das Umweltbundesamt ist zuständige Behörde im Sinne von Artikel 5 Absatz 1, 3 und 5, Artikel 8 Absatz 1 und 3 sowie Artikel 10 Absatz 2 der Verordnung (EG) Nr. 648/2004. Das Umweltbundesamt unterrichtet die zuständige oberste Landesbehörde über den Eingang eines Antrages auf Erteilung einer Ausnahmegenehmigung nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 648/2004.
 
-
-## § 13 – Überwachung
+# § 13 – Überwachung
 
 (1) Die zuständige oberste Landesbehörde oder die nach Landesrecht bestimmten Behörden haben die Einhaltung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen, soweit dieses Gesetz keine andere Regelung trifft. Satz 1 gilt auch für die Verordnung (EG) Nr. 648/2004, soweit die Überwachung ihrer Durchführung den Mitgliedstaaten obliegt. § 21a des Chemikaliengesetzes gilt entsprechend.
 
@@ -119,8 +104,7 @@ Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der Europäischen U
 
 (5) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit aussetzen würde.
 
-
-## § 14 – Behördliche Anordnungen
+# § 14 – Behördliche Anordnungen
 
 (1) Die zuständige Landesbehörde kann im Einzelfall Anordnungen treffen,
 
@@ -132,8 +116,7 @@ Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der Europäischen U
 
 § 14 Abs. 1 Nr. 1 Kursivdruck: Neufassung weicht von letzter konstitutiver Fassung ab
 
-
-## § 15 – Bußgeldvorschriften
+# § 15 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -165,12 +148,10 @@ Das Umweltbundesamt übermittelt den anderen Mitgliedstaaten der Europäischen U
 
 (5) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, können eingezogen werden.
 
-
-## § 16 – Gebühren und Auslagen
+# § 16 – Gebühren und Auslagen
 
 (1) Das Umweltbundesamt erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach der Verordnung (EG) Nr. 648/2004 Gebühren und Auslagen.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände und die Gebührensätze für individuell zurechenbare öffentliche Leistungen des Umweltbundesamtes nach Absatz 1 zu bestimmen.
 
-
-## § 17 – (Inkrafttreten, Außerkrafttreten)
+# § 17 – (Inkrafttreten, Außerkrafttreten)

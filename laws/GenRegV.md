@@ -1,10 +1,7 @@
-# [GenRegV] Verordnung über das Genossenschaftsregister  (Genossenschaftsregisterverordnung - GenRegV)
-
-Ausfertigungsdatum: 11.07.1889
-
+% Verordnung über das Genossenschaftsregister  (Genossenschaftsregisterverordnung - GenRegV)
+% Ausfertigungsdatum: 11.07.1889
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -142,35 +139,29 @@ Anlage 1 Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
 
 Anlage 2 Inhalt des Genossenschaftsregisters als fortlaufender Text
 
-
-## § 1 – Zuständigkeit und Verfahren
+# § 1 – Zuständigkeit und Verfahren
 
 Zuständigkeit und Verfahren bei der Führung des Genossenschaftsregisters bestimmen sich, soweit nicht durch bundesrechtliche Vorschriften oder die nachstehenden Vorschriften etwas anderes vorgeschrieben ist, nach den für das Handelsregister geltenden Vorschriften.
 
-
-## § 2 – (weggefallen)
+# § 2 – (weggefallen)
 
 \-
 
-
-## § 3 – Benachrichtigung der Beteiligten
+# § 3 – Benachrichtigung der Beteiligten
 
 (1) Jede Eintragung oder Ablehnung einer Eintragung in das Genossenschaftsregister ist dem Vorstand, bei einer Europäischen Genossenschaft dem Leitungsorgan oder den geschäftsführenden Direktoren, oder den Liquidatoren bekannt zu geben.
 
 (2) Die Benachrichtigung kann durch einfache Postsendung erfolgen.
 
-
-## § 4 – Bekanntmachung der Registereintragungen
+# § 4 – Bekanntmachung der Registereintragungen
 
 Soweit die öffentliche Bekanntmachung einer Eintragung in das Genossenschaftsregister vorgeschrieben ist, ist sie zu veranlassen, sobald die Eintragung bewirkt ist und ohne dass eine andere Eintragung abgewartet werden darf.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
-
-## § 6 – Form der Anmeldung
+# § 6 – Form der Anmeldung
 
 (1) Die Vorschrift, dass Anmeldungen zum Genossenschaftsregister in öffentlich beglaubigter Form einzureichen sind (§ 157 des Gesetzes), gilt nur für die Anmeldungen, die in dem Gesetz als solche ausdrücklich bezeichnet sind.
 
@@ -196,8 +187,7 @@ Soweit die öffentliche Bekanntmachung einer Eintragung in das Genossenschaftsre
 
 (4) Auf Anmeldungen zum Genossenschaftsregister, welche die Europäische Genossenschaft betreffen, sind die Absätze 1 bis 3 unter Berücksichtigung der §§ 3, 17, 22 Abs. 1 und des § 26 des SCE-Ausführungsgesetzes entsprechend anzuwenden.
 
-
-## § 7 – Sonstige Anzeigen und Erklärungen
+# § 7 – Sonstige Anzeigen und Erklärungen
 
 (1) Für die sonstigen Anzeigen und Erklärungen, die zum Genossenschaftsregister zu bewirken sind, bedarf es, soweit nichts anderes vorgeschrieben ist, nicht der öffentlich beglaubigten Form.
 
@@ -205,36 +195,29 @@ Soweit die öffentliche Bekanntmachung einer Eintragung in das Genossenschaftsre
 
 (3) Die Einreichungen und Anzeigen sind in der Form des § 12 Abs. 2 des Handelsgesetzbuchs zu bewirken.
 
-
-## § 8 – Form der einzureichenden Abschrift einer Urkunde
+# § 8 – Form der einzureichenden Abschrift einer Urkunde
 
 In den Fällen, in welchen die Abschrift einer Urkunde zum Genossenschaftsregister einzureichen ist, genügt, sofern nicht ein anderes vorgeschrieben ist, eine einfache Abschrift (vgl. Gesetz § 11 Abs. 2 Nr. 2, § 16 Abs. 5 Satz 1, § 28 Satz 2, § 84 Abs. 1 Satz 2).
 
-
-## § 9 – (weggefallen)
-
-\-
-
-
-## § 10 – (weggefallen)
+# § 9 – (weggefallen)
 
 \-
 
-
-## § 11 – (weggefallen)
-
-\-
-
-
-## §§ 12 und 13 – (weggefallen)
-
-
-## § 14 – (weggefallen)
+# § 10 – (weggefallen)
 
 \-
 
+# § 11 – (weggefallen)
 
-## § 15 – Eintragung der Satzung
+\-
+
+# §§ 12 und 13 – (weggefallen)
+
+# § 14 – (weggefallen)
+
+\-
+
+# § 15 – Eintragung der Satzung
 
 (1) Vor der Eintragung der Satzung (§§ 10 bis 12 des Gesetzes) hat das Gericht zu prüfen, ob die Satzung den Vorschriften des Gesetzes genügt, insbesondere ob
 
@@ -267,8 +250,7 @@ ferner:
 
 (6) Auf die Eintragung der Satzung der Europäischen Genossenschaft sind die Absätze 1 bis 5 nicht anzuwenden.
 
-
-## § 16 – Eintragung von Satzungsänderungen
+# § 16 – Eintragung von Satzungsänderungen
 
 (1) Beschlüsse der Generalversammlung, die eine Änderung der in § 15 Abs. 3 und 4 bezeichneten Bestimmungen der Satzung oder die Fortsetzung einer auf bestimmte Zeit beschränkten Genossenschaft zum Gegenstande haben, werden nach ihrem Inhalt, Beschlüsse, die eine sonstige Satzungsänderung betreffen, nur unter allgemeiner Bezeichnung des Gegenstandes eingetragen (Gesetz § 16).
 
@@ -276,25 +258,21 @@ ferner:
 
 (3) Die Absätze 1 und 2 sind auf satzungsändernde Beschlüsse der Generalversammlung einer Europäischen Genossenschaft entsprechend anzuwenden; an die Stelle der in § 15 Abs. 3 und 4 bezeichneten Bestimmungen der Satzung treten die Satzungsbestimmungen nach Artikel 5 Abs. 4 der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1).
 
-
-## § 17 – (weggefallen)
+# § 17 – (weggefallen)
 
 \-
 
-
-## § 18 – Vorstandsmitglieder, Prokuristen
+# § 18 – Vorstandsmitglieder, Prokuristen
 
 (1) Die Bestellung von Vorstandsmitgliedern und ihrer Stellvertreter, bei einer Europäischen Genossenschaft von Mitgliedern des Leitungsorgans oder von geschäftsführenden Direktoren und ihrer Stellvertreter, ihre Vertretungsbefugnis sowie die Änderung und die Beendigung der Vertretungsbefugnis (§ 10 Abs. 1, § 25 Abs. 1 und 2, § 28 und § 35 des Gesetzes sowie § 17 Abs. 1 bis 3, § 23 Abs. 1 bis 3 und § 26 des SCE-Ausführungsgesetzes) sind unverzüglich zur Eintragung anzumelden. Als Ende der Vertretungsbefugnis gilt auch eine vorläufige Enthebung durch den Aufsichtsrat (Gesetz § 40). Die Vorstandsmitglieder, Mitglieder des Leitungsorgans, geschäftsführenden Direktoren und ihre Stellvertreter sind mit Familiennamen, Vornamen, Geburtsdatum und Wohnort einzutragen.
 
 (2) Absatz 1 Satz 1 gilt für die Anmeldung von Prokuristen (Gesetz § 42 Abs. 1) entsprechend. Die Prokuristen sind mit Familiennamen, Vornamen, Geburtsdatum und Wohnort einzutragen.
 
-
-## § 19 – (weggefallen)
+# § 19 – (weggefallen)
 
 \-
 
-
-## § 20 – Eintragung der Auflösung
+# § 20 – Eintragung der Auflösung
 
 (1) Die Eintragung der Auflösung einer Genossenschaft oder einer Europäischen Genossenschaft in das Register der Hauptniederlassung erfolgt
 
@@ -312,8 +290,7 @@ c) im Falle der Eröffnung des Insolvenzverfahrens und im Falle des § 81a Nr. 1
 
 (3) Für die Anmeldung und Eintragung der Vertretungsbefugnis und jeder Änderung der Vertretungsbefugnis der Liquidatoren (Gesetz § 84 Abs. 1, § 85) sowie für den Inhalt der Eintragung gilt § 18 Abs. 1 Satz 1 und 3 entsprechend.
 
-
-## § 21 – Anmeldepflicht bei Beendigung der Liquidation und Eintragungen bei Insolvenz
+# § 21 – Anmeldepflicht bei Beendigung der Liquidation und Eintragungen bei Insolvenz
 
 (1) Sobald mit der vollständigen Verteilung des Genossenschaftsvermögens die Liquidation beendigt ist, haben die Liquidatoren die Beendigung ihrer Vertretungsbefugnis zur Eintragung anzumelden.
 
@@ -329,18 +306,15 @@ c) im Falle der Eröffnung des Insolvenzverfahrens und im Falle des § 81a Nr. 1
 
 5. die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Überwachung.
 
-
-## § 21a – (weggefallen)
-
-\-
-
-
-## § 21b – (weggefallen)
+# § 21a – (weggefallen)
 
 \-
 
+# § 21b – (weggefallen)
 
-## § 22 – Eintragung der Nichtigkeit der Genossenschaft
+\-
+
+# § 22 – Eintragung der Nichtigkeit der Genossenschaft
 
 (1) Soll eine Genossenschaft oder eine Europäische Genossenschaft von Amts wegen als nichtig gelöscht werden, so ist in der Verfügung, welche nach § 395 Abs. 2 in Verbindung mit § 397 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit der Genossenschaft oder der Europäischen Genossenschaft zugestellt wird, ausdrücklich darauf hinzuweisen, dass der Mangel bis zur Löschung durch Beschluss der Generalversammlung gemäß § 95 Abs. 2 bis 4 des Genossenschaftsgesetzes, § 10 Abs. 1 Satz 2 des SCE-Ausführungsgesetzes geheilt werden kann.
 
@@ -348,23 +322,19 @@ c) im Falle der Eröffnung des Insolvenzverfahrens und im Falle des § 81a Nr. 1
 
 (3) Im Übrigen finden die Vorschriften des § 20 Abs. 2, 3 und des § 21 Abs. 1 entsprechende Anwendung.
 
-
-## § 23 – Eintragung der Nichtigkeit von Beschlüssen der Generalversammlung
+# § 23 – Eintragung der Nichtigkeit von Beschlüssen der Generalversammlung
 
 Soll ein eingetragener Beschluss der Generalversammlung von Amts wegen als nichtig gelöscht werden (§ 398 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit), so erfolgt die Löschung durch Eintragung eines Vermerkes, der den Beschluss als nichtig bezeichnet. Das Gleiche gilt, wenn der Beschluss durch rechtskräftiges Urteil für nichtig erklärt ist (Gesetz § 51 Abs. 5).
 
-
-## § 24 – Berichtigung von Schreibfehlern
+# § 24 – Berichtigung von Schreibfehlern
 
 Schreibfehler und ähnliche offenbare Unrichtigkeiten, die in einer Eintragung vorkommen, sind von dem Gerichte zu berichtigen, ohne dass es einer vorgängigen Benachrichtigung der Genossenschaft oder der Europäischen Genossenschaft bedarf. Die Berichtigung erfolgt in Form einer neuen Eintragung oder auf andere eindeutige Weise.
 
-
-## § 25 – Gestaltung des Genossenschaftsregisters
+# § 25 – Gestaltung des Genossenschaftsregisters
 
 Der Inhalt des Genossenschaftsregisters muss auf dem Bildschirm und in Ausdrucken entsprechend dem beigegebenen Muster (Anlage 1) sichtbar gemacht werden können. Der letzte Stand aller noch nicht gegenstandslos gewordenen Eintragungen (aktueller Registerinhalt) kann statt in spaltenweiser Wiedergabe auch als fortlaufender Text nach dem Muster in Anlage 2 sichtbar gemacht werden.
 
-
-## § 26 – Inhalt der Eintragungen
+# § 26 – Inhalt der Eintragungen
 
 In das Genossenschaftsregister werden Angaben entsprechend den folgenden Nummern 1 bis 8 eingetragen.
 
@@ -395,13 +365,11 @@ die Nichtigkeit von Beschlüssen der Generalversammlung.
 
 8. Enthält eine Eintragung die Nennung eines in ein öffentliches Unternehmensregister eingetragenen Rechtsträgers, so sind Art und Ort des Registers sowie die Registernummer dieses Rechtsträgers mit zu vermerken.
 
-
-## § 27 – (weggefallen)
+# § 27 – (weggefallen)
 
 \-
 
-
-## Anlage 1 – (zu § 25)Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
+# Anlage 1 – (zu § 25)Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
 
 (Fundstelle: BGBl. I 2006, 2274;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -578,8 +546,7 @@ Anmerkung:
 
 Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
 
-
-## Anlage 2 – (zu § 25)Inhalt des Genossenschaftsregisters als fortlaufender Text
+# Anlage 2 – (zu § 25)Inhalt des Genossenschaftsregisters als fortlaufender Text
 
 (Fundstelle: BGBl. I 2006, 2274;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

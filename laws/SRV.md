@@ -1,15 +1,11 @@
-# [SRV] Verordnung über das elektronische Schutzschriftenregister  (Schutzschriftenregisterverordnung - SRV)
-
-Ausfertigungsdatum: 24.11.2015
-
+% Verordnung über das elektronische Schutzschriftenregister  (Schutzschriftenregisterverordnung - SRV)
+% Ausfertigungsdatum: 24.11.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786) eingefügt worden ist, in Verbindung mit § 62 Absatz 2 Satz 3 und § 85 Absatz 2 Satz 3 des Arbeitsgerichtsgesetzes, die durch Artikel 3 Nummer 6 und 7 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786) eingefügt worden sind, sowie in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Inhalt und Aufbau des Registers
+# § 1 – Inhalt und Aufbau des Registers
 
 (1) Das Register enthält die Schutzschriften, die ihm gemäß § 945a Absatz 1 Satz 1 der Zivilprozessordnung übermittelt worden sind.
 
@@ -25,8 +21,7 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (4) Die Suchfunktion stellt sicher, dass auch ähnliche Ergebnisse angezeigt und Eingabefehler sowie ungenaue Parteibezeichnungen toleriert werden.
 
-
-## § 2 – Einreichung
+# § 2 – Einreichung
 
 (1) Zur Einreichung einer Schutzschrift bei dem Register ist jeder berechtigt, der eine Schutzschrift gemäß § 945a Absatz 1 Satz 2 der Zivilprozessordnung bei Gericht einreichen kann. Der Schutzschrift ist ein einheitlich strukturierter Datensatz beizufügen, der mindestens die Angaben nach § 1 Absatz 2 Nummer 1 und 2 enthält. Der Schutzschrift können Anlagen beigefügt werden.
 
@@ -46,8 +41,7 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (6) Ist ein elektronisches Dokument für das Register zur Bearbeitung nicht geeignet, hat der Betreiber des Registers dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und auf die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
 
-
-## § 3 – Einstellung
+# § 3 – Einstellung
 
 (1) Eine dem Register elektronisch übermittelte Schutzschrift ist unverzüglich nach ihrer ordnungsgemäßen Einreichung zum elektronischen Abruf und Ausdruck in das Register einzustellen.
 
@@ -57,8 +51,7 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (4) Dem Absender ist eine automatisiert erstellte Bestätigung über den Zeitpunkt der Einstellung zu erteilen.
 
-
-## § 4 – Abruf
+# § 4 – Abruf
 
 (1) Abruf ist jede Suchanfrage bei dem Register.
 
@@ -68,8 +61,7 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (4) Der Betreiber des Registers stellt die jederzeitige elektronische Abrufbarkeit des Registers sicher. Störungen werden dem abrufenden Gericht unverzüglich mitgeteilt.
 
-
-## § 5 – Protokollierungs- und Mitteilungspflichten
+# § 5 – Protokollierungs- und Mitteilungspflichten
 
 (1) Jeder Abruf ist unter Angabe des Gerichts, des gerichtlichen Aktenzeichens, sofern ein solches bereits vergeben wurde, der Suchbegriffe, des Zeitpunkts des Abrufes, des Ergebnisses der Suchanfrage und der übermittelten Daten elektronisch zu protokollieren. Das Protokoll wird elektronisch an das abrufende Gericht übersandt; eine Einstellung des Protokolls in das Register erfolgt nicht.
 
@@ -77,8 +69,7 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (3) Wird eine aufgefundene Schutzschrift vom abrufenden Gericht als sachlich einschlägig gekennzeichnet, erhält der Absender drei Monate nach dieser Kennzeichnung eine automatisiert erstellte Mitteilung, die das abrufende Gericht und das gerichtliche Aktenzeichen enthält.
 
-
-## § 6 – Löschung
+# § 6 – Löschung
 
 (1) Der Betreiber des Registers stellt sicher, dass Schutzschriften sechs Monate nach ihrer Einstellung gelöscht werden. Die gemäß § 2 Absatz 1 Satz 2 und § 5 Absatz 2 zu dieser Schutzschrift gespeicherten Daten sind nach weiteren drei Monaten zu löschen.
 
@@ -86,23 +77,19 @@ Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des
 
 (3) Unzulässigerweise in das Register eingestellte Daten sind nach Feststellung der Unzulässigkeit unverzüglich zu löschen.
 
-
-## § 7 – Datensicherheit
+# § 7 – Datensicherheit
 
 Der Betreiber des Registers hat durch organisatorische und technische Vorkehrungen sicherzustellen, dass die eingereichten Daten während ihrer Übermittlung und Abrufbarkeit unversehrt und vollständig bleiben sowie gegen unbefugte Kenntnisnahme Dritter geschützt sind.
 
-
-## § 8 – Störungen
+# § 8 – Störungen
 
 Der Betreiber des Registers hat durch organisatorische und technische Vorkehrungen sicherzustellen, dass er von auftretenden Störungen unverzüglich Kenntnis erlangt. Störungen sind unverzüglich zu beheben.
 
-
-## § 9 – Barrierefreiheit
+# § 9 – Barrierefreiheit
 
 Der Betreiber des Registers hat durch organisatorische und technische Vorkehrungen sicherzustellen, dass für blinde und sehbehinderte Personen ein barrierefreier Zugang zum Register gewährleistet ist. Für die Gestaltung des Registers ist die Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung entsprechend anzuwenden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 (1) § 2 Absatz 4 Satz 2, Absatz 5 Nummer 2 und 3 dieser Verordnung tritt am 1. Januar 2017 in Kraft.
 
@@ -110,7 +97,6 @@ Der Betreiber des Registers hat durch organisatorische und technische Vorkehrung
 
 (3) Im Übrigen tritt diese Verordnung am 1. Januar 2016 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

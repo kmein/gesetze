@@ -1,10 +1,7 @@
-# [Münz2DMBek 1990] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
-
-Ausfertigungsdatum: 21.09.1990
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
+% Ausfertigungsdatum: 21.09.1990
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, zum 40jährigen Bestehen der Bundesrepublik Deutschland ab 1990 eine 2 DM-Umlaufmünze mit dem Bildnis des verstorbenen Bayerischen Ministerpräsidenten Dr. h.c. Franz Josef Strauß prägen zu lassen. Die Höhe der Auflage richtet sich nach den Bedürfnissen des Zahlungsverkehrs. Mit der Ausgabe wird ab 9. Oktober 1990 begonnen.
 
@@ -39,17 +36,15 @@ versehen. Zwischen jedem der Worte ist ein Ornament, am Schluß der Inschrift si
 
 (6) Die Münze hat ein Gewicht von 7 Gramm und einen Durchmesser von 26,75 Millimetern. Sie besteht überwiegend aus einer Kupfer-Nickel-Legierung (75 Prozent Kupfer und 25 Prozent Nickel) und hat einen Reinnickelkern.
 
-(7) Der Entwurf der Bildseite stammt von Erich Ott, München.  
-  
+(7) Der Entwurf der Bildseite stammt von Erich Ott, München.   
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
   
 (Fundstelle: BGBl. I 1990, 2116)
 
   
   
-![](../normengrafiken/bgbl1_1990/j2116_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1990/j2116_0010.jpg)  
   

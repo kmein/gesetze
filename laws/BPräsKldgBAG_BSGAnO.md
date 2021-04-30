@@ -1,10 +1,7 @@
-# [BPräsKldgBAG/BSGAnO] Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesarbeitsgericht und bei dem Bundessozialgericht
-
-Ausfertigungsdatum: 07.05.1954
-
+% Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesarbeitsgericht und bei dem Bundessozialgericht
+% Ausfertigungsdatum: 07.05.1954
  
-
-## Art 1
+# Art 1
 
 Auf Grund des § 76 in Verbindung mit § 189 des Bundesbeamtengesetzes vom 14. Juli 1953 (Bundesgesetzbl. I S. 551) bestimme ich:
 
@@ -26,12 +23,10 @@ b) die Vorsitzenden Richter am Bundesarbeitsgericht und die Vorsitzenden Richter
 
 c) die Richter am Bundesarbeitsgericht und die Richter am Bundessozialgericht zwei karmesinrote Schnüre in Seide.
 
-
-## Art 2
+# Art 2
 
 Rechtsanwälte und Verwaltungsrechtsräte tragen als Bevollmächtigte der Parteien die bei den Gerichten für sie vorgeschriebene Amtstracht.
 
-
-## Art 3
+# Art 3
 
 Der Bundesminister für Arbeit wird ermächtigt, Ausführungsbestimmungen zu dieser Anordnung zu erlassen. Soweit sich diese auf das Bundesarbeitsgericht beziehen, erläßt er sie im Einvernehmen mit dem Bundesminister der Justiz.

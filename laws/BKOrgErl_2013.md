@@ -1,15 +1,11 @@
-# [BKOrgErl 2013] Organisationserlass der Bundeskanzlerin
-
-Ausfertigungsdatum: 17.12.2013
-
+% Organisationserlass der Bundeskanzlerin
+% Ausfertigungsdatum: 17.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:
 
-
-## I.
+# I.
 
 Es erhalten
 
@@ -23,8 +19,7 @@ Es erhalten
 
 5. das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit die Bezeichnung Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
-
-## II.
+# II.
 
 Dem Bundesministerium für Wirtschaft und Energie werden übertragen
 
@@ -36,15 +31,13 @@ Dem Bundesministerium für Wirtschaft und Energie werden übertragen
 
 Die Zuständigkeitsübertragungen schließen deren europäische und internationale Bezüge sowie die Grundsatz- und Planungsangelegenheiten ein.
 
-
-## III.
+# III.
 
 Dem Bundesministerium der Justiz und für Verbraucherschutz wird aus dem Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft die Zuständigkeit für Verbraucherpolitik übertragen. Der Verbraucherschutz im Bereich Ernährung und Lebensmittel verbleibt im Bundesministerium für Ernährung und Landwirtschaft.
 
 Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie die Grundsatz- und Planungsangelegenheiten ein.
 
-
-## IV.
+# IV.
 
 Dem Bundesministerium für Verkehr und digitale Infrastruktur werden aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie die Zuständigkeiten übertragen für
 
@@ -56,8 +49,7 @@ einschließlich der diesbezüglichen Fachaufsicht über die Bundesnetzagentur. D
 
 Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie die Grundsatz- und Planungsangelegenheiten ein.
 
-
-## V.
+# V.
 
 Dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit werden aus dem Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur die Zuständigkeiten für
 
@@ -67,12 +59,10 @@ Dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit werden
 
 Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie die Grundsatz- und Planungsangelegenheiten ein.
 
-
-## VI.
+# VI.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundeskanzlerin

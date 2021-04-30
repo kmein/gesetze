@@ -1,15 +1,11 @@
-# [FotoMedFachAusbV] Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau
-
-Ausfertigungsdatum: 19.03.2008
-
+% Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau
+% Ausfertigungsdatum: 19.03.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs. 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fotomedienfachmann/Fotomedienfachfrau wird
 
@@ -19,13 +15,11 @@ Der Ausbildungsberuf Fotomedienfachmann/Fotomedienfachfrau wird
 
 staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -133,8 +127,7 @@ Planung und Steuerung von Arbeitsabläufen,
 2.2  
 Teamarbeit und Kooperation.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
@@ -142,8 +135,7 @@ Teamarbeit und Kooperation.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Zwischenprüfung
+# § 5 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
@@ -189,8 +181,7 @@ kann;
 
 3. die Prüfungszeit beträgt 75 Minuten.
 
-
-## § 6 – Abschlussprüfung/Gesellenprüfung
+# § 6 – Abschlussprüfung/Gesellenprüfung
 
 (1) Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -296,13 +287,11 @@ bewertet worden sind.
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-
-## Anlage 1 – (zu § 3 Abs. 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Sachliche Gliederung –
+# Anlage 1 – (zu § 3 Abs. 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 460 - 464)
 
@@ -311,8 +300,7 @@ Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Abschnitt B: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-
-## Anlage 2 – (zu § 3 Abs. 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Zeitliche Gliederung –
+# Anlage 2 – (zu § 3 Abs. 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 465 - 466)
 

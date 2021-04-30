@@ -1,15 +1,11 @@
-# [BRegSitzBek] Bekanntmachung über die Sitzentscheidung der Bundesregierung
-
-Ausfertigungsdatum: 22.07.1999
-
+% Bekanntmachung über die Sitzentscheidung der Bundesregierung
+% Ausfertigungsdatum: 22.07.1999
  
-
-## ----
+# ----
 
 Nachstehend mache ich gemäß § 9 Nr. 2 des Berlin/Bonn-Gesetzes die Sitzentscheidung der Bundesregierung vom 21. Juli 1999 bekannt:
 
-"1.  
-Gemäß § 3 Abs. 2 des Berlin/Bonn-Gesetzes hat die Bundesregierung den Vollzug ihrer Sitzentscheidung für Berlin in zeitlicher Abstimmung mit dem Vollzug der Sitzentscheidung des Deutschen Bundestages vorzunehmen.
+"1. Gemäß § 3 Abs. 2 des Berlin/Bonn-Gesetzes hat die Bundesregierung den Vollzug ihrer Sitzentscheidung für Berlin in zeitlicher Abstimmung mit dem Vollzug der Sitzentscheidung des Deutschen Bundestages vorzunehmen.
 
 Der Deutsche Bundestag hat in seiner Plenarsitzung am 1. Juli 1999 gemäß § 2 Abs. 2 Berlin/Bonn-Gesetz festgestellt, daß die erforderlichen Voraussetzungen für die Arbeitsfähigkeit des Deutschen Bundestages in Berlin mit Wirkung vom 1. September 1999 hergestellt sind.
 

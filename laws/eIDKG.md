@@ -1,12 +1,7 @@
-# [eIDKG] Gesetz über eine Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums mit Funktion zum elektronischen Identitätsnachweis  (eID-Karte-Gesetz - eIDKG)
-
-Ausfertigungsdatum: 21.06.2019
-
+% Gesetz über eine Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums mit Funktion zum elektronischen Identitätsnachweis  (eID-Karte-Gesetz - eIDKG)
+% Ausfertigungsdatum: 21.06.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -32,15 +27,15 @@ Ausfertigungsdatum: 21.06.2019
 
  
 
+ 
 
-## § 1 – eID-Karte
+# § 1 – eID-Karte
 
 (1) Für Staatsangehörige eines Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, die nicht Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes sind, wird auf Antrag eine Karte mit Funktion zum elektronischen Identitätsnachweis (eID-Karte) ausgestellt.
 
 (2) Die eID-Karte ermöglicht den elektronischen Identitätsnachweis und das Vor-Ort-Auslesen nach den §§ 12 und 13.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Diensteanbieter sind natürliche und juristische Personen, die zur Wahrnehmung von Aufgaben der öffentlichen Verwaltung oder zur Erfüllung eigener Geschäftszwecke den Nachweis der Identität oder einzelner Identitätsmerkmale des Karteninhabers benötigen und ihren Wohn-, Geschäfts- oder Dienstsitz innerhalb der Europäischen Union sowie in Staaten, in denen ein vergleichbarer Datenschutzstandard besteht, haben.
 
@@ -66,8 +61,7 @@ Ausfertigungsdatum: 21.06.2019
 
 (10) Karteninhaber ist die Person, für die die eID-Karte ausgestellt wurde.
 
-
-## § 3 – Besitz und Eigentum; Hersteller, Vergabestelle und Sperrlistenbetreiber
+# § 3 – Besitz und Eigentum; Hersteller, Vergabestelle und Sperrlistenbetreiber
 
 (1) Niemand darf mehr als eine auf seine Person ausgestellte gültige eID-Karte besitzen.
 
@@ -83,8 +77,7 @@ Ausfertigungsdatum: 21.06.2019
 
 und macht deren Namen im Bundesanzeiger bekannt.
 
-
-## § 4 – Kartenmuster; Seriennummer; Chip
+# § 4 – Kartenmuster; Seriennummer; Chip
 
 (1) Die eID-Karte wird nach einem einheitlichen Muster ausgestellt.
 
@@ -118,8 +111,7 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 (5) Die gespeicherten Daten sind gegen unbefugtes Verändern, Löschen und Auslesen zu sichern.
 
-
-## § 5 – Gültigkeitsdauer
+# § 5 – Gültigkeitsdauer
 
 (1) Die eID-Karte wird für eine Gültigkeitsdauer von zehn Jahren ausgestellt.
 
@@ -127,8 +119,7 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 (3) Vor Ablauf der Gültigkeit einer eID-Karte kann eine neue eID-Karte beantragt werden, wenn ein berechtigtes Interesse an der Neuausstellung dargelegt wird.
 
-
-## § 6 – Sachliche Zuständigkeit
+# § 6 – Sachliche Zuständigkeit
 
 (1) Zuständig für Angelegenheiten, die die eID-Karte betreffen, sind:
 
@@ -146,15 +137,13 @@ und macht deren Namen im Bundesanzeiger bekannt.
 
 2. für das Führen einer Sperrliste nach § 9 Absatz 3 ist der Sperrlistenbetreiber nach § 3 Absatz 3 Nummer 3.
 
-
-## § 7 – Örtliche Zuständigkeit
+# § 7 – Örtliche Zuständigkeit
 
 (1) Örtlich zuständig ist diejenige eID-Karte-Behörde, in deren Bezirk die antragstellende Person oder der Karteninhaber für seine Wohnung, bei mehreren Wohnungen für seine Hauptwohnung, meldepflichtig ist. Ist die Person nicht meldepflichtig, ist die eID-Karte-Behörde zuständig, in deren Bezirk die Person im Zeitpunkt der Antragstellung oder des die behördliche Tätigkeit auslösenden Ereignisses wohnt.
 
 (2) Im Ausland sind die vom Auswärtigen Amt bestimmten Auslandsvertretungen zuständig, in deren Bezirk sich die antragstellende Person oder der Karteninhaber gewöhnlich aufhält. Die antragstellende Person oder der Karteninhaber haben den Nachweis über ihren gewöhnlichen Aufenthaltsort zu erbringen.
 
-
-## § 8 – Ausstellung der eID-Karte
+# § 8 – Ausstellung der eID-Karte
 
 (1) Die eID-Karte wird auf Antrag für die antragstellende Person ausgestellt, wenn sie
 
@@ -168,8 +157,7 @@ Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach
 
 (3) Bestehen Zweifel über die Identität der antragstellenden Person, so ist die Ausstellung einer eID-Karte abzulehnen.
 
-
-## § 9 – Sperrung und Entsperrung
+# § 9 – Sperrung und Entsperrung
 
 (1) Die ausstellende eID-Karte-Behörde hat unverzüglich zur Aktualisierung der Sperrliste die Sperrsumme der eID-Karte an den Sperrlistenbetreiber zu übermitteln, wenn sie Kenntnis erlangt von
 
@@ -189,8 +177,7 @@ Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach
 
 (+++ Hinweis: Die Änderung des Art. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 1 G v. 20.11.2019 I 1626 (Neufassung d. § 9 Abs. 5 eIDKG) sowie die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) sind nicht ausführbar, da Art. 1 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 10 – Informationspflichten
+# § 10 – Informationspflichten
 
 (1) Auf Verlangen des Karteninhabers hat die eID-Karte-Behörde ihm Einsicht in die im Chip gespeicherten auslesbaren Daten zu gewähren.
 
@@ -198,13 +185,11 @@ Jugendliche, die mindestens 16 Jahre alt sind, dürfen Verfahrenshandlungen nach
 
 (3) Eine eID-Karte-Behörde, die Kenntnis von dem Abhandenkommen einer eID-Karte erlangt, hat die zuständige eID-Karte-Behörde, die ausstellende eID-Karte-Behörde und eine Polizeibehörde unverzüglich in Kenntnis zu setzen; eine Polizeibehörde, die anderweitig Kenntnis vom Abhandenkommen einer eID-Karte erlangt, hat die zuständige und die ausstellende eID-Karte-Behörde unverzüglich zu unterrichten. Dabei sollen Angaben zum Familiennamen, den Vornamen, zur Seriennummer, zur ausstellenden eID-Karte-Behörde, zum Ausstellungsdatum und zur Gültigkeitsdauer der eID-Karte übermittelt werden. Die Polizeibehörde hat die Einstellung in die polizeiliche Sachfahndung vorzunehmen.
 
-
-## § 11 – Datenerfassung, -prüfung und -übermittlung
+# § 11 – Datenerfassung, -prüfung und -übermittlung
 
 Für die Form und das Verfahren der Datenerfassung, -prüfung und -übermittlung und für die Übermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort gelten die §§ 12 und 13 des Personalausweisgesetzes entsprechend.
 
-
-## § 12 – Elektronischer Identitätsnachweis
+# § 12 – Elektronischer Identitätsnachweis
 
 (1) Der Karteninhaber kann seine eID-Karte dazu nutzen, seine Identität gegenüber öffentlichen und nichtöffentlichen Stellen elektronisch nachzuweisen. Dies gilt auch dann, wenn er für eine andere Person, ein Unternehmen oder eine Behörde handelt. Abweichend von Satz 1 ist der elektronische Identitätsnachweis ausgeschlossen, wenn die Voraussetzungen des § 3a Absatz 1 des Verwaltungsverfahrensgesetzes, des § 87a Absatz 1 Satz 1 der Abgabenordnung oder des § 36a Absatz 1 des Ersten Buches Sozialgesetzbuch nicht vorliegen.
 
@@ -212,42 +197,35 @@ Für die Form und das Verfahren der Datenerfassung, -prüfung und -übermittlung
 
 (3) Der elektronische Identitätsnachweis erfolgt durch Übermittlung von Daten aus dem Chip der eID-Karte. Für die Einzelheiten der Datenübermittlung gilt § 18 Absatz 2 Satz 2, Absatz 3, 4 und 5 des Personalausweisgesetzes entsprechend.
 
-
-## § 13 – Vor-Ort-Auslesen
+# § 13 – Vor-Ort-Auslesen
 
 (1) Der Karteninhaber kann seine eID-Karte ferner dazu verwenden, die im Chip gespeicherten Daten zum Zwecke der medienbruchfreien Übernahme von Formulardaten unter Anwesenden zu übermitteln.
 
 (2) Vor dem Vor-Ort-Auslesen der Daten ist der Vor-Ort-Diensteanbieter verpflichtet, anhand eines gültigen Passes oder amtlichen Ausweises per Lichtbildabgleich zu prüfen, ob die die eID-Karte vorlegende Person der Karteninhaber ist. Die Daten werden nur übermittelt, wenn der Vor-Ort-Anbieter mit Einverständnis des Karteninhabers die Zugangsnummer ausliest und diese zusammen mit einem gültigen Vor-Ort-Zertifikat an den Chip der eID-Karte übermittelt.
 
-
-## § 14 – Speicherung im Rahmen des elektronischen Identitätsnachweises
+# § 14 – Speicherung im Rahmen des elektronischen Identitätsnachweises
 
 Für die Speicherung von Daten im Rahmen des elektronischen Identitätsnachweises, auch durch Identifizierungsdiensteanbieter, gelten die §§ 19 und 19a des Personalausweisgesetzes entsprechend.
 
-
-## § 15 – Berechtigungen für Diensteanbieter
+# § 15 – Berechtigungen für Diensteanbieter
 
 (1) Um Daten im Wege des elektronischen Identitätsnachweises anzufragen, benötigen Diensteanbieter eine Berechtigung. Die Berechtigung lässt datenschutzrechtliche Vorschriften unberührt. Das Vorliegen einer Berechtigung ist durch die Vergabe von Berechtigungszertifikaten technisch abzusichern.
 
 (2) Für die Voraussetzungen und das Verfahren gelten die Vorschriften des § 21 Absatz 2 bis 8 des Personalausweisgesetzes entsprechend.
 
-
-## § 16 – Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter
+# § 16 – Vor-Ort-Berechtigung für Vor-Ort-Diensteanbieter
 
 Um Daten nach § 13 unter Anwesenden vor Ort auslesen zu dürfen, benötigen Vor-Ort-Diensteanbieter eine Vor-Ort-Berechtigung einschließlich eines Vor-Ort-Zertifikats. § 21 des Personalausweisgesetzes gilt hierfür entsprechend.
 
-
-## § 17 – Berechtigung für Identifizierungsdiensteanbieter
+# § 17 – Berechtigung für Identifizierungsdiensteanbieter
 
 Wer als Identifizierungsdiensteanbieter die Funktion des elektronischen Identitätsnachweises nach § 12 nutzen möchte, um Identifizierungsdienstleistungen für Dritte zu erbringen, bedarf einer Berechtigung. § 21b des Personalausweisgesetzes gilt hierfür entsprechend.
 
-
-## § 18 – Elektronische Signatur
+# § 18 – Elektronische Signatur
 
 Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im Sinne des Artikels 3 Nummer 23 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) ausgestaltet werden. Die Zertifizierung nach Artikel 30 der Verordnung (EU) Nr. 910/2014 erfolgt durch das Bundesamt für Sicherheit in der Informationstechnik. Die Vorschriften des Vertrauensdienstegesetzes bleiben unberührt.
 
-
-## § 19 – eID-Karte-Register
+# § 19 – eID-Karte-Register
 
 (1) Zur Durchführung dieses Gesetzes führen die eID-Karte-Behörden Register über die beantragten und ausgegebenen eID-Karten (eID-Karte-Register).
 
@@ -283,8 +261,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (4) Personenbezogene Daten im eID-Karte-Register sind mindestens bis zur Ausstellung einer neuen eID-Karte, höchstens jedoch bis zum Ablauf der Gültigkeitsdauer der eID-Karte, auf die sie sich beziehen, zu speichern und dann zu löschen.
 
-
-## § 20 – Pflichten des Karteninhabers
+# § 20 – Pflichten des Karteninhabers
 
 (1) Der Karteninhaber ist verpflichtet, der eID-Karte-Behörde unverzüglich
 
@@ -298,8 +275,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (3) Der Karteninhaber soll durch technische und organisatorische Maßnahmen gewährleisten, dass der elektronische Identitätsnachweis nach § 12 nur in einer Umgebung eingesetzt wird, die nach dem jeweiligen Stand der Technik als sicher anzusehen ist. Dabei soll er insbesondere solche technischen Systeme und Bestandteile einsetzen, die vom Bundesamt für Sicherheit in der Informationstechnik als für diesen Einsatzzweck sicher bewertet werden.
 
-
-## § 21 – Ungültigkeit
+# § 21 – Ungültigkeit
 
 (1) Eine eID-Karte ist ungültig, wenn
 
@@ -309,8 +285,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (2) Die eID-Karte-Behörde hat eine eID-Karte für ungültig zu erklären, wenn die Voraussetzungen für ihre Erteilung im Zeitpunkt der Ausstellung nicht vorgelegen haben oder nachträglich weggefallen sind.
 
-
-## § 22 – Einziehung und Sicherstellung
+# § 22 – Einziehung und Sicherstellung
 
 (1) Eine ungültige eID-Karte kann eingezogen werden.
 
@@ -324,8 +299,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (4) Widerspruch und Anfechtungsklage haben in den Fällen der Absätze 1 und 2 keine aufschiebende Wirkung.
 
-
-## § 23 – Gebühren und Auslagen; Verordnungsermächtigung
+# § 23 – Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz erheben die eID-Karte-Behörden Gebühren und Auslagen nach den Absätzen 2 und 3.
 
@@ -335,8 +309,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (4) Das Auswärtige Amt kann durch Besondere Gebührenverordnung nach § 22 Absatz 4 des Bundesgebührengesetzes bestimmen, dass von den Auslandsvertretungen der Bundesrepublik Deutschland für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann bis zu 300 Prozent betragen.
 
-
-## § 24 – Bußgeldvorschriften
+# § 24 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -348,8 +321,7 @@ Die eID-Karte kann als qualifizierte elektronische Signaturerstellungseinheit im
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 mit einer Geldbuße bis zu dreißigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-
-## § 25 – Verordnungsermächtigung
+# § 25 – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Benehmen mit dem Auswärtigen Amt und mit Zustimmung des Bundesrates durch Rechtsverordnung
 
@@ -383,7 +355,6 @@ festzulegen,
 
 11. die Einzelheiten der Vergabe der Berechtigungen und der Berechtigungszertifikate festzulegen.
 
-
-## § 26 – Übergangsvorschrift
+# § 26 – Übergangsvorschrift
 
 Abweichend von § 6 Absatz 1 Nummer 2 und § 7 Absatz 2 ist bis zum 31. Oktober 2021 für Antragsberechtigte mit gewöhnlichem Aufenthalt im Ausland diejenige Behörde nach § 6 Absatz 1 Nummer 1 zuständig, in deren Bezirk sich der Antragsberechtigte vorübergehend aufhält.

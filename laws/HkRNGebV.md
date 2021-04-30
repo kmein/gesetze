@@ -1,36 +1,29 @@
-# [HkRNGebV] Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung  (Herkunfts- und Regionalnachweis- Gebührenverordnung - HkRNGebV)
-
-Ausfertigungsdatum: 17.12.2012
-
+% Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung  (Herkunfts- und Regionalnachweis- Gebührenverordnung - HkRNGebV)
+% Ausfertigungsdatum: 17.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 63a Absatz 1 und 2 Nummer 3 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074), der durch Artikel 1 Nummer 20 des Gesetzes vom 17. August 2012 (BGBl. I S. 1754) geändert worden ist, in Verbindung mit § 6 Absatz 2 der Herkunftsnachweisverordnung vom 28. November 2011 (BGBl. I S. 2447), der zuletzt durch Artikel 4 des Gesetzes vom 17. August 2012 (BGBl. I S. 1754) geändert worden ist, und dem 2. und 3. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), verordnet das Umweltbundesamt:
 
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Das Umweltbundesamt erhebt für Amtshandlungen im Zusammenhang mit der Ausstellung, Übertragung, Anerkennung und Entwertung von Herkunftsnachweisen sowie für die Nutzung des Herkunftsnachweisregisters Gebühren nach Anlage 1 und Auslagen.
 
 (2) Das Umweltbundesamt erhebt für Amtshandlungen im Zusammenhang mit der Ausstellung, Übertragung und Entwertung von Regionalnachweisen sowie für die Nutzung des Regionalnachweisregisters Gebühren nach Anlage 2 und Auslagen.
 
-
-## § 2 – Schuldner
+# § 2 – Schuldner
 
 (1) Schuldner der Jahresgebühr für die Führung eines Kontos ist jeder Kontoinhaber, der über ein Konto nach § 2 Nummer 4 der Herkunfts- und Regionalnachweis-Durchführungsverordnung verfügt. Schuldner der Gebühren für alle anderen Amtshandlungen sind diejenigen Kontoinhaber, die die jeweilige Amtshandlung veranlasst haben oder zu deren Gunsten die jeweilige Amtshandlung vorgenommen wird.
 
 (2) Vertritt ein Dienstleister einen Anlagenbetreiber bei der Kontoeröffnung im Herkunftsnachweisregister oder im Regionalnachweisregister und gibt dieser Dienstleister gegenüber der Registerverwaltung die Erklärung ab, dass er sämtliche im Zusammenhang mit der Nutzung des jeweiligen Registers entstehenden Kosten übernimmt, so ist neben dem Schuldner nach Absatz 1 auch der Dienstleister zur Zahlung der entstehenden Kosten verpflichtet.
 
-
-## § 3 – Reduzierung der Jahresgebühren, Abrundung
+# § 3 – Reduzierung der Jahresgebühren, Abrundung
 
 (1) Die Jahresgebühr nach Anlage 1 Nummer 3 und die Jahresgebühr nach Anlage 2 Nummer 3 reduzieren sich jeweils anteilig um die Gebühr für die Monate, in denen der Kontoinhaber kein entsprechendes Konto bei der Registerverwaltung geführt hat.
 
 (2) Die Registerverwaltung rundet Gebühren bei ihrer Festsetzung auf den nächsten vollen Cent ab.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis zum Herkunftsnachweisregister
+# Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis zum Herkunftsnachweisregister
 
 (Fundstelle: BGBl. I 2018, 1874)
 
@@ -127,8 +120,7 @@ Jahresgebühr für Kontoinhaber je Konto mit weniger als 2 501 gebührenpflicht
 
 50
 
-
-## Anlage 2 – (zu § 1 Absatz 2)Gebührenverzeichnis zum Regionalnachweisregister
+# Anlage 2 – (zu § 1 Absatz 2)Gebührenverzeichnis zum Regionalnachweisregister
 
 (Fundstelle: BGBl. I 2018, 1875)
 

@@ -1,10 +1,7 @@
-# [ArbStättV] Verordnung über Arbeitsstätten  (Arbeitsstättenverordnung - ArbStättV)
-
-Ausfertigungsdatum: 12.08.2004
-
+% Verordnung über Arbeitsstätten  (Arbeitsstättenverordnung - ArbStättV)
+% Ausfertigungsdatum: 12.08.2004
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |        |                                                                  |
 |:-------|:-----------------------------------------------------------------|
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 12.08.2004
 | § 9    | Straftaten und Ordnungswidrigkeiten                              |
 | Anhang | Anforderungen und Maßnahmen für Arbeitsstätten nach § 3 Absatz 1 |
 
-
-## § 1 – Ziel, Anwendungsbereich
+# § 1 – Ziel, Anwendungsbereich
 
 (1) Diese Verordnung dient der Sicherheit und dem Schutz der Gesundheit der Beschäftigten beim Einrichten und Betreiben von Arbeitsstätten.
 
@@ -63,8 +59,7 @@ soweit der Arbeitsplatz von dem im Betrieb abweicht. Die in Satz 1 genannten Vor
 
 (7) Das Bundeskanzleramt, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern, für Bau und Heimat selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Schutz der Gesundheit der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Arbeitsstätten sind:
 
@@ -118,8 +113,7 @@ sofern sie zur Nutzung für Arbeitsplätze vorgesehen sind.
 
 (13) Fachkundig ist, wer über die zur Ausübung einer in dieser Verordnung bestimmten Aufgabe erforderlichen Fachkenntnisse verfügt. Die Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art der Aufgabe. Zu den Anforderungen zählen eine entsprechende Berufsausbildung, Berufserfahrung oder eine zeitnah ausgeübte entsprechende berufliche Tätigkeit. Die Fachkenntnisse sind durch Teilnahme an Schulungen auf aktuellem Stand zu halten.
 
-
-## § 3 – Gefährdungsbeurteilung
+# § 3 – Gefährdungsbeurteilung
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob die Beschäftigten Gefährdungen beim Einrichten und Betreiben von Arbeitsstätten ausgesetzt sind oder ausgesetzt sein können. Ist dies der Fall, hat er alle möglichen Gefährdungen der Sicherheit und der Gesundheit der Beschäftigten zu beurteilen und dabei die Auswirkungen der Arbeitsorganisation und der Arbeitsabläufe in der Arbeitsstätte zu berücksichtigen. Bei der Gefährdungsbeurteilung hat er die physischen und psychischen Belastungen sowie bei Bildschirmarbeitsplätzen insbesondere die Belastungen der Augen oder die Gefährdung des Sehvermögens der Beschäftigten zu berücksichtigen. Entsprechend dem Ergebnis der Gefährdungsbeurteilung hat der Arbeitgeber Maßnahmen zum Schutz der Beschäftigten gemäß den Vorschriften dieser Verordnung einschließlich ihres Anhangs nach dem Stand der Technik, Arbeitsmedizin und Hygiene festzulegen. Sonstige gesicherte arbeitswissenschaftliche Erkenntnisse sind zu berücksichtigen.
 
@@ -127,8 +121,7 @@ sofern sie zur Nutzung für Arbeitsplätze vorgesehen sind.
 
 (3) Der Arbeitgeber hat die Gefährdungsbeurteilung vor Aufnahme der Tätigkeiten zu dokumentieren. In der Dokumentation ist anzugeben, welche Gefährdungen am Arbeitsplatz auftreten können und welche Maßnahmen nach Absatz 1 Satz 4 durchgeführt werden müssen.
 
-
-## § 3a – Einrichten und Betreiben von Arbeitsstätten
+# § 3a – Einrichten und Betreiben von Arbeitsstätten
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass Arbeitsstätten so eingerichtet und betrieben werden, dass Gefährdungen für die Sicherheit und die Gesundheit der Beschäftigten möglichst vermieden und verbleibende Gefährdungen möglichst gering gehalten werden. Beim Einrichten und Betreiben der Arbeitsstätten hat der Arbeitgeber die Maßnahmen nach § 3 Absatz 1 durchzuführen und dabei den Stand der Technik, Arbeitsmedizin und Hygiene, die ergonomischen Anforderungen sowie insbesondere die vom Bundesministerium für Arbeit und Soziales nach § 7 Absatz 4 bekannt gemachten Regeln und Erkenntnisse zu berücksichtigen. Bei Einhaltung der bekannt gemachten Regeln ist davon auszugehen, dass die in dieser Verordnung gestellten Anforderungen diesbezüglich erfüllt sind. Wendet der Arbeitgeber diese Regeln nicht an, so muss er durch andere Maßnahmen die gleiche Sicherheit und den gleichen Schutz der Gesundheit der Beschäftigten erreichen.
 
@@ -144,8 +137,7 @@ Der Antrag des Arbeitgebers kann in Papierform oder elektronisch übermittelt we
 
 (4) Anforderungen in anderen Rechtsvorschriften, insbesondere im Bauordnungsrecht der Länder, gelten vorrangig, soweit sie über die Anforderungen dieser Verordnung hinausgehen.
 
-
-## § 4 – Besondere Anforderungen an das Betreiben von Arbeitsstätten
+# § 4 – Besondere Anforderungen an das Betreiben von Arbeitsstätten
 
 (1) Der Arbeitgeber hat die Arbeitsstätte instand zu halten und dafür zu sorgen, dass festgestellte Mängel unverzüglich beseitigt werden. Können Mängel, mit denen eine unmittelbare erhebliche Gefahr verbunden ist, nicht sofort beseitigt werden, hat er dafür zu sorgen, dass die gefährdeten Beschäftigten ihre Tätigkeit unverzüglich einstellen.
 
@@ -157,15 +149,13 @@ Der Antrag des Arbeitgebers kann in Papierform oder elektronisch übermittelt we
 
 (5) Der Arbeitgeber hat beim Einrichten und Betreiben von Arbeitsstätten Mittel und Einrichtungen zur Ersten Hilfe zur Verfügung zu stellen und regelmäßig auf ihre Vollständigkeit und Verwendungsfähigkeit prüfen zu lassen.
 
-
-## § 5 – Nichtraucherschutz
+# § 5 – Nichtraucherschutz
 
 (1) Der Arbeitgeber hat die erforderlichen Maßnahmen zu treffen, damit die nicht rauchenden Beschäftigten in Arbeitsstätten wirksam vor den Gesundheitsgefahren durch Tabakrauch geschützt sind. Soweit erforderlich, hat der Arbeitgeber ein allgemeines oder auf einzelne Bereiche der Arbeitsstätte beschränktes Rauchverbot zu erlassen.
 
 (2) In Arbeitsstätten mit Publikumsverkehr hat der Arbeitgeber beim Einrichten und Betreiben von Arbeitsräumen der Natur des Betriebes entsprechende und der Art der Beschäftigung angepasste technische oder organisatorische Maßnahmen nach Absatz 1 zum Schutz der nicht rauchenden Beschäftigten zu treffen.
 
-
-## § 6 – Unterweisung der Beschäftigten
+# § 6 – Unterweisung der Beschäftigten
 
 (1) Der Arbeitgeber hat den Beschäftigten ausreichende und angemessene Informationen anhand der Gefährdungsbeurteilung in einer für die Beschäftigten verständlichen Form und Sprache zur Verfügung zu stellen über
 
@@ -191,8 +181,7 @@ und sie anhand dieser Informationen zu unterweisen.
 
 (4) Die Unterweisungen müssen vor Aufnahme der Tätigkeit stattfinden. Danach sind sie mindestens jährlich zu wiederholen. Sie haben in einer für die Beschäftigten verständlichen Form und Sprache zu erfolgen. Unterweisungen sind unverzüglich zu wiederholen, wenn sich die Tätigkeiten der Beschäftigten, die Arbeitsorganisation, die Arbeits- und Fertigungsverfahren oder die Einrichtungen und Betriebsweisen in der Arbeitsstätte wesentlich verändern und die Veränderung mit zusätzlichen Gefährdungen verbunden ist.
 
-
-## § 7 – Ausschuss für Arbeitsstätten
+# § 7 – Ausschuss für Arbeitsstätten
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Arbeitsstätten gebildet, in dem fachkundige Vertreter der Arbeitgeber, der Gewerkschaften, der Länderbehörden, der gesetzlichen Unfallversicherung und weitere fachkundige Personen, insbesondere der Wissenschaft, in angemessener Zahl vertreten sein sollen. Die Gesamtzahl der Mitglieder soll 16 Personen nicht überschreiten. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im Ausschuss für Arbeitsstätten ist ehrenamtlich.
 
@@ -214,8 +203,7 @@ Bei der Wahrnehmung seiner Aufgaben soll der Ausschuss die allgemeinen Grundsät
 
 (6) Die Geschäfte des Ausschusses führt die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin.
 
-
-## § 8 – Übergangsvorschriften
+# § 8 – Übergangsvorschriften
 
 (1) Soweit für Arbeitsstätten,
 
@@ -227,8 +215,7 @@ in dieser Verordnung Anforderungen gestellt werden, die umfangreiche Änderungen
 
 (2) Bestimmungen in den vom Ausschuss für Arbeitsstätten ermittelten und vom Bundesministerium für Arbeit und Soziales im Gemeinsamen Ministerialblatt bekannt gemachten Regeln für Arbeitsstätten, die Anforderungen an den Arbeitsplatz enthalten, gelten unter Berücksichtigung der Begriffsbestimmung des Arbeitsplatzes in § 2 Absatz 2 der Arbeitsstättenverordnung vom 12. August 2004 (BGBl. I S. 2179), die zuletzt durch Artikel 282 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, solange fort, bis sie vom Ausschuss für Arbeitsstätten überprüft und erforderlichenfalls vom Bundesministerium für Arbeit und Soziales im Gemeinsamen Ministerialblatt neu bekannt gemacht worden sind.
 
-
-## § 9 – Straftaten und Ordnungswidrigkeiten
+# § 9 – Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -240,11 +227,9 @@ in dieser Verordnung Anforderungen gestellt werden, die umfangreiche Änderungen
 
 4. entgegen § 3a Absatz 1 Satz 2 in Verbindung mit Nummer 4.2 Absatz 1 des Anhangs einen dort genannten Pausenraum oder einen dort genannten Pausenbereich nicht oder nicht in der vorgeschriebenen Weise zur Verfügung stellt,
 
-4a.  
-entgegen § 3a Absatz 1 Satz 2 in Verbindung mit Nummer 4.4 Absatz 1 Satz 1 des Anhangs eine Unterkunft in den Fällen der Nummer 4.4 Absatz 1 Satz 3 des Anhangs nicht oder nicht rechtzeitig zur Verfügung stellt,
+4a. entgegen § 3a Absatz 1 Satz 2 in Verbindung mit Nummer 4.4 Absatz 1 Satz 1 des Anhangs eine Unterkunft in den Fällen der Nummer 4.4 Absatz 1 Satz 3 des Anhangs nicht oder nicht rechtzeitig zur Verfügung stellt,
 
-4b.  
-entgegen § 3a Absatz 1 Satz 2 in Verbindung mit Nummer 4.4 Absatz 4 Satz 1 des Anhangs eine Unterbringung in einer Gemeinschaftsunterkunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
+4b. entgegen § 3a Absatz 1 Satz 2 in Verbindung mit Nummer 4.4 Absatz 4 Satz 1 des Anhangs eine Unterbringung in einer Gemeinschaftsunterkunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
 
 5. entgegen § 3a Absatz 2 eine Arbeitsstätte nicht in der dort vorgeschriebenen Weise einrichtet oder betreibt,
 
@@ -258,8 +243,7 @@ entgegen § 3a Absatz 1 Satz 2 in Verbindung mit Nummer 4.4 Absatz 4 Satz 1 des 
 
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit von Beschäftigten gefährdet, ist nach § 26 Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
-
-## Anhang – Anforderungen und Maßnahmen für Arbeitsstätten nach § 3 Absatz 1Inhaltsübersicht
+# Anhang – Anforderungen und Maßnahmen für Arbeitsstätten nach § 3 Absatz 1Inhaltsübersicht
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2182 - 2188;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -322,17 +306,13 @@ Gebäude für Arbeitsstätten müssen eine der Nutzungsart entsprechende Konstru
 1.2  
 Abmessungen von Räumen, Luftraum
 
-(1) Arbeitsräume, Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unterkünfte müssen eine ausreichende Grundfläche und eine, in Abhängigkeit von der Größe der Grundfläche der Räume, ausreichende lichte Höhe aufweisen, so dass die Beschäftigten ohne Beeinträchtigung ihrer Sicherheit, ihrer Gesundheit oder ihres Wohlbefindens die Räume nutzen oder ihre Arbeit verrichten können.  
-(2) Die Abmessungen der Räume richten sich nach der Art ihrer Nutzung.  
-(3) Die Größe des notwendigen Luftraumes ist in Abhängigkeit von der Art der physischen Belastung und der Anzahl der Beschäftigten sowie der sonstigen anwesenden Personen zu bemessen.
+(1) Arbeitsräume, Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unterkünfte müssen eine ausreichende Grundfläche und eine, in Abhängigkeit von der Größe der Grundfläche der Räume, ausreichende lichte Höhe aufweisen, so dass die Beschäftigten ohne Beeinträchtigung ihrer Sicherheit, ihrer Gesundheit oder ihres Wohlbefindens die Räume nutzen oder ihre Arbeit verrichten können. (2) Die Abmessungen der Räume richten sich nach der Art ihrer Nutzung. (3) Die Größe des notwendigen Luftraumes ist in Abhängigkeit von der Art der physischen Belastung und der Anzahl der Beschäftigten sowie der sonstigen anwesenden Personen zu bemessen.
 
   
 1.3  
 Sicherheits- und Gesundheitsschutzkennzeichnung
 
-(1) Unberührt von den nachfolgenden Anforderungen sind Sicherheits- und Gesundheitsschutzkennzeichnungen einzusetzen, wenn Gefährdungen der Sicherheit und Gesundheit der Beschäftigten nicht durch technische oder organisatorische Maßnahmen vermieden oder ausreichend begrenzt werden können. Das Ergebnis der Gefährdungsbeurteilung und die Maßnahmen nach § 3 Absatz 1 sind dabei zu berücksichtigen.  
-(2) Die Kennzeichnung ist nach der Art der Gefährdung dauerhaft oder vorübergehend nach den Vorgaben der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (Neunte Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. EG Nr. L 245 S. 23) auszuführen. Diese Richtlinie gilt in der jeweils aktuellen Fassung. Wird diese Richtlinie geändert oder nach den in dieser Richtlinie vorgesehenen Verfahren an den technischen Fortschritt angepasst, gilt sie in der geänderten im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassung nach Ablauf der in der Änderungs- oder Anpassungsrichtlinie festgelegten Umsetzungsfrist. Die geänderte Fassung kann bereits ab Inkrafttreten der Änderungs- oder Anpassungsrichtlinie angewendet werden.  
-(3) (weggefallen)
+(1) Unberührt von den nachfolgenden Anforderungen sind Sicherheits- und Gesundheitsschutzkennzeichnungen einzusetzen, wenn Gefährdungen der Sicherheit und Gesundheit der Beschäftigten nicht durch technische oder organisatorische Maßnahmen vermieden oder ausreichend begrenzt werden können. Das Ergebnis der Gefährdungsbeurteilung und die Maßnahmen nach § 3 Absatz 1 sind dabei zu berücksichtigen. (2) Die Kennzeichnung ist nach der Art der Gefährdung dauerhaft oder vorübergehend nach den Vorgaben der Richtlinie 92/58/EWG des Rates vom 24. Juni 1992 über Mindestvorschriften für die Sicherheits- und/oder Gesundheitsschutzkennzeichnung am Arbeitsplatz (Neunte Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. EG Nr. L 245 S. 23) auszuführen. Diese Richtlinie gilt in der jeweils aktuellen Fassung. Wird diese Richtlinie geändert oder nach den in dieser Richtlinie vorgesehenen Verfahren an den technischen Fortschritt angepasst, gilt sie in der geänderten im Amtsblatt der Europäischen Gemeinschaften veröffentlichten Fassung nach Ablauf der in der Änderungs- oder Anpassungsrichtlinie festgelegten Umsetzungsfrist. Die geänderte Fassung kann bereits ab Inkrafttreten der Änderungs- oder Anpassungsrichtlinie angewendet werden. (3) (weggefallen)
 
   
 1.4  
@@ -344,29 +324,19 @@ Anlagen, die der Versorgung der Arbeitsstätte mit Energie dienen, müssen so au
 1.5  
 Fußböden, Wände, Decken, Dächer
 
-(1) Die Oberflächen der Fußböden, Wände und Decken der Räume müssen so gestaltet sein, dass sie den Erfordernissen des sicheren Betreibens entsprechen sowie leicht und sicher zu reinigen sind. Arbeitsräume müssen unter Berücksichtigung der Art des Betriebes und der physischen Belastungen eine angemessene Dämmung gegen Wärme und Kälte sowie eine ausreichende Isolierung gegen Feuchtigkeit aufweisen. Auch Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unterkünfte müssen über eine angemessene Dämmung gegen Wärme und Kälte sowie eine ausreichende Isolierung gegen Feuchtigkeit verfügen.  
-(2) Die Fußböden der Räume dürfen keine Unebenheiten, Löcher, Stolperstellen oder gefährlichen Schrägen aufweisen. Sie müssen gegen Verrutschen gesichert, tragfähig, trittsicher und rutschhemmend sein.  
-(3) Durchsichtige oder lichtdurchlässige Wände, insbesondere Ganzglaswände in Arbeitsräumen oder im Bereich von Verkehrswegen, müssen deutlich gekennzeichnet sein. Sie müssen entweder aus bruchsicherem Werkstoff bestehen oder so gegen die Arbeitsplätze in Arbeitsräumen oder die Verkehrswege abgeschirmt sein, dass die Beschäftigten nicht mit den Wänden in Berührung kommen und beim Zersplittern der Wände nicht verletzt werden können.  
-(4) Dächer aus nicht durchtrittsicherem Material dürfen nur betreten werden, wenn Ausrüstungen benutzt werden, die ein sicheres Arbeiten ermöglichen.
+(1) Die Oberflächen der Fußböden, Wände und Decken der Räume müssen so gestaltet sein, dass sie den Erfordernissen des sicheren Betreibens entsprechen sowie leicht und sicher zu reinigen sind. Arbeitsräume müssen unter Berücksichtigung der Art des Betriebes und der physischen Belastungen eine angemessene Dämmung gegen Wärme und Kälte sowie eine ausreichende Isolierung gegen Feuchtigkeit aufweisen. Auch Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unterkünfte müssen über eine angemessene Dämmung gegen Wärme und Kälte sowie eine ausreichende Isolierung gegen Feuchtigkeit verfügen. (2) Die Fußböden der Räume dürfen keine Unebenheiten, Löcher, Stolperstellen oder gefährlichen Schrägen aufweisen. Sie müssen gegen Verrutschen gesichert, tragfähig, trittsicher und rutschhemmend sein. (3) Durchsichtige oder lichtdurchlässige Wände, insbesondere Ganzglaswände in Arbeitsräumen oder im Bereich von Verkehrswegen, müssen deutlich gekennzeichnet sein. Sie müssen entweder aus bruchsicherem Werkstoff bestehen oder so gegen die Arbeitsplätze in Arbeitsräumen oder die Verkehrswege abgeschirmt sein, dass die Beschäftigten nicht mit den Wänden in Berührung kommen und beim Zersplittern der Wände nicht verletzt werden können. (4) Dächer aus nicht durchtrittsicherem Material dürfen nur betreten werden, wenn Ausrüstungen benutzt werden, die ein sicheres Arbeiten ermöglichen.
 
   
 1.6  
 Fenster, Oberlichter
 
-(1) Fenster, Oberlichter und Lüftungsvorrichtungen müssen sich von den Beschäftigten sicher öffnen, schließen, verstellen und arretieren lassen. Sie dürfen nicht so angeordnet sein, dass sie in geöffnetem Zustand eine Gefahr für die Beschäftigten darstellen.  
-(2) Fenster und Oberlichter müssen so ausgewählt oder ausgerüstet und eingebaut sein, dass sie ohne Gefährdung der Ausführenden und anderer Personen gereinigt werden können.
+(1) Fenster, Oberlichter und Lüftungsvorrichtungen müssen sich von den Beschäftigten sicher öffnen, schließen, verstellen und arretieren lassen. Sie dürfen nicht so angeordnet sein, dass sie in geöffnetem Zustand eine Gefahr für die Beschäftigten darstellen. (2) Fenster und Oberlichter müssen so ausgewählt oder ausgerüstet und eingebaut sein, dass sie ohne Gefährdung der Ausführenden und anderer Personen gereinigt werden können.
 
   
 1.7  
 Türen, Tore
 
-(1) Die Lage, Anzahl, Abmessungen und Ausführung insbesondere hinsichtlich der verwendeten Werkstoffe von Türen und Toren müssen sich nach der Art und Nutzung der Räume oder Bereiche richten.  
-(2) Durchsichtige Türen müssen in Augenhöhe gekennzeichnet sein.  
-(3) Pendeltüren und -tore müssen durchsichtig sein oder ein Sichtfenster haben.  
-(4) Bestehen durchsichtige oder lichtdurchlässige Flächen von Türen und Toren nicht aus bruchsicherem Werkstoff und ist zu befürchten, dass sich die Beschäftigten beim Zersplittern verletzen können, sind diese Flächen gegen Eindrücken zu schützen.  
-(5) Schiebetüren und -tore müssen gegen Ausheben und Herausfallen gesichert sein. Türen und Tore, die sich nach oben öffnen, müssen gegen Herabfallen gesichert sein.  
-(6) In unmittelbarer Nähe von Toren, die vorwiegend für den Fahrzeugverkehr bestimmt sind, müssen gut sichtbar gekennzeichnete, stets zugängliche Türen für Fußgänger vorhanden sein. Diese Türen sind nicht erforderlich, wenn der Durchgang durch die Tore für Fußgänger gefahrlos möglich ist.  
-(7) Kraftbetätigte Türen und Tore müssen sicher benutzbar sein. Dazu gehört, dass sie
+(1) Die Lage, Anzahl, Abmessungen und Ausführung insbesondere hinsichtlich der verwendeten Werkstoffe von Türen und Toren müssen sich nach der Art und Nutzung der Räume oder Bereiche richten. (2) Durchsichtige Türen müssen in Augenhöhe gekennzeichnet sein. (3) Pendeltüren und -tore müssen durchsichtig sein oder ein Sichtfenster haben. (4) Bestehen durchsichtige oder lichtdurchlässige Flächen von Türen und Toren nicht aus bruchsicherem Werkstoff und ist zu befürchten, dass sich die Beschäftigten beim Zersplittern verletzen können, sind diese Flächen gegen Eindrücken zu schützen. (5) Schiebetüren und -tore müssen gegen Ausheben und Herausfallen gesichert sein. Türen und Tore, die sich nach oben öffnen, müssen gegen Herabfallen gesichert sein. (6) In unmittelbarer Nähe von Toren, die vorwiegend für den Fahrzeugverkehr bestimmt sind, müssen gut sichtbar gekennzeichnete, stets zugängliche Türen für Fußgänger vorhanden sein. Diese Türen sind nicht erforderlich, wenn der Durchgang durch die Tore für Fußgänger gefahrlos möglich ist. (7) Kraftbetätigte Türen und Tore müssen sicher benutzbar sein. Dazu gehört, dass sie
 
 a) ohne Gefährdung der Beschäftigten bewegt werden oder zum Stillstand kommen können,
 
@@ -380,12 +350,7 @@ c) auch von Hand zu öffnen sind, sofern sie sich bei Stromausfall nicht automat
 1.8  
 Verkehrswege
 
-(1) Verkehrswege, einschließlich Treppen, fest angebrachte Steigleitern und Laderampen müssen so angelegt und bemessen sein, dass sie je nach ihrem Bestimmungszweck leicht und sicher begangen oder befahren werden können und in der Nähe Beschäftigte nicht gefährdet werden.  
-(2) Die Bemessung der Verkehrswege, die dem Personenverkehr, Güterverkehr oder Personen- und Güterverkehr dienen, muss sich nach der Anzahl der möglichen Benutzer und der Art des Betriebes richten.  
-(3) Werden Transportmittel auf Verkehrswegen eingesetzt, muss für Fußgänger ein ausreichender Sicherheitsabstand gewahrt werden.  
-(4) Verkehrswege für Fahrzeuge müssen an Türen und Toren, Durchgängen, Fußgängerwegen und Treppenaustritten in ausreichendem Abstand vorbeiführen.  
-(5) Soweit Nutzung und Einrichtung der Räume es zum Schutz der Beschäftigten erfordern, müssen die Begrenzungen der Verkehrswege gekennzeichnet sein.  
-(6) Besondere Anforderungen gelten für Fluchtwege (Nummer 2.3).
+(1) Verkehrswege, einschließlich Treppen, fest angebrachte Steigleitern und Laderampen müssen so angelegt und bemessen sein, dass sie je nach ihrem Bestimmungszweck leicht und sicher begangen oder befahren werden können und in der Nähe Beschäftigte nicht gefährdet werden. (2) Die Bemessung der Verkehrswege, die dem Personenverkehr, Güterverkehr oder Personen- und Güterverkehr dienen, muss sich nach der Anzahl der möglichen Benutzer und der Art des Betriebes richten. (3) Werden Transportmittel auf Verkehrswegen eingesetzt, muss für Fußgänger ein ausreichender Sicherheitsabstand gewahrt werden. (4) Verkehrswege für Fahrzeuge müssen an Türen und Toren, Durchgängen, Fußgängerwegen und Treppenaustritten in ausreichendem Abstand vorbeiführen. (5) Soweit Nutzung und Einrichtung der Räume es zum Schutz der Beschäftigten erfordern, müssen die Begrenzungen der Verkehrswege gekennzeichnet sein. (6) Besondere Anforderungen gelten für Fluchtwege (Nummer 2.3).
 
   
 1.9  
@@ -397,9 +362,7 @@ Fahrtreppen und Fahrsteige müssen so ausgewählt und installiert sein, dass sie
 1.10  
 Laderampen
 
-(1) Laderampen sind entsprechend den Abmessungen der Transportmittel und der Ladung auszulegen.  
-(2) Sie müssen mindestens einen Abgang haben; lange Laderampen müssen, soweit betriebstechnisch möglich, an jedem Endbereich einen Abgang haben.  
-(3) Sie müssen einfach und sicher benutzbar sein. Dazu gehört, dass sie nach Möglichkeit mit Schutzvorrichtungen gegen Absturz auszurüsten sind; das gilt insbesondere in Bereichen von Laderampen, die keine ständigen Be- und Entladestellen sind.
+(1) Laderampen sind entsprechend den Abmessungen der Transportmittel und der Ladung auszulegen. (2) Sie müssen mindestens einen Abgang haben; lange Laderampen müssen, soweit betriebstechnisch möglich, an jedem Endbereich einen Abgang haben. (3) Sie müssen einfach und sicher benutzbar sein. Dazu gehört, dass sie nach Möglichkeit mit Schutzvorrichtungen gegen Absturz auszurüsten sind; das gilt insbesondere in Bereichen von Laderampen, die keine ständigen Be- und Entladestellen sind.
 
   
 1.11  
@@ -420,9 +383,7 @@ Maßnahmen zum Schutz vor besonderen Gefahren
 2.1  
 Schutz vor Absturz und herabfallenden Gegenständen, Betreten von Gefahrenbereichen
 
-(1) Arbeitsplätze und Verkehrswege, bei denen eine Absturzgefahr für Beschäftigte oder die Gefahr des Herabfallens von Gegenständen besteht, müssen mit Schutzvorrichtungen versehen sein, die verhindern, dass Beschäftigte abstürzen oder durch herabfallende Gegenstände verletzt werden können. Sind aufgrund der Eigenart des Arbeitsplatzes oder der durchzuführenden Arbeiten Schutzvorrichtungen gegen Absturz nicht geeignet, muss der Arbeitgeber die Sicherheit der Beschäftigten durch andere wirksame Maßnahmen gewährleisten. Eine Absturzgefahr besteht bei einer Absturzhöhe von mehr als 1 Meter.  
-(2) Arbeitsplätze und Verkehrswege, die an Gefahrenbereiche grenzen, müssen mit Schutzvorrichtungen versehen sein, die verhindern, dass Beschäftigte in die Gefahrenbereiche gelangen.  
-(3) Die Arbeitsplätze und Verkehrswege nach den Absätzen 1 und 2 müssen gegen unbefugtes Betreten gesichert und gut sichtbar als Gefahrenbereiche gekennzeichnet sein. Zum Schutz derjenigen, die diese Bereiche betreten müssen, sind geeignete Maßnahmen zu treffen.
+(1) Arbeitsplätze und Verkehrswege, bei denen eine Absturzgefahr für Beschäftigte oder die Gefahr des Herabfallens von Gegenständen besteht, müssen mit Schutzvorrichtungen versehen sein, die verhindern, dass Beschäftigte abstürzen oder durch herabfallende Gegenstände verletzt werden können. Sind aufgrund der Eigenart des Arbeitsplatzes oder der durchzuführenden Arbeiten Schutzvorrichtungen gegen Absturz nicht geeignet, muss der Arbeitgeber die Sicherheit der Beschäftigten durch andere wirksame Maßnahmen gewährleisten. Eine Absturzgefahr besteht bei einer Absturzhöhe von mehr als 1 Meter. (2) Arbeitsplätze und Verkehrswege, die an Gefahrenbereiche grenzen, müssen mit Schutzvorrichtungen versehen sein, die verhindern, dass Beschäftigte in die Gefahrenbereiche gelangen. (3) Die Arbeitsplätze und Verkehrswege nach den Absätzen 1 und 2 müssen gegen unbefugtes Betreten gesichert und gut sichtbar als Gefahrenbereiche gekennzeichnet sein. Zum Schutz derjenigen, die diese Bereiche betreten müssen, sind geeignete Maßnahmen zu treffen.
 
   
 2.2  
@@ -436,9 +397,7 @@ b) der Brandgefährdung vorhandener Einrichtungen und Materialien,
 
 c) der größtmöglichen Anzahl anwesender Personen
 
-mit einer ausreichenden Anzahl geeigneter Feuerlöscheinrichtungen und erforderlichenfalls Brandmeldern und Alarmanlagen ausgestattet sein.  
-(2) Nicht selbsttätige Feuerlöscheinrichtungen müssen als solche dauerhaft gekennzeichnet, leicht zu erreichen und zu handhaben sein.  
-(3) Selbsttätig wirkende Feuerlöscheinrichtungen müssen mit Warneinrichtungen ausgerüstet sein, wenn bei ihrem Einsatz Gefahren für die Beschäftigten auftreten können.
+mit einer ausreichenden Anzahl geeigneter Feuerlöscheinrichtungen und erforderlichenfalls Brandmeldern und Alarmanlagen ausgestattet sein. (2) Nicht selbsttätige Feuerlöscheinrichtungen müssen als solche dauerhaft gekennzeichnet, leicht zu erreichen und zu handhaben sein. (3) Selbsttätig wirkende Feuerlöscheinrichtungen müssen mit Warneinrichtungen ausgerüstet sein, wenn bei ihrem Einsatz Gefahren für die Beschäftigten auftreten können.
 
   
 2.3  
@@ -452,8 +411,7 @@ b) auf möglichst kurzem Weg ins Freie oder, falls dies nicht möglich ist, in e
 
 c) in angemessener Form und dauerhaft gekennzeichnet sein.
 
-Sie sind mit einer Sicherheitsbeleuchtung auszurüsten, wenn das gefahrlose Verlassen der Arbeitsstätte für die Beschäftigten, insbesondere bei Ausfall der allgemeinen Beleuchtung, nicht gewährleistet ist.  
-(2) Türen im Verlauf von Fluchtwegen oder Türen von Notausgängen müssen
+Sie sind mit einer Sicherheitsbeleuchtung auszurüsten, wenn das gefahrlose Verlassen der Arbeitsstätte für die Beschäftigten, insbesondere bei Ausfall der allgemeinen Beleuchtung, nicht gewährleistet ist. (2) Türen im Verlauf von Fluchtwegen oder Türen von Notausgängen müssen
 
 a) sich von innen ohne besondere Hilfsmittel jederzeit leicht öffnen lassen, solange sich Beschäftigte in der Arbeitsstätte befinden,
 
@@ -468,8 +426,7 @@ Arbeitsbedingungen
 3.1  
 Bewegungsfläche
 
-(1) Die freie unverstellte Fläche am Arbeitsplatz muss so bemessen sein, dass sich die Beschäftigten bei ihrer Tätigkeit ungehindert bewegen können.  
-(2) Ist dies nicht möglich, muss den Beschäftigten in der Nähe des Arbeitsplatzes eine andere ausreichend große Bewegungsfläche zur Verfügung stehen.
+(1) Die freie unverstellte Fläche am Arbeitsplatz muss so bemessen sein, dass sich die Beschäftigten bei ihrer Tätigkeit ungehindert bewegen können. (2) Ist dies nicht möglich, muss den Beschäftigten in der Nähe des Arbeitsplatzes eine andere ausreichend große Bewegungsfläche zur Verfügung stehen.
 
   
 3.2  
@@ -486,15 +443,13 @@ c) durch benachbarte Arbeitsplätze, Transporte oder Einwirkungen von außerhalb
 3.3  
 Ausstattung
 
-(1) Jedem Beschäftigten muss mindestens eine Kleiderablage zur Verfügung stehen, sofern keine Umkleideräume vorhanden sind.  
-(2) Kann die Arbeit ganz oder teilweise sitzend verrichtet werden oder lässt es der Arbeitsablauf zu, sich zeitweise zu setzen, sind den Beschäftigten am Arbeitsplatz Sitzgelegenheiten zur Verfügung zu stellen. Können aus betriebstechnischen Gründen keine Sitzgelegenheiten unmittelbar am Arbeitsplatz aufgestellt werden, obwohl es der Arbeitsablauf zulässt, sich zeitweise zu setzen, müssen den Beschäftigten in der Nähe der Arbeitsplätze Sitzgelegenheiten bereitgestellt werden.
+(1) Jedem Beschäftigten muss mindestens eine Kleiderablage zur Verfügung stehen, sofern keine Umkleideräume vorhanden sind. (2) Kann die Arbeit ganz oder teilweise sitzend verrichtet werden oder lässt es der Arbeitsablauf zu, sich zeitweise zu setzen, sind den Beschäftigten am Arbeitsplatz Sitzgelegenheiten zur Verfügung zu stellen. Können aus betriebstechnischen Gründen keine Sitzgelegenheiten unmittelbar am Arbeitsplatz aufgestellt werden, obwohl es der Arbeitsablauf zulässt, sich zeitweise zu setzen, müssen den Beschäftigten in der Nähe der Arbeitsplätze Sitzgelegenheiten bereitgestellt werden.
 
   
 3.4  
 Beleuchtung und Sichtverbindung
 
-(1) Der Arbeitgeber darf als Arbeitsräume nur solche Räume betreiben, die möglichst ausreichend Tageslicht erhalten und die eine Sichtverbindung nach außen haben.  
-Dies gilt nicht für
+(1) Der Arbeitgeber darf als Arbeitsräume nur solche Räume betreiben, die möglichst ausreichend Tageslicht erhalten und die eine Sichtverbindung nach außen haben. Dies gilt nicht für
 
 1. Räume, bei denen betriebs-, produktions- oder bautechnische Gründe Tageslicht oder einer Sichtverbindung nach außen entgegenstehen,
 
@@ -507,29 +462,19 @@ Dies gilt nicht für
 5. Räume mit einer Grundfläche von mindestens 2000 Quadratmetern, sofern Oberlichter oder andere bauliche Vorrichtungen vorhanden sind, die Tageslicht in den Arbeitsraum lenken.
 
   
-(2) Pausen- und Bereitschaftsräume sowie Unterkünfte müssen möglichst ausreichend mit Tageslicht beleuchtet sein und eine Sichtverbindung nach außen haben. Kantinen sollen möglichst ausreichend Tageslicht erhalten und eine Sichtverbindung nach außen haben.  
-(3) Räume, die bis zum 3. Dezember 2016 eingerichtet worden sind oder mit deren Einrichtung begonnen worden war und die die Anforderungen nach Absatz 1 Satz 1 oder Absatz 2 nicht erfüllen, dürfen ohne eine Sichtverbindung nach außen weiter betrieben werden, bis sie wesentlich erweitert oder umgebaut werden.  
-(4) In Arbeitsräumen muss die Stärke des Tageslichteinfalls am Arbeitsplatz je nach Art der Tätigkeit reguliert werden können.  
-(5) Arbeitsstätten müssen mit Einrichtungen ausgestattet sein, die eine angemessene künstliche Beleuchtung ermöglichen, so dass die Sicherheit und der Schutz der Gesundheit der Beschäftigten gewährleistet sind.  
-(6) Die Beleuchtungsanlagen sind so auszuwählen und anzuordnen, dass dadurch die Sicherheit und die Gesundheit der Beschäftigten nicht gefährdet werden.  
-(7) Arbeitsstätten, in denen bei Ausfall der Allgemeinbeleuchtung die Sicherheit der Beschäftigten gefährdet werden kann, müssen eine ausreichende Sicherheitsbeleuchtung haben.
+(2) Pausen- und Bereitschaftsräume sowie Unterkünfte müssen möglichst ausreichend mit Tageslicht beleuchtet sein und eine Sichtverbindung nach außen haben. Kantinen sollen möglichst ausreichend Tageslicht erhalten und eine Sichtverbindung nach außen haben. (3) Räume, die bis zum 3. Dezember 2016 eingerichtet worden sind oder mit deren Einrichtung begonnen worden war und die die Anforderungen nach Absatz 1 Satz 1 oder Absatz 2 nicht erfüllen, dürfen ohne eine Sichtverbindung nach außen weiter betrieben werden, bis sie wesentlich erweitert oder umgebaut werden. (4) In Arbeitsräumen muss die Stärke des Tageslichteinfalls am Arbeitsplatz je nach Art der Tätigkeit reguliert werden können. (5) Arbeitsstätten müssen mit Einrichtungen ausgestattet sein, die eine angemessene künstliche Beleuchtung ermöglichen, so dass die Sicherheit und der Schutz der Gesundheit der Beschäftigten gewährleistet sind. (6) Die Beleuchtungsanlagen sind so auszuwählen und anzuordnen, dass dadurch die Sicherheit und die Gesundheit der Beschäftigten nicht gefährdet werden. (7) Arbeitsstätten, in denen bei Ausfall der Allgemeinbeleuchtung die Sicherheit der Beschäftigten gefährdet werden kann, müssen eine ausreichende Sicherheitsbeleuchtung haben.
 
   
 3.5  
 Raumtemperatur
 
-(1) Arbeitsräume, in denen aus betriebstechnischer Sicht keine spezifischen Anforderungen an die Raumtemperatur gestellt werden, müssen während der Nutzungsdauer unter Berücksichtigung der Arbeitsverfahren und der physischen Belastungen der Beschäftigten eine gesundheitlich zuträgliche Raumtemperatur haben.  
-(2) Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unterkünfte müssen während der Nutzungsdauer unter Berücksichtigung des spezifischen Nutzungszwecks eine gesundheitlich zuträgliche Raumtemperatur haben.  
-(3) Fenster, Oberlichter und Glaswände müssen unter Berücksichtigung der Arbeitsverfahren und der Art der Arbeitsstätte eine Abschirmung gegen übermäßige Sonneneinstrahlung ermöglichen.
+(1) Arbeitsräume, in denen aus betriebstechnischer Sicht keine spezifischen Anforderungen an die Raumtemperatur gestellt werden, müssen während der Nutzungsdauer unter Berücksichtigung der Arbeitsverfahren und der physischen Belastungen der Beschäftigten eine gesundheitlich zuträgliche Raumtemperatur haben. (2) Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unterkünfte müssen während der Nutzungsdauer unter Berücksichtigung des spezifischen Nutzungszwecks eine gesundheitlich zuträgliche Raumtemperatur haben. (3) Fenster, Oberlichter und Glaswände müssen unter Berücksichtigung der Arbeitsverfahren und der Art der Arbeitsstätte eine Abschirmung gegen übermäßige Sonneneinstrahlung ermöglichen.
 
   
 3.6  
 Lüftung
 
-(1) In Arbeitsräumen, Sanitär-, Pausen- und Bereitschaftsräumen, Kantinen, Erste-Hilfe-Räumen und Unterkünften muss unter Berücksichtigung des spezifischen Nutzungszwecks, der Arbeitsverfahren, der physischen Belastungen und der Anzahl der Beschäftigten sowie der sonstigen anwesenden Personen während der Nutzungsdauer ausreichend gesundheitlich zuträgliche Atemluft vorhanden sein.  
-(2) Ist für das Betreiben von Arbeitsstätten eine raumlufttechnische Anlage erforderlich, muss diese jederzeit funktionsfähig sein und die Anforderungen nach Absatz 1 erfüllen. Bei raumlufttechnischen Anlagen muss eine Störung durch eine selbsttätige Warneinrichtung angezeigt werden. Es müssen Vorkehrungen getroffen sein, durch die die Beschäftigten im Fall einer Störung gegen Gesundheitsgefahren geschützt sind.  
-(3) Werden raumlufttechnische Anlagen verwendet, ist sicherzustellen, dass die Beschäftigten keinem störenden Luftzug ausgesetzt sind.  
-(4) Ablagerungen und Verunreinigungen in raumlufttechnischen Anlagen, die zu einer unmittelbaren Gesundheitsgefährdung durch die Raumluft führen können, müssen umgehend beseitigt werden.
+(1) In Arbeitsräumen, Sanitär-, Pausen- und Bereitschaftsräumen, Kantinen, Erste-Hilfe-Räumen und Unterkünften muss unter Berücksichtigung des spezifischen Nutzungszwecks, der Arbeitsverfahren, der physischen Belastungen und der Anzahl der Beschäftigten sowie der sonstigen anwesenden Personen während der Nutzungsdauer ausreichend gesundheitlich zuträgliche Atemluft vorhanden sein. (2) Ist für das Betreiben von Arbeitsstätten eine raumlufttechnische Anlage erforderlich, muss diese jederzeit funktionsfähig sein und die Anforderungen nach Absatz 1 erfüllen. Bei raumlufttechnischen Anlagen muss eine Störung durch eine selbsttätige Warneinrichtung angezeigt werden. Es müssen Vorkehrungen getroffen sein, durch die die Beschäftigten im Fall einer Störung gegen Gesundheitsgefahren geschützt sind. (3) Werden raumlufttechnische Anlagen verwendet, ist sicherzustellen, dass die Beschäftigten keinem störenden Luftzug ausgesetzt sind. (4) Ablagerungen und Verunreinigungen in raumlufttechnischen Anlagen, die zu einer unmittelbaren Gesundheitsgefährdung durch die Raumluft führen können, müssen umgehend beseitigt werden.
 
   
 3.7  
@@ -544,8 +489,7 @@ Sanitär-, Pausen- und Bereitschaftsräume, Kantinen, Erste-Hilfe-Räume und Unt
 4.1  
 Sanitärräume
 
-(1) Der Arbeitgeber hat Toilettenräume zur Verfügung zu stellen. Toilettenräume sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen. Toilettenräume sind mit verschließbaren Zugängen, einer ausreichenden Anzahl von Toilettenbecken und Handwaschgelegenheiten zur Verfügung zu stellen. Sie müssen sich sowohl in der Nähe der Arbeitsräume als auch in der Nähe von Kantinen, Pausen- und Bereitschaftsräumen, Wasch- und Umkleideräumen befinden. Bei Arbeiten im Freien und auf Baustellen mit wenigen Beschäftigten sind mobile, anschlussfreie Toilettenkabinen in der Nähe der Arbeitsplätze ausreichend.  
-(2) Der Arbeitgeber hat – wenn es die Art der Tätigkeit oder gesundheitliche Gründe erfordern – Waschräume zur Verfügung zu stellen. Diese sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen. Bei Arbeiten im Freien und auf Baustellen mit wenigen Beschäftigten sind Waschgelegenheiten ausreichend. Waschräume sind
+(1) Der Arbeitgeber hat Toilettenräume zur Verfügung zu stellen. Toilettenräume sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen. Toilettenräume sind mit verschließbaren Zugängen, einer ausreichenden Anzahl von Toilettenbecken und Handwaschgelegenheiten zur Verfügung zu stellen. Sie müssen sich sowohl in der Nähe der Arbeitsräume als auch in der Nähe von Kantinen, Pausen- und Bereitschaftsräumen, Wasch- und Umkleideräumen befinden. Bei Arbeiten im Freien und auf Baustellen mit wenigen Beschäftigten sind mobile, anschlussfreie Toilettenkabinen in der Nähe der Arbeitsplätze ausreichend. (2) Der Arbeitgeber hat – wenn es die Art der Tätigkeit oder gesundheitliche Gründe erfordern – Waschräume zur Verfügung zu stellen. Diese sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen. Bei Arbeiten im Freien und auf Baustellen mit wenigen Beschäftigten sind Waschgelegenheiten ausreichend. Waschräume sind
 
 a) in der Nähe von Arbeitsräumen und sichtgeschützt einzurichten,
 
@@ -553,22 +497,19 @@ b) so zu bemessen, dass die Beschäftigten sich den hygienischen Erfordernissen 
 
 c) mit einer ausreichenden Anzahl geeigneter Duschen zur Verfügung zu stellen, wenn es die Art der Tätigkeit oder gesundheitliche Gründe erfordern.
 
-Sind Waschräume nicht erforderlich, müssen in der Nähe des Arbeitsplatzes und der Umkleideräume ausreichende und angemessene Waschgelegenheiten mit fließendem Wasser (erforderlichenfalls mit warmem Wasser), Mitteln zum Reinigen und zum Abtrocknen der Hände zur Verfügung stehen.  
-(3) Der Arbeitgeber hat geeignete Umkleideräume zur Verfügung zu stellen, wenn die Beschäftigten bei ihrer Tätigkeit besondere Arbeitskleidung tragen müssen und es ihnen nicht zuzumuten ist, sich in einem anderen Raum umzukleiden. Umkleideräume sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen. Umkleideräume müssen
+Sind Waschräume nicht erforderlich, müssen in der Nähe des Arbeitsplatzes und der Umkleideräume ausreichende und angemessene Waschgelegenheiten mit fließendem Wasser (erforderlichenfalls mit warmem Wasser), Mitteln zum Reinigen und zum Abtrocknen der Hände zur Verfügung stehen. (3) Der Arbeitgeber hat geeignete Umkleideräume zur Verfügung zu stellen, wenn die Beschäftigten bei ihrer Tätigkeit besondere Arbeitskleidung tragen müssen und es ihnen nicht zuzumuten ist, sich in einem anderen Raum umzukleiden. Umkleideräume sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen. Umkleideräume müssen
 
 a) leicht zugänglich und von ausreichender Größe und sichtgeschützt eingerichtet werden; entsprechend der Anzahl gleichzeitiger Benutzer muss genügend freie Bodenfläche für ungehindertes Umkleiden vorhanden sein,
 
 b) mit Sitzgelegenheiten sowie mit verschließbaren Einrichtungen ausgestattet sein, in denen jeder Beschäftigte seine Kleidung aufbewahren kann.
 
-Kleiderschränke für Arbeitskleidung und Schutzkleidung sind von Kleiderschränken für persönliche Kleidung und Gegenstände zu trennen, wenn die Umstände dies erfordern.  
-(4) Wasch- und Umkleideräume, die voneinander räumlich getrennt sind, müssen untereinander leicht erreichbar sein.
+Kleiderschränke für Arbeitskleidung und Schutzkleidung sind von Kleiderschränken für persönliche Kleidung und Gegenstände zu trennen, wenn die Umstände dies erfordern. (4) Wasch- und Umkleideräume, die voneinander räumlich getrennt sind, müssen untereinander leicht erreichbar sein.
 
   
 4.2  
 Pausen- und Bereitschaftsräume
 
-(1) Bei mehr als zehn Beschäftigten oder wenn die Sicherheit und der Schutz der Gesundheit es erfordern, ist den Beschäftigten ein Pausenraum oder ein entsprechender Pausenbereich zur Verfügung zu stellen. Dies gilt nicht, wenn die Beschäftigten in Büroräumen oder vergleichbaren Arbeitsräumen beschäftigt sind und dort gleichwertige Voraussetzungen für eine Erholung während der Pause gegeben sind. Fallen in die Arbeitszeit regelmäßig und häufig Arbeitsbereitschaftszeiten oder Arbeitsunterbrechungen und sind keine Pausenräume vorhanden, so sind für die Beschäftigten Räume für Bereitschaftszeiten einzurichten. Schwangere Frauen und stillende Mütter müssen sich während der Pausen und, soweit es erforderlich ist, auch während der Arbeitszeit unter geeigneten Bedingungen hinlegen und ausruhen können.  
-(2) Pausenräume oder entsprechende Pausenbereiche sind
+(1) Bei mehr als zehn Beschäftigten oder wenn die Sicherheit und der Schutz der Gesundheit es erfordern, ist den Beschäftigten ein Pausenraum oder ein entsprechender Pausenbereich zur Verfügung zu stellen. Dies gilt nicht, wenn die Beschäftigten in Büroräumen oder vergleichbaren Arbeitsräumen beschäftigt sind und dort gleichwertige Voraussetzungen für eine Erholung während der Pause gegeben sind. Fallen in die Arbeitszeit regelmäßig und häufig Arbeitsbereitschaftszeiten oder Arbeitsunterbrechungen und sind keine Pausenräume vorhanden, so sind für die Beschäftigten Räume für Bereitschaftszeiten einzurichten. Schwangere Frauen und stillende Mütter müssen sich während der Pausen und, soweit es erforderlich ist, auch während der Arbeitszeit unter geeigneten Bedingungen hinlegen und ausruhen können. (2) Pausenräume oder entsprechende Pausenbereiche sind
 
 a) für die Beschäftigten leicht erreichbar an ungefährdeter Stelle und in ausreichender Größe bereitzustellen,
 
@@ -582,17 +523,13 @@ c) als separate Räume zu gestalten, wenn die Beurteilung der Arbeitsbedingungen
 4.3  
 Erste-Hilfe-Räume
 
-(1) Erste-Hilfe-Räume oder vergleichbare Bereiche sind entsprechend der Art der Gefährdungen in der Arbeitsstätte oder der Anzahl der Beschäftigten, der Art der auszuübenden Tätigkeiten sowie der räumlichen Größe der Betriebe zur Verfügung zu stellen.  
-(2) Erste-Hilfe-Räume müssen an ihren Zugängen als solche gekennzeichnet und für Personen mit Rettungstransportmitteln leicht zugänglich sein.  
-(3) Sie sind mit den erforderlichen Mitteln und Einrichtungen zur Ersten Hilfe auszustatten. An einer deutlich gekennzeichneten Stelle müssen Anschrift und Telefonnummer der örtlichen Rettungsdienste angegeben sein.  
-(4) Darüber hinaus sind überall dort, wo es die Arbeitsbedingungen erfordern, Mittel und Einrichtungen zur Ersten Hilfe aufzubewahren. Sie müssen leicht zugänglich und einsatzbereit sein. Die Aufbewahrungsstellen müssen als solche gekennzeichnet und gut erreichbar sein.
+(1) Erste-Hilfe-Räume oder vergleichbare Bereiche sind entsprechend der Art der Gefährdungen in der Arbeitsstätte oder der Anzahl der Beschäftigten, der Art der auszuübenden Tätigkeiten sowie der räumlichen Größe der Betriebe zur Verfügung zu stellen. (2) Erste-Hilfe-Räume müssen an ihren Zugängen als solche gekennzeichnet und für Personen mit Rettungstransportmitteln leicht zugänglich sein. (3) Sie sind mit den erforderlichen Mitteln und Einrichtungen zur Ersten Hilfe auszustatten. An einer deutlich gekennzeichneten Stelle müssen Anschrift und Telefonnummer der örtlichen Rettungsdienste angegeben sein. (4) Darüber hinaus sind überall dort, wo es die Arbeitsbedingungen erfordern, Mittel und Einrichtungen zur Ersten Hilfe aufzubewahren. Sie müssen leicht zugänglich und einsatzbereit sein. Die Aufbewahrungsstellen müssen als solche gekennzeichnet und gut erreichbar sein.
 
   
 4.4  
 Unterkünfte
 
-(1) Der Arbeitgeber hat angemessene Unterkünfte für Beschäftigte zur Verfügung zu stellen, gegebenenfalls auch außerhalb des Geländes eines Betriebes oder einer Baustelle, wenn es aus Gründen der Sicherheit, zum Schutz der Gesundheit oder aus Gründen der menschengerechten Gestaltung der Arbeit erforderlich ist. Die Bereitstellung angemessener Unterkünfte kann insbesondere wegen der Abgelegenheit der Arbeitsstätte, der Art der auszuübenden Tätigkeiten oder der Anzahl der im Betrieb beschäftigten Personen erforderlich sein. Sie ist stets erforderlich, wenn den Beschäftigten im Zusammenhang mit der Anwerbung oder Entsendung zur zeitlich befristeten Erbringung einer vertraglich geschuldeten Arbeitsleistung die Bereitstellung oder Vermittlung einer Unterbringung in Gemeinschaftsunterkünften in Aussicht gestellt wird und zu erwarten ist, dass der Beschäftigte die Verpflichtung zur Erbringung seiner Arbeitsleistung anderenfalls nicht eingehen würde. Kann der Arbeitgeber erforderliche Unterkünfte innerhalb des Geländes eines Betriebes oder einer Baustelle nicht zur Verfügung stellen, hat er für eine andere angemessene Unterbringung der Beschäftigten außerhalb des Geländes eines Betriebes oder einer Baustelle zu sorgen. Wird die Unterkunft als Gemeinschaftsunterkunft außerhalb des Geländes eines Betriebes oder einer Baustelle durch den Arbeitgeber oder auf dessen Veranlassung durch Dritte zur Verfügung gestellt, so hat der Arbeitgeber auch in diesem Fall für die Angemessenheit der Unterkunft zu sorgen.  
-(2) Unterkünfte müssen entsprechend ihrer Belegungszahl und der Dauer der Unterbringung ausgestattet sein mit:
+(1) Der Arbeitgeber hat angemessene Unterkünfte für Beschäftigte zur Verfügung zu stellen, gegebenenfalls auch außerhalb des Geländes eines Betriebes oder einer Baustelle, wenn es aus Gründen der Sicherheit, zum Schutz der Gesundheit oder aus Gründen der menschengerechten Gestaltung der Arbeit erforderlich ist. Die Bereitstellung angemessener Unterkünfte kann insbesondere wegen der Abgelegenheit der Arbeitsstätte, der Art der auszuübenden Tätigkeiten oder der Anzahl der im Betrieb beschäftigten Personen erforderlich sein. Sie ist stets erforderlich, wenn den Beschäftigten im Zusammenhang mit der Anwerbung oder Entsendung zur zeitlich befristeten Erbringung einer vertraglich geschuldeten Arbeitsleistung die Bereitstellung oder Vermittlung einer Unterbringung in Gemeinschaftsunterkünften in Aussicht gestellt wird und zu erwarten ist, dass der Beschäftigte die Verpflichtung zur Erbringung seiner Arbeitsleistung anderenfalls nicht eingehen würde. Kann der Arbeitgeber erforderliche Unterkünfte innerhalb des Geländes eines Betriebes oder einer Baustelle nicht zur Verfügung stellen, hat er für eine andere angemessene Unterbringung der Beschäftigten außerhalb des Geländes eines Betriebes oder einer Baustelle zu sorgen. Wird die Unterkunft als Gemeinschaftsunterkunft außerhalb des Geländes eines Betriebes oder einer Baustelle durch den Arbeitgeber oder auf dessen Veranlassung durch Dritte zur Verfügung gestellt, so hat der Arbeitgeber auch in diesem Fall für die Angemessenheit der Unterkunft zu sorgen. (2) Unterkünfte müssen entsprechend ihrer Belegungszahl und der Dauer der Unterbringung ausgestattet sein mit:
 
 1. Wohn- und Schlafbereich (Betten, Schränken, Tischen, Stühlen),
 
@@ -600,8 +537,7 @@ Unterkünfte
 
 3. Sanitäreinrichtungen.
 
-(3) Wird die Unterkunft von Männern und Frauen gemeinsam genutzt, ist dies bei der Zuteilung der Räume zu berücksichtigen.  
-(4) Der Arbeitgeber hat die Unterbringung von Beschäftigten in Gemeinschaftsunterkünften innerhalb oder außerhalb des Geländes eines Betriebes oder einer Baustelle nach den Sätzen 2 und 3 zu dokumentieren. In der Dokumentation sind anzugeben:
+(3) Wird die Unterkunft von Männern und Frauen gemeinsam genutzt, ist dies bei der Zuteilung der Räume zu berücksichtigen. (4) Der Arbeitgeber hat die Unterbringung von Beschäftigten in Gemeinschaftsunterkünften innerhalb oder außerhalb des Geländes eines Betriebes oder einer Baustelle nach den Sätzen 2 und 3 zu dokumentieren. In der Dokumentation sind anzugeben:
 
 1. die Adressen der Gemeinschaftsunterkünfte,
 
@@ -620,8 +556,7 @@ Ergänzende Anforderungen und Maßnahmen für besondere Arbeitsstätten und Arbe
 5.1  
 Arbeitsplätze in nicht allseits umschlossenen Arbeitsstätten und Arbeitsplätze im Freien
 
-Arbeitsplätze in nicht allseits umschlossenen Arbeitsstätten und Arbeitsplätze im Freien sind so einzurichten und zu betreiben, dass sie von den Beschäftigten bei jeder Witterung sicher und ohne Gesundheitsgefährdung erreicht, benutzt und wieder verlassen werden können. Dazu gehört, dass diese Arbeitsplätze gegen Witterungseinflüsse geschützt sind oder den Beschäftigten geeignete persönliche Schutzausrüstungen zur Verfügung gestellt werden.  
-Werden die Beschäftigten auf Arbeitsplätzen im Freien beschäftigt, so sind die Arbeitsplätze nach Möglichkeit so einzurichten, dass die Beschäftigten nicht gesundheitsgefährdenden äußeren Einwirkungen ausgesetzt sind.
+Arbeitsplätze in nicht allseits umschlossenen Arbeitsstätten und Arbeitsplätze im Freien sind so einzurichten und zu betreiben, dass sie von den Beschäftigten bei jeder Witterung sicher und ohne Gesundheitsgefährdung erreicht, benutzt und wieder verlassen werden können. Dazu gehört, dass diese Arbeitsplätze gegen Witterungseinflüsse geschützt sind oder den Beschäftigten geeignete persönliche Schutzausrüstungen zur Verfügung gestellt werden. Werden die Beschäftigten auf Arbeitsplätzen im Freien beschäftigt, so sind die Arbeitsplätze nach Möglichkeit so einzurichten, dass die Beschäftigten nicht gesundheitsgefährdenden äußeren Einwirkungen ausgesetzt sind.
 
   
 5.2  
@@ -657,10 +592,7 @@ b) Verkehrswegen über Wasser oder anderen festen oder flüssigen Stoffen, in de
 
 3. bei mehr als 2 Meter Absturzhöhe an allen übrigen Arbeitsplätzen.
 
-Bei einer Absturzhöhe bis zu 3 Metern ist eine Schutzvorrichtung entbehrlich an Arbeitsplätzen und Verkehrswegen auf Dächern und Geschossdecken von baulichen Anlagen mit bis zu 22,5 Grad Neigung und nicht mehr als 50 Quadratmeter Grundfläche, sofern die Arbeiten von hierfür fachlich qualifizierten und körperlich geeigneten Beschäftigten ausgeführt werden und diese Beschäftigten besonders unterwiesen sind. Die Absturzkante muss für die Beschäftigten deutlich erkennbar sein.  
-(3) Räumliche Begrenzungen der Arbeitsplätze, Materialien, Ausrüstungen und ganz allgemein alle Elemente, die durch Ortsveränderung die Sicherheit und die Gesundheit der Beschäftigten beeinträchtigen können, müssen auf geeignete Weise stabilisiert werden. Hierzu zählen auch Maßnahmen, die verhindern, dass Fahrzeuge, Erdbaumaschinen und Förderzeuge abstürzen, umstürzen, abrutschen oder einbrechen.  
-(4) Werden Beförderungsmittel auf Verkehrswegen verwendet, so müssen für andere, den Verkehrsweg nutzende Personen ein ausreichender Sicherheitsabstand oder geeignete Schutzvorrichtungen vorgesehen werden. Die Wege müssen regelmäßig überprüft und gewartet werden.  
-(5) Bei Arbeiten, aus denen sich im besonderen Maße Gefährdungen für die Beschäftigten ergeben können, müssen geeignete Sicherheitsvorkehrungen getroffen werden. Dies gilt insbesondere für Abbrucharbeiten sowie Montage- oder Demontagearbeiten. Zur Erfüllung der Schutzmaßnahmen des Satzes 1 sind
+Bei einer Absturzhöhe bis zu 3 Metern ist eine Schutzvorrichtung entbehrlich an Arbeitsplätzen und Verkehrswegen auf Dächern und Geschossdecken von baulichen Anlagen mit bis zu 22,5 Grad Neigung und nicht mehr als 50 Quadratmeter Grundfläche, sofern die Arbeiten von hierfür fachlich qualifizierten und körperlich geeigneten Beschäftigten ausgeführt werden und diese Beschäftigten besonders unterwiesen sind. Die Absturzkante muss für die Beschäftigten deutlich erkennbar sein. (3) Räumliche Begrenzungen der Arbeitsplätze, Materialien, Ausrüstungen und ganz allgemein alle Elemente, die durch Ortsveränderung die Sicherheit und die Gesundheit der Beschäftigten beeinträchtigen können, müssen auf geeignete Weise stabilisiert werden. Hierzu zählen auch Maßnahmen, die verhindern, dass Fahrzeuge, Erdbaumaschinen und Förderzeuge abstürzen, umstürzen, abrutschen oder einbrechen. (4) Werden Beförderungsmittel auf Verkehrswegen verwendet, so müssen für andere, den Verkehrsweg nutzende Personen ein ausreichender Sicherheitsabstand oder geeignete Schutzvorrichtungen vorgesehen werden. Die Wege müssen regelmäßig überprüft und gewartet werden. (5) Bei Arbeiten, aus denen sich im besonderen Maße Gefährdungen für die Beschäftigten ergeben können, müssen geeignete Sicherheitsvorkehrungen getroffen werden. Dies gilt insbesondere für Abbrucharbeiten sowie Montage- oder Demontagearbeiten. Zur Erfüllung der Schutzmaßnahmen des Satzes 1 sind
 
 a) bei Arbeiten an erhöhten oder tiefer gelegenen Standorten Standsicherheit und Stabilität der Arbeitsplätze und ihrer Zugänge auf geeignete Weise zu gewährleisten und zu überprüfen, insbesondere nach einer Veränderung der Höhe oder Tiefe des Arbeitsplatzes,
 
@@ -674,8 +606,7 @@ e) bei Laderampen Absturzsicherungen vorzusehen,
 
 f) bei Arbeiten, bei denen mit Gefährdungen aus dem Verkehr von Land-, Wasser- oder Luftfahrzeugen zu rechnen ist, geeignete Vorkehrungen zu treffen.
 
-Abbrucharbeiten, Montage- oder Demontagearbeiten, insbesondere der Auf- oder Abbau von Stahl- oder Betonkonstruktionen, die Montage oder Demontage von Verbau zur Sicherung von Erd- oder Felswänden oder Senkkästen sind fachkundig zu planen und nur unter fachkundiger Aufsicht sowie nach schriftlicher Abbruch-, Montage- oder Demontageanweisung durchzuführen; die Abbruch-, Montage- oder Demontageanweisung muss die erforderlichen sicherheitstechnischen Angaben enthalten; auf die Schriftform kann verzichtet werden, wenn für die jeweiligen Abbruch-, Montage- oder Demontagearbeiten besondere sicherheitstechnische Angaben nicht erforderlich sind.  
-(6) Vorhandene elektrische Freileitungen müssen nach Möglichkeit außerhalb des Baustellengeländes verlegt oder freigeschaltet werden. Wenn dies nicht möglich ist, sind geeignete Abschrankungen, Abschirmungen oder Hinweise anzubringen, um Fahrzeuge und Einrichtungen von diesen Leitungen fern zu halten.
+Abbrucharbeiten, Montage- oder Demontagearbeiten, insbesondere der Auf- oder Abbau von Stahl- oder Betonkonstruktionen, die Montage oder Demontage von Verbau zur Sicherung von Erd- oder Felswänden oder Senkkästen sind fachkundig zu planen und nur unter fachkundiger Aufsicht sowie nach schriftlicher Abbruch-, Montage- oder Demontageanweisung durchzuführen; die Abbruch-, Montage- oder Demontageanweisung muss die erforderlichen sicherheitstechnischen Angaben enthalten; auf die Schriftform kann verzichtet werden, wenn für die jeweiligen Abbruch-, Montage- oder Demontagearbeiten besondere sicherheitstechnische Angaben nicht erforderlich sind. (6) Vorhandene elektrische Freileitungen müssen nach Möglichkeit außerhalb des Baustellengeländes verlegt oder freigeschaltet werden. Wenn dies nicht möglich ist, sind geeignete Abschrankungen, Abschirmungen oder Hinweise anzubringen, um Fahrzeuge und Einrichtungen von diesen Leitungen fern zu halten.
 
  6  
 Maßnahmen zur Gestaltung von Bildschirmarbeitsplätzen

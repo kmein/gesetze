@@ -1,20 +1,15 @@
-# [EbertStiftG] Gesetz über die Errichtung einer Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte
-
-Ausfertigungsdatum: 19.12.1986
-
+% Gesetz über die Errichtung einer Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte
+% Ausfertigungsdatum: 19.12.1986
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen.
 
-
-## § 1 – Rechtsform der Stiftung
+# § 1 – Rechtsform der Stiftung
 
 Unter dem Namen "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte" wird mit Sitz in Heidelberg eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist es, das Andenken an das Wirken des ersten deutschen Reichspräsidenten Friedrich Ebert zu wahren und einen Beitrag zum Verständnis der deutschen Geschichte seiner Zeit zu leisten.
 
@@ -28,8 +23,7 @@ Unter dem Namen "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte" wird m
 
 4. Veranstaltungen im Sinne des Stiftungszweckes.
 
-
-## § 3 – Stiftungsvermögen
+# § 3 – Stiftungsvermögen
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland für Zwecke der Stiftung erwirbt.
 
@@ -39,13 +33,11 @@ Unter dem Namen "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte" wird m
 
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur im Sinne des Stiftungszweckes zu verwenden.
 
-
-## § 4 – Satzung
+# § 4 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der Genehmigung des Beauftragten der Bundesregierung für Angelegenheiten der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen der Satzung.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -53,8 +45,7 @@ Organe der Stiftung sind
 
 2. der Vorstand.
 
-
-## § 6 – Kuratorium
+# § 6 – Kuratorium
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Zwei Mitglieder werden von der Bundesregierung vorgeschlagen, je ein Mitglied wird vom Land Baden-Württemberg und von der Stadt Heidelberg vorgeschlagen; das fünfte Mitglied wählt der Bundespräsident aus. Für jedes der fünf Mitglieder ist in gleicher Weise ein Vertreter zu bestellen. Wiederholte Bestellung ist zulässig.
 
@@ -64,8 +55,7 @@ Organe der Stiftung sind
 
 (4) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Es überwacht die Tätigkeit des Vorstandes. Das Nähere regelt die Satzung.
 
-
-## § 7 – Vorstand
+# § 7 – Vorstand
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Sie werden vom Kuratorium mit einer Mehrheit von vier Fünfteln seiner Mitglieder bestellt, davon ein Vorstandsmitglied auf Vorschlag des Beauftragten der Bundesregierung für Angelegenheiten der Kultur und der Medien. Die Satzung kann bestimmen, daß das vom Beauftragten der Bundesregierung für Angelegenheiten der Kultur und der Medien vorgeschlagene Mitglied Vorsitzender des Vorstandes ist.
 
@@ -73,20 +63,17 @@ Organe der Stiftung sind
 
 (3) Das Nähere regelt die Satzung.
 
-
-## § 8 – Neben- und ehrenamtliche Tätigkeit
+# § 8 – Neben- und ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
-
-## § 9 – Aufsicht, Haushalt, Rechnungsprüfung
+# § 9 – Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der Erfüllung ihrer Aufgaben wird die Stiftung durch das Bundesarchiv unterstützt; Art und Umfang regelt der Beauftragte der Bundesregierung für Angelegenheiten der Kultur und der Medien im Benehmen mit dem Kuratorium.
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung finden die für die Bundesverwaltung geltenden Bestimmungen entsprechende Anwendung.
 
-
-## § 10 – Beschäftigte
+# § 10 – Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer (Angestellte und Arbeiter) wahrgenommen.
 
@@ -94,22 +81,18 @@ Die Mitglieder des Kuratoriums und des Vorstandes sind, soweit sie nicht nebenam
 
 (3) Der Stiftung kann durch Satzungsregelung das Recht, Beamte zu haben, verliehen werden.
 
-
-## § 11 – Gebühren
+# § 11 – Gebühren
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer Bestimmung der Satzung Gebühren für die Benutzung von Stiftungseinrichtungen erheben.
 
-
-## § 12 – Dienstsiegel
+# § 12 – Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
 
-
-## § 13 – Berlin-Klausel
+# § 13 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1987 in Kraft.

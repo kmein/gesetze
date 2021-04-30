@@ -1,22 +1,17 @@
-# [RestMAProRestPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Restaurator im Handwerk oder Geprüfte Restauratorin im Handwerk-Master Professional für Restaurierung im Handwerk  (Restaurator-Master Professional Restaurierung-Prüfungsverordnung - RestMAProRestPrV)
-
-Ausfertigungsdatum: 15.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Restaurator im Handwerk oder Geprüfte Restauratorin im Handwerk-Master Professional für Restaurierung im Handwerk  (Restaurator-Master Professional Restaurierung-Prüfungsverordnung - RestMAProRestPrV)
+% Ausfertigungsdatum: 15.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit § 42a Absatz 1 und § 42d der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die durch Artikel 2 Nummer 17 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522) neu gefasst worden sind, verordnet das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## Inhaltsverzeichnis
-
- 
+# Inhaltsverzeichnis
 
  
 
+ 
 
-## § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+# § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter Restaurator im Handwerk–Master Professional für Restaurierung im Handwerk“ oder „Geprüfte Restauratorin im Handwerk–Master Professional für Restaurierung im Handwerk“ wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der dritten beruflichen Fortbildungsstufe der höherqualifizierenden Berufsbildung im Bereich der handwerklichen Restaurierung nachgewiesen.
 
@@ -56,8 +51,7 @@ Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit § 42a Absatz 1 
 
 (6) Die erfolgreich abgelegte Prüfung nach den §§ 11 bis 18 führt zum anerkannten Fortbildungsabschluss „Master Professional für Restaurierung im Handwerk“, ergänzt um die Bezeichnung des in § 2 genannten Handwerks, für welches die Prüfung abgelegt wurde. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Restaurator im Handwerk“ oder „Geprüfte Restauratorin im Handwerk“ vorangestellt, ergänzt um die Bezeichnung des in § 2 genannten Handwerks, für welches die Prüfung abgelegt wurde.
 
-
-## § 2 – Handwerke
+# § 2 – Handwerke
 
 Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgelegt werden:
 
@@ -99,15 +93,13 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 19. Zimmererhandwerk.
 
-
-## § 3 – Voraussetzung für die Zulassung zur Prüfung
+# § 3 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Restaurator im Handwerk–Master Professional für Restaurierung im Handwerk und zur Geprüften Restauratorin im Handwerk–Master Professional für Restaurierung im Handwerk in einem der in § 2 genannten Handwerke ist zuzulassen, wer die Anforderungen des § 42d der Handwerksordnung erfüllt und in dem jeweiligen Handwerk eine erfolgreich abgelegte Meisterprüfung nachweist.
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Fertigkeiten, Kenntnisse und Fähigkeiten erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Gliederung und Zeitraum der Prüfung
+# § 4 – Gliederung und Zeitraum der Prüfung
 
 (1) Die Prüfung gliedert sich in folgende Prüfungsteile:
 
@@ -139,8 +131,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 (6) Alle Prüfungsteile nach den Absätzen 3 bis 5 müssen innerhalb von fünf Jahren abgelegt werden. Die Frist beginnt mit dem ersten Tag der Prüfung des zuerst abzulegenden Prüfungsteils. Wird im Einzelfall die Frist des Satzes 1 nicht eingehalten und hat dies die zuständige Stelle zu vertreten, ist die Prüfung ohne Beachtung der Frist zu Ende zu führen.
 
-
-## § 5 – Handlungsbereich „Kulturerbe pflegen und weitergeben“
+# § 5 – Handlungsbereich „Kulturerbe pflegen und weitergeben“
 
 (1) Im Handlungsbereich „Kulturerbe pflegen und weitergeben“ soll durch die zu prüfende Person die Fähigkeit nachgewiesen werden, einen eigenständigen Beitrag zur Erhaltung und Pflege des handwerklich-immateriellen und des materiellen Kulturerbes leisten zu können und dieses Kulturerbe auf der Grundlage handwerklicher Erfahrungen sowie unter Berücksichtigung restauratorischer, handwerklicher und denkmalpflegerischer Grundsätze, Ziele und Aufgaben sowie rechtlicher Aspekte der Denkmalpflege, des Denkmalschutzes und des Kulturgutschutzes an die nächste Generation weitergeben zu können. Des Weiteren sollen der gesellschaftliche Wert des handwerklichen Kulturerbes sowie der Denkmalwert und der denkmalpflegerische Umgang mit Objekten von kultureller Bedeutung erläutert und weitergegeben werden können.
 
@@ -160,8 +151,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 7. Maßnahmen zur Öffentlichkeitsarbeit mit dem Ziel entwickeln, das Bewusstsein für den Wert von Kulturerbe zu stärken und die Untrennbarkeit des handwerklich-immateriellen und materiellen Kulturerbes herauszustellen, sowie diese Maßnahmen anwenden.
 
-
-## § 6 – Handlungsbereich „Methoden zum Erhalt, zur Restaurierung und Konservierung von Kulturerbe anwenden und weiterentwickeln“
+# § 6 – Handlungsbereich „Methoden zum Erhalt, zur Restaurierung und Konservierung von Kulturerbe anwenden und weiterentwickeln“
 
 (1) Im Handlungsbereich „Methoden zum Erhalt, zur Restaurierung und Konservierung von Kulturerbe anwenden und weiterentwickeln“ soll durch die zu prüfende Person die Fähigkeit nachgewiesen werden, diesbezügliche Methoden systematisch und eigenständig einsetzen und bei Forschungsaufgaben mitwirken zu können. In diesem Rahmen sollen Erhaltungs-, Restaurierungs- und Konservierungsmethoden bewertet, ausgewählt und weiterentwickelt werden können und es soll interdisziplinär zusammengearbeitet werden können.
 
@@ -187,8 +177,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 10. Fachöffentlichkeit informieren sowie Ergebnisse präsentieren und veröffentlichen.
 
-
-## § 7 – Handlungsbereich „Unternehmerische Prozesse im Rahmen des Kulturerbeerhalts gestalten und steuern“
+# § 7 – Handlungsbereich „Unternehmerische Prozesse im Rahmen des Kulturerbeerhalts gestalten und steuern“
 
 (1) Im Handlungsbereich „Unternehmerische Prozesse im Rahmen des Kulturerbeerhalts gestalten und steuern“ sollen durch die zu prüfende Person die Fähigkeiten nachgewiesen werden, handwerklich-immaterielles und materielles Kulturerbe zur strategischen Unternehmensentwicklung nutzen zu können sowie Entscheidungen unter Berücksichtigung betriebswirtschaftlicher Aspekte treffen zu können und Prozesse nachhaltig steuern zu können.
 
@@ -212,8 +201,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 9. kontinuierliche Weiterbildung und lebenslange Lernprozesse zur individuellen Entwicklung und zur Unternehmensentwicklung gestalten.
 
-
-## § 8 – Handlungsbereich „Erhaltungs-, Restaurierungs- und Konservierungskonzepte entwickeln“
+# § 8 – Handlungsbereich „Erhaltungs-, Restaurierungs- und Konservierungskonzepte entwickeln“
 
 (1) Im Handlungsbereich „Erhaltungs-, Restaurierungs- und Konservierungskonzepte entwickeln“ sollen durch die zu prüfende Person die Fähigkeiten nachgewiesen werden, unter Berücksichtigung handwerklicher und denkmalpflegerischer Grundsätze Bestands- und Befundaufnahmen durchführen zu können sowie darauf aufbauend Erhaltungs-, Restaurierungs- und Konservierungsprozesse mit wissenschaftlichen Methoden und auf der Grundlage eigener handwerklicher Erfahrungen planen zu können. Dabei sollen Abläufe von Maßnahmen unter Beteiligung von Fachbehörden, Experten und Expertinnen sowie Objekteigentümern festgelegt und organisiert sowie abgestimmte Konzepte präsentiert werden können.
 
@@ -237,8 +225,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 9. Konzeptionen zur Präsentation handwerklich-immateriellen und materiellen Kulturerbes entwickeln.
 
-
-## § 9 – Handlungsbereich „Maßnahmen umsetzen, Prozesse leiten und koordinieren“
+# § 9 – Handlungsbereich „Maßnahmen umsetzen, Prozesse leiten und koordinieren“
 
 (1) Im Handlungsbereich „Maßnahmen umsetzen, Prozesse leiten und koordinieren“ soll durch die zu prüfende Person die Fähigkeit nachgewiesen werden, den Gesamtprozess zur Erhaltung des Kulturerbes unter Berücksichtigung von handwerklichen und denkmalpflegerischen Zusammenhängen, von rechtlichen und wirtschaftlichen Rahmenbedingungen sowie von Nachhaltigkeits- und Qualitätsaspekten gestalten, steuern und optimieren zu können. Es sollen unter Einsatz historischer und traditioneller Materialien, Werk- und Hilfsstoffe sowie historischer und handwerklicher Verfahren im jeweiligen Handwerk nach § 2, für welches die zu prüfende Person zur Prüfung zugelassen wurde, objektbezogene Erhaltungs-, Restaurierungs- und Konservierungsmaßnahmen durchgeführt werden können. Dabei sollen abgestimmte Konzepte kunden- und dienstleistungsorientiert in Kooperation mit Fachbehörden, mit Experten und Expertinnen unterschiedlicher Fachdisziplinen sowie mit weiteren Projektbeteiligten umgesetzt werden können.
 
@@ -262,8 +249,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 9. Realisierung von Konzepten im laufenden Prozess überprüfen, bei Bedarf strategiekonform anpassen.
 
-
-## § 10 – Handlungsbereich „Maßnahmen und Prozesse unter Qualitätsaspekten dokumentieren sowie Risiko- und Schadensprävention sicherstellen“
+# § 10 – Handlungsbereich „Maßnahmen und Prozesse unter Qualitätsaspekten dokumentieren sowie Risiko- und Schadensprävention sicherstellen“
 
 (1) Im Handlungsbereich „Maßnahmen und Prozesse unter Qualitätsaspekten dokumentieren sowie Risiko- und Schadensprävention sicherstellen“ soll durch die zu prüfende Person die Fähigkeit nachgewiesen werden, unter Berücksichtigung von Prinzipien des Qualitätsmanagements Verläufe und Ergebnisse von Prozessen bewerten und optimieren zu können. Zur Sicherung relevanter Informationen über handwerkliche Techniken und Projekte sollen unterschiedliche Dokumentationsmethoden und -verfahren eingesetzt werden können. Im Anschluss an durchgeführte Maßnahmen an Objekten sollen zudem Konzepte zur Konservierung, zur Wartung sowie zur Risiko- und Schadensprävention entwickelt und Folgemaßnahmen ergriffen werden können.
 
@@ -283,8 +269,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 7. restaurierte und konservierte Objekte mit Dokumentationen sowie mit Empfehlungen zur Pflege und Wartung übergeben.
 
-
-## § 11 – Prüfungsteil „Übergreifende Qualifikationen“
+# § 11 – Prüfungsteil „Übergreifende Qualifikationen“
 
 (1) Der Prüfungsteil „Übergreifende Qualifikationen“ wird als schriftliche Prüfung auf der Grundlage der Beschreibung praxisbezogener Situationen durchgeführt.
 
@@ -294,8 +279,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 (4) Die Aufgabenstellungen müssen aus der Beschreibung der praxisbezogenen Situationen abgeleitet sein. Sie müssen es der zu prüfenden Person ermöglichen, ohne Antwortvorgaben eigenständige Lösungen zu erarbeiten. Für jeden der drei Handlungsbereiche „Kulturerbe pflegen und weitergeben“, „Methoden zum Erhalt, zur Restaurierung und Konservierung von Kulturerbe anwenden und weiterentwickeln“ und „Unternehmerische Prozesse im Rahmen des Kulturerbeerhalts gestalten und steuern“ ist eine Aufgabenstellung zu gestalten, die den Handlungsbereich als Schwerpunkt situationsbezogen thematisiert. Die jeweils anderen Handlungsbereiche können berücksichtigt werden.
 
-
-## § 12 – Prüfungsteil „Spezifische Qualifikationen“
+# § 12 – Prüfungsteil „Spezifische Qualifikationen“
 
 (1) Der Prüfungsteil „Spezifische Qualifikationen“ wird als schriftliche Prüfung auf der Grundlage der Beschreibung einer praxisbezogenen Situation durchgeführt.
 
@@ -305,8 +289,7 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 (4) Die Aufgabenstellungen müssen aus der Beschreibung der praxisbezogenen Situation abgeleitet sein. Sie müssen es der zu prüfenden Person ermöglichen, ohne Antwortvorgaben eigenständige Lösungen zu erarbeiten. Für jeden der drei Handlungsbereiche „Erhaltungs-, Restaurierungs- und Konservierungskonzepte entwickeln“, „Maßnahmen umsetzen, Prozesse leiten und koordinieren“ und „Maßnahmen und Prozesse unter Qualitätsaspekten dokumentieren sowie Risiko- und Schadensprävention sicherstellen“ ist eine Aufgabenstellung zu gestalten, die den Handlungsbereich als Schwerpunkt situationsbezogen thematisiert. Die jeweils anderen Handlungsbereiche können berücksichtigt werden.
 
-
-## § 13 – Prüfungsteil „Projektarbeit“
+# § 13 – Prüfungsteil „Projektarbeit“
 
 (1) Der Prüfungsteil „Projektarbeit“ besteht aus
 
@@ -336,13 +319,11 @@ Die Prüfung nach dieser Verordnung kann in einem der folgenden Handwerke abgele
 
 (9) Für den Prüfungsteil „Projektarbeit“ sind die Prüfungszeiten nach den Sätzen 2 bis 4 anzuwenden. Die Projektdokumentation ist dem Prüfungsausschuss innerhalb von 150 Kalendertagen nach Genehmigung der Projektierung vorzulegen. Die Projektpräsentation soll nicht länger als 20 Minuten dauern. Das Fachgespräch dauert nicht weniger als 20 Minuten und nicht länger als 30 Minuten.
 
-
-## § 14 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 14 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42h Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, erhöhen sich die Prozentsätze nach § 15 für die übrigen Prüfungsbestandteile entsprechend ihres Verhältnisses zueinander, so dass sich allein aus diesen Prüfungsbestandteilen die Gesamtleistung errechnet. Wird in Folge der Befreiung nur noch ein Prüfungsbestandteil abgelegt, entspricht die Gesamtleistung dem Ergebnis in diesem Prüfungsbestandteil.
 
-
-## § 15 – Bewerten der Prüfungsleistungen
+# § 15 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -364,8 +345,7 @@ Wird die zu prüfende Person nach § 42h Absatz 2 der Handwerksordnung von der A
 
 3. das Fachgespräch mit 35 Prozent.
 
-
-## § 16 – Bestehen der Prüfung, Gesamtnote
+# § 16 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -389,8 +369,7 @@ Wird die zu prüfende Person nach § 42h Absatz 2 der Handwerksordnung von der A
 
 Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 17 – Zeugnisse
+# § 17 – Zeugnisse
 
 (1) Wer die Prüfung nach § 16 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -402,8 +381,7 @@ Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl 
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 18 – Wiederholung der Prüfung
+# § 18 – Wiederholung der Prüfung
 
 (1) Jede nicht bestandene Prüfung oder jeder nicht bestandene Prüfungsteil kann jeweils zweimal wiederholt werden.
 
@@ -413,8 +391,7 @@ Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl 
 
 (+++ § 18 Abs. 2: Zur Anwendung vgl. § 19 Abs. 3 Satz 3 +++)
 
-
-## § 19 – Übergangsvorschriften
+# § 19 – Übergangsvorschriften
 
 (1) Jede Prüfung nach auf der Grundlage der Handwerksordnung in Kraft gesetzten Vorschriften der Handwerkskammern für einen Abschluss als Restaurator oder Restauratorin in einem der in § 2 genannten Handwerke, die vor Ablauf des 17. Dezember 2019 angemeldet wurde, ist bis zum Ablauf des 1. Dezember 2022 nach den bis zum Ablauf des 17. Dezember 2019 geltenden Vorschriften zu Ende zu führen.
 
@@ -426,20 +403,17 @@ Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl 
 
 (5) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 4 Satz 1 bezeichneten Verordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Restaurator im Handwerk oder Geprüfte Restauratorin im Handwerk vom 3. Dezember 2019 (BGBl. I S. 2542) außer Kraft.
 
-
-## Anlage 1 – (zu den §§ 15 und 16)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 15 und 16)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2020, 2942 - 2943)
 
  
 
-
-## Anlage 2 – (zu § 17)Zeugnisinhalte
+# Anlage 2 – (zu § 17)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 2944)
 

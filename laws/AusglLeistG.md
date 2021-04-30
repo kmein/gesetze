@@ -1,10 +1,7 @@
-# [AusglLeistG] Gesetz über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage, die nicht mehr rückgängig gemacht werden können  (Ausgleichsleistungsgesetz - AusglLeistG)
-
-Ausfertigungsdatum: 27.09.1994
-
+% Gesetz über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage, die nicht mehr rückgängig gemacht werden können  (Ausgleichsleistungsgesetz - AusglLeistG)
+% Ausfertigungsdatum: 27.09.1994
  
-
-## § 1 – Anspruch auf Ausgleichsleistung
+# § 1 – Anspruch auf Ausgleichsleistung
 
 (1) Natürliche Personen, die Vermögenswerte im Sinne des § 2 Abs. 2 des Gesetzes zur Regelung offener Vermögensfragen (Vermögensgesetz) durch entschädigungslose Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet) verloren haben, oder ihre Erben oder weiteren Erben (Erbeserben) erhalten eine Ausgleichsleistung nach Maßgabe dieses Gesetzes. § 1 Abs. 7 des Vermögensgesetzes bleibt unberührt.
 
@@ -34,8 +31,7 @@ Ausfertigungsdatum: 27.09.1994
 
 (4) Leistungen nach diesem Gesetz werden nicht gewährt, wenn der nach den Absätzen 1 und 2 Berechtigte oder derjenige, von dem er seine Rechte ableitet, oder das enteignete Unternehmen gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen, in schwerwiegendem Maße seine Stellung zum eigenen Vorteil oder zum Nachteil anderer missbraucht oder dem nationalsozialistischen oder dem kommunistischen System in der sowjetisch besetzten Zone oder in der Deutschen Demokratischen Republik erheblichen Vorschub geleistet hat.
 
-
-## § 2 – Art und Höhe der Ausgleichsleistung
+# § 2 – Art und Höhe der Ausgleichsleistung
 
 (1) Ausgleichsleistungen sind vorbehaltlich der §§ 3 und 5 aus dem Entschädigungsfonds nach Maßgabe der §§ 1 und 9 des Entschädigungsgesetzes zu erbringen. Sie werden, soweit dieses Gesetz nicht besondere Regelungen enthält, nach den §§ 1 bis 8 des Entschädigungsgesetzes bemessen und erfüllt. Beim Zusammentreffen mit Entschädigungen nach dem Vermögensgesetz sind die einzelnen Ansprüche vor Anwendung des § 7 des Entschädigungsgesetzes zusammenzurechnen.
 
@@ -57,8 +53,7 @@ Ausfertigungsdatum: 27.09.1994
 
 (7) Keine Ausgleichsleistungen sind zu gewähren, soweit die Forderungs- oder Anteilsrechte nach den Absätzen 2 bis 6 gegen den ursprünglichen Schuldner oder seinen Rechtsnachfolger wieder durchsetzbar geworden sind.
 
-
-## § 3 – Flächenerwerb
+# § 3 – Flächenerwerb
 
 (1) Wer ehemals volkseigene, von der Treuhandanstalt zu privatisierende landwirtschaftliche Flächen langfristig gepachtet hat, kann diese Flächen nach Maßgabe der folgenden Absätze 2 bis 4 und 7 erwerben. Dies gilt nicht, wenn der Pachtvertrag nach dem 1. Januar 2007 abgeschlossen oder erstmalig zu einem langfristigen Pachtvertrag verlängert wurde. Der Erwerbsanspruch erlischt mit Ablauf des 31. Dezember 2009, es sei denn, die Privatisierungsstelle hat dem Berechtigten bis zu diesem Stichtag eine notariell beurkundete Zusage zur Gewährung der Begünstigung erteilt und der Kaufvertrag wird innerhalb der in der Zusage bestimmten Frist abgeschlossen. Der in der Zusage nach Satz 3 bezeichnete Betrag der Begünstigung darf nicht überschritten werden. Weitergehende Ansprüche sind ausgeschlossen.
 
@@ -72,10 +67,8 @@ Ausfertigungsdatum: 27.09.1994
 
 (6) Gegenüber einem Pächter muss sich der Erwerber nach Absatz 5 bereit erklären, bestehende langfristige Pachtverträge bis zu einer Gesamtlaufzeit von 18 Jahren zu verlängern. Ist die für die Privatisierung zuständige Stelle gegenüber dem Pächter verpflichtet, die verpachteten Flächen an ihn zu veräußern, so sind diese Flächen in den Grenzen der Absätze 1 bis 4 für einen Erwerb nach Absatz 5 nur mit Zustimmung des Pächters verfügbar. Satz 1 gilt nicht, wenn der Pachtvertrag nach dem 1. Januar 2007 abgeschlossen oder erstmalig zu einem langfristigen Pachtvertrag verlängert wurde.
 
-(7) Der Wertansatz für landwirtschaftliche Flächen ist der Verkehrswert, von dem ein Abschlag in Höhe von 35 vom Hundert vorgenommen wird. Der Wertansatz für Flächen mit Gebäuden oder sonstigen aufstehenden baulichen Anlagen, einschließlich eines angemessenen Flächenumgriffs, ist der Verkehrswert. Für Kaufbewerber, deren Kaufantrag nach § 7 Flächenerwerbsverordnung in der am 30. Dezember 1995 geltenden Fassung (BGBl. I S. 2072) wegen Nichterfüllung der Ortsansässigkeit am 3. Oktober 1990 gemäß Absatz 2 in der am 1. Dezember 1994 geltenden Fassung (BGBl. I S. 2624, 2628) abgelehnt wurde, wird der Wertansatz für landwirtschaftliche Flächen in benachteiligten Gebieten im Sinne der Verordnung 950/97 EG (ABl. EG Nr. L 142 S. 1) nach Satz 1 in derselben Fassung bemessen. Für Waldflächen mit einem Anteil hiebsreifer Bestände von weniger als 10 vom Hundert ist der Wertansatz auf der Grundlage des dreifachen Ersatzeinheitswertes zum Einheitswert 1935 nach §§ 1 bis 7 der Zehnten Verordnung zur Durchführung des Feststellungsgesetzes vom 15. April 1958 (Bundesgesetzblatt Teil III, Gliederungsnummer 611-1-DV10) unter Beachtung des gegenwärtigen Waldzustandes zu ermitteln. Für Waldflächen bis zehn Hektar können entsprechend § 8 Abs. 1 dieser Verordnung Pauschhektarsätze gebildet werden. Diese sind mit den Flächenrichtzahlen der Anlage 3 dieser Verordnung zu multiplizieren. Werden Waldflächen in den Jahren 1995 und 1996 erworben, können Abschläge bis zu 200 Deutsche Mark pro Hektar vorgenommen werden. Beträgt der Anteil hiebsreifer Bestände 10 vom Hundert oder mehr, ist insoweit der nach Nummer 6.5 der Waldwertermittlungsrichtlinien vom 25. Februar 1991 (BAnz. Nr. 100a vom 5. Juni 1991) ermittelte Abtriebswert zuzüglich des örtlichen Waldbodenverkehrswertes anzusetzen. Die für die Privatisierung zuständige Stelle kann im Einzelfall verlangen, dass der Berechtigte anderweitig nicht verwertbare Restflächen zum Verkehrswert mitübernimmt.  
-  
-(7a) Bei Verkäufen an Berechtigte nach Absatz 5 gilt der Wert als Verkehrswert im Sinne von Absatz 7 Satz 1, wie er sich aus den im Bundesanzeiger vom 21. Juli 2004 veröffentlichten Werten der „Bekanntmachung der Regionalen Wertansätze 2004 für Ackerland und Grünland nach der Flächenerwerbsverordnung“ ergibt. Liegen keine regionalen Wertansätze vor, ist der Verkehrswert gemäß § 5 Absatz 1 Satz 1 der Flächenerwerbsverordnung zum Wertermittlungsstichtag 1. Januar 2004 zu ermitteln. Auf den so bestimmten Kaufpreis werden 75 Prozent der Zinsen, die der Berechtigte auf Grund des Ausgleichsleistungs- oder Entschädigungsbescheides, für einen Betrag bis zur Höhe des Kaufpreises längstens seit dem 1. Januar 2004 erhalten hat, aufgeschlagen. Der Kaufpreisaufschlag ist nach erfolgter Festsetzung der Zinsen gemäß § 1 Absatz 1 Satz 7 des Entschädigungsgesetzes fällig.  
-  
+(7) Der Wertansatz für landwirtschaftliche Flächen ist der Verkehrswert, von dem ein Abschlag in Höhe von 35 vom Hundert vorgenommen wird. Der Wertansatz für Flächen mit Gebäuden oder sonstigen aufstehenden baulichen Anlagen, einschließlich eines angemessenen Flächenumgriffs, ist der Verkehrswert. Für Kaufbewerber, deren Kaufantrag nach § 7 Flächenerwerbsverordnung in der am 30. Dezember 1995 geltenden Fassung (BGBl. I S. 2072) wegen Nichterfüllung der Ortsansässigkeit am 3. Oktober 1990 gemäß Absatz 2 in der am 1. Dezember 1994 geltenden Fassung (BGBl. I S. 2624, 2628) abgelehnt wurde, wird der Wertansatz für landwirtschaftliche Flächen in benachteiligten Gebieten im Sinne der Verordnung 950/97 EG (ABl. EG Nr. L 142 S. 1) nach Satz 1 in derselben Fassung bemessen. Für Waldflächen mit einem Anteil hiebsreifer Bestände von weniger als 10 vom Hundert ist der Wertansatz auf der Grundlage des dreifachen Ersatzeinheitswertes zum Einheitswert 1935 nach §§ 1 bis 7 der Zehnten Verordnung zur Durchführung des Feststellungsgesetzes vom 15. April 1958 (Bundesgesetzblatt Teil III, Gliederungsnummer 611-1-DV10) unter Beachtung des gegenwärtigen Waldzustandes zu ermitteln. Für Waldflächen bis zehn Hektar können entsprechend § 8 Abs. 1 dieser Verordnung Pauschhektarsätze gebildet werden. Diese sind mit den Flächenrichtzahlen der Anlage 3 dieser Verordnung zu multiplizieren. Werden Waldflächen in den Jahren 1995 und 1996 erworben, können Abschläge bis zu 200 Deutsche Mark pro Hektar vorgenommen werden. Beträgt der Anteil hiebsreifer Bestände 10 vom Hundert oder mehr, ist insoweit der nach Nummer 6.5 der Waldwertermittlungsrichtlinien vom 25. Februar 1991 (BAnz. Nr. 100a vom 5. Juni 1991) ermittelte Abtriebswert zuzüglich des örtlichen Waldbodenverkehrswertes anzusetzen. Die für die Privatisierung zuständige Stelle kann im Einzelfall verlangen, dass der Berechtigte anderweitig nicht verwertbare Restflächen zum Verkehrswert mitübernimmt.   
+(7a) Bei Verkäufen an Berechtigte nach Absatz 5 gilt der Wert als Verkehrswert im Sinne von Absatz 7 Satz 1, wie er sich aus den im Bundesanzeiger vom 21. Juli 2004 veröffentlichten Werten der „Bekanntmachung der Regionalen Wertansätze 2004 für Ackerland und Grünland nach der Flächenerwerbsverordnung“ ergibt. Liegen keine regionalen Wertansätze vor, ist der Verkehrswert gemäß § 5 Absatz 1 Satz 1 der Flächenerwerbsverordnung zum Wertermittlungsstichtag 1. Januar 2004 zu ermitteln. Auf den so bestimmten Kaufpreis werden 75 Prozent der Zinsen, die der Berechtigte auf Grund des Ausgleichsleistungs- oder Entschädigungsbescheides, für einen Betrag bis zur Höhe des Kaufpreises längstens seit dem 1. Januar 2004 erhalten hat, aufgeschlagen. Der Kaufpreisaufschlag ist nach erfolgter Festsetzung der Zinsen gemäß § 1 Absatz 1 Satz 7 des Entschädigungsgesetzes fällig.   
 (7b) Wer im Zeitraum vom 1. Januar 2004 bis zum Inkrafttreten des Zweiten Flächenerwerbsänderungsgesetzes zur Ausübung des Erwerbsrechts nach Absatz 5 berechtigt gewesen ist, ohne davon Gebrauch zu machen, kann Flächen nach Maßgabe von Absatz 7a erwerben. Hat ein Berechtigter nach Absatz 5 innerhalb des Zeitraumes nach Satz 1 sein Erwerbsrecht bereits ausgeübt, kann er weitere Flächen nur erwerben, soweit die Kaufpreisbestimmung nach Absatz 7a zu einem höheren Erwerbsumfang im Rahmen der Obergrenzen des Absatzes 5 Satz 2 führt. Will der Berechtigte seine Erwerbsmöglichkeit nach Satz 1 oder Satz 2 wahrnehmen, hat er dies der für die Privatisierung zuständigen Stelle innerhalb einer Ausschlussfrist von sechs Monaten ab Inkrafttreten des Zweiten Flächenerwerbsänderungsgesetzes zu erklären. Für die Übertragung der Erwerbsmöglichkeiten nach diesem Absatz gelten Absatz 5 Satz 8 und Satz 9 entsprechend.
 
 (8) Natürliche Personen, die nach Absatz 5 Satz 1 zum Erwerb berechtigt sind und einen forstwirtschaftlichen Betrieb neu einrichten und diesen Betrieb allein oder als unbeschränkt haftender Gesellschafter in einer Personengesellschaft selbst bewirtschaften, können ehemals volkseigene, von der Treuhandanstalt zu privatisierende Waldflächen bis zu 1 000 Hektar erwerben, wenn sie keine landwirtschaftlichen Flächen nach den Absätzen 1 bis 7 erwerben. Als forstwirtschaftlicher Betrieb im Sinne des Satzes 1 gilt auch der forstwirtschaftliche Teil eines land- und forstwirtschaftlichen Betriebes. Absatz 7 gilt entsprechend.
@@ -103,8 +96,7 @@ Die übrigen Flächen können von den Ländern bis zu dem in Absatz 12 genannten
 
 (14) Unter Anrechnung der nach Absatz 13 bereits tatsächlich unentgeltlich übertragenen und noch unentgeltlich zu übertragenden Flächen im Sinne von Absatz 12 können insgesamt bis zu 65 000 Hektar für den Naturschutz besonders wertvolle Flächen unentgeltlich an die in Absatz 12 genannten Empfänger, an eine Umweltstiftung des Bundes oder an Träger von Naturschutzgroßprojekten des Bundes mit gesamtstaatlich repräsentativer Bedeutung oder an andere gemeinnützige Naturschutzträger übertragen werden. Absatz 13 Satz 4 und 5 gilt entsprechend.
 
-
-## § 3a – Besondere Vorschriften für Altkaufverträge
+# § 3a – Besondere Vorschriften für Altkaufverträge
 
 (1) Kaufverträge, die vor dem 28. Januar 1999 auf Grund von § 3 abgeschlossen wurden, gelten mit der Maßgabe als bestätigt, dass der Verkäufer bei Verträgen mit anderen als den in § 3 Abs. 2 Satz 3 oder § 3 Abs. 5 Satz 1 bezeichneten Personen den Kaufpreis nach den Absätzen 2 und 3 bestimmt.
 
@@ -114,20 +106,17 @@ Die übrigen Flächen können von den Ländern bis zu dem in Absatz 12 genannten
 
 (4) Passt der Verkäufer den Kaufpreis nach Absatz 2 oder Absatz 3 an, kann der Käufer innerhalb einer Frist von einem Monat vom Zugang der Anpassungserklärung an durch schriftliche Erklärung vom Vertrag zurücktreten. In diesem Fall sind der Käufer zur Rückübertragung des Grundstücks an den Verkäufer und der Verkäufer zur Rückzahlung des Kaufpreises und zur Erstattung des Betrages verpflichtet, um den sich der Wert des Kaufgegenstandes durch Verwendungen des Käufers erhöht hat. Weitergehende Ansprüche außer Ansprüchen wegen Beschädigung des Kaufgegenstandes sind ausgeschlossen. Soweit ein Pachtvertrag nach § 3 Abs. 1 durch Eigentumserwerb erloschen ist, lebt er mit Rückübertragung des Grundstücks an den Verkäufer wieder auf.
 
-
-## § 3b – Rechtsnachfolger
+# § 3b – Rechtsnachfolger
 
 Werden von der Treuhandanstalt zu privatisierende landwirtschaftliche oder forstwirtschaftliche Flächen nach § 23a des Treuhandgesetzes übertragen, tritt der Rechtsnachfolger in alle Rechte und Pflichten nach diesem Gesetz und der Flächenerwerbsverordnung ein.
 
-
-## § 4 – Verordnungsermächtigung
+# § 4 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Erwerbsmöglichkeit nach § 3 und des Verfahrens zu regeln. In der Verordnung kann auch bestimmt werden
 
 1. das Verfahren zur Ermittlung der Verkehrswerte nach § 3 Abs. 7 Satz 1, Satz 2, Satz 6 und § 3a Abs. 2,
 
-1a.  
-dass die Privatisierungsstelle berechtigt ist, einen Erwerbsantrag nach § 3 abzulehnen, wenn der Berechtigte aus von ihm zu vertretenden Gründen die erforderlichen Nachweise nach Aufforderung durch die Privatisierungsstelle nicht innerhalb der gesetzten Frist vorlegt oder ein privatschriftliches Angebot der Privatisierungsstelle nicht innerhalb der hierzu gesetzten Frist zum Abschluss eines notariell beurkundeten Kaufvertrages führt,
+1a. dass die Privatisierungsstelle berechtigt ist, einen Erwerbsantrag nach § 3 abzulehnen, wenn der Berechtigte aus von ihm zu vertretenden Gründen die erforderlichen Nachweise nach Aufforderung durch die Privatisierungsstelle nicht innerhalb der gesetzten Frist vorlegt oder ein privatschriftliches Angebot der Privatisierungsstelle nicht innerhalb der hierzu gesetzten Frist zum Abschluss eines notariell beurkundeten Kaufvertrages führt,
 
 2. dass Rückabwicklung verlangt werden kann, wenn sich die Zusammensetzung der Gesellschafter einer juristischen Person nach dem begünstigten Erwerb von Flächen in der Weise verändert, dass 25 vom Hundert oder mehr der Anteilswerte von nicht ortsansässigen Personen oder Berechtigten nach § 1 gehalten werden,
 
@@ -137,8 +126,7 @@ dass die Privatisierungsstelle berechtigt ist, einen Erwerbsantrag nach § 3 abz
 
 5. dass aus agrarstrukturellen Gründen oder in Härtefällen von einer Rückabwicklung abgesehen werden kann.
 
-
-## § 5 – Rückgabe beweglicher Sachen
+# § 5 – Rückgabe beweglicher Sachen
 
 (1) Bewegliche, nicht in einen Einheitswert einbezogene Sachen sind zurückzuübertragen. Die Rückübertragung ist ausgeschlossen, wenn dies von der Natur der Sache her nicht mehr möglich ist oder natürliche Personen, Religionsgemeinschaften oder gemeinnützige Stiftungen in redlicher Weise an dem Vermögenswert Eigentum erworben haben.
 
@@ -146,8 +134,7 @@ dass die Privatisierungsstelle berechtigt ist, einen Erwerbsantrag nach § 3 abz
 
 (3) § 10 des Vermögensgesetzes gilt entsprechend. Die Aufwendungen für das überlassene Kulturgut trägt der Nießbraucher.
 
-
-## § 6 – Zuständigkeit und Verfahren
+# § 6 – Zuständigkeit und Verfahren
 
 (1) Ansprüche auf Ausgleichsleistungen sind bei den Ämtern zur Regelung offener Vermögensfragen, soweit für die Rückgabe des entzogenen Vermögenswertes das Bundesamt für zentrale Dienste und offene Vermögensfragen oder die Landesämter zur Regelung offener Vermögensfragen zuständig wären, bei diesen geltend zu machen. Bereits gestellte, noch anhängige Anträge nach dem Vermögensgesetz, die nach § 1 Abs. 8 Buchstabe a des Vermögensgesetzes ausgeschlossen sind, werden als Anträge nach diesem Gesetz gewertet. Die Antragsfrist endet mit Ablauf des sechsten Monats nach Inkrafttreten dieses Gesetzes (Ausschlussfrist).
 
@@ -155,8 +142,7 @@ dass die Privatisierungsstelle berechtigt ist, einen Erwerbsantrag nach § 3 abz
 
 (3) Für Streitigkeiten im Zusammenhang mit der Durchführung der §§ 3, 3a und der auf Grund von § 4 Abs. 3 ergangenen Verordnung sind die ordentlichen Gerichte zuständig.
 
-
-## § 7 – Übergangs- und Schlussbestimmungen
+# § 7 – Übergangs- und Schlussbestimmungen
 
 (1) Die Erwerbsmöglichkeit für Waldflächen nach § 3 Abs. 4 sowie nach § 3 Abs. 8 in der bis zum 11. Juli 2009 geltenden Fassung endet mit Ablauf des 31. Dezember 2007. Sofern zu diesem Zeitpunkt ein Beiratsverfahren noch nicht abgeschlossen oder ein Klageverfahren über den begünstigten Erwerb von Waldflächen anhängig ist, endet die Erwerbsmöglichkeit nach diesen Regelungen innerhalb von sechs Monaten nach rechtskräftigem Abschluss der jeweiligen Verfahren.
 

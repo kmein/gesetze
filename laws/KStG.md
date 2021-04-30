@@ -1,10 +1,7 @@
-# [KStG] Körperschaftsteuergesetz  (KStG)
-
-Ausfertigungsdatum: 31.08.1976
-
+% Körperschaftsteuergesetz  (KStG)
+% Ausfertigungsdatum: 31.08.1976
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -418,8 +415,7 @@ Einlagen der Anteilseigner und Sonderausweis
 
 § 40
 
-
-## § 1 – Unbeschränkte Steuerpflicht
+# § 1 – Unbeschränkte Steuerpflicht
 
 (1) Unbeschränkt körperschaftsteuerpflichtig sind die folgenden Körperschaften, Personenvereinigungen und Vermögensmassen, die ihre Geschäftsleitung oder ihren Sitz im Inland haben:
 
@@ -455,8 +451,7 @@ b) künstliche Inseln errichtet oder genutzt werden und Anlagen und Bauwerke fü
 
 § 1 Abs. 1 Nr. 4: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 iVm Art. 9 Abs. 1, Art. 28 Abs. 1 Satz 2 GG unvereinbar und nichtig gem. BVerfGE v. 29.9.1998 I 3682 - 2 BvL 64/93 -
 
-
-## § 2 – Beschränkte Steuerpflicht
+# § 2 – Beschränkte Steuerpflicht
 
 Beschränkt körperschaftsteuerpflichtig sind
 
@@ -472,15 +467,13 @@ c) die in § 8b Abs. 10 Satz 2 genannten Einnahmen oder Bezüge, die den sonstig
 
 (+++ § 2 Nr. 2: Zur erstmaligen Anwendung vgl. § 34 Abs. 2a +++)
 
-
-## § 3 – Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden
+# § 3 – Abgrenzung der Steuerpflicht bei nichtrechtsfähigen Personenvereinigungen und Vermögensmassen sowie bei Realgemeinden
 
 (1) Nichtrechtsfähige Personenvereinigungen, Anstalten, Stiftungen und andere Zweckvermögen sind körperschaftsteuerpflichtig, wenn ihr Einkommen weder nach diesem Gesetz noch nach dem Einkommensteuergesetz unmittelbar bei einem anderen Steuerpflichtigen zu versteuern ist.
 
 (2) ¹Hauberg-, Wald-, Forst- und Laubgenossenschaften und ähnliche Realgemeinden, die zu den in § 1 bezeichneten Steuerpflichtigen gehören, sind nur insoweit körperschaftsteuerpflichtig, als sie einen Gewerbebetrieb unterhalten oder verpachten, der über den Rahmen eines Nebenbetriebs hinausgeht. ²Im Übrigen sind ihre Einkünfte unmittelbar bei den Beteiligten zu versteuern.
 
-
-## § 4 – Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts
+# § 4 – Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts
 
 (1) ¹Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts im Sinne des § 1 Abs. 1 Nr. 6 sind vorbehaltlich des Absatzes 5 alle Einrichtungen, die einer nachhaltigen wirtschaftlichen Tätigkeit zur Erzielung von Einnahmen außerhalb der Land- und Forstwirtschaft dienen und die sich innerhalb der Gesamtbetätigung der juristischen Person wirtschaftlich herausheben. ²Die Absicht, Gewinn zu erzielen, und die Beteiligung am allgemeinen wirtschaftlichen Verkehr sind nicht erforderlich.
 
@@ -502,8 +495,7 @@ c) die in § 8b Abs. 10 Satz 2 genannten Einnahmen oder Bezüge, die den sonstig
 
 ²Ein Betrieb gewerblicher Art kann nicht mit einem Hoheitsbetrieb zusammengefasst werden.
 
-
-## § 5 – Befreiungen
+# § 5 – Befreiungen
 
 (1) Von der Körperschaftsteuer sind befreit
 
@@ -511,8 +503,7 @@ c) die in § 8b Abs. 10 Satz 2 genannten Einnahmen oder Bezüge, die den sonstig
 
 2. die Deutsche Bundesbank, die Kreditanstalt für Wiederaufbau, die Landwirtschaftliche Rentenbank, die Bayerische Landesanstalt für Aufbaufinanzierung, die Niedersächsische Gesellschaft für öffentliche Finanzierungen mit beschränkter Haftung, die Bremer Aufbau-Bank GmbH, die Landeskreditbank Baden-Württemberg-Förderbank, die Bayerische Landesbodenkreditanstalt, die Investitionsbank Berlin, die Hamburgische Investitions- und Förderbank, die NRW.Bank, die Investitions- und Förderbank Niedersachsen, die Saarländische Investitionskreditbank Aktiengesellschaft, die Investitionsbank Schleswig-Holstein, die Investitionsbank des Landes Brandenburg, die Sächsische Aufbaubank - Förderbank -, die Thüringer Aufbaubank, die Investitionsbank Sachsen-Anhalt - Anstalt der Norddeutschen Landesbank - Girozentrale -, die Investitions- und Strukturbank Rheinland-Pfalz, das Landesförderinstitut Mecklenburg-Vorpommern - Geschäftsbereich der Norddeutschen Landesbank Girozentrale -, die Wirtschafts- und Infrastrukturbank Hessen – rechtlich unselbständige Anstalt in der Landesbank Hessen-Thüringen Girozentrale und die Liquiditäts-Konsortialbank Gesellschaft mit beschränkter Haftung;
 
-2a.  
-die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
+2a. die Bundesanstalt für vereinigungsbedingte Sonderaufgaben;
 
 3. rechtsfähige Pensions-, Sterbe- und Krankenkassen, die den Personen, denen die Leistungen der Kasse zugute kommen oder zugute kommen sollen (Leistungsempfängern), einen Rechtsanspruch gewähren, und rechtsfähige Unterstützungskassen, die den Leistungsempfängern keinen Rechtsanspruch gewähren,
 
@@ -638,8 +629,7 @@ b) wenn am Schluss des Wirtschaftsjahrs das Vermögen nicht höher ist als 60 Pr
 (+++ § 5 Abs. 2 Nr. 1: Zur erstmaligen Anwendung vgl. § 34 Abs. 2a +++)  
 (+++ § 5 Abs. 2 Nr. 2: Zur Anwendung vgl. § 34 Abs. 5a +++)
 
-
-## § 6 – Einschränkung der Befreiung von Pensions-, Sterbe-, Kranken- und Unterstützungskassen
+# § 6 – Einschränkung der Befreiung von Pensions-, Sterbe-, Kranken- und Unterstützungskassen
 
 (1) Übersteigt am Schluss des Wirtschaftsjahrs, zu dem der Wert der Deckungsrückstellung versicherungsmathematisch zu berechnen ist, das Vermögen einer Pensions-, Sterbe- oder Krankenkasse im Sinne des § 5 Abs. 1 Nr. 3 den in Buchstabe d dieser Vorschrift bezeichneten Betrag, so ist die Kasse steuerpflichtig, soweit ihr Einkommen anteilig auf das übersteigende Vermögen entfällt.
 
@@ -659,13 +649,11 @@ b) wenn am Schluss des Wirtschaftsjahrs das Vermögen nicht höher ist als 60 Pr
 
 (6) ¹Auf den Teil des Vermögens einer Pensions-, Sterbe-, Kranken- oder Unterstützungskasse, der am Schluss des Wirtschaftsjahrs den in § 5 Abs. 1 Nr. 3 Buchstabe d oder e bezeichneten Betrag übersteigt, ist Buchstabe c dieser Vorschrift nicht anzuwenden. ²Bei Unterstützungskassen gilt dies auch, soweit das Vermögen vor dem Schluss des Wirtschaftsjahrs den in § 5 Abs. 1 Nr. 3 Buchstabe e bezeichneten Betrag übersteigt.
 
-
-## § 6a – Einkommensermittlung bei voll steuerpflichtigen Unterstützungskassen
+# § 6a – Einkommensermittlung bei voll steuerpflichtigen Unterstützungskassen
 
 Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz 2 und Absatz 5a entsprechend anzuwenden.
 
-
-## § 7 – Grundlagen der Besteuerung
+# § 7 – Grundlagen der Besteuerung
 
 (1) Die Körperschaftsteuer bemisst sich nach dem zu versteuernden Einkommen.
 
@@ -675,8 +663,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 (4) ¹Bei Steuerpflichtigen, die verpflichtet sind, Bücher nach den Vorschriften des Handelsgesetzbuchs zu führen, ist der Gewinn nach dem Wirtschaftsjahr zu ermitteln, für das sie regelmäßig Abschlüsse machen. ²Weicht bei diesen Steuerpflichtigen das Wirtschaftsjahr, für das sie regelmäßig Abschlüsse machen, vom Kalenderjahr ab, so gilt der Gewinn aus Gewerbebetrieb als in dem Kalenderjahr bezogen, in dem das Wirtschaftsjahr endet. ³Die Umstellung des Wirtschaftsjahrs auf einen vom Kalenderjahr abweichenden Zeitraum ist steuerlich nur wirksam, wenn sie im Einvernehmen mit dem Finanzamt vorgenommen wird.
 
-
-## § 8 – Ermittlung des Einkommens
+# § 8 – Ermittlung des Einkommens
 
 (1) ¹Was als Einkommen gilt und wie das Einkommen zu ermitteln ist, bestimmt sich nach den Vorschriften des Einkommensteuergesetzes und dieses Gesetzes. ²Bei Betrieben gewerblicher Art im Sinne des § 4 sind die Absicht, Gewinn zu erzielen, und die Beteiligung am allgemeinen wirtschaftlichen Verkehr nicht erforderlich. ³Bei den inländischen öffentlich-rechtlichen Rundfunkanstalten beträgt das Einkommen aus dem Geschäft der Veranstaltung von Werbesendungen 16 Prozent der Entgelte (§ 10 Abs. 1 des Umsatzsteuergesetzes) aus Werbesendungen.
 
@@ -720,8 +707,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 (+++ § 8 Abs. 8 Satz 6, Abs. 9 S 9: Zur Anwendung vgl. § 34 Abs. 3b +++)  
 (+++ § 8 Abs. 10 Satz 1: Zur erstmaligen Anwendung vgl. § 34 Abs. 6 +++)
 
-
-## § 8a – Betriebsausgabenabzug für Zinsaufwendungen bei Körperschaften (Zinsschranke)
+# § 8a – Betriebsausgabenabzug für Zinsaufwendungen bei Körperschaften (Zinsschranke)
 
 (1) ¹§ 4h Abs. 1 Satz 2 des Einkommensteuergesetzes ist mit der Maßgabe anzuwenden, dass anstelle des maßgeblichen Gewinns das maßgebliche Einkommen tritt. ²Maßgebliches Einkommen ist das nach den Vorschriften des Einkommensteuergesetzes und dieses Gesetzes ermittelte Einkommen mit Ausnahme der §§ 4h und 10d des Einkommensteuergesetzes und des § 9 Abs. 1 Nr. 2 dieses Gesetzes. ³Die §§ 8c und 8d gelten für den Zinsvortrag nach § 4h Absatz 1 Satz 5 des Einkommensteuergesetzes mit der Maßgabe entsprechend, dass stille Reserven im Sinne des § 8c Absatz 1 Satz 6 nur zu berücksichtigen sind, soweit sie die nach § 8c Absatz 1 Satz 5 und § 8d Absatz 2 Satz 1 abziehbaren nicht genutzten Verluste übersteigen. ⁴Auf Kapitalgesellschaften, die ihre Einkünfte nach § 2 Abs. 2 Nr. 2 des Einkommensteuergesetzes ermitteln, ist § 4h des Einkommensteuergesetzes sinngemäß anzuwenden.
 
@@ -731,8 +717,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 (+++ § 8a Abs 2 u. 3: Zur Anwendung vgl. § 34 Abs. 4 +++)
 
-
-## § 8b – Beteiligung an anderen Körperschaften und Personenvereinigungen
+# § 8b – Beteiligung an anderen Körperschaften und Personenvereinigungen
 
 (1) ¹Bezüge im Sinne des § 20 Abs. 1 Nr. 1, 2, 9 und 10 Buchstabe a des Einkommensteuergesetzes bleiben bei der Ermittlung des Einkommens außer Ansatz. ²Satz 1 gilt nur, soweit die Bezüge das Einkommen der leistenden Körperschaft nicht gemindert haben. ³Sind die Bezüge im Sinne des Satzes 1 nach einem Abkommen zur Vermeidung der Doppelbesteuerung von der Bemessungsgrundlage für die Körperschaftsteuer auszunehmen, gilt Satz 2 ungeachtet des Wortlauts des Abkommens für diese Freistellung entsprechend. ⁴Satz 2 gilt nicht, soweit die verdeckte Gewinnausschüttung das Einkommen einer dem Steuerpflichtigen nahe stehenden Person erhöht hat und § 32a des Körperschaftsteuergesetzes auf die Veranlagung dieser nahe stehenden Person keine Anwendung findet. ⁵Bezüge im Sinne des Satzes 1 sind auch Einnahmen aus der Veräußerung von Dividendenscheinen und sonstigen Ansprüchen im Sinne des § 20 Abs. 2 Satz 1 Nr. 2 Buchstabe a des Einkommensteuergesetzes sowie Einnahmen aus der Abtretung von Dividendenansprüchen oder sonstigen Ansprüchen im Sinne des § 20 Abs. 2 Satz 2 des Einkommensteuergesetzes.
 
@@ -759,8 +744,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 (+++ § 8b: Zur Anwendung vgl. § 15 u. § 34 +++)  
 (+++ § 8b: Zur Anwendung vgl. § 6 Abs. 6, § 30 Abs. 2 u. 3, § 34 Abs. 2, § 42 Abs. 2, § 45 Abs. 1 u. § 49 Abs. 1 InvStG 2018 +++)
 
-
-## § 8c – Verlustabzug bei Körperschaften
+# § 8c – Verlustabzug bei Körperschaften
 
 (1)¹Werden innerhalb von fünf Jahren mittelbar oder unmittelbar mehr als 50 Prozent des gezeichneten Kapitals, der Mitgliedschaftsrechte, der Beteiligungsrechte oder der Stimmrechte an einer Körperschaft an einen Erwerber oder diesem nahe stehende Personen übertragen oder liegt ein vergleichbarer Sachverhalt vor (schädlicher Beteiligungserwerb), sind bis zum schädlichen Beteiligungserwerb nicht ausgeglichene oder abgezogene negative Einkünfte (nicht genutzte Verluste) vollständig nicht mehr abziehbar. ²Als ein Erwerber im Sinne des Satzes 1 gilt auch eine Gruppe von Erwerbern mit gleichgerichteten Interessen. ³Eine Kapitalerhöhung steht der Übertragung des gezeichneten Kapitals gleich, soweit sie zu einer Veränderung der Beteiligungsquoten am Kapital der Körperschaft führt. ⁴Ein schädlicher Beteiligungserwerb liegt nicht vor, wenn
 
@@ -772,8 +756,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 ⁵Ein nicht abziehbarer nicht genutzter Verlust kann abweichend von Satz 1 abgezogen werden, soweit er die gesamten zum Zeitpunkt des schädlichen Beteiligungserwerbs vorhandenen im Inland steuerpflichtigen stillen Reserven des Betriebsvermögens der Körperschaft nicht übersteigt. ⁶Stille Reserven im Sinne des Satzes 5 sind der Unterschiedsbetrag zwischen dem in der steuerlichen Gewinnermittlung ausgewiesenen Eigenkapital und dem auf dieses Eigenkapital jeweils entfallenden gemeinen Wert der Anteile an der Körperschaft, soweit diese im Inland steuerpflichtig sind. ⁷Ist das Eigenkapital der Körperschaft negativ, sind stille Reserven im Sinne des Satzes 5 der Unterschiedsbetrag zwischen dem in der steuerlichen Gewinnermittlung ausgewiesenen Eigenkapital und dem diesem Anteil entsprechenden gemeinen Wert des Betriebsvermögens der Körperschaft. ⁸Bei der Ermittlung der stillen Reserven ist nur das Betriebsvermögen zu berücksichtigen, das der Körperschaft ohne steuerrechtliche Rückwirkung, insbesondere ohne Anwendung des § 2 Absatz 1 des Umwandlungssteuergesetzes, zuzurechnen ist.
 
-(1a) ¹Für die Anwendung des Absatzes 1 ist ein Beteiligungserwerb zum Zweck der Sanierung des Geschäftsbetriebs der Körperschaft unbeachtlich. ²Sanierung ist eine Maßnahme, die darauf gerichtet ist, die Zahlungsunfähigkeit oder Überschuldung zu verhindern oder zu beseitigen und zugleich die wesentlichen Betriebsstrukturen zu erhalten.  
-³Die Erhaltung der wesentlichen Betriebsstrukturen setzt voraus, dass
+(1a) ¹Für die Anwendung des Absatzes 1 ist ein Beteiligungserwerb zum Zweck der Sanierung des Geschäftsbetriebs der Körperschaft unbeachtlich. ²Sanierung ist eine Maßnahme, die darauf gerichtet ist, die Zahlungsunfähigkeit oder Überschuldung zu verhindern oder zu beseitigen und zugleich die wesentlichen Betriebsstrukturen zu erhalten. ³Die Erhaltung der wesentlichen Betriebsstrukturen setzt voraus, dass
 
 1. die Körperschaft eine geschlossene Betriebsvereinbarung mit einer Arbeitsplatzregelung befolgt oder
 
@@ -787,8 +770,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 
 (+++ § 8c: Zur Anwendung vgl. § 34 +++)
 
-
-## § 8d – Fortführungsgebundener Verlustvortrag
+# § 8d – Fortführungsgebundener Verlustvortrag
 
  
 
@@ -817,8 +799,7 @@ Bei Unterstützungskassen, die voll steuerpflichtig sind, ist § 6 Absatz 5 Satz
 (+++ § 8d: Zur Anwendung vgl. § 34 Abs. 6a +++)  
 (+++ § 8d Abs. 1 Satz 9: Zur Anwendung vgl. § 34 Abs. 3b +++)
 
-
-## § 9 – Abziehbare Aufwendungen
+# § 9 – Abziehbare Aufwendungen
 
 (1) ¹Abziehbare Aufwendungen sind auch:
 
@@ -860,8 +841,7 @@ fördern oder
 
 (+++ § 9: Zur Anwendung vgl. § 34 +++)
 
-
-## § 10 – Nichtabziehbare Aufwendungen
+# § 10 – Nichtabziehbare Aufwendungen
 
 Nichtabziehbar sind auch:
 
@@ -875,8 +855,7 @@ Nichtabziehbar sind auch:
 
 (+++ § 10: Zur Anwendung vgl. § 34 +++)
 
-
-## § 11 – Auflösung und Abwicklung (Liquidation)
+# § 11 – Auflösung und Abwicklung (Liquidation)
 
 (1) ¹Wird ein unbeschränkt Steuerpflichtiger im Sinne des § 1 Abs. 1 Nr. 1 bis 3 nach der Auflösung abgewickelt, so ist der im Zeitraum der Abwicklung erzielte Gewinn der Besteuerung zugrunde zu legen. ²Der Besteuerungszeitraum soll drei Jahre nicht übersteigen.
 
@@ -894,8 +873,7 @@ Nichtabziehbar sind auch:
 
 (+++ § 11 Abs. 1 bis 3: Zur letztmaligen Anwendung vgl. § 37 Abs. 4 Satz 4 +++)
 
-
-## § 12 – Verlust oder Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland
+# § 12 – Verlust oder Beschränkung des Besteuerungsrechts der Bundesrepublik Deutschland
 
 (1) ¹Wird bei der Körperschaft, Personenvereinigung oder Vermögensmasse das Besteuerungsrecht der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung oder der Nutzung eines Wirtschaftsguts ausgeschlossen oder beschränkt, gilt dies als Veräußerung oder Überlassung des Wirtschaftsguts zum gemeinen Wert; § 4 Absatz 1 Satz 5, § 4g und § 15 Abs. 1a des Einkommensteuergesetzes gelten entsprechend. ²Ein Ausschluss oder eine Beschränkung des Besteuerungsrechts hinsichtlich des Gewinns aus der Veräußerung eines Wirtschaftsguts liegt insbesondere vor, wenn ein bisher einer inländischen Betriebsstätte einer Körperschaft, Personenvereinigung oder Vermögensmasse zuzuordnendes Wirtschaftsgut einer ausländischen Betriebsstätte dieser Körperschaft, Personenvereinigung oder Vermögensmasse zuzuordnen ist.
 
@@ -917,8 +895,7 @@ Nichtabziehbar sind auch:
 
 (+++ § 12: Zur Anwendung vgl. § 34 Abs. 8 +++)
 
-
-## § 13 – Beginn und Erlöschen einer Steuerbefreiung
+# § 13 – Beginn und Erlöschen einer Steuerbefreiung
 
 (1) Wird eine steuerpflichtige Körperschaft, Personenvereinigung oder Vermögensmasse von der Körperschaftsteuer befreit, so hat sie auf den Zeitpunkt, in dem die Steuerpflicht endet, eine Schlussbilanz aufzustellen.
 
@@ -934,8 +911,7 @@ Nichtabziehbar sind auch:
 
 (+++ § 13: Zur Anwendung vgl. § 34 Abs. 8b +++)
 
-
-## § 14 – Aktiengesellschaft oder Kommanditgesellschaft auf Aktien als Organgesellschaft
+# § 14 – Aktiengesellschaft oder Kommanditgesellschaft auf Aktien als Organgesellschaft
 
 (1) ¹Verpflichtet sich eine Europäische Gesellschaft, Aktiengesellschaft oder Kommanditgesellschaft auf Aktien mit Geschäftsleitung im Inland und Sitz in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens (Organgesellschaft) durch einen Gewinnabführungsvertrag im Sinne des § 291 Abs. 1 des Aktiengesetzes, ihren ganzen Gewinn an ein einziges anderes gewerbliches Unternehmen abzuführen, ist das Einkommen der Organgesellschaft, soweit sich aus § 16 nichts anderes ergibt, dem Träger des Unternehmens (Organträger) zuzurechnen, wenn die folgenden Voraussetzungen erfüllt sind:
 
@@ -970,20 +946,17 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 (+++ § 14: Zur Anwendung vgl. § 34 Abs. 9 +++)  
 (+++ § 14 Abs. 2: Zur Anwendung vgl. § 34 Abs. 6b +++)
 
-
-## § 15 – Ermittlung des Einkommens bei Organschaft
+# § 15 – Ermittlung des Einkommens bei Organschaft
 
 ¹Bei der Ermittlung des Einkommens bei Organschaft gilt abweichend von den allgemeinen Vorschriften Folgendes:
 
 1. ¹Ein Verlustabzug im Sinne des § 10d des Einkommensteuergesetzes ist bei der Organgesellschaft nicht zulässig. ²Satz 1 steht einer Anwendung von § 3a des Einkommensteuergesetzes nicht entgegen. ³Der für § 3c Absatz 4 Satz 4 des Einkommensteuergesetzes maßgebende Betrag ist der sich nach Anwendung von Nummer 1a ergebende verminderte Sanierungsertrag.
 
-1a.  
-¹Auf einen sich nach § 3a Absatz 3 Satz 4 des Einkommensteuergesetzes ergebenden verbleibenden Sanierungsertrag einer Organgesellschaft ist § 3a Absatz 3 Satz 2, 3 und 5 des Einkommensteuergesetzes beim Organträger anzuwenden. ²Wird der Gewinn des Organträgers gesondert und einheitlich festgestellt, gilt § 3a Absatz 4 des Einkommensteuergesetzes entsprechend. ³Die Sätze 1 und 2 gelten auch, wenn die Voraussetzungen des § 14 Absatz 1 im Sanierungsjahr nicht vorliegen und das Einkommen der Organgesellschaft in einem innerhalb der letzten fünf Jahre vor dem Sanierungsjahr liegenden Veranlagungszeitraum dem Organträger gemäß § 14 Absatz 1 Satz 1 zugerechnet worden ist.
+1a. ¹Auf einen sich nach § 3a Absatz 3 Satz 4 des Einkommensteuergesetzes ergebenden verbleibenden Sanierungsertrag einer Organgesellschaft ist § 3a Absatz 3 Satz 2, 3 und 5 des Einkommensteuergesetzes beim Organträger anzuwenden. ²Wird der Gewinn des Organträgers gesondert und einheitlich festgestellt, gilt § 3a Absatz 4 des Einkommensteuergesetzes entsprechend. ³Die Sätze 1 und 2 gelten auch, wenn die Voraussetzungen des § 14 Absatz 1 im Sanierungsjahr nicht vorliegen und das Einkommen der Organgesellschaft in einem innerhalb der letzten fünf Jahre vor dem Sanierungsjahr liegenden Veranlagungszeitraum dem Organträger gemäß § 14 Absatz 1 Satz 1 zugerechnet worden ist.
 
 2. ¹§ 8b Absatz 1 bis 6 dieses Gesetzes sowie § 4 Absatz 6 und § 12 Absatz 2 Satz 1 des Umwandlungssteuergesetzes sind bei der Organgesellschaft nicht anzuwenden. ²Sind in dem dem Organträger zugerechneten Einkommen Bezüge, Gewinne oder Gewinnminderungen im Sinne des § 8b Absatz 1 bis 3 dieses Gesetzes oder mit solchen Beträgen zusammenhängende Ausgaben im Sinne des § 3c Absatz 2 des Einkommensteuergesetzes, ein Übernahmeverlust im Sinne des § 4 Absatz 6 des Umwandlungssteuergesetzes oder ein Gewinn oder Verlust im Sinne des § 12 Absatz 2 Satz 1 des Umwandlungssteuergesetzes enthalten, sind § 8b dieses Gesetzes, § 4 Absatz 6 und § 12 Absatz 2 des Umwandlungssteuergesetzes sowie § 3 Nummer 40 und § 3c Absatz 2 des Einkommensteuergesetzes bei der Ermittlung des Einkommens des Organträgers anzuwenden; in den Fällen des § 12 Absatz 2 Satz 2 des Umwandlungssteuergesetzes sind neben § 8b dieses Gesetzes auch § 3 Nummer 40 und § 3c Absatz 2 des Einkommensteuergesetzes entsprechend anzuwenden. ³Satz 2 gilt nicht, soweit bei der Organgesellschaft § 8b Abs. 7, 8 oder 10 anzuwenden ist. ⁴Für die Anwendung der Beteiligungsgrenze im Sinne des § 8b Absatz 4 in der Fassung des Artikels 1 des Gesetzes vom 21. März 2013 (BGBl. I S. 561) werden Beteiligungen der Organgesellschaft und Beteiligungen des Organträgers getrennt betrachtet.
 
-2a.  
-¹§ 20 Absatz 1 Satz 1 bis 3 und Absatz 2 bis 4, die §§ 21, 30 Absatz 2, die §§ 42 und 43 Absatz 3, § 44 sowie § 49 Absatz 1 des Investmentsteuergesetzes sind bei der Organgesellschaft nicht anzuwenden. ²Sind in dem dem Organträger zugerechneten Einkommen Erträge im Sinne des § 16 oder § 34 des Investmentsteuergesetzes oder mit solchen Erträgen zusammenhängende Betriebsvermögensminderungen, Betriebsausgaben oder Veräußerungskosten im Sinne des § 21 oder des § 44 des Investmentsteuergesetzes enthalten, sind die §§ 20, 21, 30 Absatz 2, die §§ 42, 43 Absatz 3, § 44 sowie § 49 Absatz 1 des Investmentsteuergesetzes bei der Ermittlung des Einkommens des Organträgers anzuwenden. ³Für Zwecke des Satzes 2 gilt der Organträger als Anleger im Sinne des § 2 Absatz 10 des Investmentsteuergesetzes. ⁴Die bloße Begründung oder Beendigung einer Organschaft nach § 14 Absatz 1 Satz 1 führt nicht zu einer Veräußerung nach § 22 Absatz 1 des Investmentsteuergesetzes. ⁵Die Sätze 1 bis 4 gelten nicht, soweit die Organgesellschaft die Voraussetzungen des § 20 Absatz 1 Satz 4 oder des § 30 Absatz 3 des Investmentsteuergesetzes erfüllt. ⁶Für die Anwendung der Beteiligungsgrenze im Sinne des § 30 Absatz 2 Nummer 2 des Investmentsteuergesetzes werden Beteiligungen der Organgesellschaft und Beteiligungen des Organträgers getrennt betrachtet.
+2a. ¹§ 20 Absatz 1 Satz 1 bis 3 und Absatz 2 bis 4, die §§ 21, 30 Absatz 2, die §§ 42 und 43 Absatz 3, § 44 sowie § 49 Absatz 1 des Investmentsteuergesetzes sind bei der Organgesellschaft nicht anzuwenden. ²Sind in dem dem Organträger zugerechneten Einkommen Erträge im Sinne des § 16 oder § 34 des Investmentsteuergesetzes oder mit solchen Erträgen zusammenhängende Betriebsvermögensminderungen, Betriebsausgaben oder Veräußerungskosten im Sinne des § 21 oder des § 44 des Investmentsteuergesetzes enthalten, sind die §§ 20, 21, 30 Absatz 2, die §§ 42, 43 Absatz 3, § 44 sowie § 49 Absatz 1 des Investmentsteuergesetzes bei der Ermittlung des Einkommens des Organträgers anzuwenden. ³Für Zwecke des Satzes 2 gilt der Organträger als Anleger im Sinne des § 2 Absatz 10 des Investmentsteuergesetzes. ⁴Die bloße Begründung oder Beendigung einer Organschaft nach § 14 Absatz 1 Satz 1 führt nicht zu einer Veräußerung nach § 22 Absatz 1 des Investmentsteuergesetzes. ⁵Die Sätze 1 bis 4 gelten nicht, soweit die Organgesellschaft die Voraussetzungen des § 20 Absatz 1 Satz 4 oder des § 30 Absatz 3 des Investmentsteuergesetzes erfüllt. ⁶Für die Anwendung der Beteiligungsgrenze im Sinne des § 30 Absatz 2 Nummer 2 des Investmentsteuergesetzes werden Beteiligungen der Organgesellschaft und Beteiligungen des Organträgers getrennt betrachtet.
 
 3. ¹§ 4h des Einkommensteuergesetzes ist bei der Organgesellschaft nicht anzuwenden. ²Organträger und Organgesellschaften gelten als ein Betrieb im Sinne des § 4h des Einkommensteuergesetzes. ³Sind in dem dem Organträger zugerechneten Einkommen der Organgesellschaften Zinsaufwendungen und Zinserträge im Sinne des § 4h Abs. 3 des Einkommensteuergesetzes enthalten, sind diese bei Anwendung des § 4h Abs. 1 des Einkommensteuergesetzes beim Organträger einzubeziehen.
 
@@ -995,15 +968,13 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 
 (+++ § 15: Zur Anwendung vgl. § 34 +++)
 
-
-## § 16 – Ausgleichszahlungen
+# § 16 – Ausgleichszahlungen
 
 ¹Die Organgesellschaft hat ihr Einkommen in Höhe von 20/17 der geleisteten Ausgleichszahlungen selbst zu versteuern. ²Ist die Verpflichtung zum Ausgleich vom Organträger erfüllt worden, so hat die Organgesellschaft 20/17 der geleisteten Ausgleichszahlungen an Stelle des Organträgers zu versteuern.
 
 (+++ § 16: Zur erstmaligen Anwendung für den Veranlagungszeitraum 2008 vgl. § 34 Abs. 10a +++)
 
-
-## § 17 – Andere Kapitalgesellschaften als Organgesellschaft
+# § 17 – Andere Kapitalgesellschaften als Organgesellschaft
 
 (1) ¹Die §§ 14 bis 16 gelten entsprechend, wenn eine andere als die in § 14 Absatz 1 Satz 1 bezeichnete Kapitalgesellschaft mit Geschäftsleitung im Inland und Sitz in einem Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des EWR-Abkommens sich wirksam verpflichtet, ihren ganzen Gewinn an ein anderes Unternehmen im Sinne des § 14 abzuführen. ²Weitere Voraussetzung ist, dass
 
@@ -1015,11 +986,9 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 
 (+++ § 17: Zur Anwendung vgl. § 34 Abs. 9 u. 10b +++)
 
+# § 18 – (weggefallen)
 
-## § 18 – (weggefallen)
-
-
-## § 19 – Steuerabzug bei dem Organträger
+# § 19 – Steuerabzug bei dem Organträger
 
 (1) Sind bei der Organgesellschaft die Voraussetzungen für die Anwendung besonderer Tarifvorschriften erfüllt, die einen Abzug von der Körperschaftsteuer vorsehen, und unterliegt der Organträger der unbeschränkten Körperschaftsteuerpflicht, sind diese Tarifvorschriften beim Organträger so anzuwenden, als wären die Voraussetzungen für ihre Anwendung bei ihm selbst erfüllt.
 
@@ -1033,8 +1002,7 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 
 (+++ § 19: Zur Anwendung vgl. § 34 Abs. 7 +++)
 
-
-## § 20 – Schwankungsrückstellungen, Schadenrückstellungen
+# § 20 – Schwankungsrückstellungen, Schadenrückstellungen
 
 (1) ¹Für die Bildung der Rückstellungen zum Ausgleich des schwankenden Jahresbedarfs sind insbesondere folgende Voraussetzungen erforderlich:
 
@@ -1049,8 +1017,7 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 (+++ § 20 Abs. 1: Zur Anwendung vgl. § 34 Abs. 7a +++)  
 (+++ § 20 Abs. 2: Zur erstmaligen Anwendung vgl. § 34 Abs. 7a (F 2015-04-01) +++)
 
-
-## § 21 – Beitragsrückerstattungen
+# § 21 – Beitragsrückerstattungen
 
 (1) ¹Aufwendungen für Beitragsrückerstattungen und Direktgutschriften, die für das selbst abgeschlossene Geschäft gewährt werden, sind abziehbar
 
@@ -1064,15 +1031,13 @@ c) ein von der Finanzverwaltung beanstandeter Fehler spätestens in dem nächste
 
 (+++ § 21: Zur Anwendung vgl. § 34 Abs. 8 +++)
 
-
-## § 21a – Deckungsrückstellungen
+# § 21a – Deckungsrückstellungen
 
 (1) ¹§ 6 Abs. 1 Nr. 3a Buchstabe e des Einkommensteuergesetzes ist von Versicherungsunternehmen und Pensionsfonds mit der der Maßgabe anzuwenden, dass Deckungsrückstellungen im Sinne des § 341f des Handelsgesetzbuchs mit dem sich für die zugrunde liegenden Verträge aus der Bestimmung in Verbindung mit § 25 der Verordnung über die Rechnungslegung von Versicherungsunternehmen oder in Verbindung mit der auf Grund des § 240 Satz 1 Nummer 10 des Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung ergebenden Höchstzinssatz oder einem niedrigeren zulässigerweise verwendeten Zinssatz abgezinst werden können. ²Für die von Schaden- und Unfallversicherungsunternehmen gebildeten Renten-Deckungsrückstellungen kann der Höchstzinssatz, der sich auf Grund der nach § 217 Satz 1 Nummer 7 des Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung ergibt, oder ein niedrigerer zulässigerweise verwendeter Zinssatz zugrunde gelegt werden.
 
 (2) Soweit die in Absatz 1 genannten versicherungsrechtlichen Bestimmungen auf Versicherungsunternehmen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des EWR-Abkommens keine Anwendung finden, können diese entsprechend verfahren.
 
-
-## § 22 – Genossenschaftliche Rückvergütung
+# § 22 – Genossenschaftliche Rückvergütung
 
 (1) ¹Rückvergütungen der Genossenschaften an ihre Mitglieder sind nur insoweit als Betriebsausgaben abziehbar, als die dafür verwendeten Beträge im Mitgliedergeschäft erwirtschaftet worden sind. ²Zur Feststellung dieser Beträge ist der Überschuss
 
@@ -1092,8 +1057,7 @@ aufzuteilen. ³Der hiernach sich ergebende Gewinn aus dem Mitgliedergeschäft bi
 
 ²Nachzahlungen der Genossenschaft für Lieferungen oder Leistungen und Rückzahlungen von Unkostenbeiträgen sind wie genossenschaftliche Rückvergütungen zu behandeln.
 
-
-## § 23 – Steuersatz
+# § 23 – Steuersatz
 
 (1) Die Körperschaftsteuer beträgt 15 Prozent des zu versteuernden Einkommens.
 
@@ -1101,8 +1065,7 @@ aufzuteilen. ³Der hiernach sich ergebende Gewinn aus dem Mitgliedergeschäft bi
 
 (+++ § 23: Zur erstmaligen Anwendung für den Veranlagungszeitraum 2008 vgl. § 34 Abs. 11a +++)
 
-
-## § 24 – Freibetrag für bestimmte Körperschaften
+# § 24 – Freibetrag für bestimmte Körperschaften
 
 ¹Vom Einkommen der steuerpflichtigen Körperschaften, Personenvereinigungen oder Vermögensmassen ist ein Freibetrag von 5 000 Euro, höchstens jedoch in Höhe des Einkommens, abzuziehen. ²Satz 1 gilt nicht
 
@@ -1114,8 +1077,7 @@ aufzuteilen. ³Der hiernach sich ergebende Gewinn aus dem Mitgliedergeschäft bi
 
 (+++ § 24: Zur Anwendung vgl. § 34 +++)
 
-
-## § 25 – Freibetrag für Genossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
+# § 25 – Freibetrag für Genossenschaften sowie Vereine, die Land- und Forstwirtschaft betreiben
 
 (1) ¹Vom Einkommen der steuerpflichtigen Genossenschaften sowie der steuerpflichtigen Vereine, deren Tätigkeit sich auf den Betrieb der Land- und Forstwirtschaft beschränkt, ist ein Freibetrag in Höhe von 15 000 Euro, höchstens jedoch in Höhe des Einkommens, im Veranlagungszeitraum der Gründung und in den folgenden neun Veranlagungszeiträumen abzuziehen. ²Voraussetzung ist, dass
 
@@ -1129,8 +1091,7 @@ nicht wesentlich von dem Verhältnis abweicht, in dem der Wert der von dem einze
 
 (2) Absatz 1 Satz 1 gilt auch für steuerpflichtige Genossenschaften sowie für steuerpflichtige Vereine, die eine gemeinschaftliche Tierhaltung im Sinne des § 51a des Bewertungsgesetzes betreiben.
 
-
-## § 26 – Steuerermäßigung bei ausländischen Einkünften
+# § 26 – Steuerermäßigung bei ausländischen Einkünften
 
 (1) ¹Für die Anrechnung einer der deutschen Körperschaftsteuer entsprechenden ausländischen Steuer auf die deutsche Körperschaftsteuer und für die Berücksichtigung anderer Steuerermäßigungen bei ausländischen Einkünften gelten vorbehaltlich des Satzes 2 und des Absatzes 2 die folgenden Bestimmungen entsprechend:
 
@@ -1144,8 +1105,7 @@ nicht wesentlich von dem Verhältnis abweicht, in dem der Wert der von dem einze
 
 (+++ § 26: Zur Anwendung vgl. § 34 Abs. 9 +++)
 
-
-## § 27 – Nicht in das Nennkapital geleistete Einlagen
+# § 27 – Nicht in das Nennkapital geleistete Einlagen
 
 (1) ¹Die unbeschränkt steuerpflichtige Kapitalgesellschaft hat die nicht in das Nennkapital geleisteten Einlagen am Schluss jedes Wirtschaftsjahrs auf einem besonderen Konto (steuerliches Einlagekonto) auszuweisen. ²Das steuerliche Einlagekonto ist ausgehend von dem Bestand am Ende des vorangegangenen Wirtschaftsjahrs um die jeweiligen Zu- und Abgänge des Wirtschaftsjahrs fortzuschreiben. ³Leistungen der Kapitalgesellschaft mit Ausnahme der Rückzahlung von Nennkapital im Sinne des § 28 Abs. 2 Satz 2 und 3 mindern das steuerliche Einlagekonto unabhängig von ihrer handelsrechtlichen Einordnung nur, soweit sie den auf den Schluss des vorangegangenen Wirtschaftsjahrs ermittelten ausschüttbaren Gewinn übersteigen (Einlagenrückgewähr). ⁴Der Bestand des steuerlichen Einlagekontos kann durch Leistungen nicht negativ werden; Absatz 6 bleibt unberührt. ⁵Als ausschüttbarer Gewinn gilt das um das gezeichnete Kapital geminderte in der Steuerbilanz ausgewiesene Eigenkapital abzüglich des Bestands des steuerlichen Einlagekontos.
 
@@ -1171,8 +1131,7 @@ nicht wesentlich von dem Verhältnis abweicht, in dem der Wert der von dem einze
 
 (8) ¹Eine Einlagenrückgewähr können auch Körperschaften oder Personenvereinigungen erbringen, die in einem anderen Mitgliedstaat der Europäischen Union der unbeschränkten Steuerpflicht unterliegen, wenn sie Leistungen im Sinne des § 20 Abs. 1 Nr. 1 oder 9 des Einkommensteuergesetzes gewähren können. ²Die Einlagenrückgewähr ist in entsprechender Anwendung der Absätze 1 bis 6 und der §§ 28 und 29 zu ermitteln. ³Der als Leistung im Sinne des Satzes 1 zu berücksichtigende Betrag wird auf Antrag der Körperschaft oder Personenvereinigung für den jeweiligen Veranlagungszeitraum gesondert festgestellt. ⁴Der Antrag ist nach amtlich vorgeschriebenem Vordruck bis zum Ende des Kalenderjahrs zu stellen, das auf das Kalenderjahr folgt, in dem die Leistung erfolgt ist. ⁵Zuständig für die gesonderte Feststellung ist die Finanzbehörde, die im Zeitpunkt der Abgabe des Antrags nach § 20 der Abgabenordnung für die Besteuerung nach dem Einkommen örtlich zuständig ist. ⁶Bei Körperschaften oder Personenvereinigungen, für die im Zeitpunkt der Antragstellung nach § 20 der Abgabenordnung keine Finanzbehörde zuständig ist, ist abweichend von Satz 5 das Bundeszentralamt für Steuern zuständig. ⁷Im Antrag sind die für die Berechnung der Einlagenrückgewähr erforderlichen Umstände darzulegen. ⁸In die Bescheinigung nach Absatz 3 ist das Aktenzeichen der nach Satz 5 oder 6 zuständigen Behörde aufzunehmen. ⁹Soweit Leistungen nach Satz 1 nicht gesondert festgestellt worden sind, gelten sie als Gewinnausschüttung, die beim Anteilseigner zu Einnahmen im Sinne des § 20 Abs. 1 Nr. 1 oder 9 des Einkommensteuergesetzes führen.
 
-
-## § 28 – Umwandlung von Rücklagen in Nennkapital und Herabsetzung des Nennkapitals
+# § 28 – Umwandlung von Rücklagen in Nennkapital und Herabsetzung des Nennkapitals
 
 (1) ¹Wird das Nennkapital durch Umwandlung von Rücklagen erhöht, so gilt der positive Bestand des steuerlichen Einlagekontos als vor den sonstigen Rücklagen umgewandelt. ²Maßgeblich ist dabei der sich vor Anwendung des Satzes 1 ergebende Bestand des steuerlichen Einlagekontos zum Schluss des Wirtschaftsjahrs der Rücklagenumwandlung. ³Enthält das Nennkapital auch Beträge, die ihm durch Umwandlung von sonstigen Rücklagen mit Ausnahme von aus Einlagen der Anteilseigner stammenden Beträgen zugeführt worden sind, so sind diese Teile des Nennkapitals getrennt auszuweisen und gesondert festzustellen (Sonderausweis). ⁴§ 27 Abs. 2 gilt entsprechend.
 
@@ -1180,8 +1139,7 @@ nicht wesentlich von dem Verhältnis abweicht, in dem der Wert der von dem einze
 
 (3) Ein Sonderausweis zum Schluss des Wirtschaftsjahrs vermindert sich um den positiven Bestand des steuerlichen Einlagekontos zu diesem Stichtag; der Bestand des steuerlichen Einlagekontos vermindert sich entsprechend.
 
-
-## § 29 – Kapitalveränderungen bei Umwandlungen
+# § 29 – Kapitalveränderungen bei Umwandlungen
 
 (1) In Umwandlungsfällen im Sinne des § 1 des Umwandlungsgesetzes gilt das Nennkapital der übertragenden Kapitalgesellschaft und bei Anwendung des Absatzes 2 Satz 3 und des Absatzes 3 Satz 3 zusätzlich das Nennkapital der übernehmenden Kapitalgesellschaft als in vollem Umfang nach § 28 Abs. 2 Satz 1 herabgesetzt.
 
@@ -1195,8 +1153,7 @@ nicht wesentlich von dem Verhältnis abweicht, in dem der Wert der von dem einze
 
 (6) ¹War für die übertragende Körperschaft oder Personenvereinigung ein Einlagekonto bisher nicht festzustellen, tritt für die Anwendung der vorstehenden Absätze an die Stelle des Einlagekontos der Bestand der nicht in das Nennkapital geleisteten Einlagen zum Zeitpunkt des Vermögensübergangs. ²§ 27 Abs. 8 gilt entsprechend.
 
-
-## § 30 – Entstehung der Körperschaftsteuer
+# § 30 – Entstehung der Körperschaftsteuer
 
 Die Körperschaftsteuer entsteht
 
@@ -1206,8 +1163,7 @@ Die Körperschaftsteuer entsteht
 
 3. für die veranlagte Steuer mit Ablauf des Veranlagungszeitraums, soweit nicht die Steuer nach Nummer 1 oder 2 schon früher entstanden ist.
 
-
-## § 31 – Steuererklärungspflicht, Veranlagung und Erhebung von Körperschaftsteuer
+# § 31 – Steuererklärungspflicht, Veranlagung und Erhebung von Körperschaftsteuer
 
 (1) ¹Auf die Durchführung der Besteuerung einschließlich der Anrechnung, Entrichtung und Vergütung der Körperschaftsteuer sowie die Festsetzung und Erhebung von Steuern, die nach der veranlagten Körperschaftsteuer bemessen werden (Zuschlagsteuern), sind die Vorschriften des Einkommensteuergesetzes entsprechend anzuwenden, soweit dieses Gesetz nichts anderes bestimmt. ²Die sich im Zuge der Festsetzung ergebenden einzelnen Körperschaftsteuerbeträge sind jeweils zu Gunsten des Steuerpflichtigen auf volle Euro-Beträge zu runden. ³§ 37b des Einkommensteuergesetzes findet entsprechende Anwendung.
 
@@ -1215,8 +1171,7 @@ Die Körperschaftsteuer entsteht
 
 (2) Bei einem vom Kalenderjahr abweichenden Wirtschaftsjahr gilt § 37 Abs. 1 des Einkommensteuergesetzes mit der Maßgabe, dass die Vorauszahlungen auf die Körperschaftsteuer bereits während des Wirtschaftsjahrs zu entrichten sind, das im Veranlagungszeitraum endet.
 
-
-## § 32 – Sondervorschriften für den Steuerabzug
+# § 32 – Sondervorschriften für den Steuerabzug
 
 (1) Die Körperschaftsteuer für Einkünfte, die dem Steuerabzug unterliegen, ist durch den Steuerabzug abgegolten,
 
@@ -1266,8 +1221,7 @@ c) im Staat des Orts ihrer Geschäftsleitung ohne Wahlmöglichkeit einer mit § 
 
 (+++ § 32 Abs. 3: Zur Anwendung vgl. § 34 Abs. 13b dieses G u. § 6 Abs. 3 InvStG +++)
 
-
-## § 32a – Erlass, Aufhebung oder Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung oder verdeckter Einlage
+# § 32a – Erlass, Aufhebung oder Änderung von Steuerbescheiden bei verdeckter Gewinnausschüttung oder verdeckter Einlage
 
 (1) ¹Soweit gegenüber einer Körperschaft ein Steuerbescheid hinsichtlich der Berücksichtigung einer verdeckten Gewinnausschüttung erlassen, aufgehoben oder geändert wird, kann ein Steuerbescheid oder ein Feststellungsbescheid gegenüber dem Gesellschafter, dem die verdeckte Gewinnausschüttung zuzurechnen ist, oder einer diesem nahe stehenden Person erlassen, aufgehoben oder geändert werden. ²Die Festsetzungsfrist endet insoweit nicht vor Ablauf eines Jahres nach Unanfechtbarkeit des Steuerbescheides der Körperschaft. ³Die Sätze 1 und 2 gelten auch für verdeckte Gewinnausschüttungen an Empfänger von Bezügen im Sinne des § 20 Abs. 1 Nr. 9 und 10 Buchstabe a des Einkommensteuergesetzes.
 
@@ -1275,8 +1229,7 @@ c) im Staat des Orts ihrer Geschäftsleitung ohne Wahlmöglichkeit einer mit § 
 
 (+++ § 32a: Zur erstmaligen Anwendung vgl. § 34 Abs. 13b +++)
 
-
-## § 33 – Ermächtigungen
+# § 33 – Ermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, zur Durchführung dieses Gesetzes mit Zustimmung des Bundesrates durch Rechtsverordnung
 
@@ -1326,8 +1279,7 @@ e) die die Steuerbefreiung nach § 8b Absatz 1 Satz 1 und Absatz 2 Satz 1 sowie 
 
 (+++ § 20 Abs. 1 Nr. 2 Buchst. d: Zur erstmaligen Anwendung vgl. § 34 Abs. 10a (F 2015-04-01) +++)
 
-
-## § 34 – Schlussvorschriften
+# § 34 – Schlussvorschriften
 
 (1) Diese Fassung des Gesetzes gilt, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2020.
 
@@ -1367,8 +1319,7 @@ e) die die Steuerbefreiung nach § 8b Absatz 1 Satz 1 und Absatz 2 Satz 1 sowie 
 
 (8) ¹§ 21 Absatz 2 Satz 2 Nummer 1 ist für die Veranlagungszeiträume 2016 bis 2018 in der folgenden Fassung anzuwenden:
 
-"1.  
-die Zuführungen innerhalb des am Bilanzstichtag endenden Wirtschaftsjahrs und der vier vorangegangenen Wirtschaftsjahre. ²Der Betrag nach Satz 1 darf nicht niedriger sein als der Betrag, der sich ergeben würde, wenn das am 13. Dezember 2010 geltende Recht weiter anzuwenden wäre,".
+"1. die Zuführungen innerhalb des am Bilanzstichtag endenden Wirtschaftsjahrs und der vier vorangegangenen Wirtschaftsjahre. ²Der Betrag nach Satz 1 darf nicht niedriger sein als der Betrag, der sich ergeben würde, wenn das am 13. Dezember 2010 geltende Recht weiter anzuwenden wäre,".
 
 ²§ 21 in der Fassung des Artikels 7 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) ist anzuwenden:
 
@@ -1447,13 +1398,11 @@ die ihre Umsatzerlöse überwiegend durch Verwaltung und Nutzung eigenen zu Wohn
 
 (7) Die Endbestände sind getrennt auszuweisen und werden gesondert festgestellt; dabei sind die verbleibenden unbelasteten Teilbeträge im Sinne des § 30 Absatz 2 Nummer 1 und 3 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, in einer Summe auszuweisen."
 
-
-## § 35 – Sondervorschriften für Körperschaften, Personenvereinigungen oder Vermögensmassen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+# § 35 – Sondervorschriften für Körperschaften, Personenvereinigungen oder Vermögensmassen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 
 Soweit ein Verlust einer Körperschaft, Personenvereinigung oder Vermögensmasse, die am 31. Dezember 1990 ihre Geschäftsleitung oder ihren Sitz in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und im Jahre 1990 keine Geschäftsleitung und keinen Sitz im bisherigen Geltungsbereich des Körperschaftsteuergesetzes hatte, aus dem Veranlagungszeitraum 1990 auf das Einkommen eines Veranlagungszeitraums, für das das Körperschaftsteuergesetz in der Fassung des Artikels 3 des Gesetzes vom 23. Oktober 2000 (BGBl. I S. 1433) erstmals anzuwenden ist oder eines nachfolgenden Veranlagungszeitraums vorgetragen wird, ist das steuerliche Einlagekonto zu erhöhen.
 
-
-## § 36 – Endbestände
+# § 36 – Endbestände
 
 (1) Auf den Schluss des letzten Wirtschaftsjahrs, das in dem Veranlagungszeitraum endet, für den das Körperschaftsteuergesetz in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), zuletzt geändert durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034), letztmals anzuwenden ist, werden die Endbestände der Teilbeträge des verwendbaren Eigenkapitals ausgehend von den gemäß § 47 Abs. 1 Satz 1 Nr. 1 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, festgestellten Teilbeträgen gemäß den nachfolgenden Absätzen ermittelt.
 
@@ -1472,8 +1421,7 @@ Soweit ein Verlust einer Körperschaft, Personenvereinigung oder Vermögensmasse
 (+++ § 36: Zur Anwendung vgl. § 34 Abs. 13f +++)  
 § 36 Abs. 3 u. Abs. 4 idF v. 23.10.2000: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar gem. BVerfGE v. 17.11.2009; 2010 I 326 - 1 BvR 2192/05 -
 
-
-## § 37 – Körperschaftsteuerguthaben und Körperschaftsteuerminderung
+# § 37 – Körperschaftsteuerguthaben und Körperschaftsteuerminderung
 
 (1) ¹Auf den Schluss des Wirtschaftsjahrs, das dem in § 36 Abs. 1 genannten Wirtschaftsjahr folgt, wird ein Körperschaftsteuerguthaben ermittelt. ²Das Körperschaftsteuerguthaben beträgt 1/6 des Endbestands des mit einer Körperschaftsteuer von 40 Prozent belasteten Teilbetrags.
 
@@ -1505,8 +1453,7 @@ Soweit ein Verlust einer Körperschaft, Personenvereinigung oder Vermögensmasse
 
 (+++ § 37: Zur Anwendung vgl. § 34 Abs. 13d u. 13g +++)
 
-
-## § 38 – Körperschaftsteuererhöhung
+# § 38 – Körperschaftsteuererhöhung
 
 (1) ¹Ein positiver Endbetrag im Sinne des § 36 Abs. 7 aus dem Teilbetrag im Sinne des § 30 Abs. 2 Nr. 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) ist auch zum Schluss der folgenden Wirtschaftsjahre fortzuschreiben und gesondert festzustellen. ²§ 27 Abs. 2 gilt entsprechend. ³Der Betrag verringert sich jeweils, soweit er als für Leistungen verwendet gilt. ⁴Er gilt als für Leistungen verwendet, soweit die Summe der Leistungen, die die Gesellschaft im Wirtschaftsjahr erbracht hat, den um den Bestand des Satzes 1 verminderten ausschüttbaren Gewinn (§ 27) übersteigt. ⁵Maßgeblich sind die Bestände zum Schluss des vorangegangenen Wirtschaftsjahrs. ⁶Die Rückzahlung von Geschäftsguthaben an ausscheidende Mitglieder von Genossenschaften stellt, soweit es sich dabei nicht um Nennkapital im Sinne des § 28 Abs. 2 Satz 2 handelt, keine Leistung im Sinne der Sätze 3 und 4 dar. ⁷Satz 6 gilt nicht, soweit der unbelastete Teilbetrag im Sinne des Satzes 1 nach § 40 Abs. 1 oder Abs. 2 infolge der Umwandlung einer Körperschaft, die nicht Genossenschaft im Sinne des § 34 Absatz 13 ist, übergegangen ist.
 
@@ -1530,15 +1477,13 @@ Soweit ein Verlust einer Körperschaft, Personenvereinigung oder Vermögensmasse
 
 (+++ § 38: Zur Weiteranwendung vgl. § 34 Abs. 13 +++)
 
-
-## § 39 – Einlagen der Anteilseigner und Sonderausweis
+# § 39 – Einlagen der Anteilseigner und Sonderausweis
 
 (1) Ein sich nach § 36 Abs. 7 ergebender positiver Endbetrag des Teilbetrags im Sinne des § 30 Abs. 2 Nr. 4 des Körperschaftsteuergesetzes in der Fassung der Bekanntmachung vom 22. April 1999 (BGBl. I S. 817), das zuletzt durch Artikel 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) geändert worden ist, wird als Anfangsbestand des steuerlichen Einlagekontos im Sinne des § 27 erfasst.
 
 (2) Der nach § 47 Abs. 1 Satz 1 Nr. 2 in der Fassung des Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) zuletzt festgestellte Betrag wird als Anfangsbestand in die Feststellung nach § 28 Abs. 1 Satz 3 einbezogen.
 
-
-## § 40 – (weggefallen)
+# § 40 – (weggefallen)
 
 \-
 

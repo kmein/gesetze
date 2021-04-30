@@ -1,35 +1,27 @@
-# [MVTAusbV] Verordnung über die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall   (Metallverfahrenstechnologenausbildungsverordnung - MVTAusbV)
-
-Ausfertigungsdatum: 04.12.2017
-
+% Verordnung über die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall   (Metallverfahrenstechnologenausbildungsverordnung - MVTAusbV)
+% Ausfertigungsdatum: 04.12.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Verfahrenstechnologen Metall und der Verfahrenstechnologin Metall wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -115,13 +107,11 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 7. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
+# § 6 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -129,8 +119,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (3) Teil 1 findet im vierten Ausbildungshalbjahr statt, Teil 2 am Ende der Berufsausbildung.
 
-
-## § 7 – Inhalt von Teil 1
+# § 7 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -138,8 +127,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich von Teil 1
+# § 8 – Prüfungsbereich von Teil 1
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Metalltechnik statt.
 
@@ -181,8 +169,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (5) Die Prüfungszeit beträgt insgesamt achteinhalb Stunden. Davon entfallen auf die Herstellung des Prüfungsprodukts und die Dokumentation sieben Stunden und auf die Bearbeitung der schriftlichen Aufgaben 90 Minuten.
 
-
-## § 9 – Inhalt von Teil 2
+# § 9 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Eisen- und Stahlmetallurgie auf
 
@@ -192,8 +179,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 10 – Prüfungsbereiche von Teil 2
+# § 10 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallurgie in den folgenden Prüfungsbereichen statt:
 
@@ -205,8 +191,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 11 – Prüfungsbereich Arbeitsauftrag
+# § 11 – Prüfungsbereich Arbeitsauftrag
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -230,8 +215,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 (3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 12 – Prüfungsbereich Auftrags- und Fertigungsplanung
+# § 12 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -251,8 +235,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 13 – Prüfungsbereich Eisen- und stahlmetallurgische Prozesse
+# § 13 – Prüfungsbereich Eisen- und stahlmetallurgische Prozesse
 
 (1) Im Prüfungsbereich Eisen- und stahlmetallurgische Prozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -272,8 +255,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -281,8 +263,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Eisen- und Stahlmetallur
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Eisen- und Stahlmetallurgie wie folgt zu gewichten:
 
@@ -325,8 +306,7 @@ metallurgische Prozesse</td><td style="text-align: right;">mit 10 Prozent sowie<
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 16 – Inhalt von Teil 2
+# § 16 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Stahlumformung auf
 
@@ -336,8 +316,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 17 – Prüfungsbereiche von Teil 2
+# § 17 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den folgenden Prüfungsbereichen statt:
 
@@ -349,8 +328,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 18 – Prüfungsbereich Arbeitsauftrag
+# § 18 – Prüfungsbereich Arbeitsauftrag
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -374,8 +352,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 (3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 19 – Prüfungsbereich Auftrags- und Fertigungsplanung
+# § 19 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -395,8 +372,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 20 – Prüfungsbereich Stahlumformprozesse
+# § 20 – Prüfungsbereich Stahlumformprozesse
 
 (1) Im Prüfungsbereich Stahlumformprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -420,8 +396,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 21 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 21 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -429,8 +404,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 22 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 22 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Stahlumformung wie folgt zu gewichten:
 
@@ -474,8 +448,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Stahlumformung in den fo
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 23 – Inhalt von Teil 2
+# § 23 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Nichteisenmetallurgie auf
 
@@ -485,8 +458,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 24 – Prüfungsbereiche von Teil 2
+# § 24 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in den folgenden Prüfungsbereichen statt:
 
@@ -498,8 +470,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 25 – Prüfungsbereich Arbeitsauftrag
+# § 25 – Prüfungsbereich Arbeitsauftrag
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -523,8 +494,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 (3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 26 – Prüfungsbereich Auftrags- und Fertigungsplanung
+# § 26 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -544,8 +514,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 27 – Prüfungsbereich Nichteisenmetallurgische Prozesse
+# § 27 – Prüfungsbereich Nichteisenmetallurgische Prozesse
 
 (1) Im Prüfungsbereich Nichteisenmetallurgische Prozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -567,8 +536,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 28 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 28 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitwelt darzustellen und zu beurteilen.
 
@@ -576,8 +544,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallurgie in
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 29 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 29 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Nichteisenmetallurgie wie folgt zu gewichten:
 
@@ -620,8 +587,7 @@ Prozesse</td><td style="text-align: right;">mit 10 Prozent sowie</td></tr></tbod
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 30 – Inhalt von Teil 2
+# § 30 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich in der Fachrichtung Nichteisenmetallumformung auf
 
@@ -631,8 +597,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 31 – Prüfungsbereiche von Teil 2
+# § 31 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformung in den folgenden Prüfungsbereichen statt:
 
@@ -644,8 +609,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 32 – Prüfungsbereich Arbeitsauftrag
+# § 32 – Prüfungsbereich Arbeitsauftrag
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -669,8 +633,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 (3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 33 – Prüfungsbereich Auftrags- und Fertigungsplanung
+# § 33 – Prüfungsbereich Auftrags- und Fertigungsplanung
 
 (1) Im Prüfungsbereich Auftrags- und Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -690,8 +653,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 34 – Prüfungsbereich Nichteisenmetallumformprozesse
+# § 34 – Prüfungsbereich Nichteisenmetallumformprozesse
 
 (1) Im Prüfungsbereich Nichteisenmetallumformprozesse soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -715,8 +677,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 35 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 35 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -724,8 +685,7 @@ Teil 2 der Abschlussprüfung findet in der Fachrichtung Nichteisenmetallumformun
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 36 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 36 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Nichteisenmetallumformung wie folgt zu gewichten:
 
@@ -768,19 +728,16 @@ prozesse</td><td style="text-align: right;">mit 10 Prozent sowie</td></tr></tbod
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 37 – Anrechnung von Ausbildungszeiten
+# § 37 – Anrechnung von Ausbildungszeiten
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Metalltechnik kann im Umfang von 18 Monaten auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
 (2) Die erfolgreich abgeschlossene Berufsausbildung zur Maschinen- und Anlagenführerin und zum Maschinen- und Anlagenführer im Schwerpunkt Metall- und Kunststofftechnik kann im Umfang von 18 Monaten auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
-
-## § 38 – Inkrafttreten, Außerkrafttreten
+# § 38 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie vom 28. Mai 1997 (BGBl. I S. 1260), die durch Artikel 2 der Verordnung vom 2. Juli 2015 (BGBl. I S. 1134) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall
 
 (Fundstelle: BGBl. I 2017, 3843 - 3852)

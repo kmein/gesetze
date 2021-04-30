@@ -1,34 +1,27 @@
-# [AZRG-DV] Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister  (AZRG-Durchführungsverordnung - AZRG-DV)
-
-Ausfertigungsdatum: 17.05.1995
-
+% Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister  (AZRG-Durchführungsverordnung - AZRG-DV)
+% Ausfertigungsdatum: 17.05.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 40 Abs. 1 des AZR-Gesetzes vom 2. September 1994 (BGBl. I S. 2265) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Inhalt der Datensätze
+# § 1 – Inhalt der Datensätze
 
 Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben sich aus Spalte A der Abschnitte I und II der Anlage zu dieser Verordnung. Spalte A1 des Abschnitts I der Anlage zu dieser Verordnung ist zu entnehmen, ob die Angaben für Ausländer, die keine Unionsbürger sind, oder für Unionsbürger, bei denen eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts vorliegt, oder für Unionsbürger, bei denen eine solche Feststellung nicht vorliegt, gelten. Bei der Speicherung des Vollzugs der Abschiebung und im Falle der Auslieferung wird im Register auch gespeichert, seit wann sich die betroffene Person nicht mehr im Bundesgebiet aufhält.
 
-
-## § 2 – AZR-Nummer
+# § 2 – AZR-Nummer
 
 (1) Die Registerbehörde vergibt die AZR-Nummer als Geschäftszeichen bei der erstmaligen Speicherung von Daten eines Ausländers im allgemeinen Datenbestand. Das Geschäftszeichen darf keine Rückschlüsse auf Daten über der betroffenen Person zulassen. Es wird dem Datensatz automatisch zugeordnet.
 
 (2) Die Registerbehörde stellt sicher, daß bei einer Verwendung des Geschäftszeichens für Datenübermittlungen an die Registerbehörde oder für Übermittlungsersuchen fehlerhafte Angaben des Geschäftszeichens erkannt werden und keine Verarbeitung der Daten erfolgt.
 
-
-## § 3 – Berichtigung eines Datensatzes
+# § 3 – Berichtigung eines Datensatzes
 
 (1) Die Registerbehörde hat unabhängig von der Verantwortung der öffentlichen Stellen nach § 8 Abs. 1 des AZR-Gesetzes Hinweise auf eine mögliche Unrichtigkeit der gespeicherten Daten zu prüfen und unrichtige Daten zu berichtigen. Stellt sie fest, daß zu einem Ausländer im allgemeinen Datenbestand mehrere Datensätze bestehen, führt sie diese zu einem Datensatz zusammen. Über eine Zusammenführung von Datensätzen werden die aktenführenden Behörden unterrichtet. Soweit anlässlich der Zusammenführung eine Berichtigung übermittelter Daten vorgenommen wird, werden auch diejenigen Stellen unterrichtet, die diese Daten übermittelt haben (§ 38 Absatz 1 Satz 2 AZRG).
 
 (2) Stellt die Registerbehörde fest, daß im allgemeinen Datenbestand des Registers Datensätze verschiedener Personen übereinstimmende oder nur geringfügig voneinander abweichende Grundpersonalien enthalten, speichert sie einen Hinweis auf die Personenverschiedenheit.
 
-
-## § 4 – Allgemeine Regelungen
+# § 4 – Allgemeine Regelungen
 
 (1) Die öffentlichen Stellen, die nach dem AZR-Gesetz verpflichtet oder berechtigt sind, an die Registerbehörde Daten zu übermitteln, die im Register zu speichern sind, ergeben sich aus Spalte C der Abschnitte I und II der Anlage zu dieser Verordnung.
 
@@ -44,8 +37,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (7) Für die Datenübermittlung durch die Ausländerbehörden an die Registerbehörde wird das Übermittlungsprotokoll OSCI-Transport in der im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet. Für die Datenübermittlung durch Ausländerbehörden und andere öffentliche Stellen an die Registerbehörde wird das Datenaustauschformat „XAusländer“ in der im Bundesanzeiger bekannt gemachten gültigen Fassung verwendet. Die Bekanntmachung erfolgt für das Datenaustauschformat „XAusländer“ durch das Bundesministerium des Innern, für Bau und Heimat und für das Übermittlungsprotokoll OSCI-Transport durch die Koordinierungsstelle für IT-Standards (KoSIT). Ein vom OSCI-Transport abweichendes Übermittlungsprotokoll kann eingesetzt werden, soweit dies hinsichtlich der Datensicherheit und des Datenschutzes ein entsprechendes Niveau aufweist. Die Gleichwertigkeit ist durch die verantwortliche Stelle zu dokumentieren. Die Möglichkeiten zur sicheren Verschlüsselung und Signatur sind bei der Übertragung zu nutzen.
 
-
-## § 5 – Verfahren der Datenübermittlung
+# § 5 – Verfahren der Datenübermittlung
 
 (1) Die öffentlichen Stellen, die Daten direkt eingeben dürfen, haben zuvor durch Abruf im automatisierten Verfahren festzustellen, ob im allgemeinen Datenbestand des Registers zu der betroffenen Person bereits ein Datensatz besteht. Besteht ein solcher Datensatz, sind diesem die zu übermittelnden Daten unter Angabe der AZR-Nummer zuzuordnen. Vor einer Zuordnung zu einem bereits vorhandenen Datensatz sind Zweifel an der Identität der Person, deren Daten im Register gespeichert sind, mit der Person, deren Daten zugeordnet werden sollen, auszuräumen. Ergibt der Abruf nach Satz 1, dass die Grundpersonalien, das Lichtbild oder Fingerabdruckdaten der Person, deren Daten im allgemeinen Datenbestand des Registers gespeichert werden sollen, mit den Grundpersonalien, dem Lichtbild oder Fingerabdruckdaten einer anderen Person, zu der bereits ein Datensatz im Register besteht, übereinstimmen oder nur geringfügig davon abweichen, darf die eingebende Stelle einen weiteren Datensatz nur anlegen, wenn sie eindeutig festgestellt hat, dass es sich um verschiedene Personen handelt, und wenn sie einen Hinweis auf Personenverschiedenheit speichert.
 
@@ -53,8 +45,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (3) Daten, die nach § 29 Abs. 1 Nr. 6 bis 12 des AZR-Gesetzes gespeichert werden, sind unter Angabe der Visadatei-Nummer, des Familiennamens und der Vornamen der betroffenen Person zu übermitteln, damit diese Daten dem Datensatz zugespeichert werden können, der im konkreten Visumverfahren anlässlich der Übermittlung der Daten zum Visumantrag in der AZR-Visadatei angelegt wurde. Die Registerbehörde hat programmtechnische Vorkehrungen zu treffen, dass eine Speicherung dieser Daten als neuer Datensatz ausgeschlossen ist.
 
-
-## § 6 – Begründungstexte
+# § 6 – Begründungstexte
 
 (1) Die Daten, bei deren Übermittlung Begründungstexte nach § 6 Abs. 5 des AZR-Gesetzes zu übersenden sind, ergeben sich aus Spalte A des Abschnitts III der Anlage zu dieser Verordnung. Begründungstexte sind unverzüglich zu übersenden.
 
@@ -62,8 +53,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (3) Die bei der Registerbehörde aufbewahrten Begründungstexte sind unverzüglich zu vernichten, sobald die Daten gelöscht werden, auf die sie sich beziehen.
 
-
-## § 7 – Übermittlungssperren
+# § 7 – Übermittlungssperren
 
 (1) Jeder Ausländer, dessen Daten im allgemeinen Datenbestand des Registers gespeichert sind, kann eine Übermittlungssperre nach § 4 des AZR-Gesetzes beantragen. Der Antrag ist schriftlich oder zur Niederschrift unter Angabe der Gründe bei der Registerbehörde oder der aktenführenden Ausländerbehörde zu stellen. Befindet sich die betroffene Person in einem Asylverfahren, kann sie den Antrag auch bei der für das Asylverfahren zuständigen Organisationseinheit im Bundesamt für Migration und Flüchtlinge stellen. Die Stelle, bei der der Antrag gestellt ist, entscheidet über den Antrag.
 
@@ -89,8 +79,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 (9) Unterlagen zu einer Übermittlungssperre sind ein Jahr nach Löschung der Übermittlungssperre zu vernichten. Wird ein Antrag auf Übermittlungssperre abgelehnt, sind die Unterlagen ein Jahr nach der Entscheidung zu vernichten.
 
-
-## § 8 – Übermittlungsersuchen
+# § 8 – Übermittlungsersuchen
 
 (1) Jede öffentliche Stelle, die um Übermittlung von Daten aus dem Register ersucht, hat vor dem Übermittlungsersuchen zu prüfen, ob die Kenntnis der im Register gespeicherten Daten zur Erfüllung ihrer Aufgaben erforderlich ist.
 
@@ -102,8 +91,7 @@ Die Daten, die im Ausländerzentralregister gespeichert werden dürfen, ergeben 
 
 2. asylrechtliche Aufgabe,
 
-2a.  
-Migration und Integration,
+2a. Migration und Integration,
 
 3. Gewährleistung des grenzpolizeilichen Schutzes des Bundesgebietes,
 
@@ -141,8 +129,7 @@ Migration und Integration,
 
 20. Visaverfahren,
 
-20a.  
-beschleunigtes Fachkräfteverfahren nach § 81a des Aufenthaltsgesetzes,
+20a. beschleunigtes Fachkräfteverfahren nach § 81a des Aufenthaltsgesetzes,
 
 21. Zuverlässigkeitsüberprüfung nach § 7 des Luftsicherheitsgesetzes und § 12b des Atomgesetzes,
 
@@ -174,8 +161,7 @@ beschleunigtes Fachkräfteverfahren nach § 81a des Aufenthaltsgesetzes,
 
 (6) Ähnliche Personen nach § 10 Abs. 3, § 21 Abs. 3 und § 31 Abs. 1 des AZR-Gesetzes sind solche Personen, deren Grundpersonalien, Lichtbilder, Fingerabdruckdaten, abweichende Namenschreibweisen, andere Namen, frühere Namen, Aliaspersonalien oder Angaben zum Ausweispapier oder Aufenthaltstitel mit den im Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern, Fingerabdruckdaten oder Angaben zum Ausweispapier oder Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
-
-## § 9 – Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
+# § 9 – Allgemeine Regelungen der Datenübermittlung durch die Registerbehörde
 
 (1) Der Umfang der Daten, die die Registerbehörde nach dem AZR-Gesetz an die jeweils ersuchende Stelle übermitteln und weitergeben darf, ergibt sich aus den Spalten A und D der Abschnitte I und II der Anlage zu dieser Verordnung.
 
@@ -187,8 +173,7 @@ beschleunigtes Fachkräfteverfahren nach § 81a des Aufenthaltsgesetzes,
 
 (5) § 4 Absatz 7 gilt für die Datenübermittlung durch die Registerbehörde an öffentliche Stellen entsprechend.
 
-
-## § 10 – Zulassung zum Abruf im automatisierten Verfahren
+# § 10 – Zulassung zum Abruf im automatisierten Verfahren
 
 (1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren nach § 22 Abs. 1 des AZR-Gesetzes ist schriftlich bei der Registerbehörde zu beantragen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes ist die Zustimmung der für den Antragsteller zuständigen obersten Bundes- oder Landesbehörde einzuholen. In der Antragsbegründung ist darzulegen, daß die Einrichtung des automatisierten Abrufverfahrens wegen der Häufigkeit der Übermittlungsersuchen oder der Eilbedürftigkeit angemessen ist, und in welchem Umfang und an welchen Standorten Einrichtungen zum Datenabruf im automatisierten Verfahren geschaffen werden sollen. Die Registerbehörde ist berechtigt, entsprechende Nachweise zu verlangen. Im Fall des § 22 Abs. 1 Nr. 9 des AZR-Gesetzes holt sie die Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ein, wenn sie dem Antrag stattgeben will.
 
@@ -196,8 +181,7 @@ beschleunigtes Fachkräfteverfahren nach § 81a des Aufenthaltsgesetzes,
 
 (3) Die Registerbehörde führt ein Verzeichnis der zum Abruf im automatisierten Verfahren zugelassenen öffentlichen Stellen und der getroffenen Maßnahmen. Die Registerbehörde hat die Zulassungsunterlagen zusammen mit dem Verzeichnis aufzubewahren sowie die Unterlagen gegen den Zugriff durch Unbefugte zu sichern.
 
-
-## § 11 – Gruppenauskünfte an öffentliche Stellen
+# § 11 – Gruppenauskünfte an öffentliche Stellen
 
 (1) Das Ersuchen um Gruppenauskunft muß die Merkmale bezeichnen, nach denen die Gruppenauskunft erfolgen soll. Gruppenmerkmale können sein
 
@@ -217,15 +201,13 @@ Merkmalsauswahl und Auskunftsumfang bei einer Gruppenauskunft sind auf die Daten
 
 (5) Die Unterrichtung nach § 12 Abs. 3 des AZR-Gesetzes umfaßt die in Absatz 1 bezeichneten Merkmale, nach denen die Gruppenauskunft erfolgt, sowie die Angabe der ersuchenden Stelle und den Zweck der Gruppenauskunft. Bei Gruppenauskünften an die in § 20 des AZR-Gesetzes bezeichneten Stellen ist neben der ersuchenden Stelle nur mitzuteilen, aus welchem der in § 12 Abs. 1 Satz 2 des AZR-Gesetzes bezeichneten Gründen die Gruppenauskunft erfolgt ist.
 
-
-## § 12 – Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
+# § 12 – Datenübermittlung an nichtöffentliche Stellen, die humanitäre oder soziale Aufgaben wahrnehmen
 
 (1) Nichtöffentliche Stellen, die nach § 25 des AZR-Gesetzes um Übermittlung von Daten ersuchen, haben gegenüber der Registerbehörde nachzuweisen, daß sie zur Erfüllung ihrer humanitären oder sozialen Aufgaben nach Verschollenen zur Familienzusammenführung suchen oder Unterstützung in Vormundschafts- und Unterhaltsangelegenheiten leisten. Sie haben die hierfür erforderlichen Unterlagen, insbesondere Satzungen, auf Anforderung der Registerbehörde in beglaubigter Abschrift vorzulegen. Die Registerbehörde kann auf die Vorlage verzichten, wenn die in Satz 1 bezeichnete Aufgabenstellung allgemein bekannt oder der Nachweis bereits erbracht ist. Sie führt ein Verzeichnis der Stellen, denen sie Daten übermitteln darf.
 
 (2) Liegen die Voraussetzungen für eine Datenübermittlung nicht vor, teilt die Registerbehörde der ersuchenden Stelle mit, daß eine Auskunft nicht möglich ist.
 
-
-## § 13 – Datenübermittlung an Behörden anderer Staaten und an zwischenstaatliche Stellen
+# § 13 – Datenübermittlung an Behörden anderer Staaten und an zwischenstaatliche Stellen
 
 (1) Behörden anderer Staaten richten ihre Übermittlungsersuchen, soweit es sich bei der betroffenen Person um einen Angehörigen ihres Staates handelt, über ihre Auslandsvertretung an die Registerbehörde. Besitzt die betroffene Person die Staatsangehörigkeit eines dritten Staates, leitet die Auslandsvertretung das Übermittlungsersuchen über das Auswärtige Amt an die Registerbehörde. Zwischenstaatliche Stellen leiten ihre Übermittlungsersuchen über das Auswärtige Amt an die Registerbehörde. Das Bundesministerium des Innern, für Bau und Heimat kann mit Zustimmung des Auswärtigen Amtes abweichende Regelungen treffen. Regelungen in völkerrechtlichen Vereinbarungen bleiben unberührt.
 
@@ -233,15 +215,13 @@ Merkmalsauswahl und Auskunftsumfang bei einer Gruppenauskunft sind auf die Daten
 
 (3) § 12 Abs. 2 gilt entsprechend.
 
-
-## § 14 – Datenübermittlung an sonstige nichtöffentliche Stellen
+# § 14 – Datenübermittlung an sonstige nichtöffentliche Stellen
 
 (1) Sonstige nichtöffentliche Stellen im Sinne des § 27 des AZR-Gesetzes haben gegenüber der Registerbehörde nachzuweisen, daß die Nachfrage bei der zuletzt zuständigen Meldebehörde erfolglos geblieben ist. Der Nachweis ist durch Vorlage einer entsprechenden Auskunft der Meldebehörde zu erbringen, die nicht älter als vier Wochen sein soll.
 
 (2) § 12 Abs. 2 gilt entsprechend.
 
-
-## § 15 – Voraussetzungen und Verfahren der Auskunftserteilung
+# § 15 – Voraussetzungen und Verfahren der Auskunftserteilung
 
 (1) Die betroffene Person kann nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) jederzeit einen Antrag auf Auskunftserteilung stellen. Der Antrag kann auch von einem gesetzlichen oder bevollmächtigten Vertreter gestellt werden.
 
@@ -251,8 +231,7 @@ Merkmalsauswahl und Auskunftsumfang bei einer Gruppenauskunft sind auf die Daten
 
 (4) Erteilt die Registerbehörde keine Auskunft, kann die betroffene Person die nach § 34 Abs. 5 des AZR-Gesetzes mögliche Auskunftserteilung an die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit schriftlich bei der Registerbehörde verlangen. Die zur datenschutzrechtlichen Kontrolle schriftlich niedergelegte Begründung ist mit Fristablauf zu vernichten, wenn sie nicht für ein bereits eingeleitetes Kontrollverfahren benötigt wird.
 
-
-## § 16 – Aufzeichnungen bei Datenübermittlungen
+# § 16 – Aufzeichnungen bei Datenübermittlungen
 
 (1) Die Registerbehörde hat sicherzustellen, daß die Aufzeichnungen nach den §§ 9, 13 und 31 Abs. 3 des AZR-Gesetzes bei der Eingabe und beim Abruf von Daten, die von ihr selbst oder von anderen Stellen vorgenommen werden, durch ein selbsttätiges Verfahren erfolgen. Sie hat sich unabhängig von Prüfungen durch die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit durch regelmäßige Kontrollen von der ordnungsgemäßen Funktion dieses Verfahrens zu überzeugen.
 
@@ -260,15 +239,13 @@ Merkmalsauswahl und Auskunftsumfang bei einer Gruppenauskunft sind auf die Daten
 
 (3) Mitteilungen nach § 11 Abs. 1 Satz 3 und Abs. 2 Satz 3 des AZR-Gesetzes sind sechs Monate nach Eingang bei der Registerbehörde zu vernichten, wenn sie nicht für ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
-
-## § 17 – Einschränkung der Verarbeitung
+# § 17 – Einschränkung der Verarbeitung
 
 (1) Das Bestreiten der Richtigkeit gespeicherter Daten hat schriftlich gegenüber der Registerbehörde zu erfolgen. Die betroffene Person soll bei der Ermittlung des Sachverhalts mitwirken. Insbesondere soll sie ihr bekannte Tatsachen und Beweismittel angeben.
 
 (2) Läßt sich weder die Richtigkeit noch die Unrichtigkeit der bestrittenen Daten zur Überzeugung der Registerbehörde feststellen, wird der Datensatz der betroffenen Person mit Ausnahme der Grundpersonalien und der weiteren Personalien in der Verarbeitung eingeschränkt. Die Angaben der betroffenen Person zu ihren Grundpersonalien und ihren weiteren Personalien gelten als richtig, soweit sich nicht nachweisen läßt, daß die davon abweichenden gespeicherten Daten richtig sind. Geht ein Übermittlungsersuchen über die Grundpersonalien und die weiteren Personalien hinaus, wird der ersuchenden Stelle außer in den Fällen des § 37 Abs. 2 Satz 3 des AZR-Gesetzes nur der Hinweis auf die Einschränkung der Verarbeitung übermittelt.
 
-
-## § 18 – Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand
+# § 18 – Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand
 
 (1) Im allgemeinen Datenbestand des Registers ist der Datensatz eines Ausländers, der das Inland verlassen hat, spätestens zehn Jahre nach der Ausreise zu löschen. Der Datensatz eines verstorbenen Ausländers ist spätestens fünf Jahre nach seinem Tod zu löschen. Die Fristen beginnen mit Ablauf des Vierteljahres, in dem das maßgebliche Ereignis eingetreten ist.
 
@@ -314,27 +291,23 @@ Die Fristen beginnen mit Ablauf des Vierteljahres, in dem die Daten übermittelt
 
 (4) Daten werden im Übrigen gelöscht, wenn die ihnen zugrunde liegenden Maßnahmen zurückgenommen, widerrufen, anderweitig aufgehoben oder durch Ablauf ihrer Befristung oder auf andere Weise erledigt sind. Bereits im Register gespeicherte Angaben zum aufenthaltsrechtlichen Status werden durch Speicherung weiterer Angaben zum aufenthaltsrechtlichen Status nicht gelöscht.
 
-
-## § 19 – Löschung von Daten, Löschungsfristen in der Visadatei
+# § 19 – Löschung von Daten, Löschungsfristen in der Visadatei
 
 In der Visadatei des Registers ist der Datensatz eines Ausländers spätestens nach fünf Jahren zu löschen, wenn Daten nach § 29 Abs. 1 des AZR-Gesetzes gespeichert sind. Sind zusätzlich Daten nach § 29 Abs. 2 des AZR-Gesetzes gespeichert, erfolgt eine Löschung spätestens nach zehn Jahren. Die Fristen beginnen mit Ablauf des Vierteljahres, in dem letztmals Daten übermittelt worden sind.
 
-
-## § 19a – Auswirkungen späterer Rechtsänderungen auf den Registerbestand
+# § 19a – Auswirkungen späterer Rechtsänderungen auf den Registerbestand
 
 (1) Bis zum Inkrafttreten einer Rechtsänderung gespeicherte Angaben zum aufenthaltsrechtlichen Status im Sinne des § 2 Absatz 2 Nummer 3 in Verbindung mit § 3 Absatz 1 Nummer 6 oder § 2 Absatz 3 Nummer 3 und 4 in Verbindung mit § 3 Absatz 4 Nummer 6 des AZR-Gesetzes bleiben auch dann gespeichert, wenn sie nach Inkrafttreten der Rechtsänderung nicht mehr oder nicht mehr unter derselben Bezeichnung vorgesehen sind, es sei denn, das ändernde Gesetz oder die ändernde Verordnung trifft eine abweichende Regelung. § 18 bleibt unberührt.
 
 (2) Daten nach Absatz 1, die aufgrund der jeweils bis zur Rechtsänderung geltenden Fassung der Verordnung gespeichert wurden, deren Speicherung aber in der neuen Fassung nicht mehr vorgesehen ist, übermittelt die Registerbehörde entsprechend den Vorschriften über ihrer Art nach vergleichbare Daten.
 
-
-## § 19b – Auswirkungen eines späteren Wechsels des Personenkreises auf den Datensatz zu einer Person
+# § 19b – Auswirkungen eines späteren Wechsels des Personenkreises auf den Datensatz zu einer Person
 
 (1) Daten zu einem Unionsbürger, die vor dem Erwerb der Unionsbürgerschaft gespeichert wurden, dürfen weiter gespeichert bleiben, sofern es sich um Daten nach § 3 Absatz 4 in Verbindung mit § 2 Absatz 3 des AZR-Gesetzes handelt. Daten zu einem Drittstaatsangehörigen, die vor dem Erwerb der Staatsangehörigkeit des Drittstaats gespeichert wurden, dürfen weiter gespeichert bleiben, sofern es sich um Daten nach § 3 Absatz 1 in Verbindung mit § 2 Absatz 1 oder 2 des AZR-Gesetzes handelt. § 18 bleibt unberührt.
 
 (2) Daten, die nach Absatz 1 weiterhin zulässig gespeichert sind, übermittelt die Registerbehörde entsprechend den Vorschriften über ihrer Art nach vergleichbare Daten.
 
-
-## § 20 – Übergangsregelung aus Anlass des Inkrafttretens des Zuwanderungsgesetzes
+# § 20 – Übergangsregelung aus Anlass des Inkrafttretens des Zuwanderungsgesetzes
 
 (1) Bis zum 31. Dezember 2004 gespeicherte Angaben zum aufenthaltsrechtlichen Status im Sinne des § 2 Abs. 2 Nr. 3 in Verbindung mit § 3 Absatz 1 Nummer 6 oder Absatz 4 Nummer 6 des AZR-Gesetzes bleiben auch nach Inkrafttreten des Zuwanderungsgesetzes gespeichert. Nach dem Aufenthaltsgesetz oder dem Freizügigkeitsgesetz/EU zulässige neue Maßnahmen und Entscheidungen sind erst zu speichern, wenn sie im Einzelfall getroffen werden.
 
@@ -348,18 +321,15 @@ In der Visadatei des Registers ist der Datensatz eines Ausländers spätestens n
 
 (6) Die Löschungsfrist nach § 18 Abs. 3 Nr. 2 gilt auch für gespeicherte Daten zur Ausstellung eines Passersatzes nach § 14 der Verordnung zur Durchführung des Ausländergesetzes.
 
-
-## § 21 – Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex
+# § 21 – Übergangsregelung aus Anlass des Inkrafttretens des Gesetzes zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex
 
 Angaben zu den mit dem Gesetz zur Umsetzung aufenthaltsrechtlicher Richtlinien der Europäischen Union und zur Anpassung nationaler Rechtsvorschriften an den EU-Visakodex neu geschaffenen Speichersachverhalten werden übermittelt, sobald hierfür die informationstechnischen Voraussetzungen geschaffen worden sind, spätestens jedoch sechs Monate nach Inkrafttreten dieses Gesetzes. Soweit bis dahin diese Daten nicht übermittelt worden sind, ist die zuständige Stelle verpflichtet, ihre Übermittlung unverzüglich nachzuholen.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
+# Anlage – Daten, die im Register gespeichert werden, übermittelnde Stellen, Übermittlungs-/Weitergabeempfänger
 
 (Fundstelle: BGBl. I 2007, 2012 - 2047;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)  

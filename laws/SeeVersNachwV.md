@@ -1,10 +1,7 @@
-# [SeeVersNachwV] Verordnung über die Ausstellung von Haftungsbescheinigungen nach dem Seeversicherungsnachweisgesetz  (Seeversicherungsnachweisverordnung - SeeVersNachwV)
-
-Ausfertigungsdatum: 27.06.2013
-
+% Verordnung über die Ausstellung von Haftungsbescheinigungen nach dem Seeversicherungsnachweisgesetz  (Seeversicherungsnachweisverordnung - SeeVersNachwV)
+% Ausfertigungsdatum: 27.06.2013
  
-
-## § 1 – Begriffsbestimmung
+# § 1 – Begriffsbestimmung
 
 Haftungsbescheinigung im Sinne dieser Verordnung ist
 
@@ -12,8 +9,7 @@ Haftungsbescheinigung im Sinne dieser Verordnung ist
 
 2. eine Personenhaftungsbescheinigung nach § 6 des Seeversicherungsnachweisgesetzes.
 
-
-## § 2 – Antrag auf Ausstellung einer Wrackbeseitigungshaftungsbescheinigung
+# § 2 – Antrag auf Ausstellung einer Wrackbeseitigungshaftungsbescheinigung
 
 (1) Eine Wrackbeseitigungshaftungsbescheinigung ist schriftlich oder elektronisch zu beantragen. Der Antrag muss enthalten:
 
@@ -37,8 +33,7 @@ b) eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Versiche
 
 3. für ein Schiff, das nicht die Bundesflagge führt, die Angabe eines Zustellungsbevollmächtigten mit ständigem Wohnsitz oder Sitz im Inland und eine schriftliche Vollmacht für diesen.
 
-
-## § 3 – Antrag auf Ausstellung einer Personenhaftungsbescheinigung
+# § 3 – Antrag auf Ausstellung einer Personenhaftungsbescheinigung
 
 (1) Eine Personenhaftungsbescheinigung ist schriftlich oder elektronisch zu beantragen. Der Antrag muss enthalten:
 
@@ -60,8 +55,7 @@ b) eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Versiche
 
 3. für einen Beförderer, der die Beförderung ganz oder teilweise tatsächlich durchführt und der seinen Wohnsitz oder Sitz nicht im Inland hat, die Angabe eines Zustellungsbevollmächtigten mit ständigem Wohnsitz oder Sitz im Inland und eine schriftliche Vollmacht für diesen.
 
-
-## § 4 – Ausstellung
+# § 4 – Ausstellung
 
 (1) Die Wrackbeseitigungshaftungsbescheinigung wird nach dem Muster der Anlage 1 ausgestellt.
 
@@ -73,8 +67,7 @@ b) eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Versiche
 
 (5) Ist eine Haftungsbescheinigung unbrauchbar geworden oder wird glaubhaft gemacht, dass sie verloren gegangen ist, wird auf schriftlichen oder elektronischen Antrag eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene Bescheinigung ist zurückzugeben.
 
-
-## § 5 – Pflichten des Antragstellers
+# § 5 – Pflichten des Antragstellers
 
 (1) Der eingetragene Eigentümer, dem eine Bescheinigung nach § 5 Absatz 2 des Seeversicherungsnachweisgesetzes ausgestellt worden ist, hat
 
@@ -96,8 +89,7 @@ unverzüglich dem Bundesamt für Seeschifffahrt und Hydrographie mitzuteilen.
 
     (+++ § 5: Zur Anwendung vgl. § 6 Abs. 1 u. 2 +++) 
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 (1) § 5 Absatz 1 ist erst ab dem Tag anzuwenden, an dem das Wrackbeseitigungsübereinkommen für die Bundesrepublik Deutschland in Kraft tritt.
 
@@ -111,8 +103,7 @@ anzuwenden.
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
-
-## Anlage 1 – (zu § 4 Absatz 1)
+# Anlage 1 – (zu § 4 Absatz 1)
 
 (Fundstelle: BGBl I 2013, 1929)
 
@@ -122,7 +113,7 @@ Bundesamt für Seeschifffahrt und Hydrographie
 Federal Republic of Germany  
 Federal Maritime and Hydrographic Agency
 
-![](../normengrafiken/bgbl1_2013/j1926-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j1926-1_0010.jpg)
 
 Bescheinigung über die Versicherung  
 oder sonstige finanzielle Sicherheit hinsichtlich der Haftung für die Beseitigung von Wracks
@@ -162,8 +153,7 @@ Bundesamt für Seeschifffahrt und Hydrographie
 Issued or certified by the Government of the Federal Republic of Germany,  
 Federal Maritime and Hydrographic Agency
 
-
-## Anlage 2 – (zu § 4 Absatz 2)
+# Anlage 2 – (zu § 4 Absatz 2)
 
 (Fundstelle: BGBl. I 2013, 1930 – 1931)
 
@@ -173,7 +163,7 @@ Bundesamt für Seeschifffahrt und Hydrographie
 Federal Republic of Germany  
 Federal Maritime and Hydrographic Agency
 
-![](../normengrafiken/bgbl1_2013/j1926-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j1926-1_0020.jpg)
 
 Bescheinigung über eine Versicherung  
 oder sonstige finanzielle Sicherheit für die Haftung bei Tod und Körperverletzung von Reisenden

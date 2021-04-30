@@ -1,27 +1,19 @@
-# [NatPMüritzV] Verordnung über die Festsetzung des Nationalparkes "Müritz-Nationalpark"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung des Nationalparkes "Müritz-Nationalpark"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12 und 14 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) Die in § 2 näher bezeichnete Seenlandschaft östlich der Müritz wird als Nationalpark festgesetzt.
 
 (2) Der Nationalpark erhält die Bezeichnung "Müritz-Nationalpark".
 
+# § 2 – Flächenbeschreibung und Abgrenzung
 
-## § 2 – Flächenbeschreibung und Abgrenzung
-
-(1) Der Müritz-Nationalpark repräsentiert einen wesentlichen Ausschnitt der Mecklenburgischen Seenplatte im Bereich der Städte Neustrelitz und Waren.  
-Er umfaßt großflächig waldbestandene Endmoränen-, Sander- und Niederungslandschaften, in denen eine mannigfaltige und häufig noch ursprüngliche Naturausstattung erhalten ist.  
-Lebensgrundlage für die vielen hier noch vorkommenden gefährdeten Pflanzen- und Tierarten und gleichzeitig einen besonderen landschaftlichen Reichtum stellen die vielen Seen und Moore dar. Hohe Bedeutung hat das Gebiet für die Erhaltung einer Reihe in Mitteleuropa überaus gefährdeter Großvogelarten (wie Seeadler, Fischadler, Kranich, Schwarzstorch).  
-Das Territorium ist dünn besiedelt und wird auf Grund geringer Eignung nur in einigen Randgebieten landwirtschaftlich genutzt.
+(1) Der Müritz-Nationalpark repräsentiert einen wesentlichen Ausschnitt der Mecklenburgischen Seenplatte im Bereich der Städte Neustrelitz und Waren. Er umfaßt großflächig waldbestandene Endmoränen-, Sander- und Niederungslandschaften, in denen eine mannigfaltige und häufig noch ursprüngliche Naturausstattung erhalten ist. Lebensgrundlage für die vielen hier noch vorkommenden gefährdeten Pflanzen- und Tierarten und gleichzeitig einen besonderen landschaftlichen Reichtum stellen die vielen Seen und Moore dar. Hohe Bedeutung hat das Gebiet für die Erhaltung einer Reihe in Mitteleuropa überaus gefährdeter Großvogelarten (wie Seeadler, Fischadler, Kranich, Schwarzstorch). Das Territorium ist dünn besiedelt und wird auf Grund geringer Eignung nur in einigen Randgebieten landwirtschaftlich genutzt.
 
 (2) Der Müritz-Nationalpark besteht aus den zwei Teilflächen Müritz und Serrahn.
 
@@ -114,8 +106,7 @@ des VEG Saatzucht Bornhof (1987) 1:10.000.
 
 Diese sind bei der obersten Naturschutzbehörde archivmäßig verwahrt und es wird auf sie Bezug genommen. Weitere Ausfertigungen befinden sich bei den Kreisverwaltungen Neustrelitz und Waren sowie bei der Nationalparkverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Der Nationalpark dient dem Schutz der großflächigen, typisch mecklenburgischen Wald- und Seenlandschaft im norddeutschen Tiefland östlich der Müritz. Allgemeiner Schutzzweck ist eine freie, vom Menschen unbeeinflußte Naturentwicklung. Spezielle Schutzzwecke sind:
 
@@ -139,8 +130,7 @@ die Ermöglichung großflächiger, ungestörter Sukzessionen auf den derzeitigen
 
 (2) In dem Nationalpark wird keine wirtschaftsbestimmte Nutzung bezweckt; er soll aber zur Strukturverbesserung der Region beitragen.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Gebiet des Nationalparkes wird in die Schutzzonen I, II und III gegliedert.
 
@@ -211,8 +201,7 @@ Teilschlag Nr. 423 der LPG (P) Ankershagen südlich der Nationalparkgrenze, Teil
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 4 angeführten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Nationalpark ist es geboten,
 
@@ -230,8 +219,7 @@ Teilschlag Nr. 423 der LPG (P) Ankershagen südlich der Nationalparkgrenze, Teil
 
 (2) Zur Umsetzung der in Absatz 1 genannten Gebote sowie zur Erhaltung, Pflege und Entwicklung des Nationalparkes soll in angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Nationalpark sind alle Handlungen verboten, die zu einer Zerstörung, Beschädigung oder Veränderung des Schutzgebietes und seiner Bestandteile oder zu einer nachhaltigen Beeinträchtigung oder Störung führen können. Insbesondere ist es verboten,
 
@@ -281,8 +269,7 @@ Teilschlag Nr. 423 der LPG (P) Ankershagen südlich der Nationalparkgrenze, Teil
 
 (2) Weiter ist es verboten, Geräte mitzuführen, die ausschließlich oder überwiegend für Handlungen benutzt werden können, die gemäß Absatz 1 verboten sind.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -302,8 +289,7 @@ Teilschlag Nr. 423 der LPG (P) Ankershagen südlich der Nationalparkgrenze, Teil
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Nationalparkes (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -317,8 +303,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Nationalparkverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei:
 
@@ -326,34 +311,28 @@ Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei:
 
 2. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1468)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

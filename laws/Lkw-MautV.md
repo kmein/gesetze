@@ -1,15 +1,11 @@
-# [Lkw-MautV] Verordnung zur Erhebung, zum Nachweis der ordnungsgemäßen Entrichtung und zur Erstattung der Maut  (Lkw-Maut-Verordnung - Lkw-MautV)
-
-Ausfertigungsdatum: 25.06.2018
-
+% Verordnung zur Erhebung, zum Nachweis der ordnungsgemäßen Entrichtung und zur Erstattung der Maut  (Lkw-Maut-Verordnung - Lkw-MautV)
+% Ausfertigungsdatum: 25.06.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 4 Satz 3, Absatz 5 Satz 2 und des § 5 Satz 2 und 3 des Bundesfernstraßenmautgesetzes, von denen § 4 Absatz 4 Satz 3 und Absatz 5 Satz 2 durch Artikel 2 Nummer 2 Buchstabe c und § 5 Satz 2 durch Artikel 2 Nummer 1 des Gesetzes vom 5. Dezember 2014 (BGBl. I S. 1980) geändert worden sind und § 5 Satz 3 durch Artikel 1 Nummer 5 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2550) eingefügt worden ist, verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -21,8 +17,7 @@ Diese Verordnung regelt
 
 4. das Verfahren zur Erstattung der Maut.
 
-
-## § 2 – Maßgebliche Tatsachen für die Mauterhebung
+# § 2 – Maßgebliche Tatsachen für die Mauterhebung
 
 Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
@@ -38,15 +33,13 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 6. die Positionsdaten des zum Zweck der Mauterhebung im Fahrzeug eingebauten oder im Fahrzeug angebrachten Fahrzeuggerätes.
 
-
-## § 3 – Mauterhebungssysteme
+# § 3 – Mauterhebungssysteme
 
 (1) Der Mautschuldner kann die Maut wahlweise über ein manuelles Mauterhebungssystem oder ein automatisches Mauterhebungssystem entrichten.
 
 (2) Alle Mautentrichtungen nach Absatz 1 erfolgen nach den Angaben des Mautschuldners (Prinzip der Selbstdeklaration). Der Mautschuldner ist für die Richtigkeit und Überprüfung der von ihm gemachten Angaben verantwortlich.
 
-
-## § 4 – Manuelles Mauterhebungssystem
+# § 4 – Manuelles Mauterhebungssystem
 
 (1) Die manuelle Einbuchung kann über Mautstellen-Terminals, die Internetseite oder eine für mobile Endgeräte bereitgestellte Software (mobile Applikation) erfolgen, die jeweils von dem in § 4 Absatz 3 Satz 1 des Bundesfernstraßenmautgesetzes bezeichneten Betreiber bereitgestellt werden. Für die manuelle Einbuchung ist eine Anmeldung beim Betreiber nicht erforderlich, wahlweise aber möglich.
 
@@ -56,8 +49,7 @@ Die für die Mauterhebung maßgeblichen Tatsachen sind:
 
 (4) Bei der Einbuchung wird dem Mautschuldner eine Einbuchungsnummer sowie der für die Durchführung der Fahrt zulässige Zeitraum (Gültigkeitszeitraum) mitgeteilt.
 
-
-## § 5 – Automatisches Mauterhebungssystem
+# § 5 – Automatisches Mauterhebungssystem
 
 (1) Die Teilnahme an dem automatischen Mauterhebungssystem erfordert die Anmeldung des Mautschuldners beim Betreiber oder einem Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes (Anbieter) und den fachgerechten Einbau oder die ordnungsgemäße Anbringung eines Fahrzeuggerätes in dem mautpflichtigen Fahrzeug vor der mautpflichtigen Straßenbenutzung. Das Fahrzeuggerät ist eine elektronische Einrichtung, mit der die Positionsdaten des Fahrzeuges festgestellt und durch den Betreiber oder einen Anbieter nach den §§ 4e und 4f des Bundesfernstraßenmautgesetzes verarbeitet werden. Der Mautschuldner hat bei der Anmeldung die für die Mauterhebung maßgeblichen Tatsachen gemäß § 2 Nummer 1, 4 und 5 wahrheitsgemäß und vollständig anzugeben. Diese Daten sind im Fahrzeuggerät zu speichern. Einem Fahrzeuggerät im Sinne des Satzes 2 steht ein Fahrzeuggerät im Sinne des § 16 Absatz 2 des Mautsystemgesetzes gleich.
 
@@ -79,13 +71,11 @@ mit dem oder der die mautpflichtige Straßenbenutzung durchgeführt werden soll.
 
 2. die Maut ohne Verlassen des mautpflichtigen Straßennetzes über das manuelle Mauterhebungssystem entrichten.
 
-
-## § 6 – Nachweis der ordnungsgemäßen Entrichtung der Maut
+# § 6 – Nachweis der ordnungsgemäßen Entrichtung der Maut
 
 Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für Güterverkehr die Richtigkeit aller für die Mauterhebung maßgeblichen Tatsachen durch Vorlage geeigneter Unterlagen nachzuweisen. Geeignete Unterlagen sind insbesondere der Einbuchungsbeleg, der Zahlungsbeleg, der Fahrzeugschein oder die Zulassungsbescheinigung Teil I sowie fahrzeugbezogene Nachweise im Sinne des § 7 Absatz 5 des Bundesfernstraßenmautgesetzes. Statt des Einbuchungsbelegs ist bei der manuellen Einbuchung über die Internetseite oder die mobile Applikation auch die Angabe der Einbuchungsnummer geeignet. Die Verpflichtung zum ergänzenden Nachweis der Zahlung im Einzelfall bleibt hiervon unberührt.
 
-
-## § 7 – Nachweis der Emissionsklasse für im Inland zugelassene Fahrzeuge
+# § 7 – Nachweis der Emissionsklasse für im Inland zugelassene Fahrzeuge
 
 (1) Der Nachweis der Emissionsklasse eines mautpflichtigen Fahrzeuges nach § 2 Nummer 5 erfolgt für in der Bundesrepublik Deutschland zugelassene Fahrzeuge durch Vorlage des Fahrzeugscheins oder der Zulassungsbescheinigung Teil I. Die Schadstoffklasse des mautpflichtigen Fahrzeuges ergibt sich aus dem Eintrag unter Ziffer 1 des Fahrzeugscheins, unter Ziffer 14.1 der Zulassungsbescheinigung Teil I oder unter Ziffer 14 der Zulassungsbescheinigung Teil I. Falls unter Ziffer 33 des Fahrzeugscheins, unter Ziffer 22 der Zulassungsbescheinigung Teil I oder unter Buchstabe V.9 der Zulassungsbescheinigung Teil I eine andere Schadstoffklasse eingetragen ist, gilt diese. Die Partikelminderungsklasse des mautpflichtigen Fahrzeuges ergibt sich aus dem Eintrag unter Ziffer 33 des Fahrzeugscheins oder unter Ziffer 22 der Zulassungsbescheinigung Teil I.
 
@@ -103,8 +93,7 @@ Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für Güterver
 
 (+++ § 7 Abs. 3 bis 5: Zur Anwendung vgl. § 8 Abs. 4 +++)
 
-
-## § 8 – Nachweis der Emissionsklasse für im Ausland zugelassene Fahrzeuge
+# § 8 – Nachweis der Emissionsklasse für im Ausland zugelassene Fahrzeuge
 
 (1) Bei mautpflichtigen Fahrzeugen, die im Ausland zugelassen sind, erfolgt der Nachweis der Emissionsklasse durch Vorlage der in § 7 Absatz 2 genannten Unterlagen. Der aktuelle Kraftfahrzeugsteuerbescheid ist in deutscher Sprache vorzulegen. Die Kosten für die Übersetzung sind vom Mautschuldner zu tragen.
 
@@ -128,8 +117,7 @@ Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für Güterver
 
 (4) § 7 Absatz 3 bis 5 gilt entsprechend.
 
-
-## § 9 – Stornierung
+# § 9 – Stornierung
 
 (1) Stornierungen erfolgen entweder als Vollstornierung für die gesamte gebuchte Strecke oder als Teilstornierung für den noch nicht befahrenen Teil der gebuchten Strecke, soweit die Voraussetzungen nach Absatz 3 vorliegen.
 
@@ -139,8 +127,7 @@ Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für Güterver
 
 (4) Der Mautschuldner hat die für die Stornierung maßgeblichen Tatsachen wahrheitsgemäß und vollständig anzugeben.
 
-
-## § 10 – Mauterstattung
+# § 10 – Mauterstattung
 
 (1) Falls eine Voll- oder Teilstornierung gemäß § 9 ausgeschlossen ist, kann der Mautschuldner eine Erstattung nur dann verlangen, wenn er sein Erstattungsverlangen innerhalb von zwei Monaten nach Ablauf des Gültigkeitszeitraums gegenüber dem Bundesamt für Güterverkehr geltend gemacht hat und
 
@@ -152,7 +139,6 @@ Der Mautschuldner ist verpflichtet, auf Verlangen des Bundesamtes für Güterver
 
 (3) Für Erstattungsverlangen nach Absatz 1 sowie Erstattungsverlangen nach § 4 Absatz 2 Satz 2 des Bundesfernstraßenmautgesetzes wird eine Bearbeitungsgebühr von 20,00 Euro erhoben. Die Bearbeitungsgebühr wird mit dem Erstattungsbetrag verrechnet.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die LKW-Maut-Verordnung vom 24. Juni 2003 (BGBl. I S. 1003), die zuletzt durch Artikel 3 des Gesetzes vom 5. Dezember 2014 (BGBl. I S. 1980) geändert worden ist, außer Kraft.

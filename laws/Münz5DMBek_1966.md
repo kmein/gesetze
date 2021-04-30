@@ -1,10 +1,7 @@
-# [Münz5DMBek 1966] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Fichte-Gedenkmünze)
-
-Ausfertigungsdatum: 07.03.1966
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Fichte-Gedenkmünze)
+% Ausfertigungsdatum: 07.03.1966
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes vom 18. Januar 1963 (Bundesgesetzbl. I S. 55) werden zur Erinnerung an den deutschen Philosophen Johann Gottlieb Fichte (geb. 1762 Rammenau/Oberlausitz gest. 1814 Berlin) und sein Werk 500 000 Stück Bundesmünzen im Nennwert von je 5 Deutschen Mark geprägt und demnächst in den Verkehr gebracht.
 
@@ -22,13 +19,11 @@ Ausfertigungsdatum: 07.03.1966
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Fundstelle: BGBl I 1966, 143)
 

@@ -1,10 +1,7 @@
-# [ZHG] Gesetz über die Ausübung der Zahnheilkunde
-
-Ausfertigungsdatum: 31.03.1952
-
+% Gesetz über die Ausübung der Zahnheilkunde
+% Ausfertigungsdatum: 31.03.1952
  
-
-## § 1
+# § 1
 
 (1) Wer im Geltungsbereich dieses Gesetzes die Zahnheilkunde dauernd ausüben will, bedarf einer Approbation als Zahnarzt nach Maßgabe dieses Gesetzes. Die Approbation berechtigt zur Führung der Bezeichnung als "Zahnarzt" oder "Zahnärztin". Die vorübergehende Ausübung der Zahnheilkunde bedarf einer jederzeit widerruflichen Erlaubnis.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 31.03.1952
 
 (7) Ausübung des zahnärztlichen Berufs ist die Ausübung der Zahnheilkunde unter der Berufsbezeichnung „Zahnarzt“ oder „Zahnärztin“.
 
-
-## § 2
+# § 2
 
 (1) Die Approbation als Zahnarzt ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -59,13 +55,11 @@ Fächer unterscheiden sich wesentlich, bei denen Kenntnis und Fähigkeiten eine 
 
 1. ein Identitätsnachweis,
 
-1a.  
-eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
+1a. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
 
 2. eine amtlich beglaubigte Kopie der Befähigungsnachweise oder des Ausbildungsnachweises, der zur Aufnahme des entsprechenden Berufs berechtigt, sowie gegebenenfalls eine Bescheinigung über die von der betreffenden Person erworbene Berufserfahrung,
 
-2a.  
-im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind darzulegen, im Inland den zahnärztlichen Beruf ausüben zu wollen,
+2a. im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind darzulegen, im Inland den zahnärztlichen Beruf ausüben zu wollen,
 
 3. die Unterlagen, die von den zuständigen Behörden des Herkunftsmitgliedstaats ausgestellt wurden und belegen, dass die Erfordernisse nach Absatz 1 Satz 1 Nr. 2 erfüllt werden oder, wenn im Herkunftsmitgliedstaat die vorgenannten Unterlagen nicht ausgestellt werden, eine eidesstattliche Erklärung oder – in den Staaten, in denen es keine eidesstattliche Erklärung gibt – eine feierliche Erklärung, die die betreffende Person vor einer zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder einer entsprechend bevollmächtigten Berufsorganisation des Herkunftsmitgliedstaats, der eine diese eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat,
 
@@ -91,8 +85,7 @@ Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung des Ant
 
 (8) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 3
+# § 3
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Approbationsordnung für Zahnärzte unter Berücksichtigung von Artikel 34 der Richtlinie 2005/36/EG die Mindestanforderungen an das Studium der Zahnmedizin, das Nähere über die staatliche zahnärztliche Prüfung und die Approbation. Die Zulassung zur zahnärztlichen Prüfung darf vom Bestehen höchstens zweier Vorprüfungen abhängig gemacht werden. Für die Meldung zu den Prüfungen und zu den Vorprüfungen sind Fristen festzulegen. In der Rechtsverordnung ist ferner die Anrechnung von Hochschulausbildungen und Prüfungen, die innerhalb oder außerhalb des Geltungsbereichs dieses Gesetzes abgelegt werden, zu regeln.
 
@@ -102,15 +95,13 @@ Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung des Ant
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Falle des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 4
+# § 4
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die zahnärztliche Prüfung nicht bestanden oder bei einer vor Wirksamwerden des Beitritts erteilten Approbation das an einer Ausbildungsstätte in dem in Artikel 3 des Einigungsvertrages genannten Gebiet oder das in einem Fall des § 20 Abs. 1 Satz 2 oder in einem Fall des § 20 Abs. 4 Satz 1 erworbene Studium der Zahnheilkunde nicht abgeschlossen war oder die Ausbildung nach § 2 Abs. 1 Satz 2 oder 6 oder § 2 Absatz 2 oder 3 oder die nach § 20a nachzuweisende Ausbildung nicht abgeschlossen war. Sie kann zurückgenommen werden, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 2 Abs. 1 Satz 1 Nummer 2 und 3 nicht vorgelegen hat. Eine nach § 2 Abs. 2 oder 3 erteilte Approbation kann zurückgenommen werden, wenn die festgestellte Gleichwertigkeit des Ausbildungsstandes tatsächlich nicht gegeben war oder der alternativ festgestellte gleichwertige Kenntnisstand tatsächlich nicht nachgewiesen worden ist. Eine nach § 2 Absatz 2 oder 3 oder nach § 20a Absatz 5 erteilte Approbation kann zurückgenommen werden, wenn die nachzuweisende Ausbildung tatsächlich doch wesentliche Unterschiede gegenüber der in diesem Gesetz und in der Rechtsverordnung nach § 3 Absatz 1 geregelten Ausbildung aufgewiesen hat oder die zur Ausübung des zahnärztlichen Berufs im Geltungsbereich dieses Gesetzes erforderlichen Kenntnisse und Fähigkeiten in der Eignungsprüfung tatsächlich nicht nachgewiesen worden sind.
 
 (2) Die Approbation ist zu widerrufen, wenn nachträglich die Voraussetzung nach § 2 Abs. 1 Satz 1 Nr. 2 weggefallen ist. Sie kann widerrufen werden, wenn nachträglich eine der Voraussetzungen nach § 2 Abs. 1 Satz 1 Nr. 3 weggefallen ist.
 
-
-## § 5
+# § 5
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -126,23 +117,19 @@ Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung des Ant
 
 (3) Der Zahnarzt, dessen Approbation ruht, darf den zahnärztlichen Beruf nicht ausüben.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7
+# § 7
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer Bedingung erklärt wird, ist unwirksam.
 
-
-## § 7a
+# § 7a
 
 Bei einer Person, deren Approbation wegen Fehlens oder späteren Wegfalls einer der Voraussetzungen des § 2 Abs. 1 Satz 1 Nr. 2 und 3 zurückgenommen oder widerrufen worden ist oder die gemäß § 7 auf die Approbation verzichtet hat und die einen Antrag auf Wiedererteilung der Approbation gestellt hat, kann die Entscheidung über diesen Antrag zurückgestellt und zunächst eine Erlaubnis zur Ausübung des zahnärztlichen Berufs nach § 13 Abs. 1 bis zu einer Dauer von zwei Jahren erteilt werden.
 
-
-## § 7b
+# § 7b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -176,44 +163,37 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 8
+# § 8
 
 (1) Wer bei Inkrafttreten dieses Gesetzes die staatliche Anerkennung als Dentist besitzt, erhält die Approbation als Zahnarzt, wenn er an einem Fortbildungskursus über Mund- und Kieferkrankheiten sowie Arzneimittellehre erfolgreich teilgenommen hat. Der Fortbildungskursus ist an einem der zugelassenen Lehrinstitute für Dentisten durchzuführen.
 
 (2) Die zuständige Behörde des Landes, in dem der Antragsteller seinen Wohnsitz hat, entscheidet im Einzelfall darüber, ob einem Dentisten, der eine ausländische Bestallung als Zahnarzt besitzt, die Bestallung als Zahnarzt unter Befreiung von der Teilnahme an einem Fortbildungskursus erteilt werden kann.
 
-
-## § 9
+# § 9
 
 (1) Dentistenassistenten, die bei Inkrafttreten dieses Gesetzes ein zugelassenes Lehrinstitut für Dentisten besuchen oder die Voraussetzungen zum Besuch erfüllen, erhalten die Approbation als Zahnarzt, wenn sie innerhalb von zwei Jahren nach Inkrafttreten dieses Gesetzes die staatliche Anerkennung als Dentist erworben und an einem Fortbildungskursus nach § 8 teilgenommen haben.
 
 (2) In besonderen Fällen kann die in Absatz 1 bezeichnete Frist verlängert werden.
 
-
-## § 10
+# § 10
 
 (1) Anwärter des Dentistenberufs, die bei Inkrafttreten dieses Gesetzes die ordnungsmäßige Ausbildung begonnen haben, erhalten die Approbation als Zahnarzt, wenn sie die Voraussetzungen für den Besuch eines Lehrinstituts für Dentisten erfüllt und nach einer viersemestrigen Ausbildung an einem zugelassenen Institut die Prüfung vor einer staatlichen Prüfungskommission bestanden haben.
 
 (2) Die Prüfungsordnung erlässt das Bundesministerium für Gesundheit mit Zustimmung des Bundesrates durch Rechtsverordnung.
 
-
-## § 11
+# § 11
 
 Die Approbation als Zahnarzt darf in den Fällen der §§ 8 bis 10 nur erteilt werden, wenn der Bewerber das 25. Lebensjahr vollendet hat und kein Versagungsgrund nach § 2 Abs. 1 Satz 1 Nr. 2 und 3 vorliegt.
 
-
-## § 11a
+# § 11a
 
 Die §§ 8 bis 11 sind nur noch auf Anträge von Personen anwendbar, die alle in diesen Vorschriften vorgesehenen besonderen Voraussetzungen für eine Erteilung der Approbation als Zahnarzt am 27. Januar 1980 erfüllt hatten.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13
+# § 13
 
 (1) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde kann auf Antrag Personen erteilt werden, die eine abgeschlossene zahnärztliche Ausbildung nachweisen. Eine Erlaubnis nach Satz 1 wird Antragstellern, die über einen Ausbildungsnachweis als Zahnarzt verfügen, der in einem Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz ausgestellt wurde, nicht erteilt. Eine Erlaubnis wird auch nicht in den Fällen des § 2 Absatz 2 Satz 10 erteilt. § 7a bleibt unberührt.
 
@@ -235,8 +215,7 @@ Die Erlaubnis ist in diesen Fällen auf bestimmte Tätigkeiten und Beschäftigun
 
 (5) Personen, denen eine Erlaubnis zur Ausübung der Zahnheilkunde erteilt worden ist, haben im übrigen die Rechte und Pflichten eines Zahnarztes.
 
-
-## § 13a
+# § 13a
 
 (1) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die zur Ausübung des zahnärztlichen Berufs in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen zahnärztlichen Ausbildung oder auf Grund eines in der Anlage zu § 2 Abs. 1 Satz 2, in § 2 Abs. 1 Satz 6 oder in § 20a Absatz 1 bis 4 genannten zahnärztlichen Ausbildungsnachweises berechtigt sind, dürfen als Dienstleistungserbringer im Sinne des Artikels 50 des EG-Vertrages vorübergehend und gelegentlich den zahnärztlichen Beruf im Geltungsbereich dieses Gesetzes ausüben. Der vorübergehende und gelegentliche Charakter der Erbringung von Dienstleistungen wird im Einzelfall beurteilt, insbesondere anhand der Dauer, der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der Dienstleistung. Eine Berechtigung nach Satz 1 besteht nicht, wenn die Voraussetzungen einer Rücknahme, eines Widerrufs oder einer Ruhensanordnung, die sich auf die Tatbestände nach § 2 Abs. 1 Satz 1 Nr. 2 oder 3 beziehen, vorliegen, eine entsprechende Maßnahme mangels deutscher Berufszulassung jedoch nicht erlassen werden kann.
 
@@ -256,27 +235,21 @@ Vom Dienstleistungserbringer im Sinne des Absatzes 1 können dabei Informationen
 
 (4) Einem Staatsangehörigen eines der Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, der im Geltungsbereich dieses Gesetzes den zahnärztlichen Beruf auf Grund einer Approbation als Zahnarzt oder einer Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde ausübt, sind auf Antrag für Zwecke der Dienstleistungserbringung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, Bescheinigungen darüber auszustellen, daß
 
- 1.  
-er in Deutschland rechtmäßig als Zahnarzt niedergelassen ist,
+ 1. er in Deutschland rechtmäßig als Zahnarzt niedergelassen ist,
 
- 2.  
-ihm die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist und
+ 2. ihm die Ausübung dieser Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt ist und
 
- 3.  
-er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
+ 3. er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-## § 14
+# § 14
 
 Für die Ausübung der Zahnheilkunde in Grenzgebieten durch Zahnärzte, die im Geltungsbereich dieses Gesetzes keine Niederlassung haben, gelten die hierfür abgeschlossenen zwischenstaatlichen Verträge.
 
-
-## § 15
+# § 15
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte für zahnärztliche Tätigkeit in einer Gebührenordnung zu regeln. In dieser Gebührenordnung sind Mindest- und Höchstsätze für die zahnärztlichen Leistungen festzusetzen. Dabei ist den berechtigten Interessen der Zahnärzte und der zur Zahlung der Entgelte Verpflichteten Rechnung zu tragen.
 
-
-## § 16
+# § 16
 
 (1) Die Approbation erteilt in den Fällen des § 2 Abs. 1 Satz 1 die zuständige Behörde des Landes, in dem der Antragsteller die zahnärztliche Prüfung abgelegt hat. In den Fällen des § 20 Abs. 4 Satz 1 wird die Approbation von der zuständigen Behörde des Landes erteilt, in dem der Antragsteller sein Studium der Zahnheilkunde erfolgreich abgeschlossen hat. Für das Verfahren zur Ausstellung eines Europäischen Berufsausweises ist die zuständige Behörde des Landes zuständig, in dem der Beruf des Zahnarztes ausgeübt wird oder ausgeübt werden soll.
 
@@ -290,13 +263,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (6) (weggefallen)
 
-
-## § 17
+# § 17
 
 Das Bundesministerium für Gesundheit erlässt im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung von § 8 Abs. 1 erforderlichen Bestimmungen.
 
-
-## § 18
+# § 18
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft,
 
@@ -304,13 +275,11 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft,
 
 2. wer die Zahnheilkunde ausübt, solange durch vollziehbare Verfügung das Ruhen der Approbation angeordnet ist.
 
-
-## § 19
+# § 19
 
 Wer vor dem Inkrafttreten dieses Gesetzes die Zahnheilkunde ausgeübt hat, ohne im Besitz einer Bestallung als Arzt oder Zahnarzt zu sein, darf sie im bisherigen Umfange weiter ausüben. Die §§ 4 und 5 sind entsprechend anzuwenden.
 
-
-## § 20
+# § 20
 
 (1) Eine Approbation oder Bestallung, die beim Wirksamwerden des Beitritts im bisherigen Geltungsbereich dieses Gesetzes zur Ausübung des zahnärztlichen Berufs berechtigt, gilt als Approbation im Sinne dieses Gesetzes. Das gleiche gilt für eine Approbation, die am Tage vor dem Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zur Ausübung des zahnärztlichen Berufs berechtigt, soweit sie nicht durch eine zu diesem Zeitpunkt geltende Anordnung nach § 13 der Approbationsordnung für Zahnärzte vom 13. Januar 1977 (GBl. I Nr. 5 S. 34) in der Fassung der Anordnung Nr. 2 vom 24. August 1981 (GBl. I Nr. 29 S. 346) eingeschränkt worden ist. Die Berechtigung zur weiteren Führung einer im Zusammenhang mit der Anerkennung als Fachzahnarzt verliehenen Bezeichnung durch Inhaber einer in Satz 2 genannten Approbation, die am Tage vor dem Wirksamwerden des Beitritts eine solche Bezeichnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet führen dürfen, richtet sich nach Landesrecht.
 
@@ -320,8 +289,7 @@ Wer vor dem Inkrafttreten dieses Gesetzes die Zahnheilkunde ausgeübt hat, ohne 
 
 (4) Studierende der Zahnheilkunde, die nach dem Wirksamwerden des Beitritts ein vorher begonnenes Studium der Zahnheilkunde an Universitäten oder Medizinischen Akademien in dem in Artikel 3 des Einigungsvertrages genannten Gebiet fortsetzen, schließen das Studium nach den bisher für dieses Gebiet geltenden Rechtsvorschriften ab, sofern dies bis zum 31. Dezember 1997 geschieht. Der erfolgreiche Studienabschluß steht dem Abschluß des Studiums der Zahnheilkunde durch die bestandene zahnärztliche Prüfung nach § 2 Abs. 1 Satz 1 Nr. 4 gleich. Für Studierende, die im September 1991 und später ein Studium der Zahnheilkunde an den in Satz 1 genannten Ausbildungsstätten aufnehmen, gelten die Vorschriften der aufgrund des § 3 dieses Gesetzes erlassenen Approbationsordnung für Zahnärzte. In dieser Verordnung soll bis zum 31. Dezember 1992 geregelt werden, daß das Studium der Zahnheilkunde künftig eine Pflichtunterrichtsveranstaltung in der Kinderzahnheilkunde zu umfassen und sich die zahnärztliche Prüfung auf dieses Fach zu erstrecken hat.
 
-
-## § 20a
+# § 20a
 
 (1) Antragstellern, die die Voraussetzungen des § 2 Absatz 1 Satz 1 Nummer 2, 3 und 5 erfüllen und eine Approbation als Zahnarzt auf Grund der Vorlage eines vor dem nach § 2 Abs. 1 Satz 2 oder Satz 3 für die Anerkennung jeweils maßgebenden Datum ausgestellten zahnärztlichen Ausbildungsnachweises eines der übrigen Mitgliedstaaten der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, beantragen, ist die Approbation als Zahnarzt ebenfalls zu erteilen. In den Fällen, in denen die zahnärztliche Ausbildung des Antragstellers den Mindestanforderungen des Artikels 34 der Richtlinie 2005/36/EG vom 7. September 2005 (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) nicht genügt, kann die zuständige Behörde die Vorlage einer Bescheinigung des Herkunftsmitgliedstaats des Antragstellers verlangen, aus der sich ergibt, dass der Antragsteller während der letzten fünf Jahre vor der Antragstellung mindestens drei Jahre ununterbrochen tatsächlich und rechtmäßig den zahnärztlichen Beruf ausgeübt hat.
 
@@ -361,27 +329,22 @@ sind die Ausbildungsnachweise als Zahnarzt anzuerkennen, wenn die Behörden dies
 
 (5) Antragstellern, für die einer der Absätze 1 bis 4 gilt und die die dort genannten Voraussetzungen mit Ausnahme der geforderten Berufserfahrung erfüllten, ist die Approbation zu erteilen, wenn die Ausbildung des Antragstellers keine wesentlichen Unterschiede gegenüber der Ausbildung aufweist, die in diesem Gesetz und in der Rechtsverordnung nach § 3 Absatz 1 geregelt ist. § 2 Absatz 2 Satz 3 bis 9 gilt entsprechend.
 
-
-## § 21 – Inkrafttreten der Approbationsordnung für Zahnärzte und Zahnärztinnen und Außerkrafttreten der Approbationsordnung für Zahnärzte, Übergangsregelung
+# § 21 – Inkrafttreten der Approbationsordnung für Zahnärzte und Zahnärztinnen und Außerkrafttreten der Approbationsordnung für Zahnärzte, Übergangsregelung
 
 (1) Die Approbationsordnung für Zahnärzte und Zahnärztinnen vom 8. Juli 2019 (BGBl. I S. 933) tritt am 1. Oktober 2020 in Kraft. Gleichzeitig tritt die Approbationsordnung für Zahnärzte in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2123-2, veröffentlichten bereinigten Fassung, die zuletzt durch Artikel 11 des Gesetzes vom 15. August 2019 (BGBl. I S. 1307) geändert worden ist, außer Kraft.
 
 (2) Die Approbationsordnung für Zahnärzte in der am 30. September 2020 geltenden Fassung ist auf Studierende weiter anzuwenden, die das Studium der Zahnheilkunde vor dem 1. Oktober 2021 beginnen oder bereits begonnen haben. Die Approbationsordnung für Zahnärzte und Zahnärztinnen findet insoweit keine Anwendung. Für Studierende nach Satz 1 sind die §§ 133 und 134 der Approbationsordnung für Zahnärzte und Zahnärztinnen anzuwenden.
 
-
-## § 22
+# § 22
 
 (vollzogene Änderungsvorschrift)
 
-
-## § 23
+# § 23
 
 Alle entgegenstehenden Vorschriften, insbesondere die §§ 29, 40, 53, 54 und 147 der Gewerbeordnung treten insoweit außer Kraft, als sie sich auf Zahnärzte und Dentisten beziehen.
 
-
-## § 24
+# § 24
 
 (Inkrafttreten)
 
-
-## Anlage – (zu § 2 Abs. 1 Satz 4)
+# Anlage – (zu § 2 Abs. 1 Satz 4)

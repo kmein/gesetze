@@ -1,10 +1,7 @@
-# [LwAltschG] Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen  (Landwirtschafts-Altschuldengesetz - LwAltschG)
-
-Ausfertigungsdatum: 25.06.2004
-
+% Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen  (Landwirtschafts-Altschuldengesetz - LwAltschG)
+% Ausfertigungsdatum: 25.06.2004
  
-
-## § 1 – Altschulden, Kreditnehmer
+# § 1 – Altschulden, Kreditnehmer
 
 (1) Als Altschulden landwirtschaftlicher Unternehmen (landwirtschaftliche Altschulden) im Sinne dieses Gesetzes gelten diejenigen Kredite,
 
@@ -16,8 +13,7 @@ Die landwirtschaftlichen Altschulden umfassen auch aufgelaufene und noch auflauf
 
 (2) Als Kreditnehmer im Sinne dieses Gesetzes gelten die Schuldner der in Absatz 1 bezeichneten landwirtschaftlichen Altschulden und die Unternehmen, die durch gesonderte Verträge in die Rangrücktrittsvereinbarungen der Schuldner einbezogen sind.
 
-
-## § 2 – Änderung der Bemessungsgrundlage für Zahlungen auf landwirtschaftliche Altschulden
+# § 2 – Änderung der Bemessungsgrundlage für Zahlungen auf landwirtschaftliche Altschulden
 
 (1) Bemessungsgrundlage für die von den Kreditnehmern auf landwirtschaftliche Altschulden zu leistenden Zahlungen aus dem Jahresüberschuss ist der ohne Berücksichtigung von Bewertungswahlrechten und Zahlungsverpflichtungen auf Grund von Rangrücktrittsvereinbarungen nach den einkommen- und körperschaftsteuerrechtlichen Vorschriften ermittelte Gewinn zuzüglich der für das Geschäftsjahr als Betriebsausgabe verrechneten Gewerbesteuer (Gewerbesteuervorauszahlung und Gewerbesteuerrückstellung). Bewertungswahlrechte im Sinne des Satzes 1 sind insbesondere:
 
@@ -51,8 +47,7 @@ Vor dem 30. Juni 2004 vorgenommene Teilwertabschreibungen gemäß Nummer 1 und Z
 
 (+++ § 2: Zur Anwendung vgl. §§ 13, 14 +++)
 
-
-## § 3 – Erhöhung des Abführungssatzes
+# § 3 – Erhöhung des Abführungssatzes
 
 (1) Zahlungen auf landwirtschaftliche Altschulden sind jeweils jährlich in Höhe von 55 Prozent der gemäß § 2 für das jeweilige Geschäftsjahr ermittelten Bemessungsgrundlage zu leisten, höchstens jedoch in Höhe des für das jeweilige Geschäftsjahr ermittelten Jahresüberschusses im Sinne des § 275 des Handelsgesetzbuchs zuzüglich der als Aufwand verrechneten Zahlungsverpflichtungen auf Grund von Rangrücktrittsvereinbarungen über landwirtschaftliche Altschulden.
 
@@ -60,8 +55,7 @@ Vor dem 30. Juni 2004 vorgenommene Teilwertabschreibungen gemäß Nummer 1 und Z
 
 (+++ § 3: Zur Anwendung vgl. §§ 13, 14 +++)
 
-
-## § 4 – Veräußerung nicht betriebsnotwendiger Vermögens- und Betriebsteile
+# § 4 – Veräußerung nicht betriebsnotwendiger Vermögens- und Betriebsteile
 
 (1) Die Kreditnehmer sind verpflichtet, in der Anlage 2 der Rangrücktrittsvereinbarung enthaltene nicht betriebsnotwendige Vermögens- und Betriebsteile ungeachtet der Zahlung vertraglich vereinbarter Ersatzleistungen innerhalb von zwei Jahren nach dem 30. Juni 2004 mindestens zum aktuellen Verkehrswert zu veräußern. Die hierbei erzielten Veräußerungserlöse sind nach Abzug von Fremdkosten und bereits gezahlten Ersatzleistungen am Ende des jeweiligen Geschäftsjahres an die Gläubigerbank zur Bedienung der landwirtschaftlichen Altschulden abzuführen. Werden bei der Veräußerung der nicht betriebsnotwendigen Vermögens- und Betriebsteile stille Reserven realisiert, bleiben diese im Veräußerungsjahr bei der Ermittlung der Bemessungsgrundlage gemäß § 2 Abs. 1 und bei dem Höchstbetrag gemäß § 3 Abs. 1 zweiter Halbsatz unberücksichtigt. Der Kreditnehmer hat die Gläubigerbank am Ende des jeweiligen Geschäftsjahres über Bemühungen zur Veräußerung der in der Anlage 2 der Rangrücktrittsvereinbarung aufgeführten Güter ausführlich zu unterrichten.
 
@@ -69,27 +63,23 @@ Vor dem 30. Juni 2004 vorgenommene Teilwertabschreibungen gemäß Nummer 1 und Z
 
 (3) Der aktuelle Verkehrswert nach Absatz 1 Satz 1 und Absatz 2 ist auf Verlangen der Gläubigerbank vom Kreditnehmer durch ein unabhängiges Sachverständigengutachten nachzuweisen. Die Kosten hierfür trägt der Kreditnehmer.
 
-
-## § 5 – Überprüfung der Sanierungsabsicht
+# § 5 – Überprüfung der Sanierungsabsicht
 
 (1) Bei hinreichend begründeten Zweifeln der Gläubigerbank an der tatsächlichen Sanierungsabsicht des Kreditnehmers ist die Gläubigerbank berechtigt, vom Kreditnehmer die Vorlage eines durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft oder einen gesetzlichen Prüfungsverband bestätigten aktuellen Sanierungs- und Entwicklungsplanes zu verlangen. Der Wirtschaftsprüfer darf nicht zugleich Abschlussprüfer sein. Bei Wirtschaftsprüfungsgesellschaften und Prüfungsverbänden muss eine Funktionstrennung zwischen Abschlussprüfung und Prüfung des Sanierungs- und Entwicklungsplanes sichergestellt sein.
 
 (2) Kommt der Kreditnehmer der Aufforderung der Gläubigerbank nach Absatz 1 Satz 1 nicht binnen sechs Monaten nach oder sind die vorgelegten Unterlagen nicht geeignet, ernsthafte Zweifel an der Sanierungsabsicht des Kreditnehmers zu beseitigen, ist die Gläubigerbank berechtigt, die Rangrücktrittsvereinbarung mit sofortiger Wirkung zu kündigen.
 
-
-## § 6 – Gesetzliche Änderung der Rangrücktrittsvereinbarungen
+# § 6 – Gesetzliche Änderung der Rangrücktrittsvereinbarungen
 
 Mit dem 1. Juli 2004 werden die in den §§ 2 bis 5 enthaltenen Regelungen Bestandteil der zwischen den Kreditnehmern und den Gläubigerbanken geschlossenen Rangrücktrittsvereinbarungen und ersetzen entgegenstehende Regelungen.
 
-
-## § 7 – Ablöseregelung
+# § 7 – Ablöseregelung
 
 (1) Die landwirtschaftlichen Altschulden können auf Antrag durch einmalige Zahlung eines für jeden Kreditnehmer gesondert bestimmten Betrages abgelöst werden (Ablöseregelung). Der zu zahlende Ablösebetrag orientiert sich an der wirtschaftlichen Leistungsfähigkeit des Kreditnehmers. Diese bemisst sich nach der Ertragslage, den Vermögensverhältnissen und der Liquidität. Der Ablösebetrag soll dem Barwert der künftigen Zahlungen auf die Rangrücktrittsvereinbarungen, mindestens jedoch dem Barwert der bei Auflösung der Rangrücktrittsvereinbarungen entfallenden Bankgebühren und ersparten Kosten der Abschlussprüfungen entsprechen. Satz 1 gilt nicht für Kreditnehmer, die zum Zeitpunkt der Antragstellung die Liquidation beschlossen oder die Gesamtvollstreckung oder Insolvenz angemeldet haben.
 
 (2) Bei der Barwertberechnung wird der Durchschnitt der im Zeitraum von August 1997 bis zum Ende der Antragsfrist gemäß § 8 Abs. 1 Satz 1 im Amtsblatt der Europäischen Union für Zwecke der gemeinschaftlichen Kontrolle staatlicher Beihilfen veröffentlichten Referenzzinssätze angewendet.
 
-
-## § 8 – Antragsfristen, Antragsunterlagen
+# § 8 – Antragsfristen, Antragsunterlagen
 
 (1) Eine vorzeitige Ablösung der landwirtschaftlichen Altschulden kann nur erfolgen, wenn innerhalb von neun Monaten nach dem Inkrafttreten der Rechtsverordnung gemäß § 9 Abs. 4 ein Antrag bei der Gläubigerbank gestellt wird. Mit dem Antrag hat der Kreditnehmer ein genau beziffertes Ablöseangebot zu unterbreiten, das § 7 Abs. 1 Satz 2 bis 4 angemessen Rechnung trägt.
 
@@ -109,8 +99,7 @@ Mit dem 1. Juli 2004 werden die in den §§ 2 bis 5 enthaltenen Regelungen Besta
 
 7. soweit in der Anlage 2 der Rangrücktrittsvereinbarung enthaltene nicht betriebsnotwendige Vermögens- und Betriebsteile noch nicht veräußert wurden, ist dem Antrag ein unabhängiges Sachverständigengutachten zum aktuellen Verkehrswert dieser Vermögens- und Betriebsteile beizufügen.
 
-
-## § 9 – Entscheidungen, Verordnungsermächtigung
+# § 9 – Entscheidungen, Verordnungsermächtigung
 
 (1) Die Gläubigerbank entscheidet über Anträge auf Ablösung der landwirtschaftlichen Altschulden im Zusammenwirken mit einer vom Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft beauftragten Stelle (beauftragte Stelle).
 
@@ -130,20 +119,17 @@ Mit dem 1. Juli 2004 werden die in den §§ 2 bis 5 enthaltenen Regelungen Besta
 
 zu erlassen.
 
-
-## § 10 – Vermögensauseinandersetzung
+# § 10 – Vermögensauseinandersetzung
 
 (1) Der den Ablösebetrag nach § 7 übersteigende Teil der landwirtschaftlichen Altschulden steht für die Vermögensauseinandersetzung in der Landwirtschaftlichen Produktionsgenossenschaft, aus der der Kreditnehmer hervorgegangen ist, nicht zur Verfügung.
 
 (2) Der den Ablösebetrag nach § 7 übersteigende Teil der landwirtschaftlichen Altschulden verbleibt in einer Rücklage, die nur zum Ausgleich von Verlusten oder zur Kapitalerhöhung aus Gesellschaftsmitteln verwendet werden darf.
 
-
-## § 11 – Auskunftspflicht
+# § 11 – Auskunftspflicht
 
 Die Kreditnehmer sind verpflichtet, der Gläubigerbank und der beauftragten Stelle auf Verlangen Auskunft über alle für die Beurteilung der Fähigkeit zur Ablösung der landwirtschaftlichen Altschulden gemäß Teil 3 maßgeblichen Umstände zu erteilen und Einsicht in ihre Unterlagen und in ihren Betrieb zu gewähren.
 
-
-## § 12 – Formvorschriften, Änderung der Bemessungsgrundlage
+# § 12 – Formvorschriften, Änderung der Bemessungsgrundlage
 
 (1) Für die Berechnungen der Bemessungsgrundlage nach § 2 sind die Regelungen über die Führung von Büchern und Aufzeichnungen nach §§ 140 ff. der Abgabenordnung sinngemäß anzuwenden.
 
@@ -151,13 +137,11 @@ Die Kreditnehmer sind verpflichtet, der Gläubigerbank und der beauftragten Stel
 
 (+++ § 12: Zur Anwendung vgl. §§ 13, 14 +++)
 
-
-## § 13 – Erstmalige Anwendung
+# § 13 – Erstmalige Anwendung
 
 Die Vorschriften der §§ 2, 3 und 12 sind erstmals auf das Geschäftsjahr anzuwenden, das nach dem 30. Juni 2004 beginnt.
 
-
-## § 14 – Übergangsregelungen
+# § 14 – Übergangsregelungen
 
 (1) Bei Kreditnehmern, die einen Antrag nach § 8 Abs. 1 stellen, werden Vorschriften der §§ 2, 3 und 12 in dem Geschäftsjahr, das nach dem 30. Juni 2004 beginnt, zunächst nicht angewandt. Kommt es zur Auflösung der Rangrücktrittsvereinbarung gemäß § 9 Abs. 3, wird auf die Anwendung der §§ 2, 3 und 12 für dieses Geschäftsjahr endgültig verzichtet. Kommt es nicht zur Auflösung gemäß § 9 Abs. 3, ist für dieses Geschäftsjahr die zusätzliche Abführung aus der Anwendung der Vorschriften nach den §§ 2, 3 und 12 nach Scheitern des Ablöseverfahrens nachzuzahlen.
 

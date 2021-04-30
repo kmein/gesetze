@@ -1,15 +1,11 @@
-# [MarktOWMeldV] Verordnung über Meldepflichten über Marktordnungswaren  (Marktordnungswaren-Meldeverordnung)
-
-Ausfertigungsdatum: 24.11.1999
-
+% Verordnung über Meldepflichten über Marktordnungswaren  (Marktordnungswaren-Meldeverordnung)
+% Ausfertigungsdatum: 24.11.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 in Verbindung mit Abs. 2 des Gesetzes über Meldungen über Marktordnungswaren in der Fassung der Bekanntmachung vom 26. Oktober 1995 (BGBl. I S. 1490) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -17,11 +13,9 @@ Im Sinne dieser Verordnung sind:
 
 2. Getreideerzeugnisse: Mühlenerzeugnisse, Malz, Quellmehl, Backmittel und Nährmittel aus Getreide, Nachprodukte der Getreidebe- und -verarbeitung, Teigwaren und Kaffee-Ersatzstoffe,
 
-2a.  
-Haushaltsmehl: Weizenmehl Type 405 im Sinne von DIN 10355 Tabelle 1, Ausgabe November 2017,
+2a. Haushaltsmehl: Weizenmehl Type 405 im Sinne von DIN 10355 Tabelle 1, Ausgabe November 2017,
 
-2b.  
-Verarbeitungsmehl: Weizenmehl Type 550 im Sinne von DIN 10355 Tabelle 1, Ausgabe November 2017,
+2b. Verarbeitungsmehl: Weizenmehl Type 550 im Sinne von DIN 10355 Tabelle 1, Ausgabe November 2017,
 
 3. Stärke: aus Getreide, Kartoffeln und anderen Stärketrägern hergestellte Stärke,
 
@@ -29,43 +23,33 @@ Verarbeitungsmehl: Weizenmehl Type 550 im Sinne von DIN 10355 Tabelle 1, Ausgabe
 
 5. Zucker: Erzeugnisse im Sinne des Anhangs III Nummer 2 Buchstabe B Unterabsatz 4 Buchstabe a der Durchführungsverordnung (EU) 2017/1185 der Kommission vom 20. April 2017 mit Durchführungsbestimmungen zu den Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Übermittlung von Informationen und Dokumenten an die Kommission und zur Änderung und Aufhebung mehrerer Verordnungen der Kommission (ABl. L 171 vom 4.7.2017, S. 113), die zuletzt durch die Durchführungsverordnung (EU) 2019/1746 (ABl. L 268 vom 22.10.2019, S. 6) geändert worden ist, in der jeweils geltenden Fassung mit Ausnahme des in Buchstabe b genannten Weißzuckers,
 
-5a.  
-Isoglucose: Erzeugnisse im Sinne des Anhangs III Nummer 2 Buchstabe C Unterabsatz 4 Satz 1 der Durchführungsverordnung (EU) 2017/1185,
+5a. Isoglucose: Erzeugnisse im Sinne des Anhangs III Nummer 2 Buchstabe C Unterabsatz 4 Satz 1 der Durchführungsverordnung (EU) 2017/1185,
 
-5b.  
-Haushaltszucker: raffinierter Weißzucker gemäß Anlage 1 Nummer 3 der Zuckerartenverordnung vom 23. Oktober 2003 (BGBl. I S. 2098), die zuletzt durch Artikel 8 der Verordnung vom 5. Juli 2017 (BGBl. I S. 2272) geändert worden ist,
+5b. Haushaltszucker: raffinierter Weißzucker gemäß Anlage 1 Nummer 3 der Zuckerartenverordnung vom 23. Oktober 2003 (BGBl. I S. 2098), die zuletzt durch Artikel 8 der Verordnung vom 5. Juli 2017 (BGBl. I S. 2272) geändert worden ist,
 
-5c.  
-Verarbeitungszucker: raffinierter Weißzucker, bei Einsatz im chemisch-pharmazeutischen Bereich auch Zuckersirup mit mindestens 70 Prozent Zuckergehalt, geliefert als Bulkware,
+5c. Verarbeitungszucker: raffinierter Weißzucker, bei Einsatz im chemisch-pharmazeutischen Bereich auch Zuckersirup mit mindestens 70 Prozent Zuckergehalt, geliefert als Bulkware,
 
-5d.  
-Melasse: Sirup mit weniger als 70 Prozent Zuckergehalt bei Herstellung aus Zuckerrüben oder mit weniger als 75 Prozent Zuckergehalt bei Herstellung aus Zuckerrohr, geliefert als Bulkware,
+5d. Melasse: Sirup mit weniger als 70 Prozent Zuckergehalt bei Herstellung aus Zuckerrüben oder mit weniger als 75 Prozent Zuckergehalt bei Herstellung aus Zuckerrohr, geliefert als Bulkware,
 
-5e.  
-Hülsenfrüchte: Erbsen, Süßlupinen, Ackerbohnen und sonstige Hülsenfrüchte,
+5e. Hülsenfrüchte: Erbsen, Süßlupinen, Ackerbohnen und sonstige Hülsenfrüchte,
 
 6. Ölsaaten, -früchte und Saatkeime: Sojabohnen, Rapssaat, Sonnenblumensaat, Leinsaat, Palmkerne, Kopra, Maiskeime sowie andere Ölsaaten, -früchte und Saatkeime,
 
 7. Pflanzenrohöle und -fette: Erzeugnisse, die aus pflanzlichen Ölen und Fetten bestehen und aus Ölsaaten, -früchten und Saatkeimen gewonnen werden,
 
-7a.  
-natives Olivenöl extra: aus der Frucht des Ölbaumes ausschließlich durch physikalische Verfahren gewonnenes Erzeugnis im Sinne des Anhangs VII Teil VIII Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist, in der jeweils geltenden Fassung,
+7a. natives Olivenöl extra: aus der Frucht des Ölbaumes ausschließlich durch physikalische Verfahren gewonnenes Erzeugnis im Sinne des Anhangs VII Teil VIII Nummer 1 Buchstabe a der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist, in der jeweils geltenden Fassung,
 
 8. Ölkuchen, Ölschrote und Expeller: Nebenerzeugnisse, die bei der Öl- und Fettgewinnung durch Pressen oder Extraktion aus Ölsaaten, -früchten und Saatkeimen gewonnen werden,
 
 9. fettangereichertes Pulver: Zubereitung in Pulverform, bestehend aus einem Gemisch aus Magermilch und pflanzlichen Fetten, wobei die Mischung höchstens 30 Prozent Fett und mindestens 23 Prozent Eiweiß enthält,
 
-9a.  
-Hackfleisch vom Rind: zerkleinertes entbeintes Muskelfleisch mit einem Fettanteil von höchstens 20 Prozent und einem Salzanteil von höchstens 1 Prozent,
+9a. Hackfleisch vom Rind: zerkleinertes entbeintes Muskelfleisch mit einem Fettanteil von höchstens 20 Prozent und einem Salzanteil von höchstens 1 Prozent,
 
-9b.  
-Hackfleisch vom Schwein: zerkleinertes entbeintes Muskelfleisch mit einem Fettanteil von höchstens 30 Prozent und einem Salzanteil von höchstens 1 Prozent,
+9b. Hackfleisch vom Schwein: zerkleinertes entbeintes Muskelfleisch mit einem Fettanteil von höchstens 30 Prozent und einem Salzanteil von höchstens 1 Prozent,
 
-9c.  
-ganze Hähnchen der Klasse A: Geflügelschlachtkörper im Sinne von Artikel 1 Nummer 1 Buchstabe a, erster Anstrich und Artikel 7 der Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46; L 8 vom 13.1.2009, S. 33; L 102 vom 23.4.2018, S. 95), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, in der jeweils geltenden Fassung,
+9c. ganze Hähnchen der Klasse A: Geflügelschlachtkörper im Sinne von Artikel 1 Nummer 1 Buchstabe a, erster Anstrich und Artikel 7 der Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46; L 8 vom 13.1.2009, S. 33; L 102 vom 23.4.2018, S. 95), die zuletzt durch die Verordnung (EU) Nr. 519/2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, in der jeweils geltenden Fassung,
 
-9d.  
-Hähnchenbrustfilets: Teilstücke im Sinne von Artikel 1 Nummer 2 Buchstabe k der Verordnung (EG) Nr. 543/2008,
+9d. Hähnchenbrustfilets: Teilstücke im Sinne von Artikel 1 Nummer 2 Buchstabe k der Verordnung (EG) Nr. 543/2008,
 
 10. Fischöle: Erzeugnisse, die aus Fett von Meerestieren bestehen oder aus diesem gewonnen werden,
 
@@ -135,8 +119,7 @@ der für die Preisermittlung maßgebliche Zeitpunkt ist der Tag des Rechnungsein
 
 24. Bulkware: Ware, die in Großverbraucherpackungen, Tank- oder Silofahrzeugen geliefert wird.
 
-
-## § 2 – Meldepflichten der Getreide-, Stärke- und Futtermittelwirtschaft
+# § 2 – Meldepflichten der Getreide-, Stärke- und Futtermittelwirtschaft
 
 (1) Die in den folgenden Absätzen 2 und 3 bis 10 aufgeführten Unternehmen haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 1, 2 und 3 zu melden. Die Unternehmen nach Absatz 2a haben nach Maßgabe des § 6 Absatz 3 zu melden.
 
@@ -324,8 +307,7 @@ b) die abgegebene Menge nach Verwendungszwecken einschließlich der Ausfuhr.
 
 (10) Reismühlen mit einer jährlichen Verarbeitungsmenge von mehr als 1 000 Tonnen haben unbeschadet des Absatzes 2 nach Maßgabe des § 7 Nummer 1 Buchstabe b die Reisbestände nach Maßgabe des Anhangs III Nummer 1 Unterabsatz 1 Buchstabe c der Durchführungsverordnung (EU) 2017/1185 zu melden.
 
-
-## § 3 – Meldepflichten der Zuckerwirtschaft
+# § 3 – Meldepflichten der Zuckerwirtschaft
 
 (1) Die in den folgenden Absätzen 2, 4, 6, 7 und 8 aufgeführten Unternehmen haben jeweils zu melden:
 
@@ -407,8 +389,7 @@ Abweichend von Satz 1 haben Unternehmen des Groß- und Außenhandels mit Zucker 
 
 (8) Die Hersteller von chemischen oder pharmazeutischen Erzeugnissen, die jährlich mehr als 500 Tonnen Verarbeitungszucker, bezogen auf den Weißzuckerwert, als Rohstoff beziehen, haben monatlich nach Maßgabe des § 7 Nummer 2 den im Vormonat gezahlten durchschnittlichen Einkaufspreis für Verarbeitungszucker zu melden. Der Preis ist in Euro je Tonne Produktgewicht anzugeben.
 
-
-## § 4 – Meldepflichten der Fettwirtschaft
+# § 4 – Meldepflichten der Fettwirtschaft
 
 (1) Die in den folgenden Absätzen 2, 3 und 5 aufgeführten Unternehmen haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 1, 2 und 3 zu melden. Die Unternehmen nach Absatz 4 haben die dort genannten Angaben nach Maßgabe des § 6 Absatz 3 zu melden.
 
@@ -498,8 +479,7 @@ In ihnen sind folgende Angaben gesondert nach der jeweiligen Erzeugniskategorie 
 
 2. der Rohstoffeinsatz nach Kategorien der Rohstoffe in Tonnen Reinfett.
 
-
-## § 5 – Meldepflichten der Milchwirtschaft
+# § 5 – Meldepflichten der Milchwirtschaft
 
 (1) Abnehmer von Milch haben monatliche Meldungen nach Maßgabe des § 6 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
@@ -557,8 +537,7 @@ Die Meldungen nach Satz 1 sind vorbehaltlich des Satzes 3 als monatliche Meldung
 
 (6) Die Meldepflicht nach den Absätzen 3 bis 5 gilt für Erzeugnisse aus konventioneller Erzeugung, unabhängig davon, ob die Anforderungen für die Kennzeichnung als frei von gentechnisch veränderten Organismen (GVO-frei) erfüllt werden oder nicht. Von der Meldepflicht ausgenommen sind Erzeugnisse auf der Basis von Rohmilch, die unter speziellen Tierhaltungsanforderungen gewonnen wird, beispielsweise Weidemilch.
 
-
-## § 5a – Meldepflichten der Alkoholwirtschaft
+# § 5a – Meldepflichten der Alkoholwirtschaft
 
 (1) Die in den folgenden Absätzen 2 und 3 aufgeführten Unternehmen haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 3 und des § 7 Nummer 1 Buchstabe a jährlich zu melden, soweit die Angaben nicht bereits nach § 2 Absatz 9 Satz 1 zu melden sind.
 
@@ -566,8 +545,7 @@ Die Meldungen nach Satz 1 sind vorbehaltlich des Satzes 3 als monatliche Meldung
 
 (3) Einführer von Ethylalkohol landwirtschaftlichen Ursprungs mit einer jährlich gehandelten Menge von mehr als 1 000 Hektolitern haben eine Meldung nach Maßgabe des Anhangs III Nummer 10 Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU) 2017/1185 abzugeben.
 
-
-## § 5b – Meldepflichten des Lebensmitteleinzelhandels
+# § 5b – Meldepflichten des Lebensmitteleinzelhandels
 
 (1) Unternehmen des Lebensmitteleinzelhandels haben die Angaben nach den Absätzen 4, 5 und 7 nach Maßgabe des § 6 Absatz 3 zu melden. Unternehmen des Lebensmitteleinzelhandels im Sinne dieser Verordnung sind Unternehmen mit einem inländischen Jahresumsatz von mehr als 7 000 000 000 Euro, die mehr als ein Drittel davon durch den Verkauf von Lebensmitteln an Endverbraucher erzielen. Von der Meldepflicht ausgenommen sind Erzeugnisse, die die meldepflichtigen Unternehmen an Wiederverkäufer oder die Gastronomie liefern.
 
@@ -609,8 +587,7 @@ Die Preise sind in Euro je 100 Kilogramm Produktgewicht anzugeben.
 
 (7) Soweit die in den Absätzen 4 und 5 genannten Erzeugnisse nicht von externen Lieferanten zugekauft werden, sondern von Betrieben, die zum gleichen Unternehmen gehören, bezogen werden und soweit hierfür keine Einkaufspreise explizit vereinbart werden, sind stattdessen die unternehmensinternen Bezugs- oder Verrechnungspreise zu melden. Diese Preise sind ebenfalls in Euro je Tonne oder je 100 Kilogramm Produktgewicht anzugeben.
 
-
-## § 5c – Meldepflichten bestimmter Hersteller von Nahrungsmitteln
+# § 5c – Meldepflichten bestimmter Hersteller von Nahrungsmitteln
 
 (1) Die in den folgenden Absätzen 2 bis 7 aufgeführten Unternehmen des Verarbeitenden Gewerbes haben jeweils die dort genannten Meldungen nach Maßgabe des § 6 Absatz 3 abzugeben.
 
@@ -666,8 +643,7 @@ Die Meldepflicht gilt nur, soweit der Jahresumsatz des Herstellers 250 000 000
 
 (9) Soweit die in den Absätzen 2 bis 7 genannten Erzeugnisse nicht von externen Lieferanten zugekauft werden, sondern von Unternehmen, die zur gleichen Unternehmensgruppe gehören, bezogen werden und soweit hierfür keine Einkaufspreise explizit vereinbart werden, sind stattdessen die unternehmensgruppeninternen Bezugs- oder Verrechnungspreise zu melden. Absatz 8 gilt entsprechend.
 
-
-## § 6 – Meldepflichtige, Gesamtmeldung
+# § 6 – Meldepflichtige, Gesamtmeldung
 
 (1) Soweit auf diese Vorschrift Bezug genommen wird, haben Unternehmen mit mehreren Betrieben für jeden Betrieb gesondert zu melden. Liegen mehrere Betriebe eines Unternehmens nach § 2 Absatz 8 oder § 3 Absatz 3 oder § 3 Absatz 8 in einem Land, so kann für diese eine zusammengefasste Meldung abgegeben werden. Die in diese Meldung einbezogenen Standorte sind zu benennen.
 
@@ -705,8 +681,7 @@ Anzeige und Mitteilung müssen spätestens zwei Wochen vor Abgabe der ersten Mel
 
 (5) Soweit keine nach § 2 Absatz 2 bis 10, § 3 Absatz 2 bis 4 oder Absatz 8, § 4 Absatz 2 bis 5, § 5 Absatz 1 bis 5, § 5a Absatz 2 oder 3, § 5b Absatz 4 oder 5 oder § 5c Absatz 2 bis 7 meldepflichtigen Tatbestände vorliegen, haben die jeweils Betroffenen dies nach Maßgabe des § 7 zu melden.
 
-
-## § 7 – Zeitpunkt der Meldungen
+# § 7 – Zeitpunkt der Meldungen
 
 Bei der zuständigen Stelle haben einzugehen:
 
@@ -724,20 +699,17 @@ d) nach § 3 Absatz 6 und Absatz 7 Nummer 2 spätestens am 30. Oktober für das 
 
 3. die nach § 4 Absatz 4 Satz 1 Nummer 2, § 5 Absatz 3 bis 5, § 5b Absatz 5 und § 5c Absatz 5 bis 7 abzugebenden wöchentlichen Meldungen am Montag der folgenden Woche.
 
-
-## § 8 – Form der Meldungen
+# § 8 – Form der Meldungen
 
 (1) Die Meldungen sind unter Beachtung von Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden Fassung nach vorgeschriebenem Datensatzaufbau durch Datenfernübertragung an die zuständige Stelle zu übermitteln. Die zuständige Stelle legt den Aufbau des Datensatzes und den Übertragungsweg fest und veröffentlicht diese Angaben im Bundesanzeiger sowie auf ihrer Internetseite.
 
 (2) Auf Antrag kann die zuständige Stelle zur Vermeidung von unbilligen Härten auf eine elektronische Übermittlung verzichten. In diesem Fall hat das Unternehmen eine Meldung auf Formblättern abzugeben, die von der zuständigen Stelle bereitgestellt werden.
 
-
-## § 9 – Aufzeichnungspflichten
+# § 9 – Aufzeichnungspflichten
 
 Die Meldepflichtigen haben die für die Meldungen nach § 2 Absatz 1, § 3 Absatz 1, § 4 Absatz 1, § 5 Absatz 1 bis 5, § 5a Absatz 1, § 5b Absatz 1 und § 5c Absatz 1 erforderlichen Aufzeichnungen fortlaufend zu führen. Die Aufzeichnungen sind für einen Zeitraum von drei Jahren ab dem Zeitpunkt des Erstellens der Aufzeichnung aufzubewahren. Längere Aufbewahrungsfristen nach anderen Vorschriften bleiben unberührt.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Gesetzes über Meldungen über Marktordnungswaren handelt, wer vorsätzlich oder fahrlässig
 
@@ -745,8 +717,7 @@ Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Gesetzes über Meldungen übe
 
 2. entgegen § 9 Satz 1 oder 2 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder nicht mindestens drei Jahre aufbewahrt.
 
-
-## § 11 – Mengenangaben zur Wägung von Preisen
+# § 11 – Mengenangaben zur Wägung von Preisen
 
 (1) Bis zum 15. Dezember 2020 haben die Meldepflichtigen nach § 2 Absatz 2a und 7a, § 3 Absatz 8, § 4 Absatz 4, § 5 Absatz 3 bis 5, § 5b Absatz 1 und § 5c Absatz 1 eine einmalige Meldung über die gesamte Bezugsmenge der in § 2 Absatz 7a, § 3 Absatz 8, § 5b Absatz 4 und 5 und § 5c Absatz 2 bis 7 genannten Erzeugnisse im Kalenderjahr 2019 und die gesamte Abgabemenge der in § 2 Absatz 2a, § 4 Absatz 4 und § 5 Absatz 3 bis 5 genannten Erzeugnisse im Kalenderjahr 2019, jeweils gerundet auf volle hundert Tonnen, abzugeben.
 
@@ -754,15 +725,12 @@ Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Gesetzes über Meldungen übe
 
 (3) Unternehmen oder Unternehmensgruppen, die nach dem 1. Januar 2021 meldepflichtig werden, haben spätestens zwei Wochen vor der ersten Meldung die jeweilige Bezugsmenge oder Abgabemenge der Erzeugnisse im vorhergehenden Kalenderjahr anzugeben, für die sie meldepflichtig werden, jeweils gerundet auf volle hundert Tonnen.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage G 1 bis M 6 – (weggefallen)
+# Anlage G 1 bis M 6 – (weggefallen)

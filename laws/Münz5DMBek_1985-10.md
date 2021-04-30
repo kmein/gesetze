@@ -1,10 +1,7 @@
-# [Münz5DMBek 1985-10] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 150 Jahre Eisenbahn in Deutschland)
-
-Ausfertigungsdatum: 11.10.1985
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 150 Jahre Eisenbahn in Deutschland)
+% Ausfertigungsdatum: 11.10.1985
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß des 150jährigen Jubiläums der Eisenbahn in Deutschland im Jahre 1985 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Karlsruhe.
 
@@ -34,12 +31,10 @@ Ausfertigungsdatum: 11.10.1985
 
 (9) Der Entwurf der Münze stammt von Erich Ott, München.
 
-(10) Dies wird namens der Bundesregierung bekanntgemacht.  
-  
+(10) Dies wird namens der Bundesregierung bekanntgemacht.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung,  
 Fundstelle: BGBl I 1985, 2003)

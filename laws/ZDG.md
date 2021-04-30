@@ -1,32 +1,25 @@
-# [ZDG] Gesetz über den Zivildienst der Kriegsdienstverweigerer  (Zivildienstgesetz - ZDG)
-
-Ausfertigungsdatum: 13.01.1960
-
+% Gesetz über den Zivildienst der Kriegsdienstverweigerer  (Zivildienstgesetz - ZDG)
+% Ausfertigungsdatum: 13.01.1960
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Aufgaben des Zivildienstes
+# § 1 – Aufgaben des Zivildienstes
 
 Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben, die dem Allgemeinwohl dienen, vorrangig im sozialen Bereich.
 
-
-## § 1a – Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
+# § 1a – Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
 
 (1) Die Einberufungsanordnungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend können vorsehen, dass Einberufungen außerhalb des Spannungs- oder Verteidigungsfalls nur auf Vorschlag des Zivildienstpflichtigen und nur für Dienstantritte bis zum 30. Juni 2011 erfolgen.
 
 (2) § 2 Absatz 2 sowie die §§ 2a und 23 gelten nur im Spannungs- oder Verteidigungsfall.
 
-
-## § 2 – Organisation des Zivildienstes
+# § 2 – Organisation des Zivildienstes
 
 (1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in bundeseigener Verwaltung ausgeführt. Hierzu wird eine selbstständige Bundesoberbehörde unter der Bezeichnung "Bundesamt für den Zivildienst" (Bundesamt) errichtet, die dem Bundesministerium für Familie, Senioren, Frauen und Jugend untersteht. Dem Bundesamt können auch andere Aufgaben aus dem Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend übertragen werden.
 
 (2) Auf Vorschlag der Bundesregierung wird im Bundesministerium für Familie, Senioren, Frauen und Jugend eine Bundesbeauftragte für den Zivildienst (Bundesbeauftragte) oder ein Bundesbeauftragter für den Zivildienst (Bundesbeauftragter) ernannt. Die oder der Bundesbeauftragte führt die dem Bundesministerium für Familie, Senioren, Frauen und Jugend auf dem Gebiet des Zivildienstes obliegenden Aufgaben durch, soweit dieses Gesetz nichts anderes bestimmt. Die oder der Bundesbeauftragte erstattet dem Deutschen Bundestag in jeder Legislaturperiode einen schriftlichen Tätigkeitsbericht (Zivildienstbericht).
 
-
-## § 2a – Beirat für den Zivildienst
+# § 2a – Beirat für den Zivildienst
 
 (1) Bei dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird ein Beirat für den Zivildienst gebildet. Der Beirat hat das Bundesministerium für Familie, Senioren, Frauen und Jugend in Fragen des Zivildienstes einschließlich der Frage, welche Aufgaben den Zivildienstpflichtigen (Dienstpflichtigen) außerhalb des sozialen Bereichs zugewiesen werden sollen, zu beraten.
 
@@ -48,13 +41,11 @@ Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben, die dem Al
 
 (4) Die Sitzungen des Beirates werden vom Bundesministerium für Familie, Senioren, Frauen und Jugend nach Maßgabe einer von ihm zu erlassenden Geschäftsordnung einberufen und geleitet.
 
-
-## § 3 – Dienststellen
+# § 3 – Dienststellen
 
 Die Dienstpflichtigen leisten den Zivildienst in einer dafür anerkannten Beschäftigungsstelle, in einer Zivildienstschule oder in einer Zivildienstgruppe (Dienststellen). Sie können bei dringendem Bedarf auch in der Verwaltung des Zivildienstes beschäftigt werden.
 
-
-## § 4 – Anerkennung von Beschäftigungsstellen
+# § 4 – Anerkennung von Beschäftigungsstellen
 
 (1) Eine Beschäftigungsstelle kann auf ihren Antrag anerkannt werden, wenn
 
@@ -62,8 +53,7 @@ Die Dienstpflichtigen leisten den Zivildienst in einer dafür anerkannten Besch�
 
 2. sie die Gewähr bietet, dass Beschäftigung, Leitung und Betreuung der Dienstleistenden dem Wesen des Zivildienstes entsprechen; eine Beschäftigung entspricht insbesondere nicht dem Wesen des Zivildienstes, wenn sie wegen der für den Dienstleistenden mit ihr verbundenen Belastung zu einer offensichtlichen Ungleichbehandlung des Dienstleistenden im Vergleich zu anderen Dienstleistenden oder zu den Wehrdienstleistenden führen würde,
 
-2a.  
-sie die Dienstleistenden nach den §§ 25a und 25b persönlich und fachlich begleitet und für die Betreuung der Dienstleistenden qualifiziertes Personal einsetzt,
+2a. sie die Dienstleistenden nach den §§ 25a und 25b persönlich und fachlich begleitet und für die Betreuung der Dienstleistenden qualifiziertes Personal einsetzt,
 
 3. sie sich bereit erklärt, Dienstpflichtige, die den von ihr geforderten Eignungsvoraussetzungen entsprechen, ohne besondere Zustimmung zur Person des Dienstpflichtigen zu beschäftigen, sofern nicht die Beschäftigung wegen ihrer Eigenart an die Person des Dienstpflichtigen besondere, über die geforderten Voraussetzungen hinausgehende Anforderungen stellt, und
 
@@ -71,13 +61,11 @@ sie die Dienstleistenden nach den §§ 25a und 25b persönlich und fachlich begl
 
 (2) Die Anerkennung ist zurückzunehmen oder zu widerrufen, wenn eine der in Absatz 1 genannten Voraussetzungen nicht vorgelegen hat oder nicht mehr vorliegt. Sie kann auch aus anderen wichtigen Gründen widerrufen werden, insbesondere, wenn eine Auflage nicht oder nicht innerhalb einer gesetzten Frist erfüllt worden ist.
 
-
-## § 5 – Aufstellung der Dienstgruppen
+# § 5 – Aufstellung der Dienstgruppen
 
 Dienstgruppen werden auf Anordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend nach Bedarf aufgestellt. Das Bundesministerium für Familie, Senioren, Frauen und Jugend bestimmt ihren Sitz nach Anhörung des beteiligten Landes.
 
-
-## § 5a – Übertragung von Verwaltungsaufgaben
+# § 5a – Übertragung von Verwaltungsaufgaben
 
 (1) Die Dienststellen können mit der Wahrnehmung von Verwaltungsaufgaben beauftragt werden. Werden Stellen der Länder beauftragt, so handeln diese im Auftrag des Bundes.
 
@@ -89,8 +77,7 @@ Dienstgruppen werden auf Anordnung des Bundesministeriums für Familie, Senioren
 
 Die Verwaltungskosten können in angemessenem Umfang erstattet werden.
 
-
-## § 6 – Kosten
+# § 6 – Kosten
 
 (1) Die Beschäftigungsstellen sorgen auf ihre Kosten für Unterkunft, Verpflegung und Arbeitskleidung der Dienstleistenden. Sie tragen die ihnen aus der Beschäftigung der Dienstleistenden entstehenden Verwaltungskosten.
 
@@ -104,18 +91,15 @@ Die Verwaltungskosten können in angemessenem Umfang erstattet werden.
 
 zu erhalten. Das Bundesministerium für Familie, Senioren, Frauen und Jugend erlässt zur Durchführung von Satz 1 im Einvernehmen mit dem Bundesministerium der Finanzen allgemeine Verwaltungsvorschriften zur Durchführung. Die Zuschüsse dürfen nur insoweit gewährt werden, als der Haushaltsplan hierfür Mittel zur Verfügung stellt.
 
-
-## § 7 – Tauglichkeit
+# § 7 – Tauglichkeit
 
 Die Tauglichkeit für den Zivildienst bestimmt sich nach der Tauglichkeit für den Wehrdienst. Wehrdienstfähige gelten als zivildienstfähig, vorübergehend nicht Wehrdienstfähige als vorübergehend nicht zivildienstfähig und nicht Wehrdienstfähige als nicht zivildienstfähig.
 
-
-## § 8 – Zivildienstunfähigkeit
+# § 8 – Zivildienstunfähigkeit
 
 Zum Zivildienst wird nicht herangezogen, wer nicht zivildienstfähig ist.
 
-
-## § 9 – Ausschluss vom Zivildienst
+# § 9 – Ausschluss vom Zivildienst
 
 Vom Zivildienst ist ausgeschlossen,
 
@@ -125,8 +109,7 @@ Vom Zivildienst ist ausgeschlossen,
 
 3. wer einer Maßregel der Besserung und Sicherung nach den §§ 64, 66, 66a oder § 66b des Strafgesetzbuches unterworfen ist, solange die Maßregel nicht erledigt ist.
 
-
-## § 10 – Befreiung vom Zivildienst
+# § 10 – Befreiung vom Zivildienst
 
 (1) Vom Zivildienst sind befreit
 
@@ -172,8 +155,7 @@ b) eingetragene Lebenspartner sind oder
 
 c) die elterliche Sorge gemeinsam oder als Alleinerziehende ausüben.
 
-
-## § 11 – Zurückstellung vom Zivildienst
+# § 11 – Zurückstellung vom Zivildienst
 
 (1) Vom Zivildienst wird zurückgestellt,
 
@@ -215,8 +197,7 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 (6) Vom Zivildienst soll ein anerkannter Kriegsdienstverweigerer auf Antrag auch zurückgestellt werden, wenn er für die Erhaltung und Fortführung des elterlichen Betriebes oder des Betriebes seines Arbeitgebers oder für die ordnungsgemäße Aufgabenerfüllung seiner Dienstbehörde unentbehrlich ist. In diesem Fall sind die Eltern, der Arbeitgeber oder die Dienstbehörde des anerkannten Kriegsdienstverweigerers antragsberechtigt und verpflichtet, den Wegfall der Voraussetzungen für die Unentbehrlichkeit dem Bundesamt anzuzeigen. Die Zurückstellung bedarf der Zustimmung des anerkannten Kriegsdienstverweigerers. Die Einberufung des anerkannten Kriegsdienstverweigerers ist bis zur Entscheidung über den Antrag auszusetzen.
 
-
-## § 12 – Befreiungs- und Zurückstellungsanträge
+# § 12 – Befreiungs- und Zurückstellungsanträge
 
 (1) Anträge nach § 10 Abs. 2 und nach § 11 Abs. 2, 4 und 6 dieses Gesetzes, die nicht gemäß § 20 des Wehrpflichtgesetzes frühestens nach Mitteilung der Erfassung durch die Erfassungsbehörde (§ 15 Abs. 1 Satz 2 des Wehrpflichtgesetzes) und spätestens bis zum Abschluss der Musterung schriftlich, elektronisch oder zur Niederschrift beim Kreiswehrersatzamt zu stellen waren, sind schriftlich, elektronisch oder zur Niederschrift des Bundesamtes zu stellen.
 
@@ -226,8 +207,7 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 2. eine Erklärung des zuständigen Landeskirchenamtes, der bischöflichen Behörde, des Ordensoberen oder der entsprechenden Oberbehörde einer anderen Religionsgemeinschaft, dass sich der anerkannte Kriegsdienstverweigerer auf das geistliche Amt vorbereitet.
 
-
-## § 13 – Verfahren bei der Zurückstellung
+# § 13 – Verfahren bei der Zurückstellung
 
 (1) Zurückstellungen nach § 11 Abs. 1, 4 und 5 sind befristet auszusprechen. In den Fällen des § 11 Abs. 4, ausgenommen Satz 2 Nr. 1 Buchstabe b, Nr. 3, sowie des Absatzes 6, darf der anerkannte Kriegsdienstverweigerer vom Zivildienst so lange zurückgestellt werden, dass er noch vor der für ihn nach § 24 Abs. 1 Satz 1 bis 4 maßgebenden Altersgrenze einberufen werden kann. In Ausnahmefällen, in denen die Einberufung eine unzumutbare Härte bedeuten würde, kann er auch darüber hinaus zurückgestellt werden.
 
@@ -237,8 +217,7 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 (4) Nach Ablauf der Zurückstellungsfrist steht der anerkannte Kriegsdienstverweigerer unbeschadet der Vorschrift des § 19 Abs. 4 für den Zivildienst zur Verfügung.
 
-
-## § 14 – Zivilschutz oder Katastrophenschutz
+# § 14 – Zivilschutz oder Katastrophenschutz
 
 (1) Anerkannte Kriegsdienstverweigerer, die sich vor Vollendung des 23. Lebensjahres mit Zustimmung der zuständigen Behörde auf mindestens vier Jahre zum ehrenamtlichen Dienst als Helfer im Zivilschutz oder Katastrophenschutz verpflichtet haben, werden nicht zum Zivildienst herangezogen, solange sie im Zivilschutz oder Katastrophenschutz mitwirken. Dies gilt auch bei von der zuständigen Behörde genehmigten Unterbrechungen der Mitwirkung, wenn die auf der Mindestverpflichtung beruhende vierjährige tatsächliche Mitwirkung noch bis zur Vollendung des 28. Lebensjahres erfüllt werden kann.
 
@@ -248,8 +227,7 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 (4) Haben anerkannte Kriegsdienstverweigerer vier Jahre im Zivilschutz oder Katastrophenschutz mitgewirkt, so erlischt ihre Pflicht, Zivildienst zu leisten; das gilt nicht für den Zivildienst im Verteidigungsfall. Genehmigte Unterbrechungen der Mitwirkung (Absatz 1 Satz 2) gelten als Mitwirkung, soweit sie insgesamt einen Zeitraum von sechs Monaten nicht übersteigen. Endet die Mitwirkung aus Gründen, die nicht in der Person oder in dem Verhalten des anerkannten Kriegsdienstverweigerers liegen, vorzeitig, so ist die im Zivilschutz oder Katastrophenschutz zurückgelegte Zeit, soweit sie die Hälfte der Zeit nach Satz 1 übersteigt, anteilmäßig auf den Zivildienst anzurechnen.
 
-
-## § 14a – Entwicklungsdienst
+# § 14a – Entwicklungsdienst
 
 (1) Anerkannte Kriegsdienstverweigerer werden bis zur Vollendung des 28. Lebensjahres nicht zum Zivildienst herangezogen, wenn sie sich gegenüber einem nach § 2 des Entwicklungshelfer-Gesetzes anerkannten Träger des Entwicklungsdienstes im Rahmen des Bedarfs dieses Trägers vertraglich zur Leistung eines mindestens zweijährigen Entwicklungsdienstes verpflichtet haben, sich in angemessener Weise für die spätere Tätigkeit als Entwicklungshelfer fortbilden und das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung dies bestätigt.
 
@@ -259,8 +237,7 @@ unterbrechen oder die Aufnahme einer rechtsverbindlich zugesagten oder vertragli
 
 (4) Die Träger des Entwicklungsdienstes sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der Voraussetzungen für die Nichtheranziehung von anerkannten Kriegsdienstverweigerern zum Zivildienst anzuzeigen.
 
-
-## § 14b – Andere Dienste im Ausland
+# § 14b – Andere Dienste im Ausland
 
 (1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst herangezogen, wenn sie
 
@@ -282,8 +259,7 @@ Die Träger sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der
 
 Über die Anerkennung eines Trägers entscheidet auf dessen Antrag das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Auswärtigen Amt. Es kann die Anerkennung auf bestimmte Vorhaben des Trägers beschränken. § 4 Abs. 1 Satz 3 und Abs. 2 gelten entsprechend.
 
-
-## § 14c – Freiwilliges Jahr
+# § 14c – Freiwilliges Jahr
 
 (1) Anerkannte Kriegsdienstverweigerer werden nicht zum Zivildienst herangezogen, wenn sie sich nach ihrer Anerkennung als Kriegsdienstverweigerer schriftlich zu einem freiwilligen Dienst nach dem Jugendfreiwilligendienstegesetz verpflichtet haben, der mindestens zwei Monate länger dauert als der Zivildienst, den sie sonst zu leisten hätten. Der Dienst ist spätestens ein Jahr nach der Verpflichtung sowie vor Vollendung des 23. Lebensjahres anzutreten. Die Verpflichtung ist gegenüber einem Träger zu übernehmen, der nach dem Jugendfreiwilligendienstegesetz zugelassen ist.
 
@@ -295,8 +271,7 @@ Die Träger sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der
 
 (5) (weggefallen)
 
-
-## § 15 – Sondervorschriften für Angehörige des Polizeivollzugsdienstes
+# § 15 – Sondervorschriften für Angehörige des Polizeivollzugsdienstes
 
 (1) Anerkannte Kriegsdienstverweigerer, die dem Vollzugsdienst der Polizei angehören oder für diesen durch schriftlichen Bescheid angenommen sind, werden bis zur Beendigung dieses Dienstes nicht zum Zivildienst herangezogen.
 
@@ -304,15 +279,13 @@ Die Träger sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der
 
 (3) § 14 Abs. 3 findet entsprechende Anwendung, wenn eine zuständige Behörde anzeigt, dass ein anerkannter Kriegsdienstverweigerer in den Vollzugsdienst der Polizei eingetreten ist oder für diesen durch schriftlichen Bescheid angenommen worden und seine Einstellung innerhalb von sechs Monaten nach der Annahme zu erwarten ist.
 
-
-## § 15a – Freies Arbeitsverhältnis
+# § 15a – Freies Arbeitsverhältnis
 
 (1) Anerkannte Kriegsdienstverweigerer, die aus Gewissensgründen gehindert sind, Zivildienst zu leisten, werden zum Zivildienst vorläufig nicht herangezogen, wenn sie erklären, dass sie ein Arbeitsverhältnis mit üblicher Arbeitszeit in einem Krankenhaus oder einer anderen Einrichtung zur Behandlung, Pflege und Betreuung von Personen begründen wollen, oder wenn sie in einem solchen Arbeitsverhältnis tätig sind. Dies gilt nur, wenn das Arbeitsverhältnis nach der Anerkennung als Kriegsdienstverweigerer und vor Vollendung des 22. Lebensjahres mit einer Dauer, die mindestens acht Monate länger ist als der Zivildienst, den der anerkannte Kriegsdienstverweigerer sonst zu leisten hätte, begründet werden soll oder begründet worden ist.
 
 (2) Weist der anerkannte Kriegsdienstverweigerer vor Vollendung des 24. Lebensjahres nach, dass er für die in Absatz 1 genannte Mindestdauer in einem solchen Arbeitsverhältnis tätig war, so erlischt seine Pflicht, Zivildienst zu leisten. Wird das Arbeitsverhältnis aus Gründen, die der anerkannte Kriegsdienstverweigerer nicht zu vertreten hat, vorzeitig beendet, so ist die in dem Arbeitsverhältnis zurückgelegte Zeit, soweit sie acht Monate übersteigt, auf den Zivildienst anzurechnen.
 
-
-## § 16 – Unabkömmlichstellung
+# § 16 – Unabkömmlichstellung
 
 (1) Zum Ausgleich des öffentlichen Interesses an der Heranziehung zum Zivildienst und desjenigen an der Deckung des personellen Kräftebedarfs für Aufgaben außerhalb des Zivildienstes kann ein Dienstpflichtiger im Spannungs- und Verteidigungsfall, wenn das letztgenannte öffentliche Interesse überwiegt, für den Zivildienst unabkömmlich gestellt werden, solange er für die von ihm außerhalb des Zivildienstes ausgeübte Tätigkeit nicht entbehrt werden kann.
 
@@ -320,18 +293,15 @@ Die Träger sind verpflichtet, dem Bundesamt das Vorliegen sowie den Wegfall der
 
 (3) Die Dienstbehörde oder der Arbeitgeber des Dienstpflichtigen ist verpflichtet, dem Bundesamt den Wegfall der Voraussetzungen für die Unabkömmlichstellung anzuzeigen. Dienstpflichtige, die in keinem Dienst- oder Arbeitsverhältnis stehen, haben den Wegfall der Voraussetzungen selbst anzuzeigen.
 
-
-## § 17 – Entscheidungen über Wehrdienstausnahmen
+# § 17 – Entscheidungen über Wehrdienstausnahmen
 
 Entscheidungen der Wehrersatzbehörden über Wehrdienstausnahmen gelten auch für den Zivildienst.
 
-
-## § 18 – Erstattung von Auslagen und Verdienstausfall
+# § 18 – Erstattung von Auslagen und Verdienstausfall
 
 Anerkannten Kriegsdienstverweigerern werden die aus Anlass einer Prüfung ihrer Verfügbarkeit für den Zivildienst entstandenen notwendigen Auslagen sowie bei angeordneter persönlicher Vorstellung auch Verdienstausfall nach Maßgabe der für die Musterung bei den Wehrersatzbehörden geltenden Vorschriften erstattet.
 
-
-## § 19 – Einberufung
+# § 19 – Einberufung
 
 (1) Die Dienstpflichtigen werden nach den Einberufungsanordnungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend zum Zivildienst einberufen, sofern sie nicht nach Absatz 2 in ein Dienstverhältnis nach diesem Gesetz überführt werden. Wer aus dem Grundwehrdienst entlassen wird, weil er als Kriegsdienstverweigerer anerkannt ist, soll unverzüglich zum Zivildienst einberufen werden.
 
@@ -345,8 +315,7 @@ Anerkannten Kriegsdienstverweigerern werden die aus Anlass einer Prüfung ihrer 
 
 (6) Der Einberufungsbescheid soll mindestens vier Wochen vor dem Einberufungstermin ergehen. Dies gilt nicht in den Fällen des Absatzes 1 Satz 2.
 
-
-## § 19a – Verlegung des ständigen Aufenthaltes
+# § 19a – Verlegung des ständigen Aufenthaltes
 
 (1) Die Wehrpflicht erlischt oder ruht nicht, wenn anerkannte Kriegsdienstverweigerer ihren ständigen Aufenthalt
 
@@ -358,18 +327,15 @@ Anerkannten Kriegsdienstverweigerern werden die aus Anlass einer Prüfung ihrer 
 
 (2) Verlegen anerkannte Kriegsdienstverweigerer ihren ständigen Aufenthalt ohne die nach § 23 Abs. 4 erforderliche Genehmigung aus der Bundesrepublik Deutschland hinaus, so werden sie zum Zivildienst nach den Vorschriften dieses Gesetzes herangezogen.
 
-
-## § 20 – Vernehmung von Zeuginnen, Zeugen und Sachverständigen
+# § 20 – Vernehmung von Zeuginnen, Zeugen und Sachverständigen
 
 Ist für die Überprüfung der Verfügbarkeit des anerkannten Kriegsdienstverweigerers die Vernehmung von Zeuginnen, Zeugen oder Sachverständigen erforderlich, kann das Amtsgericht, in dessen Bezirk diese ihren Wohnsitz oder Aufenthalt haben, um deren Vernehmung ersucht werden. Hierbei sind die Tatsachen anzugeben, über welche die Vernehmung erfolgen soll. Die Vorschriften des Gerichtsverfassungsgesetzes über die Rechtshilfe (§§ 156ff.) und die Vorschriften der Zivilprozessordnung finden entsprechende Anwendung. Die Beeidigung von Zeuginnen, Zeugen oder Sachverständigen liegt im Ermessen des Amtsgerichts. Dieses entscheidet auch über die Rechtmäßigkeit der Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung; die Entscheidung kann nicht angefochten werden.
 
-
-## § 21 – Widerruf des Einberufungsbescheides
+# § 21 – Widerruf des Einberufungsbescheides
 
 Wird nach Zustellung des Einberufungsbescheides festgestellt, dass der anerkannte Kriegsdienstverweigerer nicht verfügbar ist, so ist der Einberufungsbescheid zu widerrufen. Der Widerrufsbescheid ist schriftlich zu erteilen und zuzustellen.
 
-
-## § 22 – Anrechnung anderen Dienstes
+# § 22 – Anrechnung anderen Dienstes
 
 Geleisteter Wehrdienst und auf Grund der Grenzschutzdienstpflicht geleisteter Grenzschutzdienst werden auf den Zivildienst angerechnet. Dies gilt nicht für Tage, an denen ein Dienstpflichtiger infolge
 
@@ -387,15 +353,13 @@ Geleisteter Wehrdienst und auf Grund der Grenzschutzdienstpflicht geleisteter Gr
 
 keinen Dienst geleistet hat.
 
-
-## § 22a – Anrechnung von Wehr- und Zivildienst anderer Staaten
+# § 22a – Anrechnung von Wehr- und Zivildienst anderer Staaten
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann im Einzelfall außerhalb der Bundeswehr geleisteten Wehrdienst oder an Stelle des Wehrdienstes geleisteten anderen Dienst auf den Zivildienst nach diesem Gesetz ganz oder zum Teil anrechnen. Der Wehrdienst oder der an Stelle des Wehrdienstes geleistete andere Dienst soll angerechnet werden, wenn er auf Grund gesetzlicher Vorschriften geleistet worden ist; dies gilt auch, wenn das Bundesministerium der Verteidigung dem Dienst außerhalb der Bundeswehr zugestimmt hat.
 
 (2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann die in Absatz 1 genannte Befugnis auf das Bundesamt für den Zivildienst übertragen. Anträge auf Anrechnung von Wehrdienst, der außerhalb der Bundeswehr geleistet worden ist, sowie von anderem Dienst, der an Stelle des Wehrdienstes geleistet worden ist, sind beim Bundesamt zu stellen, das zum Nachweis eine Versicherung des Dienstpflichtigen an Eides statt verlangen kann.
 
-
-## § 23 – Zivildienstüberwachung
+# § 23 – Zivildienstüberwachung
 
 (1) Die anerkannten Kriegsdienstverweigerer unterliegen der Zivildienstüberwachung. Diese endet mit Ablauf des Jahres, in dem sie das 32. Lebensjahr vollendet haben.
 
@@ -431,13 +395,11 @@ Dies gilt nicht für die Meldung der die Zivildienstausnahmen begründenden Tats
 
 (8) Für die Aufenthaltsfeststellung von anerkannten Kriegsdienstverweigerern während der Zivildienstüberwachung gilt § 24b des Wehrpflichtgesetzes entsprechend.
 
-
-## § 23a – Zuführung
+# § 23a – Zuführung
 
 Die Polizei kann ersucht werden, Dienstpflichtige, die ihrer Einberufung oder einem Umwandlungsbescheid nach § 19 Abs. 2 unentschuldigt nicht Folge leisten, der im Einberufungsbescheid oder Umwandlungsbescheid bezeichneten Stelle zuzuführen. Die Polizei ist befugt, zum Zweck der Zuführung die Wohnung und andere Räume des Dienstpflichtigen zu betreten und nach ihm zu suchen. Das Gleiche gilt, außer zur Nachtzeit, für andere Wohnungen und Räume, wenn sich der Dienstpflichtige einem unmittelbar bevorstehenden Zugriff der Polizei durch Betreten solcher Wohnungen und Räume entzieht. Maßnahmen nach den Sätzen 2 und 3 bedürfen einer durch das Bundesamt einzuholenden richterlichen Anordnung. Dabei kann das Gericht von einer vorherigen Anhörung des Dienstpflichtigen oder Wohnungsinhabers absehen, wenn es dies für erforderlich hält, um den Zweck der Maßnahme nicht zu gefährden. Personen, die Mitgewahrsam an der Wohnung des Dienstpflichtigen haben, haben das Betreten und Durchsuchen der Wohnung und anderer Räume zu dulden. Unbillige Härten gegenüber Mitgewahrsamsinhabern sind zu vermeiden. Die Anordnung ist bei der Durchsuchung vorzuzeigen. Für die richterliche Anordnung einer Durchsuchung ist das Verwaltungsgericht zuständig, in dessen Bezirk die Durchsuchung vorgenommen werden soll. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
-
-## § 24 – Dauer des Zivildienstes
+# § 24 – Dauer des Zivildienstes
 
 (1) Zivildienst leisten Dienstpflichtige, die zu dem für den Dienstbeginn festgesetzten Zeitpunkt das 23. Lebensjahr noch nicht vollendet haben. Abweichend von Satz 1 leisten Zivildienst Dienstpflichtige, die zu dem für den Dienstbeginn festgesetzten Zeitpunkt das 25. Lebensjahr noch nicht vollendet haben, wenn sie
 
@@ -475,20 +437,17 @@ Bei Dienstpflichtigen, die wegen eines Anerkennungsverfahrens nach den Vorschrif
 
 keinen Dienst geleistet hat, sind nachzudienen.
 
-
-## § 25 – Beginn des Zivildienstes
+# § 25 – Beginn des Zivildienstes
 
 Das Zivildienstverhältnis beginnt mit dem Zeitpunkt, der im Einberufungsbescheid für den Diensteintritt des Dienstpflichtigen oder im Umwandlungsbescheid für die Umwandlung nach § 19 Abs. 2 festgesetzt ist.
 
-
-## § 25a – Einweisung in der Dienststelle
+# § 25a – Einweisung in der Dienststelle
 
 (1) Die Dienstleistenden werden zu Beginn ihres Dienstes in ihrer Dienststelle in die Tätigkeit, für die sie vorgesehen sind, eingewiesen (Einweisungsdienst). Im Einweisungsdienst sind den Dienstleistenden die Kenntnisse und Fertigkeiten zu vermitteln, die sie für die vorgesehene Tätigkeit benötigen. Die Dauer des Einweisungsdienstes richtet sich nach der Art der Tätigkeit und der Vorbildung der Dienstleistenden. Bei pflegenden und betreuenden Tätigkeiten beträgt sie in der Regel mindestens vier Wochen. Den Dienstleistenden darf die Tätigkeit, für die sie vorgesehen sind, erst nach Beendigung des Einweisungsdienstes übertragen werden.
 
 (2) Bei einer Änderung der Art der Tätigkeit des Dienstleistenden gilt Absatz 1 entsprechend.
 
-
-## § 25b – Einführung und Begleitung
+# § 25b – Einführung und Begleitung
 
 (1) Die Dienstleistenden sind zu Beginn ihrer Dienstzeit in einem eintägigen Seminar über ihre Rechte und Pflichten als Dienstleistende sowie die ihnen zustehenden Geld- und Sachbezüge zu informieren. Darüber hinaus sind sie verpflichtet, während ihrer Dienstzeit an
 
@@ -512,18 +471,15 @@ teilzunehmen. Das Reflexionsangebot gemäß Satz 1 Nr. 2 kann einmalig als dreit
 
 (5) Die Dienstleistenden sind während der Teilnahme an mehrtägigen Seminaren in einer dienstlichen Unterkunft unterzubringen. § 19 Abs. 3 Satz 1 gilt entsprechend.
 
-
-## § 25c – Staatsbürgerliche Rechte
+# § 25c – Staatsbürgerliche Rechte
 
 Der Dienstleistende hat die gleichen staatsbürgerlichen Rechte wie jeder andere Staatsbürger. Seine Rechte werden im Rahmen der Erfordernisse des Zivildienstes durch seine gesetzlich begründeten Pflichten beschränkt.
 
-
-## § 26 – Achtung der demokratischen Grundordnung
+# § 26 – Achtung der demokratischen Grundordnung
 
 Der Dienstleistende hat die freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes in seinem gesamten Verhalten zu achten.
 
-
-## § 27 – Grundpflichten
+# § 27 – Grundpflichten
 
 (1) Der Dienstleistende hat seinen Dienst gewissenhaft zu erfüllen. Er hat sich in die Gemeinschaft, in der er seinen Dienst ableistet, einzufügen. Er darf durch sein Verhalten den Arbeitsfrieden und das Zusammenleben innerhalb der Dienststellen nicht gefährden.
 
@@ -533,8 +489,7 @@ Der Dienstleistende hat die freiheitliche demokratische Grundordnung im Sinne de
 
 (4) Er hat sich ausbilden zu lassen, wenn es die Zwecke des Zivildienstes erfordern.
 
-
-## § 28 – Verschwiegenheit
+# § 28 – Verschwiegenheit
 
 (1) Der Dienstpflichtige hat, auch nach seinem Ausscheiden aus dem Zivildienst, über die ihm bei seiner dienstlichen Tätigkeit bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Mitteilungen im dienstlichen Verkehr oder über Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
@@ -542,15 +497,13 @@ Der Dienstleistende hat die freiheitliche demokratische Grundordnung im Sinne de
 
 (3) Unberührt bleibt die gesetzlich begründete Pflicht des Dienstpflichtigen, Straftaten anzuzeigen.
 
-
-## § 29 – Politische Betätigung
+# § 29 – Politische Betätigung
 
 (1) Der Dienstleistende darf sich im Dienst nicht zugunsten oder zuungunsten einer politischen Richtung betätigen. Das Recht, im Gespräch mit anderen seine Meinung zu äußern, bleibt unberührt.
 
 (2) Innerhalb der dienstlichen Unterkünfte und Anlagen darf die freie Meinungsäußerung während der Freizeit das Zusammenleben in der Gemeinschaft nicht stören. Der Dienstleistende darf dort insbesondere nicht als Werber für eine politische Gruppe wirken, indem er Ansprachen hält, Schriften verteilt oder als Vertreter einer politischen Organisation arbeitet. Die gegenseitige Achtung darf nicht gefährdet werden.
 
-
-## § 30 – Dienstliche Anordnungen
+# § 30 – Dienstliche Anordnungen
 
 (1) Der Dienstleistende hat die dienstlichen Anordnungen der Vorgesetzten zu befolgen. Vorgesetzte sind die Präsidentin oder der Präsident des Bundesamtes, die Leitung der Dienststelle sowie die Personen einschließlich anderer Dienstleistender, die mit Aufgaben der Leitung und Aufsicht beauftragt sind. Die Beauftragung muss dem Dienstleistenden bekannt gemacht worden sein.
 
@@ -558,18 +511,15 @@ Der Dienstleistende hat die freiheitliche demokratische Grundordnung im Sinne de
 
 (3) Befolgt der Dienstleistende eine dienstliche Anordnung, so ist er von der eigenen Verantwortung befreit, sofern nicht die Ausführung der Anordnung strafbar oder ordnungswidrig ist und die Strafbarkeit oder die Ordnungswidrigkeit entweder von ihm erkannt wird oder nach den ihm bekannten Umständen offensichtlich ist.
 
-
-## § 30a – Pflichten der Vorgesetzten
+# § 30a – Pflichten der Vorgesetzten
 
 Vorgesetzte sind für die ihnen unterstellten Dienstleistenden verantwortlich. Sie haben die Pflicht zur Dienstaufsicht. Dienstliche Anordnungen dürfen sie nur zu dienstlichen Zwecken und nur unter Beachtung der Gesetze und der Dienstvorschriften erteilen.
 
-
-## § 31 – Dienstliche Unterkunft; Gemeinschaftsverpflegung
+# § 31 – Dienstliche Unterkunft; Gemeinschaftsverpflegung
 
 Der Dienstleistende ist auf dienstliche Anordnung verpflichtet, in einer dienstlichen Unterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen. Dienstliche Unterkunft ist jede vom Bundesamt oder einer Dienststelle zugewiesene Unterkunft.
 
-
-## § 32 – Arbeitszeit; innerer Dienstbetrieb
+# § 32 – Arbeitszeit; innerer Dienstbetrieb
 
 (1) Die Arbeitszeit des Dienstleistenden richtet sich nach den Vorschriften, die an dem ihm zugewiesenen Arbeitsplatz für vergleichbare Beschäftigte gelten oder gelten würden. Soweit solche Vorschriften nicht bestehen, finden die für Bundesbeamte geltenden Vorschriften über die Arbeitszeit entsprechende Anwendung.
 
@@ -577,20 +527,17 @@ Der Dienstleistende ist auf dienstliche Anordnung verpflichtet, in einer dienstl
 
 (3) Die Inanspruchnahme des Dienstleistenden nach Absatz 2 soll zwei Stunden täglich nicht überschreiten.
 
-
-## § 32a – Verwendung bei Arbeitskämpfen
+# § 32a – Verwendung bei Arbeitskämpfen
 
 Während der Dauer eines Arbeitskampfes, durch den die Beschäftigungsstelle unmittelbar betroffen ist, darf der Dienstleistende nicht mit einer Tätigkeit beschäftigt werden, die in der Beschäftigungsstelle infolge des Arbeitskampfes nicht ausgeübt wird.
 
-
-## § 33 – Nebentätigkeit
+# § 33 – Nebentätigkeit
 
 (1) Der Dienstleistende bedarf zur Ausübung einer Nebentätigkeit der Genehmigung; diese darf nur versagt werden, wenn die Nebentätigkeit die Dienstleistung gefährdet oder den dienstlichen Erfordernissen zuwiderläuft.
 
 (2) Keiner Genehmigung bedarf die Verwaltung eigenen oder der eigenen Nutznießung unterliegenden Vermögens sowie eine schriftstellerische, wissenschaftliche, künstlerische oder Vortragstätigkeit. Diese Tätigkeiten können untersagt werden, soweit sie die Dienstleistung gefährden oder den dienstlichen Erfordernissen zuwiderlaufen.
 
-
-## § 34 – Haftung
+# § 34 – Haftung
 
 (1) Verletzt ein Dienstleistender vorsätzlich oder grob fahrlässig die ihm obliegenden Pflichten, so hat er dem Dienstherrn, dessen Aufgaben er wahrgenommen hat, den daraus entstehenden Schaden zu ersetzen. Haben mehrere Dienstleistende gemeinsam den Schaden verursacht, so haften sie als Gesamtschuldner.
 
@@ -598,8 +545,7 @@ Während der Dauer eines Arbeitskampfes, durch den die Beschäftigungsstelle unm
 
 (3) Leistet der Dienstleistende dem Dienstherrn Ersatz und hat dieser einen Ersatzanspruch gegen eine dritte Person, so geht der Ersatzanspruch auf den Dienstleistenden über.
 
-
-## § 35 – Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub
+# § 35 – Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub
 
 (1) Auf den Dienstpflichtigen finden, soweit dieses Gesetz nichts anderes bestimmt, in Fragen der Fürsorge, der Geld- und Sachbezüge, der Reisekosten sowie des Urlaubs die Bestimmungen entsprechende Anwendung, die für einen Soldaten des untersten Mannschaftsdienstgrades, der auf Grund der Wehrpflicht Wehrdienst leistet, gelten.
 
@@ -617,8 +563,7 @@ Während der Dauer eines Arbeitskampfes, durch den die Beschäftigungsstelle unm
 
 (8) Stirbt ein Dienstpflichtiger während des Dienstverhältnisses an den Folgen einer Zivildienstbeschädigung, so erhalten die Eltern oder Adoptiveltern, wenn sie mit dem Verstorbenen zur Zeit des Todes in häuslicher Gemeinschaft gelebt haben, ein Sterbegeld, dessen Höhe den Vorschriften für wehrpflichtige Soldaten entspricht. § 50 Abs. 5 findet entsprechende Anwendung.
 
-
-## § 36 – Personalakten und Beurteilungen
+# § 36 – Personalakten und Beurteilungen
 
 (1) Über jeden Dienstpflichtigen ist eine Personalakte zu führen. Sie ist vertraulich zu behandeln und durch technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung vor unbefugter Einsichtnahme zu schützen. Zur Personalakte gehören alle Unterlagen einschließlich der in Dateisystemen gespeicherten Daten, die den Dienstpflichtigen betreffen, soweit sie mit seinem Dienstverhältnis in einem unmittelbaren inneren Zusammenhang stehen (Personalaktendaten); hierzu gehören auch die die Feststellung der Tauglichkeit betreffenden Unterlagen aus der Tauglichkeitsakte. Nicht Bestandteil der Personalakte sind Unterlagen, die besonderen, von der Person und dem Dienstverhältnis sachlich zu trennenden Zwecken dienen, insbesondere Unterlagen über die Abrechnung ärztlicher Untersuchungen und Behandlungen; Zugang zu Letzteren haben nur der ärztliche Dienst und das für die Heilfürsorge zuständige Personal. Personalaktendaten dürfen ohne Einwilligung des Dienstpflichtigen nur verarbeitet werden:
 
@@ -654,21 +599,17 @@ Satz 5 gilt auch für die Verarbeitung von Personalaktendaten in Dateisystemen.
 
 5. die Befugnis von Personen im Sinne des § 203 Absatz 1 Nummer 1 und 2 des Strafgesetzbuches, die im Rahmen der unentgeltlichen ärztlichen Versorgung des Dienstpflichtigen tätig werden, vom Dienstherrn mit der Untersuchung des Dienstpflichtigen oder mit der Erstellung von Gutachten über ihn beauftragt worden sind, dem Arztgeheimnis unterliegende personenbezogene Daten zu offenbaren.
 
+# § 36a – (weggefallen)
 
-## § 36a – (weggefallen)
-
-
-## § 37 – Beteiligung der Dienstleistenden
+# § 37 – Beteiligung der Dienstleistenden
 
 Die Beteiligung der Dienstleistenden regelt das Gesetz über den Vertrauensmann der Zivildienstleistenden vom 16. Januar 1991 (BGBl. I S. 47, 53).
 
-
-## § 38 – Seelsorge
+# § 38 – Seelsorge
 
 Der Dienstleistende hat einen Anspruch auf ungestörte Religionsausübung. Die Teilnahme am Gottesdienst ist freiwillig.
 
-
-## § 39 – Ärztliche Untersuchung
+# § 39 – Ärztliche Untersuchung
 
 (1) Der anerkannte Kriegsdienstverweigerer ist ärztlich zu untersuchen
 
@@ -688,8 +629,7 @@ b) eine Zivildienstbeschädigung erlitten hat;
 
 (3) Das Recht des Dienstleistenden, anlässlich der Untersuchung nach Absatz 1 Nr. 4 Gutachten von Ärztinnen oder Ärzten seiner Wahl einzuholen, bleibt unberührt. Das Bundesamt kann auch andere Beweise erheben; § 20 findet entsprechende Anwendung.
 
-
-## § 40 – Erhaltung der Gesundheit; ärztliche Eingriffe
+# § 40 – Erhaltung der Gesundheit; ärztliche Eingriffe
 
 (1) Der Dienstleistende hat alles in seinen Kräften Stehende zu tun, um seine Gesundheit zu erhalten oder wiederherzustellen. Er darf diese nicht vorsätzlich oder grob fahrlässig beeinträchtigen.
 
@@ -697,8 +637,7 @@ b) eine Zivildienstbeschädigung erlitten hat;
 
 (3) Lehnt der Dienstleistende eine zumutbare ärztliche Behandlung ab und wird dadurch seine Dienst- oder Erwerbsfähigkeit ungünstig beeinflusst, so kann ihm eine sonst zustehende Versorgung insoweit versagt werden. Nicht zumutbar ist eine ärztliche Behandlung, die mit einer erheblichen Gefahr für Leben oder Gesundheit des Dienstleistenden verbunden ist, eine Operation auch dann, wenn sie einen erheblichen Eingriff in die körperliche Unversehrtheit bedeutet.
 
-
-## § 41 – Anträge und Beschwerden
+# § 41 – Anträge und Beschwerden
 
 (1) Der Dienstleistende kann Anträge und Beschwerden vorbringen; hierbei hat er den Dienstweg einzuhalten. Der Beschwerdeweg bis zum Bundesministerium für Familie, Senioren, Frauen und Jugend steht offen. Außerdem hat jeder Dienstleistende das Recht, sich unmittelbar an die Bundesbeauftragte oder den Bundesbeauftragten für den Zivildienst zu wenden. Wegen des Vorbringens einer Beschwerde nach Satz 1 oder Satz 3 darf der Dienstleistende nicht dienstlich gemaßregelt oder benachteiligt werden.
 
@@ -706,8 +645,7 @@ b) eine Zivildienstbeschädigung erlitten hat;
 
 (3) Gemeinschaftliche Beschwerden sind unzulässig.
 
-
-## § 41a – Freiwilliger zusätzlicher Zivildienst
+# § 41a – Freiwilliger zusätzlicher Zivildienst
 
 (1) Der Dienstpflichtige kann auf Antrag freiwilligen zusätzlichen Zivildienst von mindestens drei bis zu höchstens sechs Monaten Dauer leisten, soweit Haushaltsmittel zur Verfügung gestellt werden und die Dienststelle einverstanden ist.
 
@@ -721,13 +659,11 @@ b) eine Zivildienstbeschädigung erlitten hat;
 
 (6) Dienstleistende nach Absatz 1 haben Anspruch auf Erholungsurlaub entsprechend § 5 Absatz 2 der Soldatinnen- und Soldatenurlaubsverordnung.
 
-
-## § 42 – Ende des Zivildienstes
+# § 42 – Ende des Zivildienstes
 
 Der Zivildienst endet durch Entlassung oder Ausschluss.
 
-
-## § 43 – Entlassung
+# § 43 – Entlassung
 
 (1) Ein Dienstleistender ist zu entlassen, wenn
 
@@ -767,8 +703,7 @@ Der Zivildienst endet durch Entlassung oder Ausschluss.
 
 Er kann auf Antrag der Dienststelle vorzeitig entlassen werden, wenn sich aus seinem Verhalten oder aus Leistungsdefiziten, die auch gesundheitlich bedingt sein können, ergibt, dass er die Eignungs- und Leistungsanforderungen, die an einen Dienstleistenden zu stellen sind, nicht oder nicht mehr erfüllt. § 44 Absatz 3 bleibt unberührt.
 
-
-## § 44 – Zeitpunkt der Beendigung des Zivildienstes
+# § 44 – Zeitpunkt der Beendigung des Zivildienstes
 
 (1) Im Falle der Entlassung endet das Zivildienstverhältnis mit dem Ablauf des Entlassungstages.
 
@@ -780,22 +715,19 @@ Er kann auf Antrag der Dienststelle vorzeitig entlassen werden, wenn sich aus se
 
 2. wenn er innerhalb der drei Monate schriftlich erklärt, dass er mit der Fortsetzung des Zivildienstverhältnisses nicht einverstanden ist, mit dem Tag der Abgabe dieser Erklärung.
 
-
-## § 45 – Ausschluss
+# § 45 – Ausschluss
 
 (1) Ein Dienstleistender ist aus dem Zivildienst ausgeschlossen, wenn gegen ihn durch Urteil eines deutschen Gerichtes im Geltungsbereich des Grundgesetzes auf die in § 9 Abs. 1 bezeichneten Strafen, Maßregeln oder Nebenfolgen erkannt wird. Das Zivildienstverhältnis endet mit dem Ablauf des Tages, an dem das Urteil rechtskräftig geworden ist.
 
 (2) Wird im Wiederaufnahmeverfahren auf keine der genannten Strafen, Maßregeln oder Nebenfolgen erkannt, so dürfen dem Ausgeschlossenen aus dem Ausschluss für die Erfüllung der Wehrpflicht keine nachteiligen Folgen erwachsen.
 
-
-## § 45a – Mitteilungen in Strafsachen
+# § 45a – Mitteilungen in Strafsachen
 
 (1) In Strafsachen gegen Zivildienstleistende gilt § 115 des Bundesbeamtengesetzes entsprechend.
 
 (2) Die Mitteilungen sind an das Bundesamt für den Zivildienst zu richten und als "Vertrauliche Personalsache" zu kennzeichnen.
 
-
-## § 46 – Dienstzeitbescheinigung und Dienstzeugnis
+# § 46 – Dienstzeitbescheinigung und Dienstzeugnis
 
 (1) Wer Zivildienst geleistet hat, erhält nach dessen Beendigung vom Bundesamt eine Dienstzeitbescheinigung und von der Beschäftigungsstelle ein qualifiziertes Dienstzeugnis.
 
@@ -803,8 +735,7 @@ Er kann auf Antrag der Dienststelle vorzeitig entlassen werden, wenn sich aus se
 
 (3) Unter den Voraussetzungen des Absatzes 2 ist ihm eine angemessene Zeit vor Beendigung des Zivildienstes ein vorläufiges Dienstzeugnis zu erteilen.
 
-
-## § 47 – Versorgung
+# § 47 – Versorgung
 
 (1) Ein Dienstpflichtiger, der eine Zivildienstbeschädigung erlitten hat, erhält nach Beendigung des Dienstverhältnisses wegen der gesundheitlichen und wirtschaftlichen Folgen der Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes, soweit in diesem Gesetz nichts Abweichendes bestimmt ist. In gleicher Weise erhalten die Hinterbliebenen eines Beschädigten auf Antrag Versorgung. Partner einer eheähnlichen Gemeinschaft erhalten Leistungen in entsprechender Anwendung der §§ 40, 40a und 41 des Bundesversorgungsgesetzes, sofern ein Partner an den Schädigungsfolgen verstorben ist und der andere unter Verzicht auf eine Erwerbstätigkeit die Betreuung eines gemeinschaftlichen Kindes ausübt; dieser Anspruch ist auf die ersten drei Lebensjahre des Kindes beschränkt. Satz 4 gilt entsprechend, wenn ein Partner in der Zeit zwischen dem 1. November 1994 und dem 23. Juni 2006 an den Schädigungsfolgen verstorben ist.
 
@@ -860,13 +791,11 @@ Hat der Dienstleistende wegen der Entfernung seiner ständigen Familienwohnung v
 
 (11) § 55 des Bundesversorgungsgesetzes ist auch beim Zusammentreffen mit Ansprüchen nach Absatz 1 anzuwenden.
 
-
-## § 47a – Versorgung in besonderen Fällen
+# § 47a – Versorgung in besonderen Fällen
 
 Ist ein Dienstleistender zur Wahrnehmung einer Tätigkeit, die öffentlichen Belangen oder dienstlichen Interessen dient, beurlaubt worden, so kann ihm oder seinen Hinterbliebenen mit Zustimmung des Bundesministeriums für Arbeit und Soziales für die Folgen einer gesundheitlichen Schädigung, die der Dienstleistende durch diese Tätigkeit oder durch einen Unfall während der Ausübung dieser Tätigkeit erlitten hat, Versorgung in gleicher Weise wie für die Folgen einer Zivildienstbeschädigung gewährt werden. Die Zustimmung kann allgemein erteilt werden.
 
-
-## § 47b – Unfallschutz in besonderen Fällen
+# § 47b – Unfallschutz in besonderen Fällen
 
 (1) Erleidet ein nach § 47 Abs. 1 in Verbindung mit § 10 Abs. 4 oder 5 des Bundesversorgungsgesetzes Berechtigter oder Leistungsempfänger eine gesundheitliche Schädigung durch einen Unfall bei der Durchführung einer stationären Maßnahme nach § 47 Abs. 1 in Verbindung mit § 12 Abs. 1 oder 4 oder § 26 des Bundesversorgungsgesetzes oder auf dem notwendigen Hin- oder Rückweg, so erhält er wegen der gesundheitlichen und wirtschaftlichen Folgen der Schädigung auf Antrag Versorgung in entsprechender Anwendung der Vorschriften des Bundesversorgungsgesetzes. Dies gilt entsprechend, wenn der Berechtigte oder Leistungsempfänger dem Verlangen eines zuständigen Leistungsträgers oder eines Gerichts, wegen der Versorgung persönlich zu erscheinen, folgt und dabei einen Unfall erleidet.
 
@@ -876,8 +805,7 @@ Ist ein Dienstleistender zur Wahrnehmung einer Tätigkeit, die öffentlichen Bel
 
 (4) § 47 Abs. 6 gilt entsprechend.
 
-
-## § 48 – Heilbehandlung in besonderen Fällen
+# § 48 – Heilbehandlung in besonderen Fällen
 
 (1) Wer Zivildienst geleistet hat, erhält wegen einer Gesundheitsstörung, die bei Beendigung des Zivildienstverhältnisses heilbehandlungsbedürftig ist, Leistungen in entsprechender Anwendung des § 10 Abs. 1 und 3, der §§ 11 und 11a sowie der §§ 13 bis 24a des Bundesversorgungsgesetzes. Bei Anwendung der in Satz 1 genannten Vorschriften ist die festgestellte Gesundheitsstörung wie eine anerkannte Schädigungsfolge zu behandeln.
 
@@ -893,8 +821,7 @@ c) wenn der Berechtigte ein Einkommen hat, das die Jahresarbeitsentgeltgrenze de
 
 d) wenn die Gesundheitsstörung auf eigenen Vorsatz zurückzuführen ist.
 
-
-## § 49 – Versorgungskrankengeld in besonderen Fällen
+# § 49 – Versorgungskrankengeld in besonderen Fällen
 
 Die §§ 16 bis 16f des Bundesversorgungsgesetzes finden auf einen anerkannten Kriegsdienstverweigerer, der Zivildienst geleistet hat und im Zeitpunkt der Beendigung des Zivildienstverhältnisses infolge einer Zivildienstbeschädigung arbeitsunfähig ist, mit folgenden Maßgaben Anwendung:
 
@@ -904,8 +831,7 @@ Die §§ 16 bis 16f des Bundesversorgungsgesetzes finden auf einen anerkannten K
 
 3. Als vor Eintritt der Arbeitsunfähigkeit bezogenes Einkommen gelten zehn Achtel der vor der Beendigung des Zivildienstverhältnisses bezogenen Geld- und Sachbezüge als Dienstpflichtiger. Hatte der Dienstpflichtige im letzten Kalendermonat vor dem für den Diensteintritt festgesetzten Zeitpunkt Arbeitseinkommen bezogen, so ist dieses Einkommen maßgebend, sofern das für ihn günstiger ist.
 
-
-## § 50 – Ausgleich für Zivildienstbeschädigungen
+# § 50 – Ausgleich für Zivildienstbeschädigungen
 
 (1) Anerkannte Kriegsdienstverweigerer erhalten wegen der Folgen einer Zivildienstbeschädigung einen Ausgleich in Höhe der Grundrente und der Schwerstbeschädigtenzulage nach § 30 Abs. 1 und § 31 des Bundesversorgungsgesetzes.
 
@@ -917,8 +843,7 @@ Die §§ 16 bis 16f des Bundesversorgungsgesetzes finden auf einen anerkannten K
 
 (5) Der Anspruch auf Ausgleich kann weder abgetreten noch verpfändet noch gepfändet werden. Die Aufrechnung einer Forderung auf Rückerstattung zuviel gezahlten Ausgleichs ist zulässig.
 
-
-## § 51 – Durchführung der Versorgung
+# § 51 – Durchführung der Versorgung
 
 (1) Die Versorgung nach den §§ 47 bis 49 wird von den zur Durchführung des Bundesversorgungsgesetzes zuständigen Behörden im Auftrag des Bundes durchgeführt.
 
@@ -940,18 +865,15 @@ Die Nummern 2 und 3 gelten nur in Angelegenheiten des § 35 Abs. 5 und 8 und des
 
 (5) Auf die für Rechnung des Bundes geleisteten Ausgaben und die mit ihnen zusammenhängenden Einnahmen ist das Haushaltsrecht des Bundes anzuwenden. Die für die Durchführung des Haushalts verantwortlichen Bundesbehörden können ihre Befugnisse auf die zuständigen obersten Landesbehörden übertragen. In diesem Fall können sie zulassen, dass auf die für Rechnung des Bundes zu leistenden Ausgaben und auf die mit ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften über die Kassen- und Buchführung der zuständigen Landesbehörden angewendet werden.
 
-
-## § 51a – Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
+# § 51a – Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für die Zivildienstbeschädigungen von Dienstpflichtigen Übergangsregelungen zu bestimmen, die den besonderen Verhältnissen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet Rechnung tragen. Die Verordnungsermächtigung erstreckt sich insbesondere auf Art, Berechnungsgrundlagen, Höhe von Versorgungsleistungen und Ruhensregelungen abweichend von diesem Gesetz.
 
-
-## § 52 – Eigenmächtige Abwesenheit
+# § 52 – Eigenmächtige Abwesenheit
 
 Wer eigenmächtig den Zivildienst verlässt oder ihm fernbleibt und vorsätzlich oder fahrlässig länger als drei volle Kalendertage abwesend ist, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
-
-## § 53 – Dienstflucht
+# § 53 – Dienstflucht
 
 (1) Wer eigenmächtig den Zivildienst verlässt oder ihm fernbleibt, um sich der Verpflichtung zum Zivildienst dauernd oder für den Verteidigungsfall zu entziehen oder die Beendigung des Zivildienstverhältnisses zu erreichen, wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.
 
@@ -961,8 +883,7 @@ Wer eigenmächtig den Zivildienst verlässt oder ihm fernbleibt und vorsätzlich
 
 (4) Die Vorschriften über den Versuch der Beteiligung nach § 30 Abs. 1 des Strafgesetzbuches gelten für Straftaten nach Absatz 1 entsprechend.
 
-
-## § 54 – Nichtbefolgen von Anordnungen
+# § 54 – Nichtbefolgen von Anordnungen
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren wird bestraft,
 
@@ -978,18 +899,15 @@ Wer eigenmächtig den Zivildienst verlässt oder ihm fernbleibt und vorsätzlich
 
 (5) Nimmt ein Dienstleistender irrig an, dass eine dienstliche Anordnung aus anderen Gründen nicht verbindlich ist, und befolgt er sie deshalb nicht, so ist er nach Absatz 1 nicht strafbar, wenn er den Irrtum nicht vermeiden konnte und ihm nach den ihm bekannten Umständen auch nicht zuzumuten war, sich mit Rechtsbehelfen gegen die vermeintlich nicht verbindliche Anordnung zu wehren; war ihm dies zuzumuten, so kann das Gericht von einer Bestrafung nach Absatz 1 absehen.
 
-
-## § 55 – Teilnahme
+# § 55 – Teilnahme
 
 Wegen Anstiftung und Beihilfe zu einer rechtswidrigen Tat, die einen Straftatbestand nach diesem Gesetz verwirklicht, und wegen Versuchs der Beteiligung an der Dienstflucht (§ 53 Abs. 4) ist auch strafbar, wer nicht Dienstleistender ist.
 
-
-## § 56 – Ausschluss der Geldstrafe
+# § 56 – Ausschluss der Geldstrafe
 
 Begeht ein Dienstleistender eine Straftat nach diesem Gesetz, so darf Geldstrafe nach § 47 Abs. 2 des Strafgesetzbuches auch dann nicht verhängt werden, wenn besondere Umstände, die in der Tat oder der Persönlichkeit des Täters liegen, die Verhängung von Freiheitsstrafe zur Wahrung der Disziplin im Zivildienst gebieten.
 
-
-## § 57 – Ordnungswidrigkeiten
+# § 57 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1001,13 +919,11 @@ Begeht ein Dienstleistender eine Straftat nach diesem Gesetz, so darf Geldstrafe
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt.
 
-
-## § 58 – Dienstvergehen
+# § 58 – Dienstvergehen
 
 Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflichten verletzt.
 
-
-## § 58a – Ahndung von Dienstvergehen
+# § 58a – Ahndung von Dienstvergehen
 
 (1) Dienstvergehen können durch Disziplinarmaßnahmen geahndet werden.
 
@@ -1017,8 +933,7 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (4) Ein Dienstvergehen darf nur einmal disziplinar geahndet werden. Mehrere Pflichtverletzungen eines Dienstleistenden, über die gleichzeitig entschieden werden kann, sind als ein Dienstvergehen zu ahnden.
 
-
-## § 58b – Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen
+# § 58b – Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen
 
 (1) Hat ein Gericht oder eine Behörde eine Strafe oder Ordnungsmaßnahme verhängt, so dürfen wegen desselben Sachverhalts Disziplinarmaßnahmen nur verhängt werden, wenn dies zusätzlich erforderlich ist, um die Ordnung im Zivildienst aufrechtzuerhalten oder wenn das Ansehen des Zivildienstes ernsthaft beeinträchtigt ist. Wird der Dienstleistende in einem Straf- oder Bußgeldverfahren freigesprochen oder kann eine Tat nach § 153a Abs. 1 Satz 5 oder Abs. 2 Satz 2 der Strafprozessordnung nach Erfüllung von Auflagen und Weisungen nicht mehr als Vergehen verfolgt werden, dürfen wegen desselben Sachverhalts Disziplinarmaßnahmen nur verhängt werden, wenn dies erforderlich ist, um die Ordnung im Zivildienst aufrechtzuerhalten oder wenn durch das Fehlverhalten das Ansehen des Zivildienstes ernsthaft beeinträchtigt wurde.
 
@@ -1028,8 +943,7 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (4) Lehnt die Präsidentin oder der Präsident des Bundesamtes die Aufhebung der Disziplinarmaßnahme ab, so kann der Dienstleistende die Entscheidung des Verwaltungsgerichts beantragen. Der Antrag ist innerhalb zweier Wochen nach Zustellung des Bescheides schriftlich bei der Präsidentin oder dem Präsidenten des Bundesamtes einzureichen; die Frist ist auch gewahrt, wenn während ihres Laufes der Antrag beim Verwaltungsgericht eingeht. Das Verwaltungsgericht entscheidet ohne mündliche Verhandlung endgültig durch Beschluss. Absatz 3 Satz 2, § 65 Abs. 1 Satz 3 und § 66 Abs. 3 finden entsprechende Anwendung.
 
-
-## § 58c – Förmliche Anerkennungen
+# § 58c – Förmliche Anerkennungen
 
 (1) Vorbildliche Pflichterfüllung und hervorragende Einzeltaten können durch förmliche Anerkennungen gewürdigt werden.
 
@@ -1039,8 +953,7 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (4) Absätze 1 bis 3 gelten auch für frühere Dienstleistende.
 
-
-## § 59 – Disziplinarmaßnahmen
+# § 59 – Disziplinarmaßnahmen
 
 (1) Disziplinarmaßnahmen sind
 
@@ -1056,8 +969,7 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (2) Ausgangsbeschränkung und Geldbuße können nebeneinander verhängt werden.
 
-
-## § 60 – Inhalt und Höhe der Disziplinarmaßnahmen
+# § 60 – Inhalt und Höhe der Disziplinarmaßnahmen
 
 (1) Verweis ist der förmliche Tadel eines bestimmten pflichtwidrigen Verhaltens des Dienstleistenden. Missbilligende Äußerungen einer oder eines Disziplinarvorgesetzten (Zurechtweisungen, Ermahnungen, Rügen und dergleichen), die nicht ausdrücklich als Verweis bezeichnet werden, sind keine Disziplinarmaßnahmen.
 
@@ -1065,8 +977,7 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (3) Die Geldbuße darf die Höhe des Soldes für vier Monate nicht überschreiten.
 
-
-## § 61 – Disziplinarvorgesetzte
+# § 61 – Disziplinarvorgesetzte
 
 (1) Zuständig für die Ausübung der Disziplinarbefugnisse ist die Präsidentin oder der Präsident des Bundesamtes. Sie oder er kann diese Befugnis auf hierfür bestellte Beamtinnen oder Beamte des Bundesamtes, die die Befähigung zum Richteramt haben, übertragen.
 
@@ -1074,8 +985,7 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (3) Die oder der in Absatz 1 bezeichnete Disziplinarvorgesetzte ist zuständig, wenn die oder der nach Absatz 2 Satz 1 zuständige Disziplinarvorgesetzte an der Tat beteiligt oder persönlich durch sie verletzt ist oder sich für befangen hält.
 
-
-## § 62 – Ermittlungen
+# § 62 – Ermittlungen
 
 (1) Werden Tatsachen bekannt, die den Verdacht eines Dienstvergehens rechtfertigen, so veranlasst die oder der zuständige Disziplinarvorgesetzte die zur Aufklärung des Sachverhaltes erforderlichen Ermittlungen. Dabei sind nicht nur die belastenden, sondern auch die entlastenden und die für die Bemessung der Disziplinarmaßnahme bedeutsamen Umstände zu ermitteln. § 20 findet entsprechende Anwendung. Der Dienstleistende ist über die Ermittlungen zu unterrichten, sobald dies ohne Gefährdung des Ermittlungszweckes möglich ist. Ihm ist Akteneinsicht zu gewähren, soweit dies ohne Gefährdung des Ermittlungszweckes möglich ist.
 
@@ -1083,25 +993,21 @@ Ein Dienstleistender begeht ein Dienstvergehen, wenn er schuldhaft seine Pflicht
 
 (3) Die in einem anderen gesetzlich geordneten Verfahren getroffenen tatsächlichen Feststellungen sind nicht bindend, können aber der Entscheidung im Disziplinarverfahren ohne nochmalige Prüfung zugrunde gelegt werden.
 
-
-## § 62a – Aussetzung des Verfahrens
+# § 62a – Aussetzung des Verfahrens
 
 Ein eingeleitetes Disziplinarverfahren kann bis zur Beendigung eines wegen derselben Tat schwebenden Strafverfahrens ausgesetzt werden. Dies gilt nicht, wenn die Sachaufklärung gesichert ist oder wenn im Strafverfahren aus Gründen nicht verhandelt werden kann, die in der Person oder im Verhalten des Dienstleistenden liegen.
 
-
-## § 62b – Anhörung
+# § 62b – Anhörung
 
 (1) Dem Dienstleistenden ist vor der Entscheidung Gelegenheit zu geben, sich zu äußern. Hierüber ist eine Vernehmungsniederschrift aufzunehmen, die von dem Dienstleistenden unterschrieben sein soll.
 
 (2) Die Beteiligung des Vertrauensmannes bei der Ahndung von Dienstvergehen richtet sich nach § 22 des Gesetzes über den Vertrauensmann der Zivildienstleistenden vom 16. Januar 1991 (BGBl. I S. 47, 53). Fehlt ein Vertrauensmann, so ist der Betriebs- oder Personalrat zur Person des Dienstleistenden und zum Sachverhalt anzuhören; der Sachverhalt ist ihm vorher bekannt zu geben.
 
-
-## § 63 – Einstellung des Verfahrens
+# § 63 – Einstellung des Verfahrens
 
 Wird durch die Ermittlung ein Dienstvergehen nicht festgestellt oder hält die oder der Disziplinarvorgesetzte eine Disziplinarmaßnahme nicht für zulässig oder angebracht, stellt sie oder er das Verfahren ein und teilt dies dem Dienstleistenden mit.
 
-
-## § 64 – Verhängung der Disziplinarmaßnahme
+# § 64 – Verhängung der Disziplinarmaßnahme
 
 (1) Wird das Verfahren nicht eingestellt, verhängt die oder der Disziplinarvorgesetzte die Disziplinarmaßnahme.
 
@@ -1109,15 +1015,13 @@ Wird durch die Ermittlung ein Dienstvergehen nicht festgestellt oder hält die o
 
 (3) Ungeachtet der Einstellung durch eine andere Disziplinarvorgesetzte oder einen anderen Disziplinarvorgesetzten kann die Präsidentin oder der Präsident des Bundesamtes wegen desselben Sachverhalts eine Disziplinarmaßnahme verhängen.
 
-
-## § 65 – Disziplinarverfügung; Beschwerde
+# § 65 – Disziplinarverfügung; Beschwerde
 
 (1) Die Disziplinarmaßnahme wird durch eine schriftliche, mit Gründen versehene Disziplinarverfügung verhängt, die dem Dienstleistenden zuzustellen oder zu eröffnen ist. Über die Eröffnung ist eine Niederschrift aufzunehmen; dem Dienstleistenden ist eine Abschrift der Disziplinarverfügung auszuhändigen. Er ist zugleich über die Möglichkeit der Anfechtung, über die Stelle, der gegenüber die Anfechtung zu erfolgen hat, und über Form und Frist der Anfechtung schriftlich zu belehren.
 
 (2) Der Dienstleistende kann gegen die Disziplinarverfügung der oder des nach § 61 Abs. 2 Satz 1 zuständigen Disziplinarvorgesetzten innerhalb von zwei Wochen nach Zustellung oder Eröffnung schriftlich oder mündlich Beschwerde erheben. Die Beschwerde ist bei der oder dem zuständigen Disziplinarvorgesetzten oder bei der Präsidentin oder dem Präsidenten des Bundesamtes einzulegen. Wird die Beschwerde mündlich erhoben, ist eine Niederschrift aufzunehmen, die der Dienstleistende zu unterschreiben hat. Wird die Beschwerde bei der oder dem nach § 61 Abs. 2 Satz 1 zuständigen Disziplinarvorgesetzten erhoben, ist sie innerhalb einer Woche mit einer Stellungnahme der Präsidentin oder dem Präsidenten des Bundesamtes zur Entscheidung vorzulegen. Die Entscheidung über die Beschwerde darf die Disziplinarmaßnahme nicht verschärfen. Sie ist zuzustellen. Absatz 1 Satz 3 ist entsprechend anzuwenden.
 
-
-## § 66 – Anrufung des Verwaltungsgerichts
+# § 66 – Anrufung des Verwaltungsgerichts
 
 (1) Gegen Disziplinarverfügungen der in § 61 Abs. 1 bezeichneten Disziplinarvorgesetzten und gegen Entscheidungen der Präsidentin oder des Präsidenten des Bundesamtes nach § 65 Abs. 2 Satz 4 kann innerhalb zweier Wochen nach Zustellung oder Eröffnung die Entscheidung des Verwaltungsgerichts beantragt werden.
 
@@ -1127,8 +1031,7 @@ Wird durch die Ermittlung ein Dienstvergehen nicht festgestellt oder hält die o
 
 (4) Die Fortführung des Verfahrens und die Sachentscheidung werden nicht dadurch berührt, dass das Dienstverhältnis des Dienstleistenden endet.
 
-
-## § 67 – Aufhebung der Disziplinarverfügung
+# § 67 – Aufhebung der Disziplinarverfügung
 
 (1) Bestätigt das Verwaltungsgericht im Falle des § 66 Abs. 2 die angefochtene Entscheidung, mildert es die Disziplinarmaßnahme, stellt es das Disziplinarverfahren nach § 66 Abs. 2 Satz 6 ein oder stellt es ein Dienstvergehen nicht fest und hebt es aus diesem Grunde die Disziplinarverfügung auf, so ist eine erneute Ausübung der Disziplinarbefugnis zugunsten oder zuungunsten des Dienstleistenden nur wegen solcher erheblicher Tatsachen oder Beweismittel zulässig, die dem Gericht bei seiner Entscheidung nicht bekannt waren. Die erneute Ausübung der Disziplinarbefugnis ist der Präsidentin oder dem Präsidenten des Bundesamtes vorbehalten.
 
@@ -1140,8 +1043,7 @@ Wird durch die Ermittlung ein Dienstvergehen nicht festgestellt oder hält die o
 
 (5) § 62b Abs. 1, § 65 Abs. 1 Satz 3 und § 66 finden entsprechende Anwendung.
 
-
-## § 68 – Vollstreckung
+# § 68 – Vollstreckung
 
 (1) Die Disziplinarmaßnahmen werden von den Disziplinarvorgesetzten vollstreckt, die sie verhängt haben; diese können die Leitung der Dienststelle oder deren Vertretung mit der Vollstreckung beauftragen, es sei denn, dass diese Personen an der Tat beteiligt waren oder durch sie verletzt worden sind.
 
@@ -1157,8 +1059,7 @@ Wird durch die Ermittlung ein Dienstvergehen nicht festgestellt oder hält die o
 
 (7) Disziplinarmaßnahmen dürfen nach Ablauf von sechs Monaten, nachdem die Disziplinarverfügung unanfechtbar geworden ist, nicht mehr vollstreckt werden. Die Frist ist gewahrt, wenn vor ihrem Ablauf die Vollstreckung beginnt.
 
-
-## § 69 – Auskünfte
+# § 69 – Auskünfte
 
 (1) Auskünfte über förmliche Anerkennungen und über Disziplinarmaßnahmen werden ohne Zustimmung des Dienstleistenden oder des früheren Dienstleistenden nur erteilt
 
@@ -1170,8 +1071,7 @@ Unter diesen Voraussetzungen ist auch die Übermittlung von Unterlagen zulässig
 
 (2) Die Empfängerin oder der Empfänger darf die übermittelten Auskünfte nur für den Zweck verarbeiten, zu dessen Erfüllung sie ihm übermittelt wurden.
 
-
-## § 69a – Tilgung
+# § 69a – Tilgung
 
 (1) Eintragungen in den Personalakten über Disziplinarmaßnahmen sind nach einem Jahr zu tilgen; die darüber entstandenen Vorgänge sind aus den Personalakten zu entfernen und zu vernichten. Disziplinarmaßnahmen, die zu tilgen sind, dürfen nicht mehr berücksichtigt werden.
 
@@ -1181,13 +1081,11 @@ Unter diesen Voraussetzungen ist auch die Übermittlung von Unterlagen zulässig
 
 (4) Nach Ablauf der Frist gilt der anerkannte Kriegsdienstverweigerer als von Disziplinarmaßnahmen während des Zivildienstes nicht betroffen; er darf jede Auskunft über die Disziplinarmaßnahme und das zugrunde liegende Dienstvergehen verweigern. Insoweit darf er erklären, dass gegen ihn keine Disziplinarmaßnahme verhängt worden ist.
 
-
-## § 70 – Gnadenrecht
+# § 70 – Gnadenrecht
 
 Der Bundespräsidentin oder dem Bundespräsidenten steht das Gnadenrecht hinsichtlich der nach diesem Gesetz verhängten Disziplinarmaßnahmen und des Ausschlusses gemäß § 45 Abs. 1 zu. Sie oder er übt es selbst aus oder überträgt die Ausübung anderen Stellen.
 
-
-## § 71 – Form und Bekanntgabe von Verwaltungsakten; Zustellungen
+# § 71 – Form und Bekanntgabe von Verwaltungsakten; Zustellungen
 
 (1) Nicht begünstigende Verwaltungsakte auf Grund dieses Gesetzes sind schriftlich zu erlassen.
 
@@ -1195,42 +1093,35 @@ Der Bundespräsidentin oder dem Bundespräsidenten steht das Gnadenrecht hinsich
 
 (3) Für die Zustellung gelten die §§ 2 bis 15 des Verwaltungszustellungsgesetzes, § 7 Abs. 1 jedoch mit der Maßgabe, dass an Minderjährige selbst zuzustellen ist. Das Bundesamt veranlasst die Zustellung im Ausland; es bewirkt die öffentliche Zustellung.
 
-
-## § 72 – Widerspruch
+# § 72 – Widerspruch
 
 (1) Über den Widerspruch gegen Verwaltungsakte auf Grund dieses Gesetzes entscheidet das Bundesamt.
 
 (2) Der Widerspruch gegen Verwaltungsakte, die die Verfügbarkeit, Heranziehung oder Entlassung des anerkannten Kriegsdienstverweigerers betreffen, ist innerhalb zweier Wochen zu erheben.
 
-
-## § 73 – Anfechtung des Einberufungsbescheides
+# § 73 – Anfechtung des Einberufungsbescheides
 
 Ist der Musterungsbescheid unanfechtbar geworden, so ist ein Rechtsbehelf gegen den Einberufungsbescheid oder den Umwandlungsbescheid nach § 19 Abs. 2 nur insoweit zulässig, als eine Rechtsverletzung durch diesen selbst geltend gemacht wird.
 
-
-## § 74 – Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage
+# § 74 – Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage
 
 (1) Der Widerspruch gegen den Einberufungsbescheid, der Widerspruch gegen die Aufhebung eines Einberufungsbescheides, der Widerspruch gegen den Tauglichkeitsüberprüfungsbescheid und der Widerspruch gegen den Umwandlungsbescheid nach § 19 Abs. 2 haben keine aufschiebende Wirkung.
 
 (2) Die Anfechtungsklage gegen den Tauglichkeitsüberprüfungsbescheid, die Anfechtungsklage gegen den Einberufungsbescheid, die Anfechtungsklage gegen die Aufhebung des Einberufungsbescheides, die Anfechtungsklage gegen einen Umwandlungsbescheid nach § 19 Abs. 2 sowie die Anfechtungsklage gegen einen die Verfügbarkeit feststellenden Bescheid haben keine aufschiebende Wirkung. Vor Anordnung der aufschiebenden Wirkung oder Aufhebung der Vollziehung hat das Gericht das Bundesamt zu hören.
 
-
-## § 75 – Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
+# § 75 – Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts
 
 Die Berufung gegen ein Urteil, soweit es die Verfügbarkeit, die Heranziehung oder die Entlassung des anerkannten Kriegsdienstverweigerers betrifft, und die Beschwerde gegen andere Entscheidungen des Verwaltungsgerichts sind ausgeschlossen. Das gilt nicht für die Beschwerde gegen die Nichtzulassung der Revision nach § 135 in Verbindung mit § 133 der Verwaltungsgerichtsordnung und die Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
-
-## § 76 – Rechte des gesetzlichen Vertreters
+# § 76 – Rechte des gesetzlichen Vertreters
 
 Der gesetzliche Vertreter des anerkannten Kriegsdienstverweigerers kann innerhalb der für diesen laufenden Fristen selbständig Anträge stellen, Klagen erheben und von Rechtsbehelfen Gebrauch machen, soweit es sich um die Verfügbarkeit für den Zivildienst handelt.
 
-
-## § 77 – Anwendungsbereich
+# § 77 – Anwendungsbereich
 
 Die §§ 71 bis 76 finden keine Anwendung, soweit Verwaltungsakte von anderen als den in § 2 Abs. 1 und § 5a bezeichneten Stellen erlassen werden.
 
-
-## § 78 – Entsprechende Anwendung weiterer Rechtsvorschriften
+# § 78 – Entsprechende Anwendung weiterer Rechtsvorschriften
 
 (1) Für anerkannte Kriegsdienstverweigerer gelten entsprechend
 
@@ -1244,8 +1135,7 @@ b) an die Stelle des Grundwehrdienstes der Zivildienst tritt;
 
 (2) Soweit in diesem Gesetz nichts anderes bestimmt ist, stehen der Zivildienst und der freiwillige zusätzliche Zivildienst bei Anwendung der Vorschriften des öffentlichen Dienstrechts dem Grundwehrdienst nach Maßgabe des Wehrpflichtgesetzes gleich.
 
-
-## § 79 – Vorschriften für den Spannungs- oder Verteidigungsfall
+# § 79 – Vorschriften für den Spannungs- oder Verteidigungsfall
 
 Im Spannungs- oder Verteidigungsfall gelten die folgenden besonderen Vorschriften:
 
@@ -1261,13 +1151,11 @@ Im Spannungs- oder Verteidigungsfall gelten die folgenden besonderen Vorschrifte
 
 6. § 15a Abs. 1 findet Anwendung, wenn der anerkannte Kriegsdienstverweigerer, der aus Gewissensgründen gehindert ist, Zivildienst zu leisten, binnen vier Wochen nach Eintritt des Spannungs- oder Verteidigungsfalles nachweist, dass er in einem Arbeitsverhältnis mit üblicher Arbeitszeit in einem Krankenhaus oder einer anderen Einrichtung zur Behandlung, Pflege und Betreuung von Personen tätig ist. § 15a Abs. 2 findet keine Anwendung.
 
-
-## § 80 – Einschränkung von Grundrechten
+# § 80 – Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) sowie das Petitionsrecht (Artikel 17 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 81 – Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
+# § 81 – Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
 
 (1) Dienstleistende, die am 31. Dezember 2010 sechs Monate oder länger Zivildienst geleistet haben, sind mit Ablauf dieses Tages zu entlassen. Sie können auf Antrag Zivildienst mit der bis zum 30. November 2010 vorgeschriebenen Dauer ableisten, wenn sie dies vor ihrer Entlassung beantragen.
 
@@ -1287,18 +1175,15 @@ Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Gr
 
 verpflichtet haben oder die nach bisherigem Recht ein freies Arbeitsverhältnis nach § 15a Absatz 1 eingegangen sind, erlischt die Pflicht, Zivildienst zu leisten, wenn sie nach dem 30. November 2010 die vom 1. Dezember 2010 an vorgesehene Verpflichtungszeit erbracht haben.
 
-
-## § 81a – Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
+# § 81a – Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010
 
 Für den freiwilligen Dienst anerkannter Kriegsdienstverweigerer nach § 14c, die ihren Dienst bis zum 31. Dezember 2010 angetreten haben, gelten § 14c Absatz 4 und die Kriegsdienstverweigerer-Zuschussverordnung vom 1. August 2002 in der am 30. November 2010 geltenden Fassung.
 
-
-## § 82 – Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2008
+# § 82 – Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2008
 
 Auf anerkannte Kriegsdienstverweigerer, die vor dem Inkrafttreten des Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt worden sind, ist § 16 Abs. 1 Satz 1 in der bis dahin gültigen Fassung weiterhin anzuwenden.
 
-
-## § 83 – Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes
+# § 83 – Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes
 
 (1) Die Amtszeiten des derzeitigen Bundesbeauftragten und des derzeitigen Beirats für den Zivildienst enden am 31. Dezember 2011.
 

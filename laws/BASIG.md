@@ -1,15 +1,11 @@
-# [BASIG] Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
-
-Ausfertigungsdatum: 07.07.1972
-
+% Gesetz über das Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
+% Ausfertigungsdatum: 07.07.1972
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 (1) Unter der Bezeichnung „Paul-Ehrlich-Institut“ unterhält der Bund ein Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel als selbständige Bundesbehörde. Es untersteht dem Bundesministerium für Gesundheit.
 
@@ -37,13 +33,11 @@ für Arzneimittel im Sinne des Absatzes 2 Nr. 3 gelten diese Höchstsätze entsp
 
 Art. 1 Abs. 2 Nr. 2, 4 u. 5 Kursivdruck: ArzneimittelG aufgeh. durch Art. 9 Nr. 1 vorbehaltlich d. Art. 3 § 11 Abs. 1 G v. 24.8.1976 I 2445 mWv 1.1.1978, vgl. jetzt d. entspr. Vorschriften d. G v. 24.8.1976 2121-51-1-2
 
-
-## Art 2
+# Art 2
 
 \-
 
-
-## Art 3
+# Art 3
 
 (1) Mit Inkrafttreten dieses Gesetzes werden die Beamten der hessischen "Staatliche Anstalt für experimentelle Therapie - Paul-Ehrlich-Institut -" Bundesbeamte.
 
@@ -53,8 +47,7 @@ Art. 1 Abs. 2 Nr. 2, 4 u. 5 Kursivdruck: ArzneimittelG aufgeh. durch Art. 9 Nr. 
 
 (4)
 
-
-## Art 4
+# Art 4
 
 (1) Für Arzneimittel nach § 19a Abs. 1 und § 19d des Arzneimittelgesetzes, die sich beim Inkrafttreten dieses Gesetzes im Verkehr befinden und nach landesrechtlichen Vorschriften vom Paul-Ehrlich-Institut geprüft werden, gilt die Zulassung nach § 19a Abs. 1 des Arzneimittelgesetzes als erteilt.
 
@@ -62,12 +55,10 @@ Art. 1 Abs. 2 Nr. 2, 4 u. 5 Kursivdruck: ArzneimittelG aufgeh. durch Art. 9 Nr. 
 
 Art. 4 Kursivdruck: Vgl. Fußnote zu Art. 1 Abs. 2 Nr. 2, 4 u. 5
 
-
-## Art 5
+# Art 5
 
 (weggefallen)
 
-
-## Art 6
+# Art 6
 
 Das Gesetz tritt am 1. November 1972 in Kraft.

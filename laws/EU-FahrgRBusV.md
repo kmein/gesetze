@@ -1,15 +1,11 @@
-# [EU-FahrgRBusV] Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union im Kraftomnibusverkehr  (EU-Fahrgastrechte-Kraftomnibus-Verordnung - EU-FahrgRBusV)
-
-Ausfertigungsdatum: 11.12.2013
-
+% Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union im Kraftomnibusverkehr  (EU-Fahrgastrechte-Kraftomnibus-Verordnung - EU-FahrgRBusV)
+% Ausfertigungsdatum: 11.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Absatz 1 Nummer 2 und 3 des EU-Fahrgastrechte-Kraftomnibus-Gesetzes vom 23. Juli 2013 (BGBl. I S. 2547) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Berichterstattung
+# § 1 – Berichterstattung
 
 (1) Das Eisenbahn-Bundesamt veröffentlicht jeweils für den Zeitraum von zwei Kalenderjahren nach Maßgabe des Absatzes 2 einen Bericht über seine Wahrnehmung der Aufgaben bei der Durchsetzung der Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 55 vom 28.2.2011, S. 1) in nicht personenbezogener Form mit folgenden Angaben:
 
@@ -23,8 +19,7 @@ Auf Grund des § 8 Absatz 1 Nummer 2 und 3 des EU-Fahrgastrechte-Kraftomnibus-Ge
 
 (2) Der erste Bericht im Sinne des Absatzes 1, der den Zeitraum ab dem 27. Juli 2013 bis zum 31. Dezember 2014 erfasst, ist bis zum 1. Juni 2015 zu veröffentlichen. Die nachfolgenden Berichte für die sich jeweils anschließenden Zeiträume sind jeweils bis 1. März des Jahres zu veröffentlichen, das dem Berichtszeitraum folgt.
 
-
-## § 2 – Ordnungswidrigkeiten
+# § 2 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 9 Absatz 1 des EU-Fahrgastrechte-Kraftomnibus-Gesetzes handelt, wer gegen die Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 55 vom 28.2.2011, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -54,7 +49,6 @@ Ordnungswidrig im Sinne des § 9 Absatz 1 des EU-Fahrgastrechte-Kraftomnibus-Ges
 
 13. entgegen Artikel 25 Absatz 1 Satz 1 in Verbindung mit Satz 4 nicht gewährleistet, dass die Fahrgäste die dort genannten Informationen erhalten.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

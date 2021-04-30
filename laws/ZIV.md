@@ -1,15 +1,11 @@
-# [ZIV] Verordnung zur Umsetzung der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen  (Zinsinformationsverordnung - ZIV)
-
-Ausfertigungsdatum: 26.01.2004
-
+% Verordnung zur Umsetzung der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen  (Zinsinformationsverordnung - ZIV)
+% Ausfertigungsdatum: 26.01.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45e des Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179), der durch Artikel 1 Nr. 28 des Gesetzes vom 15. Dezember 2003 (BGBl. I S. 2645) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -111,13 +107,11 @@ Anhang
 
 Liste der verbundenen Einrichtungen nach § 15
 
-
-## § 1 – Zielsetzung
+# § 1 – Zielsetzung
 
 Die inländischen Zahlstellen haben die für die Durchführung dieser Verordnung notwendigen Aufgaben unabhängig davon wahrzunehmen, wo der Schuldner der den Zinsen zugrunde liegenden Forderung niedergelassen ist.
 
-
-## § 2 – Definition des wirtschaftlichen Eigentümers
+# § 2 – Definition des wirtschaftlichen Eigentümers
 
 (1) Als "wirtschaftlicher Eigentümer" im Sinne dieser Verordnung gilt jede natürliche Person, die eine Zinszahlung vereinnahmt oder zu deren Gunsten eine Zinszahlung erfolgt, es sei denn, sie weist nach, dass sie die Zahlung nicht für sich selbst vereinnahmt hat oder sie nicht zu ihren Gunsten erfolgt ist, das heißt, dass sie
 
@@ -139,15 +133,13 @@ handelt und in letzterem Fall Namen und Anschrift der betreffenden Einrichtung d
 
 (2) Liegen einer Zahlstelle Informationen vor, die den Schluss nahe legen, dass die natürliche Person, die eine Zinszahlung vereinnahmt oder zu deren Gunsten eine Zinszahlung erfolgt, möglicherweise nicht der wirtschaftliche Eigentümer ist, und fällt diese natürliche Person weder unter Absatz 1 Nr. 1 noch unter Absatz 1 Nr. 2, so unternimmt die Zahlstelle angemessene Schritte nach § 3 Abs. 2 zur Feststellung der Identität des wirtschaftlichen Eigentümers. Kann die Zahlstelle den wirtschaftlichen Eigentümer nicht feststellen, so behandelt sie die betreffende natürliche Person als den wirtschaftlichen Eigentümer.
 
-
-## § 3 – Ermittlung von Identität und Wohnsitz des wirtschaftlichen Eigentümers
+# § 3 – Ermittlung von Identität und Wohnsitz des wirtschaftlichen Eigentümers
 
 (1) Bei vertraglichen Beziehungen, die vor dem 1. Januar 2004 eingegangen wurden, ermittelt die Zahlstelle die Identität des wirtschaftlichen Eigentümers, nämlich seinen Namen und seine Anschrift sowie seinen Wohnsitz, anhand der Informationen, die ihr auf Grund der geltenden Vorschriften, insbesondere des Geldwäschegesetzes in der jeweils geltenden Fassung, zur Verfügung stehen.
 
 (2) Bei vertraglichen Beziehungen oder, wenn vertragliche Beziehungen fehlen, bei Transaktionen, die ab dem 1. Januar 2004 eingegangen oder getätigt wurden, ermittelt die Zahlstelle die Identität des wirtschaftlichen Eigentümers, nämlich seinen Namen und seine Anschrift, seinen Wohnsitz und, sofern vorhanden, die ihm vom Mitgliedstaat seines steuerlichen Wohnsitzes zu Steuerzwecken erteilte Steuer-Identifikationsnummer. Die Angaben zur Identität des wirtschaftlichen Eigentümers und seiner Steuer-Identifikationsnummer werden auf der Grundlage des Passes oder des von ihm vorgelegten amtlichen Personalausweises festgestellt. Ist die Anschrift nicht in diesem Pass oder diesem amtlichen Personalausweis eingetragen, so wird sie auf der Grundlage eines anderen vom wirtschaftlichen Eigentümer vorgelegten beweiskräftigen Dokuments festgestellt. Ist die Steuer-Identifikationsnummer nicht im Pass, im amtlichen Personalausweis oder einem anderen vom wirtschaftlichen Eigentümer vorgelegten beweiskräftigen Dokument, etwa einem Nachweis über den steuerlichen Wohnsitz, eingetragen, so wird seine Identität anhand seines auf der Grundlage des Passes oder amtlichen Personalausweises festgestellten Geburtsdatums und -ortes präzisiert. Der Wohnsitz wird anhand der im Pass oder im amtlichen Personalausweis angegebenen Adresse oder erforderlichenfalls anhand eines anderen vom wirtschaftlichen Eigentümer vorgelegten beweiskräftigen Dokuments in der Weise ermittelt, dass bei einer natürlichen Person, die einen in einem Mitgliedstaat ausgestellten Pass oder amtlichen Personalausweis vorlegt und die ihren Angaben zufolge in einem Staat ihren Wohnsitz haben soll, der nicht Mitgliedstaat ist (Drittstaat), der Wohnsitz anhand eines Nachweises über den steuerlichen Wohnsitz festgestellt wird, der von der zuständigen Behörde des Drittstaats ausgestellt ist, in dem die betreffende Person ihren eigenen Angaben zufolge ihren Wohnsitz haben soll. Wird dieser Nachweis nicht vorgelegt, so gilt der Wohnsitz als in dem Mitgliedstaat belegen, in dem der Pass oder ein anderer amtlicher Identitätsausweis ausgestellt wurde.
 
-
-## § 4 – Definition der Zahlstelle
+# § 4 – Definition der Zahlstelle
 
 (1) Als "Zahlstelle" im Sinne dieser Verordnung gilt jeder Wirtschaftsbeteiligte, der dem wirtschaftlichen Eigentümer Zinsen zahlt oder eine Zinszahlung zu dessen unmittelbaren Gunsten einzieht, und zwar unabhängig davon, ob dieser Wirtschaftsbeteiligte der Schuldner der den Zinsen zugrunde liegenden Forderung ist oder vom Schuldner oder dem wirtschaftlichen Eigentümer mit der Zinszahlung oder deren Einziehung beauftragt ist. Ein Wirtschaftsbeteiligter ist jegliche natürliche oder juristische Person, die in Ausübung ihres Berufs oder ihres Gewerbes Zinszahlungen tätigt.
 
@@ -171,8 +163,7 @@ Zahlt ein Wirtschaftsbeteiligter Zinsen zugunsten einer solchen in einem anderen
 
 2. in Schweden: handelsbolag (HB) und kommanditbolag (KB).
 
-
-## § 5 – Definition der zuständigen Behörde
+# § 5 – Definition der zuständigen Behörde
 
 (1) Als "zuständige Behörde" im Sinne dieser Verordnung gilt:
 
@@ -182,8 +173,7 @@ Zahlt ein Wirtschaftsbeteiligter Zinsen zugunsten einer solchen in einem anderen
 
 (2) Zuständige Behörde im Inland ist das Bundeszentralamt für Steuern. Abweichend hiervon ist für die Ausstellung des Nachweises nach § 4 Abs. 3 das Finanzamt, bei dem die Einrichtung steuerlich geführt wird, und für die Bescheinigung nach § 13 das Wohnsitzfinanzamt des Antragstellers zuständig.
 
-
-## § 6 – Definition der Zinszahlung
+# § 6 – Definition der Zinszahlung
 
 (1) Als "Zinszahlung" im Sinne dieser Verordnung gelten:
 
@@ -221,13 +211,11 @@ Die in Satz 1 Nr. 4 genannten Erträge sind nur insoweit in die Definition der Z
 
 (7) Maßgebend für die Prozentanteile gemäß Absatz 1 Satz 1 Nr. 4 und Absatz 5 ist die in den Vertragsbedingungen oder in der Satzung der betreffenden Organismen oder Einrichtungen dargelegte Anlagepolitik oder, in Ermangelung solcher Angaben, die tatsächliche Zusammensetzung des Vermögens der betreffenden Organismen oder Einrichtungen.
 
-
-## § 7 – Räumlicher Geltungsbereich
+# § 7 – Räumlicher Geltungsbereich
 
 Diese Verordnung gilt für Zinszahlungen durch eine inländische Zahlstelle an wirtschaftliche Eigentümer, die ihren Wohnsitz in einem anderen Mitgliedstaat der Europäischen Gemeinschaft haben.
 
-
-## § 8 – Datenübermittlung durch die Zahlstelle
+# § 8 – Datenübermittlung durch die Zahlstelle
 
 Wenn der wirtschaftliche Eigentümer der Zinsen in einem anderen Mitgliedstaat ansässig ist, hat die inländische Zahlstelle dem Bundeszentralamt für Steuern zum Zwecke der Weiterübermittlung nach § 9 folgende Daten zu übermitteln:
 
@@ -241,8 +229,7 @@ Wenn der wirtschaftliche Eigentümer der Zinsen in einem anderen Mitgliedstaat a
 
 Die Datenübermittlung hat bis zum 31. Mai des Jahres zu erfolgen, das auf das Jahr des Zuflusses folgt.
 
-
-## § 9 – Datenerhebung und Datenübermittlung durch das Bundeszentralamt für Steuern
+# § 9 – Datenerhebung und Datenübermittlung durch das Bundeszentralamt für Steuern
 
 (1) Das Bundeszentralamt für Steuern speichert die nach § 8 übermittelten Daten und übermittelt sie zum Zwecke der Besteuerung weiter an die zuständigen Behörden des Mitgliedstaats, in dem der wirtschaftliche Eigentümer ansässig ist. Die Daten über sämtliche während eines Kalenderjahres erfolgte Zinszahlungen werden einmal jährlich automatisiert weiter übermittelt, und zwar binnen sechs Monaten nach dem Ende des Kalenderjahres.
 
@@ -252,23 +239,19 @@ Die Datenübermittlung hat bis zum 31. Mai des Jahres zu erfolgen, das auf das J
 
 (4) Die nach den Absätzen 1 und 3 beim Bundeszentralamt für Steuern gespeicherten Daten werden drei Jahre nach Ablauf des Jahres, in dem die Weiterübermittlung erfolgt ist, gelöscht.
 
-
-## § 10 – Übergangszeitraum
+# § 10 – Übergangszeitraum
 
 Deutschland übermittelt Belgien, Luxemburg und Österreich durch das Bundeszentralamt für Steuern Daten nach Abschnitt 2 dieser Verordnung, auch wenn diese Staaten während des in Artikel 10 der Richtlinie des Rates vom 3. Juni 2003 benannten Übergangszeitraums ab dem in § 17 Satz 1 und 2 genannten Zeitpunkt und vorbehaltlich des § 13 die Bestimmungen des Abschnitts 2 der Richtlinie nicht anwenden müssen.
 
-
-## § 11 – Besteuerung nach innerstaatlichen Rechtsvorschriften
+# § 11 – Besteuerung nach innerstaatlichen Rechtsvorschriften
 
 Die Erhebung einer Quellensteuer durch Belgien, Luxemburg und Österreich als Zahlstellenstaat steht einer Besteuerung der Erträge durch Deutschland als Wohnsitzstaat des wirtschaftlichen Eigentümers gemäß seinen innerstaatlichen Rechtsvorschriften nicht entgegen.
 
-
-## § 12 – Einnahmen
+# § 12 – Einnahmen
 
 Das Bundeszentralamt für Steuern nimmt den der Bundesrepublik Deutschland zustehenden Anteil aus der Erhebung von Quellensteuern durch die Staaten Belgien, Luxemburg und Österreich entgegen.
 
-
-## § 13 – Ausnahmen vom Quellensteuerverfahren
+# § 13 – Ausnahmen vom Quellensteuerverfahren
 
 Zur Ermöglichung einer Abstandnahme von der Erhebung einer Quellensteuer in den Staaten Belgien, Luxemburg und Österreich stellt das nach § 5 Abs. 2 Satz 2 zuständige Finanzamt auf Antrag des wirtschaftlichen Eigentümers mit inländischem steuerlichen Wohnsitz eine Bescheinigung mit folgenden Angaben zur Vorlage bei seiner Zahlstelle aus:
 
@@ -280,8 +263,7 @@ Zur Ermöglichung einer Abstandnahme von der Erhebung einer Quellensteuer in den
 
 Diese Bescheinigung gilt für die Dauer von höchstens drei Jahren. Sie wird jedem wirtschaftlichen Eigentümer auf Antrag binnen zwei Monaten ausgestellt.
 
-
-## § 14 – Vermeidung der Doppelbesteuerung
+# § 14 – Vermeidung der Doppelbesteuerung
 
 (1) Bei einem wirtschaftlichen Eigentümer mit inländischem steuerlichen Wohnsitz wird gemäß den Absätzen 2 und 3 jegliche Doppelbesteuerung, die sich aus der Erhebung von Quellensteuer durch Belgien, Luxemburg und Österreich nach § 11 ergeben könnte, ausgeschlossen.
 
@@ -289,8 +271,7 @@ Diese Bescheinigung gilt für die Dauer von höchstens drei Jahren. Sie wird jed
 
 (3) Wurden von einem wirtschaftlichen Eigentümer vereinnahmte Zinsen über die Quellensteuer nach § 11 hinaus noch mit anderen Arten von ausländischen Steuern belastet und wird ihm dafür nach einem von der Bundesrepublik Deutschland abgeschlossenen Abkommen zur Vermeidung der Doppelbesteuerung oder nach § 34c des Einkommensteuergesetzes eine Anrechnung dieser ausländischen Steuer auf die deutsche Einkommensteuer gewährt, so hat diese Anrechnung vor Anwendung von Absatz 2 zu erfolgen.
 
-
-## § 15 – Umlauffähige Schuldtitel
+# § 15 – Umlauffähige Schuldtitel
 
 (1) Während des Übergangszeitraums nach Artikel 10 Abs. 2 der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen (ABl. EU Nr. L 157 S. 38), spätestens jedoch bis zum 31. Dezember 2010, gelten in- und ausländische Anleihen sowie andere umlauffähige Schuldtitel, die erstmals vor dem 1. März 2001 begeben wurden oder bei denen die zugehörigen Emissionsprospekte vor diesem Zeitpunkt durch die zuständigen Behörden im Sinne der Richtlinie 80/390/EWG des Rates vom 17. März 1980 zur Koordinierung der Bedingungen für die Erstellung, die Kontrolle und die Vorbereitung des Prospekts, der für die Zulassung von Wertpapieren zur amtlichen Notierung an einer Wertpapierbörse zu veröffentlichen ist (ABl. EG Nr. L 100 S. 1), aufgehoben durch die Richtlinie 2001/34/EG des Europäischen Parlaments und des Rates vom 28. Mai 2001 (ABl. EG Nr. L 184 S. 1, Nr. L 217 S. 18), oder durch die zuständigen Behörden von Drittländern genehmigt wurden, nicht als Forderungen im Sinne des § 6 Abs. 1 Satz 1 Nr. 1, wenn ab dem 1. März 2002 keine Folgeemissionen dieser umlauffähigen Schuldtitel mehr getätigt werden. Sofern der Übergangszeitraum nach § 10 über den 31. Dezember 2010 hinausgeht, finden die Bestimmungen dieser Vorschrift jedoch nur dann weiterhin Anwendung auf die betreffenden umlauffähigen Schuldtitel, wenn
 
@@ -302,13 +283,11 @@ Tätigt eine Regierung oder eine damit verbundene Einrichtung nach der Anlage, d
 
 (2) Diese Vorschrift steht einer Besteuerung von Erträgen aus den in Absatz 1 genannten umlauffähigen Schuldtiteln nach inländischen Rechtsvorschriften nicht entgegen.
 
-
-## § 16 – Andere Quellensteuern
+# § 16 – Andere Quellensteuern
 
 Diese Verordnung steht der Erhebung anderer Arten der Quellensteuer als die nach § 11 gemäß den innerstaatlichen Rechtsvorschriften nicht entgegen.
 
-
-## § 16a – Erweiterung des Anwendungsbereichs
+# § 16a – Erweiterung des Anwendungsbereichs
 
 (1) Diese Verordnung ist vorbehaltlich der Absätze 2 bis 4 entsprechend anwendbar auf
 
@@ -390,8 +369,7 @@ der Finanzminister oder sein Beauftragter,
 
 der Finanzminister oder sein Beauftragter.
 
-
-## § 17 – Anwendungsbestimmungen
+# § 17 – Anwendungsbestimmungen
 
 (1) Vorbehaltlich der Absätze 2 und 3 gilt diese Verordnung nur für Zinszahlungen, die bis zum 31. Dezember 2015 zugeflossen sind.
 
@@ -399,13 +377,11 @@ der Finanzminister oder sein Beauftragter.
 
 (3) § 16a gilt für Zinszahlungen, die nach dem 31. Dezember 2015 bis zu dem Zeitpunkt zufließen, zu dem eine Änderung, eine Suspendierung oder eine Beendigung der Anwendung der Abkommen, die mit den in § 16a Absatz 1 Satz 1 Nummer 1 genannten Staaten oder abhängigen oder assoziierten Gebieten jeweils geschlossen wurden, in Kraft getreten ist. Dies gilt auch für Curacao und Sint Maarten.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 15)  Liste der verbundenen Einrichtungen
+# Anlage – (zu § 15)  Liste der verbundenen Einrichtungen
 
 Folgende Einrichtungen sind als "mit der Regierung verbundene Einrichtungen, die als Behörde handeln oder deren Funktion durch einen internationalen Vertrag anerkannt ist," im Sinne des § 15 zu betrachten:
 

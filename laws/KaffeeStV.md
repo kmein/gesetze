@@ -1,13 +1,9 @@
-# [KaffeeStV] Verordnung zur Durchführung des Kaffeesteuergesetzes  (Kaffeesteuerverordnung - KaffeeStV)
-
-Ausfertigungsdatum: 05.10.2009
-
+% Verordnung zur Durchführung des Kaffeesteuergesetzes  (Kaffeesteuerverordnung - KaffeeStV)
+% Ausfertigungsdatum: 05.10.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinn dieser Verordnung ist
 
@@ -23,15 +19,13 @@ b) für in sonstiger Weise oder unter anderen als in Buchstabe a genannten Umst�
 
 4. Zollkodex-Durchführungsverordnung: Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 253 vom 11.10.1992, S. 1, L 268 vom 19.10.1994, S. 32, L 180 vom 19.7.1996, S. 34, L 156 vom 13.6.1997, S. 59, L 111 vom 29.4.1999, S. 88), die zuletzt durch die Verordnung (EG) Nr. 312/2009 (ABl. L 98 vom 17.4.2009, S. 3) geändert worden ist.
 
-
-## § 2 – Kaffeemenge, Kaffeeart, Herstellung
+# § 2 – Kaffeemenge, Kaffeeart, Herstellung
 
 (1) Bei löslichem Kaffee in Form von flüssigen Auszügen, Essenzen und Konzentraten bestimmt sich die Kaffeemenge nach der Trockenmasse. Lässt sich nicht feststellen, ob eine Ware Röstkaffee oder löslicher Kaffee ist, ist sie im Zweifel als löslicher Kaffee einzuordnen. Die Sätze 1 und 2 gelten für den Kaffeeanteil in kaffeehaltigen Waren entsprechend.
 
 (2) Eine Herstellung von Kaffee liegt auch dann vor, wenn Kaffee in seiner Beschaffenheit so verändert wird, dass sich dadurch die Besteuerungsgrundlage für die gleiche Kaffeeart verändert. Dies gilt für Veränderungen außerhalb des Steueraussetzungsverfahrens nur, wenn sie zu einer Mengenvermehrung führen.
 
-
-## § 3 – Steuerlager, Anforderungen an die Einrichtung
+# § 3 – Steuerlager, Anforderungen an die Einrichtung
 
 (1) Das Steuerlager (§ 5 des Gesetzes) umfasst die Gesamtheit der baulich zueinander gehörenden Räume, in denen sich die Einrichtungen zur Herstellung, zur Be- oder Verarbeitung, zur Lagerung von Kaffee sowie für die in Absatz 2 Satz 2 genannten Handlungen befinden, ebenso die Lagerorte für Roh- und Ausgangsstoffe, Halb- und Fertigerzeugnisse, die Ladeeinrichtungen, die Werkstätten zum Instandhalten des Betriebs und die Verwaltung. Ferner gehören dazu die Räume, Flächen und ortsfesten Transportanlagen, die diese Räume miteinander verbinden, sowie die daran angrenzenden Flächen, soweit diese für betriebliche Zwecke genutzt werden.
 
@@ -49,8 +43,7 @@ b) für in sonstiger Weise oder unter anderen als in Buchstabe a genannten Umst�
 
 (4) Das zuständige Hauptzollamt (§ 4 Absatz 2) kann unter Berücksichtigung von Belangen der Steueraufsicht bestimmen, dass bestimmte Räume und Flächen nicht in das Steuerlager einbezogen werden.
 
-
-## § 4 – Antrag auf Erlaubnis als Steuerlagerinhaber
+# § 4 – Antrag auf Erlaubnis als Steuerlagerinhaber
 
 (1) Der Antrag auf Erlaubnis als Steuerlagerinhaber nach § 6 des Gesetzes ist vor dem geplanten Betriebsbeginn eines Steuerlagers beim zuständigen Hauptzollamt nach amtlich vorgeschriebenem Vordruck zu stellen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -66,8 +59,7 @@ b) für in sonstiger Weise oder unter anderen als in Buchstabe a genannten Umst�
 
 (4) Beabsichtigt der Steuerlagerinhaber weitere Steuerlager zu betreiben, beantragt er in entsprechender Anwendung der Absätze 1 und 3 eine Erweiterung der Erlaubnis.
 
-
-## § 5 – Erteilung der Erlaubnis
+# § 5 – Erteilung der Erlaubnis
 
 (1) Das zuständige Hauptzollamt erteilt schriftlich oder elektronisch unter Widerrufsvorbehalt die Erlaubnis in dem vom Antragsteller beantragten zulässigen Umfang. Dabei sind die Räume, Flächen und Einrichtungen des Steuerlagers oder der Steuerlager sowie die nach § 3 Absatz 2 zulässigen Handlungen zu bestimmen. Mit der Erlaubnis werden nach einer Verwaltungsvorschrift des Bundesministeriums der Finanzen für den Steuerlagerinhaber und für jedes Steuerlager Verbrauchsteuernummern vergeben. Vor der Erteilung der Erlaubnis ist Sicherheit zu leisten (§ 6), soweit Anzeichen für eine Gefährdung der Steuer erkennbar sind. Die Erlaubnis kann befristet werden.
 
@@ -75,22 +67,19 @@ b) für in sonstiger Weise oder unter anderen als in Buchstabe a genannten Umst�
 
 (3) In den Fällen des § 4 Absatz 4 wird die Erlaubnis erweitert. Die Absätze 1 und 2 bleiben unberührt.
 
-
-## § 6 – Sicherheitsleistung
+# § 6 – Sicherheitsleistung
 
 (1) Die Höhe der Sicherheitsleistung wird durch das zuständige Hauptzollamt unter Berücksichtigung des § 6 Absatz 1 Satz 5 des Gesetzes festgelegt. Die Höhe der Sicherheitsleistung ist regelmäßig zu überprüfen und gegebenenfalls anzupassen.
 
 (2) Sind Steuerbelange gefährdet, kann das zuständige Hauptzollamt Sicherheitsleistung bis zur Höhe des Steuerwerts des tatsächlichen Bestands im Steuerlager sowie der entstandenen, aber noch nicht entrichteten Steuer verlangen; § 221 der Abgabenordnung bleibt unberührt.
 
-
-## § 7 – Änderung von Verhältnissen
+# § 7 – Änderung von Verhältnissen
 
 (1) Der Steuerlagerinhaber hat dem zuständigen Hauptzollamt die Änderung der in § 4 Absatz 1 und 3 dargestellten Verhältnisse vorher schriftlich anzuzeigen. Änderungen der räumlichen Ausdehnung des oder der Steuerlager oder der angeordneten Sicherungsmaßnahmen bedürfen der Zustimmung des zuständigen Hauptzollamts. Sonstige Veränderungen, insbesondere Überschuldung, drohende oder eingetretene Zahlungsunfähigkeit oder Zahlungseinstellung oder die Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens hat der Steuerlagerinhaber dem zuständigen Hauptzollamt unverzüglich anzuzeigen.
 
 (2) Soll der Betrieb eines Steuerlagers eingestellt werden oder mehr als sechs Wochen ruhen, so hat der Steuerlagerinhaber dies dem zuständigen Hauptzollamt im Voraus schriftlich anzuzeigen. Soll der Betrieb eines Steuerlagers wieder aufgenommen werden, hat der Steuerlagerinhaber dies dem zuständigen Hauptzollamt spätestens eine Woche im Voraus schriftlich anzuzeigen. Das zuständige Hauptzollamt kann im Einzelfall hierzu Anordnungen treffen oder Ausnahmen zulassen. Wird der Betrieb eines Steuerlagers eingestellt, widerruft das zuständige Hauptzollamt die Erlaubnis nach § 5. Sofern die Erlaubnis mehrere Steuerlager umfasst, wird diese geändert.
 
-
-## § 8 – Erlöschen und Fortbestand der Erlaubnis
+# § 8 – Erlöschen und Fortbestand der Erlaubnis
 
 (1) Die Erlaubnis nach § 5 erlischt durch
 
@@ -150,8 +139,7 @@ eine neue Erlaubnis, gilt die Erlaubnis des Rechtsvorgängers für die Antragste
 
 Entsprechendes gilt in den Fällen des Absatzes 1 Nummer 9 und 10 für den Steuerlagerinhaber.
 
-
-## § 9 – Belegheft, Buchführung
+# § 9 – Belegheft, Buchführung
 
 (1) Der Steuerlagerinhaber hat ein Belegheft zu führen. Das zuständige Hauptzollamt kann dazu Anordnungen treffen.
 
@@ -159,13 +147,11 @@ Entsprechendes gilt in den Fällen des Absatzes 1 Nummer 9 und 10 für den Steue
 
 (3) Der Steuerlagerinhaber hat die Zu- und Abgänge unverzüglich aufzuzeichnen. Das zuständige Hauptzollamt kann zulassen, dass insbesondere die Entnahmen in den steuerrechtlich freien Verkehr in der Lagerbuchführung für längstens einen Kalendermonat zusammengefasst aufgezeichnet werden.
 
-
-## § 10 – Vollständige Zerstörung und unwiederbringlicher Verlust
+# § 10 – Vollständige Zerstörung und unwiederbringlicher Verlust
 
 Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden oder unwiederbringlich verloren gegangen, hat der Steuerlagerinhaber dies dem zuständigen Hauptzollamt unverzüglich anzuzeigen und anhand betrieblicher Unterlagen nachzuweisen. Das zuständige Hauptzollamt kann Vereinfachungen zulassen und Anordnungen zur Nachweisführung treffen.
 
-
-## § 11 – Bestandsaufnahme im Steuerlager
+# § 11 – Bestandsaufnahme im Steuerlager
 
 (1) Der Steuerlagerinhaber hat je Kalenderjahr eine Bestandsaufnahme durchzuführen und beim zuständigen Hauptzollamt innerhalb eines Monats nach ihrem Abschluss den Soll- und Istbestand sowie das Ergebnis nach amtlich vorgeschriebenem Vordruck (Bestandsanmeldung) anzumelden und dabei zu Mengenabweichungen Stellung zu nehmen. Das zuständige Hauptzollamt kann zulassen, dass der Steuerlagerinhaber die Bestandsanmeldung in anderer Form abgibt, wenn Steuerbelange nicht beeinträchtigt werden. Der Steuerlagerinhaber hat den Beginn der Bestandsaufnahme dem zuständigen Hauptzollamt spätestens drei Wochen im Voraus anzuzeigen.
 
@@ -173,8 +159,7 @@ Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden oder unwi
 
 (3) Auf Anordnung des zuständigen Hauptzollamts sind die Bestände im Steuerlager amtlich festzustellen. Der Steuerlagerinhaber hat dazu auf Verlangen des zuständigen Hauptzollamts die Bestände nach amtlich vorgeschriebenem Vordruck anzumelden und an der Bestandsaufnahme teilzunehmen. Er hat dafür zu sorgen, dass die Bestände mit möglichst geringem Aufwand festgestellt werden können.
 
-
-## § 12 – Registrierter Versender
+# § 12 – Registrierter Versender
 
 (1) Wer als registrierter Versender (§ 7 Absatz 1 des Gesetzes) Kaffee vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung versenden will, hat die Erlaubnis im Voraus beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck zu beantragen. Dem Antrag sind in doppelter Ausfertigung beizufügen:
 
@@ -194,8 +179,7 @@ Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden oder unwi
 
 (6) Bei der Änderung der dargestellten Verhältnisse gilt § 7 und für das Erlöschen und den Fortbestand der Erlaubnis § 8 entsprechend.
 
-
-## § 13 – Begünstigte, Ausstellen der Freistellungsbescheinigung
+# § 13 – Begünstigte, Ausstellen der Freistellungsbescheinigung
 
 (1) Ein Begünstigter, der Kaffee unter Steueraussetzung von einem Steuerlager im Steuergebiet oder von einem registrierten Versender vom Ort der Einfuhr im Steuergebiet empfangen will, hat vor Beginn der Beförderung eine Freistellungsbescheinigung nach der Verordnung (EG) Nr. 31/96 der Kommission vom 10. Januar 1996 über die Verbrauchsteuerfreistellungsbescheinigung (ABl. L 8 vom 11.1.1996, S. 11) in der jeweils geltenden Fassung in Verbindung mit Artikel 13 der Systemrichtlinie in drei Exemplaren auszufertigen und dem zuständigen Hauptzollamt zur Bestätigung in Feld 6 vorzulegen. Der Begünstigte hat die mit Bestätigungsvermerk des zuständigen Hauptzollamts versehene erste und zweite Ausfertigung dem Steuerlagerinhaber als Versender oder dem registrierten Versender auszuhändigen. Die dritte Ausfertigung verbleibt beim zuständigen Hauptzollamt. Nach der Übernahme des Kaffees verbleibt die zweite Ausfertigung der Freistellungsbescheinigung beim Begünstigten. Der Kaffee ist unverzüglich nach der Bestätigung nach Satz 1 zu beziehen.
 
@@ -213,8 +197,7 @@ Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden oder unwi
 
 (5) Für die Voraussetzungen der Steuerfreiheit von Kaffee, der durch Diplomaten und konsularische Missionen empfangen wird, gilt § 17 der Zollverordnung in Verbindung mit den dazu ergangenen Verwaltungsvorschriften sinngemäß.
 
-
-## § 14 – Beförderungen im Steuergebiet
+# § 14 – Beförderungen im Steuergebiet
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung in ein Steuerlager im Steuergebiet oder zu einem Begünstigten im Steuergebiet befördert werden, hat der Steuerlagerinhaber als Versender oder der registrierte Versender das Begleitdokument zu verwenden.
 
@@ -232,13 +215,11 @@ Ist Kaffee im Steuerlager unbeabsichtigt vollständig zerstört worden oder unwi
 
 (8) Das Hauptzollamt kann, soweit Steuerbelange dadurch nicht beeinträchtigt werden, auf Antrag des Steuerlagerinhabers unter Widerrufsvorbehalt zulassen, dass Kaffee gleichzeitig als in das Steuerlager des Steuerlagerinhabers aufgenommen und daraus entfernt gilt, sobald er im Steuergebiet daran Besitz erlangt hat. Der Steuerlagerinhaber hat den Kaffee unverzüglich als Zu- und Abgang in das Lagerbuch einzutragen.
 
-
-## § 15 – Mitführen der Freistellungsbescheinigung
+# § 15 – Mitführen der Freistellungsbescheinigung
 
 Wird Kaffee unter Steueraussetzung im Steuergebiet zu Begünstigten im Steuergebiet befördert, hat der Beförderer während der Beförderung eine dem Versender nach § 13 Absatz 1 Satz 2 ausgehändigte Ausfertigung der Freistellungsbescheinigung mitzuführen. Die erste Ausfertigung nimmt der Versender zu seinen Aufzeichnungen.
 
-
-## § 16 – Beförderungen in andere Mitgliedstaaten
+# § 16 – Beförderungen in andere Mitgliedstaaten
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung an einen Empfänger in einem anderen Mitgliedstaat befördert werden, hat der Steuerlagerinhaber als Versender oder der registrierte Versender die ordnungsgemäße Durchführung eindeutig und leicht nachprüfbar buchmäßig nachzuweisen.
 
@@ -266,8 +247,7 @@ In Fällen, in denen der Kaffee durch den Empfänger abgeholt und befördert wir
 
 (3) § 14 Absatz 7 gilt entsprechend.
 
-
-## § 17 – Ausfuhr
+# § 17 – Ausfuhr
 
 (1) Soll Kaffee aus einem Steuerlager im Steuergebiet oder vom Ort der Einfuhr im Steuergebiet unter Steueraussetzung unmittelbar oder über andere Mitgliedstaaten aus dem Steuergebiet zu einem Ort befördert werden, an dem der Kaffee das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt, hat der Steuerlagerinhaber als Versender oder der registrierte Versender die Ausfuhr durch einen Beleg mit folgendem Inhalt nachzuweisen:
 
@@ -297,8 +277,7 @@ gilt, wenn diese Verfahren nicht bei einer Ausgangszollstelle beginnen, Satz 2. 
 
 (3) § 14 Absatz 7 gilt entsprechend.
 
-
-## § 18 – Art und Höhe der Sicherheitsleistung
+# § 18 – Art und Höhe der Sicherheitsleistung
 
 (1) Die Sicherheit für Beförderungen von Kaffee unter Steueraussetzung kann für mehrere Verfahren als Gesamtbürgschaft oder für jedes Verfahren einzeln als Einzelbürgschaft oder als Barsicherheit geleistet werden.
 
@@ -306,40 +285,33 @@ gilt, wenn diese Verfahren nicht bei einer Ausgangszollstelle beginnen, Satz 2. 
 
 (3) Das zuständige Hauptzollamt bestimmt die Höhe der Bürgschaftssumme und die Höhe der Barsicherheit, insbesondere unter Berücksichtigung der Steuer, die bei der Überführung des Kaffees in den steuerrechtlich freien Verkehr im Steuergebiet entstehen würde. Die Angemessenheit der Bürgschaftssumme ist im Fall der Gesamtbürgschaft regelmäßig zu überprüfen.
 
-
-## § 19 – Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
+# § 19 – Unregelmäßigkeiten während der Beförderung unter Steueraussetzung
 
 (1) Geht der Rückschein in den Fällen des § 14 nicht binnen zwei Monaten beim Versender ein, ist dies vom Steuerlagerinhaber als Versender oder vom registrierten Versender unverzüglich dem zuständigen Hauptzollamt (§ 4 Absatz 2) anzuzeigen.
 
 (2) Ist Kaffee während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
 
-
-## § 20 – Steueranmeldung
+# § 20 – Steueranmeldung
 
 Die Steueranmeldung nach § 12 Absatz 1 und 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
-## § 21 – Kleinbetragsregelung
+# § 21 – Kleinbetragsregelung
 
 Eine angemeldete oder festgesetzte Steuer oder Steuerentlastung wird vom zuständigen Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung von der angemeldeten oder festgesetzten Steuer oder Steuerentlastung mindestens 25 Euro beträgt.
 
-
-## § 22 – Anmeldung des Kaffees und der kaffeehatligen Waren
+# § 22 – Anmeldung des Kaffees und der kaffeehatligen Waren
 
 Kaffee und kaffeehaltige Waren aus Drittländern oder Drittgebieten sind in den Fällen des § 15 Absatz 3 des Gesetzes, auch in Verbindung mit § 3 des Gesetzes, nach den Zollvorschriften mit den für die Besteuerung wesentlichen Merkmalen und nach dem Steuertarif anzumelden. Die Steuererklärung ist in der Zollanmeldung oder nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
-## § 23 – Beförderungen zu privaten Zwecken
+# § 23 – Beförderungen zu privaten Zwecken
 
 Werden mehr als 10 Kilogramm Kaffee oder kaffeehaltige Waren nach § 16 des Gesetzes, auch in Verbindung mit § 3 des Gesetzes, zu privaten Zwecken in das Steuergebiet befördert, wird widerleglich vermutet, dass der Kaffee oder die kaffeehaltigen Waren zu gewerblichen Zwecken in das Steuergebiet befördert werden (§ 17 des Gesetzes).
 
-
-## § 24 – Beförderungen zu gewerblichen Zwecken
+# § 24 – Beförderungen zu gewerblichen Zwecken
 
 Die Anzeige nach § 17 Absatz 4 Satz 1 des Gesetzes ist im Voraus beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck abzugeben. Auf Verlangen des zuständigen Hauptzollamts hat der zur Anzeige Verpflichtete weitere Angaben zu machen, Aufzeichnungen über den Bezug des Kaffees oder der kaffeehaltigen Waren zu führen und diesen oder diese unverändert vorzuführen, wenn dies zur Sicherung des Steueraufkommens oder für die Steueraufsicht erforderlich erscheint. Die Steueranmeldung nach § 17 Absatz 5 Satz 1 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
-## § 25 – Nicht nur gelegentlicher Bezug zu gewerblichen Zwecken
+# § 25 – Nicht nur gelegentlicher Bezug zu gewerblichen Zwecken
 
 (1) Die Verfahrensvereinfachung nach § 17 Absatz 6 Satz 1 des Gesetzes ist im Voraus beim zuständigen Hauptzollamt (§ 4 Absatz 2) nach amtlich vorgeschriebenem Vordruck zu beantragen.
 
@@ -349,13 +321,11 @@ Die Anzeige nach § 17 Absatz 4 Satz 1 des Gesetzes ist im Voraus beim zuständi
 
 (4) Bei einer Änderung der dargestellten Verhältnisse gilt § 7, für den Fortbestand und das Erlöschen der Erlaubnis § 8 und für die Steueranmeldung und die Vorführpflicht § 24 entsprechend.
 
-
-## § 26 – Durchfuhr
+# § 26 – Durchfuhr
 
 Die Anzeige nach § 17 Absatz 4 Satz 2 des Gesetzes ist vom Beförderer vor der Durchfuhr beim Hauptzollamt Stuttgart abzugeben.
 
-
-## § 27 – Versandhandel, Beauftragter
+# § 27 – Versandhandel, Beauftragter
 
 (1) Der Versandhändler hat die Anzeige nach § 18 Absatz 4 Satz 1 des Gesetzes nach amtlich vorgeschriebenem Vordruck abzugeben.
 
@@ -367,20 +337,17 @@ Die Anzeige nach § 17 Absatz 4 Satz 2 des Gesetzes ist vom Beförderer vor der 
 
 (5) Die Steueranmeldung nach § 18 Absatz 5 Satz 2 und 6 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
-## § 28 – Unregelmäßigkeiten während der Beförderung von Kaffee oder kaffeehaltigen Waren des zollrechtlich freien Verkehrs
+# § 28 – Unregelmäßigkeiten während der Beförderung von Kaffee oder kaffeehaltigen Waren des zollrechtlich freien Verkehrs
 
 (1) Sind Kaffee oder kaffeehaltige Waren während der Beförderung infolge unvorhersehbarer Ereignisse oder höherer Gewalt vollständig zerstört oder unwiederbringlich verloren gegangen, hat der Beförderer dies dem Hauptzollamt unverzüglich anzuzeigen und durch geeignete Unterlagen nachzuweisen.
 
 (2) Die Steueranmeldung nach § 19 Absatz 3 Satz 2 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck abzugeben.
 
-
-## § 29 – Rohkaffeehändler
+# § 29 – Rohkaffeehändler
 
 Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20 Absatz 1 Nummer 4 des Gesetzes gleichgestellt.
 
-
-## § 30 – Steuerbefreiung für den Bezug von Kaffee zur Herstellung kaffeehaltiger Waren
+# § 30 – Steuerbefreiung für den Bezug von Kaffee zur Herstellung kaffeehaltiger Waren
 
 (1) Kaffee ist steuerfrei, wenn er durch einen Erlaubnisinhaber nach Absatz 2 unter Steueraussetzung zur Herstellung kaffeehaltiger Waren bezogen wird, die für die Ausfuhr oder für die Lieferung an einen Empfänger in einem anderen Mitgliedstaat bestimmt sind. Für die Beförderung des Kaffees gilt § 9 des Gesetzes (Beförderung von Kaffee in ein Steuerlager) sinngemäß.
 
@@ -398,8 +365,7 @@ Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20 Absatz 1
 
 (8) Dem steuerfreien Bezug steht die steuerfreie Entnahme des Kaffees aus der eigenen Herstellung gleich.
 
-
-## § 31 – Aufnahme von versteuertem Kaffee in ein Steuerlager
+# § 31 – Aufnahme von versteuertem Kaffee in ein Steuerlager
 
 (1) Der Steuerlagerinhaber hat über die Aufnahme von versteuertem Kaffee nach § 21 Absatz 1 des Gesetzes Aufzeichnungen nach amtlich vorgeschriebenem Vordruck zu führen. Das zuständige Hauptzollamt (§ 4 Absatz 2) kann auch betriebliche Aufzeichnungen zulassen, wenn dadurch Steuerbelange nicht beeinträchtigt werden.
 
@@ -407,8 +373,7 @@ Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20 Absatz 1
 
 (3) Die Anträge auf Steuerentlastung nach § 21 Absatz 1 des Gesetzes werden in der Steueranmeldung (§ 20) des Steuerlagerinhabers gestellt.
 
-
-## § 32 – Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
+# § 32 – Steuerentlastung bei Lieferungen in andere Mitgliedstaaten und bei der Ausfuhr
 
 (1) Wer versteuerten Kaffee oder kaffeehaltige, mit Kaffeesteuer belastete Waren gegen Steuerentlastung nach § 21 Absatz 2 und 3 des Gesetzes an einen Empfänger in einem anderen Mitgliedstaat liefern oder wer die vorgenannten kaffeehaltigen Waren ausführen will, bedarf der vorherigen Zusage durch das zuständige Hauptzollamt (§ 4 Absatz 2). Die Zusage wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die, soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen.
 
@@ -422,8 +387,7 @@ Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20 Absatz 1
 
 (6) Der Entlastungsabschnitt nach Absatz 5 umfasst ein Kalendervierteljahr. Das zuständige Hauptzollamt kann auf Antrag einen längeren Zeitraum, höchstens jedoch ein Kalenderjahr, oder einen kürzeren Zeitraum, mindestens jedoch einen Kalendermonat, als Erstattungs- oder Vergütungsabschnitt zulassen.
 
-
-## § 33 – Nachweis der Ausfuhr bei Lieferungen in Drittländer oder Drittgebiete
+# § 33 – Nachweis der Ausfuhr bei Lieferungen in Drittländer oder Drittgebiete
 
 (1) In Fällen, in denen der Inhaber der Erlaubnis (§ 30) oder des Zusagescheins (§ 32) kaffeehaltige Waren ausführt, ist der Ausfuhrnachweis durch einen Beleg zu führen, der Folgendes enthalten muss:
 
@@ -443,8 +407,7 @@ Makler und Agenten von Rohkaffee sind den Rohkaffeehändlern nach § 20 Absatz 1
 
 (2) § 17 Absatz 2 bis 4 gilt entsprechend.
 
-
-## § 34 – Nachweis bei Lieferung an einen Empfänger in einem anderen Mitgliedstaat
+# § 34 – Nachweis bei Lieferung an einen Empfänger in einem anderen Mitgliedstaat
 
 (1) Bei einer Lieferung von Kaffee oder kaffeehaltigen Waren an einen Empfänger in einem anderen Mitgliedstaat muss der Inhaber der Erlaubnis (§ 30) oder des Zusagescheins (§ 32) die Voraussetzungen für die Steuerentlastung oder die Steuerbefreiung buchmäßig nachweisen. Diese müssen eindeutig und leicht nachprüfbar aus der Buchführung zu ersehen sein.
 
@@ -474,8 +437,7 @@ In Fällen, in denen der Kaffee oder die kaffeehaltigen Waren durch den Empfäng
 
 2. eine Versicherung des Empfängers oder seines Beauftragten, den Kaffee oder die kaffeehaltigen Waren in einen anderen Mitgliedstaat zu liefern.
 
-
-## § 35 – Verbrauch durch diplomatische oder konsularische Vertretungen
+# § 35 – Verbrauch durch diplomatische oder konsularische Vertretungen
 
 (1) Unter der Voraussetzung der Gegenseitigkeit wird auf Antrag Kaffee von der Steuer befreit oder eine für Kaffee entrichtete Steuer vergütet, wenn er von den in Absatz 2 aufgeführten Dienststellen und Personen verbraucht wird.
 
@@ -499,23 +461,19 @@ In Fällen, in denen der Kaffee oder die kaffeehaltigen Waren durch den Empfäng
 
 (7) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Auswärtigen Amt im Einzelfall zulassen, dass die Steuer unter der Voraussetzung der Gegenseitigkeit auch anderen als den in Absatz 2 genannten ausländischen Vertretungen vergütet wird, wenn die Entsendestaaten diplomatische oder konsularische Vertretungen in der Bundesrepublik Deutschland nicht unterhalten.
 
-
-## § 36 – Vernichtung von Kaffee und kaffeehaltigen Waren, Steueraufsicht
+# § 36 – Vernichtung von Kaffee und kaffeehaltigen Waren, Steueraufsicht
 
 (1) Soll Kaffee vernichtet werden, hat der Steuerlagerinhaber dies beim zuständigen Hauptzollamt mindestens eine Woche im Voraus unter Angabe des Zeitpunkts und des Orts der Vernichtung und der Art und Menge des Kaffees anzumelden. Das Hauptzollamt kann zulassen, dass der Kaffee unter Aufsicht einer Steuerhilfsperson vernichtet wird, wenn Belange der Steueraufsicht nicht entgegenstehen.
 
 (2) Werden kaffeehaltige Waren im Betrieb ihres Herstellers unter Steueraufsicht vernichtet, wird ihm die Kaffeesteuer auf Antrag erlassen oder vergütet. Das für den Betrieb zuständige Hauptzollamt (§ 4 Absatz 2) kann einen anderen Ort der Vernichtung zulassen. Für das Verfahren bei der Vernichtung unter Steueraufsicht gilt Absatz 1 entsprechend.
 
-
-## § 37 – Probenentnahme im Rahmen der Steueraufsicht
+# § 37 – Probenentnahme im Rahmen der Steueraufsicht
 
 Die mit der Steueraufsicht betrauten Amtsträger können von Waren, die der Kaffeesteuer unterliegen oder unterliegen können, von Roh- und Ausgangsstoffen sowie von Halb- und Fertigerzeugnissen, die zur oder bei der Herstellung solcher Waren verwendet werden, und von den Umschließungen dieser Waren zu Untersuchungszwecken unentgeltlich Proben entnehmen. Auf Verlangen ist eine Entnahmebestätigung auszustellen. Auf Anforderung des zuständigen Hauptzollamts haben Inhaber von Erlaubnissen oder Zusagescheinen zu Untersuchungszwecken unentgeltlich Proben zur Verfügung zu stellen.
 
+# §§ 38 bis 43 – (weggefallen)
 
-## §§ 38 bis 43 – (weggefallen)
-
-
-## § 44 – Ordnungswidrigkeiten
+# § 44 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 

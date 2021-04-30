@@ -1,15 +1,11 @@
-# [COV19FKG] Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie  (COVID-19-Gesetz zur Funktionsfähigkeit der Kammern - COV19FKG)
-
-Ausfertigungsdatum: 10.07.2020
-
+% Gesetz zur Sicherstellung der Funktionsfähigkeit der Kammern im Bereich der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes während der COVID-19-Pandemie  (COVID-19-Gesetz zur Funktionsfähigkeit der Kammern - COV19FKG)
+% Ausfertigungsdatum: 10.07.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwaltskammern (§ 60 Absatz 1 und 2 der Bundesrechtsanwaltsordnung), der Bundesrechtsanwaltskammer (§ 175 Absatz 1 der Bundesrechtsanwaltsordnung), der Patentanwaltskammer (§ 53 Absatz 1 und 2 der Patentanwaltsordnung), der Notarkammern (§ 65 Absatz 1 der Bundesnotarordnung), der Bundesnotarkammer (§ 76 Absatz 1 der Bundesnotarordnung), der Notarkasse (§ 113 Absatz 1 der Bundesnotarordnung), der Ländernotarkasse (§ 113 Absatz 2 der Bundesnotarordnung), der Wirtschaftsprüferkammer (§ 4 Absatz 1 der Wirtschaftsprüferordnung), der Steuerberaterkammern (§ 73 Absatz 1 und § 75 Absatz 1 des Steuerberatungsgesetzes) und der Bundessteuerberaterkammer (§ 85 Absatz 1 des Steuerberatungsgesetzes) während der COVID-19-Pandemie. Es regelt Verfahren für präsenzlose Beschlussfassungen und Wahlen der Organe der Kammern und Kassen. Im Übrigen bleiben die Regelungen der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung, der Bundesnotarordnung, der Wirtschaftsprüferordnung und des Steuerberatungsgesetzes unberührt.
 
-
-## § 2 – Rechtsanwaltskammern
+# § 2 – Rechtsanwaltskammern
 
 (1) Beschlüsse des Vorstands der Rechtsanwaltskammer können in schriftlicher Abstimmung gefasst werden, wenn die Mehrheit der Vorstandsmitglieder damit einverstanden ist. Die Stimmabgabe kann auch über das besondere elektronische Anwaltspostfach erfolgen.
 
@@ -21,8 +17,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 3 – Bundesrechtsanwaltskammer
+# § 3 – Bundesrechtsanwaltskammer
 
 (1) Die Hauptversammlung der Bundesrechtsanwaltskammer kann auch ohne Versammlung der Mitglieder Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen. Die Stimmabgabe kann auch über das besondere elektronische Anwaltspostfach erfolgen. § 189 der Bundesrechtsanwaltsordnung gilt entsprechend mit der Maßgabe, dass die Einberufung der Kammerversammlung durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt wird. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Mit der Aufforderung sind den Mitgliedern die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden. § 190 Absatz 3 Satz 1 und 2 der Bundesrechtsanwaltsordnung gilt mit der Maßgabe, dass die einfache Mehrheit der bis zum Ablauf der Frist für die Stimmabgabe abgegebenen Stimmen erforderlich ist.
 
@@ -34,8 +29,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 4 – Patentanwaltskammer
+# § 4 – Patentanwaltskammer
 
 (1) Beschlüsse des Vorstands der Patentanwaltskammer können in schriftlicher Abstimmung gefasst werden, wenn die Mehrheit der Vorstandsmitglieder damit einverstanden ist.
 
@@ -45,8 +39,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 5 – Notarkammern
+# § 5 – Notarkammern
 
 (1) Beschlüsse des Vorstands der Notarkammer können in schriftlicher Abstimmung gefasst werden, wenn die Mehrheit der Vorstandsmitglieder damit einverstanden ist.
 
@@ -55,8 +48,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 (+++ § 5 Abs. 2: Zur Geltung vgl. § 7 Abs. 2 +++)  
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 6 – Bundesnotarkammer
+# § 6 – Bundesnotarkammer
 
 (1) Beschlüsse des Präsidiums der Bundesnotarkammer können in schriftlicher Abstimmung gefasst werden, wenn die Mehrheit der Präsidiumsmitglieder damit einverstanden ist.
 
@@ -64,8 +56,7 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 7 – Kassen
+# § 7 – Kassen
 
 (1) Der Verwaltungsrat der Notarkasse und der Verwaltungsrat der Ländernotarkasse können Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen, wenn die Mehrheit der Verwaltungsratsmitglieder damit einverstanden ist.
 
@@ -73,15 +64,13 @@ Dieses Gesetz dient der Sicherstellung der Funktionsfähigkeit der Rechtsanwalts
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 8 – Wirtschaftsprüferkammer
+# § 8 – Wirtschaftsprüferkammer
 
 Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtschaftsprüferkammer können Beschlüsse im Wege der schriftlichen Abstimmung fassen und Wahlen im Wege der Briefwahl oder als elektronische Wahl durchführen, wenn die Mehrheit ihrer Mitglieder damit einverstanden ist. Die Einberufung einer Sitzung wird durch die Aufforderung der Mitglieder zur Beschlussfassung oder zur Wahl ersetzt. Für die Berechnung der Aufforderungsfrist ist der letzte Tag der Stimmabgabe maßgeblich. Den Mitgliedern sind mit der Aufforderung die Beschluss- und Wahlvorschläge unter Angabe der Rechtsgrundlage und unter Beifügung einer Erläuterung ihres wesentlichen Inhalts sowie weitere für die Befassung mit den Gegenständen der Tagesordnung erforderliche Dokumente zu übersenden.
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 9 – Steuerberaterkammern
+# § 9 – Steuerberaterkammern
 
 (1) Beschlüsse des Vorstands oder der Abteilungen des Vorstands der Steuerberaterkammer können in schriftlicher Abstimmung gefasst werden, wenn die Mehrheit der Vorstandsmitglieder damit einverstanden ist.
 
@@ -91,8 +80,7 @@ Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtsch
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 10 – Bundessteuerberaterkammer
+# § 10 – Bundessteuerberaterkammer
 
 (1) Beschlüsse des Vorstands der Bundessteuerberaterkammer können in schriftlicher Abstimmung gefasst werden, wenn die Mehrheit der Vorstandsmitglieder damit einverstanden ist.
 
@@ -106,14 +94,12 @@ Der Beirat, der Vorstand und die Kommission für Qualitätskontrolle der Wirtsch
 
 (+++ Zur Geltung der §§ 2 bis 10 gemäß § 11 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 11 – Geltungszeitraum
+# § 11 – Geltungszeitraum
 
 Die §§ 2, 4, 5 und 9 sind nur auf Beschlussfassungen, Wahlen und Kammerversammlungen, § 3 ist nur auf Beschlussfassungen, Wahlen sowie Haupt- und Satzungsversammlungen, § 6 ist nur auf Beschlussfassungen und Vertreterversammlungen, die §§ 7 und 8 sind nur auf Beschlussfassungen und Wahlen und § 10 ist nur auf Beschlussfassungen sowie Bundeskammer- und Satzungsversammlungen anzuwenden, die bis einschließlich zum 31. Dezember 2020 stattfinden.
 
 (+++ Zur Geltungsverlängerung der §§ 2 bis 10 bis zum 31.12.2021 vgl. § 1 V v. 10.12.2020 BGBl. I 2930 +++)
 
-
-## § 12 – Verordnungsermächtigung
+# § 12 – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Finanzen, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Geltung der §§ 2 bis 10 gemäß § 11 bis längstens zum 31. Dezember 2021 zu verlängern, wenn dies aufgrund fortbestehender Auswirkungen der COVID-19-Pandemie in der Bundesrepublik Deutschland geboten erscheint.

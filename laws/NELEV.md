@@ -1,15 +1,11 @@
-# [NELEV] Verordnung zum Nachweis von elektrotechnischen Eigenschaften von Energieanlagen   (Elektrotechnische-Eigenschaften-Nachweis-Verordnung - NELEV)
-
-Ausfertigungsdatum: 12.06.2017
-
+% Verordnung zum Nachweis von elektrotechnischen Eigenschaften von Energieanlagen   (Elektrotechnische-Eigenschaften-Nachweis-Verordnung - NELEV)
+% Ausfertigungsdatum: 12.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 49 Absatz 4 Satz 1 Nummer 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), der durch Artikel 1 Nummer 15 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1786) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt den Nachweis der Einhaltung der allgemeinen technischen Mindestanforderungen im Sinne des § 19 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970, 3621), das zuletzt durch Artikel 13 des Gesetzes vom 29. Mai 2017 (BGBl. I S. 1298) geändert worden ist, für den Netzanschluss von Erzeugungsanlagen und dient der Wahrnehmung nationaler Gestaltungsspielräume nach Artikel 15 Absatz 6 Buchstabe c Unterabsatz i, nach Artikel 16 Absatz 1 und nach Artikel 32 Absatz 6 der Verordnung (EU) 2016/631 der Kommission vom 14. April 2016 zur Festlegung eines Netzkodex mit Netzanschlussbestimmungen für Stromerzeuger (ABl. L 112 vom 27.4.2016, S. 1).
 
@@ -17,8 +13,7 @@ Auf Grund des § 49 Absatz 4 Satz 1 Nummer 3 des Energiewirtschaftsgesetzes vom 
 
 (3) Auf Erzeugungsanlagen, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits an ein Elektrizitätsversorgungsnetz angeschlossen sind, ist diese Verordnung nur unter den Voraussetzungen des Artikels 4 der Verordnung (EU) 2016/631 anzuwenden.
 
-
-## § 2 – Nachweis der Einhaltung der allgemeinen technischen Mindestanforderungen von Erzeugungsanlagen
+# § 2 – Nachweis der Einhaltung der allgemeinen technischen Mindestanforderungen von Erzeugungsanlagen
 
 (1) Betreiber von Erzeugungsanlagen haben dem zuständigen Netzbetreiber im Rahmen des Betriebserlaubnisverfahrens nach Artikel 29 der Verordnung (EU) 2016/631 nachzuweisen, dass die allgemeinen technischen Mindestanforderungen nach § 19 des Energiewirtschaftsgesetzes eingehalten werden.
 
@@ -32,8 +27,7 @@ Auf Grund des § 49 Absatz 4 Satz 1 Nummer 3 des Energiewirtschaftsgesetzes vom 
 (+++ § 2 Abs. 3: Zur Nichtanwendung vgl. § 5 Abs. 1 +++)  
 (+++ § 2 Abs. 2 u. 3: Zur Anwendung vgl. § 5 Abs. 3 +++)
 
-
-## § 3 – Allgemein anerkannte Regeln der Technik
+# § 3 – Allgemein anerkannte Regeln der Technik
 
 (1) Bei dem Nachweis nach § 2 sind vorbehaltlich sonstiger Rechtsvorschriften die allgemein anerkannten Regeln der Technik zu beachten.
 
@@ -41,13 +35,11 @@ Auf Grund des § 49 Absatz 4 Satz 1 Nummer 3 des Energiewirtschaftsgesetzes vom 
 
 (3) Vorbehaltlich sonstiger Rechtsvorschriften können in den technischen Regeln des in § 49 Absatz 2 Satz 1 Nummer 1 des Energiewirtschaftsgesetzes bezeichneten Verbandes auch Überprüfungen der Einhaltung von technischen Mindestanforderungen nach § 19 des Energiewirtschaftsgesetzes durch Zertifizierungsstellen gemäß DIN EN ISO/IEC 17065, Ausgabe Januar 2013<span id="FnR.F799008_04"></span><a href="#F799008_04" class="FnR">4</a></sup> , gefordert werden, die von einer nationalen Akkreditierungsstelle im Sinne der Verordnung (EG) Nr. 765/2008 in der jeweils geltenden Fassung akkreditiert worden sind.
 
-
-## § 4 – Rechtsfolgen bei Nichterfüllung
+# § 4 – Rechtsfolgen bei Nichterfüllung
 
 Betreiber von Elektrizitätsversorgungsnetzen müssen eine endgültige Betriebserlaubnis nach Artikel 32 Absatz 3 oder nach Artikel 36 der Verordnung (EU) 2016/631 verweigern, soweit der anschlussbegehrende Betreiber einer Erzeugungsanlage Pflichten nach § 2 oder nach § 3 nicht einhält.
 
-
-## § 5 – Übergangsregelungen
+# § 5 – Übergangsregelungen
 
 (1) Soweit für die Ausstellung des Nachweisdokuments nach § 2 Absatz 2 keine allgemein anerkannten Regeln der Technik gemäß § 3 existieren, ist § 2 Absatz 2 nicht anzuwenden. Soweit für die Überprüfung der Simulationsmodelle nach § 2 Absatz 3 keine allgemein anerkannten Regeln der Technik gemäß § 3 existieren, ist § 2 Absatz 3 nicht anzuwenden.
 
@@ -55,12 +47,10 @@ Betreiber von Elektrizitätsversorgungsnetzen müssen eine endgültige Betriebse
 
 (3) Bis zur Genehmigung der Schwellenwerte für die Maximalkapazität von Erzeugungsanlagen nach Artikel 5 Absatz 3 der Verordnung (EU) 2016/631 durch die Bundesnetzagentur ist § 2 Absatz 2 und 3 mit der Maßgabe anzuwenden, dass die Schwellenwerte den in Tabelle 1 der Verordnung (EU) 2016/631 genannten Grenzwerten für Kontinentaleuropa entsprechen.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

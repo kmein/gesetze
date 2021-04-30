@@ -1,23 +1,17 @@
-# [GfwtDBwVDV] Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr  (GfwtDBwVDV)
-
-Ausfertigungsdatum: 23.08.2017
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr  (GfwtDBwVDV)
+% Ausfertigungsdatum: 23.08.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, dessen Absatz 1 Nummer 2 durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit § 10 und Anlage 2 Nummer 30 der Bundeslaufbahnverordnung, von denen § 10 Absatz 1 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert und Anlage 2 durch Artikel 1 Nummer 14 derselben Verordnung neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr.
 
-
-## § 2 – Ziel und Inhalt des Vorbereitungsdienstes
+# § 2 – Ziel und Inhalt des Vorbereitungsdienstes
 
 (1) Ziel des Vorbereitungsdienstes ist es, die Anwärterinnen und Anwärter zu befähigen,
 
@@ -37,8 +31,7 @@ Darüber hinaus werden allgemeine berufliche Fähigkeiten vermittelt, insbesonde
 
 (3) Die Anwärterinnen und Anwärter werden auf ihre Verantwortung in einem demokratischen und sozialen Rechtsstaat vorbereitet.
 
-
-## § 3 – Arten des Vorbereitungsdienstes
+# § 3 – Arten des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst wird durchgeführt
 
@@ -46,8 +39,7 @@ Der Vorbereitungsdienst wird durchgeführt
 
 2. ansonsten als ein ingenieurwissenschaftliches oder naturwissenschaftliches Bachelorstudium mit studienbegleitenden berufspraktischen Studienzeiten.
 
-
-## § 4 – Dauer des Vorbereitungsdienstes
+# § 4 – Dauer des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst nach § 3 Nummer 1 dauert in der Regel 18 Monate, mindestens aber zwölf Monate.
 
@@ -55,20 +47,17 @@ Der Vorbereitungsdienst wird durchgeführt
 
 (3) Die Dauer des Vorbereitungsdienstes kann abweichend festgesetzt werden, wenn Lehrgänge nach den §§ 21 bis 26 bereits an Lehreinrichtungen der Länder, während eines fachspezifischen Vorbereitungsdienstes oder im Rahmen eines berufsmäßigen Wehrdienstes absolviert worden sind. Die Entscheidung darüber trifft die Einstellungsbehörde im Einzelfall.
 
-
-## § 5 – Erholungsurlaub
+# § 5 – Erholungsurlaub
 
 Erholungsurlaub soll nur während der praktischen Ausbildung (§ 27) gewährt werden.
 
-
-## § 6 – Einstellungsbehörde
+# § 6 – Einstellungsbehörde
 
 (1) Einstellungsbehörde ist das Bundesamt für das Personalmanagement der Bundeswehr. Die Einstellungsbehörde ist zuständig für die Einstellung und die Betreuung der Anwärterinnen und Anwärter. Sie trifft die Entscheidungen über die Verkürzung und die Verlängerung des Vorbereitungsdienstes nach den §§ 15 und 16 der Bundeslaufbahnverordnung.
 
 (2) Die Einstellungsbehörde ist die personalbearbeitende Dienststelle der Anwärterinnen und Anwärter. Sie kann Aufgaben im Rahmen des Einstellungsverfahrens auf eine nachgeordnete Behörde übertragen.
 
-
-## § 7 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 7 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind.
 
@@ -76,8 +65,7 @@ Erholungsurlaub soll nur während der praktischen Ausbildung (§ 27) gewährt we
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird, erhält eine schriftliche Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens ein Jahr nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
-
-## § 8 – Anforderungen im Auswahlverfahren; Auswahlinstrumente
+# § 8 – Anforderungen im Auswahlverfahren; Auswahlinstrumente
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen und Bewerber die folgenden Anforderungen erfüllen:
 
@@ -99,15 +87,13 @@ e) Führungs- und Managementkompetenz sowie
 
 (3) Die Feststellung erfolgt mit Hilfe von Auswahlinstrumenten. Der Einsatz der Auswahlinstrumente kann durch Informationstechnologie unterstützt werden.
 
-
-## § 9 – Nachteilsausgleich
+# § 9 – Nachteilsausgleich
 
 (1) Für schwerbehinderte Bewerberinnen und Bewerber und für diesen gleichgestellte behinderte Bewerberinnen und Bewerber sind die im Geschäftsbereich des Bundesministeriums der Verteidigung geltenden Regelungen zum Nachteilsausgleich für schwerbehinderte Menschen und diesen gleichgestellte behinderte Menschen entsprechend anzuwenden. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
 (2) Über einen Nachteilsausgleich entscheidet die Behörde, die das Auswahlverfahren durchführt.
 
-
-## § 10 – Auswahlkommission
+# § 10 – Auswahlkommission
 
 (1) Für das Auswahlverfahren richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt die Einstellungsbehörde sicher, dass alle Auswahlkommissionen dieselben Bewertungs- und Auswahlmaßstäbe anlegen.
 
@@ -121,8 +107,7 @@ e) Führungs- und Managementkompetenz sowie
 
 (6) Die Gleichstellungsbeauftragte darf am Auswahlverfahren und an den anschließenden Beratungen der Auswahlkommission teilnehmen. Sie ist nicht stimmberechtigt.
 
-
-## § 11 – Ergänzende Festlegungen
+# § 11 – Ergänzende Festlegungen
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -146,8 +131,7 @@ e) Führungs- und Managementkompetenz sowie
 
 (3) Die ergänzenden Festlegungen werden im Gemeinsamen Ministerialblatt veröffentlicht.
 
-
-## § 12 – Bestandteile des Auswahlverfahrens und Zweck der Bestandteile
+# § 12 – Bestandteile des Auswahlverfahrens und Zweck der Bestandteile
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen, einem mündlichen und einem praktischen Teil.
 
@@ -155,8 +139,7 @@ e) Führungs- und Managementkompetenz sowie
 
 (3) Der praktische Teil dient der Feststellung der Anforderungen an die körperliche Leistungsfähigkeit und Belastbarkeit sowie der individuellen Trainierbarkeit.
 
-
-## § 13 – Schriftlicher Teil des Auswahlverfahrens
+# § 13 – Schriftlicher Teil des Auswahlverfahrens
 
 (1) Im schriftlichen Teil des Auswahlverfahrens dürfen höchstens vier der folgenden Auswahlinstrumente eingesetzt werden:
 
@@ -172,15 +155,13 @@ e) Führungs- und Managementkompetenz sowie
 
 (2) Der schriftliche Teil des Auswahlverfahrens dauert in der Regel einen Arbeitstag.
 
-
-## § 14 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+# § 14 – Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei Eignungsmerkmalen, die ausschließlich im schriftlichen Teil bewertet werden, das festgelegte Mindestergebnis erreicht hat.
 
 (2) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber werden zum mündlichen Teil des Auswahlverfahrens zugelassen, wenn sie am schriftlichen Teil teilgenommen haben.
 
-
-## § 15 – Mündlicher Teil des Auswahlverfahrens
+# § 15 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Im mündlichen Teil des Auswahlverfahrens dürfen höchstens vier der folgenden Auswahlinstrumente eingesetzt werden:
 
@@ -198,15 +179,13 @@ e) Führungs- und Managementkompetenz sowie
 
 (3) Am mündlichen Teil des Auswahlverfahrens darf der Personalrat teilnehmen. Sofern schwerbehinderte Bewerberinnen und Bewerber oder gleichgestellte behinderte Bewerberinnen und Bewerber teilnehmen, darf auch die Schwerbehindertenvertretung teilnehmen.
 
-
-## § 15a – Bewertung der Eignungsmerkmale
+# § 15a – Bewertung der Eignungsmerkmale
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst die Leistungen zu einem Gesamtergebnis für das Eignungsmerkmal zusammen.
 
 (2) Bei der Bewertung von Leistungen im schriftlichen Teil des Auswahlverfahrens kann sich die Auswahlkommission durch Informationstechnologie und durch dafür ausgebildete Beschäftigte unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
-
-## § 15b – Praktischer Teil des Auswahlverfahrens
+# § 15b – Praktischer Teil des Auswahlverfahrens
 
 (1) Im praktischen Teil des Auswahlverfahrens werden Auswahlinstrumente eingesetzt, die speziell auf den feuerwehrtechnischen Dienst ausgerichtet sind.
 
@@ -214,8 +193,7 @@ e) Führungs- und Managementkompetenz sowie
 
 (3) Bei der Bewertung von Leistungen kann sich die Auswahlkommission durch Informationstechnologie und durch dafür ausgebildete Beschäftigte unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
-
-## § 15c – Gesamtergebnis und Rangfolge
+# § 15c – Gesamtergebnis und Rangfolge
 
 (1) Für die Bewerberinnen und Bewerber, die das Mindestergebnis für das Bestehen des praktischen Teils des Auswahlverfahrens erreicht haben und am schriftlichen und mündlichen Teil des Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission das Gesamtergebnis aus dem schriftlichen und mündlichen Teil des Auswahlverfahrens gemäß der von der Einstellungsbehörde festgelegten Bewertungs- und Gewichtungssystematik.
 
@@ -225,8 +203,7 @@ e) Führungs- und Managementkompetenz sowie
 
 (4) Die Auswahlkommission legt anhand der ermittelten Gesamtergebnisse eine Rangfolge der Bewerberinnen und Bewerber fest, die das Auswahlverfahren bestanden haben. Sind mehrere Auswahlkommissionen eingerichtet worden, so wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt, die das Auswahlverfahren bestanden haben. Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber werden bei gleichem Gesamtergebnis in der Rangfolge vor den anderen Bewerberinnen und Bewerbern geführt. Nur bei ansonsten gleich geeigneten Bewerberinnen und Bewerbern ist das Ergebnis des praktischen Teils maßgeblich für die Festlegung der Rangfolge.
 
-
-## § 15d – Einstellung in den Vorbereitungsdienst
+# § 15d – Einstellung in den Vorbereitungsdienst
 
 (1) In den Vorbereitungsdienst für den gehobenen feuerwehrtechnischen Dienst in der Bundeswehr kann eingestellt werden, wer
 
@@ -256,8 +233,7 @@ In den Fällen, in denen der Vorbereitungsdienst nach § 3 Nummer 2 durchgeführ
 
 (5) Wer nicht eingestellt wird, erhält eine schriftliche Ablehnung. Für die Bewerbungsunterlagen gilt § 7 Absatz 3 Satz 2 bis 4 entsprechend.
 
-
-## § 16 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+# § 16 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner Persönlichkeit geeignet ist.
 
@@ -267,22 +243,19 @@ In den Fällen, in denen der Vorbereitungsdienst nach § 3 Nummer 2 durchgeführ
 
 (4) Die Anwärterinnen und Anwärter werden in den einzelnen Ausbildungsstationen Beschäftigten der Bundeswehr zur Unterweisung und Anleitung zugeteilt. Den Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden die Ausbildenden von anderen Dienstgeschäften entlastet. Die Ausbildenden unterrichten die Ausbildungsbeauftragte oder den Ausbildungsbeauftragten regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 17 – Rahmenlehrplan
+# § 17 – Rahmenlehrplan
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit der Einstellungsbehörde und dem Bildungszentrum der Bundeswehr einen Rahmenlehrplan. Der Rahmenlehrplan bedarf der Genehmigung durch das Bundesministerium der Verteidigung.
 
 (2) Im Rahmenlehrplan werden die Regeldauer der Lehrgänge (§§ 21 bis 26) und die grobe Struktur der Lehrinhalte festgelegt.
 
-
-## § 18 – Ausbildungsrahmenplan
+# § 18 – Ausbildungsrahmenplan
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit der Einstellungsbehörde und dem Bildungszentrum der Bundeswehr einen Ausbildungsrahmenplan. Der Ausbildungsrahmenplan bedarf der Genehmigung durch das Bundesministerium der Verteidigung.
 
 (2) Im Ausbildungsrahmenplan werden der allgemeine Ablauf des Vorbereitungsdienstes, die Ausbildungsstationen und der Inhalt der praktischen Ausbildung sowie die Dauer der Abschnitte der praktischen Ausbildung (§ 27) geregelt.
 
-
-## § 19 – Ausbildungsplan
+# § 19 – Ausbildungsplan
 
 (1) Vor Beginn der Ausbildung erstellt die oder der Ausbildungsbeauftragte im Einvernehmen mit der Ausbildungsleitung für jede Anwärterin und jeden Anwärter einen Ausbildungsplan.
 
@@ -290,8 +263,7 @@ In den Fällen, in denen der Vorbereitungsdienst nach § 3 Nummer 2 durchgeführ
 
 (3) Die Anwärterin oder der Anwärter erhält eine Ausfertigung des Ausbildungsplans.
 
-
-## § 20 – Ausbildungsabschnitte
+# § 20 – Ausbildungsabschnitte
 
 (1) Der Vorbereitungsdienst besteht aus den folgenden Ausbildungsabschnitten:
 
@@ -329,8 +301,7 @@ Die Lehrgänge und die praktische Ausbildung können durch Exkursionen ergänzt 
 
 Die Lehrgänge können mit Zustimmung des Bundesministeriums der Verteidigung auch an einer anderen Dienststelle der Bundeswehr, an einer kooperierenden Hochschuleinrichtung oder an einer Lehreinrichtung der Länder durchgeführt werden. In diesem Fall gelten die Lehrpläne nach Absatz 4 entsprechend.
 
-
-## § 21 – Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“
+# § 21 – Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“
 
 Im Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“ werden den Anwärterinnen und Anwärtern allgemeine berufsbezogene Grundlagen und fachbezogene Grundlagen für den Feuerwehrdienst vermittelt. Sie werden zur Brandbekämpfung sowie zur Hilfeleistung, insbesondere zur Rettung von Menschen und Tieren aus lebensbedrohlichen Lagen, befähigt. Es werden ihnen die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
@@ -340,8 +311,7 @@ Im Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrt
 
 3. Fahrzeugtechnik und feuerwehrtechnische Ausstattung der Feuerwehrfahrzeuge.
 
-
-## § 22 – Lehrgang „Menschenführung“
+# § 22 – Lehrgang „Menschenführung“
 
 Im Lehrgang „Menschenführung“ werden den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
@@ -353,8 +323,7 @@ Im Lehrgang „Menschenführung“ werden den Anwärterinnen und Anwärtern die 
 
 Der Lehrgang ist insbesondere auf die Vermittlung der notwendigen Kenntnisse für die Wahrnehmung der Aufgaben als Führungskraft im Feuerwehreinsatz in zeitkritischen und psychisch belastenden Situationen ausgerichtet.
 
-
-## § 23 – Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“
+# § 23 – Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“
 
 Im Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“ werden den Anwärterinnen und Anwärtern die notwendigen Kenntnisse in den folgenden Bereichen vermittelt:
 
@@ -364,8 +333,7 @@ Im Lehrgang „Organisation, Recht und Betriebswirtschaftslehre“ werden den An
 
 3. Grundlagen der Betriebswirtschaftslehre.
 
-
-## § 24 – Lehrgang „Gruppenführung“
+# § 24 – Lehrgang „Gruppenführung“
 
 Im Lehrgang „Gruppenführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“ die Kenntnisse für den Einsatz als Einheitsführerin oder Einheitsführer vermittelt. Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
@@ -379,8 +347,7 @@ Im Lehrgang „Gruppenführung“ werden den Anwärterinnen und Anwärtern aufba
 
 5. die Aus- und Fortbildung auf Standortebene durchzuführen.
 
-
-## § 25 – Lehrgang „Zugführung“
+# § 25 – Lehrgang „Zugführung“
 
 Im Lehrgang „Zugführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang „Gruppenführung“ die Kenntnisse für den Einsatz als Zugführerin oder Zugführer vermittelt. Die Anwärterinnen und Anwärter sollen in der Lage sein,
 
@@ -390,8 +357,7 @@ Im Lehrgang „Zugführung“ werden den Anwärterinnen und Anwärtern aufbauend
 
 3. im vorbeugenden Brandschutz auf Standortebene mitzuwirken sowie Einrichtungen des vorbeugenden Brandschutzes im Feuerwehreinsatz taktisch richtig einzusetzen.
 
-
-## § 26 – Lehrgang „Verbandsführung“
+# § 26 – Lehrgang „Verbandsführung“
 
 Im Lehrgang „Verbandsführung“ werden den Anwärterinnen und Anwärtern aufbauend auf dem Lehrgang „Zugführung“ die Kenntnisse für den Einsatz als Verbandsführerin oder Verbandsführer vermittelt. Die Anwärterinnen und Anwärter werden befähigt
 
@@ -401,8 +367,7 @@ Im Lehrgang „Verbandsführung“ werden den Anwärterinnen und Anwärtern aufb
 
 3. zur selbständigen Führung eines Sachgebiets in einer stabsmäßig arbeitenden Einsatzleitung.
 
-
-## § 27 – Praktische Ausbildung
+# § 27 – Praktische Ausbildung
 
 (1) In der praktischen Ausbildung werden die Anwärterinnen und Anwärter mit allen Grundlagen der Zusammenarbeit innerhalb der militärischen Dienststellen und der Feuerwachen sowie dem Zusammenwirken mit anderen Organisationseinheiten vertraut gemacht. Die praktische Ausbildung ist insbesondere auf die Vermittlung praxisorientierter Kenntnisse, Fertigkeiten und Fähigkeiten ausgerichtet. Darüber hinaus werden die Kenntnisse, die in den Lehrgängen „Feuerwehrtechnische Grundausbildung für den gehobenen feuerwehrtechnischen Dienst“, „Gruppenführung“ und „Zugführung“ erworben worden sind, durch praktische Übungen und Einsatzaufgaben in den anzuwendenden Einsatztechniken vertieft.
 
@@ -410,8 +375,7 @@ Im Lehrgang „Verbandsführung“ werden den Anwärterinnen und Anwärtern aufb
 
 (3) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
-## § 28 – Bachelorstudium
+# § 28 – Bachelorstudium
 
 (1) Das Bachelorstudium wird an einer mit der Einstellungsbehörde kooperierenden Hochschuleinrichtung durchgeführt.
 
@@ -419,15 +383,13 @@ Im Lehrgang „Verbandsführung“ werden den Anwärterinnen und Anwärtern aufb
 
 (3) Die Einstellungsbehörde teilt die Anwärterinnen und Anwärter einer kooperierenden Hochschuleinrichtung zu.
 
-
-## § 29 – Inhalt und Aufbau des Bachelorstudiums
+# § 29 – Inhalt und Aufbau des Bachelorstudiums
 
 (1) Inhalt und Aufbau des Bachelorstudiums richten sich nach der Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung.
 
 (2) Das Bachelorstudium kann bereits Inhalte der in § 20 Absatz 1 Satz 1 Nummer 1 bis 6 genannten Lehrgänge vermitteln.
 
-
-## § 30 – Erfolgreicher Abschluss des Bachelorstudiums
+# § 30 – Erfolgreicher Abschluss des Bachelorstudiums
 
 (1) Für den erfolgreichen Abschluss des Bachelorstudiums müssen die Anwärterinnen und Anwärter
 
@@ -443,8 +405,7 @@ Die erforderliche Zahl an Leistungspunkten wird von der kooperierenden Hochschul
 
 (4) Die Wiederholung von Prüfungen und der Bachelorarbeit richtet sich nach der Studien- und Prüfungsordnung der kooperierenden Hochschuleinrichtung.
 
-
-## § 31 – Berufspraktische Studienzeit
+# § 31 – Berufspraktische Studienzeit
 
 (1) Die berufspraktische Studienzeit nach den §§ 16 bis 27 findet während des Studiums in der vorlesungsfreien Zeit statt.
 
@@ -456,8 +417,7 @@ Die erforderliche Zahl an Leistungspunkten wird von der kooperierenden Hochschul
 
 (5) Die Bewertungen sind der kooperierenden Hochschuleinrichtung mitzuteilen und mit der Anwärterin oder dem Anwärter zu besprechen.
 
-
-## § 32 – Bestandteile
+# § 32 – Bestandteile
 
 Die Laufbahnprüfung besteht aus
 
@@ -467,8 +427,7 @@ Die Laufbahnprüfung besteht aus
 
 3. einer mündlichen Prüfung.
 
-
-## § 33 – Prüfungsamt
+# § 33 – Prüfungsamt
 
 (1) Beim Bildungszentrum der Bundeswehr wird ein Prüfungsamt eingerichtet.
 
@@ -482,8 +441,7 @@ Die Laufbahnprüfung besteht aus
 
 (3) Das Prüfungsamt kann einzelne Aufgaben auf andere Behörden übertragen.
 
-
-## § 34 – Einrichtung von Prüfungskommissionen
+# § 34 – Einrichtung von Prüfungskommissionen
 
 (1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung mindestens eine Prüfungskommission ein.
 
@@ -491,8 +449,7 @@ Die Laufbahnprüfung besteht aus
 
 (3) Werden für einen Teil der Laufbahnprüfung mehrere Prüfungskommissionen eingerichtet, kann das Prüfungsamt eine Beamtin oder einen Beamten des höheren Dienstes mit der Leitung dieses Teils der Prüfung beauftragen.
 
-
-## § 35 – Mitglieder der Prüfungskommissionen
+# § 35 – Mitglieder der Prüfungskommissionen
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der schriftlichen Prüfung sind
 
@@ -526,8 +483,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (5) Die Mitglieder der Prüfungskommissionen werden vom Prüfungsamt bestellt. Die Spitzenorganisationen der Gewerkschaften und Berufsverbände des öffentlichen Dienstes können Mitglieder vorschlagen. Die Mitglieder werden für die Dauer von höchstens fünf Jahren bestellt. Wiederbestellung ist zulässig.
 
-
-## § 36 – Entscheidungen der Prüfungskommission
+# § 36 – Entscheidungen der Prüfungskommission
 
 (1) Die Mitglieder der Prüfungskommissionen sind bei ihrer Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
 
@@ -535,8 +491,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (3) Die Prüfungskommission ist beschlussfähig, wenn die oder der Vorsitzende und insgesamt mehr als die Hälfte der Mitglieder anwesend ist. Die Prüfungskommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 37 – Nichtöffentlichkeit der Laufbahnprüfung
+# § 37 – Nichtöffentlichkeit der Laufbahnprüfung
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -550,15 +505,13 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (6) Die Aufsichtsbefugnisse des Prüfungsamts und des Bundesministeriums der Verteidigung bleiben unberührt.
 
-
-## § 38 – Prüfungsort und Prüfungstermin
+# § 38 – Prüfungsort und Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen Prüfung, der praktischen Prüfung und der mündlichen Prüfung fest und teilt sie den Anwärterinnen und Anwärtern rechtzeitig mit.
 
 (2) Die praktische und die mündliche Prüfung sollen in zeitlichem Zusammenhang nacheinander durchgeführt werden.
 
-
-## § 39 – Schriftliche Prüfung
+# § 39 – Schriftliche Prüfung
 
 (1) In der schriftlichen Prüfung sollen die Anwärterinnen und Anwärter zeigen, dass sie die Aufgaben im Bereich der Feuerwehr rasch und sicher erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen können.
 
@@ -576,8 +529,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (5) Die Klausur im Prüfungsgebiet „Organisation, Recht und Betriebswirtschaftslehre“ soll am Ende des Lehrgangs „Organisation, Recht und Betriebswirtschaftslehre“ (§ 23) geschrieben werden. Die beiden übrigen Klausuren sollen am Ende des Lehrgangs „Zugführung“ (§ 25) geschrieben werden.
 
-
-## § 40 – Durchführung der schriftlichen Prüfung
+# § 40 – Durchführung der schriftlichen Prüfung
 
 (1) Die Klausuren werden unter Aufsicht geschrieben. Die Aufsichtführenden haben an jedem Prüfungstag ein Protokoll anzufertigen, in dem der Beginn und die Abgabe der Klausur sowie etwaige Unterbrechungen, in Anspruch genommene Prüfungserleichterungen und besondere Vorkommnisse enthalten sind.
 
@@ -587,8 +539,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (4) Die Klausuren werden anstelle des Namens mit einer Kennziffer versehen. Es wird eine Übersicht mit der Zuordnung der Kennziffern und Namen erstellt. Diese Übersicht darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
-
-## § 41 – Bewertung und Bestehen der schriftlichen Prüfung
+# § 41 – Bewertung und Bestehen der schriftlichen Prüfung
 
 (1) Jede Klausur wird von den beiden Mitgliedern der Prüfungskommission unabhängig voneinander bewertet. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben. Sollte bei abweichenden Bewertungen keine Einigung erzielt werden, gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
@@ -598,8 +549,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (4) Das Prüfungsamt gibt das Ergebnis jeder einzelnen Klausur den Anwärterinnen und Anwärtern spätestens einen Monat nach dem Prüfungstag schriftlich bekannt.
 
-
-## § 42 – Zulassung zur praktischen Prüfung
+# § 42 – Zulassung zur praktischen Prüfung
 
 (1) Zur praktischen Prüfung zugelassen sind Anwärterinnen und Anwärter, die die schriftliche Prüfung bestanden haben. Über die Zulassung entscheidet das Prüfungsamt oder eine vom Prüfungsamt beauftragte Person.
 
@@ -607,8 +557,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (3) Der Bescheid über die Nichtzulassung zur praktischen Prüfung bedarf der Schriftform. Er ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 43 – Praktische Prüfung
+# § 43 – Praktische Prüfung
 
 (1) In der praktischen Prüfung sollen die Anwärterinnen und Anwärter nachweisen, dass sie befähigt sind, Einsatzstellen auch beim Einsatz mehrerer Züge zu leiten.
 
@@ -626,8 +575,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (5) Die Planübungen werden vom Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr vorbereitet und durchgeführt.
 
-
-## § 44 – Bewertung und Bestehen der praktischen Prüfung
+# § 44 – Bewertung und Bestehen der praktischen Prüfung
 
 (1) Die in der praktischen Prüfung gezeigten Leistungen werden von der Prüfungskommission bewertet. Jede und jeder Prüfende gibt jeweils für jede Planübung eine Bewertung ab. Aus den Einzelbewertungen wird eine Durchschnittspunktzahl gebildet.
 
@@ -635,15 +583,13 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (3) Die praktische Prüfung ist bestanden, wenn die Planübungen im Durchschnitt mit einer Rangpunktzahl von mindestens fünf bewertet worden sind.
 
-
-## § 45 – Zulassung zur mündlichen Prüfung
+# § 45 – Zulassung zur mündlichen Prüfung
 
 (1) Zur mündlichen Prüfung zugelassen sind Anwärterinnen und Anwärter, die die praktische Prüfung bestanden haben. Über die Zulassung entscheidet das Prüfungsamt oder eine vom Prüfungsamt beauftragte Person.
 
 (2) Der Bescheid über die Nichtzulassung zur mündlichen Prüfung bedarf der Schriftform. Er ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 46 – Mündliche Prüfung
+# § 46 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung besteht aus
 
@@ -659,15 +605,13 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (5) Über die mündliche Prüfung ist ein Protokoll anzufertigen, aus dem Gegenstand, Ablauf und Ergebnis der Prüfung hervorgehen.
 
-
-## § 47 – Prüfungsgespräch
+# § 47 – Prüfungsgespräch
 
 (1) Das Prüfungsgespräch erstreckt sich auf unterschiedliche Schwerpunkte der in § 20 Absatz 1 Satz 1 genannten Ausbildungsabschnitte der berufspraktischen Studienzeit.
 
 (2) Die Prüfungskommission wählt den Prüfungsstoff aus. Die Schwerpunkte der Prüfung unterliegen der Verschwiegenheitspflicht und sind bis zum Beginn des Prüfungsgesprächs unter Verschluss zu halten.
 
-
-## § 48 – Kurzvortrag
+# § 48 – Kurzvortrag
 
 (1) Im Kurzvortrag soll die Anwärterin oder der Anwärter zeigen, dass sie oder er in der Lage ist, ein vorgegebenes Thema in gebotener Kürze und mit dem richtigen Medieneinsatz vorzutragen.
 
@@ -675,8 +619,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (3) Für den Kurzvortrag wird jeder Anwärterin und jedem Anwärter fünf Arbeitstage vor der mündlichen Prüfung vom Prüfungsamt oder von einer von ihm beauftragten Person ein Vortragsthema vorgegeben. Das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr stellt dem Prüfungsamt eine Themensammlung aus den Ausbildungsabschnitten nach § 20 Absatz 1 Satz 1 Nummer 1 und 4 bis 6 zur Verfügung. Das Vortragsthema unterliegt der Verschwiegenheitspflicht und ist bis zu dem in Satz 1 genannten Zeitpunkt unter Verschluss zu halten.
 
-
-## § 49 – Bewertung und Bestehen der mündlichen Prüfung
+# § 49 – Bewertung und Bestehen der mündlichen Prüfung
 
 (1) Das Prüfungsgespräch und der Kurzvortrag werden von der Prüfungskommission bewertet. Die Prüfenden schlagen jeweils für Prüfungsgespräch und Kurzvortrag die Bewertung für den von ihr oder ihm im Prüfungsgespräch und Kurzvortrag geprüften Prüfungsstoff vor.
 
@@ -688,8 +631,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (5) Im Anschluss an die mündliche Prüfung teilt die oder der Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die Ergebnisse mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
-
-## § 50 – Nachteilsausgleich
+# § 50 – Nachteilsausgleich
 
 (1) Für Anwärterinnen und Anwärter mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, sind die im Geschäftsbereich des Bundesministeriums der Verteidigung geltenden Regelungen zum Nachteilsausgleich für schwerbehinderte Menschen und diesen gleichgestellte behinderte Menschen entsprechend anzuwenden. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
@@ -697,8 +639,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 (3) Bei Prüfungen durch eine kooperierende Hochschuleinrichtung sind die Absätze 1 und 2 nur insoweit anzuwenden, als sie den Bestimmungen der Hochschuleinrichtung nicht widersprechen. Absatz 1 Satz 2 bleibt davon unberührt.
 
-
-## § 51 – Verhinderung, Rücktritt und Säumnis
+# § 51 – Verhinderung, Rücktritt und Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände ganz oder zeitweise an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich nachzuweisen. Auf Verlangen des Prüfungsamts ist ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes vorzulegen, die oder der vom Prüfungsamt beauftragt worden ist.
 
@@ -716,8 +657,7 @@ b) jeweils eine Beamtin oder ein Beamter des höheren oder gehobenen feuerwehrte
 
 Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 52 – Täuschung und Ordnungsverstoß
+# § 52 – Täuschung und Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einem der Prüfungsteile täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt der Entscheidung nach Absatz 2 gestattet werden.
 
@@ -735,8 +675,7 @@ Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (4) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 und 3 anzuhören.
 
-
-## § 53 – Bewertung von Leistungen
+# § 53 – Bewertung von Leistungen
 
 (1) Die Leistungen werden wie folgt bewertet:
 
@@ -843,8 +782,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Zusammengefasste Bewertungen und Durchschnittsrangpunktzahlen werden, soweit nichts anderes bestimmt ist, auf zwei Dezimalstellen ohne Rundung berechnet.
 
-
-## § 54 – Wiederholung von Prüfungen und Ausbildungsabschnitten
+# § 54 – Wiederholung von Prüfungen und Ausbildungsabschnitten
 
 (1) Wer eine Klausur, die praktische oder die mündliche Prüfung nicht bestanden hat, kann diesen Prüfungsteil je einmal wiederholen. In begründeten Fällen kann das Bundesministerium der Verteidigung eine zweite Wiederholung zulassen.
 
@@ -852,8 +790,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen.
 
-
-## § 55 – Bestehen der Laufbahnprüfung und Abschlussnote
+# § 55 – Bestehen der Laufbahnprüfung und Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die schriftliche, die praktische und die mündliche Prüfung bestanden sind.
 
@@ -873,8 +810,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (6) Durch das Bestehen der Laufbahnprüfung erlangen die Anwärterinnen und Anwärter die Befähigung für die Laufbahn des gehobenen technischen Verwaltungsdienstes des Bundes.
 
-
-## § 56 – Abschlusszeugnis
+# § 56 – Abschlusszeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die Laufbahnprüfung bestanden haben, einen schriftlichen Bescheid über das Gesamtergebnis der Laufbahnprüfung. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
@@ -890,8 +826,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Fehler bei der rechnerischen Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt berichtigt. Fehlerhafte Abschlusszeugnisse sind dem Prüfungsamt zurückzugeben. Wird eine Prüfung nachträglich für nicht bestanden erklärt (§ 52 Absatz 3 Satz 1), ist das Abschlusszeugnis ebenfalls dem Prüfungsamt zurückzugeben.
 
-
-## § 57 – Mitteilung über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
+# § 57 – Mitteilung über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen schriftlichen Bescheid über die nichtbestandene Laufbahnprüfung. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
@@ -899,8 +834,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Neben dem Bescheid erhalten die Anwärterinnen und Anwärter von der Einstellungsbehörde ein Dienstzeugnis. In dem Dienstzeugnis werden die Dauer der Ausbildung und die Ausbildungsinhalte angegeben.
 
-
-## § 58 – Prüfungsakten und Einsichtnahme
+# § 58 – Prüfungsakten und Einsichtnahme
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -916,12 +850,10 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die Betroffenen können auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
-
-## § 59 – Übergangsvorschrift
+# § 59 – Übergangsvorschrift
 
 Anwärterinnen und Anwärter, die auf Grundlage des Verwaltungsabkommens über die Laufbahnausbildung für den gehobenen feuerwehrtechnischen Dienst mit dem Land Sachsen-Anhalt vom 3. November 2008 vor dem 1. September 2017 eingestellt worden sind, können in die Laufbahnausbildung nach dieser Verordnung überführt werden und die Laufbahnprüfung ablegen.
 
-
-## § 60 – Inkrafttreten
+# § 60 – Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2017 in Kraft.

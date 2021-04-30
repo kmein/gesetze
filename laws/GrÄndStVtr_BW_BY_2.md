@@ -1,10 +1,7 @@
-# [GrÄndStVtr BW/BY 2] Zweiter Staatsvertrag zwischen dem Freistaat Bayern und dem Land Baden-Württemberg über die Änderung der Landesgrenze
-
-Ausfertigungsdatum: 22.10.1987
-
+% Zweiter Staatsvertrag zwischen dem Freistaat Bayern und dem Land Baden-Württemberg über die Änderung der Landesgrenze
+% Ausfertigungsdatum: 22.10.1987
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Freistaat Bayern und das Land Baden-Württemberg, beide vertreten durch ihre Ministerpräsidenten, schließen folgenden  
 
@@ -14,23 +11,19 @@ Der Freistaat Bayern und das Land Baden-Württemberg, beide vertreten durch ihre
   
 Staatsvertrag:
 
-
-## Art 1
+# Art 1
 
 Im Anschluß an den Ersten Staatsvertrag zwischen dem Land Baden-Württemberg und dem Freistaat Bayern über die Änderung der Landesgrenze vom 17. November 1977 vereinbaren die vertragschließenden Länder zur Anpassung des Grenzverlaufs an die durch den Ausbau von Straßen und Gewässern und durch Flurbereinigungen geänderten Verhältnisse die in Artikel 3 bis 24 bezeichneten Änderungen ihrer gemeinsamen Landesgrenze.
 
-
-## Art 2
+# Art 2
 
 Für den in Artikel 3 bis 24 festgelegten Verlauf der neuen Landesgrenze sind die Anlagen 1 bis 24 zu diesem Staatsvertrag und die dort aufgeführten Katasterunterlagen über die Festlegung der Landesgrenzpunkte in den Liegenschaftskatastern von Bayern und Baden-Württemberg maßgebend.
 
-
-## Art 3
+# Art 3
 
 Zwischen der Gemeinde Nonnenhorn, Landkreis Lindau (Bodensee), Freistaat Bayern, und der Gemeinde Kressbronn am Bodensee, Bodenseekreis, Land Baden-Württemberg, verläuft die neue Landesgrenze von Landesgrenzpunkt 3/16 bis zum Landesgrenzpunkt 5 nach Maßgabe der Anlage 3, Seiten 1 und 2.
 
-
-## Art 4
+# Art 4
 
 Zwischen den Gemeinden Gestratz und Maierhöfen, Landkreis Lindau (Bodensee), Freistaat Bayern, sowie der Gemeinde Argenbühl und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -38,23 +31,19 @@ Zwischen den Gemeinden Gestratz und Maierhöfen, Landkreis Lindau (Bodensee), Fr
 
 2. vom Landesgrenzpunkt 169/11 bis zum Landesgrenzpunkt 170 nach Maßgabe der Anlage 4, Seiten 3 und 4.
 
-
-## Art 5
+# Art 5
 
 Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern, und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 316/9 bis zum Landesgrenzpunkt 318/10 nach Maßgabe der Anlage 5, Seiten 1 und 2.
 
-
-## Art 6
+# Art 6
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern, und der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 43 bis zum Landesgrenzpunkt 44 nach Maßgabe der Anlage 6, Seiten 1 und 2.
 
-
-## Art 7
+# Art 7
 
 Zwischen der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern, und der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 66 bis zum Landesgrenzpunkt 70 nach Maßgabe der Anlage 7, Seiten 1 und 2.
 
-
-## Art 8
+# Art 8
 
 Zwischen der Stadt Leipheim, Landkreis Günzburg, und der Gemeinde Elchingen, Landkreis Neu-Ulm, Freistaat Bayern, sowie der Stadt Langenau, Alb-Donau-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -62,8 +51,7 @@ Zwischen der Stadt Leipheim, Landkreis Günzburg, und der Gemeinde Elchingen, La
 
 2. vom Landesgrenzpunkt 201 bis zum Landesgrenzpunkt 234 nach Maßgabe der Anlage 8, Seiten 4 und 5.
 
-
-## Art 9
+# Art 9
 
 Zwischen der Stadt Günzburg, Landkreis Günzburg, Freistaat Bayern, und der Stadt Niederstotzingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -71,13 +59,11 @@ Zwischen der Stadt Günzburg, Landkreis Günzburg, Freistaat Bayern, und der Sta
 
 2. vom Landesgrenzpunkt 305/2 (alt) bis zum Landesgrenzpunkt 306 nach Maßgabe der Anlage 9, Seiten 1 und 2.
 
-
-## Art 10
+# Art 10
 
 Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Gemeinde Sontheim an der Brenz, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 412 bis zum Landesgrenzpunkt 414 nach Maßgabe der Anlage 10, Seiten 1 und 2.
 
-
-## Art 11
+# Art 11
 
 Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -85,13 +71,11 @@ Zwischen der Gemeinde Medlingen, Landkreis Dillingen a. d. Donau, Freistaat Baye
 
 2. vom Landesgrenzpunkt 477/2 bis zum Landesgrenzpunkt 478 (alt) nach Maßgabe der Anlage 11, Seiten 1 und 2.
 
-
-## Art 12
+# Art 12
 
 Zwischen der Gemeinde Bachhagel, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Stadt Giengen an der Brenz, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 497 bis zum Landesgrenzpunkt 500 nach Maßgabe der Anlage 12, Seiten 1 und 2.
 
-
-## Art 13
+# Art 13
 
 Zwischen der Gemeinde Zöschingen, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Gemeinde Nattheim, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -99,8 +83,7 @@ Zwischen der Gemeinde Zöschingen, Landkreis Dillingen a. d. Donau, Freistaat Ba
 
 2. vom Landesgrenzpunkt 635/3 bis zum Landesgrenzpunkt 636 nach Maßgabe der Anlage 13, Seiten 2 und 3.
 
-
-## Art 14
+# Art 14
 
 Zwischen den Gemeinden Zöschingen, Bachhagel und Ziertheim, Landkreis Dillingen a. d. Donau, Freistaat Bayern, sowie der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -136,13 +119,11 @@ Zwischen den Gemeinden Zöschingen, Bachhagel und Ziertheim, Landkreis Dillingen
 
 16. vom Landesgrenzpunkt 798 bis zum Landesgrenzpunkt 799 nach Maßgabe der Anlage 14, Seiten 6 und 7.
 
-
-## Art 15
+# Art 15
 
 Zwischen der Gemeinde Ziertheim, Landkreis Dillingen a. d. Donau, Freistaat Bayern, und der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 807 bis zum Landesgrenzpunkt 808/2 nach Maßgabe der Anlage 15, Seiten 1 und 2.
 
-
-## Art 16
+# Art 16
 
 Zwischen den Gemeinden Ziertheim und Mödingen und dem gemeindefreien Gebiet Bergheimer Forst, Landkreis Dillingen a. d. Donau, Freistaat Bayern, sowie der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -162,8 +143,7 @@ Zwischen den Gemeinden Ziertheim und Mödingen und dem gemeindefreien Gebiet Ber
 
 8. vom Landesgrenzpunkt 964 bis zum Landesgrenzpunkt 978 nach Maßgabe der Anlage 16, Seiten 7 bis 9.
 
-
-## Art 17
+# Art 17
 
 Zwischen der Gemeinde Amerdingen, Landkreis Donau-Ries, Freistaat Bayern und der Gemeinde Dischingen, Landkreis Heidenheim, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -171,8 +151,7 @@ Zwischen der Gemeinde Amerdingen, Landkreis Donau-Ries, Freistaat Bayern und der
 
 2. vom Landesgrenzpunkt 58 bis zum Landesgrenzpunkt 58/6 nach Maßgabe der Anlage 17, Seiten 2 und 3.
 
-
-## Art 18
+# Art 18
 
 Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern, sowie der Stadt Bopfingen und der Gemeinde Riesbürg, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -182,8 +161,7 @@ Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern, sowie de
 
 3. vom Landesgrenzpunkt 290 bis zum Landesgrenzpunkt 312 nach Maßgabe der Anlage 18, Seiten 1 bis 3.
 
-
-## Art 19
+# Art 19
 
 Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern, und der Gemeinde Riesbürg, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -199,8 +177,7 @@ Zwischen der Stadt Nördlingen, Landkreis Donau-Ries, Freistaat Bayern, und der 
 
 6. vom Landesgrenzpunkt 346 bis zum Landesgrenzpunkt 347 nach Maßgabe der Anlage 19, Seiten 3 und 4.
 
-
-## Art 20
+# Art 20
 
 Zwischen der Stadt Nördlingen und dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat Bayern, sowie den Gemeinden Riesbürg und Kirchheim am Ries, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -212,13 +189,11 @@ Zwischen der Stadt Nördlingen und dem Markt Wallerstein, Landkreis Donau-Ries, 
 
 4. vom Landesgrenzpunkt 372 bis zum Landesgrenzpunkt 402 nach Maßgabe der Anlage 20, Seiten 5 bis 7.
 
-
-## Art 21
+# Art 21
 
 Zwischen dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat Bayern, und der Gemeinde Unterschneidheim, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 496 bis zum Landesgrenzpunkt 499/2 nach Maßgabe der Anlage 21, Seiten 1 und 2.
 
-
-## Art 22
+# Art 22
 
 Zwischen der Gemeinde Schnelldorf, Landkreis Ansbach, Freistaat Bayern, und der Gemeinde Wallhausen, Landkreis Schwäbisch Hall, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -226,8 +201,7 @@ Zwischen der Gemeinde Schnelldorf, Landkreis Ansbach, Freistaat Bayern, und der 
 
 2. vom Landesgrenzpunkt 404/1 bis zum Landesgrenzpunkt 409 nach Maßgabe der Anlage 22, Seiten 2 und 3.
 
-
-## Art 23
+# Art 23
 
 Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a. d. Aisch-Bad Windsheim, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -235,8 +209,7 @@ Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a. d. Aisch-Bad Windsheim
 
 2. vom Landesgrenzpunkt 945/11 bis zum Landesgrenzpunkt 948/1 nach Maßgabe der Anlage 23, Seiten 2 und 3.
 
-
-## Art 24
+# Art 24
 
 Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern, und der Gemeinde Wittighausen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
 
@@ -244,8 +217,7 @@ Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern, und der 
 
 2. vom Landesgrenzpunkt 396 bis zum Landesgrenzpunkt 400 nach Maßgabe der Anlage 24, Seiten 1 und 2.
 
-
-## Art 25
+# Art 25
 
 (1) Mit Inkrafttreten dieses Staatsvertrages werden die aufgenommenen Gebietsteile in die an sie angrenzenden Gemeinden des aufnehmenden Landes eingegliedert.
 
@@ -255,30 +227,25 @@ Zwischen der Gemeinde Kirchheim, Landkreis Würzburg, Freistaat Bayern, und der 
 
 (4) Die beteiligten Gebietskörperschaften regeln die sie betreffenden Rechts- und Verwaltungsfragen durch Vereinbarung, die der Genehmigung der zuständigen Regierung und des zuständigen Regierungspräsidiums bedarf. Sonstige Rechts- und Verwaltungsfragen regeln für die aufgenommenen Gebiete die zuständige Regierung und das zuständige Regierungspräsidium im Benehmen mit den beteiligten Gebietskörperschaften.
 
-
-## Art 26
+# Art 26
 
 Hinsichtlich des Übergangs von Verwaltungsvermögen gilt § 4 des Gesetzes über das Verfahren bei Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) mit der Maßgabe, daß Entschädigungen nicht zu leisten sind.
 
-
-## Art 27
+# Art 27
 
 Die Anlagen 1 bis 24 sind Bestandteile dieses Staatsvertrages. Sie werden bei dem Bayerischen Landesvermessungsamt in München und dem Landesvermessungsamt Baden-Württemberg in Stuttgart sowie den Vermessungsämtern Dillingen a. d. Donau, Günzburg, Immenstadt i. Allgäu, Kempten (Allgäu), Nördlingen, Rothenburg ob der Tauber und Würzburg des Freistaates Bayern und bei den Staatlichen Vermessungsämtern Aalen, Friedrichshafen, Heidenheim, Ravensburg, Schwäbisch Hall, Tauberbischofsheim und Ulm des Landes Baden-Württemberg aufbewahrt und können dort von jedermann während der Sprechzeiten kostenlos eingesehen werden.
 
-
-## Art 28
+# Art 28
 
 (1) Dieser Staatsvertrag bedarf der Ratifikation. Die Ratifikationsurkunden sollen so bald wie möglich ausgetauscht werden.
 
 (2) Dieser Staatsvertrag tritt am ersten Tag des dem Austausch der Ratifikationsurkunden folgenden Kalenderjahres in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Für den Freistaat Bayern  
 Für das Land Baden-Württemberg
 
-
-## Anlage 1 bis 24
+# Anlage 1 bis 24
 
 Vom Abdruck der Anlagen 1 bis 24 wurde abgesehen (vgl. Art. 27).

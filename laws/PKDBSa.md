@@ -1,17 +1,13 @@
-# [PKDBSa] Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG)
-
-Ausfertigungsdatum: 14.01.2006
-
+% Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG Köln (Anlage zur Verordnung über die Feststellung der Satzung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG)
+% Ausfertigungsdatum: 14.01.2006
  
-
-## § 1 – Rechtsform und Sitz der Kasse
+# § 1 – Rechtsform und Sitz der Kasse
 
 (1) Die Kasse führt die Firma "Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG" und hat ihren Sitz in Köln. Sie ist ein kleinerer Versicherungsverein auf Gegenseitigkeit im Sinne des § 53 des Versicherungsaufsichtsgesetzes.
 
 (2) Geschäftsgebiet ist die Bundesrepublik Deutschland.
 
-
-## § 2 – Zweck der Kasse
+# § 2 – Zweck der Kasse
 
 (1) Die Kasse hat den Zweck, die Altersversorgung der Arbeitnehmer der beteiligten Arbeitgeber in Ergänzung der gesetzlichen Rentenversicherung sicherzustellen. Soweit die Abteilungen A, A 2000 und G der Kasse Eigenbeiträge der Arbeitnehmer vorsehen, sind auch diese ab dem 1. Januar 2002 von der Versorgungszusage der beteiligten Arbeitgeber nach § 1 BetrAVG umfasst (betriebliche Altersversorgung), um die Förderungsvoraussetzungen nach § 10a in Verbindung mit Abschnitt XI des Einkommensteuergesetzes zu erfüllen.
 
@@ -19,8 +15,7 @@ Ausfertigungsdatum: 14.01.2006
 
 (3) Die Kasse kann für die beteiligten Arbeitgeber die Durchführung betrieblicher Versorgungszusagen übernehmen, wenn diese nach einem Muster gestaltet sind, das von dem Kuratorium der Kasse gebilligt worden ist. Hierbei können auch Versorgungsberechtigte der beteiligten Arbeitgeber betreut werden, die nicht Mitglieder der Kasse sind. Die Kasse ist in den in Satz 1 und 2 genannten Fällen nicht Schuldner der Versorgungsleistungen; die Finanzierung der zusätzlichen Versorgungsleistungen ist allein Sache des jeweiligen beteiligten Arbeitgebers. Die Einzelheiten der von der Kasse zu übernehmenden Aufgaben sind vertraglich festzulegen; dabei ist die Verwaltung zu verpflichten, die der Pensionskasse durch die Betreuung entstehenden zusätzlichen Verwaltungskosten durch eine angemessene Pauschale abzugelten.
 
-
-## § 2a – Mitgliedschaft
+# § 2a – Mitgliedschaft
 
 (1) Die Mitgliedschaft in der Kasse wird durch Abschluss eines Beitrittsvertrags mit dem Arbeitgeber oder durch Abschluss eines Versicherungsvertrags mit dem Arbeitnehmer bzw. sonstigen Versicherten begründet.
 
@@ -48,15 +43,13 @@ d) Rentner, deren Arbeitgeber aus der Mitgliedschaft in der Kasse ausgeschieden 
 
 (4) In den Fällen des Absatzes 2 Buchstaben b), c) und d) beginnt die Mitgliedschaft mit der Aushändigung des Aufnahmescheins an den Arbeitnehmer bzw. sonstigen Versicherten.
 
-
-## § 2b – Begriffe
+# § 2b – Begriffe
 
 (1) Soweit in der Satzung der Begriff Arbeitnehmer verwendet wird, umfasst dieser auch die sonstigen Versicherten gemäß § 8, sofern nicht ausdrücklich etwas anderes geregelt ist.
 
 (2) Soweit in dieser Satzung der Begriff Versicherter verwendet wird, umfasst dieser alle ordentlichen und alle außerordentlichen Mitglieder der Kasse (§ 2a Abs. 2 und 3) mit Ausnahme der beteiligten Arbeitgeber.
 
-
-## § 3 – Verhältnis der Kasse zu anderen Versorgungseinrichtungen
+# § 3 – Verhältnis der Kasse zu anderen Versorgungseinrichtungen
 
 (1) Die Kasse kann mit anderen Versorgungseinrichtungen Gegenseitigkeitsabkommen derart abschließen, dass bei dem Übertritt von einer Kasse zu der anderen die für den Arbeitnehmer eingezahlten Beiträge ganz oder teilweise herausgegeben werden. Die Durchführung im Einzelfall bedarf der Zustimmung des betroffenen Arbeitnehmers. Von anderen Versorgungseinrichtungen herausgegebene Beiträge werden zu einer Nachversicherung des Arbeitnehmers verwendet; soweit Gegenseitigkeit vereinbart worden ist, können die bei der anderen Versorgungseinrichtung versichert gewesenen Zeiten als Beitragszeiten zur Kasse angerechnet werden.
 
@@ -64,8 +57,7 @@ d) Rentner, deren Arbeitgeber aus der Mitgliedschaft in der Kasse ausgeschieden 
 
 (3) Verträge nach Absatz 1 und 2 bedürfen der Genehmigung des Kuratoriums und der Aufsichtsbehörde.
 
-
-## § 4 – Beitrittsrecht
+# § 4 – Beitrittsrecht
 
 (1) Der Kasse können als beteiligte Arbeitgeber alle juristischen und natürlichen Personen beitreten, die Eigentümer, Pächter oder Betriebsführer von Eisenbahnen, Straßenbahnen, Schienenwegen oder sonstigen Verkehrs- und Versorgungsbetrieben sind. Als beteiligte Arbeitgeber können der Kasse auch juristische und natürliche Personen beitreten, die verkehrs- und versorgungsbetriebstypische Serviceleistungen (z. B. Reinigung, Werkstätten, Bewachung, Fahrgastkontrollen, u. Ä.) erbringen, sofern mindestens 65 v. H. ihres Jahresumsatzes aus Serviceleistungen für an der Kasse beteiligte Verkehrs- und Versorgungsunternehmen nach Satz 1 erzielt werden. Wird in einem Kalenderjahr der Prozentsatz des Jahresumsatzes von 65 v. H. unterschritten, so dürfen der Kasse von diesem beteiligten Arbeitgeber nach Ablauf des betreffenden Kalenderjahres keine Arbeitnehmer mehr zugeführt werden.
 
@@ -79,8 +71,7 @@ d) Rentner, deren Arbeitgeber aus der Mitgliedschaft in der Kasse ausgeschieden 
 
 (5) Der Beitrittsvertrag bedarf der Genehmigung des Kuratoriums.
 
-
-## § 5 – Pflichten der beteiligten Arbeitgeber
+# § 5 – Pflichten der beteiligten Arbeitgeber
 
 (1) Die beteiligten Arbeitgeber haben vom Zeitpunkt der Wirksamkeit des Beitritts ab bei der Neueinstellung von Arbeitnehmern diese zum Beitritt zu der Kasse zu verpflichten, sobald und soweit eine Versicherungspflicht nach dieser Satzung vorliegt. Das Kuratorium kann einen Arbeitgeber im Einzelfalle von dieser Verpflichtung freistellen, wenn ein Arbeitnehmer die Nichtzuführung schriftlich beantragt, der entweder einer anderen Pensions- oder Versorgungskasse angehört oder einem Versorgungstarifvertrag unterliegt, der die Nichtzuführung auf Antrag zulässt. Über die Zuführung der im Zeitpunkt des Beitritts vorhandenen Arbeitnehmer sind Einzelheiten in dem Beitrittsvertrag zu regeln. Weigert sich ein zuführungspflichtiger Arbeitnehmer, den Antrag auf Aufnahme zu stellen, so ist der Arbeitgeber verpflichtet, als Abgeltung die Beiträge zu zahlen, die als Arbeitgeberbeiträge zu zahlen wären, wenn der Arbeitnehmer Mitglied der Kasse geworden wäre. Eine Erstattung der Abgeltung ist ausgeschlossen.
 
@@ -104,8 +95,7 @@ b) aus steuerfreiem Einkommen (§ 3 Nr. 63 EStG) erbracht wurden,
 
 c) aus pauschal versteuertem Einkommen (§ 40b EStG) erbracht wurden.
 
-
-## § 6 – Ausscheiden von Arbeitgebern
+# § 6 – Ausscheiden von Arbeitgebern
 
 (1) Das Kuratorium kann einen Arbeitgeber von der Verpflichtung zur Zuführung weiterer Arbeitnehmer befreien, wenn ein wichtiger Grund vorliegt; die Befreiung von der Zuführungspflicht kann zeitlich befristet werden, wenn nicht hinreichend sicher feststeht, dass der wichtige Grund voraussichtlich dauerhaft vorliegt. Bis zur Abwicklung der zu dem Arbeitgeber gehörenden Versicherungsverhältnisse bleibt der Arbeitgeber weiterhin Mitglied der Kasse.
 
@@ -119,8 +109,7 @@ c) aus pauschal versteuertem Einkommen (§ 40b EStG) erbracht wurden.
 
 (6) Kommt ein beteiligter Arbeitgeber seinen satzungsmäßigen Verpflichtungen trotz Mahnung nicht nach, so kann die Mitgliedschaft mit Zustimmung des Kuratoriums fristlos gekündigt werden.
 
-
-## § 6a – Auseinandersetzung mit ausscheidenden Arbeitgebern
+# § 6a – Auseinandersetzung mit ausscheidenden Arbeitgebern
 
 (1) Endet die Mitgliedschaft eines Arbeitgebers gemäß § 6, so findet eine Auseinandersetzung statt; die hierfür erforderlichen versicherungstechnischen Berechnungen werden von dem ständigen versicherungsmathematischen Gutachter der Kasse durchgeführt. Die Kosten der versicherungstechnischen Berechnungen trägt der ausscheidende Arbeitgeber.
 
@@ -140,8 +129,7 @@ b) den Gegenwartswert der zukünftigen Verwaltungskosten, die für die Abwicklun
 
 (4) Steht im Zeitpunkt des Ausscheidens eines Arbeitgebers auf Grund eines gemäß § 57 erstatteten Gutachtens fest, dass die Anwartschaften und Leistungen nicht voll gedeckt sind, so werden die in Absatz 2 erwähnten Beträge im Verhältnis des Fehlbetrages gekürzt; im Falle des Absatzes 3 hat der Arbeitgeber zusätzlich den Barwert des ungedeckten Teils der Anwartschaften und Renten des aus ihr hervorgegangenen Versicherungsbestandes an die Kasse zu zahlen.
 
-
-## § 7 – Versicherungspflicht
+# § 7 – Versicherungspflicht
 
 (1) Der Kasse sind alle Arbeitnehmer zuzuführen, die nicht unter Absatz 2 fallen, sobald die Probezeit abgelaufen ist. Arbeitnehmer, die geringfügig im Sinne von § 8 Abs. 1 SGB IV beschäftigt werden, sowie befristet beschäftigte Arbeitnehmer können der Kasse nach Ablauf der Probezeit zugeführt werden.
 
@@ -157,8 +145,7 @@ c) Arbeitnehmer, die auf Grund eines Tarifvertrages oder sonstiger Bestimmungen 
 
 (4) Arbeitnehmer, die nach Vollendung des 55. Lebensjahres eingestellt werden, können auf Antrag des Arbeitnehmers von der Zuführungspflicht befreit werden.
 
-
-## § 8 – Versicherungsberechtigung
+# § 8 – Versicherungsberechtigung
 
 Der Kasse können außerdem zugeführt werden
 
@@ -170,8 +157,7 @@ c) die Arbeitnehmer der für die beteiligten Arbeitgeber tätigen Verbände.
 
 Soweit Arbeitnehmer der Kasse oder von Verbänden versichert werden, haben die Kasse oder der Verband für diese Versicherungsverhältnisse die Rechte und Pflichten eines beteiligten Arbeitgebers.
 
-
-## § 9 – Ende der ordentlichen Mitgliedschaft
+# § 9 – Ende der ordentlichen Mitgliedschaft
 
 (1) Tritt ein Arbeitnehmer aus dem Dienst eines beteiligten Arbeitgebers in den Dienst eines anderen beteiligten Arbeitgebers über, so bleibt seine ordentliche Mitgliedschaft bestehen. Im Übrigen aber endet die ordentliche Mitgliedschaft mit dem Ausscheiden aus dem Dienst eines beteiligten Arbeitgebers (außer im Falle der Pensionierung) sowie mit dem Ausscheiden des Arbeitgebers aus der Kasse. Die Arbeitnehmer, die ihr Versicherungsverhältnis gemäß § 35 oder § 36 bzw. § 30c oder § 30e Abs. 2 fortsetzen sowie die Rentenempfänger, deren Arbeitgeber aus der Kasse ausgeschieden ist, sind außerordentliche Mitglieder im Sinne dieser Satzung.
 
@@ -181,8 +167,7 @@ Soweit Arbeitnehmer der Kasse oder von Verbänden versichert werden, haben die K
 
 (4) Die ordentliche Mitgliedschaft erlischt außerdem nicht, wenn der Arbeitnehmer auf Grund eines für den beteiligten Arbeitgeber geltenden Tarifvertrages im Sinne des Vorruhestandsgesetzes aus dem Arbeitsverhältnis ausscheidet, solange dem Arbeitnehmer ununterbrochen ein Anspruch auf Vorruhestandsleistungen zusteht; ein Ruhen des Anspruchs bis zu 150 Tagen ist unschädlich.
 
-
-## § 10 – Versicherungsarten
+# § 10 – Versicherungsarten
 
 (1) Die am 31. Dezember 1999 vorhandenen Mitglieder der Abteilung A bleiben in der Abteilung A, die als geschlossener Bestand weitergeführt wird.
 
@@ -192,15 +177,13 @@ Soweit Arbeitnehmer der Kasse oder von Verbänden versichert werden, haben die K
 
 (4) Hat der Arbeitgeber dem Arbeitnehmer Versorgungsansprüche gegen sich selbst eingeräumt, so kann er die Versicherung in Abteilung A bzw. A 2000 bei der Kasse als Rückversicherung durchführen. In diesem Falle hat der Arbeitgeber auch die Arbeitnehmerbeiträge zu entrichten; andererseits werden die Kassenleistungen nicht an den Arbeitnehmer, sondern an den Arbeitgeber gezahlt. Weist der Arbeitnehmer nach, dass der Arbeitgeber sein eigenes Versorgungsversprechen nicht erfüllt, so hat die Kasse die Kassenleistungen an den Arbeitnehmer auszuzahlen.
 
-
-## § 11 – Ärztliche Untersuchung bei der Aufnahme und Risikozuschlag
+# § 11 – Ärztliche Untersuchung bei der Aufnahme und Risikozuschlag
 
 (1) Bei Anmeldung von Arbeitnehmern, für die nach § 8 keine Zuführungspflicht besteht, kann ein von dem Vertrauensarzt des Arbeitgebers oder von einem beamteten Arzt abgegebenes Gutachten über den Gesundheitszustand des Arbeitnehmers gefordert werden und die Annahme von der Zahlung eines Zuschlags zum Beitrag (Risikozuschlag) abhängig gemacht werden. Die Höhe des Risikozuschlags richtet sich im Einzelfall nach dem Ergebnis der Gesundheitsprüfung. Der Risikozuschlag wird bei der Rentenberechnung für den Arbeitnehmer nicht berücksichtigt. Der Risikozuschlag fällt fort oder vermindert sich entsprechend, wenn im Einzelfall nachgewiesen wird, dass durch eine wesentliche Besserung des Gesundheitszustandes die die Gefahr der Dienstunfähigkeit erhöhenden Umstände ganz oder teilweise entfallen sind. Den Risikozuschlag sowie die Kosten für die notwendigen Untersuchungen und Berechnungen haben der Arbeitnehmer und der Arbeitgeber anteilig zu tragen; die Anteile richten sich nach dem für den jeweiligen Arbeitgeber maßgeblichen satzungsmäßigen Verhältnis von Arbeitgeberbeitrag und Arbeitnehmerbeitrag.
 
 (2) Bei Anmeldung von Arbeitnehmern, die das 40. Lebensjahr vollendet haben, zur Abteilung Z 2002 kann die Kasse von den in Absatz 1 genannten Rechten Gebrauch machen. Der beteiligte Arbeitgeber ist verpflichtet, die Kasse in diesen Fällen auf ihr bekannte oder leicht erkennbare besondere Gesundheitsrisiken des angemeldeten Arbeitnehmers hinzuweisen, soweit gesetzliche Datenschutzbestimmungen nicht entgegenstehen; der zur Anmeldung anstehende Arbeitnehmer ist verpflichtet, den Arbeitgeber bezüglich der Meldung von derartigen Gesundheitsrisiken von einer eventuell bestehenden Geheimhaltungspflicht zu befreien; erfolgt diese Befreiung nicht, ist dieser Umstand der Kasse von dem Arbeitgeber mitzuteilen.
 
-
-## § 12 – Voraussetzungen des Rentenanspruchs
+# § 12 – Voraussetzungen des Rentenanspruchs
 
 (1) Die Arbeitnehmer der Abteilung A haben einen Anspruch auf eine Rente
 
@@ -247,13 +230,11 @@ a) infolge eines körperlichen Gebrechens oder wegen Schwäche ihrer körperlich
 
 b) infolge Stilllegung oder Einschränkung des Betriebes ihres Arbeitgebers entlassen werden, obwohl ihr Beschäftigungsverhältnis auf Grund eines Tarifvertrages oder sonstiger vertraglicher Vereinbarung nur aus wichtigem Grund gekündigt werden kann.
 
-In sämtlichen Fällen des Absatzes 1 Buchstabe A gelten die Vorschriften der gesetzlichen Rentenversicherung (SGB VI), die eine vorzeitige Inanspruchnahme der jeweiligen Rente gestatten, sowie die Vorschriften der gesetzlichen Rentenversicherung (SGB VI) über die stufenweise Anhebung der Altersgrenzen entsprechend. Wird von dem Recht zur vorzeitigen Inanspruchnahme einer Rente Gebrauch gemacht, findet die Rentenabschlagsregelung des § 16 Abs. 1a, auch in den Fällen der stufenweisen Anhebung der Altersgrenzen, Anwendung. Ebenso findet die Rentenabschlagsregelung des § 16 Abs. 1a Anwendung, wenn eine Rente nach Satz 1 Buchstabe B b) oder Buchstabe B g) vor Vollendung des 65. Lebensjahres oder eine Rente nach Satz 1 Buchstabe B c) vor Vollendung des 63. Lebensjahres in Anspruch genommen wird.  
-Erhält der Arbeitnehmer aus der gesetzlichen Rentenversicherung eine befristete Rente wegen verminderter Erwerbsfähigkeit (§ 102 Abs. 2 SGB VI), so ist ihm, wenn die übrigen Voraussetzungen nach Satz 1 A g), h) erfüllt sind, eine zeitlich begrenzte Rente für die voraussichtliche Dauer der Erwerbsminderung oder Dienstunfähigkeit zu gewähren, wenn diese bereits sechs Monate dauert und das Mitglied keinen Anspruch auf Lohn- oder Gehaltszahlung, Krankenbezüge oder Krankengeld hat.
+In sämtlichen Fällen des Absatzes 1 Buchstabe A gelten die Vorschriften der gesetzlichen Rentenversicherung (SGB VI), die eine vorzeitige Inanspruchnahme der jeweiligen Rente gestatten, sowie die Vorschriften der gesetzlichen Rentenversicherung (SGB VI) über die stufenweise Anhebung der Altersgrenzen entsprechend. Wird von dem Recht zur vorzeitigen Inanspruchnahme einer Rente Gebrauch gemacht, findet die Rentenabschlagsregelung des § 16 Abs. 1a, auch in den Fällen der stufenweisen Anhebung der Altersgrenzen, Anwendung. Ebenso findet die Rentenabschlagsregelung des § 16 Abs. 1a Anwendung, wenn eine Rente nach Satz 1 Buchstabe B b) oder Buchstabe B g) vor Vollendung des 65. Lebensjahres oder eine Rente nach Satz 1 Buchstabe B c) vor Vollendung des 63. Lebensjahres in Anspruch genommen wird. Erhält der Arbeitnehmer aus der gesetzlichen Rentenversicherung eine befristete Rente wegen verminderter Erwerbsfähigkeit (§ 102 Abs. 2 SGB VI), so ist ihm, wenn die übrigen Voraussetzungen nach Satz 1 A g), h) erfüllt sind, eine zeitlich begrenzte Rente für die voraussichtliche Dauer der Erwerbsminderung oder Dienstunfähigkeit zu gewähren, wenn diese bereits sechs Monate dauert und das Mitglied keinen Anspruch auf Lohn- oder Gehaltszahlung, Krankenbezüge oder Krankengeld hat.
 
 (2) Anspruch auf eine Rente nach Absatz 1 Satz 1 A b) bis g) 1. Alternative und B b) bis e) 1. Alternative sowie B g) besteht bis zur Vollendung des 65. Lebensjahres neben einer Beschäftigung gegen Entgelt oder neben einer Erwerbstätigkeit nur dann, wenn die Hinzuverdienstgrenze der gesetzlichen Rentenversicherung (vgl. § 34 Abs. 3 Nr. 1 SGB VI) nicht überschritten wird. Hierbei werden die Entgelte aus mehreren Beschäftigungen oder Erwerbstätigkeiten sowie die Beschäftigungen oder Erwerbstätigkeiten zusammengerechnet. Die Rente fällt mit Beginn des Monats weg, in dem die Entgelte aus Beschäftigung oder Erwerbstätigkeit bzw. die Beschäftigung oder Erwerbstätigkeit den Umfang gemäß Satz 1 überschreitet. Der Arbeitnehmer ist verpflichtet, die Aufnahme oder Ausübung einer Beschäftigung oder Erwerbstätigkeit, die den nach Satz 1 gestatteten Umfang überschreitet, der Kasse unverzüglich anzuzeigen.
 
-(2a) Auf eine Rente wegen teilweiser Erwerbsminderung (§ 12 Abs. 1 Satz 1 A g) 2. Alternative und h) sowie B e) 2. Alternative und f) wird das für denselben Zeitraum erzielte monatliche Arbeitsentgelt oder Arbeitseinkommen zur Hälfte angerechnet, soweit es den Freibetrag nach Satz 3 überschreitet. Arbeitsentgelte und Arbeitseinkommen aus mehreren Beschäftigungen werden zusammengerechnet. Der Freibetrag beträgt 50 v. H. des monatlichen versicherungsfähigen Einkommens, das der Versicherte im Durchschnitt der letzten sechs Monate vor Eintritt des Rentenfalls verdient hat; der Freibetrag wird nach Eintritt des Rentenfalls jährlich in entsprechender Anwendung der jeweils maßgeblichen Rentenanpassungsverordnung nach § 69 SGB VI (prozentuale Anpassung entsprechend Rentenwert West) angepasst.  
-Für eine Anrechnung auf eine Rente wegen teilweiser Erwerbsminderung stehen dem Arbeitsentgelt oder Arbeitseinkommen gleich der Bezug von
+(2a) Auf eine Rente wegen teilweiser Erwerbsminderung (§ 12 Abs. 1 Satz 1 A g) 2. Alternative und h) sowie B e) 2. Alternative und f) wird das für denselben Zeitraum erzielte monatliche Arbeitsentgelt oder Arbeitseinkommen zur Hälfte angerechnet, soweit es den Freibetrag nach Satz 3 überschreitet. Arbeitsentgelte und Arbeitseinkommen aus mehreren Beschäftigungen werden zusammengerechnet. Der Freibetrag beträgt 50 v. H. des monatlichen versicherungsfähigen Einkommens, das der Versicherte im Durchschnitt der letzten sechs Monate vor Eintritt des Rentenfalls verdient hat; der Freibetrag wird nach Eintritt des Rentenfalls jährlich in entsprechender Anwendung der jeweils maßgeblichen Rentenanpassungsverordnung nach § 69 SGB VI (prozentuale Anpassung entsprechend Rentenwert West) angepasst. Für eine Anrechnung auf eine Rente wegen teilweiser Erwerbsminderung stehen dem Arbeitsentgelt oder Arbeitseinkommen gleich der Bezug von
 
 1. Vorruhestandsgeld,
 
@@ -285,8 +266,7 @@ Bei der Anrechnung ist das der Sozialleistung zugrunde liegende monatliche Arbei
 
 (5) Die Rente kann ganz oder teilweise versagt werden, wenn sich der Arbeitnehmer die Dienstunfähigkeit oder Erwerbsminderung (§§ 43, 240 SGB VI) beim Begehen einer Handlung zugezogen hat, die nach strafgerichtlichem Urteil ein Verbrechen oder vorsätzliches Vergehen ist. Das Gleiche gilt, wenn wegen des Todes, der Abwesenheit oder eines anderen in der Person des Arbeitnehmers liegenden Grundes kein strafgerichtliches Urteil ergeht. Hat der Arbeitnehmer bisher Angehörige überwiegend unterhalten, die nach seinem Tode Anspruch auf eine Hinterbliebenenrente haben würden, so kann der Vorstand nach Anhörung des Arbeitgebers und der Arbeitnehmervertretung diesen die Rente ganz oder teilweise bewilligen.
 
-
-## § 13 – Gehaltszuschuss
+# § 13 – Gehaltszuschuss
 
 (1) Ein Arbeitnehmer, der nach einer Wartezeit von 60 Beitragsmonaten und Vollendung des 60. Lebensjahres infolge eines körperlichen Gebrechens oder wegen Schwäche seiner körperlichen oder geistigen Kräfte zu der Erfüllung seiner zuletzt ausgeübten Dienstverpflichtungen dauernd unfähig geworden ist, zur Dienstleistung in einer anderen Dienststellung aber noch im Stande ist, ist verpflichtet, eine solche anderweitige Tätigkeit bei seinem Betrieb anzunehmen, wenn ihm die Annahme zugemutet werden kann, ihm die Kosten eines etwaigen Umzuges erstattet werden und ihm die Annahme der neuen Tätigkeit ohne unüberwindbare erhebliche wirtschaftliche Schädigungen möglich ist.
 
@@ -296,8 +276,7 @@ Bei der Anrechnung ist das der Sozialleistung zugrunde liegende monatliche Arbei
 
 (4) Auf den Beginn und das Ende sowie auf das Ruhen und die Kürzung des Anspruchs auf Gehaltszuschuss sind die Bestimmungen für die Rente entsprechend anzuwenden. Der Gehaltszuschuss fällt außerdem fort, sobald der Arbeitnehmer wieder seine alte Gehalts- oder Lohngruppe oder den alten Monatstabellenlohn erreicht.
 
-
-## § 14 – Sterbegeld
+# § 14 – Sterbegeld
 
 (1) Stirbt der Arbeitnehmer vor Vollendung der Wartezeit, erhalten seine Angehörigen, sofern kein Anspruch auf eine Hinterbliebenenrente gemäß § 15 Abs. 2 besteht, ein Sterbegeld in Höhe der insgesamt für den Arbeitnehmer entrichteten Beiträge. Der Anspruch auf Sterbegeld steht in erster Linie dem Ehepartner zu. Ist der Arbeitnehmer nicht verheiratet, so bestimmt der Vorstand nach Anhörung des Arbeitgebers und der Arbeitnehmervertretung, an wen das Sterbegeld zu zahlen ist. Dabei soll in erster Linie derjenige berücksichtigt werden, der nachweislich die Beerdigungskosten oder die Kosten der letzten Krankheit getragen hat.
 
@@ -305,8 +284,7 @@ Bei der Anrechnung ist das der Sozialleistung zugrunde liegende monatliche Arbei
 
 (3) Beim Tode eines Rentenempfängers erhalten der überlebende Ehegatte, die leiblichen Abkömmlinge, die von ihm an Kindes statt angenommenen Kinder, die Verwandten der aufsteigenden Linie, seine Geschwister und Geschwisterkinder sowie seine Stiefkinder Sterbegeld, wenn sie zur Zeit des Todes zur häuslichen Gemeinschaft des Rentenempfängers gehört haben. Das Sterbegeld wird in Höhe von zwei Monatsbeträgen der im Sterbemonat zustehenden Rente, höchstens aber in Höhe der gewöhnlichen Bestattungskosten, in einer Summe gezahlt.
 
-
-## § 15 – Anspruchsberechtigte Hinterbliebene
+# § 15 – Anspruchsberechtigte Hinterbliebene
 
 (1) Stirbt der Arbeitnehmer nach Vollendung der Wartezeit, so haben Anspruch auf eine Hinterbliebenenrente
 
@@ -344,8 +322,7 @@ c) ein freiwilliges soziales Jahr nach dem Gesetz zur Förderung eines freiwilli
 
 (6) Für die am 31. Dezember 2005 bestehenden Versicherungsverhältnisse gilt weiterhin Absatz 1 Buchstabe f) in der bis zum 31. Dezember 2005 gültigen Fassung dieses Paragraphen.
 
-
-## § 16 – Höhe der Versichertenrente
+# § 16 – Höhe der Versichertenrente
 
 (1) Die Monatsrente beträgt, vorbehaltlich eines Rentenabschlags nach § 16 Abs. 1a, 1,25 v. H. der Summe der bis zum 31. Dezember 1999 für den Arbeitnehmer insgesamt entrichteten Beiträge und 1,13 v. H. der Summe der ab dem 1. Januar 2000 für den Arbeitnehmer insgesamt entrichteten Beiträge; zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG) stehen Beiträgen gleich, soweit sie nicht zurückgefordert werden. Im Falle einer Rente wegen teilweiser Erwerbsminderung (§§ 43, 240 SGB VI) beträgt die Höhe der Rente 50 v. H. der sich nach Satz 1 ergebenden Rente.
 
@@ -380,8 +357,7 @@ b) 0,03125 v. H. der Summe der zusatzversorgungspflichtigen Entgelte, von denen 
 
 (7) Bestand am 31. Dezember 2000 Anspruch auf eine Rente wegen Berufs- oder Erwerbsunfähigkeit, besteht der jeweilige Anspruch nach Maßgabe der einschlägigen Vorschriften in der am 31. Dezember 2000 geltenden Fassung der PK-Satzung bis zur Vollendung des 65. Lebensjahres weiter, solange die Voraussetzungen vorliegen, die für die Bewilligung der Leistung maßgebend waren. Bei befristeten Renten gilt dies auch für einen Anspruch nach Ablauf der Frist.
 
-(8) Im Falle einer Rente nach § 12 Buchstabe B g) errechnet sich die Rente lediglich aus den für den Arbeitnehmer nach dem 17. Mai 1990 entrichteten Beträgen.  
------
+(8) Im Falle einer Rente nach § 12 Buchstabe B g) errechnet sich die Rente lediglich aus den für den Arbeitnehmer nach dem 17. Mai 1990 entrichteten Beträgen. -----
 
 \*)  
 Übergangsregelungen zu § 16 Abs. 1a:
@@ -390,8 +366,7 @@ b) 0,03125 v. H. der Summe der zusatzversorgungspflichtigen Entgelte, von denen 
 
 2. Für Arbeitnehmer, die (1) vor dem 11. Oktober 1942 geboren worden sind und (2) am 10. Oktober 1997 anerkannt schwerbehindert, berufs- oder erwerbsunfähig waren und (3) bei Rentenbeginn mindestens 300 Beitragsmonate in der Pensionskasse erfüllt haben sowie (4) mindestens 35 Jahre mit rentenrechtlich relevanten Zeiten in der gesetzlichen Rentenversicherung belegt haben, finden die Anhebung der Altersgrenze sowie die Rentenabschlagsregelung des § 16 Abs. 1a keine Anwendung, wenn die anerkannte Schwerbehinderung, Berufs- oder Erwerbsunfähigkeit bei Rentenbeginn vorliegt.
 
-
-## § 16a – Versichertenrente auf Grund des Betriebsrentengesetzes
+# § 16a – Versichertenrente auf Grund des Betriebsrentengesetzes
 
 (1) War ein Rentenberechtigter nach dem 21. Dezember 1974 aber vor dem 1. Januar 2002 und nach Vollendung seines 35. Lebensjahres aus einem Arbeitsverhältnis ausgeschieden, auf Grund dessen er
 
@@ -409,18 +384,15 @@ wird die Versichertenrente, soweit keine freiwillige Weiterversicherung nach § 
 
 (3) Der Rentenanspruch nach Absatz 1 oder 2 besteht, wenn die Voraussetzungen nach § 35 Abs. 3 Buchstaben a) bis c) gegeben sind.
 
-
-## § 16b – Versichertenrente auf Grund des Betriebsrentengesetzes
+# § 16b – Versichertenrente auf Grund des Betriebsrentengesetzes
 
 Scheidet ein Arbeitnehmer nach dem 31. Dezember 2001 und nach Vollendung seines 30. Lebensjahres aus dem Arbeitsverhältnis aus, auf Grund dessen er seit mindestens fünf Jahren ununterbrochen durch denselben Arbeitgeber oder dessen Rechtsvorgänger pflichtversichert gewesen ist, wird die Versichertenrente, soweit keine freiwillige Weiterversicherung nach § 35 beantragt wird, für die Zeit dieses Arbeitsverhältnisses nach § 36 Abs. 2, sofern er Mitglied in der Abteilung A ist, oder nach § 24 Abs. 2, sofern er Mitglied in der Abteilung A 2000 ist, berechnet.
 
-
-## § 17 – Erhöhung laufender Renten durch Kapitaleinzahlung
+# § 17 – Erhöhung laufender Renten durch Kapitaleinzahlung
 
 Die laufenden Renten können jederzeit durch Einzahlung des notwendigen Deckungskapitals um einen unveränderlichen Jahresbetrag erhöht werden. Die Grundsätze für die Berechnung des Deckungskapitals setzt das Kuratorium nach Anhörung eines Sachverständigen fest. Der Beschluss bedarf der Genehmigung durch die Aufsichtsbehörde.
 
-
-## § 18 – Laufzeit der Versichertenrenten
+# § 18 – Laufzeit der Versichertenrenten
 
 (1) Die Rente beginnt mit dem Ersten des Monats, in dem die Anspruchsvoraussetzungen erfüllt sind. Hat der Arbeitnehmer über den nach Satz 1 maßgebenden Zeitpunkt hinaus Anspruch auf Lohn, Gehalt, Krankenbezüge oder Krankengeld, so beginnt die Zahlung erst mit dem Wegfall dieser Bezüge; ein Krankengeld, das durch freiwillige Versicherung erdient ist, führt nicht zur Hinausschiebung des Zahlungsbeginns, sofern nicht wegen des Bezuges dieses Krankengeldes der Anspruch auf Lohn, Gehalt oder Krankenbezüge ruht. Satz 2 gilt nicht, wenn der Arbeitnehmer das 65. Lebensjahr vollendet hat.
 
@@ -448,8 +420,7 @@ b) wenn und solange der Rentner wegen vorsätzlich begangener Straftat zu einer 
 
 c) wenn die dem Rentner aus der gesetzlichen Rentenversicherung bewilligte Rente wegen Fortfalls der Leistungsvoraussetzungen entzogen worden ist, von dem Zeitpunkt, an dem die Rente fortgefallen ist, bis zu dem Zeitpunkt, von dem ab erneut eine Rente aus der gesetzlichen Rentenversicherung bewilligt wird.
 
-
-## § 19 – Höhe der Hinterbliebenenrenten
+# § 19 – Höhe der Hinterbliebenenrenten
 
 (1) Die Witwen- oder Witwerrente beträgt 60 v. H., die Waisenrente einer Vollwaise 20 v. H., die Waisenrente einer Halbwaise 12 v. H. der Versichertenrente, die der Versicherte im Zeitpunkt des Todes erhalten hat oder hätte.
 
@@ -457,8 +428,7 @@ c) wenn die dem Rentner aus der gesetzlichen Rentenversicherung bewilligte Rente
 
 (3) War die Witwe bzw. der Witwer mehr als 20 Jahre jünger als der Versicherte, so wird die Witwen- bzw. Witwerrente für jedes angefangene Jahr des Altersunterschiedes über 20 Jahre um 5 v. H. gekürzt, jedoch höchstens um 50 v. H. Nach fünfjähriger Dauer der Ehe werden für jedes angefangene Jahr ihrer weiteren Dauer dem gekürzten Betrag 5 v. H. der Witwen- bzw. Witwerrente hinzugesetzt, bis der volle Betrag wieder erreicht ist. Die Kürzung entfällt, wenn aus der Ehe ein Kind hervorgegangen ist.
 
-
-## § 20 – Laufzeit der Hinterbliebenenrenten
+# § 20 – Laufzeit der Hinterbliebenenrenten
 
 (1) Die Zahlung der Hinterbliebenenrenten beginnt mit dem auf den Sterbetag folgenden Tag. Wird über diesen Zeitpunkt hinaus Gehalt, Lohn oder Versichertenrente gezahlt, so beginnt die Zahlung der Hinterbliebenenrente erst mit dem Wegfall dieser Bezüge. Waisen, die nach dem Ablauf des Sterbemonats geboren werden, erhalten Waisenrente vom Ersten des Geburtsmonats ab.
 
@@ -466,8 +436,7 @@ c) wenn die dem Rentner aus der gesetzlichen Rentenversicherung bewilligte Rente
 
 1. für jeden Bezugsberechtigten mit Ablauf des Monats, in dem er stirbt,
 
-1a.  
-für jede Witwe bzw. jeden Witwer außerdem mit dem Ende des Monats, in dem sie bzw. er sich verheiratet,
+1a. für jede Witwe bzw. jeden Witwer außerdem mit dem Ende des Monats, in dem sie bzw. er sich verheiratet,
 
 2. für jede Waise außerdem mit Ablauf des Monats, in dem sie das 18. Lebensjahr vollendet; die Waisenrente wird jedoch weitergezahlt, wenn und solange die Waise
 
@@ -485,8 +454,7 @@ c) ein freiwilliges soziales Jahr nach dem Gesetz zur Förderung eines freiwilli
 
 (5) Hat eine Witwe oder ein Witwer wieder geheiratet und wird diese Ehe aufgelöst oder für nichtig erklärt, so lebt der Anspruch auf Witwen- oder Witwerrente auf. Hat die Witwe oder der Witwer eine Abfindung nach Absatz 4 erhalten, so ruht die Zahlung der Witwen- oder Witwerrente bis zum Ablauf von fünf Jahren nach dem Monat der Wiederverheiratung.
 
-
-## § 20a – Abfindung
+# § 20a – Abfindung
 
 (1) Auf gemeinsamen schriftlichen Antrag des Arbeitnehmers und des Arbeitgebers findet die Kasse im Falle der Beendigung des Arbeitsverhältnisses unverfallbare Anwartschaften durch Kapitalabfindung ab, wenn der monatliche Zahlbetrag der aus der Anwartschaft resultierenden Rente bei Erreichen der vorgesehenen Altersgrenze 1 v. H. der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch (SGB IV) \*) nicht übersteigt; die Abfindung ist ausgeschlossen, wenn der versicherte Arbeitnehmer von seinem Recht auf Übertragung der Anwartschaft (§ 37b) Gebrauch gemacht hat.
 
@@ -498,34 +466,28 @@ c) ein freiwilliges soziales Jahr nach dem Gesetz zur Förderung eines freiwilli
 
 (5) Mit der Zahlung der Abfindung an den Arbeitnehmer bzw. Rentenberechtigten erlöschen alle Ansprüche gegen die Kasse aus dem Versicherungsverhältnis.
 
-(6) Auf Renten, die erstmals bereits vor dem 1. Januar 2005 gezahlt worden sind, findet § 20a in seiner bis zum 31. Dezember 2005 geltenden Fassung weiterhin Anwendung.  
------
+(6) Auf Renten, die erstmals bereits vor dem 1. Januar 2005 gezahlt worden sind, findet § 20a in seiner bis zum 31. Dezember 2005 geltenden Fassung weiterhin Anwendung. -----
 
 \*)  
 Im Jahr 2005: 24,15 EUR monatlich (West), 20,30 EUR (Ost).
 
-
-## § 20b – Versorgungsausgleich
+# § 20b – Versorgungsausgleich
 
 Ist durch Entscheidung des Familiengerichts in sinngemäßer Anwendung des § 1587b Abs. 2 BGB eine Anwartschaft in der gesetzlichen Rentenversicherung begründet worden, wird nach Wirksamkeit der Entscheidung des Familiengerichts über den Versorgungsausgleich die Versichertenrente des ausgleichsverpflichteten Ehegatten und seiner Hinterbliebenen gekürzt. Die Einzelheiten der Kürzung ergeben sich aus besonderen Richtlinien zur Durchführung des Versorgungsausgleichs, die das Kuratorium aufzustellen hat. Die Richtlinien und ihre Änderungen bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
 
-
-## § 20c – Verjährungsfrist
+# § 20c – Verjährungsfrist
 
 Der Anspruch auf Rente, der Anspruch auf Gehaltszuschuss sowie der Anspruch auf Sterbegeld verjähren in fünf Jahren. Die Verjährung beginnt mit dem Schluss des Jahres, in welchem die Leistung verlangt werden kann. § 12 Abs. 2 und 3 des Versicherungsvertragsgesetzes gilt entsprechend.
 
-
-## § 20d – Auszubildende
+# § 20d – Auszubildende
 
 Als Arbeitnehmer im Sinne dieser Satzung gelten auch Auszubildende.
 
-
-## § 20e – Änderung der Rentenhöhe wegen Zulagenrückforderung
+# § 20e – Änderung der Rentenhöhe wegen Zulagenrückforderung
 
 Wird nach Bewilligung einer Rente durch die Kasse eine Altersvorsorgezulage (§§ 79 ff. EStG) von der zentralen Stelle zurückgefordert und von der Kasse an die zentrale Stelle abgeführt (§ 94 Abs. 1 EStG), so ist die Kasse berechtigt, die Rente ab dem 1. des Monats, der auf den Monat folgt, in dem die Rückforderung der zentralen Stelle bei der Kasse eingegangen ist, entsprechend niedriger festzusetzen. Die Rente wird in diesem Fall um denjenigen Prozentsatz gekürzt, der dem Verhältnis des zurückerstatteten Zulagenbetrags zu der auf den Stichtag interpolierten versicherungsmathematischen Rückstellung für das betreffende Versicherungsverhältnis entspricht; maßgeblicher Stichtag für die Interpolation ist der 1. des Monats, der auf den Monat folgt, in dem die Rückforderung der zentralen Stelle bei der Kasse eingegangen ist. Erfolgte Rentenüberzahlungen (Differenz zwischen ursprünglicher und wegen Zulagenrückforderung gekürzter Rente) haben der Empfänger oder seine Erben unverzüglich an die Kasse zurückzuerstatten; die Erstattungspflicht entfällt, soweit der Empfänger oder seine Erben nach § 94 Abs. 2 EStG von der zentralen Stelle auf Rückzahlung der Zulage in Anspruch genommen werden und den Rückzahlungsbetrag entrichtet haben.
 
-
-## § 21 – Die Beiträge
+# § 21 – Die Beiträge
 
 (1) Der Arbeitnehmerbeitrag beträgt 2 v. H., der Arbeitgeberbeitrag 5,5 v. H. des jeweils versicherungsfähigen Einkommens des Arbeitnehmers. Hat der Arbeitnehmer einen Anspruch auf eine beamtenähnliche Gesamtversorgung gegen den Arbeitgeber, kann auf Antrag des Arbeitgebers der Arbeitnehmerbeitrag auf 1,5 v. H., der Arbeitgeberbeitrag auf 1 v. H. des versicherungsfähigen Einkommens des Arbeitnehmers herabgesetzt werden. Hat der Arbeitgeber auf Grund eines Tarifvertrages oder sonstiger für ihn verbindlicher Bestimmungen einzelne Arbeitnehmer von der durch ihn zugesicherten beamtenähnlichen Versorgung ausgeschlossen, so kann er trotzdem auch für solche Arbeitnehmer die Beitragsherabsetzung gemäß Satz 2 beantragen, wenn für alle übrigen Arbeitnehmer dieses Arbeitgebers die Beitragsherabsetzung genehmigt worden ist.
 
@@ -551,8 +513,7 @@ d) bei Altersteilzeit das auf volle 5,- Euro auf- oder abgerundete regelmäßige
 
 (4) Binnen drei Monaten nach der Aufnahme kann die Nachversicherung von Zeiten vor der Aufnahme beantragt werden, wenn der Gesundheitszustand des Arbeitnehmers keinen vorzeitigen Eintritt der Dienstunfähigkeit befürchten lässt. Für die nachzuversichernde Zeit sind die Beiträge in der Höhe nachzuentrichten, in der sie zu entrichten gewesen wären, wenn eine Versicherungspflicht bestanden hätte. Zu diesen Beiträgen sind Zins und Zinseszins in Höhe von 5 v. H. jährlich zu zahlen.
 
-
-## § 21a – Altersvorsorgezulage
+# § 21a – Altersvorsorgezulage
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten Altersvorsorgevermögens gelten die für die Durchführungsform der Pensionskasse maßgeblichen gesetzlichen Vorschriften in ihrer jeweils gültigen Fassung.
 
@@ -568,8 +529,7 @@ d) bei Altersteilzeit das auf volle 5,- Euro auf- oder abgerundete regelmäßige
 
 (7) Die Kasse ist nicht verpflichtet, die Arbeitnehmer über die im Einzelfall steuer- und sozialversicherungsrechtlich günstigste Gestaltung ihrer Altersvorsorge zu beraten.
 
-
-## § 22 – Erstattungspflichten der Arbeitgeber
+# § 22 – Erstattungspflichten der Arbeitgeber
 
 (1) Lehnt ein Arbeitgeber die Beschäftigung eines dienstunfähig gewordenen Arbeitnehmers, der jedoch noch nicht teilweise erwerbsgemindert ist, in einer anderen Stellung ab, so ist er verpflichtet, der Kasse 1/5 der fälligen Rente zu erstatten. Die Erstattungspflicht fällt fort, wenn der Arbeitnehmer teilweise oder voll erwerbsgemindert geworden ist oder das 65. Lebensjahr vollendet hat.
 
@@ -577,8 +537,7 @@ d) bei Altersteilzeit das auf volle 5,- Euro auf- oder abgerundete regelmäßige
 
 (3) Soweit die Pensionskasse auf Grund von § 16a Abs. 1 verpflichtet ist, höhere Renten zu gewähren als nach den übrigen Vorschriften der Satzung zustehen würden, ist der beteiligte Arbeitgeber, bei dem der Arbeitnehmer vor Beendigung der ordentlichen Mitgliedschaft zuletzt beschäftigt war, verpflichtet, der Kasse den Rententeil zu ersetzen, der den nach den übrigen Vorschriften der Satzung zustehenden Rententeil übersteigt.
 
-
-## § 23 – Voraussetzungen des Rentenanspruchs
+# § 23 – Voraussetzungen des Rentenanspruchs
 
 (1) Die Arbeitnehmer der Abteilung A 2000 haben einen Anspruch auf Altersrente, sobald sie das 60. Lebensjahr vollendet haben und aus ihrem versicherungspflichtigen Beschäftigungsverhältnis bei dem beteiligten Arbeitgeber ausgeschieden sind. Nimmt der Arbeitnehmer nach dem Beginn der Rente erneut ein Beschäftigungsverhältnis bei einem beteiligten Arbeitgeber auf, das nicht geringfügig im Sinne von § 8 Abs. 1 SGB IV ist, so ruht der Rentenanspruch für die Dauer dieses Beschäftigungsverhältnisses.
 
@@ -614,8 +573,7 @@ b) das aus der gesetzlichen Unfallversicherung geleistet wird, und
 
 Bei der Anrechnung ist das der Sozialleistung zugrunde liegende monatliche Arbeitsentgelt oder Arbeitseinkommen zu berücksichtigen.
 
-
-## § 24 – Höhe der Alters- und Erwerbsminderungsrente des Versicherten
+# § 24 – Höhe der Alters- und Erwerbsminderungsrente des Versicherten
 
 (1) Die Höhe der Monatsrente ergibt sich aus der Summe der bis zum Beginn der Rente für den Arbeitnehmer insgesamt entrichteten Beiträge einerseits und dem für den Zeitpunkt der jeweiligen Beitragseinzahlung maßgeblichen Steigerungsbetrag andererseits; zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG) stehen Beiträgen gleich, soweit sie nicht zurückgefordert werden. Freiwillige Beiträge sind Pflichtbeiträgen gleichgestellt. Die Höhe der Rente ist unabhängig davon, ob der Rentenbezug des Arbeitnehmers unmittelbar an das bei der Kasse versicherungspflichtige Beschäftigungsverhältnis des Arbeitnehmers anschließt oder ob der Arbeitnehmer zwischenzeitlich aus dem versicherungspflichtigen Beschäftigungsverhältnis ausgeschieden war.
 
@@ -685,27 +643,23 @@ Die für ein Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Stei
 
 (6) Auf eine Rente wegen teilweiser oder voller Erwerbsminderung wird das für denselben Zeitraum geleistete Arbeitslosengeld angerechnet; die Anrechnung unterbleibt insoweit, wie das Arbeitslosengeld bereits auf eine gesetzliche Rente wegen teilweiser oder voller Erwerbsminderung angerechnet wird.
 
-
-## § 25 – Laufzeit der Alters- und Erwerbsminderungsrente des Versicherten
+# § 25 – Laufzeit der Alters- und Erwerbsminderungsrente des Versicherten
 
 (1) Die Rente wird auf Antrag von dem Kalendermonat an geleistet, zu dessen Beginn die Anspruchsvoraussetzungen (§ 23) erfüllt sind. Der Arbeitnehmer kann den Beginn der Rente auch für einen späteren Zeitpunkt beantragen.
 
 (2) Für den Fortfall und das Ruhen der Rente gelten § 18 Abs. 2 und 3 entsprechend.
 
-
-## § 26 – Höhe und Laufzeit der Hinterbliebenenrente
+# § 26 – Höhe und Laufzeit der Hinterbliebenenrente
 
 Für Höhe und Laufzeit der Hinterbliebenenrente gelten § 19 und § 20 entsprechend.
 
-
-## § 27 – Sonstige Vorschriften
+# § 27 – Sonstige Vorschriften
 
 (1) § 14 sowie § 20a, § 20b, § 20c, § 20d und § 20e gelten entsprechend.
 
 (2) § 15 gilt entsprechend mit der Abweichung, dass jeweils an die Stelle des 65. Lebensjahres das 60. Lebensjahr tritt und anstelle des Versicherungsfalles nach § 12 der Versicherungsfall nach § 23 tritt.
 
-
-## § 28 – Beiträge
+# § 28 – Beiträge
 
 (1) Im Regelfall beträgt der Arbeitnehmerbeitrag 2 v. H., der Arbeitgeberbeitrag 3,5 v. H. des jeweils versicherungsfähigen Einkommens des Arbeitnehmers (Gesamtbeitrag 5,5 v. H.).
 
@@ -725,8 +679,7 @@ Für Höhe und Laufzeit der Hinterbliebenenrente gelten § 19 und § 20 entsprec
 
 (8) Zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG) stehen Beiträgen gleich, soweit sie nicht zurückgefordert werden.
 
-
-## § 28a – Übertragung externer Übertragungswerte auf die Kasse
+# § 28a – Übertragung externer Übertragungswerte auf die Kasse
 
 (1) Die Vorschriften dieses Paragrafen gelten nur
 
@@ -744,13 +697,11 @@ b) nur für Arbeitnehmer, die nach dem 31. Dezember 2005 durch einen an der Kass
 
 (6) Für die sich aus der Einzahlung nach Absatz 5 ergebende neue Anwartschaft gelten die Regelungen über Entgeltumwandlung entsprechend.
 
-
-## § 28b – Einvernehmliche Übertragung
+# § 28b – Einvernehmliche Übertragung
 
 Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse gemäß § 4 Abs. 2 des Gesetzes zur Verbesserung der betrieblichen Altersversorgung (BetrAVG) ist ausgeschlossen.
 
-
-## § 28c – Altersvorsorgezulage
+# § 28c – Altersvorsorgezulage
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten Altersvorsorgevermögens gelten die für die Durchführungsform der Pensionskasse maßgeblichen gesetzlichen Vorschriften in ihrer jeweils gültigen Fassung.
 
@@ -766,8 +717,7 @@ Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse gemäß 
 
 (7) Die Kasse ist nicht verpflichtet, die Arbeitnehmer über die im Einzelfall steuer- und sozialversicherungsrechtlich günstigste Gestaltung ihrer Altersvorsorge zu beraten.
 
-
-## § 29 – Mitgliedschaft, allgemeine Pflichten
+# § 29 – Mitgliedschaft, allgemeine Pflichten
 
 (1) Der Abteilung Z 2002 können zugeführt werden alle Arbeitnehmer der beteiligten Arbeitgeber, der für die beteiligten Arbeitgeber tätigen Verbände und der Kasse,
 
@@ -793,9 +743,7 @@ b) der Arbeitnehmer aus dem Dienst eines beteiligten Arbeitgebers in den Dienst 
 
 (6) In den Fällen der Absätze 4 und 5 lebt die ordentliche Mitgliedschaft wieder auf, wenn der Arbeitnehmer dies bei der Kasse schriftlich beantragt und für das bei der Antragstellung laufende Kalenderjahr wenigstens den Jahresmindestbeitrag (§ 30 Abs. 1) entrichtet.
 
-(7) Die ordentliche Mitgliedschaft in der Abteilung Z 2002 erlischt ferner, wenn der Arbeitnehmer nach § 29d Versicherungsschutz gegen Erwerbsminderung gewählt hat und die Erwerbsminderung eintritt, bevor der Versicherungsschutz 36 Monate lang bestand und für wenigstens drei Kalenderjahre mit diesem Versicherungsschutz der Mindestbeitrag (§ 30 Abs. 1) gezahlt worden ist.  
-Im Falle teilweiser oder voller Erwerbsminderung kann der Arbeitnehmer in entsprechender Anwendung von § 30c freiwillige Weiterversicherung mit eigenen Beiträgen beantragen; er hat dabei den gewählten Versicherungsschutz (§ 29a) um die Rente wegen Erwerbsminderung mit Wirkung zum Beginn des laufenden Kalenderjahres zu reduzieren. Wird freiwillige Weiterversicherung nicht beantragt, wird das Versicherungsverhältnis beitragsfrei fortgesetzt, sofern wenigstens ein Jahresmindestbeitrag (§ 30 Abs. 1) geleistet wurde. Eine Beitragserstattung und eine spätere freiwillige Weiterversicherung sind ausgeschlossen.  
-Im Falle teilweiser Erwerbsminderung kann der Arbeitnehmer, sofern er im Dienst eines beteiligten Arbeitgebers bleibt, auch beantragen, die ordentliche Mitgliedschaft in der Abteilung Z 2002 fortzusetzen; er hat dabei den gewählten Versicherungsschutz (§ 29a) um die Rente wegen Erwerbsminderung mit Wirkung zum Beginn des laufenden Kalenderjahres zu reduzieren. Wird Fortsetzung der ordentlichen Mitgliedschaft nicht beantragt, wird das Versicherungsverhältnis beitragsfrei fortgesetzt, sofern wenigstens ein Jahresmindestbeitrag (§ 30 Abs. 1) geleistet wurde. Eine Beitragserstattung ist ausgeschlossen.
+(7) Die ordentliche Mitgliedschaft in der Abteilung Z 2002 erlischt ferner, wenn der Arbeitnehmer nach § 29d Versicherungsschutz gegen Erwerbsminderung gewählt hat und die Erwerbsminderung eintritt, bevor der Versicherungsschutz 36 Monate lang bestand und für wenigstens drei Kalenderjahre mit diesem Versicherungsschutz der Mindestbeitrag (§ 30 Abs. 1) gezahlt worden ist. Im Falle teilweiser oder voller Erwerbsminderung kann der Arbeitnehmer in entsprechender Anwendung von § 30c freiwillige Weiterversicherung mit eigenen Beiträgen beantragen; er hat dabei den gewählten Versicherungsschutz (§ 29a) um die Rente wegen Erwerbsminderung mit Wirkung zum Beginn des laufenden Kalenderjahres zu reduzieren. Wird freiwillige Weiterversicherung nicht beantragt, wird das Versicherungsverhältnis beitragsfrei fortgesetzt, sofern wenigstens ein Jahresmindestbeitrag (§ 30 Abs. 1) geleistet wurde. Eine Beitragserstattung und eine spätere freiwillige Weiterversicherung sind ausgeschlossen. Im Falle teilweiser Erwerbsminderung kann der Arbeitnehmer, sofern er im Dienst eines beteiligten Arbeitgebers bleibt, auch beantragen, die ordentliche Mitgliedschaft in der Abteilung Z 2002 fortzusetzen; er hat dabei den gewählten Versicherungsschutz (§ 29a) um die Rente wegen Erwerbsminderung mit Wirkung zum Beginn des laufenden Kalenderjahres zu reduzieren. Wird Fortsetzung der ordentlichen Mitgliedschaft nicht beantragt, wird das Versicherungsverhältnis beitragsfrei fortgesetzt, sofern wenigstens ein Jahresmindestbeitrag (§ 30 Abs. 1) geleistet wurde. Eine Beitragserstattung ist ausgeschlossen.
 
 (8) Die Mitglieder der Abteilung Z 2002, die ihr Versicherungsverhältnis mit eigenen Beiträgen freiwillig fortsetzen (§ 30c) oder deren Versicherungsverhältnis beitragsfrei fortgesetzt wird, sowie die Rentenempfänger, deren Verwaltung aus der Kasse ausgeschieden ist, sind außerordentliche Mitglieder im Sinne dieser Satzung.
 
@@ -805,8 +753,7 @@ Im Falle teilweiser Erwerbsminderung kann der Arbeitnehmer, sofern er im Dienst 
 
 (11) Die Mitglieder der Abteilung Z 2002 und ihre anspruchsberechtigten Hinterbliebenen sind ferner verpflichtet, innerhalb einer von der Kasse zu setzenden Frist auf Anforderung der Kasse Auskünfte zu erteilen und Nachweise sowie Lebensbescheinigungen vorzulegen.
 
-
-## § 29a – Umfang des Versicherungsschutzes, Wahlmöglichkeiten
+# § 29a – Umfang des Versicherungsschutzes, Wahlmöglichkeiten
 
 (1) Die Arbeitnehmer der Abteilung Z 2002 haben Anspruch auf Altersrente nach Maßgabe des § 29b.
 
@@ -820,20 +767,13 @@ Im Falle teilweiser Erwerbsminderung kann der Arbeitnehmer, sofern er im Dienst 
 
 (6) Der Umfang des Versicherungsschutzes nach den Absätzen 1 bis 4 kann während der Laufzeit des Versicherungsverhältnisses durch schriftliche Erklärung gegenüber der Kasse erweitert werden. Eine Reduzierung des Versicherungsumfangs ist ausgeschlossen; § 29 Abs. 7 bleibt unberührt. Eine Änderung des Umfangs des Versicherungsschutzes kann innerhalb eines Kalenderjahres nicht erfolgen; die Änderung wird jeweils mit Beginn des folgenden Kalenderjahres wirksam. Anwartschaften auf den erweiterten Versicherungsschutz entstehen ausschließlich aus Beiträgen, die nach dem Wirksamwerden der Erweiterung geleistet werden. Aus Altersvorsorgezulagen (§§ 79 ff. EStG) entstehen Anwartschaften nach Maßgabe des Versicherungsschutzes, der für das Kalenderjahr ihres Zuflusses an die Kasse gewählt wurde.
 
-
-## § 29b – Altersrente, Voraussetzungen und Höhe, Sterbegeld
+# § 29b – Altersrente, Voraussetzungen und Höhe, Sterbegeld
 
 (1) Die Arbeitnehmer der Abteilung Z 2002 haben Anspruch auf Altersrente, sobald sie das 60. Lebensjahr vollendet haben und, sofern sie die jeweils maßgebliche Regelaltersrentengrenze (§ 35 SGB VI) noch nicht erreicht haben, in keinem Beschäftigungsverhältnis mehr stehen, das nicht geringfügig im Sinne von § 8 Abs. 1 SGB IV ist. Nimmt der Arbeitnehmer nach dem Beginn der Rente und vor Erreichen der jeweils maßgeblichen Regelaltersrentengrenze (§ 35 SGB VI) erneut ein Beschäftigungsverhältnis auf, das nicht geringfügig im Sinne von § 8 Abs. 1 SGB IV ist, so ruht der Rentenanspruch für die Dauer dieses Beschäftigungsverhältnisses. Der Arbeitnehmer ist verpflichtet, die Aufnahme einer solchen Beschäftigung der Kasse unverzüglich anzuzeigen.
 
 (2) Die Höhe der Altersrente ergibt sich aus der Summe der bis zum Beginn der Rente für den Arbeitnehmer insgesamt entrichteten Beiträge einerseits und dem für den Zeitpunkt der jeweiligen Beitragszahlung maßgebenden Steigerungsbetrag (Verrentungsprozentsatz) andererseits. Zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG) stehen Beiträgen gleich, soweit sie nicht zurückgefordert werden.
 
-(3) Der Steigerungsbetrag (Verrentungsprozentsatz) für die entrichteten Beiträge ergibt sich aus den Tabellen 1a/1b, 2, 3a/3b und 4 (Anhang).  
-Tabelle 1a ist auf männliche, Tabelle 1b auf weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz lediglich Altersrente umfasst (§ 29a Abs. 1).  
-Tabelle 2 ist auf männliche und weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz Altersrente und Hinterbliebenenrente umfasst (§ 29a Abs. 2).  
-Tabelle 3a ist auf männliche, Tabelle 3b auf weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz Altersrente und Rente wegen Erwerbsminderung umfasst (§ 29a Abs. 3).  
-Tabelle 4 ist auf männliche und weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz Altersrente, Hinterbliebenenrente und Rente wegen Erwerbsminderung umfasst (§ 29a Abs. 4).  
-Die in einem Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Steigerungsbetrag (Verrentungsprozentsatz) bewertet, der für das Lebensjahr maßgeblich ist, das der Versicherte in diesem Kalenderjahr beginnt; dasselbe gilt für zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden. Maßgeblich ist der Eingang des Beitrags bzw. der Zulage bei der Kasse.  
-Macht ein Arbeitnehmer von der Möglichkeit Gebrauch, den Umfang des Versicherungsschutzes im Laufe des Versicherungsverhältnisses auszuweiten (§ 29a Abs. 6), verbleibt es für die vor dem Wirksamwerden der Änderung liegenden Kalenderjahre bei der Anwendung der bis dahin maßgeblichen Tabelle.
+(3) Der Steigerungsbetrag (Verrentungsprozentsatz) für die entrichteten Beiträge ergibt sich aus den Tabellen 1a/1b, 2, 3a/3b und 4 (Anhang). Tabelle 1a ist auf männliche, Tabelle 1b auf weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz lediglich Altersrente umfasst (§ 29a Abs. 1). Tabelle 2 ist auf männliche und weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz Altersrente und Hinterbliebenenrente umfasst (§ 29a Abs. 2). Tabelle 3a ist auf männliche, Tabelle 3b auf weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz Altersrente und Rente wegen Erwerbsminderung umfasst (§ 29a Abs. 3). Tabelle 4 ist auf männliche und weibliche Arbeitnehmer anzuwenden, deren Versicherungsschutz Altersrente, Hinterbliebenenrente und Rente wegen Erwerbsminderung umfasst (§ 29a Abs. 4). Die in einem Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Steigerungsbetrag (Verrentungsprozentsatz) bewertet, der für das Lebensjahr maßgeblich ist, das der Versicherte in diesem Kalenderjahr beginnt; dasselbe gilt für zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden. Maßgeblich ist der Eingang des Beitrags bzw. der Zulage bei der Kasse. Macht ein Arbeitnehmer von der Möglichkeit Gebrauch, den Umfang des Versicherungsschutzes im Laufe des Versicherungsverhältnisses auszuweiten (§ 29a Abs. 6), verbleibt es für die vor dem Wirksamwerden der Änderung liegenden Kalenderjahre bei der Anwendung der bis dahin maßgeblichen Tabelle.
 
 (4) Für jeden Kalendermonat, in dem die Altersrente nach Vollendung des 60. Lebensjahres und vor Vollendung des 68. Lebensjahres nicht in Anspruch genommen wird, erhöht sich die Rente um einen Zuschlag. Die Höhe dieses Zuschlags hängt ab von den Faktoren
 
@@ -853,8 +793,7 @@ a) mit Ablauf des Monats, in dem der Arbeitnehmer stirbt,
 
 b) mit Ablauf des Monats, in dem dem Berechtigten eine Kapitalabfindung (§ 29f) gezahlt worden ist.
 
-(7) Stirbt der Arbeitnehmer vor Eintritt des Rentenfalls, so erhält diejenige natürliche Person, die die Kosten der Bestattung getragen hat, ein Sterbegeld in Höhe von zwölf Monatsbeträgen der Rente, die dem Arbeitnehmer im Zeitpunkt des Todes zugestanden hätte, höchstens aber in Höhe der gewöhnlichen Bestattungskosten. Stirbt der Arbeitnehmer als Rentner, so beträgt das Sterbegeld nach Satz 1 zwei Monatsbeträge der Rente; hat das Mitglied als Rentner noch nicht für zehn Monate Rente bezogen, so erhöht sich das Sterbegeld auf zwölf Monatsbeträge der Rente abzüglich der bereits bezogenen Rentenbeträge, höchstens jeweils aber in Höhe der gewöhnlichen Bestattungskosten. Das Sterbegeld nach diesem Absatz darf die von der Aufsichtsbehörde festgesetzte Höchstversicherungssumme bei Sterbekassen in ihrer jeweils gültigen Fassung nicht überschreiten.  
-  
+(7) Stirbt der Arbeitnehmer vor Eintritt des Rentenfalls, so erhält diejenige natürliche Person, die die Kosten der Bestattung getragen hat, ein Sterbegeld in Höhe von zwölf Monatsbeträgen der Rente, die dem Arbeitnehmer im Zeitpunkt des Todes zugestanden hätte, höchstens aber in Höhe der gewöhnlichen Bestattungskosten. Stirbt der Arbeitnehmer als Rentner, so beträgt das Sterbegeld nach Satz 1 zwei Monatsbeträge der Rente; hat das Mitglied als Rentner noch nicht für zehn Monate Rente bezogen, so erhöht sich das Sterbegeld auf zwölf Monatsbeträge der Rente abzüglich der bereits bezogenen Rentenbeträge, höchstens jeweils aber in Höhe der gewöhnlichen Bestattungskosten. Das Sterbegeld nach diesem Absatz darf die von der Aufsichtsbehörde festgesetzte Höchstversicherungssumme bei Sterbekassen in ihrer jeweils gültigen Fassung nicht überschreiten.   
 
 Anhänge zu § 29b Abs. 3, 4 und 4a Steigerungsbeträge für den Tarif Z 2002 gemäß § 29b Abs. 3 (Verrentungsprozentsätze)
 
@@ -1885,8 +1824,7 @@ M. + F. (Tab. 4)
 
 93,37%
 
-
-## § 29c – Hinterbliebenenrente
+# § 29c – Hinterbliebenenrente
 
 (1) Die in Absatz 2 aufgezählten Hinterbliebenen der Arbeitnehmer der Abteilung Z 2002 haben Anspruch auf Hinterbliebenenrente nach Maßgabe dieses Paragrafen, soweit der Arbeitnehmer einen entsprechenden Umfang des Versicherungsschutzes gewählt hat (§ 29a Abs. 2 und 4), dieser Versicherungsschutz mindestens 36 Monate bestanden hat und für wenigstens drei Kalenderjahre mit diesem Versicherungsschutz der Mindestbeitrag (§ 30 Abs. 1) gezahlt worden ist.
 
@@ -1972,8 +1910,7 @@ d) mit Ablauf des Monats, in dem dem Berechtigten eine Kapitalabfindung (§ 29f)
 
 (11) Fällt eine Witwen- oder Witwerrente durch Heirat fort, so erhält die Witwe oder der Witwer eine Abfindung in Höhe des fünffachen Jahresbetrages der ihnen zustehenden Rente; Anspruch auf die Abfindung besteht nicht, wenn die Heirat erfolgt, nachdem die Witwe oder der Witwer das 75. Lebensjahr vollendet hat.
 
-
-## § 29d – Rente wegen teilweiser oder voller Erwerbsminderung
+# § 29d – Rente wegen teilweiser oder voller Erwerbsminderung
 
 (1) Arbeitnehmer der Abteilung Z 2002 haben vor Vollendung des 60. Lebensjahres Anspruch auf Rente wegen teilweiser oder voller Erwerbsminderung nach Maßgabe dieses Paragrafen, soweit sie einen entsprechenden Umfang des Versicherungsschutzes gewählt haben (§ 29a Abs. 3 und 4), dieser Versicherungsschutz mindestens 36 Monate bestanden hat und für wenigstens drei Kalenderjahre mit diesem Versicherungsschutz der Mindestbeitrag (§ 30 Abs. 1) gezahlt worden ist.
 
@@ -2015,10 +1952,7 @@ Bei der Anrechnung ist das der Sozialleistung zugrunde liegende monatliche Arbei
 
 (8) Die Höhe der monatlichen Erwerbsminderungsrente ergibt sich aus der Summe der bis zum Beginn der Rente für den Arbeitnehmer entrichteten Beiträge und dem für den Zeitpunkt der jeweiligen Beitragseinzahlung maßgeblichen Steigerungsbetrag (Verrentungsprozentsatz) andererseits. Für die Rentenhöhe werden die entrichteten Beiträge und zugeflossenen Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden, nur insoweit berücksichtigt, als ihre Zahlung unter Einschluss der Rente wegen Erwerbsminderung erfolgt ist (§ 29a Abs. 3 und 4).
 
-(9) Der Steigerungsbetrag (Verrentungsprozentsatz) richtet sich nach Tabelle 3a/3b oder Tabelle 4 (Anhang).  
-Tabelle 3a bzw. 3b findet Anwendung, soweit der Versicherungsschutz Altersrente und Rente wegen Erwerbsminderung umfasst.  
-Tabelle 4 findet Anwendung, soweit der Versicherungsschutz Altersrente, Hinterbliebenenversorgung und Rente wegen Erwerbsminderung umfasst.  
-Die in einem Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Steigerungsbetrag bewertet, der für das Lebensjahr maßgeblich ist, das der Versicherte in diesem Kalenderjahr beginnt; dasselbe gilt für zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden. Maßgeblich ist der Eingang des Beitrags bzw. der Zulage bei der Kasse.
+(9) Der Steigerungsbetrag (Verrentungsprozentsatz) richtet sich nach Tabelle 3a/3b oder Tabelle 4 (Anhang). Tabelle 3a bzw. 3b findet Anwendung, soweit der Versicherungsschutz Altersrente und Rente wegen Erwerbsminderung umfasst. Tabelle 4 findet Anwendung, soweit der Versicherungsschutz Altersrente, Hinterbliebenenversorgung und Rente wegen Erwerbsminderung umfasst. Die in einem Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Steigerungsbetrag bewertet, der für das Lebensjahr maßgeblich ist, das der Versicherte in diesem Kalenderjahr beginnt; dasselbe gilt für zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden. Maßgeblich ist der Eingang des Beitrags bzw. der Zulage bei der Kasse.
 
 (10) Im Falle einer Rente wegen teilweiser Erwerbsminderung beträgt die Höhe der Rente 50 v. H. der sich nach Absatz 8 und 9 ergebenden Rente.
 
@@ -2042,15 +1976,13 @@ e) mit Ablauf des Monats, in dem dem Berechtigten eine Kapitalabfindung gezahlt 
 
 (15) Wird der Arbeitnehmer vor Ablauf der Wartezeit nach Absatz 1 (36 Monate und drei Jahresmindestbeiträge) teilweise oder voll erwerbsgemindert und besteht deshalb kein Rentenanspruch nach diesem Paragrafen, so gilt § 29 Abs. 7.
 
-
-## § 29e – Anpassung der Verrentungstabellen
+# § 29e – Anpassung der Verrentungstabellen
 
 (1) Die für die Verrentung der Beiträge in der Abteilung Z 2002 maßgeblichen Tabellen 1a, 1b, 2, 3a, 3b und 4 (Anhang) sowie die Tabelle für Zuschläge wegen späteren Rentenbeginns gemäß § 29b Abs. 4 werden von der Kasse in regelmäßigen Abständen von zwölf Jahren an die veränderten versicherungsmathematischen Gegebenheiten (z. B. neue Sterbetafeln usw.) angepasst; die Anpassung der Tabellen erfolgt erstmals mit Wirkung für Beiträge, die ab dem 1. Januar 2014 geleistet werden. Die Inkraftsetzung der neuen Tabellen bedarf der Genehmigung der Aufsichtsbehörde.
 
 (2) Wird auf Grund einer Gesetzesänderung oder auf Grund höchstrichterlicher Rechtsprechung ein nach dem Geschlecht des Versicherten differenzierter Tarif für rechtlich unzulässig erklärt, ist die Kasse mit Genehmigung der Aufsichtsbehörde berechtigt, den für unzulässig erklärten Tarif durch einen für beide Geschlechter gültigen Einheitstarif zu ersetzen; soweit das Gesetz oder die Rechtsprechung Rückwirkung entfaltet, ist dieser genehmigte Einheitstarif auch rückwirkend anwendbar. Für bereits laufende Rentenverhältnisse bleibt es aus Vertrauensschutzgesichtspunkten bei der bewilligten Rentenhöhe.
 
-
-## § 29f – Abfindung
+# § 29f – Abfindung
 
 (1) Auf gemeinsamen schriftlichen Antrag des Arbeitnehmers und des Arbeitgebers findet die Kasse im Falle der Beendigung des Arbeitsverhältnisses unverfallbare Anwartschaften durch Kapitalabfindung ab, wenn der monatliche Zahlbetrag der aus der Anwartschaft resultierenden Rente bei Erreichen der vorgesehenen Altersgrenze 1 v. H. der monatlichen Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch (SGB IV) \*) nicht übersteigt; die Abfindung ist ausgeschlossen, wenn der versicherte Arbeitnehmer von seinem Recht auf Übertragung der Anwartschaft (§ 37b) Gebrauch gemacht hat.
 
@@ -2062,29 +1994,24 @@ e) mit Ablauf des Monats, in dem dem Berechtigten eine Kapitalabfindung gezahlt 
 
 (5) Mit der Zahlung der Abfindung an den Arbeitnehmer bzw. Rentenberechtigten erlöschen alle Ansprüche gegen die Kasse aus dem Versicherungsverhältnis.
 
-(6) Auf Renten, die erstmals bereits vor dem 1. Januar 2005 gezahlt worden sind, findet § 20a in seiner bis zum 31. Dezember 2005 geltenden Fassung weiterhin Anwendung.  
------
+(6) Auf Renten, die erstmals bereits vor dem 1. Januar 2005 gezahlt worden sind, findet § 20a in seiner bis zum 31. Dezember 2005 geltenden Fassung weiterhin Anwendung. -----
 
 \*)  
 Im Jahr 2005: 24,15 EUR monatlich (West), 20,30 EUR (Ost).
 
-
-## § 29g – Versorgungsausgleich
+# § 29g – Versorgungsausgleich
 
 Ist durch Entscheidung des Familiengerichts in sinngemäßer Anwendung des § 1587b Abs. 2 BGB eine Anwartschaft in der gesetzlichen Rentenversicherung begründet worden, wird nach Wirksamkeit der Entscheidung des Familiengerichts über den Versorgungsausgleich die Rente des ausgleichsverpflichteten Ehegatten und seiner Hinterbliebenen gekürzt. Die Einzelheiten der Kürzung ergeben sich aus besonderen Richtlinien zur Durchführung des Versorgungsausgleichs, die das Kuratorium aufzustellen hat. Die Richtlinien und ihre Änderungen bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
 
-
-## § 29h – Änderung der Rentenhöhe wegen Zulagenrückforderung
+# § 29h – Änderung der Rentenhöhe wegen Zulagenrückforderung
 
 Wird nach Bewilligung einer Rente durch die Kasse eine Altersvorsorgezulage (§§ 79 ff. EStG) von der zentralen Stelle zurückgefordert und von der Kasse an die zentrale Stelle abgeführt (§ 94 Abs. 1 EStG), so ist die Kasse berechtigt, die Rente ab dem 1. des Monats, der auf den Monat folgt, in dem die Rückforderung der zentralen Stelle bei der Kasse eingegangen ist, entsprechend niedriger festzusetzen. Die Rente wird in diesem Fall um denjenigen Prozentsatz gekürzt, der dem Verhältnis des zurückerstatteten Zulagenbetrags zu der auf den Stichtag interpolierten versicherungsmathematischen Rückstellung für das betreffende Versicherungsverhältnis entspricht; maßgeblicher Stichtag für die Interpolation ist der 1. des Monats, der auf den Monat folgt, in dem die Rückforderung der zentralen Stelle bei der Kasse eingegangen ist. Erfolgte Rentenüberzahlungen (Differenz zwischen ursprünglicher und wegen Zulagenrückforderung gekürzter Rente) haben der Empfänger oder seine Erben unverzüglich an die Kasse zurückzuerstatten; die Erstattungspflicht entfällt, soweit der Empfänger oder seine Erben nach § 94 Abs. 2 EStG von der zentralen Stelle auf Rückzahlung der Zulage in Anspruch genommen werden und den Rückzahlungsbetrag entrichtet haben.
 
-
-## § 29i – Verjährungsfrist
+# § 29i – Verjährungsfrist
 
 Der Anspruch auf Rente sowie der Anspruch auf Sterbegeld verjähren in fünf Jahren. Die Verjährung beginnt mit dem Schluss des Jahres, in welchem die Leistung verlangt werden kann. § 12 Abs. 2 und 3 des Versicherungsvertragsgesetzes gilt entsprechend.
 
-
-## § 30 – Mindest- und Höchstbeitrag, Beitragsleistung und Beitragsmeldung
+# § 30 – Mindest- und Höchstbeitrag, Beitragsleistung und Beitragsmeldung
 
 (1) Der kalenderjährliche Mindestbeitrag in der Abteilung Z 2002 beträgt ein Hundertsechzigstel (1/160) der Bezugsgröße nach § 18 Abs. 1 SGB IV. +) Wird der kalenderjährliche Mindestbeitrag nicht geleistet, gilt § 29 Abs. 5 und 6.
 
@@ -2100,8 +2027,7 @@ b) sich außerhalb dieser Satzung in sonstiger Weise zugunsten des Arbeitnehmers
 
 (5) Nach Bewilligung einer Rente durch die Kasse ist eine Beitragszahlung für das Kalenderjahr, in dem die Rente bewilligt wird, und für die folgenden Kalenderjahre nicht mehr möglich. § 29 Abs. 7 bleibt unberührt.
 
-(6) Die beteiligten Arbeitgeber sind verpflichtet, für jeden bei ihnen in einem Kalenderjahr beschäftigten Arbeitnehmer der Abteilung Z 2002 bis spätestens zum 15. Februar des Folgejahres in der von der Kasse vorgeschriebenen Form die Meldung nach § 5 Abs. 5 abzugeben.  
------  
+(6) Die beteiligten Arbeitgeber sind verpflichtet, für jeden bei ihnen in einem Kalenderjahr beschäftigten Arbeitnehmer der Abteilung Z 2002 bis spätestens zum 15. Februar des Folgejahres in der von der Kasse vorgeschriebenen Form die Meldung nach § 5 Abs. 5 abzugeben. -----  
 Erläuterungen zu § 30 Abs. 1 und Abs. 2:
 
 +)  
@@ -2112,8 +2038,7 @@ Im Jahr 2005: 4.992 Euro jährlich.
 
 Beide Werte gelten einheitlich für die alten und die neuen Bundesländer.
 
-
-## § 30a – Rechte bei Entgeltumwandlung
+# § 30a – Rechte bei Entgeltumwandlung
 
 (1) Soweit die Beiträge zur Abteilung Z 2002 im Wege der Entgeltumwandlung erbracht worden sind,
 
@@ -2131,8 +2056,7 @@ d) wird dem aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschi
 
 (4) Die Kasse ist verpflichtet, auf Verlangen des Arbeitnehmers nach Beendigung seines Arbeitsverhältnisses bei dem beteiligten Arbeitgeber den Barwert der nach § 1b Abs. 5 BetrAVG unverfallbaren Anwartschaft auf einen neuen Arbeitgeber des Arbeitnehmers oder einen Versorgungsträger des neuen Arbeitgebers zu übertragen, wenn der neue Arbeitgeber dem Arbeitnehmer eine dem entsprechenden Barwert wertmäßig entsprechende Zusage erteilt. Für die Höhe des Barwerts gilt § 3 Abs. 2 BetrAVG entsprechend mit der Maßgabe, dass an die Stelle des Zeitpunktes der Beendigung des Arbeitsverhältnisses der Zeitpunkt der Übertragung tritt. Mit der Erteilung der Zusage durch den neuen Arbeitgeber erlischt die Verpflichtung des alten Arbeitgebers; mit der Übertragung des Barwerts erlöschen die Verpflichtungen der Kasse gegenüber dem Arbeitnehmer. Entstehen der Kasse bei der Berechnung des Barwerts Aufwendungen, hat der Arbeitnehmer diese zu erstatten.
 
-
-## § 30b – Rechte bei sonstigen Beiträgen
+# § 30b – Rechte bei sonstigen Beiträgen
 
 Soweit die Beiträge zur Abteilung Z 2002 nicht im Wege der Entgeltumwandlung erbracht worden sind,
 
@@ -2144,8 +2068,7 @@ c) wird dem aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschi
 
 Stellt der aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschiedene Arbeitnehmer weder einen Antrag auf Beitragserstattung noch einen Antrag auf freiwillige Weiterversicherung, wird das Versicherungsverhältnis mit den vom Arbeitnehmer an die Kasse geleisteten sonstigen Beiträgen beitragsfrei fortgesetzt. Dasselbe gilt für die von einem Dritten an die Kasse geleisteten sonstigen Beiträge, sofern der Dritte keinen Antrag auf Beitragserstattung stellt.
 
-
-## § 30c – Freiwillige Weiterversicherung
+# § 30c – Freiwillige Weiterversicherung
 
 (1) Soweit dem aus dem Arbeitsverhältnis bei einem beteiligten Arbeitgeber ausgeschiedenen Arbeitnehmer das Recht zur freiwilligen Weiterversicherung in der Abteilung Z 2002 mit eigenen Beiträgen eingeräumt ist (§ 30a Abs. 1 Buchstabe d und § 30b Buchstabe c), kann es sich freiwillig weiterversichern.
 
@@ -2159,8 +2082,7 @@ Stellt der aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschie
 
 (6) Endet die freiwillige Weiterversicherung durch Kündigung, so bleiben die Anwartschaften des Arbeitnehmers aus dem Versicherungsverhältnis der Abteilung Z 2002 in dem zur Zeit des Wirksamwerdens der Kündigung erreichten Umfang bestehen (beitragsfreie Versicherung). Eine Beitragsrückerstattung ist ausgeschlossen. Eine erneute freiwillige Weiterversicherung ist ebenfalls ausgeschlossen.
 
-
-## § 30d – Beitragserstattung
+# § 30d – Beitragserstattung
 
 (1) Scheidet ein Arbeitnehmer der Abteilung Z 2002 vor Erreichen der Unverfallbarkeit seiner Anwartschaft aus sonstigen Beiträgen (§ 30b) aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber aus, kann derjenige, der die Beiträge an die Kasse geleistet hat, unverzinste Erstattung der Beiträge beantragen, sofern die Kasse noch keine Renten- oder sonstigen Leistungen erbracht hat.
 
@@ -2174,8 +2096,7 @@ Stellt der aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschie
 
 (6) Mit der Beitragserstattung erlöschen die auf die erstatteten Beiträge entfallenden Anwartschaften.
 
-
-## § 30e – Verfahren beim Ausscheiden
+# § 30e – Verfahren beim Ausscheiden
 
 (1) Scheidet ein Arbeitnehmer der Abteilung Z 2002 aus dem Dienst eines beteiligten Arbeitgebers aus und liegen nicht die Voraussetzungen des § 29 Abs. 3 Satz 2 vor, so wird er von der Kasse über die sich aus den §§ 30a bis 30d ergebenden Rechte schriftlich informiert und darauf hingewiesen, dass die Ausübung der Rechte auf freiwillige Weiterversicherung oder Beitragserstattung einen schriftlichen Antrag voraussetzt. Zugleich wird er auf die Dreimonatsfrist des § 30c Abs. 2 und des § 30d Abs. 2 hingewiesen.
 
@@ -2183,8 +2104,7 @@ Stellt der aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschie
 
 (3) Soweit gemäß § 30b Buchstabe b die Erstattung von sonstigen Beiträgen, die nicht der Arbeitnehmer an die Kasse geleistet hat, in Betracht kommt, wird derjenige, der die Beiträge an die Kasse geleistet hat, von der Kasse über die sich aus § 30b Buchstabe b und § 30d ergebenden Rechte schriftlich informiert und darauf hingewiesen, dass die Ausübung der Rechte einen schriftlichen Antrag voraussetzt. Zugleich wird er auf die Dreimonatsfrist des § 30d Abs. 2 hingewiesen. Stellt der Berechtigte binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (Absatz 1) bei der Kasse keinen Antrag auf Beitragserstattung, so bleiben die Anwartschaften des Arbeitnehmers aus dem Versicherungsverhältnis der Abteilung Z 2002 in dem zur Zeit des Fristablaufs erreichten Umfang auch insoweit bestehen (beitragsfreie Versicherung), sofern nicht der Arbeitnehmer freiwillige Weiterversicherung mit eigenen Beiträgen (§ 30c) beantragt. Eine Beitragsrückerstattung ist ausgeschlossen.
 
-
-## § 30f – Altersvorsorgezulage
+# § 30f – Altersvorsorgezulage
 
 (1) Bezüglich der staatlichen Förderung eines kapitalgedeckten Altersvorsorgevermögens gelten die für die Durchführungsform der Pensionskasse maßgeblichen gesetzlichen Vorschriften in ihrer jeweils gültigen Fassung.
 
@@ -2200,8 +2120,7 @@ Stellt der aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschie
 
 (7) Die Kasse ist nicht verpflichtet, die Arbeitnehmer über die im Einzelfall steuer- und sozialversicherungsrechtlich günstigste Gestaltung ihrer Altersvorsorge zu beraten.
 
-
-## § 30g – Auskunftsanspruch des Arbeitnehmers
+# § 30g – Auskunftsanspruch des Arbeitnehmers
 
 (1) Die Kasse hat einem versicherten Arbeitnehmer bei einem berechtigten Interesse auf dessen Verlangen schriftlich mitzuteilen,
 
@@ -2211,13 +2130,11 @@ Stellt der aus dem Arbeitsverhältnis bei dem beteiligten Arbeitgeber ausgeschie
 
 (2) Die Kasse hat einem versicherten Arbeitnehmer auf dessen Verlangen schriftlich mitzuteilen, in welcher Höhe aus einem Übertragungswert, dessen Übertragung auf die Kasse der Arbeitnehmer gemäß § 4 Abs. 3 des Gesetzes zur Verbesserung der betrieblichen Altersversorgung (BetrAVG) von einem früheren Arbeitgeber oder dessen Versorgungsträger verlangen kann, bei der Kasse ein Anspruch auf Altersversorgung und ob eine Invaliditäts- oder Hinterbliebenenversorgung bestehen würde. Der Auskunftsanspruch entfällt, wenn die Beendigung des Arbeitsverhältnisses bei dem ehemaligen Arbeitgeber mehr als ein Jahr zurückliegt.
 
-
-## § 30h – Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
+# § 30h – Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
 
 Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein Entgelt erhält, hat er das Recht, die Versicherung mit eigenen Beiträgen fortzusetzen; der Antrag auf freiwillige Weiterversicherung muss binnen drei Monaten nach Beginn des Ruhens des Arbeitsverhältnisses bei der Kasse gestellt werden; § 30c Abs. 3 bis 6 gilt entsprechend. Der Arbeitgeber steht auch für die Leistungen aus diesen Beiträgen ein. Die Regelungen über Entgeltumwandlung gelten für diese Beiträge entsprechend.
 
-
-## § 30i – Anspruch auf Anwartschaftsübertragung
+# § 30i – Anspruch auf Anwartschaftsübertragung
 
 (1) Die Vorschriften dieses Paragrafen gelten nur für unverfallbare Altersversorgungszusagen, die nach dem 31. Dezember 2004 erteilt wurden.
 
@@ -2233,13 +2150,11 @@ Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein Entgelt erhä
 
 (7) Eine weitergehende einvernehmliche Übertragung von Übertragungswerten von der Kasse auf einen anderen Versorgungsträger gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen.
 
-
-## § 30j – Einvernehmliche Übertragung
+# § 30j – Einvernehmliche Übertragung
 
 Eine einvernehmliche Übertragung von Übertragungswerten auf die Kasse gemäß § 4 Abs. 2 des Gesetzes zur Verbesserung der betrieblichen Altersversorgung (BetrAVG) ist ausgeschlossen.
 
-
-## § 30k – Übertragung externer Übertragungswerte auf die Kasse
+# § 30k – Übertragung externer Übertragungswerte auf die Kasse
 
 (1) Die Vorschriften dieses Paragrafen gelten nur
 
@@ -2255,8 +2170,7 @@ b) nur für Arbeitnehmer, die nach dem 31. Dezember 2005 durch einen an der Kass
 
 (5) Für die sich aus der Einzahlung nach Absatz 4 ergebende neue Anwartschaft gelten die Regelungen über die Entgeltumwandlung entsprechend.
 
-
-## § 31 – Allgemeiner Grundsatz
+# § 31 – Allgemeiner Grundsatz
 
 (1) Die am 31. Dezember 1967 bestehenden Versicherungsverhältnisse der Abteilung B werden gemäß den am 31. Dezember 1967 gültigen Versicherungsbedingungen abgewickelt, soweit sie nicht mit Wirkung vom 1. Januar 1968 in die Abteilung A übergeleitet werden.
 
@@ -2264,8 +2178,7 @@ b) nur für Arbeitnehmer, die nach dem 31. Dezember 2005 durch einen an der Kass
 
 (3) Die am 31. Dezember 1975 laufenden Renten werden in gleicher Höhe weitergezahlt. Für die Gewährung und Berechnung von Hinterbliebenenrenten aus den übergeleiteten Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
-
-## § 32 – Überleitungsbestimmungen und Versicherungsbedingungen der Abteilung C
+# § 32 – Überleitungsbestimmungen und Versicherungsbedingungen der Abteilung C
 
 (1) Die Arbeitnehmer der alten Abteilung D, die erst nach dem 30. Juni 1948 aufgenommen worden sind, sowie die Arbeitnehmer der alten Abteilungen A, B und C werden, soweit sich aus den Absätzen 2 und 3 nichts anderes ergibt, mit Wirkung vom 1. Oktober 1958, wenn sie sozialversicherungspflichtig sind, in die neue Abteilung A, sonst in die neue Abteilung B übergeführt. Die bisherige Mitgliedszeit wird in der neuen Abteilung voll angerechnet. Für Arbeitnehmer der alten Abteilung B bleibt der Kündigungsschutz des § 19 Abs. 1 der alten Satzung, für die Arbeitnehmer der alten Abteilung D der Kündigungsschutz des Artikels 9 Abs. 2 der Anlage zu § 33 dieser Satzung auch nach der Überleitung bestehen.
 
@@ -2285,15 +2198,13 @@ c) der Arbeitnehmer bei Aufnahme in die alte Abteilung C das 45. Lebensjahr bere
 
 (6) Die am 31. Dezember 1975 laufenden Renten werden in gleicher Höhe weitergezahlt. Soweit nach den bisherigen Versicherungsbedingungen Rentenanteile aus der gesetzlichen Rentenversicherung auf die Kassenleistungen angerechnet werden mussten, wird die Rente ab 1. Januar 1976 in der Weise neu berechnet, dass von der satzungsmäßigen Bruttorente der erstmalig angerechnete Rentenanteil aus der gesetzlichen Rentenversicherung abgezogen und der Rest als neue Bruttorente gewährt wird. Für die Gewährung und Berechnung von Hinterbliebenenrenten aus den übergeleiteten Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
-
-## § 33 – Versicherungsbedingungen der Abteilungen G und H
+# § 33 – Versicherungsbedingungen der Abteilungen G und H
 
 (1) Die von der Werkspensionskasse der Essener Verkehrs-AG übernommenen Versicherungsverhältnisse werden in der Abteilung G abgewickelt. Für diese Versicherungsverhältnisse gelten die in der Anlage XIV festgesetzten Versicherungsbedingungen. Die Anlage ist Bestandteil dieser Satzung.
 
 (2) Die von der Ruhegeldkasse der Köln-Bonner Eisenbahnen AG übernommenen Versicherungsverhältnisse werden in der Abteilung H abgewickelt. Für diese Versicherungsverhältnisse gelten die in der Anlage XV festgesetzten Versicherungsbedingungen. Die Anlage ist Bestandteil dieser Satzung.
 
-
-## § 34 – Anzeige-, Abtretungs- und Auskunftspflichten
+# § 34 – Anzeige-, Abtretungs- und Auskunftspflichten
 
 (1) Die Versicherten (§ 2b Abs. 2) und ihre anspruchsberechtigten Hinterbliebenen haben die Einnahmen und sonstigen Umstände, die auf die Höhe ihrer Kassenleistungen Einfluss haben, der Kasse unverzüglich mitzuteilen. Kommen sie dieser Verpflichtung nicht nach oder geben sie ihr Einkommen vorsätzlich oder grob fahrlässig zu niedrig an, so können ihnen die Kassenleistungen ganz oder teilweise auf Zeit oder Dauer entzogen werden.
 
@@ -2301,8 +2212,7 @@ c) der Arbeitnehmer bei Aufnahme in die alte Abteilung C das 45. Lebensjahr bere
 
 (3) Die Versicherten und ihre anspruchsberechtigten Hinterbliebenen sind ferner verpflichtet, innerhalb einer von der Kasse zu setzenden Frist auf Anforderung der Kasse Auskünfte zu erteilen und Nachweise sowie Lebensbescheinigungen vorzulegen sowie unaufgefordert jede Verlegung ihres Wohnsitzes unverzüglich mitzuteilen.
 
-
-## § 34a – Auskunftsanspruch des Arbeitnehmers
+# § 34a – Auskunftsanspruch des Arbeitnehmers
 
 (1) Die Kasse hat einem versicherten Arbeitnehmer bei einem berechtigten Interesse auf dessen Verlangen schriftlich mitzuteilen,
 
@@ -2312,13 +2222,11 @@ c) der Arbeitnehmer bei Aufnahme in die alte Abteilung C das 45. Lebensjahr bere
 
 (2) Die Kasse hat einem versicherten Arbeitnehmer auf dessen Verlangen schriftlich mitzuteilen, in welcher Höhe aus einem Übertragungswert, dessen Übertragung auf die Kasse der Arbeitnehmer gemäß § 4 Abs. 3 des Gesetzes zur Verbesserung der betrieblichen Altersversorgung (BetrAVG) von einem früheren Arbeitgeber oder dessen Versorgungsträger verlangen kann, bei der Kasse ein Anspruch auf Altersversorgung und ob eine Invaliditäts- oder Hinterbliebenenversorgung bestehen würde. Der Auskunftsanspruch entfällt, wenn die Beendigung des Arbeitsverhältnisses bei dem ehemaligen Arbeitgeber mehr als ein Jahr zurückliegt.
 
-
-## § 34b – Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
+# § 34b – Freiwillige Weiterversicherung bei ruhendem Arbeitsverhältnis
 
 Falls der Arbeitnehmer bei fortbestehendem Arbeitsverhältnis kein Entgelt erhält, hat er das Recht, die Versicherung mit eigenen Beiträgen fortzusetzen; der Antrag auf freiwillige Weiterversicherung muss binnen drei Monaten nach Beginn des Ruhens des Arbeitsverhältnisses bei der Kasse gestellt werden; § 35 Abs. 1 Satz 2 bis 5 gilt entsprechend. Der Arbeitgeber steht auch für die Leistungen aus diesen Beiträgen ein.
 
-
-## § 35 – Freiwillige Weiterversicherung
+# § 35 – Freiwillige Weiterversicherung
 
 (1) Scheiden Versicherte der Abteilungen A und A 2000 aus der ordentlichen Mitgliedschaft aus, so können sie sich freiwillig weiterversichern. In diesem Fall haben sie außer ihrem Arbeitnehmerbeitrag auch den Arbeitgeberbeitrag zu übernehmen und Beiträge in der Höhe zu entrichten, in der sie im letzten Monat der ordentlichen Mitgliedschaft entrichtet wurden; Altersvorsorgezulagen (§§ 79 ff. EStG) stehen Beiträgen nicht gleich. Versicherte, für die wegen des Bestehens einer beamtenähnlichen Gesamtversorgung herabgesetzte Beiträge gemäß § 21 Abs. 1 Satz 2 gezahlt wurden, können sich auch mit einem Beitragssatz von insgesamt 7,5 v. H. (in Abteilung A 2000 insgesamt 5,5 v. H.) freiwillig weiterversichern. Maßgebend ist das versicherungsfähige Einkommen, von dem im letzten Monat der ordentlichen Mitgliedschaft Beiträge entrichtet wurden. Spätere Änderungen des Beitragssatzes sind entsprechend zu berücksichtigen. Der Antrag auf freiwillige Weiterversicherung muss binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (§ 37a Abs. 1) bei der Kasse eingegangen sein.
 
@@ -2342,11 +2250,9 @@ d) wenn sie eine Beitragszeit von 35 Jahren und das 63. Lebensjahr bzw. wenn der
 
 (5) Für freiwillig Versicherte in der Abteilung A 2000 besteht ein Rentenanspruch unter den Voraussetzungen des § 23. In Abteilung A 2000 errechnet sich die Rente der freiwillig Versicherten nach § 24.
 
+# § 36 – Beitragsfreie Versicherung
 
-## § 36 – Beitragsfreie Versicherung
-
-(1) Versicherte der Abteilung A können bei ihrem Ausscheiden aus der ordentlichen Mitgliedschaft anstelle der freiwilligen Weiterversicherung binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (§ 37a Abs. 1) eine beitragsfreie Versicherung beantragen, sofern sie die Voraussetzungen des § 16b oder die Wartezeit von 60 Beitragsmonaten bei ihrem Ausscheiden bereits erfüllt haben. Die Wartezeit von 60 Beitragsmonaten kann auch durch freiwillige Weiterversicherung erfüllt werden.  
-Versicherte der Abteilung A 2000, die nicht die Voraussetzungen des § 16b erfüllen, können bei ihrem Ausscheiden aus der ordentlichen Mitgliedschaft statt der freiwilligen Weiterversicherung binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (§ 37a Abs. 1) eine beitragsfreie Versicherung beantragen.
+(1) Versicherte der Abteilung A können bei ihrem Ausscheiden aus der ordentlichen Mitgliedschaft anstelle der freiwilligen Weiterversicherung binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (§ 37a Abs. 1) eine beitragsfreie Versicherung beantragen, sofern sie die Voraussetzungen des § 16b oder die Wartezeit von 60 Beitragsmonaten bei ihrem Ausscheiden bereits erfüllt haben. Die Wartezeit von 60 Beitragsmonaten kann auch durch freiwillige Weiterversicherung erfüllt werden. Versicherte der Abteilung A 2000, die nicht die Voraussetzungen des § 16b erfüllen, können bei ihrem Ausscheiden aus der ordentlichen Mitgliedschaft statt der freiwilligen Weiterversicherung binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (§ 37a Abs. 1) eine beitragsfreie Versicherung beantragen.
 
 (2) In der Abteilung A errechnet sich die Jahresrente der beitragsfrei Versicherten aus Steigerungsbeiträgen. Die für ein Kalenderjahr entrichteten Beiträge werden einheitlich mit dem Steigerungsbetrag bewertet, der für das Lebensjahr maßgeblich ist, das der Versicherte in diesem Kalenderjahr beginnt; dasselbe gilt für zugeflossene Altersvorsorgezulagen (§§ 79 ff. EStG), soweit sie nicht zurückgefordert werden; maßgeblich ist das Kalenderjahr des Eingangs der Zulage bei der Kasse. Die Monatsrente dieser Versicherten ergibt sich getrennt für die Ansprüche auf Grund von Beiträgen bis zum 31. Dezember 1999 und für die Ansprüche auf Grund von Beiträgen ab dem 1. Januar 2000. Für den Zeitpunkt der Beitragsfreistellung wird der Barwert der zum 31. Dezember 1999 erreichten Anwartschaften und die Deckungsrückstellung unter Berücksichtigung der geleisteten und erwarteten Beiträge ab dem 1. Januar 2000 errechnet. Beide Teilbeträge werden einschließlich der entsprechenden erreichten Leistungserhöhungen auf Grund der Überschussbeteiligung der folgenden Tabelle in Rentenansprüche umgerechnet:  
   
@@ -2657,8 +2563,7 @@ In diesen Fällen wird die Rente gemäß § 16 berechnet.
 
 (6) Der Versicherte kann die beitragsfreie Versicherung jederzeit kündigen. Endet die beitragsfreie Versicherung durch Kündigung, so erfolgt Beitragserstattung nach § 37.
 
-
-## § 37 – Beitragserstattung
+# § 37 – Beitragserstattung
 
 (1) Macht ein aus der ordentlichen Mitgliedschaft ausgeschiedener Versicherter von dem Recht der freiwilligen Weiterversicherung oder der beitragsfreien Versicherung keinen Gebrauch, so werden auf Antrag die Arbeitnehmerbeiträge und die Arbeitgeberbeiträge unverzinst zurückgezahlt. Hierbei werden von den Arbeitnehmer- und Arbeitgeberbeiträgen je die Hälfte der für eine freiwillige Weiterversicherung oder eine Nachversicherung des Versicherten in der gesetzlichen Rentenversicherung aufgewendeten Beträge oder die auf die Kassenbeiträge angerechneten Sozialversicherungsbeiträge in Abzug gebracht.
 
@@ -2680,15 +2585,13 @@ In diesen Fällen wird die Rente gemäß § 16 berechnet.
 
 (9) Mit dem Vollzug der Beitragserstattung erlöschen bezüglich der erstatteten Beiträge sämtliche Rechte und Pflichten aus dem Versicherungsverhältnis.
 
-
-## § 37a – Verfahren beim Ausscheiden
+# § 37a – Verfahren beim Ausscheiden
 
 (1) Scheidet ein Versicherter aus dem Dienst eines beteiligten Arbeitgebers aus, so wird es von der Kasse über die sich aus den §§ 35 bis 37 ergebenden Rechte schriftlich informiert und darauf hingewiesen, dass die Ausübung der Rechte einen Antrag voraussetzt. Ferner ist der Versicherte schriftlich darauf hinzuweisen, dass im Fall einer Beitragserstattung eine schädliche Verwendung (§ 93 EStG) vorliegen kann, wenn die Beiträge als Altersvorsorgevermögen gefördert wurden und dass deshalb die Altersvorsorgezulagen gemäß § 37 Abs. 1a von der Kasse an die zentrale Stelle zurückgezahlt werden. Zugleich wird es auf die Dreimonatsfrist des § 35 Abs. 1 Satz 6 und des § 36 Abs. 1 Satz 1 bzw. Satz 3 hingewiesen.
 
 (2) Stellt der aus dem Dienst eines beteiligten Arbeitgebers ausgeschiedene Versicherte binnen drei Monaten nach dem Zugang des Informationsschreibens der Kasse (Absatz 1) bei der Kasse weder einen Antrag auf freiwillige Weiterversicherung noch einen Antrag auf beitragsfreie Versicherung noch einen Antrag auf Beitragserstattung, so wird das Versicherungsverhältnis als beitragsfreie Versicherung nach § 36 geführt; bei einem ausgeschiedenen Versicherten der Abteilung A, der die Voraussetzungen des § 16b oder die Wartezeit von 60 Beitragsmonaten nicht erfüllt hat und für dessen Beiträge die Kasse keine Altersvorsorgezulagen erhalten hat, erfolgt in diesem Fall Beitragserstattung nach § 37.
 
-
-## § 37b – Anspruch auf Anwartschaftsübertragung
+# § 37b – Anspruch auf Anwartschaftsübertragung
 
 (1) Die Vorschriften dieses Paragrafen gelten nur für unverfallbare Altersversorgungszusagen, die nach dem 31. Dezember 2004 erteilt wurden.
 
@@ -2702,14 +2605,12 @@ In diesen Fällen wird die Rente gemäß § 16 berechnet.
 
 (6) Der Arbeitnehmer ist in dem Informationsschreiben der Kasse nach § 37a auch auf seine Rechte nach diesem Paragrafen und auf die Einjahresfrist hinzuweisen.
 
-(7) Eine weitergehende einvernehmliche Übertragung von Übertragungswerten von der Kasse auf einen anderen Versorgungsträger gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen.  
------
+(7) Eine weitergehende einvernehmliche Übertragung von Übertragungswerten von der Kasse auf einen anderen Versorgungsträger gemäß § 4 Abs. 2 BetrAVG ist ausgeschlossen. -----
 
 \*)  
 Im Jahr 2005: 62.400 EUR.
 
-
-## § 38 – Organe
+# § 38 – Organe
 
 Die Organe der Pensionskasse sind
 
@@ -2721,8 +2622,7 @@ Die Organe der Pensionskasse sind
 
 4. der Vorstand.
 
-
-## § 39 – Zusammensetzung und Wahl
+# § 39 – Zusammensetzung und Wahl
 
 (1) Die Arbeitnehmer und die Empfänger von Versichertenrente (nicht die Empfänger von Hinterbliebenenrente) jedes Arbeitgebers wählen einen Arbeitnehmerausschuss, der aus drei Vertretern besteht, für die drei Ersatzpersonen zu wählen sind. Auf die Wahl kann verzichtet werden, wenn weniger als 20 Arbeitnehmer bei einem beteiligten Arbeitgeber vorhanden sind. In dem Arbeitnehmerausschuss sollen Arbeitnehmer aller Abteilungen und auch ein Rentenempfänger vertreten sein. Bei Arbeitgebern mit getrennten Bahnbetrieben kann für jede Bahn ein Arbeitnehmerausschuss gebildet werden. Sind bei einem Arbeitgeber mehr als 150 Arbeitnehmer und Rentenempfänger vorhanden, so erhöht sich die Zahl der Vertreter und Ersatzpersonen auf je 5. Sind weniger als 25 vorhanden, so wird nur eine Obperson und eine Ersatzperson gewählt. Arbeitnehmer, deren Versicherungsverhältnisse als Rückversicherungsverhältnisse geführt werden, sind nicht berechtigt, an der Wahl zur Arbeitnehmervertretung teilzunehmen.
 
@@ -2734,13 +2634,11 @@ Die Organe der Pensionskasse sind
 
 (4) Ein Amt in der Arbeitnehmervertretung erlischt durch das Ausscheiden aus dem Dienst des Arbeitgebers. Der Eintritt eines Arbeitnehmers in den Ruhestand berührt seine Mitgliedschaft in der Arbeitnehmervertretung nicht. Kann die Arbeitnehmervertretung durch Ersatzpersonen nicht mehr ergänzt werden, so ist eine Neuwahl durchzuführen.
 
-
-## § 40 – Aufgaben
+# § 40 – Aufgaben
 
 Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen vertretenen Arbeitnehmer und ihrer Hinterbliebenen gegenüber der Kasse wahrzunehmen. Die Arbeitnehmervertretungen haben außerdem die Pflicht, bei Wahrnehmung der örtlichen Geschäfte der Kasse durch die Arbeitgeber beratend oder begutachtend mitzuwirken, wenn die Satzung es bestimmt oder der Arbeitgeber oder die Kasse es fordern. Sie sollen außerdem die von ihnen vertretenen Arbeitnehmer und deren Hinterbliebene in Pensionskassenangelegenheiten beraten.
 
-
-## § 41 – Geschäftsordnung
+# § 41 – Geschäftsordnung
 
 (1) Der Vorsitzende oder dessen Stellvertreter berufen den Arbeitnehmerausschuss nach Bedarf ein. Der Vorsitzende kann eine schriftliche Abstimmung herbeiführen.
 
@@ -2750,8 +2648,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (4) Im Falle des Ausscheidens sowie bei Verhinderung eines Vertreters treten die Ersatzpersonen in der Reihenfolge der bei der Wahl erhaltenen Stimmen, bei Stimmengleichheit nach der Entscheidung durch das Los, ein.
 
-
-## § 42 – Zusammensetzung und Wahl
+# § 42 – Zusammensetzung und Wahl
 
 (1) Die Hauptversammlung ist das oberste Organ der Kasse. Sie besteht aus Vertretern der Arbeitgeber und der Arbeitnehmer.
 
@@ -2761,8 +2658,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (4) Die Arbeitgeber sind verpflichtet, die Namen der Arbeitgeber- und Arbeitnehmervertreter spätestens zwei Wochen vor der Hauptversammlung dem Vorstand anzuzeigen und die etwa erforderlichen Vollmachten einzureichen. Nicht rechtzeitig gemeldete Vertreter können von der Hauptversammlung ausgeschlossen werden.
 
-
-## § 43 – Aufgaben
+# § 43 – Aufgaben
 
 (1) Der Hauptversammlung ist vorbehalten
 
@@ -2784,8 +2680,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (4) Satzungsänderungen bedürfen zu ihrer Wirksamkeit der Genehmigung der Aufsichtsbehörde.
 
-
-## § 44 – Geschäftsordnung
+# § 44 – Geschäftsordnung
 
 (1) Der Vorstand beruft die Hauptversammlung mittels besonderen Anschreibens an die Arbeitgeber und die Arbeitnehmervertretungen unter Mitteilung der Tagesordnung mit einer Einberufungsfrist von einem Monat ein.
 
@@ -2793,15 +2688,13 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (3) Die Tagesordnung wird vom Vorstand festgesetzt. Die Hauptversammlung kann eine Änderung der Tagesordnung beschließen. Anträge für die Hauptversammlung müssen spätestens zwei Monate vor der Hauptversammlung an den Vorstand gerichtet werden. Die Hauptversammlung kann aus wichtigem Grund weitere Anträge zur Verhandlung zulassen.
 
-
-## § 45 – Leitung
+# § 45 – Leitung
 
 (1) Der Vorsitzende des Kuratoriums oder dessen Stellvertreter oder ein anderes Mitglied des Kuratoriums leitet die Hauptversammlung.
 
 (2) Über die Versammlung ist eine Niederschrift anzufertigen, die von dem Leiter der Hauptversammlung und einem Kuratoriumsmitglied zu unterzeichnen ist.
 
-
-## § 46 – Stimmrecht
+# § 46 – Stimmrecht
 
 (1) Das Stimmrecht der Arbeitnehmervertreter richtet sich nach der Zahl der von ihnen vertretenen Arbeitnehmer und Rentenempfänger; hierbei werden die Rückversicherungsverhältnisse mitgezählt. Entfällt bei einem Arbeitgeber die Wahl einer Arbeitnehmervertretung, weil sämtliche Versicherungsverhältnisse dieses Arbeitgebers als Rückversicherungsverhältnisse geführt werden, so wird dem Stimmrecht der ordentlichen Arbeitnehmervertretungen die Zahl der Rückversicherungsverhältnisse dieses Arbeitgebers anteilig zugerechnet.
 
@@ -2813,8 +2706,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (4) Die Hauptversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmengleichheit gilt als Ablehnung. Satzungsänderungen können nur bei einer Mehrheit von 2/3 der abgegebenen Stimmen, die Auflösung der Kasse nur mit einer Mehrheit von 3/4 aller vorhandenen Stimmen beschlossen werden.
 
-
-## § 47 – Zusammensetzung und Wahl
+# § 47 – Zusammensetzung und Wahl
 
 (1) Das Kuratorium besteht aus 14 Mitgliedern, davon werden 7 von den beteiligten Arbeitgebern und 7 von den Arbeitnehmern in der ordentlichen Hauptversammlung gewählt. Im gleichen Wahlgang werden je 7 Ersatzpersonen gewählt. In der Reihenfolge der auf sie entfallenden Stimmen gelten die ersten 7 als Kuratoriumsmitglieder, die nächsten 7 als Ersatzpersonen gewählt. Notfalls entscheidet das Los.
 
@@ -2832,8 +2724,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (8) Scheidet während der Wahlzeit der Vorsitzende oder sein Stellvertreter aus, hat das Kuratorium unverzüglich gemäß Absatz 7 den Nachfolger zu wählen.
 
-
-## § 48 – Aufgaben
+# § 48 – Aufgaben
 
 (1) Das Kuratorium hat den Vorstand in allen Zweigen der Verwaltung zu überwachen und sich von dem Gang der Angelegenheiten der Kasse laufend zu unterrichten. Es kann jederzeit Berichterstattung von dem Vorstand verlangen und durch den Vorsitzenden oder einzelne von ihm zu bestimmende Mitglieder die Bücher, Akten und Rechnungen der Kasse einsehen und den Kassenstand prüfen.
 
@@ -2863,8 +2754,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (4) Satzungsänderungen sind durch Rundschreiben der Kasse an alle beteiligten Arbeitgeber und Arbeitnehmervertretungen bekannt zu machen.
 
-
-## § 49 – Geschäftsordnung
+# § 49 – Geschäftsordnung
 
 (1) Die Sitzungen des Kuratoriums werden einberufen, wenn dieses vom Vorsitzenden für erforderlich gehalten oder von mindestens vier Mitgliedern beantragt wird. In jedem Kalenderjahr hat mindestens eine Kuratoriumssitzung stattzufinden. Der Vorsitzende kann nach seinem Ermessen in Einzelfällen die Beschlussfassung auf schriftlichem Wege herbeiführen, soweit kein Widerspruch erfolgt.
 
@@ -2876,8 +2766,7 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (5) Über jede Sitzung ist eine Niederschrift anzufertigen.
 
-
-## § 50 – Zusammensetzung und Wahl
+# § 50 – Zusammensetzung und Wahl
 
 (1) Das Kuratorium bestellt die Mitglieder des Vorstandes.
 
@@ -2887,39 +2776,33 @@ Die Arbeitnehmervertretungen haben die Aufgabe, die Interessen der von ihnen ver
 
 (4) Scheidet der Vorsitzende oder sein Stellvertreter während der Wahlzeit aus dem Vorstand aus, hat das Kuratorium unverzüglich gemäß Absatz 2 den Nachfolger zu wählen.
 
-
-## § 51 – Aufgaben
+# § 51 – Aufgaben
 
 (1) Der Vorstand führt die Verwaltung der Kasse nach den Vorschriften dieser Satzung unter eigener Verantwortung. Er vertritt die Kasse gerichtlich und außergerichtlich und führt seinen Ausweis durch eine Bescheinigung der Aufsichtsbehörde. Alle Erklärungen sind für die Kasse verbindlich, wenn sie von zwei Vorstandsmitgliedern schriftlich abgegeben werden.
 
 (2) Der Vorstand kann mit Genehmigung des Kuratoriums Angestellten der Kasse Vertretungsvollmacht in der Weise erteilen, dass sie gemeinschaftlich mit einem Vorstandsmitglied verpflichtende Erklärungen für die Kasse abgeben können.
 
-
-## § 52 – Auskunfts- und Prüfungsrecht
+# § 52 – Auskunfts- und Prüfungsrecht
 
 Der Vorstand ist berechtigt, von den Arbeitgebern alle für seine Entscheidungen erforderlichen Auskünfte zu verlangen, ferner die Erfüllung der den Arbeitgebern satzungsgemäß obliegenden Verpflichtungen an Ort und Stelle nachzuprüfen und zu diesem Zweck auch Einsicht in alle in Betracht kommenden Unterlagen zu nehmen. Er kann mit der Nachprüfung auch Angestellte der Kasse beauftragen.
 
-
-## § 53 – Wahlordnung
+# § 53 – Wahlordnung
 
 Die Einzelheiten der Wahl zu den Kassenorganen regelt das Kuratorium.
 
-
-## § 54 – Aufwandsentschädigungen
+# § 54 – Aufwandsentschädigungen
 
 (1) Die Ämter der Kuratoriumsmitglieder, der Arbeitnehmervertretungen sowie der Vertreter in der Hauptversammlung sind unbesoldete Ehrenämter.
 
 (2) Die Mitglieder des Kuratoriums werden für ihren Aufwand bei der Teilnahme an den Sitzungen nach den von der Hauptversammlung bestimmten Sätzen entschädigt. Der Vorsitzende des Kuratoriums und dessen Stellvertreter erhalten außerdem für die Wahrnehmung der laufenden Geschäfte eine Aufwandsentschädigung. Den Vertretern der Arbeitnehmer zu der Hauptversammlung sind Tagegelder und, soweit sie nicht freie Fahrt haben, Reisekosten von ihren Arbeitgebern nach den bei ihnen geltenden Bestimmungen zu gewähren.
 
-
-## § 55 – Rechnungsführung
+# § 55 – Rechnungsführung
 
 (1) Die Kasse weist die Einnahmen und Ausgaben der Abteilungen A, A 2000 und Z 2002 nach Maßgabe der geltenden Bestimmungen gesondert aus.
 
 (2) Die Kasse kann Versicherungsbestände, die sie gemäß § 3 Abs. 2 übernimmt, in besonderen Abteilungen zusammenfassen; in diesem Fall sind die Einnahmen und Ausgaben der Abteilung gesondert auszuweisen.
 
-
-## § 55a – Rücklage
+# § 55a – Rücklage
 
 (1) Die Kasse hat zur Deckung eines außergewöhnlichen Verlustes aus dem Geschäftsbetrieb eine Rücklage (Verlustrücklage) gemäß § 37 Versicherungsaufsichtsgesetz zu bilden.
 
@@ -2929,15 +2812,13 @@ a) zum 31. Dezember 2004 auf 2 v. H. der Deckungsrückstellung,
 
 b) ab dem 31. Dezember 2007 auf mindestens 4,5 v. H. der Deckungsrückstellung.
 
-
-## § 56 – Vermögensanlage
+# § 56 – Vermögensanlage
 
 (1) Das nicht zur Bestreitung der laufenden Ausgaben benötigte Vermögen ist nach Maßgabe der gesetzlichen Vorschriften (§ 54 des Versicherungsaufsichtsgesetzes in Verbindung mit der Verordnung über die Anlage des gebundenen Vermögens von Versicherungsunternehmen) anzulegen.
 
 (2) Im Falle der Übernahme des Vermögens einer anderen Pensionskasse oder Versorgungseinrichtung kann die Kasse dieses Vermögen als Sondervermögen des übernommenen Versicherungsbestandes abwickeln.
 
-
-## § 57 – Versicherungstechnische Prüfung
+# § 57 – Versicherungstechnische Prüfung
 
 (1) Die Kasse hat alle drei Jahre, auf Verlangen der Aufsichtsbehörde auch zu anderen Zeitpunkten, durch einen versicherungsmathematischen Sachverständigen im Rahmen eines der Aufsichtsbehörde einzureichenden Gutachtens eine versicherungstechnische Prüfung der Vermögenslage der Kasse vorzunehmen und in den gemäß § 58 zu erstellenden Jahresabschluss die hierfür ermittelten versicherungstechnischen Werte zu übernehmen.
 
@@ -2947,8 +2828,7 @@ b) ab dem 31. Dezember 2007 auf mindestens 4,5 v. H. der Deckungsrückstellung.
 
 (4) Ein sich aus dem Gutachten nach Absatz 1 etwa ergebender Fehlbetrag ist, soweit er nicht aus der Verlustrücklage (§ 55a) gedeckt werden kann, aus der Rückstellung der Beitragsrückerstattung zu decken und, soweit auch diese nicht ausreicht, durch Herabsetzung der Leistungen oder durch Erhöhung der Beiträge oder durch beide Maßnahmen zugleich auszugleichen. Eine Entnahme aus der Rückstellung für Beitragsrückerstattung bedarf der Zustimmung der Aufsichtsbehörde. Eine Herabsetzung der Leistungen oder eine Erhöhung der Beiträge bedarf der Genehmigung der Aufsichtsbehörde. Alle Maßnahmen haben auch Wirkung für bestehende Versicherungsverhältnisse, die Herabsetzung der Leistungen auch für laufende Renten. Die Erhebung von Nachschüssen ist ausgeschlossen.
 
-
-## § 58 – Jahresabschluss
+# § 58 – Jahresabschluss
 
 (1) Das Rechnungsjahr der Kasse ist das Kalenderjahr.
 
@@ -2956,27 +2836,23 @@ b) ab dem 31. Dezember 2007 auf mindestens 4,5 v. H. der Deckungsrückstellung.
 
 (3) Der Jahresabschluss der Kasse ist vor seiner Vorlage an das Kuratorium durch einen Wirtschaftsprüfer zu prüfen. Der Prüfer wird vom Kuratorium bestimmt; der vom Kuratorium bestimmte Prüfer ist der Aufsichtsbehörde unverzüglich anzuzeigen; wird von der Aufsichtsbehörde binnen eines Monats nach Eingang der Prüferanzeige keine gegenteilige Äußerung abgegeben, wird der Prüfungsauftrag erteilt.
 
-
-## § 59 – Leistungsverfahren
+# § 59 – Leistungsverfahren
 
 (1) Die Kasse ist berechtigt, vor der Entscheidung über Leistungsanträge weitere Erhebungen anzustellen, vor allem auch Obergutachten einzuholen.
 
 (2) Ein abgelehnter oder zurückgezogener Antrag auf Rente oder Gehaltszuschuss darf erst nach Ablauf eines Jahres seit der Ablehnung oder Zurückziehung wiederholt werden, falls nicht inzwischen außergewöhnliche Umstände eingetreten sind, welche die dauernde Dienst- oder Arbeitsunfähigkeit des Arbeitnehmers erweisen.
 
-
-## § 60 – Beitragsverfahren
+# § 60 – Beitragsverfahren
 
 (1) Die Arbeitnehmerbeiträge sind bei der Gehalts- oder Lohnzahlung vom Arbeitgeber einzubehalten. Für jeden angefangenen Monat der Mitgliedschaft sind volle Monatsbeiträge zu zahlen. Von dem zuletzt versicherten Einkommen sind die Beiträge auch während der Dauer einer Krankheit des Arbeitnehmers weiterzuzahlen, solange gesetzliche oder tarifrechtliche Krankenbezüge oder Krankengeld gewährt werden. Jedoch können die Beiträge während einer Krankheit des Arbeitnehmers, sofern die Krankenbezüge oder Krankengeld nach den gesetzlichen oder tariflichen Bestimmungen gekürzt werden, ebenfalls entsprechend gekürzt werden.
 
 (2) Die freiwilligen Mitglieder haben ihre Beiträge monatlich bis spätestens zum 10. Tage einzuzahlen. Bei verspäteter Zahlung sind Verzugszinsen zu entrichten.
 
-
-## § 61 – Erfüllungsort und Gerichtsstand
+# § 61 – Erfüllungsort und Gerichtsstand
 
 Erfüllungsort und Gerichtsstand für alle Beitrags- und Erstattungsforderungen sowie für alle Kassenleistungen ist Köln.
 
-
-## § 62 – Auszahlung der Kassenleistungen
+# § 62 – Auszahlung der Kassenleistungen
 
 (1) Die Kassenleistungen werden grundsätzlich durch die Kasse selbst an die empfangsberechtigten Personen gezahlt. Die Renten werden monatlich im Voraus gezahlt. Werden Kassenleistungen für einen Teil eines Monats gezahlt, ist für jeden Kalendertag 1/30 der monatlichen Leistung zu zahlen. Werden die Kassenleistungen erst nach dem Tag der Fälligkeit gezahlt, besteht kein Anspruch auf Verzugszinsen.
 
@@ -2990,29 +2866,25 @@ Erfüllungsort und Gerichtsstand für alle Beitrags- und Erstattungsforderungen 
 
 (6) Werden Rentenberechtigte durch satzungsgemäße Änderung ihrer Bezüge mit rückwirkender Kraft schlechter gestellt, so sind die Unterschiedsbeträge nicht zu erstatten. Im Übrigen regelt sich die Rückforderung zu viel gezahlter laufender Kassenleistungen nach den Vorschriften des Bürgerlichen Gesetzbuches über die Herausgabe einer ungerechtfertigten Bereicherung, soweit gesetzlich nichts anderes bestimmt ist. Der verschärften Haftung nach § 819 BGB wegen Kenntnis des Mangels des rechtlichen Grundes der Zahlung steht es gleich, wenn der Mangel so offensichtlich war, dass der Empfänger ihn hätte erkennen müssen. Von der Rückforderung kann aus Billigkeitsgründen ganz oder teilweise abgesehen werden.
 
-
-## § 63 – Abrechnungsverfahren
+# § 63 – Abrechnungsverfahren
 
 (1) Das Abrechnungsverfahren regelt der Vorstand der Kasse. Die Abrechnungssalden sind unverzüglich auszugleichen; bei Verzug sind Verzugszinsen von 6 v. H. zu entrichten.
 
 (2) Auf die Abrechnung sind auf Antrag des Abrechnungsgläubigers von dem Abrechnungsschuldner monatliche Vorschüsse in ungefährer Höhe des Abrechnungssaldos zu zahlen.
 
-
-## § 64 – Berufung oder Klage
+# § 64 – Berufung oder Klage
 
 (1) Entscheidungen der Kasse, durch die ein klagbarer Anspruch anerkannt oder abgelehnt wird, müssen schriftlich unter Angabe der mit dem Ablauf der Ausschlussfrist eintretenden Rechtsfolge abgefasst und dem Antragsteller gegen Empfangsbescheinigung zugestellt werden.
 
 (2) Gegen diese Entscheidungen ist die Berufung an das Kuratorium zulässig. Die Berufung ist binnen einer Ausschlussfrist von sechs Monaten seit der Zustellung der Entscheidung bei der Kasse einzureichen. Geht binnen dieser Frist keine Berufung bei der Kasse ein und wird binnen dieser Frist der Anspruch auf die Leistung auch nicht gerichtlich geltend gemacht, so ist die Entscheidung rechtskräftig.
 
-
-## § 65 – Berufungsentscheidung, Klagefrist
+# § 65 – Berufungsentscheidung, Klagefrist
 
 (1) Entscheidungen des Kuratoriums sind schriftlich auszufertigen und von dem Kuratoriumsvorsitzenden oder seinem Stellvertreter zu unterzeichnen. Die Entscheidungen des Kuratoriums können auch im Auftrage des Kuratoriumsvorsitzenden von dem Vorstande mitgeteilt werden. Für die Zustellung gelten die Vorschriften des § 64 Abs. 1. Die Entscheidungen sind zu begründen.
 
 (2) Gegen diese Entscheidungen ist der ordentliche Rechtsweg binnen einer Ausschlussfrist von sechs Monaten seit der Zustellung des Bescheides zulässig. Zur Vermeidung von Rechtsstreitigkeiten kann das Kuratorium in geeigneten Fällen die Ausschlussfrist ausnahmsweise verlängern. Wird binnen dieser Frist keine Klage erhoben, so ist die Entscheidung rechtskräftig.
 
-
-## § 66 – Rechtskraftwirkung
+# § 66 – Rechtskraftwirkung
 
 (1) Wird gegen Bescheide der Kasse, die sowohl das Verhältnis des Versicherten (§ 2b Abs. 2) als auch das Verhältnis des Arbeitgebers zur Kasse betreffen, nur von dem Versicherten oder nur von dem Arbeitgeber Berufung eingelegt oder Klage erhoben, so wird der Bescheid auch demjenigen gegenüber, der kein Rechtsmittel eingelegt hat, erst dann rechtskräftig, wenn die Rechtsmittel erfolglos geblieben sind.
 
@@ -3020,8 +2892,7 @@ Erfüllungsort und Gerichtsstand für alle Beitrags- und Erstattungsforderungen 
 
 (3) Nach Eintritt der Rechtskraft ist eine Änderung erteilter Bescheide nur noch möglich, soweit es sich um Rechen- oder Schreibfehler handelt.
 
-
-## § 67 – Die Auflösung der Kasse
+# § 67 – Die Auflösung der Kasse
 
 (1) Die Auflösung der Kasse kann nur von der Hauptversammlung mit 3/4-Mehrheit aller vorhandenen Stimmen beschlossen werden. Das Stimmenverhältnis der Beschlussfassung ist in der Niederschrift ausdrücklich zu vermerken. Der Auflösungsbeschluss bedarf der Genehmigung der Aufsichtsbehörde.
 
@@ -3033,7 +2904,6 @@ Erfüllungsort und Gerichtsstand für alle Beitrags- und Erstattungsforderungen 
 
 (5) Verbleibt nach Erfüllung aller Verpflichtungen der Kasse ein Vermögen, so ist dieses an die im Zeitpunkt der Auflösung vorhandenen aktiven Arbeitnehmer und Rentner im Verhältnis der in den einzelnen Versicherungsverhältnissen entrichteten Beiträge aufzuteilen.
 
-
-## § 68 – Inkrafttreten
+# § 68 – Inkrafttreten
 
 Diese Fassung der Satzung tritt mit Wirkung vom 1. Januar 2006 in Kraft.

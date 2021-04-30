@@ -1,15 +1,11 @@
-# [TSEVorsorgV] Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme Enzephalopathien  (TSE-Vorsorgeverordnung)
-
-Ausfertigungsdatum: 20.12.2005
-
+% Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme Enzephalopathien  (TSE-Vorsorgeverordnung)
+% Ausfertigungsdatum: 20.12.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 79a Abs. 2 Nr. 4 in Verbindung mit den §§ 18, 20 Abs. 1 Nr. 2 und § 24 Abs. 1 und 2 und des § 79a Abs. 2 Nr. 6 in Verbindung mit § 78 Nr. 1 Buchstabe a, jeweils auch in Verbindung mit § 79a Abs. 1 Satz 1 und § 79b, des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260), von denen § 79a Abs. 1 Satz 1 durch Artikel 2 § 3 Abs. 5 des Gesetzes vom 1. September 2005 (BGBl. I S. 2618) geändert worden ist, in Verbindung mit § 3 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Ausnahmen von der Tötung bei Rindern
+# § 1 – Ausnahmen von der Tötung bei Rindern
 
 (1) Die zuständige Behörde kann im Falle der amtlichen Feststellung von boviner spongiformer Enzephalopathie bei einem Rind Ausnahmen von Artikel 13 Abs. 1 Unterabs. 1 Buchstabe c in Verbindung mit Anhang VII Nr. 2 Buchstabe a der Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung bestimmter transmissibler spongiformer Enzephalopathien (ABl. EG Nr. L 147 S. 1) in der jeweils geltenden Fassung im Hinblick auf die Tötung der Rinder einer Kohorte genehmigen, soweit
 
@@ -21,8 +17,7 @@ Eine Ausnahmegenehmigung nach Satz 1 darf nur erteilt werden, soweit Belange der
 
 (2) Der Tierhalter hat in den Fällen des Absatzes 1 Satz 1 Nr. 2 dafür Sorge zu tragen, dass jede Abgabe eines Bullen, für den eine Ausnahmegenehmigung erteilt worden ist, der zuständigen Behörde unter Angabe des Empfängers anzuzeigen ist.
 
-
-## § 2 – Ausnahmen von der Tötung bei Schafen und Ziegen
+# § 2 – Ausnahmen von der Tötung bei Schafen und Ziegen
 
 (1) Die zuständige Behörde kann im Falle der amtlichen Feststellung einer transmissiblen spongiformen Enzephalopathie bei einem Schaf oder einer Ziege Ausnahmen von Artikel 13 Abs. 1 Unterabs. 1 Buchstabe c in Verbindung mit Anhang VII Nr. 2 Buchstabe b Nr. i oder ii der Verordnung (EG) Nr. 999/2001 im Hinblick auf die Tötung der Schafe und Ziegen eines Bestandes genehmigen, soweit  
 1.
@@ -50,12 +45,10 @@ sichergestellt ist, dass die Tiere spätestens fünf Jahre nach der amtlichen Fe
 
 Ausnahmen nach Satz 1 Nr. 2 dürfen längstens bis zum 1. Januar 2006 genehmigt werden.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

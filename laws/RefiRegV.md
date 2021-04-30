@@ -1,34 +1,27 @@
-# [RefiRegV] Verordnung über die Form des Refinanzierungsregisters nach dem Kreditwesengesetz sowie die Art und Weise der Aufzeichnung  (Refinanzierungsregisterverordnung - RefiRegV)
-
-Ausfertigungsdatum: 18.12.2006
-
+% Verordnung über die Form des Refinanzierungsregisters nach dem Kreditwesengesetz sowie die Art und Weise der Aufzeichnung  (Refinanzierungsregisterverordnung - RefiRegV)
+% Ausfertigungsdatum: 18.12.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22d Abs. 1 Satz 2 des Kreditwesengesetzes, der durch Artikel 4a Nr. 4 des Gesetzes vom 22. September 2005 (BGBl. I S. 2809) eingefügt worden ist, in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), § 1 Nr. 5 zuletzt geändert durch Artikel 1 der Verordnung vom 17. November 2005 (BGBl. I S. 3187), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Anwendungsbereich; Begriffsbestimmung
+# § 1 – Anwendungsbereich; Begriffsbestimmung
 
 (1) Diese Verordnung regelt die Anforderungen an die Form des Refinanzierungsregisters nach den §§ 22a bis 22o des Kreditwesengesetzes sowie die Art und Weise der Aufzeichnung.
 
 (2) Eintragungen im Sinne dieser Verordnung sind auch Löschungsvermerke.
 
-
-## § 2 – Form des Refinanzierungsregisters
+# § 2 – Form des Refinanzierungsregisters
 
 (1) Das Refinanzierungsregister kann in Papierform oder nach Maßgabe des Teils 2 als elektronisches Register geführt werden.
 
 (2) Stellt ein registerführendes Unternehmen die Registerführung von einem elektronischen Register auf ein Register in Papierform um, so sind die Registerdaten vollständig auszudrucken und das Register in Papierform weiterzuführen. Im Falle der Umstellung von einem in Papierform geführten Register auf ein elektronisches Register sind sämtliche Registerdaten in das elektronische Register zu übernehmen.
 
-
-## § 3 – Vollständigkeit und Richtigkeit des Refinanzierungsregisters
+# § 3 – Vollständigkeit und Richtigkeit des Refinanzierungsregisters
 
 Eintragungen sind in der Weise dauerhaft aufzuzeichnen, dass etwaig vorgenommene spätere Änderungen und Löschungen jederzeit erkennbar sind. Durch technische und organisatorische Maßnahmen ist sicherzustellen, dass der ursprüngliche Inhalt weiterhin feststellbar bleibt.
 
-
-## § 4 – Bezeichnung des Refinanzierungsregisters sowie der Abteilungen und Unterabteilungen
+# § 4 – Bezeichnung des Refinanzierungsregisters sowie der Abteilungen und Unterabteilungen
 
 (1) Das Refinanzierungsregister muss die Überschrift "Refinanzierungsregister", die Bezeichnung des registerführenden Unternehmens und vorbehaltlich des Absatzes 3 die Bezeichnung des zur Übertragung Verpflichteten tragen.
 
@@ -38,8 +31,7 @@ Eintragungen sind in der Weise dauerhaft aufzuzeichnen, dass etwaig vorgenommene
 
 (4) Im Refinanzierungsregister ist aufzulisten, welche Abteilungen in dem Register geführt werden. Soweit in einer Abteilung Unterabteilungen gebildet werden, ist über diese in der jeweiligen Abteilung eine Liste zu führen.
 
-
-## § 5 – Art und Weise der Aufzeichnung
+# § 5 – Art und Weise der Aufzeichnung
 
 (1) Jeder in das Refinanzierungsregister einzutragende Gegenstand ist mit einer innerhalb der einschlägigen Abteilung oder Unterabteilung fortlaufenden Nummer einzutragen. Die Nummer darf nach Löschung des Gegenstands nicht erneut vergeben werden. Rückdatierte Eintragungen sind nicht zulässig.
 
@@ -75,25 +67,21 @@ h) In Unterspalte h ist das Datum des Tages anzugeben, an dem der den rechtliche
 
 7. Spalte 7 ist für sonstige Bemerkungen vorzusehen, beispielsweise für Anmerkungen, die zur eindeutigen rechtlichen Zuordnung des Gegenstands neben den übrigen Angaben erforderlich sind oder die Zuordnung erleichtern. Bei Bedarf kann in Spalte 7 auch das Namenskürzel der eintragenden Person erfasst werden.
 
-
-## § 6 – Eintragung ausländischer Sicherungsrechte
+# § 6 – Eintragung ausländischer Sicherungsrechte
 
 Eintragungen ausländischer Sicherungsrechte sind entsprechend § 5 vorzunehmen. Soweit die Bezeichnung der ausländischen Sicherungsrechte oder der beliehenen Objekte in den jeweiligen öffentlichen Registern von den Vorgaben der Spalte 3 des Formulars RR abweicht, ist diese Bezeichnung zu verwenden. Die Unterspalten a bis c der Spalte 3 können gegebenenfalls angepasst werden. Sofern die Unterspalten a bis c der Spalte 3 für die nach Satz 2 erforderlichen Angaben nicht ausreichen, können Beiblätter hinzugefügt werden, die Teil des Refinanzierungsregisters werden. Die Beiblätter sind mit der laufenden Nummer der jeweiligen Eintragung aus Spalte 1 Buchstabe a des Formulars zu kennzeichnen. Im Ausland belegene Grundstücke, Luftfahrzeuge oder Schiffe, die nicht in öffentlichen Registern erfasst sind, sind mit den innerhalb der jeweiligen Rechtsordnung gebräuchlichen Angaben einzutragen, die eine eindeutige Identifizierung des jeweiligen Objekts ermöglichen.
 
-
-## § 7 – Schutz des Refinanzierungsregisters
+# § 7 – Schutz des Refinanzierungsregisters
 
 Das Refinanzierungsregister ist vor unberechtigtem Zugriff sowie vor Beschädigung oder Zerstörung durch äußere Einwirkungen wie Feuer oder Wasser besonders zu schützen.
 
-
-## § 8 – Begriff und allgemeine Anforderungen
+# § 8 – Begriff und allgemeine Anforderungen
 
 (1) Der Inhalt des elektronisch geführten Refinanzierungsregisters muss auf Dauer unverändert in lesbarer Form wiedergabefähig sowie auf Dauer revisionssicher archiviert sein.
 
 (2) Der Inhalt des elektronischen Refinanzierungsregisters muss auf dem Bildschirm und in Ausdrucken in einer Weise sichtbar gemacht werden können, die die Eintragungen nach Form und Inhalt vollständig abbildet. Das elektronische Refinanzierungsregister muss jederzeit vollständig ausgedruckt werden können.
 
-
-## § 9 – Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
+# § 9 – Technische und organisatorische Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit
 
 (1) Die eingesetzten Datenverarbeitungssysteme müssen dem Stand der Technik und den Anforderungen der Anlage zu § 9 Satz 1 des Bundesdatenschutzgesetzes entsprechen. Insbesondere müssen sie gewährleisten, dass
 
@@ -113,17 +101,14 @@ Das Refinanzierungsregister ist vor unberechtigtem Zugriff sowie vor Beschädigu
 
 (2) Das registerführende Unternehmen hat mindestens eine vollständige Sicherungskopie des elektronisch geführten Refinanzierungsregisters aufzubewahren. Die Sicherungskopie ist auf einem anderen Datenträger als das Refinanzierungsregister zu speichern und mindestens am Ende eines jeden Arbeitstages auf den Stand zu bringen, den das Refinanzierungsregister zu diesem Zeitpunkt hat.
 
-
-## § 10 – Übergangsbestimmung
+# § 10 – Übergangsbestimmung
 
 Refinanzierungsregister, die auf Grund der §§ 22a bis 22o des Kreditwesengesetzes bereits vor Inkrafttreten dieser Verordnung eingerichtet worden sind, dürfen bis zum 30. Juni 2007 in der bisherigen Art und Weise fortgeführt werden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 5)
+# Anlage – (zu § 5)
 
 (Fundstelle: BGBl. I 2006, 3244)

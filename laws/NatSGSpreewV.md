@@ -1,20 +1,15 @@
-# [NatSGSpreewV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Spreewald"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Spreewald"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 In dem in § 2 näher bezeichneten Umfang werden im Spreewald Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Spreewald" festgesetzt.
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Die Niederungslandschaft des Biosphärenreservates Spreewald weist als Hauptbesonderheit ein feinmaschiges Fließgewässernetz von 971 km Länge auf. Zahlreiche periodische Hochwasserereignisse bilden die Voraussetzung für die Vielfalt an Lebensräumen mit hoher Artenmannigfaltigkeit der Flora und Fauna. Der Oberspreewald ist durch ein kleinflächiges Mosaik historisch gewachsener Landnutzungsformen, durch die sorbische und deutsche Bevölkerung gekennzeichnet, während der Unterspreewald vor allem durch eine naturnahe Waldbestockung von Erlenbruchwäldern und Hartholzauen geprägt wird.
 
@@ -112,8 +107,7 @@ In dem in § 2 näher bezeichneten Umfang werden im Spreewald Naturschutzgebiete
 
 (3) Die Grenze des Biosphärenreservates ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Biosphärenreservates in Forstkarten M 1:25.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Reservatsverwaltung und den zuständigen Kreisverwaltungen. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 Die Festsetzung des Biosphärenreservates bezweckt:
 
@@ -135,8 +129,7 @@ Die Festsetzung des Biosphärenreservates bezweckt:
 
 9. eine kontinuierliche ökologische Grundlagenforschung, die insbesondere dazu dient, eine ganzheitliche Sicht der Beziehung zwischen Mensch und Biosphäre zu finden.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Gebiet des Biosphärenreservats wird in die Schutzzonen I, II, III und IV gegliedert. Die Schutzzonen I und II werden als Naturschutzgebiet von zentraler Bedeutung, die Schutzzonen III und IV als Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen.
 
@@ -1131,8 +1124,7 @@ Gebietscharakteristik:
 \-  
 Ehemaliger Weinberg auf pleistozäner Binnendüne mit Arten der Weinbergwildkrautgesellschaften, der Ruderalfluren, der Magerrasen sowie der wärmeliebenden Säume und Gebüsche
 
-(4) In der Schutzzone III (Zone der harmonischen Kulturlandschaft) verbinden sich Schutz und Nutzung der Natur mit kulturellen Traditionen zur harmonischen Ganzheit. Nachhaltige Wirtschaftsweisen bewahren das über Jahrhunderte gewachsene Landschaftsbild.  
-Die Schutzzone der harmonischen Kulturlandschaft umfaßt alle weder als Kernzonen, noch als Pflege- und Entwicklungszonen oder als Regenerierungszonen ausgewiesenen Flächen.
+(4) In der Schutzzone III (Zone der harmonischen Kulturlandschaft) verbinden sich Schutz und Nutzung der Natur mit kulturellen Traditionen zur harmonischen Ganzheit. Nachhaltige Wirtschaftsweisen bewahren das über Jahrhunderte gewachsene Landschaftsbild. Die Schutzzone der harmonischen Kulturlandschaft umfaßt alle weder als Kernzonen, noch als Pflege- und Entwicklungszonen oder als Regenerierungszonen ausgewiesenen Flächen.
 
 (5) In der Schutzzone IV (Regenerierungszone) wird die durch unsachgemäße Bewirtschaftung geschädigte Landschaft unter Anwendung ingenieurbiologischer und ökotechnologischer Methoden zur harmonischen Kulturlandschaft entwickelt. Die Schutzzone IV umfaßt folgende Gebiete:
 
@@ -1514,8 +1506,7 @@ Straße Suschow-Müschen in östliche Richtung bis südlicher Ortsausgang Müsch
 
 (6) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 angeführten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Biosphärenreservat Spreewald ist es geboten:
 
@@ -1591,8 +1582,7 @@ bei Entscheidungen zur Flächenextensivierung und Flächenstillegung sind vorran
 
 (6) Zur Umsetzung der in den vorstehenden Absätzen genannten Gebote sowie zur Erhaltung, Pflege und Entwicklung des Biosphärenreservates soll in angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Biosphärenreservat sind alle Handlungen verboten, die den Charakter der Landschaft verändern oder dem Schutzzweck nach § 3 zuwiderlaufen. Insbesondere ist es verboten,
 
@@ -1682,8 +1672,7 @@ bei Entscheidungen zur Flächenextensivierung und Flächenstillegung sind vorran
 
 4. Meliorationsmaßnahmen durchzuführen, die dem Schutzzweck nach § 3 zuwiderlaufen.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -1699,8 +1688,7 @@ bei Entscheidungen zur Flächenextensivierung und Flächenstillegung sind vorran
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Biosphärenreservates (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann im Einzelfall Befreiung gewährt werden, wenn
 
@@ -1714,8 +1702,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
@@ -1727,34 +1714,28 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
 4. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmungen
+# § 12 – Schlußbestimmungen
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1473)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

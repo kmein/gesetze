@@ -1,22 +1,17 @@
-# [LSpG] Gesetz zur Durchführung der Rechtsakte der Europäischen Union über Qualitätsregelungen betreffend garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben  (Lebensmittelspezialitätengesetz - LSpG)
-
-Ausfertigungsdatum: 29.10.1993
-
+% Gesetz zur Durchführung der Rechtsakte der Europäischen Union über Qualitätsregelungen betreffend garantiert traditionelle Spezialitäten und fakultative Qualitätsangaben  (Lebensmittelspezialitätengesetz - LSpG)
+% Ausfertigungsdatum: 29.10.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in der jeweils geltenden Fassung sowie der im Rahmen dieser Verordnung oder zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union, soweit dort Regelungen zu garantiert traditionellen Spezialitäten und fakultativen Qualitätsangaben getroffen sind.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen bleiben die Vorschriften des Lebensmittelrechts und des Weinrechts.
 
-
-## § 2 – Antrags- und Einspruchsverfahren
+# § 2 – Antrags- und Einspruchsverfahren
 
 (1) Zuständig für die Durchführung des in der Verordnung (EU) Nr. 1151/2012 vorgesehenen Verfahrens über
 
@@ -32,8 +27,7 @@ ist die Bundesanstalt für Landwirtschaft und Ernährung, soweit die Durchführu
 
 (3) Ein Einspruch nach Artikel 21 der Verordnung (EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung eines Namens einer garantiert traditionellen Spezialität in das von der Europäischen Kommission geführte Register der garantiert traditionellen Spezialitäten ist bei der Bundesanstalt für Landwirtschaft und Ernährung innerhalb von zwei Monaten ab der Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Gemeinschaft nach Artikel 50 Absatz 2 der Verordnung (EU) Nr. 1151/2012 erfolgt ist. Der Einspruch ist innerhalb von zwei Monaten nach Einreichung zu begründen. Die Gründe, auf welche der Einspruch gestützt wird, sind anzugeben.
 
-
-## § 3 – Unterlassungs- und Schadensersatzanspruch
+# § 3 – Unterlassungs- und Schadensersatzanspruch
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen die Artikel 44 Absatz 1 Satz 1 in Verbindung mit Satz 2 Buchstabe b und c der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen werden.
 
@@ -43,8 +37,7 @@ ist die Bundesanstalt für Landwirtschaft und Ernährung, soweit die Durchführu
 
 (4) (weggefallen)
 
-
-## § 3a – Verbot der widerrechtlichen Nutzung eines geschützten Namens
+# § 3a – Verbot der widerrechtlichen Nutzung eines geschützten Namens
 
 Es ist verboten, ein Lebensmittel oder Agrarerzeugnis unter
 
@@ -56,8 +49,7 @@ Es ist verboten, ein Lebensmittel oder Agrarerzeugnis unter
 
 in den Verkehr zu bringen, wenn das Erzeugnis nicht der betreffenden Produktspezifikation entspricht.
 
-
-## § 4 – Überwachung
+# § 4 – Überwachung
 
 (1) Die nach den in § 1 Abs. 1 genannten Rechtsakten erforderliche Überwachung und Kontrolle (Überwachung) obliegt den nach Landesrecht zuständigen Stellen.
 
@@ -81,16 +73,13 @@ Diese Befugnisse erstrecken sich auch auf Agrarerzeugnisse oder Lebensmittel, di
 
 (6) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Voraussetzungen und das Verfahren der Überwachung der Agrarerzeugnisse oder Lebensmittel beim innergemeinschaftlichen Verbringen oder bei der Einfuhr oder Ausfuhr zu regeln.
 
-
-## § 5 – Private Kontrollstellen
+# § 5 – Private Kontrollstellen
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 1151/2012 erforderlichen Kontrollen zugelassenen privaten Kontrollstellen zu übertragen oder zugelassene private Kontrollstellen bei der Durchführung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 1151/2012 erforderlichen Kontrollen zu beteiligen sowie die Voraussetzungen und das Verfahren der Zulassung privater Kontrollstellen zu regeln. Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
 
+# § 6 – (weggefallen)
 
-## § 6 – (weggefallen)
-
-
-## § 7 – Strafvorschriften
+# § 7 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 3a ein Lebensmittel oder Agrarerzeugnis in Verkehr bringt.
 
@@ -98,8 +87,7 @@ Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Durchführu
 
 (3) (weggefallen)
 
-
-## § 8 – Bußgeldvorschriften
+# § 8 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine der in § 7 Abs. 1 bezeichneten Handlungen fahrlässig begeht.
 
@@ -125,12 +113,10 @@ f) eine Auskunft nicht, nicht richtig oder nicht vollständig erteilt,
 
 (3) Die Ordnungswidrigkeit kann in Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro und in den Fällen der Absätze 2 und 2a mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 9 – Einziehung
+# § 9 – Einziehung
 
 Ist eine Straftat nach § 7 Abs. 1 oder 2 oder eine Ordnungswidrigkeit nach § 8 Abs. 1 oder 2 begangen worden, so können Gegenstände, auf die sich die Straftat oder Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

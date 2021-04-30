@@ -1,15 +1,11 @@
-# [ZweiradFortbV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Zweirad-Servicetechniker – nichtmotorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – nichtmotorisierte Zweiradtechnik und Geprüfter Zweirad-Servicetechniker – motorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – motorisierte Zweiradtechnik  (Zweirad-Service-Fortbildungsverordnung - ZweiradFortbV)
-
-Ausfertigungsdatum: 13.02.2013
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Zweirad-Servicetechniker – nichtmotorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – nichtmotorisierte Zweiradtechnik und Geprüfter Zweirad-Servicetechniker – motorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – motorisierte Zweiradtechnik  (Zweirad-Service-Fortbildungsverordnung - ZweiradFortbV)
+% Ausfertigungsdatum: 13.02.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist und des § 42 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum „Geprüften Zweirad-Servicetechniker“ und zur „Geprüften Zweirad-Servicetechnikerin“ nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -27,8 +23,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (3) Die erfolgreich abgelegte Prüfung unter Einbeziehung des Wahlqualifikationsschwerpunktes „Zweiradsysteme der nichtmotorisierten Zweiräder“ führt zum anerkannten Fortbildungsabschluss „Geprüfter Zweirad-Servicetechniker – nichtmotorisierte Zweiradtechnik“ oder „Geprüfte Zweirad-Servicetechnikerin – nichtmotorisierte Zweiradtechnik“; bei Einbeziehung des Wahlqualifikationsschwerpunktes „Zweiradsysteme der motorisierten Zweiräder“ zum anerkannten Fortbildungsabschluss „Geprüfter Zweirad-Servicetechniker – motorisierte Zweiradtechnik“ oder „Geprüfte Zweirad-Servicetechnikerin – motorisierte Zweiradtechnik“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer eine der folgenden Voraussetzungen nachweist:
 
@@ -44,8 +39,7 @@ Die Berufspraxis muss wesentliche Bezüge zu den Aufgaben nach § 1 Absatz 2 hab
 
 (2) Abweichend von den in Absatz 1 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Struktur der Prüfungsinhalte
+# § 3 – Struktur der Prüfungsinhalte
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche
 
@@ -79,8 +73,7 @@ Die Berufspraxis muss wesentliche Bezüge zu den Aufgaben nach § 1 Absatz 2 hab
 
 7. Kundenbetreuung und -beratung.
 
-
-## § 4 – Durchführung der Prüfung
+# § 4 – Durchführung der Prüfung
 
 (1) Die Prüfung ist handlungsorientiert durchzuführen. Sie besteht aus zwei integrierten handlungsorientierten Situationsaufgaben nach den Absätzen 2 und 3, die Kundenaufträgen entsprechen sollen, und dem situationsbezogenen Fachgespräch nach Absatz 4. Die Situationsaufgaben sind an Zweirädern und deren Systemen durchzuführen. Die zu prüfende Person hat zwischen den Wahlqualifikationsschwerpunkten „Zweiradsysteme der nichtmotorisierten Zweiräder“ nach § 5 Absatz 3 und „Zweiradsysteme der motorisierten Zweiräder“ nach § 5 Absatz 4 zu wählen. Die Situationsaufgaben sind entsprechend jeweils bezogen auf nichtmotorisierte und motorisierte Zweiräder zu gestalten.
 
@@ -92,8 +85,7 @@ Die Berufspraxis muss wesentliche Bezüge zu den Aufgaben nach § 1 Absatz 2 hab
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Prüfungsinhalte im Handlungsbereich „Technik“
+# § 5 – Prüfungsinhalte im Handlungsbereich „Technik“
 
 (1) Im Qualifikationsschwerpunkt „Werkstatt- und Betriebstechnik“ soll die Fähigkeit nachgewiesen werden, Aufgaben der Instandhaltung von Werkzeugen, Geräten und Einrichtung unter Berücksichtigung von technischen, organisatorischen und arbeits-, gesundheits- und umweltschutzrechtlichen Gesichtspunkten bearbeiten zu können. In diesem Rahmen sollen die folgenden Qualifikationsinhalte geprüft werden:
 
@@ -173,8 +165,7 @@ Es ist in mindestens drei der folgenden technischen Systeme eines Zweirades zu p
 
 § 5 Abs. 3 Satz 4 Kursivdruck: Müsste richtig "Zweiradsysteme" lauten
 
-
-## § 6 – Prüfungsinhalte im Handlungsbereich „Organisation, Kooperation und Kommunikation“
+# § 6 – Prüfungsinhalte im Handlungsbereich „Organisation, Kooperation und Kommunikation“
 
 (1) Im Qualifikationsschwerpunkt „Auftragsabwicklung“ soll die Fähigkeit nachgewiesen werden, Kundenaufträge unter Berücksichtigung technischer, betriebswirtschaftlicher, organisatorischer und rechtlicher Aspekte abzuwickeln. Dazu gehört, Kundenaufträge nach kaufmännischen, technischen und arbeitsorganisatorischen Kriterien bewerten und präzisieren zu können, den Bedarf an Personal, Werkzeugen, Geräten, Material und Teilen unter Berücksichtigung vorhandener Ressourcen planen und die Abwicklung von Kundenaufträgen kontrollieren zu können. In diesem Rahmen sollen die folgenden Qualifikationsinhalte geprüft werden:
 
@@ -244,15 +235,13 @@ Es ist in mindestens drei der folgenden technischen Systeme eines Zweirades zu p
 
 6. die Geschäftsleitung beraten.
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese Prüfungsbereiche für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbereiche erhöhen sich die Anteile nach § 8 Absatz 3 Satz 2 oder § 9 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbereiche sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bewerten der Prüfungsleistungen
+# § 8 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -262,8 +251,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den Prüfungsleistungen nach § 4 Absatz 2 bis 4 jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -275,8 +263,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -290,8 +277,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -299,8 +285,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum „Geprüften Zweirad-Servicetechniker“ und zur „Geprüften Zweirad-Servicetechnikerin“, zum „Zweiradmechaniker-Servicetechniker“ und zur „Zweiradmechaniker-Servicetechnikerin“ sowie zum „Kraftrad-Servicetechniker“ und zur „Kraftrad-Servicetechnikerin“ können bis zum 31. Dezember 2014 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2013 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -308,22 +293,19 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. März 2013 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2376 - 2377)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 10)Zeugnisinhalte
+# Anlage 2 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2378)
 

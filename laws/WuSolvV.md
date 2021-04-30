@@ -1,23 +1,17 @@
-# [WuSolvV] Verordnung über die angemessene Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung   (Wohnungsunternehmen-Solvabilitätsverordnung - WuSolvV)
-
-Ausfertigungsdatum: 06.12.2013
-
+% Verordnung über die angemessene Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung   (Wohnungsunternehmen-Solvabilitätsverordnung - WuSolvV)
+% Ausfertigungsdatum: 06.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Absatz 1 Satz 2 und 4 des Kreditwesengesetzes, der durch Artikel 1 Nummer 84 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395) eingefügt worden ist, verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank nach Anhörung des Spitzenverbandes der Wohnungsunternehmen mit Spareinrichtung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf Wohnungsunternehmen mit Spareinrichtung im Sinne des § 1 Absatz 29 des Kreditwesengesetzes.
 
-
-## § 2 – Angemessenheit des Eigenkapitals
+# § 2 – Angemessenheit des Eigenkapitals
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung verfügt über angemessenes Eigenkapital, wenn es täglich zum Geschäftsschluss die Eigenkapitalanforderungen für Adressrisiken, operationelle Risiken und Marktrisiken nach Absatz 2 erfüllt. Geschäftsschluss im Sinne dieser Verordnung ist täglich 24 Uhr MEZ/MESZ. Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) kann auf Antrag des Wohnungsunternehmens mit Spareinrichtung einen anderen Zeitpunkt festsetzen, der den Aktivitäten des Wohnungsunternehmens mit Spareinrichtung angemessen Rechnung trägt.
 
@@ -33,8 +27,7 @@ Diese Verordnung ist anzuwenden auf Wohnungsunternehmen mit Spareinrichtung im S
 
 (4) Ein Wohnungsunternehmen mit Spareinrichtung hat zum Ende eines jeden Kalenderjahres eine Gesamtkennziffer zu ermitteln. Die Gesamtkennziffer gibt das Verhältnis in Prozent zwischen dem haftenden Eigenkapital nach § 51a Absatz 6 des Kreditwesengesetzes, soweit es nicht nach den Vorschriften des Kreditwesengesetzes zur Unterlegung von Positionen mit Kern- und Ergänzungskapital benötigt wird, als Zähler und der mit 12,5 multiplizierten Summe aus dem Gesamtanrechnungsbetrag für Adressrisiken, dem Anrechnungsbetrag für operationelle Risiken und der Summe der Anrechnungsbeträge für Marktrisikopositionen einschließlich der Optionsgeschäfte als Nenner an.
 
-
-## § 3 – Anrechnungspflichtige Positionen, Schuldnergesamtheit
+# § 3 – Anrechnungspflichtige Positionen, Schuldnergesamtheit
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung hat als anrechnungspflichtige Positionen seine Adressrisikopositionen, Fremdwährungsrisikopositionen, Rohwarenrisikopositionen und andere Marktrisikopositionen zu bestimmen.
 
@@ -74,13 +67,11 @@ Der Anrechnungsbetrag für andere Marktrisikopositionen ist nach § 67 zu ermitt
 
 (9) Zwei oder mehr natürliche Personen, juristische Personen oder Personenhandelsgesellschaften sind in der Regel eine Schuldnergesamtheit, wenn sie untereinander unter Berücksichtigung ihrer rechtlichen und tatsächlichen Verhältnisse so verbunden sind, dass die Zahlungsschwierigkeiten einer der Personen oder Personenhandelsgesellschaften zu Schwierigkeiten bei den anderen führen würden, Zahlungsverpflichtungen aus Kreditgewährung gegenüber dem Wohnungsunternehmen mit Spareinrichtung vollständig zu erfüllen. Kann eine der Personen oder Personenhandelsgesellschaften nach Satz 1 unmittelbar oder mittelbar beherrschenden Einfluss auf eine oder mehrere andere Personen oder Personenhandelsgesellschaften ausüben, darf das Wohnungsunternehmen mit Spareinrichtung nur in begründeten Fällen von der Bildung einer Schuldnergesamtheit nach Satz 1 absehen.
 
-
-## § 4 – Auf fremde Währung lautende Positionen
+# § 4 – Auf fremde Währung lautende Positionen
 
 Eine auf eine fremde Währung lautende Position ist zu dem von der Europäischen Zentralbank am Meldestichtag festgestellten und von der Deutschen Bundesbank veröffentlichten Referenzkurs (Euro-Referenzkurs) in Euro umzurechnen. Statt des Euro-Referenzkurses am Meldestichtag darf für Beteiligungen, einschließlich der Anteile an verbundenen Unternehmen, die nach § 3 Absatz 6 Satz 1 und 2 nicht als Bestandteil seiner Währungsgesamtposition behandelt werden, der zum Zeitpunkt ihrer Erstverbuchung maßgebliche Devisenkurs angewendet werden. Bei der Umrechnung von Währungen, für die kein Euro-Referenzkurs veröffentlicht wird, sind die Mittelkurse aus feststellbaren An- und Verkaufskursen des Stichtages zugrunde zu legen.
 
-
-## § 5 – Meldungen zur Eigenkapitalausstattung
+# § 5 – Meldungen zur Eigenkapitalausstattung
 
 (1) Wohnungsunternehmen mit Spareinrichtung haben der Deutschen Bundesbank zu den Anforderungen nach § 2 Absatz 2 und 4 nach dem Stand zum Ende eines Kalenderjahres (Meldestichtag) Meldungen mit Anlage 2 jeweils bis zum letzten Geschäftstag des auf den Meldestichtag folgenden Kalendervierteljahres einzureichen. Auf Antrag des Wohnungsunternehmens mit Spareinrichtung kann die Bundesanstalt die Frist nach Satz 1 verlängern.
 
@@ -88,13 +79,11 @@ Eine auf eine fremde Währung lautende Position ist zu dem von der Europäischen
 
 (3) Wohnungsunternehmen mit Spareinrichtung haben die zuletzt abgegebene Meldung nach Absatz 1 sowie die Meldungen nach Absatz 1 für die zwei vorangegangenen Kalenderjahre aufzubewahren. Wohnungsunternehmen mit Spareinrichtung müssen die Marktpreisdaten für die Angaben der Meldung nach Absatz 1 für den letzten Meldestichtag, die Meldestichtage der vergangenen 24 Monate sowie für den laufenden Meldezeitraum vorhalten und der Bundesanstalt oder der Deutschen Bundesbank auf Verlangen zur Verfügung stellen. Sofern die Gesamtkennziffer nach § 2 Absatz 4 Satz 2 den Wert von 8,4 Prozent unterschreitet, haben die Wohnungsunternehmen mit Spareinrichtung die jeweiligen Marktdaten sowie die Berechnungen nach dieser Verordnung zusätzlich für die letzten 30 Handelstage vorzuhalten. Sowohl die Bundesanstalt als auch die Deutsche Bundesbank können verlangen, dass die Angaben nach den Sätzen 2 und 3 spätestens nach 15 Geschäftstagen eingereicht werden.
 
-
-## § 6 – Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen
+# § 6 – Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen
 
 Wohnungsunternehmen mit Spareinrichtung müssen die Nichteinhaltung der Eigenkapitalanforderungen nach § 2 Absatz 2 zwischen den Meldestichtagen unverzüglich der Bundesanstalt und der Deutschen Bundesbank schriftlich anzeigen. In der Anzeige nach Satz 1 ist jeweils der Betrag anzugeben, um den die Eigenkapitalanforderungen unterschritten werden.
 
-
-## § 7 – Adressenausfallrisikopositionen
+# § 7 – Adressenausfallrisikopositionen
 
 (1) Adressenausfallrisikopositionen setzen sich zusammen aus den
 
@@ -112,8 +101,7 @@ das gilt auch, wenn sie nach Absatz 3 als effektiv verbrieft gelten.
 
 (3) Als effektiv verbrieft gilt jede Adressenausfallrisikoposition, die zu einem durch eine solche Verbriefungstransaktion verbrieften Portfolio, deren Adressenausfallrisiko durch diese Verbriefungsaktion übertragen werden soll, nach § 48 gehört, für die das Wohnungsunternehmen mit Spareinrichtung nach § 49 Absatz 1 als Originator gilt und für die es die Mindestanforderungen an den wesentlichen und wirksamen Risikotransfer nach § 51 erfüllt.
 
-
-## § 8 – Bilanzielle Adressenausfallrisikopositionen
+# § 8 – Bilanzielle Adressenausfallrisikopositionen
 
 Zu den bilanziellen Adressenausfallrisikopositionen gehören
 
@@ -125,13 +113,11 @@ Zu den bilanziellen Adressenausfallrisikopositionen gehören
 
 4. die Positionen des Umlaufvermögens der zum Verkauf bestimmten Grundstücke und anderer Vorräte, mit Ausnahme der unfertigen Leistungen aus noch nicht mit den Mietern abgerechneten Betriebskosten.
 
-
-## § 9 – Derivative Adressenausfallrisikopositionen
+# § 9 – Derivative Adressenausfallrisikopositionen
 
 Derivative Adressenausfallrisikopositionen sind Derivate nach § 19 Absatz 1a des Kreditwesengesetzes mit Ausnahme von Stillhalterverpflichtungen aus Optionen.
 
-
-## § 10 – Außerbilanzielle Adressenausfallrisikopositionen
+# § 10 – Außerbilanzielle Adressenausfallrisikopositionen
 
 (1) Zu den außerbilanziellen Adressenausfallrisikopositionen gehören
 
@@ -147,8 +133,7 @@ Derivative Adressenausfallrisikopositionen sind Derivate nach § 19 Absatz 1a de
 
 (2) Geschäfte, die nach § 9 derivative Adressenausfallrisikopositionen sind und zu den außerbilanziellen Adressenausfallrisikopositionen nach Absatz 1 Nummer 1 bis 5 gehören, bilden sowohl eine derivative Adressenausfallrisikoposition als auch eine außerbilanzielle Adressenausfallrisikoposition.
 
-
-## § 11 – Vorleistungsrisikopositionen
+# § 11 – Vorleistungsrisikopositionen
 
 (1) Eine Vorleistungsrisikoposition ist jeder Anspruch aus einem Geschäft, bei dem
 
@@ -162,15 +147,13 @@ b) die Zahlung gelieferter Wertpapiere, Fremdwährungen oder Waren noch nicht er
 
 (2) Vorleistungen, die durch systemweite Ausfälle von Abwicklungs- oder Verrechnungssystemen entstanden sind, können auf Antrag mit Zustimmung der Bundesanstalt solange unberücksichtigt bleiben, bis die Systeme wieder funktionstüchtig sind.
 
-
-## § 12 – Abwicklungsrisikopositionen
+# § 12 – Abwicklungsrisikopositionen
 
 (1) Eine Abwicklungsrisikoposition ist jeder Anspruch auf Lieferung oder Abnahme von Wertpapieren, Fremdwährungen oder Waren aus einem Geschäft, das kein Pensions-, Darlehens- oder vergleichbares Geschäft über Wertpapiere, Fremdwährungen oder Waren ist, wenn die gegenseitigen Ansprüche nach Ablauf des vereinbarten Liefer- oder Abnahmetermins (Abrechnungstermin) noch nicht erfüllt worden sind.
 
 (2) Abwicklungsrisikopositionen, die durch systemweite Ausfälle von Abwicklungs- und Verrechnungssystemen entstanden sind, können auf Antrag mit Zustimmung der Bundesanstalt solange unberücksichtigt bleiben, bis die Systeme wieder funktionstüchtig sind.
 
-
-## § 13 – Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken
+# § 13 – Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken
 
 (1) Der Gesamtanrechnungsbetrag für Adressrisiken wird ermittelt, indem aus der Gesamtheit der Adressrisikopositionen mit Ausnahme der Abwicklungsrisikopositionen die Adressenausfallrisikopositionen bestimmt und diese nach dem Kreditrisiko-Standardansatz (KSA) berücksichtigt werden.
 
@@ -182,8 +165,7 @@ b) die Zahlung gelieferter Wertpapiere, Fremdwährungen oder Waren noch nicht er
 
 (3) Der Gesamtanrechnungsbetrag für Adressrisiken erhöht sich um den Gesamtanrechnungsbetrag für Abwicklungsrisiken nach § 15.
 
-
-## § 14 – Ermittlung der risikogewichteten KSA-Positionswerte für Adressenausfallrisikopositionen
+# § 14 – Ermittlung der risikogewichteten KSA-Positionswerte für Adressenausfallrisikopositionen
 
 (1) Zur Ermittlung der risikogewichteten KSA-Positionswerte muss ein Wohnungsunternehmen mit Spareinrichtung sämtliche Adressenausfallrisikopositionen nach § 7 den KSA-Forderungsklassen nach § 16 zuordnen.
 
@@ -191,8 +173,7 @@ b) die Zahlung gelieferter Wertpapiere, Fremdwährungen oder Waren noch nicht er
 
 (3) Für jede Verbriefungsposition ist ihr risikogewichteter KSA-Positionswert nach den §§ 53 bis 57 zu ermitteln.
 
-
-## § 15 – Gesamtanrechnungsbetrag für Abwicklungsrisiken
+# § 15 – Gesamtanrechnungsbetrag für Abwicklungsrisiken
 
 (1) Der Gesamtanrechnungsbetrag für Abwicklungsrisiken ist die Summe der Anrechnungsbeträge für sämtliche Abwicklungsrisikopositionen.
 
@@ -206,8 +187,7 @@ b) die Zahlung gelieferter Wertpapiere, Fremdwährungen oder Waren noch nicht er
 
 4. mit 100 Prozent ab dem 46. Geschäftstag nach dem vereinbarten Abrechnungstermin.
 
-
-## § 16 – Zuordnung von KSA-Positionen zu KSA-Forderungsklassen
+# § 16 – Zuordnung von KSA-Positionen zu KSA-Forderungsklassen
 
 (1) Jede KSA-Position ist einer der folgenden KSA-Forderungsklassen zuzuordnen:
 
@@ -349,8 +329,7 @@ b) der Restwert nicht durch eine Kaufoption abgedeckt wird, die dem Leasingnehme
 
 (15) Der KSA-Forderungsklasse überfällige Positionen ist jede KSA-Position zuzuordnen, wenn der zugrunde liegende Zahlungsanspruch mehr als 90 aufeinander folgende Kalendertage mit einem Betrag von 100 Euro oder mehr überfällig ist. Satz 1 gilt nicht für Verbriefungspositionen.
 
-
-## § 17 – KSA-Risikogewicht für Zentralregierungen
+# § 17 – KSA-Risikogewicht für Zentralregierungen
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Zentralregierungen beträgt 100 Prozent, soweit in den Absätzen 2 bis 5 nichts anderes geregelt ist.
 
@@ -368,8 +347,7 @@ geschuldet und ist sie in der Landeswährung des Staates geschuldet und refinanz
 
 (5) Wird die Erfüllung der KSA-Position von einer Zentralregierung eines Drittstaates geschuldet, dessen Aufsichtssystem dem des Kreditwesengesetzes materiell gleichwertig ist, und ist sie in der Landeswährung dieses Drittstaates geschuldet und refinanziert, darf das Risikogewicht übernommen werden, das in diesem Drittstaat für die betreffende Position zur Anwendung kommt.
 
-
-## § 18 – KSA-Risikogewicht für Regionalregierungen und örtliche Gebietskörperschaften
+# § 18 – KSA-Risikogewicht für Regionalregierungen und örtliche Gebietskörperschaften
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Regionalregierungen und örtliche Gebietskörperschaften ist nach den Regeln für Institute nach § 22 mit Ausnahme von § 22 Absatz 5 zu bestimmen, soweit in den Absätzen 2 bis 4 nichts anderes geregelt ist.
 
@@ -385,8 +363,7 @@ erhält sie das KSA-Risikogewicht der Zentralregierung nach § 17, zu deren Hohe
 
 (4) Wird ihre Erfüllung von einer Regionalregierung oder örtlichen Gebietskörperschaft in einem Staat des Europäischen Wirtschaftsraums geschuldet und ist sie in der Landeswährung dieser Regionalregierung oder örtlichen Gebietskörperschaft geschuldet und refinanziert, darf ein KSA-Risikogewicht von 20 Prozent verwendet werden.
 
-
-## § 19 – KSA-Risikogewicht für sonstige öffentliche Stellen
+# § 19 – KSA-Risikogewicht für sonstige öffentliche Stellen
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse sonstige öffentliche Stellen beträgt 100 Prozent, soweit in den nachfolgenden Absätzen 2 bis 4 nichts anderes geregelt ist.
 
@@ -408,8 +385,7 @@ erfolgt die Risikogewichtung nach den Regeln für Institute nach § 22 mit Ausna
 
 darf das Risikogewicht übernommen werden, das in diesem Staat zur Anwendung kommt.
 
-
-## § 20 – KSA-Risikogewicht für multilaterale Entwicklungsbanken
+# § 20 – KSA-Risikogewicht für multilaterale Entwicklungsbanken
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse multilaterale Entwicklungsbanken beträgt 50 Prozent, soweit in den Absätzen 2 und 3 nichts anderes geregelt ist.
 
@@ -417,13 +393,11 @@ darf das Risikogewicht übernommen werden, das in diesem Staat zur Anwendung kom
 
 (3) Für noch nicht voll eingezahlte Kapitalanteile an der multilateralen Entwicklungsbank nach Artikel 117 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 575/2013 beträgt das KSA-Risikogewicht 20 Prozent.
 
-
-## § 21 – KSA-Risikogewicht für internationale Organisationen
+# § 21 – KSA-Risikogewicht für internationale Organisationen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse internationale Organisationen beträgt 0 Prozent.
 
-
-## § 22 – KSA-Risikogewicht für Institute
+# § 22 – KSA-Risikogewicht für Institute
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Institute beträgt 100 Prozent, soweit in den Absätzen 2 bis 6 nichts anderes geregelt ist.
 
@@ -437,23 +411,19 @@ Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse internatio
 
 (6) Handelt es sich um eine KSA-Position, die eine Ursprungslaufzeit von nicht mehr als drei Monaten aufweist, beträgt das KSA-Risikogewicht 20 Prozent.
 
-
-## § 23 – KSA-Risikogewicht für von Kreditinstituten emittierte gedeckte Schuldverschreibungen
+# § 23 – KSA-Risikogewicht für von Kreditinstituten emittierte gedeckte Schuldverschreibungen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse von Kreditinstituten emittierte gedeckte Schuldverschreibungen ist in Abhängigkeit von dem nach § 22 Absatz 1 oder 3 bestimmten KSA-Risikogewicht für Positionen, die vom emittierenden Kreditinstitut geschuldet werden, nach Tabelle 5 der Anlage 1 zu bestimmen.
 
-
-## § 24 – KSA-Risikogewicht für Unternehmen
+# § 24 – KSA-Risikogewicht für Unternehmen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Unternehmen ist das Höhere von 100 Prozent und dem KSA-Risikogewicht nach § 17 für die Zentralregierung des Sitzstaates des Schuldners.
 
-
-## § 25 – KSA-Risikogewicht für das Mengengeschäft
+# § 25 – KSA-Risikogewicht für das Mengengeschäft
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Mengengeschäft beträgt 75 Prozent.
 
-
-## § 26 – KSA-Risikogewicht für Investmentanteile
+# § 26 – KSA-Risikogewicht für Investmentanteile
 
 (1) Das Risikogewicht einer KSA-Position der KSA-Forderungsklasse Investmentanteile beträgt 100 Prozent, soweit in den Absätzen 2 bis 5 nichts anderes geregelt ist.
 
@@ -489,13 +459,11 @@ b) gegebenenfalls die relativen Obergrenzen und die Methodik zur Bestimmung von 
 
 (5) Die Bundesanstalt kann für Investmentanteile, die mit besonders hohen Risiken verbunden sind, ein KSA-Risikogewicht von 150 Prozent oder höher festlegen.
 
-
-## § 27 – KSA-Risikogewicht für Beteiligungen
+# § 27 – KSA-Risikogewicht für Beteiligungen
 
 Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Beteiligungen beträgt 100 Prozent.
 
-
-## § 28 – KSA-Risikogewicht für sonstige Positionen
+# § 28 – KSA-Risikogewicht für sonstige Positionen
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse sonstige Positionen beträgt 0 Prozent für Barrengold im Besitz des Wohnungsunternehmens mit Spareinrichtung, für Zertifikate, die anteilmäßiges Eigentum an Barrengold verkörpern, soweit ihnen entsprechende Goldverbindlichkeiten gegenüberstehen, sowie für den Kassenbestand und gleichwertige Positionen.
 
@@ -513,37 +481,31 @@ Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse Beteiligun
 
 (4) Abweichend von Absatz 1 gilt für ein Kreditderivat nach § 16 Absatz 14 Nummer 5, dass das KSA-Risikogewicht als Summe der KSA-Risikogewichte sämtlicher Adressen, welche in dem Korb des Kreditderivats enthalten sind, bis zu einer Höchstgrenze von 1 250 Prozent zu ermitteln ist, wobei bei der Addition die KSA-Risikogewichte der n-1-Adressen mit den niedrigsten risikogewichteten KSA-Positionswerten auszunehmen sind.
 
-
-## § 29 – KSA-Risikogewicht für überfällige Positionen
+# § 29 – KSA-Risikogewicht für überfällige Positionen
 
 (1) Das KSA-Risikogewicht für eine KSA-Position der KSA-Forderungsklasse überfällige Positionen beträgt 150 Prozent soweit nicht in Absatz 2 etwas anderes geregelt ist.
 
 (2) Das KSA-Risikogewicht einer Position der Forderungsklasse überfällige Positionen beträgt 100 Prozent, wenn die Einzelwertberichtigungen für diese Position mindestens 25 Prozent des unbesicherten Teils der KSA-Bemessungsgrundlage nach § 36 dieser Position betragen.
 
-
-## § 30 – Benennung von Exportversicherungsagenturen
+# § 30 – Benennung von Exportversicherungsagenturen
 
 (1) Das Wohnungsunternehmen mit Spareinrichtung darf für KSA-Positionen, die nach Tabelle 6 der Anlage 1 für die bonitätsbeurteilungsbezogene Forderungskategorie Staaten in Frage kommen, eine oder mehrere Exportversicherungsagenturen benennen, deren Länderklassifizierungen es bei der Ermittlung der KSA-Risikogewichte nach Maßgabe der §§ 17 bis 22 berücksichtigt.
 
 (2) Ein Wohnungsunternehmen mit Spareinrichtung kann die Benennung einer Exportversicherungsagentur nur auf Antrag mit Zustimmung der Bundesanstalt zurücknehmen. Der Antrag ist zu begründen. Die Bundesanstalt kann die Zustimmung nur verweigern, wenn konkrete Anhaltspunkte dafür vorliegen, dass durch die Rücknahme der Benennung eine Verminderung der Eigenkapitalanforderungen beabsichtigt ist.
 
-
-## § 31 – Verwendung von Länderklassifizierungen
+# § 31 – Verwendung von Länderklassifizierungen
 
 Ein Wohnungsunternehmen mit Spareinrichtung, das eine Exportversicherungsagentur benannt hat, muss deren Länderklassifizierungen dauerhaft und einheitlich für sämtliche KSA-Positionen dieser Kategorie, für die eine Länderklassifizierung einer vom Wohnungsunternehmen mit Spareinrichtung benannten Exportversicherungsagentur vorhanden ist, anwenden.
 
-
-## § 32 – Maßgebliche Länderklassifizierungen
+# § 32 – Maßgebliche Länderklassifizierungen
 
 Die maßgebliche Länderklassifizierung einer KSA-Position ist nach § 33 zu ermitteln. Für eine KSA-Position der KSA-Forderungsklasse Institute nach § 16 Absatz 1 Satz 1 Nummer 6 ist die maßgebliche Länderklassifizierung die entsprechend § 33 Satz 1, 3 und 4 zu bestimmende Länderklassifizierung der Zentralregierung des Staates, in dem der Schuldner dieser KSA-Position seinen Sitz hat. Eine Länderklassifizierung ist eine Länderbeurteilung, die eine allgemeine, nicht auf bestimmte Vermögensgegenstände bezogene Aussage über die Bonität des Schuldners trifft.
 
-
-## § 33 – Maßgebliche Länderklassifizierung einer beurteilten KSA-Position
+# § 33 – Maßgebliche Länderklassifizierung einer beurteilten KSA-Position
 
 Das Wohnungsunternehmen mit Spareinrichtung hat sämtliche nach § 34 verwendungsfähigen Länderklassifizierungen der von ihm benannten Exportversicherungsagenturen zu ermitteln, die sich auf eine KSA-Position beziehen. Liegen keine verwendungsfähigen Länderklassifizierungen vor, gilt die KSA-Position als unbeurteilt. Liegt nur eine einzige verwendungsfähige Länderklassifizierung vor, so ist diese für die Bestimmung des KSA-Risikogewichts maßgeblich. Liegen mehrere verwendungsfähige Länderklassifizierungen vor, sind diejenigen maßgeblich, die entsprechend der aufsichtlichen Mindestprämienkategorien für Exportversicherungsagenturen zu den beiden niedrigsten KSA-Risikogewichten führen; unterscheiden sich die beiden niedrigsten KSA-Risikogewichte, ist die Länderklassifizierung maßgeblich, die zum höheren KSA-Risikogewicht führt.
 
-
-## § 34 – Verwendungsfähige Länderklassifizierungen von Exportversicherungsagenturen
+# § 34 – Verwendungsfähige Länderklassifizierungen von Exportversicherungsagenturen
 
 Für eine KSA-Position der bonitätsbeurteilungsbezogenen Forderungskategorie Staaten nach Tabelle 6 der Anlage 1 ist eine verwendungsfähige Länderklassifizierung einer Exportversicherungsagentur jede
 
@@ -551,13 +513,11 @@ Für eine KSA-Position der bonitätsbeurteilungsbezogenen Forderungskategorie St
 
 2. Länderklassifizierung einer Exportversicherungsagentur, die die in der OECD-Vereinbarung niedergelegte Methodik zur Länderklassifizierung anwendet, ihre Länderklassifizierungen veröffentlicht und den Mindest-Exportversicherungsprämien nach dieser Methodik zuordnet.
 
-
-## § 35 – KSA-Positionswert
+# § 35 – KSA-Positionswert
 
 Der KSA-Positionswert einer KSA-Position ist das Produkt aus ihrer KSA-Bemessungsgrundlage nach § 36 und ihrem KSA-Konversionsfaktor nach § 44.
 
-
-## § 36 – KSA-Bemessungsgrundlage
+# § 36 – KSA-Bemessungsgrundlage
 
 Die KSA-Bemessungsgrundlage für eine KSA-Position ist
 
@@ -579,13 +539,11 @@ c) bei einem nach § 16 Absatz 14 Nummer 6 zu berücksichtigenden Restwert eines
 
 Bei einer KSA-Position, die durch eine Adressenausfallrisikoposition in Bezug auf das Referenzaktivum oder das Referenzportfolio einer Credit Linked Note gebildet wird, darf die Bemessungsgrundlage um 8 Prozent des risikogewichteten Positionswerts für die Adressenausfallrisikoposition in Bezug auf den Emittenten der Credit Linked Note reduziert werden.
 
-
-## § 37 – Bemessungsgrundlage für derivative Adressenausfallrisikopositionen
+# § 37 – Bemessungsgrundlage für derivative Adressenausfallrisikopositionen
 
 Die Bemessungsgrundlage einer derivativen Adressenausfallrisikoposition ist anhand des marktbewerteten Wiedereindeckungsaufwands nach § 38 zu ermitteln (Marktbewertungsmethode). Ein Wohnungsunternehmen mit Spareinrichtung darf die Bemessungsgrundlage für derivative Adressenausfallrisikopositionen abweichend von Satz 1 und vorbehaltlich Satz 3 nach einheitlicher Wahl anhand des laufzeitbewerteten Wiedereindeckungsaufwands nach § 43 ermitteln (Laufzeitmethode), wenn der Wiedereindeckungsaufwand nicht auf Änderungen der Preise von Aktien, Waren, anderen Edelmetallen als Gold oder sonstigen nicht zins-, währungs- oder goldpreisbezogenen Geschäften beruht. Bei Anwendung der Laufzeitmethode darf die Wahl für bestimmte und eindeutig abgegrenzte Teilbereiche unterschiedlich ausfallen. Die Festlegung von Teilbereichen kann nach verschiedenen Finanzinstrumenten oder nach unterschiedlichen organisatorisch festgelegten Bereichen des Wohnungsunternehmens mit Spareinrichtung erfolgen. Das Wohnungsunternehmen mit Spareinrichtung darf jederzeit von der Laufzeitmethode zur Marktbewertungsmethode übergehen.
 
-
-## § 38 – Marktbewerteter Wiedereindeckungsaufwand
+# § 38 – Marktbewerteter Wiedereindeckungsaufwand
 
 Der marktbewertete Wiedereindeckungsaufwand ist
 
@@ -593,13 +551,11 @@ Der marktbewertete Wiedereindeckungsaufwand ist
 
 2. der künftig zu erwartenden Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands nach § 40, wenn es sich nicht um einen währungsgleichen Zinsswap ohne Festzinsteil handelt.
 
-
-## § 39 – Gegenwärtiger potenzieller Wiedereindeckungsaufwand
+# § 39 – Gegenwärtiger potenzieller Wiedereindeckungsaufwand
 
 Der gegenwärtige potenzielle Wiedereindeckungsaufwand ist der höhere Wert aus Null und dem aktuellen Marktwert des Derivats.
 
-
-## § 40 – Künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands
+# § 40 – Künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands
 
 (1) Die künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands ist das Produkt aus dem marktbewerteten Anspruch aus dem Derivat nach § 41 und der sich in Abhängigkeit von der maßgeblichen Laufzeit des Geschäfts nach § 42 ergebenden Volatilitätsrate nach Tabelle 1 der Anlage 1. Falls der Wiedereindeckungsaufwand für das Geschäft auf der Volatilität von Preisen mehrerer Kategorien beruht, ist das Geschäft der Kategorie mit der höchsten nach Tabelle 1 der Anlage 1 anzusetzenden Volatilitätsrate zuzuordnen.
 
@@ -611,8 +567,7 @@ Der gegenwärtige potenzielle Wiedereindeckungsaufwand ist der höhere Wert aus 
 
 Für ein Kreditderivat, das in Anspruch genommen werden kann, sobald für eine Mehrheit bestimmter Adressen (Korb) zum n-ten Mal ein Kreditereignis eingetreten ist und dies den Vertrag beendet, beträgt der in Satz 1 zu verwendende Prozentsatz 10 Prozent. Die künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands bei Credit Default Swaps, bei denen das Wohnungsunternehmen mit Spareinrichtung Gewährleistungsgeber ist und die nicht unter Satz 1 Nummer 1 fallen, ist auf den noch ausstehenden Betrag der Prämienzahlungen begrenzt.
 
-
-## § 41 – Marktbewerteter Anspruch aus einem Derivat
+# § 41 – Marktbewerteter Anspruch aus einem Derivat
 
 Der marktbewertete Anspruch aus einem Derivat ist bei
 
@@ -620,8 +575,7 @@ Der marktbewertete Anspruch aus einem Derivat ist bei
 
 2. als Festgeschäft und Optionsrecht ausgestalteten Termingeschäften und für sie übernommenen Gewährleistungen der unter der Annahme tatsächlicher Lieferung oder Abnahme des Geschäftsgegenstands bestehende, zum aktuellen Marktkurs umgerechnete Anspruch des Wohnungsunternehmens mit Spareinrichtung auf Lieferung oder Abnahme des Geschäftsgegenstands.
 
-
-## § 42 – Für den Wiedereindeckungsaufwand maßgebliche Laufzeit
+# § 42 – Für den Wiedereindeckungsaufwand maßgebliche Laufzeit
 
 Die für den Wiedereindeckungsaufwand maßgebliche Laufzeit eines Geschäfts ist für jedes Geschäft, das eine derivative Adressenausfallrisikoposition begründet,
 
@@ -631,13 +585,11 @@ Die für den Wiedereindeckungsaufwand maßgebliche Laufzeit eines Geschäfts ist
 
 3. sonst die Laufzeit des Derivats.
 
-
-## § 43 – Laufzeitbewerteter Wiedereindeckungsaufwand
+# § 43 – Laufzeitbewerteter Wiedereindeckungsaufwand
 
 Der laufzeitbewertete Wiedereindeckungsaufwand für eine derivative Adressenausfallrisikoposition ist das Produkt aus dem marktbewerteten Anspruch aus dem Derivat und der sich in Abhängigkeit von der maßgeblichen Laufzeit des Geschäfts ergebenden Volatilitätsrate nach Tabelle 2 der Anlage 1.
 
-
-## § 44 – KSA-Konversionsfaktor
+# § 44 – KSA-Konversionsfaktor
 
 (1) Der KSA-Konversionsfaktor beträgt 100 Prozent, soweit in den Absätzen 2 und 3 nichts anderes geregelt ist.
 
@@ -661,13 +613,11 @@ b) sonst 50 Prozent,
 
 (3) Wenn eine außerbilanzielle Adressenausfallrisikoposition in einer noch nicht in Anspruch genommenen Verpflichtung besteht, eine weitere Adressenausfallrisikoposition zu begründen, ist der niedrigere der beiden KSA-Konversionsfaktoren anzuwenden.
 
-
-## § 45 – Anrechnung der risikogewichteten KSA-Positionswerte für Verbriefungspositionen
+# § 45 – Anrechnung der risikogewichteten KSA-Positionswerte für Verbriefungspositionen
 
 Ein Wohnungsunternehmen mit Spareinrichtung, das Originator, Investor oder Sponsor einer Verbriefungstransaktion ist, hat für die Gesamtheit seiner Verbriefungspositionen risikogewichtete Positionswerte zu ermitteln. Ein Wohnungsunternehmen mit Spareinrichtung, das Originator einer Verbriefungstransaktion ist, braucht für die zu dieser Verbriefungstransaktion gehörenden Verbriefungspositionen keinen risikogewichteten Positionswert zu berücksichtigen, wenn es aus dieser Verbriefungstransaktion keine Anrechnungserleichterung in Anspruch nimmt.
 
-
-## § 46 – Verbriefungstransaktion
+# § 46 – Verbriefungstransaktion
 
 (1) Eine Verbriefungstransaktion liegt vor, wenn
 
@@ -685,8 +635,7 @@ Als Verbriefungstransaktion gilt auch ein Verbriefungsprogramm, das die in Satz 
 
 (3) Eine Verbriefungstransaktion ohne Forderungsübertragung ist durch die Übertragung des Adressenausfallrisikos aus einem verbrieften Portfolio durch den Einsatz von Garantien, Kreditderivaten oder berücksichtigungsfähigen finanziellen Sicherheiten von einem Originator bestimmt, ohne dadurch das verbriefte Portfolio rechtlich zu übertragen.
 
-
-## § 47 – Verbriefungspositionen, Verbriefungstranchen
+# § 47 – Verbriefungspositionen, Verbriefungstranchen
 
 (1) Eine Verbriefungsposition ist eine Risikoposition in einer Verbriefungstranche. Als Risikopositionen im Sinne des Satzes 1 gelten auch
 
@@ -700,13 +649,11 @@ Ein Wohnungsunternehmen mit Spareinrichtung, das Verbriefungspositionen vollstä
 
 (3) Eine Verbriefungsposition ist jede Verbriefungsposition, die Anteil an einer zu einer Verbriefungstransaktion gehörenden Verbriefungstranche ist.
 
-
-## § 48 – Verbrieftes Portfolio
+# § 48 – Verbrieftes Portfolio
 
 Ein durch eine Verbriefungstransaktion verbrieftes Portfolio ist die Gesamtheit derjenigen Adressenausfallrisikopositionen, deren Adressenausfallrisiko durch diese Verbriefungstransaktion übertragen werden soll.
 
-
-## § 49 – Originator, Sponsor, Investor
+# § 49 – Originator, Sponsor, Investor
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung gilt für eine Verbriefungstransaktion als Originator, wenn das verbriefte Portfolio Adressenausfallrisikopositionen enthält, die für Rechnung des Wohnungsunternehmens mit Spareinrichtung begründet oder zum Zwecke der Verbriefung angekauft oder im Auftrag des Wohnungsunternehmens mit Spareinrichtung verbrieft wurden. Überträgt ein Wohnungsunternehmen mit Spareinrichtung Adressenausfallrisikopositionen durch eine Verbriefungstransaktion auf eine andere Person mit dem Zweck der Weiterverbriefung, gilt das Wohnungsunternehmen mit Spareinrichtung auch für die weiteren Verbriefungstransaktionen als Originator, wenn die von dem Wohnungsunternehmen mit Spareinrichtung auf die andere Person übertragenen Adressenausfallrisikopositionen mindestens 50 Prozent der Bemessungsgrundlage oder mindestens 50 Prozent der risikogewichteten Positionswerte sämtlicher Adressenausfallrisikopositionen des verbrieften Portfolios der weiteren Verbriefungstransaktionen zum Zeitpunkt ihres Abschlusses ausmachen.
 
@@ -718,8 +665,7 @@ Ein durch eine Verbriefungstransaktion verbrieftes Portfolio ist die Gesamtheit 
 
 2. von anderen gehaltene Verbriefungspositionen aus dieser Verbriefungstransaktion gewährleistet oder absichert.
 
-
-## § 50 – Sonstige Begriffsbestimmungen für Verbriefungen
+# § 50 – Sonstige Begriffsbestimmungen für Verbriefungen
 
 (1) Eine Kreditverbesserung ist jede vertragliche Vereinbarung, die darauf gerichtet ist, die Kreditqualität des verbrieften Portfolios, einer Verbriefungstransaktion, einer Verbriefungstranche oder einer Verbriefungsposition zu erhöhen, insbesondere durch Nachordnung von Zahlungsansprüchen.
 
@@ -731,8 +677,7 @@ Ein durch eine Verbriefungstransaktion verbrieftes Portfolio ist die Gesamtheit 
 
 (5) Eine Wiederverbriefungsposition ist eine Verbriefungsposition in einer Wiederverbriefung. Die Bundesanstalt kann einzelne Verbriefungspositionen von der Einstufung als Wiederverbriefungspositionen ausnehmen, wenn dies aus besonderen Gründen, insbesondere wegen der Art und der Struktur der zugrunde liegenden Geschäfte, angezeigt ist. Die Ausnahme kann auf Antrag eines Wohnungsunternehmens mit Spareinrichtung oder von Amts wegen erfolgen.
 
-
-## § 51 – Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer
+# § 51 – Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator einer Verbriefungstransaktion gilt, kann aus dieser nur dann eine Anrechnungserleichterung ableiten, wenn durch die Verbriefungstransaktion ein wirksamer Risikotransfer bewirkt wird und
 
@@ -780,8 +725,7 @@ d) als Folge einer Verschlechterung der Kreditqualität des verbrieften Portfoli
 
 (7) Wenn ein Wohnungsunternehmen mit Spareinrichtung, das als Originator für eine Verbriefungstransaktion gilt, durch diese Verbriefungstransaktion keinen wesentlichen oder wirksamen Risikotransfer bewirkt, braucht es für die von ihm gehaltenen Verbriefungspositionen dieser Verbriefungstransaktion keine risikogewichteten Positionswerte zu berücksichtigen.
 
-
-## § 52 – Verbot der impliziten Unterstützung von Verbriefungstransaktionen
+# § 52 – Verbot der impliziten Unterstützung von Verbriefungstransaktionen
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator einer Verbriefungstransaktion gilt, aus der es eine Anrechnungserleichterung ableitet oder einmal abgeleitet hat, oder das als Sponsor einer Verbriefungstransaktion gilt, darf dieser keine implizite Unterstützung gewähren.
 
@@ -791,27 +735,23 @@ d) als Folge einer Verschlechterung der Kreditqualität des verbrieften Portfoli
 
 (4) Absatz 3 gilt entsprechend für ein Wohnungsunternehmen mit Spareinrichtung, das als Sponsor einer Verbriefungstransaktion gilt und dieser implizite Unterstützung leistet.
 
-
-## § 53 – KSA-Bemessungsgrundlage einer Verbriefungsposition
+# § 53 – KSA-Bemessungsgrundlage einer Verbriefungsposition
 
 Die KSA-Bemessungsgrundlage einer Verbriefungsposition entspricht ihrer KSA-Bemessungsgrundlage nach § 36.
 
-
-## § 54 – KSA-Positionswert einer Verbriefungsposition
+# § 54 – KSA-Positionswert einer Verbriefungsposition
 
 (1) Der KSA-Positionswert einer Verbriefungsposition ist das Produkt aus ihrer KSA-Bemessungsgrundlage und ihrem KSA-Konversionsfaktor nach Absatz 2.
 
 (2) Der KSA-Konversionsfaktor einer Verbriefungsposition beträgt 100 Prozent.
 
-
-## § 55 – Risikogewichteter KSA-Positionswert einer Verbriefungsposition
+# § 55 – Risikogewichteter KSA-Positionswert einer Verbriefungsposition
 
 (1) Der risikogewichtete KSA-Positionswert einer Verbriefungsposition ist als das Produkt aus ihrem KSA-Positionswert und ihrem KSA-Verbriefungsrisikogewicht zu ermitteln.
 
 (2) Wenn ein Wohnungsunternehmen mit Spareinrichtung mehrere Verbriefungspositionen an derselben KSA-Verbriefungstransaktion hält, für die vertraglich sichergestellt ist, dass nicht mehr als eine dieser Verbriefungspositionen dieselben Verluste aus dem durch diese KSA-Verbriefungstransaktion verbrieften Portfolio erleiden kann, sind die Verbriefungspositionen, soweit sie sich überschneiden, bei der Ermittlung des risikogewichteten KSA-Positionswertes nur mit derjenigen Verbriefungsposition zu berücksichtigen, die den höchsten risikogewichteten KSA-Positionswert aufweist.
 
-
-## § 56 – KSA-Verbriefungsrisikogewicht für Verbriefungspositionen
+# § 56 – KSA-Verbriefungsrisikogewicht für Verbriefungspositionen
 
 (1) Das KSA-Verbriefungsrisikogewicht für eine Verbriefungsposition beträgt 1 250 Prozent.
 
@@ -827,25 +767,21 @@ Die KSA-Bemessungsgrundlage einer Verbriefungsposition entspricht ihrer KSA-Beme
 
 darf abweichend von Absatz 1 das höchste KSA-Risikogewicht angewendet werden, das für eine im verbrieften Portfolio enthaltene Adressenausfallrisikoposition als KSA-Position anzuwenden wäre, mindestens jedoch ein Risikogewicht von 100 Prozent. Als Erstverlustposition nach Satz 1 Nummer 3 gilt jede Verbriefungstranche, auf die ein KSA-Verbriefungsrisikogewicht von 1 250 Prozent anzuwenden ist oder die nach § 58 als abzuziehende Verbriefungspositionen berücksichtigt wird.
 
-
-## § 57 – Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion
+# § 57 – Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion
 
 (1) Wohnungsunternehmen mit Spareinrichtung, die für eine KSA-Verbriefungstransaktion als Originatoren oder Sponsoren gelten, dürfen die Summe der risikogewichteten KSA-Positionswerte für sämtliche zu derselben KSA-Verbriefungstransaktion gehörenden Verbriefungspositionen nach Maßgabe von Absatz 2 auf die Summe der risikogewichteten Positionswerte für sämtliche Adressenausfallrisikopositionen des verbrieften Portfolios begrenzen.
 
 (2) Der von einem Originator für sämtliche Verbriefungspositionen nach § 47 Absatz 1 Satz 2 Nummer 1 und 2 aus derselben KSA-Verbriefungstransaktion insgesamt anzusetzende risikogewichtete KSA-Positionswert darf auf die Summe aus den risikogewichteten KSA-Positionswerten nach § 14 Absatz 2 und 3 aller KSA-Positionen des verbrieften Portfolios abzüglich des 12,5-fachen Abzugsbetrags nach § 58 für Verbriefungspositionen, soweit er auf die zu dieser KSA-Verbriefungstransaktion gehörenden Verbriefungspositionen entfällt, begrenzt werden. Dabei ist auf im verbrieften Portfolio enthaltene Adressenausfallrisikopositionen, die als Adressenausfallrisikopositionen des Wohnungsunternehmens mit Spareinrichtung der KSA-Forderungsklasse überfällige Positionen nach § 16 Absatz 15 zuzuordnen wären, stets ein KSA-Risikogewicht von 150 Prozent anzuwenden.
 
-
-## § 58 – Abzugsbetrag von Verbriefungspositionen
+# § 58 – Abzugsbetrag von Verbriefungspositionen
 
 Eine Verbriefungsposition, deren KSA-Verbriefungsrisikogewicht 1 250 Prozent beträgt, darf bei der Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken nach den §§ 13 bis 15 unberücksichtigt bleiben und stattdessen bei der Ermittlung des haftenden Eigenkapitals nach § 51a Absatz 6 des Kreditwesengesetzes mit ihrem jeweiligen KSA-Positionswert in Abzug gebracht werden.
 
-
-## § 59 – Begriffsbestimmung
+# § 59 – Begriffsbestimmung
 
 Ein operationelles Risiko ist die Gefahr von Verlusten, die infolge der Unangemessenheit oder des Versagens von internen Verfahren und Systemen, von Menschen oder infolge externer Ereignisse eintreten. Diese Definition schließt Rechtsrisiken ein.
 
-
-## § 60 – Berechnung des Anrechnungsbetrags
+# § 60 – Berechnung des Anrechnungsbetrags
 
 (1) Der Anrechnungsbetrag für operationelle Risiken beträgt 15 Prozent des Dreijahresdurchschnitts des relevanten Indikators.
 
@@ -853,8 +789,7 @@ Ein operationelles Risiko ist die Gefahr von Verlusten, die infolge der Unangeme
 
 (3) Bei der Bestimmung des Dreijahresdurchschnitts des relevanten Indikators sind nur Jahreswerte mit positivem Wert zu berücksichtigen. Der Dreijahresdurchschnitt des relevanten Indikators berechnet sich als Summe der positiven Jahreswerte geteilt durch die Anzahl der positiven Jahreswerte.
 
-
-## § 61 – Definition des relevanten Indikators
+# § 61 – Definition des relevanten Indikators
 
 (1) Wohnungsunternehmen mit Spareinrichtung können bei der Berechnung des relevanten Indikators ausschließlich die jeweiligen Positionen der Spareinrichtung berücksichtigen. Die Ableitung der Erträge und Aufwendungen der Spareinrichtung aus dem Rechnungswesen ist angemessen zu dokumentieren.
 
@@ -868,8 +803,7 @@ Der durchschnittliche Bestand an Spareinlagen ist für jedes in die Berechnung e
 
 (3) Basis der Berechnung nach Absatz 2 ist für Wohnungsunternehmen mit Spareinrichtung der mit befreiender Wirkung erstellte Jahresabschluss.
 
-
-## § 62 – Ermittlung und Anrechnung der Währungsgesamtposition
+# § 62 – Ermittlung und Anrechnung der Währungsgesamtposition
 
 (1) Die Währungsgesamtposition ist täglich bei Geschäftsschluss aus den in die Währung der Rechnungslegung umgerechneten Unterschiedsbeträgen zwischen den Aktiv- und den Passivpositionen getrennt für jede fremde Währung (offene Einzelwährungspositionen) und für Gold (offene Goldposition) zu ermitteln. Aktiv- und Passivpositionen in Gold sind nach der Notierung desjenigen Marktes, der im Hinblick auf das Umsatzvolumen als repräsentativ anzusehen ist, in die Währung der Rechnungslegung umzurechnen. Wohnungsunternehmen mit Spareinrichtung haben zu dokumentieren, welche Märkte sie als repräsentativ ansehen und die hierfür wesentlichen Entscheidungsgründe.
 
@@ -883,8 +817,7 @@ Der durchschnittliche Bestand an Spareinlagen ist für jedes in die Berechnung e
 
 (6) Investmentanteile im Sinne des § 16 Absatz 11 sind bei den Aktiv- und Passivpositionen nach § 63 Absatz 1 und 2 entsprechend ihrer tatsächlichen Währungszusammensetzung anteilig zu berücksichtigen. Unter der Voraussetzung, dass die Richtigkeit der Ermittlung und die Weitergabe an das Wohnungsunternehmen mit Spareinrichtung in angemessener Weise sichergestellt werden, kann das Wohnungsunternehmen mit Spareinrichtung für die Ermittlung der Währungszusammensetzung des Investmentvermögens auf Dritte zurückgreifen. Ermittelt das Wohnungsunternehmen mit Spareinrichtung die Währungszusammensetzung des Investmentvermögens nicht selbst, muss ein Wirtschaftsprüfer spätestens drei Monate nach Ablauf des Geschäftsjahres des Investmentvermögens die Richtigkeit der Berechnung nach Satz 2 bestätigen. Ist die tatsächliche Währungszusammensetzung des Investmentvermögens dem Wohnungsunternehmen mit Spareinrichtung nicht bekannt, ist davon auszugehen, dass das Investmentvermögen bis zu der im Verkaufsprospekt oder einem gleichwertigen Dokument genannten Höchstgrenze in Fremdwährungen investiert wurde. Die nach Satz 4 ermittelte als gehalten unterstellte Fremdwährungsposition ist bei der Ermittlung der Währungsgesamtposition wie eine gesonderte Währung, der Anrechnung von Gold entsprechend, zu behandeln. Sofern die Ausrichtung der Anlagen des Investmentvermögens bekannt ist, gilt abweichend von Satz 5, dass die Währungsposition des betreffenden Investmentvermögens entsprechend ihrer Ausrichtung nach Absatz 2 zur Summe der offenen Einzelwährungspositionen mit aktivischer Ausrichtung oder zur Summe der offenen Einzelwährungspositionen mit passivischer Ausrichtung hinzugerechnet werden darf. Eine Aufrechnung derartiger Positionen vor der Berechnung ist nicht zulässig.
 
-
-## § 63 – Aktiv- und Passivpositionen
+# § 63 – Aktiv- und Passivpositionen
 
 (1) Aktivpositionen sind
 
@@ -924,8 +857,7 @@ Erwartete Ausgaben, die nicht zeitanteilige Aufwendungen sind, dürfen, soweit s
 
 (5) Die Berechnung des Zinsabgrenzungsbetrags kann bei den Aktiv- und Passivpositionen nach einem vereinfachten Verfahren erfolgen. Danach darf ein Wohnungsunternehmen mit Spareinrichtung den Betrag der zuletzt vorgenommenen Zinsabgrenzung heranziehen. Dieser Betrag ist mittels linearer Extrapolation fortzuschreiben, wobei der regelmäßige von dem Wohnungsunternehmen mit Spareinrichtung gewählte Berechnungszeitraum für die Zinsabgrenzung zugrunde zu legen ist. Nimmt ein Wohnungsunternehmen mit Spareinrichtung das Verfahren nach Satz 1 in Anspruch, ist dies bei erstmaliger Anwendung der Bundesanstalt und der Deutschen Bundesbank anzuzeigen.
 
-
-## § 64 – Berücksichtigung von Optionsgeschäften
+# § 64 – Berücksichtigung von Optionsgeschäften
 
 (1) Bei der Währungsgesamtposition sind die dem Wohnungsunternehmen mit Spareinrichtung aus den einzubeziehenden Optionsgeschäften zustehenden Liefer- oder Zahlungsansprüche und die von ihm zu erfüllenden Liefer- oder Zahlungsverpflichtungen unter der Annahme tatsächlicher Lieferung oder Abnahme des Geschäftsgegenstands in Höhe ihres Deltaäquivalents zu berücksichtigen.
 
@@ -933,8 +865,7 @@ Erwartete Ausgaben, die nicht zeitanteilige Aufwendungen sind, dürfen, soweit s
 
 (3) Bei der Ermittlung des in Absatz 2 Satz 2 genannten Deltafaktors sind vom Wohnungsunternehmen mit Spareinrichtung für gleichartige Optionsgeschäfte einheitlich unter Beachtung der Marktusancen nach wissenschaftlichen Verfahren geeignete EDV-gestützte Optionspreismodelle zu verwenden. Die mathematisch-statistischen Verfahren zur Ermittlung der Optionspreise sind angemessen zu dokumentieren. Sie müssen mit den für die tatsächliche Risikosteuerung verwendeten Verfahren übereinstimmen. Die in Satz 1 genannten Verfahren und Optionspreismodelle sind der Bundesanstalt darzustellen. Die Bundesanstalt kann einem Wohnungsunternehmen mit Spareinrichtung die Verwendung eines ungeeigneten Optionspreismodells untersagen und die Verwendung eines geeigneten Optionspreismodells verlangen, wenn dies nach Art, Umfang oder Struktur der Optionsgeschäfte des Wohnungsunternehmens mit Spareinrichtung zur adäquaten Erfassung und Eigenkapitalunterlegung der mit diesen Geschäften verbundenen Risiken geboten erscheint.
 
-
-## § 65 – Ermittlung und Anrechnung der Rohwarenposition
+# § 65 – Ermittlung und Anrechnung der Rohwarenposition
 
 (1) Die Rohwarenposition ist täglich bei Geschäftsschluss aus den Unterschiedsbeträgen aus den mit den Kassamarktpreisen der Rohwaren bewerteten und in die Währung der Rechnungslegung umgerechneten Aktiv- und Passivpositionen (offene Rohwareneinzelpositionen) getrennt für jede Rohware festzustellen. Die Ermittlung des Anrechnungsbetrags hat nach Absatz 5 oder nach § 66 zu erfolgen.
 
@@ -966,8 +897,7 @@ ist dies unverzüglich bei der Bundesanstalt zu beantragen.
 
 (5) Zur Ermittlung des Anrechnungsbetrags sind die offenen Rohwareneinzelpositionen ungeachtet ihrer aktivischen oder passivischen Ausrichtung zusammenzufassen und mit 15 Prozent zu gewichten. Die Beträge der Aktiv- und Passivpositionen sind ungeachtet ihrer aktivischen oder passivischen Ausrichtung zusammenzufassen und in Höhe von 3 Prozent der Summe nach Satz 1 hinzuzurechnen.
 
-
-## § 66 – Zeitfächermethode
+# § 66 – Zeitfächermethode
 
 (1) Ein Wohnungsunternehmen mit Spareinrichtung darf nach dauerhafter Wahl den Anrechnungsbetrag für die Rohwarenposition aus den Teilanrechnungsbeträgen für die offenen Rohwareneinzelpositionen mit Hilfe eines für jede Rohware getrennt aufzustellenden, zeitlich gegliederten Risiko-Erfassungssystems für die in Tabelle 7 der Anlage 1 genannten sieben aufeinander folgenden Anrechnungsbereichen (Zeitfächer) bestimmen.
 
@@ -975,8 +905,7 @@ ist dies unverzüglich bei der Bundesanstalt zu beantragen.
 
 (3) Die offene Bereichsposition eines jeden Anrechnungsbereichs ist, beginnend mit dem ersten in Absatz 1 in Verbindung mit Tabelle 7 der Anlage 1 aufgeführten Anrechnungsbereich, mit der offenen Bereichsposition des jeweils nächstfolgenden Anrechnungsbereichs zusammenzufassen und die aus dieser Zusammenfassung sich ergebenden, dem nächstfolgenden Anrechnungsbereich zuzuordnenden ausgeglichenen und offenen Bereichspositionen zu ermitteln. Jede der in die Zusammenfassung eingehenden offenen Bereichspositionen ist mit 0,6 Prozent je Anrechnungsbereich zu gewichten und dem Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen. Die sich aus der Zusammenfassung ergebenden ausgeglichenen Bereichspositionen sind mit 3 Prozent zu gewichten und dem Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen. Die verbleibende offene Bereichsposition ist mit 15 Prozent zu gewichten und dem Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen.
 
-
-## § 67 – Ermittlung und Anrechnung der anderen Marktrisikopositionen
+# § 67 – Ermittlung und Anrechnung der anderen Marktrisikopositionen
 
 (1) Für die Ermittlung der Anrechnungsbeträge aus anderen Marktrisikopositionen sind alle zum Geschäftsschluss des aktuellen Handelstags im Bestand des Wohnungsunternehmens mit Spareinrichtung befindlichen Kontrakte, die sich auf gleichartige Basiswerte beziehen, jeweils zu einem Marktrisikoportfolio (aktuelles Marktrisikoportfolio) zusammenzufassen. In ein Marktrisikoportfolio dürfen nach einheitlicher und dauerhafter Wahl eines Wohnungsunternehmens mit Spareinrichtung und mit vorheriger Zustimmung der Bundesanstalt einzelne Kontrakte eines anderen Marktrisikoportfolios verschoben werden, wenn ein nachweisbarer Sicherungszusammenhang mit Kontrakten in diesem Marktrisikoportfolio in Bezug auf die für dieses Marktrisikoportfolio relevanten Marktrisiken besteht. Die Zustimmung gilt als erteilt, wenn das Wohnungsunternehmen mit Spareinrichtung die Zusammenführung formlos beantragt und die Bundesanstalt nicht innerhalb von drei Monaten nach Eingang des Antrags widerspricht. Der Antrag muss Geschäftsart und -umfang in den betroffenen Marktrisikopositionen sowie Nachweise zum Sicherungszusammenhang enthalten. Der Antrag ist jährlich per Meldestichtag 31. Dezember für das folgende Jahr und bei geplanten oder tatsächlichen Abweichungen bei der Bundesanstalt einzureichen.
 
@@ -990,18 +919,15 @@ ist dies unverzüglich bei der Bundesanstalt zu beantragen.
 
 (6) Portfolioadäquate Krisenszenarien sind regelmäßig, mindestens monatlich, durchzuführen. Das Wohnungsunternehmen mit Spareinrichtung hat nachweislich und in angemessener Weise die Ergebnisse der Krisenszenarien in das System der risikobegrenzenden Limite einzubeziehen.
 
-
-## § 68 – Übergangsbestimmungen für die Eigenkapitalausstattung und -berechnung
+# § 68 – Übergangsbestimmungen für die Eigenkapitalausstattung und -berechnung
 
 Bis zum 31. Dezember 2015 darf ein Wohnungsunternehmen mit Spareinrichtung ein KSA-Risikogewicht von 0 Prozent im Sinne des § 17 Absatz 3 Nummer 2 berücksichtigen, wenn die Erfüllung von einer Zentralregierung oder Zentralnotenbank eines anderen Staates des Europäischen Wirtschaftsraums geschuldet und die Erfüllung in einer Landeswährung eines Staates des Europäischen Wirtschaftsraums geschuldet und refinanziert wird.
 
-
-## § 69 – Inkrafttreten
+# § 69 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 2013, 4260 - 4261)
 
@@ -1031,8 +957,7 @@ Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
  
 
-
-## Anlage 2 – (zu § 5 Absatz 1) EUEBW Anforderungen an die Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung
+# Anlage 2 – (zu § 5 Absatz 1) EUEBW Anforderungen an die Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung
 
 (Fundstelle: BGBl. I 2013, 4262 - 4263)
 

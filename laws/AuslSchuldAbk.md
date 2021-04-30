@@ -1,5 +1,3 @@
-# [AuslSchuldAbk] Abkommen über deutsche Auslandsschulden
-
-Ausfertigungsdatum: 27.02.1953
-
+% Abkommen über deutsche Auslandsschulden
+% Ausfertigungsdatum: 27.02.1953
  

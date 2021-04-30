@@ -1,5 +1,3 @@
-# [StrGerErkl] Erklärungen zur Strafgerichtsbarkeit
-
-Ausfertigungsdatum: 29.04.1998
-
+% Erklärungen zur Strafgerichtsbarkeit
+% Ausfertigungsdatum: 29.04.1998
  

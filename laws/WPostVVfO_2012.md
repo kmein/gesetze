@@ -1,5 +1,3 @@
-# [WPostVVfO 2012] Allgemeine Verfahrensordnung des Weltpostvereins
-
-Ausfertigungsdatum: 11.10.2012
-
+% Allgemeine Verfahrensordnung des Weltpostvereins
+% Ausfertigungsdatum: 11.10.2012
  

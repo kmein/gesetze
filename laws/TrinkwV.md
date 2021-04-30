@@ -1,15 +1,11 @@
-# [TrinkwV] Verordnung über die Qualität von Wasser für den menschlichen Gebrauch    (Trinkwasserverordnung - TrinkwV)
-
-Ausfertigungsdatum: 21.05.2001
-
+% Verordnung über die Qualität von Wasser für den menschlichen Gebrauch    (Trinkwasserverordnung - TrinkwV)
+% Ausfertigungsdatum: 21.05.2001
  
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Zweck der Verordnung ist es, die menschliche Gesundheit vor den nachteiligen Einflüssen, die sich aus der Verunreinigung von Wasser ergeben, das für den menschlichen Gebrauch bestimmt ist, durch Gewährleistung seiner Genusstauglichkeit und Reinheit nach Maßgabe der folgenden Vorschriften zu schützen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Qualität von Wasser für den menschlichen Gebrauch, im Folgenden als Trinkwasser bezeichnet. Sie gilt nicht für
 
@@ -35,8 +31,7 @@ b) sich in Fließrichtung hinter der Sicherungseinrichtung nach Buchstabe a Dopp
 
 (2) Für Anlagen und Wasser aus Anlagen, die zur Entnahme oder Abgabe von Wasser bestimmt sind, das nicht die Qualität von Trinkwasser hat, und die zusätzlich zu den Wasserversorgungsanlagen nach § 3 Nummer 2 installiert werden können, gilt diese Verordnung nur, soweit sie darauf ausdrücklich Bezug nimmt.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -88,11 +83,9 @@ zeitweise an eine Anlage nach Buchstabe a, b oder Buchstabe e angeschlossen sind
 
 9. ist „technischer Maßnahmenwert“ ein Wert, bei dessen Überschreitung eine von der Trinkwasser-Installation ausgehende vermeidbare Gesundheitsgefährdung zu besorgen ist und Maßnahmen zur hygienisch-technischen Überprüfung der Trinkwasser-Installation im Sinne einer Gefährdungsanalyse eingeleitet werden;
 
-9a.  
-ist „Parameterwert für radioaktive Stoffe“ ein Wert für radioaktive Stoffe im Trinkwasser, bei dessen Überschreitung die zuständige Behörde prüft, ob das Vorhandensein radioaktiver Stoffe im Trinkwasser ein Risiko für die menschliche Gesundheit darstellt, das ein Handeln erfordert;
+9a. ist „Parameterwert für radioaktive Stoffe“ ein Wert für radioaktive Stoffe im Trinkwasser, bei dessen Überschreitung die zuständige Behörde prüft, ob das Vorhandensein radioaktiver Stoffe im Trinkwasser ein Risiko für die menschliche Gesundheit darstellt, das ein Handeln erfordert;
 
-9b.  
-ist „Richtdosis“ die effektive Folgedosis für die Aufnahme von Trinkwasser während eines Jahres, die sich aus allen Radionukliden sowohl natürlichen als auch künstlichen Ursprungs ergibt, welche im Trinkwasser nachgewiesen wurden, mit Ausnahme von Tritium und Radon-222 sowie Kalium-40 und kurzlebigen Radon-Zerfallsprodukten;
+9b. ist „Richtdosis“ die effektive Folgedosis für die Aufnahme von Trinkwasser während eines Jahres, die sich aus allen Radionukliden sowohl natürlichen als auch künstlichen Ursprungs ergibt, welche im Trinkwasser nachgewiesen wurden, mit Ausnahme von Tritium und Radon-222 sowie Kalium-40 und kurzlebigen Radon-Zerfallsprodukten;
 
 10. ist „gewerbliche Tätigkeit“ die unmittelbare oder mittelbare, zielgerichtete Trinkwasserbereitstellung im Rahmen einer Vermietung oder einer sonstigen selbstständigen, regelmäßigen und in Gewinnerzielungsabsicht ausgeübten Tätigkeit;
 
@@ -118,8 +111,7 @@ d) von sonstigen Erkenntnissen über die Wasserbeschaffenheit, die Wasserversorg
 
 e) von Laborbefunden und deren örtlicher Zuordnung.
 
-
-## § 4 – Allgemeine Anforderungen
+# § 4 – Allgemeine Anforderungen
 
 (1) Trinkwasser muss so beschaffen sein, dass durch seinen Genuss oder Gebrauch eine Schädigung der menschlichen Gesundheit insbesondere durch Krankheitserreger nicht zu besorgen ist. Es muss rein und genusstauglich sein. Diese Anforderung gilt als erfüllt, wenn
 
@@ -141,8 +133,7 @@ e) von Laborbefunden und deren örtlicher Zuordnung.
 
 2. das Gesundheitsamt nach § 9 Absatz 6 festgelegt hat, dass Mikroorganismen oder chemische Stoffe im Trinkwasser enthalten sein dürfen.
 
-
-## § 5 – Mikrobiologische Anforderungen
+# § 5 – Mikrobiologische Anforderungen
 
 (1) Im Trinkwasser dürfen Krankheitserreger im Sinne des § 2 Nummer 1 des Infektionsschutzgesetzes, die durch Wasser übertragen werden können, nicht in Konzentrationen enthalten sein, die eine Schädigung der menschlichen Gesundheit besorgen lassen.
 
@@ -154,8 +145,7 @@ e) von Laborbefunden und deren örtlicher Zuordnung.
 
 (5) Soweit der Unternehmer und der sonstige Inhaber einer Wasserversorgungs- oder Wassergewinnungsanlage oder ein von ihnen Beauftragter hinsichtlich mikrobieller Belastungen des Rohwassers Tatsachen feststellen, die zum Auftreten einer übertragbaren Krankheit im Sinne des § 2 Nummer 3 des Infektionsschutzgesetzes führen können, oder annehmen, dass solche Tatsachen vorliegen, muss eine Aufbereitung, erforderlichenfalls unter Einschluss einer Desinfektion, nach den allgemein anerkannten Regeln der Technik unter Beachtung von § 6 Absatz 3 erfolgen. In Leitungsnetzen oder Teilen davon, in denen die Anforderungen nach Absatz 1 oder 2 nur durch Desinfektion eingehalten werden können, müssen der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a und b, oder, sofern die Trinkwasserbereitstellung im Rahmen einer gewerblichen oder öffentlichen Tätigkeit erfolgt, nach Buchstabe d oder Buchstabe f eine hinreichende Desinfektionskapazität durch freies Chlor, Chlordioxid oder andere geeignete Desinfektionsmittel oder -verfahren, die gemäß § 11 in einer Liste des Umweltbundesamtes aufgeführt sind, vorhalten.
 
-
-## § 6 – Chemische Anforderungen
+# § 6 – Chemische Anforderungen
 
 (1) Im Trinkwasser dürfen chemische Stoffe nicht in Konzentrationen enthalten sein, die eine Schädigung der menschlichen Gesundheit besorgen lassen.
 
@@ -163,20 +153,17 @@ e) von Laborbefunden und deren örtlicher Zuordnung.
 
 (3) Konzentrationen von chemischen Stoffen, die das Trinkwasser verunreinigen oder seine Beschaffenheit nachteilig beeinflussen können, sollen so niedrig gehalten werden, wie dies nach den allgemein anerkannten Regeln der Technik mit vertretbarem Aufwand unter Berücksichtigung von Einzelfällen möglich ist.
 
-
-## § 7 – Indikatorparameter
+# § 7 – Indikatorparameter
 
 (1) Im Trinkwasser müssen die in Anlage 3 festgelegten Grenzwerte und Anforderungen für Indikatorparameter eingehalten sein. Dies gilt nicht für den technischen Maßnahmenwert in Anlage 3 Teil II.
 
 (2) Im Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist, darf der in Anlage 3 Teil I laufende Nummer 5 festgelegte Grenzwert nicht überschritten werden.
 
-
-## § 7a – Radiologische Anforderungen
+# § 7a – Radiologische Anforderungen
 
 Trinkwasser darf keine Stoffe aufweisen, die ein oder mehrere Radionuklide enthalten, deren Aktivität oder Konzentration unter dem Gesichtspunkt des Strahlenschutzes nicht außer Acht gelassen werden kann. Diese Anforderung gilt als erfüllt, wenn die in Anlage 3a Teil I festgelegten Parameterwerte für radioaktive Stoffe nicht überschritten werden.
 
-
-## § 8 – Stelle der Einhaltung
+# § 8 – Stelle der Einhaltung
 
 Die allgemeinen Anforderungen nach § 5 Absatz 1 und § 6 Absatz 1, die nach § 5 Absatz 2 und 3 sowie § 6 Absatz 2 festgelegten Grenzwerte, die nach § 7 festgelegten Grenzwerte und Anforderungen sowie die Anforderung nach § 7a gelten
 
@@ -188,8 +175,7 @@ Die allgemeinen Anforderungen nach § 5 Absatz 1 und § 6 Absatz 1, die nach § 
 
 4. bei Trinkwasser, das zur Abgabe in verschlossenen Behältnissen bestimmt ist, am Punkt der Abfüllung.
 
-
-## § 9 – Maßnahmen im Falle der Nichteinhaltung von Grenzwerten, der Nichterfüllung von Anforderungen, der Überschreitung von technischen Maßnahmenwerten sowie der Überschreitung von Parameterwerten für radioaktive Stoffe
+# § 9 – Maßnahmen im Falle der Nichteinhaltung von Grenzwerten, der Nichterfüllung von Anforderungen, der Überschreitung von technischen Maßnahmenwerten sowie der Überschreitung von Parameterwerten für radioaktive Stoffe
 
 (1) Wird dem Gesundheitsamt bekannt, dass in einem Wasserversorgungsgebiet die in den §§ 5 bis 7 in Verbindung mit den Anlagen 1 bis 3 festgelegten Grenzwerte nicht eingehalten oder die Anforderungen nicht erfüllt sind, hat es unverzüglich zu entscheiden, ob dadurch die Gesundheit der betroffenen Verbraucher gefährdet ist und ob die betroffene Wasserversorgungsanlage oder Teile davon bis auf Weiteres weiterbetrieben werden können. Dabei hat es auch die Gefahren zu berücksichtigen, die für die menschliche Gesundheit entstehen würden, wenn die Bereitstellung von Trinkwasser unterbrochen oder seine Entnahme oder Verwendung eingeschränkt würde. Das Gesundheitsamt informiert den Unternehmer oder den sonstigen Inhaber der verursachenden Wasserversorgungsanlagen unverzüglich über seine Entscheidung und ordnet Maßnahmen an, die zur Abwendung der Gefahr für die menschliche Gesundheit erforderlich sind. Ist die Ursache der Nichteinhaltung oder Nichterfüllung unbekannt, ordnet das Gesundheitsamt eine unverzügliche Untersuchung an oder führt sie selbst durch. Ist die Ursache der Nichteinhaltung oder Nichterfüllung auf eine Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe e zurückzuführen, gilt Absatz 7.
 
@@ -223,8 +209,7 @@ Bei Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe e, die nicht im Rahmen
 
 (9) Für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c gelten die Absätze 1 bis 5 sowie 6 und 7 entsprechend. Bei Nichteinhaltung oder Nichterfüllung der in § 6 festgelegten Grenzwerte oder Anforderungen kann das Gesundheitsamt nach Prüfung im Einzelfall und nach Zustimmung der zuständigen obersten Landesbehörde oder einer von dieser benannten Stelle von der Anordnung von Maßnahmen absehen, soweit eine Gefährdung der menschlichen Gesundheit ausgeschlossen werden kann. Das Gesundheitsamt legt fest, bis zu welchem Wert und für welchen Zeitraum die Nichteinhaltung oder Nichterfüllung geduldet wird.
 
-
-## § 10 – Zulassung der Abweichung von Grenzwerten für chemische Parameter
+# § 10 – Zulassung der Abweichung von Grenzwerten für chemische Parameter
 
 (1) Gelangt das Gesundheitsamt bei der Prüfung nach § 9 Absatz 1 Satz 1 zu dem Ergebnis, dass eine Abweichung vom Grenzwert eines Parameters nach Anlage 2 nicht zu einer Gefährdung der menschlichen Gesundheit führt und durch Maßnahmen gemäß § 9 Absatz 4 innerhalb von höchstens 30 Tagen behoben werden kann, legt es den Wert, der für diesen Parameter während dieses Zeitraums zulässig ist, sowie die Frist fest, die zur Behebung der Abweichung eingeräumt ist. Satz 1 gilt nicht, wenn der betreffende Grenzwert bereits während der zwölf Monate, die der Prüfung vorangegangen sind, über insgesamt mehr als 30 Tage nicht eingehalten worden ist.
 
@@ -268,8 +253,7 @@ Die Mitteilungen erfolgen in dem von der Europäischen Kommission nach Artikel 1
 
 (9) Die Absätze 1 bis 8 gelten nicht für Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c.
 
-
-## § 11 – Aufbereitungsstoffe und Desinfektionsverfahren
+# § 11 – Aufbereitungsstoffe und Desinfektionsverfahren
 
 (1) Während der Gewinnung, Aufbereitung und Verteilung des Trinkwassers dürfen nur Aufbereitungsstoffe verwendet werden, die in einer Liste des Bundesministeriums für Gesundheit enthalten sind. Die Liste hat bezüglich der Verwendung dieser Stoffe Anforderungen zu enthalten über die
 
@@ -309,15 +293,13 @@ werden in die in Absatz 1 genannte Liste aufgenommen, wenn das Umweltbundesamt f
 
 (7) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben bei der Zugabe von Aufbereitungsstoffen und dem Einsatz von Desinfektionsverfahren die Anforderungen nach Absatz 1 Satz 1 oder einer Ausnahmegenehmigung nach § 12 zu erfüllen. Sie dürfen Wasser nicht als Trinkwasser abgeben und anderen nicht als Trinkwasser zur Verfügung stellen, wenn das Wasser ohne eine Ausnahmegenehmigung nach § 12 mit Aufbereitungsstoffen oder Desinfektionsverfahren aufbereitet wurde, für die das Umweltbundesamt nicht nach den Absätzen 1 bis 3 festgestellt hat, dass die Aufbereitungsstoffe oder Desinfektionsverfahren hinreichend wirksam sind und keine vermeidbaren oder unvertretbaren Auswirkungen auf die Gesundheit und die Umwelt haben.
 
-
-## § 12 – Ausnahmegenehmigungen
+# § 12 – Ausnahmegenehmigungen
 
 (1) Ist für die Entscheidung nach § 11 Absatz 3 Satz 1 die Erprobung eines Aufbereitungsstoffes oder Desinfektionsverfahrens erforderlich, so kann das Umweltbundesamt auf Antrag befristete Ausnahmen von § 11 Absatz 1 Satz 1 und 5 sowie Absatz 2 genehmigen, wenn Tatsachen die Annahme rechtfertigen, dass durch die Erprobung keine Gefährdung der Gesundheit oder der Umwelt zu erwarten ist. Die Ausnahmegenehmigung ist auf das notwendige Maß zu beschränken und zu befristen. § 11 Absatz 1 Satz 6 gilt entsprechend.
 
 (2) Das Umweltbundesamt kann die Ausnahmegenehmigung widerrufen, wenn sich Anhaltspunkte dafür ergeben, dass der Aufbereitungsstoff oder das Desinfektionsverfahren den Anforderungen des § 11 Absatz 3 Satz 1 nicht genügt.
 
-
-## § 13 – Anzeigepflichten
+# § 13 – Anzeigepflichten
 
 (1) Dem Gesundheitsamt ist schriftlich oder elektronisch anzuzeigen:
 
@@ -355,8 +337,7 @@ werden in die in Absatz 1 genannte Liste aufgenommen, wenn das Umweltbundesamt f
 
 (4) Der Unternehmer und der sonstige Inhaber von Anlagen, die zur Entnahme oder Abgabe von Wasser bestimmt sind, das keine Trinkwasserqualität hat, und die im Haushalt zusätzlich zu den Wasserversorgungsanlagen nach § 3 Nummer 2 installiert sind, haben den Bestand unverzüglich der zuständigen Behörde anzuzeigen. Im Übrigen gelten die Anzeigepflichten für Wasserversorgungsanlagen nach Absatz 1 Nummer 1, 2 und 4 sowie Absatz 3 Nummer 1 und 2 entsprechend.
 
-
-## § 14 – Untersuchungspflichten
+# § 14 – Untersuchungspflichten
 
 (1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a oder Buchstabe b haben unter Beachtung von Absatz 6 folgende Untersuchungen des Trinkwassers gemäß Absatz 2 Satz 1 und § 15 Absatz 1, 1a Satz 1 und 2 durchzuführen oder durchführen zu lassen, um sicherzustellen, dass das Trinkwasser an der Stelle, an der es in die Trinkwasser-Installation übergeben wird, den Anforderungen dieser Verordnung entspricht:
 
@@ -420,8 +401,7 @@ In Bezug auf Parameter der Anlage 1 Teil I sowie Parameter der Anlage 3 Teil I l
 
 (6) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben die Untersuchungen nach den Absätzen 1 bis 5 durch eine Untersuchungsstelle durchführen zu lassen, die nach § 15 Absatz 4 zugelassen ist. Ein Untersuchungsauftrag muss sich auch auf die jeweils dazugehörende Probennahme erstrecken.
 
-
-## § 14a – Untersuchungspflichten in Bezug auf radioaktive Stoffe
+# § 14a – Untersuchungspflichten in Bezug auf radioaktive Stoffe
 
 (1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a haben Untersuchungen des Trinkwassers durchzuführen oder durchführen zu lassen, um festzustellen, ob im Trinkwasser an der Stelle, an der es in die Trinkwasser-Installation übergeben wird, die nach § 7a in Verbindung mit Anlage 3a Teil I festgelegten Parameterwerte für radioaktive Stoffe nicht überschritten werden. § 19 Absatz 2c Satz 2 gilt entsprechend. Satz 1 gilt für den Unternehmer und sonstigen Inhaber einer Wasserversorgungsanlage gemäß § 3 Nummer 2 Buchstabe b, wenn die zuständige Behörde dies anordnet. Untersuchungen des Trinkwassers im Hinblick auf Radionuklide künstlichen Ursprungs sind in der Regel nicht erforderlich. Die Behörde kann Untersuchungen im Hinblick auf Radionuklide künstlichen Ursprungs anordnen, wenn Anhaltspunkte vorliegen, dass die in Anlage 3a Teil I festgelegten Parameterwerte für radioaktive Stoffe überschritten werden können.
 
@@ -435,8 +415,7 @@ In Bezug auf Parameter der Anlage 1 Teil I sowie Parameter der Anlage 3 Teil I l
 
 2. dass regelmäßige Untersuchungen nicht erforderlich sind, wenn der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage die Einhaltung der Parameterwerte für radioaktive Stoffe gemäß Anlage 3a Teil I oder eine geringfügige, unter dem Gesichtspunkt des Strahlenschutzes zu vernachlässigende Überschreitung gemäß dem in Anlage 3a Teil III beschriebenen Verfahren durch Erstuntersuchungen nachweist.
 
-
-## § 14b – Untersuchungspflichten in Bezug auf Legionella spec.
+# § 14b – Untersuchungspflichten in Bezug auf Legionella spec.
 
 (1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe d oder Buchstabe e haben das Trinkwasser in der Wasserversorgungsanlage auf den Parameter Legionella spec. durch systemische Untersuchungen gemäß Absatz 4, 5 Satz 1 und Absatz 6 zu untersuchen oder untersuchen zu lassen, wenn
 
@@ -464,8 +443,7 @@ b) im Übrigen mindestens einmal jährlich, sofern nicht das Gesundheitsamt nach
 
 (6) Die erste Untersuchung nach Absatz 1 ist bei einer ab dem 9. Januar 2018 neu in Betrieb genommenen Wasserversorgungsanlage innerhalb von drei bis zwölf Monaten nach der Inbetriebnahme durchzuführen.
 
-
-## § 15 – Untersuchungsverfahren und Untersuchungsstellen
+# § 15 – Untersuchungsverfahren und Untersuchungsstellen
 
 (1) Die Proben für die Untersuchungen des Trinkwassers nach dieser Verordnung auf die in den Anlagen 1, 2 und 3 Teil I genannten Parameter sind gemäß Anlage 5 Teil II nach den allgemein anerkannten Regeln der Technik zu nehmen.
 
@@ -530,8 +508,7 @@ Die zuständige oberste Landesbehörde oder die von ihr benannte Stelle hat eine
 
 (6) Die zuständige oberste Landesbehörde oder die von ihr benannte Stelle überprüft regelmäßig, ob die von dem jeweiligen Land zugelassenen Untersuchungsstellen die Voraussetzungen nach Absatz 4 Satz 3 und Absatz 5 weiterhin erfüllen.
 
-
-## § 15a – Anzeigepflicht für Untersuchungsstellen
+# § 15a – Anzeigepflicht für Untersuchungsstellen
 
 (1) Führt eine Untersuchungsstelle nach § 15 Absatz 4 Satz 1 Untersuchungen nach § 14b Absatz 1 durch, ist sie verpflichtet, von ihr festgestellte Überschreitungen des in Anlage 3 Teil II festgelegten technischen Maßnahmenwertes unverzüglich dem für die Wasserversorgungsanlage zuständigen Gesundheitsamt anzuzeigen.
 
@@ -551,8 +528,7 @@ Die zuständige oberste Landesbehörde oder die von ihr benannte Stelle hat eine
 
 Die zuständige oberste Landesbehörde oder eine andere nach Landesrecht zuständige Stelle kann bestimmen, dass für die Anzeige einheitliche Vordrucke zu verwenden oder einheitliche elektronische Datenverarbeitungsverfahren anzuwenden sind.
 
-
-## § 16 – Besondere Anzeige- und Handlungspflichten
+# § 16 – Besondere Anzeige- und Handlungspflichten
 
 (1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben dem Gesundheitsamt, falls es sich um radioaktive Stoffe im Trinkwasser handelt der zuständigen Behörde, unverzüglich anzuzeigen,
 
@@ -560,8 +536,7 @@ Die zuständige oberste Landesbehörde oder eine andere nach Landesrecht zustän
 
 2. wenn die Anforderungen des § 5 Absatz 1 oder des § 6 Absatz 1 nicht erfüllt oder die Grenzwerte oder Anforderungen des § 7 in Verbindung mit Anlage 3 nicht eingehalten sind,
 
-2a.  
-wenn die Parameterwerte für radioaktive Stoffe des § 7a in Verbindung mit Anlage 3a Teil I überschritten werden,
+2a. wenn die Parameterwerte für radioaktive Stoffe des § 7a in Verbindung mit Anlage 3a Teil I überschritten werden,
 
 3. wenn Grenzwerte oder Mindestanforderungen für Parameter nicht eingehalten werden, für die das Gesundheitsamt eine Untersuchung nach § 20 Absatz 1 Nummer 4 angeordnet hat, oder
 
@@ -595,8 +570,7 @@ Der Maßnahmeplan muss spätestens zur Inbetriebnahme vorliegen, ist bei wesentl
 
 Der Unternehmer und der sonstige Inhaber teilen dem Gesundheitsamt unverzüglich die von ihnen ergriffenen Maßnahmen mit. Zu den Maßnahmen nach Satz 1 haben der Unternehmer und der sonstige Inhaber Aufzeichnungen zu führen oder führen zu lassen. Die Aufzeichnungen haben sie nach dem Abschluss der erforderlichen Maßnahmen nach Satz 1 Nummer 3 zehn Jahre lang verfügbar zu halten und dem Gesundheitsamt auf Anforderung unverzüglich vorzulegen. Bei der Durchführung von Maßnahmen nach Satz 1 Nummer 2 und 3 haben der Unternehmer und der sonstige Inhaber die Empfehlungen des Umweltbundesamtes zu beachten. Über das Ergebnis der Gefährdungsanalyse und sich möglicherweise daraus ergebende Einschränkungen der Verwendung des Trinkwassers haben der Unternehmer und der sonstige Inhaber der Wasserversorgungsanlage unverzüglich die betroffenen Verbraucher zu informieren.
 
-
-## § 17 – Anforderungen an Anlagen für die Gewinnung, Aufbereitung oder Verteilung von Trinkwasser
+# § 17 – Anforderungen an Anlagen für die Gewinnung, Aufbereitung oder Verteilung von Trinkwasser
 
 (1) Anlagen für die Gewinnung, Aufbereitung oder Verteilung von Trinkwasser sind mindestens nach den allgemein anerkannten Regeln der Technik zu planen, zu bauen und zu betreiben.
 
@@ -628,8 +602,7 @@ Das Umweltbundesamt entscheidet, für welche Werkstoff- oder Materialgruppen es 
 
 (7) Bei der Gewinnung, Aufbereitung und Verteilung von Trinkwasser dürfen nur Stoffe oder Gegenstände im Kontakt mit dem Roh- oder Trinkwasser verwendet und nur physikalische oder chemische Verfahren angewendet werden, die bestimmungsgemäß der Trinkwasserversorgung dienen. Bereits eingebrachte Stoffe oder Gegenstände, die bestimmungsgemäß nicht der Trinkwasserversorgung dienen, müssen bis zum 9. Januar 2025 aus dem Roh- oder Trinkwasser entfernt werden. Satz 2 gilt entsprechend für bereits eingesetzte Verfahren, die bestimmungsgemäß nicht der Trinkwasserversorgung dienen.
 
-
-## § 18 – Überwachung durch das Gesundheitsamt
+# § 18 – Überwachung durch das Gesundheitsamt
 
 (1) Das Gesundheitsamt überwacht die Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a, b, c und f hinsichtlich der Einhaltung der Anforderungen dieser Verordnung durch entsprechende Prüfungen. Die Überwachung erstreckt sich auch auf die Wasserversorgungsanlagen
 
@@ -667,8 +640,7 @@ Zu den Unterlagen nach Nummer 2 gehören insbesondere die Protokolle über die U
 
 (5) Für die Überwachung von radioaktiven Stoffen gilt § 20a.
 
-
-## § 19 – Umfang der Überwachung
+# § 19 – Umfang der Überwachung
 
 (1) Im Rahmen der Überwachung nach § 18 hat das Gesundheitsamt die Erfüllung der Pflichten zu prüfen, die dem Unternehmer und dem sonstigen Inhaber einer Wasserversorgungsanlage auf Grund dieser Verordnung obliegen. Die Prüfungen umfassen auch die Besichtigungen der Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a, b und c einschließlich der dazugehörigen Schutzzonen, oder, wenn solche nicht festgesetzt sind, der Umgebung der Wasserfassungsanlage, soweit sie für die Wassergewinnung von Bedeutung ist, sowie die Entnahme und Untersuchung von Wasserproben. Das Gesundheitsamt entscheidet nach eigenem Ermessen, ob es Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe d, e und f besichtigt. § 9 Absatz 8 bleibt unberührt. Den Umfang der Untersuchungen nach Satz 2 legt das Gesundheitsamt unter Beachtung der Probennahmeplanung nach § 14 und des Probennahmeplans nach den Absätzen 2 bis 2b fest. Für das Untersuchungsverfahren gilt § 15 Absatz 1 bis 2, und für die Aufzeichnung der Untersuchungsergebnisse gilt § 15 Absatz 3 Satz 1 bis 3 entsprechend. Für die Häufigkeit der Überwachung gilt Absatz 5.
 
@@ -708,8 +680,7 @@ Zu den Unterlagen nach Nummer 2 gehören insbesondere die Protokolle über die U
 
 (8) Für den Umfang der Überwachung von radioaktiven Stoffen gilt § 20a.
 
-
-## § 20 – Anordnungen des Gesundheitsamtes
+# § 20 – Anordnungen des Gesundheitsamtes
 
 (1) Wenn es unter Berücksichtigung der Umstände des Einzelfalles zum Schutz der menschlichen Gesundheit oder zur Sicherstellung einer einwandfreien Beschaffenheit des Trinkwassers erforderlich ist, kann das Gesundheitsamt anordnen, dass der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage
 
@@ -739,8 +710,7 @@ die eine Schädigung der menschlichen Gesundheit besorgen lassen,
 
 (3) Für Anordnungen der zuständigen Behörde in Bezug auf radioaktive Stoffe gilt § 20a.
 
-
-## § 20a – Überwachung durch die zuständige Behörde im Hinblick auf radioaktive Stoffe
+# § 20a – Überwachung durch die zuständige Behörde im Hinblick auf radioaktive Stoffe
 
 (1) Die zuständige Behörde überwacht die Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe a und, sofern eine Untersuchung von Parameterwerten für radioaktive Stoffe angeordnet wurde, nach § 3 Nummer 2 Buchstabe b hinsichtlich der Erfüllung von Anzeige-  und Handlungspflichten im Hinblick auf radioaktive Stoffe im Trinkwasser durch entsprechende Prüfungen. Wasserversorgungsanlagen nach § 3 Nummer 2 Buchstabe c können in die Überwachung einbezogen werden, und die zuständige Behörde kann erforderliche Maßnahmen anordnen, sofern sie dies zum Schutz der menschlichen Gesundheit für erforderlich hält. § 18 Absatz 2 bis 4 gilt entsprechend.
 
@@ -764,8 +734,7 @@ durchzuführen oder durchführen zu lassen haben.
 
 (5) Eine Überwachung durch die zuständige Behörde im Hinblick auf radioaktive Stoffe entfällt, wenn sie nach § 14a Absatz 4 Satz 1 festgestellt hat, dass radioaktive Stoffe in dem Wasserversorgungsgebiet nicht in Konzentrationen auftreten, die eine Überschreitung von Parameterwerten für radioaktive Stoffe erwarten lassen.
 
-
-## § 21 – Information der Verbraucher und Berichtspflichten
+# § 21 – Information der Verbraucher und Berichtspflichten
 
 (1) Der Unternehmer und der sonstige Inhaber einer Wasserversorgungsanlage haben den betroffenen Verbrauchern mindestens jährlich geeignetes und aktuelles Informationsmaterial über die Qualität des bereitgestellten Trinkwassers zu übermitteln, wenn es sich um eine der folgenden Wasserversorgungsanlagen handelt:
 
@@ -795,25 +764,21 @@ Auf Nachfrage sind den betroffenen Verbrauchern Einzelergebnisse der in Satz 2 g
 
 (3) Das Gesundheitsamt übermittelt der zuständigen obersten Landesbehörde oder der von dieser benannten Stelle jeweils bis zum 15. März die über die Qualität des Trinkwassers erforderlichen Angaben für das vorangegangene Kalenderjahr unter Beachtung des § 19 für Wasserversorgungsgebiete, in denen pro Tag mindestens 10 Kubikmeter Trinkwasser abgegeben werden oder in denen mindestens 50 Personen versorgt werden. Die zu übermittelnden Angaben müssen den Anforderungen des § 19 Absatz 2 bis 2c genügen. Die zuständige oberste Landesbehörde kann bestimmen, dass die Angaben auf Datenträgern oder auf anderem elektronischen Weg übermittelt werden und dass die übermittelten Daten mit der von ihr bestimmten Schnittstelle kompatibel sind. Die zuständige oberste Landesbehörde oder eine von ihr benannte Stelle leitet ihren Bericht bis zum 15. April desselben Jahres dem Bundesministerium für Gesundheit oder einer von diesem benannten Stelle zu. Der Bericht hat dem von der Europäischen Kommission nach Artikel 13 Absatz 4 der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32) festgelegten Format und den dort genannten Mindestinformationen in der vom Bundesministerium für Gesundheit nach Beteiligung der Länder mitgeteilten Form zu entsprechen. Darüber hinausgehende Formatvorgaben durch das Bundesministerium für Gesundheit, insbesondere für einheitliche EDV-Verfahren, bedürfen der Zustimmung des Bundesrates.
 
-
-## § 22 – Vollzug im Bereich der Bundeswehr
+# § 22 – Vollzug im Bereich der Bundeswehr
 
 Der Vollzug dieser Verordnung obliegt im Bereich der Bundeswehr sowie im Bereich der auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Truppen den zuständigen Stellen der Bundeswehr.
 
-
-## § 23 – Vollzug im Bereich der Eisenbahnen des Bundes
+# § 23 – Vollzug im Bereich der Eisenbahnen des Bundes
 
 Der Vollzug dieser Verordnung obliegt im Bereich der Eisenbahnen des Bundes für Wasserversorgungsanlagen in Schienenfahrzeugen sowie für Anlagen zur Befüllung von Schienenfahrzeugen dem Eisenbahn-Bundesamt. Es nimmt in seinem Zuständigkeitsbereich die Aufgaben und Befugnisse des Gesundheitsamtes, der zuständigen Behörde und der zuständigen obersten Landesbehörde mit Ausnahme der Aufgabe nach § 15 Absatz 4 wahr. Es ist in seinem Zuständigkeitsbereich auch zuständige Verwaltungsbehörde im Sinne von § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten.
 
-
-## § 24 – Straftaten
+# § 24 – Straftaten
 
 (1) Nach § 75 Absatz 2 und 4 des Infektionsschutzgesetzes wird bestraft, wer als Unternehmer oder als sonstiger Inhaber einer Wasserversorgungsanlage nach § 3 Nummer 2 Buchstabe a, b oder, sofern die Abgabe im Rahmen einer gewerblichen oder öffentlichen Tätigkeit erfolgt, einer Wasserversorgungsanlage nach Buchstabe d oder Buchstabe e oder einer Wasserversorgungsanlage nach Buchstabe f vorsätzlich oder fahrlässig entgegen § 4 Absatz 2 Satz 1 oder § 11 Absatz 7 Satz 2 Wasser als Trinkwasser abgibt oder anderen zur Verfügung stellt.
 
 (2) Wer durch eine in § 25 bezeichnete vorsätzliche Handlung eine in § 6 Absatz 1 Nummer 1 des Infektionsschutzgesetzes genannte Krankheit oder einen in § 7 des Infektionsschutzgesetzes genannten Krankheitserreger verbreitet, ist nach § 74 des Infektionsschutzgesetzes strafbar.
 
-
-## § 25 – Ordnungswidrigkeiten
+# § 25 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -825,8 +790,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 4. entgegen § 14 Absatz 1, § 14a Absatz 1 Satz 1 oder § 14b Absatz 1 eine Untersuchung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise durchführt und nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise durchführen lässt,
 
-4a.  
-einer vollziehbaren Anordnung nach § 14 Absatz 2 Satz 4 oder Satz 7 zuwiderhandelt,
+4a. einer vollziehbaren Anordnung nach § 14 Absatz 2 Satz 4 oder Satz 7 zuwiderhandelt,
 
 5. entgegen § 15 Absatz 3 Satz 1 das Untersuchungsergebnis nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig aufzeichnet,
 
@@ -836,8 +800,7 @@ einer vollziehbaren Anordnung nach § 14 Absatz 2 Satz 4 oder Satz 7 zuwiderhand
 
 8. entgegen § 16 Absatz 2 Satz 1 eine Untersuchung oder eine Sofortmaßnahme nicht oder nicht rechtzeitig durchführt und nicht oder nicht rechtzeitig durchführen lässt,
 
-8a.  
-entgegen § 16 Absatz 3 das Gesundheitsamt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+8a. entgegen § 16 Absatz 3 das Gesundheitsamt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
 
 9. entgegen § 16 Absatz 4 Satz 1 oder Satz 3 eine Aufzeichnung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht oder nicht oder nicht mindestens sechs Monate zugänglich hält,
 
@@ -845,39 +808,29 @@ entgegen § 16 Absatz 3 das Gesundheitsamt nicht, nicht richtig, nicht vollstän
 
 11. entgegen § 16 Absatz 5 Satz 1 einen Maßnahmeplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aufstellt,
 
-11a.  
-entgegen § 16 Absatz 7 Satz 1 Nummer 1 eine dort genannte Untersuchung nicht oder nicht rechtzeitig durchführt und nicht oder nicht rechtzeitig durchführen lässt,
+11a. entgegen § 16 Absatz 7 Satz 1 Nummer 1 eine dort genannte Untersuchung nicht oder nicht rechtzeitig durchführt und nicht oder nicht rechtzeitig durchführen lässt,
 
-11b.  
-entgegen § 16 Absatz 7 Satz 1 Nummer 2 eine Gefährdungsanalyse nicht oder nicht rechtzeitig erstellt und nicht oder nicht rechtzeitig erstellen lässt,
+11b. entgegen § 16 Absatz 7 Satz 1 Nummer 2 eine Gefährdungsanalyse nicht oder nicht rechtzeitig erstellt und nicht oder nicht rechtzeitig erstellen lässt,
 
-11c.  
-entgegen § 16 Absatz 7 Satz 1 Nummer 3 eine dort genannte Maßnahme nicht oder nicht rechtzeitig durchführt und nicht oder nicht rechtzeitig durchführen lässt,
+11c. entgegen § 16 Absatz 7 Satz 1 Nummer 3 eine dort genannte Maßnahme nicht oder nicht rechtzeitig durchführt und nicht oder nicht rechtzeitig durchführen lässt,
 
-11d.  
-entgegen § 16 Absatz 7 Satz 2 das Gesundheitsamt nicht unverzüglich über die ergriffenen Maßnahmen informiert,
+11d. entgegen § 16 Absatz 7 Satz 2 das Gesundheitsamt nicht unverzüglich über die ergriffenen Maßnahmen informiert,
 
-11e.  
-entgegen § 16 Absatz 7 Satz 3 eine dort genannte Aufzeichnung nicht führt oder nicht führen lässt,
+11e. entgegen § 16 Absatz 7 Satz 3 eine dort genannte Aufzeichnung nicht führt oder nicht führen lässt,
 
-11f.  
-entgegen § 16 Absatz 7 Satz 4 eine dort genannte Aufzeichnung nicht oder nicht mindestens zehn Jahre verfügbar hält oder nicht oder nicht rechtzeitig vorlegt,
+11f. entgegen § 16 Absatz 7 Satz 4 eine dort genannte Aufzeichnung nicht oder nicht mindestens zehn Jahre verfügbar hält oder nicht oder nicht rechtzeitig vorlegt,
 
-11g.  
-entgegen § 16 Absatz 7 Satz 6 einen Verbraucher nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
+11g. entgegen § 16 Absatz 7 Satz 6 einen Verbraucher nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert,
 
-11h.  
-entgegen § 17 Absatz 1 eine Anlage nicht richtig plant, nicht richtig baut oder nicht richtig betreibt,
+11h. entgegen § 17 Absatz 1 eine Anlage nicht richtig plant, nicht richtig baut oder nicht richtig betreibt,
 
-11i.  
-entgegen § 17 Absatz 2 Satz 2 nicht sicherstellt, dass nur Werkstoffe oder Materialien nach § 17 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 verwendet werden,
+11i. entgegen § 17 Absatz 2 Satz 2 nicht sicherstellt, dass nur Werkstoffe oder Materialien nach § 17 Absatz 2 Satz 1 Nummer 2 oder Nummer 3 verwendet werden,
 
 12. entgegen § 17 Absatz 6 Satz 1 eine Wasserversorgungsanlage mit einem dort genannten Wasser führenden Teil verbindet,
 
 13. entgegen § 17 Absatz 6 Satz 2 oder Satz 3 eine Leitung oder eine Entnahmestelle nicht, nicht richtig oder nicht rechtzeitig kennzeichnet und nicht, nicht richtig oder nicht rechtzeitig kennzeichnen lässt,
 
-13a.  
-entgegen § 17 Absatz 7 Satz 1 einen Stoff oder Gegenstand verwendet oder ein dort genanntes Verfahren anwendet,
+13a. entgegen § 17 Absatz 7 Satz 1 einen Stoff oder Gegenstand verwendet oder ein dort genanntes Verfahren anwendet,
 
 14. entgegen § 18 Absatz 3 eine Person nicht unterstützt oder eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
@@ -887,20 +840,17 @@ entgegen § 17 Absatz 7 Satz 1 einen Stoff oder Gegenstand verwendet oder ein do
 
 17. entgegen § 21 Absatz 1b eine Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig bekannt macht.
 
-
-## Anlage 1 – (zu § 5 Absatz 2 und 3)Mikrobiologische Parameter
+# Anlage 1 – (zu § 5 Absatz 2 und 3)Mikrobiologische Parameter
 
 (Fundstelle: BGBl. I 2016, 476)
 
   
 
-
-## Anlage 2 – (zu § 6 Absatz 2) Chemische Parameter
+# Anlage 2 – (zu § 6 Absatz 2) Chemische Parameter
 
 (Fundstelle: BGBl. I 2016, 477 - 479)
 
-
-## Anlage 3 – (zu § 7 und § 14 Absatz 3)Indikatorparameter
+# Anlage 3 – (zu § 7 und § 14 Absatz 3)Indikatorparameter
 
 (Fundstelle: BGBl. I 2016, 480 - 482)
 
@@ -912,8 +862,7 @@ Die entsprechende Beurteilung, insbesondere zur Auswahl geeigneter Materialien i
 Anmerkung 2:  
 Messungen bei anderen Temperaturen sind erlaubt; in diesem Fall ist die Norm EN 27888 zu berücksichtigen.
 
-
-## Anlage 3a – (zu den §§ 7a, 9 und 14a)Anforderungen an Trinkwasser in Bezug auf radioaktive Stoffe
+# Anlage 3a – (zu den §§ 7a, 9 und 14a)Anforderungen an Trinkwasser in Bezug auf radioaktive Stoffe
 
 (BGBl. I 2016, 483 – 486)
 
@@ -921,7 +870,7 @@ Die Richtdosis wird anhand der gemessenen Radionuklidkonzentrationen und der im 
 
 Anstelle der Berechnung der Richtdosis kann die zuständige Behörde den Nachweis darüber, dass der Parameterwert für die Richtdosis nicht überschritten wird, als erbracht ansehen, wenn die Summe der Verhältniszahlen aus den gemessenen Radionuklidkonzentrationen und den in der Tabelle angegebenen Referenz-Aktivitätskonzentrationen kleiner oder gleich 1 ist.
 
-![](../normengrafiken/bgbl1_2016/j0459-1_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0459-1_0010.jpg)  
 
 Dabei gilt:
 
@@ -1038,35 +987,28 @@ Anmerkung 1:
 1. Untersuchungskonzept  
   
 
-Zur Erfüllung der Untersuchungspflicht nach § 14a Absatz 1 sind Untersuchungen erforderlich, soweit nicht die zuständige Behörde eine Feststellung nach § 14a Absatz 4 getroffen hat.  
-  
+Zur Erfüllung der Untersuchungspflicht nach § 14a Absatz 1 sind Untersuchungen erforderlich, soweit nicht die zuständige Behörde eine Feststellung nach § 14a Absatz 4 getroffen hat.   
 
 Das Konzept unterscheidet zwischen Erstuntersuchung und regelmäßigen Untersuchungen.
 
 a) Erstuntersuchung
 
-Die Erstuntersuchung dient der Ermittlung und Bewertung der im Jahresdurchschnitt vorliegenden Aktivitätskonzentration und umfasst vier Untersuchungen der Aktivitätskonzentrationen in vier unterschiedlichen Quartalen innerhalb von zwölf Monaten.  
-  
+Die Erstuntersuchung dient der Ermittlung und Bewertung der im Jahresdurchschnitt vorliegenden Aktivitätskonzentration und umfasst vier Untersuchungen der Aktivitätskonzentrationen in vier unterschiedlichen Quartalen innerhalb von zwölf Monaten.   
 
-Wenn sich nach Durchführung der Erstuntersuchung wesentliche Änderungen bei der Wassergewinnung oder Wasseraufbereitung ergeben, die sich auf den Gehalt an Radionukliden nachteilig auswirken können, sind erneut Untersuchungen im Sinne der Erstuntersuchung vorzunehmen.  
-  
+Wenn sich nach Durchführung der Erstuntersuchung wesentliche Änderungen bei der Wassergewinnung oder Wasseraufbereitung ergeben, die sich auf den Gehalt an Radionukliden nachteilig auswirken können, sind erneut Untersuchungen im Sinne der Erstuntersuchung vorzunehmen.   
 
 Eine Erstuntersuchung ist nicht erforderlich, wenn die zuständige Behörde eine Feststellung nach § 14a Absatz 4 Satz 2 Nummer 1 getroffen hat.
 
 b) Regelmäßige Untersuchungen  
   
 
-Regelmäßige Untersuchungen des Trinkwassers sind erforderlich, wenn bei der Erstuntersuchung eine Überschreitung eines oder mehrerer Parameterwerte für radioaktive Stoffe festgestellt wurde. Sie sollen mit den in der Tabelle angegebenen Mindesthäufigkeiten durchgeführt werden.  
-  
+Regelmäßige Untersuchungen des Trinkwassers sind erforderlich, wenn bei der Erstuntersuchung eine Überschreitung eines oder mehrerer Parameterwerte für radioaktive Stoffe festgestellt wurde. Sie sollen mit den in der Tabelle angegebenen Mindesthäufigkeiten durchgeführt werden.   
 
-Regelmäßige Untersuchungen sind nicht erforderlich, wenn die zuständige Behörde eine Feststellung nach § 14a Absatz 4 Satz 2 Nummer 2 getroffen hat.  
-  
+Regelmäßige Untersuchungen sind nicht erforderlich, wenn die zuständige Behörde eine Feststellung nach § 14a Absatz 4 Satz 2 Nummer 2 getroffen hat.   
 
-Ordnet die zuständige Behörde nach § 9 Absatz 5a Maßnahmen zur Aufbereitung an, um den Gehalt an Radionukliden im Trinkwasser zu reduzieren, so sind regelmäßige Untersuchungen durchzuführen, um die anhaltende Wirksamkeit der Aufbereitung zu überprüfen.  
-  
+Ordnet die zuständige Behörde nach § 9 Absatz 5a Maßnahmen zur Aufbereitung an, um den Gehalt an Radionukliden im Trinkwasser zu reduzieren, so sind regelmäßige Untersuchungen durchzuführen, um die anhaltende Wirksamkeit der Aufbereitung zu überprüfen.   
 
-Im Fall von natürlich vorkommenden Radionukliden, für die vorherige Ergebnisse eine stabile Aktivitätskonzentration anzeigen, kann die zuständige Behörde abhängig von den örtlichen Gegebenheiten geringere Häufigkeiten der Untersuchungen festlegen und den Untersuchungsumfang anpassen.  
-  
+Im Fall von natürlich vorkommenden Radionukliden, für die vorherige Ergebnisse eine stabile Aktivitätskonzentration anzeigen, kann die zuständige Behörde abhängig von den örtlichen Gegebenheiten geringere Häufigkeiten der Untersuchungen festlegen und den Untersuchungsumfang anpassen.   
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><caption>Mindesthäufigkeiten der Untersuchungen<br />
 <br />
@@ -1097,24 +1039,21 @@ Nach Möglichkeit sollten die Probennahmen zeitlich und geografisch gleichmäßi
 a) Radon-222  
   
 
-In Bezug auf Radon-222 ist eine Erstuntersuchung durchzuführen, um das Ausmaß einer möglichen Exposition durch Radon-222 in Trinkwasser zu bestimmen.  
-  
+In Bezug auf Radon-222 ist eine Erstuntersuchung durchzuführen, um das Ausmaß einer möglichen Exposition durch Radon-222 in Trinkwasser zu bestimmen.   
 
 Der Parameterwert für Radon-222 gilt als eingehalten, wenn die gemessene Radon-Aktivitätskonzentration gemittelt über vier unterschiedliche Quartale diesen Wert nicht überschreitet.
 
 b) Tritium  
   
 
-Untersuchungen im Hinblick auf Tritium im Trinkwasser sind nicht erforderlich, es sei denn, der zuständigen Behörde liegen Anhaltspunkte vor, dass der in Anlage 3a Teil I festgelegte Parameterwert für radioaktive Stoffe überschritten sein könnte.  
-  
+Untersuchungen im Hinblick auf Tritium im Trinkwasser sind nicht erforderlich, es sei denn, der zuständigen Behörde liegen Anhaltspunkte vor, dass der in Anlage 3a Teil I festgelegte Parameterwert für radioaktive Stoffe überschritten sein könnte.   
 
 Bei Überschreitung des Parameterwertes für Tritium ist eine Untersuchung des Trinkwassers auf andere künstliche Radionuklide erforderlich, da Tritium als Indikatornuklid für das Vorhandensein künstlicher radioaktiver Stoffe angesehen wird.
 
 c) Richtdosis  
   
 
-In der Regel kann die Untersuchung künstlicher Radionuklide entfallen, es sei denn, die zuständige Behörde ordnet solche Untersuchungen an.  
-  
+In der Regel kann die Untersuchung künstlicher Radionuklide entfallen, es sei denn, die zuständige Behörde ordnet solche Untersuchungen an.   
 
 Für die Erstuntersuchung im Hinblick auf die Richtdosis durch natürliche Radionuklide können unterschiedliche Verfahren angewendet werden: Screening-Verfahren mit Bestimmung der Gesamt-Alpha-Aktivitätskonzentration C<sub>alpha-ges</sub> und Einzelnuklidbestimmung. Kann die Einhaltung des Parameterwertes für die Richtdosis mittels Screening-Verfahren nicht nachgewiesen werden, sind zur Beurteilung der Richtdosis Einzelnuklidbestimmungen erforderlich.
 
@@ -1125,7 +1064,7 @@ Es werden die Gesamt-Alpha-Aktivitätskonzentration und die Aktivitätskonzentra
 
 Die Beurteilung der Einhaltung des Parameterwertes für die Richtdosis erfolgt analog zu Teil II. Für die Gesamt-Alpha-Aktivitätskonzentration ist dabei ein Prüfwert von 0,1 Becquerel pro Liter vorzusehen:
 
-![](../normengrafiken/bgbl1_2016/j0459-1_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0459-1_0020.jpg)  
 
 bb)  
 Screening-Verfahren mit Prüfwert für C<sub>alpha-ges</sub>≤ 0,05 Becquerel pro Liter
@@ -1148,11 +1087,9 @@ Es werden die Aktivitätskonzentrationen der Einzelnuklide bestimmt. Die Beurtei
 3. Untersuchungsverfahren und Verfahrenskennwerte  
   
 
-Die Probennahme- und Untersuchungsverfahren für die Parameterwerte für radioaktive Stoffe richten sich nach den allgemein anerkannten Regeln der Technik.  
-  
+Die Probennahme- und Untersuchungsverfahren für die Parameterwerte für radioaktive Stoffe richten sich nach den allgemein anerkannten Regeln der Technik.   
 
-Die angewandten Untersuchungsverfahren müssen mindestens geeignet sein, die Aktivitätskonzentrationen mit den nachstehend angegebenen Verfahrenskennwerten zu messen.  
-
+Die angewandten Untersuchungsverfahren müssen mindestens geeignet sein, die Aktivitätskonzentrationen mit den nachstehend angegebenen Verfahrenskennwerten zu messen. 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><caption>Verfahrenskennwerte<br />
 <br />
 </caption><colgroup><col style="width: 14%" /><col style="width: 56%" /><col style="width: 28%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Laufende<br />
@@ -1178,8 +1115,7 @@ Diese Nachweisgrenze gilt nur für die Verwendung des Prüfwertes von 0,1 Becque
 Anmerkung 4:  
 Diese Nachweisgrenze gilt nur für die Erstuntersuchung im Hinblick auf die Richtdosis für eine neue Wasserressource. Falls die Erstuntersuchung keinen plausiblen Grund dafür ergibt, dass Radium-228 20 Prozent der abgeleiteten Konzentration überschreitet, kann für regelmäßige Untersuchungen eine Untersuchungsmethode mit einer Nachweisgrenze von bis zu 0,08 Becquerel pro Liter für Radium-228 angewandt werden.
 
-
-## Anlage 4 – (zu § 14 Absatz 2 Satz 1 und § 19 Absatz 2b Nummer 1)Umfang und Häufigkeit der Untersuchungen von Trinkwasser in einem Wasserversorgungsgebiet
+# Anlage 4 – (zu § 14 Absatz 2 Satz 1 und § 19 Absatz 2b Nummer 1)Umfang und Häufigkeit der Untersuchungen von Trinkwasser in einem Wasserversorgungsgebiet
 
 (Fundstelle: BGBl. I 2018, 110 - 111)
 
@@ -1255,8 +1191,7 @@ Bei einer zeitweiligen, kurzfristigen Wasserversorgung (Ersatzversorgung) durch 
 Anmerkung 3:  
 Die Anzahl der Untersuchungen auf Enterokokken wird auf maximal 200 Untersuchungen pro Jahr begrenzt.
 
-
-## Anlage 5 – (zu § 15 Absatz 1 und 2)
+# Anlage 5 – (zu § 15 Absatz 1 und 2)
 
 (Fundstelle: BGBl. I 2018, 111 - 114)
 
@@ -1264,8 +1199,7 @@ Die in der folgenden Tabelle spezifizierten Verfahrenskennwerte sollen für die 
 
 Das Analysenergebnis ist mit mindestens derselben Anzahl signifikanter Stellen anzugeben wie der jeweilige Grenzwert in der Anlage 2 Teil I, Teil II oder Anlage 3 Teil I.
 
-Die Messunsicherheit in Prozent ist ein nicht negativer Parameter, der die Streuung derjenigen Werte beschreibt, die der Messgröße auf der Basis der verwendeten Informationen zugeordnet werden. Der Verfahrenskennwert der Messunsicherheit (k = 2) ist der Prozentsatz des Grenzwertes in der Tabelle oder besser. Die Messunsicherheit wird auf der Ebene des Grenzwertes geschätzt, wenn nicht anders angegeben.  
-  
+Die Messunsicherheit in Prozent ist ein nicht negativer Parameter, der die Streuung derjenigen Werte beschreibt, die der Messgröße auf der Basis der verwendeten Informationen zugeordnet werden. Der Verfahrenskennwert der Messunsicherheit (k = 2) ist der Prozentsatz des Grenzwertes in der Tabelle oder besser. Die Messunsicherheit wird auf der Ebene des Grenzwertes geschätzt, wenn nicht anders angegeben.   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 27%" /><col style="width: 20%" /><col style="width: 41%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Laufende<br />
 Nummer</th><th>Parameter<br />

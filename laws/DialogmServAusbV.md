@@ -1,30 +1,23 @@
-# [DialogmServAusbV] Verordnung über die Berufsausbildung zur Servicefachkraft für Dialogmarketing
-
-Ausfertigungsdatum: 23.05.2006
-
+% Verordnung über die Berufsausbildung zur Servicefachkraft für Dialogmarketing
+% Ausfertigungsdatum: 23.05.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Servicefachkraft für Dialogmarketing wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -81,23 +74,19 @@ Projektdurchführung,
 7.3  
 Projektcontrolling.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
@@ -113,8 +102,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -174,13 +162,11 @@ Der Prüfling soll je ein Inbound- und ein Outboundgespräch führen, die sich j
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis, im Prüfungsbereich Kundengespräch und in mindestens zwei der in Absatz 2 Nr. 1 bis 3 genannten Prüfungsbereiche jeweils mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Servicefachkraft für Dialogmarketing - Sachliche Gliederung -
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Servicefachkraft für Dialogmarketing - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1241 - 1244)
 
@@ -208,8 +194,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 (§ 4 Nr. 7.2)</td><td style="text-align: center;"><dl><dt>a)</dt><dd>Ablaufpläne umsetzen</dd><dt>b)</dt><dd>Projektaufgaben mit Beteiligten koordinieren</dd><dt>c)</dt><dd>betriebsbedingte Abweichungen im Projektablauf melden, an der Entwicklung von Lösungsalternativen mitwirken</dd><dt>d)</dt><dd>Projektabläufe an veränderte Anforderungen von Auftraggebern anpassen</dd><dt>e)</dt><dd>Arbeitszeitkonten führen</dd></dl></td></tr><tr class="even"><td style="text-align: left;">7.3</td><td style="text-align: center;">Projektcontrolling<br />
 (§ 4 Nr. 7.3)</td><td style="text-align: center;"><dl><dt>a)</dt><dd>Projektabläufe und -ergebnisse dokumentieren</dd><dt>b)</dt><dd>Kennzahlen von Projekten erfassen, für die Auftragsabrechnung aufbereiten und weiterleiten</dd><dt>c)</dt><dd>Projektstatistiken erstellen</dd><dt>d)</dt><dd>Kosten ermitteln und erfassen</dd><dt>e)</dt><dd>an der Erstellung des Abschlussberichtes mitwirken</dd><dt>f)</dt><dd>Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle begründen</dd></dl></td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zur Servicefachkraft für Dialogmarketing - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zur Servicefachkraft für Dialogmarketing - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1245)
 

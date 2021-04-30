@@ -1,10 +1,7 @@
-# [EgVG] Gesetz zur Erstellung gesamtwirtschaftlicher Vorausschätzungen der Bundesregierung  (Vorausschätzungsgesetz - EgVG)
-
-Ausfertigungsdatum: 27.06.2017
-
+% Gesetz zur Erstellung gesamtwirtschaftlicher Vorausschätzungen der Bundesregierung  (Vorausschätzungsgesetz - EgVG)
+% Ausfertigungsdatum: 27.06.2017
  
-
-## § 1 – Zuständigkeit
+# § 1 – Zuständigkeit
 
 (1) Das Bundesministerium für Wirtschaft und Energie erstellt die gesamtwirtschaftlichen Vorausschätzungen der Bundesregierung.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 27.06.2017
 
 (3) Die Eckwerte der gesamtwirtschaftlichen Vorausschätzungen werden für die Jahresprojektion gemäß § 2 Absatz 1 Satz 2 Nummer 2 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft als Teil des Jahreswirtschaftsberichts der Bundesregierung, im Übrigen durch das Bundesministerium für Wirtschaft und Energie veröffentlicht.
 
-
-## § 2 – Erstellung, Inhalt, Mittel und Form
+# § 2 – Erstellung, Inhalt, Mittel und Form
 
 (1) Die Bundesregierung erstellt jährlich in der Regel drei gesamtwirtschaftliche Vorausschätzungen, die der Haushalts- und Finanzplanung der Bundesregierung zugrunde liegen. Diese sind die Jahresprojektion gemäß § 2 Absatz 1 Satz 2 Nummer 2 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft, die Frühjahrsprojektion und die Herbstprojektion.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 27.06.2017
 
 (4) Die gesamtwirtschaftlichen Vorausschätzungen bedienen sich der Mittel und der Form der Volkswirtschaftlichen Gesamtrechnungen, gegebenenfalls mit Alternativrechnungen. Alle Ressorts unterstützen das Bundesministerium für Wirtschaft und Energie durch Bereitstellung der erforderlichen Informationen aus ihrem Zuständigkeitsbereich.
 
-
-## § 3 – Verordnungsermächtigung zur Überprüfung der gesamtwirtschaftlichen Vorausschätzungen durch eine unabhängige Einrichtung
+# § 3 – Verordnungsermächtigung zur Überprüfung der gesamtwirtschaftlichen Vorausschätzungen durch eine unabhängige Einrichtung
 
 Die gesamtwirtschaftlichen Vorausschätzungen, die den Haushalts- und Finanzplanungen der Bundesregierung zugrunde liegen, sind von einer unabhängigen Einrichtung mit dem Ziel der Befürwortung zu überprüfen. Die unabhängige Einrichtung ist dabei von Weisungen der Bundesregierung und anderer öffentlicher oder privater Einrichtungen frei. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung zu bestimmen
 
@@ -40,7 +35,6 @@ Die gesamtwirtschaftlichen Vorausschätzungen, die den Haushalts- und Finanzplan
 
 6. die Befugnis der unabhängigen Einrichtung, sich eine Geschäftsordnung zu geben.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

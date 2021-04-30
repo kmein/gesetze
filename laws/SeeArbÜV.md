@@ -1,10 +1,7 @@
-# [SeeArbÜV] Verordnung über die Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen auf Schiffen   (Seearbeitsüberprüfungs-Verordnung - SeeArbÜV)
-
-Ausfertigungsdatum: 25.07.2013
-
+% Verordnung über die Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen auf Schiffen   (Seearbeitsüberprüfungs-Verordnung - SeeArbÜV)
+% Ausfertigungsdatum: 25.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 136 Absatz 1 des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868) i
 –  
 des § 136 Absatz 2 des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868):
 
-
-## § 1 – Zielsetzung und Anwendungsbereich
+# § 1 – Zielsetzung und Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -25,13 +21,11 @@ Diese Verordnung regelt
 
 3. die Überwachung der anerkannten Organisationen bei ihrer Überprüfungstätigkeit nach dem Seearbeitsgesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
-## § 2 – Personal
+# § 2 – Personal
 
 Die Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossenschaft) und die anerkannten Organisationen haben für die Wahrnehmung ihrer Aufgaben und Tätigkeiten eine ausreichende Zahl von Inspektoren vorzuhalten und sicherzustellen, dass diese über die erforderliche Ausbildung, Befähigung und Ausstattung verfügen.
 
-
-## § 3 – Verantwortlichkeit des Reeders
+# § 3 – Verantwortlichkeit des Reeders
 
 (1) Ist der Eigentümer eines Schiffes der Reeder (§ 4 Absatz 1 Nummer 1 des Seearbeitsgesetzes), hat er der Berufsgenossenschaft einen Auszug aus dem Seeschiffsregister vorzulegen.
 
@@ -39,8 +33,7 @@ Die Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossensc
 
 (3) Hat die Berufsgenossenschaft berechtigte Zweifel daran, dass der Eigentümer die Verantwortung nach § 4 Absatz 1 Nummer 2 des Seearbeitsgesetzes einer natürlichen oder juristischen Person vollständig übertragen hat, kann sie vom Eigentümer des Schiffes die zur Klärung erforderlichen Auskünfte sowie die Vorlage des in § 4 Absatz 1 Nummer 2 des Seearbeitsgesetzes bezeichneten Vertrages verlangen.
 
-
-## § 4 – Überwachung der anerkannten Organisationen
+# § 4 – Überwachung der anerkannten Organisationen
 
 (1) Die Durchführung der von den anerkannten Organisationen wahrgenommenen Tätigkeiten ist regelmäßig, mindestens jedoch alle zwei Jahre, von der Berufsgenossenschaft im Hinblick darauf zu überprüfen, dass die anerkannten Organisationen ihre Tätigkeiten ordnungsgemäß erfüllen.
 
@@ -58,8 +51,7 @@ Die Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossensc
 
 6. alle zur Verfügung stehenden Informationsquellen auszuwerten, insbesondere Datenbanken über Festhaltungen von Schiffen im Rahmen der Hafenstaatkontrolle und Berichte von Mitgliedstaaten der Europäischen Union über die Tätigkeit von anerkannten Organisationen, soweit dies nach den jeweils für die Informationsquellen geltenden Rechtsvorschriften zulässig ist.
 
-
-## § 5 – Zwischen- und Erneuerungsüberprüfungen
+# § 5 – Zwischen- und Erneuerungsüberprüfungen
 
 (1) Wird das Seearbeitszeugnis für fünf Jahre ausgestellt, hat der Reeder dafür zu sorgen, dass zwischen dem zweiten und dritten Jahrestag der Ausstellung des Seearbeitszeugnisses nach Maßgabe des § 130 Absatz 2 des Seearbeitsgesetzes an Bord überprüft wird, ob die Erteilungsvoraussetzungen des Seearbeitszeugnisses weiterhin vorliegen (Zwischenüberprüfung). Jahrestag bedeutet Tag und Monat jedes Jahres, die dem Tag des Gültigkeitsablaufs des Seearbeitszeugnisses entsprechen. Der Reeder hat der Berufsgenossenschaft die Fälligkeit einer Überprüfung spätestens drei Wochen vor der Fälligkeit anzuzeigen. Die Zwischenüberprüfung wird im Seearbeitszeugnis vermerkt.
 
@@ -71,8 +63,7 @@ Die Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossensc
 
 (3) Für die Fristen der Erneuerungsüberprüfung für ein Fischereiarbeitszeugnis gilt Absatz 2 entsprechend.
 
-
-## § 6 – Überprüfungen für die Erteilung des vorläufigen Seearbeitszeugnisses
+# § 6 – Überprüfungen für die Erteilung des vorläufigen Seearbeitszeugnisses
 
 (1) Das vorläufige Seearbeitszeugnis nach § 131 Absatz 1 des Seearbeitsgesetzes wird von der Berufsgenossenschaft erteilt, wenn
 
@@ -90,8 +81,7 @@ Die Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossensc
 
 (4) Der Reeder hat dafür zu sorgen, dass rechtzeitig vor Ablauf der Gültigkeit des vorläufigen Seearbeitszeugnisses eine Überprüfung des Schiffes für die anschließende Erteilung eines Seearbeitszeugnisses durchgeführt wird.
 
-
-## § 7 – Aufzeichnung der Überprüfungen, Aufbewahrungspflichten
+# § 7 – Aufzeichnung der Überprüfungen, Aufbewahrungspflichten
 
 (1) Die in § 2 bezeichneten Inspektoren haben die Ergebnisse aller Überprüfungen an Bord eines Schiffes in einem Überprüfungsbericht aufzuzeichnen und dem Kapitän unverzüglich zwei Ausfertigungen zu übergeben.
 
@@ -111,8 +101,7 @@ Der um diese Angaben ergänzte Überprüfungsbericht ist der Seearbeits-Konformi
 
 (5) Die Berufsgenossenschaft erstellt und veröffentlicht jährlich einen Bericht über ihre Überprüfungstätigkeit. In dem Bericht dürfen keine personenbezogenen Daten enthalten sein.
 
-
-## § 8 – Muster
+# § 8 – Muster
 
 (1) Die Berufsgenossenschaft veröffentlicht die Muster des Seearbeitszeugnisses, des vorläufigen Seearbeitszeugnisses, des Fischereiarbeitszeugnisses, der Seearbeits-Konformitätserklärung, der von ihr verwendeten Überprüfungsberichte und der Erklärung nach § 3 im Verkehrsblatt oder im Bundesanzeiger.
 
@@ -132,7 +121,6 @@ Der um diese Angaben ergänzte Überprüfungsbericht ist der Seearbeits-Konformi
 
 7. die Angabe, ob die Anforderungen des § 131 Absatz 1 Satz 1 des Seearbeitsgesetzes auf dem Schiff bei einer erstmaligen Überprüfung, Zwischenüberprüfung oder einer Erneuerungsüberprüfung erfüllt sind.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.

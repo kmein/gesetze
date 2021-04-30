@@ -1,12 +1,7 @@
-# [EUAHiG] Gesetz über die Durchführung der gegenseitigen Amtshilfe in Steuersachen zwischen den Mitgliedstaaten der Europäischen Union   (EU-Amtshilfegesetz - EUAHiG)
-
-Ausfertigungsdatum: 26.06.2013
-
+% Gesetz über die Durchführung der gegenseitigen Amtshilfe in Steuersachen zwischen den Mitgliedstaaten der Europäischen Union   (EU-Amtshilfegesetz - EUAHiG)
+% Ausfertigungsdatum: 26.06.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -24,8 +19,9 @@ Ausfertigungsdatum: 26.06.2013
 
  
 
+ 
 
-## § 1 – Anwendungsbereich und anzuwendendes Recht
+# § 1 – Anwendungsbereich und anzuwendendes Recht
 
 (1) Dieses Gesetz regelt den Austausch von voraussichtlich erheblichen Informationen in Steuersachen zwischen Deutschland und den anderen Mitgliedstaaten der Europäischen Union (Mitgliedstaaten). Es ist anzuwenden für jede Art von Steuern, die von einem oder für einen Mitgliedstaat oder dessen Gebiets- oder Verwaltungseinheiten einschließlich der örtlichen Behörden erhoben werden.
 
@@ -49,8 +45,7 @@ Ausfertigungsdatum: 26.06.2013
 
 (4) Für die Amtshilfe nach diesem Gesetz gelten die Vorschriften der Abgabenordnung entsprechend, soweit dieses Gesetz nichts anderes bestimmt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Person im Sinne dieses Gesetzes ist
 
@@ -116,8 +111,7 @@ Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder g
 
 (12) Auf elektronischem Weg im Sinne dieses Gesetzes bezeichnet die Verwendung elektronischer Anlagen zur Übermittlung, Verarbeitung von Daten, einschließlich der Datenkomprimierung, und zum Speichern von Daten unter Einsatz von Draht, Funk, optischen Technologien oder anderen elektromagnetischen Verfahren.
 
-
-## § 3 – Zuständigkeit und Prüfungsbefugnisse
+# § 3 – Zuständigkeit und Prüfungsbefugnisse
 
 (1) Zuständige Behörde im Sinne von Artikel 4 Absatz 1 der Amtshilferichtlinie ist das Bundesministerium der Finanzen.
 
@@ -131,8 +125,7 @@ Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder g
 
 (6) Die Gemeinden und Gemeindeverbände können Amtshilfe nach Maßgabe dieses Gesetzes in Anspruch nehmen. Sie gelten insoweit als Finanzbehörden im Sinne dieses Gesetzes.
 
-
-## § 4 – Ersuchen von anderen Mitgliedstaaten
+# § 4 – Ersuchen von anderen Mitgliedstaaten
 
 (1) Auf Ersuchen erstellt die zuständige Finanzbehörde alle Antworten, die für die Festsetzung von Steuern nach § 1 voraussichtlich erheblich sind. Die Antworten werden durch das zentrale Verbindungsbüro an den anderen Mitgliedstaat weitergeleitet. Die zuständige Finanzbehörde erstellt die Antworten nach Maßgabe dieses Gesetzes und unter Berücksichtigung des § 117 Absatz 4 der Abgabenordnung. Verfügt die Finanzbehörde nicht über die betreffenden Informationen, so führt sie nach pflichtgemäßem Ermessen alle nach der Abgabenordnung vorgesehenen behördlichen Ermittlungen durch.
 
@@ -154,8 +147,7 @@ Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder g
 
 (6) Ein Ersuchen kann nicht aus dem Grund abgelehnt werden, dass die zu übermittelnden Informationen nach deutschem Recht nicht für steuerliche Zwecke benötigt werden. Lehnt das zentrale Verbindungsbüro ein Ersuchen aus anderen Gründen ab, so sind dem anderen Mitgliedstaat die Gründe hierfür mitzuteilen.
 
-
-## § 5 – Fristen
+# § 5 – Fristen
 
 (1) Das zentrale Verbindungsbüro übermittelt die Informationen nach § 4 unverzüglich, spätestens jedoch sechs Monate, nachdem es das Ersuchen erhalten hat. Ist die Finanzbehörde bereits im Besitz der entsprechenden Informationen, verkürzt sich die Frist auf zwei Monate. In besonders gelagerten Fällen können das zentrale Verbindungsbüro und der andere Mitgliedstaat abweichende Fristen vereinbaren.
 
@@ -175,8 +167,7 @@ Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder g
 
 (7) Ist die Finanzbehörde nicht im Besitz der erbetenen Informationen oder lehnt sie das Ersuchen aus den in § 4 Absatz 3 oder 4 genannten Gründen ab, so teilt das zentrale Verbindungsbüro dies dem anderen Mitgliedstaat unverzüglich, spätestens jedoch innerhalb eines Monats, nachdem das zentrale Verbindungsbüro das Ersuchen erhalten hat, unter Nennung der Gründe mit.
 
-
-## § 6 – Ersuchen an andere Mitgliedstaaten
+# § 6 – Ersuchen an andere Mitgliedstaaten
 
 (1) Die Finanzbehörde ist befugt, ein Ersuchen zu stellen, welches das zentrale Verbindungsbüro dem anderen Mitgliedstaat nach den Vorschriften dieses Gesetzes weiterleitet. Darin kann um sachdienliche behördliche Ermittlungen ersucht werden. Originaldokumente können erbeten werden, soweit sie für das weitere Verfahren notwendig sind.
 
@@ -184,8 +175,7 @@ Dies gilt auch, wenn der Vorbescheid im Zuge einer Außenprüfung erteilt oder g
 
 (3) Bevor die Finanzbehörde ein Ersuchen stellt, hat sie alle nach der Abgabenordnung vorgesehenen Ermittlungsmöglichkeiten auszuschöpfen, es sei denn, die Durchführung der Ermittlungen wäre mit unverhältnismäßig großen Schwierigkeiten verbunden oder stellt sich als nicht Erfolg versprechend dar.
 
-
-## § 7 – Automatische Übermittlung von Informationen
+# § 7 – Automatische Übermittlung von Informationen
 
 (1) Das zentrale Verbindungsbüro übermittelt an andere Mitgliedstaaten systematisch auf elektronischem Weg, ohne vorheriges Ersuchen, die folgenden verfügbaren Informationen über in anderen Mitgliedstaaten ansässige Personen:
 
@@ -282,8 +272,7 @@ Auf die praktischen Regelungen, die zur Erleichterung des Austauschs der in dies
 (+++ § 7 Abs. 13: Zur Anwendung vgl. § 21 Abs. 5 +++)  
 (+++ § 7 Abs. 14: Zur Anwendung vgl. § 21 Abs. 4 +++)
 
-
-## § 8 – Spontane Übermittlung von Informationen an andere Mitgliedstaaten
+# § 8 – Spontane Übermittlung von Informationen an andere Mitgliedstaaten
 
 (1) Die Finanzbehörde kann nach pflichtgemäßem Ermessen ohne Ersuchen alle Informationen an das zentrale Verbindungsbüro übermitteln, die für die anderen Mitgliedstaaten von Nutzen sein können. Das zentrale Verbindungsbüro entscheidet nach pflichtgemäßem Ermessen über die Übermittlung der Informationen an die anderen Mitgliedstaaten.
 
@@ -301,13 +290,11 @@ Auf die praktischen Regelungen, die zur Erleichterung des Austauschs der in dies
 
 (3) Die Übermittlung nach Absatz 2 soll unverzüglich erfolgen, spätestens jedoch einen Monat, nachdem die Informationen verfügbar geworden sind.
 
-
-## § 9 – Spontane Übermittlung von Informationen durch andere Mitgliedstaaten
+# § 9 – Spontane Übermittlung von Informationen durch andere Mitgliedstaaten
 
 Das zentrale Verbindungsbüro leitet Informationen, die andere Mitgliedstaaten spontan übermittelt haben, den Finanzbehörden zur Auswertung weiter. Es bestätigt unverzüglich, spätestens jedoch sieben Arbeitstage nach Eingang der Informationen, dem anderen Mitgliedstaat möglichst auf elektronischem Weg deren Erhalt.
 
-
-## § 10 – Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
+# § 10 – Anwesenheit von Bediensteten anderer Mitgliedstaaten im Inland
 
 (1) Das zentrale Verbindungsbüro kann zum Zweck des Informationsaustauschs mit einem anderen Mitgliedstaat vereinbaren, dass unter den von der Finanzbehörde festgelegten Voraussetzungen befugte Bedienstete des anderen Mitgliedstaats
 
@@ -321,13 +308,11 @@ Das zentrale Verbindungsbüro leitet Informationen, die andere Mitgliedstaaten s
 
 (4) Befugte Bedienstete des anderen Mitgliedstaats müssen, wenn sie sich nach Absatz 1 auf deutschem Hoheitsgebiet aufhalten, jederzeit eine schriftliche Vollmacht vorlegen können, aus der ihre Identität und dienstliche Stellung hervorgehen.
 
-
-## § 11 – Anwesenheit von inländischen Bediensteten in anderen Mitgliedstaaten
+# § 11 – Anwesenheit von inländischen Bediensteten in anderen Mitgliedstaaten
 
 Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte inländische Bedienstete in andere Mitgliedstaaten entsandt werden. § 10 gilt sinngemäß.
 
-
-## § 12 – Gleichzeitige Prüfung
+# § 12 – Gleichzeitige Prüfung
 
 (1) Auf Vorschlag der Finanzbehörde kann das zentrale Verbindungsbüro mit einem oder mehreren Mitgliedstaaten vereinbaren, im jeweils eigenen Hoheitsgebiet eine gleichzeitige Prüfung einer oder mehrerer Personen von gemeinsamem oder ergänzendem Interesse durchzuführen. Soweit dies nach § 4 zulässig ist, sind die hierbei erlangten Informationen sowie die für die Vereinbarung der Prüfung im Vorfeld erforderlichen Kenntnisse auszutauschen.
 
@@ -339,8 +324,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte i
 
 (5) Von der Anhörung des Steuerpflichtigen kann bis zur Bekanntgabe der Prüfungsanordnung abgesehen werden, wenn sonst der Prüfungserfolg gefährdet werden würde.
 
-
-## § 13 – Zustellungsersuchen an andere Mitgliedstaaten
+# § 13 – Zustellungsersuchen an andere Mitgliedstaaten
 
 (1) Auf Ersuchen der zuständigen Finanzbehörde beantragt das zentrale Verbindungsbüro bei einem anderen Mitgliedstaat die Zustellung von Dokumenten und Entscheidungen der Finanzbehörde, die mit einer Steuer nach § 1 zusammenhängen.
 
@@ -362,15 +346,13 @@ Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte i
 
 (5) Das zentrale Verbindungsbüro leitet Informationen über veranlasste Zustellungen anderer Mitgliedstaaten den Finanzbehörden, die die Informationen verwenden, weiter.
 
-
-## § 14 – Zustellungsersuchen von anderen Mitgliedstaaten
+# § 14 – Zustellungsersuchen von anderen Mitgliedstaaten
 
 (1) Auf Ersuchen werden alle Dokumente zugestellt, die mit einer Steuer gemäß § 1 zusammenhängen, einschließlich der gerichtlichen Dokumente, die aus dem anderen Mitgliedstaat stammen. Das zentrale Verbindungsbüro leitet hierzu der Finanzbehörde das Ersuchen zwecks Zustellung zu. Die Zustellung richtet sich nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
 (2) Das zentrale Verbindungsbüro teilt dem anderen Mitgliedstaat unverzüglich mit, welche Maßnahme auf Grund des Zustellungsersuchens veranlasst wurde. Diese Mitteilung beinhaltet insbesondere die Angabe, an welchem Tag und an welche Anschrift dem Empfänger das Dokument zugestellt worden ist.
 
-
-## § 15 – Verwendung von Informationen und Dokumenten
+# § 15 – Verwendung von Informationen und Dokumenten
 
 (1) Übermittelt das zentrale Verbindungsbüro einem anderen Mitgliedstaat Informationen, so gestattet es diesem auf Anfrage, die Informationen für andere als die in § 19 Absatz 2 Satz 1 genannten Zwecke zu verwenden, wenn die Verwendung für einen vergleichbaren Zweck nach deutschem Recht unter Beachtung der §§ 30, 31, 31a und 31b der Abgabenordnung zulässig ist.
 
@@ -388,15 +370,13 @@ Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte i
 
 (5) Von der Berichtigung übermittelter unrichtiger Daten und der Löschung oder Sperrung unzulässig gespeicherter oder unzulässig übermittelter Daten sind alle Mitgliedstaaten, die diese Daten im Rahmen einer Auskunft erhalten haben, durch das zentrale Verbindungsbüro unverzüglich zu unterrichten und anzuhalten, ebenfalls die Berichtigung, Sperrung oder Löschung dieser Daten vorzunehmen.
 
-
-## § 16 – Rückmeldungen
+# § 16 – Rückmeldungen
 
 (1) In den Fällen der §§ 4 und 8 kann das zentrale Verbindungsbüro den anderen Mitgliedstaat um Rückmeldung über die Verwendung der erbetenen Information bitten.
 
 (2) Bittet in den Fällen der §§ 6 und 9 der andere Mitgliedstaat um Rückmeldung, so übermittelt das zentrale Verbindungsbüro dem anderen Mitgliedstaat die Rückmeldung unverzüglich, spätestens jedoch drei Monate, nachdem das Ergebnis über die Verwendung der erbetenen Information bekannt geworden ist. Eine Übermittlung ist nur zulässig, wenn ihr die Vorschriften zum Datenschutz und zum Schutz des Steuergeheimnisses insbesondere nach § 30 der Abgabenordnung nicht entgegenstehen. Die zuständige Finanzbehörde teilt dem zentralen Verbindungsbüro die erforderlichen Angaben mit.
 
-
-## § 17 – Standardformblätter und Kommunikationsmittel
+# § 17 – Standardformblätter und Kommunikationsmittel
 
 (1) Ersuchen nach § 4 Absatz 1 und 2 und § 6 Absatz 1, spontane Übermittlungen von Informationen nach § 8 Absatz 1 und 2 und § 9, Zustellungsersuchen nach § 13 Absatz 1 und § 14 Absatz 1, Rückmeldungen nach § 16 sowie sonstige Mitteilungen werden jeweils mittels eines zwischen den Mitgliedstaaten abgestimmten Standardformblatts auf elektronischem Weg übermittelt.
 
@@ -406,8 +386,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte i
 
 (4) Erfolgt die Übermittlung nicht auf elektronischem Weg durch Standardformblätter, so berührt dies nicht die Gültigkeit der erhaltenen Informationen oder der im Rahmen eines Ersuchens um Amtshilfe ergriffenen Maßnahmen.
 
-
-## § 18 – Informationsübermittlung an Drittstaaten
+# § 18 – Informationsübermittlung an Drittstaaten
 
 (1) Erhält das zentrale Verbindungsbüro von einem Drittstaat Informationen, die für die Anwendung und Durchsetzung des deutschen Rechts über die in § 1 genannten Steuern voraussichtlich erheblich sind, kann das zentrale Verbindungsbüro diese Informationen an andere Mitgliedstaaten, für die diese Informationen von Nutzen sein können, und an alle ersuchenden Behörden weitergeben, sofern dies auf Grund einer Vereinbarung mit dem Drittstaat zulässig ist.
 
@@ -421,8 +400,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte i
 
 4. sich der Drittstaat zum Informationsaustausch verpflichtet hat.
 
-
-## § 19 – Datenschutz und Zweckbestimmung
+# § 19 – Datenschutz und Zweckbestimmung
 
 (1) Die Informationen, die im Rahmen dieses Gesetzes an Deutschland übermittelt werden, unterliegen dem Steuergeheimnis und genießen den Schutz, den die Abgabenordnung für Informationen dieser Art gewährt.
 
@@ -438,8 +416,7 @@ Sofern die Komplexität eines Ersuchens es erfordert, können bevollmächtigte i
 
 Sollen Informationen für einen anderen Zweck verwendet werden, ist die Einwilligung des anderen Mitgliedstaats einzuholen.
 
-
-## § 20 – Statistiken und Bewertungen
+# § 20 – Statistiken und Bewertungen
 
 (1) Die zuständige Behörde übermittelt
 
@@ -457,8 +434,7 @@ Bei der Übermittlung ist die Durchführungsverordnung (EU) 2015/2378 der Kommis
 
 (2) Das Bundesministerium der Finanzen legt im Einvernehmen mit den obersten Finanzbehörden der Länder die Einzelheiten zur Übermittlung im Sinne des Absatzes 1 in einem Schreiben fest. Dieses Schreiben ist im Bundessteuerblatt zu veröffentlichen.
 
-
-## § 21 – Übergangsvorschriften
+# § 21 – Übergangsvorschriften
 
 (1) Die automatische Übermittlung von Informationen gemäß § 7 Absatz 1 ist ab dem 1. Januar 2015 vorzunehmen und erstmals auf Informationen der Besteuerungszeiträume ab dem 1. Januar 2014 anzuwenden.
 

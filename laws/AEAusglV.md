@@ -1,15 +1,11 @@
-# [AEAusglV] Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr  (AEAusglV)
-
-Ausfertigungsdatum: 02.08.1977
-
+% Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr  (AEAusglV)
+% Ausfertigungsdatum: 02.08.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2441) eingefügten § 6e Abs. 1 des Allgemeinen Eisenbahngesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 930-1, veröffentlichen bereinigten Fassung wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Ausbildungsverkehr
+# § 1 – Ausbildungsverkehr
 
 (1) Ausbildungsverkehr im Sinne des § 6a Abs. 1 des Allgemeinen Eisenbahngesetzes ist die Beförderung
 
@@ -45,13 +41,11 @@ h) von Teilnehmern an einem freiwilligen sozialen Jahr oder an einem freiwillige
 
 (2) Die Berechtigung zum Erwerb von Zeitfahrausweisen des Ausbildungsverkehrs hat sich die Eisenbahn vom Auszubildenden nachweisen zu lassen. In den Fällen des Absatzes 1 Nr. 2 Buchstaben a bis g geschieht dies durch Vorlage einer Bescheinigung der Ausbildungsstätte oder des Ausbildenden, in den Fällen des Absatzes 1 Nr. 2 Buchstabe h durch Vorlage einer Bescheinigung des Trägers der jeweiligen sozialen Dienste. In der Bescheinigung ist zu bestätigen, daß die Voraussetzung des Absatzes 1 Nr. 2 gegeben ist. Die Bescheinigung gilt längstens ein Jahr.
 
-
-## § 2 – Kostenbestandteile für die Festlegung der Kostensätze
+# § 2 – Kostenbestandteile für die Festlegung der Kostensätze
 
 Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung nach § 6a Abs. 2 des Gesetzes gelten die in der Anlage aufgeführten Kostenbestandteile. Soweit in der Anlage nichts anderes festgelegt ist, ist in Zweifelsfällen sinngemäß nach den Leitsätzen für die Preisermittlung auf Grund von Selbstkosten, Anlage zur Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. Nr. 244 vom 18. Dezember 1953), zu verfahren; hierbei bleiben kalkulatorische Kosten, soweit sie in der Anlage nicht ausdrücklich aufgeführt sind, außer Ansatz.
 
-
-## § 3 – Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
+# § 3 – Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
 
 (1) Personen-Kilometer werden durch Multiplikation der Beförderungsfälle mit der mittleren Reiseweite ermittelt.
 
@@ -65,8 +59,7 @@ Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung nach § 6
 die Ausnutzung der Zeitfahrausweise nach Absatz 2 Satz 2 oder  
 die Erhöhung der Beförderungsfälle um 10 vom Hundert nach Absatz 3 oder  
 die mittlere Reiseweite im Ausbildungsverkehr nach Absatz 4  
-jeweils um mehr als 25 vom Hundert abgewichen wird, sind der Berechnung des Ausgleichsbetrags die nachgewiesenen Werte zugrunde zu legen.  
-Die Abweichungen von dem Durchschnittswert für die Ausnutzung der Zeitfahrausweise und von der Erhöhung der Beförderungsfälle sind durch Verkehrszählung oder in anderer geeigneter Weise nachzuweisen. Die Abweichung von dem Durchschnittswert für die mittlere Reiseweite ist nachzuweisen
+jeweils um mehr als 25 vom Hundert abgewichen wird, sind der Berechnung des Ausgleichsbetrags die nachgewiesenen Werte zugrunde zu legen. Die Abweichungen von dem Durchschnittswert für die Ausnutzung der Zeitfahrausweise und von der Erhöhung der Beförderungsfälle sind durch Verkehrszählung oder in anderer geeigneter Weise nachzuweisen. Die Abweichung von dem Durchschnittswert für die mittlere Reiseweite ist nachzuweisen
 
 1. auf Grund der verkauften Streckenfahrausweise nach den erfaßten tatsächlichen Entfernungen oder nach den mittleren Werten der Entfernungsstufen der genehmigten Tarife oder
 
@@ -76,27 +69,23 @@ Die Abweichungen von dem Durchschnittswert für die Ausnutzung der Zeitfahrauswe
 
 (6) (weggefallen)
 
-
-## § 4 – Ermittlung der Erträge
+# § 4 – Ermittlung der Erträge
 
 Als Erträge im Sinne von § 6a Abs. 1 und 2 des Gesetzes sind die Fahrgeldeinnahmen aus dem Verkauf von Zeitfahrausweisen im Ausbildungsverkehr und die Einnahmen aus Fahrpreiszuschlägen anzusetzen.
 
-
-## § 5 – Sonderregelung bei Einnahmeaufteilungsverträgen
+# § 5 – Sonderregelung bei Einnahmeaufteilungsverträgen
 
 (1) Werden bei einem von einer Eisenbahn mit Unternehmern des Straßenpersonenverkehrs oder von mehreren Eisenbahnen gebildeten zusammenhängenden Liniennetz mit einheitlichen oder verbundenen Tarifen die Erträge aus dem Verkauf von Zeitfahrausweisen zusammengefaßt und der Eisenbahn anteilmäßig nach einem vereinbarten Verteilungsschlüssel zugewiesen, so ist der zugewiesene Anteil als Ertrag im Sinne von § 6a Abs. 2 des Gesetzes anzugeben. Bei der Ermittlung der von der Eisenbahn geleisteten Personen-Kilometer ist diejenige Zahl der verkauften Wochen-, Monats- und Jahreszeitfahrausweisen im Ausbildungsverkehr anzugeben, die sich nach Anwendung des in Satz 1 genannten Verteilungsschlüssels auf die Gesamtzahl der von allen Mitgliedern des Zusammenschlusses verkauften Wochen-, Monats- und Jahreszeitfahrausweisen im Ausbildungsverkehr ergibt.
 
 (2) Abweichend von Absatz 1 können die beteiligten Unternehmer eine andere geeignete Schlüsselung vereinbaren. Die Vereinbarung bedarf der Zustimmung der obersten Landesverkehrsbehörde.
 
-
-## § 6 – Länderüberschreitender Verkehr
+# § 6 – Länderüberschreitender Verkehr
 
 (1) Erstreckt sich die Beförderung von Auszubildenden mit Zeitfahrausweisen auf das Gebiet mehrerer Länder, sind deren Anteilen an der Ausgleichsleistung die Personen-Kilometer und Erträge zugrunde zu legen, die in dem jeweiligen Land erbracht werden.
 
 (2) Abweichend von Absatz 1 können die Länder einvernehmlich die auf sie entfallenden Anteile an der Ausgleichsleistung nach den im jeweiligen Land erbrachten Achs-Kilometern oder nach einer anderen geeigneten Schlüsselung aufteilen.
 
-
-## § 7 – Antrag
+# § 7 – Antrag
 
 (1) Der Antrag auf Gewährung eines Ausgleichs ist von der Eisenbahn bis zum 31. Mai jeden Jahres für das vorangegangene Kalenderjahr bei der zuständigen obersten Landesverkehrsbehörde zu stellen. Der Antrag ist in dreifacher Ausfertigung nach einem bundeseinheitlichen Muster zu stellen. Bei einem von einer Eisenbahn mit Unternehmern des Straßenpersonenverkehrs oder von mehreren Eisenbahnen gebildeten zusammenhängenden Liniennetz mit einheitlichen oder verbundenen Tarifen kann auch eine Gemeinschaftseinrichtung dieses Zusammenschlusses die Anträge für ihre Mitglieder stellen.
 
@@ -104,35 +93,29 @@ Als Erträge im Sinne von § 6a Abs. 1 und 2 des Gesetzes sind die Fahrgeldeinna
 
 (3) Der Antragsteller hat in zweifacher Ausfertigung die Bescheinigung eines Wirtschaftsprüfers oder einer von der obersten Landesverkehrsbehörde anerkannten Stelle oder Person über die Richtigkeit der Angaben und Ausgleichsberechnungen beizubringen. Bestehen Zweifel an der Richtigkeit der Angaben und Ausgleichsberechnungen, kann die oberste Landesverkehrsbehörde weitere Nachweise verlangen.
 
-
-## § 8 – Entscheidung
+# § 8 – Entscheidung
 
 Die Entscheidung ist schriftlich zu erlassen und dem Antragsteller zuzustellen. Wird dem Antrag nicht in vollem Umfang entsprochen, ist die Entscheidung schriftlich zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 9 – Änderung der Voraussetzungen
+# § 9 – Änderung der Voraussetzungen
 
 Jede Änderung der Tatsachen, die der Berechnung des Ausgleichs zugrunde liegen, ist unverzüglich der obersten Landesverkehrsbehörde anzuzeigen.
 
-
-## § 10 – Vorauszahlungen
+# § 10 – Vorauszahlungen
 
 (1) Die Eisenbahn erhält auf den Ausgleichsbetrag auf Antrag für das laufende Kalenderjahr Vorauszahlungen in Höhe von insgesamt 80 vom Hundert des zuletzt für ein Jahr festgesetzten Ausgleichsbetrags, sie werden je zur Hälfte bis zum 15. Juli und bis zum 15. November geleistet.
 
 (2) und (3) (weggefallen)
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 Fundstelle des Originaltextes: BGBl. I 1977, 1468 - 1469
 
@@ -142,13 +125,11 @@ Als Kostenbestandteile im Sinne von § 2 AEAusglV sind folgende Positionen in An
 
 1. Energie, Treib- und Heizstoffkosten sind nach LSP Nr. 15 einzusetzen.
 
-2a.  
-Sonstiges Material (einschließlich der nicht aktivierten geringwertigen Wirtschaftsgüter)
+2a. Sonstiges Material (einschließlich der nicht aktivierten geringwertigen Wirtschaftsgüter)
 
 Dazu gehören Werkzeuge und Arbeitsgerät, Streusand und Salz, Dienstausrüstung und Schutzkleidung, Fahrausweise, Bürobedarf, Dienstkleidung und sonstige Bau-, Betriebs- und Hilfsstoffe.
 
-2b.  
-Fremdleistungen (soweit nicht aktivierungspflichtig)
+2b. Fremdleistungen (soweit nicht aktivierungspflichtig)
 
 Dazu zählen Unternehmerleistungen, Dienstleistungen und sonstige Fremdleistungen. Zum Konteninhalt der Kostenart Fremdleistungen gehören:
 
@@ -165,34 +146,28 @@ Sonstige Fremdleistungen
 
 Fahrkarten-Verkaufsprovisionen, Depotgebühren, Postfachgebühren, Auskunftsgebühren, Anmietung von Omnibussen, Frachten und Fuhrlöhne für Güter, die nicht aktiviert werden.
 
-2c.  
-Haftpflicht- und Fahrzeugversicherung
+2c. Haftpflicht- und Fahrzeugversicherung
 
   
 Es sind die für die Rechnungsperiode fälligen Prämien für Haftpflicht- und sonstige Fahrzeugversicherungen sowie die Umlage derartiger Risikogemeinschaften einzutragen.
 
 Bei der Fahrzeughaftpflichtversicherung ist anzugeben, ob die Versicherungen als Vollkasko-, Teilkasko- oder als gesetzliche Mindestversicherung abgeschlossen sind (ggf. Angaben der Höhe der Selbstkostenbeteiligung).
 
-2d.  
-Sonstige Versicherungen
+2d. Sonstige Versicherungen
 
 Hierher gehören die Prämien für Sachversicherungen, Unfallversicherungen und alle nicht unter 2c aufgeführten Haftpflichtversicherungen.
 
-3a.  
-Löhne und
+3a. Löhne und
 
-3b.  
-Gehälter
+3b. Gehälter
 
 Löhne und Gehälter sind nach Art und Umfang nur insoweit zu berücksichtigen, als sie den Grundsätzen wirtschaftlicher Betriebsführung entsprechen (LSP Nr. 23). Es sind die tariflich vereinbarten Löhne und Gehälter einzusetzen (kalkulatorischer Unternehmerlohn siehe Ziffer 8).
 
-3c.  
-Sozialkosten
+3c. Sozialkosten
 
 Es sind die gesetzlichen und die tariflich vereinbarten Sozialaufwendungen in tatsächlicher Höhe anzusetzen.
 
-3d.  
-Zuwendungen an Pensions- und Unterstützungskassen sowie Pensionsrückstellungen
+3d. Zuwendungen an Pensions- und Unterstützungskassen sowie Pensionsrückstellungen
 
 Es sind die Kosten bis zur steuerlich zulässigen Höhe einzusetzen.
 
@@ -200,19 +175,15 @@ Es sind die Kosten bis zur steuerlich zulässigen Höhe einzusetzen.
 
 Vorsteuern im Sinne des Umsatzsteuergesetzes bleiben außer Ansatz. Berücksichtigt werden können:
 
-4a.  
-Gewerbekapital- und Lohnsummensteuer
+4a. Gewerbekapital- und Lohnsummensteuer
 
-4b.  
-Vermögensteuer
+4b. Vermögensteuer
 
-4c.  
-Sonstige Steuern
+4c. Sonstige Steuern
 
 Es sind alle sonstigen Kostensteuern des Verkehrsbetriebs einzusetzen (z.B. Grundsteuer).
 
-4d.  
-Konzessionsgebühren
+4d. Konzessionsgebühren
 
 Ausgaben für die Benutzung des Verkehrsraums öffentlicher Straßen sind - auch in Form von Pacht- oder Mietzahlungen - nicht in Ansatz zu bringen.
 
@@ -293,8 +264,7 @@ Kalkulatorische Zinsen
 ---------------------------------------------------------  
 Summe 1 - 9
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III  (BGBl. II 1990, 889, 1099)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III  (BGBl. II 1990, 889, 1099)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

@@ -1,18 +1,13 @@
-# [BauPGPÜZAnerkV] Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz  (BauPG-PÜZ-Anerkennungsverordnung)
-
-Ausfertigungsdatum: 06.06.1996
-
+% Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz  (BauPG-PÜZ-Anerkennungsverordnung)
+% Ausfertigungsdatum: 06.06.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10. August 1992 (BGBl. I S. 1495) verordnet das Bundesministerium für Raumordnung, Bauwesen und Städtebau:
 
+# § 1 – (weggefallen)
 
-## § 1 – (weggefallen)
-
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Prüfstelle im Sinne dieser Verordnung ist jede natürliche oder juristische Person, Stelle oder Überwachungsgemeinschaft, zu deren Tätigkeiten die Feststellung von Eigenschaften oder von Leistungen von Bauprodukten durch Messung, Untersuchung, Berechnung oder auf sonstige Weise gehören.
 
@@ -20,15 +15,13 @@ Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10. August 1992 (B
 
 (3) Zertifizierungsstelle im Sinne dieser Verordnung ist jede natürliche oder juristische Person, Stelle oder Überwachungsgemeinschaft, zu deren Tätigkeiten die Beurteilung und abschließende Bewertung der Ergebnisse von Prüf- oder Überwachungsstellen gehören.
 
-
-## § 3 – Allgemeine Grundsätze und Voraussetzungen für die Anerkennung
+# § 3 – Allgemeine Grundsätze und Voraussetzungen für die Anerkennung
 
 (1) Die PÜZ-Stelle muß unparteilich, insbesondere hinsichtlich ihres technischen und bewertenden Urteils frei von wirtschaftlichen Einflüssen einzelner Hersteller sein. Entsprechendes gilt für den Leiter, seinen Stellvertreter und die leitenden Beschäftigten der PÜZ-Stelle. Die persönliche Zuverlässigkeit des Leiters der PÜZ-Stelle und seines Stellvertreters muß gegeben sein.
 
 (2) Die PÜZ-Stelle muß in der Lage sein, alle mit der anzuerkennenden Tätigkeit regelmäßig anfallenden Aufgaben mit eigenem Personal, eigenen Einrichtungen und Geräten durchzuführen. Unteraufträge sind nur an gleichfalls dafür anerkannte PÜZ-Stellen oder an solche PÜZ-Stellen zulässig, die Gegenstand der Anerkennung waren.
 
-
-## § 4 – Allgemeine Pflichten und Rechte der anerkannten PÜZ-Stelle
+# § 4 – Allgemeine Pflichten und Rechte der anerkannten PÜZ-Stelle
 
 (1) Die anerkannte PÜZ-Stelle muß im Rahmen ihrer Anerkennung und Kapazitäten von allen Herstellern der Bauprodukte, deren Vertretern nach § 6 Abs. 1 Satz 2 des Bauproduktengesetzes und den Importeuren nach § 8 Abs. 6 Satz 4 des Bauproduktengesetzes in Anspruch genommen werden können. Eine räumliche Begrenzung des Tätigkeitsbereichs ist auf Antrag der PÜZ-Stelle zulässig. Dies ist in der Anerkennung festzulegen.
 
@@ -50,8 +43,7 @@ Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10. August 1992 (B
 
 (10) Ein Wechsel des Leiters der PÜZ-Stelle oder seines Stellvertreters ist der Anerkennungsbehörde unverzüglich anzuzeigen.
 
-
-## § 5 – Besondere Anerkennungsvoraussetzungen als Prüfstelle
+# § 5 – Besondere Anerkennungsvoraussetzungen als Prüfstelle
 
 (1) Die Prüfstelle muß über eine ausreichende Zahl an Beschäftigten mit der für die Prüfungen notwendigen Ausbildung und beruflichen Erfahrung verfügen. Ihr muß ein hauptberuflich tätiger Leiter vorstehen, dem die Aufsicht über alle Beschäftigten der Prüfstelle obliegt. Der Leiter oder sein Stellvertreter müssen über eine auf den Tätigkeitsbereich der Prüfstelle bezogene Ausbildung technisch-naturwissenschaftlicher Art mit Abschluß an einer Fachhochschule oder Universität verfügen und eine dreijährige praktische Berufserfahrung im Bereich der Prüfung von Bauprodukten nachweisen. Soll die Prüfstelle auch im Bereich des Brauchbarkeitsnachweises nach § 1 Abs. 1 Nr. 1 Buchstabe b tätig werden, müssen der Leiter oder sein Stellvertreter eine umfassende Berufserfahrung im Bauproduktenbereich oder Anforderungsbereich von mindestens fünf Jahren nachweisen. Aus Art und Umfang der beantragten Anerkennung kann sich die Notwendigkeit eines hauptberuflichen Stellvertreters des Leiters sowie weiteren Leitungspersonals ergeben. Anzahl und Qualifikation der übrigen Beschäftigten richten sich nach Art und Umfang der beantragten Tätigkeiten und den dabei zu beachtenden technischen Anforderungen.
 
@@ -63,8 +55,7 @@ Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10. August 1992 (B
 
 2. ein System zur Aufzeichnung und Dokumentation der Prüfungen.
 
-
-## § 6 – Besondere Pflichten der anerkannten Prüfstelle
+# § 6 – Besondere Pflichten der anerkannten Prüfstelle
 
 (1) Die Prüfgeräte müssen nach den allgemein anerkannten Regeln der Technik kalibriert sein.
 
@@ -72,8 +63,7 @@ Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10. August 1992 (B
 
 (3) Die Prüfstelle hat Berichte über die Durchführung und die Ergebnisse der Prüfungen anzufertigen und zu dokumentieren. Diese müssen Angaben zum Prüfgegenstand, zum Prüfdatum, zum beteiligten Prüfpersonal, zu den angewandten Prüfverfahren entsprechend den technischen Anforderungen nach § 4 Abs. 4, zu den Prüfergebnissen und zum Herstellwerk enthalten. Die Prüfberichte sind vom Leiter der Prüfstelle oder seinem Stellvertreter zu unterzeichnen. Die Berichte und die begleitenden Aufzeichnungen sind fünf Jahre aufzubewahren und der anerkennenden Behörde oder der von dieser bestimmten Stelle auf Verlangen vorzulegen.
 
-
-## § 7 – Besondere Anerkennungsvoraussetzungen als Überwachungsstelle
+# § 7 – Besondere Anerkennungsvoraussetzungen als Überwachungsstelle
 
 (1) Die Überwachungsstelle muß über eine ausreichende Zahl an Beschäftigten mit der für die Überwachungsaufgaben notwendigen Ausbildung und beruflichen Erfahrung verfügen. Ihr muß ein Leiter vorstehen, dem die Aufsicht über alle Beschäftigten der Überwachungsstelle obliegt. Der Leiter oder sein Stellvertreter müssen über eine auf den Tätigkeitsbereich der Überwachungsstelle bezogene Ausbildung technisch-naturwissenschaftlicher Art mit Abschluß an einer Fachhochschule oder Universität verfügen und eine dreijährige praktische Berufserfahrung im Bereich der Überwachung von Bauprodukten nachweisen. Anzahl und Qualifikation der übrigen Beschäftigten richten sich nach Art und Umfang der beantragten Tätigkeiten und den dabei zu beachtenden technischen Anforderungen.
 
@@ -83,13 +73,11 @@ Auf Grund des § 15 Abs. 1 Nr. 3 des Bauproduktengesetzes vom 10. August 1992 (B
 
 2. ein System zur Aufzeichnung und Dokumentation der Überwachungen.
 
-
-## § 8 – Besondere Pflichten der anerkannten Überwachungsstelle
+# § 8 – Besondere Pflichten der anerkannten Überwachungsstelle
 
 Die Überwachungsstelle hat Berichte über die Durchführung der Überwachungen anzufertigen. Diese müssen Angaben zum Überwachungsgegenstand, zum Überwachungszeitraum, zum beteiligten Überwachungspersonal, zu den angewandten Überwachungsverfahren, zu den Überwachungsergebnissen und zum Herstellwerk enthalten. Der Überwachungsbericht ist vom Leiter der Überwachungsstelle oder seinem Stellvertreter zu unterschreiben. Die Berichte und die begleitenden Aufzeichnungen sind fünf Jahre aufzubewahren und der anerkennenden Behörde oder der von ihr beauftragten Stelle auf Verlangen vorzulegen.
 
-
-## § 9 – Besondere Anerkennungsvoraussetzungen als Zertifizierungsstelle
+# § 9 – Besondere Anerkennungsvoraussetzungen als Zertifizierungsstelle
 
 (1) Die Zertifizierungsstelle muß über eine ausreichende Zahl an Beschäftigten mit der für die Zertifizierungen notwendigen Ausbildung und beruflichen Erfahrung verfügen. Ihr muß ein Leiter vorstehen, dem die Aufsicht über alle Beschäftigten der Zertifizierungsstelle obliegt. Der Leiter oder sein Stellvertreter müssen über eine fachbezogene Ausbildung technisch-naturwissenschaftlicher Art mit Abschluß an einer Fachhochschule oder Universität verfügen und eine fünfjährige praktische Berufserfahrung im Bereich der Prüfung, Überwachung oder Zertifizierung von Bauprodukten nachweisen. Anzahl und Qualifikation der übrigen Beschäftigten richten sich nach Art und Umfang der beantragten Tätigkeiten und den dabei zu beachtenden technischen Anforderungen.
 
@@ -99,13 +87,11 @@ Die Überwachungsstelle hat Berichte über die Durchführung der Überwachungen 
 
 2. ein System zur Aufzeichnung und Dokumentation der Zertifizierungen.
 
-
-## § 10 – Besondere Pflichten der anerkannten Zertifizierungsstelle
+# § 10 – Besondere Pflichten der anerkannten Zertifizierungsstelle
 
 Die Zertifizierungsstelle hat Aufzeichnungen und Berichte über ihre Zertifizierungen anzufertigen. Die Berichte müssen Angaben zum Zertifizierungsgegenstand, zum Zertifizierungsdatum, zum beteiligten Zertifizierungspersonal, zu den angewandten Zertifizierungsverfahren, zum Zertifizierungsergebnis und zum Herstellwerk enthalten. Der Bericht ist vom Leiter der Zertifizierungsstelle oder seinem Stellvertreter zu unterzeichnen. Der Bericht ist unabhängig von der Notwendigkeit eines Konformitätszertifikats zu erstellen.
 
-
-## § 11 – Antrag und Antragsunterlagen
+# § 11 – Antrag und Antragsunterlagen
 
 (1) Die Anerkennung ist schriftlich bei der Anerkennungsbehörde zu beantragen.
 
@@ -127,8 +113,7 @@ Die Zertifizierungsstelle hat Aufzeichnungen und Berichte über ihre Zertifizier
 
 (3) Die Anerkennungsbehörde kann Gutachten über die Erfüllung einzelner Anerkennungsvoraussetzungen einholen.
 
-
-## § 12 – Widerruf und Erlöschen
+# § 12 – Widerruf und Erlöschen
 
 (1) Die Anerkennung ist zu widerrufen, wenn die anerkannte PÜZ-Stelle gegen die ihr obliegenden Pflichten wiederholt oder grob verstoßen hat. Sie ist ferner zu widerrufen, wenn nachträglich Gründe bekannt werden oder eintreten, die eine Versagung der Genehmigung gerechtfertigt hätten. Die Anerkennung kann widerrufen werden, wenn die anerkannte PÜZ-Stelle ihre Tätigkeit zwei Jahre nicht ausgeübt hat.
 
@@ -144,12 +129,10 @@ Die Zertifizierungsstelle hat Aufzeichnungen und Berichte über ihre Zertifizier
 
 Liegen bei einer juristischen Person, Stelle oder Überwachungsgemeinschaft die Erlöschensgründe nach Satz 2 hinsichtlich des Leiters oder seines Stellvertreters vor, erlischt die Anerkennung, wenn der Anerkennungsbehörde nicht innerhalb von sechs Monaten ein Wechsel des Leiters oder seines Stellvertreters nach § 4 Abs. 10 angezeigt wird.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

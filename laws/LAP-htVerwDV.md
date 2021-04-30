@@ -1,15 +1,11 @@
-# [LAP-htVerwDV] Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Verwaltungsdienst des Bundes  (LAP-htVerwDV)
-
-Ausfertigungsdatum: 20.08.2004
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Verwaltungsdienst des Bundes  (LAP-htVerwDV)
+% Ausfertigungsdatum: 20.08.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -369,15 +365,13 @@ Sonstige Vorschriften
 
 Inkrafttreten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes in den Fachrichtungen Hochbau, Bauingenieurwesen, Bahnwesen, Maschinen- und Elektrotechnik sowie Luftfahrttechnik.
 
 (2) Soweit Teil 2 nichts Abweichendes regelt, gelten die Bestimmungen des Teils 1 für alle Fachrichtungen der Laufbahn.
 
-
-## § 2 – Laufbahnämter
+# § 2 – Laufbahnämter
 
 (1) Die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn. Die Laufbahn gliedert sich in die Fachrichtungen Hochbau, Bauingenieurwesen, Bahnwesen, Maschinen- und Elektrotechnik sowie Luftfahrttechnik.
 
@@ -432,8 +426,7 @@ Die Beförderungsämter der Bundesbesoldungsordnung B ergeben sich aus der Anlag
 
 (3) Die Ämter nach Absatz 1 Satz 1 Nr. 1 bis 4 sind regelmäßig zu durchlaufen.
 
-
-## § 3 – Ziel und Inhalt der Ausbildung
+# § 3 – Ziel und Inhalt der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den Beamtinnen und Beamten die berufliche Grundbildung (berufspraktische Fähigkeiten und problemorientiertes Denken und Handeln), die sie zur Anwendung ihres im Studium erworbenen Wissens in der Laufbahn des höheren technischen Verwaltungsdienstes des Bundes in den jeweiligen Fachrichtungen benötigen. Sie sind dabei mit den Aufgaben der Verkehrs- und Bauverwaltung des Bundes vertraut zu machen. Die Ausbildung soll auch umfassende Kenntnisse in den Gebieten Verwaltung, Recht, Planung, Betrieb und Wirtschaftlichkeit vermitteln. Dabei sollen verantwortungsbewusste Persönlichkeiten für leitende Tätigkeiten herangebildet werden. Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung für die freiheitliche demokratische Grundordnung hingewiesen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt; die Beamtinnen und Beamten erwerben europaspezifische Kenntnisse. Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns und zum selbständigen und wirtschaftlichen Handeln, sowie soziale Kompetenz sind zu fördern.
 
@@ -441,13 +434,11 @@ Die Beförderungsämter der Bundesbesoldungsordnung B ergeben sich aus der Anlag
 
 (3) Die Beamtinnen und Beamten sind zum Selbststudium verpflichtet; das Selbststudium ist zu fördern.
 
-
-## § 4 – Einstellungsbehörde
+# § 4 – Einstellungsbehörde
 
 Einstellungsbehörden sind das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium des Innern, für Bau und Heimat für ihren jeweiligen Bereich. Sie können die Aufgaben auf ihnen nachgeordnete Ober- und Mittelbehörden ganz oder teilweise übertragen. Es kann die Aufgabe auf ihm nachgeordnete Ober- und Mittelbehörden ganz oder teilweise übertragen. Der Einstellungsbehörde obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung, die Begleitung sowie die Unterstützung der Baureferendarinnen und Baureferendare; sie trifft die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes. Die Einstellungsbehörde ist die für die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde, soweit diese Befugnisse nicht auf die Ausbildungsbehörde delegiert sind.
 
-
-## § 5 – Einstellungsvoraussetzungen
+# § 5 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -463,8 +454,7 @@ c) einer anderen gleichgestellten wissenschaftlichen Hochschule mit einer Regels
 
 erfolgreich abgeschlossen oder an einer Fachhochschule einen Masterabschluss mit Akkreditierung für die Laufbahn des höheren Dienstes erworben hat.
 
-
-## § 6 – Ausschreibung, Bewerbung
+# § 6 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -490,8 +480,7 @@ b) eine Ablichtung des Schwerbehindertenausweises oder des Bescheides über die 
 
 c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
 
-
-## § 7 – Auswahlverfahren
+# § 7 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -507,8 +496,7 @@ c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 (7) Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Einstellungsbehörde für die Dauer von drei Jahren bestellt.
 
-
-## § 8 – Einstellung in den Vorbereitungsdienst
+# § 8 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörde entscheidet nach dem Ergebnis des Auswahlverfahrens über die Einstellung von Bewerberinnen und Bewerbern. Wer nicht eingestellt wird, erhält die Bewerbungsunterlagen mit einer schriftlichen Ablehnung zurück.
 
@@ -532,15 +520,13 @@ b) in geordneten wirtschaftlichen Verhältnissen lebt.
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
-
-## § 9 – Rechtsstellung während des Vorbereitungsdienstes
+# § 9 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Baureferendarinnen und Bewerber zu Baureferendaren ernannt.
 
 (2) Die Baureferendarinnen und Baureferendare unterstehen der Dienstaufsicht der Ausbildungsbehörde. Während der Ausbildung außerhalb der Ausbildungsbehörde in einer Bundes-, Landes- oder Kommunalbehörde unterstehen sie auch deren Dienstaufsicht.
 
-
-## § 10 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+# § 10 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre.
 
@@ -566,18 +552,15 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (7) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 35 Abs. 2 und 3.
 
-
-## § 11 – Urlaub während des Vorbereitungsdienstes
+# § 11 – Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 12 – Ausbildungsakte
+# § 12 – Ausbildungsakte
 
 Für die Baureferendarinnen und Baureferendare sind Personalteilakten "Ausbildung" zu führen, in die der Ausbildungsplan sowie alle Beurteilungen und Prüfungsergebnisse aufzunehmen sind.
 
-
-## § 13 – Schwerbehinderte Menschen
+# § 13 – Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für die Erbringung von Leistungsnachweisen und für die Teilnahme an Prüfungen die ihrer Behinderung angemessenen Erleichterungen gewährt. Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu gewährenden Erleichterungen sind mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden. Die Vorschriften des Neunten Buches Sozialgesetzbuch sowie der Vereinbarung zur Integration schwerbehinderter Menschen in der Bundesverwaltung für Verkehr, Bau- und Wohnungswesen (Rahmenintegrationsvereinbarung) sind zu beachten. Die Sätze 1 bis 4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 
@@ -587,13 +570,11 @@ Für die Baureferendarinnen und Baureferendare sind Personalteilakten "Ausbildun
 
 (4) Bezüglich der Beurteilungen während der Ausbildung nach § 17 wird auf die Rahmenintegrationsvereinbarung hingewiesen.
 
-
-## § 14 – Gliederung des Vorbereitungsdienstes
+# § 14 – Gliederung des Vorbereitungsdienstes
 
 Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der einzelnen Fachrichtungen. Anzahl, Dauer und Inhalt der Ausbildungsabschnitte sind für jede Fachrichtung in Teil 2 geregelt.
 
-
-## § 15 – Grundsätze der Ausbildung
+# § 15 – Grundsätze der Ausbildung
 
 (1) Die Baureferendarinnen und Baureferendare werden nach den Sondervorschriften ihrer Fachrichtung, ihres Fachgebietes oder ihres Schwerpunktgebietes ausgebildet. Abweichungen von diesen Vorschriften sind nur mit Zustimmung der Einstellungsbehörde möglich. Dem Kuratorium des Oberprüfungsamtes ist vorher Gelegenheit zur Stellungnahme zu geben.
 
@@ -601,8 +582,7 @@ Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der
 
 (3) Die Ausbildung wird insbesondere durch Lehrgänge, Seminare, Planspiele, Arbeitsgemeinschaften oder Exkursionen vertieft.
 
-
-## § 16 – Ausbildungsbehörde, Ausbildungsleitung, Ausbilderinnen und Ausbilder
+# § 16 – Ausbildungsbehörde, Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
 (1) Die Baureferendarinnen und Baureferendare werden von der Einstellungsbehörde, soweit sie nicht selbst Ausbildungsbehörde ist, einer Ausbildungsbehörde zugewiesen. Wünsche nach Zuweisung an eine bestimmte Ausbildungsbehörde werden nach Möglichkeit berücksichtigt. Auf Antrag und nach Übereinkunft mit den beteiligten Stellen kann die Ausbildung in einzelnen Abschnitten auch bei allen Verwaltungen des Bundes, der Länder und bei Kommunalverwaltungen oder bei sonstigen geeigneten Stellen stattfinden.
 
@@ -618,8 +598,7 @@ Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der
 
 (7) Die Ausbildungsbehörde führt für die Baureferendarinnen und Baureferendare eine Übersicht über den Vorbereitungsdienst.
 
-
-## § 17 – Beurteilungen während der Ausbildung
+# § 17 – Beurteilungen während der Ausbildung
 
 (1) Über die Leistungen und den Befähigungsstand der Baureferendarinnen und Baureferendare wird während der Ausbildung für jedes Ausbildungsgebiet, dem sie nach dem Ausbildungsplan mindestens sechs Wochen zugewiesen werden, eine Beurteilung ihrer Fähigkeiten und Kenntnisse sowie ihrer Leistungen und ihrer Führung unter Angabe der Art und Dauer der Beschäftigung abgegeben. Die Beurteilung muss erkennen lassen, ob das Ziel des Ausbildungsabschnittes erreicht ist. Besondere Fähigkeiten oder Mängel sind zu vermerken. Ausbildungszeiten unter sechs Wochen werden von der Ausbildungsstelle unter Angabe von Art und Dauer der Beschäftigung, und ob das Ziel des Ausbildungsabschnittes erreicht wurde, bestätigt.
 
@@ -627,8 +606,7 @@ Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der
 
 (3) Zum Abschluss der Ausbildung erstellt die Ausbildungsbehörde eine abschließende Beurteilung. In ihr werden die Beurteilungen nach Absatz 1 aufgeführt. Sie soll aber auch über die Allgemeinbildung, Charaktereigenschaften und die Fähigkeit zum freien Vortrag der Baureferendarinnen und Baureferendare Aufschluss geben.
 
-
-## § 18 – Ausbildungsaufstieg
+# § 18 – Ausbildungsaufstieg
 
 (1) Die Einstellungsbehörde benennt die Beamtinnen und Beamten, die am Auswahlverfahren für den Ausbildungsaufstieg in den höheren technischen Verwaltungsdienst des Bundes nach den §§ 33 und 33a der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, teilnehmen. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Auf die Durchführung des Auswahlverfahrens ist § 7 entsprechend anzuwenden.
 
@@ -642,8 +620,7 @@ Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der
 
 (6) Unter den Voraussetzungen des § 33a Abs. 6 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, können auch Arbeitnehmerinnen und Arbeitnehmer des Bundes an der Aufstiegsausbildung teilnehmen.
 
-
-## § 19 – Praxisaufstieg
+# § 19 – Praxisaufstieg
 
 (1) Die Einstellungsbehörde benennt die Beamtinnen und Beamten, die am Auswahlverfahren für den Praxisaufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes nach den §§ 33 und 33b der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, teilnehmen. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Auf die Durchführung des Auswahlverfahrens ist § 7 entsprechend anzuwenden.
 
@@ -653,8 +630,7 @@ Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der
 
 (4) Mit der Feststellung über den erfolgreichen Abschluss gemäß Absatz 3 Satz 5 wird die Befähigung für die neue Laufbahn erworben. Das Feststellungsverfahren kann einmal wiederholt werden. Nach Erwerb der Laufbahnbefähigung bleiben die Beamtinnen und Beamten bis zur Verleihung des Eingangsamtes der neuen Laufbahn in ihrer bisherigen Rechtsstellung.
 
-
-## § 20 – Oberprüfungsamt
+# § 20 – Oberprüfungsamt
 
 (1) Die Durchführung der Großen Staatsprüfung obliegt dem Oberprüfungsamt für die höheren technischen Verwaltungsbeamten mit Sitz in Frankfurt am Main.
 
@@ -664,8 +640,7 @@ Die Gliederung des Vorbereitungsdienstes richtet sich nach den Bedürfnissen der
 
 (4) Die Präsidentin oder der Präsident des Oberprüfungsamtes sorgt für einen ordnungsgemäßen Prüfungsablauf. Sie oder er überwacht, dass in allen Fachrichtungen und Fachgebieten gleich hohe Prüfungsanforderungen gestellt und gleiche Beurteilungsmaßstäbe angelegt werden. Zur Wahrnehmung dieser Aufgaben kann sie oder er sich an den Prüfungen beteiligen und gilt in diesem Falle von Amts wegen als weiteres Mitglied des Prüfungsausschusses oder der Prüfungskommission. Dies gilt entsprechend für die Vertretungen.
 
-
-## § 21 – Prüfungskommissionen
+# § 21 – Prüfungskommissionen
 
 (1) Die Große Staatsprüfung wird vor einer Prüfungskommission der jeweiligen Fachrichtung oder des jeweiligen Fachgebiets abgelegt. Für die häusliche Prüfungsarbeit, die schriftlichen Aufsichtsarbeiten und die mündliche Prüfung können gesonderte Prüfungskommissionen eingerichtet werden. Es können in einer Fachrichtung oder in einem Fachgebiet mehrere Prüfungskommissionen eingerichtet werden, wenn die Zahl der zu prüfenden Baureferendarinnen und Baureferendare, die Zeitplanung zum fristgemäßen Abschluss der Prüfungen oder fachliche Gesichtspunkte in Bezug auf die Bewertung der schriftlichen Prüfungsarbeiten dies erfordern. Die Vorsitzenden, ihre Vertretungen und die sonstigen Mitglieder der Prüfungskommissionen werden von der Präsidentin oder dem Präsidenten des Oberprüfungsamtes aus den Prüfungsausschüssen ausgewählt.
 
@@ -681,8 +656,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (4) Die Prüfungskommission ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder, mindestens aber drei Mitglieder, darunter die oder der Vorsitzende, anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 22 – Große Staatsprüfung
+# § 22 – Große Staatsprüfung
 
 (1) In der Großen Staatsprüfung ist festzustellen, ob die Baureferendarinnen und Baureferendare für die vorgesehene Laufbahn befähigt sind. Insbesondere haben die Baureferendarinnen und Baureferendare nachzuweisen, dass sie
 
@@ -696,15 +670,13 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (3) Prüfung und Beratung sind nicht öffentlich. Angehörige des Oberprüfungsamtes können teilnehmen. Die Präsidentin oder der Präsident des Oberprüfungsamtes kann Vertreterinnen und Vertretern der Einstellungsbehörde und der Ausbildungsbehörde, in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen, die Anwesenheit in der mündlichen Prüfung allgemein oder im Einzelfall gestatten. Auf Wunsch von schwerbehinderten Baureferendarinnen und Baureferendaren kann während des sie betreffenden mündlichen Teils der Prüfung die Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der Prüfungskommission über die Bewertung der Prüfungsleistungen dürfen nur deren Mitglieder anwesend sein.
 
-
-## § 23 – Prüfungsort, Prüfungstermin
+# § 23 – Prüfungsort, Prüfungstermin
 
 (1) Der Termin der häuslichen Prüfungsarbeit wird vom Oberprüfungsamt festgesetzt und den Baureferendarinnen und Baureferendaren zusammen mit dem Ort der Aushändigung des Themas der häuslichen Prüfungsarbeit rechtzeitig mitgeteilt.
 
 (2) Das Oberprüfungsamt setzt Ort und Zeit der schriftlichen Arbeiten unter Aufsicht und der mündlichen Prüfung fest und teilt dies den Baureferendarinnen und Baureferendaren rechtzeitig mit. Dieser Teil der Großen Staatsprüfung findet am Sitz des Oberprüfungsamtes oder an einem anderen von ihm zu bestimmenden Prüfungsort statt.
 
-
-## § 24 – Zulassung zur Großen Staatsprüfung
+# § 24 – Zulassung zur Großen Staatsprüfung
 
 (1) Zur Großen Staatsprüfung kann nur zugelassen werden, wer die vorgeschriebenen Ausbildungsabschnitte ordnungsgemäß durchlaufen hat.
 
@@ -716,8 +688,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (5) Das Oberprüfungsamt leitet den Zulassungsbescheid zusammen mit der Aufgabe für die häusliche Prüfungsarbeit der Ausbildungsbehörde zu. Diese veranlasst die fristgerechte Aushändigung an die Baureferendarin oder den Baureferendar. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen. Die dem Zulassungsantrag beigefügten Unterlagen werden gleichzeitig zurückgegeben. Sie sind zu vervollständigen und dem Oberprüfungsamt mit der abschließenden Beurteilung nach § 17 Abs. 3 rechtzeitig vor den schriftlichen Arbeiten unter Aufsicht wieder zuzuleiten.
 
-
-## § 25 – Häusliche Prüfungsarbeit
+# § 25 – Häusliche Prüfungsarbeit
 
 (1) Die häusliche Prüfungsarbeit soll die Fähigkeit erkennen lassen, Aufgaben aus der Praxis richtig zu erfassen, methodisch zu bearbeiten und das Ergebnis klar darzustellen.
 
@@ -735,8 +706,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (8) Die Verfasserin oder der Verfasser der häuslichen Prüfungsarbeit kann die Arbeit frühestens fünf Jahre nach Abschluss der Prüfung zurückverlangen.
 
-
-## § 26 – Schriftliche Arbeiten unter Aufsicht
+# § 26 – Schriftliche Arbeiten unter Aufsicht
 
 (1) Die schriftliche Prüfung soll die Fähigkeit erkennen lassen, Aufgaben aus dem Bereich der Verwaltung schnell und sicher zu erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln zu lösen und das Ergebnis knapp und übersichtlich darzustellen. Die Prüfungsaufgaben bestimmt das Oberprüfungsamt.
 
@@ -756,8 +726,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (9) Die schriftliche Prüfung ist bestanden, wenn jede der vier schriftlichen Arbeiten unter Aufsicht mindestens mit der Note "ausreichend" (Punktzahl 4,0) bewertet worden ist. Sie ist auch bestanden, wenn der Durchschnitt aller schriftlichen Aufsichtsarbeiten mindestens die Punktzahl 4,0 erreicht, wobei höchstens eine Arbeit schlechtestens mit der Note "mangelhaft" (Punktzahl 5,0) bewertet sein darf. Ansonsten ist die Große Staatsprüfung nicht bestanden. Hierüber erhält die Baureferendarin oder der Baureferendar vom Oberprüfungsamt einen Bescheid mit Rechtsbehelfsbelehrung.
 
-
-## § 27 – Mündliche Prüfung
+# § 27 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung soll neben dem Wissen und Können der Fachrichtung vor allem das Verständnis für technische, wirtschaftliche, rechtliche und soziale, gegebenenfalls auch ökologische und kulturelle Zusammenhänge erkennen lassen. Bei der Beurteilung soll auch Urteilsvermögen sowie Sicherheit im Auftreten und im mündlichen Ausdruck berücksichtigt werden.
 
@@ -777,8 +746,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (9) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die die Mitglieder der jeweiligen Prüfungskommission bestätigen.
 
-
-## § 28 – Verhinderung, Rücktritt, Säumnis
+# § 28 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines ärztlichen Zeugnisses nachzuweisen.
 
@@ -788,8 +756,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (4) Versäumen Baureferendarinnen oder Baureferendare die schriftliche oder mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet das Oberprüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Punktzahl 6,0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 29 – Täuschung, Ordnungsverstoß
+# § 29 – Täuschung, Ordnungsverstoß
 
 (1) Baureferendarinnen oder Baureferendaren, die bei einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung des Oberprüfungsamtes oder der Prüfungskommission nach Absatz 2 über die weitere Fortsetzung der Prüfung gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -799,8 +766,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die häusliche Prüfungsa
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören.
 
-
-## § 30 – Bewertung von Prüfungsleistungen
+# § 30 – Bewertung von Prüfungsleistungen
 
 Die Leistungen werden mit folgenden Noten und Punktzahlen bewertet:  
 
@@ -814,8 +780,7 @@ Punktzahl 6,0</td><td style="text-align: left;">eine Leistung, die den Anforderu
 
 Andere Punktzahlen oder Zwischennoten dürfen nicht verwendet werden.
 
-
-## § 31 – Gesamtergebnis
+# § 31 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung stellt die Prüfungskommission das Gesamtergebnis fest. Dabei werden berücksichtigt
 
@@ -838,8 +803,7 @@ Durchschnittspunktzahlen werden auf zwei Dezimalstellen hinter dem Komma ohne Au
 
 (3) Im Anschluss an die Beratung der Prüfungskommission teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Punktzahlen mit. Bei bestandener Prüfung erhalten die Prüfungsteilnehmerinnen und Prüfungsteilnehmer hierüber eine Bescheinigung des Oberprüfungsamtes, die auch Angaben über die Berufsbezeichnung enthält.
 
-
-## § 32 – Zeugnis
+# § 32 – Zeugnis
 
 (1) Das Oberprüfungsamt erteilt den Baureferendarinnen und Baureferendaren, die die Prüfung bestanden haben, ein Prüfungszeugnis, das die Abschlussnote und die Einzelbewertungen der häuslichen Prüfungsarbeit, der vier schriftlichen Arbeiten unter Aufsicht sowie der mündlichen Prüfung einschließlich des Kurzvortrags enthält. Das Zeugnis wird durch Bescheid des Oberprüfungsamtes zugestellt. Ist die Prüfung nicht bestanden, gibt das Oberprüfungsamt dies den Baureferendarinnen und Baureferendaren schriftlich bekannt. Der Bescheid nach Satz 2 und die Bekanntgabe nach Satz 3 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalakten genommen. Das Beamtenverhältnis auf Widerruf endet bei bestandener oder endgültig nicht bestandener Großer Staatsprüfung mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
@@ -847,20 +811,17 @@ Durchschnittspunktzahlen werden auf zwei Dezimalstellen hinter dem Komma ohne Au
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch das Oberprüfungsamt berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den Fällen des § 29 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
-## § 33 – Erwerb der Laufbahnbefähigung
+# § 33 – Erwerb der Laufbahnbefähigung
 
 Mit dem Bestehen der Großen Staatsprüfung erwerben die Baureferendarinnen und Baureferendare die Befähigung zum höheren bautechnischen Verwaltungsdienst des Bundes. Sie sind berechtigt, die Berufsbezeichnung "Bauassessorin" oder "Bauassessor" mit einem die Fachrichtung bezeichnenden Zusatz zu führen.
 
-
-## § 34 – Prüfungsakten, Einsichtnahme
+# § 34 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Bewertungen, der Niederschriften über die Große Staatsprüfung sowie des Prüfungszeugnisses ist mit der häuslichen Prüfungsarbeit und den schriftlichen Arbeiten unter Aufsicht einschließlich ihrer Bewertungen zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Oberprüfungsamt oder der von ihm bestimmten Stelle mindestens fünf Jahre aufbewahrt.
 
 (2) Die Baureferendarinnen und Baureferendare können nach Abschluss der Großen Staatsprüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 35 – Wiederholung
+# § 35 – Wiederholung
 
 (1) Wer die Große Staatsprüfung nicht bestanden hat oder wessen Prüfung als nicht bestanden gilt, kann sie einmal wiederholen.
 
@@ -878,13 +839,11 @@ Bei überwiegend ungenügenden oder mangelhaften Leistungen kann der Prüfungsau
 
 (4) Die jeweilige oberste Dienstbehörde kann in begründeten Fällen eine zweite Wiederholung der Prüfung zulassen. Der Antrag auf Zulassung zu einer zweiten Wiederholung ist innerhalb einer Woche nach Erhalt des Bescheides über das Nichtbestehen der Prüfung dem Bundesministerium für der jeweiligen obersten Dienstbehörde über die Präsidentin oder den Präsidenten des Oberprüfungsamtes zuzuleiten. Die Beendigung des Beamtenverhältnisses nach § 32 Abs. 1 Satz 5 bleibt hiervon unberührt.
 
-
-## § 36 – Einstellungsvoraussetzungen
+# § 36 – Einstellungsvoraussetzungen
 
 Es werden nur Bewerberinnen und Bewerber eingestellt, die gemäß § 5 Nummer 2 ein abgeschlossenes wissenschaftliches Studium der Architektur mit einer Regelstudienzeit von mindestens acht Fachsemestern - ohne Praxis- und Prüfungssemester - an einer wissenschaftlichen Hochschule oder einen entsprechenden Master-Abschluss nachweisen.
 
-
-## § 37 – Gliederung der Ausbildung
+# § 37 – Gliederung der Ausbildung
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:  
 
@@ -908,8 +867,7 @@ Grundzüge des Staats-, Verwaltungs-, Planungs- und Baurechts, Gesetze, Verordnu
 Ausbildungsplan  
 Fachrichtung: Hochbau
 
-
-## § 38 – Prüfungsfächer, Prüfungszeiten
+# § 38 – Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:  
 
@@ -965,18 +923,15 @@ zusammen
 
 6 1/2
 
-
-## § 39 – Aufstieg
+# § 39 – Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und Beamte des gehobenen bautechnischen Verwaltungsdienstes des Bundes - Fachrichtung Hochbau - für den Aufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung Hochbau - zugelassen werden.
 
-
-## § 40 – Einstellungsvoraussetzungen, Fachgebiet
+# § 40 – Einstellungsvoraussetzungen, Fachgebiet
 
 Es werden nur Bewerberinnen und Bewerber eingestellt die gemäß § 5 Nummer 2 ein abgeschlossenes wissenschaftliches Studium des Bauingenieurwesens mit einer Regelstudienzeit von mindestens acht Fachsemestern - ohne Praxis- und Prüfungssemester - an einer wissenschaftlichen Hochschule oder einen entsprechenden Master-Abschluss nachweisen. Sie werden im Fachgebiet Wasserwesen, Fachbereich "Wasserstraßen", ausgebildet.
 
-
-## § 41 – Gliederung der Ausbildung
+# § 41 – Gliederung der Ausbildung
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:  
 
@@ -1244,14 +1199,12 @@ Erholungsurlaub
 
  
 
-In begründeten Fällen kann die Reihenfolge der Ausbildungsabschnitt I bis III geändert werden.  
------
+In begründeten Fällen kann die Reihenfolge der Ausbildungsabschnitt I bis III geändert werden. -----
 
 \*)  
 Gemeinsam mit den Referendarinnen und Referendaren der Wasserwirtschaftsverwaltungen der Länder.
 
-
-## § 42 – Prüfungsfächer, Prüfungszeiten
+# § 42 – Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:  
 
@@ -1323,13 +1276,11 @@ zusammen
 
 6 1/2
 
-
-## § 43 – Aufstieg
+# § 43 – Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und Beamte des gehobenen technischen Verwaltungsdienstes in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für den Aufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung Wasserwesen, Fachbereich Wasserstraßen - zugelassen werden.
 
-
-## § 44 – Schwerpunktgebiete, Einstellungsvoraussetzungen
+# § 44 – Schwerpunktgebiete, Einstellungsvoraussetzungen
 
 (1) In der Fachrichtung Bahnwesen ist eine vertiefte Ausbildung in folgenden Schwerpunktgebieten vorgesehen:
 
@@ -1341,11 +1292,9 @@ Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und Beamte des g
 
 (2) Es werden nur Bewerberinnen und Bewerber eingestellt, die gemäß § 5 Nummer 2 ein abgeschlossenes wissenschaftliches Studium des Bauingenieurwesens, des Maschinenbaues oder der Elektrotechnik oder eines vergleichbaren Studienganges mit einer Regelstudienzeit von mindestens acht Fachsemestern - ohne Praxis- und Prüfungssemester - an einer wissenschaftlichen Hochschule oder einen entsprechenden Master-Abschluss nachweisen.
 
+# § 45 – Gliederung der Ausbildung
 
-## § 45 – Gliederung der Ausbildung
-
-Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische Ausbildung und Lehrgänge, die aufeinander abgestimmt werden.  
-
+Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische Ausbildung und Lehrgänge, die aufeinander abgestimmt werden. 
 Ausbildungsplan
 
 Fachrichtung: Bahnwesen
@@ -1695,8 +1644,7 @@ Erholungsurlaub
 
 3) Nur Umweltamt.
 
-
-## § 46 – Prüfungsfächer, Prüfungszeiten
+# § 46 – Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:  
 
@@ -1868,20 +1816,17 @@ zusammen
 
 2 1/4
 
-
-## § 47 – Aufstieg
+# § 47 – Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und Beamte des gehobenen technischen Dienstes - Fachrichtung Bahnwesen - für den Aufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung Bahnwesen - zugelassen werden.
 
-
-## § 48 – Fachgebiete, Einstellungsvoraussetzungen
+# § 48 – Fachgebiete, Einstellungsvoraussetzungen
 
 (1) In der Fachrichtung Maschinen- und Elektrotechnik ist eine vertiefte Ausbildung in den Fachgebieten Maschinen- und Elektrotechnik der Wasserstraßen oder Maschinen- und Elektrotechnik in der Verwaltung möglich.
 
 (2) Es werden nur Bewerberinnen und Bewerber eingestellt, die gemäß § 5 Nummer 2 ein abgeschlossenes wissenschaftliches Studium des Maschinenbaues, der Elektrotechnik oder der Schiffstechnik oder von Fachrichtungen, deren Vordiplome auf der Basis vom Mathematik, Physik, Chemie, Mechanik oder Werkstofftechnik für die vorstehenden Fachrichtungen gegenseitig anzuerkennen sind, mit einer Regelstudienzeit von mindestens acht Fachsemestern - ohne Praxis- und Prüfungssemester - an einer wissenschaftlichen Hochschule oder einen entsprechenden Master-Abschluss nachweisen.
 
-
-## § 49 – Gliederung der Ausbildung
+# § 49 – Gliederung der Ausbildung
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:  
 
@@ -2219,8 +2164,7 @@ Erholungsurlaub
 
  
 
-
-## § 50 – Prüfungsfächer, Prüfungszeiten
+# § 50 – Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:  
 
@@ -2364,20 +2308,17 @@ zusammen
 
 6 1/2
 
-
-## § 51 – Aufstieg
+# § 51 – Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und Beamte des gehobenen technischen Verwaltungsdienstes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder des gehobenen bautechnischen Verwaltungsdienstes des Bundes für den Aufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung Maschinen- und Elektrotechnik - zugelassen werden.
 
-
-## § 52 – Einstellungsvoraussetzungen
+# § 52 – Einstellungsvoraussetzungen
 
 (1) Es werden nur Bewerberinnen und Bewerber eingestellt, die gemäß § 5 Nummer 2 ein abgeschlossenes wissenschaftliches Studium des Maschinenbaus (Schwerpunkt Luft- und Raumfahrttechnik), der Luft- und Raumfahrttechnik (Schwerpunkt Luftfahrttechnik oder Flugführung), des Flugzeugbaus oder der Elektrotechnik mit einer Regelstudienzeit von mindestens acht Fachsemestern - ohne Praxis- und Prüfungssemester - an einer wissenschaftlichen Hochschule oder einen entsprechenden Master-Abschluss nachweisen.
 
 (2) Bewerberinnen und Bewerber müssen englische Sprachkenntnisse besitzen.
 
-
-## § 53 – Gliederung der Ausbildung
+# § 53 – Gliederung der Ausbildung
 
 Der Vorbereitungsdienst gliedert sich wie folgt in eine praktische Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:  
 
@@ -2551,8 +2492,7 @@ Erholungsurlaub
 
  
 
-
-## § 54 – Prüfungsfächer, Prüfungszeiten
+# § 54 – Prüfungsfächer, Prüfungszeiten
 
 Für die schriftliche und mündliche Prüfung sind folgende Prüfungsfächer vorgesehen; die Prüfungszeiten gelten für die mündliche Prüfung:  
 
@@ -2624,17 +2564,14 @@ zusammen
 
 6 1/2
 
-
-## § 55 – Aufstieg
+# § 55 – Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und Beamte einer Laufbahn mit Vorbereitungsdienst des gehobenen technischen Dienstes mit Bezug zur Luftfahrt für den Aufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung Luftfahrttechnik - zugelassen werden.
 
-
-## § 56 – Übergangsregelung
+# § 56 – Übergangsregelung
 
 Für Baureferendarinnen und Baureferendare, die sich zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits im Vorbereitungsdienst befinden, gelten die Bestimmungen der Ausbildungs- und Prüfungsordnung für den höheren bautechnischen Verwaltungsdienst des Bundes vom 19. Dezember 1990 (VkBl. 1991 S. 82), geändert durch Verwaltungsvorschrift vom 23. November 1998 (VkBl. S. 1338), weiter.
 
-
-## § 57 – Inkrafttreten
+# § 57 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

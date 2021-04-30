@@ -1,15 +1,11 @@
-# [BMPZVersAnO] Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesminister für das Post- und Fernmeldewesen - ZOVers -
-
-Ausfertigungsdatum: 21.11.1958
-
+% Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesminister für das Post- und Fernmeldewesen - ZOVers -
+% Ausfertigungsdatum: 21.11.1958
  
-
-## I. und II. – (weggefallen)
+# I. und II. – (weggefallen)
 
 \-
 
-
-## III.
+# III.
 
 Gemäß § 60 Abs. 2 G 131 bestimme ich zum Dienstvorgesetzten, der an die Stelle des letzten vor dem 8. Mai 1945 zuständig gewesenen Dienstvorgesetzten tritt, hinsichtlich der Beamten z. Wv. oder früheren Beamten auf Widerruf der BesGr. A 11 bis A 4b 1
 
@@ -17,8 +13,7 @@ a) die nicht im Postdienst wiederverwendet werden, die Präsidenten der OPDn bzw
 
 b) die im Postdienst wiederverwendet werden, die Präsidenten der OPD, LPD Berlin, des FTZ, PTZ und SAP, in deren Bereich der Beamte z. Wv. usw. wiederverwendet wird. Für die Beamten der übrigen Besoldungsgruppen behalte ich mir die erforderlichen Entscheidungen vor.
 
-
-## IV.
+# IV.
 
 Die nach Abschnitt A Abs. I zuständige OPD bzw. die LPD Berlin wird je für ihren Geschäftsbereich ermächtigt,
 
@@ -28,9 +23,7 @@ b) nach § 4 Abs. 2 G 131 und § 4b Abs. 1 G 131 Personen den in § 4 Abs. 1 Sat
 
 c) nach § 35 Abs. 1 Satz 2 G 131 die Dienstunfähigkeit eines Beamten zur Wiederverwendung festzustellen.
 
+# Schlußformel
 
-## Schlußformel
-
-Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des Innern und Bundesminister der Finanzen und tritt am Tag nach ihrer Verkündung im Bundesanzeiger in Kraft.  
-  
+Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des Innern und Bundesminister der Finanzen und tritt am Tag nach ihrer Verkündung im Bundesanzeiger in Kraft.   
 Der Bundesminister für das Post- und Fernmeldewesen

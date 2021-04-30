@@ -1,37 +1,29 @@
-# [ProMechGebV] Projekt-Mechanismen-Gebührenverordnung  (ProMechGebV)
-
-Ausfertigungsdatum: 16.11.2005
-
+% Projekt-Mechanismen-Gebührenverordnung  (ProMechGebV)
+% Ausfertigungsdatum: 16.11.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 des Projekt-Mechanismen-Gesetzes vom 22. September 2005 (BGBl. I S. 2826) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Die nach § 10 des Projekt-Mechanismen-Gesetzes zuständige Behörde erhebt für individuell zurechenbare öffentliche Leistungen nach dem Projekt-Mechanismen-Gesetz Gebühren nach dem Gebührenverzeichnis im Anhang zu dieser Verordnung. Dabei unterfallen der Projektkategorie 1 alle Projekttätigkeiten, bei deren Durchführung nach Maßgabe der Projektdokumentation nicht mehr als 50 000 Emissionsreduktionseinheiten oder zertifizierte Emissionsreduktionen pro Jahr erzeugt werden können. Alle anderen Projekttätigkeiten sind der Projektkategorie 2 zuzuordnen.
 
 (2) Für Leistungen nach Absatz 1 Satz 1 werden Auslagen nach § 23 Absatz 6 des Bundesgebührengesetzes erhoben.
 
-
-## § 2 – Widerspruch
+# § 2 – Widerspruch
 
 Im Falle des Widerspruchs gegen eine Sachentscheidung der Behörde oder gegen deren Gebührenfestsetzung wird eine Gebühr nach Nummer 8 des Gebührenverzeichnisses erhoben, soweit der Widerspruch zurückgewiesen oder nach Beginn der sachlichen Bearbeitung zurückgenommen wird.
 
-
-## § 3 – Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Zurücknahme von Anträgen
+# § 3 – Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung aus anderen Gründen als wegen Unzuständigkeit sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung nach Beginn der sachlichen Bearbeitung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Für die bis zum 10. August 2007 entstandenen Gebühren für individuell zurechenbare öffentliche Leistungen nach dem Projekt-Mechanismen-Gesetz gilt diese Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
 
-
-## Anhang – (zu § 1 Abs. 1)Gebührenverzeichnis
+# Anhang – (zu § 1 Abs. 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2008, 1831)
 

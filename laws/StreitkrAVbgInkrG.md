@@ -1,10 +1,7 @@
-# [StreitkrAVbgInkrG] Gesetz über die Inkraftsetzung von Vereinbarungen betreffend den befristeten Aufenthalt von Streitkräften der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika in Berlin und von sowjetischen Streitkräften auf dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach Herstellung der Deutschen Einheit
-
-Ausfertigungsdatum: 24.09.1990
-
+% Gesetz über die Inkraftsetzung von Vereinbarungen betreffend den befristeten Aufenthalt von Streitkräften der Französischen Republik, der Union der Sozialistischen Sowjetrepubliken, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika in Berlin und von sowjetischen Streitkräften auf dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach Herstellung der Deutschen Einheit
+% Ausfertigungsdatum: 24.09.1990
  
-
-## Präambel
+# Präambel
 
 In der Erwägung, daß mit der Wiederherstellung der Einheit Deutschlands der Aufenthalt der im beitretenden Teil Deutschlands und in Berlin stationierten ausländischen Truppen einer völkervertraglichen Regelung bedarf,  
 in dem Wunsch, die reibungslose Ablösung alliierter Rechte zu gewährleisten,  
@@ -15,15 +12,13 @@ mit dem Hinweis, daß dementsprechend von der Regelung nur in dem unbedingt gebo
 und in der Erwartung, daß die angestrebten und endgültigen Abkommen baldmöglichst von den Vertragsparteien unterzeichnet und ratifiziert werden,  
 hat der Bundestag mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 (1) Den Streitkräften der Union der Sozialistischen Sowjetrepubliken wird bis zum Inkrafttreten eines endgültigen Vertrages vorläufig der weitere befristete Aufenthalt im Gebiet der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gestattet.
 
 (2) Den Streitkräften der Französischen Republik, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika einerseits sowie den Streitkräften der Union der Sozialistischen Sowjetrepubliken andererseits wird nach der Suspendierung oder beim Wegfall der besonderen Rechte und Verantwortlichkeiten dieser Staaten in bezug auf Berlin vorläufig bis zum Inkrafttreten endgültiger Abkommen der weitere befristete Aufenthalt in Berlin gestattet.
 
-
-## Art 2
+# Art 2
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates ein vorläufiges Abkommen mit der Union der Sozialistischen Sowjetrepubliken in Kraft zu setzen, das sowohl den befristeten Aufenthalt der sowjetischen Streitkräfte in dem Gebiet der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen (Aufenthaltsgebiet) als auch den planmäßigen Abzug der sowjetischen Streitkräfte von diesem Gebiet näher regelt, bis ein entsprechendes endgültiges Abkommen in Kraft tritt, sowie die erforderlichen Durchführungsvorschriften zu erlassen. Diese vorläufigen Regelungen sollen in den Modalitäten des Aufenthalts Verbesserungen gegenüber den bisherigen Verhältnissen bringen.
 
@@ -63,8 +58,7 @@ p) Beilegung von Streitigkeiten und Einsetzung einer deutsch-sowjetischen Kommis
 
 q) die Vereinbarung, daß ein Vertrag unter Berücksichtigung des erreichten Verhandlungsstandes baldmöglichst unterzeichnet und ratifiziert wird.
 
-
-## Art 3
+# Art 3
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates vorläufige Abkommen mit der Französischen Republik, dem Vereinigten Königreich Großbritannien und Nordirland und den Vereinigten Staaten von Amerika einerseits und der Union der Sozialistischen Sowjetrepubliken andererseits, in Kraft zu setzen, welche den befristeten Aufenthalt von Streitkräften der vier Staaten in Berlin näher regeln, sowie die erforderlichen Durchführungsvorschriften zu erlassen. Diese Übergangsregelungen sollen sich hinsichtlich der Modalitäten des Aufenthalts an den in den bisherigen Stationierungsgebieten außerhalb Berlins geltenden Regelungen orientieren.
 
@@ -78,8 +72,7 @@ c) Regelungen betreffend die Bewegungen der Streitkräfte der Französischen Rep
 
 d) Modalitäten des befristeten Aufenthalts und Abzugs.
 
-
-## Art 4
+# Art 4
 
 (1) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrats vorläufige Abkommen mit der Französischen Republik, dem Vereinigten Königreich Großbritannien und Nordirland und den Vereinigten Staaten von Amerika in Kraft zu setzen, die die weiteren in Artikel 3 nicht behandelten Gegenstände alliierter Vorbehaltsrechte in bezug auf Berlin betreffen.
 
@@ -97,12 +90,10 @@ e) Beendigung besatzungsrechtlicher Besitz- und Nutzungsverhältnisse,
 
 f) Abwicklung der persönlichen Angelegenheiten von Mitgliedern der alliierten Streitkräfte sowie deren Angehörigen.
 
-
-## Art 5
+# Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die aufgrund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## Art 6
+# Art 6
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft, mit Ausnahme von Artikel 1 Abs. 1 und Artikel 2, die am 3. Oktober 1990 in Kraft treten.

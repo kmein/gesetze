@@ -1,17 +1,13 @@
-# [TVG] Tarifvertragsgesetz  (TVG)
-
-Ausfertigungsdatum: 09.04.1949
-
+% Tarifvertragsgesetz  (TVG)
+% Ausfertigungsdatum: 09.04.1949
  
-
-## § 1 – Inhalt und Form des Tarifvertrags
+# § 1 – Inhalt und Form des Tarifvertrags
 
 (1) Der Tarifvertrag regelt die Rechte und Pflichten der Tarifvertragsparteien und enthält Rechtsnormen, die den Inhalt, den Abschluß und die Beendigung von Arbeitsverhältnissen sowie betriebliche und betriebsverfassungsrechtliche Fragen ordnen können.
 
 (2) Tarifverträge bedürfen der Schriftform.
 
-
-## § 2 – Tarifvertragsparteien
+# § 2 – Tarifvertragsparteien
 
 (1) Tarifvertragsparteien sind Gewerkschaften, einzelne Arbeitgeber sowie Vereinigungen von Arbeitgebern.
 
@@ -21,8 +17,7 @@ Ausfertigungsdatum: 09.04.1949
 
 (4) In den Fällen der Absätze 2 und 3 haften sowohl die Spitzenorganisationen wie die ihnen angeschlossenen Verbände für die Erfüllung der gegenseitigen Verpflichtungen der Tarifvertragsparteien.
 
-
-## § 3 – Tarifgebundenheit
+# § 3 – Tarifgebundenheit
 
 (1) Tarifgebunden sind die Mitglieder der Tarifvertragsparteien und der Arbeitgeber, der selbst Partei des Tarifvertrags ist.
 
@@ -30,8 +25,7 @@ Ausfertigungsdatum: 09.04.1949
 
 (3) Die Tarifgebundenheit bleibt bestehen, bis der Tarifvertrag endet.
 
-
-## § 4 – Wirkung der Rechtsnormen
+# § 4 – Wirkung der Rechtsnormen
 
 (1) Die Rechtsnormen des Tarifvertrags, die den Inhalt, den Abschluß oder die Beendigung von Arbeitsverhältnissen ordnen, gelten unmittelbar und zwingend zwischen den beiderseits Tarifgebundenen, die unter den Geltungsbereich des Tarifvertrags fallen. Diese Vorschrift gilt entsprechend für Rechtsnormen des Tarifvertrags über betriebliche und betriebsverfassungsrechtliche Fragen.
 
@@ -43,8 +37,7 @@ Ausfertigungsdatum: 09.04.1949
 
 (5) Nach Ablauf des Tarifvertrags gelten seine Rechtsnormen weiter, bis sie durch eine andere Abmachung ersetzt werden.
 
-
-## § 4a – Tarifkollision
+# § 4a – Tarifkollision
 
 (1) Zur Sicherung der Schutzfunktion, Verteilungsfunktion, Befriedungsfunktion sowie Ordnungsfunktion von Rechtsnormen des Tarifvertrags werden Tarifkollisionen im Betrieb vermieden.
 
@@ -58,8 +51,7 @@ Ausfertigungsdatum: 09.04.1949
 
 § 4a Abs. 2 Satz 2: Nach Maßgabe der Entscheidungsformel nicht vereinbar mit Art. 9 Abs. 3 GG gem. BVerfGE v. 11.7.2017 (1 BvR 1571/15 u. a.). Bis zu einer Neuregelung gilt § 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes mit der Maßgabe fort, dass ein Tarifvertrag von einem kollidierenden Tarifvertrag nur verdrängt werden kann, wenn plausibel dargelegt ist, dass die Mehrheitsgewerkschaft die Interessen der Berufsgruppen, deren Tarifvertrag verdrängt wird, ernsthaft und wirksam in ihrem Tarifvertrag berücksichtigt hat; idF d. Art. 4f G v. 18.12.2018 I 2651 mWv 1.1.2019
 
-
-## § 5 – Allgemeinverbindlichkeit
+# § 5 – Allgemeinverbindlichkeit
 
 (1) Das Bundesministerium für Arbeit und Soziales kann einen Tarifvertrag im Einvernehmen mit einem aus je drei Vertretern der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer bestehenden Ausschuss (Tarifausschuss) auf gemeinsamen Antrag der Tarifvertragsparteien für allgemeinverbindlich erklären, wenn die Allgemeinverbindlicherklärung im öffentlichen Interesse geboten erscheint. Die Allgemeinverbindlicherklärung erscheint in der Regel im öffentlichen Interesse geboten, wenn
 
@@ -95,13 +87,11 @@ Der Tarifvertrag kann alle mit dem Beitragseinzug und der Leistungsgewährung in
 
 § 5 Abs. 1, 2 bis 5 u. 7 idF d. Bek. v. 25.8.1969 I 1323: Nach Maßgabe d. Entscheidungsformel mit d. GG vereinbar gem. BVerfGE v. 24.5.1977 I 1547 - 2 BvL 11/74 -
 
-
-## § 6 – Tarifregister
+# § 6 – Tarifregister
 
 Bei dem Bundesministerium für Arbeit und Soziales wird ein Tarifregister geführt, in das der Abschluß, die Änderung und die Aufhebung der Tarifverträge sowie der Beginn und die Beendigung der Allgemeinverbindlichkeit eingetragen werden.
 
-
-## § 7 – Übersendungs- und Mitteilungspflicht
+# § 7 – Übersendungs- und Mitteilungspflicht
 
 (1) Die Tarifvertragsparteien sind verpflichtet, dem Bundesministerium für Arbeit und Soziales innerhalb eines Monats nach Abschluß kostenfrei die Urschrift oder eine beglaubigte Abschrift sowie zwei weitere Abschriften eines jeden Tarifvertrags und seiner Änderungen zu übersenden; sie haben ihm das Außerkrafttreten eines jeden Tarifvertrags innerhalb eines Monats mitzuteilen. Sie sind ferner verpflichtet, den obersten Arbeitsbehörden der Länder, auf deren Bereich sich der Tarifvertrag erstreckt, innerhalb eines Monats nach Abschluß kostenfrei je drei Abschriften des Tarifvertrags und seiner Änderungen zu übersenden und auch das Außerkrafttreten des Tarifvertrags innerhalb eines Monats mitzuteilen. Erfüllt eine Tarifvertragspartei die Verpflichtungen, so werden die übrigen Tarifvertragsparteien davon befreit.
 
@@ -109,27 +99,23 @@ Bei dem Bundesministerium für Arbeit und Soziales wird ein Tarifregister gefüh
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Behörde, der gegenüber die Pflicht nach Absatz 1 zu erfüllen ist.
 
-
-## § 8 – Bekanntgabe des Tarifvertrags
+# § 8 – Bekanntgabe des Tarifvertrags
 
 Der Arbeitgeber ist verpflichtet, die im Betrieb anwendbaren Tarifverträge sowie rechtskräftige Beschlüsse nach § 99 des Arbeitsgerichtsgesetzes über den nach § 4a Absatz 2 Satz 2 anwendbaren Tarifvertrag im Betrieb bekanntzumachen.
 
 § 8: Nach Maßgabe der Gründe mit GG (100-1) vereinbar gem. BVerfGE v. 11.7.2017 I 2663 - 1 BvR 1571/15 u. a. -
 
-
-## § 9 – Feststellung der Rechtswirksamkeit
+# § 9 – Feststellung der Rechtswirksamkeit
 
 Rechtskräftige Entscheidungen der Gerichte für Arbeitssachen, die in Rechtsstreitigkeiten zwischen Tarifvertragsparteien aus dem Tarifvertrag oder über das Bestehen oder Nichtbestehen des Tarifvertrags ergangen sind, sind in Rechtsstreitigkeiten zwischen tarifgebundenen Parteien sowie zwischen diesen und Dritten für die Gerichte und Schiedsgerichte bindend.
 
-
-## § 10 – Tarifvertrag und Tarifordnungen
+# § 10 – Tarifvertrag und Tarifordnungen
 
 (1) Mit dem Inkrafttreten eines Tarifvertrags treten Tarifordnungen, die für den Geltungsbereich des Tarifvertrags oder Teile desselben erlassen worden sind, außer Kraft, mit Ausnahme solcher Bestimmungen, die durch den Tarifvertrag nicht geregelt worden sind.
 
 (2) Das Bundesministerium für Arbeit und Soziales kann Tarifordnungen aufheben; die Aufhebung bedarf der öffentlichen Bekanntmachung.
 
-
-## § 11 – Durchführungsbestimmungen
+# § 11 – Durchführungsbestimmungen
 
 Das Bundesministerium für Arbeit und Soziales kann unter Mitwirkung der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer die zur Durchführung des Gesetzes erforderlichen Verordnungen erlassen, insbesonders über
 
@@ -139,13 +125,11 @@ Das Bundesministerium für Arbeit und Soziales kann unter Mitwirkung der Spitzen
 
 3. den in § 5 genannten Ausschuß.
 
-
-## § 12 – Spitzenorganisationen
+# § 12 – Spitzenorganisationen
 
 Spitzenorganisationen im Sinne dieses Gesetzes sind - unbeschadet der Regelung in § 2 - diejenigen Zusammenschlüsse von Gewerkschaften oder von Arbeitgebervereinigungen, die für die Vertretung der Arbeitnehmer- oder der Arbeitgeberinteressen im Arbeitsleben des Bundesgebiets wesentliche Bedeutung haben. Ihnen stehen gleich Gewerkschaften und Arbeitgebervereinigungen, die keinem solchen Zusammenschluß angehören, wenn sie die Voraussetzungen des letzten Halbsatzes in Satz 1 erfüllen.
 
-
-## § 12a – Arbeitnehmerähnliche Personen
+# § 12a – Arbeitnehmerähnliche Personen
 
 (1) Die Vorschriften dieses Gesetzes gelten entsprechend
 
@@ -163,8 +147,7 @@ b) ihnen von einer Person im Durchschnitt mehr als die Hälfte des Entgelts zust
 
 (4) Die Vorschrift findet keine Anwendung auf Handelsvertreter im Sinne des § 84 des Handelsgesetzbuchs.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 (1) Dieses Gesetz tritt mit seiner Verkündung in Kraft.
 
@@ -174,8 +157,7 @@ b) ihnen von einer Person im Durchschnitt mehr als die Hälfte des Entgelts zust
 
 § 13 Abs. 3: Eingef. durch Art. 1 Nr. 3 G v. 3.7.2015 I 1130 mWv 10.7.2015; nach Maßgabe der Gründe mit GG (100-1) vereinbar gem. BVerfGE v. 11.7.2017 I 2663 - 1 BvR 1571/15 u. a. -
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III  (BGBl. II 1990, 889, 1023)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III  (BGBl. II 1990, 889, 1023)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

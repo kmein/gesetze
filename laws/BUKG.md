@@ -1,10 +1,7 @@
-# [BUKG] Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten  (Bundesumzugskostengesetz - BUKG)
-
-Ausfertigungsdatum: 11.12.1990
-
+% Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten  (Bundesumzugskostengesetz - BUKG)
+% Ausfertigungsdatum: 11.12.1990
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt Art und Umfang der Erstattung von Auslagen aus Anlaß der in den §§ 3 und 4 bezeichneten Umzüge und der in § 12 genannten Maßnahmen. Berechtigte sind:
 
@@ -24,8 +21,7 @@ Ausfertigungsdatum: 11.12.1990
 
 (3) Eine häusliche Gemeinschaft im Sinne dieses Gesetzes setzt ein Zusammenleben in gemeinsamer Wohnung oder in enger Betreuungsgemeinschaft in demselben Hause voraus.
 
-
-## § 2 – Anspruch auf Umzugskostenvergütung
+# § 2 – Anspruch auf Umzugskostenvergütung
 
 (1) Voraussetzung für den Anspruch auf Umzugskostenvergütung ist die schriftliche oder elektronische Zusage. Sie soll gleichzeitig mit der den Umzug veranlassenden Maßnahme erteilt werden. In den Fällen des § 4 Abs. 3 muß die Umzugskostenvergütung vor dem Umzug zugesagt werden.
 
@@ -33,8 +29,7 @@ Ausfertigungsdatum: 11.12.1990
 
 (3) Umzugskostenvergütung wird nicht gewährt, wenn nicht innerhalb von fünf Jahren nach Wirksamwerden der Zusage der Umzugskostenvergütung umgezogen wird. Die oberste Dienstbehörde kann diese Frist in besonders begründeten Ausnahmefällen um längstens zwei Jahre verlängern. § 4 Abs. 3 Satz 2 bleibt unberührt.
 
-
-## § 3 – Zusage der Umzugskostenvergütung
+# § 3 – Zusage der Umzugskostenvergütung
 
 (1) Die Umzugskostenvergütung ist zuzusagen für Umzüge
 
@@ -78,8 +73,7 @@ Die Festlegung nach Satz 1 bedarf des Einvernehmens des Bundesministeriums der F
 
 (+++ § 3 Abs. 1 Nr. 1: Zur Anwendung vgl. DBeglG § 2 Abs. 1 Buchst. a Nr. 1 +++)
 
-
-## § 4 – Zusage der Umzugskostenvergütung in besonderen Fällen
+# § 4 – Zusage der Umzugskostenvergütung in besonderen Fällen
 
 (1) Die Umzugskostenvergütung kann in entsprechender Anwendung des § 3 Abs. 1 Nr. 1 zugesagt werden für Umzüge aus Anlaß
 
@@ -111,8 +105,7 @@ Die Umzugskostenvergütung wird nur gewährt, wenn innerhalb von zwei Jahren nac
 
 (4) Der Abordnung nach Absatz 1 Nr. 2 stehen die Zuweisung nach § 29 des Bundesbeamtengesetzes oder nach § 20 des Beamtenstatusgesetzes gleich.
 
-
-## § 5 – Umzugskostenvergütung
+# § 5 – Umzugskostenvergütung
 
 (1) Die Umzugskostenvergütung umfaßt
 
@@ -132,8 +125,7 @@ Die Umzugskostenvergütung wird nur gewährt, wenn innerhalb von zwei Jahren nac
 
 (3) Die aufgrund einer Zusage nach § 4 Abs. 1 Nr. 1 oder Abs. 2 Nr. 3 oder 4 gewährte Umzugskostenvergütung ist zurückzuzahlen, wenn der Berechtigte vor Ablauf von zwei Jahren nach Beendigung des Umzuges aus einem von ihm zu vertretenden Grunde aus dem Bundesdienst ausscheidet. Die oberste Dienstbehörde kann hiervon Ausnahmen zulassen, wenn der Berechtigte unmittelbar in ein Dienst- oder Beschäftigungsverhältnis zu einem anderen öffentlich-rechtlichen Dienstherrn im Geltungsbereich dieses Gesetzes oder zu einer in § 40 Abs. 6 Satz 2 und 3 des Bundesbesoldungsgesetzes bezeichneten Einrichtung übertritt.
 
-
-## § 6 – Beförderungsauslagen
+# § 6 – Beförderungsauslagen
 
 (1) Die notwendigen Auslagen für das Befördern des Umzugsgutes von der bisherigen zur neuen Wohnung werden erstattet. Liegt die neue Wohnung im Ausland, so werden in den Fällen des § 3 Abs. 1 Nr. 3, § 4 Abs. 2 Nr. 2 und Abs. 3 Satz 1 die Beförderungsauslagen bis zum inländischen Grenzort erstattet.
 
@@ -141,8 +133,7 @@ Die Umzugskostenvergütung wird nur gewährt, wenn innerhalb von zwei Jahren nac
 
 (3) Umzugsgut sind die Wohnungseinrichtung und in angemessenem Umfang andere bewegliche Gegenstände und Haustiere, die sich am Tage vor dem Einladen des Umzugsgutes im Eigentum, Besitz oder Gebrauch des Berechtigten oder anderer Personen befinden, die mit ihm in häuslicher Gemeinschaft leben. Andere Personen im Sinne des Satzes 1 sind der Ehegatte, der Lebenspartner sowie die ledigen Kinder, Stief- und Pflegekinder. Es gehören ferner dazu die nicht ledigen in Satz 2 genannten Kinder und Verwandte bis zum vierten Grade, Verschwägerte bis zum zweiten Grade und Pflegeeltern, wenn der Berechtigte diesen Personen aus gesetzlicher oder sittlicher Verpflichtung nicht nur vorübergehend Unterkunft und Unterhalt gewährt, sowie Hausangestellte und solche Personen, deren Hilfe der Berechtigte aus beruflichen oder gesundheitlichen Gründen nicht nur vorübergehend bedarf.
 
-
-## § 7 – Reisekosten
+# § 7 – Reisekosten
 
 (1) Die Auslagen für die Reise des Berechtigten und der zur häuslichen Gemeinschaft gehörenden Personen (§ 6 Abs. 3 Satz 2 und 3) von der bisherigen zur neuen Wohnung werden wie bei Dienstreisen des Berechtigten erstattet, in den Fällen des § 4 Abs. 3 Satz 1 Nr. 1 wie sie bei Dienstreisen im letzten Dienstverhältnis zu erstatten wären. Tagegeld wird vom Tage des Einladens des Umzugsgutes an bis zum Tage des Ausladens mit der Maßgabe gewährt, daß auch diese beiden Tage als volle Reisetage gelten. Übernachtungsgeld wird für den Tag des Ausladens des Umzugsgutes nur gewährt, wenn eine Übernachtung außerhalb der neuen Wohnung notwendig gewesen ist.
 
@@ -152,8 +143,7 @@ Die Umzugskostenvergütung wird nur gewährt, wenn innerhalb von zwei Jahren nac
 
 (4) § 6 Abs. 1 Satz 2 gilt entsprechend.
 
-
-## § 8 – Mietentschädigung
+# § 8 – Mietentschädigung
 
 (1) Miete für die bisherige Wohnung wird bis zu dem Zeitpunkt, zu dem das Mietverhältnis frühestens gelöst werden konnte, längstens jedoch für sechs Monate, erstattet, wenn für dieselbe Zeit Miete für die neue Wohnung gezahlt werden mußte. Ferner werden die notwendigen Auslagen für das Weitervermieten der Wohnung innerhalb der Vertragsdauer bis zur Höhe der Miete für einen Monat erstattet. Die Sätze 1 und 2 gelten auch für die Miete einer Garage.
 
@@ -165,8 +155,7 @@ Die Umzugskostenvergütung wird nur gewährt, wenn innerhalb von zwei Jahren nac
 
 (+++ § 8 Abs. 3 Satz 2: Zur Anwendung vgl. DBeglG § 2 Abs. 1 Buchst. b +++)
 
-
-## § 9 – Andere Auslagen
+# § 9 – Andere Auslagen
 
 (1) Die notwendigen ortsüblichen Maklergebühren für die Vermittlung einer Mietwohnung und einer Garage oder die entsprechenden Auslagen bis zu dieser Höhe für eine eigene Wohnung werden erstattet.
 
@@ -174,8 +163,7 @@ Die Umzugskostenvergütung wird nur gewährt, wenn innerhalb von zwei Jahren nac
 
 (3) (weggefallen)
 
-
-## § 10 – Pauschvergütung für sonstige Umzugsauslagen
+# § 10 – Pauschvergütung für sonstige Umzugsauslagen
 
 (1) Berechtigte, die am Tage vor dem Einladen des Umzugsgutes eine Wohnung hatten und nach dem Umzug wieder eine Wohnung eingerichtet haben, erhalten eine Pauschvergütung für sonstige Umzugsauslagen. Sie beträgt
 
@@ -201,8 +189,7 @@ des am Tag vor dem Einladen des Umzugsgutes maßgeblichen Endgrundgehaltes der B
 
 (6) Für eine umziehende Person kann für denselben Umzug nur eine Pauschvergütung gewährt werden. Ist eine Person zugleich Berechtigter und andere Person im Sinne des § 6 Absatz 3 Satz 1, wird der Pauschbetrag nach Absatz 1 Satz 2 Nummer 1 gewährt.
 
-
-## § 11 – Umzugskostenvergütung in Sonderfällen
+# § 11 – Umzugskostenvergütung in Sonderfällen
 
 (1) Ein Beamter mit Wohnung im Sinne des § 10 Abs. 3, dem Umzugskostenvergütung für einen Umzug nach § 3 Abs. 1 Nr. 1, 3 oder 4, § 4 Abs. 1 Nr. 1 bis 4, Abs. 2 Nr. 1 zugesagt ist, kann für den Umzug in eine vorläufige Wohnung Umzugskostenvergütung erhalten, wenn die zuständige Behörde diese Wohnung vorher schriftlich oder elektronisch als vorläufige Wohnung anerkannt hat. Bis zum Umzug in die endgültige Wohnung darf eine Wohnung nur einmal als vorläufige Wohnung anerkannt werden.
 
@@ -210,8 +197,7 @@ des am Tag vor dem Einladen des Umzugsgutes maßgeblichen Endgrundgehaltes der B
 
 (3) Wird die Zusage der Umzugskostenvergütung aus von dem Berechtigten nicht zu vertretenden Gründen widerrufen, so werden die durch die Vorbereitung des Umzuges entstandenen notwendigen, nach diesem Gesetz erstattungsfähigen Auslagen erstattet. Muß in diesem Fall ein anderer Umzug durchgeführt werden, so wird dafür Umzugskostenvergütung gewährt; Satz 1 bleibt unberührt. Die Sätze 1 und 2 gelten entsprechend, wenn die Zusage der Umzugskostenvergütung zurückgenommen, anderweitig aufgehoben wird oder sich auf andere Weise erledigt.
 
-
-## § 12 – Trennungsgeld
+# § 12 – Trennungsgeld
 
 (1) Trennungsgeld wird gewährt
 
@@ -247,8 +233,7 @@ Trennungsgeld darf auch gewährt werden, wenn zum Zeitpunkt des Wirksamwerdens d
 
 (5) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Vorschriften über die Gewährung des Trennungsgeldes zu erlassen. Dabei kann bestimmt werden, daß Trennungsgeld auch bei der Einstellung ohne Zusage der Umzugskostenvergütung gewährt wird und daß in den Fällen des § 3 Abs. 1 Nr. 1 Buchstabe d der Berechtigte für längstens ein Jahr Reisebeihilfen für Heimfahrten erhält.
 
-
-## § 13 – Auslandsumzüge
+# § 13 – Auslandsumzüge
 
 (1) Auslandsumzüge sind Umzüge zwischen Inland und Ausland sowie im Ausland.
 
@@ -264,8 +249,7 @@ Trennungsgeld darf auch gewährt werden, wenn zum Zeitpunkt des Wirksamwerdens d
 
 In den Fällen des Satzes 1 Nr. 2 bis 4 wird für die Umzugsreise (§ 7 Abs. 1) Tage- und Übernachtungsgeld nur für die notwendige Reisedauer gewährt; § 7 Abs. 2 und 3 findet keine Anwendung.
 
-
-## § 14 – Sondervorschriften für Auslandsumzüge
+# § 14 – Sondervorschriften für Auslandsumzüge
 
 (1) Das Auswärtige Amt wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen für Auslandsumzüge durch Rechtsverordnungen, die nicht der Zustimmung des Bundesrates bedürfen, nähere Vorschriften über die notwendige Umzugskostenvergütung (Auslandsumzugskostenverordnung, Absatz 2) sowie das notwendige Trennungsgeld (Auslandstrennungsgeldverordnung, Absatz 3) zu erlassen, soweit die besonderen Bedürfnisse im Ausland es erfordern. Soweit aufgrund dieser Ermächtigung keine Sonderregelungen ergangen sind, finden auch auf Auslandsumzüge die §§ 6 bis 12 Anwendung.
 
@@ -341,14 +325,12 @@ In den Fällen des Satzes 1 Nr. 2 bis 4 wird für die Umzugsreise (§ 7 Abs. 1) 
 
 (7) Die oberste Dienstbehörde kann die Umzugskostenvergütung allgemein oder im Einzelfall ermäßigen, soweit besondere Verhältnisse es rechtfertigen.
 
-
-## § 15 – Dienstortbestimmung, Verwaltungsvorschriften
+# § 15 – Dienstortbestimmung, Verwaltungsvorschriften
 
 (1) Die oberste Dienstbehörde wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat benachbarte Gemeinden zu einem Dienstort zu bestimmen, wenn sich Liegenschaften derselben Dienststelle über das Gebiet mehrerer Gemeinden erstrecken.
 
 (2) Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz erlässt das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium der Verteidigung.
 
-
-## § 16 – Übergangsvorschrift
+# § 16 – Übergangsvorschrift
 
 Ist ein Mietbeitrag vor der Verkündung dieses Gesetzes bewilligt worden, wird er nach bisherigem Recht weiter gewährt.

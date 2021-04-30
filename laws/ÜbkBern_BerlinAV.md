@@ -1,16 +1,11 @@
-# [ÜbkBern/BerlinAV] Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst
-
-Ausfertigungsdatum: 12.07.1910
-
+% Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst
+% Ausfertigungsdatum: 12.07.1910
  
+# Eingangsformel
 
-## Eingangsformel
+Wir Wilhelm, ... Deutscher Kaiser, König von Preußen usw. verordnen im Namen des Reichs, auf Grund des Artikel IV § 3 des Gesetzes zur Ausführung der revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst vom 13. November 1908 (Reichsgesetzbl. 1910 S. 793), nach erfolgter Zustimmung des Bundesrats, was folgt:\*
 
-Wir Wilhelm, ... Deutscher Kaiser, König von Preußen usw.  
-verordnen im Namen des Reichs, auf Grund des Artikel IV § 3 des Gesetzes zur Ausführung der revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst vom 13. November 1908 (Reichsgesetzbl. 1910 S. 793), nach erfolgter Zustimmung des Bundesrats, was folgt:\*
-
-
-## § 1
+# § 1
 
 Die in Artikel 18 der Übereinkunft vorgesehene Anwendung ihrer Bestimmungen auf alle Werke, die beim Inkrafttreten der Übereinkunft noch nicht im Ursprungslande zufolge des Ablaufs der Schutzfrist Gemeingut geworden sind, unterliegt, soweit nicht nach Artikel 18 Abs. 3 der Übereinkunft bestehende Verträge Platz greifen und unbeschadet der in Artikel IV § 2 des Ausführungsgesetzes getroffenen Vorschriften über die Benutzung von Werken der Tonkunst zur Wiedergabe auf mechanischen Musikinstrumenten, den nachstehenden Einschränkungen.
 
@@ -26,12 +21,10 @@ Die in Artikel 18 der Übereinkunft vorgesehene Anwendung ihrer Bestimmungen auf
 
 6. Ist vor dem Inkrafttreten der Übereinkunft ein Werk in Deutschland erlaubterweise im Wege der Kinematographie oder eines ihr ähnlichen Verfahrens wiedergegeben worden, so bleibt für den Bearbeiter sowie für diejenigen, welche die Wiedergabe erlaubterweise verbreitet oder aufgeführt haben, die Befugnis zur Vervielfältigung, Verbreitung und öffentlichen Vorführung dieser Wiedergabe unberührt. Das gleiche gilt zugunsten derjenigen, welche ein selbständiges, im Wege der Kinematographie oder eines ihr ähnlichen Verfahrens zustande gekommenes Erzeugnis vor dem Inkrafttreten der Übereinkunft in Deutschland erlaubterweise vervielfältigt, verbreitet oder öffentlich vorgeführt haben.
 
-
-## § 2
+# § 2
 
 Im Verhältnis zu einem Staate, demgegenüber die revidierte Übereinkunft nach dem in ihrem Artikel 29 bezeichneten Zeitpunkt Geltung erlangt, finden die Vorschriften des § 1 entsprechende Anwendung. Soweit danach der Zeitpunkt des Inkrafttretens der Übereinkunft entscheidet, ist der Zeitpunkt maßgebend, in dem die revidierte Übereinkunft im Verhältnisse zu diesem Staate Geltung erlangt.
 
-
-## § 3
+# § 3
 
 Durch die Vorschriften dieser Verordnung werden die Einschränkungen nicht berührt, denen auf Grund der Verordnungen vom 11. Juli 1888 (Reichsgesetzbl. S. 225) und vom 29. November 1897 (Reichsgesetzbl. S. 787) die Rückwirkung der Bestimmungen der Übereinkunft vom 9. September 1886 und der Zusatzabkommen vom 4. Mai 1896 unterliegt.

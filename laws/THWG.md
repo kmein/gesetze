@@ -1,15 +1,11 @@
-# [THWG] Gesetz über das Technische Hilfswerk  (THW-Gesetz - THWG)
-
-Ausfertigungsdatum: 22.01.1990
-
+% Gesetz über das Technische Hilfswerk  (THW-Gesetz - THWG)
+% Ausfertigungsdatum: 22.01.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Rechtsform, Aufgaben und Personal
+# § 1 – Rechtsform, Aufgaben und Personal
 
 (1) Das Technische Hilfswerk ist eine nicht rechtsfähige Bundesanstalt mit eigenem Verwaltungsunterbau im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat. Nach Maßgabe der folgenden Bestimmungen leistet es technische Unterstützung insbesondere
 
@@ -29,8 +25,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Das Technische Hilfswerk besteht aus Personen, die sich freiwillig zum ehrenamtlichen Dienst im Technischen Hilfswerk verpflichtet haben (Helferinnen und Helfer) und aus hauptamtlich Beschäftigten. Die Helferinnen und Helfer stehen zum Bund in einem öffentlich-rechtlichen Amtsverhältnis, das sich nach den Vorschriften dieses Gesetzes bestimmt; sie sind grundsätzlich in Ortsverbänden organisiert.
 
-
-## § 1a – Einsatzkräfte und Einrichtungen
+# § 1a – Einsatzkräfte und Einrichtungen
 
 (1) Zur Wahrnehmung seiner Aufgaben hält das Technische Hilfswerk Einheiten und Einrichtungen mit Einsatzkräften, bestehend aus Helferinnen und Helfern sowie hauptamtlich Beschäftigten, insbesondere in folgenden Fachbereichen vor:
 
@@ -50,13 +45,11 @@ Es gewährleistet die Einsatzbereitschaft der Einsatzkräfte im Alarmfall.
 
 (3) Einsatzkräfte, die das Technische Hilfswerk im Rahmen technischer Unterstützung auf Anforderung zur Verfügung stellt, unterliegen den fachlichen Weisungen der anfordernden Stellen im Rahmen der dortigen Befugnisse. Einsatzkräfte des Technischen Hilfswerks üben keinen unmittelbaren Zwang gegenüber Personen aus.
 
-
-## § 1b – Forschung
+# § 1b – Forschung
 
 Das Technische Hilfswerk beteiligt sich an internationalen, supranationalen und nationalen Forschungsprojekten zu Fragestellungen in den Bereichen Rettungswesen, Katastrophenschutz und Zivilschutz.
 
-
-## § 2 – Helferinnen und Helfer; Verordnungsermächtigung
+# § 2 – Helferinnen und Helfer; Verordnungsermächtigung
 
 (1) Dienste sollen in der Regel außerhalb der üblichen Arbeitszeit stattfinden. Dies gilt nicht für Einsätze.
 
@@ -64,8 +57,7 @@ Das Technische Hilfswerk beteiligt sich an internationalen, supranationalen und 
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Zustandekommen, Inhalt und Beendigung des Helferverhältnisses im Einzelnen zu regeln.
 
-
-## § 3 – Ausgleichsansprüche und soziale Sicherung
+# § 3 – Ausgleichsansprüche und soziale Sicherung
 
 (1) Arbeitnehmerinnen und Arbeitnehmern dürfen aus ihrer Verpflichtung zum Dienst im Technischen Hilfswerk und aus diesem Dienst keine Nachteile im Arbeitsverhältnis, in der Sozial- und Arbeitslosenversicherung sowie in der betrieblichen Altersversorgung erwachsen. Während des Dienstes kann zu der von den Helferinnen und Helfern eingegangenen Verpflichtung auch die Teilnahme an einer Gemeinschaftsverpflegung gehören, soweit die zuständige Einsatz- oder Ausbildungsleitung dies anordnet. Werden Arbeitnehmerinnen oder Arbeitnehmer während der für sie maßgebenden regelmäßigen Arbeitszeit zu Diensten herangezogen, so sind sie für die Dauer der Dienste unter Weitergewährung des Arbeitsentgelts, das sie ohne die Dienste erhalten hätten, von der Arbeitsleistung freigestellt. Dies gilt nicht für Dienste, die in nicht unerheblichem Umfang der Gemeinschaftspflege dienen. Erkundungen gelten als Dienste. Versicherungsverhältnisse in der Sozial- und Arbeitslosenversicherung sowie in der betrieblichen Altersversorgung werden durch den Dienst im Technischen Hilfswerk nicht berührt. Arbeitnehmerinnen und Arbeitnehmer sind auch Personen, die in einem Berufsausbildungsverhältnis stehen. Die Sätze 1 bis 6 gelten für Beamtinnen und Beamte sowie Berufsrichterinnen und -richter entsprechend.
 
@@ -85,20 +77,17 @@ Das Technische Hilfswerk beteiligt sich an internationalen, supranationalen und 
 
 (9) (weggefallen)
 
-
-## § 4 – Mitwirkung; Verordnungsermächtigung
+# § 4 – Mitwirkung; Verordnungsermächtigung
 
 (1) Die Mitwirkung im Technischen Hilfswerk erfolgt durch Orts- und Landesausschüsse sowie durch einen Bundesausschuss, die die Leitungen der auf der jeweiligen Ebene eingerichteten Dienststellen des Technischen Hilfswerks beraten. Die Helferinnen und Helfer tragen zur Gestaltung des Technischen Hilfswerks bei. Ihre Interessen werden durch gewählte Sprecherinnen und Sprecher insbesondere in den genannten Ausschüssen wahrgenommen.
 
 (2) Das Nähere regelt das Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates.
 
-
-## § 5 – Beirat
+# § 5 – Beirat
 
 Beim Bundesministerium des Innern, für Bau und Heimat wird ein Beirat aus Vertretern des Bundes, der Länder, der kommunalen Spitzenverbände, der Wirtschaft und der THW-Bundesvereinigung gebildet, der das Bundesministerium des Innern, für Bau und Heimat in grundsätzlichen Angelegenheiten des Technischen Hilfswerks berät. Das Bundesministerium des Innern erläßt eine Geschäftsordnung, die Näheres regelt.
 
-
-## § 6 – Gebühren und Auslagen bei Amtshilfe; Verordnungsermächtigung für Kostenerstattungen
+# § 6 – Gebühren und Auslagen bei Amtshilfe; Verordnungsermächtigung für Kostenerstattungen
 
 (1) Das Technische Hilfswerk kann für seine im Rahmen der Amtshilfe erbrachten technischen Unterstützungsleistungen bei den ersuchenden Behörden, einschließlich der für die Gefahrenabwehr zuständigen Stellen, Auslagen erheben. Auf die Erhebung von Auslagen soll verzichtet werden, soweit dies im überwiegenden öffentlichen Interesse liegt und eine Auslagenerstattung an das Technische Hilfswerk zu Lasten der ersuchenden Gefahrenabwehrbehörde ginge. Die Auslagenerstattung ginge insbesondere dann zu Lasten der ersuchenden Gefahrenabwehrbehörde, wenn
 
@@ -124,7 +113,6 @@ b) bei der Eigentümerin oder dem Eigentümer oder einer oder einem anderen Verf
 
 2. auf die Erstattung von Kosten außerhalb der Amtshilfe.
 
-
-## § 7 – (weggefallen)
+# § 7 – (weggefallen)
 
 \-

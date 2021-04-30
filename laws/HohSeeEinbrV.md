@@ -1,15 +1,11 @@
-# [HohSeeEinbrV] Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge  (Hohe-See-Einbringungsverordnung)
-
-Ausfertigungsdatum: 07.12.1977
-
+% Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge  (Hohe-See-Einbringungsverordnung)
+% Ausfertigungsdatum: 07.12.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 7 Abs. 2 Nr. 1 Buchstabe e und Nr. 2 des Gesetzes vom 11. Februar 1977 zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge (BGBl. 1977 II S. 165) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes wird - hinsichtlich der Kosten im Einvernehmen mit dem Bundesminister der Finanzen und im übrigen im Einvernehmen mit den Bundesministerien des Innern und für Wirtschaft - mit Zustimmung des Bundesrates sowie auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten verordnet:
 
-
-## § 1 – Nachweispflichten
+# § 1 – Nachweispflichten
 
 (1) Über die Durchführung eines Einbringungsvorhabens sind gegenüber dem Bundesamt für Seeschiffahrt und Hydrographie folgende Nachweise zu führen:
 
@@ -23,8 +19,7 @@ Auf Grund des Artikels 7 Abs. 2 Nr. 1 Buchstabe e und Nr. 2 des Gesetzes vom 11.
 
 (2) Das Bundesamt für Seeschiffahrt und Hydrographie kann im Einzelfall von der Pflicht zur Führung von Nachweisen nach Absatz 1 befreien, sofern anderweitig sichergestellt ist, daß das Einbringungsverfahren ordnungsgemäß durchgeführt wird.
 
-
-## § 2 – Kosten
+# § 2 – Kosten
 
 (1) Das Bundesamt für Seeschiffahrt und Hydrographie erhebt für Amtshandlungen auf Grund des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge die folgenden Gebühren:  
 
@@ -81,24 +76,20 @@ Bei der Festsetzung der Gebühren nach Nummer 1 oder Nummer 4 im Einzelfall ist 
 
 (3) Aus Gründen der Billigkeit oder des öffentlichen Interesses können Gebühren nach Absatz 1 Nr. 1 ermäßigt oder kann von ihnen befreit werden.
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des Artikels 10 Abs. 1 Nr. 3 des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge handelt, wer vorsätzlich oder fahrlässig einer Vorschrift des § 1 Abs. 1 über das Führen von Nachweisen zuwiderhandelt.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 sowie nach Artikel 10 des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge wird auf das Bundesamt für Seeschiffahrt und Hydrographie übertragen.
 
-
-## § 4 – Berlin-Klausel
+# § 4 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 13 des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge und § 134 des Gesetzes über Ordnungswidrigkeiten auch im Land Berlin.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

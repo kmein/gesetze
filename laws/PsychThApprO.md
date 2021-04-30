@@ -1,17 +1,11 @@
-# [PsychThApprO] Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten   (PsychThApprO)
-
-Ausfertigungsdatum: 04.03.2020
-
+% Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten   (PsychThApprO)
+% Ausfertigungsdatum: 04.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Absatz 1 und 2 des Psychotherapeutengesetzes vom 15. November 2019 (BGBl. I S. 1604) verordnet das Bundesministerium für Gesundheit:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -123,8 +117,9 @@ Auf Grund des § 20 Absatz 1 und 2 des Psychotherapeutengesetzes vom 15. Novembe
 
  
 
+ 
 
-## § 1 – Inhalte des Studiums
+# § 1 – Inhalte des Studiums
 
 (1) In dem Studium, das nach § 2 Absatz 1 Nummer 1 des Psychotherapeutengesetzes Voraussetzung für die Erteilung einer Approbation als Psychotherapeutin oder als Psychotherapeut ist, sind der studierenden Person die Kenntnisse und Kompetenzen (Inhalte) zu vermitteln, die in den Anlagen 1 und 2 sowie die in den §§ 13 bis 15 und in den §§ 17 und 18 genannt sind.
 
@@ -134,8 +129,7 @@ Auf Grund des § 20 Absatz 1 und 2 des Psychotherapeutengesetzes vom 15. Novembe
 
 (4) Die Universität oder die der Universität gleichgestellte Hochschule (Hochschule) hat durch regelmäßige und systematische Prüfung der Studienbedingungen sicherzustellen, dass das in § 7 des Psychotherapeutengesetzes genannte Studienziel erreicht werden kann.
 
-
-## § 2 – Regelstudienzeit
+# § 2 – Regelstudienzeit
 
 Die Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes beträgt
 
@@ -143,15 +137,13 @@ Die Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes beträgt
 
 2. für den Masterstudiengang zwei Jahre.
 
-
-## § 3 – Organisation des Studiums
+# § 3 – Organisation des Studiums
 
 (1) Das Studium ist an Lernergebnissen orientiert in Modulen zu organisieren, sofern in dieser Verordnung nicht etwas Abweichendes geregelt ist.
 
 (2) Jedem Modul sind nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen Leistungspunkte (ECTS-Punkte) zuzurechnen. Ein ECTS-Punkt muss einem Arbeitsaufwand von 30 Stunden entsprechen.
 
-
-## § 4 – Modulhandbücher
+# § 4 – Modulhandbücher
 
 (1) Die Hochschule hat ein Modulhandbuch für den Bachelorstudiengang und ein Modulhandbuch für den Masterstudiengang zu erstellen.
 
@@ -159,8 +151,7 @@ Die Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes beträgt
 
 (3) In der Studien- und Prüfungsordnung für den Masterstudiengang sowie dem ergänzenden Modulhandbuch sind Ziel und Gegenstand des Masterstudiengangs festzuschreiben. Aus ihm muss insbesondere hervorgehen, in welchen Modulen die in Anlage 2 und in den §§ 17 und 18 genannten Inhalte vermittelt werden.
 
-
-## § 5 – Prüfungsordnungen
+# § 5 – Prüfungsordnungen
 
 (1) Die Hochschule legt in einer Prüfungsordnung für den Bachelorstudiengang und in einer Prüfungsordnung für den Masterstudiengang fest, an welchen Modulen die studierende Person in dem jeweiligen Studiengang erfolgreich teilzunehmen hat.
 
@@ -170,18 +161,15 @@ Die Regelstudienzeit nach § 10 Absatz 2 des Hochschulrahmengesetzes beträgt
 
 (4) Die Studiengänge sind Gegenstand des jeweiligen Akkreditierungsverfahrens. Die nach § 22 Absatz 5 des Psychotherapeutengesetzes zuständige Stelle prüft im Rahmen ihrer Mitwirkung am Verfahren der Akkreditierung des Bachelorstudiengangs nach § 9 Absatz 4 Satz 3 des Psychotherapeutengesetzes sowie im Rahmen ihrer Entscheidung nach § 9 Absatz 4 Satz 4 des Psychotherapeutengesetzes, ob die von der Hochschule in Studien-und Prüfungsordnungen nebst den Modulhandbüchern festgeschriebenen Ziele und Inhalte des jeweiligen Studiengangs gewährleisten, dass das Ziel des Studiums nach § 7 des Psychotherapeutengesetzes erreicht wird.
 
-
-## § 6 – Leistungsübersicht
+# § 6 – Leistungsübersicht
 
 Die Hochschule hat der studierenden Person eine Leistungsübersicht über die Studien- und Prüfungsleistungen, die die studierende Person erbracht hat, zu erstellen und auszuhändigen, wenn die studierende Person dies bei der Hochschule beantragt.
 
-
-## § 7 – Evaluierung der Studiengänge
+# § 7 – Evaluierung der Studiengänge
 
 Die Hochschulen teilen die Ergebnisse der nach Landesrecht vorgeschriebenen Evaluierung der Studiengänge den nach § 22 Absatz 5 des Psychotherapeutengesetzes zuständigen Stellen mit.
 
-
-## § 8 – Hochschulische Lehre
+# § 8 – Hochschulische Lehre
 
 Die Hochschulen müssen den studierenden Personen im Rahmen der hochschulischen Lehre mindestens den Erwerb folgender Inhalte ermöglichen:
 
@@ -189,15 +177,13 @@ Die Hochschulen müssen den studierenden Personen im Rahmen der hochschulischen 
 
 2. im Masterstudiengang den Erwerb der in der Anlage 2 festgelegten Inhalte einschließlich der berufsqualifizierenden Tätigkeit II – vertiefte Praxis der Psychotherapie mit den diesen Inhalten jeweils zugeordneten ECTS-Punkten und Wissensbereichen.
 
-
-## § 9 – Praktische Übungen und Seminare
+# § 9 – Praktische Übungen und Seminare
 
 (1) Die praktischen Übungen und Seminare umfassen die Unterweisung an Simulationspatientinnen und Simulationspatienten sowie die Vorstellung von Patientinnen und Patienten, wenn dies für den Erwerb der jeweils notwendigen Inhalte erforderlich ist.
 
 (2) Die Teilnahme von Patientinnen und Patienten erfolgt nur mit deren vorhergehenden informierten Einverständnis. Unzumutbare Belastungen für Patientinnen und Patienten sind zu vermeiden.
 
-
-## § 10 – Berufsqualifizierende Tätigkeit II – vertiefte Praxis der Psychotherapie
+# § 10 – Berufsqualifizierende Tätigkeit II – vertiefte Praxis der Psychotherapie
 
 (1) Die berufsqualifizierende Tätigkeit II – vertiefte Praxis der Psychotherapie umfasst folgende Wissensbereiche:
 
@@ -229,15 +215,13 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (4) Die berufsqualifizierende Tätigkeit II – vertiefte Praxis der Psychotherapie wird in anwendungsorientierten Lern- und Lehrformen und in übungsorientierten Kleingruppen durchgeführt. Eine Kleingruppe darf aus höchstens 15 studierenden Personen bestehen. In ihr sind die studierenden Personen durch fachkundiges Personal anzuleiten.
 
-
-## § 11 – Selbstreflexion
+# § 11 – Selbstreflexion
 
 (1) Die Selbstreflexion findet studienbegleitend und in Form von Seminaren oder praktischen Übungen statt. Sie wird an der Hochschule oder an Einrichtungen durchgeführt, die mit der Hochschule kooperieren.
 
 (2) Als Prüferinnen oder Prüfer bei den Modulprüfungen der Selbstreflexion sollen Personen vorgesehen werden, die die Module nicht gelehrt haben, um sicherzustellen, dass zwischen den studierenden Personen und den Prüferinnen und Prüfern kein Abhängigkeitsverhältnis besteht.
 
-
-## § 12 – Berufspraktische Einsätze im Bachelorstudiengang
+# § 12 – Berufspraktische Einsätze im Bachelorstudiengang
 
 (1) Die Hochschulen müssen den studierenden Personen im Bachelorstudiengang mindestens folgende berufspraktische Einsätze ermöglichen:
 
@@ -249,8 +233,7 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (2) Im Rahmen der berufspraktischen Einsätze dürfen die studierenden Personen nur zu Tätigkeiten herangezogen werden, die zur Vermittlung der jeweiligen Inhalte erforderlich sind.
 
-
-## § 13 – Forschungsorientiertes Praktikum I – Grundlagen der Forschung
+# § 13 – Forschungsorientiertes Praktikum I – Grundlagen der Forschung
 
 (1) Das forschungsorientierte Praktikum I – Grundlagen der Forschung dient dem Erwerb grundlegender Erfahrungen im wissenschaftlichen Bereich. Die studierenden Personen sind zu befähigen, Studien zur systematischen und kontrollierten Erfassung menschlichen Verhaltens und Erlebens sowie der menschlichen Entwicklung einschließlich der sozialen Einflüsse und biologischen Komponenten in der Grundlagen- und der Anwendungsforschung der Psychologie, Psychotherapie und ihren Bezugswissenschaften wissenschaftlich fundiert zu planen, umzusetzen, objektiv auszuwerten, schriftlich aufzubereiten und die Ergebnisse zu präsentieren.
 
@@ -262,8 +245,7 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (5) Während des forschungsorientierten Praktikums I – Grundlagen der Forschung haben die studierenden Personen auch aktiv an exemplarischen wissenschaftlichen Untersuchungen teilzunehmen sowie an deren Planung und Durchführung mitzuarbeiten.
 
-
-## § 14 – Orientierungspraktikum
+# § 14 – Orientierungspraktikum
 
 (1) Das Orientierungspraktikum dient dem Erwerb erster praktischer Erfahrungen in allgemeinen Bereichen mit Bezug zur Gesundheits- und Patientenversorgung. Den studierenden Personen sind erste Einblicke in die berufsethischen Prinzipien sowie in die institutionellen, rechtlichen und strukturellen Rahmenbedingungen der Patientenversorgung zu gewähren. Darüber hinaus sind ihnen die grundlegenden Strukturen der interdisziplinären Zusammenarbeit sowie strukturelle Maßnahmen zur Patientensicherheit zu zeigen.
 
@@ -275,8 +257,7 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (5) Praktikumstätigkeiten, die vor dem Beginn des Studiums abgeleistet worden sind, können auf Antrag der studierenden Person von den Hochschulen auf das Orientierungspraktikum angerechnet werden, wenn sie den in den Absätzen 1 bis 3 geregelten Anforderungen inhaltlich entsprechen.
 
-
-## § 15 – Berufsqualifizierende Tätigkeit I – Einstieg in die Praxis der Psychotherapie
+# § 15 – Berufsqualifizierende Tätigkeit I – Einstieg in die Praxis der Psychotherapie
 
 (1) Die berufsqualifizierende Tätigkeit I – Einstieg in die Praxis der Psychotherapie dient dem Erwerb erster praktischer Erfahrungen in spezifischen Bereichen der psychotherapeutischen Versorgung.
 
@@ -304,8 +285,7 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (7) Die berufsqualifizierende Tätigkeit I – Einstieg in die Praxis der Psychotherapie darf von einer studierenden Person erst abgeleistet werden, wenn die studierende Person mindestens 60 ECTS-Punkte erworben hat.
 
-
-## § 16 – Berufspraktische Einsätze im Masterstudiengang
+# § 16 – Berufspraktische Einsätze im Masterstudiengang
 
 (1) Die Hochschulen müssen den studierenden Personen im Masterstudiengang mindestens folgende berufspraktische Einsätze ermöglichen:
 
@@ -315,8 +295,7 @@ e) Ausübung von Psychotherapie bei Erwachsenen und älteren Menschen.
 
 (2) Im Rahmen der berufspraktischen Einsätze dürfen die studierenden Personen nur zu Tätigkeiten herangezogen werden, die zum Erreichen der jeweils zu erwerbenden Inhalte erforderlich sind.
 
-
-## § 17 – Forschungsorientiertes Praktikum II – Psychotherapieforschung
+# § 17 – Forschungsorientiertes Praktikum II – Psychotherapieforschung
 
 (1) Das forschungsorientierte Praktikum II – Psychotherapieforschung dient dem Erwerb vertiefter praktischer Erfahrungen in der Erforschung von psychischen, psychosomatischen und neuropsychologischen Krankheiten und von deren psychotherapeutischer Behandlung. Die studierenden Personen sind zu befähigen,
 
@@ -334,8 +313,7 @@ Diese Befähigung sollen die studierenden Personen auch durch selbständiges Beo
 
 (5) Während des forschungsorientierten Praktikums II – Psychotherapieforschung haben die studierenden Personen auch aktiv an exemplarischen wissenschaftlichen Untersuchungen teilzunehmen sowie an deren Planung und Durchführung mitzuarbeiten.
 
-
-## § 18 – Berufsqualifizierende Tätigkeit III – angewandte Praxis der Psychotherapie
+# § 18 – Berufsqualifizierende Tätigkeit III – angewandte Praxis der Psychotherapie
 
 (1) Die berufsqualifizierende Tätigkeit III – angewandte Praxis der Psychotherapie dient der Vertiefung der praktischen Kompetenzen in der psychotherapeutischen Versorgung.
 
@@ -377,13 +355,11 @@ e) vier Patientenaufklärungen über diagnostische und klassifikatorische Befund
 
 (5) Die berufsqualifizierende Tätigkeit III – angewandte Praxis der Psychotherapie findet in Hochschulambulanzen, Einrichtungen der psychotherapeutischen, psychiatrischen, psychosomatischen, neuropsychologischen Versorgung oder in interdisziplinären Behandlungszentren mit Psychotherapieschwerpunkt statt. Die Anleitung der Studierenden nach Absatz 2 erfolgt durch Psychotherapeutinnen und Psychotherapeuten mit einer abgeschlossenen Weiterbildung oder durch Psychologische Psychotherapeutinnen und Psychologische Psychotherapeuten oder Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten mit entsprechender Fachkunde.
 
-
-## § 19 – Einrichtung der für das Prüfungswesen zuständigen Stelle
+# § 19 – Einrichtung der für das Prüfungswesen zuständigen Stelle
 
 Die Länder richten für die psychotherapeutische Prüfung zuständige Stellen ein.
 
-
-## § 20 – Zuständige Stelle
+# § 20 – Zuständige Stelle
 
 (1) Die psychotherapeutische Prüfung wird vor der zuständigen Stelle des Landes abgelegt, in dem die Prüfungskandidatin oder der Prüfungskandidat im Masterstudiengang studiert oder studiert hat.
 
@@ -391,8 +367,7 @@ Die Länder richten für die psychotherapeutische Prüfung zuständige Stellen e
 
 (3) Die Entscheidung über Ausnahmen von den Regelungen in Absatz 1 oder Absatz 2 trifft auf Antrag der Prüfungskandidatin oder des Prüfungskandidaten die zuständige Stelle des Landes, bei der die Prüfungskandidatin oder der Prüfungskandidat die psychotherapeutische Prüfung ablegen, fortsetzen oder wiederholen will, im Benehmen mit der nach Absatz 1 oder Absatz 2 zuständigen Stelle.
 
-
-## § 21 – Antrag auf Zulassung
+# § 21 – Antrag auf Zulassung
 
 (1) Der Antrag auf Zulassung zur psychotherapeutischen Prüfung ist an die nach § 20 zuständige Stelle zu richten.
 
@@ -400,8 +375,7 @@ Die Länder richten für die psychotherapeutische Prüfung zuständige Stellen e
 
 (3) Der Antrag muss der zuständigen Stelle in einem Wintersemester bis zum 10. Dezember oder in einem Sommersemester bis zum 10. Mai zugegangen sein. Er kann frühestens sechs Monate vor dem nächsten Prüfungstermin, aber nicht vor dem letzten Studienhalbjahr des Masterstudiengangs gestellt werden.
 
-
-## § 22 – Erforderliche Unterlagen bei Antrag auf Zulassung
+# § 22 – Erforderliche Unterlagen bei Antrag auf Zulassung
 
 (1) Dem Antrag auf Zulassung zur psychotherapeutischen Prüfung sind folgende Unterlagen im Original oder in beglaubigter Kopie beizufügen:
 
@@ -423,8 +397,7 @@ Sofern die Leistungsübersicht über die im Masterstudiengang erbrachten Studien
 
 (2) Hat die Hochschule die Leistungsübersicht über die im Masterstudiengang erbrachten Studien- und Prüfungsleistungen und die Masterurkunde elektronisch der nach § 20 zuständigen Stelle übermittelt, so braucht die Prüfungskandidatin oder der Prüfungskandidat dieses Dokument dem Antrag nicht selbst beizufügen. Die Hochschule informiert die Prüfungskandidatin oder den Prüfungskandidaten über die elektronische Übermittlung der Unterlagen. Die Übermittlung elektronischer Unterlagen durch die Prüfungskandidatin oder den Prüfungskandidaten ist nicht zulässig.
 
-
-## § 23 – Entscheidung über die Zulassung, Versagungsgründe
+# § 23 – Entscheidung über die Zulassung, Versagungsgründe
 
 (1) Die nach § 20 zuständige Stelle entscheidet über die Zulassung zur psychotherapeutischen Prüfung.
 
@@ -452,8 +425,7 @@ Sofern die Leistungsübersicht über die im Masterstudiengang erbrachten Studien
 
 (5) Die Entscheidung über die Zulassung oder die Versagung der Zulassung zur psychotherapeutischen Prüfung ist der Prüfungskandidatin oder dem Prüfungskandidaten in angemessener Zeit vor der psychotherapeutischen Prüfung schriftlich oder elektronisch mitzuteilen.
 
-
-## § 24 – Nachteilsausgleich
+# § 24 – Nachteilsausgleich
 
 (1) Einer Prüfungskandidatin oder einem Prüfungskandidaten mit Behinderung oder Beeinträchtigung wird bei der Durchführung der psychotherapeutischen Prüfung auf Antrag ein individueller Nachteilsausgleich gewährt. Der Antrag auf Nachteilsausgleich ist an die nach § 20 zuständige Stelle zu richten.
 
@@ -466,8 +438,7 @@ Sofern die Leistungsübersicht über die im Masterstudiengang erbrachten Studien
 (+++ § 24: Zur Geltung vgl. § 65 Abs. 4  
 § 24: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 25 – Prüfungskommission für die psychotherapeutische Prüfung
+# § 25 – Prüfungskommission für die psychotherapeutische Prüfung
 
 (1) Die nach § 20 zuständige Stelle richtet die Prüfungskommission für die psychotherapeutische Prüfung ein.
 
@@ -500,21 +471,18 @@ d) Fachärztinnen oder Fachärzte mit einer Weiterbildung in den Gebieten Psychi
 (+++ § 25: Zur Geltung vgl. § 65 Abs. 4  
 § 25: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 26 – Anwesenheit weiterer Personen in der psychotherapeutischen Prüfung
+# § 26 – Anwesenheit weiterer Personen in der psychotherapeutischen Prüfung
 
 Die nach § 20 zuständige Stelle kann zu beiden Teilen der psychotherapeutischen Prüfung weitere Personen als Beobachterinnen oder Beobachter entsenden. Ebenso sind Vertreterinnen und Vertreter der nach § 22 Absatz 5 des Psychotherapeutengesetzes zuständigen Behörde berechtigt, an beiden Teilen der psychotherapeutischen Prüfung teilzunehmen.
 
 (+++ § 26: Zur Geltung vgl. § 65 Abs. 4  
 § 26: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 27 – Inhalt der psychotherapeutischen Prüfung
+# § 27 – Inhalt der psychotherapeutischen Prüfung
 
 Die psychotherapeutische Prüfung erstreckt sich auf die im Studium vermittelten Inhalte, über die eine Psychotherapeutin oder ein Psychotherapeut zur eigenverantwortlichen und selbständigen Berufsausübung verfügen muss (therapeutische Kompetenzen). Besondere Aspekte der verschiedenen Alters- und Patientengruppen sind in die Fragestellungen der psychotherapeutischen Prüfung angemessen einzubeziehen.
 
-
-## § 28 – Bestehen der psychotherapeutischen Prüfung
+# § 28 – Bestehen der psychotherapeutischen Prüfung
 
 Die psychotherapeutische Prüfung ist bestanden, wenn
 
@@ -522,8 +490,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 
 2. die anwendungsorientierte Parcoursprüfung bestanden worden ist.
 
-
-## § 29 – Ordnungsverstöße und Täuschungsversuche
+# § 29 – Ordnungsverstöße und Täuschungsversuche
 
 (1) Hat eine Prüfungskandidatin oder ein Prüfungskandidat einen Teil der psychotherapeutischen Prüfung in erheblichem Maß gestört oder in einem Teil einen Täuschungsversuch begangen, so kann die nach § 20 zuständige Stelle diesen Teil der psychotherapeutischen Prüfung für nicht bestanden erklären.
 
@@ -534,8 +501,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 (+++ § 29: Zur Geltung vgl. § 65 Abs. 4  
 § 29: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 30 – Rücktritt von der psychotherapeutischen Prüfung
+# § 30 – Rücktritt von der psychotherapeutischen Prüfung
 
 (1) Tritt eine Prüfungskandidatin oder ein Prüfungskandidat nach der Zulassung zur psychotherapeutischen Prüfung, aber vor Beginn des jeweiligen Teils der psychotherapeutischen Prüfung von diesem Teil der psychotherapeutischen Prüfung zurück, so hat sie oder er die Gründe für den Rücktritt unverzüglich der nach § 20 zuständigen Stelle schriftlich oder elektronisch mitzuteilen.
 
@@ -549,8 +515,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 § 30: Zur Geltung vgl. § 65 Abs. 4  
 § 30: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 31 – Fernbleiben und Abbruch der psychotherapeutischen Prüfung
+# § 31 – Fernbleiben und Abbruch der psychotherapeutischen Prüfung
 
 (1) Bleibt eine Prüfungskandidatin oder ein Prüfungskandidat einem Teil der psychotherapeutischen Prüfung fern, ist § 30 entsprechend anzuwenden.
 
@@ -559,8 +524,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 (+++ § 31: Zur Geltung vgl. § 65 Abs. 4  
 § 31: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 32 – Aufbewahrung von Prüfungsunterlagen und Einsichtnahme
+# § 32 – Aufbewahrung von Prüfungsunterlagen und Einsichtnahme
 
 (1) Anträge auf Zulassung zur psychotherapeutischen Prüfung, die Niederschrift über die mündlich-praktische Fallprüfung und die ausgefüllten Bewertungsbögen der anwendungsorientierten Parcoursprüfung sind zehn Jahre aufzubewahren.
 
@@ -568,15 +532,13 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 
 (3) Näheres zur Einsichtnahme in die Prüfungsunterlagen und zur Aufbewahrung derselben regelt die nach § 20 zuständige Stelle.
 
-
-## § 33 – Zeugnis über die psychotherapeutische Prüfung
+# § 33 – Zeugnis über die psychotherapeutische Prüfung
 
 (1) Das Zeugnis über die psychotherapeutische Prüfung wird von der nach § 20 zuständigen Stelle ausgestellt, sobald die Prüfungskandidatin oder der Prüfungskandidat endgültig zur psychotherapeutischen Prüfung zugelassen wurde und wenn die psychotherapeutische Prüfung bestanden ist.
 
 (2) Bei der Ausstellung des Zeugnisses über die psychotherapeutische Prüfung ist das Muster der Anlage 3 zu verwenden.
 
-
-## § 34 – Mitteilung bei endgültigem Nichtbestehen der psychotherapeutischen Prüfung
+# § 34 – Mitteilung bei endgültigem Nichtbestehen der psychotherapeutischen Prüfung
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat einen Teil der psychotherapeutischen Prüfung und damit die psychotherapeutische Prüfung endgültig nicht bestanden, so teilt die nach § 20 zuständige Stelle dies der Prüfungskandidatin oder dem Prüfungskandidaten und den zuständigen Stellen der anderen Länder schriftlich oder elektronisch mit.
 
@@ -584,8 +546,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 
 (3) Die zuständigen Stellen der Länder können vereinbaren, dass die Mitteilungen von einer nach § 20 eingerichteten zuständigen Stelle eines bestimmten Landes oder von einer von den Ländern errichteten gemeinsamen Einrichtung übermittelt werden.
 
-
-## § 35 – Prüfungstermine
+# § 35 – Prüfungstermine
 
 (1) Die mündlich-praktische Fallprüfung wird frühestens in einem Wintersemester im Monat März und in einem Sommersemester im Monat September durchgeführt.
 
@@ -593,8 +554,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 
 (+++ § 35: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 36 – Ladung zum Prüfungstermin
+# § 36 – Ladung zum Prüfungstermin
 
 (1) Die nach § 20 zuständige Stelle stellt der Prüfungskandidatin oder dem Prüfungskandidaten die Ladung zur mündlich-praktischen Fallprüfung zu.
 
@@ -604,8 +564,7 @@ Die psychotherapeutische Prüfung ist bestanden, wenn
 
 (+++ § 36: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 37 – Prüferinnen und Prüfer
+# § 37 – Prüferinnen und Prüfer
 
 (1) Für die mündlich-praktische Fallprüfung werden auf Vorschlag der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren Mitgliedern der Prüfungskommission nach § 25 zwei Prüferinnen oder Prüfer und ihre jeweiligen stellvertretenden Personen bestellt. Eine oder einer der beiden Prüferinnen oder Prüfer wird von der nach § 20 zuständigen Stelle zur oder zum Vorsitzenden für die mündlich-praktische Fallprüfung bestellt.
 
@@ -625,8 +584,7 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 
 (+++ § 37: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 38 – Gegenstand
+# § 38 – Gegenstand
 
 (1) Gegenstand der mündlich-praktischen Fallprüfung ist eine Patientenanamnese.
 
@@ -649,8 +607,7 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 (+++ § 38 Abs. 3: Zur Geltung vgl. § § 45 Abs. 3 Satz 3  
 § 38: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 39 – Durchführung
+# § 39 – Durchführung
 
 (1) Die mündlich-praktische Fallprüfung wird als Einzelprüfung durchgeführt.
 
@@ -658,8 +615,7 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 
 (+++ § 39: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 40 – Niederschrift
+# § 40 – Niederschrift
 
 (1) Über die mündlich-praktische Fallprüfung ist eine Niederschrift nach dem Muster der Anlage 4 zu erstellen.
 
@@ -667,8 +623,7 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 
 (+++ § 40: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 41 – Bewertung und Notenwerte
+# § 41 – Bewertung und Notenwerte
 
 (1) Die in der mündlich-praktischen Fallprüfung erbrachte Leistung sowie das eingereichte Sitzungsprotokoll sind einzeln zu bewerten.
 
@@ -700,8 +655,7 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 
 (+++ § 41: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 42 – Bestehen und Gesamtnote
+# § 42 – Bestehen und Gesamtnote
 
 (1) Die mündlich-praktische Fallprüfung ist bestanden, wenn der für die Prüfungskandidatin oder den Prüfungskandidaten nach § 41 Absatz 6 errechnete Notenwert für die gesamte mündlich-praktische Fallprüfung mindestens 4,0 beträgt.
 
@@ -709,8 +663,7 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 
 (+++ § 42: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 43 – Mitteilung der Notenwerte und der Gesamtnote
+# § 43 – Mitteilung der Notenwerte und der Gesamtnote
 
 (1) Die oder der Vorsitzende der mündlich-praktischen Fallprüfung teilt der Prüfungskandidatin oder dem Prüfungskandidaten die Notenwerte für die in der mündlich-praktischen Fallprüfung erbrachte Leistung und für das Sitzungsprotokoll sowie die Gesamtnote für die mündlich-praktische Fallprüfung mit.
 
@@ -718,15 +671,13 @@ Die beiden Prüferinnen oder Prüfer und ihre stellvertretenden Personen müssen
 
 (+++ § 43: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 44 – Übermittlung der einzelnen Noten
+# § 44 – Übermittlung der einzelnen Noten
 
 Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der nach § 20 zuständigen Stelle die Notenwerte für die in der mündlich-praktischen Fallprüfung erbrachte Leistung und für das Sitzungsprotokoll sowie die Gesamtnote der jeweiligen Prüfungskandidatin oder des jeweiligen Prüfungskandidaten aus der mündlich-praktischen Fallprüfung innerhalb von zwei Werktagen.
 
 (+++ § 44: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 45 – Wiederholung
+# § 45 – Wiederholung
 
 (1) Die mündlich-praktische Fallprüfung kann zweimal wiederholt werden. Eine weitere Wiederholung ist auch nach einem erneuten Studium nicht zulässig.
 
@@ -740,8 +691,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 (+++ § 45: Zur Geltung vgl. § 69 Abs. 7 +++)
 
-
-## § 46 – Prüfungstermine
+# § 46 – Prüfungstermine
 
 (1) Die anwendungsorientierte Parcoursprüfung wird frühestens in einem Wintersemester im Monat März und in einem Sommersemester im Monat September durchgeführt.
 
@@ -749,8 +699,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 (+++ § 46: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 47 – Ladung zum Prüfungstermin
+# § 47 – Ladung zum Prüfungstermin
 
 (1) Die nach § 20 zuständige Stelle stellt der Prüfungskandidatin oder dem Prüfungskandidaten die Ladung zur anwendungsorientierten Parcoursprüfung zu.
 
@@ -760,8 +709,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 (+++ § 47: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 48 – Stationen und Kompetenzbereiche
+# § 48 – Stationen und Kompetenzbereiche
 
 (1) Der Parcours der anwendungsorientierten Parcoursprüfung besteht aus fünf Stationen.
 
@@ -779,8 +727,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 (+++ § 48: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 49 – Erstellung der Prüfungsaufgaben, Schulungen, Prüfungsauswertung
+# § 49 – Erstellung der Prüfungsaufgaben, Schulungen, Prüfungsauswertung
 
 (1) Für jeden Prüfungstermin der anwendungsorientierten Parcoursprüfung wird ein Pool an Prüfungsaufgaben für die fünf in § 48 Absatz 2 genannten Kompetenzbereiche erstellt. Für jede Prüfungsaufgabe ist vorzulegen:
 
@@ -810,8 +757,7 @@ Die oder der Vorsitzende der mündlich-praktischen Fallprüfung übermittelt der
 
 (+++ § 49: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 50 – Prüferinnen und Prüfer
+# § 50 – Prüferinnen und Prüfer
 
 (1) Für die anwendungsorientierte Parcoursprüfung werden auf Vorschlag der Hochschule von der nach § 20 zuständigen Stelle aus den weiteren Mitgliedern der Prüfungskommission nach § 25 für jede Station jeweils zwei Prüferinnen oder Prüfer und ihre jeweiligen stellvertretenden Personen bestellt. Eine oder einer der Prüferinnen oder Prüfer in den einzelnen Stationen wird von der nach § 20 zuständigen Stelle zur oder zum Vorsitzenden für die anwendungsorientierte Parcoursprüfung bestellt.
 
@@ -837,8 +783,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 50: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 51 – Durchführung
+# § 51 – Durchführung
 
 (1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung wählt für den jeweiligen Prüfungstermin in Absprache mit der nach § 20 zuständigen Stelle aus den zusammengestellten Parcours nach § 49 Absatz 4 einen Parcours und mindestens einen Ersatzparcours aus.
 
@@ -856,8 +801,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 51: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 52 – Bewertung
+# § 52 – Bewertung
 
 (1) Die an jeder Station erbrachte Leistung wird von beiden Prüferinnen oder Prüfern der jeweiligen Station anhand des strukturierten Bewertungsbogens getrennt bewertet. Jede Prüferin oder jeder Prüfer vergibt für jedes Leistungsmerkmal Punkte innerhalb der vorgegebenen Spannen.
 
@@ -867,8 +811,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 52: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 53 – Bestehen
+# § 53 – Bestehen
 
 (1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung stellt anhand der für jede einzelne Station errechneten Punktzahl fest, ob die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung bestanden hat.
 
@@ -880,8 +823,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 53: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 54 – Note
+# § 54 – Note
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung bestanden, so lautet die Note für die anwendungsorientierte Parcoursprüfung
 
@@ -899,8 +841,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 54: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 55 – Übermittlung der Ergebnisse
+# § 55 – Übermittlung der Ergebnisse
 
 (1) Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung übermittelt der nach § 20 zuständigen Stelle die Ergebnisse aus der jeweiligen anwendungsorientierten Parcoursprüfung innerhalb von zwei Werktagen nach deren Abschluss.
 
@@ -912,8 +853,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 55: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 56 – Mitteilung des Ergebnisses
+# § 56 – Mitteilung des Ergebnisses
 
 (1) Hat die Prüfungskandidatin oder der Prüfungskandidat die anwendungsorientierte Parcoursprüfung bestanden, so teilt die nach § 20 zuständige Stelle ihr oder ihm Folgendes mit:
 
@@ -933,8 +873,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 56: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 57 – Wiederholung
+# § 57 – Wiederholung
 
 (1) Die anwendungsorientierte Parcoursprüfung kann zweimal wiederholt werden. Eine weitere Wiederholung ist auch nach einem erneuten Studium nicht zulässig.
 
@@ -948,8 +887,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 57: Zur Geltung vgl. § 65 Abs. 4 +++)
 
-
-## § 58 – Vorlage von Unterlagen, Bescheinigungen oder sonstigen Nachweisen
+# § 58 – Vorlage von Unterlagen, Bescheinigungen oder sonstigen Nachweisen
 
 (1) Wird in dieser Verordnung die Vorlage von Unterlagen, Bescheinigungen oder sonstigen Nachweisen gefordert, so können sie im Original oder in beglaubigter Kopie vorgelegt werden.
 
@@ -957,15 +895,13 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (3) Hat die nach § 22 des Psychotherapeutengesetzes jeweils zuständige Behörde begründete Zweifel an der Authentizität eines elektronisch übermittelten Nachweises, so kann sie, soweit sie es für erforderlich erachtet, die Übermittlung des Originals oder einer beglaubigten Kopie verlangen.
 
-
-## § 59 – Ausstellung und Aushändigung der Approbationsurkunde
+# § 59 – Ausstellung und Aushändigung der Approbationsurkunde
 
 (1) Die nach § 22 Absatz 1 oder Absatz 2 des Psychotherapeutengesetzes zuständige Behörde stellt die Approbationsurkunde aus. Bei der Ausstellung ist das Muster nach Anlage 5 zu verwenden.
 
 (2) Die nach § 22 Absatz 1 oder Absatz 2 des Psychotherapeutengesetzes zuständige Behörde händigt die Approbationsurkunde der antragstellenden Person gegen Empfangsbekenntnis aus oder stellt sie ihr mit Zustellungsurkunde zu.
 
-
-## § 60 – Erforderliche Unterlagen bei Antrag auf Erteilung der Approbation aufgrund einer in Deutschland erworbenen Berufsqualifikation
+# § 60 – Erforderliche Unterlagen bei Antrag auf Erteilung der Approbation aufgrund einer in Deutschland erworbenen Berufsqualifikation
 
 (1) Personen, die die Approbation als Psychotherapeutin oder Psychotherapeut aufgrund einer in Deutschland erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
 
@@ -985,8 +921,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (2) Das amtliche Führungszeugnis und die ärztliche Bescheinigung werden nur anerkannt, wenn sie zum Zeitpunkt ihres Eingangs bei der nach § 22 Absatz 1 des Psychotherapeutengesetzes zuständigen Behörde nicht älter als einen Monat sind.
 
-
-## § 61 – Fristen
+# § 61 – Fristen
 
 (1) Beantragt eine Person, die im Ausland eine Berufsqualifikation erworben hat, die Approbation als Psychotherapeutin oder als Psychotherapeut nach § 2 Absatz 1 des Psychotherapeutengesetzes, so bestätigt die zuständige Behörde innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt der antragstellenden Person gegebenenfalls mit, welche Unterlagen fehlen, die für den Nachweis der Erfüllung der Voraussetzungen des § 2 Absatz 1 Nummer 1 bis 4 des Psychotherapeutengesetzes erforderlich sind.
 
@@ -994,8 +929,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (3) Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
-
-## § 62 – Erforderliche Unterlagen bei Antrag auf Erteilung der Approbation aufgrund einer im Ausland erworbenen Berufsqualifikation
+# § 62 – Erforderliche Unterlagen bei Antrag auf Erteilung der Approbation aufgrund einer im Ausland erworbenen Berufsqualifikation
 
 (1) Personen, die die Approbation als Psychotherapeutin oder Psychotherapeut aufgrund einer im Ausland erworbenen Berufsqualifikation beantragen, haben dem Antrag folgende Unterlagen beizufügen:
 
@@ -1011,8 +945,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (3) Soweit die Unterlagen nach Absatz 1 Nummer 2 bis 4 nicht in deutscher Sprache ausgestellt sind, sind sie zusätzlich in amtlich beglaubigter Übersetzung vorzulegen.
 
-
-## § 63 – Bescheid bei Feststellung wesentlicher Unterschiede
+# § 63 – Bescheid bei Feststellung wesentlicher Unterschiede
 
 (1) Stellt die nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständige Behörde hinsichtlich der Gleichwertigkeit der erworbenen Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie der antragstellenden Person einen rechtsmittelfähigen Bescheid.
 
@@ -1028,15 +961,13 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 5. die Anpassungsmaßnahme nach Unterabschnitt 2 oder Unterabschnitt 3, die zum Ausgleich der festgestellten wesentlichen Unterschiede erforderlich ist.
 
-
-## § 64 – Gegenstand und Art der Kenntnisprüfung
+# § 64 – Gegenstand und Art der Kenntnisprüfung
 
 (1) In der Kenntnisprüfung hat die antragstellende Person nachzuweisen, dass sie über die Kenntnisse und Fähigkeiten verfügt, die zur Ausübung des Berufs der Psychotherapeutin und des Psychotherapeuten erforderlich sind.
 
 (2) Die Kenntnisprüfung ist eine anwendungsorientierte Parcoursprüfung.
 
-
-## § 65 – Durchführung und Abschluss der Kenntnisprüfung
+# § 65 – Durchführung und Abschluss der Kenntnisprüfung
 
 (1) Die Kenntnisprüfung wird als Teil der psychotherapeutischen Prüfung durchgeführt. Die Länder können zur Durchführung der Kenntnisprüfung die Prüferinnen und Prüfer und die Prüfungstermine der anwendungsorientierten Parcoursprüfung nach Abschnitt 2 Unterabschnitt 3 in Anspruch nehmen. Sie haben sicherzustellen, dass die antragstellenden Personen die Kenntnisprüfung innerhalb von sechs Monaten nach der Entscheidung nach § 63 ablegen können.
 
@@ -1050,8 +981,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (6) Wurde die Kenntnisprüfung endgültig nicht bestanden, vermerkt die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung auf der Bescheinigung nach Absatz 5, ob und unter welchen Auflagen eine Ausübung des Berufs der Psychotherapeutin oder des Psychotherapeuten ohne Gefährdung der öffentlichen Gesundheit, insbesondere der gesundheitlichen Belange von Patienten und Patientinnen, im Rahmen einer Erlaubnis zur vorübergehenden Berufsausübung möglich ist.
 
-
-## § 66 – Anpassungslehrgang
+# § 66 – Anpassungslehrgang
 
 (1) Der Anpassungslehrgang nach § 12 Absatz 3 Satz 1 des Psychotherapeutengesetzes (Anpassungslehrgang) ist eine praktische Tätigkeit, die in einem der folgenden Versorgungsbereiche auszuüben ist:
 
@@ -1073,8 +1003,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (+++ § 66 Abs. 3 und 4: Zur Geltung vgl. § 67 Abs. 3 Satz 2 +++)
 
-
-## § 67 – Durchführung und Abschluss des Anpassungslehrgangs
+# § 67 – Durchführung und Abschluss des Anpassungslehrgangs
 
 (1) Während des Anpassungslehrgangs arbeitet die antragstellende Person unter Aufsicht und Weisung einer Psychotherapeutin oder eines Psychotherapeuten in dem Versorgungsbereich der psychotherapeutischen Versorgung, in dem der Anpassungslehrgang stattfindet, mit.
 
@@ -1084,8 +1013,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (4) Hat die antragstellende Person das Lehrgangsziel erreicht, so stellt die nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständige Behörde eine Bescheinigung über die Teilnahme am Anpassungslehrgang aus. Bei der Ausstellung ist das Muster der Anlage 7 zu verwenden.
 
-
-## § 68 – Gegenstand der Eignungsprüfung
+# § 68 – Gegenstand der Eignungsprüfung
 
 (1) In der Eignungsprüfung hat die antragstellende Person nachzuweisen, dass sie über die Kenntnisse und Fähigkeiten verfügt, die zum Ausgleich der von der nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlich sind.
 
@@ -1099,8 +1027,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 2. fallübergreifende Fragen zu den therapeutischen Kompetenzen.
 
-
-## § 69 – Durchführung und Abschluss der Eignungsprüfung
+# § 69 – Durchführung und Abschluss der Eignungsprüfung
 
 (1) Die Länder können zur Durchführung der Eignungsprüfung die Prüferinnen oder Prüfer und die Prüfungstermine der mündlich-praktischen Fallprüfung nach Abschnitt 2 Unterabschnitt 2 in Anspruch nehmen. Sie haben sicherzustellen, dass die antragstellenden Personen die Eignungsprüfung innerhalb von sechs Monaten nach der Entscheidung nach § 63 ablegen können.
 
@@ -1116,8 +1043,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (7) Soweit in § 68 sowie in den Absätzen 1 bis 6 nicht etwas anderes bestimmt ist, gelten die §§ 24 bis 26, 29 bis 31 und 35 bis 45 für die Durchführung der Eignungsprüfung entsprechend.
 
-
-## § 70 – Nachweis der Zuverlässigkeit
+# § 70 – Nachweis der Zuverlässigkeit
 
 (1) Personen, die die Approbation als Psychotherapeutin oder Psychotherapeut aufgrund einer in einem Drittstaat erworbenen Berufsqualifikation beantragen, haben dem Antrag zum Nachweis der Zuverlässigkeit nach § 2 Absatz 1 Nummer 2 des Psychotherapeutengesetzes die folgenden weiteren Unterlagen beizufügen:
 
@@ -1135,8 +1061,7 @@ Die oder der Vorsitzende der anwendungsorientierten Parcoursprüfung ist währen
 
 (6) Hat die nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständige Behörde berechtigte Zweifel an der Berechtigung der antragstellenden Person zur Ausübung des Berufs der Psychotherapeutin und des Psychotherapeuten, so kann sie von der zuständigen Behörde eines anderen Staates, der darüber Erkenntnisse haben könnte, eine Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden Person die Ausübung des psychotherapeutischen Berufs nicht aufgrund eines schwerwiegenden standeswidrigen Verhaltens oder aufgrund einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist.
 
-
-## § 71 – Nachweis der gesundheitlichen Eignung
+# § 71 – Nachweis der gesundheitlichen Eignung
 
 Personen, die die Approbation als Psychotherapeutin oder Psychotherapeut aufgrund einer in einem Drittstaat erworbenen Berufsqualifikation beantragen, haben dem Antrag zum Nachweis der gesundheitlichen Eignung nach § 2 Absatz 1 Nummer 3 des Psychotherapeutengesetzes die folgenden weiteren Unterlagen beizufügen:
 
@@ -1146,15 +1071,13 @@ Personen, die die Approbation als Psychotherapeutin oder Psychotherapeut aufgrun
 
 Wird im Herkunftsstaat ein Nachweis nach Satz 1 Nummer 2 nicht gefordert, so kann eine von einer zuständigen Behörde des Herkunftsstaates ausgestellte andere Bescheinigung über die körperliche und geistige Gesundheit der antragstellenden Person beigefügt werden.
 
-
-## § 72 – Aktualität von Nachweisen
+# § 72 – Aktualität von Nachweisen
 
 Die Nachweise nach den §§ 70 und 71 werden nur anerkannt, wenn sie zum Zeitpunkt ihres Eingangs bei der nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständigen Behörde nicht älter als drei Monate sind.
 
 (+++ § 72: Zur Geltung vgl. § 76 Abs. 2 Satz 2 +++)
 
-
-## § 73 – Nachweis der Zuverlässigkeit
+# § 73 – Nachweis der Zuverlässigkeit
 
 (1) Eine Person, die über eine in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat erworbene Berufsqualifikation verfügt und die Approbation als Psychotherapeutin oder Psychotherapeut beantragt, kann zum Nachweis der Voraussetzung nach § 2 Absatz 1 Nummer 2 des Psychotherapeutengesetzes eine von der zuständigen Stelle ihres Herkunftsstaates ausgestellte entsprechende Bescheinigung oder einen von einer solchen Stelle ausgestellten Strafregisterauszug vorlegen. Wenn ein solcher Nachweis nicht vorgelegt werden kann, kann die antragstellende Person einen gleichwertigen Nachweis vorlegen.
 
@@ -1164,22 +1087,19 @@ Die Nachweise nach den §§ 70 und 71 werden nur anerkannt, wenn sie zum Zeitpun
 
 (4) Werden von der zuständigen Stelle des Herkunftsstaates innerhalb von zwei Monaten weder die in Absatz 1 genannten Dokumente ausgestellt noch die nach Absatz 2 oder Absatz 3 nachgefragten Bestätigungen oder Mitteilungen gemacht, so kann die antragstellende Person sie durch Vorlage einer Bescheinigung über die Abgabe einer eidesstattlichen Erklärung gegenüber der zuständigen Stelle des Herkunftsstaates oder über die Abgabe einer feierlichen Erklärung in dem Herkunftsstaat ersetzen, wenn es in dem Herkunftsstaat keine eidesstattliche Erklärung gibt.
 
-
-## § 74 – Nachweis der gesundheitlichen Eignung
+# § 74 – Nachweis der gesundheitlichen Eignung
 
 (1) Eine Person, die über eine in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat erworbene Berufsqualifikation verfügt und die Approbation als Psychotherapeutin oder Psychotherapeut beantragt, kann zum Nachweis der Voraussetzung nach § 2 Absatz 1 Nummer 3 des Psychotherapeutengesetzes einen entsprechenden Nachweis ihres Herkunftsstaates vorlegen.
 
 (2) Wird im Herkunftsstaat ein solcher Nachweis nicht verlangt, so ist eine von einer zuständigen Stelle des Herkunftsstaates ausgestellte Bescheinigung anzuerkennen, aus der sich ergibt, dass die Voraussetzung nach § 2 Absatz 1 Nummer 3 des Psychotherapeutengesetzes erfüllt ist.
 
-
-## § 75 – Aktualität von Nachweisen
+# § 75 – Aktualität von Nachweisen
 
 Die Nachweise nach den §§ 73 und 74 werden nur anerkannt, wenn sie zum Zeitpunkt ihres Eingangs bei der nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständigen Behörde nicht älter als drei Monate sind.
 
 (+++ § 75: Zur Geltung vgl. § 76 Abs. 3 Satz 2 +++)
 
-
-## § 76 – Erforderliche Unterlagen beim Antrag
+# § 76 – Erforderliche Unterlagen beim Antrag
 
 (1) Personen, die eine Erlaubnis zur vorübergehenden Berufsausübung nach § 3 des Psychotherapeutengesetzes erstmals beantragen, haben dem Antrag folgende Unterlagen beizufügen:
 
@@ -1199,15 +1119,13 @@ Die Nachweise nach den §§ 73 und 74 werden nur anerkannt, wenn sie zum Zeitpun
 
 (5) Soweit die Unterlagen nach Absatz 1 Nummer 2 bis 4 und den Absätzen 2 bis 4 nicht in deutscher Sprache ausgestellt sind, sind sie zusätzlich in amtlich beglaubigter Übersetzung vorzulegen.
 
-
-## § 77 – Fristen
+# § 77 – Fristen
 
 (1) Beantragt eine Person, die über eine im Ausland erworbene Berufsqualifikation verfügt, eine Erlaubnis zur vorübergehenden Berufsausübung, so bestätigt die nach § 22 Absatz 3 des Psychotherapeutengesetzes zuständige Behörde innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt der antragstellenden Person gegebenenfalls mit, welche Unterlagen fehlen, die für die Erteilung der Erlaubnis zur vorübergehenden Berufsausübung nach § 3 des Psychotherapeutengesetzes erforderlich sind.
 
 (2) Die nach § 22 Absatz 2 des Psychotherapeutengesetzes zuständige Behörde entscheidet über den Antrag auf Erlaubnis zur vorübergehenden Berufsausübung nach Satz 1 kurzfristig, spätestens jedoch vier Monate nach Vorlage der vollständigen Unterlagen durch die antragstellende Person.
 
-
-## § 78 – Erteilung
+# § 78 – Erteilung
 
 (1) Bei der Entscheidung über die erstmalige Erteilung der Erlaubnis zur vorübergehenden Berufsausübung nach § 3 des Psychotherapeutengesetzes prüft die zuständige Behörde, ob die antragstellende Person für die beabsichtigte Ausübung des Berufs der Psychotherapeutin oder des Psychotherapeuten fachlich geeignet ist.
 
@@ -1235,8 +1153,7 @@ Die Nachweise nach den §§ 73 und 74 werden nur anerkannt, wenn sie zum Zeitpun
 
 (+++ § 78 Abs. 4 und 5: Zur Geltung vgl. § 79 Abs. 4 +++)
 
-
-## § 79 – Verlängerung der Erlaubnis
+# § 79 – Verlängerung der Erlaubnis
 
 (1) Dem Antrag auf Verlängerung der Erlaubnis zur vorübergehenden Berufsausübung nach § 3 des Psychotherapeutengesetzes sind folgende Unterlagen beizufügen:
 
@@ -1252,13 +1169,11 @@ Die Nachweise nach den §§ 73 und 74 werden nur anerkannt, wenn sie zum Zeitpun
 
 (4) Für die Erteilung der Erlaubnis gilt § 78 Absatz 4 und 5 entsprechend.
 
-
-## § 80 – Erlaubnisurkunde
+# § 80 – Erlaubnisurkunde
 
 Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 4 Absatz 1 des Psychotherapeutengesetzes ist das Muster nach Anlage 10 zu verwenden.
 
-
-## § 81 – Unterrichtung durch die zuständige Behörde
+# § 81 – Unterrichtung durch die zuständige Behörde
 
 (1) Die nach § 22 Absatz 6 Satz 1 des Psychotherapeutengesetzes zuständige Behörde teilt der Person, die erstmals gemeldet hat, eine Dienstleistung nach § 15 des Psychotherapeutengesetzes zu erbringen, mit:
 
@@ -1268,8 +1183,7 @@ Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 4 Absat
 
 (2) Die Unterrichtung erfolgt spätestens innerhalb eines Monats, nachdem die Meldung und die erforderlichen Begleitdokumente bei der zuständigen Behörde eingegangen sind.
 
-
-## § 82 – Verfahren bei Verzögerung der Prüfung, Eignungsprüfung
+# § 82 – Verfahren bei Verzögerung der Prüfung, Eignungsprüfung
 
 (1) Ist es der nach § 22 Absatz 6 Satz 1 des Psychotherapeutengesetzes zuständigen Behörde in besonderen Ausnahmefällen nicht möglich, die Prüfung nach § 18 Absatz 1 des Psychotherapeutengesetzes innerhalb eines Monats vorzunehmen, so teilt sie dies der Person unter Angabe der Gründe für die Verzögerung innerhalb dieser Frist mit. Die Behörde hat die Hinderungsgründe innerhalb eines Monats nach Versendung dieser Mitteilung zu beseitigen.
 
@@ -1281,20 +1195,17 @@ Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung nach § 4 Absat
 
 (3) Die Eignungsprüfung nach § 18 Absatz 3 des Psychotherapeutengesetzes wird nach den Vorgaben der §§ 68 und 69 durchgeführt.
 
-
-## § 83 – Verfahren bei Ausbleiben einer Reaktion der zuständigen Behörde
+# § 83 – Verfahren bei Ausbleiben einer Reaktion der zuständigen Behörde
 
 Bleibt die Unterrichtung durch die nach § 22 Absatz 6 Satz 1 des Psychotherapeutengesetzes zuständige Behörde innerhalb der Frist nach § 81 Absatz 2 oder § 82 Absatz 2 aus, so darf die Dienstleistung erbracht werden.
 
-
-## § 84 – Übergangsvorschriften
+# § 84 – Übergangsvorschriften
 
 (1) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Psychologischen Psychotherapeutin oder zum Psychologischen Psychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden nach der Ausbildungs- und Prüfungsverordnung für Psychologische Psychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft.
 
 (2) Personen, die nach § 27 des Psychotherapeutengesetzes ihre Ausbildung zur Kinder- und Jugendlichenpsychotherapeutin oder zum Kinder- und Jugendlichenpsychotherapeuten nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung absolvieren, werden nach der Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten in der bis zum 31. August 2020 geltenden Fassung ausgebildet und geprüft.
 
-
-## § 85 – Inkrafttreten, Außerkrafttreten
+# § 85 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2020 in Kraft. Gleichzeitig treten außer Kraft:
 
@@ -1302,13 +1213,11 @@ Diese Verordnung tritt am 1. September 2020 in Kraft. Gleichzeitig treten außer
 
 2. die Ausbildungs- und Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten vom 18. Dezember 1998 (BGBl. I S. 3761), die zuletzt durch Artikel 20 des Gesetzes vom 15. August 2019 (BGBl. I S. 1307) geändert worden ist.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 8 Nummer 1)Inhalte, die im Bachelorstudiengang im Rahmen der hochschulischen Lehre zu vermitteln und bei dem Antrag auf Zulassung zur psychotherapeutischen Prüfung nachzuweisen sind
+# Anlage 1 – (zu § 8 Nummer 1)Inhalte, die im Bachelorstudiengang im Rahmen der hochschulischen Lehre zu vermitteln und bei dem Antrag auf Zulassung zur psychotherapeutischen Prüfung nachzuweisen sind
 
 (Fundstelle: BGBl. I 2020, 469 - 472)
 
@@ -1518,8 +1427,7 @@ b) berufsrechtliche Vorgaben des psychotherapeutischen Handelns,
 
 c) sozialrechtliche Vorgaben der psychotherapeutischen Versorgung.
 
-
-## Anlage 2 – (zu § 8 Nummer 2)Inhalte, die im Masterstudiengang im Rahmen der hochschulischen Lehre zu vermitteln und bei dem Antrag auf Zulassung zur psychotherapeutischen Prüfung nachzuweisen sind
+# Anlage 2 – (zu § 8 Nummer 2)Inhalte, die im Masterstudiengang im Rahmen der hochschulischen Lehre zu vermitteln und bei dem Antrag auf Zulassung zur psychotherapeutischen Prüfung nachzuweisen sind
 
 (Fundstelle: BGBl. I 2020, 473 - 475)
 
@@ -1689,8 +1597,7 @@ d) erkennen Grenzen des eigenen psychotherapeutischen Handelns und leiten geeign
 
 Zur Vermittlung der Inhalte der Selbstreflexion sind bei der Planung der hochschulischen Lehre mindestens 2 ECTS-Punkte vorzusehen.
 
-
-## Anlage 3 – (zu § 33 Absatz 2)Zeugnis über die psychotherapeutische Prüfung
+# Anlage 3 – (zu § 33 Absatz 2)Zeugnis über die psychotherapeutische Prüfung
 
 (Fundstelle: BGBl. I 2020, 476)
 
@@ -1730,45 +1637,37 @@ Stempel
  
 
   
-.........................................................................................  
-
+......................................................................................... 
 (Unterschrift)
 
  
 
-
-## Anlage 4 – (zu § 40 Absatz 1)Niederschrift über die mündlich-praktische Fallprüfung nach § 40 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+# Anlage 4 – (zu § 40 Absatz 1)Niederschrift über die mündlich-praktische Fallprüfung nach § 40 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
 
 (Fundstelle: BGBl. I 2020, 477)
 
-
-## Anlage 5 – (zu § 59 Absatz 1)Approbationsurkunde
+# Anlage 5 – (zu § 59 Absatz 1)Approbationsurkunde
 
 (Fundstelle: BGBl. I 2020, 478)
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 6 – (zu § 65 Absatz 5)Bescheinigung über die Kenntnisprüfung nach den §§ 64 und 65 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+# Anlage 6 – (zu § 65 Absatz 5)Bescheinigung über die Kenntnisprüfung nach den §§ 64 und 65 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
 
 (Fundstelle: BGBl. I 2020, 479)
 
-
-## Anlage 7 – (zu § 67 Absatz 4)Bescheinigung über die Teilnahme am Anpassungslehrgang nach den §§ 66 und 67 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+# Anlage 7 – (zu § 67 Absatz 4)Bescheinigung über die Teilnahme am Anpassungslehrgang nach den §§ 66 und 67 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
 
 (Fundstelle: BGBl. I 2020, 480)
 
-
-## Anlage 8 – (zu § 69 Absatz 6)Bescheinigung über die Eignungsprüfung nach den §§ 68 und 69 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
+# Anlage 8 – (zu § 69 Absatz 6)Bescheinigung über die Eignungsprüfung nach den §§ 68 und 69 der Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten
 
 (Fundstelle: BGBl. I 2020, 481)
 
-
-## Anlage 9 – (zu § 78 Absatz 5)Erlaubnis zur vorübergehenden Berufsausübung des psychotherapeutischen Berufs
+# Anlage 9 – (zu § 78 Absatz 5)Erlaubnis zur vorübergehenden Berufsausübung des psychotherapeutischen Berufs
 
 (Fundstelle: BGBl. I 2020, 482)
 
-
-## Anlage 10 – (zu § 80)Erlaubnis zur partiellen Berufsausübung des psychotherapeutischen Berufs
+# Anlage 10 – (zu § 80)Erlaubnis zur partiellen Berufsausübung des psychotherapeutischen Berufs
 
 (Fundstelle: BGBl. I 2020, 483)

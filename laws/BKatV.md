@@ -1,22 +1,17 @@
-# [BKatV] Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr  (Bußgeldkatalog-Verordnung - BKatV)
-
-Ausfertigungsdatum: 14.03.2013
-
+% Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr  (Bußgeldkatalog-Verordnung - BKatV)
+% Ausfertigungsdatum: 14.03.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), der zuletzt durch Artikel 1 Nummer 3 des Gesetzes vom 19. Juli 2007 (BGBl. I S. 1460) geändert worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Bußgeldkatalog
+# § 1 – Bußgeldkatalog
 
 (1) Bei Ordnungswidrigkeiten nach den §§ 24, 24a und 24c des Straßenverkehrsgesetzes, die in der Anlage zu dieser Verordnung (Bußgeldkatalog – BKat) aufgeführt sind, ist eine Geldbuße nach den dort bestimmten Beträgen festzusetzen. Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, bei denen im Bußgeldkatalog ein Regelsatz von bis zu 55 Euro bestimmt ist, ist ein entsprechendes Verwarnungsgeld zu erheben.
 
 (2) Die im Bußgeldkatalog bestimmten Beträge sind Regelsätze. Sie gehen von gewöhnlichen Tatumständen sowie in Abschnitt I des Bußgeldkatalogs von fahrlässiger und in Abschnitt II des Bußgeldkatalogs von vorsätzlicher Begehung aus.
 
-
-## § 2 – Verwarnung
+# § 2 – Verwarnung
 
 (1) Die Verwarnung muss mit einem Hinweis auf die Verkehrszuwiderhandlung verbunden sein.
 
@@ -34,8 +29,7 @@ Auf Grund des § 26a des Straßenverkehrsgesetzes in der Fassung der Bekanntmach
 
 (8) In den Fällen der Absätze 6 und 7 ist jedoch zu prüfen, ob die Handlung oder die Handlungen insgesamt noch geringfügig sind.
 
-
-## § 3 – Bußgeldregelsätze
+# § 3 – Bußgeldregelsätze
 
 (1) Etwaige Eintragungen des Betroffenen im Fahreignungsregister sind im Bußgeldkatalog nicht berücksichtigt, soweit nicht in den Nummern 152.1, 241.1, 241.2, 242.1 und 242.2 des Bußgeldkatalogs etwas anderes bestimmt ist.
 
@@ -65,8 +59,7 @@ des Bußgeldkatalogs anordnet oder zulässt.
 
 (6) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes, die von nicht motorisierten Verkehrsteilnehmern begangen werden, ist, sofern der Bußgeldregelsatz mehr als 55 Euro beträgt und der Bußgeldkatalog nicht besondere Tatbestände für diese Verkehrsteilnehmer enthält, der Regelsatz um die Hälfte zu ermäßigen. Beträgt der nach Satz 1 ermäßigte Regelsatz weniger als 60 Euro, so soll eine Geldbuße nur festgesetzt werden, wenn eine Verwarnung mit Verwarnungsgeld nicht erteilt werden kann.
 
-
-## § 4 – Regelfahrverbot
+# § 4 – Regelfahrverbot
 
 (1) Bei Ordnungswidrigkeiten nach § 24 des Straßenverkehrsgesetzes kommt die Anordnung eines Fahrverbots (§ 25 Absatz 1 Satz 1 des Straßenverkehrsgesetzes) wegen grober Verletzung der Pflichten eines Kraftfahrzeugführers in der Regel in Betracht, wenn ein Tatbestand
 
@@ -86,18 +79,15 @@ des Bußgeldkatalogs verwirklicht wird. Wird in diesen Fällen ein Fahrverbot an
 
 (4) Wird von der Anordnung eines Fahrverbots ausnahmsweise abgesehen, so soll das für den betreffenden Tatbestand als Regelsatz vorgesehene Bußgeld angemessen erhöht werden.
 
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2013 in Kraft. Gleichzeitig tritt die Bußgeldkatalog-Verordnung vom 13. November 2001 (BGBl. I S. 3033), die zuletzt durch Artikel 3 der Verordnung vom 19. Oktober 2012 (BGBl. I S. 2232) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1 Absatz 1)Bußgeldkatalog (BKat)
+# Anlage – (zu § 1 Absatz 1)Bußgeldkatalog (BKat)
 
 (Fundstelle: BGBl. I 2013, 500 – 540 ,  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -108,8 +98,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 Anlage Nr. 46 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "aufgeboben" durch das Wort "aufgehoben" ersetzt
 
-
-## Anhang – (zu Nummer 11 der Anlage)Tabelle 1
+# Anhang – (zu Nummer 11 der Anlage)Tabelle 1
 
 (Fundstelle: BGBl. I 2013, 541 – 542;;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -129,13 +118,11 @@ c) andere als die in Buchstaben a oder b genannten Kraftfahrzeuge
 
 Lfd. Nr.
 
-
-## Anhang – (zu Nummer 12 der Anlage)Tabelle 2
+# Anhang – (zu Nummer 12 der Anlage)Tabelle 2
 
 (Fundstelle: BGBl. I 2013, 3935)
 
-
-## Anhang – (zu den Nummern 198 und 199 der Anlage)Tabelle 3
+# Anhang – (zu den Nummern 198 und 199 der Anlage)Tabelle 3
 
 (Fundstelle: BGBl. I 2013, 544)
 
@@ -159,8 +146,7 @@ b) bei anderen Kraftfahrzeugen bis 7,5 t für Inbetriebnahme, Anordnen oder Zula
 | 198.2.5 oder 199.2.5 |       mehr als 25       |        140        |
 | 198.2.6 oder 199.2.6 |       mehr als 30       |        235        |
 
-
-## Anhang – (zu § 3 Absatz 3)Tabelle 4
+# Anhang – (zu § 3 Absatz 3)Tabelle 4
 
 (Fundstelle: BGBl. I 2013, 3936 - 3937)
 

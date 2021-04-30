@@ -1,17 +1,13 @@
-# [EBPV] Verordnung über die Prüfung zum Betriebsleiter für Eisenbahnen  (Eisenbahnbetriebsleiter-Prüfungsverordnung - EBPV)
-
-Ausfertigungsdatum: 07.07.2000
-
+% Verordnung über die Prüfung zum Betriebsleiter für Eisenbahnen  (Eisenbahnbetriebsleiter-Prüfungsverordnung - EBPV)
+% Ausfertigungsdatum: 07.07.2000
  
-
-## § 1 – Errichtung
+# § 1 – Errichtung
 
 (1) Für die Abnahme der Prüfung zum Betriebsleiter für Eisenbahnen errichtet die zuständige Aufsichtsbehörde einen Prüfungsausschuss.
 
 (2) Für den Bereich mehrerer Länder kann durch Vereinbarung ein gemeinsamer Prüfungsausschuss errichtet werden.
 
-
-## § 2 – Zusammensetzung und Berufung des Prüfungsausschusses
+# § 2 – Zusammensetzung und Berufung des Prüfungsausschusses
 
 (1) Der Prüfungsausschuss besteht aus dem Vorsitzenden sowie weiteren Mitgliedern.
 
@@ -35,28 +31,23 @@ Die Mitglieder werden jeweils für ein oder mehrere Prüfungsfächer berufen. Si
 
 (6) Der Vorsitzende kann Aufgaben auf den Prüfungsleiter nach § 14 Absatz 2 übertragen.
 
-
-## § 3 – Ausschluss und Befangenheit
+# § 3 – Ausschluss und Befangenheit
 
 (1) Bei der Prüfung darf nicht mitwirken, wer Vorgesetzter eines Prüfungsbewerbers oder im selben Unternehmen oder in derselben Behörde wie dieser tätig ist.
 
 (2) Wenn sich während der Prüfung ergibt, dass infolge des Ausschlusses nach Absatz 1 eine ordnungsgemäße Besetzung der Prüfungskommission nicht möglich ist, ist die Prüfung zunächst abzubrechen. Über die Fortsetzung oder erneute Anberaumung der Prüfung beschließt die Prüfungskommission mit den Stimmen der nicht befangenen Mitglieder.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## § 5 – Geschäftsführung
+# § 5 – Geschäftsführung
 
 Die zuständige Aufsichtsbehörde nimmt im Benehmen mit dem Prüfungsausschuss dessen Geschäftsführung wahr. Ist ein Prüfungsausschuss nach § 1 Abs. 2 für den Bereich mehrerer Länder errichtet worden, so nimmt die von den Ländern bestimmte Stelle die Geschäftsführung wahr.
 
-
-## § 6 – Verschwiegenheit
+# § 6 – Verschwiegenheit
 
 Die Mitglieder des Prüfungsausschusses haben über die Prüfungsvorgänge gegenüber Dritten Stillschweigen zu wahren. Ausnahmen bedürfen der Einwilligung der zuständigen Aufsichtsbehörde.
 
-
-## § 7 – Zulassungsvoraussetzungen
+# § 7 – Zulassungsvoraussetzungen
 
 Zur Prüfung wird auf eigenen Antrag zugelassen, wer
 
@@ -74,8 +65,7 @@ erfolgreich abgeschlossen hat und
 
 3. nach § 3 Abs. 1 Nr. 2 Buchstabe c der Eisenbahnbetriebsleiterverordnung vom 7. Juli 2000 (BGBl. I S. 1023) mindestens drei Jahre als bestätigter Straßenbahn-Betriebsleiter tätig gewesen ist.
 
-
-## § 8 – Anmeldung zur Prüfung
+# § 8 – Anmeldung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist vom Bewerber an die für die Eisenbahn, bei der er zum Zeitpunkt der Antragstellung beschäftigt ist, zuständige Aufsichtsbehörde zu richten. Sind für verschiedene Unternehmensbereiche der Eisenbahn unterschiedliche Aufsichtsbehörden zuständig, so genügt die Antragstellung bei einer der zuständigen Aufsichtsbehörden. Liegt kein Beschäftigungsverhältnis vor oder soll die Prüfung unabhängig von einem solchen abgelegt werden, ist der Antrag bei der für die Landeseisenbahnaufsicht zuständigen Behörde in dem Land zu stellen, in dem sich der Hauptwohnsitz des Bewerbers befindet.
 
@@ -87,29 +77,25 @@ erfolgreich abgeschlossen hat und
 
 3. Nachweise über seine Tätigkeiten nach § 7 Nr. 2 oder 3.
 
-
-## § 9 – Entscheidung über die Zulassung
+# § 9 – Entscheidung über die Zulassung
 
 (1) Über den Antrag auf Zulassung zur Prüfung entscheidet die zuständige Aufsichtsbehörde. Sie kann Ausnahmen von den Voraussetzungen des § 7 zulassen, wenn im Einzelfall entsprechende Kenntnisse und Fertigkeiten auf andere Art nachgewiesen werden.
 
 (2) Die Entscheidung nach Absatz 1 wird dem Bewerber schriftlich mitgeteilt. In einem Zulassungsbescheid ist anzugeben, vor welchem Prüfungsausschuss die Prüfung abzulegen ist. Eine nach Absatz 1 Satz 2 zugelassene Ausnahme ist gesondert zu begründen. Ein ablehnender Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 10 – Zweck der Prüfung
+# § 10 – Zweck der Prüfung
 
 (1) In der Prüfung ist festzustellen, ob der Prüfling hinreichende Kenntnisse in allen Prüfungsfächern besitzt und damit geeignet ist, als Betriebsleiter in einer Eisenbahn die Gewähr für eine sichere Betriebsführung zu bieten.
 
 (2) Die Prüfung soll zeigen, dass der Prüfling über die erforderlichen Kenntnisse auf dem Gebiet der Eisenbahntechnik und des Eisenbahnbetriebes mit ihren rechtlichen und betriebswirtschaftlichen Bezügen verfügt. Prüfungsaufgaben aus dem Bereich der Betriebsleitertätigkeit soll er rasch und sicher erfassen, mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen.
 
-
-## § 11 – Prüfungstermine
+# § 11 – Prüfungstermine
 
 (1) Prüfungen sollen mindestens einmal im Jahr durchgeführt werden.
 
 (2) Der Vorsitzende des Prüfungsausschusses setzt im Einvernehmen mit den Prüfern die Prüfungstermine und -orte fest und gibt diese mindestens einen Monat vor Prüfungsbeginn den zur Prüfung zugelassenen Bewerbern schriftlich bekannt. Dabei unterrichtet er die Prüflinge auch über den Prüfungsablauf, über die jeweils zur Verfügung stehende Zeit sowie über die während der Prüfung zugelassenen Arbeits- und Hilfsmittel. Diese Arbeits- und Hilfsmittel sind von den Prüflingen zur Prüfung mitzubringen.
 
-
-## § 12 – Gliederung der Prüfung
+# § 12 – Gliederung der Prüfung
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem nachfolgenden mündlichen Teil.
 
@@ -199,8 +185,7 @@ erfolgreich abgeschlossen hat und
 
 (9) In die Prüfung der Fächer Technik der Betriebsanlagen und der Fahrzeuge sowie des Faches Bahnbetrieb sind die fachübergreifenden Gesichtspunkte der Risikoabwägung und Sicherheitsplanung einzubeziehen.
 
-
-## § 13 – Schriftliche Prüfung
+# § 13 – Schriftliche Prüfung
 
 (1) Der Vorsitzende des Prüfungsausschusses bestimmt die Prüfungsaufgaben. Die Aufgaben in den Fächern nach § 12 Abs. 2 sind jeweils innerhalb von zwei Stunden von dem Prüfling unter Aufsicht zu bearbeiten. Für eine fachübergreifende Prüfung nach § 12 Abs. 3 ist eine Bearbeitungszeit von vier Stunden vorzusehen.
 
@@ -212,8 +197,7 @@ erfolgreich abgeschlossen hat und
 
 (5) Sind alle Aufsichtsarbeiten mit „mangelhaft“ oder schlechter bewertet worden, so ist die Prüfung durch den Vorsitzenden des Prüfungsausschusses als nicht bestanden zu erklären. Die Entscheidung ist dem Prüfling durch die zuständige Aufsichtsbehörde mit einer Rechtsbehelfsbelehrung zuzustellen.
 
-
-## § 14 – Mündliche Prüfung
+# § 14 – Mündliche Prüfung
 
 (1) Für die Durchführung der mündlichen Prüfungen richtet der Vorsitzende des Prüfungsausschusses so viele Prüfungskommissionen ein, wie er für die Prüfungsorganisation als zweckmäßig erachtet.
 
@@ -235,37 +219,31 @@ Ein nicht stimmberechtigter Protokollant unterstützt den Prüfungsleiter bei de
 
 (6) Die Prüfungskommission bewertet die Prüfungsleistung in jedem Fachgebiet mit einer Zwischennote (mündliche Fachzwischennote). Bei Stimmengleichheit entscheidet der jeweilige Fachprüfer.
 
-
-## § 15 – Nichtöffentlichkeit
+# § 15 – Nichtöffentlichkeit
 
 Die mündliche Prüfung ist nicht öffentlich. Es können aber beauftragte Vertreter der Aufsichtsbehörden, Mitglieder des Prüfungsausschusses, die nicht der Prüfungskommission angehören, sowie Personen, die sich auf eine Betriebsleiterprüfung vorbereiten, als Zuhörer anwesend sein. An der Beratung und Festlegung der Bewertungen in den mündlichen Prüfungsfächern dürfen nur die Mitglieder der Prüfungskommission sowie der Protokollant teilnehmen. Das Prüfungsergebnis wird den Prüflingen unter Ausschluss der Öffentlichkeit bekannt gegeben.
 
-
-## § 16 – Ausweispflicht und Belehrung
+# § 16 – Ausweispflicht und Belehrung
 
 Die Prüflinge haben sich auf Verlangen des Aufsichtführenden bei der schriftlichen Prüfung und des Prüfungsleiters bei der mündlichen Prüfung auszuweisen. Sie sind vor Beginn eines jeden Teils der Prüfung über die jeweils zur Verfügung stehende Zeit, über die während der Prüfung zugelassenen Arbeits- und Hilfsmittel sowie über die Folgen von Täuschungshandlungen und Ordnungsverstößen zu belehren.
 
-
-## § 17 – Täuschungshandlungen und Ordnungsverstöße
+# § 17 – Täuschungshandlungen und Ordnungsverstöße
 
 Prüflinge, die eine Täuschungshandlung begehen oder versuchen oder den Prüfungsablauf erheblich stören, können von der weiteren Teilnahme an der Prüfung ausgeschlossen werden. Während des schriftlichen Teils der Prüfung kann der Aufsichtführende den Prüfling vorläufig ausschließen. Über den Ausschluss und die Folgen entscheidet die Prüfungskommission nach Anhörung des Prüflings. In schwerwiegenden Fällen, insbesondere bei vorbereiteten Täuschungshandlungen, kann die Prüfung insgesamt für nicht bestanden erklärt werden.
 
-
-## § 18 – Rücktritt und Nichtteilnahme
+# § 18 – Rücktritt und Nichtteilnahme
 
 (1) Der Prüfling kann vor Bekanntgabe der ersten schriftlichen Prüfungsaufgabe von der Prüfung durch schriftliche Erklärung oder durch Erklärung zu Protokoll zurücktreten. In diesem Fall gilt die Prüfung als nicht begonnen; dies gilt auch, wenn der Prüfling zur Prüfung nicht erscheint.
 
 (2) Tritt der Prüfling nach Beginn der Prüfung ohne wichtigen Grund zurück, gilt die Prüfung insgesamt als nicht bestanden. Liegt ein wichtiger Grund vor, können bereits erbrachte, in sich abgeschlossene Prüfungsleistungen anerkannt werden; in diesem Fall ist die Prüfung zum nächstmöglichen Termin fortzusetzen. Über das Vorliegen eines wichtigen Grundes entscheidet der Vorsitzende des Prüfungsausschusses.
 
-
-## § 19 – Bewerten der einzelnen Prüfungsleistungen
+# § 19 – Bewerten der einzelnen Prüfungsleistungen
 
 (1) Die einzelnen schriftlichen Arbeiten und die Leistungen in jedem Fach der mündlichen Prüfung sind nach der Anlage zu bewerten.
 
 (2) Bei der Bewertung der einzelnen Prüfungsleistungen sind neben Kenntnissen auch Form und Ausdrucksweise zu berücksichtigen. § 19: IdF d. Art. 5 Nr. 2 V v. 5.7.2007 I 1305 mWv 14.7.2007
 
-
-## § 20 – Feststellen und Bekanntgeben des Prüfungsergebnisses
+# § 20 – Feststellen und Bekanntgeben des Prüfungsergebnisses
 
 (1) Der Prüfungsleiter stellt auf Grund der Bewertungen der mündlichen und schriftlichen Prüfung die Gesamtbewertung fest.
 
@@ -289,18 +267,15 @@ Der Notenmittelwert wird auf zwei Dezimalstellen hinter dem Komma ohne Auf- und 
 
 (5) Über den Verlauf der Prüfung und die Feststellung des Prüfungsergebnisses ist eine Niederschrift zu fertigen. Sie ist von den Mitgliedern der Prüfungskommission zu unterzeichnen.
 
-
-## § 21 – Prüfungszeugnis
+# § 21 – Prüfungszeugnis
 
 Wer die Prüfung bestanden hat, erhält hierüber ein Zeugnis, das von der zuständigen Aufsichtsbehörde auszustellen und vom Prüfungsleiter zu unterschreiben ist. In dem Zeugnis sind Vorname und Familienname, gegebenenfalls auch der Geburtsname des Prüflings, der Tag seiner Geburt, der Geburtsort sowie der Tag des Bestehens der Prüfung anzugeben.
 
-
-## § 22 – Nicht bestandene Prüfung
+# § 22 – Nicht bestandene Prüfung
 
 Die zuständige Aufsichtsbehörde erteilt dem Prüfling über das Nichtbestehen der Prüfung einen schriftlichen Bescheid. Darin sind die Fächer anzugeben, in denen nicht mindestens ausreichende Leistungen erreicht wurden. Auf die besonderen Bedingungen der Wiederholungsprüfung (§ 23) ist hinzuweisen. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 23 – Wiederholungsprüfung
+# § 23 – Wiederholungsprüfung
 
 (1) Eine nicht bestandene Prüfung darf zweimal wiederholt werden, jedoch frühestens sechs Monate nach Beendigung der vorangegangenen Prüfung.
 
@@ -308,17 +283,14 @@ Die zuständige Aufsichtsbehörde erteilt dem Prüfling über das Nichtbestehen 
 
 (3) Die zweite Wiederholungsprüfung erstreckt sich auf alle Fächer nach § 12 Abs. 2 bis 4. Eine Anrechnung von früheren Prüfungsleistungen ist ausgeschlossen.
 
-
-## § 24 – Prüfungsunterlagen
+# § 24 – Prüfungsunterlagen
 
 (1) Auf Antrag ist dem Prüfling nach Beendigung der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Ablichtungen der schriftlichen Arbeiten und ihrer Bewertung dürfen ihm nur für Widerspruchs- oder verwaltungsgerichtliche Verfahren erteilt werden.
 
 (2) Die Prüfungsunterlagen sind zehn Jahre nach Bekanntgabe des Prüfungsergebnisses aufzubewahren.
 
+# § 25 – (weggefallen)
 
-## § 25 – (weggefallen)
-
-
-## Anlage – (zu § 19 Absatz 1)
+# Anlage – (zu § 19 Absatz 1)
 
 Andere als die in Spalte 2 aufgeführten Zwischennoten dürfen nicht verwendet werden.

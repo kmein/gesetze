@@ -1,10 +1,7 @@
-# [SKPersStruktAnpG] Gesetz zur Anpassung der personellen Struktur der Streitkräfte  (Streitkräftepersonalstruktur-Anpassungsgesetz - SKPersStruktAnpG)
-
-Ausfertigungsdatum: 21.07.2012
-
+% Gesetz zur Anpassung der personellen Struktur der Streitkräfte  (Streitkräftepersonalstruktur-Anpassungsgesetz - SKPersStruktAnpG)
+% Ausfertigungsdatum: 21.07.2012
  
-
-## § 1 – Beurlaubung
+# § 1 – Beurlaubung
 
 (1) Bis zum 31. Dezember 2017 können zur Verringerung der Zahl der Soldatinnen und Soldaten Berufssoldatinnen und Berufssoldaten auf Antrag längstens für drei Jahre unter Belassung der Geld- und Sachbezüge beurlaubt werden, um
 
@@ -28,8 +25,7 @@ Auf Antrag ist die Beurlaubung zu widerrufen, wenn seine Fortsetzung der Berufss
 
 (6) Bei einer Nachzahlung von freiwilligen Beiträgen nach § 282 Absatz 3 des Sechsten Buches Sozialgesetzbuch übernimmt der Bund die freiwilligen Beiträge für so viele Monate, wie zur Erfüllung der allgemeinen Wartezeit nach § 50 Absatz 1 des Sechsten Buches Sozialgesetzbuch noch erforderlich sind. Für die Beitragsbemessungsgrundlage gilt Absatz 5 Satz 3 entsprechend.
 
-
-## § 2 – Versetzung in den Ruhestand vor Erreichen der Altersgrenze
+# § 2 – Versetzung in den Ruhestand vor Erreichen der Altersgrenze
 
 (1) Bis zum 31. Dezember 2017 können bis zu 2 170 Berufssoldatinnen und Berufssoldaten mit ihrer Zustimmung in den Ruhestand versetzt werden, wenn
 
@@ -49,8 +45,7 @@ stellt das Bundesministerium der Verteidigung nach dem 30. September 2014 einen 
 
 (4) Im Ruhestand darf die Dienstgradbezeichnung mit dem Zusatz „außer Dienst“ oder „a. D.“ geführt werden. Während eines erneuten Wehrdienstverhältnisses entfällt dieser Zusatz.
 
-
-## § 3 – Einmalzahlung
+# § 3 – Einmalzahlung
 
 (1) Berufssoldatinnen und Berufssoldaten, die bis zum 31. Dezember 2017 nach § 1 Absatz 2 Satz 1 entlassen sind, erhalten eine nicht ruhegehaltfähige Einmalzahlung, wenn die Summe aus dem monatlichen Grundgehalt, den das Grundgehalt ergänzenden Zulagen, dem Familienzuschlag, den Stellen- und Ausgleichszulagen sowie der auf diese Beträge entfallenden Sonderzahlung bei Beginn der neuen Verwendung geringer ist als in der bisherigen Verwendung zum Zeitpunkt der Entlassung. Satz 1 gilt entsprechend bei einer Einstellung als Arbeitnehmerin oder Arbeitnehmer bei einem öffentlich-rechtlichen Arbeitgeber.Die Sätze 1 und 2 gelten nicht, wenn in dem neuen Dienst- oder Arbeitsverhältnis aus dem gleichen Anlass eine Ausgleichszahlung nach den §§ 13, 19a oder 19b des Bundesbesoldungsgesetzes oder vergleichbarer landesrechtlicher oder tarifvertraglicher Regelungen gewährt wird.
 
@@ -64,13 +59,11 @@ stellt das Bundesministerium der Verteidigung nach dem 30. September 2014 einen 
 
 (3) Anrechnungsfähig sind die Dienstzeiten, die beim abgebenden Dienstherrn und bei früheren Dienstherren zurückgelegt worden sind, soweit sie ruhegehaltfähig sind. Anrechnungsfähig sind auch Dienstzeiten nach § 64 Absatz 1 Satz 1 Nummer 4 des Soldatenversorgungsgesetzes, die die Soldatin oder der Soldat vor dem 3. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zurückgelegt hat. Die gesamte anrechnungsfähige Dienstzeit ist in Jahren und Tagen zu berechnen. Zu berücksichtigen sind nur volle Dienstjahre, wobei ein verbleibender Rest von mehr als 182 Tagen als volles Jahr gilt.
 
-
-## § 4 – Kosten der Teilnahme an Qualifizierungsmaßnahmen
+# § 4 – Kosten der Teilnahme an Qualifizierungsmaßnahmen
 
 Die notwendigen Kosten der Teilnahme an Qualifizierungsmaßnahmen für den Wechsel in den öffentlichen Dienst im Sinne des § 1 werden vom Bund bis zum 31. Dezember 2017 übernommen.
 
-
-## § 5 – Anwendung des Soldatenversorgungsgesetzes
+# § 5 – Anwendung des Soldatenversorgungsgesetzes
 
 Die Versorgung
 
@@ -84,8 +77,7 @@ Die Versorgung
 
 sowie ihrer Hinterbliebenen bestimmt sich nach dem Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
 
-
-## § 6 – Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 1
+# § 6 – Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 1
 
 (1) Eine Berufssoldatin oder ein Berufssoldat, die oder der nach § 2 Absatz 1 Satz 1 in den Ruhestand versetzt worden ist, erhält neben dem Ruhegehalt einen einmaligen Ausgleich in Höhe von 10 000 Euro für jedes Jahr, um das die Versetzung in den Ruhestand vor dem Zeitpunkt liegt, zu dem sie oder er ohne diese Regelung frühestens nach § 44 Absatz 2 Satz 1 des Soldatengesetzes in den Ruhestand hätte versetzt werden können. Wenn für die Berufssoldatin oder den Berufssoldaten nach § 96 Absatz 2 Nummer 1 des Soldatengesetzes keine besondere Altersgrenze festgesetzt ist, beträgt der einmalige Ausgleich 10 000 Euro für jedes Jahr, um das die Versetzung in den Ruhestand vor dem Zeitpunkt liegt, zu dem die Berufssoldatin oder der Berufssoldat ohne die Regelung des § 2 Absatz 1 Satz 1 nach § 44 Absatz 1 Satz 1 in Verbindung mit § 45 Absatz 1 des Soldatengesetzes in den Ruhestand getreten wäre. Bei der Anwendung der Sätze 1 und 2 wird für restliche Kalendermonate jeweils ein Zwölftel von 10 000 Euro gewährt.
 
@@ -101,8 +93,7 @@ b) Nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne de
 
 3. § 53 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes berücksichtigt wird.
 
-
-## § 7 – Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 2
+# § 7 – Versorgung bei Versetzung in den Ruhestand nach § 2 Absatz 1 Satz 2
 
 (1) Im Fall des § 2 Absatz 1 Satz 2 erhöht sich die ruhegehaltfähige Dienstzeit um die Zeit von der Versetzung in den Ruhestand bis zu dem Zeitpunkt, zu dem die Berufssoldatin oder der Berufssoldat ohne diese Regelung frühestens nach § 44 Absatz 2 Satz 1 des Soldatengesetzes wegen Überschreitens der für sie oder ihn geltenden besonderen Altersgrenze in den Ruhestand hätte versetzt werden können. Wenn für die Berufssoldatin oder den Berufssoldaten nach § 96 Absatz 2 Nummer 1 des Soldatengesetzes keine besondere Altersgrenze festgesetzt ist, erhöht sich die ruhegehaltfähige Dienstzeit im Fall des § 2 Absatz 1 Satz 2 um die Zeit von der Versetzung in den Ruhestand bis zu dem Zeitpunkt, zu dem die Berufssoldatin oder der Berufssoldat ohne diese Regelung nach § 44 Absatz 1 Satz 1 des Soldatengesetzes wegen Erreichens der allgemeinen Altersgrenze in den Ruhestand getreten wäre. Die Sätze 1 und 2 gelten nicht, soweit diese Zeiten bereits nach anderen Vorschriften als ruhegehaltfähige Dienstzeit berücksichtigt werden oder bei Verbleiben im Dienst wegen Beurlaubung, des Ruhens der Rechte und Pflichten oder aus sonstigen Gründen nicht als ruhegehaltfähige Dienstzeit berücksichtigt worden wären.
 
@@ -120,22 +111,18 @@ b) Nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne de
 
 4. § 53 des Soldatenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass nur Erwerbseinkommen aus einer Verwendung im öffentlichen Dienst im Sinne des § 53 Absatz 6 des Soldatenversorgungsgesetzes berücksichtigt wird.
 
-
-## § 8 – Einmaliger Ausgleich bei Umwandlung des Dienstverhältnisses
+# § 8 – Einmaliger Ausgleich bei Umwandlung des Dienstverhältnisses
 
 Berufssoldatinnen und Berufssoldaten, deren Dienstverhältnis bis zum 31. Dezember 2017 nach § 45a des Soldatengesetzes umgewandelt wird, erhalten bei Beendigung des Dienstverhältnisses als Soldatin auf Zeit oder als Soldat auf Zeit einen einmaligen Ausgleich in Höhe von 10 000 Euro für jedes vollendete Jahr der Wehrdienstzeit, höchstens für 20 Jahre Wehrdienstzeit. Die nach der Umwandlung verbleibende Wehrdienstzeit als Soldatin auf Zeit oder als Soldat auf Zeit darf die Zeit nicht überschreiten, die ihr oder ihm nach § 5 Absatz 5 des Soldatenversorgungsgesetzes in der bis zum Inkrafttreten dieses Gesetzes geltenden Fassung für die Freistellung vom militärischen Dienst zusteht.
 
-
-## § 9 – Freistellung vom militärischen Dienst
+# § 9 – Freistellung vom militärischen Dienst
 
 Für Berufsoldatinnen und Berufssoldaten, die wegen Überschreitens der für Offiziere in Verwendungen als Flugzeugführer oder Waffensystemoffizier in strahlgetriebenen Kampfflugzeugen festgesetzten besonderen Altersgrenze (§ 45 Absatz 2 Nummer 6 des Soldatengesetzes) bis zum 31. Dezember 2017 in den Ruhestand versetzt werden sollen, gilt § 39 des Soldatenversorgungsgesetzes mit der Maßgabe, dass auf Antrag mit der Durchführung von Maßnahmen der schulischen und beruflichen Bildung bis zu drei Jahren vor dem Dienstzeitende unter Freistellung vom militärischen Dienst begonnen werden kann, wenn dies zur Verringerung der Zahl der Soldatinnen und Soldaten erforderlich ist.
 
-
-## § 10 – Berufsförderung und Dienstzeitversorgung bei Verkürzung der Dienstzeit
+# § 10 – Berufsförderung und Dienstzeitversorgung bei Verkürzung der Dienstzeit
 
 Die aus den §§ 5, 11 und 12 des Soldatenversorgungsgesetzes sich ergebenden Ansprüche der Soldatinnen auf Zeit und Soldaten auf Zeit, deren Anträgen auf Verkürzung der Dienstzeit nach § 40 Absatz 7 des Soldatengesetzes bis zum 31. Dezember 2017 stattgegeben wird, bestimmen sich nach der in der Verpflichtungserklärung angegebenen Verpflichtungszeit, wenn das Dienstverhältnis vor dem Inkrafttreten dieses Gesetzes begonnen hat.
 
-
-## § 11 – Evaluation
+# § 11 – Evaluation
 
 Das Bundesministerium der Verteidigung prüft im Einvernehmen mit dem Bundesministerium des Innern die Regelungen dieses Gesetzes bis zum 30. September 2014 insbesondere mit dem Ziel der Bewertung der haushalterischen Tragfähigkeit und legt hierzu dem Kabinett bis zum 31. Dezember 2014 einen Bericht vor.

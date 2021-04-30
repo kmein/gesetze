@@ -1,17 +1,13 @@
-# [OZG] Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen  (Onlinezugangsgesetz - OZG)
-
-Ausfertigungsdatum: 14.08.2017
-
+% Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen  (Onlinezugangsgesetz - OZG)
+% Ausfertigungsdatum: 14.08.2017
  
-
-## § 1 – Portalverbund für digitale Verwaltungsleistungen
+# § 1 – Portalverbund für digitale Verwaltungsleistungen
 
 (1) Bund und Länder sind verpflichtet, bis spätestens zum Ablauf des fünften auf die Verkündung dieses Gesetzes folgenden Kalenderjahres ihre Verwaltungsleistungen auch elektronisch über Verwaltungsportale anzubieten.
 
 (2) Bund und Länder sind verpflichtet, ihre Verwaltungsportale miteinander zu einem Portalverbund zu verknüpfen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Der „Portalverbund“ ist eine technische Verknüpfung der Verwaltungsportale von Bund und Ländern, über den der Zugang zu Verwaltungsleistungen auf unterschiedlichen Portalen angeboten wird.
 
@@ -35,15 +31,13 @@ Ausfertigungsdatum: 14.08.2017
 
 (7) Ein „Postfach“ ist eine IT-Komponente, über die eine Behörde Nutzern mit deren Zustimmung elektronische Dokumente und Informationen bereitstellen kann. Das Postfach ist Bestandteil eines Nutzerkontos. Die Nutzung eines Postfachs ist für die Nutzer freiwillig.
 
-
-## § 3 – Ziel des Portalverbundes; Nutzerkonten
+# § 3 – Ziel des Portalverbundes; Nutzerkonten
 
 (1) Der Portalverbund stellt sicher, dass Nutzer über alle Verwaltungsportale von Bund und Ländern einen barriere- und medienbruchfreien Zugang zu elektronischen Verwaltungsleistungen dieser Verwaltungsträger erhalten.
 
 (2) Bund und Länder stellen im Portalverbund Nutzerkonten bereit, über die sich Nutzer für die im Portalverbund verfügbaren elektronischen Verwaltungsleistungen von Bund und Ländern einheitlich identifizieren und authentifizieren können. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche staatlichen Stellen im Portalverbund ein einheitliches Organisationskonto bereitstellen. Über das Organisationskonto können sich Nutzer im Sinne des § 2 Absatz 5 Satz 4 für die im Portalverbund verfügbaren elektronischen Verwaltungsleistungen von Bund und Ländern einheitlich über ein nach § 87a Absatz 6 der Abgabenordnung in der Steuerverwaltung eingesetztes sicheres Verfahren identifizieren und authentisieren. Der Einsatz von Identifizierungs- und Authentifizierungsmitteln für natürliche Personen ist dadurch nicht ausgeschlossen. Die besonderen Anforderungen einzelner Verwaltungsleistungen an die Identifizierung und Authentifizierung ihrer Nutzer sind zu berücksichtigen.
 
-
-## § 4 – Elektronische Abwicklung von Verwaltungsverfahren
+# § 4 – Elektronische Abwicklung von Verwaltungsverfahren
 
 (1) Für die elektronische Abwicklung von Verwaltungsverfahren, die der Durchführung unmittelbar geltender Rechtsakte der Europäischen Union oder der Ausführung von Bundesgesetzen dienen, wird die Bundesregierung ermächtigt, im Benehmen mit dem IT-Planungsrat durch Rechtsverordnung ohne Zustimmung des Bundesrates die Verwendung bestimmter IT-Komponenten nach § 2 Absatz 6 verbindlich vorzugeben. In der Rechtsverordnung kann auch die Verwendung von IT-Komponenten geregelt werden, die das jeweils zuständige Bundesministerium bereitstellt. Die Länder können von den in der Rechtsverordnung getroffenen Regelungen durch Landesrecht abweichen, soweit sie für den Betrieb im Portalverbund geeignete IT-Komponenten bereitstellen.
 
@@ -51,13 +45,11 @@ Ausfertigungsdatum: 14.08.2017
 
 (+++ § 4 Abs. 2: zur Anwendung vgl. § 5 und § 6 Abs. 4 +++)
 
-
-## § 5 – IT-Sicherheit
+# § 5 – IT-Sicherheit
 
 Für die im Portalverbund und für die zur Anbindung an den Portalverbund genutzten IT-Komponenten werden die zur Gewährleistung der IT-Sicherheit erforderlichen Standards durch Rechtsverordnung des Bundesministeriums des Innern, für Bau und Heimat ohne Zustimmung des Bundesrates festgelegt. Die Einhaltung der Standards der IT-Sicherheit ist für alle Stellen verbindlich, die entsprechende IT-Komponenten nutzen. Von den in der Rechtsverordnung getroffenen Regelungen kann durch Landesrecht nicht abgewichen werden. § 4 Absatz 2 gilt entsprechend.
 
-
-## § 6 – Kommunikationsstandards
+# § 6 – Kommunikationsstandards
 
 (1) Für die Kommunikation zwischen den im Portalverbund genutzten informationstechnischen Systemen legt das Bundesministerium des Innern, für Bau und Heimat im Benehmen mit dem IT-Planungsrat durch Rechtsverordnung ohne Zustimmung des Bundesrates die technischen Kommunikationsstandards fest.
 
@@ -67,8 +59,7 @@ Für die im Portalverbund und für die zur Anbindung an den Portalverbund genutz
 
 (4) Die Einhaltung der nach den Absätzen 1 bis 3 vorgegebenen Standards ist für alle Stellen verbindlich, deren Verwaltungsleistungen über den Portalverbund angeboten werden. Von den in den Rechtsverordnungen nach den Absätzen 1 bis 3 getroffenen Regelungen kann durch Landesrecht nicht abgewichen werden. § 4 Absatz 2 gilt entsprechend.
 
-
-## § 7 – Für die Nutzerkonten zuständige Stelle
+# § 7 – Für die Nutzerkonten zuständige Stelle
 
 (1) Bund und Länder bestimmen jeweils eine öffentliche Stelle, die natürlichen Personen die Einrichtung eines Nutzerkontos anbietet.
 
@@ -76,8 +67,7 @@ Für die im Portalverbund und für die zur Anbindung an den Portalverbund genutz
 
 (3) Vorbehaltlich des § 3 Absatz 2 Satz 2 sind das Nutzerkonto, dessen Verwendung zur Identifizierung für elektronische Verwaltungsleistungen und die gegebenenfalls verbundene Registrierung von allen öffentlichen Stellen anzuerkennen, die Verwaltungsleistungen über die Verwaltungsportale im Sinne dieses Gesetzes anbieten.
 
-
-## § 8 – Rechtsgrundlagen der Datenverarbeitung
+# § 8 – Rechtsgrundlagen der Datenverarbeitung
 
 (1) Der Nachweis der Identität des Nutzers eines Nutzerkontos kann auf unterschiedlichen Vertrauensniveaus erfolgen und muss die Verwendung des für das jeweilige Verwaltungsverfahren erforderlichen Vertrauensniveaus ermöglichen. Zur Feststellung der Identität des Nutzers eines Nutzerkontos dürfen bei Registrierung und Nutzung folgende Daten verarbeitet werden:
 
@@ -159,17 +149,14 @@ Daten im Sinne des Satzes 2 Nummern 1 und 2 dürfen mit Einwilligung des Nutzers
 
 (8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche elektronischen Identifizierungsmittel im Rahmen der Interoperabilität der Nutzerkonten von Bund und Ländern zum Nachweis der Identität eingesetzt werden können, die Details eines Anerkennungsverfahrens festzulegen und die technischen Rahmenbedingungen zur Sicherstellung der Interoperabilität der Nutzerkonten zu bestimmen.
 
-
-## § 9 – Bekanntgabe des Verwaltungsaktes
+# § 9 – Bekanntgabe des Verwaltungsaktes
 
 (1) Mit Einwilligung des Nutzers kann ein elektronischer Verwaltungsakt dadurch bekannt gegeben werden, dass er vom Nutzer oder seinem Bevollmächtigten über öffentlich zugängliche Netze von dessen Postfach nach § 2 Absatz 7, das Bestandteil eines Nutzerkontos nach § 2 Absatz 5 ist, abgerufen wird. Die Behörde hat zu gewährleisten, dass der Abruf nur nach Authentifizierung der berechtigten Person möglich ist und dass der elektronische Verwaltungsakt von dieser gespeichert werden kann. Der Verwaltungsakt gilt am dritten Tag nach der Bereitstellung zum Abruf als bekannt gegeben. Im Zweifel hat die Behörde für den Eintritt der Fiktionswirkung die Bereitstellung und den Zeitpunkt der Bereitstellung nachzuweisen. Der Nutzer oder sein Bevollmächtigter wird spätestens am Tag der Bereitstellung zum Abruf über die zu diesem Zweck von ihm angegebene Adresse über die Möglichkeit des Abrufs benachrichtigt. Erfolgt der Abruf vor einer erneuten Bekanntgabe des Verwaltungsaktes, bleibt der Tag des ersten Abrufs für den Zugang maßgeblich.
 
 (2) Die Bundesregierung berichtet dem Deutschen Bundestag und dem Bundesrat bis spätestens 10. Dezember 2025 über die Erfahrungen in der Praxis mit der Bekanntgabe des Verwaltungsaktes über das Postfach.
 
+# § 10 – (bedingt zukünftig Inkraft)
 
-## § 10 – (bedingt zukünftig Inkraft)
-
-
-## § 11 – Übergangsregelung zum Einsatz des Datencockpits
+# § 11 – Übergangsregelung zum Einsatz des Datencockpits
 
 Bis zum Inkrafttreten des § 10 darf ein Datencockpit mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat in Pilotverfahren angewendet werden, in denen der Nutzer einen Antrag auf eine oder mehrere Verwaltungsleistungen stellt und dabei einwilligt, dass erforderliche Nachweise durch einen automatisierten Datenaustausch beigebracht werden.

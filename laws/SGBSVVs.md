@@ -1,26 +1,19 @@
-# [SGBSVVs] Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -
-
-Ausfertigungsdatum: 23.12.1976
-
+% Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -
+% Ausfertigungsdatum: 23.12.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
+# §§ 1 bis 13 – (weggefallen)
 
-## §§ 1 bis 13 – (weggefallen)
+# §§ 14 bis 19 – (weggefallen)
 
-
-## §§ 14 bis 19 – (weggefallen)
-
-
-## § 20
+# § 20
 
 (weggefallen)
 
-
-## § 21 – Inkrafttreten
+# § 21 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am ersten Tag des siebenten auf seine Verkündung folgenden Kalendermonats in Kraft.
 
@@ -42,8 +35,7 @@ f) in Artikel II § 5 Nr. 1 der § 68 Abs. 1.
 
 Art. II § 21 Abs. 3 Buchst. a Kursivdruck: Gegenstandslos
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III  (BGBl. II 1990, 889, 1047)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III  (BGBl. II 1990, 889, 1047)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

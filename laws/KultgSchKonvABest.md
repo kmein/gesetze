@@ -1,5 +1,3 @@
-# [KultgSchKonvABest] Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
-
-Ausfertigungsdatum: 14.05.1954
-
+% Ausführungsbestimmungen zur Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten
+% Ausfertigungsdatum: 14.05.1954
  

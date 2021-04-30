@@ -1,15 +1,11 @@
-# [HBauStatG] Gesetz über die Statistik der Bautätigkeit im Hochbau und die Fortschreibung des Wohnungsbestandes  (Hochbaustatistikgesetz - HBauStatG)
-
-Ausfertigungsdatum: 05.05.1998
-
+% Gesetz über die Statistik der Bautätigkeit im Hochbau und die Fortschreibung des Wohnungsbestandes  (Hochbaustatistikgesetz - HBauStatG)
+% Ausfertigungsdatum: 05.05.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anordnung als Bundesstatistik
+# § 1 – Anordnung als Bundesstatistik
 
 (1) Zur Feststellung des Umfangs, der Struktur und der Entwicklung der Bautätigkeit im Hochbau und zur Fortschreibung des Bestandes an Wohngebäuden und Wohnungen werden laufend Erhebungen über die Bautätigkeit im Hochbau (Bautätigkeitsstatistik) als Bundesstatistik durchgeführt.
 
@@ -23,15 +19,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 4. der Bauabgänge.
 
-
-## § 2 – Erhebungseinheiten
+# § 2 – Erhebungseinheiten
 
 (1) Die Erhebungen nach § 1 Abs. 2 Nr. 1 bis 3 erfassen alle genehmigungs- oder zustimmungsbedürftigen sowie landesrechtlichen Verfahrensvorschriften unterliegenden Baumaßnahmen, bei denen Wohnraum oder sonstiger Nutzraum geschaffen oder verändert wird, sowie Hochbauten, deren Genehmigungsverfahren durch besondere Bundes- oder Landesgesetze geregelt sind. Nicht einbezogen werden Baumaßnahmen für ausschließlich sonstigen Nutzraum bis zu 350 Kubikmeter Rauminhalt oder bis zu 18.000 Euro veranschlagte Kosten.
 
 (2) Die Erhebungen nach § 1 Abs. 2 Nr. 4 erfassen alle Gebäude und Gebäudeteile, die durch ordnungsbehördliche Maßnahmen, Schadensfälle oder Abbruch der Nutzung entzogen werden oder deren Nutzung zwischen Wohn- und Nichtwohnzwecken geändert wird.
 
-
-## § 3 – Erhebungsmerkmale
+# § 3 – Erhebungsmerkmale
 
 (1) Erhebungsmerkmale der Erhebung nach § 1 Abs. 2 Nr. 1 sind
 
@@ -79,8 +73,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 6. Größe des Abgangs nach Wohnfläche und sonstiger Nutzfläche, Zahl der Wohneinheiten nach Zahl der Räume.
 
-
-## § 4 – Hilfsmerkmale
+# § 4 – Hilfsmerkmale
 
 Hilfsmerkmale sind
 
@@ -94,30 +87,25 @@ Hilfsmerkmale sind
 
 5. bei Wiedererrichtung eines Gebäudes zusätzlich Abgangsjahr des vorherigen Gebäudes und Meldung zur Erhebung nach § 1 Abs. 2 Nr. 4.
 
-
-## § 5 – Berichtszeitraum, Berichtszeitpunkt
+# § 5 – Berichtszeitraum, Berichtszeitpunkt
 
 Die Erhebungen nach § 1 Abs. 2 Nr. 1 und 4 werden monatlich für den abgelaufenen Kalendermonat, die Erhebung nach § 1 Abs. 2 Nr. 2 wird jährlich für das abgelaufene Kalenderjahr, die Erhebung nach § 1 Abs. 2 Nr. 3 wird jährlich nach dem Stand vom 31. Dezember durchgeführt.
 
-
-## § 6 – Auskunftspflicht
+# § 6 – Auskunftspflicht
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht. Die Auskunftserteilung zu den Angaben nach § 4 Nummer 4 ist freiwillig.
 
 (2) Auskunftspflichtig sind die Bauaufsichtsbehörden sowie für die Angaben nach § 3 Abs. 1 bis 3 auch die Bauherren und die mit der Baubetreuung Beauftragten, für die Angaben nach § 3 Abs. 3 auch die Gemeinden und Gemeindeverbände, für die Angaben nach § 3 Abs. 4 auch die Eigentümer, Gemeinden und Gemeindeverbände. Die Landesregierungen werden ermächtigt, Näheres durch Rechtsverordnung zu regeln.
 
-
-## § 7 – Anschriftenübermittlung
+# § 7 – Anschriftenübermittlung
 
 Für die Durchführung der Erhebungen der Baumaßnahmen, die nicht genehmigungs- oder zustimmungspflichtig sind, aber landesrechtlichen Verfahrensvorschriften unterliegen, nach § 1 Abs. 2 Nr. 1 bis 3 übermitteln die Gemeinden oder Bauaufsichtsbehörden den statistischen Ämtern der Länder Name und Anschrift des Bauherrn sowie die Bezeichnung des Bauvorhabens. Die Landesregierungen werden ermächtigt, Näheres durch Rechtsverordnung zu regeln.
 
-
-## § 8 – Fortschreibung des Wohngebäude- und Wohnungsbestandes
+# § 8 – Fortschreibung des Wohngebäude- und Wohnungsbestandes
 
 Für Landkreise, für kreisangehörige Gemeinden und für kreisfreie Städte ist zum Ende des Kalenderjahres von den statistischen Ämtern der Länder mit den Ergebnissen der Bautätigkeitsstatistik der Bestand an Wohngebäuden, der Bestand an Wohnungen in Wohn- und Nichtwohngebäuden nach Zahl der Räume und der Bestand an Räumen und Wohnfläche fortzuschreiben, der in der jeweils letzten allgemeinen Gebäude- und Wohnungszählung festgestellt worden ist.
 
-
-## § 9 – Verwendung von Merkmalen
+# § 9 – Verwendung von Merkmalen
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
@@ -127,7 +115,6 @@ Für Landkreise, für kreisangehörige Gemeinden und für kreisfreie Städte ist
 
 (4) Die Erhebungsmerkmale nach § 3 Abs. 1 Nr. 3 bis 8 und Abs. 2 dürfen zusammen mit den Hilfsmerkmalen Name und Anschrift des Bauherrn sowie Straße und Hausnummer des Baugrundstücks für die Auswahl von zu Befragenden für die Statistik der Mieten nach § 6 Abs. 1 Nr. 1 des Gesetzes über die Preisstatistik verwendet werden. Die Erhebungsmerkmale nach § 3 Abs. 1 Nr. 2 bis 8 sowie Abs. 2 dürfen zusammen mit den Hilfsmerkmalen Name und Anschrift des Bauherrn für die Auswahl geeigneter zu Befragender für die Statistik der Baupreise nach § 4 Abs. 1 des Gesetzes über die Preisstatistik verwendet werden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Das Gesetz tritt am 1. Januar 1999 in Kraft.

@@ -1,15 +1,11 @@
-# [HfzHvzVStG] Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
-
-Ausfertigungsdatum: 24.06.1991
-
+% Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer
+% Ausfertigungsdatum: 24.06.1991
  
-
-## § 1 – Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens
+# § 1 – Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens
 
 Abweichend von § 21 Abs. 1 des Bewertungsgesetzes findet für die wirtschaftlichen Einheiten des Betriebsvermögens die nächste Hauptfeststellung der Einheitswerte auf den 1. Januar 1993 statt.
 
-
-## § 2 – Verlängerung des Hauptveranlagungszeitraums für die Vermögensteuer
+# § 2 – Verlängerung des Hauptveranlagungszeitraums für die Vermögensteuer
 
 (1) Abweichend von § 15 Abs. 1 Satz 1 des Vermögensteuergesetzes findet die nächste Hauptveranlagung der Vermögensteuer auf den 1. Januar 1993 statt.
 

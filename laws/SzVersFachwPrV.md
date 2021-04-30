@@ -1,15 +1,11 @@
-# [SzVersFachwPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Sozialversicherungsfachwirt – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung und Geprüfte Sozialversicherungsfachwirtin – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung
-
-Ausfertigungsdatum: 13.02.2013
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Sozialversicherungsfachwirt – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung und Geprüfte Sozialversicherungsfachwirtin – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung
+% Ausfertigungsdatum: 13.02.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum „Geprüften Sozialversicherungsfachwirt – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung“ und zur „Geprüften Sozialversicherungsfachwirtin – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung“ nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -37,8 +33,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Sozialversicherungsfachwirt – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung“ oder „Geprüfte Sozialversicherungsfachwirtin – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -54,8 +49,7 @@ nachweist.
 
 (3) Abweichend von den in Absatz 1 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in folgende Prüfungsteile:
 
@@ -119,8 +113,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Inhalt der Prüfung
+# § 4 – Inhalt der Prüfung
 
 (1) Im Handlungsbereich „Versicherungsverhältnisse und Beitragszahlungen nach dem Sozialgesetzbuch“ soll die Fähigkeit nachgewiesen werden, Anfragen von Versicherten und Arbeitgebern klären und Beratungen hinsichtlich möglicher Versicherungsverhältnisse durchführen zu können. Es sollen Begründung und Beendigung von Versicherungs- und Beitragsverhältnissen erläutert und entsprechende Sachverhalte bearbeitet werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -242,15 +235,13 @@ nachweist.
 
 3. Ausüben personalwirtschaftlicher Kontrolle und Steuerung in der eigenen Arbeitseinheit.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder Absatz 5 Satz 2 oder § 7 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -270,8 +261,7 @@ Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung des Prüfungst
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen schriftlichen Prüfungsleistungen und in der zusammengefassten Bewertung des Prüfungsteils „Personalaufgaben“ jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -297,8 +287,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -312,8 +301,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Jede nicht bestandene Prüfungsleistung kann zweimal wiederholt werden.
 
@@ -323,22 +311,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 Wer den Prüfungsteil „Personalaufgaben“ bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zusatzqualifikation
+# § 11 – Zusatzqualifikation
 
 Die zu prüfende Person kann nach dem Erwerb des Abschlusses „Geprüfter Sozialversicherungsfachwirt – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung“ oder „Geprüfte Sozialversicherungsfachwirtin – Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung“ beantragen, die Prüfung in dem nicht geprüften Wahlhandlungsbereich nach § 3 Absatz 3 abzulegen. Die Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht worden sind. Über das Ergebnis dieser weiteren Prüfung ist ein Zeugnis entsprechend der Anlage 2 auszustellen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zur Sozialversicherungsfachwirtin und zum Sozialversicherungsfachwirt in der Fachrichtung gesetzliche Renten- und knappschaftliche Sozialversicherung können bis zum 31. Dezember 2016 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2015 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -346,22 +331,19 @@ Die zu prüfende Person kann nach dem Erwerb des Abschlusses „Geprüfter Sozia
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. März 2013 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2373 - 2374)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2374 - 2375)
 

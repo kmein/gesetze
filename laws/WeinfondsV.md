@@ -1,10 +1,7 @@
-# [WeinfondsV] Verordnung über die Erhebung der Abgabe für den Deutschen Weinfonds  (Weinfonds-Verordnung - WeinfondsV)
-
-Ausfertigungsdatum: 30.05.2008
-
+% Verordnung über die Erhebung der Abgabe für den Deutschen Weinfonds  (Weinfonds-Verordnung - WeinfondsV)
+% Ausfertigungsdatum: 30.05.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 44 Abs. 2 Satz 2 in Verbindung mit Satz 3 des Weingesetzes in der Fassung
 –  
 des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der zuletzt durch Artikel 1 des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156, 340) geändert worden ist:
 
-
-## § 1 – Erhebung der Abgabe(zu § 44 Abs. 2 des Weingesetzes)
+# § 1 – Erhebung der Abgabe(zu § 44 Abs. 2 des Weingesetzes)
 
 (1) Die Abgabeschuld für die Abgabe nach § 43 Abs. 1 Satz 1 Nr. 2 und Satz 2 des Weingesetzes (Abgabe) entsteht vorbehaltlich des Absatzes 6 Satz 1 mit Ablauf des Kalendervierteljahres, in dem die abgefüllten Erzeugnisse erstmals an andere oder die nicht abgefüllten Erzeugnisse erstmals ins Ausland an andere abgegeben werden. Das Datum der vom Abgabeschuldner ausgestellten Rechnung gilt als Zeitpunkt der erstmaligen Abgabe des Erzeugnisses. Bei der Berechnung der Abgabe ist von der Summe der Lieferungen in einem Kalendervierteljahr auszugehen.
 
@@ -35,18 +31,15 @@ des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Beka
 
 (9) Die Abgabeschuld verjährt am Ende des fünften Jahres nach Ablauf des Jahres, in dem die Zahlung fällig geworden ist.
 
-
-## § 2 – Sammlung der Belege und Aufbewahrungsfrist(zu § 44 Abs. 2 des Weingesetzes)
+# § 2 – Sammlung der Belege und Aufbewahrungsfrist(zu § 44 Abs. 2 des Weingesetzes)
 
 Der Abgabeschuldner ist verpflichtet, die Verkaufs- und Abgabebelege vollständig zu sammeln und bis zum Ende des fünften Jahres nach Ablauf des Jahres aufzubewahren, in dem die Zahlung fällig geworden ist.
 
-
-## § 3 – Mitteilungspflicht(zu § 44 Abs. 2 des Weingesetzes)
+# § 3 – Mitteilungspflicht(zu § 44 Abs. 2 des Weingesetzes)
 
 Der Abgabeschuldner ist verpflichtet, dem Deutschen Weinfonds auf Verlangen mitzuteilen, in welcher Menge er die in § 43 Abs. 1 Satz 1 Nr. 2 des Weingesetzes genannten Erzeugnisse abgegeben hat, und insoweit seine Bücher und Geschäftspapiere zur Einsicht vorzulegen.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -56,17 +49,14 @@ Ordnungswidrig im Sinne des § 50 Abs. 2 Nr. 4 des Weingesetzes handelt, wer vor
 
 3. entgegen § 3 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht oder Bücher oder Geschäftspapiere nicht oder nicht rechtzeitig zur Einsicht vorlegt.
 
-
-## § 5 – Zuständigkeiten
+# § 5 – Zuständigkeiten
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 4 wird auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
-
-## § 6 – Aufhebung von Rechtsvorschriften
+# § 6 – Aufhebung von Rechtsvorschriften
 
 Die Weinfonds-Verordnung vom 9. Mai 1995 (BGBl. I S. 630, 666), geändert durch Artikel 2 des Gesetzes vom 25. Juni 2001 (BGBl. I S. 1215), wird aufgehoben. Auf Abgabeschulden, die bis zum 30. März 2008 entstanden sind, ist die in Satz 1 genannte Verordnung weiter anzuwenden.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

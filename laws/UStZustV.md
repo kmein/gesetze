@@ -1,10 +1,7 @@
-# [UStZustV] Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Ausland ansässiger Unternehmer  (Umsatzsteuerzuständigkeitsverordnung - UStZustV)
-
-Ausfertigungsdatum: 20.12.2001
-
+% Verordnung über die örtliche Zuständigkeit für die Umsatzsteuer im Ausland ansässiger Unternehmer  (Umsatzsteuerzuständigkeitsverordnung - UStZustV)
+% Ausfertigungsdatum: 20.12.2001
  
-
-## § 1
+# § 1
 
 (1) Für die Umsatzsteuer der Unternehmer im Sinne des § 21 Abs. 1 Satz 2 der Abgabenordnung sind folgende Finanzämter örtlich zuständig:
 
@@ -92,7 +89,6 @@ e) ungeachtet der Regelungen in den Buchstaben a bis d das Finanzamt Cottbus fü
 
 (3) Die örtliche Zuständigkeit nach § 61 Abs. 1 Satz 1 der Umsatzsteuer-Durchführungsverordnung für die Vergütung der abziehbaren Vorsteuerbeträge an im Ausland ansässige Unternehmer bleibt unberührt.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

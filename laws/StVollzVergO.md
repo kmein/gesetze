@@ -1,15 +1,11 @@
-# [StVollzVergO] Verordnung über die Vergütungsstufen des Arbeitsentgelts und der Ausbildungsbeihilfe nach dem Strafvollzugsgesetz  (Strafvollzugsvergütungsordnung - StVollzVergO)
-
-Ausfertigungsdatum: 11.01.1977
-
+% Verordnung über die Vergütungsstufen des Arbeitsentgelts und der Ausbildungsbeihilfe nach dem Strafvollzugsgesetz  (Strafvollzugsvergütungsordnung - StVollzVergO)
+% Ausfertigungsdatum: 11.01.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 48 des Gesetzes über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung - Strafvollzugsgesetz (StVollzG) - vom 16. März 1976 (BGBl. I S. 581, 2088), geändert durch Gesetz vom 18. August 1976 (BGBl. I S. 2181), wird im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung und mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Grundlohn
+# § 1 – Grundlohn
 
 (1) Der Grundlohn des Arbeitsentgelts (§ 43 Abs. 2 des Strafvollzugsgesetzes) wird nach folgenden Vergütungsstufen festgesetzt:  
 
@@ -36,8 +32,7 @@ der Eckvergütung nach § 43 Abs. 2 Satz 2 des Strafvollzugsgesetzes.
 
 (3) Der Grundlohn nach Absatz 2 kann unterschritten werden, wenn die Arbeitsleistung den Anforderungen der jeweiligen Vergütungsstufe nicht genügt. Während einer Einarbeitungs- oder Anlernzeit darf der Grundlohn um höchstens 20 vom Hundert verringert werden. § 43 Abs. 3 Satz 2 des Strafvollzugsgesetzes bleibt unberührt.
 
-
-## § 2 – Zulagen
+# § 2 – Zulagen
 
 (1) Zum Grundlohn können Zulagen gewährt werden
 
@@ -53,13 +48,11 @@ der Eckvergütung nach § 43 Abs. 2 Satz 2 des Strafvollzugsgesetzes.
 
 2. im Leistungslohn die Arbeitsgüte sowie der Umgang mit Betriebsmitteln und Arbeitsmaterialien.
 
-
-## § 3 – Arbeitsentgelt für arbeitstherapeutische Beschäftigung
+# § 3 – Arbeitsentgelt für arbeitstherapeutische Beschäftigung
 
 Soweit ein Arbeitsentgelt nach § 43 Abs. 4 des Strafvollzugsgesetzes zu zahlen ist, beträgt es in der Regel 75 vom Hundert des Grundlohnes der Vergütungsstufe I.
 
-
-## § 4 – Ausbildungsbeihilfe
+# § 4 – Ausbildungsbeihilfe
 
 (1) Die Ausbildungsbeihilfe (§ 44 Abs. 1 des Strafvollzugsgesetzes) wird vorbehaltlich der Absätze 2 und 3 nach der Vergütungsstufe III gewährt.
 
@@ -69,12 +62,10 @@ Soweit ein Arbeitsentgelt nach § 43 Abs. 4 des Strafvollzugsgesetzes zu zahlen 
 
 (4) Für die Gewährung von besonderen Zulagen gilt § 2 entsprechend.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 1977 in Kraft.

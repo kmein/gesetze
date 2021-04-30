@@ -1,15 +1,11 @@
-# [VersFinKfAusbV] Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen
-
-Ausfertigungsdatum: 17.05.2006
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen
+% Ausfertigungsdatum: 17.05.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf Kaufmann für Versicherungen und Finanzen/Kauffrau für Versicherungen und Finanzen wird staatlich anerkannt.
 
@@ -19,13 +15,11 @@ Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 
 
 2. Finanzberatung.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung und Struktur der Berufsausbildung
+# § 3 – Zielsetzung und Struktur der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 bis 10 nachzuweisen.
 
@@ -37,8 +31,7 @@ Die Ausbildung dauert drei Jahre.
 
 3. fachrichtungsbezogene Qualifikationseinheiten gemäß § 4 Abs. 3.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der gemeinsamen Ausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -184,23 +177,19 @@ Kundenberatung von Arbeitgebern und Arbeitnehmern,
 4.2  
 Angebot und Antrag.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den in den Anlagen 2 und 3 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -214,8 +203,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung in der Fachrichtung Versicherung
+# § 9 – Abschlussprüfung in der Fachrichtung Versicherung
 
 (1) Die Abschlussprüfung in der Fachrichtung Versicherung erstreckt sich auf die in der Anlage 2 Abschnitt I und II aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -271,8 +259,7 @@ In einem Fachgespräch von höchstens 15 Minuten Dauer über eine selbständig d
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis sowie in mindestens drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden sein. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Finanzberatung
+# § 10 – Abschlussprüfung in der Fachrichtung Finanzberatung
 
 (1) Die Abschlussprüfung in der Fachrichtung Finanzberatung erstreckt sich auf die in der Anlage 2 Abschnitt I und III aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -328,18 +315,15 @@ In einem Fachgespräch von höchstens 15 Minuten Dauer über eine selbständig d
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis sowie in mindestens drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden sein. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1)Liste der zu vermittelnden Produkte nach § 4 Absatz 1 Nummer 4
+# Anlage 1 – (zu § 4 Absatz 1)Liste der zu vermittelnden Produkte nach § 4 Absatz 1 Nummer 4
 
 (Fundstelle: BGBl. I 2014, 692)
 
@@ -582,8 +566,7 @@ Investmentfonds
 
 Verbraucherdarlehen
 
-
-## Anlage 2 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen- Sachliche Gliederung -
+# Anlage 2 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen- Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1192 - 1198;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1308,8 +1291,7 @@ c) Antragsdaten aufnehmen
 
 d) über den Prozess der Antragsbearbeitung informieren
 
-
-## Anlage 3 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen- Zeitliche Gliederung -
+# Anlage 3 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Versicherungen und Finanzen/zur Kauffrau für Versicherungen und Finanzen- Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1199 - 1201;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

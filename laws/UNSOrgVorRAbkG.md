@@ -1,22 +1,17 @@
-# [UNSOrgVorRAbkG] Gesetz über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen
-
-Ausfertigungsdatum: 22.06.1954
-
+% Gesetz über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen
+% Ausfertigungsdatum: 22.06.1954
  
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
+# Art 2
 
 (1)
 
 (2) Der Tag, an dem das Abkommen gemäß Artikel XI § 44 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
-
-## Art 3
+# Art 3
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates, soweit dies im Interesse der Pflege internationaler Beziehungen erforderlich ist, Rechtsverordnungen zu erlassen
 
@@ -38,12 +33,10 @@ c) die Vertreter der Mitglieder dieser Organisationen sowie die zum Haushalt der
 
 d) die Sachverständigen, die Aufträge für diese Organisationen durchführen.
 
-
-## Art 4
+# Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, wenn das Land Berlin seine Anwendung feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art 5
+# Art 5
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

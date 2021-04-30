@@ -1,10 +1,7 @@
-# [Münz10EuroBek 2010-08] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“)
-
-Ausfertigungsdatum: 13.08.2010
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“)
+% Ausfertigungsdatum: 13.08.2010
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum Thema „20 Jahre Deutsche Einheit“ eine deutsche Euro-Gedenkmünze im Nennwert von 10 Euro prägen zu lassen.
 
@@ -22,10 +19,8 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf stammt vom Künstler Erich Ott aus München.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----

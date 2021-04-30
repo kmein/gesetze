@@ -1,18 +1,13 @@
-# [WHG] Gesetz zur Ordnung des Wasserhaushalts    (Wasserhaushaltsgesetz - WHG)
-
-Ausfertigungsdatum: 31.07.2009
-
+% Gesetz zur Ordnung des Wasserhaushalts    (Wasserhaushaltsgesetz - WHG)
+% Ausfertigungsdatum: 31.07.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 Zweck dieses Gesetzes ist es, durch eine nachhaltige Gewässerbewirtschaftung die Gewässer als Bestandteil des Naturhaushalts, als Lebensgrundlage des Menschen, als Lebensraum für Tiere und Pflanzen sowie als nutzbares Gut zu schützen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für folgende Gewässer:
 
@@ -28,10 +23,9 @@ Es gilt auch für Teile dieser Gewässer.
 
 (2) Die Länder können kleine Gewässer von wasserwirtschaftlich untergeordneter Bedeutung, insbesondere Straßenseitengräben als Bestandteil von Straßen, Be- und Entwässerungsgräben, sowie Heilquellen von den Bestimmungen dieses Gesetzes ausnehmen. Dies gilt nicht für die Haftung für Gewässerveränderungen nach den §§ 89 und 90.
 
-§ 2 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 1 Abs. 2 Nr. 1 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__1.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)
+§ 2 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 1 Abs. 2 Nr. 1 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__1.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 
@@ -41,8 +35,7 @@ das ständig oder zeitweilig in Betten fließende oder stehende oder aus Quellen
 2. Küstengewässer  
 das Meer zwischen der Küstenlinie bei mittlerem Hochwasser oder zwischen der seewärtigen Begrenzung der oberirdischen Gewässer und der seewärtigen Begrenzung des Küstenmeeres; die seewärtige Begrenzung von oberirdischen Gewässern, die nicht Binnenwasserstraßen des Bundes sind, richtet sich nach den landesrechtlichen Vorschriften;
 
-2a.  
-Meeresgewässer  
+2a. Meeresgewässer  
 die Küstengewässer sowie die Gewässer im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels, jeweils einschließlich des Meeresgrundes und des Meeresuntergrundes;
 
 3. Grundwasser  
@@ -92,8 +85,7 @@ b) Sammlung und Behandlung von Abwasser in Abwasseranlagen, die anschließend in
 
 17. Wassernutzungen sind alle Wasserdienstleistungen sowie andere Handlungen mit Auswirkungen auf den Zustand eines Gewässers, die im Hinblick auf die Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und 47 signifikant sind.
 
-
-## § 4 – Gewässereigentum, Schranken des Grundeigentums
+# § 4 – Gewässereigentum, Schranken des Grundeigentums
 
 (1) Das Eigentum an den Bundeswasserstraßen steht dem Bund nach Maßgabe der wasserstraßenrechtlichen Vorschriften zu. Soweit sich aus diesem Gesetz, auf Grund dieses Gesetzes erlassener oder sonstiger wasserrechtlicher Vorschriften Verpflichtungen aus dem Gewässereigentum ergeben, treffen diese auch den Bund als Eigentümer der Bundeswasserstraßen.
 
@@ -109,10 +101,9 @@ b) Sammlung und Behandlung von Abwasser in Abwasseranlagen, die anschließend in
 
 (5) Im Übrigen gelten für das Eigentum an Gewässern die landesrechtlichen Vorschriften.
 
-§ 4 Abs. 4 idF d. G v. 31.7.2009 I 2585: Hessen - Abweichung durch [§ 6 des Hessischen Wassergesetzes (HWG)](../abweichendes_Landesrecht/wasg_he__6.html "Anzeige in neuem Fenster") v. 14.12.2010 GVBl. I S. 548 mWv 24.12.2010 (vgl. BGBl. I 2011, 607)
+§ 4 Abs. 4 idF d. G v. 31.7.2009 I 2585: Hessen - Abweichung durch [§ 6 des Hessischen Wassergesetzes (HWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_he__6.html "Anzeige in neuem Fenster") v. 14.12.2010 GVBl. I S. 548 mWv 24.12.2010 (vgl. BGBl. I 2011, 607)
 
-
-## § 5 – Allgemeine Sorgfaltspflichten
+# § 5 – Allgemeine Sorgfaltspflichten
 
 (1) Jede Person ist verpflichtet, bei Maßnahmen, mit denen Einwirkungen auf ein Gewässer verbunden sein können, die nach den Umständen erforderliche Sorgfalt anzuwenden, um
 
@@ -126,8 +117,7 @@ b) Sammlung und Behandlung von Abwasser in Abwasseranlagen, die anschließend in
 
 (2) Jede Person, die durch Hochwasser betroffen sein kann, ist im Rahmen des ihr Möglichen und Zumutbaren verpflichtet, geeignete Vorsorgemaßnahmen zum Schutz vor nachteiligen Hochwasserfolgen und zur Schadensminderung zu treffen, insbesondere die Nutzung von Grundstücken den möglichen nachteiligen Folgen für Mensch, Umwelt oder Sachwerte durch Hochwasser anzupassen.
 
-
-## § 6 – Allgemeine Grundsätze der Gewässerbewirtschaftung
+# § 6 – Allgemeine Grundsätze der Gewässerbewirtschaftung
 
 (1) Die Gewässer sind nachhaltig zu bewirtschaften, insbesondere mit dem Ziel,
 
@@ -149,8 +139,7 @@ Die nachhaltige Gewässerbewirtschaftung hat ein hohes Schutzniveau für die Umw
 
 (2) Gewässer, die sich in einem natürlichen oder naturnahen Zustand befinden, sollen in diesem Zustand erhalten bleiben und nicht naturnah ausgebaute natürliche Gewässer sollen so weit wie möglich wieder in einen naturnahen Zustand zurückgeführt werden, wenn überwiegende Gründe des Wohls der Allgemeinheit dem nicht entgegenstehen.
 
-
-## § 6a – Grundsätze für die Kosten von Wasserdienstleistungen und Wassernutzungen
+# § 6a – Grundsätze für die Kosten von Wasserdienstleistungen und Wassernutzungen
 
 (1) Bei Wasserdienstleistungen ist zur Erreichung der Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und 47 der Grundsatz der Kostendeckung zu berücksichtigen. Hierbei sind auch die Umwelt- und Ressourcenkosten zu berücksichtigen. Es sind angemessene Anreize zu schaffen, Wasser effizient zu nutzen, um so zur Erreichung der Bewirtschaftungsziele beizutragen.
 
@@ -162,8 +151,7 @@ Die nachhaltige Gewässerbewirtschaftung hat ein hohes Schutzniveau für die Umw
 
 (5) Weitergehende Regelungen des Bundes und der Länder zur Erhebung von Kosten und Entgelten im Bereich der Bewirtschaftung von Gewässern bleiben unberührt.
 
-
-## § 7 – Bewirtschaftung nach Flussgebietseinheiten
+# § 7 – Bewirtschaftung nach Flussgebietseinheiten
 
 (1) Die Gewässer sind nach Flussgebietseinheiten zu bewirtschaften. Die Flussgebietseinheiten sind:
 
@@ -201,8 +189,7 @@ Die Flussgebietseinheiten sind in der Anlage 2 in Kartenform dargestellt.
 
 (5) Die zuständigen Behörden der Länder ordnen innerhalb der Landesgrenzen die Einzugsgebiete oberirdischer Gewässer sowie Küstengewässer und das Grundwasser einer Flussgebietseinheit zu. Bei Küstengewässern gilt dies für die Flächen auf der landwärtigen Seite einer Linie, auf der sich jeder Punkt eine Seemeile seewärts vom nächsten Punkt der Basislinie befindet, von der aus die Breite der Hoheitsgewässer gemessen wird, mindestens bis zur äußeren Grenze der Gewässer, die im Wesentlichen von Süßwasserströmungen beeinflusst sind. Die Länder können die Zuordnung auch durch Gesetz regeln.
 
-
-## § 8 – Erlaubnis, Bewilligung
+# § 8 – Erlaubnis, Bewilligung
 
 (1) Die Benutzung eines Gewässers bedarf der Erlaubnis oder der Bewilligung, soweit nicht durch dieses Gesetz oder auf Grund dieses Gesetzes erlassener Vorschriften etwas anderes bestimmt ist.
 
@@ -220,10 +207,9 @@ wenn durch diese Benutzungen andere nicht oder nur geringfügig beeinträchtigt 
 
 (4) Ist bei der Erteilung der Erlaubnis oder der Bewilligung nichts anderes bestimmt worden, geht die Erlaubnis oder die Bewilligung mit der Wasserbenutzungsanlage oder, wenn sie für ein Grundstück erteilt worden ist, mit diesem auf den Rechtsnachfolger über.
 
-§ 8 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 14 Abs. 1 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__14.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)
+§ 8 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 14 Abs. 1 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__14.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)
 
-
-## § 9 – Benutzungen
+# § 9 – Benutzungen
 
 (1) Benutzungen im Sinne dieses Gesetzes sind
 
@@ -249,24 +235,21 @@ wenn durch diese Benutzungen andere nicht oder nur geringfügig beeinträchtigt 
 
 (3) Keine Benutzungen sind Maßnahmen, die dem Ausbau eines Gewässers im Sinne des § 67 Absatz 2 dienen. Das Gleiche gilt für Maßnahmen der Unterhaltung eines Gewässers, soweit hierbei keine chemischen Mittel verwendet werden.
 
-
-## § 10 – Inhalt der Erlaubnis und der Bewilligung
+# § 10 – Inhalt der Erlaubnis und der Bewilligung
 
 (1) Die Erlaubnis gewährt die Befugnis, die Bewilligung das Recht, ein Gewässer zu einem bestimmten Zweck in einer nach Art und Maß bestimmten Weise zu benutzen.
 
 (2) Erlaubnis und Bewilligung geben keinen Anspruch auf Zufluss von Wasser in einer bestimmten Menge und Beschaffenheit.
 
-§ 10 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 15 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__15.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)
+§ 10 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 15 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__15.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)
 
-
-## § 11 – Erlaubnis-, Bewilligungsverfahren
+# § 11 – Erlaubnis-, Bewilligungsverfahren
 
 (1) Erlaubnis und Bewilligung können für ein Vorhaben, das nach dem Gesetz über die Umweltverträglichkeitsprüfung einer Umweltverträglichkeitsprüfung unterliegt, nur in einem Verfahren erteilt werden, das den Anforderungen des genannten Gesetzes entspricht.
 
 (2) Die Bewilligung kann nur in einem Verfahren erteilt werden, in dem die Betroffenen und die beteiligten Behörden Einwendungen geltend machen können.
 
-
-## § 12 – Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
+# § 12 – Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen
 
 (1) Die Erlaubnis und die Bewilligung sind zu versagen, wenn
 
@@ -276,8 +259,7 @@ wenn durch diese Benutzungen andere nicht oder nur geringfügig beeinträchtigt 
 
 (2) Im Übrigen steht die Erteilung der Erlaubnis und der Bewilligung im pflichtgemäßen Ermessen (Bewirtschaftungsermessen) der zuständigen Behörde.
 
-
-## § 13 – Inhalts- und Nebenbestimmungen der Erlaubnis und der Bewilligung
+# § 13 – Inhalts- und Nebenbestimmungen der Erlaubnis und der Bewilligung
 
 (1) Inhalts- und Nebenbestimmungen sind auch nachträglich sowie auch zu dem Zweck zulässig, nachteilige Wirkungen für andere zu vermeiden oder auszugleichen.
 
@@ -301,8 +283,7 @@ d) zum Ausgleich einer auf die Benutzung zurückzuführenden nachteiligen Verän
 
 (3) Für die Bewilligung gilt Absatz 1 mit der Maßgabe, dass nachträglich nur Inhalts- und Nebenbestimmungen im Sinne von Absatz 2 Nummer 1 bis 4 zulässig sind.
 
-
-## § 13a – Versagung und Voraussetzungen für die Erteilung der Erlaubnis für bestimmte Gewässerbenutzungen; unabhängige Expertenkommission
+# § 13a – Versagung und Voraussetzungen für die Erteilung der Erlaubnis für bestimmte Gewässerbenutzungen; unabhängige Expertenkommission
 
 (1) Eine Erlaubnis für eine Gewässerbenutzung nach § 9 Absatz 2 Nummer 3 und 4 ist zu versagen, wenn
 
@@ -372,8 +353,7 @@ Die Mitglieder der Expertenkommission sind an Weisungen nicht gebunden. Die Expe
 
 (7) Im Jahr 2021 überprüft der Deutsche Bundestag auf der Grundlage des bis dahin vorliegenden Standes von Wissenschaft und Technik die Angemessenheit des Verbots nach Absatz 1 Satz 1 Nummer 1.
 
-
-## § 13b – Antragsunterlagen und Überwachung bei bestimmten Gewässerbenutzungen; Stoffregister
+# § 13b – Antragsunterlagen und Überwachung bei bestimmten Gewässerbenutzungen; Stoffregister
 
 (1) Der Antrag auf Erteilung einer Erlaubnis für eine Gewässerbenutzung nach § 9 Absatz 2 Nummer 3 oder Nummer 4 muss insbesondere die Angaben nach § 2 Absatz 1 Nummer 3 der Verordnung über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben vom 13. Juli 1990 (BGBl. I S.1420), die zuletzt durch Artikel 1 der Verordnung vom 4. August 2016 (BGBl. I S. 1957) geändert worden ist, enthalten. Die zuständige Behörde hat die Angaben nach § 2 Absatz 1 Nummer 3 Buchstabe a dieser Verordnung innerhalb von zwei Wochen nach Antragstellung im Internet zu veröffentlichen.
 
@@ -395,8 +375,7 @@ Die zuständige Behörde hat Informationen nach Satz 1 innerhalb von zwei Wochen
 
 (5) Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 11 kann die Errichtung und Führung eines für jedermann frei und unentgeltlich zugänglichen internetgestützten Registers für Stoffe geregelt werden, die bei Gewässerbenutzungen nach § 9 Absatz 2 Nummer 3 und 4 verwendet oder abgelagert werden.
 
-
-## § 14 – Besondere Vorschriften für die Erteilung der Bewilligung
+# § 14 – Besondere Vorschriften für die Erteilung der Bewilligung
 
 (1) Die Bewilligung darf nur erteilt werden, wenn die Gewässerbenutzung
 
@@ -427,21 +406,19 @@ wird. Geringfügige und solche nachteiligen Wirkungen, die vermieden worden wär
 (6) Konnte der Betroffene nach Absatz 3 oder Absatz 4 nachteilige Wirkungen bis zum Ablauf der Frist zur Geltendmachung von Einwendungen nicht voraussehen, so kann er verlangen, dass dem Gewässerbenutzer nachträglich Inhalts- oder Nebenbestimmungen auferlegt werden. Können die nachteiligen Wirkungen durch nachträgliche Inhalts- oder Nebenbestimmungen nicht vermieden oder ausgeglichen werden, so ist der Betroffene im Sinne des Absatzes 3 zu entschädigen. Der Antrag ist nur innerhalb einer Frist von drei Jahren nach dem Zeitpunkt zulässig, zu dem der Betroffene von den nachteiligen Wirkungen der Bewilligung Kenntnis erhalten hat; er ist ausgeschlossen, wenn nach der Herstellung des der Bewilligung entsprechenden Zustands 30 Jahre vergangen sind.
 
 § 14 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch § 6 Abs. 1 Satz 1 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)  
-§ 14 Abs. 4 Satz 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 5 Abs. 2 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__5.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
-§ 14 Abs. 4 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 20 Abs. 2 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](../abweichendes_Landesrecht/wasg_st__20.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
+§ 14 Abs. 4 Satz 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 5 Abs. 2 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__5.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
+§ 14 Abs. 4 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 20 Abs. 2 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__20.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
 
-
-## § 15 – Gehobene Erlaubnis
+# § 15 – Gehobene Erlaubnis
 
 (1) Die Erlaubnis kann als gehobene Erlaubnis erteilt werden, wenn hierfür ein öffentliches Interesse oder ein berechtigtes Interesse des Gewässerbenutzers besteht. Eine gehobene Erlaubnis darf für Gewässerbenutzungen nach § 9 Absatz 2 Nummer 3 und 4 nicht erteilt werden.
 
 (2) Für die gehobene Erlaubnis gelten § 11 Absatz 2 und § 14 Absatz 3 bis 5 entsprechend.
 
-§ 15 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 15 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__15.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)  
+§ 15 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 15 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__15.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 153)  
 § 15 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch § 6 Abs. 1 Satz 2 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)
 
-
-## § 16 – Ausschluss privatrechtlicher Abwehransprüche
+# § 16 – Ausschluss privatrechtlicher Abwehransprüche
 
 (1) Ist eine Gewässerbenutzung durch eine unanfechtbare gehobene Erlaubnis zugelassen, kann auf Grund privatrechtlicher Ansprüche zur Abwehr nachteiliger Wirkungen der Gewässerbenutzung nicht die Einstellung der Benutzung verlangt werden. Es können nur Vorkehrungen verlangt werden, die die nachteiligen Wirkungen ausschließen. Soweit solche Vorkehrungen nach dem Stand der Technik nicht durchführbar oder wirtschaftlich nicht vertretbar sind, kann lediglich Entschädigung verlangt werden.
 
@@ -449,8 +426,7 @@ wird. Geringfügige und solche nachteiligen Wirkungen, die vermieden worden wär
 
 (3) Absatz 1 sowie Absatz 2 Satz 1 gelten nicht für privatrechtliche Ansprüche gegen den Gewässerbenutzer aus Verträgen oder letztwilligen Verfügungen und für Ansprüche aus dinglichen Rechten am Grundstück, auf dem die Gewässerbenutzung stattfindet.
 
-
-## § 17 – Zulassung vorzeitigen Beginns
+# § 17 – Zulassung vorzeitigen Beginns
 
 (1) In einem Erlaubnis- oder Bewilligungsverfahren kann die zuständige Behörde auf Antrag zulassen, dass bereits vor Erteilung der Erlaubnis oder der Bewilligung mit der Gewässerbenutzung begonnen wird, wenn
 
@@ -462,8 +438,7 @@ wird. Geringfügige und solche nachteiligen Wirkungen, die vermieden worden wär
 
 (2) Die Zulassung des vorzeitigen Beginns kann jederzeit widerrufen werden. § 13 gilt entsprechend.
 
-
-## § 18 – Widerruf der Erlaubnis und der Bewilligung
+# § 18 – Widerruf der Erlaubnis und der Bewilligung
 
 (1) Die Erlaubnis ist widerruflich.
 
@@ -473,12 +448,11 @@ wird. Geringfügige und solche nachteiligen Wirkungen, die vermieden worden wär
 
 2. den Zweck der Benutzung so geändert hat, dass er mit dem Plan (§ 14 Absatz 1 Nummer 2) nicht mehr übereinstimmt.
 
-§ 18 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__69.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)  
+§ 18 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__69.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)  
 § 18 Abs. 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 14 Abs. 1 Satz 2 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2595)  
-§ 18 Abs. 2 Satz 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](../abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1010, 1047)
+§ 18 Abs. 2 Satz 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1010, 1047)
 
-
-## § 19 – Planfeststellungen und bergrechtliche Betriebspläne
+# § 19 – Planfeststellungen und bergrechtliche Betriebspläne
 
 (1) Wird für ein Vorhaben, mit dem die Benutzung eines Gewässers verbunden ist, ein Planfeststellungsverfahren durchgeführt, so entscheidet die Planfeststellungsbehörde über die Erteilung der Erlaubnis oder der Bewilligung.
 
@@ -488,10 +462,9 @@ wird. Geringfügige und solche nachteiligen Wirkungen, die vermieden worden wär
 
 (4) Über den Widerruf einer nach Absatz 1 erteilten Erlaubnis oder Bewilligung oder einer nach Absatz 2 erteilten Erlaubnis sowie über den nachträglichen Erlass von Inhalts- und Nebenbestimmungen entscheidet auf Antrag der zuständigen Wasserbehörde in den Fällen des Absatzes 1 die Planfeststellungsbehörde, in den Fällen des Absatzes 2 die Bergbehörde. Absatz 3 ist entsprechend anzuwenden.
 
-§ 19 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 64 Abs. 1 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__64.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)
+§ 19 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 64 Abs. 1 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__64.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)
 
-
-## § 20 – Alte Rechte und alte Befugnisse
+# § 20 – Alte Rechte und alte Befugnisse
 
 (1) Soweit die Länder nichts anderes bestimmen, ist keine Erlaubnis oder Bewilligung erforderlich für Gewässerbenutzungen auf Grund
 
@@ -519,23 +492,20 @@ Satz 1 gilt nur, wenn zur Ausübung der Benutzung am 12. August 1957, in dem in 
 
 Für die Zulässigkeit nachträglicher Anforderungen und Maßnahmen ohne Entschädigung gilt § 13 Absatz 2 entsprechend.
 
-
-## § 21 – Anmeldung alter Rechte und alter Befugnisse
+# § 21 – Anmeldung alter Rechte und alter Befugnisse
 
 (1) Alte Rechte und alte Befugnisse, die bis zum 28. Februar 2010 noch nicht im Wasserbuch eingetragen oder zur Eintragung in das Wasserbuch angemeldet worden sind, können bis zum 1. März 2013 bei der zuständigen Behörde zur Eintragung in das Wasserbuch angemeldet werden. § 32 des Verwaltungsverfahrensgesetzes gilt entsprechend. Alte Rechte und alte Befugnisse, die nicht nach den Sätzen 1 und 2 angemeldet worden sind, erlöschen am 1. März 2020, soweit das alte Recht oder die alte Befugnis nicht bereits zuvor aus anderen Gründen erloschen ist.
 
 (2) Absatz 1 gilt nicht für alte Rechte und alte Befugnisse, die nach einer öffentlichen Aufforderung nach § 16 Absatz 2 Satz 1 des Wasserhaushaltsgesetzes in der am 28. Februar 2010 geltenden Fassung innerhalb der dort genannten Frist nicht zur Eintragung in das Wasserbuch angemeldet worden sind. Für diese alten Rechte und alten Befugnisse gilt § 16 Absatz 2 Satz 2 und 3 des Wasserhaushaltsgesetzes in der am 28. Februar 2010 geltenden Fassung.
 
-§ 21 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__69.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)  
-§ 21 Abs. 1 Satz 2 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](../abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1010, 1047)
+§ 21 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__69.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)  
+§ 21 Abs. 1 Satz 2 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1010, 1047)
 
-
-## § 22 – Ausgleich zwischen konkurrierenden Gewässerbenutzungen
+# § 22 – Ausgleich zwischen konkurrierenden Gewässerbenutzungen
 
 Art, Maß und Zeiten der Gewässerbenutzung im Rahmen von Erlaubnissen, Bewilligungen, alten Rechten und alten Befugnissen können auf Antrag eines Beteiligten oder von Amts wegen in einem Ausgleichsverfahren geregelt oder beschränkt werden, wenn das Wasser nach Menge oder Beschaffenheit nicht für alle Benutzungen ausreicht oder zumindest eine Benutzung beeinträchtigt ist und wenn das Wohl der Allgemeinheit es erfordert. Der Ausgleich ist unter Abwägung der Interessen der Beteiligten und des Wohls der Allgemeinheit sowie unter Berücksichtigung des Gemeingebrauchs nach pflichtgemäßem Ermessen festzulegen.
 
-
-## § 23 – Rechtsverordnungen zur Gewässerbewirtschaftung
+# § 23 – Rechtsverordnungen zur Gewässerbewirtschaftung
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates, auch zur Umsetzung bindender Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union und zwischenstaatlicher Vereinbarungen, Vorschriften zum Schutz und zur Bewirtschaftung der Gewässer nach den Grundsätzen des § 6 und den Bewirtschaftungszielen nach Maßgabe der §§ 27 bis 31, 44, 45a und 47 sowie zur näheren Bestimmung der sich aus diesem Gesetz ergebenden Pflichten zu erlassen, insbesondere nähere Regelungen über
 
@@ -569,11 +539,10 @@ Art, Maß und Zeiten der Gewässerbenutzung im Rahmen von Erlaubnissen, Bewillig
 
 (3) Solange und soweit die Bundesregierung von der Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1, auch in Verbindung mit § 46 Absatz 2, § 48 Absatz 1 Satz 2, § 57 Absatz 2, § 58 Absatz 1 Satz 2, § 61 Absatz 3, § 62 Absatz 4 und § 63 Absatz 2 Satz 2, keinen Gebrauch gemacht hat, sind die Landesregierungen ermächtigt, durch Rechtsverordnung entsprechende Vorschriften zu erlassen. Die Landesregierungen können die Ermächtigung auf eine oder mehrere oberste Landesbehörden übertragen.
 
-§ 23 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 17 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__17.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)  
-§ 23 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 17 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](../abweichendes_Landesrecht/wasg_st__17.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
+§ 23 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 17 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__17.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 154)  
+§ 23 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 17 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__17.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
 
-
-## § 24 – Erleichterungen für EMAS-Standorte
+# § 24 – Erleichterungen für EMAS-Standorte
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten Eigenverantwortung für EMAS-Standorte durch Rechtsverordnung mit Zustimmung des Bundesrates Erleichterungen zum Inhalt der Antragsunterlagen in wasserrechtlichen Verfahren sowie überwachungsrechtliche Erleichterungen vorzusehen, soweit die entsprechenden Anforderungen der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1) gleichwertig mit den Anforderungen sind, die zur Überwachung und zu den Antragsunterlagen nach den wasserrechtlichen Vorschriften vorgesehen sind, oder soweit die Gleichwertigkeit durch die Rechtsverordnung nach dieser Vorschrift sichergestellt wird; dabei können insbesondere Erleichterungen zu
 
@@ -589,8 +558,7 @@ Art, Maß und Zeiten der Gewässerbenutzung im Rahmen von Erlaubnissen, Bewillig
 
 (3) Solange und soweit die Bundesregierung von der Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1 keinen Gebrauch gemacht hat, sind die Landesregierungen ermächtigt, durch Rechtsverordnung entsprechende Vorschriften zu erlassen. Die Landesregierungen können die Ermächtigung auf eine oder mehrere oberste Landesbehörden übertragen.
 
-
-## § 25 – Gemeingebrauch
+# § 25 – Gemeingebrauch
 
 Jede Person darf oberirdische Gewässer in einer Weise und in einem Umfang benutzen, wie dies nach Landesrecht als Gemeingebrauch zulässig ist, soweit nicht Rechte anderer dem entgegenstehen und soweit Befugnisse oder der Eigentümer- oder Anliegergebrauch anderer nicht beeinträchtigt werden. Der Gemeingebrauch umfasst nicht das Einbringen und Einleiten von Stoffen in oberirdische Gewässer. Die Länder können den Gemeingebrauch erstrecken auf
 
@@ -598,10 +566,9 @@ Jede Person darf oberirdische Gewässer in einer Weise und in einem Umfang benut
 
 2. das Einbringen von Stoffen in oberirdische Gewässer für Zwecke der Fischerei, wenn dadurch keine signifikanten nachteiligen Auswirkungen auf den Gewässerzustand zu erwarten sind.
 
-§ 25 Satz 3 Nr. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 19 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__19.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)
+§ 25 Satz 3 Nr. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 19 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__19.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)
 
-
-## § 26 – Eigentümer- und Anliegergebrauch
+# § 26 – Eigentümer- und Anliegergebrauch
 
 (1) Eine Erlaubnis oder eine Bewilligung ist, soweit durch Landesrecht nicht etwas anderes bestimmt ist, nicht erforderlich für die Benutzung eines oberirdischen Gewässers durch den Eigentümer oder die durch ihn berechtigte Person für den eigenen Bedarf, wenn dadurch andere nicht beeinträchtigt werden und keine nachteilige Veränderung der Wasserbeschaffenheit, keine wesentliche Verminderung der Wasserführung sowie keine andere Beeinträchtigung des Wasserhaushalts zu erwarten sind. Der Eigentümergebrauch umfasst nicht das Einbringen und Einleiten von Stoffen in oberirdische Gewässer. § 25 Satz 3 gilt entsprechend.
 
@@ -609,8 +576,7 @@ Jede Person darf oberirdische Gewässer in einer Weise und in einem Umfang benut
 
 (3) An Bundeswasserstraßen und an sonstigen Gewässern, die der Schifffahrt dienen oder künstlich errichtet sind, findet ein Gebrauch nach Absatz 2 nicht statt.
 
-
-## § 27 – Bewirtschaftungsziele für oberirdische Gewässer
+# § 27 – Bewirtschaftungsziele für oberirdische Gewässer
 
 (1) Oberirdische Gewässer sind, soweit sie nicht nach § 28 als künstlich oder erheblich verändert eingestuft werden, so zu bewirtschaften, dass
 
@@ -624,8 +590,7 @@ Jede Person darf oberirdische Gewässer in einer Weise und in einem Umfang benut
 
 2. ein gutes ökologisches Potenzial und ein guter chemischer Zustand erhalten oder erreicht werden.
 
-
-## § 28 – Einstufung künstlicher und erheblich veränderter Gewässer
+# § 28 – Einstufung künstlicher und erheblich veränderter Gewässer
 
 Oberirdische Gewässer können als künstliche oder erheblich veränderte Gewässer im Sinne des § 3 Nummer 4 und 5 eingestuft werden, wenn
 
@@ -647,8 +612,7 @@ f) andere, ebenso wichtige nachhaltige Entwicklungstätigkeiten des Menschen,
 
 3. die Verwirklichung der in den §§ 27, 44 und 47 Absatz 1 festgelegten Bewirtschaftungsziele in anderen Gewässern derselben Flussgebietseinheit nicht dauerhaft ausgeschlossen oder gefährdet ist.
 
-
-## § 29 – Fristen zur Erreichung der Bewirtschaftungsziele
+# § 29 – Fristen zur Erreichung der Bewirtschaftungsziele
 
 (1) Ein guter ökologischer und ein guter chemischer Zustand der oberirdischen Gewässer sowie ein gutes ökologisches Potenzial und ein guter chemischer Zustand der künstlichen und erheblich veränderten Gewässer sind bis zum 22. Dezember 2015 zu erreichen. Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 1 können zur Umsetzung bindender Rechtsakte der Europäischen Union abweichende Fristen bestimmt werden.
 
@@ -666,8 +630,7 @@ Fristverlängerungen nach Satz 1 dürfen die Verwirklichung der in den §§ 27, 
 
 (4) Die Fristen nach den Absätzen 1 bis 3 gelten auch für Gewässer in Schutzgebieten im Sinne des Artikels 6 in Verbindung mit Anhang IV der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), die zuletzt durch die Richtlinie 2008/105/EG (ABl. L 348 vom 24.12.2008, S. 84) geändert worden ist, in ihrer jeweils geltenden Fassung, sofern die Rechtsvorschriften der Europäischen Gemeinschaften oder der Europäischen Union, nach denen die Schutzgebiete ausgewiesen worden sind, keine anderweitigen Bestimmungen enthalten.
 
-
-## § 30 – Abweichende Bewirtschaftungsziele
+# § 30 – Abweichende Bewirtschaftungsziele
 
 Abweichend von § 27 können die zuständigen Behörden für bestimmte oberirdische Gewässer weniger strenge Bewirtschaftungsziele festlegen, wenn
 
@@ -681,8 +644,7 @@ Abweichend von § 27 können die zuständigen Behörden für bestimmte oberirdis
 
 § 29 Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 31 – Ausnahmen von den Bewirtschaftungszielen
+# § 31 – Ausnahmen von den Bewirtschaftungszielen
 
 (1) Vorübergehende Verschlechterungen des Zustands eines oberirdischen Gewässers verstoßen nicht gegen die Bewirtschaftungsziele nach den §§ 27 und 30, wenn
 
@@ -712,20 +674,17 @@ Bei neuen nachhaltigen Entwicklungstätigkeiten des Menschen im Sinne des § 28 
 
 (3) Für Ausnahmen nach den Absätzen 1 und 2 gilt § 29 Absatz 2 Satz 2 entsprechend.
 
-
-## § 32 – Reinhaltung oberirdischer Gewässer
+# § 32 – Reinhaltung oberirdischer Gewässer
 
 (1) Feste Stoffe dürfen in ein oberirdisches Gewässer nicht eingebracht werden, um sich ihrer zu entledigen. Satz 1 gilt nicht, wenn Sediment, das einem Gewässer entnommen wurde, in ein oberirdisches Gewässer eingebracht wird.
 
 (2) Stoffe dürfen an einem oberirdischen Gewässer nur so gelagert oder abgelagert werden, dass eine nachteilige Veränderung der Wasserbeschaffenheit oder des Wasserabflusses nicht zu besorgen ist. Das Gleiche gilt für das Befördern von Flüssigkeiten und Gasen durch Rohrleitungen.
 
-
-## § 33 – Mindestwasserführung
+# § 33 – Mindestwasserführung
 
 Das Aufstauen eines oberirdischen Gewässers oder das Entnehmen oder Ableiten von Wasser aus einem oberirdischen Gewässer ist nur zulässig, wenn die Abflussmenge erhalten bleibt, die für das Gewässer und andere hiermit verbundene Gewässer erforderlich ist, um den Zielen des § 6 Absatz 1 und der §§ 27 bis 31 zu entsprechen (Mindestwasserführung).
 
-
-## § 34 – Durchgängigkeit oberirdischer Gewässer
+# § 34 – Durchgängigkeit oberirdischer Gewässer
 
 (1) Die Errichtung, die wesentliche Änderung und der Betrieb von Stauanlagen dürfen nur zugelassen werden, wenn durch geeignete Einrichtungen und Betriebsweisen die Durchgängigkeit des Gewässers erhalten oder wiederhergestellt wird, soweit dies erforderlich ist, um die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 zu erreichen.
 
@@ -733,8 +692,7 @@ Das Aufstauen eines oberirdischen Gewässers oder das Entnehmen oder Ableiten vo
 
 (3) Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes führt bei Stauanlagen an Bundeswasserstraßen, die von ihr errichtet oder betrieben werden, die nach den Absätzen 1 und 2 erforderlichen Maßnahmen im Rahmen ihrer Aufgaben nach dem Bundeswasserstraßengesetz hoheitlich durch.
 
-
-## § 35 – Wasserkraftnutzung
+# § 35 – Wasserkraftnutzung
 
 (1) Die Nutzung von Wasserkraft darf nur zugelassen werden, wenn auch geeignete Maßnahmen zum Schutz der Fischpopulation ergriffen werden.
 
@@ -742,8 +700,7 @@ Das Aufstauen eines oberirdischen Gewässers oder das Entnehmen oder Ableiten vo
 
 (3) Die zuständige Behörde prüft, ob an Staustufen und sonstigen Querverbauungen, die am 1. März 2010 bestehen und deren Rückbau zur Erreichung der Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 auch langfristig nicht vorgesehen ist, eine Wasserkraftnutzung nach den Standortgegebenheiten möglich ist. Das Ergebnis der Prüfung wird der Öffentlichkeit in geeigneter Weise zugänglich gemacht.
 
-
-## § 36 – Anlagen in, an, über und unter oberirdischen Gewässern
+# § 36 – Anlagen in, an, über und unter oberirdischen Gewässern
 
 (1) Anlagen in, an, über und unter oberirdischen Gewässern sind so zu errichten, zu betreiben, zu unterhalten und stillzulegen, dass keine schädlichen Gewässerveränderungen zu erwarten sind und die Gewässerunterhaltung nicht mehr erschwert wird, als es den Umständen nach unvermeidbar ist. Anlagen im Sinne von Satz 1 sind insbesondere
 
@@ -757,8 +714,7 @@ Im Übrigen gelten die landesrechtlichen Vorschriften.
 
 (2) Stauanlagen und Stauhaltungsdämme sind nach den allgemein anerkannten Regeln der Technik zu errichten, zu betreiben und zu unterhalten; die Anforderungen an den Hochwasserschutz müssen gewahrt sein. Wer Stauanlagen und Stauhaltungsdämme betreibt, hat ihren ordnungsgemäßen Zustand und Betrieb auf eigene Kosten zu überwachen (Eigenüberwachung). Entsprechen vorhandene Stauanlagen oder Stauhaltungsdämme nicht den vorstehenden Anforderungen, so kann die zuständige Behörde die Durchführung der erforderlichen Maßnahmen innerhalb angemessener Fristen anordnen.
 
-
-## § 37 – Wasserabfluss
+# § 37 – Wasserabfluss
 
 (1) Der natürliche Ablauf wild abfließenden Wassers auf ein tiefer liegendes Grundstück darf nicht zum Nachteil eines höher liegenden Grundstücks behindert werden. Der natürliche Ablauf wild abfließenden Wassers darf nicht zum Nachteil eines tiefer liegenden Grundstücks verstärkt oder auf andere Weise verändert werden.
 
@@ -768,8 +724,7 @@ Im Übrigen gelten die landesrechtlichen Vorschriften.
 
 (4) Die Absätze 1 bis 3 gelten auch für wild abfließendes Wasser, das nicht aus Quellen stammt.
 
-
-## § 38 – Gewässerrandstreifen
+# § 38 – Gewässerrandstreifen
 
 (1) Gewässerrandstreifen dienen der Erhaltung und Verbesserung der ökologischen Funktionen oberirdischer Gewässer, der Wasserspeicherung, der Sicherung des Wasserabflusses sowie der Verminderung von Stoffeinträgen aus diffusen Quellen.
 
@@ -799,29 +754,27 @@ Zulässig sind Maßnahmen, die zur Gefahrenabwehr notwendig sind. Satz 2 Nummer 
 
 (5) Die zuständige Behörde kann von einem Verbot nach Absatz 4 Satz 2 eine widerrufliche Befreiung erteilen, wenn überwiegende Gründe des Wohls der Allgemeinheit die Maßnahme erfordern oder das Verbot im Einzelfall zu einer unbilligen Härte führt. Die Befreiung kann aus Gründen des Wohls der Allgemeinheit auch nachträglich mit Nebenbestimmungen versehen werden, insbesondere um zu gewährleisten, dass der Gewässerrandstreifen die in Absatz 1 genannten Funktionen erfüllt.
 
-§ 38 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 21 des Bremischen Wassergesetzes (BremWG)](../abweichendes_Landesrecht/wasg_br__21.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
-§ 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
+§ 38 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 21 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__21.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
+§ 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
 § 38 Abs. 2 idF d. G v. 7.8.2013 I 3154: Rheinland-Pfalz - Abweichung durch § 15a Abs. 1 Landeswassergesetz Rheinland-Pfalz (LWG) idF d. G v. 28.9.2010, GVBl. RP 2004, 54 mWv 6.10.2010 (vgl. BGBl. I 2013, 12)  
-§ 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 33 Abs. 1 bis 3 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__33.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 38 Abs. 2 Satz 1 u. 2 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 50 Abs. 2 iVm Abs. 1 Satz 2 u. 3 des Sächsischen Wassergesetzes (SächsWG)](../abweichendes_Landesrecht/wasg_sn__50.html "Anzeige in neuem Fenster") idF d. Bek. v. 18.10.2004 SächsGVBl. S. 482, zuletzt geändert durch Art. 1 d. G v. 23.9.2010 SächsGVBl. S. 270 mWv 15.5.2011 bis zum 7.8.2013 (vgl. BGBl. I 2011, 845; 2014 I 113) u. Abweichung durch § 24 Abs. 2 iVm Abs. 1 Satz 2 u. 3 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 113)  
-§ 38 Abs. 3 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
-§ 38 Abs. 3 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 38a des Wassergesetzes des Landes Schleswig-Holstein (LWG)](../abweichendes_Landesrecht/wasg_sh__38a.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
-§ 38 Abs. 3 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 33 Abs. 1 bis 3 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__33.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 38 Abs. 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 33 Abs. 1 bis 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__33.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 38 Abs. 2 Satz 1 u. 2 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 50 Abs. 2 iVm Abs. 1 Satz 2 u. 3 des Sächsischen Wassergesetzes (SächsWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sn__50.html "Anzeige in neuem Fenster") idF d. Bek. v. 18.10.2004 SächsGVBl. S. 482, zuletzt geändert durch Art. 1 d. G v. 23.9.2010 SächsGVBl. S. 270 mWv 15.5.2011 bis zum 7.8.2013 (vgl. BGBl. I 2011, 845; 2014 I 113) u. Abweichung durch § 24 Abs. 2 iVm Abs. 1 Satz 2 u. 3 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 113)  
+§ 38 Abs. 3 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
+§ 38 Abs. 3 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 38a des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__38a.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 38 Abs. 3 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 33 Abs. 1 bis 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__33.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
 § 38 Abs. 3 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 26 Abs. 1 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2595)  
 § 38 Abs. 3 Satz 1 u. 2 idF d. G v. 7.8.2013 I 3154: Rheinland-Pfalz - Abweichung durch § 15a Abs. 1 Landeswassergesetz Rheinland-Pfalz (LWG) idF d. G v. 28.9.2010, GVBl. RP 2004, 54 mWv 6.10.2010 (vgl. BGBl. I 2013, 12)  
-§ 38 Abs. 4 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
-§ 38 Abs. 4 Satz 2 Nr. 4 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 50 Abs. 3 Satz 1 Nr. 2 des Sächsischen Wassergesetzes (SächsWG)](../abweichendes_Landesrecht/wasg_sn__50.html "Anzeige in neuem Fenster") idF d. Bek. v. 18.10.2004 SächsGVBl. S. 482, zuletzt geändert durch Art. 1 d. G v. 23.9.2010 SächsGVBl. S. 270 mWv 15.5.2011 bis zum 7.8.2013 (vgl. BGBl. I 2011, 845; 2014 I 113) u. Abweichung durch § 24 Abs. 3 Satz 1 Nr. 3 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 113)  
-§ 38 Abs. 5 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)
+§ 38 Abs. 4 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
+§ 38 Abs. 4 Satz 2 Nr. 4 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 50 Abs. 3 Satz 1 Nr. 2 des Sächsischen Wassergesetzes (SächsWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sn__50.html "Anzeige in neuem Fenster") idF d. Bek. v. 18.10.2004 SächsGVBl. S. 482, zuletzt geändert durch Art. 1 d. G v. 23.9.2010 SächsGVBl. S. 270 mWv 15.5.2011 bis zum 7.8.2013 (vgl. BGBl. I 2011, 845; 2014 I 113) u. Abweichung durch § 24 Abs. 3 Satz 1 Nr. 3 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 113)  
+§ 38 Abs. 5 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 21 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__21.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)
 
-
-## § 38a – Landwirtschaftlich genutzte Flächen mit Hangneigung an Gewässern
+# § 38a – Landwirtschaftlich genutzte Flächen mit Hangneigung an Gewässern
 
 (1) Eigentümer und Nutzungsberechtigte haben auf landwirtschaftlich genutzten Flächen, die an Gewässer angrenzen und innerhalb eines Abstandes von 20 Metern zur Böschungsoberkante eine Hangneigung zum Gewässer von durchschnittlich mindestens 5 Prozent aufweisen, innerhalb eines Abstandes von 5 Metern landseits zur Böschungsoberkante des Gewässers eine geschlossene, ganzjährig begrünte Pflanzendecke zu erhalten oder herzustellen. Bei Gewässern ohne ausgeprägte Böschungsoberkante ist die Linie des Mittelwasserstandes maßgeblich. Eine Bodenbearbeitung zur Erneuerung des Pflanzenbewuchses darf einmal innerhalb von Fünfjahreszeiträumen durchgeführt werden. Der erste Fünfjahreszeitraum beginnt mit Ablauf des 30. Juni 2020.
 
 (2) Weitergehende Rechtsvorschriften der Länder bleiben unberührt. Abweichend von Absatz 1 Satz 1 und 2 gilt die Linie des Mittelwasserstandes, sofern das Landesrecht diesen Bezugspunkt vorsieht und schädliche Gewässerveränderungen vermieden werden.
 
-
-## § 39 – Gewässerunterhaltung
+# § 39 – Gewässerunterhaltung
 
 (1) Die Unterhaltung eines oberirdischen Gewässers umfasst seine Pflege und Entwicklung als öffentlich-rechtliche Verpflichtung (Unterhaltungslast). Zur Gewässerunterhaltung gehören insbesondere:
 
@@ -839,13 +792,12 @@ Zulässig sind Maßnahmen, die zur Gefahrenabwehr notwendig sind. Satz 2 Nummer 
 
 (3) Die Absätze 1 und 2 gelten auch für die Unterhaltung ausgebauter Gewässer, soweit nicht in einem Planfeststellungsbeschluss oder einer Plangenehmigung nach § 68 etwas anderes bestimmt ist.
 
-§ 39 Abs. 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 52 Abs. 1 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](../abweichendes_Landesrecht/wasg_st__52.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)  
+§ 39 Abs. 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 52 Abs. 1 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__52.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)  
 § 39 Abs. 1 Satz 2 Nr. 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 25 Abs. 1 Satz 1 Nr. 2 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2595)  
-§ 39 Abs. 3 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 61 Abs. 3 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__61.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
-§ 39 Abs. 3 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 52 Abs. 3 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](../abweichendes_Landesrecht/wasg_st__52.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
+§ 39 Abs. 3 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 61 Abs. 3 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__61.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
+§ 39 Abs. 3 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 52 Abs. 3 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__52.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
 
-
-## § 40 – Träger der Unterhaltungslast
+# § 40 – Träger der Unterhaltungslast
 
 (1) Die Unterhaltung oberirdischer Gewässer obliegt den Eigentümern der Gewässer, soweit sie nicht nach landesrechtlichen Vorschriften Aufgabe von Gebietskörperschaften, Wasser- und Bodenverbänden, gemeindlichen Zweckverbänden oder sonstigen Körperschaften des öffentlichen Rechts ist. Ist der Gewässereigentümer Träger der Unterhaltungslast, sind die Anlieger sowie diejenigen Eigentümer von Grundstücken und Anlagen, die aus der Unterhaltung Vorteile haben oder die Unterhaltung erschweren, verpflichtet, sich an den Kosten der Unterhaltung zu beteiligen. Ist eine Körperschaft nach Satz 1 unterhaltungspflichtig, können die Länder bestimmen, inwieweit die Gewässereigentümer, die in Satz 2 genannten Personen, andere Personen, die aus der Unterhaltung Vorteile haben, oder sonstige Eigentümer von Grundstücken im Einzugsgebiet verpflichtet sind, sich an den Kosten der Unterhaltung zu beteiligen.
 
@@ -855,18 +807,17 @@ Zulässig sind Maßnahmen, die zur Gefahrenabwehr notwendig sind. Satz 2 Nummer 
 
 (4) Erfüllt der Träger der Unterhaltungslast seine Verpflichtungen nicht, so sind die erforderlichen Unterhaltungsarbeiten auf seine Kosten durch das Land oder, sofern das Landesrecht dies bestimmt, durch eine andere öffentlich-rechtliche Körperschaft im Sinne des Absatzes 1 Satz 1 durchzuführen. Satz 1 gilt nicht, soweit eine öffentlich-rechtliche Körperschaft Träger der Unterhaltungslast ist.
 
-§ 40 Abs. 1 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 40 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](../abweichendes_Landesrecht/wasg_sh__40.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 40 Abs. 1 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 40 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__40.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
 § 40 Abs. 1 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 28 Abs. 1 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2595)  
-§ 40 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 70 Abs. 1 Nr. 4 u. 5 des Sächsischen Wassergesetzes (SächsWG)](../abweichendes_Landesrecht/wasg_sn__70.html "Anzeige in neuem Fenster") idF d. Bek. v. 18.10.2004 SächsGVBl. S. 482, zuletzt geändert durch Art. 1 d. G v. 23.9.2010 SächsGVBl. S. 270 mWv 15.5.2011 bis zum 7.8.2013 (vgl. BGBl. I 2011, 845; 2014 I 113) u. Abweichung durch § 32 Abs. 1 Satz 1 Nr. 4 u. 5 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 113)  
-§ 40 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 35 Abs. 4 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__35.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 40 Abs. 2 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 33 Abs. 1 des Sächsischen Wassergesetzes (SächsWG)](../abweichendes_Landesrecht/wasg_sn__33.html "Anzeige in neuem Fenster") v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)  
-§ 40 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 23 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__23.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
-§ 40 Abs. 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 39 Satz 2 u. § 45 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](../abweichendes_Landesrecht/wasg_sh__39_45.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 40 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 70 Abs. 1 Nr. 4 u. 5 des Sächsischen Wassergesetzes (SächsWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sn__70.html "Anzeige in neuem Fenster") idF d. Bek. v. 18.10.2004 SächsGVBl. S. 482, zuletzt geändert durch Art. 1 d. G v. 23.9.2010 SächsGVBl. S. 270 mWv 15.5.2011 bis zum 7.8.2013 (vgl. BGBl. I 2011, 845; 2014 I 113) u. Abweichung durch § 32 Abs. 1 Satz 1 Nr. 4 u. 5 des Sächsischen Wassergesetzes (SächsWG) v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 113)  
+§ 40 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 35 Abs. 4 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__35.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 40 Abs. 2 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 33 Abs. 1 des Sächsischen Wassergesetzes (SächsWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sn__33.html "Anzeige in neuem Fenster") v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)  
+§ 40 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 23 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__23.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
+§ 40 Abs. 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 39 Satz 2 u. § 45 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__39_45.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
 § 40 Abs. 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 27 Satz 2 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2595)  
 § 40 Abs. 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 33 Abs. 1 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2595)
 
-
-## § 41 – Besondere Pflichten bei der Gewässerunterhaltung
+# § 41 – Besondere Pflichten bei der Gewässerunterhaltung
 
 (1) Soweit es zur ordnungsgemäßen Unterhaltung eines oberirdischen Gewässers erforderlich ist, haben
 
@@ -886,12 +837,11 @@ Die zur Unterhaltung verpflichtete Person hat der duldungspflichtigen Person die
 
 (4) Entstehen durch Handlungen nach Absatz 1 Satz 1 Nummer 1 bis 3 Schäden, so hat der Geschädigte gegen die zur Unterhaltung verpflichtete Person Anspruch auf Schadenersatz.
 
-§ 41 Abs. 4 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 25 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__25.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
-§ 41 Abs. 4 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 77 Abs. 2 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__77.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
-§ 41 Abs. 4 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 66 Abs. 2 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](../abweichendes_Landesrecht/wasg_st__66.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
+§ 41 Abs. 4 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 25 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__25.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 155)  
+§ 41 Abs. 4 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 77 Abs. 2 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__77.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
+§ 41 Abs. 4 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 66 Abs. 2 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__66.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 567)
 
-
-## § 42 – Behördliche Entscheidungen zur Gewässerunterhaltung
+# § 42 – Behördliche Entscheidungen zur Gewässerunterhaltung
 
 (1) Die zuständige Behörde kann
 
@@ -901,12 +851,11 @@ Die zur Unterhaltung verpflichtete Person hat der duldungspflichtigen Person die
 
 (2) Die zuständige Behörde hat in den Fällen des § 40 Absatz 1 Satz 2 und 3 und Absatz 3 Satz 2 den Umfang der Kostenbeteiligung oder -erstattung festzusetzen, wenn die Beteiligten sich hierüber nicht einigen können.
 
-§ 42 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 27 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__27.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
-§ 42 Abs. 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 49 Abs. 4 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](../abweichendes_Landesrecht/wasg_sh__49.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 42 Abs. 2 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 27 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__27.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
+§ 42 Abs. 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 49 Abs. 4 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__49.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
 § 42 Abs. 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 36 Abs. 3 Landeswassergesetz (LWG) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
-
-## § 43 – Erlaubnisfreie Benutzungen von Küstengewässern
+# § 43 – Erlaubnisfreie Benutzungen von Küstengewässern
 
 Die Länder können bestimmen, dass eine Erlaubnis nicht erforderlich ist
 
@@ -914,13 +863,11 @@ Die Länder können bestimmen, dass eine Erlaubnis nicht erforderlich ist
 
 2. für das Einbringen und Einleiten von anderen Stoffen in ein Küstengewässer, wenn dadurch keine signifikanten nachteiligen Veränderungen seiner Eigenschaften zu erwarten sind.
 
-
-## § 44 – Bewirtschaftungsziele für Küstengewässer
+# § 44 – Bewirtschaftungsziele für Küstengewässer
 
 Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31 entsprechend. Seewärts der in § 7 Absatz 5 Satz 2 genannten Linie gelten die §§ 27 bis 31 in den Küstengewässern entsprechend, soweit ein guter chemischer Zustand zu erreichen ist.
 
-
-## § 45 – Reinhaltung von Küstengewässern
+# § 45 – Reinhaltung von Küstengewässern
 
 (1) Feste Stoffe dürfen in ein Küstengewässer nicht eingebracht werden, um sich ihrer zu entledigen. Satz 1 gilt nicht, wenn Sediment, das einem Gewässer entnommen wurde, in ein Küstengewässer eingebracht wird.
 
@@ -928,8 +875,7 @@ Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31 entspr
 
 (3) Stoffe dürfen an einem Küstengewässer nur so gelagert oder abgelagert werden, dass eine nachteilige Veränderung der Wasserbeschaffenheit nicht zu besorgen ist. Das Gleiche gilt für das Befördern von Flüssigkeiten und Gasen durch Rohrleitungen.
 
-
-## § 45a – Bewirtschaftungsziele für Meeresgewässer
+# § 45a – Bewirtschaftungsziele für Meeresgewässer
 
 (1) Meeresgewässer sind so zu bewirtschaften, dass
 
@@ -947,8 +893,7 @@ Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31 entspr
 
 (3) Nordsee und Ostsee sind nach den Bestimmungen dieses Abschnitts jeweils gesondert zu bewirtschaften.
 
-
-## § 45b – Zustand der Meeresgewässer
+# § 45b – Zustand der Meeresgewässer
 
 (1) Zustand der Meeresgewässer ist der Zustand der Umwelt in Meeresgewässern unter Berücksichtigung
 
@@ -966,8 +911,7 @@ Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31 entspr
 
 3. vom Menschen verursachte Einträge von Stoffen und Energie, einschließlich Lärm, in die Meeresumwelt keine nachteiligen Auswirkungen auf die Meeresökosysteme, die biologische Vielfalt, die menschliche Gesundheit und die zulässige Nutzung des Meeres haben.
 
-
-## § 45c – Anfangsbewertung
+# § 45c – Anfangsbewertung
 
 (1) Die zuständigen Behörden bewerten die Meeresgewässer bis zum 15. Juli 2012 nach Maßgabe des Anhangs III der Richtlinie 2008/56/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Meeresumwelt (Meeresstrategie-Rahmenrichtlinie) (ABl. L 164 vom 25.6.2008, S. 19) in der jeweils geltenden Fassung. Die Bewertung umfasst
 
@@ -983,25 +927,21 @@ Für Küstengewässer nach § 7 Absatz 5 Satz 2 gelten die §§ 27 bis 31 entspr
 
 2. Auflistungen der Belastungen von Küstengewässern und Übergangsgewässern und Beurteilungen ihrer Auswirkungen.
 
-
-## § 45d – Beschreibung des guten Zustands der Meeresgewässer
+# § 45d – Beschreibung des guten Zustands der Meeresgewässer
 
 Auf der Grundlage der Anfangsbewertung nach § 45c beschreiben die zuständigen Behörden bis zum 15. Juli 2012 die Merkmale für den guten Zustand der Meeresgewässer nach Maßgabe des Anhangs I der Richtlinie 2008/56/EG in der jeweils geltenden Fassung. Hierbei sind Festlegungen von typspezifischen Referenzbedingungen für Küstengewässer, die dem sehr guten ökologischen Zustand oder dem höchsten ökologischen Potenzial entsprechen und die im Zusammenhang mit der Bewirtschaftung von Küstengewässern nach Maßgabe des § 44 getroffen worden sind, weitestgehend zu berücksichtigen. Festlegungen von Kriterien für einen günstigen Erhaltungszustand der natürlichen Lebensraumtypen, die in Anhang I der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2006/105/EG (ABl. L 363 vom 20.12.2006, S. 368) geändert worden ist, aufgeführt sind und der in Anhang II dieser Richtlinie aufgeführten Tier- und Pflanzenarten, die in den Meeresgewässern vorkommen, sind ebenfalls weitestgehend zu berücksichtigen.
 
-
-## § 45e – Festlegung von Zielen
+# § 45e – Festlegung von Zielen
 
 Auf der Grundlage der Anfangsbewertung nach § 45c legen die zuständigen Behörden nach Maßgabe des Anhangs IV der Richtlinie 2008/56/EG in der jeweils geltenden Fassung bis zum 15. Juli 2012 die Zwischenziele mit Fristen und die Einzelziele, die erforderlich sind, um einen guten Zustand der Meeresgewässer zu erreichen, sowie zugehörige Indikatoren fest. Dabei sind andere einschlägige Ziele zu berücksichtigen, die für die Gewässer auf nationaler, gemeinschaftlicher oder internationaler Ebene festgelegt worden sind, einschließlich der Bewirtschaftungsziele nach Maßgabe des § 44 und der Erhaltungsziele im Sinne des § 7 Absatz 1 Nummer 9 des Bundesnaturschutzgesetzes. Die zuständigen Behörden stellen sicher, dass die Ziele miteinander vereinbar sind.
 
-
-## § 45f – Überwachungsprogramme
+# § 45f – Überwachungsprogramme
 
 (1) Bis zum 15. Juli 2014 stellen die zuständigen Behörden auf der Grundlage der Anfangsbewertung nach § 45c und unter Beachtung der Anforderungen nach Anhang V der Richtlinie 2008/56/EG in der jeweils geltenden Fassung Überwachungsprogramme zur fortlaufenden Ermittlung, Beschreibung und Bewertung des Zustands der Meeresgewässer sowie zur regelmäßigen Bewertung und Aktualisierung der nach § 45e Satz 1 festgelegten Ziele auf und führen sie durch.
 
 (2) Die Überwachungsprogramme müssen mit anderen Überwachungsanforderungen zum Schutz des Meeres, die insbesondere nach wasser- oder naturschutzrechtlichen Vorschriften sowie internationalen Meeresübereinkommen bestehen, vereinbar sein. Programme zur Überwachung des ökologischen und des chemischen Zustands von Küstengewässern, die im Zusammenhang mit der Bewirtschaftung von Küstengewässern nach Maßgabe des § 44 aufgestellt worden sind, sind weitestgehend bei der Aufstellung und Durchführung der Überwachungsprogramme zu berücksichtigen.
 
-
-## § 45g – Fristverlängerungen; Ausnahmen von den Bewirtschaftungszielen
+# § 45g – Fristverlängerungen; Ausnahmen von den Bewirtschaftungszielen
 
 (1) Die zuständige Behörde kann die Frist nach § 45a Absatz 1 Nummer 2 sowie Fristen für nach § 45e Satz 1 festgelegte Ziele verlängern, soweit es für bestimmte Teile der Meeresgewässer wegen natürlicher Gegebenheiten unmöglich ist, die Ziele fristgerecht zu erreichen. Sie berücksichtigt bei ihrer Entscheidung die Auswirkungen auf Meeresgewässer anderer Staaten sowie die Hohe See.
 
@@ -1025,8 +965,7 @@ Absatz 1 Satz 2 gilt entsprechend. In den Fällen des Satzes 2 Nummer 4 ist sich
 
 3. nachteilige Wirkungen auf den Zustand der Meeresgewässer, einschließlich der Meeresgewässer anderer Staaten sowie der Hohen See, abzuschwächen.
 
-
-## § 45h – Maßnahmenprogramme
+# § 45h – Maßnahmenprogramme
 
 (1) Auf der Grundlage der Anfangsbewertung nach § 45c Absatz 1 und der nach § 45e Satz 1 festgelegten Ziele sind bis zum 31. Dezember 2015 Maßnahmenprogramme aufzustellen, die dem Prinzip einer nachhaltigen Entwicklung Rechnung tragen. Die Maßnahmenprogramme umfassen die kostenwirksamen Maßnahmen, die erforderlich sind, um den guten Zustand der Meeresgewässer zu erreichen oder zu erhalten. Dabei sind die in Anhang VI der Richtlinie 2008/56/EG in der jeweils geltenden Fassung aufgeführten Arten von Maßnahmen zu berücksichtigen. Die Maßnahmenprogramme enthalten auch
 
@@ -1056,8 +995,7 @@ Die Maßnahmen sollen dazu beitragen, dass die Meeresgewässer anderer Mitglieds
 
 (6) Die zuständige Behörde legt abweichend von Absatz 1 Satz 1 und Absatz 5 einen früheren Zeitpunkt für die Aufstellung und Durchführung der Maßnahmenprogramme fest, wenn der Zustand des Meeresgewässers umgehend grenzüberschreitende Maßnahmen erfordert. In diesem Fall können auch über die bereits in einem aufgestellten Maßnahmenprogramm enthaltenen Maßnahmen hinaus zusätzliche oder weitergehende Maßnahmen bestimmt werden. Absatz 3 gilt entsprechend.
 
-
-## § 45i – Beteiligung der Öffentlichkeit
+# § 45i – Beteiligung der Öffentlichkeit
 
 (1) Die zuständige Behörde veröffentlicht
 
@@ -1079,25 +1017,21 @@ Innerhalb von sechs Monaten nach der Veröffentlichung kann die Öffentlichkeit 
 
 (4) § 85 gilt entsprechend für die in Absatz 1 Satz 1 bezeichneten Maßnahmen.
 
-
-## § 45j – Überprüfung und Aktualisierung
+# § 45j – Überprüfung und Aktualisierung
 
 Die Anfangsbewertung nach § 45c Absatz 1, die Beschreibung des guten Zustands der Meeresgewässer nach § 45d Satz 1, die nach § 45e Satz 1 festgelegten Ziele, die Überwachungsprogramme nach § 45f Absatz 1 sowie die Maßnahmenprogramme nach § 45h Absatz 1 sind alle sechs Jahre zu überprüfen und, soweit erforderlich, zu aktualisieren.
 
-
-## § 45k – Koordinierung
+# § 45k – Koordinierung
 
 (1) Um die Bewirtschaftungsziele nach § 45a zu erreichen, koordinieren die zuständigen Behörden, einschließlich der zuständigen Behörden der betroffenen Binnenländer, die Maßnahmen nach den §§ 45c bis 45h sowohl untereinander als auch mit den zuständigen Behörden im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels sowie mit den zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union. Die zuständigen Behörden bemühen sich um eine dem Satz 1 entsprechende Koordinierung mit den zuständigen Behörden von Staaten, die nicht der Europäischen Union angehören. Die zuständigen Behörden sollen die Organisationseinheiten internationaler Meeresübereinkommen und internationaler Flussgebietsübereinkommen nutzen. Für die Koordinierung nach den Sätzen 1 bis 3 gilt § 7 Absatz 4 Satz 2 entsprechend.
 
 (2) Ergreifen andere Mitgliedstaaten der Europäischen Union Maßnahmen nach der Richtlinie 2008/56/EG, wirken die zuständigen Behörden hieran auch insoweit mit, als diese Maßnahmen im Zusammenhang damit stehen, dass der Oberflächenabfluss einer Flussgebietseinheit in das Meeresgewässer gelangt, für das die Maßnahmen ergriffen werden. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-
-## § 45l – Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
+# § 45l – Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zuständigkeit von Bundesbehörden im Geschäftsbereich der genannten Bundesministerien für die Durchführung der Vorschriften dieses Abschnitts und der auf Grund des § 23 für Meeresgewässer erlassenen Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels sowie das Zusammenwirken von Bundesbehörden bei der Durchführung dieser Vorschriften in diesem Bereich zu regeln.
 
-
-## § 46 – Erlaubnisfreie Benutzungen des Grundwassers
+# § 46 – Erlaubnisfreie Benutzungen des Grundwassers
 
 (1) Keiner Erlaubnis oder Bewilligung bedarf das Entnehmen, Zutagefördern, Zutageleiten oder Ableiten von Grundwasser
 
@@ -1111,8 +1045,7 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 (3) Durch Landesrecht kann bestimmt werden, dass weitere Fälle von der Erlaubnis- oder Bewilligungspflicht ausgenommen sind oder eine Erlaubnis oder eine Bewilligung in den Fällen der Absätze 1 und 2 erforderlich ist.
 
-
-## § 47 – Bewirtschaftungsziele für das Grundwasser
+# § 47 – Bewirtschaftungsziele für das Grundwasser
 
 (1) Das Grundwasser ist so zu bewirtschaften, dass
 
@@ -1126,15 +1059,13 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 (3) Für Ausnahmen von den Bewirtschaftungszielen nach Absatz 1 gilt § 31 Absatz 1, 2 Satz 1 und Absatz 3 entsprechend. Für die Bewirtschaftungsziele nach Absatz 1 Nummer 3 gilt darüber hinaus § 30 entsprechend mit der Maßgabe, dass nach Satz 1 Nummer 4 der bestmögliche mengenmäßige und chemische Zustand des Grundwassers zu erreichen ist.
 
-
-## § 48 – Reinhaltung des Grundwassers
+# § 48 – Reinhaltung des Grundwassers
 
 (1) Eine Erlaubnis für das Einbringen und Einleiten von Stoffen in das Grundwasser darf nur erteilt werden, wenn eine nachteilige Veränderung der Wasserbeschaffenheit nicht zu besorgen ist. Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 3 kann auch festgelegt werden, unter welchen Voraussetzungen die Anforderung nach Satz 1, insbesondere im Hinblick auf die Begrenzung des Eintrags von Schadstoffen, als erfüllt gilt. Die Verordnung bedarf der Zustimmung des Bundestages. Die Zustimmung gilt als erteilt, wenn der Bundestag nicht innerhalb von drei Sitzungswochen nach Eingang der Vorlage der Bundesregierung die Zustimmung verweigert hat.
 
 (2) Stoffe dürfen nur so gelagert oder abgelagert werden, dass eine nachteilige Veränderung der Grundwasserbeschaffenheit nicht zu besorgen ist. Das Gleiche gilt für das Befördern von Flüssigkeiten und Gasen durch Rohrleitungen. Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-
-## § 49 – Erdaufschlüsse
+# § 49 – Erdaufschlüsse
 
 (1) Arbeiten, die so tief in den Boden eindringen, dass sie sich unmittelbar oder mittelbar auf die Bewegung, die Höhe oder die Beschaffenheit des Grundwassers auswirken können, sind der zuständigen Behörde einen Monat vor Beginn der Arbeiten anzuzeigen. Werden bei diesen Arbeiten Stoffe in das Grundwasser eingebracht, ist abweichend von § 8 Absatz 1 in Verbindung mit § 9 Absatz 1 Nummer 4 anstelle der Anzeige eine Erlaubnis nur erforderlich, wenn sich das Einbringen nachteilig auf die Grundwasserbeschaffenheit auswirken kann. Die zuständige Behörde kann für bestimmte Gebiete die Tiefe nach Satz 1 näher bestimmen.
 
@@ -1144,10 +1075,9 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 (4) Durch Landesrecht können abweichende Regelungen getroffen werden.
 
-§ 49 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 30 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__30.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
+§ 49 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 30 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__30.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
 
-
-## § 50 – Öffentliche Wasserversorgung
+# § 50 – Öffentliche Wasserversorgung
 
 (1) Die der Allgemeinheit dienende Wasserversorgung (öffentliche Wasserversorgung) ist eine Aufgabe der Daseinsvorsorge.
 
@@ -1159,8 +1089,7 @@ soweit keine signifikanten nachteiligen Auswirkungen auf den Wasserhaushalt zu b
 
 (5) Durch Rechtsverordnung der Landesregierung oder durch Entscheidung der zuständigen Behörde können Träger der öffentlichen Wasserversorgung verpflichtet werden, auf ihre Kosten die Beschaffenheit des für Zwecke der öffentlichen Wasserversorgung gewonnenen oder gewinnbaren Wassers zu untersuchen oder durch eine von ihr bestimmte Stelle untersuchen zu lassen. Insbesondere können Art, Umfang und Häufigkeit der Untersuchungen sowie die Übermittlung der Untersuchungsergebnisse näher geregelt werden. Die Landesregierung kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf andere Landesbehörden übertragen.
 
-
-## § 51 – Festsetzung von Wasserschutzgebieten
+# § 51 – Festsetzung von Wasserschutzgebieten
 
 (1) Soweit es das Wohl der Allgemeinheit erfordert,
 
@@ -1174,10 +1103,9 @@ kann die Landesregierung durch Rechtsverordnung Wasserschutzgebiete festsetzen. 
 
 (2) Trinkwasserschutzgebiete sollen nach Maßgabe der allgemein anerkannten Regeln der Technik in Zonen mit unterschiedlichen Schutzbestimmungen unterteilt werden.
 
-§ 51 Abs. 1 Satz 1 Nr. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 31 Abs. 3 u. 4 Bayerisches Wassergesetz (BayWG)](../abweichendes_Landesrecht/wasg_by__31.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBl 2010, 66, 2012, 40, BayRS 753-1-UG, dieser Art. geändert durch § 1 Nr. 1 G v. 16.2.2012, mWv 29.2.2012 (vgl. BGBl. I 2012, 2176)
+§ 51 Abs. 1 Satz 1 Nr. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 31 Abs. 3 u. 4 Bayerisches Wassergesetz (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__31.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBl 2010, 66, 2012, 40, BayRS 753-1-UG, dieser Art. geändert durch § 1 Nr. 1 G v. 16.2.2012, mWv 29.2.2012 (vgl. BGBl. I 2012, 2176)
 
-
-## § 52 – Besondere Anforderungen in Wasserschutzgebieten
+# § 52 – Besondere Anforderungen in Wasserschutzgebieten
 
 (1) In der Rechtsverordnung nach § 51 Absatz 1 oder durch behördliche Entscheidung können in Wasserschutzgebieten, soweit der Schutzzweck dies erfordert,
 
@@ -1203,15 +1131,14 @@ Die zuständige Behörde kann von Verboten, Beschränkungen sowie Duldungs- und 
 
 (5) Setzt eine Anordnung nach Absatz 1 Satz 1 Nummer 1 oder Nummer 2, auch in Verbindung mit Absatz 2 oder Absatz 3, erhöhte Anforderungen fest, die die ordnungsgemäße land- oder forstwirtschaftliche Nutzung eines Grundstücks einschränken, so ist für die dadurch verursachten wirtschaftlichen Nachteile ein angemessener Ausgleich zu leisten, soweit nicht eine Entschädigungspflicht nach Absatz 4 besteht.
 
-§ 52 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 52 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 92 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__92.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
-§ 52 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 74 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](../abweichendes_Landesrecht/wasg_st__74.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 568)  
-§ 52 Abs. 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 52 Abs. 3 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 52 Abs. 5 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 32 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__32.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); geänderte Abweichung durch [Art. 32 Satz 1 Nr. 2 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__32.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-UG, dieser Art. geändert durch § 1 Nr. 2 G v. 16.2.2012 GVBl 2010, 40, mWv 29.2.2012 (vgl. BGBl. I 2012, 2176); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
+§ 52 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 52 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 92 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__92.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
+§ 52 Abs. 1 Satz 1 idF d. G v. 31.7.2009 I 2585: Sachsen-Anhalt - Abweichung durch [§ 74 des Wassergesetzes für das Land Sachsen-Anhalt (WG LSA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_st__74.html "Anzeige in neuem Fenster") v. 16.3.2011 GVBl. LSA S. 492 mWv 1.4.2011 (vgl. BGBl. I 2011, 568)  
+§ 52 Abs. 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 52 Abs. 3 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 54 Abs. 3 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__54.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 52 Abs. 5 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 32 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__32.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); geänderte Abweichung durch [Art. 32 Satz 1 Nr. 2 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__32.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-UG, dieser Art. geändert durch § 1 Nr. 2 G v. 16.2.2012 GVBl 2010, 40, mWv 29.2.2012 (vgl. BGBl. I 2012, 2176); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
 
-
-## § 53 – Heilquellenschutz
+# § 53 – Heilquellenschutz
 
 (1) Heilquellen sind natürlich zu Tage tretende oder künstlich erschlossene Wasser- oder Gasvorkommen, die auf Grund ihrer chemischen Zusammensetzung, ihrer physikalischen Eigenschaften oder der Erfahrung nach geeignet sind, Heilzwecken zu dienen.
 
@@ -1223,11 +1150,10 @@ Die zuständige Behörde kann von Verboten, Beschränkungen sowie Duldungs- und 
 
 (5) § 51 Absatz 2 und § 52 gelten entsprechend.
 
-§ 53 Abs. 1 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 47 Abs. 1 des Sächsischen Wassergesetzes (SächsWG)](../abweichendes_Landesrecht/wasg_sn__47.html "Anzeige in neuem Fenster") v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)  
-§ 53 Abs. 5 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 55 Abs. 4 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__55.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)
+§ 53 Abs. 1 idF d. G v. 31.7.2009 I 2585: Sachsen - Abweichung durch [§ 47 Abs. 1 des Sächsischen Wassergesetzes (SächsWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sn__47.html "Anzeige in neuem Fenster") v. 12.7.2013 SächsGVBl. S. 503 mWv 8.8.2013 (vgl. BGBl. I 2014, 112)  
+§ 53 Abs. 5 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 55 Abs. 4 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__55.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)
 
-
-## § 54 – Begriffsbestimmungen für die Abwasserbeseitigung
+# § 54 – Begriffsbestimmungen für die Abwasserbeseitigung
 
 (1) Abwasser ist
 
@@ -1257,8 +1183,7 @@ Als Schmutzwasser gelten auch die aus Anlagen zum Behandeln, Lagern und Ablagern
 
 (6) Die mit den besten verfügbaren Techniken assoziierten Emissionswerte sind der Bereich von Emissionswerten, die unter normalen Betriebsbedingungen unter Verwendung einer besten verfügbaren Technik oder einer Kombination von besten verfügbaren Techniken entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt werden, ausgedrückt als Mittelwert für einen vorgegebenen Zeitraum unter spezifischen Referenzbedingungen.
 
-
-## § 55 – Grundsätze der Abwasserbeseitigung
+# § 55 – Grundsätze der Abwasserbeseitigung
 
 (1) Abwasser ist so zu beseitigen, dass das Wohl der Allgemeinheit nicht beeinträchtigt wird. Dem Wohl der Allgemeinheit kann auch die Beseitigung von häuslichem Abwasser durch dezentrale Anlagen entsprechen.
 
@@ -1266,13 +1191,11 @@ Als Schmutzwasser gelten auch die aus Anlagen zum Behandeln, Lagern und Ablagern
 
 (3) Flüssige Stoffe, die kein Abwasser sind, können mit Abwasser beseitigt werden, wenn eine solche Entsorgung der Stoffe umweltverträglicher ist als eine Entsorgung als Abfall und wasserwirtschaftliche Belange nicht entgegenstehen.
 
-
-## § 56 – Pflicht zur Abwasserbeseitigung
+# § 56 – Pflicht zur Abwasserbeseitigung
 
 Abwasser ist von den juristischen Personen des öffentlichen Rechts zu beseitigen, die nach Landesrecht hierzu verpflichtet sind (Abwasserbeseitigungspflichtige). Die Länder können bestimmen, unter welchen Voraussetzungen die Abwasserbeseitigung anderen als den in Satz 1 genannten Abwasserbeseitigungspflichtigen obliegt. Die zur Abwasserbeseitigung Verpflichteten können sich zur Erfüllung ihrer Pflichten Dritter bedienen.
 
-
-## § 57 – Einleiten von Abwasser in Gewässer
+# § 57 – Einleiten von Abwasser in Gewässer
 
 (1) Eine Erlaubnis für das Einleiten von Abwasser in Gewässer (Direkteinleitung) darf nur erteilt werden, wenn
 
@@ -1296,8 +1219,7 @@ Sollte die Anpassung der Abwassereinleitung an die nach Satz 1 Nummer 1 geänder
 
 (5) Entsprechen vorhandene Einleitungen, die nicht unter die Absätze 3 bis 4 fallen, nicht den Anforderungen nach Absatz 2, auch in Verbindung mit Satz 2, oder entsprechenden Anforderungen der Abwasserverordnung in ihrer am 28. Februar 2010 geltenden Fassung, so hat der Betreiber die erforderlichen Anpassungsmaßnahmen innerhalb angemessener Fristen durchzuführen; Absatz 4 Satz 1 Nummer 2 zweiter Halbsatz gilt entsprechend. Für Einleitungen nach Satz 1 sind in der Rechtsverordnung nach Absatz 2 Satz 1 abweichende Anforderungen festzulegen, soweit die erforderlichen Anpassungsmaßnahmen unverhältnismäßig wären.
 
-
-## § 58 – Einleiten von Abwasser in öffentliche Abwasseranlagen
+# § 58 – Einleiten von Abwasser in öffentliche Abwasseranlagen
 
 (1) Das Einleiten von Abwasser in öffentliche Abwasseranlagen (Indirekteinleitung) bedarf der Genehmigung durch die zuständige Behörde, soweit an das Abwasser in der Abwasserverordnung in ihrer jeweils geltenden Fassung Anforderungen für den Ort des Anfalls des Abwassers oder vor seiner Vermischung festgelegt sind. Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 5, 8 und 10 kann bestimmt werden,
 
@@ -1319,15 +1241,13 @@ Weitergehende Rechtsvorschriften der Länder, die den Maßgaben des Satzes 2 ent
 
 (4) § 13 Absatz 1 und § 17 gelten entsprechend. Eine Genehmigung kann auch unter dem Vorbehalt des Widerrufs erteilt werden.
 
-
-## § 59 – Einleiten von Abwasser in private Abwasseranlagen
+# § 59 – Einleiten von Abwasser in private Abwasseranlagen
 
 (1) Dem Einleiten von Abwasser in öffentliche Abwasseranlagen stehen Abwassereinleitungen Dritter in private Abwasseranlagen, die der Beseitigung von gewerblichem Abwasser dienen, gleich.
 
 (2) Die zuständige Behörde kann Abwassereinleitungen nach Absatz 1 von der Genehmigungsbedürftigkeit nach Absatz 1 in Verbindung mit § 58 Absatz 1 freistellen, wenn durch vertragliche Regelungen zwischen dem Betreiber der privaten Abwasseranlage und dem Einleiter die Einhaltung der Anforderungen nach § 58 Absatz 2 sichergestellt ist.
 
-
-## § 60 – Abwasseranlagen
+# § 60 – Abwasseranlagen
 
 (1) Abwasseranlagen sind so zu errichten, zu betreiben und zu unterhalten, dass die Anforderungen an die Abwasserbeseitigung eingehalten werden. Im Übrigen müssen Abwasserbehandlungsanlagen im Sinne von Absatz 3 Satz 1 Nummer 2 und 3 nach dem Stand der Technik, andere Abwasseranlagen nach den allgemein anerkannten Regeln der Technik errichtet, betrieben und unterhalten werden.
 
@@ -1359,8 +1279,7 @@ Die Genehmigung ist zu versagen oder mit den notwendigen Nebenbestimmungen zu ve
 
 (7) Die Länder können regeln, dass die Errichtung, der Betrieb und die wesentliche Änderung von Abwasseranlagen, die nicht unter Absatz 3 fallen, einer Anzeige oder Genehmigung bedürfen. Genehmigungserfordernisse nach anderen öffentlich-rechtlichen Vorschriften bleiben unberührt.
 
-
-## § 61 – Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen
+# § 61 – Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen
 
 (1) Wer Abwasser in ein Gewässer oder in eine Abwasseranlage einleitet, ist verpflichtet, das Abwasser nach Maßgabe einer Rechtsverordnung nach Absatz 3 oder der die Abwassereinleitung zulassenden behördlichen Entscheidung durch fachkundiges Personal zu untersuchen oder durch eine geeignete Stelle untersuchen zu lassen (Selbstüberwachung).
 
@@ -1368,8 +1287,7 @@ Die Genehmigung ist zu versagen oder mit den notwendigen Nebenbestimmungen zu ve
 
 (3) Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 8, 9 und 11 können insbesondere Regelungen über die Ermittlung der Abwassermenge, die Häufigkeit und die Durchführung von Probenahmen, Messungen und Analysen einschließlich der Qualitätssicherung, Aufzeichnungs- und Aufbewahrungspflichten sowie die Voraussetzungen getroffen werden, nach denen keine Pflicht zur Selbstüberwachung besteht.
 
-
-## § 62 – Anforderungen an den Umgang mit wassergefährdenden Stoffen
+# § 62 – Anforderungen an den Umgang mit wassergefährdenden Stoffen
 
 (1) Anlagen zum Lagern, Abfüllen, Herstellen und Behandeln wassergefährdender Stoffe sowie Anlagen zum Verwenden wassergefährdender Stoffe im Bereich der gewerblichen Wirtschaft und im Bereich öffentlicher Einrichtungen müssen so beschaffen sein und so errichtet, unterhalten, betrieben und stillgelegt werden, dass eine nachteilige Veränderung der Eigenschaften von Gewässern nicht zu besorgen ist. Das Gleiche gilt für Rohrleitungsanlagen, die
 
@@ -1411,13 +1329,11 @@ Für Anlagen zum Umschlagen wassergefährdender Stoffe sowie zum Lagern und Abf�
 
 (7) Das Umweltbundesamt erhebt für in einer Rechtsverordnung nach Absatz 4 Nummer 1 aufgeführte individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und die Auslagenerstattung für individuell zurechenbare öffentliche Leistungen nach Satz 1 zu bestimmen. Die zu erstattenden Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
 
-
-## § 62a – Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen
+# § 62a – Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erarbeitet im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft ein nationales Aktionsprogramm im Sinne des Artikels 5 Absatz 1 in Verbindung mit Absatz 4 Buchstabe b, Artikel 4 Absatz 1 Buchstabe a und Anhang II Buchstabe A Nummer 5 der Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist. Dieses enthält insbesondere Angaben zur Beschaffenheit, zur Lage, zur Errichtung und zum Betrieb von Anlagen zum Lagern und Abfüllen von Jauche, Gülle und Silagesickersäften sowie von vergleichbaren in der Landwirtschaft anfallenden Stoffen. Zu dem Entwurf des Aktionsprogramms sowie zu Entwürfen zur Änderung des Aktionsprogramms wird eine Strategische Umweltprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung durchgeführt. Das Aktionsprogramm und seine Änderungen sind bei Erlass der Rechtsverordnung auf Grund des § 23 Absatz 1 Nummer 5 bis 11 in Verbindung mit § 62 Absatz 4 zu berücksichtigen.
 
-
-## § 63 – Eignungsfeststellung
+# § 63 – Eignungsfeststellung
 
 (1) Anlagen zum Lagern, Abfüllen oder Umschlagen wassergefährdender Stoffe dürfen nur errichtet, betrieben und wesentlich geändert werden, wenn ihre Eignung von der zuständigen Behörde festgestellt worden ist. § 13 Absatz 1 und § 17 gelten entsprechend.
 
@@ -1463,8 +1379,7 @@ Entsprechen bei Bauprodukten nach Satz 1 Nummer 1 die erklärten Leistungen nich
 
 (5) Bei serienmäßig hergestellten Bauprodukten, die nicht unter Absatz 4 Satz 1 Nummer 1 fallen, sowie bei Anlagenteilen, die aus Bauprodukten zusammengefügt werden, stehen den Verwendbarkeitsnachweisen nach Absatz 4 Satz 1 Nummer 2 sowie den Bauartgenehmigungen oder allgemeinen bauaufsichtlichen Zulassungen nach Absatz 4 Satz 1 Nummer 3 Zulassungen aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei gleich, wenn mit den Zulassungen dauerhaft das gleiche Schutzniveau erreicht wird. Das Ergebnis von Prüfungen von Anlagenteilen nach Satz 1, die bereits in einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei vorgenommen worden sind, ist bei der Eignungsfeststellung zu berücksichtigen.
 
-
-## § 64 – Bestellung von Gewässerschutzbeauftragten
+# § 64 – Bestellung von Gewässerschutzbeauftragten
 
 (1) Gewässerbenutzer, die an einem Tag mehr als 750 Kubikmeter Abwasser einleiten dürfen, haben unverzüglich einen oder mehrere Betriebsbeauftragte für Gewässerschutz (Gewässerschutzbeauftragte) zu bestellen.
 
@@ -1482,12 +1397,11 @@ einen oder mehrere Gewässerschutzbeauftragte zu bestellen haben.
 
 (3) Ist nach § 53 des Bundes-Immissionsschutzgesetzes ein Immissionsschutzbeauftragter oder nach § 59 des Kreislaufwirtschaftsgesetzes ein Abfallbeauftragter zu bestellen, so kann dieser auch die Aufgaben und Pflichten eines Gewässerschutzbeauftragten nach diesem Gesetz wahrnehmen.
 
-§ 64 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 38 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__38.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
-§ 64 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 66 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__66.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
-§ 64 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 66 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__66.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)
+§ 64 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 38 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__38.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
+§ 64 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 66 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__66.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 64 Abs. 1 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 66 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__66.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)
 
-
-## § 65 – Aufgaben von Gewässerschutzbeauftragten
+# § 65 – Aufgaben von Gewässerschutzbeauftragten
 
 (1) Gewässerschutzbeauftragte beraten den Gewässerbenutzer und die Betriebsangehörigen in Angelegenheiten, die für den Gewässerschutz bedeutsam sein können. Sie sind berechtigt und verpflichtet,
 
@@ -1515,20 +1429,17 @@ hinzuwirken;
 
 3. einschränken, wenn dadurch die ordnungsgemäße Selbstüberwachung nicht beeinträchtigt wird.
 
-
-## § 66 – Weitere anwendbare Vorschriften
+# § 66 – Weitere anwendbare Vorschriften
 
 Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauftragten finden die §§ 55 bis 58 des Bundes-Immissionsschutzgesetzes entsprechende Anwendung.
 
-
-## § 67 – Grundsatz, Begriffsbestimmung
+# § 67 – Grundsatz, Begriffsbestimmung
 
 (1) Gewässer sind so auszubauen, dass natürliche Rückhalteflächen erhalten bleiben, das natürliche Abflussverhalten nicht wesentlich verändert wird, naturraumtypische Lebensgemeinschaften bewahrt und sonstige nachteilige Veränderungen des Zustands des Gewässers vermieden oder, soweit dies nicht möglich ist, ausgeglichen werden.
 
 (2) Gewässerausbau ist die Herstellung, die Beseitigung und die wesentliche Umgestaltung eines Gewässers oder seiner Ufer. Ein Gewässerausbau liegt nicht vor, wenn ein Gewässer nur für einen begrenzten Zeitraum entsteht und der Wasserhaushalt dadurch nicht erheblich beeinträchtigt wird. Deich- und Dammbauten, die den Hochwasserabfluss beeinflussen, sowie Bauten des Küstenschutzes stehen dem Gewässerausbau gleich.
 
-
-## § 68 – Planfeststellung, Plangenehmigung
+# § 68 – Planfeststellung, Plangenehmigung
 
 (1) Der Gewässerausbau bedarf der Planfeststellung durch die zuständige Behörde.
 
@@ -1540,15 +1451,13 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 
 2. andere Anforderungen nach diesem Gesetz oder sonstigen öffentlich-rechtlichen Vorschriften erfüllt werden.
 
-
-## § 69 – Abschnittsweise Zulassung, vorzeitiger Beginn
+# § 69 – Abschnittsweise Zulassung, vorzeitiger Beginn
 
 (1) Gewässerausbauten einschließlich notwendiger Folgemaßnahmen, die wegen ihres räumlichen oder zeitlichen Umfangs in selbständigen Abschnitten oder Stufen durchgeführt werden, können in entsprechenden Teilen zugelassen werden, wenn dadurch die erforderliche Einbeziehung der erheblichen Auswirkungen des gesamten Vorhabens auf die Umwelt nicht ganz oder teilweise unmöglich wird.
 
 (2) § 17 gilt entsprechend für die Zulassung des vorzeitigen Beginns in einem Planfeststellungsverfahren und einem Plangenehmigungsverfahren nach § 68.
 
-
-## § 70 – Anwendbare Vorschriften, Verfahren
+# § 70 – Anwendbare Vorschriften, Verfahren
 
 (1) Für die Planfeststellung und die Plangenehmigung gelten § 13 Absatz 1 und § 14 Absatz 3 bis 6 entsprechend; im Übrigen gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes.
 
@@ -1556,17 +1465,16 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 
 (3) Erstreckt sich ein beabsichtigter Ausbau auf ein Gewässer, das der Verwaltung mehrerer Länder untersteht, und ist ein Einvernehmen über den Ausbauplan nicht zu erreichen, so soll die Bundesregierung auf Antrag eines beteiligten Landes zwischen den Ländern vermitteln.
 
-§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__69.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
-§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 109 Abs. 1, 2 u. 3 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__109.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
-§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Hessen - Abweichung durch [§ 8 Abs. 1 u. § 43 Abs. 1 des Hessischen Wassergesetzes (HWG)](../abweichendes_Landesrecht/wasg_he__8_43.html "Anzeige in neuem Fenster") v. 14.12.2010 GVBl. I S. 548 mWv 24.12.2010 (vgl. BGBl. I 2011, 607)  
-§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 55 des Bremischen Wassergesetzes (BremWG)](../abweichendes_Landesrecht/wasg_br__55.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
-§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](../abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 (vgl. BGBl. I 2011, 1011, 1047)  
-§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 126 Abs. 1 Satz 1 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](../abweichendes_Landesrecht/wasg_sh__126.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
-§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 107 Landeswassergesetz Rheinland-Pfalz (LWG)](../abweichendes_Landesrecht/wasg_rp__107.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
+§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 69 Satz 1 u. 2 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__69.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)  
+§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 109 Abs. 1, 2 u. 3 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__109.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)  
+§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Hessen - Abweichung durch [§ 8 Abs. 1 u. § 43 Abs. 1 des Hessischen Wassergesetzes (HWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_he__8_43.html "Anzeige in neuem Fenster") v. 14.12.2010 GVBl. I S. 548 mWv 24.12.2010 (vgl. BGBl. I 2011, 607)  
+§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 55 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__55.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 mWv 29.4.2011 (vgl. BGBl. I 2011, 1011, 1047)  
+§ 70 Abs. 1 idF d. G v. 31.7.2009 I 2585: Bremen - Abweichung durch [§ 96 Abs. 1 des Bremischen Wassergesetzes (BremWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_br__96.html "Anzeige in neuem Fenster") v. 29.4.2011 Brem.GBl. S. 262 (vgl. BGBl. I 2011, 1011, 1047)  
+§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [§ 126 Abs. 1 Satz 1 des Wassergesetzes des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__126.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2009 I 2585: Rheinland-Pfalz - Abweichung durch [§ 107 Landeswassergesetz Rheinland-Pfalz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_rp__107.html "Anzeige in neuem Fenster") v. 14.7.2015 GVBl. S. 127 mWv 30.7.2015 (vgl. BGBl. I 2016, 715)  
 § 70 Abs. 1 Halbsatz 2 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch § 84 Abs. 1 Satz 1 Landeswassergesetz (LWG SH) v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
-
-## § 71 – Enteignungsrechtliche Regelungen
+# § 71 – Enteignungsrechtliche Regelungen
 
 (1) Dient der Gewässerausbau dem Wohl der Allgemeinheit, so kann bei der Feststellung des Plans bestimmt werden, dass für seine Durchführung die Enteignung zulässig ist. Satz 1 gilt für die Plangenehmigung entsprechend, wenn Rechte anderer nur unwesentlich beeinträchtigt werden. In den Fällen der Sätze 1 und 2 ist die Feststellung der Zulässigkeit der Enteignung nicht selbständig anfechtbar.
 
@@ -1576,10 +1484,9 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 
 (4) Im Übrigen gelten die Enteignungsgesetze der Länder.
 
-§ 71 Abs. 1 Satz 1 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 85 Abs. 1 Satz 1 Landeswassergesetz (LWG)](../abweichendes_Landesrecht/wasg_sh__85.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
+§ 71 Abs. 1 Satz 1 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 85 Abs. 1 Satz 1 Landeswassergesetz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__85.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
-
-## § 71a – Vorzeitige Besitzeinweisung
+# § 71a – Vorzeitige Besitzeinweisung
 
 (1) Die zuständige Behörde hat den Träger eines Vorhabens zum Küsten- oder Hochwasserschutz auf Antrag nach der Feststellung des Plans oder nach der Erteilung der Plangenehmigung in den Besitz einzuweisen, wenn
 
@@ -1593,15 +1500,13 @@ Auf das Verhältnis zwischen dem Gewässerbenutzer und den Gewässerschutzbeauft
 
 (3) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
 
-§ 71a idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 85 Landeswassergesetz (LWG)](../abweichendes_Landesrecht/wasg_sh__85.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
+§ 71a idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 85 Landeswassergesetz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__85.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
-
-## § 72 – Hochwasser
+# § 72 – Hochwasser
 
 Hochwasser ist eine zeitlich beschränkte Überschwemmung von normalerweise nicht mit Wasser bedecktem Land, insbesondere durch oberirdische Gewässer oder durch in Küstengebiete eindringendes Meerwasser. Davon ausgenommen sind Überschwemmungen aus Abwasseranlagen.
 
-
-## § 73 – Bewertung von Hochwasserrisiken, Risikogebiete
+# § 73 – Bewertung von Hochwasserrisiken, Risikogebiete
 
 (1) Die zuständigen Behörden bewerten das Hochwasserrisiko und bestimmen danach die Gebiete mit signifikantem Hochwasserrisiko (Risikogebiete). Hochwasserrisiko ist die Kombination der Wahrscheinlichkeit des Eintritts eines Hochwasserereignisses mit den möglichen nachteiligen Hochwasserfolgen für die menschliche Gesundheit, die Umwelt, das Kulturerbe, wirtschaftliche Tätigkeiten und erhebliche Sachwerte.
 
@@ -1619,8 +1524,7 @@ Hochwasser ist eine zeitlich beschränkte Überschwemmung von normalerweise nich
 
 (6) Die Risikobewertung und die Bestimmung der Risikogebiete nach Absatz 1 sowie die Entscheidungen und Maßnahmen nach Absatz 5 Satz 2 sind bis zum 22. Dezember 2018 und danach alle sechs Jahre zu überprüfen und erforderlichenfalls zu aktualisieren. Dabei ist den voraussichtlichen Auswirkungen des Klimawandels auf das Hochwasserrisiko Rechnung zu tragen.
 
-
-## § 74 – Gefahrenkarten und Risikokarten
+# § 74 – Gefahrenkarten und Risikokarten
 
 (1) Die zuständigen Behörden erstellen für die Risikogebiete in den nach § 73 Absatz 3 maßgebenden Bewirtschaftungseinheiten Gefahrenkarten und Risikokarten in dem Maßstab, der hierfür am besten geeignet ist.
 
@@ -1648,8 +1552,7 @@ Die Erstellung von Gefahrenkarten für ausreichend geschützte Küstengebiete un
 
 (6) Die Gefahrenkarten und Risikokarten sind bis zum 22. Dezember 2013 zu erstellen. Satz 1 gilt nicht, wenn bis zum 22. Dezember 2010 vergleichbare Karten vorliegen, deren Informationsgehalt den Anforderungen der Absätze 2 bis 4 entspricht. Alle Karten sind bis zum 22. Dezember 2019 und danach alle sechs Jahre zu überprüfen und erforderlichenfalls zu aktualisieren. Dabei umfasst die Überprüfung der Karten nach Satz 2 zum 22. Dezember 2019 auch ihre Übereinstimmung mit den Anforderungen der Absätze 2 und 4.
 
-
-## § 75 – Risikomanagementpläne
+# § 75 – Risikomanagementpläne
 
 (1) Die zuständigen Behörden stellen für die Risikogebiete auf der Grundlage der Gefahrenkarten und Risikokarten Risikomanagementpläne nach den Vorschriften der Absätze 2 bis 6 auf. § 7 Absatz 4 Satz 1 gilt entsprechend.
 
@@ -1663,8 +1566,7 @@ Die Erstellung von Gefahrenkarten für ausreichend geschützte Küstengebiete un
 
 (6) Die Risikomanagementpläne sind bis zum 22. Dezember 2015 zu erstellen. Satz 1 gilt nicht, wenn bis zum 22. Dezember 2010 vergleichbare Pläne vorliegen, deren Informationsgehalt den Anforderungen der Absätze 2 bis 4 entspricht. Alle Pläne sind bis zum 22. Dezember 2021 und danach alle sechs Jahre unter Berücksichtigung der voraussichtlichen Auswirkungen des Klimawandels auf das Hochwasserrisiko zu überprüfen und erforderlichenfalls zu aktualisieren. Dabei umfasst die Überprüfung der vergleichbaren Pläne im Sinne von Satz 2 zum 22. Dezember 2021 auch ihre Übereinstimmung mit den Anforderungen der Absätze 2 bis 4.
 
-
-## § 76 – Überschwemmungsgebiete an oberirdischen Gewässern
+# § 76 – Überschwemmungsgebiete an oberirdischen Gewässern
 
 (1) Überschwemmungsgebiete sind Gebiete zwischen oberirdischen Gewässern und Deichen oder Hochufern und sonstige Gebiete, die bei Hochwasser eines oberirdischen Gewässers überschwemmt oder durchflossen oder die für Hochwasserentlastung oder Rückhaltung beansprucht werden. Dies gilt nicht für Gebiete, die überwiegend von den Gezeiten beeinflusst sind, soweit durch Landesrecht nichts anderes bestimmt ist.
 
@@ -1680,8 +1582,7 @@ als Überschwemmungsgebiete fest. Gebiete nach Satz 1 Nummer 1 sind bis zum 22. 
 
 (4) Die Öffentlichkeit ist über die vorgesehene Festsetzung von Überschwemmungsgebieten zu informieren; ihr ist Gelegenheit zur Stellungnahme zu geben. Sie ist über die festgesetzten und vorläufig gesicherten Gebiete einschließlich der in ihnen geltenden Schutzbestimmungen sowie über die Maßnahmen zur Vermeidung von nachteiligen Hochwasserfolgen zu informieren.
 
-
-## § 77 – Rückhalteflächen, Bevorratung
+# § 77 – Rückhalteflächen, Bevorratung
 
 (1) Überschwemmungsgebiete im Sinne des § 76 sind in ihrer Funktion als Rückhalteflächen zu erhalten. Soweit überwiegende Gründe des Wohls der Allgemeinheit dem entgegenstehen, sind rechtzeitig die notwendigen Ausgleichsmaßnahmen zu treffen. Ausgleichsmaßnahmen nach Satz 2 können auch Maßnahmen mit dem Ziel des Küstenschutzes oder des Schutzes vor Hochwasser sein, die
 
@@ -1691,8 +1592,7 @@ als Überschwemmungsgebiete fest. Gebiete nach Satz 1 Nummer 1 sind bis zum 22. 
 
 (2) Frühere Überschwemmungsgebiete, die als Rückhalteflächen geeignet sind, sollen so weit wie möglich wiederhergestellt werden, wenn überwiegende Gründe des Wohls der Allgemeinheit dem nicht entgegenstehen.
 
-
-## § 78 – Bauliche Schutzvorschriften für festgesetzte Überschwemmungsgebiete
+# § 78 – Bauliche Schutzvorschriften für festgesetzte Überschwemmungsgebiete
 
 (1) In festgesetzten Überschwemmungsgebieten ist die Ausweisung neuer Baugebiete im Außenbereich in Bauleitplänen oder in sonstigen Satzungen nach dem Baugesetzbuch untersagt. Satz 1 gilt nicht, wenn die Ausweisung ausschließlich der Verbesserung des Hochwasserschutzes dient, sowie für Bauleitpläne für Häfen und Werften.
 
@@ -1758,8 +1658,7 @@ In den Fällen des Satzes 1 bedarf das Vorhaben einer Anzeige.
 
 (8) Für nach § 76 Absatz 3 ermittelte, in Kartenform dargestellte und vorläufig gesicherte Gebiete gelten die Absätze 1 bis 7 entsprechend.
 
-
-## § 78a – Sonstige Schutzvorschriften für festgesetzte Überschwemmungsgebiete
+# § 78a – Sonstige Schutzvorschriften für festgesetzte Überschwemmungsgebiete
 
 (1) In festgesetzten Überschwemmungsgebieten ist Folgendes untersagt:
 
@@ -1815,8 +1714,7 @@ Festlegungen nach Satz 1 können in Fällen der Eilbedürftigkeit auch durch beh
 
 (7) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
 
-
-## § 78b – Risikogebiete außerhalb von  Überschwemmungsgebieten
+# § 78b – Risikogebiete außerhalb von  Überschwemmungsgebieten
 
 (1) Risikogebiete außerhalb von Überschwemmungsgebieten sind Gebiete, für die nach § 74 Absatz 2 Gefahrenkarten zu erstellen sind und die nicht nach § 76 Absatz 2 oder Absatz 3 als Überschwemmungsgebiete festgesetzt sind oder vorläufig gesichert sind; dies gilt nicht für Gebiete, die überwiegend von den Gezeiten beeinflusst sind, soweit durch Landesrecht nichts anderes bestimmt ist. Für Risikogebiete außerhalb von Überschwemmungsgebieten gilt Folgendes:
 
@@ -1828,8 +1726,7 @@ Festlegungen nach Satz 1 können in Fällen der Eilbedürftigkeit auch durch beh
 
 § 78b Überschrift Kursivdruck: In der Änderungsanweisung als "Risikogebiete außerhalb von Überschwemmungsbieten" angegeben, wegen offensichtlicher Unrichtigkeit als "Risikogebiete außerhalb von Überschwemmungsgebieten" ausgeführt
 
-
-## § 78c – Heizölverbraucheranlagen in Überschwemmungsgebieten und in weiteren Risikogebieten
+# § 78c – Heizölverbraucheranlagen in Überschwemmungsgebieten und in weiteren Risikogebieten
 
 (1) Die Errichtung neuer Heizölverbraucheranlagen in festgesetzten und vorläufig gesicherten Überschwemmungsgebieten ist verboten. Die zuständige Behörde kann auf Antrag Ausnahmen von dem Verbot nach Satz 1 zulassen, wenn keine anderen weniger wassergefährdenden Energieträger zu wirtschaftlich vertretbaren Kosten zur Verfügung stehen und die Heizölverbraucheranlage hochwassersicher errichtet wird.
 
@@ -1837,8 +1734,7 @@ Festlegungen nach Satz 1 können in Fällen der Eilbedürftigkeit auch durch beh
 
 (3) Heizölverbraucheranlagen, die am 5. Januar 2018 in festgesetzten oder in vorläufig gesicherten Überschwemmungsgebieten vorhanden sind, sind vom Betreiber bis zum 5. Januar 2023 nach den allgemein anerkannten Regeln der Technik hochwassersicher nachzurüsten. Heizölverbraucheranlagen, die am 5. Januar 2018 in Gebieten nach § 78b Absatz 1 Satz 1 vorhanden sind, sind bis zum 5. Januar 2033 nach den allgemein anerkannten Regeln der Technik hochwassersicher nachzurüsten, soweit dies wirtschaftlich vertretbar ist. Sofern Heizölverbraucheranlagen wesentlich geändert werden, sind diese abweichend von den Sätzen 1 und 2 zum Änderungszeitpunkt hochwassersicher nachzurüsten.
 
-
-## § 78d – Hochwasserentstehungsgebiete
+# § 78d – Hochwasserentstehungsgebiete
 
 (1) Hochwasserentstehungsgebiete sind Gebiete, in denen bei Starkniederschlägen oder bei Schneeschmelze in kurzer Zeit starke oberirdische Abflüsse entstehen können, die zu einer Hochwassergefahr an oberirdischen Gewässern und damit zu einer erheblichen Gefahr für die öffentliche Sicherheit und Ordnung führen können.
 
@@ -1874,27 +1770,23 @@ Für den Ausgleich nach Satz 1 Nummer 2 gilt § 77 Absatz 1 Satz 3 Nummer 2 ents
 
 (7) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
 
-
-## § 79 – Information und aktive Beteiligung
+# § 79 – Information und aktive Beteiligung
 
 (1) Die zuständigen Behörden veröffentlichen die Bewertung nach § 73 Absatz 1, die Gefahrenkarten und Risikokarten nach § 74 Absatz 1 und die Risikomanagementpläne nach § 75 Absatz 1. Sie fördern eine aktive Beteiligung der interessierten Stellen bei der Aufstellung, Überprüfung und Aktualisierung der Risikomanagementpläne nach § 75 und koordinieren diese mit den Maßnahmen nach § 83 Absatz 4 und § 85.
 
 (2) Wie die zuständigen staatlichen Stellen und die Öffentlichkeit in den betroffenen Gebieten im Übrigen über Hochwassergefahren, geeignete Vorsorgemaßnahmen und Verhaltensregeln informiert und vor zu erwartendem Hochwasser rechtzeitig gewarnt werden, richtet sich nach den landesrechtlichen Vorschriften.
 
-
-## § 80 – Koordinierung
+# § 80 – Koordinierung
 
 (1) Gefahrenkarten und Risikokarten sind so zu erstellen, dass die darin dargestellten Informationen vereinbar sind mit den nach der Richtlinie 2000/60/EG vorgelegten relevanten Angaben, insbesondere nach Artikel 5 Absatz 1 in Verbindung mit Anhang II dieser Richtlinie. Die Informationen sollen mit den in Artikel 5 Absatz 2 der Richtlinie 2000/60/EG vorgesehenen Überprüfungen abgestimmt werden; sie können in diese einbezogen werden.
 
 (2) Die zuständigen Behörden koordinieren die Erstellung und die nach § 75 Absatz 6 Satz 3 erforderliche Aktualisierung der Risikomanagementpläne mit den Bewirtschaftungsplänen nach § 83. Die Risikomanagementpläne können in die Bewirtschaftungspläne einbezogen werden.
 
-
-## § 81 – Vermittlung durch die Bundesregierung
+# § 81 – Vermittlung durch die Bundesregierung
 
 Können sich die Länder bei der Zusammenarbeit im Rahmen dieses Abschnitts über eine Maßnahme des Hochwasserschutzes nicht einigen, vermittelt die Bundesregierung auf Antrag eines Landes zwischen den beteiligten Ländern.
 
-
-## § 82 – Maßnahmenprogramm
+# § 82 – Maßnahmenprogramm
 
 (1) Für jede Flussgebietseinheit ist nach Maßgabe der Absätze 2 bis 6 ein Maßnahmenprogramm aufzustellen, um die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31, 44 und 47 zu erreichen. Die Ziele der Raumordnung sind zu beachten; die Grundsätze und sonstigen Erfordernisse der Raumordnung sind zu berücksichtigen.
 
@@ -1908,10 +1800,9 @@ Können sich die Länder bei der Zusammenarbeit im Rahmen dieses Abschnitts übe
 
 (6) Grundlegende Maßnahmen nach Absatz 3 dürfen nicht zu einer zusätzlichen Verschmutzung der oberirdischen Gewässer, der Küstengewässer oder des Meeres führen, es sei denn, ihre Durchführung würde sich insgesamt günstiger auf die Umwelt auswirken. Die zuständige Behörde kann im Rahmen der §§ 47 und 48 auch die in Artikel 11 Absatz 3 Buchstabe j der Richtlinie 2000/60/EG genannten Einleitungen in das Grundwasser zulassen.
 
-§ 82 Abs. 5 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 117 Abs. 2 Satz 1 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__117.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
+§ 82 Abs. 5 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 117 Abs. 2 Satz 1 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__117.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 
-
-## § 83 – Bewirtschaftungsplan
+# § 83 – Bewirtschaftungsplan
 
 (1) Für jede Flussgebietseinheit ist nach Maßgabe der Absätze 2 bis 4 ein Bewirtschaftungsplan aufzustellen.
 
@@ -1945,20 +1836,17 @@ c) der Gründe dafür, dass bestimmte Wassernutzungen nach § 6a Absatz 2 nicht 
 
 Innerhalb von sechs Monaten nach der Veröffentlichung kann jede Person bei der zuständigen Behörde zu den in Satz 1 bezeichneten Unterlagen schriftlich oder elektronisch Stellung nehmen; hierauf ist in der Veröffentlichung hinzuweisen. Auf Antrag ist Zugang zu den bei der Aufstellung des Bewirtschaftungsplans herangezogenen Hintergrunddokumenten und -informationen zu gewähren. Die Sätze 1 bis 3 gelten auch für aktualisierende Bewirtschaftungspläne.
 
-
-## § 84 – Fristen für Maßnahmenprogramme und Bewirtschaftungspläne
+# § 84 – Fristen für Maßnahmenprogramme und Bewirtschaftungspläne
 
 (1) Maßnahmenprogramme und Bewirtschaftungspläne, die nach Maßgabe des Landesrechts vor dem 1. März 2010 aufzustellen waren, sind erstmals bis zum 22. Dezember 2015 sowie anschließend alle sechs Jahre zu überprüfen und, soweit erforderlich, zu aktualisieren.
 
 (2) Die im Maßnahmenprogramm aufgeführten Maßnahmen sind bis zum 22. Dezember 2012 durchzuführen. Neue oder im Rahmen eines aktualisierten Programms geänderte Maßnahmen sind innerhalb von drei Jahren durchzuführen, nachdem sie in das Programm aufgenommen worden sind.
 
-
-## § 85 – Aktive Beteiligung interessierter Stellen
+# § 85 – Aktive Beteiligung interessierter Stellen
 
 Die zuständigen Behörden fördern die aktive Beteiligung aller interessierten Stellen an der Aufstellung, Überprüfung und Aktualisierung der Maßnahmenprogramme und Bewirtschaftungspläne.
 
-
-## § 86 – Veränderungssperre zur Sicherung von Planungen
+# § 86 – Veränderungssperre zur Sicherung von Planungen
 
 (1) Zur Sicherung von Planungen für
 
@@ -1974,8 +1862,7 @@ kann die Landesregierung durch Rechtsverordnung Planungsgebiete festlegen, auf d
 
 (4) Von der Veränderungssperre können Ausnahmen zugelassen werden, wenn dem keine überwiegenden öffentlichen Belange entgegenstehen.
 
-
-## § 87 – Wasserbuch
+# § 87 – Wasserbuch
 
 (1) Über die Gewässer sind Wasserbücher zu führen.
 
@@ -1993,10 +1880,9 @@ Von der Eintragung von Zulassungen nach Satz 1 Nummer 1 kann in Fällen von unte
 
 (4) Eintragungen im Wasserbuch haben keine rechtsbegründende oder rechtsändernde Wirkung.
 
-§ 87 Abs. 2 Satz 1 Nr. 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 120 Abs. 3 Satz 2 des Niedersächsischen Wassergesetzes (NWG)](../abweichendes_Landesrecht/nwg_nd__120.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
+§ 87 Abs. 2 Satz 1 Nr. 1 idF d. G v. 31.7.2009 I 2585: Niedersachsen - Abweichung durch [§ 120 Abs. 3 Satz 2 des Niedersächsischen Wassergesetzes (NWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/nwg_nd__120.html "Anzeige in neuem Fenster") v. 19.2.2010 Nds. GVBl. S. 64 mWv 1.3.2010 (vgl. BGBl. I 2010, 970)
 
-
-## § 88 – Informationsbeschaffung und -übermittlung
+# § 88 – Informationsbeschaffung und -übermittlung
 
 (1) Die zuständige Behörde darf im Rahmen der ihr durch Gesetz oder Rechtsverordnung übertragenen Aufgaben Informationen einschließlich personenbezogener Daten erheben und verwenden, soweit dies zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union, zwischenstaatlichen Vereinbarungen oder innerstaatlichen Rechtsvorschriften auf dem Gebiet des Wasserhaushalts oder im Rahmen grenzüberschreitender Zusammenarbeit, insbesondere zur Koordinierung nach § 7 Absatz 2 bis 4, erforderlich ist. Zu den Aufgaben nach Satz 1 gehören insbesondere
 
@@ -2022,15 +1908,13 @@ Von der Eintragung von Zulassungen nach Satz 1 Nummer 1 kann in Fällen von unte
 
 (5) Die Bestimmungen zum Schutz personenbezogener Daten bleiben im Übrigen unberührt.
 
-
-## § 89 – Haftung für Änderungen der Wasserbeschaffenheit
+# § 89 – Haftung für Änderungen der Wasserbeschaffenheit
 
 (1) Wer in ein Gewässer Stoffe einbringt oder einleitet oder wer in anderer Weise auf ein Gewässer einwirkt und dadurch die Wasserbeschaffenheit nachteilig verändert, ist zum Ersatz des daraus einem anderen entstehenden Schadens verpflichtet. Haben mehrere auf das Gewässer eingewirkt, so haften sie als Gesamtschuldner.
 
 (2) Gelangen aus einer Anlage, die bestimmt ist, Stoffe herzustellen, zu verarbeiten, zu lagern, abzulagern, zu befördern oder wegzuleiten, derartige Stoffe in ein Gewässer, ohne in dieses eingebracht oder eingeleitet zu sein, und wird dadurch die Wasserbeschaffenheit nachteilig verändert, so ist der Betreiber der Anlage zum Ersatz des daraus einem anderen entstehenden Schadens verpflichtet. Absatz 1 Satz 2 gilt entsprechend. Die Ersatzpflicht tritt nicht ein, wenn der Schaden durch höhere Gewalt verursacht wird.
 
-
-## § 90 – Sanierung von Gewässerschäden
+# § 90 – Sanierung von Gewässerschäden
 
 (1) Eine Schädigung eines Gewässers im Sinne des Umweltschadensgesetzes ist jeder Schaden mit erheblichen nachteiligen Auswirkungen auf
 
@@ -2054,25 +1938,21 @@ ausgenommen sind nachteilige Auswirkungen, für die § 31 Absatz 2, auch in Verb
 
 (4) Weitergehende Vorschriften über Schädigungen oder sonstige Beeinträchtigungen von Gewässern und deren Sanierung bleiben unberührt.
 
-
-## § 91 – Gewässerkundliche Maßnahmen
+# § 91 – Gewässerkundliche Maßnahmen
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte von Grundstücken verpflichten, die Errichtung und den Betrieb von Messanlagen sowie die Durchführung von Probebohrungen und Pumpversuchen zu dulden, soweit dies der Ermittlung gewässerkundlicher Grundlagen dient, die für die Gewässerbewirtschaftung erforderlich sind. Entsteht durch eine Maßnahme nach Satz 1 ein Schaden am Grundstück, hat der Eigentümer gegen den Träger der gewässerkundlichen Maßnahme Anspruch auf Schadenersatz. Satz 2 gilt entsprechend für den Nutzungsberechtigten, wenn wegen des Schadens am Grundstück die Grundstücksnutzung beeinträchtigt wird.
 
-§ 91 Satz 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 62 Abs. 1 des Bayerischen Wassergesetzes (BayWG)](../abweichendes_Landesrecht/wasg_by__62.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
+§ 91 Satz 1 idF d. G v. 31.7.2009 I 2585: Bayern - Abweichung durch [Art. 62 Abs. 1 des Bayerischen Wassergesetzes (BayWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_by__62.html "Anzeige in neuem Fenster") v. 25.2.2010 GVBL S. 66, BayRS 753-1-UG mWv 1.3.2010 bis zum 29.2.2012 (vgl. BGBl. I 2010, 275); Befristung aufgeh. durch Art. 79 Abs. 1 des Bayerischen Wassergesetzes (BayWG) v. 25.2.2010 GVBl 2010, 66, BayRS 753-1-U idF d. § 1 Nr. 4 des Gesetzes zur Änderung des Bayerischen Wassergesetzes v. 16.2.2012 GVBl 2012, 40 mWv 29.2.2012 (vgl. BGBl. I 2015, 156)
 
-
-## § 92 – Veränderung oberirdischer Gewässer
+# § 92 – Veränderung oberirdischer Gewässer
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte oberirdischer Gewässer sowie der Grundstücke, deren Inanspruchnahme für die Durchführung des Vorhabens erforderlich ist, verpflichten, Gewässerveränderungen, insbesondere Vertiefungen und Verbreiterungen, zu dulden, die der Verbesserung des Wasserabflusses dienen und zur Entwässerung von Grundstücken, zur Abwasserbeseitigung oder zur besseren Ausnutzung einer Triebwerksanlage erforderlich sind. Satz 1 gilt nur, wenn das Vorhaben anders nicht ebenso zweckmäßig oder nur mit erheblichem Mehraufwand durchgeführt werden kann und der von dem Vorhaben zu erwartende Nutzen erheblich größer als der Nachteil des Betroffenen ist.
 
-
-## § 93 – Durchleitung von Wasser und Abwasser
+# § 93 – Durchleitung von Wasser und Abwasser
 
 Die zuständige Behörde kann Eigentümer und Nutzungsberechtigte von Grundstücken und oberirdischen Gewässern verpflichten, das Durchleiten von Wasser und Abwasser sowie die Errichtung und Unterhaltung der dazu dienenden Anlagen zu dulden, soweit dies zur Entwässerung oder Bewässerung von Grundstücken, zur Wasserversorgung, zur Abwasserbeseitigung, zum Betrieb einer Stauanlage oder zum Schutz vor oder zum Ausgleich von Beeinträchtigungen des Natur- oder Wasserhaushalts durch Wassermangel erforderlich ist. § 92 Satz 2 gilt entsprechend.
 
-
-## § 94 – Mitbenutzung von Anlagen
+# § 94 – Mitbenutzung von Anlagen
 
 (1) Die zuständige Behörde kann Betreiber einer Grundstücksentwässerungs-, Wasserversorgungs- oder Abwasseranlage verpflichten, deren Mitbenutzung einer anderen Person zu gestatten, wenn
 
@@ -2090,13 +1970,11 @@ Kommt eine Einigung über die Kostenteilung nach Satz 1 Nummer 4 nicht zustande,
 
 (3) Die Absätze 1 und 2 gelten auch für die Mitbenutzung von Grundstücksbewässerungsanlagen durch Eigentümer von Grundstücken, die nach § 93 zur Errichtung oder zum Betrieb der Anlage in Anspruch genommen werden.
 
-
-## § 95 – Entschädigung für Duldungs- und Gestattungsverpflichtungen
+# § 95 – Entschädigung für Duldungs- und Gestattungsverpflichtungen
 
 Soweit Duldungs- oder Gestattungsverpflichtungen nach den §§ 92 bis 94 das Eigentum unzumutbar beschränken, ist eine Entschädigung zu leisten.
 
-
-## § 96 – Art und Umfang von Entschädigungspflichten
+# § 96 – Art und Umfang von Entschädigungspflichten
 
 (1) Eine nach diesem Gesetz zu leistende Entschädigung hat den eintretenden Vermögensschaden angemessen auszugleichen. Soweit zum Zeitpunkt der behördlichen Anordnung, die die Entschädigungspflicht auslöst, Nutzungen gezogen werden, ist von dem Maß ihrer Beeinträchtigung auszugehen. Hat die anspruchsberechtigte Person Maßnahmen getroffen, um die Nutzungen zu steigern, und ist nachgewiesen, dass die Maßnahmen die Nutzungen nachhaltig gesteigert hätten, so ist dies zu berücksichtigen. Außerdem ist eine infolge der behördlichen Anordnung eingetretene Minderung des Verkehrswerts von Grundstücken zu berücksichtigen, soweit sie nicht nach Satz 2 oder Satz 3 bereits berücksichtigt ist.
 
@@ -2108,28 +1986,24 @@ Soweit Duldungs- oder Gestattungsverpflichtungen nach den §§ 92 bis 94 das Eig
 
 (5) Ist nach § 97 die begünstigte Person entschädigungspflichtig, kann die anspruchsberechtigte Person Sicherheitsleistung verlangen.
 
-
-## § 97 – Entschädigungspflichtige Person
+# § 97 – Entschädigungspflichtige Person
 
 Soweit sich aus diesem Gesetz nichts anderes ergibt, hat die Entschädigung zu leisten, wer unmittelbar durch den Vorgang begünstigt wird, der die Entschädigungspflicht auslöst. Sind mehrere unmittelbar begünstigt, so haften sie als Gesamtschuldner. Ist niemand unmittelbar begünstigt, so hat das Land die Entschädigung zu leisten. Lässt sich zu einem späteren Zeitpunkt eine begünstigte Person bestimmen, hat sie die aufgewandten Entschädigungsbeträge dem Land zu erstatten.
 
-
-## § 98 – Entschädigungsverfahren
+# § 98 – Entschädigungsverfahren
 
 (1) Über Ansprüche auf Entschädigung ist gleichzeitig mit der dem Anspruch zugrunde liegenden Anordnung zu entscheiden. Die Entscheidung kann auf die Pflicht zur Entschädigung dem Grunde nach beschränkt werden.
 
 (2) Vor der Festsetzung des Umfangs einer Entschädigung nach Absatz 1 hat die zuständige Behörde auf eine gütliche Einigung der Beteiligten hinzuwirken, wenn einer der Beteiligten dies beantragt. Kommt eine Einigung nicht zustande, so setzt die Behörde die Entschädigung fest.
 
-
-## § 99 – Ausgleich
+# § 99 – Ausgleich
 
 Ein Ausgleich nach § 52 Absatz 5 und § 78a Absatz 5 Satz 4 ist in Geld zu leisten. Im Übrigen gelten für einen Ausgleich nach Satz 1 § 96 Absatz 1 und 5 und § 97 entsprechend.
 
-§ 99 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [](../abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster")[§ 104 Wassergesetz des Landes Schleswig-Holstein (LWG)](../abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
-§ 99 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 104 Landeswassergesetz (LWG)](../abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
+§ 99 idF d. G v. 31.7.2009 I 2585: Schleswig-Holstein - Abweichung durch [](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster")[§ 104 Wassergesetz des Landes Schleswig-Holstein (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") idF d. G v. 19.3.2010 GVOBl. Schl.-H. S. 365 mWv 26.3.2010 (vgl. BGBl. I 2010, 1501)  
+§ 99 idF d. G v. 31.7.2019 I 2585: Schleswig-Holstein - Abweichung durch [§ 104 Landeswassergesetz (LWG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/wasg_sh__104.html "Anzeige in neuem Fenster") v. 13.11.2019 GVOBl. Schl.-H. S. 425 mWv 1.1.2020 (vgl. BGBl. I 2019, 2596)
 
-
-## § 99a – Vorkaufsrecht
+# § 99a – Vorkaufsrecht
 
 (1) Den Ländern steht ein Vorkaufsrecht an Grundstücken zu, die für Maßnahmen des Hochwasser- oder Küstenschutzes benötigt werden. Liegen die Merkmale des Satzes 1 nur bei einem Teil des Grundstücks vor, so erstreckt sich das Vorkaufsrecht nur auf diesen Grundstücksteil. Der Eigentümer kann verlangen, dass sich der Vorkauf auf das gesamte Grundstück erstreckt, wenn ihm der weitere Verbleib des anderen Grundstücksteils in seinem Eigentum wirtschaftlich nicht zuzumuten ist.
 
@@ -2143,15 +2017,13 @@ Ein Ausgleich nach § 52 Absatz 5 und § 78a Absatz 5 Satz 4 ist in Geld zu leis
 
 (6) Abweichende Rechtsvorschriften der Länder bleiben unberührt.
 
-
-## § 100 – Aufgaben der Gewässeraufsicht
+# § 100 – Aufgaben der Gewässeraufsicht
 
 (1) Aufgabe der Gewässeraufsicht ist es, die Gewässer sowie die Erfüllung der öffentlich-rechtlichen Verpflichtungen zu überwachen, die nach oder auf Grund von Vorschriften dieses Gesetzes, nach auf dieses Gesetz gestützten Rechtsverordnungen oder nach landesrechtlichen Vorschriften bestehen. Die zuständige Behörde ordnet nach pflichtgemäßem Ermessen die Maßnahmen an, die im Einzelfall notwendig sind, um Beeinträchtigungen des Wasserhaushalts zu vermeiden oder zu beseitigen oder die Erfüllung von Verpflichtungen nach Satz 1 sicherzustellen.
 
 (2) Auf Grund dieses Gesetzes und nach landesrechtlichen Vorschriften erteilte Zulassungen sind regelmäßig sowie aus besonderem Anlass zu überprüfen und, soweit erforderlich, anzupassen.
 
-
-## § 101 – Befugnisse der Gewässeraufsicht
+# § 101 – Befugnisse der Gewässeraufsicht
 
 (1) Bedienstete und Beauftragte der zuständigen Behörde sind im Rahmen der Gewässeraufsicht befugt,
 
@@ -2175,13 +2047,11 @@ Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) 
 
 (4) Für die zur Überwachung nach den Absätzen 1 und 2 zuständigen Behörden und ihre Bediensteten gelten die §§ 93, 97, 105 Absatz 1, § 111 Absatz 5 in Verbindung mit § 105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung nicht. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben der zur Auskunft verpflichteten Person oder der für sie tätigen Personen handelt.
 
-
-## § 102 – Gewässeraufsicht bei Anlagen und Einrichtungen der Verteidigung
+# § 102 – Gewässeraufsicht bei Anlagen und Einrichtungen der Verteidigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die Gewässeraufsicht im Sinne dieses Kapitels bei Anlagen und Einrichtungen, die der Verteidigung dienen, zum Geschäftsbereich des Bundesministeriums der Verteidigung gehörenden Stellen übertragen wird.
 
-
-## § 103 – Bußgeldvorschriften
+# § 103 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2211,8 +2081,7 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 7. entgegen § 50 Absatz 4, § 60 Absatz 1 Satz 2 oder § 62 Absatz 2 eine dort genannte Anlage errichtet, betreibt, unterhält oder stilllegt,
 
-7a.  
-einer Rechtsverordnung nach § 51 Absatz 1 Satz 1 in Verbindung mit
+7a. einer Rechtsverordnung nach § 51 Absatz 1 Satz 1 in Verbindung mit
 
 a) § 52 Absatz 1 Satz 1 Nummer 1, 2 Buchstabe a oder Buchstabe c oder Nummer 3 oder
 
@@ -2228,8 +2097,7 @@ b) § 52 Absatz 1 Satz 1 Nummer 2 Buchstabe b,
 
 jeweils auch in Verbindung mit § 52 Absatz 2 Satz 1 oder Absatz 3 oder § 53 Absatz 5, zuwiderhandelt,
 
-8a.  
-einer Rechtsverordnung nach § 53 Absatz 4 Satz 1 in Verbindung mit § 53 Absatz 5 in Verbindung mit
+8a. einer Rechtsverordnung nach § 53 Absatz 4 Satz 1 in Verbindung mit § 53 Absatz 5 in Verbindung mit
 
 a) § 52 Absatz 1 Satz 1 Nummer 1, 2 Buchstabe a oder Buchstabe c oder Nummer 3 oder
 
@@ -2253,8 +2121,7 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 16. entgegen § 78 Absatz 4 Satz 1, auch in Verbindung mit Absatz 8, eine dort genannte Anlage errichtet oder erweitert,
 
-16a.  
-einer Vorschrift des § 78a Absatz 1 Satz 1, auch in Verbindung mit Absatz 6, über eine untersagte Handlung in einem dort genannten Gebiet zuwiderhandelt,
+16a. einer Vorschrift des § 78a Absatz 1 Satz 1, auch in Verbindung mit Absatz 6, über eine untersagte Handlung in einem dort genannten Gebiet zuwiderhandelt,
 
 17. entgegen § 78a Absatz 3 einen Gegenstand nicht oder nicht rechtzeitig entfernt,
 
@@ -2268,15 +2135,13 @@ einer Vorschrift des § 78a Absatz 1 Satz 1, auch in Verbindung mit Absatz 6, ü
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1 bis 3 Buchstabe a, Nummer 4 bis 7, 7a Buchstabe a, Nummer 8 Buchstabe a, Nummer 8a Buchstabe a, Nummer 9, 10 und 12 bis 19 mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 104 – Überleitung bestehender Erlaubnisse und Bewilligungen
+# § 104 – Überleitung bestehender Erlaubnisse und Bewilligungen
 
 (1) Erlaubnisse, die vor dem 1. März 2010 nach § 7 des Wasserhaushaltsgesetzes erteilt worden sind, gelten als Erlaubnisse nach diesem Gesetz fort. Soweit landesrechtliche Vorschriften für bestimmte Erlaubnisse nach Satz 1 die Rechtsstellung ihrer Inhaber gegenüber Dritten regeln, gelten die Erlaubnisse nach den Vorschriften dieses Gesetzes über gehobene Erlaubnisse fort.
 
 (2) Bewilligungen, die vor dem 1. März 2010 nach § 8 des Wasserhaushaltsgesetzes erteilt worden sind, gelten als Bewilligungen nach diesem Gesetz fort.
 
-
-## § 104a – Ausnahmen von der Erlaubnispflicht bei bestehenden Anlagen zur untertägigen Ablagerung von Lagerstättenwasser
+# § 104a – Ausnahmen von der Erlaubnispflicht bei bestehenden Anlagen zur untertägigen Ablagerung von Lagerstättenwasser
 
 (1) Die Nutzung einer Anlage zur untertägigen Ablagerung von Lagerstättenwasser, das bei Maßnahmen nach § 9 Absatz 2 Nummer 3 oder bei anderen Maßnahmen zur Aufsuchung oder Gewinnung von Erdgas oder Erdöl anfällt, bedarf unbeschadet des Absatzes 2 keiner Erlaubnis nach § 8 Absatz 1, wenn die Anlage vor dem 11. Februar 2017 in Übereinstimmung mit einem bestandskräftig zugelassenen Betriebsplan nach § 52 des Bundesberggesetzes errichtet worden ist oder zu diesem Zeitpunkt ein bestandskräftig zugelassener Betriebsplan für die Anlage vorliegt. In diesen Fällen sind die sich aus § 13b Absatz 2 und 3 ergebenden Verpflichtungen in den jeweiligen Zulassungen von künftig gemäß § 52 Absatz 1 Satz 1 des Bundesberggesetzes aufzustellenden Hauptbetriebsplänen spätestens bis zum 11. Februar 2019 zu regeln. § 13b Absatz 4 gilt für den Unternehmer im Sinne von § 4 Absatz 5 des Bundesberggesetzes in diesen Fällen entsprechend.
 
@@ -2292,8 +2157,7 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Anlage nach Absatz 1 Satz 1 in 
 
 2. durch behördliche Entscheidung; § 52 Absatz 1 Satz 2 und 3, auch in Verbindung mit § 53 Absatz 5, gilt entsprechend.
 
-
-## § 105 – Überleitung bestehender sonstiger Zulassungen
+# § 105 – Überleitung bestehender sonstiger Zulassungen
 
 (1) Eine Zulassung für das Einleiten von Abwasser in öffentliche Abwasseranlagen, die vor dem 1. März 2010 erteilt worden ist, gilt als Genehmigung nach § 58 fort. Eine Zulassung für das Einleiten von Abwasser in private Abwasseranlagen, die vor dem 1. März 2010 erteilt worden ist, gilt als Genehmigung nach § 59 fort. Eine Genehmigung nach § 58 oder § 59 ist nicht erforderlich für Einleitungen von Abwasser in öffentliche oder private Abwasseranlagen, die vor dem 1. März 2010 begonnen haben, wenn die Einleitung nach dem am 28. Februar 2010 geltenden Landesrecht ohne Genehmigung zulässig war.
 
@@ -2303,8 +2167,7 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Anlage nach Absatz 1 Satz 1 in 
 
 (4) Ein Plan, der vor dem 1. März 2010 nach § 31 Absatz 2 oder Absatz 3 des Wasserhaushaltsgesetzes in der am 28. Februar 2010 geltenden Fassung oder nach landesrechtlichen Vorschriften festgestellt oder genehmigt worden ist, gilt jeweils als Planfeststellungsbeschluss oder als Plangenehmigung nach § 68 fort.
 
-
-## § 106 – Überleitung bestehender Schutzgebietsfestsetzungen
+# § 106 – Überleitung bestehender Schutzgebietsfestsetzungen
 
 (1) Vor dem 1. März 2010 festgesetzte Wasserschutzgebiete gelten als festgesetzte Wasserschutzgebiete im Sinne von § 51 Absatz 1.
 
@@ -2312,8 +2175,7 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Anlage nach Absatz 1 Satz 1 in 
 
 (3) Vor dem 1. März 2010 festgesetzte, als festgesetzt geltende oder vorläufig gesicherte Überschwemmungsgebiete gelten als festgesetzte oder vorläufig gesicherte Überschwemmungsgebiete im Sinne von § 76 Absatz 2 oder Absatz 3.
 
-
-## § 107 – Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen
+# § 107 – Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen
 
 (1) Eine Zulassung, die vor dem 2. Mai 2013 nach landesrechtlichen Vorschriften für Abwasserbehandlungsanlagen im Sinne des § 60 Absatz 3 Satz 1 Nummer 2 erteilt worden ist, gilt als Genehmigung nach § 60 Absatz 3 Satz 1 fort. Bis zum 7. Juli 2015 müssen alle in Satz 1 genannten Anlagen den Anforderungen nach § 60 Absatz 1 bis 3 entsprechen.
 
@@ -2327,8 +2189,7 @@ Die Sätze 1 und 2 gelten entsprechend, wenn die Anlage nach Absatz 1 Satz 1 in 
 
 Einleitungen aus bestehenden Anlagen nach Satz 1, die nicht von Anhang I der Richtlinie 2008/1/EG des Europäischen Parlaments und des Rates vom 15. Januar 2008 über die integrierte Vermeidung und Verminderung der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8), die durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert worden ist, erfasst wurden, haben abweichend von Satz 1 die dort genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
 
-
-## Anlage 1 – (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik
+# Anlage 1 – (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle: BGBl. I 2009, 2614;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2361,7 +2222,6 @@ Bei der Bestimmung des Standes der Technik sind unter Berücksichtigung der Verh
 
 13. Informationen, die in BVT-Merkblättern enthalten sind.
 
+# Anlage 2 – (zu § 7 Absatz 1 Satz 3)
 
-## Anlage 2 – (zu § 7 Absatz 1 Satz 3)
-
-![](../normengrafiken/bgbl1_2009/j2585-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j2585-1_0010.jpg)

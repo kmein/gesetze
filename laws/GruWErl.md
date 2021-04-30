@@ -1,20 +1,15 @@
-# [GruWErl] Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
-
-Ausfertigungsdatum: 14.07.1953
-
+% Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens
+% Ausfertigungsdatum: 14.07.1953
  
-
-## § 1
+# § 1
 
 Als Anerkennung für besondere persönliche Verdienste im Grubenrettungswesen stifte ich das Grubenwehr-Ehrenzeichen.
 
-
-## § 2
+# § 2
 
 Diese Auszeichnung wird als Grubenwehr-Ehrenzeichen in Silber und Grubenwehr-Ehrenzeichen in Gold verliehen.
 
-
-## § 3
+# § 3
 
 a) Mit dem Grubenwehr-Ehrenzeichen in Silber können ausgezeichnet werden:
 
@@ -32,8 +27,7 @@ b) Mit dem Grubenwehr-Ehrenzeichen in Gold können ausgezeichnet werden:
 
 3. Mitglieder einer Grubenwehr oder andere Bergleute, die bereits mit dem Grubenwehr-Ehrenzeichen in Silber ausgezeichnet sind, für wiederholtes mutiges und entschlossenes Verhalten beim Einsatz der Grubenwehr oder bei Rettungsarbeiten, sofern nicht die besondere Bedeutung der Rettungstat eine Auszeichnung mit dem Verdienstorden der Bundesrepublik Deutschland rechtfertigt.
 
-
-## § 4
+# § 4
 
 (1) Das Grubenwehr-Ehrenzeichen besteht aus einer runden silbernen oder goldenen Medaille. Die Vorderseite der Medaille zeigt auf gekreuztem Schlägel und Eisen das Kreuz der Grubenwehr und auf diesem den Bundesadler. Das Kreuz ist von einem Eichenblattkranz umgeben. Die Rückseite der Medaille trägt die Inschrift:
 
@@ -46,20 +40,17 @@ im Grubenrettungswesen".
 
 (3) Gestaltung und Größe der Medaillen sowie Breite der Bänder werden auf einer Mustertafel (s. Anlage) festgelegt.
 
-
-## § 5
+# § 5
 
 (1) Über die Verleihung des Grubenwehr-Ehrenzeichens erhält der Ausgezeichnete eine Verleihungsurkunde mit der Unterschrift des Bundespräsidenten.
 
 (2) Das Grubenwehr-Ehrenzeichen geht in das Eigentum des Beliehenen über. Eine Rückgabepflicht seiner Hinterbliebenen besteht nicht.
 
-
-## § 6
+# § 6
 
 Einzelheiten über die Einreichung und Behandlung der Vorschläge für das Grubenwehr-Ehrenzeichen werden in besonderen Durchführungsbestimmungen geregelt.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundespräsident  
 Der Bundeskanzler  

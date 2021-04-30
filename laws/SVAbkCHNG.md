@@ -1,20 +1,15 @@
-# [SVAbkCHNG] Gesetz zu dem Abkommen vom 12. Juli 2001 zwischen der Bundesrepublik Deutschland und der Volksrepublik China über Sozialversicherung
-
-Ausfertigungsdatum: 17.01.2002
-
+% Gesetz zu dem Abkommen vom 12. Juli 2001 zwischen der Bundesrepublik Deutschland und der Volksrepublik China über Sozialversicherung
+% Ausfertigungsdatum: 17.01.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Peking am 12. Juli 2001 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik China über Sozialversicherung wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -24,8 +19,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. die Zuständigkeit der Versicherungsträger oder anderer im Abkommen genannter Stellen und Behörden.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

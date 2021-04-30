@@ -1,10 +1,7 @@
-# [MBergG] Gesetz zur Regelung des Meeresbodenbergbaus  (Meeresbodenbergbaugesetz - MBergG)
-
-Ausfertigungsdatum: 06.06.1995
-
+% Gesetz zur Regelung des Meeresbodenbergbaus  (Meeresbodenbergbaugesetz - MBergG)
+% Ausfertigungsdatum: 06.06.1995
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es,
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 06.06.1995
 
 (3) Für Prospektoren und Vertragsnehmer gelten neben den Vorschriften des Übereinkommens, des Durchführungsübereinkommens, den Bestimmungen und Anordnungen der Behörde und den Regelungen der von ihnen mit der Behörde abgeschlossenen Verträge die Vorschriften dieses Gesetzes und der auf Grund von § 7 erlassenen Rechtsverordnungen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -73,13 +69,11 @@ jeder Antragsteller, der vom Landesamt befürwortet wurde und der mit der Behör
 
 jeder zwischen der Behörde und einem Vertragsnehmer abgeschlossene Vertrag über Tätigkeiten im Gebiet einschließlich des bestätigten Arbeitsplanes.
 
-
-## § 3 – Ausführung durch das Landesamt
+# § 3 – Ausführung durch das Landesamt
 
 Dieses Gesetz wird vom Landesamt für Bergbau, Energie und Geologie (LBEG) mit Sitz in Hannover und Clausthal-Zellerfeld als einem für diese Aufgabe vom Land Niedersachsen entliehenen Organ des Bundes ausgeführt. Das Landesamt unterliegt insoweit der Fach- und Rechtsaufsicht des Bundes.
 
-
-## § 4 – Zugangsbedingungen
+# § 4 – Zugangsbedingungen
 
 (1) Wer im Gebiet prospektieren will, bedarf der vorherigen Registrierung durch den Generalsekretär der Behörde. Der Prospektor hat die Registrierung dem Landesamt vor Beginn der Prospektion anzuzeigen.
 
@@ -113,8 +107,7 @@ c) glaubhaft macht, daß die im Gebiet geplanten Tätigkeiten wirtschaftlich dur
 
 (11) Die Befürwortung ist nicht übertragbar.
 
-
-## § 5 – Verantwortlichkeit
+# § 5 – Verantwortlichkeit
 
 Prospektoren und Vertragsnehmer sind verantwortlich für
 
@@ -124,8 +117,7 @@ Prospektoren und Vertragsnehmer sind verantwortlich für
 
 3. den Umweltschutz bei einer Prospektion oder Tätigkeit im Gebiet.
 
-
-## § 6 – Verantwortliche Personen
+# § 6 – Verantwortliche Personen
 
 (1) Prospektoren und Vertragsnehmer sind verpflichtet,
 
@@ -141,15 +133,13 @@ Die zur Leitung und Beaufsichtigung der Prospektion oder der Tätigkeiten im Geb
 
 (2) Die Bestellung verantwortlicher Personen gemäß Absatz 1 hebt die Verantwortlichkeit von Prospektoren und Vertragsnehmern gemäß § 5 nicht auf.
 
-
-## § 7 – Ermächtigung zum Erlaß von Rechtsverordnungen
+# § 7 – Ermächtigung zum Erlaß von Rechtsverordnungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die Bestimmungen über Prospektion, Erforschung und Ausbeutung von Bodenschätzen im Gebiet, die gemäß Artikel 160 Abs. 2 Buchstabe f Ziffer ii und Artikel 162 Abs. 2 Buchstabe o Ziffer ii des Übereinkommens, Artikel 17 seiner Anlage III und Nummer 15 des Abschnitts 1 der Anlage zum Durchführungsübereinkommen von der Behörde angenommen worden sind, in Kraft zu setzen.
 
 (2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung Vorschriften zur Durchführung der in Absatz 1 genannten Bestimmungen zu erlassen. Die Rechtsverordnungen sind, soweit sie Fragen des Arbeitsschutzes betreffen, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit sie Fragen des Umweltschutzes betreffen, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zu erlassen. Die Ermächtigungen nach dem Seeaufgabengesetz bleiben unberührt.
 
-
-## § 8 – Bergaufsicht
+# § 8 – Bergaufsicht
 
 (1) Tätigkeiten von Prospektoren und Vertragsnehmern im Gebiet unterliegen der Aufsicht des Landesamtes.
 
@@ -167,20 +157,17 @@ Die Beauftragten dürfen Betriebsanlagen, Geschäfts- und Betriebsräume sowie L
 
 (5) Das Bundesministerium für Wirtschaft und Energie kann durch Rechtsverordnung die für die Aufsicht erforderlichen Vorschriften erlassen, um sicherzustellen, daß Prospektion oder Tätigkeiten im Gebiet in Übereinstimmung mit dem Übereinkommen, dem Durchführungsübereinkommen, den von der Behörde erlassenen Bestimmungen und Anordnungen, dem Vertrag, den Vorschriften dieses Gesetzes und den auf Grund des § 7 erlassenen Rechtsverordnungen erfolgen. Insbesondere kann es zu diesem Zweck Melde-, Aufzeichnungs- und Aufbewahrungspflichten anordnen.
 
-
-## § 9 – Archäologische und historische Gegenstände
+# § 9 – Archäologische und historische Gegenstände
 
 Im Gebiet gefundene Gegenstände archäologischer oder historischer Art sind dem Landesamt anzuzeigen und nach dessen Anweisung zu behandeln. Diese Anweisungen haben Artikel 149 des Übereinkommens zu berücksichtigen und werden im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat erlassen.
 
-
-## § 10 – Gebühren und Auslagen
+# § 10 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den zu diesem Gesetz erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben.
 
 (2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-
-## § 11 – Bußgeldvorschriften
+# § 11 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -206,8 +193,7 @@ Im Gebiet gefundene Gegenstände archäologischer oder historischer Art sind dem
 
 (4) Die Verfolgung einer Ordnungswidrigkeit ist ausgeschlossen, wenn die Behörde wegen derselben Tat ein Verfahren mit dem Ziel der Verhängung einer Sanktion gemäß Artikel 18 Abs. 2 der Anlage III des Übereinkommens durchführt oder durchgeführt hat.
 
-
-## § 12 – Strafvorschriften
+# § 12 – Strafvorschriften
 
 (1) Wer vorsätzlich eine in § 11 Abs. 1 Nr. 1, 3, 4 oder 5 bezeichnete Handlung begeht und dadurch das Leben oder die Gesundheit eines anderen, einen Tier- oder Pflanzenbestand oder fremde Sachen von bedeutendem Wert gefährdet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
@@ -219,8 +205,7 @@ Im Gebiet gefundene Gegenstände archäologischer oder historischer Art sind dem
 
 (3) Die Absätze 1 und 2 gelten nicht, wenn die Tat nach § 324, 326, 330 oder 330a des Strafgesetzbuches mit gleicher oder schwererer Strafe bedroht ist.
 
-
-## § 13 – Übergangsvorschriften
+# § 13 – Übergangsvorschriften
 
 (1) Inhaber von gültigen Berechtigungen, die nach § 4 des Gesetzes zur vorläufigen Regelung des Tiefseebergbaus vom 16. August 1980 (BGBl. I S. 1457) erteilt wurden, sind verpflichtet, unmittelbar nach Inkrafttreten des Durchführungsübereinkommens für die Bundesrepublik Deutschland beim Landesamt einen Antrag auf Befürwortung gemäß § 4 Abs. 3 zu stellen. Die erteilten Berechtigungen verlieren mit dem Abschluß des Vertrages mit der Behörde ihre Gültigkeit, spätestens jedoch zwei Jahre nach dem Inkrafttreten des Durchführungsübereinkommens für die Bundesrepublik Deutschland.
 

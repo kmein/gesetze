@@ -1,13 +1,9 @@
-# [KAGB] Kapitalanlagegesetzbuch  (KAGB)
-
-Ausfertigungsdatum: 04.07.2013
-
+% Kapitalanlagegesetzbuch  (KAGB)
+% Ausfertigungsdatum: 04.07.2013
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Investmentvermögen ist jeder Organismus für gemeinsame Anlagen, der von einer Anzahl von Anlegern Kapital einsammelt, um es gemäß einer festgelegten Anlagestrategie zum Nutzen dieser Anleger zu investieren und der kein operativ tätiges Unternehmen außerhalb des Finanzsektors ist. Eine Anzahl von Anlegern im Sinne des Satzes 1 ist gegeben, wenn die Anlagebedingungen, die Satzung oder der Gesellschaftsvertrag des Organismus für gemeinsame Anlagen die Anzahl möglicher Anleger nicht auf einen Anleger begrenzen.
 
@@ -209,8 +205,7 @@ b) gesetzlichen Vertreters, der eine juristische Person ist, ist der satzungsmä
 
 c) gesetzlichen Vertreters, der eine natürliche Person ist, ist sein Wohnsitz.
 
-34a.  
-Swing Pricing ist eine Methode zur Berücksichtigung der durch den Überschuss an Rückgabe- oder Ausgabeverlangen von Anteilen oder Aktien verursachten Transaktionskosten bei der Berechnung des Nettoinventarwertes. Bei der Berechnung des Nettoinventarwertes werden die durch den Netto-Überschuss an Rückgabe- oder Ausgabeverlangen von Anteilen oder Aktien verursachten Transaktionskosten mit einbezogen (modifizierter Nettoinventarwert). Swing Pricing kann als dauerhafte Maßnahme vorgesehen werden, die bei jeder Ausgabe und Rücknahme von Anteilen oder Aktien zur Anwendung kommt (vollständiges Swing Pricing), oder als Maßnahme, die erst bei Überschreiten eines zuvor festgelegten Schwellenwertes des Netto-Überschusses greift (teilweises Swing Pricing).
+34a. Swing Pricing ist eine Methode zur Berücksichtigung der durch den Überschuss an Rückgabe- oder Ausgabeverlangen von Anteilen oder Aktien verursachten Transaktionskosten bei der Berechnung des Nettoinventarwertes. Bei der Berechnung des Nettoinventarwertes werden die durch den Netto-Überschuss an Rückgabe- oder Ausgabeverlangen von Anteilen oder Aktien verursachten Transaktionskosten mit einbezogen (modifizierter Nettoinventarwert). Swing Pricing kann als dauerhafte Maßnahme vorgesehen werden, die bei jeder Ausgabe und Rücknahme von Anteilen oder Aktien zur Anwendung kommt (vollständiges Swing Pricing), oder als Maßnahme, die erst bei Überschreiten eines zuvor festgelegten Schwellenwertes des Netto-Überschusses greift (teilweises Swing Pricing).
 
 35. Tochterunternehmen sind Unternehmen, die Tochterunternehmen im Sinne des § 290 des Handelsgesetzbuchs sind.
 
@@ -228,8 +223,7 @@ jeweils gegen Gewährung von Anteilen oder Aktien des übernehmenden Investmentv
 
 (+++ § 1: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 2 – Ausnahmebestimmungen
+# § 2 – Ausnahmebestimmungen
 
 (1) Dieses Gesetz ist nicht anzuwenden auf
 
@@ -364,8 +358,7 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 (+++ § 2: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)  
 § 2 Abs. 5 Satz 1 Nr. 4 Kursivdruck: Früher Nr. 3 gem. u. idF d. Art. 1 Nr. 3 Buchst. d DBuchst. cc G v. 3.3.2016 I 348 mWv 18.3.2016 (abweichend vom Bundesgesetzblatt wurden an Stelle der Wörter "§ 44 Absatz 1, 4 bis 7" die Wörter "§ 44 Absatz 1, 3 bis 7" durch die Wörter "§ 44 Absatz 1, 4 bis 9" ersetzt)
 
-
-## § 3 – Bezeichnungsschutz
+# § 3 – Bezeichnungsschutz
 
 (1) Die Bezeichnungen „Kapitalverwaltungsgesellschaft“, „Investmentvermögen“, „Investmentfonds“ oder „Investmentgesellschaft“ oder eine Bezeichnung, in der diese Begriffe enthalten sind, darf in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von Verwaltungsgesellschaften im Sinne dieses Gesetzes geführt werden. Die Bezeichnungen „Investmentfonds“ und „Investmentvermögen“ dürfen auch von Vertriebsgesellschaften geführt werden, die Anteile an Investmentvermögen vertreiben, die nach Maßgabe dieses Gesetzes vertrieben werden dürfen. Die Bezeichnungen „Investmentfonds“, „Investmentvermögen“ und „Investmentgesellschaft“ dürfen auch von extern verwalteten Investmentgesellschaften geführt werden.
 
@@ -380,8 +373,7 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 (+++ § 3: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)  
 (+++ § 3 Abs. 1, 4 u. 5: Zur Anwendung vgl. § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. § 66 Abs. 4 Satz 1 +++)
 
-
-## § 4 – Namensgebung; Fondskategorien
+# § 4 – Namensgebung; Fondskategorien
 
 (1) Die Bezeichnung des Sondervermögens, der Investmentaktiengesellschaft oder der Investmentkommanditgesellschaft darf nicht irreführen.
 
@@ -389,8 +381,7 @@ Ist eine AIF-Kapitalverwaltungsgesellschaft im Sinne des Satzes 1 eine externe K
 
 (+++ § 4: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 5 – Zuständige Behörde; Aufsicht; Anordnungsbefugnis; Verordnungsermächtigung
+# § 5 – Zuständige Behörde; Aufsicht; Anordnungsbefugnis; Verordnungsermächtigung
 
 (1) Die Bundesanstalt übt die Aufsicht nach den Vorschriften dieses Gesetzes aus.
 
@@ -452,15 +443,13 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 (+++ § 5: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 6 – Besondere Aufgaben
+# § 6 – Besondere Aufgaben
 
 § 6a des Kreditwesengesetzes ist entsprechend anzuwenden, wenn Tatsachen vorliegen, die darauf schließen lassen, dass die Vermögensgegenstände, die der Kapitalverwaltungsgesellschaft oder dem Investmentvermögen anvertraut sind, oder eine Finanztransaktion der Finanzierung einer terroristischen Vereinigung nach § 129a auch in Verbindung mit § 129b des Strafgesetzbuchs dienen oder im Fall der Durchführung einer Finanztransaktion dienen würden.
 
 (+++ § 6: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 7 – Sofortige Vollziehbarkeit
+# § 7 – Sofortige Vollziehbarkeit
 
 (1) Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt einschließlich der Androhung und Festsetzung von Zwangsmitteln auf Grundlage von § 5 Absatz 5a, der §§ 6, 14, 15, 16, 19 Absatz 2 und 3, §§ 39, 40, 41, 42, 44 Absatz 5, § 68 Absatz 7, § 113 Absatz 2 und 3, § 311 Absatz 1 und 3 Satz 1 Nummer 1, § 314 Absatz 1 und 2, § 329 Absatz 2 Satz 3 Nummer 2 Buchstabe c und § 330 Absatz 2 Satz 3 Nummer 2 Buchstabe c haben keine aufschiebende Wirkung.
 
@@ -468,8 +457,7 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 (+++ § 7: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 7a – Bekanntmachung von sofort vollziehbaren Maßnahmen
+# § 7a – Bekanntmachung von sofort vollziehbaren Maßnahmen
 
 (1) Die Bundesanstalt macht Maßnahmen, die nach § 7 sofort vollziehbar sind, auf ihrer Internetseite öffentlich bekannt, soweit dies bei Abwägung der betroffenen Interessen zur Beseitigung oder Verhinderung von Missständen geboten ist. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig.“ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen.
 
@@ -477,15 +465,13 @@ Sofern aus Aufzeichnungen von Telefongesprächen Daten aus dem Kernbereich priva
 
 (3) Die Bekanntmachung darf personenbezogene Daten nur in dem Umfang enthalten, der für den Zweck der Beseitigung oder Verhinderung von Missständen erforderlich ist. Die Bekanntmachung ist zu löschen, sobald sie nicht mehr erforderlich ist, spätestens aber nach fünf Jahren.
 
-
-## § 8 – Verschwiegenheitspflicht
+# § 8 – Verschwiegenheitspflicht
 
 Die bei der Bundesanstalt beschäftigten und von ihr beauftragten Personen sowie die im Dienst der Deutschen Bundesbank stehenden Personen dürfen die ihnen bei ihrer Tätigkeit nach diesem Gesetz bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse einer Verwaltungsgesellschaft im Sinne dieses Gesetzes, eines Investmentvermögens oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. § 9 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
 (+++ § 8: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 9 – Zusammenarbeit mit anderen Stellen
+# § 9 – Zusammenarbeit mit anderen Stellen
 
 (1) Die Bundesanstalt arbeitet eng mit der Europäischen Wertpapier- und Marktaufsichtsbehörde, dem Europäischen Ausschuss für Systemrisiken und den zuständigen Stellen der Europäischen Union, der anderen Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zusammen. Sie übermittelt ihnen unverzüglich Auskünfte und Informationen, wenn dies zur Wahrnehmung der in der Richtlinie 2009/65/EG oder der in der Richtlinie 2011/61/EU festgelegten Aufgaben und Befugnisse oder der durch nationale Rechtsvorschriften übertragenen Befugnisse erforderlich ist. Für die Übermittlung personenbezogener Daten an die zuständigen Stellen durch die Bundesanstalt gelten die allgemeinen datenschutzrechtlichen Vorschriften. Personenbezogene Daten, die automatisiert verarbeitet oder in nicht automatisierten Dateien gespeichert sind, sind zu löschen, wenn ihre Kenntnis für die Bundesanstalt zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben nicht mehr erforderlich ist, spätestens jedoch nach fünf Jahren.
 
@@ -531,8 +517,7 @@ Der Inhalt der nach Satz 1 auszutauschenden Informationen bestimmt sich nach Art
 
 (+++ § 9: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 10 – Allgemeine Vorschriften für die Zusammenarbeit bei der Aufsicht
+# § 10 – Allgemeine Vorschriften für die Zusammenarbeit bei der Aufsicht
 
 (1) Die Bundesanstalt kann bei der Ausübung der Aufgaben und Befugnisse, die ihr nach diesem Gesetz übertragen werden, die zuständigen Stellen der anderen Mitgliedstaaten der Europäischen Union oder der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ersuchen um
 
@@ -578,8 +563,7 @@ Kommt die Bundesanstalt einem Ersuchen nicht nach oder macht sie von ihrem Verwe
 
 (+++ § 10: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 11 – Besondere Vorschriften für die Zusammenarbeit bei grenzüberschreitender Verwaltung und grenzüberschreitendem Vertrieb von AIF
+# § 11 – Besondere Vorschriften für die Zusammenarbeit bei grenzüberschreitender Verwaltung und grenzüberschreitendem Vertrieb von AIF
 
 (1) Stellt die Bundesanstalt fest, dass eine EU-AIF-Verwaltungsgesellschaft oder eine ausländische AIF-Verwaltungsgesellschaft, die im Inland AIF verwaltet oder vertreibt, gegen eine der Bestimmungen verstößt, deren Einhaltung die Bundesanstalt zu überwachen hat, fordert sie die betreffende EU-AIF-Verwaltungsgesellschaft oder ausländische AIF-Verwaltungsgesellschaft auf, den Verstoß zu beenden. Die Bundesanstalt unterrichtet die zuständigen Stellen des Herkunftsmitgliedstaates der EU-AIF-Verwaltungsgesellschaft oder des Referenzmitgliedstaates der ausländischen AIF-Verwaltungsgesellschaft entsprechend.
 
@@ -649,8 +633,7 @@ b) ein erhebliches Kontrahentenrisiko für ein Kreditinstitut im Sinne des Artik
 
 (+++ § 11: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 12 – Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an den Betreiber des Bundesanzeigers
+# § 12 – Meldungen der Bundesanstalt an die Europäische Kommission, an die europäischen Aufsichtsbehörden und an den Betreiber des Bundesanzeigers
 
 (1) Die Bundesanstalt meldet der Europäischen Kommission auf deren Verlangen
 
@@ -808,8 +791,7 @@ Ein Bekanntwerden im Sinne des Satzes 1 ist gegeben:
 
 (+++ § 12: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 13 – Informationsaustausch mit der Deutschen Bundesbank
+# § 13 – Informationsaustausch mit der Deutschen Bundesbank
 
 (1) Die Bundesanstalt und die Deutsche Bundesbank haben einander Beobachtungen und Feststellungen mitzuteilen, die für die Erfüllung ihrer jeweiligen Aufgaben erforderlich sind.
 
@@ -841,15 +823,13 @@ zur Verfügung zu stellen.
 
 (+++ § 13: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 14 – Auskünfte und Prüfungen
+# § 14 – Auskünfte und Prüfungen
 
 Kapitalverwaltungsgesellschaften, extern verwaltete Investmentgesellschaften, Gesellschaften in den sonstigen nach diesem Gesetz zulässigen Rechtsformen für Investmentvermögen, die an ihnen jeweils bedeutend beteiligten Inhaber und Verwahrstellen haben der Bundesanstalt Auskünfte entsprechend § 44 Absatz 1 und 6 und § 44b des Kreditwesengesetzes zu erteilen. Der Bundesanstalt stehen die in § 44 Absatz 1 und § 44b des Kreditwesengesetzes genannten Prüfungsbefugnisse entsprechend zu.
 
 (+++ § 14: Zur Anwendung vgl. § 5 Abs. 5a, § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. 2, § 66 Abs. 4 Satz 1 u. § 353 Abs. 5 +++)
 
-
-## § 15 – Einschreiten gegen unerlaubte Investmentgeschäfte
+# § 15 – Einschreiten gegen unerlaubte Investmentgeschäfte
 
 (1) Wird die kollektive Vermögensverwaltung ohne die erforderliche Registrierung nach § 44 oder ohne die erforderliche Erlaubnis nach §§ 20, 21 oder 22 oder nach Artikel 6 der Richtlinie 2009/65/EG oder der Richtlinie 2011/61/EU betrieben oder werden neben der kollektiven Vermögensverwaltung die in § 20 Absatz 2 oder 3 aufgeführten Dienstleistungen oder Nebendienstleistungen ohne die Erlaubnis nach §§ 20, 21 oder 22 oder nach Artikel 6 der Richtlinie 2009/65/EG erbracht (unerlaubtes Investmentgeschäft), kann die Bundesanstalt hiergegen einschreiten.
 
@@ -871,8 +851,7 @@ Die Bundesanstalt kann ihre Maßnahmen nach den Nummern 1 bis 3 bekannt machen; 
 
 (+++ § 15: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 16 – Verfolgung unerlaubter Investmentgeschäfte
+# § 16 – Verfolgung unerlaubter Investmentgeschäfte
 
 (1) Ein Unternehmen, bei dem feststeht oder Tatsachen die Annahme rechtfertigen, dass es unerlaubte Investmentgeschäfte betreibt oder dass es in die Anbahnung, den Abschluss oder die Abwicklung unerlaubter Investmentgeschäfte einbezogen ist oder war, sowie die Mitglieder der Organe, die Gesellschafter und die Beschäftigten eines solchen Unternehmens haben der Bundesanstalt auf Verlangen Auskünfte über alle Geschäftsangelegenheiten zu erteilen und sämtliche Unterlagen vorzulegen. Ein Mitglied eines Organs, ein Gesellschafter oder ein Beschäftigter hat auf Verlangen auch nach seinem Ausscheiden aus dem Organ oder dem Unternehmen Auskunft zu erteilen und Unterlagen vorzulegen. Die Bundesanstalt kann den in Satz 1 genannten Unternehmen und Personen Weisungen zur Sicherung von Kundengeldern, Daten und Vermögenswerten erteilen.
 
@@ -904,8 +883,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (+++ § 16: Zur Anwendung vgl. § 5 Abs. 5a u. § 353 Abs. 5 +++)
 
-
-## § 17 – Kapitalverwaltungsgesellschaften
+# § 17 – Kapitalverwaltungsgesellschaften
 
 (1) Kapitalverwaltungsgesellschaften sind Unternehmen mit satzungsmäßigem Sitz und Hauptverwaltung im Inland, deren Geschäftsbetrieb darauf gerichtet ist, inländische Investmentvermögen, EU-Investmentvermögen oder ausländische AIF zu verwalten. Verwaltung eines Investmentvermögens liegt vor, wenn mindestens die Portfolioverwaltung oder das Risikomanagement für ein oder mehrere Investmentvermögen erbracht wird.
 
@@ -919,8 +897,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (+++ § 17: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 18 – Externe Kapitalverwaltungsgesellschaften
+# § 18 – Externe Kapitalverwaltungsgesellschaften
 
 (1) Externe Kapitalverwaltungsgesellschaften dürfen nur in der Rechtsform der Aktiengesellschaft, der Gesellschaft mit beschränkter Haftung oder der Kommanditgesellschaft, bei der persönlich haftender Gesellschafter ausschließlich eine Gesellschaft mit beschränkter Haftung ist, betrieben werden.
 
@@ -936,8 +913,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (7) Falls die Anforderungen trotz der in Absatz 6 Satz 2 genannten Maßnahmen weiterhin nicht eingehalten werden, fordert die Bundesanstalt, dass die externe AIF-Kapitalverwaltungsgesellschaft ihre Bestellung als externe AIF-Kapitalverwaltungsgesellschaft für diesen AIF kündigt, sofern es sich um einen inländischen AIF oder einen EU-AIF handelt. In diesem Fall darf der AIF nicht mehr in den Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten des Europäischen Wirtschaftsraums vertrieben werden. Die Bundesanstalt setzt hiervon unverzüglich die zuständigen Behörden der Aufnahmemitgliedstaaten der externen AIF-Kapitalverwaltungsgesellschaft in Kenntnis.
 
-
-## § 19 – Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
+# § 19 – Inhaber bedeutender Beteiligungen; Verordnungsermächtigung
 
 (1) Wer beabsichtigt, allein oder im Zusammenwirken mit anderen Personen oder Unternehmen eine bedeutende Beteiligung an einer externen OGAW-Kapitalverwaltungsgesellschaft zu erwerben (interessierter Erwerber), hat dies der Bundesanstalt unverzüglich schriftlich anzuzeigen. § 2c Absatz 1 Satz 2 bis 7 des Kreditwesengesetzes gilt entsprechend; § 2c Absatz 1 Satz 5 und 6 des Kreditwesengesetzes ist entsprechend anzuwenden mit der Maßgabe, dass die Anzeigen jeweils nur gegenüber der Bundesanstalt abzugeben sind.
 
@@ -959,8 +935,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über Art, Umfang, Zeitpunkt, Form und Übertragungsweg der nach den Absätzen 1 und 5 zu erstattenden Anzeigen sowie über die Unterlagen, die mit der Anzeige vorzulegen sind. Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 20 – Erlaubnis zum Geschäftsbetrieb
+# § 20 – Erlaubnis zum Geschäftsbetrieb
 
 (1) Der Geschäftsbetrieb einer Kapitalverwaltungsgesellschaft bedarf der schriftlichen Erlaubnis der Bundesanstalt. Die Bundesanstalt kann die Erlaubnis auf die Verwaltung bestimmter Arten von Investmentvermögen beschränken. Die Bundesanstalt kann die Erlaubnis mit Nebenbestimmungen verbinden.
 
@@ -1016,8 +991,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (10) Externe Kapitalverwaltungsgesellschaften dürfen ihren Mutter-, Tochter- und Schwesterunternehmen Gelddarlehen für eigene Rechnung gewähren.
 
-
-## § 21 – Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft und Erlaubniserteilung
+# § 21 – Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft und Erlaubniserteilung
 
 (1) Der Erlaubnisantrag für eine OGAW-Kapitalverwaltungsgesellschaft muss enthalten:
 
@@ -1045,8 +1019,7 @@ das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
 (5) Beantragt eine OGAW-Kapitalverwaltungsgesellschaft zusätzlich die Erlaubnis zur Verwaltung von AIF nach § 22, muss sie diejenigen Angaben und Unterlagen, die sie bereits mit dem Erlaubnisantrag nach Absatz 1 eingereicht hat, nicht erneut einreichen, sofern diese Angaben und Unterlagen noch aktuell sind.
 
-
-## § 22 – Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft und Erlaubniserteilung
+# § 22 – Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft und Erlaubniserteilung
 
 (1) Der Erlaubnisantrag für eine AIF-Kapitalverwaltungsgesellschaft muss enthalten:
 
@@ -1092,8 +1065,7 @@ c) der Risikoprofile und sonstiger Eigenschaften der AIF, die die AIF-Kapitalver
 
 (5) § 21 Absatz 3 und 4 gilt entsprechend.
 
-
-## § 23 – Versagung der Erlaubnis einer Kapitalverwaltungsgesellschaft
+# § 23 – Versagung der Erlaubnis einer Kapitalverwaltungsgesellschaft
 
 Einer Kapitalverwaltungsgesellschaft ist die Erlaubnis zu versagen, wenn
 
@@ -1121,8 +1093,7 @@ Einer Kapitalverwaltungsgesellschaft ist die Erlaubnis zu versagen, wenn
 
 (+++ § 23 Nr. 7: Zur Anwendung vgl. § 58 Abs. 9 Satz 2 Nr. 3 +++)
 
-
-## § 24 – Anhörung der zuständigen Stellen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum; Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz in einem Drittstaat
+# § 24 – Anhörung der zuständigen Stellen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum; Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz in einem Drittstaat
 
 (1) Soll eine Erlaubnis einer OGAW-Kapitalverwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft erteilt werden, die
 
@@ -1134,8 +1105,7 @@ hat die Bundesanstalt vor Erteilung der Erlaubnis die zuständigen Stellen des H
 
 (2) Auf die Beziehungen zwischen OGAW-Kapitalverwaltungsgesellschaften und Drittstaaten sind die Bestimmungen des Artikels 15 der Richtlinie 2004/39/EG entsprechend anzuwenden. Für diesen Zweck sind die in Artikel 15 der Richtlinie 2004/39/EG genannten Ausdrücke „Wertpapierfirma“ und „Wertpapierfirmen“ als „OGAW-Kapitalverwaltungsgesellschaft“ beziehungsweise „OGAW-Kapitalverwaltungsgesellschaften“ zu verstehen; der in Artikel 15 der Richtlinie 2004/39/EG genannte Ausdruck „Erbringung von Wertpapierdienstleistungen“ ist als „Erbringung von Dienstleistungen“ zu verstehen.
 
-
-## § 25 – Kapitalanforderungen
+# § 25 – Kapitalanforderungen
 
 (1) Eine Kapitalverwaltungsgesellschaft muss
 
@@ -1177,8 +1147,7 @@ verfügen. Im Fall von Satz 1 Nummer 2 ist der Versicherer im Versicherungsvertr
 
 (8) Für AIF-Kapitalverwaltungsgesellschaften bestimmen sich die Kriterien zu den Risiken, die durch die zusätzlichen Eigenmittel oder die Berufshaftpflichtversicherung gedeckt werden müssen, die Voraussetzungen für die Bestimmung der Angemessenheit der zusätzlichen Eigenmittel oder der Deckung durch die Berufshaftpflichtversicherung und die Vorgehensweise bei der Bestimmung fortlaufender Anpassungen der Eigenmittel oder der Deckung nach den Artikeln 12 bis 15 der Delegierten Verordnung (EU) Nr. 231/2013.
 
-
-## § 26 – Allgemeine Verhaltensregeln; Verordnungsermächtigung
+# § 26 – Allgemeine Verhaltensregeln; Verordnungsermächtigung
 
 (1) Die Kapitalverwaltungsgesellschaft handelt bei der Wahrnehmung ihrer Aufgaben unabhängig von der Verwahrstelle und ausschließlich im Interesse der Anleger.
 
@@ -1223,8 +1192,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ § 26 Abs. 3 u. 7: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. § 66 Abs. 4 Satz 1 +++)  
 (+++ § 26 Abs. 7 Satz 3: Zur Anwendung vgl. § 359 +++)
 
-
-## § 27 – Interessenkonflikte; Verordnungsermächtigung
+# § 27 – Interessenkonflikte; Verordnungsermächtigung
 
 (1) Eine Kapitalverwaltungsgesellschaft hat alle angemessenen Maßnahmen zu treffen, um Interessenkonflikte zu ermitteln, die im Zusammenhang mit der Verwaltung von Investmentvermögen auftreten zwischen
 
@@ -1259,8 +1227,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 (+++ § 27: Zur Anwendung vgl. § 353 Abs. 5 +++)  
 (+++ § 27 Abs. 1 bis 4: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. § 66 Abs. 4 Satz 1 +++)
 
-
-## § 28 – Allgemeine Organisationspflichten; Verordnungsermächtigung
+# § 28 – Allgemeine Organisationspflichten; Verordnungsermächtigung
 
 (1) Die Kapitalverwaltungsgesellschaft muss über eine ordnungsgemäße Geschäftsorganisation verfügen, die die Einhaltung der von der Kapitalverwaltungsgesellschaft zu beachtenden gesetzlichen Bestimmungen gewährleistet. Eine ordnungsgemäße Geschäftsorganisation umfasst insbesondere
 
@@ -1299,8 +1266,7 @@ Für AIF-Kapitalverwaltungsgesellschaften, die inländische Publikums-AIF verwal
 (+++ § 28: Zur Anwendung vgl. § 353 Abs. 5 +++)  
 (+++ § 28 Abs. 1 Satz 4: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. § 66 Abs. 4 Satz 1 +++)
 
-
-## § 29 – Risikomanagement; Verordnungsermächtigung
+# § 29 – Risikomanagement; Verordnungsermächtigung
 
 (1) Die Kapitalverwaltungsgesellschaft hat eine dauerhafte Risikocontrollingfunktion einzurichten und aufrechtzuerhalten, die von den operativen Bereichen hierarchisch und funktionell unabhängig ist (Funktionstrennung). Die Bundesanstalt überwacht die Funktionstrennung nach dem Prinzip der Verhältnismäßigkeit. Die Kapitalverwaltungsgesellschaften, bei denen auf Grund der Art, des Umfangs und der Komplexität ihrer Geschäfte und der von ihnen verwalteten Investmentvermögen die Einrichtung einer hierarchisch und funktionell unabhängigen Risikocontrollingfunktion unverhältnismäßig ist, müssen zumindest in der Lage sein nachzuweisen, dass besondere Schutzvorkehrungen gegen Interessenkonflikte ein unabhängiges Risikocontrolling ermöglichen und dass der Risikomanagementprozess den Anforderungen der Absätze 1 bis 6 genügt und durchgehend wirksam ist.
 
@@ -1352,8 +1318,7 @@ Für AIF-Kapitalverwaltungsgesellschaften, die inländische Publikums-AIF verwal
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen für Kapitalverwaltungsgesellschaften, die OGAW oder Publikums-AIF verwalten, zu den Risikomanagementsystemen und -verfahren zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 30 – Liquiditätsmanagement; Verordnungsermächtigung
+# § 30 – Liquiditätsmanagement; Verordnungsermächtigung
 
 (1) Die Kapitalverwaltungsgesellschaft muss über ein angemessenes Liquiditätsmanagementsystem für jedes von ihr verwaltete Investmentvermögen verfügen, es sei denn, es handelt sich um ein geschlossenes Investmentvermögen, für das kein Leverage eingesetzt wird. Die Kapitalverwaltungsgesellschaft hat Verfahren festzulegen, die es ihr ermöglichen, die Liquiditätsrisiken der Investmentvermögen zu überwachen und hat zu gewährleisten, dass sich das Liquiditätsprofil der Anlagen des Investmentvermögens mit den zugrunde liegenden Verbindlichkeiten des Investmentvermögens deckt.
 
@@ -1365,8 +1330,7 @@ Für AIF-Kapitalverwaltungsgesellschaften, die inländische Publikums-AIF verwal
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Kapitalverwaltungsgesellschaften in Bezug auf Publikums-AIF zusätzliche Bestimmungen zu den in den Artikeln 46 bis 49 der Delegierten Verordnung (EU) Nr. 231/2013 aufgeführten Kriterien nach Absatz 4 und in Bezug auf OGAW nähere Bestimmungen zu den Liquiditätsmanagementsystemen und -verfahren zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 31 – Primebroker
+# § 31 – Primebroker
 
 (1) Nimmt die AIF-Kapitalverwaltungsgesellschaft für Rechnung des AIF die Dienstleistungen eines Primebrokers in Anspruch, müssen die Bedingungen in einem schriftlichen Vertrag vereinbart werden. Insbesondere muss die Möglichkeit einer Übertragung und Wiederverwendung von Vermögensgegenständen des AIF in diesem Vertrag vereinbart werden und den Anlagebedingungen, der Satzung oder des Gesellschaftsvertrages des AIF entsprechen. In dem Vertrag muss festgelegt werden, dass die Verwahrstelle über den Vertrag in Kenntnis gesetzt wird.
 
@@ -1374,20 +1338,17 @@ Für AIF-Kapitalverwaltungsgesellschaften, die inländische Publikums-AIF verwal
 
 (+++ § 31: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 +++)
 
-
-## § 32 – Entschädigungseinrichtung
+# § 32 – Entschädigungseinrichtung
 
 Sofern die Kapitalverwaltungsgesellschaft die Erlaubnis zur Erbringung der Finanzportfolioverwaltung im Sinne des § 20 Absatz 2 Nummer 1 oder Absatz 3 Nummer 2 hat, hat sie die betroffenen Kunden, die nicht Institute im Sinne des Kreditwesengesetzes sind, über die Zugehörigkeit zu einer Einrichtung zur Sicherung der Ansprüche der Kunden (Entschädigungseinrichtung) in geeigneter Weise zu informieren; § 23a Absatz 1 Satz 2 und 12 sowie Absatz 2 des Kreditwesengesetzes findet entsprechend Anwendung.
 
-
-## § 33 – Werbung
+# § 33 – Werbung
 
 Auf die Werbung von Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften findet § 23 des Kreditwesengesetzes entsprechend Anwendung.
 
 (+++ § 33: Zur Anwendung vgl. § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. § 66 Abs. 4 Satz 1 +++)
 
-
-## § 34 – Anzeigepflichten von Verwaltungsgesellschaften gegenüber der Bundesanstalt und der Bundesbank
+# § 34 – Anzeigepflichten von Verwaltungsgesellschaften gegenüber der Bundesanstalt und der Bundesbank
 
 (1) Eine Kapitalverwaltungsgesellschaft hat der Bundesanstalt alle wesentlichen Änderungen der Voraussetzungen für die Erlaubnis, insbesondere wesentliche Änderungen der nach § 21 Absatz 1 und § 22 Absatz 1 vorgelegten Angaben, vor Umsetzung der Änderung mitzuteilen.
 
@@ -1437,8 +1398,7 @@ Als unmittelbare Beteiligung im Sinne des Satzes 1 Nummer 2 gilt das Halten von 
 
 (+++ § 34 Abs. 3 Nr. 8: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 § 54 Abs. 4 Satz 1 u. § 66 Abs. 4 Satz 1 +++)
 
-
-## § 35 – Meldepflichten von AIF-Verwaltungsgesellschaften
+# § 35 – Meldepflichten von AIF-Verwaltungsgesellschaften
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft unterrichtet die Bundesanstalt regelmäßig über die wichtigsten Märkte und Instrumente, auf beziehungsweise mit denen sie für Rechnung der von ihr verwalteten AIF handelt. Sie legt Informationen zu den wichtigsten Instrumenten, mit denen sie handelt, zu den Märkten, in denen sie Mitglied ist oder am Handel aktiv teilnimmt, sowie zu den größten Risiken und Konzentrationen jedes von ihr verwalteten AIF vor.
 
@@ -1488,8 +1448,7 @@ gelten die Absätze 1 bis 5 gemäß § 58 Absatz 11, § 317 Absatz 1 Nummer 3 un
 
 (10) Die Bundesanstalt kann durch Allgemeinverfügung nähere Bestimmungen über Art, Umfang, Form und Turnus der einzureichenden Meldungen nach Absatz 9 und über die zulässigen Datenträger, Datenstrukturen und Übertragungswege festlegen.
 
-
-## § 36 – Auslagerung
+# § 36 – Auslagerung
 
 (1) Die Kapitalverwaltungsgesellschaft kann Aufgaben auf ein anderes Unternehmen (Auslagerungsunternehmen) unter den folgenden Bedingungen auslagern:
 
@@ -1551,8 +1510,7 @@ Satz 1 gilt entsprechend bei jeder weiteren Unterauslagerung.
 
 (10) Im Hinblick auf AIF-Kapitalverwaltungsgesellschaften bestimmen sich die Bedingungen zur Erfüllung der Anforderungen nach den Absätzen 1 bis 3 und 6 und 7 sowie die Umstände, unter denen angenommen wird, dass die AIF-Kapitalverwaltungsgesellschaft im Sinne von Absatz 5 ihre Funktionen in einem Umfang übertragen hat, der sie zu einer Briefkastenfirma werden lässt, so dass sie nicht länger als Verwalter des AIF angesehen werden kann, nach den Artikeln 75 bis 82 der Delegierten Verordnung (EU) Nr. 231/2013. Für OGAW-Kapitalverwaltungsgesellschaften sind die Artikel 75 bis 82 der Delegierten Verordnung (EU) Nr. 231/2013 hinsichtlich der Bedingungen zur Erfüllung der Anforderungen nach den Absätzen 1 bis 3 und 6 und 7 sowie der Umstände, unter denen angenommen wird, dass die OGAW-Kapitalverwaltungsgesellschaft im Sinne von Absatz 5 ihre Funktionen in einem Umfang übertragen hat, der sie zu einer Briefkastenfirma werden lässt, so dass sie nicht länger als Verwalter des OGAW angesehen werden kann, entsprechend anzuwenden.
 
-
-## § 37 – Vergütungssysteme; Verordnungsermächtigung
+# § 37 – Vergütungssysteme; Verordnungsermächtigung
 
 (1) Kapitalverwaltungsgesellschaften legen jeweils für Geschäftsleiter, Mitarbeiter, deren Tätigkeiten einen wesentlichen Einfluss auf das Risikoprofil der Verwaltungsgesellschaft oder der verwalteten Investmentvermögen haben (Risikoträger), Mitarbeiter mit Kontrollfunktionen und alle Mitarbeiter, die eine Gesamtvergütung erhalten, auf Grund derer sie sich in derselben Einkommensstufe befinden wie Geschäftsleiter und Risikoträger, ein Vergütungssystem fest, das mit einem soliden und wirksamen Risikomanagementsystem vereinbar und diesem förderlich ist, keine Anreize setzt zur Eingehung von Risiken, die nicht mit dem Risikoprofil, den Anlagebedingungen, der Satzung oder dem Gesellschaftsvertrag der von ihnen verwalteten Investmentvermögen vereinbar sind, und das die Kapitalverwaltungsgesellschaft nicht daran hindert, pflichtgemäß im besten Interesse des Investmentvermögens zu handeln. Die Kapitalverwaltungsgesellschaften wenden das Vergütungssystem an.
 
@@ -1570,8 +1528,7 @@ Satz 1 gilt entsprechend bei jeder weiteren Unterauslagerung.
 
 Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur der Kapitalverwaltungsgesellschaft und der von ihr verwalteten Investmentvermögen sowie ihrer internen Organisation und der Art, des Umfangs, der Komplexität, des Risikogehalts und der Internationalität ihrer Geschäfte zu orientieren. Im Rahmen der Bestimmungen nach Satz 1 Nummer 4 müssen die auf Offenlegung der Vergütung bezogenen handelsrechtlichen Bestimmungen nach § 340a Absatz 1 und 2 in Verbindung mit § 340l Absatz 1 Satz 1 des Handelsgesetzbuchs unberührt bleiben. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 38 – Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung
+# § 38 – Jahresabschluss, Lagebericht, Prüfungsbericht und Abschlussprüfer der externen Kapitalverwaltungsgesellschaft; Verordnungsermächtigung
 
 (1) Für den Jahresabschluss, den Lagebericht und den Prüfungsbericht einer externen Kapitalverwaltungsgesellschaft gelten die §§ 340a bis 340o des Handelsgesetzbuchs entsprechend. § 26 des Kreditwesengesetzes ist mit der Maßgabe entsprechend anzuwenden, dass die dort geregelten Pflichten gegenüber der Deutschen Bundesbank nicht gelten.
 
@@ -1583,8 +1540,7 @@ Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur der Ka
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über den Zeitpunkt der Prüfung, weitere Inhalte, Umfang und Darstellungen des Prüfungsberichts sowie zur Art und Weise seiner Einreichung bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit der externen Kapitalverwaltungsgesellschaft zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 39 – Erlöschen und Aufhebung der Erlaubnis
+# § 39 – Erlöschen und Aufhebung der Erlaubnis
 
 (1) Die Erlaubnis erlischt, wenn die Kapitalverwaltungsgesellschaft
 
@@ -1616,8 +1572,7 @@ Bei Investmentaktiengesellschaften mit veränderlichem Kapital, bei Investmentak
 
 (4) § 38 des Kreditwesengesetzes ist entsprechend anzuwenden, wenn die Bundesanstalt die Erlaubnis der Kapitalverwaltungsgesellschaft aufhebt oder die Erlaubnis erlischt.
 
-
-## § 40 – Abberufung von Geschäftsleitern; Tätigkeitsverbot
+# § 40 – Abberufung von Geschäftsleitern; Tätigkeitsverbot
 
 (1) In den Fällen des § 39 Absatz 3 kann die Bundesanstalt statt der Aufhebung der Erlaubnis die Abberufung der verantwortlichen Geschäftsleiter verlangen und ihnen oder einer anderen verantwortlichen natürlichen Person, die in der Kapitalverwaltungsgesellschaft tätig ist, die Ausübung ihrer Tätigkeit untersagen.
 
@@ -1625,13 +1580,11 @@ Bei Investmentaktiengesellschaften mit veränderlichem Kapital, bei Investmentak
 
 (+++ § 40 Abs. 2: Zur Anwendung vgl. § 44 Abs. 5 Satz 3 +++)
 
-
-## § 41 – Maßnahmen bei unzureichenden Eigenmitteln
+# § 41 – Maßnahmen bei unzureichenden Eigenmitteln
 
 Entsprechen bei einer Kapitalverwaltungsgesellschaft die Eigenmittel nicht den Anforderungen des § 25, kann die Bundesanstalt Anordnungen treffen, die geeignet und erforderlich sind, um Verstöße gegen § 25 zu unterbinden. Sie kann insbesondere Entnahmen durch Gesellschafter und die Ausschüttung von Gewinnen untersagen oder beschränken. Beschlüsse über die Gewinnausschüttung sind insoweit nichtig, als sie einer Anordnung nach Satz 1 widersprechen. § 45 Absatz 5 Satz 1 des Kreditwesengesetzes ist entsprechend anzuwenden.
 
-
-## § 42 – Maßnahmen bei Gefahr
+# § 42 – Maßnahmen bei Gefahr
 
 Die Bundesanstalt kann zur Abwendung einer Gefahr in folgenden Fällen geeignete und erforderliche Maßnahmen ergreifen:
 
@@ -1643,15 +1596,13 @@ Die Bundesanstalt kann zur Abwendung einer Gefahr in folgenden Fällen geeignete
 
 (+++ § 42: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 43 – Insolvenzantrag, Unterrichtung der Gläubiger im Insolvenzverfahren
+# § 43 – Insolvenzantrag, Unterrichtung der Gläubiger im Insolvenzverfahren
 
 (1) Auf den Fall der Zahlungsunfähigkeit, der Überschuldung oder der drohenden Zahlungsunfähigkeit einer Kapitalverwaltungsgesellschaft ist § 46b Absatz 1, 1a und 3 des Kreditwesengesetzes entsprechend anzuwenden.
 
 (2) Die Gläubiger sind über die Eröffnung des Insolvenzverfahrens in entsprechender Anwendung des § 46f des Kreditwesengesetzes zu unterrichten.
 
-
-## § 44 – Registrierung und Berichtspflichten
+# § 44 – Registrierung und Berichtspflichten
 
 (1) AIF-Kapitalverwaltungsgesellschaften, die die Bedingungen nach § 2 Absatz 4, 4a oder 5 erfüllen,
 
@@ -1741,8 +1692,7 @@ Statt der Aufhebung der Registrierung kann die Bundesanstalt die Abberufung der 
 
 (+++ § 44: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 45 – Erstellung und Bekanntmachung von Jahresberichten
+# § 45 – Erstellung und Bekanntmachung von Jahresberichten
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft, die die Voraussetzungen von § 2 Absatz 5 erfüllt, hat für jeden von ihr verwalteten geschlossenen inländischen Publikums-AIF, der nicht verpflichtet ist, nach den Vorschriften des Handelsgesetzbuchs einen Jahresabschluss offenzulegen, für den Schluss eines jeden Geschäftsjahres einen Jahresbericht zu erstellen und spätestens sechs Monate nach Ablauf des Geschäftsjahres beim Betreiber des Bundesanzeigers elektronisch einzureichen sowie den Anlegern auf Anforderung auch in Papierform zur Verfügung zu stellen.
 
@@ -1762,15 +1712,13 @@ Statt der Aufhebung der Registrierung kann die Bundesanstalt die Abberufung der 
 
 (+++ § 45: Zur Anwendung vgl. § 353 Abs. 5, § 344a u. § 356 Satz 1 +++)
 
-
-## § 46 – Inhalt von Jahresabschlüssen und Lageberichten
+# § 46 – Inhalt von Jahresabschlüssen und Lageberichten
 
 Bei einem geschlossenen inländischen Publikums-AIF, der von einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, die die Voraussetzungen des § 2 Absatz 5 erfüllt, sind für den Jahresabschluss die Bestimmungen des Ersten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs und für den Lagebericht die Bestimmungen des § 289 des Handelsgesetzbuchs einzuhalten, soweit sich aus dem entsprechend anwendbaren § 135 Absatz 3 bis 11 nichts anderes ergibt. § 264 Absatz 1 Satz 4 Halbsatz 1, Absatz 3, 4 und § 264b des Handelsgesetzbuchs sind nicht anzuwenden.
 
 (+++ § 46: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 47 – Prüfung und Bestätigung des Abschlussprüfers; Verordnungsermächtigung
+# § 47 – Prüfung und Bestätigung des Abschlussprüfers; Verordnungsermächtigung
 
 (1) Der Jahresabschluss und der Lagebericht eines geschlossenen inländischen Publikums-AIF im Sinne des § 46 sind durch einen Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen. Der Jahresabschluss und der Lagebericht müssen mit dem Bestätigungsvermerk oder einem Vermerk über die Versagung der Bestätigung versehen sein.
 
@@ -1782,8 +1730,7 @@ Bei einem geschlossenen inländischen Publikums-AIF, der von einer AIF-Kapitalve
 
 (+++ § 47: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 48 – Verkürzung der handelsrechtlichen Offenlegungsfrist
+# § 48 – Verkürzung der handelsrechtlichen Offenlegungsfrist
 
 (1) Ist der geschlossene inländische Publikums-AIF im Sinne des § 46 nach den Vorschriften des Handelsgesetzbuchs zur Offenlegung des Jahresabschlusses verpflichtet, tritt an die Stelle des Ablaufs des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahres im Sinne des § 325 Absatz 1a des Handelsgesetzbuchs der Ablauf des sechsten Monats.
 
@@ -1791,15 +1738,13 @@ Bei einem geschlossenen inländischen Publikums-AIF, der von einer AIF-Kapitalve
 
 (+++ § 48: Zur Anwendung vgl. § 353 Abs. 5 u. § 356 Satz 1 +++)
 
-
-## § 48a – Jahresbericht, Lagebericht und Prüfung von Spezial-AIF, die Darlehen nach § 285 Absatz 2 vergeben; Verordnungsermächtigung
+# § 48a – Jahresbericht, Lagebericht und Prüfung von Spezial-AIF, die Darlehen nach § 285 Absatz 2 vergeben; Verordnungsermächtigung
 
 (1) Für die Erstellung, den Inhalt und die Prüfung und Bestätigung des Jahresberichts und des Lageberichts eines geschlossenen inländischen Spezial-AIF, für dessen Rechnung eine AIF-Kapitalverwaltungsgesellschaft, die die Voraussetzungen des § 2 Absatz 4 erfüllt, Gelddarlehen gemäß § 285 Absatz 2 vergibt, gelten § 45 Absatz 2 sowie die §§ 46, 47 und 48 Absatz 2 entsprechend. Der Abschlussprüfer hat bei seiner Prüfung auch festzustellen, ob die AIF-Kapitalverwaltungsgesellschaft die Bestimmungen dieses Gesetzes beachtet hat. Der Prüfungsbericht ist der Bundesanstalt auf Verlangen vom Abschlussprüfer einzureichen.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang und Darstellung des Prüfungsberichts des Abschlussprüfers sowie zur Art und Weise der Einreichung des Prüfungsberichts bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit von AIF-Kapitalverwaltungsgesellschaften, die Gelddarlehen gemäß § 285 Absatz 2 für Rechnung von inländischen geschlossenen Spezial-AIF vergeben, zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 49 – Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr durch OGAW-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung
+# § 49 – Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr durch OGAW-Kapitalverwaltungsgesellschaften; Verordnungsermächtigung
 
 (1) Eine OGAW-Kapitalverwaltungsgesellschaft hat der Bundesanstalt die Absicht, eine Zweigniederlassung in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu errichten, um die kollektive Vermögensverwaltung oder Tätigkeiten nach § 20 Absatz 2 Nummer 1, 2, 3 oder 4 auszuüben, unverzüglich anzuzeigen. Das Anzeigeschreiben muss neben der Erklärung der Absicht nach Satz 1 Folgendes enthalten:
 
@@ -1841,8 +1786,7 @@ c) der eine Beschreibung der Verfahren und Vereinbarungen zur Einhaltung von Art
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, dass die Absätze 1 bis 4 für die Errichtung einer Zweigniederlassung in einem Drittstaat entsprechend anzuwenden sind, soweit dies im Bereich des Niederlassungsrechts auf Grund von Abkommen der Europäischen Union mit Drittstaaten erforderlich ist.
 
-
-## § 50 – Besonderheiten für die Verwaltung von EU-OGAW durch OGAW-Kapitalverwaltungsgesellschaften
+# § 50 – Besonderheiten für die Verwaltung von EU-OGAW durch OGAW-Kapitalverwaltungsgesellschaften
 
 (1) Beabsichtigt eine OGAW-Kapitalverwaltungsgesellschaft, über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs EU-OGAW zu verwalten, fügt die Bundesanstalt der Anzeige nach § 49 Absatz 1 Satz 2 oder § 49 Absatz 5 Satz 2 eine Bescheinigung darüber bei, dass die OGAW-Kapitalverwaltungsgesellschaft eine Erlaubnis zum Geschäftsbetrieb erhalten hat, die einer Zulassung gemäß der Richtlinie 2009/65/EG entspricht, sowie eine Beschreibung des Umfangs dieser Erlaubnis. In diesem Fall hat die OGAW-Kapitalverwaltungsgesellschaft den zuständigen Stellen des Aufnahmemitgliedstaates darüber hinaus folgende Unterlagen zu übermitteln:
 
@@ -1858,8 +1802,7 @@ Verwaltet die OGAW-Kapitalverwaltungsgesellschaft in diesem Aufnahmemitgliedstaa
 
 (4) Auf die Tätigkeit einer OGAW-Kapitalverwaltungsgesellschaft, die EU-OGAW verwaltet, sind die §§ 1 bis 43 sowie die im Herkunftsmitgliedstaat des EU-OGAW anzuwendenden Vorschriften, die Artikel 19 Absatz 3 und 4 der Richtlinie 2009/65/EG umsetzen, entsprechend anzuwenden. Soweit diese Tätigkeit über eine Zweigniederlassung ausgeübt wird, sind § 26 Absatz 2 in Verbindung mit einer Rechtsverordnung nach § 26 Absatz 8 sowie § 27 Absatz 1 in Verbindung mit einer Rechtsverordnung nach § 27 Absatz 6 nicht anzuwenden.
 
-
-## § 51 – Inländische Zweigniederlassungen und grenzüberschreitender Dienstleistungsverkehr von EU-OGAW-Verwaltungsgesellschaften
+# § 51 – Inländische Zweigniederlassungen und grenzüberschreitender Dienstleistungsverkehr von EU-OGAW-Verwaltungsgesellschaften
 
 (1) Eine EU-OGAW-Verwaltungsgesellschaft darf ohne Erlaubnis der Bundesanstalt über eine inländische Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland die kollektive Vermögensverwaltung von inländischen OGAW sowie Dienstleistungen und Nebendienstleistungen nach § 20 Absatz 2 Nummer 1, 2, 3 oder 4 erbringen, wenn die zuständigen Stellen des Herkunftsmitgliedstaates der EU-OGAW-Verwaltungsgesellschaft
 
@@ -1909,8 +1852,7 @@ Die Bundesanstalt kann nach pflichtgemäßem Ermessen gegenüber Aufsichtsstelle
 
 (8) Die §§ 24c und 25h bis 25m des Kreditwesengesetzes sowie § 93 Absatz 7 und 8 in Verbindung mit § 93b der Abgabenordnung gelten für die Zweigniederlassungen im Sinne des Absatzes 1 Satz 1 entsprechend.
 
-
-## § 52 – Besonderheiten für die Verwaltung inländischer OGAW durch EU-OGAW-Verwaltungsgesellschaften
+# § 52 – Besonderheiten für die Verwaltung inländischer OGAW durch EU-OGAW-Verwaltungsgesellschaften
 
 (1) Die Verwaltung eines inländischen OGAW durch eine EU-OGAW-Verwaltungsgesellschaft über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs setzt voraus, dass die zuständigen Stellen des Herkunftsmitgliedstaates der EU-OGAW-Verwaltungsgesellschaft der Anzeige nach § 51 Absatz 1 Satz 1 eine Bescheinigung darüber beigefügt haben, dass die EU-OGAW-Verwaltungsgesellschaft in ihrem Herkunftsmitgliedstaat eine Zulassung gemäß der Richtlinie 2009/65/EG erhalten hat, eine Beschreibung des Umfangs dieser Zulassung sowie Einzelheiten darüber, auf welche Arten von OGAW diese Zulassung beschränkt ist. Die EU-OGAW-Verwaltungsgesellschaft hat der Bundesanstalt darüber hinaus folgende Unterlagen zu übermitteln:
 
@@ -1938,8 +1880,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 § 52 Abs. 5 Kursivdruck: IdF d. Art. 2 Nr. 16 G v. 15.7.2014 I 934 mWv 19.7.2014 (ersetzt wurden die Wörter "294 Absatz 1, §§ 297, 306, 312 und 313")
 
-
-## § 53 – Verwaltung von EU-AIF durch AIF-Kapitalverwaltungsgesellschaften
+# § 53 – Verwaltung von EU-AIF durch AIF-Kapitalverwaltungsgesellschaften
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, die über eine Erlaubnis nach den §§ 20, 22 verfügt, erstmals im Wege des grenzüberschreitenden Dienstleistungsverkehrs oder über eine Zweigniederlassung EU-AIF zu verwalten oder Dienst- und Nebendienstleistungen nach § 20 Absatz 3 Nummer 2 bis 5 zu erbringen, so übermittelt sie der Bundesanstalt folgende Angaben:
 
@@ -1969,8 +1910,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (+++ § 53: Zur Anwendung vgl. § 353 Abs. 8 +++)
 
-
-## § 54 – Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von EU-AIF-Verwaltungsgesellschaften im Inland
+# § 54 – Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von EU-AIF-Verwaltungsgesellschaften im Inland
 
 (1) Die Verwaltung eines inländischen Spezial-AIF oder die Erbringung von Dienst- und Nebendienstleistungen nach Artikel 6 Absatz 4 der Richtlinie 2011/61/EU durch eine EU-AIF-Verwaltungsgesellschaft im Inland über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs setzt voraus, dass die zuständigen Stellen des Herkunftsmitgliedstaates der EU-AIF-Verwaltungsgesellschaft der Bundesanstalt folgende Angaben und Unterlagen übermittelt haben:
 
@@ -1996,8 +1936,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (+++ § 54: Zur Anwendung vgl. § 353 Abs. 8 +++)
 
-
-## § 55 – Bedingungen für AIF-Kapitalverwaltungsgesellschaften, welche ausländische AIF verwalten, die weder in den Mitgliedstaaten der Europäischen Union noch in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vertrieben werden
+# § 55 – Bedingungen für AIF-Kapitalverwaltungsgesellschaften, welche ausländische AIF verwalten, die weder in den Mitgliedstaaten der Europäischen Union noch in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vertrieben werden
 
 (1) Die Verwaltung von ausländischen AIF, die weder in den Mitgliedstaaten der Europäischen Union noch in den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vertrieben werden, durch eine nach diesem Gesetz zugelassene AIF-Kapitalverwaltungsgesellschaft ist zulässig, wenn
 
@@ -2007,8 +1946,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (2) Nähere Bestimmungen zu den in Absatz 1 Nummer 2 genannten Vereinbarungen über die Zusammenarbeit richten sich nach den Artikeln 113 bis 115 der Delegierten Verordnung (EU) Nr. 231/2013 sowie nach den Leitlinien der Europäischen Wertpapier- und Marktaufsichtsbehörde.
 
-
-## § 56 – Bestimmung der Bundesrepublik Deutschland als Referenzmitgliedstaat einer ausländischen AIF-Verwaltungsgesellschaft
+# § 56 – Bestimmung der Bundesrepublik Deutschland als Referenzmitgliedstaat einer ausländischen AIF-Verwaltungsgesellschaft
 
 (1) Die Bundesrepublik Deutschland ist Referenzmitgliedstaat einer ausländischen AIF-Verwaltungsgesellschaft,
 
@@ -2026,8 +1964,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (+++ § 56: Zur Anwendung vgl. § 344 +++)
 
-
-## § 57 – Zulässigkeit der Verwaltung von inländischen Spezial-AIF und EU-AIF sowie des Vertriebs von AIF gemäß den §§ 325, 326, 333 oder 334 durch ausländische AIF-Verwaltungsgesellschaften
+# § 57 – Zulässigkeit der Verwaltung von inländischen Spezial-AIF und EU-AIF sowie des Vertriebs von AIF gemäß den §§ 325, 326, 333 oder 334 durch ausländische AIF-Verwaltungsgesellschaften
 
 (1) Eine ausländische AIF-Verwaltungsgesellschaft, für die die Bundesrepublik Deutschland Referenzmitgliedstaat nach § 56 ist und die beabsichtigt, inländische Spezial-AIF oder EU-AIF zu verwalten oder von ihr verwaltete AIF gemäß Artikel 39 oder 40 der Richtlinie 2011/61/EU in den Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu vertreiben, bedarf der Erlaubnis der Bundesanstalt. Die Bundesanstalt hat gegenüber ausländischen AIF-Verwaltungsgesellschaften, für die die Bundesrepublik Deutschland Referenzmitgliedstaat nach § 56 ist, die Befugnisse, die ihr nach diesem Gesetz gegenüber AIF-Kapitalverwaltungsgesellschaften zustehen. Ausländische AIF-Verwaltungsgesellschaften, denen die Bundesanstalt eine Erlaubnis nach § 58 erteilt hat, unterliegen der Aufsicht der Bundesanstalt nach dem vorliegenden Gesetz.
 
@@ -2043,8 +1980,7 @@ Vor einer Untersagung hat die Bundesanstalt die zuständigen Stellen des Herkunf
 
 (+++ § 57: Zur Anwendung vgl. § 344 +++)
 
-
-## § 58 – Erteilung der Erlaubnis für eine ausländische AIF-Verwaltungsgesellschaft
+# § 58 – Erteilung der Erlaubnis für eine ausländische AIF-Verwaltungsgesellschaft
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, inländische Spezial-AIF oder EU-AIF zu verwalten oder von ihr verwaltete AIF gemäß Artikel 39 oder 40 der Richtlinie 2011/61/EU in den Mitgliedstaaten der Europäischen Union oder Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu vertreiben und gibt sie die Bundesrepublik Deutschland als Referenzmitgliedstaat an, hat sie bei der Bundesanstalt einen Antrag auf Erteilung einer Erlaubnis zu stellen.
 
@@ -2102,8 +2038,7 @@ d) den Namen des gesetzlichen Vertreters der ausländischen AIF-Verwaltungsgesel
 
 (+++ § 58: Zur Anwendung vgl. § 344 +++)
 
-
-## § 59 – Befreiung einer ausländischen AIF-Verwaltungsgesellschaft von Bestimmungen der Richtlinie 2011/61/EU
+# § 59 – Befreiung einer ausländischen AIF-Verwaltungsgesellschaft von Bestimmungen der Richtlinie 2011/61/EU
 
 (1) Ist die Bundesanstalt der Auffassung, dass die ausländische AIF-Verwaltungsgesellschaft gemäß § 57 Absatz 2 Satz 2 von der Einhaltung bestimmter Vorschriften der Richtlinie 2011/61/EU befreit werden kann, so setzt sie die Europäische Wertpapier-und Marktaufsichtsbehörde hiervon unverzüglich in Kenntnis. Zur Begründung dieser Beurteilung zieht sie die von der ausländischen AIF-Verwaltungsgesellschaft gemäß § 58 Absatz 9 Nummer 1 Buchstabe b und c vorgelegten Angaben heran.
 
@@ -2115,8 +2050,7 @@ d) den Namen des gesetzlichen Vertreters der ausländischen AIF-Verwaltungsgesel
 
 (+++ § 59: Zur Anwendung vgl. § 344 +++)
 
-
-## § 60 – Unterrichtung der Europäischen Wertpapier- und Marktaufsichtsbehörde im Hinblick auf die Erlaubnis einer ausländischen AIF-Verwaltungsgesellschaft durch die Bundesanstalt
+# § 60 – Unterrichtung der Europäischen Wertpapier- und Marktaufsichtsbehörde im Hinblick auf die Erlaubnis einer ausländischen AIF-Verwaltungsgesellschaft durch die Bundesanstalt
 
 (1) Die Bundesanstalt unterrichtet die Europäische Wertpapier- und Marktaufsichtsbehörde unverzüglich über das Ergebnis des Erlaubnisverfahrens, über Änderungen hinsichtlich der Erlaubnis der ausländischen AIF-Verwaltungsgesellschaft und über einen Entzug der Erlaubnis.
 
@@ -2124,8 +2058,7 @@ d) den Namen des gesetzlichen Vertreters der ausländischen AIF-Verwaltungsgesel
 
 (+++ § 60: Zur Anwendung vgl. § 344 +++)
 
-
-## § 61 – Änderung des Referenzmitgliedstaates einer ausländischen AIF-Verwaltungsgesellschaft
+# § 61 – Änderung des Referenzmitgliedstaates einer ausländischen AIF-Verwaltungsgesellschaft
 
 (1) Die weitere Geschäftsentwicklung einer ausländischen AIF-Verwaltungsgesellschaft in den Mitgliedstaaten der Europäischen Union und den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum hat keine Auswirkungen auf die Bestimmung des Referenzmitgliedstaates. Wenn eine durch die Bundesanstalt zugelassene ausländische AIF-Verwaltungsgesellschaft jedoch innerhalb von zwei Jahren nach ihrer Erstzulassung ihre Vertriebsstrategie ändert und wenn diese Änderung, falls die geänderte Vertriebsstrategie die ursprüngliche Vertriebsstrategie gewesen wäre, die Festlegung des Referenzmitgliedstaates beeinflusst hätte, hat die ausländische AIF-Verwaltungsgesellschaft die Bundesanstalt von dieser Änderung vor ihrer Durchführung in Kenntnis zu setzen und ihren neuen Referenzmitgliedstaat gemäß den Kriterien nach Artikel 37 Absatz 4 der Richtlinie 2011/61/EU und entsprechend der neuen Strategie anzugeben. Die ausländische AIF-Verwaltungsgesellschaft hat ihre Beurteilung zu begründen, indem sie ihre neue Vertriebsstrategie der Bundesanstalt gegenüber offenlegt. Zugleich hat die ausländische AIF-Verwaltungsgesellschaft Angaben zu ihrem gesetzlichen Vertreter, einschließlich zu dessen Name und dem Ort, an dem er seinen Sitz hat, vorzulegen. Der gesetzliche Vertreter muss seinen Sitz in dem neuen Referenzmitgliedstaat haben.
 
@@ -2149,8 +2082,7 @@ d) den Namen des gesetzlichen Vertreters der ausländischen AIF-Verwaltungsgesel
 
 (+++ § 61: Zur Anwendung vgl. § 344 +++)
 
-
-## § 62 – Rechtsstreitigkeiten
+# § 62 – Rechtsstreitigkeiten
 
 (1) Sofern die Bundesrepublik Deutschland Referenzmitgliedstaat einer ausländischen AIF-Verwaltungsgesellschaft ist oder als solcher in Betracht kommt, werden alle zwischen der Bundesanstalt und der ausländischen AIF-Verwaltungsgesellschaft auftretenden Streitigkeiten nach deutschem Recht beigelegt und unterliegen deutscher Gerichtsbarkeit.
 
@@ -2158,8 +2090,7 @@ d) den Namen des gesetzlichen Vertreters der ausländischen AIF-Verwaltungsgesel
 
 (+++ § 62: Zur Anwendung vgl. § 344 +++)
 
-
-## § 63 – Verweismöglichkeiten der Bundesanstalt an die Europäische Wertpapier- und Marktaufsichtsbehörde
+# § 63 – Verweismöglichkeiten der Bundesanstalt an die Europäische Wertpapier- und Marktaufsichtsbehörde
 
 Die Bundesanstalt kann die folgenden Angelegenheiten der Europäischen Wertpapier- und Marktaufsichtsbehörde zur Kenntnis bringen, die im Rahmen der ihr durch Artikel 19 der Verordnung (EU) Nr. 1095/2010 übertragenen Befugnisse tätig werden kann:
 
@@ -2179,8 +2110,7 @@ Die Bundesanstalt kann die folgenden Angelegenheiten der Europäischen Wertpapie
 
 (+++ § 63: Zur Anwendung vgl. § 344 +++)
 
-
-## § 64 – Vergleichende Analyse der Zulassung von und der Aufsicht über ausländische AIF-Verwaltungsgesellschaften
+# § 64 – Vergleichende Analyse der Zulassung von und der Aufsicht über ausländische AIF-Verwaltungsgesellschaften
 
 (1) Sofern die Europäische Wertpapier- und Marktaufsichtsbehörde nach Artikel 38 Absatz 4 der Richtlinie 2011/61/EU Leitlinien und Empfehlungen herausgibt, um einheitliche, effiziente und wirksame Praktiken für die Aufsicht über ausländische AIF-Verwaltungsgesellschaften zu schaffen, unternimmt die Bundesanstalt alle erforderlichen Anstrengungen, um diesen Leitlinien und Empfehlungen nachzukommen.
 
@@ -2188,8 +2118,7 @@ Die Bundesanstalt kann die folgenden Angelegenheiten der Europäischen Wertpapie
 
 (+++ § 64: Zur Anwendung vgl. § 344 +++)
 
-
-## § 65 – Verwaltung von EU-AIF durch ausländische AIF-Verwaltungsgesellschaften, für die die Bundesrepublik Deutschland Referenzmitgliedstaat ist
+# § 65 – Verwaltung von EU-AIF durch ausländische AIF-Verwaltungsgesellschaften, für die die Bundesrepublik Deutschland Referenzmitgliedstaat ist
 
 (1) Die Verwaltung eines EU-AIF durch eine ausländische AIF-Verwaltungsgesellschaft, für die die Bundesrepublik Deutschland gemäß § 56 Referenzmitgliedsstaat ist und die über eine Erlaubnis nach § 58 verfügt, im Wege des grenzüberschreitenden Dienstleistungsverkehrs oder über eine Zweigniederlassung setzt voraus, dass sie der Bundesanstalt folgende Angaben übermittelt hat:
 
@@ -2219,8 +2148,7 @@ Die Bundesanstalt kann die folgenden Angelegenheiten der Europäischen Wertpapie
 
 (+++ § 65: Zur Anwendung vgl. § 344 +++)
 
-
-## § 66 – Inländische Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von ausländischen AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist
+# § 66 – Inländische Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr von ausländischen AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, erstmals im Wege des grenzüberschreitenden Dienstleistungsverkehrs oder über eine Zweigniederlassung inländische Spezial-AIF zu verwalten, so ist dies nur zulässig, wenn die zuständigen Stellen des Referenzmitgliedstaates der ausländischen AIF-Verwaltungsgesellschaft der Bundesanstalt folgende Angaben und Unterlagen übermittelt haben:
 
@@ -2246,8 +2174,7 @@ Die Bundesanstalt kann die folgenden Angelegenheiten der Europäischen Wertpapie
 
 (+++ § 66: Zur Anwendung vgl. § 344 +++)
 
-
-## § 67 – Jahresbericht für EU-AIF und ausländische AIF
+# § 67 – Jahresbericht für EU-AIF und ausländische AIF
 
 (1) Jede AIF-Kapitalverwaltungsgesellschaft ist verpflichtet, für jeden von ihr verwalteten EU-AIF und für jeden von ihr in der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum vertriebenen EU-AIF oder ausländischen AIF für jedes Geschäftsjahr spätestens sechs Monate nach Ende des Geschäftsjahres einen Jahresbericht gemäß Absatz 3 zu erstellen. Dieser Jahresbericht ist den Anlegern auf Anfrage vorzulegen.
 
@@ -2273,8 +2200,7 @@ Inhalt und Form des Jahresberichts bestimmen sich im Übrigen nach den Artikeln 
 
 (5) Die im Jahresbericht enthaltenen Zahlenangaben werden von einer oder mehreren Personen geprüft, die gemäß der Richtlinie 2006/43/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Abschlussprüfungen von Jahresabschlüssen und konsolidierten Abschlüssen (ABl. L 157 vom 9.6.2006, S. 87) gesetzlich zur Abschlussprüfung zugelassen sind. Der Abschlussprüfer hat das Ergebnis der Prüfung in einem Bestätigungsvermerk zusammenzufassen. Der Bestätigungsvermerk des Abschlussprüfers einschließlich etwaiger Einschränkungen ist in jedem Jahresbericht vollständig wiederzugeben. Abweichend von den Sätzen 1 und 2 können AIF-Kapitalverwaltungsgesellschaften, die ausländische AIF verwalten, die Jahresberichte dieser AIF einer Prüfung entsprechend den internationalen Prüfungsstandards unterziehen, die in dem Staat verbindlich vorgeschrieben oder zugelassen sind, in dem der ausländische AIF seinen satzungsmäßigen Sitz hat.
 
-
-## § 68 – Beauftragung und jährliche Prüfung; Verordnungsermächtigung
+# § 68 – Beauftragung und jährliche Prüfung; Verordnungsermächtigung
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass für jeden von ihr verwalteten OGAW eine Verwahrstelle im Sinne des Absatzes 2 beauftragt wird. Die Beauftragung der Verwahrstelle ist in einem schriftlichen Vertrag zu vereinbaren. Der Vertrag regelt unter anderem den Informationsaustausch, der für erforderlich erachtet wird, damit die Verwahrstelle nach den Vorschriften dieses Gesetzes und gemäß den anderen einschlägigen Rechts- und Verwaltungsvorschriften ihren Aufgaben für den OGAW, für den sie als Verwahrstelle beauftragt wurde, nachkommen kann.
 
@@ -2297,8 +2223,7 @@ Inhalt und Form des Jahresberichts bestimmen sich im Übrigen nach den Artikeln 
 (+++ § 68: Zur Anwendung vgl. § 52 Abs. 5 +++)  
 § 68 Abs. 3 Satz 3 Kursivdruck: IdF d. Art. 6 Abs. 11 Nr. 8 Buchst. b DBuchst. bb G v. 28.8.2013 I 3395 mWv 1.1.2014 (ersetzt wurde das Wort "Kreditinstituts")
 
-
-## § 69 – Aufsicht
+# § 69 – Aufsicht
 
 (1) Die Auswahl sowie jeder Wechsel der Verwahrstelle bedürfen der Genehmigung der Bundesanstalt. Die Bundesanstalt kann die Genehmigung mit Nebenbestimmungen verbinden. Erlässt die Bundesanstalt eine Übertragungsanordnung nach § 107 Absatz 1 des Sanierungs- und Abwicklungsgesetzes gegenüber einer Verwahrstelle mit der Folge, dass deren Verwahrstellenaufgaben auf einen übernehmenden Rechtsträger übergehen, gilt der durch die Anordnung herbeigeführte Verwahrstellenwechsel als genehmigt, sobald der Verwahrstelle die Anordnung gemäß § 114 Absatz 1 des Sanierungs- und Abwicklungsgesetzes bekannt gegeben wird. Die Bundesanstalt hat die OGAW-Verwaltungsgesellschaften, die die Verwahrstelle beauftragt haben, unverzüglich nach Bekanntgabe der Übertragungsanordnung über den Wechsel der Verwahrstelle zu unterrichten.
 
@@ -2310,8 +2235,7 @@ Inhalt und Form des Jahresberichts bestimmen sich im Übrigen nach den Artikeln 
 
 (+++ § 69: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 70 – Interessenkollision
+# § 70 – Interessenkollision
 
 (1) Die Verwahrstelle handelt bei der Wahrnehmung ihrer Aufgaben ehrlich, redlich, professionell, unabhängig und ausschließlich im Interesse des inländischen OGAW und seiner Anleger.
 
@@ -2339,8 +2263,7 @@ Als Wiederverwendung gilt jede Transaktion verwahrter Vermögensgegenstände, ei
 
 (+++ § 70: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 71 – Ausgabe und Rücknahme von Anteilen oder Aktien eines inländischen OGAW
+# § 71 – Ausgabe und Rücknahme von Anteilen oder Aktien eines inländischen OGAW
 
 (1) Die Verwahrstelle hat die Anteile oder Aktien eines inländischen OGAW auszugeben und zurückzunehmen. Anteile oder Aktien dürfen nur gegen volle Leistung des Ausgabepreises ausgegeben werden. Sacheinlagen sind vorbehaltlich von § 180 Absatz 4 sowie § 190 Absatz 1 und 2 unzulässig.
 
@@ -2352,8 +2275,7 @@ Als Wiederverwendung gilt jede Transaktion verwahrter Vermögensgegenstände, ei
 
 (+++ § 71: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 72 – Verwahrung
+# § 72 – Verwahrung
 
 (1) Die Verwahrstelle hat die Vermögensgegenstände des inländischen OGAW oder der für Rechnung des inländischen OGAW handelnden OGAW-Verwaltungsgesellschaft wie folgt zu verwahren:
 
@@ -2385,8 +2307,7 @@ zu übertragen.
 
 (+++ § 72: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 73 – Unterverwahrung
+# § 73 – Unterverwahrung
 
 (1) Die Verwahrstelle kann die Verwahraufgaben nach § 72 unter den folgenden Bedingungen auf ein anderes Unternehmen (Unterverwahrer) auslagern:
 
@@ -2434,8 +2355,7 @@ c) über die Umstände, die die Übertragung rechtfertigen und
 
 (+++ § 73: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 74 – Zahlung und Lieferung
+# § 74 – Zahlung und Lieferung
 
 (1) Die Verwahrstelle hat folgende Geldbeträge auf einem für den inländischen OGAW eingerichteten gesperrten Konto zu verbuchen:
 
@@ -2463,8 +2383,7 @@ c) über die Umstände, die die Übertragung rechtfertigen und
 
 (+++ § 74: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 75 – Zustimmungspflichtige Geschäfte
+# § 75 – Zustimmungspflichtige Geschäfte
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf die nachstehenden Geschäfte nur mit Zustimmung der Verwahrstelle durchführen:
 
@@ -2476,8 +2395,7 @@ c) über die Umstände, die die Übertragung rechtfertigen und
 
 (+++ § 75: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 76 – Kontrollfunktion
+# § 76 – Kontrollfunktion
 
 (1) Die Verwahrstelle hat sicherzustellen, dass
 
@@ -2495,8 +2413,7 @@ c) über die Umstände, die die Übertragung rechtfertigen und
 
 (+++ § 76: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 77 – Haftung
+# § 77 – Haftung
 
 (1) Die Verwahrstelle haftet gegenüber dem inländischen OGAW oder gegenüber den Anlegern des inländischen OGAW für das Abhandenkommen eines verwahrten Finanzinstrumentes durch die Verwahrstelle oder durch einen Unterverwahrer, dem die Verwahrung von Finanzinstrumenten nach § 72 Absatz 1 Nummer 1 übertragen wurde. Im Fall eines solchen Abhandenkommens hat die Verwahrstelle dem inländischen OGAW oder der für Rechnung des inländischen OGAW handelnden OGAW-Verwaltungsgesellschaft unverzüglich ein Finanzinstrument gleicher Art zurückzugeben oder einen entsprechenden Betrag zu erstatten. Die Verwahrstelle haftet nicht, wenn sie nachweisen kann, dass das Abhandenkommen auf äußere Ereignisse zurückzuführen ist, deren Konsequenzen trotz aller angemessenen Gegenmaßnahmen unabwendbar waren. Weitergehende Ansprüche, die sich aus den Vorschriften des bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten Handlungen ergeben, bleiben unberührt.
 
@@ -2510,8 +2427,7 @@ c) über die Umstände, die die Übertragung rechtfertigen und
 
 (+++ § 77: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 78 – Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung
+# § 78 – Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung
 
 (1) Die Verwahrstelle ist berechtigt und verpflichtet, im eigenen Namen
 
@@ -2541,8 +2457,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 (+++ § 78: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 79 – Vergütung, Aufwendungsersatz
+# § 79 – Vergütung, Aufwendungsersatz
 
 (1) Die Verwahrstelle darf der OGAW-Verwaltungsgesellschaft aus den zu einem inländischen OGAW gehörenden Konten nur die für die Verwaltung des inländischen OGAW zustehende Vergütung und den ihr zustehenden Ersatz von Aufwendungen auszahlen.
 
@@ -2550,8 +2465,7 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 (+++ § 79: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 80 – Beauftragung
+# § 80 – Beauftragung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass für jeden von ihr verwalteten AIF eine Verwahrstelle im Sinne des Absatzes 2 oder, sofern die Voraussetzungen nach den Absätzen 3 und 4 erfüllt sind, eine Verwahrstelle im Sinne des Absatzes 3 beauftragt wird; § 55 bleibt unberührt. Die Beauftragung der Verwahrstelle ist in einem schriftlichen Vertrag zu vereinbaren. Der Vertrag regelt unter anderem den Informationsaustausch, der für erforderlich erachtet wird, damit die Verwahrstelle nach den Vorschriften dieses Gesetzes und gemäß den anderen einschlägigen Rechts- und Verwaltungsvorschriften ihren Aufgaben für den AIF, für den sie als Verwahrstelle beauftragt wurde, nachkommen kann.
 
@@ -2609,8 +2523,7 @@ Ist eine zuständige Behörde eines anderen Mitgliedstaates der Europäischen Un
 
 (+++ § 80: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 81 – Verwahrung
+# § 81 – Verwahrung
 
 (1) Die Verwahrstelle hat die Vermögensgegenstände des inländischen AIF oder der für Rechnung des inländischen AIF handelnden AIF-Verwaltungsgesellschaft wie folgt zu verwahren:
 
@@ -2640,8 +2553,7 @@ bestimmen sich nach den Artikeln 85 bis 97 der Delegierten Verordnung (EU) Nr. 2
 
 (+++ § 81: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 82 – Unterverwahrung
+# § 82 – Unterverwahrung
 
 (1) Die Verwahrstelle kann die Verwahraufgaben nach § 81 auf ein anderes Unternehmen (Unterverwahrer) unter den folgenden Bedingungen auslagern:
 
@@ -2688,8 +2600,7 @@ b) über die Umstände, die die Übertragung rechtfertigen, und
 (+++ § 82: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5+++)  
 (+++ § 82 Abs. 6 Satz 2: Zur Anwendung vgl. § 359 +++)
 
-
-## § 83 – Kontrollfunktion
+# § 83 – Kontrollfunktion
 
 (1) Die Verwahrstelle hat sicherzustellen, dass
 
@@ -2729,8 +2640,7 @@ Sofern Geldkonten im Namen der Verwahrstelle, die für Rechnung des inländische
 
 (+++ § 83: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 84 – Zustimmungspflichtige Geschäfte
+# § 84 – Zustimmungspflichtige Geschäfte
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf die nachstehenden Geschäfte im Hinblick auf Publikums-AIF nur mit Zustimmung der Verwahrstelle durchführen:
 
@@ -2748,8 +2658,7 @@ Sofern Geldkonten im Namen der Verwahrstelle, die für Rechnung des inländische
 
 (+++ § 84: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5+++)
 
-
-## § 85 – Interessenkollision
+# § 85 – Interessenkollision
 
 (1) Bei der Wahrnehmung ihrer Aufgaben handelt die Verwahrstelle ehrlich, redlich, professionell, unabhängig und im Interesse des inländischen AIF und seiner Anleger.
 
@@ -2768,22 +2677,19 @@ Sofern Geldkonten im Namen der Verwahrstelle, die für Rechnung des inländische
 (+++ § 85: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)  
 (+++ § 85 Abs. 5 Satz 4: Zur Anwendung vgl. § 359 +++)
 
-
-## § 86 – Informationspflichten gegenüber der Bundesanstalt
+# § 86 – Informationspflichten gegenüber der Bundesanstalt
 
 Die Verwahrstelle stellt der Bundesanstalt auf Anfrage alle Informationen zur Verfügung, die sie im Rahmen der Erfüllung ihrer Aufgaben erhalten hat und die die zuständigen Behörden des AIF oder der AIF-Verwaltungsgesellschaft benötigen können. Ist die Bundesanstalt nicht die zuständige Behörde des AIF oder der AIF-Verwaltungsgesellschaft, stellt sie den zuständigen Behörden des AIF und der AIF-Verwaltungsgesellschaft die erhaltenen Informationen unverzüglich zur Verfügung.
 
 (+++ § 86: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5+++)
 
-
-## § 87 – Anwendbare Vorschriften für Publikums-AIF
+# § 87 – Anwendbare Vorschriften für Publikums-AIF
 
 Für Verwahrstellen, die mit der Verwahrung von Publikums-AIF beauftragt sind, gelten zusätzlich zu den Vorschriften dieses Unterabschnitts die Regelungen des § 69 Absatz 1, 2 und 4 entsprechend.
 
 (+++ § 87: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 88 – Haftung
+# § 88 – Haftung
 
 (1) Die Verwahrstelle haftet gegenüber dem inländischen AIF oder gegenüber den Anlegern des inländischen AIF für das Abhandenkommen eines verwahrten Finanzinstrumentes durch die Verwahrstelle oder durch einen Unterverwahrer, dem die Verwahrung von Finanzinstrumenten nach § 81 Absatz 1 Nummer 1 übertragen wurde. Im Fall eines solchen Abhandenkommens hat die Verwahrstelle dem inländischen AIF oder der für Rechnung des inländischen AIF handelnden AIF-Verwaltungsgesellschaft unverzüglich ein Finanzinstrument gleicher Art zurückzugeben oder einen entsprechenden Betrag zu erstatten. Die Verwahrstelle haftet nicht, wenn sie nachweisen kann, dass das Abhandenkommen auf äußere Ereignisse zurückzuführen ist, deren Konsequenzen trotz aller angemessenen Gegenmaßnahmen unabwendbar waren. Weitergehende Ansprüche, die sich aus den Vorschriften des bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten Handlungen ergeben, bleiben unberührt.
 
@@ -2829,8 +2735,7 @@ b) der es dem inländischen Spezial-AIF oder der für Rechnung des inländischen
 
 (+++ § 88: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 89 – Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung
+# § 89 – Geltendmachung von Ansprüchen der Anleger; Verordnungsermächtigung
 
 (1) Die Verwahrstelle ist berechtigt und verpflichtet, im eigenen Namen
 
@@ -2862,22 +2767,19 @@ Das Bundesministerium der Finanzen kann diese Ermächtigung durch Rechtsverordnu
 
 (+++ § 89: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 89a – Vergütung, Aufwendungsersatz
+# § 89a – Vergütung, Aufwendungsersatz
 
 (1) Die Verwahrstelle darf der AIF-Verwaltungsgesellschaft aus den zu einem inländischen AIF gehörenden Konten nur die für die Verwaltung des inländischen AIF zustehende Vergütung und den ihr zustehenden Ersatz von Aufwendungen auszahlen. Werden die Konten bei einer anderen Stelle nach § 83 Absatz 6 Satz 2 geführt, bedarf die Auszahlung der der AIF-Verwaltungsgesellschaft für die Verwaltung des inländischen AIF zustehenden Vergütung und des ihr zustehenden Ersatzes von Aufwendungen der Zustimmung der Verwahrstelle.
 
 (2) Die Verwahrstelle darf die Vergütung, die ihr für die Verwahrung des inländischen AIF und die Wahrnehmung der Aufgaben nach Maßgabe dieses Gesetzes zusteht, nur mit Zustimmung der AIF-Verwaltungsgesellschaft entnehmen. Entsprechendes gilt, wenn die zu einem inländischen AIF gehörenden Konten bei einer anderen Stelle nach § 83 Absatz 6 Satz 2 geführt werden.
 
-
-## § 90 – Anwendbare Vorschriften für ausländische AIF
+# § 90 – Anwendbare Vorschriften für ausländische AIF
 
 Verwaltet eine AIF-Kapitalverwaltungsgesellschaft einen ausländischen AIF und beauftragt sie eine Verwahrstelle mit Sitz in der Bundesrepublik Deutschland oder verwaltet eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland nach § 56 ist, einen ausländischen AIF und beauftragt eine Verwahrstelle mit Sitz in der Bundesrepublik Deutschland, gelten die Vorschriften dieses Unterabschnitts entsprechend; § 55 bleibt unberührt.
 
 (+++ § 90: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 353 Abs. 5 +++)
 
-
-## § 91 – Rechtsform
+# § 91 – Rechtsform
 
 (1) Offene inländische Investmentvermögen dürfen nur als Sondervermögen gemäß den Vorschriften des Unterabschnitts 2 oder als Investmentaktiengesellschaft mit veränderlichem Kapital gemäß den Vorschriften des Unterabschnitts 3 aufgelegt werden.
 
@@ -2887,8 +2789,7 @@ Verwaltet eine AIF-Kapitalverwaltungsgesellschaft einen ausländischen AIF und b
 
 (+++ § 91: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 92 – Sondervermögen
+# § 92 – Sondervermögen
 
 (1) Die zum Sondervermögen gehörenden Vermögensgegenstände können nach Maßgabe der Anlagebedingungen im Eigentum der Kapitalverwaltungsgesellschaft oder im Miteigentum der Anleger stehen. Das Sondervermögen ist von dem eigenen Vermögen der Kapitalverwaltungsgesellschaft getrennt zu halten.
 
@@ -2902,8 +2803,7 @@ Verwaltet eine AIF-Kapitalverwaltungsgesellschaft einen ausländischen AIF und b
 
 (+++ § 92: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 93 – Verfügungsbefugnis, Treuhänderschaft, Sicherheitsvorschriften
+# § 93 – Verfügungsbefugnis, Treuhänderschaft, Sicherheitsvorschriften
 
 (1) Die Kapitalverwaltungsgesellschaft ist berechtigt, im eigenen Namen über die zu einem Sondervermögen gehörenden Gegenstände nach Maßgabe dieses Gesetzes und der Anlagebedingungen zu verfügen und alle Rechte aus ihnen auszuüben.
 
@@ -2922,15 +2822,13 @@ Verwaltet eine AIF-Kapitalverwaltungsgesellschaft einen ausländischen AIF und b
 (+++ § 93: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)  
 (+++ § 93 Abs. 8: Zur Anwendung vgl. § 108 Abs. 4 u. § 149 Abs. 2 +++)
 
-
-## § 94 – Stimmrechtsausübung
+# § 94 – Stimmrechtsausübung
 
 Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den zu einem Sondervermögen gehörenden Aktien keiner schriftlichen Vollmacht der Anleger. § 129 Absatz 3 des Aktiengesetzes ist entsprechend anzuwenden. Die Kapitalverwaltungsgesellschaft soll das Stimmrecht aus Aktien von Gesellschaften, die ihren Sitz im Geltungsbereich dieses Gesetzes haben, im Regelfall selbst ausüben. Das Stimmrecht kann für den Einzelfall durch einen Bevollmächtigten ausgeübt werden; dabei sollen ihm Weisungen für die Ausübung erteilt werden. Ein unabhängiger Stimmrechtsvertreter kann auf Dauer und ohne Weisungen für die Stimmrechtsausübungen bevollmächtigt werden.
 
 (+++ § 94: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 95 – Anteilscheine
+# § 95 – Anteilscheine
 
 (1) Die Anteile an Sondervermögen werden in Anteilscheinen verbrieft. Die Anteilscheine können auf den Inhaber oder auf Namen lauten. Lauten sie auf den Inhaber, sind sie in einer Sammelurkunde zu verbriefen und ist der Anspruch auf Einzelverbriefung auszuschließen; lauten sie auf den Namen, so gelten für sie die §§ 67 und 68 des Aktiengesetzes entsprechend. Die Anteilscheine können über einen oder mehrere Anteile desselben Sondervermögens ausgestellt werden. Die Anteilscheine sind von der Kapitalverwaltungsgesellschaft und von der Verwahrstelle zu unterzeichnen. Die Unterzeichnung kann durch mechanische Vervielfältigung geschehen.
 
@@ -2938,8 +2836,7 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 
 (+++ § 95: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 96 – Anteilklassen und Teilsondervermögen; Verordnungsermächtigung
+# § 96 – Anteilklassen und Teilsondervermögen; Verordnungsermächtigung
 
 (1) Die Anteile an einem Sondervermögen können unter Berücksichtigung der Festlegungen in der Rechtsverordnung nach Absatz 4 nach verschiedenen Ausgestaltungsmerkmalen, insbesondere hinsichtlich der Ertragsverwendung, des Ausgabeaufschlags, des Rücknahmeabschlags, der Währung des Anteilswertes, der Verwaltungsvergütung, der Mindestanlagesumme oder einer Kombination dieser Merkmale unterteilt werden (Anteilklassen). Anteile einer Anteilklasse haben gleiche Ausgestaltungsmerkmale. Die Kosten bei Einführung neuer Anteilklassen für bestehende Sondervermögen müssen zulasten der Anteilpreise der neuen Anteilklasse in Rechnung gestellt werden. Der Wert des Anteils ist für jede Anteilklasse gesondert zu errechnen.
 
@@ -2952,8 +2849,7 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 (+++ § 96: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5 u. § 108 Abs. 4 +++)  
 (+++ § 96 Abs. 1: Zur Anwendung vgl. § 149 Abs. 2 +++)
 
-
-## § 97 – Sammelverwahrung, Verlust von Anteilscheinen
+# § 97 – Sammelverwahrung, Verlust von Anteilscheinen
 
 (1) Namensanteilscheine sowie dem jeweiligen Namensanteilschein zugehörige, noch nicht fällige Gewinnanteilscheine dürfen in Sammelverwahrung im Sinne des Depotgesetzes nur genommen werden, wenn sie blanko indossiert sind. Inhaberanteilscheine sowie dem jeweiligen Inhaberanteilschein zugehörige, noch nicht fällige Gewinnanteilscheine sind einer der folgenden Stellen zur Sammelverwahrung anzuvertrauen:
 
@@ -2971,8 +2867,7 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 
 (+++ § 97: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 98 – Rücknahme von Anteilen, Aussetzung
+# § 98 – Rücknahme von Anteilen, Aussetzung
 
 (1) Jeder Anleger kann mindestens zweimal im Monat verlangen, dass ihm gegen Rückgabe des Anteils sein Anteil an dem Sondervermögen aus diesem ausgezahlt wird; die Einzelheiten sind in den Anlagebedingungen festzulegen. Für ein Spezialsondervermögen kann abweichend von Satz 1 vereinbart werden, dass die Rücknahme von Anteilen nur zu bestimmten Rücknahmeterminen erfolgt.
 
@@ -2986,8 +2881,7 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 
 (+++ § 98: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 99 – Kündigung und Verlust des Verwaltungsrechts
+# § 99 – Kündigung und Verlust des Verwaltungsrechts
 
 (1) Die Kapitalverwaltungsgesellschaft ist berechtigt, die Verwaltung eines Sondervermögens unter Einhaltung einer Kündigungsfrist von sechs Monaten durch Bekanntmachung im Bundesanzeiger und darüber hinaus im Jahresbericht oder Halbjahresbericht zu kündigen. Die Anlagebedingungen können eine längere Kündigungsfrist vorsehen. Die Anleger sind über eine nach Satz 1 bekannt gemachte Kündigung mittels eines dauerhaften Datenträgers unverzüglich zu unterrichten. Abweichend von Satz 1 kann für ein Spezialsondervermögen in den Anlagebedingungen auch eine kürzere Kündigungsfrist vereinbart werden; bei Spezialsondervermögen ist eine Bekanntmachung der Kündigung im Bundesanzeiger und im Jahresbericht nicht erforderlich.
 
@@ -3002,8 +2896,7 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 (+++ § 99: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5 u. § 112 Abs. 1 Satz 4+++)  
 (+++ § 99 Abs. 1 bis 4: Zur Anwendung vgl. § 154 Abs. 1 Satz 5 +++)
 
-
-## § 100 – Abwicklung des Sondervermögens
+# § 100 – Abwicklung des Sondervermögens
 
 (1) Erlischt das Recht der Kapitalverwaltungsgesellschaft, ein Sondervermögen zu verwalten, so geht,
 
@@ -3017,8 +2910,7 @@ Die Kapitalverwaltungsgesellschaft bedarf zur Ausübung des Stimmrechts aus den 
 
 (+++ § 100: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 112 Abs. 1 Satz 4, § 129 Abs 2 Satz 1, § 144 Satz 5 u. § 154 Abs. 2 +++)
 
-
-## § 100a – Grunderwerbsteuer bei Übergang eines Immobilien-Sondervermögens
+# § 100a – Grunderwerbsteuer bei Übergang eines Immobilien-Sondervermögens
 
 Erwerbsvorgänge im Sinne des § 1 des Grunderwerbsteuergesetzes, die sich aus dem Übergang eines Immobilien-Sondervermögens auf die Verwahrstelle gemäß § 100 Absatz 1 Nummer 1 ergeben, sind von der Grunderwerbsteuer befreit, wenn sie fristgerecht und vollständig im Sinne der §§ 18 bis 20 des Grunderwerbsteuergesetzes angezeigt werden. Für Erwerbsvorgänge im Sinne des Satzes 1 findet die Vorschrift des § 17 Absatz 3 des Grunderwerbsteuergesetzes entsprechende Anwendung. Satz 1 gilt nur, wenn der Übergang des Immobilien-Sondervermögens auf die Verwahrstelle gemäß § 100 Absatz 1 Nummer 1 erfolgt, weil das Recht der AIF-Kapitalverwaltungsgesellschaft, das Immobilien-Sondervermögen zu verwalten,
 
@@ -3030,8 +2922,7 @@ erloschen ist, und das Immobilien-Sondervermögen gemäß § 100 Absatz 2 abgewi
 
 (+++ § 100a: Zur Anwendung vgl. § 357 +++)
 
-
-## § 100b – Übertragung auf eine andere Kapitalverwaltungsgesellschaft
+# § 100b – Übertragung auf eine andere Kapitalverwaltungsgesellschaft
 
 (1) Anstelle der Kündigung des Verwaltungsrechts und Abwicklung des Sondervermögens durch die Verwahrstelle nach den §§ 99 und 100 kann die Kapitalverwaltungsgesellschaft mit Genehmigung der Bundesanstalt das Sondervermögen, wenn dieses im Eigentum der Kapitalverwaltungsgesellschaft steht, oder das Verwaltungs- und Verfügungsrecht über das Sondervermögen, wenn dieses im Miteigentum der Anleger steht, nach Maßgabe der bisherigen Anlagebedingungen auf eine andere Kapitalverwaltungsgesellschaft (aufnehmende Kapitalverwaltungsgesellschaft) übertragen. Die aufnehmende Kapitalverwaltungsgesellschaft muss über eine Erlaubnis zur Verwaltung solcher Arten von Investmentvermögen verfügen. § 100 Absatz 3 Satz 2 bis 5 gilt entsprechend. Die Genehmigung nach Satz 1 ist innerhalb einer Frist von acht Wochen nach Eingang des Genehmigungsantrags zu erteilen, wenn die gesetzlichen Voraussetzungen für die Genehmigung vorliegen und der Antrag von der übertragenden Kapitalverwaltungsgesellschaft gestellt wurde. § 163 Absatz 2 Satz 2 und 4 gilt entsprechend.
 
@@ -3041,8 +2932,7 @@ erloschen ist, und das Immobilien-Sondervermögen gemäß § 100 Absatz 2 abgewi
 
 (4) Ein Wechsel der Verwahrstelle bedarf bei Publikumssondervermögen der Genehmigung der Bundesanstalt.
 
-
-## § 101 – Jahresbericht
+# § 101 – Jahresbericht
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jedes OGAW-Sondervermögen für den Schluss eines jeden Geschäftsjahres spätestens vier Monate nach Ende des Geschäftsjahres und für jedes AIF-Sondervermögen für den Schluss eines jeden Geschäftsjahres spätestens sechs Monate nach Ende des Geschäftsjahres einen Jahresbericht nach den Sätzen 2 und 3 zu erstellen. Der Jahresbericht muss einen Bericht über die Tätigkeit der Kapitalverwaltungsgesellschaft im abgelaufenen Geschäftsjahr und alle wesentlichen Angaben enthalten, die es den Anlegern ermöglichen, sich ein Urteil über diese Tätigkeit und die Ergebnisse des Sondervermögens zu bilden. Der Jahresbericht muss enthalten:
 
@@ -3097,22 +2987,19 @@ Die näheren Anforderungen zu Inhalt und Form des Jahresberichts bestimmen sich 
 (+++ § 101: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 120 Abs. 2 u. 3 u. § 135 Abs. 3, 4 u. 7 +++)  
 (+++ § 101 Abs. 2: Zur Nichtanwendung vgl. §§ 234 Abs. 4 VAG 2016 +++)
 
-
-## § 102 – Abschlussprüfung
+# § 102 – Abschlussprüfung
 
 Der Jahresbericht des Sondervermögens ist durch einen Abschlussprüfer zu prüfen. Der Abschlussprüfer wird von den Gesellschaftern der Kapitalverwaltungsgesellschaft gewählt und von den gesetzlichen Vertretern, bei Zuständigkeit des Aufsichtsrats oder des Beirats von diesem, beauftragt; § 318 Absatz 1 Satz 2, 4 und 5 des Handelsgesetzbuchs bleibt unberührt. § 318 Absatz 3 bis 8 sowie die §§ 319, 319b und 323 des Handelsgesetzbuchs gelten entsprechend. Das Ergebnis der Prüfung hat der Abschlussprüfer in einem besonderen Vermerk zusammenzufassen; der Vermerk ist in vollem Wortlaut im Jahresbericht wiederzugeben. Bei der Prüfung hat der Abschlussprüfer auch festzustellen, ob bei der Verwaltung des Sondervermögens die Vorschriften dieses Gesetzes sowie die Bestimmungen der Anlagebedingungen beachtet worden sind. Der Abschlussprüfer hat den Bericht über die Prüfung des Publikumssondervermögens unverzüglich nach Beendigung der Prüfung der Bundesanstalt einzureichen, der Bericht über die Prüfung des Spezialsondervermögens ist der Bundesanstalt auf Verlangen einzureichen.
 
 (+++ § 102: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 104 Abs. 2 u. § 105 Abs. 2 Satz 2 +++)
 
-
-## § 103 – Halbjahresbericht
+# § 103 – Halbjahresbericht
 
 Die Kapitalverwaltungsgesellschaft hat für die Publikumssondervermögen für die Mitte des Geschäftsjahres einen Halbjahresbericht zu erstellen, der die Angaben nach § 101 Absatz 1 Satz 3 Nummer 1 bis 3 sowie für OGAW die in Artikel 13 Absatz 2 in Verbindung mit Anhang Abschnitt A der Verordnung (EU) 2015/2365 genannten Informationen enthalten muss. Sind für das Halbjahr Zwischenausschüttungen erfolgt oder vorgesehen, sind außerdem die Angaben nach § 101 Absatz 1 Satz 3 Nummer 4 aufzunehmen.
 
 (+++ § 103: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 104 – Zwischenbericht
+# § 104 – Zwischenbericht
 
 (1) Wird das Recht zur Verwaltung eines Sondervermögens während des Geschäftsjahres von der Kapitalverwaltungsgesellschaft auf eine andere Kapitalverwaltungsgesellschaft übertragen oder ein Sondervermögen während des Geschäftsjahres auf ein anderes Sondervermögen oder einen EU-OGAW verschmolzen, so hat die übertragende Gesellschaft auf den Übertragungsstichtag einen Zwischenbericht zu erstellen, der den Anforderungen an einen Jahresbericht gemäß § 101 entspricht. Der Zwischenbericht ist der übernehmenden Kapitalverwaltungsgesellschaft oder der Kapitalverwaltungsgesellschaft des übernehmenden Sondervermögens oder EU-OGAW unverzüglich auszuhändigen.
 
@@ -3120,8 +3007,7 @@ Die Kapitalverwaltungsgesellschaft hat für die Publikumssondervermögen für di
 
 (+++ § 104: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 105 – Auflösungs- und Abwicklungsbericht
+# § 105 – Auflösungs- und Abwicklungsbericht
 
 (1) Wird ein Sondervermögen aufgelöst, so hat die Kapitalverwaltungsgesellschaft auf den Tag, an dem ihr Verwaltungsrecht nach Maßgabe des § 99 erlischt, einen Auflösungsbericht zu erstellen, der den Anforderungen an einen Jahresbericht entspricht.
 
@@ -3131,15 +3017,13 @@ Die Kapitalverwaltungsgesellschaft hat für die Publikumssondervermögen für di
 
 (+++ § 105: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 106 – Verordnungsermächtigung
+# § 106 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über weitere Inhalte, Umfang und Darstellung der Berichte nach den §§ 101, 103, 104 und 105 sowie über den Inhalt der Prüfungsberichte für Sondervermögen sowie zur Art und Weise der Einreichung der zuvor genannten Berichte bei der Bundesanstalt zu erlassen, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist, insbesondere um einheitliche Unterlagen zur Beurteilung der Tätigkeit der Kapitalverwaltungsgesellschaften bei der Verwaltung von Sondervermögen zu erhalten. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 (+++ § 106: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 107 – Veröffentlichung der Jahres-, Halbjahres-, Zwischen-, Auflösungs- und Abwicklungsberichte
+# § 107 – Veröffentlichung der Jahres-, Halbjahres-, Zwischen-, Auflösungs- und Abwicklungsberichte
 
 (1) Der Jahresbericht
 
@@ -3159,8 +3043,7 @@ im Bundesanzeiger bekannt zu machen. Der Halbjahresbericht eines Publikumssonder
 
 (+++ § 107: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 108 – Rechtsform, anwendbare Vorschriften
+# § 108 – Rechtsform, anwendbare Vorschriften
 
 (1) Investmentaktiengesellschaften mit veränderlichem Kapital dürfen nur in der Rechtsform der Aktiengesellschaft betrieben werden.
 
@@ -3178,8 +3061,7 @@ im Bundesanzeiger bekannt zu machen. Der Halbjahresbericht eines Publikumssonder
 
 (+++ § 108: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 109 – Aktien
+# § 109 – Aktien
 
 (1) Die Aktien einer Investmentaktiengesellschaft mit veränderlichem Kapital bestehen aus Unternehmensaktien und Anlageaktien; eine Investmentaktiengesellschaft, die als Spezialinvestmentaktiengesellschaft mit veränderlichem Kapital errichtet wurde, kann auf die Begebung von Anlageaktien verzichten. Die Aktien der Investmentaktiengesellschaft mit veränderlichem Kapital lauten auf keinen Nennbetrag. Sie müssen als Stückaktien begeben werden und am Vermögen der Investmentaktiengesellschaft mit veränderlichem Kapital (Gesellschaftskapital) in gleichem Umfang beteiligt sein, es sei denn, die Investmentaktiengesellschaft lässt in der Satzung auch eine Beteiligung nach Bruchteilen zu.
 
@@ -3193,8 +3075,7 @@ im Bundesanzeiger bekannt zu machen. Der Halbjahresbericht eines Publikumssonder
 
 (+++ § 109: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 110 – Satzung
+# § 110 – Satzung
 
 (1) Die Satzung der Investmentaktiengesellschaft mit veränderlichem Kapital muss die Bestimmung enthalten, dass der Betrag des Gesellschaftskapitals dem Wert des Gesellschaftsvermögens entspricht. Der Wert des Gesellschaftsvermögens entspricht der Summe der jeweiligen Verkehrswerte der zum Gesellschaftsvermögen gehörenden Vermögensgegenstände abzüglich der aufgenommenen Kredite und sonstigen Verbindlichkeiten.
 
@@ -3214,15 +3095,13 @@ zum Nutzen ihrer Aktionäre sein. Die Satzung hat vorzusehen, dass die Aktionär
 
 (+++ § 110: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 111 – Anlagebedingungen
+# § 111 – Anlagebedingungen
 
 Die Anlagebedingungen der Investmentaktiengesellschaft mit veränderlichem Kapital sind zusätzlich zur Satzung zu erstellen. Die Anlagebedingungen sind nicht Bestandteil der Satzung; eine notarielle Beurkundung ist nicht erforderlich. In allen Fällen, in denen die Satzung veröffentlicht, ausgehändigt oder in anderer Weise zur Verfügung gestellt werden muss, ist auf die jeweiligen Anlagebedingungen zu verweisen und sind diese ebenfalls zu veröffentlichen oder zur Verfügung zu stellen.
 
 (+++ § 111: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 112 – Verwaltung und Anlage
+# § 112 – Verwaltung und Anlage
 
 (1) Die Investmentaktiengesellschaft mit veränderlichem Kapital kann eine ihrem Unternehmensgegenstand entsprechende externe Kapitalverwaltungsgesellschaft bestellen. Dieser obliegt neben der Ausführung der allgemeinen Verwaltungstätigkeit insbesondere auch die Anlage und Verwaltung der Mittel der Investmentaktiengesellschaft mit veränderlichem Kapital. Die Bestellung einer externen Kapitalverwaltungsgesellschaft ist kein Fall des § 36 und auch nicht als Unternehmensvertrag im Sinne des Aktiengesetzes anzusehen. § 99 ist entsprechend anzuwenden. § 100 ist entsprechend anzuwenden mit der Maßgabe, dass das Verwaltungs- und Verfügungsrecht über das Gesellschaftsvermögen nur dann auf die Verwahrstelle zur Abwicklung übergeht, wenn
 
@@ -3244,8 +3123,7 @@ Im Fall der Bestellung einer anderen Kapitalverwaltungsgesellschaft ist § 100b 
 
 (+++ § 112: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 113 – Erlaubnisantrag und Erlaubniserteilung bei der extern verwalteten OGAW-Investmentaktiengesellschaft
+# § 113 – Erlaubnisantrag und Erlaubniserteilung bei der extern verwalteten OGAW-Investmentaktiengesellschaft
 
 (1) Eine extern verwaltete OGAW-Investmentaktiengesellschaft bedarf zum Geschäftsbetrieb der schriftlichen Erlaubnis durch die Bundesanstalt. Die Erlaubnis darf der extern verwalteten OGAW-Investmentaktiengesellschaft nur erteilt werden, wenn
 
@@ -3273,22 +3151,19 @@ Die §§ 15, 16 und 39 Absatz 4 gelten entsprechend.
 
 (+++ § 113: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 114 – Unterschreitung des Anfangskapitals oder der Eigenmittel
+# § 114 – Unterschreitung des Anfangskapitals oder der Eigenmittel
 
 Die intern verwaltete Investmentaktiengesellschaft mit veränderlichem Kapital hat der Bundesanstalt und den Aktionären unverzüglich anzuzeigen, wenn das Gesellschaftsvermögen den Wert des Anfangskapitals oder den Wert der zusätzlich erforderlichen Eigenmittel gemäß § 25 unterschreitet. Mit der Anzeige gegenüber den Aktionären ist durch den Vorstand eine Hauptversammlung einzuberufen.
 
 (+++ § 114: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 115 – Gesellschaftskapital
+# § 115 – Gesellschaftskapital
 
 Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem Kapital ist ermächtigt, das Gesellschaftskapital wiederholt durch Ausgabe neuer Anlageaktien gegen Einlagen zu erhöhen. Unternehmensaktionäre und Anlageaktionäre haben ein Bezugsrecht entsprechend § 186 des Aktiengesetzes; Anlageaktionäre haben jedoch nur dann ein Bezugsrecht, wenn ihnen nach Maßgabe des § 109 Absatz 3 Satz 2 ein Stimmrecht zusteht. Mit der Ausgabe der Aktien ist das Gesellschaftskapital erhöht.
 
 (+++ § 115: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 116 – Veränderliches Kapital, Rücknahme von Aktien
+# § 116 – Veränderliches Kapital, Rücknahme von Aktien
 
 (1) Die Investmentaktiengesellschaft mit veränderlichem Kapital kann in den Grenzen eines in der Satzung festzulegenden Mindestkapitals und Höchstkapitals nach Maßgabe der folgenden Bestimmungen jederzeit ihre Aktien ausgeben und zurücknehmen.
 
@@ -3298,8 +3173,7 @@ Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem Kapital ist 
 
 (+++ § 116: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 117 – Teilgesellschaftsvermögen; Verordnungsermächtigung
+# § 117 – Teilgesellschaftsvermögen; Verordnungsermächtigung
 
 (1) Die Investmentaktiengesellschaft mit veränderlichem Kapital kann Teilgesellschaftsvermögen bilden. Die Bildung neuer Teilgesellschaftsvermögen durch den Vorstand bedarf der Zustimmung des Aufsichtsrats; die Zustimmung der Hauptversammlung ist nicht erforderlich.
 
@@ -3321,8 +3195,7 @@ Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem Kapital ist 
 
 (+++ § 117: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 118 – Firma und zusätzliche Hinweise im Rechtsverkehr
+# § 118 – Firma und zusätzliche Hinweise im Rechtsverkehr
 
 (1) Die Firma einer Investmentaktiengesellschaft mit veränderlichem Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung „Investmentaktiengesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten; auf allen Geschäftsbriefen im Sinne des § 80 des Aktiengesetzes muss zudem ein Hinweis auf die Veränderlichkeit des Gesellschaftskapitals gegeben werden. Die Firma einer Investmentaktiengesellschaft mit Teilgesellschaftsvermögen muss darüber hinaus den Zusatz „mit Teilgesellschaftsvermögen“ oder eine allgemein verständliche Abkürzung dieser Bezeichnungen enthalten.
 
@@ -3330,8 +3203,7 @@ Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem Kapital ist 
 
 (+++ § 118: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 119 – Vorstand, Aufsichtsrat
+# § 119 – Vorstand, Aufsichtsrat
 
 (1) Der Vorstand einer Investmentaktiengesellschaft mit veränderlichem Kapital besteht aus mindestens zwei Personen. Er ist verpflichtet,
 
@@ -3359,8 +3231,7 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
 
 (+++ § 119: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 120 – Jahresabschluss und Lagebericht; Verordnungsermächtigung
+# § 120 – Jahresabschluss und Lagebericht; Verordnungsermächtigung
 
 (1) Auf den Jahresabschluss und den Lagebericht einer Investmentaktiengesellschaft mit veränderlichem Kapital sind die Vorschriften des Dritten Buches des Handelsgesetzbuchs anzuwenden, soweit sich aus den folgenden Vorschriften nichts anderes ergibt. Die gesetzlichen Vertreter einer OGAW-Investmentaktiengesellschaft mit veränderlichem Kapital haben den Jahresabschluss und den Lagebericht spätestens vier Monate und die gesetzlichen Vertreter einer AIF-Publikumsinvestmentaktiengesellschaft mit veränderlichem Kapital und einer Spezialinvestmentaktiengesellschaft mit veränderlichem Kapital spätestens sechs Monate nach Ende des Geschäftsjahres aufzustellen.
 
@@ -3380,8 +3251,7 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
 
 (+++ § 120: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 122 Abs 1 Satz 1 u. Abs. 2 u. § 148 Abs. 1 +++)
 
-
-## § 121 – Prüfung des Jahresabschlusses und des Lageberichts; Verordnungsermächtigung
+# § 121 – Prüfung des Jahresabschlusses und des Lageberichts; Verordnungsermächtigung
 
 (1) Der Aufsichtsrat hat den Jahresabschluss und den Lagebericht der Investmentaktiengesellschaft mit veränderlichem Kapital zu prüfen und über das Ergebnis seiner Prüfung einen schriftlichen Bericht zu erstatten. Er hat seinen Bericht innerhalb eines Monats, nachdem ihm der Jahresabschluss und der Lagebericht zugegangen sind, dem Vorstand und dem Abschlussprüfer zuzuleiten. Billigt der Aufsichtsrat den Jahresabschluss und den Lagebericht, so ist dieser festgestellt.
 
@@ -3393,8 +3263,7 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
 
 (+++ § 121: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 122 Abs. 2 u. § 148 Abs. 1 +++)
 
-
-## § 122 – Halbjahres- und Liquidationsbericht
+# § 122 – Halbjahres- und Liquidationsbericht
 
 (1) Soweit die Publikumsinvestmentaktiengesellschaft mit veränderlichem Kapital zur Aufstellung eines Halbjahresfinanzberichts nach § 115 des Wertpapierhandelsgesetzes verpflichtet ist, ist § 120 entsprechend anzuwenden. Dabei gelten die Verweise in § 120 Absatz 3 bis 6 auf § 101 nur in dem für den Halbjahresbericht gemäß § 103 erforderlichen Umfang. Soweit eine Prüfung oder prüferische Durchsicht durch den Abschlussprüfer erfolgt, gilt § 121 Absatz 2 und 3 entsprechend. Anderenfalls hat die Halbjahresberichterstattung nach Maßgabe der §§ 103 und 107 zu erfolgen.
 
@@ -3402,8 +3271,7 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
 
 (+++ § 122: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5 u. § 148 Abs. 1 +++)
 
-
-## § 123 – Offenlegung und Vorlage von Berichten
+# § 123 – Offenlegung und Vorlage von Berichten
 
 (1) Die Offenlegung des Jahresabschlusses und des Lageberichts hat unverzüglich nach seiner Vorlage an die Gesellschafter, jedoch bei
 
@@ -3423,8 +3291,7 @@ nach Maßgabe der Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitt
 
 (+++ § 123: Zur Anwendung vgl. § 52 Abs. 5, § 54 Abs. 5, § 66 Abs. 5, § 148 Abs. 1 u. § 344a +++)
 
-
-## § 124 – Rechtsform, anwendbare Vorschriften
+# § 124 – Rechtsform, anwendbare Vorschriften
 
 (1) Offene Investmentkommanditgesellschaften dürfen nur in der Rechtsform der Kommanditgesellschaft betrieben werden. Die Bestimmungen des Handelsgesetzbuchs sind anzuwenden, soweit sich aus den Vorschriften dieses Unterabschnitts nichts anderes ergibt.
 
@@ -3432,8 +3299,7 @@ nach Maßgabe der Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitt
 
 (+++ § 124: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 125 – Gesellschaftsvertrag
+# § 125 – Gesellschaftsvertrag
 
 (1) Der Gesellschaftsvertrag einer offenen Investmentkommanditgesellschaft bedarf der Schriftform.
 
@@ -3449,15 +3315,13 @@ nach Maßgabe der Vorschriften des Vierten Unterabschnitts des Zweiten Abschnitt
 
 (+++ § 125: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 126 – Anlagebedingungen
+# § 126 – Anlagebedingungen
 
 Die Anlagebedingungen der offenen Investmentkommanditgesellschaft sind zusätzlich zum Gesellschaftsvertrag zu erstellen. Die Anlagebedingungen sind nicht Bestandteil des Gesellschaftsvertrags. In allen Fällen, in denen der Gesellschaftsvertrag veröffentlicht, ausgehändigt oder in anderer Weise zur Verfügung gestellt werden muss, ist auf die jeweiligen Anlagebedingungen zu verweisen und sind diese ebenfalls zu veröffentlichen oder zur Verfügung zu stellen.
 
 (+++ § 126: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 127 – Anleger
+# § 127 – Anleger
 
 (1) Anteile an offenen Investmentkommanditgesellschaften und an Teilgesellschaftsvermögen von offenen Investmentkommanditgesellschaften dürfen ausschließlich von professionellen und semiprofessionellen Anlegern erworben werden. Die Anleger dürfen sich an offenen Investmentkommanditgesellschaften nur unmittelbar als Kommanditisten beteiligen.
 
@@ -3469,8 +3333,7 @@ Die Anlagebedingungen der offenen Investmentkommanditgesellschaft sind zusätzli
 
 (+++ § 127: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 128 – Geschäftsführung
+# § 128 – Geschäftsführung
 
 (1) Die Geschäftsführung der offenen Investmentkommanditgesellschaft besteht aus mindestens zwei Personen. Die Voraussetzung nach Satz 1 ist auch dann erfüllt, wenn Geschäftsführer der offenen Investmentkommanditgesellschaft eine juristische Person ist, deren Geschäftsführung ihrerseits von zwei Personen wahrgenommen wird. Die Geschäftsführung ist verpflichtet,
 
@@ -3494,8 +3357,7 @@ Die Geschäftsführung hat bei der Wahrnehmung ihrer Aufgaben unabhängig von de
 
 (+++ § 128: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 129 – Verwaltung und Anlage
+# § 129 – Verwaltung und Anlage
 
 (1) Die offene Investmentkommanditgesellschaft kann eine ihrem Unternehmensgegenstand entsprechende externe Kapitalverwaltungsgesellschaft bestellen. Dieser obliegt insbesondere die Anlage und Verwaltung des Kommanditanlagevermögens. Die Bestellung der externen AIF-Kapitalverwaltungsgesellschaft ist kein Fall des § 36. Die externe AIF-Kapitalverwaltungsgesellschaft ist berechtigt, die Verwaltung der Mittel der offenen Investmentkommanditgesellschaft zu kündigen. § 99 Absatz 1 bis 4 gilt entsprechend.
 
@@ -3503,15 +3365,13 @@ Die Geschäftsführung hat bei der Wahrnehmung ihrer Aufgaben unabhängig von de
 
 (+++ § 129: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 130 – Unterschreitung des Anfangskapitals oder der Eigenmittel
+# § 130 – Unterschreitung des Anfangskapitals oder der Eigenmittel
 
 Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanstalt und den Anlegern unverzüglich anzuzeigen, wenn das Gesellschaftsvermögen den Wert des Anfangskapitals oder den Wert der zusätzlich erforderlichen Eigenmittel gemäß § 25 unterschreitet. Mit der Anzeige gegenüber den Anlegern ist durch die Geschäftsführung eine Gesellschafterversammlung einzuberufen.
 
 (+++ § 130: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 131 – Gesellschaftsvermögen
+# § 131 – Gesellschaftsvermögen
 
 (1) Eine intern verwaltete offene Investmentkommanditgesellschaft darf bewegliches und unbewegliches Vermögen erwerben, das für den Betrieb der Investmentkommanditgesellschaft notwendig ist. Hierfür hat sie ein Betriebsvermögen zu bilden, das rechnerisch bei den Kapitalanteilen der geschäftsführenden Gesellschafter zu erfassen ist. Den Erwerb darf sie nicht mit Kapital aus der Begebung von Kommanditanteilen an Anleger bestreiten.
 
@@ -3519,8 +3379,7 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 (+++ § 131: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 132 – Teilgesellschaftsvermögen; Verordnungsermächtigung
+# § 132 – Teilgesellschaftsvermögen; Verordnungsermächtigung
 
 (1) Der Gesellschaftsvertrag kann die Bildung von Teilgesellschaftsvermögen vorsehen. Die Teilgesellschaftsvermögen sind haftungs- und vermögensrechtlich voneinander getrennt. Im Verhältnis der Anleger untereinander wird jedes Teilgesellschaftsvermögen als eigenständiges Gesellschaftsvermögen behandelt. Die Rechte von Anlegern und Gläubigern im Hinblick auf ein Teilgesellschaftsvermögen, insbesondere auf dessen Bildung, Verwaltung und Auflösung, beschränken sich auf die Vermögensgegenstände dieses Teilgesellschaftsvermögens. Für die auf das einzelne Teilgesellschaftsvermögen entfallenden Verbindlichkeiten haftet nur das betreffende Teilgesellschaftsvermögen. Die haftungs- und vermögensrechtliche Trennung gilt auch für den Fall der Insolvenz der offenen Investmentkommanditgesellschaft und die Abwicklung eines Teilgesellschaftsvermögens.
 
@@ -3540,8 +3399,7 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 (+++ § 132: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 133 – Veränderliches Kapital, Kündigung von Kommanditanteilen
+# § 133 – Veränderliches Kapital, Kündigung von Kommanditanteilen
 
 (1) Kommanditisten können ihre Kommanditbeteiligung in voller Höhe oder zu einem Teilbetrag kündigen. Kündigt ein Kommanditist, erhält er einen Abfindungsanspruch gegen die offene Investmentkommanditgesellschaft in Höhe seines gekündigten Anteils am Wert des Gesellschaftsvermögens, gegebenenfalls abzüglich der Aufwendungen, die der offenen Investmentkommanditgesellschaft entstanden sind. Das Recht zur Kündigung nach Satz 1 besteht bei der intern verwalteten offenen Investmentkommanditgesellschaft nur, wenn durch die Erfüllung des Abfindungsanspruchs das Gesellschaftsvermögen den Betrag des Anfangskapitals und der zusätzlich erforderlichen Eigenmittel gemäß § 25 nicht unterschreitet. Die Einzelheiten der Kündigung regelt der Gesellschaftsvertrag. Für die Beschränkung des Rechts der Anleger auf Kündigung nach Satz 1 im Gesellschaftsvertrag gelten § 98 Absatz 1a, 1b, 2 und 3 und § 283 Absatz 3 entsprechend.
 
@@ -3549,8 +3407,7 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 (+++ § 133: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 134 – Firma und zusätzliche Hinweise im Rechtsverkehr
+# § 134 – Firma und zusätzliche Hinweise im Rechtsverkehr
 
 (1) Die Firma der offenen Investmentkommanditgesellschaft muss abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die Bezeichnung „offene Investmentkommanditgesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
@@ -3558,8 +3415,7 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 (+++ § 134: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 135 – Jahresbericht; Verordnungsermächtigung
+# § 135 – Jahresbericht; Verordnungsermächtigung
 
 (1) Die Kapitalverwaltungsgesellschaft hat für die offene Investmentkommanditgesellschaft, auch wenn auf diese § 264a des Handelsgesetzbuchs nicht anzuwenden ist, für den Schluss eines jeden Geschäftsjahres spätestens sechs Monate nach Ende des Geschäftsjahres einen Jahresbericht nach Maßgabe der folgenden Absätze zu erstellen. Der Jahresbericht besteht mindestens aus
 
@@ -3594,8 +3450,7 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 (+++ § 135: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)  
 (+++ § 135 Abs. 3 bis 11: Zur Anwendung vgl. § 46 Satz 1 +++)
 
-
-## § 136 – Abschlussprüfung; Verordnungsermächtigung
+# § 136 – Abschlussprüfung; Verordnungsermächtigung
 
 (1) Der Jahresabschluss und der Lagebericht der offenen Investmentkommanditgesellschaft sind durch einen Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen. Das Ergebnis der Prüfung hat der Abschlussprüfer in einem besonderen Vermerk zusammenzufassen; der Vermerk ist in vollem Wortlaut im Jahresabschluss wiederzugeben.
 
@@ -3607,15 +3462,13 @@ Eine intern verwaltete offene Investmentkommanditgesellschaft hat der Bundesanst
 
 (+++ § 136: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 159 +++)
 
-
-## § 137 – Vorlage von Berichten
+# § 137 – Vorlage von Berichten
 
 Einem Anleger wird der Jahresbericht auf Anfrage vorgelegt.
 
 (+++ § 137: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 138 – Auflösung und Liquidation
+# § 138 – Auflösung und Liquidation
 
 (1) § 133 Absatz 1 des Handelsgesetzbuchs gilt nicht. Ein Gesellschafter der offenen Investmentkommanditgesellschaft kann die Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft außerordentlich kündigen und aus ihr ausscheiden, wenn ein wichtiger Grund vorliegt. § 133 Absatz 2 und 3 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
@@ -3623,15 +3476,13 @@ Einem Anleger wird der Jahresbericht auf Anfrage vorgelegt.
 
 (+++ § 138: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 139 – Rechtsform
+# § 139 – Rechtsform
 
 Geschlossene inländische Investmentvermögen dürfen nur als Investmentaktiengesellschaft mit fixem Kapital gemäß den Vorschriften des Unterabschnitts 2 oder als geschlossene Investmentkommanditgesellschaft gemäß den Vorschriften des Unterabschnitts 3 aufgelegt werden.
 
 (+++ § 139: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 140 – Rechtsform, anwendbare Vorschriften
+# § 140 – Rechtsform, anwendbare Vorschriften
 
 (1) Investmentaktiengesellschaften mit fixem Kapital dürfen nur in der Rechtsform der Aktiengesellschaft betrieben werden. Die Vorschriften des Aktiengesetzes sind anzuwenden, soweit sich aus den Vorschriften dieses Unterabschnitts nichts anderes ergibt.
 
@@ -3641,8 +3492,7 @@ Geschlossene inländische Investmentvermögen dürfen nur als Investmentaktienge
 
 (+++ § 140: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 141 – Aktien
+# § 141 – Aktien
 
 (1) Aktien dürfen nur gegen volle Leistung des Ausgabepreises ausgegeben werden.
 
@@ -3650,8 +3500,7 @@ Geschlossene inländische Investmentvermögen dürfen nur als Investmentaktienge
 
 (+++ § 141: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 142 – Satzung
+# § 142 – Satzung
 
 Satzungsmäßig festgelegter Unternehmensgegenstand der Investmentaktiengesellschaft mit fixem Kapital muss ausschließlich die Anlage und Verwaltung ihrer Mittel nach einer festgelegten Anlagestrategie zur gemeinschaftlichen Kapitalanlage
 
@@ -3663,15 +3512,13 @@ zum Nutzen der Aktionäre sein. Die Satzung von Spezialinvestmentaktiengesellsch
 
 (+++ § 142: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 143 – Anlagebedingungen
+# § 143 – Anlagebedingungen
 
 Die Anlagebedingungen der Investmentaktiengesellschaft mit fixem Kapital sind zusätzlich zur Satzung zu erstellen. Die Anlagebedingungen sind nicht Bestandteil der Satzung; eine notarielle Beurkundung ist nicht erforderlich. In allen Fällen, in denen die Satzung veröffentlicht, ausgehändigt oder in anderer Weise zur Verfügung gestellt werden muss, ist auf die jeweiligen Anlagebedingungen zu verweisen und sind diese ebenfalls zu veröffentlichen, auszuhändigen oder in anderer Weise zur Verfügung zu stellen.
 
 (+++ § 143: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 144 – Verwaltung und Anlage
+# § 144 – Verwaltung und Anlage
 
 Die Investmentaktiengesellschaft mit fixem Kapital kann eine ihrem Unternehmensgegenstand entsprechende externe Kapitalverwaltungsgesellschaft bestellen. Dieser obliegt neben der Ausführung der allgemeinen Verwaltungstätigkeit insbesondere auch die Anlage und Verwaltung der Mittel der Investmentaktiengesellschaft mit fixem Kapital. Die Bestellung einer externen AIF-Kapitalverwaltungsgesellschaft als Verwaltungsgesellschaft ist kein Fall des § 36 und auch nicht als Unternehmensvertrag im Sinne des Aktiengesetzes anzusehen. § 99 ist mit den folgenden Maßgaben entsprechend anzuwenden:
 
@@ -3697,22 +3544,19 @@ Im Fall der Bestellung einer anderen externen AIF-Kapitalverwaltungsgesellschaft
 
 (+++ § 144: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 145 – Unterschreitung des Anfangskapitals oder der Eigenmittel
+# § 145 – Unterschreitung des Anfangskapitals oder der Eigenmittel
 
 Die intern verwaltete Investmentaktiengesellschaft mit fixem Kapital hat der Bundesanstalt und den Aktionären unverzüglich anzuzeigen, wenn das Gesellschaftsvermögen den Wert des Anfangskapitals oder den Wert der zusätzlich erforderlichen Eigenmittel gemäß § 25 unterschreitet. Mit der Anzeige gegenüber den Aktionären ist durch den Vorstand eine Hauptversammlung einzuberufen.
 
 (+++ § 145: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 146 – Firma
+# § 146 – Firma
 
 Die Firma einer Investmentaktiengesellschaft mit fixem Kapital muss abweichend von § 4 des Aktiengesetzes die Bezeichnung „Investmentaktiengesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
 (+++ § 146: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 147 – Vorstand, Aufsichtsrat
+# § 147 – Vorstand, Aufsichtsrat
 
 (1) Der Vorstand einer Investmentaktiengesellschaft mit fixem Kapital besteht aus mindestens zwei Personen. Er ist verpflichtet,
 
@@ -3738,8 +3582,7 @@ Der Vorstand hat bei der Wahrnehmung seiner Aufgaben unabhängig von der Verwahr
 
 (+++ § 147: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 148 – Rechnungslegung
+# § 148 – Rechnungslegung
 
 (1) Auf den Jahresabschluss und den Lagebericht einer Investmentaktiengesellschaft mit fixem Kapital sind die §§ 120 bis 123 entsprechend anzuwenden.
 
@@ -3755,8 +3598,7 @@ Als Verkehrswert der Beteiligung ist der nach § 271 Absatz 3 Satz 3 ermittelte 
 
 (+++ § 148: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 149 – Rechtsform, anwendbare Vorschriften
+# § 149 – Rechtsform, anwendbare Vorschriften
 
 (1) Geschlossene Investmentkommanditgesellschaften dürfen nur in der Rechtsform der Kommanditgesellschaft betrieben werden. Die Bestimmungen des Handelsgesetzbuchs sind anzuwenden, soweit sich aus den Vorschriften dieses Unterabschnitts nichts anderes ergibt.
 
@@ -3764,8 +3606,7 @@ Als Verkehrswert der Beteiligung ist der nach § 271 Absatz 3 Satz 3 ermittelte 
 
 (+++ § 149: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 150 – Gesellschaftsvertrag
+# § 150 – Gesellschaftsvertrag
 
 (1) Der Gesellschaftsvertrag einer geschlossenen Investmentkommanditgesellschaft bedarf der Schriftform.
 
@@ -3787,15 +3628,13 @@ zum Nutzen der Anleger sein. Der Gesellschaftsvertrag von geschlossenen Speziali
 
 (+++ § 150: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 151 – Anlagebedingungen
+# § 151 – Anlagebedingungen
 
 Die Anlagebedingungen der geschlossenen Investmentkommanditgesellschaft sind zusätzlich zum Gesellschaftsvertrag zu erstellen. Die Anlagebedingungen sind nicht Bestandteil des Gesellschaftsvertrages. In allen Fällen, in denen der Gesellschaftsvertrag veröffentlicht, ausgehändigt oder in anderer Weise zur Verfügung gestellt werden muss, ist auf die jeweiligen Anlagebedingungen zu verweisen und sind diese ebenfalls zu veröffentlichen, auszuhändigen oder in anderer Weise zur Verfügung zu stellen.
 
 (+++ § 151: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 152 – Anleger
+# § 152 – Anleger
 
 (1) Anleger dürfen sich an der geschlossenen Investmentkommanditgesellschaft nur unmittelbar als Kommanditisten beteiligen. Abweichend von Satz 1 dürfen sich Anleger an der geschlossenen Publikumsinvestmentkommanditgesellschaft auch mittelbar über einen Kommanditisten (Treuhandkommanditisten) beteiligen. Bei mittelbarer Beteiligung über einen Treuhandkommanditisten hat der mittelbar beteiligte Anleger im Innenverhältnis der Gesellschaft und der Gesellschafter zueinander die gleiche Rechtsstellung wie ein Kommanditist. Der mittelbar beteiligte Anleger oder der am Erwerb einer mittelbaren Beteiligung Interessierte gilt als Anleger oder am Erwerb eines Anteils Interessierter im Sinne dieses Gesetzes.
 
@@ -3813,8 +3652,7 @@ Die Anlagebedingungen der geschlossenen Investmentkommanditgesellschaft sind zus
 
 (+++ § 152: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 153 – Geschäftsführung, Beirat
+# § 153 – Geschäftsführung, Beirat
 
 (1) Die Geschäftsführung der geschlossenen Investmentkommanditgesellschaft besteht aus mindestens zwei Personen. Die Voraussetzung nach Satz 1 ist auch dann erfüllt, wenn Geschäftsführer der geschlossenen Investmentkommanditgesellschaft eine juristische Person ist, deren Geschäftsführung ihrerseits von zwei Personen wahrgenommen wird. Die Geschäftsführung ist verpflichtet,
 
@@ -3840,8 +3678,7 @@ Die Geschäftsführung hat bei der Wahrnehmung ihrer Aufgaben unabhängig von de
 
 (+++ § 153: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 154 – Verwaltung und Anlage
+# § 154 – Verwaltung und Anlage
 
 (1) Die geschlossene Investmentkommanditgesellschaft kann eine ihrem Unternehmensgegenstand entsprechende externe AIF-Kapitalverwaltungsgesellschaft bestellen. Dieser obliegt insbesondere die Anlage und Verwaltung des Kommanditanlagevermögens. Die Bestellung der externen AIF-Kapitalverwaltungsgesellschaft ist kein Fall des § 36. Die AIF-Kapitalverwaltungsgesellschaft ist berechtigt, die Verwaltung der Mittel der geschlossenen Investmentkommanditgesellschaft zu kündigen. § 99 Absatz 1 bis 4 ist mit den folgenden Maßgaben entsprechend anzuwenden:
 
@@ -3861,15 +3698,13 @@ Im Fall der Bestellung einer anderen externen AIF-Kapitalverwaltungsgesellschaft
 
 (+++ § 154: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 155 – Unterschreitung des Anfangskapitals oder der Eigenmittel
+# § 155 – Unterschreitung des Anfangskapitals oder der Eigenmittel
 
 Eine intern verwaltete geschlossene Investmentkommanditgesellschaft hat der Bundesanstalt und den Anlegern unverzüglich anzuzeigen, wenn das Gesellschaftsvermögen den Wert des Anfangskapitals oder den Wert der zusätzlich erforderlichen Eigenmittel gemäß § 25 unterschreitet. Mit der Anzeige gegenüber den Anlegern ist durch die Geschäftsführung eine Gesellschafterversammlung einzuberufen.
 
 (+++ § 155: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 156 – Gesellschaftsvermögen
+# § 156 – Gesellschaftsvermögen
 
 (1) Eine intern verwaltete geschlossene Investmentkommanditgesellschaft darf bewegliches und unbewegliches Vermögen erwerben, das für den Betrieb der Investmentkommanditgesellschaft notwendig ist. Hierfür hat sie ein Betriebsvermögen zu bilden, das rechnerisch bei den Kapitalanteilen der geschäftsführenden Gesellschafter zu erfassen ist. Den Erwerb darf sie nicht mit Kapital aus der Begebung von Kommanditanteilen an Anleger bestreiten.
 
@@ -3877,29 +3712,25 @@ Eine intern verwaltete geschlossene Investmentkommanditgesellschaft hat der Bund
 
 (+++ § 156: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 157 – Firma
+# § 157 – Firma
 
 Die Firma der geschlossenen Investmentkommanditgesellschaft muss abweichend von § 19 Absatz 1 Nummer 3 des Handelsgesetzbuchs die Bezeichnung „geschlossene Investmentkommanditgesellschaft“ oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
 (+++ § 157: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 158 – Jahresbericht
+# § 158 – Jahresbericht
 
 Auf den Jahresbericht einer geschlossenen Investmentkommanditgesellschaft ist § 135 anzuwenden. Zusätzlich zu Satz 1 sind bei geschlossenen Publikumsinvestmentkommanditgesellschaften die in § 101 Absatz 2 genannten Angaben und bei einer Beteiligung nach § 261 Absatz 1 Nummer 2 bis 6 die in § 148 Absatz 2 genannten Angaben im Anhang zu machen.
 
 (+++ § 158: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 159 – Abschlussprüfung
+# § 159 – Abschlussprüfung
 
 § 136 ist auf die geschlossene Investmentkommanditgesellschaft anzuwenden. § 136 Absatz 3 Satz 4 ist auf die geschlossene Publikumsinvestmentkommanditgesellschaft jedoch mit der Maßgabe anzuwenden, dass der Bericht über die Prüfung der geschlossenen Publikumsinvestmentkommanditgesellschaft unverzüglich nach Beendigung der Prüfung der Bundesanstalt einzureichen ist.
 
 (+++ § 159: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 160 – Offenlegung und Vorlage von Berichten
+# § 160 – Offenlegung und Vorlage von Berichten
 
 (1) Die Offenlegung des Jahresberichts einer geschlossenen Publikumsinvestmentkommanditgesellschaft erfolgt, auch wenn auf diese § 264a des Handelsgesetzbuchs nicht anzuwenden ist, spätestens sechs Monate nach Ende des Geschäftsjahres nach Maßgabe des insoweit entsprechend anzuwendenden § 325 Absatz 1, Absatz 2 bis 2b, 5 und 6 des Handelsgesetzbuchs; die §§ 328, 329 Absatz 1, 2 und 4 und die §§ 335 bis 335b des Handelsgesetzbuchs sind entsprechend anzuwenden.
 
@@ -3911,8 +3742,7 @@ Auf den Jahresbericht einer geschlossenen Investmentkommanditgesellschaft ist §
 
 (+++ § 160: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 356 Satz 2 +++)
 
-
-## § 161 – Auflösung und Liquidation
+# § 161 – Auflösung und Liquidation
 
 (1) Das Recht zur ordentlichen Kündigung besteht bei der geschlossenen Investmentkommanditgesellschaft nicht.
 
@@ -3925,8 +3755,7 @@ Auf den Jahresbericht einer geschlossenen Investmentkommanditgesellschaft ist §
 (+++ § 161: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)  
 (+++ § 161 Abs. 1: Zur Anwendung vgl. § 353 Abs. 6 Satz 5, Abs. 9 Satz 2 u. Abs. 11 Satz 2 +++)
 
-
-## § 162 – Anlagebedingungen
+# § 162 – Anlagebedingungen
 
 (1) Die Anlagebedingungen, nach denen sich
 
@@ -3973,8 +3802,7 @@ sind vor Ausgabe der Anteile oder Aktien schriftlich festzuhalten.
 (+++ § 162: Zur Anwendung vgl. § 52 Abs. 5 +++)  
 (+++ § 162 Abs. 2 Nr. 1: Zur Anwendung vgl. § 266 Abs. 2 Satz 2 +++)
 
-
-## § 163 – Genehmigung der Anlagebedingungen
+# § 163 – Genehmigung der Anlagebedingungen
 
 (1) Die Anlagebedingungen sowie deren Änderung bedürfen der Genehmigung der Bundesanstalt. Die Genehmigung kann nur von folgenden Verwaltungsgesellschaften beantragt werden:
 
@@ -3996,8 +3824,7 @@ Dieses Recht nach Satz 1 Nummer 1 oder 2 besteht spätestens ab dem Zeitpunkt, i
 
 (+++ § 163: Zur Anwendung vgl. § 52 Abs. 5 u. § 345 Abs. 1 Satz 5 +++)
 
-
-## § 164 – Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen
+# § 164 – Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen
 
 (1) Die Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat für die von ihr verwalteten offenen Publikumsinvestmentvermögen den Verkaufsprospekt und die wesentlichen Anlegerinformationen zu erstellen und dem Publikum die jeweils aktuelle Fassung auf der Internetseite der Kapitalverwaltungsgesellschaft oder der EU-OGAW-Verwaltungsgesellschaft zugänglich zu machen. Bei offenen AIF-Publikumsinvestmentvermögen dürfen Verkaufsprospekt und wesentliche Anlegerinformationen dem Publikum erst zugänglich gemacht werden, sobald die Verwaltungsgesellschaft mit dem Vertrieb des Investmentvermögens gemäß § 316 beginnen darf.
 
@@ -4015,8 +3842,7 @@ Dieses Recht nach Satz 1 Nummer 1 oder 2 besteht spätestens ab dem Zeitpunkt, i
 
 (+++ § 164: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 165 – Mindestangaben im Verkaufsprospekt
+# § 165 – Mindestangaben im Verkaufsprospekt
 
 (1) Der Verkaufsprospekt eines offenen Publikumsinvestmentvermögens muss mit einem Datum versehen sein und die Angaben enthalten, die erforderlich sind, damit sich die Anleger über die ihnen angebotene Anlage und insbesondere über die damit verbundenen Risiken ein begründetes Urteil bilden können. Der Verkaufsprospekt muss redlich und eindeutig und darf nicht irreführend sein.
 
@@ -4149,8 +3975,7 @@ b) eine Zusammenfassung der Vergütungspolitik und eine Erklärung darüber, das
 (+++ § 165: Zur Anwendung vgl. § 52 Abs. 5 +++)  
 § 165 Abs. 2 Nr. 34 Kursivdruck: Eingef. durch Art. 1 Nr. 58 Buchst. a DBuchst. bb G v. 3.3.2016 I 348 mWv 18.3.2016 (abweichend vom Bundesgesetzblatt wurde das Zeichen "," duch das Zeichen ";" ersetzt)
 
-
-## § 166 – Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen; Verordnungsermächtigung
+# § 166 – Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen; Verordnungsermächtigung
 
 (1) Die wesentlichen Anlegerinformationen sollen den Anleger in die Lage versetzen, Art und Risiken des angebotenen Anlageproduktes zu verstehen und auf dieser Grundlage eine fundierte Anlageentscheidung zu treffen.
 
@@ -4196,8 +4021,7 @@ b) eine Zusammenfassung der Vergütungspolitik und eine Erklärung darüber, das
 
 (+++ § 166: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 167 – Information mittels eines dauerhaften Datenträgers
+# § 167 – Information mittels eines dauerhaften Datenträgers
 
 (1) Ist für die Übermittlung von Informationen nach diesem Gesetz die Verwendung eines dauerhaften Datenträgers vorgesehen, ist die Verwendung eines anderen dauerhaften Datenträgers als Papier nur zulässig, wenn dies auf Grund der Rahmenbedingungen, unter denen das Geschäft ausgeführt wird, angemessen ist und der Anleger sich ausdrücklich für diese andere Form der Übermittlung von Informationen entschieden hat.
 
@@ -4207,8 +4031,7 @@ b) eine Zusammenfassung der Vergütungspolitik und eine Erklärung darüber, das
 
 (+++ § 167: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 168 – Bewertung; Verordnungsermächtigung
+# § 168 – Bewertung; Verordnungsermächtigung
 
 (1) Der Nettoinventarwert je Anteil oder je Aktie ergibt sich aus der Teilung des Wertes des offenen Publikumsinvestmentvermögens durch die Zahl der in den Verkehr gelangten Anteile oder Aktien. Der Wert eines offenen Publikumsinvestmentvermögens ist auf Grund der jeweiligen Verkehrswerte der zu ihm gehörenden Vermögensgegenstände abzüglich der aufgenommenen Kredite und sonstigen Verbindlichkeiten zu ermitteln. Zur Bestimmung des Verkehrswertes des Vermögensgegenstandes ist das jeweilige gesetzliche oder marktübliche Verfahren zugrunde zu legen.
 
@@ -4240,8 +4063,7 @@ Geschäftsabschlüsse für das offene Publikumsinvestmentvermögen zu nicht mark
 
 (+++ § 168: Zur Anwendung vgl. § 52 Abs. 5 u. § 248 +++)
 
-
-## § 169 – Bewertungsverfahren
+# § 169 – Bewertungsverfahren
 
 (1) Die Kapitalverwaltungsgesellschaft hat eine interne Bewertungsrichtlinie zu erstellen. Die Bewertungsrichtlinie legt geeignete und kohärente Verfahren für die ordnungsgemäße, transparente und unabhängige Bewertung der Vermögensgegenstände des Investmentvermögens fest. Die Bewertungsrichtlinie soll vorsehen, dass für jeden Vermögensgegenstand ein geeignetes, am jeweiligen Markt anerkanntes Wertermittlungsverfahren zugrunde zu legen ist und dass die Auswahl des Verfahrens zu begründen ist.
 
@@ -4251,15 +4073,13 @@ Geschäftsabschlüsse für das offene Publikumsinvestmentvermögen zu nicht mark
 
 (+++ § 169: Zur Anwendung vgl. § 52 Abs. 5 u. § 249 Abs. 1 +++)
 
-
-## § 170 – Veröffentlichung des Ausgabe- und Rücknahmepreises und des Nettoinventarwertes
+# § 170 – Veröffentlichung des Ausgabe- und Rücknahmepreises und des Nettoinventarwertes
 
 Gibt die Kapitalverwaltungsgesellschaft oder die Verwahrstelle den Ausgabepreis bekannt, so ist sie verpflichtet, auch den Rücknahmepreis bekannt zu geben; wird der Rücknahmepreis bekannt gegeben, so ist auch der Ausgabepreis bekannt zu geben. Ausgabe- und Rücknahmepreis sowie der Nettoinventarwert je Anteil oder Aktie sind bei jeder Möglichkeit zur Ausgabe oder Rücknahme von Anteilen oder Aktien, für OGAW mindestens jedoch zweimal im Monat, in einer hinreichend verbreiteten Wirtschafts- oder Tageszeitung oder im Verkaufsprospekt oder in den in den wesentlichen Anlegerinformationen bezeichneten elektronischen Informationsmedien zu veröffentlichen.
 
 (+++ § 170: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 171 – Genehmigung des Feederfonds
+# § 171 – Genehmigung des Feederfonds
 
 (1) Die Anlage eines Feederfonds in einem Masterfonds bedarf der vorherigen Genehmigung durch die Bundesanstalt. Die Anlage eines inländischen OGAW als Feederfonds in einem Masterfonds ist nur genehmigungsfähig, soweit es sich bei dem Masterfonds um einen OGAW handelt. Die Anlage eines Sonstigen Investmentvermögens als Feederfonds in einem Masterfonds ist nur genehmigungsfähig, soweit es sich auch bei dem Masterfonds um ein Sonstiges Investmentvermögen handelt.
 
@@ -4295,8 +4115,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 (+++ § 171: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 172 – Besondere Anforderungen an Kapitalverwaltungsgesellschaften
+# § 172 – Besondere Anforderungen an Kapitalverwaltungsgesellschaften
 
 (1) Verwaltet eine Kapitalverwaltungsgesellschaft Masterfonds und Feederfonds, muss sie so organisiert sein, dass das Risiko von Interessenkonflikten zwischen Feederfonds und Masterfonds oder zwischen Feederfonds und anderen Anlegern des Masterfonds möglichst gering ist. Die Kapitalverwaltungsgesellschaft muss insbesondere geeignete Regelungen zu den Kosten und Gebühren festlegen, die der Feederfonds zu tragen hat. Sie muss gegebenenfalls geeignete Regelungen festlegen zu Rückerstattungen des Masterfonds an den Feederfonds sowie zu den Anteil-oder Aktienklassen des Masterfonds, die von Feederfonds erworben werden können.
 
@@ -4304,8 +4123,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 (+++ § 172: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 173 – Verkaufsprospekt, Anlagebedingungen, Jahresbericht
+# § 173 – Verkaufsprospekt, Anlagebedingungen, Jahresbericht
 
 (1) Der Verkaufsprospekt eines Feederfonds hat über die Angaben nach § 165 hinaus mindestens folgende Angaben zu enthalten:
 
@@ -4335,8 +4153,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 (+++ § 173: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 174 – Anlagegrenzen, Anlagebeschränkungen, Aussetzung der Anteile
+# § 174 – Anlagegrenzen, Anlagebeschränkungen, Aussetzung der Anteile
 
 (1) Die Kapitalverwaltungsgesellschaft hat für einen Feederfonds ungeachtet der Anlagegrenzen nach § 207 Absatz 1, § 210 Absatz 3 und § 221 Absatz 3 mindestens 85 Prozent des Wertes des Feederfonds in Anteile eines Masterfonds anzulegen. Der Feederfonds darf erst dann über die Anlagegrenzen nach § 207 Absatz 1, § 210 Absatz 3 und § 221 Absatz 3 hinaus in Anteile eines Masterfonds anlegen, wenn die Genehmigung nach § 171 erteilt worden ist und die Master-Feeder-Vereinbarung nach § 175 Absatz 1 und, falls erforderlich, die Verwahrstellenvereinbarung nach § 175 Absatz 2 und die Abschlussprüfervereinbarung nach § 175 Absatz 3 wirksam geworden sind.Die Kapitalverwaltungsgesellschaft darf bis zu 15 Prozent des Wertes des Feederfonds anlegen in
 
@@ -4358,8 +4175,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 (+++ § 174: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 175 – Vereinbarungen bei Master-Feeder-Strukturen
+# § 175 – Vereinbarungen bei Master-Feeder-Strukturen
 
 (1) Die Kapitalverwaltungsgesellschaft des inländischen Masterfonds hat der Verwaltungsgesellschaft des Feederfonds alle Unterlagen und Informationen zur Verfügung zu stellen, die diese benötigt, um die Anforderungen an einen Feederfonds nach diesem Gesetz oder der zur Umsetzung der Richtlinie 2009/65/EG erlassenen Vorschriften des Herkunftsstaates des Feederfonds zu erfüllen. Beide Verwaltungsgesellschaften haben hierüber eine Vereinbarung gemäß den Artikeln 8 bis 14 der Richtlinie 2010/44/EU abzuschließen (Master-Feeder-Vereinbarung). Werden Masterfonds und Feederfonds von der gleichen Kapitalverwaltungsgesellschaft verwaltet, kann die Vereinbarung durch interne Regelungen für Geschäftstätigkeiten unter Berücksichtigung der in den Artikeln 15 bis 19 der Richtlinie 2010/44/EU genannten Inhalte ersetzt werden.
 
@@ -4369,8 +4185,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 (+++ § 175: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 176 – Pflichten der Kapitalverwaltungsgesellschaft und der Verwahrstelle
+# § 176 – Pflichten der Kapitalverwaltungsgesellschaft und der Verwahrstelle
 
 (1) Die Kapitalverwaltungsgesellschaft hat für einen von ihr verwalteten Feederfonds die Anlagen des Masterfonds wirksam zu überwachen. Zur Erfüllung dieser Verpflichtung kann sie sich auf Informationen und Unterlagen der Verwaltungsgesellschaft des Masterfonds, seiner Verwahrstelle oder seines Abschlussprüfers stützen, es sei denn, es liegen Gründe vor, an der Richtigkeit dieser Informationen und Unterlagen zu zweifeln.
 
@@ -4394,8 +4209,7 @@ Bei einem EU-OGAW, der Anteile an mindestens einen OGAW-Feederfonds ausgegeben h
 
 (+++ § 176: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 177 – Mitteilungspflichten der Bundesanstalt
+# § 177 – Mitteilungspflichten der Bundesanstalt
 
 (1) Sind die Anlagebedingungen sowohl des Masterfonds als auch des Feederfonds nach den Vorschriften dieses Gesetzes genehmigt worden, unterrichtet die Bundesanstalt die Kapitalverwaltungsgesellschaft, die den Feederfonds verwaltet, unverzüglich über
 
@@ -4425,8 +4239,7 @@ die den Masterfonds, seine Verwahrstelle oder seinen Abschlussprüfer betreffen.
 
 (+++ § 177: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 178 – Abwicklung eines Masterfonds
+# § 178 – Abwicklung eines Masterfonds
 
 (1) Die Abwicklung eines inländischen Masterfonds darf frühestens drei Monate nach dem Zeitpunkt beginnen, zu dem alle Anleger des Masterfonds, bei einem inländischen Feederfonds die Bundesanstalt und bei einem EU-Feeder-OGAW die zuständige Stelle des Herkunftsstaates über die verbindliche Entscheidung der Abwicklung informiert worden sind.
 
@@ -4466,8 +4279,7 @@ Bankguthaben, die der Feederfonds vor Genehmigung nach Absatz 2 als Abwicklungse
 
 (+++ § 178: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 179 – Verschmelzung oder Spaltung des Masterfonds
+# § 179 – Verschmelzung oder Spaltung des Masterfonds
 
 (1) Eine Verschmelzung eines inländischen Masterfonds kann nur dann wirksam werden, wenn die Kapitalverwaltungsgesellschaft die Verschmelzungsinformationen nach § 177 mindestens 60 Tage vor dem geplanten Übertragungsstichtag allen Anlegern des Masterfonds auf einem dauerhaften Datenträger übermittelt. Im Fall eines inländischen Feederfonds sind die Verschmelzungsinformationen darüber hinaus auch der Bundesanstalt und im Fall eines ausländischen Feederfonds den zuständigen Stellen des Herkunftsstaates zu übermitteln.
 
@@ -4527,8 +4339,7 @@ Die Kapitalverwaltungsgesellschaft des Feederfonds darf erhaltene Vermögensgege
 
 (+++ § 179: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 180 – Umwandlung in Feederfonds oder Änderung des Masterfonds
+# § 180 – Umwandlung in Feederfonds oder Änderung des Masterfonds
 
 (1) Werden die Anlagebedingungen eines inländischen OGAW oder eines Sonstigen Investmentvermögens im Rahmen der Umwandlung in einen Feederfonds erstmals als Anlagebedingungen dieses Feederfonds genehmigt oder wird die Anlage eines Feederfonds in Anteile eines Masterfonds bei einem beabsichtigten Wechsel des Masterfonds gemäß § 171 Absatz 1 erneut genehmigt, hat die Kapitalverwaltungsgesellschaft den Anlegern folgende Informationen zur Verfügung zu stellen:
 
@@ -4550,8 +4361,7 @@ Diese Informationen müssen spätestens 30 Tage vor dem in Satz 1 Nummer 3 genan
 
 (+++ § 180: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 181 – Gegenstand der Verschmelzung; Verschmelzungsarten
+# § 181 – Gegenstand der Verschmelzung; Verschmelzungsarten
 
 (1) Spezial-AIF dürfen nicht auf Publikumsinvestmentvermögen verschmolzen werden, Publikumsinvestmentvermögen dürfen nicht auf Spezial-AIF verschmolzen werden. OGAW dürfen nur mit AIF verschmolzen werden, wenn das übernehmende oder neu gegründete Investmentvermögen weiterhin ein OGAW ist.
 
@@ -4559,8 +4369,7 @@ Diese Informationen müssen spätestens 30 Tage vor dem in Satz 1 Nummer 3 genan
 
 (+++ § 181: Zur Anwendung vgl. § 52 Abs. 5 u. § 191 Abs 1 +++)
 
-
-## § 182 – Genehmigung der Verschmelzung
+# § 182 – Genehmigung der Verschmelzung
 
 (1) Die Verschmelzung von Sondervermögen auf ein anderes bestehendes oder ein neues, dadurch gegründetes übernehmendes Sondervermögen (inländische Verschmelzung) oder eines OGAW-Sondervermögens auf ein anderes bestehendes oder einen neuen, dadurch gegründeten übernehmenden EU-OGAW (grenzüberschreitende Verschmelzung) bedarf der Genehmigung der Bundesanstalt.
 
@@ -4600,8 +4409,7 @@ b) bei einer grenzüberschreitenden Verschmelzung keinen Hinweis der zuständige
 
 (+++ § 182: Zur Anwendung vgl. § 52 Abs. 5 u. § 191 Abs 1 +++)
 
-
-## § 183 – Verschmelzung eines EU-OGAW auf ein OGAW-Sondervermögen
+# § 183 – Verschmelzung eines EU-OGAW auf ein OGAW-Sondervermögen
 
 (1) Werden der Bundesanstalt bei einer geplanten Verschmelzung eines EU-OGAW auf ein OGAW-Sondervermögen Abschriften der Angaben und Unterlagen nach Artikel 39 Absatz 2 der Richtlinie 2009/65/EG von den zuständigen Stellen des Herkunftsmitgliedstaates des übertragenden EU-OGAW übermittelt, prüft sie, ob den Anlegern angemessene Verschmelzungsinformationen zur Verfügung gestellt werden; dabei berücksichtigt sie die potenziellen Auswirkungen der geplanten Verschmelzung auf die Anleger des übernehmenden OGAW-Sondervermögens. Soweit die Bundesanstalt eine Nachbesserung für erforderlich hält, kann sie innerhalb von 15 Arbeitstagen nach dem Erhalt der vollständigen Angaben und Unterlagen gemäß Artikel 39 Absatz 2 der Richtlinie 2009/65/EG von der OGAW-Kapitalverwaltungsgesellschaft des übernehmenden OGAW-Sondervermögens schriftlich eine Änderung der Verschmelzungsinformationen für die Anleger des übernehmenden OGAW-Sondervermögens verlangen.
 
@@ -4609,8 +4417,7 @@ b) bei einer grenzüberschreitenden Verschmelzung keinen Hinweis der zuständige
 
 (+++ § 183: Zur Anwendung vgl. § 52 Abs. 5 u. § 191 Abs 1 u. 2 +++)
 
-
-## § 184 – Verschmelzungsplan
+# § 184 – Verschmelzungsplan
 
 Die Vertretungsorgane der an der Verschmelzung beteiligten Rechtsträger haben für gemeinschaftliche Rechnung der Anleger des übertragenden Sondervermögens und der Anleger des übernehmenden Sondervermögens oder übernehmenden EU-OGAW einen gemeinsamen Verschmelzungsplan aufzustellen. Soweit unterschiedliche Rechtsträger an der Verschmelzung beteiligt sind, handelt es sich dabei um einen Vertrag, auf den § 311b Absatz 2 des Bürgerlichen Gesetzbuchs keine Anwendung findet. Der Verschmelzungsplan muss mindestens die folgenden Angaben enthalten:
 
@@ -4634,8 +4441,7 @@ Weitere Angaben sind zulässig, können aber nicht von der Bundesanstalt verlang
 
 (+++ § 184: Zur Anwendung vgl. § 52 Abs. 5, § 191 Abs 1 u. § 281 Abs. 1 +++)
 
-
-## § 185 – Prüfung der Verschmelzung; Verordnungsermächtigung
+# § 185 – Prüfung der Verschmelzung; Verordnungsermächtigung
 
 (1) Die Verwahrstellen des übertragenden Sondervermögens und des übernehmenden Sondervermögens oder EU-OGAW haben zu überprüfen, ob die Angaben nach § 184 Satz 3 Nummer 1, 6 und 7 mit den Anforderungen dieses Gesetzes und den Anlagebedingungen des jeweiligen Sondervermögens übereinstimmen.
 
@@ -4653,8 +4459,7 @@ Weitere Angaben sind zulässig, können aber nicht von der Bundesanstalt verlang
 
 (+++ § 185: Zur Anwendung vgl. § 52 Abs. 5, § 191 Abs 1 u. § 281 Abs. 1 +++)
 
-
-## § 186 – Verschmelzungsinformationen
+# § 186 – Verschmelzungsinformationen
 
 (1) Den Anlegern des übertragenden Sondervermögens und des übernehmenden Sondervermögens oder EU-OGAW sind von der Kapitalverwaltungsgesellschaft geeignete und präzise Informationen über die geplante Verschmelzung zu übermitteln, damit sie sich ein verlässliches Urteil über die Auswirkungen des Vorhabens auf ihre Anlage bilden und ihre Rechte nach § 187 ausüben können (Verschmelzungsinformationen). Hierbei sind insbesondere die Vorgaben nach Artikel 3 der Richtlinie 2010/44/EU zu beachten.
 
@@ -4678,8 +4483,7 @@ Werden zu Beginn der Verschmelzungsinformationen die wesentlichen Punkte der Ver
 
 (+++ § 186: Zur Anwendung vgl. § 52 Abs. 5 u. § 191 Abs 1 u. 2 +++)
 
-
-## § 187 – Rechte der Anleger
+# § 187 – Rechte der Anleger
 
 (1) Die Anleger des übertragenden Sondervermögens und des übernehmenden Sondervermögens oder EU-OGAW haben das Recht, von der Kapitalverwaltungsgesellschaft Folgendes zu verlangen:
 
@@ -4697,15 +4501,13 @@ Dieses Recht auf Rücknahme oder Umtausch besteht ab dem Zeitpunkt, in dem die A
 
 (+++ § 187: Zur Anwendung vgl. § 52 Abs. 5 u. § 191 Abs 1 +++)
 
-
-## § 188 – Kosten der Verschmelzung
+# § 188 – Kosten der Verschmelzung
 
 Eine Kapitalverwaltungsgesellschaft darf jegliche Kosten, die mit der Vorbereitung und Durchführung der Verschmelzung verbunden sind, weder dem übertragenden Sondervermögen noch dem übernehmenden Sondervermögen oder EU-OGAW noch ihren Anlegern in Rechnung stellen.
 
 (+++ § 188: Zur Anwendung vgl. § 52 Abs. 5 u. § 191 Abs 1 +++)
 
-
-## § 189 – Wirksamwerden der Verschmelzung
+# § 189 – Wirksamwerden der Verschmelzung
 
 (1) Die Verschmelzung wird mit Ablauf des Geschäftsjahres des übertragenden Sondervermögens wirksam, wenn
 
@@ -4727,8 +4529,7 @@ Eine Kapitalverwaltungsgesellschaft darf jegliche Kosten, die mit der Vorbereitu
 
 (+++ § 189: Zur Anwendung vgl. § 52 Abs. 5, § 191 Abs 1 u. 2 u. § 281 Abs. 1 +++)
 
-
-## § 190 – Rechtsfolgen der Verschmelzung
+# § 190 – Rechtsfolgen der Verschmelzung
 
 (1) Eine Verschmelzung durch Aufnahme hat folgende Auswirkungen:
 
@@ -4750,8 +4551,7 @@ Eine Kapitalverwaltungsgesellschaft darf jegliche Kosten, die mit der Vorbereitu
 
 (+++ § 190: Zur Anwendung vgl. § 52 Abs. 5, § 191 Abs 1 u. 2 u. § 281 Abs. 1 +++)
 
-
-## § 191 – Verschmelzung mit Investmentaktiengesellschaften mit veränderlichem Kapital
+# § 191 – Verschmelzung mit Investmentaktiengesellschaften mit veränderlichem Kapital
 
 (1) Die §§ 181 bis 190 sind entsprechend anzuwenden auf die Verschmelzung
 
@@ -4773,15 +4573,13 @@ Eine Kapitalverwaltungsgesellschaft darf jegliche Kosten, die mit der Vorbereitu
 
 (+++ § 191: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 192 – Zulässige Vermögensgegenstände
+# § 192 – Zulässige Vermögensgegenstände
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für einen inländischen OGAW nur die in den §§ 193 bis 198 genannten Vermögensgegenstände erwerben. Edelmetalle und Zertifikate über Edelmetalle dürfen von der OGAW-Kapitalverwaltungsgesellschaft für einen inländischen OGAW nicht erworben werden.
 
 (+++ § 192: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 193 – Wertpapiere
+# § 193 – Wertpapiere
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf vorbehaltlich des § 198 für Rechnung eines inländischen OGAW nur Wertpapiere erwerben,
 
@@ -4807,8 +4605,7 @@ Der Erwerb von Wertpapieren nach Satz 1 Nummer 1 bis 4 darf nur erfolgen, wenn z
 
 (+++ § 193: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 194 – Geldmarktinstrumente
+# § 194 – Geldmarktinstrumente
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf vorbehaltlich des § 198 für Rechnung eines inländischen OGAW Instrumente, die üblicherweise auf dem Geldmarkt gehandelt werden, sowie verzinsliche Wertpapiere, die im Zeitpunkt ihres Erwerbs für den inländischen OGAW eine restliche Laufzeit von höchstens 397 Tagen haben, deren Verzinsung nach den Ausgabebedingungen während ihrer gesamten Laufzeit regelmäßig, mindestens aber einmal in 397 Tagen, marktgerecht angepasst wird oder deren Risikoprofil dem Risikoprofil solcher Wertpapiere entspricht (Geldmarktinstrumente), nur erwerben, wenn sie
 
@@ -4840,15 +4637,13 @@ c) um einen Rechtsträger handelt, der die wertpapiermäßige Unterlegung von Ve
 
 (+++ § 194: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 195 – Bankguthaben
+# § 195 – Bankguthaben
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung eines inländischen OGAW nur Bankguthaben halten, die eine Laufzeit von höchstens zwölf Monaten haben. Die auf Sperrkonten zu führenden Guthaben können bei einem Kreditinstitut mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum unterhalten werden; die Guthaben können auch bei einem Kreditinstitut mit Sitz in einem Drittstaat, dessen Aufsichtsbestimmungen nach Auffassung der Bundesanstalt denjenigen des Rechts der Europäischen Union gleichwertig sind, gehalten werden.
 
 (+++ § 195: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 196 – Investmentanteile
+# § 196 – Investmentanteile
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft kann für Rechnung eines inländischen OGAW Anteile an OGAW erwerben. Anteile an anderen inländischen Sondervermögen und Investmentaktiengesellschaften mit veränderlichem Kapital sowie Anteile an offenen EU-AIF und ausländischen offenen AIF kann sie nur erwerben, wenn
 
@@ -4866,8 +4661,7 @@ Anteile an inländischen Sondervermögen, an Investmentaktiengesellschaften mit 
 
 (+++ § 196: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 197 – Gesamtgrenze; Derivate; Verordnungsermächtigung
+# § 197 – Gesamtgrenze; Derivate; Verordnungsermächtigung
 
 (1) Der inländische OGAW darf nur in Derivate, die von Wertpapieren, Geldmarktinstrumenten, Investmentanteilen gemäß § 196, Finanzindizes im Sinne des Artikels 9 Absatz 1 der Richtlinie 2007/16/EG, Zinssätzen, Wechselkursen oder Währungen, in die der inländische OGAW nach seinen Anlagebedingungen investieren darf, abgeleitet sind, zu Investmentzwecken investieren. Satz 1 gilt entsprechend für Finanzinstrumente mit derivativer Komponente im Sinne des Artikels 10 Absatz 1 der Richtlinie 2007/16/EG.
 
@@ -4891,8 +4685,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (+++ § 197: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 198 – Sonstige Anlageinstrumente
+# § 198 – Sonstige Anlageinstrumente
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf nur bis zu 10 Prozent des Wertes des inländischen OGAW insgesamt anlegen in
 
@@ -4916,15 +4709,13 @@ e) gegen Übernahme der Gewährleistung für die Verzinsung und Rückzahlung dur
 
 (+++ § 198: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 199 – Kreditaufnahme
+# § 199 – Kreditaufnahme
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche Rechnung der Anleger kurzfristige Kredite nur bis zur Höhe von 10 Prozent des Wertes des inländischen OGAW und nur aufnehmen, wenn die Bedingungen der Kreditaufnahme marktüblich sind und dies in den Anlagebedingungen vorgesehen ist.
 
 (+++ § 199: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 200 – Wertpapier-Darlehen, Sicherheiten
+# § 200 – Wertpapier-Darlehen, Sicherheiten
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung des inländischen OGAW Wertpapiere an einen Dritten (Wertpapier-Darlehensnehmer) gegen ein marktgerechtes Entgelt nur mit der Maßgabe übertragen, dass der Wertpapier-Darlehensnehmer der OGAW-Kapitalverwaltungsgesellschaft für Rechnung des inländischen OGAW Wertpapiere von gleicher Art, Güte und Menge zurückzuerstatten hat (Wertpapier-Darlehen), wenn dies in den Anlagebedingungen vorgesehen ist. Wertpapier-Darlehen dürfen einem Wertpapier-Darlehensnehmer nur insoweit gewährt werden, als der Kurswert der zu übertragenden Wertpapiere zusammen mit dem Kurswert der für Rechnung des inländischen OGAW dem Wertpapier-Darlehensnehmer bereits als Wertpapier-Darlehen übertragenen Wertpapiere 10 Prozent des Wertes des inländischen OGAW nicht übersteigt; Wertpapier-Darlehen an konzernangehörige Unternehmen im Sinne des § 290 des Handelsgesetzbuchs gelten als Wertpapier-Darlehen an dasselbe Unternehmen. Die OGAW-Kapitalverwaltungsgesellschaft muss jederzeit zur Kündigung des Wertpapier-Darlehens berechtigt sein.
 
@@ -4948,8 +4739,7 @@ Die Erträge aus der Anlage der Sicherheiten stehen dem inländischen OGAW zu. Z
 
 (+++ § 200: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 201 – Wertpapier-Darlehensvertrag
+# § 201 – Wertpapier-Darlehensvertrag
 
 In dem Darlehensvertrag zwischen der OGAW-Kapitalverwaltungsgesellschaft und dem Wertpapier-Darlehensnehmer sind neben den auf Grund des § 200 erforderlichen Regelungen insbesondere festzulegen:
 
@@ -4961,22 +4751,19 @@ In dem Darlehensvertrag zwischen der OGAW-Kapitalverwaltungsgesellschaft und dem
 
 (+++ § 201: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 202 – Organisierte Wertpapier-Darlehenssysteme
+# § 202 – Organisierte Wertpapier-Darlehenssysteme
 
 Die OGAW-Kapitalverwaltungsgesellschaft kann sich eines von einer Wertpapiersammelbank oder von einem anderen Unternehmen, dessen Unternehmensgegenstand die Abwicklung von grenzüberschreitenden Effektengeschäften für andere ist und das in den Anlagebedingungen genannt ist, organisierten Systems zur Vermittlung und Abwicklung von Wertpapier-Darlehen bedienen, das von den Anforderungen nach den §§ 200 und 201 abweicht, wenn durch die Bedingungen dieses Systems die Wahrung der Interessen der Anleger gewährleistet ist. Von dem jederzeitigen Kündigungsrecht nach § 200 Absatz 1 darf nicht abgewichen werden.
 
 (+++ § 202: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 203 – Pensionsgeschäfte
+# § 203 – Pensionsgeschäfte
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung eines inländischen OGAW Pensionsgeschäfte im Sinne des § 340b Absatz 2 des Handelsgesetzbuchs mit Kreditinstituten oder Finanzdienstleistungsinstituten auf der Grundlage standardisierter Rahmenverträge nur abschließen, wenn dies in den Anlagebedingungen vorgesehen ist. Die Pensionsgeschäfte müssen Wertpapiere zum Gegenstand haben, die nach den Anlagebedingungen für den inländischen OGAW erworben werden dürfen. Die Pensionsgeschäfte dürfen höchstens eine Laufzeit von zwölf Monaten haben. Die OGAW-Kapitalverwaltungsgesellschaft muss jedoch jederzeit zur Kündigung des Pensionsgeschäftes berechtigt sein. Die in Pension genommenen Wertpapiere sind auf die Anlagegrenzen des § 206 Absatz 1, 2 und 3 anzurechnen.
 
 (+++ § 203: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 204 – Verweisung; Verordnungsermächtigung
+# § 204 – Verweisung; Verordnungsermächtigung
 
 (1) Für die weiteren in den §§ 192 bis 211 genannten Vermögensgegenstände gelten die §§ 200 bis 203 sinngemäß.
 
@@ -4986,15 +4773,13 @@ Die OGAW-Kapitalverwaltungsgesellschaft darf für Rechnung eines inländischen O
 
 (+++ § 204: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 205 – Leerverkäufe
+# § 205 – Leerverkäufe
 
 Die Kapitalverwaltungsgesellschaft darf für gemeinschaftliche Rechnung der Anleger keine Vermögensgegenstände nach Maßgabe der §§ 193, 194 und 196 verkaufen, wenn die jeweiligen Vermögensgegenstände im Zeitpunkt des Geschäftsabschlusses nicht zum inländischen OGAW gehören; § 197 bleibt unberührt. Die Wirksamkeit des Rechtsgeschäfts wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
 (+++ § 205: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 206 – Emittentengrenzen
+# § 206 – Emittentengrenzen
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf in Wertpapiere und Geldmarktinstrumente desselben Emittenten nur bis zu 5 Prozent des Wertes des inländischen OGAW anlegen; in diesen Werten dürfen jedoch bis zu 10 Prozent des Wertes des inländischen OGAW angelegt werden, wenn dies in den Anlagebedingungen vorgesehen ist und der Gesamtwert der Wertpapiere und Geldmarktinstrumente dieser Emittenten 40 Prozent des Wertes des inländischen OGAW nicht übersteigt.
 
@@ -5032,8 +4817,7 @@ Legt die OGAW-Kapitalverwaltungsgesellschaft mehr als 5 Prozent des Wertes des i
 
 (+++ § 206: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 207 – Erwerb von Anteilen an Investmentvermögen
+# § 207 – Erwerb von Anteilen an Investmentvermögen
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft darf in Anteile an einem einzigen Investmentvermögen nach Maßgabe des § 196 Absatz 1 nur bis zu 20 Prozent des Wertes des inländischen OGAW anlegen.
 
@@ -5042,8 +4826,7 @@ Legt die OGAW-Kapitalverwaltungsgesellschaft mehr als 5 Prozent des Wertes des i
 (+++ § 207: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)  
 (+++ § 207 Abs. 2: Zur Anwendung vgl. § 219 Abs. 5 Satz 2 +++)
 
-
-## § 208 – Erweiterte Anlagegrenzen
+# § 208 – Erweiterte Anlagegrenzen
 
 Die OGAW-Kapitalverwaltungsgesellschaft darf abweichend von § 206 Absatz 1 in Wertpapiere und Geldmarktinstrumente desselben Emittenten nach Maßgabe des § 206 Absatz 2 mehr als 35 Prozent des Wertes des inländischen OGAW anlegen, wenn
 
@@ -5053,8 +4836,7 @@ Die OGAW-Kapitalverwaltungsgesellschaft darf abweichend von § 206 Absatz 1 in W
 
 (+++ § 208: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 209 – Wertpapierindex-OGAW
+# § 209 – Wertpapierindex-OGAW
 
 (1) Abweichend zu der in § 206 bestimmten Grenze darf die OGAW-Kapitalverwaltungsgesellschaft bis zu 20 Prozent des Wertes des inländischen OGAW in Wertpapiere eines Emittenten anlegen, wenn nach den Anlagebedingungen die Auswahl der für den inländischen OGAW zu erwerbenden Wertpapiere darauf gerichtet ist, unter Wahrung einer angemessenen Risikomischung einen bestimmten, von der Bundesanstalt anerkannten Wertpapierindex nachzubilden (Wertpapierindex-OGAW). Der Wertpapierindex ist insbesondere anzuerkennen, wenn
 
@@ -5070,8 +4852,7 @@ Ein Wertpapierindex stellt eine adäquate Bezugsgrundlage für den Markt dar, we
 
 (+++ § 209: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 210 – Emittentenbezogene Anlagegrenzen
+# § 210 – Emittentenbezogene Anlagegrenzen
 
 (1) Schuldverschreibungen desselben Emittenten oder Geldmarktinstrumente desselben Emittenten darf die OGAW-Kapitalverwaltungsgesellschaft für Rechnung eines inländischen OGAW nur insoweit erwerben, als der Gesamtnennbetrag jeweils 10 Prozent des Gesamtnennbetrags der in Umlauf befindlichen Schuldverschreibungen und Geldmarktinstrumente desselben Emittenten nicht übersteigt. Dies gilt nicht für Wertpapiere oder Geldmarktinstrumente nach Maßgabe des § 206 Absatz 2. Die in Satz 1 bestimmte Grenze braucht beim Erwerb nicht eingehalten zu werden, wenn der Gesamtnennbetrag der in Umlauf befindlichen Schuldverschreibungen oder Geldmarktinstrumente desselben Emittenten von der OGAW-Kapitalverwaltungsgesellschaft nicht ermittelt werden kann. Aktien ohne Stimmrechte desselben Emittenten dürfen für einen inländischen OGAW nur insoweit erworben werden, als ihr Anteil an dem Kapital, das auf die ausgegebenen Aktien ohne Stimmrechte desselben Emittenten entfällt, 10 Prozent nicht übersteigt.
 
@@ -5081,8 +4862,7 @@ Ein Wertpapierindex stellt eine adäquate Bezugsgrundlage für den Markt dar, we
 
 (+++ § 210 : Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 211 – Überschreiten von Anlagegrenzen
+# § 211 – Überschreiten von Anlagegrenzen
 
 (1) Die in den §§ 198, 206 und 210 bestimmten Grenzen dürfen überschritten werden, wenn es sich um den Erwerb von Aktien, die dem inländischen OGAW bei einer Kapitalerhöhung aus Gesellschaftsmitteln zustehen, oder um den Erwerb von neuen Aktien in Ausübung von Bezugsrechten aus Wertpapieren handelt, die zum inländischen OGAW gehören.
 
@@ -5092,27 +4872,23 @@ Ein Wertpapierindex stellt eine adäquate Bezugsgrundlage für den Markt dar, we
 
 (+++ § 211: Zur Anwendung vgl. § 52 Abs. 5 u. § 218 Satz 2 +++)
 
-
-## § 212 – Bewerter; Häufigkeit der Bewertung und Berechnung
+# § 212 – Bewerter; Häufigkeit der Bewertung und Berechnung
 
 Der Wert eines inländischen OGAW und der Nettoinventarwert je Anteil oder Aktie sind bei jeder Möglichkeit zur Ausgabe und Rückgabe von Anteilen oder Aktien entweder von der Verwahrstelle unter Mitwirkung der OGAW-Kapitalverwaltungsgesellschaft oder von der OGAW-Kapitalverwaltungsgesellschaft selbst zu ermitteln.
 
 (+++ § 212: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 213 – Umwandlung von inländischen OGAW
+# § 213 – Umwandlung von inländischen OGAW
 
 Inländische OGAW dürfen nicht in AIF umgewandelt werden.
 
 (+++ § 213: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 214 – Risikomischung, Arten
+# § 214 – Risikomischung, Arten
 
 Offene Publikums-AIF müssen nach dem Grundsatz der Risikomischung angelegt sein und dürfen nur als Gemischte Investmentvermögen gemäß den §§ 218 und 219, als Sonstige Investmentvermögen gemäß den §§ 220 bis 224, als Dach-Hedgefonds gemäß den §§ 225 bis 229 oder als Immobilien-Sondervermögen gemäß den §§ 230 bis 260 aufgelegt werden.
 
-
-## § 215 – Begrenzung von Leverage durch die Bundesanstalt
+# § 215 – Begrenzung von Leverage durch die Bundesanstalt
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat der Bundesanstalt zu zeigen, dass die von der AIF-Kapitalverwaltungsgesellschaft angesetzte Begrenzung des Umfangs des eingesetzten Leverage angemessen ist und dass sie diese Begrenzung stets einhält.
 
@@ -5124,8 +4900,7 @@ Offene Publikums-AIF müssen nach dem Grundsatz der Risikomischung angelegt sein
 
 (5) Für die Bedingungen, unter welchen die Maßnahmen nach Absatz 2 angewendet werden, gilt Artikel 112 der Delegierten Verordnung (EU) Nr. 231/2013 entsprechend.
 
-
-## § 216 – Bewerter
+# § 216 – Bewerter
 
 (1) Die Bewertung der Vermögensgegenstände ist durchzuführen
 
@@ -5155,8 +4930,7 @@ Die für einen Publikums-AIF bestellte Verwahrstelle kann nicht als externer Bew
 
 (+++ § 216: Zur Anwendung vgl. § 250 Abs. 1 +++)
 
-
-## § 217 – Häufigkeit der Bewertung und Berechnung; Offenlegung
+# § 217 – Häufigkeit der Bewertung und Berechnung; Offenlegung
 
 (1) Die Bewertung der Vermögensgegenstände und die Berechnung des Nettoinventarwertes je Anteil oder Aktie sind in einem zeitlichen Abstand durchzuführen, der den zum Investmentvermögen gehörenden Vermögensgegenständen und der Ausgabe- und Rücknahmehäufigkeit der Anteile oder Aktien angemessen ist, jedoch mindestens einmal im Jahr.
 
@@ -5166,13 +4940,11 @@ Die für einen Publikums-AIF bestellte Verwahrstelle kann nicht als externer Bew
 
 (+++ § 217: Zur Anwendung vgl. § 251 Abs. 1 Satz 1 +++)
 
-
-## § 218 – Gemischte Investmentvermögen
+# § 218 – Gemischte Investmentvermögen
 
 Gemischte Investmentvermögen sind offene inländische Publikums-AIF, die in Vermögensgegenstände nach Maßgabe des § 219 anlegen. Auf die Verwaltung von Gemischten Investmentvermögen sind die Vorschriften der §§ 192 bis 211 insoweit anzuwenden, als sich aus den nachfolgenden Vorschriften nichts anderes ergibt.
 
-
-## § 219 – Zulässige Vermögensgegenstände, Anlagegrenzen
+# § 219 – Zulässige Vermögensgegenstände, Anlagegrenzen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines Gemischten Investmentvermögens nur erwerben:
 
@@ -5200,13 +4972,11 @@ b) inländischen AIF nach Maßgabe der §§ 220 bis 224 sowie Anteile an verglei
 
 (6) Die AIF-Kapitalverwaltungsgesellschaft kann die in § 209 bestimmten Grenzen für ein Wertpapierindex-OGAW-Investmentvermögen überschreiten, wenn nach den Anlagebedingungen die Auswahl der für das Gemischte Investmentvermögen zu erwerbenden Wertpapiere darauf gerichtet ist, unter Wahrung einer angemessenen Risikomischung einen bestimmten, allgemein und von der Bundesanstalt anerkannten Wertpapierindex nachzubilden. § 209 Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 220 – Sonstige Investmentvermögen
+# § 220 – Sonstige Investmentvermögen
 
 Auf die Verwaltung von Sonstigen Investmentvermögen nach Maßgabe der §§ 220 bis 224 sind die Vorschriften der §§ 192 bis 205 insoweit anzuwenden, als sich aus den nachfolgenden Vorschriften nichts anderes ergibt.
 
-
-## § 221 – Zulässige Vermögensgegenstände, Anlagegrenzen, Kreditaufnahme
+# § 221 – Zulässige Vermögensgegenstände, Anlagegrenzen, Kreditaufnahme
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für ein Sonstiges Investmentvermögen nur erwerben:
 
@@ -5230,8 +5000,7 @@ Auf die Verwaltung von Sonstigen Investmentvermögen nach Maßgabe der §§ 220 
 
 (7) Abweichend von § 200 darf die AIF-Kapitalverwaltungsgesellschaft Wertpapiere auf bestimmte Zeit übertragen. Ist für die Rückerstattung eines Wertpapier-Darlehens eine Zeit bestimmt, muss die Rückerstattung spätestens 30 Tage nach der Übertragung der Wertpapiere fällig sein. Der Kurswert der für eine bestimmte Zeit zu übertragenden Wertpapiere darf zusammen mit dem Kurswert der für Rechnung des Sonstigen Investmentvermögens bereits als Wertpapier-Darlehen für eine bestimmte Zeit übertragenen Wertpapiere 15 Prozent des Wertes des Sonstigen Investmentvermögens nicht übersteigen. Abweichend von § 203 müssen Pensionsgeschäfte nicht jederzeit kündbar sein.
 
-
-## § 222 – Mikrofinanzinstitute
+# § 222 – Mikrofinanzinstitute
 
 (1) Abweichend von § 221 Absatz 5 Satz 1 darf die AIF-Kapitalverwaltungsgesellschaft bis zu 95 Prozent des Wertes des Sonstigen Investmentvermögens in unverbriefte Darlehensforderungen von regulierten Mikrofinanzinstituten und in unverbriefte Darlehensforderungen gegen regulierte Mikrofinanzinstitute anlegen; ein Erwerb von unverbrieften Darlehensforderungen gegen regulierte Mikrofinanzinstitute ist jedoch nur zulässig, wenn der Erwerb der Refinanzierung des Mikrofinanzinstituts dient. Regulierte Mikrofinanzinstitute im Sinne des Satzes 1 sind Unternehmen,
 
@@ -5255,15 +5024,13 @@ Die AIF-Kapitalverwaltungsgesellschaft darf Vermögensgegenstände desselben Mik
 
 (3) In den Fällen des Absatzes 1 müssen die Personen, die für die Anlageentscheidungen bei dem Sonstigen Investmentvermögen verantwortlich sind, neben der allgemeinen fachlichen Eignung für die Durchführung von Investmentgeschäften ausreichendes Erfahrungswissen in Bezug auf die in Absatz 1 genannten Anlagemöglichkeiten haben.
 
-
-## § 223 – Sonderregelungen für die Ausgabe und Rücknahme von Anteilen oder Aktien
+# § 223 – Sonderregelungen für die Ausgabe und Rücknahme von Anteilen oder Aktien
 
 (1) Die Anlagebedingungen von Sonstigen Investmentvermögen können abweichend von § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 vorsehen, dass die Rücknahme von Anteilen oder Aktien höchstens einmal halbjährlich und mindestens einmal jährlich zu einem in den Anlagebedingungen bestimmten Termin erfolgt, wenn zum Zeitpunkt der Rückgabe der Anteile oder Aktien die Summe der Werte der zurückgegebenen Anteile oder Aktien einen in den Anlagebedingungen bestimmten Betrag überschreitet. In den Fällen des Satzes 1 müssen die Anlagebedingungen vorsehen, dass die Rückgabe eines Anteils oder von Aktien durch eine unwiderrufliche schriftliche Rückgabeerklärung gegenüber der AIF-Kapitalverwaltungsgesellschaft unter Einhaltung einer Rückgabefrist erfolgen muss, die mindestens einen Monat betragen muss und höchstens zwölf Monate betragen darf; § 227 Absatz 3 gilt entsprechend.
 
 (2) In den Fällen des § 222 Absatz 1 ist § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 mit der Maßgabe anzuwenden, dass die Anlagebedingungen vorsehen müssen, dass die Rücknahme von Anteilen oder Aktien nur zu bestimmten Rücknahmeterminen erfolgt, jedoch höchstens einmal vierteljährlich und mindestens einmal jährlich. Die Rückgabe von Anteilen oder Aktien ist nur zulässig durch eine unwiderrufliche Rückgabeerklärung unter Einhaltung einer Rückgabefrist, die zwischen einem Monat und 24 Monaten betragen muss; § 227 Absatz 3 gilt entsprechend.
 
-
-## § 224 – Angaben im Verkaufsprospekt und in den Anlagebedingungen
+# § 224 – Angaben im Verkaufsprospekt und in den Anlagebedingungen
 
 (1) Der Verkaufsprospekt muss bei Sonstigen Investmentvermögen zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
 
@@ -5291,8 +5058,7 @@ Die AIF-Kapitalverwaltungsgesellschaft darf Vermögensgegenstände desselben Mik
 
 4. alle Voraussetzungen und Bedingungen für die Rücknahme und Auszahlung von Anteilen oder Aktien aus dem Sonstigen Investmentvermögen Zug um Zug gegen Rückgabe der Anteile oder Aktien.
 
-
-## § 225 – Dach-Hedgefonds
+# § 225 – Dach-Hedgefonds
 
 (1) Dach-Hedgefonds sind AIF, die vorbehaltlich der Regelung in Absatz 2 in Anteile oder Aktien von Zielfonds anlegen. Zielfonds sind Hedgefonds nach Maßgabe des § 283 oder EU-AIF oder ausländische AIF, deren Anlagepolitik den Anforderungen des § 283 Absatz 1 vergleichbar ist. Leverage mit Ausnahme von Kreditaufnahmen nach Maßgabe des § 199 und Leerverkäufe dürfen für Dach-Hedgefonds nicht durchgeführt werden.
 
@@ -5322,13 +5088,11 @@ anlegen. Nur zur Währungskurssicherung von in Fremdwährung gehaltenen Vermöge
 
 (6) Die AIF-Kapitalverwaltungsgesellschaften haben die Zielfonds, in die sie anlegen, in Bezug auf die Einhaltung der Anlagestrategien und Risiken laufend zu überwachen und haben sich regelmäßig allgemein anerkannte Risikokennziffern vorlegen zu lassen. Die Methode, nach der die Risikokennziffer errechnet wird, muss der AIF-Kapitalverwaltungsgesellschaft von dem jeweiligen Zielfonds angegeben und erläutert werden. Die Verwahrstelle der Zielfonds hat eine Bestätigung des Wertes des Zielfonds vorzulegen.
 
-
-## § 226 – Auskunftsrecht der Bundesanstalt
+# § 226 – Auskunftsrecht der Bundesanstalt
 
 AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, haben der Bundesanstalt auf Anforderung alle Unterlagen und Risikokennziffern, die ihnen nach Maßgabe des § 225 Absatz 5 und 6 vorliegen, vorzulegen.
 
-
-## § 227 – Rücknahme
+# § 227 – Rücknahme
 
 (1) Bei Dach-Hedgefonds können die Anlagebedingungen abweichend von § 98 Absatz 1 oder § 116 Absatz 2 Satz 1 vorsehen, dass die Rücknahme von Anteilen oder Aktien nur zu bestimmten Rücknahmeterminen, jedoch mindestens einmal in jedem Kalendervierteljahr, erfolgt.
 
@@ -5338,8 +5102,7 @@ AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, haben der B
 
 (4) Der Rücknahmepreis muss unverzüglich, spätestens aber 50 Kalendertage nach dem Rücknahmetermin gezahlt werden.
 
-
-## § 228 – Verkaufsprospekt
+# § 228 – Verkaufsprospekt
 
 (1) Der Verkaufsprospekt muss bei Dach-Hedgefonds zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
 
@@ -5357,8 +5120,7 @@ AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, haben der B
 
 (2) Zusätzlich muss der Verkaufsprospekt eines Dach-Hedgefonds an auffälliger Stelle drucktechnisch hervorgehoben folgenden Warnhinweis enthalten: „Der Bundesminister der Finanzen warnt: Dieser Investmentfonds investiert in Hedgefonds, die keinen gesetzlichen Leverage- oder Risikobeschränkungen unterliegen.“
 
-
-## § 229 – Anlagebedingungen
+# § 229 – Anlagebedingungen
 
 (1) Die Anlagebedingungen von AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, müssen die Angaben nach Maßgabe des § 162 enthalten.
 
@@ -5376,15 +5138,13 @@ AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, haben der B
 
 (3) Ergänzend zu § 162 Absatz 2 Nummer 4 haben AIF-Kapitalverwaltungsgesellschaften, die Dach-Hedgefonds verwalten, alle Voraussetzungen und Bedingungen der Rückgabe und Auszahlung von Anteilen aus dem Dach-Hedgefonds Zug um Zug gegen Rückgabe der Anteile anzugeben.
 
-
-## § 230 – Immobilien-Sondervermögen
+# § 230 – Immobilien-Sondervermögen
 
 (1) Für die Verwaltung von Immobilien-Sondervermögen gelten die Vorschriften der §§ 192 bis 211 sinngemäß, soweit sich aus den §§ 231 bis 260 nichts anderes ergibt.
 
 (2) Das Immobilien-Sondervermögen darf nicht für eine begrenzte Dauer gebildet werden.
 
-
-## § 231 – Zulässige Vermögensgegenstände; Anlagegrenzen
+# § 231 – Zulässige Vermögensgegenstände; Anlagegrenzen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für ein Immobilien-Sondervermögen nur folgende Vermögensgegenstände erwerben:
 
@@ -5434,8 +5194,7 @@ bewertet wurde,
 
 (5) Im Fall des § 234 sind die von der Immobilien-Gesellschaft gehaltenen Vermögensgegenstände bei dem Immobilien-Sondervermögen bei der Anwendung der in den Absätzen 1 und 2, §§ 232 und 233 genannten Anlagebeschränkungen und der Berechnung der dort genannten Grenzen entsprechend der Beteiligungshöhe zu berücksichtigen.
 
-
-## § 232 – Erbbaurechtsbestellung
+# § 232 – Erbbaurechtsbestellung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf ein Grundstück nur unter den in den Anlagebedingungen festgelegten Bedingungen mit einem Erbbaurecht belasten.
 
@@ -5447,8 +5206,7 @@ bewertet wurde,
 
 (5) Die Verlängerung eines Erbbaurechts gilt als Neubestellung.
 
-
-## § 233 – Vermögensgegenstände in Drittstaaten; Währungsrisiko
+# § 233 – Vermögensgegenstände in Drittstaaten; Währungsrisiko
 
 (1) Vermögensgegenstände, die sich in Staaten befinden, die keine Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind, dürfen für ein Immobilien-Sondervermögen nur dann erworben werden, wenn
 
@@ -5464,8 +5222,7 @@ bewertet wurde,
 
 (2) Die AIF-Kapitalverwaltungsgesellschaft hat sicherzustellen, dass die für Rechnung eines Immobilien-Sondervermögens gehaltenen Vermögensgegenstände nur insoweit einem Währungsrisiko unterliegen, als der Wert der einem solchen Risiko unterliegenden Vermögensgegenstände 30 Prozent des Wertes des Sondervermögens nicht übersteigt.
 
-
-## § 234 – Beteiligung an Immobilien-Gesellschaften
+# § 234 – Beteiligung an Immobilien-Gesellschaften
 
 Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung des Immobilien-Sondervermögens Beteiligungen an Immobilien-Gesellschaften nur erwerben und halten, wenn
 
@@ -5483,8 +5240,7 @@ Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung des Immobilien-Sonderv
 
 Abweichend von Satz 1 Nummer 4 darf die AIF-Kapitalverwaltungsgesellschaft Beteiligungen an einer Immobilien-Gesellschaft auch dann erwerben und halten, wenn sie nicht die für eine Änderung der Satzung erforderliche Stimmen- und Kapitalmehrheit hat (Minderheitsbeteiligung). In diesem Fall ist die Anlagegrenze nach § 237 Absatz 3 zu beachten.
 
-
-## § 235 – Anforderungen an die Immobilien-Gesellschaften
+# § 235 – Anforderungen an die Immobilien-Gesellschaften
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung des Immobilien-Sondervermögens Beteiligungen nur an solchen Immobilien-Gesellschaften erwerben und halten,
 
@@ -5506,8 +5262,7 @@ Abweichend von Satz 1 Nummer 4 darf die AIF-Kapitalverwaltungsgesellschaft Betei
 
 (4) Die Gesellschafter einer Immobilien-Gesellschaft, an der die AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens beteiligt ist, müssen ihre Einlagen vollständig eingezahlt haben.
 
-
-## § 236 – Erwerb der Beteiligung; Wertermittlung durch Abschlussprüfer
+# § 236 – Erwerb der Beteiligung; Wertermittlung durch Abschlussprüfer
 
 (1) Bevor die AIF-Kapitalverwaltungsgesellschaft die Beteiligung an einer Immobilien-Gesellschaft erwirbt, ist der Wert der Immobilien-Gesellschaft von einem Abschlussprüfer im Sinne des § 319 Absatz 1 Satz 1 und 2 des Handelsgesetzbuchs zu ermitteln.
 
@@ -5531,8 +5286,7 @@ b) nicht zugleich die regelmäßige Bewertung gemäß den §§ 249 und 251 Absat
 
 c) nicht zugleich Abschlussprüfer ist oder sind.
 
-
-## § 237 – Umfang der Beteiligung; Anlagegrenzen
+# § 237 – Umfang der Beteiligung; Anlagegrenzen
 
 (1) Der Wert aller Vermögensgegenstände, die zum Vermögen der Immobilien-Gesellschaften gehören, an denen die AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens beteiligt ist, darf 49 Prozent des Wertes des Immobilien-Sondervermögens nicht übersteigen.
 
@@ -5548,13 +5302,11 @@ c) nicht zugleich Abschlussprüfer ist oder sind.
 
 (7) Wenn nach Erwerb einer Minderheitsbeteiligung die Voraussetzungen für den Erwerb und das Halten der Beteiligung nicht mehr erfüllt sind, hat die AIF-Kapitalverwaltungsgesellschaft die Veräußerung der Beteiligung unter Wahrung der Interessen der Anleger anzustreben.
 
-
-## § 238 – Beteiligungen von Immobilien-Gesellschaften an Immobilien-Gesellschaften
+# § 238 – Beteiligungen von Immobilien-Gesellschaften an Immobilien-Gesellschaften
 
 Für Beteiligungen von Immobilien-Gesellschaften an anderen Immobilien-Gesellschaften gelten § 231 Absatz 5, § 235 Absatz 2 bis 4 sowie die §§ 236, 237 Absatz 1 bis 6 entsprechend.
 
-
-## § 239 – Verbot und Einschränkung von Erwerb und Veräußerung
+# § 239 – Verbot und Einschränkung von Erwerb und Veräußerung
 
 (1) Ein Vermögensgegenstand nach § 231 Absatz 1 oder nach § 234 darf für Rechnung eines Immobilien-Sondervermögens nicht erworben werden, wenn er bereits im Eigentum der AIF-Kapitalverwaltungsgesellschaft steht. Er darf ferner für Rechnung eines Immobilien-Sondervermögens nicht von einem Mutter-, Schwester- oder Tochterunternehmen der AIF-Kapitalverwaltungsgesellschaft oder von einer anderen Gesellschaft erworben werden, an der die AIF-Kapitalverwaltungsgesellschaft eine bedeutende Beteiligung hält.
 
@@ -5566,8 +5318,7 @@ Für Beteiligungen von Immobilien-Gesellschaften an anderen Immobilien-Gesellsch
 
 3. auf einen anderen AIF übertragen, der von ihr oder einem Unternehmen im Sinne des Absatzes 1 Satz 2 verwaltet wird.
 
-
-## § 240 – Darlehensgewährung an Immobilien-Gesellschaften
+# § 240 – Darlehensgewährung an Immobilien-Gesellschaften
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf einer Immobilien-Gesellschaft für Rechnung des Immobilien-Sondervermögens ein Darlehen nur gewähren, wenn
 
@@ -5587,42 +5338,35 @@ Für Beteiligungen von Immobilien-Gesellschaften an anderen Immobilien-Gesellsch
 
 (3) Einer Darlehensgewährung nach den Absätzen 1 und 2 steht gleich, wenn ein Dritter im Auftrag der AIF-Kapitalverwaltungsgesellschaft der Immobilien-Gesellschaft ein Darlehen im eigenen Namen für Rechnung des Immobilien-Sondervermögens gewährt.
 
-
-## § 241 – Zahlungen, Überwachung durch die Verwahrstelle
+# § 241 – Zahlungen, Überwachung durch die Verwahrstelle
 
 Die AIF-Kapitalverwaltungsgesellschaft hat mit der Immobilien-Gesellschaft zu vereinbaren, dass die der AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens zustehenden Zahlungen, der Liquidationserlös und sonstige der AIF-Kapitalverwaltungsgesellschaft für Rechnung des Immobilien-Sondervermögens zustehende Beträge unverzüglich auf ein Konto nach § 83 Absatz 6 Satz 2 einzuzahlen sind. Satz 1 gilt entsprechend für Immobilien-Gesellschaften, die Beteiligungen an anderen Immobilien-Gesellschaften erwerben oder halten.
 
-
-## § 242 – Wirksamkeit eines Rechtsgeschäfts
+# § 242 – Wirksamkeit eines Rechtsgeschäfts
 
 Die Nichtbeachtung der vorstehenden Vorschriften berührt die Wirksamkeit des Rechtsgeschäfts nicht.
 
-
-## § 243 – Risikomischung
+# § 243 – Risikomischung
 
 (1) Der Wert einer Immobilie darf zur Zeit des Erwerbs 15 Prozent des Wertes des Sondervermögens nicht übersteigen. Der Gesamtwert aller Immobilien, deren einzelner Wert mehr als 10 Prozent des Wertes des Sondervermögens beträgt, darf 50 Prozent des Wertes des Sondervermögens nicht überschreiten. Bei der Berechnung der Werte werden aufgenommene Darlehen nicht abgezogen.
 
 (2) Als Immobilie im Sinne des Absatzes 1 gilt auch eine aus mehreren Immobilien bestehende wirtschaftliche Einheit.
 
-
-## § 244 – Anlaufzeit
+# § 244 – Anlaufzeit
 
 Die Anlagegrenzen in den §§ 231 bis 238 und 243 sowie § 253 Absatz 1 Satz 1 gelten für das Immobilien-Sondervermögen einer AIF-Kapitalverwaltungsgesellschaft erst, wenn seit dem Zeitpunkt der Bildung dieses Sondervermögens eine Frist von vier Jahren verstrichen ist.
 
-
-## § 245 – Treuhandverhältnis
+# § 245 – Treuhandverhältnis
 
 Abweichend von § 92 Absatz 1 können Vermögensgegenstände, die zum Immobilien-Sondervermögen gehören, nur im Eigentum der AIF-Kapitalverwaltungsgesellschaft stehen.
 
-
-## § 246 – Verfügungsbeschränkung
+# § 246 – Verfügungsbeschränkung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat dafür zu sorgen, dass die Verfügungsbeschränkung nach § 84 Absatz 1 Nummer 3 in das Grundbuch eingetragen wird. Ist bei ausländischen Grundstücken die Eintragung der Verfügungsbeschränkung in ein Grundbuch oder ein vergleichbares Register nicht möglich, so ist die Wirksamkeit der Verfügungsbeschränkung in anderer geeigneter Form sicherzustellen.
 
 (2) Die AIF-Kapitalverwaltungsgesellschaft kann gegenüber dem Grundbuchamt die Bestellung der Verwahrstelle durch eine Bescheinigung der Bundesanstalt nachweisen, aus der sich ergibt, dass die Bundesanstalt die Auswahl als Verwahrstelle genehmigt hat und von ihrem Recht, der AIF-Kapitalverwaltungsgesellschaft einen Wechsel der Verwahrstelle aufzuerlegen, keinen Gebrauch gemacht hat.
 
-
-## § 247 – Vermögensaufstellung
+# § 247 – Vermögensaufstellung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat in der Vermögensaufstellung nach § 101 Absatz 1 Satz 3 Nummer 1 den Bestand der zum Sondervermögen gehörenden Immobilien und sonstigen Vermögensgegenstände aufzuführen und dabei Folgendes anzugeben:
 
@@ -5656,8 +5400,7 @@ Die im Berichtszeitraum getätigten Käufe und Verkäufe von Immobilien und Bete
 
 Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert anzusetzen. Die Angaben nach Absatz 1 für die Immobilien und sonstigen Vermögensgegenstände der Immobilien-Gesellschaft sind nachrichtlich aufzuführen und besonders zu kennzeichnen.
 
-
-## § 248 – Sonderregeln für die Bewertung
+# § 248 – Sonderregeln für die Bewertung
 
 (1) § 168 ist mit den Maßgaben der Absätze 2 bis 4 anzuwenden.
 
@@ -5667,8 +5410,7 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 
 (4) Der Wert der Beteiligung an einer Immobilien-Gesellschaft ist nach den für die Bewertung von Unternehmensbeteiligungen allgemein anerkannten Grundsätzen zu ermitteln. Die im Jahresabschluss oder in der Vermögensaufstellung der Immobilien-Gesellschaft ausgewiesenen Immobilien sind dabei mit dem Wert anzusetzen, der entsprechend § 249 Absatz 1 festgestellt wurde.
 
-
-## § 249 – Sonderregeln für das Bewertungsverfahren
+# § 249 – Sonderregeln für das Bewertungsverfahren
 
 (1) § 169 ist mit der Maßgabe anzuwenden, dass die Bewertungsrichtlinien für Immobilien-Sondervermögen zusätzlich vorzusehen haben, dass
 
@@ -5684,8 +5426,7 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 
 (3) Der auf Grund der Vermögensaufstellungen ermittelte Wert der Beteiligung an einer Immobilien-Gesellschaft ist den Bewertungen zur laufenden Preisermittlung zugrunde zu legen.
 
-
-## § 250 – Sonderregeln für den Bewerter
+# § 250 – Sonderregeln für den Bewerter
 
 (1) § 216 ist mit der Maßgabe anzuwenden, dass
 
@@ -5695,15 +5436,13 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 
 (2) Ein externer Bewerter darf für eine AIF-Kapitalverwaltungsgesellschaft für die Bewertung von Vermögensgegenständen im Sinne des § 231 Absatz 1 Satz 1 Nummer 1 bis 6 nur für einen Zeitraum von maximal drei Jahren tätig sein. Die Einnahmen des externen Bewerters aus seiner Tätigkeit für die AIF-Kapitalverwaltungsgesellschaft dürfen 30 Prozent seiner Gesamteinnahmen, bezogen auf das Geschäftsjahr des externen Bewerters, nicht überschreiten. Die Bundesanstalt kann verlangen, dass ihr entsprechende Nachweise vorgelegt werden. Die AIF-Kapitalverwaltungsgesellschaft darf einen externen Bewerter erst nach Ablauf von zwei Jahren seit Ende des Zeitraums nach Satz 1 erneut als externen Bewerter bestellen.
 
-
-## § 251 – Sonderregeln für die Häufigkeit der Bewertung
+# § 251 – Sonderregeln für die Häufigkeit der Bewertung
 
 (1) § 217 ist mit der Maßgabe anzuwenden, dass der Wert der Vermögensgegenstände im Sinne des § 231 Absatz 1 und des § 234 innerhalb eines Zeitraums von drei Monaten zu ermitteln ist. Sehen die Anlagebedingungen eines Immobilien-Sondervermögens gemäß § 255 Absatz 2 die Rücknahme von Anteilen seltener als alle drei Monate vor, ist der Wert der Vermögensgegenstände im Sinne des § 231 Absatz 1 und des § 234 innerhalb eines Zeitraums von drei Monaten vor jedem Rücknahmetermin zu ermitteln. Abweichend von Satz 1 und 2 ist der Wert stets erneut zu ermitteln und anzusetzen, wenn nach Auffassung der AIF-Kapitalverwaltungsgesellschaft der zuletzt ermittelte Wert auf Grund von Änderungen wesentlicher Bewertungsfaktoren nicht mehr sachgerecht ist; die AIF-Kapitalverwaltungsgesellschaft hat ihre Entscheidung und die Gründe dafür nachvollziehbar zu dokumentieren.
 
 (2) Absatz 1 gilt entsprechend für die Bewertung der im Jahresabschluss oder in der Vermögensaufstellung der Immobilien-Gesellschaft ausgewiesenen Immobilien.
 
-
-## § 252 – Ertragsverwendung
+# § 252 – Ertragsverwendung
 
 (1) Die Anlagebedingungen müssen vorsehen, dass Erträge des Sondervermögens, die für künftige Instandsetzungen von Vermögensgegenständen des Sondervermögens erforderlich sind, nicht ausgeschüttet werden dürfen.
 
@@ -5711,8 +5450,7 @@ Als Verkehrswert der Beteiligung ist der nach § 248 Absatz 4 ermittelte Wert an
 
 (3) Die Anlagebedingungen müssen angeben, ob und in welchem Umfang Erträge zum Ausgleich von Wertminderungen der Vermögensgegenstände des Sondervermögens und für künftige erforderliche Instandsetzungen nach Absatz 1 einbehalten werden.
 
-
-## § 253 – Liquiditätsvorschriften
+# § 253 – Liquiditätsvorschriften
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines Immobilien-Sondervermögens einen Betrag, der insgesamt 49 Prozent des Wertes des Sondervermögens entspricht, nur halten in
 
@@ -5756,8 +5494,7 @@ sofern die Verbindlichkeiten in den folgenden zwei Jahren fällig werden.
 
 (3) Die AIF-Kapitalverwaltungsgesellschaft darf für Rechnung eines Immobilien-Sondervermögens Wertpapier-Darlehen nur auf unbestimmte Zeit gewähren.
 
-
-## § 254 – Kreditaufnahme
+# § 254 – Kreditaufnahme
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf unbeschadet des § 199 für gemeinschaftliche Rechnung der Anleger Kredite nur bis zur Höhe von 30 Prozent des Verkehrswertes der Immobilien, die zum Sondervermögen gehören, und nur dann aufnehmen und halten, wenn
 
@@ -5773,8 +5510,7 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (2) Entsprechend der Beteiligungshöhe sind die von der Immobilien-Gesellschaft aufgenommenen Kredite bei dem Immobilien-Sondervermögen bei der Berechnung der in Absatz 1 genannten Grenzen zu berücksichtigen.
 
-
-## § 255 – Sonderregeln für die Ausgabe und Rücknahme von Anteilen
+# § 255 – Sonderregeln für die Ausgabe und Rücknahme von Anteilen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat die Ausgabe von Anteilen vorübergehend auszusetzen, wenn eine Verletzung der Anlagegrenzen nach den Liquiditätsvorschriften dieses Abschnitts oder der Anlagebedingungen droht.
 
@@ -5786,8 +5522,7 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (5) Swing Pricing ist bei Immobilien-Sondervermögen unzulässig.
 
-
-## § 256 – Zusätzliche Angaben im Verkaufsprospekt und in den Anlagebedingungen
+# § 256 – Zusätzliche Angaben im Verkaufsprospekt und in den Anlagebedingungen
 
 (1) Der Verkaufsprospekt muss zusätzlich zu den Angaben nach § 165 folgende Angaben enthalten:
 
@@ -5797,8 +5532,7 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (2) Die Angaben nach Absatz 1 Nummer 2 sind in die Anlagebedingungen aufzunehmen.
 
-
-## § 257 – Aussetzung der Rücknahme
+# § 257 – Aussetzung der Rücknahme
 
 (1) Verlangt der Anleger, dass ihm gegen Rückgabe des Anteils sein Anteil am Immobilien-Sondervermögen ausgezahlt wird, so hat die AIF-Kapitalverwaltungsgesellschaft die Rücknahme der Anteile zu verweigern und auszusetzen, wenn die Bankguthaben und der Erlös der nach § 253 Absatz 1 angelegten Mittel zur Zahlung des Rücknahmepreises und zur Sicherstellung einer ordnungsgemäßen laufenden Bewirtschaftung nicht ausreichen oder nicht sogleich zur Verfügung stehen. Zur Beschaffung der für die Rücknahme der Anteile notwendigen Mittel hat die AIF-Kapitalverwaltungsgesellschaft Vermögensgegenstände des Sondervermögens zu angemessenen Bedingungen zu veräußern.
 
@@ -5808,8 +5542,7 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 (4) Reichen auch 36 Monate nach der Aussetzung der Rücknahme die Bankguthaben und die liquiden Mittel nicht aus, so erlischt das Recht der AIF-Kapitalverwaltungsgesellschaft, dieses Immobilien-Sondervermögen zu verwalten; dies gilt auch, wenn eine AIF-Kapitalverwaltungsgesellschaft zum dritten Mal binnen fünf Jahren die Rücknahme von Anteilen aussetzt. Ein erneuter Fristlauf nach den Absätzen 1 bis 3 kommt nicht in Betracht, wenn die AIF-Kapitalverwaltungsgesellschaft die Anteilrücknahme binnen drei Monaten erneut aussetzt oder wenn sie, falls die Anlagebedingungen nicht mehr als vier Rückgabetermine im Jahr vorsehen, die Anteilrücknahme nur zu einem Rücknahmetermin wieder aufgenommen hatte, aber zum darauf folgenden Rücknahmetermin die Anteilrücknahme erneut unter Berufung auf Absatz 1 Satz 1 verweigert.
 
-
-## § 258 – Aussetzung nach Kündigung
+# § 258 – Aussetzung nach Kündigung
 
 (1) Außergewöhnliche Umstände im Sinne des § 98 Absatz 2 Satz 1 liegen vor, wenn die AIF-Kapitalverwaltungsgesellschaft die Kündigung der Verwaltung des Immobilien-Sondervermögens erklärt hat.
 
@@ -5823,8 +5556,7 @@ Eine Kreditaufnahme zur Finanzierung der Rücknahme von Anteilen ist nur nach Ma
 
 2. nicht Gewährleistungszusagen aus den Veräußerungsgeschäften oder zu erwartende Auseinandersetzungskosten den Einbehalt im Sondervermögen verlangen.
 
-
-## § 259 – Beschlüsse der Anleger
+# § 259 – Beschlüsse der Anleger
 
 (1) Die Anlagebedingungen eines Immobilien-Sondervermögens haben für den Fall der Aussetzung der Rücknahme von Anteilen gemäß § 257 vorzusehen, dass die Anleger durch Mehrheitsbeschluss in die Veräußerung bestimmter Vermögensgegenstände einwilligen können, auch wenn die Veräußerung nicht zu angemessenen Bedingungen im Sinne des § 257 Absatz 1 Satz 3 erfolgt. Ein Widerruf der Einwilligung kommt nicht in Betracht. Die Einwilligung verpflichtet die AIF-Kapitalverwaltungsgesellschaft nicht zur Veräußerung.
 
@@ -5840,8 +5572,7 @@ Eine einberufene Anlegerversammlung bleibt von der Wiederaufnahme der Anteilrüc
 
 (3) Die Abstimmung soll ohne Versammlung durchgeführt werden, wenn nicht außergewöhnliche Umstände eine Versammlung zur Information der Anleger erforderlich machen.
 
-
-## § 260 – Veräußerung und Belastung von Vermögensgegenständen
+# § 260 – Veräußerung und Belastung von Vermögensgegenständen
 
 (1) Die Veräußerung von Vermögensgegenständen nach § 231 Absatz 1 und § 234, die zu einem Sondervermögen gehören, ist vorbehaltlich des § 257 nur zulässig, wenn
 
@@ -5871,8 +5602,7 @@ Werden durch ein einheitliches Rechtsgeschäft zwei oder mehr der in Satz 1 gena
 
 (5) Die Wirksamkeit einer Verfügung wird durch einen Verstoß gegen die Vorschriften der Absätze 1 und 3 nicht berührt.
 
-
-## § 261 – Zulässige Vermögensgegenstände, Anlagegrenzen
+# § 261 – Zulässige Vermögensgegenstände, Anlagegrenzen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für einen geschlossenen inländischen Publikums-AIF nur investieren in
 
@@ -5950,8 +5680,7 @@ zu ermitteln, wobei
 
 (+++ § 261 Abs. 7: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 262 – Risikomischung
+# § 262 – Risikomischung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für einen geschlossenen inländischen Publikums-AIF nur nach dem Grundsatz der Risikomischung investieren. Der Grundsatz der Risikomischung im Sinne des Satzes 1 gilt als erfüllt, wenn
 
@@ -5973,8 +5702,7 @@ b) für die die in § 1 Absatz 19 Nummer 33 Buchstabe a Doppelbuchstabe bb bis e
 
 Ein nachfolgender Erwerb der Anteile oder Aktien dieses AIF kraft Gesetzes durch einen Privatanleger, der die Anforderungen nach Satz 1 Nummer 2 nicht erfüllt, ist unbeachtlich. Wenn für den geschlossenen inländischen Publikums-AIF ohne Einhaltung des Grundsatzes der Risikomischung investiert wird, müssen der Verkaufsprospekt und die wesentlichen Anlegerinformationen an hervorgehobener Stelle auf das Ausfallrisiko mangels Risikomischung hinweisen.
 
-
-## § 263 – Beschränkung von Leverage und Belastung
+# § 263 – Beschränkung von Leverage und Belastung
 
 (1) Für einen geschlossenen inländischen Publikums-AIF dürfen Kredite nur bis zur Höhe von 150 Prozent des aggregierten eingebrachten Kapitals und noch nicht eingeforderten zugesagten Kapitals des geschlossenen Publikums-AIF, berechnet auf der Grundlage der Beträge, die nach Abzug sämtlicher direkt oder indirekt von den Anlegern getragener Gebühren, Kosten und Aufwendungen für Anlagen zur Verfügung stehen und nur dann aufgenommen werden, wenn die Bedingungen der Kreditaufnahme marktüblich sind und dies in den Anlagebedingungen vorgesehen ist. Die von Gesellschaften im Sinne des § 261 Absatz 1 Nummer 3 aufgenommenen Kredite sind bei der Berechnung der in Satz 1 genannten Grenze entsprechend der Beteiligungshöhe des geschlossenen Publikums-AIF zu berücksichtigen.
 
@@ -5992,20 +5720,17 @@ Ein nachfolgender Erwerb der Anteile oder Aktien dieses AIF kraft Gesetzes durch
 
 (+++ § 263 Abs. 2: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 264 – Verfügungsbeschränkung
+# § 264 – Verfügungsbeschränkung
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat dafür zu sorgen, dass die Verfügungsbeschränkung nach § 84 Absatz 1 Nummer 3 bei Immobilien in das Grundbuch und sonstigen Vermögensgegenständen, sofern ein Register für den jeweiligen Vermögensgegenstand besteht, in das entsprechende eingetragen wird. Besteht für die in § 84 Absatz 1 Nummer 3 genannten Vermögensgegenstände kein Register, in das eine Verfügungsbeschränkung eingetragen werden kann, so ist die Wirksamkeit der Verfügungsbeschränkung in anderer geeigneter Form sicherzustellen.
 
 (2) Die Bestellung der Verwahrstelle kann gegenüber dem Grundbuchamt oder sonstigen Register, in die in § 84 Absatz 1 Nummer 3 genannte Vermögensgegenstände eingetragen werden, durch eine Bescheinigung der Bundesanstalt nachgewiesen werden, aus der sich ergibt, dass die Bundesanstalt die Auswahl der Einrichtung als Verwahrstelle genehmigt hat und von ihrem Recht nicht Gebrauch gemacht hat, der AIF-Kapitalverwaltungsgesellschaft einen Wechsel der Verwahrstelle aufzuerlegen.
 
-
-## § 265 – Leerverkäufe
+# § 265 – Leerverkäufe
 
 Die AIF-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche Rechnung der Anleger keine Vermögensgegenstände nach Maßgabe der §§ 193 und 194 verkaufen, wenn die jeweiligen Vermögensgegenstände im Zeitpunkt des Geschäftsabschlusses nicht zum geschlossenen inländischen Publikums-AIF gehören. Die Wirksamkeit des Rechtsgeschäfts wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
-
-## § 266 – Anlagebedingungen
+# § 266 – Anlagebedingungen
 
 (1) Die Anlagebedingungen, nach denen sich
 
@@ -6023,8 +5748,7 @@ sind vor Ausgabe der Anteile oder Aktien schriftlich festzuhalten.
 
 § 162 Absatz 2 Nummer 1 ist mit der Maßgabe anzuwenden, dass anstelle der Angabe, welche Vermögensgegenstände in welchem Umfang erworben werden dürfen, die AIF-Kapitalverwaltungsgesellschaft in den Anlagebedingungen festlegen muss, welche Vermögensgegenstände in welchem Umfang für den geschlossenen Publikums-AIF erworben werden.
 
-
-## § 267 – Genehmigung der Anlagebedingungen
+# § 267 – Genehmigung der Anlagebedingungen
 
 (1) Die Anlagebedingungen sowie Änderungen der Anlagebedingungen bedürfen der Genehmigung der Bundesanstalt. Die Genehmigung kann nur von solchen AIF-Kapitalverwaltungsgesellschaften beantragt werden, die die betroffene Art von AIF verwalten dürfen.
 
@@ -6036,15 +5760,13 @@ sind vor Ausgabe der Anteile oder Aktien schriftlich festzuhalten.
 
 (5) Für Informationen mittels eines dauerhaften Datenträgers gilt § 167 entsprechend.
 
-
-## § 268 – Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen
+# § 268 – Erstellung von Verkaufsprospekt und wesentlichen Anlegerinformationen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft hat für die von ihr verwalteten geschlossenen Publikums-AIF den Verkaufsprospekt und die wesentlichen Anlegerinformationen zu erstellen. Sobald die AIF-Kapitalverwaltungsgesellschaft mit dem Vertrieb des geschlossenen Publikums-AIF gemäß § 316 beginnen darf, hat sie dem Publikum die aktuelle Fassung des Verkaufsprospekts und der wesentlichen Anlegerinformationen auf der Internetseite der AIF-Kapitalverwaltungsgesellschaft zugänglich zu machen. Die Pflicht zur Erstellung eines Verkaufsprospekts gilt nicht für solche geschlossenen AIF-Publikumsinvestmentaktiengesellschaften, die einen Prospekt nach der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vom 30.6.2017, S. 12) erstellen müssen und in diesen Prospekt zusätzlich die Angaben gemäß § 269 als ergänzende Informationen aufnehmen.
 
 (2) Die wesentlichen Anlegerinformationen sowie die Angaben von wesentlicher Bedeutung im Verkaufsprospekt sind auf dem neusten Stand zu halten. Bei geschlossenen Publikums-AIF mit einer einmaligen Vertriebsphase gilt dies nur für die Dauer der Vertriebsphase.
 
-
-## § 269 – Mindestangaben im Verkaufsprospekt
+# § 269 – Mindestangaben im Verkaufsprospekt
 
 (1) Für den Verkaufsprospekt von geschlossenen Publikums-AIF gilt § 165 Absatz 1, 2 Nummer 1 bis 25 und 27 bis 40, Absatz 3 bis 5, 7 bis 9 entsprechend mit der Maßgabe, dass an die Stelle des in § 165 Absatz 2 Nummer 19 genannten Verweises auf die §§ 168 bis 170, 212, 216 und 217 der Verweis auf die §§ 271 und 272 tritt und die Regelungen, soweit sie sich auf Teilinvestmentvermögen beziehen, nicht anzuwenden sind.
 
@@ -6088,8 +5810,7 @@ c) ein Hinweis, dass in Beteiligungen an ÖPP-Projektgesellschaften, die nicht z
 
 Steht noch nicht fest, in welche konkreten Anlageobjekte investiert werden soll, ist dies im Verkaufsprospekt anzugeben.
 
-
-## § 270 – Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen
+# § 270 – Inhalt, Form und Gestaltung der wesentlichen Anlegerinformationen
 
 (1) Für die wesentlichen Anlegerinformationen für geschlossene Publikums-AIF gilt § 166 Absatz 1 bis 3 und 5 nach Maßgabe der folgenden Vorschriften entsprechend.
 
@@ -6115,8 +5836,7 @@ Soweit sich die in Satz 1 genannten Regelungen auf Teilinvestmentvermögen oder 
 
 (4) Sofern in den Anlagebedingungen eine zusätzliche Verwaltungsvergütung für den Erwerb, die Veräußerung oder die Verwaltung von Vermögensgegenständen nach § 261 Absatz 1 Nummer 1 vereinbart wurde, ist diese Vergütung neben der Gesamtkostenquote nach § 166 Absatz 5 gesondert als Prozentsatz des durchschnittlichen Nettoinventarwertes des geschlossenen Publikums-AIF anzugeben.
 
-
-## § 271 – Bewertung, Bewertungsverfahren, Bewerter
+# § 271 – Bewertung, Bewertungsverfahren, Bewerter
 
 (1) § 168 ist für die Bewertung mit folgenden Maßgaben anzuwenden:
 
@@ -6138,8 +5858,7 @@ Die Anforderung des Satzes 1 gilt auch für eine Unterbeteiligung an einer Gesel
 
 (+++ § 271: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 272 – Häufigkeit der Bewertung und Berechnung; Offenlegung
+# § 272 – Häufigkeit der Bewertung und Berechnung; Offenlegung
 
 (1) Die Bewertung der Vermögensgegenstände und die Berechnung des Nettoinventarwertes je Anteil oder Aktie müssen mindestens einmal jährlich erfolgen. Die Bewertung und Berechnung sind darüber hinaus auch dann durchzuführen, wenn das Gesellschaftsvermögen des AIF erhöht oder herabgesetzt wird.
 
@@ -6149,8 +5868,7 @@ Die Anforderung des Satzes 1 gilt auch für eine Unterbeteiligung an einer Gesel
 
 (+++ § 272: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 273 – Anlagebedingungen
+# § 273 – Anlagebedingungen
 
 Die Anlagebedingungen, nach denen sich
 
@@ -6164,15 +5882,13 @@ sind vor Ausgabe der Anteile oder Aktien schriftlich festzuhalten. Die Anlagebed
 
 (+++ § 273 Satz 1: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 274 – Begrenzung von Leverage
+# § 274 – Begrenzung von Leverage
 
 Für die Informationspflicht der AIF-Kapitalverwaltungsgesellschaft im Hinblick auf das eingesetzte Leverage sowie die Befugnis der Bundesanstalt zur Beschränkung des eingesetzten Leverage einschließlich der Mitteilungspflichten der Bundesanstalt gilt § 215 entsprechend. Die Bedingungen, unter welchen die Maßnahmen nach Satz 1 in Verbindung mit § 215 Absatz 2 angewendet werden, bestimmen sich nach Artikel 112 der Delegierten Verordnung (EU) Nr. 231/2013.
 
 (+++ § 274: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 275 – Belastung
+# § 275 – Belastung
 
 (1) Die Belastung von Vermögensgegenständen, die zu einem Spezial-AIF gehören, sowie die Abtretung und Belastung von Forderungen aus Rechtsverhältnissen, die sich auf diese Vermögensgegenstände beziehen, sind zulässig, wenn
 
@@ -6184,8 +5900,7 @@ Für die Informationspflicht der AIF-Kapitalverwaltungsgesellschaft im Hinblick 
 
 (+++ § 275: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 276 – Leerverkäufe
+# § 276 – Leerverkäufe
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für gemeinschaftliche Rechnung der Anleger keine Vermögensgegenstände nach Maßgabe der §§ 193, 194 und 196 verkaufen, wenn die jeweiligen Vermögensgegenstände im Zeitpunkt des Geschäftsabschlusses nicht zum Spezial-AIF gehören; § 197 bleibt unberührt. Die Wirksamkeit des Rechtsgeschäfts wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
@@ -6193,22 +5908,19 @@ Für die Informationspflicht der AIF-Kapitalverwaltungsgesellschaft im Hinblick 
 
 (+++ § 276: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 277 – Übertragung von Anteilen oder Aktien
+# § 277 – Übertragung von Anteilen oder Aktien
 
 Die AIF-Kapitalverwaltungsgesellschaft hat schriftlich mit den Anlegern zu vereinbaren oder auf Grund der konstituierenden Dokumente des AIF sicherzustellen, dass die Anteile oder Aktien nur an professionelle und semiprofessionelle Anleger übertragen werden dürfen.
 
 (+++ § 277: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 278 – Bewertung, Bewertungsverfahren und Bewerter
+# § 278 – Bewertung, Bewertungsverfahren und Bewerter
 
 Für die Bewertung, das Bewertungsverfahren und den Bewerter gelten die §§ 168, 169 und 216 entsprechend.
 
 (+++ § 278: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 279 – Häufigkeit der Bewertung, Offenlegung
+# § 279 – Häufigkeit der Bewertung, Offenlegung
 
 (1) Die Bewertung der Vermögensgegenstände und die Berechnung des Nettoinventarwertes je Anteil oder Aktie sind in einem zeitlichen Abstand durchzuführen, der den zum Spezial-AIF gehörenden Vermögensgegenständen und der Ausgabe- und Rücknahmehäufigkeit der Anteile oder Aktien angemessen ist, jedoch mindestens einmal jährlich.
 
@@ -6220,15 +5932,13 @@ Für die Bewertung, das Bewertungsverfahren und den Bewerter gelten die §§ 168
 
 (+++ § 279: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 280 – Master-Feeder-Strukturen
+# § 280 – Master-Feeder-Strukturen
 
 Spezial-AIF dürfen nicht Masterfonds oder Feederfonds einer Master-Feeder-Struktur sein, wenn Publikumsinvestmentvermögen Masterfonds oder Feederfonds derselben Master-Feeder-Struktur sind.
 
 (+++ § 280: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 281 – Verschmelzung
+# § 281 – Verschmelzung
 
 (1) Spezialsondervermögen dürfen nicht auf Publikumssondervermögen verschmolzen werden, Publikumssondervermögen dürfen nicht auf Spezialsondervermögen verschmolzen werden. Die §§ 184, 185, 189 und 190 sind auf Spezialsondervermögen mit den folgenden Maßgaben entsprechend anzuwenden:
 
@@ -6256,8 +5966,7 @@ Eine Genehmigung der Verschmelzung von Spezialsondervermögen gemäß § 182 dur
 
 (+++ § 281: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 282 – Anlageobjekte, Anlagegrenzen
+# § 282 – Anlageobjekte, Anlagegrenzen
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft muss die Mittel des allgemeinen offenen inländischen Spezial-AIF nach dem Grundsatz der Risikomischung zur gemeinschaftlichen Kapitalanlage anlegen.
 
@@ -6267,8 +5976,7 @@ Eine Genehmigung der Verschmelzung von Spezialsondervermögen gemäß § 182 dur
 
 (+++ § 282: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 283 – Hedgefonds
+# § 283 – Hedgefonds
 
 (1) Hedgefonds sind allgemeine offene inländische Spezial-AIF nach § 282, deren Anlagebedingungen zusätzlich mindestens eine der folgenden Bedingungen vorsehen:
 
@@ -6284,8 +5992,7 @@ Die Kriterien zur Bestimmung, wann Leverage in beträchtlichem Umfang eingesetzt
 
 (+++ § 283: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 284 – Anlagebedingungen, Anlagegrenzen
+# § 284 – Anlagebedingungen, Anlagegrenzen
 
 (1) Für offene inländische Spezial-AIF mit festen Anlagebedingungen gelten § 282 Absatz 1 sowie die §§ 192 bis 211 und 218 bis 260, soweit sich aus den Absätzen 2 bis 4 nichts anderes ergibt.
 
@@ -6325,8 +6032,7 @@ i) Edelmetalle, unverbriefte Darlehensforderungen und Unternehmensbeteiligungen,
 
 (+++ § 284: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 285 – Anlageobjekte
+# § 285 – Anlageobjekte
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft darf für das Investmentvermögen nur in Vermögensgegenstände investieren, deren Verkehrswert ermittelt werden kann.
 
@@ -6350,8 +6056,7 @@ Erfüllt die AIF-Kapitalverwaltungsgesellschaft die Anforderungen des Absatzes 2
 
 (+++ § 285: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 286 – Bewertung, Bewertungsverfahren und Bewerter; Häufigkeit der Bewertung
+# § 286 – Bewertung, Bewertungsverfahren und Bewerter; Häufigkeit der Bewertung
 
 (1) Für die Bewertung, das Bewertungsverfahren und den Bewerter gelten die §§ 168, 169 und 216 entsprechend.
 
@@ -6359,8 +6064,7 @@ Erfüllt die AIF-Kapitalverwaltungsgesellschaft die Anforderungen des Absatzes 2
 
 (+++ § 286: Zur Anwendung vgl. § 54 Abs. 5 u. § 66 Abs. 5 +++)
 
-
-## § 287 – Geltungsbereich
+# § 287 – Geltungsbereich
 
 (1) Die §§ 287 bis 292 sind anzuwenden auf AIF-Kapitalverwaltungsgesellschaften,
 
@@ -6388,8 +6092,7 @@ Für die Zwecke dieser Paragraphen gelten die Absätze 1 und 2 entsprechend.
 
 (+++ § 287: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 282 Abs. 3 +++)
 
-
-## § 288 – Erlangen von Kontrolle
+# § 288 – Erlangen von Kontrolle
 
 (1) Für die Zwecke der §§ 287 bis 292 bedeutet Kontrolle im Fall nicht börsennotierter Unternehmen die Erlangung von mehr als 50 Prozent der Stimmrechte dieser Unternehmen.
 
@@ -6405,8 +6108,7 @@ Der Anteil der Stimmrechte wird ausgehend von der Gesamtzahl der mit Stimmrechte
 
 (+++ § 288: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5 u. § 282 Abs. 3 u. § 287 Abs. 1 u. 2 +++)
 
-
-## § 289 – Mitteilungspflichten
+# § 289 – Mitteilungspflichten
 
 (1) Die AIF-Kapitalverwaltungsgesellschaft unterrichtet die Bundesanstalt, wenn der Anteil der Stimmrechte des nicht börsennotierten Unternehmens, der von dem AIF gehalten wird, durch Erwerb, Verkauf oder Halten von Anteilen an dem nicht börsennotierten Unternehmen die Schwellenwerte von 10 Prozent, 20 Prozent, 30 Prozent, 50 Prozent und 75 Prozent erreicht, überschreitet oder unterschreitet.
 
@@ -6439,8 +6141,7 @@ c) über ein Register, zu dem die AIF-Kapitalverwaltungsgesellschaft Zugang hat 
 (+++ § 289: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5, § 282 Abs. 3 u. § 287 Abs. 1 u. 2 +++)  
 (+++ § 289 Abs. 1: Zur Anwendung vgl. § 287 Abs. 3 +++)
 
-
-## § 290 – Offenlegungspflicht bei Erlangen der Kontrolle
+# § 290 – Offenlegungspflicht bei Erlangen der Kontrolle
 
 (1) Erlangt ein AIF allein oder gemeinsam mit anderen AIF die Kontrolle über ein nicht börsennotiertes Unternehmen oder einen Emittenten gemäß § 287 Absatz 1 in Verbindung mit § 288 Absatz 1, legt die AIF-Kapitalverwaltungsgesellschaft den folgenden Stellen die in Absatz 2 genannten Informationen vor:
 
@@ -6479,8 +6180,7 @@ Ferner ersucht die AIF-Kapitalverwaltungsgesellschaft den Vorstand des nicht bö
 (+++ § 290: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5, § 282 Abs. 3 u. § 287 Abs. 1 u. 2 +++)  
 (+++ § 290 Abs. 1 bis 3: Zur Anwendung vgl. § 287 Abs. 4 +++)
 
-
-## § 291 – Besondere Vorschriften hinsichtlich des Jahresabschlusses und des Lageberichts
+# § 291 – Besondere Vorschriften hinsichtlich des Jahresabschlusses und des Lageberichts
 
 (1) Erlangt ein AIF allein oder gemeinsam mit anderen AIF die Kontrolle über ein nicht börsennotiertes Unternehmen oder einen Emittenten gemäß § 287 Absatz 1 in Verbindung mit § 288 Absatz 1, ist die AIF-Kapitalverwaltungsgesellschaft dazu verpflichtet,
 
@@ -6504,8 +6204,7 @@ Ferner ersucht die AIF-Kapitalverwaltungsgesellschaft den Vorstand des nicht bö
 
 (+++ § 291: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5, § 282 Abs. 3 u. § 287 Abs. 1 u. 2 +++)
 
-
-## § 292 – Zerschlagen von Unternehmen
+# § 292 – Zerschlagen von Unternehmen
 
 (1) Erlangt ein AIF allein oder gemeinsam mit anderen AIF die Kontrolle über ein nicht börsennotiertes Unternehmen oder einen Emittenten gemäß § 288, ist die AIF-Kapitalverwaltungsgesellschaft innerhalb von 24 Monaten nach Erlangen der Kontrolle über das Unternehmen durch den AIF dazu verpflichtet,
 
@@ -6533,8 +6232,7 @@ Ferner ersucht die AIF-Kapitalverwaltungsgesellschaft den Vorstand des nicht bö
 
 (+++ § 292: Zur Anwendung vgl. § 54 Abs. 5, § 66 Abs. 5, § 282 Abs. 3 u. § 287 Abs. 1, 2 u. 4 +++)
 
-
-## § 293 – Allgemeine Vorschriften
+# § 293 – Allgemeine Vorschriften
 
 (1) Vertrieb ist das direkte oder indirekte Anbieten oder Platzieren von Anteilen oder Aktien eines Investmentvermögens. Als Vertrieb gilt nicht, wenn
 
@@ -6564,8 +6262,7 @@ und darüber hinaus kein Vertrieb im Sinne des Satzes 1 stattfindet. Ein Vertrie
 
 (+++ § 293: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 52 Abs. 5, § 54 Abs. 4 Satz 1, § 66 Abs. 4 Satz 1 u. 2 +++)
 
-
-## § 294 – Auf den Vertrieb und den Erwerb von OGAW anwendbare Vorschriften
+# § 294 – Auf den Vertrieb und den Erwerb von OGAW anwendbare Vorschriften
 
 (1) Auf den Vertrieb und den Erwerb von Anteilen oder Aktien an inländischen OGAW oder an zum Vertrieb berechtigten EU-OGAW im Geltungsbereich dieses Gesetzes sind die Vorschriften des Unterabschnitts 2 dieses Abschnitts, soweit sie auf Anteile oder Aktien an inländischen OGAW oder EU-OGAW Anwendung finden, anzuwenden. Zudem sind auf EU-OGAW die Vorschriften des Abschnitts 2 Unterabschnitt 1 und auf inländische OGAW die Vorschriften des Abschnitts 2 Unterabschnitt 2 anzuwenden. Der Vertrieb von EU-OGAW im Inland ist nur zulässig, wenn die Voraussetzungen des § 310 gegeben sind.
 
@@ -6573,8 +6270,7 @@ und darüber hinaus kein Vertrieb im Sinne des Satzes 1 stattfindet. Ein Vertrie
 
 (+++ § 294 Abs. 1: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 52 Abs. 5, § 54 Abs. 4 Satz 1 u. 3 +++)
 
-
-## § 295 – Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften
+# § 295 – Auf den Vertrieb und den Erwerb von AIF anwendbare Vorschriften
 
 (1) Der Vertrieb von Anteilen oder Aktien an inländischen Publikums-AIF an Privatanleger, semiprofessionelle und professionelle Anleger im Geltungsbereich dieses Gesetzes ist nur zulässig, wenn die Voraussetzungen des § 316 erfüllt sind. Der Vertrieb von Anteilen oder Aktien an EU-AIF und ausländischen AIF an Privatanleger im Geltungsbereich dieses Gesetzes ist nur zulässig, wenn die Voraussetzungen der §§ 317 bis 320 erfüllt sind. Die Verwaltungsgesellschaften, die AIF verwalten, die die Voraussetzungen für den Vertrieb an Privatanleger nicht erfüllen, müssen wirksame Vorkehrungen treffen, die verhindern, dass Anteile oder Aktien an den AIF an Privatanleger im Geltungsbereich dieses Gesetzes vertrieben werden; dies gilt auch, wenn unabhängige Unternehmen eingeschaltet werden, die für den AIF Wertpapierdienstleistungen erbringen.
 
@@ -6637,8 +6333,7 @@ Zudem informiert die AIF-Kapitalverwaltungsgesellschaft die Anleger nach § 308 
 (+++ § 295 Abs. 5 u. 7: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 2 F. 2013-07-04 +++)  
 (+++ § 295 Abs. 8: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 54 Abs. 4 Satz 1 u. 3 +++)
 
-
-## § 296 – Vereinbarungen mit Drittstaaten zur OGAW-Konformität
+# § 296 – Vereinbarungen mit Drittstaaten zur OGAW-Konformität
 
 (1) Die Bundesanstalt kann mit den zuständigen Stellen von Drittstaaten vereinbaren, dass
 
@@ -6664,8 +6359,7 @@ Zudem informiert die AIF-Kapitalverwaltungsgesellschaft die Anleger nach § 308 
 
 (4) Die Bundesanstalt veröffentlicht die Vereinbarung nach Absatz 1 unverzüglich nach Inkrafttreten auf ihrer Internetseite. Mit der Bekanntmachung sind die in Absatz 3 genannten Vorschriften anzuwenden. Die Vereinbarung nach Absatz 1 verliert ihre Geltungskraft ab dem Zeitpunkt, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird.
 
-
-## § 297 – Verkaufsunterlagen und Hinweispflichten
+# § 297 – Verkaufsunterlagen und Hinweispflichten
 
 (1) Dem am Erwerb eines Anteils oder einer Aktie an einem OGAW Interessierten sind rechtzeitig vor Vertragsschluss die wesentlichen Anlegerinformationen in der geltenden Fassung kostenlos zur Verfügung zu stellen. Darüber hinaus sind ihm sowie auch dem Anleger eines OGAW auf Verlangen der Verkaufsprospekt sowie der letzte veröffentlichte Jahres- und Halbjahresbericht kostenlos zur Verfügung zu stellen.
 
@@ -6689,8 +6383,7 @@ Zudem informiert die AIF-Kapitalverwaltungsgesellschaft die Anleger nach § 308 
 (+++ § 297: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 +++)  
 (+++ § 297: Zur Anwendung vgl. § 296 Abs. 3 Satz 1 +++)
 
-
-## § 298 – Veröffentlichungspflichten und laufende Informationspflichten für EU-OGAW
+# § 298 – Veröffentlichungspflichten und laufende Informationspflichten für EU-OGAW
 
 (1) Für nach § 310 zum Vertrieb angezeigte Anteile oder Aktien an EU-OGAW hat die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft folgende Unterlagen und Angaben im Geltungsbereich dieses Gesetzes in deutscher Sprache oder in einer in internationalen Finanzkreisen üblichen Sprache zu veröffentlichen:
 
@@ -6722,8 +6415,7 @@ Die wesentlichen Anlegerinformationen gemäß Artikel 78 der Richtlinie 2009/65/
 
 (+++ § 298: Zur Anwendung vgl. § 296 Abs. 3 Satz 1 +++)
 
-
-## § 299 – Veröffentlichungspflichten und laufende Informationspflichten für EU-AIF und ausländische AIF
+# § 299 – Veröffentlichungspflichten und laufende Informationspflichten für EU-AIF und ausländische AIF
 
 (1) Die EU-AIF-Verwaltungsgesellschaft oder die ausländische AIF-Verwaltungsgesellschaft veröffentlicht für Anteile oder Aktien an EU-AIF oder ausländischen AIF
 
@@ -6771,8 +6463,7 @@ In sonstigen Veröffentlichungen und Werbeschriften über den AIF im Sinne von S
 
 (5) Die Veröffentlichungs- und Unterrichtungspflichten gemäß § 298 Absatz 2 gelten für EU-AIF-Verwaltungsgesellschaften oder ausländische AIF-Verwaltungsgesellschaften entsprechend.
 
-
-## § 300 – Zusätzliche Informationspflichten bei AIF
+# § 300 – Zusätzliche Informationspflichten bei AIF
 
 (1) Für jeden von ihr verwalteten inländischen AIF, EU-AIF oder ausländischen AIF muss die AIF-Verwaltungsgesellschaft den Anlegern im Geltungsbereich dieses Gesetzes regelmäßig Folgendes offenlegen:
 
@@ -6792,15 +6483,13 @@ In sonstigen Veröffentlichungen und Werbeschriften über den AIF im Sinne von S
 
 (4) Die AIF-Verwaltungsgesellschaft informiert die Anleger zusätzlich unverzüglich mittels dauerhaften Datenträgers entsprechend § 167 und durch Veröffentlichung in einem weiteren im Verkaufsprospekt zu benennenden Informationsmedium über alle Änderungen, die sich in Bezug auf die Haftung der Verwahrstelle ergeben.
 
-
-## § 301 – Sonstige Veröffentlichungspflichten
+# § 301 – Sonstige Veröffentlichungspflichten
 
 Auf der Internetseite der Kapitalverwaltungsgesellschaft, der EU-Verwaltungsgesellschaft oder der ausländischen AIF-Verwaltungsgesellschaft ist jeweils eine geltende Fassung der wesentlichen Anlegerinformationen zu veröffentlichen.
 
 (+++ § 301: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 52 Abs. 5, § 296 Abs. 3 Satz 1 +++)
 
-
-## § 302 – Werbung
+# § 302 – Werbung
 
 (1) Werbung für AIF gegenüber Privatanlegern und Werbung für OGAW muss eindeutig als solche erkennbar sein. Sie muss redlich und eindeutig sein und darf nicht irreführend sein. Insbesondere darf Werbung, die zum Erwerb von Anteilen oder Aktien eines inländischen Investmentvermögens, EU-Investmentvermögens oder ausländischen AIF auffordert und spezifische Informationen über diese Anteile oder Aktien enthält, keine Aussagen treffen, die im Widerspruch zu Informationen des Verkaufsprospekts und den in den §§ 166, 270, 318 Absatz 5 oder in Artikel 78 der Richtlinie 2009/65/EG genannten wesentlichen Anlegerinformationen stehen oder die Bedeutung dieser Informationen herabstufen.
 
@@ -6822,8 +6511,7 @@ Auf der Internetseite der Kapitalverwaltungsgesellschaft, der EU-Verwaltungsgese
 
 (+++ § 302: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 296 Abs. 3 Satz 1, § 54 Abs. 4 Satz 1 u. 3 +++)
 
-
-## § 303 – Maßgebliche Sprachfassung
+# § 303 – Maßgebliche Sprachfassung
 
 (1) Sämtliche Veröffentlichungen und Werbeschriften, die sich auf Anteile oder Aktien an einem an Privatanleger vertriebenen AIF oder an einem inländischen OGAW beziehen, sind in deutscher Sprache abzufassen oder mit einer deutschen Übersetzung zu versehen. Dabei ist der deutsche Wortlaut der in § 297 Absatz 1 bis 4 und 8 genannten Unterlagen und der in Satz 1 genannten Unterlagen und Veröffentlichungen maßgeblich.
 
@@ -6833,15 +6521,13 @@ Auf der Internetseite der Kapitalverwaltungsgesellschaft, der EU-Verwaltungsgese
 
 (+++ § 303: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 52 Abs. 5, § 54 Abs. 4 Satz 1 u. 3, § 296 Abs. 3 Satz 1 +++)
 
-
-## § 304 – Kostenvorausbelastung
+# § 304 – Kostenvorausbelastung
 
 Wurde die Abnahme von Anteilen oder Aktien für einen mehrjährigen Zeitraum vereinbart, so darf von jeder der für das erste Jahr vereinbarten Zahlungen höchstens ein Drittel für die Deckung von Kosten verwendet werden, die restlichen Kosten müssen auf alle späteren Zahlungen gleichmäßig verteilt werden.
 
 (+++ § 304: Zur Anwendung vgl. § 51 Abs. 4 Satz 1, § 54 Abs. 4 Satz 1 u. 3, § 296 Abs. 3 Satz 1 +++)
 
-
-## § 305 – Widerrufsrecht
+# § 305 – Widerrufsrecht
 
 (1) Ist der Käufer von Anteilen oder Aktien eines offenen Investmentvermögens durch mündliche Verhandlungen außerhalb der ständigen Geschäftsräume desjenigen, der die Anteile oder Aktien verkauft oder den Verkauf vermittelt hat, dazu bestimmt worden, eine auf den Kauf gerichtete Willenserklärung abzugeben, so ist er an diese Erklärung nur gebunden, wenn er sie nicht innerhalb einer Frist von zwei Wochen bei der Verwaltungsgesellschaft oder einem Repräsentanten im Sinne des § 319 in Textform widerruft; dies gilt auch dann, wenn derjenige, der die Anteile oder Aktien verkauft oder den Verkauf vermittelt, keine ständigen Geschäftsräume hat. Bei Fernabsatzgeschäften gilt § 312g Absatz 2 Nummer 8 des Bürgerlichen Gesetzbuchs entsprechend.
 
@@ -6865,8 +6551,7 @@ Wurde die Abnahme von Anteilen oder Aktien für einen mehrjährigen Zeitraum ver
 
 (+++ § 305: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 52 Abs. 5, § 54 Abs. 4 Satz 1 u. 3, § 296 Abs. 3 Satz 1 +++)
 
-
-## § 306 – Prospekthaftung und Haftung für die wesentlichen Anlegerinformationen
+# § 306 – Prospekthaftung und Haftung für die wesentlichen Anlegerinformationen
 
 (1) Sind in dem Verkaufsprospekt Angaben, die für die Beurteilung der Anteile oder Aktien von wesentlicher Bedeutung sind, unrichtig oder unvollständig, so kann der Käufer von der Verwaltungsgesellschaft, von denjenigen, die neben der Verwaltungsgesellschaft für den Verkaufsprospekt die Verantwortung übernommen haben oder von denen der Erlass des Verkaufsprospekts ausgeht, und von demjenigen, der diese Anteile oder Aktien im eigenen Namen gewerbsmäßig verkauft hat, als Gesamtschuldner die Übernahme der Anteile oder Aktien gegen Erstattung des von ihm gezahlten Betrages verlangen. Ist der Käufer in dem Zeitpunkt, in dem er von der Unrichtigkeit oder Unvollständigkeit des Verkaufsprospekts Kenntnis erlangt hat, nicht mehr Inhaber des Anteils oder der Aktie, so kann er die Zahlung des Betrages verlangen, um den der von ihm gezahlte Betrag den Rücknahmepreis des Anteils oder der Aktie oder andernfalls den Wert des Anteils oder der Aktie im Zeitpunkt der Veräußerung übersteigt.
 
@@ -6886,8 +6571,7 @@ Wurde die Abnahme von Anteilen oder Aktien für einen mehrjährigen Zeitraum ver
 
 (+++ § 306: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. 3, § 52 Abs. 5, § 54 Abs. 4 Satz 1 u. 3, § 296 Abs. 3 Satz 1 +++)
 
-
-## § 307 – Informationspflichten gegenüber semiprofessionellen und professionellen Anlegern und Haftung
+# § 307 – Informationspflichten gegenüber semiprofessionellen und professionellen Anlegern und Haftung
 
 (1) Dem am Erwerb eines Anteils oder einer Aktie interessierten professionellen Anleger oder semiprofessionellen Anleger ist vor Vertragsschluss der letzte Jahresbericht nach den §§ 67, 101, 102, 106, 107, 120 bis 123, 135 bis 137, 148, 158 bis 161 oder Artikel 22 der Richtlinie 2011/61/EU zur Verfügung zu stellen. Zusätzlich sind ihm folgende Informationen einschließlich aller wesentlichen Änderungen in der in den Anlagebedingungen, der Satzung oder des Gesellschaftsvertrages des AIF festgelegten Art und Weise zur Verfügung zu stellen:
 
@@ -6950,8 +6634,7 @@ c) gegebenenfalls der rechtlichen oder wirtschaftlichen Verbindungen zwischen di
 (+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 u. § 66 Abs. 4 Satz 1 u. 2 +++)  
 (+++ § 307: Zur Anwendung vgl. § 54 Abs. 4 Satz 2 F. 2013-07-04 +++)
 
-
-## § 308 – Sonstige Informationspflichten
+# § 308 – Sonstige Informationspflichten
 
 (1) Die EU-AIF-Verwaltungsgesellschaft und die ausländische AIF-Verwaltungsgesellschaft haben den semiprofessionellen und den professionellen Anlegern eines EU-AIF oder ausländischen AIF im Geltungsbereich dieses Gesetzes spätestens sechs Monate nach Ende eines jeden Geschäftsjahres auf Verlangen den geprüften und testierten Jahresbericht nach Artikel 22 der Richtlinie 2011/61/EU zur Verfügung zu stellen.
 
@@ -6974,8 +6657,7 @@ c) gegebenenfalls der rechtlichen oder wirtschaftlichen Verbindungen zwischen di
 (+++ § 308: Zur Anwendung vgl. § 54 Abs. 4 Satz 1 u. 3 u. § 66 Abs. 4 Satz 1 u. 2 +++)  
 (+++ § 308: Zur Anwendung vgl. § 54 Abs. 4 Satz 2 F. 2013-07-04 +++)
 
-
-## § 309 – Pflichten beim Vertrieb von EU-OGAW im Inland
+# § 309 – Pflichten beim Vertrieb von EU-OGAW im Inland
 
 (1) Die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft muss für den Vertrieb von Anteilen oder Aktien an EU-OGAW unter Einhaltung der deutschen Rechts- und Verwaltungsvorschriften sämtliche Vorkehrungen treffen, die sicherstellen, dass
 
@@ -6991,8 +6673,7 @@ Sie hat mindestens ein inländisches Kreditinstitut oder eine inländische Zweig
 
 (+++ § 309: Zur Anwendung vgl. § 296 Abs. 3 Satz 1 +++)
 
-
-## § 310 – Anzeige zum Vertrieb von EU-OGAW im Inland
+# § 310 – Anzeige zum Vertrieb von EU-OGAW im Inland
 
 (1) Beabsichtigt eine EU-OGAW-Verwaltungsgesellschaft oder eine OGAW-Kapitalverwaltungsgesellschaft, Anteile oder Aktien im Geltungsbereich dieses Gesetzes an EU-OGAW zu vertreiben, so prüft die Bundesanstalt, ob die zuständigen Stellen des Herkunftsmitgliedstaates des EU-OGAW folgende Unterlagen an die Bundesanstalt übermittelt haben:
 
@@ -7014,8 +6695,7 @@ Der Vertrieb kann aufgenommen werden, wenn die EU-OGAW-Verwaltungsgesellschaft o
 
 (5) Werden Informationen über die Modalitäten der Vermarktung oder vertriebene Anteil- oder Aktienklassen, die im Anzeigeschreiben gemäß Artikel 93 Absatz 1 der Richtlinie 2009/65/EG mitgeteilt wurden, geändert, so teilt die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft diese Änderung der Bundesanstalt vor Umsetzung der Änderung in Textform mit.
 
-
-## § 311 – Untersagung und Einstellung des Vertriebs von EU-OGAW
+# § 311 – Untersagung und Einstellung des Vertriebs von EU-OGAW
 
 (1) Die Bundesanstalt ist befugt, alle erforderlichen und geeigneten Maßnahmen zum Schutz der Anleger zu ergreifen, einschließlich einer Untersagung des Vertriebs von Anteilen oder Aktien an EU-OGAW, wenn
 
@@ -7039,8 +6719,7 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 (6) Teilt die zuständige Stelle des Herkunftsmitgliedstaates des EU-OGAW der Bundesanstalt die Einstellung des Vertriebs von einzelnen Teilinvestmentvermögen des EU-OGAW mit, so hat die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft die Bundesanstalt über geänderte Angaben und Unterlagen entsprechend § 310 Absatz 4 Satz 1 zu unterrichten. Dabei ist § 293 Absatz 1 Satz 2 Nummer 3 zu berücksichtigen. Die geänderten Unterlagen dürfen erst nach der Unterrichtung im Geltungsbereich dieses Gesetzes eingesetzt werden. Die EU-OGAW-Verwaltungsgesellschaft oder die OGAW-Kapitalverwaltungsgesellschaft hat die Einstellung des Vertriebs unverzüglich im Bundesanzeiger zu veröffentlichen und dies der Bundesanstalt nachzuweisen. Wenn die Veröffentlichungspflicht auch nach Fristsetzung nicht erfüllt wird, kann die Bundesanstalt die Veröffentlichung auf Kosten der EU-OGAW-Verwaltungsgesellschaft oder der OGAW-Kapitalverwaltungsgesellschaft vornehmen.
 
-
-## § 312 – Anzeigepflicht; Verordnungsermächtigung
+# § 312 – Anzeigepflicht; Verordnungsermächtigung
 
 (1) Beabsichtigt eine OGAW-Kapitalverwaltungsgesellschaft oder eine EU-OGAW-Verwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten inländischen OGAW in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zu vertreiben, so hat sie dies der Bundesanstalt mit einem Anzeigeschreiben gemäß Anhang I der Verordnung (EU) Nr. 584/2010 anzuzeigen. Die Anzeige muss in einer in internationalen Finanzkreisen gebräuchlichen Sprache gefasst sein, wenn nicht vereinbart wurde, dass sie in einer der Amtssprachen der beiden Mitgliedstaaten gefasst wird. Der Anzeige sind in jeweils geltender Fassung beizufügen:
 
@@ -7072,8 +6751,7 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 (+++ § 312: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 52 Abs. 5 +++)
 
-
-## § 313 – Veröffentlichungspflichten
+# § 313 – Veröffentlichungspflichten
 
 (1) Die OGAW-Kapitalverwaltungsgesellschaft oder die EU-OGAW-Verwaltungsgesellschaft hat sämtliche in § 312 Absatz 1 und 2 genannten Unterlagen sowie deren Änderungen auf ihrer Internetseite oder einer Internetseite, die sie im Anzeigeschreiben gemäß Anhang I der Verordnung (EU) Nr. 584/2010 genannt hat, zu veröffentlichen. Sie hat den zuständigen Stellen des Aufnahmestaates Zugang zu dieser Internetseite zu gewähren.
 
@@ -7083,8 +6761,7 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 (+++ § 313: Zur Anwendung vgl. § 51 Abs. 4 Satz 1 u. § 52 Abs. 5 +++)
 
-
-## § 314 – Untersagung des Vertriebs
+# § 314 – Untersagung des Vertriebs
 
 (1) Soweit § 11 nicht anzuwenden ist, ist die Bundesanstalt in Bezug auf AIF befugt, alle zum Schutz der Anleger geeigneten und erforderlichen Maßnahmen zu ergreifen, einschließlich einer Untersagung des Vertriebs von Anteilen oder Aktien dieser Investmentvermögen, wenn
 
@@ -7114,15 +6791,13 @@ Maßnahmen gemäß Satz 1 Nummer 1 und 2 sind auch zu ergreifen, wenn der Herkun
 
 (4) Hat die Bundesanstalt den weiteren Vertrieb eines AIF, der einer Anzeigepflicht nach den §§ 316, 320, 329 oder 330 unterliegt, nach Absatz 1 Nummer 2, 5 und 7 bis 10 oder Absatz 2 im Geltungsbereich dieses Gesetzes untersagt, darf die AIF-Verwaltungsgesellschaft die Absicht, die Anteile oder Aktien dieses AIF im Geltungsbereich dieses Gesetzes zu vertreiben, erst ein Jahr nach der Untersagung wieder anzeigen.
 
-
-## § 315 – Einstellung des Vertriebs von AIF
+# § 315 – Einstellung des Vertriebs von AIF
 
 (1) Stellt eine AIF-Verwaltungsgesellschaft den Vertrieb von Anteilen oder Aktien eines von ihr verwalteten und nach § 316 oder § 320 vertriebenen AIF im Geltungsbereich dieses Gesetzes gegenüber einer, mehreren oder allen Anlegergruppen im Sinne des § 1 Absatz 19 Nummer 31 bis 33 ein, so hat die AIF-Verwaltungsgesellschaft dies unverzüglich im Bundesanzeiger zu veröffentlichen und die Veröffentlichung der Bundesanstalt nachzuweisen. Die Bundesanstalt kann die Veröffentlichung auf Kosten der AIF-Verwaltungsgesellschaft vornehmen, wenn die Veröffentlichungspflicht auch nach Fristsetzung durch die Bundesanstalt nicht erfüllt wird. Absatz 2 bleibt unberührt.
 
 (2) Stellt eine AIF-Verwaltungsgesellschaft den Vertrieb von einzelnen Teilinvestmentvermögen eines AIF gegenüber einer, mehreren oder allen Anlegergruppen im Sinne des § 1 Absatz 19 Nummer 31 bis 33 im Geltungsbereich dieses Gesetzes ein, so hat sie § 293 Absatz 1 Satz 2 Nummer 3 bei Änderungen der im Anzeigeverfahren eingereichten Angaben und Unterlagen zu berücksichtigen. Die AIF-Verwaltungsgesellschaft hat die Einstellung des Vertriebs von Anteilen oder Aktien an nach § 316 oder § 320 vertriebenen AIF unverzüglich im Bundesanzeiger zu veröffentlichen und dies der Bundesanstalt nachzuweisen. Die Bundesanstalt kann die Veröffentlichung auf Kosten der AIF-Verwaltungsgesellschaft vornehmen, wenn die Veröffentlichungspflicht auch nach Fristsetzung nicht erfüllt wird.
 
-
-## § 316 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von inländischen Publikums-AIF im Inland
+# § 316 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von inländischen Publikums-AIF im Inland
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten inländischen Publikums-AIF im Geltungsbereich dieses Gesetzes zu vertreiben, so hat sie dies der Bundesanstalt anzuzeigen. Das Anzeigeschreiben muss folgende Angaben und Unterlagen in jeweils geltender Fassung enthalten:
 
@@ -7155,8 +6830,7 @@ Mit Eingang der Ergänzungsanzeige beginnt die in Satz 2 genannte Frist erneut. 
 (+++ § 316: Zur Anwendung vgl. § 353 Abs. 8 +++)  
 (+++ § 316 Abs. 4 Satz 1 bis 3: Zur Anwendung vgl. § 320 Abs. 4 Satz 1 +++)
 
-
-## § 317 – Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger
+# § 317 – Zulässigkeit des Vertriebs von EU-AIF oder von ausländischen AIF an Privatanleger
 
 (1) Der Vertrieb von EU-AIF und ausländischen AIF durch eine EU-AIF-Verwaltungsgesellschaft oder eine ausländische AIF-Verwaltungsgesellschaft an Privatanleger im Geltungsbereich dieses Gesetzes ist nur zulässig, wenn
 
@@ -7232,8 +6906,7 @@ c) einen wirksamen Informationsaustausch gewährleisten, der es der Bundesanstal
 
 5. die in § 175 vorgesehenen Vereinbarungen wurden abgeschlossen.
 
-
-## § 318 – Verkaufsprospekt und wesentliche Anlegerinformationen beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
+# § 318 – Verkaufsprospekt und wesentliche Anlegerinformationen beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
 
 (1) Der Verkaufsprospekt des EU-AIF oder des ausländischen AIF muss mit einem Datum versehen sein und alle Angaben enthalten, die zum Zeitpunkt der Antragstellung für die Beurteilung der Anteile oder Aktien des EU-AIF oder des ausländischen AIF von wesentlicher Bedeutung sind. Er muss zumindest die in § 165 Absatz 2 bis 7 und 9 geforderten Angaben enthalten. Der Verkaufsprospekt eines geschlossenen AIF muss keine Angaben entsprechend § 165 Absatz 3 Nummer 2 und Absatz 4 bis 7, dafür aber Angaben entsprechend § 269 Absatz 2 Nummer 2 und 3 und Absatz 3 sowie einen Hinweis enthalten, wie die Anteile oder Aktien übertragen werden können und gegebenenfalls Hinweise entsprechend § 262 Absatz 1 Satz 4, § 262 Absatz 2 Satz 3, § 263 Absatz 5 Satz 2 und gegebenenfalls einen Hinweis, in welcher Weise ihre freie Handelbarkeit eingeschränkt ist. Der Verkaufsprospekt eines Feeder-AIF muss zusätzlich die Angaben nach § 173 Absatz 1 enthalten. Darüber hinaus muss der Verkaufsprospekt eines EU-AIF oder ausländischen AIF insbesondere Angaben enthalten
 
@@ -7259,8 +6932,7 @@ Der Verkaufsprospekt muss ferner ausdrückliche Hinweise darauf enthalten, dass 
 
 (6) Die wesentlichen Anlegerinformationen sowie Angaben von wesentlicher Bedeutung im Verkaufsprospekt sind auf dem neusten Stand zu halten. Bei geschlossenen AIF mit einer einmaligen Vertriebsphase gilt dies nur für die Dauer der Vertriebsphase.
 
-
-## § 319 – Vertretung der Gesellschaft, Gerichtsstand beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
+# § 319 – Vertretung der Gesellschaft, Gerichtsstand beim Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger
 
 (1) Der Repräsentant vertritt den EU-AIF oder ausländischen AIF gerichtlich und außergerichtlich. Er ist ermächtigt, für die AIF-Verwaltungsgesellschaft und die Vertriebsgesellschaft bestimmten Schriftstücke zu empfangen. Diese Befugnisse können nicht beschränkt werden.
 
@@ -7268,8 +6940,7 @@ Der Verkaufsprospekt muss ferner ausdrückliche Hinweise darauf enthalten, dass 
 
 (3) Der Name des Repräsentanten und die Beendigung seiner Stellung sind von der Bundesanstalt im Bundesanzeiger bekannt zu machen. Entstehen der Bundesanstalt durch die Bekanntmachung nach Satz 1 Kosten, so sind ihr diese Kosten zu erstatten.
 
-
-## § 320 – Anzeigepflicht beim beabsichtigten Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger im Inland
+# § 320 – Anzeigepflicht beim beabsichtigten Vertrieb von EU-AIF oder von ausländischen AIF an Privatanleger im Inland
 
 (1) Beabsichtigt eine EU-AIF-Verwaltungsgesellschaft oder eine ausländische AIF-Verwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten EU-AIF oder an einem ausländischen AIF im Geltungsbereich dieses Gesetzes an Privatanleger zu vertreiben, so hat sie dies der Bundesanstalt anzuzeigen. Das Anzeigeschreiben muss folgende Angaben und Unterlagen in jeweils geltender Fassung enthalten:
 
@@ -7323,8 +6994,7 @@ beträgt.
 
 (+++ § 320: Zur Anwendung vgl. § 353 Abs. 8 +++)
 
-
-## § 321 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 321 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten EU-AIF oder an einem von ihr verwalteten inländischen Spezial-AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes zu vertreiben, so hat sie dies der Bundesanstalt anzuzeigen. Das Anzeigeschreiben muss folgende Angaben und Unterlagen in jeweils geltender Fassung enthalten:
 
@@ -7354,8 +7024,7 @@ Ist der EU-AIF oder der inländische Spezial-AIF, den die AIF-Kapitalverwaltungs
 (+++ § 321 Abs. 2 u. 3: Zur Anwendung vgl. § 325 Abs. 2 +++)  
 (+++ § 321 Abs. 4: Zur Anwendung vgl. § 325 Abs. 2 u. § 331 Abs. 7 Satz 1 +++)
 
-
-## § 322 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland
+# § 322 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF und von Anteilen oder Aktien an EU-Feeder-AIF oder inländischen Spezial-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Geltungsbereich dieses Gesetzes durch eine AIF-Kapitalverwaltungsgesellschaft ist nur zulässig, wenn
 
@@ -7375,8 +7044,7 @@ Ist der EU-AIF oder der inländische Spezial-AIF, den die AIF-Kapitalverwaltungs
 
 (5) Die AIF-Kapitalverwaltungsgesellschaft teilt der Bundesanstalt wesentliche Änderungen der nach Absatz 2 übermittelten Angaben schriftlich mit. § 321 Absatz 4 Satz 2 bis 5 gilt entsprechend. Änderungen sind zulässig, wenn sie nicht dazu führen, dass die AIF-Kapitalverwaltungsgesellschaft oder die Verwaltung des angezeigten AIF durch die AIF-Kapitalverwaltungsgesellschaft gegen die Vorschriften dieses Gesetzes oder gegen die Vorschriften der Richtlinie 2011/61/EU verstößt. Bei zulässigen Änderungen unterrichtet die Bundesanstalt unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
-
-## § 323 – Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 323 – Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Beabsichtigt eine EU-AIF-Verwaltungsgesellschaft im Geltungsbereich dieses Gesetzes, Anteile oder Aktien an EU-AIF oder an inländischen Spezial-AIF an semiprofessionelle oder professionelle Anleger zu vertreiben, so prüft die Bundesanstalt, ob die zuständige Stelle des Herkunftsmitgliedstaates der EU-AIF-Verwaltungsgesellschaft Folgendes übermittelt hat:
 
@@ -7395,8 +7063,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 (+++ § § 323 Abs. 2 Satz 3: Zur Anwendung vgl. § 324 Abs. 3 u. § 327 Abs. 2 Satz 2 +++)  
 (+++ § § 323 Abs. 3: Zur Anwendung vgl. § 324 Abs. 3 u. § 327 Abs. 2 Satz 2 +++)
 
-
-## § 324 – Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland
+# § 324 – Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von ausländischen AIF oder von inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Ein Vertrieb von Anteilen oder Aktien an ausländischen AIF und von Anteilen oder Aktien an inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes durch eine EU-AIF-Verwaltungsgesellschaft ist nur zulässig, wenn die in § 322 Absatz 1 genannten Voraussetzungen gegeben sind. Ist die Bundesanstalt nicht mit der Beurteilung der in § 322 Absatz 1 Nummer 1 und 2 genannten Voraussetzungen durch die zuständige Stelle des Herkunftsmitgliedstaates der EU-AIF-Verwaltungsgesellschaft einverstanden, kann die Bundesanstalt die Europäische Wertpapier- und Marktaufsichtsbehörde nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1095/2010 um Hilfe ersuchen.
 
@@ -7404,8 +7071,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 
 (3) § 323 Absatz 2 Satz 1 und 3 sowie Absatz 3 ist entsprechend anzuwenden.
 
-
-## § 325 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 325 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäß § 56 die Bundesrepublik Deutschland ist und die von der Bundesanstalt eine Erlaubnis nach § 58 erhalten hat, Anteile oder Aktien an einem von ihr verwalteten EU-AIF oder inländischen Spezial-AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes zu vertreiben, hat sie dies der Bundesanstalt anzuzeigen. § 321 Absatz 1 Satz 2 gilt entsprechend mit der Maßgabe, dass es statt „AIF-Kapitalverwaltungsgesellschaft“ „ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 
@@ -7417,8 +7083,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 
 3. bei zulässigen Änderungen nach § 321 Absatz 4 die Bundesanstalt unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde unterrichtet, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
-
-## § 326 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 326 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes durch eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäß Artikel 37 Absatz 4 der Richtlinie 2011/61/EU die Bundesrepublik Deutschland ist, ist nur zulässig, wenn die in § 322 Absatz 1 genannten Voraussetzungen gegeben sind.
 
@@ -7426,8 +7091,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 
 (3) § 322 Absatz 3, 4 Satz 1 und 2 und Absatz 5 gilt entsprechend mit der Maßgabe, dass es statt „AIF-Kapitalverwaltungsgesellschaft“ „ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 
-
-## § 327 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 327 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von EU-AIF oder von inländischen Spezial-AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäß Artikel 37 Absatz 4 der Richtlinie 2011/61/EU ein anderer Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum als die Bundesrepublik Deutschland ist, im Geltungsbereich dieses Gesetzes Anteile oder Aktien an EU-AIF oder inländische Spezial-AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes zu vertreiben, so prüft die Bundesanstalt, ob die zuständige Stelle des Referenzmitgliedstaates der ausländischen AIF-Verwaltungsgesellschaft Folgendes übermittelt hat:
 
@@ -7441,8 +7105,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. Für
 
 (+++ § § 327 Abs. 2: Zur Anwendung vgl. § 328 Abs. 3 +++)
 
-
-## § 328 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 328 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat nicht die Bundesrepublik Deutschland ist, beim beabsichtigten Vertrieb von ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Ein Vertrieb von Anteilen oder Aktien an ausländischen AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes durch eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäß Artikel 37 Absatz 4 der Richtlinie 2011/61/EU ein anderer Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, ist nur zulässig, wenn die in § 322 Absatz 1 genannten Voraussetzungen gegeben sind. Ist die Bundesanstalt nicht mit der Beurteilung der in § 322 Absatz 1 Nummer 1 und 2 genannten Voraussetzungen durch die zuständige Stelle des Referenzmitgliedstaates der ausländischen AIF-Verwaltungsgesellschaft einverstanden, kann die Bundesanstalt die Europäische Wertpapier- und Marktaufsichtsbehörde nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1095/2010 um Hilfe ersuchen.
 
@@ -7456,8 +7119,7 @@ jeweils in einer in der internationalen Finanzwelt gebräuchlichen Sprache. § 3
 
 (3) § 327 Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 329 – Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master- AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, oder ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 329 – Anzeigepflicht einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master- AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, oder ausländischen AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Der Vertrieb von Anteilen oder Aktien an von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwalteten inländischen Spezial-Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, oder ausländischen AIF an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes ist zulässig, wenn
 
@@ -7517,8 +7179,7 @@ beträgt.
 
 (+++ § 329: Zur Anwendung vgl. § 353 Abs. 8 +++)
 
-
-## § 330 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten ausländischen AIF oder EU-AIF an semiprofessionelle und professionelle Anleger im Inland
+# § 330 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft beim beabsichtigten Vertrieb von von ihr verwalteten ausländischen AIF oder EU-AIF an semiprofessionelle und professionelle Anleger im Inland
 
 (1) Der Vertrieb von Anteilen oder Aktien an von einer ausländischen AIF-Verwaltungsgesellschaft verwalteten ausländischen AIF oder EU-AIF an professionelle oder semiprofessionelle Anleger im Geltungsbereich dieses Gesetzes ist zulässig, wenn
 
@@ -7620,8 +7281,7 @@ beträgt.
 
 (+++ § 330: Zur Anwendung vgl. § 353 Abs. 8 +++)
 
-
-## § 330a – Anzeigepflicht von EU-AIF-Verwaltungsgesellschaften, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011/61/EU erfüllen, beim beabsichtigten Vertrieb von AIF an professionelle und semiprofessionelle Anleger im Inland
+# § 330a – Anzeigepflicht von EU-AIF-Verwaltungsgesellschaften, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011/61/EU erfüllen, beim beabsichtigten Vertrieb von AIF an professionelle und semiprofessionelle Anleger im Inland
 
 (1) Der Vertrieb von Anteilen oder Aktien an AIF, die von einer EU-AIF-Verwaltungsgesellschaft verwaltet werden, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011/61/EU erfüllt, an semiprofessionelle oder professionelle Anleger im Geltungsbereich dieses Gesetzes ist zulässig, wenn
 
@@ -7645,8 +7305,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (4) § 295 Absatz 5 findet keine Anwendung für den Vertrieb und den Erwerb von AIF, die von einer EU-AIF-Verwaltungsgesellschaft verwaltet werden, die die Bedingungen nach Artikel 3 Absatz 2 der Richtlinie 2011/61/EU erfüllt, und die im Inland gemäß § 330a vertrieben werden dürfen.
 
-
-## § 331 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum; Verordnungsermächtigung
+# § 331 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von EU-AIF oder inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum; Verordnungsermächtigung
 
 (1) Beabsichtigt eine AIF-Kapitalverwaltungsgesellschaft, Anteile oder Aktien an einem von ihr verwalteten EU-AIF oder an einem von ihr verwalteten inländischen AIF in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum an professionelle Anleger zu vertreiben, so hat sie dies der Bundesanstalt in einer in internationalen Finanzkreisen gebräuchlichen Sprache anzuzeigen. Das Anzeigeschreiben muss die in § 321 Absatz 1 Satz 2 geforderten Angaben und Unterlagen in jeweils geltender Fassung enthalten. Zusätzlich müssen in dem Schreiben Angaben zu den Vorkehrungen für den Vertrieb des angezeigten AIF gemacht und der Mitgliedstaat der Europäischen Union oder der Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, in dem Anteile oder Aktien des angezeigten AIF an professionelle Anleger vertrieben werden sollen, angegeben werden. Ist der AIF im Sinne von Satz 1 ein Feeder-AIF, so ist eine Anzeige nach Satz 1 nur zulässig, wenn der Master-AIF ebenfalls ein EU-AIF oder ein inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird. Ist dies nicht der Fall, so richtet sich das Anzeigeverfahren ab dem Zeitpunkt, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird, nach § 332.
 
@@ -7668,8 +7327,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 (+++ § 331 Abs. 5 Satz 1 u. 2: Zur Anwendung vgl. § 334 Abs. 3 +++)  
 (+++ § 331 Abs. 6 u. 7: Zur Anwendung vgl. § 332 Abs. 3, § 333 Abs. 2 u. § 334 Abs. 3 +++)
 
-
-## § 332 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von ausländischen AIF oder von inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 332 – Anzeigepflicht einer AIF-Kapitalverwaltungsgesellschaft beim Vertrieb von ausländischen AIF oder von inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF und von Anteilen oder Aktien an inländischen Feeder-AIF oder EU-Feeder-AIF, deren jeweiliger Master-AIF kein EU-AIF oder inländischer AIF ist, der von einer EU-AIF-Verwaltungsgesellschaft oder einer AIF-Kapitalverwaltungsgesellschaft verwaltet wird, an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum durch eine AIF-Kapitalverwaltungsgesellschaft ist nur zulässig, wenn die in § 322 Absatz 1 genannten Voraussetzungen gegeben sind.
 
@@ -7681,8 +7339,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 2. dass die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
-
-## § 333 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 333 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von EU-AIF oder von inländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Beabsichtigt eine ausländische AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat gemäß § 56 die Bundesrepublik Deutschland ist und die von der Bundesanstalt eine Erlaubnis nach § 58 erhalten hat, Anteile oder Aktien an einem von ihr verwalteten EU-AIF oder inländischen AIF in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum an professionelle Anleger zu vertreiben, so hat sie dies der Bundesanstalt in einer in internationalen Finanzkreisen gebräuchlichen Sprache anzuzeigen. Das Anzeigeschreiben muss die in § 331 Absatz 1 Satz 2 geforderten Angaben und Unterlagen in jeweils geltender Fassung enthalten, wobei es statt „AIF-Kapitalverwaltungsgesellschaft“ „ausländische AIF-Verwaltungsgesellschaft“ heißen muss.
 
@@ -7694,8 +7351,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 3. die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
-
-## § 334 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 334 – Anzeigepflicht einer ausländischen AIF-Verwaltungsgesellschaft, deren Referenzmitgliedstaat die Bundesrepublik Deutschland ist, beim Vertrieb von ausländischen AIF an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Der Vertrieb von Anteilen oder Aktien an ausländischen AIF durch eine ausländische AIF-Verwaltungsgesellschaft an professionelle Anleger in anderen Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ist nur zulässig, wenn die in § 322 Absatz 1 genannten Anforderungen erfüllt sind. Ist die zuständige Stelle des Aufnahmestaates der ausländischen AIF-Verwaltungsgesellschaft nicht mit der Beurteilung der in § 322 Absatz 1 Nummer 1 und 2 genannten Voraussetzungen durch die Bundesanstalt einverstanden, kann sie die Europäische Wertpapier- und Marktaufsichtsbehörde nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1095/2010 um Hilfe ersuchen.
 
@@ -7709,15 +7365,13 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 3. die Bundesanstalt bei einer zulässigen Änderung nach § 331 Absatz 7 zusätzlich unverzüglich die Europäische Wertpapier- und Marktaufsichtsbehörde zu benachrichtigen hat, soweit die Änderungen die Beendigung des Vertriebs von bestimmten AIF oder zusätzlich vertriebenen AIF betreffen.
 
-
-## § 335 – Bescheinigung der Bundesanstalt
+# § 335 – Bescheinigung der Bundesanstalt
 
 (1) Unbeschadet der Anzeigen nach den §§ 331 bis 334 stellt die Bundesanstalt auf Antrag der AIF-Kapitalverwaltungsgesellschaft eine Bescheinigung darüber aus, dass die Vorschriften der Richtlinie 2011/61/EU erfüllt sind.
 
 (2) Die Bundesanstalt stellt auf Antrag der AIF-Kapitalverwaltungsgesellschaft, die gemäß § 44 registriert ist, eine Bescheinigung über die Registrierung aus.
 
-
-## § 336 – Verweise und Ersuchen nach Artikel 19 der Verordnung (EU) Nr. 1095/2010
+# § 336 – Verweise und Ersuchen nach Artikel 19 der Verordnung (EU) Nr. 1095/2010
 
 (1) Die näheren Bestimmungen zu den in § 322 Absatz 1 Nummer 1, § 324 Absatz 1 Satz 1, § 326 Absatz 1, § 328 Absatz 1 Satz 1, § 330 Absatz 1 Satz 1 Nummer 3, § 332 Absatz 1 Satz 1 und § 334 Absatz 1 Satz 1 genannten Vereinbarungen über die Zusammenarbeit richten sich nach den Artikeln 113 bis 115 der Delegierten Verordnung (EU) Nr. 231/2013.
 
@@ -7725,8 +7379,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (3) Schließt eine für einen EU-AIF zuständige Stelle die gemäß § 330 Absatz 1 Satz 1 Nummer 3 Buchstabe a geforderte Vereinbarung über Zusammenarbeit nicht innerhalb eines angemessenen Zeitraums ab, kann die Bundesanstalt die Europäische Wertpapier- und Marktaufsichtsbehörde nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1095/2010 um Hilfe ersuchen.
 
-
-## § 337 – Europäische Risikokapitalfonds
+# § 337 – Europäische Risikokapitalfonds
 
 (1) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen nach § 2 Absatz 6 erfüllen, gelten
 
@@ -7736,8 +7389,7 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (2) AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 345/2013 erfüllen und die Bezeichnung „EuVECA“ weiter führen, haben neben den Vorschriften dieses Gesetzes die in Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 345/2013 genannten Artikel der Verordnung (EU) Nr. 345/2013 zu erfüllen.
 
-
-## § 338 – Europäische Fonds für soziales Unternehmertum
+# § 338 – Europäische Fonds für soziales Unternehmertum
 
 (1) Für AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen nach § 2 Absatz 7 erfüllen, gelten
 
@@ -7747,18 +7399,15 @@ Fremdsprachige Unterlagen sind in deutscher Übersetzung oder in englischer Spra
 
 (2) AIF-Kapitalverwaltungsgesellschaften, die die Voraussetzungen des Artikels 2 Absatz 2 der Verordnung (EU) Nr. 346/2013 erfüllen und die Bezeichnung „EuSEF“ weiter führen, haben neben den Vorschriften dieses Gesetzes die in Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 346/2013 genannten Artikel der Verordnung (EU) Nr. 346/2013 zu erfüllen.
 
-
-## § 338a – Europäische langfristige Investmentfonds
+# § 338a – Europäische langfristige Investmentfonds
 
 Für AIF-Kapitalverwaltungsgesellschaften, die europäische langfristige Investmentfonds im Sinne der Verordnung (EU) 2015/760 verwalten, gelten hinsichtlich der Verwaltung der europäischen langfristigen Investmentfonds die Vorschriften der Verordnung (EU) 2015/760.
 
-
-## § 338b – Geldmarktfonds
+# § 338b – Geldmarktfonds
 
 Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über Geldmarktfonds (ABl. L 169 vom 30.6.2017, S. 8) sind, sowie Kapitalverwaltungsgesellschaften, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 verwalten, gelten neben den Vorschriften der Verordnung (EU) 2017/1131 die Vorschriften dieses Gesetzes, soweit die Verordnung (EU) 2017/1131 nichts anderes vorsieht.
 
-
-## § 339 – Strafvorschriften
+# § 339 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -7772,8 +7421,7 @@ Für OGAW und AIF, die Geldmarktfonds im Sinne der Verordnung (EU) 2017/1131 des
 
 (+++ § 339: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 340 – Bußgeldvorschriften
+# § 340 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -7805,8 +7453,7 @@ f) § 314 Absatz 1 oder Absatz 2
 
 zuwiderhandelt,
 
-1a.  
-einer vollziehbaren Anordnung nach § 5 Absatz 8a zuwiderhandelt,
+1a. einer vollziehbaren Anordnung nach § 5 Absatz 8a zuwiderhandelt,
 
 2. entgegen § 14 Satz 1 in Verbindung mit § 44 Absatz 1 Satz 1 des Kreditwesengesetzes, auch in Verbindung mit § 44b Absatz 1 Satz 1 des Kreditwesengesetzes, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
@@ -7998,8 +7645,7 @@ einen Leerverkauf durchführt,
 
 79. entgegen § 302 Absatz 1, 2, 3, 4, 5 oder Absatz 6 bei Werbung eine dort genannte Anforderung nicht erfüllt,
 
-79a.  
-entgegen § 307 Absatz 5 die wesentlichen Anlegerinformationen dem semiprofessionellen Anleger nicht rechtzeitig zur Verfügung stellt, falls er kein Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 zur Verfügung stellt,
+79a. entgegen § 307 Absatz 5 die wesentlichen Anlegerinformationen dem semiprofessionellen Anleger nicht rechtzeitig zur Verfügung stellt, falls er kein Basisinformationsblatt gemäß der Verordnung (EU) Nr. 1286/2014 zur Verfügung stellt,
 
 80. entgegen § 309 Absatz 2 nicht sicherstellt, dass ein Anleger eine dort genannte Information oder eine dort genannte Unterlage oder eine Änderung erhält, oder
 
@@ -8161,8 +7807,7 @@ ein Basisinformationsblatt nicht, nicht richtig, nicht vollständig, nicht recht
 
 2. in den Fällen des Absatzes 1 Nummer 2 und 3, des Absatzes 2 Nummer 1a, 2, 8, 11, 12, 15 bis 24, 31, 32, 37, 38, 40, 41, 43 bis 46, 49 bis 62, 63 bis 67, 70 bis 73, 78 und 79a, des Absatzes 4 Nummer 3, 4 und 7, des Absatzes 5 Nummer 3, 4 und 7, des Absatzes 6 Nummer 5, 11 und 13, des Absatzes 6b Nummer 1, 5 und 7 und des Absatzes 6c Nummer 2 und 3 mit einer Geldbuße bis zu einer Million Euro; gegenüber einer juristischen Person oder einer Personenvereinigung kann über diesen Betrag hinaus eine Geldbuße in Höhe bis zu 2 Prozent des jährlichen Gesamtumsatzes verhängt werden;
 
-2a.  
-in den Fällen des Absatzes 6a mit einer Geldbuße bis zu siebenhunderttausend Euro; gegenüber einer juristischen Person oder einer Personenvereinigung kann über diesen Betrag hinaus eine Geldbuße bis zum höheren der Beträge von fünf Millionen Euro oder 3 Prozent des jährlichen Gesamtumsatzes verhängt werden;
+2a. in den Fällen des Absatzes 6a mit einer Geldbuße bis zu siebenhunderttausend Euro; gegenüber einer juristischen Person oder einer Personenvereinigung kann über diesen Betrag hinaus eine Geldbuße bis zum höheren der Beträge von fünf Millionen Euro oder 3 Prozent des jährlichen Gesamtumsatzes verhängt werden;
 
 3. in den übrigen Fällen der Absätze 2 bis 6 und 6b mit einer Geldbuße bis zu zweihunderttausend Euro.
 
@@ -8184,8 +7829,7 @@ Handelt es sich bei der juristischen Person oder Personenvereinigung um ein Mutt
 
 (+++ § 340: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 341 – Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
+# § 341 – Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen bedeutend beteiligte Inhaber, Geschäftsleiter oder Mitglieder der Verwaltungs- oder Aufsichtsorgane von Verwaltungsgesellschaften, extern verwalteten Investmentgesellschaften oder Verwahrstellen oder deren jeweilige gesetzliche Vertreter oder persönlich haftende Gesellschafter wegen Verletzung ihrer Berufspflichten oder anderer Straftaten bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung, ferner in Strafverfahren, die Straftaten nach § 339 zum Gegenstand haben, im Fall der Erhebung der öffentlichen Klage der Bundesanstalt
 
@@ -8205,8 +7849,7 @@ zu übermitteln; ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 (+++ § 341: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 341a – Bekanntmachung von bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen
+# § 341a – Bekanntmachung von bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen
 
 (1) Bestandskräftige Maßnahmen und unanfechtbar gewordene Bußgeldentscheidungen der Bundesanstalt nach diesem Gesetz
 
@@ -8234,8 +7877,7 @@ Anstelle einer Aufschiebung kann die Bekanntmachung auf anonymisierter Basis erf
 
 (5) Die Bundesanstalt macht Vertriebsuntersagungen nach § 5 Absatz 6, den §§ 11, 311 oder § 314 im Bundesanzeiger bekannt, falls ein Vertrieb bereits stattgefunden hat. Entstehen der Bundesanstalt durch die Bekanntmachung nach Satz 1 Kosten, sind ihr diese von der Verwaltungsgesellschaft zu erstatten.
 
-
-## § 342 – Beschwerdeverfahren
+# § 342 – Beschwerdeverfahren
 
 (1) Anleger und Kunden können jederzeit wegen behaupteter Verstöße gegen dieses Gesetz Beschwerde bei der Bundesanstalt einlegen.
 
@@ -8245,8 +7887,7 @@ Anstelle einer Aufschiebung kann die Bekanntmachung auf anonymisierter Basis erf
 
 (+++ § 342: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 343 – Übergangsvorschriften für inländische und EU-AIF-Verwaltungsgesellschaften
+# § 343 – Übergangsvorschriften für inländische und EU-AIF-Verwaltungsgesellschaften
 
 (1) AIF-Kapitalverwaltungsgesellschaften, die vor dem 22. Juli 2013 Tätigkeiten im Sinne des § 20 ausüben, haben alle erforderlichen Maßnahmen zu ergreifen, um den Rechtsvorschriften dieses Gesetzes nachzukommen. Sie haben vor Ablauf des 21. Juli 2014 die Erlaubnis nach den §§ 20 und 22 oder, wenn sie die Voraussetzungen des § 2 Absatz 4, 4a oder Absatz 5 erfüllen, die Registrierung nach § 44 zu beantragen.
 
@@ -8273,8 +7914,7 @@ Auf die Genehmigung der Anlagebedingungen findet § 163 Absatz 2 Satz 5 keine An
 (+++ § 343: Zur Anwendung vgl. § 353 Abs. 5 u. 7 +++)  
 (+++ § 343 Abs. 5: Zur Anwendung vgl. § 345 Abs. 2 Satz 4 +++)
 
-
-## § 344 – Übergangsvorschriften für ausländische AIF-Verwaltungsgesellschaften und für andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 344 – Übergangsvorschriften für ausländische AIF-Verwaltungsgesellschaften und für andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Die §§ 56 bis 66 sind erst ab dem Zeitpunkt anzuwenden, auf den in § 295 Absatz 2 Nummer 1 verwiesen wird.
 
@@ -8282,13 +7922,11 @@ Auf die Genehmigung der Anlagebedingungen findet § 163 Absatz 2 Satz 5 keine An
 
 (3) Unmittelbar geltende Rechtsakte der Europäischen Union gelten im Geltungsbereich dieses Gesetzes entsprechend auch für die Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, die keine Mitgliedstaaten der Europäischen Union sind, soweit diese Rechtsakte gemäß Artikel 7 des Abkommens über den Europäischen Wirtschaftsraum für die Vertragsparteien verbindlich sind und in dem betreffenden anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Teil des innerstaatlichen Rechts oder in innerstaatliches Recht umgesetzt sind.
 
-
-## § 344a – Übergangsvorschrift zum Kleinanlegerschutzgesetz
+# § 344a – Übergangsvorschrift zum Kleinanlegerschutzgesetz
 
 § 45 Absatz 3 Satz 3 und § 123 Absatz 1 Satz 2 in der Fassung des Kleinanlegerschutzgesetzes vom 3. Juli 2015 (BGBl. I S. 1114) sind erstmals auf Jahres- und Konzernabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2014 beginnen.
 
-
-## § 345 – Übergangsvorschriften für offene AIF und AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die bereits nach dem Investmentgesetz reguliert waren
+# § 345 – Übergangsvorschriften für offene AIF und AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die bereits nach dem Investmentgesetz reguliert waren
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft, die bei Inkrafttreten dieses Gesetzes
 
@@ -8380,8 +8018,7 @@ Die AIF-Verwaltungsgesellschaft darf den AIF im Sinne von Satz 1 noch bis zum Ab
 
 (12) Der Antrag einer AIF-Kapitalverwaltungsgesellschaft, der auf eine Genehmigung der Anlagebedingungen eines AIF durch die Bundesanstalt nach dem Investmentgesetz gerichtet ist und der vor dem 21. Juli 2013 bei der Bundesanstalt eingegangen ist, jedoch bis zum Ablauf des 21. Juli 2013 noch nicht genehmigt war, gilt als am 22. Juli 2013 gestellter Antrag auf Genehmigung der Anlagebedingungen nach diesem Gesetz. Sofern nach diesem Gesetz erforderliche Angaben oder Dokumente fehlen, hat die Bundesanstalt diese nachzufordern.
 
-
-## § 346 – Besondere Übergangsvorschriften für Immobilien-Sondervermögen
+# § 346 – Besondere Übergangsvorschriften für Immobilien-Sondervermögen
 
 (1) Für Anleger, die am 21. Juli 2013 Anteile an Immobilien-Sondervermögen in einem Wertpapierdepot auf ihren Namen hinterlegt haben, gelten im Hinblick auf diese Anteile nicht die Mindesthaltefrist gemäß § 255 Absatz 3 und die Rückgabefrist für Anteilsrückgaben gemäß § 255 Absatz 4, soweit die Anteilsrückgaben 30 000 Euro pro Kalenderhalbjahr für einen Anleger nicht übersteigen. Anleger können verlangen, dass die Rücknahme von Anteilen gemäß Satz 1 weiterhin entsprechend den am 21. Juli 2013 geltenden Vertragsbedingungen erfolgt.
 
@@ -8403,15 +8040,13 @@ Die AIF-Verwaltungsgesellschaft darf den AIF im Sinne von Satz 1 noch bis zum Ab
 
 (8) Für die Genehmigung der Änderung der Anlagebedingungen, um die Voraussetzungen für eine Immobilienteilfreistellung gemäß § 20 Absatz 3 Satz 1 Nummer 1 des Investmentsteuergesetzes für das Immobilien-Sondervermögen zu erfüllen, gilt § 163 mit der Maßgabe, dass Absatz 2 Satz 5 und 6 keine Anwendung findet und die in Absatz 2 Satz 1 genannte Frist drei Monate ab Eingang des Genehmigungsantrags beträgt. Anträge nach Satz 1 müssen bis zum 1. Januar 2018 bei der Bundesanstalt eingegangen sein.
 
-
-## § 347 – Besondere Übergangsvorschriften für Altersvorsorge-Sondervermögen
+# § 347 – Besondere Übergangsvorschriften für Altersvorsorge-Sondervermögen
 
 (1) Für Altersvorsorge-Sondervermögen im Sinne des § 87 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung, die vor dem 22. Juli 2013 im Sinne des § 343 Absatz 4 aufgelegt wurden, gelten nach Inkrafttreten der Änderungen der Anlagebedingungen zusätzlich zu den in § 345 Absatz 1 Satz 11 genannten Vorschriften § 87 Absatz 2 sowie die §§ 88 bis 90 und 143 Absatz 3 Nummer 6 Buchstabe b des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung entsprechend. Die in § 345 Absatz 1 Satz 11 genannten Vorschriften dieses Gesetzes, die sich auf Publikums-AIF beziehen, gelten jedoch nur, soweit sich aus § 87 Absatz 2 sowie den §§ 88 bis 90 und 99 Absatz 3 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung nichts anderes ergibt.
 
 (2) Nach dem 21. Juli 2013 dürfen Altersvorsorge-Sondervermögen im Sinne des § 87 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung nicht mehr aufgelegt im Sinne des § 343 Absatz 4 werden.
 
-
-## § 348 – Besondere Übergangsvorschriften für Gemischte Sondervermögen und Gemischte Investmentaktiengesellschaften
+# § 348 – Besondere Übergangsvorschriften für Gemischte Sondervermögen und Gemischte Investmentaktiengesellschaften
 
 Gemischte Sondervermögen oder Gemischte Investmentaktiengesellschaften, die vor dem 22. Juli 2013 gemäß den §§ 83 bis 86 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung aufgelegt wurden und die zu diesem Zeitpunkt
 
@@ -8425,8 +8060,7 @@ Gemischte Sondervermögen oder Gemischte Investmentaktiengesellschaften, die vor
 
 unter Einhaltung der Anlagegrenzen, der zusätzlichen Angaben im Verkaufsprospekt und in den Vertragsbedingungen gemäß § 84 Absatz 2, 3 in Verbindung mit § 113 Absatz 3 und 4 Satz 2 und 3, in Verbindung mit § 117 Absatz 1 Satz 2, in Verbindung mit § 118 Satz 2 sowie § 85 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erworben haben, dürfen diese gehaltenen Anteile oder Aktien abweichend von § 219 auch nach dem 21. Juli 2013 weiter halten. Auf die Verwaltung von Gemischten Investmentvermögen im Sinne des Satzes 1 Nummer 1 oder 4, deren Vertragsbedingungen es erlauben, die Mittel zu mehr als 50 Prozent des Wertes des Vermögens des Gemischten Investmentvermögens in Anteile an Immobilien-Sondervermögen in Form von Publikumsinvestmentvermögen sowie in Anteile an vergleichbaren EU-AIF oder ausländischen AIF anzulegen, ist § 255 Absatz 3 und 4 anzuwenden, solange die Anteile nach Satz 1 Nummer 1 oder Nummer 4 weiter gehalten werden. Im Übrigen gelten für diese Gemischten Investmentvermögen im Sinne des Satzes 1 die Vorschriften dieses Gesetzes einschließlich der Übergangsvorschriften.
 
-
-## § 349 – Besondere Übergangsvorschriften für Sonstige Sondervermögen und Sonstige Investmentaktiengesellschaften
+# § 349 – Besondere Übergangsvorschriften für Sonstige Sondervermögen und Sonstige Investmentaktiengesellschaften
 
 Sonstige Sondervermögen oder Sonstige Investmentaktiengesellschaften, die vor dem 22. Juli 2013 gemäß den §§ 90g bis 90k des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung aufgelegt wurden und die zu diesem Zeitpunkt
 
@@ -8442,8 +8076,7 @@ Sonstige Sondervermögen oder Sonstige Investmentaktiengesellschaften, die vor d
 
 unter Einhaltung der Anlagegrenzen, der zusätzlichen Angaben im Verkaufsprospekt und in den Vertragsbedingungen gemäß § 90h Absatz 2 in Verbindung mit § 113 Absatz 3 und 4 Satz 2 und 3, § 90h Absatz 3 und 4, § 90j Absatz 2 Nummer 1, § 117 Absatz 1 Satz 2 sowie § 118 Satz 2 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erworben haben, dürfen diese gehaltenen Anteile, Aktien oder Beteiligungen abweichend von § 221 auch nach dem 21. Juli 2013 weiter halten. Im Übrigen gelten für die Sonstigen Investmentvermögen im Sinne des Satzes 1 die Vorschriften dieses Gesetzes einschließlich der Übergangsvorschriften.
 
-
-## § 350 – Besondere Übergangsvorschriften für Hedgefonds und offene Spezial-AIF
+# § 350 – Besondere Übergangsvorschriften für Hedgefonds und offene Spezial-AIF
 
 (1) Für eine AIF-Kapitalverwaltungsgesellschaft, die bei Inkrafttreten dieses Gesetzes
 
@@ -8455,8 +8088,7 @@ gilt § 345 Absatz 1 und 2 entsprechend mit der Maßgabe, dass in § 345 Absatz 
 
 (2) Werden Anteile oder Aktien von inländischen offenen Spezial-AIF im Sinne des § 345 Absatz 3 Satz 1 Nummer 2, die von einer AIF-Kapitalverwaltungsgesellschaft im Sinne von § 345 Absatz 3 Satz 1 Nummer 1 verwaltet werden, von Privatanlegern gehalten, die diese Anteile oder Aktien vor dem 22. Juli 2013 erworben haben, so dürfen diese Privatanleger diese vor dem 22. Juli 2013 erworbenen Anteile oder Aktien auch nach dem 22. Juli 2013 weiter halten, bis sie diese Anteile oder Aktien zurückgeben, ohne dass sich die Qualifikation des Investmentvermögens als inländischer Spezial-AIF nach § 1 Absatz 6 ändert.
 
-
-## § 351 – Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die nicht bereits nach dem Investmentgesetz reguliert waren
+# § 351 – Übergangsvorschriften für offene AIF und für AIF-Verwaltungsgesellschaften, die offene AIF verwalten, die nicht bereits nach dem Investmentgesetz reguliert waren
 
 (1) Eine AIF-Kapitalverwaltungsgesellschaft, die bei Inkrafttreten dieses Gesetzes
 
@@ -8480,18 +8112,15 @@ hat die Anlagebedingungen, Satzungen oder Gesellschaftsverträge dieser inländi
 
 übermitteln, gegebenenfalls über die zuständigen Stellen des Herkunftsmitgliedstaates, eine Anzeige nach den §§ 320, 323, 329, 330 oder 330a. § 345 Absatz 8 Satz 2, 3 und 5 gilt entsprechend mit der Maßgabe, dass an die Stelle der Wörter „nach den Vertriebsvorschriften des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung“ die Wörter „nach den Vertriebsvorschriften, die für diese Investmentvermögen vor dem 22. Juli 2013 anwendbar waren“ treten.
 
-
-## § 352 – Übergangsvorschrift zu § 127 des Investmentgesetzes
+# § 352 – Übergangsvorschrift zu § 127 des Investmentgesetzes
 
 Auf Ansprüche nach § 127 des Investmentgesetzes in der Fassung vom 30. Juni 2011, die vor dem 1. Juli 2011 entstanden sind, ist § 127 Absatz 5 des Investmentgesetzes in der bis zum 30. Juni 2011 geltenden Fassung weiter anzuwenden. Sind dem Käufer die wesentlichen Anlageinformationen oder der Verkaufsprospekt nach dem Investmentgesetz zur Verfügung gestellt worden, ist auf diese Dokumente § 127 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung weiter anzuwenden.
 
-
-## § 352a – Definition von geschlossenen AIF im Sinne von § 353
+# § 352a – Definition von geschlossenen AIF im Sinne von § 353
 
 Abweichend von § 1 Absatz 4 Nummer 2 und Absatz 5 sind geschlossene AIF im Sinne von § 353 auch solche AIF, die die Voraussetzungen von Artikel 1 Absatz 5 der Delegierten Verordnung (EU) Nr. 694/2014 erfüllen.
 
-
-## § 353 – Besondere Übergangsvorschriften für AIF-Verwaltungsgesellschaften, die geschlossene AIF verwalten, und für geschlossene AIF
+# § 353 – Besondere Übergangsvorschriften für AIF-Verwaltungsgesellschaften, die geschlossene AIF verwalten, und für geschlossene AIF
 
 (1) Sofern AIF-Kapitalverwaltungsgesellschaften vor dem 22. Juli 2013 geschlossene AIF verwalten, die nach dem 21. Juli 2013 keine zusätzlichen Anlagen tätigen, können sie weiterhin solche AIF verwalten, ohne eine Erlaubnis oder Registrierung nach diesem Gesetz zu haben.
 
@@ -8555,25 +8184,21 @@ an Privatanleger im Inland gelten die Vorschriften für den Vertrieb von geschlo
 
 (+++ § 353: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 353a – Übergangsvorschriften zu den §§ 261, 262 und 263
+# § 353a – Übergangsvorschriften zu den §§ 261, 262 und 263
 
 Auf geschlossene inländische Publikums-AIF, die vor dem 18. März 2016 aufgelegt wurden, sind § 261 Absatz 4, § 262 Absatz 1 Satz 1 Nummer 1 und § 263 Absatz 1 und 4 in der bis zum 17. März 2016 geltenden Fassung anzuwenden. Dies gilt nicht, wenn ein geschlossener inländischer Publikums-AIF, der vor dem 18. März 2016 aufgelegt wurde, die Anwendung der in Satz 1 genannten Vorschriften beschließt.
 
-
-## § 353b – Übergangsvorschriften zu § 285 Absatz 3
+# § 353b – Übergangsvorschriften zu § 285 Absatz 3
 
 § 20 Absatz 9 Satz 1 und § 285 Absatz 3, auch in Verbindung mit § 2 Absatz 4, 4a und 5, § 261 Absatz 1 Nummer 8, § 282 Absatz 2 Satz 3 und § 284 Absatz 5, in der ab dem 18. März 2016 geltenden Fassung sind nicht anzuwenden auf Gelddarlehen, die vor dem 18. März 2016 für Rechnung von inländischen AIF an Unternehmen gewährt wurden, an denen der inländische AIF bereits beteiligt war. Für nach dem 18. März 2016 vergebene Gelddarlehen sind in die Berechnung der Begrenzung nach § 285 Absatz 3 Satz 1 auf höchstens 50 Prozent des aggregierten eingebrachten und noch nicht eingeforderten zugesagten Kapitals des inländischen AIF die vor dem 18. März 2016 vergebenen Darlehen einzubeziehen.
 
-
-## § 354 – Übergangsvorschrift zu § 342 Absatz 3
+# § 354 – Übergangsvorschrift zu § 342 Absatz 3
 
 § 342 Absatz 3 gilt für Streitigkeiten im Zusammenhang mit geschlossenen Publikums-AIF erst ab dem 22. Juli 2014.
 
 (+++ § 354: Zur Anwendung vgl. § 353 Abs. 5 +++)
 
-
-## § 355 – Übergangsvorschriften für OGAW-Verwaltungsgesellschaften und OGAW
+# § 355 – Übergangsvorschriften für OGAW-Verwaltungsgesellschaften und OGAW
 
 (1) OGAW-Kapitalverwaltungsgesellschaften oder extern verwaltete OGAW-Investmentaktiengesellschaften, die bei Inkrafttreten dieses Gesetzes die in § 17 Absatz 1 und § 20 Absatz 2 aufgeführten Geschäfte betreiben und die eine Erlaubnis nach § 7 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung oder eine Erlaubnis als Investmentaktiengesellschaft nach § 97 Absatz 1 des Investmentgesetzes in der bis zum 21. Juli 2013 geltenden Fassung erhalten haben, bedürfen keiner erneuten Erlaubnis zum Geschäftsbetrieb; die Erlaubnis nach den §§ 20, 21 oder § 113 gilt insoweit als erteilt.
 
@@ -8585,13 +8210,11 @@ Auf geschlossene inländische Publikums-AIF, die vor dem 18. März 2016 aufgeleg
 
 (5) Die Anlagebedingungen, die wesentlichen Anlegerinformationen und der Verkaufsprospekt für inländische OGAW sind zum 18. März 2016 an die ab dem 18. März 2016 geltende Fassung dieses Gesetzes anzupassen. Der Antrag auf Genehmigung der geänderten Anlagebedingungen darf neben redaktionellen nur solche Änderungen der Anlagebedingungen beinhalten, die für eine Anpassung an die Anforderungen der ab dem 18. März 2016 geltenden Fassung dieses Gesetzes erforderlich sind. § 163 Absatz 3 und 4 Satz 2 bis 5 ist nicht anzuwenden.
 
-
-## § 356 – Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
+# § 356 – Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
 
 Die §§ 45 und 48 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahresberichte und Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2015 beginnen. Das Gleiche gilt für § 160 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes hinsichtlich der Bezugnahme auf § 325 Absatz 1 des Handelsgesetzbuchs.
 
-
-## § 357 – Übergangsvorschrift zu § 100a
+# § 357 – Übergangsvorschrift zu § 100a
 
 § 100a ist mit Wirkung vom 31. Dezember 2015 anzuwenden. § 100a ist auch in den Fällen anzuwenden, in denen der Übergang des Immobilien-Sondervermögens auf die Verwahrstelle gemäß § 39 Absatz 1 des Investmentgesetzes erfolgt, weil das Recht der AIF-Kapitalverwaltungsgesellschaft, das Immobilien-Sondervermögen zu verwalten,
 
@@ -8601,8 +8224,7 @@ Die §§ 45 und 48 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17
 
 erloschen ist und das Immobilien-Sondervermögen gemäß § 39 Absatz 2 des Investmentgesetzes abgewickelt und an die Anleger verteilt wird, sofern der Übergang des Immobilien-Sondervermögens auf die Verwahrstelle erst ab dem 31. Dezember 2015 erfolgt ist.
 
-
-## § 358 – Übergangsvorschriften zu § 95 Absatz 1 und § 97 Absatz 1
+# § 358 – Übergangsvorschriften zu § 95 Absatz 1 und § 97 Absatz 1
 
 (1) Für in Sammelverwahrung befindliche Inhaberanteilscheine und noch nicht fällige Gewinnanteilscheine kann eine Auslieferung einzelner Wertpapiere auf Grund der §§ 7 und 8 des Depotgesetzes nicht verlangt werden.
 
@@ -8612,12 +8234,10 @@ erloschen ist und das Immobilien-Sondervermögen gemäß § 39 Absatz 2 des Inve
 
 (4) Nur mit der Einreichung eines kraftlosen Inhaberanteilscheins bei der Verwahrstelle kann der Einreicher die Gutschrift eines entsprechenden Miteigentumsanteils an dem Sammelbestand auf ein von ihm zu benennendes und für ihn geführtes Depotkonto verlangen. Die Kraftlosigkeit des Inhaberanteilscheins nach Absatz 3 steht einer Kraftloserklärung der Urkunde nach § 799 des Bürgerlichen Gesetzbuchs nicht entgegen. Zahlungen darf die Verwahrstelle nur auf ein von ihr für den Einreicher geführtes Konto oder an ein anderes Kreditinstitut zur Weiterleitung auf ein für den Einreicher von diesem geführtes Konto leisten; diese Zahlungen sind von der Verwahrstelle nicht zu verzinsen.
 
-
-## § 359 – Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4
+# § 359 – Übergangsvorschrift zu § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4
 
 § 26 Absatz 7 Satz 3, § 82 Absatz 6 Satz 2 und § 85 Absatz 5 Satz 4 in der ab dem 25. Juni 2017 geltenden Fassung sind erst ab dem 25. Dezember 2017 anzuwenden.
 
-
-## § 360 – Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
+# § 360 – Übergangsvorschrift zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen
 
 § 268 Absatz 1 Satz 3, § 293 Absatz 1 Satz 2 Nummer 5, § 295 Absatz 8, § 307 Absatz 4 und § 318 Absatz 3 Satz 1 in der bis zum 20. Juli 2019 geltenden Fassung finden weiterhin Anwendung für den Fall eines Prospekts, der nach dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit hat.

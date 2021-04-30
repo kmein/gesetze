@@ -1,22 +1,17 @@
-# [ErgThG] Gesetz über den Beruf der Ergotherapeutin und des Ergotherapeuten  (Ergotherapeutengesetz - ErgThG)
-
-Ausfertigungsdatum: 25.05.1976
-
+% Gesetz über den Beruf der Ergotherapeutin und des Ergotherapeuten  (Ergotherapeutengesetz - ErgThG)
+% Ausfertigungsdatum: 25.05.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) Wer eine Tätigkeit unter der Berufsbezeichnung "Ergotherapeutin" oder "Ergotherapeut" ausüben will, bedarf der Erlaubnis.
 
 (2) Ergotherapeutinnen und Ergotherapeuten, die Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes sind, führen die Berufsbezeichnung nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
-## § 2
+# § 2
 
 (1) Eine Erlaubnis nach § 1 wird erteilt, wenn der Antragsteller
 
@@ -58,8 +53,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (7) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a
+# § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Ergotherapeuten ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte der zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des Ergotherapeuten auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind. Die Länder können zur Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 gemeinsame Stellen bestimmen.
 
@@ -67,8 +61,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Abs. 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 2b
+# § 2b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -100,8 +93,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 3
+# § 3
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die Voraussetzung nach § 2 Abs. 1 Nr. 2 nicht vorgelegen hat, die staatliche Prüfung nicht bestanden oder die Ausbildung nach § 2 Abs. 2 nicht abgeschlossen war. Die Erlaubnis kann zurückgenommen werden, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 2 Abs. 1 Nr. 3 nicht vorgelegen hat.
 
@@ -111,8 +103,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (4) (weggefallen)
 
-
-## § 4
+# § 4
 
 (1) Die Ausbildung nach diesem Gesetz wird an staatlich anerkannten Schulen für Ergotherapeuten durchgeführt.
 
@@ -134,8 +125,7 @@ Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden
 
 (7) Das Bundesministerium für Gesundheit erstattet dem Deutschen Bundestag über die Ergebnisse der Modellvorhaben nach Absatz 5 Bericht. Absatz 6 Satz 3 bis 5 gilt entsprechend. Die Länder übermitteln dem Bundesministerium für Gesundheit auf Anforderung die für die Erstellung des Berichts erforderlichen Ergebnisse ihrer Auswertungen nach Absatz 6.
 
-
-## § 5
+# § 5
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsordnung für Ergotherapeuten die Mindestanforderungen an die Ausbildung, das Nähere über die staatliche Prüfung und die Urkunde für die Erlaubnis nach § 1. In der Rechtsverordnung ist vorzusehen, daß der Auszubildende während der Ausbildung an theoretischem und praktischem Unterricht und an einer praktischen Ausbildung teilzunehmen hat. In der Rechtsverordnung kann vorgesehen werden, daß der Schüler bei der Zulassung zur staatlichen Prüfung eine außerhalb der Ausbildung erworbene, bestimmten Erfordernissen entsprechende Ausbildung in Erster Hilfe nachzuweisen hat.
 
@@ -155,8 +145,7 @@ Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 5a
+# § 5a
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Ergotherapeuten in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -188,18 +177,15 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
-## § 5b
+# § 5b
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden berechtigt, für jede Dienstleistungserbringung von den zuständigen Behörden des Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf Anforderung der zuständigen Behörden eines Vertragsstaates des Europäischen Wirtschaftsraumes haben die zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung und die gute Führung des Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
 
-
-## § 5c
+# § 5c
 
 Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
-## § 6
+# § 6
 
 (1) Die Entscheidungen nach § 2 Abs. 1 trifft die zuständige Behörde des Landes, in dem der Antragsteller die Prüfung abgelegt hat.
 
@@ -209,8 +195,7 @@ Ergotherapeutinnen und Ergotherapeuten im Sinne des § 5a haben beim Erbringen d
 
 (4) Die Meldung nach § 5a Abs. 2 und 3 nimmt die zuständige Behörde des Landes entgegen, in dem die Dienstleistung erbracht werden soll oder erbracht worden ist. Sie fordert die Informationen nach § 5b Satz 1 an. Die Informationen nach § 5b Satz 2 werden durch die zuständige Behörde des Landes übermittelt, in dem der Beruf des Ergotherapeuten ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung des Herkunftsmitgliedstaats gemäß § 5c erfolgt durch die zuständige Behörde des Landes, in dem die Dienstleistung erbracht wird oder erbracht worden ist. Die Bescheinigungen nach § 5a Abs. 4 stellt die zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf des Ergotherapeuten ausübt.
 
-
-## § 7
+# § 7
 
 (1) Ordnungswidrig handelt, wer
 
@@ -224,8 +209,7 @@ führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 8
+# § 8
 
 (1) Als Erlaubnis im Sinne des § 1 gelten:
 
@@ -241,14 +225,11 @@ führt.
 
 (4) (gegenstandslos)
 
+# § 8a
 
-## § 8a
+(1) Eine vor dem 1. September 1991 nach der Anordnung über die staatliche Erlaubnis zur Ausübung der medizinischen, pharmazeutischen und sozialen Fachschul- und Facharbeiterberufe vom 7. August 1980 (GBl. I Nr. 26 S. 254) erteilte Erlaubnis als Arbeitstherapeutin oder Arbeitstherapeut oder eine einer solchen Erlaubnis gleichgestellte Erlaubnis gilt als Erlaubnis nach § 1. (2) Eine vor dem 1. September 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begonnene Ausbildung als Arbeitstherapeutin oder Arbeitstherapeut kann in diesem Gebiet nach den dort bisher geltenden Regeln abgeschlossen werden. Nach Abschluß der Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
 
-(1) Eine vor dem 1. September 1991 nach der Anordnung über die staatliche Erlaubnis zur Ausübung der medizinischen, pharmazeutischen und sozialen Fachschul- und Facharbeiterberufe vom 7. August 1980 (GBl. I Nr. 26 S. 254) erteilte Erlaubnis als Arbeitstherapeutin oder Arbeitstherapeut oder eine einer solchen Erlaubnis gleichgestellte Erlaubnis gilt als Erlaubnis nach § 1.  
-(2) Eine vor dem 1. September 1991 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begonnene Ausbildung als Arbeitstherapeutin oder Arbeitstherapeut kann in diesem Gebiet nach den dort bisher geltenden Regeln abgeschlossen werden. Nach Abschluß der Ausbildung erhält der Antragsteller, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 vorliegen, eine Erlaubnis nach § 1.
-
-
-## § 9
+# § 9
 
 (1) Eine vor Inkrafttreten dieses Gesetzes erteilte Erlaubnis als "Beschäftigungs- und Arbeitstherapeut" oder als "Beschäftigungs- und Arbeitstherapeutin" gilt als Erlaubnis nach § 1.
 
@@ -256,7 +237,6 @@ führt.
 
 (3) Beschäftigungs- und Arbeitstherapeuten, die eine Erlaubnis nach dem Beschäftigungs- und Arbeitstherapeutengesetz besitzen, dürfen die Berufsbezeichnung weiterführen. Außer im Falle des Satzes 1 darf die Berufsbezeichnung "Beschäftigungs- und Arbeitstherapeut" oder "Beschäftigungs- und Arbeitstherapeutin" nicht geführt werden.
 
-
-## § 10
+# § 10
 
 § 4 Absatz 5 bis 7 tritt am 31. Dezember 2021 außer Kraft. Ausbildungen nach § 4 Absatz 5, die vor dem 31. Dezember 2021 begonnen worden sind, werden nach dieser Vorschrift abgeschlossen.

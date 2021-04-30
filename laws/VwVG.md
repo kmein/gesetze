@@ -1,10 +1,7 @@
-# [VwVG] Verwaltungs-Vollstreckungsgesetz  (VwVG)
-
-Ausfertigungsdatum: 27.04.1953
-
+% Verwaltungs-Vollstreckungsgesetz  (VwVG)
+% Ausfertigungsdatum: 27.04.1953
  
-
-## § 1 – Vollstreckbare Geldforderungen
+# § 1 – Vollstreckbare Geldforderungen
 
 (1) Die öffentlich-rechtlichen Geldforderungen des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts werden nach den Bestimmungen dieses Gesetzes im Verwaltungswege vollstreckt.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 27.04.1953
 
 (3) Die Vorschriften der Abgabenordnung des Sozialversicherungsrechts einschließlich der Arbeitslosenversicherung und des Justizbeitreibungsgesetzes bleiben unberührt.
 
-
-## § 2 – Vollstreckungsschuldner
+# § 2 – Vollstreckungsschuldner
 
 (1) Als Vollstreckungsschuldner kann in Anspruch genommen werden,
 
@@ -23,8 +19,7 @@ b) wer für die Leistung, die ein anderer schuldet, persönlich haftet.
 
 (2) Wer zur Duldung der Zwangsvollstreckung verpflichtet ist, wird dem Vollstreckungsschuldner gleichgestellt, soweit die Duldungspflicht reicht.
 
-
-## § 3 – Vollstreckungsanordnung
+# § 3 – Vollstreckungsanordnung
 
 (1) Die Vollstreckung wird gegen den Vollstreckungsschuldner durch Vollstreckungsanordnung eingeleitet; eines vollstreckbaren Titels bedarf es nicht.
 
@@ -40,8 +35,7 @@ c) der Ablauf einer Frist von einer Woche seit Bekanntgabe des Leistungsbescheid
 
 (4) Die Vollstreckungsanordnung wird von der Behörde erlassen, die den Anspruch geltend machen darf.
 
-
-## § 4 – Vollstreckungsbehörden
+# § 4 – Vollstreckungsbehörden
 
 Vollstreckungsbehörden sind:
 
@@ -49,15 +43,13 @@ a) die von einer obersten Bundesbehörde im Einvernehmen mit dem Bundesminister 
 
 b) die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine Bestimmung nach Buchstabe a nicht getroffen worden ist.
 
-
-## § 5 – Anzuwendende Vollstreckungsvorschriften
+# § 5 – Anzuwendende Vollstreckungsvorschriften
 
 (1) Das Verwaltungszwangsverfahren und der Vollstreckungsschutz richten sich im Falle des § 4 nach den Vorschriften der Abgabenordnung (§§ 77, 249 bis 258, 260, 262 bis 267, 281 bis 317, 318 Abs. 1 bis 4, §§ 319 bis 327).
 
 (2) Wird die Vollstreckung im Wege der Amtshilfe von Organen der Länder vorgenommen, so ist sie nach landesrechtlichen Bestimmungen durchzuführen.
 
-
-## § 5a – Ermittlung des Aufenthaltsorts des Vollstreckungsschuldners
+# § 5a – Ermittlung des Aufenthaltsorts des Vollstreckungsschuldners
 
 (1) Ist der Wohnsitz oder der gewöhnliche Aufenthaltsort des Vollstreckungsschuldners nicht durch Anfrage bei der Meldebehörde zu ermitteln, so darf die Vollstreckungsbehörde folgende Angaben erheben:
 
@@ -77,8 +69,7 @@ b) die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine Bestimmung 
 
 (4) Ist der Vollstreckungsschuldner Unionsbürger, so darf die Vollstreckungsbehörde die Daten nach Absatz 1 Nummer 1 nur erheben, wenn ihr tatsächliche Anhaltspunkte für die Vermutung vorliegen, dass bei der betroffenen Person das Nichtbestehen oder der Verlust des Freizügigkeitsrechts festgestellt worden ist. Eine Übermittlung der Daten nach Absatz 1 Nummer 1 an die Vollstreckungsbehörde ist ausgeschlossen, wenn der Vollstreckungsschuldner ein Unionsbürger ist, für den eine Feststellung des Nichtbestehens oder des Verlusts des Freizügigkeitsrechts nicht vorliegt.
 
-
-## § 5b – Auskunftsrechte der Vollstreckungsbehörde
+# § 5b – Auskunftsrechte der Vollstreckungsbehörde
 
 (1) Kommt der Vollstreckungsschuldner seiner Pflicht, eine Vermögensauskunft nach § 5 Absatz 1 dieses Gesetzes in Verbindung mit § 284 Absatz 1 der Abgabenordnung zu erteilen, nicht nach oder ist bei einer Vollstreckung in die in der Vermögensauskunft angeführten Vermögensgegenstände eine vollständige Befriedigung der Forderung, wegen der die Vermögensauskunft verlangt wird, voraussichtlich nicht zu erwarten, so darf die Vollstreckungsbehörde
 
@@ -88,27 +79,23 @@ b) die Vollstreckungsbehörden der Bundesfinanzverwaltung, wenn eine Bestimmung 
 
 (2) Nach Absatz 1 erhobene Daten, die innerhalb der letzten drei Monate bei der Vollstreckungsbehörde eingegangen sind, dürfen von der Vollstreckungsbehörde auch einer weiteren Vollstreckungsbehörde übermittelt werden, wenn die Voraussetzungen für die Datenerhebung auch bei der weiteren Vollstreckungsbehörde vorliegen.
 
-
-## § 6 – Zulässigkeit des Verwaltungszwanges
+# § 6 – Zulässigkeit des Verwaltungszwanges
 
 (1) Der Verwaltungsakt, der auf die Herausgabe einer Sache oder auf die Vornahme einer Handlung oder auf Duldung oder Unterlassung gerichtet ist, kann mit den Zwangsmitteln nach § 9 durchgesetzt werden, wenn er unanfechtbar ist oder wenn sein sofortiger Vollzug angeordnet oder wenn dem Rechtsmittel keine aufschiebende Wirkung beigelegt ist.
 
 (2) Der Verwaltungszwang kann ohne vorausgehenden Verwaltungsakt angewendet werden, wenn der sofortige Vollzug zur Verhinderung einer rechtswidrigen Tat, die einen Straf- oder Bußgeldtatbestand verwirklicht, oder zur Abwendung einer drohenden Gefahr notwendig ist und die Behörde hierbei innerhalb ihrer gesetzlichen Befugnisse handelt.
 
-
-## § 7 – Vollzugsbehörden
+# § 7 – Vollzugsbehörden
 
 (1) Ein Verwaltungsakt wird von der Behörde vollzogen, die ihn erlassen hat; sie vollzieht auch Beschwerdeentscheidungen.
 
 (2) Die Behörde der unteren Verwaltungsstufe kann für den Einzelfall oder allgemein mit dem Vollzug beauftragt werden.
 
-
-## § 8 – Örtliche Zuständigkeit
+# § 8 – Örtliche Zuständigkeit
 
 Muß eine Zwangsmaßnahme außerhalb des Bezirks der Vollzugsbehörde ausgeführt werden, so hat die entsprechende Bundesbehörde des Bezirks, in dem sie ausgeführt werden soll, auf Ersuchen der Vollzugsbehörde den Verwaltungszwang durchzuführen.
 
-
-## § 9 – Zwangsmittel
+# § 9 – Zwangsmittel
 
 (1) Zwangsmittel sind:
 
@@ -120,13 +107,11 @@ c) unmittelbarer Zwang (§ 12).
 
 (2) Das Zwangsmittel muß in einem angemessenen Verhältnis zu seinem Zweck stehen. Dabei ist das Zwangsmittel möglichst so zu bestimmen, daß der Betroffene und die Allgemeinheit am wenigsten beeinträchtigt werden.
 
-
-## § 10 – Ersatzvornahme
+# § 10 – Ersatzvornahme
 
 Wird die Verpflichtung, eine Handlung vorzunehmen, deren Vornahme durch einen anderen möglich ist (vertretbare Handlung), nicht erfüllt, so kann die Vollzugsbehörde einen anderen mit der Vornahme der Handlung auf Kosten des Pflichtigen beauftragen.
 
-
-## § 11 – Zwangsgeld
+# § 11 – Zwangsgeld
 
 (1) Kann eine Handlung durch einen anderen nicht vorgenommen werden und hängt sie nur vom Willen des Pflichtigen ab, so kann der Pflichtige zur Vornahme der Handlung durch ein Zwangsgeld angehalten werden. Bei vertretbaren Handlungen kann es verhängt werden, wenn die Ersatzvornahme untunlich ist, besonders, wenn der Pflichtige außerstande ist, die Kosten zu tragen, die aus der Ausführung durch einen anderen entstehen.
 
@@ -134,13 +119,11 @@ Wird die Verpflichtung, eine Handlung vorzunehmen, deren Vornahme durch einen an
 
 (3) Die Höhe des Zwangsgeldes beträgt bis zu 25 000 Euro.
 
-
-## § 12 – Unmittelbarer Zwang
+# § 12 – Unmittelbarer Zwang
 
 Führt die Ersatzvornahme oder das Zwangsgeld nicht zum Ziel oder sind sie untunlich, so kann die Vollzugsbehörde den Pflichtigen zur Handlung, Duldung oder Unterlassung zwingen oder die Handlung selbst vornehmen.
 
-
-## § 13 – Androhung der Zwangsmittel
+# § 13 – Androhung der Zwangsmittel
 
 (1) Die Zwangsmittel müssen, wenn sie nicht sofort angewendet werden können (§ 6 Abs. 2), schriftlich angedroht werden. Hierbei ist für die Erfüllung der Verpflichtung eine Frist zu bestimmen, innerhalb der der Vollzug dem Pflichtigen billigerweise zugemutet werden kann.
 
@@ -156,13 +139,11 @@ Führt die Ersatzvornahme oder das Zwangsgeld nicht zum Ziel oder sind sie untun
 
 (7) Die Androhung ist zuzustellen. Dies gilt auch dann, wenn sie mit dem zugrunde liegenden Verwaltungsakt verbunden ist und für ihn keine Zustellung vorgeschrieben ist.
 
-
-## § 14 – Festsetzung der Zwangsmittel
+# § 14 – Festsetzung der Zwangsmittel
 
 Wird die Verpflichtung innerhalb der Frist, die in der Androhung bestimmt ist, nicht erfüllt, so setzt die Vollzugsbehörde das Zwangsmittel fest. Bei sofortigem Vollzug (§ 6 Abs. 2) fällt die Festsetzung weg.
 
-
-## § 15 – Anwendung der Zwangsmittel
+# § 15 – Anwendung der Zwangsmittel
 
 (1) Das Zwangsmittel wird der Festsetzung gemäß angewendet.
 
@@ -170,8 +151,7 @@ Wird die Verpflichtung innerhalb der Frist, die in der Androhung bestimmt ist, n
 
 (3) Der Vollzug ist einzustellen, sobald sein Zweck erreicht ist.
 
-
-## § 16 – Ersatzzwangshaft
+# § 16 – Ersatzzwangshaft
 
 (1) Ist das Zwangsgeld uneinbringlich, so kann das Verwaltungsgericht auf Antrag der Vollzugsbehörde nach Anhörung des Pflichtigen durch Beschluß Ersatzzwangshaft anordnen, wenn bei Androhung des Zwangsgeldes hierauf hingewiesen worden ist. Das Grundrecht des Artikels 2 Abs. 2 Satz 2 des Grundgesetzes wird insoweit eingeschränkt.
 
@@ -179,20 +159,17 @@ Wird die Verpflichtung innerhalb der Frist, die in der Androhung bestimmt ist, n
 
 (3) Die Ersatzzwangshaft ist auf Antrag der Vollzugsbehörde von der Justizverwaltung nach den Bestimmungen der §§ 802g, 802h und 802j Abs. 2 der Zivilprozeßordnung zu vollstrecken.
 
-
-## § 17 – Vollzug gegen Behörden
+# § 17 – Vollzug gegen Behörden
 
 Gegen Behörden und juristische Personen des öffentlichen Rechts sind Zwangsmittel unzulässig, soweit nicht etwas anderes bestimmt ist.
 
-
-## § 18 – Rechtsmittel
+# § 18 – Rechtsmittel
 
 (1) Gegen die Androhung eines Zwangsmittels sind die Rechtsmittel gegeben, die gegen den Verwaltungsakt zulässig sind, dessen Durchsetzung erzwungen werden soll. Ist die Androhung mit dem zugrunde liegenden Verwaltungsakt verbunden, so erstreckt sich das Rechtsmittel zugleich auf den Verwaltungsakt, soweit er nicht bereits Gegenstand eines Rechtsmittel- oder gerichtlichen Verfahrens ist. Ist die Androhung nicht mit dem zugrunde liegenden Verwaltungsakt verbunden und ist dieser unanfechtbar geworden, so kann die Androhung nur insoweit angefochten werden, als eine Rechtsverletzung durch die Androhung selbst behauptet wird.
 
 (2) Wird ein Zwangsmittel ohne vorausgehenden Verwaltungsakt angewendet (§ 6 Abs. 2), so sind hiergegen die Rechtsmittel zulässig, die gegen Verwaltungsakte allgemein gegeben sind.
 
-
-## § 19 – Kosten
+# § 19 – Kosten
 
 (1) Für Amtshandlungen nach diesem Gesetz werden Kosten (Gebühren und Auslagen) gemäß § 337 Abs. 1, §§ 338 bis 346 der Abgabenordnung erhoben. Für die Gewährung einer Entschädigung an Auskunftspflichtige, Sachverständige und Treuhänder gelten §§ 107 und 318 Abs. 5 der Abgabenordnung.
 
@@ -200,8 +177,7 @@ Gegen Behörden und juristische Personen des öffentlichen Rechts sind Zwangsmit
 
 (3) Soweit die Bundespolizei nach diesem Gesetz tätig wird, werden Gebühren und Auslagen nach dem Bundesgebührengesetz erhoben.
 
-
-## § 19a – Vollstreckungspauschale, Verordnungsermächtigung
+# § 19a – Vollstreckungspauschale, Verordnungsermächtigung
 
 (1) Bundesunmittelbare Körperschaften und Anstalten des öffentlichen Rechts, die den Vollstreckungsbehörden der Bundesfinanzverwaltung nach § 4 Buchstabe b Vollstreckungsanordnungen übermitteln, sind verpflichtet, für jede ab dem 1. Juli 2014 übermittelte Vollstreckungsanordnung einen Pauschalbetrag für bei den Vollstreckungsschuldnern uneinbringliche Gebühren und Auslagen (Vollstreckungspauschale) zu zahlen. Dies gilt nicht für Vollstreckungsanordnungen wegen Geldforderungen nach dem Bundeskindergeldgesetz.
 
@@ -213,15 +189,12 @@ Gegen Behörden und juristische Personen des öffentlichen Rechts sind Zwangsmit
 
 (5) Die juristischen Personen nach Absatz 1 sind nicht berechtigt, den Vollstreckungsschuldner mit der Vollstreckungspauschale zu belasten.
 
-
-## § 20 – Außerkrafttreten früherer Bestimmungen
+# § 20 – Außerkrafttreten früherer Bestimmungen
 
 Soweit die Vollstreckung in Bundesgesetzen abweichend von diesem Gesetz geregelt ist, sind für Bundesbehörden und bundesunmittelbare juristische Personen des öffentlichen Rechts die Bestimmungen dieses Gesetzes anzuwenden; § 1 Abs. 3 bleibt unberührt.
 
+# § 21 – (weggefallen)
 
-## § 21 – (weggefallen)
-
-
-## § 22 – Inkrafttreten
+# § 22 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Mai 1953 in Kraft.

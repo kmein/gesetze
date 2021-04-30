@@ -1,30 +1,23 @@
-# [ServicefahrerAusbV] Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin
-
-Ausfertigungsdatum: 22.03.2005
-
+% Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin
+% Ausfertigungsdatum: 22.03.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Servicefahrer/Servicefahrerin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert zwei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -93,23 +86,19 @@ Nachbereitung,
 7.2  
 Zahlungsvorgänge.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
@@ -123,8 +112,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -180,13 +168,11 @@ Dabei soll der Prüfling zeigen, dass er Arbeitsaufträge erfassen, Arbeitsschri
 
 (8) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis, im Prüfungsbereich Praktische Arbeitsaufgabe und in mindestens zwei der in Absatz 2 Nr. 1 bis 3 genannten Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Sachliche Gliederung -
+# Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 889 - 892)
 
@@ -621,8 +607,7 @@ Zahlungen abrechnen
   
 4.2 I Kundenorientierte I a) im Kundengespräch sprachliche und
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 893 - 894)
 
@@ -647,8 +632,7 @@ Leistungsangebot, Lernziele a bis c,
 4.1  
 Beratung und Verkauf, Lernziele a bis c,
 
-zu vermitteln.  
-(2) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (2) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 2.1  
 Arbeitsplanung, Lernziele a und b,
@@ -665,8 +649,7 @@ Kundenorientierte Kommunikation, Lernziele a und b,
 6.1  
 Tourenplanung
 
-zu vermitteln.  
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.3  
 Qualitätssicherung, Lernziele a und b,
@@ -704,8 +687,7 @@ zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Beru
 3.2  
 Leistungserbringung, Lernziel h,
 
-fortzuführen.  
-(2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+fortzuführen. (2) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.1  
 Berufsbildung, Arbeits- und Tarifrecht, Lernziele c bis e,
@@ -722,8 +704,7 @@ Nachbereitung,
 7.2  
 Zahlungsvorgänge
 
-zu vermitteln.  
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5. Umgang mit Arbeitsmitteln und Fahrzeugen, Lernziele c bis e,
 

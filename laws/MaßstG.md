@@ -1,22 +1,17 @@
-# [MaßstG] Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich sowie für die Gewährung von Bundesergänzungszuweisungen  (Maßstäbegesetz - MaßstG)
-
-Ausfertigungsdatum: 09.09.2001
-
+% Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich sowie für die Gewährung von Bundesergänzungszuweisungen  (Maßstäbegesetz - MaßstG)
+% Ausfertigungsdatum: 09.09.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Grundsätze der Maßstabsbildung
+# § 1 – Grundsätze der Maßstabsbildung
 
 (1) Dieses Gesetz benennt Maßstäbe für die Festsetzung der Anteile von Bund und Ländern an der Umsatzsteuer (vertikale Umsatzsteuerverteilung) nach Artikel 106 Absatz 3 Satz 4 und Absatz 4 Satz 1 des Grundgesetzes, für die Festsetzung der Anteile der einzelnen Länder an dem den Ländern insgesamt zustehenden Anteil an der Umsatzsteuer und für den Finanzkraftausgleich (horizontale Umsatzsteuerverteilung) nach Artikel 107 Absatz 1 Satz 4 und Absatz 2 Satz 1 bis 4 des Grundgesetzes sowie für die Gewährung von Zuweisungen nach Artikel 107 Absatz 2 Satz 5 und 6 des Grundgesetzes.
 
 (2) Die Maßstäbe konkretisieren die in Absatz 1 genannten Normen des Grundgesetzes. Die Anwendung der Maßstäbe stellt sicher, dass Bund und Länder die verfassungsrechtlich vorgegebenen Ausgangstatbestände in gleicher Weise interpretieren und ihnen dieselben Indikatoren zugrunde legen. Sie gewährleistet auch haushaltswirtschaftliche Planbarkeit und Voraussehbarkeit der finanzwirtschaftlichen Grundlagen sowie Transparenz der Mittelverteilung im Gesamtstaat.
 
-
-## § 2 – Bindungswirkung der Maßstäbe
+# § 2 – Bindungswirkung der Maßstäbe
 
 (1) Das Finanzausgleichsgesetz dient der Ableitung der konkreten jährlichen Zuteilungsfolgen im Regelungsbereich des § 1 Abs. 1.
 
@@ -24,13 +19,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) (weggefallen)
 
-
-## § 3 – Sicherung des Eigenbehalts
+# § 3 – Sicherung des Eigenbehalts
 
 Von Mehr- oder Mindereinnahmen gegenüber den länderdurchschnittlichen Einnahmen sowie von überdurchschnittlichen Mehreinnahmen oder unterdurchschnittlichen Mindereinnahmen je Einwohner gegenüber dem Vorjahr muss dem betreffenden Land ein Eigenbehalt verbleiben.
 
-
-## § 4 – Vertikale Umsatzsteuerverteilung
+# § 4 – Vertikale Umsatzsteuerverteilung
 
 (1) Die vertikale Umsatzsteuerverteilung zwischen Bund und Ländern wird auf der Grundlage des Deckungsquotenprinzips festgesetzt.
 
@@ -38,22 +31,19 @@ Von Mehr- oder Mindereinnahmen gegenüber den länderdurchschnittlichen Einnahme
 
 (3) (weggefallen)
 
-
-## § 5 – Grundsätze für die horizontale Umsatzsteuerverteilung
+# § 5 – Grundsätze für die horizontale Umsatzsteuerverteilung
 
 (1) Der Länderanteil am Aufkommen der Umsatzsteuer ist grundsätzlich so auf die Länder zu verteilen, dass auf jeden Einwohner der gleiche Anteil entfällt.
 
 (2) Abweichend hiervon ist durch einen angemessenen Ausgleich der Finanzkraft sicherzustellen, dass die unterschiedlichen Finanzkraftverhältnisse in den Ländern einander angenähert werden. Dabei sind die Eigenstaatlichkeit der Länder einerseits und ihre Einbindung in die bundesstaatliche Solidargemeinschaft andererseits zu berücksichtigen. Ländern mit unterdurchschnittlicher Finanzkraft werden Zuschläge gewährt, die ihre Finanzkraft erhöhen; von Ländern mit überdurchschnittlicher Finanzkraft werden Abschläge erhoben, die ihre Finanzkraft verringern.
 
-
-## § 6 – Finanzkraft
+# § 6 – Finanzkraft
 
 (1) Die Finanzkraft bemisst sich nach den ausgleichserheblichen Einnahmen. Grundsätzlich sind alle Einnahmen von Ländern und Gemeinden sowie Gemeindeverbänden zu berücksichtigen. Nicht ausgleichserheblich sind solche Einnahmen, deren Volumen unerheblich ist, die in allen Ländern verhältnismäßig je Einwohner gleich anfallen, die als Entgelte oder entgeltähnliche Abgaben lediglich Leistungen des Landes oder seiner Gemeinden und Gemeindeverbände ausgleichen oder bei denen der Aufwand für die Ermittlung der auszugleichenden Einnahmen zur möglichen Ausgleichswirkung außer Verhältnis steht.
 
 (2) Die ausgleichserheblichen Einnahmen nach Absatz 1 sind vorbehaltlich § 7 Absatz 4 und 5 in voller Höhe zu berücksichtigen.
 
-
-## § 7 – Vergleichbarkeit der Finanzkraft, Berücksichtigung des kommunalen Finanzbedarfs, Einwohnergewichtung und Förderabgabe
+# § 7 – Vergleichbarkeit der Finanzkraft, Berücksichtigung des kommunalen Finanzbedarfs, Einwohnergewichtung und Förderabgabe
 
 (1) Um die Finanzkraft der Länder vergleichbar zu machen, ist als abstraktes Bedarfskriterium die jeweilige Einwohnerzahl eines Landes zugrunde zu legen. Die Einwohnerzahl nach Satz 1 ist für Zwecke eines angemessenen Ausgleichs zu modifizieren, wenn strukturelle Eigenarten der Länder und ihrer Gemeinden abstrakte Mehrbedarfe begründen. Im Ansatz der abstrakten Mehrbedarfe findet auch der Finanzbedarf der Gemeinden und Gemeindeverbände Berücksichtigung.
 
@@ -65,13 +55,11 @@ Von Mehr- oder Mindereinnahmen gegenüber den länderdurchschnittlichen Einnahme
 
 (5) Die Einnahmen aus der bergrechtlichen Förderabgabe werden lediglich anteilig berücksichtigt.
 
-
-## § 8 – Ausgleichshöhe
+# § 8 – Ausgleichshöhe
 
 Der angemessene Ausgleich erfordert eine den ländereigenen Aufgaben entsprechende hinreichende Annäherung der Finanzkraft der Länder. Diese ist erreicht, wenn die Eigenstaatlichkeit der Länder und ihre Einbindung in die bundesstaatliche Solidargemeinschaft zugleich berücksichtigt sind. Auszuschließen sind sowohl eine entscheidende Schwächung der Leistungsfähigkeit der ausgleichspflichtigen Länder als auch eine Nivellierung der Finanzkraft der Länder. Der Finanzkraftausgleich darf weder die Finanzkraftabstände zwischen einzelnen Ländern aufheben, noch zu einer Verkehrung der Finanzkraftreihenfolge unter den Ländern führen und ist nicht durch die Verteilung des Länderanteils am Aufkommen der Umsatzsteuer nach § 5 Absatz 1 begrenzt.
 
-
-## § 9 – Funktion der Bundesergänzungszuweisungen
+# § 9 – Funktion der Bundesergänzungszuweisungen
 
 (1) Bundesergänzungszuweisungen dienen dem ergänzenden Ausgleich im Anschluss an den Finanzkraftausgleich. Die Vergabe von Bundesergänzungszuweisungen setzt eine Leistungsschwäche des Empfängerlandes voraus. Leistungsschwach sind grundsätzlich nur Länder, denen im Rahmen des Finanzkraftausgleichs Zuschläge gewährt werden. Die Leistungsschwäche ist anhand des Verhältnisses von Finanzaufkommen und Ausgabenlasten zu bestimmen.
 
@@ -79,15 +67,13 @@ Der angemessene Ausgleich erfordert eine den ländereigenen Aufgaben entsprechen
 
 (3) Bundesergänzungszuweisungen stellen eine nachrangige und ergänzende Korrektur des Finanzkraftausgleichs dar. Dem ist bei der Bemessung des Gesamtumfangs der Bundesergänzungszuweisungen Rechnung zu tragen. Dieser darf daher im Verhältnis zum Gesamtvolumen des Finanzkraftausgleichs nicht beträchtlich sein. Abweichungen von Satz 3 sind aus besonderen Gründen und vorübergehend zulässig.
 
-
-## § 10 – Allgemeine Bundesergänzungszuweisungen
+# § 10 – Allgemeine Bundesergänzungszuweisungen
 
 (1) Bei der Gewährung von allgemeinen Bundesergänzungszuweisungen bestimmt sich die Leistungsschwäche eines Landes danach, ob dessen Finanzkraft im Anschluss an den Finanzkraftausgleich nach dem bundesstaatlichen Prinzip des solidarischen Einstehens füreinander noch unangemessen im Verhältnis zur länderdurchschnittlichen Finanzkraft ist. Die Finanzkraft eines Landes ist unangemessen im Sinne des Satzes 1, wenn sie erkennbar unterhalb der länderdurchschnittlichen Finanzkraft liegt.
 
 (2) Eine Nivellierung der Finanzkraft der Länder durch allgemeine Bundesergänzungszuweisungen ist auszuschließen. § 8 Satz 4 gilt entsprechend.
 
-
-## § 11 – Zuweisungen nach Artikel 107 Absatz 2 Satz 6 des Grundgesetzes
+# § 11 – Zuweisungen nach Artikel 107 Absatz 2 Satz 6 des Grundgesetzes
 
 (1) Eine am Länderdurchschnitt je Einwohner gemessene kommunale Steuerkraftschwäche kann Bundesergänzungszuweisungen begründen, sofern diese Steuerkraftschwäche besonders ausgeprägt ist.
 
@@ -95,8 +81,7 @@ Der angemessene Ausgleich erfordert eine den ländereigenen Aufgaben entsprechen
 
 (3) Die Gewährung von Zuweisungen nach Artikel 107 Absatz 2 Satz 6 des Grundgesetzes darf die Finanzkraftabstände zwischen den einzelnen Ländern aufheben und auch zu einer Verkehrung der Finanzkraftreihenfolge unter den Ländern führen.
 
-
-## § 12 – Sonderbedarfs-Bundesergänzungszuweisungen
+# § 12 – Sonderbedarfs-Bundesergänzungszuweisungen
 
 (1) Die Gewährung von Sonderbedarfs-Bundesergänzungszuweisungen setzt voraus, dass die Sonderlasten benannt und begründet werden. Nur aus besonderen Gründen können Sonderlasten berücksichtigt werden. Sonderbedarfs-Bundesergänzungszuweisungen dienen nicht dazu, aktuelle Vorhaben zu finanzieren oder finanziellen Schwächen abzuhelfen, die eine unmittelbare und voraussehbare Folge von politischen Entscheidungen eines Landes bilden. Auch kurzfristige Finanzschwächen können Sonderbedarfs-Bundesergänzungszuweisungen nicht rechtfertigen. Die benannten und begründeten Sonderlasten müssen bei allen Ländern berücksichtigt werden, bei denen sie vorliegen.
 

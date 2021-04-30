@@ -1,10 +1,7 @@
-# [THAMNV] Verordnung über Nachweispflichten der Tierhalter für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind  (Tierhalter-Arzneimittelanwendungs- und Nachweisverordnung)
-
-Ausfertigungsdatum: 17.07.2015
-
+% Verordnung über Nachweispflichten der Tierhalter für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind  (Tierhalter-Arzneimittelanwendungs- und Nachweisverordnung)
+% Ausfertigungsdatum: 17.07.2015
  
-
-## § 1 – Nachweise über Erwerb und Anwendung durch den Tierhalter
+# § 1 – Nachweise über Erwerb und Anwendung durch den Tierhalter
 
 (1) Jeder, der Tiere hält, die der Gewinnung von Lebensmitteln dienen, hat über Erwerb und Anwendung der von ihm bezogenen, zur Anwendung bei diesen Tieren bestimmten und nicht für den Verkehr außerhalb der Apotheken freigegebenen Arzneimittel Nachweise nach Maßgabe des Absatzes 2 oder des Absatzes 3 zu führen. Die Nachweise sind in übersichtlicher und allgemein verständlicher Form zu führen, mindestens fünf Jahre vom Zeitpunkt ihrer Erstellung in dem Tierhaltungsbetrieb aufzubewahren, in dem die Tiere zum Zeitpunkt der Verabreichung des in Satz 1 genannten Tierarzneimittels jeweils gehalten worden sind, und der zuständigen Behörde auf Verlangen vorzulegen. Sie können auch als elektronisches Dokument geführt und aufbewahrt werden, sofern sichergestellt ist, dass die Daten während der Dauer der Aufbewahrung an dem in Satz 2 bezeichneten Ort verfügbar sind, jederzeit lesbar gemacht werden können und unveränderlich sind.
 
@@ -30,8 +27,7 @@ hat über den Erwerb verschreibungspflichtiger Arzneimittel, die für die Behand
 
 (5) Nachweise im Sinne des Absatzes 4 sind das Original der Verschreibung oder die tierärztliche Rechnung.
 
-
-## § 2 – Führung von Nachweisen über die Anwendung durch den Tierhalter
+# § 2 – Führung von Nachweisen über die Anwendung durch den Tierhalter
 
 Jeder, der Tiere hält, die der Gewinnung von Lebensmitteln dienen, hat jede durchgeführte Anwendung von Arzneimitteln, die nicht für den Verkehr außerhalb der Apotheken freigegeben sind, unverzüglich nach Maßgabe des Satzes 2 zu dokumentieren oder dokumentieren zu lassen. Die Dokumentation ist für jeden Bestand des Betriebes zu führen und hat folgende Angaben in übersichtlicher und allgemein verständlicher Form zu enthalten:
 
@@ -49,29 +45,25 @@ Jeder, der Tiere hält, die der Gewinnung von Lebensmitteln dienen, hat jede dur
 
 7. Name der Person, die das Arzneimittel angewendet hat.
 
-
-## § 3 – Führen von Nachweisen bei sonstigen Personen
+# § 3 – Führen von Nachweisen bei sonstigen Personen
 
 (1) Personen, die Arzneimittel berufs- oder gewerbsmäßig bei Tieren anwenden, ohne eine Zulassung zum tierärztlichen Beruf zu besitzen, haben über Erwerb und Verbleib der von ihnen bezogenen, zur Anwendung bei Tieren bestimmten Arzneimittel, die nicht für den Verkehr außerhalb der Apotheken freigegeben sind, Nachweise nach Maßgabe des Satzes 2 oder 3 zu führen. Nachweise im Sinne des Satzes 1 über den Erwerb sind die von einer Apotheke ausgestellten Rechnungen oder Lieferscheine, aus denen sich Art und Menge und Erwerbsdatum der Arzneimittel ergeben müssen. Nachweise nach Satz 1 über den Verbleib sind Aufzeichnungen über Art und Menge der angewendeten Arzneimittel sowie Name und Anschrift der tierhaltenden Person, bei deren Tieren sie die Arzneimittel angewendet haben. Die Nachweise sind in den Fällen des Satzes 2 vom Zeitpunkt ihres Erhalts, in den Fällen des Satzes 3 vom Zeitpunkt ihrer Erstellung an mindestens fünf Jahre, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 (2) Absatz 1 gilt nicht für Personen, die Arzneimittel lediglich zur Anwendung bei den von ihnen gehaltenen Tieren erwerben und der Nachweispflicht nach § 1 Absatz 4 unterliegen.
 
-
-## § 4 – Anlagen für die orale Anwendung von bestimmten Arzneimitteln bei Tieren, die der Gewinnung von Lebensmitteln dienen
+# § 4 – Anlagen für die orale Anwendung von bestimmten Arzneimitteln bei Tieren, die der Gewinnung von Lebensmitteln dienen
 
 (1) Tierhalter dürfen Fertigarzneimittel, die antimikrobielle Stoffe enthalten und die zur oralen Anwendung über das Futter oder das Wasser bei Tieren, die der Gewinnung von Lebensmitteln dienen, bestimmt sind, nur anwenden, wenn die Einrichtungen zur Dosierung und Anwendungen dieser Arzneimittel dem jeweiligen Stand der Technik entsprechen.
 
 (2) Dosiergeräte für die in Absatz 1 genannten Arzneimittel müssen so nah wie möglich vor der zu behandelnden Tiergruppe installiert sein.
 
-
-## § 5 – Anwendung von bestimmten Arzneimitteln zur oralen Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen
+# § 5 – Anwendung von bestimmten Arzneimitteln zur oralen Anwendung bei Tieren, die der Gewinnung von Lebensmitteln dienen
 
 (1) Tierhalter haben durch geeignete Maßnahmen sicherzustellen, dass die in § 4 Absatz 1 genannten Arzneimittel nur bei den zu behandelnden Tieren angewendet werden.
 
 (2) Nach Beendigung der Anwendung der in § 4 Absatz 1 genannten Arzneimittel muss eine Reinigung der verwendeten Anlagen nach § 4 Absatz 1 und 2 erfolgen.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 97 Absatz 2 Nummer 31 des Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 

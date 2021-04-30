@@ -1,10 +1,7 @@
-# [WWSUVtrAnl I] Bestimmungen über die Währungsunion und über die Währungsumstellung (Anlage I zu dem Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)
-
-Ausfertigungsdatum: 18.05.1990
-
+% Bestimmungen über die Währungsunion und über die Währungsumstellung (Anlage I zu dem Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)
+% Ausfertigungsdatum: 18.05.1990
  
-
-## § 1
+# § 1
 
 (1) Vorbehaltlich der Regelungen in den Absätzen 2 und 3 werden alle auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten und Forderungen, die vor dem 1. Juli 1990 begründet wurden oder die nach den vor dem Inkrafttreten dieser Bestimmungen in Geltung gewesenen Vorschriften in Mark der Deutschen Demokratischen Republik zu erfüllen gewesen wären, mit der Wirkung auf Deutsche Mark umgestellt, daß der Schuldner an den Gläubiger für 2 Mark der Deutschen Demokratischen Republik 1 Deutsche Mark zu zahlen hat.
 
@@ -18,15 +15,13 @@ Ausfertigungsdatum: 18.05.1990
 
 (3) Für auf Mark der Deutschen Demokratischen Republik lautende Forderungen der in Artikel 5 Absatz 3 und 4 genannten Personen oder Stellen aus Guthaben bei Geldinstituten gilt Artikel 6 dieser Anlage.
 
-
-## § 2
+# § 2
 
 (1) Eine vor dem 1. Juli 1990 begründete Verbindlichkeit verliert nicht dadurch die Eigenschaft einer auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeit, daß der Gläubiger die Rechnung für die von ihm vor diesem Zeitpunkt bewirkte Gegenleistung erst nach dem 30. Juni 1990 vorlegt.
 
 (2) Am 30. Juni 1990 noch nicht vollständig abgewickelte Zahlungsvorgänge zwischen zwei Konten bei Geldinstituten sind auf beiden Konten auch nach dem 30. Juni 1990 zunächst in Mark der Deutschen Demokratischen Republik zu verbuchen und in die Berechnung des Guthabens einzubeziehen, für das die Umstellung beantragt wurde.
 
-
-## § 3
+# § 3
 
 (1) Die Deutsche Demokratische Republik wird innerhalb von drei Monaten nach Inkrafttreten dieses Vertrags ein Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung erlassen, das für alle Kaufleute und juristische Personen einschließlich der Kombinate, Kombinatsbetriebe und volkseigenen Betriebe mit Sitz in der Deutschen Demokratischen Republik gilt.
 
@@ -44,20 +39,17 @@ e) Regelungen über Ausgleichsposten oder sonstige Bilanzierungshilfen zur Verme
 
 f) Grund und Boden sind zum aktuellen Verkehrswert zu bewerten.
 
-
-## § 1
+# § 1
 
 Für die Umstellung von auf Mark der Deutschen Demokratischen Republik lautenden Verbindlichkeiten und Forderungen von Geldinstituten mit Sitz in der Deutschen Demokratischen Republik einschließlich Forderungen aus Guthaben bei anderen Geldinstituten in der Deutschen Demokratischen Republik gelten Artikel 7 § 1 und § 2 dieser Anlage.
 
-
-## § 2
+# § 2
 
 (1) Die in § 1 bezeichneten Geldinstitute - ausgenommen die Staatsbank der Deutschen Demokratischen Republik - sind verpflichtet, die im Zusammenhang mit der Einführung der Währung der Deutschen Mark und der Währungsumstellung entgegengenommenen sowie die in ihrem Kassenbestand befindlichen, auf Mark der Deutschen Demokratischen Republik lautenden Banknoten und Münzen auf ihr Konto bei der Staatsbank der Deutschen Demokratischen Republik einzuzahlen.
 
 (2) Die in Absatz 1 bezeichneten Geldinstitute erhalten vorbehaltlich einer besonderen Regelung gemäß § 3 Absatz 5 eine Gutschrift durch die Staatsbank der Deutschen Demokratischen Republik. Die hierdurch entstehenden Guthaben werden ebenfalls in der Weise umgestellt, daß für 2 Mark der Deutschen Demokratischen Republik 1 Deutsche Mark gutgeschrieben wird.
 
-
-## § 3
+# § 3
 
 (1) Die in Mark der Deutschen Demokratischen Republik geführten Bücher der Geldinstitute sind auf den 30. Juni 1990 durch eine Markschlußbilanz nebst Gewinn- und Verlustrechnung abzuschließen.
 
@@ -69,8 +61,7 @@ Für die Umstellung von auf Mark der Deutschen Demokratischen Republik lautenden
 
 (5) Für die Berücksichtigung der Kassenbestände der Geldinstitute an auf Mark der Deutschen Demokratischen Republik lautenden Banknoten und Münzen in der Umstellungsrechnung gelten die von der Deutschen Bundesbank zu erlassenden Regelungen und Anordnungen.
 
-
-## § 4
+# § 4
 
 (1) Den Geldinstituten und den Außenhandelsbetrieben wird, soweit ihre Vermögenswerte in Anwendung der Bewertungsvorschriften des Dritten Buches des Handelsgesetzbuches zur Deckung der aus der Einführung der Währung der Deutschen Mark und der Währungsumstellung in der Deutschen Demokratischen Republik hervorgehenden Verbindlichkeiten nicht ausreichen, beginnend mit dem 1. Juli 1990 eine verzinsliche Forderung gegen den Ausgleichsfonds zugeteilt. Die Zinsen sind vierteljährlich nachträglich fällig. Der jeweilige Zinssatz entspricht dem Angebotssatz für Einlagen in Deutscher Mark unter Banken für einen der Zinsperiode entsprechenden Zeitraum in Frankfurt (3-Monats-FIBOR)\*).
 
@@ -82,8 +73,7 @@ Für die Umstellung von auf Mark der Deutschen Demokratischen Republik lautenden
 
 (5) Soweit die Vermögenswerte eines Geldinstituts die aus der Einführung der Währung der Deutschen Mark und der Währungsumstellung in der Deutschen Demokratischen Republik hervorgehenden Verbindlichkeiten sowie das Eigenkapital gemäß Absatz 2 überschreiten, wird dem Ausgleichsfonds gegen dieses eine gemäß Absatz 1 verzinsliche Forderung zugeteilt. Soweit die Vermögenswerte eines Außenhandelsbetriebes die aus der Einführung der Währung der Deutschen Mark und der Währungsumstellung in der Deutschen Demokratischen Republik hervorgehenden Verbindlichkeiten überschreiten, wird dem Ausgleichsfonds gegen diesen eine gemäß Absatz 1 verzinsliche Forderung zugeteilt. Absätze 2 bis 4 gelten entsprechend.
 
-(6) Soweit die dem Ausgleichsfonds gemäß Absatz 5 zugeteilten Forderungen nicht zur Deckung seiner Verbindlichkeiten gemäß Absatz 1 ausreichen, wird ihm eine gemäß Absatz 1 verzinsliche Forderung gegen die Deutsche Demokratische Republik in entsprechender Höhe zugeteilt. Absätze 3 und 4 gelten entsprechend.  
------
+(6) Soweit die dem Ausgleichsfonds gemäß Absatz 5 zugeteilten Forderungen nicht zur Deckung seiner Verbindlichkeiten gemäß Absatz 1 ausreichen, wird ihm eine gemäß Absatz 1 verzinsliche Forderung gegen die Deutsche Demokratische Republik in entsprechender Höhe zugeteilt. Absätze 3 und 4 gelten entsprechend. -----
 
 \*)
 
@@ -92,12 +82,10 @@ Der Zinssatz wird am zweiten Geschäftstag in Frankfurt am Main vor dem Beginn e
 (+++ Art. 8 § 4 Abs. 1 Satz 3: Ist gem. Art. 9 G v. 24.6.1991 I 1314 mWv 1.7.1991 mit folgender Maßgabe anzuwenden:  
 Für die Verzinsung der Ausgleichsforderungen gilt der am zweiten Geschäftstag vor dem Beginn einer Zinsperiode in Frankfurt am Main von Telerate im FIBOR-Fixing ermittelte und auf der Telerate Bildschirmseite 22.000 veröffentlichte Satz. Im Falle höherer Gewalt, die eine Eingabe und Ermittlung über Telerate ausschließt, werden die Quotierungen an die Deutsche Bundesbank gemeldet, die für eine entsprechend zeitnahe Veröffentlichung sorgt. (siehe: HBeglG 1991 Art. 9) +++)
 
-
-## § 5
+# § 5
 
 Die zuständige Stelle der Bundesrepublik Deutschland kann nach Anhörung der Deutschen Bundesbank durch Rechtsverordnung das Nähere über die Aufstellung, Prüfung und Bestätigung der Umstellungsrechnung sowie über das Verfahren der Zuteilung und des Erwerbs der Ausgleichsforderungen regeln.
 
-
-## § 6
+# § 6
 
 Vor einer Bestätigung der Umstellungsrechnung sind Beschlüsse und Anordnungen über eine Gewinnverwendung nichtig.

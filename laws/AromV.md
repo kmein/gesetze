@@ -1,22 +1,17 @@
-# [AromV] Aromenverordnung
-
-Ausfertigungsdatum: 22.12.1981
-
+% Aromenverordnung
+% Ausfertigungsdatum: 22.12.1981
  
-
-## § 1 – Begriffsbestimmung
+# § 1 – Begriffsbestimmung
 
 (1) Aromen im Sinne dieser Verordnung sind Erzeugnisse gemäß Artikel 3 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34, L 105 vom 27.4.2010, S. 115).
 
 (2) Als Aromen im Sinne dieser Verordnung gelten nicht Erzeugnisse gemäß Artikel 2 Absatz 2 der Verordnung (EG) Nr. 1334/2008.
 
-
-## § 2 – Verbote und Beschränkungen
+# § 2 – Verbote und Beschränkungen
 
 Verzehrfertige Lebensmittel, die Chinin enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn dessen Gehalt die in Anlage 4 festgesetzten Höchstmengen nicht überschreitet.
 
-
-## § 3 – Zusatzstoffe
+# § 3 – Zusatzstoffe
 
 (1) Als Zusatzstoffe werden zugelassen
 
@@ -36,28 +31,23 @@ Verzehrfertige Lebensmittel, die Chinin enthalten, dürfen gewerbsmäßig nur in
 
 (4) Zum Räuchern von Malz für die Whiskyherstellung wird frisch entwickelter Rauch aus Torf zugelassen.
 
-
-## § 4 – Hinweise auf natürliche Herkunft
+# § 4 – Hinweise auf natürliche Herkunft
 
 Aromen, die zur Abgabe an Verbraucherinnen und Verbraucher im Sinne des § 3 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches bestimmt sind, und in deren Verkehrsbezeichnung der Begriff „natürlich“ verwendet wird, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn der Begriff „natürlich“ im Einklang mit Artikel 17 Absatz 2 in Verbindung mit Artikel 16 der Verordnung (EG) Nr. 1334/2008 verwendet wird.
 
-
-## §§ 4a u. 4b – (weggefallen)
+# §§ 4a u. 4b – (weggefallen)
 
 \-
 
-
-## § 5 – Verkehrsverbot
+# § 5 – Verkehrsverbot
 
 Aromen und alkoholfreie Erfrischungsgetränke, die Chinin oder dessen Salze enthalten, dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn sie durch die Angabe "chininhaltig" kenntlich gemacht sind. Satz 1 gilt nicht für alkoholfreie Erfrischungsgetränke, die zu kennzeichnen sind nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
 
-
-## § 5a – (weggefallen)
+# § 5a – (weggefallen)
 
 \-
 
-
-## § 6 – Straftaten und Ordnungswidrigkeiten
+# § 6 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig
 
@@ -83,25 +73,21 @@ Aromen und alkoholfreie Erfrischungsgetränke, die Chinin oder dessen Salze enth
 
 (7) (weggefallen)
 
-
-## § 7 – Übergangsvorschrift
+# § 7 – Übergangsvorschrift
 
 (1) Bis zum 27. Januar 2006 dürfen Aromen und andere Lebensmittel nach den bis zum 25. Januar 2005 geltenden Vorschriften gekennzeichnet oder in den Verkehr gebracht und danach noch bis zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
 (2) Bis zum Ablauf des 14. August 2008 dürfen Aromen und andere Lebensmittel nach den bis zum 14. Februar 2008 geltenden Vorschriften gekennzeichnet oder in den Verkehr gebracht werden und danach noch bis zum Abbau der Vorräte weiter in den Verkehr gebracht werden.
 
-
-## Anlage 1 bis 3 – (weggefallen)
+# Anlage 1 bis 3 – (weggefallen)
 
 \-
 
-
-## Anlage 4 – (zu § 2)Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
+# Anlage 4 – (zu § 2)Höchstmengen an bestimmten Stoffen in verzehrfertigen aromatisierten Lebensmitteln
 
 (Fundstelle: BGBl. I 2011, 1997)
 
-
-## Anlage 5 – (zu § 3) Zusatzstoffe
+# Anlage 5 – (zu § 3) Zusatzstoffe
 
 (Fundstelle: BGBl. I 2006, 1135 - 1137  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -440,8 +426,7 @@ Ethylmaltol
 \*)  
 qs = quantum satis im Sinne des § 7 Abs. 2 der Zusatzstoff-Zulassungsverordnung.
 
-
-## Anlage 6 – (zu § 3 Abs. 1 Nr. 1)
+# Anlage 6 – (zu § 3 Abs. 1 Nr. 1)
 
 (Fundstelle: BGBl. I 2006, 1137;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

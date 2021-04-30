@@ -1,19 +1,14 @@
-# [BKOrgErl 1977] Organisationserlaß des Bundeskanzlers
-
-Ausfertigungsdatum: 18.01.1977
-
+% Organisationserlaß des Bundeskanzlers
+% Ausfertigungsdatum: 18.01.1977
  
-
-## I.
+# I.
 
 Aus dem Geschäftsbereich des Bundesministers für Jugend, Familie und Gesundheit werden dem Bundesminister für Arbeit und Sozialordnung die Zuständigkeiten für folgende Bereiche übertragen:  
 - Krankenhäuser sowie Technik in Medizin und Krankenhaus,  
 - Gebührenrecht für Ärzte und übrige Gesundheitsberufe,  
-- medizinische Rehabilitation.  
-Die Einzelheiten des Übergangs werden zwischen den beteiligten Bundesministern geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
+- medizinische Rehabilitation. Die Einzelheiten des Übergangs werden zwischen den beteiligten Bundesministern geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
-
-## II.
+# II.
 
 1. Das Presse- und Informationsamt der Bundesregierung unter der Leitung eines Staatssekretärs untersteht dem Bundeskanzler unmittelbar. Als Hauptstelle der Bundesregierung für den Verkehr mit den Nachrichtenträgern und den Organen der öffentlichen Meinungsbildung hat es folgende Aufgaben:
 

@@ -1,10 +1,7 @@
-# [VerdOrdenErl] Erlaß über die Stiftung des "Verdienstordens der Bundesrepublik Deutschland"
-
-Ausfertigungsdatum: 07.09.1951
-
+% Erlaß über die Stiftung des "Verdienstordens der Bundesrepublik Deutschland"
+% Ausfertigungsdatum: 07.09.1951
  
-
-## ----
+# ----
 
 (1) In dem Wunsche, verdienten Männern und Frauen des deutschen Volkes und des Auslandes Anerkennung und Dank sichtbar zum Ausdruck zu bringen, stifte ich am 2. Jahrestag der Bundesrepublik Deutschland den  
 "Verdienstorden der Bundesrepublik Deutschland".
@@ -13,8 +10,7 @@ Ausfertigungsdatum: 07.09.1951
 
 (3) Die Einzelheiten der Gestaltung, der Einteilung und der Verleihung des Verdienstordens werden in einem Statut festgelegt.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundespräsident  
 Der Bundeskanzler  

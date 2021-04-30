@@ -1,15 +1,11 @@
-# [KerIndAusbV] Verordnung über die Berufsausbildung in der keramischen Industrie
-
-Ausfertigungsdatum: 03.06.2005
-
+% Verordnung über die Berufsausbildung in der keramischen Industrie
+% Ausfertigungsdatum: 03.06.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -181,8 +177,7 @@ Anlage 4:
 
 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -196,13 +191,11 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung gliedert sich in:
 
@@ -212,8 +205,7 @@ Die Ausbildung dauert drei Jahre.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15, 20, 21, 26 und 27 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -255,40 +247,33 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 19. Instandhalten von Produktionseinrichtungen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 1 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
-Umrüsten und Bedienen einer Maschine zur Aufbereitung oder zum Pressen.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Roh-, Hilfs- und Werkstoffe prüfen, Maschinen in Betrieb nehmen und überwachen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
+Umrüsten und Bedienen einer Maschine zur Aufbereitung oder zum Pressen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Roh-, Hilfs- und Werkstoffe prüfen, Maschinen in Betrieb nehmen und überwachen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens acht Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen. Für die praktische Arbeitsaufgabe kommt insbesondere in Betracht:  
-Einrichten, Umrüsten und Instandhalten von Anlagen zur Formgebung oder zur Endbearbeitung sowie Bedienen und Überwachen von Trocknungs- oder Brennanlagen.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- und Werkstoffe einsetzen, keramische Berechnungen durchführen, technische Unterlagen anwenden, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren und beurteilen, Fertigungsfehler feststellen, Störungen erkennen, beseitigen und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
+Einrichten, Umrüsten und Instandhalten von Anlagen zur Formgebung oder zur Endbearbeitung sowie Bedienen und Überwachen von Trocknungs- oder Brennanlagen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, keramische Roh-, Hilfs- und Werkstoffe einsetzen, keramische Berechnungen durchführen, technische Unterlagen anwenden, Prüfverfahren anwenden, Arbeitsergebnisse kontrollieren und beurteilen, Fertigungsfehler feststellen, Störungen erkennen, beseitigen und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Anlagentechnik, Technische Kommunikation und Qualitätssicherung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Anlagentechnik sowie Technische Kommunikation und Qualitätssicherung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen, mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei soll der Prüfling zeigen, dass er Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen kann.
 
@@ -341,8 +326,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Anlagentechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Ausbildungsberufsbild
+# § 10 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -380,40 +364,33 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 17. Ausführen von Buntdruckdekorationen.
 
-
-## § 11 – Ausbildungsrahmenplan
+# § 11 – Ausbildungsrahmenplan
 
 Die in § 10 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 12 – Ausbildungsplan
+# § 12 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 13 – Schriftlicher Ausbildungsnachweis
+# § 13 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 14 – Zwischenprüfung
+# § 14 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
-Dekorieren eines keramischen Produktes durch Linien- und Flächendekore aus Grundformen.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Farben und Hilfsstoffe auswählen, Farben aufbereiten, Malereien ausführen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
+Dekorieren eines keramischen Produktes durch Linien- und Flächendekore aus Grundformen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Farben und Hilfsstoffe auswählen, Farben aufbereiten, Malereien ausführen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
-
-## § 15 – Abschlussprüfung
+# § 15 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 14 Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen. Für die praktische Arbeitsaufgabe kommt insbesondere in Betracht:  
-Dekorieren eines keramischen Produktes durch kombinierte Formen.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, Farben und Hilfsstoffe auswählen, Farben aufbereiten, Malereien und Spritztechniken ausführen, Schriften handmalen, technische Unterlagen anwenden, Arbeitsergebnisse kontrollieren und beurteilen, Fertigungsfehler feststellen und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
+Dekorieren eines keramischen Produktes durch kombinierte Formen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbstständig und kundenorientiert planen und durchführen, Arbeitszusammenhänge erkennen, Farben und Hilfsstoffe auswählen, Farben aufbereiten, Malereien und Spritztechniken ausführen, Schriften handmalen, technische Unterlagen anwenden, Arbeitsergebnisse kontrollieren und beurteilen, Fertigungsfehler feststellen und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Dekorationstechnik, Dekorgestaltung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Dekorationstechnik und Dekorgestaltung soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen, mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen kann.
 
@@ -466,8 +443,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Dekorationstechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 16 – Ausbildungsberufsbild
+# § 16 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -507,34 +483,28 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 18. Trocknen und Lagern.
 
-
-## § 17 – Ausbildungsrahmenplan
+# § 17 – Ausbildungsrahmenplan
 
 Die in § 16 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 3 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 18 – Ausbildungsplan
+# § 18 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 19 – Schriftlicher Ausbildungsnachweis
+# § 19 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 20 – Zwischenprüfung
+# § 20 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 3 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
-Herstellen eines Werkstückes aus Gips nach Vorlage.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte bedienen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
+Herstellen eines Werkstückes aus Gips nach Vorlage. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte bedienen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
-
-## § 21 – Abschlussprüfung
+# § 21 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -592,8 +562,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 22 – Ausbildungsberufsbild
+# § 22 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -633,34 +602,28 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 18. Sortieren und Nachbearbeiten.
 
-
-## § 23 – Ausbildungsrahmenplan
+# § 23 – Ausbildungsrahmenplan
 
 Die in § 22 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 24 – Ausbildungsplan
+# § 24 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 25 – Schriftlicher Ausbildungsnachweis
+# § 25 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 26 – Zwischenprüfung
+# § 26 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 4 für die ersten 18 Monate aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in höchstens sieben Stunden eine praktische Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
-Herstellen eines keramischen Produktes durch ein Formgebungsverfahren.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte bedienen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
+Herstellen eines keramischen Produktes durch ein Formgebungsverfahren. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, keramische Roh-, Hilfs- und Werkstoffe prüfen, Maschinen oder Arbeitsgeräte bedienen, Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes, der Wirtschaftlichkeit und der Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Sachverhalte darstellen und die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen kann.
 
-
-## § 27 – Abschlussprüfung
+# § 27 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 4 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -722,18 +685,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Fertigungstechnik mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 28 – Fortsetzung der Berufsausbildung
+# § 28 – Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 29 – Inkrafttreten, Außerkrafttreten
+# § 29 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Anlagentechnik/zur Industriekeramikerin Anlagentechnik
+# Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Anlagentechnik/zur Industriekeramikerin Anlagentechnik
 
 (Fundstelle: BGBl. I 2005, 1550 - 1553)
 
@@ -1269,8 +1229,7 @@ e)
 
 Wartungsarbeiten dokumentieren, Mängelliste erstellen
 
-
-## Anlage 2 – (zu § 11)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
+# Anlage 2 – (zu § 11)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
 
 (Fundstelle: BGBl. I 2005, 1554 - 1557)
 
@@ -1774,8 +1733,7 @@ d)
 
 Maßnahmen zur Fehlerbeseitigung ergreifen
 
-
-## Anlage 3 – (zu § 17)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Modelltechnik/zur Industriekeramikerin Modelltechnik
+# Anlage 3 – (zu § 17)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Modelltechnik/zur Industriekeramikerin Modelltechnik
 
 (Fundstelle: BGBl. I 2005, 1558 - 1561)
 
@@ -2323,8 +2281,7 @@ d)
 
 Modelle, Einrichtungen und Verfahren optimieren
 
-
-## Anlage 4 – (zu § 23)Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
+# Anlage 4 – (zu § 23)Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
 
 (Fundstelle: BGBl. I 2005, 1562 - 1565)
 

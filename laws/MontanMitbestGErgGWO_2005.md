@@ -1,10 +1,7 @@
-# [MontanMitbestGErgGWO 2005] Wahlordnung zum Mitbestimmungsergänzungsgesetz
-
-Ausfertigungsdatum: 10.10.2005
-
+% Wahlordnung zum Mitbestimmungsergänzungsgesetz
+% Ausfertigungsdatum: 10.10.2005
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 Teil 1
 
@@ -2178,8 +2175,7 @@ Berechnung von Fristen
 
 Übergangsregelung
 
-
-## § 1 – Bekanntmachung der Unternehmen
+# § 1 – Bekanntmachung der Unternehmen
 
 (1) Das herrschende Unternehmen teilt spätestens 25 Wochen vor dem voraussichtlichen Beginn der Amtszeit der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer den anderen Konzernunternehmen schriftlich mit, dass Aufsichtsratsmitglieder der Arbeitnehmer zu wählen sind. In der Mitteilung ist ferner anzugeben:
 
@@ -2209,8 +2205,7 @@ Berechnung von Fristen
 
 Nehmen in einem Konzernunternehmen die Arbeitnehmer (Arbeitnehmerinnen und Arbeitnehmer) nach dieser Verordnung an der Wahl von Mitgliedern der Aufsichtsräte mehrerer Unternehmen teil und beginnen die Amtszeiten dieser Aufsichtsratsmitglieder innerhalb eines Zeitraums von höchstens zwölf Monaten, so teilt dieses Unternehmen dies unverzüglich nach der Bekanntmachung nach Absatz 2 den in Satz 1 Nr. 2, 3 und 5 bezeichneten Arbeitnehmervertretungen mit.
 
-
-## § 2 – Wahlvorstände
+# § 2 – Wahlvorstände
 
 (1) Die rechtzeitige Einleitung und die Durchführung der Wahl sowie die Feststellung des Wahlergebnisses obliegen dem Hauptwahlvorstand.
 
@@ -2218,8 +2213,7 @@ Nehmen in einem Konzernunternehmen die Arbeitnehmer (Arbeitnehmerinnen und Arbei
 
 (3) Die Wahlvorstände werden unverzüglich nach der in § 1 bezeichneten Bekanntmachung gebildet. Die Geschlechter sollen entsprechend ihrem zahlenmäßigen Verhältnis vertreten sein.
 
-
-## § 3 – Zusammensetzung des Hauptwahlvorstands
+# § 3 – Zusammensetzung des Hauptwahlvorstands
 
 (1) Der Hauptwahlvorstand besteht aus drei Mitgliedern. Die Arbeitnehmervertretungen, die nach Absatz 3 Mitglieder des Hauptwahlvorstands bestellen, können die Zahl der Mitglieder erhöhen, wenn dies zur ordnungsgemäßen Durchführung der Wahl erforderlich ist. Der Hauptwahlvorstand muss aus einer ungeraden Zahl von Mitgliedern bestehen. Mitglieder des Hauptwahlvorstands können nur Wahlberechtigte von Konzernunternehmen sein.
 
@@ -2235,8 +2229,7 @@ Nehmen in einem Konzernunternehmen die Arbeitnehmer (Arbeitnehmerinnen und Arbei
 
 Besteht auch eine nach § 117 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes durch Tarifvertrag errichtete Vertretung für im Flugbetrieb beschäftigte Arbeitnehmer, so erfolgt die Bestellung gemeinsam mit dieser Vertretung.
 
-
-## § 4 – Zusammensetzung des Betriebswahlvorstands
+# § 4 – Zusammensetzung des Betriebswahlvorstands
 
 (1) Der Betriebswahlvorstand besteht aus drei Mitgliedern. Der Betriebsrat kann die Zahl der Mitglieder erhöhen, wenn dies zur ordnungsgemäßen Durchführung der Wahl erforderlich ist. Der Betriebswahlvorstand muss aus einer ungeraden Zahl von Mitgliedern bestehen. Mitglieder des Betriebswahlvorstands können nur Wahlberechtigte des Betriebs sein.
 
@@ -2250,15 +2243,13 @@ Besteht auch eine nach § 117 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes durc
 
 2. den Zeitpunkt, bis zu dem die Wahlbriefe beim Betriebswahlvorstand eingegangen sein müssen.
 
-
-## § 5 – Mitteilungspflicht
+# § 5 – Mitteilungspflicht
 
 (1) Der Hauptwahlvorstand teilt unverzüglich nach seiner Bildung den Konzernunternehmen, den Betriebswahlvorständen und den im Unternehmen vertretenen Gewerkschaften schriftlich die Namen seiner Mitglieder und seine Anschrift mit. Gleichzeitig teilt er den Betriebswahlvorständen mit, welche Gewerkschaften die Mitteilung erhalten haben.
 
 (2) Jeder Betriebswahlvorstand teilt unverzüglich nach seiner Bildung dem Hauptwahlvorstand schriftlich die Namen seiner Mitglieder und seine Anschrift mit. Gleichzeitig teilt er dem Hauptwahlvorstand mit, ob im Betrieb Gewerkschaften vertreten sind, die die Mitteilung nach Absatz 1 nicht erhalten haben.
 
-
-## § 6 – Geschäftsführung der Wahlvorstände
+# § 6 – Geschäftsführung der Wahlvorstände
 
 (1) Jeder Wahlvorstand wählt aus seiner Mitte einen Vorsitzenden und mindestens einen Stellvertreter.
 
@@ -2272,8 +2263,7 @@ Besteht auch eine nach § 117 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes durc
 
 (6) Die Wahlvorstände sollen dafür sorgen, dass ausländische Arbeitnehmer, die der deutschen Sprache nicht mächtig sind, rechtzeitig über den Anlass der Wahl, das Wahlverfahren, die Abstimmungen, die Aufstellung der Wählerliste und der Wahlvorschläge, den Wahlvorgang und die Stimmabgabe in geeigneter Weise unterrichtet werden.
 
-
-## § 7 – Wählerliste
+# § 7 – Wählerliste
 
 (1) Der Betriebswahlvorstand stellt unverzüglich nach seiner Bildung eine Liste der Wahlberechtigten des Betriebs (Wählerliste) auf. Die Wahlberechtigten sollen in alphabetischer Reihenfolge mit Familienname, Vorname und Geburtsdatum aufgeführt werden. Das Aufstellen der Wählerliste kann durch Einsatz der im Betrieb vorhandenen Informations- und Kommunikationstechnik erfolgen, wenn Vorkehrungen getroffen sind, damit nur der Wahlvorstand Änderungen in der Wählerliste vornehmen kann.
 
@@ -2289,8 +2279,7 @@ wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung in d
 
 (4) An Wahlen und Abstimmungen können nur Arbeitnehmer teilnehmen, die in der Wählerliste eingetragen sind.
 
-
-## § 8 – Bekanntmachung über die Bildung der Wahlvorstände und die Wählerliste
+# § 8 – Bekanntmachung über die Bildung der Wahlvorstände und die Wählerliste
 
 (1) Die Einsichtnahme in die Wählerliste, das Gesetz und diese Verordnung ist unverzüglich bis zum Abschluss der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer zu ermöglichen. Die zur Einsichtnahme bestimmte Wählerliste soll die Geburtsdaten der Wahlberechtigten nicht enthalten. Die Einsichtnahme kann durch Auslegung an geeigneter Stelle im Betrieb und durch Einsatz der im Betrieb vorhandenen Informations- und Kommunikationstechnik ermöglicht werden.
 
@@ -2306,22 +2295,19 @@ wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung in d
 
 5. dass an Wahlen und Abstimmungen nur Arbeitnehmer teilnehmen können, die in der Wählerliste eingetragen sind.
 
-
-## § 9 – Übersendung der Wählerliste
+# § 9 – Übersendung der Wählerliste
 
 (1) Der Betriebswahlvorstand übersendet dem Hauptwahlvorstand unverzüglich eine Kopie der Wählerliste und teilt ihm die Zahl der in der Regel im Betrieb beschäftigten Arbeitnehmer mit.
 
 (2) Der Betriebswahlvorstand teilt Berichtigungen und Ergänzungen der Wählerliste dem Hauptwahlvorstand unverzüglich mit.
 
-
-## § 10 – Einsprüche gegen die Richtigkeit der Wählerliste
+# § 10 – Einsprüche gegen die Richtigkeit der Wählerliste
 
 (1) Gegen die Richtigkeit der Wählerliste kann Einspruch eingelegt werden. Einsprüche gegen die Richtigkeit der Wählerliste können nur innerhalb von einer Woche seit Erlass der Bekanntmachung nach § 8 Abs. 2 schriftlich beim Betriebswahlvorstand eingelegt werden. Einsprüche gegen Berichtigungen und Ergänzungen der Wählerliste können nur innerhalb von einer Woche seit der Berichtigung oder der Ergänzung eingelegt werden.
 
 (2) Über Einsprüche nach Absatz 1 ist unverzüglich zu entscheiden. Ist ein Einspruch begründet, so wird die Wählerliste berichtigt. Der Betriebswahlvorstand teilt die Entscheidung der Person, die den Einspruch eingelegt hat, unverzüglich schriftlich mit.
 
-
-## § 11 – Bekanntmachung
+# § 11 – Bekanntmachung
 
 (1) Sind in den Konzernunternehmen in der Regel insgesamt nicht mehr als 8.000 Arbeitnehmer beschäftigt, so erlässt der Hauptwahlvorstand unverzüglich nach Übersendung der Wählerlisten eine Bekanntmachung. Die Bekanntmachung muss folgende Angaben enthalten:
 
@@ -2363,8 +2349,7 @@ Die Sätze 1 und 2 sind auch anzuwenden, wenn nach den Vorschriften dieser Veror
 
 (4) Der Hauptwahlvorstand übersendet die Bekanntmachung unverzüglich nach ihrem Erlass den Konzernunternehmen und den in diesen Unternehmen vertretenen Gewerkschaften.
 
-
-## § 12 – Antrag auf Abstimmung
+# § 12 – Antrag auf Abstimmung
 
 (1) Sind in den Konzernunternehmen in der Regel insgesamt nicht mehr als 8.000 Arbeitnehmer beschäftigt, so kann ein Antrag auf Abstimmung darüber, dass die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte erfolgen soll, gestellt werden. Wenn die in § 11 Abs. 1 Satz 3 bezeichneten Voraussetzungen vorliegen, ist Absatz 2 anzuwenden.
 
@@ -2376,8 +2361,7 @@ Die Sätze 1 und 2 sind auch anzuwenden, wenn nach den Vorschriften dieser Veror
 
 (5) Ist ein Antrag ungültig, so teilt der Hauptwahlvorstand dies dem Antragsvertreter oder, wenn ein solcher nicht benannt ist, dem an erster Stelle Unterzeichnenden schriftlich mit.
 
-
-## § 13 – Abstimmungsausschreiben
+# § 13 – Abstimmungsausschreiben
 
 (1) Liegt ein gültiger Antrag nach § 12 vor, so erlässt der Hauptwahlvorstand unverzüglich ein Abstimmungsausschreiben. Die Abstimmung soll innerhalb von zwei Wochen seit dem für die Bekanntmachung des Abstimmungsausschreibens bestimmten Zeitpunkt stattfinden.
 
@@ -2407,8 +2391,7 @@ Die Sätze 1 und 2 sind auch anzuwenden, wenn nach den Vorschriften dieser Veror
 
 (4) Der Betriebswahlvorstand macht das Abstimmungsausschreiben bis zum Abschluss der Stimmabgabe bekannt und vermerkt auf dem Abstimmungsausschreiben den ersten und den letzten Tag der Bekanntmachung. § 11 Abs. 4 ist entsprechend anzuwenden.
 
-
-## § 14 – Stimmabgabe
+# § 14 – Stimmabgabe
 
 (1) Die Stimmzettel für die Abstimmung dürfen nur den Antrag und die Frage an die Abstimmungsberechtigten enthalten, ob sie für oder gegen den Antrag stimmen. Soll die Stimme für den Antrag abgegeben werden, so ist das vorgedruckte "Ja", andernfalls das vorgedruckte "Nein" anzukreuzen. Die Stimmzettel für die Abstimmung müssen sämtlich die gleiche Größe, Farbe, Beschaffenheit und Beschriftung haben.
 
@@ -2416,8 +2399,7 @@ Die Sätze 1 und 2 sind auch anzuwenden, wenn nach den Vorschriften dieser Veror
 
 (3) Stimmzettel, die mit einem besonderen Merkmal versehen sind oder aus denen sich ein eindeutiger Wille nicht ergibt oder die andere als die in Absatz 1 bezeichneten Angaben, einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
-
-## § 15 – Abstimmungsvorgang
+# § 15 – Abstimmungsvorgang
 
 (1) Der Betriebswahlvorstand hat geeignete Vorkehrungen für die unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und für die Bereitstellung einer Wahlurne oder mehrerer Wahlurnen zu sorgen. Die Wahlurne muss vom Betriebswahlvorstand verschlossen und so eingerichtet sein, dass die eingeworfenen Stimmzettel nicht herausgenommen werden können, ohne dass die Urne geöffnet wird.
 
@@ -2429,11 +2411,9 @@ Die Sätze 1 und 2 sind auch anzuwenden, wenn nach den Vorschriften dieser Veror
 
 (5) Wird die Stimmabgabe unterbrochen oder erfolgt die Stimmauszählung nicht unmittelbar nach Abschluss der Stimmabgabe, so hat der Betriebswahlvorstand für die Zwischenzeit die Wahlurne so zu verschließen und aufzubewahren, dass der Einwurf oder die Entnahme von Stimmzetteln ohne Beschädigung des Verschlusses unmöglich ist. Bei Wiedereröffnung der Abstimmung oder bei Entnahme der Stimmzettel zur Stimmauszählung hat sich der Betriebswahlvorstand davon zu überzeugen, dass der Verschluss unversehrt ist.
 
+# § 16 – (weggefallen)
 
-## § 16 – (weggefallen)
-
-
-## § 17 – Voraussetzungen der schriftlichen Stimmabgabe
+# § 17 – Voraussetzungen der schriftlichen Stimmabgabe
 
 (1) Abstimmungsberechtigten, die im Zeitpunkt der Abstimmung wegen Abwesenheit vom Betrieb verhindert sind, ihre Stimme persönlich abzugeben, hat der Betriebswahlvorstand auf ihr Verlangen
 
@@ -2459,8 +2439,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (4) Der Hauptwahlvorstand übersendet den Betriebswahlvorständen auf Anforderung die in Absatz 1 bezeichneten Unterlagen für die schriftliche Stimmabgabe.
 
-
-## § 18 – Verfahren bei der schriftlichen Stimmabgabe
+# § 18 – Verfahren bei der schriftlichen Stimmabgabe
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass die abstimmende Person
 
@@ -2474,8 +2453,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (3) Verspätet eingehende Wahlbriefe nimmt der Betriebswahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen. Die Wahlbriefe sind einen Monat nach Bekanntgabe des Ergebnisses der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
-
-## § 19 – Öffentliche Stimmauszählung
+# § 19 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Betriebswahlvorstand öffentlich die Stimmen aus.
 
@@ -2485,8 +2463,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (4) (weggefallen)
 
-
-## § 20 – Abstimmungsniederschrift des Betriebswahlvorstands
+# § 20 – Abstimmungsniederschrift des Betriebswahlvorstands
 
 (1) Nach der Stimmauszählung stellt der Betriebswahlvorstand in einer Niederschrift fest:
 
@@ -2504,8 +2481,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (2) Der Betriebswahlvorstand übermittelt unverzüglich dem Hauptwahlvorstand eingeschrieben, fernschriftlich oder durch Boten die Abstimmungsniederschrift.
 
-
-## § 21 – Feststellung des Abstimmungsergebnisses, Abstimmungsniederschrift des Hauptwahlvorstands
+# § 21 – Feststellung des Abstimmungsergebnisses, Abstimmungsniederschrift des Hauptwahlvorstands
 
 Der Hauptwahlvorstand ermittelt anhand der Abstimmungsniederschriften der Betriebswahlvorstände das Abstimmungsergebnis und stellt in einer Niederschrift fest:
 
@@ -2523,13 +2499,11 @@ Der Hauptwahlvorstand ermittelt anhand der Abstimmungsniederschriften der Betrie
 
 7. besondere während der Abstimmung eingetretene Zwischenfälle oder sonstige Ereignisse.
 
-
-## § 22 – Bekanntmachung des Abstimmungsergebnisses
+# § 22 – Bekanntmachung des Abstimmungsergebnisses
 
 Der Hauptwahlvorstand übermittelt das Abstimmungsergebnis den Betriebswahlvorständen. Jeder Betriebswahlvorstand macht das Abstimmungsergebnis für die Dauer von zwei Wochen in gleicher Weise wie das Abstimmungsausschreiben bekannt.
 
-
-## § 23 – Bekanntmachung über die Einreichung von Wahlvorschlägen
+# § 23 – Bekanntmachung über die Einreichung von Wahlvorschlägen
 
 (1) Der Hauptwahlvorstand erlässt gleichzeitig mit der Bekanntmachung nach § 11 eine Bekanntmachung über die Einreichung von Wahlvorschlägen für die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer. Die Bekanntmachung muss folgende Angaben enthalten:
 
@@ -2579,8 +2553,7 @@ Der Hauptwahlvorstand übermittelt das Abstimmungsergebnis den Betriebswahlvorst
 
 (5) Der Hauptwahlvorstand übersendet die Bekanntmachung unverzüglich nach ihrem Erlass den Konzernunternehmen und den in diesen Unternehmen vertretenen Gewerkschaften.
 
-
-## § 24 – Wahlvorschläge der Arbeitnehmer
+# § 24 – Wahlvorschläge der Arbeitnehmer
 
 (1) Zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer können die Wahlberechtigten Wahlvorschläge machen. Jeder Wahlvorschlag muss von einem Fünftel oder 100 der Wahlberechtigten unterzeichnet sein.
 
@@ -2602,8 +2575,7 @@ Der Hauptwahlvorstand übermittelt das Abstimmungsergebnis den Betriebswahlvorst
 
 (8) Ein Bewerber kann nur auf einem Wahlvorschlag vorgeschlagen werden. Ist sein Name mit seiner schriftlichen Zustimmung (Absatz 5 Satz 2) auf mehreren Wahlvorschlägen aufgeführt, so hat er auf Aufforderung des Hauptwahlvorstands innerhalb einer Woche zu erklären, welche Bewerbung er aufrechterhält. Unterbleibt die fristgerechte Erklärung, so ist der Bewerber auf sämtlichen Wahlvorschlägen zu streichen.
 
-
-## § 25 – Wahlvorschläge der Gewerkschaften
+# § 25 – Wahlvorschläge der Gewerkschaften
 
 (1) Zur Wahl von Aufsichtsratsmitgliedern, die Vertreter von Gewerkschaften sind, können die Gewerkschaften Wahlvorschläge machen, die in Konzernunternehmen vertreten sind.
 
@@ -2611,22 +2583,19 @@ Der Hauptwahlvorstand übermittelt das Abstimmungsergebnis den Betriebswahlvorst
 
 (3) § 24 Abs. 6 ist entsprechend anzuwenden. Der in Absatz 2 Satz 1 bezeichnete Beauftragte gilt als Vorschlagsvertreter. Die Gewerkschaft kann einen anderen als den in Absatz 2 Satz 1 bezeichneten Beauftragten als Vorschlagsvertreter benennen.
 
-
-## § 26 – Wahlvorschläge für Ersatzmitglieder
+# § 26 – Wahlvorschläge für Ersatzmitglieder
 
 (1) In jedem Wahlvorschlag kann für jeden Bewerber ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Für jeden Bewerber kann nur ein Ersatzmitglied vorgeschlagen werden. Ein Bewerber kann nicht sowohl als Mitglied als auch als Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. § 24 Abs. 8 ist entsprechend anzuwenden.
 
 (2) Jedes vorgeschlagene Ersatzmitglied ist in dem Wahlvorschlag unter Angabe von Familienname, Vorname, Geburtsdatum, Art der Beschäftigung, Unternehmen und Betrieb neben dem Bewerber aufzuführen, für den es als Ersatzmitglied des Aufsichtsrats vorgeschlagen wird. In dem Wahlvorschlag ist kenntlich zu machen, wer als Mitglied und wer als Ersatzmitglied des Aufsichtsrats vorgeschlagen wird. § 24 Abs. 5 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 27 – Prüfung der Wahlvorschläge
+# § 27 – Prüfung der Wahlvorschläge
 
 (1) Der Hauptwahlvorstand bestätigt dem Vorschlagsvertreter schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
 
 (2) Der Hauptwahlvorstand bezeichnet den Wahlvorschlag, wenn er nicht mit einem Kennwort versehen ist, mit Familienname und Vorname des an erster Stelle benannten Bewerbers. Er hat unverzüglich den Wahlvorschlag zu prüfen und bei Ungültigkeit oder Beanstandung den Vorschlagsvertreter schriftlich unter Angabe der Gründe zu unterrichten.
 
-
-## § 28 – Ungültige Wahlvorschläge
+# § 28 – Ungültige Wahlvorschläge
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -2650,8 +2619,7 @@ Der Hauptwahlvorstand übermittelt das Abstimmungsergebnis den Betriebswahlvorst
 
 sind ungültig, wenn der Hauptwahlvorstand sie beanstandet hat und die Mängel nicht innerhalb einer Woche seit der Beanstandung beseitigt worden sind.
 
-
-## § 29 – Nachfrist für Wahlvorschläge
+# § 29 – Nachfrist für Wahlvorschläge
 
 (1) Ist nach Ablauf der für die Einreichung von Wahlvorschlägen bestimmten Frist für einen Wahlgang kein gültiger Wahlvorschlag eingereicht, so erlässt der Hauptwahlvorstand unverzüglich eine Bekanntmachung und setzt eine Nachfrist von einer Woche für die Einreichung von Wahlvorschlägen fest. Die Bekanntmachung muss folgende Angaben enthalten:
 
@@ -2669,22 +2637,19 @@ sind ungültig, wenn der Hauptwahlvorstand sie beanstandet hat und die Mängel n
 
 (3) Für Bekanntmachungen nach den Absätzen 1 und 2 ist § 23 Abs. 3 bis 5 entsprechend anzuwenden.
 
-
-## § 30 – Bekanntmachung der Wahlvorschläge
+# § 30 – Bekanntmachung der Wahlvorschläge
 
 (1) Sind für einen Wahlgang, in dem mehrere Aufsichtsratsmitglieder der Arbeitnehmer zu wählen sind, mehrere Wahlvorschläge eingereicht, so ermittelt der Hauptwahlvorstand durch das Los nach Ablauf der in § 24 Abs. 2, § 28 Abs. 2 und § 29 Abs. 1 Satz 1 bezeichneten Fristen die Reihenfolge der Ordnungsnummern, die den eingereichten Wahlvorschlägen zugeteilt werden (Wahlvorschlag 1, 2 usw.).
 
 (2) Spätestens zwei Wochen vor dem ersten Tag der Stimmabgabe sind die gültigen Wahlvorschläge in den Betrieben bekannt zu machen. Der Hauptwahlvorstand übersendet die gültigen Wahlvorschläge den Betriebswahlvorständen und teilt ihnen schriftlich den Zeitpunkt mit, von dem ab die Wahlvorschläge in den Betrieben bekannt zu machen sind. Jeder Betriebswahlvorstand macht die Wahlvorschläge, nach Wahlgängen getrennt, bekannt; § 23 Abs. 4 und 5 ist entsprechend anzuwenden.
 
-
-## § 31 – Anzuwendende Vorschriften
+# § 31 – Anzuwendende Vorschriften
 
 (1) Sind die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wahl zu wählen, so richtet sich das weitere Wahlverfahren nach den Vorschriften des Kapitels 2.
 
 (2) Sind die Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte zu wählen, so richtet sich das weitere Wahlverfahren nach den Vorschriften des Kapitels 3.
 
-
-## § 32 – Wahlausschreiben
+# § 32 – Wahlausschreiben
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wahl zu wählen sind, so erlässt der Hauptwahlvorstand ein Wahlausschreiben. Es muss folgende Angaben enthalten:
 
@@ -2724,8 +2689,7 @@ sind ungültig, wenn der Hauptwahlvorstand sie beanstandet hat und die Mängel n
 
 Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechend anzuwenden.
 
-
-## § 33 – Stimmabgabe, Wahlvorgang
+# § 33 – Stimmabgabe, Wahlvorgang
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der Arbeitnehmer zu wählen und liegen für diesen Wahlgang mehrere gültige Wahlvorschläge vor, so kann der Wähler seine Stimme nur für einen dieser Wahlvorschläge abgeben. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln. Der Begriff des Wahlgangs im Sinne dieses Kapitels bestimmt sich nach § 24 Abs. 4.
 
@@ -2745,8 +2709,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 4. die andere als die in Absatz 2 bezeichneten Angaben, einen Zusatz oder sonstige Änderungen enthalten.
 
-
-## § 34 – Öffentliche Stimmauszählung
+# § 34 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Betriebswahlvorstand öffentlich die Stimmen aus.
 
@@ -2756,8 +2719,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 (4) (weggefallen)
 
-
-## § 35 – Wahlniederschrift des Betriebswahlvorstands
+# § 35 – Wahlniederschrift des Betriebswahlvorstands
 
 (1) Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang gesondert fest:
 
@@ -2775,8 +2737,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 (3) Der Betriebswahlvorstand macht das Ergebnis der Stimmauszählung bekannt.
 
-
-## § 36 – Verteilung der Stimmenzahlen
+# § 36 – Verteilung der Stimmenzahlen
 
 (1) Der Hauptwahlvorstand verteilt anhand der Wahlniederschriften der Betriebswahlvorstände die Stimmenzahlen nach folgendem Verfahren: Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen Stimmenzahlen werden in einer Reihe nebeneinander gestellt und sämtlich durch 1, 2, 3, 4 usw. geteilt. Die ermittelten Teilzahlen sind nacheinander reihenweise unter den Zahlen der ersten Reihe aufzuführen, bis höhere Teilzahlen, als aus früheren Reihen für die Zuweisung von Sitzen in Betracht kommen, nicht mehr entstehen. Unter den so gefundenen Teilzahlen werden so viele Höchstzahlen ausgesondert und der Größe nach geordnet, wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind. Jeder Wahlvorschlag erhält so viele Sitze zugeteilt, wie Höchstzahlen auf ihn entfallen. Wenn die niedrigste in Betracht kommende Höchstzahl auf mehrere Wahlvorschläge zugleich entfällt, so entscheidet das Los darüber, welchem Wahlvorschlag dieser Sitz zufällt.
 
@@ -2784,8 +2745,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 (3) Die Reihenfolge der Bewerber innerhalb der einzelnen Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer Benennung.
 
-
-## § 37 – Stimmabgabe, Wahlvorgang
+# § 37 – Stimmabgabe, Wahlvorgang
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der Arbeitnehmer zu wählen und liegt für diesen Wahlgang nur ein gültiger Wahlvorschlag vor, so kann der Wähler seine Stimme nur für die in dem Wahlvorschlag aufgeführten Bewerber abgeben. Eine gesonderte Stimmabgabe für ein Ersatzmitglied des Aufsichtsrats ist nicht zulässig. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln.
 
@@ -2803,8 +2763,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 4. die andere als die in Absatz 2 bezeichneten Angaben, einen Zusatz oder sonstige Änderungen enthalten.
 
-
-## § 38 – Öffentliche Stimmauszählung
+# § 38 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Betriebswahlvorstand öffentlich die Stimmen aus.
 
@@ -2812,8 +2771,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 (3) (weggefallen)
 
-
-## § 39 – Wahlniederschrift des Betriebswahlvorstands
+# § 39 – Wahlniederschrift des Betriebswahlvorstands
 
 Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang gesondert fest:
 
@@ -2829,13 +2787,11 @@ Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer N
 
 § 35 Abs. 2 und 3 ist anzuwenden.
 
-
-## § 40 – Verteilung der Stimmen auf die Bewerber
+# § 40 – Verteilung der Stimmen auf die Bewerber
 
 Der Hauptwahlvorstand ermittelt anhand der Wahlniederschriften der Betriebswahlvorstände die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen. Es werden so viele Bewerber bestimmt, wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der Reihenfolge der auf sie entfallenden Stimmenzahlen. Bei Stimmengleichheit entscheidet das Los.
 
-
-## § 41 – Voraussetzungen
+# § 41 – Voraussetzungen
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich abzugeben, hat der Betriebswahlvorstand auf sein Verlangen
 
@@ -2865,8 +2821,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (4) Der Hauptwahlvorstand übersendet den Betriebswahlvorständen auf Anforderung die in Absatz 1 bezeichneten Unterlagen für die schriftliche Stimmabgabe.
 
-
-## § 42 – Verfahren bei der Stimmabgabe
+# § 42 – Verfahren bei der Stimmabgabe
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass der Wähler
 
@@ -2880,22 +2835,19 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (3) Verspätet eingehende Wahlbriefe nimmt der Betriebswahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen. Die Wahlbriefe sind einen Monat nach Bekanntgabe des Ergebnisses der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
-
-## § 42a – Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+# § 42a – Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
 
 (1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach § 33 und in einem Wahlgang nach § 37 so viele Bewerber gewählt, wie Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
 
 (2) Mit der Wahl eines Bewerbers ist auch das in dem Wahlvorschlag neben dem Gewählten aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
 
-
-## § 42b – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+# § 42b – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
 
 (1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in einem Wahlgang nach § 33 und in einem Wahlgang nach § 37 so viele Bewerber gewählt, wie Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
 
 (2) Mit der Wahl eines Bewerbers ist auch das in dem Wahlvorschlag neben dem Gewählten aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
 
-
-## § 42c – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+# § 42c – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
 
 (1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung die Höchstzahlen nach § 36 der Größe nach auf die Bewerber verteilt und die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen nach § 40 ermittelt, stellt der Hauptwahlvorstand fest, ob bei der Wahl der Geschlechteranteil nach § 5a des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes eingehalten worden ist.
 
@@ -2905,8 +2857,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (4) Mit der Wahl eines Bewerbers ist auch das in dem Wahlvorschlag neben dem Gewählten aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
 
-
-## § 43 – Wahlniederschrift
+# § 43 – Wahlniederschrift
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der Hauptwahlvorstand in einer Niederschrift für jeden Wahlgang gesondert fest:
 
@@ -2932,8 +2883,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 2. die Anzahl der Sitze, die aufgrund des Nichterreichens des Geschlechteranteils nach § 5a des Gesetzes nicht besetzt worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der Arbeitnehmer, die Arbeitnehmer von Konzernunternehmen sind, und den Aufsichtsratsmitgliedern der Gewerkschaften.
 
-
-## § 44 – Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+# § 44 – Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
 
 (1) Der Hauptwahlvorstand übermittelt das Wahlergebnis und die Namen der Gewählten den Betriebswahlvorständen. Jeder Betriebswahlvorstand macht das Wahlergebnis und die Namen der Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
 
@@ -2945,25 +2895,21 @@ Absatz 2 ist entsprechend anzuwenden.
 
 2. darüber, dass diese nach § 10f Absatz 2 des Gesetzes nicht besetzten Aufsichtsratssitze im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
 
-
-## § 45 – Aufbewahrung der Wahlakten
+# § 45 – Aufbewahrung der Wahlakten
 
 Der Hauptwahlvorstand und jeder Betriebswahlvorstand übergeben die Wahlakten dem Unternehmen, in dessen Aufsichtsrat die Aufsichtsratsmitglieder der Arbeitnehmer gewählt worden sind. Dieses Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf Jahren auf.
 
-
-## § 46 – Delegierte, die für die Wahl von Aufsichtsratsmitgliedern mehrerer Unternehmen gewählt werden
+# § 46 – Delegierte, die für die Wahl von Aufsichtsratsmitgliedern mehrerer Unternehmen gewählt werden
 
 Nehmen die Arbeitnehmer eines abhängigen Konzernunternehmens nach dieser Verordnung durch Delegierte an der Wahl von Mitgliedern der Aufsichtsräte mehrerer herrschender Unternehmen teil und beginnen die Amtszeiten dieser Aufsichtsratsmitglieder innerhalb eines Zeitraums von höchstens zwölf Monaten, so können die Betriebswahlvorstände des abhängigen Unternehmens beschließen, dass in diesem Unternehmen für die Teilnahme an den Wahlen von Aufsichtsratsmitgliedern der herrschenden Unternehmen, sofern diese durch Delegierte zu wählen sind, Delegierte nur einmal gewählt werden (Delegierte mit Mehrfachmandat). Der Beschluss kann nur vor Erlass des Wahlausschreibens für die Wahl der Delegierten gefasst werden.
 
-
-## § 47 – Keine Wahl von Delegierten, soweit im Rahmen eines anderen Wahlverfahrens bereits Delegierte mit Mehrfachmandat gewählt werden
+# § 47 – Keine Wahl von Delegierten, soweit im Rahmen eines anderen Wahlverfahrens bereits Delegierte mit Mehrfachmandat gewählt werden
 
 (1) Sind die Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte zu wählen, so findet eine Wahl von Delegierten nicht statt, soweit nach § 46 Satz 1 für die Wahl der Aufsichtsratsmitglieder eines anderen Unternehmens bereits Delegierte mit Mehrfachmandat gewählt werden.
 
 (2) Der Betriebswahlvorstand des in § 46 Satz 1 bezeichneten abhängigen Unternehmens erlässt hierüber eine Bekanntmachung. Besteht das Unternehmen aus mehreren Betrieben, so erlässt der Hauptwahlvorstand die Bekanntmachung und übersendet sie den Betriebswahlvorständen. § 23 Abs. 4 und 5 ist anzuwenden.
 
-
-## § 48 – Errechnung der Zahl der Delegierten
+# § 48 – Errechnung der Zahl der Delegierten
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte zu wählen sind, so teilt der Hauptwahlvorstand dies den Betriebswahlvorständen mit. In der Mitteilung bestimmt der Hauptwahlvorstand den Zeitpunkt, bis zu dem ihm jeder Betriebswahlvorstand das Ergebnis der Wahl der Delegierten mitzuteilen hat.
 
@@ -2987,15 +2933,13 @@ Nehmen die Arbeitnehmer eines abhängigen Konzernunternehmens nach dieser Verord
 
 Teilzahlen werden voll gezählt, wenn sie mindestens die Hälfte der vollen Zahl betragen.
 
-
-## § 49 – Zuordnung von Arbeitnehmern zu anderen Betrieben
+# § 49 – Zuordnung von Arbeitnehmern zu anderen Betrieben
 
 (1) Entfällt nach § 48 auf die Arbeitnehmer eines Betriebs kein Delegierter, so streicht der Hauptwahlvorstand diese Arbeitnehmer in der ihm vorliegenden Kopie der Wählerliste des Betriebs.
 
 (2) Der Hauptwahlvorstand stellt fest, ob die nach Absatz 1 aus der Wählerliste eines Betriebs zu streichenden Arbeitnehmer für die Wahl der Delegierten nach § 9 Abs. 2 des Gesetzes als Arbeitnehmer des Betriebs der Hauptniederlassung des Unternehmens oder als Arbeitnehmer des nach der Zahl der Wahlberechtigten größten Betriebs des Unternehmens gelten. Der Hauptwahlvorstand nimmt diese Arbeitnehmer in die ihm vorliegende Kopie der Wählerliste des Betriebs auf, als dessen Arbeitnehmer sie für die Wahl der Delegierten gelten. Nach der Zuordnung ist die Zahl der Delegierten der betroffenen Betriebe neu zu errechnen (§ 48).
 
-
-## § 50 – Mitteilungen des Hauptwahlvorstands
+# § 50 – Mitteilungen des Hauptwahlvorstands
 
 (1) Der Hauptwahlvorstand teilt jedem Betriebswahlvorstand unverzüglich nach der Errechnung der Zahl der Delegierten (§ 48) oder, falls eine Zuordnung (§ 49 Abs. 2) zu einem anderen Betrieb erfolgt ist, unverzüglich nach der Feststellung über diese Zuordnung mit:
 
@@ -3013,8 +2957,7 @@ Teilzahlen werden voll gezählt, wenn sie mindestens die Hälfte der vollen Zahl
 
 (2) Der Hauptwahlvorstand übersendet dem Betriebswahlvorstand eines Betriebs, aus dessen Wählerliste Wahlberechtigte zu streichen sind, unverzüglich eine Kopie seiner Mitteilung (Absatz 1 Nr. 5) an den Betriebswahlvorstand des Betriebs, dem diese Wahlberechtigten zugeordnet sind. Der Betriebswahlvorstand des Betriebs, aus dessen Wählerliste Wahlberechtigte zu streichen sind, und der Betriebswahlvorstand des Betriebs, dem diese Wahlberechtigten zugeordnet sind, machen die in Absatz 1 Nr. 5 bezeichnete Mitteilung in gleicher Weise bekannt wie das Wahlausschreiben für die Wahl der Delegierten (§ 51).
 
-
-## § 51 – Wahlausschreiben für die Wahl der Delegierten
+# § 51 – Wahlausschreiben für die Wahl der Delegierten
 
 Unverzüglich nach Eingang der in § 50 bezeichneten Mitteilung erlässt der Betriebswahlvorstand ein Wahlausschreiben für die Wahl der Delegierten. Es muss folgende Angaben enthalten:
 
@@ -3054,8 +2997,7 @@ Unverzüglich nach Eingang der in § 50 bezeichneten Mitteilung erlässt der Bet
 
 Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechend anzuwenden.
 
-
-## § 52 – Einreichung von Wahlvorschlägen
+# § 52 – Einreichung von Wahlvorschlägen
 
 (1) Zur Wahl der Delegierten können die Wahlberechtigten des Betriebs Wahlvorschläge machen. Jeder Wahlvorschlag für Delegierte muss von einem Zwanzigstel oder 50 der Wahlberechtigten des Betriebs unterzeichnet sein. Die Wahlvorschläge sind innerhalb von zwei Wochen seit Erlass des Wahlausschreibens für die Wahl der Delegierten beim Betriebswahlvorstand schriftlich einzureichen. Die Anzahl der Bewerber in jedem Wahlvorschlag soll mindestens doppelt so hoch sein wie die Zahl der zu wählenden Delegierten.
 
@@ -3067,15 +3009,13 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 (5) Ein Bewerber kann nur auf einem Wahlvorschlag vorgeschlagen werden. Ist sein Name mit seiner schriftlichen Zustimmung (Absatz 2 Satz 2) auf mehreren Wahlvorschlägen aufgeführt, so hat er auf Aufforderung des Betriebswahlvorstands innerhalb von drei Arbeitstagen zu erklären, welche Bewerbung er aufrechterhält. Unterbleibt die fristgerechte Erklärung, so ist der Bewerber auf sämtlichen Wahlvorschlägen zu streichen.
 
-
-## § 53 – Prüfung der Wahlvorschläge
+# § 53 – Prüfung der Wahlvorschläge
 
 (1) Der Betriebswahlvorstand bestätigt dem Vorschlagsvertreter schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
 
 (2) Der Betriebswahlvorstand bezeichnet den Wahlvorschlag, wenn er nicht mit einem Kennwort versehen ist, mit Familienname und Vorname des an erster Stelle benannten Bewerbers. Er hat unverzüglich den Wahlvorschlag zu prüfen und bei Ungültigkeit oder Beanstandung den Vorschlagsvertreter schriftlich unter Angabe der Gründe zu unterrichten.
 
-
-## § 54 – Ungültige Wahlvorschläge
+# § 54 – Ungültige Wahlvorschläge
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -3095,8 +3035,7 @@ Für die Bekanntmachung des Wahlausschreibens ist § 23 Abs. 4 und 5 entsprechen
 
 sind ungültig, wenn der Betriebswahlvorstand sie beanstandet hat und die Mängel nicht innerhalb von drei Arbeitstagen seit der Beanstandung beseitigt worden sind.
 
-
-## § 55 – Nachfrist für Wahlvorschläge
+# § 55 – Nachfrist für Wahlvorschläge
 
 (1) Ist nach Ablauf der für die Einreichung von Wahlvorschlägen bestimmten Frist kein gültiger Wahlvorschlag eingereicht, so erlässt der Betriebswahlvorstand unverzüglich eine Bekanntmachung und setzt eine Nachfrist von einer Woche für die Einreichung von Wahlvorschlägen fest. Die Bekanntmachung muss folgende Angaben enthalten:
 
@@ -3110,15 +3049,13 @@ sind ungültig, wenn der Betriebswahlvorstand sie beanstandet hat und die Mänge
 
 (3) Für Bekanntmachungen nach den Absätzen 1 und 2 ist § 23 Abs. 4 und 5 entsprechend anzuwenden.
 
-
-## § 56 – Bekanntmachung der Wahlvorschläge
+# § 56 – Bekanntmachung der Wahlvorschläge
 
 (1) Sind mehrere Wahlvorschläge eingereicht, so ermittelt der Betriebswahlvorstand durch das Los nach Ablauf der in § 52 Abs. 1 Satz 3, § 54 Abs. 2 und § 55 Abs. 1 Satz 1 bezeichneten Fristen die Reihenfolge der Ordnungsnummern, die den eingereichten Wahlvorschlägen zugeteilt werden (Wahlvorschlag 1, 2 usw.). Die Vorschlagsvertreter sind zu der Losentscheidung rechtzeitig einzuladen.
 
 (2) Spätestens zwei Wochen vor dem ersten Tag der Stimmabgabe macht der Betriebswahlvorstand die gültigen Wahlvorschläge in gleicher Weise bekannt wie das Wahlausschreiben für die Wahl der Delegierten. Liegt nur ein gültiger Wahlvorschlag vor, so weist der Betriebswahlvorstand in der Bekanntmachung darauf hin, dass so viele der darin aufgeführten Bewerber in der angegebenen Reihenfolge als gewählt gelten, wie Delegierte zu wählen sind.
 
-
-## § 57 – Stimmabgabe, Wahlvorgang
+# § 57 – Stimmabgabe, Wahlvorgang
 
 (1) Liegen mehrere gültige Wahlvorschläge vor, so kann der Wähler seine Stimme nur für einen dieser Wahlvorschläge abgeben. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln.
 
@@ -3136,8 +3073,7 @@ sind ungültig, wenn der Betriebswahlvorstand sie beanstandet hat und die Mänge
 
 4. die andere als die in Absatz 2 bezeichneten Angaben, einen Zusatz oder sonstige Änderungen enthalten.
 
-
-## § 58 – Öffentliche Stimmauszählung
+# § 58 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Betriebswahlvorstand öffentlich die Stimmen aus.
 
@@ -3147,8 +3083,7 @@ sind ungültig, wenn der Betriebswahlvorstand sie beanstandet hat und die Mänge
 
 (4) (weggefallen)
 
-
-## § 59 – Ermittlung der Gewählten
+# § 59 – Ermittlung der Gewählten
 
 (1) Die den einzelnen Wahlvorschlägen zugefallenen Stimmenzahlen werden in einer Reihe nebeneinander gestellt und sämtlich durch 1, 2, 3, 4 usw. geteilt. Die ermittelten Teilzahlen sind nacheinander reihenweise unter den Zahlen der ersten Reihe aufzuführen, bis höhere Teilzahlen, als aus früheren Reihen für die Zuweisung von Sitzen in Betracht kommen, nicht mehr entstehen. Unter den so gefundenen Teilzahlen werden so viele Höchstzahlen ausgesondert und der Größe nach geordnet, wie Delegierte zu wählen sind. Jeder Wahlvorschlag erhält so viele Sitze zugeteilt, wie Höchstzahlen auf ihn entfallen. Wenn die niedrigste in Betracht kommende Höchstzahl auf mehrere Wahlvorschläge zugleich entfällt, so entscheidet das Los darüber, welchem Wahlvorschlag dieser Sitz zufällt.
 
@@ -3156,15 +3091,13 @@ sind ungültig, wenn der Betriebswahlvorstand sie beanstandet hat und die Mänge
 
 (3) Die Reihenfolge der Bewerber innerhalb der einzelnen Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer Benennung.
 
-
-## § 60 – Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags
+# § 60 – Ermittlung von Delegierten bei Vorliegen nur eines Wahlvorschlags
 
 (1) Liegt nur ein gültiger Wahlvorschlag vor, so gelten so viele der darin aufgeführten Bewerber in der im Wahlvorschlag angegebenen Reihenfolge als gewählt, wie Delegierte zu wählen sind.
 
 (2) Der Betriebswahlvorstand stellt unverzüglich nach Abschluss der Wahl der Delegierten fest, welche Delegierten nach Absatz 1 als gewählt gelten.
 
-
-## § 61 – Voraussetzungen
+# § 61 – Voraussetzungen
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich abzugeben, hat der Betriebswahlvorstand auf sein Verlangen
 
@@ -3188,8 +3121,7 @@ auszuhändigen oder zu übersenden. Der Betriebswahlvorstand soll dem Wahlberech
 
 Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 62 – Verfahren bei der Stimmabgabe
+# § 62 – Verfahren bei der Stimmabgabe
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass der Wähler
 
@@ -3203,8 +3135,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (3) Verspätet eingehende Wahlbriefe nimmt der Betriebswahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen. Die Wahlbriefe sind einen Monat nach Bekanntgabe des Ergebnisses der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
-
-## § 63 – Wahlniederschrift
+# § 63 – Wahlniederschrift
 
 (1) Nachdem ermittelt ist, wer als Delegierter gewählt ist, stellt der Betriebswahlvorstand in einer Niederschrift fest:
 
@@ -3230,27 +3161,23 @@ in der Reihenfolge ihrer Benennung;
 
 (2) Der Betriebswahlvorstand übermittelt die Wahlniederschrift unverzüglich dem Hauptwahlvorstand eingeschrieben, fernschriftlich oder durch Boten.
 
-
-## § 64 – Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+# § 64 – Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
 
 (2) Gleichzeitig benachrichtigt der Betriebswahlvorstand die Gewählten schriftlich von ihrer Wahl. Haben die Delegierten nach § 46 ein Mehrfachmandat, so ist dies in der Benachrichtigung anzugeben.
 
-
-## § 65 – Ausnahme
+# § 65 – Ausnahme
 
 Die Vorschriften der Unterabschnitte 1 bis 7 sind nicht anzuwenden auf Betriebe, in denen nach den Vorschriften dieser Verordnung Delegierte bereits gewählt sind, deren Amtszeit bei Beginn der Amtszeit der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer noch nicht beendet ist (§ 10a des Gesetzes).
 
-
-## § 66 – Delegiertenversammlung
+# § 66 – Delegiertenversammlung
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder der Arbeitnehmer in einer Versammlung (Delegiertenversammlung). Sie wird vom Hauptwahlvorstand geleitet.
 
 (2) Der Hauptwahlvorstand bestimmt den Tag der Delegiertenversammlung. Sie soll spätestens vier Wochen nach dem Zeitpunkt stattfinden, bis zu dem die Betriebswahlvorstände dem Hauptwahlvorstand nach § 50 Abs. 1 Nr. 6 die Ergebnisse der Wahl der Delegierten mitzuteilen hatten. Sind in den Konzernunternehmen im Rahmen eines anderen Wahlverfahrens bereits Delegierte mit Mehrfachmandat gewählt worden (§ 47 Abs. 1), so soll die Delegiertenversammlung spätestens vier Wochen vor dem Beginn der Amtszeit der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer stattfinden.
 
-
-## § 67 – Delegiertenliste
+# § 67 – Delegiertenliste
 
 (1) Der Hauptwahlvorstand stellt eine Liste der Delegierten (Delegiertenliste) auf. § 7 Abs. 1 Satz 2 und 3 sowie Abs. 4 ist entsprechend anzuwenden.
 
@@ -3258,8 +3185,7 @@ Die Vorschriften der Unterabschnitte 1 bis 7 sind nicht anzuwenden auf Betriebe,
 
 (3) Die Einsichtnahme in die Delegiertenliste, das Gesetz und diese Verordnung ist in der Delegiertenversammlung bis zum Abschluss der Stimmabgabe zu ermöglichen. Die zur Einsichtnahme bestimmte Delegiertenliste soll die Geburtsdaten der Delegierten nicht enthalten. Die Einsichtnahme kann durch Auslegung und durch Einsatz der im Betrieb vorhandenen Informations- und Kommunikationstechnik ermöglicht werden.
 
-
-## § 68 – Einsprüche gegen die Richtigkeit der Delegiertenliste
+# § 68 – Einsprüche gegen die Richtigkeit der Delegiertenliste
 
 (1) Einsprüche gegen die Richtigkeit der Delegiertenliste können vor Beginn der Stimmabgabe beim Hauptwahlvorstand eingelegt werden.
 
@@ -3267,8 +3193,7 @@ Die Vorschriften der Unterabschnitte 1 bis 7 sind nicht anzuwenden auf Betriebe,
 
 (3) Vor Beginn der Stimmabgabe soll der Hauptwahlvorstand die Delegiertenliste auf ihre Richtigkeit hin überprüfen. Im Übrigen kann die Delegiertenliste nur bei Schreibfehlern, offenbaren Unrichtigkeiten oder in Erledigung rechtzeitig eingelegter Einsprüche bis vor Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
-
-## § 69 – Mitteilung an die Delegierten
+# § 69 – Mitteilung an die Delegierten
 
 (1) Der Hauptwahlvorstand teilt jedem Delegierten spätestens zwei Wochen vor dem Tag der Delegiertenversammlung mit:
 
@@ -3312,8 +3237,7 @@ vorzeitig beendet (§ 10b Abs. 1 des Gesetzes) oder dass er verhindert (§ 10b A
 
 (4) Stellt ein Delegierter fest, dass er verhindert ist, so teilt er dies dem Betriebswahlvorstand mit. Stellt ein Betriebswahlvorstand fest, dass die Amtszeit eines Delegierten vorzeitig beendet oder dass er verhindert ist, so teilt er dies dem Hauptwahlvorstand mit.
 
-
-## § 70 – Stimmabgabe, Wahlvorgang
+# § 70 – Stimmabgabe, Wahlvorgang
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der Arbeitnehmer zu wählen und liegen für diesen Wahlgang mehrere gültige Wahlvorschläge vor, so kann der Delegierte seine Stimme nur für einen dieser Wahlvorschläge abgeben. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln. Hat ein Delegierter mehrere Stimmen, so gibt er für jede Stimme einen Stimmzettel ab. Der Begriff des Wahlgangs im Sinne dieses Abschnitts bestimmt sich nach § 24 Abs. 4.
 
@@ -3333,8 +3257,7 @@ vorzeitig beendet (§ 10b Abs. 1 des Gesetzes) oder dass er verhindert (§ 10b A
 
 (5) Der Hauptwahlvorstand kann beschließen, § 15 Abs. 3 mit der Maßgabe anzuwenden, dass Stimmzettel ungefaltet und in Wahlumschlägen in die Wahlurne zu werfen sind, wenn das vorgesehene Verfahren der Stimmauszählung ungefaltete Stimmzettel erfordert.
 
-
-## § 71 – Öffentliche Stimmauszählung
+# § 71 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Hauptwahlvorstand öffentlich die Stimmen aus.
 
@@ -3344,8 +3267,7 @@ vorzeitig beendet (§ 10b Abs. 1 des Gesetzes) oder dass er verhindert (§ 10b A
 
 (4) (weggefallen)
 
-
-## § 72 – Verteilung der Stimmenzahlen
+# § 72 – Verteilung der Stimmenzahlen
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen Stimmenzahlen werden in einer Reihe nebeneinander gestellt und sämtlich durch 1, 2, 3, 4 usw. geteilt. Die ermittelten Teilzahlen sind nacheinander reihenweise unter den Zahlen der ersten Reihe aufzuführen, bis höhere Teilzahlen, als aus früheren Reihen für die Zuweisung von Sitzen in Betracht kommen, nicht mehr entstehen. Unter den so gefundenen Teilzahlen werden so viele Höchstzahlen ausgesondert und der Größe nach geordnet, wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind. Jeder Wahlvorschlag erhält so viele Sitze zugeteilt, wie Höchstzahlen auf ihn entfallen. Wenn die niedrigste in Betracht kommende Höchstzahl auf mehrere Wahlvorschläge zugleich entfällt, so entscheidet das Los darüber, welchem Wahlvorschlag dieser Sitz zufällt.
 
@@ -3355,8 +3277,7 @@ vorzeitig beendet (§ 10b Abs. 1 des Gesetzes) oder dass er verhindert (§ 10b A
 
 (4) (weggefallen)
 
-
-## § 73 – Stimmabgabe, Wahlvorgang
+# § 73 – Stimmabgabe, Wahlvorgang
 
 (1) Sind in einem Wahlgang mehrere Aufsichtsratsmitglieder der Arbeitnehmer zu wählen und liegt für diesen Wahlgang nur ein gültiger Wahlvorschlag vor, so kann der Delegierte seine Stimme nur für die in dem Wahlvorschlag aufgeführten Bewerber abgeben. Eine gesonderte Stimmabgabe für ein Ersatzmitglied des Aufsichtsrats ist nicht zulässig. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln. Hat ein Delegierter mehrere Stimmen, so gibt er für jede Stimme einen Stimmzettel ab.
 
@@ -3376,8 +3297,7 @@ vorzeitig beendet (§ 10b Abs. 1 des Gesetzes) oder dass er verhindert (§ 10b A
 
 (5) § 70 Abs. 5 findet Anwendung.
 
-
-## § 74 – Öffentliche Stimmauszählung
+# § 74 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Hauptwahlvorstand öffentlich die Stimmen aus.
 
@@ -3385,27 +3305,23 @@ vorzeitig beendet (§ 10b Abs. 1 des Gesetzes) oder dass er verhindert (§ 10b A
 
 (3) (weggefallen)
 
-
-## § 75 – Verteilung der Stimmen auf die Bewerber
+# § 75 – Verteilung der Stimmen auf die Bewerber
 
 Der Hauptwahlvorstand bestimmt so viele Bewerber, wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der Reihenfolge der auf sie entfallenden Stimmenzahlen. Bei Stimmengleichheit entscheidet das Los.
 
-
-## § 75a – Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+# § 75a – Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
 
 (1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach § 70 und in einem Wahlgang nach § 73 so viele Bewerber gewählt, wie Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
 
 (2) Mit der Wahl eines Bewerbers ist auch das in dem Wahlvorschlag neben dem Gewählten aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
 
-
-## § 75b – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+# § 75b – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
 
 (1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in einem Wahlgang nach § 70 und in einem Wahlgang nach § 73 so viele Bewerber gewählt, wie Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
 
 (2) Mit der Wahl eines Bewerbers ist auch das in dem Wahlvorschlag neben dem Gewählten aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
 
-
-## § 75c – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+# § 75c – Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
 
 (1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung die Höchstzahlen nach § 72 der Größe nach auf die Bewerber verteilt und die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen nach § 75 ermittelt, stellt der Hauptwahlvorstand fest, ob bei der Wahl der Geschlechteranteil nach § 5a des Gesetzes in Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes eingehalten worden ist.
 
@@ -3415,8 +3331,7 @@ Der Hauptwahlvorstand bestimmt so viele Bewerber, wie in dem Wahlgang Aufsichtsr
 
 (4) Mit der Wahl eines Bewerbers ist auch das in dem Wahlvorschlag neben dem Gewählten aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
 
-
-## § 76 – Wahlniederschrift
+# § 76 – Wahlniederschrift
 
 (1) Nachdem ermittelt ist, wer gewählt ist, stellt der Hauptwahlvorstand in einer Niederschrift für jeden Wahlgang gesondert fest:
 
@@ -3442,8 +3357,7 @@ Der Hauptwahlvorstand bestimmt so viele Bewerber, wie in dem Wahlgang Aufsichtsr
 
 2. die Anzahl der Sitze, die aufgrund des Nichterreichens des Geschlechteranteils nach § 5a des Gesetzes nicht besetzt worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der Arbeitnehmer, die Arbeitnehmer von Konzernunternehmen sind, und den Aufsichtsratsmitgliedern der Gewerkschaften.
 
-
-## § 77 – Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
+# § 77 – Bekanntmachung des Wahlergebnisses, Benachrichtigung der Gewählten
 
 (1) Der Hauptwahlvorstand gibt das Wahlergebnis und die Namen der Gewählten in der Delegiertenversammlung bekannt.
 
@@ -3457,13 +3371,11 @@ Der Hauptwahlvorstand bestimmt so viele Bewerber, wie in dem Wahlgang Aufsichtsr
 
 2. darüber, dass diese nach § 10f Absatz 2 des Gesetzes nicht besetzten Aufsichtsratssitze im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
 
-
-## § 78 – Aufbewahrung der Wahlakten
+# § 78 – Aufbewahrung der Wahlakten
 
 Der Hauptwahlvorstand und jeder Betriebswahlvorstand übergeben die Wahlakten dem herrschenden Unternehmen. Dieses Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf Jahren auf.
 
-
-## § 79 – Einleitung des Abberufungsverfahrens
+# § 79 – Einleitung des Abberufungsverfahrens
 
 (1) Ein Antrag auf Abberufung eines Aufsichtsratsmitglieds der Arbeitnehmer nach § 10n Absatz 1 des Gesetzes ist schriftlich beim Konzernbetriebsrat einzureichen. Besteht kein Konzernbetriebsrat, so ist der Antrag beim Gesamtbetriebsrat oder, wenn ein solcher nicht besteht, beim Betriebsrat des herrschenden Unternehmens einzureichen. Besteht in diesem Unternehmen kein Betriebsrat, so ist der Antrag beim Gesamtbetriebsrat des nach der Zahl der Wahlberechtigten größten anderen Konzernunternehmens einzureichen, in dem ein Betriebsrat besteht, oder, wenn in dem anderen Konzernunternehmen nur ein Betriebsrat besteht, beim Betriebsrat.
 
@@ -3471,20 +3383,17 @@ Der Hauptwahlvorstand und jeder Betriebswahlvorstand übergeben die Wahlakten de
 
 (3) Für die Aufgaben, die Bildung, die Zusammensetzung und die Geschäftsführung der Wahlvorstände sind die §§ 2 bis 6 entsprechend anzuwenden; die Mitteilung des Hauptwahlvorstands nach § 5 muss auch den Inhalt des Antrags auf Abberufung enthalten. Dem Hauptwahlvorstand sind die bei der Wahl des Aufsichtsratsmitglieds, dessen Abberufung beantragt wird, entstandenen Wahlakten zu übergeben.
 
-
-## § 80 – Liste der antragsberechtigten Arbeitnehmer
+# § 80 – Liste der antragsberechtigten Arbeitnehmer
 
 Wird die Abberufung eines unternehmensangehörigen Aufsichtsratsmitglieds der Arbeitnehmer beantragt, so wird in jedem Betrieb unverzüglich nach der Bildung des Betriebswahlvorstands eine Liste der Wahlberechtigten aufgestellt, die nach § 10n Absatz 1 Satz 2 des Gesetzes für die Abberufung dieses Aufsichtsratsmitglieds antragsberechtigt sind. Die §§ 7 bis 10 sind entsprechend anzuwenden; die Bekanntmachung nach § 8 Abs. 2 muss auch den Inhalt des Antrags auf Abberufung enthalten.
 
-
-## § 81 – Prüfung des Antrags auf Abberufung
+# § 81 – Prüfung des Antrags auf Abberufung
 
 (1) Der Hauptwahlvorstand prüft unverzüglich nach Übersendung der Listen der antragsberechtigten Arbeitnehmer die Gültigkeit des Antrags auf Abberufung.
 
 (2) Ist ein Antrag ungültig, so teilt der Hauptwahlvorstand dies dem Antragsvertreter oder, wenn ein solcher nicht benannt ist, dem an erster Stelle Unterzeichnenden und den Betriebswahlvorständen schriftlich mit. Jeder Betriebswahlvorstand macht die Mitteilung für die Dauer von zwei Wochen bekannt.
 
-
-## § 82 – Anzuwendende Vorschriften
+# § 82 – Anzuwendende Vorschriften
 
 (1) Liegt ein gültiger Antrag vor, so stellt der Hauptwahlvorstand fest, ob das Aufsichtsratsmitglied, dessen Abberufung beantragt ist, in unmittelbarer Wahl oder durch Delegierte gewählt worden ist.
 
@@ -3492,8 +3401,7 @@ Wird die Abberufung eines unternehmensangehörigen Aufsichtsratsmitglieds der Ar
 
 (3) Ist das Aufsichtsratsmitglied, dessen Abberufung beantragt ist, durch Delegierte gewählt worden, so richtet sich das weitere Abberufungsverfahren nach den Vorschriften des Kapitels 3.
 
-
-## § 83 – Abberufungsausschreiben, Wählerliste
+# § 83 – Abberufungsausschreiben, Wählerliste
 
 (1) Der Hauptwahlvorstand erlässt unverzüglich ein Abberufungsausschreiben. Die Abstimmung soll innerhalb von vier Wochen seit dem für die Bekanntmachung des Abberufungsausschreibens bestimmten Zeitpunkt stattfinden.
 
@@ -3517,8 +3425,7 @@ Für die Bekanntmachung des Abberufungsausschreibens sind § 13 Abs. 3 Nr. 1 bis
 
 (3) In jedem Betrieb wird für die Abberufung unverzüglich eine Liste der Abstimmungsberechtigten des Betriebs (Wählerliste) aufgestellt. Die §§ 7 bis 10 sind entsprechend anzuwenden.
 
-
-## § 84 – Abstimmung, Abstimmungsergebnis, Akten
+# § 84 – Abstimmung, Abstimmungsergebnis, Akten
 
 (1) Für die Abstimmung sind die §§ 14 bis 21 anzuwenden.
 
@@ -3536,13 +3443,11 @@ Für die Bekanntmachung des Abberufungsausschreibens sind § 13 Abs. 3 Nr. 1 bis
 
 (3) Auf die im Zusammenhang mit einem Antrag auf Abberufung entstandenen Akten ist § 45 entsprechend anzuwenden.
 
-
-## § 85 – Delegiertenliste
+# § 85 – Delegiertenliste
 
 Der Hauptwahlvorstand stellt für die Abberufung unverzüglich eine Liste der Delegierten (Delegiertenliste) auf. § 7 Abs. 1 Satz 2 und 3, Abs. 2 und 4, § 67 Abs. 2 und 3 und § 68 sind entsprechend anzuwenden.
 
-
-## § 86 – Delegiertenversammlung, Mitteilung des Hauptwahlvorstands an die Delegierten
+# § 86 – Delegiertenversammlung, Mitteilung des Hauptwahlvorstands an die Delegierten
 
 (1) Die Delegierten stimmen über den Antrag auf Abberufung in einer Versammlung (Delegiertenversammlung) ab. Die Delegiertenversammlung soll innerhalb von sechs Wochen nach der Feststellung, dass ein gültiger Antrag auf Abberufung eines durch Delegierte gewählten Aufsichtsratsmitglieds der Arbeitnehmer vorliegt, stattfinden.
 
@@ -3570,23 +3475,19 @@ Der Hauptwahlvorstand stellt für die Abberufung unverzüglich eine Liste der De
 
 10. die Anschrift des Hauptwahlvorstands.
 
-
-## § 87 – Abstimmung, Abstimmungsergebnis, Akten
+# § 87 – Abstimmung, Abstimmungsergebnis, Akten
 
 Für die Abstimmung, das Abstimmungsergebnis und die Aufbewahrung der Akten sind § 14 Abs. 1 und 3, die §§ 15, 19, 21 und 70 Absatz 1 Satz 3 und 4, Absatz 2 Satz 3 und Absatz 5 sowie die §§ 71, 77 und 84 Abs. 2 und 3 entsprechend anzuwenden.
 
-
-## § 88 – Ersatzmitglieder
+# § 88 – Ersatzmitglieder
 
 Für die Abberufung von Ersatzmitgliedern (§ 10n Absatz 4 des Gesetzes) sind die Vorschriften der Kapitel 1 bis 3 entsprechend anzuwenden.
 
-
-## § 89 – Grundsatz
+# § 89 – Grundsatz
 
 Nehmen an der Wahl oder an der Abberufung auch Arbeitnehmer eines in § 10i Absatz 1 des Gesetzes bezeichneten Betriebs (Seebetrieb) teil, so sind außer den Vorschriften des Teils 1 oder des Teils 2 auch die Vorschriften dieses Teils anzuwenden.
 
-
-## § 90 – Einleitung der Wahl
+# § 90 – Einleitung der Wahl
 
 (1) Die in § 1 Abs. 1 Satz 1 bezeichnete Frist wird auf 50 Wochen verlängert.
 
@@ -3620,13 +3521,11 @@ Nehmen an der Wahl oder an der Abberufung auch Arbeitnehmer eines in § 10i Absa
 
 2. ein Einspruch gegen eine Berichtigung oder Ergänzung der Wählerliste innerhalb von vier Wochen seit der Berichtigung oder der Ergänzung eingelegt werden.
 
-
-## § 91 – Abstimmung über die Art der Wahl
+# § 91 – Abstimmung über die Art der Wahl
 
 Die Arbeitnehmer der Seebetriebe nehmen an einer Abstimmung darüber, ob die Wahl durch Delegierte oder unmittelbar erfolgen soll, nicht teil und bleiben für die Errechnung der für die Antragstellung und für die Beschlussfassung erforderlichen Zahlen von Arbeitnehmern außer Betracht (§ 10i Absatz 3 des Gesetzes); in der Bekanntmachung nach § 11 und in dem Abstimmungsausschreiben nach § 13 ist hierauf hinzuweisen. Die §§ 11 bis 22 sind auf Seebetriebe nicht anzuwenden.
 
-
-## § 92 – Bekanntmachung über die Einreichung von Wahlvorschlägen
+# § 92 – Bekanntmachung über die Einreichung von Wahlvorschlägen
 
 (1) Die Bekanntmachung nach § 23 Abs. 1 muss in Seebetrieben auch folgende Angaben enthalten:
 
@@ -3642,8 +3541,7 @@ Die Arbeitnehmer der Seebetriebe nehmen an einer Abstimmung darüber, ob die Wah
 
 (4) Die in § 30 Abs. 2 Satz 1 bezeichnete Mindestfrist für die Bekanntmachung der Wahlvorschläge wird auf drei Wochen verlängert. Ist zu besorgen, dass die in Satz 1 bezeichnete Mindestfrist zwischen dem für die Bekanntmachung der Wahlvorschläge an Bord bestimmten Zeitpunkt und dem Beginn der Stimmabgabe in den Landbetrieben für eine fristgerechte Stimmabgabe der Arbeitnehmer der Seebetriebe nicht ausreicht, so kann der Hauptwahlvorstand diese Mindestfrist auf höchstens fünf Wochen verlängern. Für die Bekanntmachung der Wahlvorschläge in Seebetrieben gilt § 23 Abs. 3 Satz 1 entsprechend und § 90 Abs. 4 ist anzuwenden.
 
-
-## § 93 – Wahlausschreiben im Seebetrieb
+# § 93 – Wahlausschreiben im Seebetrieb
 
 (1) Das Wahlausschreiben nach § 32 Abs. 1 muss in Seebetrieben auch folgende Angaben enthalten:
 
@@ -3653,8 +3551,7 @@ Die Arbeitnehmer der Seebetriebe nehmen an einer Abstimmung darüber, ob die Wah
 
 (2) Für die Bekanntmachung des Wahlausschreibens in Seebetrieben ist § 32 Abs. 2 Satz 2 und 3 nicht anzuwenden; § 23 Abs. 5 und § 90 Abs. 4 sind anzuwenden.
 
-
-## § 94 – Stimmabgabe bei der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+# § 94 – Stimmabgabe bei der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
 (1) Die Arbeitnehmer von Seebetrieben stimmen bei der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer in Briefwahl ab.
 
@@ -3666,15 +3563,13 @@ Die Arbeitnehmer der Seebetriebe nehmen an einer Abstimmung darüber, ob die Wah
 
 Die Bordvertretung oder, wenn eine solche nicht besteht, der Kapitän hat jedem Besatzungsmitglied die zur Stimmabgabe erforderlichen Unterlagen auszuhändigen. Die Wahlbriefe der Besatzungsmitglieder eines Schiffes sollen möglichst gleichzeitig an den Hauptwahlvorstand abgesandt werden.
 
-
-## § 95 – Wahl der Delegierten
+# § 95 – Wahl der Delegierten
 
 (1) In Seebetrieben werden Delegierte nicht gewählt. Die §§ 46 bis 65 sind auf Seebetriebe nicht anzuwenden.
 
 (2) Die Arbeitnehmer von Seebetrieben nehmen an der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer unmittelbar teil.
 
-
-## § 96 – Wahlausschreiben in Seebetrieben
+# § 96 – Wahlausschreiben in Seebetrieben
 
 (1) Steht fest, dass die Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte zu wählen sind, so erlässt der Hauptwahlvorstand ein Wahlausschreiben für Seebetriebe. Es muss folgende Angaben enthalten:
 
@@ -3702,8 +3597,7 @@ Die Bordvertretung oder, wenn eine solche nicht besteht, der Kapitän hat jedem 
 
 (2) § 23 Abs. 5, § 32 Abs. 2 Satz 1 und § 90 Abs. 4 sind entsprechend anzuwenden.
 
-
-## § 97 – Stimmabgabe der Arbeitnehmer von Seebetrieben
+# § 97 – Stimmabgabe der Arbeitnehmer von Seebetrieben
 
 (1) Die Arbeitnehmer von Seebetrieben stimmen bei der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer in Briefwahl ab. Die §§ 41 und 42 sind entsprechend anzuwenden; abweichend von § 41 Abs. 1 Satz 1 Nr. 4 muss der Freiumschlag die Anschrift des Hauptwahlvorstands tragen.
 
@@ -3723,8 +3617,7 @@ Die Bordvertretung oder, wenn eine solche nicht besteht, der Kapitän hat jedem 
 
 2. Je 90 dieser Stimmen werden als eine Stimme eines Delegierten gezählt. Werden 90 Stimmen nicht erreicht, so werden mindestens 45 Stimmen als eine Stimme eines Delegierten gezählt. Bei mehr als 90 Stimmen wird ein Rest von mindestens 45 Stimmen als eine Stimme eines Delegierten gezählt. Die so errechneten Stimmenzahlen werden jeweils der Stimmenzahl der von den Delegierten in dem Wahlgang für den Wahlvorschlag abgegebenen Stimmen hinzugezählt.
 
-
-## § 98 – Wahlniederschrift
+# § 98 – Wahlniederschrift
 
 (1) Für die Wahlniederschrift ist § 76 nicht anzuwenden. Nachdem ermittelt ist, wer gewählt ist, stellt der Hauptwahlvorstand in einer Niederschrift für jeden Wahlgang gesondert fest:
 
@@ -3770,15 +3663,13 @@ c) die Summen der auf die einzelnen Bewerber entfallenden Stimmen der Delegierte
 
 2. die Anzahl der Sitze, die aufgrund des Nichterreichens des Geschlechteranteils nach § 5a des Gesetzes nicht besetzt worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der Arbeitnehmer, die Arbeitnehmer von Konzernunternehmen sind, und den Aufsichtsratsmitgliedern der Gewerkschaften.
 
-
-## § 99 – Gemeinsame Vorschrift
+# § 99 – Gemeinsame Vorschrift
 
 (1) Für einen Seebetrieb wird ein Betriebswahlvorstand nicht gebildet. Der Hauptwahlvorstand nimmt im Seebetrieb die sich aus dieser Verordnung ergebenden Aufgaben des Betriebswahlvorstands wahr. Abweichend von § 79 Abs. 3 Satz 1 sind auf Seebetriebe die §§ 4 und 5 Abs. 2 nicht anzuwenden. In einem Seebetrieb ist § 90 Abs. 6 Satz 1 entsprechend anzuwenden.
 
 (2) Für Mitteilungen, die in den Seebetrieben bekannt zu machen sind, ist § 90 Abs. 4 anzuwenden.
 
-
-## § 100 – Abberufungsausschreiben für Seebetriebe, Wählerliste
+# § 100 – Abberufungsausschreiben für Seebetriebe, Wählerliste
 
 (1) Die in § 83 Abs. 1 Satz 2 bezeichnete Frist wird auf sechs Wochen verlängert.
 
@@ -3786,13 +3677,11 @@ c) die Summen der auf die einzelnen Bewerber entfallenden Stimmen der Delegierte
 
 (3) § 90 Abs. 5 und 7 ist entsprechend anzuwenden.
 
-
-## § 101 – Stimmabgabe
+# § 101 – Stimmabgabe
 
 Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 102 – Unmittelbare Abstimmung, Wählerliste, Mitteilung an die Delegierten
+# § 102 – Unmittelbare Abstimmung, Wählerliste, Mitteilung an die Delegierten
 
 (1) Die Arbeitnehmer von Seebetrieben nehmen an der Abstimmung über einen Antrag auf Abberufung unmittelbar teil.
 
@@ -3800,13 +3689,11 @@ Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2 ist ents
 
 (3) Die in § 86 Abs. 1 Satz 2 bezeichnete Frist wird auf elf Wochen verlängert. § 97 Abs. 3 Satz 2 ist entsprechend anzuwenden mit der Maßgabe, dass der Hauptwahlvorstand die Frist auf höchstens 14 Wochen verlängern kann.
 
-
-## § 103 – Abberufungsausschreiben für Seebetriebe
+# § 103 – Abberufungsausschreiben für Seebetriebe
 
 Spätestens zehn Wochen vor der Delegiertenversammlung erlässt der Hauptwahlvorstand ein Abberufungsausschreiben für Seebetriebe. § 83 Abs. 2 Satz 1, § 96 Abs. 1 Satz 2 Nr. 3, 6 und 9 bis 11 und Abs. 2 sind entsprechend anzuwenden.
 
-
-## § 104 – Abstimmung, Mitteilung des Abstimmungsergebnisses
+# § 104 – Abstimmung, Mitteilung des Abstimmungsergebnisses
 
 Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2 ist entsprechend anzuwenden. § 14 Abs. 2 und die §§ 17, 18 und 87 sind auf die Arbeitnehmer von Seebetrieben mit folgender Maßgabe entsprechend anzuwenden:
 
@@ -3820,8 +3707,7 @@ Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2 ist ents
 
 5. Für die Abstimmungsniederschrift ist § 98 Satz 2 Nr. 1 und 2, 4, 5 und 7 entsprechend anzuwenden.
 
-
-## § 105 – Erstmalige Anwendung des Gesetzes auf ein Unternehmen
+# § 105 – Erstmalige Anwendung des Gesetzes auf ein Unternehmen
 
 (1) Bei der erstmaligen Anwendung des Gesetzes auf ein Unternehmen hat das Unternehmen die in § 1 bezeichnete Bekanntmachung unverzüglich nach der in § 97 Abs. 1 des Aktiengesetzes bezeichneten Bekanntmachung über die Zusammensetzung des Aufsichtsrats zu erlassen.
 
@@ -3829,13 +3715,11 @@ Die Arbeitnehmer von Seebetrieben stimmen in Briefwahl ab. § 94 Abs. 2 ist ents
 
 (3) Abweichend von § 11 Abs. 1 Satz 1 soll der Hauptwahlvorstand die in den §§ 11 und 23 bezeichneten Bekanntmachungen 22 Wochen vor dem voraussichtlichen Beginn der Amtszeit der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer erlassen. Nehmen an der Wahl auch Arbeitnehmer eines in § 10i Absatz 1 des Gesetzes bezeichneten Betriebs (Seebetrieb) teil, so verlängert sich die in Satz 1 bezeichnete Frist auf 46 Wochen.
 
-
-## § 106 – Berechnung von Fristen
+# § 106 – Berechnung von Fristen
 
 Für die Berechnung der in dieser Verordnung bestimmten Fristen sind die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. Arbeitstage im Sinne dieser Verordnung sind die Wochentage Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage.
 
-
-## § 107 – Übergangsregelung
+# § 107 – Übergangsregelung
 
 (1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 abgeschlossen sind, ist die Wahlordnung zum Mitbestimmungsergänzungsgesetz vom 10. Oktober 2005 (BGBl. I S. 2927, 2932) anzuwenden.
 

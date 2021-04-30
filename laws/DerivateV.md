@@ -1,15 +1,11 @@
-# [DerivateV] Verordnung über Risikomanagement und Risikomessung beim Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften in Investmentvermögen nach dem Kapitalanlagegesetzbuch  (Derivateverordnung - DerivateV)
-
-Ausfertigungsdatum: 16.07.2013
-
+% Verordnung über Risikomanagement und Risikomessung beim Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften in Investmentvermögen nach dem Kapitalanlagegesetzbuch  (Derivateverordnung - DerivateV)
+% Ausfertigungsdatum: 16.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 197 Absatz 3 Satz 1 und des § 204 Absatz 3 Satz 1 des Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) sowie des § 106 Satz 1, des § 120 Absatz 8 Satz 1, des § 121 Absatz 4 Satz 1, des § 135 Absatz 11 Satz 1 und des § 136 Absatz 4 Satz 1 des Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) im Einvernehmen mit dem Bundesministerium der Justiz, jeweils in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 11. Juli 2013 (BGBl. I S. 2231) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung ist anzuwenden auf
 
@@ -21,8 +17,7 @@ Auf Grund des § 197 Absatz 3 Satz 1 und des § 204 Absatz 3 Satz 1 des Kapitala
 
 (2) Diese Verordnung ist nur anzuwenden für offene inländische Publikumsinvestmentvermögen gemäß den §§ 162 bis 260 des Kapitalanlagesetzbuches und für offene inländische Spezial-AIF mit festen Anlagebedingungen gemäß § 284 des Kapitalanlagegesetzbuches, es sei denn, die Anlagebedingungen dieser Investmentvermögen schließen eine Investition in Derivate, Wertpapier-Darlehen und Pensionsgeschäfte aus.
 
-
-## § 2 – Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften
+# § 2 – Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften
 
 (1) Der Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften darf
 
@@ -42,8 +37,7 @@ b) bei Publikumsinvestmentvermögen im Verkaufsprospekt und in den wesentlichen 
 
 (3) Besitzt ein Vertragspartner eines derivativen Geschäftes einen Ermessensspielraum bei der Zusammensetzung oder Verwaltung des Anlageportfolios des Investmentvermögens oder bei der Zusammensetzung oder Verwaltung der Basiswerte oder des Basiswertes des Derivates, so gilt das Geschäft als Auslagerungsvereinbarung in Bezug auf die Portfolioverwaltung und muss den Anforderungen des § 36 des Kapitalanlagegesetzbuches entsprechen.
 
-
-## § 3 – Liefer- und Zahlungsverpflichtungen; Deckung
+# § 3 – Liefer- und Zahlungsverpflichtungen; Deckung
 
 (1) Die Kapitalverwaltungsgesellschaft muss sicherstellen, dass
 
@@ -53,15 +47,13 @@ b) bei Publikumsinvestmentvermögen im Verkaufsprospekt und in den wesentlichen 
 
 (2) Für die Zwecke des Absatzes 1 Nummer 2 ist die Deckung im Rahmen des Risikomanagementprozesses laufend zu überwachen.
 
-
-## § 4 – Interessenkonflikte
+# § 4 – Interessenkonflikte
 
 (1) Die Kapitalverwaltungsgesellschaft hat insbesondere für Geschäfte, bei denen Interessenkonflikte nicht auszuschließen sind, zum Beispiel Geschäfte mit dem Mutter-, Schwester- oder Tochterunternehmen, durch ein angemessenes Kontrollverfahren sicherzustellen, dass diese Geschäfte zu marktgerechten Konditionen abgeschlossen werden. Das festgelegte Kontrollverfahren ist von der Kapitalverwaltungsgesellschaft zu dokumentieren.
 
 (2) Der Prüfungsbericht gemäß den §§ 102, 121 Absatz 3 und § 136 Absatz 3 des Kapitalanlagegesetzbuches hat Angaben darüber zu enthalten, ob das festgelegte Kontrollverfahren angemessen und zweckdienlich ist.
 
-
-## § 5 – Grundlagen und Abgrenzung
+# § 5 – Grundlagen und Abgrenzung
 
 (1) Die Kapitalverwaltungsgesellschaft hat die Auslastung der nach § 197 Absatz 2 des Kapitalanlagegesetzbuches festgesetzten Marktrisikogrenze für den Einsatz von Derivaten (Grenzauslastung) mindestens auf täglicher Basis zu ermitteln. Die Marktrisikogrenze muss laufend eingehalten werden. Abhängig von der Anlagestrategie kann auch eine untertägige Berechnung der Auslastung notwendig sein.
 
@@ -75,25 +67,21 @@ b) bei Publikumsinvestmentvermögen im Verkaufsprospekt und in den wesentlichen 
 
 3. das Investmentvermögen über einen zu vernachlässigenden Anteil hinaus in komplexe Derivate investiert ist.
 
-
-## § 6 – Aufzeichnungs- und Anzeigepflichten
+# § 6 – Aufzeichnungs- und Anzeigepflichten
 
 Die Entscheidung der Kapitalverwaltungsgesellschaft für den einfachen Ansatz oder den qualifizierten Ansatz sowie für eine der Methoden des qualifizierten Ansatzes zur Ermittlung der Grenzauslastung nach § 7 Absatz 1 oder Absatz 2 und die der Entscheidung zugrunde liegenden Annahmen sind zu dokumentieren. Der Abschlussprüfer hat das in den einzelnen Investmentvermögen zur Ermittlung der Grenzauslastung nach § 197 Absatz 2 des Kapitalanlagegesetzbuches angewendete Verfahren im Prüfungsbericht gemäß den §§ 102, 121 Absatz 3 und § 136 Absatz 3 des Kapitalanlagegesetzbuches aufzuführen. Die Kapitalverwaltungsgesellschaft hat den Wechsel zwischen dem einfachen und dem qualifizierten Ansatz sowie den Wechsel der Methode zur Ermittlung der Grenzauslastung innerhalb des qualifizierten Ansatzes nach § 7 Absatz 1 oder Absatz 2 für ein Investmentvermögen der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) unverzüglich anzuzeigen.
 
-
-## § 7 – Risikobegrenzung
+# § 7 – Risikobegrenzung
 
 (1) Der einem Investmentvermögen zuzuordnende potenzielle Risikobetrag für das Marktrisiko darf zu keinem Zeitpunkt das Zweifache des potenziellen Risikobetrags für das Marktrisiko des zugehörigen Vergleichsvermögens übersteigen.
 
 (2) Alternativ darf der einem Investmentvermögen zuzuordnende potenzielle Risikobetrag für das Marktrisiko zu keinem Zeitpunkt 20 Prozent des Wertes des Investmentvermögens übersteigen.
 
-
-## § 8 – Abgrenzung
+# § 8 – Abgrenzung
 
 Im Rahmen des qualifizierten Ansatzes kann die Kapitalverwaltungsgesellschaft den potenziellen Risikobetrag entweder relativ im Verhältnis zu dem zugehörigen Vergleichsvermögen nach § 7 Absatz 1 oder absolut nach § 7 Absatz 2 begrenzen. Dabei wählt sie die Methode entsprechend § 5 Absatz 2 in eigener Verantwortung. Die Methode muss bezüglich des Risikoprofils und der Anlagestrategie des Investmentvermögens angemessen sein. Die Methode ist in der Regel kontinuierlich zu verwenden.
 
-
-## § 9 – Zugehöriges Vergleichsvermögen
+# § 9 – Zugehöriges Vergleichsvermögen
 
 (1) Das zugehörige Vergleichsvermögen ist regelmäßig ein derivatefreies Vermögen, das keinen Leverage aufweist und dessen Marktwert dem aktuellen Marktwert des Investmentvermögens entspricht.
 
@@ -111,8 +99,7 @@ Im Rahmen des qualifizierten Ansatzes kann die Kapitalverwaltungsgesellschaft de
 
 (6) Nimmt die Kapitalverwaltungsgesellschaft eine wesentliche Änderung des Vergleichsmaßstabs im Sinne des Absatzes 3 vor, ist dies der Bundesanstalt unverzüglich und nachvollziehbar anzuzeigen; von der Anzeigepflicht ausgenommen sind Änderungen von Vergleichsmaßstäben für Spezial-AIF nach § 284 des Kapitalanlagegesetzbuches.
 
-
-## § 10 – Potenzieller Risikobetrag für das Marktrisiko
+# § 10 – Potenzieller Risikobetrag für das Marktrisiko
 
 (1) Der potenzielle Risikobetrag für das Marktrisiko ist mit Hilfe eines geeigneten eigenen Risikomodells im Sinne des § 1 Absatz 13 des Kreditwesengesetzes zu ermitteln.
 
@@ -128,8 +115,7 @@ In begründeten Einzelfällen kann die Bundesanstalt ein Risikomodell auf Antrag
 
 (3) Der Prüfungsbericht gemäß den §§ 102, 121 Absatz 3 und § 136 Absatz 3 des Kapitalanlagegesetzbuches hat Angaben darüber zu enthalten, ob die Anforderungen nach Absatz 2 eingehalten sind. Das Recht der Bundesanstalt, die Einhaltung der Anforderungen nach Absatz 2 zu überprüfen oder eine Eignungsprüfung zu wiederholen, bleibt unberührt. Sind die Anforderungen nicht eingehalten, kann die Bundesanstalt geeignete Maßnahmen veranlassen.
 
-
-## § 11 – Quantitative Vorgaben
+# § 11 – Quantitative Vorgaben
 
 Bei der Ermittlung des potenziellen Risikobetrags für das Marktrisiko ist
 
@@ -141,8 +127,7 @@ Bei der Ermittlung des potenziellen Risikobetrags für das Marktrisiko ist
 
 Abweichend von Satz 1 Nummer 1 ist die Annahme einer Haltedauer von weniger als 20 Arbeitstagen zulässig. Eine Abweichung von Satz 1 Nummer 2 ist bis zu einem Wahrscheinlichkeitsniveau von 95 Prozent zulässig. Bei einer Abweichung von Satz 1 Nummer 1 und 2 ist der Prozentsatz in § 7 Absatz 2 entsprechend anzupassen. Eine Abweichung von Satz 1 Nummer 3 ist nur aufgrund außergewöhnlicher Marktbedingungen und nach vorheriger Zustimmung der Bundesanstalt im Sinne des § 10 Absatz 2 Satz 2 zulässig.
 
-
-## § 12 – Zu erfassende Risikofaktoren
+# § 12 – Zu erfassende Risikofaktoren
 
 (1) Bei der Ermittlung des potenziellen Risikobetrags für das Marktrisiko sind alle nicht nur unerheblichen Marktrisikofaktoren in einer dem Umfang und der Struktur des Investmentvermögens angemessenen Weise zu berücksichtigen. Dabei sind sowohl das allgemeine als auch das besondere Marktrisiko zu berücksichtigen.
 
@@ -158,8 +143,7 @@ Bei der Ermittlung der Zinsstrukturrisiken sind eine dem Umfang des Investmentve
 
 (4) Bei der Ermittlung der Aktienkursrisiken sind Unterschiede in der Entwicklung der Kurse oder Preise von Produktgruppen und Produkten sowie Unterschiede in der Entwicklung von Kassa- und Terminpreisen in angemessener Weise zu berücksichtigen.
 
-
-## § 13 – Qualitative Anforderungen; Risikocontrolling
+# § 13 – Qualitative Anforderungen; Risikocontrolling
 
 (1) Die Arbeits- und Ablauforganisation der Kapitalverwaltungsgesellschaft ist so zu gestalten, dass eine zeitnahe Ermittlung des potenziellen Risikobetrags für das Marktrisiko, insbesondere durch eine vollständige Erfassung aller Positionen des Investmentvermögens, gewährleistet ist; diese ist ausführlich zu dokumentieren.
 
@@ -199,20 +183,17 @@ Personen, die direkt in den Entwicklungsprozess des Risikomodells eingebunden si
 
 (7) Die Einhaltung der Anforderungen nach den Absätzen 1 bis 6 sowie des § 14 ist regelmäßig, mindestens aber einmal jährlich, von der Internen Revision zu überprüfen.
 
-
-## § 14 – Prognosegüte
+# § 14 – Prognosegüte
 
 Die Prognosegüte eines Risikomodells ist mittels eines täglichen Vergleichs des anhand des Risikomodells auf der Basis einer Haltedauer von einem Arbeitstag ermittelten potenziellen Risikobetrags für das Marktrisiko mit der Wertveränderung der in die modellmäßige Berechnung einbezogenen einzelnen Finanzinstrumente oder Finanzinstrumentsgruppen nachweislich zu ermitteln (Backtesting). Bei der Ermittlung der Prognosegüte sind die Finanzinstrumente oder Finanzinstrumentsgruppen, die sich zum Geschäftsschluss des Vortages im Investmentvermögen befunden haben, mit den jeweiligen Marktpreisen zum Geschäftsschluss neu zu bewerten. Die negative Differenz zum Bewertungsergebnis des Vortages ist festzustellen. Übersteigt der Absolutbetrag der nach Satz 2 ermittelten Wertveränderung den modellmäßig ermittelten potenziellen Risikobetrag für das Marktrisiko, so sind die Geschäftsleiter mindestens vierteljährlich und die Bundesanstalt vierteljährlich hierüber sowie über die Größe der Differenz, den Grund ihres Entstehens und gegebenenfalls eingeleitete Maßnahmen zur Verbesserung der Prognosegüte zu unterrichten. Die Anzeige hat auch die zugrunde gelegten Parameter nach § 11 Satz 1 Nummer 2 und 3 in Verbindung mit § 11 Satz 3 und 4 zu umfassen. Übersteigt die Zahl der Ausnahmen ein nicht angemessenes Niveau, kann die Bundesanstalt geeignete Maßnahmen veranlassen.
 
-
-## § 15 – Risikobegrenzung
+# § 15 – Risikobegrenzung
 
 (1) Der Anrechnungsbetrag für das Marktrisiko nach § 16 Absatz 3 darf zu keinem Zeitpunkt den Wert des Investmentvermögens übersteigen.
 
 (2) Enthält das Investmentvermögen unmittelbar oder mittelbar Vermögensgegenstände nach § 196 des Kapitalanlagegesetzbuches, die Derivate enthalten, so ist in Absatz 1 der Wert des Investmentvermögens um den Wert dieser Vermögensgegenstände zu vermindern.
 
-
-## § 16 – Anrechnungsbetrag für das Marktrisiko
+# § 16 – Anrechnungsbetrag für das Marktrisiko
 
 (1) Der Anrechnungsbetrag für das Marktrisiko für Grundformen von Derivaten ist regelmäßig jeweils das Basiswertäquivalent. Dabei ist der Marktwert des Basiswertes zugrunde zu legen. Führt dies zu einer konservativeren Ermittlung, kann alternativ der Nominalwert oder der börsentäglich ermittelte Terminpreis bei Finanzterminkontrakten zugrunde gelegt werden.
 
@@ -278,8 +259,7 @@ b) bezüglich des Käufers oder Sicherungsnehmers der Marktwert des zugrunde lie
 
 3. Schwellenoptionen die Anzahl der Kontrakte multipliziert mit dem Kontraktwert multipliziert mit dem Marktwert des zugrunde liegenden Basiswertes multipliziert mit dem maximalen Delta; das maximale Delta ist der höchste positive oder der niedrigste negative Wert, den das Delta unter Berücksichtigung aller potenziellen Marktszenarien erreichen kann.
 
-
-## § 17 – Unberücksichtigte Derivate
+# § 17 – Unberücksichtigte Derivate
 
 Bei der Ermittlung des Anrechnungsbetrags nach § 16 Absatz 3 dürfen unberücksichtigt bleiben:
 
@@ -291,15 +271,13 @@ b) der Swap weder Optionsrechte einräumt noch Leverage oder sonstige zusätzlic
 
 2. Derivate, die weder zusätzliches Marktrisikopotenzial noch Leverage generieren und denen entsprechende risikolose liquide Mittel zugeordnet werden können, so dass die Kombination aus Derivat und risikolosen liquiden Mitteln der direkten Investition in den zugrunde liegenden Basiswert äquivalent ist.
 
-
-## § 18 – Zugehöriges Delta
+# § 18 – Zugehöriges Delta
 
 (1) Das zugehörige Delta ist das Verhältnis der Veränderung des Wertes des Derivates zu einer als geringfügig angenommenen Veränderung des Wertes des Basiswertes.
 
 (2) Die Kapitalverwaltungsgesellschaft ist verpflichtet, die zugehörigen Deltas auf geeignete und anerkannte Weise börsentäglich zu ermitteln, zu dokumentieren und der Verwahrstelle mitzuteilen.
 
-
-## § 19 – Anerkennung von Absicherungsgeschäften
+# § 19 – Anerkennung von Absicherungsgeschäften
 
 (1) Bei der Ermittlung des Anrechnungsbetrags für das Marktrisiko nach § 16 Absatz 3 können Absicherungsgeschäfte berücksichtigt werden. Dem Anrechnungsbetrag von marktgegenläufigen Derivaten wird hierzu ein negatives Vorzeichen zugeordnet. Die Anrechnungsbeträge von marktgegenläufigen Derivaten können mit den entsprechenden positiven Anrechnungsbeträgen von Derivaten sowie mit den Marktwerten von entsprechenden nichtderivativen Vermögensgegenständen nach den §§ 193 bis 196, 198 und 231 des Kapitalanlagegesetzbuches addiert und somit verrechnet werden. Der aus der Verrechnung resultierende Anrechnungsbetrag ist als absoluter Wert in die Summe nach § 16 Absatz 3 einzubeziehen. Verrechnungen dürfen nur unter der Voraussetzung erfolgen, dass
 
@@ -331,8 +309,7 @@ davon ausgegangen werden kann, dass die Absicherungsstrategie auch unter außerg
 
 (2) Für Investmentvermögen, die überwiegend in Derivate investiert sind, die sich auf Zinssätze beziehen (Zinsderivate), kann zum Zweck der Verrechnung von Anrechnungsbeträgen die Korrelation zwischen Laufzeitsegmenten der Zinsstrukturkurve nach der in § 20 beschriebenen Methode berücksichtigt werden. Die Methode nach § 20 darf nicht angewendet werden, wenn die Anwendung zu einer falschen Ermittlung des Risikoprofils des Investmentvermögens und zu überhöhtem Leverage führt und wenn wesentliche Risiken unberücksichtigt bleiben.
 
-
-## § 20 – Absicherungen bei Zinsderivaten
+# § 20 – Absicherungen bei Zinsderivaten
 
 (1) Zur Verrechnung von Zinsderivaten nach § 19 Absatz 2 sind die Zinsderivate entsprechend den restlichen Zinsbindungsfristen der zugrunde liegenden Basiswerte den folgenden Laufzeitbändern zuzuordnen:  
   
@@ -362,8 +339,7 @@ davon ausgegangen werden kann, dass die Absicherungsstrategie auch unter außerg
 
 4. mit 100 Prozent gewichteten verbleibenden offenen Positionen.
 
-
-## § 21 – Wiederanlage von Sicherheiten
+# § 21 – Wiederanlage von Sicherheiten
 
 (1) Die Anlage von Sicherheiten im Rahmen von Derivaten, von Wertpapier-Darlehen nach den §§ 200 bis 202 des Kapitalanlagegesetzbuches und von Pensionsgeschäften nach § 203 des Kapitalanlagegesetzbuches muss bei der Ermittlung des Anrechnungsbetrags für das Marktrisiko nach § 16 Absatz 3 mit den zugehörigen Anrechnungsbeträgen einbezogen werden. Ausgenommen hiervon ist die Anlage in risikolose Mittel.
 
@@ -373,8 +349,7 @@ davon ausgegangen werden kann, dass die Absicherungsstrategie auch unter außerg
 
 (4) In Pension genommene Wertpapiere oder empfangene Beträge nach § 203 des Kapitalanlagegesetzbuches gelten als Sicherheiten im Sinne der Absätze 1 bis 3.
 
-
-## § 22 – Ermittlung des Anrechnungsbetrags für strukturierte Investmentvermögen
+# § 22 – Ermittlung des Anrechnungsbetrags für strukturierte Investmentvermögen
 
 Der Anrechnungsbetrag für das Marktrisiko für strukturierte Investmentvermögen kann alternativ für die einzelnen Auszahlungsprofile getrennt ermittelt werden, sofern
 
@@ -394,15 +369,13 @@ Der Anrechnungsbetrag für das Marktrisiko für strukturierte Investmentvermöge
 
 8. der Einfluss der Wertentwicklung eines Basisinstruments auf das Auszahlungsprofil bei einem Wechsel zwischen Szenarien die jeweiligen Anlagegrenzen nach den §§ 206 und 207 des Kapitalanlagegesetzbuches bezogen auf den anfänglichen Wert des Investmentvermögens nicht übersteigt.
 
-
-## § 23 – Grundsatz
+# § 23 – Grundsatz
 
 (1) Bei der Berechnung der Auslastung der Anlagegrenzen nach den §§ 206 und 207 des Kapitalanlagegesetzbuches (Ausstellergrenzen) sind Derivate sowie derivative Komponenten, die von Wertpapieren, Geldmarktinstrumenten oder Investmentanteilen gemäß § 196 des Kapitalanlagegesetzbuches abgeleitet sind, einzubeziehen.
 
 (2) Bei Pensionsgeschäften sind alle Vermögensgegenstände, die Gegenstand des Pensionsgeschäftes sind, in die Ausstellergrenzen einzubeziehen.
 
-
-## § 24 – Anwendung des einfachen Ansatzes
+# § 24 – Anwendung des einfachen Ansatzes
 
 (1) Für die Berechnung der Ausstellergrenzen nach § 23 Absatz 1 ist grundsätzlich der einfache Ansatz nach § 16 anzuwenden. Dazu sind für die Derivate und derivativen Komponenten im Sinne des § 23 Absatz 1 die Anrechnungsbeträge für das Marktrisiko gemäß § 16 dem Aussteller des jeweiligen Basiswertes zuzurechnen. Sind die Voraussetzungen des § 19 Absatz 1 Satz 5 Nummer 1 bis 3, 4 Buchstabe a erfüllt, können Derivate, deren Wertentwicklung entgegengesetzt zu der Wertentwicklung des Basiswertes verläuft, entsprechend verrechnet werden.
 
@@ -416,15 +389,13 @@ Sichert ein Kreditderivat nur einen Teil des Kreditrisikos des zugeordneten Verm
 
 (3) Die Ausstellergrenzen müssen nach Anrechnung und Verrechnung der Derivate eingehalten werden, so dass das tatsächliche Exposure des Investmentvermögens gemäß den Ausstellergrenzen diversifiziert ist. Unabhängig von Verrechnungen müssen beim Einsatz von Total Return Swaps oder Derivaten mit ähnlichen Eigenschaften, die das tatsächliche Exposure des Investmentvermögens überwiegend beeinflussen, zusätzlich sowohl die direkt von dem Investmentvermögen gehaltenen Vermögensgegenstände (Grundinvestment) als auch die Basiswerte der Derivate den Ausstellergrenzen entsprechen.
 
-
-## § 25 – Abschluss und Bewertung eines OTC-Derivates
+# § 25 – Abschluss und Bewertung eines OTC-Derivates
 
 (1) Derivate, die nicht zum Handel an einer Börse zugelassen oder in einen anderen organisierten Markt einbezogen sind (OTC-Derivate), darf die Kapitalverwaltungsgesellschaft nur mit geeigneten Kreditinstituten oder Finanzdienstleistungsinstituten auf der Grundlage standardisierter Rahmenverträge abschließen.
 
 (2) Die Kapitalverwaltungsgesellschaft hat eine transparente und faire Bewertung der OTC-Derivate auf täglicher Basis sicherzustellen. Die Bewertung muss den Risiken der OTC-Derivate sowie der Art und Komplexität der OTC-Derivate Rechnung tragen und die Vorgaben der §§ 24 und 26 der Kapitalanlage-Rechnungslegungs- und Bewertungsverordnung erfüllen. Sehen Verfahren für die Bewertung von OTC-Derivaten vor, dass Dritte bestimmte Aufgaben durchführen, müssen die Anforderungen des § 36 des Kapitalanlagegesetzbuches erfüllt werden. Die Risikocontrollingfunktion nach § 29 Absatz 1 des Kapitalanlagegesetzbuches ist bei der Bewertung von OTC-Derivaten angemessen zu beteiligen. Die OTC-Derivate müssen jederzeit zu einem angemessenen Zeitwert veräußert, liquidiert oder durch ein Gegengeschäft glattgestellt werden können.
 
-
-## § 26 – Kündbarkeit von Wertpapier-Darlehen und Pensionsgeschäften
+# § 26 – Kündbarkeit von Wertpapier-Darlehen und Pensionsgeschäften
 
 (1) Die Kapitalverwaltungsgesellschaft muss berechtigt sein, jederzeit ein Wertpapier-Darlehen zu kündigen und zu beenden. Alle im Rahmen des Wertpapier-Darlehens übertragenen Wertpapiere müssen jederzeit zurückübertragen werden können.
 
@@ -446,8 +417,7 @@ b) den angelaufenen Geldbetrag in Höhe des Marktwertes des Reverse-Repo-Geschä
 
 (5) Wertpapier-Darlehen und Pensionsgeschäfte sind im Rahmen des Liquiditätsrisikomanagementprozesses zu berücksichtigen. Es ist sicherzustellen, dass den Rücknahmeverpflichtungen, die durch Wertpapier-Darlehen und Pensionsgeschäfte auftreten können, nachgekommen werden kann.
 
-
-## § 27 – Anrechnungsbetrag für das Kontrahentenrisiko
+# § 27 – Anrechnungsbetrag für das Kontrahentenrisiko
 
 (1) Derivate, Wertpapier-Darlehen und Pensionsgeschäfte dürfen nur insoweit abgeschlossen werden, als der Anrechnungsbetrag für das Kontrahentenrisiko des Vertragspartners 5 Prozent des Wertes des Investmentvermögens nicht überschreitet. Wenn der Vertragspartner ein Kreditinstitut mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist oder seinen Sitz in einem Drittstaat hat und Aufsichtsbestimmungen unterliegt, die nach Ansicht der Bundesanstalt denjenigen des Gemeinschaftsrechtes gleichwertig sind, darf der Anrechnungsbetrag bis zu 10 Prozent des Wertes des Investmentvermögens betragen. Überschreitet der Anrechnungsbetrag für das Kontrahentenrisiko die Grenze nach Satz 1 oder Satz 2, darf die Kapitalverwaltungsgesellschaft weitere Geschäfte mit dem Vertragspartner nur tätigen, wenn der Anrechnungsbetrag dadurch nicht erhöht wird. Die Grenze gemäß § 200 Absatz 1 des Kapitalanlagegesetzbuches bleibt unberührt.
 
@@ -517,8 +487,7 @@ Bei der Anlage der Sicherheiten in Form von Bankguthaben ist neben der Anrechnun
 
 (14) Die Kapitalverwaltungsgesellschaft kann bei Nutzung eines organisierten Wertpapier-Darlehenssystems gemäß § 202 des Kapitalanlagegesetzbuches von Absatz 7 Satz 1 Nummer 5, 6 und 10 sowie Absatz 9 abweichen, wenn die Wahrung der Interessen der Anleger mittels einer entsprechenden Anwendung der Vorgaben durch System gewährleistet ist.
 
-
-## § 28 – Allgemeine Vorschriften
+# § 28 – Allgemeine Vorschriften
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jedes Investmentvermögen Stresstests nach Maßgabe des § 30 durchzuführen. Ein Stresstest ist nur dann geeignet, wenn er die Anforderungen des § 29 erfüllt.
 
@@ -530,8 +499,7 @@ Bei der Anlage der Sicherheiten in Form von Bankguthaben ist neben der Anrechnun
 
 (5) Die Auslagerung der Durchführung von Stresstests bestimmt sich nach § 36 des Kapitalanlagegesetzbuches.
 
-
-## § 29 – Qualitative Anforderungen
+# § 29 – Qualitative Anforderungen
 
 (1) Die Stresstests müssen sich auf alle Risiken erstrecken, die den Wert oder die Schwankungen des Wertes des Investmentvermögens nicht nur unwesentlich beeinflussen. Besonderes Gewicht muss auf denjenigen Risiken liegen, denen die im jeweiligen Investmentvermögen angewendete Methode nach den §§ 5 bis 22 nicht oder nur unvollständig Rechnung trägt.
 
@@ -539,22 +507,19 @@ Bei der Anlage der Sicherheiten in Form von Bankguthaben ist neben der Anrechnun
 
 (3) Die Stresstests müssen so gestaltet und durchgeführt werden, dass sie auch diejenigen Risiken angemessen berücksichtigen, die möglicherweise erst infolge einer Stresssituation Bedeutung erlangen, beispielsweise das Risiko ungewöhnlicher Korrelationsveränderungen oder illiquider Märkte.
 
-
-## § 30 – Häufigkeit, Anpassung
+# § 30 – Häufigkeit, Anpassung
 
 (1) Die Stresstests sind mindestens monatlich durchzuführen. Darüber hinaus sind Stresstests dann durchzuführen, wenn nicht ausgeschlossen werden kann, dass sich ihre Ergebnisse durch eine Änderung des Wertes oder der Zusammensetzung des Investmentvermögens oder durch eine Änderung in den Marktgegebenheiten wesentlich ändern.
 
 (2) Die Gestaltung der Stresstests ist fortlaufend an die Zusammensetzung des Investmentvermögens und an die für das Investmentvermögen relevanten Marktgegebenheiten anzupassen. Bei jeder Änderung der Gestaltung der Stresstests sind der bisherige und der geänderte Stresstest mindestens einmal parallel durchzuführen.
 
-
-## § 31 – Dokumentation, Überprüfung
+# § 31 – Dokumentation, Überprüfung
 
 (1) Die Kapitalverwaltungsgesellschaft muss eine nachvollziehbare Richtlinie für die Gestaltung und die fortlaufende Anpassung der Stresstests erstellen. Auf Grundlage der Richtlinie ist für jedes Investmentvermögen ein Programm für die Durchführung von Stresstests zu entwickeln. Die Geeignetheit des Programms für das Investmentvermögen ist im Programm darzulegen. Die durchgeführten Stresstests und deren Ergebnisse sind für jedes Investmentvermögen nachvollziehbar zu dokumentieren. In der Dokumentation sind Abweichungen von dem Programm gemäß Satz 2 zu begründen.
 
 (2) Der Prüfungsbericht gemäß den §§ 102, 121 Absatz 3 und § 136 Absatz 3 des Kapitalanlagegesetzbuches hat Angaben darüber zu enthalten, ob die Stresstests gemäß § 29 ordnungsgemäß gestaltet und gemäß § 30 ordnungsgemäß durchgeführt wurden. Die Prüfungspflicht erstreckt sich auch auf § 28 Absatz 4 und 5.
 
-
-## § 32 – Zusätzliche Stresstests im Rahmen der Sicherheitenverwaltung
+# § 32 – Zusätzliche Stresstests im Rahmen der Sicherheitenverwaltung
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jedes Investmentvermögen, für das Sicherheiten in Höhe von mindestens 30 Prozent des Wertes des Investmentvermögens gestellt werden, geeignete Stresstests durchzuführen, die sowohl normale als auch außergewöhnliche Liquiditätsbedingungen berücksichtigen, um das mit den Sicherheiten verbundene Liquiditätsrisiko zu bewerten.
 
@@ -568,15 +533,13 @@ Bei der Anlage der Sicherheiten in Form von Bankguthaben ist neben der Anrechnun
 
 4. Maßnahmen zur Eindämmung von Verlusten, einschließlich Haircut-Strategie und Gap-Risiko-Schutz.
 
-
-## § 33 – Erwerb strukturierter Produkte
+# § 33 – Erwerb strukturierter Produkte
 
 (1) Ein strukturiertes Produkt darf für ein Investmentvermögen nur erworben werden, wenn sichergestellt ist, dass nur solche Komponenten Einfluss auf das Risikoprofil und die Preisbildung des Produktes haben, die auch direkt für das Investmentvermögen erworben werden dürfen.
 
 (2) Bei Anwendung des einfachen Ansatzes ist ein strukturiertes Produkt für die Ermittlung der Anrechnungsbeträge für das Marktrisiko gemäß § 16 und für die Einbeziehung bei der Berechnung der Auslastung der Ausstellergrenzen gemäß den §§ 23 und 24 in seine Komponenten zu zerlegen und als Kombination dieser Komponenten gemäß § 16 Absatz 6 auf die jeweiligen Anlagegrenzen anzurechnen. Die Zerlegung ist nachvollziehbar zu dokumentieren.
 
-
-## § 34 – Organisation
+# § 34 – Organisation
 
 (1) Die Kapitalverwaltungsgesellschaft hat die Investition in strukturierte Produkte in einer Richtlinie zu regeln, die eine detaillierte Beschreibung der Arbeitsabläufe, Verantwortungsbereiche und Kontrollen enthält. Die Richtlinie ist regelmäßig zu aktualisieren. In der Richtlinie muss mindestens Folgendes näher bestimmt sein:
 
@@ -590,8 +553,7 @@ Bei der Anlage der Sicherheiten in Form von Bankguthaben ist neben der Anrechnun
 
 (2) Für Produkte, mit denen die Kapitalverwaltungsgesellschaft bereits hinreichend Erfahrung hat, darf die Richtlinie ein vereinfachtes Verfahren vorsehen, soweit dies im Einzelfall angemessen ist. Die Kapitalverwaltungsgesellschaft hat die ordnungsgemäße Durchführung des in der Richtlinie festgelegten Verfahrens für jedes Investmentvermögen zu dokumentieren. Der Prüfungsbericht gemäß den §§ 102, 121 Absatz 3 und § 136 Absatz 3 des Kapitalanlagegesetzbuches hat Angaben darüber zu enthalten, ob die Kapitalverwaltungsgesellschaft das in der Richtlinie festgelegte Verfahren gemäß Absatz 1 ordnungsgemäß gestaltet und durchgeführt hat. Unzulänglichkeiten des Verfahrens sind im Prüfungsbericht aufzuzeigen.
 
-
-## § 35 – Angaben im Verkaufsprospekt eines Publikumsinvestmentvermögens
+# § 35 – Angaben im Verkaufsprospekt eines Publikumsinvestmentvermögens
 
 (1) Der Verkaufsprospekt eines Publikumsinvestmentvermögens gemäß § 165 des Kapitalanlagegesetzbuches muss beim Einsatz von Total Return Swaps oder anderen Derivaten, die einen wesentlichen Einfluss auf die Anlagestrategie des Investmentvermögens haben, die folgenden Angaben enthalten:
 
@@ -647,13 +609,11 @@ Die Angaben nach Satz 1 Nummer 6 und 7 können alternativ zusammen im Jahresberi
 
 2. einen Warnhinweis an hervorgehobener Stelle enthalten, dass Anteilsrückgaben vor Ablauf der Dauer des Investmentvermögens nicht zu der festgelegten Auszahlung führen und dass daraus möglicherweise signifikante Verluste resultieren.
 
-
-## § 36 – Angaben in den wesentlichen Anlegerinformationen
+# § 36 – Angaben in den wesentlichen Anlegerinformationen
 
 Die Informationen nach § 35 Absatz 2 sind in zusammengefasster Form auch in den wesentlichen Anlegerinformationen gemäß § 166 des Kapitalanlagegesetzbuches darzustellen.
 
-
-## § 37 – Angaben im Jahresbericht
+# § 37 – Angaben im Jahresbericht
 
 (1) Der Jahresbericht eines Investmentvermögens muss beim Einsatz von Derivaten die folgenden Angaben enthalten:
 
@@ -681,8 +641,7 @@ Die Informationen nach § 35 Absatz 2 sind in zusammengefasster Form auch in den
 
 (6) Weisen die zugunsten des Investmentvermögens gestellten Sicherheiten im Berichtszeitraum eine erhöhte Emittentenkonzentration nach § 27 Absatz 7 Satz 4 auf, so sind im Jahresbericht die Emittenten oder Garanten derjenigen Sicherheiten zu benennen, deren Wert mehr als 20 Prozent des Wertes des Investmentvermögens ausgemacht haben. Dabei ist anzugeben, ob sämtliche Sicherheiten in Form von Wertpapieren gestellt wurden, die der Bund, ein anderer Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum begeben oder garantiert hat.
 
-
-## § 38 – Berichte über Derivate
+# § 38 – Berichte über Derivate
 
 (1) Die Kapitalverwaltungsgesellschaft hat für jeden OGAW zum Ende des Kalenderjahres oder des Geschäftsjahres (Berichtsstichtag) und zusätzlich jederzeit auf Anforderung der Bundesanstalt einen Bericht über die verwendeten Derivate und strukturierten Produkte mit derivativer Komponente zu erstellen. Für offene Publikums-AIF gemäß § 214 des Kapitalanlagegesetzbuches und für Spezial-AIF nach § 284 des Kapitalanlagegesetzbuches ist der Bericht nur auf Anforderung der Bundesanstalt zu erstellen. Der Bericht ist der Bundesanstalt jeweils unverzüglich einzureichen.
 
@@ -698,8 +657,7 @@ Die Informationen nach § 35 Absatz 2 sind in zusammengefasster Form auch in den
 
 (3) Die Bundesanstalt kann der Deutschen Bundesbank, der Europäischen Wertpapier- und Marktaufsichtsbehörde und dem Europäischen Ausschuss für Systemrisiken die nach den Absätzen 1 und 2 eingehenden Informationen zum Zweck der Überwachung von Systemrisiken übermitteln.
 
-
-## § 39 – Anwendbarkeit
+# § 39 – Anwendbarkeit
 
 Die Vorschriften dieser Verordnung sind entsprechend anzuwenden
 
@@ -707,14 +665,12 @@ Die Vorschriften dieser Verordnung sind entsprechend anzuwenden
 
 2. auf die Tätigkeit einer EU-AIF-Verwaltungsgesellschaft, die inländische offene Spezial-AIF mit festen Anlagebedingungen verwaltet.
 
-
-## § 40 – Übergangsbestimmungen
+# § 40 – Übergangsbestimmungen
 
 (1) Die Derivateverordnung vom 6. Februar 2004 (BGBl. I S. 153) in der bis zum 21. Juli 2013 geltenden Fassung ist auf die am 21. Juli 2013 bestehenden AIF-Kapitalverwaltungsgesellschaften und AIF weiterhin anzuwenden, solange für diese nach den Übergangsvorschriften der §§ 345 bis 350 des Kapitalanlagegesetzbuches weiterhin die Vorschriften des Investmentgesetzes anwendbar sind.
 
 (2) Auf die am 6. September 2019 bestehenden Investmentvermögen kann § 24 Absatz 2 in seiner bis zum 5. September 2019 geltenden Fassung noch bis zum 5. Juni 2020 angewendet werden.
 
-
-## § 41 – Inkrafttreten, Außerkrafttreten
+# § 41 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt die Derivateverordnung vom 6. Februar 2004 (BGBl. I S. 153), die durch Artikel 1 der Verordnung vom 28. Juni 2011 (BGBl. I S. 1278) geändert worden ist, außer Kraft.

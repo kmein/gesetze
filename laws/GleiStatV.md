@@ -1,10 +1,7 @@
-# [GleiStatV] Verordnung über statistische Erhebungen zur Gleichstellung von Frauen und Männern in den Dienststellen und Gremien des Bundes  (Gleichstellungsstatistikverordnung - GleiStatV)
-
-Ausfertigungsdatum: 17.12.2015
-
+% Verordnung über statistische Erhebungen zur Gleichstellung von Frauen und Männern in den Dienststellen und Gremien des Bundes  (Gleichstellungsstatistikverordnung - GleiStatV)
+% Ausfertigungsdatum: 17.12.2015
  
-
-## § 1 – Erhebungsmerkmale für die Gleichstellungsstatistik
+# § 1 – Erhebungsmerkmale für die Gleichstellungsstatistik
 
 (1) Jede Dienststelle nach § 3 Nummer 5 des Bundesgleichstellungsgesetzes erfasst alle zwei Jahre die Zahl der in der Dienststelle beschäftigten Frauen und Männer nach
 
@@ -72,8 +69,7 @@ Satz 1 Nummer 1 gilt auch für Frauen und Männer, die für eine Wahl zur Bundes
 
 Die Daten sind getrennt nach Aufsichts- und wesentlichen Gremien zu erfassen.
 
-
-## § 2 – Erhebungsmerkmale für den Gleichstellungsindex
+# § 2 – Erhebungsmerkmale für den Gleichstellungsindex
 
 Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bundesbehörde beschäftigten Frauen und Männer. Die Erhebung erfasst auch die Zahl der Frauen und Männer nach
 
@@ -87,8 +83,7 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 5. beruflichem Aufstieg.
 
-
-## § 3 – Berichtszeitpunkt, Berichtszeitraum
+# § 3 – Berichtszeitpunkt, Berichtszeitraum
 
 (1) Die Daten nach § 1 Absatz 1 sind zum 30. Juni des Berichtsjahres zu erfassen. Die Daten nach § 1 Absatz 2 sind für den Zeitraum vom 1. Juli des vorletzten Jahres bis zum 30. Juni des Berichtsjahres zu erfassen.
 
@@ -96,8 +91,7 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 (3) Die Daten nach § 2 Satz 1 und 2 Nummer 1 bis 4 sind zum 30. Juni des Berichtsjahres zu erfassen. Die Daten nach § 2 Satz 2 Nummer 5 sind für den Zeitraum vom 1. Juli des Vorjahres bis zum 30. Juni des Berichtsjahres zu erfassen.
 
-
-## § 4 – Meldung und Aufbereitung der Daten für die Gleichstellungsstatistik
+# § 4 – Meldung und Aufbereitung der Daten für die Gleichstellungsstatistik
 
 (1) Die nach § 1 Absatz 1 und 2 erfassten Daten der nachgeordneten Bundesbehörden mit regelmäßig mindestens 15 Beschäftigten sind der obersten Bundesbehörde zu melden. Die Dienststellen der Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts melden ihre Daten an ihre jeweilige Körperschaft, Anstalt oder Stiftung. Diese leitet die zusammengefassten Daten an die oberste Bundesbehörde oder die oberste Aufsichtsbehörde weiter.
 
@@ -113,8 +107,7 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 (5) Das Statistische Bundesamt leitet die Statistik nach § 38 Absatz 3 Nummer 1 des Bundesgleichstellungsgesetzes den obersten Bundesbehörden bis zum 30. September des dem Berichtsjahr folgenden Jahres für den internen Dienstgebrauch zu.
 
-
-## § 5 – Meldung und Aufbereitung der Daten für den Gleichstellungsindex
+# § 5 – Meldung und Aufbereitung der Daten für den Gleichstellungsindex
 
 (1) Für die Meldung und Aufbereitung der Daten gilt § 4 Absatz 4 entsprechend.
 
@@ -132,25 +125,21 @@ Jede oberste Bundesbehörde erfasst jährlich die Zahl aller in der obersten Bun
 
 (3) Das Statistische Bundesamt veröffentlicht den Gleichstellungsindex bis zum 31. Dezember des Berichtsjahres auf seiner Internetseite.
 
-
-## § 6 – Elektronische Erfassung und Meldung
+# § 6 – Elektronische Erfassung und Meldung
 
 (1) Die Erfassung und Meldung der Daten hat elektronisch zu erfolgen. Die Dienststellen oder Institutionen des Bundes haben hierfür die elektronischen Erhebungsformulare des Statistischen Bundesamtes zu verwenden. Die Erhebungsformulare müssen automatisiert verarbeitbar sein und inhaltlich den Anlagen entsprechen.
 
 (2) Das Statistische Bundesamt kann die redaktionelle Gestaltung der elektronischen Erhebungsformulare mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums des Innern, für Bau und Heimat ändern. Art und Umfang der nach den §§ 1 und 2 zu erfassenden Daten dürfen nicht geändert werden.
 
-
-## § 7 – Datenschutz
+# § 7 – Datenschutz
 
 Die Dienststellen und Institutionen des Bundes haben sicherzustellen, dass nur die mit der Erfassung, Zusammenstellung und Weiterleitung der Daten betrauten Personen Kenntnis von den zu erfassenden und zu meldenden Daten erlangen.
 
-
-## § 8 – Sonderregelung für den Bundesnachrichtendienst
+# § 8 – Sonderregelung für den Bundesnachrichtendienst
 
 Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1 Absatz 1 und 2 ausgenommen.
 
-
-## Anlage 1 – (zu § 6 Absatz 1 GleiStatV)
+# Anlage 1 – (zu § 6 Absatz 1 GleiStatV)
 
 (Fundstelle: BGBl. I 2015, 2283 - 2298)
 
@@ -186,8 +175,7 @@ Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1 Absatz 1 und
 
 <a href="../normengrafiken/bgbl1_2015/j2274-1_0160.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 6 Absatz 1)
+# Anlage 2 – (zu § 6 Absatz 1)
 
 (Fundstelle: BGBl. I 2015, 2299 - 2306)
 
@@ -209,8 +197,7 @@ Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1 Absatz 1 und
 
 (+++ Anlage 2 Inhaltsübersicht (Text vor Formular G Seite 1) Fußnote 1 Satz 1 u. 3: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Abstz" durch "Absatz" ersetzt +++)
 
-
-## Anlage 3 – (zu § 6 Absatz 1)
+# Anlage 3 – (zu § 6 Absatz 1)
 
 (Fundstelle: BGBl. I 2015, 2307 - 2312)
 
@@ -226,8 +213,7 @@ Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1 Absatz 1 und
 
 <a href="../normengrafiken/bgbl1_2015/j2274-1_0300.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 4 – (zu § 6 Absatz 1 GleiStatV)
+# Anlage 4 – (zu § 6 Absatz 1 GleiStatV)
 
 (Fundstelle: BGBl. I 2015, 2313 - 2317)
 
@@ -241,8 +227,7 @@ Der Bundesnachrichtendienst ist von der Meldung der Daten nach § 1 Absatz 1 und
 
 <a href="../normengrafiken/bgbl1_2015/j2274-1_0350.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – (zu § 6 Absatz 1 GleiStatV)
+# Anlage 5 – (zu § 6 Absatz 1 GleiStatV)
 
 (Fundstelle: BGBl. I 2015, 2318 - 2319)
 

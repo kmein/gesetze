@@ -1,10 +1,7 @@
-# [SeeLotUntV 1998] Verordnung über die seeärztliche Untersuchung der Seelotsen  (Seelotsenuntersuchungsverordnung - SeeLotUntV 1998)
-
-Ausfertigungsdatum: 12.03.1998
-
+% Verordnung über die seeärztliche Untersuchung der Seelotsen  (Seelotsenuntersuchungsverordnung - SeeLotUntV 1998)
+% Ausfertigungsdatum: 12.03.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -14,8 +11,7 @@ des § 4 Nr. 2 des Gesetzes über das Seelotswesen in der Fassung der Bekanntmac
 \-  
 des § 46 Abs. 2 des Gesetzes über das Seelotswesen, der durch Artikel 3 Nr. 9 des Gesetzes vom 15. Juli 1994 geändert worden ist, verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1
+# § 1
 
 (1) Die körperliche und geistige Eignung für den Seelotsenberuf, insbesondere das erforderliche Hör- und Sehvermögen sowie die Farbtüchtigkeit, ist durch ein Zeugnis des Seeärztlichen Dienstes der See-Berufsgenossenschaft nachzuweisen.
 
@@ -25,8 +21,7 @@ des § 46 Abs. 2 des Gesetzes über das Seelotswesen, der durch Artikel 3 Nr. 9 
 
 (4) Die Kosten der Untersuchung trägt der Untersuchte.
 
-
-## § 2
+# § 2
 
 (1) Einer seeärztlichen Untersuchung haben sich zu unterziehen:
 
@@ -40,22 +35,19 @@ Einer seeärztlichen Untersuchung dürfen sich Seelotsen auch dann unterziehen, 
 
 (2) Die Untersuchungen nach Absatz 1 Nr. 1 sind in den eigenen seeärztlichen Dienststellen der See-Berufsgenossenschaft durchzuführen.
 
-
-## § 3
+# § 3
 
 (1) Die Beurteilung der Eignung richtet sich nach den §§ 4 bis 6 und dem Nichtvorhandensein der Merkmale der Anlage 1 der Verordnung über die Seediensttauglichkeit vom 19. August 1970 (BGBl. I S. 1241), zuletzt geändert durch die Maßgabe der Anlage I Kapitel XI Sachgebiet D Abschnitt III Nr. 16 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1109), in ihrer jeweils geltenden Fassung.
 
 (2) Seelotsenbewerber müssen außerdem die Anforderungen hinsichtlich der besonderen, für den Seelotsberuf erforderlichen geistigen Leistungsfähigkeit erfüllen. Sie haben die Erfüllung dieser Anforderungen auf eigene Kosten durch Vorlage eines psychologischen Zeugnisses nachzuweisen. Die zu Grunde liegende Untersuchung muss nach einem von der See-Berufsgenossenschaft vorgegebenen Verfahren erfolgen. Die zur Untersuchung eingesetzten Verfahren müssen nach dem Stand der Wissenschaft standardisiert und psychometrisch überprüft sein. Das Ergebnis der psychologischen Untersuchung fließt in die Gesamtbewertung des Seeärztlichen Dienstes der See-Berufsgenossenschaft durch eine gesonderte Bescheinigung ein. Diese Bescheinigung enthält die Bewertung der psychologischen Untersuchung nach den Bewertungsstufen "gut geeignet", "befriedigend geeignet", "geeignet" oder "nicht geeignet" und ist dem Zeugnis nach § 1 Abs. 3 Satz 1 beizufügen.
 
-
-## § 4
+# § 4
 
 (1) Bei Seelotsenbewerbern und Seelotsenanwärtern gilt das erforderliche Hörvermögen als vorhanden, wenn auf dem jeweils dem Untersucher zugewandten Ohr Flüstersprache auf fünf Meter Entfernung verstanden wird.
 
 (2) Bei Seelotsen gilt das erforderliche Hörvermögen als vorhanden, wenn auf dem jeweils dem Untersucher zugewandten Ohr Flüstersprache auf drei Meter Entfernung oder auf einen Meter Entfernung auf dem schlechteren und auf fünf Meter Entfernung auf dem besseren Ohr verstanden wird. Sprache gewöhnlicher Lautstärke muß auf fünf Meter Entfernung mit dem jeweils dem Untersucher zugewandten Ohr verstanden werden.
 
-
-## § 5
+# § 5
 
 (1) Die Augen sind einzeln auf ihre Sehschärfe für die Ferne mit Sehproben in einem Abstand nicht unter fünf Metern nach DIN 58220-T3 und auf ihre Sehschärfe für die Nähe mit Leseproben zu prüfen. Die DIN-Norm 58220-T3 ist im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 
@@ -65,8 +57,7 @@ Einer seeärztlichen Untersuchung dürfen sich Seelotsen auch dann unterziehen, 
 
 (4) Seelotsen, deren Sehvermögen vor dem Inkrafttreten dieser Verordnung untersucht und als ausreichend befunden wurde, aber nicht mehr den Anforderungen dieser Verordnung entspricht, sind weiterhin zum Seelotsenberuf geeignet, wenn ihr Sehvermögen noch den Anforderungen der ersten Untersuchung entspricht.
 
-
-## § 6
+# § 6
 
 (1) Die Farbtüchtigkeit ist mit dem Anomaloskop und bei natürlichem Licht nach den Farbtafeln von Stilling/Velhagen sowie nach einem weiteren Farbtafelverfahren, zum Beispiel Ishihara oder Boström, zu prüfen.
 
@@ -74,13 +65,11 @@ Einer seeärztlichen Untersuchung dürfen sich Seelotsen auch dann unterziehen, 
 
 (3) Bei Seelotsen gilt die erforderliche Farbtüchtigkeit als vorhanden, wenn die gezeigten Farbtafeln schnell und richtig erkannt werden.
 
-
-## § 7
+# § 7
 
 Für Seelotsen außerhalb der Seelotsreviere gelten die §§ 1 bis 6 entsprechend.
 
-
-## § 8
+# § 8
 
 (1) Der Seeärztliche Dienst der See-Berufsgenossenschaft erhebt für Untersuchungen nach § 1 Abs. 2 Gebühren nach Maßgabe des Äquivalenzprinzips in entsprechender Anwendung der Gebührenordnung für Ärzte in der Fassung der Bekanntmachung vom 9. Februar 1996 (BGBl. I S. 210) in der jeweils geltenden Fassung.
 
@@ -104,7 +93,6 @@ Für Seelotsen außerhalb der Seelotsreviere gelten die §§ 1 bis 6 entsprechen
 
 (3) Notwendige Ergänzungsuntersuchungen und fachärztliche Gutachten nach § 1 Abs. 2 sind gesondert in Rechnung zu stellen.
 
-
-## § 9
+# § 9
 
 Diese Verordnung tritt am 1. Mai 1998 in Kraft.

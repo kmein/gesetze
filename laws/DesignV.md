@@ -1,12 +1,7 @@
-# [DesignV] Verordnung zur Ausführung des Designgesetzes  (Designverordnung - DesignV)
-
-Ausfertigungsdatum: 02.01.2014
-
+% Verordnung zur Ausführung des Designgesetzes  (Designverordnung - DesignV)
+% Ausfertigungsdatum: 02.01.2014
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -28,18 +23,17 @@ Ausfertigungsdatum: 02.01.2014
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Bestimmungen dieser Verordnung gelten für die im Designgesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt neben den Bestimmungen des Designgesetzes und der DPMA-Verordnung.
 
-
-## § 2 – Formblätter
+# § 2 – Formblätter
 
 Formblätter, auf die in dieser Verordnung verwiesen wird, können beim Deutschen Patent- und Markenamt angefordert oder von der Internetseite des Deutschen Patent- und Markenamts (www.dpma.de) heruntergeladen werden.
 
-
-## § 3 – Inhalt der Anmeldung
+# § 3 – Inhalt der Anmeldung
 
 (1) Die Anmeldung zur Eintragung eines Designs in das Designregister muss nach § 11 Absatz 2 und 3 des Designgesetzes enthalten:
 
@@ -67,8 +61,7 @@ Formblätter, auf die in dieser Verordnung verwiesen wird, können beim Deutsche
 
 7. die unverbindliche Erklärung des Anmelders, ob ein Interesse an der Vergabe von Lizenzen besteht.
 
-
-## § 4 – Einreichung der Anmeldung
+# § 4 – Einreichung der Anmeldung
 
 (1) Die Anmeldung kann schriftlich oder elektronisch eingereicht werden. Für die elektronische Einreichung ist die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend. § 7 Absatz 5 und § 10 Absatz 3 bleiben unberührt.
 
@@ -76,8 +69,7 @@ Formblätter, auf die in dieser Verordnung verwiesen wird, können beim Deutsche
 
 (+++ § 4 Abs. 2: Zur Anwendung vgl. § 27 Abs. 1 +++)
 
-
-## § 5 – Antrag auf Eintragung
+# § 5 – Antrag auf Eintragung
 
 (1) Für den schriftlichen Antrag auf Eintragung eines Designs gemäß § 11 Absatz 2 Satz 1 Nummer 1 des Designgesetzes muss das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden.
 
@@ -97,8 +89,7 @@ Als Anlageblatt muss das vom Deutschen Patent- und Markenamt herausgegebene Form
 
 (3) Wird mit der Anmeldung beantragt, die Bekanntmachung der Wiedergabe aufzuschieben (§ 21 Absatz 1 Satz 1 des Designgesetzes), so bezieht sich dieser Antrag auf alle in der Sammelanmeldung zusammengefassten Designs.
 
-
-## § 6 – Angaben zum Anmelder, Vertreter und Entwerfer
+# § 6 – Angaben zum Anmelder, Vertreter und Entwerfer
 
 (1) Die Anmeldung muss folgende Angaben zum Anmelder enthalten:
 
@@ -120,8 +111,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (5) Für die Benennung des Entwerfers gelten Absatz 1 Satz 1 Nummer 1, Satz 2 und 3 sowie die Absätze 2 und 3 entsprechend.
 
-
-## § 7 – Wiedergabe des Designs
+# § 7 – Wiedergabe des Designs
 
 (1) Die Wiedergabe des Designs erfolgt mit Hilfe von fotografischen oder sonstigen grafischen Darstellungen. Pro Design sind bis zu zehn Darstellungen zulässig, jede darüber hinausgehende Darstellung bleibt unberücksichtigt.
 
@@ -137,8 +127,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (7) Betrifft die Anmeldung ein Design, das aus typografischen Schriftzeichen besteht, so muss die Wiedergabe des Designs einen vollständigen Zeichensatz sowie fünf Zeilen Text, jeweils in Schriftgröße 16 Punkt, umfassen.
 
-
-## § 8 – Flächenmäßige Designabschnitte
+# § 8 – Flächenmäßige Designabschnitte
 
 (1) Flächenmäßige Designabschnitte (§ 11 Absatz 2 Satz 2 des Designgesetzes) sind in zwei übereinstimmenden Exemplaren einzureichen.
 
@@ -146,8 +135,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (3) Wird die Eintragung eines Designs beantragt, das aus einem sich wiederholenden Flächendesign besteht, muss der Designabschnitt zusätzlich zu den Anforderungen nach den Absätzen 1 und 2 das vollständige Design und einen der Länge und Breite nach ausreichenden Teil der Fläche mit dem sich wiederholenden Design zeigen.
 
-
-## § 9 – Erzeugnisangabe und Klassifizierung
+# § 9 – Erzeugnisangabe und Klassifizierung
 
 (1) Die Angabe der Erzeugnisse, in die das Design aufgenommen oder bei denen es verwendet werden soll (§ 11 Absatz 3 des Designgesetzes), richtet sich nach der amtlichen Warenliste für eingetragene Designs auf Grundlage des Abkommens von Locarno zur Errichtung einer Internationalen Klassifikation von gewerblichen Mustern und Modellen (BGBl. 1990 II S. 1677, 1679). Die Klassifizierung des einzutragenden Designs richtet sich nach der Einteilung der Klassen und Unterklassen für eingetragene Designs. Die jeweils gültigen Fassungen der Warenliste und der Einteilung der Klassen und Unterklassen werden vom Deutschen Patent- und Markenamt im Bundesanzeiger bekannt gemacht.
 
@@ -155,8 +143,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (3) Ändert sich die Klasseneinteilung nach der Eintragung des Designs, so wird die Klassifizierung der Erzeugnisse auf Antrag des Rechtsinhabers oder bei der Eintragung der Aufrechterhaltung des Schutzes von Amts wegen angepasst und dem Rechtsinhaber mitgeteilt.
 
-
-## § 10 – Beschreibung zur Erläuterung der Wiedergabe
+# § 10 – Beschreibung zur Erläuterung der Wiedergabe
 
 (1) Wird zur Erläuterung der Wiedergabe eine Beschreibung eingereicht (§ 11 Absatz 5 Nummer 1 des Designgesetzes), so darf sie sich nur auf diejenigen Merkmale beziehen, die aus der Wiedergabe des Designs oder dem flächenmäßigen Designabschnitt ersichtlich sind. Insbesondere darf sie keine Angaben über die Neuheit oder Eigenart des Designs oder seine technische Funktion enthalten.
 
@@ -164,8 +151,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (3) Bei Verwendung eines digitalen Datenträgers zur Einreichung der Wiedergabe (§ 7 Absatz 5) kann die Beschreibung im Format „\*.txt“ auf dem Datenträger gespeichert werden. Bei Sammelanmeldungen sind die Beschreibungen nach Designnummern geordnet in einem elektronischen Dokument zusammenzufassen.
 
-
-## § 11 – Angaben bei Inanspruchnahme einer Priorität
+# § 11 – Angaben bei Inanspruchnahme einer Priorität
 
 (1) Wird in der Anmeldung die Inanspruchnahme der Priorität einer früheren ausländischen Anmeldung erklärt, so sind Zeit, Land und Aktenzeichen dieser Anmeldung anzugeben und eine Abschrift dieser Anmeldung einzureichen (§ 14 Absatz 1 Satz 1 des Designgesetzes).
 
@@ -181,8 +167,7 @@ Für die Bescheinigung soll das vom Deutschen Patent- und Markenamt herausgegebe
 
 (3) Die Möglichkeit, die Angaben nach § 14 Absatz 1 Satz 2 des Designgesetzes zu ändern oder die Prioritätserklärung innerhalb von 16 Monaten nach dem Prioritätstag oder dem Tag der erstmaligen Zurschaustellung abzugeben (§ 14 Absatz 1 Satz 1 und § 15 Absatz 4 Satz 1 des Designgesetzes), bleibt unberührt.
 
-
-## § 12 – Teilung einer Sammelanmeldung
+# § 12 – Teilung einer Sammelanmeldung
 
 (1) Eine Sammelanmeldung kann nach § 12 Absatz 2 des Designgesetzes in zwei oder mehrere Anmeldungen geteilt werden.
 
@@ -196,8 +181,7 @@ Für die Bescheinigung soll das vom Deutschen Patent- und Markenamt herausgegebe
 
 (4) Ändern sich die Angaben nach § 6 Absatz 1 und 4 infolge einer Änderung der Angaben zum Anmelder oder Vertreter hinsichtlich einzelner Designs, so wird die Sammelanmeldung von Amts wegen geteilt.
 
-
-## § 13 – Weiterbehandlung der Anmeldung
+# § 13 – Weiterbehandlung der Anmeldung
 
 Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesenen Anmeldung (§ 17 Absatz 1 des Designgesetzes) muss folgende Angaben enthalten:
 
@@ -207,15 +191,13 @@ Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesene
 
 3. das Datum des Beschlusses, auf den sich der Antrag bezieht.
 
-
-## § 14 – Deutsche Übersetzungen
+# § 14 – Deutsche Übersetzungen
 
 (1) Wird ein fremdsprachiges Schriftstück eingereicht, kann das Deutsche Patent- und Markenamt den Anmelder auffordern, innerhalb einer angemessenen Frist eine deutsche Übersetzung nachzureichen. Die Übersetzung muss von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
 
 (2) Wird die Übersetzung nach Ablauf der Frist eingereicht, so gilt das fremdsprachige Schriftstück als zum Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine Übersetzung eingereicht, so gilt das fremdsprachige Schriftstück als nicht eingegangen.
 
-
-## § 15 – Inhalt des Designregisters
+# § 15 – Inhalt des Designregisters
 
 (1) Bei der Eintragung der Anmeldung wird Folgendes in das Designregister aufgenommen:
 
@@ -269,8 +251,7 @@ Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesene
 
 (4) Ist die Aufschiebung der Bekanntmachung der Wiedergabe nach § 21 Absatz 1 Satz 1 des Designgesetzes beantragt worden, so beschränkt sich die Eintragung der Anmeldung auf die Angaben nach Absatz 1 Nummer 1, 4 bis 7, nach Absatz 2 Nummer 1 bis 3, 10 bis 13, sowie auf den Prioritätstag nach Absatz 2 Nummer 8 und 9. Wird der Schutz auf die Schutzdauer nach § 27 Absatz 2 des Designgesetzes erstreckt (§ 21 Absatz 2 Satz 1 des Designgesetzes), so werden die übrigen Angaben nach Maßgabe der Absätze 1 und 2 in das Designregister aufgenommen.
 
-
-## § 16 – Weitere Eintragungen in das Designregister
+# § 16 – Weitere Eintragungen in das Designregister
 
 Neben den Eintragungen nach § 15 sind gegebenenfalls folgende Angaben in das Designregister aufzunehmen:
 
@@ -292,20 +273,17 @@ Neben den Eintragungen nach § 15 sind gegebenenfalls folgende Angaben in das De
 
 9. der Tag und der Grund der Löschung des eingetragenen Designs (§ 36 Absatz 1 des Designgesetzes).
 
-
-## § 17 – Eintragungsurkunde
+# § 17 – Eintragungsurkunde
 
 Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenamt eine Urkunde über die Eintragung des Designs, sofern er hierauf nicht ausdrücklich verzichtet hat.
 
-
-## § 18 – Teilung einer Sammeleintragung
+# § 18 – Teilung einer Sammeleintragung
 
 (1) Für die Teilung einer Sammeleintragung gilt § 12 Absatz 1, 2 und 4 entsprechend.
 
 (2) Betrifft ein Antrag auf Eintragung eines Rechtsübergangs nach § 28 der DPMA-Verordnung nur einen Teil der aufgrund einer Sammelanmeldung eingetragenen Designs, so sind die jeweiligen Designnummern in dem Antrag anzugeben. Die eingetragenen Designs, die von dem Rechtsübergang erfasst sind, werden abgetrennt und in einer Teilungsakte weitergeführt.
 
-
-## § 19 – Angaben bei Erstreckung und Aufrechterhaltung
+# § 19 – Angaben bei Erstreckung und Aufrechterhaltung
 
 (1) Bei der Zahlung der Gebühr zur Erstreckung des Schutzes auf die Schutzdauer nach § 27 Absatz 2 des Designgesetzes (§ 21 Absatz 2 Satz 1 des Designgesetzes) sind anzugeben:
 
@@ -333,8 +311,7 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (4) Bei der Zahlung der Aufrechterhaltungsgebühr sind die Absätze 1 und 2 entsprechend anzuwenden.
 
-
-## § 20 – Verzicht auf das eingetragene Design
+# § 20 – Verzicht auf das eingetragene Design
 
 (1) In der Erklärung über den Verzicht auf das eingetragene Design nach § 36 Absatz 1 Satz 1 Nummer 2 und Absatz 2 des Designgesetzes sind anzugeben:
 
@@ -346,8 +323,7 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (3) Für die nach § 36 Absatz 1 Satz 1 Nummer 2 des Designgesetzes erforderliche Zustimmung eines im Designregister eingetragenen Inhabers eines Rechts an dem eingetragenen Design reicht die Abgabe einer von dieser Person oder ihrem Vertreter unterschriebenen Zustimmungserklärung aus. Eine Beglaubigung der Erklärung oder der Unterschrift ist nicht erforderlich.
 
-
-## § 21 – Antragstellung
+# § 21 – Antragstellung
 
 (1) Für den Antrag auf Feststellung oder Erklärung der Nichtigkeit eines eingetragenen Designs (§ 34a Absatz 1 des Designgesetzes) soll das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden.
 
@@ -365,8 +341,7 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (3) Ein Antrag kann auf mehrere in § 33 Absatz 1 oder Absatz 2 des Designgesetzes genannte Nichtigkeitsgründe gestützt werden. Im Antrag können Angaben zum Gegenstandswert gemacht werden, wenn dieser nach § 34a Absatz 5 Satz 2 des Designgesetzes festgesetzt werden soll.
 
-
-## § 22 – Verfahrensgrundsätze
+# § 22 – Verfahrensgrundsätze
 
 (1) Das Deutsche Patent- und Markenamt kann bei ihm anhängige Nichtigkeitsverfahren zur gemeinsamen Behandlung und Entscheidung verbinden. Es kann ein Nichtigkeitsverfahren aussetzen, wenn dies sachdienlich ist. Eine Aussetzung kommt insbesondere in Betracht, wenn es dasselbe eingetragene Design in einem anderen Verfahren für nichtig hält. Das Deutsche Patent- und Markenamt kann eine von ihm erlassene Anordnung, die die Verbindung mehrerer Verfahren oder die Aussetzung eines Verfahrens betrifft, wieder aufheben.
 
@@ -378,28 +353,23 @@ Der Inhaber des eingetragenen Designs erhält vom Deutschen Patent- und Markenam
 
 (+++ § 22: Zur Anwendung vgl. § 27 Abs. 2 +++)
 
-
-## § 23 – Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen
+# § 23 – Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen
 
 Der Inhaber einer internationalen Eintragung nach § 66 des Designgesetzes kann zu der Mitteilung über die Schutzverweigerung (§ 69 Absatz 2 des Designgesetzes) innerhalb einer Frist von vier Monaten ab dem Tag, an dem das Internationale Büro der Weltorganisation für geistiges Eigentum die Mitteilung absendet, gegenüber dem Deutschen Patent- und Markenamt Stellung nehmen.
 
-
-## § 24 – Umschreibung internationaler Eintragungen
+# § 24 – Umschreibung internationaler Eintragungen
 
 Das Deutsche Patent- und Markenamt bestätigt auf Antrag des neuen Eigentümers des eingetragenen Designs die Eintragung des Inhaberwechsels nach Regel 21 Absatz 1 Buchstabe b Ziffer ii der Gemeinsamen Ausführungsordnung zu den Fassungen des Haager Abkommens von 1999, 1960 und 1934 (BGBl. 2008 II S. 1341, 1342) für die Umschreibung der internationalen Eintragung, sofern der neue Eigentümer die Rechtsnachfolge nachweist. § 28 Absatz 3 der DPMA-Verordnung gilt für den Nachweis des Rechtsübergangs entsprechend.
 
-
-## § 25 – Nachträgliche Schutzentziehung
+# § 25 – Nachträgliche Schutzentziehung
 
 Für den Antrag auf Feststellung der Unwirksamkeit einer internationalen Eintragung für das Gebiet der Bundesrepublik Deutschland (§ 70 Absatz 1 Satz 1 des Designgesetzes) gelten die §§ 21 und 22 entsprechend.
 
-
-## § 26 – Aufbewahrung der Wiedergabe des eingetragenen Designs
+# § 26 – Aufbewahrung der Wiedergabe des eingetragenen Designs
 
 Das Deutsche Patent- und Markenamt bewahrt die Wiedergabe des eingetragenen Designs (§ 7) auch nach der Löschung der Eintragung im Designregister dauerhaft auf.
 
-
-## § 27 – Übergangsregelungen
+# § 27 – Übergangsregelungen
 
 (1) § 4 Absatz 2 findet auf bis zum 9. Januar 2014 eingegangene Wiedergaben keine Anwendung.
 

@@ -1,20 +1,15 @@
-# [WaffGÄndG] Gesetz zur Änderung des Waffengesetzes
-
-Ausfertigungsdatum: 04.03.1976
-
+% Gesetz zur Änderung des Waffengesetzes
+% Ausfertigungsdatum: 04.03.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
+# Art 2
 
 (1) Die vor Inkrafttreten dieses Gesetzes nach § 59 Abs. 4 und, soweit sie nur noch zur Ausübung der tatsächlichen Gewalt berechtigen, auch die nach § 28 Abs. 1 des Waffengesetzes vom 19. September 1972 erteilten Waffenbesitzkarten, gelten als unbefristet erteilt. Sie können unter den Voraussetzungen des § 28 Abs. 1 Satz 5 des Waffengesetzes nachträglich befristet werden. Die Waffenbesitzkarte nach Satz 1 berechtigt nicht zum Erwerb von Munition.
 
@@ -26,13 +21,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 für deren Erwerb es jedoch nach diesem Gesetz oder auf Grund einer Rechtsverordnung der Erlaubnis bedarf, so hat er diese Schußwaffen bis zum 30. Juni 1976 nach Maßgabe des § 59 Abs. 1 des Waffengesetzes anzumelden. § 59 Abs. 2 bis 4 des Waffengesetzes ist entsprechend anzuwenden.
 
-
-## Art 3
+# Art 3
 
 Der Bundesminister des Innern wird ermächtigt, das Waffengesetz unter Berücksichtigung der Änderungen durch dieses Gesetz mit neuem Datum bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am 1. Juli 1976 in Kraft. Am Tage nach der Verkündung des Gesetzes treten in Kraft die Vorschriften, die zum Erlaß von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften ermächtigen, die Vorschriften über die Umstellung der Verordnungsermächtigungen auf den Bundesminister des Innern sowie Artikel 1 Nr. 7 Buchstaben a und b, Nr. 8 Buchstabe b, Nr. 10 Buchstabe d, Nr. 14 Buchstabe d, Nr. 30 Buchstabe d, Nr. 45 Buchstabe a, Nr. 48 Buchstabe c, Nr. 49 und 50 und § 28 Abs. 3 in der sich aus Artikel 1 Nr. 21 ergebenden Fassung sowie Artikel 2 Abs. 2 und Artikel 3.
 

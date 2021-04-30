@@ -1,25 +1,19 @@
-# [MMilchPulvV] Verordnung zur Durchführung der öffentlichen Lagerhaltung von Magermilchpulver  (Magermilchpulver-Verordnung - öffentliche Lagerhaltung)
-
-Ausfertigungsdatum: 26.06.1978
-
+% Verordnung zur Durchführung der öffentlichen Lagerhaltung von Magermilchpulver  (Magermilchpulver-Verordnung - öffentliche Lagerhaltung)
+% Ausfertigungsdatum: 26.06.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 3, der §§ 9 und 11 Abs. 2 des Gesetzes zur Durchführung der gemeinsamen Marktorganisationen vom 31. August 1972 (BGBl. I S. 1617), die durch Artikel 38 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden sind sowie auf Grund des § 10 Abs. 1 und des § 12 des Gesetzes zur Durchführung der gemeinsamen Marktorganisationen wird im Einvernehmen mit den Bundesministern der Finanzen und für Wirtschaft verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union hinsichtlich der öffentlichen Lagerhaltung von Magermilchpulver.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1 bezeichneten Rechtsakte ist die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt).
 
-
-## § 3 – Anerkennung der Betriebsstätten
+# § 3 – Anerkennung der Betriebsstätten
 
 (1) Anträge auf Anerkennung sind auf vorgeschriebenem Formblatt zu stellen, das bei der Bundesanstalt angefordert werden kann.
 
@@ -35,8 +29,7 @@ Zuständig für die Durchführung dieser Verordnung und der in § 1 bezeichneten
 
 (4) Wird vorsätzlich oder grob fahrlässig gegen die Bestimmungen des Artikels 1 Abs. 1 und Artikel 3 Abs. 1 der Verordnung (EWG) Nr. 625/78 vom 30. März 1978 (ABl. EG Nr. L 84, S. 19) verstoßen, so kann die Anerkennung befristet entzogen oder widerrufen werden. Im Falle des Widerrufs kann die Anerkennung nicht vor Ablauf von mindestens drei Monaten neu erteilt werden.
 
-
-## § 4 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 4 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Der Beteiligte ist verpflichtet,
 
@@ -58,22 +51,18 @@ c) die Art der Verpackung, die Kennzeichnung, den Verbleib sowie den Auslieferun
 
 (3) Der Beteiligte ist verpflichtet, die in Absatz 1 Nr. 1 bis 3 genannten Unterlagen und die sich darauf beziehenden geschäftlichen Belege sieben Jahre lang aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen Vorschriften bestehen.
 
-
-## § 5 – Duldungs- und Mitwirkungspflichten
+# § 5 – Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung hat der Beteiligte den Beauftragten der Bundesanstalt das Betreten der Geschäftsräume und Betriebsstätten, die Aufnahme der Bestände an Magermilchpulver, Buttermilchpulver, Molkenpulver und anderen Erzeugnissen sowie die Entnahme von Proben aus den für die öffentliche Lagerhaltung vorgesehenen Magermilchpulvermengen während der Geschäfts- und Betriebszeit zu gestatten, auf Verlangen die in Betracht kommenden kaufmännischen Bücher, besonderen Aufzeichnungen, Belege und sonstigen Schriftstücke zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Der Beteiligte hat im Falle automatischer Buchführung auf seine Kosten auf Verlangen Listen mit den erforderlichen Angaben auszudrucken.
 
-
-## § 6 – (weggefallen)
+# § 6 – (weggefallen)
 
 \-
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1978 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

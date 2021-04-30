@@ -1,12 +1,7 @@
-# [KrWG] Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen  (Kreislaufwirtschaftsgesetz - KrWG)
-
-Ausfertigungsdatum: 24.02.2012
-
+% Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen  (Kreislaufwirtschaftsgesetz - KrWG)
+% Ausfertigungsdatum: 24.02.2012
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -64,15 +59,15 @@ Ausfertigungsdatum: 24.02.2012
 
  
 
+ 
 
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist es, die Kreislaufwirtschaft zur Schonung der natürlichen Ressourcen zu fördern und den Schutz von Mensch und Umwelt bei der Erzeugung und Bewirtschaftung von Abfällen sicherzustellen.
 
 (2) Mit diesem Gesetz soll außerdem das Erreichen der europarechtlichen Zielvorgaben der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3; L 127 vom 26.5.2009, S. 24; L 297 vom 13.11.2015, S. 9; L 42 vom 18.2.2017, S. 43), die zuletzt durch die Richtlinie (EU) 2018/851 (ABl. L 150 vom 14.6.2018, S. 109) geändert worden ist, gefördert werden.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 (1) Die Vorschriften dieses Gesetzes gelten für
 
@@ -134,8 +129,7 @@ b) weder aus tierischen Nebenprodukten bestehen noch tierische Nebenprodukte ent
 
 (3) Die Vorschriften dieses Gesetzes gelten nach Maßgabe der besonderen Vorschriften des Strahlenschutzgesetzes und der auf Grund des Strahlenschutzgesetzes erlassenen Rechtsverordnungen auch für die Entsorgung von Abfällen, die infolge eines Notfalls im Sinne des Strahlenschutzgesetzes radioaktiv kontaminiert sind oder radioaktiv kontaminiert sein können.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Abfälle im Sinne dieses Gesetzes sind alle Stoffe oder Gegenstände, derer sich ihr Besitzer entledigt, entledigen will oder entledigen muss. Abfälle zur Verwertung sind Abfälle, die verwertet werden; Abfälle, die nicht verwertet werden, sind Abfälle zur Beseitigung.
 
@@ -253,8 +247,7 @@ Die gesamte Auslaugbarkeit und der Schadstoffgehalt der Abfälle sowie die Ökot
 
 (28) Stand der Technik im Sinne dieses Gesetzes ist der Entwicklungsstand fortschrittlicher Verfahren, Einrichtungen oder Betriebsweisen, der die praktische Eignung einer Maßnahme zur Begrenzung von Emissionen in Luft, Wasser und Boden, zur Gewährleistung der Anlagensicherheit, zur Gewährleistung einer umweltverträglichen Abfallentsorgung oder sonst zur Vermeidung oder Verminderung von Auswirkungen auf die Umwelt zur Erreichung eines allgemein hohen Schutzniveaus für die Umwelt insgesamt gesichert erscheinen lässt. Bei der Bestimmung des Standes der Technik sind insbesondere die in Anlage 3 aufgeführten Kriterien zu berücksichtigen.
 
-
-## § 4 – Nebenprodukte
+# § 4 – Nebenprodukte
 
 (1) Fällt ein Stoff oder Gegenstand bei einem Herstellungsverfahren an, dessen hauptsächlicher Zweck nicht auf die Herstellung dieses Stoffes oder Gegenstandes gerichtet ist, ist er als Nebenprodukt und nicht als Abfall anzusehen, wenn
 
@@ -268,8 +261,7 @@ Die gesamte Auslaugbarkeit und der Schadstoffgehalt der Abfälle sowie die Ökot
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates nach Maßgabe der in Absatz 1 genannten Anforderungen Kriterien zu bestimmen, nach denen bestimmte Stoffe oder Gegenstände als Nebenprodukt anzusehen sind, und Anforderungen zum Schutz von Mensch und Umwelt festzulegen.
 
-
-## § 5 – Ende der Abfalleigenschaft
+# § 5 – Ende der Abfalleigenschaft
 
 (1) Die Abfalleigenschaft eines Stoffes oder Gegenstandes endet, wenn dieser ein Recycling oder ein anderes Verwertungsverfahren durchlaufen hat und so beschaffen ist, dass
 
@@ -297,8 +289,7 @@ b) an eine Akkreditierung oder sonstige Form der Fremdüberwachung der Managemen
 
 5. das Erfordernis und die Inhalte einer Konformitätserklärung.
 
-
-## § 6 – Abfallhierarchie
+# § 6 – Abfallhierarchie
 
 (1) Maßnahmen der Vermeidung und der Abfallbewirtschaftung stehen in folgender Rangfolge:
 
@@ -326,8 +317,7 @@ Die technische Möglichkeit, die wirtschaftliche Zumutbarkeit und die sozialen F
 
 (3) Die Anlage 5 enthält eine nicht abschließende Liste von Beispielen für Maßnahmen und wirtschaftliche Instrumente zur Schaffung von Anreizen für die Anwendung der Abfallhierarchie von Verwertungsverfahren.
 
-
-## § 7 – Grundpflichten der Kreislaufwirtschaft
+# § 7 – Grundpflichten der Kreislaufwirtschaft
 
 (1) Die Pflichten zur Abfallvermeidung richten sich nach § 13 sowie den Rechtsverordnungen, die auf Grund der §§ 24 und 25 erlassen worden sind.
 
@@ -337,15 +327,13 @@ Die technische Möglichkeit, die wirtschaftliche Zumutbarkeit und die sozialen F
 
 (4) Die Pflicht zur Verwertung von Abfällen ist zu erfüllen, soweit dies technisch möglich und wirtschaftlich zumutbar ist, insbesondere für einen gewonnenen Stoff oder gewonnene Energie ein Markt vorhanden ist oder geschaffen werden kann. Die Verwertung von Abfällen ist auch dann technisch möglich, wenn hierzu eine Vorbehandlung erforderlich ist. Die wirtschaftliche Zumutbarkeit ist gegeben, wenn die mit der Verwertung verbundenen Kosten nicht außer Verhältnis zu den Kosten stehen, die für eine Abfallbeseitigung zu tragen wären.
 
-
-## § 7a – Chemikalien- und Produktrecht
+# § 7a – Chemikalien- und Produktrecht
 
 (1) Natürliche oder juristische Personen, die Stoffe und Gegenstände, deren Abfalleigenschaft beendet ist, erstmals verwenden oder erstmals in Verkehr bringen, haben dafür zu sorgen, dass diese Stoffe oder Gegenstände den geltenden Anforderungen des Chemikalien- und Produktrechts genügen.
 
 (2) Bevor für Stoffe und Gegenstände die in Absatz 1 genannten Rechtsvorschriften zur Anwendung kommen, muss ihre Abfalleigenschaft gemäß den Anforderungen nach § 5 Absatz 1 beendet sein.
 
-
-## § 8 – Rangfolge und Hochwertigkeit der Verwertungsmaßnahmen
+# § 8 – Rangfolge und Hochwertigkeit der Verwertungsmaßnahmen
 
 (1) Bei der Erfüllung der Verwertungspflicht nach § 7 Absatz 2 Satz 1 hat diejenige der in § 6 Absatz 1 Nummer 2 bis 4 genannten Verwertungsmaßnahmen Vorrang, die den Schutz von Mensch und Umwelt nach der Art und Beschaffenheit des Abfalls unter Berücksichtigung der in § 6 Absatz 2 Satz 2 und 3 festgelegten Kriterien am besten gewährleistet. Zwischen mehreren gleichrangigen Verwertungsmaßnahmen besteht ein Wahlrecht des Erzeugers oder Besitzers von Abfällen. Bei der Ausgestaltung der nach Satz 1 oder 2 durchzuführenden Verwertungsmaßnahme ist eine den Schutz von Mensch und Umwelt am besten gewährleistende, hochwertige Verwertung anzustreben. § 7 Absatz 4 findet auf die Sätze 1 bis 3 entsprechende Anwendung.
 
@@ -359,8 +347,7 @@ Durch Rechtsverordnung nach Satz 1 kann insbesondere bestimmt werden, dass die V
 
 (3) (weggefallen)
 
-
-## § 9 – Getrennte Sammlung und Behandlung von Abfällen zur Verwertung
+# § 9 – Getrennte Sammlung und Behandlung von Abfällen zur Verwertung
 
 (1) Soweit dies zur Erfüllung der Anforderungen nach § 7 Absatz 2 bis 4 und § 8 Absatz 1 erforderlich ist, sind Abfälle getrennt zu sammeln und zu behandeln.
 
@@ -384,8 +371,7 @@ c) die Möglichkeit, aus der Vermarktung der getrennt gesammelten Abfälle Erlö
 
 (4) Soweit Abfälle zur Vorbereitung zur Wiederverwendung oder zum Recycling getrennt gesammelt worden sind, ist eine energetische Verwertung nur zulässig für die Abfallfraktionen, die bei der nachgelagerten Behandlung der getrennt gesammelten Abfälle angefallen sind, und nur soweit die energetische Verwertung dieser Abfallfraktionen den Schutz von Mensch und Umwelt unter Berücksichtigung der in § 6 Absatz 2 Satz 2 und 3 festgelegten Kriterien am besten oder in gleichwertiger Weise wie die Vorbereitung zur Wiederverwendung oder das Recycling gewährleistet. § 7 Absatz 4 gilt entsprechend.
 
-
-## § 9a – Vermischungsverbot und Behandlung gefährlicher Abfälle
+# § 9a – Vermischungsverbot und Behandlung gefährlicher Abfälle
 
 (1) Die Vermischung, einschließlich der Verdünnung, gefährlicher Abfälle mit anderen Kategorien von gefährlichen Abfällen oder mit anderen Abfällen, Stoffen oder Materialien ist unzulässig.
 
@@ -399,8 +385,7 @@ c) die Möglichkeit, aus der Vermarktung der getrennt gesammelten Abfälle Erlö
 
 (3) Sind gefährliche Abfälle in unzulässiger Weise vermischt worden, sind die Erzeuger und Besitzer der Abfälle verpflichtet, diese unverzüglich zu trennen, soweit die Trennung zur ordnungsgemäßen und schadlosen Verwertung der Abfälle nach § 7 Absatz 3 erforderlich ist. Ist eine Trennung zum Zweck der ordnungsgemäßen und schadlosen Verwertung nicht erforderlich oder zwar erforderlich, aber technisch nicht möglich oder wirtschaftlich nicht zumutbar, sind die Erzeuger und Besitzer der gemischten Abfälle verpflichtet, diese unverzüglich in einer Anlage zu behandeln, die nach diesem Gesetz oder nach dem Bundes-Immissionsschutzgesetz hierfür zugelassen ist.
 
-
-## § 10 – Anforderungen an die Kreislaufwirtschaft
+# § 10 – Anforderungen an die Kreislaufwirtschaft
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Erfüllung der Pflichten nach § 7 Absatz 2 bis 4, § 8 Absatz 1, der §§ 9 und 9a, insbesondere zur Sicherung der schadlosen Verwertung, erforderlich ist,
 
@@ -458,8 +443,7 @@ b) abweichend von bestimmten Anforderungen nach den §§ 49 und 50 oder einer Re
 
 4. seine notwendige Sach- oder Fachkunde in einem näher festzulegenden Verfahren nachzuweisen hat.
 
-
-## § 11 – Anforderungen an die Kreislaufwirtschaft für Bioabfälle und Klärschlämme
+# § 11 – Anforderungen an die Kreislaufwirtschaft für Bioabfälle und Klärschlämme
 
 (1) (weggefallen)
 
@@ -499,8 +483,7 @@ Durch Rechtsverordnung nach Absatz 2 Satz 1 Nummer 1 kann vorgeschrieben werden,
 
 (4) Die Landesregierungen können Rechtsverordnungen im Sinne der Absätze 2 und 3 für die Verwertung von Bioabfällen und Klärschlämmen und für die Aufbringung von Bioabfällen und Klärschlämmen auf Böden erlassen, soweit die Bundesregierung von der Ermächtigung keinen Gebrauch macht. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden übertragen.
 
-
-## § 12 – Qualitätssicherung im Bereich der Bioabfälle und Klärschlämme
+# § 12 – Qualitätssicherung im Bereich der Bioabfälle und Klärschlämme
 
 (1) Zur Förderung der Kreislaufwirtschaft und zur Sicherstellung des Schutzes von Mensch und Umwelt bei der Erzeugung und Bewirtschaftung von Bioabfällen und Klärschlämmen nach Maßgabe der hierfür geltenden Rechtsvorschriften können die Träger der Qualitätssicherung und die Qualitätszeichennehmer eine regelmäßige Qualitätssicherung einrichten.
 
@@ -542,13 +525,11 @@ Durch Rechtsverordnung nach Absatz 2 Satz 1 Nummer 1 kann vorgeschrieben werden,
 
 8. für die erforderlichen Erklärungen, Nachweise, Benachrichtigungen oder sonstigen Daten die elektronische Führung und die Vorlage von Dokumenten in elektronischer Form gemäß § 3a Absatz 2 Satz 2 und 3 des Verwaltungsverfahrensgesetzes angeordnet werden.
 
-
-## § 13 – Pflichten der Anlagenbetreiber
+# § 13 – Pflichten der Anlagenbetreiber
 
 Die Pflichten der Betreiber von genehmigungsbedürftigen und nicht genehmigungsbedürftigen Anlagen nach dem Bundes-Immissionsschutzgesetz, diese so zu errichten und zu betreiben, dass Abfälle vermieden, verwertet oder beseitigt werden, richten sich nach den Vorschriften des Bundes-Immissionsschutzgesetzes.
 
-
-## § 14 – Förderung des Recyclings und der sonstigen stofflichen Verwertung
+# § 14 – Förderung des Recyclings und der sonstigen stofflichen Verwertung
 
 (1) Die Vorbereitung zur Wiederverwendung und das Recycling von Siedlungsabfällen sollen betragen:
 
@@ -562,8 +543,7 @@ Die Pflichten der Betreiber von genehmigungsbedürftigen und nicht genehmigungsb
 
 (2) Die Vorbereitung zur Wiederverwendung, das Recycling und die sonstige stoffliche Verwertung von nicht gefährlichen Bau- und Abbruchabfällen mit Ausnahme von in der Natur vorkommenden Materialien, die in der Anlage zur Abfallverzeichnisverordnung mit dem Abfallschlüssel 17 05 04 gekennzeichnet sind, sollen spätestens ab dem 1. Januar 2020 mindestens 70 Gewichtsprozent betragen.
 
-
-## § 15 – Grundpflichten der Abfallbeseitigung
+# § 15 – Grundpflichten der Abfallbeseitigung
 
 (1) Die Erzeuger oder Besitzer von Abfällen, die nicht verwertet werden, sind verpflichtet, diese zu beseitigen, soweit in § 17 nichts anderes bestimmt ist. Durch die Behandlung von Abfällen sind deren Menge und Schädlichkeit zu vermindern. Energie oder Abfälle, die bei der Beseitigung anfallen, sind hochwertig zu nutzen; § 8 Absatz 1 Satz 3 gilt entsprechend.
 
@@ -585,8 +565,7 @@ Die Pflichten der Betreiber von genehmigungsbedürftigen und nicht genehmigungsb
 
 (4) Die Ablagerung von Siedlungsabfällen auf Deponien darf spätestens ab dem 1. Januar 2035 höchstens 10 Gewichtsprozent des gesamten Siedlungsabfallaufkommens betragen.
 
-
-## § 16 – Anforderungen an die Abfallbeseitigung
+# § 16 – Anforderungen an die Abfallbeseitigung
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erfüllung der Pflichten nach § 15 entsprechend dem Stand der Technik Anforderungen an die Beseitigung von Abfällen nach Herkunftsbereich, Anfallstelle sowie nach Art, Menge und Beschaffenheit festzulegen, insbesondere
 
@@ -606,8 +585,7 @@ Durch Rechtsverordnung nach Satz 1 Nummer 1 und 2 kann vorgeschrieben werden, da
 
 4. seine notwendige Sach- oder Fachkunde in einem näher festzulegenden Verfahren nachzuweisen hat.
 
-
-## § 17 – Überlassungspflichten
+# § 17 – Überlassungspflichten
 
 (1) Abweichend von § 7 Absatz 2 und § 15 Absatz 1 sind Erzeuger oder Besitzer von Abfällen aus privaten Haushaltungen verpflichtet, diese Abfälle den nach Landesrecht zur Entsorgung verpflichteten juristischen Personen (öffentlich-rechtliche Entsorgungsträger) zu überlassen, soweit sie zu einer Verwertung auf den von ihnen im Rahmen ihrer privaten Lebensführung genutzten Grundstücken nicht in der Lage sind oder diese nicht beabsichtigen. Satz 1 gilt auch für Erzeuger und Besitzer von Abfällen zur Beseitigung aus anderen Herkunftsbereichen, soweit sie diese nicht in eigenen Anlagen beseitigen. Die Befugnis zur Beseitigung der Abfälle in eigenen Anlagen nach Satz 2 besteht nicht, soweit die Überlassung der Abfälle an den öffentlich-rechtlichen Entsorgungsträger auf Grund überwiegender öffentlicher Interessen erforderlich ist.
 
@@ -635,8 +613,7 @@ Satz 3 Nummer 1 und 2 gilt nicht, wenn die vom gewerblichen Sammler angebotene S
 
 (4) Die Länder können zur Sicherstellung der umweltverträglichen Beseitigung Andienungs- und Überlassungspflichten für gefährliche Abfälle zur Beseitigung bestimmen. Andienungspflichten für gefährliche Abfälle zur Verwertung, die die Länder bis zum 7. Oktober 1996 bestimmt haben, bleiben unberührt.
 
-
-## § 18 – Anzeigeverfahren für Sammlungen
+# § 18 – Anzeigeverfahren für Sammlungen
 
 (1) Gemeinnützige Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer 3 und gewerbliche Sammlungen im Sinne des § 17 Absatz 2 Satz 1 Nummer 4 sind spätestens drei Monate vor ihrer beabsichtigten Aufnahme durch ihren Träger der zuständigen Behörde nach Maßgabe der Absätze 2 und 3 anzuzeigen.
 
@@ -670,15 +647,13 @@ Die Behörde kann verlangen, dass der Anzeige der gemeinnützigen Sammlung Unter
 
 (8) Der von der gewerblichen Sammlung betroffene öffentlich-rechtliche Entsorgungsträger hat einen Anspruch darauf, dass die für gewerbliche Sammlungen geltenden Bestimmungen des Anzeigeverfahrens eingehalten werden.
 
-
-## § 19 – Duldungspflichten bei Grundstücken
+# § 19 – Duldungspflichten bei Grundstücken
 
 (1) Die Eigentümer und Besitzer von Grundstücken, auf denen überlassungspflichtige Abfälle anfallen, sind verpflichtet, das Aufstellen von zur Erfassung notwendigen Behältnissen sowie das Betreten des Grundstücks zum Zweck des Einsammelns und zur Überwachung des Getrennthaltens und der Verwertung von Abfällen zu dulden. Die Bediensteten und Beauftragten der zuständigen Behörde dürfen Geschäfts- und Betriebsgrundstücke und Geschäfts- und Betriebsräume außerhalb der üblichen Geschäftszeiten sowie Wohnräume ohne Einverständnis des Inhabers nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung betreten. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
 (2) Absatz 1 gilt entsprechend für Rücknahme- und Sammelsysteme, die zur Durchführung von Rücknahmepflichten auf Grund einer Rechtsverordnung nach § 25 erforderlich sind.
 
-
-## § 20 – Pflichten der öffentlich-rechtlichen Entsorgungsträger
+# § 20 – Pflichten der öffentlich-rechtlichen Entsorgungsträger
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger haben die in ihrem Gebiet angefallenen und überlassenen Abfälle aus privaten Haushaltungen und Abfälle zur Beseitigung aus anderen Herkunftsbereichen nach Maßgabe der §§ 6 bis 11 zu verwerten oder nach Maßgabe der §§ 15 und 16 zu beseitigen. Werden Abfälle zur Beseitigung überlassen, weil die Pflicht zur Verwertung aus den in § 7 Absatz 4 genannten Gründen nicht erfüllt werden muss, sind die öffentlich-rechtlichen Entsorgungsträger zur Verwertung verpflichtet, soweit bei ihnen diese Gründe nicht vorliegen.
 
@@ -712,18 +687,15 @@ Die Verpflichtung zur getrennten Sammlung von Textilabfällen nach Satz 1 Nummer
 
 3. nicht innerhalb eines Monats nach einer am Fahrzeug angebrachten, deutlich sichtbaren Aufforderung entfernt worden sind.
 
-
-## § 21 – Abfallwirtschaftskonzepte und Abfallbilanzen
+# § 21 – Abfallwirtschaftskonzepte und Abfallbilanzen
 
 Die öffentlich-rechtlichen Entsorgungsträger im Sinne des § 20 haben Abfallwirtschaftskonzepte und Abfallbilanzen über die Verwertung, insbesondere die Vorbereitung zur Wiederverwendung und das Recycling, und die Beseitigung der in ihrem Gebiet anfallenden und ihnen zu überlassenden Abfälle zu erstellen; dabei werden die betriebenen und geplanten Systeme zur Getrenntsammlung, insbesondere der in § 20 Absatz 2 genannten Abfallarten, gesondert dargestellt. In den Abfallwirtschaftskonzepten und Abfallbilanzen sind zudem die getroffenen Maßnahmen zur Abfallvermeidung darzustellen. Bei der Fortentwicklung von Abfallvermeidungsmaßnahmen sind die Maßnahmen des Abfallvermeidungsprogramms nach § 33 zu berücksichtigen. Die Anforderungen an Abfallwirtschaftskonzepte und Abfallbilanzen richten sich nach Landesrecht.
 
-
-## § 22 – Beauftragung Dritter
+# § 22 – Beauftragung Dritter
 
 Die zur Verwertung und Beseitigung Verpflichteten können Dritte mit der Erfüllung ihrer Pflichten beauftragen. Ihre Verantwortlichkeit für die Erfüllung der Pflichten bleibt hiervon unberührt und so lange bestehen, bis die Entsorgung endgültig und ordnungsgemäß abgeschlossen ist. Die beauftragten Dritten müssen über die erforderliche Zuverlässigkeit verfügen.
 
-
-## § 23 – Produktverantwortung
+# § 23 – Produktverantwortung
 
 (1) Wer Erzeugnisse entwickelt, herstellt, be- oder verarbeitet oder vertreibt, trägt zur Erfüllung der Ziele der Kreislaufwirtschaft die Produktverantwortung. Erzeugnisse sind möglichst so zu gestalten, dass bei ihrer Herstellung und ihrem Gebrauch das Entstehen von Abfällen vermindert wird und sichergestellt ist, dass die nach ihrem Gebrauch entstandenen Abfälle umweltverträglich verwertet oder beseitigt werden. Beim Vertrieb der Erzeugnisse ist dafür zu sorgen, dass deren Gebrauchstauglichkeit erhalten bleibt und diese nicht zu Abfall werden.
 
@@ -755,8 +727,7 @@ Die zur Verwertung und Beseitigung Verpflichteten können Dritte mit der Erfüll
 
 (4) Die Bundesregierung bestimmt durch Rechtsverordnungen auf Grund der §§ 24 und 25, welche Verpflichteten die Produktverantwortung nach den Absätzen 1 und 2 wahrzunehmen haben. Sie legt zugleich fest, für welche Erzeugnisse und in welcher Art und Weise die Produktverantwortung wahrzunehmen ist.
 
-
-## § 24 – Anforderungen an Verbote, Beschränkungen, Kennzeichnungen, Beratung, Information und Obhutspflicht
+# § 24 – Anforderungen an Verbote, Beschränkungen, Kennzeichnungen, Beratung, Information und Obhutspflicht
 
 Zur Festlegung von Anforderungen nach § 23 wird die Bundesregierung ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass
 
@@ -794,8 +765,7 @@ e) die Rückgabemöglichkeit im Falle einer verordneten Rücknahme- oder Rückga
 
 10. beim Vertrieb bestimmter Erzeugnisse, auch im Zusammenhang mit deren Rücknahme oder Rückgabe, dafür zu sorgen ist, dass die Gebrauchstauglichkeit der Erzeugnisse erhalten bleibt und diese nicht zu Abfall werden.
 
-
-## § 25 – Anforderungen an Rücknahme- und Rückgabepflichten, die Wiederverwendung, die Verwertung und die Beseitigung der nach Gebrauch der Erzeugnisse entstandenen Abfälle, Kostenbeteiligungen für die Reinigung der Umwelt; Obhutspflicht
+# § 25 – Anforderungen an Rücknahme- und Rückgabepflichten, die Wiederverwendung, die Verwertung und die Beseitigung der nach Gebrauch der Erzeugnisse entstandenen Abfälle, Kostenbeteiligungen für die Reinigung der Umwelt; Obhutspflicht
 
 (1) Zur Festlegung von Anforderungen nach § 23 wird die Bundesregierung ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass Hersteller oder Vertreiber
 
@@ -851,8 +821,7 @@ b) der Qualität der Daten, für die eine Nachweisführung nach Absatz 1 Nummer 
 
 11. dass Daten über die Einhaltung der abfallwirtschaftlichen Ziele nach Nummer 10 sowie weitere Daten über die Organisation und Struktur der Rücknahmesysteme zu erheben und in geeigneter Weise zu veröffentlichen sind.
 
-
-## § 26 – Freiwillige Rücknahme, Wahrnehmung der Produktverantwortung
+# § 26 – Freiwillige Rücknahme, Wahrnehmung der Produktverantwortung
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung ohne Zustimmung des Bundesrates Ziele für die freiwillige Rücknahme von Erzeugnissen und den nach Gebrauch der Erzeugnisse entstandenen Abfällen festzulegen, die innerhalb einer angemessenen Frist zu erreichen sind.
 
@@ -882,8 +851,7 @@ Eine Förderung der Kreislaufwirtschaft ist anzunehmen, wenn die geplante Rückn
 
 5. sichergestellt ist, dass die Rücknahme und die Verwertung mindestens für einen Zeitraum von drei Jahren durchgeführt werden.
 
-
-## § 26a – Freistellung von Nachweispflichten bei freiwilliger Rücknahme gefährlicher Abfälle
+# § 26a – Freistellung von Nachweispflichten bei freiwilliger Rücknahme gefährlicher Abfälle
 
 (1) Soweit vom Hersteller oder Vertreiber in Wahrnehmung der Produktverantwortung die nach Gebrauch ihrer Erzeugnisse verbleibenden gefährlichen Abfälle in eigenen Anlagen oder Einrichtungen oder in Anlagen oder Einrichtungen der von ihnen beauftragten Dritten freiwillig zurückgenommen werden, soll die zuständige Behörde den Hersteller oder Vertreiber auf Antrag von der Nachweispflicht nach § 50 bis zum Abschluss der Rücknahme der Abfälle freistellen. Als abgeschlossen gilt die Rücknahme mit der Annahme der Abfälle an einer Anlage zur weiteren Entsorgung, ausgenommen Anlagen zur Zwischenlagerung der Abfälle, wenn im Freistellungsbescheid kein früherer Zeitpunkt bestimmt wird.
 
@@ -893,13 +861,11 @@ Eine Förderung der Kreislaufwirtschaft ist anzunehmen, wenn die geplante Rückn
 
 (4) Erzeuger, Besitzer, Beförderer oder Entsorger gefährlicher Abfälle, die diese Abfälle an einen Hersteller oder Vertreiber zurückgeben oder in dessen Auftrag entsorgen, sind bis zum Abschluss der Rücknahme von der Nachweispflicht nach § 50 für diese Abfälle befreit, soweit der Hersteller oder Vertreiber von der Pflicht zur Nachweisführung für solche Abfälle freigestellt ist. Die zuständige Behörde kann die Rückgabe oder Entsorgung von Bedingungen abhängig machen, sie zeitlich befristen oder Auflagen für sie vorsehen, soweit dies erforderlich ist, um die umweltverträgliche Verwertung und Beseitigung sicherzustellen.
 
-
-## § 27 – Besitzerpflichten nach Rücknahme
+# § 27 – Besitzerpflichten nach Rücknahme
 
 Hersteller und Vertreiber, die Abfälle auf Grund einer Rechtsverordnung nach § 25 oder freiwillig zurücknehmen, unterliegen den Pflichten eines Besitzers von Abfällen.
 
-
-## § 28 – Ordnung der Abfallbeseitigung
+# § 28 – Ordnung der Abfallbeseitigung
 
 (1) Abfälle dürfen zum Zweck der Beseitigung nur in den dafür zugelassenen Anlagen oder Einrichtungen (Abfallbeseitigungsanlagen) behandelt, gelagert oder abgelagert werden. Abweichend von Satz 1 ist die Behandlung von Abfällen zur Beseitigung auch in solchen Anlagen zulässig, die überwiegend einem anderen Zweck als der Abfallbeseitigung dienen und die einer Genehmigung nach § 4 des Bundes-Immissionsschutzgesetzes bedürfen. Die Lagerung oder Behandlung von Abfällen zur Beseitigung in den diesen Zwecken dienenden Abfallbeseitigungsanlagen ist auch zulässig, soweit diese nach dem Bundes-Immissionsschutzgesetz auf Grund ihres geringen Beeinträchtigungspotenzials keiner Genehmigung bedürfen und in einer Rechtsverordnung nach § 23 des Bundes-Immissionsschutzgesetzes oder in einer Rechtsverordnung nach § 16 nichts anderes bestimmt ist. Flüssige Abfälle, die kein Abwasser sind, können unter den Voraussetzungen des § 55 Absatz 3 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 1 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, in der jeweils geltenden Fassung mit Abwasser beseitigt werden.
 
@@ -907,8 +873,7 @@ Hersteller und Vertreiber, die Abfälle auf Grund einer Rechtsverordnung nach §
 
 (3) Die Landesregierungen können durch Rechtsverordnung die Beseitigung bestimmter Abfälle oder bestimmter Mengen dieser Abfälle außerhalb von Anlagen im Sinne des Absatzes 1 Satz 1 zulassen, soweit hierfür ein Bedürfnis besteht und eine Beeinträchtigung des Wohls der Allgemeinheit nicht zu besorgen ist. Sie können in diesem Fall auch die Voraussetzungen und die Art und Weise der Beseitigung durch Rechtsverordnung bestimmen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung ganz oder teilweise auf andere Behörden übertragen.
 
-
-## § 29 – Durchführung der Abfallbeseitigung
+# § 29 – Durchführung der Abfallbeseitigung
 
 (1) Die zuständige Behörde kann den Betreiber einer Abfallbeseitigungsanlage verpflichten, einem Beseitigungspflichtigen nach § 15 sowie den öffentlich-rechtlichen Entsorgungsträgern im Sinne des § 20 die Mitbenutzung der Abfallbeseitigungsanlage gegen angemessenes Entgelt zu gestatten, soweit diese auf eine andere Weise den Abfall nicht zweckmäßig oder nur mit erheblichen Mehrkosten beseitigen können und die Mitbenutzung für den Betreiber zumutbar ist. Kommt eine Einigung über das Entgelt nicht zustande, wird es auf Antrag durch die zuständige Behörde festgesetzt. Auf Antrag des nach Satz 1 Verpflichteten kann der durch die Gestattung Begünstigte statt zur Zahlung eines angemessenen Entgelts dazu verpflichtet werden, nach dem Wegfall der Gründe für die Zuweisung Abfälle gleicher Art und Menge zu übernehmen. Die Verpflichtung zur Gestattung darf nur erfolgen, wenn Rechtsvorschriften dieses Gesetzes nicht entgegenstehen; die Erfüllung der Grundpflichten gemäß § 15 muss sichergestellt sein. Die zuständige Behörde hat von demjenigen Beseitigungspflichtigen, der durch die Gestattung begünstigt werden soll, die Vorlage eines Abfallwirtschaftskonzepts zu verlangen und dieses ihrer Entscheidung zugrunde zu legen.
 
@@ -918,8 +883,7 @@ Hersteller und Vertreiber, die Abfälle auf Grund einer Rechtsverordnung nach §
 
 (4) Das Einbringen von Abfällen in die Hohe See sowie die Verbrennung von Abfällen auf Hoher See ist nach Maßgabe des Hohe-See-Einbringungsgesetzes vom 25. August 1998 (BGBl. I S. 2455), das zuletzt durch Artikel 72 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verboten. Baggergut darf nach Maßgabe des in Satz 1 genannten Gesetzes unter Berücksichtigung der jeweiligen Inhaltsstoffe in die Hohe See eingebracht werden.
 
-
-## § 30 – Abfallwirtschaftspläne
+# § 30 – Abfallwirtschaftspläne
 
 (1) Die Länder stellen für ihr Gebiet Abfallwirtschaftspläne nach überörtlichen Gesichtspunkten auf. Die Abfallwirtschaftspläne stellen Folgendes dar:
 
@@ -993,8 +957,7 @@ b) die Siedlungsabfälle, die energetisch verwertet oder beseitigt werden.
 
 4. Angaben über geschlossene kontaminierte Abfallbeseitigungsstandorte und Maßnahmen für deren Sanierung.
 
-
-## § 31 – Aufstellung von Abfallwirtschaftsplänen
+# § 31 – Aufstellung von Abfallwirtschaftsplänen
 
 (1) Die Länder sollen ihre Abfallwirtschaftsplanungen aufeinander und untereinander abstimmen. Ist eine die Grenze eines Landes überschreitende Planung erforderlich, sollen die betroffenen Länder bei der Aufstellung der Abfallwirtschaftspläne die Erfordernisse und Maßnahmen in gegenseitigem Benehmen miteinander festlegen.
 
@@ -1006,8 +969,7 @@ b) die Siedlungsabfälle, die energetisch verwertet oder beseitigt werden.
 
 (5) Die Pläne sind mindestens alle sechs Jahre auszuwerten und bei Bedarf fortzuschreiben.
 
-
-## § 32 – Beteiligung der Öffentlichkeit bei der Aufstellung von Abfallwirtschaftsplänen, Unterrichtung der Öffentlichkeit
+# § 32 – Beteiligung der Öffentlichkeit bei der Aufstellung von Abfallwirtschaftsplänen, Unterrichtung der Öffentlichkeit
 
 (1) Bei der Aufstellung oder Änderung von Abfallwirtschaftplänen nach § 30, einschließlich besonderer Kapitel oder gesonderter Teilpläne, insbesondere über die Entsorgung von gefährlichen Abfällen, Altbatterien und Akkumulatoren oder Verpackungen und Verpackungsabfällen, ist die Öffentlichkeit durch die zuständige Behörde zu beteiligen. Die Aufstellung oder Änderung eines Abfallwirtschaftsplans sowie Informationen über das Beteiligungsverfahren sind in einem amtlichen Veröffentlichungsblatt und auf andere geeignete Weise bekannt zu machen.
 
@@ -1019,8 +981,7 @@ b) die Siedlungsabfälle, die energetisch verwertet oder beseitigt werden.
 
 (5) Unbeschadet der Beteiligung der Öffentlichkeit nach den Absätzen 1 bis 4 unterrichten die Länder die Öffentlichkeit über den Stand der Abfallwirtschaftsplanung. Die Unterrichtung enthält unter Beachtung der bestehenden Geheimhaltungsvorschriften eine zusammenfassende Darstellung und Bewertung der Abfallwirtschaftspläne, einen Vergleich zum vorangegangenen sowie eine Prognose für den folgenden Unterrichtungszeitraum.
 
-
-## § 33 – Abfallvermeidungsprogramme
+# § 33 – Abfallvermeidungsprogramme
 
 (1) Der Bund erstellt ein Abfallvermeidungsprogramm. Die Länder können sich an der Erstellung des Abfallvermeidungsprogramms beteiligen. In diesem Fall leisten sie für ihren jeweiligen Zuständigkeitsbereich eigenverantwortliche Beiträge; diese Beiträge werden in das Abfallvermeidungsprogramm des Bundes aufgenommen.
 
@@ -1092,8 +1053,7 @@ m) die Entwicklung und Unterstützung von Informationskampagnen, in deren Rahmen
 
 (9) Bestehende Abfallvermeidungsprogramme sind bis zum Ablauf des 12. Dezember 2025 an die Anforderungen nach Absatz 3 Nummer 2, den Absätzen 4 und 5 anzupassen, alle sechs Jahre auszuwerten und bei Bedarf fortzuschreiben. Bei der Aufstellung oder Änderung von Abfallvermeidungsprogrammen ist die Öffentlichkeit von der zuständigen Behörde entsprechend § 32 Absatz 1 bis 4 zu beteiligen. Zuständig für die Erstellung des Abfallvermeidungsprogramms des Bundes ist das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit oder eine von diesem zu bestimmende Behörde. Das Abfallvermeidungsprogramm des Bundes wird im Einvernehmen mit den fachlich betroffenen Bundesministerien erstellt.
 
-
-## § 34 – Erkundung geeigneter Standorte
+# § 34 – Erkundung geeigneter Standorte
 
 (1) Eigentümer und Nutzungsberechtigte von Grundstücken haben zu dulden, dass Beauftragte der zuständigen Behörde und der öffentlich-rechtlichen Entsorgungsträger zur Erkundung geeigneter Standorte für Deponien und öffentlich zugängliche Abfallbeseitigungsanlagen Grundstücke mit Ausnahme von Wohnungen betreten und Vermessungen, Boden- und Grundwasseruntersuchungen sowie ähnliche Maßnahmen durchführen. Die Absicht, Grundstücke zu betreten und solche Maßnahmen durchzuführen, ist den Eigentümern und Nutzungsberechtigten der Grundstücke rechtzeitig vorher bekannt zu geben.
 
@@ -1101,8 +1061,7 @@ m) die Entwicklung und Unterstützung von Informationskampagnen, in deren Rahmen
 
 (3) Eigentümer und Nutzungsberechtigte von Grundstücken können für durch Maßnahmen nach Absatz 1 oder Absatz 2 entstandene Vermögensnachteile von der zuständigen Behörde Entschädigung in Geld verlangen.
 
-
-## § 35 – Planfeststellung und Genehmigung
+# § 35 – Planfeststellung und Genehmigung
 
 (1) Die Errichtung und der Betrieb von Anlagen, in denen eine Entsorgung von Abfällen durchgeführt wird, sowie die wesentliche Änderung einer solchen Anlage oder ihres Betriebes bedürfen der Genehmigung nach den Vorschriften des Bundes-Immissionsschutzgesetzes; einer weiteren Zulassung nach diesem Gesetz bedarf es nicht.
 
@@ -1126,8 +1085,7 @@ Die zuständige Behörde soll ein Genehmigungsverfahren durchführen, wenn die w
 
 (5) Für nach Absatz 4 anzeigebedürftige Änderungen kann der Träger des Vorhabens eine Planfeststellung oder eine Plangenehmigung beantragen.
 
-
-## § 36 – Erteilung, Sicherheitsleistung, Nebenbestimmungen
+# § 36 – Erteilung, Sicherheitsleistung, Nebenbestimmungen
 
 (1) Der Planfeststellungsbeschluss nach § 35 Absatz 2 darf nur erlassen oder die Plangenehmigung nach § 35 Absatz 3 darf nur erteilt werden, wenn
 
@@ -1153,8 +1111,7 @@ c) Energie sparsam und effizient verwendet wird,
 
 (4) Der Planfeststellungsbeschluss und die Plangenehmigung nach Absatz 1 können von Bedingungen abhängig gemacht, mit Auflagen verbunden und befristet werden, soweit dies zur Wahrung des Wohls der Allgemeinheit erforderlich ist. Die zuständige Behörde überprüft regelmäßig sowie aus besonderem Anlass, ob der Planfeststellungsbeschluss und die Plangenehmigung nach Absatz 1 dem neuesten Stand der in Absatz 1 Nummer 1 bis 3 und 5 genannten Anforderungen entsprechen. Die Aufnahme, Änderung oder Ergänzung von Auflagen über Anforderungen an die Deponie oder ihren Betrieb ist auch nach dem Ergehen des Planfeststellungsbeschlusses oder nach der Erteilung der Plangenehmigung zulässig. Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, wann die zuständige Behörde Überprüfungen vorzunehmen und die in Satz 3 genannten Auflagen zu erlassen hat.
 
-
-## § 37 – Zulassung des vorzeitigen Beginns
+# § 37 – Zulassung des vorzeitigen Beginns
 
 (1) In einem Planfeststellungs- oder Plangenehmigungsverfahren kann die für die Feststellung des Plans oder Erteilung der Plangenehmigung zuständige Behörde unter dem Vorbehalt des Widerrufs für einen Zeitraum von sechs Monaten zulassen, dass bereits vor Feststellung des Plans oder der Erteilung der Plangenehmigung mit der Errichtung einschließlich der Maßnahmen, die zur Prüfung der Betriebstüchtigkeit der Deponie erforderlich sind, begonnen wird, wenn
 
@@ -1168,8 +1125,7 @@ Diese Frist kann auf Antrag um sechs Monate verlängert werden.
 
 (2) Die zuständige Behörde hat die Leistung einer Sicherheit zu verlangen, soweit dies erforderlich ist, um die Erfüllung der Verpflichtungen des Trägers des Vorhabens nach Absatz 1 Satz 1 Nummer 3 zu sichern.
 
-
-## § 38 – Planfeststellungsverfahren und weitere Verwaltungsverfahren
+# § 38 – Planfeststellungsverfahren und weitere Verwaltungsverfahren
 
 (1) Für das Planfeststellungsverfahren gelten die §§ 72 bis 78 des Verwaltungsverfahrensgesetzes. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Planfeststellungs- und Plangenehmigungsverfahrens zu regeln, insbesondere
 
@@ -1183,15 +1139,13 @@ Diese Frist kann auf Antrag um sechs Monate verlängert werden.
 
 (2) Einwendungen im Rahmen des Zulassungsverfahrens können innerhalb der gesetzlich festgelegten Frist nur schriftlich erhoben werden.
 
-
-## § 39 – Bestehende Abfallbeseitigungsanlagen
+# § 39 – Bestehende Abfallbeseitigungsanlagen
 
 (1) Die zuständige Behörde kann für Deponien, die vor dem 11. Juni 1972 betrieben wurden oder mit deren Errichtung begonnen war, für deren Betrieb Befristungen, Bedingungen und Auflagen anordnen. Sie kann den Betrieb dieser Anlagen ganz oder teilweise untersagen, wenn eine erhebliche Beeinträchtigung des Wohls der Allgemeinheit durch Auflagen, Bedingungen oder Befristungen nicht verhindert werden kann.
 
 (2) In dem in Artikel 3 des Einigungsvertrages genannten Gebiet kann die zuständige Behörde für Deponien, die vor dem 1. Juli 1990 betrieben wurden oder mit deren Errichtung begonnen war, Befristungen, Bedingungen und Auflagen für deren Errichtung und Betrieb anordnen. Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 40 – Stilllegung
+# § 40 – Stilllegung
 
 (1) Der Betreiber einer Deponie hat ihre beabsichtigte Stilllegung der zuständigen Behörde unverzüglich anzuzeigen. Der Anzeige sind Unterlagen über Art, Umfang und Betriebsweise sowie die beabsichtigte Rekultivierung und sonstige Vorkehrungen zum Schutz des Wohls der Allgemeinheit beizufügen.
 
@@ -1211,8 +1165,7 @@ Besteht der Verdacht, dass von einer endgültig stillgelegten Deponie nach Absat
 
 (5) Die zuständige Behörde hat auf Antrag den Abschluss der Nachsorgephase festzustellen.
 
-
-## § 41 – Emissionserklärung
+# § 41 – Emissionserklärung
 
 (1) Der Betreiber einer Deponie ist verpflichtet, der zuständigen Behörde zu dem in der Rechtsverordnung nach Absatz 2 festgesetzten Zeitpunkt Angaben zu machen über Art und Menge sowie räumliche und zeitliche Verteilung der Emissionen, die von der Anlage in einem bestimmten Zeitraum ausgegangen sind, sowie über die Austrittsbedingungen (Emissionserklärung); er hat die Emissionserklärung nach Maßgabe der Rechtsverordnung nach Absatz 2 entsprechend dem neuesten Stand zu ergänzen. Dies gilt nicht für Betreiber von Deponien, von denen nur in geringem Umfang Emissionen ausgehen können. Die zuständige Behörde kann abweichend von Satz 1 eine kürzere Frist setzen, sofern dies im Einzelfall auf Grund besonderer Umstände erforderlich ist.
 
@@ -1222,13 +1175,11 @@ Besteht der Verdacht, dass von einer endgültig stillgelegten Deponie nach Absat
 
 (4) Die Verpflichtung nach Absatz 1, eine Emissionserklärung abzugeben, entsteht mit Inkrafttreten der Rechtsverordnung nach Absatz 2.
 
-
-## § 42 – Zugang zu Informationen
+# § 42 – Zugang zu Informationen
 
 Planfeststellungsbeschlüsse nach § 35 Absatz 2, Plangenehmigungen nach § 35 Absatz 3, Anordnungen nach § 39 und alle Ablehnungen und Änderungen dieser Entscheidungen sowie die bei der zuständigen Behörde vorliegenden Ergebnisse der Überwachung der von einer Deponie ausgehenden Emissionen sind nach den Bestimmungen des Umweltinformationsgesetzes mit Ausnahme des § 12 des Umweltinformationsgesetzes der Öffentlichkeit zugänglich; für Landesbehörden gelten die landesrechtlichen Vorschriften.
 
-
-## § 43 – Anforderungen an Deponien
+# § 43 – Anforderungen an Deponien
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass die Errichtung, die Beschaffenheit, der Betrieb, der Zustand nach Stilllegung und die betreibereigene Überwachung von Deponien zur Erfüllung des § 36 Absatz 1 und der §§ 39 und 40 sowie zur Umsetzung von Rechtsakten der Europäischen Union zu dem in § 1 genannten Zweck bestimmten Anforderungen genügen müssen, insbesondere dass
 
@@ -1280,8 +1231,7 @@ Bei der Festlegung der Anforderungen sind insbesondere mögliche Verlagerungen v
 
 (5) Durch Rechtsverordnung nach Absatz 1 können auch Verfahren zur Überprüfung der dort festgelegten Anforderungen bestimmt werden, insbesondere Verfahren entsprechend § 10 Absatz 2 Nummer 1 bis 9 und Absatz 3.
 
-
-## § 44 – Kosten der Ablagerung von Abfällen
+# § 44 – Kosten der Ablagerung von Abfällen
 
 (1) Die vom Betreiber für die Ablagerung von Abfällen in Rechnung zu stellenden privatrechtlichen Entgelte müssen alle Kosten für die Errichtung und den Betrieb der Deponie, einschließlich der Kosten einer vom Betreiber zu leistenden Sicherheit im Sinne von § 232 des Bürgerlichen Gesetzbuchs oder eines zu erbringenden gleichwertigen Sicherungsmittels, sowie die geschätzten Kosten für die Stilllegung und die Nachsorge für mindestens 30 Jahre abdecken. Soweit dies nach Satz 1 durch Freistellungen nach Artikel 4 § 3 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649), das durch Artikel 12 des Gesetzes vom 22. März 1991 (BGBl. I S. 766, 1928) geändert worden ist, gewährleistet ist, entfällt eine entsprechende Veranlagung der Kosten für die Stilllegung und die Nachsorge sowie der Kosten der Sicherheitsleistung bei der Berechnung der Entgelte.
 
@@ -1291,8 +1241,7 @@ Bei der Festlegung der Anforderungen sind insbesondere mögliche Verlagerungen v
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für die Abdeckung der Kosten von genehmigungsbedürftigen Anlagen zum Lagern von Abfällen im Sinne des Bundes-Immissionsschutzgesetzes, soweit in diesen Anlagen Abfälle vor deren Beseitigung jeweils über einen Zeitraum von mehr als einem Jahr oder Abfälle vor deren Verwertung jeweils über einen Zeitraum von mehr als drei Jahren gelagert werden.
 
-
-## § 45 – Pflichten der öffentlichen Hand
+# § 45 – Pflichten der öffentlichen Hand
 
 (1) Die Behörden des Bundes sowie die der Aufsicht des Bundes unterstehenden juristischen Personen des öffentlichen Rechts, Sondervermögen und sonstigen Stellen sind verpflichtet, durch ihr Verhalten zur Erfüllung des Zweckes des § 1 beizutragen.
 
@@ -1312,8 +1261,7 @@ Die Pflicht des Satzes 1 gilt, soweit die Erzeugnisse für den vorgesehenen Verw
 
 (4) Die öffentliche Hand hat im Rahmen ihrer Pflichten nach den Absätzen 1 bis 3 Regelungen für die Verwendung von Erzeugnissen oder Materialien sowie zum Schutz von Mensch und Umwelt nach anderen Rechtsvorschriften zu berücksichtigen.
 
-
-## § 46 – Abfallberatungspflicht
+# § 46 – Abfallberatungspflicht
 
 (1) Die öffentlich-rechtlichen Entsorgungsträger im Sinne des § 20 sind im Rahmen der ihnen übertragenen Aufgaben in Selbstverwaltung zur Information und Beratung über Möglichkeiten der Vermeidung, Verwertung und Beseitigung von Abfällen verpflichtet. Zur Beratung verpflichtet sind auch die Industrie- und Handelskammern, Handwerkskammern und Landwirtschaftskammern.
 
@@ -1323,8 +1271,7 @@ Die Pflicht des Satzes 1 gilt, soweit die Erzeugnisse für den vorgesehenen Verw
 
 (4) Die zuständige Behörde hat den nach diesem Gesetz zur Beseitigung Verpflichteten Auskunft über geeignete Abfallbeseitigungsanlagen zu erteilen.
 
-
-## § 47 – Allgemeine Überwachung
+# § 47 – Allgemeine Überwachung
 
 (1) Die Vermeidung nach Maßgabe der auf Grund der §§ 24 und 25 erlassenen Rechtsverordnungen und die Abfallbewirtschaftung unterliegen der Überwachung durch die zuständige Behörde. Für den Vollzug der nach den §§ 24 und 25 ergangenen Rechtsverordnungen sind § 25 Absatz 1 und 3, § 26 Absatz 2 und 3, § 27 Absatz 1, § 28 Absatz 1 und 2 und Absatz 4 Satz 1 und 2 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) entsprechend anzuwenden. Die nach Satz 2 verpflichteten Personen sind verpflichtet, das Betreten von Geschäfts- und Betriebsgrundstücken und -räumen außerhalb der üblichen Geschäftszeiten sowie das Betreten von Wohnräumen zu gestatten, wenn dies zur Verhütung dringender Gefahren für die öffentliche Sicherheit oder Ordnung erforderlich ist. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
@@ -1354,13 +1301,11 @@ Die nach Satz 1 zur Auskunft verpflichteten Personen haben den Bediensteten und 
 
 (9) Die zuständige Behörde kann anordnen, dass der Betreiber einer Deponie ihr Daten zu übermitteln hat, die in einem Durchführungsrechtsakt nach Artikel 72 Absatz 2 der Richtlinie 2010/75/EU aufgeführt sind und die zur Erfüllung der Berichtspflicht nach Absatz 8 erforderlich sind, soweit der zuständigen Behörde solche Daten nicht bereits auf Grund anderer Vorschriften vorliegen. § 3 Absatz 1 Satz 2 und § 5 Absatz 2 bis 6 des Gesetzes zur Ausführung des Protokolls über Schadstofffreisetzungs- und -verbringungsregister vom 21. Mai 2003 sowie zur Durchführung der Verordnung (EG) Nr. 166/2006 vom 6. Juni 2007 (BGBl. I S. 1002), das durch Artikel 1 des Gesetzes vom 9. Dezember 2020 (BGBl. I S. 2873) geändert worden ist, gelten entsprechend.
 
-
-## § 48 – Abfallbezeichnung, gefährliche Abfälle
+# § 48 – Abfallbezeichnung, gefährliche Abfälle
 
 An die Entsorgung sowie die Überwachung gefährlicher Abfälle sind nach Maßgabe dieses Gesetzes besondere Anforderungen zu stellen. Zur Umsetzung von Rechtsakten der Europäischen Union wird die Bundesregierung ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates die Bezeichnung von Abfällen sowie gefährliche Abfälle zu bestimmen und die Bestimmung gefährlicher Abfälle durch die zuständige Behörde im Einzelfall zuzulassen.
 
-
-## § 49 – Registerpflichten
+# § 49 – Registerpflichten
 
 (1) Die Betreiber von Anlagen oder Unternehmen, die Abfälle in einem Verfahren nach Anlage 1 oder Anlage 2 entsorgen (Entsorger von Abfällen), haben ein Register zu führen, in dem hinsichtlich der Vorgänge nach Anlage 1 oder Anlage 2 folgende Angaben verzeichnet sind:
 
@@ -1378,8 +1323,7 @@ An die Entsorgung sowie die Überwachung gefährlicher Abfälle sind nach Maßga
 
 (6) Die Registerpflichten nach den Absätzen 1 bis 3 gelten nicht für private Haushaltungen.
 
-
-## § 50 – Nachweispflichten
+# § 50 – Nachweispflichten
 
 (1) Die Erzeuger, Besitzer, Sammler, Beförderer und Entsorger von gefährlichen Abfällen haben sowohl der zuständigen Behörde gegenüber als auch untereinander die ordnungsgemäße Entsorgung gefährlicher Abfälle nachzuweisen. Der Nachweis wird geführt
 
@@ -1393,8 +1337,7 @@ An die Entsorgung sowie die Überwachung gefährlicher Abfälle sind nach Maßga
 
 (4) Die Nachweispflichten nach Absatz 1 gelten nicht für private Haushaltungen.
 
-
-## § 51 – Überwachung im Einzelfall
+# § 51 – Überwachung im Einzelfall
 
 (1) Die zuständige Behörde kann anordnen, dass die Erzeuger, Besitzer, Sammler, Beförderer, Händler, Makler oder Entsorger von Abfällen, jedoch ausgenommen private Haushaltungen,
 
@@ -1406,8 +1349,7 @@ Durch Anordnung nach Satz 1 kann auch bestimmt werden, dass Nachweise und Regist
 
 (2) Ist der Erzeuger, Besitzer, Sammler, Beförderer, Händler, Makler oder Entsorger von Abfällen Entsorgungsfachbetrieb im Sinne des § 56 oder auditierter Unternehmensstandort im Sinne des § 61, so hat die zuständige Behörde dies bei Anordnungen nach Absatz 1, insbesondere auch im Hinblick auf mögliche Beschränkungen des Umfangs oder des Inhalts der Nachweispflicht, zu berücksichtigen. Dies umfasst vor allem die Berücksichtigung der vom Umweltgutachter geprüften und im Rahmen der Teilnahme an dem Gemeinschaftssystem für das Umweltmanagement und die Umweltbetriebsprüfung (EMAS) erstellten Unterlagen.
 
-
-## § 52 – Anforderungen an Nachweise und Register
+# § 52 – Anforderungen an Nachweise und Register
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erfüllung der sich aus den §§ 49 bis 51 ergebenden Pflichten die näheren Anforderungen an die Form, den Inhalt sowie das Verfahren zur Führung und Vorlage der Nachweise, Register und der Mitteilung bestimmter Angaben aus den Registern festzulegen sowie die nach § 49 Absatz 2 verpflichteten Anlagen oder Unternehmen zu bestimmen. Durch Rechtsverordnung nach Satz 1 kann auch bestimmt werden, dass
 
@@ -1433,8 +1375,7 @@ Durch Anordnung nach Satz 1 kann auch bestimmt werden, dass Nachweise und Regist
 
 3. den zuständigen Behörden oder den beteiligten Nachweispflichtigen bestimmte Angaben zu den technischen Voraussetzungen nach Nummer 2, insbesondere die erforderlichen Empfangszugänge sowie Störungen der für die Kommunikation erforderlichen Einrichtungen, mitgeteilt werden.
 
-
-## § 53 – Sammler, Beförderer, Händler und Makler von Abfällen
+# § 53 – Sammler, Beförderer, Händler und Makler von Abfällen
 
 (1) Sammler, Beförderer, Händler und Makler von Abfällen haben die Tätigkeit ihres Betriebes vor Aufnahme der Tätigkeit der zuständigen Behörde anzuzeigen, es sei denn, der Betrieb verfügt über eine Erlaubnis nach § 54 Absatz 1. Die zuständige Behörde bestätigt dem Anzeigenden unverzüglich schriftlich den Eingang der Anzeige. Zuständig ist die Behörde des Landes, in dem der Anzeigende seinen Hauptsitz hat.
 
@@ -1460,8 +1401,7 @@ Durch Anordnung nach Satz 1 kann auch bestimmt werden, dass Nachweise und Regist
 
 (+++ § 53 Abs. 1 bis 5: Zur Anwendung vgl. § 72 Abs. 4 +++)
 
-
-## § 54 – Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen
+# § 54 – Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen
 
 (1) Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen bedürfen der Erlaubnis. Die zuständige Behörde hat die Erlaubnis zu erteilen, wenn
 
@@ -1499,8 +1439,7 @@ Zuständig ist die Behörde des Landes, in dem der Antragsteller seinen Hauptsit
 
 (+++ § 54 Abs. 1 bis 6: Zur Anwendung vgl. § 72 Abs. 4 +++)
 
-
-## § 55 – Kennzeichnung der Fahrzeuge
+# § 55 – Kennzeichnung der Fahrzeuge
 
 (1) Sammler und Beförderer haben Fahrzeuge, mit denen sie Abfälle in Ausübung ihrer Tätigkeit auf öffentlichen Straßen befördern, vor Antritt der Fahrt mit zwei rückstrahlenden weißen Warntafeln gemäß Satz 3 zu versehen (A-Schilder). Satz 1 gilt nicht für Sammler und Beförderer, die im Rahmen wirtschaftlicher Unternehmen Abfälle sammeln oder befördern. Hinsichtlich der Anforderungen an die Kennzeichnung der Fahrzeuge gilt § 10 des Abfallverbringungsgesetzes vom 19. Juli 2007 (BGBl. I S. 1462) in der jeweils geltenden Fassung entsprechend.
 
@@ -1508,8 +1447,7 @@ Zuständig ist die Behörde des Landes, in dem der Antragsteller seinen Hauptsit
 
 (3) Rechtsvorschriften, die aus Gründen der Sicherheit im Zusammenhang mit der Beförderung gefährlicher Güter erlassen sind, bleiben unberührt.
 
-
-## § 56 – Zertifizierung von Entsorgungsfachbetrieben
+# § 56 – Zertifizierung von Entsorgungsfachbetrieben
 
 (1) Entsorgungsfachbetriebe wirken an der Förderung der Kreislaufwirtschaft und der Sicherstellung des Schutzes von Mensch und Umwelt bei der Erzeugung und Bewirtschaftung von Abfällen nach Maßgabe der hierfür geltenden Rechtsvorschriften mit.
 
@@ -1531,8 +1469,7 @@ Zuständig ist die Behörde des Landes, in dem der Antragsteller seinen Hauptsit
 
 (8) Entfallen die Voraussetzungen für die Erteilung des Zertifikats, hat die technische Überwachungsorganisation oder die Entsorgergemeinschaft dem Betrieb das von ihr erteilte Zertifikat und die Berechtigung zum Führen des Überwachungszeichens zu entziehen sowie den Betrieb aufzufordern, das Zertifikat zurückzugeben und das Überwachungszeichen nicht weiterzuführen. Kommt der Betrieb dieser Aufforderung innerhalb einer von der technischen Überwachungsorganisation oder Entsorgergemeinschaft gesetzten Frist nicht nach, kann die zuständige Behörde dem Betrieb das erteilte Zertifikat und die Berechtigung zum Führen des Überwachungszeichens entziehen sowie die sonstige weitere Verwendung der Bezeichnung „Entsorgungsfachbetrieb“ untersagen.
 
-
-## § 57 – Anforderungen an Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften
+# § 57 – Anforderungen an Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften zu bestimmen. In der Rechtsverordnung können insbesondere
 
@@ -1558,15 +1495,13 @@ b) der Anerkennung der Entsorgergemeinschaften durch die zuständige Behörde ge
 
 9. für die erforderlichen Erklärungen, Nachweise, Benachrichtigungen oder sonstigen Daten die elektronische Führung und die Vorlage von Dokumenten in elektronischer Form gemäß § 3a Absatz 2 Satz 2 und 3 des Verwaltungsverfahrensgesetzes angeordnet werden.
 
-
-## § 58 – Mitteilungspflichten zur Betriebsorganisation
+# § 58 – Mitteilungspflichten zur Betriebsorganisation
 
 (1) Besteht bei Kapitalgesellschaften das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei Personengesellschaften mehrere vertretungsberechtigte Gesellschafter vorhanden, so ist der zuständigen Behörde anzuzeigen, wer von ihnen nach den Bestimmungen über die Geschäftsführungsbefugnis für die Gesellschaft die Pflichten des Betreibers einer genehmigungsbedürftigen Anlage im Sinne des § 4 des Bundes-Immissionsschutzgesetzes oder die Pflichten des Besitzers im Sinne des § 27 wahrnimmt, die ihm nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegen. Die Gesamtverantwortung aller Organmitglieder oder Gesellschafter bleibt hiervon unberührt.
 
 (2) Der Betreiber einer genehmigungsbedürftigen Anlage im Sinne des § 4 des Bundes-Immissionsschutzgesetzes, der Besitzer im Sinne des § 27 oder im Rahmen ihrer Geschäftsführungsbefugnis die nach Absatz 1 Satz 1 anzuzeigende Person hat der zuständigen Behörde mitzuteilen, auf welche Weise sichergestellt ist, dass die Vorschriften und Anordnungen, die der Vermeidung, Verwertung und umweltverträglichen Beseitigung von Abfällen dienen, beim Betrieb beachtet werden.
 
-
-## § 59 – Bestellung eines Betriebsbeauftragten für Abfall
+# § 59 – Bestellung eines Betriebsbeauftragten für Abfall
 
 (1) Betreiber von genehmigungsbedürftigen Anlagen im Sinne des § 4 des Bundes-Immissionsschutzgesetzes, Betreiber von Anlagen, in denen regelmäßig gefährliche Abfälle anfallen, Betreiber ortsfester Sortier-, Verwertungs- oder Abfallbeseitigungsanlagen, Besitzer im Sinne des § 27 sowie Betreiber von Rücknahmesystemen und -stellen, die von den Besitzern im Sinne des § 27 eingerichtet worden sind oder an denen sie sich beteiligen, haben unverzüglich einen oder mehrere Betriebsbeauftragte für Abfall (Abfallbeauftragte) zu bestellen, sofern dies im Hinblick auf die Art oder die Größe der Anlagen oder die Bedeutung der abfallwirtschaftlichen Tätigkeit, insbesondere unter Berücksichtigung von Art oder Umfang der Rücknahme der Abfälle und der damit verbundenen Besitzerpflichten, erforderlich ist wegen der
 
@@ -1582,8 +1517,7 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bestimmt 
 
 (3) Ist nach § 53 des Bundes-Immissionsschutzgesetzes ein Immissionsschutzbeauftragter oder nach § 64 des Wasserhaushaltsgesetzes ein Gewässerschutzbeauftragter zu bestellen, so können diese auch die Aufgaben und Pflichten eines Abfallbeauftragten nach diesem Gesetz wahrnehmen.
 
-
-## § 60 – Aufgaben des Betriebsbeauftragten für Abfall
+# § 60 – Aufgaben des Betriebsbeauftragten für Abfall
 
 (1) Der Abfallbeauftragte berät den zur Bestellung Verpflichteten und die Betriebsangehörigen in Angelegenheiten, die für die Abfallvermeidung und Abfallbewirtschaftung bedeutsam sein können. Er ist berechtigt und verpflichtet,
 
@@ -1611,8 +1545,7 @@ b) umweltfreundlicher und abfallarmer Erzeugnisse, einschließlich Verfahren zur
 
 (3) Auf das Verhältnis zwischen dem zur Bestellung Verpflichteten und dem Abfallbeauftragten finden § 55 Absatz 1, 1a, 2 Satz 1 und 2, Absatz 3 und 4 und die §§ 56 bis 58 des Bundes-Immissionsschutzgesetzes entsprechende Anwendung. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 68) durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Anforderungen an die Fachkunde und Zuverlässigkeit des Abfallbeauftragten zu stellen sind.
 
-
-## § 61 – Anforderungen an Erleichterungen für auditierte Unternehmensstandorte
+# § 61 – Anforderungen an Erleichterungen für auditierte Unternehmensstandorte
 
 (1) Die Bundesregierung wird ermächtigt, zur Förderung der privaten Eigenverantwortung für Standorte des Gemeinschaftssystems für das Umweltmanagement und die Umweltbetriebsprüfung (EMAS) durch Rechtsverordnung mit Zustimmung des Bundesrates Erleichterungen zum Inhalt der Antragsunterlagen in abfallrechtlichen Verfahren sowie überwachungsrechtliche Erleichterungen vorzusehen, soweit die entsprechenden Anforderungen der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001 sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1) gleichwertig mit den Anforderungen sind, die zur Überwachung und zu den Antragsunterlagen nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen vorgesehen sind oder soweit die Gleichwertigkeit durch die Rechtsverordnung nach dieser Vorschrift sichergestellt wird.
 
@@ -1634,57 +1567,47 @@ nur gewährt werden, wenn der Umweltgutachter oder die Umweltgutachterorganisati
 
 (4) Durch Rechtsverordnung nach Absatz 1 können unter den dort genannten Voraussetzungen Erleichterungen im Genehmigungsverfahren sowie überwachungsrechtliche Erleichterungen für Entsorgungsfachbetriebe gewährt werden.
 
-
-## § 62 – Anordnungen im Einzelfall
+# § 62 – Anordnungen im Einzelfall
 
 Die zuständige Behörde kann im Einzelfall die erforderlichen Anordnungen zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen treffen.
 
-
-## § 63 – Geheimhaltung und Datenschutz
+# § 63 – Geheimhaltung und Datenschutz
 
 Die Rechtsvorschriften über Geheimhaltung und Datenschutz bleiben unberührt.
 
-
-## § 64 – Elektronische Kommunikation
+# § 64 – Elektronische Kommunikation
 
 Soweit auf Grund dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung die Schriftform angeordnet wird, ist auch die elektronische Form nach Maßgabe des § 3a des Verwaltungsverfahrensgesetzes zugelassen.
 
-
-## § 65 – Umsetzung von Rechtsakten der Europäischen Union
+# § 65 – Umsetzung von Rechtsakten der Europäischen Union
 
 (1) Zur Umsetzung von Rechtsakten der Europäischen Union kann die Bundesregierung mit Zustimmung des Bundesrates zu dem in § 1 genannten Zweck Rechtsverordnungen zur Sicherstellung der umweltverträglichen Abfallvermeidung und Abfallbewirtschaftung, insbesondere zur ordnungsgemäßen und schadlosen Verwertung sowie zur umweltverträglichen Beseitigung von Abfällen erlassen. In den Rechtsverordnungen kann auch geregelt werden, wie die Öffentlichkeit zu unterrichten ist.
 
 (2) Zur Umsetzung von Rechtsakten der Europäischen Union kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates das Verwaltungsverfahren zur Erteilung von Genehmigungen und Erlaubnissen oder Erstattung von Anzeigen nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung regeln.
 
-
-## § 66 – Vollzug im Bereich der Bundeswehr
+# § 66 – Vollzug im Bereich der Bundeswehr
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt der Vollzug des Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen für Material, das zur Verwendung für militärische Zwecke bestimmt ist, sowie für die Verwertung und Beseitigung militäreigentümlicher Abfälle sowie von Abfällen, für die ein besonderes militärisches Sicherheitsinteresse besteht, dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
 (2) Das Bundesministerium der Verteidigung wird ermächtigt, für Material, das zur Verwendung für militärische Zwecke bestimmt ist, sowie für die Verwertung oder die Beseitigung von Abfällen im Sinne des Absatzes 1 aus dem Bereich der Bundeswehr Ausnahmen von diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, soweit zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Pflichten dies erfordern.
 
-
-## § 67 – Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
+# § 67 – Beteiligung des Bundestages beim Erlass von Rechtsverordnungen
 
 Rechtsverordnungen nach § 8 Absatz 2, § 10 Absatz 1 Nummer 1 und 4, den §§ 24, 25 und 65 sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet.
 
-
-## § 68 – Anhörung beteiligter Kreise
+# § 68 – Anhörung beteiligter Kreise
 
 Soweit Ermächtigungen zum Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften die Anhörung der beteiligten Kreise vorschreiben, ist ein jeweils auszuwählender Kreis von Vertretern der Wissenschaft, der Betroffenen, der beteiligten Wirtschaft, der für die Abfallwirtschaft zuständigen obersten Landesbehörden, der Gemeinden und Gemeindeverbände zu hören.
 
-
-## § 69 – Bußgeldvorschriften
+# § 69 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 9a Absatz 1 gefährliche Abfälle vermischt,
 
-1a.  
-entgegen § 9a Absatz 3 Abfälle nicht oder nicht rechtzeitig trennt oder nicht oder nicht rechtzeitig behandelt,
+1a. entgegen § 9a Absatz 3 Abfälle nicht oder nicht rechtzeitig trennt oder nicht oder nicht rechtzeitig behandelt,
 
-1b.  
-entgegen § 12 Absatz 4 oder § 56 Absatz 4 Satz 2 ein dort genanntes Zeichen führt,
+1b. entgegen § 12 Absatz 4 oder § 56 Absatz 4 Satz 2 ein dort genanntes Zeichen führt,
 
 2. entgegen § 28 Absatz 1 Satz 1 Abfälle zur Beseitigung behandelt, lagert oder ablagert,
 
@@ -1736,8 +1659,7 @@ entgegen § 12 Absatz 4 oder § 56 Absatz 4 Satz 2 ein dort genanntes Zeichen f�
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr, soweit es sich um Ordnungswidrigkeiten nach Absatz 1 Nummer 6 bis 8 oder nach Absatz 2 Nummer 1, 7, 8, 10 bis 13 und 15 handelt und die Zuwiderhandlung im Zusammenhang mit der Beförderung von Abfällen durch Fahrzeuge zur Güterbeförderung auf der Straße in einem Unternehmen begangen wird, das im Inland weder seinen Sitz noch eine geschäftliche Niederlassung hat, und soweit die betroffene Person im Inland keinen Wohnsitz hat.
 
-
-## § 70 – Einziehung
+# § 70 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 Nummer 2 bis 7 oder Nummer 8 begangen worden, so können Gegenstände eingezogen werden,
 
@@ -1747,13 +1669,11 @@ Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 Nummer 2 bis 7 oder Nummer 8 beg
 
 § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 71 – Ausschluss abweichenden Landesrechts
+# § 71 – Ausschluss abweichenden Landesrechts
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
-
-## § 72 – Übergangsvorschrift
+# § 72 – Übergangsvorschrift
 
 (1) Pflichtenübertragungen nach § 16 Absatz 2, § 17 Absatz 3 oder § 18 Absatz 2 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, gelten fort. Die zuständige Behörde kann bestehende Pflichtenübertragungen nach Maßgabe des § 13 Absatz 2 und der §§ 16 bis 18 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, verlängern.
 
@@ -1763,8 +1683,7 @@ Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen Regelungen d
 
 (4) Eine Genehmigung für Vermittlungsgeschäfte nach § 50 Absatz 1 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, gilt bis zum Ende ihrer Befristung als Erlaubnis nach § 54 Absatz 1 fort.
 
-
-## Anlage 1 – Beseitigungsverfahren
+# Anlage 1 – Beseitigungsverfahren
 
 (Fundstelle: BGBl. I 2012, 242)
 
@@ -1813,8 +1732,7 @@ Neuverpacken vor Anwendung eines der in D 1 bis D 13 aufgeführten Verfahren
 D 15  
 Lagerung bis zur Anwendung eines der in D 1 bis D 14 aufgeführten Verfahren (ausgenommen zeitweilige Lagerung bis zur Sammlung auf dem Gelände der Entstehung der Abfälle)<span id="FnR.F775916_04"></span><a href="#F775916_04" class="FnR">3)</a></sup>
 
-
-## Anlage 2 – Verwertungsverfahren
+# Anlage 2 – Verwertungsverfahren
 
 (Fundstelle: BGBl. I 2012, 243)
 
@@ -1857,8 +1775,7 @@ Austausch von Abfällen, um sie einem der in R 1 bis R 11 aufgeführten Verfahre
 R 13  
 Lagerung von Abfällen bis zur Anwendung eines der in R 1 bis R 12 aufgeführten Verfahren (ausgenommen zeitweilige Lagerung bis zur Sammlung auf dem Gelände der Entstehung der Abfälle)<span id="FnR.F775916_09"></span><a href="#F775916_09" class="FnR">5)</a></sup>
 
-
-## Anlage 3 – Kriterien zur Bestimmung des Standes der Technik
+# Anlage 3 – Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle: BGBl. I 2012, 244;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1893,8 +1810,7 @@ Bei der Bestimmung des Standes der Technik sind unter Berücksichtigung der Verh
 
 13. Informationen, die in BVT-Merkblättern enthalten sind.
 
-
-## Anlage 4 – Beispiele für Abfallvermeidungsmaßnahmen nach § 33
+# Anlage 4 – Beispiele für Abfallvermeidungsmaßnahmen nach § 33
 
 (Fundstelle: BGBl. I 2012, 245)
 
@@ -1936,8 +1852,7 @@ e) Einbeziehung von Kriterien des Umweltschutzes und der Abfallvermeidung in Aus
 
 f) Förderung der Wiederverwendung und Reparatur geeigneter entsorgter Produkte oder ihrer Bestandteile, vor allem durch den Einsatz pädagogischer, wirtschaftlicher, logistischer oder anderer Maßnahmen wie Unterstützung oder Einrichtung von akkreditierten Zentren und Netzen für Reparatur und Wiederverwendung, insbesondere in dicht besiedelten Regionen.
 
-
-## Anlage 5 – (zu § 6 Absatz 3)Beispiele für wirtschaftliche Instrumente und andere Maßnahmen zur Schaffung von Anreizen für die Anwendung der Abfallhierarchie
+# Anlage 5 – (zu § 6 Absatz 3)Beispiele für wirtschaftliche Instrumente und andere Maßnahmen zur Schaffung von Anreizen für die Anwendung der Abfallhierarchie
 
 (Fundstelle: BGBl. I 2020, 2243)
 

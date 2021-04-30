@@ -1,20 +1,15 @@
-# [MPV] Verordnung über Medizinprodukte  (Medizinprodukte-Verordnung - MPV)
-
-Ausfertigungsdatum: 20.12.2001
-
+% Verordnung über Medizinprodukte  (Medizinprodukte-Verordnung - MPV)
+% Ausfertigungsdatum: 20.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 37 Abs. 1, 8 und 11 des Medizinproduktegesetzes vom 2. August 1994 (BGBl. I S. 1963), der durch Artikel 1 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3586) geändert worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie, dem Bundesministerium für Arbeit und Sozialordnung, dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesministerium des Innern:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Bewertung und Feststellung der Übereinstimmung von Medizinprodukten mit den Grundlegenden Anforderungen gemäß § 7 des Medizinproduktegesetzes (Konformitätsbewertung), die Sonderverfahren für Systeme und Behandlungseinheiten und die Änderung der Klassifizierung von Medizinprodukten durch Rechtsakte der Kommission der Europäischen Gemeinschaft.
 
-
-## § 2 – Biologische Sicherheitsprüfung
+# § 2 – Biologische Sicherheitsprüfung
 
 Zur Bewertung der biologischen Verträglichkeit von Medizinprodukten sind biologische Sicherheitsprüfungen mit Tierversuchen durchzuführen, soweit sie
 
@@ -26,8 +21,7 @@ Zur Bewertung der biologischen Verträglichkeit von Medizinprodukten sind biolog
 
 erforderlich sind.
 
-
-## § 3 – Allgemeine Vorschriften zur Durchführung der Konformitätsbewertung
+# § 3 – Allgemeine Vorschriften zur Durchführung der Konformitätsbewertung
 
 (1) Die Konformitätsbewertung erfolgt nach Maßgabe des Absatzes 2 und der §§ 4 bis 7 durch den Hersteller. Die Verfahren nach den Anhängen 3, 4 und 6 der Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. EG Nr. L 189 S. 17), die zuletzt durch Artikel 1 der Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, den Anhängen III, V, VI und VIII der Richtlinie 98/79/EG des Europäischen Parlaments und des Rates vom 27. Oktober 1998 über In-vitro-Diagnostika (ABl. EG Nr. L 331 S. 1), die zuletzt durch die Verordnung (EG) Nr. 1882/2003 (ABl. L 284 vom 31.10.2003, S. 1) geändert worden ist und den Anhängen III, IV, VII und VIII der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. EG Nr. L 169 S. 1), die zuletzt durch Artikel 2 der Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, in den jeweils geltenden Fassungen, können im Auftrag des Herstellers auch von seinem Bevollmächtigten im Sinne des § 3 Nr. 16 des Medizinproduktegesetzes durchgeführt werden.
 
@@ -39,8 +33,7 @@ erforderlich sind.
 
 (5) Die Geltungsdauer von Bescheinigungen, die nach den Anhängen 2 und 5 der Richtlinie 90/385/EWG, den Anhängen III, IV und V der Richtlinie 98/79/EG und den Anhängen II, III, V und VI der Richtlinie 93/42/EWG ausgestellt werden, ist auf höchstens fünf Jahre zu befristen.
 
-
-## § 4 – Konformitätsbewertungsverfahren für aktive implantierbare Medizinprodukte
+# § 4 – Konformitätsbewertungsverfahren für aktive implantierbare Medizinprodukte
 
 (1) Für aktive implantierbare Medizinprodukte, mit Ausnahme der Produkte nach Absatz 2 und 4, hat der Hersteller
 
@@ -70,8 +63,7 @@ Er hat eine Dokumentation zu erstellen, aus der die Fertigungsstätte sowie Ausl
 
 (5) Für unter Verwendung von Gewebe tierischen Ursprungs hergestellte aktive implantierbare Medizinprodukte gelten die besonderen Anforderungen der Verordnung (EU) Nr. 722/2012 der Kommission vom 8. August 2012 über besondere Anforderungen betreffend die in der Richtlinie 90/385/EWG bzw. 93/42/EWG des Rates festgelegten Anforderungen an unter Verwendung von Gewebe tierischen Ursprungs hergestellte aktive implantierbare medizinische Geräte und Medizinprodukte (ABl. L 212 vom 9.8.2012, S. 3).
 
-
-## § 5 – Konformitätsbewertungsverfahren für In-vitro-Diagnostika
+# § 5 – Konformitätsbewertungsverfahren für In-vitro-Diagnostika
 
 (1) Für In-vitro-Diagnostika nach Anhang II Liste A der Richtlinie 98/79/EG, mit Ausnahme der Produkte nach Absatz 6, hat der Hersteller
 
@@ -105,11 +97,9 @@ durchzuführen.
 
 Er hat eine Dokumentation zu erstellen, aus der die Fertigungsstätte sowie Auslegung, Herstellung und Leistungsdaten des Produktes, einschließlich der vorgesehenen Leistung, hervorgehen, so dass sich beurteilen lässt, ob es den Grundlegenden Anforderungen der Richtlinie 98/79/EG entspricht, und alle erforderlichen Maßnahmen zu treffen, um die Übereinstimmung der hergestellten Medizinprodukte mit dieser Dokumentation zu gewährleisten. Erklärung und Dokumentation sind mindestens fünf Jahre aufzubewahren. Der Eigenhersteller sichert zu, die Erfahrungen mit Produkten in der der Herstellung nachgelagerten Phase auszuwerten und zu dokumentieren und angemessene Vorkehrungen zu treffen, um erforderliche Korrekturen durchzuführen. § 4 Absatz 2 Satz 7 gilt entsprechend.
 
+# § 6 – (weggefallen)
 
-## § 6 – (weggefallen)
-
-
-## § 7 – Konformitätsbewertungsverfahren für die sonstigen Medizinprodukte
+# § 7 – Konformitätsbewertungsverfahren für die sonstigen Medizinprodukte
 
 (1) Für Medizinprodukte der Klasse III, mit Ausnahme der Produkte nach Absatz 5 und 9, hat der Hersteller
 
@@ -157,28 +147,23 @@ Er hat eine Dokumentation zu erstellen, aus der die Fertigungsstätte sowie Ausl
 
 (10) Für unter Verwendung von Gewebe tierischen Ursprungs hergestellte Medizinprodukte gelten die besonderen Anforderungen der Verordnung (EU) Nr. 722/2012.
 
-
-## § 8 – Brustimplantate
+# § 8 – Brustimplantate
 
 § 13 Abs. 1 Satz 2 des Medizinproduktegesetzes in Verbindung mit Anhang IX der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. EG Nr. L 169 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates vom 29. September 2003 (ABl. EU Nr. L 284 S. 1), in der jeweils geltenden Fassung, findet auf Brustimplantate keine Anwendung. Brustimplantate werden der Klasse III zugeordnet.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 9 – Gelenkersatz für Hüfte, Knie und Schulter
+# § 9 – Gelenkersatz für Hüfte, Knie und Schulter
 
 (1) § 13 Abs. 1 Satz 2 des Medizinproduktegesetzes in Verbindung mit Anhang IX der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. EG Nr. L 169 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates vom 29. September 2003 (ABl. EU Nr. L 284 S. 1), in der jeweils geltenden Fassung, findet auf Gelenkersatzteile für Hüfte, Knie und Schulter keine Anwendung. Gelenkersatzteile für Hüfte, Knie und Schulter werden der Klasse III zugeordnet.
 
 (2) Ein Gelenkersatzteil für Hüfte, Knie und Schulter ist eine implantierbare Gesamtheit von Teilen, die dazu bestimmt sind, zusammen die Funktion des natürlichen Hüft-, Knie- oder Schultergelenks möglichst vollständig zu erfüllen. Dazu gehören nicht Zubehörteile.
 
+# § 10 – (weggefallen)
 
-## § 10 – (weggefallen)
-
-
-## § 11 – Übergangsbestimmungen für Gelenkersatz für Hüfte, Knie und Schulter
+# § 11 – Übergangsbestimmungen für Gelenkersatz für Hüfte, Knie und Schulter
 
 (1) Medizinprodukte im Sinne von § 9 Abs. 2, für die ein Konformitätsbewertungsverfahren nach § 7 Abs. 2 Nr. 1 durchgeführt wurde, dürfen nach dem 1. September 2009 nur dann in den Verkehr gebracht und in Betrieb genommen werden, wenn der Hersteller bis zu diesem Zeitpunkt für diese Medizinprodukte entweder
 

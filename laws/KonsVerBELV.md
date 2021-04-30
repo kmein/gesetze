@@ -1,20 +1,15 @@
-# [KonsVerBELV] Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien  (Deutsch-Belgische Konsultationsvereinbarungsverordnung - KonsVerBELV)
-
-Ausfertigungsdatum: 20.12.2010
-
+% Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien  (Deutsch-Belgische Konsultationsvereinbarungsverordnung - KonsVerBELV)
+% Ausfertigungsdatum: 20.12.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) angefügt worden ist, und des Artikels 97 § 1 Absatz 9 Satz 1 des Einführungsgesetzes zur Abgabenordnung, der durch Artikel 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Abkommen
+# § 1 – Abkommen
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien zur Vermeidung der Doppelbesteuerungen und zur Regelung verschiedener anderer Fragen auf dem Gebiete der Steuern vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und der Grundsteuern vom 11. April 1967 (BGBl. 1969 II S. 17, 18), das zuletzt durch das Abkommen vom 5. November 2002 (BGBl. 2003 II S. 1615, 1616) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 2 – Abfindungen an Arbeitnehmer
+# § 2 – Abfindungen an Arbeitnehmer
 
 (1) Die einheitliche Anwendung und Auslegung des Abkommens in Bezug auf die Zuordnung des Besteuerungsrechts bei Abfindungen an Arbeitnehmer auf Grund einer entsprechenden Konsultationsvereinbarung im Sinn des § 2 Absatz 2 Satz 2 der Abgabenordnung zwischen den zuständigen Behörden im Sinn des Artikels 3 Absatz 1 Nummer 6 des Abkommens richtet sich nach den Absätzen 2 bis 4.
 
@@ -30,17 +25,14 @@ findet Artikel 15 Absatz 1 des Abkommens Anwendung. War der Arbeitnehmer in der 
 
 (4) Die Absätze 2 und 3 sind auf die in Artikel 15 Absatz 3 und Artikel 19 des Abkommens genannten Einkünfte nicht anzuwenden.
 
-
-## § 3 – Anwendungsregelung
+# § 3 – Anwendungsregelung
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 1. Januar 2010 anzuwenden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

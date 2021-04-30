@@ -1,15 +1,11 @@
-# [AWaffV] Allgemeine Waffengesetz-Verordnung  (AWaffV)
-
-Ausfertigungsdatum: 27.10.2003
-
+% Allgemeine Waffengesetz-Verordnung  (AWaffV)
+% Ausfertigungsdatum: 27.10.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 4, § 7 Abs. 2, § 15 Abs. 7 Satz 2, § 22 Abs. 2, § 25 Abs. 1, § 27 Abs. 7 Satz 2, § 34 Abs. 6, § 36 Abs. 5 und § 47 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592, 2003 I S. 1957), jeweils auch in Verbindung mit Artikel 17 des Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4013), verordnet das Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -281,8 +277,7 @@ Ordnungswidrigkeiten
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Umfang der Sachkunde
+# § 1 – Umfang der Sachkunde
 
 (1) Die in der Prüfung nach § 7 Abs. 1 des Waffengesetzes nachzuweisende Sachkunde umfasst ausreichende Kenntnisse
 
@@ -296,8 +291,7 @@ Inkrafttreten, Außerkrafttreten
 
 (3) Wird eine Erlaubnis nach § 26 des Waffengesetzes beantragt, so umfasst die nachzuweisende Sachkunde außer waffentechnischen Kenntnissen auch Werkstoff-, Fertigungs- und Ballistikkenntnisse.
 
-
-## § 2 – Prüfung
+# § 2 – Prüfung
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung Prüfungsausschüsse.
 
@@ -309,8 +303,7 @@ Inkrafttreten, Außerkrafttreten
 
 (5) Eine Prüfung kann bei Nichtbestehen auch mehrmals wiederholt werden. Der Prüfungsausschuss kann bestimmen, dass die Prüfung erst nach Ablauf einer bestimmten Frist wiederholt werden darf.
 
-
-## § 3 – Anderweitiger Nachweis der Sachkunde
+# § 3 – Anderweitiger Nachweis der Sachkunde
 
 (1) Die Sachkunde gilt insbesondere als nachgewiesen, wenn der Antragsteller
 
@@ -352,8 +345,7 @@ Der Nachweis der waffenrechtlichen Sachkunde wird durch eine von der Prüfungsko
 
 (5) Schießsportliche Vereine, die einem nach § 15 Abs. 3 des Waffengesetzes anerkannten Schießsportverband angehören, können Sachkundeprüfungen für ihre Mitglieder abnehmen. Absatz 2, zweiter Halbsatz und die Absätze 3 und 4 finden hierfür entsprechende Anwendung. Zur Durchführung der Prüfung bilden die schießsportlichen Vereine eigene Prüfungsausschüsse.
 
-
-## § 4 – Gutachten über die persönliche Eignung
+# § 4 – Gutachten über die persönliche Eignung
 
 (1) Derjenige,
 
@@ -395,8 +387,7 @@ Das Vorliegen der Sachkunde auf dem betreffenden Gebiet beurteilt sich nach beru
 
 (7) Dienstwaffenträger können an Stelle des in § 6 Abs. 3 des Waffengesetzes genannten Zeugnisses eine Bescheinigung ihrer Dienstbehörde vorlegen, dass eine Begutachtung ihrer geistigen Eignung durch einen sachkundigen Gutachter bereits stattgefunden hat und dass sie uneingeschränkt zum Umgang mit Dienstwaffen berechtigt sind.
 
-
-## § 5 – Schießsportordnungen
+# § 5 – Schießsportordnungen
 
 (1) Die Genehmigung einer Sportordnung für das Schießen mit Schusswaffen setzt insbesondere voraus, dass das Schießen nur auf zugelassenen Schießstätten veranstaltet wird und
 
@@ -418,8 +409,7 @@ Das Vorliegen der Sachkunde auf dem betreffenden Gebiet beurteilt sich nach beru
 
 (4) Für das sportliche Schießen im Training und im Einzelfall für Schießsportveranstaltungen können Schießsportordnungen Abweichungen von den in ihr festgelegten Schießdisziplinen zulassen.
 
-
-## § 6 – Vom Schießsport ausgeschlossene Schusswaffen
+# § 6 – Vom Schießsport ausgeschlossene Schusswaffen
 
 (1) Vom sportlichen Schießen sind ausgeschlossen:
 
@@ -441,8 +431,7 @@ c) die Hülsenlänge der verwendeten Munition bei Langwaffen weniger als 40 Mill
 
 (4) Zuständige Behörde für die Beurteilung der Schusswaffen nach Absatz 1 ist das Bundeskriminalamt.
 
-
-## § 7 – Unzulässige Schießübungen im Schießsport
+# § 7 – Unzulässige Schießübungen im Schießsport
 
 (1) Im Schießsport sind die Durchführung von Schießübungen in der Verteidigung mit Schusswaffen (§ 22) und solche Schießübungen und Wettbewerbe verboten, bei denen
 
@@ -470,8 +459,7 @@ Die Veranstaltung der in Satz 1 genannten Schießübungen und die Teilnahme als 
 
 (3) Die Ausbildung und das Training im jagdlichen Schießen einschließlich jagdlicher Schießwettkämpfe werden durch die vorstehenden Regelungen nicht beschränkt.
 
-
-## § 8 – Beirat für schießsportliche Fragen
+# § 8 – Beirat für schießsportliche Fragen
 
 (1) Beim Bundesministerium des Innern, für Bau und Heimat wird ein Beirat für schießsportliche Fragen (Fachbeirat) gebildet. Den Vorsitz führt ein Vertreter des Bundesministeriums des Innern, für Bau und Heimat. An den Sitzungen des Fachbeirates nehmen Vertreter des Bundesverwaltungsamtes teil.
 
@@ -497,8 +485,7 @@ Die Veranstaltung der in Satz 1 genannten Schießübungen und die Teilnahme als 
 
 (6) Die Mitglieder des Fachbeirates üben ihre Tätigkeit ehrenamtlich aus, sofern sie keine Behörde vertreten.
 
-
-## § 9 – Zulässige Schießübungen auf Schießstätten
+# § 9 – Zulässige Schießübungen auf Schießstätten
 
 (1) Auf einer Schießstätte ist unter Beachtung des Verbots des kampfmäßigen Schießens (§ 27 Abs. 7 Satz 1 des Waffengesetzes) das Schießen mit Schusswaffen und Munition auf der Grundlage der für die Schießstätte erteilten Erlaubnis (§ 27 Abs. 1 Satz 1 des Waffengesetzes) nur zulässig, wenn
 
@@ -524,8 +511,7 @@ In den Fällen des Satzes 1 Nr. 1, Nr. 2 Buchstabe c und Nr. 3 gilt § 7 Abs. 1 
 
 (+++ §§ 9 bis 11: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. a WaffGBundFreistV +++)
 
-
-## § 10 – Aufsichtspersonen; Obhut über das Schießen durch Kinder und Jugend
+# § 10 – Aufsichtspersonen; Obhut über das Schießen durch Kinder und Jugend
 
 (1) Der Inhaber der Erlaubnis für die Schießstätte (Erlaubnisinhaber) hat unter Berücksichtigung der Erfordernisse eines sicheren Schießbetriebs eine oder mehrere verantwortliche Aufsichtspersonen für das Schießen zu bestellen, soweit er nicht selbst die Aufsicht wahrnimmt oder eine schießsportliche oder jagdliche Vereinigung oder ein Veranstalter im Sinne des § 22 durch eigene verantwortliche Aufsichtspersonen die Aufsicht übernimmt. Der Erlaubnisinhaber kann selbst die Aufsicht wahrnehmen, wenn er die erforderliche Sachkunde nachgewiesen hat und, sofern es die Obhut über das Schießen durch Kinder und Jugendliche betrifft, die Eignung zur Kinder- und Jugendarbeit besitzt. Aufsichtspersonen müssen das 18. Lebensjahr vollendet haben. Der Schießbetrieb darf nicht aufgenommen oder fortgesetzt werden, solange keine ausreichende Anzahl von verantwortlichen Aufsichtspersonen die Aufsicht wahrnimmt. Die zuständige Behörde kann gegenüber dem Erlaubnisinhaber die Zahl der nach Satz 1 erforderlichen Aufsichtspersonen festlegen.
 
@@ -547,8 +533,7 @@ In den Fällen des Satzes 1 Nr. 1, Nr. 2 Buchstabe c und Nr. 3 gilt § 7 Abs. 1 
 
 (+++ §§ 9 bis 11: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. a WaffGBundFreistV +++)
 
-
-## § 11 – Aufsicht
+# § 11 – Aufsicht
 
 (1) Die verantwortlichen Aufsichtspersonen haben das Schießen in der Schießstätte ständig zu beaufsichtigen, insbesondere dafür zu sorgen, dass die in der Schießstätte Anwesenden durch ihr Verhalten keine vermeidbaren Gefahren verursachen, und zu beachten, dass die Bestimmungen des § 27 Abs. 3 oder 6 des Waffengesetzes eingehalten werden. Sie haben, wenn dies zur Verhütung oder Beseitigung von Gefahren erforderlich ist, das Schießen oder den Aufenthalt in der Schießstätte zu untersagen.
 
@@ -558,11 +543,9 @@ In den Fällen des Satzes 1 Nr. 1, Nr. 2 Buchstabe c und Nr. 3 gilt § 7 Abs. 1 
 
 (+++ §§ 9 bis 11: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. a WaffGBundFreistV +++)
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Aufbewahrung von Waffen oder Munition
+# § 13 – Aufbewahrung von Waffen oder Munition
 
 (1) Schusswaffen, deren Erwerb und Besitz erlaubnispflichtig sind, verbotene Waffen und verbotene Munition sind ungeladen und in einem Behältnis aufzubewahren, das
 
@@ -642,13 +625,11 @@ Als nationale Akkreditierungsstellen gelten
 
 (+++ § 13: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. b WaffGBundFreistV +++)
 
-
-## § 14 – Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
+# § 14 – Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
 
 Die zuständige Behörde kann auf Antrag eines Betreibers eines Schützenhauses, einer Schießstätte oder eines Waffengewerbes Abweichungen von den Anforderungen des § 13 Absatz 1, 2 und 4 Satz 1 und 2 zulassen, wenn ihr ein geeignetes Aufbewahrungskonzept vorgelegt wird. Sie hat bei ihrer Entscheidung neben der für die Aufbewahrung vorgesehenen Art und der Anzahl der Waffen oder der Munition und des Grades der von ihnen ausgehenden Gefahr für die öffentliche Sicherheit und Ordnung die Belegenheit und Frequentiertheit der Aufbewahrungsstätte besonders zu berücksichtigen.
 
-
-## § 15 – Umfang der Fachkunde
+# § 15 – Umfang der Fachkunde
 
 (1) Die in der Prüfung nach § 22 Abs. 1 Satz 1 des Waffengesetzes nachzuweisende Fachkunde umfasst ausreichende Kenntnisse
 
@@ -664,8 +645,7 @@ Die zuständige Behörde kann auf Antrag eines Betreibers eines Schützenhauses,
 
 2. die in der Anlage aufgeführten Waffen- oder Munitionsarten, für die Erlaubnis zum Handel beantragt ist.
 
-
-## § 16 – Prüfung
+# § 16 – Prüfung
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung staatliche Prüfungsausschüsse. Die Geschäftsführung kann auf die örtliche Industrie- und Handelskammer übertragen werden. Es können gemeinsame Prüfungsausschüsse für die Bezirke mehrerer Behörden gebildet werden.
 
@@ -675,8 +655,7 @@ Die zuständige Behörde kann auf Antrag eines Betreibers eines Schützenhauses,
 
 (4) Für die Erteilung eines Zeugnisses, die Anfertigung einer Niederschrift und die Wiederholung der Prüfung gilt § 2 Abs. 3 Satz 2 und Abs. 4 und 5 entsprechend.
 
-
-## § 17 – Grundsätze für das Führen der Ersatzdokumentation
+# § 17 – Grundsätze für das Führen der Ersatzdokumentation
 
 (1) Die Ersatzdokumentation ist in gebundener Form oder in Karteiform oder mit Hilfe der elektronischen Datenverarbeitung im Betrieb oder in dem Betriebsteil, in dem die Schusswaffen aufbewahrt werden, zu führen und gegen Abhandenkommen, Datenverlust und unberechtigten Zugriff gesichert aufzubewahren.
 
@@ -684,8 +663,7 @@ Die zuständige Behörde kann auf Antrag eines Betreibers eines Schützenhauses,
 
 (3) Die Ersatzdokumentation ist zum 31. Dezember jeden zweiten Jahres sowie beim Wechsel des Betriebsinhabers oder bei der Einstellung des Betriebs mit Datum und Unterschrift so abzuschließen, dass nachträglich Eintragungen nicht mehr vorgenommen werden können. Der beim Abschluss der Ersatzdokumentation verbliebene Bestand ist vorzutragen, bevor neue Eintragungen vorgenommen werden. Eine Ersatzdokumentation, die nicht mehr verwendet wird, ist unter Angabe des Datums abzuschließen.
 
-
-## § 17a – Vorlage und Aufbewahrung der Ersatzdokumentation
+# § 17a – Vorlage und Aufbewahrung der Ersatzdokumentation
 
 (1) Die Ersatzdokumentation ist auf Verlangen der zuständigen Behörde auch in deren Diensträumen oder den Beauftragten der Behörde vorzulegen.
 
@@ -693,8 +671,7 @@ Die zuständige Behörde kann auf Antrag eines Betreibers eines Schützenhauses,
 
 (3) Die zuständigen Behörden haben die nach Absatz 2 Satz 2 oder Satz 3 übernommenen Ersatzdokumentationen aufzubewahren. Sie haben die Ersatzdokumentation jeweils zu vernichten, wenn seit der letzten Eintragung 30 Jahre vergangen sind.
 
-
-## § 18 – Führung der Ersatzdokumentation in gebundener Form
+# § 18 – Führung der Ersatzdokumentation in gebundener Form
 
 (1) Wird die Ersatzdokumentation in gebundener Form geführt, so sind die Seiten laufend zu nummerieren; die Zahl der Seiten ist auf dem Titelblatt anzugeben.
 
@@ -724,8 +701,7 @@ Die Angaben zu den Nummern 1 bis 6 sind auf den linken Seiten, die Angaben zu de
 
 (3) Die Eintragungen nach Absatz 2 sind für jede Waffe gesondert vorzunehmen.
 
-
-## § 19 – Führung der Ersatzdokumentation in Karteiform
+# § 19 – Führung der Ersatzdokumentation in Karteiform
 
 (1) Wird die Ersatzdokumentation in Karteiform geführt, so können die Eintragungen für mehrere Waffen desselben Typs (Waffenposten) nach Absatz 2 zusammengefasst werden. Auf einer Karteikarte darf nur ein Waffenposten nach Absatz 2 Nummer 1 eingetragen werden. Neueingänge dürfen auf demselben Karteiblatt erst eingetragen werden, wenn der eingetragene Waffenposten vollständig abgebucht ist. Abgänge sind mit den Angaben nach Absatz 2 Nummer 2 gesondert einzutragen. Für jeden Waffentyp ist ein besonderes Blatt anzulegen, auf dem der Waffentyp und der Name, die Firma oder die Marke, die auf der Waffe angebracht sind, zu vermerken sind. Die Karteiblätter sind der zuständigen Behörde zur Abstempelung der Blätter und zur Bestätigung ihrer Gesamtzahl vorzulegen.
 
@@ -759,8 +735,7 @@ f) die Bezeichnung der Erwerbsberechtigung unter Angabe der ausstellenden Behör
 
 g) sofern die Schusswaffe einem Erwerber nach § 34 Absatz 5 Satz 1 des Waffengesetzes überlassen oder an ihn versandt wird, Bezeichnung und Datum der Bestätigung der Anzeige durch das Bundesverwaltungsamt.
 
-
-## § 20 – Führung der Ersatzdokumentation in elektronischer Form
+# § 20 – Führung der Ersatzdokumentation in elektronischer Form
 
 (1) Wird die Ersatzdokumentation in elektronischer Form geführt, so müssen die gespeicherten Datensätze die nach § 19 Absatz 2 geforderten Angaben enthalten. Die Datensätze sind unverzüglich zu speichern; sie sind fortlaufend zu nummerieren.
 
@@ -770,8 +745,7 @@ g) sofern die Schusswaffe einem Erwerber nach § 34 Absatz 5 Satz 1 des Waffe
 
 (4) Die zuständige Behörde kann Ausnahmen von Absatz 2 Satz 1 und 5 zulassen, wenn der Gesamtbestand an Waffen zu Beginn eines jeden Jahres und die Zu- und Abgänge monatlich in Klarschrift ausgedruckt werden und sichergestellt ist, dass die während des Jahres gespeicherten Daten auf Verlangen der zuständigen Behörde jederzeit in Klarschrift ausgedruckt werden können.
 
-
-## § 21 – Kennzeichnung von Schusswaffen
+# § 21 – Kennzeichnung von Schusswaffen
 
 (1) Wer Schusswaffen im Geltungsbereich des Waffengesetzes herstellt oder in diesen verbringt, hat folgende in § 24 Absatz 1 bis 3 des Waffengesetzes genannte Angaben auf folgenden wesentlichen Teilen der Schusswaffen anzubringen:
 
@@ -797,8 +771,7 @@ Bei Schusswaffen, deren Bauart nach § 8 des Beschussgesetzes zugelassen ist, si
 
 (8) Besteht das gemäß den Absätzen 1 bis 7 zu kennzeichnende Gehäuse einer Schusswaffe aus Kunststoff, kann die Kennzeichnung gemäß den Absätzen 1 bis 7 auf einer Metallplatte angebracht werden, die fest mit dem Material des Gehäuses verbunden ist, sodass bei ihrer Entfernung ein Teil des Gehäuses zerstört würde.
 
-
-## § 22 – Lehrgänge und Schießübungen
+# § 22 – Lehrgänge und Schießübungen
 
 (1) In Lehrgängen zur Ausbildung in der Verteidigung mit Schusswaffen oder bei Schießübungen dieser Art sind unter Beachtung des Verbots des kampfmäßigen Schießens (§ 27 Abs. 7 Satz 1 des Waffengesetzes) Schießübungen und insbesondere die Verwendung solcher Hindernisse und Übungseinbauten nicht zulässig, die der Übung über den Zweck der Verteidigung der eigenen Person oder Dritter hinaus einen polizeieinsatzmäßigen oder militärischen Charakter verleihen. Die Verwendung von Zielen oder Scheiben, die Menschen darstellen oder symbolisieren, ist gestattet. Die Veranstaltung der in Satz 1 genannten Schießübungen und die Teilnahme als Schütze an diesen Schießübungen sind verboten.
 
@@ -810,8 +783,7 @@ Bei Schusswaffen, deren Bauart nach § 8 des Beschussgesetzes zugelassen ist, si
 
 (+++ §§ 22 bis 25: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. c WaffGBundFreistV +++)
 
-
-## § 23 – Zulassung zum Lehrgang
+# § 23 – Zulassung zum Lehrgang
 
 (1) Zur Teilnahme an den Lehrgängen oder Schießübungen im Sinne des § 22 dürfen nur Personen zugelassen werden,
 
@@ -825,8 +797,7 @@ Die verantwortliche Aufsichtsperson hat sich vor der Aufnahme des Schießbetrieb
 
 (+++ §§ 22 bis 25: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. c WaffGBundFreistV +++)
 
-
-## § 24 – Verzeichnisse
+# § 24 – Verzeichnisse
 
 (1) Der Veranstalter hat ein Verzeichnis der verantwortlichen Aufsichtspersonen, der Ausbilder und der Teilnehmer gemäß Absatz 2 zu führen.
 
@@ -844,8 +815,7 @@ Die verantwortliche Aufsichtsperson hat sich vor der Aufnahme des Schießbetrieb
 
 (+++ §§ 22 bis 25: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. c WaffGBundFreistV +++)
 
-
-## § 25 – Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von Aufsichtspersonen oder Ausbildern
+# § 25 – Untersagung von Lehrgängen oder Lehrgangsteilen; Abberufung von Aufsichtspersonen oder Ausbildern
 
 (1) Die zuständige Behörde kann Veranstaltungen im Sinne des § 22 untersagen, wenn Tatsachen die Annahme rechtfertigen, dass der Veranstalter, die verantwortliche Aufsichtsperson oder ein Ausbilder die erforderliche Zuverlässigkeit, persönliche Eignung oder Sachkunde nicht oder nicht mehr besitzt. Ergeben sich bei einer verantwortlichen Aufsichtsperson oder einem Ausbilder Anhaltspunkte für die begründete Annahme des Vorliegens von Tatsachen nach Satz 1, so hat die zuständige Behörde vom Veranstalter die Abberufung dieser Person zu verlangen.
 
@@ -857,8 +827,7 @@ Die verantwortliche Aufsichtsperson hat sich vor der Aufnahme des Schießbetrieb
 
 (+++ §§ 22 bis 25: Zur Nichtanwendung vgl. § 2 Nr. 2 Buchst. c WaffGBundFreistV +++)
 
-
-## § 25a – Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen
+# § 25a – Besondere Bestimmungen in Bezug auf den Umgang mit unbrauchbar gemachten Schusswaffen
 
 (1) Der Besitzer einer unbrauchbar gemachten Schusswaffe ist verpflichtet, die Deaktivierungsbescheinigung nach § 8a Absatz 2 Satz 3 des Beschussgesetzes aufzubewahren. Kommt ihm die Deaktivierungsbescheinigung abhanden, so hat er dies der gemäß § 48 Absatz 1 und 3 des Waffengesetzes zuständigen Behörde unverzüglich nach Feststellung des Abhandenkommens anzuzeigen. § 37b Absatz 5 des Waffengesetzes gilt entsprechend.
 
@@ -874,13 +843,11 @@ Die verantwortliche Aufsichtsperson hat sich vor der Aufnahme des Schießbetrieb
 
 ist nur zulässig gemeinsam mit der Deaktivierungsbescheinigung nach § 8a Absatz 2 Satz 3 des Beschussgesetzes oder gemeinsam mit einer entsprechenden Bescheinigung eines anderen Mitgliedstaates auf Grundlage des Anhangs III der Durchführungsverordnung (EU) 2015/2403 der Kommission vom 15. Dezember 2015 zur Festlegung gemeinsamer Leitlinien über Deaktivierungsstandards und -techniken, die gewährleisten, dass Feuerwaffen bei der Deaktivierung endgültig unbrauchbar gemacht werden (ABl. L 333 vom 19.12.2015, S. 62), die zuletzt durch die Durchführungsverordnung (EU) 2018/337 (ABl. L 65 vom 8.3.2018, S. 1) geändert worden ist.
 
-
-## § 25b – Vernichtung unbrauchbar gemachter Schusswaffen
+# § 25b – Vernichtung unbrauchbar gemachter Schusswaffen
 
 Wer eine unbrauchbar gemachte Schusswaffe vernichtet, hat die Deaktivierungsbescheinigung und alle beglaubigten Abschriften, Abdrucke, Ablichtungen und dergleichen der Deaktivierungsbescheinigung unverzüglich bei der gemäß § 48 Absatz 1 und 3 des Waffengesetzes zuständigen Behörde abzugeben.
 
-
-## § 25c – Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen
+# § 25c – Erwerb und Besitz von unbrauchbar gemachten Schusswaffen, die nicht den Vorgaben der Verordnung (EU) 2015/2403 entsprechen
 
 (1) Für Schusswaffen, die
 
@@ -898,8 +865,7 @@ besteht die Berechtigung zum Besitz fort, es sei denn, die Schusswaffen werden i
 
 (4) § 39b Absatz 3 des Waffengesetzes gilt für die unter Absatz 1 Satz 1 genannten Schusswaffen entsprechend.
 
-
-## § 26 – Allgemeine Bestimmungen
+# § 26 – Allgemeine Bestimmungen
 
 (1) Auf Staatsangehörige eines Mitgliedstaates ist § 21 Abs. 4 Nr. 1 des Waffengesetzes nicht anzuwenden.
 
@@ -915,8 +881,7 @@ besteht die Berechtigung zum Besitz fort, es sei denn, die Schusswaffen werden i
 
 (5) Auf Staatsangehörige eines Mitgliedstaates ist § 4 Abs. 2 des Waffengesetzes nicht anzuwenden, soweit sie im Geltungsbereich des Waffengesetzes ihren gewöhnlichen Aufenthalt haben und eine selbstständige oder unselbstständige Tätigkeit ausüben, die den Erwerb, den Besitz oder das Führen einer Waffe oder von Munition erfordert.
 
-
-## § 27 – Besondere Bestimmungen zur Fachkunde
+# § 27 – Besondere Bestimmungen zur Fachkunde
 
 (1) Der Nachweis der Fachkunde für den Waffenhandel im Sinne des § 22 des Waffengesetzes ist für einen Staatsangehörigen eines Mitgliedstaates als erbracht anzusehen, wenn er in einem anderen Mitgliedstaat im Handel mit Waffen und Munition wie folgt tätig war:
 
@@ -942,8 +907,7 @@ besteht die Berechtigung zum Besitz fort, es sei denn, die Schusswaffen werden i
 
 (5) Der Nachweis, dass die Voraussetzungen der Absätze 1 bis 4 erfüllt sind, ist vom Antragsteller durch eine Bescheinigung der zuständigen Stelle des Herkunftslandes zu erbringen.
 
-
-## § 28 – Erlaubnisse für den Erwerb von Waffen und Munition in einem anderen Mitgliedstaat
+# § 28 – Erlaubnisse für den Erwerb von Waffen und Munition in einem anderen Mitgliedstaat
 
 Eine Erlaubnis nach § 11 Abs. 2 des Waffengesetzes wird als Zustimmung durch einen Erlaubnisschein der zuständigen Behörde erteilt. Für die Erteilung hat der Antragsteller folgende Angaben zu machen:
 
@@ -959,8 +923,7 @@ bei Schusswaffen Anzahl, Art, Kaliber und Kategorie nach Anlage 1 Abschnitt 3 zu
 
 Anzahl, Art, Kaliber und gegebenenfalls CIP-Prüfzeichen.
 
-
-## § 29 – Erlaubnisse zum Verbringen von Waffen und Munition
+# § 29 – Erlaubnisse zum Verbringen von Waffen und Munition
 
 (1) Eine Erlaubnis nach § 29 oder § 30 des Waffengesetzes wird durch einen Erlaubnisschein der zuständigen Behörde erteilt.
 
@@ -1026,8 +989,7 @@ Wird eine Erlaubnis zum Verbringen in oder durch den Geltungsbereich des Waffeng
 
 (3) Für die Erteilung einer Erlaubnis nach § 30 des Waffengesetzes hat der Antragsteller Angaben über Name und Anschrift der Firma, Telefon- oder Telefaxnummer, Vor- und Familienname, Geburtsort und -datum des Inhabers der Erlaubnis nach § 21 Abs. 1 des Waffengesetzes, Empfängermitgliedstaat und Art der Waffen und Munition zu machen.
 
-
-## § 30 – Erlaubnisse für die Mitnahme von Waffen und Munition nach, durch oder aus Deutschland
+# § 30 – Erlaubnisse für die Mitnahme von Waffen und Munition nach, durch oder aus Deutschland
 
 (1) Eine Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a Satz 1 des Waffengesetzes wird durch einen Erlaubnisschein der zuständigen Behörde erteilt. Für die Erteilung der Erlaubnis nach Satz 1 hat der Antragsteller folgende Angaben zu machen:
 
@@ -1055,8 +1017,7 @@ Der Erlaubnisschein für die Mitnahme von Waffen oder Munition aus einem Drittst
 
 (4) Die zuständige Behörde kann in besonderen Fällen gestatten, dass Antragstellungen für die Erteilung einer Erlaubnis nach § 32 Abs. 4 des Waffengesetzes durch mehrere Personen gemeinsam auf dem hierfür vorgesehenen amtlichen Vordruck erfolgen. Im Falle des Satzes 1 sind für die Antragsteller jeweils die Angaben nach Absatz 1 Satz 2 Nr. 1 und 4 vollständig zu machen, die Angaben nach Absatz 1 Satz 2 Nr. 2 und 3, soweit die Behörde hierauf nicht verzichtet hat.
 
-
-## § 31 – Anzeigen
+# § 31 – Anzeigen
 
 (1) Eine Anzeige nach § 30 Satz 3 des Waffengesetzes an das Bundesverwaltungsamt muss folgende Angaben enthalten:
 
@@ -1164,8 +1125,7 @@ Name und Anschrift des auf dem Versandstück angegebenen Versenders.
 
 Beim Erwerb durch gewerbliche Unternehmen sind die Angaben nach Satz 1 Nr. 1 über den Inhaber des Unternehmens, bei juristischen Personen über eine zur Vertretung des Unternehmens befugte Person mitzuteilen und deren Pass oder Personalausweis vorzulegen. Bei laufenden Geschäftsbeziehungen entfällt die wiederholte Vorlage des Passes oder des Personalausweises, es sei denn, dass der Inhaber des Unternehmens gewechselt hat oder bei juristischen Personen zur Vertretung des Unternehmens eine andere Person bestellt worden ist. Wird die Schusswaffe oder die Munition einer Person überlassen, die sie außerhalb des Geltungsbereichs des Waffengesetzes, insbesondere im Versandwege erwerben will, so ist die Angabe der Erwerbsberechtigung nach Satz 1 Nr. 1 nicht erforderlich, ferner genügt an Stelle des Passes oder des Personalausweises eine amtliche Beglaubigung dieser Urkunden. Das Bundesverwaltungsamt bestätigt dem Anzeigenden den Eingang auf dem Doppel der Anzeige.
 
-
-## § 32 – Mitteilungen der Behörden
+# § 32 – Mitteilungen der Behörden
 
 (1) Die zuständige Behörde teilt dem Bundesverwaltungsamt alle ihr vorliegenden erteilten Erlaubnisse zum Verbringen von Waffen oder Munition aus einem anderen Mitgliedstaat in den Geltungsbereich des Waffengesetzes und aus dem Geltungsbereich des Waffengesetzes in einen anderen Mitgliedstaat nach § 29 des Waffengesetzes unter Angabe des Datums der Erlaubniserteilung und des Ablaufdatums der Erlaubnis elektronisch mit. Die Mitteilung muss unverzüglich, im Fall des Verbringens aus dem Geltungsbereich des Waffengesetzes in einen anderen Mitgliedstaat spätestens bis zum nach § 29 Absatz 2 Satz 1 Nummer 6 mitgeteilten Tag der Absendung, erfolgen. Die Mitteilung muss alle gemäß § 29 Absatz 2 erforderlichen Angaben enthalten. Eine Ablichtung des Erlaubnisscheins ist der Mitteilung beizufügen.
 
@@ -1189,15 +1149,13 @@ c) die von anderen Mitgliedstaaten erhaltenen Angaben über das Überlassen von 
 
 (3) Die nach § 33 Abs. 3 des Waffengesetzes zuständigen Überwachungsbehörden übermitteln den zuständigen Behörden die nach § 29 Absatz 2 Satz 3 und nach § 30 Abs. 3 Satz 2 mitgeteilten Angaben.
 
-
-## § 33 – Europäischer Feuerwaffenpass
+# § 33 – Europäischer Feuerwaffenpass
 
 (1) Die Geltungsdauer des Europäischen Feuerwaffenpasses nach § 32 Abs. 6 des Waffengesetzes beträgt fünf Jahre; soweit bei Jägern oder Sportschützen in ihm nur Einzellader-Langwaffen mit glattem Lauf oder mit glatten Läufen eingetragen sind, beträgt sie zehn Jahre. Die Geltungsdauer kann zweimal um jeweils fünf Jahre verlängert werden. § 9 Abs. 1 und 2 und § 37 Abs. 2 des Waffengesetzes gelten entsprechend.
 
 (2) Der Antragsteller hat die Angaben nach § 30 Abs. 1 Satz 2 Nr. 1 bis 3 zu machen. Er hat ein Lichtbild aus neuerer Zeit in der Größe von mindestens 45 Millimeter x 35 Millimeter im Hochformat ohne Rand abzugeben. Das Lichtbild muss das Gesicht im Ausmaß von mindestens 20 Millimeter darstellen und den Antragsteller zweifelsfrei erkennen lassen. Der Hintergrund muss heller sein als die Gesichtspartie.
 
-
-## § 34 – Ordnungswidrigkeiten
+# § 34 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 53 Abs. 1 Nr. 23 des Waffengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1251,23 +1209,19 @@ Ordnungswidrig im Sinne des § 53 Abs. 1 Nr. 23 des Waffengesetzes handelt, wer 
 
 25. entgegen § 25b ein dort genanntes Dokument nicht oder nicht rechtzeitig abgibt.
 
-
-## § 35 – (weggefallen)
+# § 35 – (weggefallen)
 
 \-
 
-
-## § 36 – Inkrafttreten, Außerkrafttreten
+# § 36 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2003 in Kraft. Gleichzeitig treten die Erste Verordnung zum Waffengesetz in der Fassung der Bekanntmachung vom 10. März 1987 (BGBl. I S. 777), zuletzt geändert durch Artikel 10 des Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970) sowie die Zweite Verordnung zum Waffengesetz vom 13. Dezember 1976 (BGBl.I S. 3387) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 15 Abs. 2 Nr. 2)Waffen- und Munitionsarten
+# Anlage – (zu § 15 Abs. 2 Nr. 2)Waffen- und Munitionsarten
 
 ( Fundstelle: BGBl. I 2008, 438 - 439 )
 

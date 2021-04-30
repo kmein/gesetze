@@ -1,35 +1,27 @@
-# [MntDAIVAPrV] Verordnung über die Ausbildung und Prüfung für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes  (MntDAIVAPrV)
-
-Ausfertigungsdatum: 18.07.2012
-
+% Verordnung über die Ausbildung und Prüfung für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes  (MntDAIVAPrV)
+% Ausfertigungsdatum: 18.07.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium des Innern:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der fachspezifische Vorbereitungsdienst für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes. Der Vorbereitungsdienst dauert in der Regel 24 Monate.
 
-
-## § 2 – Ziele der Ausbildung
+# § 2 – Ziele der Ausbildung
 
 Die Ausbildung vermittelt in enger Verbindung von Theorie und Praxis die Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten, die für die Erfüllung der Aufgaben im mittleren nichttechnischen Verwaltungsdienst des Bundes erforderlich sind. Die Anwärterinnen und Anwärter sollen zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt werden. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und europäischen Raum.
 
-
-## § 3 – Dienstbehörden, Dienstaufsicht
+# § 3 – Dienstbehörden, Dienstaufsicht
 
 (1) Das Bundesverwaltungsamt ist Ausbildungsbehörde.
 
 (2) Während der berufspraktischen Ausbildung außerhalb des Bundesverwaltungsamts (§ 7) unterstehen die Anwärterinnen und Anwärter neben der Dienstaufsicht der Präsidentin oder des Präsidenten des Bundesverwaltungsamts auch der Dienstaufsicht der Leitungen dieser Behörden.
 
-
-## § 4 – Auswahlverfahren
+# § 4 – Auswahlverfahren
 
 (1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf der Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den mittleren nichttechnischen Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird von einer Auswahlkommission durchgeführt und besteht aus einem schriftlichen und einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat kann anstelle des Bundesverwaltungsamts eine andere Behörde über die Einstellung entscheiden.
 
@@ -53,8 +45,7 @@ Je Auswahlkommission kann eine Tarifbeschäftigte oder ein Tarifbeschäftigter a
 
 (7) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Kommissionen die gleichen Auswahlmaßstäbe anlegen.
 
-
-## § 5 – Bewertung der Leistungen
+# § 5 – Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden, soweit in dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:  
   
@@ -146,13 +137,11 @@ ungenügend
 
 (2) Bei der zusammenfassenden Bewertung von Leistungen werden, soweit in dieser Verordnung nichts anderes bestimmt ist, Rangpunktzahlen auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
-## § 6 – Urlaub
+# § 6 – Urlaub
 
 Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewährt werden. Die Zeiten des Erholungsurlaubs bestimmt das Bundesverwaltungsamt.
 
-
-## § 7 – Aufbau und Dauer der Ausbildung
+# § 7 – Aufbau und Dauer der Ausbildung
 
 (1) Die Ausbildung gliedert sich in eng verzahnte fachtheoretische Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei der berufspraktischen Ausbildung wird das Bundesverwaltungsamt durch Behörden des Bundes und der Kommunen unterstützt.
 
@@ -168,8 +157,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 10) gewä
 | 5   | Praktikum III        | Bundesbehörde        | 6 Monate |
 | 6   | Abschlusslehrgang    | Bundesverwaltungsamt | 5 Monate |
 
-
-## § 8 – Inhalt der fachtheoretischen Ausbildung
+# § 8 – Inhalt der fachtheoretischen Ausbildung
 
 (1) Die fachtheoretische Ausbildung umfasst mindestens 1 090 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den Einführungslehrgang, mindestens 320 Lehrstunden auf den Zwischenlehrgang und mindestens 540 Lehrstunden auf den Abschlusslehrgang.
 
@@ -221,8 +209,7 @@ b) innerbehördliche Organisation,
 
 (3) Das Bundesverwaltungsamt erstellt Lehrpläne, in denen die Lerninhalte der Fachgebiete, die Stundenzahl und die Art der zu erbringenden Leistungstests festgelegt werden. Die Lerninhalte sind nach Intensitätsstufen zu beschreiben.
 
-
-## § 9 – Leistungstests
+# § 9 – Leistungstests
 
 (1) Während der fachtheoretischen Ausbildung sind folgende Leistungstests zu erbringen:
 
@@ -242,8 +229,7 @@ Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zw
 
 (3) Wer an einem Leistungstest nicht teilnehmen kann, erhält Gelegenheit, ihn nachzuholen. Wird der Leistungstest ohne wichtigen Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§ 18) erbracht, gilt er als mit null Rangpunkten bewertet.
 
-
-## § 10 – Berufspraktische Ausbildung
+# § 10 – Berufspraktische Ausbildung
 
 (1) Das Bundesverwaltungsamt bestimmt und überwacht die Gestaltung und Organisation der berufspraktischen Ausbildung. Es erstellt für jede Anwärterin und jeden Anwärter einen Ausbildungsplan und gibt ihn der Anwärterin oder dem Anwärter bekannt.
 
@@ -251,8 +237,7 @@ Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zw
 
 (3) Den Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie werden von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist. Die Ausbildenden informieren die Ausbildungsverantwortlichen regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 11 – Inhalt der berufspraktischen Ausbildung
+# § 11 – Inhalt der berufspraktischen Ausbildung
 
 (1) Während des Praktikums I werden die Anwärterinnen und Anwärter vertraut gemacht mit
 
@@ -266,15 +251,13 @@ Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zw
 
 (4) Anwärterinnen und Anwärter, die bereits für eine bestimmte Verwendung in der Bundesverwaltung vorgesehen sind, können während des Praktikums III fachbezogen ausgebildet werden.
 
-
-## § 12 – Bewertungen während der berufspraktischen Ausbildung
+# § 12 – Bewertungen während der berufspraktischen Ausbildung
 
 (1) Am Ende jedes Praktikums oder Praktikumteils erstellt der oder die zuständige Ausbildende unter Beteiligung der oder des Ausbildungsverantwortlichen für jede Anwärterin und jeden Anwärter eine dienstliche Bewertung, die die wesentlichen Leistungs-, Eignungs- und Befähigungsmerkmale enthält und in der der Ausbildungserfolg bewertet wird. Wenn nichts anderes bestimmt wird, gilt § 5. Gibt es innerhalb eines Praktikums mehrere bewertete Teile, wird das arithmetische Mittel der Bewertungen gebildet.
 
 (2) Die Bewertung ist der Anwärterin oder dem Anwärter bekannt zu geben und mit ihr oder ihm zu besprechen.
 
-
-## § 13 – Zusammenfassendes Zeugnis
+# § 13 – Zusammenfassendes Zeugnis
 
 (1) Über den Erfolg der Ausbildung erstellt das Bundesverwaltungsamt ein zusammenfassendes Zeugnis, in dem die Leistungen der Anwärterinnen und Anwärter getrennt nach fachtheoretischer und berufspraktischer Ausbildung mit Rangpunkten für die einzelnen Leistungen und mit einer Durchschnittsrangpunktzahl aufzuführen sind.
 
@@ -282,8 +265,7 @@ Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung in der Zw
 
 (3) Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des zusammenfassenden Zeugnisses.
 
-
-## § 14 – Prüfungsamt
+# § 14 – Prüfungsamt
 
 Für die Organisation und Durchführung der Zwischenprüfung und der Abschlussprüfung richtet das Bundesverwaltungsamt ein Prüfungsamt ein, das insbesondere
 
@@ -303,8 +285,7 @@ Für die Organisation und Durchführung der Zwischenprüfung und der Abschlusspr
 
 8. die Zeugnisse für die Zwischenprüfung und die Abschlusszeugnisse erstellt.
 
-
-## § 15 – Prüfungskommission, Prüfende
+# § 15 – Prüfungskommission, Prüfende
 
 (1) Eine Prüfungskommission besteht aus:
 
@@ -320,8 +301,7 @@ Eine oder einer der Beisitzenden kann Tarifbeschäftigte oder Tarifbeschäftigte
 
 (4) Jede Klausur wird von zwei Prüfenden bewertet. Das Prüfungsamt legt fest, wer Erstprüferin oder Erstprüfer und wer Zweitprüferin oder Zweitprüfer ist. Die Zweitprüferin oder der Zweitprüfer darf Kenntnis von der Bewertung der Erstprüferin oder des Erstprüfers haben. Weichen die Bewertungen voneinander ab, ist zunächst eine Einigung zwischen den Prüfenden anzustreben; einigen sich die Prüfenden nicht, entscheidet die Prüfungskommission mit Stimmenmehrheit.
 
-
-## § 16 – Laufbahnprüfung
+# § 16 – Laufbahnprüfung
 
 Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen und Anwärter für den mittleren nichttechnischen Verwaltungsdienst des Bundes festzustellen. Die Laufbahnprüfung besteht aus:
 
@@ -333,8 +313,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 4. der schriftlichen und der mündlichen Abschlussprüfung.
 
-
-## § 17 – Zwischenprüfung
+# § 17 – Zwischenprüfung
 
 (1) Zum Abschluss des Zwischenlehrgangs haben die Anwärterinnen und Anwärter in einer Zwischenprüfung nachzuweisen, dass sie einen Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
@@ -350,8 +329,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (7) Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zeugnis, das zumindest die Durchschnittsrangpunktzahl und die Note enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Zwischenprüfung und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
-
-## § 18 – Schriftliche Abschlussprüfung
+# § 18 – Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer die Zwischenprüfung bestanden und die Ausbildungsabschnitte durchlaufen hat.
 
@@ -363,8 +341,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (5) § 17 Absatz 4 und 5 gilt entsprechend.
 
-
-## § 19 – Mündliche Abschlussprüfung
+# § 19 – Mündliche Abschlussprüfung
 
 (1) In der mündlichen Abschlussprüfung haben die Anwärterinnen und Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen Kenntnisse nachzuweisen.
 
@@ -380,8 +357,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (7) Die mündliche Abschlussprüfung muss bis zum Ende des Vorbereitungsdienstes abgeschlossen sein.
 
-
-## § 20 – Fernbleiben, Rücktritt
+# § 20 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil der Zwischen- oder Abschlussprüfung ohne Genehmigung des Prüfungsamts gilt diese Prüfung oder dieser Prüfungsteil als nicht bestanden.
 
@@ -389,8 +365,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (3) Das Prüfungsamt bestimmt, wann die Prüfung oder der Prüfungsteil nachgeholt wird; es entscheidet, ob und inwieweit bereits abgegebene Klausuren gewertet werden.
 
-
-## § 21 – Täuschung, Ordnungsverstoß
+# § 21 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen und Anwärtern, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamts oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung ausgeschlossen werden.
 
@@ -402,8 +377,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 22 – Wiederholung von Prüfungen
+# § 22 – Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Zwischenprüfung und eine nicht bestandene Abschlussprüfung können jeweils einmal wiederholt werden.
 
@@ -413,8 +387,7 @@ Die Laufbahnprüfung dient dazu, die Eignung und Befähigung der Anwärterinnen 
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 23 – Bestehen der Laufbahnprüfung, Abschlussnote
+# § 23 – Bestehen der Laufbahnprüfung, Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn in der mündlichen Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5 und im Gesamtergebnis eine Rangpunktzahl der Laufbahnprüfung von mindestens 5 erreicht worden ist.
 
@@ -443,8 +416,7 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 (3) Die oder der Vorsitzende der Prüfungskommission teilt den Anwärterinnen und Anwärtern die erreichten Rangpunkte mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
-
-## § 24 – Abschlusszeugnis
+# § 24 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis.
 
@@ -456,8 +428,7 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
-
-## § 25 – Prüfungsakten, Einsichtnahme
+# § 25 – Prüfungsakten, Einsichtnahme
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -473,12 +444,10 @@ Die Prüfungsakten werden nach Beendigung des Vorbereitungsdienstes beim Bundesv
 
 (2) Nach Zustellung des Zwischenprüfungs- oder Abschlusszeugnisses können die Betroffenen Einsicht in die sie betreffenden Prüfungsakten nehmen. Satz 1 gilt entsprechend, wenn die Zwischen- oder Laufbahnprüfung nicht bestanden wurde oder wenn keine Übernahme in das Beamtenverhältnis erfolgt ist.
 
-
-## § 26 – Übergangsvorschriften
+# § 26 – Übergangsvorschriften
 
 Für Anwärterinnen und Anwärter, die vor dem 1. August 2012 mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes vom 8. Oktober 2001 (BGBl. I S. 2612), die zuletzt durch Artikel 3 Absatz 7 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 
-
-## § 27 – Inkrafttreten, Außerkrafttreten
+# § 27 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes vom 8. Oktober 2001 (BGBl. I S. 2612), die zuletzt durch Artikel 3 Absatz 7 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.

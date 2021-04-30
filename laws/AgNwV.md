@@ -1,15 +1,11 @@
-# [AgNwV] Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes  (Agentennachweisverordnung - AgNwV)
-
-Ausfertigungsdatum: 15.10.2009
-
+% Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes  (Agentennachweisverordnung - AgNwV)
+% Ausfertigungsdatum: 15.10.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 19 Absatz 5 Satz 1 und 3 des Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506) verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank nach Anhörung der Verbände der Zahlungsinstitute:
 
-
-## § 1 – Nachweise
+# § 1 – Nachweise
 
 (1) Als Nachweis über die Zuverlässigkeit und die fachliche Eignung eines Agenten hat ein Institut für die Zwecke des § § 25 Absatz 2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes mindestens einzuholen:
 
@@ -41,19 +37,16 @@ Unvollständigkeiten, Mängeln und Widersprüchen in Bezug auf die vom Agenten, 
 
 (2) Die fachliche Eignung erfordert den Nachweis ausreichender theoretischer und praktischer Kenntnisse des Agenten über die zu erbringenden Zahlungsdienste.
 
-
-## § 2 – Sicherstellung der dauerhaften Einhaltung der Pflichten
+# § 2 – Sicherstellung der dauerhaften Einhaltung der Pflichten
 
 (1) Um dauerhaft sicherzustellen, dass der Agent zuverlässig und fachlich geeignet ist, bei der Erbringung der Zahlungsdienste die gesetzlichen Vorgaben erfüllt und seinen Informationspflichten genügt, hat das Institut mit dem Agenten eine schriftliche Vereinbarung zu treffen, welche die Pflichten des Agenten und die Rechte des Instituts einschließlich Weisungs- und Kündigungsrechte sowie Kontrollrechte des Instituts und dessen Prüfern festschreibt.
 
 (2) Das Institut hat die Überprüfungen des Agenten zu dokumentieren. Die nach § 1 Absatz 1 erforderlichen Nachweise, dass der Agent zuverlässig und fachlich geeignet ist, sind in angemessenen Abständen regelmäßig zu erneuern.
 
-
-## § 3 – Ausnahme für beaufsichtigte Agenten
+# § 3 – Ausnahme für beaufsichtigte Agenten
 
 Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum beaufsichtigtes Institut im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes oder im Sinne des § 1 Absatz 1b des Kreditwesengesetzes ist.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.

@@ -1,10 +1,7 @@
-# [Münz5DMBek 1981-10] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Carl Reichsfreiherr vom und zum Stein)
-
-Ausfertigungsdatum: 14.10.1981
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Carl Reichsfreiherr vom und zum Stein)
+% Ausfertigungsdatum: 14.10.1981
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 150. Wiederkehr des Todestages des bedeutenden deutschen Staatsmannes Carl Reichsfreiherr vom und zum Stein eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 6,85 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Karlsruhe.
 
@@ -41,13 +38,11 @@ Ausfertigungsdatum: 14.10.1981
 
 (11) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

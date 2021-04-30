@@ -1,22 +1,17 @@
-# [BWildSchV] Verordnung über den Schutz von Wild  (Bundeswildschutzverordnung - BWildSchV)
-
-Ausfertigungsdatum: 25.10.1985
-
+% Verordnung über den Schutz von Wild  (Bundeswildschutzverordnung - BWildSchV)
+% Ausfertigungsdatum: 25.10.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 36 Abs. 1 Nr. 2, 4 und 5 in Verbindung mit § 36 Abs. 3 des Bundesjagdgesetzes in der Fassung der Bekanntmachung vom 29. September 1976 (BGBl. I S. 2849) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich, Begriffsbestimmungen
+# § 1 – Anwendungsbereich, Begriffsbestimmungen
 
 (1) Diese Verordnung findet Anwendung auf Tiere der in den Anlagen 1 und 4 genannten Arten. Für die Abgrenzung der Tierarten im Sinne dieser Verordnung ist ihre wissenschaftliche Bezeichnung maßgebend. Die Art schließt Unterarten ein, auch soweit diese im Geltungsbereich des Bundeswaldgesetzes in der Natur nicht vorkommen.
 
 (2) Der Begriff Tiere im Sinne dieser Verordnung umfaßt lebende und tote Tiere, ihre ohne weiteres erkennbaren Teile, ohne weiteres erkennbar aus ihnen gewonnenen Erzeugnisse sowie ihre Eier, sonstigen Entwicklungsformen und Nester.
 
-
-## § 2 – Verbote
+# § 2 – Verbote
 
 (1) Es ist verboten,
 
@@ -58,8 +53,7 @@ Das Aneignungsrecht des Jagdausübungsberechtigten sowie Vorschriften der Lände
 
 erforderlich ist und Belange des Arten- und Biotopschutzes sowie Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften oder Verpflichtungen aus internationalen Artenschutzübereinkommen nicht entgegenstehen.
 
-
-## § 3 – Halten von Greifen und Falken
+# § 3 – Halten von Greifen und Falken
 
 (1) Die Haltung von Greifen oder Falken der in Anlage 4 genannten Arten ist nur nach Maßgabe der Absätze 2 bis 6 zulässig.
 
@@ -93,8 +87,7 @@ schriftlich anzuzeigen; die Anzeige muß Angaben enthalten über Zahl, Art, Alte
 
 (6) Die Absätze 2 bis 5 gelten nicht für zoologische Einrichtungen von juristischen Personen des öffentlichen Rechts sowie für behördlich genehmigte oder anerkannte Auffang- und Pflegestationen.
 
-
-## § 4 – Aufzeichnungs- und Kennzeichnungspflichten
+# § 4 – Aufzeichnungs- und Kennzeichnungspflichten
 
 (1) Wer gewerbsmäßig
 
@@ -112,20 +105,17 @@ hat über diese Tiere ein Aufnahme- und Auslieferungsbuch mit täglicher Eintrag
 
 (5) Die in Absatz 1 genannten Tiere und Teile von Tieren sind zu kennzeichnen, soweit dies mit angemessenem Aufwand möglich ist.
 
-
-## § 5 – Rechtmäßiger Besitz, Nachweispflicht
+# § 5 – Rechtmäßiger Besitz, Nachweispflicht
 
 Wer Tiere der in Anlage 5 genannten Arten besitzt oder die tatsächliche Gewalt darüber ausübt, kann sich gegenüber der zuständigen Behörde auf eine Berechtigung hierzu nur berufen, wenn er auf Verlangen nachweist, daß die Voraussetzungen für eine Ausnahme nach § 2 Abs. 2 bis 5 vorliegen oder glaubhaft macht, daß er oder ein Dritter die Tiere bei Inkrafttreten dieser Verordnung in Besitz hatte. Für Gegenstände zum persönlichen Gebrauch oder Hausrat gilt dies nur, wenn Tatsachen die Annahme rechtfertigen, daß eine Berechtigung nach § 2 Abs. 2 bis 5 nicht besteht.
 
-
-## § 5a – Strafvorschriften
+# § 5a – Strafvorschriften
 
 (1) Nach § 38a Absatz 1 des Bundesjagdgesetzes wird bestraft, wer entgegen § 2 Absatz 1 Satz 1 Nummer 2 ein dort genanntes Tier oder ein Teil oder ein Erzeugnis eines solchen Tieres gewerbsmäßig ankauft, verkauft oder tauscht.
 
 (2) Nach § 38a Absatz 2 des Bundesjagdgesetzes wird bestraft, wer entgegen § 2 Absatz 1 Satz 1 Nummer 1 ein dort genanntes Tier oder ein Teil oder ein Erzeugnis eines solchen Tieres besitzt.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 39 Abs. 2 Nr. 5 des Bundesjagdgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -139,13 +129,11 @@ Ordnungswidrig im Sinne des § 39 Abs. 2 Nr. 5 des Bundesjagdgesetzes handelt, w
 
 5. einer Vorschrift des § 4 Abs. 1 Satz 1, Abs. 2 bis 5 über die Führung, Form, Aushändigung oder Aufbewahrung von Aufnahme- und Auslieferungsbüchern oder Belegen oder über die Kennzeichnung von Tieren oder Teilen von Tieren zuwiderhandelt.
 
-
-## § 7 – Berlin-Klausel
+# § 7 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 45 des Bundesjagdgesetzes auch im Land Berlin.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 § 3 Abs. 2 Nr. 3 und 4 und Abs. 3, § 4 sowie § 6, soweit er sich auf die genannten Vorschriften bezieht, treten am 1. April 1986 in Kraft; im übrigen tritt diese Verordnung am Tag nach der Verkündung in Kraft. Gleichzeitig treten außer Kraft:
 
@@ -193,13 +181,11 @@ Saarland
 
 9. der § 32 der Durchführungsbestimmungen zum Jagdgesetz für das Saarland vom 5. März 1957 (Amtsblatt des Saarlandes S. 216).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
-
-## Anlage 1 – (zu § 2 Absatz 1)Liste der von den Verboten erfassten Wildarten
+# Anlage 1 – (zu § 2 Absatz 1)Liste der von den Verboten erfassten Wildarten
 
 (Fundstelle: BGBl. I 2018, 1161 - 1163)
 
@@ -391,8 +377,7 @@ Haubentaucher (Podiceps cristatus L.)
 
 Graureiher (Ardea cinerea L.)
 
-
-## Anlage 2 – (zu § 2 Absatz 2 Satz 3 Nummer 1)Liste der von bestimmten Verboten ausgenommenen Wildarten
+# Anlage 2 – (zu § 2 Absatz 2 Satz 3 Nummer 1)Liste der von bestimmten Verboten ausgenommenen Wildarten
 
 (Fundstelle: BGBl. I 2018, 1164)
 
@@ -419,8 +404,7 @@ Tafelente (Aythya ferina L.)
 
 Blässhuhn (Fulica atra L.)
 
-
-## Anlage 3 – (zu § 2 Absatz 2 Satz 3 Nummer 2)Liste der von bestimmten Verboten ausgenommenen Wildarten bei Tätigkeiten nicht zu gewerbsmäßigen Zwecken
+# Anlage 3 – (zu § 2 Absatz 2 Satz 3 Nummer 2)Liste der von bestimmten Verboten ausgenommenen Wildarten bei Tätigkeiten nicht zu gewerbsmäßigen Zwecken
 
 (Fundstelle: BGBl. I 2018, 1165)
 
@@ -433,8 +417,7 @@ Reiherente (Aythya fuligula L.)
 
 Waldschnepfe (Scolopax rusticola L.)
 
-
-## Anlage 4 – (zu § 3 Absatz 1)Liste der Greife und Falken, deren Haltung beschränkt ist
+# Anlage 4 – (zu § 3 Absatz 1)Liste der Greife und Falken, deren Haltung beschränkt ist
 
 (Fundstelle: BGBl. I 2018, 1166)
 
@@ -477,8 +460,7 @@ Baumfalke (Falco subbuteo L.)
 
 Wanderfalke (Falco peregrinus TUNSTALL)
 
-
-## Anlage 5 – (zu § 4 Absatz 1 und § 5)Liste der kennzeichnungspflichtigen Wildarten
+# Anlage 5 – (zu § 4 Absatz 1 und § 5)Liste der kennzeichnungspflichtigen Wildarten
 
 (Fundstelle: BGBl. I 2018, 1167)
 
@@ -547,8 +529,7 @@ Graureiher (Ardea cinerea L.)
 
 Kolkrabe (Corvus corax L.)
 
-
-## Anlage 6 – (zu § 4 Abs. 1)Aufnahme- und Auslieferungsbuch
+# Anlage 6 – (zu § 4 Abs. 1)Aufnahme- und Auslieferungsbuch
 
 |          |             |                                                                                                                                                              |                                                                            |            |                                                                          |
 |:---------|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:----------:|:------------------------------------------------------------------------:|

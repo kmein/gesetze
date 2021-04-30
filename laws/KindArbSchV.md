@@ -1,20 +1,15 @@
-# [KindArbSchV] Verordnung über den Kinderarbeitsschutz  (Kinderarbeitsschutzverordnung - KindArbSchV)
-
-Ausfertigungsdatum: 23.06.1998
-
+% Verordnung über den Kinderarbeitsschutz  (Kinderarbeitsschutzverordnung - KindArbSchV)
+% Ausfertigungsdatum: 23.06.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Abs. 4a des Jugendarbeitsschutzgesetzes, der durch Artikel 1 Nr. 2 Buchstabe e des Gesetzes vom 24. Februar 1997 (BGBl. I S. 311) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Beschäftigungsverbot
+# § 1 – Beschäftigungsverbot
 
 Kinder über 13 Jahre und vollzeitschulpflichtige Jugendliche dürfen nicht beschäftigt werden, soweit nicht das Jugendarbeitsschutzgesetz und § 2 dieser Verordnung Ausnahmen vorsehen.
 
-
-## § 2 – Zulässige Beschäftigungen
+# § 2 – Zulässige Beschäftigungen
 
 (1) Kinder über 13 Jahre und vollzeitschulpflichtige Jugendliche dürfen nur beschäftigt werden
 
@@ -60,17 +55,14 @@ Satz 1 Nr. 1 gilt nicht für vollzeitschulpflichtige Jugendliche.
 
 (3) Die zulässigen Beschäftigungen müssen im übrigen den Schutzvorschriften des Jugendarbeitsschutzgesetzes entsprechen.
 
-
-## § 3 – Behördliche Befugnisse
+# § 3 – Behördliche Befugnisse
 
 Die Aufsichtsbehörde kann im Einzelfall feststellen, ob die Beschäftigung nach § 2 zulässig ist.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

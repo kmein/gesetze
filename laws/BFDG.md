@@ -1,15 +1,11 @@
-# [BFDG] Gesetz über den Bundesfreiwilligendienst  (Bundesfreiwilligendienstgesetz - BFDG)
-
-Ausfertigungsdatum: 28.04.2011
-
+% Gesetz über den Bundesfreiwilligendienst  (Bundesfreiwilligendienstgesetz - BFDG)
+% Ausfertigungsdatum: 28.04.2011
  
-
-## § 1 – Aufgaben des Bundesfreiwilligendienstes
+# § 1 – Aufgaben des Bundesfreiwilligendienstes
 
 Im Bundesfreiwilligendienst engagieren sich Frauen und Männer für das Allgemeinwohl, insbesondere im sozialen, ökologischen und kulturellen Bereich sowie im Bereich des Sports, der Integration und des Zivil- und Katastrophenschutzes. Der Bundesfreiwilligendienst fördert das lebenslange Lernen.
 
-
-## § 2 – Freiwillige
+# § 2 – Freiwillige
 
 Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
@@ -39,15 +35,13 @@ c) bei einem Dienst vergleichbar einer Teilzeitbeschäftigung gekürzt ist.
 
 § 2 Nr. 2 Kursivdruck: Abweichend von Art. 1 Nr. 1 Buchst. a G v. 6.5.2019 I 644 wird der Punkt am Ende durch ein Komma ersetzt
 
-
-## § 3 – Einsatzbereiche, Dauer
+# § 3 – Einsatzbereiche, Dauer
 
 (1) Der Bundesfreiwilligendienst wird in der Regel ganztägig als überwiegend praktische Hilfstätigkeit in gemeinwohlorientierten Einrichtungen geleistet, insbesondere in Einrichtungen der Kinder- und Jugendhilfe, einschließlich der Einrichtungen für außerschulische Jugendbildung und für Jugendarbeit, in Einrichtungen der Wohlfahrts-, Gesundheits- und Altenpflege, der Behindertenhilfe, der Kultur und Denkmalpflege, des Sports, der Integration, des Zivil- und Katastrophenschutzes und in Einrichtungen, die im Bereich des Umweltschutzes einschließlich des Naturschutzes und der Bildung zur Nachhaltigkeit tätig sind. Der Bundesfreiwilligendienst ist arbeitsmarktneutral auszugestalten.
 
 (2) Der Bundesfreiwilligendienst wird in der Regel für eine Dauer von zwölf zusammenhängenden Monaten geleistet. Der Dienst dauert mindestens sechs Monate und höchstens 18 Monate. Er kann ausnahmsweise bis zu einer Dauer von 24 Monaten verlängert werden, wenn dies im Rahmen eines besonderen pädagogischen Konzepts begründet ist. Im Rahmen eines pädagogischen Gesamtkonzepts ist auch eine Ableistung in zeitlich getrennten Abschnitten möglich, wenn ein Abschnitt mindestens drei Monate dauert. Die Gesamtdauer aller Abschnitte sowie mehrerer geleisteter Bundesfreiwilligendienste darf bis zum 27. Lebensjahr die zulässige Gesamtdauer nach den Sätzen 2 und 3 nicht überschreiten, danach müssen zwischen jedem Ableisten der nach den Sätzen 2 und 3 zulässigen Gesamtdauer fünf Jahre liegen; auf das Ableisten der Gesamtdauer ist ein Jugendfreiwilligendienst nach dem Jugendfreiwilligendienstegesetz anzurechnen.
 
-
-## § 4 – Pädagogische Begleitung
+# § 4 – Pädagogische Begleitung
 
 (1) Der Bundesfreiwilligendienst wird pädagogisch begleitet mit dem Ziel, soziale, ökologische, kulturelle und interkulturelle Kompetenzen zu vermitteln und das Verantwortungsbewusstsein für das Gemeinwohl zu stärken.
 
@@ -59,13 +53,11 @@ c) bei einem Dienst vergleichbar einer Teilzeitbeschäftigung gekürzt ist.
 
 (5) Die Seminare, insbesondere das Seminar zur politischen Bildung, können gemeinsam für Freiwillige und Personen, die Jugendfreiwilligendienste oder freiwilligen Wehrdienst leisten, durchgeführt werden.
 
-
-## § 5 – Anderer Dienst im Ausland
+# § 5 – Anderer Dienst im Ausland
 
 Die bestehenden Anerkennungen sowie die Möglichkeit neuer Anerkennungen von Trägern, Vorhaben und Einsatzplänen des Anderen Dienstes im Ausland nach § 14b Absatz 3 des Zivildienstgesetzes bleiben unberührt.
 
-
-## § 6 – Einsatzstellen
+# § 6 – Einsatzstellen
 
 (1) Die Freiwilligen leisten den Bundesfreiwilligendienst in einer dafür anerkannten Einsatzstelle.
 
@@ -85,8 +77,7 @@ Die Anerkennung wird für bestimmte Plätze ausgesprochen. Sie kann mit Auflagen
 
 (5) Die Einsatzstelle kann mit der Erfüllung von gesetzlichen oder sich aus der Vereinbarung ergebenden Aufgaben mit deren Einverständnis einen Träger oder eine Zentralstelle beauftragen. Dies ist im Vorschlag nach § 8 Absatz 1 festzuhalten.
 
-
-## § 7 – Zentralstellen
+# § 7 – Zentralstellen
 
 (1) Träger und Einsatzstellen können Zentralstellen bilden. Die Zentralstellen tragen dafür Sorge, dass die ihnen angehörenden Träger und Einsatzstellen ordnungsgemäß an der Durchführung des Bundesfreiwilligendienstes mitwirken. Das Bundesministerium für Familie, Senioren, Frauen und Jugend bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Mindestanforderungen für die Bildung einer Zentralstelle, insbesondere hinsichtlich der für die Bildung einer Zentralstelle erforderlichen Zahl, Größe und geografischen Verteilung der Einsatzstellen und Träger.
 
@@ -98,8 +89,7 @@ Die Anerkennung wird für bestimmte Plätze ausgesprochen. Sie kann mit Auflagen
 
 (5) Die zuständige Behörde teilt den Zentralstellen nach Inkrafttreten des jährlichen Haushaltsgesetzes bis möglichst zum 31. Januar eines jeden Jahres mit, wie viele Plätze im Bereich der Zuständigkeit der jeweiligen Zentralstelle ab August des Jahres besetzt werden können. Die Zentralstellen nehmen die regional angemessene Verteilung dieser Plätze auf die ihnen zugeordneten Träger und Einsatzstellen in eigener Verantwortung vor. Sie können die Zuteilung von Plätzen mit Auflagen verbinden.
 
-
-## § 8 – Vereinbarung
+# § 8 – Vereinbarung
 
 (1) Der Bund und die oder der Freiwillige schließen vor Beginn des Bundesfreiwilligendienstes auf gemeinsamen Vorschlag der oder des Freiwilligen und der Einsatzstelle eine schriftliche Vereinbarung ab. Die Vereinbarung muss enthalten:
 
@@ -119,32 +109,27 @@ Die Anerkennung wird für bestimmte Plätze ausgesprochen. Sie kann mit Auflagen
 
 (3) Die Einsatzstelle legt den Vorschlag in Absprache mit der Zentralstelle, der sie angeschlossen ist, der zuständigen Bundesbehörde vor. Die Zentralstelle stellt sicher, dass ein besetzbarer Platz nach § 7 Absatz 5 zur Verfügung steht. Die zuständige Bundesbehörde unterrichtet die Freiwillige oder den Freiwilligen sowie die Einsatzstelle, gegebenenfalls den Träger und die Zentralstelle, über den Abschluss der Vereinbarung oder teilt ihnen die Gründe mit, die dem Abschluss einer Vereinbarung entgegenstehen.
 
-
-## § 9 – Haftung
+# § 9 – Haftung
 
 (1) Für Schäden, die die oder der Freiwillige vorsätzlich oder fahrlässig herbeigeführt hat, haftet der Bund, wenn die schädigende Handlung auf sein Verlangen vorgenommen worden ist. Insoweit kann die oder der Freiwillige verlangen, dass der Bund sie oder ihn von Schadensersatzansprüchen der oder des Geschädigten freistellt.
 
 (2) Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.
 
-
-## § 10 – Beteiligung der Freiwilligen
+# § 10 – Beteiligung der Freiwilligen
 
 Die Freiwilligen wählen Sprecherinnen und Sprecher, die ihre Interessen gegenüber den Einsatzstellen, Trägern, Zentralstellen und der zuständigen Bundesbehörde vertreten. Das Bundesministerium für Familie, Senioren, Frauen und Jugend regelt die Einzelheiten zum Wahlverfahren durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
-
-## § 11 – Bescheinigung, Zeugnis
+# § 11 – Bescheinigung, Zeugnis
 
 (1) Die Einsatzstelle stellt der oder dem Freiwilligen nach Abschluss des Dienstes eine Bescheinigung über den geleisteten Dienst aus. Eine Zweitausfertigung der Bescheinigung ist der zuständigen Bundesbehörde zuzuleiten.
 
 (2) Bei Beendigung des freiwilligen Dienstes erhält die oder der Freiwillige von der Einsatzstelle ein schriftliches Zeugnis über die Art und Dauer des freiwilligen Dienstes. Das Zeugnis ist auf die Leistungen und die Führung während der Dienstzeit zu erstrecken. Dabei sind in das Zeugnis berufsqualifizierende Merkmale des Bundesfreiwilligendienstes aufzunehmen.
 
-
-## § 12 – Datenschutz
+# § 12 – Datenschutz
 
 Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten nach § 8 Absatz 1 Satz 2 verarbeiten, soweit dies für die Durchführung dieses Gesetzes erforderlich ist. Die Daten sind nach Abwicklung des Bundesfreiwilligendienstes zu löschen.
 
-
-## § 13 – Anwendung arbeitsrechtlicher, arbeitsschutzrechtlicher und sonstiger Bestimmungen
+# § 13 – Anwendung arbeitsrechtlicher, arbeitsschutzrechtlicher und sonstiger Bestimmungen
 
 (1) Für eine Tätigkeit im Rahmen eines Bundesfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen, das Jugendarbeitsschutzgesetz und das Bundesurlaubsgesetz entsprechend anzuwenden.
 
@@ -158,15 +143,13 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 
 4. § 1 Absatz 1 Nummer 2 Buchstabe h der Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Eisenbahnverkehr.
 
-
-## § 14 – Zuständige Bundesbehörde
+# § 14 – Zuständige Bundesbehörde
 
 (1) Dieses Gesetz wird, soweit es nichts anderes bestimmt, in bundeseigener Verwaltung ausgeführt. Die Durchführung wird dem Bundesamt für den Zivildienst als selbstständiger Bundesoberbehörde übertragen, welche die Bezeichnung „Bundesamt für Familie und zivilgesellschaftliche Aufgaben“ (Bundesamt) erhält und dem Bundesministerium für Familie, Senioren, Frauen und Jugend untersteht.
 
 (2) Dem Bundesamt können weitere Aufgaben übertragen werden.
 
-
-## § 15 – Beirat für den Bundesfreiwilligendienst
+# § 15 – Beirat für den Bundesfreiwilligendienst
 
 (1) Bei dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird ein Beirat für den Bundesfreiwilligendienst gebildet. Der Beirat berät das Bundesministerium für Familie, Senioren, Frauen und Jugend in Fragen des Bundesfreiwilligendienstes.
 
@@ -188,13 +171,11 @@ Die Einsatzstellen, Zentralstellen und Träger dürfen personenbezogene Daten na
 
 (4) Die Sitzungen des Beirats werden von der oder dem von der Bundesministerin oder dem Bundesminister für Familie, Senioren, Frauen und Jugend dafür benannten Vertreterin oder Vertreter einberufen und geleitet.
 
-
-## § 16 – Übertragung von Aufgaben
+# § 16 – Übertragung von Aufgaben
 
 Die Einsatzstellen, Zentralstellen und Träger können mit ihrem Einverständnis mit der Wahrnehmung von Aufgaben beauftragt werden. Die hierdurch entstehenden Kosten können in angemessenem Umfang erstattet werden.
 
-
-## § 17 – Kosten
+# § 17 – Kosten
 
 (1) Soweit die Freiwilligen Unterkunft, Verpflegung und Arbeitskleidung oder entsprechende Geldersatzleistungen erhalten, erbringen die Einsatzstellen diese Leistungen auf ihre Kosten für den Bund. Sie tragen die ihnen aus der Beschäftigung der Freiwilligen entstehenden Verwaltungskosten.
 
@@ -202,5 +183,4 @@ Die Einsatzstellen, Zentralstellen und Träger können mit ihrem Einverständnis
 
 (3) Den Einsatzstellen wird der Aufwand für das Taschengeld, die Sozialversicherungsbeiträge und die pädagogische Begleitung im Rahmen der im Haushaltsplan vorgesehenen Mittel erstattet; das Bundesministerium für Familie, Senioren, Frauen und Jugend legt im Einvernehmen mit dem Bundesministerium der Finanzen einheitliche Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für die pädagogische Begleitung wird nach den für das freiwillige soziale Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
 
-
-## § 18 – (weggefallen)
+# § 18 – (weggefallen)

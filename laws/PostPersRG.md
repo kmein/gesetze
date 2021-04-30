@@ -1,10 +1,7 @@
-# [PostPersRG] Gesetz zum Personalrecht der Beschäftigten der früheren Deutschen Bundespost  (Postpersonalrechtsgesetz - PostPersRG)
-
-Ausfertigungsdatum: 14.09.1994
-
+% Gesetz zum Personalrecht der Beschäftigten der früheren Deutschen Bundespost  (Postpersonalrechtsgesetz - PostPersRG)
+% Ausfertigungsdatum: 14.09.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -294,8 +291,7 @@ Postnachfolgeunternehmen
 
 Umwandlung und Auflösung
 
-
-## § 1 – Dienstrechtliche Zuständigkeiten der Postnachfolgeunternehmen
+# § 1 – Dienstrechtliche Zuständigkeiten der Postnachfolgeunternehmen
 
 (1) Die Postnachfolgeunternehmen (§ 38) werden ermächtigt, die dem Dienstherrn Bund obliegenden Rechte und Pflichten gegenüber den bei ihnen beschäftigten Beamten wahrzunehmen, soweit im einzelnen nichts anderes bestimmt ist. Im Rahmen seiner Zuständigkeit vertritt der Vorstand des jeweiligen Postnachfolgeunternehmens die Bundesrepublik Deutschland gerichtlich und außergerichtlich.
 
@@ -311,8 +307,7 @@ Umwandlung und Auflösung
 
 (7) Der Arbeitsdirektor (§ 33 des Mitbestimmungsgesetzes) nimmt in Personalunion die personellen und sozialen Angelegenheiten der Beamten wahr. § 20 Abs. 3 Satz 1 bleibt unberührt. Der Vorstand kann seine ihm nach diesem Gesetz oder auf Grund dieses Gesetzes obliegenden Befugnisse von dem Arbeitsdirektor oder im Falle des § 20 Abs. 3 Satz 2 von dem für diese Angelegenheiten zuständigen anderen Vorstandsmitglied wahrnehmen lassen. Beschlüsse des Vorstands, die mit dienstrechtlichen Bestimmungen nicht vereinbar sind, binden das Vorstandsmitglied nicht.
 
-
-## § 2 – Rechtsverhältnisse der Beamten, Zahlungs- und Kostentragungspflicht
+# § 2 – Rechtsverhältnisse der Beamten, Zahlungs- und Kostentragungspflicht
 
 (1) Die Beamten werden bei dem Postnachfolgeunternehmen beschäftigt,
 
@@ -324,8 +319,7 @@ Umwandlung und Auflösung
 
 (3) Die Zahlungs- und Kostentragungspflichten für vermögensrechtliche Ansprüche obliegen dem Postnachfolgeunternehmen, bei dem die Beamten beschäftigt sind. Werden diese Pflichten nicht erfüllt und wird die Bundesrepublik Deutschland durch einen Beamten auf Zahlung in Anspruch genommen, so hat das Postnachfolgeunternehmen der Bundesrepublik Deutschland die von ihr geleisteten Zahlungen zu erstatten.
 
-
-## § 3 – Dienstrechtliche Zuständigkeiten des Bundesministeriums der Finanzen
+# § 3 – Dienstrechtliche Zuständigkeiten des Bundesministeriums der Finanzen
 
 (1) Das Bundesministerium der Finanzen bestimmt nach Anhörung oder auf Vorschlag des Vorstands durch allgemeine Anordnung, welche Organisationseinheiten unterhalb des Vorstands die Befugnisse einer Dienstbehörde wahrnehmen und welche Stelleninhaber die Befugnisse eines Dienstvorgesetzten wahrnehmen. Die Bestimmung ist im Bundesgesetzblatt zu veröffentlichen. In dienstrechtlicher Hinsicht ist höchstens ein dreistufiger Aufbau des Postnachfolgeunternehmens zulässig.
 
@@ -355,8 +349,7 @@ Die Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates.
 
 (9) Die bei den Postnachfolgeunternehmen beschäftigten Beamten können ohne Einhaltung des Dienstwegs Eingaben an das Bundesministerium der Finanzen richten.
 
-
-## § 4 – Beamtenrechtliche Regelungen
+# § 4 – Beamtenrechtliche Regelungen
 
 (1) Die berufliche Tätigkeit der Beamten gilt als Dienst.
 
@@ -384,8 +377,7 @@ Unter den in § 6 genannten Voraussetzungen kann dem Beamten vorübergehend auch
 
 (5) Die Beamten können nach den allgemeinen beamtenrechtlichen Vorschriften zu einem anderen Postnachfolgeunternehmen oder zu einer Dienststelle der öffentlichen Verwaltung abgeordnet oder versetzt werden.
 
-
-## § 5 – Berufliches Fortkommen
+# § 5 – Berufliches Fortkommen
 
 (1) Kein Beamter darf wegen seiner Rechtsstellung oder wegen der sich aus seinem Beamtenverhältnis ergebenden Rechte und Pflichten in seiner beruflichen Tätigkeit oder seinem beruflichen Fortkommen benachteiligt werden.
 
@@ -395,25 +387,21 @@ Unter den in § 6 genannten Voraussetzungen kann dem Beamten vorübergehend auch
 
 (4) Wenn im Streitfall der Beamte Tatsachen glaubhaft macht, die eine Benachteiligung wegen seines Beamtenstatus vermuten lassen, trägt das Postnachfolgeunternehmen die Beweislast dafür, daß nicht auf den Beamtenstatus bezogene sachliche Gründe eine unterschiedliche Behandlung rechtfertigen oder ein Status unverzichtbare Voraussetzung für die auszuübende Tätigkeit ist.
 
-
-## § 6 – Verwendung auf einem Arbeitsposten mit geringerer Wertigkeit
+# § 6 – Verwendung auf einem Arbeitsposten mit geringerer Wertigkeit
 
 Ein Beamter kann unter Belassung seiner Amtsbezeichnung und unter Fortzahlung der Dienstbezüge vorübergehend auf einem Arbeitsposten verwendet werden, dessen Wertigkeit einem Amt mit geringerem Endgrundgehalt entspricht, wenn betriebliche Gründe es erfordern und die Tätigkeit auf Grund der Vorbildung oder Berufsausbildung zumutbar ist. Die Verwendung steht einer Beförderung im Rahmen einer regelmäßigen Laufbahnentwicklung nicht entgegen. Wenn die Verwendung länger als zwei Jahre dauert, bedarf sie der Zustimmung des Beamten.
 
-
-## § 7 – Haftung
+# § 7 – Haftung
 
 (1) Soweit die Haftung des Postnachfolgeunternehmens ausgeschlossen oder beschränkt ist, stehen demjenigen, der ihre Einrichtungen in Anspruch nimmt, oder anderen Personen Schadenersatzansprüche gegen die beteiligten Beamten nur zu, wenn diese ihre beruflichen Pflichten vorsätzlich verletzt haben.
 
 (2) Der Beamte haftet dem Postnachfolgeunternehmen für den dieser entstandenen Schaden entsprechend § 75 des Bundesbeamtengesetzes.
 
-
-## § 8 – Ämterbewertung
+# § 8 – Ämterbewertung
 
 § 18 des Bundesbesoldungsgesetzes findet mit der Maßgabe Anwendung, daß gleichwertige Tätigkeiten bei den Postnachfolgeunternehmen als amtsgemäße Funktionen gelten.Eine Tätigkeit kann bis zu fünf Ämtern zugeordnet werden.
 
-
-## § 9 – Stellenplan
+# § 9 – Stellenplan
 
 (1) Das Postnachfolgeunternehmen stellt für jedes Geschäftsjahr im voraus einen Stellenplan auf, der der Genehmigung des Bundesministeriums der Finanzen bedarf.
 
@@ -423,8 +411,7 @@ Ein Beamter kann unter Belassung seiner Amtsbezeichnung und unter Fortzahlung de
 
 (4) Einem Beamten darf ein Amt nur zusammen mit der Einweisung in eine besetzbare Planstelle verliehen werden. Wer als Beamter befördert wird, kann nach den für die Bundesbeamten geltenden Regelungen rückwirkend in eine Planstelle eingewiesen werden.
 
-
-## § 10 – Besoldungsrechtliche Sonderregelungen
+# § 10 – Besoldungsrechtliche Sonderregelungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, nach Anhörung des Vorstands durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, ob und inwieweit Sonderzahlungen, leistungsbezogene Besoldungselemente, widerrufliche Vergütungen für Tätigkeiten auf besonders schwierigen Arbeitsposten und Zuschläge zur Besoldung bei Altersteilzeit an die dort beschäftigten Beamten gewährt werden.
 
@@ -440,25 +427,21 @@ Ein Beamter kann unter Belassung seiner Amtsbezeichnung und unter Fortzahlung de
 
 (+++ § 10 Abs. 1: Zur Anwendung vgl. Art. 5 G v. 9.11.2004 I 2774 (PostPersRGÄndG 1) +++)
 
-
-## § 11 – Belohnungen, Aufwandsentschädigungen
+# § 11 – Belohnungen, Aufwandsentschädigungen
 
 (1) Der Vorstand kann mit Zustimmung des Bundesministeriums der Finanzen für die bei dem Postnachfolgeunternehmen beschäftigten Beamten Richtlinien für die Gewährung von Belohnungen als Anerkennung für Leistungen und Erfolge in Form von Sachbezügen erlassen. Die Belohnungen werden nicht auf die Besoldung angerechnet.
 
 (2) Der Vorstand kann für die bei dem Postnachfolgeunternehmen beschäftigten Beamten Richtlinien für die Erstattung von Aufwendungen erlassen, die aus dienstlicher Veranlassung entstehen.
 
-
-## § 12
+# § 12
 
 Der Vorstand wird ermächtigt, für die bei den Postnachfolgeunternehmen beschäftigten Beamten von den reise- und umzugskostenrechtlichen Bestimmungen des Bundes abweichende Regelungen zu erlassen. Dabei dürfen die Bestimmungen, die für die bei den Postnachfolgeunternehmen tätigen vergleichbaren Arbeitnehmer gelten, nicht überschritten werden.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Grundsätze
+# § 14 – Grundsätze
 
 (1) § 2 Absatz 2 und 3 gilt entsprechend für:
 
@@ -488,15 +471,13 @@ d) des ehemaligen Teilsondervermögens Deutsche Bundespost TELEKOM,
 
 Vertragsverlängerungen durch die Postnachfolgeunternehmen bleiben hierbei unberücksichtigt.
 
-
-## § 15 – Postbeamtenversorgungskasse
+# § 15 – Postbeamtenversorgungskasse
 
 (1) Die Postbeamtenversorgungskasse erbringt Versorgungs- und Beihilfeleistungen an frühere Beamte des ehemaligen Sondervermögens Deutsche Bundespost, des ehemaligen Teilsondervermögens Deutsche Bundespost POSTDIENST, des ehemaligen Teilsondervermögens Deutsche Bundespost POSTBANK und des ehemaligen Teilsondervermögens Deutsche Bundespost TELEKOM sowie Beschäftigte der Postnachfolgeunternehmen, denen aus einem Beamtenverhältnis Ansprüche auf Versorgung zustehen, und deren Hinterbliebene. Ansprüche auf Leistungen bestehen gegenüber den der Postbeamtenversorgungskasse nicht. Die Ansprüche gegenüber dem Bund bleiben unberührt.
 
 (2) Die Postbeamtenversorgungskasse ist von der Körperschaftsteuer, der Gewerbesteuer und der Vermögensteuer befreit. Beiträge an die Postbeamtenversorgungskasse sind Betriebsausgaben; § 4d des Einkommensteuergesetzes ist nicht anzuwenden.
 
-
-## § 16 – Finanzierung der Postbeamtenversorgungskasse
+# § 16 – Finanzierung der Postbeamtenversorgungskasse
 
 (1) Ab dem Jahre 2000 leisten die Postnachfolgeunternehmen zur Erfüllung ihrer Verpflichtungen Beiträge an die Postbeamtenversorgungskasse in Höhe von 33 vom Hundert der Bruttobezüge ihrer aktiven Beamten und der fiktiven Bruttobezüge ihrer beurlaubten Beamten, soweit die Zeit der Beurlaubung ruhegehaltfähig ist. Für die Berechnung der Beiträge nach Satz 1 ist § 78 des Bundesbesoldungsgesetzes nicht anzuwenden. Zum 1. Januar jeden Jahres ist ein Abschlag in Höhe von 33 vom Hundert der Jahresbruttobezüge der aktiven Beamten und der fiktiven Jahresbruttobezüge der ruhegehaltsfähig beurlaubten Beamten des Vorjahres fällig. Die Schlussabrechnung erfolgt bis zum 30. April des nächsten Jahres. Der Ausgleich der Zahlungsverpflichtungen erfolgt bis zum 31. Mai. Bei Überzahlung durch die Postnachfolgeunternehmen erfolgt eine marktübliche Verzinsung durch die Postbeamtenversorgungskasse vom Eingangstag der Abrechnung bei der Postbeamtenversorgungskasse bis zum Tag des Zahlungsausgleichs. Bei Unterzahlung erfolgt eine marktübliche Verzinsung durch die Postnachfolgeunternehmen vom ersten Bankarbeitstag des Jahres der Schlussabrechnung bis zum Tag des Zahlungsausgleichs. Unterschiedsbeträge zwischen laufenden Zahlungsverpflichtungen und laufenden Beiträgen oder anderweitigen Vermögenserträgen gleicht der Bund auf geeignete Weise aus.
 
@@ -514,8 +495,7 @@ Im Rahmen der Nachweispflicht steht dem Bundesministerium der Finanzen ein unein
 
 (5) Soweit der Bund nach Absatz 1 Satz 8 oder Absatz 3 Leistungen an die Postbeamtenversorgungskasse erbringt, kann er von den Postnachfolgeunternehmen keine Erstattung verlangen.
 
-
-## § 17 – Weiterbeschäftigte Beamte
+# § 17 – Weiterbeschäftigte Beamte
 
 (1) Die Tätigkeit als Beamter bei einem Postnachfolgeunternehmen gilt als Dienstzeit im Dienst eines öffentlich-rechtlichen Dienstherrn im Sinne des § 6 Abs. 1 des Beamtenversorgungsgesetzes.
 
@@ -523,21 +503,17 @@ Im Rahmen der Nachweispflicht steht dem Bundesministerium der Finanzen ein unein
 
 (3) Absatz 2 gilt entsprechend für Beschäftigungen nach der Beendigung eines öffentlich-rechtlichen Amtsverhältnisses oder eines außertariflichen Angestelltenverhältnisses nach § 47 Absatz 2 des Postverfassungsgesetzes.
 
-
-## § 18 – Ausgleichszahlung bei Anspruch auf Altersgeld, Nachversicherung
+# § 18 – Ausgleichszahlung bei Anspruch auf Altersgeld, Nachversicherung
 
 (1) Für einen Beamten mit Anspruch auf Altersgeld nach dem Altersgeldgesetz leistet das Postnachfolgeunternehmen, bei dem der Beamte zuletzt beschäftigt war, an die Postbeamtenversorgungskasse eine Zahlung in Höhe des Beitrags, der nach dem Sechsten Buch Sozialgesetzbuch bei einer Nachversicherung in der gesetzlichen Rentenversicherung an den Träger der Rentenversicherung zu leisten gewesen wäre. Die Zahlung ist drei Monate nach der Entlassung des Beamten fällig.
 
 (2) Ein Beamter, der ohne Anspruch auf Altersgeld aus dem Beamtenverhältnis ausscheidet, wird durch das Postnachfolgeunternehmen, bei dem er zuletzt beschäftigt war, nach dem Sechsten Buch Sozialgesetzbuch nachversichert. Dies gilt auch bei einem dauerhaften Wechsel in ein Arbeitsverhältnis bei dem Postnachfolgeunternehmen oder in dessen Vorstand.
 
+# § 18a – (weggefallen)
 
-## § 18a – (weggefallen)
+# § 19 – (weggefallen)
 
-
-## § 19 – (weggefallen)
-
-
-## § 20 – Rechtsaufsicht
+# § 20 – Rechtsaufsicht
 
 (1) Dem Bundesministerium der Finanzen obliegt die Rechtsaufsicht darüber, daß die Organe des Postnachfolgeunternehmens bei der Erfüllung ihrer dienstrechtlichen Befugnisse die Bestimmungen dieses Gesetzes und der anderen Dienstrechtsvorschriften beachten. Im Rahmen dieser Rechtsaufsicht steht dem Bundesministerium der Finanzen ein uneingeschränktes Informationsrecht durch den Vorstand und den Aufsichtsrat und ein Weisungsrecht gegenüber den Organen des Postnachfolgeunternehmens zu.
 
@@ -545,17 +521,13 @@ Im Rahmen der Nachweispflicht steht dem Bundesministerium der Finanzen ein unein
 
 (3) Das Bundesministerium der Finanzen kann dem für die personellen und sozialen Angelegenheiten der Beamten zuständigen Vorstandsmitglied die Ausübung dieser Tätigkeit untersagen, wenn es gegen dienstrechtliche Bestimmungen, gegen die Bestimmungen der §§ 1 und 2 sowie 4 bis 18 und gegen Anordnungen des Bundesministeriums der Finanzen auf Grund der §§ 1 bis 20 verstoßen hat und trotz Hinweises auf diese Vorschrift durch das Bundesministerium der Finanzen dieses Verhalten fortsetzt. In diesem Falle überträgt es nach Anhörung des Vorsitzenden des Aufsichtsrats und dessen Stellvertreters die Zuständigkeit einem anderen Vorstandsmitglied.
 
+# § 21 – (weggefallen)
 
-## § 21 – (weggefallen)
+# § 22 – (weggefallen)
 
+# § 23 – (weggefallen)
 
-## § 22 – (weggefallen)
-
-
-## § 23 – (weggefallen)
-
-
-## § 24 – Anwendung des Betriebsverfassungsgesetzes
+# § 24 – Anwendung des Betriebsverfassungsgesetzes
 
 (1) In den Postnachfolgeunternehmen findet nach deren Eintragung in das Handelsregister das Betriebsverfassungsgesetz Anwendung, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
@@ -563,11 +535,9 @@ Im Rahmen der Nachweispflicht steht dem Bundesministerium der Finanzen ein unein
 
 (3) Der Beamte, dem nach § 4 Abs. 4 Satz 1 und 2 eine Tätigkeit bei einem Unternehmen zugewiesen ist, gilt für die Anwendung von Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat, für die Anwendung des Betriebsverfassungsgesetzes und des Sprecherausschussgesetzes als Arbeitnehmer und für die Anwendung von Vorschriften über die Schwerbehindertenvertretung als Beschäftigter des Unternehmens. § 36 Abs. 2 und 4 gilt entsprechend. Soweit das Unternehmen Verpflichtungen, die ihm gegenüber dem Beamten obliegen, nicht erfüllen kann, weil es nicht Dienstherr des Beamten ist, treffen diese Verpflichtungen je nach Zuständigkeit das Postnachfolgeunternehmen oder den Bund.
 
+# § 25 – (weggefallen)
 
-## § 25 – (weggefallen)
-
-
-## § 26 – Wahlen, Ersatzmitglieder
+# § 26 – Wahlen, Ersatzmitglieder
 
 Die Vorschriften des Betriebsverfassungsgesetzes über Wahl und Zusammensetzung des Betriebsrats sowie über seine Ersatzmitglieder finden mit folgender Maßgabe Anwendung:
 
@@ -579,8 +549,7 @@ Die Vorschriften des Betriebsverfassungsgesetzes über Wahl und Zusammensetzung 
 
 4. Steht einer Gruppe nur ein Vertreter im Betriebsrat zu, so erfolgt die Wahl des Gruppenvertreters nach den Grundsätzen der Mehrheitswahl.
 
-4a.  
-Jede Gruppe kann auch Angehörige der anderen Gruppe wählen. In diesem Fall gelten die Gewählten insoweit als Angehörige derjenigen Gruppe, die sie gewählt hat. Dies gilt auch für Ersatzmitglieder.
+4a. Jede Gruppe kann auch Angehörige der anderen Gruppe wählen. In diesem Fall gelten die Gewählten insoweit als Angehörige derjenigen Gruppe, die sie gewählt hat. Dies gilt auch für Ersatzmitglieder.
 
 5. Finden getrennte Wahlgänge statt, so sind zur Unterzeichnung von Wahlvorschlägen der Gruppen nur die wahlberechtigten Angehörigen der jeweiligen Gruppe entsprechend § 14 Abs. 4 des Betriebsverfassungsgesetzes berechtigt.
 
@@ -588,20 +557,17 @@ Jede Gruppe kann auch Angehörige der anderen Gruppe wählen. In diesem Fall gel
 
 7. Ist der Betriebsrat in gemeinsamer Wahl gewählt, bestimmt sich das Nachrücken von Ersatzmitgliedern nach § 25 des Betriebsverfassungsgesetzes unter Berücksichtigung der Grundsätze der Nummer 2.
 
-
-## § 27
+# § 27
 
 (weggefallen)
 
-
-## § 28 – Beteiligung des Betriebsrats in Angelegenheiten der Beamten
+# § 28 – Beteiligung des Betriebsrats in Angelegenheiten der Beamten
 
 (1) Der Betriebsrat ist in den Angelegenheiten der Beamten nach § 76 Abs. 1, § 78 Abs. 1 Nr. 3 bis 5 und § 79 Abs. 3 des Bundespersonalvertretungsgesetzes sowie nach § 4 Abs. 4 Satz 1 und 2 zu beteiligen. In diesen Angelegenheiten sind nach gemeinsamer Beratung im Betriebsrat nur die Vertreter der Beamten zur Beschlußfassung berufen, es sei denn, daß die Beamten im Betriebsrat nicht vertreten sind. § 33 Abs. 1 und 2 des Betriebsverfassungsgesetzes gilt entsprechend.
 
 (2) Bei Entscheidungen und Maßnahmen des Postnachfolgeunternehmens nach Absatz 1 Satz 1, die Beamte betreffen, denen nach § 4 Abs. 4 Satz 1 und 2 Tätigkeiten bei einem Unternehmen zugewiesen sind, ist der bei dem Postnachfolgeunternehmen gebildete Betriebsrat nach Maßgabe der Vorschriften dieses Abschnitts zu beteiligen; gleichzeitig ist der Betriebsrat des Betriebs, in dem der Beamte die zugewiesene Tätigkeit ausübt, hierüber zu unterrichten und ihm Gelegenheit zur Stellungnahme zu geben. Entsprechendes gilt für die Beteiligung der Schwerbehindertenvertretung.
 
-
-## § 29 – Verfahren
+# § 29 – Verfahren
 
 (1) Der Betriebsrat hat in den in § 76 Abs. 1 des Bundespersonalvertretungsgesetzes genannten Personalangelegenheiten der Beamten ein Mitbestimmungsrecht. Auf das Mitbestimmungsrecht in den in § 76 Abs. 1 des Bundespersonalvertretungsgesetzes genannten Angelegenheiten finden die Regelungen des § 77 des Bundespersonalvertretungsgesetzes entsprechende Anwendung. Entsprechendes gilt bei der Zuweisung nach § 4 Abs. 4 Satz 1 und 2.
 
@@ -621,18 +587,15 @@ Jede Gruppe kann auch Angehörige der anderen Gruppe wählen. In diesem Fall gel
 
 (9) In Streitigkeiten nach den Absätzen 1 bis 8 sind die Verwaltungsgerichte zuständig. Die Vorschriften des Arbeitsgerichtsgesetzes über das Beschlußverfahren gelten entsprechend.
 
-
-## § 30 – Besetzung der Einigungsstelle
+# § 30 – Besetzung der Einigungsstelle
 
 In Angelegenheiten des § 76 Abs. 1 des Bundespersonalvertretungsgesetzes sowie des § 4 Abs. 4 Satz 1 und 2 besteht die Einigungsstelle aus einer gleichen Anzahl von Beisitzern, die vom Arbeitgeber und den Vertretern der Beamten im Betriebsrat bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Seiten einigen. Kommt eine Einigung über die Person des Vorsitzenden nicht zustande, so bestellt ihn der Präsident des zuständigen Verwaltungsgerichts. Ist der Betriebsrat gemäß § 28 Abs. 1 Satz 2 zweiter Halbsatz für die Beschlussfassung zuständig, muss sich unter den von ihm zu bestellenden Beisitzern der Einigungsstelle ein Beamter befinden
 
-
-## § 31 – Beteiligung des Betriebsrats und der Schwerbehindertenvertretung bei Entscheidungen des Bundesministeriums der Finanzen
+# § 31 – Beteiligung des Betriebsrats und der Schwerbehindertenvertretung bei Entscheidungen des Bundesministeriums der Finanzen
 
 In Angelegenheiten, in denen das Bundesministerium der Finanzen gemäß § 3 Abs. 2 Satz 2, Absatz 6 und 8 sowie § 20 Abs. 2 Entscheidungen und Maßnahmen bezüglich der bei den Postnachfolgeunternehmen beschäftigten Beamten trifft, wird die Interessenvertretung der betroffenen Beamten vom Betriebsrat wahrgenommen. In den Angelegenheiten nach § 76 Abs. 1, § 78 Abs. 1 Nr. 3 bis 5 und § 79 Abs. 3 des Bundespersonalvertretungsgesetzes sowie nach § 4 Abs. 4 Satz 1 und 2 gelten die §§ 28 bis 30 entsprechend. Sind in diesen Angelegenheiten Interessen schwerbehinderter Menschen berührt, ist die Schwerbehindertenvertretung des Betriebs im Rahmen ihrer Zuständigkeit zu beteiligen.
 
-
-## § 32 – Gesamtbetriebsrat
+# § 32 – Gesamtbetriebsrat
 
 (1) Die §§ 47 bis 53 des Betriebsverfassungsgesetzes finden mit folgender Maßgabe Anwendung:
 
@@ -642,8 +605,7 @@ In Angelegenheiten, in denen das Bundesministerium der Finanzen gemäß § 3 Abs
 
 (2) Für die Beteiligung des Gesamtbetriebsrats in den Angelegenheiten der Beamten gelten die §§ 28 bis 31 entsprechend.
 
-
-## § 33 – Konzernbetriebsrat
+# § 33 – Konzernbetriebsrat
 
 (1) Die §§ 54 bis 59 des Betriebsverfassungsgesetzes finden mit folgender Maßgabe Anwendung:
 
@@ -653,18 +615,15 @@ In Angelegenheiten, in denen das Bundesministerium der Finanzen gemäß § 3 Abs
 
 (2) Für die Beteiligung des Konzernbetriebsrats des Postnachfolgeunternehmens in den Angelegenheiten der Beamten gelten die §§ 28 bis 31 entsprechend.
 
-
-## § 34 – Änderung der Wahlordnungen
+# § 34 – Änderung der Wahlordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat abweichend von den Wahlordnungen zum Betriebsverfassungsgesetz Sondervorschriften für die Wahlen zu den Betriebsräten der Unternehmen Deutsche Post AG, DB Privat- und Firmenkundenbank AG und Deutsche Telekom AG zu erlassen. Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-
-## § 35 – Gesetzesvorrang
+# § 35 – Gesetzesvorrang
 
 Durch Tarifvertrag oder Betriebsvereinbarung kann die betriebliche Interessenvertretung der Beamten nicht abweichend von den Vorschriften dieses Abschnitts geregelt werden.
 
-
-## § 36 – Sprecherausschuss
+# § 36 – Sprecherausschuss
 
 (1) In den Postnachfolgeunternehmen gilt nach deren Eintragung in das Handelsregister das Sprecherausschußgesetz mit den in dieser Vorschrift genannten Maßgaben.
 
@@ -674,13 +633,11 @@ Durch Tarifvertrag oder Betriebsvereinbarung kann die betriebliche Interessenver
 
 (4) § 31 Abs. 2 des Sprecherausschußgesetzes findet für die Beamten im Hinblick auf deren Status keine Anwendung.
 
-
-## § 37 – Schwerbehindertenvertretung
+# § 37 – Schwerbehindertenvertretung
 
 Die Vorbereitung der Neuwahl der Schwerbehindertenvertretungen bestimmt sich nach den Vorschriften des Neunten Buches Sozialgesetzbuch und der Wahlordnung Schwerbehindertenvertretung.
 
-
-## § 38 – Postnachfolgeunternehmen
+# § 38 – Postnachfolgeunternehmen
 
 (1) Postnachfolgeunternehmen sind
 
@@ -690,8 +647,7 @@ Die Vorbereitung der Neuwahl der Schwerbehindertenvertretungen bestimmt sich nac
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Unternehmen als Postnachfolgeunternehmen zu bestimmen, soweit dies zur Wahrung der Rechtsstellung der Beamten, insbesondere zur Sicherstellung einer ihrem Amt angemessenen Beschäftigung, geboten ist. Es dürfen nur Unternehmen mit Sitz im Inland bestimmt werden, die in einem rechtlichen oder wirtschaftlichen Nachfolgeverhältnis zum ehemaligen Sondervermögen Deutsche Bundespost stehen. Die vertretungsberechtigten Organe der betroffenen Unternehmen sind vor dem Erlass der Rechtsverordnung anzuhören. In der Rechtsverordnung ist zu regeln, welche Beamten bei welchem Postnachfolgeunternehmen beschäftigt werden.
 
-
-## § 39 – Umwandlung und Auflösung
+# § 39 – Umwandlung und Auflösung
 
 (1) Bei der Entscheidung über die Umwandlung eines Postnachfolgeunternehmens durch Verschmelzung, Spaltung (§ 123 des Umwandlungsgesetzes) oder Vermögensübertragung haben die Mitglieder des Vorstands und des Aufsichtsrats des Postnachfolgeunternehmens zu berücksichtigen:
 

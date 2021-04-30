@@ -1,10 +1,7 @@
-# [JVKostG] Gesetz über Kosten in Angelegenheiten der Justizverwaltung  (Justizverwaltungskostengesetz - JVKostG)
-
-Ausfertigungsdatum: 23.07.2013
-
+% Gesetz über Kosten in Angelegenheiten der Justizverwaltung  (Justizverwaltungskostengesetz - JVKostG)
+% Ausfertigungsdatum: 23.07.2013
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -34,8 +31,7 @@ Ausfertigungsdatum: 23.07.2013
 
 Anlage (zu § 4 Absatz 1)
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz gilt für die Erhebung von Kosten (Gebühren und Auslagen) durch die Justizbehörden des Bundes in Justizverwaltungsangelegenheiten, soweit nichts anderes bestimmt ist.
 
@@ -51,8 +47,7 @@ Anlage (zu § 4 Absatz 1)
 
 5. automatisiertes Abrufverfahren in Grundbuchangelegenheiten, in Angelegenheiten der Schiffsregister, des Schiffsbauregisters und des Registers für Pfandrechte an Luftfahrzeugen,
 
-5a.  
-Einstellung von Schutzschriften in das Schutzschriftenregister,
+5a. Einstellung von Schutzschriften in das Schutzschriftenregister,
 
 6. Rechtshilfeverkehr mit dem Ausland in zivilrechtlichen Angelegenheiten sowie
 
@@ -64,8 +59,7 @@ Im Fall des Satzes 1 Nummer 7 steht eine andere Behörde, die nach § 2 Absatz 1
 
 (4) Die Vorschriften dieses Gesetzes über das gerichtliche Verfahren sind auch dann anzuwenden, wenn in Justizverwaltungsangelegenheiten der Länder die Kosten nach landesrechtlichen Vorschriften erhoben werden.
 
-
-## § 2 – Kostenfreiheit
+# § 2 – Kostenfreiheit
 
 (1) Der Bund und die Länder sowie die nach den Haushaltsplänen des Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen sind von der Zahlung der Gebühren befreit.
 
@@ -75,8 +69,7 @@ Im Fall des Satzes 1 Nummer 7 steht eine andere Behörde, die nach § 2 Absatz 1
 
 (4) Sonstige bundesrechtliche oder landesrechtliche Vorschriften, durch die eine sachliche oder persönliche Befreiung von Kosten gewährt ist, bleiben unberührt.
 
-
-## § 3 – Kostenfreie Amtshandlungen
+# § 3 – Kostenfreie Amtshandlungen
 
 Keine Kosten mit Ausnahme der Dokumentenpauschale werden erhoben
 
@@ -92,8 +85,7 @@ Keine Kosten mit Ausnahme der Dokumentenpauschale werden erhoben
 
 6. für die Tätigkeit der Staatsanwaltschaft im Aufgebotsverfahren.
 
-
-## § 4 – Höhe der Kosten
+# § 4 – Höhe der Kosten
 
 (1) Kosten werden nach der Anlage zu diesem Gesetz erhoben.
 
@@ -101,8 +93,7 @@ Keine Kosten mit Ausnahme der Dokumentenpauschale werden erhoben
 
 (3) Bei der Ablehnung oder Zurücknahme eines Antrags kann die Justizbehörde dem Antragsteller eine Gebühr bis zur Hälfte der für die Vornahme der Amtshandlung bestimmten Gebühr auferlegen, bei Rahmengebühren jedoch nicht weniger als den Mindestbetrag. Das Gleiche gilt für die Bestätigung der Ablehnung durch die übergeordnete Justizbehörde.
 
-
-## § 5 – Verjährung, Verzinsung
+# § 5 – Verjährung, Verzinsung
 
 (1) Ansprüche auf Zahlung von Kosten verjähren in vier Jahren nach Ablauf des Kalenderjahrs, in dem die Kosten fällig geworden sind.
 
@@ -112,13 +103,11 @@ Keine Kosten mit Ausnahme der Dokumentenpauschale werden erhoben
 
 (4) Ansprüche auf Zahlung und Rückerstattung von Kosten werden nicht verzinst.
 
-
-## § 5a – Elektronische Akte, elektronisches Dokument, Rechtsbehelfsbelehrung
+# § 5a – Elektronische Akte, elektronisches Dokument, Rechtsbehelfsbelehrung
 
 Für die elektronische Akte, das elektronische Dokument sowie die Rechtsbehelfsbelehrung gelten die §§ 5a und 5b des Gerichtskostengesetzes entsprechend.
 
-
-## § 6 – Fälligkeit der Kosten im Allgemeinen
+# § 6 – Fälligkeit der Kosten im Allgemeinen
 
 (1) Kosten werden, soweit nichts anderes bestimmt ist, mit der Beendigung der gebührenpflichtigen Amtshandlung fällig. Wenn eine Kostenentscheidung der Justizbehörde ergeht, werden entstandene Kosten mit Erlass der Kostenentscheidung, später entstehende Kosten sofort fällig.
 
@@ -126,32 +115,27 @@ Für die elektronische Akte, das elektronische Dokument sowie die Rechtsbehelfsb
 
 (3) Die Jahresgebühr für die Führung des Unternehmensregisters wird jeweils am 31. Dezember für das abgelaufene Kalenderjahr fällig.
 
-
-## § 7 – Fälligkeit bestimmter Auslagen
+# § 7 – Fälligkeit bestimmter Auslagen
 
 Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
 
-
-## § 8 – Vorschuss
+# § 8 – Vorschuss
 
 (1) Die Justizbehörde kann die Zahlung eines Kostenvorschusses verlangen.
 
 (2) Sie kann die Vornahme der Amtshandlung von der Zahlung oder Sicherstellung des Vorschusses abhängig machen.
 
-
-## § 9 – Zurückbehaltungsrecht
+# § 9 – Zurückbehaltungsrecht
 
 Urkunden, Ausfertigungen, Ausdrucke und Kopien können nach billigem Ermessen zurückbehalten werden, bis die in der Angelegenheit erwachsenen Kosten bezahlt sind.
 
-
-## § 10 – Ermäßigung der Gebühren und Absehen von der Kostenerhebung
+# § 10 – Ermäßigung der Gebühren und Absehen von der Kostenerhebung
 
 Die Justizbehörde kann ausnahmsweise, wenn dies mit Rücksicht auf die wirtschaftlichen Verhältnisse des Kostenschuldners oder aus Billigkeitsgründen geboten erscheint, die Gebühren ermäßigen oder von der Erhebung der Kosten absehen.
 
 (+++ § 10: Zur Anwendung vgl. § 21 Satz 2 +++)
 
-
-## § 11 – Absehen von der Kostenerhebung wegen des öffentlichen Interesses
+# § 11 – Absehen von der Kostenerhebung wegen des öffentlichen Interesses
 
 (1) Die Justizbehörde kann von der Erhebung der Gebühr für die Beglaubigung von Kopien, Ausdrucken, Auszügen und Dateien absehen, wenn die Beglaubigung für Zwecke verlangt wird, deren Verfolgung überwiegend im öffentlichen Interesse liegt.
 
@@ -161,8 +145,7 @@ Die Justizbehörde kann ausnahmsweise, wenn dies mit Rücksicht auf die wirtscha
 
 2. Kopien oder Ausdrucke amtlicher Bekanntmachungen anderen Tageszeitungen als den amtlichen Bekanntmachungsblättern auf Antrag zum unentgeltlichen Abdruck überlassen werden.
 
-
-## § 12 – Nichterhebung von Kosten in bestimmten Fällen
+# § 12 – Nichterhebung von Kosten in bestimmten Fällen
 
 Kosten in den Fällen des § 1 Absatz 3 werden nicht erhoben, wenn auf die Erstattung
 
@@ -174,30 +157,25 @@ Kosten in den Fällen des § 1 Absatz 3 werden nicht erhoben, wenn auf die Ersta
 
 ganz oder teilweise verzichtet worden ist. In den in Satz 1 bezeichneten Angelegenheiten wird eine Dokumenten- oder Datenträgerpauschale in keinem Fall erhoben. Das Gleiche gilt für Auslagen nach Nummer 9001 des Kostenverzeichnisses zum Gerichtskostengesetz.
 
-
-## § 13 – Nichterhebung von Kosten bei unrichtiger Sachbehandlung
+# § 13 – Nichterhebung von Kosten bei unrichtiger Sachbehandlung
 
 Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben.
 
-
-## § 14 – Amtshandlungen auf Antrag
+# § 14 – Amtshandlungen auf Antrag
 
 (1) Die Kosten für Amtshandlungen, die auf Antrag durchgeführt werden, schuldet, wer den Antrag gestellt hat, soweit nichts anderes bestimmt ist.
 
 (2) Absatz 1 gilt nicht in den in § 12 Satz 1 bezeichneten Angelegenheiten für den Verfolgten oder Verurteilten sowie im Schlichtungsverfahren nach § 57a des Luftverkehrsgesetzes. Die §§ 57a und 87n Absatz 6 des Gesetzes über die internationale Rechtshilfe in Strafsachen bleiben unberührt.
 
-
-## § 15 – Datenabruf aus einem Register oder dem Grundbuch
+# § 15 – Datenabruf aus einem Register oder dem Grundbuch
 
 Die Gebühren für den Abruf von Daten oder Dokumenten aus einem Register oder dem Grundbuch schuldet derjenige, der den Abruf tätigt. Erfolgt der Abruf unter einer Kennung, die aufgrund der Anmeldung zum Abrufverfahren vergeben worden ist, ist Schuldner der Gebühren derjenige, der sich zum Abrufverfahren angemeldet hat.
 
-
-## § 15a – Schutzschriftenregister
+# § 15a – Schutzschriftenregister
 
 Die Gebühr für die Einstellung einer Schutzschrift schuldet derjenige, der die Schutzschrift eingereicht hat.
 
-
-## § 16 – Unternehmensregister
+# § 16 – Unternehmensregister
 
 Die Jahresgebühr für die Führung des Unternehmensregisters schuldet
 
@@ -205,18 +183,15 @@ Die Jahresgebühr für die Führung des Unternehmensregisters schuldet
 
 2. jedes Unternehmen, das in dem betreffenden Kalenderjahr nach § 8b Absatz 2 Nummer 9 und 10, Absatz 3 Satz 1 Nummer 2 des Handelsgesetzbuchs selbst oder durch einen von ihm beauftragten Dritten Daten an das Unternehmensregister übermittelt hat.
 
-
-## § 16a – Behördliche Schlichtung nach § 57a des Luftverkehrsgesetzes
+# § 16a – Behördliche Schlichtung nach § 57a des Luftverkehrsgesetzes
 
 Die Gebühr 1220 des Kostenverzeichnisses schuldet nur das Luftfahrtunternehmen.
 
-
-## § 17 – Mahnung bei der Forderungseinziehung nach dem Justizbeitreibungsgesetz
+# § 17 – Mahnung bei der Forderungseinziehung nach dem Justizbeitreibungsgesetz
 
 Die Gebühr für die Mahnung bei der Forderungseinziehung schuldet derjenige Kostenschuldner, der nach § 5 Absatz 2 des Justizbeitreibungsgesetzes besonders gemahnt worden ist.
 
-
-## § 18 – Weitere Fälle der Kostenhaftung
+# § 18 – Weitere Fälle der Kostenhaftung
 
 Die Kosten schuldet ferner derjenige,
 
@@ -226,13 +201,11 @@ Die Kosten schuldet ferner derjenige,
 
 3. der nach den Vorschriften des bürgerlichen Rechts für die Kostenschuld eines anderen kraft Gesetzes haftet.
 
-
-## § 19 – Mehrere Kostenschuldner
+# § 19 – Mehrere Kostenschuldner
 
 Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-
-## § 20 – Übermittlung gerichtlicher Entscheidungen
+# § 20 – Übermittlung gerichtlicher Entscheidungen
 
 (1) Für die Übermittlung gerichtlicher Entscheidungen in Form elektronisch auf Datenträgern gespeicherter Daten kann durch öffentlich-rechtlichen Vertrag anstelle der zu erhebenden Auslagen eine andere Art der Gegenleistung vereinbart werden, deren Wert den ansonsten zu erhebenden Auslagen entspricht.
 
@@ -240,20 +213,17 @@ Mehrere Kostenschuldner haften als Gesamtschuldner.
 
 (3) Werden Entscheidungen für Zwecke verlangt, deren Verfolgung überwiegend im öffentlichen Interesse liegt, so kann auch eine niedrigere Gegenleistung vereinbart oder auf eine Gegenleistung verzichtet werden.
 
-
-## § 21 – Auskunft für wissenschaftliche Forschungsvorhaben
+# § 21 – Auskunft für wissenschaftliche Forschungsvorhaben
 
 Erfordert die Erteilung einer Auskunft für wissenschaftliche Forschungsvorhaben aus den vom Bundesamt für Justiz geführten Registern einen erheblichen Aufwand, ist eine Gegenleistung zu vereinbaren, welche die notwendigen Aufwendungen deckt. § 10 ist entsprechend anzuwenden.
 
-
-## § 22 – Einwendungen und gerichtliches Verfahren
+# § 22 – Einwendungen und gerichtliches Verfahren
 
 (1) Über Einwendungen gegen den Ansatz der Kosten oder gegen Maßnahmen nach den §§ 8 und 9 entscheidet das Amtsgericht, in dessen Bezirk die Justizbehörde ihren Sitz hat. Für das gerichtliche Verfahren sind die § 66 Absatz 2 bis 8 sowie die §§ 67 und 69a des Gerichtskostengesetzes entsprechend anzuwenden.
 
 (2) Betreffen gerichtliche Verfahren nach Absatz 1 Justizverwaltungsangelegenheiten der Vorstände der Gerichte der Verwaltungs-, Finanz-, Sozial- und Arbeitsgerichtsbarkeit, in denen Kosten nach landesrechtlichen Vorschriften erhoben werden, entscheidet anstelle des Amtsgerichts das Eingangsgericht der jeweiligen Gerichtsbarkeit, in dessen Bezirk die Behörde ihren Sitz hat.
 
-
-## § 23 – Bekanntmachung von Neufassungen
+# § 23 – Bekanntmachung von Neufassungen
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
@@ -263,8 +233,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderunge
 
 3. das Inkrafttreten der Änderungen.
 
-
-## § 24 – Übergangsvorschrift
+# § 24 – Übergangsvorschrift
 
 Das bisherige Recht ist anzuwenden auf Kosten
 
@@ -278,8 +247,7 @@ Das bisherige Recht ist anzuwenden auf Kosten
 
 Dies gilt auch, wenn Vorschriften geändert werden, auf die das Justizverwaltungskostengesetz verweist.
 
-
-## § 25 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+# § 25 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
 
 (1) Die Justizverwaltungskostenordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 363-1, veröffentlichten bereinigten Fassung, die zuletzt durch Artikel 2 des Gesetzes vom 11. Juni 2013 (BGBl. I S. 1545) geändert worden ist, und Verweisungen hierauf sind weiter anzuwenden auf Kosten
 
@@ -293,8 +261,7 @@ Dies gilt auch, wenn Vorschriften geändert werden, auf die das Justizverwaltung
 
 (2) Soweit wegen der Erhebung von Haftkosten die Vorschriften des Gerichtskostengesetzes entsprechend anzuwenden sind, ist auch § 73 des Gerichtskostengesetzes entsprechend anzuwenden.
 
-
-## Anlage – (zu § 4 Absatz 1)Kostenverzeichnis
+# Anlage – (zu § 4 Absatz 1)Kostenverzeichnis
 
 (Fundstelle: BGBl. I 2013, 2660 - 2664;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

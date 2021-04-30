@@ -1,10 +1,7 @@
-# [AltTZG 1996] Altersteilzeitgesetz
-
-Ausfertigungsdatum: 23.07.1996
-
+% Altersteilzeitgesetz
+% Ausfertigungsdatum: 23.07.1996
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Durch Altersteilzeitarbeit soll älteren Arbeitnehmern ein gleitender Übergang vom Erwerbsleben in die Altersrente ermöglicht werden.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 23.07.1996
 
 (3) Altersteilzeit im Sinne dieses Gesetzes liegt unabhängig von einer Förderung durch die Bundesagentur auch vor bei einer Teilzeitarbeit älterer Arbeitnehmer, die ihre Arbeitszeit ab Vollendung des 55. Lebensjahres nach dem 31. Dezember 2009 vermindern. Für die Anwendung des § 3 Nr. 28 des Einkommensteuergesetzes kommt es nicht darauf an, dass die Altersteilzeit vor dem 1. Januar 2010 begonnen wurde und durch die Bundesagentur nach § 4 gefördert wird.
 
-
-## § 2 – Begünstigter Personenkreis
+# § 2 – Begünstigter Personenkreis
 
 (1) Leistungen werden für Arbeitnehmer gewährt, die
 
@@ -33,8 +29,7 @@ Im Geltungsbereich eines Tarifvertrages nach Satz 1 Nr. 1 kann die tarifvertragl
 
 (3) Sieht die Vereinbarung über die Altersteilzeitarbeit unterschiedliche wöchentliche Arbeitszeiten oder eine unterschiedliche Verteilung der wöchentlichen Arbeitszeit über einen Zeitraum von mehr als sechs Jahren vor, ist die Voraussetzung nach Absatz 1 Nr. 2 auch erfüllt, wenn die wöchentliche Arbeitszeit im Durchschnitt eines Zeitraums von sechs Jahren, der innerhalb des Gesamtzeitraums der vereinbarten Altersteilzeitarbeit liegt, die Hälfte der bisherigen wöchentlichen Arbeitszeit nicht überschreitet, der Arbeitnehmer versicherungspflichtig beschäftigt im Sinne des Dritten Buches Sozialgesetzbuch ist und die weiteren Voraussetzungen des Absatzes 2 vorliegen. Die Leistungen nach § 3 Abs. 1 Nr. 1 sind nur in dem in Satz 1 genannten Zeitraum von sechs Jahren zu erbringen.
 
-
-## § 3 – Anspruchsvoraussetzungen
+# § 3 – Anspruchsvoraussetzungen
 
 (1) Der Anspruch auf die Leistungen nach § 4 setzt voraus, daß
 
@@ -60,8 +55,7 @@ und
 
 (3) Hat der in Altersteilzeitarbeit beschäftigte Arbeitnehmer die Arbeitsleistung oder Teile der Arbeitsleistung im voraus erbracht, so ist die Voraussetzung nach Absatz 1 Nr. 2 bei Arbeitszeiten nach § 2 Abs. 2 und 3 erfüllt, wenn die Beschäftigung eines bei einer Agentur für Arbeit arbeitslos gemeldeten Arbeitnehmers oder eines Arbeitnehmers nach Abschluß der Ausbildung auf dem freigemachten oder durch Umsetzung freigewordenen Arbeitsplatz erst nach Erbringung der Arbeitsleistung erfolgt.
 
-
-## § 4 – Leistungen
+# § 4 – Leistungen
 
 (1) Die Bundesagentur erstattet dem Arbeitgeber für längstens sechs Jahre
 
@@ -71,8 +65,7 @@ und
 
 (2) Bei Arbeitnehmern, die nach § 6 Abs. 1 Satz 1 Nr. 1 oder § 231 Abs. 1 und 2 des Sechsten Buches Sozialgesetzbuch von der Versicherungspflicht befreit sind, werden Leistungen nach Absatz 1 auch erbracht, wenn die Voraussetzung des § 3 Abs. 1 Nr. 1 Buchstabe b nicht erfüllt ist. Dem Betrag nach Absatz 1 Nr. 2 stehen in diesem Fall vergleichbare Aufwendungen des Arbeitgebers bis zur Höhe des Beitrags gleich, den die Bundesagentur nach Absatz 1 Nr. 2 zu tragen hätte, wenn der Arbeitnehmer nicht von der Versicherungspflicht befreit wäre.
 
-
-## § 5 – Erlöschen und Ruhen des Anspruchs
+# § 5 – Erlöschen und Ruhen des Anspruchs
 
 (1) Der Anspruch auf die Leistungen nach § 4 erlischt
 
@@ -90,8 +83,7 @@ und
 
 (5) § 48 Abs. 1 Nr. 3 des Zehnten Buches Sozialgesetzbuch findet keine Anwendung.
 
-
-## § 6 – Begriffsbestimmungen
+# § 6 – Begriffsbestimmungen
 
 (1) Das Regelarbeitsentgelt für die Altersteilzeitarbeit im Sinne dieses Gesetzes ist das auf einen Monat entfallende vom Arbeitgeber regelmäßig zu zahlende sozialversicherungspflichtige Arbeitsentgelt, soweit es die Beitragsbemessungsgrenze des Dritten Buches Sozialgesetzbuch nicht überschreitet. Entgeltbestandteile, die nicht laufend gezahlt werden, sind nicht berücksichtigungsfähig.
 
@@ -99,8 +91,7 @@ und
 
 (3) (weggefallen)
 
-
-## § 7 – Berechnungsvorschriften
+# § 7 – Berechnungsvorschriften
 
 (1) Ein Arbeitgeber beschäftigt in der Regel nicht mehr als 50 Arbeitnehmer, wenn er in dem Kalenderjahr, das demjenigen, für das die Feststellung zu treffen ist, vorausgegangen ist, für einen Zeitraum von mindestens acht Kalendermonaten nicht mehr als 50 Arbeitnehmer beschäftigt hat. Hat das Unternehmen nicht während des ganzen nach Satz 1 maßgebenden Kalenderjahrs bestanden, so beschäftigt der Arbeitgeber in der Regel nicht mehr als 50 Arbeitnehmer, wenn er während des Zeitraums des Bestehens des Unternehmens in der überwiegenden Zahl der Kalendermonate nicht mehr als 50 Arbeitnehmer beschäftigt hat. Ist das Unternehmen im Laufe des Kalenderjahrs errichtet worden, in dem die Feststellung nach Satz 1 zu treffen ist, so beschäftigt der Arbeitgeber in der Regel nicht mehr als 50 Arbeitnehmer, wenn nach der Art des Unternehmens anzunehmen ist, dass die Zahl der beschäftigten Arbeitnehmer während der überwiegenden Kalendermonate dieses Kalenderjahrs 50 nicht überschreiten wird.
 
@@ -110,8 +101,7 @@ und
 
 (4) Bei der Ermittlung der Zahl der in Altersteilzeitarbeit beschäftigten Arbeitnehmer nach § 3 Abs. 1 Nr. 3 sind schwerbehinderte Menschen und Gleichgestellte im Sinne des Neunten Buches Sozialgesetzbuch zu berücksichtigen.
 
-
-## § 8 – Arbeitsrechtliche Regelungen
+# § 8 – Arbeitsrechtliche Regelungen
 
 (1) Die Möglichkeit eines Arbeitnehmers zur Inanspruchnahme von Altersteilzeitarbeit gilt nicht als eine die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber begründende Tatsache im Sinne des § 1 Abs. 2 Satz 1 des Kündigungsschutzgesetzes; sie kann auch nicht bei der sozialen Auswahl nach § 1 Abs. 3 Satz 1 des Kündigungsschutzgesetzes zum Nachteil des Arbeitnehmers berücksichtigt werden.
 
@@ -119,8 +109,7 @@ und
 
 (3) Eine Vereinbarung zwischen Arbeitnehmer und Arbeitgeber über die Altersteilzeitarbeit, die die Beendigung des Arbeitsverhältnisses ohne Kündigung zu einem Zeitpunkt vorsieht, in dem der Arbeitnehmer Anspruch auf eine Rente wegen Alters hat, ist zulässig.
 
-
-## § 8a – Insolvenzsicherung
+# § 8a – Insolvenzsicherung
 
 (1) Führt eine Vereinbarung über die Altersteilzeitarbeit im Sinne von § 2 Abs. 2 zum Aufbau eines Wertguthabens, das den Betrag des Dreifachen des Regelarbeitsentgelts nach § 6 Abs. 1 einschließlich des darauf entfallenden Arbeitgeberanteils am Gesamtsozialversicherungsbeitrag übersteigt, ist der Arbeitgeber verpflichtet, das Wertguthaben einschließlich des darauf entfallenden Arbeitgeberanteils am Gesamtsozialversicherungsbeitrag mit der ersten Gutschrift in geeigneter Weise gegen das Risiko seiner Zahlungsunfähigkeit abzusichern; § 7e des Vierten Buches Sozialgesetzbuch findet keine Anwendung. Bilanzielle Rückstellungen sowie zwischen Konzernunternehmen (§ 18 des Aktiengesetzes) begründete Einstandspflichten, insbesondere Bürgschaften, Patronatserklärungen oder Schuldbeitritte, gelten nicht als geeignete Sicherungsmittel im Sinne des Satzes 1.
 
@@ -134,15 +123,13 @@ und
 
 (6) Die Absätze 1 bis 5 finden keine Anwendung gegenüber dem Bund, den Ländern, den Gemeinden, Körperschaften, Stiftungen und Anstalten des öffentlichen Rechts, über deren Vermögen die Eröffnung eines Insolvenzverfahrens nicht zulässig ist, sowie solchen juristischen Personen des öffentlichen Rechts, bei denen der Bund, ein Land oder eine Gemeinde kraft Gesetzes die Zahlungsfähigkeit sichert.
 
-
-## § 9 – Ausgleichskassen, gemeinsame Einrichtungen
+# § 9 – Ausgleichskassen, gemeinsame Einrichtungen
 
 (1) Werden die Leistungen nach § 3 Abs. 1 Nr. 1 auf Grund eines Tarifvertrages von einer Ausgleichskasse der Arbeitgeber erbracht oder dem Arbeitgeber erstattet, gewährt die Bundesagentur auf Antrag der Tarifvertragsparteien die Leistungen nach § 4 der Ausgleichskasse.
 
 (2) Für gemeinsame Einrichtungen der Tarifvertragsparteien gilt Absatz 1 entsprechend.
 
-
-## § 10 – Soziale Sicherung des Arbeitnehmers
+# § 10 – Soziale Sicherung des Arbeitnehmers
 
 (1) Beansprucht ein Arbeitnehmer, der Altersteilzeitarbeit (§ 2) geleistet hat und für den der Arbeitgeber Leistungen nach § 3 Abs. 1 Nr. 1 erbracht hat, Arbeitslosengeld oder Arbeitslosenhilfe, erhöht sich das Bemessungsentgelt, das sich nach den Vorschriften des Dritten Buches Sozialgesetzbuch ergibt, bis zu dem Betrag, der als Bemessungsentgelt zugrunde zu legen wäre, wenn der Arbeitnehmer seine Arbeitszeit nicht im Rahmen der Altersteilzeit vermindert hätte. Kann der Arbeitnehmer eine Rente wegen Alters in Anspruch nehmen, ist von dem Tage an, an dem die Rente erstmals beansprucht werden kann, das Bemessungsentgelt maßgebend, das ohne die Erhöhung nach Satz 1 zugrunde zu legen gewesen wäre. Änderungsbescheide werden mit dem Tag wirksam, an die Altersrente erstmals beansprucht werden konnte.
 
@@ -154,8 +141,7 @@ und
 
 (5) Sind für den Arbeitnehmer Aufstockungsleistungen nach § 3 Abs. 1 Nr. 1 Buchstabe a und b gezahlt worden, gilt in den Fällen der nicht zweckentsprechenden Verwendung von Wertguthaben für die Berechnung der Beiträge zur gesetzlichen Rentenversicherung der Unterschiedsbetrag zwischen dem Betrag, den der Arbeitgeber der Berechnung der Beiträge nach § 3 Abs. 1 Nr. 1 Buchstabe b zugrunde gelegt hat, und dem Doppelten des Regelarbeitsentgelts bis zum Zeitpunkt der nicht zweckentsprechenden Verwendung, höchstens bis zur Beitragsbemessungsgrenze, als beitragspflichtige Einnahme aus dem Wertguthaben; für die Beiträge zur Krankenversicherung, Pflegeversicherung oder nach dem Recht der Arbeitsförderung gilt § 23b Abs. 2 bis 3 des Vierten Buches Sozialgesetzbuch. Im Falle der Zahlungsunfähigkeit des Arbeitgebers gilt Satz 1 entsprechend, soweit Beiträge gezahlt werden.
 
-
-## § 11 – Mitwirkungspflichten des Arbeitnehmers
+# § 11 – Mitwirkungspflichten des Arbeitnehmers
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse, die für die Leistungen nach § 4 erheblich sind, dem Arbeitgeber unverzüglich mitzuteilen. Werden im Fall des § 9 die Leistungen von der Ausgleichskasse der Arbeitgeber oder der gemeinsamen Einrichtung der Tarifvertragsparteien erbracht, hat der Arbeitnehmer Änderungen nach Satz 1 diesen gegenüber unverzüglich mitzuteilen.
 
@@ -167,8 +153,7 @@ und
 
 Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt festzusetzen. Eine Erstattung durch den Arbeitgeber kommt insoweit nicht in Betracht.
 
-
-## § 12 – Verfahren
+# § 12 – Verfahren
 
 (1) Die Agentur für Arbeit entscheidet auf Antrag des Arbeitgebers, ob die Voraussetzungen für die Erbringung von Leistungen nach § 4 vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der Anspruchsvoraussetzungen, wenn er innerhalb von drei Monaten nach deren Vorliegen gestellt wird, andernfalls wirkt er vom Beginn des Monats der Antragstellung. In den Fällen des § 3 Abs. 3 kann die Agentur für Arbeit auch vorab entscheiden, ob die Voraussetzungen des § 2 vorliegen. Mit dem Antrag sind die Namen, Anschriften und Versicherungsnummern der Arbeitnehmer mitzuteilen, für die Leistungen beantragt werden. Zuständig ist die Agentur für Arbeit, in deren Bezirk der Betrieb liegt, in dem der Arbeitnehmer beschäftigt ist. Die Bundesagentur erklärt eine andere Agentur für Arbeit für zuständig, wenn der Arbeitgeber dafür ein berechtigtes Interesse glaubhaft macht.
 
@@ -178,13 +163,11 @@ Die zu erstattende Leistung ist durch schriftlichen Verwaltungsakt festzusetzen.
 
 (4) Über die Erbringung von Leistungen kann die Agentur für Arbeit vorläufig entscheiden, wenn die Voraussetzungen für den Anspruch mit hinreichender Wahrscheinlichkeit vorliegen und zu ihrer Feststellung voraussichtlich längere Zeit erforderlich ist. Aufgrund der vorläufigen Entscheidung erbrachte Leistungen sind auf die zustehende Leistung anzurechnen. Sie sind zu erstatten, soweit mit der abschließenden Entscheidung ein Anspruch nicht oder nur in geringerer Höhe zuerkannt wird.
 
-
-## § 13 – Auskünfte und Prüfung
+# § 13 – Auskünfte und Prüfung
 
 Die §§ 315 und 319 des Dritten Buches und das Zweite Kapitel des Zehnten Buches Sozialgesetzbuch gelten entsprechend. § 2 Abs. 1 Satz 1 Nummer 3 des Schwarzarbeitsbekämpfungsgesetzes bleibt unberührt.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -204,55 +187,44 @@ Die §§ 315 und 319 des Dritten Buches und das Zweite Kapitel des Zehnten Buche
 
 (5) Die notwendigen Auslagen trägt abweichend von § 105 Abs. 2 des Gesetzes über Ordnungswidrigkeiten die Bundesagentur; diese ist auch ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über Ordnungswidrigkeiten.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## § 15a – Übergangsregelung nach dem Gesetz zur Reform der Arbeitsförderung
+# § 15a – Übergangsregelung nach dem Gesetz zur Reform der Arbeitsförderung
 
 Haben die Voraussetzungen für die Erbringung von Leistungen nach § 4 vor dem 1. April 1997 vorgelegen, erbringt die Bundesagentur die Leistungen nach § 4 auch dann, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und Abs. 2 Nr. 1 in der bis zum 31. März 1997 geltenden Fassung vorliegen.
 
-
-## § 15b – Übergangsregelung nach dem Gesetz zur Reform der gesetzlichen Rentenversicherung
+# § 15b – Übergangsregelung nach dem Gesetz zur Reform der gesetzlichen Rentenversicherung
 
 Abweichend von § 5 Abs. 1 Nr. 2 erlischt der Anspruch auf die Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1. Juli 1998 begonnen worden ist und Anspruch auf eine ungeminderte Rente wegen Alters besteht, weil 45 Jahre mit Pflichtbeiträgen für eine versicherte Beschäftigung oder Tätigkeit vorliegen.
 
-
-## § 15c – Übergangsregelung nach dem Gesetz zur Fortentwicklung der Altersteilzeit
+# § 15c – Übergangsregelung nach dem Gesetz zur Fortentwicklung der Altersteilzeit
 
 Ist eine Vereinbarung über Altersteilzeitarbeit vor dem 1. Januar 2000 abgeschlossen worden, erbringt die Bundesagentur die Leistungen nach § 4 auch dann, wenn die Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 in der bis zum 1. Januar 2000 geltenden Fassung vorliegen.
 
-
-## § 15d – Übergangsregelung zum Zweiten Gesetz zur Fortentwicklung der Altersteilzeit
+# § 15d – Übergangsregelung zum Zweiten Gesetz zur Fortentwicklung der Altersteilzeit
 
 Ist eine Vereinbarung über Altersteilzeitarbeit vor dem 1. Juli 2000 abgeschlossen worden, gelten § 5 Abs. 2 Satz 2 und § 6 Abs. 2 Satz 2 in der bis zum 1. Juli 2000 geltenden Fassung. Sollen bei einer Vereinbarung nach Satz 1 Leistungen nach § 4 für einen Zeitraum von länger als fünf Jahren beansprucht werden, gilt § 5 Abs. 2 Satz 2 in der ab dem 1. Juli 2000 geltenden Fassung.
 
-
-## § 15e – Übergangsregelung nach dem Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit
+# § 15e – Übergangsregelung nach dem Gesetz zur Reform der Renten wegen verminderter Erwerbsfähigkeit
 
 Abweichend von § 5 Abs. 1 Nr. 2 erlischt der Anspruch auf die Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 17. November 2000 begonnen worden ist und Anspruch auf eine ungeminderte Rente wegen Alters besteht, weil die Voraussetzungen nach § 236a Satz 5 Nr. 1 des Sechsten Buches Sozialgesetzbuch vorliegen.
 
-
-## § 15f – Übergangsregelung nach dem Zweiten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
+# § 15f – Übergangsregelung nach dem Zweiten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
 
 Wurde mit der Altersteilzeit vor dem 1. April 2003 begonnen, gelten Arbeitnehmer, die bis zu diesem Zeitpunkt in einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch Sozialgesetzbuch gestanden haben, auch nach dem 1. April 2003 als versicherungspflichtig beschäftigt, wenn sie die bis zum 31. März 2003 geltenden Voraussetzungen für das Vorliegen einer versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
-
-## § 15g – Übergangsregelung zum Dritten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
+# § 15g – Übergangsregelung zum Dritten Gesetz für moderne Dienstleistungen am Arbeitsmarkt
 
 Wurde mit der Altersteilzeitarbeit vor dem 1. Juli 2004 begonnen, sind die Vorschriften in der bis zum 30. Juni 2004 geltenden Fassung mit Ausnahme des § 15 weiterhin anzuwenden. Auf Antrag des Arbeitgebers erbringt die Bundesagentur abweichend von Satz 1 Leistungen nach § 4 in der ab dem 1. Juli 2004 geltenden Fassung, wenn die hierfür ab dem 1. Juli 2004 maßgebenden Voraussetzungen erfüllt sind.
 
-
-## § 15h – Übergangsregelung zum Gesetz über Leistungsverbesserungen in der gesetzlichen Rentenversicherung
+# § 15h – Übergangsregelung zum Gesetz über Leistungsverbesserungen in der gesetzlichen Rentenversicherung
 
 Abweichend von § 5 Absatz 1 Nummer 2 erlischt der Anspruch auf die Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1. Januar 2010 begonnen worden ist und die Voraussetzungen für einen Anspruch auf eine Rente für besonders langjährig Versicherte nach § 236b des Sechsten Buches Sozialgesetzbuch erfüllt sind.
 
-
-## § 15i – Übergangsregelung zum Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+# § 15i – Übergangsregelung zum Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
 
 Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten Arbeitnehmerinnen und Arbeitnehmer, die bis zu diesem Zeitpunkt in einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch Sozialgesetzbuch gestanden haben, auch nach dem 31. Dezember 2012 als versicherungspflichtig beschäftigt, wenn sie die bis zum 31. Dezember 2012 geltenden Voraussetzungen für das Vorliegen einer versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
-
-## § 16 – Befristung der Förderungsfähigkeit
+# § 16 – Befristung der Förderungsfähigkeit
 
 Für die Zeit ab dem 1. Januar 2010 sind Leistungen nach § 4 nur noch zu erbringen, wenn die Voraussetzungen des § 2 erstmals vor diesem Zeitpunkt vorgelegen haben.

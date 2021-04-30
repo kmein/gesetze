@@ -1,15 +1,11 @@
-# [IAEOBen/IAEOHiLÜbkG] Gesetz zu den IAEO-Übereinkommen vom 26. September 1986 über die frühzeitige Benachrichtigung bei nuklearen Unfällen sowie über Hilfeleistung bei nuklearen Unfällen oder radiologischen Notfällen  (Gesetz zu dem IAEO-Benachrichtigungsübereinkommen und zu dem IAEO-Hilfeleistungsübereinkommen)
-
-Ausfertigungsdatum: 16.05.1989
-
+% Gesetz zu den IAEO-Übereinkommen vom 26. September 1986 über die frühzeitige Benachrichtigung bei nuklearen Unfällen sowie über Hilfeleistung bei nuklearen Unfällen oder radiologischen Notfällen  (Gesetz zu dem IAEO-Benachrichtigungsübereinkommen und zu dem IAEO-Hilfeleistungsübereinkommen)
+% Ausfertigungsdatum: 16.05.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Den folgenden, in Wien am 26. September 1986 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen, wird zugestimmt:
 
@@ -19,18 +15,15 @@ Den folgenden, in Wien am 26. September 1986 von der Bundesrepublik Deutschland 
 
 Die Übereinkommen werden nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Soweit die Bundesrepublik Deutschland als ersuchender Staat nach Artikel 10 Abs. 2 des IAEO-Übereinkommens vom 26. September 1986 über Hilfeleistung bei nuklearen Unfällen oder radiologischen Notfällen die hilfeleistende Partei oder die für sie tätigen natürlichen Personen oder anderen Rechtsträger entschädigt, gehen deren Ansprüche nach den Artikeln 3, 4 und 6 des Pariser Übereinkommens vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie und des Zusatzprotokolls vom 28. Januar 1964 in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. II S. 963) gegen den Inhaber der Kernanlage oder gegen denjenigen, der aus einer sonstigen Tätigkeit nach Artikel 1 Abs. 2 des IAEO-Übereinkommens über die frühzeitige Benachrichtigung bei nuklearen Unfällen haftbar ist, auf sie über.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

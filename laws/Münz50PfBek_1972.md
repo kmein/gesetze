@@ -1,10 +1,7 @@
-# [Münz50PfBek 1972] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
-
-Ausfertigungsdatum: 12.09.1972
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 50 Deutschen Pfennig
+% Ausfertigungsdatum: 12.09.1972
  
-
-## ----
+# ----
 
 (1) Die auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 herausgegebenen Münzen zu 50 Deutschen Pfennig, die bisher mit geriffeltem Rand hergestellt worden sind, werden ab Jahreszahl 1972 mit glattem Rand geprägt und demnächst in den Verkehr gegeben.
 
@@ -12,7 +9,6 @@ Ausfertigungsdatum: 12.09.1972
 
 (3) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen

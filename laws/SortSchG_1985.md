@@ -1,10 +1,7 @@
-# [SortSchG 1985] Sortenschutzgesetz
-
-Ausfertigungsdatum: 11.12.1985
-
+% Sortenschutzgesetz
+% Ausfertigungsdatum: 11.12.1985
  
-
-## § 1 – Voraussetzungen des Sortenschutzes
+# § 1 – Voraussetzungen des Sortenschutzes
 
 (1) Sortenschutz wird für eine Pflanzensorte (Sorte) erteilt, wenn sie
 
@@ -22,15 +19,13 @@ ist.
 
 (2) Für eine Sorte, die Gegenstand eines gemeinschaftlichen Sortenschutzes ist, wird ein Sortenschutz nach diesem Gesetz nicht erteilt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
 1. Arten: Pflanzenarten sowie Zusammenfassungen und Unterteilungen von Pflanzenarten,
 
-1a.  
-Sorte: eine Gesamtheit von Pflanzen oder Pflanzenteilen, soweit aus diesen wieder vollständige Pflanzen gewonnen werden können, innerhalb eines bestimmten Taxons der untersten bekannten Rangstufe, die, unabhängig davon, ob sie den Voraussetzungen für die Erteilung eines Sortenschutzes entspricht,
+1a. Sorte: eine Gesamtheit von Pflanzen oder Pflanzenteilen, soweit aus diesen wieder vollständige Pflanzen gewonnen werden können, innerhalb eines bestimmten Taxons der untersten bekannten Rangstufe, die, unabhängig davon, ob sie den Voraussetzungen für die Erteilung eines Sortenschutzes entspricht,
 
 a) durch die sich aus einem bestimmten Genotyp oder einer bestimmten Kombination von Genotypen ergebende Ausprägung der Merkmale definiert,
 
@@ -50,8 +45,7 @@ werden kann,
 
 6. Verbandsmitglied: Staat, der oder zwischenstaatliche Organisation, die Mitglied des Internationalen Verbandes zum Schutz von Pflanzenzüchtungen ist.
 
-
-## § 3 – Unterscheidbarkeit
+# § 3 – Unterscheidbarkeit
 
 (1) Eine Sorte ist unterscheidbar, wenn sie sich in der Ausprägung wenigstens eines maßgebenden Merkmals von jeder anderen am Antragstag allgemein bekannten Sorte deutlich unterscheiden läßt. Das Bundessortenamt teilt auf Anfrage für jede Art die Merkmale mit, die es für die Unterscheidbarkeit der Sorten dieser Art als maßgebend ansieht; die Merkmale müssen genau erkannt und beschrieben werden können.
 
@@ -63,18 +57,15 @@ werden kann,
 
 3. Vermehrungsmaterial oder Erntegut der Sorte bereits zu gewerblichen Zwecken in den Verkehr gebracht worden ist.
 
-
-## § 4 – Homogenität
+# § 4 – Homogenität
 
 Eine Sorte ist homogen, wenn sie, abgesehen von Abweichungen auf Grund der Besonderheiten ihrer Vermehrung, in der Ausprägung der für die Unterscheidbarkeit maßgebenden Merkmale hinreichend einheitlich ist.
 
-
-## § 5 – Beständigkeit
+# § 5 – Beständigkeit
 
 Eine Sorte ist beständig, wenn sie in der Ausprägung der für die Unterscheidbarkeit maßgebenden Merkmale nach jeder Vermehrung oder, im Falle eines Vermehrungszyklus, nach jedem Vermehrungszyklus unverändert bleibt.
 
-
-## § 6 – Neuheit
+# § 6 – Neuheit
 
 (1) Eine Sorte gilt als neu, wenn Pflanzen oder Pflanzenteile der Sorte mit Zustimmung des Berechtigten oder seines Rechtsvorgängers vor dem Antragstag nicht oder nur innerhalb folgender Zeiträume zu gewerblichen Zwecken an andere abgegeben worden sind:
 
@@ -98,8 +89,7 @@ steht der Neuheit nicht entgegen.
 
 (3) Vermehrungsmaterial einer Sorte, das fortlaufend für die Erzeugung einer anderen Sorte verwendet wird, gilt erst dann als abgegeben im Sinne des Absatzes 1, wenn Pflanzen oder Pflanzenteile der anderen Sorte abgegeben worden sind.
 
-
-## § 7 – Sortenbezeichnung
+# § 7 – Sortenbezeichnung
 
 (1) Eine Sortenbezeichnung ist eintragbar, wenn kein Ausschließungsgrund nach Absatz 2 oder 3 vorliegt.
 
@@ -127,22 +117,19 @@ Das Bundessortenamt macht bekannt, welche Arten es als verwandt im Sinne der Num
 
 in einem amtlichen Verzeichnis von Sorten eingetragen oder ist ihre Eintragung in ein solches Verzeichnis beantragt worden, so ist nur die dort eingetragene oder angegebene Sortenbezeichnung eintragbar. Dies gilt nicht, wenn ein Ausschließungsgrund nach Absatz 2 entgegensteht oder der Antragsteller glaubhaft macht, daß ein Recht eines Dritten entgegensteht.
 
-
-## § 8 – Recht auf Sortenschutz
+# § 8 – Recht auf Sortenschutz
 
 (1) Das Recht auf Sortenschutz steht dem Ursprungszüchter oder Entdecker der Sorte oder seinem Rechtsnachfolger zu. Haben mehrere die Sorte gemeinsam gezüchtet oder entdeckt, so steht ihnen das Recht gemeinschaftlich zu.
 
 (2) Der Antragsteller gilt im Verfahren vor dem Bundessortenamt als Berechtigter, es sei denn, daß dem Bundessortenamt bekannt wird, daß ihm das Recht auf Sortenschutz nicht zusteht.
 
-
-## § 9 – Nichtberechtigter Antragsteller
+# § 9 – Nichtberechtigter Antragsteller
 
 (1) Hat ein Nichtberechtigter Sortenschutz beantragt, so kann der Berechtigte vom Antragsteller verlangen, daß dieser ihm den Anspruch auf Erteilung des Sortenschutzes überträgt.
 
 (2) Ist einem Nichtberechtigten Sortenschutz erteilt worden, so kann der Berechtigte vom Sortenschutzinhaber verlangen, daß dieser ihm den Sortenschutz überträgt. Dieser Anspruch erlischt fünf Jahre nach der Bekanntmachung der Eintragung in die Sortenschutzrolle, es sei denn, daß der Sortenschutzinhaber beim Erwerb des Sortenschutzes nicht in gutem Glauben war.
 
-
-## § 10 – Wirkung des Sortenschutzes
+# § 10 – Wirkung des Sortenschutzes
 
 (1) Vorbehaltlich der §§ 10a und 10b hat der Sortenschutz die Wirkung, daß allein der Sortenschutzinhaber berechtigt ist,
 
@@ -170,8 +157,7 @@ b) zu einem der unter Buchstabe a genannten Zwecke aufzubewahren,
 
 3. sie in der Ausprägung der Merkmale, die aus dem Genotyp oder einer Kombination von Genotypen der Ausgangssorte herrühren, abgesehen von Unterschieden, die sich aus der verwendeten Ableitungsmethode ergeben, mit der Ausgangssorte im wesentlichen übereinstimmt.
 
-
-## § 10a – Beschränkung der Wirkung des Sortenschutzes
+# § 10a – Beschränkung der Wirkung des Sortenschutzes
 
 (1) Die Wirkung des Sortenschutzes erstreckt sich nicht auf Handlungen nach § 10 Abs. 1
 
@@ -193,8 +179,7 @@ b) zu einem der unter Buchstabe a genannten Zwecke aufzubewahren,
 
 (7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung das Verzeichnis der in der Anlage aufgeführten Arten zu ändern, soweit dies im Interesse einer Anpassung an das Verzeichnis des gemeinschaftlichen Sortenschutzes erforderlich ist.
 
-
-## § 10b – Erschöpfung des Sortenschutzes
+# § 10b – Erschöpfung des Sortenschutzes
 
 Der Sortenschutz erstreckt sich nicht auf Handlungen, die vorgenommen werden mit Pflanzen, Pflanzenteilen oder daraus unmittelbar gewonnenen Erzeugnissen (Material) der geschützten Sorte oder einer Sorte, auf die sich der Sortenschutz nach § 10 Abs. 1 Nr. 1 ebenfalls erstreckt, das vom Sortenschutzinhaber oder mit seiner Zustimmung in den Verkehr gebracht worden ist, es sei denn, daß diese Handlungen
 
@@ -202,13 +187,11 @@ Der Sortenschutz erstreckt sich nicht auf Handlungen, die vorgenommen werden mit
 
 2. eine Ausfuhr von Material der Sorte, das die Vermehrung der Sorte ermöglicht, in ein Land einschließen, das Sorten der Art, der die Sorte zugehört, nicht schützt; dies gilt nicht, wenn das ausgeführte Material zum Anbau bestimmt ist.
 
-
-## § 10c – Ruhen des Sortenschutzes
+# § 10c – Ruhen des Sortenschutzes
 
 Wird dem Inhaber eines nach diesem Gesetz erteilten Sortenschutzes für dieselbe Sorte ein gemeinschaftlicher Sortenschutz erteilt, so können für die Dauer des Bestehens des gemeinschaftlichen Sortenschutzes Rechte aus dem nach diesem Gesetz erteilten Sortenschutz nicht geltend gemacht werden.
 
-
-## § 11 – Rechtsnachfolge, Nutzungsrechte
+# § 11 – Rechtsnachfolge, Nutzungsrechte
 
 (1) Das Recht auf Sortenschutz, der Anspruch auf Erteilung des Sortenschutzes und der Sortenschutz sind auf natürliche und juristische Personen oder Personenhandelsgesellschaften, die die Anforderungen nach § 15 erfüllen, übertragbar.
 
@@ -216,8 +199,7 @@ Wird dem Inhaber eines nach diesem Gesetz erteilten Sortenschutzes für dieselbe
 
 (3) Soweit ein Nutzungsberechtigter gegen eine Beschränkung des Nutzungsrechtes nach Absatz 2 verstößt, kann der Sortenschutz gegen ihn geltend gemacht werden.
 
-
-## § 12 – Zwangsnutzungsrecht
+# § 12 – Zwangsnutzungsrecht
 
 (1) Das Bundessortenamt kann auf Antrag, soweit es unter Berücksichtigung der wirtschaftlichen Zumutbarkeit für den Sortenschutzinhaber im öffentlichen Interesse geboten ist, ein Zwangsnutzungsrecht an dem Sortenschutz hinsichtlich der Berechtigungen nach § 10 zu angemessenen Bedingungen erteilen, wenn der Sortenschutzinhaber kein oder kein genügendes Nutzungsrecht einräumt. Das Bundessortenamt setzt bei der Erteilung des Zwangsnutzungsrechtes die Bedingungen, insbesondere die Höhe der an den Sortenschutzinhaber zu zahlenden Vergütung, fest.
 
@@ -233,8 +215,7 @@ Wird dem Inhaber eines nach diesem Gesetz erteilten Sortenschutzes für dieselbe
 
 3. welches Gewicht oder welche Stückzahl für die Partien angegeben worden ist.
 
-
-## § 12a – Zwangsnutzungsrecht bei biotechnologischen Erfindungen
+# § 12a – Zwangsnutzungsrecht bei biotechnologischen Erfindungen
 
 (1) Kann der Inhaber eines Patents für eine biotechnologische Erfindung (§ 1 Abs. 2 des Patentgesetzes) diese nicht verwerten, ohne ein früher erteiltes Sortenschutzrecht zu verletzen, so erteilt das Bundessortenamt auf Antrag nach Maßgabe der Absätze 3 und 4 ein Zwangsnutzungsrecht an dem Sortenschutz hinsichtlich der Berechtigungen nach § 10 zu angemessenen Bedingungen.
 
@@ -248,13 +229,11 @@ Wird dem Inhaber eines nach diesem Gesetz erteilten Sortenschutzes für dieselbe
 
 (4) Das Bundessortenamt setzt bei der Erteilung des Zwangsnutzungsrechts die Bedingungen, insbesondere die Höhe der an den Sortenschutzinhaber zu zahlenden Vergütung, fest. § 12 Abs. 2 und 4 gilt entsprechend.
 
-
-## § 13 – Dauer des Sortenschutzes
+# § 13 – Dauer des Sortenschutzes
 
 Der Sortenschutz dauert bis zum Ende des fünfundzwanzigsten, bei Hopfen, Kartoffel, Rebe und Baumarten bis zum Ende des dreißigsten auf die Erteilung folgenden Kalenderjahres.
 
-
-## § 14 – Verwendung der Sortenbezeichnung
+# § 14 – Verwendung der Sortenbezeichnung
 
 (1) Vermehrungsmaterial einer geschützten Sorte darf, außer im privaten Bereich zu nichtgewerblichen Zwecken, nur in den Verkehr gebracht werden, wenn hierbei die Sortenbezeichnung angegeben ist; bei schriftlicher Angabe muß diese leicht erkennbar und deutlich lesbar sein. Dies gilt auch, wenn der Sortenschutz abgelaufen ist.
 
@@ -262,8 +241,7 @@ Der Sortenschutz dauert bis zum Ende des fünfundzwanzigsten, bei Hopfen, Kartof
 
 (3) Die Sortenbezeichnung einer geschützten Sorte oder einer Sorte, für die von einem anderen Verbandsmitglied ein Züchterrecht erteilt worden ist, oder eine mit ihr verwechselbare Bezeichnung darf für eine andere Sorte derselben oder einer verwandten Art nicht verwendet werden.
 
-
-## § 15 – Persönlicher Anwendungsbereich
+# § 15 – Persönlicher Anwendungsbereich
 
 (1) Die Rechte aus diesem Gesetz stehen nur zu
 
@@ -275,15 +253,13 @@ Der Sortenschutz dauert bis zum Ende des fünfundzwanzigsten, bei Hopfen, Kartof
 
 (2) Wer in einem Vertragsstaat weder Wohnsitz noch Niederlassung hat, kann an einem in diesem Gesetz geregelten Verfahren nur teilnehmen und Rechte aus diesem Gesetz nur geltend machen, wenn er einen Vertreter mit Wohnsitz oder Geschäftsräumen in einem Vertragsstaat (Verfahrensvertreter) bestellt hat.
 
-
-## § 16 – Stellung und Aufgaben
+# § 16 – Stellung und Aufgaben
 
 (1) Das Bundessortenamt ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft.
 
 (2) Das Bundessortenamt ist zuständig für die Erteilung des Sortenschutzes und die hiermit zusammenhängenden Angelegenheiten. Es führt die Sortenschutzrolle und prüft das Fortbestehen der geschützten Sorten nach.
 
-
-## § 17 – Mitglieder
+# § 17 – Mitglieder
 
 (1) Das Bundessortenamt besteht aus dem Präsidenten und weiteren Mitgliedern. Sie müssen besondere Fachkunde auf dem Gebiet des Sortenwesens (fachkundige Mitglieder) oder die Befähigung zum Richteramt nach dem Deutschen Richtergesetz (rechtskundige Mitglieder) haben. Sie werden vom Bundesministerium für Ernährung und Landwirtschaft für die Dauer ihrer Tätigkeit beim Bundessortenamt berufen.
 
@@ -291,8 +267,7 @@ Der Sortenschutz dauert bis zum Ende des fünfundzwanzigsten, bei Hopfen, Kartof
 
 (3) Wenn ein voraussichtlich zeitlich begrenztes Bedürfnis besteht, kann der Präsident Personen als Hilfsmitglieder mit den Verrichtungen von Mitgliedern des Bundessortenamtes beauftragen. Der Auftrag kann auf eine bestimmte Zeit oder für die Dauer des Bedürfnisses erteilt werden und ist so lange nicht widerruflich. Im übrigen sind die Vorschriften über Mitglieder auch auf Hilfsmitglieder anzuwenden.
 
-
-## § 18 – Prüfabteilungen und Widerspruchsausschüsse
+# § 18 – Prüfabteilungen und Widerspruchsausschüsse
 
 (1) Im Bundessortenamt werden gebildet
 
@@ -318,15 +293,13 @@ Der Präsident setzt ihre Zahl fest und regelt die Geschäftsverteilung.
 
 (3) Die Widerspruchsausschüsse sind zuständig für die Entscheidung über Widersprüche gegen Entscheidungen der Prüfabteilungen.
 
-
-## § 19 – Zusammensetzung der Prüfabteilungen
+# § 19 – Zusammensetzung der Prüfabteilungen
 
 (1) Die Prüfabteilungen bestehen jeweils aus einem vom Präsidenten bestimmten fachkundigen Mitglied des Bundessortenamtes.
 
 (2) In den Fällen des § 18 Abs. 2 Nr. 2, 5 und 6 entscheidet die Prüfabteilung in der Besetzung von drei Mitgliedern des Bundessortenamtes, die der Präsident bestimmt und von denen eines rechtskundig sein muß.
 
-
-## § 20 – Zusammensetzung der Widerspruchsausschüsse
+# § 20 – Zusammensetzung der Widerspruchsausschüsse
 
 (1) Die Widerspruchsausschüsse bestehen jeweils aus dem Präsidenten oder einem von ihm bestimmten weiteren Mitglied des Bundessortenamtes als Vorsitzendem, zwei vom Präsidenten bestimmten weiteren Mitgliedern des Bundessortenamtes als Beisitzern und zwei ehrenamtlichen Beisitzern. Von den Mitgliedern des Bundessortenamtes müssen zwei fachkundig und eines rechtskundig sein.
 
@@ -334,20 +307,17 @@ Der Präsident setzt ihre Zahl fest und regelt die Geschäftsverteilung.
 
 (3) Die Widerspruchsausschüsse sind bei Anwesenheit des Vorsitzenden und eines Beisitzers, von denen einer rechtskundig sein muß, sowie eines ehrenamtlichen Beisitzers beschlußfähig.
 
-
-## § 21 – Förmliches Verwaltungsverfahren
+# § 21 – Förmliches Verwaltungsverfahren
 
 Auf das Verfahren vor den Prüfabteilungen und den Widerspruchsausschüssen sind die Vorschriften der §§ 63 bis 69 und 71 des Verwaltungsverfahrensgesetzes über das förmliche Verwaltungsverfahren anzuwenden.
 
-
-## § 22 – Sortenschutzantrag
+# § 22 – Sortenschutzantrag
 
 (1) Der Antragsteller hat im Sortenschutzantrag den oder die Ursprungszüchter oder Entdecker der Sorte anzugeben und zu versichern, daß seines Wissens weitere Personen an der Züchtung oder Entdeckung der Sorte nicht beteiligt sind. Ist der Antragsteller nicht oder nicht allein der Ursprungszüchter oder Entdecker, so hat er anzugeben, wie die Sorte an ihn gelangt ist. Das Bundessortenamt ist nicht verpflichtet, diese Angaben zu prüfen.
 
 (2) Der Antragsteller hat die Sortenbezeichnung anzugeben. Für das Verfahren zur Erteilung des Sortenschutzes kann er mit Zustimmung des Bundessortenamtes eine vorläufige Bezeichnung angeben.
 
-
-## § 23 – Zeitrang des Sortenschutzantrags
+# § 23 – Zeitrang des Sortenschutzantrags
 
 (1) Der Zeitrang des Sortenschutzantrags bestimmt sich im Zweifel nach der Reihenfolge der Eintragungen in das Eingangsbuch des Bundessortenamtes.
 
@@ -355,15 +325,13 @@ Auf das Verfahren vor den Prüfabteilungen und den Widerspruchsausschüssen sind
 
 (3) Ist die Sortenbezeichnung für Waren, die Vermehrungsmaterial der Sorte umfassen, als Marke für den Antragsteller in der Zeichenrolle des Patentamts eingetragen oder zur Eintragung angemeldet, so steht ihm der Zeitrang der Anmeldung der Marke als Zeitvorrang für die Sortenbezeichnung zu. Der Zeitvorrang erlischt, wenn der Antragsteller nicht innerhalb von drei Monaten nach Angabe der Sortenbezeichnung dem Bundessortenamt eine Bescheinigung des Patentamts über die Eintragung oder Anmeldung der Marke vorlegt. Die Sätze 1 und 2 gelten entsprechend für Marken, die nach dem Madrider Abkommen vom 14. April 1891 über die internationale Registrierung von Marken in der jeweils geltenden Fassung international registriert worden sind und im Inland Schutz genießen.
 
-
-## § 24 – Bekanntmachung des Sortenschutzantrags
+# § 24 – Bekanntmachung des Sortenschutzantrags
 
 (1) Das Bundessortenamt macht den Sortenschutzantrag unter Angabe der Art, der angegebenen Sortenbezeichnung oder vorläufigen Bezeichnung, des Antragstages sowie des Namens und der Anschrift des Antragstellers, des Ursprungszüchters oder Entdeckers und eines Verfahrensvertreters bekannt.
 
 (2) Ist der Antrag nach seiner Bekanntmachung zurückgenommen worden, gilt er nach § 27 Abs. 2 wegen Säumnis als nicht gestellt oder ist die Erteilung des Sortenschutzes abgelehnt worden, so macht das Bundessortenamt dies ebenfalls bekannt.
 
-
-## § 25 – Einwendungen
+# § 25 – Einwendungen
 
 (1) Gegen die Erteilung des Sortenschutzes kann jeder beim Bundessortenamt schriftlich Einwendungen erheben.
 
@@ -387,8 +355,7 @@ Auf das Verfahren vor den Prüfabteilungen und den Widerspruchsausschüssen sind
 
 (5) Führt eine Einwendung nach Absatz 2 Nr. 2 zur Zurücknahme des Sortenschutzantrags oder zur Ablehnung der Erteilung des Sortenschutzes und stellt der Einwender innerhalb eines Monats nach der Zurücknahme oder nach Eintritt der Unanfechtbarkeit der Ablehnung für dieselbe Sorte einen Sortenschutzantrag, so kann er verlangen, daß hierfür als Antragstag der Tag des früheren Antrags gilt.
 
-
-## § 26 – Prüfung
+# § 26 – Prüfung
 
 (1) Bei der Prüfung, ob die Sorte die Voraussetzungen für die Erteilung des Sortenschutzes erfüllt, baut das Bundessortenamt die Sorte an oder stellt die sonst erforderlichen Untersuchungen an. Hiervon kann es absehen, soweit ihm frühere eigene Prüfungsergebnisse zur Verfügung stehen.
 
@@ -408,8 +375,7 @@ Auf das Verfahren vor den Prüfabteilungen und den Widerspruchsausschüssen sind
 
 Die §§ 24 und 25 gelten entsprechend.
 
-
-## § 27 – Säumnis
+# § 27 – Säumnis
 
 (1) Kommt der Antragsteller einer Aufforderung des Bundessortenamtes,
 
@@ -423,8 +389,7 @@ innerhalb der ihm gesetzten Frist nicht nach, so kann das Bundessortenamt den So
 
 (2) Entrichtet ein Antragsteller oder Widerspruchsführer die fällige Gebühr für die Entscheidung über einen Sortenschutzantrag oder über einen Widerspruch nicht, so gilt der Antrag als nicht gestellt oder der Widerspruch als nicht erhoben, wenn die Gebühr nicht innerhalb eines Monats entrichtet wird, nachdem das Bundessortenamt die Gebührenentscheidung bekanntgegeben und dabei auf diese Folge der Säumnis hingewiesen hat.
 
-
-## § 28 – Sortenschutzrolle
+# § 28 – Sortenschutzrolle
 
 (1) In die Sortenschutzrolle werden nach Eintritt der Unanfechtbarkeit der Erteilung des Sortenschutzes eingetragen
 
@@ -452,8 +417,7 @@ c) der Verfahrensvertreter,
 
 (4) Das Bundessortenamt macht die Eintragungen bekannt.
 
-
-## § 29 – Einsichtnahme
+# § 29 – Einsichtnahme
 
 (1) Jedem steht die Einsicht frei in
 
@@ -473,8 +437,7 @@ b) zur Nachprüfung des Fortbestehens einer Sorte.
 
 (2) Bei Sorten, deren Pflanzen durch Kreuzung bestimmter Erbkomponenten erzeugt werden, sind die Angaben über die Erbkomponenten auf Antrag desjenigen, der den Sortenschutzantrag gestellt hat, von der Einsichtnahme auszuschließen. Der Antrag kann nur bis zur Entscheidung über den Sortenschutzantrag gestellt werden.
 
-
-## § 30 – Änderung der Sortenbezeichnung
+# § 30 – Änderung der Sortenbezeichnung
 
 (1) Eine bei Erteilung des Sortenschutzes eingetragene Sortenbezeichnung ist zu ändern, wenn
 
@@ -492,8 +455,7 @@ Im Falle einer Änderung der Sortenbezeichnung nach Satz 1 Nr. 1 besteht ein Ans
 
 (2) Das Bundessortenamt fordert, wenn es das Vorliegen eines Änderungsgrundes nach Absatz 1 feststellt, den Sortenschutzinhaber auf, innerhalb einer bestimmten Frist eine andere Sortenbezeichnung anzugeben. Nach fruchtlosem Ablauf der Frist kann es eine Sortenbezeichnung von Amts wegen festsetzen. Auf Antrag des Sortenschutzinhabers oder eines Dritten setzt das Bundessortenamt eine Sortenbezeichnung fest, wenn der Antragsteller ein berechtigtes Interesse glaubhaft macht. Für die Festsetzung der anderen Sortenbezeichnung und ihre Bekanntmachung gelten die §§ 24, 25 und 28 Abs. 1 Nr. 1 und Abs. 4 entsprechend.
 
-
-## § 31 – Beendigung des Sortenschutzes
+# § 31 – Beendigung des Sortenschutzes
 
 (1) Der Sortenschutz erlischt, wenn der Sortenschutzinhaber hierauf gegenüber dem Bundessortenamt schriftlich verzichtet.
 
@@ -509,8 +471,7 @@ Im Falle einer Änderung der Sortenbezeichnung nach Satz 1 Nr. 1 besteht ein Ans
 
 3. fällige Jahresgebühren innerhalb einer Nachfrist nicht entrichtet hat.
 
-
-## § 32 – Ermächtigung zum Erlaß von Verfahrensvorschriften
+# § 32 – Ermächtigung zum Erlaß von Verfahrensvorschriften
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung
 
@@ -518,8 +479,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch
 
 2. das Blatt für Bekanntmachungen des Bundessortenamtes zu bestimmen.
 
-
-## § 33 – Gebühren und Auslagen
+# § 33 – Gebühren und Auslagen
 
 (1) Das Bundessortenamt erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz und für die Prüfung von Sorten auf Antrag ausländischer oder supranationaler Stellen Gebühren und Auslagen und für jedes angefangene Jahr der Dauer des Sortenschutzes (Schutzjahr) eine Jahresgebühr.
 
@@ -531,8 +491,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch
 
 (5) Hat ein Widerspruch Erfolg, so ist die Widerspruchsgebühr zu erstatten. Hat eine Beschwerde an das Patentgericht oder eine Rechtsbeschwerde Erfolg, so ist die Widerspruchsgebühr auf Antrag zu erstatten. Bei teilweisem Erfolg ist die Widerspruchsgebühr zu einem entsprechenden Teil zu erstatten. Die Erstattung kann jedoch ganz oder teilweise unterbleiben, wenn die Entscheidung auf Tatsachen beruht, die früher hätten geltend gemacht oder bewiesen werden können. Für Auslagen im Widerspruchsverfahren gelten die Sätze 1 bis 4 entsprechend. Ein Anspruch auf Erstattung von Kosten nach § 80 des Verwaltungsverfahrensgesetzes besteht nicht.
 
-
-## § 34 – Beschwerde
+# § 34 – Beschwerde
 
 (1) Gegen die Beschlüsse der Widerspruchsausschüsse findet die Beschwerde an das Patentgericht statt.
 
@@ -544,20 +503,17 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch
 
 (5) Über die Beschwerde entscheidet ein Beschwerdesenat. Er entscheidet in den Fällen des § 18 Abs. 2 Nr. 3 und 4 in der Besetzung mit drei rechtskundigen Mitgliedern, im übrigen in der Besetzung mit einem rechtskundigen Mitglied als Vorsitzendem, einem weiteren rechtskundigen Mitglied und zwei technischen Mitgliedern.
 
-
-## § 35 – Rechtsbeschwerde
+# § 35 – Rechtsbeschwerde
 
 (1) Gegen den Beschluß des Beschwerdesenats findet die Rechtsbeschwerde an den Bundesgerichtshof statt, wenn der Beschwerdesenat sie in dem Beschluß zugelassen hat.
 
 (2) § 34 Abs. 3 gilt entsprechend.
 
-
-## § 36 – Anwendung des Patentgesetzes
+# § 36 – Anwendung des Patentgesetzes
 
 Soweit in den §§ 34 und 35 nichts anderes bestimmt ist, gelten die Vorschriften des Patentgesetzes über das Beschwerdeverfahren vor dem Patentgericht und das Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof sowie über die Verfahrenskostenhilfe in diesen Verfahren entsprechend.
 
-
-## § 37 – Anspruch auf Unterlassung, Schadensersatz und Vergütung
+# § 37 – Anspruch auf Unterlassung, Schadensersatz und Vergütung
 
 (1) Wer ohne Zustimmung des Sortenschutzinhabers
 
@@ -573,8 +529,7 @@ kann von dem Verletzten auf Beseitigung der Beeinträchtigung und bei Wiederholu
 
 (4) (weggefallen)
 
-
-## § 37a – Anspruch auf Vernichtung und Rückruf
+# § 37a – Anspruch auf Vernichtung und Rückruf
 
 (1) Der Verletzte kann den Verletzer in den Fällen des § 37 Abs. 1 auf Vernichtung des im Besitz oder Eigentum des Verletzers befindlichen Materials, das Gegenstand der Verletzungshandlung ist, in Anspruch nehmen. Satz 1 ist entsprechend auf die im Eigentum des Verletzers stehenden Vorrichtungen anzuwenden, die vorwiegend zur Herstellung dieses Materials gedient haben.
 
@@ -582,8 +537,7 @@ kann von dem Verletzten auf Beseitigung der Beeinträchtigung und bei Wiederholu
 
 (3) Die Ansprüche nach den Absätzen 1 und 2 sind ausgeschlossen, wenn die Maßnahme im Einzelfall unverhältnismäßig ist. Bei der Prüfung der Verhältnismäßigkeit sind auch die berechtigten Interessen Dritter zu berücksichtigen.
 
-
-## § 37b – Anspruch auf Auskunft
+# § 37b – Anspruch auf Auskunft
 
 (1) Der Verletzte kann den Verletzer in den Fällen des § 37 Abs. 1 auf unverzügliche Auskunft über die Herkunft und den Vertriebsweg des rechtsverletzenden Materials in Anspruch nehmen.
 
@@ -619,8 +573,7 @@ es sei denn, die Person wäre nach den §§ 383 bis 385 der Zivilprozessordnung 
 
 (10) Durch Absatz 2 in Verbindung mit Absatz 9 wird das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.
 
-
-## § 37c – Vorlage- und Besichtigungsansprüche
+# § 37c – Vorlage- und Besichtigungsansprüche
 
 (1) Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung im Sinn von § 37 Abs. 1 kann der Rechtsinhaber oder ein anderer Berechtigter den vermeintlichen Verletzer auf Vorlage einer Urkunde oder Besichtigung einer Sache in Anspruch nehmen, die sich in dessen Verfügungsgewalt befindet, wenn dies zur Begründung seiner Ansprüche erforderlich ist. In Fällen einer in gewerblichem Ausmaß begangenen Rechtsverletzung erstreckt sich der Anspruch auch auf die Vorlage von Bank-, Finanz- oder Handelsunterlagen. Soweit der vermeintliche Verletzer geltend macht, dass es sich um vertrauliche Informationen handelt, trifft das Gericht die erforderlichen Maßnahmen, um den im Einzelfall gebotenen Schutz zu gewährleisten.
 
@@ -632,8 +585,7 @@ es sei denn, die Person wäre nach den §§ 383 bis 385 der Zivilprozessordnung 
 
 (5) Wenn keine Verletzung vorlag oder drohte, kann der vermeintliche Verletzer von demjenigen, der die Vorlage oder Besichtigung nach Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren entstandenen Schadens verlangen.
 
-
-## § 37d – Sicherung von Schadensersatzansprüchen
+# § 37d – Sicherung von Schadensersatzansprüchen
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß begangenen Rechtsverletzung in den Fällen des § 37 Abs. 2 auch auf Vorlage von Bank-, Finanz- oder Handelsunterlagen oder einen geeigneten Zugang zu den entsprechenden Unterlagen in Anspruch nehmen, die sich in der Verfügungsgewalt des Verletzers befinden und die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne die Vorlage die Erfüllung des Schadensersatzanspruchs fraglich ist. Soweit der Verletzer geltend macht, dass es sich um vertrauliche Informationen handelt, trifft das Gericht die erforderlichen Maßnahmen, um den im Einzelfall gebotenen Schutz zu gewährleisten.
 
@@ -643,23 +595,19 @@ es sei denn, die Person wäre nach den §§ 383 bis 385 der Zivilprozessordnung 
 
 (4) § 811 des Bürgerlichen Gesetzbuchs sowie § 37b Abs. 8 gelten entsprechend.
 
-
-## § 37e – Urteilsbekanntmachung
+# § 37e – Urteilsbekanntmachung
 
 Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt. Art und Umfang der Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt, wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der Rechtskraft des Urteils Gebrauch gemacht worden ist. Der Ausspruch nach Satz 1 ist nicht vorläufig vollstreckbar.
 
-
-## § 37f – Verjährung
+# § 37f – Verjährung
 
 Auf die Verjährung der Ansprüche wegen Verletzung eines nach diesem Gesetz geschützten Rechts finden die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die Verletzung auf Kosten des Berechtigten etwas erlangt, findet § 852 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
-## § 37g – Ansprüche aus anderen gesetzlichen Vorschriften
+# § 37g – Ansprüche aus anderen gesetzlichen Vorschriften
 
 Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
-
-## § 38 – Sortenschutzstreitsachen
+# § 38 – Sortenschutzstreitsachen
 
 (1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird (Sortenschutzstreitsachen), sind die Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig.
 
@@ -669,8 +617,7 @@ Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (4) Die Absätze 1 bis 3 gelten auch für alle Klagen, durch die ein Anspruch aus einem der in der Verordnung (EG) Nr. 2100/94 des Rates vom 27. Juli 1994 über den gemeinschaftlichen Sortenschutz (ABl. EG Nr. L 227 S. 1) in ihrer jeweils geltenden Fassung geregelten Rechtsverhältnisse geltend gemacht wird.
 
-
-## § 39 – Strafvorschriften
+# § 39 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -688,8 +635,7 @@ Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (6) Wird auf Strafe erkannt, so ist, wenn der Verletzte es beantragt und ein berechtigtes Interesse daran dartut, anzuordnen, daß die Verurteilung auf Verlangen öffentlich bekanntgemacht wird. Die Art der Bekanntmachung ist im Urteil zu bestimmen.
 
-
-## § 40 – Bußgeldvorschriften
+# § 40 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -705,8 +651,7 @@ Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundessortenamt.
 
-
-## § 40a – Vorschriften über Maßnahmen der Zollbehörde
+# § 40a – Vorschriften über Maßnahmen der Zollbehörde
 
 (1) Material, das Gegenstand der Verletzung eines im Inland oder nach der Verordnung (EG) Nr. 2100/94 des Rates vom 27. Juli 1994 über den gemeinschaftlichen Sortenschutz (ABl. EG Nr. L 227 S. 1) in der jeweils geltenden Fassung erteilten Sortenschutzes ist, unterliegt, soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S. 15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des Sortenschutzinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit anderen Vertragsstaaten nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
@@ -728,13 +673,11 @@ Liegen die Fälle der Nummern 1 oder 2 nicht vor, hebt die Zollbehörde die Besc
 
 (7) Die Beschlagnahme und die Einziehung können mit den Rechtsmitteln angefochten werden, die im Bußgeldverfahren nach dem Gesetz über Ordnungswidrigkeiten gegen die Beschlagnahme und Einziehung zulässig sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören. Gegen die Entscheidung des Amtsgerichts ist die sofortige Beschwerde zulässig; über sie entscheidet das Oberlandesgericht.
 
-
-## § 40b – Verfahren nach der Verordnung (EU) Nr. 608/2013
+# § 40b – Verfahren nach der Verordnung (EU) Nr. 608/2013
 
 Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 40a Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen enthält, die dem entgegenstehen.
 
-
-## § 41 – Übergangsvorschriften
+# § 41 – Übergangsvorschriften
 
 (1) Für Sorten, für die beim Inkrafttreten dieses Gesetzes Sortenschutz
 
@@ -762,13 +705,11 @@ wenn der Antragstag nicht später als ein Jahr nach dem Inkrafttreten des Artike
 
 (7) Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 37c in der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar 2002 geltenden Fassung gleichgestellt ist.
 
-
-## § 42
+# § 42
 
 (Inkrafttreten)
 
-
-## Anlage
+# Anlage
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3176
 

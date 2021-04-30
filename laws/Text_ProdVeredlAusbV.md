@@ -1,30 +1,23 @@
-# [Text/ProdVeredlAusbV] Verordnung über die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
-
-Ausfertigungsdatum: 09.05.2005
-
+% Verordnung über die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
+% Ausfertigungsdatum: 09.05.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Produktveredler-Textil/Produktveredlerin-Textil wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Die Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -60,23 +53,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 16. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -102,8 +91,7 @@ kann. Diese Anforderungen sollen anhand einer Bearbeitungsstufe innerhalb eines 
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe und schriftlicher Aufgabenstellungen. Die Prüfung soll in insgesamt höchstens sieben Stunden durchgeführt werden. Die schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 120 Minuten haben. Die komplexe Arbeitsaufgabe ist mit 60 Prozent und die schriftlichen Aufgabenstellungen mit 40 Prozent zu gewichten.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -165,23 +153,19 @@ Die prozessrelevanten Qualifikationen sollen in Bezug zur praktischen Aufgabe du
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. Dabei haben die Prüfungsbereiche Veredlung sowie Maschinen- und Anlagentechnik gegenüber dem Prüfungsbereich Wirtschafts- und Sozialkunde jeweils das doppelte Gewicht. In zwei der Prüfungsbereiche nach Nummer 2 müssen mindestens ausreichende Leistungen, in den weiteren Prüfungsbereichen nach Nummer 2 dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Fortsetzung der Berufsausbildung
+# § 10 – Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Ist eine Berufsausbildung in dem Ausbildungsberuf Textilmaschinenführer-Veredlung/Textilmaschinenführerin-Veredlung abgeschlossen worden, können die Vertragsparteien ein Berufsausbildungsverhältnis in dem Ausbildungsberuf Textilveredler/Textilveredlerin gemäß den bisherigen Vorschriften für das dritte Ausbildungsjahr vereinbaren, wenn dadurch die Ausbildung im unmittelbaren Anschluss an das zweite Ausbildungsjahr fortgeführt wird.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
 
 (Fundstelle: BGBl. I 2005, 1272 - 1276)
 

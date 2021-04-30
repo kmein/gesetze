@@ -1,10 +1,7 @@
-# [GOZ] Gebührenordnung für Zahnärzte  (GOZ)
-
-Ausfertigungsdatum: 22.10.1987
-
+% Gebührenordnung für Zahnärzte  (GOZ)
+% Ausfertigungsdatum: 22.10.1987
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 § 1
 
@@ -60,20 +57,17 @@ Inkrafttreten und Übergangsvorschrift
 
 Gebührenverzeichnis für zahnärztliche Leistungen (Anlage)\*)
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 des Gesetzes über die Ausübung der Zahnheilkunde in der durch Artikel 5 des Gesetzes vom 22. Dezember 1981 (BGBl. I S. 1568) geänderten Fassung verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vergütungen für die beruflichen Leistungen der Zahnärzte bestimmen sich nach dieser Verordnung, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist.
 
 (2) Vergütungen darf der Zahnarzt nur für Leistungen berechnen, die nach den Regeln der zahnärztlichen Kunst für eine zahnmedizinisch notwendige zahnärztliche Versorgung erforderlich sind. Leistungen, die über das Maß einer zahnmedizinisch notwendigen zahnärztlichen Versorgung hinausgehen, darf er nur berechnen, wenn sie auf Verlangen des Zahlungspflichtigen erbracht worden sind.
 
-
-## § 2 – Abweichende Vereinbarung
+# § 2 – Abweichende Vereinbarung
 
 (1) Durch Vereinbarung zwischen Zahnarzt und Zahlungspflichtigem kann eine von dieser Verordnung abweichende Gebührenhöhe festgelegt werden. Die Vereinbarung einer abweichenden Punktzahl (§ 5 Absatz 1 Satz 2) oder eines abweichenden Punktwertes (§ 5 Absatz 1 Satz 3) ist nicht zulässig. Notfall- und akute Schmerzbehandlungen dürfen nicht von einer Vereinbarung nach Satz 1 abhängig gemacht werden.
 
@@ -83,13 +77,11 @@ Auf Grund des § 15 des Gesetzes über die Ausübung der Zahnheilkunde in der du
 
 (4) Bei vollstationären, teilstationären sowie vor- und nachstationären privatzahnärztlichen Leistungen ist eine Vereinbarung nach Absatz 1 Satz 1 nur für vom Wahlzahnarzt persönlich erbrachte Leistungen zulässig.
 
-
-## § 3 – Vergütungen
+# § 3 – Vergütungen
 
 Als Vergütungen stehen dem Zahnarzt Gebühren, Entschädigungen und Ersatz von Auslagen zu.
 
-
-## § 4 – Gebühren
+# § 4 – Gebühren
 
 (1) Gebühren sind Vergütungen für die im Gebührenverzeichnis (Anlage 1) genannten zahnärztlichen Leistungen.
 
@@ -101,20 +93,17 @@ Als Vergütungen stehen dem Zahnarzt Gebühren, Entschädigungen und Ersatz von 
 
 (5) Sollen Leistungen durch Dritte erbracht werden, die diese dem Zahlungspflichtigen unmittelbar berechnen, so hat der Zahnarzt ihn darüber zu unterrichten.
 
-
-## § 5 – Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
+# § 5 – Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
 
 (1) Die Höhe der einzelnen Gebühr bemißt sich nach dem Einfachen bis Dreieinhalbfachen des Gebührensatzes. Gebührensatz ist der Betrag, der sich ergibt, wenn die Punktzahl der einzelnen Leistung des Gebührenverzeichnisses mit dem Punktwert vervielfacht wird. Der Punktwert beträgt 5,62421 Cent. Bei der Bemessung von Gebühren sind sich ergebende Bruchteile eines Cents unter 0,5 abzurunden und Bruchteile von 0,5 und mehr aufzurunden; die Rundung ist erst nach der Multiplikation mit dem Steigerungsfaktor nach Satz 1 vorzunehmen.
 
 (2) Innerhalb des Gebührenrahmens sind die Gebühren unter Berücksichtigung der Schwierigkeit und des Zeitaufwandes der einzelnen Leistung sowie der Umstände bei der Ausführung nach billigem Ermessen zu bestimmen. Die Schwierigkeit der einzelnen Leistung kann auch durch die Schwierigkeit des Krankheitsfalles begründet sein. Bemessungskriterien, die bereits in der Leistungsbeschreibung berücksichtigt worden sind, haben hierbei außer Betracht zu bleiben. Der 2,3fache Gebührensatz bildet die nach Schwierigkeit und Zeitaufwand durchschnittliche Leistung ab; ein Überschreiten dieses Gebührensatzes ist nur zulässig, wenn Besonderheiten der in Satz 1 genannten Bemessungskriterien dies rechtfertigen; Leistungen mit unterdurchschnittlichem Schwierigkeitsgrad oder Zeitaufwand sind mit einem niedrigeren Gebührensatz zu berechnen.
 
-
-## § 5a – (weggefallen)
+# § 5a – (weggefallen)
 
 \-
 
-
-## § 6 – Gebühren für andere Leistungen
+# § 6 – Gebühren für andere Leistungen
 
 (1) Selbstständige zahnärztliche Leistungen, die in das Gebührenverzeichnis nicht aufgenommen sind, können entsprechend einer nach Art, Kosten- und Zeitaufwand gleichwertigen Leistung des Gebührenverzeichnisses dieser Verordnung berechnet werden. Sofern auch eine nach Art, Kosten- und Zeitaufwand gleichwertige Leistung im Gebührenverzeichnis dieser Verordnung nicht enthalten ist, kann die selbstständige zahnärztliche Leistung entsprechend einer nach Art, Kosten- und Zeitaufwand gleichwertigen Leistung der in Absatz 2 genannten Leistungen des Gebührenverzeichnisses der Gebührenordnung für Ärzte berechnet werden.
 
@@ -136,15 +125,13 @@ Als Vergütungen stehen dem Zahnarzt Gebühren, Entschädigungen und Ersatz von 
 
 8. O.
 
-
-## § 7 – Gebühren bei stationärer Behandlung
+# § 7 – Gebühren bei stationärer Behandlung
 
 (1) Bei vollstationären, teilstationären sowie vor- und nachstationären privatzahnärztlichen Leistungen sind die nach dieser Verordnung berechneten Gebühren einschließlich der darauf entfallenden Zuschläge um 25 vom Hundert zu mindern. Abweichend davon beträgt die Minderung für Leistungen und Zuschläge nach Satz 1 von Belegzahnärzten oder niedergelassenen anderen Zahnärzten 15 vom Hundert. Ausgenommen von dieser Minderungspflicht ist der Zuschlag nach Buchstabe J in Abschnitt B V des Gebührenverzeichnisses der Gebührenordnung für Ärzte.
 
 (2) Neben den nach Absatz 1 geminderten Gebühren darf der Zahnarzt Kosten nicht berechnen; die §§ 8 und 9 bleiben unberührt.
 
-
-## § 8 – Entschädigungen
+# § 8 – Entschädigungen
 
 (1) Als Entschädigungen für Besuche erhält der Zahnarzt Wegegeld oder Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den Besuch bedingten Mehrkosten abgegolten.
 
@@ -170,15 +157,13 @@ Erfolgt der Besuch von der Wohnung des Zahnarztes aus, so tritt bei der Berechnu
 
 Absatz 2 Satz 3 und 4 gilt entsprechend.
 
-
-## § 9 – Ersatz von Auslagen für zahntechnische Leistungen
+# § 9 – Ersatz von Auslagen für zahntechnische Leistungen
 
 (1) Neben den für die einzelnen zahnärztlichen Leistungen vorgesehenen Gebühren können als Auslagen die dem Zahnarzt tatsächlich entstandenen angemessenen Kosten für zahntechnische Leistungen berechnet werden, soweit diese Kosten nicht nach den Bestimmungen des Gebührenverzeichnisses mit den Gebühren abgegolten sind.
 
 (2) Der Zahnarzt hat dem Zahlungspflichtigen vor der Behandlung einen Kostenvoranschlag des gewerblichen oder des praxiseigenen Labors über die voraussichtlich entstehenden Kosten für zahntechnische Leistungen anzubieten und auf dessen Verlangen in Textform vorzulegen, sofern die Kosten insgesamt voraussichtlich einen Betrag von 1 000 Euro überschreiten. Für Behandlungen, die auf der Grundlage eines Heil- und Kostenplans für einen Behandlungszeitraum von mehr als zwölf Monaten geplant werden, gilt Satz 1 nur, sofern voraussichtlich bereits innerhalb eines Zeitraums von sechs Monaten Kosten von mehr als 1 000 Euro entstehen. Der Kostenvoranschlag muss die voraussichtlichen Gesamtkosten für zahntechnische Leistungen und die dabei verwendeten Materialien angeben. Art, Umfang und Ausführung der einzelnen Leistungen, Berechnungsgrundlage und Herstellungsort der zahntechnischen Leistungen sind dem Zahlungspflichtigen auf Verlangen näher zu erläutern. Ist eine Überschreitung der im Kostenvoranschlag genannten Kosten um mehr als 15 vom Hundert zu erwarten, hat der Zahnarzt den Zahlungspflichtigen hierüber unverzüglich in Textform zu unterrichten.
 
-
-## § 10 – Fälligkeit und Abrechnung der Vergütung, Rechnung
+# § 10 – Fälligkeit und Abrechnung der Vergütung, Rechnung
 
 (1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine dieser Verordnung entsprechende Rechnung nach der Anlage 2 erteilt worden ist. Künftige Änderungen der Anlage 2 werden durch das Bundesministerium für Gesundheit durch Bekanntmachung veröffentlicht.
 
@@ -204,8 +189,7 @@ Absatz 2 Satz 3 und 4 gilt entsprechend.
 
 (6) Die Übermittlung von Daten an einen Dritten zum Zwecke der Abrechnung ist nur zulässig, wenn der Betroffene gegenüber dem Zahnarzt in die Übermittlung der für die Abrechnung erforderlichen Daten schriftlich eingewilligt und den Zahnarzt insoweit schriftlich von seiner Schweigepflicht entbunden hat.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die Gebührenordnung für Zahnärzte in der vor dem 1. Januar 2012 geltenden Fassung gilt weiter für
 
@@ -215,13 +199,11 @@ Die Gebührenordnung für Zahnärzte in der vor dem 1. Januar 2012 geltenden Fas
 
 3. Leistungen des Gebührenverzeichnisses der Gebührenordnung für Zahnärzte in der vor dem 1. Januar 2012 geltenden Fassung, die auf Grund einer vor dem Inkrafttreten der Verordnung vom 5. Dezember 2011 (BGBl. I S. 2661) geplanten und begonnenen kieferorthopädischen Behandlung bis zum Behandlungsabschluss, längstens jedoch bis zum Ablauf von vier Jahren nach Inkrafttreten dieser Verordnung, erbracht werden.
 
-
-## § 12 – Überprüfung
+# § 12 – Überprüfung
 
 Die Bundesregierung prüft die Auswirkungen der Neustrukturierung und -bewertung der Leistungen der Gebührenordnung für Zahnärzte. Sie berichtet dem Bundesrat bis spätestens Mitte des Jahres 2015 über das Ergebnis der Prüfung und die tragenden Gründe.
 
-
-## Anlage 1 – Gebührenverzeichnis für zahnärztliche Leistungen
+# Anlage 1 – Gebührenverzeichnis für zahnärztliche Leistungen
 
 1. Eine Beratungsgebühr nach der Nummer 1 des Gebührenverzeichnisses für ärztliche Leistungen – Anlage zur Gebührenordnung für Ärzte in der am 1. Januar 2012 geltenden Fassung – darf im Behandlungsfall nur einmal zusammen mit einer Gebühr für eine Leistung nach diesem Gebührenverzeichnis und für eine Leistung aus den Abschnitten C bis O des Gebührenverzeichnisses für ärztliche Leistungen berechnet werden.
 
@@ -284,8 +266,7 @@ zuzuordnen.
 
 7. Die Zuschläge nach den Nummern 0110, 0120 sowie 0500 bis 0530 sind neben den entsprechenden Zuschlägen nach den Nummern 440 bis 445 des Gebührenverzeichnisses für ärztliche Leistungen für dieselbe Sitzung nicht berechnungsfähig.
 
-
-## Anlage 2 – Liquidationsvordruck
+# Anlage 2 – Liquidationsvordruck
 
 (Fundstelle: BGBl I 2011, 2681 — 2682)
 

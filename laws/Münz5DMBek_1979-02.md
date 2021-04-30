@@ -1,10 +1,7 @@
-# [Münz5DMBek 1979-02] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Deutsches Archäologisches Institut)
-
-Ausfertigungsdatum: 15.02.1979
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Deutsches Archäologisches Institut)
+% Ausfertigungsdatum: 15.02.1979
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung ist aus Anlaß des 150. Gründungstages des Deutschen Archäologischen Instituts in Berlin eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Hamburgischen Münze, die Auflage beträgt 8 Millionen Stück.
 
@@ -44,12 +41,10 @@ INSTITUT 1829 - 1979".
 
 (10) Zwischen Ende und Anfang der Randschrift ist ein doppelblättriges Eichenblattornament mit zwei Eicheln eingeprägt.
 
-(11) Dies wird namens der Bundesregierung bekanntgemacht.  
-  
+(11) Dies wird namens der Bundesregierung bekanntgemacht.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Münze,  
 Fundstelle: BGBl I 1979, 226)

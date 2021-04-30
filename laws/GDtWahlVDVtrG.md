@@ -1,15 +1,11 @@
-# [GDtWahlVDVtrG] Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik sowie dem Änderungsvertrag vom 20. August 1990
-
-Ausfertigungsdatum: 29.08.1990
-
+% Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik sowie dem Änderungsvertrag vom 20. August 1990
+% Ausfertigungsdatum: 29.08.1990
  
-
-## Art 1 – Zustimmung zu den Verträgen
+# Art 1 – Zustimmung zu den Verträgen
 
 Dem in Berlin am 3. August 1990 von der Bundesrepublik Deutschland unterzeichneten Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik einschließlich der Anlage und des Anhanges sowie dem in Bonn am 20. August 1990 unterzeichneten Änderungsvertrag hierzu wird zugestimmt. Die Verträge einschließlich der Anlage und des Anhanges werden nachstehend veröffentlicht.
 
-
-## Art 2 – Änderung des Bundeswahlgesetzes
+# Art 2 – Änderung des Bundeswahlgesetzes
 
 Das Bundeswahlgesetz in der Fassung der Bekanntmachung vom 1. September 1975 (BGBl. I S. 2325), zuletzt geändert durch das Gesetz vom 11. Juni 1990 (BGBl. I S. 1015), wird wie folgt geändert:
 
@@ -70,8 +66,7 @@ c) in Absatz 3 an Stelle des sechsundzwanzigsten Tages der fünfzehnte Tag.
 
 3. Die Anlage zu dem Gesetz wird durch die in der Anlage genannten und beschriebenen Wahlkreise 257 bis 328 ergänzt.
 
-
-## Art 3 – Besondere Maßgaben für die Anwendung des Bundeswahlgesetzes
+# Art 3 – Besondere Maßgaben für die Anwendung des Bundeswahlgesetzes
 
 Für die Anwendung des Bundeswahlgesetzes auf die Vorbereitung und Durchführung der Wahl in den Ländern Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie in Berlin gelten folgende Maßgaben:
 
@@ -105,25 +100,21 @@ In Berlin richtet sich die Reihenfolge der Landeslisten von Parteien, die im Deu
 
 10. § 49a wird in den Ländern Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie in Berlin (Ost) mit der Maßgabe angewendet, daß Ordnungsstrafen im Sinne des Gesetzes zur Bekämpfung von Ordnungswidrigkeiten vom 12. Januar 1968 (GBl. I S. 101), zuletzt geändert durch Gesetz vom 29. Juli 1990 (GBl. I S. 526) in Höhe bis zu 100.000 Deutsche Mark verhängt werden können.
 
-
-## Art 4 – Neubekanntmachung des Bundeswahlgesetzes
+# Art 4 – Neubekanntmachung des Bundeswahlgesetzes
 
 Der Bundesminister des Innern kann den Wortlaut des Bundeswahlgesetzes in der vom Tage des Inkrafttretens dieses Gesetzes an für die Wahl zum 12. Deutschen Bundestag geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
-
-## Art 5 – Berlin-Klausel
+# Art 5 – Berlin-Klausel
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 6 – Inkrafttreten
+# Art 6 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 (2) Der Tag, an dem der Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik einschließlich der in Artikel 1 Satz 1 aufgeführten Anlage und des Anhanges nach Artikel 8 des Vertrages in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
-
-## Anlage – (zu Artikel 2 Nr. 3)
+# Anlage – (zu Artikel 2 Nr. 3)
 
 Fundstelle des Originaltextes: BGBl. II 1990, 816 - 821
 

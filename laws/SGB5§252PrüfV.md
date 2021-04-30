@@ -1,20 +1,15 @@
-# [SGB5§252PrüfV] Verordnung gemäß § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch zur Prüfung der Beiträge nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch (Prüfverordnung sonstige Beiträge)
-
-Ausfertigungsdatum: 21.05.2013
-
+% Verordnung gemäß § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch zur Prüfung der Beiträge nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch (Prüfverordnung sonstige Beiträge)
+% Ausfertigungsdatum: 21.05.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch, der durch Artikel 1 Nummer 12 Buchstabe b des Gesetzes vom 15. Dezember 2008 (BGBl. I S. 2426) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Grundsätze
+# § 1 – Grundsätze
 
 Die mit der Prüfung nach § 274 Absatz 1 des Fünften Buches Sozialgesetzbuch befassten Stellen (Prüfungseinrichtungen) haben die Prüfung nach § 252 Absatz 5 des Fünften Buches Sozialgesetzbuch nach einheitlichen Maßstäben durchzuführen.
 
-
-## § 2 – Gegenstand und Umfang der Prüfung
+# § 2 – Gegenstand und Umfang der Prüfung
 
 (1) Gegenstand der Prüfung sind die Beitragsfestsetzung, der Beitragseinzug und die Weiterleitung der Beiträge nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch (sonstige Beiträge) durch die Krankenkassen. Die Prüfung erfolgt als Stichprobenprüfung. Dabei wird der durch fehlerhafte Bearbeitung entstandene monetäre Schaden je Einzelfall ermittelt.
 
@@ -26,13 +21,11 @@ Die mit der Prüfung nach § 274 Absatz 1 des Fünften Buches Sozialgesetzbuch b
 
 (5) Jede Krankenkasse ist mindestens alle vier Jahre zu prüfen.
 
-
-## § 3 – Sonderprüfungen
+# § 3 – Sonderprüfungen
 
 Das Bundesamt für Soziale Sicherung kann den Prüfungseinrichtungen Sonderprüfungen für einzelne Krankenkassen vorschlagen, sofern es einen begründeten Anlass dafür darlegt. Lehnen die Prüfungseinrichtungen den Vorschlag ab, ist die Ablehnung zu begründen.
 
-
-## § 4 – Durchführung der Prüfung
+# § 4 – Durchführung der Prüfung
 
 (1) Die Prüfungseinrichtung führt die Prüfung in der Regel nach vorheriger Ankündigung durch.
 
@@ -46,15 +39,13 @@ Das Bundesamt für Soziale Sicherung kann den Prüfungseinrichtungen Sonderprüf
 
 (4) Die Prüfungseinrichtung zieht die Stichprobe. Sie übermittelt der Krankenkasse acht Wochen vor der Prüfung eine Auflistung der für diese Prüfung ausgewählten Mitglieder und setzt der Krankenkasse eine Frist für die Übergabe der für die Prüfung erforderlichen Unterlagen. Die Krankenkasse stellt der Prüfungseinrichtung die Unterlagen einschließlich personenbezogener Daten innerhalb der gesetzten Frist zur Verfügung.
 
-
-## § 5 – Rechte und Pflichten der Prüfungseinrichtungen
+# § 5 – Rechte und Pflichten der Prüfungseinrichtungen
 
 (1) Die Prüfungseinrichtungen sind befugt, die für die Durchführung der Prüfung nach § 4 und die Erstellung des Prüfberichts und des Prüfbescheids nach § 6 erforderlichen, auch personenbezogenen Daten zu erheben, zu verarbeiten und zu nutzen.
 
 (2) Die Prüfungseinrichtungen unterrichten das Bundesamt für Soziale Sicherung bis zum 30. November eines Jahres über ihre Terminplanung in Bezug auf die Prüfungen, die für das Folgejahr vorgesehen sind.
 
-
-## § 6 – Prüfbericht, Prüfbescheid
+# § 6 – Prüfbericht, Prüfbescheid
 
 (1) Jede Prüfungseinrichtung, die eine Prüfung durchgeführt hat, hat das Ergebnis der Prüfung in einem schriftlichen Bericht (Prüfbericht) festzuhalten und diesen dem Bundesamt für Soziale Sicherung zu übermitteln. In den Prüfberichten sind insbesondere auch die Gründe für die fehlerhafte Berechnung von Beiträgen für jeden Einzelfall zu nennen und die Höhe des Schadens zu berechnen.
 
@@ -66,8 +57,7 @@ Das Bundesamt für Soziale Sicherung kann den Prüfungseinrichtungen Sonderprüf
 
 (5) Die Prüfungseinrichtungen legen nach Anhörung des Bundesamtes für Soziale Sicherung das Nähere zu Form und Inhalt der Prüfberichte fest.
 
-
-## § 7 – Hochrechnung der Prüfergebnisse
+# § 7 – Hochrechnung der Prüfergebnisse
 
 (1) Das Bundesamt für Soziale Sicherung kann eine Hochrechnung der Prüfergebnisse vornehmen. In diesem Fall rechnet es den bei der Stichprobenprüfung nach § 2 Absatz 1 festgestellten monetären Schaden auf die der Prüfung zugrunde liegende Gesamtheit der jeweiligen Mitgliedergruppe nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch dieser Krankenkasse hoch. Das Bundesamt für Soziale Sicherung legt fest, dass eine Hochrechnung nur erfolgt, wenn die fehlerhaften oder nicht plausiblen Fälle eine bestimmte Quote überschreiten.
 
@@ -75,8 +65,7 @@ Das Bundesamt für Soziale Sicherung kann den Prüfungseinrichtungen Sonderprüf
 
 (3) Das Nähere zum Hochrechnungsverfahren regelt das Bundesamt für Soziale Sicherung nach Anhörung des Spitzenverbandes Bund der Krankenkassen.
 
-
-## § 8 – Korrektur der Hochrechnung durch Vollerhebung; Fristen
+# § 8 – Korrektur der Hochrechnung durch Vollerhebung; Fristen
 
 (1) Die Krankenkasse kann bei Zahlungspflicht des Korrekturbetrags die zugrunde liegende Beitragsfestsetzung, den Beitragseinzug sowie die Weiterleitung von Beiträgen im Hinblick auf den gesamten Versichertenbestand nach § 252 Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch im Rahmen einer Vollerhebung korrigieren. Ob eine Vollerhebung durchgeführt wird, teilt sie dem Bundesamt für Soziale Sicherung innerhalb von drei Monaten nach Zugang des Prüfbescheids nach § 6 Absatz 3 mit.
 
@@ -86,18 +75,15 @@ Das Bundesamt für Soziale Sicherung kann den Prüfungseinrichtungen Sonderprüf
 
 (4) Die Korrektur gilt als ordnungsgemäß durchgeführt, wenn die für die Prüfung der Krankenkasse zuständige Prüfungseinrichtung dies dem Bundesamt für Soziale Sicherung auf Grund einer erneut gezogenen Stichprobe nach § 2 Absatz 1 bestätigt; die Stichprobe muss innerhalb von zehn Monaten nach der Vollerhebung gezogen worden sein.
 
-
-## § 9 – Mängelbehebung
+# § 9 – Mängelbehebung
 
 Die Krankenkasse hat unverzüglich die bei der Prüfung festgestellten Mängel zu beheben und Vorkehrungen zu treffen, damit die festgestellten Mängel sich nicht wiederholen. Über die durchgeführten Maßnahmen sind die Prüfungseinrichtung und das Bundesamt für Soziale Sicherung unverzüglich zu unterrichten.
 
-
-## § 10 – Verwendung des Korrekturbetrags
+# § 10 – Verwendung des Korrekturbetrags
 
 Der Korrekturbetrag fließt in den Gesundheitsfonds. Ein möglicher Zinsschaden, der sich aus der Differenz zwischen dem vorläufigen Korrekturbetrag und dem Ergebnis der Vollerhebung ergibt, verbleibt bei der Krankenkasse.
 
-
-## § 11 – Mitwirkungspflichten der Krankenkassen
+# § 11 – Mitwirkungspflichten der Krankenkassen
 
 (1) Die Krankenkassen sind verpflichtet, die für die Prüfung erforderlichen Unterlagen bis zur Prüfung aufzubewahren und bei deren Beginn vorzulegen.
 
@@ -109,12 +95,10 @@ Der Korrekturbetrag fließt in den Gesundheitsfonds. Ein möglicher Zinsschaden,
 
 (5) Die Krankenkasse hat zur Durchführung der Prüfung die geeignete Infrastruktur, insbesondere einen geeigneten Raum oder Arbeitsplatz, sowie die erforderlichen Hilfsmittel und das erforderliche Personal kostenlos zur Verfügung zu stellen. Sie hat den Prüferinnen und Prüfern unter Einhaltung der datenschutzrechtlichen Vorschriften, insbesondere des § 78a des Zehnten Buches Sozialgesetzbuch, Zutritt zu einer Datenverarbeitungsanlage und Zugriff auf die für die Erfüllung ihrer Aufgaben erforderlichen Daten zu gewähren.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

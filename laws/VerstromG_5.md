@@ -1,10 +1,7 @@
-# [VerstromG 5] Gesetz über Hilfen für den deutschen Steinkohlebergbau bis zum Jahr 2005  (Steinkohlebeihilfengesetz)
-
-Ausfertigungsdatum: 12.12.1995
-
+% Gesetz über Hilfen für den deutschen Steinkohlebergbau bis zum Jahr 2005  (Steinkohlebeihilfengesetz)
+% Ausfertigungsdatum: 12.12.1995
  
-
-## § 1 – Zweck, Finanzplafonds
+# § 1 – Zweck, Finanzplafonds
 
 (1) Mit diesem Gesetz soll ein angemessener Beitrag zum Absatz deutscher Steinkohle für den Einsatz in Kraftwerken und zur Stahlerzeugung im Hochofenprozeß im Geltungsbereich dieses Gesetzes geleistet und die Deckung von Aufwendungen der Bergbauunternehmen infolge dauerhafter Stillegungen ermöglicht werden.
 
@@ -23,8 +20,7 @@ Ausfertigungsdatum: 12.12.1995
 
 (3) In den Jahren 1998 bis 2002 können auch Bergbauunternehmen, die deutsche Braunkohle mit einem Anteil an Tiefbaubraunkohle von mindestens 25 vom Hundert und deutsche Braunkohle mit einem Gehalt an Natrium- und Kaliumoxiden in der Asche von über 2 vom Hundert, der durch Beimischung von Braunkohle aus derselben Lagerstätte nicht vermindert werden kann, fördern, Mittel für die in Absatz 1 genannten Zwecke aus den in Absatz 2 genannten Finanzplafonds zur Verfügung gestellt werden.
 
-
-## § 2 – Zuschüsse an Bergbauunternehmen
+# § 2 – Zuschüsse an Bergbauunternehmen
 
 (1) Das Bundesministerium für Wirtschaft und Energie legt nach Anhörung der Bergbauunternehmen die Aufteilung der jährlichen Finanzplafonds auf die einzelnen Bergbauunternehmen fest.
 
@@ -38,8 +34,7 @@ Ausfertigungsdatum: 12.12.1995
 
 (6) Rechtsansprüche auf Zuschußzahlungen werden durch dieses Gesetz nicht begründet.
 
-
-## § 3 – Melde-, Aufbewahrungs- und Auskunftspflichten
+# § 3 – Melde-, Aufbewahrungs- und Auskunftspflichten
 
 (1) Die Bergbauunternehmen, die Betreiber von Kraftwerken und von Anlagen zur Stahlerzeugung im Hochofenprozeß sowie die Lieferanten von für den Einsatz in Kraftwerken und zur Stahlerzeugung im Hochofenprozeß bestimmter Steinkohle haben dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) auf Verlangen unverzüglich die Auskunft zu erteilen und die Unterlagen vorzulegen, die erforderlich sind, um das Vorliegen der Zuschußvoraussetzungen zu überprüfen und die Zuschüsse nach § 2 zu berechnen.
 
@@ -55,8 +50,7 @@ Ausfertigungsdatum: 12.12.1995
 
 (7) Weigert sich ein Unternehmen, eine Auskunft zu erteilen oder entsprechende Unterlagen vorzulegen, so kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die erforderliche Festsetzung im Wege der Schätzung treffen.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -72,8 +66,7 @@ Ausfertigungsdatum: 12.12.1995
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
-
-## § 5 – Begriffsbestimmungen
+# § 5 – Begriffsbestimmungen
 
 (1) Ein Kraftwerk im Sinne dieses Gesetzes ist eine Anlage zur Erzeugung elektrischer Energie mittels Dampf oder Dampf und Gas oder Verbrennungsmotoren. Unerheblich ist es, ob der Dampf oder das Gas in einer Turbo-Generatoren-Anlage völlig zur Stromerzeugung ausgenutzt oder nach nur teilweiser Ausnutzung für andere Zwecke, zum Beispiel für Heiz- und Fabrikationsdampf, genutzt wird.
 

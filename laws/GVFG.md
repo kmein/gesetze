@@ -1,15 +1,11 @@
-# [GVFG] Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden  (Gemeindeverkehrsfinanzierungsgesetz - GVFG)
-
-Ausfertigungsdatum: 18.03.1971
-
+% Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden  (Gemeindeverkehrsfinanzierungsgesetz - GVFG)
+% Ausfertigungsdatum: 18.03.1971
  
-
-## § 1 – Finanzhilfen des Bundes
+# § 1 – Finanzhilfen des Bundes
 
 Der Bund gewährt den Ländern Finanzhilfen für Investitionen zur Verbesserung der Verkehrsverhältnisse der Gemeinden.
 
-
-## § 2 – Förderungsfähige Vorhaben
+# § 2 – Förderungsfähige Vorhaben
 
 (1) Die Länder können folgende Vorhaben durch Zuwendungen aus den Finanzhilfen fördern, soweit sie dem öffentlichen Personennahverkehr dienen und überwiegend auf besonderem Bahnkörper oder auf Streckenabschnitten, die eine Bevorrechtigung der Bahnen durch geeignete Bauformen beziehungsweise Fahrleitsysteme sicherstellen, geführt werden:
 
@@ -37,8 +33,7 @@ c) Seilbahnsysteme, sofern die nach dem Beihilferecht der Europäischen Union zu
 
 2. Grunderneuerung von Verkehrswegen der nichtbundeseigenen Eisenbahnen.
 
-
-## § 3 – Voraussetzungen der Förderung
+# § 3 – Voraussetzungen der Förderung
 
 Voraussetzung für die Förderung nach § 2 ist, daß
 
@@ -56,8 +51,7 @@ d) Belange behinderter und anderer Menschen mit Mobilitätsbeeinträchtigung ber
 
 3\. (weggefallen)
 
-
-## § 4 – Höhe und Umfang der Förderung
+# § 4 – Höhe und Umfang der Förderung
 
 (1) Aus den Finanzhilfen des Bundes ist die Förderung zulässig für
 
@@ -87,8 +81,7 @@ b) vor dem 1. Januar 1961 erworben worden sind.
 
 (4) Abweichend von Absatz 3 Nummer 2 sind bei Vorhaben nach § 2 Absatz 1 und nach § 11 Planungskosten zuwendungsfähig in Höhe von 10 Prozent der zuwendungsfähigen Kosten nach Absatz 2. Diese Planungskosten sind mit dem Vorhaben zusammen zu beantragen und können nur einmalig mit dem Vorhaben zusammen gefördert werden.
 
-
-## § 5 – Programme
+# § 5 – Programme
 
 (1) Für Vorhaben, die aus den Finanzhilfen gefördert werden sollen, sind Programme für den Zeitraum der jeweiligen Finanzplanung aufzustellen sowie jährlich der Entwicklung anzupassen und fortzuführen.
 
@@ -96,8 +89,7 @@ b) vor dem 1. Januar 1961 erworben worden sind.
 
 (3) Die Programme sind abzustellen auf die voraussichtlich zur Verfügung stehenden Mittel. Weitere Vorhaben können nachrichtlich aufgenommen werden.
 
-
-## § 6 – Aufstellung der Programme
+# § 6 – Aufstellung der Programme
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur stellt auf Grund von Vorschlägen der Länder und im Benehmen mit ihnen Programme auf für
 
@@ -113,16 +105,13 @@ b) vor dem 1. Januar 1961 erworben worden sind.
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur teilt auf der Grundlage der Programme den Ländern die Finanzhilfen zu.
 
-
-## § 7 – Wirkung der Programme
+# § 7 – Wirkung der Programme
 
 Die Finanzhilfen dürfen nur für Vorhaben verwendet werden, die in die Programme aufgenommen sind.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Vereinfachter Verwendungsnachweis
+# § 9 – Vereinfachter Verwendungsnachweis
 
 (1) Die Länder weisen dem Bundesministerium für Verkehr und digitale Infrastruktur jeweils für ein Haushaltsjahr die zweckentsprechende Verwendung der Finanzhilfen nach durch Mitteilung
 
@@ -136,8 +125,7 @@ Die Finanzhilfen dürfen nur für Vorhaben verwendet werden, die in die Programm
 
 (2) Ein weitergehender Verwendungsnachweis der Länder entfällt.
 
-
-## § 10 – Zweckbindung und Verteilung der Mittel
+# § 10 – Zweckbindung und Verteilung der Mittel
 
 (1) Für Vorhaben zur Verbesserung der Verkehrsverhältnisse der Gemeinden nach Maßgabe dieses Gesetzes stehen folgende Beträge zur Verfügung:
 
@@ -155,8 +143,7 @@ Der Betrag nach Nummer 3 steigt ab dem Jahr 2026 jährlich um 1,8 Prozent.
 
 (4) (weggefallen)
 
-
-## § 11 – Vorhaben der Eisenbahnen des Bundes
+# § 11 – Vorhaben der Eisenbahnen des Bundes
 
 (1) Führen die Eisenbahnen des Bundes oder andere Unternehmen, die sich überwiegend in der Hand des Bundes oder eines mehrheitlich dem Bund gehörenden Unternehmens befinden, Vorhaben zur Verbesserung der Verkehrsverhältnisse der Gemeinden durch, so können auch sie aus den nach § 10 Abs. 1 zur Verfügung stehenden Mitteln Investitionszuschüsse erhalten. Dies gilt auch für Investitionen in die Elektrifizierung und Reaktivierung von Schienenstrecken des Schienenpersonennahverkehrs. Vorhaben der Grunderneuerung sind ausgeschlossen. Die §§ 2, 3, 4, 9 und 10 Absatz 1 sowie die §§ 12 und 14 gelten sinngemäß. Für Anlagen vorhandener S-Bahnen gilt auch § 2 Abs. 3.
 
@@ -164,8 +151,7 @@ Der Betrag nach Nummer 3 steigt ab dem Jahr 2026 jährlich um 1,8 Prozent.
 
 (3) Die Förderung von Vorhaben nach den Absätzen 1 und 2 bedarf der Zustimmung des beteiligten Landes.
 
-
-## § 12 – Öffentliche Schutzräume
+# § 12 – Öffentliche Schutzräume
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann den Träger einer unterirdischen Verkehrsanlage, die in das Programm nach § 6 Abs. 1 aufgenommen ist, auffordern, in der Verkehrsanlage öffentliche Schutzräume einzurichten, wenn der Bund die entstehenden Mehrkosten trägt.
 
@@ -175,13 +161,11 @@ Der Betrag nach Nummer 3 steigt ab dem Jahr 2026 jährlich um 1,8 Prozent.
 
 (4) In den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen finden die Absätze 1 bis 3 keine Anwendung.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Übergangsvorschrift
+# § 14 – Übergangsvorschrift
 
 (1) Nach diesem Gesetz werden Vorhaben nicht gefördert, für die der Träger des Vorhabens seine Verpflichtungen vor dem 1. Januar des Jahres, in dem die Förderung beginnen soll, erfüllt hat.
 
@@ -193,15 +177,12 @@ Der Betrag nach Nummer 3 steigt ab dem Jahr 2026 jährlich um 1,8 Prozent.
 
 (5) (weggefallen)
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## § 16
+# § 16
 
 (weggefallen)
 
-
-## § 17
+# § 17
 
 (Inkrafttreten)

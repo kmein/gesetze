@@ -1,15 +1,11 @@
-# [GVFV] Verordnung über das Formular für den Vollstreckungsauftrag an den Gerichtsvollzieher  (Gerichtsvollzieherformular-Verordnung - GVFV)
-
-Ausfertigungsdatum: 28.09.2015
-
+% Verordnung über das Formular für den Vollstreckungsauftrag an den Gerichtsvollzieher  (Gerichtsvollzieherformular-Verordnung - GVFV)
+% Ausfertigungsdatum: 28.09.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 753 Absatz 3 der Zivilprozessordnung, der durch Artikel 1 Nummer 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258) eingefügt worden ist, verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Formular
+# § 1 – Formular
 
 (1) Für den Vollstreckungsauftrag an den Gerichtsvollzieher zur Vollstreckung von Geldforderungen wird das in der Anlage bestimmte Formular eingeführt. Das Formular besteht aus den folgenden Teilen:
 
@@ -21,8 +17,7 @@ Auf Grund des § 753 Absatz 3 der Zivilprozessordnung, der durch Artikel 1 Numme
 
 (2) Für einen Auftrag, der ausschließlich die Zustellung eines Schriftstücks zum Inhalt hat, gilt der Formularzwang nicht. Von der verbindlichen Nutzung ebenfalls ausgenommen sind Vollstreckungsaufträge zur Beitreibung von öffentlich-rechtlichen Forderungen.
 
-
-## § 2 – Zulässige Abweichungen vom Formular; Einreichung des Auftrags
+# § 2 – Zulässige Abweichungen vom Formular; Einreichung des Auftrags
 
 (1) Inhaltliche Abweichungen von dem Formular einschließlich der Anlagen 1 und 2 sind nicht zulässig. Anpassungen, die auf der Änderung von Rechtsvorschriften beruhen, sind zulässig.
 
@@ -42,39 +37,33 @@ Die durch das Formular festgelegte Reihenfolge der Module ist einzuhalten. Die n
 
 (6) Die Absätze 3 und 4 gelten für die Forderungsaufstellung in der Anlage 1 entsprechend.
 
-
-## § 3 – Elektronisch ausfüllbares und auslesbares Formular
+# § 3 – Elektronisch ausfüllbares und auslesbares Formular
 
 (1) Die Länder dürfen das Formular in elektronisch ausfüllbarer Form zur Einreichung in Papierform zur Verfügung stellen.
 
 (2) Zur elektronischen Weiterverarbeitung der Daten aus einem in Papierform eingereichten Formular kann dieses elektronisch ausgelesen werden. Die Länder sind befugt, die Voraussetzungen hierfür festzulegen.
 
-
-## § 4 – Formular zur Übermittlung der Daten in elektronischer Form
+# § 4 – Formular zur Übermittlung der Daten in elektronischer Form
 
 (1) Die Länder dürfen Anpassungen von dem in der Anlage bestimmten Formular zulassen, die es, ohne dessen Inhalt zu verändern oder dessen Verständnis zu erschweren, ermöglichen, das Formular in elektronischer Form auszufüllen und dem Gerichtsvollzieher oder dem Gericht als strukturierten Datensatz zu übermitteln. Für die elektronische Übermittlung sind die in dem Formular enthaltenen Angaben in das XML-Format zu übertragen. Die Länder können dazu eine gemeinsame Koordinierungsstelle durch Verwaltungsvereinbarung einrichten; besteht bereits eine solche Stelle, so können die Länder sich dieser bedienen.
 
 (2) Es reicht aus, wenn der Antragsteller dem Gerichtsvollzieher oder dem Gericht nur die Module, die Angaben des Antragstellers enthalten, als strukturierten Datensatz übermittelt. § 2 Absatz 4 gilt entsprechend.
 
-
-## § 5 – Verbindlichkeit
+# § 5 – Verbindlichkeit
 
 Vom 1. April 2016 an ist das gemäß § 1 eingeführte Formular verbindlich zu nutzen.
 
-
-## § 6 – Übergangsregelung aus Anlass des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung
+# § 6 – Übergangsregelung aus Anlass des Gesetzes zur Durchführung der Verordnung (EU) Nr. 655/2014 sowie zur Änderung sonstiger zivilprozessualer, grundbuchrechtlicher und vermögensrechtlicher Vorschriften und zur Änderung der Justizbeitreibungsordnung
 
 Für Aufträge, die bis zum 28. Februar 2017 eingereicht werden, kann das bis zum 30. November 2016 bestimmte Formular weiter genutzt werden.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
  
 
-
-## Anlage – (zu § 1 Absatz 1)
+# Anlage – (zu § 1 Absatz 1)
 
 (Fundstelle: BGBl. I 2016, 2603 - 2612)
 

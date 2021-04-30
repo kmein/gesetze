@@ -1,13 +1,9 @@
-# [DepV] Verordnung über Deponien und Langzeitlager  (Deponieverordnung - DepV)
-
-Ausfertigungsdatum: 27.04.2009
-
+% Verordnung über Deponien und Langzeitlager  (Deponieverordnung - DepV)
+% Ausfertigungsdatum: 27.04.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -57,8 +53,7 @@ b) vor dem 16. Juli 2001 begonnen hat und Festlegungen für die Stilllegungsphas
 
 6. die ausschließliche Lagerung oder Ablagerung von Abfällen, die unmittelbar und üblicherweise beim Aufsuchen, Gewinnen, Aufbereiten und Weiterverarbeiten sowie bei der damit zusammenhängenden Lagerung von Bodenschätzen anfallen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 In dieser Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -128,8 +123,7 @@ Ermittlung und Bewertung aller für eine langfristig sichere Deponierung eines A
 
 Feuerungsanlage nach § 2 Absatz 4 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754), in der jeweils geltenden Fassung, in der Klärschlamm zum Zweck der Vorbehandlung verbrannt wird;
 
-19a.  
-Anlage zur thermischen Vorbehandlung des Klärschlamms:
+19a. Anlage zur thermischen Vorbehandlung des Klärschlamms:
 
 Feuerungsanlage nach § 2 Absatz 4 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen, in der Klärschlamm durch Verfahren wie Vergasung, Teilverbrennung und thermische Behandlungsverfahren mit indirekter Beheizung des Behandlungsreaktors oder eine Kombination daraus behandelt wird;
 
@@ -189,8 +183,7 @@ Natürliche oder juristische Person, die Adressat des Zulassungsbescheides ist;
 37. Zuordnungskriterien:  
 Zuordnungswerte unter Einbeziehung der Fußnoten nach Anhang 3 Nummer 2 Tabelle 2 bei Anwendung des Eingangstextes von Anhang 3 Nummer 2.
 
-
-## § 3 – Errichtung
+# § 3 – Errichtung
 
 (1) Deponien oder Deponieabschnitte der Klasse 0, I, II oder III sind so zu errichten, dass die Anforderungen nach Absatz 3 sowie nach Anhang 1 an den Standort, die geologische Barriere und das Basisabdichtungssystem eingehalten werden.
 
@@ -200,8 +193,7 @@ Zuordnungswerte unter Einbeziehung der Fußnoten nach Anhang 3 Nummer 2 Tabelle 
 
 (4) Hat die zuständige Behörde bei Deponien der Klasse 0 auf Grund einer Bewertung der Risiken für die Umwelt entschieden, dass die Sammlung und Behandlung von Sickerwasser nicht erforderlich ist, oder wurde festgestellt, dass die Deponie keine Gefährdung für Boden, Grundwasser oder Oberflächenwasser darstellt, so können die Anforderungen nach Absatz 1 entsprechend herabgesetzt werden.
 
-
-## § 4 – Organisation und Personal
+# § 4 – Organisation und Personal
 
 Der Deponiebetreiber hat die Organisation einer Deponie so auszugestalten, dass
 
@@ -215,13 +207,11 @@ Der Deponiebetreiber hat die Organisation einer Deponie so auszugestalten, dass
 
 5. Unfälle vermieden und eventuelle Unfallfolgen begrenzt werden.
 
-
-## § 5 – Inbetriebnahme
+# § 5 – Inbetriebnahme
 
 Der Deponiebetreiber darf die Deponie oder einen Deponieabschnitt erst in Betrieb nehmen, wenn die zuständige Behörde die für den Betrieb erforderlichen Einrichtungen abgenommen hat. Satz 1 gilt für wesentliche Änderungen der Deponie oder eines Deponieabschnittes entsprechend.
 
-
-## § 6 – Voraussetzungen für die Ablagerung
+# § 6 – Voraussetzungen für die Ablagerung
 
 (1) Abfälle dürfen auf Deponien oder Deponieabschnitten nur abgelagert werden, wenn die jeweiligen Annahmekriterien nach den Absätzen 3 bis 5, bei vollständig stabilisierten Abfällen (Abfallschlüssel 19 03 05 der Anlage zur Abfallverzeichnis-Verordnung) zusätzlich die Anforderungen nach Absatz 2, bereits bei der Anlieferung eingehalten werden. Die Annahmekriterien sind im einzelnen Abfall, ohne Vermischung mit anderen Stoffen oder Abfällen, einzuhalten. Soweit es zur Einhaltung der Annahmekriterien erforderlich ist, sind Abfälle vor der Ablagerung zu behandeln. Die Behandlung ist ausreichend, wenn das Behandlungsergebnis irreversibel ist und die Annahmekriterien durch die Behandlung dauerhaft eingehalten werden. Satz 2 gilt bei vorgemischten Abfällen (Abfallschlüssel 19 02 03, 19 02 04 der Anlage zur Abfallverzeichnis-Verordnung) sowie bei teilweise stabilisierten und verfestigten Abfällen (Abfallschlüssel 19 03 04, 19 03 06, 19 03 07 der Anlage zur Abfallverzeichnis-Verordnung) für den jeweiligen Abfall vor der Behandlung.
 
@@ -293,8 +283,7 @@ abgelagert werden, soweit zuvor eine möglichst weitgehende Aussortierung organi
 
 2. für Abfälle, die aus dem Rückbau einer Deponie oder einer Altlast nach § 2 Absatz 5 des Bundes-Bodenschutzgesetzes vom 17. März 1998 (BGBl. I S. 502), das zuletzt durch Artikel 3 des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3214) geändert worden ist, stammen, wenn die heizwertreichen Abfallanteile vor der Ablagerung weitgehend abgetrennt werden.
 
-
-## § 7 – Nicht zugelassene Abfälle
+# § 7 – Nicht zugelassene Abfälle
 
 (1) Folgende Abfälle dürfen nicht auf einer Deponie der Klasse 0, I, II oder III abgelagert werden:
 
@@ -344,8 +333,7 @@ b) stechenden Geruch freisetzen oder
 
 c) keine ausreichende Stabilität gegenüber den geomechanischen Bedingungen aufweisen.
 
-
-## § 8 – Annahmeverfahren
+# § 8 – Annahmeverfahren
 
 (1) Der Abfallerzeuger, bei Sammelentsorgung der Einsammler, hat dem Deponiebetreiber rechtzeitig vor der ersten Anlieferung die grundlegende Charakterisierung des Abfalls mit mindestens folgenden Angaben vorzulegen:
 
@@ -353,8 +341,7 @@ c) keine ausreichende Stabilität gegenüber den geomechanischen Bedingungen auf
 
 2. Abfallbeschreibung (betriebsinterne Abfallbezeichnung, Abfallschlüssel und Abfallbezeichnung nach der Anlage zur Abfallverzeichnis-Verordnung),
 
-2a.  
-Ergebnis der Prüfung der Verwertbarkeit und Verwertungsmöglichkeiten,
+2a. Ergebnis der Prüfung der Verwertbarkeit und Verwertungsmöglichkeiten,
 
 3. Art der Vorbehandlung, soweit durchgeführt,
 
@@ -444,13 +431,11 @@ Verordnung</th><th style="text-align: left;">Beschreibung</th><th style="text-al
 
 Die Erklärung nach Satz 2 Nummer 2 entfällt, wenn die Einhaltung der Zuordnungskriterien mit dem Verfahren nach § 6 Absatz 2 Nummer 1 bis 3 nachgewiesen wird.
 
-
-## § 9 – Handhabung der Abfälle
+# § 9 – Handhabung der Abfälle
 
 Der Betreiber einer Deponie der Klasse 0, I, II oder III hat sicherzustellen, dass durch die abgelagerten Abfälle eine Beeinträchtigung der Standsicherheit des Deponiekörpers nicht zu besorgen ist. Im Übrigen hat er die abzulagernden Abfälle nach Anhang 5 Nummer 4 zu handhaben. Der Betreiber einer Deponie der Klasse IV hat Abfälle nach Anhang 5 Nummer 5 zu handhaben.
 
-
-## § 10 – Stilllegung
+# § 10 – Stilllegung
 
 (1) In der Stilllegungsphase hat der Betreiber
 
@@ -464,8 +449,7 @@ durchzuführen, um eine Beeinträchtigung des Wohles der Allgemeinheit zu verhin
 
 (3) Die zuständige Behörde hat bei einer Stilllegung einer Deponie oder eines Deponieabschnittes die einzelnen Deponieabschnitte und die dazugehörigen technischen Einrichtungen abzunehmen. Die Abnahme erfolgt nach der Errichtung des Oberflächenabdichtungssystems.
 
-
-## § 11 – Nachsorge
+# § 11 – Nachsorge
 
 (1) Der Deponiebetreiber hat in der Nachsorgephase alle Maßnahmen, insbesondere die Kontroll- und Überwachungsmaßnahmen, nach § 12 durchzuführen, die zur Verhinderung von Beeinträchtigungen des Wohles der Allgemeinheit erforderlich sind.
 
@@ -477,8 +461,7 @@ durchzuführen, um eine Beeinträchtigung des Wohles der Allgemeinheit zu verhin
 
 zukünftig keine Beeinträchtigungen des Wohles der Allgemeinheit zu erwarten sind, kann sie auf Antrag des Deponiebetreibers die Kontroll- und Überwachungsmaßnahmen nach § 12 aufheben und nach § 40 Absatz 5 des Kreislaufwirtschaftsgesetzes den Abschluss der Nachsorgephase feststellen.
 
-
-## § 12 – Maßnahmen zur Kontrolle, Verminderung und Vermeidung von Emissionen, Immissionen, Belästigungen und Gefährdungen
+# § 12 – Maßnahmen zur Kontrolle, Verminderung und Vermeidung von Emissionen, Immissionen, Belästigungen und Gefährdungen
 
 (1) Zur Feststellung, ob von einer Deponie die Besorgnis einer schädlichen Verunreinigung des Grundwassers oder sonstigen nachteiligen Veränderung seiner Eigenschaften ausgeht, legt die zuständige Behörde vor Beginn der Ablagerungsphase unter Berücksichtigung der jeweiligen hydrologischen Gegebenheiten am Standort der Deponie und der Grundwasserqualität entsprechende Auslöseschwellen und geeignete Grundwasser-Messstellen zur Kontrolle dieser Schwellen nach Anhang 5 Nummer 3.1 Ziffer 1 fest. Auf Antrag des Deponiebetreibers kann die zuständige Behörde bei Deponien der Klasse 0 Ausnahmen von den Anforderungen nach Satz 1 zur Festlegung von Auslöseschwellen zulassen.
 
@@ -504,8 +487,7 @@ Auf Antrag des Deponiebetreibers kann die zuständige Behörde bei Deponien der 
 
 (6) Bei allen Ereignissen mit erheblichen Beeinträchtigungen des Wohls der Allgemeinheit hat der Deponiebetreiber unverzüglich die erforderlichen Maßnahmen zur Begrenzung der Beeinträchtigungen des Wohls der Allgemeinheit sowie zur Vermeidung weiterer möglicher Ereignisse dieser Art zu ergreifen. Die zuständige Behörde verpflichtet den Deponiebetreiber, alle weiteren geeigneten Maßnahmen zu ergreifen, die zur Begrenzung der Umweltauswirkungen und zur Vermeidung weiterer möglicher Ereignisse im Sinne des Satzes 1 erforderlich sind.
 
-
-## § 13 – Information und Dokumentation
+# § 13 – Information und Dokumentation
 
 (1) Der Deponiebetreiber hat vor Beginn der Ablagerungsphase folgende Unterlagen zu erstellen:
 
@@ -533,8 +515,7 @@ Er hat die Unterlagen bei Bedarf fortzuschreiben und auf Verlangen der zuständi
 
 (7) Unbeschadet der Informations- und Dokumentationspflichten nach den Absätzen 1 bis 6 übermittelt der Deponiebetreiber auf Verlangen der zuständigen Behörde die für die Überprüfung der Zulassung der Deponie erforderlichen Informationen, insbesondere die Ergebnisse der Messungen und Kontrollen und sonstige Daten, die der Behörde einen Vergleich des Betriebes der Deponie mit dem Stand der Technik im Sinne des § 3 Absatz 28 des Kreislaufwirtschaftsgesetzes sowie der in § 36 Absatz 1 Nummer 1 bis 3 und 5 des Kreislaufwirtschaftsgesetzes genannten Anforderungen ermöglichen.
 
-
-## § 14 – Grundsätze
+# § 14 – Grundsätze
 
 (1) Deponieersatzbaustoffe dürfen für Einsatzbereiche im Sinne des § 15 auf Deponien der Klasse 0, I, II oder III nur verwendet werden, soweit hierdurch das Wohl der Allgemeinheit nicht beeinträchtigt wird. Insbesondere dürfen Deponieersatzbaustoffe nur in einer Menge eingesetzt werden, die für die Durchführung eines geordneten Deponiebetriebes und die hierfür erforderlichen Baumaßnahmen erforderlich ist. Als Deponieersatzbaustoff oder als Ausgangsstoff zur Herstellung von Deponieersatzbaustoffen sind, außer für die Rekultivierungsschicht des Oberflächenabdichtungssystems, ausschließlich mineralische Abfälle zugelassen.
 
@@ -548,8 +529,7 @@ Er hat die Unterlagen bei Bedarf fortzuschreiben und auf Verlangen der zuständi
 
 (3) Die Zuordnungskriterien und Zuordnungswerte nach Anhang 3 Nummer 2 in Verbindung mit Nummer 1 sind im einzelnen Abfall, ohne Vermischung mit anderen Stoffen oder Abfällen, einzuhalten. Satz 1 gilt bei vorgemischten sowie bei teilweise stabilisierten und verfestigten Abfällen (Abfallschlüssel 19 02 03, 19 02 04, 19 03 04, 19 03 06, 19 03 07 nach der Anlage zur Abfallverzeichnis-Verordnung) für den jeweiligen Abfall vor der Vermischung. Satz 1 gilt für vollständig stabilisierte Abfälle (Abfallschlüssel 19 03 05 der Anlage zur Abfallverzeichnis-Verordnung) mit der Maßgabe, dass die Zuordnungskriterien nach § 6 Absatz 2 bestimmt und bereits bei der Anlieferung eingehalten werden. § 6 Absatz 4 Satz 3 gilt entsprechend.
 
-
-## § 15 – Einsatzbereiche und Zuordnung
+# § 15 – Einsatzbereiche und Zuordnung
 
 Die Verwendung von Deponieersatzbaustoffen ist nur zulässig, wenn die Anforderungen des Anhangs 3 eingehalten werden. Beim Einsatz von Deponieersatzbaustoffen zur Profilierung ist ergänzend zu beachten, dass
 
@@ -557,13 +537,11 @@ Die Verwendung von Deponieersatzbaustoffen ist nur zulässig, wenn die Anforderu
 
 2. die Profilierung deponiebautechnisch erforderlich und nicht durch Änderung der zugelassenen Deponieform oder Umlagerung bereits abgelagerter Abfälle – soweit technisch möglich und wirtschaftlich zumutbar – zu erreichen ist.
 
-
-## § 16 – Inverkehrbringen von Abfällen
+# § 16 – Inverkehrbringen von Abfällen
 
 Abfälle dürfen zur Herstellung von Deponieersatzbaustoffen nur in Verkehr gebracht werden, wenn sie die Anforderungen nach § 14 Absatz 2 und 3 einhalten. Deponieersatzbaustoffe und unmittelbar als Deponieersatzbaustoff zu verwendende Abfälle dürfen nur in Verkehr gebracht werden, um sie Deponien zuzuführen, in denen die Anforderungen nach den §§ 14 und 15 eingehalten werden.
 
-
-## § 17 – Annahmeverfahren und Dokumentation
+# § 17 – Annahmeverfahren und Dokumentation
 
 (1) Für die Annahme von Deponieersatzbaustoffen gilt § 8 entsprechend.
 
@@ -571,8 +549,7 @@ Abfälle dürfen zur Herstellung von Deponieersatzbaustoffen nur in Verkehr gebr
 
 (3) Der Betreiber von Anlagen zur Herstellung von Deponieersatzbaustoffen hat die Abfallherkunft und Angaben über den Entsorgungsweg in das Register nach § 24 der Nachweisverordnung zu übernehmen.
 
-
-## § 18 – Sicherheitsleistung
+# § 18 – Sicherheitsleistung
 
 (1) Der Deponiebetreiber hat vor Beginn der Ablagerungsphase der zuständigen Behörde die Sicherheit für die Erfüllung von Inhaltsbestimmungen, Auflagen und Bedingungen zu leisten, die mit dem Planfeststellungsbeschluss oder der Plangenehmigung für die Ablagerungs-, Stilllegungs- oder Nachsorgephase zur Verhinderung oder Beseitigung von Beeinträchtigungen des Wohles der Allgemeinheit angeordnet wird. Satz 1 gilt zur Erfüllung der Auflagen und Bedingungen einer Änderungsgenehmigung entsprechend.
 
@@ -590,8 +567,7 @@ Bürgen nach Satz 2 Nummer 1 und Kreditinstitute nach Satz 2 Nummer 2 haben sich
 
 (4) Abweichend von Absatz 1 soll die zuständige Behörde von der Stellung einer Sicherheit absehen, wenn eine öffentlich-rechtliche Körperschaft, ein Eigenbetrieb oder eine Eigengesellschaft einer öffentlich-rechtlichen Körperschaft, ein Zweckverband oder eine Anstalt des öffentlichen Rechts die Deponie betreibt und sichergestellt ist, dass über Einstandspflichten von Bund, Ländern oder Kommunen der angestrebte Sicherungszweck jederzeit gewährleistet ist.
 
-
-## § 19 – Antrag, Anzeige
+# § 19 – Antrag, Anzeige
 
 (1) Für Errichtung und Betrieb einer Deponie nach § 35 Absatz 2 und 3 des Kreislaufwirtschaftsgesetzes sowie für die Zulassung vorzeitigen Beginns nach § 37 des Kreislaufwirtschaftsgesetzes hat der Träger des Vorhabens einen schriftlichen Antrag bei der zuständigen Behörde einzureichen, der mindestens enthalten muss:
 
@@ -629,13 +605,11 @@ Satz 1 gilt für die wesentliche Änderung einer Deponie oder ihres Betriebes en
 
 (3) Die Stilllegung einer Deponie oder eines Deponieabschnittes nach § 40 Absatz 1 des Kreislaufwirtschaftsgesetzes hat der Deponiebetreiber mindestens ein Jahr vor dem beabsichtigten Ende der Ablagerungsphase bei der zuständigen Behörde schriftlich anzuzeigen. Absatz 1 Satz 1, 4 und 5 gilt entsprechend, beschränkt auf die die Stilllegung betreffenden Angaben.
 
-
-## § 20 – Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
+# § 20 – Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
 
 Kann ein nach § 35 Absatz 2 des Kreislaufwirtschaftsgesetzes planfeststellungspflichtiges Vorhaben erhebliche Auswirkungen in einem anderen Staat haben, die in den Antragsunterlagen zu beschreiben sind, oder ersucht ein anderer Staat, der möglicherweise von den Auswirkungen erheblich berührt wird, darum, hat die zuständige Behörde die von dem anderen Staat benannten Behörden zum gleichen Zeitpunkt und im gleichen Umfang über das Vorhaben zu unterrichten wie die nach § 73 Absatz 2 des Verwaltungsverfahrensgesetzes zu beteiligenden Behörden. Für das weitere Verfahren der grenzüberschreitenden Behörden- und Öffentlichkeitsbeteiligung ist § 11a der Verordnung über das Genehmigungsverfahren entsprechend anzuwenden.
 
-
-## § 21 – Behördliche Entscheidungen
+# § 21 – Behördliche Entscheidungen
 
 (1) Im Planfeststellungsbeschluss oder in der Plangenehmigung nach § 35 Absatz 2 oder Absatz 3 des Kreislaufwirtschaftsgesetzes hat die zuständige Behörde für eine Deponie mindestens festzulegen:
 
@@ -699,22 +673,19 @@ Wird ein UVP-pflichtiges Vorhaben nicht zugelassen, müssen im Bescheid die daf�
 
 (4) Die zuständige Behörde kann zur Vorbereitung des Bescheides über die Zulassung des vorzeitigen Beginns, des Planfeststellungsbeschlusses oder der Plangenehmigung Teile der oder die gesamten Antragsunterlagen durch einen Sachverständigen überprüfen lassen, den sie nach Anhörung des Trägers des Vorhabens bestimmt.
 
-
-## § 21a – Öffentliche Bekanntmachung
+# § 21a – Öffentliche Bekanntmachung
 
 (1) Die Entscheidung über den Antrag auf Planfeststellung einer Deponie ist im Internet öffentlich bekannt zu machen; davon ausgenommen sind die mit dem Antrag eingereichten Unterlagen. Sofern der Planfeststellungsbeschluss Hinweise auf Geschäfts- oder Betriebsgeheimnisse enthält, sind die entsprechenden Stellen unkenntlich zu machen.
 
 (2) Absatz 1 gilt entsprechend für Anordnungen zur Stilllegung einer planfeststellungsbedürftigen Deponie nach § 40 Absatz 2 und 3 des Kreislaufwirtschaftsgesetzes.
 
-
-## § 22 – Überprüfung behördlicher Entscheidungen
+# § 22 – Überprüfung behördlicher Entscheidungen
 
 (1) Die zuständige Behörde hat durch geeignete Maßnahmen zu überwachen, dass die Deponie im Einklang mit den umweltbezogenen Bestimmungen der behördlichen Entscheidung nach § 21 errichtet, betrieben und stillgelegt wird.
 
 (2) Die zuständige Behörde hat die behördlichen Entscheidungen nach § 21 alle vier Jahre darauf zu überprüfen, ob zur Einhaltung des Standes der Technik im Sinne des § 3 Absatz 28 des Kreislaufwirtschaftsgesetzes sowie der in § 36 Absatz 1 Nummer 1 bis 3 und 5 des Kreislaufwirtschaftsgesetzes genannten Anforderungen weitere Bedingungen, Auflagen oder Befristungen angeordnet oder bestehende geändert werden müssen. Die zuständige Behörde nimmt Prüfungen entsprechend Satz 1 sowie Anordnungen oder Änderungen der behördlichen Entscheidungen vor, soweit die von der Deponie verursachten Beeinträchtigungen des Wohls der Allgemeinheit, die Betriebssicherheit oder neue umweltrechtliche Vorschriften dies erfordern.
 
-
-## § 22a – Überwachungspläne, Überwachungsprogramme
+# § 22a – Überwachungspläne, Überwachungsprogramme
 
 (1) Überwachungspläne im Sinne des § 47 Absatz 7 Satz 1 des Kreislaufwirtschaftsgesetzes haben Folgendes zu enthalten:
 
@@ -754,8 +725,7 @@ Wurde bei einer Überwachung festgestellt, dass der Deponiebetreiber in schwerwi
 
 (5) Nach jeder Vor-Ort-Besichtigung einer planfeststellungsbedürftigen Deponie, für die eine Pflicht zur Erstellung eines Überwachungsplans und Überwachungsprogramms besteht, erstellt die zuständige Behörde einen Bericht mit den relevanten Feststellungen über die Einhaltung der Zulassungsanforderungen und mit Schlussfolgerungen, ob weitere Maßnahmen notwendig sind. Der Bericht ist dem Deponiebetreiber innerhalb von zwei Monaten nach der Vor-Ort-Besichtigung durch die zuständige Behörde zu übermitteln. Der Bericht ist der Öffentlichkeit nach den Vorschriften des Bundes und der Länder über den Zugang zu Umweltinformationen innerhalb von vier Monaten nach der Vor-Ort-Besichtigung zugänglich zu machen.
 
-
-## § 23 – Errichtung und Betrieb
+# § 23 – Errichtung und Betrieb
 
 (1) Für die Errichtung und den Betrieb von Langzeitlagern gelten die folgenden Vorschriften entsprechend:
 
@@ -815,8 +785,7 @@ Bei Anlieferung der metallischen Quecksilberabfälle ist dem Betreiber des Langz
 
 (6) Bei Aschen aus der Klärschlammverbrennung und aus der Klärschlammmitverbrennung sowie bei kohlenstoffhaltigen Rückständen aus der Vorbehandlung von Klärschlamm durch vergleichbare thermische Verfahren, die nicht gemeinsam und ohne Vermischung mit anderen Abfällen zum Zwecke einer späteren Rückgewinnung des Phosphors in einem Langzeitlager gelagert werden, kann auf Antrag eine Ausnahme von der Nachweispflicht gemäß Absatz 1 Satz 2 zugelassen werden. Die Ausnahme ist auf maximal fünf Jahre zu befristen; sie kann befristet verlängert werden.
 
-
-## § 24 – Stilllegung und Nachsorge
+# § 24 – Stilllegung und Nachsorge
 
 (1) Besteht die Besorgnis, dass nach Stilllegung des Langzeitlagers von der Anlage oder dem Anlagengrundstück schädliche Umwelteinwirkungen oder sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen für die Allgemeinheit und die Nachbarschaft im Sinne von § 5 Absatz 3 Nummer 1 des Bundes-Immissionsschutzgesetzes hervorgerufen werden können, hat der Betreiber auf Verlangen der zuständigen Behörde durch einen im Einvernehmen mit der zuständigen Behörde bestimmten Sachverständigen überprüfen zu lassen, ob die Anforderungen nach § 5 Absatz 3 Nummer 1 des Bundes-Immissionsschutzgesetzes erfüllt sind. Die sonstigen Anforderungen des Bundes-Immissionsschutzgesetzes an Stilllegung und Nachsorge bleiben unberührt.
 
@@ -824,8 +793,7 @@ Bei Anlieferung der metallischen Quecksilberabfälle ist dem Betreiber des Langz
 
 (3) Bei der Prüfung des Antrags auf Bestimmung nach Absatz 1 Satz 1 stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass der Antragsteller die betreffenden Anforderungen des Absatzes 2 Satz 1 oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt. Nachweise nach Satz 1 sind der zuständigen Behörde vor Aufnahme der Tätigkeit im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden. Hinsichtlich der Überprüfung der erforderlichen Fachkunde des Antragstellers gilt § 36a Absatz 1 Satz 2 und Absatz 2 der Gewerbeordnung entsprechend; bei vorübergehender und nur gelegentlicher Tätigkeit eines Staatsangehörigen eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, der zur Ausübung einer solchen Tätigkeit in einem dieser Staaten niedergelassen ist, gilt hinsichtlich der erforderlichen Fachkunde § 13a Absatz 2 Satz 2 bis 5 und Absatz 3 der Gewerbeordnung entsprechend.
 
-
-## § 25 – In der Ablagerungsphase befindliche Altdeponien
+# § 25 – In der Ablagerungsphase befindliche Altdeponien
 
 (1) Abweichend von den §§ 3 bis 6, § 9, § 12 Absatz 1 und 2, § 13 Absatz 1 und 2 sowie den §§ 14 bis 16 kann eine Deponie oder ein Deponieabschnitt, die oder der sich am 16. Juli 2009 im Bau oder in der Ablagerungsphase befand und für die Festlegungen für die Errichtung und für die weitere Ablagerungsphase nach
 
@@ -865,15 +833,13 @@ c) sind relevante Mengen noch biologisch abbaubarer organischer Substanz im Depo
 
 3. Bei einer gezielten Befeuchtung oder Belüftung des Abfallkörpers sind der Wasserhaushalt, der Gashaushalt, die Temperaturentwicklung und die Setzungen des Deponiekörpers zu kontrollieren, um nachzuweisen, dass keine nachteiligen Auswirkungen auf den Deponiekörper und die Umwelt auftreten und ausreichend intensivierte oder beschleunigte biologische Abbauprozesse stattfinden.
 
-
-## § 26 – In der Stilllegungsphase befindliche Altdeponien
+# § 26 – In der Stilllegungsphase befindliche Altdeponien
 
 (1) Abweichend von den §§ 10, 11, 12 Absatz 1 und 2, § 13 Absatz 1 und 2 sowie den §§ 14 bis 16 kann eine Deponie oder ein Deponieabschnitt, die oder der sich am 16. Juli 2009 in der Stilllegungsphase befand und für die oder den Festlegungen für die weitere Stilllegungsphase nach § 12 oder § 14 der Deponieverordnung vom 24. Juli 2002 (BGBl. I S. 2807), die zuletzt durch Artikel 2 der Verordnung vom 13. Dezember 2006 (BGBl. I S. 2860) geändert worden ist, und der Deponieverwertungsverordnung vom 25. Juli 2005 (BGBl. I S. 2252), die zuletzt durch Artikel 2 der Verordnung vom 13. Dezember 2006 (BGBl. I S. 2860) geändert worden ist, in einer Planfeststellung nach § 31 Absatz 2, einer Plangenehmigung nach § 31 Absatz 3 oder einer Anordnung nach § 35 oder § 36 Absatz 2 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) geändert worden ist, bestandskräftig getroffen wurden, nach den getroffenen Festlegungen weiterhin stillgelegt werden. Sind Festlegungen nach Satz 1 auch für die endgültige Stilllegung und die Nachsorgephase getroffen worden, kann die Deponie oder der Deponieabschnitt nach diesen Festlegungen endgültig stillgelegt und nachgesorgt werden. Ungeachtet des Satzes 1 sind die allgemeinen Anforderungen an die Abdichtungssysteme nach Anhang 1 Nummer 2.1 einzuhalten.
 
 (2) § 25 Absatz 3 und 4 gilt für Deponien oder Deponieabschnitte nach Absatz 1 entsprechend.
 
-
-## § 27 – Ordnungswidrigkeiten
+# § 27 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -949,11 +915,9 @@ c) sind relevante Mengen noch biologisch abbaubarer organischer Substanz im Depo
 
 (3) Die Bestimmungen des Absatzes 1 Nummer 1 bis 9 und 17 bis 21 sowie des Absatzes 2 Nummer 1 bis 12 gelten auch für Langzeitlager im Sinne des § 23 Absatz 1 Satz 1.
 
+# § 28 – (weggefallen)
 
-## § 28 – (weggefallen)
-
-
-## Anhang 1 – Anforderungen an den Standort, die geologische Barriere, Basis- und Oberflächenabdichtungssysteme von Deponien der Klasse 0, I, II und III (zu § 3 Absatz 1, § 10 Absatz 1, den §§ 23, 28)
+# Anhang 1 – Anforderungen an den Standort, die geologische Barriere, Basis- und Oberflächenabdichtungssysteme von Deponien der Klasse 0, I, II und III (zu § 3 Absatz 1, § 10 Absatz 1, den §§ 23, 28)
 
 (Fundstelle: BGBl. I 2009, 915 - 919;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1057,8 +1021,7 @@ Für die Herstellung des Abdichtungssystems soll ein einziger verantwortlicher A
 2.1.2  
 Bundeseinheitliche Qualitätsstandards
 
-Für die bundeseinheitlichen Eignungsbeurteilungen nach Nummer 2.1 Satz 4 sowie für den Einsatz von natürlichem, ggf. vergütetem Boden- und Gesteinsmaterial aus der Umgebung sowie von Abfällen definieren die Länder Prüfkriterien und legen Anforderungen an den fachgerechten Einbau sowie an das Qualitätsmanagement in bundeseinheitlichen Qualitätsstandards fest.  
-  
+Für die bundeseinheitlichen Eignungsbeurteilungen nach Nummer 2.1 Satz 4 sowie für den Einsatz von natürlichem, ggf. vergütetem Boden- und Gesteinsmaterial aus der Umgebung sowie von Abfällen definieren die Länder Prüfkriterien und legen Anforderungen an den fachgerechten Einbau sowie an das Qualitätsmanagement in bundeseinheitlichen Qualitätsstandards fest.   
 Bundeseinheitliche Qualitätsstandards konkretisieren den Stand der Technik nach Nummer 2.1.1. Sie sind unter https://www.laga-online.de/Publikationen-50-Informationen.html abrufbar.
 
 2.2  
@@ -1241,8 +1204,7 @@ Hat die zuständige Behörde bei einer Monodeponie für Baggergut aus Gewässern
 
 DIN-Normen sind bei der Beuth-Verlag GmbH, Berlin, erschienen und zu beziehen, beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## Anhang 2 – Anforderungen an den Standort, geologische Barriere, Langzeitsicherheitsnachweis und Stilllegungsmaßnahmen von Deponien der Klasse IV im Salzgestein (zu § 3 Absatz 2, § 10 Absatz 1, § 11 Absatz 2)
+# Anhang 2 – Anforderungen an den Standort, geologische Barriere, Langzeitsicherheitsnachweis und Stilllegungsmaßnahmen von Deponien der Klasse IV im Salzgestein (zu § 3 Absatz 2, § 10 Absatz 1, § 11 Absatz 2)
 
 (Fundstelle: BGBl. I 2009, 920 - 924)
 
@@ -1559,8 +1521,7 @@ Die Ergebnisse fortlaufender Messungen zur Höhenlage der Oberkante der Verfüll
 
 2. Der Leitfaden für das Verwahren von Tagesschächten ist veröffentlicht im Sammelblatt der Bezirksregierung Arnsberg, Abteilung 6, Az.: 86.18.13.1-8-35.
 
-
-## Anhang 3 – Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 23 bis 26, 37, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
+# Anhang 3 – Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 23 bis 26, 37, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
 
 (Fundstelle: BGBl. I 2009, 925 - 928;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1718,8 +1679,7 @@ Untersuchung entfällt bei Bodenmaterial ohne mineralische Fremdbestandteile.
 <span id="FnA2-F775746_17"></span><a href="#FnR.FnA2-F775746_17" class="Footnote">16)</a>  
 Überschreitungen des Antimonwertes nach Nummer 3.18a sind zulässig, wenn der C<sub>o</sub>-Wert der Perkolationsprüfung bei L/S = 0,1 l/kg nach Nummer 3.18b nicht überschritten wird.
 
-
-## Anhang 4 – Vorgaben zur Beprobung (Probenahme, Probevorbereitung und Untersuchung von Abfällen und Deponieersatzbaustoffen) (zu § 6 Absatz 2, § 8 Absatz 1, 3 und 5, § 23)
+# Anhang 4 – Vorgaben zur Beprobung (Probenahme, Probevorbereitung und Untersuchung von Abfällen und Deponieersatzbaustoffen) (zu § 6 Absatz 2, § 8 Absatz 1, 3 und 5, § 23)
 
 (Fundstelle: BGBl. I 2009, 929 - 939;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2154,10 +2114,9 @@ Einstellung des Wassergehaltes:
 
 300 g der aufbereiteten Probe werden mit 300 ml Leitungswasser angefeuchtet und in die in Bild 1 beschriebene Apparatur überführt. Nach Auflegen des Deckels und Abdichtung wird ein Unterdruck von ca. 100 000 Pa (Wasserstrahlvakuum) angelegt und über 30 Minuten gehalten. Das abfiltrierte Wasservolumen ist zu bestimmen und von den zugegebenen 300 ml Leitungswasser abzuziehen. Die so ermittelte Wassermasse ist dem Teil der Probe zuzugeben, der in die Testapparatur eingebaut wird.
 
-Liegt der Wassergehalt der einzusetzenden Probe über dem ermittelten Wassergehalt, so ist die Probe ohne weiteres Anfeuchten in die in Bild 1 beschriebene Apparatur zu überführen, über 30 Minuten dem Unterdruck in der Saugnutsche auszusetzen und in die Testapparatur einzubauen.  
-  
+Liegt der Wassergehalt der einzusetzenden Probe über dem ermittelten Wassergehalt, so ist die Probe ohne weiteres Anfeuchten in die in Bild 1 beschriebene Apparatur zu überführen, über 30 Minuten dem Unterdruck in der Saugnutsche auszusetzen und in die Testapparatur einzubauen.   
 
-![](../normengrafiken/bgbl1_2009/j0900-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j0900-1_0010.jpg)
 
 3.3.1.6  
 Probemenge:
@@ -2207,7 +2166,7 @@ Für die Durchführung der Bestimmung wird eine Apparatur nach Bild 2 verwendet.
   
   
 
-![](../normengrafiken/bgbl1_2009/j0900-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j0900-1_0020.jpg)
 
 3.3.2.3  
 Temperatur:
@@ -2429,8 +2388,7 @@ https://www.laga-online.de/Publikationen-50-Mitteilungen.html.
 
 Anhang 4 Nr. 3.2.20 Kursivdruck: Wegen offensichtlicher Unrichtigkeit der Änderungsanweisung in Art. 2 Nr. 13 Buchst. p V v. 30.6.2020 I 1533 wurde der Änderungsbefehl statt wie angegeben in Anhang 4 Nr. 3.20 in Anhang 4 Nr. 3.2.20 ausgeführt
 
-
-## Anhang 5 – Information, Dokumentation, Kontrollen, Betrieb (zu § 4 Nummer 2, den §§ 9, 10 Absatz 2, § 11 Absatz 2, § 12 Absatz 1 bis 3, § 13 Absatz 1 bis 3 und 5, § 17 Absatz 2, § 23 Satz 1)
+# Anhang 5 – Information, Dokumentation, Kontrollen, Betrieb (zu § 4 Nummer 2, den §§ 9, 10 Absatz 2, § 11 Absatz 2, § 12 Absatz 1 bis 3, § 13 Absatz 1 bis 3 und 5, § 17 Absatz 2, § 23 Satz 1)
 
 (Fundstelle: BGBl. I 2009, 940 - 946;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2625,8 +2583,7 @@ Soweit auf Grund der Verordnung (EG) Nr. 166/2006 des Europäischen Parlaments u
 3.2  
 Mess- und Kontrollprogramm
 
-Der Betreiber einer Deponie der Klasse 0, I, II oder III hat die in der Tabelle Nummer 1 bis 5, der Betreiber einer Deponie der Klasse IV hat die in der Tabelle Nummer 3 und 6 genannten Kontrollen und Messungen in der dort genannten Häufigkeit durchzuführen oder durchführen zu lassen, soweit diese Messungen und Kontrollen nach dieser Verordnung vorgeschrieben werden. Die mit den Kontrollen und Messungen beauftragten Personen müssen über die erforderliche Sach- und Fachkunde verfügen. Mit Zustimmung der zuständigen Behörde können bei Deponien oder Deponieabschnitten Abweichungen von Umfang und Häufigkeit der nach Satz 1 durchzuführenden Kontrollen und Messungen festgelegt werden.  
-  
+Der Betreiber einer Deponie der Klasse 0, I, II oder III hat die in der Tabelle Nummer 1 bis 5, der Betreiber einer Deponie der Klasse IV hat die in der Tabelle Nummer 3 und 6 genannten Kontrollen und Messungen in der dort genannten Häufigkeit durchzuführen oder durchführen zu lassen, soweit diese Messungen und Kontrollen nach dieser Verordnung vorgeschrieben werden. Die mit den Kontrollen und Messungen beauftragten Personen müssen über die erforderliche Sach- und Fachkunde verfügen. Mit Zustimmung der zuständigen Behörde können bei Deponien oder Deponieabschnitten Abweichungen von Umfang und Häufigkeit der nach Satz 1 durchzuführenden Kontrollen und Messungen festgelegt werden.   
 
 Tabelle
 
@@ -2776,8 +2733,7 @@ Bekanntmachungen sachverständiger Stellen
 
 Die in diesem Anhang genannten Bekanntmachungen sachverständiger Stellen sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## Anhang 6 – Besondere Anforderungen an die zeitweilige Lagerung von metallischen Quecksilberabfällen bei einer Lagerdauer von mehr als einem Jahr in Langzeitlagern (zu § 23 Absatz 2 Satz 1)
+# Anhang 6 – Besondere Anforderungen an die zeitweilige Lagerung von metallischen Quecksilberabfällen bei einer Lagerdauer von mehr als einem Jahr in Langzeitlagern (zu § 23 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2013, 818 - 819)
 

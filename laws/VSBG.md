@@ -1,17 +1,13 @@
-# [VSBG] Gesetz über die alternative Streitbeilegung in Verbrauchersachen  (Verbraucherstreitbeilegungsgesetz - VSBG)
-
-Ausfertigungsdatum: 19.02.2016
-
+% Gesetz über die alternative Streitbeilegung in Verbrauchersachen  (Verbraucherstreitbeilegungsgesetz - VSBG)
+% Ausfertigungsdatum: 19.02.2016
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die außergerichtliche Beilegung von Streitigkeiten durch eine nach diesem Gesetz anerkannte private Verbraucherschlichtungsstelle oder durch eine nach diesem Gesetz eingerichtete behördliche Verbraucherschlichtungsstelle unabhängig von dem angewendeten Konfliktbeilegungsverfahren. Dieses Gesetz gilt auch für Verbraucherschlichtungsstellen, die auf Grund anderer Rechtsvorschriften anerkannt, beauftragt oder eingerichtet wurden, soweit diese anderen Rechtsvorschriften keine abweichende Regelung treffen; von den §§ 2 und 41 darf nicht abgewichen werden.
 
 (2) Dieses Gesetz ist nicht anwendbar auf Kundenbeschwerdestellen oder auf sonstige Einrichtungen zur Beilegung von Streitigkeiten, die nur von einem einzigen Unternehmer oder von mit ihm verbundenen Unternehmen getragen oder finanziert werden oder die nur im Auftrag eines solchen Unternehmers oder von mit ihm verbundenen Unternehmen tätig werden.
 
-
-## § 2 – Verbraucherschlichtungsstelle
+# § 2 – Verbraucherschlichtungsstelle
 
 (1) Verbraucherschlichtungsstelle ist eine Einrichtung, die
 
@@ -21,8 +17,7 @@ Ausfertigungsdatum: 19.02.2016
 
 (2) Eine Einrichtung, die nicht nach diesem Gesetz oder auf Grund anderer Rechtsvorschriften als Verbraucherschlichtungsstelle anerkannt, beauftragt oder eingerichtet ist, darf sich nicht als Verbraucherschlichtungsstelle bezeichnen. Sie darf von ihrem Träger nicht als Verbraucherschlichtungsstelle bezeichnet werden. Das Verbot in den Sätzen 1 und 2 gilt nicht, wenn die Einrichtung in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nach der Richtlinie 2013/11/EU des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die alternative Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 63) anerkannt und in die von der Europäischen Kommission geführte Liste aller im Europäischen Wirtschaftsraum anerkannten Streitbeilegungsstellen aufgenommen worden ist.
 
-
-## § 3 – Träger der Verbraucherschlichtungsstelle
+# § 3 – Träger der Verbraucherschlichtungsstelle
 
 Träger der Verbraucherschlichtungsstelle muss ein eingetragener Verein sein. Für den Betrieb der Verbraucherschlichtungsstelle muss ein vom Haushalt des Trägers getrennter, zweckgebundener und ausreichender Haushalt zur Verfügung stehen, wenn der Träger
 
@@ -36,8 +31,7 @@ b) von einem eingetragenen Verein, der Verbraucherinteressen wahrnimmt (Verbrauc
 
 c) von einem Unternehmer oder mehreren Unternehmern.
 
-
-## § 4 – Zuständigkeit von Verbraucherschlichtungsstellen
+# § 4 – Zuständigkeit von Verbraucherschlichtungsstellen
 
 (1) Die Verbraucherschlichtungsstelle führt auf Antrag eines Verbrauchers Verfahren zur außergerichtlichen Beilegung von Streitigkeiten aus einem Verbrauchervertrag nach § 310 Absatz 3 des Bürgerlichen Gesetzbuchs oder über das Bestehen eines solchen Vertragsverhältnisses durch; arbeitsvertragliche Streitigkeiten sind ausgenommen.
 
@@ -71,8 +65,7 @@ Die Allgemeine Verbraucherschlichtungsstelle kann ihre Zuständigkeit auf in ein
 
 (+++ § 4: Zur Anwendung vgl. § 28 +++)
 
-
-## § 5 – Verfahrensordnung
+# § 5 – Verfahrensordnung
 
 (1) Die Verbraucherschlichtungsstelle muss eine Verfahrensordnung haben. Die Verfahrensordnung bestimmt das Konfliktbeilegungsverfahren und regelt die Einzelheiten seiner Durchführung.
 
@@ -80,8 +73,7 @@ Die Allgemeine Verbraucherschlichtungsstelle kann ihre Zuständigkeit auf in ein
 
 (+++ § 5: Zur Anwendung vgl. § 28 +++)
 
-
-## § 6 – Streitmittler
+# § 6 – Streitmittler
 
 (1) Die Verbraucherschlichtungsstelle ist mit mindestens einer Person zu besetzen, die mit der außergerichtlichen Streitbeilegung betraut und für die unparteiische und faire Verfahrensführung verantwortlich ist (Streitmittler). Ist nur ein Streitmittler bestellt, muss er einen Vertreter haben; auf den Vertreter des Streitmittlers sind Satz 1, die Absätze 2 und 3 sowie die §§ 7 bis 9 entsprechend anzuwenden.
 
@@ -101,8 +93,7 @@ Die Tätigkeit als Streitmittler für einen Verband nach Satz 1 Nummer 3 oder 4 
 
 (+++ § 6 Abs. 3: Zur Nichtanwendung vgl. § 7 Abs. 5 +++) (+++ § 6: Zur Anwendung vgl. § 28 +++)
 
-
-## § 7 – Unabhängigkeit und Unparteilichkeit des Streitmittlers
+# § 7 – Unabhängigkeit und Unparteilichkeit des Streitmittlers
 
 (1) Der Streitmittler ist unabhängig und an Weisungen nicht gebunden. Er muss Gewähr für eine unparteiische Streitbeilegung bieten.
 
@@ -116,8 +107,7 @@ Die Tätigkeit als Streitmittler für einen Verband nach Satz 1 Nummer 3 oder 4 
 
 (+++ § 7: Zur Anwendung vgl. § 6 Abs. 1 +++) (+++ § 7 Abs. 1, 3 bis 5: Zur Anwendung vgl. § 28 +++)
 
-
-## § 8 – Amtsdauer und Abberufung des Streitmittlers
+# § 8 – Amtsdauer und Abberufung des Streitmittlers
 
 (1) Der Streitmittler muss für eine angemessene Dauer bestellt werden. Die Amtsdauer soll drei Jahre nicht unterschreiten. Wiederbestellung ist zulässig.
 
@@ -131,8 +121,7 @@ Die Tätigkeit als Streitmittler für einen Verband nach Satz 1 Nummer 3 oder 4 
 
 (+++ § 8: Zur Anwendung vgl. § 6 Abs. 1 +++) (+++ § 8: Zur Anwendung vgl. § 28 +++)
 
-
-## § 9 – Beteiligung von Verbraucherverbänden und Unternehmerverbänden
+# § 9 – Beteiligung von Verbraucherverbänden und Unternehmerverbänden
 
 (1) Die Festlegung und die Änderung der Zuständigkeit der Verbraucherschlichtungsstelle, die Aufstellung und Änderung der Verfahrensordnung sowie die Bestellung und Abberufung eines Streitmittlers bedürfen der Beteiligung eines Verbraucherverbands, wenn der Träger der Verbraucherschlichtungsstelle
 
@@ -150,8 +139,7 @@ Der Verbraucherverband muss eine qualifizierte Einrichtung nach § 3 Absatz 1 Sa
 
 (+++ § 9: Zur Anwendung vgl. § 6 Abs. 1 +++)
 
-
-## § 10 – Informationspflichten der Verbraucherschlichtungsstelle
+# § 10 – Informationspflichten der Verbraucherschlichtungsstelle
 
 (1) Die Verbraucherschlichtungsstelle unterhält eine Webseite, auf der die Verfahrensordnung und klare und verständliche Informationen zur Erreichbarkeit und zur Zuständigkeit der Verbraucherschlichtungsstelle sowie zu den Streitmittlern, zur Anerkennung als Verbraucherschlichtungsstelle sowie zum Ablauf und zu den Kosten des Streitbeilegungsverfahrens veröffentlicht sind.
 
@@ -159,22 +147,19 @@ Der Verbraucherverband muss eine qualifizierte Einrichtung nach § 3 Absatz 1 Sa
 
 (+++ § 10: Zur Anwendung vgl. § 28 +++)
 
-
-## § 11 – Form von Mitteilungen
+# § 11 – Form von Mitteilungen
 
 Der Antrag auf Durchführung eines Streitbeilegungsverfahrens, Stellungnahmen, Belege und sonstige Mitteilungen können der Verbraucherschlichtungsstelle in Textform übermittelt werden.
 
 (+++ § 11: Zur Anwendung vgl. § 28 +++)
 
-
-## § 12 – Verfahrenssprache
+# § 12 – Verfahrenssprache
 
 (1) Verfahrenssprache ist Deutsch.
 
 (2) Die Verfahrensordnung kann weitere Sprachen vorsehen, in denen ein Streitbeilegungsverfahren durchgeführt werden kann, wenn eine Partei dies beantragt und die andere Partei sich darauf einlässt. Der Streitmittler kann mit den Parteien durch Individualabrede auch eine nicht in der Verfahrensordnung vorgesehene Verfahrenssprache vereinbaren.
 
-
-## § 13 – Vertretung
+# § 13 – Vertretung
 
 (1) Die Parteien können sich im Streitbeilegungsverfahren durch einen Rechtsanwalt oder durch eine andere Person, soweit diese zur Erbringung außergerichtlicher Rechtsdienstleistungen befugt ist, vertreten lassen.
 
@@ -182,8 +167,7 @@ Der Antrag auf Durchführung eines Streitbeilegungsverfahrens, Stellungnahmen, B
 
 (+++ § 13: Zur Anwendung vgl. § 28 +++)
 
-
-## § 14 – Ablehnungsgründe
+# § 14 – Ablehnungsgründe
 
 (1) Der Streitmittler lehnt die Durchführung eines Streitbeilegungsverfahrens ab, wenn
 
@@ -225,8 +209,7 @@ Die Ablehnungsgründe dürfen den Zugang von Verbrauchern zu dem Streitbeilegung
 
 (+++ § 14: Zur Anwendung vgl. § 28 +++)
 
-
-## § 15 – Beendigung des Verfahrens auf Wunsch der Parteien
+# § 15 – Beendigung des Verfahrens auf Wunsch der Parteien
 
 (1) Das Streitbeilegungsverfahren endet, wenn der Antragsteller seinen Antrag zurücknimmt oder der weiteren Durchführung des Verfahrens widerspricht.
 
@@ -236,8 +219,7 @@ Die Ablehnungsgründe dürfen den Zugang von Verbrauchern zu dem Streitbeilegung
 
 (+++ § 15: Zur Anwendung vgl. § 28 +++)
 
-
-## § 16 – Unterrichtung der Parteien
+# § 16 – Unterrichtung der Parteien
 
 (1) Die Verbraucherschlichtungsstelle muss den Antragsteller unverzüglich nach Eingang des Antrags auf Durchführung eines Streitbeilegungsverfahrens und den Antragsgegner zugleich mit der Übersendung des Antrags über Folgendes unterrichten:
 
@@ -261,8 +243,7 @@ Die Ablehnungsgründe dürfen den Zugang von Verbrauchern zu dem Streitbeilegung
 
 (+++ § 16: Zur Anwendung vgl. § 28 +++)
 
-
-## § 17 – Rechtliches Gehör
+# § 17 – Rechtliches Gehör
 
 (1) Die Parteien erhalten rechtliches Gehör und können Tatsachen und Bewertungen vorbringen. Die Verbraucherschlichtungsstelle kann den Parteien eine angemessene Frist zur Stellungnahme setzen. Die Frist beträgt in der Regel drei Wochen und kann auf Antrag verlängert werden.
 
@@ -270,15 +251,13 @@ Die Ablehnungsgründe dürfen den Zugang von Verbrauchern zu dem Streitbeilegung
 
 (+++ § 17: Zur Anwendung vgl. § 28 +++)
 
-
-## § 18 – Mediation
+# § 18 – Mediation
 
 Führt der Streitmittler nach der Verfahrensordnung der Verbraucherschlichtungsstelle eine Mediation durch, so sind die Vorschriften des Mediationsgesetzes mit Ausnahme des § 2 Absatz 1 des Mediationsgesetzes ergänzend anzuwenden.
 
 (+++ § 18: Zur Anwendung vgl. § 28 +++)
 
-
-## § 19 – Schlichtungsvorschlag
+# § 19 – Schlichtungsvorschlag
 
 (1) Hat der Streitmittler nach der Verfahrensordnung den Parteien einen Vorschlag zur Beilegung der Streitigkeit (Schlichtungsvorschlag) zu unterbreiten, so beruht dieser auf der sich aus dem Streitbeilegungsverfahren ergebenden Sachlage. Der Schlichtungsvorschlag soll am geltenden Recht ausgerichtet sein und soll insbesondere die zwingenden Verbraucherschutzgesetze beachten. Der Schlichtungsvorschlag ist mit einer Begründung zu versehen, aus der sich der zugrunde gelegte Sachverhalt und die rechtliche Bewertung des Streitmittlers ergeben.
 
@@ -290,8 +269,7 @@ Führt der Streitmittler nach der Verfahrensordnung der Verbraucherschlichtungss
 
 (+++ § 19: Zur Anwendung vgl. § 28 +++)
 
-
-## § 20 – Verfahrensdauer
+# § 20 – Verfahrensdauer
 
 (1) Die Verbraucherschlichtungsstelle benachrichtigt die Parteien, sobald sie keine weiteren Unterlagen und Informationen mehr benötigt (Eingang der vollständigen Beschwerdeakte). Der Eingang der vollständigen Beschwerdeakte ist in der Regel anzunehmen, wenn die Parteien nach § 17 Absatz 1 Gelegenheit zur Stellungnahme hatten.
 
@@ -301,8 +279,7 @@ Führt der Streitmittler nach der Verfahrensordnung der Verbraucherschlichtungss
 
 (+++ § 20: Zur Anwendung vgl. § 28 +++)
 
-
-## § 21 – Abschluss des Verfahrens
+# § 21 – Abschluss des Verfahrens
 
 (1) Die Verbraucherschlichtungsstelle übermittelt den Parteien das Ergebnis des Streitbeilegungsverfahrens in Textform mit den erforderlichen Erläuterungen. Mit dieser Mitteilung ist das Streitbeilegungsverfahren beendet.
 
@@ -310,15 +287,13 @@ Führt der Streitmittler nach der Verfahrensordnung der Verbraucherschlichtungss
 
 (+++ § 21: Zur Anwendung vgl. § 28 +++)
 
-
-## § 22 – Verschwiegenheit
+# § 22 – Verschwiegenheit
 
 Der Streitmittler und die weiteren in die Durchführung des Streitbeilegungsverfahrens eingebundenen Personen sind zur Verschwiegenheit verpflichtet, soweit durch Rechtsvorschrift nichts anderes geregelt ist. Die Pflicht bezieht sich auf alles, was ihnen in Ausübung ihrer Tätigkeit bekannt geworden ist. § 4 Satz 3 des Mediationsgesetzes gilt entsprechend.
 
 (+++ § 22: Zur Anwendung vgl. § 28 +++)
 
-
-## § 23 – Entgelt
+# § 23 – Entgelt
 
 (1) Ist ein Unternehmer an dem Streitbeilegungsverfahren beteiligt, so kann von dem Verbraucher ein Entgelt nur erhoben werden, wenn der Antrag des Verbrauchers unter Berücksichtigung der gesamten Umstände als missbräuchlich anzusehen ist; in diesem Fall beträgt das Entgelt höchstens 30 Euro. In sonstigen Fällen kann die Verbraucherschlichtungsstelle vom Verbraucher ein angemessenes Entgelt verlangen, wenn
 
@@ -328,13 +303,11 @@ Der Streitmittler und die weiteren in die Durchführung des Streitbeilegungsverf
 
 (2) Die Verbraucherschlichtungsstelle kann vom Unternehmer, der zur Teilnahme an dem Streitbeilegungsverfahren bereit ist oder verpflichtet ist, ein angemessenes Entgelt verlangen.
 
-
-## § 24 – Anerkennung
+# § 24 – Anerkennung
 
 Die zuständige Behörde erkennt auf Antrag eine Einrichtung als Verbraucherschlichtungsstelle an, wenn die Einrichtung die organisatorischen und fachlichen Anforderungen an die Streitbeilegung in Verbrauchersachen nach den Abschnitten 2 und 3 erfüllt, die Einrichtung ihren Sitz im Inland hat, auf Dauer angelegt ist und ihre Finanzierung tragfähig erscheint. Weitergehende Anforderungen an die Einrichtung, die sich aus anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
-
-## § 25 – Antrag auf Anerkennung und Mitteilung von Änderungen
+# § 25 – Antrag auf Anerkennung und Mitteilung von Änderungen
 
 (1) Der Antrag auf Anerkennung als Verbraucherschlichtungsstelle ist zu begründen. Dem Antrag sind beizufügen:
 
@@ -346,8 +319,7 @@ Die zuständige Behörde erkennt auf Antrag eine Einrichtung als Verbraucherschl
 
 (3) Das Ergebnis einer nach § 9 erforderlichen Beteiligung eines Verbraucherverbands oder eines Unternehmerverbands ist der zuständigen Behörde zusammen mit den Angaben nach den Absätzen 1 oder 2 zu übermitteln. Abweichungen von Empfehlungen des beteiligten Verbands sind zu begründen, es sei denn, der Verband hat als Mitglied eines paritätisch besetzten Gremiums an der Entscheidung mitgewirkt.
 
-
-## § 26 – Widerruf der Anerkennung
+# § 26 – Widerruf der Anerkennung
 
 (1) Erfüllt die Verbraucherschlichtungsstelle die für ihre Anerkennung notwendigen Voraussetzungen nicht mehr oder verstößt sie bei ihrer Tätigkeit systematisch gegen gesetzliche Vorschriften oder ihre eigene Verfahrensordnung, so hat die zuständige Behörde den Träger der Verbraucherschlichtungsstelle in Textform aufzufordern, die notwendigen Maßnahmen zu treffen, um die Widerrufsgründe innerhalb von drei Monaten nach Zugang der Aufforderung zu beseitigen.
 
@@ -355,20 +327,17 @@ Die zuständige Behörde erkennt auf Antrag eine Einrichtung als Verbraucherschl
 
 (3) Wird die Anerkennung widerrufen, ist die Eintragung der Verbraucherschlichtungsstelle in der Liste der Verbraucherschlichtungsstellen nach § 33 des Verbraucherstreitbeilegungsgesetzes zu löschen.
 
-
-## § 27 – Zuständige Behörde
+# § 27 – Zuständige Behörde
 
 (1) Zuständige Behörde ist, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist, das Bundesamt für Justiz.
 
 (2) Ist durch Bundesgesetz bestimmt, dass eine andere Behörde als das Bundesamt für Justiz für die Anerkennung einer Einrichtung als Verbraucherschlichtungsstelle zuständig ist, so ist diese andere Behörde im Verhältnis zum Bundesamt für Justiz ausschließlich zuständig. Die Anerkennung richtet sich nach den für die Anerkennung durch diese andere Behörde maßgeblichen Vorschriften, auch wenn die Zuständigkeit der Verbraucherschlichtungsstelle über den Anwendungsbereich der Vorschrift hinausgeht, der die Zuständigkeit dieser anderen Behörde begründet.
 
-
-## § 28 – Behördliche Verbraucherschlichtungsstellen
+# § 28 – Behördliche Verbraucherschlichtungsstellen
 
 Für behördliche Verbraucherschlichtungsstellen gelten die §§ 4 bis 7 Absatz 1 und 3 bis 5, die §§ 8, 10 und 11 sowie 13 bis 22 sinngemäß. § 9 Absatz 1 ist nur anzuwenden, wenn die Verbraucherschlichtungsstelle bei einer Kammer eingerichtet ist. Anforderungen an behördliche Verbraucherschlichtungsstellen, die sich aus anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
-
-## § 29 – Errichtung der Universalschlichtungsstelle des Bundes
+# § 29 – Errichtung der Universalschlichtungsstelle des Bundes
 
 (1) Der Bund errichtet eine ergänzende Verbraucherschlichtungsstelle (Universalschlichtungsstelle des Bundes).
 
@@ -384,8 +353,7 @@ Ist eine anerkannte Verbraucherschlichtungsstelle mit der Aufgabe der Universals
 
 (3) Das Bundesamt für Justiz ist für die Beleihung und die Beauftragung einer geeigneten anerkannten Verbraucherschlichtungsstelle mit der Aufgabe einer bundesweiten Universalschlichtung zuständig. Es hat die Rechts- und Fachaufsicht über die behördliche Universalschlichtungsstelle des Bundes oder die nach Absatz 2 Satz 1 Nummer 2 beliehene Verbraucherschlichtungsstelle.
 
-
-## § 30 – Zuständigkeit und Verfahren der Universalschlichtungsstelle des Bundes
+# § 30 – Zuständigkeit und Verfahren der Universalschlichtungsstelle des Bundes
 
 (1) Die Universalschlichtungsstelle des Bundes führt auf Antrag eines Verbrauchers Verfahren zur außergerichtlichen Beilegung folgender Streitigkeiten durch:
 
@@ -425,8 +393,7 @@ c) zu der Streitigkeit ein Antrag auf Prozesskostenhilfe bereits mit der Begrün
 
 (6) Von der Bereitschaft des Unternehmers zur Teilnahme am Streitbeilegungsverfahren ist auszugehen, wenn er gegenüber dem Verbraucher, auf seiner Webseite oder in seinen Allgemeinen Geschäftsbedingungen erklärt hat, an Streitbeilegungsverfahren vor der Universalschlichtungsstelle des Bundes teilzunehmen. Von der Bereitschaft des Unternehmers ist auch dann auszugehen, wenn er zwar keine Teilnahmebereitschaft nach Satz 1 erklärt hat, aber die Teilnahme am Verfahren nicht innerhalb von drei Wochen ablehnt, nachdem ihm der Antrag des Verbrauchers von der Universalschlichtungsstelle des Bundes übermittelt worden ist. Die Universalschlichtungsstelle des Bundes muss den Unternehmer zugleich mit der Übermittlung des Antrags auf die in Satz 2 geregelte Rechtsfolge hinweisen und ferner darauf hinweisen, dass für die Durchführung des Streitbeilegungsverfahrens eine Gebühr nach § 31 oder im Fall der beauftragten Universalschlichtungsstelle des Bundes ein Entgelt nach § 23 erhoben werden kann.
 
-
-## § 31 – Gebühr
+# § 31 – Gebühr
 
 (1) Die Universalschlichtungsstelle des Bundes nach § 29 Absatz 2 Satz 1 Nummer 1 und 2 erhebt für die Durchführung des Streitbeilegungsverfahrens vom Unternehmer, der zur Teilnahme am Streitbeilegungsverfahren bereit oder verpflichtet ist, eine Gebühr. Die Höhe der Gebühr richtet sich nach der Höhe des Streitwerts oder dem tatsächlichen Aufwand des Schlichtungsverfahrens.
 
@@ -436,8 +403,7 @@ c) zu der Streitigkeit ein Antrag auf Prozesskostenhilfe bereits mit der Begrün
 
 (+++ § 31: Zur Anwendung vgl. § 11 Abs. 4 Satz 2 EVO +++)
 
-
-## § 32 – Zentrale Anlaufstelle für Verbraucherschlichtung und Mitteilungspflichten der zuständigen Behörden und Aufsichtsbehörden
+# § 32 – Zentrale Anlaufstelle für Verbraucherschlichtung und Mitteilungspflichten der zuständigen Behörden und Aufsichtsbehörden
 
 (1) Das Bundesamt für Justiz ist zentrale Anlaufstelle für die Europäische Kommission (Zentrale Anlaufstelle für Verbraucherschlichtung).
 
@@ -455,15 +421,13 @@ c) zu der Streitigkeit ein Antrag auf Prozesskostenhilfe bereits mit der Begrün
 
 (4) Änderungen der Angaben nach den Absätzen 2 und 3 sind der Zentralen Anlaufstelle für Verbraucherschlichtung unverzüglich mitzuteilen.
 
-
-## § 33 – Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission und zur Europäischen Plattform zur Online-Streitbeilegung
+# § 33 – Liste der Verbraucherschlichtungsstellen sowie Zugang zur Liste der Europäischen Kommission und zur Europäischen Plattform zur Online-Streitbeilegung
 
 (1) Die Zentrale Anlaufstelle für Verbraucherschlichtung führt eine Liste der Verbraucherschlichtungsstellen. Diese Liste wird der Europäischen Kommission unter Hinweis auf Artikel 20 Absatz 2 der Richtlinie 2013/11/EU übermittelt und regelmäßig aktualisiert. Die Zentrale Anlaufstelle für Verbraucherschlichtung macht die jeweils aktuelle Fassung der Liste auf ihrer Webseite zugänglich und macht die Liste mit Stand 1. Januar jeden Jahres im Bundesanzeiger bekannt.
 
 (2) Die zuständigen Behörden und die Zentrale Anlaufstelle für Verbraucherschlichtung machen die von der Europäischen Kommission erstellte Liste aller im Europäischen Wirtschaftsraum anerkannten Streitbeilegungsstellen auf ihren Webseiten zugänglich, indem sie einen Link zur Webseite der Europäischen Kommission einstellen. Auf Anfrage stellen sie diese Liste in Textform zur Verfügung.
 
-
-## § 34 – Berichtspflichten und Auskunftspflichten der Verbraucherschlichtungsstelle
+# § 34 – Berichtspflichten und Auskunftspflichten der Verbraucherschlichtungsstelle
 
 (1) Die Verbraucherschlichtungsstelle erstellt jährlich einen Tätigkeitsbericht. Sie veröffentlicht den Tätigkeitsbericht auf ihrer Webseite und übermittelt ihn auf Anfrage in Textform. Für die Übermittlung eines Berichts auf Papier kann sie vom Empfänger Ersatz der dafür notwendigen Auslagen verlangen.
 
@@ -475,15 +439,13 @@ c) zu der Streitigkeit ein Antrag auf Prozesskostenhilfe bereits mit der Begrün
 
 (5) (weggefallen)
 
-
-## § 35 – Verbraucherschlichtungsbericht
+# § 35 – Verbraucherschlichtungsbericht
 
 (1) Die Zentrale Anlaufstelle für Verbraucherschlichtung veröffentlicht zum 9. Juli 2018 und danach alle vier Jahre einen Bericht über die Tätigkeit der Verbraucherschlichtungsstellen im Bundesgebiet (Verbraucherschlichtungsbericht) und übermittelt diesen der Europäischen Kommission.
 
 (2) Für den Verbraucherschlichtungsbericht übermitteln die zuständigen Behörden und die Aufsichtsbehörden der Zentralen Anlaufstelle für Verbraucherschlichtung erstmals zum 31. März 2018 und danach alle zwei Jahre eine Auswertung der ihnen nach § 34 Absatz 2 übermittelten Evaluationsberichte.
 
-
-## § 36 – Allgemeine Informationspflicht
+# § 36 – Allgemeine Informationspflicht
 
 (1) Ein Unternehmer, der eine Webseite unterhält oder Allgemeine Geschäftsbedingungen verwendet, hat den Verbraucher leicht zugänglich, klar und verständlich
 
@@ -499,25 +461,21 @@ c) zu der Streitigkeit ein Antrag auf Prozesskostenhilfe bereits mit der Begrün
 
 (3) Von der Informationspflicht nach Absatz 1 Nummer 1 ausgenommen ist ein Unternehmer, der am 31. Dezember des vorangegangenen Jahres zehn oder weniger Personen beschäftigt hat.
 
-
-## § 37 – Informationen nach Entstehen der Streitigkeit
+# § 37 – Informationen nach Entstehen der Streitigkeit
 
 (1) Der Unternehmer hat den Verbraucher auf eine für ihn zuständige Verbraucherschlichtungsstelle unter Angabe von deren Anschrift und Webseite hinzuweisen, wenn die Streitigkeit über einen Verbrauchervertrag durch den Unternehmer und den Verbraucher nicht beigelegt werden konnte. Der Unternehmer gibt zugleich an, ob er zur Teilnahme an einem Streitbeilegungsverfahren bei dieser Verbraucherschlichtungsstelle bereit ist oder verpflichtet ist. Ist der Unternehmer zur Teilnahme am Streitbeilegungsverfahren einer oder mehrerer Verbraucherschlichtungsstellen bereit oder verpflichtet, so hat er diese Stelle oder diese Stellen anzugeben.
 
 (2) Der Hinweis muss in Textform gegeben werden.
 
-
-## § 38 – Zusammenarbeit mit ausländischen Streitbeilegungsstellen
+# § 38 – Zusammenarbeit mit ausländischen Streitbeilegungsstellen
 
 Die Verbraucherschlichtungsstelle arbeitet mit Streitbeilegungsstellen zusammen, die in Umsetzung der Richtlinie 2013/11/EU in einem anderen Mitgliedstaat der Europäischen Union oder in einem sonstigen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum für die außergerichtliche Beilegung vergleichbarer Streitigkeiten zuständig sind.
 
-
-## § 39 – Zusammenarbeit mit der Europäischen Plattform zur Online-Streitbeilegung
+# § 39 – Zusammenarbeit mit der Europäischen Plattform zur Online-Streitbeilegung
 
 Die Verbraucherschlichtungsstelle ist Stelle für alternative Streitbeilegung im Sinne der Verordnung (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21. Mai 2013 über die Online-Beilegung verbraucherrechtlicher Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1).
 
-
-## § 40 – Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten; Kontaktstelle für die Europäische Plattform zur Online-Streitbeilegung
+# § 40 – Unterstützung von Verbrauchern bei grenzübergreifenden Streitigkeiten; Kontaktstelle für die Europäische Plattform zur Online-Streitbeilegung
 
 (1) Das Bundesamt für Justiz
 
@@ -539,8 +497,7 @@ Der Beliehene untersteht der Rechts- und Fachaufsicht des Bundesamts für Justiz
 
 (5) Das Bundesamt für Justiz macht die Beleihung im Bundesanzeiger bekannt.
 
-
-## § 41 – Bußgeldvorschriften
+# § 41 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -552,8 +509,7 @@ Der Beliehene untersteht der Rechts- und Fachaufsicht des Bundesamts für Justiz
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
-
-## § 42 – Verordnungsermächtigung
+# § 42 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -577,8 +533,7 @@ b) nach § 38 mit Streitbeilegungsstellen anderer Mitgliedstaaten der Europäisc
 
 2. die Voraussetzungen für eine Beendigung der Beleihung oder der Beauftragung einer geeigneten anerkannten Verbraucherschlichtungsstelle mit der Aufgabe der Universalschlichtungsstelle durch den Bund.
 
-
-## § 43 – Projektförderung, Forschungsvorhaben, Bericht
+# § 43 – Projektförderung, Forschungsvorhaben, Bericht
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz fördert bis zum 31. Dezember 2019 die Arbeit einer ausgewählten Allgemeinen Verbraucherschlichtungsstelle (§ 4 Absatz 2 Satz 1), die bundesweit tätig ist.
 

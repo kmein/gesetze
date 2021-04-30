@@ -1,17 +1,13 @@
-# [EpiAAppOAbwV] Verordnung zur Abweichung von der Approbationsordnung für Apotheker bei einer epidemischen Lage von nationaler Tragweite
-
-Ausfertigungsdatum: 03.07.2020
-
+% Verordnung zur Abweichung von der Approbationsordnung für Apotheker bei einer epidemischen Lage von nationaler Tragweite
+% Ausfertigungsdatum: 03.07.2020
  
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Zweck dieser Verordnung ist es, abweichend von der Approbationsordnung für Apotheker die Zeitpunkte und die Anforderungen an die Durchführung der einzelnen Prüfungsabschnitte der Pharmazeutischen Prüfung sowie die Anforderungen an die Durchführung der Famulatur und der praktischen Ausbildung festzulegen und alternative Lehrformate vorzusehen, um die Fortführung des Studiums der Pharmazie während der vom Deutschen Bundestag am 28. März 2020 festgestellten epidemischen Lage von nationaler Tragweite zu gewährleisten.
 
 (+++ § 1: Inkraft gem. Art. 4 Abs. 1 V v. 3.7.2020 BAnz AT 03.07.2020 V1 mWv 4.7.2020 +++)
 
-
-## § 2 – Durchführung der Unterrichtsveranstaltungen nach § 2 Absatz 2 in Verbindung mit Anlage 1 der Approbationsordnung für Apotheker
+# § 2 – Durchführung der Unterrichtsveranstaltungen nach § 2 Absatz 2 in Verbindung mit Anlage 1 der Approbationsordnung für Apotheker
 
 (1) Sofern die epidemische Lage von nationaler Tragweite dies erfordert, können Vorlesungen und Seminare in Form von digitalen Lehrformaten durchgeführt werden.
 
@@ -19,8 +15,7 @@ Zweck dieser Verordnung ist es, abweichend von der Approbationsordnung für Apot
 
 (+++ § 2: Inkraft gem. Art. 4 Abs. 1 V v. 3.7.2020 BAnz AT 03.07.2020 V1 mWv 4.7.2020 +++)
 
-
-## § 3 – Famulatur
+# § 3 – Famulatur
 
 (1) Die Famulatur kann abweichend von § 3 Absatz 2 Satz 1 der Approbationsordnung für Apotheker auch in Zeiten des Studiums vor der Meldung zum Ersten Abschnitt der Pharmazeutischen Prüfung abgeleistet werden, in denen die Universität den Lehrbetrieb aufgrund der Feststellung einer epidemischen Lage von nationaler Tragweite vorübergehend eingestellt hat.
 
@@ -28,8 +23,7 @@ Zweck dieser Verordnung ist es, abweichend von der Approbationsordnung für Apot
 
 (+++ § 3: Inkraft gem. Art. 4 Abs. 2 V v. 3.7.2020 BAnz AT 03.07.2020 V1 mWv 23.5.2020 +++)
 
-
-## § 4 – Praktische Ausbildung
+# § 4 – Praktische Ausbildung
 
 (1) Abweichend von § 4 Absatz 2 Satz 1 der Approbationsordnung für Apotheker können Auszubildenden bis zu einem Umfang von höchstens einem Viertel der in einer Apotheke abzuleistenden praktischen Ausbildung Aufgaben zur Erledigung außerhalb der Apotheke übertragen werden, wenn dies aufgrund von Maßnahmen zum Personaleinsatz, die die Apotheke infolge der epidemischen Lage von nationaler Tragweite trifft, erforderlich ist.
 
@@ -39,15 +33,13 @@ Zweck dieser Verordnung ist es, abweichend von der Approbationsordnung für Apot
 
 (+++ § 4: Inkraft gem. Art. 4 Abs. 1 V v. 3.7.2020 BAnz AT 03.07.2020 V1 mWv 4.7.2020 +++)
 
-
-## § 5 – Abweichende Durchführung des Zweiten Abschnitts der Pharmazeutischen Prüfung
+# § 5 – Abweichende Durchführung des Zweiten Abschnitts der Pharmazeutischen Prüfung
 
 Abweichend von § 18 Absatz 2 Satz 1 der Approbationsordnung für Apotheker kann das Landesprüfungsamt Unterbrechungen von mehr als acht Tagen zulassen, wenn die epidemische Lage von nationaler Tragweite dies erfordert.
 
 (+++ § 5: Inkraft gem. Art. 4 Abs. 1 V v. 3.7.2020 BAnz AT 03.07.2020 V1 mWv 4.7.2020 +++)
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Für Studierende oder Auszubildende, die zum Zeitpunkt der Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite die Famulatur oder die praktische Ausbildung begonnen, aber noch nicht abgeschlossen haben, gilt § 3 oder § 4 fort.
 

@@ -1,10 +1,7 @@
-# [Münz100EuroBek 2011] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Wartburg“)
-
-Ausfertigungsdatum: 07.10.2011
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Wartburg“)
+% Ausfertigungsdatum: 07.10.2011
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung am 30. November 2010 beschlossen, in Würdigung des UNESCO Welterbes Wartburg eine Gedenkmünze zu 100 Euro aus Gold prägen zu lassen.
 
@@ -24,12 +21,10 @@ Der Münzrand wird geriffelt ausgeführt.
 
 Kursivdruck: Müsste „zweiteiligen“ lauten
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2011, 2079)

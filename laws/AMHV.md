@@ -1,29 +1,23 @@
-# [AMHV] Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen  (Arzneimittel-Härtefall-Verordnung - AMHV)
-
-Ausfertigungsdatum: 14.07.2010
-
+% Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen  (Arzneimittel-Härtefall-Verordnung - AMHV)
+% Ausfertigungsdatum: 14.07.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 80 Satz 1 Nummer 3a in Verbindung mit Satz 3 und 4 und in Verbindung mit § 83 des Arzneimittelgesetzes, von denen § 83 zuletzt durch Artikel 1 Nummer 70 des Gesetzes vom 17. Juli 2009 (BGBl. I S. 1990) geändert worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt das Verfahren für das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen unter den Voraussetzungen, die in § 21 Absatz 2 Nummer 6 des Arzneimittelgesetzes in Verbindung mit Artikel 83 der Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1) genannt werden. Die Verordnung gilt für Fertigarzneimittel, die zur Anwendung im oder am Menschen bestimmt sind und weder im Geltungsbereich des Arzneimittelgesetzes noch in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum genehmigt oder zugelassen sind, aber der Genehmigungspflicht nach Artikel 3 Absatz 1 und 2 der Verordnung (EG) Nr. 726/2004 oder der Zulassungspflicht nach § 21 Absatz 1 des Arzneimittelgesetzes unterliegen.
 
 (2) Diese Verordnung ist nicht anzuwenden für den individuellen Einsatz eines nicht genehmigten oder nicht zugelassenen Arzneimittels bei nur einer Patientin oder einem Patienten unter der unmittelbaren Verantwortung einer Ärztin oder eines Arztes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Ein Härtefallprogramm ist ein „compassionate-use“-Programm nach der Verordnung (EG) Nr. 726/2004. Im Rahmen eines Härtefallprogramms können Arzneimittel ohne Genehmigung oder ohne Zulassung einer bestimmten Patientengruppe zur Verfügung gestellt werden, wenn ausreichende Hinweise auf die Wirksamkeit und Sicherheit des Arzneimittels vorliegen und für dieses eine klinische Prüfung durchgeführt wird oder ein Zulassungsantrag bei der Europäischen Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer für die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt worden ist.
 
 (2) Ein Härtefall im Sinne dieser Verordnung liegt vor, wenn eine Gruppe von Patientinnen oder Patienten, die an einer Erkrankung leiden, welche zu einer schweren Behinderung führen würde oder lebensbedrohend ist, nicht mit einem Arzneimittel zufriedenstellend behandelt werden kann, das zum Inverkehrbringen im Geltungsbereich des Arzneimittelgesetzes genehmigt oder zugelassen ist.
 
-
-## § 3 – Anzeige des Härtefallprogramms
+# § 3 – Anzeige des Härtefallprogramms
 
 (1) Eine Person, die die Verantwortung für die Veranlassung, die Organisation und Finanzierung eines Härtefallprogramms übernimmt (verantwortliche Person), hat das Härtefallprogramm der zuständigen Bundesoberbehörde anzuzeigen. Hat die verantwortliche Person ihren Sitz nicht in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, so benennt sie eine Vertreterin oder einen Vertreter mit Sitz in der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum.
 
@@ -75,8 +69,7 @@ c) über den Genehmigungs- oder Zulassungsantrag, der für das Arzneimittel in d
 
 (4) Die zuständige Bundesoberbehörde veröffentlicht Hinweise zur Einreichung der Angaben und Unterlagen auf ihrer Website.
 
-
-## § 4 – Beginn des Härtefallprogramms, Widerspruch
+# § 4 – Beginn des Härtefallprogramms, Widerspruch
 
 (1) Die zuständige Bundesoberbehörde bestätigt der verantwortlichen Person innerhalb von zwei Wochen den Eingang der ordnungsgemäßen Anzeige unter Angabe des Eingangsdatums (bestätigte Anzeige). Wenn Unterlagen zur Anzeige fehlen oder die Anzeige aus sonstigen Gründen nicht ordnungsgemäß ist, fordert die zuständige Bundesoberbehörde die verantwortliche Person ebenfalls innerhalb von zwei Wochen auf, diese Formmängel zu beheben. Die zuständige Bundesoberbehörde bestätigt der verantwortlichen Person innerhalb von zwei Wochen nach Eingang der nachgereichten Unterlagen den Eingang der ordnungsgemäßen Anzeige (bestätigte Anzeige), sofern die Anzeige nun vollständig und ordnungsgemäß ist.
 
@@ -88,15 +81,13 @@ c) über den Genehmigungs- oder Zulassungsantrag, der für das Arzneimittel in d
 
 (5) Bei Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder aus einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, umfasst die Genehmigung der klinischen Prüfung durch die zuständige Bundesoberbehörde auch die Genehmigung der Freisetzung dieser gentechnisch veränderten Organismen im Rahmen des Härtefallprogramms. Dies gilt nur, soweit keine Änderungen gegenüber der genehmigten klinischen Prüfung vorgenommen werden, die geeignet sind, die Risikobewertung für die Gesundheit Dritter und für die Umwelt zu verändern. Bei Änderungen, die geeignet sind, die Risikobewertung für die Gesundheit Dritter und für die Umwelt zu verändern, ist von der zuständigen Bundesoberbehörde im Benehmen mit dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit innerhalb einer angemessenen Frist zu entscheiden. Abweichend von Absatz 2 und 4 darf ein Härtefallprogramm mit Arzneimitteln, für die eine Risikobewertung nach Satz 2 erforderlich ist, erst mit Zugang der hierfür erforderlichen Genehmigung begonnen werden.
 
-
-## § 5 – Dauer des Härtefallprogramms, erneute Anzeige
+# § 5 – Dauer des Härtefallprogramms, erneute Anzeige
 
 (1) Das Härtefallprogramm endet unbeschadet von § 4 Absatz 3 mit dem Abbruch durch die verantwortliche Person oder mit der tatsächlichen Verfügbarkeit des Arzneimittels auf dem Markt, spätestens jedoch ein Jahr nach Zugang der bestätigten Anzeige oder der nach § 4 Absatz 5 erforderlichen Genehmigung.
 
 (2) Eine erneute Anzeige ist zulässig. Dabei kann auf bereits vorgelegte Unterlagen Bezug genommen werden, soweit sich keine Änderungen hierzu ergeben haben.
 
-
-## § 6 – Mitteilungspflichten der verantwortlichen Person
+# § 6 – Mitteilungspflichten der verantwortlichen Person
 
 (1) Die verantwortliche Person nach § 3 Absatz 1 hat
 
@@ -114,8 +105,7 @@ c) über den Genehmigungs- oder Zulassungsantrag, der für das Arzneimittel in d
 
 (3) Die verantwortliche Person hat dafür Sorge zu tragen, dass Arzneimittelrisiken der zuständigen Bundesoberbehörde unverzüglich mitgeteilt werden. Sie hat die zur Risikoabwehr erforderlichen Maßnahmen unverzüglich zu ergreifen.
 
-
-## § 7 – Verantwortungsbereich der verantwortlichen Person
+# § 7 – Verantwortungsbereich der verantwortlichen Person
 
 Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
 
@@ -145,8 +135,7 @@ h) Hinweis, dass das Arzneimittel ohne Genehmigung oder Zulassung im Rahmen eine
 
 5. die wesentlichen Unterlagen des Härtefallprogramms nach dessen Beendigung oder Abbruch mindestens zehn Jahre aufbewahrt werden; andere Vorschriften zur Aufbewahrung von medizinischen Unterlagen bleiben unberührt.
 
-
-## § 8 – Informationspflichten der zuständigen Bundesoberbehörde
+# § 8 – Informationspflichten der zuständigen Bundesoberbehörde
 
 (1) Bei Arzneimitteln, die aus einem gentechnisch veränderten Organismus oder aus einer Kombination von gentechnisch veränderten Organismen bestehen oder solche enthalten, informiert die zuständige Bundesoberbehörde das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit über den Eingang der Anzeige.
 
@@ -156,12 +145,10 @@ h) Hinweis, dass das Arzneimittel ohne Genehmigung oder Zulassung im Rahmen eine
 
 (4) Die zuständige Bundesoberbehörde stellt der Öffentlichkeit Informationen über ihr angezeigte Härtefallprogramme zur Verfügung.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Härtefallprogramme, die bei Inkrafttreten der Verordnung durchgeführt werden, können unabhängig von den Vorgaben dieser Verordnung weitergeführt werden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

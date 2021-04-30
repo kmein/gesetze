@@ -1,30 +1,23 @@
-# [BewG§39DV 2] Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
-
-Ausfertigungsdatum: 24.11.1967
-
+% Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
+% Ausfertigungsdatum: 24.11.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszahlen festgesetzt. Sie sind für die weinbauliche Nutzung der Anlage zu entnehmen.
 
-
-## § 2
+# § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 8 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Anlage – (zu § 1)Hauptbewertungsstützpunkte der weinbaulichen Nutzung
+# Anlage – (zu § 1)Hauptbewertungsstützpunkte der weinbaulichen Nutzung
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 1191 - 1198)
 
@@ -780,8 +773,7 @@ Tauberbischofsheim
 W 72.01
 
 Ortenberger Schloßberg  
-Flurstücks-Nr.  
-T 1/6 8324, 8330,T 8332, 8338, T 8348, 8370
+Flurstücks-Nr. T 1/6 8324, 8330,T 8332, 8338, T 8348, 8370
 
 Offenburg (Baden)
 
@@ -807,8 +799,7 @@ Uberlingen (Bodensee)
 W 72.03
 
 Acbkarrener Hofacker  
-Flurstücks-Nr.  
-778—780, 780a, 781, 781 a, 782—788, 788/1, 789— 794, 794 a, 795—798, 798 a, 798 b, 799—804, 804/1, 805, 806, 808, 808 a, 809, 809 a, 810—817
+Flurstücks-Nr. 778—780, 780a, 781, 781 a, 782—788, 788/1, 789— 794, 794 a, 795—798, 798 a, 798 b, 799—804, 804/1, 805, 806, 808, 808 a, 809, 809 a, 810—817
 
 Freiburg (Breisgau)
 
@@ -821,8 +812,7 @@ Freiburg (Breisgau)
 W 72.04
 
 Zell-Weiertacher Abtsberg  
-Flurstücks-Nr.  
-0814/1, Ö815, 8816, 8818—8827, 8830—8845, 8847, 8848, 8850—8854, 8856, 8857, 8859—8861, 8863, 8865—8875, 8876/1, 8878—8889, 8891, 8892, 8896— 8899, 8902—8925, 8927—8929, 8931—8938, 8940— 8952, 8954—8959, 8961—8963, 8965—8970, 8972, 8973, 8975—8986, 8989/1, 8992—9000
+Flurstücks-Nr. 0814/1, Ö815, 8816, 8818—8827, 8830—8845, 8847, 8848, 8850—8854, 8856, 8857, 8859—8861, 8863, 8865—8875, 8876/1, 8878—8889, 8891, 8892, 8896— 8899, 8902—8925, 8927—8929, 8931—8938, 8940— 8952, 8954—8959, 8961—8963, 8965—8970, 8972, 8973, 8975—8986, 8989/1, 8992—9000
 
 Offenburg (Baden)
 
@@ -835,8 +825,7 @@ Offenburg (Baden)
 W 72.05
 
 Varnhalter Sonnenberg  
-Flurstücks-Nr.  
-929—960, 1037—1054, 1056—1063, 1066—1068, 1069/1, 1069/2, 1070—1105, 1108—1115, 1117, 1118/1, 1118/2, 1119—1125, 1126/1, 1128—1134, 1135/1, 1137—1148, 1150—1161, 1317/1,1317/2, 1318
+Flurstücks-Nr. 929—960, 1037—1054, 1056—1063, 1066—1068, 1069/1, 1069/2, 1070—1105, 1108—1115, 1117, 1118/1, 1118/2, 1119—1125, 1126/1, 1128—1134, 1135/1, 1137—1148, 1150—1161, 1317/1,1317/2, 1318
 
 Bühl (Baden)
 
@@ -849,8 +838,7 @@ Bühl (Baden)
 W 72.06
 
 Hagnauer Untere Laim  
-Flurstücks-Nr.  
-416—429, 431—434, 813
+Flurstücks-Nr. 416—429, 431—434, 813
 
 Überlingen (Bodensee)
 
@@ -877,8 +865,7 @@ Müllheim (Baden)
 W 72.08
 
 Eichstettener Rückensberg  
-Flurstücks-Nr.  
-10200—10204, 10206—10 211, 10213—10217, 10 219—10 224, 10 226, 10 227, 10 227/1, 10229, 10230, 10233—10238, 10240—10261, 10263
+Flurstücks-Nr. 10200—10204, 10206—10 211, 10213—10217, 10 219—10 224, 10 226, 10 227, 10 227/1, 10229, 10230, 10233—10238, 10240—10261, 10263
 
 Freiburg (Breisgau)
 
@@ -891,8 +878,7 @@ Freiburg (Breisgau)
 W 72.09
 
 Wolfenweilerer In den Hafensteinen und Zwischen den Wegen  
-Flurstücks-Nr.  
-4213—4222, 4224—4231, 4234—4240, 4243, 4245— 4253, 4255—4267
+Flurstücks-Nr. 4213—4222, 4224—4231, 4234—4240, 4243, 4245— 4253, 4255—4267
 
 Freiburg (Breisgau)
 
@@ -918,8 +904,7 @@ Achern (Baden)
 W 72.11
 
 Haltingener Obere Mayacker und Breier  
-Flurstücks-Nr.  
-9128—9130, 9131/1, 9134—9140
+Flurstücks-Nr. 9128—9130, 9131/1, 9134—9140
 
 Lörrach
 

@@ -1,15 +1,11 @@
-# [GPrüfbV] Verordnung über die Prüfung und Bescheinigung der Einhaltung bestimmter Pflichten durch prüfpflichtige nichtfinanzielle Gegenparteien auf Grund der Verordnungen (EU) Nr. 648/2012 und (EU) Nr. 600/2014  (Gegenpartei-Prüfbescheinigungsverordnung - GPrüfbV)
-
-Ausfertigungsdatum: 19.03.2014
-
+% Verordnung über die Prüfung und Bescheinigung der Einhaltung bestimmter Pflichten durch prüfpflichtige nichtfinanzielle Gegenparteien auf Grund der Verordnungen (EU) Nr. 648/2012 und (EU) Nr. 600/2014  (Gegenpartei-Prüfbescheinigungsverordnung - GPrüfbV)
+% Ausfertigungsdatum: 19.03.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Absatz 6 des Wertpapierhandelsgesetzes, der durch Artikel 2 Nummer 2 des Gesetzes vom 13. Februar 2013 (BGBl. I S. 174) neu gefasst worden ist, in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 12. September 2013 (BGBl. I S. 3606) geändert worden ist, und in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt
 
@@ -25,15 +21,13 @@ Auf Grund des § 20 Absatz 6 des Wertpapierhandelsgesetzes, der durch Artikel 2 
 
 3. die Schwellen nach § 32 Absatz 1 des Wertpapierhandelsgesetzes überschritten haben.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Ein Fehler im Sinne dieser Verordnung ist jede einzelne Abweichung von den gesetzlichen Anforderungen.
 
 (2) Ein Mangel im Sinne dieser Verordnung liegt vor, wenn die Vorkehrungen oder Systeme der prüfpflichtigen nichtfinanziellen Gegenpartei nach pflichtgemäßer Einschätzung des Prüfers insgesamt nicht geeignet sind, die Einhaltung der sich aus § 3 dieser Verordnung ergebenden Anforderungen sicherzustellen.
 
-
-## § 3 – Gegenstand der Prüfung
+# § 3 – Gegenstand der Prüfung
 
 (1) Wenn die prüfpflichtige nichtfinanzielle Gegenpartei im prüfpflichtigen Zeitraum clearingpflichtig war oder geworden ist, hat der Prüfer zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Einhaltung der Clearingpflicht nach Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2 der Verordnung (EU) Nr. 648/2012 sicherzustellen. Wenn Derivatekontrakte, die von der prüfpflichtigen nichtfinanziellen Gegenpartei im prüfpflichtigen Zeitraum abgeschlossen wurden, nach Artikel 4 Absatz 2 der Verordnung (EU) Nr. 648/2012 nicht der Clearingpflicht unterliegen, hat der Prüfer zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Einhaltung der Anforderungen nach Artikel 4 Absatz 2 der Verordnung (EU) Nr. 648/2012 sicherzustellen.
 
@@ -61,13 +55,11 @@ sicherzustellen.
 
 (6) Der Prüfer hat zu prüfen, ob die prüfpflichtige nichtfinanzielle Gegenpartei Vorkehrungen getroffen hat oder über Systeme verfügt, die jeweils geeignet sind, die Erfüllung der Voraussetzungen nach Artikel 28 Absatz 1 und 2 der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 173 vom 12.6.2014, S. 84; L 6 vom 10.1.2015, S. 6; L 270 vom 15.10.2015, S. 4; L 278 vom 27.10.2017, S. 54), die durch die Verordnung (EU) 2016/1033 geändert worden ist, sicherzustellen.
 
-
-## § 4 – Prüfpflichtiger Zeitraum
+# § 4 – Prüfpflichtiger Zeitraum
 
 Der prüfpflichtige Zeitraum, auf den sich die Prüfung erstreckt, ist vorbehaltlich des § 10 das am Stichtag des Jahresabschlusses endende Geschäftsjahr.
 
-
-## § 5 – Umfang der Prüfung und Schwerpunktbildung durch den Prüfer
+# § 5 – Umfang der Prüfung und Schwerpunktbildung durch den Prüfer
 
 (1) Bei seinen Feststellungen ist der Prüfer an die Auslegung der Bundesanstalt gebunden, die diese in ihren Leitlinien, Richtlinien, Rundschreiben, Bekanntmachungen, Schreiben und ihren sonstigen verbindlichen Veröffentlichungen mitteilt.
 
@@ -79,20 +71,17 @@ Der prüfpflichtige Zeitraum, auf den sich die Prüfung erstreckt, ist vorbehalt
 
 (5) Werden Fehler festgestellt, hat der Prüfer die Prüfung auszudehnen, bis er Klarheit darüber gewonnen hat, ob es sich um Mängel handelt.
 
-
-## § 6 – Prüfungszeitraum
+# § 6 – Prüfungszeitraum
 
 (1) Der Prüfer bestimmt den Zeitpunkt des Prüfungsbeginns. Der Prüfungszeitraum beginnt mit dem Tag der ersten und endet mit dem Tag der letzten Prüfungshandlung vor Ort.
 
 (2) Der Prüfer hat die Prüfung innerhalb von neun Monaten nach Ende des prüfpflichtigen Zeitraums abzuschließen.
 
-
-## § 7 – Unterrichtungspflichten des Prüfers bei Behinderung der Prüfung
+# § 7 – Unterrichtungspflichten des Prüfers bei Behinderung der Prüfung
 
 Der Prüfer unterrichtet die Bundesanstalt unverzüglich, wenn sich die prüfpflichtige nichtfinanzielle Gegenpartei weigert, die Prüfung vornehmen zu lassen, oder wenn sie die Durchführung der Prüfung behindert.
 
-
-## § 8 – Aufzeichnungen des Prüfers und ihre Aufbewahrungsdauer
+# § 8 – Aufzeichnungen des Prüfers und ihre Aufbewahrungsdauer
 
 (1) Der Prüfer ist berechtigt, über die Prüfung Aufzeichnungen in Papierform oder auf Datenträgern anzufertigen.
 
@@ -100,8 +89,7 @@ Der Prüfer unterrichtet die Bundesanstalt unverzüglich, wenn sich die prüfpfl
 
 (3) Der Prüfer hat die Aufzeichnungen nach Absatz 1 sowie die Geschäftsunterlagen nach Absatz 2 sechs Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Ablauf des Kalenderjahres, in dem die Prüfung beendet worden ist.
 
-
-## § 9 – Inhalt der Bescheinigung
+# § 9 – Inhalt der Bescheinigung
 
 (1) Der Prüfer hat in seiner Bescheinigung auf die in § 3 genannten Prüfungsbereiche einzugehen und darzustellen, inwieweit die Vorkehrungen oder Systeme zur Einhaltung der gesetzlichen Vorgaben geeignet sind. Festgestellte Mängel sind ausführlich darzustellen. Darüber hinaus hat die Bescheinigung Folgendes zu enthalten:
 
@@ -117,8 +105,7 @@ Der Prüfer unterrichtet die Bundesanstalt unverzüglich, wenn sich die prüfpfl
 
 (5) Auf Verlangen der Bundesanstalt hat der Prüfer die Bescheinigung zu erläutern.
 
-
-## § 10 – Erstmalige Anwendung
+# § 10 – Erstmalige Anwendung
 
 (1) Abweichend von § 4 beginnt der erstmalig prüfpflichtige Zeitraum am 1. April 2014.
 
@@ -128,7 +115,6 @@ Der Prüfer unterrichtet die Bundesanstalt unverzüglich, wenn sich die prüfpfl
 
 (4) Für die Prüfung der Pflichten gemäß § 3 Absatz 6 beginnt der erstmalig prüfpflichtige Zeitraum am 3. Januar 2018.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

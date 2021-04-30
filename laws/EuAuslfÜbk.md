@@ -1,5 +1,3 @@
-# [EuAuslfÜbk] Europäisches Auslieferungsübereinkommen
-
-Ausfertigungsdatum: 13.12.1957
-
+% Europäisches Auslieferungsübereinkommen
+% Ausfertigungsdatum: 13.12.1957
  

@@ -1,20 +1,15 @@
-# [FSAV] Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge  (FSAV)
-
-Ausfertigungsdatum: 26.11.2004
-
+% Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge  (FSAV)
+% Ausfertigungsdatum: 26.11.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 2 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550), der durch Artikel 285 Nr. 7 Buchstabe c der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) zuletzt geändert wurde, verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Luftfahrzeuge, die im deutschen Luftraum betrieben werden, müssen mit der für die sichere Durchführung der Flugsicherungsverfahren notwendigen Flugsicherungsausrüstung nach den Vorschriften dieser Verordnung ausgerüstet sein.
 
-
-## § 2 – Beschaffenheit und Betriebstüchtigkeit der Flugsicherungsausrüstung
+# § 2 – Beschaffenheit und Betriebstüchtigkeit der Flugsicherungsausrüstung
 
 (1) Die Flugsicherungsausrüstung der Luftfahrzeuge darf nur aus Anlagen, Geräten und Baugruppen bestehen, die auf Grund ihrer Eigenschaften und Leistungen unter Beachtung der festgelegten Verwendungsgrenzen einen zuverlässigen Betrieb gewährleisten und nach international anerkannten Standards als Luftfahrtgerät zugelassen sind. Darüber hinaus muss die Flugsicherungsausrüstung für den jeweiligen Verwendungszweck dem geltenden aktuellen Stand der Technik entsprechen. Das Luftfahrt-Bundesamt kann ergänzende Anforderungen oder Erleichterungen im Bundesanzeiger und in den Nachrichten für Luftfahrer bekannt machen.
 
@@ -22,8 +17,7 @@ Luftfahrzeuge, die im deutschen Luftraum betrieben werden, müssen mit der für 
 
 (3) Zur Vermeidung von elektromagnetischen Störungen und von unnötiger Funkfeldbelastung kann der Betrieb aktiver (mit Sendefunktion) elektronischer Bordsysteme, die als Luftfahrtgerät zugelassen, aber nach den Vorschriften dieser Verordnung nicht gefordert sind, durch das Bundesministerium für Verkehr, Bau- und Wohnungswesen oder eine andere von ihm bestimmte Stelle für Flüge im deutschen Luftraum untersagt werden.
 
-
-## § 3 – Flugsicherungsausrüstung für Flüge nach Instrumentenflugregeln
+# § 3 – Flugsicherungsausrüstung für Flüge nach Instrumentenflugregeln
 
 (1) Für Flüge nach Instrumentenflugregeln müssen Luftfahrzeuge ausgerüstet sein mit:
 
@@ -61,8 +55,7 @@ Luftfahrzeuge, die im deutschen Luftraum betrieben werden, müssen mit der für 
 
 Die Luftfahrzeuge müssen als Luftfahrzeuggruppe (group aircraft) oder als einzelnes Luftfahrzeug (non-group aircraft) hierfür zugelassen sein.
 
-
-## § 4 – Flugsicherungsausrüstung für Flüge nach Sichtflugregeln
+# § 4 – Flugsicherungsausrüstung für Flüge nach Sichtflugregeln
 
 (1) Für Flüge nach Sichtflugregeln müssen Flugzeuge, Drehflügler, Motorsegler, Segelflugzeuge, aerodynamisch gesteuerte Ultraleichtflugzeuge, Ultraleichthubschrauber und Tragschrauber, Luftschiffe und Freiballone ausgerüstet sein mit einem UKW-Sende-/Empfangsgerät, das mindestens die für den vorgesehenen Flug erforderlichen Frequenzen aus dem Bereich von 118,000 bis 136,975 MHz umfasst; die Sendeleistung und die Empfängerempfindlichkeit müssen mindestens so groß sein, dass unter Berücksichtigung der flugbetrieblichen Eigenschaften des Luftfahrzeugs und der beflogenen Strecke ein einwandfreier Sprechfunkverkehr mit den Flugverkehrskontroll- oder Informationsstellen durchgeführt werden kann.
 
@@ -94,8 +87,7 @@ Der Transponder muss über den Abfragemodus A mit 4 096 Antwortcodes und den Abf
 
 Für Flüge bei Nacht im unkontrollierten Luftraum außerhalb der Sichtweite eines für den Nachtflugbetrieb genehmigten und befeuerten Flugplatzes ist alternativ ein automatisches Funkpeilgerät (ADF) ausreichend.
 
-
-## § 5 – Pflichten des Führers, Eigentümers und Halters eines Luftfahrzeugs
+# § 5 – Pflichten des Führers, Eigentümers und Halters eines Luftfahrzeugs
 
 (1) Ein Flug darf nicht durchgeführt werden, wenn eine nach § 3 Abs. 1 und 2 oder nach § 4 Abs. 1 bis 6 vorgeschriebene Flugsicherungsausrüstung nicht vorhanden oder nicht betriebstüchtig ist. Luftfahrzeuge, deren Kollisionsschutzsystem (ACAS/TCAS) nach § 3 Abs. 1 Nr. 7 betriebsuntüchtig ist, dürfen bis zum einschließlich dritten auf den Tag der Feststellung folgenden Kalendertag mit dem betriebsuntüchtigen Kollisionsschutzsystem weiterbetrieben werden.
 
@@ -103,8 +95,7 @@ Für Flüge bei Nacht im unkontrollierten Luftraum außerhalb der Sichtweite ein
 
 (3) Eigentümer und Halter eines Luftfahrzeugs dürfen die Durchführung eines Fluges nicht zulassen, wenn die vorgeschriebene Flugsicherungsausrüstung nicht vorhanden ist.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -112,8 +103,7 @@ Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt
 
 2. als Eigentümer oder Halter eines Luftfahrzeugs entgegen § 5 Abs. 3 die Durchführung eines Fluges zulässt.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft, soweit im folgenden Absatz nichts Abweichendes bestimmt ist.
 

@@ -1,12 +1,7 @@
-# [HArchDVDV] Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes  (HArchDVDV)
-
-Ausfertigungsdatum: 19.06.2017
-
+% Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes  (HArchDVDV)
+% Ausfertigungsdatum: 19.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -14,15 +9,15 @@ Ausfertigungsdatum: 19.06.2017
 
  
 
+ 
 
-## § 1 – Ziel des Vorbereitungsdienstes
+# § 1 – Ziel des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst vermittelt die wissenschaftlichen Methoden und Kenntnisse, die für die Erfüllung der Aufgaben im höheren Archivdienst des Bundes erforderlich sind. Diese Aufgaben umfassen insbesondere leitende, koordinierende und organisatorische Tätigkeiten im Hinblick auf die Beratung der öffentlichen Stellen des Bundes bei der Verwaltung ihrer Unterlagen, die Übernahme, Bewertung, Erschließung und Zugänglichmachung von Archivgut, die Betreuung der Benutzerinnen und Benutzer von Archiven sowie die Bestandserhaltung. Die Referendarinnen und Referendare sollen zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat befähigt werden. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und im europäischen Raum. Allgemeine berufliche Fähigkeiten, insbesondere die Fähigkeiten zu leitender Tätigkeit, zur Kommunikation, zur Teamarbeit, zum kritischen Überprüfen des eigenen Handelns und zum selbstständigen und wirtschaftlichen Handeln sowie soziale Kompetenz, sind zu fördern.
 
 (2) Die Referendarinnen und Referendare sollen befähigt werden, sich eigenständig weiterzubilden, um den sich ständig wandelnden Herausforderungen des höheren Archivdienstes gerecht zu werden.
 
-
-## § 2 – Einstellungsbehörden, Ausbildungsstellen, Dienstaufsicht
+# § 2 – Einstellungsbehörden, Ausbildungsstellen, Dienstaufsicht
 
 (1) Einstellungsbehörden sind das Bundesarchiv, die oder der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (die oder der Bundesbeauftragte) und die Stiftung Preußischer Kulturbesitz. Sie haben insbesondere folgende Aufgaben:
 
@@ -40,8 +35,7 @@ Ausfertigungsdatum: 19.06.2017
 
 (4) Während der Ausbildung an der Archivschule Marburg unterstehen die Referendarinnen und Referendare neben der Dienstaufsicht ihrer Einstellungsbehörde auch der Dienstaufsicht der Archivschule Marburg.
 
-
-## § 3 – Nachteilsausgleich
+# § 3 – Nachteilsausgleich
 
 (1) Die Einstellungsbehörde gewährt Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, im Auswahlverfahren sowie bei Studien- und Prüfungsleistungen auf Antrag einen angemessenen Nachteilsausgleich. Die Einstellungsbehörde hat Menschen mit solchen Beeinträchtigungen rechtzeitig auf diese Vorschrift hinzuweisen.
 
@@ -51,8 +45,7 @@ Ausfertigungsdatum: 19.06.2017
 
 (4) Gewährte Nachteilsausgleiche sind zu dokumentieren.
 
-
-## § 4 – Bewertung von Leistungen
+# § 4 – Bewertung von Leistungen
 
 (1) Leistungen werden wie folgt bewertet:
 
@@ -122,8 +115,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (2) Es werden nur ganze Rangpunkte vergeben. Durchschnittsrangpunktzahlen mit Nachkommawerten werden kaufmännisch auf ganze Rangpunktzahlen gerundet.
 
-
-## § 5 – Einstellungsvoraussetzungen
+# § 5 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer über die allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen verfügt und zudem
 
@@ -145,8 +137,7 @@ c) Grundkenntnisse der lateinischen Sprache,
 
 4. über gute Kenntnisse der neueren und neuesten Geschichte verfügt.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens, in dem die Eignung und Befähigung der Bewerberinnen und Bewerber für den Vorbereitungsdienst festgestellt wird. Insbesondere wird festgestellt, ob sie über das Allgemein- und Fachwissen, die Sprachkenntnisse, die kognitiven, methodischen und sozialen Fähigkeiten, die charakterlichen Merkmale und die Leistungsmotivation verfügen, das oder die für die Erfüllung der Aufgaben im höheren Archivdienst erforderlich ist oder sind.
 
@@ -154,8 +145,7 @@ c) Grundkenntnisse der lateinischen Sprache,
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen werden vernichtet.
 
-
-## § 7 – Auswahlkommission
+# § 7 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Ausbildungsstelle eine Auswahlkommission ein.
 
@@ -167,8 +157,7 @@ c) Grundkenntnisse der lateinischen Sprache,
 
 (5) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig.
 
-
-## § 8 – Durchführung des Auswahlverfahrens
+# § 8 – Durchführung des Auswahlverfahrens
 
 (1) Das Auswahlverfahren besteht aus einem bis zu 30-minütigen Einzelgespräch der Auswahlkommission mit der Bewerberin oder dem Bewerber in Form eines teilstrukturierten Interviews. Es dient
 
@@ -180,15 +169,13 @@ c) Grundkenntnisse der lateinischen Sprache,
 
 (3) Die Antworten der Bewerberin oder des Bewerbers sowie die persönliche Eignung, die sich aus den Antworten und aus dem persönlichen Eindruck ergibt, den die Auswahlkommission von der Bewerberin oder dem Bewerber gewonnen hat, werden gesondert bewertet.
 
-
-## § 9 – Ergebnis des Auswahlverfahrens, Rangfolge
+# § 9 – Ergebnis des Auswahlverfahrens, Rangfolge
 
 (1) Die Auswahlkommission stellt für jede Bewerberin und jeden Bewerber das Ergebnis fest, indem sie aus den Rangpunkten, die sie für die Antworten der Bewerberin oder des Bewerbers und für die persönliche Eignung vergeben hat, die Durchschnittsrangpunktzahl bildet.
 
 (2) Anhand des Ergebnisses des Auswahlverfahrens legt die Auswahlkommission die für die Einstellung maßgebliche Rangfolge der geeigneten Bewerberinnen und Bewerber fest.
 
-
-## § 10 – Dauer und Gliederung des Vorbereitungsdienstes; Laufbahnprüfung
+# § 10 – Dauer und Gliederung des Vorbereitungsdienstes; Laufbahnprüfung
 
 (1) Der Vorbereitungsdienst dauert zwei Jahre. Er besteht aus folgenden Ausbildungsphasen:  
   
@@ -257,15 +244,13 @@ Archivschule Marburg
 
 (5) Die archivarische Staatsprüfung nach § 14 Absatz 1 Satz 1 der Ausbildungs- und Prüfungsordnung für den Laufbahnzweig Archivdienst im höheren allgemeinen Verwaltungsdienst in Hessen ist die Laufbahnprüfung für den höheren Archivdienst des Bundes.
 
-
-## § 11 – Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen
+# § 11 – Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen
 
 (1) Für erfolgreich absolvierte Module werden Leistungspunkte nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen vergeben. Ein Leistungspunkt entspricht einem durchschnittlichen Arbeitsaufwand von 30 Stunden.
 
 (2) Für den Vorbereitungsdienst können insgesamt 120 Leistungspunkte vergeben werden. Davon können 40 Leistungspunkte für die berufspraktischen Studien und 15 Leistungspunkte für die Transferphase vergeben werden.
 
-
-## § 12 – Modulhandbücher
+# § 12 – Modulhandbücher
 
 (1) Das Modulhandbuch für die berufspraktischen Studien und für die Transferphase erstellt die Ausbildungsstelle. Das Modulhandbuch ist zu veröffentlichen. Im Modulhandbuch wird für jedes Modul insbesondere Folgendes festgelegt:
 
@@ -281,8 +266,7 @@ Archivschule Marburg
 
 (2) Als Modulhandbuch für die Fachstudien gilt Anlage 2 der Studienordnung für das Referendariat im höheren Archivdienst an der Archivschule Marburg – Hochschule für Archivwissenschaft vom 10. Dezember 2017 (Staatsanzeiger für das Land Hessen S. 123) entsprechend.
 
-
-## § 13 – Ausbildungsleitung
+# § 13 – Ausbildungsleitung
 
 Die Ausbildungsstelle bestellt eine Angehörige oder einen Angehörigen des höheren Archivdienstes zur Ausbildungsleiterin oder zum Ausbildungsleiter. Diese oder dieser
 
@@ -300,8 +284,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 5. führt regelmäßig Besprechungen mit den Referendarinnen und Referendaren durch und berät sie in Fragen der Ausbildung.
 
-
-## § 14 – Modulverantwortliche, Prüfende
+# § 14 – Modulverantwortliche, Prüfende
 
 (1) Die oder der Modulverantwortliche
 
@@ -317,8 +300,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 2. über eine mehrjährige Berufserfahrung verfügt.
 
-
-## § 15 – Berufspraktische Studien
+# § 15 – Berufspraktische Studien
 
 (1) In den berufspraktischen Studien sollen die Referendarinnen und Referendare mit den Aufgaben, den Methoden und der Organisation in einem öffentlichen Archiv vertraut gemacht und auf die Übernahme von Führungsaufgaben vorbereitet werden. Sie sollen insbesondere
 
@@ -340,8 +322,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 2. die Ausbildungsleitung im Einvernehmen mit der jeweiligen Einrichtung bei Bedarf weitere der Einrichtung angehörende Prüferinnen oder Prüfer bestellt, die die in § 14 Absatz 1 Nummer 2 und 3 genannten Aufgaben wahrnehmen.
 
-
-## § 16 – Studienleistungen und Modulprüfungen in den berufspraktischen Studien
+# § 16 – Studienleistungen und Modulprüfungen in den berufspraktischen Studien
 
 (1) Soweit die Ausbildungsinhalte nicht durch Lehrveranstaltungen vermittelt werden, sind die Referendarinnen und Referendare verpflichtet, sich die Ausbildungsinhalte eigenständig durch Selbststudien anzueignen.
 
@@ -349,8 +330,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 (3) In jedem Modul sind Studienleistungen zu erbringen. Die Studienleistungen werden nicht bewertet.
 
-
-## § 17 – Bewertung der Modulprüfungen und der Gesamtleistung in den berufspraktischen Studien
+# § 17 – Bewertung der Modulprüfungen und der Gesamtleistung in den berufspraktischen Studien
 
 (1) Die oder der Modulverantwortliche bewertet die Modulprüfungen. Besteht eine Modulprüfung aus mehreren Prüfungsteilen, wird jeder Prüfungsteil gesondert bewertet und eine Durchschnittsrangpunktzahl der Modulprüfung berechnet.
 
@@ -368,8 +348,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 (+++ § 17 Abs. 6: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 18 – Transferphase, Transferarbeit, Bewertung
+# § 18 – Transferphase, Transferarbeit, Bewertung
 
 (1) In der Transferphase sollen die Referendarinnen und Referendare nachweisen, dass sie praxisrelevante Fragestellungen selbstständig mit archivwissenschaftlichen Methoden bearbeiten können.
 
@@ -381,8 +360,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 (5) Die Transferarbeit ist von der oder dem Modulverantwortlichen und von einer Dozentin oder einem Dozenten der Archivschule Marburg unabhängig voneinander jeweils in Form eines Gutachtens zu bewerten. Eine Kopie des von der oder dem Modulverantwortlichen verfassten Gutachtens ist der Archivschule Marburg zu übermitteln. Die Ermittlung der Durchschnittsrangpunktzahl und die Bekanntgabe der Note richten sich nach § 13 Absatz 5 Satz 2 bis 5 der Ausbildungs- und Prüfungsordnung für den Laufbahnzweig Archivdienst im höheren allgemeinen Verwaltungsdienst in Hessen.
 
-
-## § 19 – Verhinderung, Rücktritt, Säumnis
+# § 19 – Verhinderung, Rücktritt, Säumnis
 
 (1) Ist eine Referendarin oder ein Referendar durch eine Erkrankung oder durch sonstige nicht zu vertretende Umstände gehindert, eine Modulprüfung oder einen Prüfungsteil ganz oder teilweise abzulegen, hat sie oder er dies unverzüglich glaubhaft zu machen. Eine Erkrankung ist durch Vorlage eines ärztlichen Attests nachzuweisen. Auf Verlangen der Einstellungsbehörde hat die Referendarin oder der Referendar ein amtsärztliches Attest oder das Attest einer Ärztin oder eines Arztes vorzulegen, die oder der von der Einstellungsbehörde beauftragt worden ist.
 
@@ -402,8 +380,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 (5) Vor einer Entscheidung nach Absatz 3 oder Absatz 4 ist die Referendarin oder der Referendar anzuhören. Wird die Prüfung für nicht bestanden erklärt und kann sie nicht mehr wiederholt werden, erhält die Referendarin oder der Referendar einen Bescheid über das endgültige Nichtbestehen. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 20 – Täuschung, Ordnungsverstoß
+# § 20 – Täuschung, Ordnungsverstoß
 
 (1) Eine Referendarin oder ein Referendar, die oder der bei einer Modulprüfung oder einem Prüfungsteil täuscht, eine Täuschung versucht, an einer Täuschung oder an einem Täuschungsversuch mitwirkt oder sonst gegen die Ordnung verstößt, soll die Prüfung unter dem Vorbehalt einer abweichenden Entscheidung der Einstellungsbehörde fortsetzen dürfen. Bei einem erheblichen Ordnungsverstoß kann die Referendarin oder der Referendar von der Prüfung ausgeschlossen werden.
 
@@ -423,8 +400,7 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 (4) Vor einer Entscheidung nach Absatz 2 oder Absatz 3 ist die Referendarin oder der Referendar anzuhören.
 
-
-## § 21 – Prüfungsakte
+# § 21 – Prüfungsakte
 
 (1) Die Ausbildungsstelle führt zu jeder Referendarin und zu jedem Referendar eine Prüfungsakte über die berufspraktischen Studien und über die Transferphase.
 
@@ -444,7 +420,6 @@ b) eine Modulverantwortliche oder einen Modulverantwortlichen und, sofern erford
 
 (4) Die Referendarin oder der Referendar kann nach jeder Prüfung, sobald ihr oder ihm die jeweilige Bewertung mitgeteilt worden ist, Einsicht in ihre oder seine Prüfungsakte nehmen.
 
-
-## § 22 – Übergangsvorschrift
+# § 22 – Übergangsvorschrift
 
 Für Referendarinnen und Referendare, die vor dem Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes vom 13. Juli 2016 (BGBl. I S. 1775) weiter anzuwenden.

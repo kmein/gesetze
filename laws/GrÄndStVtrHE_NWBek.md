@@ -1,10 +1,7 @@
-# [GrÄndStVtrHE/NWBek] Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze
-
-Ausfertigungsdatum: 18.05.2010
-
+% Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze
+% Ausfertigungsdatum: 18.05.2010
  
-
-## ----
+# ----
 
 Zwischen dem Land Hessen und dem Land Nordrhein-Westfalen wurde am 27. April 2009/28. Mai 2009 ein Staatsvertrag über Änderungen der gemeinsamen Landesgrenze abgeschlossen. Diesem Vertrag haben der Landtag des Landes Hessen mit Gesetz vom 14. Juli 2009 (Gesetz- und Verordnungsblatt für das Land Hessen, Teil I S. 242) und der Landtag des Landes Nordrhein-Westfalen mit Gesetz vom 15. September 2009 (Gesetz- und Verordnungsblatt für das Land Nordrhein-Westfalen, S. 492) zugestimmt.
 
@@ -14,7 +11,6 @@ Die in Artikel 1 Absatz 1 des Staatsvertrages genannten Kartenblätter wurden in
 
 Gemäß § 2 Absatz 3 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Absatz 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der Staatsvertrag nachstehend bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium des Innern

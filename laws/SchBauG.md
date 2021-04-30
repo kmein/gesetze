@@ -1,10 +1,7 @@
-# [SchBauG] Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung  (Schutzbaugesetz)
-
-Ausfertigungsdatum: 09.09.1965
-
+% Gesetz über bauliche Maßnahmen zum Schutz der Zivilbevölkerung  (Schutzbaugesetz)
+% Ausfertigungsdatum: 09.09.1965
  
-
-## § 7 – Steuerliche Behandlung der Aufwendungen für Schutzräume
+# § 7 – Steuerliche Behandlung der Aufwendungen für Schutzräume
 
 (1) Werden Schutzräume nach § 2 errichtet, so können von den für die Schutzräume aufgewendeten Herstellungskosten, soweit sie durch Zuschüsse nicht gedeckt sind, an Stelle der nach § 7 des Einkommensteuergesetzes zu bemessenden Absetzungen für Abnutzung im Jahr der Fertigstellung des Gebäudes und in den elf folgenden Jahren bis zur vollen Absetzung erhöhte Absetzungen bis zu jeweils zehn vom Hundert der Herstellungskosten vorgenommen werden. Soweit die Herstellungskosten des Schutzraumes abzüglich eines etwa nach § 3 Abs. 2 und § 4 gewährten öffentlichen Zuschusses einen durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates festzusetzenden Höchstbetrag übersteigen, scheiden sie für die Anwendung des Satzes 1 aus. Der Höchstbetrag ist unter Berücksichtigung der durchschnittlichen Baukosten und der Zahl der Personen, für die der Schutzraum bestimmt ist, festzusetzen. Hat sich der Preisindex für Rohbauarbeiten an Wohngebäuden nach den Feststellungen des Statistischen Bundesamtes seit der letzten Festsetzung des Höchstbetrags um mindestens fünf vom Hundert erhöht oder vermindert, so ist der Höchstbetrag den veränderten Baukosten anzupassen.
 
@@ -22,8 +19,7 @@ Geht das Recht auf Benutzung des Schutzraumes innerhalb von zwölf Jahren nach d
 
 (+++ § 7: Zur Anwendung im Beitrittsgebiet vgl. EStG § 57 Abs. 1 F. ab 1990-09-23 +++)
 
-
-## § 12 – Förderung bei freiwilliger Errichtung
+# § 12 – Förderung bei freiwilliger Errichtung
 
 (1) (weggefallen)
 

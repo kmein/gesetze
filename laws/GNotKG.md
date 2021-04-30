@@ -1,12 +1,7 @@
-# [GNotKG] Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare  (Gerichts- und Notarkostengesetz - GNotKG)
-
-Ausfertigungsdatum: 23.07.2013
-
+% Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare  (Gerichts- und Notarkostengesetz - GNotKG)
+% Ausfertigungsdatum: 23.07.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -72,8 +67,9 @@ Ausfertigungsdatum: 23.07.2013
 
  
 
+ 
 
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Soweit bundesrechtlich nichts anderes bestimmt ist, werden Kosten (Gebühren und Auslagen) durch die Gerichte in den Angelegenheiten der freiwilligen Gerichtsbarkeit und durch die Notare für ihre Amtstätigkeit nur nach diesem Gesetz erhoben.
 
@@ -133,8 +129,7 @@ Ausfertigungsdatum: 23.07.2013
 
 (6) Die Vorschriften dieses Gesetzes über die Erinnerung und die Beschwerde gehen den Regelungen der für das zugrunde liegende Verfahren geltenden Verfahrensvorschriften vor.
 
-
-## § 2 – Kostenfreiheit bei Gerichtskosten
+# § 2 – Kostenfreiheit bei Gerichtskosten
 
 (1) Der Bund und die Länder sowie die nach Haushaltsplänen des Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen sind von der Zahlung der Gerichtskosten befreit. Bei der Vollstreckung wegen öffentlich-rechtlicher Geldforderungen ist maßgebend, wer ohne Berücksichtigung des § 252 der Abgabenordnung oder entsprechender Vorschriften Gläubiger der Forderung ist.
 
@@ -148,20 +143,17 @@ Ausfertigungsdatum: 23.07.2013
 
 (+++ § 2: Zur Anwendung vgl. § 135 Abs. 1 +++)
 
-
-## § 3 – Höhe der Kosten
+# § 3 – Höhe der Kosten
 
 (1) Die Gebühren richten sich nach dem Wert, den der Gegenstand des Verfahrens oder des Geschäfts hat (Geschäftswert), soweit nichts anderes bestimmt ist.
 
 (2) Kosten werden nach dem Kostenverzeichnis der Anlage 1 zu diesem Gesetz erhoben.
 
-
-## § 4 – Auftrag an einen Notar
+# § 4 – Auftrag an einen Notar
 
 Die Erteilung eines Auftrags an einen Notar steht der Stellung eines Antrags im Sinne dieses Kapitels gleich.
 
-
-## § 5 – Verweisung, Abgabe
+# § 5 – Verweisung, Abgabe
 
 (1) Verweist ein erstinstanzliches Gericht oder ein Rechtsmittelgericht ein Verfahren an ein erstinstanzliches Gericht desselben oder eines anderen Zweiges der Gerichtsbarkeit, ist das frühere erstinstanzliche Verfahren als Teil des Verfahrens vor dem übernehmenden Gericht zu behandeln. Gleiches gilt, wenn die Sache an ein anderes Gericht abgegeben wird.
 
@@ -169,8 +161,7 @@ Die Erteilung eines Auftrags an einen Notar steht der Stellung eines Antrags im 
 
 (3) Verweist der Notar ein Teilungsverfahren an einen anderen Notar, entstehen die Gebühren für jeden Notar gesondert.
 
-
-## § 6 – Verjährung, Verzinsung
+# § 6 – Verjährung, Verzinsung
 
 (1) Ansprüche auf Zahlung von Gerichtskosten verjähren in vier Jahren nach Ablauf des Kalenderjahres, in dem das Verfahren durch rechtskräftige Entscheidung über die Kosten, durch Vergleich oder in sonstiger Weise beendet ist. Bei Betreuungen und Pflegschaften, die nicht auf einzelne Rechtshandlungen beschränkt sind (Dauerbetreuungen, Dauerpflegschaften), sowie bei Nachlasspflegschaften, Nachlass- oder Gesamtgutsverwaltungen beginnt die Verjährung hinsichtlich der Jahresgebühren am Tag vor deren Fälligkeit, hinsichtlich der Auslagen mit deren Fälligkeit. Ansprüche auf Zahlung von Notarkosten verjähren in vier Jahren nach Ablauf des Kalenderjahres, in dem die Kosten fällig geworden sind.
 
@@ -180,23 +171,19 @@ Die Erteilung eines Auftrags an einen Notar steht der Stellung eines Antrags im 
 
 (4) Ansprüche auf Zahlung und Rückzahlung von Gerichtskosten werden nicht verzinst.
 
-
-## § 7 – Elektronische Akte, elektronisches Dokument
+# § 7 – Elektronische Akte, elektronisches Dokument
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen Vorschriften über die elektronische Akte und über das elektronische Dokument anzuwenden, die für das dem kostenrechtlichen Verfahren zugrunde liegende Verfahren gelten.
 
-
-## § 7a – Rechtsbehelfsbelehrung
+# § 7a – Rechtsbehelfsbelehrung
 
 Jede Kostenrechnung, jede anfechtbare Entscheidung und jede Kostenberechnung eines Notars hat eine Belehrung über den statthaften Rechtsbehelf sowie über die Stelle, bei der dieser Rechtsbehelf einzulegen ist, über deren Sitz und über die einzuhaltende Form und Frist zu enthalten.
 
-
-## § 8 – Fälligkeit der Kosten in Verfahren mit Jahresgebühren
+# § 8 – Fälligkeit der Kosten in Verfahren mit Jahresgebühren
 
 In Betreuungssachen und betreuungsgerichtlichen Zuweisungssachen werden die Jahresgebühren 11101, 11102 und 11104 des Kostenverzeichnisses, in Nachlasssachen die Jahresgebühr 12311 des Kostenverzeichnisses erstmals bei Anordnung und später jeweils zu Beginn eines Kalenderjahres fällig. In diesen Fällen werden Auslagen sofort nach ihrer Entstehung fällig.
 
-
-## § 9 – Fälligkeit der Gerichtsgebühren in sonstigen Fällen, Fälligkeit der gerichtlichen Auslagen
+# § 9 – Fälligkeit der Gerichtsgebühren in sonstigen Fällen, Fälligkeit der gerichtlichen Auslagen
 
 (1) Im Übrigen werden die gerichtlichen Gebühren und Auslagen fällig, wenn
 
@@ -212,28 +199,23 @@ In Betreuungssachen und betreuungsgerichtlichen Zuweisungssachen werden die Jahr
 
 (2) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
 
-
-## § 10 – Fälligkeit der Notarkosten
+# § 10 – Fälligkeit der Notarkosten
 
 Notargebühren werden mit der Beendigung des Verfahrens oder des Geschäfts, Auslagen des Notars und die Gebühren 25300 und 25301 sofort nach ihrer Entstehung fällig.
 
-
-## § 11 – Zurückbehaltungsrecht
+# § 11 – Zurückbehaltungsrecht
 
 Urkunden, Ausfertigungen, Ausdrucke und Kopien sowie gerichtliche Unterlagen können nach billigem Ermessen zurückbehalten werden, bis die in der Angelegenheit entstandenen Kosten bezahlt sind. Dies gilt nicht, soweit § 53 des Beurkundungsgesetzes der Zurückbehaltung entgegensteht.
 
-
-## § 12 – Grundsatz für die Abhängigmachung bei Gerichtskosten
+# § 12 – Grundsatz für die Abhängigmachung bei Gerichtskosten
 
 In weiterem Umfang, als das Verfahrensrecht und dieses Gesetz es gestatten, darf die Tätigkeit des Gerichts von der Zahlung der Kosten oder von der Sicherstellung der Zahlung nicht abhängig gemacht werden.
 
-
-## § 13 – Abhängigmachung bei Gerichtsgebühren
+# § 13 – Abhängigmachung bei Gerichtsgebühren
 
 In erstinstanzlichen gerichtlichen Verfahren, in denen der Antragsteller die Kosten schuldet (§ 22 Absatz 1), kann die beantragte Handlung oder eine sonstige gerichtliche Handlung von der Zahlung eines Vorschusses in Höhe der für die Handlung oder der für das Verfahren im Allgemeinen bestimmten Gebühr abhängig gemacht werden. Satz 1 gilt in Grundbuch- und Nachlasssachen jedoch nur dann, wenn dies im Einzelfall zur Sicherung des Eingangs der Gebühr erforderlich erscheint.
 
-
-## § 14 – Auslagen des Gerichts
+# § 14 – Auslagen des Gerichts
 
 (1) Wird eine gerichtliche Handlung beantragt, mit der Auslagen verbunden sind, hat derjenige, der die Handlung beantragt hat, einen zur Deckung der Auslagen ausreichenden Vorschuss zu zahlen. Das Gericht soll eine Handlung, die nur auf Antrag vorzunehmen ist, von der vorherigen Zahlung abhängig machen; § 13 Satz 2 gilt entsprechend.
 
@@ -243,13 +225,11 @@ In erstinstanzlichen gerichtlichen Verfahren, in denen der Antragsteller die Kos
 
 (4) Absatz 1 gilt nicht in Freiheitsentziehungssachen und für die Anordnung einer Haft.
 
-
-## § 15 – Abhängigmachung bei Notarkosten
+# § 15 – Abhängigmachung bei Notarkosten
 
 Die Tätigkeit des Notars kann von der Zahlung eines zur Deckung der Kosten ausreichenden Vorschusses abhängig gemacht werden.
 
-
-## § 16 – Ausnahmen von der Abhängigmachung
+# § 16 – Ausnahmen von der Abhängigmachung
 
 Die beantragte Handlung darf nicht von der Sicherstellung oder Zahlung der Kosten abhängig gemacht werden,
 
@@ -267,13 +247,11 @@ b) eine Verzögerung dem Antragsteller einen nicht oder nur schwer zu ersetzende
 
 5. wenn aus einem anderen Grund das Verlangen nach vorheriger Zahlung oder Sicherstellung der Kosten nicht angebracht erscheint, insbesondere wenn die Berichtigung des Grundbuchs oder die Eintragung eines Widerspruchs beantragt wird oder die Rechte anderer Beteiligter beeinträchtigt werden.
 
-
-## § 17 – Fortdauer der Vorschusspflicht
+# § 17 – Fortdauer der Vorschusspflicht
 
 Die Verpflichtung zur Zahlung eines Vorschusses auf die Gerichtskosten bleibt bestehen, auch wenn die Kosten des Verfahrens einem anderen auferlegt oder von einem anderen übernommen sind. § 33 Absatz 1 gilt entsprechend.
 
-
-## § 18 – Ansatz der Gerichtskosten
+# § 18 – Ansatz der Gerichtskosten
 
 (1) Im gerichtlichen Verfahren werden angesetzt
 
@@ -299,8 +277,7 @@ werden auch dann von dem nach § 343 des Gesetzes über das Verfahren in Familie
 
 (6) Der Kostenansatz kann im Verwaltungsweg berichtigt werden, solange keine gerichtliche Entscheidung getroffen ist. Ergeht nach der gerichtlichen Entscheidung über den Kostenansatz eine Entscheidung, durch die der Geschäftswert anders festgesetzt wird, kann der Kostenansatz ebenfalls berichtigt werden.
 
-
-## § 19 – Einforderung der Notarkosten
+# § 19 – Einforderung der Notarkosten
 
 (1) Die Notarkosten dürfen nur aufgrund einer dem Kostenschuldner mitgeteilten, von dem Notar unterschriebenen Berechnung eingefordert werden. Der Lauf der Verjährungsfrist ist nicht von der Mitteilung der Berechnung abhängig.
 
@@ -330,8 +307,7 @@ werden auch dann von dem nach § 343 des Gesetzes über das Verfahren in Familie
 
 (6) Der Notar hat eine Kopie oder einen Ausdruck der Berechnung zu seinen Akten zu nehmen oder die Berechnung elektronisch aufzubewahren.
 
-
-## § 20 – Nachforderung von Gerichtskosten
+# § 20 – Nachforderung von Gerichtskosten
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Gerichtskosten nur nachgefordert werden, wenn der berichtigte Ansatz dem Zahlungspflichtigen vor Ablauf des nächsten Kalenderjahres nach Absendung der den Rechtszug abschließenden Kostenrechnung (Schlusskostenrechnung), bei Verfahren, in denen Jahresgebühren erhoben werden, nach Absendung der Jahresrechnung, mitgeteilt worden ist. Dies gilt nicht, wenn die Nachforderung auf vorsätzlich oder grob fahrlässig falschen Angaben des Kostenschuldners beruht oder wenn der ursprüngliche Kostenansatz unter einem bestimmten Vorbehalt erfolgt ist.
 
@@ -339,22 +315,19 @@ werden auch dann von dem nach § 343 des Gesetzes über das Verfahren in Familie
 
 (3) Ist der Wert gerichtlich festgesetzt worden, genügt es, wenn der berichtigte Ansatz dem Zahlungspflichtigen drei Monate nach der letzten Wertfestsetzung mitgeteilt worden ist.
 
-
-## § 21 – Nichterhebung von Kosten
+# § 21 – Nichterhebung von Kosten
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch eine von Amts wegen veranlasste Verlegung eines Termins oder Vertagung einer Verhandlung entstanden sind. Für abweisende Entscheidungen sowie bei Zurücknahme eines Antrags kann von der Erhebung von Kosten abgesehen werden, wenn der Antrag auf unverschuldeter Unkenntnis der tatsächlichen oder rechtlichen Verhältnisse beruht.
 
 (2) Werden die Kosten von einem Gericht erhoben, trifft dieses die Entscheidung. Solange das Gericht nicht entschieden hat, können Anordnungen nach Absatz 1 im Verwaltungsweg erlassen werden. Eine im Verwaltungsweg getroffene Anordnung kann nur im Verwaltungsweg geändert werden.
 
-
-## § 22 – Kostenschuldner in Antragsverfahren, Vergleich
+# § 22 – Kostenschuldner in Antragsverfahren, Vergleich
 
 (1) In gerichtlichen Verfahren, die nur durch Antrag eingeleitet werden, schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat, soweit nichts anderes bestimmt ist.
 
 (2) Die Gebühr für den Abschluss eines gerichtlichen Vergleichs schuldet jeder, der an dem Abschluss beteiligt ist.
 
-
-## § 23 – Kostenschuldner in bestimmten gerichtlichen Verfahren
+# § 23 – Kostenschuldner in bestimmten gerichtlichen Verfahren
 
 Kostenschuldner
 
@@ -400,8 +373,7 @@ ist derjenige, der die Erklärung, die Anzeige oder das Nachlassinventar abgegeb
 
 15. in Freiheitsentziehungssachen sind nur der Betroffene sowie im Rahmen ihrer gesetzlichen Unterhaltspflicht die zu seinem Unterhalt Verpflichteten, wenn die Kosten nicht der Verwaltungsbehörde auferlegt sind.
 
-
-## § 24 – Kostenhaftung der Erben
+# § 24 – Kostenhaftung der Erben
 
 Kostenschuldner im gerichtlichen Verfahren
 
@@ -425,8 +397,7 @@ Kostenschuldner im gerichtlichen Verfahren
 
 sind nur die Erben, und zwar nach den Vorschriften des Bürgerlichen Gesetzbuchs über Nachlassverbindlichkeiten, wenn das Gericht nichts anderes bestimmt.
 
-
-## § 25 – Kostenschuldner im Rechtsmittelverfahren, Gehörsrüge
+# § 25 – Kostenschuldner im Rechtsmittelverfahren, Gehörsrüge
 
 (1) Die nach § 22 Absatz 1 begründete Haftung für die Kosten eines Rechtsmittelverfahrens erlischt, wenn das Rechtsmittel ganz oder teilweise mit Erfolg eingelegt worden ist und das Gericht nicht über die Kosten entschieden hat oder die Kosten nicht von einem anderen Beteiligten übernommen worden sind.
 
@@ -434,8 +405,7 @@ sind nur die Erben, und zwar nach den Vorschriften des Bürgerlichen Gesetzbuchs
 
 (3) Die §§ 23 und 24 gelten nicht im Rechtsmittelverfahren.
 
-
-## § 26 – Bestimmte sonstige gerichtliche Auslagen
+# § 26 – Bestimmte sonstige gerichtliche Auslagen
 
 (1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der Ausfertigungen, Kopien oder Ausdrucke beantragt hat. Sind in einem gerichtlichen Verfahren Kopien oder Ausdrucke angefertigt worden, weil der Beteiligte es unterlassen hat, die erforderliche Zahl von Mehrfertigungen beizufügen, schuldet nur der Beteiligte die Dokumentenpauschale.
 
@@ -451,8 +421,7 @@ sind nur die Erben, und zwar nach den Vorschriften des Bürgerlichen Gesetzbuchs
 
 (5) Die Auslagen einer öffentlichen Zustellung in Teilungssachen schulden die Anteilsberechtigten.
 
-
-## § 27 – Weitere Fälle der Kostenhaftung
+# § 27 – Weitere Fälle der Kostenhaftung
 
 Die Kosten schuldet ferner,
 
@@ -464,13 +433,11 @@ Die Kosten schuldet ferner,
 
 4. der Verpflichtete für die Kosten der Vollstreckung.
 
-
-## § 28 – Erlöschen der Zahlungspflicht
+# § 28 – Erlöschen der Zahlungspflicht
 
 Die durch gerichtliche Entscheidung begründete Verpflichtung zur Zahlung von Kosten erlischt, soweit die Entscheidung durch eine andere gerichtliche Entscheidung aufgehoben oder abgeändert wird. Soweit die Verpflichtung zur Zahlung von Kosten nur auf der aufgehobenen oder abgeänderten Entscheidung beruht hat, werden bereits gezahlte Kosten zurückerstattet.
 
-
-## § 29 – Kostenschuldner im Allgemeinen
+# § 29 – Kostenschuldner im Allgemeinen
 
 Die Notarkosten schuldet, wer
 
@@ -480,8 +447,7 @@ Die Notarkosten schuldet, wer
 
 3. für die Kostenschuld eines anderen kraft Gesetzes haftet.
 
-
-## § 30 – Haftung der Urkundsbeteiligten
+# § 30 – Haftung der Urkundsbeteiligten
 
 (1) Die Kosten des Beurkundungsverfahrens und die im Zusammenhang mit dem Beurkundungsverfahren anfallenden Kosten des Vollzugs und der Betreuungstätigkeiten schuldet ferner jeder, dessen Erklärung beurkundet worden ist.
 
@@ -489,8 +455,7 @@ Die Notarkosten schuldet, wer
 
 (3) Derjenige, der in einer notariellen Urkunde die Kosten dieses Beurkundungsverfahrens, die im Zusammenhang mit dem Beurkundungsverfahren anfallenden Kosten des Vollzugs und der Betreuungstätigkeiten oder sämtliche genannten Kosten übernommen hat, haftet insoweit auch gegenüber dem Notar.
 
-
-## § 31 – Besonderer Kostenschuldner
+# § 31 – Besonderer Kostenschuldner
 
 (1) Schuldner der Kosten, die für die Beurkundung des Zuschlags bei der freiwilligen Versteigerung eines Grundstücks oder grundstücksgleichen Rechts anfallen, ist vorbehaltlich des § 29 Nummer 3 nur der Ersteher.
 
@@ -498,15 +463,13 @@ Die Notarkosten schuldet, wer
 
 (3) Schuldner der Kosten der Auseinandersetzung eines Nachlasses oder des Gesamtguts nach Beendigung der ehelichen, lebenspartnerschaftlichen oder fortgesetzten Gütergemeinschaft sind die Anteilsberechtigten; dies gilt nicht, soweit der Antrag zurückgenommen oder zurückgewiesen wurde. Ferner sind die für das Amtsgericht geltenden Vorschriften über die Kostenhaftung entsprechend anzuwenden.
 
-
-## § 32 – Mehrere Kostenschuldner
+# § 32 – Mehrere Kostenschuldner
 
 (1) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
 (2) Sind durch besondere Anträge eines Beteiligten Mehrkosten entstanden, so fallen diese ihm allein zur Last.
 
-
-## § 33 – Erstschuldner der Gerichtskosten
+# § 33 – Erstschuldner der Gerichtskosten
 
 (1) Soweit ein Kostenschuldner im gerichtlichen Verfahren aufgrund von § 27 Nummer 1 oder Nummer 2 (Erstschuldner) haftet, soll die Haftung eines anderen Kostenschuldners nur geltend gemacht werden, wenn eine Zwangsvollstreckung in das bewegliche Vermögen des Erstschuldners erfolglos geblieben ist oder aussichtslos erscheint. Zahlungen des Erstschuldners mindern seine Haftung aufgrund anderer Vorschriften dieses Gesetzes auch dann in voller Höhe, wenn sich seine Haftung nur auf einen Teilbetrag bezieht.
 
@@ -520,8 +483,7 @@ Die Notarkosten schuldet, wer
 
 3. das Gericht in seinem Vergleichsvorschlag ausdrücklich festgestellt hat, dass die Kostenregelung der sonst zu erwartenden Kostenentscheidung entspricht.
 
-
-## § 34 – Wertgebühren
+# § 34 – Wertgebühren
 
 (1) Wenn sich die Gebühren nach dem Geschäftswert richten, bestimmt sich die Höhe der Gebühr nach Tabelle A oder Tabelle B.
 
@@ -550,15 +512,13 @@ um … Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: cente
 
 (5) Der Mindestbetrag einer Gebühr ist 15 Euro.
 
-
-## § 35 – Grundsatz
+# § 35 – Grundsatz
 
 (1) In demselben Verfahren und in demselben Rechtszug werden die Werte mehrerer Verfahrensgegenstände zusammengerechnet, soweit nichts anderes bestimmt ist.
 
 (2) Der Geschäftswert beträgt, wenn die Tabelle A anzuwenden ist, höchstens 30 Millionen Euro, wenn die Tabelle B anzuwenden ist, höchstens 60 Millionen Euro, wenn kein niedrigerer Höchstwert bestimmt ist.
 
-
-## § 36 – Allgemeiner Geschäftswert
+# § 36 – Allgemeiner Geschäftswert
 
 (1) Soweit sich in einer vermögensrechtlichen Angelegenheit der Geschäftswert aus den Vorschriften dieses Gesetzes nicht ergibt und er auch sonst nicht feststeht, ist er nach billigem Ermessen zu bestimmen.
 
@@ -568,8 +528,7 @@ um … Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: cente
 
 (4) Wenn sich die Gerichtsgebühren nach den für Notare geltenden Vorschriften bestimmen, sind die für Notare geltenden Wertvorschriften entsprechend anzuwenden. Wenn sich die Notargebühren nach den für Gerichte geltenden Vorschriften bestimmen, sind die für Gerichte geltenden Wertvorschriften entsprechend anzuwenden.
 
-
-## § 37 – Früchte, Nutzungen, Zinsen, Vertragsstrafen, sonstige Nebengegenstände und Kosten
+# § 37 – Früchte, Nutzungen, Zinsen, Vertragsstrafen, sonstige Nebengegenstände und Kosten
 
 (1) Sind außer dem Hauptgegenstand des Verfahrens auch Früchte, Nutzungen, Zinsen, Vertragsstrafen, sonstige Nebengegenstände oder Kosten betroffen, wird deren Wert nicht berücksichtigt.
 
@@ -577,20 +536,17 @@ um … Euro</th></tr></thead><tbody><tr class="odd"><td style="text-align: cente
 
 (3) Sind die Kosten des Verfahrens ohne den Hauptgegenstand betroffen, ist der Betrag der Kosten maßgebend, soweit er den Wert des Hauptgegenstands nicht übersteigt.
 
-
-## § 38 – Belastung mit Verbindlichkeiten
+# § 38 – Belastung mit Verbindlichkeiten
 
 Verbindlichkeiten, die auf einer Sache oder auf einem Recht lasten, werden bei Ermittlung des Geschäftswerts nicht abgezogen, sofern nichts anderes bestimmt ist. Dies gilt auch für Verbindlichkeiten eines Nachlasses, einer sonstigen Vermögensmasse und im Fall einer Beteiligung an einer Personengesellschaft auch für deren Verbindlichkeiten.
 
-
-## § 39 – Auskunftspflichten
+# § 39 – Auskunftspflichten
 
 (1) Ein Notar, der einen Antrag bei Gericht einreicht, hat dem Gericht den von ihm zugrunde gelegten Geschäftswert hinsichtlich eines jeden Gegenstands mitzuteilen, soweit dieser für die vom Gericht zu erhebenden Gebühren von Bedeutung ist. Auf Ersuchen des Gerichts hat der Notar, der Erklärungen beurkundet hat, die bei Gericht eingereicht worden sind, oder Unterschriften oder Handzeichen unter solchen Erklärungen beglaubigt hat, in entsprechendem Umfang Auskunft zu erteilen.
 
 (2) Legt das Gericht seinem Kostenansatz einen von Absatz 1 abweichenden Geschäftswert zugrunde, so ist dieser dem Notar mitzuteilen. Auf Ersuchen des Notars, der Erklärungen beurkundet oder beglaubigt hat, die bei Gericht eingereicht werden, hat das Gericht über die für die Geschäftswertbestimmung maßgeblichen Umstände Auskunft zu erteilen.
 
-
-## § 40 – Erbschein, Europäisches Nachlasszeugnis, Zeugnis über die Fortsetzung der Gütergemeinschaft und Testamentsvollstreckerzeugnis
+# § 40 – Erbschein, Europäisches Nachlasszeugnis, Zeugnis über die Fortsetzung der Gütergemeinschaft und Testamentsvollstreckerzeugnis
 
 (1) Der Geschäftswert für das Verfahren zur
 
@@ -616,25 +572,21 @@ ist der Wert des Nachlasses im Zeitpunkt des Erbfalls. Vom Erblasser herrührend
 
 (+++ § 40 Abs. 2 u. 3: Zur Anwendung vgl. § 65 +++)
 
-
-## § 41 – Zeugnisse zum Nachweis der Auseinandersetzung eines Nachlasses oder Gesamtguts
+# § 41 – Zeugnisse zum Nachweis der Auseinandersetzung eines Nachlasses oder Gesamtguts
 
 In einem Verfahren, das ein Zeugnis nach den §§ 36 und 37 der Grundbuchordnung oder nach § 42 der Schiffsregisterordnung, auch in Verbindung mit § 74 der Schiffsregisterordnung oder § 86 des Gesetzes über Rechte an Luftfahrzeugen, betrifft, ist Geschäftswert der Wert der Gegenstände, auf die sich der Nachweis der Rechtsnachfolge erstreckt.
 
-
-## § 42 – Wohnungs- und Teileigentum
+# § 42 – Wohnungs- und Teileigentum
 
 (1) Bei der Begründung von Wohnungs- oder Teileigentum und bei Geschäften, die die Aufhebung oder das Erlöschen von Sondereigentum betreffen, ist Geschäftswert der Wert des bebauten Grundstücks. Ist das Grundstück noch nicht bebaut, ist dem Grundstückswert der Wert des zu errichtenden Bauwerks hinzuzurechnen.
 
 (2) Bei Wohnungs- und Teilerbbaurechten gilt Absatz 1 entsprechend, wobei an die Stelle des Grundstückswerts der Wert des Erbbaurechts tritt.
 
-
-## § 43 – Erbbaurechtsbestellung
+# § 43 – Erbbaurechtsbestellung
 
 Wird bei der Bestellung eines Erbbaurechts als Entgelt ein Erbbauzins vereinbart, ist Geschäftswert der nach § 52 errechnete Wert des Erbbauzinses. Ist der nach § 49 Absatz 2 errechnete Wert des Erbbaurechts höher, so ist dieser maßgebend.
 
-
-## § 44 – Mithaft
+# § 44 – Mithaft
 
 (1) Bei der Einbeziehung eines Grundstücks in die Mithaft wegen eines Grundpfandrechts und bei der Entlassung aus der Mithaft bestimmt sich der Geschäftswert nach dem Wert des einbezogenen oder entlassenen Grundstücks, wenn dieser geringer als der Wert nach § 53 Absatz 1 ist. Die Löschung eines Grundpfandrechts, bei dem bereits zumindest ein Grundstück aus der Mithaft entlassen worden ist, steht hinsichtlich der Geschäftswertbestimmung der Entlassung aus der Mithaft gleich.
 
@@ -646,8 +598,7 @@ Wird bei der Bestellung eines Erbbaurechts als Entgelt ein Erbbauzins vereinbart
 
 2. für Registerpfandrechte an einem Luftfahrzeug mit der Maßgabe, dass an die Stelle des Grundstücks das Luftfahrzeug tritt.
 
-
-## § 45 – Rangverhältnisse und Vormerkungen
+# § 45 – Rangverhältnisse und Vormerkungen
 
 (1) Bei Einräumung des Vorrangs oder des gleichen Rangs ist Geschäftswert der Wert des vortretenden Rechts, höchstens jedoch der Wert des zurücktretenden Rechts.
 
@@ -655,8 +606,7 @@ Wird bei der Bestellung eines Erbbaurechts als Entgelt ein Erbbauzins vereinbart
 
 (3) Geschäftswert einer sonstigen Vormerkung ist der Wert des vorgemerkten Rechts; § 51 Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 46 – Sache
+# § 46 – Sache
 
 (1) Der Wert einer Sache wird durch den Preis bestimmt, der im gewöhnlichen Geschäftsverkehr nach der Beschaffenheit der Sache unter Berücksichtigung aller den Preis beeinflussenden Umstände bei einer Veräußerung zu erzielen wäre (Verkehrswert).
 
@@ -682,13 +632,11 @@ Im Fall der Nummer 3 steht § 30 der Abgabenordnung einer Auskunft des Finanzamt
 
 (4) Eine Beweisaufnahme zur Feststellung des Verkehrswerts findet nicht statt.
 
-
-## § 47 – Sache bei Kauf
+# § 47 – Sache bei Kauf
 
 Im Zusammenhang mit dem Kauf wird der Wert der Sache durch den Kaufpreis bestimmt. Der Wert der vorbehaltenen Nutzungen und der vom Käufer übernommenen oder ihm sonst infolge der Veräußerung obliegenden Leistungen wird hinzugerechnet. Ist der nach den Sätzen 1 und 2 ermittelte Wert niedriger als der Verkehrswert, ist der Verkehrswert maßgebend.
 
-
-## § 48 – Land- und forstwirtschaftliches Vermögen
+# § 48 – Land- und forstwirtschaftliches Vermögen
 
 (1) Im Zusammenhang mit der Übergabe oder Zuwendung eines land- oder forstwirtschaftlichen Betriebs mit Hofstelle an eine oder mehrere natürliche Personen einschließlich der Abfindung weichender Erben beträgt der Wert des land- und forstwirtschaftlichen Vermögens im Sinne des Bewertungsgesetzes höchstens das Vierfache des letzten Einheitswerts, der zur Zeit der Fälligkeit der Gebühr bereits festgestellt ist, wenn
 
@@ -706,15 +654,13 @@ Im Zusammenhang mit dem Kauf wird der Wert der Sache durch den Kaufpreis bestimm
 
 2. eines landwirtschaftlichen Betriebs in einem Verfahren aufgrund der Vorschriften über die gerichtliche Zuweisung eines Betriebs (§ 1 Nummer 2 des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen), sofern das Verfahren mit der Zuweisung endet.
 
-
-## § 49 – Grundstücksgleiche Rechte
+# § 49 – Grundstücksgleiche Rechte
 
 (1) Die für die Bewertung von Grundstücken geltenden Vorschriften sind auf Rechte entsprechend anzuwenden, die den für Grundstücke geltenden Vorschriften unterliegen, soweit sich aus Absatz 2 nichts anderes ergibt.
 
 (2) Der Wert eines Erbbaurechts beträgt 80 Prozent der Summe aus den Werten des belasteten Grundstücks und darauf errichteter Bauwerke; sofern die Ausübung des Rechts auf eine Teilfläche beschränkt ist, sind 80 Prozent vom Wert dieser Teilfläche zugrunde zu legen.
 
-
-## § 50 – Bestimmte schuldrechtliche Verpflichtungen
+# § 50 – Bestimmte schuldrechtliche Verpflichtungen
 
 Der Wert beträgt bei einer schuldrechtlichen Verpflichtung
 
@@ -730,8 +676,7 @@ b) ein gewerblich genutztes Bauwerk handelt, 20 Prozent der voraussichtlichen He
 
 4. zu Investitionen 20 Prozent der Investitionssumme.
 
-
-## § 51 – Erwerbs- und Veräußerungsrechte, Verfügungsbeschränkungen
+# § 51 – Erwerbs- und Veräußerungsrechte, Verfügungsbeschränkungen
 
 (1) Der Wert eines Ankaufsrechts oder eines sonstigen Erwerbs- oder Veräußerungsrechts ist der Wert des Gegenstands, auf den sich das Recht bezieht. Der Wert eines Vorkaufs- oder Wiederkaufsrechts ist die Hälfte des Werts nach Satz 1.
 
@@ -741,8 +686,7 @@ b) ein gewerblich genutztes Bauwerk handelt, 20 Prozent der voraussichtlichen He
 
 (+++ § 51 Abs. 1 Satz 2: zur Anwendung vgl. § 45 Abs. 3 +++)
 
-
-## § 52 – Nutzungs- und Leistungsrechte
+# § 52 – Nutzungs- und Leistungsrechte
 
 (1) Der Wert einer Dienstbarkeit, einer Reallast oder eines sonstigen Rechts oder Anspruchs auf wiederkehrende oder dauernde Nutzungen oder Leistungen einschließlich des Unterlassens oder Duldens bestimmt sich nach dem Wert, den das Recht für den Berechtigten oder für das herrschende Grundstück hat.
 
@@ -770,27 +714,23 @@ entfallende Wert. Hängt die Dauer des Rechts von der Lebensdauer mehrerer Perso
 
 (7) Preisklauseln werden nicht berücksichtigt.
 
-
-## § 53 – Grundpfandrechte und sonstige Sicherheiten
+# § 53 – Grundpfandrechte und sonstige Sicherheiten
 
 (1) Der Wert einer Hypothek, Schiffshypothek, eines Registerpfandrechts an einem Luftfahrzeug oder einer Grundschuld ist der Nennbetrag der Schuld. Der Wert einer Rentenschuld ist der Nennbetrag der Ablösungssumme.
 
 (2) Der Wert eines sonstigen Pfandrechts oder der sonstigen Sicherstellung einer Forderung durch Bürgschaft, Sicherungsübereignung oder dergleichen bestimmt sich nach dem Betrag der Forderung und, wenn der als Pfand oder zur Sicherung dienende Gegenstand einen geringeren Wert hat, nach diesem.
 
-
-## § 54 – Bestimmte Gesellschaftsanteile
+# § 54 – Bestimmte Gesellschaftsanteile
 
 Wenn keine genügenden Anhaltspunkte für einen höheren Wert von Anteilen an Kapitalgesellschaften und von Kommanditbeteiligungen bestehen, bestimmt sich der Wert nach dem Eigenkapital im Sinne von § 266 Absatz 3 des Handelsgesetzbuchs, das auf den jeweiligen Anteil oder die Beteiligung entfällt. Grundstücke, Gebäude, grundstücksgleiche Rechte, Schiffe oder Schiffsbauwerke sind dabei nach den Bewertungsvorschriften dieses Unterabschnitts zu berücksichtigen. Sofern die betreffenden Gesellschaften überwiegend vermögensverwaltend tätig sind, insbesondere als Immobilienverwaltungs-, Objekt-, Holding-, Besitz- oder sonstige Beteiligungsgesellschaft, ist der auf den jeweiligen Anteil oder die Beteiligung entfallende Wert des Vermögens der Gesellschaft maßgeblich; die Sätze 1 und 2 sind nicht anzuwenden.
 
-
-## § 55 – Einmalige Erhebung der Gebühren
+# § 55 – Einmalige Erhebung der Gebühren
 
 (1) Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine Entscheidung oder die Vornahme einer Handlung werden in jedem Rechtszug hinsichtlich eines jeden Teils des Verfahrensgegenstands nur einmal erhoben.
 
 (2) Für Eintragungen in das Vereinsregister, Güterrechtsregister, Grundbuch, Schiffs- und Schiffsbauregister und in das Register für Pfandrechte an Luftfahrzeugen werden die Gebühren für jede Eintragung gesondert erhoben, soweit nichts anderes bestimmt ist.
 
-
-## § 56 – Teile des Verfahrensgegenstands
+# § 56 – Teile des Verfahrensgegenstands
 
 (1) Für Handlungen, die einen Teil des Verfahrensgegenstands betreffen, sind die Gebühren nur nach dem Wert dieses Teils zu berechnen.
 
@@ -798,15 +738,13 @@ Wenn keine genügenden Anhaltspunkte für einen höheren Wert von Anteilen an Ka
 
 (3) Sind für Teile des Verfahrensgegenstands verschiedene Gebührensätze anzuwenden, sind die Gebühren für die Teile gesondert zu berechnen; die aus dem Gesamtbetrag der Wertteile nach dem höchsten Gebührensatz berechnete Gebühr darf jedoch nicht überschritten werden.
 
-
-## § 57 – Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung
+# § 57 – Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung
 
 (1) Wird eine Sache an ein Gericht eines unteren Rechtszugs zurückverwiesen, bildet das weitere Verfahren mit dem früheren Verfahren vor diesem Gericht einen Rechtszug im Sinne des § 55.
 
 (2) Das Verfahren über eine Abänderung oder Aufhebung einer Entscheidung gilt als besonderes Verfahren, soweit im Kostenverzeichnis nichts anderes bestimmt ist.
 
-
-## § 58 – Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister; Verordnungsermächtigung
+# § 58 – Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister; Verordnungsermächtigung
 
 (1) Gebühren werden nur aufgrund einer Rechtsverordnung (Handelsregistergebührenverordnung) erhoben für
 
@@ -822,13 +760,11 @@ Keine Gebühren werden erhoben für die aus Anlass eines Insolvenzverfahrens von
 
 (2) Die Rechtsverordnung nach Absatz 1 erlässt das Bundesministerium der Justiz und für Verbraucherschutz. Sie bedarf der Zustimmung des Bundesrates. Die Höhe der Gebühren richtet sich nach den auf die Amtshandlungen entfallenden durchschnittlichen Personal- und Sachkosten; Gebühren für Fälle der Zurücknahme oder Zurückweisung von Anmeldungen können jedoch bestimmt werden, indem die für die entsprechenden Eintragungen zu erhebenden Gebühren pauschal mit Ab- oder Zuschlägen versehen werden. Die auf gebührenfreie Eintragungen entfallenden Personal- und Sachkosten können bei der Höhe der für andere Eintragungen festgesetzten Gebühren berücksichtigt werden.
 
-
-## § 59 – Zeitpunkt der Wertberechnung
+# § 59 – Zeitpunkt der Wertberechnung
 
 Für die Wertberechnung ist der Zeitpunkt der jeweiligen den Verfahrensgegenstand betreffenden ersten Antragstellung in dem jeweiligen Rechtszug entscheidend, soweit nichts anderes bestimmt ist. In Verfahren, die von Amts wegen eingeleitet werden, ist der Zeitpunkt der Fälligkeit der Gebühr maßgebend.
 
-
-## § 60 – Genehmigung oder Ersetzung einer Erklärung oder Genehmigung eines Rechtsgeschäfts
+# § 60 – Genehmigung oder Ersetzung einer Erklärung oder Genehmigung eines Rechtsgeschäfts
 
 (1) Wenn in einer vermögensrechtlichen Angelegenheit Gegenstand des Verfahrens die Genehmigung oder Ersetzung einer Erklärung oder die Genehmigung eines Rechtsgeschäfts ist, bemisst sich der Geschäftswert nach dem Wert des zugrunde liegenden Geschäfts.
 
@@ -836,8 +772,7 @@ Für die Wertberechnung ist der Zeitpunkt der jeweiligen den Verfahrensgegenstan
 
 (3) Der Wert beträgt in jedem Fall höchstens 1 Million Euro.
 
-
-## § 61 – Rechtsmittelverfahren
+# § 61 – Rechtsmittelverfahren
 
 (1) Im Rechtsmittelverfahren bestimmt sich der Geschäftswert nach den Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass solche Anträge eingereicht werden, oder werden bei einer Rechtsbeschwerde innerhalb der Frist für die Begründung Anträge nicht eingereicht, ist die Beschwer maßgebend.
 
@@ -845,33 +780,27 @@ Für die Wertberechnung ist der Zeitpunkt der jeweiligen den Verfahrensgegenstan
 
 (3) Im Verfahren über den Antrag auf Zulassung der Sprungrechtsbeschwerde ist Gegenstandswert der für das Rechtsmittelverfahren maßgebende Wert.
 
-
-## § 62 – Einstweilige Anordnung, Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses
+# § 62 – Einstweilige Anordnung, Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses
 
 Im Verfahren der einstweiligen Anordnung und im Verfahren über die Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses ist der Wert in der Regel unter Berücksichtigung der geringeren Bedeutung gegenüber der Hauptsache zu ermäßigen. Dabei ist von der Hälfte des für die Hauptsache bestimmten Werts auszugehen.
 
-
-## § 63 – Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
+# § 63 – Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
 
 Bei Betreuungen oder Pflegschaften, die einzelne Rechtshandlungen betreffen, ist Geschäftswert der Wert des Gegenstands, auf den sich die Rechtshandlung bezieht. Bezieht sich die Betreuung oder Pflegschaft auf eine gegenwärtige oder künftige Mitberechtigung, ermäßigt sich der Wert auf den Bruchteil, der dem Anteil der Mitberechtigung entspricht. Bei Gesamthandsverhältnissen ist der Anteil entsprechend der Beteiligung an dem Gesamthandvermögen zu bemessen.
 
-
-## § 64 – Nachlasspflegschaften und Gesamtgutsverwaltung
+# § 64 – Nachlasspflegschaften und Gesamtgutsverwaltung
 
 (1) Geschäftswert für eine Nachlassverwaltung, eine Gesamtgutsverwaltung oder eine sonstige Nachlasspflegschaft ist der Wert des von der Verwaltung betroffenen Vermögens.
 
 (2) Ist der Antrag auf Anordnung einer Nachlasspflegschaft oder -verwaltung oder einer Gesamtgutsverwaltung von einem Gläubiger gestellt, so ist Geschäftswert der Betrag der Forderung, höchstens jedoch der sich nach Absatz 1 ergebende Betrag.
 
-
-## § 65 – Ernennung und Entlassung von Testamentsvollstreckern
+# § 65 – Ernennung und Entlassung von Testamentsvollstreckern
 
 Der Geschäftswert für das Verfahren über die Ernennung oder Entlassung eines Testamentsvollstreckers beträgt jeweils 10 Prozent des Werts des Nachlasses im Zeitpunkt des Erbfalls, wobei Nachlassverbindlichkeiten nicht abgezogen werden; § 40 Absatz 2 und 3 ist entsprechend anzuwenden.
 
+# § 66 – (weggefallen)
 
-## § 66 – (weggefallen)
-
-
-## § 67 – Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereins- und Stiftungssachen
+# § 67 – Bestimmte unternehmensrechtliche Verfahren und bestimmte Vereins- und Stiftungssachen
 
 (1) Der Geschäftswert in einem unternehmensrechtlichen Verfahren und in einem Verfahren in Vereinssachen beträgt
 
@@ -889,20 +818,17 @@ wenn das Verfahren die Ernennung oder Abberufung von Personen betrifft.
 
 (3) Ist der nach Absatz 1 oder Absatz 2 bestimmte Wert nach den besonderen Umständen des Einzelfalls unbillig, kann das Gericht einen höheren oder einen niedrigeren Wert festsetzen.
 
-
-## § 68 – Verhandlung über Dispache
+# § 68 – Verhandlung über Dispache
 
 Geschäftswert in dem Verfahren zum Zweck der Verhandlung über die Dispache ist die Summe der Anteile, die die an der Verhandlung Beteiligten an dem Schaden zu tragen haben.
 
-
-## § 69 – Eintragungen im Grundbuch, Schiffs- oder Schiffsbauregister
+# § 69 – Eintragungen im Grundbuch, Schiffs- oder Schiffsbauregister
 
 (1) Geschäftswert für die Eintragung desselben Eigentümers bei mehreren Grundstücken ist der zusammengerechnete Wert dieser Grundstücke, wenn das Grundbuch über diese bei demselben Grundbuchamt geführt wird, die Eintragungsanträge in demselben Dokument enthalten sind und am selben Tag beim Grundbuchamt eingehen. Satz 1 ist auf grundstücksgleiche Rechte und auf Eintragungen in das Schiffs- und Schiffsbauregister entsprechend anzuwenden.
 
 (2) Geschäftswert für die Eintragung mehrerer Veränderungen, die sich auf dasselbe Recht beziehen, ist der zusammengerechnete Wert der Veränderungen, wenn die Eintragungsanträge in demselben Dokument enthalten sind und am selben Tag bei dem Grundbuchamt oder Registergericht eingehen. Der Wert des Rechts darf auch bei mehreren Veränderungen nicht überschritten werden.
 
-
-## § 70 – Gemeinschaften zur gesamten Hand
+# § 70 – Gemeinschaften zur gesamten Hand
 
 (1) Ist oder wird eine Gesamthandsgemeinschaft im Grundbuch eingetragen, sind bei der Berechnung des Geschäftswerts die Anteile an der Gesamthandsgemeinschaft wie Bruchteile an dem Grundstück zu behandeln. Im Zweifel gelten die Mitglieder der Gemeinschaft als zu gleichen Teilen am Gesamthandsvermögen beteiligt.
 
@@ -912,37 +838,31 @@ Geschäftswert in dem Verfahren zum Zweck der Verhandlung über die Dispache ist
 
 (4) Die Absätze 1 bis 3 sind auf offene Handelsgesellschaften, Kommanditgesellschaften, Partnerschaften und Europäische wirtschaftliche Interessenvereinigungen nicht und auf Gesellschaften bürgerlichen Rechts nur für die Eintragung einer Änderung im Gesellschafterbestand anzuwenden.
 
-
-## § 71 – Nachträgliche Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs
+# § 71 – Nachträgliche Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs
 
 (1) Bei der nachträglichen Erteilung eines Hypotheken-, Grundschuld- oder Rentenschuldbriefs ist Geschäftswert der für die Eintragung des Rechts maßgebende Wert.
 
 (2) Für die nachträgliche Gesamtbrieferteilung gilt § 44 Absatz 1 entsprechend.
 
-
-## § 72 – Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer
+# § 72 – Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer
 
 (1) Den Geschäftswert im gerichtlichen Verfahren über die abschließenden Feststellungen der Sonderprüfer nach § 259 Absatz 2 und 3 des Aktiengesetzes bestimmt das Gericht unter Berücksichtigung aller Umstände des einzelnen Falles nach billigem Ermessen, insbesondere unter Berücksichtigung der Bedeutung der Sache für die Parteien. Er darf jedoch ein Zehntel des Grundkapitals oder, wenn dieses Zehntel mehr als 500 000 Euro beträgt, 500 000 Euro nur insoweit übersteigen, als die Bedeutung der Sache für den Kläger höher zu bewerten ist.
 
 (2) Die Vorschriften über die Anordnung der Streitwertbegünstigung (§ 260 Absatz 4 Satz 2 in Verbindung mit § 247 Absatz 2 und 3 des Aktiengesetzes) sind anzuwenden.
 
-
-## § 73 – Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz
+# § 73 – Ausschlussverfahren nach dem Wertpapiererwerbs- und Übernahmegesetz
 
 Geschäftswert im Verfahren über den Ausschluss von Aktionären nach den §§ 39a und 39b des Wertpapiererwerbs- und Übernahmegesetzes ist der Betrag, der dem Wert aller Aktien entspricht, auf die sich der Ausschluss bezieht; der Geschäftswert beträgt mindestens 200 000 Euro und höchstens 7,5 Millionen Euro.
 
-
-## § 74 – Verfahren nach dem Spruchverfahrensgesetz
+# § 74 – Verfahren nach dem Spruchverfahrensgesetz
 
 Geschäftswert im gerichtlichen Verfahren nach dem Spruchverfahrensgesetz ist der Betrag, der von allen in § 3 des Spruchverfahrensgesetzes genannten Antragsberechtigten nach der Entscheidung des Gerichts zusätzlich zu dem ursprünglich angebotenen Betrag insgesamt gefordert werden kann; der Geschäftswert beträgt mindestens 200 000 Euro und höchstens 7,5 Millionen Euro. Maßgeblicher Zeitpunkt für die Bestimmung des Werts ist der Tag nach Ablauf der Antragsfrist (§ 4 Absatz 1 des Spruchverfahrensgesetzes).
 
-
-## § 75 – Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats
+# § 75 – Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats
 
 Im gerichtlichen Verfahren über die Zusammensetzung des Aufsichtsrats, das sich nach den §§ 98 und 99 des Aktiengesetzes richtet, ist abweichend von § 36 Absatz 3 von einem Geschäftswert von 50 000 Euro auszugehen.
 
-
-## § 76 – Bestimmte Verfahren vor dem Landwirtschaftsgericht
+# § 76 – Bestimmte Verfahren vor dem Landwirtschaftsgericht
 
 Geschäftswert ist
 
@@ -954,18 +874,15 @@ Geschäftswert ist
 
 4. in gerichtlichen Verfahren aufgrund der Vorschriften über Einwendungen gegen das siedlungsrechtliche Vorkaufsrecht (§ 1 Nummer 3 des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen) der Geschäftswert des zugrunde liegenden Kaufvertrags.
 
-
-## § 77 – Angabe des Werts
+# § 77 – Angabe des Werts
 
 Bei jedem Antrag ist der Geschäftswert und nach Aufforderung auch der Wert eines Teils des Verfahrensgegenstands schriftlich oder zu Protokoll der Geschäftsstelle anzugeben, es sei denn, Geschäftswert ist eine bestimmte Geldsumme, oder ein fester Wert ist gesetzlich bestimmt oder ergibt sich aus früheren Anträgen. Die Angabe kann jederzeit berichtigt werden.
 
-
-## § 78 – Wertfestsetzung für die Zulässigkeit der Beschwerde
+# § 78 – Wertfestsetzung für die Zulässigkeit der Beschwerde
 
 Ist der Wert für die Zulässigkeit der Beschwerde festgesetzt, so ist die Festsetzung auch für die Berechnung der Gebühren maßgebend, soweit die Wertvorschriften dieses Gesetzes nicht von den Wertvorschriften des Verfahrensrechts abweichen.
 
-
-## § 79 – Festsetzung des Geschäftswerts
+# § 79 – Festsetzung des Geschäftswerts
 
 (1) Soweit eine Entscheidung nach § 78 nicht ergeht oder nicht bindet, setzt das Gericht den Wert für die zu erhebenden Gebühren durch Beschluss fest, sobald eine Entscheidung über den gesamten Verfahrensgegenstand ergeht oder sich das Verfahren anderweitig erledigt. Satz 1 gilt nicht, wenn
 
@@ -985,13 +902,11 @@ In den Fällen des Satzes 2 setzt das Gericht den Wert nur fest, wenn ein Zahlun
 
 Die Änderung ist nur innerhalb von sechs Monaten zulässig, nachdem die Entscheidung wegen des Hauptgegenstands Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat.
 
-
-## § 80 – Schätzung des Geschäftswerts
+# § 80 – Schätzung des Geschäftswerts
 
 Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, ist in dem Beschluss, durch den der Wert festgesetzt wird (§ 79), über die Kosten der Schätzung zu entscheiden. Diese Kosten können ganz oder teilweise einem Beteiligten auferlegt werden, der durch Unterlassung der Wertangabe, durch unrichtige Angabe des Werts, durch unbegründetes Bestreiten des angegebenen Werts oder durch unbegründete Beschwerde die Schätzung veranlasst hat.
 
-
-## § 81 – Erinnerung gegen den Kostenansatz, Beschwerde
+# § 81 – Erinnerung gegen den Kostenansatz, Beschwerde
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen den Kostenansatz einschließlich der Ausübung des Zurückbehaltungsrechts (§ 11) entscheidet das Gericht, bei dem die Kosten angesetzt sind. War das Verfahren im ersten Rechtszug bei mehreren Gerichten anhängig, ist das Gericht, bei dem es zuletzt anhängig war, auch insoweit zuständig, als Kosten bei den anderen Gerichten angesetzt worden sind.
 
@@ -1018,15 +933,13 @@ Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, is
 (+++ § 81 Abs. 6: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 u. § 83 Abs. 1 Satz 5 u. Abs. 2 Satz 6 +++)  
 (+++ § 81 Abs. 8: Zur Anwendung vgl. § 82 Abs. 1 Satz 2 +++)
 
-
-## § 82 – Beschwerde gegen die Anordnung einer Vorauszahlung
+# § 82 – Beschwerde gegen die Anordnung einer Vorauszahlung
 
 (1) Gegen den Beschluss, durch den aufgrund dieses Gesetzes die Tätigkeit des Gerichts von der vorherigen Zahlung von Kosten abhängig gemacht wird, und wegen der Höhe des in diesem Fall im Voraus zu zahlenden Betrags ist stets die Beschwerde statthaft. § 81 Absatz 3 bis 5 Satz 1 und 4 und Absatz 6 und 8 ist entsprechend anzuwenden.
 
 (2) Im Fall des § 14 Absatz 2 ist § 81 entsprechend anzuwenden.
 
-
-## § 83 – Beschwerde gegen die Festsetzung des Geschäftswerts
+# § 83 – Beschwerde gegen die Festsetzung des Geschäftswerts
 
 (1) Gegen den Beschluss, durch den der Geschäftswert für die Gerichtsgebühren festgesetzt worden ist (§ 79), ist die Beschwerde statthaft, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde ist auch statthaft, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 79 Absatz 2 Satz 2 bestimmten Frist eingelegt wird; ist der Geschäftswert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem dritten Tag nach Aufgabe zur Post als bekannt gemacht. § 81 Absatz 3 bis 5 Satz 1 und 4 und Absatz 6 ist entsprechend anzuwenden. Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der Entscheidung des Beschwerdegerichts einzulegen.
 
@@ -1034,8 +947,7 @@ Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, is
 
 (3) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
-
-## § 84 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+# § 84 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge eines durch die Entscheidung nach diesem Gesetz beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -1053,44 +965,37 @@ Wird eine Schätzung des Geschäftswerts durch Sachverständige erforderlich, is
 
 (6) Kosten werden nicht erstattet.
 
-
-## § 85 – Notarielle Verfahren
+# § 85 – Notarielle Verfahren
 
 (1) Notarielle Verfahren im Sinne dieses Gesetzes sind das Beurkundungsverfahren (Teil 2 Hauptabschnitt 1 des Kostenverzeichnisses) und die sonstigen notariellen Verfahren (Teil 2 Hauptabschnitt 3 des Kostenverzeichnisses).
 
 (2) Das Beurkundungsverfahren im Sinne dieses Gesetzes ist auf die Errichtung einer Niederschrift (§§ 8 und 36 des Beurkundungsgesetzes) gerichtet.
 
-
-## § 86 – Beurkundungsgegenstand
+# § 86 – Beurkundungsgegenstand
 
 (1) Beurkundungsgegenstand ist das Rechtsverhältnis, auf das sich die Erklärungen beziehen, bei Tatsachenbeurkundungen die beurkundete Tatsache oder der beurkundete Vorgang.
 
 (2) Mehrere Rechtsverhältnisse, Tatsachen oder Vorgänge sind verschiedene Beurkundungsgegenstände, soweit in § 109 nichts anderes bestimmt ist.
 
-
-## § 87 – Sprechtage außerhalb der Geschäftsstelle
+# § 87 – Sprechtage außerhalb der Geschäftsstelle
 
 Hält ein Notar außerhalb seiner Geschäftsstelle regelmäßige Sprechtage ab, so gilt dieser Ort als Amtssitz im Sinne dieses Gesetzes.
 
-
-## § 88 – Verzinsung des Kostenanspruchs
+# § 88 – Verzinsung des Kostenanspruchs
 
 Der Kostenschuldner hat die Kostenforderung zu verzinsen, wenn ihm eine vollstreckbare Ausfertigung der Kostenberechnung (§ 19) zugestellt wird, die Angaben über die Höhe der zu verzinsenden Forderung, den Verzinsungsbeginn und den Zinssatz enthält. Die Verzinsung beginnt einen Monat nach der Zustellung. Der jährliche Zinssatz beträgt fünf Prozentpunkte über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs.
 
-
-## § 89 – Beitreibung der Kosten und Zinsen
+# § 89 – Beitreibung der Kosten und Zinsen
 
 Die Kosten und die auf diese entfallenden Zinsen werden aufgrund einer mit der Vollstreckungsklausel des Notars versehenen Ausfertigung der Kostenberechnung (§ 19) nach den Vorschriften der Zivilprozessordnung beigetrieben; § 798 der Zivilprozessordnung gilt entsprechend. In der Vollstreckungsklausel, die zum Zweck der Zwangsvollstreckung gegen einen zur Duldung der Zwangsvollstreckung Verpflichteten erteilt wird, ist die Duldungspflicht auszusprechen.
 
-
-## § 90 – Zurückzahlung, Schadensersatz
+# § 90 – Zurückzahlung, Schadensersatz
 
 (1) Wird die Kostenberechnung abgeändert oder ist der endgültige Kostenbetrag geringer als der erhobene Vorschuss, so hat der Notar die zu viel empfangenen Beträge zu erstatten. Hatte der Kostenschuldner einen Antrag auf Entscheidung des Landgerichts nach § 127 Absatz 1 innerhalb eines Monats nach der Zustellung der vollstreckbaren Ausfertigung gestellt, so hat der Notar darüber hinaus den Schaden zu ersetzen, der dem Kostenschuldner durch die Vollstreckung oder durch eine zur Abwendung der Vollstreckung erbrachte Leistung entstanden ist. Im Fall des Satzes 2 hat der Notar den zu viel empfangenen Betrag vom Tag des Antragseingangs bei dem Landgericht an mit jährlich fünf Prozentpunkten über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen; die Geltendmachung eines weitergehenden Schadens ist nicht ausgeschlossen. Im Übrigen kann der Kostenschuldner eine Verzinsung des zu viel gezahlten Betrags nicht fordern.
 
 (2) Über die Verpflichtungen gemäß Absatz 1 wird auf Antrag des Kostenschuldners in dem Verfahren nach § 127 entschieden. Die Entscheidung ist nach den Vorschriften der Zivilprozessordnung vollstreckbar.
 
-
-## § 91 – Gebührenermäßigung
+# § 91 – Gebührenermäßigung
 
 (1) Erhebt ein Notar die in Teil 2 Hauptabschnitt 1 oder 4 oder in den Nummern 23803 und 25202 des Kostenverzeichnisses bestimmten Gebühren von
 
@@ -1145,8 +1050,7 @@ Eine ermäßigte Gebühr darf jedoch die Gebühr nicht unterschreiten, die bei e
 
 (4) Soweit die Haftung auf der Vorschrift des § 29 Nummer 3 (Haftung nach bürgerlichem Recht) beruht, kann sich der Begünstigte gegenüber dem Notar nicht auf die Gebührenermäßigung berufen.
 
-
-## § 92 – Rahmengebühren
+# § 92 – Rahmengebühren
 
 (1) Bei Rahmengebühren bestimmt der Notar die Gebühr im Einzelfall unter Berücksichtigung des Umfangs der erbrachten Leistung nach billigem Ermessen.
 
@@ -1154,32 +1058,27 @@ Eine ermäßigte Gebühr darf jedoch die Gebühr nicht unterschreiten, die bei e
 
 (3) Ist eine Gebühr für eine vorausgegangene Tätigkeit auf eine Rahmengebühr anzurechnen, so ist bei der Bemessung der Gebühr auch die vorausgegangene Tätigkeit zu berücksichtigen.
 
-
-## § 93 – Einmalige Erhebung der Gebühren
+# § 93 – Einmalige Erhebung der Gebühren
 
 (1) Die Gebühr für ein Verfahren sowie die Vollzugs- und die Betreuungsgebühr werden in demselben notariellen Verfahren jeweils nur einmal erhoben. Die Vollzugs- und die Betreuungsgebühr werden bei der Fertigung eines Entwurfs jeweils nur einmal erhoben.
 
 (2) Werden in einem Beurkundungsverfahren ohne sachlichen Grund mehrere Beurkundungsgegenstände zusammengefasst, gilt das Beurkundungsverfahren hinsichtlich jedes dieser Beurkundungsgegenstände als besonderes Verfahren. Ein sachlicher Grund ist insbesondere anzunehmen, wenn hinsichtlich jedes Beurkundungsgegenstands die gleichen Personen an dem Verfahren beteiligt sind oder der rechtliche Verknüpfungswille in der Urkunde zum Ausdruck kommt.
 
-
-## § 94 – Verschiedene Gebührensätze
+# § 94 – Verschiedene Gebührensätze
 
 (1) Sind für die einzelnen Beurkundungsgegenstände oder für Teile davon verschiedene Gebührensätze anzuwenden, entstehen insoweit gesondert berechnete Gebühren, jedoch nicht mehr als die nach dem höchsten Gebührensatz berechnete Gebühr aus dem Gesamtbetrag der Werte.
 
 (2) Soweit mehrere Beurkundungsgegenstände als ein Gegenstand zu behandeln sind (§ 109), wird die Gebühr nach dem höchsten in Betracht kommenden Gebührensatz berechnet. Sie beträgt jedoch nicht mehr als die Summe der Gebühren, die bei getrennter Beurkundung entstanden wären.
 
-
-## § 95 – Mitwirkung der Beteiligten
+# § 95 – Mitwirkung der Beteiligten
 
 Die Beteiligten sind verpflichtet, bei der Wertermittlung mitzuwirken. Sie haben ihre Erklärungen über tatsächliche Umstände vollständig und wahrheitsgemäß abzugeben. Kommen die Beteiligten ihrer Mitwirkungspflicht nicht nach, ist der Wert nach billigem Ermessen zu bestimmen.
 
-
-## § 96 – Zeitpunkt der Wertberechnung
+# § 96 – Zeitpunkt der Wertberechnung
 
 Für die Wertberechnung ist der Zeitpunkt der Fälligkeit der Gebühr maßgebend.
 
-
-## § 97 – Verträge und Erklärungen
+# § 97 – Verträge und Erklärungen
 
 (1) Der Geschäftswert bei der Beurkundung von Verträgen und Erklärungen bestimmt sich nach dem Wert des Rechtsverhältnisses, das Beurkundungsgegenstand ist.
 
@@ -1187,8 +1086,7 @@ Für die Wertberechnung ist der Zeitpunkt der Fälligkeit der Gebühr maßgebend
 
 (3) Bei Verträgen, die den Austausch von Leistungen zum Gegenstand haben, ist nur der Wert der Leistungen des einen Teils maßgebend; wenn der Wert der Leistungen verschieden ist, ist der höhere maßgebend.
 
-
-## § 98 – Vollmachten und Zustimmungen
+# § 98 – Vollmachten und Zustimmungen
 
 (1) Bei der Beurkundung einer Vollmacht zum Abschluss eines bestimmten Rechtsgeschäfts oder bei der Beurkundung einer Zustimmungserklärung ist Geschäftswert die Hälfte des Geschäftswerts für die Beurkundung des Geschäfts, auf das sich die Vollmacht oder die Zustimmungserklärung bezieht.
 
@@ -1200,15 +1098,13 @@ Für die Wertberechnung ist der Zeitpunkt der Fälligkeit der Gebühr maßgebend
 
 (5) Für den Widerruf einer Vollmacht gelten die vorstehenden Vorschriften entsprechend.
 
-
-## § 99 – Miet-, Pacht- und Dienstverträge
+# § 99 – Miet-, Pacht- und Dienstverträge
 
 (1) Der Geschäftswert bei der Beurkundung eines Miet- oder Pachtvertrags ist der Wert aller Leistungen des Mieters oder Pächters während der gesamten Vertragszeit. Bei Miet- oder Pachtverträgen von unbestimmter Vertragsdauer ist der auf die ersten fünf Jahre entfallende Wert der Leistungen maßgebend; ist jedoch die Auflösung des Vertrags erst zu einem späteren Zeitpunkt zulässig, ist dieser maßgebend. In keinem Fall darf der Geschäftswert den auf die ersten 20 Jahre entfallenden Wert übersteigen.
 
 (2) Der Geschäftswert bei der Beurkundung eines Dienstvertrags, eines Geschäftsbesorgungsvertrags oder eines ähnlichen Vertrags ist der Wert aller Bezüge des zur Dienstleistung oder Geschäftsbesorgung Verpflichteten während der gesamten Vertragszeit, höchstens jedoch der Wert der auf die ersten fünf Jahre entfallenden Bezüge.
 
-
-## § 100 – Güterrechtliche Angelegenheiten
+# § 100 – Güterrechtliche Angelegenheiten
 
 (1) Der Geschäftswert
 
@@ -1224,13 +1120,11 @@ ist die Summe der Werte der gegenwärtigen Vermögen beider Ehegatten. Betrifft 
 
 (4) Die Absätze 1 bis 3 gelten entsprechend bei Lebenspartnerschaftsverträgen.
 
-
-## § 101 – Annahme als Kind
+# § 101 – Annahme als Kind
 
 In Angelegenheiten, die die Annahme eines Minderjährigen betreffen, beträgt der Geschäftswert 5 000 Euro.
 
-
-## § 102 – Erbrechtliche Angelegenheiten
+# § 102 – Erbrechtliche Angelegenheiten
 
 (1) Geschäftswert bei der Beurkundung einer Verfügung von Todes wegen ist, wenn über den ganzen Nachlass oder einen Bruchteil verfügt wird, der Wert des Vermögens oder der Wert des entsprechenden Bruchteils des Vermögens. Verbindlichkeiten des Erblassers werden abgezogen, jedoch nur bis zur Hälfte des Werts des Vermögens. Vermächtnisse und Auflagen werden nur bei Verfügung über einen Bruchteil und nur mit dem Anteil ihres Werts hinzugerechnet, der dem Bruchteil entspricht, über den nicht verfügt wird.
 
@@ -1242,15 +1136,13 @@ In Angelegenheiten, die die Annahme eines Minderjährigen betreffen, beträgt de
 
 (5) Die Absätze 1 bis 3 gelten entsprechend für die Beurkundung der Anfechtung oder des Widerrufs einer Verfügung von Todes wegen sowie für den Rücktritt von einem Erbvertrag. Hat eine Erklärung des einen Teils nach Satz 1 im Fall eines gemeinschaftlichen Testaments oder eines Erbvertrags die Unwirksamkeit von Verfügungen des anderen Teils zur Folge, ist der Wert der Verfügungen des anderen Teils dem Wert nach Satz 1 hinzuzurechnen.
 
-
-## § 103 – Erklärungen gegenüber dem Nachlassgericht, Anträge an das Nachlassgericht
+# § 103 – Erklärungen gegenüber dem Nachlassgericht, Anträge an das Nachlassgericht
 
 (1) Werden in einer vermögensrechtlichen Angelegenheit Erklärungen, die gegenüber dem Nachlassgericht abzugeben sind, oder Anträge an das Nachlassgericht beurkundet, ist Geschäftswert der Wert des betroffenen Vermögens oder des betroffenen Bruchteils nach Abzug der Verbindlichkeiten zum Zeitpunkt der Beurkundung.
 
 (2) Bei der Beurkundung von Erklärungen über die Ausschlagung des Anfalls eines Hofes (§ 11 der Höfeordnung) gilt Absatz 1 entsprechend.
 
-
-## § 104 – Rechtswahl
+# § 104 – Rechtswahl
 
 (1) Bei der Beurkundung einer Rechtswahl, die die allgemeinen oder güterrechtlichen Wirkungen der Ehe betrifft, beträgt der Geschäftswert 30 Prozent des Werts, der sich in entsprechender Anwendung des § 100 ergibt.
 
@@ -1258,8 +1150,7 @@ In Angelegenheiten, die die Annahme eines Minderjährigen betreffen, beträgt de
 
 (3) Bei der Beurkundung einer Rechtswahl in sonstigen Fällen beträgt der Geschäftswert 30 Prozent des Geschäftswerts für die Beurkundung des Rechtsgeschäfts, für das die Rechtswahl bestimmt ist.
 
-
-## § 105 – Anmeldung zu bestimmten Registern
+# § 105 – Anmeldung zu bestimmten Registern
 
 (1) Bei den folgenden Anmeldungen zum Handelsregister ist Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei Änderung bereits eingetragener Geldbeträge der Unterschiedsbetrag:
 
@@ -1313,20 +1204,17 @@ Der Geschäftswert beträgt mindestens 30 000 Euro.
 
 Reine sprachliche Abweichungen vom Musterprotokoll oder die spätere Streichung der auf die Gründung verweisenden Formulierungen stehen der Anwendung des Satzes 1 nicht entgegen.
 
-
-## § 106 – Höchstwert für Anmeldungen zu bestimmten Registern
+# § 106 – Höchstwert für Anmeldungen zu bestimmten Registern
 
 Bei der Beurkundung von Anmeldungen zu einem in § 105 genannten Register und zum Vereinsregister beträgt der Geschäftswert höchstens 1 Million Euro. Dies gilt auch dann, wenn mehrere Anmeldungen in einem Beurkundungsverfahren zusammengefasst werden.
 
-
-## § 107 – Gesellschaftsrechtliche Verträge, Satzungen und Pläne
+# § 107 – Gesellschaftsrechtliche Verträge, Satzungen und Pläne
 
 (1) Bei der Beurkundung von Gesellschaftsverträgen und Satzungen sowie von Plänen und Verträgen nach dem Umwandlungsgesetz beträgt der Geschäftswert mindestens 30 000 Euro und höchstens 10 Millionen Euro. Der in Satz 1 bestimmte Mindestwert gilt nicht bei der Beurkundung von Gesellschaftsverträgen und Satzungen in den Fällen des § 105 Absatz 6.
 
 (2) Bei der Beurkundung von Verträgen zwischen verbundenen Unternehmen (§ 15 des Aktiengesetzes) über die Veräußerung oder über die Verpflichtung zur Veräußerung von Gesellschaftsanteilen und -beteiligungen beträgt der Geschäftswert höchstens 10 Millionen Euro. Satz 1 gilt nicht, sofern die betroffene Gesellschaft überwiegend vermögensverwaltend tätig ist, insbesondere als Immobilienverwaltungs-, Objekt-, Holding-, Besitz- oder sonstige Beteiligungsgesellschaft.
 
-
-## § 108 – Beschlüsse von Organen
+# § 108 – Beschlüsse von Organen
 
 (1) Für den Geschäftswert bei der Beurkundung von Beschlüssen von Organen von Kapital-, Personenhandels- und Partnerschaftsgesellschaften sowie von Versicherungsvereinen auf Gegenseitigkeit, juristischen Personen (§ 33 des Handelsgesetzbuchs) oder Genossenschaften, deren Gegenstand keinen bestimmten Geldwert hat, gilt § 105 Absatz 4 und 6 entsprechend. Bei Beschlüssen, deren Gegenstand einen bestimmten Geldwert hat, beträgt der Wert nicht weniger als der sich nach § 105 Absatz 1 ergebende Wert.
 
@@ -1338,8 +1226,7 @@ Bei der Beurkundung von Anmeldungen zu einem in § 105 genannten Register und zu
 
 (5) Der Geschäftswert von Beschlüssen von Gesellschafts-, Stiftungs- und Vereinsorganen sowie von ähnlichen Organen beträgt höchstens 5 Millionen Euro, auch wenn mehrere Beschlüsse mit verschiedenem Gegenstand in einem Beurkundungsverfahren zusammengefasst werden.
 
-
-## § 109 – Derselbe Beurkundungsgegenstand
+# § 109 – Derselbe Beurkundungsgegenstand
 
 (1) Derselbe Beurkundungsgegenstand liegt vor, wenn Rechtsverhältnisse zueinander in einem Abhängigkeitsverhältnis stehen und das eine Rechtsverhältnis unmittelbar dem Zweck des anderen Rechtsverhältnisses dient. Ein solches Abhängigkeitsverhältnis liegt nur vor, wenn das andere Rechtsverhältnis der Erfüllung, Sicherung oder sonstigen Durchführung des einen Rechtsverhältnisses dient. Dies gilt auch bei der Beurkundung von Erklärungen Dritter und von Erklärungen der Beteiligten zugunsten Dritter. Ein Abhängigkeitsverhältnis liegt insbesondere vor zwischen
 
@@ -1387,8 +1274,7 @@ g) Beschlüsse von Organen verschiedener Vereinigungen bei Umwandlungsvorgängen
 
 In diesen Fällen bestimmt sich der Geschäftswert nach dem höchsten in Betracht kommenden Wert.
 
-
-## § 110 – Verschiedene Beurkundungsgegenstände
+# § 110 – Verschiedene Beurkundungsgegenstände
 
 Abweichend von § 109 Absatz 1 sind verschiedene Beurkundungsgegenstände
 
@@ -1404,8 +1290,7 @@ c) ein Verzicht auf Steuerbefreiungen gemäß § 9 Absatz 1 des Umsatzsteuergese
 
 3. Erklärungen gemäß § 109 Absatz 2 Satz 1 Nummer 1 und Vollmachten.
 
-
-## § 111 – Besondere Beurkundungsgegenstände
+# § 111 – Besondere Beurkundungsgegenstände
 
 Als besonderer Beurkundungsgegenstand gelten stets
 
@@ -1417,30 +1302,25 @@ Als besonderer Beurkundungsgegenstand gelten stets
 
 4. eine Rechtswahl nach dem internationalen Privatrecht.
 
-
-## § 112 – Vollzug des Geschäfts
+# § 112 – Vollzug des Geschäfts
 
 Der Geschäftswert für den Vollzug ist der Geschäftswert des zugrunde liegenden Beurkundungsverfahrens. Liegt der zu vollziehenden Urkunde kein Beurkundungsverfahren zugrunde, ist der Geschäftswert derjenige Wert, der maßgeblich wäre, wenn diese Urkunde Gegenstand eines Beurkundungsverfahrens wäre.
 
-
-## § 113 – Betreuungstätigkeiten
+# § 113 – Betreuungstätigkeiten
 
 (1) Der Geschäftswert für die Betreuungsgebühr ist wie bei der Beurkundung zu bestimmen.
 
 (2) Der Geschäftswert für die Treuhandgebühr ist der Wert des Sicherungsinteresses.
 
-
-## § 114 – Rückgabe eines Erbvertrags aus der notariellen Verwahrung
+# § 114 – Rückgabe eines Erbvertrags aus der notariellen Verwahrung
 
 Der Geschäftswert für die Rückgabe eines Erbvertrags aus der notariellen Verwahrung bestimmt sich nach § 102 Absatz 1 bis 3.
 
-
-## § 115 – Vermögensverzeichnis, Siegelung
+# § 115 – Vermögensverzeichnis, Siegelung
 
 Der Geschäftswert für die Aufnahme von Vermögensverzeichnissen sowie für Siegelungen und Entsiegelungen ist der Wert der verzeichneten oder versiegelten Gegenstände. Dies gilt auch für die Mitwirkung als Urkundsperson bei der Aufnahme von Vermögensverzeichnissen.
 
-
-## § 116 – Freiwillige Versteigerung von Grundstücken
+# § 116 – Freiwillige Versteigerung von Grundstücken
 
 (1) Bei der freiwilligen Versteigerung von Grundstücken oder grundstücksgleichen Rechten ist der Geschäftswert nach dem Wert der zu versteigernden Grundstücke oder grundstücksgleichen Rechte zu bemessen für
 
@@ -1452,60 +1332,49 @@ Der Geschäftswert für die Aufnahme von Vermögensverzeichnissen sowie für Sie
 
 (2) Bei der Versteigerung mehrerer Grundstücke wird die Gebühr für die Beurkundung des Zuschlags für jeden Ersteher nach der Summe seiner Gebote erhoben; ist der zusammengerechnete Wert der ihm zugeschlagenen Grundstücke oder grundstücksgleichen Rechte höher, so ist dieser maßgebend.
 
-
-## § 117 – Versteigerung von beweglichen Sachen und von Rechten
+# § 117 – Versteigerung von beweglichen Sachen und von Rechten
 
 Bei der Versteigerung von beweglichen Sachen und von Rechten bemisst sich der Geschäftswert nach der Summe der Werte der betroffenen Sachen und Rechte.
 
-
-## § 118 – Vorbereitung der Zwangsvollstreckung
+# § 118 – Vorbereitung der Zwangsvollstreckung
 
 Im Verfahren über die Vollstreckbarerklärung eines Schiedsspruchs mit vereinbartem Wortlaut oder über die Erteilung einer vollstreckbaren Ausfertigung bemisst sich der Geschäftswert nach den Ansprüchen, die Gegenstand der Vollstreckbarerklärung oder der vollstreckbaren Ausfertigung sein sollen.
 
-
-## § 118a – Teilungssachen
+# § 118a – Teilungssachen
 
 Geschäftswert in Teilungssachen nach § 342 Absatz 2 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist der Wert des den Gegenstand der Auseinandersetzung bildenden Nachlasses oder Gesamtguts oder des von der Auseinandersetzung betroffenen Teils davon. Die Werte mehrerer selbständiger Vermögensmassen, die in demselben Verfahren auseinandergesetzt werden, werden zusammengerechnet. Trifft die Auseinandersetzung des Gesamtguts einer Gütergemeinschaft mit der Auseinandersetzung des Nachlasses eines Ehegatten oder Lebenspartners zusammen, wird der Wert des Gesamtguts und des übrigen Nachlasses zusammengerechnet.
 
-
-## § 119 – Entwurf
+# § 119 – Entwurf
 
 (1) Bei der Fertigung eines Entwurfs bestimmt sich der Geschäftswert nach den für die Beurkundung geltenden Vorschriften.
 
 (2) Der Geschäftswert für die Fertigung eines Serienentwurfs ist die Hälfte des Werts aller zum Zeitpunkt der Entwurfsfertigung beabsichtigten Einzelgeschäfte.
 
-
-## § 120 – Beratung bei einer Haupt- oder Gesellschafterversammlung
+# § 120 – Beratung bei einer Haupt- oder Gesellschafterversammlung
 
 Der Geschäftswert für die Beratung bei der Vorbereitung oder Durchführung einer Hauptversammlung oder einer Gesellschafterversammlung bemisst sich nach der Summe der Geschäftswerte für die Beurkundung der in der Versammlung zu fassenden Beschlüsse. Der Geschäftswert beträgt höchstens 5 Millionen Euro.
 
-
-## § 121 – Beglaubigung von Unterschriften oder Handzeichen
+# § 121 – Beglaubigung von Unterschriften oder Handzeichen
 
 Der Geschäftswert für die Beglaubigung von Unterschriften oder Handzeichen bestimmt sich nach den für die Beurkundung der Erklärung geltenden Vorschriften.
 
-
-## § 122 – Rangbescheinigung
+# § 122 – Rangbescheinigung
 
 Geschäftswert einer Mitteilung über die dem Grundbuchamt bei Einreichung eines Antrags vorliegenden weiteren Anträge einschließlich des sich daraus ergebenden Rangs für das beantragte Recht (Rangbescheinigung) ist der Wert des beantragten Rechts.
 
-
-## § 123 – Gründungsprüfung
+# § 123 – Gründungsprüfung
 
 Geschäftswert einer Gründungsprüfung gemäß § 33 Absatz 3 des Aktiengesetzes ist die Summe aller Einlagen. Der Geschäftswert beträgt höchstens 10 Millionen Euro.
 
-
-## § 124 – Verwahrung
+# § 124 – Verwahrung
 
 Der Geschäftswert bei der Verwahrung von Geldbeträgen bestimmt sich nach der Höhe des jeweils ausgezahlten Betrags. Bei der Entgegennahme von Wertpapieren und Kostbarkeiten zur Verwahrung ist Geschäftswert der Wert der Wertpapiere oder Kostbarkeiten.
 
-
-## § 125 – Verbot der Gebührenvereinbarung
+# § 125 – Verbot der Gebührenvereinbarung
 
 Vereinbarungen über die Höhe der Kosten sind unwirksam, soweit sich aus der folgenden Vorschrift nichts anderes ergibt.
 
-
-## § 126 – Öffentlich-rechtlicher Vertrag
+# § 126 – Öffentlich-rechtlicher Vertrag
 
 (1) Für die Tätigkeit des Notars als Mediator oder Schlichter ist durch öffentlich-rechtlichen Vertrag eine Gegenleistung in Geld zu vereinbaren. Dasselbe gilt für notarielle Amtstätigkeiten, für die in diesem Gesetz keine Gebühr bestimmt ist und die nicht mit anderen gebührenpflichtigen Tätigkeiten zusammenhängen. Die Gegenleistung muss unter Berücksichtigung aller Umstände des Geschäfts, insbesondere des Umfangs und der Schwierigkeit, angemessen sein. Sofern nichts anderes vereinbart ist, werden die Auslagen nach den gesetzlichen Bestimmungen erhoben.
 
@@ -1513,15 +1382,13 @@ Vereinbarungen über die Höhe der Kosten sind unwirksam, soweit sich aus der fo
 
 (3) Die §§ 19, 88 bis 90 gelten entsprechend. Der vollstreckbaren Ausfertigung der Kostenberechnung ist eine beglaubigte Kopie oder ein beglaubigter Ausdruck des öffentlich-rechtlichen Vertrags beizufügen.
 
-
-## § 127 – Antrag auf gerichtliche Entscheidung
+# § 127 – Antrag auf gerichtliche Entscheidung
 
 (1) Gegen die Kostenberechnung (§ 19), einschließlich der Verzinsungspflicht (§ 88), gegen die Zahlungspflicht, die Ausübung des Zurückbehaltungsrechts (§ 11) und die Erteilung der Vollstreckungsklausel kann die Entscheidung des Landgerichts, in dessen Bezirk der Notar den Amtssitz hat, beantragt werden. Antragsberechtigt ist der Kostenschuldner und, wenn der Kostenschuldner dem Notar gegenüber die Kostenberechnung beanstandet, auch der Notar.
 
 (2) Nach Ablauf des Kalenderjahres, das auf das Jahr folgt, in dem die vollstreckbare Ausfertigung der Kostenberechnung zugestellt ist, können neue Anträge nach Absatz 1 nicht mehr gestellt werden. Soweit die Einwendungen gegen den Kostenanspruch auf Gründen beruhen, die nach der Zustellung der vollstreckbaren Ausfertigung entstanden sind, können sie auch nach Ablauf dieser Frist geltend gemacht werden.
 
-
-## § 128 – Verfahren
+# § 128 – Verfahren
 
 (1) Das Gericht soll vor der Entscheidung die Beteiligten, die vorgesetzte Dienstbehörde des Notars und, wenn eine Kasse gemäß § 113 der Bundesnotarordnung errichtet ist, auch diese hören. Betrifft der Antrag die Bestimmung der Gebühr durch den Notar nach § 92 Absatz 1 oder die Kostenberechnung aufgrund eines öffentlich-rechtlichen Vertrags, soll das Gericht ein Gutachten des Vorstands der Notarkammer einholen. Ist eine Kasse nach § 113 der Bundesnotarordnung errichtet, tritt diese an die Stelle der Notarkammer. Das Gutachten ist kostenlos zu erstatten.
 
@@ -1529,15 +1396,13 @@ Vereinbarungen über die Höhe der Kosten sind unwirksam, soweit sich aus der fo
 
 (3) Das Gericht kann die Entscheidung über den Antrag durch Beschluss einem seiner Mitglieder zur Entscheidung als Einzelrichter übertragen, wenn die Sache keine besonderen Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist und keine grundsätzliche Bedeutung hat.
 
-
-## § 129 – Beschwerde und Rechtsbeschwerde
+# § 129 – Beschwerde und Rechtsbeschwerde
 
 (1) Gegen die Entscheidung des Landgerichts findet ohne Rücksicht auf den Wert des Beschwerdegegenstands die Beschwerde statt.
 
 (2) Gegen die Entscheidung des Oberlandesgerichts findet die Rechtsbeschwerde statt.
 
-
-## § 130 – Gemeinsame Vorschriften
+# § 130 – Gemeinsame Vorschriften
 
 (1) Der Antrag auf Entscheidung des Landgerichts, die Beschwerde und die Rechtsbeschwerde haben keine aufschiebende Wirkung. Das Gericht oder das Beschwerdegericht kann auf Antrag oder von Amts wegen die aufschiebende Wirkung ganz oder teilweise anordnen; ist nicht der Einzelrichter zur Entscheidung berufen, entscheidet der Vorsitzende des Gerichts.
 
@@ -1545,18 +1410,15 @@ Vereinbarungen über die Höhe der Kosten sind unwirksam, soweit sich aus der fo
 
 (3) Auf die Verfahren sind im Übrigen die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden. § 10 Absatz 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist auf den Notar nicht anzuwenden.
 
-
-## § 131 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+# § 131 – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 Die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über die Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör sind anzuwenden. § 10 Absatz 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist auf den Notar nicht anzuwenden.
 
-
-## § 132 – Verhältnis zu anderen Gesetzen
+# § 132 – Verhältnis zu anderen Gesetzen
 
 Artikel 1 Absatz 2 und Artikel 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind entsprechend anzuwenden.
 
-
-## § 133 – Bekanntmachung von Neufassungen
+# § 133 – Bekanntmachung von Neufassungen
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
@@ -1566,15 +1428,13 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderunge
 
 3. das Inkrafttreten der Änderungen.
 
-
-## § 134 – Übergangsvorschrift
+# § 134 – Übergangsvorschrift
 
 (1) In gerichtlichen Verfahren, die vor dem Inkrafttreten einer Gesetzesänderung anhängig geworden oder eingeleitet worden sind, werden die Kosten nach bisherigem Recht erhoben. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem Inkrafttreten einer Gesetzesänderung eingelegt worden ist. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die dieses Gesetz verweist. In Verfahren, in denen Jahresgebühren erhoben werden, und in Fällen, in denen die Sätze 1 und 2 keine Anwendung finden, gilt für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind, das bisherige Recht.
 
 (2) Für notarielle Verfahren oder Geschäfte, für die ein Auftrag vor dem Inkrafttreten einer Gesetzesänderung erteilt worden ist, werden die Kosten nach bisherigem Recht erhoben.
 
-
-## § 135 – Sonderregelung für Baden-Württemberg
+# § 135 – Sonderregelung für Baden-Württemberg
 
 (1) Solange und soweit im Land Baden-Württemberg die Gebühren für die Tätigkeit des Notars der Staatskasse zufließen, ist § 2 anstelle von § 91 anzuwenden.
 
@@ -1582,8 +1442,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderunge
 
 (3) Ein Notariatsabwickler steht einem Notariatsverwalter gleich.
 
-
-## § 136 – Übergangsvorschrift zum 2. Kostenrechtsmodernisierungsgesetz
+# § 136 – Übergangsvorschrift zum 2. Kostenrechtsmodernisierungsgesetz
 
 (1) Die Kostenordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 361-1, veröffentlichten bereinigten Fassung, die zuletzt durch Artikel 8 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1800) geändert worden ist, und Verweisungen hierauf sind weiter anzuwenden
 
@@ -1633,8 +1492,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderunge
 
 An die Stelle der Kostenordnung treten dabei die in Satz 1 genannten Vorschriften.
 
-
-## Anlage 1 – (zu § 3 Absatz 2)Kostenverzeichnis
+# Anlage 1 – (zu § 3 Absatz 2)Kostenverzeichnis
 
 (Fundstelle: BGBl. I 2013, 2613 – 2653;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1895,16 +1753,13 @@ nach § 34 GNotKG
 – Tabelle A
 
 Vorbemerkung 1:  
- (1) Im Verfahren der einstweiligen Anordnung bestimmen sich die Gebühren nach Hauptabschnitt 6.  
- (2) Für eine Niederschrift, die nach den Vorschriften des Beurkundungsgesetzes errichtet wird, und für die Abnahme der eidesstattlichen Versicherung nach § 352 Abs. 3 Satz 3 FamFG oder § 36 Abs. 2 Satz 1 IntErbRVG erhebt das Gericht Gebühren nach Teil 2.  
- (3) In einem Verfahren, für das sich die Kosten nach diesem Gesetz bestimmen, ist die Bestellung eines Pflegers für das Verfahren und deren Aufhebung Teil des Verfahrens, für das der Pfleger bestellt worden ist. Bestellung und Aufhebung sind gebührenfrei.
+ (1) Im Verfahren der einstweiligen Anordnung bestimmen sich die Gebühren nach Hauptabschnitt 6.  (2) Für eine Niederschrift, die nach den Vorschriften des Beurkundungsgesetzes errichtet wird, und für die Abnahme der eidesstattlichen Versicherung nach § 352 Abs. 3 Satz 3 FamFG oder § 36 Abs. 2 Satz 1 IntErbRVG erhebt das Gericht Gebühren nach Teil 2.  (3) In einem Verfahren, für das sich die Kosten nach diesem Gesetz bestimmen, ist die Bestellung eines Pflegers für das Verfahren und deren Aufhebung Teil des Verfahrens, für das der Pfleger bestellt worden ist. Bestellung und Aufhebung sind gebührenfrei.
 
 Hauptabschnitt 1  
 Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
 
 Vorbemerkung 1.1:  
- (1) In Betreuungssachen werden von dem Betroffenen Gebühren nach diesem Hauptabschnitt nur erhoben, wenn zum Zeitpunkt der Fälligkeit der jeweiligen Gebühr sein Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet.  
- (2) Im Verfahren vor dem Registergericht über die Bestellung eines Vertreters des Schiffseigentümers nach § 42 Abs. 2 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken werden die gleichen Gebühren wie für eine betreuungsgerichtliche Zuweisungssache nach § 340 Nr. 2 FamFG erhoben.
+ (1) In Betreuungssachen werden von dem Betroffenen Gebühren nach diesem Hauptabschnitt nur erhoben, wenn zum Zeitpunkt der Fälligkeit der jeweiligen Gebühr sein Vermögen nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet.  (2) Im Verfahren vor dem Registergericht über die Bestellung eines Vertreters des Schiffseigentümers nach § 42 Abs. 2 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken werden die gleichen Gebühren wie für eine betreuungsgerichtliche Zuweisungssache nach § 340 Nr. 2 FamFG erhoben.
 
 Abschnitt 1  
 Verfahren vor dem Betreuungsgericht
@@ -1925,9 +1780,7 @@ Verfahren im Allgemeinen  .......... 
 11101
 
 Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerbetreuung, wenn nicht Nummer 11102 anzuwenden ist  ..........   
- (1) Für die Gebühr wird das Vermögen des von der Maßnahme Betroffenen nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist Gegenstand der Betreuung ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.  
- (2) Für das bei der ersten Bestellung eines Betreuers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben. Geht eine vorläufige Betreuung in eine endgültige über, handelt es sich um ein einheitliches Verfahren.  
- (3) Dauert die Betreuung nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
+ (1) Für die Gebühr wird das Vermögen des von der Maßnahme Betroffenen nur berücksichtigt, soweit es nach Abzug der Verbindlichkeiten mehr als 25 000 € beträgt; der in § 90 Abs. 2 Nr. 8 des Zwölften Buches Sozialgesetzbuch genannte Vermögenswert wird nicht mitgerechnet. Ist Gegenstand der Betreuung ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.  (2) Für das bei der ersten Bestellung eines Betreuers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben. Geht eine vorläufige Betreuung in eine endgültige über, handelt es sich um ein einheitliches Verfahren.  (3) Dauert die Betreuung nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
 
   
 10,00 €  
@@ -1940,8 +1793,7 @@ berücksichtigenden Vermögens
 11102
 
 Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerbetreuung, die nicht unmittelbar das Vermögen oder Teile des Vermögens zum Gegenstand hat  ..........   
- (1) Für das bei der ersten Bestellung eines Betreuers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben. Geht eine vorläufige Betreuung in eine endgültige über, handelt es sich um ein einheitliches Verfahren.  
- (2) Dauert die Betreuung nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
+ (1) Für das bei der ersten Bestellung eines Betreuers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben. Geht eine vorläufige Betreuung in eine endgültige über, handelt es sich um ein einheitliches Verfahren.  (2) Dauert die Betreuung nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
 
   
 300,00 €  
@@ -1952,8 +1804,7 @@ eine Gebühr
 11103
 
 Verfahren im Allgemeinen bei einer Betreuung für einzelne Rechtshandlungen  ..........   
- (1) Die Gebühr wird nicht neben einer Gebühr 11101 oder 11102 erhoben.  
- (2) Absatz 3 der Anmerkung zu Nummer 11101 ist nicht anzuwenden.
+ (1) Die Gebühr wird nicht neben einer Gebühr 11101 oder 11102 erhoben.  (2) Absatz 3 der Anmerkung zu Nummer 11101 ist nicht anzuwenden.
 
 0,5  
 – höchstens  
@@ -1963,10 +1814,7 @@ eine Gebühr
 11104
 
 Jahresgebühr für jedes angefangene Kalenderjahr bei einer Dauerpflegschaft  ..........   
- (1) Ist Gegenstand der Pflegschaft ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.  
- (2) Für das bei der ersten Bestellung eines Pflegers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.  
- (3) Erstreckt sich die Pflegschaft auf mehrere Betroffene, wird die Gebühr für jeden Betroffenen gesondert erhoben.  
- (4) Dauert die Pflegschaft nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
+ (1) Ist Gegenstand der Pflegschaft ein Teil des Vermögens, ist höchstens dieser Teil des Vermögens zu berücksichtigen.  (2) Für das bei der ersten Bestellung eines Pflegers laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.  (3) Erstreckt sich die Pflegschaft auf mehrere Betroffene, wird die Gebühr für jeden Betroffenen gesondert erhoben.  (4) Dauert die Pflegschaft nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
 
 10,00 €  
 je angefangene  
@@ -1976,9 +1824,7 @@ je angefangene
 11105
 
 Verfahren im Allgemeinen bei einer Pflegschaft für einzelne Rechtshandlungen  ..........   
- (1) Die Gebühr wird nicht neben einer Gebühr 11104 erhoben.  
- (2) Erstreckt sich die Pflegschaft auf mehrere Betroffene, ist Höchstgebühr die Summe der Gebühren 11104.  
- (3) Absatz 4 der Anmerkung zu Nummer 11104 ist nicht anzuwenden.
+ (1) Die Gebühr wird nicht neben einer Gebühr 11104 erhoben.  (2) Erstreckt sich die Pflegschaft auf mehrere Betroffene, ist Höchstgebühr die Summe der Gebühren 11104.  (3) Absatz 4 der Anmerkung zu Nummer 11104 ist nicht anzuwenden.
 
 0,5  
 – höchstens  
@@ -1997,8 +1843,7 @@ Verfahren im Allgemeinen  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:  
 Die Gebühr 11200 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
 0,5
@@ -2059,8 +1904,7 @@ Hauptabschnitt 2
 Nachlasssachen
 
 Vorbemerkung 1.2:  
- (1) Gebühren nach diesem Hauptabschnitt werden auch für das Erbscheinsverfahren vor dem Landwirtschaftsgericht und für die Entgegennahme der Erklärung eines Hoferben über die Wahl des Hofes erhoben.  
- (2) Die Gebühr für das Verfahren zur Abnahme der eidesstattlichen Versicherung nach § 2006 BGB bestimmt sich nach Hauptabschnitt 5 Abschnitt 2.
+ (1) Gebühren nach diesem Hauptabschnitt werden auch für das Erbscheinsverfahren vor dem Landwirtschaftsgericht und für die Entgegennahme der Erklärung eines Hoferben über die Wahl des Hofes erhoben.  (2) Die Gebühr für das Verfahren zur Abnahme der eidesstattlichen Versicherung nach § 2006 BGB bestimmt sich nach Hauptabschnitt 5 Abschnitt 2.
 
 Abschnitt 1  
 Verwahrung und Eröffnung von Verfügungen von Todes wegen
@@ -2088,9 +1932,7 @@ Vorbemerkung 1.2.2:
 2. eines Zeugnisses über die Fortsetzung der Gütergemeinschaft,  
 3. eines Zeugnisses nach § 36 oder § 37 der Grundbuchordnung oder § 42 der Schiffsregisterordnung, auch in Verbindung mit § 74 der Schiffsregisterordnung oder § 86 des Gesetzes über Rechte an Luftfahrzeugen, und  
 4. eines Testamentsvollstreckerzeugnisses  
-sowie für das Verfahren über deren Einziehung oder Kraftloserklärung.  
- (2)  Dieser Abschnitt gilt ferner für Verfahren über den Antrag auf Ausstellung eines Europäischen Nachlasszeugnisses sowie über dessen Änderung oder Widerruf. Für Verfahren über die Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses werden Gebühren nach Hauptabschnitt 6 Abschnitt 2 erhoben.  
- (3)  Endentscheidungen im Sinne dieses Abschnitts sind auch der Beschluss nach § 352e Abs. 1 FamFG und die Ausstellung eines Europäischen Nachlasszeugnisses.
+sowie für das Verfahren über deren Einziehung oder Kraftloserklärung.  (2)  Dieser Abschnitt gilt ferner für Verfahren über den Antrag auf Ausstellung eines Europäischen Nachlasszeugnisses sowie über dessen Änderung oder Widerruf. Für Verfahren über die Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses werden Gebühren nach Hauptabschnitt 6 Abschnitt 2 erhoben.  (3)  Endentscheidungen im Sinne dieses Abschnitts sind auch der Beschluss nach § 352e Abs. 1 FamFG und die Ausstellung eines Europäischen Nachlasszeugnisses.
 
 Unterabschnitt 1  
 Erster Rechtszug
@@ -2101,8 +1943,7 @@ Vorbemerkung 1.2.2.1:
 12210
 
 Verfahren über den Antrag auf Erteilung eines Erbscheins oder eines Zeugnisses oder auf Ausstellung eines Europäischen Nachlasszeugnisses, wenn nicht Nummer 12213 anzuwenden ist  ..........   
- (1)  Für die Abnahme der eidesstattlichen Versicherung wird die Gebühr gesondert erhoben (Vorbemerkung 1 Abs. 2).  
- (2)  Ist die Gebühr bereits für ein Verfahren über den Antrag auf Erteilung eines Erbscheins entstanden, wird sie mit 75 % auf eine Gebühr für ein Verfahren über den Antrag auf Ausstellung eines Europäischen Nachlasszeugnisses angerechnet, wenn sich der Erbschein und das Europäische Nachlasszeugnis nicht widersprechen. Dies gilt entsprechend, wenn zuerst die Gebühr für ein Verfahren über den Antrag auf Ausstellung eines Europäischen Nachlasszeugnisses entstanden ist.
+ (1)  Für die Abnahme der eidesstattlichen Versicherung wird die Gebühr gesondert erhoben (Vorbemerkung 1 Abs. 2).  (2)  Ist die Gebühr bereits für ein Verfahren über den Antrag auf Erteilung eines Erbscheins entstanden, wird sie mit 75 % auf eine Gebühr für ein Verfahren über den Antrag auf Ausstellung eines Europäischen Nachlasszeugnisses angerechnet, wenn sich der Erbschein und das Europäische Nachlasszeugnis nicht widersprechen. Dies gilt entsprechend, wenn zuerst die Gebühr für ein Verfahren über den Antrag auf Ausstellung eines Europäischen Nachlasszeugnisses entstanden ist.
 
   
 1,0
@@ -2211,8 +2052,7 @@ Die Gebühr 12220 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 12221 erfüllt ist:  
 Die Gebühr 12220 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -2291,9 +2131,7 @@ Verfahren im Allgemeinen  .......... 
 12311
 
 Jahresgebühr für jedes Kalenderjahr bei einer Nachlasspflegschaft, die nicht auf einzelne Rechtshandlungen beschränkt ist, oder bei einer Nachlass- oder Gesamtgutsverwaltung  ..........   
- (1) Ist Gegenstand des Verfahrens ein Teil des Nachlasses, ist höchstens dieser Teil des Nachlasses zu berücksichtigen. Verbindlichkeiten werden nicht abgezogen.  
- (2) Für das bei der ersten Bestellung eines Nachlasspflegers oder bei der Anordnung der Nachlass- oder Gesamtgutsverwaltung laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.  
- (3) Dauert die Nachlasspflegschaft nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
+ (1) Ist Gegenstand des Verfahrens ein Teil des Nachlasses, ist höchstens dieser Teil des Nachlasses zu berücksichtigen. Verbindlichkeiten werden nicht abgezogen.  (2) Für das bei der ersten Bestellung eines Nachlasspflegers oder bei der Anordnung der Nachlass- oder Gesamtgutsverwaltung laufende und das folgende Kalenderjahr wird nur eine Jahresgebühr erhoben.  (3) Dauert die Nachlasspflegschaft nicht länger als drei Monate, beträgt die Gebühr abweichend von dem in der Gebührenspalte bestimmten Mindestbetrag 100,00 €.
 
   
   
@@ -2307,8 +2145,7 @@ werts
 12312
 
 Verfahren im Allgemeinen bei einer Nachlasspflegschaft für einzelne Rechtshandlungen  ..........   
- (1) Die Gebühr wird nicht neben der Gebühr 12311 erhoben.  
- (2) Absatz 3 der Anmerkung zu Nummer 12311 ist nicht anzuwenden.
+ (1) Die Gebühr wird nicht neben der Gebühr 12311 erhoben.  (2) Absatz 3 der Anmerkung zu Nummer 12311 ist nicht anzuwenden.
 
   
 0,5  
@@ -2329,8 +2166,7 @@ Verfahren im Allgemeinen  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:  
 Die Gebühr 12320 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch, wenn die Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, zurückgenommen wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch, wenn die Beschwerde vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, zurückgenommen wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
 0,5
@@ -2395,8 +2231,7 @@ Entgegennahme von Erklärungen und Anzeigen  .......... 
 4. einer Erklärung betreffend die Bestimmung der Person des Testamentsvollstreckers oder die Ernennung von Mitvollstreckern (§ 2198 Abs. 1 Satz 2 und § 2199 Abs. 3 BGB), die Annahme oder Ablehnung des Amtes des Testamentsvollstreckers (§ 2202 BGB) sowie die Kündigung dieses Amtes (§ 2226 BGB),  
 5. einer Anzeige des Verkäufers oder Käufers einer Erbschaft über den Verkauf nach § 2384 BGB sowie einer Anzeige in den Fällen des § 2385 BGB,  
 6. eines Nachlassinventars oder einer Erklärung nach § 2004 BGB oder  
-7. der Erklärung eines Hoferben über die Wahl des Hofes gemäß § 9 Abs. 2 Satz 1 HöfeO.  
- (2) Für die gleichzeitige Entgegennahme mehrerer Forderungsanmeldungen, Erklärungen oder Anzeigen nach derselben Nummer entsteht die Gebühr nur einmal.
+7. der Erklärung eines Hoferben über die Wahl des Hofes gemäß § 9 Abs. 2 Satz 1 HöfeO.  (2) Für die gleichzeitige Entgegennahme mehrerer Forderungsanmeldungen, Erklärungen oder Anzeigen nach derselben Nummer entsteht die Gebühr nur einmal.
 
 15,00 €
 
@@ -2452,8 +2287,7 @@ Verfahren über die Beschwerde gegen die Endentscheidung wegen des Hauptgegensta
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:  
 Die Gebühr 12421 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
 0,5
@@ -2515,8 +2349,7 @@ Beendigung des gesamten Verfahrens
 2. durch Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird, wenn die Entscheidung nicht bereits durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, oder  
 3. wenn die Endentscheidung keine Begründung enthält oder nur deshalb eine Begründung enthält, weil zu erwarten ist, dass der Beschluss im Ausland geltend gemacht wird (§ 38 Abs. 5 Nr. 4 FamFG):  
 Die Gebühr 12520 ermäßigt sich auf  ..........   
- (1) Die Vervollständigung einer ohne Begründung hergestellten Endentscheidung (§ 38 Abs. 6 FamFG) steht der Ermäßigung nicht entgegen.  
- (2) Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
+ (1) Die Vervollständigung einer ohne Begründung hergestellten Endentscheidung (§ 38 Abs. 6 FamFG) steht der Ermäßigung nicht entgegen.  (2) Die Gebühr ermäßigt sich auch, wenn mehrere Ermäßigungstatbestände erfüllt sind.
 
   
   
@@ -2552,8 +2385,7 @@ Die Gebühr 12530 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 12531 erfüllt ist:  
 Die Gebühr 12530 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -2606,8 +2438,7 @@ Vorbemerkung 1.3:
  (1) Dieser Hauptabschnitt gilt für  
 1. Registersachen (§ 374 FamFG), soweit die Gebühren nicht aufgrund einer Rechtsverordnung nach § 58 Abs. 1 GNotKG erhoben werden,  
 2. unternehmensrechtliche Verfahren (§ 375 FamFG) und ähnliche Verfahren sowie  
-3. bestimmte Vereins- und Stiftungssachen.  
- (2) Gebühren werden nicht erhoben  
+3. bestimmte Vereins- und Stiftungssachen.  (2) Gebühren werden nicht erhoben  
 1. für die aus Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen,  
 2. für die Löschung von Eintragungen (§ 395 FamFG) und  
 3. von berufsständischen Organen im Rahmen ihrer Beteiligung nach § 380 FamFG.
@@ -2624,9 +2455,7 @@ Verfahren über die Ersteintragung in das Vereinsregister  .......... 
 13101
 
 Verfahren über eine spätere Eintragung in das Vereinsregister  ..........   
- (1) Bei einer Sitzverlegung in den Bezirk eines anderen Registergerichts wird die Gebühr für eine spätere Eintragung nur durch das Gericht erhoben, in dessen Bezirk der Sitz verlegt worden ist.  
- (2) Die Gebühr wird für mehrere Eintragungen nur einmal erhoben, wenn die Anmeldungen am selben Tag beim Registergericht eingegangen sind und denselben Verein betreffen.  
- (3) Für die Eintragung  
+ (1) Bei einer Sitzverlegung in den Bezirk eines anderen Registergerichts wird die Gebühr für eine spätere Eintragung nur durch das Gericht erhoben, in dessen Bezirk der Sitz verlegt worden ist.  (2) Die Gebühr wird für mehrere Eintragungen nur einmal erhoben, wenn die Anmeldungen am selben Tag beim Registergericht eingegangen sind und denselben Verein betreffen.  (3) Für die Eintragung  
 1. des Erlöschens des Vereins,  
 2. der Beendigung der Liquidation des Vereins,  
 3. der Fortführung als nichtrechtsfähiger Verein,  
@@ -2860,8 +2689,7 @@ Die Gebühr 13610 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 13611 erfüllt ist:  
 Die Gebühr 13610 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -2923,15 +2751,10 @@ Grundbuchsachen, Schiffs- und Schiffsbauregistersachen
 und Angelegenheiten des Registers für Pfandrechte an Luftfahrzeugen
 
 Vorbemerkung 1.4:  
- (1) Die für Grundstücke geltenden Vorschriften sind auf Rechte entsprechend anzuwenden, die den für Grundstücke geltenden Vorschriften unterliegen.  
- (2) Gebühren werden nicht erhoben für  
+ (1) Die für Grundstücke geltenden Vorschriften sind auf Rechte entsprechend anzuwenden, die den für Grundstücke geltenden Vorschriften unterliegen.  (2) Gebühren werden nicht erhoben für  
 1. Eintragungen und Löschungen, die gemäß § 18 Abs. 2 oder § 53 der Grundbuchordnung von Amts wegen erfolgen,  
 2. Eintragungen und Löschungen, die auf Ersuchen oder Anordnung eines Gerichts, insbesondere des Insolvenz- oder Vollstreckungsgerichts erfolgen; ausgenommen sind die Eintragung des Erstehers als Eigentümer, die Eintragung der Sicherungshypothek für die Forderung gegen den Ersteher und Eintragungen aufgrund einer einstweiligen Verfügung (§ 941 ZPO), und  
-3. Eintragungen oder Löschungen, die nach den Vorschriften der Insolvenzordnung statt auf Ersuchen des Insolvenzgerichts auf Antrag des Insolvenzverwalters oder, wenn kein Verwalter bestellt ist, auf Antrag des Schuldners erfolgen.  
- (3) Wird derselbe Eigentümer oder dasselbe Recht bei mehreren Grundstücken, Schiffen, Schiffsbauwerken oder Luftfahrzeugen eingetragen, über die das Grundbuch oder Register bei demselben Amtsgericht geführt wird, wird die Gebühr nur einmal erhoben, wenn die Eintragungsanträge in demselben Dokument enthalten und am selben Tag beim Grundbuchamt oder beim Registergericht eingegangen sind. Als dasselbe Recht gelten auch nicht gesamtrechtsfähige inhaltsgleiche Rechte und Vormerkungen, die bei mehreren Grundstücken für denselben Berechtigten eingetragen werden. Die Sätze 1 und 2 gelten für die Eintragung von Veränderungen, Löschungen und Entlassungen aus der Mithaft entsprechend.  
- (4) Bezieht sich die Eintragung einer Veränderung auf mehrere Rechte, wird die Gebühr für jedes Recht gesondert erhoben, auch wenn es nur der Eintragung eines einheitlichen Vermerks bedarf.  
- (5) Beziehen sich mehrere Veränderungen auf dasselbe Recht, wird die Gebühr nur einmal erhoben, wenn die Eintragungsanträge in demselben Dokument enthalten und am selben Tag beim Grundbuchamt oder beim Registergericht eingegangen sind.  
- (6) Für die Bestellung eines Vertreters des Schiffseigentümers nach § 42 Abs. 2 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken durch das Registergericht werden die Gebühren nach Hauptabschnitt 1 wie für eine betreuungsgerichtliche Zuweisungssache nach § 340 Nr. 2 FamFG erhoben.
+3. Eintragungen oder Löschungen, die nach den Vorschriften der Insolvenzordnung statt auf Ersuchen des Insolvenzgerichts auf Antrag des Insolvenzverwalters oder, wenn kein Verwalter bestellt ist, auf Antrag des Schuldners erfolgen.  (3) Wird derselbe Eigentümer oder dasselbe Recht bei mehreren Grundstücken, Schiffen, Schiffsbauwerken oder Luftfahrzeugen eingetragen, über die das Grundbuch oder Register bei demselben Amtsgericht geführt wird, wird die Gebühr nur einmal erhoben, wenn die Eintragungsanträge in demselben Dokument enthalten und am selben Tag beim Grundbuchamt oder beim Registergericht eingegangen sind. Als dasselbe Recht gelten auch nicht gesamtrechtsfähige inhaltsgleiche Rechte und Vormerkungen, die bei mehreren Grundstücken für denselben Berechtigten eingetragen werden. Die Sätze 1 und 2 gelten für die Eintragung von Veränderungen, Löschungen und Entlassungen aus der Mithaft entsprechend.  (4) Bezieht sich die Eintragung einer Veränderung auf mehrere Rechte, wird die Gebühr für jedes Recht gesondert erhoben, auch wenn es nur der Eintragung eines einheitlichen Vermerks bedarf.  (5) Beziehen sich mehrere Veränderungen auf dasselbe Recht, wird die Gebühr nur einmal erhoben, wenn die Eintragungsanträge in demselben Dokument enthalten und am selben Tag beim Grundbuchamt oder beim Registergericht eingegangen sind.  (6) Für die Bestellung eines Vertreters des Schiffseigentümers nach § 42 Abs. 2 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken durch das Registergericht werden die Gebühren nach Hauptabschnitt 1 wie für eine betreuungsgerichtliche Zuweisungssache nach § 340 Nr. 2 FamFG erhoben.
 
 Abschnitt 1  
 Grundbuchsachen
@@ -2944,8 +2767,7 @@ Eigentum
 Eintragung  
 1. eines Eigentümers oder von Miteigentümern oder  
 2. von Gesellschaftern einer Gesellschaft bürgerlichen Rechts im Wege der Grundbuchberichtigung  ..........   
- (1) Die Gebühr wird nicht für die Eintragung von Erben des eingetragenen Eigentümers oder von Erben des Gesellschafters bürgerlichen Rechts erhoben, wenn der Eintragungsantrag binnen zwei Jahren seit dem Erbfall bei dem Grundbuchamt eingereicht wird. Dies gilt auch, wenn die Erben erst infolge einer Erbauseinandersetzung eingetragen werden.  
- (2) Die Gebühr wird ferner nicht bei der Begründung oder Aufhebung von Wohnungs- oder Teileigentum erhoben, wenn damit keine weitergehende Veränderung der Eigentumsverhältnisse verbunden ist.
+ (1) Die Gebühr wird nicht für die Eintragung von Erben des eingetragenen Eigentümers oder von Erben des Gesellschafters bürgerlichen Rechts erhoben, wenn der Eintragungsantrag binnen zwei Jahren seit dem Erbfall bei dem Grundbuchamt eingereicht wird. Dies gilt auch, wenn die Erben erst infolge einer Erbauseinandersetzung eingetragen werden.  (2) Die Gebühr wird ferner nicht bei der Begründung oder Aufhebung von Wohnungs- oder Teileigentum erhoben, wenn damit keine weitergehende Veränderung der Eigentumsverhältnisse verbunden ist.
 
   
   
@@ -3026,16 +2848,14 @@ Veränderung von Belastungen
 14130
 
 Eintragung der Veränderung einer in der Vorbemerkung 1.4.1.2 genannten Belastung  ..........   
- (1) Als Veränderung eines Rechts gilt auch die Löschungsvormerkung (§ 1179 BGB). Für sie wird keine Gebühr erhoben, wenn ihre Eintragung zugunsten des Berechtigten gleichzeitig mit dem Antrag auf Eintragung des Rechts beantragt wird.  
- (2) Änderungen des Ranges eingetragener Rechte sind nur als Veränderungen des zurücktretenden Rechts zu behandeln, Löschungsvormerkungen zugunsten eines nach- oder gleichstehenden Gläubigers nur als Veränderungen des Rechts, auf dessen Löschung der vorgemerkte Anspruch gerichtet ist.
+ (1) Als Veränderung eines Rechts gilt auch die Löschungsvormerkung (§ 1179 BGB). Für sie wird keine Gebühr erhoben, wenn ihre Eintragung zugunsten des Berechtigten gleichzeitig mit dem Antrag auf Eintragung des Rechts beantragt wird.  (2) Änderungen des Ranges eingetragener Rechte sind nur als Veränderungen des zurücktretenden Rechts zu behandeln, Löschungsvormerkungen zugunsten eines nach- oder gleichstehenden Gläubigers nur als Veränderungen des Rechts, auf dessen Löschung der vorgemerkte Anspruch gerichtet ist.
 
 0,5
 
 14131
 
 Eintragung der Veränderung eines Gesamtrechts, wenn das Grundbuch bei verschiedenen Grundbuchämtern geführt wird:  
-Die Gebühr 14130 erhöht sich ab dem zweiten für jedes weitere beteiligte Grundbuchamt um ..........  
- Diese Vorschrift ist anzuwenden, wenn der Antrag für mehrere Grundbuchämter gleichzeitig bei einem Grundbuchamt gestellt wird oder bei gesonderter Antragstellung, wenn die Anträge innerhalb eines Monats bei den beteiligten Grundbuchämtern eingehen.
+Die Gebühr 14130 erhöht sich ab dem zweiten für jedes weitere beteiligte Grundbuchamt um ..........  Diese Vorschrift ist anzuwenden, wenn der Antrag für mehrere Grundbuchämter gleichzeitig bei einem Grundbuchamt gestellt wird oder bei gesonderter Antragstellung, wenn die Anträge innerhalb eines Monats bei den beteiligten Grundbuchämtern eingehen.
 
 0,1
 
@@ -3186,8 +3006,7 @@ Eintragung einer Veränderung, die sich auf eine Schiffshypothek, ein Arrestpfan
 14231
 
 Eintragung der Veränderung eines Gesamtrechts, wenn das Register bei verschiedenen Gerichten geführt wird:  
-Die Gebühr 14230 erhöht sich ab dem zweiten für jedes weitere beteiligte Gericht um ..........  
- Diese Vorschrift ist anzuwenden, wenn der Antrag für mehrere Registergerichte gleichzeitig bei einem Registergericht gestellt wird oder bei gesonderter Antragstellung, wenn die Anträge innerhalb eines Monats bei den beteiligten Registergerichten eingehen.
+Die Gebühr 14230 erhöht sich ab dem zweiten für jedes weitere beteiligte Gericht um ..........  Diese Vorschrift ist anzuwenden, wenn der Antrag für mehrere Registergerichte gleichzeitig bei einem Registergericht gestellt wird oder bei gesonderter Antragstellung, wenn die Anträge innerhalb eines Monats bei den beteiligten Registergerichten eingehen.
 
 0,1
 
@@ -3443,8 +3262,7 @@ Verfahren vor dem Landwirtschaftsgericht
 und Pachtkreditsachen im Sinne des Pachtkreditgesetzes
 
 Vorbemerkung 1.5.1:  
- (1) Für Erbscheinsverfahren durch das Landwirtschaftsgericht bestimmen sich die Gebühren nach Hauptabschnitt 2 Abschnitt 2, für die Entgegennahme der Erklärung eines Hoferben über die Wahl des Hofs gemäß § 9 Abs. 2 Satz 1 HöfeO nach Nummer 12410. Für die Entgegennahme der Ausschlagung des Anfalls des Hofs nach § 11 HöfeO wird keine Gebühr erhoben.  
- (2) Die nach Landesrecht für die Beanstandung eines Landpachtvertrags nach dem LPachtVG zuständige Landwirtschaftsbehörde und die Genehmigungsbehörde nach dem GrdstVG sowie deren übergeordnete Behörde und die Siedlungsbehörde sind von der Zahlung von Gerichtsgebühren befreit.
+ (1) Für Erbscheinsverfahren durch das Landwirtschaftsgericht bestimmen sich die Gebühren nach Hauptabschnitt 2 Abschnitt 2, für die Entgegennahme der Erklärung eines Hoferben über die Wahl des Hofs gemäß § 9 Abs. 2 Satz 1 HöfeO nach Nummer 12410. Für die Entgegennahme der Ausschlagung des Anfalls des Hofs nach § 11 HöfeO wird keine Gebühr erhoben.  (2) Die nach Landesrecht für die Beanstandung eines Landpachtvertrags nach dem LPachtVG zuständige Landwirtschaftsbehörde und die Genehmigungsbehörde nach dem GrdstVG sowie deren übergeordnete Behörde und die Siedlungsbehörde sind von der Zahlung von Gerichtsgebühren befreit.
 
 Unterabschnitt 1  
 Erster Rechtszug
@@ -3490,12 +3308,10 @@ Die Gebühr 15110 ermäßigt sich auf  .......... 
 15112
 
 Verfahren im Übrigen  ..........   
- (1) Die Gebühr entsteht auch für das Verfahren vor dem Landwirtschaftsgericht über das Ersuchen an das Grundbuchamt um Eintragung oder Löschung des Hofvermerks (§ 3 Abs. 1 HöfeVfO).  
- (2) Die Gebühr wird in Pachtkreditsachen erhoben für  
+ (1) Die Gebühr entsteht auch für das Verfahren vor dem Landwirtschaftsgericht über das Ersuchen an das Grundbuchamt um Eintragung oder Löschung des Hofvermerks (§ 3 Abs. 1 HöfeVfO).  (2) Die Gebühr wird in Pachtkreditsachen erhoben für  
 1. jede Niederlegung eines Verpfändungsvertrages,  
 2. die Entgegennahme der Anzeige über die Abtretung der Forderung und  
-3. die Herausgabe des Verpfändungsvertrages.  
-Neben einer Gebühr für die Niederlegung wird eine Gebühr für die Erteilung einer Bescheinigung über die erfolgte Niederlegung nicht erhoben.
+3. die Herausgabe des Verpfändungsvertrages. Neben einer Gebühr für die Niederlegung wird eine Gebühr für die Erteilung einer Bescheinigung über die erfolgte Niederlegung nicht erhoben.
 
 0,5
 
@@ -3522,8 +3338,7 @@ Die Gebühr 15120 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 15121 erfüllt ist:  
 Die Gebühr 15120 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -3549,8 +3364,7 @@ Die Gebühr 15123 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 15124 erfüllt ist:  
 Die Gebühr 15123 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -3679,8 +3493,7 @@ Verfahren
 6. nach § 7 Abs. 3 ErbbauRG und  
 7. über die Bewilligung der öffentlichen Zustellung einer Willenserklärung und die Bewilligung der Kraftloserklärung von Vollmachten (§ 132 Abs. 2 und § 176 Abs. 2 BGB) sowie  
 Verteilungsverfahren nach den §§ 65, 119 BauGB; nach § 74 Nr. 3, § 75 FlurbG, § 94 BBergG, § 55 Bundesleistungsgesetz, § 8 der Verordnung über das Verfahren zur Festsetzung von Entschädigung und Härteausgleich nach dem Energiesicherungsgesetz und nach § 54 Landbeschaffungsgesetz  ..........   
- (1) Die Bestellung des Verwahrers in den Fällen der §§ 432, 1217, 1281 und 2039 BGB sowie die Festsetzung der von ihm beanspruchten Vergütung und seiner Aufwendungen gelten zusammen als ein Verfahren.  
- (2) Das Verfahren betreffend die Zahlungssperre (§ 480 FamFG) und ein anschließendes Aufgebotsverfahren sowie das Verfahren über die Aufhebung der Zahlungssperre (§ 482 FamFG) gelten zusammen als ein Verfahren.
+ (1) Die Bestellung des Verwahrers in den Fällen der §§ 432, 1217, 1281 und 2039 BGB sowie die Festsetzung der von ihm beanspruchten Vergütung und seiner Aufwendungen gelten zusammen als ein Verfahren.  (2) Das Verfahren betreffend die Zahlungssperre (§ 480 FamFG) und ein anschließendes Aufgebotsverfahren sowie das Verfahren über die Aufhebung der Zahlungssperre (§ 482 FamFG) gelten zusammen als ein Verfahren.
 
   
   
@@ -3759,8 +3572,7 @@ Die Gebühr 15220 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung, wenn nicht Nummer 15221 erfüllt ist:  
 Die Gebühr 15220 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -3776,8 +3588,7 @@ Verfahren über die Beschwerde in den in Nummer 15212 genannten Verfahren  ....
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:  
 Die Gebühr 15223 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
 0,5
@@ -3930,8 +3741,7 @@ Erster Rechtszug
 16110
 
 Verfahren im Allgemeinen, wenn die Verfahrensgebühr für den ersten Rechtszug in der Hauptsache weniger als 2,0 betragen würde  ..........   
-   (1) Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer bestehenden Betreuung oder Pflegschaft fallen, auch wenn nur ein vorläufiger Betreuer bestellt ist.  
- (2) Die Gebühr entsteht ferner nicht, wenn das Verfahren mit der Bestellung eines vorläufigen Betreuers endet. In diesem Fall entstehen Gebühren nach Hauptabschnitt 1 Abschnitt 1 wie nach der Bestellung eines nicht nur vorläufigen Betreuers.
+   (1) Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer bestehenden Betreuung oder Pflegschaft fallen, auch wenn nur ein vorläufiger Betreuer bestellt ist.  (2) Die Gebühr entsteht ferner nicht, wenn das Verfahren mit der Bestellung eines vorläufigen Betreuers endet. In diesem Fall entstehen Gebühren nach Hauptabschnitt 1 Abschnitt 1 wie nach der Bestellung eines nicht nur vorläufigen Betreuers.
 
   
 0,3
@@ -3948,8 +3758,7 @@ Die Gebühr 16110 beträgt  .......... 
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16111 ohne Endentscheidung:  
 Die Gebühr 16111 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -3976,8 +3785,7 @@ Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach N
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16120 ohne Endentscheidung:  
 Die Gebühr 16120 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -3997,8 +3805,7 @@ Die Gebühr 16121 ermäßigt sich auf  .......... 
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16121 ohne Endentscheidung, wenn nicht Nummer 16123 erfüllt ist:  
 Die Gebühr 16121 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -4043,8 +3850,7 @@ Die Gebühr 16210 beträgt  .......... 
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16211 ohne Endentscheidung:  
 Die Gebühr 16211 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -4071,8 +3877,7 @@ Verfahren im Allgemeinen, wenn sich die Gebühr für den ersten Rechtszug nach N
 
 Beendigung des gesamten Verfahrens im Fall der Nummer 16220 ohne Endentscheidung:  
 Die Gebühr 16220 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
   
@@ -4099,8 +3904,7 @@ Die Gebühr 16221 ermäßigt sich auf  .......... 
 
  
 
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
  
 
@@ -4267,8 +4071,7 @@ Verfahren über die Beschwerde in den Fällen des § 129 GNotKG und des § 372 A
 
 Beendigung des gesamten Verfahrens ohne Endentscheidung:  
 Die Gebühr 19110 ermäßigt sich auf  ..........   
- (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  
- (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
+ (1) Wenn die Entscheidung nicht durch Verlesen der Entscheidungsformel bekannt gegeben worden ist, ermäßigt sich die Gebühr auch im Fall der Zurücknahme der Beschwerde oder des Antrags vor Ablauf des Tages, an dem die Endentscheidung der Geschäftsstelle übermittelt wird.  (2) Eine Entscheidung über die Kosten steht der Ermäßigung nicht entgegen, wenn die Entscheidung einer zuvor mitgeteilten Einigung über die Kostentragung oder einer Kostenübernahmeerklärung folgt.
 
   
  66,00 €
@@ -4397,8 +4200,7 @@ Eintragung nach der HRegGebV
 19126
 
 Verfahren über die Rechtsbeschwerde in den Fällen des § 335a Abs. 3 HGB:  
-Die Rechtsbeschwerde wird verworfen oder zurückgewiesen ..........  
- Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.
+Die Rechtsbeschwerde wird verworfen oder zurückgewiesen ..........  Wird die Rechtsbeschwerde nur teilweise verworfen oder zurückgewiesen, kann das Gericht die Gebühr nach billigem Ermessen auf die Hälfte ermäßigen oder bestimmen, dass eine Gebühr nicht zu erheben ist.
 
   
   
@@ -4467,16 +4269,13 @@ nach § 34 GNotKG
 – Tabelle B
 
 Vorbemerkung 2:  
- (1) In den Fällen, in denen es für die Gebührenberechnung maßgeblich ist, dass ein bestimmter Notar eine Tätigkeit vorgenommen hat, steht diesem Notar der Aktenverwahrer gemäß § 51 BNotO, der Notariatsverwalter gemäß § 56 BNotO oder ein anderer Notar, mit dem der Notar am Ort seines Amtssitzes zur gemeinsamen Berufsausübung verbunden ist oder mit dem er dort gemeinsame Geschäftsräume unterhält, gleich.  
- (2) Bundes- oder landesrechtliche Vorschriften, die Gebühren- oder Auslagenbefreiung gewähren, sind nicht auf den Notar anzuwenden. Außer in den Fällen der Kostenerstattung zwischen den Trägern der Sozialhilfe gilt die in § 64 Abs. 2 Satz 3 Nr. 2 SGB X bestimmte Gebührenfreiheit auch für den Notar.  
- (3) Beurkundungen nach § 67 Abs. 1 des Beurkundungsgesetzes und die Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland sind gebührenfrei.
+ (1) In den Fällen, in denen es für die Gebührenberechnung maßgeblich ist, dass ein bestimmter Notar eine Tätigkeit vorgenommen hat, steht diesem Notar der Aktenverwahrer gemäß § 51 BNotO, der Notariatsverwalter gemäß § 56 BNotO oder ein anderer Notar, mit dem der Notar am Ort seines Amtssitzes zur gemeinsamen Berufsausübung verbunden ist oder mit dem er dort gemeinsame Geschäftsräume unterhält, gleich.  (2) Bundes- oder landesrechtliche Vorschriften, die Gebühren- oder Auslagenbefreiung gewähren, sind nicht auf den Notar anzuwenden. Außer in den Fällen der Kostenerstattung zwischen den Trägern der Sozialhilfe gilt die in § 64 Abs. 2 Satz 3 Nr. 2 SGB X bestimmte Gebührenfreiheit auch für den Notar.  (3) Beurkundungen nach § 67 Abs. 1 des Beurkundungsgesetzes und die Bezifferung dynamisierter Unterhaltstitel zur Zwangsvollstreckung im Ausland sind gebührenfrei.
 
 Hauptabschnitt 1  
 Beurkundungsverfahren
 
 Vorbemerkung 2.1:  
- (1) Die Gebühr für das Beurkundungsverfahren entsteht für die Vorbereitung und Durchführung der Beurkundung in Form einer Niederschrift (§§ 8 und 36 des Beurkundungsgesetzes) einschließlich der Beschaffung der Information.  
- (2) Durch die Gebühren dieses Hauptabschnitts werden auch abgegolten  
+ (1) Die Gebühr für das Beurkundungsverfahren entsteht für die Vorbereitung und Durchführung der Beurkundung in Form einer Niederschrift (§§ 8 und 36 des Beurkundungsgesetzes) einschließlich der Beschaffung der Information.  (2) Durch die Gebühren dieses Hauptabschnitts werden auch abgegolten  
 1. die Übermittlung von Anträgen und Erklärungen an ein Gericht oder eine Behörde,  
 2. die Stellung von Anträgen im Namen der Beteiligten bei einem Gericht oder einer Behörde,  
 3. die Erledigung von Beanstandungen einschließlich des Beschwerdeverfahrens und  
@@ -4504,8 +4303,7 @@ Gegenstand des Beurkundungsverfahrens ist
 1. die Annahme eines Antrags auf Abschluss eines Vertrags oder  
 2. ein Verfügungsgeschäft und derselbe Notar hat für eine Beurkundung, die das zugrunde liegende Rechtsgeschäft betrifft, die Gebühr 21100 oder 23603 erhoben:  
 Die Gebühr 21100 beträgt  ..........   
- (1) Als zugrunde liegendes Rechtsgeschäft gilt nicht eine Verfügung von Todes wegen.  
- (2) Die Gebühr für die Beurkundung des Zuschlags in einer freiwilligen Versteigerung von Grundstücken oder grundstücksgleichen Rechten bestimmt sich nach Nummer 23603.
+ (1) Als zugrunde liegendes Rechtsgeschäft gilt nicht eine Verfügung von Todes wegen.  (2) Die Gebühr für die Beurkundung des Zuschlags in einer freiwilligen Versteigerung von Grundstücken oder grundstücksgleichen Rechten bestimmt sich nach Nummer 23603.
 
   
   
@@ -4531,8 +4329,7 @@ Abschnitt 2
 Sonstige Erklärungen, Tatsachen und Vorgänge
 
 Vorbemerkung 2.1.2:  
- (1) Die Gebühr für die Beurkundung eines Antrags zum Abschluss eines Vertrages und für die Beurkundung der Annahme eines solchen Antrags sowie für die Beurkundung eines gemeinschaftlichen Testaments bestimmt sich nach Abschnitt 1, die Gebühr für die Beurkundung des Zuschlags bei der freiwilligen Versteigerung von Grundstücken oder grundstücksgleichen Rechten bestimmt sich nach Nummer 23603.  
- (2) Die Beurkundung der in der Anmerkung zu Nummer 23603 genannten Erklärungen wird durch die Gebühr 23603 mit abgegolten, wenn die Beurkundung in der Niederschrift über die Versteigerung erfolgt.
+ (1) Die Gebühr für die Beurkundung eines Antrags zum Abschluss eines Vertrages und für die Beurkundung der Annahme eines solchen Antrags sowie für die Beurkundung eines gemeinschaftlichen Testaments bestimmt sich nach Abschnitt 1, die Gebühr für die Beurkundung des Zuschlags bei der freiwilligen Versteigerung von Grundstücken oder grundstücksgleichen Rechten bestimmt sich nach Nummer 23603.  (2) Die Beurkundung der in der Anmerkung zu Nummer 23603 genannten Erklärungen wird durch die Gebühr 23603 mit abgegolten, wenn die Beurkundung in der Niederschrift über die Versteigerung erfolgt.
 
 21200
 
@@ -4577,9 +4374,7 @@ Abschnitt 3
 Vorzeitige Beendigung des Beurkundungsverfahrens
 
 Vorbemerkung 2.1.3:  
- (1) Ein Beurkundungsverfahren ist vorzeitig beendet, wenn vor Unterzeichnung der Niederschrift durch den Notar der Beurkundungsauftrag zurückgenommen oder zurückgewiesen wird oder der Notar feststellt, dass nach seiner Überzeugung mit der beauftragten Beurkundung aus Gründen, die nicht in seiner Person liegen, nicht mehr zu rechnen ist. Wird das Verfahren länger als 6 Monate nicht mehr betrieben, ist in der Regel nicht mehr mit der Beurkundung zu rechnen.  
- (2) Führt der Notar nach der vorzeitigen Beendigung des Beurkundungsverfahrens demnächst auf der Grundlage der bereits erbrachten notariellen Tätigkeit ein erneutes Beurkundungsverfahren durch, wird die nach diesem Abschnitt zu erhebende Gebühr auf die Gebühr für das erneute Beurkundungsverfahren angerechnet.  
- (3) Der Fertigung eines Entwurfs im Sinne der nachfolgenden Vorschriften steht die Überprüfung, Änderung oder Ergänzung eines dem Notar vorgelegten Entwurfs gleich.
+ (1) Ein Beurkundungsverfahren ist vorzeitig beendet, wenn vor Unterzeichnung der Niederschrift durch den Notar der Beurkundungsauftrag zurückgenommen oder zurückgewiesen wird oder der Notar feststellt, dass nach seiner Überzeugung mit der beauftragten Beurkundung aus Gründen, die nicht in seiner Person liegen, nicht mehr zu rechnen ist. Wird das Verfahren länger als 6 Monate nicht mehr betrieben, ist in der Regel nicht mehr mit der Beurkundung zu rechnen.  (2) Führt der Notar nach der vorzeitigen Beendigung des Beurkundungsverfahrens demnächst auf der Grundlage der bereits erbrachten notariellen Tätigkeit ein erneutes Beurkundungsverfahren durch, wird die nach diesem Abschnitt zu erhebende Gebühr auf die Gebühr für das erneute Beurkundungsverfahren angerechnet.  (3) Der Fertigung eines Entwurfs im Sinne der nachfolgenden Vorschriften steht die Überprüfung, Änderung oder Ergänzung eines dem Notar vorgelegten Entwurfs gleich.
 
 21300
 
@@ -4642,8 +4437,7 @@ Hauptabschnitt 2
 Vollzug eines Geschäfts und Betreuungstätigkeiten
 
 Vorbemerkung 2.2:  
- (1) Gebühren nach diesem Hauptabschnitt entstehen nur, wenn dem Notar für seine Tätigkeit ein besonderer Auftrag erteilt worden ist; dies gilt nicht für die Gebühren 22114, 22125 und die Gebühr 22200 im Fall der Nummer 6 der Anmerkung.  
- (2) Entsteht für eine Tätigkeit eine Gebühr nach diesem Hauptabschnitt, fällt bei demselben Notar insoweit keine Gebühr für die Fertigung eines Entwurfs und keine Gebühr nach Nummer 25204 an.
+ (1) Gebühren nach diesem Hauptabschnitt entstehen nur, wenn dem Notar für seine Tätigkeit ein besonderer Auftrag erteilt worden ist; dies gilt nicht für die Gebühren 22114, 22125 und die Gebühr 22200 im Fall der Nummer 6 der Anmerkung.  (2) Entsteht für eine Tätigkeit eine Gebühr nach diesem Hauptabschnitt, fällt bei demselben Notar insoweit keine Gebühr für die Fertigung eines Entwurfs und keine Gebühr nach Nummer 25204 an.
 
 Abschnitt 1  
 Vollzug
@@ -4663,10 +4457,7 @@ Vorbemerkung 2.2.1.1:
  8. Anforderung und Prüfung einer Erklärung über die Zustimmung zu einer Schuldübernahme oder einer Entlassung aus der Haftung,  
  9. Anforderung und Prüfung einer Erklärung oder sonstigen Urkunde zur Verfügung über ein Recht an einem Grundstück oder einem grundstücksgleichen Recht sowie zur Löschung oder Inhaltsänderung einer sonstigen Eintragung im Grundbuch oder in einem Register oder Anforderung und Prüfung einer Erklärung, inwieweit ein Grundpfandrecht eine Verbindlichkeit sichert,  
 10. Anforderung und Prüfung einer Verpflichtungserklärung betreffend eine in Nummer 9 genannte Verfügung oder einer Erklärung über die Nichtausübung eines Rechts und  
-11. über die in den Nummern 1 und 2 genannten Tätigkeiten hinausgehende Tätigkeit für die Beteiligten gegenüber der Behörde, dem Gericht oder der Körperschaft oder Anstalt des öffentlichen Rechts.  
-Die Vollzugsgebühr entsteht auch, wenn die Tätigkeit vor der Beurkundung vorgenommen wird.  
- (2) Zustimmungsbeschlüsse stehen Zustimmungserklärungen gleich.  
- (3) Wird eine Vollzugstätigkeit unter Beteiligung eines ausländischen Gerichts oder einer ausländischen Behörde vorgenommen, bestimmt sich die Vollzugsgebühr nach Unterabschnitt 2.
+11. über die in den Nummern 1 und 2 genannten Tätigkeiten hinausgehende Tätigkeit für die Beteiligten gegenüber der Behörde, dem Gericht oder der Körperschaft oder Anstalt des öffentlichen Rechts. Die Vollzugsgebühr entsteht auch, wenn die Tätigkeit vor der Beurkundung vorgenommen wird.  (2) Zustimmungsbeschlüsse stehen Zustimmungserklärungen gleich.  (3) Wird eine Vollzugstätigkeit unter Beteiligung eines ausländischen Gerichts oder einer ausländischen Behörde vorgenommen, bestimmt sich die Vollzugsgebühr nach Unterabschnitt 2.
 
 22110
 
@@ -4748,8 +4539,7 @@ Vollzugsgebühr für die in Vorbemerkung 2.2.1.1 Abs. 1 Satz 2 genannten Tätigk
 22122
 
 Überprüfung, ob die Urkunde bei Gericht eingereicht werden kann  ..........   
- (1) Die Gebühr entsteht nicht neben einer der Gebühren 22120 und 22121.  
- (2) Die Gebühr entsteht nicht für die Prüfung der Eintragungsfähigkeit in den Fällen des § 378 Abs. 3 FamFG und des § 15 Abs. 3 der Grundbuchordnung.
+ (1) Die Gebühr entsteht nicht neben einer der Gebühren 22120 und 22121.  (2) Die Gebühr entsteht nicht für die Prüfung der Eintragungsfähigkeit in den Fällen des § 378 Abs. 3 FamFG und des § 15 Abs. 3 der Grundbuchordnung.
 
 0,5
 
@@ -4768,9 +4558,7 @@ Die Tätigkeit beschränkt sich auf
 
 2. die Prüfung der Eintragungsfähigkeit in den Fällen des § 378 Abs. 3 FamFG und des § 15 Abs. 3 der Grundbuchordnung
 
- (1) Die Gebühr entsteht nur, wenn nicht eine Gebühr nach den Nummern 22120 bis 22123 anfällt.  
- (2) Die Gebühr nach Nummer 2 entsteht nicht neben der Gebühr 25100 oder 25101.  
- (3) Die Gebühr entsteht auch, wenn Tätigkeiten nach Nummer 1 und nach Nummer 2 ausgeübt werden. In diesem Fall wird die Gebühr nur einmal erhoben.
+ (1) Die Gebühr entsteht nur, wenn nicht eine Gebühr nach den Nummern 22120 bis 22123 anfällt.  (2) Die Gebühr nach Nummer 2 entsteht nicht neben der Gebühr 25100 oder 25101.  (3) Die Gebühr entsteht auch, wenn Tätigkeiten nach Nummer 1 und nach Nummer 2 ausgeübt werden. In diesem Fall wird die Gebühr nur einmal erhoben.
 
   
   
@@ -4779,8 +4567,7 @@ Die Tätigkeit beschränkt sich auf
 22125
 
 Erzeugung von strukturierten Daten in Form der Extensible Markup Language (XML) oder einem nach dem Stand der Technik vergleichbaren Format für eine automatisierte Weiterbearbeitung  ..........   
- (1) Die Gebühr entsteht neben anderen Gebühren dieses Unterabschnitts gesondert.  
- (2) Die Gebühr entsteht nicht neben der Gebühr 25101.
+ (1) Die Gebühr entsteht neben anderen Gebühren dieses Unterabschnitts gesondert.  (2) Die Gebühr entsteht nicht neben der Gebühr 25101.
 
   
   
@@ -4855,8 +4642,7 @@ Eid, eidesstattliche Versicherung,
 Vernehmung von Zeugen und Sachverständigen
 
 Vorbemerkung 2.3.3:  
- (1) Die Gebühren entstehen nur, wenn das in diesem Abschnitt genannte Verfahren oder Geschäft nicht Teil eines anderen Verfahrens oder Geschäfts ist.  
- (2) Wird mit der Niederschrift über die Abnahme der eidesstattlichen Versicherung zugleich ein Antrag an das Nachlassgericht beurkundet, wird mit der Gebühr 23300 insoweit auch das Beurkundungsverfahren abgegolten.
+ (1) Die Gebühren entstehen nur, wenn das in diesem Abschnitt genannte Verfahren oder Geschäft nicht Teil eines anderen Verfahrens oder Geschäfts ist.  (2) Wird mit der Niederschrift über die Abnahme der eidesstattlichen Versicherung zugleich ein Antrag an das Nachlassgericht beurkundet, wird mit der Gebühr 23300 insoweit auch das Beurkundungsverfahren abgegolten.
 
 23300
 
@@ -4968,8 +4754,7 @@ Beurkundung des Zuschlags  .......... 
  Die Beurkundung bleibt gebührenfrei, wenn sie in der Niederschrift über die Versteigerung erfolgt und wenn  
 1. der Meistbietende die Rechte aus dem Meistgebot oder der Veräußerer den Anspruch gegen den Ersteher abtritt oder  
 2. der Meistbietende erklärt, für einen Dritten geboten zu haben, oder  
-3. ein Dritter den Erklärungen nach Nummer 2 beitritt.  
-Das Gleiche gilt, wenn nach Maßgabe der Versteigerungsbedingungen für den Anspruch gegen den Ersteher die Bürgschaft übernommen oder eine sonstige Sicherheit bestellt und dies in dem Protokoll über die Versteigerung beurkundet wird.
+3. ein Dritter den Erklärungen nach Nummer 2 beitritt. Das Gleiche gilt, wenn nach Maßgabe der Versteigerungsbedingungen für den Anspruch gegen den Ersteher die Bürgschaft übernommen oder eine sonstige Sicherheit bestellt und dies in dem Protokoll über die Versteigerung beurkundet wird.
 
 1,0
 
@@ -4979,8 +4764,7 @@ Versteigerung von beweglichen Sachen und von Rechten
 23700
 
 Verfahrensgebühr  ..........   
- (1) Die Gebühr entsteht für die Versteigerung von beweglichen Sachen, von Früchten auf dem Halm oder von Holz auf dem Stamm sowie von Forderungen oder sonstigen Rechten.  
- (2) Ein Betrag in Höhe der Kosten kann aus dem Erlös vorweg entnommen werden.
+ (1) Die Gebühr entsteht für die Versteigerung von beweglichen Sachen, von Früchten auf dem Halm oder von Holz auf dem Stamm sowie von Forderungen oder sonstigen Rechten.  (2) Ein Betrag in Höhe der Kosten kann aus dem Erlös vorweg entnommen werden.
 
 3,0
 
@@ -5026,8 +4810,7 @@ Verfahren über die Erteilung einer vollstreckbaren Ausfertigung, wenn der Eintr
 
 23804
 
-Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 797 Abs. 3, § 733 ZPO)  ..........  
-Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.
+Verfahren über den Antrag auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 797 Abs. 3, § 733 ZPO)  .......... Die Gebühr wird für jede weitere vollstreckbare Ausfertigung gesondert erhoben.
 
   
 22,00 €
@@ -5064,8 +4847,7 @@ Abschnitt 9
 Teilungssachen
 
 Vorbemerkung 2.3.9:  
- (1) Dieser Abschnitt gilt für Teilungssachen zur Vermittlung der Auseinandersetzung des Nachlasses und des Gesamtguts einer Gütergemeinschaft nach Beendigung der ehelichen, lebenspartnerschaftlichen oder fortgesetzten Gütergemeinschaft (§ 342 Abs. 2 Nr. 1 FamFG).  
- (2) Neben den Gebühren dieses Abschnitts werden gesonderte Gebühren erhoben für  
+ (1) Dieser Abschnitt gilt für Teilungssachen zur Vermittlung der Auseinandersetzung des Nachlasses und des Gesamtguts einer Gütergemeinschaft nach Beendigung der ehelichen, lebenspartnerschaftlichen oder fortgesetzten Gütergemeinschaft (§ 342 Abs. 2 Nr. 1 FamFG).  (2) Neben den Gebühren dieses Abschnitts werden gesonderte Gebühren erhoben für  
 1. die Aufnahme von Vermögensverzeichnissen und Schätzungen,  
 2. Versteigerungen und  
 3. das Beurkundungsverfahren, jedoch nur, wenn Gegenstand ein Vertrag ist, der mit einem Dritten zum Zweck der Auseinandersetzung geschlossen wird.
@@ -5106,16 +4888,10 @@ Abschnitt 1
 Entwurf
 
 Vorbemerkung 2.4.1:  
- (1) Gebühren nach diesem Abschnitt entstehen, wenn außerhalb eines Beurkundungsverfahrens ein Entwurf für ein bestimmtes Rechtsgeschäft oder eine bestimmte Erklärung im Auftrag eines Beteiligten gefertigt worden ist. Sie entstehen jedoch nicht in den Fällen der Vorbemerkung 2.2 Abs. 2.  
- (2) Beglaubigt der Notar, der den Entwurf gefertigt hat, demnächst unter dem Entwurf eine oder mehrere Unterschriften oder Handzeichen, entstehen für die erstmaligen Beglaubigungen, die an ein und demselben Tag erfolgen, keine Gebühren.  
- (3) Gebühren nach diesem Abschnitt entstehen auch, wenn der Notar keinen Entwurf gefertigt, aber einen ihm vorgelegten Entwurf überprüft, geändert oder ergänzt hat. Dies gilt nicht für die Prüfung der Eintragungsfähigkeit in den Fällen des § 378 Abs. 3 FamFG und des § 15 Abs. 3 der Grundbuchordnung.  
- (4) Durch die Gebühren dieses Abschnitts werden auch abgegolten  
+ (1) Gebühren nach diesem Abschnitt entstehen, wenn außerhalb eines Beurkundungsverfahrens ein Entwurf für ein bestimmtes Rechtsgeschäft oder eine bestimmte Erklärung im Auftrag eines Beteiligten gefertigt worden ist. Sie entstehen jedoch nicht in den Fällen der Vorbemerkung 2.2 Abs. 2.  (2) Beglaubigt der Notar, der den Entwurf gefertigt hat, demnächst unter dem Entwurf eine oder mehrere Unterschriften oder Handzeichen, entstehen für die erstmaligen Beglaubigungen, die an ein und demselben Tag erfolgen, keine Gebühren.  (3) Gebühren nach diesem Abschnitt entstehen auch, wenn der Notar keinen Entwurf gefertigt, aber einen ihm vorgelegten Entwurf überprüft, geändert oder ergänzt hat. Dies gilt nicht für die Prüfung der Eintragungsfähigkeit in den Fällen des § 378 Abs. 3 FamFG und des § 15 Abs. 3 der Grundbuchordnung.  (4) Durch die Gebühren dieses Abschnitts werden auch abgegolten  
 1. die Übermittlung von Anträgen und Erklärungen an ein Gericht oder eine Behörde,  
 2. die Stellung von Anträgen im Namen der Beteiligten bei einem Gericht oder einer Behörde und  
-3. die Erledigung von Beanstandungen einschließlich des Beschwerdeverfahrens.  
- (5) Gebühren nach diesem Abschnitt entstehen auch für die Fertigung eines Entwurfs zur beabsichtigten Verwendung für mehrere gleichartige Rechtsgeschäfte oder Erklärungen (Serienentwurf). Absatz 3 gilt entsprechend.  
- (6) Wenn der Notar demnächst nach Fertigung eines Entwurfs auf der Grundlage dieses Entwurfs ein Beurkundungsverfahren durchführt, wird eine Gebühr nach diesem Abschnitt auf die Gebühr für das Beurkundungsverfahren angerechnet.  
- (7) Der Notar ist berechtigt, dem Auftraggeber die Gebühren für die Fertigung eines Serienentwurfs bis zu einem Jahr nach Fälligkeit zu stunden.
+3. die Erledigung von Beanstandungen einschließlich des Beschwerdeverfahrens.  (5) Gebühren nach diesem Abschnitt entstehen auch für die Fertigung eines Entwurfs zur beabsichtigten Verwendung für mehrere gleichartige Rechtsgeschäfte oder Erklärungen (Serienentwurf). Absatz 3 gilt entsprechend.  (6) Wenn der Notar demnächst nach Fertigung eines Entwurfs auf der Grundlage dieses Entwurfs ein Beurkundungsverfahren durchführt, wird eine Gebühr nach diesem Abschnitt auf die Gebühr für das Beurkundungsverfahren angerechnet.  (7) Der Notar ist berechtigt, dem Auftraggeber die Gebühren für die Fertigung eines Serienentwurfs bis zu einem Jahr nach Fälligkeit zu stunden.
 
 24100
 
@@ -5159,8 +4935,7 @@ Beratung
 24200
 
 Beratungsgebühr  ..........   
- (1) Die Gebühr entsteht für eine Beratung, soweit der Beratungsgegenstand nicht Gegenstand eines anderen gebührenpflichtigen Verfahrens oder Geschäfts ist.  
- (2) Soweit derselbe Gegenstand demnächst Gegenstand eines anderen gebührenpflichtigen Verfahrens oder Geschäfts ist, ist die Beratungsgebühr auf die Gebühr für das andere Verfahren oder Geschäft anzurechnen.
+ (1) Die Gebühr entsteht für eine Beratung, soweit der Beratungsgegenstand nicht Gegenstand eines anderen gebührenpflichtigen Verfahrens oder Geschäfts ist.  (2) Soweit derselbe Gegenstand demnächst Gegenstand eines anderen gebührenpflichtigen Verfahrens oder Geschäfts ist, ist die Beratungsgebühr auf die Gebühr für das andere Verfahren oder Geschäft anzurechnen.
 
 0,3 bis 1,0
 
@@ -5199,8 +4974,7 @@ Beglaubigungen und sonstige Zeugnisse (§§ 39, 39a des Beurkundungsgesetzes)
 25100
 
 Beglaubigung einer Unterschrift oder eines Handzeichens  ..........   
- (1) Die Gebühr entsteht nicht in den in Vorbemerkung 2.4.1 Abs. 2 genannten Fällen.  
- (2) Mit der Gebühr ist die Beglaubigung mehrerer Unterschriften oder Handzeichen abgegolten, wenn diese in einem einzigen Vermerk erfolgt.
+ (1) Die Gebühr entsteht nicht in den in Vorbemerkung 2.4.1 Abs. 2 genannten Fällen.  (2) Mit der Gebühr ist die Beglaubigung mehrerer Unterschriften oder Handzeichen abgegolten, wenn diese in einem einzigen Vermerk erfolgt.
 
 0,2  
 – mindestens 20,00 €,  
@@ -5227,11 +5001,9 @@ Die Gebühr 25100 beträgt  .......... 
 25102
 
 Beglaubigung von Dokumenten  ..........   
- (1) Neben der Gebühr wird keine Dokumentenpauschale erhoben.  
- (2) Die Gebühr wird nicht erhoben für die Erteilung  
+ (1) Neben der Gebühr wird keine Dokumentenpauschale erhoben.  (2) Die Gebühr wird nicht erhoben für die Erteilung  
 1. beglaubigter Kopien oder Ausdrucke der vom Notar aufgenommenen oder entworfenen oder in Urschrift in seiner dauernden Verwahrung befindlichen Urkunden und  
-2. beglaubigter Kopien vorgelegter Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters, die der vom Notar gefertigten Niederschrift beizulegen sind (§ 12 des Beurkundungsgesetzes).  
- (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich.
+2. beglaubigter Kopien vorgelegter Vollmachten und Ausweise über die Berechtigung eines gesetzlichen Vertreters, die der vom Notar gefertigten Niederschrift beizulegen sind (§ 12 des Beurkundungsgesetzes).  (3) Einer Kopie im Sinne des Absatzes 2 steht ein in ein elektronisches Dokument übertragenes Schriftstück gleich.
 
 1,00 €  
 für jede  
@@ -5303,8 +5075,7 @@ Gebühr
 25205
 
 Tätigkeit als zu einer Beurkundung zugezogener zweiter Notar  ..........   
- (1) Daneben wird die Gebühr 26002 oder 26003 nicht erhoben.  
- (2) Der zuziehende Notar teilt dem zugezogenen Notar die Höhe der von ihm zu erhebenden Gebühr für das Beurkundungsverfahren mit.
+ (1) Daneben wird die Gebühr 26002 oder 26003 nicht erhoben.  (2) Der zuziehende Notar teilt dem zugezogenen Notar die Höhe der von ihm zu erhebenden Gebühr für das Beurkundungsverfahren mit.
 
 in Höhe von 50 %  
 der dem  
@@ -5408,8 +5179,7 @@ Abschnitt 3
 Verwahrung von Geld, Wertpapieren und Kostbarkeiten
 
 Vorbemerkung 2.5.3:  
- (1) Die Gebühren dieses Abschnitts entstehen neben Gebühren für Betreuungstätigkeiten gesondert.  
- (2) § 35 Abs. 2 GNotKG und Nummer 32013 sind nicht anzuwenden.
+ (1) Die Gebühren dieses Abschnitts entstehen neben Gebühren für Betreuungstätigkeiten gesondert.  (2) § 35 Abs. 2 GNotKG und Nummer 32013 sind nicht anzuwenden.
 
 25300
 
@@ -5440,8 +5210,7 @@ Zusatzgebühren
 26000
 
 Tätigkeiten, die auf Verlangen der Beteiligten an Sonntagen und allgemeinen Feiertagen, an Sonnabenden vor 8 und nach 13 Uhr sowie an den übrigen Werktagen außerhalb der Zeit von 8 bis 18 Uhr vorgenommen werden  ..........   
- (1) Treffen mehrere der genannten Voraussetzungen zu, so wird die Gebühr nur einmal erhoben.  
- (2) Die Gebühr fällt nur an, wenn bei den einzelnen Geschäften nichts anderes bestimmt ist.
+ (1) Treffen mehrere der genannten Voraussetzungen zu, so wird die Gebühr nur einmal erhoben.  (2) Die Gebühr fällt nur an, wenn bei den einzelnen Geschäften nichts anderes bestimmt ist.
 
   
   
@@ -5471,9 +5240,7 @@ zu erhebenden Gebühr
 
 Die Tätigkeit wird auf Verlangen eines Beteiligten außerhalb der Geschäftsstelle des Notars vorgenommen:  
 Zusatzgebühr für jede angefangene halbe Stunde der Abwesenheit, wenn nicht die Gebühr 26003 entsteht  ..........   
- (1) Nimmt der Notar mehrere Geschäfte vor, so entsteht die Gebühr nur einmal. Sie ist auf die einzelnen Geschäfte unter Berücksichtigung der für jedes Geschäft aufgewandten Zeit angemessen zu verteilen.  
- (2) Die Zusatzgebühr wird auch dann erhoben, wenn ein Geschäft aus einem in der Person eines Beteiligten liegenden Grund nicht vorgenommen wird.  
- (3) Neben dieser Gebühr wird kein Tages- und Abwesenheitsgeld (Nummer 32008) erhoben.
+ (1) Nimmt der Notar mehrere Geschäfte vor, so entsteht die Gebühr nur einmal. Sie ist auf die einzelnen Geschäfte unter Berücksichtigung der für jedes Geschäft aufgewandten Zeit angemessen zu verteilen.  (2) Die Zusatzgebühr wird auch dann erhoben, wenn ein Geschäft aus einem in der Person eines Beteiligten liegenden Grund nicht vorgenommen wird.  (3) Neben dieser Gebühr wird kein Tages- und Abwesenheitsgeld (Nummer 32008) erhoben.
 
   
   
@@ -5514,8 +5281,7 @@ Hauptabschnitt 1
 Auslagen der Gerichte
 
 Vorbemerkung 3.1:  
- (1) Auslagen, die durch eine für begründet befundene Beschwerde entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren gebührenfrei ist; dies gilt jedoch nicht, soweit das Beschwerdegericht die Kosten dem Gegner des Beschwerdeführers auferlegt hat.  
- (2) In Betreuungssachen werden von dem Betroffenen Auslagen nur unter den in Vorbemerkung 1.1 Abs. 1 genannten Voraussetzungen erhoben. Satz 1 gilt nicht für die Auslagen 31015.
+ (1) Auslagen, die durch eine für begründet befundene Beschwerde entstanden sind, werden nicht erhoben, soweit das Beschwerdeverfahren gebührenfrei ist; dies gilt jedoch nicht, soweit das Beschwerdegericht die Kosten dem Gegner des Beschwerdeführers auferlegt hat.  (2) In Betreuungssachen werden von dem Betroffenen Auslagen nur unter den in Vorbemerkung 1.1 Abs. 1 genannten Voraussetzungen erhoben. Satz 1 gilt nicht für die Auslagen 31015.
 
 31000
 
@@ -5533,15 +5299,11 @@ oder pauschal je Seite in Farbe  .......... 
 3. Überlassung von elektronisch gespeicherten Dateien oder deren Bereitstellung zum Abruf anstelle der in den Nummern 1 und 2 genannten Ausfertigungen, Kopien und Ausdrucke:  
 je Datei  ..........   
 für die in einem Arbeitsgang überlassenen, bereitgestellten oder in einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente insgesamt höchstens  ..........   
- (1) Die Höhe der Dokumentenpauschale nach Nummer 1 ist in gerichtlichen Verfahren in jedem Rechtszug, bei Dauerbetreuungen und -pflegschaften in jedem Kalenderjahr und für jeden Kostenschuldner nach § 26 Abs. 1 GNotKG gesondert zu berechnen. Gesamtschuldner gelten als ein Schuldner.  
- (2) Werden zum Zweck der Überlassung von elektronisch gespeicherten Dateien Dokumente zuvor auf Antrag von der Papierform in die elektronische Form übertragen, beträgt die Dokumentenpauschale nach Nummer 3 nicht weniger, als die Dokumentenpauschale im Fall der Nummer 1 für eine Schwarz-Weiß-Kopie ohne Rücksicht auf die Größe betragen würde.  
- (3) Frei von der Dokumentenpauschale sind für jeden Beteiligten und seinen bevollmächtigten Vertreter jeweils  
+ (1) Die Höhe der Dokumentenpauschale nach Nummer 1 ist in gerichtlichen Verfahren in jedem Rechtszug, bei Dauerbetreuungen und -pflegschaften in jedem Kalenderjahr und für jeden Kostenschuldner nach § 26 Abs. 1 GNotKG gesondert zu berechnen. Gesamtschuldner gelten als ein Schuldner.  (2) Werden zum Zweck der Überlassung von elektronisch gespeicherten Dateien Dokumente zuvor auf Antrag von der Papierform in die elektronische Form übertragen, beträgt die Dokumentenpauschale nach Nummer 3 nicht weniger, als die Dokumentenpauschale im Fall der Nummer 1 für eine Schwarz-Weiß-Kopie ohne Rücksicht auf die Größe betragen würde.  (3) Frei von der Dokumentenpauschale sind für jeden Beteiligten und seinen bevollmächtigten Vertreter jeweils  
 1. bei Beurkundungen von Verträgen zwei Ausfertigungen, Kopien oder Ausdrucke, bei sonstigen Beurkundungen eine Ausfertigung, eine Kopie oder ein Ausdruck,  
 2. eine vollständige Ausfertigung oder Kopie oder ein vollständiger Ausdruck jeder gerichtlichen Entscheidung und jedes vor Gericht abgeschlossenen Vergleichs,  
 3. eine Ausfertigung ohne Begründung und  
-4. eine Kopie oder ein Ausdruck jeder Niederschrift über eine Sitzung.  
- (4) § 191a Abs. 1 Satz 5 GVG bleibt unberührt.  
- (5) Bei der Gewährung der Einsicht in Akten wird eine Dokumentenpauschale nur erhoben, wenn auf besonderen Antrag ein Ausdruck einer elektronischen Akte oder ein Datenträger mit dem Inhalt einer elektronischen Akte übermittelt wird.
+4. eine Kopie oder ein Ausdruck jeder Niederschrift über eine Sitzung.  (4) § 191a Abs. 1 Satz 5 GVG bleibt unberührt.  (5) Bei der Gewährung der Einsicht in Akten wird eine Dokumentenpauschale nur erhoben, wenn auf besonderen Antrag ein Ausdruck einer elektronischen Akte oder ein Datenträger mit dem Inhalt einer elektronischen Akte übermittelt wird.
 
   
   
@@ -5596,8 +5358,7 @@ in voller Höhe
 31005
 
 Nach dem JVEG zu zahlende Beträge  ..........   
- (1) Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. Ist aufgrund des § 1 Abs. 2 Satz 2 JVEG keine Vergütung zu zahlen, ist der Betrag zu erheben, der ohne diese Vorschrift zu zahlen wäre.  
- (2) Nicht erhoben werden Beträge, die an ehrenamtliche Richter (§ 1 Abs. 1 Satz 1 Nr. 2 JVEG), an Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), und an Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) gezahlt werden.
+ (1) Die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind. Ist aufgrund des § 1 Abs. 2 Satz 2 JVEG keine Vergütung zu zahlen, ist der Betrag zu erheben, der ohne diese Vorschrift zu zahlen wäre.  (2) Nicht erhoben werden Beträge, die an ehrenamtliche Richter (§ 1 Abs. 1 Satz 1 Nr. 2 JVEG), an Übersetzer, die zur Erfüllung der Rechte blinder oder sehbehinderter Personen herangezogen werden (§ 191a Abs. 1 GVG), und an Kommunikationshilfen zur Verständigung mit einer hör- oder sprachbehinderten Person (§ 186 GVG) gezahlt werden.
 
 in voller Höhe
 
@@ -5712,8 +5473,7 @@ Hauptabschnitt 2
 Auslagen der Notare
 
 Vorbemerkung 3.2:  
- (1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten entgolten.  
- (2) Eine Geschäftsreise liegt vor, wenn das Reiseziel außerhalb der Gemeinde liegt, in der sich der Amtssitz oder die Wohnung des Notars befindet.
+ (1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten entgolten.  (2) Eine Geschäftsreise liegt vor, wenn das Reiseziel außerhalb der Gemeinde liegt, in der sich der Amtssitz oder die Wohnung des Notars befindet.
 
 32000
 
@@ -5784,8 +5544,7 @@ in voller Höhe
 32004
 
 Entgelte für Post- und Telekommunikationsdienstleistungen  ..........   
- (1) Für die durch die Geltendmachung der Kosten entstehenden Entgelte kann kein Ersatz verlangt werden.  
- (2) Für Zustellungen mit Zustellungsurkunde und für Einschreiben gegen Rückschein ist der in Nummer 31002 bestimmte Betrag anzusetzen.
+ (1) Für die durch die Geltendmachung der Kosten entstehenden Entgelte kann kein Ersatz verlangt werden.  (2) Für Zustellungen mit Zustellungsurkunde und für Einschreiben gegen Rückschein ist der in Nummer 31002 bestimmte Betrag anzusetzen.
 
 in voller Höhe
 
@@ -5877,8 +5636,7 @@ Sonstige Aufwendungen  .......... 
 
 in voller Höhe
 
-
-## Anlage 2 – (zu § 34 Absatz 3)
+# Anlage 2 – (zu § 34 Absatz 3)
 
 (Fundstelle: BGBl. I 2020, 3238)
 

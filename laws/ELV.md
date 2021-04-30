@@ -1,15 +1,11 @@
-# [ELV] Verordnung über die Laufbahnen der Beamtinnen und Beamten beim Bundeseisenbahnvermögen  (Eisenbahn-Laufbahnverordnung - ELV)
-
-Ausfertigungsdatum: 28.10.2004
-
+% Verordnung über die Laufbahnen der Beamtinnen und Beamten beim Bundeseisenbahnvermögen  (Eisenbahn-Laufbahnverordnung - ELV)
+% Ausfertigungsdatum: 28.10.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 4 Nr. 1 und Abs. 5 des Bundeseisenbahnneugliederungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 1994 I S. 2439), von denen Absatz 4 Nr. 1 durch Artikel 19 Abs. 2 Nr. 1 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1666) und Absatz 5 durch Artikel 263 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden sind, verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |      |                                                                                                                  |
 |:-----|:-----------------------------------------------------------------------------------------------------------------|
@@ -37,25 +33,21 @@ Auf Grund des § 7 Abs. 4 Nr. 1 und Abs. 5 des Bundeseisenbahnneugliederungsgese
 | § 22 | Fortbildung                                                                                                      |
 | § 23 | Inkrafttreten, Außerkrafttreten                                                                                  |
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Für die Beamtinnen und Beamten des Bundeseisenbahnvermögens, die nach § 12 Abs. 1 bis 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386, 1994 I S. 2439), das zuletzt durch Artikel 264 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, beurlaubt oder einer Gesellschaft (Deutsche Bahn Aktiengesellschaft oder eine unter § 23 des Deutsche Bahn Gründungsgesetzes fallende Gesellschaft) zugewiesen sind, gelten die Vorschriften der Bundeslaufbahnverordnung in ihrer jeweils geltenden Fassung, soweit sich aus dieser Verordnung nichts anderes ergibt.
 
-
-## § 2 – Zuständigkeiten
+# § 2 – Zuständigkeiten
 
 Soweit die Bundeslaufbahnverordnung dem Bundesministerium des Innern, für Bau und Heimat Zuständigkeiten zuweist, werden sie im Geltungsbereich dieser Verordnung vom Bundesministerium für Verkehr und digitale Infrastruktur wahrgenommen.
 
-
-## § 3 – Leistungsgrundsatz, Förderung der Leistungsfähigkeit
+# § 3 – Leistungsgrundsatz, Förderung der Leistungsfähigkeit
 
 (1) Der Leistungsgrundsatz der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass Eignung, Befähigung und fachliche Leistung an den Anforderungen der Gesellschaft gemessen werden.
 
 (2) Personalführungs- und Personalentwicklungsmaßnahmen zur Förderung der Leistungsfähigkeit und die Ausgestaltung von Personalentwicklungskonzepten obliegen der Gesellschaft.
 
-
-## § 4 – Laufbahnen, Ämter
+# § 4 – Laufbahnen, Ämter
 
 (1) Die Laufbahnen beim Bundeseisenbahnvermögen für die Beamtinnen und Beamten im Geltungsbereich dieser Verordnung sind nach den Inhalten der bei der Gesellschaft auszuübenden Funktionen gestaltet. Die besonderen Vorschriften für die einzelnen Laufbahnen enthalten die §§ 5 bis 12. Die Laufbahnen derselben Laufbahngruppe gelten als gleichwertig.
 
@@ -63,8 +55,7 @@ Soweit die Bundeslaufbahnverordnung dem Bundesministerium des Innern, für Bau u
 
 (3) Die Ämter einer Laufbahn sind regelmäßig zu durchlaufen.
 
-
-## § 5 – Laufbahn des höheren allgemeinen Verwaltungsdienstes und Laufbahn des höheren bautechnischen Verwaltungsdienstes
+# § 5 – Laufbahn des höheren allgemeinen Verwaltungsdienstes und Laufbahn des höheren bautechnischen Verwaltungsdienstes
 
 (1) Die Laufbahnen gehören zur Laufbahngruppe des höheren Dienstes und umfassen alle Ämter dieser Laufbahnen bis einschließlich Besoldungsgruppe B 3 der Bundesbesoldungsordnung B. Ausgenommen ist die Besoldungsgruppe B 1 der Bundesbesoldungsordnung B.
 
@@ -132,8 +123,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (5) Die Übernahme in eine Laufbahn des höheren Dienstes erfolgt durch einen Laufbahnwechsel nach § 14, durch Aufstieg von Beamtinnen und Beamten der Laufbahn der Bundesbahninspektorinnen und Bundesbahninspektoren in die Laufbahn des höheren allgemeinen Verwaltungsdienstes oder von Beamtinnen und Beamten der Laufbahn der technischen Bundesbahninspektorinnen und technischen Bundesbahninspektoren in die Laufbahn des höheren bautechnischen Verwaltungsdienstes nach den §§ 18 und 19 oder durch Übernahme nach § 20.
 
-
-## § 6 – Laufbahn der Bundesbahninspektorinnen und Bundesbahninspektoren
+# § 6 – Laufbahn der Bundesbahninspektorinnen und Bundesbahninspektoren
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des gehobenen Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -187,8 +177,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (4) Die Übernahme in die Laufbahn der Bundesbahninspektorinnen und Bundesbahninspektoren erfolgt ausschließlich durch einen Laufbahnwechsel nach § 14, durch Aufstieg von Beamtinnen und Beamten der Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre nach den §§ 18 und 19 oder durch Übernahme nach § 20.
 
-
-## § 7 – Laufbahn der technischen Bundesbahninspektorinnen und technischen Bundesbahninspektoren
+# § 7 – Laufbahn der technischen Bundesbahninspektorinnen und technischen Bundesbahninspektoren
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des gehobenen Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -244,8 +233,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (4) Die Übernahme in die Laufbahn der technischen Bundesbahninspektorinnen und technischen Bundesbahninspektoren erfolgt ausschließlich durch einen Laufbahnwechsel nach § 14, durch Aufstieg von Beamtinnen und Beamten der Laufbahnen der technischen Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre, der Lokomotivführerinnen und Lokomotivführer und der Werkmeisterinnen und Werkmeister nach den §§ 18 und 19 oder durch Übernahme nach § 20.
 
-
-## § 8 – Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre
+# § 8 – Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -295,8 +283,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (4) Die Übernahme in die Laufbahn der Bundesbahnsekretärinnen und Bundesbahnsekretäre erfolgt ausschließlich durch einen Laufbahnwechsel nach § 14, durch Aufstieg von Beamtinnen und Beamten der Laufbahn der Betriebsaufseherinnen und Betriebsaufseher nach den §§ 18 und 19 oder durch Übernahme nach § 20.
 
-
-## § 9 – Laufbahn der technischen Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre
+# § 9 – Laufbahn der technischen Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -346,8 +333,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (4) Die Übernahme in die Laufbahn der technischen Bundesbahnsekretärinnen und technischen Bundesbahnsekretäre erfolgt durch einen Laufbahnwechsel nach § 14.
 
-
-## § 10 – Laufbahn der Lokomotivführerinnen und Lokomotivführer
+# § 10 – Laufbahn der Lokomotivführerinnen und Lokomotivführer
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -391,8 +377,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (4) Die Übernahme in die Laufbahn der Lokomotivführerinnen und Lokomotivführer erfolgt durch einen Laufbahnwechsel nach § 14.
 
-
-## § 11 – Laufbahn der Werkmeisterinnen und Werkmeister
+# § 11 – Laufbahn der Werkmeisterinnen und Werkmeister
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des mittleren Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -438,8 +423,7 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (4) Die Übernahme in die Laufbahn der Werkmeisterinnen und Werkmeister erfolgt durch einen Laufbahnwechsel nach § 14.
 
-
-## § 12 – Laufbahn der Betriebsaufseherinnen und Betriebsaufseher
+# § 12 – Laufbahn der Betriebsaufseherinnen und Betriebsaufseher
 
 (1) Die Laufbahn gehört zur Laufbahngruppe des einfachen Dienstes und umfasst alle Ämter dieser Laufbahn.
 
@@ -479,15 +463,13 @@ Bundesbahnbetriebsassistentin/ Bundesbahnbetriebsassistent.
 
 Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übertragen werden, soweit diese im Funktionszusammenhang stehen oder sonst dem einfachen Dienst zugeordnet werden können.
 
-
-## § 13 – Stellenausschreibung
+# § 13 – Stellenausschreibung
 
 (1) Arbeitsplätze, die bei der Gesellschaft besetzt werden sollen, sind grundsätzlich auch für die in § 1 genannten Beamtinnen und Beamten auszuschreiben.
 
 (2) Zur Ausübung der ihr durch Rechtsvorschrift übertragenen Entscheidungen und Maßnahmen regelt die Gesellschaft Art und Umfang der Ausschreibung sowie das Stellenbesetzungsverfahren unter Wahrung der beamtenrechtlichen Grundsätze im Einvernehmen mit der obersten Dienstbehörde. § 93 des Betriebsverfassungsgesetzes bleibt unberührt.
 
-
-## § 14 – Laufbahnwechsel
+# § 14 – Laufbahnwechsel
 
 (1) Beim Wechsel in eine gleichwertige Laufbahn nach § 4 Abs. 1 Satz 3 wird die Befähigung auf Grund der bisherigen Laufbahnbefähigung und Tätigkeit durch Unterweisung erworben. Die Dauer der Unterweisung ist nach dem Grad der Verwandtschaft der Laufbahnen festzulegen. Für die Unterweisung und die Feststellung, ob die Unterweisung abgeschlossen ist, kann die oberste Dienstbehörde im Einvernehmen mit der Gesellschaft Regelungen treffen. Die Entscheidung über die Anerkennung der Befähigung trifft die oberste Dienstbehörde. Sie kann die Befugnisse nach den Sätzen 2 und 3 auf nachgeordnete Behörden übertragen.
 
@@ -495,13 +477,11 @@ Nach entsprechender Verwendungsfortbildung können auch andere Funktionen übert
 
 (3) Die Anerkennung der Befähigung für die übrigen Verwaltungen richtet sich nach § 6 Abs. 2 bis 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist.
 
-
-## § 15 – Probezeit
+# § 15 – Probezeit
 
 Dienstzeiten der in § 1 genannten Beamtinnen und Beamten bei der Gesellschaft gelten als Probezeit, wenn eine den Laufbahnanforderungen gleichwertige Tätigkeit ausgeübt wird. Die Feststellung über die Bewährung in der Probezeit trifft die oberste Dienstbehörde oder die von ihr bestimmte Stelle im Einvernehmen mit der Gesellschaft.
 
-
-## § 16 – Übertragung von höher bewerteten Dienstposten, Erprobung
+# § 16 – Übertragung von höher bewerteten Dienstposten, Erprobung
 
 (1) Die oberste Dienstbehörde legt fest, welcher Arbeitsplatz bei der Gesellschaft als höher bewerteter Dienstposten im Sinne von § 11 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, gilt.
 
@@ -513,15 +493,13 @@ Dienstzeiten der in § 1 genannten Beamtinnen und Beamten bei der Gesellschaft g
 
 (5) Für Beamtinnen und Beamte, die im Rahmen ihrer bisherigen Verwendung oder einer Verwendung auf einem Arbeitsplatz der Gesellschaft eine überdurchschnittliche Qualifikation nachgewiesen haben, kann die oberste Dienstbehörde im Einvernehmen mit der Gesellschaft Ausnahmen vom Erfordernis und von der Dauer der Erprobungszeit auf höher bewerteten Dienstposten zulassen.
 
-
-## § 17 – Beförderung
+# § 17 – Beförderung
 
 (1) Beurlaubung und Zuweisung stehen einer Beförderung im Rahmen einer regelmäßigen Laufbahnentwicklung nicht entgegen.
 
 (2) § 12 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, gilt mit der Maßgabe, dass Zeiten einer Beurlaubung und Zuweisung zu einer Gesellschaft als Dienstzeiten gelten.
 
-
-## § 18 – Aufstieg
+# § 18 – Aufstieg
 
 (1) Der Aufstieg in die nächsthöhere Laufbahn nach § 19 dient der Leistungsmotivation und der optimalen Nutzung beruflicher Erfahrungen; er ist ohne Erfüllung der Eingangsvoraussetzungen möglich.
 
@@ -537,8 +515,7 @@ Dienstzeiten der in § 1 genannten Beamtinnen und Beamten bei der Gesellschaft g
 
 (7) Nach Erwerb der Befähigung für die höhere Laufbahn wird den Beamtinnen und Beamten im Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn verliehen. Das erste Beförderungsamt darf frühestens nach Ablauf einer Dienstzeit von einem Jahr seit der ersten Verleihung eines Amtes der höheren Laufbahngruppe verliehen werden.
 
-
-## § 19 – Praxisaufstieg
+# § 19 – Praxisaufstieg
 
 (1) Zum Praxisaufstieg kann zugelassen werden, wer zu Beginn der Einführung
 
@@ -566,20 +543,17 @@ kann die Einführungszeit um höchstens sechs Monate gekürzt werden.
 
 (4) Den erfolgreichen Abschluss der Einführung stellt ein von der obersten Dienstbehörde im Einvernehmen mit der Gesellschaft zu bestimmender unabhängiger Ausschuss nach einer Vorstellung der Beamtin oder des Beamten fest. Die oberste Dienstbehörde regelt das Feststellungsverfahren nach Anhörung der Gesellschaft. Das Feststellungsverfahren kann einmal wiederholt werden.
 
-
-## § 20 – Andere Bewerberinnen und Bewerber
+# § 20 – Andere Bewerberinnen und Bewerber
 
 Beamtinnen und Beamte können in die nächsthöhere Laufbahn auch übernommen werden, wenn sie auf Grund eines von der obersten Dienstbehörde im Einvernehmen mit der Gesellschaft anerkannten Bildungsnachweises oder auf Grund ihrer Lebens- und Berufserfahrung befähigt sind, die Aufgaben dieser Laufbahn wahrzunehmen. Die dazu erforderlichen ergänzenden Feststellungen trifft ein von der obersten Dienstbehörde im Einvernehmen mit der Gesellschaft zu bestimmender unabhängiger Ausschuss. Das Verfahren zur Feststellung der Befähigung und die Prüfungsanforderungen regelt die oberste Dienstbehörde nach Anhörung der Gesellschaft im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur. Die Regelung orientiert sich an der Verfahrensordnung des Bundespersonalausschusses zu § 19 des Bundesbeamtengesetzes. § 4 Abs. 2 bis 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, bleibt unberührt.
 
-
-## § 21 – Dienstliche Beurteilung
+# § 21 – Dienstliche Beurteilung
 
 (1) Die Gesellschaft beurteilt die Beamtinnen und Beamten.
 
 (2) Die Grundsätze der dienstlichen Beurteilung werden zwischen der Gesellschaft und dem zuständigen Betriebsrat im Einvernehmen mit der obersten Dienstbehörde abgestimmt.
 
-
-## § 22 – Fortbildung
+# § 22 – Fortbildung
 
 (1) Die dienstliche Fortbildung wird durch die Gesellschaft geregelt.
 
@@ -589,7 +563,6 @@ Beamtinnen und Beamte können in die nächsthöhere Laufbahn auch übernommen we
 
 (4) Beamtinnen und Beamte, die durch Fortbildung ihre Fähigkeiten und fachlichen Kenntnisse nachweislich wesentlich gesteigert haben, sind von der Gesellschaft zu fördern. Vor allem ist ihnen nach Möglichkeit Gelegenheit zu geben, ihre Fähigkeiten und Fachkenntnisse in höher bewerteten Dienstgeschäften anzuwenden und hierbei ihre besondere fachliche Eignung nachzuweisen.
 
-
-## § 23 – Inkrafttreten, Außerkrafttreten
+# § 23 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,13 +1,9 @@
-# [BetrSichV] Verordnung über Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln  (Betriebssicherheitsverordnung - BetrSichV)
-
-Ausfertigungsdatum: 03.02.2015
-
+% Verordnung über Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln  (Betriebssicherheitsverordnung - BetrSichV)
+% Ausfertigungsdatum: 03.02.2015
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich und Zielsetzung
+# § 1 – Anwendungsbereich und Zielsetzung
 
 (1) Diese Verordnung gilt für die Verwendung von Arbeitsmitteln. Ziel dieser Verordnung ist es, die Sicherheit und den Schutz der Gesundheit von Beschäftigten bei der Verwendung von Arbeitsmitteln zu gewährleisten. Dies soll insbesondere erreicht werden durch
 
@@ -27,8 +23,7 @@ Diese Verordnung regelt hinsichtlich der in § 18 und in Anhang 2 genannten übe
 
 (5) Das Bundesministerium der Verteidigung kann Ausnahmen von den Vorschriften dieser Verordnung zulassen, wenn zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Verpflichtungen der Bundesrepublik Deutschland dies erfordern und die Sicherheit auf andere Weise gewährleistet ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Arbeitsmittel sind Werkzeuge, Geräte, Maschinen oder Anlagen, die für die Arbeit verwendet werden, sowie überwachungsbedürftige Anlagen.
 
@@ -70,8 +65,7 @@ Diese Verordnung regelt hinsichtlich der in § 18 und in Anhang 2 genannten übe
 
 (15) Andere Personen sind Personen, die nicht Beschäftigte oder Gleichgestellte nach Absatz 4 sind und sich im Gefahrenbereich einer überwachungsbedürftigen Anlage innerhalb oder außerhalb eines Betriebsgeländes befinden.
 
-
-## § 3 – Gefährdungsbeurteilung
+# § 3 – Gefährdungsbeurteilung
 
 (1) Der Arbeitgeber hat vor der Verwendung von Arbeitsmitteln die auftretenden Gefährdungen zu beurteilen (Gefährdungsbeurteilung) und daraus notwendige und geeignete Schutzmaßnahmen abzuleiten. Das Vorhandensein einer CE-Kennzeichnung am Arbeitsmittel entbindet nicht von der Pflicht zur Durchführung einer Gefährdungsbeurteilung. Für Aufzugsanlagen gilt Satz 1 nur, wenn sie von einem Arbeitgeber im Sinne des § 2 Absatz 3 Satz 1 verwendet werden.
 
@@ -127,8 +121,7 @@ Die Dokumentation kann auch in elektronischer Form vorgenommen werden.
 
 (9) Sofern der Arbeitgeber von § 7 Absatz 1 Gebrauch macht und die Gefährdungsbeurteilung ergibt, dass die Voraussetzungen nach § 7 Absatz 1 vorliegen, ist eine Dokumentation dieser Voraussetzungen ausreichend.
 
-
-## § 4 – Grundpflichten des Arbeitgebers
+# § 4 – Grundpflichten des Arbeitgebers
 
 (1) Arbeitsmittel dürfen erst verwendet werden, nachdem der Arbeitgeber
 
@@ -148,8 +141,7 @@ Die Dokumentation kann auch in elektronischer Form vorgenommen werden.
 
 (6) Der Arbeitgeber hat die Belange des Arbeitsschutzes in Bezug auf die Verwendung von Arbeitsmitteln angemessen in seine betriebliche Organisation einzubinden und hierfür die erforderlichen personellen, finanziellen und organisatorischen Voraussetzungen zu schaffen. Insbesondere hat er dafür zu sorgen, dass bei der Gestaltung der Arbeitsorganisation, des Arbeitsverfahrens und des Arbeitsplatzes sowie bei der Auswahl und beim Zur-Verfügung-Stellen der Arbeitsmittel alle mit der Sicherheit und Gesundheit der Beschäftigten zusammenhängenden Faktoren, einschließlich der psychischen, ausreichend berücksichtigt werden.
 
-
-## § 5 – Anforderungen an die zur Verfügung gestellten Arbeitsmittel
+# § 5 – Anforderungen an die zur Verfügung gestellten Arbeitsmittel
 
 (1) Der Arbeitgeber darf nur solche Arbeitsmittel zur Verfügung stellen und verwenden lassen, die unter Berücksichtigung der vorgesehenen Einsatzbedingungen bei der Verwendung sicher sind. Die Arbeitsmittel müssen
 
@@ -167,8 +159,7 @@ sodass eine Gefährdung durch ihre Verwendung so gering wie möglich gehalten wi
 
 (4) Der Arbeitgeber hat dafür zu sorgen, dass Beschäftigte nur die Arbeitsmittel verwenden, die er ihnen zur Verfügung gestellt hat oder deren Verwendung er ihnen ausdrücklich gestattet hat.
 
-
-## § 6 – Grundlegende Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln
+# § 6 – Grundlegende Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass die Arbeitsmittel sicher verwendet und dabei die Grundsätze der Ergonomie beachtet werden. Dabei ist Anhang 1 zu beachten. Die Verwendung der Arbeitsmittel ist so zu gestalten und zu organisieren, dass Belastungen und Fehlbeanspruchungen, die die Gesundheit und die Sicherheit der Beschäftigten gefährden können, vermieden oder, wenn dies nicht möglich ist, auf ein Mindestmaß reduziert werden. Der Arbeitgeber hat darauf zu achten, dass die Beschäftigten in der Lage sind, die Arbeitsmittel zu verwenden, ohne sich oder andere Personen zu gefährden. Insbesondere sind folgende Grundsätze einer menschengerechten Gestaltung der Arbeit zu berücksichtigen:
 
@@ -192,8 +183,7 @@ sodass eine Gefährdung durch ihre Verwendung so gering wie möglich gehalten wi
 
 Werden Arbeitsmittel im Freien verwendet, hat der Arbeitgeber dafür zu sorgen, dass die sichere Verwendung der Arbeitsmittel ungeachtet der Witterungsverhältnisse stets gewährleistet ist.
 
-
-## § 7 – Vereinfachte Vorgehensweise bei der Verwendung von Arbeitsmitteln
+# § 7 – Vereinfachte Vorgehensweise bei der Verwendung von Arbeitsmitteln
 
 (1) Der Arbeitgeber kann auf weitere Maßnahmen nach den §§ 8 und 9 verzichten, wenn sich aus der Gefährdungsbeurteilung ergibt, dass
 
@@ -207,8 +197,7 @@ Werden Arbeitsmittel im Freien verwendet, hat der Arbeitgeber dafür zu sorgen, 
 
 (2) Absatz 1 gilt nicht für überwachungsbedürftige Anlagen und die in Anhang 3 genannten Arbeitsmittel.
 
-
-## § 8 – Schutzmaßnahmen bei Gefährdungen durch Energien, Ingangsetzen und Stillsetzen
+# § 8 – Schutzmaßnahmen bei Gefährdungen durch Energien, Ingangsetzen und Stillsetzen
 
 (1) Der Arbeitgeber darf nur solche Arbeitsmittel verwenden lassen, die gegen Gefährdungen ausgelegt sind durch
 
@@ -236,8 +225,7 @@ Die Arbeitsmittel müssen ferner so gestaltet sein, dass eine gefährliche elekt
 
 (6) Kraftbetriebene Arbeitsmittel müssen mit einer schnell erreichbaren und auffällig gekennzeichneten Notbefehlseinrichtung zum sicheren Stillsetzen des gesamten Arbeitsmittels ausgerüstet sein, mit der Gefahr bringende Bewegungen oder Prozesse ohne zusätzliche Gefährdungen unverzüglich stillgesetzt werden können. Auf eine Notbefehlseinrichtung kann verzichtet werden, wenn sie die Gefährdung nicht mindern würde; in diesem Fall ist die Sicherheit auf andere Weise zu gewährleisten. Vom jeweiligen Bedienungsort des Arbeitsmittels aus muss feststellbar sein, ob sich Personen oder Hindernisse im Gefahrenbereich befinden, oder dem Ingangsetzen muss ein automatisch ansprechendes Sicherheitssystem vorgeschaltet sein, das das Ingangsetzen verhindert, solange sich Beschäftigte im Gefahrenbereich aufhalten. Ist dies nicht möglich, müssen ausreichende Möglichkeiten zur Verständigung und Warnung vor dem Ingangsetzen vorhanden sein. Soweit erforderlich, muss das Ingangsetzen sicher verhindert werden können, oder die Beschäftigten müssen sich Gefährdungen durch das in Gang gesetzte Arbeitsmittel rechtzeitig entziehen können.
 
-
-## § 9 – Weitere Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln
+# § 9 – Weitere Schutzmaßnahmen bei der Verwendung von Arbeitsmitteln
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass Arbeitsmittel unter Berücksichtigung der zu erwartenden Betriebsbedingungen so verwendet werden, dass Beschäftigte gegen vorhersehbare Gefährdungen ausreichend geschützt sind. Insbesondere müssen
 
@@ -285,8 +273,7 @@ Die Arbeitsmittel müssen ferner so gestaltet sein, dass eine gefährliche elekt
 
 (5) Soweit nach der Gefährdungsbeurteilung erforderlich, müssen an Arbeitsmitteln oder in deren Gefahrenbereich ausreichende, verständliche und gut wahrnehmbare Sicherheitskennzeichnungen und Gefahrenhinweise sowie Einrichtungen zur angemessenen, unmissverständlichen und leicht wahrnehmbaren Warnung im Gefahrenfall vorhanden sein.
 
-
-## § 10 – Instandhaltung und Änderung von Arbeitsmitteln
+# § 10 – Instandhaltung und Änderung von Arbeitsmitteln
 
 (1) Der Arbeitgeber hat Instandhaltungsmaßnahmen zu treffen, damit die Arbeitsmittel während der gesamten Verwendungsdauer den für sie geltenden Sicherheits- und Gesundheitsschutzanforderungen entsprechen und in einem sicheren Zustand erhalten werden. Dabei sind die Angaben des Herstellers zu berücksichtigen. Notwendige Instandhaltungsmaßnahmen nach Satz 1 sind unverzüglich durchzuführen und die dabei erforderlichen Schutzmaßnahmen zu treffen.
 
@@ -322,8 +309,7 @@ Die Arbeitsmittel müssen ferner so gestaltet sein, dass eine gefährliche elekt
 
 (5) Werden Änderungen an Arbeitsmitteln durchgeführt, gelten die Absätze 1 bis 3 entsprechend. Der Arbeitgeber hat sicherzustellen, dass die geänderten Arbeitsmittel die Sicherheits- und Gesundheitsschutzanforderungen nach § 5 Absatz 1 und 2 erfüllen. Bei Änderungen von Arbeitsmitteln hat der Arbeitgeber zu beurteilen, ob es sich um prüfpflichtige Änderungen handelt. Er hat auch zu beurteilen, ob er bei den Änderungen von Arbeitsmitteln Herstellerpflichten zu beachten hat, die sich aus anderen Rechtsvorschriften, insbesondere dem Produktsicherheitsgesetz oder einer Verordnung nach § 8 Absatz 1 des Produktsicherheitsgesetzes ergeben.
 
-
-## § 11 – Besondere Betriebszustände, Betriebsstörungen und Unfälle
+# § 11 – Besondere Betriebszustände, Betriebsstörungen und Unfälle
 
 (1) Der Arbeitgeber hat Maßnahmen zu ergreifen, durch die unzulässige oder instabile Betriebszustände von Arbeitsmitteln verhindert werden. Können instabile Zustände nicht sicher verhindert werden, hat der Arbeitgeber Maßnahmen zu ihrer Beherrschung zu treffen. Die Sätze 1 und 2 gelten insbesondere für An- und Abfahr- sowie Erprobungsvorgänge.
 
@@ -341,8 +327,7 @@ Treten durch besondere Betriebszustände oder Betriebsstörungen Gefährdungen a
 
 (5) Insbesondere bei Rüst- und Einrichtungsarbeiten, der Erprobung und der Prüfung von Arbeitsmitteln sowie bei der Fehlersuche sind Gefahrenbereiche festzulegen. Ist ein Aufenthalt im Gefahrenbereich von Arbeitsmitteln erforderlich, sind auf der Grundlage der Gefährdungsbeurteilung weitere Maßnahmen zu treffen, welche die Sicherheit der Beschäftigten gewährleisten.
 
-
-## § 12 – Unterweisung und besondere Beauftragung von Beschäftigten
+# § 12 – Unterweisung und besondere Beauftragung von Beschäftigten
 
 (1) Bevor Beschäftigte Arbeitsmittel erstmalig verwenden, hat der Arbeitgeber ihnen ausreichende und angemessene Informationen anhand der Gefährdungsbeurteilung in einer für die Beschäftigten verständlichen Form und Sprache zur Verfügung zu stellen über
 
@@ -358,8 +343,7 @@ Der Arbeitgeber hat die Beschäftigten vor Aufnahme der Verwendung von Arbeitsmi
 
 (3) Ist die Verwendung von Arbeitsmitteln mit besonderen Gefährdungen verbunden, hat der Arbeitgeber dafür zu sorgen, dass diese nur von hierzu beauftragten Beschäftigten verwendet werden.
 
-
-## § 13 – Zusammenarbeit verschiedener Arbeitgeber
+# § 13 – Zusammenarbeit verschiedener Arbeitgeber
 
 (1) Beabsichtigt der Arbeitgeber, in seinem Betrieb Arbeiten durch eine betriebsfremde Person (Auftragnehmer) durchführen zu lassen, so darf er dafür nur solche Auftragnehmer heranziehen, die über die für die geplanten Arbeiten erforderliche Fachkunde verfügen. Der Arbeitgeber als Auftraggeber hat die Auftragnehmer, die ihrerseits Arbeitgeber sind, über die von seinen Arbeitsmitteln ausgehenden Gefährdungen und über spezifische Verhaltensregeln zu informieren. Der Auftragnehmer hat den Auftraggeber und andere Arbeitgeber über Gefährdungen durch seine Arbeiten für Beschäftigte des Auftraggebers und anderer Arbeitgeber zu informieren.
 
@@ -367,8 +351,7 @@ Der Arbeitgeber hat die Beschäftigten vor Aufnahme der Verwendung von Arbeitsmi
 
 (3) Besteht bei der Verwendung von Arbeitsmitteln eine erhöhte Gefährdung von Beschäftigten anderer Arbeitgeber, ist für die Abstimmung der jeweils erforderlichen Schutzmaßnahmen durch die beteiligten Arbeitgeber ein Koordinator/eine Koordinatorin schriftlich zu bestellen. Sofern aufgrund anderer Arbeitsschutzvorschriften bereits ein Koordinator/eine Koordinatorin bestellt ist, kann dieser/diese auch die Koordinationsaufgaben nach dieser Verordnung übernehmen. Dem Koordinator/der Koordinatorin sind von den beteiligten Arbeitgebern alle erforderlichen sicherheitsrelevanten Informationen sowie Informationen zu den festgelegten Schutzmaßnahmen zur Verfügung zu stellen. Die Bestellung eines Koordinators/einer Koordinatorin entbindet die Arbeitgeber nicht von ihrer Verantwortung nach dieser Verordnung.
 
-
-## § 14 – Prüfung von Arbeitsmitteln
+# § 14 – Prüfung von Arbeitsmitteln
 
 (1) Der Arbeitgeber hat Arbeitsmittel, deren Sicherheit von den Montagebedingungen abhängt, vor der erstmaligen Verwendung von einer zur Prüfung befähigten Person prüfen zu lassen. Die Prüfung umfasst Folgendes:
 
@@ -404,8 +387,7 @@ Aufzeichnungen können auch in elektronischer Form aufbewahrt werden. Werden Arb
 
 (8) Die Absätze 1 bis 3 gelten nicht für überwachungsbedürftige Anlagen, soweit entsprechende Prüfungen in den §§ 15 und 16 vorgeschrieben sind. Absatz 7 gilt nicht für überwachungsbedürftige Anlagen, soweit entsprechende Aufzeichnungen in § 17 vorgeschrieben sind.
 
-
-## § 15 – Prüfung vor Inbetriebnahme und vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen
+# § 15 – Prüfung vor Inbetriebnahme und vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen
 
 (1) Der Arbeitgeber hat sicherzustellen, dass überwachungsbedürftige Anlagen vor erstmaliger Inbetriebnahme und vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen geprüft werden. Bei der Prüfung ist festzustellen,
 
@@ -419,8 +401,7 @@ Die Prüfung ist nach Maßgabe der in Anhang 2 genannten Vorgaben durchzuführen
 
 (3) Die Prüfungen nach Absatz 1 sind von einer zugelassenen Überwachungsstelle nach Anhang 2 Abschnitt 1 durchzuführen. Sofern dies in Anhang 2 Abschnitt 2, 3 oder 4 vorgesehen ist, können die Prüfungen nach Satz 1 auch von einer zur Prüfung befähigten Person durchgeführt werden. Darüber hinaus können alle Prüfungen nach prüfpflichtigen Änderungen, die nicht die Bauart oder die Betriebsweise einer überwachungsbedürftigen Anlage beeinflussen, von einer zur Prüfung befähigten Person durchgeführt werden. Bei überwachungsbedürftigen Anlagen, die für einen ortsveränderlichen Einsatz vorgesehen sind und nach der ersten Inbetriebnahme an einem neuen Standort aufgestellt werden, können die Prüfungen nach Absatz 1 durch eine zur Prüfung befähigte Person durchgeführt werden. Satz 4 gilt nicht für Dampfkesselanlagen nach § 18 Absatz 1 Satz 1 Nummer 1.
 
-
-## § 16 – Wiederkehrende Prüfung
+# § 16 – Wiederkehrende Prüfung
 
 (1) Der Arbeitgeber hat sicherzustellen, dass überwachungsbedürftige Anlagen nach Maßgabe der in Anhang 2 genannten Vorgaben wiederkehrend auf ihren sicheren Zustand hinsichtlich des Betriebs geprüft werden.
 
@@ -430,8 +411,7 @@ Die Prüfung ist nach Maßgabe der in Anhang 2 genannten Vorgaben durchzuführen
 
 (4) § 15 Absatz 3 gilt entsprechend.
 
-
-## § 17 – Prüfaufzeichnungen und -bescheinigungen
+# § 17 – Prüfaufzeichnungen und -bescheinigungen
 
 (1) Der Arbeitgeber hat dafür zu sorgen, dass das Ergebnis der Prüfung nach den §§ 15 und 16 aufgezeichnet wird. Sofern die Prüfung von einer zugelassenen Überwachungsstelle durchzuführen ist, ist von dieser eine Prüfbescheinigung über das Ergebnis der Prüfung zu fordern. Aufzeichnungen und Prüfbescheinigungen müssen mindestens Auskunft geben über
 
@@ -457,8 +437,7 @@ Aufzeichnungen und Prüfbescheinigungen sind während der gesamten Verwendungsda
 
 (2) Unbeschadet der Aufzeichnungen und Prüfbescheinigungen nach Absatz 1 muss in der Kabine von Aufzugsanlagen eine Kennzeichnung, zum Beispiel in Form einer Prüfplakette, deutlich sichtbar und dauerhaft angebracht sein, aus der sich Monat und Jahr der nächsten wiederkehrenden Prüfung sowie der prüfenden Stelle ergibt.
 
-
-## § 18 – Erlaubnispflicht
+# § 18 – Erlaubnispflicht
 
 (1) Die Errichtung und der Betrieb sowie die Änderungen der Bauart oder Betriebsweise, welche die Sicherheit der Anlage beeinflussen, folgender Anlagen bedürfen der Erlaubnis der zuständigen Behörde:
 
@@ -500,8 +479,7 @@ Den Unterlagen ist ein Prüfbericht einer zugelassenen Überwachungsstelle beizu
 
 (+++ § 18: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 19 – Mitteilungspflichten, behördliche Ausnahmen
+# § 19 – Mitteilungspflichten, behördliche Ausnahmen
 
 (1) Der Arbeitgeber hat bei Arbeitsmitteln nach den Anhängen 2 und 3 der zuständigen Behörde folgende Ereignisse unverzüglich anzuzeigen:
 
@@ -543,15 +521,13 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 (6) Die zuständige Behörde kann die in Anhang 2 Abschnitt 2 bis 4 und Anhang 3 genannten Fristen im Einzelfall verkürzen, soweit es zur Gewährleistung der Sicherheit der Anlagen erforderlich ist. Die zuständige Behörde kann die in Anhang 2 Abschnitt 2 bis 4 und Anhang 3 genannten Fristen im Einzelfall verlängern, soweit die Sicherheit auf andere Weise gewährleistet ist.
 
-
-## § 20 – Sonderbestimmungen für überwachungsbedürftige Anlagen des Bundes
+# § 20 – Sonderbestimmungen für überwachungsbedürftige Anlagen des Bundes
 
 (1) Aufsichtsbehörde für die in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei ist das zuständige Bundesministerium oder die von ihm bestimmte Behörde. Dies gilt auch für alle in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen auf den von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei genutzten Dienstliegenschaften. Für andere der Aufsicht der Bundesverwaltung unterliegende überwachungsbedürftige Anlagen nach Anhang 2 Abschnitt 2 bis 4 bestimmt sich die zuständige Aufsichtsbehörde nach § 38 Absatz 1 des Produktsicherheitsgesetzes.
 
 (2) § 18 findet keine Anwendung auf die in Anhang 2 Abschnitt 2 bis 4 genannten überwachungsbedürftigen Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundeswehr und der Bundespolizei.
 
-
-## § 21 – Ausschuss für Betriebssicherheit
+# § 21 – Ausschuss für Betriebssicherheit
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Betriebssicherheit gebildet. Dieser Ausschuss soll aus fachkundigen Vertretern der Arbeitgeber, der Gewerkschaften, der Länderbehörden, der gesetzlichen Unfallversicherung und der zugelassenen Überwachungsstellen bestehen sowie aus weiteren fachkundigen Personen, insbesondere aus der Wissenschaft. Die Gesamtzahl der Mitglieder soll 21 Personen nicht überschreiten. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im Ausschuss für Betriebssicherheit ist ehrenamtlich.
 
@@ -581,8 +557,7 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 (8) Die Geschäfte des Ausschusses führt die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin.
 
-
-## § 22 – Ordnungswidrigkeiten
+# § 22 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -664,8 +639,7 @@ Für ihre Entscheidung kann die Behörde ein Sachverständigengutachten verlange
 
 5. entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 4.4 Satz 1 nicht dafür sorgt, dass ein Personenumlaufaufzug nur von Beschäftigten verwendet wird,
 
-5a.  
-entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 4.4 Satz 2 einen Personenumlaufaufzug durch eine andere Person verwenden lässt,
+5a. entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 4.4 Satz 2 einen Personenumlaufaufzug durch eine andere Person verwenden lässt,
 
 6. entgegen § 15 Absatz 1 Satz 1 nicht sicherstellt, dass eine überwachungsbedürftige Anlage geprüft wird,
 
@@ -679,15 +653,13 @@ entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 4.4 Satz 2 einen
 
 (3) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe b des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 19 Absatz 1 bei einem Arbeitsmittel nach Anhang 2 Abschnitt 2 Nummer 2 Buchstabe a, Buchstabe b Satz 1 oder Buchstabe c, Abschnitt 3 Nummer 2 oder Abschnitt 4 Nummer 2.1, 2.2 oder 2.3 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-## § 23 – Straftaten
+# § 23 – Straftaten
 
 (1) Wer durch eine in § 22 Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
 (2) Wer eine in § 22 Absatz 2 bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet, ist nach § 40 des Produktsicherheitsgesetzes strafbar.
 
-
-## § 24 – Übergangsvorschriften
+# § 24 – Übergangsvorschriften
 
 (1) Der Weiterbetrieb einer erlaubnisbedürftigen Anlage, die vor dem 1. Juni 2015 befugt errichtet und verwendet wurde, ist zulässig. Eine Erlaubnis, die nach dem bis dahin geltenden Recht erteilt wurde, gilt als Erlaubnis im Sinne dieser Verordnung. § 18 Absatz 4 Satz 3 ist auf Anlagen nach den Sätzen 1 und 2 anwendbar.
 
@@ -709,8 +681,7 @@ entgegen § 6 Absatz 1 Satz 2 in Verbindung mit Anhang 1 Nummer 4.4 Satz 2 einen
 
 2. bis zum 31. Dezember 2023, wenn die letzte Prüfung vor dem 1. Januar 2014 durchgeführt wurde.
 
-
-## Anhang 1 – (zu § 6 Absatz 1 Satz 2)Besondere Vorschriften für bestimmte Arbeitsmittel
+# Anhang 1 – (zu § 6 Absatz 1 Satz 2)Besondere Vorschriften für bestimmte Arbeitsmittel
 
 (Fundstelle: BGBl. I 2015, 63 - 69;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1077,8 +1048,7 @@ Dampfkesseln muss die zum sicheren Betrieb erforderliche Speisewassermenge zugef
 5.4  
 Druckgase dürfen nur in geeignete Behälter abgefüllt werden.
 
-
-## Anhang 2 – (zu den §§ 15 und 16)Prüfvorschriften für überwachungsbedürftige Anlagen
+# Anhang 2 – (zu den §§ 15 und 16)Prüfvorschriften für überwachungsbedürftige Anlagen
 
 (Fundstelle: BGBl. I 2015, 70 - 86;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1492,8 +1462,7 @@ b) statische Druckproben bei Festigkeitsprüfungen durch zerstörungsfreie Verfa
 wenn der Arbeitgeber ein von einer zugelassenen Überwachungsstelle bestätigtes Prüfkonzept vorlegt, mit dem sicherheitstechnisch gleichwertige Aussagen erreicht werden. Auf der Grundlage eines Prüfkonzepts können auch Maßnahmen festgelegt werden, auf deren Grundlage eine Prüfaussage getroffen werden kann, ohne dass dazu die Druckanlage oder Anlagenteile außer Betrieb genommen werden müssen. Ein Prüfergebnis darf nicht von einer Druckanlage auf eine andere Druckanlage übertragen werden. Abweichend von Satz 1 kann die Bestätigung des Prüfkonzeptes durch eine zur Prüfung befähigte Person erfolgen, wenn die betreffenden Anlagenteile nach Nummer 6 oder 7 wiederkehrend von einer zur Prüfung befähigten Person geprüft werden dürfen.
 
 5.8  
-Für Anlagenteile, die nach Nummer 6 Tabelle 2 bis 11 wiederkehrend von einer zugelassenen Überwachungsstelle zu prüfen sind, gelten die in Tabelle 1 festgelegten Höchstfristen.  
-  
+Für Anlagenteile, die nach Nummer 6 Tabelle 2 bis 11 wiederkehrend von einer zugelassenen Überwachungsstelle zu prüfen sind, gelten die in Tabelle 1 festgelegten Höchstfristen.   
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">Tabelle 1<br />
 Höchstfristen für die wiederkehrenden Prüfungen<br />
@@ -1514,8 +1483,7 @@ Für Anlagenteile, die nach Nummer 6 Tabelle 2 bis 9 wiederkehrend von einer zur
 
 6. Prüfzuständigkeiten
 
-Die Prüfungen nach Nummer 4 und 5 sind von einer zugelassenen Überwachungsstelle durchzuführen. Abweichend von Satz 1 können die Prüfungen von zur Prüfung befähigten Personen durchgeführt werden, wenn dies in Tabelle 2 bis 11 oder in Nummer 7 Tabelle 12 vorgesehen ist. Setzt sich eine Druckanlage ausschließlich aus Anlagenteilen zusammen, bei denen die Prüfungen nach Nummer 4 oder nach Nummer 5 von zur Prüfung befähigten Personen durchgeführt werden dürfen, dürfen die entsprechenden Prüfungen nach Nummer 4 oder Nummer 5 für diese Druckanlage ebenfalls von einer zur Prüfung befähigten Person durchgeführt werden. In den Tabellen 2 bis 11 werden folgende Abkürzungen verwendet: ZÜS – zugelassene Überwachungsstelle; bP – zur Prüfung befähigte Person.  
-  
+Die Prüfungen nach Nummer 4 und 5 sind von einer zugelassenen Überwachungsstelle durchzuführen. Abweichend von Satz 1 können die Prüfungen von zur Prüfung befähigten Personen durchgeführt werden, wenn dies in Tabelle 2 bis 11 oder in Nummer 7 Tabelle 12 vorgesehen ist. Setzt sich eine Druckanlage ausschließlich aus Anlagenteilen zusammen, bei denen die Prüfungen nach Nummer 4 oder nach Nummer 5 von zur Prüfung befähigten Personen durchgeführt werden dürfen, dürfen die entsprechenden Prüfungen nach Nummer 4 oder Nummer 5 für diese Druckanlage ebenfalls von einer zur Prüfung befähigten Person durchgeführt werden. In den Tabellen 2 bis 11 werden folgende Abkürzungen verwendet: ZÜS – zugelassene Überwachungsstelle; bP – zur Prüfung befähigte Person.   
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">Tabelle 2<br />
 Prüfzuständigkeiten bei beheizten überhitzungsgefährdeten<br />
@@ -1548,8 +1516,7 @@ nach Nr. 5</th></tr></thead><tbody><tr class="odd"><td style="text-align: center
   
   
 
-Bei Rohrleitungen mit DN &gt; 25 und PS &gt; 0,5 Bar für Gase, Dämpfe oder überhitzte Flüssigkeiten, die nach Anhang I der Verordnung (EG) Nr. 1272/2008 als akut toxisch Kategorie 1 mit den Gefahrenhinweisen H300, H310 oder H330 zu kennzeichnen sind, müssen die Prüfungen vor Inbetriebnahme und die wiederkehrenden Prüfungen von einer zugelassenen Überwachungsstelle durchgeführt werden.  
-  
+Bei Rohrleitungen mit DN &gt; 25 und PS &gt; 0,5 Bar für Gase, Dämpfe oder überhitzte Flüssigkeiten, die nach Anhang I der Verordnung (EG) Nr. 1272/2008 als akut toxisch Kategorie 1 mit den Gefahrenhinweisen H300, H310 oder H330 zu kennzeichnen sind, müssen die Prüfungen vor Inbetriebnahme und die wiederkehrenden Prüfungen von einer zugelassenen Überwachungsstelle durchgeführt werden.   
 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">Tabelle 9<br />
 Prüfzuständigkeiten bei Rohrleitungen nach<br />
@@ -1719,8 +1686,7 @@ Ortsbewegliche Druckgeräte nach Nummer 2.1 Satz 2 Buchstabe b
 
 Druckbehälter mit Einbauten
 
-
-## Anhang 3 – (zu § 14 Absatz 4)Prüfvorschriften für bestimmte Arbeitsmittel
+# Anhang 3 – (zu § 14 Absatz 4)Prüfvorschriften für bestimmte Arbeitsmittel
 
 (Fundstelle: BGBl. I 2015, 87 - 90;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1760,8 +1726,7 @@ Für handbetriebene oder teilkraftbetriebene Krane gelten die in Tabelle 2 festg
 Abweichend von § 14 Absatz 7 Satz 1 sind Aufzeichnungen über die gesamte Verwendungsdauer des Arbeitsmittels aufzubewahren.
 
 3.4  
-Die in den Tabellen 1 und 2 genannten Krane sind nach außergewöhnlichen Ereignissen durch eine zur Prüfung befähigte Person nach § 2 Absatz 6 und nach prüfpflichtigen Änderungen durch einen Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt.  
-
+Die in den Tabellen 1 und 2 genannten Krane sind nach außergewöhnlichen Ereignissen durch eine zur Prüfung befähigte Person nach § 2 Absatz 6 und nach prüfpflichtigen Änderungen durch einen Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt. 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">Tabelle 1<br />
 Prüffristen und Prüfzuständigkeiten für bestimmte Krane</td></tr></tbody></table>
 
@@ -1838,8 +1803,7 @@ Zur Prüfung befähigte Personen im Sinne dieses Abschnitts sind solche nach § 
 4. Prüfungen und Prüfaufzeichnungen
 
 4.1  
-Die in Tabelle 1 genannten Flüssiggasanlagen sind vor ihrer erstmaligen Inbetriebnahme, vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen und nach den in Spalte 2 genannten Höchstfristen wiederkehrend von einer zur Prüfung befähigten Person zu prüfen. § 14 Absatz 3 Satz 2 bleibt unberührt.  
-
+Die in Tabelle 1 genannten Flüssiggasanlagen sind vor ihrer erstmaligen Inbetriebnahme, vor Wiederinbetriebnahme nach prüfpflichtigen Änderungen und nach den in Spalte 2 genannten Höchstfristen wiederkehrend von einer zur Prüfung befähigten Person zu prüfen. § 14 Absatz 3 Satz 2 bleibt unberührt. 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">Tabelle 1<br />
 Prüffristen für die wiederkehrende Prüfung</td></tr></tbody></table>
 
@@ -1891,8 +1855,7 @@ f) ihre fachlichen Kenntnisse auf aktuellem Stand halten.
 Für die unter Nummer 1 genannten Arbeitsmittel gelten die in der nachfolgenden Tabelle festgelegten Prüffristen und Prüfzuständigkeiten.
 
 3.2  
-Die in Tabelle 1 genannten maschinentechnischen Arbeitsmittel der Veranstaltungstechnik sind nach außergewöhnlichen Ereignissen und nach prüfpflichtigen Änderungen von einem Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 und 2 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt.  
-
+Die in Tabelle 1 genannten maschinentechnischen Arbeitsmittel der Veranstaltungstechnik sind nach außergewöhnlichen Ereignissen und nach prüfpflichtigen Änderungen von einem Prüfsachverständigen zu prüfen. § 14 Absatz 3 Satz 1 und 2 findet insoweit keine Anwendung. § 14 Absatz 2 bleibt unberührt. 
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: center;">Tabelle 1<br />
 Prüfzuständigkeiten und Prüffristen</td></tr></tbody></table>
 

@@ -1,15 +1,11 @@
-# [BBFestV 2019] Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2019  (Bundesbeteiligungs-Festlegungsverordnung 2019 - BBFestV 2019)
-
-Ausfertigungsdatum: 01.07.2019
-
+% Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2019  (Bundesbeteiligungs-Festlegungsverordnung 2019 - BBFestV 2019)
+% Ausfertigungsdatum: 01.07.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 5 Nummer 3 Buchstabe a des Gesetzes vom 17. Dezember 2018 (BGBl. I S. 2522) neu gefasst worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
+# § 1 – Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
 Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für das Jahr 2019 rückwirkend angepasst wird, beträgt  
   
@@ -45,8 +41,7 @@ Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialg
   
 5,4 Prozentpunkte für den Freistaat Thüringen.
 
-
-## § 2 – Anpassung der Werte nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch
+# § 2 – Anpassung der Werte nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch
 
 Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2020 festgelegt und für die Jahre 2018 und 2019 rückwirkend angepasst wird, beträgt  
   
@@ -82,8 +77,7 @@ Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbu
   
   9,3 Prozentpunkte für den Freistaat Thüringen.
 
-
-## § 3 – Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
+# § 3 – Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
 
 (1) Der Wert nach § 46 Absatz 7 des Zweiten Buches Sozialgesetzbuch für das Jahr 2018 wird nach § 46 Absatz 10 Satz 6 des Zweiten Buches Sozialgesetzbuch für alle Bundesländer auf 5,8 Prozentpunkte gemindert. Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt danach im Jahr 2018  
   
@@ -187,12 +181,10 @@ Der landesspezifische Wert nach § 46 Absatz 9 des Zweiten Buches Sozialgesetzbu
   
 45,0 Prozent für den Freistaat Thüringen.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

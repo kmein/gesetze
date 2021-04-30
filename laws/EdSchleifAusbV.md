@@ -1,17 +1,11 @@
-# [EdSchleifAusbV] Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin   (Edelsteinschleiferausbildungsverordnung - EdSchleifAusbV)
-
-Ausfertigungsdatum: 17.05.2018
-
+% Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin   (Edelsteinschleiferausbildungsverordnung - EdSchleifAusbV)
+% Ausfertigungsdatum: 17.05.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -19,8 +13,9 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Edelsteinschleifers und der Edelsteinschleiferin wird staatlich anerkannt nach
 
@@ -28,20 +23,17 @@ Der Ausbildungsberuf des Edelsteinschleifers und der Edelsteinschleiferin wird s
 
 2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe „Edelsteinschleifer und -graveure“ nach Anlage B Abschnitt 1 Nummer 37 der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -115,20 +107,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 4. Umweltschutz.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Ziel und Zeitpunkt
+# § 6 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
-
-## § 7 – Inhalt
+# § 7 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -136,8 +125,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich
+# § 8 – Prüfungsbereich
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Edelsteinbearbeitung statt.
 
@@ -179,15 +167,13 @@ Der Prüfungsausschuss wählt das Tätigkeitsfeld auf der Grundlage des betriebl
 
 (5) Die Prüfungszeit beträgt für die beiden Prüfungsstücke und die Dokumentation zusammen sieben Stunden. Für die schriftliche Bearbeitung der Aufgaben beträgt sie 120 Minuten.
 
-
-## § 9 – Ziel und Zeitpunkt
+# § 9 – Ziel und Zeitpunkt
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschluss- oder Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 10 – Inhalt
+# § 10 – Inhalt
 
 Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -195,8 +181,7 @@ Die Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 11 – Prüfungsbereiche
+# § 11 – Prüfungsbereiche
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravieren in den folgenden Prüfungsbereichen statt:
 
@@ -206,8 +191,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 12 – Prüfungsbereich Edelsteine gravieren
+# § 12 – Prüfungsbereich Edelsteine gravieren
 
 (1) Im Prüfungsbereich Edelsteine gravieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -231,8 +215,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 (4) Die Prüfungszeit beträgt insgesamt 16 Stunden. Die beiden auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
-
-## § 13 – Prüfungsbereich Fertigungsplanung
+# § 13 – Prüfungsbereich Fertigungsplanung
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -254,8 +237,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
-
-## § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -263,8 +245,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -296,8 +277,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteingravier
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 16 – Prüfungsbereiche
+# § 16 – Prüfungsbereiche
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleifen in den folgenden Prüfungsbereichen statt:
 
@@ -307,8 +287,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 17 – Prüfungsbereich Edelsteine schleifen
+# § 17 – Prüfungsbereich Edelsteine schleifen
 
 (1) Im Prüfungsbereich Edelsteine schleifen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -332,8 +311,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 (4) Die Prüfungszeit beträgt insgesamt 16 Stunden. Die beiden auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
-
-## § 18 – Prüfungsbereich Fertigungsplanung
+# § 18 – Prüfungsbereich Fertigungsplanung
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -353,8 +331,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
-
-## § 19 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 19 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -362,8 +339,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 20 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 20 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -395,8 +371,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Edelsteinschleif
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 21 – Prüfungsbereiche
+# § 21 – Prüfungsbereiche
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamantschleifen in den folgenden Prüfungsbereichen statt:
 
@@ -406,8 +381,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 22 – Prüfungsbereich Industriediamanten schleifen
+# § 22 – Prüfungsbereich Industriediamanten schleifen
 
 (1) Im Prüfungsbereich Industriediamanten schleifen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -431,8 +405,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 (3) Die Prüfungszeit beträgt insgesamt 12 Stunden. Die drei auftragsbezogenen Fachgespräche dauern zusammen höchstens 20 Minuten.
 
-
-## § 23 – Prüfungsbereich Fertigungsplanung
+# § 23 – Prüfungsbereich Fertigungsplanung
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -450,8 +423,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
-
-## § 24 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 24 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -459,8 +431,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 25 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 25 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -492,8 +463,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Industriediamant
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 26 – Prüfungsbereiche
+# § 26 – Prüfungsbereiche
 
 Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Schmuckdiamantschleifen in den folgenden Prüfungsbereichen statt:
 
@@ -503,8 +473,7 @@ Die Abschluss- oder Gesellenprüfung findet in der Fachrichtung Schmuckdiamantsc
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 27 – Prüfungsbereich Schmuckdiamanten schleifen
+# § 27 – Prüfungsbereich Schmuckdiamanten schleifen
 
 (1) Im Prüfungsbereich Schmuckdiamanten schleifen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -540,8 +509,7 @@ Nach der Anfertigung wird mit dem Prüfling ein auftragsbezogenes Fachgespräch 
 
 (3) Die Prüfungszeit beträgt insgesamt 16 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 10 Minuten.
 
-
-## § 28 – Prüfungsbereich Fertigungsplanung
+# § 28 – Prüfungsbereich Fertigungsplanung
 
 (1) Im Prüfungsbereich Fertigungsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -559,8 +527,7 @@ Nach der Anfertigung wird mit dem Prüfling ein auftragsbezogenes Fachgespräch 
 
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
-
-## § 29 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 29 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -568,8 +535,7 @@ Nach der Anfertigung wird mit dem Prüfling ein auftragsbezogenes Fachgespräch 
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 30 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 30 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -601,8 +567,7 @@ Nach der Anfertigung wird mit dem Prüfling ein auftragsbezogenes Fachgespräch 
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 31 – Inkrafttreten, Außerkrafttreten
+# § 31 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig treten außer Kraft
 
@@ -612,7 +577,6 @@ Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig treten außer Kr
 
 3. die Edelsteingraveur-Ausbildungsverordnung vom 28. Januar 1992 (BGBl. I S. 191).
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin
 
 (Fundstelle: BGBl. I 2018, 643 - 649)

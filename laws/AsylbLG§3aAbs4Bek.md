@@ -1,10 +1,7 @@
-# [AsylbLG§3aAbs4Bek] Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2020
-
-Ausfertigungsdatum: 01.10.2019
-
+% Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2020
+% Ausfertigungsdatum: 01.10.2019
  
-
-## ----
+# ----
 
 Nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes, der durch Artikel 1 Nummer 5 des Gesetzes vom 13. August 2019 (BGBl. I S. 1290) eingefügt worden ist, wird hiermit Folgendes bekannt gemacht:
 
@@ -60,7 +57,6 @@ e) für leistungsberechtigte Kinder vom Beginn des siebten bis zur Vollendung de
 
 f) für leistungsberechtigte Kinder bis zur Vollendung des sechsten Lebensjahres 132 Euro (§ 3a Absatz 2 Nummer 6).
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

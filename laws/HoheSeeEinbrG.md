@@ -1,15 +1,11 @@
-# [HoheSeeEinbrG] Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See (Artikel 1 des Gesetzes zur Ausführung des Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen von 1972)  (Hohe-See-Einbringungsgesetz)
-
-Ausfertigungsdatum: 25.08.1998
-
+% Gesetz über das Verbot der Einbringung von Abfällen und anderen Stoffen und Gegenständen in die Hohe See (Artikel 1 des Gesetzes zur Ausführung des Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen von 1972)  (Hohe-See-Einbringungsgesetz)
+% Ausfertigungsdatum: 25.08.1998
  
-
-## § 1 – Zielsetzung
+# § 1 – Zielsetzung
 
 Ziel dieses Gesetzes ist die Erhaltung der Meeresumwelt sowie deren Schutz vor Verschmutzung durch das Einbringen von Abfällen oder anderen Stoffen und Gegenständen.
 
-
-## § 2 – Sachlicher Geltungsbereich
+# § 2 – Sachlicher Geltungsbereich
 
 (1) Dieses Gesetz gilt für alle Meeresgewässer mit Ausnahme des Küstenmeeres unter deutscher Souveränität sowie der Küstenmeere unter der Souveränität anderer Staaten (Hohe See). Die Hohe See umfaßt auch die ausschließlichen Wirtschaftszonen sowie den Meeresboden und den zugehörigen Meeresuntergrund unter diesen Gewässern mit Ausnahme solcher Depots, die unterhalb des Meeresbodens gelegen und nur von Land aus zugänglich sind.
 
@@ -25,8 +21,7 @@ Ziel dieses Gesetzes ist die Erhaltung der Meeresumwelt sowie deren Schutz vor V
 
 (3) Dieses Gesetz gilt nicht für Schiffe und Luftfahrzeuge der Bundeswehr.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Einbringen im Sinne dieses Gesetzes ist:
 
@@ -54,8 +49,7 @@ Ein Einbringen im Sinne von Satz 1 liegt nicht vor, wenn Maßnahmen des Natursch
 
 2. zur Schaffung künstlicher Riffe.
 
-
-## § 4 – Einbringungsverbot, Ausnahmen
+# § 4 – Einbringungsverbot, Ausnahmen
 
 Das Einbringen von Abfällen und sonstigen Stoffen und Gegenständen in die Hohe See ist verboten. Ausgenommen von diesem Verbot sind:
 
@@ -65,8 +59,7 @@ Das Einbringen von Abfällen und sonstigen Stoffen und Gegenständen in die Hohe
 
 3. Stoffe und Gegenstände, die im Rahmen von Maßnahmen des marinen Geo-Engineerings, die in der Anlage aufgeführt worden sind, eingebracht werden.
 
-
-## § 5 – Erlaubnispflicht, Bedingungen und Auflagen
+# § 5 – Erlaubnispflicht, Bedingungen und Auflagen
 
 (1) Das Einbringen der Stoffe und Gegenstände nach § 4 Satz 2 bedarf der Erlaubnis.
 
@@ -76,8 +69,7 @@ Das Einbringen von Abfällen und sonstigen Stoffen und Gegenständen in die Hohe
 
 (4) Die Erlaubnis für das Einbringen von Urnen zur Seebestattung kann für längstens ein Jahr im voraus für eine noch nicht bekannte Zahl von Einzelfällen erteilt werden. Die Erlaubnis für das Einbringen von Stoffen und Gegenständen im Rahmen des marinen Geo-Engineerings kann längstens für drei Jahre erteilt werden.
 
-
-## § 5a – Pflichten des Vorhabenträgers bei Maßnahmen des marinen Geo-Engineerings
+# § 5a – Pflichten des Vorhabenträgers bei Maßnahmen des marinen Geo-Engineerings
 
 (1) Bei Einbringungen nach § 3 Absatz 1 Nummer 5 hat der Vorhabenträger ein hohes Schutzniveau für die Meeresumwelt und die menschliche Gesundheit zu gewährleisten. Insbesondere hat er sicherzustellen, dass
 
@@ -103,18 +95,15 @@ Das Einbringen von Abfällen und sonstigen Stoffen und Gegenständen in die Hohe
 
 5. mit ihren Ergebnissen in wissenschaftlichen Fachzeitschriften veröffentlicht werden.
 
-
-## § 6 – Verbrennungsverbot
+# § 6 – Verbrennungsverbot
 
 Die Verbrennung von Abfällen oder sonstigen Stoffen auf Hoher See ist verboten.
 
-
-## § 7 – Notlage
+# § 7 – Notlage
 
 § 4 wird nicht angewandt, wenn Stoffe in die Hohe See eingebracht oder eingeleitet werden, um eine Gefahr für das Leben oder die Gesundheit von Personen oder für die Sicherheit eines Schiffes, Luftfahrzeuges oder einer festen oder schwimmenden Plattform oder Vorrichtung zur Erforschung und Ausbeutung des Festlandsockels abzuwenden. Der Führer des Schiffes oder des Luftfahrzeuges oder die für die Sicherheit der Anlage verantwortliche Person hat das Einbringen oder Einleiten unverzüglich unter Angabe der näheren Umstände und der Art und Menge der eingebrachten oder eingeleiteten Stoffe dem Bundesamt für Seeschiffahrt und Hydrographie zu melden.
 
-
-## § 8 – Zuständigkeiten, Aufgaben und Befugnisse
+# § 8 – Zuständigkeiten, Aufgaben und Befugnisse
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für den Vollzug dieses Gesetzes zuständig; es untersteht insoweit der Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit. Um festzustellen, ob die Voraussetzungen des § 5 Abs. 2 Satz 1 und 2 vorliegen, hört es die zuständigen Behörden des Bundes und der Länder an. Das Bundesamt für Seeschiffahrt und Hydrographie holt bei Baggergut vor der Entscheidung eine Stellungnahme des Umweltbundesamtes ein. Das Umweltbundesamt stellt nach Anhörung der zuständigen Landesbehörde, in deren Bereich das Baggergut angefallen ist oder beseitigt werden könnte, fest, ob die Voraussetzungen des § 5 Abs. 2 Satz 3 vorliegen. Das Bundesamt für Seeschiffahrt und Hydrographie kann die zur Entscheidungsfindung erforderlichen Feststellungen treffen, Untersuchungen anordnen und die Einhaltung der Bedingungen und Auflagen überwachen.
 
@@ -136,8 +125,7 @@ in die Hohe See eingebracht worden sind, zu entfernen sind oder so zu sichern si
 
 (6) Für Amtshandlungen aufgrund der Absätze 1 und 2 oder der auf § 9 Satz 1 Nummer 1 beruhenden Rechtsverordnungen werden Gebühren und Auslagen erhoben.
 
-
-## § 9 – Verordnungsermächtigungen
+# § 9 – Verordnungsermächtigungen
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -147,8 +135,7 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 Die Rechtsverordnung nach Satz 1 Nummer 1 bedarf auch des Einvernehmens mit dem Bundesministerium für Bildung und Forschung, soweit Vorhaben des marinen Geo-Engineerings betroffen sind, die der wissenschaftlichen Forschung dienen.
 
-
-## § 10 – Bußgeldvorschriften
+# § 10 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -168,13 +155,11 @@ Die Rechtsverordnung nach Satz 1 Nummer 1 bedarf auch des Einvernehmens mit dem 
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Seeschifffahrt und Hydrographie.
 
-
-## § 11 – Vollzugsbeamte
+# § 11 – Vollzugsbeamte
 
 Die in § 8 Absatz 4 bezeichneten Vollzugsbeamten des Bundes haben auf der Hohen See bei der Erforschung von Zuwiderhandlungen nach § 10 und nach den §§ 324, 326, 330 und 330a des Strafgesetzbuches die Rechte und Pflichten der Polizeibeamten nach den Vorschriften der Strafprozeßordnung und des Gesetzes über Ordnungswidrigkeiten. Sie sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
 
-
-## § 12 – Unberührtheit von Gesetzen
+# § 12 – Unberührtheit von Gesetzen
 
 Dieses Gesetz berührt nicht
 
@@ -188,13 +173,11 @@ Dieses Gesetz berührt nicht
 
 5. Gesetz vom 23. August 1994 zu internationalen Übereinkommen über den Schutz des Ostseegebietes und des Nordatlantiks (BGBl. II S. 1355).
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 4 Satz 2 Nummer 3)Maßnahmen des marinen Geo-Engineerings
+# Anlage – (zu § 4 Satz 2 Nummer 3)Maßnahmen des marinen Geo-Engineerings
 
 (Fundstelle: BGBl. I 2018, S. 2255)
 

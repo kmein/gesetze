@@ -1,15 +1,11 @@
-# [VAErstV] Verordnung über die Erstattung von Aufwendungen der Träger der Rentenversicherung im Rahmen des Versorgungsausgleichs  (Versorgungsausgleichs-Erstattungsverordnung - VAErstV)
-
-Ausfertigungsdatum: 09.10.2001
-
+% Verordnung über die Erstattung von Aufwendungen der Träger der Rentenversicherung im Rahmen des Versorgungsausgleichs  (Versorgungsausgleichs-Erstattungsverordnung - VAErstV)
+% Ausfertigungsdatum: 09.10.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 226 Abs. 1 des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337), der zuletzt durch Artikel 1 Nr. 43 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) neu gefasst worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Berechnung der zu erstattenden Aufwendungen im Rahmen des Versorgungsausgleichs
+# § 1 – Berechnung der zu erstattenden Aufwendungen im Rahmen des Versorgungsausgleichs
 
 (1) Die Aufwendungen des Trägers der Rentenversicherung auf Grund von Rentenanwartschaften, die durch Entscheidung des Familiengerichts im Rahmen des Versorgungsausgleichs begründet worden und nach § 225 Abs. 1 Satz 1 oder § 290 Satz 1 des Sechsten Buches Sozialgesetzbuch von dem zuständigen Träger der Versorgungslast zu erstatten sind, werden nach Maßgabe der folgenden Absätze berechnet.
 
@@ -33,8 +29,7 @@ gehören nicht zu den erstattungsfähigen Aufwendungen.
 
 (6) Die §§ 121 und 123 Abs. 1 und 3 des Sechsten Buches Sozialgesetzbuch finden Anwendung.
 
-
-## § 2 – Durchführung der Erstattung
+# § 2 – Durchführung der Erstattung
 
 (1) Der Träger der Rentenversicherung soll die zu erstattenden Aufwendungen innerhalb von vier Kalendermonaten nach Ablauf des Kalenderjahres, in dem die Aufwendungen entstanden sind, feststellen und von dem zuständigen Träger der Versorgungslast anfordern (Erstattungsanforderung).
 
@@ -44,17 +39,14 @@ gehören nicht zu den erstattungsfähigen Aufwendungen.
 
 (4) Der Erstattungsanspruch des Trägers der Rentenversicherung verjährt in vier Jahren nach Ablauf des Kalenderjahres, in dem die Aufwendungen angefordert werden sollen. Für die Hemmung, die Unterbrechung und die Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen Gesetzbuches sinngemäß.
 
-
-## § 3 – Zeitlicher Anwendungsbereich
+# § 3 – Zeitlicher Anwendungsbereich
 
 Diese Verordnung findet erstmals auf die Erstattung der im Jahre 2001 entstehenden Aufwendungen der Träger der Rentenversicherung Anwendung.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

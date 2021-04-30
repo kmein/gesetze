@@ -1,10 +1,7 @@
-# [HwWahlO] Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))
-
-Ausfertigungsdatum: 17.09.1953
-
+% Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))
+% Ausfertigungsdatum: 17.09.1953
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Anlage C: Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern
 
@@ -74,13 +71,11 @@ Anlage: Muster des Wahlberechtigungsscheins
 
  
 
-
-## § 1
+# § 1
 
 Der Vorstand der Handwerkskammer bestimmt den Tag der Wahl. Er bestellt einen Wahlleiter sowie einen Stellvertreter, die nicht zu den Wahlberechtigten gemäß § 96 Abs. 1 und § 98 der Handwerksordnung gehören und nicht Mitarbeiter der Handwerkskammer sein dürfen.
 
-
-## § 2
+# § 2
 
 (1) Der Wahlleiter beruft aus der Zahl der Wahlberechtigten vier Beisitzer und die erforderliche Zahl von Stellvertretern, die je zur Hälfte Wahlberechtigte nach § 96 Abs. 1 und nach § 98 der Handwerksordnung sein müssen. Der Wahlleiter und die Beisitzer bilden den Wahlausschuß; den Vorsitz führt der Wahlleiter.
 
@@ -102,26 +97,21 @@ Der Vorstand der Handwerkskammer bestimmt den Tag der Wahl. Er bestellt einen Wa
 
 (10) (weggefallen)
 
-
-## § 3
+# § 3
 
 Der Handwerkskammerbezirk bildet einen Wahlbezirk.
 
-
-## § 4
+# § 4
 
 Zur Aufteilung der Mitglieder der Vollversammlung können die Handwerkskammern in ihrer Satzung gemäß § 93 Abs. 2 der Handwerksordnung Gruppen bilden.
 
+# §§ 5 und 6 – (weggefallen)
 
-## §§ 5 und 6 – (weggefallen)
-
-
-## § 7
+# § 7
 
 Der Wahlleiter hat spätestens drei Monate vor dem Wahltag in den für die Bekanntmachungen der Handwerkskammer bestimmten Organen zur Einreichung von Wahlvorschlägen aufzufordern und dabei die Erfordernisse dieser Wahlvorschläge (§§ 8 bis 10) bekanntzugeben.
 
-
-## § 8
+# § 8
 
 (1) Die Wahlvorschläge gelten für den Wahlbezirk (§ 3); sie sind getrennt für die Wahl der Vertreter des Handwerks und des handwerksähnlichen Gewerbes und für die Wahl der Vertreter der Gesellen und anderen Arbeitnehmer mit abgeschlossener Berufsausbildung in Form von Listen einzureichen und müssen die Namen von so vielen Bewerbern enthalten, als Mitglieder und Stellvertreter in dem Wahlbezirk zu wählen sind.
 
@@ -135,13 +125,11 @@ Der Wahlleiter hat spätestens drei Monate vor dem Wahltag in den für die Bekan
 
 (6) Die Unterzeichner der Wahlvorschläge müssen bei der Unterschrift auch Beruf, Wohnort und Wohnung angeben. Die Unterschriften müssen leserlich sein.
 
-
-## § 9
+# § 9
 
 Die Wahlvorschläge müssen spätestens am fünfunddreißigsten Tag vor dem Wahltag bei dem Wahlleiter eingereicht sein.
 
-
-## § 10
+# § 10
 
 (1) Mit jedem Wahlvorschlag sind einzureichen
 
@@ -163,8 +151,7 @@ b) bei den Gesellen und anderen Arbeitnehmern mit abgeschlossener Berufsausbildu
 
 (2) Die Bescheinigungen sind gebührenfrei auszustellen.
 
-
-## § 11
+# § 11
 
 (1) Weisen die Wahlvorschläge Mängel auf, so fordert der Wahlleiter die Vertrauenspersonen unter Setzung einer angemessenen Frist zu deren Beseitigung auf.
 
@@ -178,8 +165,7 @@ b) bei den Gesellen und anderen Arbeitnehmern mit abgeschlossener Berufsausbildu
 
 (6) Der Wahlleiter veröffentlicht spätestens am fünfzehnten Tag vor dem Wahltag die zugelassenen Wahlvorschläge in den für die Bekanntmachung der Handwerkskammer bestimmten Organen in der zugelassenen Form, aber ohne die Namen der Unterzeichner. Jeder Wahlvorschlag soll eine fortlaufende Nummer und ein Kennwort erhalten, das ihn von allen anderen Wahlvorschlägen deutlich unterscheidet.
 
-
-## § 12
+# § 12
 
 (1) Für die Wahl der Vertreter des Handwerks und des handwerksähnlichen Gewerbes dient als Wahlunterlage ein von der Handwerkskammer herzustellender und zu beglaubigender Auszug aus der Handwerksrolle und dem Verzeichnis nach § 19 der Handwerksordnung, der alle am Wahltag Wahlberechtigten der Handwerkskammer enthält (Wahlverzeichnis). Wählen kann nur, wer in dem Wahlverzeichnis eingetragen ist.
 
@@ -197,27 +183,23 @@ b) bei den Gesellen und anderen Arbeitnehmern mit abgeschlossener Berufsausbildu
 
 (8) Das Wählerverzeichnis ist bis zum Wahltag fortzuführen.
 
-
-## § 13
+# § 13
 
 (1) Die ihr Wahlrecht wahrnehmenden Gesellen und Arbeitnehmer mit abgeschlossener Berufsausbildung weisen dem Wahlleiter ihre Wahlberechtigung durch eine die Unterschrift des Betriebsrates, soweit dieser in Betrieben vorhanden ist, in allen übrigen Betrieben durch eine die Unterschrift des Betriebsinhabers oder seines gesetzlichen Vertreters tragende Bescheinigung (Wahlberechtigungsschein) nach.
 
 (2) Wählen kann nur, wer sich durch eine solche Bescheinigung als Wahlberechtigter legitimiert oder wer von kurzzeitiger Arbeitslosigkeit (§ 98) betroffen ist. Diese ist dem Wahlleiter durch Vorlage einer Bescheinigung der Agentur für Arbeit nachzuweisen.
 
-
-## § 14
+# § 14
 
 (1) Bei der Wahl sind nur solche Stimmen gültig, die unverändert auf einen der vom Wahlausschuß zugelassenen und vom Wahlleiter veröffentlichten Vorschläge lauten.
 
 (2) Zur Gültigkeit des Stimmzettels genügt es, daß er den Wahlvorschlag nach der vom Wahlleiter veröffentlichten Nummer und dem Kennwort bezeichnet.
 
-
-## § 15
+# § 15
 
 Bei der Wahl dürfen nur von der Handwerkskammer amtlich hergestellte Stimmzettel und die zugehörigen amtlich hergestellten Umschläge verwendet werden. Sie sind von der Handwerkskammer zu beschaffen. Die Umschläge sind mit dem Stempel der Handwerkskammer zu versehen. Die Stimmzettel sollen für die Wahl der Wahlberechtigten nach § 96 Abs. 1 und der Wahlberechtigten nach § 98 der Handwerksordnung in verschiedener Farbe hergestellt sein. Sie enthalten den Namen oder das Kennwort der nach § 11 zugelassenen Wahlvorschläge.
 
-
-## § 16
+# § 16
 
 (1) Die Kammer übermittelt den nach § 96 der Handwerksordnung Wahlberechtigten folgende Unterlagen:
 
@@ -235,8 +217,7 @@ Die nach § 98 der Handwerksordnung Wahlberechtigten erhalten die Wahlunterlagen
 
 (3) Der Wahlberechtigte hat den von ihm gemäß Absatz 2 gekennzeichneten Stimmzettel in dem verschlossenen Wahlumschlag unter Beifügung des von ihm unterzeichneten Wahlscheins in dem Rücksendeumschlag so rechtzeitig an den Wahlleiter zurückzusenden, dass die Unterlagen am Wahltag bis spätestens 18.00 Uhr bei der Handwerkskammer eingehen. Ist der Wahltag ein Sonn- oder Feiertag, müssen die Wahlunterlagen am ersten darauf folgenden Werktag bis spätestens 18.00 Uhr bei der Handwerkskammer eingehen. Die rechtzeitig bei der Kammer eingegangen Wahlumschläge werden nach Prüfung der Wahlberechtigung unverzüglich ungeöffnet in die Wahlurne gelegt.
 
-
-## § 17
+# § 17
 
 (1) Nach Schluss der Abstimmung beruft der Wahlleiter den Wahlausschuss ein. Der Wahlausschuss hat unverzüglich das Ergebnis der Wahl zu ermitteln.
 
@@ -264,8 +245,7 @@ Die nach § 98 der Handwerksordnung Wahlberechtigten erhalten die Wahlunterlagen
 
 (8) Über die Sitzung des Wahlausschusses ist eine Niederschrift zu fertigen. Diese ist zusammen mit den Wahlunterlagen aufzubewahren und der Aufsichtsbehörde auf Anforderung vorzulegen.
 
-
-## § 17a
+# § 17a
 
 (1) Das Wählerverzeichnis, die Wahlberechtigungsscheine und sonstigen Wahlunterlagen sind so zu verwahren, daß sie gegen Einsichtnahme durch Unbefugte geschützt sind.
 
@@ -273,35 +253,29 @@ Die nach § 98 der Handwerksordnung Wahlberechtigten erhalten die Wahlunterlagen
 
 (3) Auskünfte aus den in Absatz 1 genannten Unterlagen dürfen nur Behörden, Gerichten und sonstigen öffentlichen Stellen und nur dann erteilt werden, wenn diese die Auskünfte zur Erfüllung von Aufgaben benötigen, die sich auf die Vorbereitung, Durchführung oder Überprüfung der Wahl sowie die Verfolgung von Wahlstraftaten, Wahlprüfungsangelegenheiten oder auf wahlstatistische Arbeiten beziehen.
 
-
-## § 18
+# § 18
 
 (1) Nach Übergabe der Unterlagen an den Wahlleiter stellt der Wahlausschuss das Gesamtergebnis der Wahl fest, das durch den Wahlleiter in den für die Bekanntmachung der Handwerkskammer bestimmten Organen öffentlich bekannt zu machen und der Aufsichtsbehörde anzuzeigen ist. Die Wahlunterlagen sind aufzubewahren und der Aufsichtsbehörde auf Anforderung vorzulegen.
 
 (2) Als gewählt gelten die Bewerber desjenigen Wahlvorschlags, der die Mehrheit der abgegebenen Stimmen erhalten hat.
 
-
-## § 19
+# § 19
 
 (weggefallen)
 
-
-## § 20
+# § 20
 
 Wird für den Wahlbezirk nur ein Wahlvorschlag zugelassen, so gelten die darauf bezeichneten Bewerber als gewählt, ohne daß es einer Wahlhandlung bedarf.
 
-
-## § 21
+# § 21
 
 Beschwerden über die Ernennung der Beisitzer des Wahlausschusses entscheidet die höhere Verwaltungsbehörde.
 
-
-## § 22
+# § 22
 
 Die Kosten der Wahl trägt die Handwerkskammer.
 
-
-## Anlage – zur Wahlordnung für die Wahlen der Mitglieder der Handwerkskammern
+# Anlage – zur Wahlordnung für die Wahlen der Mitglieder der Handwerkskammern
 
 (Fundstelle: BGBl. I 1998, 3109;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -1,16 +1,11 @@
-# [ASLwApFG] Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
-
-Ausfertigungsdatum: 06.07.1990
-
+% Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
+% Ausfertigungsdatum: 06.07.1990
  
+# Eingangsformel
 
-## Eingangsformel
+Die Umstellung der Agrar- und Ernährungswirtschaft der Deutschen Demokratischen Republik auf die Bedingungen der sozialen Marktwirtschaft im Rahmen der Währungs-, Wirtschafts- und Sozialunion mit der Bundesrepublik Deutschland erfordert einen grundlegenden Strukturwandel, der durch geeignete Maßnahmen bei Wahrung der Chancengleichheit zu fördern ist. Bei der Förderung sind die Marktentwicklung sowie die Ziele und Erfordernisse der Raumordnung, des Umweltschutzes und des Tierschutzes zu beachten. Dazu hat die Volkskammer folgendes Gesetz beschlossen:
 
-Die Umstellung der Agrar- und Ernährungswirtschaft der Deutschen Demokratischen Republik auf die Bedingungen der sozialen Marktwirtschaft im Rahmen der Währungs-, Wirtschafts- und Sozialunion mit der Bundesrepublik Deutschland erfordert einen grundlegenden Strukturwandel, der durch geeignete Maßnahmen bei Wahrung der Chancengleichheit zu fördern ist. Bei der Förderung sind die Marktentwicklung sowie die Ziele und Erfordernisse der Raumordnung, des Umweltschutzes und des Tierschutzes zu beachten.  
-Dazu hat die Volkskammer folgendes Gesetz beschlossen:
-
-
-## § 1 – Förderungsmaßnahmen
+# § 1 – Förderungsmaßnahmen
 
 (1) Im Sinne des Artikels 15 des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland können gefördert werden:
 
@@ -32,35 +27,29 @@ Dazu hat die Volkskammer folgendes Gesetz beschlossen:
 
 (3) Absatz 1 steht einer landesrechtlichen Ergänzung einer auf Grund des Absatzes 2 getroffenen Regelung nicht entgegen, sofern die sich daraus ergebenden Förderbeträge je Begünstigten proportional um nicht mehr als 53,846 vom Hundert ergänzt werden.
 
-
-## § 2 – Förderungsarten
+# § 2 – Förderungsarten
 
 Die finanzielle Förderung kann in der Gewährung von Zuschüssen, Darlehen und Zinszuschüssen bestehen. Sie erfolgt im Rahmen der dafür verfügbaren Haushaltsmittel.
 
-
-## § 3 – Rücknahme, Widerruf, Erstattung und Verzinsung
+# § 3 – Rücknahme, Widerruf, Erstattung und Verzinsung
 
 (1) Werden Förderungsmittel aufgrund unrichtiger Angaben gewährt oder werden die gewährten Förderungsmittel entgegen ihrem Zweck verwendet oder mit ihnen verbundene Auflagen nicht erfüllt, kann die Bewilligung zurückgenommen oder widerrufen werden. Die Förderungsmittel sind dann grundsätzlich ganz oder teilweise zurückzufordern.
 
 (2) Der Rückforderungsanspruch ist mit seiner Entstehung fällig und von diesem Zeitpunkt an mit 6 vom Hundert für das Jahr zu verzinsen. Von der Zinsforderung kann abgesehen werden, wenn der Empfänger der Förderungsmittel die Umstände, die zum Entstehen des Rückforderungsanspruchs geführt haben, nicht zu vertreten hat und die Förderungsmittel innerhalb der ihm gesetzten Frist zurückzahlt.
 
-
-## § 4 – Prüfungsrecht
+# § 4 – Prüfungsrecht
 
 Der Minister für Ernährung, Land- und Forstwirtschaft hat das Recht, die Verwendung der Förderungsmittel durch Besichtigung an Ort und Stelle und durch Einsichtnahme in Bücher, Belege und sonstige Unterlagen zu prüfen bzw. durch Beauftragte prüfen zu lassen und Auskünfte einzuholen. Das Prüfungs- und Auskunftsrecht ist gegenüber allen weiteren Empfängern bis zu den Letztempfängern vorzubehalten.
 
-
-## § 5 – Zusammenarbeit mit den Ländern
+# § 5 – Zusammenarbeit mit den Ländern
 
 Nach der Bildung der Länder wird die Zusammenarbeit mit den Ländern bei der Planung, Finanzierung und Durchführung der Anpassungsmaßnahmen geregelt.
 
-
-## § 6 – Geltungsbereich
+# § 6 – Geltungsbereich
 
 Der Geltungsbereich wird in den einzelnen Anordnungen geregelt.
 
-
-## § 7 – Inkraftsetzung
+# § 7 – Inkraftsetzung
 
 (1) Dieses Gesetz tritt am 6. Juli 1990 in Kraft.
 
@@ -78,13 +67,11 @@ Anordnung Nr. 3 über Förderungsmittel für LPG, GPG, VEG und deren kooperative
 \-  
 Anordnung Nr. 4 über Förderungsmittel für LPG, GPG, VEG und deren kooperative Einrichtungen vom 9. Januar 1989 (P-Sonderdruck Nr. 1111/9 des Gesetzblattes).
 
-
-## Schlußformel
+# Schlußformel
 
 Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III(BGBl. II 1990, 885, 1204)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III(BGBl. II 1990, 885, 1204)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
 

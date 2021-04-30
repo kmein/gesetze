@@ -1,5 +1,3 @@
-# [WPostVtr 2016] Weltpostvertrag
-
-Ausfertigungsdatum: 06.10.2016
-
+% Weltpostvertrag
+% Ausfertigungsdatum: 06.10.2016
  

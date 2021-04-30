@@ -1,15 +1,11 @@
-# [DBUStiftG] Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung Umwelt"
-
-Ausfertigungsdatum: 18.07.1990
-
+% Gesetz zur Errichtung einer Stiftung "Deutsche Bundesstiftung Umwelt"
+% Ausfertigungsdatum: 18.07.1990
  
-
-## § 1 – Errichtung und Rechtsform
+# § 1 – Errichtung und Rechtsform
 
 Der Bund wird unter dem Namen "Deutsche Bundesstiftung Umwelt" eine rechtsfähige Stiftung des bürgerlichen Rechts errichten.
 
-
-## § 2 – Aufgabe
+# § 2 – Aufgabe
 
 (1) Aufgabe der Stiftung soll es sein, Vorhaben zum Schutz der Umwelt unter besonderer Berücksichtigung der mittelständischen Wirtschaft zu fördern. Die Stiftung soll in der Regel außerhalb der staatlichen Programme tätig werden; sie kann diese ergänzen.
 
@@ -29,17 +25,14 @@ Bewahrung und Sicherung nationalen Kulturgutes im Hinblick auf schädliche Umwel
 
 (3) Die Stiftung soll jährlich einen Umweltpreis vergeben.
 
-
-## § 3 – Rechnungsprüfung
+# § 3 – Rechnungsprüfung
 
 Die Haushalts- und Wirtschaftsführung der Stiftung unterliegt der Prüfung durch den Bundesrechnungshof.
 
-
-## § 4 – Berlin-Klausel
+# § 4 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

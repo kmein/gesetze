@@ -1,15 +1,11 @@
-# [SonntRPapIndAusnV] Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Papierindustrie
-
-Ausfertigungsdatum: 20.07.1963
-
+% Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Papierindustrie
+% Ausfertigungsdatum: 20.07.1963
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 105d der Gewerbeordnung in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes wird mit Zustimmung des Bundesrates für die Papierindustrie verordnet:
 
-
-## § 1
+# § 1
 
 (1) In der Papierindustrie dürfen Arbeitnehmer an Sonn- und Feiertagen mit Ausnahme der Weihnachts-, Oster- und Pfingstfeiertage und des 1. Mai beschäftigt werden mit Arbeiten zur Herstellung
 
@@ -37,8 +33,7 @@ Als Bahnlänge gilt die Länge der Papierbahn vom Auflauf des Stoffes auf das Si
 
 3. Abtransport der Rollen oder Formate zur Lagerung im Zwischenlager.
 
-
-## § 2
+# § 2
 
 (1) Die Beschäftigung nach § 1 ist an einem Sonn- oder Feiertag in einem Betrieb nur gestattet, wenn die in § 10 Abs. 1 Nr. 14 des Arbeitszeitgesetzes zugelassenen Arbeiten zur Reinigung und Instandhaltung während des ganzen Sonn- oder Feiertags an keiner Papiermaschine des Betriebs vorgenommen werden.
 
@@ -52,27 +47,23 @@ b) nach 10 Uhr am Sonn- oder Feiertag an den Papiermaschinen, die an diesem Sonn
 
 nicht vorgenommen werden.
 
-
-## § 3
+# § 3
 
 Arbeitnehmer dürfen nach § 1 nur unter den in §§ 4 bis 9 vorgesehenen Bedingungen beschäftigt werden.
 
-
-## § 4
+# § 4
 
 (1) Den an Sonn- und Feiertagen beschäftigten Arbeitnehmern ist an mindestens 26 Sonntagen im Jahr eine ununterbrochene Ruhezeit von mindestens 40 Stunden zu gewähren, die den vollen Kalendersonntag umfassen muß. Die arbeitsfreien Sonntage sind nach Maßgabe der betrieblichen Verhältnisse und der Schichtpläne im voraus festzulegen.
 
 (2) An den Weihnachtsfeiertagen ist den Arbeitnehmern eine ununterbrochene Ruhezeit von mindestens 60 Stunden, die am 24. Dezember spätestens um 18 Uhr beginnen muß, an den Oster- und Pfingstfeiertagen eine ununterbrochene Ruhezeit von jeweils mindestens 48 Stunden und am 1. Mai eine ununterbrochene Ruhezeit von mindestens 40 Stunden zu gewähren.
 
-
-## § 5
+# § 5
 
 (1) Die Arbeitszeit an einem Sonn- oder Feiertag darf die Dauer von acht Stunden nicht überschreiten.
 
 (2) Den Arbeitnehmern ist für die Beschäftigung an einem Sonntag eine ununterbrochene Ersatzruhezeit von mindestens 24 Stunden in derselben oder in der vorhergehenden Woche zu gewähren.
 
-
-## § 6
+# § 6
 
 Auf Grund eines Tarifvertrags oder, soweit eine solche Regelung nicht besteht, auf Grund einer Betriebsvereinbarung kann
 
@@ -82,13 +73,11 @@ oder
 
 b) die in § 5 Abs. 1 vorgeschriebene Dauer der Arbeitszeit an Sonntagen auf höchstens 12 Stunden verlängert werden.
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8
+# § 8
 
 (1) Wer Arbeitnehmer nach § 1 beschäftigt, hat ein Verzeichnis zu führen, in dem für jeden dieser Arbeitnehmer zu vermerken sind
 
@@ -98,18 +87,15 @@ b) die nach § 5 Abs. 2 gewährten Ersatzruhezeiten und deren Dauer.
 
 (2) Das Verzeichnis ist der nach Landesrecht zuständigen Behörde auf Verlangen vorzulegen oder einzusenden. Es ist mindestens bis zum Ablauf von zwei Jahren nach der letzten Eintragung aufzubewahren. Die Landesregierungen können durch Rechtsverordnung eine einheitliche Form für das Verzeichnis vorschreiben.
 
-
-## § 9
+# § 9
 
 Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser Verordnung an geeigneter Stelle im Betrieb zur Einsicht auszulegen oder auszuhängen.
 
-
-## § 10
+# § 10
 
 \-
 
-
-## § 11
+# § 11
 
 (1) Diese Verordnung tritt einen Monat nach ihrer Verkündung in Kraft.
 
@@ -117,7 +103,6 @@ Wer Arbeitnehmer nach § 1 beschäftigt, hat einen Abdruck dieser Verordnung an 
 
 (3)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

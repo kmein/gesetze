@@ -1,15 +1,11 @@
-# [SchiffbMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Schiffbauer-Handwerk  (Schiffbauermeisterverordnung - SchiffbMstrV)
-
-Ausfertigungsdatum: 18.09.1996
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Schiffbauer-Handwerk  (Schiffbauermeisterverordnung - SchiffbMstrV)
+% Ausfertigungsdatum: 18.09.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Schiffbauer-Handwerk sind folgende Tätigkeiten zuzurechnen:  
 Herstellung, Ausbau, Umbau, Reparatur, Pflege, Wartung und Lagerung von Schiffen, sonstigen Wasserfahrzeugen und anderem schwimmenden Gerät einschließlich des Zubehörs und der Beschläge.
@@ -92,8 +88,7 @@ Herstellung, Ausbau, Umbau, Reparatur, Pflege, Wartung und Lagerung von Schiffen
 
 38. Einrichten, Bedienen und Instandhalten der berufsbezogenen Werkzeuge, Geräte, Maschinen und Betriebseinrichtungen.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -101,8 +96,7 @@ Herstellung, Ausbau, Umbau, Reparatur, Pflege, Wartung und Lagerung von Schiffen
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit ist unter Berücksichtigung der Klassifikationsvorgaben eine der nachstehend genannten Arbeiten anzufertigen:
 
@@ -140,8 +134,7 @@ b) im Bereich der Verbindung von Rumpf und Kiel, wobei die Außenhaut, die Verbi
 
 (4) Bei der Bewertung der Meisterprüfungsarbeit sind der vom Prüfling selbst gefertigte Entwurf, die Arbeitsbeschreibung, die Materialliste, die Kalkulation und das Angebot zu berücksichtigen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe ist eine der nachstehend genannten Arbeiten auszuführen:
 
@@ -157,8 +150,7 @@ b) im Bereich der Verbindung von Rumpf und Kiel, wobei die Außenhaut, die Verbi
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -230,18 +222,15 @@ b) Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen 
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 3.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Dezember 1996 in Kraft.
 

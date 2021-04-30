@@ -1,15 +1,11 @@
-# [FahrmAusbV] Verordnung über die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
-
-Ausfertigungsdatum: 18.05.2004
-
+% Verordnung über die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
+% Ausfertigungsdatum: 18.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2943) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
 
@@ -17,25 +13,21 @@ Der Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin wird
 
 2. gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert zwei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung oder nach § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
-
-## § 4 – Berufsfeldbreite Grundbildung
+# § 4 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -69,23 +61,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 15. Bereitstellen von Waren und Dienstleistungen.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
@@ -99,8 +87,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 Dabei sollen die Prüflinge zeigen, dass sie Arbeitsschritte planen, Arbeitsmittel anwenden, technische Unterlagen nutzen sowie den Sicherheits- und Gesundheitsschutz bei der Arbeit und den Umweltschutz berücksichtigen können.
 
-
-## § 10 – Gesellenprüfung, Abschlussprüfung
+# § 10 – Gesellenprüfung, Abschlussprüfung
 
 (1) Die Gesellenprüfung, Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -159,20 +146,17 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 11 – Fortsetzung der Berufsausbildung
+# § 11 – Fortsetzung der Berufsausbildung
 
 (1) Die Berufsausbildung im Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin kann in dem Ausbildungsberuf Zweiradmechaniker/Zweiradmechanikerin - Fachrichtung Fahrradtechnik - nach den Vorschriften für das dritte und vierte Ausbildungsjahr fortgesetzt werden.
 
 (2) Die in der Gesellenprüfung, Abschlussprüfung im Ausbildungsberuf Fahrradmonteur/Fahrradmonteurin erzielten Leistungen werden bei der Fortsetzung der Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin - Fachrichtung Fahrradtechnik - als Teil 1 der Gesellen-/Abschlussprüfung zum Zweiradmechaniker/zur Zweiradmechanikerin - Fachrichtung Fahrradtechnik - entsprechend § 2 Abs. 1 der Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Zweiradmechaniker/zur Zweiradmechanikerin - Fachrichtung Fahrradtechnik - vom 9. Juli 2003 (BGBl. I S. 1357) in das Gesamtergebnis einbezogen.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
+# Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Fahrradmonteur/zur Fahrradmonteurin
 
 (Fundstelle: BGBl. I 2004, 996 - 1001)
 

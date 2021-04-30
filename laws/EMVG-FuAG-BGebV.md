@@ -1,15 +1,11 @@
-# [EMVG-FuAG-BGebV] Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Bereich des Elektromagnetische-Verträglichkeit-Gesetzes und des Funkanlagengesetzes  (EMVG-FuAG-BGebV)
-
-Ausfertigungsdatum: 17.10.2017
-
+% Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Bereich des Elektromagnetische-Verträglichkeit-Gesetzes und des Funkanlagengesetzes  (EMVG-FuAG-BGebV)
+% Ausfertigungsdatum: 17.10.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Erhebung von Gebühren und Auslagen
+# § 1 – Erhebung von Gebühren und Auslagen
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) erhebt Gebühren und Auslagen für die individuell zurechenbaren öffentlichen Leistungen (gebührenfähige Leistungen) im Anwendungsbereich des Bundesgebührengesetzes, die sie auf Grund der folgenden Vorschriften erbringt:
 
@@ -23,28 +19,23 @@ Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisen
 
 5. Sicherheitsfunk-Schutzverordnung.
 
-
-## § 2 – Höhe der Gebühren und Auslagen
+# § 2 – Höhe der Gebühren und Auslagen
 
 Die Höhe der Gebühren und Auslagen für gebührenfähige Leistungen richtet sich nach den Gebührenverzeichnissen in den Anlagen 1 bis 5 zu dieser Verordnung.
 
-
-## § 3 – Gebührenbefreiung
+# § 3 – Gebührenbefreiung
 
 Gebühren für Maßnahmen nach Anlage 1 Nummer 5 oder nach Anlage 4 werden nicht erhoben, wenn ein Betriebsmittel unverschuldet entgegen den Vorschriften des Elektromagnetische-Verträglichkeit-Gesetzes oder entgegen den Vorschriften der Sicherheitsfunk-Schutzverordnung betrieben wird.
 
-
-## § 4 – Übergangsregelung
+# § 4 – Übergangsregelung
 
 Diese Verordnung ist auch auf gebührenfähige Leistungen anzuwenden, die bereits vor dem Inkrafttreten dieser Verordnung begonnen oder erbracht wurden, soweit für diese gebührenfähigen Leistungen noch keine Gebühren oder Auslagen erhoben wurden.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2 i. V. m. § 1 Nummer 1 und 2)Gebühren- und Auslagenverzeichnis nach dem Elektromagnetische-Verträglichkeit-Gesetz und dem Funkanlagengesetz
+# Anlage 1 – (zu § 2 i. V. m. § 1 Nummer 1 und 2)Gebühren- und Auslagenverzeichnis nach dem Elektromagnetische-Verträglichkeit-Gesetz und dem Funkanlagengesetz
 
 (Fundstelle: BGBl. I 2017, 3577)
 
@@ -55,8 +46,7 @@ oder der Auslage</th></tr></thead><tbody><tr class="odd"><td style="text-align: 
 (zusätzlich zu der Gebühr gemäß Nummer 1)</td></tr><tr class="even"><td style="text-align: center;">4</td><td style="text-align: left;">Prüfung eines Gerätes in einem beauftragten Labor bei Verstoß gegen § 4 FuAG</td><td style="text-align: left;">In voller Höhe einschließlich der Umsatzsteuer<br />
 (zusätzlich zu der Gebühr gemäß Nummer 1)</td></tr><tr class="odd"><td style="text-align: center;">5</td><td style="text-align: left;">Maßnahmen zur Ermittlung oder Beseitigung von Störungen nach § 27 Absatz 1 bis 3 EMVG bei Verstoß gegen die Vorschriften des § 6, des § 7 Absatz 2 und des § 20 Absatz 1 EMVG gegenüber den Betreibern von Betriebsmitteln</td><td style="text-align: left;">Nach Zeitaufwand gemäß Anlage 5</td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 2 i. V. m. § 1 Nummer 3)Gebührenverzeichnis nach der Konformitätsbewertungsstellen-Anerkennungs-Verordnung
+# Anlage 2 – (zu § 2 i. V. m. § 1 Nummer 3)Gebührenverzeichnis nach der Konformitätsbewertungsstellen-Anerkennungs-Verordnung
 
 (Fundstelle: BGBl. I 2017, 3578)
 
@@ -143,8 +133,7 @@ Anlassbezogene Überprüfung der Anforderungen nach § 2 Absatz 4 AnerkV (zusät
 
 1 500 bis 4 500
 
-
-## Anlage 3 – (zu § 2 i. V. m. § 1 Nummer 4)Gebühren- und Auslagenverzeichnis nach der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder
+# Anlage 3 – (zu § 2 i. V. m. § 1 Nummer 4)Gebühren- und Auslagenverzeichnis nach der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder
 
 (Fundstelle: BGBl. I 2017, 3579)
 
@@ -194,8 +183,7 @@ Maßnahmen bei Betrieb einer Funkanlage ohne die erforderliche Standortbescheini
 
 Nach Zeitaufwand gemäß Anlage 5
 
-
-## Anlage 4 – (zu § 2 i. V. m. § 1 Nummer 5)Gebührenverzeichnis nach der Sicherheitsfunk-Schutzverordnung
+# Anlage 4 – (zu § 2 i. V. m. § 1 Nummer 5)Gebührenverzeichnis nach der Sicherheitsfunk-Schutzverordnung
 
 (Fundstelle: BGBl. I 2017, 3580)
 
@@ -203,8 +191,7 @@ Nach Zeitaufwand gemäß Anlage 5
 |:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|
 |  1  | Maßnahmen zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden, nach § 3 Absatz 2 und 3, § 4 sowie § 5 Absatz 3 SchuTSEV | Nach Zeitaufwand gemäß Anlage 5 |
 
-
-## Anlage 5 – (zu § 2 i. V. m. § 1)Stundensätze
+# Anlage 5 – (zu § 2 i. V. m. § 1)Stundensätze
 
 (Fundstelle: BGBl. I 2017, 3581)
 

@@ -1,20 +1,15 @@
-# [AkkStelleGebV] Gebührenverordnung der Akkreditierungsstelle  (Akkreditierungsstellengebührenverordnung - AkkStelleGebV)
-
-Ausfertigungsdatum: 08.12.2017
-
+% Gebührenverordnung der Akkreditierungsstelle  (Akkreditierungsstellengebührenverordnung - AkkStelleGebV)
+% Ausfertigungsdatum: 08.12.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 und § 23 Absatz 8 Satz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Gebührenerhebung
+# § 1 – Gebührenerhebung
 
 Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach den Vorschriften dieser Verordnung und dem dieser Verordnung als Anlage beigefügten Gebührenverzeichnis.
 
-
-## § 2 – Begriffsbestimmung
+# § 2 – Begriffsbestimmung
 
 (1) Für die Zwecke dieser Verordnung gelten nachstehende Begriffsbestimmungen.
 
@@ -36,8 +31,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (10) Wiederholungsbegutachtung ist die Überwachung des vollständigen Geltungsbereichs der Akkreditierung einer Konformitätsbewertungsstelle einschließlich der Entscheidung über die Aufrechterhaltung der Akkreditierung.
 
-
-## § 3 – Gebührenberechnung
+# § 3 – Gebührenberechnung
 
 (1) Eine individuell zurechenbare öffentliche Leistung wird nach Zeitgebühr abgerechnet. Die Zeitgebühr ist durch Multiplikation des Stundensatzes nach Tarifstelle 7 der Anlage mit dem Zeitaufwand für die Durchführung der jeweiligen individuell zurechenbaren öffentlichen Leistung zu berechnen. Die Zeitgebühr ist für jede die Leistung durchführende Person zu erheben.
 
@@ -57,8 +51,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 7. die Einbeziehung anderer Behörden nach § 2 Absatz 3 und § 4 des Akkreditierungsstellengesetzes.
 
-
-## § 4 – Auslagen
+# § 4 – Auslagen
 
 (1) Auslagen sind auch zu erheben für
 
@@ -80,26 +73,22 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (7) Für Begutachtungen und Überwachungen nach § 2 Absatz 3 Satz 2 und 3 des Akkreditierungsstellengesetzes ist der von den Befugnis erteilenden Behörden nach den für sie geltenden gesetzlichen Bestimmungen bei der Akkreditierungsstelle einschließlich der Reisekosten geltend gemachte Aufwand zu erheben.
 
-
-## § 5 – Nichtanwendung bisherigen Rechts
+# § 5 – Nichtanwendung bisherigen Rechts
 
 § 23 Absatz 2 bis 7 des Bundesgebührengesetzes in Verbindung mit § 7 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625), der zuletzt durch Artikel 1 Absatz 2 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2540) geändert worden ist, ist nicht mehr anzuwenden.
 
-
-## § 6 – Übergangsbestimmungen
+# § 6 – Übergangsbestimmungen
 
 (1) Für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, sind Gebühren und Auslagen nach der Kostenverordnung der Akkreditierungsstelle vom 21. Dezember 2009 (BGBl. I S. 3964), die durch Artikel 2 Absatz 107 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der bis zum Ablauf des 30. Juni 2018 geltenden Fassung zu erheben.
 
 (2) Abweichend von Absatz 1 können für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung erhoben werden, soweit bei diesen Leistungen unter Hinweis auf das bevorstehende Inkrafttreten einer neuen Gebührenverordnung eine Gebührenfestsetzung nach dieser Verordnung ausdrücklich vorbehalten worden ist.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tag des siebten auf die Verkündung folgenden Kalendermonats in Kraft.
 
 (2) Gleichzeitig tritt die Kostenverordnung der Akkreditierungsstelle vom 21. Dezember 2009 (BGBl. I S. 3964), die durch Artikel 2 Absatz 107 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 1)Gebührenverzeichnis
+# Anlage – (zu § 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2017, 3879 - 3881)

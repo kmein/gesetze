@@ -1,10 +1,7 @@
-# [ZZulV] Verordnung über die Zulassung von Zusatzstoffen zu Lebensmitteln zu technologischen Zwecken  (Zusatzstoff-Zulassungsverordnung - ZZulV)
-
-Ausfertigungsdatum: 29.01.1998
-
+% Verordnung über die Zulassung von Zusatzstoffen zu Lebensmitteln zu technologischen Zwecken  (Zusatzstoff-Zulassungsverordnung - ZZulV)
+% Ausfertigungsdatum: 29.01.1998
  
-
-## § 1 – Allgemeine Vorschriften
+# § 1 – Allgemeine Vorschriften
 
 (1) Die in den Anlagen aufgeführten Zusatzstoffe sind nach Maßgabe dieser Verordnung für die Verwendung beim gewerbsmäßigen Herstellen und Behandeln von Lebensmitteln zu den in den §§ 3 bis 6a angegebenen technologischen Zwecken zugelassen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 29.01.1998
 
 (3) Die §§ 3 bis 6 gelten nicht für Zusatzstoffe, die für den Zusatz zu Trinkwasser nach Verlassen der in § 8 der Trinkwasserverordnung genannten Entnahmestellen bestimmt sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet:
 
@@ -27,8 +23,7 @@ Im Sinne dieser Verordnung bedeutet:
 
 5. "Verbraucher": Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches; dem Verbraucher stehen Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleich.
 
-
-## § 3 – Farbstoffe
+# § 3 – Farbstoffe
 
 (1) Zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln sind die in Anlage 1 aufgeführten Zusatzstoffe und deren Aluminiumlacke für die jeweils dort genannten Lebensmittel zugelassen.
 
@@ -36,15 +31,13 @@ Im Sinne dieser Verordnung bedeutet:
 
 (3) Die in Anlage 1 aufgeführten Zusatzstoffe sind zum Färben von Eiern oder zum Erzielen von Farbeffekten bei Eiern oder für Kennzeichnungen auf Schalen von Eiern im Sinne der Verordnung (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom 24.6.2008, S. 6), die durch die Verordnung (EG) Nr. 598/2008 (ABl. L 164 vom 25.6.2008, S. 14) geändert worden ist, zugelassen.
 
-
-## § 4 – Süßungsmittel
+# § 4 – Süßungsmittel
 
 (1) Zum Süßen von Lebensmitteln sind die in Anlage 2 aufgeführten Zusatzstoffe für die dort genannten Lebensmittel und für Tafelsüßen zugelassen.
 
 (2) Zusatzstoffe nach Absatz 1 sind nicht für die Herstellung von Bier zugelassen, das unter der Bezeichnung "nach dem deutschen Reinheitsgebot gebraut" oder gleichsinnigen Angaben in den Verkehr gebracht wird.
 
-
-## § 5 – Andere Zusatzstoffe als Farbstoffe und Süßungsmittel
+# § 5 – Andere Zusatzstoffe als Farbstoffe und Süßungsmittel
 
 (1) Die in den Anlagen 3, 4 und 5 aufgeführten Zusatzstoffe sind für die dort genannten Lebensmittel zu den in Anlage 7 angegebenen technologischen Zwecken zugelassen.
 
@@ -56,18 +49,15 @@ Im Sinne dieser Verordnung bedeutet:
 
 2. Kohlendioxid und Stickstoff, wenn sie bis auf technisch unvermeidbare Mengen nicht in das Bier übergehen; eine Erhöhung des Kohlensäuregehaltes des Bieres darf durch die Verwendung nicht eintreten.
 
-
-## § 6 – Zusatzstoffe für Säuglings- und Kleinkindernahrung
+# § 6 – Zusatzstoffe für Säuglings- und Kleinkindernahrung
 
 Die in Anlage 6 aufgeführten Zusatzstoffe sind für die dort genannten Lebensmittel zu den in Anlage 7 angegebenen technologischen Zwecken zugelassen.
 
-
-## § 6a – Zusatzstoffe für Trinkwasser
+# § 6a – Zusatzstoffe für Trinkwasser
 
 Für den Zusatz zu Trinkwasser nach Verlassen der in § 8 der Trinkwasserverordnung genannten Entnahmestellen sind die in Anlage 6a Spalte 2 aufgeführten Zusatzstoffe einschließlich ihrer Ionen, sofern diese durch Ionenaustauscher oder Elektrolyse zugefügt werden, zu den in Spalte 3 jeweils genannten technologischen Zwecken zugelassen.
 
-
-## § 7 – Höchstmengenfestsetzungen
+# § 7 – Höchstmengenfestsetzungen
 
 (1) Bei dem Herstellen oder Behandeln von Lebensmitteln, die in den Anlagen 1 bis 6a aufgeführt und die dazu bestimmt sind, in den Verkehr gebracht zu werden, dürfen die nach § 3 Abs. 1, § 4 Abs. 1, § 5 Abs. 1, § 6 und § 6a zugelassenen Zusatzstoffe über die in den Anlagen jeweils festgesetzten Höchstmengen, auch im Sinne des Absatzes 2, hinaus nicht verwendet werden. Bei den in Anlage 1 aufgeführten Lebensmitteln ist die Höchstmenge auf die Menge der färbenden Anteile des Zusatzstoffes zu beziehen.
 
@@ -75,8 +65,7 @@ Für den Zusatz zu Trinkwasser nach Verlassen der in § 8 der Trinkwasserverordn
 
 (3) Sofern in den Anlagen für Lebensmittel mehrere Zusatzstoffe mit einer gemeinsamen Höchstmenge zugelassen sind, dürfen diese Stoffe vorbehaltlich besonderer Regelungen einzeln oder insgesamt bis zu dieser Höchstmenge verwendet werden.
 
-
-## § 8 – Verwendung von Lebensmitteln mit Zusatzstoffen
+# § 8 – Verwendung von Lebensmitteln mit Zusatzstoffen
 
 (1) Lebensmitteln, die als Zutat für ein anderes Lebensmittel bestimmt sind, dürfen auch die Zusatzstoffe zugesetzt werden, die nur für das andere Lebensmittel zugelassen sind.
 
@@ -90,8 +79,7 @@ Für den Zusatz zu Trinkwasser nach Verlassen der in § 8 der Trinkwasserverordn
 
 (6) Die Absätze 1 bis 5 gelten nicht für Säuglings- und Kleinkindernahrung, sofern in Anlage 6 nichts anderes bestimmt ist.
 
-
-## § 9 – Kenntlichmachung
+# § 9 – Kenntlichmachung
 
 (1) Der Gehalt an Zusatzstoffen in Lebensmitteln muß bei der Abgabe an Verbraucher wie folgt nach Absatz 6 kenntlich gemacht werden:
 
@@ -163,8 +151,7 @@ Die Angabe nach Absatz 1 Nr. 5 kann ferner entfallen, sofern Schwefeldioxid oder
 
 mit den dort bezeichneten Angaben versehen ist.
 
-
-## § 9a – Übergangsvorschrift
+# § 9a – Übergangsvorschrift
 
 (1) Bis zum 31. Dezember 2000 dürfen Lebensmittel, die den Vorschriften dieser Verordnung nicht entsprechen, nach den bis zum 25. November 2000 geltenden Vorschriften hergestellt, behandelt, gekennzeichnet und bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
@@ -176,13 +163,11 @@ mit den dort bezeichneten Angaben versehen ist.
 
 (5) (weggefallen)
 
-
-## § 9b – Weitergeltung der Regelungen der Lebensmittel-Kennzeichnungsverordnung
+# § 9b – Weitergeltung der Regelungen der Lebensmittel-Kennzeichnungsverordnung
 
 Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden.
 
-
-## § 10 – Straftaten und Ordnungswidrigkeiten
+# § 10 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig
 
@@ -200,8 +185,7 @@ Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder V
 
 (5) Wer eine in den Absätzen 2 bis 4a bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
-
-## Anlage 1 – (zu § 3 Abs. 1 und § 7)Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
+# Anlage 1 – (zu § 3 Abs. 1 und § 7)Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind
 
 (Fundstelle: BGBl. I 1998, 234 - 239;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3266,8 +3250,7 @@ Braun HT (jeweils nur zur Kennzeichnung)
 
 )
 
-
-## Anlage 2 – (zu § 4 Abs. 1 und § 7) Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
+# Anlage 2 – (zu § 4 Abs. 1 und § 7) Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 1998, 240 - 243;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3477,8 +3460,7 @@ E 968
 
 Erythrit
 
-
-## Anlage 3 – (zu § 5 Abs. 1 und § 7)  Allgemein zugelassene Zusatzstoffe
+# Anlage 3 – (zu § 5 Abs. 1 und § 7)  Allgemein zugelassene Zusatzstoffe
 
 Fundstelle des Originaltextes: BGBl. I 1998, 244;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -3541,8 +3523,7 @@ Stickstoff
 
 Luft
 
-
-## Anlage 4 – (zu § 5 Abs. 1 und § 7)Begrenzt zugelassene Zusatzstoffe
+# Anlage 4 – (zu § 5 Abs. 1 und § 7)Begrenzt zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1521 - 1536;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9459,8 +9440,7 @@ Acetylierte oxidierte Stärke
 \*)  
 Kakao- und Schokoladenerzeugnisse mit verringertem Energiegehalt oder ohne Zuckerzusatz fallen nicht unter Anhang 4 Teil C.
 
-
-## Anlage 5 – (zu § 5 Abs. 1 und § 7)Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind
+# Anlage 5 – (zu § 5 Abs. 1 und § 7)Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind
 
 (Fundstelle: BGBl. I 2000, 1537 - 1545;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11959,8 +11939,7 @@ Frische, gefrorene und tiefgefrorene Krebstiere
 <span id="FnA4-f770809_02"></span><a href="#FnR.FnA4-f770809_02" class="Footnote">*)</a>  
 Bei gemeinsamer Verwendung von Gallaten, TBHQ, BHA und BHT sind die Einzelmengen prozentual zu reduzieren.
 
-
-## Anlage 6 – (zu § 6 und § 7)In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe
+# Anlage 6 – (zu § 6 und § 7)In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe
 
 (Fundstelle: BGBl. I 2000, 1545 - 1549;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -11969,10 +11948,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
                                       Teil A 
 
-Nahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile B, C, D und E dürfen E 414 (Gummi arabicum) und E 551 (Siliciumdioxid) enthalten, die sich aus dem Zusatz von Zubereitungen ergeben, die nicht mehr als 150 g/kg an E 414 und nicht mehr als 10 g/kg an E 551 enthalten; ferner ist der Zusatz von E 421 (Mannit) zulässig, sofern dieser als Trägerstoff für Vitamin B(tief)12 dient (Verhältnis Vitamin B(tief)12: Mannit nicht kleiner als 1:1 000). Der Restgehalt an E 414 in dem verzehrfertigen Erzeugnis sollte nicht mehr als 10 mg/kg betragen.  
-Nahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile B, C, D und E dürfen E 1450 (Stärkenatriumoctenylsuccinat) enthalten, das sich aus dem Zusatz von Vitaminpräparaten oder von Zubereitungen mit mehrfach ungesättigten Fettsäuren ergibt. In dem verzehrfertigen Erzeugnis dürfen nicht mehr als 100 mg/kg E 1450 aus Vitaminpräparaten und nicht mehr als 1 000 mg/kg E 1450 aus Zubereitungen mit mehrfach ungesättigten Fettsäuren enthalten sein.  
-Nahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile B, C, D und E dürfen E 301 (Natriumascorbat) in den Umhüllungen von Lebensmittelzubereitungen mit mehrfach ungesättigten Fettsäuren auf qs-Ebene enthalten. Der Restgehalt von E 301 in dem verzehrfertigen Erzeugnis darf nicht mehr als 75 mg/l betragen.  
-
+Nahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile B, C, D und E dürfen E 414 (Gummi arabicum) und E 551 (Siliciumdioxid) enthalten, die sich aus dem Zusatz von Zubereitungen ergeben, die nicht mehr als 150 g/kg an E 414 und nicht mehr als 10 g/kg an E 551 enthalten; ferner ist der Zusatz von E 421 (Mannit) zulässig, sofern dieser als Trägerstoff für Vitamin B(tief)12 dient (Verhältnis Vitamin B(tief)12: Mannit nicht kleiner als 1:1 000). Der Restgehalt an E 414 in dem verzehrfertigen Erzeugnis sollte nicht mehr als 10 mg/kg betragen. Nahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile B, C, D und E dürfen E 1450 (Stärkenatriumoctenylsuccinat) enthalten, das sich aus dem Zusatz von Vitaminpräparaten oder von Zubereitungen mit mehrfach ungesättigten Fettsäuren ergibt. In dem verzehrfertigen Erzeugnis dürfen nicht mehr als 100 mg/kg E 1450 aus Vitaminpräparaten und nicht mehr als 1 000 mg/kg E 1450 aus Zubereitungen mit mehrfach ungesättigten Fettsäuren enthalten sein. Nahrungen für Säuglinge und Kleinkinder nach Maßgabe der Teile B, C, D und E dürfen E 301 (Natriumascorbat) in den Umhüllungen von Lebensmittelzubereitungen mit mehrfach ungesättigten Fettsäuren auf qs-Ebene enthalten. Der Restgehalt von E 301 in dem verzehrfertigen Erzeugnis darf nicht mehr als 75 mg/l betragen. 
 Teil B  
 In Säuglingsanfangsnahrung zugelassene Zusatzstoffe
 
@@ -12985,8 +12961,7 @@ In Säuglingsanfangsnahrung und -folgenahrung
 
 1) Ferner gelten, soweit dort nichts anderes geregelt ist, die Zulassungen nach Maßgabe der Teile B, C und D.
 
-
-## Anlage 6a – (zu § 6a)  Zusatzstoffe, die für Trinkwasser zugelassen sind
+# Anlage 6a – (zu § 6a)  Zusatzstoffe, die für Trinkwasser zugelassen sind
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 1399 - 1400)
 
@@ -13136,8 +13111,7 @@ Natriumsilberchloridkomplex,
 
 Silbernitrat
 
-
-## Anlage 7 – (zu § 5 Abs. 1)Zusatzstoffe für bestimmte technologische Zwecke
+# Anlage 7 – (zu § 5 Abs. 1)Zusatzstoffe für bestimmte technologische Zwecke
 
 Fundstelle des Originaltextes: BGBl. I 1998, 268 - 269;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

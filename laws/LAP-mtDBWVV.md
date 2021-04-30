@@ -1,15 +1,11 @@
-# [LAP-mtDBWVV] Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren technischen Dienst in der Bundeswehrverwaltung - Fachrichtung Wehrtechnik -  (LAP-mtDBWVV)
-
-Ausfertigungsdatum: 17.04.2002
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren technischen Dienst in der Bundeswehrverwaltung - Fachrichtung Wehrtechnik -  (LAP-mtDBWVV)
+% Ausfertigungsdatum: 17.04.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 8. März 1990 (BGBl. I S. 449, 863), der durch Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I S. 706) neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -181,8 +177,7 @@ Sonstige Vorschriften
 
 Inkrafttreten
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des mittleren technischen Dienstes in der Bundeswehrverwaltung - Fachrichtung Wehrtechnik - mit den Fachgebieten
 
@@ -221,20 +216,17 @@ umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn.
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
-## § 2 – Ziel der Ausbildung
+# § 2 – Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den Beamtinnen und Beamten die berufliche Grundbildung, die sie zur Aufgabenerfüllung in ihrer Laufbahn benötigen. Insbesondere werden die Beamtinnen und Beamten mit den Aufgaben der Wehrtechnik und in allgemeiner Form mit den Fachgebieten Verwaltung und Recht vertraut gemacht. Sie werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung für die freiheitliche demokratische Grundordnung hingewiesen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt. Die Beamtinnen und Beamten erwerben europaspezifische Kenntnisse. Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns und zum selbständigen und wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 
 (2) Die Beamtinnen und Beamten werden befähigt, sich eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet; das Selbststudium ist zu fördern.
 
-
-## § 3 – Einstellungsbehörde
+# § 3 – Einstellungsbehörde
 
 Einstellungsbehörde ist das Bundesamt für Wehrtechnik und Beschaffung. Ihm obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung und die Betreuung der Anwärterinnen und Anwärter; es trifft die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung. Die Einstellungsbehörde ist die für die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -242,8 +234,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 2. mindestens den Hauptschulabschluss und eine förderliche abgeschlossene Berufsausbildung (Gesellenprüfung, Meisterprüfung, Abschlussprüfung als staatlich geprüfte Technikerin oder staatlich geprüfter Techniker) oder einen als gleichwertig anerkannten Bildungsstand nachweist.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -265,8 +256,7 @@ b) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätig
 
 c) Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes und über Wehrübungen erteilt wurden.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -282,8 +272,7 @@ c) Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes und übe
 
 (7) Die Mitglieder und Ersatzmitglieder der Auswahlkommission werden von der Einstellungsbehörde und dem Bundesamt für Informationsmanagement und Informationstechnik der Bundeswehr für die Dauer von drei Jahren bestellt; eine Wiederbestellung ist zulässig.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörde entscheidet nach dem Ergebnis des Auswahlverfahrens über die Einstellung von Bewerberinnen und Bewerbern.
 
@@ -305,15 +294,13 @@ b) in geordneten wirtschaftlichen Verhältnissen lebt.
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde. Anstelle der Kostenübernahme kann die Bundeswehrverwaltung die Einstellungsuntersuchung selbst vornehmen.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Technischen Regierungsobersekretäranwärterinnen und Bewerber zu Technischen Regierungsobersekretäranwärtern ernannt.
 
 (2) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht des Bundesamtes für Wehrtechnik und Beschaffung. Während der Ausbildung an einer Bundeswehrverwaltungsschule unterstehen sie auch deren Dienstaufsicht.
 
-
-## § 9 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+# § 9 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
@@ -337,18 +324,15 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 36.
 
-
-## § 10 – Urlaub während des Vorbereitungsdienstes
+# § 10 – Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 11 – Ausbildungsakte
+# § 11 – Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung" zu führen, in die der Ausbildungsplan, alle Leistungsnachweise und alle Bewertungen sowie eine Ausfertigung des Prüfungszeugnisses aufzunehmen sind.
 
-
-## § 12 – Schwerbehinderte Menschen
+# § 12 – Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für die Erbringung von Leistungsnachweisen und für die Teilnahme an Prüfungen die ihrer Behinderung angemessenen Erleichterungen gewährt. Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu gewährenden Erleichterungen sind mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung rechtzeitig, sofern dies zeitlich möglich ist, zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden. Die Sätze 1 bis 4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 
@@ -356,8 +340,7 @@ Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung" zu fü
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das Prüfungsamt.
 
-
-## § 13 – Gliederung des Vorbereitungsdienstes
+# § 13 – Gliederung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst gliedert sich in folgende Ausbildungsabschnitte:  
   
@@ -371,25 +354,21 @@ Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung" zu fü
 
 (2) Von der Reihenfolge der einzelnen Ausbildungsabschnitte kann abgewichen werden. Die Abweichungen ergeben sich aus dem Ausbildungsplan. Die Ausbildung kann durch Exkursionen zu Behörden, Gerichten, Truppenteilen und industriellen, kaufmännischen oder kulturellen Einrichtungen ergänzt werden. Die jeweilige Exkursion ordnet die Leitung der Ausbildungsdienststelle an.
 
-
-## § 14 – Einführungslehrgang
+# § 14 – Einführungslehrgang
 
 Schwerpunkt des Einführungslehrgangs ist die Vermittlung und Vertiefung mathematischer und technischer Kenntnisse. Außerdem werden ein Überblick über die Organisation der Bundeswehr mit besonderer Berücksichtigung des Rüstungsbereichs und eine Einführung in das jeweilige wehrtechnische Fachgebiet gegeben. Die Anwärterinnen und Anwärter sollen am Ende des Lehrgangs über ein Grundwissen verfügen, auf dem die weitere Ausbildung aufbaut. Einzelheiten regelt der Lehrplan.
 
-
-## § 15 – Lehrgang Allgemeine Rechts- und Verwaltungsgrundlagen
+# § 15 – Lehrgang Allgemeine Rechts- und Verwaltungsgrundlagen
 
 Im Lehrgang Allgemeine Rechts- und Verwaltungsgrundlagen werden die Anwärterinnen und Anwärter mit den Grundzügen des Staats- und Verwaltungsrechts sowie spezialgesetzlichen Bestimmungen und Verwaltungsvorschriften, soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertraut gemacht. Einzelheiten regelt der Lehrplan.
 
-
-## § 16 – Praktische Ausbildung
+# § 16 – Praktische Ausbildung
 
 (1) In der praktischen Ausbildung bei Dienststellen im Geschäftsbereich des Bundesministeriums der Verteidigung vertiefen die Anwärterinnen und Anwärter die in der bisherigen fachtheoretischen Ausbildung erworbenen Kenntnisse und lernen, sie in der Praxis anzuwenden. Die Anwärterinnen und Anwärter werden mit den besonderen Belangen der Bundeswehrverwaltung vertraut gemacht. Ihnen werden Kenntnisse über die allgemeinen Grundlagen der Wehrtechnik vermittelt und sie erhalten Gelegenheit, das ihrem Fachgebiet entsprechende Wehrmaterial, insbesondere dessen Bedienung, Wartung, Pflege, Instandhaltung und Lagerung kennen zu lernen. Sie werden zur selbständigen und eigenverantwortlichen Arbeit angeleitet. Einzelheiten regelt der Ausbildungsplan.
 
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
-## § 17 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
+# § 17 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
 (1) Das Bundesministerium der Verteidigung bestellt bei der Einstellungsbehörde eine Beamtin oder einen Beamten des höheren technischen Dienstes als Ausbildungsleitung. Die Ausbildungsleitung lenkt und überwacht die Ausbildung der Anwärterinnen und Anwärter und stellt eine sorgfältige Ausbildung sicher. Sie erstellt einen Ausbildungsplan für die gesamte Ausbildung, aus dem sich die Ausbildungsstellen und Einzelheiten der Ausbildung ergeben. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
@@ -399,8 +378,7 @@ Im Lehrgang Allgemeine Rechts- und Verwaltungsgrundlagen werden die Anwärterinn
 
 (4) Vor Beginn der praktischen Ausbildung wird von den Ausbildungsbeauftragten für jede Anwärterin und jeden Anwärter ein dienststellenbezogener Ausbildungsplan aufgestellt, aus dem sich die Ausbildungsstationen ergeben. Dieser Plan wird der Einstellungsbehörde vorgelegt; die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
-## § 18 – Abschlusslehrgang
+# § 18 – Abschlusslehrgang
 
 (1) Im Abschlusslehrgang werden die bisher erworbenen Kenntnisse so vertieft und ergänzt, dass die Anwärterinnen und Anwärter befähigt sind, den Anforderungen ihrer Laufbahn hinsichtlich Selbständigkeit und Methodik zu genügen.
 
@@ -518,8 +496,7 @@ Einzelheiten regelt der Lehrplan.
 
 (3) Den Anwärterinnen und Anwärtern werden außerdem Grundlagen der Informationstechnik einschließlich der praktischen Anwendung vermittelt.
 
-
-## § 19 – Leistungsnachweise und Bewertungen während der Lehrgänge
+# § 19 – Leistungsnachweise und Bewertungen während der Lehrgänge
 
 (1) Während der Lehrgänge sind folgende schriftliche Aufsichtsarbeiten von jeweils drei Stunden Dauer zu fertigen:
 
@@ -539,8 +516,7 @@ Einzelheiten regelt der Lehrplan.
 
 (7) Am Ende des Lehrgangs Allgemeine Rechts- und Verwaltungsgrundlagen sowie zum Abschluss der gesamten fachtheoretischen Ausbildung werden in einer Bewertung die Leistungen der Anwärterin oder des Anwärters festgestellt. Die Bewertung enthält die Rangpunktzahlen der Aufsichtsarbeiten gemäß Absatz 1 sowie die Durchschnittspunktzahlen des Leistungsnachweises gemäß Absatz 3 und der sonstigen Leistungen gemäß Absatz 4; sie schließt mit einer nach § 32 Abs. 1 Satz 2 ermittelten Durchschnittspunktzahl. Bei der Ermittlung der Durchschnittspunktzahl werden die schriftlichen Aufsichtsarbeiten vierfach, der Leistungsnachweis gemäß Absatz 3 zweifach und die sonstigen Leistungen einfach gewertet. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung der Bewertung.
 
-
-## § 20 – Bewertungen während der praktischen Ausbildung
+# § 20 – Bewertungen während der praktischen Ausbildung
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und Anwärter wird für jeden Teil der praktischen Ausbildung, der nach dem Ausbildungsplan mindestens einen Monat umfasst, ein Beitrag zur Bewertung nach § 32 abgegeben.
 
@@ -548,18 +524,15 @@ Einzelheiten regelt der Lehrplan.
 
 (3) Die Beiträge nach Absatz 1 und die Bewertung nach Absatz 2 werden auf der Grundlage eines Entwurfs mit den Anwärterinnen und Anwärtern besprochen. Sie sind ihnen zu eröffnen. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung der Bewertung und der Beiträge und können dazu schriftlich oder elektronisch Stellung nehmen.
 
-
-## §§ 21 und 22 – (weggefallen)
+# §§ 21 und 22 – (weggefallen)
 
 \-
 
-
-## § 23 – Prüfungsamt
+# § 23 – Prüfungsamt
 
 Dem beim Bundesministerium der Verteidigung eingerichteten Prüfungsamt obliegt die Durchführung der Laufbahnprüfung; es trägt Sorge für die Entwicklung und gleichmäßige Anwendung der Bewertungsmaßstäbe und vollzieht die Entscheidungen der Prüfungskommission. Die Aufgaben des Prüfungsamtes können ganz oder teilweise auf andere Behörden übertragen werden.
 
-
-## § 24 – Prüfungskommission
+# § 24 – Prüfungskommission
 
 (1) Die Laufbahnprüfung wird vor einer Prüfungskommission des jeweiligen Fachgebiets abgelegt; für die schriftliche und mündliche Prüfung können gesonderte Prüfungskommissionen eingerichtet werden. Es können in einem wehrtechnischen Fachgebiet mehrere Kommissionen eingerichtet werden, wenn die Zahl der zu prüfenden Anwärterinnen und Anwärter, die Zeitplanung zum fristgemäßen Abschluss der Prüfung oder fachliche Gesichtspunkte in Bezug auf die Bewertung der schriftlichen Prüfungsarbeiten dies erfordern; die gleichmäßige Anwendung der Bewertungsmaßstäbe muss gewährleistet sein. Die Mitglieder und Ersatzmitglieder der Prüfungskommissionen bestellt das Prüfungsamt. Die Spitzenorganisationen der Gewerkschaften und Berufsverbände des öffentlichen Dienstes können Mitglieder vorschlagen. Die Mitglieder und Ersatzmitglieder werden für die Dauer von höchstens drei Jahren bestellt. Eine Wiederbestellung ist zulässig.
 
@@ -593,8 +566,7 @@ d) eine Beamtin oder ein Beamter des mittleren technischen Dienstes in der Bunde
 
 (6) Bei Bildung gesonderter Prüfungskommissionen kann das Prüfungsamt eine Beamtin oder einen Beamten des höheren technischen Dienstes mit der Leitung der schriftlichen sowie der mündlichen Prüfung beauftragen.
 
-
-## § 25 – Inhalt und Durchführung der Laufbahnprüfung
+# § 25 – Inhalt und Durchführung der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und Anwärter für die vorgesehene Laufbahn befähigt sind.
 
@@ -606,8 +578,7 @@ d) eine Beamtin oder ein Beamter des mittleren technischen Dienstes in der Bunde
 
 (5) Die Prüfung ist nicht öffentlich. Angehörige des Prüfungsamtes können teilnehmen. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums der Verteidigung und der Einstellungsbehörde, der Direktorin oder dem Direktor und den Lehrenden der Bundeswehrverwaltungsschule I - Technik, in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen die Anwesenheit in der mündlichen Prüfung allgemein oder im Einzelfall gestatten. Auf Wunsch von schwerbehinderten Anwärterinnen und Anwärtern kann während des sie betreffenden mündlichen Teils der Prüfung die Schwerbehindertenvertretung anwesend sein. Bei der Beratung der Prüfungskommission über die Bewertung der Prüfungsleistungen dürfen nur deren Mitglieder anwesend sein.
 
-
-## § 26 – Prüfungsort, Prüfungstermin
+# § 26 – Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen und der mündlichen Prüfung fest.
 
@@ -615,8 +586,7 @@ d) eine Beamtin oder ein Beamter des mittleren technischen Dienstes in der Bunde
 
 (3) Das Prüfungsamt trägt dafür Sorge, dass den Anwärterinnen und Anwärtern Ort und Zeit der schriftlichen und der mündlichen Prüfung rechtzeitig mitgeteilt werden.
 
-
-## § 27 – Schriftliche Prüfung
+# § 27 – Schriftliche Prüfung
 
 (1) Die Prüfungsaufgaben der schriftlichen Prüfung bestimmt das Prüfungsamt. Jeweils eine Aufgabe der vier schriftlichen Arbeiten ist aus
 
@@ -644,15 +614,13 @@ auszuwählen.
 
 (8) Erscheinen Anwärterinnen oder Anwärter verspätet zu einer Prüfungsarbeit und wird nicht nach § 30 Abs. 3 verfahren, gilt die versäumte Zeit als Bearbeitungszeit.
 
-
-## § 28 – Zulassung zur mündlichen Prüfung
+# § 28 – Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen Prüfung zu, wenn drei oder mehr schriftliche Prüfungsarbeiten mindestens mit der Note "ausreichend" bewertet worden sind. Andernfalls ist die Prüfung nicht bestanden.
 
 (2) Die Bundeswehrverwaltungsschule I - Technik - teilt den Anwärterinnen und Anwärtern im Auftrag des Prüfungsamtes die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit. Dabei gibt sie den zugelassenen Anwärterinnen und Anwärtern die von ihnen in den einzelnen schriftlichen Prüfungsarbeiten erzielten Rangpunkte bekannt, wenn sie dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
 
-
-## § 29 – Mündliche Prüfung
+# § 29 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung erstreckt sich auf den gesamten Ausbildungsinhalt des Vorbereitungsdienstes, aufgeteilt auf die Gebiete
 
@@ -672,8 +640,7 @@ auszuwählen.
 
 (5) Über den Ablauf der Prüfung wird ein Protokoll durch die Mitglieder der jeweiligen Prüfungskommission schriftlich oder elektronisch gefertigt.
 
-
-## § 30 – Verhinderung, Rücktritt, Säumnis
+# § 30 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines amts-, vertrauens- oder personalärztlichen Zeugnisses oder des Zeugnisses einer beamteten Ärztin oder eines beamteten Arztes nachzuweisen; ein privatärztliches Zeugnis kann anerkannt werden.
 
@@ -683,8 +650,7 @@ auszuwählen.
 
 (4) Versäumen Anwärterinnen oder Anwärter die schriftliche oder die mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 31 – Täuschung, Ordnungsverstoß
+# § 31 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung des Prüfungsamtes oder der Prüfungskommission nach Absatz 2 über die weitere Fortsetzung der Prüfung gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -694,8 +660,7 @@ auszuwählen.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören.
 
-
-## § 32 – Bewertung von Prüfungsleistungen
+# § 32 – Bewertung von Prüfungsleistungen
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
 
@@ -738,8 +703,7 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 
 (5) Wenn nach der Art des Leistungsnachweises oder der Prüfungsarbeit die Bewertung nach Absatz 2 nicht durchführbar ist, werden den Grundsätzen der Absätze 3 und 4 entsprechend für den unteren Rangpunkt jeder Note typische Anforderungen festgelegt. Von diesen Anforderungen aus wird die Erteilung des der Leistung entsprechenden Rangpunktes begründet. Für die Bewertung mündlicher Leistungen gelten diese Grundsätze sinngemäß.
 
-
-## § 33 – Gesamtergebnis
+# § 33 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote fest. Dabei werden berücksichtigt  
   
@@ -762,8 +726,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (4) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift zu fertigen.
 
-
-## § 34 – Zeugnis
+# § 34 – Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die Prüfung bestanden haben, ein Prüfungszeugnis, das mindestens die Abschlussnote sowie die nach § 33 Abs. 1 Satz 2 errechnete Durchschnittspunktzahl enthält. Ist die Prüfung nicht bestanden, gibt das Prüfungsamt dies den Anwärterinnen und Anwärtern schriftlich bekannt. Das Zeugnis nach Satz 1 und die Bekanntgabe nach Satz 2 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalgrundakten genommen. Das Beamtenverhältnis auf Widerruf endet bei Bestehen oder endgültigem Nichtbestehen der Laufbahnprüfung mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
@@ -771,26 +734,22 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den Fällen des § 31 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
-## § 35 – Prüfungsakten, Einsichtnahme
+# § 35 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Bewertungen für die Ausbildungsabschnitte sowie des Laufbahnprüfungszeugnisses ist mit den schriftlichen Aufsichtsarbeiten der Laufbahnprüfung und der Niederschrift über die Laufbahnprüfung zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden bei der Bundeswehrverwaltungsschule I - Technik - mindestens fünf Jahre aufbewahrt.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der mündlichen Prüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 36 – Wiederholung
+# § 36 – Wiederholung
 
 (1) Wer die Prüfung nicht bestanden hat, kann diese einmal wiederholen; das Bundesministerium der Verteidigung kann in begründeten Fällen eine zweite Wiederholung zulassen. Prüfungen sind vollständig zu wiederholen.
 
 (2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission, innerhalb welcher Frist die Prüfung wiederholt werden kann, welche Teile der Ausbildung zu wiederholen und welche Leistungsnachweise zu erbringen sind. Die Wiederholungsfrist soll mindestens sechs Monate betragen und ein Jahr nicht überschreiten. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verlängert. Die Wiederholungsprüfung soll zusammen mit den Anwärterinnen und Anwärtern der nächsten oder übernächsten Laufbahnprüfung abgelegt werden.
 
-
-## § 37 – Übergangsregelung
+# § 37 – Übergangsregelung
 
 Anwärterinnen und Anwärter, die vor dem 2. April 2001 ihren Vorbereitungsdienst begonnen haben, setzen die Ausbildung nach den bisher geltenden Bestimmungen fort.
 
-
-## § 38 – Inkrafttreten
+# § 38 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,15 +1,11 @@
-# [LAP-mDAAV 2004] Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Auswärtigen Dienst
-
-Ausfertigungsdatum: 28.07.2004
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Auswärtigen Dienst
+% Ausfertigungsdatum: 28.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -171,8 +167,7 @@ Schwerbehinderte Menschen
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des mittleren Auswärtigen Dienstes umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn.
 
@@ -190,20 +185,17 @@ Inkrafttreten, Außerkrafttreten
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
-## § 2 – Ziel und Inhalt der Ausbildung
+# § 2 – Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat bei der Erfüllung ihrer Aufgaben vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung für die freiheitliche demokratische Grundordnung hingewiesen. Ihre Ausbildung führt zur Berufsbefähigung. Sie vermittelt ihnen die theoretischen und berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die sie zur Erfüllung der Aufgaben in ihrer Laufbahn benötigen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt und europarelevante Kenntnisse vermittelt. Auch die allgemeinen beruflichen Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns, zum selbständigen und wirtschaftlichen Handeln sowie soziale und interkulturelle Kompetenz sind zu fördern. Auf den Praxisbezug der Ausbildung ist besonderer Wert zu legen.
 
 (2) Die Beamtinnen und Beamten werden befähigt, sich eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet.
 
-
-## § 3 – Einstellungsbehörde
+# § 3 – Einstellungsbehörde
 
 Einstellungsbehörde ist das Auswärtige Amt. Ihm obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung und die Begleitung sowie die Unterstützung der Anwärterinnen und Anwärter; es trifft die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung. Das Auswärtige Amt ist die für die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -219,8 +211,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 6. eine widerstandsfähige Gesundheit besitzt und für die Verwendung in allen Einsatzgebieten des Auswärtigen Dienstes gesundheitlich uneingeschränkt geeignet ist, wobei auch Ehepartnerin, Ehepartner, Lebenspartnerin oder Lebenspartner und Kinder diese Voraussetzung erfüllen müssen.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -246,8 +237,7 @@ b) eine Ablichtung des Schwerbehindertenausweises oder des Bescheides über die 
 
 c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -287,8 +277,7 @@ Die Vertretungen der übrigen Ausschussmitglieder werden von der Leiterin oder d
 
 (10) Im Falle einer erfolglosen Teilnahme am mündlichen Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig. In begründeten Einzelfällen kann der Auswahlausschuss eine frühere oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Staatssekretärin oder der Staatssekretär des Auswärtigen Amts entscheidet nach dem Ergebnis des Auswahlverfahrens und unter Berücksichtigung des Bedarfs über die Einstellung der Bewerberinnen und Bewerber.
 
@@ -306,15 +295,13 @@ Das Auswärtige Amt kann die Beibringung weiterer Unterlagen verlangen, die für
 
 (3) Die Bewerberinnen und Bewerber sowie gegebenenfalls ihre Ehepartnerinnen, Ehepartner, Lebenspartnerinnen oder Lebenspartner und Kinder haben ihre gesundheitliche Eignung gemäß § 4 Nummer 6 durch ein Gesundheitszeugnis des Gesundheitsdienstes des Auswärtigen Amts nachzuweisen, durch den oder in dessen Auftrag die Untersuchung durchgeführt wird. Die Kosten der Untersuchung trägt das Auswärtige Amt.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Regierungssekretäranwärterinnen und Bewerber zu Regierungssekretäranwärtern ernannt. Sie unterstehen der Dienstaufsicht des Auswärtigen Amts.
 
 (2) Bei der Gewährung von Urlaub sind Ausbildungsbelange zu berücksichtigen. Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 9 – Dauer des Vorbereitungsdienstes
+# § 9 – Dauer des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert 24 Monate.
 
@@ -338,8 +325,7 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 28 Abs. 2.
 
-
-## § 10 – Gliederung des Vorbereitungsdienstes
+# § 10 – Gliederung des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktischen Ausbildung (Praktika) und wird in folgenden Abschnitten durchgeführt:  
 
@@ -350,8 +336,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 | 3\. | Auslandspraktikum                                                                                                                               | 8 bis 10 Monate, |
 | 4\. | Schlusslehrgang                                                                                                                                 |  6 bis 7 Monate. |
 
-
-## § 11 – Fachtheoretische Ausbildung
+# § 11 – Fachtheoretische Ausbildung
 
 (1) Im Einführungslehrgang werden die Anwärterinnen und Anwärter in Schwerpunktbereiche der Laufbahnaufgaben eingeführt und mit dem Aufbau und den Aufgaben des Auswärtigen Amts und sonstiger Behörden vertraut gemacht.
 
@@ -359,15 +344,13 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (3) Die Ausbildung soll die Fähigkeit zu bürgergerechtem Verhalten fördern.
 
-
-## § 12 – Fremdsprachliche Ausbildung
+# § 12 – Fremdsprachliche Ausbildung
 
 (1) Im Rahmen der fachtheoretischen Ausbildung erhalten die Anwärterinnen und Anwärter Unterricht in der englischen Sprache als Hauptsprache und in einer Nebensprache. Die Wahl der Nebensprache richtet sich nach vorhandenen Vorkenntnissen und den dienstlichen Erfordernissen.
 
 (2) Wer in einem Test Kenntnisse der englischen Sprache auf dem Niveau der Laufbahnprüfung nachweist, kann auf Antrag für den Unterricht in anderen Sprachen freigestellt werden.
 
-
-## § 13 – Praktische Ausbildung
+# § 13 – Praktische Ausbildung
 
 (1) In der praktischen Ausbildung sollen die Anwärterinnen und Anwärter Kenntnisse und Erfahrungen auf der Grundlage der fachtheoretischen Ausbildung erwerben, die dort erworbenen Kenntnisse vertiefen und lernen, sie in der Praxis anzuwenden. Die Anwärterinnen und Anwärter werden in Schwerpunktbereichen der Laufbahn des mittleren Auswärtigen Dienstes mit den wesentlichen Aufgaben des Auswärtigen Amts, den Arbeitsabläufen und dem Zusammenwirken innerhalb des Amts und mit anderen Dienststellen vertraut gemacht. Je nach dem Ausbildungsstand und den organisatorischen Möglichkeiten sollen sie einzelne Geschäftsvorgänge, die typisch für Aufgaben ihrer Laufbahn sind, selbständig bearbeiten und an dienstlichen Veranstaltungen, die ihrer Ausbildung förderlich sind, teilnehmen.
 
@@ -383,8 +366,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (5) Die Anwärterinnen und Anwärter haben zu von der Ausbildungsleitung vorzugebenden Terminen jeweils einen Bericht über den Stand der Ausbildung im Auslandspraktikum an die Aus- und Fortbildungsstätte zu übersenden.
 
-
-## § 14 – Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
+# § 14 – Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
 (1) Jede Arbeitseinheit oder Auslandsvertretung, der Anwärterinnen und Anwärter zur Ausbildung zugewiesen werden, bestellt eine Beamtin oder einen Beamten als Ausbildungsleitung, die für die ordnungsgemäße Durchführung des Praktikums verantwortlich ist; außerdem bestellt sie Ausbilderinnen und Ausbilder und bestimmt die Vertretung der Ausbildungsleitung.
 
@@ -394,8 +376,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (4) Vor Beginn des Auslandspraktikums erstellt die Ausbildungsleitung für jede Anwärterin und jeden Anwärter einen Ausbildungsplan, aus dem sich die Sachgebiete ergeben, in denen sie oder er ausgebildet wird; die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
-## § 15 – Leistungsnachweise während der fachtheoretischen Ausbildung und Bewertungen in den Praktika
+# § 15 – Leistungsnachweise während der fachtheoretischen Ausbildung und Bewertungen in den Praktika
 
 (1) Im Einführungs- und im Schlusslehrgang sind jeweils drei Aufsichtsarbeiten von mindestens eineinhalbstündiger Dauer aus den in § 20 Abs. 1 genannten Fachgebieten zu fertigen.
 
@@ -411,8 +392,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (7) Die Gesamtbewertungen sind der Aus- und Fortbildungsstätte zuzuleiten.
 
-
-## § 16 – Allgemeines
+# § 16 – Allgemeines
 
 (1) In der Laufbahnprüfung wird festgestellt, ob die Anwärterinnen und Anwärter für die vorgesehene Laufbahn befähigt sind.
 
@@ -422,8 +402,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (4) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die Prüfungskommission (§ 18). § 6 Abs. 8 gilt entsprechend.
 
-
-## § 17 – Durchführung
+# § 17 – Durchführung
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter für den mittleren Auswärtigen Dienst setzt Ort und Zeit der schriftlichen und der mündlichen Prüfungen fest und stimmt diese Termine mit der Prüfungskommission sowie den Fachprüferinnen und Fachprüfern ab.
 
@@ -431,8 +410,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (3) Ort und Zeit der schriftlichen und der mündlichen Prüfungen werden den Anwärterinnen und Anwärtern rechtzeitig mitgeteilt.
 
-
-## § 18 – Prüfungskommission
+# § 18 – Prüfungskommission
 
 (1) Die Prüfungskommission setzt sich aus den Mitgliedern zusammen, die auch den Auswahlausschuss bilden. § 6 Abs. 6 und 7 gilt entsprechend.
 
@@ -440,15 +418,13 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (3) Für die mündliche Sprachprüfung tritt die Prüfungskommission nach Maßgabe des § 19 Abs. 2 in abweichender Besetzung zusammen.
 
-
-## § 19 – Sprachprüfung
+# § 19 – Sprachprüfung
 
 (1) Die schriftliche Sprachprüfung besteht aus zwei schriftlichen Aufsichtsarbeiten von je 30 Minuten Dauer. In der Nebensprache können die Anwärterinnen und Anwärter eine vergleichbare schriftliche Sprachprüfung ablegen, deren Ergebnis nicht in die Laufbahnprüfung einfließt. § 20 Abs. 3 bis 6 gilt entsprechend.
 
 (2) Die mündliche Sprachprüfung findet nach Beendigung der schriftlichen Sprachprüfung und vor der Fachprüfung statt. Sie wird vor der Prüfungskommission abgelegt, die mit einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender oder Vorsitzendem sowie einer Beamtin oder einem Beamten des gehobenen Dienstes als Beisitzerin oder Beisitzer und zwei Sprachlehrerinnen oder Sprachlehrern als Fachprüferinnen oder Fachprüfer besetzt ist. Die mündliche Sprachprüfung dauert nicht mehr als 15 Minuten und besteht aus dem Lesen und Übersetzen eines Textes aus der Fremdsprache und einer anschließenden kurzen Unterhaltung in der Fremdsprache. § 20 Abs. 10 bis 12 gilt entsprechend. In der Nebensprache können die Anwärterinnen und Anwärter eine vergleichbare mündliche Sprachprüfung ablegen. Wer in der schriftlichen und mündlichen Sprachprüfung in Englisch nicht eine Gesamtdurchschnittspunktzahl von mindestens fünf Rangpunkten erreicht, kann nicht zur Fachprüfung zugelassen werden.
 
-
-## § 20 – Fachprüfung
+# § 20 – Fachprüfung
 
 (1) In der schriftlichen Fachprüfung sind insgesamt vier Aufsichtsarbeiten mit einer Bearbeitungszeit von jeweils mindestens drei Zeitstunden zu fertigen. Die Aufgaben sind aus folgenden Fachgebieten auszuwählen, von denen das Fachgebiet Nummer 1 obligatorisch ist:
 
@@ -500,8 +476,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (12) Über den Ablauf der mündlichen Fachprüfung wird eine Niederschrift gefertigt, die die Mitglieder der Prüfungskommission unterschreiben.
 
-
-## § 21 – Verhinderung, Rücktritt, Säumnis
+# § 21 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines ärztlichen Zeugnisses nachzuweisen.
 
@@ -511,8 +486,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (4) Versäumen Anwärterinnen oder Anwärter die schriftliche oder die mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet die Prüfungskommission, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 22 – Täuschung, Ordnungsverstoß
+# § 22 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung der Prüfungskommission nach Absatz 2 gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -522,8 +496,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören.
 
-
-## § 23 – Bewertung der Vorleistungen und Prüfungsleistungen
+# § 23 – Bewertung der Vorleistungen und Prüfungsleistungen
 
 (1) Vorleistungen sind die Aufsichtsarbeiten im Einführungs- und Schlusslehrgang sowie die Leistungen in den Praktika. Ihre Ergebnisse werden zusammen mit den Prüfungsleistungen in einer Niederschrift festgehalten. Dabei zählen die Noten der Aufsichtsarbeiten im Einführungs- und Schlusslehrgang mit der Wertigkeit von insgesamt 18 Prozent. Die während der praktischen Ausbildung erzielten Gesamtnoten zählen mit der Wertigkeit von insgesamt 13 Prozent (Inlandspraktikum 3 Prozent, Auslandspraktikum 10 Prozent).
 
@@ -531,8 +504,7 @@ Der Vorbereitungsdienst besteht aus einer fachtheoretischen und einer praktische
 
 (3) Die Ergebnisse der schriftlichen und mündlichen Fachprüfung werden mit insgesamt 56 Prozent berücksichtigt; jede schriftliche Aufsichtsarbeit geht dabei mit 9 Prozent und jedes mündliche Prüfungsfach mit 5 Prozent in das Ergebnis der Laufbahnprüfung ein.
 
-
-## § 24 – Noten, Rangpunkte
+# § 24 – Noten, Rangpunkte
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
 
@@ -612,8 +584,7 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 | unter |             25,0 bis 12,5              |     1      |
 | unter |                  12,5                  |    0\.     |
 
-
-## § 25 – Gesamtergebnis
+# § 25 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote unter Berücksichtigung der Vorleistungen (§ 23) fest. Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt, werden Dezimalstellen von 50 bis 99 für die Bildung der Abschlussnote aufgerundet; im Übrigen bleiben Dezimalstellen für die Bildung von Noten unberücksichtigt.
 
@@ -621,8 +592,7 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 
 (3) Im Anschluss an die Beratung der Prüfungskommission teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz mündlich erläutert.
 
-
-## § 26 – Zeugnis
+# § 26 – Zeugnis
 
 (1) Die Prüfungskommission erteilt den Anwärterinnen und Anwärtern, die die Laufbahnprüfung bestanden haben, ein Prüfungszeugnis, das die Abschlussnote enthält. Ist die Prüfung nicht bestanden, gibt die Prüfungskommission dies den Anwärterinnen und Anwärtern schriftlich bekannt. Das Zeugnis nach Satz 1 und die Bekanntgabe nach Satz 2 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalakten genommen. Das Beamtenverhältnis auf Widerruf endet mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
@@ -632,22 +602,19 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 
 (4) Die Anwärterinnen und Anwärter erhalten zusätzlich zu dem Zeugnis über die Laufbahnprüfung ein Sprachzeugnis über das Ergebnis der Sprachprüfung.
 
-
-## § 27 – Prüfungsakten, Einsichtnahme
+# § 27 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse ist mit den schriftlichen Aufsichtsarbeiten der Laufbahnprüfung zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Auswärtigen Amt mindestens fünf Jahre aufbewahrt.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der Laufbahnprüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 28 – Wiederholung
+# § 28 – Wiederholung
 
 (1) Die Anwärterinnen und Anwärter, die die Prüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen; das Auswärtige Amt kann in begründeten Fällen eine zweite Wiederholung zulassen. Prüfungen sind vollständig zu wiederholen.
 
 (2) Die Leiterin oder der Leiter der Aus- und Fortbildungsstätte bestimmt auf Vorschlag der Ausbildungsleiterin oder des Ausbildungsleiters für den mittleren Auswärtigen Dienst, innerhalb welcher Frist die Prüfung wiederholt werden kann, welche Teile der Ausbildung zu wiederholen und welche Leistungsnachweise zu erbringen sind. Die Wiederholungsfrist soll mindestens drei Monate betragen und ein Jahr nicht überschreiten. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verlängert.
 
-
-## § 29 – Allgemeine Aufstiegsregelungen
+# § 29 – Allgemeine Aufstiegsregelungen
 
 (1) Beamtinnen und Beamte des einfachen Auswärtigen Dienstes können von Vorgesetzten für die Zulassung zum Aufstieg in die Laufbahn des mittleren Auswärtigen Dienstes vorgeschlagen werden oder sich bewerben. Ihre Eignung, die an den Anforderungen der künftigen Laufbahn gemessen wird, wird in einem Auswahlverfahren überprüft. Das zuständige Personalreferat prüft, ob die formalen, in diesem Kapitel genannten Voraussetzungen für die Teilnahme am Auswahlverfahren zum Ausbildungs- oder Praxisaufstieg vorliegen. Auf die Durchführung des beim Auswärtigen Amt stattfindenden Auswahlverfahrens ist § 6 entsprechend anzuwenden, sofern in den folgenden Vorschriften nicht andere Regelungen getroffen werden.
 
@@ -663,8 +630,7 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 
 (4) Für die Zulassung zum Aufstieg ist § 7 Abs. 1 entsprechend anzuwenden. Nach der bestandenen Laufbahnprüfung oder der Feststellung der Befähigung für die höhere Laufbahn wird den Beamtinnen und Beamten im Rahmen der besetzbaren Planstellen ein Amt der Laufbahn des mittleren Dienstes verliehen. Bis dahin verbleiben sie in ihrer bisherigen Rechtsstellung. Aufstiegsbeamtinnen und Aufstiegsbeamte, die die Befähigung für die Laufbahn des mittleren Auswärtigen Dienstes endgültig nicht erwerben, verbleiben in ihrer bisherigen Laufbahn.
 
-
-## § 30 – Ausbildungsaufstieg
+# § 30 – Ausbildungsaufstieg
 
 (1) Zum Ausbildungsaufstieg in die Laufbahn des mittleren Auswärtigen Dienstes können Beamtinnen und Beamte des einfachen Auswärtigen Dienstes zugelassen werden, die
 
@@ -678,8 +644,7 @@ einem Jahr bewährt haben.
 
 (3) Die zum Aufstieg zugelassenen Bewerberinnen und Bewerber nehmen an dem für die Laufbahn des mittleren Auswärtigen Dienstes eingerichteten Vorbereitungsdienst teil. Der Vorbereitungsdienst schließt mit der Laufbahnprüfung ab. Die Vorschriften der Kapitel 1 und 2 über den Vorbereitungsdienst und die Laufbahnprüfung sind entsprechend anzuwenden, soweit nicht in Kapitel 3 anderweitige Regelungen getroffen sind.
 
-
-## § 31 – Praxisaufstieg
+# § 31 – Praxisaufstieg
 
 (1) Zum Praxisaufstieg in die Laufbahn des mittleren Auswärtigen Dienstes können Beamtinnen und Beamte des einfachen Auswärtigen Dienstes zugelassen werden, die zu Beginn der Einführung das 45. Lebensjahr vollendet und das 58. Lebensjahr noch nicht vollendet haben.
 
@@ -693,8 +658,7 @@ einem Jahr bewährt haben.
 
 (6) Die Feststellung über die Befähigung für die Laufbahn des mittleren Dienstes trifft die Prüfungskommission (§ 18 in Verbindung mit § 6) in einem Vorstellungstermin. Sie hat hierbei die während der Einführungszeit erbrachten Leistungsnachweise einschließlich einer eingehenden Beurteilung der Leistungen während der Einführungszeit zu berücksichtigen. Reicht das Ergebnis des Vorstellungstermins zu einer Feststellung nicht aus, kann die Prüfungskommission bestimmen, in welcher Form der weitere Nachweis des erfolgreichen Abschlusses der Einführung geführt werden soll. Die Prüfungskommission kann die Anfertigung von Ausarbeitungen verlangen. Das Feststellungsverfahren kann nach Ablauf von mindestens sechs Monaten einmal wiederholt werden. Für diesen Fall ist die Einführungszeit entsprechend zu verlängern.
 
-
-## § 32 – Schwerbehinderte Menschen
+# § 32 – Schwerbehinderte Menschen
 
 (1) Geeignete schwerbehinderte Menschen sind bei der Besetzung freier Arbeitsplätze vorrangig zu berücksichtigen, sofern sie - mit Ausnahme der durch ihre Behinderung eingeschränkten Eignung - über die gleiche Qualifikation verfügen. Von schwerbehinderten Menschen darf bei der Einstellung nur das Mindestmaß körperlicher Eignung verlangt werden. Hinsichtlich der sonstigen Eignung, insbesondere der beruflichen Kenntnisse und Fähigkeiten, gilt uneingeschränkt das Leistungsprinzip im Wettbewerb mit anderen nichtbehinderten Bewerberinnen und Bewerbern. Schwerbehinderte Menschen sind grundsätzlich zu Auswahlverfahren zuzulassen, es sei denn, dass sie nach den vorgelegten Unterlagen für eine Verwendung offensichtlich nicht geeignet erscheinen.
 
@@ -704,12 +668,10 @@ einem Jahr bewährt haben.
 
 (4) Entscheidungen über Prüfungserleichterungen trifft der Auswahlausschuss oder die Prüfungskommission auf Vorschlag der Ausbildungsleitung.
 
-
-## § 33 – Übergangsregelung
+# § 33 – Übergangsregelung
 
 Anwärterinnen und Anwärter sowie Aufstiegsbeamtinnen und Aufstiegsbeamte, die bereits vor dem 1. September 2006 die Ausbildung oder Einführung begonnen haben, führen diese nach dem bis zum 31. August 2006 geltenden Recht zu Ende.
 
-
-## § 34 – Inkrafttreten, Außerkrafttreten
+# § 34 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

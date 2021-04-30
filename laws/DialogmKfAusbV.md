@@ -1,30 +1,23 @@
-# [DialogmKfAusbV] Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing
-
-Ausfertigungsdatum: 23.05.2006
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing
+% Ausfertigungsdatum: 23.05.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kaufmann für Dialogmarketing/Kauffrau für Dialogmarketing wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -101,23 +94,19 @@ Angebotserstellung und Verkauf,
 11.2  
 Vermarktung von Dienstleistungen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
@@ -133,8 +122,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -190,18 +178,15 @@ Der Prüfling soll im Rahmen eines Fachgespräches anhand einer von zwei ihm zur
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in mindestens drei der in Absatz 2 Nr. 1 bis 4 genannten Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 10 – Fortsetzung der Berufsausbildung
+# § 10 – Fortsetzung der Berufsausbildung
 
 Die Berufsausbildung im Ausbildungsberuf Servicefachkraft für Dialogmarketing kann in dem Ausbildungsberuf Kaufmann für Dialogmarketing/Kauffrau für Dialogmarketing nach den Vorschriften für das dritte Ausbildungsjahr fortgesetzt werden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Sachliche Gliederung -
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1231 - 1235)
 
@@ -237,8 +222,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 (§ 4 Nr. 11.1)</td><td style="text-align: center;"><dl><dt>a)</dt><dd>Dialogmarketing-Markt beobachten, Informationen auswerten und nutzen</dd><dt>b)</dt><dd>Dienstleistungen und Konditionen von Wettbewerbern vergleichen</dd><dt>c)</dt><dd>Vorschläge zur Ausgestaltung und Verbesserung des Dienstleistungsangebotes entwickeln</dd><dt>d)</dt><dd>Auftraggeberwünsche ermitteln</dd><dt>e)</dt><dd>Angebote erstellen</dd><dt>f)</dt><dd>Verträge anbahnen und Vertragsabschlüsse vorbereiten</dd><dt>g)</dt><dd>rechtliche Vorschriften beachten und allgemeine Geschäftsbedingungen anwenden</dd></dl></td></tr><tr class="even"><td>11.2</td><td style="text-align: center;">Vermarktung von Dienstleistungen<br />
 (§ 4 Nr. 11.2)</td><td style="text-align: center;"><dl><dt>a)</dt><dd>über Dienstleistungen informieren, Dienstleistungen anbieten und präsentieren, auch in einer Fremdsprache</dd><dt>b)</dt><dd>Projektkonzepte erarbeiten</dd><dt>c)</dt><dd>Verkaufsargumente für Dienstleistungsangebote entwickeln</dd><dt>d)</dt><dd>Auftraggeber-Briefing beachten</dd><dt>e)</dt><dd>bei der Planung verkaufsfördernder Maßnahmen mitwirken, verkaufsfördernde Maßnahmen umsetzen</dd></dl></td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1236 - 1237)
 

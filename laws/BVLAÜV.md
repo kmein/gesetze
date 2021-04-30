@@ -1,15 +1,11 @@
-# [BVLAÜV] Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  (BVL-Aufgabenübertragungsverordnung - BVLAÜV)
-
-Ausfertigungsdatum: 04.06.2008
-
+% Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  (BVL-Aufgabenübertragungsverordnung - BVLAÜV)
+% Ausfertigungsdatum: 04.06.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 65 Satz 1 Nr. 3 des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26. April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Aufgabenübertragung
+# § 1 – Aufgabenübertragung
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 
@@ -27,12 +23,10 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 
 7. zuständige Behörde nach Artikel 10 Absatz 3 Satz 1 der Verordnung (EG) Nr. 282/2008 der Kommission vom 27. März 2008 über Materialien und Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung (EG) Nr. 2023/2006 (ABl. L 86 vom 28.3.2008, S. 9) in der jeweils geltenden Fassung.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

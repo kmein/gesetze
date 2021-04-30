@@ -1,10 +1,7 @@
-# [SchuldBBerG] Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik  (DDR-Schuldbuchbereinigungsgesetz - SchuldBBerG)
-
-Ausfertigungsdatum: 27.09.1994
-
+% Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik  (DDR-Schuldbuchbereinigungsgesetz - SchuldBBerG)
+% Ausfertigungsdatum: 27.09.1994
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz regelt Ansprüche, die in der ehemaligen Deutschen Demokratischen Republik ausgehend von der Verordnung über die Schuldbuchordnung für die Deutsche Demokratische Republik vom 2. August 1951 (GBl. Nr. 93 S. 723) nach
 
@@ -16,8 +13,7 @@ begründet wurden.
 
 (2) Dieses Gesetz gilt nicht für Ansprüche aus ehemals gegen die Deutsche Demokratische Republik gerichteten Schuldbuchforderungen, die einer staatlichen Verwaltung unterlagen und aus diesem Grunde bereits gelöscht wurden.
 
-
-## § 2 – Schuldbuchforderungen mit besonderen Vermerken
+# § 2 – Schuldbuchforderungen mit besonderen Vermerken
 
 (1) Bei Schuldbuchforderungen mit besonderen Vermerken können Berechtigte (Entschädigungsberechtigte und ihre Gläubiger oder deren Rechtsnachfolger) bis spätestens 31. Dezember 1995 Anträge auf Auszahlung ihres Anteils an der Schuldbuchforderung stellen. Die Frist gilt als gewahrt, wenn ein Antrag bei einem Amt zur Regelung offener Vermögensfragen auf Rückgabe eines Vermögenswertes, auf den sich die Schuldbuchforderung bezieht, gestellt wurde. Nach Ablauf dieser Frist erlöschen die Ansprüche.
 
@@ -31,27 +27,23 @@ begründet wurden.
 
 (6) Die in den Absätzen 3 und 4 genannten Nachweise müssen spätestens bis zum 31. Dezember 1998 erbracht sein, andernfalls erlöschen diese Ansprüche entsprechend Absatz 1.
 
-
-## § 3 – Schuldbuchforderungen ohne besondere Vermerke
+# § 3 – Schuldbuchforderungen ohne besondere Vermerke
 
 (1) Ansprüche der Gläubiger aus Schuldbuchforderungen ohne besondere Vermerke, die vorzeitige Zahlungen oder Ratenzahlungen abgelehnt haben und diese nicht erneut anfordern, erlöschen mit Ablauf der Frist nach § 2 Abs. 1.
 
 (2) Ebenso erlöschen die Ansprüche aus Schuldbuchforderungen ohne besondere Vermerke, sofern die Berechtigten bis zum Ablauf der Frist nach § 2 Abs. 1 keine Anträge gestellt haben und die erforderlichen Nachweise nicht rechtzeitig im Sinne des § 2 Abs. 6 vorgelegen haben.
 
-
-## § 4 – Hinterlegungen aus Schuldbuchforderungen
+# § 4 – Hinterlegungen aus Schuldbuchforderungen
 
 (1) Hinterlegungen von Beträgen aus Schuldbuchforderungen auf der Grundlage ehemaliger Rechtsbestimmungen der Deutschen Demokratischen Republik werden nicht mehr vorgenommen. Zahlungen auf bestehende Hinterlegungskonten werden eingestellt.
 
 (2) Die bis zum Ablauf des 2. Oktober 1990 auf Hinterlegungskonten eingezahlten Beträge aus Schuldbuchforderungen sind von den Hinterlegungsstellen an den Entschädigungsfonds, und die ab 3. Oktober 1990 eingezahlten Beträge aus Schuldbuchforderungen sind von den Hinterlegungsstellen an den Kreditabwicklungsfonds zu überweisen. Etwaige nach Auflösung dieses Fonds verbleibende Beträge stehen dem Erblastentilgungsfonds zu.
 
-
-## § 5 – Restitution
+# § 5 – Restitution
 
 Wurde eine Rückübertragung des Eigentums am Grundstück nach dem Vermögensgesetz verfügt und bestand eine noch nicht voll getilgte Schuldbuchforderung, so hat die zuständige Schuldbuchstelle dieselbe ohne Zahlung des Restbetrages auf der Grundlage des § 7a Abs. 2 des Vermögensgesetzes zu löschen.
 
-
-## § 6 – Schließung der Schuldbücher
+# § 6 – Schließung der Schuldbücher
 
 (1) Die Schuldbuchstellen der Kreditanstalt für den Wiederaufbau haben per 31. Dezember 1995 die Schuldbücher zu schließen.
 
@@ -59,17 +51,14 @@ Wurde eine Rückübertragung des Eigentums am Grundstück nach dem Vermögensges
 
 (3) Die Kreditanstalt für den Wiederaufbau hat die nach Absatz 2 erfaßten gesonderten Forderungen aus ehemals gegen die Deutsche Demokratische Republik gerichteten Schuldbuchforderungen zentralisiert zu erfassen und wie Schuldbuchforderungen nach diesem Gesetz zu tilgen.
 
-
-## § 7 – Finanzielle Aufwendungen
+# § 7 – Finanzielle Aufwendungen
 
 Die nach diesem Gesetz verbleibenden finanziellen Aufwendungen, die nach Auflösung des Kreditabwicklungsfonds anfallen, sind vom Erblastentilgungsfonds zu übernehmen.
 
-
-## § 8 – Aktenaufbewahrung
+# § 8 – Aktenaufbewahrung
 
 Die Kreditanstalt für den Wiederaufbau hat die Schuldbuchakten der zum 31. Dezember 1995 geschlossenen Schuldbücher sowie die Akten der gesonderten Forderungen nach § 6 Abs. 2 zehn Jahre aufzubewahren.
 
-
-## § 9 – Ausschlußfrist sonstiger Ansprüche aus Schuldbuchforderungen
+# § 9 – Ausschlußfrist sonstiger Ansprüche aus Schuldbuchforderungen
 
 Mit dem Ablauf des 31. Dezember 1995 erlöschen alle sonstigen in diesem Gesetz nicht genannten Ansprüche aus Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik.

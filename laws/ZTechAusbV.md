@@ -1,25 +1,19 @@
-# [ZTechAusbV] Verordnung über die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
-
-Ausfertigungsdatum: 11.12.1997
-
+% Verordnung über die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
+% Ausfertigungsdatum: 11.12.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) und gemäß Artikel 33 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Zahntechniker/Zahntechnikerin nach der Handwerksordnung.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -57,25 +51,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 17. Herstellen von therapeutischen Geräten.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -101,8 +91,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 5. Fehleranalyse, Dokumentation.
 
-
-## § 8 – Gesellenprüfung
+# § 8 – Gesellenprüfung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage zu § 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -115,8 +104,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 3. Herstellen nach Vorgabe einer Modellgußprothese mit höchstens vier Klammern, Konstruieren, Modellieren und Fertigstellen eines Modellgußgerüstes in Metall mit höchstens sechszähniger Komplettierung in Prothesenmaterial einschließlich Planen und Protokollieren der Arbeitsschritte sowie Bewerten des Ergebnisses.
 
 Als Arbeitsprobe kommt insbesondere in Betracht:  
-Einstellen von Modellen nach mittleren Werten in einen Kieferbewegungssimulator, Aufstellen einer totalen Ober- und Unterkieferprothese zur Anprobe unter Berücksichtigung der Modellanalyse und vorgegebener Werte, Prüfen der Aufstellung auf Einhaltung vorgegebener Werte einschließlich Planen und Protokollieren der Arbeitsschritte sowie Bewerten des Ergebnisses.  
-Die Prüfungsstücke sollen zusammen mit 75 vom Hundert und die Arbeitsprobe mit 25 vom Hundert gewichtet werden.
+Einstellen von Modellen nach mittleren Werten in einen Kieferbewegungssimulator, Aufstellen einer totalen Ober- und Unterkieferprothese zur Anprobe unter Berücksichtigung der Modellanalyse und vorgegebener Werte, Prüfen der Aufstellung auf Einhaltung vorgegebener Werte einschließlich Planen und Protokollieren der Arbeitsschritte sowie Bewerten des Ergebnisses. Die Prüfungsstücke sollen zusammen mit 75 vom Hundert und die Arbeitsprobe mit 25 vom Hundert gewichtet werden.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Technologie, Fertigungsplanung und -kontrolle sowie Wirtschafts- und Sozialkunde geprüft werden. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
@@ -156,23 +144,19 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 9 – Aufhebung von Vorschriften
+# § 9 – Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Zahntechniker/Zahntechnikerin sind nicht mehr anzuwenden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
-## Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
+# Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Zahntechniker/zur Zahntechnikerin
 
 (Fundstelle: BGBl. I 1997, 3185 - 3190)  
 

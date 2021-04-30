@@ -1,25 +1,19 @@
-# [HfreqBetrGen] Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
-
-Ausfertigungsdatum: 07.07.1969
-
+% Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten
+% Ausfertigungsdatum: 07.07.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 des Gesetzes über den Betrieb von Hochfrequenzgeräten vom 9. August 1949 (Gesetzblatt der Verwaltung des Vereinigten Wirtschaftsgebietes S. 235) wird bestimmt:
 
-
-## § 1
+# § 1
 
 Für den Betrieb von halbleiterbestückten Stromumformungsgeräten, die zur Umformung von Gleich- in Wechselstrom für Leuchtstofflampen in Landfahrzeugen, z.B. in Omnibussen, Campinganhängern, Eisenbahnwagen, dienen, wird hiermit eine Allgemeine Genehmigung erteilt.
 
-
-## § 2
+# § 2
 
 Für den Betrieb der in § 1 genannten Stromumformungsgeräte ist so lange keine einzelne Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten erforderlich, wie die im folgenden § 3 genannten Auflagen eingehalten werden.
 
-
-## § 3
+# § 3
 
 Die Allgemeine Genehmigung wird unter folgenden Auflagen erteilt:
 
@@ -43,12 +37,10 @@ Im Frequenzbereich 30 MHz und mehr gelten in 10 Meter Meßentfernung vom Fahrzeu
 
 (5) Liegen Anhaltspunkte dafür vor, daß die Auflagen unter Absatz 1 Nr. 1 und 2 nicht eingehalten und/oder Funkstörungen verursacht werden, so ist den Beauftragten der Deutschen Bundespost in den verkehrsüblichen Zeiten Zutritt zu den Fahrzeugen oder Räumen zu gestatten, in denen sich Geräte der in § 1 genannten Art befinden.
 
-
-## § 4
+# § 4
 
 Die Allgemeine Genehmigung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für das Post- und Fernmeldewesen

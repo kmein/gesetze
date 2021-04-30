@@ -1,15 +1,11 @@
-# [KraftNAV] Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie  (Kraftwerks-Netzanschlussverordnung - KraftNAV)
-
-Ausfertigungsdatum: 26.06.2007
-
+% Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie  (Kraftwerks-Netzanschlussverordnung - KraftNAV)
+% Ausfertigungsdatum: 26.06.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 17 Abs. 3 Satz 1 in Verbindung mit Satz 2, des § 24 Satz 1 Nr. 1 in Verbindung mit Satz 2 Nr. 2 und 3 sowie Satz 3 und des § 29 Abs. 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970) verordnet die Bundesregierung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -75,15 +71,13 @@ Schlussvorschriften
 
 Inkrafttreten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt Bedingungen für den Netzanschluss von Anlagen zur Erzeugung von elektrischer Energie (Erzeugungsanlagen) mit einer Nennleistung ab 100 Megawatt an Elektrizitätsversorgungsnetze mit einer Spannung von mindestens 110 Kilovolt.
 
 (2) Die Regelungen dieser Verordnung sind hinsichtlich der Pflichten der Netzbetreiber abschließend im Sinne des § 111 Abs. 2 Nr. 2 des Energiewirtschaftsgesetzes. Die Vorschriften des Erneuerbare-Energien-Gesetzes sowie des Kraft-Wärme-Kopplungsgesetzes bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -95,8 +89,7 @@ Im Sinne dieser Verordnung
 
 4. ist Netzschemaplan ein schematischer Netzplan mit allen Stromkreisen, Schaltanlagen, Sammelschienen und Umspannwerken.
 
-
-## § 3 – Verfahren
+# § 3 – Verfahren
 
 (1) Der Netzbetreiber hat auf seiner Internetseite folgende Angaben zu veröffentlichen:
 
@@ -112,8 +105,7 @@ Im Sinne dieser Verordnung
 
 (4) Der Anschlussnehmer trägt die Kosten der Prüfungen nach Absatz 3.
 
-
-## § 4 – Anschlusszusage und Netzanschlussvertrag
+# § 4 – Anschlusszusage und Netzanschlussvertrag
 
 (1) Der Netzbetreiber hat dem Anschlussnehmer zusammen mit dem Prüfungsergebnis nach § 3 Abs. 3 eine Anschlusszusage zu erteilen, soweit er nicht den Anschluss verweigern darf. Haben Anschlussnehmer für einen Anschlusspunkt mehrere Anschlussbegehren an den Netzbetreiber gerichtet und beeinflussen sich die Anschlussbegehren gegenseitig in der Weise, dass nicht alle begehrten Anschlüsse hergestellt werden können, so ist auf diejenigen Netzanschlussbegehren vorrangig eine Anschlusszusage zu erteilen, die einschließlich der Angaben, die nach § 3 Abs. 1 und 2 notwendig sind, zeitlich früher beim Netzbetreiber eingegangen sind. Die Anschlusszusage beinhaltet die verbindliche Reservierung von Netzanschlussleistung an einem bestimmten Netzanschlusspunkt unbeschadet des Zustandekommens der weiteren erforderlichen vertraglichen Regelungen zu Netzanschluss (Netzanschlussvertrag) und Anschlussnutzung. Die Anschlusszusage wird wirksam, wenn der Anschlussnehmer innerhalb von einem Monat nach Erteilung der Anschlusszusage eine Reservierungsgebühr in Höhe von 1.000 Euro pro Megawatt Netzanschlussleistung und die Kosten der Prüfung nach § 3 Abs. 3 zahlt. Die Reservierungsgebühr ist bei Herstellung des Netzanschlusses vom Netzbetreiber auf Kostenersatzforderungen wegen der Herstellung des Netzanschlusses anzurechnen oder sie ist zurückzuzahlen, wenn eine Anrechnung nicht möglich oder der Netzanschluss aus Gründen nicht hergestellt wird, die der Anschlussnehmer nicht zu vertreten hat. Im Fall des Absatzes 3 Satz 1 ist die Reservierungsgebühr entgeltmindernd in der Kalkulation der Netzentgelte durch den Netzbetreiber zu berücksichtigen.
 
@@ -175,8 +167,7 @@ Der Netzbetreiber hat im Rahmen des Zumutbaren durch rechtzeitige eigene Vorleis
 
 Der Anschlussnehmer hat den Verhandlungsfahrplan und den Realisierungsfahrplan der Regulierungsbehörde unverzüglich vorzulegen.
 
-
-## § 5 – Informationspflichten des Netzbetreibers
+# § 5 – Informationspflichten des Netzbetreibers
 
 (1) Der Netzbetreiber ist im Rahmen seiner Prüfung nach § 3 Abs. 3 Satz 1 verpflichtet, auf Antrag dem Anschlussnehmer die Netzdaten unverzüglich in geeigneter Weise zur Verfügung zu stellen, die erforderlich sind, um eigene Bewertungen der zukünftigen Netznutzungssituation vorzunehmen. Die erforderlichen Netzdaten umfassen insbesondere
 
@@ -210,8 +201,7 @@ für die vom Antragsteller bezeichneten und für das Anschlussbegehren relevante
 
 (4) Der Gutachter sowie die von ihm im Zusammenhang mit der Erfüllung seiner Aufgaben beauftragten Dritten sind auch nach Beendigung ihrer Tätigkeit verpflichtet, die Verschwiegenheit über die ihnen bekannt gewordenen Netzdaten nach Absatz 1 zu wahren.
 
-
-## § 6 – Netzanschluss
+# § 6 – Netzanschluss
 
 (1) Die Gewährung des Netzanschlusses nach § 17 Abs. 2 des Energiewirtschaftsgesetzes ist insbesondere dann unzumutbar, wenn der begehrte Netzanschlusspunkt technisch nicht zur Aufnahme des erzeugten Stroms geeignet ist und die Eignung nicht durch dem Netzbetreiber mögliche und zumutbare Maßnahmen zur Ertüchtigung des Netzanschlusspunktes oder zum Ausbau des Netzes bis zum nächsten Netzknoten hergestellt werden kann. Eine fehlende Eignung ist insbesondere dann anzunehmen, wenn trotz zumutbarer Maßnahmen nach Satz 1 der Anschlusspunkt nicht über
 
@@ -227,8 +217,7 @@ verfügt.
 
 (4) Der Anschlussnehmer kann den Netzanschluss von einem fachkundigen Dritten oder dem Netzbetreiber vornehmen lassen.
 
-
-## § 7 – Netzzugang bei Engpässen
+# § 7 – Netzzugang bei Engpässen
 
 (1) Anschlussnehmern steht nach Maßgabe der Absätze 2 und 3 ein Anspruch auf bevorzugten Netzzugang im Fall von Engpässen im deutschen Übertragungsnetz zu.
 
@@ -240,8 +229,7 @@ verfügt.
 
 (3) Der Anspruch auf bevorzugten Netzzugang nach Absatz 1 ist auf zehn Jahre ab dem Datum der ersten Netzeinspeisung, spätestens jedoch ab dem 31. Dezember 2012, befristet. Er hat zum Inhalt, dass abweichend von § 15 Abs. 2 der Stromnetzzugangsverordnung von dem Netzbetreiber im Fall eines Engpasses die Bereitstellung von Leitungskapazität ohne die Erhebung von zusätzlichen Entgelten verlangt werden kann. Würde durch die Ausübung von Rechten nach Absatz 1 mehr als die Hälfte der verfügbaren Leitungskapazität in Anspruch genommen, so sind die bevorzugten Netzzugangsrechte anteilig zu kürzen.
 
-
-## § 8 – Kostentragung
+# § 8 – Kostentragung
 
 (1) Der Anschlussnehmer trägt die Kosten für die Verbindung zwischen der Erzeugungsanlage und dem Netzanschlusspunkt.
 
@@ -251,22 +239,18 @@ verfügt.
 
 (+++ § 8: Zur Anwendung vgl. § 3 KWKG 2016 +++)
 
-
-## § 9 – Kraftwerksanschluss-Register
+# § 9 – Kraftwerksanschluss-Register
 
 Die Netzbetreiber haben ein gemeinsames Register aller Erzeugungsanlagen, die bestehen oder für die ein Netzanschlussbegehren nach § 3 Abs. 2 vorliegt, und eine übersichtliche Darstellung des Netzschemaplans und der Netzauslastung, einschließlich der Kennzeichnung bestehender oder erwarteter Engpässe zu führen. In diesem Register sind auch die Standorte nicht nur vorübergehend stillgelegter oder endgültig aufgegebener Erzeugungsanlagen zu erfassen und jeweils mit einer geeigneten Kennzeichnung zu versehen. Die Daten sind Anschlussnehmern sowie auf Anforderung den Energieaufsichtsbehörden und Regulierungsbehörden in geeigneter Form zur Verfügung zu stellen.
 
-
-## § 10 – Festlegungen der Regulierungsbehörde
+# § 10 – Festlegungen der Regulierungsbehörde
 
 Zur Verwirklichung eines effizienten Anschlusses von Erzeugungsanlagen an das Netz und der in § 1 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die Regulierungsbehörde Entscheidungen durch Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes zur näheren Ausgestaltung des zwischen Anschlussnehmern und Netzbetreibern einzuhaltenden Verfahrens im Zuge der Beantragung und Gewährung eines Netzanschlusses treffen. Dies umfasst insbesondere die Ausgestaltung und den Inhalt der gegenseitigen Informationspflichten, Vorleistungspflichten, Fristenregelungen sowie der standardisierten Bedingungen für einen Netzanschlussvertrag nach § 3 Abs. 1 Nr. 2.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,10 +1,7 @@
-# [GrÄndStVtrBR/NDBek] Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze
-
-Ausfertigungsdatum: 18.05.2010
-
+% Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze
+% Ausfertigungsdatum: 18.05.2010
  
-
-## ----
+# ----
 
 Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wurde am 5. Mai 2009 ein Staatsvertrag über die Änderung der gemeinsamen Landesgrenze abgeschlossen. Diesem Vertrag haben die Bremische Bürgerschaft mit Gesetz vom 24. November 2009 (Gesetzblatt der Freien Hansestadt Bremen, S. 485) und der Landtag des Landes Niedersachsen mit Gesetz vom 27. August 2009 (Niedersächsisches Gesetz- und Verordnungsblatt, S. 332) zugestimmt.
 
@@ -14,7 +11,6 @@ Die in Artikel 1 Absatz 1 des Staatsvertrages genannten Kartenblätter sowie die
 
 Gemäß § 2 Absatz 3 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Absatz 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der Staatsvertrag nachstehend bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium des Innern

@@ -1,10 +1,7 @@
-# [VerschÄndG] Gesetz zur Änderung von Vorschriften des Verschollenheitsrechts
-
-Ausfertigungsdatum: 15.01.1951
-
+% Gesetz zur Änderung von Vorschriften des Verschollenheitsrechts
+% Ausfertigungsdatum: 15.01.1951
  
-
-## § 1
+# § 1
 
 (1) Wer vor dem 1. Juli 1948 im Zusammenhang mit Ereignissen oder Zuständen des letzten Krieges vermißt worden und seitdem unter Umständen, die ernstliche Zweifel an seinem Fortleben begründen, verschollen ist, kann für tot erklärt werden.
 
@@ -21,8 +18,7 @@ b) wenn der Ehegatte, ein Abkömmling oder ein anderer nach § 16 des Verscholle
 
 § 12 Abs. 2 und 3 des Verschollenheitsgesetzes bleiben unberührt.
 
-
-## § 2
+# § 2
 
 (1) In den Fällen des § 1 sind Ermittlungen über den Zeitpunkt des Todes nur auf Antrag anzustellen. Den Antrag kann jede Person stellen, die das Aufgebotsverfahren beantragen kann. Das Gericht soll den Antragsteller des Aufgebotsverfahrens sowie einen Antragsberechtigten, der neben dem Antragsteller oder an dessen Stelle in das Verfahren eintritt, befragen, ob er diesen Antrag stellen will.
 
@@ -30,8 +26,7 @@ b) wenn der Ehegatte, ein Abkömmling oder ein anderer nach § 16 des Verscholle
 
 (3) Läßt sich ein solcher Zeitpunkt nicht angeben oder wird der Antrag nach Absatz 1 nicht gestellt, so ist als Zeitpunkt des Todes das Ende des Jahres 1945 festzustellen. Hat der Verschollene diesen Zeitpunkt überlebt, so ist als Zeitpunkt des Todes das Ende des dritten Jahres, in den Fällen des § 1 Abs. 2 Satz 2 des ersten Jahres nach dem letzten Jahre festzustellen, in dem er nach den vorhandenen Nachrichten noch gelebt hat.
 
-
-## § 3
+# § 3
 
 (1) Ist in den Fällen des § 1 als Zeitpunkt des Todes des Verschollenen das Ende des Jahres 1945 rechtskräftig festgestellt worden, ohne daß Ermittlungen über die Todeszeit angestellt worden waren, so kann jeder, der ein rechtliches Interesse an der Feststellung einer anderen Todeszeit hat, beantragen, diese Ermittlungen nunmehr anzustellen und die Feststellung zu ändern.
 
@@ -39,13 +34,11 @@ b) wenn der Ehegatte, ein Abkömmling oder ein anderer nach § 16 des Verscholle
 
 (3) Ist vor dem Inkrafttreten dieses Gesetzes auf Grund des bisherigen § 7a Abs. 3 des Verschollenheitsgesetzes in der Fassung der für die britische Zone erlassenen Verordnung vom 16. Dezember 1946 (Verordnungsblatt für die Britische Zone 1947 S. 10) als Zeitpunkt des Todes eines Verschollenen der 8. Mai 1945 festgestellt worden, so gelten die Absätze 1 und 2 entsprechend.
 
-
-## § 4
+# § 4
 
 Die §§ 2, 3 sind im Verfahren bei Feststellung der Todeszeit entsprechend anzuwenden.
 
-
-## § 5
+# § 5
 
 (1) Die öffentlichen Bekanntmachungen sind in den Fällen der §§ 1 bis 4 statt durch eine Tageszeitung durch ein von dem Bundesministerium der Justiz und für Verbraucherschutz zu diesem besonderen Zweck herausgegebenes Veröffentlichungsblatt (Verschollenheitsliste) zu veröffentlichen. Das Gericht kann anordnen, daß die Bekanntmachung auch in einer Tageszeitung oder in anderer Weise veröffentlicht werde. Das Gericht übermittelt dem Bundesarchiv die Entscheidung, durch die das Verfahren rechtskräftig abgeschlossen ist.
 
@@ -53,60 +46,49 @@ Die §§ 2, 3 sind im Verfahren bei Feststellung der Todeszeit entsprechend anzu
 
 (3) Die Zustellung des Beschlusses, durch den der Verschollene für tot erklärt oder durch den der Tod und die Todeszeit einer Person festgestellt wird, gilt als am Ende des Tages der Ausgabe derjenigen Verschollenheitsliste bewirkt, welche die Bekanntmachung des Beschlusses enthält.
 
-
-## § 6
+# § 6
 
 In den Fällen der §§ 1, 2 und den entsprechenden Fällen des § 4 werden für das Verfahren vor dem Amtsgericht Gerichtskosten nicht erhoben.
 
-
-## § 7
+# § 7
 
 Lebte der Verschollene außerhalb des Geltungsbereichs dieses Gesetzes an seinem letzten inländischen Wohnsitz mit Familienangehörigen in Hausgemeinschaft und haben diese Angehörigen zur Zeit der Antragstellung ihren Wohnsitz oder in Ermangelung eines Wohnsitzes ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes, so ist § 15 Abs. 1 des Verschollenheitsgesetzes nicht anzuwenden.
 
-
-## § 8
+# § 8
 
 In den Fällen des § 1 sind die Vorschriften des Verschollenheitsgesetzes anzuwenden, soweit in diesem Artikel nicht besondere Bestimmungen getroffen sind.
 
-
-## § 1
+# § 1
 
 (1) Geht ein Ehegatte, nachdem der Tod des anderen Ehegatten nach den Vorschriften des Verschollenheitsgesetzes gerichtlich festgestellt worden ist, eine neue Ehe ein, lebt aber der für tot gehaltene Ehegatte noch, so gelten die Bestimmungen über die Wiederverheiratung im Falle der Todeserklärung entsprechend.
 
 (2) (weggefallen)
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
+# §§ 1 und 2 – ----
 
-## §§ 1 und 2 – ----
-
-
-## § 3
+# § 3
 
 Wird ein Anspruch aus einem Lebensversicherungsvertrag erhoben, nachdem die Person, auf welche die Lebensversicherung genommen worden war, außerhalb des Geltungsbereichs dieses Gesetzes für tot erklärt worden ist, so kann der Versicherer die Leistung insoweit verweigern, als der Anspruch den Betrag übersteigt, der sich ergeben würde, wenn der Zeitpunkt des Todes des Verschollenen nach den Vorschriften dieses Gesetzes festgestellt worden wäre.
 
-
-## § 4
+# § 4
 
 Soweit eine Vorschrift dieses Gesetzes auf seinen Geltungsbereich Bezug nimmt, gilt jedes Gebiet, in dem eine solche Vorschrift eingeführt wird, als Geltungsbereich dieses Gesetzes.
 
-
-## § 5
+# § 5
 
 (1)
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, Verwaltungsvorschriften über die Verschollenheitsliste zu erlassen.
 
-
-## § 6
+# § 6
 
 \-
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 953)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 953)
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

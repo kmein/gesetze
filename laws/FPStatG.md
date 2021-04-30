@@ -1,10 +1,7 @@
-# [FPStatG] Gesetz über die Statistiken der öffentlichen Finanzen und des Personals im öffentlichen Dienst  (Finanz- und Personalstatistikgesetz - FPStatG)
-
-Ausfertigungsdatum: 21.12.1992
-
+% Gesetz über die Statistiken der öffentlichen Finanzen und des Personals im öffentlichen Dienst  (Finanz- und Personalstatistikgesetz - FPStatG)
+% Ausfertigungsdatum: 21.12.1992
  
-
-## § 1 – Anordnung als Bundesstatistik
+# § 1 – Anordnung als Bundesstatistik
 
 Im Geltungsbereich dieses Gesetzes werden folgende Statistiken der öffentlichen Finanzwirtschaft und des Personals im öffentlichen Dienst als Bundesstatistiken durchgeführt:
 
@@ -20,8 +17,7 @@ Im Geltungsbereich dieses Gesetzes werden folgende Statistiken der öffentlichen
 
 6. (weggefallen)
 
-
-## § 2 – Erhebungseinheiten
+# § 2 – Erhebungseinheiten
 
 (1) Die Statistiken erstrecken sich auf die Finanzwirtschaft und das Personal
 
@@ -53,8 +49,7 @@ Zweckverbände und andere juristische Personen zwischengemeindlicher Zusammenarb
 
 (4) (weggefallen)
 
-
-## § 3 – Statistik der Ausgaben und Einnahmen
+# § 3 – Statistik der Ausgaben und Einnahmen
 
 (1) Die Statistik nach § 1 Nr. 1 erfasst bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 1 und 2 folgende Erhebungsmerkmale:
 
@@ -178,8 +173,7 @@ b) die Ist-Ausgaben, die Auszahlungen oder die Aufwendungen und Investitionsausg
 
 Bei den Hochschulen kann von einer Erhebung abgesehen werden.
 
-
-## § 4 – Statistik des Steueraufkommens, der Hebesätze und der Umlagen
+# § 4 – Statistik des Steueraufkommens, der Hebesätze und der Umlagen
 
 Die Statistik nach § 1 Nr. 2 erfasst
 
@@ -203,8 +197,7 @@ b) vierteljährlich
 
 das Aufkommen aus Steuern nach Steuerarten.
 
-
-## § 5 – Statistik über die Schulden, Sicherheiten für Schulden und Finanzaktiva
+# § 5 – Statistik über die Schulden, Sicherheiten für Schulden und Finanzaktiva
 
 Die Statistik nach § 1 Nummer 3 erfasst
 
@@ -254,8 +247,7 @@ b) die finanziellen Transaktionen, wie sie im Anhang A der Verordnung (EG) Nr. 2
 
 § 3 Absatz 8 Satz 2 findet keine Anwendung.
 
-
-## § 6 – Personalstandstatistik
+# § 6 – Personalstandstatistik
 
 (1) Die Statistik nach § 1 Nr. 4 erfasst bei den Erhebungseinheiten nach § 2 Abs. 1 jährlich zum 30. Juni die in einem unmittelbaren Dienst- oder Arbeitsvertragsverhältnis stehenden Beschäftigten nach folgenden Erhebungsmerkmalen:
 
@@ -285,8 +277,7 @@ Zusätzlich werden bei den in § 2 Absatz 1 Nummer 7 genannten Erhebungseinheite
 
 (4) Abweichend von Absatz 1 werden bei den in § 2 Abs. 1 Nr. 7 genannten Erhebungseinheiten nur Geburtsmonat und -jahr, Geschlecht, Art, Umfang und Dauer des Dienst- oder Arbeitsvertragsverhältnisses, Laufbahngruppe, Dienst- oder Arbeitsort, Bildungsabschluss, Staatsangehörigkeit, die Art der Beschäftigung und das Wissenschaftsgebiet erfasst.
 
-
-## § 7 – Versorgungsempfängerstatistik
+# § 7 – Versorgungsempfängerstatistik
 
 (1) Die Statistik nach § 1 Nr. 5 erfasst bei den Erhebungseinheiten nach § 2 Abs. 1 jährlich zum Stichtag 1. Januar die Empfänger von Versorgungsbezügen nach Beamten- und Soldatenversorgungsrecht sowie beamtenrechtlichen Grundsätzen nach folgenden Erhebungsmerkmalen:
 
@@ -320,11 +311,9 @@ Zusätzlich werden bei den in § 2 Absatz 1 Nummer 7 genannten Erhebungseinheite
 
 (3) Abweichend von Absatz 1 werden für die Empfänger von Versorgungsbezügen bei den in § 2 Absatz 1 Satz 1 Nummer 7 genannten Erhebungseinheiten und den in Nummer 10 genannten Erhebungseinheiten in privater Rechtsform nur die Art des früheren Dienstverhältnisses, die Art der Versorgung und die Besoldungsgruppe erfasst.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Zusätzliche Erhebungsmerkmale
+# § 9 – Zusätzliche Erhebungsmerkmale
 
 Zusätzliche Erhebungsmerkmale sind
 
@@ -332,8 +321,7 @@ Zusätzliche Erhebungsmerkmale sind
 
 2. bei den Erhebungseinheiten nach § 2 Absatz 1 für die Erhebungen nach den §§ 6 und 7 der Beschäftigungsbereich.
 
-
-## § 9a – Datenbank Berichtskreismanagement
+# § 9a – Datenbank Berichtskreismanagement
 
 (1) Für die Statistiken der öffentlichen Finanzwirtschaft und die Personalstatistiken im öffentlichen Dienst nach § 1 dieses Gesetzes sowie für die Statistiken der Hochschulfinanzen nach § 3 Absatz 7 des Hochschulstatistikgesetzes führen die statistischen Ämter des Bundes und der Länder eine einheitliche Datenbank Berichtskreismanagement.
 
@@ -393,8 +381,7 @@ Die Angaben sollen jährlich aktualisiert werden.
 
 (6) Soweit Erhebungsmerkmale aus Erhebungen nach § 1 dieses Gesetzes und nach § 3 Absatz 7 des Hochschulstatistikgesetzes den Angaben in der Datenbank entsprechen, dürfen die statistischen Ämter der Länder und das Statistische Bundesamt Angaben aus der Datenbank zu diesen Merkmalen übernehmen und insoweit von einer gesonderten Erhebung absehen.
 
-
-## § 10 – Hilfsmerkmale
+# § 10 – Hilfsmerkmale
 
 Hilfsmerkmale sind
 
@@ -404,8 +391,7 @@ Hilfsmerkmale sind
 
 3. bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 7 und 10 auch die für den entsprechenden Haushalt zuständige oberste Bundes- oder Landesbehörde.
 
-
-## § 11 – Auskunftspflicht
+# § 11 – Auskunftspflicht
 
 (1) Für alle Statistiken nach diesem Gesetz besteht Auskunftspflicht. Die Angaben zu den Merkmalen nach § 10 Nr. 2 sind freiwillig. Die Daten sollen nach Vorgaben der statistischen Ämter elektronisch übermittelt werden.
 
@@ -445,8 +431,7 @@ b) bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 3, 5, 7, 8 und 10
 
 4. bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 10 die Leiterinnen und Leiter oder die für das Haushalts-, Kassen- und Rechnungswesen zuständigen Stellen oder, soweit die Angaben hier nicht erlangt werden können, die Träger dieser Erhebungseinheiten.
 
-
-## § 12 – Zentrale Erhebungen
+# § 12 – Zentrale Erhebungen
 
 (1) Die Statistiken nach den §§ 3 und 4 werden bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 1, 5 und 7 und bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 10, an denen der Bund unmittelbar oder mittelbar mit mehr als 50 vom Hundert des Nennkapitals oder des Stimmrechts beteiligt ist, sowie bei den rechtlich unselbständigen Fonds und Einrichtungen des Bundes vom Statistischen Bundesamt erhoben und aufbereitet.
 
@@ -456,15 +441,13 @@ b) bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 3, 5, 7, 8 und 10
 
 (4) Die Statistiken nach den §§ 6 und 7 werden bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 1 und 7 sowie bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 5 und 8, soweit sie der Aufsicht des Bundes unterstehen, und bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 10, an denen der Bund unmittelbar oder mittelbar mit mehr als 50 vom Hundert des Nennkapitals oder des Stimmrechts beteiligt ist, vom Statistischen Bundesamt erhoben und aufbereitet.
 
-
-## § 13 – Zusammenführung
+# § 13 – Zusammenführung
 
 (1) Zur Gewinnung statistischer Ergebnisse auf der Ebene der Hochschulen dürfen von den statistischen Ämtern der Länder die Erhebungsmerkmale Ist-Ausgaben und Ist-Einnahmen oder die Erhebungsmerkmale Erträge, Aufwendungen und Investitionsausgaben der Hochschulen nach § 3 Abs. 1 Nr. 1 Buchstabe d und Nr. 2 Buchstabe c, soweit sie nicht von den Hochschulen selbst bewirtschaftet werden, sowie die Namen der Hochschulen mit den Erhebungsmerkmalen nach § 3 Abs. 7 des Hochschulstatistikgesetzes zusammengeführt werden.
 
 (2) Zur Gewinnung statistischer Ergebnisse dürfen die Angaben nach § 9a Absatz 3 mit den Erhebungsmerkmalen der Statistiken nach § 1 dieses Gesetzes und den Erhebungsmerkmalen nach § 3 Absatz 7 des Hochschulstatistikgesetzes zusammengeführt werden.
 
-
-## § 14 – Übermittlung
+# § 14 – Übermittlung
 
 (1) An oberste Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen, soweit die Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 7 betroffen sind, nur dann übermittelt werden, wenn sie nicht in tieferer regionaler Gliederung als auf Regierungsbezirksebene, im Fall der Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
@@ -472,13 +455,11 @@ b) bei den Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 3, 5, 7, 8 und 10
 
 (3) Für ausschließlich kommunalstatistische Zwecke dürfen das Statistische Bundesamt und die statistischen Ämter der Länder den für statistische Aufgaben zuständigen Stellen der Gemeinden oder Gemeindeverbände (Statistikstellen) auf Ersuchen für deren Zuständigkeitsbereich Einzelangaben zu den Erhebungsmerkmalen übermitteln. Die Übermittlung ist nur zulässig, wenn das Statistikgeheimnis durch gesetzlich vorgeschriebene Maßnahmen, insbesondere zur räumlichen, organisatorischen und personellen Trennung der Statistikstellen von den für nicht-statistische Aufgaben zuständigen Stellen der Gemeinden oder Gemeindeverbände, gewährleistet ist.
 
-
-## § 15 – Veröffentlichung
+# § 15 – Veröffentlichung
 
 Statistische Ergebnisse, auch soweit sie auf Zusammenführungen von Angaben nach § 13 Absatz 2 beruhen, sowie Angaben nach § 9a Absatz 3 Nummer 1 dürfen auf der Ebene der Erhebungseinheit veröffentlicht werden, soweit nicht Erhebungseinheiten nach § 2 Absatz 1 Satz 1 Nummer 7, die nicht dem Sektor Staat zuzurechnen sind, betroffen sind.
 
-
-## § 16 – Geschäftsstatistik zur Entwicklungszusammenarbeit
+# § 16 – Geschäftsstatistik zur Entwicklungszusammenarbeit
 
 Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung darf bei öffentlichen und privaten Stellen, die Leistungen der Entwicklungszusammenarbeit erbringen, für folgende Zwecke Daten erheben:
 

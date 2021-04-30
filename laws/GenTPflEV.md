@@ -1,20 +1,15 @@
-# [GenTPflEV] Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen    (Gentechnik-Pflanzenerzeugungsverordnung - GenTPflEV)
-
-Ausfertigungsdatum: 07.04.2008
-
+% Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen    (Gentechnik-Pflanzenerzeugungsverordnung - GenTPflEV)
+% Ausfertigungsdatum: 07.04.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16b Abs. 6 des Gentechnikgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1993 (BGBl. I S. 2066), der durch Artikel 1 Nr. 14 des Gesetzes vom 21. Dezember 2004 (BGBl. 2005 I S. 186) eingefügt und durch Artikel 1 Nr. 17 des Gesetzes vom 1. April 2008 (BGBl. I S. 499) geändert worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Grundsätze der guten fachlichen Praxis im Sinne des § 16b Abs. 3 des Gentechnikgesetzes bei der erwerbsmäßigen Erzeugung gentechnisch veränderter Pflanzen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -26,8 +21,7 @@ Im Sinne dieser Verordnung sind
 
 4. Nachbar: ein Bewirtschafter einer benachbarten Fläche.
 
-
-## § 3 – Mitteilungspflicht
+# § 3 – Mitteilungspflicht
 
 (1) Der Erzeuger hat den Nachbarn spätestens drei Monate vor der Aussaat oder Anpflanzung folgende Angaben mitzuteilen:
 
@@ -43,18 +37,15 @@ Im Sinne dieser Verordnung sind
 
 (3) Ist dem Erzeuger ein Nachbar nicht bekannt, kann er die in Absatz 1 genannte Mitteilung an den Eigentümer der betreffenden Fläche richten und diesen zugleich auffordern, die Mitteilung an den Bewirtschafter weiterzuleiten. Erhält der Erzeuger innerhalb eines Monats nach Zugang der Mitteilung beim Eigentümer keine Rückäußerung, kann er davon ausgehen, dass der Eigentümer die Fläche selbst bewirtschaftet.
 
-
-## § 4 – Anpassungspflicht
+# § 4 – Anpassungspflicht
 
 Der Erzeuger hat dafür zu sorgen, dass die Anbauflächen den in der Anlage zu dieser Verordnung für die jeweilige Pflanzenart aufgeführten Anforderungen entsprechen. Hierbei hat er die nach § 3 fristgerecht eingegangenen Angaben der Nachbarn zu berücksichtigen.
 
-
-## § 5 – Anfragepflicht
+# § 5 – Anfragepflicht
 
 Soweit eine nach § 16 Abs. 5a des Gentechnikgesetzes öffentlich bekannt gemachte Genehmigung besondere Bedingungen für die Verwendung zum Schutz besonderer Ökosysteme, Umweltgegebenheiten oder geografischer Gebiete enthält, hat der Erzeuger spätestens drei Monate vor der erstmaligen Aussaat oder Anpflanzung bei der nach Landesrecht zuständigen Behörde oder einer anderen nach Landesrecht beauftragten Stelle anzufragen, ob und inwieweit diese Bedingungen in seinem Fall einschlägig sind. Satz 1 findet entsprechende Anwendung, wenn sich die in der Genehmigung enthaltenen Verwendungsbedingungen geändert haben. Sollten sich nach der Beantwortung der Anfrage nach Satz 1 aus naturschutzfachlicher Sicht Änderungen bezüglich des Schutzes besonderer Ökosysteme, Umweltgegebenheiten oder geografischer Gebiete ergeben, informiert die zuständige Landesbehörde den Bewirtschafter über diese Änderungen.
 
-
-## § 6 – Lagerung
+# § 6 – Lagerung
 
 Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere durch Witterungseinflüsse oder Verschleppung durch Tiere,
 
@@ -64,8 +55,7 @@ Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere
 
 zu lagern. Die Behältnisse und das gelagerte Erntegut sind zu kennzeichnen. Wird das Erntegut auf der Fläche gelagert, die im Standortregister gemeldet ist, so entfällt die Kennzeichnung.
 
-
-## § 7 – Beförderung
+# § 7 – Beförderung
 
 (1) Der Erzeuger hat zum Schutz gegen Einträge in fremde Grundstücke, insbesondere durch Verwehen,
 
@@ -77,18 +67,15 @@ zu befördern.
 
 (2) Ist gentechnisch verändertes Saat-, Pflanz- oder Erntegut bei der Beladung oder bei der Beförderung verschüttet worden, ist es dem gleichen Saat-, Pflanz- oder Erntegut wieder zuzuführen, gesondert zu verwerten oder zu vernichten.
 
-
-## § 8 – Bewirtschaftungsmaßnahmen
+# § 8 – Bewirtschaftungsmaßnahmen
 
 Bei allen Bewirtschaftungsmaßnahmen einschließlich der Ernte sind Einträge von gentechnisch veränderten Organismen in fremde Grundstücke durch Wahl einer geeigneten Technik auf das Mindestmaß zu beschränken.
 
-
-## § 9 – Eingesetzte Gegenstände
+# § 9 – Eingesetzte Gegenstände
 
 Der Erzeuger hat Einrichtungen, Maschinen und Geräte, die zur Aussaat, zur Ernte, zur Aufbereitung oder zur Beförderung von gentechnisch verändertem Saat-, Pflanz- oder Erntegut eingesetzt wurden, sorgfältig zu reinigen, bevor sie für nicht gentechnisch verändertes Saat-, Pflanz- oder Erntegut eingesetzt werden.
 
-
-## § 10 – Durchwuchs
+# § 10 – Durchwuchs
 
 (1) Nach Abschluss des Anbaus von gentechnisch veränderten Pflanzen hat der Erzeuger die Anbaufläche nach Maßgabe der in der Anlage für die jeweilige Pflanzenart aufgeführten Anforderungen auf Durchwuchs zu überwachen und diesen zu beseitigen, soweit die Anbaufläche in der folgenden Vegetationsperiode nicht erneut mit gentechnisch veränderten Pflanzen derselben Art bestellt wird. In die Überwachung auf Durchwuchs sind auch landwirtschaftliche Nutzflächen einzubeziehen,
 
@@ -98,13 +85,11 @@ Der Erzeuger hat Einrichtungen, Maschinen und Geräte, die zur Aussaat, zur Ernt
 
 (2) Bei einem Wechsel des Bewirtschafters geht die Pflicht nach Absatz 1 auf den neuen Bewirtschafter über, soweit dieser Kenntnis von dem vorhergegangenen Anbau von gentechnisch veränderten Pflanzen hat oder haben muss.
 
-
-## § 11 – Aufbringen von Stoffen
+# § 11 – Aufbringen von Stoffen
 
 Auf Flächen, auf denen Düngemittel oder andere Stoffe aufgebracht werden, die offenkundig nicht nur geringfügig vermehrungsfähige Bestandteile von gentechnisch veränderten Pflanzen enthalten, findet § 10 entsprechende Anwendung.
 
-
-## § 12 – Aufzeichnungen
+# § 12 – Aufzeichnungen
 
 (1) Der Erzeuger hat Aufzeichnungen zu führen über die Sorte des gentechnisch veränderten Saat- oder Pflanzguts, die Schläge des Betriebs, die Aufbringung von Stoffen nach § 11 und die pflanzenbaulichen Maßnahmen nach den §§ 5, 8 und 10 sowie den pflanzenartspezifischen Vorgaben der Anlage.
 
@@ -112,23 +97,19 @@ Auf Flächen, auf denen Düngemittel oder andere Stoffe aufgebracht werden, die 
 
 (3) Bei einem Wechsel des Bewirtschafters hat der frühere Bewirtschafter dem neuen Bewirtschafter eine Abschrift aller Aufzeichnungen auszuhändigen, die für die Einhaltung der guten fachlichen Praxis nach dieser Verordnung erforderlich sind.
 
-
-## § 13 – Übergangsregelung
+# § 13 – Übergangsregelung
 
 Die §§ 3, 4 Satz 2 und § 5 sind erstmals ab dem 1. Oktober 2008 anzuwenden.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1)Pflanzenartspezifische Vorgaben
+# Anlage – (zu § 2 Nr. 1, § 4, § 5, § 10 Abs. 1 Satz 1, § 12 Abs. 1 Satz 1)Pflanzenartspezifische Vorgaben
 
 1. Benachbarte Flächen
 

@@ -1,10 +1,7 @@
-# [EheschlRWirkgG] Gesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung
-
-Ausfertigungsdatum: 29.03.1951
-
+% Gesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung
+% Ausfertigungsdatum: 29.03.1951
  
-
-## § 1
+# § 1
 
 (1) Hat auf Grund einer bis zum 31. März 1946 ergangenen Anordnung einer obersten Verwaltungsbehörde ein Standesbeamter ausgesprochen, daß zwischen einer Frau und einem bereits verstorbenen Mann nachträglich die Ehe geschlossen sei, so hat dieser Ausspruch folgende Rechtswirkungen erzeugt:
 
@@ -18,16 +15,13 @@ Ausfertigungsdatum: 29.03.1951
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten auch in den Fällen, in denen der Mann für tot erklärt oder sein Tod nach den Vorschriften des Verschollenheitsrechts gerichtlich festgestellt worden ist.
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3
+# § 3
 
 Der Ausspruch des Standesbeamten hat keine Rechtswirkung, wenn er erschlichen ist oder wenn begründete Zweifel bestehen, ob der Mann die Ehe geschlossen hätte.
 
-
-## § 4
+# § 4
 
 (1) Niemand kann sich auf die Rechtsunwirksamkeit des Ausspruchs berufen, solange er nicht durch gerichtliches Urteil für rechtsunwirksam erklärt ist.
 
@@ -37,8 +31,7 @@ Der Ausspruch des Standesbeamten hat keine Rechtswirkung, wenn er erschlichen is
 
 (4) Auf die Klage finden die für die Ehenichtigkeitsklage geltenden Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
 
-
-## § 5
+# § 5
 
 (1) Rechtskräftige gerichtliche Entscheidungen, die auf der Feststellung beruhen, daß durch den Ausspruch des Standesbeamten eine gültige Ehe zustande gekommen ist, werden durch dieses Gesetz nicht berührt.
 
@@ -46,15 +39,13 @@ Der Ausspruch des Standesbeamten hat keine Rechtswirkung, wenn er erschlichen is
 
 (3) Rechtskräftige gerichtliche Entscheidungen, die auf Grund der diesem Gesetz entsprechenden Vorschriften der Britischen Zone oder des Landes Rheinland-Pfalz ergangen sind, bleiben unberührt.
 
-
-## § 6
+# § 6
 
 (1) Vermögensrechtliche Erklärungen, die von den Beteiligten im Zusammenhang mit dem Ausspruch abgegeben worden sind, sind rechtswirksam, es sei denn, daß der Ausspruch des Standesbeamten für rechtsunwirksam erklärt wird.
 
 (2) Das gleiche gilt für Vergleiche und vorbehaltlose Anerkenntnisse, die sich auf die vermögensrechtlichen Folgen des Ausspruchs beziehen.
 
-
-## § 7
+# § 7
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

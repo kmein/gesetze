@@ -1,15 +1,11 @@
-# [AnsprÜbersV] Verordnung über die Übersetzungen der Ansprüche europäischer Patentanmeldungen  (AnsprÜbersV)
-
-Ausfertigungsdatum: 18.12.1978
-
+% Verordnung über die Übersetzungen der Ansprüche europäischer Patentanmeldungen  (AnsprÜbersV)
+% Ausfertigungsdatum: 18.12.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels II § 2 Abs. 2 Satz 1 des Gesetzes über internationale Patentübereinkommen vom 21. Juni 1976 (BGBl. II S. 649) in Verbindung mit § 1 der Verordnung über die Übertragung der Ermächtigung nach Artikel II § 2 Abs. 2 des Gesetzes über internationale Patentübereinkommen vom 27. November 1978 (BGBl. II S. 1377) wird verordnet:
 
-
-## § 1
+# § 1
 
 Der Antrag auf Veröffentlichung der deutschen Übersetzung der Patentansprüche einer europäischen Patentanmeldung ist auf dem vom Deutschen Patent- und Markenamt herausgegebenen Formblatt einzureichen. Der Antrag muß in deutscher Sprache enthalten
 
@@ -33,22 +29,18 @@ Der Antrag auf Veröffentlichung der deutschen Übersetzung der Patentansprüche
 
 10. die Unterschrift des Antragstellers oder des Vertreters.
 
-
-## § 2
+# § 2
 
 Die deutsche Übersetzung der Patentansprüche ist dem Antrag nach § 1 als Anlage beizufügen.
 
-
-## § 3
+# § 3
 
 Die Anlagen müssen deutlich erkennen lassen, zu welchem Antrag sie gehören. Das Aktenzeichen der europäischen Patentanmeldung ist unter Voranstellung der Abkürzung "EP" vollständig auf allen an das Patentamt gerichteten Sendungen mindestens im Kopf des jeweils ersten Blattes anzubringen.
 
-
-## § 4
+# § 4
 
 Die Blätter der Übersetzung sind mit arabischen Ziffern fortlaufend zu nummerieren. Die Blattnummern sind unterhalb des oberen Randes in der Mitte anzubringen. Im Übrigen gilt für die Übersetzung § 6 Absatz 1, 2 Satz 2, 5 und 6, Absatz 3 Satz 1, 2 und 6 sowie Absatz 4 und 5 der Patentverordnung entsprechend.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Präsident des Deutschen Patentamts

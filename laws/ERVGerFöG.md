@@ -1,13 +1,9 @@
-# [ERVGerFöG] Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten
-
-Ausfertigungsdatum: 10.10.2013
-
+% Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten
+% Ausfertigungsdatum: 10.10.2013
  
+# Art 1 bis 23 – Änderungsvorschriften
 
-## Art 1 bis 23 – Änderungsvorschriften
-
-
-## Art 24 – Verordnungsermächtigung für die Länder
+# Art 24 – Verordnungsermächtigung für die Länder
 
 (1) Die Landesregierungen können für ihren Bereich durch Rechtsverordnung bestimmen, dass § 130a der Zivilprozessordnung, § 14 Absatz 2 und 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46c des Arbeitsgerichtsgesetzes, § 65a des Sozialgerichtsgesetzes, § 55a der Verwaltungsgerichtsordnung, § 52a der Finanzgerichtsordnung, § 81 Absatz 4 Satz 1, 2 und 5 der Grundbuchordnung, § 89 Absatz 4 Satz 1, 2 und 5 der Schiffsregisterordnung, § 95 Absatz 2 Satz 1, 2 und 5 des Gesetzes über Rechte an Luftfahrzeugen in der jeweils am 31. Dezember 2017 geltenden Fassung bis jeweils zum 31. Dezember des Jahres 2018 oder 2019 weiter Anwendung finden. Die Fortgeltung der in Satz 1 genannten Vorschriften kann nur einheitlich bestimmt werden.
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 10.10.2013
 
 (3) Die Landesregierungen können die Ermächtigungen nach den Absätzen 1 und 2 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## Art 26 – Inkrafttreten, Außerkrafttreten
+# Art 26 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 9 am 1. Januar 2018 in Kraft.
 

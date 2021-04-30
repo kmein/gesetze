@@ -1,30 +1,23 @@
-# [TourKfmAusbV] Verordnung über die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit
-
-Ausfertigungsdatum: 18.03.2005
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit
+% Ausfertigungsdatum: 18.03.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kaufmann für Tourismus und Freizeit/Kauffrau für Tourismus und Freizeit wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
-
-## § 4 – Struktur der Berufsausbildung
+# § 4 – Struktur der Berufsausbildung
 
 Die Ausbildung gliedert sich in
 
@@ -32,8 +25,7 @@ Die Ausbildung gliedert sich in
 
 2. eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit gemäß § 5 Abs. 2 Nr. 1 oder 2.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -157,23 +149,19 @@ Kooperation in der Destination,
 2.3  
 Destinationsvermarktung.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -189,8 +177,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 10 – Abschlussprüfung
+# § 10 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -242,13 +229,11 @@ bearbeiten und dabei zeigen, dass er Problemstellungen analysieren, Daten ermitt
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in mindestens zwei der in Absatz 2 Nr. 1 bis 3 genannten Prüfungsbereiche sowie im Prüfungsbereich Fallbezogenes Fachgespräch mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage 1 – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Sachliche Gliederung -
+# Anlage 1 – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 797 - 802)
 
@@ -976,8 +961,7 @@ d)
 
 Vertriebskooperationen mitgestalten und nutzen
 
-
-## Anlage 2 – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Zeitliche Gliederung -
+# Anlage 2 – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 803 - 805)
 

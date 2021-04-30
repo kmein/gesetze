@@ -1,17 +1,11 @@
-# [RevierjagdMeisterPrV] Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Revierjagdmeister und Revierjagdmeisterin  (Revierjagd-Meisterprüfungsverordnung - RevierjagdMeisterPrV)
-
-Ausfertigungsdatum: 09.04.2019
-
+% Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Revierjagdmeister und Revierjagdmeisterin  (Revierjagd-Meisterprüfungsverordnung - RevierjagdMeisterPrV)
+% Ausfertigungsdatum: 09.04.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436 Nummer 4 Buchstabe b der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -51,8 +45,9 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
  
 
+ 
 
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Revierjagdmeister und Revierjagdmeisterin soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -177,8 +172,7 @@ m) Beachten von Vorschriften zum Datenschutz und zur Datensicherheit.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Revierjagdmeister oder Revierjagdmeisterin.
 
-
-## § 2 – Voraussetzungen für die Zulassung zur Prüfung
+# § 2 – Voraussetzungen für die Zulassung zur Prüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -192,8 +186,7 @@ m) Beachten von Vorschriften zum Datenschutz und zur Datensicherheit.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, eine berufliche Handlungsfähigkeit erworben zu haben, die die Zulassung zur Prüfung rechtfertigt.
 
-
-## § 3 – Gliederung der Meisterprüfung
+# § 3 – Gliederung der Meisterprüfung
 
 Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
@@ -203,8 +196,7 @@ Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
 3. Berufsausbildung und Mitarbeiterführung.
 
-
-## § 4 – Anforderungen und Prüfungsinhalte
+# § 4 – Anforderungen und Prüfungsinhalte
 
 (1) Im Prüfungsteil Jagdbetrieb, Jagd- und Wildtiermanagement und Dienstleistungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -248,8 +240,7 @@ und dabei den Einsatz von Arbeitskräften, Maschinen, Geräten, Waffen, Optik, M
 
 10. Sicherstellen der erforderlichen Dokumentationen und Aufzeichnungen.
 
-
-## § 5 – Struktur der Prüfung
+# § 5 – Struktur der Prüfung
 
 Die Prüfung besteht aus
 
@@ -257,8 +248,7 @@ Die Prüfung besteht aus
 
 2. einer schriftlichen Prüfung nach § 7.
 
-
-## § 6 – Arbeitsprojekt
+# § 6 – Arbeitsprojekt
 
 (1) Mit der Durchführung des Arbeitsprojektes soll der Prüfling nachweisen, dass er in der Lage ist, ausgehend von konkreten betrieblichen Situationen die komplexen Zusammenhänge des Jagdbetriebes, des Jagd- und Wildtiermanagements und der Dienstleistungen zu erfassen und zu analysieren sowie Lösungsvorschläge für betriebliche Probleme zu erstellen und umzusetzen.
 
@@ -270,15 +260,13 @@ Die Prüfung besteht aus
 
 (5) Für die Durchführung des Arbeitsprojekts steht dem Prüfling ein Zeitraum von zwölf Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 120 Minuten dauern.
 
-
-## § 7 – Schriftliche Prüfung
+# § 7 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den Prüfungsinhalten nach § 4 Absatz 3.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 180 Minuten.
 
-
-## § 8 – Anforderungen und Prüfungsinhalte
+# § 8 – Anforderungen und Prüfungsinhalte
 
 (1) Im Prüfungsteil Betriebs- und Unternehmensführung soll der Prüfling nachweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
@@ -302,8 +290,7 @@ Die Prüfung besteht aus
 
 9. Anwenden der Grundsätze betriebswirtschaftlicher Buchführung und der steuerlichen Buchführung unter Beachtung von Steuerarten und -verfahren.
 
-
-## § 9 – Struktur der Prüfung
+# § 9 – Struktur der Prüfung
 
 Die Prüfung besteht aus
 
@@ -311,8 +298,7 @@ Die Prüfung besteht aus
 
 2. einer schriftlichen Prüfung nach § 11.
 
-
-## § 10 – Arbeitsprojekt
+# § 10 – Arbeitsprojekt
 
 (1) Im Arbeitsprojekt soll der Prüfling eine komplexe betriebswirtschaftliche Aufgabe in einem Jagdbetrieb oder in einem Betrieb mit jagdlichen Dienstleistungen bearbeiten. Das Projekt soll für die weitere Entwicklung des Gesamtbetriebes oder eines wesentlichen Teils des Betriebes von Bedeutung sein. Bei der Wahl der Aufgabe sollen Vorschläge des Prüflings berücksichtigt werden.
 
@@ -324,15 +310,13 @@ Die Prüfung besteht aus
 
 (5) Für die Durchführung des Arbeitsprojekts steht dem Prüfling ein Zeitraum von sechs Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 60 Minuten dauern.
 
-
-## § 11 – Schriftliche Prüfung
+# § 11 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den Prüfungsinhalten nach § 8 Absatz 2.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 180 Minuten.
 
-
-## § 12 – Anforderungen und Handlungsfelder
+# § 12 – Anforderungen und Handlungsfelder
 
 (1) Im Prüfungsteil Berufsausbildung und Mitarbeiterführung soll der Prüfling nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter und Mitarbeiterinnen führen kann sowie dass er über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
@@ -442,8 +426,7 @@ Die Prüfung besteht aus
 
 7. Führungsstile kennen und das eigene Führungsverhalten kritisch beurteilen.
 
-
-## § 13 – Struktur der Prüfung
+# § 13 – Struktur der Prüfung
 
 (1) Der Prüfungsteil Berufsausbildung und Mitarbeiterführung gliedert sich in folgende Abschnitte:
 
@@ -459,8 +442,7 @@ Die Prüfung besteht aus
 
 (3) Die Prüfung im Abschnitt Mitarbeiterführung besteht aus einer Fallstudie nach § 16.
 
-
-## § 14 – Praktischer Teil
+# § 14 – Praktischer Teil
 
 (1) Der praktische Teil besteht aus der Durchführung einer Ausbildungssituation und einem Fachgespräch.
 
@@ -468,15 +450,13 @@ Die Prüfung besteht aus
 
 (3) Für die schriftliche Planung der Ausbildungssituation steht ein Zeitraum von sieben Tagen zur Verfügung. Für die praktische Durchführung der Ausbildungssituation stehen 60 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
-
-## § 15 – Schriftlicher Teil
+# § 15 – Schriftlicher Teil
 
 (1) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben unter Aufsicht bearbeiten. Die Aufgaben sollen sich auf die in § 12 Absatz 3 bis 6 beschriebenen Kompetenzen beziehen.
 
 (2) Die Bearbeitungszeit für den schriftlichen Teil beträgt 150 Minuten.
 
-
-## § 16 – Fallstudie
+# § 16 – Fallstudie
 
 (1) In der Fallstudie soll der Prüfling eine Situation der Mitarbeiterführung bearbeiten. Die Situation wird vom Prüfungsausschuss vorgegeben und muss sich auf die in § 12 Absatz 7 und 8 beschriebenen Kompetenzen beziehen.
 
@@ -484,13 +464,11 @@ Die Prüfung besteht aus
 
 (3) Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
-
-## § 17 – Befreiung von Prüfungsleistungen
+# § 17 – Befreiung von Prüfungsleistungen
 
 Für die Befreiung von einzelnen Prüfungsteilen nach § 3 oder von Prüfungen nach den §§ 6 und 7, den §§ 10 und 11 sowie den §§ 14 bis 16 ist § 56 Absatz 2 des Berufsbildungsgesetzes anzuwenden.
 
-
-## § 18 – Bewertungen in den Prüfungen
+# § 18 – Bewertungen in den Prüfungen
 
 (1) Die drei Prüfungsteile nach § 3 sind gesondert zu bewerten.
 
@@ -499,21 +477,21 @@ Für die Befreiung von einzelnen Prüfungsteilen nach § 3 oder von Prüfungen n
 
 |     |                                                                              |
 |:----|:-----------------------------------------------------------------------------|
-|     | Note des Prüfungsteils = ![](../normengrafiken/bgbl1_2019/j0499-1_0010.jpg). |
+|     | Note des Prüfungsteils = ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0499-1_0010.jpg). |
 
 (3) Für die Bewertung des Prüfungsteils „Betriebs- und Unternehmensführung“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 10) und der Bewertung der schriftlichen Prüfung (§ 11) nach folgender Formel zu bilden:  
   
 
 |     |                                                                              |
 |:----|:-----------------------------------------------------------------------------|
-|     | Note des Prüfungsteils = ![](../normengrafiken/bgbl1_2019/j0499-1_0020.jpg). |
+|     | Note des Prüfungsteils = ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0499-1_0020.jpg). |
 
 (4) Im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts „Berufsausbildung“ aus der Bewertung des praktischen Teils (§ 14) und der Bewertung des schriftlichen Teils (§ 15) nach folgender Formel zu bilden:  
   
 
 |     |                                                                                            |
 |:----|:-------------------------------------------------------------------------------------------|
-|     | Note des Abschnitts Berufsausbildung = ![](../normengrafiken/bgbl1_2019/j0499-1_0030.jpg). |
+|     | Note des Abschnitts Berufsausbildung = ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0499-1_0030.jpg). |
 
   
   
@@ -522,12 +500,11 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 |     |                                                                              |
 |:----|:-----------------------------------------------------------------------------|
-|     | Note des Prüfungsteils = ![](../normengrafiken/bgbl1_2019/j0499-1_0040.jpg). |
+|     | Note des Prüfungsteils = ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0499-1_0040.jpg). |
 
 (5) Über die Gesamtleistung in der Prüfung ist eine Note zu bilden; sie wird als arithmetisches Mittel aus den Noten für die einzelnen Prüfungsteile errechnet. Im Fall der Befreiung von einzelnen Prüfungsbestandteilen nach § 17 entfällt diese Verpflichtung.
 
-
-## § 19 – Bestehen der Meisterprüfung; Zeugnis
+# § 19 – Bestehen der Meisterprüfung; Zeugnis
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil (§ 3) mindestens die Note „ausreichend“ erzielt hat.
 
@@ -545,8 +522,7 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 2. Befreiungen nach § 17, wobei jede Befreiung mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben ist.
 
-
-## § 20 – Mündliche Ergänzungsprüfung
+# § 20 – Mündliche Ergänzungsprüfung
 
 (1) Wurden eine oder zwei der Prüfungen nach den §§ 7, 11 und 15 schlechter als mit „ausreichend“ bewertet, ist auf Antrag des Prüflings eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
 
@@ -554,8 +530,7 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 (3) Für die Ermittlung des Ergebnisses der ergänzten Prüfung ist die bisherige Note der Prüfung und die Note der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 21 – Wiederholung der Meisterprüfung
+# § 21 – Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal wiederholt werden.
 
@@ -565,14 +540,12 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 2. der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 22 – Übergangsvorschriften
+# § 22 – Übergangsvorschriften
 
 (1) Die bis zum Ablauf des 29. April 2019 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 29. April 2019 geltenden Vorschriften nicht bestanden haben und die sich innerhalb von zwei Jahren ab dem 30. April 2019 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den bis zum Ablauf des 29. April 2019 geltenden Vorschriften ablegen.
 
-
-## § 23 – Inkrafttreten, Außerkrafttreten
+# § 23 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 30. April 2019 in Kraft. Gleichzeitig tritt die Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Revierjäger/Revierjägerin vom 28. Dezember 1982 (BGBl. 1983 I S. 3), die zuletzt durch Artikel 10 der Verordnung vom 21. Mai 2014 (BGBl. I S. 548) geändert worden ist, außer Kraft.

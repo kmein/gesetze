@@ -1,13 +1,9 @@
-# [OffshoreBergV] Bergverordnung für das Gebiet der Küstengewässer und des Festlandsockels  (Offshore-Bergverordnung - OffshoreBergV)
-
-Ausfertigungsdatum: 03.08.2016
-
+% Bergverordnung für das Gebiet der Küstengewässer und des Festlandsockels  (Offshore-Bergverordnung - OffshoreBergV)
+% Ausfertigungsdatum: 03.08.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung ist für die Aufsuchung, Gewinnung und Aufbereitung von Bodenschätzen im Gebiet der Küstengewässer und des Festlandsockels der Bundesrepublik Deutschland (Offshore-Bereich) und die damit verbundenen Tätigkeiten und Einrichtungen sowie, soweit es in dieser Verordnung bestimmt ist, für Transit-Rohrleitungen anzuwenden. Sie ist nicht anzuwenden auf Horizontalbohrungen, die vom Festland aus vorgenommen werden und unter ein Küstengewässer reichen.
 
@@ -19,8 +15,7 @@ Ausfertigungsdatum: 03.08.2016
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 2 – Begriffsbestimmung
+# § 2 – Begriffsbestimmung
 
 (1) „Offshore-Erdöl- und -Erdgasaktivitäten“ sind alle Tätigkeiten, die der Aufsuchung, Gewinnung und Aufbereitung von Erdöl und Erdgas im Offshore-Bereich einschließlich der bei ihrer Gewinnung anfallenden Gase dienen und im Zusammenhang mit einer Plattform oder anderen Einrichtung ausgeübt werden. Zu den Offshore-Erdöl- und -Erdgasaktivitäten gehören die Konzeption, die Planung, der Bau, der Betrieb und die Stilllegung der Plattform oder anderen Einrichtung. Nicht zu den Offshore-Erdöl- und -Erdgasaktivitäten gehört die Errichtung und der Betrieb von Transit-Rohrleitungen, sofern nichts anderes in dieser Verordnung bestimmt ist.
 
@@ -80,8 +75,7 @@ Angebundene Einrichtungen nach Satz 1 sind nur solche, die sich bei ihrem bestim
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 3 – Grundsätzliche Anforderungen
+# § 3 – Grundsätzliche Anforderungen
 
 (1) Der Unternehmer hat bei der Wahl der Aufsuchungs-, Gewinnungs- und Aufbereitungsverfahren, der Einrichtungen und der Stellen, an denen bergbauliche Tätigkeiten im Offshore-Bereich durchgeführt werden sollen, dafür zu sorgen, dass nachteilige Einwirkungen auf das Meer und den Meeresgrund sowie auf Tiere und Pflanzen unterbleiben oder zumindest so gering wie möglich gehalten werden.
 
@@ -95,8 +89,7 @@ Angebundene Einrichtungen nach Satz 1 sind nur solche, die sich bei ihrem bestim
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 4 – Abwasser, Abfall
+# § 4 – Abwasser, Abfall
 
 (1) Es ist verboten, Abwasser und Abfall in das Meer einzubringen, es sei denn, dies ist nach den Vorschriften dieser Verordnung oder nach anderen Vorschriften zulässig.
 
@@ -112,8 +105,7 @@ Er darf dieses Abwasser nur in das Meer einleiten, wenn es nach dem Stand der Te
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 5 – Bohrspülung, Bohrklein
+# § 5 – Bohrspülung, Bohrklein
 
 (1) Der Unternehmer hat bei der Durchführung der Bohrungsarbeiten sicherzustellen, dass der Verlust oder der Austritt von Bohrspülung so gering wie möglich gehalten wird. Hierzu hat er insbesondere geeignete Sicherheits- und Überwachungseinrichtungen an der Bohrung anzubringen.
 
@@ -137,8 +129,7 @@ Er darf dieses Abwasser nur in das Meer einleiten, wenn es nach dem Stand der Te
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 6 – Entledigung und Bergung von Gegenständen
+# § 6 – Entledigung und Bergung von Gegenständen
 
 (1) Arbeitsgeräte, Kabel, Trossen oder sonstige Gegenstände, die ein Hindernis für die Schifffahrt oder den Fischfang oder sonst eine Störung des Meeresgrundes in seiner Funktion als natürlicher Lebensraum darstellen, dürfen nicht in das Meer geworfen oder auf dem Meeresgrund zurückgelassen werden. Unkontrolliert treibende, festgekommene oder gesunkene Gegenstände nach Satz 1 hat der Unternehmer unverzüglich zu bergen.
 
@@ -146,8 +137,7 @@ Er darf dieses Abwasser nur in das Meer einleiten, wenn es nach dem Stand der Te
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 7 – Sonstige Vorsorge- und Schutzmaßnahmen
+# § 7 – Sonstige Vorsorge- und Schutzmaßnahmen
 
 (1) Für den Fall, dass Treibstoffe, die zur Versorgung der Plattform bestimmt sind, bei der Übernahme von Wasserfahrzeugen austreten, hat der Unternehmer geeignete Mittel, Geräte und technische Vorrichtungen zur Eingrenzung, Bekämpfung und Beseitigung der ausgetretenen Treibstoffe bereitzuhalten und diese, soweit erforderlich, unverzüglich einzusetzen.
 
@@ -155,8 +145,7 @@ Er darf dieses Abwasser nur in das Meer einleiten, wenn es nach dem Stand der Te
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 8 – Verfüllen nicht mehr genutzter Bohrungen
+# § 8 – Verfüllen nicht mehr genutzter Bohrungen
 
 Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen oder nicht mehr genutzt werden,
 
@@ -168,8 +157,7 @@ Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen od
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 9 – Maßnahmen bei der Gewinnung von Lockersedimenten
+# § 9 – Maßnahmen bei der Gewinnung von Lockersedimenten
 
 (1) Bei der Gewinnung von Lockersedimenten hat der Unternehmer dafür zu sorgen, dass der Meeresgrund sich ökologisch regenerieren kann und Geschiebemergel und Tone nicht freigelegt werden.
 
@@ -177,8 +165,7 @@ Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen od
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 10 – Schifffahrtszeichen, Kennzeichnung für Luftfahrt, Anzeigepflicht
+# § 10 – Schifffahrtszeichen, Kennzeichnung für Luftfahrt, Anzeigepflicht
 
 (1) Der Unternehmer hat Plattformen zur Gewährleistung der Sicherheit des Schiffsverkehrs mit den erforderlichen Schifffahrtszeichen zu kennzeichnen und deren ordnungsgemäßen Betrieb sicherzustellen. Maßgebend für die Kennzeichnung ist die Empfehlung O-139 des Internationalen Verbandes der Seezeichenverwaltungen (IALA) vom 4. Dezember 2008 in der Fassung vom 13. Dezember 2013<span id="FnR.F795092_02"></span><a href="#F795092_02" class="FnR">*</a></sup> .
 
@@ -198,8 +185,7 @@ Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen od
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 11 – Verbot der Beeinträchtigung von Schifffahrtszeichen
+# § 11 – Verbot der Beeinträchtigung von Schifffahrtszeichen
 
 (1) Es ist verboten, Schifffahrtszeichen im Zusammenhang mit Tätigkeiten nach § 1 zu beseitigen, zu beschädigen oder anderweitig in ihrer Erkennbarkeit zu beeinträchtigen oder ihre Position zu verändern.
 
@@ -207,8 +193,7 @@ Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen od
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 12 – Schiffe im Nahbereich
+# § 12 – Schiffe im Nahbereich
 
 (1) Der Unternehmer hat dafür zu sorgen, dass Schiffe, die sich einer Plattform nähern, auf der regelmäßig Personen beschäftigt sind, beobachtet werden und erforderlichenfalls über die Lage der Plattform unterrichtet und vor einer weiteren Annäherung gewarnt werden.
 
@@ -216,8 +201,7 @@ Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen od
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 13 – Sicherheitszonen
+# § 13 – Sicherheitszonen
 
 (1) Der Unternehmer hat mit Beginn der Errichtung der Plattform eine Sicherheitszone um die Plattform einzurichten und zu überwachen. Die zuständige Behörde kann anordnen, dass die Sicherheitszone über den in § 2 Absatz 15 festgelegten Bereich hinaus auszudehnen ist, sofern dies zur Gewährleistung der Sicherheit der Offshore-Erdöl- und -Erdgasaktivitäten erforderlich ist und durch allgemein anerkannte internationale Normen gestattet oder durch die Internationale Seeschifffahrts-Organisation empfohlen wird.
 
@@ -241,15 +225,13 @@ Der Unternehmer hat Bohrungen, die für eine Nutzung nicht in Betracht kommen od
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 14 – Sicherung des Hubschrauberverkehrs
+# § 14 – Sicherung des Hubschrauberverkehrs
 
 Hubschrauberflugplätze auf ortsfesten Plattformen müssen den Anforderungen der Allgemeinen Verwaltungsvorschrift zur Genehmigung der Anlage und des Betriebs von Hubschrauberflugplätzen vom 19. Dezember 2005 (BAnz. S. 17 186) in der jeweils geltenden Fassung genügen. Hubschrauberflugplätze auf beweglichen Plattformen müssen den Anforderungen genügen, die sich aus den in § 53 Absatz 2 Satz 1 Nummer 4 zur Genehmigung von Plattformen genannten Vorschriften ergeben.
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 15 – Schutz von Unterwasser-Leitungsinfrastruktur
+# § 15 – Schutz von Unterwasser-Leitungsinfrastruktur
 
 (1) Der Unternehmer hat dafür zu sorgen, dass durch seine Tätigkeiten und Einrichtungen Kabel und Rohrleitungen, die auf oder im Meeresgrund verlegt worden sind (Unterwasser-Leitungsinfrastruktur), nicht gefährdet werden und die Durchführung notwendiger Instandsetzungsarbeiten an Unterwasser-Leitungsinfrastruktur gewährleistet ist. In einem Schutzbereich von einer Seemeile beiderseits einer auf den Seekarten eingetragenen oder anderweitig bekannten Trasse einer Unterwasser-Leitungsinfrastruktur dürfen Einrichtungen und Tätigkeiten nur nach Anhörung des Betreibers der Unterwasser-Leitungsinfrastruktur zugelassen werden; für die Errichtung von Plattformen gilt ein Schutzbereich von zwei Seemeilen. Satz 2 ist nicht auf Tätigkeiten anzuwenden, die ihrer Natur nach nicht zu Gefährdungen von Unterwasser-Leitungsinfrastruktur führen können.
 
@@ -257,8 +239,7 @@ Hubschrauberflugplätze auf ortsfesten Plattformen müssen den Anforderungen der
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 16 – Eignungsuntersuchungen, Verbot der Beschäftigung Minderjähriger
+# § 16 – Eignungsuntersuchungen, Verbot der Beschäftigung Minderjähriger
 
 (1) Der Unternehmer darf in Betrieben im Offshore-Bereich nur Personen einsetzen, soweit nach dem Ergebnis ärztlicher Untersuchungen gesundheitliche Bedenken in Bezug auf die vorgesehenen Tätigkeiten nicht bestehen und hierüber eine ärztliche Bescheinigung vorliegt (Eignungsuntersuchung). Die Personen sind in Zeitabständen von längstens zwei Jahren nachzuuntersuchen. Der Umfang und die Durchführung der Untersuchung richten sich nach den §§ 3, 4 Absatz 1 und den §§ 5 und 6 der Gesundheitsschutz-Bergverordnung vom 31. Juli 1991 (BGBl. I S. 1751) in der jeweils geltenden Fassung.
 
@@ -268,8 +249,7 @@ Hubschrauberflugplätze auf ortsfesten Plattformen müssen den Anforderungen der
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 17 – Arbeitsschutz, Betriebsaufsicht und Pflichten der Beschäftigten
+# § 17 – Arbeitsschutz, Betriebsaufsicht und Pflichten der Beschäftigten
 
 (1) Zur Gewährleistung von Sicherheit und Gesundheitsschutz der Beschäftigten hat der Unternehmer die Vorschriften der Allgemeinen Bundesbergverordnung vom 23. Oktober 1995 (BGBl. I S. 1466) in der jeweils geltenden Fassung und der Gesundheitsschutz-Bergverordnung in der jeweils geltenden Fassung zu beachten, sofern sich aus dieser Verordnung nichts anderes ergibt.
 
@@ -282,8 +262,7 @@ Hubschrauberflugplätze auf ortsfesten Plattformen müssen den Anforderungen der
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)  
 (+++ § 17 Abs. 3: Zur Anwendung vgl. § 3 Abs. 3 +++)
 
-
-## § 18 – Vorkehrungen zur Ersten Hilfe
+# § 18 – Vorkehrungen zur Ersten Hilfe
 
 Der Unternehmer hat die Anforderungen nach § 11 Absatz 1 Nummer 4 und Anhang 1 Nummer 5 der Allgemeinen Bundesbergverordnung zu beachten und dabei dafür zu sorgen, dass:
 
@@ -301,8 +280,7 @@ Der Unternehmer hat die Anforderungen nach § 11 Absatz 1 Nummer 4 und Anhang 1 
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 19 – Sicherheits- und Gesundheitsschutzdokument
+# § 19 – Sicherheits- und Gesundheitsschutzdokument
 
 (1) Der Unternehmer hat das Sicherheits- und Gesundheitsschutzdokument nach § 3 der Allgemeinen Bundesbergverordnung zu erstellen und für sämtliche Beschäftigten verfügbar zu halten.
 
@@ -320,8 +298,7 @@ Der Unternehmer hat die Anforderungen nach § 11 Absatz 1 Nummer 4 und Anhang 1 
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 20 – Sprachliche Verständigung
+# § 20 – Sprachliche Verständigung
 
 (1) Sind in einem Betrieb Personen mit unterschiedlicher Muttersprache beschäftigt, so hat der Unternehmer eine einheitliche Verkehrssprache festzulegen.
 
@@ -329,8 +306,7 @@ Der Unternehmer hat die Anforderungen nach § 11 Absatz 1 Nummer 4 und Anhang 1 
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 21 – Wetterschutzkleidung
+# § 21 – Wetterschutzkleidung
 
 Der Unternehmer hat den Beschäftigten
 
@@ -342,8 +318,7 @@ Der Unternehmer hat den Beschäftigten
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 22 – Unterkünfte, sanitäre Einrichtungen
+# § 22 – Unterkünfte, sanitäre Einrichtungen
 
 (1) Der Unternehmer hat auf der Plattform Unterkünfte bereitzustellen, die der Art, dem Umfang und der Dauer der jeweiligen betrieblichen Tätigkeiten angemessen sind.
 
@@ -409,8 +384,7 @@ Auf Plattformen, auf denen in der Regel weniger als neun Beschäftigte ständig 
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 23 – Allgemeine Anforderungen an Taucherarbeiten
+# § 23 – Allgemeine Anforderungen an Taucherarbeiten
 
 (1) Bei Taucherarbeiten ist der Stand der Tauchtechnik einzuhalten.
 
@@ -438,8 +412,7 @@ Auf Plattformen, auf denen in der Regel weniger als neun Beschäftigte ständig 
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 24 – Durchführung von Taucherarbeiten
+# § 24 – Durchführung von Taucherarbeiten
 
 (1) Der Unternehmer hat dafür zu sorgen, dass bei Taucherarbeiten und Arbeiten in Unterwasserdruckkammern
 
@@ -479,8 +452,7 @@ Beim Austauchen sind die Austauchtabellen der Unfallverhütungsvorschrift Tauche
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 25 – Plan für Unterwasserarbeiten und Dokumentation von Taucherarbeiten
+# § 25 – Plan für Unterwasserarbeiten und Dokumentation von Taucherarbeiten
 
 (1) Für die Durchführung von Taucherarbeiten und Arbeiten in Unterwasserdruckkammern ist ein Plan (Plan für Unterwasserarbeiten) aufzustellen, in dem festzulegen sind
 
@@ -528,8 +500,7 @@ Die Angaben sind vom Taucheinsatzleiter abzuzeichnen und nach Beendigung der Tau
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 26 – Brand-, Explosions- und Gasschutz
+# § 26 – Brand-, Explosions- und Gasschutz
 
 (1) Der Unternehmer hat die nach der Art der Tätigkeiten sowie der Einrichtungen erforderlichen Maßnahmen und Vorkehrungen gegen das Entstehen und Ausbreiten von Bränden und gegen das Auftreten explosionsfähiger Atmosphäre zu treffen, die solche Gefahren verhindern oder diese zumindest auf das nach dem Stand der Technik und den betrieblichen Gegebenheiten unvermeidbare Ausmaß begrenzen. Bei der Auswahl und Ausgestaltung der Maßnahmen und Vorkehrungen sind die Ergebnisse der Beurteilung von Gefahren nach § 3 Absatz 1 Satz 5 Nummer 1 der Allgemeinen Bundesbergverordnung und nach § 19 Absatz 2 Satz 1 Nummer 1 und 2 zu berücksichtigen, die Vorgaben des Anhangs 1 Nummer 1 der Allgemeinen Bundesbergverordnung zu beachten sowie die Vorgaben des Anhangs I Nummer 1 der Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643, 1644) in der jeweils geltenden Fassung entsprechend anzuwenden. Ergänzend sind die folgenden Absätze anzuwenden.
 
@@ -569,8 +540,7 @@ Der Unternehmer hat die Arbeiten und die zu treffenden Sicherheitsvorkehrungen n
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 27 – Ablegestationen und Sammelpunkte
+# § 27 – Ablegestationen und Sammelpunkte
 
 (1) Der Unternehmer hat auf Plattformen alle erforderlichen Maßnahmen zu treffen, damit
 
@@ -586,8 +556,7 @@ Die Maßnahmen müssen den Beschäftigten über einen ausreichend langen Zeitrau
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 28 – Umgang mit brennbaren und wassergefährdenden Stoffen
+# § 28 – Umgang mit brennbaren und wassergefährdenden Stoffen
 
 (1) Der Unternehmer hat Behälter und Behältnisse zur Lagerung von brennbaren Flüssigkeiten so auszuwählen, aufzustellen und zu befestigen, dass sie den im Betrieb auftretenden Beanspruchungen standhalten. Lagerbehälter, die nicht in das Tragwerk oder in die Aufbauten einer Plattform einbezogen sind, und ortsbewegliche Behältnisse darf er im Innern einer Plattform nur in den dafür bestimmten Lagerräumen und im Freien nur an den dafür bestimmten Lagerplätzen aufstellen. Die Lagerräume und Lagerplätze hat er so zu gestalten, dass auftretende Undichtheiten erkennbar sind und auslaufende Flüssigkeiten aufgefangen werden. Bei einwandigen Lagerbehältern sind die Auffangvorrichtungen so zu bemessen, dass die Inhalte der Lagerbehälter vollständig aufgenommen werden. Ortsbewegliche Behältnisse müssen im Übrigen den verkehrsrechtlichen Vorschriften über die Beförderung gefährlicher Güter entsprechen.
 
@@ -603,8 +572,7 @@ Die Maßnahmen müssen den Beschäftigten über einen ausreichend langen Zeitrau
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 29 – Umgang mit Sprengstoffen und Zündmitteln
+# § 29 – Umgang mit Sprengstoffen und Zündmitteln
 
 (1) Für die Kontrolle des Umgangs mit Sprengstoffen und Zündmitteln ist eine verantwortliche Person zu bestellen. Der selbständige Umgang mit Sprengstoffen und Zündmitteln ist nur der nach Satz 1 bestellten verantwortlichen Person und den von ihr beauftragten Personen gestattet (Sprengberechtigte). Die verantwortliche Person hat für die von ihr beauftragten Personen die Art und den Umfang des Umgangs mit Sprengstoff und Zündmitteln schriftlich festzulegen.
 
@@ -634,8 +602,7 @@ Sprengberechtigte dürfen sich beim Umgang mit Sprengstoffen und Zündmitteln vo
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 30 – Umgang mit radioaktiven Stoffen und Schutz vor ionisierender Strahlung
+# § 30 – Umgang mit radioaktiven Stoffen und Schutz vor ionisierender Strahlung
 
 (1) Bedarf der ortsveränderliche Umgang mit oder die Beförderung von radioaktiven Stoffen oder der ortsveränderliche Betrieb einer Anlage zur Erzeugung ionisierender Strahlung, einer Röntgeneinrichtung oder eines Störstrahlers (ortsveränderlicher Einsatz) im Gebiet des Festlandsockels einer Genehmigung nach dem Strahlenschutzgesetz und hat ein anderer Nordsee-Anliegerstaat, ein anderer Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum eine Genehmigung für diese Tätigkeit erteilt und ist die von dem anderen Staat erteilte Genehmigung unter Berücksichtigung der nach Absatz 2 vorzulegenden Unterlagen der nach dem Strahlenschutzgesetz erforderlichen Genehmigung gleichwertig, so hat die zuständige Behörde die Gleichwertigkeit auf Antrag festzustellen. Sofern keine umfassende Gleichwertigkeit der Genehmigung besteht, kann die Feststellung der Gleichwertigkeit inhaltlich beschränkt und zur Gewährleistung des Strahlenschutzes mit Auflagen verbunden werden. Hat die zuständige Behörde die Gleichwertigkeit festgestellt, so gilt im Gebiet des Festlandssockels die von dem anderen Staat erteilte Genehmigung für einen Zeitraum von bis zu vier Wochen ab dem Zeitpunkt der Feststellung der Gleichwertigkeit als Genehmigung im Sinne des Strahlenschutzgesetzes. Die zuständige Behörde kann den in Satz 3 genannten Zeitraum, jeweils auf Antrag, höchstens zweimal um jeweils bis zu vier Wochen verlängern.
 
@@ -663,8 +630,7 @@ Die Genehmigung und die weiteren Unterlagen nach Satz 1 können ohne deutsche Ü
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 31 – Niederbringen von Bohrungen
+# § 31 – Niederbringen von Bohrungen
 
 (1) Bohrungen, mit denen Erdöl- oder Erdgaslagerstätten erschlossen werden sollen oder andere ausbruchsgefährdete Gebirgsschichten angebohrt werden können, hat der Unternehmer durch Verrohrung zu sichern. Die erste Rohrfahrt (Ankerrohrfahrt) ist einzubauen, bevor die Bohrung mögliche ausbruchsgefährdete Gebirgsschichten erreicht. Sie ist so abzusetzen, dass einer Verankerung der Absperreinrichtungen und der nachfolgenden Rohrfahrten gewährleistet ist. Die Absetzteufen der einzelnen Rohrfahrten sind so zu bemessen, dass ein Aufbrechen des Gebirges in dem jeweils unverrohrten Teil des Bohrloches beim Auftreten von Erdöl oder Erdgas vermieden wird; bei der Bemessung sind die Gebirgsfestigkeit und der zu erwartende Lagerstättendruck zu berücksichtigen.
 
@@ -700,8 +666,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 32 – Überwachung des Bohrlochverlaufs und Berichtspflicht
+# § 32 – Überwachung des Bohrlochverlaufs und Berichtspflicht
 
 (1) Der Unternehmer hat bei Bohrungen
 
@@ -728,8 +693,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)  
 (+++ § 32 Abs. 1 bis 3: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 33 – Bohrungen zur Gewinnung von Erdöl und Erdgas
+# § 33 – Bohrungen zur Gewinnung von Erdöl und Erdgas
 
 (1) Bei Bohrungen zur Gewinnung von Erdöl und Erdgas müssen der Bohrlochkopf und seine Einrichtungen so beschaffen sein, dass sie dem höchsten zu erwartenden Kopfdruck standhalten.
 
@@ -751,8 +715,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 34 – Hilfsbohrungen
+# § 34 – Hilfsbohrungen
 
 (1) Bei Hilfsbohrungen hat der Unternehmer dafür zu sorgen, dass die durch die Bohrung eingeleiteten Stoffe nicht in andere als in die dafür bestimmten Gebirgsschichten gelangen können.
 
@@ -770,8 +733,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 35 – Verhütung und Bekämpfung von Ausbrüchen
+# § 35 – Verhütung und Bekämpfung von Ausbrüchen
 
 (1) Die Beaufsichtigung von Bohrungen, bei denen ein Ausbruch nicht ausgeschlossen werden kann, darf der Unternehmer nur Personen übertragen, die an einem Lehrgang über die Verhütung von Ausbrüchen erfolgreich teilgenommen und mindestens alle zwei Jahre Wiederholungskurse besucht haben. Der Unternehmer hat dafür zu sorgen, dass die sonstigen an solchen Bohrungen beschäftigten Personen über das Verhalten bei Ausbrüchen unterwiesen werden und in regelmäßigen Zeitabständen an Übungen zur Bohrlochsicherung teilnehmen.
 
@@ -779,8 +741,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 36 – Zusätzliche Überwachungsmaßnahmen für die Sicherheit
+# § 36 – Zusätzliche Überwachungsmaßnahmen für die Sicherheit
 
 (1) Der Unternehmer hat in Betrieben mit Offshore-Erdöl- und -Erdgasaktivitäten Überwachungsvorrichtungen einzubauen, die eine ständige Überwachung der für die Sicherheit bedeutsamen Betriebszustände ermöglichen.
 
@@ -798,8 +759,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 37 – Betriebsanweisungen
+# § 37 – Betriebsanweisungen
 
 (1) Der Unternehmer hat zur Regelung wiederkehrender und für die Sicherheit bedeutsamer Betriebs- und Arbeitsvorgänge die für ihren sicheren und ordnungsgemäßen Ablauf erforderlichen Bedienungsanleitungen, Verhaltensregeln und Sicherheitsvorkehrungen als innerbetriebliche Anordnung in Betriebsanweisungen schriftlich festzulegen. Dies gilt insbesondere für
 
@@ -826,8 +786,7 @@ b) mit absperrbaren Anschlüssen, durch die Gase oder Flüssigkeiten aus der Boh
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)  
 (+++ § 37 Abs. 2: Zur Anwendung vgl. § 3 Abs. 3 +++)
 
-
-## § 38 – Bereithaltungs- und Aufbewahrungspflichten für Unterlagen
+# § 38 – Bereithaltungs- und Aufbewahrungspflichten für Unterlagen
 
 (1) Der Unternehmer hat die für den Betrieb und die Überwachung der Plattformen und der anderen Einrichtungen erforderlichen Unterlagen und Aufzeichnungen
 
@@ -866,8 +825,7 @@ Weitergehende Pflichten zur Verteilung von Betriebsanweisungen nach § 37 Absatz
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)  
 (+++ § 38 Abs. 3: Zur Anwendung vgl. § 49 Abs. 4 +++)
 
-
-## § 39 – Anzeige von besonderen Ereignissen und Unfällen
+# § 39 – Anzeige von besonderen Ereignissen und Unfällen
 
 (1) Der Unternehmer hat der zuständigen Behörde unverzüglich Folgendes anzuzeigen:
 
@@ -909,8 +867,7 @@ Bei der Anzeige sind die Umstände, insbesondere die Ursache, die Auswirkungen a
 (+++ Kapitel 1 (§§ 1 bis 39): Zur Anwendung vgl. § 69 Abs. 1 +++)  
 (+++ § 39 Abs. 1: Zur Anwendung vgl. § 64 Abs. 1 +++)
 
-
-## § 40 – Allgemeine Anforderungen an das Risikomanagement
+# § 40 – Allgemeine Anforderungen an das Risikomanagement
 
 (1) Der Unternehmer hat sicherzustellen, dass Offshore-Erdöl- und -Erdgasaktivitäten auf der Grundlage eines systematischen Risikomanagements durchgeführt und alle geeigneten Maßnahmen zur Verhütung schwerer Unfälle getroffen werden, so dass das Risiko schwerer Unfälle für Personen, Umwelt und Plattformen vertretbar ist.
 
@@ -937,8 +894,7 @@ Bei der Anzeige sind die Umstände, insbesondere die Ursache, die Auswirkungen a
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 40 Abs. 1 u. 2: Zur Anwendung vgl. § 72 +++)
 
-
-## § 41 – Prüfung der Leistungsfähigkeit; Nachweispflicht
+# § 41 – Prüfung der Leistungsfähigkeit; Nachweispflicht
 
 (1) Ein Betriebsplan nach § 52 Absatz 1 des Bundesberggesetzes für Offshore-Erdöl- und -Erdgasaktivitäten ist nur zuzulassen wenn,
 
@@ -977,8 +933,7 @@ e) Nationalparks im Sinne von § 24 des Bundesnaturschutzgesetzes vom 29. Juli 2
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 41: Zur Anwendung vgl. § 72 +++)
 
-
-## § 42 – Anforderungen an den Betriebsplan
+# § 42 – Anforderungen an den Betriebsplan
 
 (1) Ein Betriebsplan nach § 52 des Bundesberggesetzes für Offshore-Erdöl- und -Erdgasaktivitäten ist nur zuzulassen, wenn die folgenden Unterlagen vorliegen:
 
@@ -1001,8 +956,7 @@ e) Nationalparks im Sinne von § 24 des Bundesnaturschutzgesetzes vom 29. Juli 2
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 42: Zur Anwendung vgl. § 72 +++)
 
-
-## § 43 – Bericht über ernste Gefahren
+# § 43 – Bericht über ernste Gefahren
 
 (1) Der Unternehmer hat einen Bericht über ernste Gefahren für Plattformen und angebundene Einrichtungen zu erstellen und diesen regelmäßig, spätestens bei der Vorlage eines neuen Betriebsplans und insbesondere bei Änderungen der Grundlage, auf der der ursprüngliche Bericht zugelassen wurde, einschließlich physischen Änderungen, neuen Erkenntnissen, neuen Techniken oder Änderungen am Betriebsmanagement, oder bei Abbau einer Plattform zu aktualisieren. Der Bericht enthält
 
@@ -1027,8 +981,7 @@ Die zuständige Behörde kann anordnen, dass der Bericht oder Teile des Berichts
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 43: Zur Anwendung vgl. § 72 +++)
 
-
-## § 44 – Unternehmenskonzept zur Verhütung schwerer Unfälle
+# § 44 – Unternehmenskonzept zur Verhütung schwerer Unfälle
 
 (1) Der Unternehmer hat ein Unternehmenskonzept zur Verhütung schwerer Unfälle für die Plattform, die angebundenen Einrichtungen und, sofern sich der Bericht über ernste Gefahren nach § 43 Absatz 1 Satz 3 auf diese zu erstrecken hat, für andere Einrichtungen zu erstellen.
 
@@ -1043,8 +996,7 @@ Die zuständige Behörde kann anordnen, dass der Bericht oder Teile des Berichts
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 44: Zur Anwendung vgl. § 72 +++)
 
-
-## § 45 – Sicherheits- und Umweltmanagementsystem
+# § 45 – Sicherheits- und Umweltmanagementsystem
 
 (1) Der Unternehmer hat ein Sicherheits- und Umweltmanagementsystem für die Plattform, die angebundenen Einrichtungen und, sofern sich der Bericht über ernste Gefahren nach § 43 Absatz 1 Satz 3 auf diese zu erstrecken hat, für andere Einrichtungen einzurichten. Das Sicherheits- und Umweltmanagementsystem hat den Mindestanforderungen nach Anlage 1 Nummer 9 und nach Anlage 3 zu entsprechen und die sonstigen Anforderungen in dieser Verordnung zu beachten.
 
@@ -1065,8 +1017,7 @@ Die zuständige Behörde kann anordnen, dass der Bericht oder Teile des Berichts
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 45: Zur Anwendung vgl. § 72 +++)
 
-
-## § 46 – Systeme zur unabhängigen Überprüfung
+# § 46 – Systeme zur unabhängigen Überprüfung
 
 (1) Der Unternehmer hat Systeme zur unabhängigen Überprüfung zu erstellen und diese Systeme zu beschreiben für
 
@@ -1115,8 +1066,7 @@ Die Systeme zur unabhängigen Überprüfung sind bei einer Förderplattform vor 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 46: Zur Anwendung vgl. § 72 +++)
 
-
-## § 47 – Durchführung der unabhängigen Überprüfung
+# § 47 – Durchführung der unabhängigen Überprüfung
 
 (1) Der Unternehmer hat Plattformen sowie die in § 46 Absatz 1 Satz 1 Nummer 2 genannten Einrichtungen und Geräte, soweit sie nicht von der Überprüfung der Plattform erfasst sind, vor der erstmaligen Inbetriebnahme, nach jeder wesentlichen Änderung oder Instandsetzung unabhängig überprüfen zu lassen. Dabei sind Fristen und Maßgaben zu berücksichtigen, die in der Beschreibung der Systeme der unabhängigen Überprüfung und gegebenenfalls in der Genehmigung der Plattform, der Einrichtung oder des Gerätes festgelegt sind. Der Unternehmer ist zudem verpflichtet, bewegliche Plattformen vor ihrer Wiederinbetriebnahme nach einem Ortswechsel oder einem Umsetzen auf ihren ordnungsgemäßen Aufbau und ihre Funktionssicherheit überprüfen zu lassen.
 
@@ -1145,8 +1095,7 @@ Die Systeme zur unabhängigen Überprüfung sind bei einer Förderplattform vor 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 47: Zur Anwendung vgl. § 72 +++)
 
-
-## § 48 – Interner Notfalleinsatzplan
+# § 48 – Interner Notfalleinsatzplan
 
 (1) Der Unternehmer hat einen internen Notfalleinsatzplan nach Anlage 1 Nummer 10 zu erstellen für die Plattform, angebundenen Einrichtungen und, sofern sich der Bericht über ernste Gefahren nach § 43 Absatz 1 Satz 3 auf diese zu erstrecken hat, für andere Einrichtungen. Dabei hat er die nach Anlage 1 Nummer 2.5 vorgenommene Risikobewertung in Bezug auf schwere Unfälle, die bei der Erstellung des Berichts über ernste Gefahren vorgenommen wird, und das Sicherheits- und Gesundheitsschutzdokument nach § 3 der Allgemeinen Bundesbergverordnung und nach § 19 zu berücksichtigen. Der interne Notfalleinsatzplan schließt eine Analyse der Wirksamkeit von Notfallmaßnahmen bei Öl- oder Gasunfällen nach Anlage 1 Nummer 2.5 ein.
 
@@ -1173,8 +1122,7 @@ Die Systeme zur unabhängigen Überprüfung sind bei einer Förderplattform vor 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 48: Zur Anwendung vgl. § 72 +++)
 
-
-## § 49 – Mitteilung und Berichte über Bohrungsarbeiten
+# § 49 – Mitteilung und Berichte über Bohrungsarbeiten
 
 (1) Vor Beginn von Bohrungsarbeiten hat der Unternehmer eine Mitteilung über Bohrungsarbeiten zu erstellen. Diese enthält
 
@@ -1200,8 +1148,7 @@ Für die Aufbewahrung von Mitteilungen über Bohrungsarbeiten ist § 38 Absatz 3
 (+++ § 49: Zur Anwendung vgl. § 72 +++)  
 (+++ § 49 Abs. 3 u. 4: Zur Anwendung vgl. § 32 Abs. 3 +++)
 
-
-## § 50 – Mitteilung über den kombinierten Betrieb
+# § 50 – Mitteilung über den kombinierten Betrieb
 
 (1) Der Unternehmer hat eine Mitteilung über den kombinierten Betrieb nach Anlage 1 Nummer 7 zu erstellen. Sind an einem kombinierten Betrieb mehrere Unternehmer beteiligt, so haben sie die Mitteilung gemeinsam zu erstellen.
 
@@ -1210,8 +1157,7 @@ Für die Aufbewahrung von Mitteilungen über Bohrungsarbeiten ist § 38 Absatz 3
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 50: Zur Anwendung vgl. § 72 +++)
 
-
-## § 51 – Mitteilung über die Standortverlegung
+# § 51 – Mitteilung über die Standortverlegung
 
 (1) Vor der Verlegung des Standortes einer Plattform hat der Unternehmer die Mitteilung über die Standortverlegung nach den Vorgaben der Anlage 1 Nummer 1 zu erstellen.
 
@@ -1222,8 +1168,7 @@ Für die Aufbewahrung von Mitteilungen über Bohrungsarbeiten ist § 38 Absatz 3
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 51: Zur Anwendung vgl. § 72 +++)
 
-
-## § 52 – Rohrleitungen
+# § 52 – Rohrleitungen
 
 (1) Zur Beförderung von Erdöl, Erdgas und von weiteren Stoffen, die im Zusammenhang mit der Aufsuchung, Gewinnung oder Aufbereitung von Erdöl oder Erdgas benutzt oder gewonnen werden, darf der Unternehmer nur Rohrleitungen verwenden, die
 
@@ -1265,8 +1210,7 @@ d) ölhaltige, brennbare oder wassergefährdende Flüssigkeiten auffangen, die a
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 53 – Genehmigung von Plattformen
+# § 53 – Genehmigung von Plattformen
 
 (1) Die Errichtung, der Betrieb sowie alle wesentlichen Änderungen einer Plattform sowie einer angebundenen Einrichtung nach § 2 Absatz 10 Satz 1 Nummer 1, die der Durchführung bergbaulicher Tätigkeiten oder der Unterbringung von Personen dienen, bedürfen der Genehmigung der zuständigen Behörde. Die Genehmigung kann vom Unternehmer sowie von demjenigen, in dessen Auftrag die Herstellung erfolgt, beantragt werden.
 
@@ -1295,8 +1239,7 @@ Abweichend von Satz 1 Nummer 4 kann, falls der Flaggenstaat kein Sicherheitszeug
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 § 53 Abs. 2 Satz 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Wort "Erdgasaktivitäten" der überflüssige Bindestrich entfernt
 
-
-## § 54 – Positionierung von Plattformen auf See
+# § 54 – Positionierung von Plattformen auf See
 
 (1) Während der Positionierung der Plattformen auf See sind alle personellen, organisatorischen und sachlichen Maßnahmen zu treffen, damit die Sicherheit und der Schutz der Gesundheit der Beschäftigten gewährleistet sind. Die vorbereitenden Arbeiten zur Positionierung der Plattformen auf See müssen so ausgeführt werden, dass die Sicherheit und die Stabilität der Plattformen nicht beeinträchtigt werden.
 
@@ -1306,8 +1249,7 @@ Abweichend von Satz 1 Nummer 4 kann, falls der Flaggenstaat kein Sicherheitszeug
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 55 – Sprech- und Sprechfunkverbindungen
+# § 55 – Sprech- und Sprechfunkverbindungen
 
 (1) Der Unternehmer hat auf jeder Plattform eine Sprechverbindung zwischen dem Dienstraum der für die Plattform verantwortlichen Person, dem Funkraum, den Kontrollräumen, Arbeitsräumen, Aufenthaltsräumen, Bereitschaftsräumen und anderen wichtigen Punkten der Plattform einzurichten. Darüber hinaus müssen Nachrichten durch Lautsprecher vom Dienstraum der verantwortlichen Person oder von einer anderen geeigneten Stelle aus in die Kontrollräume, Arbeitsräume, Aufenthaltsräume und Bereitschaftsräume übermittelt werden können und zwar unabhängig von der Sprechverbindung nach Satz 1. Wird auf einer nicht mit Personen besetzten Plattform nur vorübergehend gearbeitet, so sind die Sätze 1 und 2 nur für die Dauer der Arbeiten anzuwenden, wenn eine ausreichende mündliche Verständigung nicht anderweitig gewährleistet ist.
 
@@ -1319,8 +1261,7 @@ Abweichend von Satz 1 Nummer 4 kann, falls der Flaggenstaat kein Sicherheitszeug
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 56 – Melde- und Schutzsysteme
+# § 56 – Melde- und Schutzsysteme
 
 (1) Der Unternehmer hat jede Plattform mit einem akustischen Warnsystem auszustatten, mit dem die Beschäftigten bei Gefahr gewarnt und erforderlichenfalls zum sofortigen Verlassen der Plattform aufgefordert werden können. In Räumen und Bereichen, in denen die Beschäftigten lauten Geräuschen ausgesetzt sind, muss zusätzlich eine optische Warnung gewährleistet sein. Wird auf einer nicht mit Personen besetzten Plattform nur vorübergehend gearbeitet, so sind die Sätze 1 und 2 nur für die Dauer der Arbeiten anzuwenden, wenn eine schnelle und zuverlässige Warnung der Beschäftigten ohne technische Hilfsmittel nicht gewährleistet ist.
 
@@ -1362,8 +1303,7 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 57 – Rettungsmittel
+# § 57 – Rettungsmittel
 
 (1) Der Unternehmer hat dafür zu sorgen, dass bei Gefahr alle Personen die Plattform sofort verlassen und Verunglückte aus dem Wasser gerettet werden können. Hierfür hat er dem Stand der Technik entsprechende Rettungsmittel bereitzustellen. Überlebensfahrzeuge müssen in einer solchen Anzahl vorhanden sein, dass sie alle auf der Plattform anwesenden Personen auch dann noch aufnehmen können, wenn die Hälfte dieser Fahrzeuge bei Störfällen unbrauchbar wird oder nicht erreichbar ist; auf der Plattform vorhandene Rettungsflöße dürfen dabei nicht berücksichtigt werden.
 
@@ -1385,8 +1325,7 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 58 – Notfallübungen
+# § 58 – Notfallübungen
 
 (1) Der Unternehmer hat in enger Zusammenarbeit mit der zuständigen Behörde auf Grundlage des internen und des externen Notfalleinsatzplans regelmäßig zu erproben, inwieweit er auf schwere Unfälle vorbereitet ist.
 
@@ -1405,8 +1344,7 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 (+++ § 58 Abs. 1: Zur Anwendung vgl. § 72 +++)
 
-
-## § 59 – Notfallmaßnahmen
+# § 59 – Notfallmaßnahmen
 
 (1) Der Unternehmer hat im Fall eines schweren Unfalls alle geeigneten Maßnahmen zu ergreifen, um eine Eskalation des schweren Unfalls zu verhindern und seine Folgen zu begrenzen. Er hat insbesondere unverzüglich die im internen Notfalleinsatzplan vorgesehenen Maßnahmen zu ergreifen, soweit sie der Situation angemessen sind.
 
@@ -1416,8 +1354,7 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 60 – Leitfäden
+# § 60 – Leitfäden
 
 (1) Unternehmer, die Offshore-Erdöl- und Erdgasaktivitäten durchführen, haben Leitfäden zu bewährten Verfahren für die Beherrschung ernster Gefahren bei Aktivitäten für die gesamte Auslegungs- und Betriebsphase der Offshore-Erdöl- und Erdgasaktivitäten unter Berücksichtigung der in Anlage 4 genannten Aspekte zu erstellen und zu überarbeiten. Die Leitfäden können auch von den jeweiligen Unternehmensverbänden erstellt und überarbeitet werden. Die Erarbeitung hat auf der Grundlage eines Prioritätenplans zu erfolgen, der in Zusammenarbeit mit der zuständigen Behörde aufzustellen ist.
 
@@ -1426,8 +1363,7 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 § 60 Abs. 1 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Wort "Erdgasaktivitäten" der überflüssige Bindestrich entfernt
 
-
-## § 61 – Vertrauliche Meldung
+# § 61 – Vertrauliche Meldung
 
 (1) Die Beschäftigten sowie andere im Betrieb eingesetzte Personen können der zuständigen Behörde Bedenken hinsichtlich der Sicherheit und des Umweltschutzes im Zusammenhang mit Offshore-Erdöl- und Erdgasaktivitäten vertraulich unter Wahrung der Anonymität melden. Sie haben zuvor zu prüfen, ob ein Gespräch mit dem Arbeitgeber als bessere Maßnahme in Betracht kommt. § 22 Satz 1 Nummer 2 der Allgemeinen Bundesbergverordnung bleibt unberührt.
 
@@ -1438,8 +1374,7 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 § 61 Abs. 1 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Wort "Erdgasaktivitäten" der überflüssige Bindestrich entfernt
 
-
-## § 62 – Informationsaustausch zwischen Unternehmer und Behörden
+# § 62 – Informationsaustausch zwischen Unternehmer und Behörden
 
 (1) Zur Gewährleistung eines grenzübergreifenden europäischen Informationsaustausches für ernste Gefahren hat der Unternehmer der zuständigen Behörde mindestens die in Anlage 7 Nummer 1 genannten Informationen zur Verfügung zu stellen. Hierbei hat er die Vorgaben gemäß der Durchführungsverordnung (EU) Nr. 1112/2014 der Kommission vom 13. Oktober 2014 zur Festlegung eines gemeinsamen Formats für den Informationsaustausch über Indikatoren für ernste Gefahren durch die Betreiber und Eigentümer von Offshore-Erdöl- und -Erdgasanlagen sowie eines gemeinsamen Formats für die Veröffentlichung der Informationen über Indikatoren für ernste Gefahren durch die Mitgliedstaaten (ABl. L 302 vom 22.10.2014, S. 1) zu beachten.
 
@@ -1447,16 +1382,14 @@ Die mit den Melde- und Schutzsystemen zusammenhängenden Notsysteme sind getrenn
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 63 – Beförderungspflicht
+# § 63 – Beförderungspflicht
 
 Der Unternehmer hat auf Verlangen der zuständigen Behörde Personen, die auf Weisung der zuständigen Behörde tätig sind, samt ihrer Ausrüstung zu und von Plattformen sowie zu und von Schiffen, die bei den Offshore-Erdöl- und Erdgasaktivitäten eingesetzt werden, zu befördern. Er hat diese Personen auch durch Unterbringung und Verpflegung zu unterstützen.
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 § 63 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Wort "Erdgasaktivitäten" der überflüssige Bindestrich entfernt
 
-
-## § 64 – Bericht über Offshore-Erdöl- und -Erdgasaktivitäten außerhalb der Europäischen Union
+# § 64 – Bericht über Offshore-Erdöl- und -Erdgasaktivitäten außerhalb der Europäischen Union
 
 (1) Unternehmer, die ihren Sitz in der Bundesrepublik Deutschland haben und selbst oder über Tochterunternehmen Erdöl- und Erdgasaktivitäten auf See außerhalb der Europäischen Union durchführen, haben dem Bundesministerium für Wirtschaft und Energie auf Anfrage unverzüglich über die Umstände eines schweren Unfalls außerhalb der Europäischen Union zu unterrichten, wenn die Erdöl- oder Erdgasaktivität durch den Unternehmer oder deren Tochtergesellschaften oder auf dessen oder deren Rechnung durchgeführt worden ist. Hinsichtlich des Umfangs der Unterrichtung ist § 39 Absatz 1 entsprechend anzuwenden.
 
@@ -1465,8 +1398,7 @@ Der Unternehmer hat auf Verlangen der zuständigen Behörde Personen, die auf We
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)  
 § 64 Abs. 1 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Wort "Erdgasaktivitäten" der überflüssige Bindestrich entfernt
 
-
-## § 65 – Externe Notfalleinsatzpläne und Notfallvorsorge
+# § 65 – Externe Notfalleinsatzpläne und Notfallvorsorge
 
 (1) Die zuständige Behörde hat einen oder mehrere externe Notfalleinsatzpläne für die Plattformen oder angebundene Einrichtungen zu erstellen, die sich in ihrem Zuständigkeitsbereich befinden. Dabei hat sie das Havariekommando hinzuzuziehen, soweit dessen Aufgabenbereich betroffen ist. Der Externe Notfalleinsatzplan hat auch Einrichtungen außerhalb der Sicherheitszone zu erfassen, sofern dies zur Gewährleistung der Sicherheit der Offshore-Erdöl- oder Erdgasaktivitäten erforderlich ist. Die zuständige Behörde hat in den externen Notfalleinsatzplänen eine Strategie zur Begrenzung der Folgen eines schweren Unfalls im Zusammenhang mit Offshore-Erdöl- und Erdgasaktivitäten festzulegen und dabei die Vorgaben der Anlage 5 zu berücksichtigen. Die zuständige Behörde hat den Unternehmer, der die vom Notfallplan betroffene Plattform oder Einrichtung betreibt oder auf eigene Rechnung betreiben lässt, an der Erstellung der externen Notfalleinsatzpläne zu beteiligen und dessen Aufgaben und finanzielle Verpflichtungen festzulegen. Die externen Notfalleinsatzpläne haben der jeweils aktuellen Fassung der internen Notfalleinsatzpläne für die bestehenden oder geplanten Plattformen oder Einrichtungen in dem betroffenen Gebiet Rechnung zu tragen.
 
@@ -1490,8 +1422,7 @@ Der Unternehmer hat auf Verlangen der zuständigen Behörde Personen, die auf We
 (+++ § 65: Zur Anwendung vgl. § 72 +++)  
 § 65 Abs. 1 Satz 3 u. 4 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde vor dem Wort "Erdgasaktivitäten" der überflüssige Bindestrich entfernt
 
-
-## § 66 – Untersuchungen bei und nach einem schweren Unfall
+# § 66 – Untersuchungen bei und nach einem schweren Unfall
 
 (1) Die zuständige Behörde hat bei schweren Unfällen in ihrem Zuständigkeitsbereich gründliche Untersuchungen einzuleiten und aus deren Ergebnissen Empfehlungen abzuleiten. Dabei hat sie das Havariekommando hinzuzuziehen, soweit dessen Aufgabenbereich betroffen ist. Über die Einleitung von Untersuchungen und deren Fortgang hat sie das Bundesministerium für Wirtschaft und Energie unverzüglich zu unterrichten.
 
@@ -1505,8 +1436,7 @@ Der Unternehmer hat auf Verlangen der zuständigen Behörde Personen, die auf We
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 67 – Zusammenarbeit innerhalb der Europäischen Union, Meldepflichten
+# § 67 – Zusammenarbeit innerhalb der Europäischen Union, Meldepflichten
 
 (1) Die zuständige Behörde hat für Offshore-Erdöl- und -Erdgasaktivitäten, die in ihrem Zuständigkeitsbereich stattfinden, jährlich zum 1. Juni einen Jahresbericht mit den in der Anlage 7 Nummer 2 genannten Informationen zu erstellen. Sie hat den Jahresbericht an das Bundesministerium für Wirtschaft und Energie zu übermitteln, das einen zusammenfassenden Jahresbericht an die Europäische Kommission weiterleitet.
 
@@ -1524,15 +1454,13 @@ Der Unternehmer hat auf Verlangen der zuständigen Behörde Personen, die auf We
 
 (+++ Kapitel 2 (§§ 40 bis 67): Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 68 – Übertragung der Pflichten
+# § 68 – Übertragung der Pflichten
 
 Der Unternehmer kann die sich aus dieser Verordnung ergebenden Pflichten ganz oder teilweise auf verantwortliche Personen übertragen, soweit dies nicht nach § 62 Satz 2 des Bundesberggesetzes ausgeschlossen ist.
 
 (+++ Kapitel 3 (§§ 68 bis 72): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 69 – Untergrundspeicherung
+# § 69 – Untergrundspeicherung
 
 (1) Die Vorschriften der Kapitel 1 und 3 sind auf die in § 1 Absatz 2 genannten Tätigkeiten entsprechend anzuwenden.
 
@@ -1544,15 +1472,13 @@ Der Unternehmer kann die sich aus dieser Verordnung ergebenden Pflichten ganz od
 
 (+++ Kapitel 3 (§§ 68 bis 72): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 70 – Ausnahmebewilligungen
+# § 70 – Ausnahmebewilligungen
 
 Die zuständige Behörde kann im Einzelfall Ausnahmen von den Vorschriften des § 24 Absatz 1 Nummer 8, des § 31 Absatz 3 bis 5, des § 33 Absatz 1 bis 6, des § 34 Absatz 2 Satz 2 Nummer 1, des § 52 Absatz 1 und 3 Satz 2 und Absatz 5 sowie des § 57 Absatz 1 Satz 3 zulassen, wenn der mit den Vorschriften bezweckte Schutz von Leben oder Gesundheit von Personen sowie von Sachgütern durch neue technische Entwicklungen oder auf eine andere Weise mindestens gleichwertig sichergestellt ist.
 
 (+++ Kapitel 3 (§§ 68 bis 72): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 71 – Ordnungswidrigkeiten
+# § 71 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 145 Absatz 3 Nummer 1 des Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1618,30 +1544,25 @@ Die zuständige Behörde kann im Einzelfall Ausnahmen von den Vorschriften des �
 
 (+++ Kapitel 3 (§§ 68 bis 72): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## § 72 – Übergangsregelung
+# § 72 – Übergangsregelung
 
 Auf Plattformen und andere Einrichtungen, die am 5. August 2016 aufgrund einer Genehmigung oder Betriebsplanzulassung bereits errichtet waren, sowie im Bereich der Küstengewässer, der nicht Teil des Küstenmeeres ist, auf Plattformen und andere Einrichtungen, die am 5. August 2016 bereits genehmigt waren, sind § 40 Absatz 1 und 2, die §§ 41 bis 51, § 58 Absatz 1 und § 65 ab dem Tag der in der Betriebsplanzulassung vorgesehenen oder aufgrund einer neuen Zulassung eines Betriebsplans erforderlichen Überprüfung der Dokumentation zur Risikobewertung durch die zuständige Behörde anwendbar, spätestens jedoch zum 19. Juli 2018. Bis zum 18. Juli 2018 oder, wenn zuvor eine Überprüfung der Risikobewertung durch die zuständige Behörde nach Satz 1 erfolgt, bis zum Tag vor dem Tag der geplanten Überprüfung, sind die §§ 1, 32 und 40 der Festlandsockel-Bergverordnung vom 21. März 1989 (BGBl. I S. 554), die zuletzt durch Artikel 14 der Verordnung vom 2. Juli 2016 (BGBl. I S. 1257) geändert worden ist, anzuwenden. Auf Transit-Rohrleitungen, die am 5. August 2016 bereits genehmigt waren, ist § 46 zum 19. Juli 2018 anwendbar.
 
 (+++ Kapitel 3 (§§ 68 bis 72): Zur Anwendung vgl. § 69 Abs. 1 +++)
 
-
-## Anlage 1 – (zu § 43 Absatz 1 und 2, § 44 Absatz 2, § 45 Absatz 1 und 2, § 46 Absatz 2, § 48 Absatz 1 und 2, § 49 Absatz 1, § 50 Absatz 1, § 51 Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)Ausgestaltung der Unterlagen für den Betriebsplan und die Genehmigung von Plattformen
+# Anlage 1 – (zu § 43 Absatz 1 und 2, § 44 Absatz 2, § 45 Absatz 1 und 2, § 46 Absatz 2, § 48 Absatz 1 und 2, § 49 Absatz 1, § 50 Absatz 1, § 51 Absatz 1 und § 53 Absatz 2 Satz 1 Nummer 3)Ausgestaltung der Unterlagen für den Betriebsplan und die Genehmigung von Plattformen
 
 (Fundstelle: BGBl. I 2016,1896 - 1902
 
-
-## Anlage 2 – (zu § 49 Absatz 3)Informationen in den Berichten über Bohrungsarbeiten
+# Anlage 2 – (zu § 49 Absatz 3)Informationen in den Berichten über Bohrungsarbeiten
 
 (Fundstelle: BGBl. I 2016,1903)
 
-
-## Anlage 3 – (zu den §§ 44, 45)Vorkehrungen des Unternehmers zur Verhütung schwerer Unfälle
+# Anlage 3 – (zu den §§ 44, 45)Vorkehrungen des Unternehmers zur Verhütung schwerer Unfälle
 
 (Fundstelle: BGBl. I 2016,1904)
 
-
-## Anlage 4 – (zu § 60 Absatz 1)Prioritäten für Entwicklung von Leitfäden nach § 60
+# Anlage 4 – (zu § 60 Absatz 1)Prioritäten für Entwicklung von Leitfäden nach § 60
 
 (Fundstelle: BGBl. I 2016,1905)
 
@@ -1667,17 +1588,14 @@ Leitfäden nach § 60 Absatz 1 haben sich vorrangig auf Maßnahmen zu beziehen, 
 
 10. die wirksame Integration von Sicherheits- und Umweltmanagementsystemen des Unternehmers und anderer Beteiligter an den Offshore-Erdöl- und -Erdgasaktivitäten.
 
-
-## Anlage 5 – (zu § 65 Absatz 1)Informationen in den externen Notfalleinsatzplänen
+# Anlage 5 – (zu § 65 Absatz 1)Informationen in den externen Notfalleinsatzplänen
 
 (Fundstelle: BGBl. I 2016,1906)
 
-
-## Anlage 6 – (zu § 65 Absatz 5)Verzeichnis über Notfallgerätschaften und  -vorkehrungen
+# Anlage 6 – (zu § 65 Absatz 5)Verzeichnis über Notfallgerätschaften und  -vorkehrungen
 
 (Fundstelle: BGBl. I 2016,1907)
 
-
-## Anlage 7 – (zu § 62 Absatz 1 und § 67 Absatz 1)Informationsaustausch und Jahresbericht
+# Anlage 7 – (zu § 62 Absatz 1 und § 67 Absatz 1)Informationsaustausch und Jahresbericht
 
 (Fundstelle: BGBl. I 2016,1908)

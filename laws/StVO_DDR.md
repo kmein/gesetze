@@ -1,10 +1,7 @@
-# [StVO] Verordnung über das Verhalten im Straßenverkehr  (Straßenverkehrs-Ordnung - StVO)
-
-Ausfertigungsdatum: 26.05.1977
-
+% Verordnung über das Verhalten im Straßenverkehr  (Straßenverkehrs-Ordnung - StVO)
+% Ausfertigungsdatum: 26.05.1977
  
-
-## Gliederung
+# Gliederung
 
 Erstes Kapitel
 
@@ -50,18 +47,13 @@ Anlage 1 bis 3
 
 (weggefallen)
 
+# Eingangsformel
 
-## Eingangsformel
+Bei der weiteren Gestaltung der entwickelten sozialistischen Gesellschaft und den damit zu schaffenden grundlegenden Voraussetzungen für den allmählichen Übergang zum Kommunismus in der Deutschen Demokratischen Republik ist das Wohl, die Sicherheit und Geborgenheit der Bürger vornehmstes Anliegen. Das erfordert auch eine hohe Ordnung, Sicherheit und Flüssigkeit im Straßenverkehr. Unter den Bedingungen der ständig zunehmenden Verkehrsdichte gilt es, jederzeit das Leben und die Gesundheit der Bürger sowie das sozialistische und persönliche Eigentum zu schützen und die Erfüllung der wachsenden volkswirtschaftlichen Aufgaben im Straßenverkehr zu sichern. Alle Verkehrsteilnehmer müssen die für sie geltenden Verkehrsbestimmungen kennen und gewissenhaft einhalten. Die Leiter der staatlichen und wirtschaftsleitenden Organe, Kombinate, Betriebe und Einrichtungen sowie die Vorstände der Genossenschaften sind verpflichtet, in ihren Verantwortungsbereichen die Bildung und Erziehung der Verkehrsteilnehmer zu organisieren sowie auf die strikte Einhaltung und Durchsetzung der Verhaltensregeln im Straßenverkehr Einfluß zu nehmen. Die gesellschaftlichen Organisationen und gesellschaftlichen Kollektive für Verkehrssicherheit sind aufgefordert, dabei aktiv mitzuwirken. Deshalb wird folgendes verordnet:
 
-Bei der weiteren Gestaltung der entwickelten sozialistischen Gesellschaft und den damit zu schaffenden grundlegenden Voraussetzungen für den allmählichen Übergang zum Kommunismus in der Deutschen Demokratischen Republik ist das Wohl, die Sicherheit und Geborgenheit der Bürger vornehmstes Anliegen. Das erfordert auch eine hohe Ordnung, Sicherheit und Flüssigkeit im Straßenverkehr. Unter den Bedingungen der ständig zunehmenden Verkehrsdichte gilt es, jederzeit das Leben und die Gesundheit der Bürger sowie das sozialistische und persönliche Eigentum zu schützen und die Erfüllung der wachsenden volkswirtschaftlichen Aufgaben im Straßenverkehr zu sichern.  
-Alle Verkehrsteilnehmer müssen die für sie geltenden Verkehrsbestimmungen kennen und gewissenhaft einhalten. Die Leiter der staatlichen und wirtschaftsleitenden Organe, Kombinate, Betriebe und Einrichtungen sowie die Vorstände der Genossenschaften sind verpflichtet, in ihren Verantwortungsbereichen die Bildung und Erziehung der Verkehrsteilnehmer zu organisieren sowie auf die strikte Einhaltung und Durchsetzung der Verhaltensregeln im Straßenverkehr Einfluß zu nehmen. Die gesellschaftlichen Organisationen und gesellschaftlichen Kollektive für Verkehrssicherheit sind aufgefordert, dabei aktiv mitzuwirken.  
-Deshalb wird folgendes verordnet:
+# §§ 1 bis 6 – (weggefallen)
 
-
-## §§ 1 bis 6 – (weggefallen)
-
-
-## § 7 – Fahrtüchtigkeit
+# § 7 – Fahrtüchtigkeit
 
 (1)
 
@@ -71,17 +63,13 @@ Deshalb wird folgendes verordnet:
 
 (4)
 
+# §§ 8 und 9 – (weggefallen)
 
-## §§ 8 und 9 – (weggefallen)
+# §§ 10 bis 33 – (weggefallen)
 
+# §§ 34 bis 46 – (weggefallen)
 
-## §§ 10 bis 33 – (weggefallen)
-
-
-## §§ 34 bis 46 – (weggefallen)
-
-
-## § 47 – Ordnungsstrafbestimmungen
+# § 47 – Ordnungsstrafbestimmungen
 
 (1) Wer vorsätzlich oder fahrlässig den Bestimmungen dieser Verordnung oder den zu ihrer Ausführung im Einzelfall mündlich, schriftlich oder durch Zeichen erhobenen Forderungen zuwiderhandelt, kann mit Verweis oder Ordnungsstrafe von 10 bis 300 M belegt werden.
 
@@ -105,19 +93,15 @@ kann mit Ordnungsstrafe bis zu 1.000 M belegt werden.
 
 (4) bis (11)
 
+# §§ 48 bis 52 – (weggefallen)
 
-## §§ 48 bis 52 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
+# Anlage 1 bis 3 – (weggefallen)
 
-## Anlage 1 bis 3 – (weggefallen)
-
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III  (BGBl. II 1990, 885, 1223)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III  (BGBl. II 1990, 885, 1223)
 
 Abschnitt III  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:

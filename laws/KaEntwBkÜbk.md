@@ -1,5 +1,3 @@
-# [KaEntwBkÜbk] Übereinkommen zur Errichtung der Karibischen Entwicklungsbank
-
-Ausfertigungsdatum: 18.10.1969
-
+% Übereinkommen zur Errichtung der Karibischen Entwicklungsbank
+% Ausfertigungsdatum: 18.10.1969
  

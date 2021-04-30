@@ -1,15 +1,11 @@
-# [StVOAusnV 8] Achte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung  (8. Ausnahmeverordnung zur StVO)
-
-Ausfertigungsdatum: 20.05.1998
-
+% Achte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung  (8. Ausnahmeverordnung zur StVO)
+% Ausfertigungsdatum: 20.05.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 und Abs. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, Absatz 1 Nr. 3 zuletzt geändert durch das Gesetz vom 6. April 1980 (BGBl. I S. 413), Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S. 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26. November 1986 (BGBl. I S. 2089), verordnet das Bundesministerium für Verkehr nach Anhörung der zuständigen obersten Landesbehörden:
 
-
-## § 1
+# § 1
 
 Abweichend von § 21a Abs. 2 der Straßenverkehrs-Ordnung vom 16. November 1970 (BGBl. I S. 1565, 1971 I S. 38), die zuletzt durch die Verordnung vom 7. August 1997 (BGBl. I S. 2028) geändert worden ist, brauchen die Führer von Krafträdern während der Fahrt keinen Schutzhelm zu tragen, wenn
 
@@ -17,13 +13,11 @@ Abweichend von § 21a Abs. 2 der Straßenverkehrs-Ordnung vom 16. November 1970 
 
 2. die vorhandenen Rückhaltesysteme angelegt sind.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage
+# Anlage
 
 Fundstelle des Originaltextes: BGBl. I 1998, 1131 - 1133
 

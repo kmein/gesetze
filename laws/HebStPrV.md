@@ -1,17 +1,11 @@
-# [HebStPrV] Studien- und Prüfungsverordnung für Hebammen  (HebStPrV)
-
-Ausfertigungsdatum: 08.01.2020
-
+% Studien- und Prüfungsverordnung für Hebammen  (HebStPrV)
+% Ausfertigungsdatum: 08.01.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 71 Absatz 1 des Hebammengesetzes vom 22. November 2019 (BGBl. I S. 1759) verordnet das Bundesministerium für Gesundheit:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -69,13 +63,13 @@ Auf Grund des § 71 Absatz 1 des Hebammengesetzes vom 22. November 2019 (BGBl. I
 
  
 
+ 
 
-## § 1 – Inhalt des Studiums
+# § 1 – Inhalt des Studiums
 
 Im Hebammenstudium sind der studierenden Person die in Anlage 1 genannten Kompetenzen zu vermitteln.
 
-
-## § 2 – Studiengangskonzept
+# § 2 – Studiengangskonzept
 
 (1) Im Studiengangskonzept legt die Hochschule den Umfang des berufspraktischen Studienteils und des hochschulischen Studienteils unter Beachtung von § 11 Absatz 3 des Hebammengesetzes fest. 200 Stunden können dem berufspraktischen oder dem hochschulischen Teil des Studiums zugewiesen werden.
 
@@ -83,8 +77,7 @@ Im Hebammenstudium sind der studierenden Person die in Anlage 1 genannten Kompet
 
 (3) Für die Praxiseinsätze des berufspraktischen Studienteils konkretisiert die Hochschule im Studiengangskonzept die jeweils zu vermittelnden Kompetenzen und verknüpft die Praxiseinsätze inhaltlich mit den theoretischen und praktischen Lehrveranstaltungen.
 
-
-## § 3 – Inhalt des modularen Curriculums
+# § 3 – Inhalt des modularen Curriculums
 
 (1) Das modulare Curriculum wird von der Hochschule so erstellt, dass der studierenden Person die in Anlage 1 genannten Kompetenzen vermittelt werden.
 
@@ -96,13 +89,11 @@ Im Hebammenstudium sind der studierenden Person die in Anlage 1 genannten Kompet
 
 3. die Prüfungsform für den mündlichen Teil der staatlichen Prüfung.
 
-
-## § 4 – Kompetenzerwerb durch Praxiseinsätze
+# § 4 – Kompetenzerwerb durch Praxiseinsätze
 
 Im berufspraktischen Teil des Studiums wird die studierende Person durch Praxiseinsätze befähigt, die in den theoretischen und praktischen Lehrveranstaltungen erworbenen Kompetenzen aufeinander zu beziehen, miteinander zu verbinden und weiterzuentwickeln.
 
-
-## § 5 – Kooperationsvereinbarungen
+# § 5 – Kooperationsvereinbarungen
 
 (1) Die Kooperationsvereinbarungen regeln die enge Zusammenarbeit zwischen der Hochschule und der jeweiligen verantwortlichen Praxiseinrichtung, die bei der Durchführung der Praxiseinsätze erforderlich ist. Der Inhalt der Kooperationsvereinbarung soll dokumentiert werden.
 
@@ -118,8 +109,7 @@ Im berufspraktischen Teil des Studiums wird die studierende Person durch Praxise
 
 5. zur Durchführung der Praxisbegleitung.
 
-
-## § 6 – Praxiseinsätze in Krankenhäusern
+# § 6 – Praxiseinsätze in Krankenhäusern
 
 (1) Jede studierende Person absolviert Praxiseinsätze in Krankenhäusern nach § 13 Absatz 1 Satz 1 Nummer 1 des Hebammengesetzes. In den Praxiseinsätzen, die in Stationen, Abteilungen oder sonstigen Einrichtungen der Krankenhäuser stattfinden, werden den studierenden Personen Kompetenzen im Kompetenzbereich I der Anlage 1 vermittelt. Es finden folgende Praxiseinsätze statt:
 
@@ -135,8 +125,7 @@ Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglic
 
 2. Gynäkologie, insbesondere gynäkologische Diagnostik und gynäkologische Operationen.
 
-
-## § 7 – Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen
+# § 7 – Praxiseinsätze bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen
 
 (1) In Praxiseinsätzen bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten Einrichtungen nach § 13 Absatz 1 Satz 1 Nummer 2 des Hebammengesetzes werden den studierenden Personen Kompetenzen im Kompetenzbereich I.1 „Schwangerschaft“, I.2 „Geburt“ und I.3 „Wochenbett und Stillzeit“ der Anlage 1 vermittelt.
 
@@ -144,20 +133,17 @@ Die Vermittlung der Kompetenzbereiche II bis VI der Anlage 1 wird soweit möglic
 
 (3) Praxiseinsätze nach Absatz 1 können im Umfang von bis zu 160 Stunden auch in weiteren Einrichtungen, die zur ambulanten berufspraktischen Ausbildung von Hebammen geeignet sind, stattfinden.
 
-
-## § 8 – Umfang und Inhalt der Praxiseinsätze
+# § 8 – Umfang und Inhalt der Praxiseinsätze
 
 (1) Die Praxiseinsätze nach den §§ 6 und 7 werden so festgelegt, dass sie mindestens den Vorgaben in Anlage 2 entsprechen.
 
 (2) Während der Praxiseinsätze sind insbesondere die in Anlage 3 aufgeführten Tätigkeiten auszuüben.
 
-
-## § 9 – Praxisplan
+# § 9 – Praxisplan
 
 Bei der Erstellung des Praxisplans nach § 16 Absatz 1 des Hebammengesetzes beachtet die verantwortliche Praxiseinrichtung die Vorgaben des modularen Curriculums der Hochschule sowie die §§ 6 bis 8.
 
-
-## § 10 – Qualifikation der Praxisanleitung
+# § 10 – Qualifikation der Praxisanleitung
 
 (1) Zur Praxisanleitung befähigt ist eine Person, wenn sie
 
@@ -181,18 +167,15 @@ Die Länder können den Zeitraum, in dem die berufspädagogischen Fortbildungen 
 
 (+++ § 10 Abs. 1 Nr 2 und 3: Zur Nichtanwendung vgl. § 59 Abs. 1 +++)
 
-
-## § 11 – Praxisbegleitung
+# § 11 – Praxisbegleitung
 
 Die Hochschule gewährleistet nach § 17 des Hebammengesetzes eine Praxisbegleitung in angemessenem Umfang. Die Praxisbegleitung nimmt gemeinsam mit der praxisanleitenden Person die Beurteilung der studierenden Person vor.
 
-
-## § 12 – Tätigkeitsnachweis
+# § 12 – Tätigkeitsnachweis
 
 In dem Tätigkeitsnachweis nach § 33 Absatz 2 Nummer 3 des Hebammengesetzes dokumentiert die studierende Person diejenigen Tätigkeiten, die sie entsprechend den Vorgaben in Anlage 3 ausübt.
 
-
-## § 13 – Gegenstand und Teile der staatlichen Prüfung
+# § 13 – Gegenstand und Teile der staatlichen Prüfung
 
 (1) Gegenstand der staatlichen Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“ sind die in Anlage 1 genannten Kompetenzen.
 
@@ -206,15 +189,13 @@ In dem Tätigkeitsnachweis nach § 33 Absatz 2 Nummer 3 des Hebammengesetzes dok
 
 (3) Die Teile der staatlichen Prüfung werden nach § 25 Absatz 2 des Hebammengesetzes im Rahmen von Modulprüfungen durchgeführt.
 
-
-## § 14 – Bildung und Zuständigkeit des Prüfungsausschusses
+# § 14 – Bildung und Zuständigkeit des Prüfungsausschusses
 
 (1) An jeder Hochschule, die das Hebammenstudium anbietet, wird ein Prüfungsausschuss gebildet.
 
 (2) Der Prüfungsausschuss ist für die ordnungsgemäße Durchführung der Modulprüfungen zuständig.
 
-
-## § 15 – Zusammensetzung des Prüfungsausschusses
+# § 15 – Zusammensetzung des Prüfungsausschusses
 
 (1) Der Prüfungsausschuss besteht aus den folgenden Mitgliedern:
 
@@ -236,8 +217,7 @@ Kooperiert die Hochschule nach § 75 des Hebammengesetzes mit einer Hebammenschu
 
 (4) Die Vorsitzenden des Prüfungsausschusses können ihre gemeinsamen Aufgaben teilweise oder vollständig auf eine Vorsitzende oder einen Vorsitzenden übertragen.
 
-
-## § 16 – Benennung der Mitglieder des Prüfungsausschusses
+# § 16 – Benennung der Mitglieder des Prüfungsausschusses
 
 (1) Die zuständige Behörde bestellt die oder den Vorsitzenden des Prüfungsausschusses nach § 15 Absatz 1 Nummer 1 und ein Ersatzmitglied für den Fall der Verhinderung der oder des Vorsitzenden.
 
@@ -245,20 +225,17 @@ Kooperiert die Hochschule nach § 75 des Hebammengesetzes mit einer Hebammenschu
 
 (3) Die beiden Vorsitzenden des Prüfungsausschusses bestellen gemeinsam auf Vorschlag der Hochschule die Prüferinnen oder Prüfer für die einzelnen Teile der staatlichen Prüfung sowie für den Fall der Verhinderung jeweils ein Ersatzmitglied für jede Prüferin und jeden Prüfer.
 
-
-## § 17 – Teilnahme der Vorsitzenden des Prüfungsausschusses an der staatlichen Prüfung
+# § 17 – Teilnahme der Vorsitzenden des Prüfungsausschusses an der staatlichen Prüfung
 
 Die Vorsitzenden des Prüfungsausschusses sind verpflichtet, an den einzelnen Teilen der staatlichen Prüfung in dem Umfang teilzunehmen, der zur Erfüllung der in dieser Verordnung geregelten Aufgaben erforderlich ist. Eine Verpflichtung zur Anwesenheit während der gesamten Dauer der staatlichen Prüfung besteht nicht.
 
-
-## § 18 – Zulassung zur staatlichen Prüfung
+# § 18 – Zulassung zur staatlichen Prüfung
 
 (1) Auf Antrag der studierenden Person entscheiden die Vorsitzenden des Prüfungsausschusses, ob die studierende Person zur staatlichen Prüfung zugelassen wird.
 
 (2) Die Voraussetzungen der Zulassung zur staatlichen Prüfung regelt die Hochschule in ihrer jeweiligen Prüfungsordnung. Dabei berücksichtigt sie, dass die studierende Person am praktischen Teil der staatlichen Prüfung nur teilnehmen darf, wenn sie durch Vorlage eines Tätigkeitsnachweises nach § 12 nachweist, dass sie die in Anlage 3 aufgeführten Tätigkeiten ausgeübt hat.
 
-
-## § 19 – Nachteilsausgleich
+# § 19 – Nachteilsausgleich
 
 (1) Einer studierenden Person mit Behinderung oder Beeinträchtigung wird bei der Durchführung der staatlichen Prüfung auf Antrag ein individueller Nachteilsausgleich gewährt.
 
@@ -268,8 +245,7 @@ Die Vorsitzenden des Prüfungsausschusses sind verpflichtet, an den einzelnen Te
 
 (4) Die Vorsitzenden des Prüfungsausschusses bestimmen, in welcher geänderten Form die Prüfungsleistung zu erbringen ist. Die fachlichen Prüfungsanforderungen dürfen durch den Nachteilsausgleich nicht verändert werden.
 
-
-## § 20 – Benotung von Leistungen in der staatlichen Prüfung
+# § 20 – Benotung von Leistungen in der staatlichen Prüfung
 
 Die in der staatlichen Prüfung erbrachten Leistungen der studierenden Person werden wie folgt benotet:
 
@@ -283,8 +259,7 @@ einschließlich 4,00</td><td style="text-align: center;">ausreichend<br />
 (4)</td><td>eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht</td></tr><tr class="odd"><td style="text-align: left;">5</td><td style="text-align: center;">über 4,00</td><td style="text-align: center;">mangelhaft<br />
 (5)</td><td>eine Leistung, die wegen erheblicher Mängel den Anforderungen nicht mehr entspricht</td></tr></tbody></table>
 
-
-## § 21 – Gegenstand des schriftlichen Teils der staatlichen Prüfung
+# § 21 – Gegenstand des schriftlichen Teils der staatlichen Prüfung
 
 (1) Gegenstand des schriftlichen Teils der staatlichen Prüfung sind Kompetenzen in folgenden Kompetenzbereichen der Anlage 1:
 
@@ -298,15 +273,13 @@ einschließlich 4,00</td><td style="text-align: center;">ausreichend<br />
 
 (2) Die Aufgaben für die Klausuren werden auf Vorschlag der Hochschule durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
-
-## § 22 – Bewertung des schriftlichen Teils der staatlichen Prüfung
+# § 22 – Bewertung des schriftlichen Teils der staatlichen Prüfung
 
 (1) Jede Klausur des schriftlichen Teils der staatlichen Prüfung ist von mindestens zwei Prüferinnen oder Prüfern zu benoten.
 
 (2) Auf der Grundlage der Benotungen der Prüferinnen oder Prüfer legen die Vorsitzenden des Prüfungsausschusses im Benehmen mit den jeweiligen Prüferinnen oder Prüfern die Note der einzelnen Klausuren fest.
 
-
-## § 23 – Bestehen und Note des schriftlichen Teils der staatlichen Prüfung
+# § 23 – Bestehen und Note des schriftlichen Teils der staatlichen Prüfung
 
 (1) Der schriftliche Teil der staatlichen Prüfung ist bestanden, wenn jede Klausur mindestens mit „ausreichend“ benotet worden ist.
 
@@ -318,8 +291,7 @@ einschließlich 4,00</td><td style="text-align: center;">ausreichend<br />
 
 2. die unterschiedlichen Module hinsichtlich des Arbeitsaufwandes unterschiedlich gewichtet sind.
 
-
-## § 24 – Gegenstand des mündlichen Teils der staatlichen Prüfung
+# § 24 – Gegenstand des mündlichen Teils der staatlichen Prüfung
 
 (1) Gegenstand des mündlichen Teils der staatlichen Prüfung sind Kompetenzen in den folgenden Kompetenzbereichen der Anlage 1:
 
@@ -333,27 +305,23 @@ Im mündlichen Teil der staatlichen Prüfung werden Bezüge zum Kompetenzbereich
 
 (2) Die Prüfungsaufgaben werden auf Vorschlag der Hochschule durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
-
-## § 25 – Durchführung des mündlichen Teils der staatlichen Prüfung
+# § 25 – Durchführung des mündlichen Teils der staatlichen Prüfung
 
 (1) Der mündliche Teil der staatlichen Prüfung wird von mindestens zwei Prüferinnen oder Prüfern abgenommen. Die Vorsitzenden des Prüfungsausschusses sind berechtigt, sich an der Prüfung zu beteiligen und selbst Prüfungsfragen zu stellen.
 
 (2) Die Vorsitzenden des Prüfungsausschusses können beim mündlichen Teil der staatlichen Prüfung die Anwesenheit von Zuhörerinnen und Zuhörern auf deren Antrag gestatten, wenn die betroffene studierende Person dem zustimmt und ein berechtigtes Interesse der Zuhörerinnen und Zuhörer besteht.
 
-
-## § 26 – Bewertung des mündlichen Teils der staatlichen Prüfung
+# § 26 – Bewertung des mündlichen Teils der staatlichen Prüfung
 
 (1) Der mündliche Teil der staatlichen Prüfung wird von den Prüferinnen oder Prüfern bewertet, die ihn abgenommen haben.
 
 (2) Aus den einzelnen Noten der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern die Note des mündlichen Teils der staatlichen Prüfung.
 
-
-## § 27 – Bestehen des mündlichen Teils der staatlichen Prüfung
+# § 27 – Bestehen des mündlichen Teils der staatlichen Prüfung
 
 Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsleistung mindestens mit „ausreichend“ benotet worden ist.
 
-
-## § 28 – Gegenstand des praktischen Teils der staatlichen Prüfung
+# § 28 – Gegenstand des praktischen Teils der staatlichen Prüfung
 
 (1) Gegenstand des praktischen Teils der staatlichen Prüfung sind Kompetenzen in allen Kompetenzbereichen der Anlage 1.
 
@@ -367,15 +335,13 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 (3) Die Prüfungsaufgaben werden auf Vorschlag mindestens einer Prüferin oder eines Prüfers nach § 15 Absatz 1 Nummer 3 und einer Prüferin oder eines Prüfers nach § 15 Absatz 1 Nummer 5 durch die Vorsitzenden des Prüfungsausschusses bestimmt.
 
-
-## § 29 – Prüfungsorte und Prüfungsarten des praktischen Teils der staatlichen Prüfung
+# § 29 – Prüfungsorte und Prüfungsarten des praktischen Teils der staatlichen Prüfung
 
 (1) Der erste und der dritte Prüfungsteil des praktischen Teils der staatlichen Prüfung werden grundsätzlich im Krankenhaus oder an der Hochschule durchgeführt; sofern hebammengeleitete Einrichtungen oder ambulante Hebammenpraxen gemäß § 16 Absatz 2 des Hebammengesetzes eine Vereinbarung mit einer verantwortlichen Praxiseinrichtung geschlossen haben, können diese Prüfungen auch dort durchgeführt werden. Die Prüfungen sollen mit geeigneten Schwangeren, Wöchnerinnen und Neugeborenen erfolgen. Abweichend von Satz 2 kann der erste oder der dritte Prüfungsteil des praktischen Teils der staatlichen Prüfung mit Modellen und Simulationspersonen durchgeführt werden.
 
 (2) Der zweite Prüfungsteil wird an der Hochschule durchgeführt. Er erfolgt mit Modellen und Simulationspersonen.
 
-
-## § 30 – Ablauf der Prüfungsteile des praktischen Teils der staatlichen Prüfung
+# § 30 – Ablauf der Prüfungsteile des praktischen Teils der staatlichen Prüfung
 
 (1) Der erste Prüfungsteil des praktischen Teils der staatlichen Prüfung besteht aus
 
@@ -409,8 +375,7 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 (4) Im Vorbereitungsteil für den jeweiligen Prüfungsteil hat die studierende Person vorab einen Betreuungsplan schriftlich oder elektronisch zu erstellen. Für den Vorbereitungsteil ist der studierenden Person eine angemessene Zeit zu gewähren. Der Vorbereitungsteil findet unter Aufsicht statt.
 
-
-## § 31 – Durchführung des praktischen Teils der staatlichen Prüfung
+# § 31 – Durchführung des praktischen Teils der staatlichen Prüfung
 
 (1) Der praktische Teil der staatlichen Prüfung wird als Einzelprüfung durchgeführt.
 
@@ -418,15 +383,13 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 (3) Der praktische Teil der staatlichen Prüfung wird von mindestens zwei Prüferinnen oder Prüfern abgenommen. Eine Prüferin oder ein Prüfer ist nach § 15 Absatz 1 Nummer 5 zur Abnahme der praktischen Prüfung geeignet.
 
-
-## § 32 – Bewertung des praktischen Teils der staatlichen Prüfung
+# § 32 – Bewertung des praktischen Teils der staatlichen Prüfung
 
 (1) Der jeweilige Prüfungsteil des praktischen Teils der staatlichen Prüfung wird von den Prüferinnen oder Prüfern bewertet, die ihn abgenommen haben.
 
 (2) Aus den Bewertungen der Prüferinnen oder Prüfer bilden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern die Note des jeweiligen Prüfungsteils des praktischen Teils der staatlichen Prüfung.
 
-
-## § 33 – Bestehen und Note des praktischen Teils der staatlichen Prüfung
+# § 33 – Bestehen und Note des praktischen Teils der staatlichen Prüfung
 
 (1) Der praktische Teil der staatlichen Prüfung ist bestanden, wenn jeder der drei Prüfungsteile mit mindestens „ausreichend“ benotet worden ist.
 
@@ -440,8 +403,7 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 3. die Note des dritten Prüfungsteils mit 20 Prozent.
 
-
-## § 34 – Bestehen und Gesamtnote der staatlichen Prüfung
+# § 34 – Bestehen und Gesamtnote der staatlichen Prüfung
 
 (1) Die staatliche Prüfung hat bestanden, wer den schriftlichen Teil, den mündlichen Teil und den praktischen Teil der staatlichen Prüfung bestanden hat.
 
@@ -455,15 +417,13 @@ Der mündliche Teil der staatlichen Prüfung ist bestanden, wenn die Prüfungsle
 
 3. die Note des praktischen Teils der staatlichen Prüfung mit einem Drittel.
 
-
-## § 35 – Zeugnis
+# § 35 – Zeugnis
 
 (1) Das Zeugnis zum Abschluss des Hebammenstudiums ist von der Hochschule im Einvernehmen mit der zuständigen Behörde auszustellen.
 
 (2) Im Zeugnis wird das Ergebnis der staatlichen Prüfung gesondert ausgewiesen.
 
-
-## § 36 – Wiederholung von Teilen der staatlichen Prüfung und zusätzliche Praxiseinsätze
+# § 36 – Wiederholung von Teilen der staatlichen Prüfung und zusätzliche Praxiseinsätze
 
 (1) Wenn eine studierende Person
 
@@ -481,8 +441,7 @@ nicht bestanden hat, kann sie den betreffenden Bestandteil nach Nummer 1 bis 3 e
 
 (4) Dauer und Inhalt des zusätzlichen Praxiseinsatzes bestimmen die Vorsitzenden des Prüfungsausschusses.
 
-
-## § 37 – Rücktritt von der staatlichen Prüfung
+# § 37 – Rücktritt von der staatlichen Prüfung
 
 (1) Tritt eine studierende Person nach ihrer Zulassung, aber vor Beginn der Prüfungshandlung von einem Bestandteil der staatlichen Prüfung nach § 36 Absatz 1 Nummer 1 bis 3 zurück, so hat sie den Vorsitzenden des Prüfungsausschusses unverzüglich den Grund für ihren Rücktritt schriftlich oder elektronisch mitzuteilen.
 
@@ -496,16 +455,14 @@ nicht bestanden hat, kann sie den betreffenden Bestandteil nach Nummer 1 bis 3 e
 § 37: Zur Geltung vgl. § 46 Abs. 5  
 § 37: Zur Geltung vgl. § 51 Abs. 3 +++)
 
-
-## § 38 – Versäumnisse
+# § 38 – Versäumnisse
 
 Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nach § 36 Absatz 1 Nummer 1 bis 3, ist § 37 entsprechend anzuwenden. Der Abbruch eines Bestandteils der staatlichen Prüfung nach Beginn der Prüfungshandlung gilt als Versäumnis.
 
 (+++ § 38: Zur Geltung vgl. § 46 Abs. 5  
 § 38: Zur Geltung vgl. § 51 Abs. 3 +++)
 
-
-## § 39 – Ordnungsverstöße und Täuschungsversuche
+# § 39 – Ordnungsverstöße und Täuschungsversuche
 
 (1) Hat eine studierende Person die ordnungsgemäße Durchführung der staatlichen Prüfung in erheblichem Maß gestört oder eine Täuschung versucht, so können die Vorsitzenden des Prüfungsausschusses den betreffenden Teil der staatlichen Prüfung für nicht bestanden erklären.
 
@@ -516,8 +473,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 (+++ § 39: Zur Geltung vgl. § 46 Abs. 5  
 § 39: Zur Geltung vgl. § 51 Abs. 3 +++)
 
-
-## § 40 – Niederschrift
+# § 40 – Niederschrift
 
 (1) Über die staatliche Prüfung ist eine Niederschrift zu erstellen.
 
@@ -526,8 +482,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 (+++ § 40: Zur Geltung vgl. § 46 Abs. 5  
 § 40: Zur Geltung vgl. § 51 Abs. 3 +++)
 
-
-## § 41 – Aufbewahrung von Prüfungsunterlagen und Einsichtnahme
+# § 41 – Aufbewahrung von Prüfungsunterlagen und Einsichtnahme
 
 (1) Die Klausuren der staatlichen Prüfung sind drei Jahre aufzubewahren. Anträge auf Zulassung zur staatlichen Prüfung und Niederschriften über die staatliche Prüfung sind zehn Jahre aufzubewahren.
 
@@ -538,8 +493,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 (+++ § 41: Zur Geltung vgl. § 46 Abs. 5  
 § 41: Zur Geltung vgl. § 51 Abs. 3 +++)
 
-
-## § 42 – Erlaubnisurkunde
+# § 42 – Erlaubnisurkunde
 
 (1) Bei der Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 5 Absatz 1 des Hebammengesetzes verwendet die zuständige Behörde das Muster der Erlaubnisurkunde nach Anlage 4.
 
@@ -547,8 +501,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (3) Im Fall des Zugangs zum Hebammenstudium nach § 10 Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb oder cc des Hebammengesetzes verwendet die zuständige Behörde bei der Erteilung der Erlaubnis das Muster der Erlaubnisurkunde nach Anlage 6.
 
-
-## § 43 – Fristen
+# § 43 – Fristen
 
 (1) Beantragt eine Person, die außerhalb des Geltungsbereiches des Hebammengesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach § 5 des Hebammengesetzes, so bestätigt die zuständige Behörde innerhalb eines Monats nach Eingang des Antrags den Antragseingang und teilt der antragstellenden Person gegebenenfalls mit, welche Unterlagen fehlen, die für den Nachweis der Erfüllung der Voraussetzungen des § 5 Absatz 2 Nummer 1 bis 4 des Hebammengesetzes erforderlich sind.
 
@@ -558,8 +511,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (4) Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
-
-## § 44 – Bescheide bei Feststellung wesentlicher Unterschiede
+# § 44 – Bescheide bei Feststellung wesentlicher Unterschiede
 
 (1) Stellt die Behörde hinsichtlich der Gleichwertigkeit der Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie der antragstellenden Person einen rechtsmittelfähigen Bescheid.
 
@@ -575,8 +527,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 5. die Anpassungsmaßnahmen nach Abschnitt 2 oder Abschnitt 3 dieses Teils.
 
-
-## § 45 – Gegenstand, Ablauf und Ort der Eignungsprüfung
+# § 45 – Gegenstand, Ablauf und Ort der Eignungsprüfung
 
 (1) In der Eignungsprüfung hat die zu prüfende Person nachzuweisen, dass sie über die Kompetenzen verfügt, die zum Ausgleich der von der zuständigen Behörde festgestellten wesentlichen Unterschiede erforderlich sind.
 
@@ -596,8 +547,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (6) Die zuständige Behörde legt die Prüfungsorte für die einzelnen Prüfungsteile fest.
 
-
-## § 46 – Durchführung und Abschluss der Eignungsprüfung
+# § 46 – Durchführung und Abschluss der Eignungsprüfung
 
 (1) Die Eignungsprüfung wird als staatliche Prüfung durchgeführt. Die Länder können zur Durchführung der Eignungsprüfung die Prüfungsausschüsse und die Prüfungstermine der staatlichen Prüfung nach Teil 2 nutzen. Sie haben sicherzustellen, dass antragstellende Personen die Eignungsprüfung innerhalb von sechs Monaten nach der Entscheidung nach § 44 ablegen können.
 
@@ -609,8 +559,7 @@ Versäumt eine studierende Person einen Bestandteil der staatlichen Prüfung nac
 
 (5) Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 37 bis 41 für die Durchführung der Eignungsprüfung entsprechend.
 
-
-## § 47 – Inhalt und Durchführung des Anpassungslehrgangs
+# § 47 – Inhalt und Durchführung des Anpassungslehrgangs
 
 (1) Ziel des Anpassungslehrgangs nach § 58 des Hebammengesetzes ist es, die von der zuständigen Behörde festgestellten wesentlichen Unterschiede auszugleichen. Die zuständige Behörde legt die Dauer, die Formen und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann.
 
@@ -626,15 +575,13 @@ durchgeführt.
 
 (3) Die durchführenden Hochschulen, Krankenhäuser, Hebammen und Einrichtungen bescheinigen gemeinsam die Teilnahme am Anpassungslehrgang und verwenden dabei das Muster der Anlage 8.
 
-
-## § 48 – Gegenstand der Kenntnisprüfung
+# § 48 – Gegenstand der Kenntnisprüfung
 
 (1) In der Kenntnisprüfung hat die zu prüfende Person nachzuweisen, dass sie über die Kompetenzen verfügt, die zur Ausübung des Berufs der Hebamme erforderlich sind.
 
 (2) Gegenstand der Kenntnisprüfung sind die Kompetenzbereiche I bis VI der Anlage 1. Die Kenntnisprüfung umfasst einen mündlichen und einen praktischen Teil.
 
-
-## § 49 – Mündlicher Teil der Kenntnisprüfung
+# § 49 – Mündlicher Teil der Kenntnisprüfung
 
 (1) Im mündlichen Teil der Kenntnisprüfung ist eine Aufgabenstellung zu bearbeiten, die Anforderungen aus dem Kompetenzbereich I der Anlage 1 und mindestens zwei weiteren Kompetenzbereichen enthält. Die Prüfungsaufgabe besteht in der Bearbeitung einer Fallsituation aus einem anderen Betreuungskontext als dem des praktischen Teils der Prüfung.
 
@@ -642,8 +589,7 @@ durchgeführt.
 
 (3) Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer in einer Gesamtbetrachtung die erbrachte Leistung übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen oder Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen oder Prüfern über das Bestehen.
 
-
-## § 50 – Praktischer Teil der Kenntnisprüfung
+# § 50 – Praktischer Teil der Kenntnisprüfung
 
 (1) Im praktischen Teil der Kenntnisprüfung hat die zu prüfende Person in drei Betreuungssituationen nachzuweisen, dass sie die vorbehaltenen Tätigkeiten wahrnehmen kann und insbesondere über die Kompetenz verfügt, physiologische Prozesse während Schwangerschaft, Geburt, Wochenbett und Stillzeit selbstständig und evidenzbasiert zu fördern und zu leiten. Im Rahmen der Betreuung hat die zu prüfende Person eine situationsangemessene Kommunikation mit den zu betreuenden Frauen, ihren Bezugspersonen und den beruflich in die Betreuung eingebundenen Personen zu zeigen.
 
@@ -665,8 +611,7 @@ durchgeführt.
 
 (7) Der praktische Teil der Prüfung ist erfolgreich abgeschlossen, wenn die Prüferinnen und Prüfer jede Betreuungssituation übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung der zu prüfenden Person trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Prüferinnen und Prüfer zu einer unterschiedlichen Bewertung, entscheiden die Vorsitzenden des Prüfungsausschusses im Benehmen mit den Prüferinnen und Prüfern über das Bestehen.
 
-
-## § 51 – Durchführung und Abschluss der Kenntnisprüfung
+# § 51 – Durchführung und Abschluss der Kenntnisprüfung
 
 (1) Die Kenntnisprüfung wird als staatliche Prüfung durchgeführt. Die Länder können zur Durchführung der Kenntnisprüfung die Prüfungsausschüsse und die Prüfungstermine der staatlichen Prüfung nach Teil 2 nutzen. Sie haben sicherzustellen, dass antragstellende Personen die Kenntnisprüfung innerhalb von sechs Monaten nach der Entscheidung nach § 44 ablegen können.
 
@@ -676,8 +621,7 @@ durchgeführt.
 
 (4) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die zu prüfende Person beide Prüfungsteile bestanden hat. Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 9 erteilt.
 
-
-## § 52 – Inhalt und Durchführung des Anpassungslehrgangs
+# § 52 – Inhalt und Durchführung des Anpassungslehrgangs
 
 (1) Ziel des Anpassungslehrgangs nach § 59 des Hebammengesetzes ist es, festzustellen, dass die teilnehmende Person über die Kompetenzen verfügt, die zur Ausübung des Berufs der Hebamme erforderlich sind. Die zuständige Behörde legt die Dauer, die Formen und die Inhalte des Anpassungslehrgangs so fest, dass das Ziel des Anpassungslehrgangs erreicht werden kann.
 
@@ -691,8 +635,7 @@ durchgeführt.
 
 durchgeführt. An der theoretischen Unterweisung sollen praxisanleitende Personen, die die Voraussetzungen nach § 10 erfüllen, in angemessenem Umfang beteiligt werden.
 
-
-## § 53 – Abschluss des Anpassungslehrgangs
+# § 53 – Abschluss des Anpassungslehrgangs
 
 (1) Der Anpassungslehrgang nach § 59 des Hebammengesetzes schließt mit einer Prüfung über die vermittelten Kompetenzen in Form eines Abschlussgespräches ab.
 
@@ -702,8 +645,7 @@ durchgeführt. An der theoretischen Unterweisung sollen praxisanleitende Persone
 
 (4) Die durchführenden Hochschulen, Krankenhäuser, Hebammen und Einrichtungen bescheinigen gemeinsam die Teilnahme am Anpassungslehrgang und verwenden dabei das Muster der Anlage 10.
 
-
-## § 54 – Nachweise der Zuverlässigkeit
+# § 54 – Nachweise der Zuverlässigkeit
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat verfügt und eine Erlaubnis nach § 5 des Hebammengesetzes beantragt, kann zum Nachweis, dass bei ihr die in § 5 Absatz 2 Nummer 2 des Hebammengesetzes genannte Voraussetzung vorliegt, eine von der zuständigen Behörde ihres Herkunftsstaates ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug vorlegen. Wenn ein solcher Nachweis nicht vorgelegt werden kann, kann die antragstellende Person einen gleichwertigen Nachweis vorlegen.
 
@@ -713,54 +655,45 @@ durchgeführt. An der theoretischen Unterweisung sollen praxisanleitende Persone
 
 (4) Werden von der zuständigen Stelle des Herkunftsstaates innerhalb von zwei Monaten weder die in Absatz 1 genannten Bescheinigungen oder Strafregisterauszüge ausgestellt noch die nach Absatz 2 oder 3 nachgefragten Bestätigungen oder Mitteilungen gemacht, kann die antragstellende Person sie durch Vorlage einer Bescheinigung über die Abgabe einer eidesstattlichen Erklärung gegenüber der zuständigen Behörde des Herkunftsstaates oder über die Abgabe einer feierlichen Erklärung, wenn es in dem Herkunftsstaat keine eidesstattliche Erklärung gibt, ersetzen.
 
-
-## § 55 – Nachweise der gesundheitlichen Eignung
+# § 55 – Nachweise der gesundheitlichen Eignung
 
 (1) Eine Person, die über eine Berufsqualifikation aus einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat verfügt und eine Erlaubnis nach § 5 des Hebammengesetzes beantragt, kann zum Nachweis, dass bei ihr die in § 5 Absatz 2 Nummer 3 des Hebammengesetzes genannte Voraussetzung vorliegt, einen entsprechenden Nachweis ihres Herkunftsstaates vorlegen.
 
 (2) Wird im Herkunftsstaat ein solcher Nachweis nicht verlangt, ist eine von einer zuständigen Behörde dieses Staates ausgestellte Bescheinigung anzuerkennen, aus der sich ergibt, dass die in § 5 Absatz 2 Nummer 3 des Hebammengesetzes genannte Voraussetzung erfüllt ist.
 
-
-## § 56 – Aktualität von Nachweisen
+# § 56 – Aktualität von Nachweisen
 
 Die Nachweise nach den §§ 54 und 55 dürfen von der zuständigen Behörde der Beurteilung nur zugrunde gelegt werden, wenn der Zeitpunkt, zu dem sie ausgestellt worden sind, höchstens drei Monate zurückliegt.
 
-
-## § 57 – Übergangsvorschriften zur fachschulischen Ausbildung
+# § 57 – Übergangsvorschriften zur fachschulischen Ausbildung
 
 Für fachschulische Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung anzuwenden.
 
-
-## § 58 – Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben
+# § 58 – Übergangsvorschriften zur Ausbildung in Form von Modellvorhaben
 
 Für Ausbildungen zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 in Form von Modellvorhaben begonnen worden sind, ist bis zum 31. Dezember 2027 die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der bis zum 31. Dezember 2019 geltenden Fassung anzuwenden.
 
-
-## § 59 – Ausnahmeregelung zur Praxisanleitung
+# § 59 – Ausnahmeregelung zur Praxisanleitung
 
 (1) Auf Personen, die am 31. Dezember 2019 als praxisanleitende Person tätig sind oder auf der Grundlage des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung zur Praxisanleitung ermächtigt worden sind, ist § 10 Absatz 1 Nummer 2 und 3 nicht anzuwenden.
 
 (2) Die Ermächtigung oder Tätigkeit als praxisanleitende Person im Sinne des Absatzes 1 ist gegenüber der zuständigen Behörde in geeigneter Form nachzuweisen.
 
-
-## § 60 – Inkrafttreten, Außerkrafttreten
+# § 60 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. Januar 2020 in Kraft. § 43 Absatz 4 tritt am 1. März 2020 in Kraft.
 
 (2) Die Ausbildungs- und Prüfungsverordnung für Hebammen und Entbindungspfleger in der Fassung der Bekanntmachung vom 16. März 1987 (BGBl. I S. 929), die zuletzt durch Artikel 37 des Gesetzes vom 15. August 2019 (BGBl. I S. 1307) geändert worden ist, tritt am 31. Dezember 2019 außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1, § 3 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und 2,§ 13 Absatz 1, § 21 Absatz 1, § 24 Absatz 1, § 28 Absatz 1 und 2,§ 45 Absatz 3, § 48 Absatz 2, § 49 Absatz 1 und § 50 Absatz 2)Kompetenzen für die staatliche Prüfung zur Hebamme
+# Anlage 1 – (zu § 1, § 3 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und 2,§ 13 Absatz 1, § 21 Absatz 1, § 24 Absatz 1, § 28 Absatz 1 und 2,§ 45 Absatz 3, § 48 Absatz 2, § 49 Absatz 1 und § 50 Absatz 2)Kompetenzen für die staatliche Prüfung zur Hebamme
 
 (Fundstelle: BGBl. I 2020, 51 - 53)
 
-I.  
-Selbstständige und evidenzbasierte Förderung und Leitung physiologischer Prozesse während Schwangerschaft, Geburt, Wochenbett und Stillzeit. Erkennen von Risiken und Regelwidrigkeiten bei der Frau und dem Kind sowie Gewährleistung einer kontinuierlichen Hebammenversorgung unter Hinzuziehung der erforderlichen ärztlichen Fachexpertise.
+I. Selbstständige und evidenzbasierte Förderung und Leitung physiologischer Prozesse während Schwangerschaft, Geburt, Wochenbett und Stillzeit. Erkennen von Risiken und Regelwidrigkeiten bei der Frau und dem Kind sowie Gewährleistung einer kontinuierlichen Hebammenversorgung unter Hinzuziehung der erforderlichen ärztlichen Fachexpertise.
 
 1. Schwangerschaft
 
@@ -870,8 +803,7 @@ Die Absolventinnen und Absolventen
 
 4. tragen durch zeitnahe, fachgerechte und prozessorientierte Dokumentation von Maßnahmen während Schwangerschaft, Geburt, Wochenbett und Stillzeit zur Qualität der Informationsübermittlung und zur Patientensicherheit bei.
 
-V.  
-Verantwortliche Gestaltung des intra- und interprofessionellen Handelns in unterschiedlichen systemischen Kontexten, Weiterentwicklung der hebammenspezifischen Versorgung von Frauen und ihren Familien sowie Mitwirkung an der Entwicklung von Qualitäts- und Risikomanagementkonzepten, Leitlinien und Expertenstandards
+V. Verantwortliche Gestaltung des intra- und interprofessionellen Handelns in unterschiedlichen systemischen Kontexten, Weiterentwicklung der hebammenspezifischen Versorgung von Frauen und ihren Familien sowie Mitwirkung an der Entwicklung von Qualitäts- und Risikomanagementkonzepten, Leitlinien und Expertenstandards
 
 Die Absolventinnen und Absolventen
 
@@ -897,8 +829,7 @@ Die Absolventinnen und Absolventen
 
 5. entwickeln ein fundiertes berufliches Selbstverständnis und wirken an der Weiterentwicklung der Profession mit.
 
-
-## Anlage 2 – (zu § 8 Absatz 1)Stundenverteilung der Praxiseinsätze des Hebammenstudiums
+# Anlage 2 – (zu § 8 Absatz 1)Stundenverteilung der Praxiseinsätze des Hebammenstudiums
 
 (Fundstelle: BGBl. I 2020, 54)
 
@@ -906,8 +837,7 @@ Die Absolventinnen und Absolventen
 
 \_\_\_\_\_\_\_\_\_
 
-
-## Anlage 3 – (zu § 8 Absatz 2, den §§ 12 und 18 Absatz 2)Inhalt der Praxiseinsätze
+# Anlage 3 – (zu § 8 Absatz 2, den §§ 12 und 18 Absatz 2)Inhalt der Praxiseinsätze
 
 (Fundstelle: BGBl. I 2020, 55)
 
@@ -933,8 +863,7 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 
 10. Einführung in die Pflege pathologischer Fälle in der Medizin und Chirurgie.
 
-
-## Anlage 4 – (zu § 42 Absatz 1)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
+# Anlage 4 – (zu § 42 Absatz 1)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
 
 (Fundstelle: BGBl. I 2020, 56)
 
@@ -946,8 +875,7 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 
  
 
-
-## Anlage 5 – (zu § 42 Absatz 2)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
+# Anlage 5 – (zu § 42 Absatz 2)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
 
 (Fundstelle: BGBl. I 2020, 57)
 
@@ -963,8 +891,7 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 
  
 
-
-## Anlage 6 – (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
+# Anlage 6 – (zu § 42 Absatz 3)Urkunde über die Erlaubnis zum Führen der Berufsbezeichnung „Hebamme“
 
 (Fundstelle: BGBl. I 2020, 58)
 
@@ -982,8 +909,7 @@ Während der Praxiseinsätze sind insbesondere folgende Tätigkeiten auszuüben:
 
 Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwendete Artikel "der" gestrichen.
 
-
-## Anlage 7 – (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“
+# Anlage 7 – (zu § 46 Absatz 4)Bescheinigung über die staatliche Eignungsprüfung zur „Hebamme“
 
 (Fundstelle: BGBl. I 2020, 59)
 
@@ -1001,8 +927,7 @@ Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwe
 
 \_\_\_\_\_\_\_\_
 
-
-## Anlage 8 – (zu § 47 Absatz 3)Bescheinigung über die Teilnahme am Anpassungslehrgang
+# Anlage 8 – (zu § 47 Absatz 3)Bescheinigung über die Teilnahme am Anpassungslehrgang
 
 (Fundstelle: BGBl. I 2020, 60)
 
@@ -1018,8 +943,7 @@ Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwe
 
  
 
-
-## Anlage 9 – (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“
+# Anlage 9 – (zu § 51 Absatz 4)Bescheinigung über die staatliche Kenntnisprüfung zur „Hebamme“
 
 (Fundstelle: BGBl. I 2020, 61)
 
@@ -1037,8 +961,7 @@ Satz 2 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde der doppelt verwe
 
 \_\_\_\_\_\_\_\_
 
-
-## Anlage 10 – (zu § 53 Absatz 4)Bescheinigung über die Teilnahme am Anpassungslehrgang
+# Anlage 10 – (zu § 53 Absatz 4)Bescheinigung über die Teilnahme am Anpassungslehrgang
 
 (Fundstelle: BGBl. I 2020, 62)
 

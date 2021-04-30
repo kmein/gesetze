@@ -1,17 +1,13 @@
-# [GBBerG] Grundbuchbereinigungsgesetz  (GBBerG)
-
-Ausfertigungsdatum: 20.12.1993
-
+% Grundbuchbereinigungsgesetz  (GBBerG)
+% Ausfertigungsdatum: 20.12.1993
  
-
-## § 1 – Umstellung wertbeständiger Rechte
+# § 1 – Umstellung wertbeständiger Rechte
 
 (1) In dem in Artikel 3 des Einigungsvertrages bestimmten Gebiet kann aus einer Hypothek, Grundschuld oder Rentenschuld, die vor dem 1. Januar 1976 in der Weise bestellt wurde, daß die Höhe der aus dem Grundstück zu zahlenden Geldsumme durch den amtlich festgestellten oder festgesetzten Preis einer bestimmten Menge von Feingold, den amtlich festgestellten oder festgesetzten Preis einer bestimmten Menge von Roggen, Weizen oder einer bestimmten Menge sonstiger Waren oder Leistungen oder durch den Gegenwert einer bestimmten Geldsumme in ausländischer Währung bestimmt wird (wertbeständiges Recht), vom Inkrafttreten dieses Gesetzes an nur die Zahlung eines Geldbetrages nach den folgenden Vorschriften aus dem Grundstück verlangt werden.
 
 (2) Ist die Leistung oder Belastung in einer bestimmten Menge von Roggen und daneben wahlweise in einer bestimmten Menge von Weizen ausgedrückt, so ist der höhere Betrag maßgeblich. Ist die Leistung oder Belastung in einer bestimmten Menge von Roggen oder Weizen und daneben wahlweise in Reichsmark, Rentenmark, Goldmark, in ausländischer Währung oder in einer bestimmten Menge von Feingold ausgedrückt, so kann aus dem Grundstück nur die Zahlung des Betrages in Deutscher Mark verlangt werden, auf den der in Reichsmark, Rentenmark, Goldmark, ausländischer Währung oder der in einer bestimmten Menge von Feingold ausgedrückte Betrag umzurechnen ist.
 
-
-## § 2 – Umgestellte wertbeständige Rechte
+# § 2 – Umgestellte wertbeständige Rechte
 
 (1) Bei wertbeständigen Rechten, die bestimmen, daß sich die Höhe der aus dem Grundstück zu zahlenden Geldsumme durch den amtlich festgestellten oder festgesetzten Preis einer bestimmten Menge von Feingold bestimmt, entsprechen einem Kilogramm Feingold 1.395 Deutsche Mark.
 
@@ -25,20 +21,17 @@ Die Sätze 1 und 2 gelten für Reallasten, die auf die Leistung einer aus dem Ro
 
 (3) Dem Verpflichteten bleibt es unbenommen, sich auf eine andere Umstellung zu berufen, wenn er deren Voraussetzungen nachweist.
 
-
-## § 3 – Umstellung anderer wertbeständiger Rechte
+# § 3 – Umstellung anderer wertbeständiger Rechte
 
 (1) Bei sonstigen wertbeständigen Rechten einschließlich den in § 2 Abs. 2 Satz 2 genannten, bei denen sich die aus dem Grundstück zu zahlende Geldsumme nach dem Gegenwert einer bestimmten Menge Waren oder Leistungen bestimmt, kann nur Zahlung eines Betrages verlangt werden, der dem für die Umrechnung am Tag des Inkrafttretens dieses Gesetzes an den deutschen Börsen notierten Mittelwert, bei fehlender Börsennotierung dem durchschnittlichen Marktpreis für den Ankauf dieser Waren entspricht. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, diese Mittelwerte, bei ihrem Fehlen die durchschnittlichen Marktpreise, durch Rechtsverordnung festzustellen.
 
 (2) Absatz 1 gilt entsprechend, wenn sich die Höhe der aus dem Grundstück zu zahlenden Geldsumme nach dem Gegenwert einer bestimmten Geldsumme in ausländischer Währung bestimmt. Die besonderen Vorschriften über schweizerische Goldhypotheken bleiben unberührt.
 
-
-## § 4 – Grundbuchvollzug
+# § 4 – Grundbuchvollzug
 
 Die nach den §§ 1 bis 3 eintretenden Änderungen bedürfen zum Erhalt ihrer Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht der Eintragung. Die Beteiligten sind verpflichtet, die zur Berichtigung, die auch von Amts wegen erfolgen kann, erforderlichen Erklärungen abzugeben. Gebühren für die Grundbuchberichtigung werden nicht erhoben.
 
-
-## § 5 – Erlöschen von Dienstbarkeiten und vergleichbaren Rechten
+# § 5 – Erlöschen von Dienstbarkeiten und vergleichbaren Rechten
 
 (1) Im Grundbuch zugunsten natürlicher Personen eingetragene nicht vererbliche und nicht veräußerbare Rechte, insbesondere Nießbrauche, beschränkte persönliche Dienstbarkeiten und Wohnungsrechte, gelten unbeschadet anderer Erlöschenstatbestände mit dem Ablauf von einhundertundzehn Jahren von dem Geburtstag des Berechtigten an als erloschen, sofern nicht innerhalb von 4 Wochen ab diesem Zeitpunkt eine Erklärung des Berechtigten bei dem Grundbuchamt eingegangen ist, daß er auf dem Fortbestand seines Rechts bestehe; die Erklärung kann in Textform oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle abgegeben werden. Ist der Geburtstag bei Inkrafttreten dieses Gesetzes nicht aus dem Grundbuch oder den Grundakten ersichtlich, so ist der Tag der Eintragung des Rechts maßgeblich. Liegt der nach den vorstehenden Sätzen maßgebliche Zeitpunkt vor dem Inkrafttreten dieses Gesetzes, so gilt das Recht mit dem Inkrafttreten dieses Gesetzes als erloschen, sofern nicht innerhalb von 4 Wochen ab diesem Zeitpunkt eine Erklärung des Berechtigten gemäß Satz 1 bei dem Grundbuchamt eingegangen ist.
 
@@ -46,8 +39,7 @@ Die nach den §§ 1 bis 3 eintretenden Änderungen bedürfen zum Erhalt ihrer Wi
 
 (3) Ein nach Maßgabe des Absatzes 1 als erloschen geltendes oder gemäß Absatz 2 erloschenes Recht kann von dem Grundbuchamt von Amts wegen gelöscht werden.
 
-
-## § 6 – Berechtigte unbekannten Aufenthalts, nicht mehr bestehende Berechtigte
+# § 6 – Berechtigte unbekannten Aufenthalts, nicht mehr bestehende Berechtigte
 
 (1) Ist bei einem Nießbrauch, einer beschränkten persönlichen Dienstbarkeit oder einem eingetragenen Mitbenutzungsrecht (Artikel 233 § 5 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche) der Begünstigte oder sein Aufenthalt unbekannt, so kann der Begünstigte im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit der letzten sich auf das Recht beziehenden Eintragung in das Grundbuch 30 Jahre verstrichen sind und das Recht nicht innerhalb dieser Frist von dem Eigentümer in einer nach § 212 Abs. 1 Nr. 1 des Bürgerlichen Gesetzbuchs für den Neubeginn der Verjährung geeigneten Weise anerkannt oder von einem Berechtigten ausgeübt worden ist. Satz 1 gilt entsprechend bei Dienstbarkeiten, die zugunsten des jeweiligen Eigentümers oder Besitzers eines Familienfideikommisses, einer Familienanwartschaft, eines Lehens, eines Stammgutes oder eines ähnlichen gebundenen Vermögens eingetragen sind, sowie bei Grunddienstbarkeiten, die zugunsten des jeweiligen Eigentümers eines Grundstücks eingetragen sind, dessen Grundakten vernichtet und nicht mehr wiederherzustellen sind.
 
@@ -57,13 +49,11 @@ Die nach den §§ 1 bis 3 eintretenden Änderungen bedürfen zum Erhalt ihrer Wi
 
 (3) Diese Vorschrift gilt nur in dem in Artikel 3 des Einigungsvertrages genannten Gebiet. Sie kann im übrigen Bundesgebiet durch Rechtsverordnung der Landesregierung in Kraft gesetzt werden.
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8 – Nicht eingetragene Rechte
+# § 8 – Nicht eingetragene Rechte
 
 (1) Ein nicht im Grundbuch eingetragenes Mitbenutzungsrecht der in Artikel 233 § 5 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten Art oder ein sonstiges nicht im Grundbuch eingetragenes beschränktes dingliches Recht mit Ausnahme der in Artikel 233 § 4 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Nutzungsrechte, das zur Erhaltung der Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht der Eintragung bedarf, erlischt mit dem Ablauf des 31. Dezember 1995, wenn nicht der Eigentümer des Grundstücks vorher das Bestehen dieses Rechts in der Form des § 29 der Grundbuchordnung anerkennt und die entsprechende Grundbuchberichtigung bewilligt oder der jeweilige Berechtigte von dem Eigentümer vorher die Abgabe dieser Erklärungen in einer zur Unterbrechung der Verjährung nach § 209 des Bürgerlichen Gesetzbuchs geeigneten Weise verlangt hat. Die Frist des Satzes 1 kann durch Rechtsverordnung des Bundesministeriums der Justiz und für Verbraucherschutz mit Zustimmung des Bundesrates einmal verlängert werden.
 
@@ -73,8 +63,7 @@ Die nach den §§ 1 bis 3 eintretenden Änderungen bedürfen zum Erhalt ihrer Wi
 
 (4) Wird eine Klage nach Absatz 1 rechtshängig, so ersucht das Gericht auf Antrag des Klägers das Grundbuchamt um Eintragung eines Rechtshängigkeitsvermerks zugunsten des Klägers. Der Vermerk hat die Wirkungen eines Widerspruchs. Er wird mit rechtskräftiger Abweisung der Klage gegenstandslos.
 
-
-## § 9 – Leitungen und Anlagen für die Versorgung mit Energie und Wasser sowie die Beseitigung von Abwasser
+# § 9 – Leitungen und Anlagen für die Versorgung mit Energie und Wasser sowie die Beseitigung von Abwasser
 
 (1) Zum Besitz und Betrieb sowie zur Unterhaltung und Erneuerung von Energieanlagen (Anlagen zur Fortleitung von Elektrizität, Gas und Fernwärme, einschließlich aller dazugehörigen Anlagen, die der Fortleitung unmittelbar dienen) auf Leitungstrassen, die am 3. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet genutzt waren, wird zugunsten des Versorgungsunternehmens (Energieversorgungsunternehmen im Sinne des Energiewirtschaftsgesetzes und Fernwärmeversorgungsunternehmen), das die jeweilige Anlage bei Inkrafttreten dieser Vorschrift betreibt, am Tage des Inkrafttretens dieser Vorschrift eine beschränkte persönliche Dienstbarkeit an den Grundstücken begründet, die von der Energieanlage in Anspruch genommen werden. § 892 des Bürgerlichen Gesetzbuches gilt in Ansehung des Ranges für Anträge, die nach dem Inkrafttreten dieser Vorschrift, im übrigen erst für Anträge, die nach dem 31. Dezember 2010 gestellt werden. Ist das Grundstück mit einem Erbbaurecht oder einem dinglichen Nutzungsrecht im Sinne des Artikels 233 § 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche belastet, ruht die Dienstbarkeit als Gesamtbelastung auf dem Grundstück und dem Erbbaurecht oder Gebäudeeigentum.
 
@@ -122,8 +111,7 @@ Die Erstreckung ist nur bis zum Ablauf des 31. Dezember 1995 zulässig und soll 
 
 die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet liegen und vor dem 3. Oktober 1990 errichtet worden sind. Absatz 1 findet keine Anwendung, soweit Grundstückseigentümer auf Grund einer abgegebenen Grundstückseigentümererklärung nach § 7 der Telekommunikationsverordnung vom 24. Juni 1991 (BGBl. I S. 1376) oder nach § 8 der Telekommunikations-Kundenschutzverordnung vom 19. Dezember 1995 (BGBl. I S. 2020) zur Duldung von Telekommunikationsanlagen verpflichtet sind. An die Stelle der Aufsichtsbehörde im Sinne des Absatzes 4 treten das Bundesministerium für Verkehr und digitale Infrastruktur für Anlagen nach Satz 1 Nr. 1 und das Bundeseisenbahnvermögen für Anlagen der früheren Reichsbahn nach Satz 1 Nr. 2. Diese können mit der Erteilung der Bescheinigung auch eine andere öffentliche Stelle oder eine natürliche Person beauftragen, die nicht Bediensteter des Bundesministeriums oder des Bundeseisenbahnvermögens sein muß. Für Dienstbarkeiten nach Satz 1 Nr. 3 und 4 gilt § 1023 Abs. 1 Satz 1 Halbsatz 2 des Bürgerlichen Gesetzbuchs bei der Anlegung neuer öffentlicher Verkehrswege nur, wenn die Dienstbarkeit im Grundbuch eingetragen ist. Vor diesem Zeitpunkt hat der Inhaber der Dienstbarkeit die Kosten einer erforderlichen Verlegung zu tragen.
 
-
-## § 9a
+# § 9a
 
 Die in § 9 sowie in den §§ 1 und 4 der Sachenrechts-Durchführungsverordnung bezeichneten Anlagen stehen mit Wirkung vom 3. Oktober 1990 im Eigentum des Inhabers der Dienstbarkeit. Befinden sich die Anlagen mehrerer Inhaber von Dienstbarkeiten in einem begehbaren unterirdischen Kanal oder einer vergleichbaren Anlage (Leitungssammelkanal), so steht das Eigentum an dieser Anlage zu gleichen Teilen in Miteigentum sämtlicher Inhaber dieser Dienstbarkeiten. Soweit ein Teil des Leitungssammelkanals fest verbunden ist mit einem Gebäude, an dem selbständiges Gebäudeeigentum besteht, gilt dieser Teil als wesentlicher Bestandteil des Gebäudes; besteht kein selbständiges Gebäudeeigentum, gilt dieser Teil des Leitungssammelkanals als wesentlicher Bestandteil des Grundstücks.
 
@@ -133,8 +121,7 @@ Die in § 9 sowie in den §§ 1 und 4 der Sachenrechts-Durchführungsverordnung 
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten in den Fällen des § 9 Abs. 2 sinngemäß.
 
-
-## § 10 – Ablöserecht
+# § 10 – Ablöserecht
 
 (1) Eine vor dem 1. Juli 1990 an einem Grundstück in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestellte Hypothek oder Grundschuld mit einem umgerechneten Nennbetrag von nicht mehr als 6.000 Euro erlischt, wenn der Eigentümer des Grundstücks eine dem in Euro umgerechneten und um ein Drittel erhöhten Nennbetrag entsprechende Geldsumme zugunsten des jeweiligen Gläubigers unter Verzicht auf die Rücknahme hinterlegt hat; bei einer Höchstbetragshypothek entfällt die in Halbsatz 1 genannte Erhöhung des Nennbetrags. Satz 1 gilt für Rentenschulden und Reallasten entsprechend; anstelle des Nennbetrages tritt der für Rechte dieser Art im Verfahren nach dem Vermögensgesetz anzusetzende Ablösebetrag, der nicht zu erhöhen ist. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung anstelle der Hinterlegung andere Arten der Sicherheitsleistung zuzulassen.
 
@@ -144,32 +131,27 @@ Die in § 9 sowie in den §§ 1 und 4 der Sachenrechts-Durchführungsverordnung 
 
 (4) Ein für das Grundpfandrecht erteilter Brief wird mit dem Zeitpunkt des Erlöschens des Rechts kraftlos. Das Kraftloswerden des Briefes ist entsprechend § 26 Abs. 3 Satz 2 des Gesetzes über Maßnahmen auf dem Gebiet des Grundbuchwesens vom 20. Dezember 1963 (BGBl. I S. 986, zuletzt geändert durch Artikel 3 Abs. 3 des Registerverfahrenbeschleunigungsgesetzes vom 20. Dezember 1993 (BGBl. I S. 2182)) bekanntzumachen.
 
-
-## § 11 – Ausnahmen von der Voreintragung des Berechtigten
+# § 11 – Ausnahmen von der Voreintragung des Berechtigten
 
 (1) § 39 Abs. 1 der Grundbuchordnung ist nicht anzuwenden, wenn eine Person aufgrund eines Ersuchens nach § 34 des Vermögensgesetzes einzutragen ist. Er ist ferner nicht anzuwenden, wenn die durch den Bescheid, der dem Ersuchen nach § 34 des Vermögensgesetzes zugrundeliegt, begünstigte Person oder deren Erbe verfügt. Die Sätze 1 und 2 gelten entsprechend für Eintragungen und Verfügungen aufgrund eines Bescheids, der im Verfahren nach § 2 des Vermögenszuordnungsgesetzes ergangen ist, sowie für Verfügungen nach § 8 des Vermögenszuordnungsgesetzes.
 
 (2) Bis zum Ablauf des 31. Dezember 1999 ist in dem in Artikel 3 des Einigungsvertrages genannten Gebiet § 40 Abs. 1 der Grundbuchordnung für Belastungen entsprechend anzuwenden.
 
-
-## § 12 – Nachweis der Rechtsnachfolge bei Genossenschaften
+# § 12 – Nachweis der Rechtsnachfolge bei Genossenschaften
 
 (1) Zum Nachweis gegenüber dem Grundbuchamt oder dem Schiffsregistergericht, daß in dem in Artikel 3 des Einigungsvertrages genannten Gebiet ein Recht von einer vor dem 3. Oktober 1990 gegründeten Genossenschaft auf eine im Wege der Umwandlung, Verschmelzung oder Spaltung aus einer solchen hervorgegangenen Kapitalgesellschaft oder eingetragenen Genossenschaft übergegangen ist, genügt unbeschadet anderer entsprechender Vorschriften eine Bescheinigung der das Register für den neuen Rechtsträger führenden Stelle.
 
 (2) Eine Genossenschaft, die am 1. Januar 1990 in einem örtlich abgegrenzten Bereich des in Artikel 3 des Einigungsvertrages genannten Gebietes tätig war, gilt gegenüber dem Grundbuchamt oder dem Schiffsregistergericht als Rechtsnachfolger der Genossenschaften der gleichen Art, die zwischen dem 8. Mai 1945 und dem 31. Dezember 1989 in diesem örtlichen Bereich oder Teilen hiervon tätig waren und nicht mehr bestehen. Fällt der Genossenschaft nach Satz 1 ein Vermögenswert zu, der ihr nicht zukommt, so gelten die Vorschriften des Bürgerlichen Gesetzbuchs über den Ausgleich einer ungerechtfertigten Bereicherung entsprechend.
 
-
-## § 13 – Dingliche Rechte im Flurneuordnungsverfahren
+# § 13 – Dingliche Rechte im Flurneuordnungsverfahren
 
 In Verfahren nach dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes können dingliche Rechte an Grundstücken im Plangebiet und Rechte an einem ein solches Grundstück belastenden Recht aufgehoben, geändert oder neu begründet werden. Die Bestimmung über die Eintragung eines Zustimmungsvorbehalts für Veräußerungen in § 6 Abs. 4 des Bodensonderungsgesetzes ist entsprechend anzuwenden.
 
-
-## § 14 – Gemeinschaftliches Eigentum von Ehegatten
+# § 14 – Gemeinschaftliches Eigentum von Ehegatten
 
 In den Fällen des Artikels 234 § 4a Abs. 1 Satz 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gelten die §§ 82, 82a Satz 1 der Grundbuchordnung entsprechend. Der für die Berichtigung des Grundbuchs erforderliche Nachweis, daß eine Erklärung nach Artikel 234 § 4 Abs. 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht abgegeben wurde, kann durch Berufung auf die Vermutung nach Artikel 234 § 4a Abs. 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder durch übereinstimmende Erklärung beider Ehegatten, bei dem Ableben eines von ihnen durch Versicherung des Überlebenden und bei dem Ableben beider durch Versicherung der Erben erbracht werden; die Erklärung, die Versicherung und der Antrag bedürfen nicht der in § 29 der Grundbuchordnung vorgeschriebenen Form. Die Berichtigung ist in allen Fällen des Artikels 234 § 4a des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gebührenfrei.
 
-
-## § 15 – Aufgebotsverfahren nach § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes
+# § 15 – Aufgebotsverfahren nach § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes
 
 (1) Das in § 10 Abs. 1 Satz 1 Nr. 7 des Entschädigungsgesetzes vorgesehene Aufgebotsverfahren wird von dem Bundesamt für zentrale Dienste und offene Vermögensfragen (nachfolgend: Bundesamt) von Amts wegen als Verwaltungsverfahren durchgeführt.
 

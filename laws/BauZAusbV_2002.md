@@ -1,25 +1,19 @@
-# [BauZAusbV 2002] Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
-
-Ausfertigungsdatum: 12.07.2002
-
+% Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
+% Ausfertigungsdatum: 12.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 202 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bauzeichner/Bauzeichnerin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Gliederung der Berufsausbildung
+# § 3 – Gliederung der Berufsausbildung
 
 In der Berufsausbildung zum Bauzeichner/zur Bauzeichnerin sind
 
@@ -31,8 +25,7 @@ In der Berufsausbildung zum Bauzeichner/zur Bauzeichnerin sind
 
 in überbetrieblichen oder in betrieblichen Ausbildungsstätten zu vermitteln.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -66,25 +59,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 15. Erstellen von Plänen und Zeichnungen, fachspezifische Berechnungen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte Architektur, Ingenieurbau sowie Tief-, Straßen- und Landschaftsbau nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -104,8 +93,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 In der Zwischenprüfung soll der Prüfling zeigen, dass er technologische, mathematische und zeichnerische Inhalte verknüpfen kann. Dabei soll er Maßnahmen zur Arbeitsorganisation, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz berücksichtigen.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -415,20 +403,17 @@ Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B sowie innerhalb des Prüfungsteils B in mindestens zwei der fachbezogenen Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden sind. Werden die Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 (2) Auf Berufsausbildungsverhältnisse, die am 17. Mai 2004 bestehen, ist § 9 Abs. 2 in der bis zum 17. Mai 2004 geltenden Fassung weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Verordnung in der am 18. Mai 2004 geltenden Fassung.
 
-
-## § 11 – Weitere Übergangsregelung
+# § 11 – Weitere Übergangsregelung
 
 Berufsausbildungsverhältnisse, die am 1. August 2017 bereits bestehen, können nach den Vorschriften dieser Verordnung in der ab dem 1. August 2017 geltenden Fassung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
 
 (Fundstelle: BGBl. I 2002, 2625 - 2630)
 

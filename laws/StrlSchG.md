@@ -1,13 +1,9 @@
-# [StrlSchG] Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung  (Strahlenschutzgesetz - StrlSchG)
-
-Ausfertigungsdatum: 27.06.2017
-
+% Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung  (Strahlenschutzgesetz - StrlSchG)
+% Ausfertigungsdatum: 27.06.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungs- und Geltungsbereich
+# § 1 – Anwendungs- und Geltungsbereich
 
 (1) Dieses Gesetz trifft Regelungen zum Schutz des Menschen und, soweit es um den langfristigen Schutz der menschlichen Gesundheit geht, der Umwelt vor der schädlichen Wirkung ionisierender Strahlung insbesondere bei
 
@@ -29,8 +25,7 @@ Ausfertigungsdatum: 27.06.2017
 
 (+++ § 1: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 2 – Exposition; Expositionssituationen; Expositionskategorien
+# § 2 – Exposition; Expositionssituationen; Expositionskategorien
 
 (1) Exposition ist die Einwirkung ionisierender Strahlung auf den menschlichen Körper durch Strahlungsquellen außerhalb des Körpers (äußere Exposition) und innerhalb des Körpers (innere Exposition) oder das Ausmaß dieser Einwirkung.
 
@@ -74,8 +69,7 @@ Einem Beschäftigungsverhältnis gleich steht ein Ausbildungsverhältnis oder ei
 
 (+++ § 2: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 3 – Begriff der radioaktiven Stoffe
+# § 3 – Begriff der radioaktiven Stoffe
 
 (1) Radioaktive Stoffe (Kernbrennstoffe und sonstige radioaktive Stoffe) im Sinne dieses Gesetzes sind alle Stoffe, die ein Radionuklid oder mehrere Radionuklide enthalten und deren Aktivität oder spezifische Aktivität nach den Regelungen dieses Gesetzes oder einer auf Grund dieses Gesetzes von der Bundesregierung mit Zustimmung des Bundesrates erlassenen Rechtsverordnung nicht außer Acht gelassen werden kann. Kernbrennstoffe sind besondere spaltbare Stoffe in Form von
 
@@ -105,8 +99,7 @@ Abweichend von Satz 1 kann eine auf Grund dieses Gesetzes erlassene Rechtsverord
 
 (+++ § 3: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 4 – Tätigkeiten, Tätigkeitsarten
+# § 4 – Tätigkeiten, Tätigkeitsarten
 
 (1) Tätigkeiten sind
 
@@ -144,8 +137,7 @@ Zu den Tätigkeiten nach Satz 1 Nummer 1 bis 10 zählen auch die Beschäftigung 
 
 (2) Tätigkeitsart ist die Gesamtheit von Tätigkeiten, die unter dem Aspekt des Grundsatzes der Rechtfertigung wesentlich gleich zu beurteilen sind.
 
-
-## § 5 – Sonstige Begriffsbestimmungen
+# § 5 – Sonstige Begriffsbestimmungen
 
 (1) Abfälle: Alle Stoffe und Gegenstände, die Abfälle im Sinne des § 3 Absatz 1 des Kreislaufwirtschaftsgesetzes sind, einschließlich der Abfälle, die nach § 2 Absatz 2 Nummer 1 bis 5 oder 7 bis 15 des Kreislaufwirtschaftsgesetzes vom Geltungsbereich des Kreislaufwirtschaftsgesetzes ausgenommen sind. Keine Abfälle im Sinne dieses Gesetzes sind Reststoffe und Anlagenteile, die nach § 9a Absatz 1 des Atomgesetzes schadlos zu verwerten oder geordnet zu beseitigen sind, sowie andere den Bestimmungen des Standortauswahlgesetzes oder des Atomgesetzes unterliegende radioaktive Abfälle, Rückstände und sonstige radioaktive Stoffe.
 
@@ -289,8 +281,7 @@ Es ist unerheblich, ob der Zusatz auf Grund der Radioaktivität oder auf Grund a
 
 (+++ § 5: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 6 – Rechtfertigung von Tätigkeitsarten; Verordnungsermächtigung
+# § 6 – Rechtfertigung von Tätigkeitsarten; Verordnungsermächtigung
 
 (1) Neue Tätigkeitsarten, mit denen Expositionen von Mensch und Umwelt verbunden sein können, müssen unter Abwägung ihres wirtschaftlichen, gesellschaftlichen oder sonstigen Nutzens gegen die möglicherweise von ihnen ausgehende gesundheitliche Beeinträchtigung gerechtfertigt sein. Bei der Rechtfertigung sind die berufliche Exposition, die Exposition der Bevölkerung und die medizinische Exposition zu berücksichtigen. Expositionen durch die Anwendung am Menschen sind nach Maßgabe des § 83 Absatz 2 zu berücksichtigen.
 
@@ -298,8 +289,7 @@ Es ist unerheblich, ob der Zusatz auf Grund der Radioaktivität oder auf Grund a
 
 (3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche Tätigkeitsarten nicht gerechtfertigt sind.
 
-
-## § 7 – Verfahren zur Prüfung der Rechtfertigung einer Tätigkeitsart; Verordnungsermächtigung
+# § 7 – Verfahren zur Prüfung der Rechtfertigung einer Tätigkeitsart; Verordnungsermächtigung
 
 (1) Liegen der zuständigen Behörde in einem Genehmigungs- oder Anzeigeverfahren nach den §§ 10, 12, 17, 19 Absatz 1 Satz 1 Nummer 1, § 56 oder § 59 Anhaltspunkte vor, die Zweifel an der Rechtfertigung der Tätigkeitsart im Sinne des § 6 Absatz 1 und 2 aufwerfen, so übermittelt die Behörde, bei Landesbehörden über die für den Strahlenschutz zuständige oberste Landesbehörde, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit die Unterlagen, die die Anhaltspunkte darlegen. Erfordern die Anhaltspunkte eine weitere Untersuchung, so veranlasst dieses eine Prüfung durch das Bundesamt für Strahlenschutz. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann auch außerhalb laufender Genehmigungs- und Anzeigeverfahren in entsprechender Anwendung von Satz 2 für Tätigkeitsarten eine Prüfung durch das Bundesamt für Strahlenschutz veranlassen, sofern es aus Sicht des Strahlenschutzes geboten ist.
 
@@ -313,8 +303,7 @@ Es ist unerheblich, ob der Zusatz auf Grund der Radioaktivität oder auf Grund a
 
 3. zu regeln, auf welche Weise das Bundesamt für Strahlenschutz den wissenschaftlichen Bericht über die Rechtfertigung der Tätigkeitsart veröffentlicht.
 
-
-## § 8 – Vermeidung unnötiger Exposition und Dosisreduzierung
+# § 8 – Vermeidung unnötiger Exposition und Dosisreduzierung
 
 (1) Wer eine Tätigkeit plant, ausübt oder ausüben lässt, ist verpflichtet, jede unnötige Exposition oder Kontamination von Mensch und Umwelt zu vermeiden.
 
@@ -324,13 +313,11 @@ Es ist unerheblich, ob der Zusatz auf Grund der Radioaktivität oder auf Grund a
 
 2. bei Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 8, 10 und 11 den Stand der Technik zu beachten.
 
-
-## § 9 – Dosisbegrenzung
+# § 9 – Dosisbegrenzung
 
 Wer eine Tätigkeit plant, ausübt oder ausüben lässt, ist verpflichtet, dafür zu sorgen, dass die Dosisgrenzwerte nicht überschritten werden, die in diesem Gesetz und in den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen festgelegt sind.
 
-
-## § 10 – Genehmigungsbedürftige Errichtung von Anlagen zur Erzeugung ionisierender Strahlung
+# § 10 – Genehmigungsbedürftige Errichtung von Anlagen zur Erzeugung ionisierender Strahlung
 
 Wer eine Anlage zur Erzeugung ionisierender Strahlung der folgenden Art errichtet, bedarf der Genehmigung:
 
@@ -344,8 +331,7 @@ Wer eine Anlage zur Erzeugung ionisierender Strahlung der folgenden Art errichte
 
 5. Ionenbeschleuniger mit einer Endenergie der Ionen von mehr als 150 Megaelektronenvolt je Nukleon.
 
-
-## § 11 – Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
+# § 11 – Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
 
 (1) Die zuständige Behörde hat die Genehmigung für die Errichtung einer Anlage nach § 10 zu erteilen, wenn
 
@@ -365,8 +351,7 @@ Satz 1 Nummer 2 ist nicht anzuwenden, wenn eine der in Satz 1 Nummer 1 genannten
 
 (2) Leitet die zuständige Behörde ein Verfahren zur Prüfung der Rechtfertigung nach § 7 ein, so setzt sie das Verfahren zur Erteilung der Genehmigung für die Dauer des Verfahrens zur Prüfung der Rechtfertigung aus.
 
-
-## § 12 – Genehmigungsbedürftige Tätigkeiten
+# § 12 – Genehmigungsbedürftige Tätigkeiten
 
 (1) Einer Genehmigung bedarf, wer
 
@@ -398,8 +383,7 @@ Satz 1 Nummer 2 ist nicht anzuwenden, wenn eine der in Satz 1 Nummer 1 genannten
 
 Satz 1 gilt entsprechend für Tätigkeiten, die sowohl genehmigungsbedürftig als auch anzeigebedürftig nach diesem Gesetz sind, wenn die mit der Anzeige einzureichenden Unterlagen im Genehmigungsverfahren vorgelegt werden und kein Grund für die Untersagung der anzeigebedürftigen Tätigkeit vorliegt. Bei wesentlichen Änderungen gelten die Sätze 1 und 2 entsprechend.
 
-
-## § 13 – Allgemeine Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
+# § 13 – Allgemeine Voraussetzungen für die Erteilung der Genehmigung; Aussetzung des Genehmigungsverfahrens
 
 (1) Die zuständige Behörde hat eine Genehmigung für Tätigkeiten nach § 12 Absatz 1 zu erteilen, wenn
 
@@ -435,8 +419,7 @@ b) die, bei einer Tätigkeit nach § 12 Absatz 1 Nummer 4 oder 5, nach dem Stand
 
 (7) Die zuständige Behörde kann von dem Inhaber einer Genehmigung nach § 12 Absatz 1 Nummer 3 eine Sicherheitsleistung für die Beseitigung von aus dem Umgang stammenden radioaktiven Stoffen verlangen. Satz 1 findet keine Anwendung, wenn Genehmigungsinhaber der Bund, ein oder mehrere Länder oder ein Dritter ist, der vom Bund, von einem oder mehreren Ländern oder vom Bund gemeinsam mit einem oder mehreren Ländern vollständig finanziert wird.
 
-
-## § 14 – Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Menschen
+# § 14 – Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Menschen
 
 (1) Die Genehmigung für eine Tätigkeit nach § 12 Absatz 1 Nummer 1, 2, 3 oder 4 im Zusammenhang mit der Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen wird nur erteilt, wenn neben dem Vorliegen der jeweiligen Voraussetzungen des § 13
 
@@ -490,18 +473,15 @@ Die Genehmigung für den Betrieb einer Röntgeneinrichtung zur Teleradiologie wi
 
 Die Genehmigung wird auf längstens fünf Jahre befristet.
 
-
-## § 15 – Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Tier in der Tierheilkunde
+# § 15 – Besondere Voraussetzungen bei Tätigkeiten im Zusammenhang mit der Anwendung am Tier in der Tierheilkunde
 
 Die Genehmigung für eine Tätigkeit nach § 12 Absatz 1 Nummer 1, 2, 3 oder 4 im Zusammenhang mit der Anwendung am Tier in der Tierheilkunde wird nur erteilt, wenn neben dem Vorliegen der jeweiligen Voraussetzungen des § 13 der Antragsteller oder der von ihm bestellte Strahlenschutzbeauftragte als Tierarzt, Arzt oder Zahnarzt approbiert oder zur vorübergehenden Ausübung des tierärztlichen, ärztlichen oder zahnärztlichen Berufs berechtigt ist.
 
-
-## § 16 – Erforderliche Unterlagen
+# § 16 – Erforderliche Unterlagen
 
 Einem Genehmigungsantrag für eine Tätigkeit nach § 12 Absatz 1 sind die zur Prüfung erforderlichen Unterlagen, insbesondere die Unterlagen nach Anlage 2, beizufügen.
 
-
-## § 17 – Anzeigebedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlung
+# § 17 – Anzeigebedürftiger Betrieb von Anlagen zur Erzeugung ionisierender Strahlung
 
 (1) Wer beabsichtigt,
 
@@ -521,8 +501,7 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 (3) Bei einer wesentlichen Änderung einer Anlage nach Absatz 1 oder ihres Betriebs sind die Absätze 1 und 2 entsprechend anzuwenden.
 
-
-## § 18 – Prüfung des angezeigten Betriebs einer Anlage zur Erzeugung ionisierender Strahlung
+# § 18 – Prüfung des angezeigten Betriebs einer Anlage zur Erzeugung ionisierender Strahlung
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 17 Absatz 2 erbracht sind, darf der Anzeigende die Anlage zur Erzeugung ionisierender Strahlung bereits mit Erhalt der Mitteilung betreiben.
 
@@ -540,8 +519,7 @@ hat dies der zuständigen Behörde spätestens vier Wochen vor dem beabsichtigte
 
 5. dies wegen einer erheblichen Gefährdung der Beschäftigten, Dritter oder der Allgemeinheit erforderlich ist.
 
-
-## § 19 – Genehmigungs- und anzeigebedürftiger Betrieb von Röntgeneinrichtungen
+# § 19 – Genehmigungs- und anzeigebedürftiger Betrieb von Röntgeneinrichtungen
 
 (1) Wer beabsichtigt,
 
@@ -611,8 +589,7 @@ Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Numm
 
 (5) Bei einer wesentlichen Änderung des Betriebs einer nach Absatz 1 angezeigten Röntgeneinrichtung sind die Absätze 1 bis 4 entsprechend anzuwenden.
 
-
-## § 20 – Prüfung des angezeigten Betriebs einer Röntgeneinrichtung
+# § 20 – Prüfung des angezeigten Betriebs einer Röntgeneinrichtung
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 19 Absatz 3 oder 4 erbracht sind, darf der Anzeigende die Röntgeneinrichtung bereits mit Erhalt der Mitteilung betreiben.
 
@@ -638,13 +615,11 @@ Verweigert der Sachverständige die Erteilung der Bescheinigung nach Satz 1 Numm
 
 (5) Die zuständige Behörde kann den Betrieb eines Vollschutzgerätes nach § 19 Absatz 1 Satz 1 Nummer 2 untersagen, wenn Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit des Strahlenschutzverantwortlichen ergeben oder wenn der Anzeige nicht der nach § 19 Absatz 4 Nummer 1 geforderte Zulassungsschein beigefügt wurde.
 
-
-## § 21 – Beendigung des genehmigten oder angezeigten Betriebs oder Umgangs
+# § 21 – Beendigung des genehmigten oder angezeigten Betriebs oder Umgangs
 
 Wer den genehmigten oder angezeigten Betrieb einer Anlage zur Erzeugung ionisierender Strahlung, einer Röntgeneinrichtung oder eines Störstrahlers oder den genehmigten Umgang mit radioaktiven Stoffen beendet, hat dies der zuständigen Behörde unverzüglich mitzuteilen.
 
-
-## § 22 – Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern
+# § 22 – Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern
 
 (1) Wer
 
@@ -672,13 +647,11 @@ hat dies der zuständigen Behörde vor Beginn der Tätigkeit schriftlich anzuzei
 
 3. Tatsachen vorliegen, aus denen sich Bedenken ergeben, ob das für die sichere Ausführung der Tätigkeit notwendige Personal vorhanden ist.
 
-
-## § 23 – Verhältnis zum Medizinproduktegesetz
+# § 23 – Verhältnis zum Medizinproduktegesetz
 
 Die Anforderungen an die Beschaffenheit von Bestrahlungsvorrichtungen, von radioaktiven Stoffen, von Anlagen zur Erzeugung ionisierender Strahlung und von Röntgeneinrichtungen, die Medizinprodukte oder Zubehör im Sinne des Medizinproduktegesetzes sind, richten sich nach den jeweils geltenden Anforderungen des Medizinproduktegesetzes. Anforderungen des Medizinproduktegesetzes an die Beschaffenheit von Geräten und Einrichtungen zur Aufzeichnung, Speicherung, Auswertung, Wiedergabe und Übertragung von Röntgenbildern und digitalen Untersuchungs- und Behandlungsdaten bleiben unberührt.
 
-
-## § 24 – Verordnungsermächtigungen
+# § 24 – Verordnungsermächtigungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 
@@ -718,8 +691,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 (+++ § 24: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 25 – Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen
+# § 25 – Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen
 
 (1) Wer in fremden kerntechnischen Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung oder Einrichtungen Personen beschäftigt, die unter seiner Aufsicht stehen, oder Aufgaben selbst wahrnimmt, bedarf der Genehmigung, wenn dies bei den beschäftigten Personen oder bei ihm selbst zu einer effektiven Dosis von mehr als 1 Millisievert im Kalenderjahr führen kann. Im Zusammenhang mit fremden Einrichtungen, in denen Röntgeneinrichtungen oder Störstrahler betrieben werden, ist eine Genehmigung nach Satz 1 entbehrlich, wenn eine Anzeige nach § 26 Absatz 1 erstattet wird.
 
@@ -733,8 +705,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 Die Genehmigung wird auf längstens fünf Jahre befristet.
 
-
-## § 26 – Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler
+# § 26 – Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen oder Störstrahler
 
 (1) Wer im Zusammenhang mit dem Betrieb einer fremden Röntgeneinrichtung oder eines fremden Störstrahlers Personen beschäftigt, die unter seiner Aufsicht stehen, oder Aufgaben selbst wahrnimmt, hat dies der zuständigen Behörde vor Beginn der Tätigkeit schriftlich anzuzeigen, wenn dies bei den beschäftigten Personen oder bei ihm selbst zu einer effektiven Dosis von mehr als 1 Millisievert im Kalenderjahr führen kann. Von der Anzeigepflicht ausgenommen sind Inhaber einer Genehmigung nach § 25 für die Tätigkeit nach Satz 1.
 
@@ -752,8 +723,7 @@ Die Genehmigung wird auf längstens fünf Jahre befristet.
 
 2. Tatsachen vorliegen, aus denen sich Bedenken gegen die Zuverlässigkeit der zur Anzeige verpflichteten Person, ihres gesetzlichen Vertreters oder, bei juristischen Personen oder nicht rechtsfähigen Personenvereinigungen, der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung berechtigten Person oder des Strahlenschutzbeauftragten ergeben.
 
-
-## § 27 – Genehmigungsbedürftige Beförderung
+# § 27 – Genehmigungsbedürftige Beförderung
 
 (1) Wer sonstige radioaktive Stoffe auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen befördert, bedarf der Genehmigung. Die Genehmigung kann dem Absender oder Beförderer im Sinne der Vorschriften über die Beförderung gefährlicher Güter, dem Abgebenden oder demjenigen erteilt werden, der es übernimmt, die Versendung oder Beförderung zu besorgen. Sie ist für den einzelnen Beförderungsvorgang zu erteilen; sie kann jedoch einem Antragsteller allgemein für längstens drei Jahre für eine Vielzahl von Beförderungen erteilt werden. Die Genehmigung erstreckt sich auch auf die Teilstrecken eines Beförderungsvorgangs, der nicht auf öffentlichen oder der Öffentlichkeit zugänglichen Verkehrswegen stattfindet, soweit für diese Teilstrecken keine Genehmigung für den Umgang mit radioaktiven Stoffen vorliegt.
 
@@ -765,8 +735,7 @@ Die Genehmigung wird auf längstens fünf Jahre befristet.
 
 (5) Die für die jeweiligen Verkehrsträger geltenden Rechtsvorschriften über die Beförderung gefährlicher Güter bleiben unberührt.
 
-
-## § 28 – Genehmigungsfreie Beförderung
+# § 28 – Genehmigungsfreie Beförderung
 
 (1) Keiner Genehmigung nach § 4 Absatz 1 des Atomgesetzes oder § 27 Absatz 1 dieses Gesetzes bedarf, wer folgende Stoffe befördert:
 
@@ -786,8 +755,7 @@ Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des § 186 Abs
 
 (2) Wer radioaktive Erzeugnisse oder Abfälle befördert, die Kernmaterialien im Sinne der Anlage 1 Absatz 1 Nummer 5 zum Atomgesetz sind, ohne hierfür der Genehmigung nach § 27 Absatz 1 Satz 1 zu bedürfen, darf die Kernmaterialien zur Beförderung oder Weiterbeförderung nur dann übernehmen, wenn ihm gleichzeitig eine Bescheinigung der zuständigen Behörde darüber vorgelegt wird, dass sich die Vorsorge der Person, die ihm die Kernmaterialien übergibt, auch auf die Erfüllung gesetzlicher Schadensersatzverpflichtungen im Zusammenhang mit der Beförderung oder Weiterbeförderung erstreckt. Die Vorlage der Bescheinigung ist entbehrlich, falls er selbst den Nachweis der erforderlichen Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nach § 4b Absatz 1 des Atomgesetzes zu erbringen hat.
 
-
-## § 29 – Voraussetzungen für die Erteilung der Genehmigung
+# § 29 – Voraussetzungen für die Erteilung der Genehmigung
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 27 Absatz 1 zu erteilen, wenn
 
@@ -817,8 +785,7 @@ b) von Kernbrennstoffen nach § 3 Absatz 3, deren Aktivität je Versandstück da
 
 (3) Sofern eine Haftung nach dem Pariser Übereinkommen in Verbindung mit § 25 des Atomgesetzes in Betracht kommt, gilt für Kernmaterialien anstelle der Regelung des Absatzes 1 Nummer 6 die Regelung der Anlage 2 zum Atomgesetz.
 
-
-## § 30 – Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe
+# § 30 – Verordnungsermächtigung für die grenzüberschreitende Verbringung radioaktiver Stoffe
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die grenzüberschreitende Verbringung radioaktiver Stoffe einer Genehmigung, Anzeige oder Anmeldung bedarf. In der Rechtsverordnung können insbesondere festgelegt werden:
 
@@ -834,8 +801,7 @@ In der Rechtsverordnung kann ebenfalls festgelegt werden, unter welchen Vorausse
 
 (+++ § 30: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 31 – Genehmigungsbedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+# § 31 – Genehmigungsbedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
 
 (1) Wer zum Zweck der medizinischen Forschung radioaktive Stoffe oder ionisierende Strahlung am Menschen anwendet, bedarf der Genehmigung, sofern die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung nicht nach § 32 Absatz 1 anzeigebedürftig ist. Einer Genehmigung bedarf ferner, wer von einer nach dieser Vorschrift genehmigten Anwendung wesentlich abweicht.
 
@@ -867,8 +833,7 @@ In der Rechtsverordnung kann ebenfalls festgelegt werden, unter welchen Vorausse
 
 (7) Die zuständige Behörde übermittelt der für das Forschungsvorhaben zuständigen Aufsichtsbehörde einen Abdruck des Genehmigungsbescheids.
 
-
-## § 32 – Anzeigebedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+# § 32 – Anzeigebedürftige Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
 
 (1) Wer beabsichtigt, radioaktive Stoffe oder ionisierende Strahlung am Menschen zum Zweck der medizinischen Forschung anzuwenden, hat dies der zuständigen Behörde vorher schriftlich oder elektronisch anzuzeigen, wenn
 
@@ -892,8 +857,7 @@ Anzeigepflichtig ist ferner, wer beabsichtigt, von einer nach dieser Vorschrift 
 
 (4) Ist das Forschungsvorhaben als Multi-Center-Studie vorgesehen, so kann die Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung für alle beteiligten Einrichtungen gemeinsam angezeigt werden. In diesem Fall hat der Anzeigende darzulegen, dass die Anforderungen nach Absatz 2 Nummer 4 in Bezug auf jede teilnehmende Einrichtung erfüllt sind.
 
-
-## § 33 – Prüfung der Anzeige durch die zuständige Behörde
+# § 33 – Prüfung der Anzeige durch die zuständige Behörde
 
 (1) Ist die Anzeige nach § 32 vollständig, so bestätigt die zuständige Behörde dies dem Anzeigenden innerhalb von 14 Kalendertagen nach Eingang der Anzeige und teilt ihm das Eingangsdatum der Anzeige mit. Ist die Anzeige unvollständig, so fordert die zuständige Behörde den Anzeigenden innerhalb von 14 Kalendertagen nach Eingang der Anzeige einmalig auf, die von ihr benannten Mängel innerhalb einer Frist von zehn Kalendertagen nach Zugang der Aufforderung zu beheben. Innerhalb von zwölf Kalendertagen nach Eingang der ergänzenden Angaben oder Unterlagen schließt die zuständige Behörde im Falle von Satz 2 die Vollständigkeitsprüfung ab und teilt dem Anzeigenden das Ergebnis der Vollständigkeitsprüfung sowie das Eingangsdatum der ergänzenden Angaben oder Unterlagen mit.
 
@@ -911,8 +875,7 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 (4) Sobald nach Absatz 3 mit der Anwendung begonnen werden darf, gibt die für die Anzeige zuständige Behörde der zuständigen Aufsichtsbehörde den wesentlichen Inhalt der Anzeige unverzüglich zur Kenntnis.
 
-
-## § 34 – Untersagung der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+# § 34 – Untersagung der angezeigten Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
 
 (1) Innerhalb des Zeitraums der inhaltlichen Prüfung der Anzeige nach § 33 Absatz 2 Satz 1, auch in Verbindung mit den Sätzen 2 und 3, kann die zuständige Behörde die angezeigte Anwendung untersagen, wenn eine der in § 32 Absatz 2 bis 4 genannten Anforderungen nicht erfüllt ist.
 
@@ -924,8 +887,7 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 3. gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden erheblich oder wiederholt verstoßen wird und nicht in angemessener Zeit Abhilfe geschaffen wird.
 
-
-## § 35 – Deckungsvorsorge bei der anzeigebedürftigen Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
+# § 35 – Deckungsvorsorge bei der anzeigebedürftigen Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung
 
 (1) Im Anzeigeverfahren ist der Nachweis über die erforderliche Deckungsvorsorge zu erbringen durch die Vorlage einer Bestätigung über eine bestehende Versicherung, die für den Fall, dass bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung ein Mensch getötet oder der Körper oder die Gesundheit eines Menschen verletzt oder beeinträchtigt wird, auch Leistungen gewährt, wenn kein anderer für den Schaden haftet. Die Versicherung muss zugunsten der Personen, an denen die radioaktiven Stoffe oder die ionisierende Strahlung angewendet werden, bei einem in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Geschäftsbetrieb zugelassenen Versicherer genommen werden.
 
@@ -933,8 +895,7 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 (3) Abweichend von Absatz 1 kann der Nachweis über die erforderliche Deckungsvorsorge durch den Nachweis des Bestehens einer Versicherung zugunsten der von der klinischen Prüfung betroffenen Personen nach dem Arzneimittelgesetz oder nach dem Medizinproduktegesetz erbracht werden.
 
-
-## § 36 – Ethikkommission
+# § 36 – Ethikkommission
 
 (1) Eine im Anwendungsbereich dieses Gesetzes tätige Ethikkommission muss unabhängig, interdisziplinär besetzt, nach Landesrecht gebildet und bei der zuständigen Behörde registriert sein. Die Ethikkommission muss aus medizinischen Sachverständigen und nichtmedizinischen Mitgliedern bestehen, die die jeweils erforderliche Fachkompetenz aufweisen. Eine Registrierung erfolgt nur, wenn die Mitglieder, das Verfahren und die Anschrift der Ethikkommission in einer veröffentlichten Verfahrensordnung aufgeführt sind. Veränderungen der Zusammensetzung der Kommission, des Verfahrens oder der übrigen Festlegungen der Verfahrensordnung sind der für die Registrierung zuständigen Behörde unverzüglich mitzuteilen.
 
@@ -954,8 +915,7 @@ Die zuständige Behörde hat dem Anzeigenden den Eingang einer zustimmenden Stel
 
 (4) Rechtsbehelfe gegen Stellungnahmen der Ethikkommission können nur gleichzeitig mit den gegen die Sachentscheidung zulässigen Rechtsbehelfen geltend gemacht werden.
 
-
-## § 37 – Verordnungsermächtigung
+# § 37 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche besonderen Anforderungen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung zum Zweck der medizinischen Forschung einzuhalten sind, um die ordnungsgemäße Durchführung eines Forschungsvorhabens und den Schutz der in das Forschungsvorhaben eingeschlossenen Personen zu gewährleisten. In der Rechtsverordnung können insbesondere Regelungen getroffen werden über
 
@@ -981,8 +941,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 (+++ § 37: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 38 – Rechtfertigung von Tätigkeitsarten mit Konsumgütern oder bauartzugelassenen Vorrichtungen; Verordnungsermächtigung
+# § 38 – Rechtfertigung von Tätigkeitsarten mit Konsumgütern oder bauartzugelassenen Vorrichtungen; Verordnungsermächtigung
 
 (1) Das Bundesamt für Strahlenschutz prüft innerhalb von zwölf Monaten nach Eingang eines von der zuständigen Behörde gemäß § 41 Absatz 5, § 43 Absatz 2 oder § 46 Absatz 3 weitergeleiteten Antrags die Rechtfertigung der Tätigkeitsart im Sinne des § 6 Absatz 1 und veröffentlicht eine Stellungnahme. Die Stellungnahme enthält eine Feststellung über die Rechtfertigung der Tätigkeitsart. In der Stellungnahme sind Betriebs- und Geschäftsgeheimnisse und personenbezogene Daten unkenntlich zu machen.
 
@@ -1000,8 +959,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 6. festzulegen, auf welche Weise das Bundesamt für Strahlenschutz die Stellungnahme an die zuständigen Behörden anderer Mitgliedstaaten der Europäischen Atomgemeinschaft sowie Drittstaaten weitergibt.
 
-
-## § 39 – Unzulässiger Zusatz radioaktiver Stoffe und unzulässige Aktivierung
+# § 39 – Unzulässiger Zusatz radioaktiver Stoffe und unzulässige Aktivierung
 
 (1) Der Zusatz radioaktiver Stoffe bei der Herstellung folgender Produkte ist unzulässig:
 
@@ -1031,8 +989,7 @@ Die grenzüberschreitende Verbringung nach § 42 Absatz 1 von Produkten nach Sat
 
 (3) Im Übrigen bleiben die Rechtsvorschriften für die in Absatz 1 Satz 1 Nummer 1 bis 10 genannten Produkte unberührt.
 
-
-## § 40 – Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung
+# § 40 – Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung
 
 (1) Wer bei der Herstellung von Konsumgütern, von Arzneimitteln im Sinne des § 2 des Arzneimittelgesetzes, von Schädlingsbekämpfungsmitteln, von Pflanzenschutzmitteln im Sinne des § 2 des Pflanzenschutzgesetzes oder von Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des Düngegesetzes, die im Geltungsbereich dieses Gesetzes erworben oder an andere abgegeben werden sollen, radioaktive Stoffe zusetzt, bedarf der Genehmigung. Satz 1 gilt entsprechend für die Aktivierung der dort genannten Produkte. § 39 bleibt unberührt.
 
@@ -1046,8 +1003,7 @@ Die grenzüberschreitende Verbringung nach § 42 Absatz 1 von Produkten nach Sat
 
 (4) Dem Genehmigungsantrag sind die zur Prüfung erforderlichen Unterlagen, insbesondere die in Anlage 2 Teil B genannten Unterlagen, sowie bei der Herstellung von Konsumgütern die in Anlage 2 Teil F genannten Unterlagen, beizufügen.
 
-
-## § 41 – Voraussetzungen für die Erteilung der Genehmigung des Zusatzes radioaktiver Stoffe oder der Aktivierung
+# § 41 – Voraussetzungen für die Erteilung der Genehmigung des Zusatzes radioaktiver Stoffe oder der Aktivierung
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 40 bei der Herstellung von Konsumgütern zu erteilen, wenn
 
@@ -1101,8 +1057,7 @@ falls die spezifische Aktivität der zugesetzten künstlichen radioaktiven Stoff
 
 (+++ § 41 Abs. 2: zur Anwendung vgl. § 43 Abs. 1 +++)
 
-
-## § 42 – Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern
+# § 42 – Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern
 
 (1) Wer Konsumgüter, denen radioaktive Stoffe zugesetzt oder die aktiviert worden sind,
 
@@ -1130,22 +1085,19 @@ b) Radionuklide zugesetzt sind, für die keine Freigrenzen nach der Rechtsverord
 
 (3) Dem Genehmigungsantrag sind die zur Prüfung erforderlichen Unterlagen, bei Verbringung in den Geltungsbereich dieses Gesetzes insbesondere die in Anlage 2 Teil F genannten Unterlagen, beizufügen.
 
-
-## § 43 – Voraussetzungen für die Erteilung der Genehmigung der grenzüber- schreitenden Verbringung von Konsumgütern
+# § 43 – Voraussetzungen für die Erteilung der Genehmigung der grenzüber- schreitenden Verbringung von Konsumgütern
 
 (1) Die zuständige Behörde hat die Genehmigung nach § 42 zu erteilen, wenn die Voraussetzungen für die Genehmigung der grenzüberschreitenden Verbringung radioaktiver Stoffe nach Maßgabe der Rechtsverordnung nach § 30 erfüllt sind. Bei Verbringung in den Geltungsbereich dieses Gesetzes müssen zusätzlich die Voraussetzungen des § 41 Absatz 1 Nummer 1 bis 6, 8 und 9 erfüllt sein. § 41 Absatz 2 und § 44 Satz 1 gelten entsprechend; dabei tritt der Verbringer an die Stelle des Herstellers im Sinne des § 44 Satz 1.
 
 (2) Die zuständige Behörde übermittelt einen Genehmigungsantrag für die Verbringung in den Geltungsbereich dieses Gesetzes dem Bundesamt für Strahlenschutz, sofern die beabsichtigte Verwendung oder Lagerung des Konsumguts, dem radioaktive Stoffe zugesetzt sind oder das aktiviert ist und für dessen grenzüberschreitende Verbringung die Genehmigung beantragt worden ist, eine neue Tätigkeitsart darstellt. Das Verfahren nach § 38 ist anzuwenden; bis zu dessen Abschluss setzt die zuständige Behörde das Genehmigungsverfahren aus.
 
-
-## § 44 – Rückführung von Konsumgütern
+# § 44 – Rückführung von Konsumgütern
 
 Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf und nach § 41 Absatz 1 Nummer 3 ein Rücknahmekonzept zu erstellen hat, hat sicherzustellen, dass das Konsumgut kostenlos zurückgenommen wird. Der Letztverbraucher hat das Konsumgut nach Beendigung des Gebrauchs unverzüglich der in der Information nach § 41 Absatz 1 Nummer 5 angegebenen Stelle zurückzugeben.
 
 (+++ § 44 Satz 1: zur Anwendung vgl. § 43 Abs. 1 +++)
 
-
-## § 45 – Bauartzugelassene Vorrichtungen
+# § 45 – Bauartzugelassene Vorrichtungen
 
 (1) Die Bauart folgender Vorrichtungen kann auf Antrag des Herstellers oder Verbringers der Vorrichtung zugelassen werden (bauartzugelassene Vorrichtungen):
 
@@ -1163,8 +1115,7 @@ Wer als Hersteller eines Konsumguts einer Genehmigung nach § 40 bedarf und nach
 
 (2) Absatz 1 ist nicht auf Medizinprodukte oder Zubehör im Sinne des Medizinproduktegesetzes anzuwenden. Absatz 1 Nummer 1 ist nicht auf Vorrichtungen anzuwenden, die hochradioaktive Strahlenquellen enthalten.
 
-
-## § 46 – Verfahren der Bauartzulassung
+# § 46 – Verfahren der Bauartzulassung
 
 (1) Dem Antrag auf Zulassung einer Bauart sind die zur Prüfung erforderlichen Unterlagen, insbesondere die in Anlage 2 Teil G genannten Unterlagen, beizufügen.
 
@@ -1192,8 +1143,7 @@ b) gegen die für die Herstellung erforderliche technische Erfahrung des für di
 
 (6) Die zuständige Behörde soll über den Antrag auf Zulassung innerhalb von zwölf Monaten nach Eingang der vollständigen Antragsunterlagen entscheiden. Hat der Antragsteller der zuständigen Behörde auf deren Verlangen die zur Prüfung erforderlichen Baumuster überlassen, soll die zuständige Behörde über den Antrag innerhalb von zwölf Monaten nach Eingang der vollständigen Antragsunterlagen und des zur Prüfung erforderlichen Baumusters entscheiden.
 
-
-## § 47 – Zulassungsschein
+# § 47 – Zulassungsschein
 
 Wird die Bauart einer Vorrichtung nach § 45 zugelassen, so erteilt die für die Zulassung der Bauart zuständige Behörde einen Zulassungsschein. Der Zulassungsschein enthält die folgenden Angaben:
 
@@ -1211,8 +1161,7 @@ Wird die Bauart einer Vorrichtung nach § 45 zugelassen, so erteilt die für die
 
 7. bei einer Vorrichtung, die radioaktive Stoffe enthält, Anforderungen an die Rückführung der Vorrichtung an den Inhaber der Bauartzulassung oder an die Entsorgung der Vorrichtung nach der Rechtsverordnung nach § 49 Nummer 4 und 5.
 
-
-## § 48 – Verwendung oder Betrieb bauartzugelassener Vorrichtungen
+# § 48 – Verwendung oder Betrieb bauartzugelassener Vorrichtungen
 
 Eine bauartzugelassene Vorrichtung darf
 
@@ -1222,8 +1171,7 @@ Eine bauartzugelassene Vorrichtung darf
 
 Ist die bauartzugelassene Vorrichtung vor Ablauf der Frist der Bauartzulassung in Verkehr gebracht worden, so darf sie auch nach Ablauf dieser Frist verwendet oder betrieben werden. Satz 2 gilt nicht, wenn die für die Zulassung der Bauart zuständige Behörde bekannt gemacht hat, dass die Vorrichtung nicht weiter betrieben werden darf, weil ein ausreichender Schutz gegen Strahlenschäden nicht gewährleistet ist.
 
-
-## § 49 – Verordnungsermächtigung
+# § 49 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -1243,8 +1191,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 (+++ § 49: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 50 – Anzeigebedürftiger Betrieb von Luftfahrzeugen
+# § 50 – Anzeigebedürftiger Betrieb von Luftfahrzeugen
 
 (1) Wer beabsichtigt, ein Luftfahrzeug zu betreiben, das in der deutschen Luftfahrzeugrolle nach § 3 Absatz 1 des Luftverkehrsgesetzes vom 10. Mai 2007 in der jeweils geltenden Fassung eingetragen ist, hat dies der zuständigen Behörde vier Wochen vor der beabsichtigten Aufnahme des Betriebs anzuzeigen, wenn die effektive Dosis, die das fliegende Personal durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr überschreiten kann. Satz 1 gilt entsprechend für den Betrieb von Luftfahrzeugen, die in einem anderen Land registriert sind, wenn der Betreiber deutscher Staatsangehöriger oder eine juristische Person oder Personengesellschaft mit Sitz im Geltungsbereich dieses Gesetzes ist und fliegendes Personal einsetzt, das in einem Beschäftigungsverhältnis nach dem deutschen Arbeitsrecht steht.
 
@@ -1262,8 +1209,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 (4) Die Anzeigepflicht gilt auch für Luftfahrzeuge, die im Geschäftsbereich des Bundesministeriums der Verteidigung betrieben werden.
 
-
-## § 51 – Prüfung des angezeigten Betriebs von Luftfahrzeugen
+# § 51 – Prüfung des angezeigten Betriebs von Luftfahrzeugen
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von vier Wochen nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 50 Absatz 3 erbracht sind, so darf der Anzeigende die Tätigkeit bereits mit Erhalt der Mitteilung aufnehmen.
 
@@ -1275,8 +1221,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 3. gegen die Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen die hierauf beruhenden Anordnungen und Verfügungen der Aufsichtsbehörden erheblich oder wiederholt verstoßen wird und nicht in angemessener Zeit Abhilfe geschaffen wird.
 
-
-## § 52 – Anzeigebedürftiger Betrieb von Raumfahrzeugen
+# § 52 – Anzeigebedürftiger Betrieb von Raumfahrzeugen
 
 (1) Wer mit Sitz im Geltungsbereich dieses Gesetzes beabsichtigt, Raumfahrzeuge zu betreiben und dafür raumfahrendes Personal einzusetzen, das in einem Beschäftigungsverhältnis nach dem deutschen Arbeitsrecht steht, hat dies der zuständigen Behörde zwei Monate vor der beabsichtigten Aufnahme der Tätigkeit anzuzeigen, wenn die effektive Dosis, die das raumfahrende Personal durch kosmische Strahlung während des Betriebs des Raumfahrzeugs erhält, 1 Millisievert im Kalenderjahr überschreiten kann.
 
@@ -1302,8 +1247,7 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 4. Einwilligung des einzusetzenden raumfahrenden Personals zu der erhöhten Exposition.
 
-
-## § 53 – Prüfung des angezeigten Betriebs von Raumfahrzeugen
+# § 53 – Prüfung des angezeigten Betriebs von Raumfahrzeugen
 
 (1) Die zuständige Behörde prüft die Unterlagen innerhalb von zwei Monaten nach Eingang der Anzeige. Teilt die Behörde dem Anzeigenden vor Ablauf der Frist schriftlich mit, dass alle Nachweise nach § 52 Absatz 2 oder 4 erbracht sind, so darf der Anzeigende die Tätigkeit bereits mit Erhalt der Mitteilung aufnehmen.
 
@@ -1317,13 +1261,11 @@ b) die Festlegung, dass eine bauartzugelassene Vorrichtung nicht weiter betriebe
 
 (3) Im Falle einer gesonderten Anzeige nach § 52 Absatz 3 Satz 1 kann die zuständige Behörde den Einsatz des raumfahrenden Personals zusätzlich untersagen, wenn eine der nach § 52 Absatz 4 nachzuweisenden Anforderungen nicht erfüllt ist.
 
-
-## § 54 – Beendigung der angezeigten Tätigkeit
+# § 54 – Beendigung der angezeigten Tätigkeit
 
 Wer eine nach § 50 Absatz 1 oder § 52 Absatz 1 angezeigte Tätigkeit beendet oder derart verändert, dass die effektive Dosis, die das fliegende oder raumfahrende Personal durch kosmische Strahlung erhält, 1 Millisievert im Kalenderjahr nicht mehr überschreiten kann, hat dies der zuständigen Behörde unverzüglich mitzuteilen.
 
-
-## § 55 – Abschätzung der Exposition
+# § 55 – Abschätzung der Exposition
 
 (1) Wer in seiner Betriebsstätte eine Tätigkeit nach § 4 Absatz 1 Satz 1 Nummer 10 ausübt oder ausüben lässt, die einem der in Anlage 3 genannten Tätigkeitsfelder zuzuordnen ist, hat vor Beginn der Tätigkeit eine auf den Arbeitsplatz bezogene Abschätzung der Körperdosis durchzuführen. Die Abschätzung ist unverzüglich zu wiederholen, wenn der Arbeitsplatz so verändert wird, dass eine höhere Exposition auftreten kann.
 
@@ -1331,8 +1273,7 @@ Wer eine nach § 50 Absatz 1 oder § 52 Absatz 1 angezeigte Tätigkeit beendet o
 
 (+++ § 55 Abs. 2: zur Anwendung vgl. § 59 Abs. 1 +++)
 
-
-## § 56 – Anzeige
+# § 56 – Anzeige
 
 (1) Ergibt die Abschätzung, dass die Körperdosis einen der Werte für die Einstufung als beruflich exponierte Person überschreiten kann, so hat der zur Abschätzung Verpflichtete der zuständigen Behörde die Tätigkeit schriftlich anzuzeigen. Die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 1 hat spätestens vier Wochen vor der beabsichtigten Aufnahme der Tätigkeit zu erfolgen; nach Ablauf dieser Frist darf der Anzeigende die Tätigkeit aufnehmen, es sei denn, die zuständige Behörde hat das Verfahren nach § 57 Absatz 2 ausgesetzt oder die Tätigkeit untersagt. Die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 2 oder nach § 55 Absatz 2 hat unverzüglich nach der Abschätzung zu erfolgen.
 
@@ -1360,8 +1301,7 @@ Erfolgt die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 2 oder
 (+++ § 56 Abs. 2 Satz 2: zur Anwendung vgl. § 210 Abs. 2 +++)  
 (+++ § 56 Abs. 3: zur Anwendung vgl. § 59 Abs. 4 +++)
 
-
-## § 57 – Prüfung der angezeigten Tätigkeit
+# § 57 – Prüfung der angezeigten Tätigkeit
 
 (1) Die zuständige Behörde prüft die Anzeige innerhalb von vier Wochen nach Eingang der Unterlagen. Teilt die Behörde dem Anzeigenden im Falle einer Abschätzung nach § 55 Absatz 1 Satz 1 vor Ablauf dieser Frist schriftlich mit, dass alle erforderlichen Nachweise erbracht sind, darf der Anzeigende die Tätigkeit bereits mit Erhalt der Mitteilung aufnehmen.
 
@@ -1385,15 +1325,13 @@ Erfolgt die Anzeige auf Grund einer Abschätzung nach § 55 Absatz 1 Satz 2 oder
 
 (+++ § 57: zur Anwendung vgl. § 59 Abs. 4 +++)
 
-
-## § 58 – Beendigung der angezeigten Tätigkeit
+# § 58 – Beendigung der angezeigten Tätigkeit
 
 Wer eine nach § 56 Absatz 1 Satz 1 angezeigte Tätigkeit beendet oder derart verändert, dass eine Abschätzung nach § 55 Absatz 1 Satz 2 ergibt, dass die Körperdosis die Werte für die Einstufung als beruflich exponierte Person nicht mehr überschreiten kann, hat dies der zuständigen Behörde unverzüglich mitzuteilen.
 
 (+++ § 58: zur Anwendung vgl. § 59 Abs. 4 +++)
 
-
-## § 59 – Externe Tätigkeit
+# § 59 – Externe Tätigkeit
 
 (1) Die Pflicht zur Abschätzung der Körperdosis nach § 55 Absatz 1 gilt entsprechend für denjenigen, der die dort genannten Tätigkeiten in einer fremden Betriebsstätte in eigener Verantwortung ausübt oder von Personen ausüben lässt, die unter seiner Aufsicht stehen. Liegt für die fremde Betriebsstätte eine auf den Arbeitsplatz bezogene Abschätzung vor, so hat der Inhaber der Betriebsstätte eine Abschrift der Aufzeichnungen über die Abschätzung an den nach Satz 1 Verpflichten unverzüglich zu übermitteln. § 55 Absatz 2 gilt entsprechend.
 
@@ -1411,8 +1349,7 @@ Wer eine nach § 56 Absatz 1 Satz 1 angezeigte Tätigkeit beendet oder derart ve
 
 (4) § 56 Absatz 3 und die §§ 57 und 58 gelten für die nach Absatz 2 angezeigte Tätigkeit entsprechend.
 
-
-## § 60 – Anfall, Verwertung oder Beseitigung von Rückständen
+# § 60 – Anfall, Verwertung oder Beseitigung von Rückständen
 
 (1) Wer in seiner Betriebsstätte industrielle und bergbauliche Prozesse durchführt oder durchführen lässt, bei denen jährlich mehr als insgesamt 2 000 Tonnen an Rückständen anfallen werden und verwertet oder beseitigt werden sollen, hat dies bei der zuständigen Behörde und der nach § 47 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes zuständigen Behörde zu Beginn jedes Kalenderjahrs anzumelden. Die Anmeldepflicht gilt entsprechend für denjenigen, der überwachungsbedürftige Rückstände, die im Ausland angefallen und ins Inland verbracht worden sind, verwertet oder zur Verwertung annimmt.
 
@@ -1430,8 +1367,7 @@ Wer eine nach § 56 Absatz 1 Satz 1 angezeigte Tätigkeit beendet oder derart ve
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 61 – Anfall und Lagerung überwachungsbedürftiger Rückstände; Verordnungsermächtigung
+# § 61 – Anfall und Lagerung überwachungsbedürftiger Rückstände; Verordnungsermächtigung
 
 (1) Wer in eigener Verantwortung industrielle und bergbauliche Prozesse durchführt oder durchführen lässt, bei denen überwachungsbedürftige Rückstände anfallen, durch deren Lagerung, Verwertung oder Beseitigung für Einzelpersonen der Bevölkerung der Richtwert der effektiven Dosis von 1 Millisievert im Kalenderjahr überschritten werden kann, hat Maßnahmen zum Schutz der Bevölkerung zu ergreifen, um sicherzustellen, dass der Richtwert nicht überschritten wird, und sich hierzu von einer Person mit der erforderlichen Fachkunde im Strahlenschutz beraten zu lassen. Satz 1 gilt entsprechend für denjenigen, der überwachungsbedürftige Rückstände, die im Ausland angefallen und ins Inland verbracht worden sind, verwertet oder zur Verwertung annimmt.
 
@@ -1449,8 +1385,7 @@ Wer eine nach § 56 Absatz 1 Satz 1 angezeigte Tätigkeit beendet oder derart ve
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 62 – Entlassung von Rückständen aus der Überwachung; Verordnungsermächtigung
+# § 62 – Entlassung von Rückständen aus der Überwachung; Verordnungsermächtigung
 
 (1) Der nach § 61 Absatz 1 Satz 1 Verpflichtete hat unter Angabe von Art, Masse und spezifischer Aktivität die beabsichtigte Verwertung oder Beseitigung der Rückstände bei der zuständigen Behörde unverzüglich anzumelden, sobald er deren Überwachungsbedürftigkeit nach § 61 Absatz 2 festgestellt hat. Eine Anmeldung nach Satz 1 ist entbehrlich, wenn wegen der Art und spezifischen Aktivität der überwachungsbedürftigen Rückstände eine Anzeige nach § 63 Absatz 1 erstattet wird.
 
@@ -1486,8 +1421,7 @@ Die Entlassung aus der Überwachung erfolgt durch schriftlichen Bescheid.
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 63 – In der Überwachung verbleibende Rückstände; Verordnungsermächtigung
+# § 63 – In der Überwachung verbleibende Rückstände; Verordnungsermächtigung
 
 (1) Ist eine Entlassung aus der Überwachung nach § 62 Absatz 2 nicht möglich, so hat der nach § 61 Absatz 1 Satz 1 Verpflichtete der zuständigen Behörde Art, Masse und spezifische Aktivität der in der Überwachung verbleibenden Rückstände sowie eine geplante Beseitigung oder Verwertung dieser Rückstände oder die Abgabe zu diesem Zweck innerhalb der Frist nach Satz 2 anzuzeigen. Die Anzeige hat nach Ablehnung eines Antrags nach § 62 Absatz 2 innerhalb eines Monats, anderenfalls unverzüglich, nachdem der Verpflichtete die Überwachungsbedürftigkeit nach § 61 Absatz 2 festgestellt hat, zu erfolgen.
 
@@ -1497,8 +1431,7 @@ Die Entlassung aus der Überwachung erfolgt durch schriftlichen Bescheid.
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 64 – Entfernung von Kontaminationen von Grundstücken
+# § 64 – Entfernung von Kontaminationen von Grundstücken
 
 (1) Wer industrielle oder bergbauliche Prozesse, bei denen überwachungsbedürftige Rückstände angefallen sind, beendet, hat Kontaminationen durch überwachungsbedürftige Rückstände vor Nutzung des Grundstücks durch Dritte, spätestens jedoch fünf Jahre nach Beendigung der Nutzung, so zu entfernen, dass die Rückstände keine Einschränkung der Nutzung begründen. Maßstab für eine Grundstücksnutzung ohne Einschränkungen ist, dass die Exposition, der Einzelpersonen der Bevölkerung durch die nicht entfernten Rückstände ausgesetzt sind, den Richtwert einer effektiven Dosis von 1 Millisievert im Kalenderjahr nicht überschreitet.
 
@@ -1508,8 +1441,7 @@ Die Entlassung aus der Überwachung erfolgt durch schriftlichen Bescheid.
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 65 – Überwachung sonstiger Materialien; Verordnungsermächtigung
+# § 65 – Überwachung sonstiger Materialien; Verordnungsermächtigung
 
 (1) Kann durch Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 10 mit Materialien, die im Inland oder im Ausland angefallen und die keine Rückstände sind oder durch die Ausübung von industriellen oder bergbaulichen Prozessen, bei denen solche Materialien anfallen, die Exposition von Einzelpersonen der Bevölkerung so erheblich erhöht werden, dass Strahlenschutzmaßnahmen notwendig sind, kann die zuständige Behörde Anordnungen treffen. Sie kann insbesondere anordnen,
 
@@ -1523,20 +1455,17 @@ Die Entlassung aus der Überwachung erfolgt durch schriftlichen Bescheid.
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 66 – Mitteilungspflichten zur Betriebsorganisation
+# § 66 – Mitteilungspflichten zur Betriebsorganisation
 
 Besteht bei juristischen Personen das vertretungsberechtigte Organ aus mehreren Mitgliedern oder sind bei teilrechtsfähigen Personengesellschaften oder nichtrechtsfähigen Personenvereinigungen mehrere vertretungsberechtigte Personen vorhanden, so ist der zuständigen Behörde mitzuteilen, wer von ihnen die Verpflichtungen nach diesem Unterabschnitt wahrnimmt. Die Gesamtverantwortung aller Organmitglieder oder vertretungsberechtigter Mitglieder der Personenvereinigung bleibt hiervon unberührt.
 
 (+++ Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 (§§ 60 bis 66): zur Anwendung vgl. § 141 +++)
 
-
-## § 67 – Ausnahme von dem Erfordernis der Genehmigung und der Anzeige
+# § 67 – Ausnahme von dem Erfordernis der Genehmigung und der Anzeige
 
 Wer als Arbeitnehmer oder Arbeitnehmerin anderweitig unter der Aufsicht stehend im Rahmen einer nach diesem Gesetz genehmigungs- oder anzeigebedürftigen Tätigkeit beschäftigt wird, bedarf weder einer Genehmigung noch hat er oder sie eine Anzeige zu erstatten.
 
-
-## § 68 – Verordnungsermächtigung; Verwendungs- und Verwertungsverbot
+# § 68 – Verordnungsermächtigung; Verwendungs- und Verwertungsverbot
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen,
 
@@ -1550,8 +1479,7 @@ In der Rechtsverordnung können auch das Verfahren und die Mitteilungspflichten 
 
 (2) Sofern eine Freigabe radioaktiver Stoffe nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung die Beseitigung nach den Vorschriften des Kreislaufwirtschaftsgesetzes oder den auf dessen Grundlage oder auf der Grundlage des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen vorsieht, dürfen diese Stoffe nach den genannten Vorschriften nicht wieder verwendet oder verwertet werden.
 
-
-## § 69 – Strahlenschutzverantwortlicher
+# § 69 – Strahlenschutzverantwortlicher
 
 (1) Strahlenschutzverantwortlicher ist, wer
 
@@ -1567,8 +1495,7 @@ In der Rechtsverordnung können auch das Verfahren und die Mitteilungspflichten 
 
 (+++ § 69 Abs. 2: zur Anwendung vgl. § 208 Abs. 3 +++)
 
-
-## § 70 – Strahlenschutzbeauftragter
+# § 70 – Strahlenschutzbeauftragter
 
 (1) Der Strahlenschutzverantwortliche hat für die Leitung oder Beaufsichtigung einer Tätigkeit die erforderliche Anzahl von Strahlenschutzbeauftragten unverzüglich schriftlich zu bestellen, soweit dies für die Gewährleistung des Strahlenschutzes bei der Tätigkeit notwendig ist. Der Strahlenschutzverantwortliche bleibt auch im Falle einer solchen Bestellung für die Einhaltung der Pflichten, die ihm durch dieses Gesetz und durch die auf seiner Grundlage erlassenen Rechtsverordnungen auferlegt sind, verantwortlich.
 
@@ -1586,8 +1513,7 @@ In der Rechtsverordnung können auch das Verfahren und die Mitteilungspflichten 
 
 (+++ § 70: zur Anwendung vgl. § 208 Abs. 3 +++)
 
-
-## § 71 – Betriebliche Zusammenarbeit im Strahlenschutz
+# § 71 – Betriebliche Zusammenarbeit im Strahlenschutz
 
 (1) Der Strahlenschutzverantwortliche hat den Strahlenschutzbeauftragten unverzüglich über alle Verwaltungsakte und Maßnahmen, die Aufgaben oder Befugnisse des Strahlenschutzbeauftragten betreffen, zu unterrichten.
 
@@ -1597,8 +1523,7 @@ In der Rechtsverordnung können auch das Verfahren und die Mitteilungspflichten 
 
 (+++ § 71: zur Anwendung vgl. § 208 Abs. 3 +++)
 
-
-## § 72 – Weitere Pflichten des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten; Verordnungsermächtigung
+# § 72 – Weitere Pflichten des Strahlenschutzverantwortlichen und des Strahlenschutzbeauftragten; Verordnungsermächtigung
 
 (1) Der Strahlenschutzverantwortliche hat bei Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 1 bis 7 und 9 unter Beachtung des Standes von Wissenschaft und Technik, bei Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 8, 10 und 11 unter Beachtung des Standes der Technik, zum Schutz des Menschen und der Umwelt vor den schädlichen Wirkungen ionisierender Strahlung durch geeignete Schutzmaßnahmen, insbesondere durch Bereitstellung geeigneter Räume, Ausrüstungen und Geräte, durch geeignete Regelung des Betriebsablaufs und durch Bereitstellung ausreichenden und geeigneten Personals, dafür zu sorgen, dass
 
@@ -1634,15 +1559,13 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (+++ § 72: zur Anwendung vgl. § 208 Abs. 3 +++)
 
-
-## § 73 – Verordnungsermächtigung für den Erlass einer Strahlenschutzanweisung
+# § 73 – Verordnungsermächtigung für den Erlass einer Strahlenschutzanweisung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, dass der Strahlenschutzverantwortliche eine Strahlenschutzanweisung zu erlassen hat und welchen Inhalt die Strahlenschutzanweisung haben muss.
 
 (+++ § 73: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 74 – Erforderliche Fachkunde und Kenntnisse im Strahlenschutz; Verordnungsermächtigungen
+# § 74 – Erforderliche Fachkunde und Kenntnisse im Strahlenschutz; Verordnungsermächtigungen
 
 (1) Die erforderliche Fachkunde im Strahlenschutz wird in der Regel durch eine für das jeweilige Anwendungsgebiet geeignete Ausbildung, durch praktische Erfahrung und durch die erfolgreiche Teilnahme an von der zuständigen Stelle anerkannten Kursen erworben.
 
@@ -1668,13 +1591,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 8. unter welchen Voraussetzungen die zuständige Stelle eine Bescheinigung über die erforderliche Fachkunde im Strahlenschutz oder die erforderlichen Kenntnisse im Strahlenschutz entziehen kann, die Fortgeltung der Bescheinigung mit Auflagen versehen kann oder eine Überprüfung der Fachkunde oder der Kenntnisse veranlassen kann.
 
-
-## § 75 – Überprüfung der Zuverlässigkeit
+# § 75 – Überprüfung der Zuverlässigkeit
 
 Für die Überprüfung der Zuverlässigkeit von Personen zum Schutz gegen unbefugte Handlungen, die zu einer Entwendung oder Freisetzung sonstiger radioaktiver Stoffe führen können, sind § 12b des Atomgesetzes und die Atomrechtliche Zuverlässigkeitsüberprüfungs-Verordnung anzuwenden.
 
-
-## § 76 – Verordnungsermächtigungen für die physikalische Strahlenschutzkontrolle und Strahlenschutzbereiche; Aufzeichnungs- und Mitteilungspflichten der Daten der Körperdosis
+# § 76 – Verordnungsermächtigungen für die physikalische Strahlenschutzkontrolle und Strahlenschutzbereiche; Aufzeichnungs- und Mitteilungspflichten der Daten der Körperdosis
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an die physikalische Strahlenschutzkontrolle festzulegen sowie Vorgaben für Überwachungsbereiche, Kontrollbereiche und Sperrbereiche als Teil des Kontrollbereichs (Strahlenschutzbereiche) und den Schutz von Personen, die sich in Strahlenschutzbereichen aufhalten, zu machen. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -1718,13 +1639,11 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 (3) Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) wird nach Maßgabe des Absatzes 1 Satz 2 Nummer 10 eingeschränkt.
 
-
-## § 77 – Grenzwert für die Berufslebensdosis
+# § 77 – Grenzwert für die Berufslebensdosis
 
 Der Grenzwert für die Summe der in allen Kalenderjahren ermittelten effektiven Dosen beruflich exponierter Personen beträgt 400 Millisievert. Die zuständige Behörde kann im Benehmen mit einem ermächtigten Arzt eine zusätzliche berufliche Exposition zulassen, wenn diese nicht mehr als 10 Millisievert effektive Dosis im Kalenderjahr beträgt und die beruflich exponierte Person einwilligt. Die Einwilligung ist schriftlich zu erteilen.
 
-
-## § 78 – Grenzwerte für beruflich exponierte Personen
+# § 78 – Grenzwerte für beruflich exponierte Personen
 
 (1) Der Grenzwert der effektiven Dosis beträgt für beruflich exponierte Personen 20 Millisievert im Kalenderjahr. Die zuständige Behörde kann im Einzelfall für ein einzelnes Jahr eine effektive Dosis von 50 Millisievert zulassen, wobei in fünf aufeinander folgenden Jahren insgesamt 100 Millisievert nicht überschritten werden dürfen.
 
@@ -1752,8 +1671,7 @@ Abweichend davon kann die zuständige Behörde für Auszubildende und Studierend
 
 (5) Die Befugnis der zuständigen Behörde nach der Rechtsverordnung nach § 79 Absatz 1 Satz 2 Nummer 1, unter außergewöhnlichen, im Einzelfall zu beurteilenden Umständen zur Durchführung notwendiger spezifischer Arbeitsvorgänge Expositionen zuzulassen, die von den Grenzwerten der Absätze 1 und 2 und Absatz 4 Satz 1 abweichen, bleibt unberührt.
 
-
-## § 79 – Verordnungsermächtigung für die berufliche Exposition; Führung einer Gesundheitsakte
+# § 79 – Verordnungsermächtigung für die berufliche Exposition; Führung einer Gesundheitsakte
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche Vorsorge- und Überwachungsmaßnahmen für den Schutz von Personen, die einer beruflichen Exposition unterliegen, zu treffen sind. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -1817,8 +1735,7 @@ b) bei gesundheitlichen Bedenken gegen eine Beschäftigung, einschließlich des 
 
 (5) Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) wird nach Maßgabe des Absatzes 1 Satz 2 Nummer 6 und 8 eingeschränkt.
 
-
-## § 80 – Grenzwerte für die Exposition der Bevölkerung
+# § 80 – Grenzwerte für die Exposition der Bevölkerung
 
 (1) Für Einzelpersonen der Bevölkerung beträgt der Grenzwert der Summe der effektiven Dosen 1 Millisievert im Kalenderjahr durch Expositionen aus
 
@@ -1842,8 +1759,7 @@ b) bei gesundheitlichen Bedenken gegen eine Beschäftigung, einschließlich des 
 
 (+++ § 80: zur Anwendung vgl. § 212 Abs. 2 +++)
 
-
-## § 81 – Verordnungsermächtigung für den Schutz der Bevölkerung und der Umwelt
+# § 81 – Verordnungsermächtigung für den Schutz der Bevölkerung und der Umwelt
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche Vorsorge- und Überwachungsmaßnahmen für den Schutz von Einzelpersonen der Bevölkerung in Zusammenhang mit geplanten Expositionssituationen zu treffen sind, damit bestimmte Körperdosen und bestimmte Konzentrationen radioaktiver Stoffe in Luft und Wasser nicht überschritten werden. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -1871,8 +1787,7 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 (+++ § 81: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 82 – Verordnungsermächtigung für Pflichten des Strahlenschutzverantwortlichen im Zusammenhang mit Störfällen und Notfällen
+# § 82 – Verordnungsermächtigung für Pflichten des Strahlenschutzverantwortlichen im Zusammenhang mit Störfällen und Notfällen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche Pflichten der Strahlenschutzverantwortliche zur Vorbereitung angemessener Reaktionen auf Störfälle, mögliche Notfälle sowie bei einem Notfall zu erfüllen hat, insbesondere
 
@@ -1888,8 +1803,7 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 (+++ § 82: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 83 – Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
+# § 83 – Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
 
 (1) Ionisierende Strahlung und radioaktive Stoffe dürfen am Menschen nur angewendet werden
 
@@ -1905,8 +1819,7 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 (5) Die Exposition durch eine Untersuchung mit ionisierender Strahlung oder radioaktiven Stoffen ist so weit einzuschränken, wie dies mit den Erfordernissen der medizinischen Wissenschaft zu vereinbaren ist. Bei der Anwendung ionisierender Strahlung oder radioaktiver Stoffe zur Behandlung von Menschen ist die Dosis außerhalb des Zielvolumens so niedrig zu halten, wie dies unter Berücksichtigung des Behandlungsziels möglich ist. Satz 1 gilt entsprechend für nichtmedizinische Anwendungen.
 
-
-## § 84 – Früherkennung; Verordnungsermächtigung
+# § 84 – Früherkennung; Verordnungsermächtigung
 
 (1) Früherkennung zur Ermittlung nicht übertragbarer Krankheiten ist nur zulässig, wenn die Rechtsverordnung nach Absatz 2 dies vorsieht.
 
@@ -1918,8 +1831,7 @@ In der Rechtsverordnung können Verwaltungsbehörden des Bundes Aufgaben zur Qua
 
 (5) Erfolgt die Früherkennungsuntersuchung im Rahmen eines Früherkennungsprogramms, so kann die Rechtsverordnung nach Absatz 2 oder die Zulassung nach Absatz 4 Ausnahmen von der Pflicht zur rechtfertigenden Indikation zulassen, soweit Art und Umfang der Einschlusskriterien für das Früherkennungsprogramm eine Entscheidung darüber, ob oder auf welche Weise die Anwendung durchzuführen ist, entbehrlich machen.
 
-
-## § 85 – Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten von Daten und Bilddokumenten bei der Anwendung am Menschen; Verordnungsermächtigung
+# § 85 – Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten von Daten und Bilddokumenten bei der Anwendung am Menschen; Verordnungsermächtigung
 
 (1) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass über die Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen Aufzeichnungen angefertigt werden. Die Aufzeichnungen müssen Folgendes enthalten:
 
@@ -1971,8 +1883,7 @@ Bei der Weitergabe oder Übermittlung sind geeignete Maßnahmen zur Einhaltung d
 
 Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung festlegen, für deren Einhaltung der Strahlenschutzverantwortliche zu sorgen hat.
 
-
-## § 86 – Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
+# § 86 – Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche Maßnahmen, einschließlich Vorsorge- und Überwachungsmaßnahmen, für den Schutz von Personen, an denen ionisierende Strahlung und radioaktive Stoffe angewendet werden, sowie für den Schutz von Einzelpersonen der Bevölkerung bei oder nach der Anwendung ionisierender Strahlung oder radioaktiver Stoffe am Menschen zu treffen sind. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -2018,8 +1929,7 @@ In der Rechtsverordnung kann auch bestimmt werden, welche Informationen und pers
 
 (+++ § 86: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 87 – Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Tier in der Tierheilkunde
+# § 87 – Verordnungsermächtigungen zum Schutz von Personen bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Tier in der Tierheilkunde
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz der bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung in der Tierheilkunde anwesenden Personen festzulegen,
 
@@ -2031,8 +1941,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 (+++ § 87: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 88 – Register über hochradioaktive Strahlenquellen; Verordnungsermächtigungen
+# § 88 – Register über hochradioaktive Strahlenquellen; Verordnungsermächtigungen
 
 (1) Die Daten über hochradioaktive Strahlenquellen, die auf Grund dieses Gesetzes oder einer Rechtsverordnung nach § 89 Satz 1 Nummer 1 erhoben werden, werden zum Zweck der Sicherheit und Kontrolle von Strahlenquellen zum Schutz von Leben und Gesundheit in einem beim Bundesamt für Strahlenschutz eingerichteten Register erfasst.
 
@@ -2068,8 +1977,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 3. die Übermittlung, Berichtigung, Einschränkung der Verarbeitung und Löschung von Daten.
 
-
-## § 89 – Verordnungsermächtigungen zu der Sicherheit von Strahlungsquellen
+# § 89 – Verordnungsermächtigungen zu der Sicherheit von Strahlungsquellen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutz von Menschen vor der schädlichen Wirkung ionisierender Strahlung und zur Kontrolle und Sicherung radioaktiver Stoffe zu bestimmen,
 
@@ -2101,8 +2009,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 
 (+++ § 89: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 90 – Verordnungsermächtigung für Pflichten, Aufgaben und Befugnisse bei Vorkommnissen; Aufzeichnungs-, Übermittlungs- und Aufbewahrungspflichten
+# § 90 – Verordnungsermächtigung für Pflichten, Aufgaben und Befugnisse bei Vorkommnissen; Aufzeichnungs-, Übermittlungs- und Aufbewahrungspflichten
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates im Hinblick auf Vorkommnisse in geplanten Expositionssituationen Pflichten des Strahlenschutzverantwortlichen sowie behördliche Aufgaben und Befugnisse festzulegen. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -2130,8 +2037,7 @@ c) Maßnahmen zur Vermeidung von Vorkommnissen zu melden hat,
 
 (2) Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass bei einem Vorkommnis, das der Rechtsverordnung nach Absatz 1 unterliegt, Name, Vornamen, Geburtsdatum und -ort, Geschlecht und Anschrift sowie Daten zur Exposition einer durch das Vorkommnis exponierten Person sowie zu den gesundheitlichen Folgen der Exposition unverzüglich aufgezeichnet werden. Sofern der Strahlenschutzverantwortliche das Vorkommnis nach der Rechtsverordnung nach Absatz 1 zu melden hat und Maßnahmen zum Schutz der exponierten Person erforderlich sind, übermittelt er die Daten unverzüglich der zuständigen Behörde. Die Daten sind vor dem Zugriff Unbefugter durch technisch-organisatorische Maßnahmen zu sichern. Sie sind der zuständigen Behörde in anderen Fällen als in Satz 2 auf Verlangen zu übermitteln. Die Daten sind 30 Jahre lang aufzubewahren und nach Ablauf dieser Frist unverzüglich zu löschen.
 
-
-## § 91 – Verordnungsermächtigung für Informationspflichten des Herstellers oder Lieferanten von Geräten
+# § 91 – Verordnungsermächtigung für Informationspflichten des Herstellers oder Lieferanten von Geräten
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass der Hersteller oder Lieferant von Anlagen zur Erzeugung ionisierender Strahlung, Röntgeneinrichtungen, Störstrahlern, Bestrahlungsvorrichtungen und weiteren im Zusammenhang mit Tätigkeiten eingesetzten Ausrüstungen, Geräten und Vorrichtungen dem Strahlenschutzverantwortlichen Informationen über diese Geräte zur Verfügung zu stellen hat. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -2145,8 +2051,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (+++ § 91: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 92 – Notfallschutzgrundsätze
+# § 92 – Notfallschutzgrundsätze
 
 (1) Die Vorschriften der folgenden Absätze (Notfallschutzgrundsätze) sind als Vorgaben bei der Bewertung von Gefahren, die bei Notfällen durch ionisierende Strahlung entstehen können, in den folgenden Fällen zu berücksichtigen:
 
@@ -2161,8 +2066,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 (+++ § 92: zur Anwendung vgl. § 119 +++)  
 (+++ § 92: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 93 – Referenzwerte für den Schutz der Bevölkerung; Verordnungsermächtigungen
+# § 93 – Referenzwerte für den Schutz der Bevölkerung; Verordnungsermächtigungen
 
 (1) Für den Schutz der Bevölkerung gilt bei der Planung von Schutzmaßnahmen und bei den Entscheidungen über ihre Durchführung in einem Notfall ein Referenzwert von 100 Millisievert für die effektive Dosis, die betroffene Personen jeweils durch den Notfall innerhalb eines Jahres über alle Expositionspfade erhalten würden, wenn die vorgesehenen Schutzmaßnahmen durchgeführt würden. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Verfahren und Annahmen zur Abschätzung, inwieweit dieser Referenzwert unterschritten, eingehalten oder überschritten wird, festzulegen.
 
@@ -2170,8 +2074,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, für einen bereits eingetretenen Notfall durch Rechtsverordnung mit Zustimmung des Bundesrates einen niedrigeren Referenzwert für die effektive Dosis, bezogen auf ein Jahr oder eine einmalige Exposition, festzulegen.
 
-
-## § 94 – Dosiswerte und Kontaminationswerte für den Schutz der Bevölkerung; Verordnungsermächtigungen
+# § 94 – Dosiswerte und Kontaminationswerte für den Schutz der Bevölkerung; Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit legt für mögliche Notfälle durch Rechtsverordnung mit Zustimmung des Bundesrates Dosiswerte fest, die als radiologisches Kriterium für die Angemessenheit folgender Schutzmaßnahmen dienen:
 
@@ -2213,8 +2116,7 @@ bei deren Überschreitung davon auszugehen ist, dass eine Gefahr für Einzelpers
 
 (+++ § 94 Abs. 3 u. 4: zur Anwendung vgl. § 95 Abs. 5 +++)
 
-
-## § 95 – Bewirtschaftung von Abfällen, die infolge eines Notfalls kontaminiert sein können, Errichtung und Betrieb von Anlagen; Verordnungsermächtigungen
+# § 95 – Bewirtschaftung von Abfällen, die infolge eines Notfalls kontaminiert sein können, Errichtung und Betrieb von Anlagen; Verordnungsermächtigungen
 
 (1) Die Bundesregierung legt für mögliche Notfälle, für einen bereits eingetretenen Notfall und für eine nach einem Notfall bestehende Expositionssituation durch Rechtsverordnung mit Zustimmung des Bundesrates Kontaminationswerte für Abfälle und sonstige Gegenstände oder Stoffe, die durch einen Notfall kontaminiert sind oder kontaminiert sein können, fest. Werden diese Kontaminationswerte unterschritten, so ist davon auszugehen, dass der erforderliche Schutz von Mensch und Umwelt vor der schädlichen Wirkung ionisierender Strahlung bei der Bewirtschaftung dieser Abfälle sowie der Errichtung und dem Betrieb oder der Benutzung der nachfolgend genannten Anlagen nach Maßgabe des Kreislaufwirtschaftgesetzes und der sonstigen für Abfälle und für die Anlagen geltenden Bundesgesetze und der auf diese Gesetze gestützten Rechtsverordnungen ohne zusätzliche spezielle Schutzmaßnahmen sichergestellt ist:
 
@@ -2270,8 +2172,7 @@ Ausnahmen dürfen nur geregelt, zugelassen oder erteilt werden, soweit Gefahren 
 
 (+++ § 95: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 96 – Eilverordnungen
+# § 96 – Eilverordnungen
 
 (1) Bei Eilbedürftigkeit nach Eintritt eines Notfalls kann
 
@@ -2283,8 +2184,7 @@ durch Rechtsverordnung ohne die Zustimmung des Bundesrates und ohne das Einverne
 
 (2) Eilverordnungen treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur durch eine Rechtsverordnung mit Zustimmung des Bundesrates und im Einvernehmen mit den zu beteiligenden Bundesministerien verlängert werden. Eilverordnungen, die bestehende Regelungen ändern, sind unverzüglich aufzuheben, wenn der Bundesrat dies verlangt.
 
-
-## § 97 – Gemeinsame Vorschriften für die Notfallpläne
+# § 97 – Gemeinsame Vorschriften für die Notfallpläne
 
 (1) Bund und Länder stellen Notfallpläne nach den §§ 98, 99, 100 und 101 auf. In diesen Notfallplänen sind die geplanten angemessenen Reaktionen auf mögliche Notfälle anhand bestimmter Referenzszenarien darzustellen. Die darzustellenden Notfallreaktionen umfassen
 
@@ -2310,8 +2210,7 @@ b) Maßnahmen zur medizinischen Behandlung oder Vorsorge nach einer Exposition,
 
 (+++ § 97: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 98 – Allgemeiner Notfallplan des Bundes
+# § 98 – Allgemeiner Notfallplan des Bundes
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bewertet mögliche Notfallexpositionssituationen. Auf seinen Vorschlag erlässt die Bundesregierung einen allgemeinen Notfallplan des Bundes. Der allgemeine Notfallplan des Bundes wird als allgemeine Verwaltungsvorschrift mit Zustimmung des Bundesrates beschlossen.
 
@@ -2337,8 +2236,7 @@ Der allgemeine Notfallplan des Bundes kann auch Hinweise auf die Notfallpläne d
 
 (+++ § 98 Abs. 3 Satz 2: zur Anwendung vgl. § 99 Abs. 3 +++)
 
-
-## § 99 – Besondere Notfallpläne des Bundes
+# § 99 – Besondere Notfallpläne des Bundes
 
 (1) Auf Vorschlag der für die jeweiligen Sachbereiche zuständigen Bundesministerien ergänzt und konkretisiert die Bundesregierung den allgemeinen Notfallplan des Bundes durch besondere Notfallpläne des Bundes. Die besonderen Notfallpläne des Bundes werden als allgemeine Verwaltungsvorschriften mit Zustimmung des Bundesrates beschlossen.
 
@@ -2366,15 +2264,13 @@ Der allgemeine Notfallplan des Bundes kann auch Hinweise auf die Notfallpläne d
 
 (+++ § 99: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 100 – Allgemeine und besondere Notfallpläne der Länder
+# § 100 – Allgemeine und besondere Notfallpläne der Länder
 
 Die Länder stellen allgemeine und besondere Notfallpläne auf. Diese Notfallpläne der Länder ergänzen und konkretisieren den allgemeinen Notfallplan des Bundes und die besonderen Notfallpläne des Bundes, soweit die Länder für die Planung oder Durchführung von Schutzmaßnahmen zuständig sind.
 
 (+++ § 100: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 101 – Externe Notfallpläne für ortsfeste Anlagen oder Einrichtungen mit besonderem Gefahrenpotential
+# § 101 – Externe Notfallpläne für ortsfeste Anlagen oder Einrichtungen mit besonderem Gefahrenpotential
 
 (1) Die für den Katastrophenschutz oder für die öffentliche Sicherheit zuständigen Behörden stellen nach Maßgabe ihrer landesrechtlichen Bestimmungen Sonderschutzpläne (externe Notfallpläne) auf für die Umgebung von kerntechnischen Anlagen, Anlagen im Sinne des § 9a Absatz 3 Satz 1 zweiter Satzteil des Atomgesetzes, Anlagen zur Erzeugung ionisierender Strahlung oder Einrichtungen im Sinne des § 5 Absatz 12 dieses Gesetzes, soweit Notfälle in der Anlage oder Einrichtung für eine nicht unerhebliche Personenzahl in der Umgebung der Anlage oder Einrichtung zu schwerwiegenden Gesundheitsbeeinträchtigungen führen können.
 
@@ -2382,8 +2278,7 @@ Die Länder stellen allgemeine und besondere Notfallpläne auf. Diese Notfallpl�
 
 (+++ § 101: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 102 – Notfallübungen
+# § 102 – Notfallübungen
 
 (1) Die Behörden und Organisationen, die gemäß den Notfallplänen des Bundes und der Länder an der Notfallreaktion beteiligt sind, sowie die nach § 115 Absatz 1 für die Aus- und Fortbildung der Einsatzkräfte Verantwortlichen führen regelmäßig Notfallübungen durch.
 
@@ -2401,8 +2296,7 @@ c) der Durchführung von angemessenen Schutzmaßnahmen.
 
 (+++ § 102: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 103 – Überprüfung und Änderung der Notfallpläne
+# § 103 – Überprüfung und Änderung der Notfallpläne
 
 (1) Die Notfallpläne des Bundes und der Länder werden regelmäßig unter Berücksichtigung der Erfahrungen aus den Notfallübungen, den Erkenntnissen aus Notfällen im In- oder Ausland sowie den Veränderungen des Standes der Wissenschaft und der Rechtslage überprüft und gegebenenfalls geändert.
 
@@ -2410,8 +2304,7 @@ c) der Durchführung von angemessenen Schutzmaßnahmen.
 
 (+++ § 103: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 104 – Beschaffung von Schutzwirkstoffen
+# § 104 – Beschaffung von Schutzwirkstoffen
 
 (1) Die nach § 192 Absatz 1 zuständige Behörde beschafft Schutzwirkstoffe in dem zur Versorgung der Bevölkerung im Bundesgebiet bei möglichen Notfällen erforderlichen Umfang. Sie stellt diese Schutzwirkstoffe den Ländern für den Katastrophenschutz zur Bevorratung, Verteilung und Abgabe an die Bevölkerung zur Verfügung.
 
@@ -2423,8 +2316,7 @@ c) der Durchführung von angemessenen Schutzmaßnahmen.
 
 (+++ § 104: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 105 – Information der Bevölkerung über die Schutzmaßnahmen und Empfehlungen für das Verhalten bei möglichen Notfällen
+# § 105 – Information der Bevölkerung über die Schutzmaßnahmen und Empfehlungen für das Verhalten bei möglichen Notfällen
 
 (1) Die zuständigen Stellen des Bundes veröffentlichen die Notfallpläne des Bundes nach Maßgabe des § 10 des Umweltinformationsgesetzes.
 
@@ -2449,8 +2341,7 @@ und
 (+++ § 105 Abs. 2, 3 u. 4: zur Anwendung vgl. § 120 Abs. 2, 3 u. 5 +++)  
 (+++ § 105: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 106 – Radiologisches Lagezentrum des Bundes
+# § 106 – Radiologisches Lagezentrum des Bundes
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit richtet ein radiologisches Lagezentrum des Bundes ein.
 
@@ -2476,8 +2367,7 @@ und
 
 (+++ §§ 106: zur Anwendung vgl. § 119 +++)
 
-
-## § 107 – Aufgaben der Länder bei der Ermittlung und Auswertung der radiologischen Lage
+# § 107 – Aufgaben der Länder bei der Ermittlung und Auswertung der radiologischen Lage
 
 Die Länder übermitteln dem radiologischen Lagezentrum des Bundes unverzüglich
 
@@ -2498,8 +2388,7 @@ Die Länder übermitteln dem radiologischen Lagezentrum des Bundes unverzüglich
 (+++ §§ 107: zur Anwendung vgl. § 119 +++)  
 (+++ § 107: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 108 – Radiologisches Lagebild
+# § 108 – Radiologisches Lagebild
 
 (1) Nach Eintritt eines überregionalen oder regionalen Notfalls wird ein radiologisches Lagebild erstellt. In dem radiologischen Lagebild werden die Informationen nach den §§ 106, 107 und 161 bis 163 und weitere relevante Informationen zu Art, Umfang und zu erwartender Entwicklung der radiologischen Lage aufbereitet, dargestellt und bewertet. Das radiologische Lagebild ist entsprechend der weiteren Entwicklung des Notfalls und der relevanten Informationen zu aktualisieren. Soweit eine Dosisabschätzung nach § 111 Absatz 1 vorliegt, ist auch diese in das radiologische Lagebild aufzunehmen.
 
@@ -2511,8 +2400,7 @@ Die Länder übermitteln dem radiologischen Lagezentrum des Bundes unverzüglich
 
 (+++ §§ 108: zur Anwendung vgl. § 119 +++)
 
-
-## § 109 – Entscheidungen über Schutzmaßnahmen durch die zuständigen Behörden
+# § 109 – Entscheidungen über Schutzmaßnahmen durch die zuständigen Behörden
 
 (1) Ob bei einem Notfall Schutzmaßnahmen getroffen werden und welche Schutzmaßnahmen bei diesem Notfall angemessen sind, entscheiden die zuständigen Behörden nach Maßgabe der Rechtsverordnungen auf Grundlage der §§ 94 bis 96 und, soweit sich aus diesen nichts anderes ergibt, auf Grundlage
 
@@ -2529,16 +2417,14 @@ soweit diese Rechtsvorschriften und Rechtsakte auch bei radiologischen Gefahren 
 (+++ §§ 109: zur Anwendung vgl. § 119 +++)  
 (+++ § 109: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 110 – Zusammenarbeit und Abstimmung bei Notfällen
+# § 110 – Zusammenarbeit und Abstimmung bei Notfällen
 
 Die Behörden und Organisationen, die an Entscheidungen über Schutzmaßnahmen oder deren Durchführung beteiligt sind, arbeiten nach Maßgabe der Notfallpläne zusammen. Die Entscheidungen und Schutzmaßnahmen sind im erforderlichen Umfang aufeinander abzustimmen, soweit die rechtzeitige Durchführung angemessener Schutzmaßnahmen dadurch nicht verhindert oder unangemessen verzögert wird.
 
 (+++ §§ 110: zur Anwendung vgl. § 119 +++)  
 (+++ § 110: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 111 – Dosisabschätzung, Abschätzung der Wirksamkeit der Schutzmaßnahmen, Anpassung der Notfallplanungen bei überregionalen und regionalen Notfällen
+# § 111 – Dosisabschätzung, Abschätzung der Wirksamkeit der Schutzmaßnahmen, Anpassung der Notfallplanungen bei überregionalen und regionalen Notfällen
 
 (1) Bei einem überregionalen oder regionalen Notfall schätzt die für die Erstellung des radiologischen Lagebildes zuständige Behörde oder Stelle für betroffene Bevölkerungsgruppen die Dosis ab, die diese infolge des Notfalls bereits aufgenommen haben und voraussichtlich noch aufnehmen werden (Dosisabschätzung).
 
@@ -2562,8 +2448,7 @@ Die Behörden und Organisationen, die an Entscheidungen über Schutzmaßnahmen o
 
 (+++ §§ 111: zur Anwendung vgl. § 119 +++)
 
-
-## § 112 – Information der betroffenen Bevölkerung und Empfehlungen für das Verhalten bei Notfällen
+# § 112 – Information der betroffenen Bevölkerung und Empfehlungen für das Verhalten bei Notfällen
 
 (1) Die nach Landesrecht zuständigen Behörden informieren bei einem lokalen Notfall unverzüglich die möglicherweise betroffene Bevölkerung über den Notfall und geben ihr angemessene Empfehlungen für das Verhalten bei diesem Notfall.
 
@@ -2573,8 +2458,7 @@ Die Behörden und Organisationen, die an Entscheidungen über Schutzmaßnahmen o
 
 (4) Die Informationen, Aufforderungen und Verhaltensempfehlungen umfassen die in Anlage 7 aufgeführten Punkte, die für den jeweiligen Notfall relevant sind.
 
-
-## § 113 – Unterrichtung, Aus- und Fortbildung der Einsatzkräfte im Rahmen der Notfallvorsorge
+# § 113 – Unterrichtung, Aus- und Fortbildung der Einsatzkräfte im Rahmen der Notfallvorsorge
 
 (1) Personen, die in den Notfallplänen des Bundes oder der Länder oder in internen Planungen der Strahlenschutzverantwortlichen
 
@@ -2591,8 +2475,7 @@ sind über die gesundheitlichen Risiken, die ein Einsatz bei einem Notfall mit s
 (+++ § 113: zur Anwendung vgl. § 116 +++)  
 (+++ § 113: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 114 – Schutz der Einsatzkräfte bei Notfalleinsätzen
+# § 114 – Schutz der Einsatzkräfte bei Notfalleinsätzen
 
 (1) Bei Notfalleinsätzen ist durch dem jeweiligen Einsatzzweck angemessene Schutz- und Überwachungsmaßnahmen anzustreben, dass die Exposition von Einsatzkräften in dieser Expositionssituation unterhalb der Werte bleibt, die in § 78 bei geplanten Expositionssituationen als Dosisgrenzwerte festgesetzt sind.
 
@@ -2607,8 +2490,7 @@ sind über die gesundheitlichen Risiken, die ein Einsatz bei einem Notfall mit s
 (+++ § 114: zur Anwendung vgl. § 116 +++)  
 (+++ § 114: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 115 – Verantwortlichkeit für den Schutz der Einsatzkräfte
+# § 115 – Verantwortlichkeit für den Schutz der Einsatzkräfte
 
 (1) Verantwortlich für die Unterrichtung, Aus- und Fortbildung ihrer eigenen Einsatzkräfte sind
 
@@ -2631,15 +2513,13 @@ b) die Behörden und Organisationen, die für Maßnahmen der Notfallreaktion zus
 (+++ § 115: zur Anwendung vgl. § 116 +++)  
 (+++ § 115: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 116 – Schutz der Einsatzkräfte bei anderen Gefahrenlagen
+# § 116 – Schutz der Einsatzkräfte bei anderen Gefahrenlagen
 
 Bei der Vorbereitung und Durchführung von Einsätzen, die nicht der Bekämpfung eines Notfalls im Sinne dieses Gesetzes, sondern der Bekämpfung einer anderen Gefahrenlage dienen, und bei denen die Einsatzkräfte ionisierender Strahlung ausgesetzt sein können, sind die §§ 113 bis 115 entsprechend anzuwenden.
 
 (+++ § 116: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 117 – Verordnungsermächtigungen zum Schutz der Einsatzkräfte
+# § 117 – Verordnungsermächtigungen zum Schutz der Einsatzkräfte
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung
 
@@ -2659,8 +2539,7 @@ Rechtsverordnungen nach Satz 1 Nummer 2 bis 4 bedürfen der Zustimmung des Bunde
 
 (4) Das Grundrecht auf körperliche Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes) wird nach Maßgabe des Absatzes 1 Satz 1 Nummer 3 eingeschränkt.
 
-
-## § 118 – Übergang zu einer bestehenden Expositionssituation; Verordnungsermächtigungen
+# § 118 – Übergang zu einer bestehenden Expositionssituation; Verordnungsermächtigungen
 
 (1) Wenn sich bei einem überregionalen oder regionalen Notfall die radiologische Lage im Wesentlichen stabilisiert hat, schätzt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Rahmen der Wirksamkeitsprüfung nach § 111 Absatz 2 auch ab, ob die effektive Dosis bei der betroffenen Bevölkerung infolge des Notfalls voraussichtlich im folgenden Jahr im Bundesgebiet oder in Teilen des Bundesgebietes noch den Wert von 1 Millisievert im Jahr überschreiten wird. Soweit der Wert von 1 Millisievert voraussichtlich im folgenden Jahr im Bundesgebiet oder in Teilen des Bundesgebietes noch überschritten wird, erstrecken sich die von den zuständigen Bundesministerien nach § 111 Absatz 3 und 4 vorzunehmenden Prüfungen
 
@@ -2678,13 +2557,11 @@ Rechtsverordnungen nach Satz 1 Nummer 2 bis 4 bedürfen der Zustimmung des Bunde
 
 (6) Wenn sich bei einem lokalen Notfall die radiologische Lage im Wesentlichen stabilisiert hat, die effektive Dosis bei der betroffenen Bevölkerung infolge des Notfalls aber den Wert von 1 Millisievert im Jahr noch überschreitet, legt die zuständige Behörde durch Allgemeinverfügung einen Referenzwert für die effektive Dosis fest, die betroffene Personen infolge des Notfalls über alle Expositionspfade erhalten, wenn die vorgesehenen Schutzmaßnahmen durchgeführt werden. Der Referenzwert darf 20 Millisievert im Jahr nicht überschreiten. Die zuständige Behörde kann ergänzend angemessene Referenzwerte für Organ-Äquivalentdosen festlegen.
 
-
-## § 119 – Radiologische Lage, Maßnahmen, Zusammenarbeit und Abstimmung in einer nach einem Notfall bestehenden Expositionssituation
+# § 119 – Radiologische Lage, Maßnahmen, Zusammenarbeit und Abstimmung in einer nach einem Notfall bestehenden Expositionssituation
 
 In einer nach einem Notfall bestehenden Expositionssituation sind die §§ 92 und 106 bis 111 entsprechend anzuwenden. An Stelle der Referenzwerte nach § 93 gelten für den Schutz der Bevölkerung die nach § 118 Absatz 4 oder 6 festgelegten Referenzwerte; an Stelle der Notfallpläne nach den §§ 98 bis 100 gelten die Pläne nach § 118 Absatz 2, 3 und 5.
 
-
-## § 120 – Information der Bevölkerung und Verhaltensempfehlungen
+# § 120 – Information der Bevölkerung und Verhaltensempfehlungen
 
 (1) Pläne des Bundes nach § 118 Absatz 2 und 3 werden von den zuständigen Stellen des Bundes nach Maßgabe des § 10 des Umweltinformationsgesetzes veröffentlicht.
 
@@ -2696,15 +2573,13 @@ In einer nach einem Notfall bestehenden Expositionssituation sind die §§ 92 un
 
 (5) § 105 Absatz 4 gilt entsprechend.
 
-
-## § 121 – Festlegung von Gebieten; Verordnungsermächtigung
+# § 121 – Festlegung von Gebieten; Verordnungsermächtigung
 
 (1) Die zuständige Behörde legt durch Allgemeinverfügung innerhalb von zwei Jahren nach Inkrafttreten einer Rechtsverordnung nach Absatz 2 die Gebiete fest, für die erwartet wird, dass die über das Jahr gemittelte Radon-222-Aktivitätskonzentration in der Luft in einer beträchtlichen Zahl von Gebäuden mit Aufenthaltsräumen oder Arbeitsplätzen den Referenzwert nach § 124 oder § 126 überschreitet. Sie veröffentlicht die Festlegung der Gebiete. Die Festlegung der Gebiete ist alle zehn Jahre zu überprüfen.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, unter welchen Umständen die zuständige Behörde davon ausgehen kann, dass in einem Gebiet in einer beträchtlichen Zahl von Gebäuden mit Aufenthaltsräumen oder Arbeitsplätzen die Referenzwerte nach den §§ 124 und 126 überschritten werden und welche Verfahren und Kriterien für die Festlegung der Gebiete heranzuziehen sind.
 
-
-## § 122 – Radonmaßnahmenplan
+# § 122 – Radonmaßnahmenplan
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erstellt einen Radonmaßnahmenplan. Der Radonmaßnahmenplan wird unter Beteiligung der Länder erstellt. Er erläutert die Maßnahmen nach diesem Gesetz und enthält Ziele für die Bewältigung der langfristigen Risiken der Exposition durch Radon in Aufenthaltsräumen und an Arbeitsplätzen in Innenräumen hinsichtlich sämtlicher Quellen, aus denen Radon zutritt, sei es aus dem Boden, aus Bauprodukten oder aus dem Wasser.
 
@@ -2714,8 +2589,7 @@ In einer nach einem Notfall bestehenden Expositionssituation sind die §§ 92 un
 
 (4) Die zuständige Behörde entwickelt für ihren Zuständigkeitsbereich an die jeweiligen Bedingungen angepasste Strategien zum Umgang mit langfristigen Risiken der Exposition durch Radon. Sie berücksichtigt dabei den Radonmaßnahmenplan. Sie erhebt die erforderlichen Daten. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit koordiniert die Entwicklung der Strategien.
 
-
-## § 123 – Maßnahmen an Gebäuden; Verordnungsermächtigung
+# § 123 – Maßnahmen an Gebäuden; Verordnungsermächtigung
 
 (1) Wer ein Gebäude mit Aufenthaltsräumen oder Arbeitsplätzen errichtet, hat geeignete Maßnahmen zu treffen, um den Zutritt von Radon aus dem Baugrund zu verhindern oder erheblich zu erschweren. Diese Pflicht gilt als erfüllt, wenn
 
@@ -2729,25 +2603,21 @@ In einer nach einem Notfall bestehenden Expositionssituation sind die §§ 92 un
 
 (4) Wer im Rahmen der baulichen Veränderung eines Gebäudes mit Aufenthaltsräumen oder Arbeitsplätzen Maßnahmen durchführt, die zu einer erheblichen Verminderung der Luftwechselrate führen, soll die Durchführung von Maßnahmen zum Schutz vor Radon in Betracht ziehen, soweit diese Maßnahmen erforderlich und zumutbar sind.
 
-
-## § 124 – Referenzwert; Verordnungsermächtigung
+# § 124 – Referenzwert; Verordnungsermächtigung
 
 Der Referenzwert für die über das Jahr gemittelte Radon-222-Aktivitätskonzentration in der Luft in Aufenthaltsräumen beträgt 300 Becquerel je Kubikmeter. Spätestens zehn Jahre nach Inkrafttreten dieses Gesetzes legt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit einen Bericht über die Entwicklung der Schutzmaßnahmen für die Allgemeinbevölkerung gegenüber Radonexpositionen, über deren Wirksamkeit und Kosten auf Bundes- und Länderebene vor. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, wie die Messung der Radon-222-Aktivitätskonzentration in der Luft in Aufenthaltsräumen zu erfolgen hat.
 
-
-## § 125 – Unterrichtung der Bevölkerung; Reduzierung der Radonkonzentration
+# § 125 – Unterrichtung der Bevölkerung; Reduzierung der Radonkonzentration
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie die zuständigen Behörden der Länder unterrichten die Bevölkerung in geeigneter Weise über die Exposition durch Radon in Aufenthaltsräumen und die damit verbundenen Gesundheitsrisiken, über die Wichtigkeit von Radonmessungen und über die technischen Möglichkeiten, die zur Verringerung vorhandener Radon-222-Aktivitätskonzentrationen verfügbar sind.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie die zuständigen Behörden der Länder regen Maßnahmen zur Ermittlung von Aufenthaltsräumen an, in denen die über das Jahr gemittelte Radon-222-Aktivitätskonzentration in der Luft den Referenzwert nach § 124 überschreitet, und empfehlen technische oder andere Mittel zur Verringerung der Exposition durch Radon.
 
-
-## § 126 – Referenzwert
+# § 126 – Referenzwert
 
 Der Referenzwert für die über das Jahr gemittelte Radon-222-Aktivitätskonzentration in der Luft an Arbeitsplätzen beträgt 300 Becquerel je Kubikmeter.
 
-
-## § 127 – Messung der Radonkonzentration
+# § 127 – Messung der Radonkonzentration
 
 (1) Wer für einen Arbeitsplatz in einem Innenraum verantwortlich ist, hat innerhalb der Frist nach Satz 2 Messungen der Radon-222-Aktivitätskonzentration in der Luft zu veranlassen, wenn
 
@@ -2767,8 +2637,7 @@ Im Falle des Satzes 1 Nummer 1 muss die Messung innerhalb von 18 Monaten nach de
 
 (4) Im Falle der Verantwortlichkeit nach Absatz 2 Nummer 1 hat der für den Arbeitsplatz Verantwortliche die betroffenen Arbeitskräfte und den Betriebsrat oder den Personalrat unverzüglich über die Ergebnisse der Messungen zu unterrichten. Im Falle der Verantwortlichkeit nach Absatz 2 Nummer 2 hat der für den Arbeitsplatz Verantwortliche unverzüglich den Dritten zu unterrichten; die Pflicht nach Satz 1 gilt entsprechend für den Dritten.
 
-
-## § 128 – Reduzierung der Radonkonzentration
+# § 128 – Reduzierung der Radonkonzentration
 
 (1) Überschreitet die Radon-222-Aktivitätskonzentration in der Luft an einem Arbeitsplatz den Referenzwert nach § 126, so hat der für den Arbeitsplatz Verantwortliche unverzüglich Maßnahmen zur Reduzierung der Radon-222-Aktivitätskonzentration in der Luft zu ergreifen.
 
@@ -2784,8 +2653,7 @@ Im Falle des Satzes 1 Nummer 1 muss die Messung innerhalb von 18 Monaten nach de
 
 Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 2 hat der für den Arbeitsplatz Verantwortliche den Dritten unverzüglich nach Bekanntwerden der Gründe darüber zu unterrichten.
 
-
-## § 129 – Anmeldung
+# § 129 – Anmeldung
 
 (1) Der Verantwortliche nach § 128 Absatz 1 hat den Arbeitsplatz bei der zuständigen Behörde unverzüglich anzumelden, wenn eine Messung nach § 128 Absatz 2 Satz 1 keine Unterschreitung des Referenzwerts nach § 126 ergibt. Der Anmeldung sind beizufügen:
 
@@ -2803,8 +2671,7 @@ Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 2 hat der für den A
 
 (4) Für den zur Anmeldung Verpflichteten gilt die Pflicht zur betrieblichen Zusammenarbeit nach § 71 Absatz 3 entsprechend.
 
-
-## § 130 – Abschätzung der Exposition
+# § 130 – Abschätzung der Exposition
 
 (1) Der zur Anmeldung Verpflichtete hat innerhalb von sechs Monaten nach der Anmeldung eine auf den Arbeitsplatz bezogene Abschätzung der Radon-222-Exposition, der potentiellen Alphaenergie-Exposition oder der Körperdosis durch die Exposition durch Radon durchzuführen; im Falle der Anmeldung durch den Dritten nach § 129 Absatz 3 Satz 1 ist die Abschätzung bezogen auf die gesamte Betätigung durchzuführen. Die Abschätzung ist unverzüglich zu wiederholen, sobald der Arbeitsplatz so verändert wird, dass eine höhere Exposition auftreten kann. Die Ergebnisse der Abschätzungen sind aufzuzeichnen und der zuständigen Behörde unverzüglich vorzulegen. Die Ergebnisse der Abschätzung sind fünf Jahre lang aufzubewahren.
 
@@ -2812,8 +2679,7 @@ Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 2 hat der für den A
 
 (3) Ergibt die Abschätzung, dass die effektive Dosis 6 Millisievert im Kalenderjahr überschreiten kann, so sind Anforderungen des beruflichen Strahlenschutzes nach Maßgabe des § 131 und der Rechtsverordnung nach § 132 Satz 2 Nummer 6 zu erfüllen.
 
-
-## § 131 – Beruflicher Strahlenschutz
+# § 131 – Beruflicher Strahlenschutz
 
 (1) Erfordert das Ergebnis der Abschätzung nach § 130 Absatz 3 die Einhaltung von Anforderungen des beruflichen Strahlenschutzes, so hat der zur Abschätzung Verpflichtete
 
@@ -2827,8 +2693,7 @@ Im Falle der Verantwortlichkeit nach § 127 Absatz 2 Nummer 2 hat der für den A
 
 (2) Handelt es sich bei dem Verpflichteten um eine juristische Person oder um eine rechtsfähige Personengesellschaft, so gilt § 69 Absatz 2 entsprechend.
 
-
-## § 132 – Verordnungsermächtigung
+# § 132 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an den Schutz vor Radon an Arbeitsplätzen festzulegen. In der Rechtsverordnung kann insbesondere festgelegt werden,
 
@@ -2852,13 +2717,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (+++ § 132: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 133 – Referenzwert
+# § 133 – Referenzwert
 
 Der Referenzwert für die effektive Dosis aus äußerer Exposition von Einzelpersonen der Bevölkerung in Aufenthaltsräumen durch Gammastrahlung aus Bauprodukten beträgt zusätzlich zur effektiven Dosis aus äußerer Exposition im Freien 1 Millisievert im Kalenderjahr.
 
-
-## § 134 – Bestimmung der spezifischen Aktivität
+# § 134 – Bestimmung der spezifischen Aktivität
 
 (1) Wer Bauprodukte, die die in Anlage 9 genannten mineralischen Primärrohstoffe oder Rückstände enthalten, herstellt oder ins Inland verbringt, muss vor dem Inverkehrbringen der Bauprodukte die spezifische Aktivität der Radionuklide Radium-226, Thorium-232 oder seines Zerfallsprodukts Radium-228 und Kalium-40 bestimmen.
 
@@ -2866,8 +2729,7 @@ Der Referenzwert für die effektive Dosis aus äußerer Exposition von Einzelper
 
 (3) Die zuständige Behörde kann verlangen, dass sie von dem zur Bestimmung der spezifischen Aktivität Verpflichteten über die Ergebnisse der Bestimmung und den gemäß der Rechtsverordnung nach § 135 Absatz 1 Satz 3 ermittelten Aktivitätsindex sowie über andere in der Rechtsverordnung genannte für die Berechnung des Aktivitätsindex verwendete Größen unterrichtet wird.
 
-
-## § 135 – Maßnahmen; Verordnungsermächtigung
+# § 135 – Maßnahmen; Verordnungsermächtigung
 
 (1) Der zur Bestimmung der spezifischen Aktivität Verpflichtete darf Bauprodukte, die die in Anlage 9 genannten mineralischen Primärrohstoffe oder Rückstände enthalten, uneingeschränkt nur in Verkehr bringen, wenn er nachweist, dass die voraussichtliche Exposition durch von dem Bauprodukt ausgehende Strahlung den Referenzwert nicht überschreitet. Der Referenzwert gilt als eingehalten, wenn der gemäß der Rechtsverordnung nach Satz 3 ermittelte Aktivitätsindex die dort festgelegten Werte nicht überschreitet. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, wie der Aktivitätsindex zu berechnen ist und welche Werte der Aktivitätsindex nicht überschreiten darf.
 
@@ -2883,8 +2745,7 @@ Das Bauprodukt darf erst nach Ablauf der Monatsfrist oder nach Maßgabe der beh�
 
 (4) Der Verpflichtete hat den Bauherrn, den Entwurfsverfasser und den Unternehmer im Sinne der jeweils anwendbaren Landesbauordnungen hinsichtlich der getroffenen Einschränkungen zu informieren. Soweit diese Personen nicht bekannt sind, ist das Bauprodukt mit Begleitpapieren zu versehen, aus denen die Verwendungseinschränkungen hervorgehen.
 
-
-## § 136 – Begriff der radioaktiven Altlast; Verordnungsermächtigung
+# § 136 – Begriff der radioaktiven Altlast; Verordnungsermächtigung
 
 (1) Radioaktive Altlasten sind durch abgeschlossene menschliche Betätigung kontaminierte Grundstücke, Teile von Grundstücken, Gebäude oder Gewässer, wenn von der Kontamination eine Exposition verursacht wird oder werden kann, durch die für Einzelpersonen der Bevölkerung der Referenzwert der effektiven Dosis von 1 Millisievert im Kalenderjahr überschritten wird.
 
@@ -2897,8 +2758,7 @@ Das Bauprodukt darf erst nach Ablauf der Monatsfrist oder nach Maßgabe der beh�
 (+++ § 136: zur Nichtanwendung vgl. § 150 Abs. 1 +++)  
 (+++ § 136 Abs. 3 u. 4: zur Anwendung vgl. § 143 Abs. 2 u. § 149 Abs. 4 +++)
 
-
-## § 137 – Verantwortlichkeit für radioaktive Altlasten
+# § 137 – Verantwortlichkeit für radioaktive Altlasten
 
 (1) Verantwortlich für eine radioaktive Altlast ist, wer
 
@@ -2918,8 +2778,7 @@ Das Bauprodukt darf erst nach Ablauf der Monatsfrist oder nach Maßgabe der beh�
 
 (+++ § 137: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 138 – Verdacht auf radioaktive Altlasten
+# § 138 – Verdacht auf radioaktive Altlasten
 
 (1) Liegen einer der in § 137 genannten Personen Anhaltspunkte für das Vorliegen einer radioaktiven Altlast vor, so hat sie dies der zuständigen Behörde unverzüglich zu melden.
 
@@ -2929,8 +2788,7 @@ Das Bauprodukt darf erst nach Ablauf der Monatsfrist oder nach Maßgabe der beh�
 
 (+++ § 138: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 139 – Behördliche Anordnungsbefugnisse für Maßnahmen; Verordnungsermächtigung
+# § 139 – Behördliche Anordnungsbefugnisse für Maßnahmen; Verordnungsermächtigung
 
 (1) Liegt eine radioaktive Altlast vor, so kann die zuständige Behörde einen der für die radioaktive Altlast Verantwortlichen verpflichten,
 
@@ -2961,8 +2819,7 @@ Das Bauprodukt darf erst nach Ablauf der Monatsfrist oder nach Maßgabe der beh�
 (+++ § 139: zur Nichtanwendung vgl. § 150 Abs. 1 +++)  
 (+++ § 139 Abs. 2: zur Anwendung vgl. § 143 Abs. 2 +++)
 
-
-## § 140 – Weitere Pflichten im Zusammenhang mit der Durchführung von Maßnahmen
+# § 140 – Weitere Pflichten im Zusammenhang mit der Durchführung von Maßnahmen
 
 (1) Der für die radioaktive Altlast Verantwortliche hat der zuständigen Behörde unverzüglich den Beginn und den Abschluss der Maßnahmen mitzuteilen und geeignete Nachweise über die Wirksamkeit der durchgeführten Maßnahmen vorzulegen.
 
@@ -2971,16 +2828,14 @@ Das Bauprodukt darf erst nach Ablauf der Monatsfrist oder nach Maßgabe der beh�
 (+++ § 140: zur Anwendung vgl. § 149 Abs. 4 +++)  
 (+++ § 140: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 141 – Anwendung der Vorschriften für Tätigkeiten mit Rückständen
+# § 141 – Anwendung der Vorschriften für Tätigkeiten mit Rückständen
 
 Abweichend von den §§ 138 bis 140 finden die Vorschriften von Teil 2 Kapitel 2 Abschnitt 8 Unterabschnitt 2 dieses Gesetzes entsprechende Anwendung, wenn Rückstände oder sonstige Materialien vom verunreinigten Grundstück, auch zum Zweck der Sanierung des Grundstücks, entfernt werden, es sei denn, die Rückstände oder Materialien werden bei der Sanierung anderer radioaktiver Altlasten verwendet.
 
 (+++ § 141: zur Anwendung vgl. § 149 Abs. 4 +++)  
 (+++ § 141: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 142 – Information der Öffentlichkeit; Erfassung
+# § 142 – Information der Öffentlichkeit; Erfassung
 
 (1) Die zuständige Behörde informiert die betroffene Öffentlichkeit über die radioaktive Altlast und die von ihr ausgehende Exposition sowie über die getroffenen Sanierungsmaßnahmen, sonstigen Maßnahmen zur Verhinderung oder Verminderung der Exposition und Nachsorgemaßnahmen.
 
@@ -2989,8 +2844,7 @@ Abweichend von den §§ 138 bis 140 finden die Vorschriften von Teil 2 Kapitel 2
 (+++ § 142: zur Anwendung vgl. § 149 Abs. 4 +++)  
 (+++ § 142: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 143 – Sanierungsplanung; Verordnungsermächtigung
+# § 143 – Sanierungsplanung; Verordnungsermächtigung
 
 (1) Bei radioaktiven Altlasten, bei denen wegen der Verschiedenartigkeit der erforderlichen Maßnahmen ein abgestimmtes Vorgehen notwendig ist oder von denen auf Grund von Art oder Ausdehnung der Kontamination in besonderem Maße Risiken für den Einzelnen oder die Allgemeinheit ausgehen, kann die zuständige Behörde einen für die radioaktive Altlast Verantwortlichen verpflichten, einen Sanierungsplan vorzulegen. Der Sanierungsplan hat insbesondere Folgendes zu enthalten:
 
@@ -3006,8 +2860,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (+++ § 143: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 144 – Behördliche Sanierungsplanung
+# § 144 – Behördliche Sanierungsplanung
 
 (1) Die zuständige Behörde kann den Sanierungsplan nach § 143 Absatz 1 selbst erstellen oder ergänzen oder durch einen Sachverständigen erstellen oder ergänzen lassen, wenn
 
@@ -3025,8 +2878,7 @@ Für den Sachverständigen gilt § 18 Satz 1 des Bundes-Bodenschutzgesetzes ents
 
 (+++ § 144: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 145 – Schutz von Arbeitskräften; Verordnungsermächtigung
+# § 145 – Schutz von Arbeitskräften; Verordnungsermächtigung
 
 (1) Bei Sanierungs- und sonstigen Maßnahmen zur Verhinderung und Verminderung der Exposition bei radioaktiven Altlasten hat derjenige, der die Maßnahmen selbst beruflich durchführt oder durch unter seiner Aufsicht stehende Arbeitskräfte durchführen lässt, vor Beginn der Maßnahmen eine Abschätzung der Körperdosis der Arbeitskräfte durchzuführen. Die Abschätzung ist unverzüglich zu wiederholen, sobald die Arbeitssituation so verändert wird, dass eine höhere Exposition auftreten kann. Die Ergebnisse der Abschätzung sind aufzuzeichnen, fünf Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Für sonstige Betätigungen im Zusammenhang mit radioaktiven Altlasten kann die zuständige Behörde verlangen, dass derjenige, der die Betätigungen selbst beruflich durchführt oder durch unter seiner Aufsicht stehende Arbeitskräfte durchführen lässt, eine Abschätzung der Körperdosis der Arbeitskräfte durchführt.
 
@@ -3056,8 +2908,7 @@ Für den Sachverständigen gilt § 18 Satz 1 des Bundes-Bodenschutzgesetzes ents
 
 2. dass sich der zur Anmeldung Verpflichtete bei der Durchführung der Maßnahmen von Personen mit der erforderlichen Fachkunde oder den erforderlichen Kenntnissen im Strahlenschutz beraten zu lassen hat.
 
-
-## § 146 – Kosten; Ausgleichsanspruch
+# § 146 – Kosten; Ausgleichsanspruch
 
 (1) Die Kosten der nach § 138 Absatz 3, § 139 Absatz 1, den §§ 143 und 144 Absatz 1 Nummer 1 angeordneten Maßnahmen tragen die zur Durchführung Verpflichteten. Bestätigen im Falle des § 138 Absatz 3 die Untersuchungen den Verdacht nicht, sind den zur Untersuchung Herangezogenen die Kosten zu erstatten, wenn sie die den Verdacht begründenden Umstände nicht zu vertreten haben. In den Fällen des § 144 Absatz 1 Nummer 2 und 3 trägt derjenige die Kosten, von dem die Erstellung eines Sanierungsplans hätte verlangt werden können.
 
@@ -3066,8 +2917,7 @@ Für den Sachverständigen gilt § 18 Satz 1 des Bundes-Bodenschutzgesetzes ents
 (+++ § 146: zur Nichtanwendung vgl. § 150 Abs. 1 +++)  
 (+++ § 146 Abs. 2: zur Anwendung vgl. § 157 +++)
 
-
-## § 147 – Wertausgleich; Verordnungsermächtigung
+# § 147 – Wertausgleich; Verordnungsermächtigung
 
 (1) Soweit durch den Einsatz öffentlicher Mittel bei Maßnahmen zur Erfüllung der Pflichten nach § 139 oder § 143 der Verkehrswert des Grundstücks nicht nur unwesentlich erhöht wird und der Eigentümer die Kosten hierfür nicht oder nicht vollständig getragen hat, hat er einen von der zuständigen Behörde festzusetzenden Wertausgleich in Höhe der durch die Maßnahmen bedingten Wertsteigerung an den öffentlichen Kostenträger zu leisten. Die Höhe des Ausgleichsbetrages wird durch die Höhe der eingesetzten öffentlichen Mittel begrenzt. Die Pflicht zum Wertausgleich entsteht nicht, soweit hinsichtlich der auf einem Grundstück vorhandenen radioaktiven Altlasten eine Freistellung erfolgt ist von der Verantwortung oder der Kostentragungspflicht nach Artikel 1 § 4 Absatz 3 Satz 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649), das zuletzt durch Artikel 12 des Gesetzes vom 22. März 1991 (BGBl. I S. 766) geändert worden ist, in der jeweils geltenden Fassung. Soweit Maßnahmen im Sinne des Satzes 1 in förmlich festgelegten Sanierungsgebieten oder Entwicklungsbereichen als Ordnungsmaßnahmen von der Gemeinde durchgeführt werden, wird die dadurch bedingte Erhöhung des Verkehrswerts im Rahmen des Ausgleichsbetrags nach § 154 des Baugesetzbuchs abgegolten.
 
@@ -3083,15 +2933,13 @@ Für den Sachverständigen gilt § 18 Satz 1 des Bundes-Bodenschutzgesetzes ents
 
 (+++ § 147: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 148 – Sonstige bergbauliche und industrielle Hinterlassenschaften
+# § 148 – Sonstige bergbauliche und industrielle Hinterlassenschaften
 
 Die §§ 136 bis 147 finden entsprechende Anwendung auf Grubenbaue und sonstige nicht von § 136 erfasste Hinterlassenschaften aus abgeschlossenen bergbaulichen und industriellen Betätigungen, von denen eine Exposition verursacht wird oder werden kann, die nicht außer Acht gelassen werden kann, sofern die Kontamination auf abgeschlossene menschliche Betätigungen zurückzuführen ist. Satz 1 gilt nicht für die Schachtanlage Asse II, auf die § 57b des Atomgesetzes Anwendung findet.
 
 (+++ § 148: zur Nichtanwendung vgl. § 150 Abs. 1 +++)
 
-
-## § 149 – Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus; Verordnungsermächtigung
+# § 149 – Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus; Verordnungsermächtigung
 
 (1) Die Stilllegung und Sanierung von Betriebsanlagen und Betriebsstätten des Uranerzbergbaus auf Grund des Gesetzes zu dem Abkommen vom 16. Mai 1991 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Union der Sozialistischen Sowjetrepubliken über die Beendigung der Tätigkeit der Sowjetisch-Deutschen Aktiengesellschaft Wismut vom 12. Dezember 1991 (BGBl. 1991 II S. 1138, 1142) bedarf der Genehmigung.
 
@@ -3123,25 +2971,21 @@ Die §§ 136 bis 147 finden entsprechende Anwendung auf Grubenbaue und sonstige 
 
 2. Vorgaben zur Ermittlung der Exposition und zur Emissions- und Immissionsüberwachung zu machen.
 
-
-## § 150 – Verhältnis zu anderen Vorschriften
+# § 150 – Verhältnis zu anderen Vorschriften
 
 (1) Die §§ 136 bis 144 und 146 bis 148 finden keine Anwendung, soweit Vorschriften des Bundesberggesetzes und der auf Grund des Bundesberggesetzes erlassenen Rechtsverordnungen die Einstellung eines Betriebes regeln.
 
 (2) Anordnungen zur Durchführung von Untersuchungen gemäß § 139 Absatz 1, ein für verbindlich erklärter Sanierungsplan gemäß § 143 Absatz 2 Satz 2, eine behördliche Sanierungsplanung nach § 144, Anordnungen zur Durchführung von Sanierungsmaßnahmen, sonstigen Maßnahmen zur Verhinderung oder Verminderung der Exposition und Nachsorgemaßnahmen gemäß § 139 Absatz 1 Nummer 3 und 5 sowie Genehmigungen gemäß § 149 schließen andere, die radioaktive Altlast betreffende Entscheidungen ein, soweit sie im Einvernehmen mit der jeweils zuständigen Behörde erlassen und in den Anordnungen die miteingeschlossenen Entscheidungen aufgeführt werden. Satz 1 gilt nicht für die Entscheidungen, die für die radioaktive Altlast nach dem Bundes-Bodenschutzgesetz getroffen werden, sowie für andere, die radioaktive Altlast betreffende Entscheidungen, wenn sie in einer behördlich für verbindlich erklärten Sanierungsplanung gemäß § 13 oder § 14 des Bundes-Bodenschutzgesetzes oder in einer Anordnung zur Sanierung gemäß § 16 des Bundes-Bodenschutzgesetzes mit eingeschlossen sind. In den Fällen nach Satz 2 stellen die nach diesem Gesetz und die nach dem Bundes-Bodenschutzgesetz zuständigen Behörden Einvernehmen her.
 
-
-## § 151 – Kontaminierte Gebiete in einer Notfallexpositionssituation; Verordnungsermächtigungen
+# § 151 – Kontaminierte Gebiete in einer Notfallexpositionssituation; Verordnungsermächtigungen
 
 Auf die infolge eines Notfalls kontaminierten Grundstücke, Teile von Grundstücken, Gebäude und Gewässer finden in einer Notfallexpositionssituation die §§ 136 bis 138, 139 Absatz 1, 2 und 4, die §§ 140 bis 144, 146, 147 und 150 entsprechende Anwendung. An Stelle des Referenzwerts nach § 136 Absatz 1 gelten für den Schutz der Bevölkerung der Referenzwert nach § 93 Absatz 1 oder die nach § 93 Absatz 2 oder 3 festgelegten Referenzwerte.
 
-
-## § 152 – Kontaminierte Gebiete in einer nach einem Notfall bestehenden Expositionssituation; Verordnungsermächtigungen
+# § 152 – Kontaminierte Gebiete in einer nach einem Notfall bestehenden Expositionssituation; Verordnungsermächtigungen
 
 Auf die infolge eines Notfalls kontaminierten Grundstücke, Teile von Grundstücken, Gebäude und Gewässer finden in einer bestehenden Expositionssituation die §§ 136 bis 138, 139 Absatz 1, 2 und 4, die §§ 140 bis 147 und 150 entsprechende Anwendung. An Stelle des Referenzwerts nach § 136 Absatz 1 gelten für den Schutz der Bevölkerung die nach § 118 Absatz 4 oder 6 festgelegten Referenzwerte.
 
-
-## § 153 – Verantwortlichkeit für sonstige bestehende Expositionssituationen
+# § 153 – Verantwortlichkeit für sonstige bestehende Expositionssituationen
 
 (1) Verantwortlich für eine sonstige bestehende Expositionssituation ist, wer Hersteller, Lieferant, Verbringer oder Eigentümer der Strahlungsquelle ist, die die sonstige bestehende Expositionssituation bewirkt, oder wer Inhaber der tatsächlichen Gewalt über diese Strahlungsquelle ist.
 
@@ -3155,8 +2999,7 @@ Auf die infolge eines Notfalls kontaminierten Grundstücke, Teile von Grundstüc
 
 4. eine Strahlungsquelle, die die sonstige bestehende Expositionssituation bewirkt, gefunden hat oder ohne seinen Willen die tatsächliche Gewalt über sie erlangt hat oder die tatsächliche Gewalt über sie erlangt hat, ohne zu wissen, dass es sich um eine Strahlungsquelle handelt.
 
-
-## § 154 – Ermittlung und Bewertung einer sonstigen bestehenden Expositionssituation
+# § 154 – Ermittlung und Bewertung einer sonstigen bestehenden Expositionssituation
 
 (1) Die zuständige Behörde trifft bei Anhaltspunkten für eine sonstige bestehende Expositionssituation oder für eine nachgewiesene sonstige bestehende Expositionssituation, die jeweils unter Strahlenschutzgesichtspunkten nicht außer Acht gelassen werden kann, die erforderlichen Maßnahmen, um
 
@@ -3176,13 +3019,11 @@ Auf die infolge eines Notfalls kontaminierten Grundstücke, Teile von Grundstüc
 
 (3) Die zuständige Behörde kann einen oder mehrere für die sonstige bestehende Expositionssituation Verantwortliche dazu verpflichten, die Maßnahmen nach Absatz 1 durchzuführen und ihr die Ergebnisse mitzuteilen.
 
-
-## § 155 – Verordnungsermächtigung für die Festlegung von Referenzwerten
+# § 155 – Verordnungsermächtigung für die Festlegung von Referenzwerten
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Referenzwerte für Arten von sonstigen bestehenden Expositionssituationen festzulegen, die eine angemessene Behandlung, die den Risiken und der Wirksamkeit der zu treffenden Maßnahmen entspricht, ermöglichen.
 
-
-## § 156 – Maßnahmen
+# § 156 – Maßnahmen
 
 (1) Auf der Grundlage der Ermittlung und Bewertung der sonstigen bestehenden Expositionssituation kann die zuständige Behörde Art, Umfang, Dauer und Ziel der zu ergreifenden Sanierungs- und sonstigen Maßnahmen zur Verhinderung oder Verminderung der Exposition festlegen. Maßnahmen, die auf der Grundlage anderer Rechtsvorschriften getroffen werden können, gehen vor.
 
@@ -3204,13 +3045,11 @@ Die zuständige Behörde koordiniert die Maßnahmen nach Satz 1.
 
 (4) Die zuständige Behörde bewertet in regelmäßigen Abständen die ergriffenen Maßnahmen. Sie kann von einem oder mehreren für die Expositionssituation Verantwortlichen die Übermittlung von Unterlagen verlangen, die zur Bewertung erforderlich sind.
 
-
-## § 157 – Kosten; Ausgleichsanspruch
+# § 157 – Kosten; Ausgleichsanspruch
 
 Die Kosten der nach § 154 Absatz 3 und § 156 Absatz 3 angeordneten Maßnahmen tragen die zur Durchführung der Maßnahmen Verpflichteten. § 146 Absatz 2 gilt entsprechend.
 
-
-## § 158 – Information
+# § 158 – Information
 
 (1) Die zuständige Behörde
 
@@ -3220,8 +3059,7 @@ Die Kosten der nach § 154 Absatz 3 und § 156 Absatz 3 angeordneten Maßnahmen 
 
 (2) Die zuständige Behörde kann einen oder mehrere für die Expositionssituation Verantwortliche verpflichten, die vorgesehenen Informationen zur Verfügung zu stellen.
 
-
-## § 159 – Anmeldung; Anwendung der Bestimmungen zu geplanten Expositionssituationen; Verordnungsermächtigung
+# § 159 – Anmeldung; Anwendung der Bestimmungen zu geplanten Expositionssituationen; Verordnungsermächtigung
 
 (1) Die Vorschriften der folgenden Absätze sind anzuwenden, wenn
 
@@ -3247,13 +3085,11 @@ Die Kosten der nach § 154 Absatz 3 und § 156 Absatz 3 angeordneten Maßnahmen 
 
 2. dass der Verantwortliche sich bei der Erfüllung seiner Pflichten von Personen mit der erforderlichen Fachkunde oder den erforderlichen Kenntnissen im Strahlenschutz beraten zu lassen hat.
 
-
-## § 160 – Verhältnis zu den Kapiteln 1 bis 4
+# § 160 – Verhältnis zu den Kapiteln 1 bis 4
 
 Die Bestimmungen dieses Kapitels gelten nicht für nach einem Notfall bestehende Expositionssituationen, für Radon in Aufenthaltsräumen und am Arbeitsplatz, für radioaktiv kontaminierte Gebiete und für Radioaktivität in Bauprodukten.
 
-
-## § 161 – Aufgaben des Bundes
+# § 161 – Aufgaben des Bundes
 
 (1) Aufgaben des Bundes sind
 
@@ -3289,8 +3125,7 @@ e) der Gamma-Ortsdosisleistung,
 
 (+++ § 161: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 162 – Aufgaben der Länder
+# § 162 – Aufgaben der Länder
 
 (1) Die Länder ermitteln die Radioaktivität insbesondere
 
@@ -3308,8 +3143,7 @@ e) der Gamma-Ortsdosisleistung,
 
 (+++ § 162: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 163 – Integriertes Mess- und Informationssystem des Bundes
+# § 163 – Integriertes Mess- und Informationssystem des Bundes
 
 (1) Das Bundesamt für Strahlenschutz als Zentralstelle des Bundes für die Überwachung der Umweltradioaktivität betreibt ein integriertes Mess- und Informationssystem für die Überwachung der Umweltradioaktivität. In diesem Mess- und Informationssystem werden die nach § 161 Absatz 1 und § 162 Absatz 1 ermittelten Daten zusammengefasst.
 
@@ -3317,22 +3151,19 @@ e) der Gamma-Ortsdosisleistung,
 
 (+++ § 163: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 164 – Bewertung der Daten, Unterrichtung des Deutschen Bundestages und des Bundesrates
+# § 164 – Bewertung der Daten, Unterrichtung des Deutschen Bundestages und des Bundesrates
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bewertet die Daten zur Umweltradioaktivität. Die Zentralstelle des Bundes für die Überwachung der Umweltradioaktivität unterstützt es bei der Wahrnehmung dieser Aufgabe.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit leitet dem Deutschen Bundestag und dem Bundesrat jährlich einen Bericht über die Entwicklung der Radioaktivität in der Umwelt zu.
 
-
-## § 165 – Betretungsrecht und Probenahme
+# § 165 – Betretungsrecht und Probenahme
 
 Die Beauftragten der zuständigen Behörden sind berechtigt, Grundstücke und Betriebs- und Geschäftsräume während der Betriebs- und Arbeitszeit zu betreten, die Radioaktivität zu ermitteln und Proben zu nehmen.
 
 (+++ § 165: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 166 – Festlegungen zur Ermittlung der beruflichen Exposition
+# § 166 – Festlegungen zur Ermittlung der beruflichen Exposition
 
 (1) Die Körperdosen einer Person aus beruflicher Exposition sind zu addieren, wenn sie nach diesem Gesetz oder einer auf dieses Gesetz gestützten Rechtsverordnung in mehreren der folgenden Bereiche zu ermitteln sind:
 
@@ -3348,8 +3179,7 @@ Für den Nachweis, dass die jeweils geltenden Grenzwerte nicht überschritten wu
 
 (2) Außerhalb des räumlichen Geltungsbereichs dieses Gesetzes erfolgte Expositionen, die denen nach Absatz 1 entsprechen, sind bei der Ermittlung der beruflichen Exposition zu berücksichtigen.
 
-
-## § 167 – Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten für die ermittelte Körperdosis bei beruflicher Exposition
+# § 167 – Aufzeichnungs-, Aufbewahrungs- und behördliche Mitteilungspflichten für die ermittelte Körperdosis bei beruflicher Exposition
 
 (1) Der Strahlenschutzverantwortliche, der Verpflichtete nach § 131 Absatz 1 oder § 145 Absatz 1 Satz 1 sowie der Verantwortliche nach § 115 Absatz 2 oder § 153 Absatz 1 haben für Personen, die einer beruflichen Exposition unterliegen und für die eine Messung, Ermittlung oder Abschätzung der Körperdosis vorgenommen wurde,
 
@@ -3377,15 +3207,13 @@ unverzüglich aufzuzeichnen.
 
 Dabei sind die Personendaten der betroffenen Personen und die ermittelte Körperdosis sowie die Gründe für eine Überschreitung der Grenzwerte der Körperdosis anzugeben. Die zur Aufzeichnung Verpflichteten sind verpflichtet, den betroffenen Personen unverzüglich die Körperdosis mitzuteilen.
 
-
-## § 168 – Übermittlung der Ergebnisse der Ermittlung der Körperdosis
+# § 168 – Übermittlung der Ergebnisse der Ermittlung der Körperdosis
 
 (1) Der Strahlenschutzverantwortliche, der Verpflichtete nach § 131 Absatz 1 oder § 145 Absatz 1 Satz 1 sowie der Verantwortliche nach § 115 Absatz 2 oder § 153 Absatz 1 haben, soweit sie sich einer Messstelle nach § 169 Absatz 1 zur Ermittlung der beruflichen Exposition bedienen, dieser Messstelle die Daten nach § 170 Absatz 2 Nummer 1 bis 7 derjenigen Personen zur Verfügung zu stellen, für die die Körperdosis ermittelt werden soll. Der zuständigen Behörde sind die Angaben nach Satz 1 sowie die ermittelte Körperdosis auf Verlangen vorzulegen.
 
 (2) Soweit sich die nach Absatz 1 zur Übermittlung Verpflichteten zur Ermittlung der beruflichen Exposition keiner Messstelle nach § 169 Absatz 1 bedienen, haben sie die Daten nach § 170 Absatz 2 einschließlich der ermittelten Körperdosis der zuständigen Behörde vorzulegen.
 
-
-## § 169 – Bestimmung von Messstellen; Verordnungsermächtigung
+# § 169 – Bestimmung von Messstellen; Verordnungsermächtigung
 
 (1) Die zuständige Behörde bestimmt Messstellen für die Ermittlung der beruflichen Exposition
 
@@ -3429,8 +3257,7 @@ Dabei sind die Personendaten der betroffenen Personen und die ermittelte Körper
 
 6. dass und unter welchen Umständen die Bestimmung einer Messstelle befristet werden kann und unter welchen Voraussetzungen die Bestimmung zurückgenommen werden kann.
 
-
-## § 170 – Strahlenschutzregister; Verordnungsermächtigung
+# § 170 – Strahlenschutzregister; Verordnungsermächtigung
 
 (1) Daten über berufliche Expositionen, die auf Grund dieses Gesetzes oder einer auf diesem Gesetz gestützten Rechtsverordnung erhoben werden, werden zum Zweck der Überwachung von Dosisgrenzwerten und der Beachtung der Strahlenschutzgrundsätze, zur Prüfung des Bestehens eines Anspruchs gegen einen Träger der gesetzlichen Unfallversicherung sowie zum Zweck der wissenschaftlichen Forschung im Bereich des Strahlenschutzes in einem beim Bundesamt für Strahlenschutz eingerichteten Register (Strahlenschutzregister) erfasst.
 
@@ -3494,8 +3321,7 @@ Die zuständige Behörde kann Auskünfte aus dem Strahlenschutzregister an einen
 
 3. unter welchen Voraussetzungen und in welchem Verfahren zum Zweck der Überwachung von Dosisgrenzwerten, der Beachtung der Strahlenschutzgrundsätze, zur Prüfung des Bestehens eines Auskunftsanspruchs oder zur Qualitätssicherung in erforderlichem Umfang an die Stellen und Personen nach Absatz 5 Auskünfte aus dem Strahlenschutzregister erteilt und weitergegeben und dabei personenbezogene Daten übermittelt werden dürfen.
 
-
-## § 171 – Verordnungsermächtigung für Vorgaben in Bezug auf einen Strahlenpass
+# § 171 – Verordnungsermächtigung für Vorgaben in Bezug auf einen Strahlenpass
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen,
 
@@ -3505,8 +3331,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (+++ § 171: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 172 – Bestimmung von Sachverständigen; Verordnungsermächtigung
+# § 172 – Bestimmung von Sachverständigen; Verordnungsermächtigung
 
 (1) Die zuständige Behörde bestimmt Sachverständige für die folgenden Sachverständigentätigkeiten:
 
@@ -3534,8 +3359,7 @@ Der behördlich bestimmte Sachverständige bedarf für die Ausübung der Sachver
 
 4. festzulegen, welche Voraussetzungen bei der behördlichen Bestimmung eines Sachverständigen zu prüfen sind, dass und unter welchen Umständen die Bestimmung eines Sachverständigen befristet werden kann und unter welchen Voraussetzungen die Bestimmung zurückgenommen werden kann.
 
-
-## § 173 – Verordnungsermächtigungen für Mitteilungspflichten bei Fund und Erlangung
+# § 173 – Verordnungsermächtigungen für Mitteilungspflichten bei Fund und Erlangung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, dass, auf welche Weise und durch wen den zuständigen Behörden Folgendes zu melden ist:
 
@@ -3547,15 +3371,13 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (+++ § 173: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 174 – Verordnungsermächtigung für behördliche Befugnisse bei kontaminiertem Metall
+# § 174 – Verordnungsermächtigung für behördliche Befugnisse bei kontaminiertem Metall
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, dass kontaminiertes Metall nur nach den Vorgaben der zuständigen Behörde verwendet, in Verkehr gebracht oder entsorgt werden darf.
 
 (+++ § 174: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 175 – Dosis- und Messgrößen; Verordnungsermächtigung
+# § 175 – Dosis- und Messgrößen; Verordnungsermächtigung
 
 (1) Für die Ermittlung der Organ-Äquivalentdosis ist, soweit nicht anders bestimmt, die äußere und innere Exposition zu berücksichtigen; für die innere Exposition ist auch die außerhalb des Bezugszeitraums auftretende Exposition infolge der während des Bezugszeitraums aufgenommenen Radionuklide nach Maßgabe der Rechtsverordnung nach Absatz 2 Nummer 3 zu berücksichtigen. Satz 1 gilt entsprechend für die effektive Dosis.
 
@@ -3573,23 +3395,19 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 6. zu bestimmen, welche Einheiten für die Größen im Strahlenschutz zu verwenden sind.
 
-
-## § 176 – Haftung für durch ionisierende Strahlung verursachte Schäden
+# § 176 – Haftung für durch ionisierende Strahlung verursachte Schäden
 
 Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen richtet sich die Haftung für durch ionisierende Strahlung verursachte Schäden nach den §§ 25 bis 40 des Atomgesetzes.
 
-
-## § 177 – Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
+# § 177 – Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen
 
 Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen richtet sich die Vorsorge für die Erfüllung gesetzlicher Schadensersatzverpflichtungen nach den §§ 13 bis 15 des Atomgesetzes und nach der Atomrechtlichen Deckungsvorsorge-Verordnung. § 35 bleibt unberührt. Abweichend von § 13 Absatz 1 Satz 2 des Atomgesetzes kann die zuständige Behörde bei Tätigkeiten nach § 12 Absatz 1 Nummer 1, 2 oder 3 und § 31 Absatz 1 auf eine erneute Festsetzung der Deckungsvorsorge verzichten, wenn die Überprüfung der Deckungsvorsorge ergeben hat, dass die Deckungssumme noch ausreichend bemessen ist.
 
-
-## § 178 – Strahlenschutzrechtliche Aufsicht
+# § 178 – Strahlenschutzrechtliche Aufsicht
 
 Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen unterliegt der Aufsicht durch die zuständigen Behörden. Dies gilt nicht für Teil 3 Kapitel 1 und Teil 4 Kapitel 1 mit Ausnahme des § 95 und der Eilverordnungen nach § 96, soweit sie Regelungen über die Bewirtschaftung von Abfällen oder die Errichtung, den Betrieb oder die Benutzung von Anlagen nach § 95 regeln.
 
-
-## § 179 – Anwendung des Atomgesetzes
+# § 179 – Anwendung des Atomgesetzes
 
 (1) Im Anwendungsbereich dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen sind in der jeweils geltenden Fassung entsprechend anzuwenden:
 
@@ -3601,8 +3419,7 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 
 (2) Das Grundrecht des Artikels 13 des Grundgesetzes über die Unverletzlichkeit der Wohnung wird eingeschränkt, soweit es den Befugnissen nach Absatz 1 Nummer 2 und 3 entgegensteht.
 
-
-## § 180 – Aufsichtsprogramm; Verordnungsermächtigung
+# § 180 – Aufsichtsprogramm; Verordnungsermächtigung
 
 (1) Im Rahmen der strahlenschutzrechtlichen Aufsicht bei geplanten Expositionssituationen richtet die zuständige Behörde ein Programm für aufsichtliche Prüfungen ein, das dem möglichen Ausmaß und der Art der mit den Tätigkeiten verbundenen Risiken Rechnung trägt (Aufsichtsprogramm). Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Anforderungen an die Ausgestaltung des Aufsichtsprogramms festzulegen. In der Rechtsverordnung können insbesondere festgelegt werden:
 
@@ -3614,8 +3431,7 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 
 (3) Die zuständige Behörde macht der Öffentlichkeit eine Kurzfassung des Aufsichtsprogramms und die wichtigsten bei der Durchführung des Programms gewonnenen Erkenntnisse zugänglich. Die Informationen nach Satz 1 dürfen keine Betriebs- und Geschäftsgeheimnisse enthalten. Die Gesetze des Bundes und der Länder über Umweltinformationen bleiben unberührt.
 
-
-## § 181 – Umweltverträglichkeitsprüfung
+# § 181 – Umweltverträglichkeitsprüfung
 
 (1) Besteht nach dem Gesetz über die Umweltverträglichkeitsprüfung eine Verpflichtung zur Durchführung einer Umweltverträglichkeitsprüfung für Vorhaben, die einer Genehmigung nach diesem Gesetz bedürfen (UVP-pflichtige Vorhaben), ist die Umweltverträglichkeitsprüfung unselbständiger Teil der Verfahren zur Erteilung der nach diesem Gesetz erforderlichen Genehmigung. Die Umweltverträglichkeitsprüfung ist nach den Vorschriften des § 7 Absatz 4 Satz 1 und 2 des Atomgesetzes und nach den Vorschriften der Atomrechtlichen Verfahrensverordnung über den Gegenstand der Umweltverträglichkeitsprüfung, die Antragsunterlagen, die Bekanntmachung des Vorhabens, die Auslegung und das Zugänglichmachen von Antragsunterlagen, auch über das einschlägige zentrale Internetportal nach dem Gesetz über die Umweltverträglichkeitsprüfung, die Erhebung von Einwendungen, die Beteiligung von Behörden, den Inhalt des Genehmigungsbescheids und die Zustellung, die öffentliche Bekanntmachung und das Zugänglichmachen der Entscheidung, auch über das einschlägige zentrale Internetportal nach dem Gesetz über die Umweltverträglichkeitsprüfung, durchzuführen. Nach Ablauf der Einwendungsfrist kann die Genehmigungsbehörde die rechtzeitig gegen das Vorhaben erhobenen Einwendungen mit dem Antragsteller und denjenigen, die Einwendungen erhoben haben, erörtern. § 31 des Gesetzes über die Umweltverträglichkeitsprüfung bleiben unberührt.
 
@@ -3623,8 +3439,7 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 
 (2) Vor Erhebung einer verwaltungsgerichtlichen Klage, die einen nach Durchführung einer Umweltverträglichkeitsprüfung erlassenen Verwaltungsakt zum Gegenstand hat, bedarf es keiner Nachprüfung in einem Vorverfahren.
 
-
-## § 182 – Schriftform, elektronische Kommunikation
+# § 182 – Schriftform, elektronische Kommunikation
 
 (1) Genehmigungen und Bauartzulassungen nach diesem Gesetz oder nach einer auf dieses Gesetz gestützten Rechtsverordnung sind schriftlich zu erteilen.
 
@@ -3634,8 +3449,7 @@ Die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsve
 
 (4) Wenn die Antragstellung, die Anzeige, die Anmeldung, die Meldung oder die Mitteilung elektronisch erfolgt, sind der zuständigen Behörde auf Verlangen Papierausfertigungen der elektronisch übermittelten Unterlagen zu übermitteln.
 
-
-## § 183 – Kosten; Verordnungsermächtigung
+# § 183 – Kosten; Verordnungsermächtigung
 
 (1) Gebühren und Auslagen (Kosten) werden erhoben
 
@@ -3673,8 +3487,7 @@ Die Gebühr darf in den Fällen des Satzes 1 Nummer 1, 2 und 4 Buchstabe a bis z
 
 (5) Für die Erhebung von Kosten nach diesem Gesetz oder der auf dieses Gesetz gestützten Rechtsverordnungen sind § 21 Absatz 2 des Atomgesetzes und die Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz anzuwenden; § 21 Absatz 4 und 5 des Atomgesetzes ist entsprechend anzuwenden.
 
-
-## § 184 – Zuständigkeit der Landesbehörden
+# § 184 – Zuständigkeit der Landesbehörden
 
 (1) Durch die Länder als eigene Angelegenheit werden ausgeführt:
 
@@ -3696,8 +3509,7 @@ soweit nicht der Bund nach den aufgeführten Vorschriften dieses Gesetzes oder d
 
 (2) Vorbehaltlich des § 81 Satz 3, der §§ 185 bis 192 sowie des Absatzes 1 werden die Verwaltungsaufgaben nach diesem Gesetz und den hierzu ergehenden Rechtsverordnungen im Auftrag des Bundes durch die Länder ausgeführt.
 
-
-## § 185 – Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung
+# § 185 – Zuständigkeit des Bundesamtes für Strahlenschutz; Verordnungsermächtigung
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig für
 
@@ -3737,8 +3549,7 @@ soweit nicht der Bund nach den aufgeführten Vorschriften dieses Gesetzes oder d
 
 6. für die Durchführung von Maßnahmen zur Qualitätssicherung von Messstellen für die innere Exposition und die Exposition durch Radon.
 
-
-## § 186 – Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+# § 186 – Zuständigkeit des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist zuständig für die Genehmigung der Beförderung von Großquellen sowie deren Rücknahme und Widerruf. Großquellen sind radioaktive Stoffe, deren Aktivität je Beförderungs- oder Versandstück den Aktivitätswert von 1 000 Terabecquerel übersteigt.
 
@@ -3754,8 +3565,7 @@ c) der Errichtung, des Betriebs und der Stilllegung von Anlagen des Bundes nach 
 
 2. für die Schachtanlage Asse II zuständige Aufsichtsbehörde.
 
-
-## § 187 – Zuständigkeit der Physikalisch-Technischen Bundesanstalt
+# § 187 – Zuständigkeit der Physikalisch-Technischen Bundesanstalt
 
 (1) Die Physikalisch-Technische Bundesanstalt ist zuständig für
 
@@ -3767,8 +3577,7 @@ c) der Errichtung, des Betriebs und der Stilllegung von Anlagen des Bundes nach 
 
 (2) Die Rechts- und Fachaufsicht über die Physikalisch-Technische Bundesanstalt für die Aufgaben nach diesem Gesetz obliegt dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. Soweit dadurch technisch-wissenschaftliche Belange der Bundesanstalt, ihre strategische Ausrichtung oder sonstige Rahmenbedingungen berührt werden, ist ein Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie herzustellen.
 
-
-## § 188 – Zuständigkeiten für grenzüberschreitende Verbringungen und deren Überwachung
+# § 188 – Zuständigkeiten für grenzüberschreitende Verbringungen und deren Überwachung
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist zuständig für die Erteilung einer Genehmigung für die grenzüberschreitende Verbringung von Konsumgütern sowie für ihre Rücknahme und den Widerruf. Das Gleiche gilt, soweit die Rechtsverordnungen nach § 24 Satz 1 Nummer 7 und § 30 das Erfordernis von Genehmigungen und Zustimmungen sowie die Prüfung von Anzeigen oder Anmeldungen für grenzüberschreitende Verbringungen vorsehen.
 
@@ -3786,8 +3595,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 (4) Soweit das Bundesamt für Wirtschaft und Ausfuhrkontrolle auf Grund des Absatzes 1 entscheidet, ist es unbeschadet seiner Unterstellung unter das Bundesministerium für Wirtschaft und Energie und dessen auf anderen Rechtsvorschriften beruhenden Weisungsbefugnissen an die fachlichen Weisungen des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit gebunden.
 
-
-## § 189 – Zuständigkeit des Luftfahrt-Bundesamtes
+# § 189 – Zuständigkeit des Luftfahrt-Bundesamtes
 
 Das Luftfahrt-Bundesamt ist zuständig für
 
@@ -3801,20 +3609,17 @@ Das Luftfahrt-Bundesamt ist zuständig für
 
 5. die Anerkennung von Kursen, soweit sie dem Erwerb der erforderlichen Fachkunde im Strahlenschutz im Zusammenhang mit dem Betrieb von Luftfahrzeugen dienen.
 
-
-## § 190 – Zuständigkeit des Eisenbahn-Bundesamtes
+# § 190 – Zuständigkeit des Eisenbahn-Bundesamtes
 
 § 24 Absatz 1 Satz 2 und 3 des Atomgesetzes über die Zuständigkeit des Eisenbahn-Bundesamtes gilt entsprechend für die Beaufsichtigung und Genehmigung der Beförderung sonstiger radioaktiver Stoffe. Die Zuständigkeit für die Genehmigung der Beförderung von Großquellen bestimmt sich nach § 186 Absatz 1.
 
-
-## § 191 – Geschäftsbereich des Bundesministeriums der Verteidigung
+# § 191 – Geschäftsbereich des Bundesministeriums der Verteidigung
 
 (1) Abweichend von § 189 sind bei dem Betrieb von Luftfahrzeugen, die im Geschäftsbereich des Bundesministeriums der Verteidigung betrieben werden, dieses Bundesministerium oder die von ihm bezeichneten Dienststellen für die Aufgaben nach § 189 Nummer 1 und 3 zuständig.
 
 (2) Für den Geschäftsbereich des Bundesministeriums der Verteidigung werden die in § 184 bezeichneten Zuständigkeiten von diesem Bundesministerium oder den von ihm bezeichneten Dienststellen wahrgenommen. Im Falle des § 184 Absatz 2 erfolgt dies im Benehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. Die Sätze 1 und 2 gelten auch für zivile Arbeitskräfte bei sich auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland aufhaltenden Truppen und zivilen Gefolgen.
 
-
-## § 192 – Zuständigkeiten von Verwaltungsbehörden des Bundes bei Aufgaben des Notfallschutzes und der Überwachung der Umweltradioaktivität; Verordnungsermächtigung
+# § 192 – Zuständigkeiten von Verwaltungsbehörden des Bundes bei Aufgaben des Notfallschutzes und der Überwachung der Umweltradioaktivität; Verordnungsermächtigung
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig für die Beschaffung und das Zurverfügungstellen von Schutzwirkstoffen nach § 104, soweit keine andere Zuständigkeit durch Gesetz oder auf Grund eines Gesetzes festgelegt ist.
 
@@ -3822,8 +3627,7 @@ Das Luftfahrt-Bundesamt ist zuständig für
 
 (+++ § 192: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## § 193 – Informationsübermittlung
+# § 193 – Informationsübermittlung
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann folgende Informationen, die in strahlenschutzrechtlichen Genehmigungen der nach den §§ 184 bis 191 zuständigen Behörden enthalten sind, an die für den Außenwirtschaftsverkehr zuständigen obersten Bundesbehörden zur Erfüllung ihrer Aufgaben bei Genehmigungen oder der Überwachung des Außenwirtschaftsverkehrs übermitteln:
 
@@ -3837,8 +3641,7 @@ Reichen diese Informationen im Einzelfall nicht aus, können weitere Information
 
 (2) Die Empfänger dürfen die übermittelten Informationen, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verarbeiten, zu dem sie übermittelt worden sind.
 
-
-## § 194 – Bußgeldvorschriften
+# § 194 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -3976,8 +3779,7 @@ c) das Bundesamt für die Sicherheit der nuklearen Entsorgung für seinen in § 
 
 (4) Für einen Verstoß gegen eine Bestimmung nach Absatz 1 ist, soweit sie dem Schutz personenbezogener Daten dient, abweichend von den Absätzen 1 bis 3 ausschließlich Artikel 83 der Verordnung (EU) 2016/679 anzuwenden.
 
-
-## § 195 – Einziehung
+# § 195 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 194 Absatz 1 vorsätzlich begangen worden, so können Gegenstände eingezogen werden,
 
@@ -3985,13 +3787,11 @@ Ist eine Ordnungswidrigkeit nach § 194 Absatz 1 vorsätzlich begangen worden, s
 
 2. die zur Begehung oder Vorbereitung gebraucht wurden oder bestimmt gewesen sind.
 
-
-## § 196 – Genehmigungsbedürftige Errichtung von Anlagen (§ 10)
+# § 196 – Genehmigungsbedürftige Errichtung von Anlagen (§ 10)
 
 Eine Genehmigung für die Errichtung von Anlagen zur Erzeugung ionisierender Strahlen, die vor dem 31. Dezember 2018 erteilt worden ist, gilt als Genehmigung nach § 10 mit allen Nebenbestimmungen fort.
 
-
-## § 197 – Genehmigungsbedürftige Tätigkeiten (§ 12)
+# § 197 – Genehmigungsbedürftige Tätigkeiten (§ 12)
 
 (1) Eine Genehmigung für den Betrieb von Anlagen zur Erzeugung ionisierender Strahlen, die vor dem 31. Dezember 2018 erteilt worden ist, gilt als Genehmigung nach § 12 Absatz 1 Nummer 1 mit allen Nebenbestimmungen fort. Dies gilt für Genehmigungen im Zusammenhang mit der Anwendung am Menschen für eine Behandlung mit ionisierender Strahlung, der ein individueller Bestrahlungsplan zugrunde liegt, wenn bis zum 31. Dezember 2020 bei der zuständigen Behörde nachgewiesen ist, dass die Voraussetzungen nach § 14 Absatz 1 Nummer 2 Buchstabe a, Nummer 3 Buchstabe a und Nummer 4 erfüllt sind.
 
@@ -4009,8 +3809,7 @@ Die zuständige Behörde kann von dem Inhaber einer Genehmigung nach Satz 1 inne
 
 (4) Tätigkeiten nach § 4 Absatz 1 Satz 1 Nummer 1, die vor dem 31. Dezember 2018 genehmigungsfrei ausgeübt wurden und ab dem 31. Dezember 2018 einer Genehmigung nach § 12 Absatz 1 Nummer 3 bedürfen, dürfen fortgesetzt werden, wenn der Antrag auf Genehmigung bis zum 31. Dezember 2019 gestellt wurde.
 
-
-## § 198 – Genehmigungsbedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 12)
+# § 198 – Genehmigungsbedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 12)
 
 (1) Eine vor dem 31. Dezember 2018 erteilte Genehmigung für den Betrieb von Röntgeneinrichtungen, mit Ausnahme der in den Absätzen 2 und 3 genannten Röntgeneinrichtungen, gilt als Genehmigung nach § 12 Absatz 1 Nummer 4 mit allen Nebenbestimmungen fort. Dies gilt für
 
@@ -4026,42 +3825,35 @@ Die zuständige Behörde kann von dem Inhaber einer Genehmigung nach Satz 1 inne
 
 (4) Eine vor dem 31. Dezember 2018 erteilte Genehmigung für den Betrieb von Störstrahlern gilt als Genehmigung nach § 12 Absatz 1 Nummer 5 mit allen Nebenbestimmungen fort.
 
-
-## § 199 – Anzeigebedürftiger Betrieb von Anlagen (§ 17)
+# § 199 – Anzeigebedürftiger Betrieb von Anlagen (§ 17)
 
 Eine Anzeige des Betriebs einer Anlage zur Erzeugung ionisierender Strahlung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 17 Absatz 1 fort.
 
-
-## § 200 – Anzeigebedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 19)
+# § 200 – Anzeigebedürftiger Betrieb von Röntgeneinrichtungen und Störstrahlern (§ 19)
 
 (1) Eine Anzeige des Betriebs einer Röntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 1 fort. Dies gilt für Anzeigen im Zusammenhang mit der Anwendung am Menschen zur Untersuchung mit Röntgenstrahlung, die mit einer erheblichen Exposition der untersuchten Person verbunden sein kann, wenn die jeweils einschlägigen Voraussetzungen nach § 19 Absatz 3 Nummer 7 in Verbindung mit § 14 Absatz 1 Nummer 2 Buchstabe b und Nummer 4 bis zum 31. Dezember 2022 bei der zuständigen Behörde nachgewiesen sind.
 
 (2) Eine Anzeige des Betriebs eines Basis-, Hoch- oder Vollschutzgerätes oder einer Schulröntgeneinrichtung, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 19 Absatz 1 Nummer 2 fort.
 
-
-## § 201 – Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen und Störstrahlern (§ 22)
+# § 201 – Anzeigebedürftige Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen und Störstrahlern (§ 22)
 
 Eine Anzeige der Prüfung, Erprobung, Wartung und Instandsetzung von Röntgeneinrichtungen oder Störstrahlern, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 22 Absatz 1 fort.
 
-
-## § 202 – Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen (§ 25)
+# § 202 – Genehmigungsbedürftige Beschäftigung in fremden Anlagen oder Einrichtungen (§ 25)
 
 Eine Genehmigung für die Beschäftigung in fremden Anlagen oder Einrichtungen, die vor dem 31. Dezember 2018 erteilt worden ist, gilt als Genehmigung nach § 25 Absatz 1 mit allen Nebenbestimmungen bis zum im Genehmigungsbescheid festgelegten Datum und längstens bis zum 31. Dezember 2023 fort.
 
-
-## § 203 – Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen und Störstrahler (§ 26)
+# § 203 – Anzeigebedürftige Beschäftigung im Zusammenhang mit dem Betrieb fremder Röntgeneinrichtungen und Störstrahler (§ 26)
 
 Eine Anzeige der Aufgabenwahrnehmung im Zusammenhang mit dem Betrieb einer fremden Röntgeneinrichtung oder eines fremden Störstrahlers, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 26 Absatz 1 fort.
 
-
-## § 204 – Genehmigungsbedürftige Beförderung radioaktiver Stoffe (§ 27)
+# § 204 – Genehmigungsbedürftige Beförderung radioaktiver Stoffe (§ 27)
 
 (1) Eine Genehmigung für die Beförderung, die vor dem 31. Dezember 2018 erteilt worden ist, gilt als Genehmigung nach § 27 Absatz 1 mit allen Nebenbestimmungen fort, wenn die nach § 29 Absatz 1 Nummer 2 geforderte Fachkunde bis zum 31. Dezember 2021 bei der zuständigen Behörde nachgewiesen ist.
 
 (2) Hat sich eine Genehmigung nach § 4 Absatz 1 des Atomgesetzes, die vor dem 31. Dezember 2018 erteilt worden ist, auf eine genehmigungsbedürftige Beförderung radioaktiver Stoffe erstreckt, so gilt diese Erstreckung als Erstreckung auf eine genehmigungsbedürftige Beförderung nach § 27 Absatz 1 dieses Gesetzes fort, wenn die nach § 29 Absatz 1 Nummer 2 dieses Gesetzes geforderte Fachkunde bis zum 31. Dezember 2021 bei der zuständigen Behörde nachgewiesen ist.
 
-
-## § 205 – Medizinische Forschung (§§ 31, 32)
+# § 205 – Medizinische Forschung (§§ 31, 32)
 
 (1) Eine nach § 23 Absatz 1 in Verbindung mit § 24 Absatz 1 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder nach § 28a Absatz 1 in Verbindung mit § 28b Absatz 1 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung genehmigte Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen zum Zweck der medizinischen Forschung gilt mit allen Nebenbestimmungen als Genehmigung nach § 31 fort.
 
@@ -4071,8 +3863,7 @@ Eine Anzeige der Aufgabenwahrnehmung im Zusammenhang mit dem Betrieb einer fremd
 
 (4) Registrierungen von Ethikkommissionen nach § 92 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung oder nach § 28g der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung gelten als Registrierungen nach § 36 Absatz 1 dieses Gesetzes fort.
 
-
-## § 206 – Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung (§ 40)
+# § 206 – Genehmigungsbedürftiger Zusatz radioaktiver Stoffe und genehmigungsbedürftige Aktivierung (§ 40)
 
 (1) Eine Genehmigung für den Zusatz radioaktiver Stoffe und die Aktivierung, die vor dem 31. Dezember 2018 erteilt worden ist, gilt als Genehmigung nach § 40 Absatz 1 mit allen Nebenbestimmungen fort. Bedarf es zur Erteilung einer Genehmigung ab dem 31. Dezember 2018 eines Rücknahmekonzeptes nach § 41 Absatz 1 Nummer 3, das vor dem 31. Dezember 2018 noch nicht erforderlich war, so gilt Satz 1 nur, wenn für Konsumgüter, die ab dem 31. Dezember 2019 hergestellt werden, bis zu diesem Zeitpunkt ein Rücknahmekonzept erstellt wurde.
 
@@ -4080,13 +3871,11 @@ Eine Anzeige der Aufgabenwahrnehmung im Zusammenhang mit dem Betrieb einer fremd
 
 (+++ § 206 Abs. 1 Satz 2: zur Anwendung vgl. § 207 +++)
 
-
-## § 207 – Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern (§ 42)
+# § 207 – Genehmigungsbedürftige grenzüberschreitende Verbringung von Konsumgütern (§ 42)
 
 Eine Genehmigung für die grenzüberschreitende Verbringung von Konsumgütern, die vor dem 31. Dezember 2018 erteilt worden ist, gilt als Genehmigung nach § 42 mit allen Nebenbestimmungen fort; § 206 Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 208 – Bauartzulassung (§ 45)
+# § 208 – Bauartzulassung (§ 45)
 
 (1) Bauartzulassungen von Geräten und anderen Vorrichtungen, in die sonstige radioaktive Stoffe nach § 2 Absatz 1 des Atomgesetzes eingefügt sind, von Anlagen zur Erzeugung ionisierender Strahlen sowie von Röntgenstrahlern, Schulröntgeneinrichtungen, Basisschutzgeräten, Hochschutzgeräten, Vollschutzgeräten oder Störstrahlern, die am 31. Dezember 2018 gültig waren, gelten bis zum Ablauf der im Zulassungsschein genannten Frist fort; sie können auf Antrag entsprechend § 46 Absatz 5 Satz 2 als Zulassung nach § 45 Absatz 1 verlängert werden.
 
@@ -4096,44 +3885,37 @@ Eine Genehmigung für die grenzüberschreitende Verbringung von Konsumgütern, d
 
 (4) Vorrichtungen, deren Bauartzulassung vor dem 1. August 2001 ausgelaufen ist und die auf Grund des § 117 Absatz 7 Satz 3 der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung nach Maßgabe des § 23 Absatz 2 Satz 3 in Verbindung mit § 4 der Strahlenschutzverordnung vom 30. Juni 1989 weiterbetrieben worden sind, dürfen weiter genehmigungsfrei betrieben werden.
 
-
-## § 209 – Anzeigebedürftiger Betrieb von Luftfahrzeugen (§ 50)
+# § 209 – Anzeigebedürftiger Betrieb von Luftfahrzeugen (§ 50)
 
 Tätigkeiten im Sinne des § 4 Absatz 1 Satz 1 Nummer 11, die vor dem 31. Dezember 2018 aufgenommen wurden und nach diesem Gesetz eine Anzeige nach § 50 erfordern, dürfen fortgesetzt werden, wenn die Anzeige bis zum 31. Dezember 2020 vorgenommen wurde.
 
-
-## § 210 – Anzeigebedürftige Tätigkeiten (§ 56)
+# § 210 – Anzeigebedürftige Tätigkeiten (§ 56)
 
 (1) Eine Anzeige einer Tätigkeit im Sinne des § 4 Absatz 1 Satz 1 Nummer 10, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Anzeige nach § 56 Absatz 1 fort, soweit die nach § 56 Absatz 2 Satz 1 geforderten Unterlagen bis zum 31. Dezember 2020 bei der zuständigen Behörde eingereicht wurden.
 
 (2) Wurde eine Tätigkeit im Sinne des § 4 Absatz 1 Satz 1 Nummer 10 vor dem 31. Dezember 2018 aufgenommen, ohne dass eine Anzeige erforderlich war, so ist eine Abschätzung nach § 55 Absatz 1 Satz 1 bis zum 31. Dezember 2020 durchzuführen; § 56 Absatz 1 Satz 1 gilt entsprechend. Die Abschätzung muss nicht erneut durchgeführt werden, wenn vor dem 31. Dezember 2018 eine auf den Arbeitsplatz bezogene Abschätzung der Körperdosis durchgeführt und aufgezeichnet worden ist; in diesem Fall hat eine nach § 56 Absatz 1 Satz 1 erforderliche Anzeige unverzüglich zu erfolgen, § 56 Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 211 – Bestellung von Strahlenschutzbeauftragten (§ 70)
+# § 211 – Bestellung von Strahlenschutzbeauftragten (§ 70)
 
 Eine Bestellung eines Strahlenschutzbeauftragten, die vor dem 31. Dezember 2018 erfolgt ist, gilt als Bestellung nach § 70 Absatz 1 fort.
 
-
-## § 212 – Grenzwerte für beruflich exponierte Personen; Ermittlung der Exposition der Bevölkerung (§§ 78, 80)
+# § 212 – Grenzwerte für beruflich exponierte Personen; Ermittlung der Exposition der Bevölkerung (§§ 78, 80)
 
 (1) Der Grenzwert nach § 78 Absatz 2 Nummer 1 ist ab dem 1. Januar 2019 einzuhalten.
 
 (2) Für die Ermittlung der Exposition der Bevölkerung ist § 80 ab dem 1. Januar 2019 anzuwenden.
 
-
-## § 213 – Zulassung der Früherkennung (§ 84)
+# § 213 – Zulassung der Früherkennung (§ 84)
 
 Eine Zulassung freiwilliger Röntgenreihenuntersuchungen zur Ermittlung übertragbarer Krankheiten in Landesteilen oder für Bevölkerungsgruppen mit überdurchschnittlicher Erkrankungshäufigkeit nach § 25 Absatz 1 Satz 2 der Röntgenverordnung in der bis zum 31. Dezember 2018 geltenden Fassung gilt als Zulassung nach § 84 Absatz 4 fort.
 
-
-## § 214 – Anmeldung von Arbeitsplätzen in Innenräumen (§ 129)
+# § 214 – Anmeldung von Arbeitsplätzen in Innenräumen (§ 129)
 
 (1) Eine vor dem 31. Dezember 2018 erfolgte Anzeige einer Arbeit, die einem in Anlage XI Teil A zur Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung genannten Arbeitsfeld zuzuordnen war, gilt als Anmeldung nach § 129 Absatz 1 mit der Maßgabe fort, dass Maßnahmen zur Reduzierung der Radon-222-Exposition, soweit sie nach § 128 Absatz 1 erforderlich sind, bis zum 31. Dezember 2020 zu ergreifen sind.
 
 (2) Eine Messung der Radon-222-Aktivitätskonzentration, die vor dem 31. Dezember 2018 im Rahmen einer Abschätzung nach § 95 Absatz 1 in Verbindung mit Anlage XI Teil A zur Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung durchgeführt worden ist, erfüllt die Pflicht zur Messung nach § 127 Absatz 1.
 
-
-## § 215 – Radioaktive Altlasten
+# § 215 – Radioaktive Altlasten
 
 (1) Erlaubnisse, die vor dem 31. Dezember 2018 auf dem in Artikel 3 des Einigungsvertrags vom 6. September 1990 (BGBl. 1990 II S. 885, 889) genannten Gebiet erteilt wurden für Sanierungs-, Schutz- oder Nachsorgemaßnahmen an Hinterlassenschaften früherer menschlicher Betätigungen im Sinne von § 136 Absatz 1 sowie für die Stilllegung und Sanierung der Betriebsanlagen und Betriebsstätten des Uranerzbergbaus auf Grund
 
@@ -4145,25 +3927,21 @@ gelten fort, soweit sie nach Inkrafttreten des Einigungsvertrags erteilt wurden 
 
 (2) Die auf den Erlaubnissen beruhenden Maßnahmen können nach Maßgabe der jeweiligen Erlaubnis beendet werden.
 
-
-## § 216 – Bestimmung von Messstellen (§ 169)
+# § 216 – Bestimmung von Messstellen (§ 169)
 
 Behördliche Bestimmungen von Messstellen, die vor dem 31. Dezember 2018 erfolgt sind, gelten als Bestimmungen nach § 169 Absatz 1 fort, wenn bis zum 31. Dezember 2020 bei der zuständigen Behörde nachgewiesen ist, dass die Voraussetzungen nach § 169 Absatz 2 erfüllt sind.
 
-
-## § 217 – Bestimmung von Sachverständigen (§ 172)
+# § 217 – Bestimmung von Sachverständigen (§ 172)
 
 Behördliche Bestimmungen von Sachverständigen, die vor dem 31. Dezember 2018 erfolgt sind, gelten als Bestimmungen nach § 172 Absatz 1 Nummer 1, 3 oder 4 längstens fünf Jahre fort.
 
-
-## § 218 – Genehmigungsfreier Umgang mit Geräten, keramischen Gegenständen, Porzellan- und Glaswaren oder elektronischen Bauteilen sowie sonstigen Produkten
+# § 218 – Genehmigungsfreier Umgang mit Geräten, keramischen Gegenständen, Porzellan- und Glaswaren oder elektronischen Bauteilen sowie sonstigen Produkten
 
 (1) Vor dem 1. April 1977 beschaffte Geräte, keramische Gegenstände, Porzellanwaren, Glaswaren oder elektronische Bauteile, mit denen nach § 11 der Ersten Strahlenschutzverordnung vom 15. Oktober 1965 ohne Genehmigung umgegangen werden durfte, dürfen weiter genehmigungsfrei verwendet und beseitigt werden, wenn diese Gegenstände zum Zeitpunkt der Beschaffung die Vorschrift des § 11 der Ersten Strahlenschutzverordnung vom 15. Oktober 1965 erfüllt haben.
 
 (2) Sonstige Produkte, die den Anforderungen der Anlage III Teil A Nummer 5, 6 oder 7 zur Strahlenschutzverordnung in der Fassung vom 30. Juni 1989 entsprechen und vor dem 1. August 2001 erworben worden sind, können weiter genehmigungs- und anzeigefrei verwendet, gelagert oder beseitigt werden.
 
-
-## Anlage 1 – (zu § 5 Absatz 32)Rückstände nach § 5 Absatz 32
+# Anlage 1 – (zu § 5 Absatz 32)Rückstände nach § 5 Absatz 32
 
 (Fundstelle: BGBl. I 2017, 2046)
 
@@ -4199,8 +3977,7 @@ Keine Rückstände im Sinne dieses Gesetzes sind Materialien nach Satz 1,
 
 2. die in dort genannte technologische Prozesse als Rohstoffe eingebracht werden.
 
-
-## Anlage 2 – (zu § 16, § 25 Absatz 2, § 40 Absatz 4, § 46 Absatz 1)Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
+# Anlage 2 – (zu § 16, § 25 Absatz 2, § 40 Absatz 4, § 46 Absatz 1)Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
 
 (Fundstelle: BGBl. I 2017, 2047 - 2048)
 
@@ -4318,8 +4095,7 @@ b) gewährleistet ist, dass die Ausrüstung vorhanden und Maßnahmen getroffen s
 
 4. Angaben zur Rückführung der Vorrichtung, die radioaktive Stoffe enthält, an den Zulassungsinhaber oder Angaben zur Entsorgung der Vorrichtung.
 
-
-## Anlage 3 – (zu § 55 Absatz 1)Tätigkeitsfelder nach § 55 Absatz 1
+# Anlage 3 – (zu § 55 Absatz 1)Tätigkeitsfelder nach § 55 Absatz 1
 
 (Fundstelle: BGBl. I 2017, 2049)
 
@@ -4347,8 +4123,7 @@ b) gewährleistet ist, dass die Ausrüstung vorhanden und Maßnahmen getroffen s
 
 12. Lagerung überwachungsbedürftiger Rückstände und Entfernung von Kontaminationen von Grundstücken nach § 64.
 
-
-## Anlage 4 – (zu § 97 Absatz 5)Vorläufig als Notfallpläne des Bundes geltende Dokumente
+# Anlage 4 – (zu § 97 Absatz 5)Vorläufig als Notfallpläne des Bundes geltende Dokumente
 
 (Fundstelle: BGBl. I 2017, 2050 - 2051)
 
@@ -4388,8 +4163,7 @@ b) gewährleistet ist, dass die Ausrüstung vorhanden und Maßnahmen getroffen s
 
 (+++ Anlage 4: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## Anlage 5 – (zu § 98)Wesentliche Elemente des allgemeinen Notfallplans des Bundes
+# Anlage 5 – (zu § 98)Wesentliche Elemente des allgemeinen Notfallplans des Bundes
 
 (Fundstelle: BGBl. I 2017, 2052 - 2053)
 
@@ -4465,8 +4239,7 @@ g) zu Kriterien und Verfahren für die Aufhebung von Schutzmaßnahmen;
 
 (+++ Anlage 5: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## Anlage 6 – (zu § 99)Wesentliche Elemente der besonderen Notfallpläne des Bundes
+# Anlage 6 – (zu § 99)Wesentliche Elemente der besonderen Notfallpläne des Bundes
 
 (Fundstelle: BGBl. I 2017, 2054)
 
@@ -4492,8 +4265,7 @@ b) der Vorkehrungen und Kriterien für eine bereichsspezifische Konkretisierung,
 
 (+++ Anlage 6: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## Anlage 7 – (zu § 112)Information der Bevölkerung und Empfehlungen für das Verhalten bei Notfällen
+# Anlage 7 – (zu § 112)Information der Bevölkerung und Empfehlungen für das Verhalten bei Notfällen
 
 (Fundstelle: BGBl. I 2017, 2055)
 
@@ -4529,8 +4301,7 @@ Wenn die Zeit es erlaubt, wird die möglicherweise betroffene Bevölkerung erneu
 
 (+++ Anlage 7: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-
-## Anlage 8 – (zu § 127 Absatz 1 Nummer 2)Arbeitsfelder mit erhöhter Exposition durch Radon
+# Anlage 8 – (zu § 127 Absatz 1 Nummer 2)Arbeitsfelder mit erhöhter Exposition durch Radon
 
 (Fundstelle: BGBl. I 2017, 2056)
 
@@ -4540,8 +4311,7 @@ Wenn die Zeit es erlaubt, wird die möglicherweise betroffene Bevölkerung erneu
 
 3. Arbeitsplätze in Anlagen der Wassergewinnung, -aufbereitung und -verteilung.
 
-
-## Anlage 9 – (zu § 134 Absatz 1)Radiologisch relevante mineralische Primärrohstoffe für die Herstellung von Gebäuden mit Aufenthaltsräumen
+# Anlage 9 – (zu § 134 Absatz 1)Radiologisch relevante mineralische Primärrohstoffe für die Herstellung von Gebäuden mit Aufenthaltsräumen
 
 (Fundstelle: BGBl. I 2017, 2057)
 

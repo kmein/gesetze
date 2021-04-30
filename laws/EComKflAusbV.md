@@ -1,35 +1,27 @@
-# [EComKflAusbV] Verordnung über die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce   (E-Commerce-Kaufleute-Ausbildungsverordnung - EComKflAusbV)
-
-Ausfertigungsdatum: 13.12.2017
-
+% Verordnung über die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce   (E-Commerce-Kaufleute-Ausbildungsverordnung - EComKflAusbV)
+% Ausfertigungsdatum: 13.12.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Kaufmanns im E-Commerce und der Kauffrau im E-Commerce wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -73,13 +65,11 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 7. projektorientierte Arbeitsweisen im E-Commerce.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
+# § 6 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -87,8 +77,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (3) Teil 1 soll in der Mitte des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
-
-## § 7 – Inhalt von Teil 1
+# § 7 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -96,8 +85,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich von Teil 1
+# § 8 – Prüfungsbereich von Teil 1
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Sortimentsbewirtschaftung und Vertragsanbahnung statt.
 
@@ -115,8 +103,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 9 – Inhalt von Teil 2
+# § 9 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -126,8 +113,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 10 – Prüfungsbereiche von Teil 2
+# § 10 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -139,8 +125,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 11 – Prüfungsbereich Geschäftsprozesse im E-Commerce
+# § 11 – Prüfungsbereich Geschäftsprozesse im E-Commerce
 
 (1) Im Prüfungsbereich Geschäftsprozesse im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -166,8 +151,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (4) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 12 – Prüfungsbereich Kundenkommunikation im E-Commerce
+# § 12 – Prüfungsbereich Kundenkommunikation im E-Commerce
 
 (1) Im Prüfungsbereich Kundenkommunikation im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -189,8 +173,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Prüfungsbereich Fachgespräch zu einem projektbezogenen Prozess im E-Commerce
+# § 13 – Prüfungsbereich Fachgespräch zu einem projektbezogenen Prozess im E-Commerce
 
 (1) Im Prüfungsbereich Fachgespräch zu einem projektbezogenen Prozess im E-Commerce soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -236,8 +219,7 @@ Das Gebiet wird von dem oder der Ausbildenden festgelegt.
 
 (10) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen Fachgespräch erbringt. Nicht bewertet werden die Durchführung der praxisbezogenen Aufgabe, der Report und die Anlage.
 
-
-## § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -245,8 +227,7 @@ Das Gebiet wird von dem oder der Ausbildenden festgelegt.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -286,12 +267,10 @@ E-Commerce mit</td><td style="text-align: right;">20 Prozent sowie</td></tr></tb
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2018 in Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce
 
 (Fundstelle: BGBl. I 2017, 3930 - 3934)

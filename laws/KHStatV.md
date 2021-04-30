@@ -1,15 +1,11 @@
-# [KHStatV] Verordnung über die Bundesstatistik für Krankenhäuser  (Krankenhausstatistik-Verordnung - KHStatV)
-
-Ausfertigungsdatum: 10.04.1990
-
+% Verordnung über die Bundesstatistik für Krankenhäuser  (Krankenhausstatistik-Verordnung - KHStatV)
+% Ausfertigungsdatum: 10.04.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 28 Abs. 2 des Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 23. Dezember 1985 (BGBl. 1986 I S. 33), der durch Artikel 22 Nr. 7 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477) geändert worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Umfang der Erhebungen, Begriffsbestimmungen
+# § 1 – Umfang der Erhebungen, Begriffsbestimmungen
 
 (1) Erhebungen als Bundesstatistik werden durchgeführt über
 
@@ -31,8 +27,7 @@ die Krankenhäuser nach § 2 Nr. 1 des Krankenhausfinanzierungsgesetzes einschli
 
 die Krankenhäuser nach § 2 Nr. 1 des Krankenhausfinanzierungsgesetzes einschließlich der in den §§ 3 und 5 des Krankenhausfinanzierungsgesetzes genannten Krankenhäuser und Einrichtungen, soweit sie zu den Vorsorge- oder Rehabilitationseinrichtungen nach § 107 Abs. 2 des Fünften Buches Sozialgesetzbuch gehören.
 
-
-## § 2 – Erhebungseinheiten
+# § 2 – Erhebungseinheiten
 
 Erhebungseinheiten sind:
 
@@ -40,8 +35,7 @@ Erhebungseinheiten sind:
 
 2. Vorsorge- oder Rehabilitationseinrichtungen.
 
-
-## § 3 – Erhebungsmerkmale
+# § 3 – Erhebungsmerkmale
 
 Erhebungsmerkmale sind:
 
@@ -87,8 +81,7 @@ Erhebungsmerkmale sind:
 
 Die Erhebungsmerkmale nach Satz 1 Nummer 3 bis 9 und 14 bis 19 sind ab dem 1. Januar 2020 für Krankenhäuser nach Standorten gegliedert zu erfassen.
 
-
-## § 4 – Hilfsmerkmale
+# § 4 – Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
@@ -104,13 +97,11 @@ Hilfsmerkmale sind:
 
 6. ab dem 1. Januar 2020 die Standorte des Krankenhauses entsprechend dem Verzeichnis nach § 293 Absatz 6 des Fünften Buches Sozialgesetzbuch.
 
-
-## § 5 – Periodizität und Berichtszeitraum
+# § 5 – Periodizität und Berichtszeitraum
 
 Die Erhebungen werden jährlich durchgeführt. Die Angaben nach § 3 Satz 1 Nummer 1, 2, 5 bis 12 und 17 werden jeweils nach dem Stand vom 31. Dezember eines jeden Kalenderjahres, die Angaben nach § 3 Satz 1 Nummer 3, 4, 13 bis 16 und 18 bis 19 jeweils für das abgelaufene Kalenderjahr, die Angaben nach § 3 Satz 1 Nummer 20 jeweils für das abgelaufene Geschäftsjahr erhoben. Die Angaben nach § 3 Satz 1 Nummer 1 bis 19 sind bis zum 1. April und die Angaben nach § 3 Satz 1 Nummer 20 bis zum 30. Juni des Folgejahres dem zuständigen Statistischen Landesamt zu melden.
 
-
-## § 6 – Auskunftspflicht
+# § 6 – Auskunftspflicht
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 4 Nummer 4 sind freiwillig.
 
@@ -124,8 +115,7 @@ Die Erhebungen werden jährlich durchgeführt. Die Angaben nach § 3 Satz 1 Numm
 
 3. für die Krankenhäuser, deren Träger der Bund ist: Angaben zu den Erhebungsmerkmalen nach § 3 Satz 1 Nummer 1 bis 8, 14, 17 und 19, wenn Leistungen für Zivilpatientinnen und Zivilpatienten erbracht werden.
 
-
-## § 7 – Übermittlung, Veröffentlichung
+# § 7 – Übermittlung, Veröffentlichung
 
 (1) Das Statistische Bundesamt und die Statistischen Landesämter dürfen den fachlich zuständigen obersten Bundes- und Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln für
 
@@ -147,12 +137,10 @@ Satz 1 gilt auch, wenn Tabellenfelder nur einen einzigen Fall ausweisen. Für Ta
 
 2. Name, Anschrift, Träger oder Eigentümer, Art, Fachabteilungen und Bettenzahl von Vorsorge- oder Rehabilitationseinrichtungen.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Wirkung vom 1. Januar 1990 in Kraft. Es treten § 3 Nr. 11 bis 13 am 1. Januar 1991 und § 3 Nr. 14 am 1. Januar 1993 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

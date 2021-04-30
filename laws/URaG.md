@@ -1,15 +1,11 @@
-# [URaG] Umweltrahmengesetz
-
-Ausfertigungsdatum: 29.06.1990
-
+% Umweltrahmengesetz
+% Ausfertigungsdatum: 29.06.1990
  
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Übernahme von Vorschriften
+# § 2 – Übernahme von Vorschriften
 
 (1) Nach Maßgabe der nachfolgenden Bestimmungen treten die in der Bundesrepublik Deutschland geltenden immissionsschutzrechtlichen Vorschriften
 
@@ -21,66 +17,54 @@ in der jeweiligen Rechtsform als Gesetz, Rechtsverordnung oder allgemeine Verwal
 
 (2)
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4 – Altanlagen
+# § 4 – Altanlagen
 
 (1) Altanlagen sind Anlagen, die bis zum Zeitpunkt des Inkrafttretens der in § 2 Abs. 1 Nr. 1 dieses Artikels genannten Vorschriften errichtet worden sind oder mit deren Errichtung begonnen wurde.
 
 (2)
 
-(3) Eigentümer, Besitzer oder Erwerber von Anlagen und Grundstücken, die gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden, sind für die durch den Betrieb der Anlage oder die Benutzung des Grundstücks vor dem 1. Juli 1990 verursachten Schäden nicht verantwortlich, soweit die zuständige Behörde im Einvernehmen mit der obersten Landesbehörde sie von der Verantwortung freistellt. Eine Freistellung kann erfolgen, wenn dies unter Abwägung der Interessen des Eigentümers, des Besitzers oder des Erwerbers, der durch den Betrieb der Anlage oder die Benutzung des Grundstücks möglicherweise Geschädigten, der Allgemeinheit und des Umweltschutzes geboten ist. Die Freistellung kann mit Auflagen versehen werden. Der Antrag auf Freistellung muß spätestens innerhalb eines Jahres nach Inkrafttreten des Gesetzes zur Beseitigung von Hemmnissen bei der Privatisierung von Unternehmen und zur Förderung von Investitionen \*) gestellt sein. Im Falle der Freistellung treten an Stelle privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche zur Abwehr benachteiligender Einwirkungen von einem Grundstück auf ein benachbartes Grundstück Ansprüche auf Schadensersatz. Die zuständige Behörde kann vom Eigentümer, Besitzer oder Erwerber jedoch Vorkehrungen zum Schutz vor benachteiligenden Einwirkungen verlangen, soweit diese nach dem Stand der Technik durchführbar und wirtschaftlich vertretbar sind. Im übrigen kann die Freistellung nach Satz 1 auch hinsichtlich der Ansprüche auf Schadensersatz nach Satz 5 sowie nach sonstigen Vorschriften erfolgen; auch in diesem Falle ist das Land Schuldner der Schadensersatzansprüche.  
------
+(3) Eigentümer, Besitzer oder Erwerber von Anlagen und Grundstücken, die gewerblichen Zwecken dienen oder im Rahmen wirtschaftlicher Unternehmungen Verwendung finden, sind für die durch den Betrieb der Anlage oder die Benutzung des Grundstücks vor dem 1. Juli 1990 verursachten Schäden nicht verantwortlich, soweit die zuständige Behörde im Einvernehmen mit der obersten Landesbehörde sie von der Verantwortung freistellt. Eine Freistellung kann erfolgen, wenn dies unter Abwägung der Interessen des Eigentümers, des Besitzers oder des Erwerbers, der durch den Betrieb der Anlage oder die Benutzung des Grundstücks möglicherweise Geschädigten, der Allgemeinheit und des Umweltschutzes geboten ist. Die Freistellung kann mit Auflagen versehen werden. Der Antrag auf Freistellung muß spätestens innerhalb eines Jahres nach Inkrafttreten des Gesetzes zur Beseitigung von Hemmnissen bei der Privatisierung von Unternehmen und zur Förderung von Investitionen \*) gestellt sein. Im Falle der Freistellung treten an Stelle privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche zur Abwehr benachteiligender Einwirkungen von einem Grundstück auf ein benachbartes Grundstück Ansprüche auf Schadensersatz. Die zuständige Behörde kann vom Eigentümer, Besitzer oder Erwerber jedoch Vorkehrungen zum Schutz vor benachteiligenden Einwirkungen verlangen, soweit diese nach dem Stand der Technik durchführbar und wirtschaftlich vertretbar sind. Im übrigen kann die Freistellung nach Satz 1 auch hinsichtlich der Ansprüche auf Schadensersatz nach Satz 5 sowie nach sonstigen Vorschriften erfolgen; auch in diesem Falle ist das Land Schuldner der Schadensersatzansprüche. -----
 
 \*)  
 (G v. 22.3.1991 I 766, 1928; nach seinem Art. 15 am 29.3.1991 in Kraft getreten)
 
+# §§ 5 bis 7 – (weggefallen)
 
-## §§ 5 bis 7 – (weggefallen)
-
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Übernahme und Außerkrafttreten von Vorschriften
+# § 2 – Übernahme und Außerkrafttreten von Vorschriften
 
 (1) Neben dem gemäß § 15 des Gesetzes vom 21.6.1990 über die Inkraftsetzung von Rechtsvorschriften der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik in Kraft gesetzten Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren - Atomgesetz - treten die in der Bundesrepublik Deutschland geltenden atomrechtlichen und strahlenschutzrechtlichen Vorschriften der Anlage 1 am 1.7.1990, der Anlage 2 am 1.1.1991 in der jeweiligen Rechtsform als Rechtsverordnung oder allgemeine Verwaltungsvorschrift in Kraft.
 
 (2)
 
+# §§ 3 bis 5 – (weggefallen)
 
-## §§ 3 bis 5 – (weggefallen)
-
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Übernahme von Vorschriften
+# § 2 – Übernahme von Vorschriften
 
 (1) Nach Maßgabe der nachfolgenden Vorschriften treten die in der Bundesrepublik Deutschland geltenden wasserwirtschaftlichen Vorschriften in der jeweiligen Rechtsform als Gesetz, Rechtsverordnung oder allgemeine Verwaltungsvorschrift in der Deutschen Demokratischen Republik wie folgt in Kraft:
 
 1. die der Anlage 1 am 1. Juli 1990.
 
-2.  
-3.
+2. 3.
 
 (2)
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Übernahme von Vorschriften
+# § 2 – Übernahme von Vorschriften
 
 Nach Maßgabe der nachfolgenden Bestimmungen treten die in der Bundesrepublik Deutschland geltenden abfallrechtlichen Vorschriften
 
@@ -92,21 +76,17 @@ Nr. 7 und 8 am 1.10.1990
 
 in der jeweiligen Rechtsform als Gesetz, Rechtsverordnung oder allgemeine Verwaltungsvorschrift in Kraft.
 
-
-## § 3 – Altanlagen
+# § 3 – Altanlagen
 
 Auf Altanlagen findet Artikel 1 § 4 Abs. 3 entsprechende Anwendung.
 
+# §§ 4 bis 6 – (weggefallen)
 
-## §§ 4 bis 6 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
 
-
-## Anlage 1
+# Anlage 1
 
   
   
@@ -189,8 +169,7 @@ Naturschutz und Landschaftspflege
 
 Kursivdruck: Muß richtig lauten "19. Mai 1990"
 
-
-## Anlage 2
+# Anlage 2
 
   
   
@@ -232,8 +211,7 @@ Chemikalienrecht
 
 Kursivdruck: Muß richtig lauten "GMBl. S. 170"
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III  (BGBl. II 1990, 885, 1226)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III  (BGBl. II 1990, 885, 1226)
 
 Abschnitt III  
 Fortgeltendes Recht der Deutschen Demokratischen Republik

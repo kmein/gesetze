@@ -1,15 +1,11 @@
-# [HolzSiG] Gesetz gegen den Handel mit illegal eingeschlagenem Holz  (Holzhandels-Sicherungs-Gesetz - HolzSiG)
-
-Ausfertigungsdatum: 11.07.2011
-
+% Gesetz gegen den Handel mit illegal eingeschlagenem Holz  (Holzhandels-Sicherungs-Gesetz - HolzSiG)
+% Ausfertigungsdatum: 11.07.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich und Aufgabenübertragung
+# § 1 – Anwendungsbereich und Aufgabenübertragung
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 2173/2005 des Rates vom 20. Dezember 2005 zur Einrichtung eines FLEGT-Genehmigungssystems für Holzeinfuhren in die Europäische Gemeinschaft (ABl. L 347 vom 30.12.2005, S. 1) und der Verordnung (EU) Nr. 995/2010 des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über die Verpflichtungen von Marktteilnehmern, die Holz und Holzerzeugnisse in Verkehr bringen (ABl. L 295 vom 12.11.2010, S. 23), sowie der zu diesen Verordnungen von Rat und Europäischer Kommission erlassenen Ergänzungs- oder Durchführungsbestimmungen.
 
@@ -21,8 +17,7 @@ Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit Zustimmung des Bund
 
 Im Übrigen obliegt die Durchführung den nach Landesrecht zuständigen Behörden.
 
-
-## § 2 – Eingriffsbefugnisse
+# § 2 – Eingriffsbefugnisse
 
 (1) Die zuständige Behörde trifft die erforderlichen Anordnungen und Maßnahmen zur Feststellung von Verstößen gegen die in § 1 Absatz 1 bezeichneten Rechtsakte, zur Beseitigung festgestellter Verstöße oder zur Verhinderung künftiger Verstöße. Die zuständige Behörde kann dabei insbesondere
 
@@ -66,8 +61,7 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 (5) Werden Sendungen im Rahmen des Absatzes 1 Satz 2, des Absatzes 2 Nummer 3 oder des Absatzes 3 Nummer 3 verwahrt, beprobt, untersucht, unter Auferlegung eines Verfügungsverbotes überlassen, beschlagnahmt oder vernichtet, hat der Einführer oder der nach Absatz 4 verantwortliche Marktteilnehmer die damit verbundenen Kosten zu tragen. Abweichend von Satz 1 trägt die zuständige Behörde die hiermit verbundenen Kosten, wenn Proben nach Absatz 1 Satz 2 Nummer 5 Satz 2 verdachtsunabhängig gezogen und untersucht werden und hierbei kein Verstoß gegen die in § 1 Absatz 1 bezeichneten Rechtsakte festgestellt wird.
 
-
-## § 3 – Mitwirkung der Zollbehörden
+# § 3 – Mitwirkung der Zollbehörden
 
 (1) Die Zollbehörden wirken bei der Überwachung der Einfuhr von Holzprodukten aus den Partnerländern sowie von Holz und Holzprodukten aus Drittstaaten in die Europäische Gemeinschaft mit. Soweit dies zur Überwachung der Durchführung der in § 1 Absatz 1 bezeichneten Rechtsakte erforderlich ist, teilen sie Informationen, die sie im Rahmen ihrer zollamtlichen Tätigkeit gewonnen haben, der Bundesanstalt mit.
 
@@ -77,8 +71,7 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 2. in den Fällen der Nummer 1 anordnen, dass Proben von Holzprodukten aus den Partnerländern auf Kosten und Gefahr des Einführers gezogen und der Bundesanstalt oder dem Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei, vorgelegt werden.
 
-
-## § 4 – Datenaustausch
+# § 4 – Datenaustausch
 
 (1) Die Bundesanstalt unterrichtet die Zollbehörden unverzüglich über das Ergebnis der Überprüfung von FLEGT-Genehmigungen. Die Bundesanstalt, die nach Landesrecht zuständigen Behörden und die Zollbehörden sind berechtigt, der Europäischen Kommission, den zuständigen Behörden anderer Mitgliedstaaten oder von Drittstaaten alle unionsrechtlich notwendigen Informationen, einschließlich personenbezogener Daten, zu übermitteln.
 
@@ -86,8 +79,7 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 (3) Für den Datenaustausch und die Erfassung der in den FLEGT-Genehmigungen enthaltenen Daten nach der Verordnung (EG) Nr. 2173/2005 sowie für den zur Durchführung der Verordnung (EU) Nr. 995/2010 notwendigen Datenaustausch und die notwendige Datenerfassung können die zuständigen Behörden elektronische Systeme einsetzen.
 
-
-## § 5 – Verordnungsermächtigungen
+# § 5 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Überwachung näher zu regeln, soweit es zur Durchsetzung des Verbotes nach Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2173/2005, auch in Verbindung mit einem nach Artikel 5 Absatz 9 der Verordnung (EG) Nr. 2173/2005 erlassenen Rechtsakt erforderlich ist. Es kann dabei insbesondere die Durchführung von Untersuchungen einschließlich der Probenahmen und Analysemethoden und der Einzelheiten der Duldungs-, Unterstützungs- und Vorlagepflichten regeln.
 
@@ -99,8 +91,7 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Union unanwendbar geworden sind.
 
-
-## § 6 – Auskunfts-, Duldungs- und Anzeigepflichten
+# § 6 – Auskunfts-, Duldungs- und Anzeigepflichten
 
 (1) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben der zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
 
@@ -118,8 +109,7 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 (5) Marktteilnehmer, die Holz oder Holzprodukte im Sinne des Artikels 2 Buchstabe a der Verordnung (EU) Nr. 995/2010 aus Drittländern in die Bundesrepublik Deutschland einführen, haben dies nach Satz 3 vor Aufnahme dieser Tätigkeit der Bundesanstalt anzuzeigen. Die Anzeigepflicht nach Satz 1 gilt für Marktteilnehmer, die bereits am 9. Mai 2013 eine Tätigkeit im Sinne des Satzes 1 ausüben mit der Maßgabe, dass die Anzeige spätestens bis zum 9. November 2013 zu erfolgen hat. Die Anzeige muss Name oder Firma, Anschrift und Telekommunikationsdaten des Marktteilnehmers enthalten. Änderungen der angezeigten Daten sind der Bundesanstalt unverzüglich anzuzeigen.
 
-
-## § 7 – Bußgeldvorschriften
+# § 7 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 der Verordnung (EG) Nr. 2173/2005 des Rates vom 20. Dezember 2005 zur Einrichtung eines FLEGT-Genehmigungssystems für Holzeinfuhren in die Europäische Gemeinschaft (ABl. L 347 vom 30.12.2005, S. 1) ein Holzprodukt aus einem dort genannten Partnerland in die Gemeinschaft einführt.
 
@@ -153,8 +143,7 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 (6) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt, soweit das Gesetz durch diese ausgeführt wird.
 
-
-## § 8 – Strafvorschriften
+# § 8 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -164,12 +153,10 @@ b) die nach der Sorgfaltspflichtregelung nach Artikel 6 Absatz 1 Buchstabe a Spi
 
 (2) Der Versuch ist strafbar.
 
-
-## § 9 – Einziehung
+# § 9 – Einziehung
 
 Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 7 oder eine Straftat nach § 8 bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, können eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

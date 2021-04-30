@@ -1,12 +1,7 @@
-# [KONSENS-G] Gesetz über die Koordinierung der Entwicklung und des Einsatzes neuer Software der Steuerverwaltung  (KONSENS-Gesetz - KONSENS-G)
-
-Ausfertigungsdatum: 14.08.2017
-
+% Gesetz über die Koordinierung der Entwicklung und des Einsatzes neuer Software der Steuerverwaltung  (KONSENS-Gesetz - KONSENS-G)
+% Ausfertigungsdatum: 14.08.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -20,15 +15,15 @@ Ausfertigungsdatum: 14.08.2017
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Zur erheblichen Verbesserung oder Erleichterung des gleichmäßigen Vollzugs der von den Ländern im Auftrag des Bundes verwalteten Steuern wirken Bund und Länder beim einheitlichen Einsatz von IT-Verfahren und Software sowie ihrer einheitlichen Entwicklung zusammen. Der Gegenstand sowie die Art und Weise des Zusammenwirkens werden durch dieses Gesetz geregelt.
 
 (2) Das Zusammenwirken nach Absatz 1 umfasst die Planung, Beschaffung und Entwicklung sowie den Einsatz, die Pflege und Wartung der einheitlichen IT-Verfahren und der einheitlichen Software.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -44,15 +39,13 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 6. „Architektur“ eine Beschreibung von IT-, Fach- und Betriebsarchitektur einschließlich der technischen Basis, auf der IT-Verfahren oder Software zur Umsetzung der festgelegten Anforderungen bereitgestellt werden müssen.
 
-
-## § 3 – Allgemeine Festlegungen
+# § 3 – Allgemeine Festlegungen
 
 (1) IT-Standards im Gesamtvorhaben KONSENS müssen offene Standards sein, die den Grundsätzen der Interoperabilität und der Wiederverwendbarkeit entsprechen. Es ist vorrangig auf bestehende Marktstandards abzustellen.
 
 (2) Aufgaben der Entwicklung sowie der Pflege und Wartung von Software sollen in der Art und Weise zugeschnitten und zu Einheiten (IT-Verfahren) zusammengefasst werden, dass sie ausschließlich an einem Entwicklungsstandort eines Auftrag nehmenden Landes wahrgenommen werden können.
 
-
-## § 4 – Entwicklung von IT-Verfahren und Software
+# § 4 – Entwicklung von IT-Verfahren und Software
 
 (1) IT-Verfahren und Software für den einheitlichen Einsatz werden gemeinsam für Bund und Länder beschafft oder arbeitsteilig in der Art und Weise entwickelt, dass ein Auftrag nehmendes Land oder mehrere Auftrag nehmende Länder die IT-Verfahren oder die Software nach Maßgabe der in einem Lastenheft festgelegten Anforderungen für den Einsatz in den übernehmenden Ländern entwickelt oder entwickeln.
 
@@ -62,8 +55,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (4) Ist der Einsatz von Standardsoftware wirtschaftlicher als eine Eigenentwicklung, so ist ihr der Vorrang einzuräumen.
 
-
-## § 5 – Einsatz der IT-Verfahren und der Software
+# § 5 – Einsatz der IT-Verfahren und der Software
 
 (1) Der flächendeckende Einsatz einheitlicher IT-Verfahren oder einheitlicher Software erfolgt entsprechend eines verbindlich festgelegten Release- und Einsatzplans. Der Einsatz soll in nicht mehr als zwei Hauptversionen jährlich erfolgen.
 
@@ -71,8 +63,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (3) Die Aufbau- und Ablauforganisation der Finanzbehörden ist an die einheitlichen IT-Verfahren und die einheitliche Software anzupassen.
 
-
-## § 6 – Pflege und Wartung der IT-Verfahren und der Software
+# § 6 – Pflege und Wartung der IT-Verfahren und der Software
 
 (1) Die Aufgabe der Pflege umfasst sämtliche Maßnahmen zur Erhaltung der Lauffähigkeit von eingesetzten IT-Verfahren und Software, soweit sie nicht der Wartung zugehören. Der Pflege sind vorbehaltlich des Absatzes 2 folgende Maßnahmen zuzuordnen:
 
@@ -88,8 +79,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (2) Die Aufgabe der Wartung umfasst sämtliche Maßnahmen zur Erhaltung der Funktionsfähigkeit der eingesetzten IT-Verfahren und Software. Hierzu gehören auch erforderliche fachliche und technische Anpassungen der IT-Infrastruktur.
 
-
-## § 7 – Produktiver Betrieb der IT-Verfahren und der Software
+# § 7 – Produktiver Betrieb der IT-Verfahren und der Software
 
 (1) Der produktive Betrieb ist vorbehaltlich abweichender Regelungen in diesem Gesetz je eigene Angelegenheit von Bund und Ländern. Dabei sind die sich aus der Architektur sowie dem länderübergreifenden Einsatz der einheitlichen IT-Verfahren und der einheitlichen Software ergebenden Anforderungen einzuhalten.
 
@@ -97,8 +87,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (3) IT-Verfahren oder Software können von einer zentralen Produktions- und Servicestelle eingesetzt und administriert werden.
 
-
-## § 8 – Auftraggeber-Gremium
+# § 8 – Auftraggeber-Gremium
 
 (1) Es wird ein Auftraggeber-Gremium eingerichtet, dem je ein Vertreter des Bundes sowie der Länder angehören. Den Vorsitz hat der Vertreter des Bundes. Das Auftraggeber-Gremium gibt sich eine Geschäftsordnung.
 
@@ -122,8 +111,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (5) Der Vorhabensplan, der Gesamtbudgetplan (die jährlichen Finanzbedarfe und die Finanzplanung) und der Bericht über die Ergebnisse des Finanzcontrollings für das Vorjahr sind den Finanzministern bis zum 31. Oktober eines Jahres vorzulegen.
 
-
-## § 9 – Steuerungsgruppe Informationstechnik
+# § 9 – Steuerungsgruppe Informationstechnik
 
 (1) Es wird eine Steuerungsgruppe Informationstechnik eingerichtet, der je ein Vertreter des Bundes sowie der Länder Baden-Württemberg, Bayern, Hessen, Niedersachsen und Nordrhein-Westfalen angehören. Den Vorsitz hat der Vertreter des Bundes. Die Steuerungsgruppe Informationstechnik gibt sich eine Geschäftsordnung.
 
@@ -183,13 +171,11 @@ c) der länderübergreifenden, verbindlichen Release- und Einsatzplanung für da
 
 (8) Die Steuerungsgruppe Informationstechnik benennt für Zwecke des Bundeszuschusses nach § 24 Absatz 4 jährlich ein repräsentatives und auf das Folgejahr terminiertes Kriterium, an dem der Fortschritt des produktiven Einsatzes der IT-Verfahren oder der Software zu bemessen ist. Sie teilt das Kriterium den Finanzministern des Bundes und der Länder bis zum 31. Oktober eines Jahres mit. Die Steuerungsgruppe Informationstechnik berichtet bis zum 31. Oktober des Folgejahres über die Einhaltung des Kriteriums (Nachweis über den produktiven Einsatz).
 
-
-## § 10 – Geschäftsstelle Informationstechnik
+# § 10 – Geschäftsstelle Informationstechnik
 
 Die Geschäftsstelle Informationstechnik ist im Geschäftsbereich des Bundesministeriums der Finanzen angesiedelt. Sie unterstützt die Steuerungsgruppe Informationstechnik organisatorisch und betreibt das interne elektronische Informationssystem für die Aufgaben aus diesem Gesetz. Sie unterstützt bei Bedarf, soweit Aufgaben des Gesamtvorhabens KONSENS betroffen sind, auch die Beratungen des Auftraggeber-Gremiums sowie die vor- und nachgelagerten Beratungen zu den Sitzungen der Steuerungsgruppe Informationstechnik. Über weitere Aufgaben der Geschäftsstelle Informationstechnik entscheidet die Steuerungsgruppe Informationstechnik.
 
-
-## § 11 – Auftrag nehmendes Land
+# § 11 – Auftrag nehmendes Land
 
 (1) Auftrag nehmendes Land ist das für eine Aufgabe (Entwicklung, Pflege oder Wartung bestimmter IT-Verfahren oder bestimmter Software) von der Steuerungsgruppe Informationstechnik aus ihrer Mitte bestimmte Land.
 
@@ -207,13 +193,11 @@ Die Geschäftsstelle Informationstechnik ist im Geschäftsbereich des Bundesmini
 
 5. unterstützt bei der Einführung der entwickelten IT-Verfahren oder der entwickelten Software. Ab Bereitstellung der entwickelten IT-Verfahren oder der entwickelten Software gewährleistet das Auftrag nehmende Land für längstens ein Jahr die Softwarepflege für die Vorversion der neu eingeführten Software.
 
-
-## § 12 – Übernehmendes Land
+# § 12 – Übernehmendes Land
 
 Die Länder sind verpflichtet, die durch die Auftrag nehmenden Länder entwickelten IT-Verfahren oder die entwickelte Software einheitlich und entsprechend der festgelegten Release- und Einsatzplanung im eigenen Land einzusetzen (übernehmendes Land).
 
-
-## § 13 – Gesamtleitung
+# § 13 – Gesamtleitung
 
 (1) Die operative Steuerung des Gesamtvorhabens KONSENS erfolgt durch die Gesamtleitung.
 
@@ -247,8 +231,7 @@ und legt diese Pläne der Steuerungsgruppe Informationstechnik vor.
 
 (7) Zur organisatorischen Unterstützung der Gesamtleitung wird ein Projektbüro eingerichtet.
 
-
-## § 14 – Zentrale Organisationseinheiten
+# § 14 – Zentrale Organisationseinheiten
 
 Die Gesamtleitung wird durch zentrale Organisationseinheiten unterstützt. Diese sind als Stabsstellen bei der Gesamtleitung einzurichten. Sie nehmen übergeordnete Querschnittsaufgaben wahr. Sie unterliegen den Weisungen der Gesamtleitung. Berichte, Planungen und Entscheidungsbedarfe sind der Gesamtleitung und durch diese der Steuerungsgruppe Informationstechnik zur Entscheidung vorzulegen. Zentrale Organisationseinheiten sind insbesondere:
 
@@ -264,8 +247,7 @@ Die Gesamtleitung wird durch zentrale Organisationseinheiten unterstützt. Diese
 
 6. das Multiprojektmanagement.
 
-
-## § 15 – Vorhabensmanagement
+# § 15 – Vorhabensmanagement
 
 (1) Das Vorhabensmanagement unterstützt die Gesamtleitung beim übergreifenden strategischen und operativen IT-Controlling des Gesamtvorhabens KONSENS. Es nimmt Planungs- und Koordinationsaufgaben wahr. Zudem stellt es durch ein standardisiertes Berichtswesen Transparenz über die für die Steuerung des Gesamtvorhabens KONSENS relevanten strategischen und operativen Aspekte her. Insbesondere hat es folgende Aufgaben:
 
@@ -313,8 +295,7 @@ Die Gesamtleitung wird durch zentrale Organisationseinheiten unterstützt. Diese
 
 (4) Um das IT-Controlling wahrnehmen zu können sind die einzelnen Entwicklungsprogramme und -projekte sowie die zentralen Organisationseinheiten verpflichtet, dem Vorhabensmanagement die zu erhebenden Daten und Informationen zuzuliefern; die gleiche Verpflichtung trifft, auch für den Bereich der Pflege und Wartung, des Einsatzes und Betriebs der IT-Verfahren und Software und der zunehmenden Vereinheitlichung der Entwicklungs-, Test- und Betriebsumgebungen, das jeweilige Auftrag nehmende oder übernehmende Land (Datenlieferanten). Der Bund ist Datenlieferant entsprechend der nach § 9 Absatz 6 und 7 übertragenen oder übernommenen Aufgaben der Entwicklung, der Pflege, der Wartung und des Betriebs.
 
-
-## § 16 – Architekturmanagement
+# § 16 – Architekturmanagement
 
 (1) Zur Steuerung der Entwicklung und Pflege von IT-Verfahren und Software werden Anforderungen und IT-Standards im Soll-Bebauungsplan vorgegeben.
 
@@ -338,8 +319,7 @@ Die Gesamtleitung wird durch zentrale Organisationseinheiten unterstützt. Diese
 
 6. die Erarbeitung von IT-Ablaufprozessen.
 
-
-## § 17 – Release- und Einsatzmanagement
+# § 17 – Release- und Einsatzmanagement
 
 (1) Das Release- und Einsatzmanagement unterstützt die Gesamtleitung insbesondere hinsichtlich der Durchführung von Tests und des störungsfreien produktiven Einsatzes der entwickelten IT-Verfahren und der entwickelten Software nach Maßgabe des Release- und Einsatzplanes. Es verfolgt das Ziel, die Integrität des Betriebs zu sichern, indem nur zuvor getestete und zertifizierte IT-Verfahren und Software eingesetzt werden. Dazu plant es Tests, legt die Modalitäten ihrer Durchführung fest, wacht über die Durchführung und bewertet ihr Ergebnis.
 
@@ -359,13 +339,11 @@ Die Gesamtleitung wird durch zentrale Organisationseinheiten unterstützt. Diese
 
 6. die Kontrolle der Sicherstellung von Pflege und Wartung je Software für das aktuellste Release und seine Vorversion.
 
-
-## § 18 – Qualitätsmanagement
+# § 18 – Qualitätsmanagement
 
 Das Qualitätsmanagement unterstützt die Gesamtleitung bei der Erstellung und Pflege der Qualitätsmanagement-Dokumentation sowie bei der Einführung, Kontrolle und kontinuierlichen Weiterentwicklung des Qualitätsmanagement-Systems.
 
-
-## § 19 – Anforderungsmanagement
+# § 19 – Anforderungsmanagement
 
 (1) Das Anforderungsmanagement ist ein systematischer Ansatz zur Definition, Erfassung, Analyse und Bewertung, Abstimmung und Priorisierung von Anforderungen an die zu entwickelnden IT-Verfahren und die zu entwickelnde Software sowie ihrer Pflege. Es umfasst Maßnahmen zur Steuerung, Kontrolle und Verwaltung dieser Anforderungen. Funktionale und nicht-funktionale Anforderungen werden in Form von Lastenheften beschrieben.
 
@@ -383,8 +361,7 @@ Das Qualitätsmanagement unterstützt die Gesamtleitung bei der Erstellung und P
 
 5. Qualitätssicherungsmaßnahmen, insbesondere durch Ausführung von Eingangs-Qualitätssicherungen von Lastenheften.
 
-
-## § 20 – Allgemeine Festlegungen zum Projektmanagement
+# § 20 – Allgemeine Festlegungen zum Projektmanagement
 
 (1) Es wird ein einheitliches Projektmanagement für alle Entwicklungsprogramme und -projekte im Gesamtvorhaben KONSENS festgelegt. Es orientiert sich an den für den Bund geltenden Projektmanagementstandards.
 
@@ -434,8 +411,7 @@ Es können außerdem vertreten sein:
 
 (7) Die Eskalation, beispielsweise von Entscheidungsbedarfen, durch die einzelnen Entwicklungsprogramme und -projekte erfolgt ausschließlich über die Gesamtleitung an die Steuerungsgruppe Informationstechnik. Ist für ein Projekt ein Lenkungsausschuss eingerichtet, ist vor einer Eskalation an die Gesamtleitung der Lenkungsausschuss zu befassen.
 
-
-## § 21 – Multiprojektmanagement
+# § 21 – Multiprojektmanagement
 
 (1) Das Multiprojektmanagement unterstützt die Gesamtleitung beim operativen IT-Controlling der Entwicklungsprogramme und -projekte. Aufgaben des Multiprojektmanagements sind insbesondere:
 
@@ -447,8 +423,7 @@ Es können außerdem vertreten sein:
 
 (2) Das Multiprojektmanagement wird organisatorisch durch ein Projektbüro unterstützt.
 
-
-## § 22 – Entwicklungsprogramme und -projekte
+# § 22 – Entwicklungsprogramme und -projekte
 
 (1) Jeder Entwicklungsauftrag, ausgenommen Aufträge zur Pflege von Software, wird im Rahmen eines Projektes nach Maßgabe der festgelegten Projektstrukturen durchgeführt.
 
@@ -472,8 +447,7 @@ Es können außerdem vertreten sein:
 
 (6) Zur organisatorischen Unterstützung der Projektleitung wird ein Projektbüro eingerichtet.
 
-
-## § 23 – Umlagefähige Aufwendungen
+# § 23 – Umlagefähige Aufwendungen
 
 (1) Nach diesem Gesetz umzulegende Aufwendungen sind:
 
@@ -487,8 +461,7 @@ Es können außerdem vertreten sein:
 
 (3) Weitere Einzelheiten werden durch das Auftraggeber-Gremium festgelegt.
 
-
-## § 24 – Verteilung der umlagefähigen Aufwendungen, Bundeszuschuss
+# § 24 – Verteilung der umlagefähigen Aufwendungen, Bundeszuschuss
 
 (1) Zum Zweck der Transparenz sind die umlagefähigen Aufwendungen in folgende Aufwandsarten aufzuteilen:
 
@@ -506,8 +479,7 @@ Es können außerdem vertreten sein:
 
 (4) Über die Verpflichtung nach Absatz 3 hinaus gewährt der Bund für das Vorhaben KONSENS innerhalb des Budgets jährlich einen Zuschuss in Höhe von 10 Millionen Euro in monatlichen Abschlagszahlungen. Der Zuschuss ist an den Fortschritt des produktiven Einsatzes einheitlicher IT-Verfahren oder einheitlicher Software (Kriterium) geknüpft. Das Verfahren richtet sich nach § 9 Absatz 8. Stellen die Finanzminister des Bundes und der Länder einvernehmlich fest, dass das im Vorjahr benannte Kriterium nicht erfüllt worden ist, entfällt die Verpflichtung des Bundes für die Zahlung des Zuschusses für das zweite auf die Feststellung folgende Jahr. In diesem Fall treten die Länder in die Verpflichtung des Bundes für das betroffene Jahr für die Zahlung des Zuschusses ein.
 
-
-## § 25 – Budget
+# § 25 – Budget
 
 (1) Bund und Länder stellen bis zum 1. Februar eines Jahres auf der Basis des Vorhabensplans eine Planung der voraussichtlich auf den Bund und die beteiligten Länder aufzuteilenden Ausgaben für die folgenden vier Jahre zum Zwecke der Veranschlagung in den Haushalten auf.
 
@@ -515,13 +487,11 @@ Es können außerdem vertreten sein:
 
 (3) Die Steuerungsgruppe Informationstechnik teilt bis zum 15. November eines Jahres den Auftrag nehmenden Ländern die Höhe des auf sie entfallenden Budgetanteils für den in Absatz 2 genannten Zeitraum mit.
 
-
-## § 26 – Zahlungsverfahren
+# § 26 – Zahlungsverfahren
 
 Zahlungsverpflichtungen und die umzulegenden Aufwendungen nach § 24 sind zu verrechnen.
 
-
-## § 27 – Nutzungsrecht
+# § 27 – Nutzungsrecht
 
 (1) Bund und Länder schließen eine Verwaltungsvereinbarung, wonach ihnen an den im Rahmen des Zusammenwirkens nach diesem Gesetz erstellten Arbeitsergebnissen, insbesondere an den entwickelten IT-Verfahren und der entwickelten Software, räumlich und gegenständlich unbeschränkte Nutzungsrechte als ausschließliche Rechte zur gesamten Hand zustehen. Diese Verwaltungsvereinbarung umfasst insbesondere Datenbankrechte sowie sämtliche urheberrechtlichen Nutzungsrechte, vor allem die Rechte zur Vervielfältigung, Verbreitung, Bearbeitung, Digitalisierung, Online-Bereitstellung und zur öffentlichen Wiedergabe der Arbeitsergebnisse und beziehen sich im Fall von Software auf den Objektcode, den Quellcode sowie die entsprechenden Softwaredokumentationen.
 
@@ -533,8 +503,7 @@ Zahlungsverpflichtungen und die umzulegenden Aufwendungen nach § 24 sind zu ver
 
 (5) Die Beschaffung von Standardsoftware ist zulässig, auch wenn Bund und Ländern nur einfache Nutzungsrechte eingeräumt werden können und sich die Nutzungsrechte nicht auf den Quellcode (einschließlich Quellcodedokumentation) beziehen. Sollte ein Anbieter von Standardsoftware lediglich bereit sein, Nutzungsrechte in noch geringerem Umfang einzuräumen, ist vor der Beschaffung die Entscheidung der Steuerungsgruppe Informationstechnik einzuholen.
 
-
-## § 28 – Haftung
+# § 28 – Haftung
 
 (1) Schadensersatzansprüche Dritter gehen zu Lasten derjenigen Gebietskörperschaft, die gegenüber dem Dritten aufgetreten ist.
 
@@ -544,8 +513,7 @@ Zahlungsverpflichtungen und die umzulegenden Aufwendungen nach § 24 sind zu ver
 
 (4) Für Eigenschäden, die durch Inanspruchnahme externer Unterstützung im Sinne des § 11 Absatz 3 Nummer 4 verursacht werden, haftet die den Externen beauftragende Gebietskörperschaft, soweit der Ersatzanspruch gegenüber dem Externen liquidiert wird. Bund und Länder sind verpflichtet, bei Beauftragung Externer eine einheitliche, von der Steuerungsgruppe Informationstechnik zur Verfügung gestellte, Haftungsklausel zu verwenden.
 
-
-## § 29 – Anwendungs- und Übergangsregelung
+# § 29 – Anwendungs- und Übergangsregelung
 
 (1) Die Regelungen dieses Gesetzes sind ab dem 1. Januar 2019 anzuwenden. Gleichzeitig sind die in den Anwendungsbereich dieses Gesetzes fallenden Vereinbarungen im Abkommen zur Regelung der Zusammenarbeit im Vorhaben KONSENS (Koordinierte neue Software-Entwicklung der Steuerverwaltung), mit Ausnahme der an den erstellten Arbeitsergebnissen eingeräumten Nutzungsrechte, nicht mehr anzuwenden.
 

@@ -1,15 +1,11 @@
-# [BPädFortbV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
-
-Ausfertigungsdatum: 21.08.2009
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
+% Ausfertigungsdatum: 21.08.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 42 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die im Rahmen der beruflichen Fortbildung zum Geprüften Berufspädagogen/zur Geprüften Berufspädagogin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 12 durchführen.
 
@@ -27,8 +23,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte Berufspädagogin.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -44,8 +39,7 @@ eine erfolgreich abgelegte Prüfung nach § 4 der Ausbilder-Eignungsverordnung o
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -77,15 +71,13 @@ Die Prüfung wird schriftlich und mündlich durchgeführt.
 
 (4) Im Prüfungsteil „Spezielle berufspädagogische Funktionen“ werden die in § 9 genannten Qualifikationen geprüft. Die Prüfung wird als Projektarbeit, Präsentation und Fachgespräch durchgeführt. Dieser Prüfungsteil kann erst begonnen werden, wenn in den Prüfungsteilen nach Absatz 1 Nummer 1 und 2 mindestens ausreichende Leistungen erbracht wurden; es soll jedoch nicht später als ein Jahr nach deren erfolgreichen Abschluss begonnen werden.
 
-
-## § 4 – Durchführung der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
+# § 4 – Durchführung der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
 
 (1) Es ist schriftlich anhand jeweils einer Situationsaufgabe je Handlungsbereich zu prüfen. Die Prüfung dauert je Handlungsbereich mindestens 150 Minuten, höchstens 180 Minuten und insgesamt nicht mehr als 500 Minuten.
 
 (2) Wurden in nicht mehr als einem Handlungsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Handlungsbereich eine mündliche Ergänzungsprüfung anzubieten. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
+# § 5 – Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
 
 (1) Die Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“ ist erst nach Ablegen der Prüfung nach § 4 durchzuführen.
 
@@ -97,8 +89,7 @@ Die Prüfung wird schriftlich und mündlich durchgeführt.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Durchführung der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
+# § 6 – Durchführung der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
 
 (1) In einer Projektarbeit soll eine komplexe berufspädagogische Problemstellung in einer speziellen berufspädagogischen Funktion dargestellt, beurteilt und gelöst werden. Die zu prüfende Person schlägt aus den Funktionen nach § 9 Absatz 2 dem Prüfungsausschuss ein Projektthema vor. Auf dieser Grundlage entscheidet der Prüfungsausschuss über die Annahme des Themas der Projektarbeit. Die Projektarbeit ist als schriftliche Hausarbeit anzufertigen. Der Prüfungsausschuss soll den Umfang der Arbeit begrenzen. Die Bearbeitungszeit beträgt 30 Kalendertage.
 
@@ -108,8 +99,7 @@ Die Prüfung wird schriftlich und mündlich durchgeführt.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Inhalte der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
+# § 7 – Inhalte der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“
 
 (1) Im Handlungsbereich „Lernprozesse und Lernbegleitung“ soll die Fähigkeit nachgewiesen werden, Prozesse individuellen und gemeinschaftlichen Lernens methodisch und didaktisch zu gestalten. Im Besonderen soll nachgewiesen werden, dass die individuellen Begabungen und Fähigkeiten Lernender erkannt, unterstützt und weiter entwickelt werden können. Dabei sollen kritisches Urteilsvermögen und innovative Denkansätze sichtbar werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -153,8 +143,7 @@ Die Prüfung wird schriftlich und mündlich durchgeführt.
 
 8. Finanzplanung unter Nutzung von Förderprogrammen und Fördermitteln.
 
-
-## § 8 – Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
+# § 8 – Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“
 
 (1) Im Handlungsbereich „Berufsausbildung“ soll die Fähigkeit nachgewiesen werden, Prozesse beruflicher Ausbildung ganzheitlich zu planen, zu organisieren, durchzuführen, ihre Qualität zu sichern und zu optimieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -202,8 +191,7 @@ Die Prüfung wird schriftlich und mündlich durchgeführt.
 
 6. Beratung von Führungskräften.
 
-
-## § 9 – Inhalte der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
+# § 9 – Inhalte der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“
 
 (1) Im Prüfungsteil „Spezielle berufspädagogische Funktionen“ soll die Fähigkeit nachgewiesen werden, den Prozess einer spezialisierten berufs- und betriebspädagogischen Funktion in einem konkreten projektförmig bearbeiteten Geschäftsfall zu entwickeln, zu planen, zu organisieren, durchzuführen und seine Qualität zu sichern und zu optimieren. Dabei sollen hochspezialisiertes Wissen deutlich und die wesentlichen betrieblichen, fachlichen, pädagogischen, wirtschaftlichen, zielgruppenspezifischen und organisatorischen Gesichtspunkte abgewogen und berücksichtigt werden.
 
@@ -221,8 +209,7 @@ Die Prüfung wird schriftlich und mündlich durchgeführt.
 
 Andere spezialisierte berufs- und betriebspädagogische Funktionen können zugelassen werden, soweit sie nach Breite und Tiefe den vorgenannten gleichwertig sind sowie im Rahmen der unter § 1 Absatz 2 Satz 2 genannten Aufgaben liegen.
 
-
-## § 10 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 10 – Befreiung von einzelnen Prüfungsbestandteilen
 
 (1) Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 11 und 12 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 11 Absatz 2 Satz 2, Absatz 3 Satz 2, Absatz 4 Satz 2 oder Satz 3 oder § 12 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
@@ -230,8 +217,7 @@ Andere spezialisierte berufs- und betriebspädagogische Funktionen können zugel
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Bewertung der Prüfungsleistungen
+# § 11 – Bewertung der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -253,8 +239,7 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Bestehen der Prüfung, Gesamtnote
+# § 12 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -290,8 +275,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Zeugnisse
+# § 13 – Zeugnisse
 
 (1) Wer die Prüfung nach § 12 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -305,8 +289,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Wiederholen der Prüfung
+# § 14 – Wiederholen der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -316,22 +299,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Übergangsregelung
+# § 15 – Übergangsregelung
 
 Die Prüfungen zu den Abschlüssen Berufspädagoge/Berufspädagogin und Berufspädagoge (IHK)/Berufspädagogin (IHK) können bis zum 31. Dezember 2013 nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 11 und 12)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 11 und 12)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2323 – 2324)
 
@@ -340,8 +320,7 @@ Diese Verordnung tritt am 1. September 2009 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 13)Zeugnisinhalte
+# Anlage 2 – (zu § 13)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2324 – 2325)
 

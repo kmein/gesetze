@@ -1,30 +1,23 @@
-# [OfenbAusbV] Verordnung über die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
-
-Ausfertigungsdatum: 06.04.2006
-
+% Verordnung über die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
+% Ausfertigungsdatum: 06.04.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074), die durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden sind, jeweils auch in Verbindung mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Ofen- und Luftheizungsbauer/Ofen- und Luftheizungsbauerin wird gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 2, Ofen- und Luftheizungsbauer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -64,23 +57,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 18. Kundenberatung.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -96,8 +85,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Messungen und Berechnungen durchführen, technische Unterlagen nutzen sowie den Zusammenhang von Technik, Arbeitssicherheit, Umweltschutz und Wirtschaftlichkeit berücksichtigen und mit praxisüblichen Unterlagen dokumentieren kann.
 
-
-## § 9 – Gesellenprüfung
+# § 9 – Gesellenprüfung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -131,8 +119,7 @@ Anfertigen eines Arbeitsplans zur Montage und Inbetriebnahme
 nach vorgegebenen Anforderungen. Dabei soll der Prüfling zeigen, dass er eine Auftragsanalyse unter Beachtung der technischen Regeln und baurechtlicher Vorgaben durchführen, die zur Montage und Inbetriebnahme notwendigen mechanischen und elektrischen Komponenten, Werkzeuge und Hilfsmittel auswählen, Montagepläne anpassen und die notwendigen Arbeitsschritte unter Berücksichtigung der Arbeitssicherheit und des Qualitätsmanagements planen kann.
 
 (5) Für den Prüfungsbereich Anlagenanalyse kommt insbesondere in Betracht:  
-Beschreiben der Vorgehensweise zur systematischen Eingrenzung von Fehlern in einer raumlufttechnischen Anlage oder einem Ofensystem nach vorgegebenen Anforderungen.  
-Dabei soll der Prüfling zeigen, dass er Maßnahmen zur Inbetriebnahme und zur Instandhaltung unter Berücksichtigung betrieblicher Abläufe planen, elektrische und hydraulische Schemata, Steuerungs- und Regelungsprogramme anwenden, Einstellwerte optimieren sowie funktionelle Zusammenhänge erkennen, mechanische, physikalische und elektrische Größen ermitteln sowie Anlagenverhalten begründen kann. Er soll ferner zeigen, dass er Prüfverfahren auswählen, Fehlerursachen feststellen und Lösungsvorschläge erarbeiten kann.
+Beschreiben der Vorgehensweise zur systematischen Eingrenzung von Fehlern in einer raumlufttechnischen Anlage oder einem Ofensystem nach vorgegebenen Anforderungen. Dabei soll der Prüfling zeigen, dass er Maßnahmen zur Inbetriebnahme und zur Instandhaltung unter Berücksichtigung betrieblicher Abläufe planen, elektrische und hydraulische Schemata, Steuerungs- und Regelungsprogramme anwenden, Einstellwerte optimieren sowie funktionelle Zusammenhänge erkennen, mechanische, physikalische und elektrische Größen ermitteln sowie Anlagenverhalten begründen kann. Er soll ferner zeigen, dass er Prüfverfahren auswählen, Fehlerursachen feststellen und Lösungsvorschläge erarbeiten kann.
 
 (6) Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:  
 Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
@@ -156,23 +143,19 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">60 Minuten.</td>
 
 (10) Die Prüfung ist bestanden, wenn im schriftlichen und praktischen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils darf keine ungenügende Leistung erbracht worden sein.
 
-
-## § 10 – Bestehende Berufsausbildungsverhältnisse
+# § 10 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 11 – Nichtanwenden von Vorschriften
+# § 11 – Nichtanwenden von Vorschriften
 
 Die fachlichen Vorschriften zur Regelung des Lehrlingswesens im Backofenbauerhandwerk vom 28. Januar 1963 sind für neue Ausbildungsverhältnisse nicht mehr anzuwenden.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Ofen- und Luftheizungsbauer/zur Ofen- und Luftheizungsbauerin
 
 (Fundstelle: BGBl. I 2006, 821 - 827)
 

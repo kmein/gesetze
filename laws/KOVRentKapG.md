@@ -1,15 +1,11 @@
-# [KOVRentKapG] Gesetz zur Sicherstellung der Grundrentenabfindung in der Kriegsopferversorgung  (Rentenkapitalisierungsgesetz-KOV)
-
-Ausfertigungsdatum: 27.04.1970
-
+% Gesetz zur Sicherstellung der Grundrentenabfindung in der Kriegsopferversorgung  (Rentenkapitalisierungsgesetz-KOV)
+% Ausfertigungsdatum: 27.04.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) An Stelle einer Kapitalabfindung nach den §§ 72 bis 80 des Bundesversorgungsgesetzes kann dem Berechtigten nach Maßgabe des Bundeshaushaltsplans ein Betrag in Höhe der Kapitalabfindung durch ein Kreditinstitut gewährt werden (Rentenkapitalisierung); das gilt auch, wenn die Kapitalabfindung bereits bewilligt, aber noch nicht ausgezahlt worden ist.
 
@@ -17,8 +13,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Das Kreditinstitut wird vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen beauftragt.
 
-
-## § 2
+# § 2
 
 (1) Für die Rentenkapitalisierung gelten die für Kapitalabfindungen nach dem Bundesversorgungsgesetz maßgebenden Vorschriften und Bestimmungen mit Ausnahme des § 74 Abs. 2 Satz 3, § 74 Abs. 3 Satz 3 und des § 76 Abs. 3 des Bundesversorgungsgesetzes entsprechend.
 
@@ -26,13 +21,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3)
 
-
-## § 3
+# § 3
 
 Gesetzliche Vorschriften, die dem Kapitalabfindungsberechtigten steuerliche und gebührenrechtliche Vergünstigungen gewähren, gelten für die Rentenkapitalisierung entsprechend.
 
-
-## § 4
+# § 4
 
 (1) Der Empfänger des Kapitalisierungsbetrags kann aus wichtigen Gründen mit Zustimmung der Verwaltungsbehörde vom Rentenkapitalisierungsvertrag zurücktreten.
 
@@ -46,12 +39,10 @@ Gesetzliche Vorschriften, die dem Kapitalabfindungsberechtigten steuerliche und 
 
 so geht der Anspruch auf Zahlung der Grundrente mit dem Ersten des auf die Rückzahlung folgenden Monats auf ihn über.
 
-
-## § 5
+# § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 6
+# § 6
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1970 in Kraft.

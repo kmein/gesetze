@@ -1,22 +1,17 @@
-# [DüBV] Verordnung über die Errichtung eines Wissenschaftlichen Beirats für Düngungsfragen  (Düngungsbeiratsverordnung - DüBV)
-
-Ausfertigungsdatum: 28.08.2003
-
+% Verordnung über die Errichtung eines Wissenschaftlichen Beirats für Düngungsfragen  (Düngungsbeiratsverordnung - DüBV)
+% Ausfertigungsdatum: 28.08.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 des Düngemittelgesetzes vom 15. November 1977 (BGBl. I S. 2134), der durch Artikel 4 Nr. 4 des Gesetzes vom 27. September 1994 (BGBl. I S. 2705) geändert worden ist, verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1 – Errichtung und Aufgaben des Beirats
+# § 1 – Errichtung und Aufgaben des Beirats
 
 (1) Beim Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ein Wissenschaftlicher Beirat für Düngungsfragen (Beirat) errichtet.
 
 (2) Der Beirat berät das Bundesministerium in Düngungsfragen durch gutachtliche Stellungnahmen und ist in seiner Tätigkeit unabhängig.
 
-
-## § 2 – Mitgliedschaft
+# § 2 – Mitgliedschaft
 
 (1) Der Beirat setzt sich aus zehn Wissenschaftlern und Wissenschaftlerinnen zusammen, die auf folgenden Fachgebieten tätig sind:
 
@@ -50,8 +45,7 @@ Die Mitglieder können ihr Ausscheiden aus dem Beirat gegenüber dem Bundesminis
 
 (5) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus. Notwendige Reisekosten werden auf Antrag nach den Richtlinien des Bundesministeriums der Finanzen über die Abfindung der Mitglieder von Beiräten, Ausschüssen, Kommissionen und ähnlichen Einrichtungen im Bereich des Bundes vom 9. November 1981 (GMBl. S. 515) in der jeweils geltenden Fassung erstattet.
 
-
-## § 3 – Vorsitz, Geschäftsführung, Geschäftsordnung
+# § 3 – Vorsitz, Geschäftsführung, Geschäftsordnung
 
 (1) Der Beirat wählt in geheimer Wahl mit der Mehrheit der Stimmen jeweils ein Mitglied in den Vorsitz und in den stellvertretenden Vorsitz.
 
@@ -61,7 +55,6 @@ Die Mitglieder können ihr Ausscheiden aus dem Beirat gegenüber dem Bundesminis
 
 (4) Der Beirat gibt sich eine Geschäftsordnung. Diese und deren Änderungen bedürfen der Zustimmung des Bundesministeriums.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

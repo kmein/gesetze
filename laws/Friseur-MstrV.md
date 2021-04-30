@@ -1,15 +1,11 @@
-# [Friseur-MstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Friseur-Handwerk  (Friseurmeisterverordnung - Friseur-MstrV)
-
-Ausfertigungsdatum: 19.04.2001
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Friseur-Handwerk  (Friseurmeisterverordnung - Friseur-MstrV)
+% Ausfertigungsdatum: 19.04.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 Die Meisterprüfung im Friseur-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -21,8 +17,7 @@ Die Meisterprüfung im Friseur-Handwerk umfasst folgende selbständige Prüfungs
 
 4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung im Friseur-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
@@ -58,8 +53,7 @@ Die Meisterprüfung im Friseur-Handwerk umfasst folgende selbständige Prüfungs
 
 15. Handpflege, Maniküre sowie Nagelgestaltung durchführen.
 
-
-## § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -73,8 +67,7 @@ Die Meisterprüfung im Friseur-Handwerk umfasst folgende selbständige Prüfungs
 
 (4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Der Kundenauftrag ist so zu gestalten, dass er modische Friseur- und Kosmetikdienstleistungen für einen besonderen Anlass zum Inhalt hat und folgende Elemente enthält:
 
@@ -96,13 +89,11 @@ Die Meisterprüfung im Friseur-Handwerk umfasst folgende selbständige Prüfungs
 
 Die Entwurfs-, Planungs- und Berechnungsunterlagen sowie das Erstellen eines Angebots werden zusammen mit 30 vom Hundert, das Ausführen der Arbeiten mit 70 vom Hundert gewichtet. In die Bewertung des Ausführens der Arbeiten gehen die Elemente nach Absatz 1 Nr. 1 mit 50 vom Hundert, die Elemente nach Absatz 1 Nr. 2 mit 30 vom Hundert und die Elemente nach Absatz 1 Nr. 3 mit 20 vom Hundert ein.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) In der Situationsaufgabe sind die wesentlichen Kenntnisse und Fertigkeiten zu prüfen, die im Meisterprüfungsprojekt nicht oder nur unzureichend nachgewiesen werden konnten.
 
@@ -126,8 +117,7 @@ Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fa
 
 (3) Bei der Gesamtbewertung der Situationsaufgabe werden die Arbeiten nach Absatz 2 Nr. 1 bis 3 gegenüber den übrigen Arbeiten doppelt gewichtet.
 
-
-## § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung gestalterischer, technologischer, betriebsorganisatorischer sowie kommunikationsbezogener Kenntnisse nachweisen, dass er Aufgaben des Salonmanagements wahrnehmen und dabei Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
 
@@ -199,19 +189,16 @@ k) Informations- und Kommunikationssysteme in Bezug auf ihre betrieblichen Einsa
 
 (+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
 
-
-## § 8 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 8 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2001 in Kraft.

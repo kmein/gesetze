@@ -1,15 +1,11 @@
-# [FlaggAnO 1996] Anordnung über die deutschen Flaggen
-
-Ausfertigungsdatum: 13.11.1996
-
+% Anordnung über die deutschen Flaggen
+% Ausfertigungsdatum: 13.11.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Vorschlag der Bundesregierung bestimme ich zur Form und Führung der deutschen Flaggen:
 
-
-## I.
+# I.
 
 1. Die Bundesflagge besteht aus drei gleich breiten Querstreifen, oben schwarz, in der Mitte rot, unten goldfarben, Verhältnis der Höhe zur Länge des Flaggentuches wie 3 zu 5. Die Bundesflagge kann auch in Form eines Banners geführt werden. Das Banner besteht aus drei gleich breiten Längsstreifen, links schwarz, in der Mitte rot, rechts goldfarben.
 
@@ -19,45 +15,37 @@ Auf Vorschlag der Bundesregierung bestimme ich zur Form und Führung der deutsch
 
 4. Die Muster zu den Nummern 1 bis 3 sind in Anhang 1 wiedergegeben.
 
-
-## II.
+# II.
 
 Alle Stellen des Bundes führen die Bundesdienstflagge. Der Bundespräsident oder die Bundespräsidentin führt die Standarte am jeweiligen Amtssitz. Dienstgebäude des Bundes können mit der Bundesflagge oder mit der Bundesdienstflagge beflaggt werden; dies gilt auch für Wasserfahrzeuge im öffentlichen Dienst des Bundes.
 
-
-## III.
+# III.
 
 An Dienstkraftfahrzeugen können bei dienstlichen Fahrten die in den Anhängen 2 und 3 beschriebenen Flaggen geführt werden, wenn sich der Amtsinhaber oder die Amtsinhaberin oder in den in Nummer 2 des Anhangs 2 bezeichneten Fällen der Stellvertreter oder die Stellvertreterin im Fahrzeug befindet. Die Flagge ist am rechten Kotflügel anzubringen.
 
-
-## IV.
+# IV.
 
 Über Änderungen des Anhangs 2 sowie bei Zweifeln hinsichtlich der Berechtigung zum Führen der Bundesdienstflagge oder des anzuwendenden Musters nach Anhang 3 entscheidet das Bundesministerium des Innern im Benehmen mit dem jeweils zuständigen Verfassungsorgan oder Bundesministerium.
 
-
-## V.
+# V.
 
 1. Die Führung der Bundesdienstflagge an Dienstkraftfahrzeugen der deutschen Vertretungen im Ausland regelt das Auswärtige Amt.
 
 2. Die Flaggenführung bei der Bundeswehr und bei der Bundespolizei wird besonders geregelt.
 
-
-## VI.
+# VI.
 
 Diese Anordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundespräsident
 
-
-## Anhang 1 – Flaggen der Bundesrepublik Deutschland
+# Anhang 1 – Flaggen der Bundesrepublik Deutschland
 
 (Fundstelle: BGBl. I 1996, S. 1730)
 
-
-## Anhang 2
+# Anhang 2
 
 (1) An Dienstkraftfahrzeugen führen  
 
@@ -203,5 +191,4 @@ die Bundesdienstflagge in der Größe 15 x 25 cm (Muster IV).
 
 (2) Absatz 1 Nr. 3 Buchstabe c bis f und Nr. 4 Buchstabe a, c und d gilt entsprechend für die Stellvertreter und Stellvertreterinnen, wenn sie die Vertretung ausüben.
 
-
-## Anhang 3 – Flaggen für Dienstkraftfahrzeuge
+# Anhang 3 – Flaggen für Dienstkraftfahrzeuge

@@ -1,10 +1,7 @@
-# [Münz10EuroBek 2010-04] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200. Geburtstag des Komponisten Robert Schumann“)
-
-Ausfertigungsdatum: 15.04.2010
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200. Geburtstag des Komponisten Robert Schumann“)
+% Ausfertigungsdatum: 15.04.2010
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 10-Euro-Gedenkmünze „200. Geburtstag des Komponisten Robert Schumann“ prägen zu lassen.
 
@@ -24,10 +21,8 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf stammt von dem Künstler Professor Christian Höpfner, Berlin.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----

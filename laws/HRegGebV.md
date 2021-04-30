@@ -1,20 +1,15 @@
-# [HRegGebV] Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen  (Handelsregistergebührenverordnung - HRegGebV)
-
-Ausfertigungsdatum: 30.09.2004
-
+% Verordnung über Gebühren in Handels-, Partnerschafts- und Genossenschaftsregistersachen  (Handelsregistergebührenverordnung - HRegGebV)
+% Ausfertigungsdatum: 30.09.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 79a der Kostenordnung, der durch Artikel 1 Nr. 7 des Gesetzes vom 3. Juli 2004 (BGBl. I S. 1410) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Gebührenverzeichnis
+# § 1 – Gebührenverzeichnis
 
 Für Eintragungen in das Handels-, Partnerschafts- oder Genossenschaftsregister, die Entgegennahme, Prüfung und Aufbewahrung der zum Handels- oder Genossenschaftsregister einzureichenden Unterlagen sowie die Übertragung von Schriftstücken in ein elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs werden Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben. Satz 1 gilt nicht für die aus Anlass eines Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen und für Löschungen nach § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-
-## § 2 – Allgemeine Vorschriften
+# § 2 – Allgemeine Vorschriften
 
 (1) Neben der Gebühr für die Ersteintragung werden nur Gebühren für die gleichzeitig angemeldete Eintragung der Errichtung einer Zweigniederlassung und für die Eintragung einer Prokura gesondert erhoben.
 
@@ -40,40 +35,33 @@ und die gleichzeitige Anmeldung der Änderung der inländischen Geschäftsanschr
 
 (4) Anmeldungen, die am selben Tag beim Registergericht eingegangen sind und dasselbe Unternehmen betreffen, werden als eine Anmeldung behandelt.
 
-
-## § 2a – Recht der Europäischen Union
+# § 2a – Recht der Europäischen Union
 
 Umwandlungen und Verschmelzungen nach dem Recht der Europäischen Union stehen hinsichtlich der Gebühren den Umwandlungen nach dem Umwandlungsgesetz gleich.
 
-
-## § 3 – Zurücknahme
+# § 3 – Zurücknahme
 
 (1) Wird eine Anmeldung zurückgenommen, bevor die Eintragung erfolgt oder die Anmeldung zurückgewiesen worden ist, sind 120 Prozent der für die Eintragung bestimmten Gebühren zu erheben. Bei der Zurücknahme einer angemeldeten Ersteintragung bleiben die Gebühren für die gleichzeitig angemeldete Eintragung der Errichtung einer Zweigniederlassung und für die Eintragung einer Prokura unberücksichtigt.
 
 (2) Erfolgt die Zurücknahme spätestens am Tag bevor eine Entscheidung des Gerichts mit der Bestimmung einer angemessenen Frist zur Beseitigung eines Hindernisses (§ 382 Absatz 4 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) unterzeichnet wird, beträgt die Gebühr 75 Prozent der für die Eintragung bestimmten Gebühr, höchstens jedoch 250 Euro. Der unterzeichneten Entscheidung steht ein gerichtliches elektronisches Dokument gleich (§ 14 Absatz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit § 130b der Zivilprozessordnung). Betrifft eine Anmeldung mehrere Tatsachen, betragen in den Fällen der Sätze 1 und 2 die auf die zurückgenommenen Teile der Anmeldung entfallenden Gebühren insgesamt höchstens 250 Euro.
 
-
-## § 4 – Zurückweisung
+# § 4 – Zurückweisung
 
 Wird eine Anmeldung zurückgewiesen, sind 170 Prozent der für die Eintragung bestimmten Gebühren zu erheben. Bei der Zurückweisung einer angemeldeten Ersteintragung bleiben die Gebühren für die gleichzeitig angemeldete Eintragung der Errichtung einer Zweigniederlassung und für die Eintragung einer Prokura unberücksichtigt.
 
-
-## § 5 – Zurücknahme oder Zurückweisung in besonderen Fällen
+# § 5 – Zurücknahme oder Zurückweisung in besonderen Fällen
 
 Wird die Anmeldung einer sonstigen späteren Eintragung, die mehrere Tatsachen zum Gegenstand hat, teilweise zurückgenommen oder zurückgewiesen, ist für jeden zurückgenommenen oder zurückgewiesenen Teil von den Gebühren 1503, 2501 und 3501 des Gebührenverzeichnisses auszugehen. § 3 Absatz 2 bleibt unberührt.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 5a – Übergangsvorschrift
+# § 5a – Übergangsvorschrift
 
 Für Kosten, die vor dem Inkrafttreten einer Änderung der Rechtsverordnung fällig geworden sind, gilt das bisherige Recht.
 
-
-## Anlage – (zu § 1)
+# Anlage – (zu § 1)
 
 (Fundstelle: BGBl. I 2010, 1732 – 1736;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -88,10 +76,7 @@ Gebührentatbestand
 Gebührenbetrag
 
 Vorbemerkung 1:  
- (1) Für Eintragungen, die juristische Personen (§ 33 HGB) und Europäische wirtschaftliche Interessenvereinigungen betreffen, bestimmen sich die Gebühren nach den für Eintragungen bei Gesellschaften mit bis zu 3 eingetragenen Gesellschaftern geltenden Vorschriften. Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen eines Unternehmens mit Hauptniederlassung oder Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Unternehmen geltenden Vorschriften sind anzuwenden.  
- (2) Wird die Hauptniederlassung oder der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register der bisherigen Hauptniederlassung oder des bisherigen Sitzes keine Gebühr erhoben.  
- (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.  
- (4) Für die Eintragung des Erlöschens der Firma oder des Namens sowie des Schlusses der Abwicklung einer Europäischen wirtschaftlichen Interessenvereinigung werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt.
+ (1) Für Eintragungen, die juristische Personen (§ 33 HGB) und Europäische wirtschaftliche Interessenvereinigungen betreffen, bestimmen sich die Gebühren nach den für Eintragungen bei Gesellschaften mit bis zu 3 eingetragenen Gesellschaftern geltenden Vorschriften. Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen eines Unternehmens mit Hauptniederlassung oder Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Unternehmen geltenden Vorschriften sind anzuwenden.  (2) Wird die Hauptniederlassung oder der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register der bisherigen Hauptniederlassung oder des bisherigen Sitzes keine Gebühr erhoben.  (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.  (4) Für die Eintragung des Erlöschens der Firma oder des Namens sowie des Schlusses der Abwicklung einer Europäischen wirtschaftlichen Interessenvereinigung werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt.
 
  
 
@@ -361,10 +346,7 @@ Gebührentatbestand
 Gebührenbetrag
 
 Vorbemerkung 2:  
- (1) Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen eines Unternehmens mit Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Unternehmen geltenden Vorschriften sind anzuwenden.  
- (2) Wird der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register des bisherigen Sitzes keine Gebühr erhoben.  
- (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.  
- (4) Für die Eintragung der Löschung der Gesellschaft und des Schlusses der Abwicklung oder der Liquidation werden keine Gebühren erhoben; die Gebühren 2402 und 2403 bleiben unberührt.
+ (1) Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen eines Unternehmens mit Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Unternehmen geltenden Vorschriften sind anzuwenden.  (2) Wird der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register des bisherigen Sitzes keine Gebühr erhoben.  (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.  (4) Für die Eintragung der Löschung der Gesellschaft und des Schlusses der Abwicklung oder der Liquidation werden keine Gebühren erhoben; die Gebühren 2402 und 2403 bleiben unberührt.
 
  
 
@@ -618,10 +600,7 @@ Gebührentatbestand
 Gebührenbetrag
 
 Vorbemerkung 3:  
- (1) Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen einer Europäischen Genossenschaft mit Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Genossenschaften geltenden Vorschriften sind anzuwenden.  
- (2) Wird der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register des bisherigen Sitzes keine Gebühr erhoben.  
- (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.  
- (4) Für die Eintragung des Erlöschens der Genossenschaft werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt.
+ (1) Hinsichtlich der Gebühren für Eintragungen, die Zweigniederlassungen einer Europäischen Genossenschaft mit Sitz im Ausland betreffen, bleibt der Umstand, dass es sich um eine Zweigniederlassung handelt, unberücksichtigt; die allgemein für inländische Genossenschaften geltenden Vorschriften sind anzuwenden.  (2) Wird der Sitz in den Bezirk eines anderen Gerichts verlegt, wird für die Eintragung im Register des bisherigen Sitzes keine Gebühr erhoben.  (3) Für Eintragungen, die Prokuren betreffen, sind ausschließlich Gebühren nach Teil 4 zu erheben.  (4) Für die Eintragung des Erlöschens der Genossenschaft werden keine Gebühren erhoben; die Gebühren in Abschnitt 4 bleiben unberührt.
 
  
 

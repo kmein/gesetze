@@ -1,15 +1,11 @@
-# [NachwG] Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesentlichen Bedingungen  (Nachweisgesetz - NachwG)
-
-Ausfertigungsdatum: 20.07.1995
-
+% Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesentlichen Bedingungen  (Nachweisgesetz - NachwG)
+% Ausfertigungsdatum: 20.07.1995
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für alle Arbeitnehmer, es sei denn, daß sie nur zur vorübergehenden Aushilfe von höchstens einem Monat eingestellt werden. Praktikanten, die gemäß § 22 Absatz 1 des Mindestlohngesetzes als Arbeitnehmer gelten, sind Arbeitnehmer im Sinne dieses Gesetzes.
 
-
-## § 2 – Nachweispflicht
+# § 2 – Nachweispflicht
 
 (1) Der Arbeitgeber hat spätestens einen Monat nach dem vereinbarten Beginn des Arbeitsverhältnisses die wesentlichen Vertragsbedingungen schriftlich niederzulegen, die Niederschrift zu unterzeichnen und dem Arbeitnehmer auszuhändigen. In die Niederschrift sind mindestens aufzunehmen:
 
@@ -67,17 +63,14 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 (4) Wenn dem Arbeitnehmer ein schriftlicher Arbeitsvertrag ausgehändigt worden ist, entfällt die Verpflichtung nach den Absätzen 1 und 2, soweit der Vertrag die in den Absätzen 1 bis 3 geforderten Angaben enthält.
 
-
-## § 3 – Änderung der Angaben
+# § 3 – Änderung der Angaben
 
 Eine Änderung der wesentlichen Vertragsbedingungen ist dem Arbeitnehmer spätestens einen Monat nach der Änderung schriftlich mitzuteilen. Satz 1 gilt nicht bei einer Änderung der gesetzlichen Vorschriften, Tarifverträge, Betriebs- oder Dienstvereinbarungen und ähnlichen Regelungen, die für das Arbeitsverhältnis gelten.
 
-
-## § 4 – Übergangsvorschrift
+# § 4 – Übergangsvorschrift
 
 Hat das Arbeitsverhältnis bereits bei Inkrafttreten dieses Gesetzes bestanden, so ist dem Arbeitnehmer auf sein Verlangen innerhalb von zwei Monaten eine Niederschrift im Sinne des § 2 auszuhändigen. Soweit eine früher ausgestellte Niederschrift oder ein schriftlicher Arbeitsvertrag die nach diesem Gesetz erforderlichen Angaben enthält, entfällt diese Verpflichtung.
 
-
-## § 5 – Unabdingbarkeit
+# § 5 – Unabdingbarkeit
 
 Von den Vorschriften dieses Gesetzes kann nicht zuungunsten des Arbeitnehmers abgewichen werden.

@@ -1,10 +1,7 @@
-# [SGB 12] Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)
-
-Ausfertigungsdatum: 27.12.2003
-
+% Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)
+% Ausfertigungsdatum: 27.12.2003
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 Erstes Kapitel
 
@@ -1150,20 +1147,17 @@ Anlage zu § 28
 
 Anlage zu § 34
 
-
-## § 1 – Aufgabe der Sozialhilfe
+# § 1 – Aufgabe der Sozialhilfe
 
 Aufgabe der Sozialhilfe ist es, den Leistungsberechtigten die Führung eines Lebens zu ermöglichen, das der Würde des Menschen entspricht. Die Leistung soll sie so weit wie möglich befähigen, unabhängig von ihr zu leben; darauf haben auch die Leistungsberechtigten nach ihren Kräften hinzuarbeiten. Zur Erreichung dieser Ziele haben die Leistungsberechtigten und die Träger der Sozialhilfe im Rahmen ihrer Rechte und Pflichten zusammenzuwirken.
 
-
-## § 2 – Nachrang der Sozialhilfe
+# § 2 – Nachrang der Sozialhilfe
 
 (1) Sozialhilfe erhält nicht, wer sich vor allem durch Einsatz seiner Arbeitskraft, seines Einkommens und seines Vermögens selbst helfen kann oder wer die erforderliche Leistung von anderen, insbesondere von Angehörigen oder von Trägern anderer Sozialleistungen, erhält.
 
 (2) Verpflichtungen anderer, insbesondere Unterhaltspflichtiger oder der Träger anderer Sozialleistungen, bleiben unberührt. Auf Rechtsvorschriften beruhende Leistungen anderer dürfen nicht deshalb versagt werden, weil nach dem Recht der Sozialhilfe entsprechende Leistungen vorgesehen sind.
 
-
-## § 3 – Träger der Sozialhilfe
+# § 3 – Träger der Sozialhilfe
 
 (1) Die Sozialhilfe wird von örtlichen und überörtlichen Trägern geleistet.
 
@@ -1171,8 +1165,7 @@ Aufgabe der Sozialhilfe ist es, den Leistungsberechtigten die Führung eines Leb
 
 (3) Die Länder bestimmen die überörtlichen Träger der Sozialhilfe.
 
-
-## § 4 – Zusammenarbeit
+# § 4 – Zusammenarbeit
 
 (1) Die Träger der Sozialhilfe arbeiten mit anderen Stellen, deren gesetzliche Aufgaben dem gleichen Ziel dienen oder die an Leistungen beteiligt sind oder beteiligt werden sollen, zusammen, insbesondere mit den Trägern von Leistungen nach dem Zweiten, dem Achten, dem Neunten und dem Elften Buch, sowie mit anderen Trägern von Sozialleistungen und mit Verbänden. Darüber hinaus sollen die Träger der Sozialhilfe gemeinsam mit den Beteiligten der Pflegestützpunkte nach § 7c des Elften Buches alle für die wohnortnahe Versorgung und Betreuung in Betracht kommenden Hilfe- und Unterstützungsangebote koordinieren. Die Rahmenverträge nach § 7a Absatz 7 des Elften Buches sind zu berücksichtigen und die Empfehlungen nach § 8a des Elften Buches sollen berücksichtigt werden.
 
@@ -1180,8 +1173,7 @@ Aufgabe der Sozialhilfe ist es, den Leistungsberechtigten die Führung eines Leb
 
 (3) Soweit eine Verarbeitung personenbezogener Daten erfolgt, ist das Nähere in einer Vereinbarung zu regeln.
 
-
-## § 5 – Verhältnis zur freien Wohlfahrtspflege
+# § 5 – Verhältnis zur freien Wohlfahrtspflege
 
 (1) Die Stellung der Kirchen und Religionsgesellschaften des öffentlichen Rechts sowie der Verbände der freien Wohlfahrtspflege als Träger eigener sozialer Aufgaben und ihre Tätigkeit zur Erfüllung dieser Aufgaben werden durch dieses Buch nicht berührt.
 
@@ -1195,20 +1187,17 @@ Aufgabe der Sozialhilfe ist es, den Leistungsberechtigten die Führung eines Leb
 
 (6) § 4 Abs. 3 findet entsprechende Anwendung.
 
-
-## § 6 – Fachkräfte
+# § 6 – Fachkräfte
 
 (1) Bei der Durchführung der Aufgaben dieses Buches werden Personen beschäftigt, die sich hierfür nach ihrer Persönlichkeit eignen und in der Regel entweder eine ihren Aufgaben entsprechende Ausbildung erhalten haben oder über vergleichbare Erfahrungen verfügen.
 
 (2) Die Träger der Sozialhilfe gewährleisten für die Erfüllung ihrer Aufgaben eine angemessene fachliche Fortbildung ihrer Fachkräfte. Diese umfasst auch die Durchführung von Dienstleistungen, insbesondere von Beratung und Unterstützung.
 
-
-## § 7 – Aufgabe der Länder
+# § 7 – Aufgabe der Länder
 
 Die obersten Landessozialbehörden unterstützen die Träger der Sozialhilfe bei der Durchführung ihrer Aufgaben nach diesem Buch. Dabei sollen sie insbesondere den Erfahrungsaustausch zwischen den Trägern der Sozialhilfe sowie die Entwicklung und Durchführung von Instrumenten der Dienstleistungen, der zielgerichteten Erbringung und Überprüfung von Leistungen und der Qualitätssicherung fördern.
 
-
-## § 8 – Leistungen
+# § 8 – Leistungen
 
 Die Sozialhilfe umfasst:
 
@@ -1226,8 +1215,7 @@ Die Sozialhilfe umfasst:
 
 sowie die jeweils gebotene Beratung und Unterstützung.
 
-
-## § 9 – Sozialhilfe nach der Besonderheit des Einzelfalles
+# § 9 – Sozialhilfe nach der Besonderheit des Einzelfalles
 
 (1) Die Leistungen richten sich nach der Besonderheit des Einzelfalles, insbesondere nach der Art des Bedarfs, den örtlichen Verhältnissen, den eigenen Kräften und Mitteln der Person oder des Haushalts bei der Hilfe zum Lebensunterhalt.
 
@@ -1235,8 +1223,7 @@ sowie die jeweils gebotene Beratung und Unterstützung.
 
 (3) Auf Wunsch der Leistungsberechtigten sollen sie in einer Einrichtung untergebracht werden, in der sie durch Geistliche ihres Bekenntnisses betreut werden können.
 
-
-## § 10 – Leistungsformen
+# § 10 – Leistungsformen
 
 (1) Die Leistungen werden erbracht in Form von
 
@@ -1250,8 +1237,7 @@ sowie die jeweils gebotene Beratung und Unterstützung.
 
 (3) Geldleistungen haben Vorrang vor Gutscheinen oder Sachleistungen, soweit dieses Buch nicht etwas anderes bestimmt oder mit Gutscheinen oder Sachleistungen das Ziel der Sozialhilfe erheblich besser oder wirtschaftlicher erreicht werden kann oder die Leistungsberechtigten es wünschen.
 
-
-## § 11 – Beratung und Unterstützung, Aktivierung
+# § 11 – Beratung und Unterstützung, Aktivierung
 
 (1) Zur Erfüllung der Aufgaben dieses Buches werden die Leistungsberechtigten beraten und, soweit erforderlich, unterstützt.
 
@@ -1271,49 +1257,41 @@ Ihnen darf eine Tätigkeit insbesondere nicht zugemutet werden, soweit dadurch d
 
 (5) Auf die Beratung und Unterstützung von Verbänden der freien Wohlfahrtspflege, von Angehörigen der rechtsberatenden Berufe und von sonstigen Stellen ist zunächst hinzuweisen. Ist die weitere Beratung durch eine Schuldnerberatungsstelle oder andere Fachberatungsstellen geboten, ist auf ihre Inanspruchnahme hinzuwirken. Angemessene Kosten einer Beratung nach Satz 2 sollen übernommen werden, wenn eine Lebenslage, die Leistungen der Hilfe zum Lebensunterhalt erforderlich macht oder erwarten lässt, sonst nicht überwunden werden kann; in anderen Fällen können Kosten übernommen werden. Die Kostenübernahme kann auch in Form einer pauschalierten Abgeltung der Leistung der Schuldnerberatungsstelle oder anderer Fachberatungsstellen erfolgen.
 
-
-## § 12 – Leistungsabsprache
+# § 12 – Leistungsabsprache
 
 Vor oder spätestens bis zu vier Wochen nach Beginn fortlaufender Leistungen sollen in einer schriftlichen Leistungsabsprache die Situation der leistungsberechtigten Personen sowie gegebenenfalls Wege zur Überwindung der Notlage und zu gebotenen Möglichkeiten der aktiven Teilnahme in der Gemeinschaft gemeinsam festgelegt und die Leistungsabsprache unterzeichnet werden. Soweit es auf Grund bestimmbarer Bedarfe erforderlich ist, ist ein Förderplan zu erstellen und in die Leistungsabsprache einzubeziehen. Sind Leistungen im Hinblick auf die sie tragenden Ziele zu überprüfen, kann dies in der Leistungsabsprache näher festgelegt werden. Die Leistungsabsprache soll regelmäßig gemeinsam überprüft und fortgeschrieben werden. Abweichende Regelungen in diesem Buch gehen vor.
 
-
-## § 13 – Leistungen für Einrichtungen, Vorrang anderer Leistungen
+# § 13 – Leistungen für Einrichtungen, Vorrang anderer Leistungen
 
 (1) Die Leistungen nach dem Fünften bis Neunten Kapitel können entsprechend den Erfordernissen des Einzelfalles für die Deckung des Bedarfs außerhalb von Einrichtungen (ambulante Leistungen), für teilstationäre oder stationäre Einrichtungen (teilstationäre oder stationäre Leistungen) erbracht werden. Vorrang haben ambulante Leistungen vor teilstationären und stationären Leistungen sowie teilstationäre vor stationären Leistungen. Der Vorrang der ambulanten Leistung gilt nicht, wenn eine Leistung für eine geeignete stationäre Einrichtung zumutbar und eine ambulante Leistung mit unverhältnismäßigen Mehrkosten verbunden ist. Bei der Entscheidung ist zunächst die Zumutbarkeit zu prüfen. Dabei sind die persönlichen, familiären und örtlichen Umstände angemessen zu berücksichtigen. Bei Unzumutbarkeit ist ein Kostenvergleich nicht vorzunehmen.
 
 (2) Einrichtungen im Sinne des Absatzes 1 sind alle Einrichtungen, die der Pflege, der Behandlung oder sonstigen nach diesem Buch zu deckenden Bedarfe oder der Erziehung dienen.
 
+# § 14 – (weggefallen)
 
-## § 14 – (weggefallen)
-
-
-## § 15 – Vorbeugende und nachgehende Leistungen
+# § 15 – Vorbeugende und nachgehende Leistungen
 
 (1) Die Sozialhilfe soll vorbeugend geleistet werden, wenn dadurch eine drohende Notlage ganz oder teilweise abgewendet werden kann. § 47 ist vorrangig anzuwenden.
 
 (2) Die Sozialhilfe soll auch nach Beseitigung einer Notlage geleistet werden, wenn dies geboten ist, um die Wirksamkeit der zuvor erbrachten Leistung zu sichern.
 
-
-## § 16 – Familiengerechte Leistungen
+# § 16 – Familiengerechte Leistungen
 
 Bei Leistungen der Sozialhilfe sollen die besonderen Verhältnisse in der Familie der Leistungsberechtigten berücksichtigt werden. Die Sozialhilfe soll die Kräfte der Familie zur Selbsthilfe anregen und den Zusammenhalt der Familie festigen.
 
-
-## § 17 – Anspruch
+# § 17 – Anspruch
 
 (1) Auf Sozialhilfe besteht ein Anspruch, soweit bestimmt wird, dass die Leistung zu erbringen ist. Der Anspruch kann nicht übertragen, verpfändet oder gepfändet werden.
 
 (2) Über Art und Maß der Leistungserbringung ist nach pflichtmäßigem Ermessen zu entscheiden, soweit das Ermessen nicht ausgeschlossen wird. Werden Leistungen auf Grund von Ermessensentscheidungen erbracht, sind die Entscheidungen im Hinblick auf die sie tragenden Gründe und Ziele zu überprüfen und im Einzelfall gegebenenfalls abzuändern.
 
-
-## § 18 – Einsetzen der Sozialhilfe
+# § 18 – Einsetzen der Sozialhilfe
 
 (1) Die Sozialhilfe, mit Ausnahme der Leistungen der Grundsicherung im Alter und bei Erwerbsminderung, setzt ein, sobald dem Träger der Sozialhilfe oder den von ihm beauftragten Stellen bekannt wird, dass die Voraussetzungen für die Leistung vorliegen.
 
 (2) Wird einem nicht zuständigen Träger der Sozialhilfe oder einer nicht zuständigen Gemeinde im Einzelfall bekannt, dass Sozialhilfe beansprucht wird, so sind die darüber bekannten Umstände dem zuständigen Träger der Sozialhilfe oder der von ihm beauftragten Stelle unverzüglich mitzuteilen und vorhandene Unterlagen zu übersenden. Ergeben sich daraus die Voraussetzungen für die Leistung, setzt die Sozialhilfe zu dem nach Satz 1 maßgebenden Zeitpunkt ein.
 
-
-## § 19 – Leistungsberechtigte
+# § 19 – Leistungsberechtigte
 
 (1) Hilfe zum Lebensunterhalt nach dem Dritten Kapitel ist Personen zu leisten, die ihren notwendigen Lebensunterhalt nicht oder nicht ausreichend aus eigenen Kräften und Mitteln, insbesondere aus ihrem Einkommen und Vermögen, bestreiten können.
 
@@ -1327,18 +1305,15 @@ Bei Leistungen der Sozialhilfe sollen die besonderen Verhältnisse in der Famili
 
 (6) Der Anspruch der Berechtigten auf Leistungen für Einrichtungen oder auf Pflegegeld steht, soweit die Leistung den Berechtigten erbracht worden wäre, nach ihrem Tode demjenigen zu, der die Leistung erbracht oder die Pflege geleistet hat.
 
-
-## § 20 – Eheähnliche Gemeinschaft
+# § 20 – Eheähnliche Gemeinschaft
 
 Personen, die in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft leben, dürfen hinsichtlich der Voraussetzungen sowie des Umfangs der Sozialhilfe nicht besser gestellt werden als Ehegatten. § 39 gilt entsprechend.
 
-
-## § 21 – Sonderregelung für Leistungsberechtigte nach dem Zweiten Buch
+# § 21 – Sonderregelung für Leistungsberechtigte nach dem Zweiten Buch
 
 Personen, die nach dem Zweiten Buch als Erwerbsfähige oder als Angehörige dem Grunde nach leistungsberechtigt sind, erhalten keine Leistungen für den Lebensunterhalt. Abweichend von Satz 1 können Personen, die nicht hilfebedürftig nach § 9 des Zweiten Buches sind, Leistungen nach § 36 erhalten. Bestehen über die Zuständigkeit zwischen den beteiligten Leistungsträgern unterschiedliche Auffassungen, so ist der zuständige Träger der Sozialhilfe für die Leistungsberechtigung nach dem Dritten oder Vierten Kapitel an die Feststellung einer vollen Erwerbsminderung im Sinne des § 43 Absatz 2 Satz 2 des Sechsten Buches und nach Abschluss des Widerspruchsverfahrens an die Entscheidung der Agentur für Arbeit zur Erwerbsfähigkeit nach § 44a Absatz 1 des Zweiten Buches gebunden.
 
-
-## § 22 – Sonderregelungen für Auszubildende
+# § 22 – Sonderregelungen für Auszubildende
 
 (1) Auszubildende, deren Ausbildung im Rahmen des Bundesausbildungsförderungsgesetzes oder der §§ 51, 57 und 58 des Dritten Buches dem Grunde nach förderungsfähig ist, haben keinen Anspruch auf Leistungen nach dem Dritten und Vierten Kapitel. In besonderen Härtefällen können Leistungen nach dem Dritten oder Vierten Kapitel als Beihilfe oder Darlehen gewährt werden.
 
@@ -1350,8 +1325,7 @@ Personen, die nach dem Zweiten Buch als Erwerbsfähige oder als Angehörige dem 
 
 3. die eine Abendhauptschule, eine Abendrealschule oder ein Abendgymnasium besuchen, sofern sie aufgrund von § 10 Abs. 3 des Bundesausbildungsförderungsgesetzes keinen Anspruch auf Ausbildungsförderung haben.
 
-
-## § 23 – Sozialhilfe für Ausländerinnen und Ausländer
+# § 23 – Sozialhilfe für Ausländerinnen und Ausländer
 
 (1) Ausländern, die sich im Inland tatsächlich aufhalten, ist Hilfe zum Lebensunterhalt, Hilfe bei Krankheit, Hilfe bei Schwangerschaft und Mutterschaft sowie Hilfe zur Pflege nach diesem Buch zu leisten. Die Vorschriften des Vierten Kapitels bleiben unberührt. Im Übrigen kann Sozialhilfe geleistet werden, soweit dies im Einzelfall gerechtfertigt ist. Die Einschränkungen nach Satz 1 gelten nicht für Ausländer, die im Besitz einer Niederlassungserlaubnis oder eines befristeten Aufenthaltstitels sind und sich voraussichtlich dauerhaft im Bundesgebiet aufhalten. Rechtsvorschriften, nach denen außer den in Satz 1 genannten Leistungen auch sonstige Sozialhilfe zu leisten ist oder geleistet werden soll, bleiben unberührt.
 
@@ -1383,8 +1357,7 @@ Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberecht
 
 (5) Hält sich ein Ausländer entgegen einer räumlichen Beschränkung im Bundesgebiet auf oder wählt er seinen Wohnsitz entgegen einer Wohnsitzauflage oder einer Wohnsitzregelung nach § 12a des Aufenthaltsgesetzes im Bundesgebiet, darf der für den Aufenthaltsort örtlich zuständige Träger nur die nach den Umständen des Einzelfalls gebotene Leistung erbringen. Unabweisbar geboten ist regelmäßig nur eine Reisebeihilfe zur Deckung des Bedarfs für die Reise zu dem Wohnort, an dem ein Ausländer seinen Wohnsitz zu nehmen hat. In den Fällen des § 12a Absatz 1 und 4 des Aufenthaltsgesetzes ist regelmäßig eine Reisebeihilfe zu dem Ort im Bundesgebiet zu gewähren, an dem der Ausländer die Wohnsitznahme begehrt und an dem seine Wohnsitznahme zulässig ist. Der örtlich zuständige Träger am Aufenthaltsort informiert den bislang örtlich zuständigen Träger darüber, ob Leistungen nach Satz 1 bewilligt worden sind. Die Sätze 1 und 2 gelten auch für Ausländer, die eine räumlich nicht beschränkte Aufenthaltserlaubnis nach den §§ 23a, 24 Absatz 1 oder § 25 Absatz 4 oder 5 des Aufenthaltsgesetzes besitzen, wenn sie sich außerhalb des Landes aufhalten, in dem der Aufenthaltstitel erstmals erteilt worden ist. Satz 5 findet keine Anwendung, wenn der Wechsel in ein anderes Land zur Wahrnehmung der Rechte zum Schutz der Ehe und Familie nach Artikel 6 des Grundgesetzes oder aus vergleichbar wichtigen Gründen gerechtfertigt ist.
 
-
-## § 24 – Sozialhilfe für Deutsche im Ausland
+# § 24 – Sozialhilfe für Deutsche im Ausland
 
 (1) Deutsche, die ihren gewöhnlichen Aufenthalt im Ausland haben, erhalten keine Leistungen. Hiervon kann im Einzelfall nur abgewichen werden, soweit dies wegen einer außergewöhnlichen Notlage unabweisbar ist und zugleich nachgewiesen wird, dass eine Rückkehr in das Inland aus folgenden Gründen nicht möglich ist:
 
@@ -1404,13 +1377,11 @@ Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberecht
 
 (6) Die Träger der Sozialhilfe arbeiten mit den deutschen Dienststellen im Ausland zusammen.
 
-
-## § 25 – Erstattung von Aufwendungen Anderer
+# § 25 – Erstattung von Aufwendungen Anderer
 
 Hat jemand in einem Eilfall einem Anderen Leistungen erbracht, die bei rechtzeitigem Einsetzen von Sozialhilfe nicht zu erbringen gewesen wären, sind ihm die Aufwendungen in gebotenem Umfang zu erstatten, wenn er sie nicht auf Grund rechtlicher oder sittlicher Pflicht selbst zu tragen hat. Dies gilt nur, wenn die Erstattung innerhalb angemessener Frist beim zuständigen Träger der Sozialhilfe beantragt wird.
 
-
-## § 26 – Einschränkung, Aufrechnung
+# § 26 – Einschränkung, Aufrechnung
 
 (1) Die Leistung soll bis auf das zum Lebensunterhalt Unerlässliche eingeschränkt werden
 
@@ -1426,8 +1397,7 @@ So weit wie möglich ist zu verhüten, dass die unterhaltsberechtigten Angehöri
 
 (4) Eine Aufrechnung erfolgt nicht, soweit dadurch der Gesundheit dienende Leistungen gefährdet werden.
 
-
-## § 27 – Leistungsberechtigte
+# § 27 – Leistungsberechtigte
 
 (1) Hilfe zum Lebensunterhalt ist Personen zu leisten, die ihren notwendigen Lebensunterhalt nicht oder nicht ausreichend aus eigenen Kräften und Mitteln bestreiten können.
 
@@ -1435,8 +1405,7 @@ So weit wie möglich ist zu verhüten, dass die unterhaltsberechtigten Angehöri
 
 (3) Personen, die ihren Lebensunterhalt aus eigenen Mitteln und Kräften bestreiten können, jedoch einzelne im Haushalt erforderliche Tätigkeiten nicht verrichten können, erhalten auf Antrag einen angemessenen Zuschuss, wenn ihnen die Aufbringung der für die geleistete Hilfe und Unterstützung notwendigen Kosten nicht in voller Höhe zumutbar ist. Als angemessen gelten Aufwendungen, die üblicherweise als Anerkennung für unentgeltlich geleistete Hilfen und Unterstützungen oder zur Abgeltung des entsprechenden Aufwandes geleistet werden. Den Zuschuss erhält nicht, wer einen entsprechenden Anspruch auf Assistenzleistungen nach § 78 des Neunten Buches hat.
 
-
-## § 27a – Notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze
+# § 27a – Notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze
 
 (1) Der für die Gewährleistung des Existenzminimums notwendige Lebensunterhalt umfasst insbesondere Ernährung, Kleidung, Körperpflege, Hausrat, Haushaltsenergie ohne die auf Heizung und Erzeugung von Warmwasser entfallenden Anteile, persönliche Bedürfnisse des täglichen Lebens sowie Unterkunft und Heizung. Zu den persönlichen Bedürfnissen des täglichen Lebens gehört in vertretbarem Umfang eine Teilhabe am sozialen und kulturellen Leben in der Gemeinschaft; dies gilt in besonderem Maß für Kinder und Jugendliche. Für Schülerinnen und Schüler umfasst der notwendige Lebensunterhalt auch die erforderlichen Hilfen für den Schulbesuch.
 
@@ -1458,8 +1427,7 @@ Bei einer abweichenden Regelsatzfestsetzung nach Satz 1 Nummer 1 sind für die m
 
 (5) Sind minderjährige Leistungsberechtigte in einer anderen Familie, insbesondere in einer Pflegefamilie, oder bei anderen Personen als bei ihren Eltern oder einem Elternteil untergebracht, so wird in der Regel der individuelle Bedarf abweichend von den Regelsätzen in Höhe der tatsächlichen Kosten der Unterbringung festgesetzt, sofern die Kosten einen angemessenen Umfang nicht übersteigen.
 
-
-## § 27b – Notwendiger Lebensunterhalt in Einrichtungen
+# § 27b – Notwendiger Lebensunterhalt in Einrichtungen
 
 (1) Der notwendige Lebensunterhalt umfasst
 
@@ -1487,8 +1455,7 @@ Der Barbetrag ist in der sich nach Satz 2 ergebenden Höhe an die Leistungsberec
 
 (4) Die Höhe der Bekleidungspauschale nach Absatz 2 setzen die zuständigen Landesbehörden oder die von ihnen bestimmten Stellen für die in ihrem Bereich bestehenden Einrichtungen fest. Sie ist als Geld- oder Sachleistung zu gewähren; im Falle einer Geldleistung hat die Zahlung monatlich, quartalsweise oder halbjährlich zu erfolgen.
 
-
-## § 27c – Sonderregelung für den Lebensunterhalt
+# § 27c – Sonderregelung für den Lebensunterhalt
 
 (1) Für Leistungsberechtigte, die nicht in einer Wohnung nach § 42a Absatz 2 Satz 1 Nummer 1 und Satz 2 leben, bestimmen sich der notwendige Lebensunterhalt nach Absatz 2 und der weitere notwendige Lebensunterhalt nach Absatz 3, wenn sie
 
@@ -1502,8 +1469,7 @@ Der Barbetrag ist in der sich nach Satz 2 ergebenden Höhe an die Leistungsberec
 
 (4) Der sich nach Absatz 2 ergebende monatliche Betrag für den notwendigen Lebensunterhalt ist bei Leistungsberechtigten nach Absatz 1 Nummer 1 abzüglich der aufzubringenden Mittel nach § 142 Absatz 1 und 2 des Neunten Buches sowie bei Leistungsberechtigten nach Absatz 1 Nummer 2 abzüglich der aufzubringenden Mittel nach § 142 Absatz 3 des Neunten Buches quartalsweise dem für die Leistungen nach Teil 2 des Neunten Buches zuständigen Träger der Eingliederungshilfe zu erstatten.
 
-
-## § 28 – Ermittlung der Regelbedarfe
+# § 28 – Ermittlung der Regelbedarfe
 
 (1) Liegen die Ergebnisse einer bundesweiten neuen Einkommens- und Verbrauchsstichprobe vor, wird die Höhe der Regelbedarfe in einem Bundesgesetz neu ermittelt.
 
@@ -1519,8 +1485,7 @@ Der Barbetrag ist in der sich nach Satz 2 ergebenden Höhe an die Leistungsberec
 
 (5) Die Summen der sich nach Absatz 4 ergebenden regelbedarfsrelevanten Verbrauchsausgaben der Referenzhaushalte sind Grundlage für die Prüfung der Regelbedarfsstufen, insbesondere für die Altersabgrenzungen bei Kindern und Jugendlichen. Die nach Satz 1 für die Ermittlung der Regelbedarfsstufen zugrunde zu legenden Summen der regelbedarfsrelevanten Verbrauchsausgaben aus den Sonderauswertungen sind jeweils mit der sich nach § 28a Absatz 2 ergebenden Veränderungsrate entsprechend fortzuschreiben. Die sich durch die Fortschreibung nach Satz 2 ergebenden Summenbeträge sind jeweils bis unter 0,50 Euro abzurunden sowie von 0,50 Euro an aufzurunden und ergeben die Regelbedarfsstufen (Anlage).
 
-
-## § 28a – Fortschreibung der Regelbedarfsstufen
+# § 28a – Fortschreibung der Regelbedarfsstufen
 
 (1) In Jahren, in denen keine Neuermittlung nach § 28 erfolgt, werden die Regelbedarfsstufen jeweils zum 1. Januar mit der sich nach Absatz 2 ergebenden Veränderungsrate fortgeschrieben. § 28 Absatz 4 Satz 5 gilt entsprechend.
 
@@ -1534,8 +1499,7 @@ Der Barbetrag ist in der sich nach Satz 2 ergebenden Höhe an die Leistungsberec
 
   
 
-
-## § 29 – Festsetzung und Fortschreibung der Regelsätze
+# § 29 – Festsetzung und Fortschreibung der Regelsätze
 
 (1) Werden die Regelbedarfsstufen nach § 28 neu ermittelt, gelten diese als neu festgesetzte Regelsätze (Neufestsetzung), solange die Länder keine abweichende Neufestsetzung vornehmen. Satz 1 gilt entsprechend, wenn die Regelbedarfe nach § 28a fortgeschrieben werden.
 
@@ -1547,8 +1511,7 @@ Der Barbetrag ist in der sich nach Satz 2 ergebenden Höhe an die Leistungsberec
 
 (5) Die nach den Absätzen 2 und 3 festgesetzten und nach Absatz 4 fortgeschriebenen Regelsätze gelten als Regelbedarfsstufen nach der Anlage zu § 28.
 
-
-## § 30 – Mehrbedarf
+# § 30 – Mehrbedarf
 
 (1) Für Personen, die
 
@@ -1590,8 +1553,7 @@ Höhere Aufwendungen sind abweichend von Satz 2 nur zu berücksichtigen, soweit 
 
 (+++ § 30 Abs. 1 Nr. 2: Zur Anwendung vgl. § 42b Abs. 3 Satz 3 +++)
 
-
-## § 31 – Einmalige Bedarfe
+# § 31 – Einmalige Bedarfe
 
 (1) Leistungen zur Deckung von Bedarfen für
 
@@ -1609,8 +1571,7 @@ werden gesondert erbracht.
 
 (+++ § 31 Abs. 2 Satz 2: Zur Nichtanwendung vgl. § 27b Abs. 2 +++)
 
-
-## § 32 – Bedarfe für eine Kranken- und Pflegeversicherung
+# § 32 – Bedarfe für eine Kranken- und Pflegeversicherung
 
 (1) Angemessene Beiträge für eine Kranken- und Pflegeversicherung sind als Bedarf anzuerkennen, soweit Leistungsberechtigte diese nicht aus eigenem Einkommen tragen können. Leistungsberechtigte können die Beiträge so weit aus eigenem Einkommen tragen, wie diese im Wege der Einkommensbereinigung nach § 82 Absatz 2 Satz 1 Nummer 2 und 3 abzusetzen sind. Der Bedarf nach Satz 1 erhöht sich entsprechend, wenn bei der Einkommensbereinigung für das Einkommen geltende Absetzbeträge nach § 82 Absatz 2 Satz 2 und Absatz 3 bis 6 zu berücksichtigen sind.
 
@@ -1650,8 +1611,7 @@ gilt der monatliche Beitrag als angemessen.
 
 (6) Bei Personen, die gegen das Risiko Pflegebedürftigkeit bei einem privaten Krankenversicherungsunternehmen in Erfüllung ihrer Versicherungspflicht nach § 23 des Elften Buches versichert sind oder nach § 26a des Elften Buches der privaten Pflegeversicherung beigetreten sind, gilt bei Versicherung im brancheneinheitlichen Standardtarif nach § 257 Absatz 2a des Fünften Buches in der bis zum 31. Dezember 2008 geltenden Fassung der geschuldete Beitrag als angemessen, im Übrigen höchstens jedoch bis zu einer Höhe des nach § 110 Absatz 2 Satz 3 des Elften Buches halbierten Höchstbeitrags in der sozialen Pflegeversicherung. Für die Höhe des im Einzelfall angemessenen monatlichen Beitrags gilt Absatz 4 Satz 3 und 4 entsprechend.
 
-
-## § 32a – Zeitliche Zuordnung und Zahlung von Beiträgen für eine Kranken- und Pflegeversicherung
+# § 32a – Zeitliche Zuordnung und Zahlung von Beiträgen für eine Kranken- und Pflegeversicherung
 
 (1) Die Bedarfe nach § 32 sind unabhängig von der Fälligkeit des Beitrags jeweils in dem Monat als Bedarf anzuerkennen, für den die Versicherung besteht.
 
@@ -1659,8 +1619,7 @@ gilt der monatliche Beitrag als angemessen.
 
 (3) Die Zahlung nach Absatz 2 hat in Fällen des § 32 Absatz 2, 3 und 5 bis zum Ende, in Fällen des § 32 Absatz 4 und 6 zum Ersten des sich nach Absatz 1 ergebenden Monats zu erfolgen.
 
-
-## § 33 – Bedarfe für die Vorsorge
+# § 33 – Bedarfe für die Vorsorge
 
 (1) Um die Voraussetzungen eines Anspruchs auf eine angemessene Alterssicherung zu erfüllen, können die erforderlichen Aufwendungen als Bedarf berücksichtigt werden, soweit sie nicht nach § 82 Absatz 2 Nummer 2 und 3 vom Einkommen abgesetzt werden. Aufwendungen nach Satz 1 sind insbesondere
 
@@ -1676,8 +1635,7 @@ gilt der monatliche Beitrag als angemessen.
 
 (2) Weisen Leistungsberechtigte Aufwendungen zur Erlangung eines Anspruchs auf ein angemessenes Sterbegeld vor Beginn der Leistungsberechtigung nach, so werden diese in angemessener Höhe als Bedarf anerkannt, soweit sie nicht nach § 82 Absatz 2 Nummer 3 vom Einkommen abgesetzt werden.
 
-
-## § 34 – Bedarfe für Bildung und Teilhabe
+# § 34 – Bedarfe für Bildung und Teilhabe
 
 (1) Bedarfe für Bildung nach den Absätzen 2 bis 6 von Schülerinnen und Schülern, die eine allgemein- oder berufsbildende Schule besuchen, sowie Bedarfe von Kindern und Jugendlichen für Teilhabe am sozialen und kulturellen Leben in der Gemeinschaft nach Absatz 7 werden neben den maßgebenden Regelbedarfsstufen gesondert berücksichtigt. Leistungen hierfür werden nach den Maßgaben des § 34a gesondert erbracht.
 
@@ -1723,8 +1681,7 @@ Neben der Berücksichtigung von Bedarfen nach Satz 1 können auch weitere tatsä
 
 § 34 Abs. 1, Abs. 2 Satz 1 Nr. 1, Abs. 2 Satz 2 u. Abs. 4 bis 7, jeweils idF d. Art. 3 Nr. 12 G v. 24.3.2011 I 453: IVm § 3 Abs. 2 Satz 1 idF d. G v. 27.12.2003 I 3022 nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 Satz 1 u. Satz 3 iVm Art. 84 Abs. 1 Satz 7 GG unvereinbar gem. BVerfGE v. 7.7.2020 I 1992 (2 BvR 696/12). Gem. Nr. 2 dieser BVerfGE sind diese Vorschriften bis zu einer Neuregelung, spätestens bis zum 31. Dezember 2021 weiter anwendbar.
 
-
-## § 34a – Erbringung der Leistungen für Bildung und Teilhabe
+# § 34a – Erbringung der Leistungen für Bildung und Teilhabe
 
 (1) Leistungen zur Deckung der Bedarfe nach § 34 Absatz 2 und 4 bis 7 werden auf Antrag erbracht; gesonderte Anträge sind nur für Leistungen nach § 34 Absatz 5 erforderlich. Einer nachfragenden Person werden, auch wenn keine Regelsätze zu gewähren sind, für Bedarfe nach § 34 Leistungen erbracht, wenn sie diese nicht aus eigenen Kräften und Mitteln vollständig decken kann. Die Leistungen zur Deckung der Bedarfe nach § 34 Absatz 7 bleiben bei der Erbringung von Leistungen nach Teil 2 des Neunten Buches unberücksichtigt.
 
@@ -1762,8 +1719,7 @@ Der zuständige Träger der Sozialhilfe kann mit der Schule vereinbaren, dass mo
 
 § 34a idF d. Art. 3 Nr. 12 G v. 24.3.2011 I 453: IVm § 3 Abs. 2 Satz 1 idF d. G v. 27.12.2003 I 3022 nach Maßgabe der Entscheidungsformel mit Art. 28 Abs. 2 Satz 1 u. Satz 3 iVm Art. 84 Abs. 1 Satz 7 GG unvereinbar gem. BVerfGE v. 7.7.2020 I 1992 (2 BvR 696/12). Gem. Nr. 2 dieser BVerfGE ist diese Vorschrift bis zu einer Neuregelung, spätestens bis zum 31. Dezember 2021 weiter anwendbar.
 
-
-## § 34b – Berechtigte Selbsthilfe
+# § 34b – Berechtigte Selbsthilfe
 
 Geht die leistungsberechtigte Person durch Zahlung an Anbieter in Vorleistung, ist der Träger der Sozialhilfe zur Übernahme der berücksichtigungsfähigen Aufwendungen verpflichtet, soweit
 
@@ -1773,8 +1729,7 @@ Geht die leistungsberechtigte Person durch Zahlung an Anbieter in Vorleistung, i
 
 War es dem Leistungsberechtigten nicht möglich, rechtzeitig einen Antrag zu stellen, gilt dieser als zum Zeitpunkt der Selbstvornahme gestellt.
 
-
-## § 35 – Bedarfe für Unterkunft und Heizung
+# § 35 – Bedarfe für Unterkunft und Heizung
 
 (1) Bedarfe für die Unterkunft werden in Höhe der tatsächlichen Aufwendungen anerkannt. Bedarfe für die Unterkunft sind auf Antrag der leistungsberechtigten Person durch Direktzahlung an den Vermieter oder andere Empfangsberechtigte zu decken. Direktzahlungen an den Vermieter oder andere Empfangsberechtigte sollen erfolgen, wenn die zweckentsprechende Verwendung durch die leistungsberechtigte Person nicht sichergestellt ist. Das ist insbesondere der Fall, wenn
 
@@ -1798,13 +1753,11 @@ Werden die Bedarfe für die Unterkunft und Heizung durch Direktzahlung an den Ve
 
 § 35 Abs. 5 Satz 2 (früher Abs. 5) Kursivdruck: Gem. Art. 5 Nr. 3 G v. 22.12.2016 I 3159 wurden anstelle der Wörter "§ 42a Absatz 2 Nummer 2" die Wörter "§ 42a Absatz 2 Satz 1 Nummer 2" durch die Wörter "§ 42a Absatz 2 Nummer 3" mWv 1.1.2020 ersetzt; früher Abs. 5 einziger Text, jetzt Abs. 5 Satz 2 gem. Art. 3 Nr. 5 G v. 30.11.2019 I 1948 mWv 1.1.2020 (bezeichnet als Abs. 5 Satz 1)
 
-
-## § 35a – Satzung
+# § 35a – Satzung
 
 Hat ein Kreis oder eine kreisfreie Stadt eine Satzung nach den §§ 22a bis 22c des Zweiten Buches erlassen, so gilt sie für die Höhe der anzuerkennenden Bedarfe für die Unterkunft nach § 35 Absatz 1 und 2 des zuständigen Trägers der Sozialhilfe entsprechend, sofern darin nach § 22b Absatz 3 des Zweiten Buches Sonderregelungen für Personen mit einem besonderen Bedarf für Unterkunft und Heizung getroffen werden und dabei zusätzlich auch die Bedarfe älterer Menschen berücksichtigt werden. Dies gilt auch für die Höhe der anzuerkennenden Bedarfe für Heizung nach § 35 Absatz 4, soweit die Satzung Bestimmungen nach § 22b Absatz 1 Satz 2 und 3 des Zweiten Buches enthält. In Fällen der Sätze 1 und 2 ist § 35 Absatz 3 und 4 Satz 2 und 3 nicht anzuwenden.
 
-
-## § 36 – Sonstige Hilfen zur Sicherung der Unterkunft
+# § 36 – Sonstige Hilfen zur Sicherung der Unterkunft
 
 (1) Schulden können nur übernommen werden, wenn dies zur Sicherung der Unterkunft oder zur Behebung einer vergleichbaren Notlage gerechtfertigt ist. Sie sollen übernommen werden, wenn dies gerechtfertigt und notwendig ist und sonst Wohnungslosigkeit einzutreten droht. Geldleistungen können als Beihilfe oder als Darlehen erbracht werden.
 
@@ -1822,8 +1775,7 @@ Hat ein Kreis oder eine kreisfreie Stadt eine Satzung nach den §§ 22a bis 22c 
 
 Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlung unterbleibt, wenn die Nichtzahlung der Miete nach dem Inhalt der Klageschrift offensichtlich nicht auf Zahlungsunfähigkeit des Mieters beruht. Die übermittelten Daten dürfen auch für entsprechende Zwecke der Kriegsopferfürsorge nach dem Bundesversorgungsgesetz gespeichert, verändert, genutzt, übermittelt und in der Verarbeitung eingeschränkt werden.
 
-
-## § 37 – Ergänzende Darlehen
+# § 37 – Ergänzende Darlehen
 
 (1) Kann im Einzelfall ein von den Regelbedarfen umfasster und nach den Umständen unabweisbar gebotener Bedarf auf keine andere Weise gedeckt werden, sollen auf Antrag hierfür notwendige Leistungen als Darlehen erbracht werden.
 
@@ -1833,8 +1785,7 @@ Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlun
 
 (4) Für die Rückzahlung von Darlehen nach Absatz 1 können von den monatlichen Regelsätzen Teilbeträge bis zur Höhe von jeweils 5 vom Hundert der Regelbedarfsstufe 1 nach der Anlage zu § 28 einbehalten werden. Die Rückzahlung von Darlehen nach nach Absatz 2 erfolgt in gleichen Teilbeträgen über das ganze Kalenderjahr.
 
-
-## § 37a – Darlehen bei am Monatsende fälligen Einkünften
+# § 37a – Darlehen bei am Monatsende fälligen Einkünften
 
 (1) Kann eine leistungsberechtigte Person in dem Monat, in dem ihr erstmals eine Rente zufließt, bis zum voraussichtlichen Zufluss der Rente ihren notwendigen Lebensunterhalt nicht vollständig aus eigenen Mitteln bestreiten, ist ihr insoweit auf Antrag ein Darlehen zu gewähren. Satz 1 gilt entsprechend für Einkünfte und Sozialleistungen, die am Monatsende fällig werden.
 
@@ -1842,13 +1793,11 @@ Außerdem kann der Tag der Rechtshängigkeit mitgeteilt werden. Die Übermittlun
 
 (3) Die Rückzahlung nach Absatz 2 beginnt mit Ablauf des Kalendermonats, der auf die Auszahlung des Darlehens folgt. Die Rückzahlung des Darlehens erfolgt während des Leistungsbezugs durch Aufrechnung nach § 44b.
 
-
-## § 38 – Darlehen bei vorübergehender Notlage
+# § 38 – Darlehen bei vorübergehender Notlage
 
 Sind Leistungen nach § 27a Absatz 3 und 4, der Barbetrag nach § 27b Absatz 2 sowie nach den §§ 30, 32, 33 und 35 voraussichtlich nur für kurze Dauer zu erbringen, können Geldleistungen als Darlehen gewährt werden. Darlehen an Mitglieder von Haushaltsgemeinschaften im Sinne des § 27 Absatz 2 Satz 2 und 3 können an einzelne Mitglieder oder an mehrere gemeinsam vergeben werden.
 
-
-## § 39 – Vermutung der Bedarfsdeckung
+# § 39 – Vermutung der Bedarfsdeckung
 
 Lebt eine nachfragende Person gemeinsam mit anderen Personen in einer Wohnung oder in einer entsprechenden anderen Unterkunft, so wird vermutet, dass sie gemeinsam wirtschaften (Haushaltsgemeinschaft) und dass die nachfragende Person von den anderen Personen Leistungen zum Lebensunterhalt erhält, soweit dies nach deren Einkommen und Vermögen erwartet werden kann. Soweit nicht gemeinsam gewirtschaftet wird oder die nachfragende Person von den Mitgliedern der Haushaltsgemeinschaft keine ausreichenden Leistungen zum Lebensunterhalt erhält, ist ihr Hilfe zum Lebensunterhalt zu gewähren. Satz 1 gilt nicht
 
@@ -1856,15 +1805,13 @@ Lebt eine nachfragende Person gemeinsam mit anderen Personen in einer Wohnung od
 
 2. für Personen, die im Sinne des § 99 des Neunten Buches in Fähigkeit zur Teilhabe an der Gesellschaft in erheblichem Maße eingeschränkt sind oder im Sinne des § 61a pflegebedürftig sind und von in Satz 1 genannten Personen betreut werden; dies gilt auch, wenn die genannten Voraussetzungen einzutreten drohen und das gemeinsame Wohnen im Wesentlichen zum Zweck der Sicherstellung der Hilfe und Versorgung erfolgt.
 
-
-## § 39a – Einschränkung der Leistung
+# § 39a – Einschränkung der Leistung
 
 (1) Lehnen Leistungsberechtigte entgegen ihrer Verpflichtung die Aufnahme einer Tätigkeit oder die Teilnahme an einer erforderlichen Vorbereitung ab, vermindert sich die maßgebende Regelbedarfsstufe in einer ersten Stufe um bis zu 25 vom Hundert, bei wiederholter Ablehnung in weiteren Stufen um jeweils bis zu 25 vom Hundert. Die Leistungsberechtigten sind vorher entsprechend zu belehren.
 
 (2) § 26 Abs. 1 Satz 2 findet Anwendung.
 
-
-## § 40 – Verordnungsermächtigung
+# § 40 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales hat im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -1874,8 +1821,7 @@ Das Bundesministerium für Arbeit und Soziales hat im Einvernehmen mit dem Bunde
 
 Der Vomhundertsatz nach Satz 1 Nummer 1 ist auf zwei Dezimalstellen zu berechnen; die zweite Dezimalstelle ist um eins zu erhöhen, wenn sich in der dritten Dezimalstelle eine der Ziffern von 5 bis 9 ergibt. Die Bestimmungen nach Satz 1 erfolgen bis spätestens zum Ablauf des 31. Oktober des jeweiligen Jahres.
 
-
-## § 41 – Leistungsberechtigte
+# § 41 – Leistungsberechtigte
 
 (1) Leistungsberechtigt nach diesem Kapitel sind Personen mit gewöhnlichem Aufenthalt im Inland, die ihren notwendigen Lebensunterhalt nicht oder nicht ausreichend aus Einkommen und Vermögen nach § 43 bestreiten können, wenn sie die Voraussetzungen nach Absatz 2, 3 oder 3a erfüllen.
 
@@ -1915,13 +1861,11 @@ Der Vomhundertsatz nach Satz 1 Nummer 1 ist auf zwei Dezimalstellen zu berechnen
 
 (4) Keinen Anspruch auf Leistungen nach diesem Kapitel hat, wer in den letzten zehn Jahren die Bedürftigkeit vorsätzlich oder grob fahrlässig herbeigeführt hat.
 
-
-## § 41a – Vorübergehender Auslandsaufenthalt
+# § 41a – Vorübergehender Auslandsaufenthalt
 
 Leistungsberechtigte, die sich länger als vier Wochen ununterbrochen im Ausland aufhalten, erhalten nach Ablauf der vierten Woche bis zu ihrer nachgewiesenen Rückkehr ins Inland keine Leistungen.
 
-
-## § 42 – Bedarfe
+# § 42 – Bedarfe
 
 Die Bedarfe nach diesem Kapitel umfassen:
 
@@ -1939,8 +1883,7 @@ b) bei Leistungsberechtigten, deren notwendiger Lebensunterhalt sich nach § 27b
 
 5. ergänzende Darlehen nach § 37 Absatz 1 und Darlehen bei am Monatsende fälligen Einkommen nach § 37a.
 
-
-## § 42a – Bedarfe für Unterkunft und Heizung
+# § 42a – Bedarfe für Unterkunft und Heizung
 
 (1) Für Leistungsberechtigte sind angemessene Bedarfe für Unterkunft und Heizung nach dem Vierten Abschnitt des Dritten Kapitels sowie nach § 42 Nummer 4 Buchstabe b anzuerkennen, soweit in den folgenden Absätzen nichts Abweichendes geregelt ist.
 
@@ -1994,8 +1937,7 @@ Die zusätzlichen Aufwendungen nach Satz 6 Nummer 2 bis 4 sind nach der Anzahl d
 
 (+++ § 42a Abs. 3, 4: Zur Nichtanwendung vgl. § 133b +++)
 
-
-## § 42b – Mehrbedarfe
+# § 42b – Mehrbedarfe
 
 (1) Für Bedarfe, die nicht durch den Regelsatz abgedeckt sind, werden ergänzend zu den Mehrbedarfen nach § 30 die Mehrbedarfe nach den Absätzen 2 bis 4 anerkannt.
 
@@ -2016,8 +1958,7 @@ Dies gilt unter der Voraussetzung, dass die Mittagsverpflegung in Verantwortung 
 (+++ § 42b Abs. 2: Zur Anwendung vgl. § 30 Abs. 8 +++)  
 (+++ § 42b Abs. 3: Zur Anwendung vgl. § 30 Abs. 4 +++)
 
-
-## § 43 – Einsatz von Einkommen und Vermögen
+# § 43 – Einsatz von Einkommen und Vermögen
 
 (1) Für den Einsatz des Einkommens sind die §§ 82 bis 84 und für den Einsatz des Vermögens die §§ 90 und 91 anzuwenden, soweit in den folgenden Absätzen nichts Abweichendes geregelt ist. Einkommen und Vermögen des nicht getrennt lebenden Ehegatten oder Lebenspartners sowie des Partners einer eheähnlichen oder lebenspartnerschaftsähnlichen Gemeinschaft, die dessen notwendigen Lebensunterhalt nach § 27a übersteigen, sind zu berücksichtigen.
 
@@ -2029,8 +1970,7 @@ Dies gilt unter der Voraussetzung, dass die Mittagsverpflegung in Verantwortung 
 
 (5) § 39 Satz 1 ist nicht anzuwenden.
 
-
-## § 43a – Gesamtbedarf, Zahlungsanspruch und Direktzahlung
+# § 43a – Gesamtbedarf, Zahlungsanspruch und Direktzahlung
 
 (1) Der monatliche Gesamtbedarf ergibt sich aus der Summe der nach § 42 Nummer 1 bis 4 anzuerkennenden monatlichen Bedarfe.
 
@@ -2040,8 +1980,7 @@ Dies gilt unter der Voraussetzung, dass die Mittagsverpflegung in Verantwortung 
 
 (4) Der für die Ausführung des Gesetzes nach diesem Kapitel zuständige Träger kann bei Zahlungsrückständen aus Stromlieferverträgen für Haushaltsstrom, die zu einer Unterbrechung der Energielieferung berechtigen, für die laufenden Zahlungsverpflichtungen einer leistungsberechtigten Person eine Direktzahlung entsprechend Absatz 3 Satz 1 vornehmen.
 
-
-## § 44 – Antragserfordernis, Erbringung von Geldleistungen, Bewilligungszeitraum
+# § 44 – Antragserfordernis, Erbringung von Geldleistungen, Bewilligungszeitraum
 
 (1) Leistungen nach diesem Kapitel werden auf Antrag erbracht. Gesondert zu beantragen sind Leistungen zur Deckung von Bedarfen nach § 42 Nummer 2 in Verbindung mit den §§ 31 und 33 sowie zur Deckung der Bedarfe nach § 42 Nummer 3 in Verbindung mit § 34 Absatz 5 und nach § 42 Nummer 5.
 
@@ -2051,8 +1990,7 @@ Dies gilt unter der Voraussetzung, dass die Mittagsverpflegung in Verantwortung 
 
 (4) Leistungen zur Deckung von wiederkehrenden Bedarfen nach § 42 Nummer 1, 2 und 4 werden monatlich im Voraus erbracht. Für Leistungen zur Deckung der Bedarfe nach § 42 Nummer 3 sind die §§ 34a und 34b anzuwenden.
 
-
-## § 44a – Vorläufige Entscheidung
+# § 44a – Vorläufige Entscheidung
 
 (1) Über die Erbringung von Geldleistungen ist vorläufig zu entscheiden, wenn die Voraussetzungen des § 41 Absatz 2 und 3 feststehen und
 
@@ -2078,8 +2016,7 @@ Satz 2 Nummer 2 findet keine Anwendung, wenn der für die Ausführung des Gesetz
 
 (7) Die auf Grund der vorläufigen Entscheidung erbrachten Geldleistungen sind auf die abschließend festgestellten Geldleistungen anzurechnen. Soweit im Bewilligungszeitraum in einzelnen Kalendermonaten vorläufig zu hohe Geldleistungen erbracht wurden, sind die sich daraus ergebenden Überzahlungen auf die abschließend bewilligten Geldleistungen anzurechnen, die für andere Kalendermonate dieses Bewilligungszeitraums nachzuzahlen wären. Überzahlungen, die nach der Anrechnung fortbestehen, sind zu erstatten.
 
-
-## § 44b – Aufrechnung, Verrechnung
+# § 44b – Aufrechnung, Verrechnung
 
 (1) Die für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger können mit einem bestandskräftigen Erstattungsanspruch nach § 44a Absatz 7 gegen den monatlichen Leistungsanspruch aufrechnen.
 
@@ -2089,8 +2026,7 @@ Satz 2 Nummer 2 findet keine Anwendung, wenn der für die Ausführung des Gesetz
 
 (4) Ein für die Ausführung des Gesetzes nach diesem Kapitel zuständiger Träger kann nach Ermächtigung eines anderen Trägers im Sinne dieses Buches dessen bestandskräftige Ansprüche mit dem monatlichen Zahlungsanspruch nach § 43a nach Maßgabe der Absätze 2 und 3 verrechnen. Zwischen den für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Trägern findet keine Erstattung verrechneter Forderungen statt, soweit die miteinander verrechneten Ansprüche auf der Bewilligung von Leistungen nach diesem Kapitel beruhen.
 
-
-## § 44c – Erstattungsansprüche zwischen Trägern
+# § 44c – Erstattungsansprüche zwischen Trägern
 
 Im Verhältnis der für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger untereinander sind die Vorschriften über die Erstattung nach
 
@@ -2100,8 +2036,7 @@ Im Verhältnis der für die Ausführung des Gesetzes nach diesem Kapitel zustän
 
 für Geldleistungen nach diesem Kapitel nicht anzuwenden.
 
-
-## § 45 – Feststellung der dauerhaften vollen Erwerbsminderung
+# § 45 – Feststellung der dauerhaften vollen Erwerbsminderung
 
 Der jeweils für die Ausführung des Gesetzes nach diesem Kapitel zuständige Träger ersucht den nach § 109a Absatz 2 des Sechsten Buches zuständigen Träger der Rentenversicherung, die medizinischen Voraussetzungen des § 41 Absatz 3 zu prüfen, wenn es auf Grund der Angaben und Nachweise des Leistungsberechtigten als wahrscheinlich erscheint, dass diese erfüllt sind und das zu berücksichtigende Einkommen und Vermögen nicht ausreicht, um den Lebensunterhalt vollständig zu decken. Die Entscheidung des Trägers der Rentenversicherung ist bindend für den ersuchenden Träger, der für die Ausführung des Gesetzes nach diesem Kapitel zuständig ist; dies gilt auch für eine Entscheidung des Trägers der Rentenversicherung nach § 109a Absatz 3 des Sechsten Buches. Ein Ersuchen nach Satz 1 erfolgt nicht, wenn
 
@@ -2115,13 +2050,11 @@ Der jeweils für die Ausführung des Gesetzes nach diesem Kapitel zuständige Tr
 
 In Fällen des Satzes 3 Nummer 4 wird die Stellungnahme des Fachausschusses bei Durchführung eines Teilhabeplanverfahrens nach den §§ 19 bis 23 des Neunten Buches durch eine entsprechende Feststellung im Teilhabeplanverfahren ersetzt; dies gilt entsprechend, wenn ein Gesamtplanverfahren nach den §§ 117 bis 121 des Neunten Buches durchgeführt wird.
 
-
-## § 46 – Zusammenarbeit mit den Trägern der Rentenversicherung
+# § 46 – Zusammenarbeit mit den Trägern der Rentenversicherung
 
 Der zuständige Träger der Rentenversicherung informiert und berät leistungsberechtigte Personen nach § 41, die rentenberechtigt sind, über die Leistungsvoraussetzungen und über das Verfahren nach diesem Kapitel. Personen, die nicht rentenberechtigt sind, werden auf Anfrage beraten und informiert. Liegt die Rente unter dem 27-fachen Betrag des geltenden aktuellen Rentenwertes in der gesetzlichen Rentenversicherung (§§ 68, 68a des Sechsten Buches), ist der Information zusätzlich ein Antragsformular beizufügen. Der Träger der Rentenversicherung übersendet einen eingegangenen Antrag mit einer Mitteilung über die Höhe der monatlichen Rente und über das Vorliegen der Voraussetzungen der Leistungsberechtigung an den jeweils für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger. Eine Verpflichtung des Trägers der Rentenversicherung nach Satz 1 besteht nicht, wenn eine Inanspruchnahme von Leistungen nach diesem Kapitel wegen der Höhe der gezahlten Rente sowie der im Rentenverfahren zu ermittelnden weiteren Einkommen nicht in Betracht kommt.
 
-
-## § 46a – Erstattung durch den Bund
+# § 46a – Erstattung durch den Bund
 
 (1) Der Bund erstattet den Ländern
 
@@ -2163,8 +2096,7 @@ zu belegen. Die Quartalsnachweise für die Abrufzeiträume nach Absatz 3 Satz 2 
 
 bis 31. März des jeweils folgenden Jahres in tabellarischer Form zu belegen (Jahresnachweis). Die Angaben nach Satz 1 sind zusätzlich für die für die Ausführung nach diesem Kapitel zuständigen Träger zu differenzieren.
 
-
-## § 46b – Zuständigkeit
+# § 46b – Zuständigkeit
 
 (1) Die für die Ausführung des Gesetzes nach diesem Kapitel zuständigen Träger werden nach Landesrecht bestimmt, sofern sich nach Absatz 3 nichts Abweichendes ergibt.
 
@@ -2172,23 +2104,19 @@ bis 31. März des jeweils folgenden Jahres in tabellarischer Form zu belegen (Ja
 
 (3) Das Zwölfte Kapitel ist nicht anzuwenden, sofern sich aus den Sätzen 2 bis 5 nichts Abweichendes ergibt. Im Fall der Auszahlung der Leistungen nach § 34 Absatz 2 Satz 1 Nummer 1 und nach § 34a Absatz 7 ist § 98 Absatz 1a entsprechend anzuwenden. Bei Leistungsberechtigten nach diesem Kapitel gilt der Aufenthalt in einer stationären Einrichtung und in Einrichtungen zum Vollzug richterlich angeordneter Freiheitsentziehung nicht als gewöhnlicher Aufenthalt; § 98 Absatz 2 Satz 1 bis 3 ist entsprechend anzuwenden. Für die Leistungen nach diesem Kapitel an Personen, die Leistungen nach dem Siebten und Achten Kapitel in Formen ambulanter betreuter Wohnmöglichkeiten erhalten, ist § 98 Absatz 5 entsprechend anzuwenden. Soweit Leistungen der Eingliederungshilfe nach Teil 2 des Neunten Buches und Leistungen nach diesem Kapitel gleichzeitig zu erbringen sind, ist § 98 Absatz 6 entsprechend anzuwenden.
 
-
-## § 47 – Vorbeugende Gesundheitshilfe
+# § 47 – Vorbeugende Gesundheitshilfe
 
 Zur Verhütung und Früherkennung von Krankheiten werden die medizinischen Vorsorgeleistungen und Untersuchungen erbracht. Andere Leistungen werden nur erbracht, wenn ohne diese nach ärztlichem Urteil eine Erkrankung oder ein sonstiger Gesundheitsschaden einzutreten droht.
 
-
-## § 48 – Hilfe bei Krankheit
+# § 48 – Hilfe bei Krankheit
 
 Um eine Krankheit zu erkennen, zu heilen, ihre Verschlimmerung zu verhüten oder Krankheitsbeschwerden zu lindern, werden Leistungen zur Krankenbehandlung entsprechend dem Dritten Kapitel Fünften Abschnitt Ersten Titel des Fünften Buches erbracht. Die Regelungen zur Krankenbehandlung nach § 264 des Fünften Buches gehen den Leistungen der Hilfe bei Krankheit nach Satz 1 vor.
 
-
-## § 49 – Hilfe zur Familienplanung
+# § 49 – Hilfe zur Familienplanung
 
 Zur Familienplanung werden die ärztliche Beratung, die erforderliche Untersuchung und die Verordnung der empfängnisregelnden Mittel geleistet. Die Kosten für empfängnisverhütende Mittel werden übernommen, wenn diese ärztlich verordnet worden sind.
 
-
-## § 50 – Hilfe bei Schwangerschaft und Mutterschaft
+# § 50 – Hilfe bei Schwangerschaft und Mutterschaft
 
 Bei Schwangerschaft und Mutterschaft werden
 
@@ -2202,13 +2130,11 @@ Bei Schwangerschaft und Mutterschaft werden
 
 geleistet.
 
-
-## § 51 – Hilfe bei Sterilisation
+# § 51 – Hilfe bei Sterilisation
 
 Bei einer durch Krankheit erforderlichen Sterilisation werden die ärztliche Untersuchung, Beratung und Begutachtung, die ärztliche Behandlung, die Versorgung mit Arznei-, Verband- und Heilmitteln sowie die Krankenhauspflege geleistet.
 
-
-## § 52 – Leistungserbringung, Vergütung
+# § 52 – Leistungserbringung, Vergütung
 
 (1) Die Hilfen nach den §§ 47 bis 51 entsprechen den Leistungen der gesetzlichen Krankenversicherung. Soweit Krankenkassen in ihrer Satzung Umfang und Inhalt der Leistungen bestimmen können, entscheidet der Träger der Sozialhilfe über Umfang und Inhalt der Hilfen nach pflichtgemäßem Ermessen.
 
@@ -2220,16 +2146,13 @@ Bei einer durch Krankheit erforderlichen Sterilisation werden die ärztliche Unt
 
 (5) (weggefallen)
 
+# §§ 53 bis 60 – (weggefallen)
 
-## §§ 53 bis 60 – (weggefallen)
-
-
-## § 61 – Leistungsberechtigte
+# § 61 – Leistungsberechtigte
 
 Personen, die pflegebedürftig im Sinne des § 61a sind, haben Anspruch auf Hilfe zur Pflege, soweit ihnen und ihren nicht getrennt lebenden Ehegatten oder Lebenspartnern nicht zuzumuten ist, dass sie die für die Hilfe zur Pflege benötigten Mittel aus dem Einkommen und Vermögen nach den Vorschriften des Elften Kapitels aufbringen. Sind die Personen minderjährig und unverheiratet, so sind auch das Einkommen und das Vermögen ihrer Eltern oder eines Elternteils zu berücksichtigen.
 
-
-## § 61a – Begriff der Pflegebedürftigkeit
+# § 61a – Begriff der Pflegebedürftigkeit
 
 (1) Pflegebedürftig sind Personen, die gesundheitlich bedingte Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten aufweisen und deshalb der Hilfe durch andere bedürfen. Pflegebedürftige Personen im Sinne des Satzes 1 können körperliche, kognitive oder psychische Beeinträchtigungen oder gesundheitlich bedingte Belastungen oder Anforderungen nicht selbständig kompensieren oder bewältigen.
 
@@ -2379,8 +2302,7 @@ e) Interaktion mit Personen im direkten Kontakt,
 
 f) Kontaktpflege zu Personen außerhalb des direkten Umfelds.
 
-
-## § 61b – Pflegegrade
+# § 61b – Pflegegrade
 
 (1) Für die Gewährung von Leistungen der Hilfe zur Pflege sind pflegebedürftige Personen entsprechend den im Begutachtungsverfahren nach § 62 ermittelten Gesamtpunkten in einen der Schwere der Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten entsprechenden Pflegegrad einzuordnen:
 
@@ -2396,8 +2318,7 @@ f) Kontaktpflege zu Personen außerhalb des direkten Umfelds.
 
 (2) Pflegebedürftige mit besonderen Bedarfskonstellationen, die einen spezifischen, außergewöhnlich hohen Hilfebedarf mit besonderen Anforderungen an die pflegerische Versorgung aufweisen, können aus pflegefachlichen Gründen dem Pflegegrad 5 zugeordnet werden, auch wenn ihre Gesamtpunkte unter 90 liegen.
 
-
-## § 61c – Pflegegrade bei Kindern
+# § 61c – Pflegegrade bei Kindern
 
 (1) Bei pflegebedürftigen Kindern, die 18 Monate oder älter sind, ist für die Einordnung in einen Pflegegrad nach § 61b der gesundheitlich bedingte Grad der Beeinträchtigungen ihrer Selbständigkeit und ihrer Fähigkeiten im Verhältnis zu altersentsprechend entwickelten Kindern maßgebend.
 
@@ -2411,18 +2332,15 @@ f) Kontaktpflege zu Personen außerhalb des direkten Umfelds.
 
 4. Pflegegrad 5: ab 70 bis 100 Gesamtpunkte.
 
-
-## § 62 – Ermittlung des Grades der Pflegebedürftigkeit
+# § 62 – Ermittlung des Grades der Pflegebedürftigkeit
 
 Die Ermittlung des Pflegegrades erfolgt durch ein Begutachtungsinstrument nach Maßgabe des § 15 des Elften Buches. Die auf Grund des § 16 des Elften Buches erlassene Verordnung sowie die auf Grund des § 17 des Elften Buches erlassenen Richtlinien der Pflegekassen finden entsprechende Anwendung.
 
-
-## § 62a – Bindungswirkung
+# § 62a – Bindungswirkung
 
 Die Entscheidung der Pflegekasse über den Pflegegrad ist für den Träger der Sozialhilfe bindend, soweit sie auf Tatsachen beruht, die bei beiden Entscheidungen zu berücksichtigen sind. Bei seiner Entscheidung kann sich der Träger der Sozialhilfe der Hilfe sachverständiger Dritter bedienen. Auf Anforderung unterstützt der Medizinische Dienst gemäß § 278 des Fünften Buches den Träger der Sozialhilfe bei seiner Entscheidung und erhält hierfür Kostenersatz, der zu vereinbaren ist.
 
-
-## § 63 – Leistungen für Pflegebedürftige
+# § 63 – Leistungen für Pflegebedürftige
 
 (1) Die Hilfe zur Pflege umfasst für Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5
 
@@ -2460,13 +2378,11 @@ Die Hilfe zur Pflege schließt Sterbebegleitung mit ein.
 
 (3) Die Leistungen der Hilfe zur Pflege werden auf Antrag auch als Teil eines Persönlichen Budgets ausgeführt. § 29 des Neunten Buches ist insoweit anzuwenden.
 
-
-## § 63a – Notwendiger pflegerischer Bedarf
+# § 63a – Notwendiger pflegerischer Bedarf
 
 Die Träger der Sozialhilfe haben den notwendigen pflegerischen Bedarf zu ermitteln und festzustellen.
 
-
-## § 63b – Leistungskonkurrenz
+# § 63b – Leistungskonkurrenz
 
 (1) Leistungen der Hilfe zur Pflege werden nicht erbracht, soweit Pflegebedürftige gleichartige Leistungen nach anderen Rechtsvorschriften erhalten.
 
@@ -2482,13 +2398,11 @@ Die Träger der Sozialhilfe haben den notwendigen pflegerischen Bedarf zu ermitt
 
 (7) Leistungen der stationären Pflege nach § 65 werden auch bei einer vorübergehenden Abwesenheit von Pflegebedürftigen aus der stationären Einrichtung erbracht, solange die Voraussetzungen des § 87a Absatz 1 Satz 5 und 6 des Elften Buches vorliegen.
 
-
-## § 64 – Vorrang
+# § 64 – Vorrang
 
 Soweit häusliche Pflege ausreicht, soll der Träger der Sozialhilfe darauf hinwirken, dass die häusliche Pflege durch Personen, die dem Pflegebedürftigen nahestehen, oder als Nachbarschaftshilfe übernommen wird.
 
-
-## § 64a – Pflegegeld
+# § 64a – Pflegegeld
 
 (1) Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben bei häuslicher Pflege Anspruch auf Pflegegeld in Höhe des Pflegegeldes nach § 37 Absatz 1 des Elften Buches. Der Anspruch auf Pflegegeld setzt voraus, dass die Pflegebedürftigen und die Sorgeberechtigten bei pflegebedürftigen Kindern die erforderliche Pflege mit dem Pflegegeld in geeigneter Weise selbst sicherstellen.
 
@@ -2496,8 +2410,7 @@ Soweit häusliche Pflege ausreicht, soll der Träger der Sozialhilfe darauf hinw
 
 (3) Stellt die Pflegekasse ihre Leistungen nach § 37 Absatz 6 des Elften Buches ganz oder teilweise ein, entfällt insoweit die Leistungspflicht nach Absatz 1.
 
-
-## § 64b – Häusliche Pflegehilfe
+# § 64b – Häusliche Pflegehilfe
 
 (1) Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf körperbezogene Pflegemaßnahmen und pflegerische Betreuungsmaßnahmen sowie auf Hilfen bei der Haushaltsführung als Pflegesachleistung (häusliche Pflegehilfe), soweit die häusliche Pflege nach § 64 nicht sichergestellt werden kann. Der Anspruch auf häusliche Pflegehilfe umfasst auch die pflegefachliche Anleitung von Pflegebedürftigen und Pflegepersonen. Mehrere Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 können die häusliche Pflege gemeinsam in Anspruch nehmen. Häusliche Pflegehilfe kann auch Betreuungs- und Entlastungsleistungen durch Unterstützungsangebote im Sinne des § 45a des Elften Buches umfassen; § 64i bleibt unberührt.
 
@@ -2511,13 +2424,11 @@ Soweit häusliche Pflege ausreicht, soll der Träger der Sozialhilfe darauf hinw
 
 (+++ § 64b Abs. 2: Zur Anwendung vgl. § 65 Satz 2 ab F. 2016-12-23 +++)
 
-
-## § 64c – Verhinderungspflege
+# § 64c – Verhinderungspflege
 
 Ist eine Pflegeperson im Sinne von § 64 wegen Erholungsurlaubs, Krankheit oder aus sonstigen Gründen an der häuslichen Pflege gehindert, sind die angemessenen Kosten einer notwendigen Ersatzpflege zu übernehmen.
 
-
-## § 64d – Pflegehilfsmittel
+# § 64d – Pflegehilfsmittel
 
 (1) Pflegebedürftige haben Anspruch auf Versorgung mit Pflegehilfsmitteln, die
 
@@ -2531,8 +2442,7 @@ Der Anspruch umfasst die notwendige Änderung, Instandsetzung und Ersatzbeschaff
 
 (2) Technische Pflegehilfsmittel sollen den Pflegebedürftigen in geeigneten Fällen leihweise zur Verfügung gestellt werden.
 
-
-## § 64e – Maßnahmen zur Verbesserung des Wohnumfeldes
+# § 64e – Maßnahmen zur Verbesserung des Wohnumfeldes
 
 Maßnahmen zur Verbesserung des Wohnumfeldes der Pflegebedürftigen können gewährt werden,
 
@@ -2544,8 +2454,7 @@ a) die häusliche Pflege ermöglicht oder erheblich erleichtert werden kann oder
 
 b) eine möglichst selbständige Lebensführung der Pflegebedürftigen wiederhergestellt werden kann.
 
-
-## § 64f – Andere Leistungen
+# § 64f – Andere Leistungen
 
 (1) Zusätzlich zum Pflegegeld nach § 64a Absatz 1 sind die Aufwendungen für die Beiträge einer Pflegeperson oder einer besonderen Pflegekraft für eine angemessene Alterssicherung zu erstatten, soweit diese nicht anderweitig sichergestellt ist.
 
@@ -2553,13 +2462,11 @@ b) eine möglichst selbständige Lebensführung der Pflegebedürftigen wiederher
 
 (3) Soweit die Sicherstellung der häuslichen Pflege für Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 im Rahmen des Arbeitgebermodells erfolgt, sollen die angemessenen Kosten übernommen werden.
 
-
-## § 64g – Teilstationäre Pflege
+# § 64g – Teilstationäre Pflege
 
 Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege, soweit die häusliche Pflege nicht in ausreichendem Umfang sichergestellt werden kann oder die teilstationäre Pflege zur Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist. Der Anspruch umfasst auch die notwendige Beförderung des Pflegebedürftigen von der Wohnung zur Einrichtung der Tages- oder Nachtpflege und zurück.
 
-
-## § 64h – Kurzzeitpflege
+# § 64h – Kurzzeitpflege
 
 (1) Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf Kurzeitpflege in einer stationären Pflegeeinrichtung, soweit die häusliche Pflege zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden kann und die teilstationäre Pflege nach § 64g nicht ausreicht.
 
@@ -2571,8 +2478,7 @@ Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf teilstation�
 
 (3) Soweit während einer Maßnahme der medizinischen Vorsorge oder Rehabilitation für eine Pflegeperson eine gleichzeitige Unterbringung und Pflege der Pflegebedürftigen erforderlich ist, kann Kurzzeitpflege auch in Vorsorge- oder Rehabilitationseinrichtungen nach § 107 Absatz 2 des Fünften Buches erbracht werden.
 
-
-## § 64i – Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5
+# § 64i – Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5
 
 Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf einen Entlastungsbetrag in Höhe von bis zu 125 Euro monatlich. Der Entlastungsbetrag ist zweckgebunden einzusetzen zur
 
@@ -2582,13 +2488,11 @@ Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf einen Entlas
 
 3. Inanspruchnahme von Unterstützungsangeboten im Sinne des § 45a des Elften Buches.
 
-
-## § 65 – Stationäre Pflege
+# § 65 – Stationäre Pflege
 
 Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 haben Anspruch auf Pflege in stationären Einrichtungen, wenn häusliche oder teilstationäre Pflege nicht möglich ist oder wegen der Besonderheit des Einzelfalls nicht in Betracht kommt. Der Anspruch auf stationäre Pflege umfasst auch Betreuungsmaßnahmen; § 64b Absatz 2 findet entsprechende Anwendung.
 
-
-## § 66 – Entlastungsbetrag bei Pflegegrad 1
+# § 66 – Entlastungsbetrag bei Pflegegrad 1
 
 Pflegebedürftige des Pflegegrades 1 haben Anspruch auf einen Entlastungsbetrag in Höhe von bis zu 125 Euro monatlich. Der Entlastungsbetrag ist zweckgebunden einzusetzen zur
 
@@ -2608,18 +2512,15 @@ d) Leistungen zur teilstationären Pflege im Sinne des § 64g,
 
 4. Inanspruchnahme von Unterstützungsangeboten im Sinne des § 45a des Elften Buches.
 
-
-## § 66a – Sonderregelungen zum Einsatz von Vermögen
+# § 66a – Sonderregelungen zum Einsatz von Vermögen
 
 Für Personen, die Leistungen nach diesem Kapitel erhalten, gilt ein zusätzlicher Betrag von bis zu 25 000 Euro für die Lebensführung und die Alterssicherung im Sinne von § 90 Absatz 3 Satz 2 als angemessen, sofern dieser Betrag ganz oder überwiegend als Einkommen aus selbständiger und nichtselbständiger Tätigkeit der Leistungsberechtigten während des Leistungsbezugs erworben wird; § 90 Absatz 3 Satz 1 bleibt unberührt.
 
-
-## § 67 – Leistungsberechtigte
+# § 67 – Leistungsberechtigte
 
 Personen, bei denen besondere Lebensverhältnisse mit sozialen Schwierigkeiten verbunden sind, sind Leistungen zur Überwindung dieser Schwierigkeiten zu erbringen, wenn sie aus eigener Kraft hierzu nicht fähig sind. Soweit der Bedarf durch Leistungen nach anderen Vorschriften dieses Buches oder des Achten und Neunten Buches gedeckt wird, gehen diese der Leistung nach Satz 1 vor.
 
-
-## § 68 – Umfang der Leistungen
+# § 68 – Umfang der Leistungen
 
 (1) Die Leistungen umfassen alle Maßnahmen, die notwendig sind, um die Schwierigkeiten abzuwenden, zu beseitigen, zu mildern oder ihre Verschlimmerung zu verhüten, insbesondere Beratung und persönliche Betreuung für die Leistungsberechtigten und ihre Angehörigen, Hilfen zur Ausbildung, Erlangung und Sicherung eines Arbeitsplatzes sowie Maßnahmen bei der Erhaltung und Beschaffung einer Wohnung. Zur Durchführung der erforderlichen Maßnahmen ist in geeigneten Fällen ein Gesamtplan zu erstellen.
 
@@ -2627,13 +2528,11 @@ Personen, bei denen besondere Lebensverhältnisse mit sozialen Schwierigkeiten v
 
 (3) Die Träger der Sozialhilfe sollen mit den Vereinigungen, die sich die gleichen Aufgaben zum Ziel gesetzt haben, und mit den sonst beteiligten Stellen zusammenarbeiten und darauf hinwirken, dass sich die Sozialhilfe und die Tätigkeit dieser Vereinigungen und Stellen wirksam ergänzen.
 
-
-## § 69 – Verordnungsermächtigung
+# § 69 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen über die Abgrenzung des Personenkreises nach § 67 sowie über Art und Umfang der Maßnahmen nach § 68 Abs. 1 erlassen.
 
-
-## § 70 – Hilfe zur Weiterführung des Haushalts
+# § 70 – Hilfe zur Weiterführung des Haushalts
 
 (1) Personen mit eigenem Haushalt sollen Leistungen zur Weiterführung des Haushalts erhalten, wenn weder sie selbst noch, falls sie mit anderen Haushaltsangehörigen zusammenleben, die anderen Haushaltsangehörigen den Haushalt führen können und die Weiterführung des Haushalts geboten ist. Die Leistungen sollen in der Regel nur vorübergehend erbracht werden. Satz 2 gilt nicht, wenn durch die Leistungen die Unterbringung in einer stationären Einrichtung vermieden oder aufgeschoben werden kann.
 
@@ -2643,8 +2542,7 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 
 (4) Die Leistungen können auch durch Übernahme der angemessenen Kosten für eine vorübergehende anderweitige Unterbringung von Haushaltsangehörigen erbracht werden, wenn diese Unterbringung in besonderen Fällen neben oder statt der Weiterführung des Haushalts geboten ist.
 
-
-## § 71 – Altenhilfe
+# § 71 – Altenhilfe
 
 (1) Alten Menschen soll außer den Leistungen nach den übrigen Bestimmungen dieses Buches sowie den Leistungen der Eingliederungshilfe nach Teil 2 des Neunten Buches Altenhilfe gewährt werden. Die Altenhilfe soll dazu beitragen, Schwierigkeiten, die durch das Alter entstehen, zu verhüten, zu überwinden oder zu mildern und alten Menschen die Möglichkeit zu erhalten, selbstbestimmt am Leben in der Gemeinschaft teilzunehmen und ihre Fähigkeit zur Selbsthilfe zu stärken.
 
@@ -2670,8 +2568,7 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 
 (5) (doppelt) Die Leistungen der Altenhilfe sind mit den übrigen Leistungen dieses Buches, den Leistungen der Eingliederungshilfe nach dem Neunten Buch, den Leistungen der örtlichen Altenhilfe und der kommunalen Infrastruktur zur Vermeidung sowie Verringerung der Pflegebedürftigkeit und der Inanspruchnahme der Leistungen der Eingliederungshilfe zu verzahnen. Die Ergebnisse der Teilhabeplanung und Gesamtplanung nach dem Neunten Buch sind zu berücksichtigen.
 
-
-## § 72 – Blindenhilfe
+# § 72 – Blindenhilfe
 
 (1) Blinden Menschen wird zum Ausgleich der durch die Blindheit bedingten Mehraufwendungen Blindenhilfe gewährt, soweit sie keine gleichartigen Leistungen nach anderen Rechtsvorschriften erhalten. Auf die Blindenhilfe sind Leistungen bei häuslicher Pflege nach dem Elften Buch, auch soweit es sich um Sachleistungen handelt, bei Pflegebedürftigen des Pflegegrades 2 mit 50 Prozent des Pflegegeldes des Pflegegrades 2 und bei Pflegebedürftigen der Pflegegrade 3, 4 oder 5 mit 40 Prozent des Pflegegeldes des Pflegegrades 3, höchstens jedoch mit 50 Prozent des Betrages nach Absatz 2, anzurechnen. Satz 2 gilt sinngemäß für Leistungen nach dem Elften Buch aus einer privaten Pflegeversicherung und nach beamtenrechtlichen Vorschriften. § 39a ist entsprechend anzuwenden.
 
@@ -2685,18 +2582,15 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 
 (6) Die Blindenhilfe wird neben Leistungen nach Teil 2 des Neunten Buches erbracht.
 
-
-## § 73 – Hilfe in sonstigen Lebenslagen
+# § 73 – Hilfe in sonstigen Lebenslagen
 
 Leistungen können auch in sonstigen Lebenslagen erbracht werden, wenn sie den Einsatz öffentlicher Mittel rechtfertigen. Geldleistungen können als Beihilfe oder als Darlehen erbracht werden.
 
-
-## § 74 – Bestattungskosten
+# § 74 – Bestattungskosten
 
 Die erforderlichen Kosten einer Bestattung werden übernommen, soweit den hierzu Verpflichteten nicht zugemutet werden kann, die Kosten zu tragen.
 
-
-## § 75 – Allgemeine Grundsätze
+# § 75 – Allgemeine Grundsätze
 
 (1) Der Träger der Sozialhilfe darf Leistungen nach dem Siebten bis Neunten Kapitel mit Ausnahme der Leistungen der häuslichen Pflege, soweit diese gemäß § 64 durch Personen, die dem Pflegebedürftigen nahe stehen, oder als Nachbarschaftshilfe übernommen werden, durch Dritte (Leistungserbringer) nur bewilligen, soweit eine schriftliche Vereinbarung zwischen dem Träger des Leistungserbringers und dem für den Ort der Leistungserbringung zuständigen Träger der Sozialhilfe besteht. Die Vereinbarung kann auch zwischen dem Träger der Sozialhilfe und dem Verband, dem der Leistungserbringer angehört, geschlossen werden, soweit der Verband eine entsprechende Vollmacht nachweist. Die Vereinbarungen sind für alle übrigen Träger der Sozialhilfe bindend. Die Vereinbarungen müssen den Grundsätzen der Wirtschaftlichkeit, Sparsamkeit und Leistungsfähigkeit entsprechen und dürfen das Maß des Notwendigen nicht überschreiten. Sie sind vor Beginn der jeweiligen Wirtschaftsperiode für einen zukünftigen Zeitraum abzuschließen (Vereinbarungszeitraum); nachträgliche Ausgleiche sind nicht zulässig. Die Ergebnisse sind den Leistungsberechtigten in einer wahrnehmbaren Form zugänglich zu machen.
 
@@ -2720,8 +2614,7 @@ Die allgemeinen Grundsätze der Absätze 1 bis 4 und 6 sowie die Vorschriften zu
 
 (6) Der Leistungserbringer hat gegen den Träger der Sozialhilfe einen Anspruch auf Vergütung der gegenüber dem Leistungsberechtigten erbrachten Leistungen.
 
-
-## § 76 – Inhalt der Vereinbarungen
+# § 76 – Inhalt der Vereinbarungen
 
 (1) In der schriftlichen Vereinbarung mit Erbringern von Leistungen nach dem Siebten bis Neunten Kapitel sind zu regeln:
 
@@ -2753,8 +2646,7 @@ Die allgemeinen Grundsätze der Absätze 1 bis 4 und 6 sowie die Vorschriften zu
 
 Förderungen aus öffentlichen Mitteln sind anzurechnen. Die Maßnahmepauschale ist nach Gruppen für Leistungsberechtigte mit vergleichbarem Bedarf sowie bei Leistungen der häuslichen Pflegehilfe für die gemeinsame Inanspruchnahme durch mehrere Leistungsberechtigte zu kalkulieren. Abweichend von Satz 1 können andere geeignete Verfahren zur Vergütung und Abrechnung der Leistung unter Beteiligung der Interessenvertretungen der Menschen mit Behinderungen vereinbart werden.
 
-
-## § 76a – Zugelassene Pflegeeinrichtungen
+# § 76a – Zugelassene Pflegeeinrichtungen
 
 (1) Bei zugelassenen Pflegeeinrichtungen im Sinne des § 72 des Elften Buches richten sich Art, Inhalt, Umfang und Vergütung
 
@@ -2774,8 +2666,7 @@ nach dem Achten Kapitel des Elften Buches, soweit die Vereinbarungen nach dem Ac
 
 (3) Der Träger der Sozialhilfe ist zur Übernahme gesondert berechneter Investitionskosten nach dem Elften Buch nur verpflichtet, soweit die zuständige Landesbehörde ihre Zustimmung nach § 82 Absatz 3 Satz 3 des Elften Buches erteilt oder der Träger der Sozialhilfe mit dem Träger der Einrichtung eine entsprechende Vereinbarung nach dem Zehnten Kapitel über die gesondert berechneten Investitionskosten nach § 82 Absatz 4 des Elften Buches getroffen hat.
 
-
-## § 77 – Verfahren und Inkrafttreten der Vereinbarung
+# § 77 – Verfahren und Inkrafttreten der Vereinbarung
 
 (1) Der Leistungserbringer oder der Träger der Sozialhilfe hat die jeweils andere Partei schriftlich zu Verhandlungen über den Abschluss einer Vereinbarung gemäß § 76 aufzufordern. Bei einer Aufforderung zum Abschluss einer Folgevereinbarung sind die Verhandlungsgegenstände zu benennen. Die Aufforderung durch den Leistungsträger kann an einen unbestimmten Kreis von Leistungserbringern gerichtet werden. Auf Verlangen einer Partei sind geeignete Nachweise zu den Verhandlungsgegenständen vorzulegen.
 
@@ -2783,8 +2674,7 @@ nach dem Achten Kapitel des Elften Buches, soweit die Vereinbarungen nach dem Ac
 
 (3) Vereinbarungen und Schiedsstellenentscheidungen treten zu dem darin bestimmten Zeitpunkt in Kraft. Wird in einer Vereinbarung ein Zeitpunkt nicht bestimmt, wird die Vereinbarung mit dem Tag ihres Abschlusses wirksam. Festsetzungen der Schiedsstelle werden, soweit keine Festlegung erfolgt ist, rückwirkend mit dem Tag wirksam, an dem der Antrag bei der Schiedsstelle eingegangen ist. Soweit in den Fällen des Satzes 3 während des Schiedsstellenverfahrens der Antrag geändert wurde, ist auf den Tag abzustellen, an dem der geänderte Antrag bei der Schiedsstelle eingegangen ist. Ein jeweils vor diesem Zeitpunkt zurückwirkendes Vereinbaren oder Festsetzen von Vergütungen ist in den Fällen der Sätze 1 bis 4 nicht zulässig.
 
-
-## § 77a – Verbindlichkeit der vereinbarten Vergütung
+# § 77a – Verbindlichkeit der vereinbarten Vergütung
 
 (1) Mit der Zahlung der vereinbarten Vergütung gelten alle während des Vereinbarungszeitraums entstandenen Ansprüche des Leistungserbringers auf Vergütung der Leistung als abgegolten. Die im Einzelfall zu zahlende Vergütung bestimmt sich auf der Grundlage der jeweiligen Vereinbarung nach dem Betrag, der dem Leistungsberechtigten vom zuständigen Träger der Sozialhilfe bewilligt worden ist. Sind Leistungspauschalen nach Gruppen von Leistungsberechtigten kalkuliert (§ 76 Absatz 3 Satz 2), richtet sich die zu zahlende Vergütung nach der Gruppe, die dem Leistungsberechtigten vom zuständigen Träger der Sozialhilfe bewilligt wurde.
 
@@ -2794,8 +2684,7 @@ nach dem Achten Kapitel des Elften Buches, soweit die Vereinbarungen nach dem Ac
 
 (4) Nach Ablauf des Vereinbarungszeitraums gelten die vereinbarten oder durch die Schiedsstelle festgesetzten Vergütungen bis zum Inkrafttreten einer neuen Vergütungsvereinbarung weiter.
 
-
-## § 78 – Wirtschaftlichkeits- und Qualitätsprüfung
+# § 78 – Wirtschaftlichkeits- und Qualitätsprüfung
 
 (1) Soweit tatsächliche Anhaltspunkte dafür bestehen, dass ein Leistungserbringer seine vertraglichen oder gesetzlichen Pflichten nicht erfüllt, prüft der Träger der Sozialhilfe oder ein von diesem beauftragter Dritter die Wirtschaftlichkeit und Qualität einschließlich der Wirksamkeit der vereinbarten Leistungen des Leistungserbringers. Die Leistungserbringer sind verpflichtet, dem Träger der Sozialhilfe auf Verlangen die für die Prüfung erforderlichen Unterlagen vorzulegen und Auskünfte zu erteilen. Zur Vermeidung von Doppelprüfungen arbeiten die Träger der Sozialhilfe mit den Leistungsträgern nach Teil 2 des Neunten Buches, mit den für die Heimaufsicht zuständigen Behörden sowie mit dem Medizinischen Dienst gemäß § 278 des Fünften Buches zusammen. Der Träger der Sozialhilfe ist berechtigt und auf Anforderung verpflichtet, den für die Heimaufsicht zuständigen Behörden die Daten über den Leistungserbringer sowie die Ergebnisse der Prüfungen mitzuteilen, soweit sie für die Zwecke der Prüfung durch den Empfänger erforderlich sind. Personenbezogene Daten sind vor der Datenübermittlung zu anonymisieren. Abweichend von Satz 5 dürfen personenbezogene Daten in nicht anonymisierter Form an die für die Heimaufsicht zuständigen Behörden übermittelt werden, soweit sie zu deren Aufgabenerfüllung erforderlich sind. Durch Landesrecht kann von der Einschränkung in Satz 1 erster Halbsatz abgewichen werden.
 
@@ -2803,8 +2692,7 @@ nach dem Achten Kapitel des Elften Buches, soweit die Vereinbarungen nach dem Ac
 
 (3) Der Träger der Sozialhilfe hat den Leistungserbringer über das Ergebnis der Prüfung schriftlich zu unterrichten. Das Ergebnis der Prüfung ist dem Leistungsberechtigten in einer wahrnehmbaren Form zugänglich zu machen.
 
-
-## § 79 – Kürzung der Vergütung
+# § 79 – Kürzung der Vergütung
 
 (1) Hält ein Leistungserbringer seine gesetzlichen oder vertraglichen (vereinbarten) Verpflichtungen ganz oder teilweise nicht ein, ist die vereinbarte Vergütung für die Dauer der Pflichtverletzung entsprechend zu kürzen. Über die Höhe des Kürzungsbetrags ist zwischen den Vertragsparteien Einvernehmen herzustellen. Kommt eine Einigung nicht zustande, entscheidet auf Antrag einer Vertragspartei die Schiedsstelle. Für das Verfahren bei Entscheidungen durch die Schiedsstelle gilt § 77 Absatz 2 und 3 entsprechend.
 
@@ -2812,8 +2700,7 @@ nach dem Achten Kapitel des Elften Buches, soweit die Vereinbarungen nach dem Ac
 
 (3) Der Kürzungsbetrag kann nicht über die Vergütungen refinanziert werden. Darüber hinaus besteht hinsichtlich des Kürzungsbetrags kein Anspruch auf Nachverhandlung gemäß § 77a Absatz 2.
 
-
-## § 79a – Außerordentliche Kündigung der Vereinbarungen
+# § 79a – Außerordentliche Kündigung der Vereinbarungen
 
 Der Träger der Sozialhilfe kann die Vereinbarungen mit einem Leistungserbringer fristlos kündigen, wenn ihm ein Festhalten an den Vereinbarungen auf Grund einer groben Verletzung einer gesetzlichen oder vertraglichen Verpflichtung durch die Vertragspartei nicht mehr zumutbar ist. Eine grobe Pflichtverletzung liegt insbesondere dann vor, wenn in der Prüfung nach § 78 oder auf andere Weise festgestellt wird, dass
 
@@ -2829,8 +2716,7 @@ Der Träger der Sozialhilfe kann die Vereinbarungen mit einem Leistungserbringer
 
 Die Kündigung bedarf der Schriftform. § 59 des Zehnten Buches bleibt unberührt.
 
-
-## § 80 – Rahmenverträge
+# § 80 – Rahmenverträge
 
 (1) Die überörtlichen Träger der Sozialhilfe und die örtlichen Träger der Sozialhilfe im Zuständigkeitsbereich des überörtlichen Trägers schließen mit den Vereinigungen der Leistungserbringer gemeinsam und einheitlich Rahmenverträge zu den Vereinbarungen nach § 76 ab. Die Rahmenverträge bestimmen
 
@@ -2852,8 +2738,7 @@ Für Leistungserbringer, die einer Kirche oder Religionsgemeinschaft des öffent
 
 (4) Kommt es nicht innerhalb von sechs Monaten nach schriftlicher Aufforderung durch die Landesregierung zu einem Rahmenvertrag, kann die Landesregierung durch Rechtsverordnung die Inhalte regeln.
 
-
-## § 81 – Schiedsstelle
+# § 81 – Schiedsstelle
 
 (1) Für jedes Land oder für Teile eines Landes wird eine Schiedsstelle gebildet.
 
@@ -2885,8 +2770,7 @@ Für Leistungserbringer, die einer Kirche oder Religionsgemeinschaft des öffent
 
 zu bestimmen.
 
-
-## § 82 – Begriff des Einkommens
+# § 82 – Begriff des Einkommens
 
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Leistungen nach diesem Buch, der Grundrente nach dem Bundesversorgungsgesetz und nach den Gesetzen, die eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen, und der Renten oder Beihilfen nach dem Bundesentschädigungsgesetz für Schaden an Leben sowie an Körper oder Gesundheit bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Einkünfte aus Rückerstattungen, die auf Vorauszahlungen beruhen, die Leistungsberechtigte aus dem Regelsatz erbracht haben, sind kein Einkommen. Bei Minderjährigen ist das Kindergeld dem jeweiligen Kind als Einkommen zuzurechnen, soweit es bei diesem zur Deckung des notwendigen Lebensunterhaltes, mit Ausnahme der Bedarfe nach § 34, benötigt wird.
 
@@ -2923,8 +2807,7 @@ Werden bis zu zwölf Monatsleistungen aus einer zusätzlichen Altersvorsorge, in
 (+++ § 82 Abs. 3 u. 6: Zur Nichtanwendung vgl. § 88 Abs. 2 Satz 2 +++)  
 (+++ § 82 Abs. 4 u. 5: Zur Anwendung vgl. § 90 Abs. 2 Nr. 2 +++)
 
-
-## § 82a – Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen
+# § 82a – Freibetrag für Personen mit Grundrentenzeiten oder entsprechenden Zeiten aus anderweitigen Alterssicherungssystemen
 
 (1) Bei der Hilfe zum Lebensunterhalt und Grundsicherung im Alter und bei Erwerbsminderung ist für Personen, die mindestens 33 Jahre an Grundrentenzeiten nach § 76g Absatz 2 des Sechsten Buches erreicht haben, ein Betrag in Höhe von 100 Euro monatlich aus der gesetzlichen Rente zuzüglich 30 Prozent des diesen Betrag übersteigenden Einkommens aus der gesetzlichen Rente vom Einkommen nach § 82 Absatz 1 abzusetzen, höchstens jedoch ein Betrag in Höhe von 50 Prozent der Regelbedarfsstufe 1 nach der Anlage zu § 28.
 
@@ -2938,22 +2821,19 @@ Werden bis zu zwölf Monatsleistungen aus einer zusätzlichen Altersvorsorge, in
 
 Absatz 1 gilt auch, wenn die 33 Jahre durch die Zusammenrechnung der Zeiten nach Satz 1 Nummer 1 bis 3 und der Grundrentenzeiten nach § 76g Absatz 2 des Sechsten Buches erfüllt werden. Je Kalendermonat wird eine Grundrentenzeit oder eine nach Satz 1 vergleichbare Zeit angerechnet.
 
-
-## § 83 – Nach Zweck und Inhalt bestimmte Leistungen
+# § 83 – Nach Zweck und Inhalt bestimmte Leistungen
 
 (1) Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nur so weit als Einkommen zu berücksichtigen, als die Sozialhilfe im Einzelfall demselben Zweck dient.
 
 (2) Eine Entschädigung, die wegen eines Schadens, der nicht Vermögensschaden ist, nach § 253 Abs. 2 des Bürgerlichen Gesetzbuches geleistet wird, ist nicht als Einkommen zu berücksichtigen.
 
-
-## § 84 – Zuwendungen
+# § 84 – Zuwendungen
 
 (1) Zuwendungen der freien Wohlfahrtspflege bleiben als Einkommen außer Betracht. Dies gilt nicht, soweit die Zuwendung die Lage der Leistungsberechtigten so günstig beeinflusst, dass daneben Sozialhilfe ungerechtfertigt wäre.
 
 (2) Zuwendungen, die ein anderer erbringt, ohne hierzu eine rechtliche oder sittliche Pflicht zu haben, sollen als Einkommen außer Betracht bleiben, soweit ihre Berücksichtigung für die Leistungsberechtigten eine besondere Härte bedeuten würde.
 
-
-## § 85 – Einkommensgrenze
+# § 85 – Einkommensgrenze
 
 (1) Bei der Hilfe nach dem Fünften bis Neunten Kapitel ist der nachfragenden Person und ihrem nicht getrennt lebenden Ehegatten oder Lebenspartner die Aufbringung der Mittel nicht zuzumuten, wenn während der Dauer des Bedarfs ihr monatliches Einkommen zusammen eine Einkommensgrenze nicht übersteigt, die sich ergibt aus
 
@@ -2975,13 +2855,11 @@ Leben die Eltern nicht zusammen, richtet sich die Einkommensgrenze nach dem Elte
 
 (3) Die Regelbedarfsstufe 1 nach der Anlage zu § 28 bestimmt sich nach dem Ort, an dem der Leistungsberechtigte die Leistung erhält. Bei der Leistung in einer Einrichtung sowie bei Unterbringung in einer anderen Familie oder bei den in § 107 genannten anderen Personen bestimmt er sich nach dem gewöhnlichen Aufenthalt des Leistungsberechtigten oder, wenn im Falle des Absatzes 2 auch das Einkommen seiner Eltern oder eines Elternteils maßgebend ist, nach deren gewöhnlichem Aufenthalt. Ist ein gewöhnlicher Aufenthalt im Inland nicht vorhanden oder nicht zu ermitteln, ist Satz 1 anzuwenden.
 
-
-## § 86 – Abweichender Grundbetrag
+# § 86 – Abweichender Grundbetrag
 
 Die Länder und, soweit landesrechtliche Vorschriften nicht entgegenstehen, auch die Träger der Sozialhilfe können für bestimmte Arten der Hilfe nach dem Fünften bis Neunten Kapitel der Einkommensgrenze einen höheren Grundbetrag zu Grunde legen.
 
-
-## § 87 – Einsatz des Einkommens über der Einkommensgrenze
+# § 87 – Einsatz des Einkommens über der Einkommensgrenze
 
 (1) Soweit das zu berücksichtigende Einkommen die Einkommensgrenze übersteigt, ist die Aufbringung der Mittel in angemessenem Umfang zuzumuten. Bei der Prüfung, welcher Umfang angemessen ist, sind insbesondere die Art des Bedarfs, die Art oder Schwere der Behinderung oder der Pflegebedürftigkeit, die Dauer und Höhe der erforderlichen Aufwendungen sowie besondere Belastungen der nachfragenden Person und ihrer unterhaltsberechtigten Angehörigen zu berücksichtigen. Bei Pflegebedürftigen der Pflegegrade 4 und 5 und blinden Menschen nach § 72 ist ein Einsatz des Einkommens über der Einkommensgrenze in Höhe von mindestens 60 vom Hundert nicht zuzumuten.
 
@@ -2989,8 +2867,7 @@ Die Länder und, soweit landesrechtliche Vorschriften nicht entgegenstehen, auch
 
 (3) Bei einmaligen Leistungen zur Beschaffung von Bedarfsgegenständen, deren Gebrauch für mindestens ein Jahr bestimmt ist, kann die Aufbringung der Mittel nach Maßgabe des Absatzes 1 auch aus dem Einkommen verlangt werden, das die in § 19 Abs. 3 genannten Personen innerhalb eines Zeitraumes von bis zu drei Monaten nach Ablauf des Monats, in dem über die Leistung entschieden worden ist, erwerben.
 
-
-## § 88 – Einsatz des Einkommens unter der Einkommensgrenze
+# § 88 – Einsatz des Einkommens unter der Einkommensgrenze
 
 (1) Die Aufbringung der Mittel kann, auch soweit das Einkommen unter der Einkommensgrenze liegt, verlangt werden,
 
@@ -3002,15 +2879,13 @@ Darüber hinaus soll in angemessenem Umfang die Aufbringung der Mittel verlangt 
 
 (2) Bei einer stationären Leistung in einer stationären Einrichtung wird von dem Einkommen, das der Leistungsberechtigte aus einer entgeltlichen Beschäftigung erzielt, die Aufbringung der Mittel in Höhe von einem Achtel der Regelbedarfsstufe 1 nach der Anlage zu § 28 zuzüglich 50 vom Hundert des diesen Betrag übersteigenden Einkommens aus der Beschäftigung nicht verlangt. § 82 Absatz 3 und 6 ist nicht anzuwenden.
 
-
-## § 89 – Einsatz des Einkommens bei mehrfachem Bedarf
+# § 89 – Einsatz des Einkommens bei mehrfachem Bedarf
 
 (1) Wird im Einzelfall der Einsatz eines Teils des Einkommens zur Deckung eines bestimmten Bedarfs zugemutet oder verlangt, darf dieser Teil des Einkommens bei der Prüfung, inwieweit der Einsatz des Einkommens für einen anderen gleichzeitig bestehenden Bedarf zuzumuten ist oder verlangt werden kann, nicht berücksichtigt werden.
 
 (2) Sind im Fall des Absatzes 1 für die Bedarfsfälle verschiedene Träger der Sozialhilfe zuständig, hat die Entscheidung über die Leistung für den zuerst eingetretenen Bedarf den Vorrang. Treten die Bedarfsfälle gleichzeitig ein, ist das über der Einkommensgrenze liegende Einkommen zu gleichen Teilen bei den Bedarfsfällen zu berücksichtigen. Bestehen neben den Bedarfen für Leistungen nach diesem Buch gleichzeitig Bedarfe für Leistungen nach Teil 2 des Neunten Buches, so ist das über der Einkommensgrenze liegende Einkommen nur zur Hälfte zu berücksichtigen.
 
-
-## § 90 – Einzusetzendes Vermögen
+# § 90 – Einzusetzendes Vermögen
 
 (1) Einzusetzen ist das gesamte verwertbare Vermögen.
 
@@ -3036,13 +2911,11 @@ Darüber hinaus soll in angemessenem Umfang die Aufbringung der Mittel verlangt 
 
 (3) Die Sozialhilfe darf ferner nicht vom Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für den, der das Vermögen einzusetzen hat, und für seine unterhaltsberechtigten Angehörigen eine Härte bedeuten würde. Dies ist bei der Leistung nach dem Fünften bis Neunten Kapitel insbesondere der Fall, soweit eine angemessene Lebensführung oder die Aufrechterhaltung einer angemessenen Alterssicherung wesentlich erschwert würde.
 
-
-## § 91 – Darlehen
+# § 91 – Darlehen
 
 Soweit nach § 90 für den Bedarf der nachfragenden Person Vermögen einzusetzen ist, jedoch der sofortige Verbrauch oder die sofortige Verwertung des Vermögens nicht möglich ist oder für die, die es einzusetzen hat, eine Härte bedeuten würde, soll die Sozialhilfe als Darlehen geleistet werden. Die Leistungserbringung kann davon abhängig gemacht werden, dass der Anspruch auf Rückzahlung dinglich oder in anderer Weise gesichert wird.
 
-
-## § 92 – Beschränkung des Einkommenseinsatzes auf die häusliche Ersparnis
+# § 92 – Beschränkung des Einkommenseinsatzes auf die häusliche Ersparnis
 
 (1) Erhält eine Person, die nicht in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt, Leistungen nach dem Dritten, Vierten, Fünften, Siebten, Achten oder Neunten Kapitel oder Leistungen für ärztliche oder ärztlich verordnete Maßnahmen, so kann die Aufbringung der Mittel für die Leistungen nach dem Dritten und Vierten Kapitel von ihr und den übrigen in § 19 Absatz 3 genannten Personen verlangt werden, soweit Aufwendungen für den häuslichen Lebensunterhalt erspart werden. Für Leistungsberechtigte nach § 27c Absatz 1 und die übrigen in § 19 Absatz 3 genannten Personen sind Leistungen nach § 27c ohne die Berücksichtigung von vorhandenem Vermögen zu erbringen; Absatz 2 findet keine Anwendung. Die Aufbringung der Mittel nach Satz 1 ist aus dem Einkommen nicht zumutbar, wenn Personen, bei denen nach § 138 Absatz 1 Nummer 3 und 6 des Neunten Buches ein Beitrag zu Leistungen der Eingliederungshilfe nicht verlangt wird, einer selbständigen und nicht selbständigen Tätigkeit nachgehen und das Einkommen aus dieser Tätigkeit einen Betrag in Höhe des Zweifachen der Regelbedarfsstufe 1 nach der Anlage zu § 28 nicht übersteigt; Satz 2 gilt entsprechend.
 
@@ -3050,8 +2923,7 @@ Soweit nach § 90 für den Bedarf der nachfragenden Person Vermögen einzusetzen
 
 (3) Hat ein anderer als ein nach bürgerlichem Recht Unterhaltspflichtiger nach sonstigen Vorschriften Leistungen für denselben Zweck zu erbringen, wird seine Verpflichtung durch Absatz 2 nicht berührt. Soweit er solche Leistungen erbringt, kann abweichend von Absatz 2 von den in § 19 Absatz 3 genannten Personen die Aufbringung der Mittel verlangt werden.
 
-
-## § 93 – Übergang von Ansprüchen
+# § 93 – Übergang von Ansprüchen
 
 (1) Hat eine leistungsberechtigte Person oder haben bei Gewährung von Hilfen nach dem Fünften bis Neunten Kapitel auch ihre Eltern, ihr nicht getrennt lebender Ehegatte oder ihr Lebenspartner für die Zeit, für die Leistungen erbracht werden, einen Anspruch gegen einen anderen, der kein Leistungsträger im Sinne des § 12 des Ersten Buches ist, kann der Träger der Sozialhilfe durch schriftliche Anzeige an den anderen bewirken, dass dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht. Er kann den Übergang dieses Anspruchs auch wegen seiner Aufwendungen für diejenigen Leistungen des Dritten und Vierten Kapitels bewirken, die er gleichzeitig mit den Leistungen für die in Satz 1 genannte leistungsberechtigte Person, deren nicht getrennt lebenden Ehegatten oder Lebenspartner und deren minderjährigen unverheirateten Kindern erbringt. Der Übergang des Anspruchs darf nur insoweit bewirkt werden, als bei rechtzeitiger Leistung des anderen entweder die Leistung nicht erbracht worden wäre oder in den Fällen des § 19 Abs. 5 Aufwendungsersatz oder ein Kostenbeitrag zu leisten wäre. Der Übergang ist nicht dadurch ausgeschlossen, dass der Anspruch nicht übertragen, verpfändet oder gepfändet werden kann.
 
@@ -3061,8 +2933,7 @@ Soweit nach § 90 für den Bedarf der nachfragenden Person Vermögen einzusetzen
 
 (4) Die §§ 115 und 116 des Zehnten Buches gehen der Regelung des Absatzes 1 vor.
 
-
-## § 94 – Übergang von Ansprüchen gegen einen nach bürgerlichem Recht Unterhaltspflichtigen
+# § 94 – Übergang von Ansprüchen gegen einen nach bürgerlichem Recht Unterhaltspflichtigen
 
 (1) Hat die leistungsberechtigte Person für die Zeit, für die Leistungen erbracht werden, nach bürgerlichem Recht einen Unterhaltsanspruch, geht dieser bis zur Höhe der geleisteten Aufwendungen zusammen mit dem unterhaltsrechtlichen Auskunftsanspruch auf den Träger der Sozialhilfe über. Der Übergang des Anspruchs ist ausgeschlossen, soweit der Unterhaltsanspruch durch laufende Zahlung erfüllt wird. Der Übergang des Anspruchs ist auch ausgeschlossen, wenn die unterhaltspflichtige Person zum Personenkreis des § 19 gehört oder die unterhaltspflichtige Person mit der leistungsberechtigten Person vom zweiten Grad an verwandt ist. Gleiches gilt für Unterhaltsansprüche gegen Verwandte ersten Grades einer Person, die schwanger ist oder ihr leibliches Kind bis zur Vollendung seines sechsten Lebensjahres betreut. § 93 Abs. 4 gilt entsprechend.
 
@@ -3082,20 +2953,17 @@ Der Träger der Sozialhilfe hat die Einschränkung des Übergangs nach Satz 1 zu
 
 (5) Der Träger der Sozialhilfe kann den auf ihn übergegangenen Unterhaltsanspruch im Einvernehmen mit der leistungsberechtigten Person auf diesen zur gerichtlichen Geltendmachung rückübertragen und sich den geltend gemachten Unterhaltsanspruch abtreten lassen. Kosten, mit denen die leistungsberechtigte Person dadurch selbst belastet wird, sind zu übernehmen. Über die Ansprüche nach den Absätzen 1, 2 bis 4 ist im Zivilrechtsweg zu entscheiden.
 
-
-## § 95 – Feststellung der Sozialleistungen
+# § 95 – Feststellung der Sozialleistungen
 
 Der erstattungsberechtigte Träger der Sozialhilfe kann die Feststellung einer Sozialleistung betreiben sowie Rechtsmittel einlegen. Der Ablauf der Fristen, die ohne sein Verschulden verstrichen sind, wirkt nicht gegen ihn. Satz 2 gilt nicht für die Verfahrensfristen, soweit der Träger der Sozialhilfe das Verfahren selbst betreibt.
 
-
-## § 96 – Verordnungsermächtigungen
+# § 96 – Verordnungsermächtigungen
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die Berechnung des Einkommens nach § 82, insbesondere der Einkünfte aus Land- und Forstwirtschaft, aus Gewerbebetrieb und aus selbständiger Arbeit bestimmen.
 
 (2) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates die Höhe der Barbeträge oder sonstigen Geldwerte im Sinne des § 90 Abs. 2 Nr. 9 bestimmen.
 
-
-## § 97 – Sachliche Zuständigkeit
+# § 97 – Sachliche Zuständigkeit
 
 (1) Für die Sozialhilfe sachlich zuständig ist der örtliche Träger der Sozialhilfe, soweit nicht der überörtliche Träger sachlich zuständig ist.
 
@@ -3117,8 +2985,7 @@ sachlich zuständig.
 
 (5) Die überörtlichen Träger sollen, insbesondere bei verbreiteten Krankheiten, zur Weiterentwicklung von Leistungen der Sozialhilfe beitragen. Hierfür können sie die erforderlichen Einrichtungen schaffen oder fördern.
 
-
-## § 98 – Örtliche Zuständigkeit
+# § 98 – Örtliche Zuständigkeit
 
 (1) Für die Sozialhilfe örtlich zuständig ist der Träger der Sozialhilfe, in dessen Bereich sich die Leistungsberechtigten tatsächlich aufhalten. Diese Zuständigkeit bleibt bis zur Beendigung der Leistung auch dann bestehen, wenn die Leistung außerhalb seines Bereichs erbracht wird.
 
@@ -3134,27 +3001,23 @@ sachlich zuständig.
 
 (6) Soweit Leistungen der Eingliederungshilfe nach Teil 2 des Neunten Buches zu erbringen sind, richtet sich die örtliche Zuständigkeit für gleichzeitig zu erbringende Leistungen nach diesem Buch nach § 98 des Neunten Buches, soweit das Landesrecht keine abweichende Regelung trifft.
 
-
-## § 99 – Vorbehalt abweichender Durchführung
+# § 99 – Vorbehalt abweichender Durchführung
 
 (1) Die Länder können bestimmen, dass und inwieweit die Kreise ihnen zugehörige Gemeinden oder Gemeindeverbände zur Durchführung von Aufgaben nach diesem Buch heranziehen und ihnen dabei Weisungen erteilen können; in diesen Fällen erlassen die Kreise den Widerspruchsbescheid nach dem Sozialgerichtsgesetz.
 
 (2) Die Länder können bestimmen, dass und inwieweit die überörtlichen Träger der Sozialhilfe örtliche Träger der Sozialhilfe sowie diesen zugehörige Gemeinden und Gemeindeverbände zur Durchführung von Aufgaben nach diesem Buch heranziehen und ihnen dabei Weisungen erteilen können; in diesen Fällen erlassen die überörtlichen Träger den Widerspruchsbescheid nach dem Sozialgerichtsgesetz, soweit nicht nach Landesrecht etwas anderes bestimmt wird.
 
-
-## § 100 – (weggefallen)
+# § 100 – (weggefallen)
 
 \-
 
-
-## § 101 – Behördenbestimmung und Stadtstaaten-Klausel
+# § 101 – Behördenbestimmung und Stadtstaaten-Klausel
 
 (1) Welche Stellen zuständige Behörden sind, bestimmt die Landesregierung, soweit eine landesrechtliche Regelung nicht besteht.
 
 (2) Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, die Vorschriften dieses Buches über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
-
-## § 102 – Kostenersatz durch Erben
+# § 102 – Kostenersatz durch Erben
 
 (1) Der Erbe der leistungsberechtigten Person oder ihres Ehegatten oder ihres Lebenspartners, falls diese vor der leistungsberechtigten Person sterben, ist vorbehaltlich des Absatzes 5 zum Ersatz der Kosten der Sozialhilfe verpflichtet. Die Ersatzpflicht besteht nur für die Kosten der Sozialhilfe, die innerhalb eines Zeitraumes von zehn Jahren vor dem Erbfall aufgewendet worden sind und die das Dreifache des Grundbetrages nach § 85 Abs. 1 übersteigen. Die Ersatzpflicht des Erben des Ehegatten oder Lebenspartners besteht nicht für die Kosten der Sozialhilfe, die während des Getrenntlebens der Ehegatten oder Lebenspartner geleistet worden sind. Ist die leistungsberechtigte Person der Erbe ihres Ehegatten oder Lebenspartners, ist sie zum Ersatz der Kosten nach Satz 1 nicht verpflichtet.
 
@@ -3172,8 +3035,7 @@ sachlich zuständig.
 
 (5) Der Ersatz der Kosten durch die Erben gilt nicht für Leistungen nach dem Vierten Kapitel und für die vor dem 1. Januar 1987 entstandenen Kosten der Tuberkulosehilfe.
 
-
-## § 103 – Kostenersatz bei schuldhaftem Verhalten
+# § 103 – Kostenersatz bei schuldhaftem Verhalten
 
 (1) Zum Ersatz der Kosten der Sozialhilfe ist verpflichtet, wer nach Vollendung des 18. Lebensjahres für sich oder andere durch vorsätzliches oder grob fahrlässiges Verhalten die Voraussetzungen für die Leistungen der Sozialhilfe herbeigeführt hat. Zum Kostenersatz ist auch verpflichtet, wer als leistungsberechtigte Person oder als deren Vertreter die Rechtswidrigkeit des der Leistung zu Grunde liegenden Verwaltungsaktes kannte oder infolge grober Fahrlässigkeit nicht kannte. Von der Heranziehung zum Kostenersatz kann abgesehen werden, soweit sie eine Härte bedeuten würde.
 
@@ -3183,18 +3045,15 @@ sachlich zuständig.
 
 (4) Die §§ 44 bis 50 des Zehnten Buches bleiben unberührt. Zum Kostenersatz nach Absatz 1 und zur Erstattung derselben Kosten nach § 50 des Zehnten Buches Verpflichtete haften als Gesamtschuldner.
 
-
-## § 104 – Kostenersatz für zu Unrecht erbrachte Leistungen
+# § 104 – Kostenersatz für zu Unrecht erbrachte Leistungen
 
 Zum Ersatz der Kosten für zu Unrecht erbrachte Leistungen der Sozialhilfe ist in entsprechender Anwendung des § 103 verpflichtet, wer die Leistungen durch vorsätzliches oder grob fahrlässiges Verhalten herbeigeführt hat. Zum Kostenersatz nach Satz 1 und zur Erstattung derselben Kosten nach § 50 des Zehnten Buches Verpflichtete haften als Gesamtschuldner.
 
-
-## § 105 – Kostenersatz bei Doppelleistungen
+# § 105 – Kostenersatz bei Doppelleistungen
 
 Hat ein vorrangig verpflichteter Leistungsträger in Unkenntnis der Leistung des Trägers der Sozialhilfe an die leistungsberechtigte Person geleistet, ist diese zur Herausgabe des Erlangten an den Träger der Sozialhilfe verpflichtet.
 
-
-## § 106 – Kostenerstattung bei Aufenthalt in einer Einrichtung
+# § 106 – Kostenerstattung bei Aufenthalt in einer Einrichtung
 
 (1) Der nach § 98 Abs. 2 Satz 1 zuständige Träger der Sozialhilfe hat dem nach § 98 Abs. 2 Satz 3 vorläufig leistenden Träger die aufgewendeten Kosten zu erstatten. Ist in den Fällen des § 98 Abs. 2 Satz 3 und 4 ein gewöhnlicher Aufenthalt nicht vorhanden oder nicht zu ermitteln und war für die Leistungserbringung ein örtlicher Träger der Sozialhilfe sachlich zuständig, sind diesem die aufgewendeten Kosten von dem überörtlichen Träger der Sozialhilfe zu erstatten, zu dessen Bereich der örtliche Träger gehört.
 
@@ -3202,13 +3061,11 @@ Hat ein vorrangig verpflichteter Leistungsträger in Unkenntnis der Leistung des
 
 (3) Verlässt in den Fällen des § 98 Abs. 2 die leistungsberechtigte Person die Einrichtung und erhält sie im Bereich des örtlichen Trägers, in dem die Einrichtung liegt, innerhalb von einem Monat danach Leistungen der Sozialhilfe, sind dem örtlichen Träger der Sozialhilfe die aufgewendeten Kosten von dem Träger der Sozialhilfe zu erstatten, in dessen Bereich die leistungsberechtigte Person ihren gewöhnlichen Aufenthalt im Sinne des § 98 Abs. 2 Satz 1 hatte. Absatz 1 Satz 2 gilt entsprechend. Die Erstattungspflicht wird nicht durch einen Aufenthalt außerhalb dieses Bereichs oder in einer Einrichtung im Sinne des § 98 Abs. 2 Satz 1 unterbrochen, wenn dieser zwei Monate nicht übersteigt; sie endet, wenn für einen zusammenhängenden Zeitraum von zwei Monaten Leistungen nicht zu erbringen waren, spätestens nach Ablauf von zwei Jahren seit dem Verlassen der Einrichtung.
 
-
-## § 107 – Kostenerstattung bei Unterbringung in einer anderen Familie
+# § 107 – Kostenerstattung bei Unterbringung in einer anderen Familie
 
 § 98 Abs. 2 und § 106 gelten entsprechend, wenn ein Kind oder ein Jugendlicher in einer anderen Familie oder bei anderen Personen als bei seinen Eltern oder bei einem Elternteil untergebracht ist.
 
-
-## § 108 – Kostenerstattung bei Einreise aus dem Ausland
+# § 108 – Kostenerstattung bei Einreise aus dem Ausland
 
 (1) Reist eine Person, die weder im Ausland noch im Inland einen gewöhnlichen Aufenthalt hat, aus dem Ausland ein und setzen innerhalb eines Monats nach ihrer Einreise Leistungen der Sozialhilfe ein, sind die aufgewendeten Kosten von dem von einer Schiedsstelle bestimmten überörtlichen Träger der Sozialhilfe zu erstatten. Bei ihrer Entscheidung hat die Schiedsstelle die Einwohnerzahl und die Belastungen, die sich im vorangegangenen Haushaltsjahr für die Träger der Sozialhilfe nach dieser Vorschrift sowie nach den §§ 24 und 115 ergeben haben, zu berücksichtigen. Satz 1 gilt nicht für Personen, die im Inland geboren sind oder bei Einsetzen der Leistung mit ihnen als Ehegatte, Lebenspartner, Verwandte oder Verschwägerte zusammenleben. Leben Ehegatten, Lebenspartner, Verwandte oder Verschwägerte bei Einsetzen der Leistung zusammen, ist ein gemeinsamer erstattungspflichtiger Träger der Sozialhilfe zu bestimmen.
 
@@ -3220,37 +3077,31 @@ Hat ein vorrangig verpflichteter Leistungsträger in Unkenntnis der Leistung des
 
 (5) Die Absätze 1 bis 4 sind nicht anzuwenden für Personen, deren Unterbringung nach der Einreise in das Inland bundesrechtlich oder durch Vereinbarung zwischen Bund und Ländern geregelt ist.
 
-
-## § 109 – Ausschluss des gewöhnlichen Aufenthalts
+# § 109 – Ausschluss des gewöhnlichen Aufenthalts
 
 Als gewöhnlicher Aufenthalt im Sinne des Zwölften Kapitels und des Dreizehnten Kapitels, Zweiter Abschnitt, gelten nicht der Aufenthalt in einer Einrichtung im Sinne von § 98 Abs. 2 und der auf richterlich angeordneter Freiheitsentziehung beruhende Aufenthalt in einer Vollzugsanstalt.
 
-
-## § 110 – Umfang der Kostenerstattung
+# § 110 – Umfang der Kostenerstattung
 
 (1) Die aufgewendeten Kosten sind zu erstatten, soweit die Leistung diesem Buch entspricht. Dabei gelten die am Aufenthaltsort der Leistungsberechtigten zur Zeit der Leistungserbringung bestehenden Grundsätze für die Leistung von Sozialhilfe.
 
 (2) Kosten unter 2 560 Euro, bezogen auf einen Zeitraum der Leistungserbringung von bis zu zwölf Monaten, sind außer in den Fällen einer vorläufigen Leistungserbringung nach § 98 Abs. 2 Satz 3 nicht zu erstatten. Die Begrenzung auf 2 560 Euro gilt, wenn die Kosten für die Mitglieder eines Haushalts im Sinne von § 27 Absatz 2 Satz 2 und 3 zu erstatten sind, abweichend von Satz 1 für die Mitglieder des Haushalts zusammen.
 
-
-## § 111 – Verjährung
+# § 111 – Verjährung
 
 (1) Der Anspruch auf Erstattung der aufgewendeten Kosten verjährt in vier Jahren, beginnend nach Ablauf des Kalenderjahres, in dem er entstanden ist.
 
 (2) Für die Hemmung, die Ablaufhemmung, den Neubeginn und die Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen Gesetzbuchs sinngemäß.
 
-
-## § 112 – Kostenerstattung auf Landesebene
+# § 112 – Kostenerstattung auf Landesebene
 
 Die Länder können Abweichendes über die Kostenerstattung zwischen den Trägern der Sozialhilfe ihres Bereichs regeln.
 
-
-## § 113 – Vorrang der Erstattungsansprüche
+# § 113 – Vorrang der Erstattungsansprüche
 
 Erstattungsansprüche der Träger der Sozialhilfe gegen andere Leistungsträger nach § 104 des Zehnten Buches gehen einer Übertragung, Pfändung oder Verpfändung des Anspruchs vor, auch wenn sie vor Entstehen des Erstattungsanspruchs erfolgt sind.
 
-
-## § 114 – Ersatzansprüche der Träger der Sozialhilfe nach sonstigen Vorschriften
+# § 114 – Ersatzansprüche der Träger der Sozialhilfe nach sonstigen Vorschriften
 
 Bestimmt sich das Recht des Trägers der Sozialhilfe, Ersatz seiner Aufwendungen von einem anderen zu verlangen, gegen den die Leistungsberechtigten einen Anspruch haben, nach sonstigen gesetzlichen Vorschriften, die dem § 93 vorgehen, gelten als Aufwendungen
 
@@ -3258,22 +3109,19 @@ Bestimmt sich das Recht des Trägers der Sozialhilfe, Ersatz seiner Aufwendungen
 
 2. die Kosten für Leistungen nach dem Dritten und Vierten Kapitel, die gleichzeitig mit der Leistung nach Nummer 1 für den nicht getrennt lebenden Ehegatten oder Lebenspartner und die minderjährigen unverheirateten Kinder geleistet wurden.
 
-
-## § 115 – Übergangsregelung für die Kostenerstattung bei Einreise aus dem Ausland
+# § 115 – Übergangsregelung für die Kostenerstattung bei Einreise aus dem Ausland
 
 Die Pflicht eines Trägers der Sozialhilfe zur Kostenerstattung, die nach der vor dem 1. Januar 1994 geltenden Fassung des § 108 des Bundessozialhilfegesetzes entstanden oder von der Schiedsstelle bestimmt worden ist, bleibt bestehen.
 
-
-## § 116 – Beteiligung sozial erfahrener Dritter
+# § 116 – Beteiligung sozial erfahrener Dritter
 
 (1) Soweit Landesrecht nichts Abweichendes bestimmt, sind vor dem Erlass allgemeiner Verwaltungsvorschriften sozial erfahrene Dritte zu hören, insbesondere aus Vereinigungen, die Bedürftige betreuen, oder aus Vereinigungen von Sozialleistungsempfängern.
 
 (2) Soweit Landesrecht nichts Abweichendes bestimmt, sind vor dem Erlass des Verwaltungsaktes über einen Widerspruch gegen die Ablehnung der Sozialhilfe oder gegen die Festsetzung ihrer Art und Höhe Dritte, wie sie in Absatz 1 bezeichnet sind, beratend zu beteiligen.
 
-§ 116 Abs. 1 idF. d. Art. 1 G v. 27.12.2003 I 3022, 3023: Berlin - Abweichung durch [§ 7 Abs. 3 des Gesetzes zur Ausführung des Zwölften Buches Sozialgesetzbuch (AG-SGB XII)](../abweichendes_Landesrecht/sgb12ag_be_7.html "Anzeige in neuem Fenster") v. 7.9.2005 GVBl. S. 467 idF d. Art. 1 Nr. 2 G v. 7.7.2016 GVBl. S. 423 mWv 22.7.2016 (vgl. BGBl. I 2018, 1311)
+§ 116 Abs. 1 idF. d. Art. 1 G v. 27.12.2003 I 3022, 3023: Berlin - Abweichung durch [§ 7 Abs. 3 des Gesetzes zur Ausführung des Zwölften Buches Sozialgesetzbuch (AG-SGB XII)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/sgb12ag_be_7.html "Anzeige in neuem Fenster") v. 7.9.2005 GVBl. S. 467 idF d. Art. 1 Nr. 2 G v. 7.7.2016 GVBl. S. 423 mWv 22.7.2016 (vgl. BGBl. I 2018, 1311)
 
-
-## § 116a – Rücknahme von Verwaltungsakten
+# § 116a – Rücknahme von Verwaltungsakten
 
 § 44 des Zehnten Buches gilt mit der Maßgabe, dass
 
@@ -3281,8 +3129,7 @@ Die Pflicht eines Trägers der Sozialhilfe zur Kostenerstattung, die nach der vo
 
 2. anstelle des Zeitraums von vier Jahren nach Absatz 4 Satz 1 ein Zeitraum von einem Jahr tritt.
 
-
-## § 117 – Pflicht zur Auskunft
+# § 117 – Pflicht zur Auskunft
 
 (1) Die Unterhaltspflichtigen, ihre nicht getrennt lebenden Ehegatten oder Lebenspartner und die Kostenersatzpflichtigen haben dem Träger der Sozialhilfe über ihre Einkommens- und Vermögensverhältnisse Auskunft zu geben, soweit die Durchführung dieses Buches es erfordert. Dabei haben sie die Verpflichtung, auf Verlangen des Trägers der Sozialhilfe Beweisurkunden vorzulegen oder ihrer Vorlage zuzustimmen. Auskunftspflichtig nach Satz 1 und 2 sind auch Personen, von denen nach § 39 trotz Aufforderung unwiderlegt vermutet wird, dass sie Leistungen zum Lebensunterhalt an andere Mitglieder der Haushaltsgemeinschaft erbringen. Die Auskunftspflicht der Finanzbehörden nach § 21 Abs. 4 des Zehnten Buches erstreckt sich auch auf diese Personen.
 
@@ -3296,8 +3143,7 @@ Die Pflicht eines Trägers der Sozialhilfe zur Kostenerstattung, die nach der vo
 
 (6) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig die Auskünfte nach den Absätzen 2, 3 Satz 1 und Absatz 4 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt. Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
-## § 118 – Überprüfung, Verwaltungshilfe
+# § 118 – Überprüfung, Verwaltungshilfe
 
 (1) Die Träger der Sozialhilfe können Personen, die Leistungen nach diesem Buch beziehen, auch regelmäßig im Wege des automatisierten Datenabgleichs daraufhin überprüfen,
 
@@ -3335,8 +3181,7 @@ Sie dürfen für die Überprüfung nach Satz 1 Name, Vorname (Rufname), Geburtsd
 
 Die in Satz 1 genannten Stellen sind verpflichtet, die in Satz 4 genannten Daten zu übermitteln. Sie haben die ihnen im Rahmen der Überprüfung übermittelten Daten nach Vorlage der Mitteilung unverzüglich zu löschen. Eine Übermittlung durch diese Stellen unterbleibt, soweit ihr besondere gesetzliche Verwendungsregelungen entgegenstehen.
 
-
-## § 119 – Wissenschaftliche Forschung im Auftrag des Bundes
+# § 119 – Wissenschaftliche Forschung im Auftrag des Bundes
 
 Der Träger der Sozialhilfe darf einer wissenschaftlichen Einrichtung, die im Auftrag des Bundesministeriums für Arbeit und Soziales ein Forschungsvorhaben durchführt, das dem Zweck dient, die Erreichung der Ziele von Gesetzen über soziale Leistungen zu überprüfen oder zu verbessern, Sozialdaten übermitteln, soweit
 
@@ -3346,8 +3191,7 @@ Der Träger der Sozialhilfe darf einer wissenschaftlichen Einrichtung, die im Au
 
 Vor der Übermittlung sind die Betroffenen über die beabsichtigte Übermittlung, den Zweck des Forschungsvorhabens sowie ihr Widerspruchsrecht nach Satz 3 schriftlich zu unterrichten. Sie können der Übermittlung innerhalb eines Monats nach der Unterrichtung widersprechen. Im Übrigen bleibt das Zweite Kapitel des Zehnten Buches unberührt.
 
-
-## § 120 – Verordnungsermächtigung
+# § 120 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -3355,8 +3199,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsver
 
 2. das Nähere über die Verfahren und die Kosten nach § 118 Absatz 1a und 2 zu regeln.
 
-
-## § 121 – Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel
+# § 121 – Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel
 
 Zur Beurteilung der Auswirkungen des Dritten und Fünften bis Neunten Kapitels und zu deren Fortentwicklung werden Erhebungen über
 
@@ -3380,8 +3223,7 @@ geleistet wird,
 
 als Bundesstatistik durchgeführt.
 
-
-## § 122 – Erhebungsmerkmale
+# § 122 – Erhebungsmerkmale
 
 (1) Erhebungsmerkmale bei der Erhebung nach § 121 Nummer 1 Buchstabe a sind:
 
@@ -3426,8 +3268,7 @@ c) die Höhe des anzurechnenden Einkommens, Bezug von Leistungen der Eingliederu
 (4) Erhebungsmerkmale bei der Erhebung nach § 121 Nummer 2 sind:  
 Art des Trägers, Ausgaben für Leistungen in und außerhalb von Einrichtungen nach § 8, Einnahmen in und außerhalb von Einrichtungen nach Einnahmearten und Leistungen nach § 8.
 
-
-## § 123 – Hilfsmerkmale
+# § 123 – Hilfsmerkmale
 
 (1) Hilfsmerkmale für Erhebungen nach § 121 sind
 
@@ -3439,8 +3280,7 @@ Art des Trägers, Ausgaben für Leistungen in und außerhalb von Einrichtungen n
 
 (2) Die Kennnummern nach Absatz 1 Nummer 2 dienen der Prüfung der Richtigkeit der Statistik und der Fortschreibung der jeweils letzten Bestandserhebung. Sie enthalten keine Angaben über persönliche und sachliche Verhältnisse der Leistungsberechtigten und sind zum frühestmöglichen Zeitpunkt spätestens nach Abschluss der wiederkehrenden Bestandserhebung zu löschen.
 
-
-## § 124 – Periodizität, Berichtszeitraum und Berichtszeitpunkte
+# § 124 – Periodizität, Berichtszeitraum und Berichtszeitpunkte
 
 (1) Die Erhebungen nach § 122 Absatz 1 Nummer 1 Buchstabe a bis c werden als Bestandserhebungen jährlich zum 31. Dezember durchgeführt. Die Angaben sind darüber hinaus bei Beginn und Ende der Leistungserbringung sowie bei Änderung der Zusammensetzung der Personengemeinschaft nach § 122 Absatz 1 Nummer 1 Buchstabe c zu erteilen. Die Angaben zu § 122 Absatz 1 Nummer 1 Buchstabe d sind ebenfalls zum Zeitpunkt der Beendigung der Leistungserbringung und der Änderung der Zusammensetzung der Personengemeinschaft zu erteilen.
 
@@ -3450,15 +3290,13 @@ Art des Trägers, Ausgaben für Leistungen in und außerhalb von Einrichtungen n
 
 (4) Die Erhebungen nach § 122 Absatz 3 und 4 erfolgen jährlich für das abgelaufene Kalenderjahr.
 
-
-## § 125 – Auskunftspflicht
+# § 125 – Auskunftspflicht
 
 (1) Für die Erhebungen nach § 121 besteht Auskunftspflicht. Die Angaben nach § 123 Absatz 1 Nummer 3 sowie die Angaben zum Gemeindeteil nach § 122 Absatz 1 Nummer 1 Buchstabe c und e sowie Absatz 3 Nummer 1 sind freiwillig.
 
 (2) Auskunftspflichtig sind die zuständigen örtlichen und überörtlichen Träger der Sozialhilfe sowie die kreisangehörigen Gemeinden und Gemeindeverbände, soweit sie Aufgaben dieses Buches wahrnehmen.
 
-
-## § 126 – Übermittlung, Veröffentlichung
+# § 126 – Übermittlung, Veröffentlichung
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen nach § 121 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht differenzierter als auf Regierungsbezirksebene, bei Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
@@ -3466,20 +3304,17 @@ Art des Trägers, Ausgaben für Leistungen in und außerhalb von Einrichtungen n
 
 (3) Die Ergebnisse der Sozialhilfestatistik dürfen auf die einzelne Gemeinde bezogen veröffentlicht werden.
 
-
-## § 127 – Übermittlung an Kommunen
+# § 127 – Übermittlung an Kommunen
 
 (1) Für ausschließlich statistische Zwecke dürfen den zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände für ihren Zuständigkeitsbereich Einzelangaben aus der Erhebung nach § 122 mit Ausnahme der Hilfsmerkmale übermittelt werden, soweit die Voraussetzungen nach § 16 Abs. 5 des Bundesstatistikgesetzes gegeben sind.
 
 (2) Die Daten können auch für interkommunale Vergleichszwecke übermittelt werden, wenn die betreffenden Träger der Sozialhilfe zustimmen und sichergestellt ist, dass die Datenerhebung der Berichtsstellen nach standardisierten Erfassungs- und Melderegelungen sowie vereinheitlichter Auswertungsroutine erfolgt.
 
-
-## § 128 – Zusatzerhebungen
+# § 128 – Zusatzerhebungen
 
 Über Leistungen und Maßnahmen nach dem Dritten und Fünften bis Neunten Kapitel, die nicht durch die Erhebungen nach § 121 Nummer 1 erfasst sind, können bei Bedarf Zusatzerhebungen als Bundesstatistiken durchgeführt werden.
 
-
-## § 128a – Bundesstatistik für das Vierte Kapitel
+# § 128a – Bundesstatistik für das Vierte Kapitel
 
 (1) Zur Beurteilung der Auswirkungen des Vierten Kapitels sowie zu seiner Fortentwicklung sind Erhebungen über die Leistungsberechtigten als Bundesstatistik durchzuführen. Die Erhebungen erfolgen zentral durch das Statistische Bundesamt.
 
@@ -3491,8 +3326,7 @@ Art des Trägers, Ausgaben für Leistungen in und außerhalb von Einrichtungen n
 
 3. Art und Höhe der angerechneten Einkommen und der nach § 82 Absatz 2 Satz 2, Absatz 3, 4 und 6 sowie nach § 82a abgesetzten Beträge.
 
-
-## § 128b – Persönliche Merkmale
+# § 128b – Persönliche Merkmale
 
 Erhebungsmerkmale nach § 128a Absatz 2 Nummer 1 sind
 
@@ -3512,8 +3346,7 @@ Erhebungsmerkmale nach § 128a Absatz 2 Nummer 1 sind
 
 8. Bezug einer Grundrente.
 
-
-## § 128c – Art und Höhe der Bedarfe
+# § 128c – Art und Höhe der Bedarfe
 
 Erhebungsmerkmale nach § 128a Absatz 2 Nummer 2 sind
 
@@ -3588,8 +3421,7 @@ a) Darlehen nach § 37 Absatz 1 und
 
 b) Darlehen bei am Monatsende fälligen Einkünften nach § 37a.
 
-
-## § 128d – Art und Höhe der angerechneten Einkommen und abgesetzten Beträge
+# § 128d – Art und Höhe der angerechneten Einkommen und abgesetzten Beträge
 
 (1) Erhebungsmerkmale nach § 128a Absatz 2 Nummer 3 sind die jeweilige Höhe der angerechneten Einkommensart, getrennt nach
 
@@ -3619,8 +3451,7 @@ b) Darlehen bei am Monatsende fälligen Einkünften nach § 37a.
 
 (2) Weitere Erhebungsmerkmale nach § 128a Absatz 2 Nummer 3 sind die Art und Höhe der nach § 82 Absatz 2 Satz 2, Absatz 3, 4 und 6 sowie nach § 82a abgesetzten Beträge.
 
-
-## § 128e – Hilfsmerkmale
+# § 128e – Hilfsmerkmale
 
 (1) Hilfsmerkmale für die Bundesstatistik nach § 128a sind
 
@@ -3632,8 +3463,7 @@ b) Darlehen bei am Monatsende fälligen Einkünften nach § 37a.
 
 (2) Die Kennnummern nach Absatz 1 Nummer 2 dienen der Prüfung der Richtigkeit der Statistik und der Fortschreibung der jeweils letzten Bestandserhebung. Sie enthalten keine Angaben über persönliche und sachliche Verhältnisse des Leistungsberechtigten und sind zum frühestmöglichen Zeitpunkt, spätestens nach Abschluss der wiederkehrenden Bestandserhebung, zu löschen.
 
-
-## § 128f – Periodizität, Berichtszeitraum und Berichtszeitpunkte
+# § 128f – Periodizität, Berichtszeitraum und Berichtszeitpunkte
 
 (1) Die Bundesstatistik nach § 128a wird quartalsweise durchgeführt.
 
@@ -3643,15 +3473,13 @@ b) Darlehen bei am Monatsende fälligen Einkünften nach § 37a.
 
 (4) Die Merkmale nach § 128c Nummer 6 sind für jeden Monat eines Quartals zu erheben, wobei gleichzeitig die Merkmale nach § 128b Nummer 1 und 2 zu erheben sind.
 
-
-## § 128g – Auskunftspflicht
+# § 128g – Auskunftspflicht
 
 (1) Für die Bundesstatistik nach § 128a besteht Auskunftspflicht. Die Auskunftserteilung für die Angaben nach § 128e Nummer 3 und zum Gemeindeteil nach § 128b Nummer 2 sind freiwillig.
 
 (2) Auskunftspflichtig sind die für die Ausführung des Gesetzes nach dem Vierten Kapitel zuständigen Träger.
 
-
-## § 128h – Datenübermittlung, Veröffentlichung
+# § 128h – Datenübermittlung, Veröffentlichung
 
 (1) Die in sich schlüssigen und nach einheitlichen Standards formatierten Einzeldatensätze sind von den Auskunftspflichtigen elektronisch bis zum Ablauf von 30 Arbeitstagen nach Ende des jeweiligen Berichtsquartals nach § 128f an das Statistische Bundesamt zu übermitteln. Soweit die Übermittlung zwischen informationstechnischen Netzen von Bund und Ländern stattfindet, ist dafür nach § 3 des Gesetzes über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes – vom 10. August 2009 (BGBl. I S. 2702, 2706) das Verbindungsnetz zu nutzen. Die zu übermittelnden Daten sind nach dem Stand der Technik fortgeschritten zu signieren und zu verschlüsseln.
 
@@ -3665,8 +3493,7 @@ b) Darlehen bei am Monatsende fälligen Einkünften nach § 37a.
 
 (6) Die Ergebnisse der Bundesstatistik nach diesem Abschnitt dürfen auf die einzelnen Gemeinden bezogen veröffentlicht werden.
 
-
-## § 129 – Verordnungsermächtigung
+# § 129 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales kann für Zusatzerhebungen nach § 128 im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere regeln über
 
@@ -3682,18 +3509,15 @@ e) die erforderlichen Erhebungs- und Hilfsmerkmale im Sinne der §§ 122 und 123
 
 f) die Art der Erhebung (Vollerhebung oder Zufallsstichprobe).
 
-
-## § 130 – Übergangsregelung für ambulant Betreute
+# § 130 – Übergangsregelung für ambulant Betreute
 
 Für Personen, die Leistungen der Eingliederungshilfe für behinderte Menschen oder der Hilfe zur Pflege empfangen, deren Betreuung am 26. Juni 1996 durch von ihnen beschäftigte Personen oder ambulante Dienste sichergestellt wurde, gilt § 3a des Bundessozialhilfegesetzes in der am 26. Juni 1996 geltenden Fassung.
 
-
-## § 131 – Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel
+# § 131 – Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel
 
 Die Erhebungen nach § 121 Nummer 2 in Verbindung mit § 122 Absatz 4 in der am 31. Dezember 2014 geltenden Fassung über die Ausgaben und Einnahmen der nach Landesrecht für die Ausführung von Geldleistungen nach dem Vierten Kapitel zuständigen Träger sind dabei auch in den Berichtsjahren 2015 und 2016 durchzuführen. Die §§ 124 bis 127 sind in der am 31. Dezember 2014 geltenden Fassung anzuwenden.
 
-
-## § 132 – Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland
+# § 132 – Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland
 
 (1) Deutsche, die am 31. Dezember 2003 Leistungen nach § 147b des Bundessozialhilfegesetzes in der zu diesem Zeitpunkt geltenden Fassung bezogen haben, erhalten diese Leistungen bei fortdauernder Bedürftigkeit weiter.
 
@@ -3713,20 +3537,17 @@ erhalten diese Leistungen bei fortdauernder Bedürftigkeit weiter. Für Deutsche
 
 können, sofern sie in dem Aufenthaltsstaat über ein dauerhaftes Aufenthaltsrecht verfügen, in außergewöhnlichen Notlagen Leistungen erhalten, auch wenn sie nicht die Voraussetzungen nach den Absätzen 1 und 2 oder nach § 24 Abs. 1 erfüllen; § 24 Abs. 2 gilt.
 
-
-## § 133 – Übergangsregelung für besondere Hilfen an Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes
+# § 133 – Übergangsregelung für besondere Hilfen an Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes
 
 (1) Deutsche, die außerhalb des Geltungsbereiches dieses Gesetzes, aber innerhalb des in Artikel 116 Abs. 1 des Grundgesetzes genannten Gebiets geboren sind und dort ihren gewöhnlichen Aufenthalt haben, können in außergewöhnlichen Notlagen besondere Hilfen erhalten, auch wenn sie nicht die Voraussetzungen des § 24 Abs. 1 erfüllen. § 24 Abs. 2 gilt. Die Höhe dieser Leistungen bemisst sich nach den im Aufenthaltsstaat in vergleichbaren Lebensumständen üblichen Leistungen. Die besonderen Hilfen werden unter Übernahme der Kosten durch den Bund durch Träger der freien Wohlfahrtspflege mit Sitz im Inland geleistet.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die persönlichen Bezugsvoraussetzungen, die Bemessung der Leistungen sowie die Trägerschaft und das Verfahren zu bestimmen.
 
-
-## § 133a – Übergangsregelung für Hilfeempfänger in Einrichtungen
+# § 133a – Übergangsregelung für Hilfeempfänger in Einrichtungen
 
 Für Personen, die am 31. Dezember 2004 einen Anspruch auf einen zusätzlichen Barbetrag nach § 21 Abs. 3 Satz 4 des Bundessozialhilfegesetzes haben, wird diese Leistung in der für den vollen Kalendermonat Dezember 2004 festgestellten Höhe weiter erbracht.
 
-
-## § 133b – Übergangsregelung zu Bedarfen für Unterkunft und Heizung
+# § 133b – Übergangsregelung zu Bedarfen für Unterkunft und Heizung
 
 § 42a Absatz 3 und 4 findet keine Anwendung auf Leistungsberechtigte, bei denen vor dem 1. Juli 2017 Bedarfe für Unterkunft und Heizung nach § 35 anerkannt worden sind, die
 
@@ -3736,20 +3557,17 @@ Für Personen, die am 31. Dezember 2004 einen Anspruch auf einen zusätzlichen B
 
 Satz 1 findet Anwendung, solange die leistungsberechtigte Person mit mehreren Personen in derselben Wohnung lebt.
 
-
-## § 134 – Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6
+# § 134 – Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6
 
 Abweichend von § 28a ist die Regelbedarfsstufe 6 der Anlage zu § 28 nicht mit dem sich nach der Verordnung nach § 40 ergebenden Prozentsatz fortzuschreiben, solange sich durch die entsprechende Fortschreibung des Betrages nach § 8 Absatz 1 Satz 1 Nummer 6 des Regelbedarfs-Ermittlungsgesetzes kein höherer Betrag ergeben würde.
 
-
-## § 135 – Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes
+# § 135 – Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes
 
 (1) Erhielten am 31. Dezember 1986 Tuberkulosekranke, von Tuberkulose Bedrohte oder von Tuberkulose Genesene laufende Leistungen nach Vorschriften, die durch das Zweite Rechtsbereinigungsgesetz außer Kraft treten, sind diese Leistungen nach den bisher maßgebenden Vorschriften weiterzugewähren, längstens jedoch bis zum 31. Dezember 1987. Sachlich zuständig bleibt der überörtliche Träger der Sozialhilfe, soweit nicht nach Landesrecht der örtliche Träger zuständig ist.
 
 (2) Die Länder können für die Verwaltung der im Rahmen der bisherigen Tuberkulosehilfe gewährten Darlehen andere Behörden bestimmen.
 
-
-## § 136 – Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019
+# § 136 – Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019
 
 (1) Für Leistungsberechtigte nach dem Vierten Kapitel, die zugleich Leistungen der Eingliederungshilfe nach dem Sechsten Kapitel in einer stationären Einrichtung erhalten, erstattet der Bund den Ländern in den Jahren 2017 bis 2019 für jeden Leistungsberechtigten je Kalendermonat einen Betrag, dessen Höhe sich nach einem Anteil von 14 Prozent der Regelbedarfsstufe 1 nach der Anlage zu § 28 bemisst.
 
@@ -3781,8 +3599,7 @@ Der Erstattungsbetrag für den jeweiligen Meldezeitraum ergibt sich aus der Summ
 
 4. zum 15. Mai 2020 für den Meldezeitraum Juli 2019 bis Dezember 2019.
 
-
-## § 136a – Erstattung des Barbetrags durch den Bund ab dem Jahr 2020
+# § 136a – Erstattung des Barbetrags durch den Bund ab dem Jahr 2020
 
 (1) Für Leistungsberechtigte nach dem Vierten Kapitel, die zugleich Leistungen in einer stationären Einrichtung erhalten, erstattet der Bund den Ländern ab dem Jahr 2020 je Kalendermonat einen Betrag, dessen Höhe sich nach den in Satz 2 genannten Anteilen der Regelbedarfsstufe 1 nach der Anlage zu § 28 bemisst. Die Anteile an der Regelbedarfsstufe 1 belaufen sich
 
@@ -3804,8 +3621,7 @@ Der Erstattungsbetrag für den jeweiligen Meldezeitraum ergibt sich aus der Summ
 
 (4) Der Erstattungsbetrag nach Absatz 3 Satz 2 ist zum 31. August des Kalenderjahres zu zahlen, das auf den jeweiligen Meldezeitraum folgt.
 
-
-## § 137 – Überleitung in Pflegegrade zum 1. Januar 2017
+# § 137 – Überleitung in Pflegegrade zum 1. Januar 2017
 
 Pflegebedürftige, deren Pflegebedürftigkeit nach den Vorschriften des Siebten Kapitels in der am 31. Dezember 2016 geltenden Fassung festgestellt worden ist und bei denen spätestens am 31. Dezember 2016 die Voraussetzungen auf Leistungen nach den Vorschriften des Siebten Kapitels vorliegen, werden ab dem 1. Januar 2017 ohne erneute Antragstellung und ohne erneute Begutachtung wie folgt in die Pflegegrade übergeleitet:
 
@@ -3817,13 +3633,11 @@ Pflegebedürftige, deren Pflegebedürftigkeit nach den Vorschriften des Siebten 
 
 Die Überleitung in die Pflegegrade nach § 140 des Elften Buches ist für den Träger der Sozialhilfe bindend.
 
-
-## § 138 – Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes
+# § 138 – Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes
 
 Einer Person, die am 31. Dezember 2016 einen Anspruch auf Leistungen nach dem Siebten Kapitel in der am 31. Dezember 2016 geltenden Fassung hat, sind die ihr am 31. Dezember 2016 zustehenden Leistungen über den 31. Dezember 2016 hinaus bis zum Abschluss des von Amts wegen zu betreibenden Verfahrens zur Ermittlung und Feststellung des Pflegegrades und des notwendigen pflegerischen Bedarfs nach § 63a in der ab dem 1. Januar 2017 geltenden Fassung weiter zu gewähren. Soweit eine Person zugleich Leistungen nach dem Elften Buch in der ab dem 1. Januar 2017 geltenden Fassung erhält, sind diese anzurechnen. Dies gilt nicht für die Zuschläge nach § 141 Absatz 2 des Elften Buches sowie für den Entlastungsbetrag nach § 45b des Elften Buches. Ergibt das Verfahren, dass für die Zeit ab dem 1. Januar 2017 die Leistungen für den notwendigen pflegerischen Bedarf, die nach dem Siebten Kapitel in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren sind, geringer sind als die nach Satz 1 gewährten Leistungen, so sind die nach Satz 1 gewährten höheren Leistungen nicht vom Leistungsbezieher zu erstatten; § 45 des Zehnten Buches bleibt unberührt. Ergibt das Verfahren, dass für die Zeit ab dem 1. Januar 2017 die Leistungen für den notwendigen pflegerischen Bedarf, die nach dem Siebten Kapitel in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren sind, höher sind als die nach Satz 1 gewährten Leistungen, so sind die Leistungen rückwirkend nach den Vorschriften des Siebten Kapitels in der ab dem 1. Januar 2017 geltenden Fassung zu gewähren.
 
-
-## § 139 – Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020
+# § 139 – Übergangsregelung für Bedarfe für Unterkunft und Heizung ab dem Jahr 2020
 
 (1) Für Leistungsberechtigte,
 
@@ -3847,8 +3661,7 @@ für diese Unterkunft die Bedarfe für Unterkunft und Heizung nach § 42a Absatz
 
 sind, wenn sie am 1. Januar 2020 leistungsberechtigt nach dem Dritten oder Vierten Kapitel sind und zugleich Leistungen nach Teil 2 des Neunten Buches beziehen, für diese Unterkunft ab dem 1. Januar 2020 Bedarfe für Unterkunft und Heizung nach § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 anzuerkennen, solange sich keine Veränderung in der Unterbringung ergibt, durch die diese die Voraussetzungen einer Wohnung nach § 42a Absatz 2 Satz 1 Nummer 1 und Satz 2 erfüllt.
 
-
-## § 140 – Übergangsregelung zur Verhinderung einer Zahlungslücke
+# § 140 – Übergangsregelung zur Verhinderung einer Zahlungslücke
 
 (1) Leistungsberechtigte,
 
@@ -3892,8 +3705,7 @@ c) die die Altersgrenze nach § 41 Absatz 2 erreicht oder überschritten haben,
 
 Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anzuwenden. Die Sätze 1 bis 5 gelten entsprechend für alle laufend gezahlten und am Monatsende zufließenden Einkommen. Der Zuschuss nach den Sätzen 1 bis 3 gilt nicht als Leistung nach § 7 Absatz 1 Satz 1 Nummer 5 und 6 des Wohngeldgesetzes.
 
-
-## § 141 – Übergangsregelung aus Anlass der COVID-19-Pandemie
+# § 141 – Übergangsregelung aus Anlass der COVID-19-Pandemie
 
 (1) Leistungen nach dem Dritten und Vierten Kapitel werden für Bewilligungszeiträume, die in der Zeit vom 1. März 2020 bis zum 31. Dezember 2021 beginnen, nach Maßgabe der Absätze 2 bis 4 erbracht.
 
@@ -3907,8 +3719,7 @@ Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anz
 
 (6) (weggefallen)
 
-
-## § 142 – Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie
+# § 142 – Übergangsregelung für die gemeinschaftliche Mittagsverpflegung aus Anlass der COVID-19-Pandemie
 
 (1) Abweichend von § 34 Absatz 6 Satz 1 kommt es im Zeitraum vom 1. März 2020 bis zur Aufhebung der Feststellung einer epidemischen Lage von nationaler Tragweite wegen der dynamischen Ausbreitung der Coronavirus-Krankheit-2019 (COVID-19) nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes durch den Deutschen Bundestag, längstens jedoch bis zum Ablauf des 31. Dezember 2021, auf eine Gemeinschaftlichkeit der Mittagsverpflegung nicht an. Zu den Aufwendungen im Sinne des § 34 Absatz 6 Satz 1 zählen bei den Leistungsberechtigten anfallende Zahlungsverpflichtungen auch dann, wenn sie pandemiebedingt in geänderter Höhe oder aufgrund abweichender Abgabewege berechnet werden. Dies umfasst auch die Kosten einer Belieferung. § 34 Absatz 6 Satz 2 findet keine Anwendung.
 
@@ -3916,18 +3727,15 @@ Bei Personen, für die Satz 4 Nummer 1 gilt, ist § 44 Absatz 1 Satz 1 nicht anz
 
 (3) (weggefallen)
 
-
-## § 143 – Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
+# § 143 – Übergangsregelung zum Freibetrag für Grundrentenzeiten und vergleichbare Zeiten
 
 Der Träger der Sozialhilfe hat über Leistungen der Hilfe zum Lebensunterhalt und der Grundsicherung im Alter und bei Erwerbsminderung ohne Berücksichtigung eines eventuellen Freibetrages nach § 82a zu entscheiden, so lange ihm nicht durch eine Mitteilung des Rentenversicherungsträgers oder berufsständischer Versicherungs- oder Versorgungseinrichtungen nachgewiesen ist, dass die Voraussetzungen für die Einräumung des Freibetrages vorliegen.
 
-
-## § 144 – Einmalzahlung aus Anlass der COVID-19-Pandemie
+# § 144 – Einmalzahlung aus Anlass der COVID-19-Pandemie
 
 Leistungsberechtigte, denen für den Monat Mai 2021 Leistungen nach dem Dritten oder Vierten Kapitel gezahlt werden und deren Regelsatz sich nach der Regelbedarfsstufe 1, 2 oder 3 der Anlage zu § 28 ergibt, erhalten für den Zeitraum vom 1. Januar 2021 bis zum 30. Juni 2021 zum Ausgleich der mit der COVID-19-Pandemie in Zusammenhang stehenden Mehraufwendungen eine Einmalzahlung in Höhe von 150 Euro. Leistungsberechtigten, für die die Regelbedarfsstufe 3 gilt, ist die Leistung nach Satz 1 zusammen mit dem Barbetrag nach § 27b Absatz 3 oder § 27c Absatz 3 auszuzahlen; die Einmalzahlungen für Leistungsberechtigte nach dem Vierten Kapitel sind Bruttoausgaben nach § 46a Absatz 2 Satz 1. Die Sätze 1 und 2 gelten nur, sofern bei Leistungsberechtigten kein für sie gewährtes und an sie unmittelbar ausgezahltes oder weitergeleitetes Kindergeld als Einkommen berücksichtigt wird.
 
-
-## Anlage – (zu § 28)Regelbedarfsstufen nach § 28 in Euro
+# Anlage – (zu § 28)Regelbedarfsstufen nach § 28 in Euro
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 17%" /><col style="width: 14%" /><col style="width: 14%" /><col style="width: 14%" /><col style="width: 14%" /><col style="width: 14%" /><col style="width: 14%" /></colgroup><thead><tr class="header"><th style="text-align: center;">gültig ab</th><th style="text-align: center;">Regel-<br />
 bedarfsstufe 1</th><th style="text-align: center;">Regel-<br />
@@ -3941,8 +3749,7 @@ bedarfsstufe 6</th></tr></thead><tbody><tr class="odd"><td style="text-align: ce
   
 
 Regelbedarfsstufe 1:  
-Für jede erwachsene Person, die in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt und für die nicht Regelbedarfsstufe 2 gilt.  
-  
+Für jede erwachsene Person, die in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt und für die nicht Regelbedarfsstufe 2 gilt.   
 Regelbedarfsstufe 2:  
 Für jede erwachsene Person, wenn sie
 
@@ -3953,19 +3760,15 @@ Für jede erwachsene Person, wenn sie
   
   
 Regelbedarfsstufe 3:  
-Für eine erwachsene Person, deren notwendiger Lebensunterhalt sich nach § 27b bestimmt.  
-  
+Für eine erwachsene Person, deren notwendiger Lebensunterhalt sich nach § 27b bestimmt.   
 Regelbedarfsstufe 4:  
-Für eine Jugendliche oder einen Jugendlichen vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres.  
-  
+Für eine Jugendliche oder einen Jugendlichen vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres.   
 Regelbedarfsstufe 5:  
-Für ein Kind vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres.  
-  
+Für ein Kind vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres.   
 Regelbedarfsstufe 6:  
 Für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
-
-## Anlage – (zu § 34)Ausstattung mit persönlichem Schulbedarf in Euro
+# Anlage – (zu § 34)Ausstattung mit persönlichem Schulbedarf in Euro
 
 (Fundstelle: BGBl. I 2019, 535)
 

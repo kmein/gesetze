@@ -1,15 +1,11 @@
-# [PfWirtAusbStEignV 2011] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pferdewirt und zur Pferdewirtin
-
-Ausfertigungsdatum: 07.02.2011
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pferdewirt und zur Pferdewirtin
+% Ausfertigungsdatum: 07.02.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232 Nummer 2 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
+# § 1 – Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein, der nach Art und Umfang der Produktion und Dienstleistungen sowie nach seinem Bewirtschaftungszustand die Voraussetzungen dafür bietet, dass den Auszubildenden die in der Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin vom 7. Juni 2010 (BGBl. I S. 728) in der jeweils geltenden Fassung geforderten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) vermittelt werden können. Eine kontinuierliche Anleitung muss gewährleistet sein.
 
@@ -27,8 +23,7 @@ Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungs
 
 (8) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren eröffnet worden ist.
 
-
-## § 2 – Fachrichtungsspezifische Anforderungen
+# § 2 – Fachrichtungsspezifische Anforderungen
 
 (1) Die Ausbildungsstätte in der Fachrichtung Pferdehaltung und Service muss über einen Bestand von mindestens 20 Pferden verfügen. Dieser Bestand muss eine Ausbildung im Reiten oder Fahren sicherstellen. Regelmäßiger Kundenkontakt und Einrichtungen zur Kundenberatung und -betreuung müssen vorhanden sein. Des Weiteren muss der Ausbildungsbetrieb über ganzjährig nutzbare Auslaufplätze, Reit- oder Fahrplätze sowie entsprechende Flächen und Einrichtungen zur Weidehaltung verfügen.
 
@@ -40,12 +35,10 @@ Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungs
 
 (5) Die Ausbildungsstätte in der Fachrichtung Spezialreitweisen muss über einen Bestand von mindestens drei Pferden verfügen, der die Ausbildung von Pferden und Reitern sowie Reiterinnen in den Kerndisziplinen des jeweiligen Einsatzgebiets bis zu den in der Ausbildungsordnung für diese Fachrichtung beschriebenen Schwierigkeitsgraden und Anforderungen sicherstellt. Die materiell-technischen Voraussetzungen zur Ausbildung von Kunden im Reiten müssen vorhanden sein. Insbesondere muss die Ausbildungsstätte über eine gedeckte Reitbahn mit einer Fläche von mindestens 20 Meter mal 40 Meter sowie einen Außenplatz mit einer Fläche von mindestens 20 Meter mal 40 Meter oder eine Ovalbahn verfügen. Ganzjährig nutzbare Auslaufflächen und Bewegungsplätze müssen vorhanden sein.
 
-
-## § 3 – Ausnahmeregelung
+# § 3 – Ausnahmeregelung
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) nicht im vollen Umfang vermittelt werden können, gilt als geeignet, wenn sichergestellt ist, dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen anerkannten Ausbildungsstätte, in Form von Ausbildungsverbünden oder in Form überbetrieblicher Ausbildung vermittelt werden können.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pferdewirt vom 4. Februar 1980 (BGBl. I S. 136) außer Kraft.

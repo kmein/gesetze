@@ -1,25 +1,19 @@
-# [VersMedV] Verordnung zur Durchführung des § 1 Abs. 1 und 3, des § 30 Abs. 1 und des § 35 Abs. 1 des Bundesversorgungsgesetzes  (Versorgungsmedizin-Verordnung - VersMedV)
-
-Ausfertigungsdatum: 10.12.2008
-
+% Verordnung zur Durchführung des § 1 Abs. 1 und 3, des § 30 Abs. 1 und des § 35 Abs. 1 des Bundesversorgungsgesetzes  (Versorgungsmedizin-Verordnung - VersMedV)
+% Ausfertigungsdatum: 10.12.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30 Abs. 17 des Bundesversorgungsgesetzes, der durch Artikel 1 Nr. 32 Buchstabe i des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Verteidigung:
 
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Diese Verordnung regelt die Grundsätze für die medizinische Bewertung von Schädigungsfolgen und die Feststellung des Grades der Schädigungsfolgen im Sinne des § 30 Abs. 1 des Bundesversorgungsgesetzes, für die Anerkennung einer Gesundheitsstörung nach § 1 Abs. 3 des Bundesversorgungsgesetzes, die Kriterien für die Bewertung der Hilflosigkeit und der Stufen der Pflegezulage nach § 35 Abs. 1 des Bundesversorgungsgesetzes und das Verfahren für deren Ermittlung und Fortentwicklung.
 
-
-## § 2 – Anlage „Versorgungsmedizinische Grundsätze“
+# § 2 – Anlage „Versorgungsmedizinische Grundsätze“
 
 Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu dieser Verordnung<span id="FnR.F1_771649"></span><a href="#F1_771649" class="FnR">*)</a></sup> als deren Bestandteil festgelegt. Die Anlage wird auf der Grundlage des aktuellen Stands der medizinischen Wissenschaft unter Anwendung der Grundsätze der evidenzbasierten Medizin erstellt und fortentwickelt.
 
-
-## § 3 – Beirat
+# § 3 – Beirat
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein unabhängiger „Ärztlicher Sachverständigenbeirat Versorgungsmedizin“ (Beirat) gebildet, der das Bundesministerium für Arbeit und Soziales zu allen versorgungsärztlichen Angelegenheiten berät und die Fortentwicklung der Anlage entsprechend dem aktuellen Stand der medizinischen Wissenschaft und versorgungsmedizinischer Erfordernisse vorbereitet.
 
@@ -39,23 +33,19 @@ Die in § 1 genannten Grundsätze und Kriterien sind in der Anlage zu dieser Ver
 
 (6) Die Verbände von Menschen mit Behinderungen und Berechtigten nach dem sozialen Entschädigungsrecht auf Bundesebene erhalten ein Mitberatungsrecht im Beirat. Der Deutsche Behindertenrat benennt dem Bundesministerium für Arbeit und Soziales hierzu zwei sachverständige Personen für den Zeitraum der Berufungsperiode des Beirats. Er berücksichtigt dabei die Anliegen von Verbänden, die die Belange von Berechtigten nach dem sozialen Entschädigungsrecht vertreten, auch soweit sie nicht Mitglieder des Deutschen Behindertenrates sind. Das Mitberatungsrecht beinhaltet auch das Recht zur Anwesenheit bei der Beschlussfassung. Absatz 5 Satz 2 bis 4 gilt entsprechend. Die Geschäftsordnung des Beirats gilt auch für die vom Deutschen Behindertenrat benannten Personen.
 
-
-## § 4 – Beschlüsse
+# § 4 – Beschlüsse
 
 Die Beschlüsse des Beirats werden mit einfacher Mehrheit der nach § 3 Absatz 2 berufenen Mitglieder gefasst.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – zu § 2der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
+# Anlage – zu § 2der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 57 vom 15. Dezember 2008,  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -315,8 +305,7 @@ Soziale Anpassungsschwierigkeiten liegen insbesondere vor, wenn die Integrations
  
 
 3.5.2 Hyperkinetische Störungen und Aufmerksamkeitsstörungen ohne Hyperaktivität  
-Ohne soziale Anpassungsschwierigkeiten liegt keine Teilhabebeeinträchtigung vor.  
-Bei sozialen Anpassungsschwierigkeiten
+Ohne soziale Anpassungsschwierigkeiten liegt keine Teilhabebeeinträchtigung vor. Bei sozialen Anpassungsschwierigkeiten
 
 –  
 ohne Auswirkung auf die Integrationsfähigkeit beträgt der GdS 10 – 20.
@@ -799,20 +788,17 @@ Linsenverlust beider Augen
 
  
 
-Beträgt der sich aus der Sehschärfe für beide Augen ergebende GdS nicht mehr als 60, ist dieser um 10 zu erhöhen.  
-
+Beträgt der sich aus der Sehschärfe für beide Augen ergebende GdS nicht mehr als 60, ist dieser um 10 zu erhöhen. 
  
 
  
 
-Die GdS-Werte setzen die Verträglichkeit der Linsen voraus. Maßgebend ist der objektive Befund.  
-
+Die GdS-Werte setzen die Verträglichkeit der Linsen voraus. Maßgebend ist der objektive Befund. 
  
 
  
 
-Bei Versorgung mit Starbrille ist der aus der Sehschärfe für beide Augen sich ergebende GdS um 10 zu erhöhen, bei Blindheit oder Verlust des anderen Auges um 20.  
-
+Bei Versorgung mit Starbrille ist der aus der Sehschärfe für beide Augen sich ergebende GdS um 10 zu erhöhen, bei Blindheit oder Verlust des anderen Auges um 20. 
  
 
  
@@ -859,7 +845,7 @@ bei Doppelbildern nur in einigen Blickfeldbereichen bei sonst normalem Binokular
 
  
 
-![](../normengrafiken/bgbl1_2008/j0031_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j0031_0010.jpg)
 
  
 
@@ -2095,8 +2081,7 @@ Isolierte Segelspalte, submuköse Gaumenspalte bis zum Abschluss der Behandlung 
 
  
 
-Ausgeprägte Hörstörungen sind ggf. zusätzlich zu berücksichtigen.  
-  
+Ausgeprägte Hörstörungen sind ggf. zusätzlich zu berücksichtigen.   
 Nach Abschluss der Behandlung richtet sich der GdS immer nach der verbliebenen Gesundheitsstörung.
 
  
@@ -6709,8 +6694,7 @@ Bei der Beurteilung des GdS sind die Funktionseinschränkungen der betroffenen G
 
  
 
-Der GdS ist grundsätzlich abhängig von dem Ausmaß der Folgekrankheiten.  
-Bei Notwendigkeit einer LDL-Apherese
+Der GdS ist grundsätzlich abhängig von dem Ausmaß der Folgekrankheiten. Bei Notwendigkeit einer LDL-Apherese
 
 30
 
@@ -7395,8 +7379,7 @@ mit zytoreduktiver Therapie ist die Teilhabebeeinträchtigung insbesondere abhä
 
  
 
-Im ersten Jahr nach Diagnosestellung (Erstdiagnose oder Rezidiv; insbesondere während der Induktionstherapie, Konsolidierungstherapie, Erhaltungstherapie) beträgt der GdS 100.  
-Nach dem ersten Jahr  
+Im ersten Jahr nach Diagnosestellung (Erstdiagnose oder Rezidiv; insbesondere während der Induktionstherapie, Konsolidierungstherapie, Erhaltungstherapie) beträgt der GdS 100. Nach dem ersten Jahr  
 
 –  
 bei unvollständiger klinischer Remission: Der GdS beträgt weiterhin 100,
@@ -8832,8 +8815,7 @@ Körpergröße nach Abschluss des Wachstums
 
  
 
-Bei 120 cm und darunter kommen entsprechend höhere Werte in Betracht.  
-Dieser GdS ist auf harmonischen Körperbau bezogen.
+Bei 120 cm und darunter kommen entsprechend höhere Werte in Betracht. Dieser GdS ist auf harmonischen Körperbau bezogen.
 
  
 
@@ -9195,8 +9177,7 @@ Bei habituellen Luxationen richtet sich die Höhe des GdS außer nach der Funkti
 
 18.12 Endoprothesen
 
-Es werden Mindest-GdS angegeben, die für Endoprothesen bei bestmöglichem Behandlungsergebnis gelten. Bei eingeschränkter Versorgungsqualität sind höhere Werte angemessen.  
-Die Versorgungsqualität kann insbesondere beeinträchtigt sein durch
+Es werden Mindest-GdS angegeben, die für Endoprothesen bei bestmöglichem Behandlungsergebnis gelten. Bei eingeschränkter Versorgungsqualität sind höhere Werte angemessen. Die Versorgungsqualität kann insbesondere beeinträchtigt sein durch
 
  
 

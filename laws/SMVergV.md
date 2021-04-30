@@ -1,15 +1,11 @@
-# [SMVergV] Verordnung über die Gewährung einer Mehrarbeitsvergütung für Soldaten  (Soldatenmehrarbeitsvergütungsverordnung - SMVergV)
-
-Ausfertigungsdatum: 18.12.2015
-
+% Verordnung über die Gewährung einer Mehrarbeitsvergütung für Soldaten  (Soldatenmehrarbeitsvergütungsverordnung - SMVergV)
+% Ausfertigungsdatum: 18.12.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 50 des Bundesbesoldungsgesetzes, der durch Artikel 2 Nummer 3 des Gesetzes vom 13. Mai 2015 (BGBl. I S. 706) eingefügt worden ist, verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen:
 
-
-## § 1 – Voraussetzungen des Anspruchs
+# § 1 – Voraussetzungen des Anspruchs
 
 (1) Soldatinnen und Soldaten in Besoldungsgruppen der Bundesbesoldungsordnung A, für die eine regelmäßige wöchentliche Arbeitszeit gilt, kann eine Mehrarbeitsvergütung gewährt werden, soweit Mehrarbeit geleistet wird im Rahmen eines Dienstes
 
@@ -31,15 +27,13 @@ Auf Grund des § 50 des Bundesbesoldungsgesetzes, der durch Artikel 2 Nummer 3 d
 
 (4) Ist keine feste tägliche Arbeitszeit bestimmt, so ist eine Überschreitung der regelmäßigen wöchentlichen Arbeitszeit in einer Kalenderwoche, die im Vormonat begonnen hat, dem laufenden Kalendermonat zuzurechnen.
 
-
-## § 2 – Ermittlung des Anspruchs
+# § 2 – Ermittlung des Anspruchs
 
 (1) Als eine Stunde Mehrarbeit gilt die volle Zeitstunde. Bei einem Bruchteil von mindestens 30 Minuten wird aufgerundet, ansonsten abgerundet.
 
 (2) Bei Dienst in Bereitschaft wird eine Stunde Mehrarbeit nur entsprechend der erfahrungsgemäß bei der betreffenden Tätigkeit durchschnittlich anfallenden Inanspruchnahme berücksichtigt; dabei ist schon die Ableistung eines Dienstes in Bereitschaft als solche angemessen anzurechnen.
 
-
-## § 3 – Höhe des Anspruchs bei Vollzeitbeschäftigung
+# § 3 – Höhe des Anspruchs bei Vollzeitbeschäftigung
 
 Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte  
   
@@ -51,8 +45,7 @@ Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 | 3\. | in den Besoldungsgruppen A 9 bis A 12  | 21,83 Euro, |
 | 4\. | in den Besoldungsgruppen A 13 bis A 16 | 30,05 Euro. |
 
-
-## § 4 – Höhe des Anspruchs bei Teilzeitbeschäftigung
+# § 4 – Höhe des Anspruchs bei Teilzeitbeschäftigung
 
 (1) Teilzeitbeschäftigte erhalten je Stunde Mehrarbeit bis zum Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine Vergütung in Höhe des auf eine Stunde entfallenden Anteils der Besoldung entsprechender Vollzeitbeschäftigter.
 
@@ -60,8 +53,7 @@ Die Vergütung beträgt je Stunde für Vollzeitbeschäftigte
 
 (3) Mehrarbeit, die über die regelmäßige Arbeitszeit von Vollzeitbeschäftigten hinausgeht, wird nach § 3 vergütet.
 
-
-## § 5 – Ausschluss des Anspruchs
+# § 5 – Ausschluss des Anspruchs
 
 Die Vergütung wird nicht gewährt neben
 
@@ -71,7 +63,6 @@ Die Vergütung wird nicht gewährt neben
 
 3. einer Vergütung nach der Sanitätsdienstvergütungsverordnung.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.

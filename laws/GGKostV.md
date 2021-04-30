@@ -1,10 +1,7 @@
-# [GGKostV] Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter  (Gefahrgutkostenverordnung - GGKostV)
-
-Ausfertigungsdatum: 07.03.2013
-
+% Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter  (Gefahrgutkostenverordnung - GGKostV)
+% Ausfertigungsdatum: 07.03.2013
  
-
-## § 1 – Kosten
+# § 1 – Kosten
 
 (1) Für Amtshandlungen
 
@@ -36,8 +33,7 @@ werden Gebühren und Auslagen erhoben. Die Gebühren ergeben sich aus § 2 in Ve
 
 (5) Für Amtshandlungen im Rahmen der Zuständigkeit nach § 16 Absatz 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt erhebt die Physikalisch-Technische Bundesanstalt Gebühren und Auslagen. Die Gebühren ergeben sich aus § 2 in Verbindung mit der Anlage 5 und für Widerspruchsverfahren aus § 2 in Verbindung mit der Anlage 1 zu dieser Verordnung.
 
-
-## § 2 – Gebührenfestsetzung
+# § 2 – Gebührenfestsetzung
 
 (1) Die Gebühren werden nach Zeitaufwand berechnet. Davon abweichend werden für wiederkehrende Amtshandlungen mit vergleichbarem Arbeitsaufwand Gebühren in Form von Rahmensätzen oder nach dem Wert des Gegenstandes erhoben.
 
@@ -45,8 +41,7 @@ werden Gebühren und Auslagen erhoben. Die Gebühren ergeben sich aus § 2 in Ve
 
 (3) Die im Zusammenhang mit der Vornahme der Amtshandlung erforderliche Reisezeit wird je begonnene Viertelstunde mit dem für die einzelnen Abschnitte geltenden Stundensatz abgerechnet. Werden Amtshandlungen, die für mehrere Antragsteller zu erbringen sind, miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis
+# Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2019, 310 - 321)
 
@@ -251,8 +246,7 @@ Im Zusammenhang mit den Prüfungen vor Inbetriebnahme durchzuführende oder wied
 
 225.2
 
-Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4 ADR).  
-Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben.
+Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4 ADR). Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben.
 
  
 
@@ -637,8 +631,7 @@ Sonderregelungen für Prüfungen (Kapitel 6.7 IMDG-Code):
 
 1064.1
 
-Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code).  
-Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben.
+Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code). Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben.
 
  
 
@@ -662,35 +655,29 @@ nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text
 
 Anlage 1 Teil V Abschn. 2 GebNr. 1002 Kursivdruck: Der Wortlaut der Neufassung gem. Bek. v. 11.3.2019 I 308 iVm. Änderungsanweisung d. Art. 3 Nr. 1 V v. 21.10.2019 I 1472 mWv 1.1.2019 weicht von letzter konstitutiver Fassung ab
 
-
-## Anlage 2 – (zu § 1 Absatz 2)GebührenverzeichnisGebühren des Bundesamtes für die Sicherheit der nuklearen Entsorgung
+# Anlage 2 – (zu § 1 Absatz 2)GebührenverzeichnisGebühren des Bundesamtes für die Sicherheit der nuklearen Entsorgung
 
 (Fundstelle: BGBl. I 2019, 322)
 
-
-## Anlage 3 – (zu § 1 Absatz 3)Gebührenverzeichnis Gebühren der Bundesanstalt für Materialforschung und  -prüfung
+# Anlage 3 – (zu § 1 Absatz 3)Gebührenverzeichnis Gebühren der Bundesanstalt für Materialforschung und  -prüfung
 
 (Fundstelle: BGBl. I 2019, 323)
 
-Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus § 12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung werden die Stundensätze der jeweils tätigen Organisationseinheiten der BAM zugrunde gelegt.  
-  
+Amtshandlungen, einschließlich Prüfungen, der Bundesanstalt für Materialforschung und -prüfung (BAM) ergeben sich aus § 8 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt und aus § 12 Absatz 1 der Gefahrgutverordnung See. Für die Gebührenfestsetzung werden die Stundensätze der jeweils tätigen Organisationseinheiten der BAM zugrunde gelegt.   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 18%" /><col style="width: 64%" /><col style="width: 18%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Organisationseinheit<br />
 Abteilung</th><th style="text-align: left;">Bezeichnung der Organisationseinheit</th><th style="text-align: center;">Stundensatz<br />
 (EUR)</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1</td><td style="text-align: left;">Analytische Chemie; Referenzmaterialien</td><td style="text-align: center;">126</td></tr><tr class="even"><td style="text-align: left;">2</td><td style="text-align: left;">Chemische Sicherheitstechnik</td><td style="text-align: center;">154</td></tr><tr class="odd"><td style="text-align: left;">3</td><td style="text-align: left;">Gefahrgutumschließungen</td><td style="text-align: center;">133</td></tr><tr class="even"><td style="text-align: left;">4</td><td style="text-align: left;">Material und Umwelt</td><td style="text-align: center;">137</td></tr><tr class="odd"><td style="text-align: left;">5</td><td style="text-align: left;">Werkstofftechnik</td><td style="text-align: center;">149</td></tr><tr class="even"><td style="text-align: left;">6</td><td style="text-align: left;">Materialschutz und Oberflächentechnik</td><td style="text-align: center;">131</td></tr><tr class="odd"><td style="text-align: left;">7</td><td style="text-align: left;">Bauwerkssicherheit</td><td style="text-align: center;">115</td></tr><tr class="even"><td style="text-align: left;">8</td><td style="text-align: left;">Zerstörungsfreie Prüfung</td><td style="text-align: center;">132</td></tr><tr class="odd"><td style="text-align: left;">9</td><td style="text-align: left;">Komponentensicherheit</td><td style="text-align: center;">132</td></tr><tr class="even"><td style="text-align: left;">S</td><td style="text-align: left;">Qualitätsinfrastruktur</td><td style="text-align: center;">138</td></tr></tbody></table>
 
-
-## Anlage 4 – (zu § 1 Absatz 4)Gebührenverzeichnis Gebühren des Kraftfahrt-Bundesamtes
+# Anlage 4 – (zu § 1 Absatz 4)Gebührenverzeichnis Gebühren des Kraftfahrt-Bundesamtes
 
 (Fundstelle: BGBl. I 2019, 324)
 
-
-## Anlage 5 – (zu § 1 Absatz 5)GebührenverzeichnisGebühren der Physikalisch-Technischen Bundesanstalt
+# Anlage 5 – (zu § 1 Absatz 5)GebührenverzeichnisGebühren der Physikalisch-Technischen Bundesanstalt
 
 (Fundstelle: BGBl. I 2019, 325)
 
-Gebühren (Stundensätze) der Organisationseinheiten der Physikalisch-Technischen Bundesanstalt für Amtshandlungen nach § 16 Absatz 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt.  
-  
+Gebühren (Stundensätze) der Organisationseinheiten der Physikalisch-Technischen Bundesanstalt für Amtshandlungen nach § 16 Absatz 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt.   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 13%" /><col style="width: 72%" /><col style="width: 16%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Gebühren-<br />
 nummer</th><th style="text-align: left;">Gebührentatbestand</th><th style="text-align: center;">Stundensatz<br />

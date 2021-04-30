@@ -1,13 +1,9 @@
-# [EMFV] Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch elektromagnetische Felder  (Arbeitsschutzverordnung zu elektromagnetischen Feldern - EMFV)
-
-Ausfertigungsdatum: 15.11.2016
-
+% Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch elektromagnetische Felder  (Arbeitsschutzverordnung zu elektromagnetischen Feldern - EMFV)
+% Ausfertigungsdatum: 15.11.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt zum Schutz der Beschäftigten bei der Arbeit vor tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und Sicherheit durch Einwirkung von elektromagnetischen Feldern.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 15.11.2016
 
 (4) Das Bundesministerium der Verteidigung kann für Beschäftigte, für die tatsächliche oder mögliche Gefährdungen ihrer Gesundheit und Sicherheit durch elektromagnetische Felder bestehen, Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere für Zwecke der Verteidigung oder zur Erfüllung zwischenstaatlicher Verpflichtungen der Bundesrepublik Deutschland. In diesem Fall ist festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden können.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung gelten die Begriffsbestimmungen der Absätze 2 bis 10.
 
@@ -88,8 +83,7 @@ Auf die den Beschäftigten gleichstehenden Personen finden die Regelungen dieser
 
 (11) Den in dieser Verordnung verwendeten physikalischen Größen sind die in Anhang 1 enthaltenen Definitionen zugrunde zu legen.
 
-
-## § 3 – Gefährdungsbeurteilung
+# § 3 – Gefährdungsbeurteilung
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob elektromagnetische Felder am Arbeitsplatz von Beschäftigten auftreten oder auftreten können. Ist dies der Fall, hat er alle hiervon ausgehenden Gefährdungen für die Gesundheit und die Sicherheit der Beschäftigten zu beurteilen. Dazu sind die auftretenden Expositionen durch elektromagnetische Felder am Arbeitsplatz nach dem Stand der Technik zu ermitteln und zu bewerten. Für die Beschäftigten ist insbesondere dann von einer Gefährdung auszugehen, wenn die Expositionsgrenzwerte nach § 5 in Verbindung mit den Anhängen 2 und 3 überschritten werden. Der Arbeitgeber kann sich dazu für die Gefährdungsbeurteilung notwendige Informationen beim Wirtschaftsakteur, insbesondere beim Hersteller oder Inverkehrbringer der verwendeten Arbeitsmittel, oder von anderen ohne Weiteres zugänglichen Quellen beschaffen. Die Informationen umfassen insbesondere die für die verwendeten Arbeitsmittel verfügbaren Emissionswerte und andere geeignete sicherheitsbezogene Daten einschließlich spezifischer Informationen zur Gefährdungsbeurteilung, wenn diese auf die Expositionsbedingungen am Arbeitsplatz anwendbar sind. Ergebnisse aus Expositionsbewertungen von der Öffentlichkeit zugänglichen Bereichen können bei der Gefährdungsbeurteilung berücksichtigt werden, wenn die Expositionsgrenzwerte nach § 5 in Verbindung mit den Anhängen 2 und 3 eingehalten werden und sicheres Arbeiten gewährleistet ist. Lässt sich anhand der verfügbaren Informationen nicht sicher feststellen, ob die Expositionsgrenzwerte nach § 5 in Verbindung mit den Anhängen 2 und 3 eingehalten werden, ist der Umfang der Exposition durch Berechnungen oder Messungen nach § 4 festzustellen. Entsprechend dem Ergebnis der Gefährdungsbeurteilung hat der Arbeitgeber Maßnahmen nach dem Stand der Technik festzulegen.
 
@@ -133,8 +127,7 @@ Auf die den Beschäftigten gleichstehenden Personen finden die Regelungen dieser
 
 (7) Bei der Festlegung der Maßnahmen nach Absatz 1 Satz 9 hat der Arbeitgeber nach § 4 Nummer 6 des Arbeitsschutzgesetzes die Erfordernisse von besonders schutzbedürftigen Beschäftigten entsprechend dem Ergebnis der Gefährdungsbeurteilung zu berücksichtigen und gegebenenfalls individuelle Schutzmaßnahmen vorzusehen.
 
-
-## § 4 – Fachkundige Personen; Messungen, Berechnungen und Bewertungen
+# § 4 – Fachkundige Personen; Messungen, Berechnungen und Bewertungen
 
 (1) Der Arbeitgeber hat sicherzustellen, dass die Gefährdungsbeurteilung, die Messungen, die Berechnungen oder die Bewertungen nach dem Stand der Technik nach Absatz 2 fachkundig geplant und durchgeführt werden. Verfügt der Arbeitgeber dazu nicht selbst über die entsprechenden Kenntnisse, hat er sich von fachkundigen Personen beraten zu lassen.
 
@@ -150,13 +143,11 @@ Auf die den Beschäftigten gleichstehenden Personen finden die Regelungen dieser
 
 (4) Die durchzuführenden Messungen, Berechnungen oder Bewertungen können bei gleichartigen Arbeitsplatzbedingungen auch durch repräsentative Stichprobenerhebungen erfolgen.
 
-
-## § 5 – Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische Felder
+# § 5 – Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische Felder
 
 Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische Felder sind in den Anhängen 2 und 3 festgelegt. Die zugehörigen physikalischen Größen sind in Anhang 1 festgelegt.
 
-
-## § 6 – Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch elektromagnetische Felder
+# § 6 – Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch elektromagnetische Felder
 
 (1) Der Arbeitgeber hat die nach § 3 Absatz 1 Satz 9 festgelegten Maßnahmen nach dem Stand der Technik durchzuführen, um Gefährdungen der Beschäftigten auszuschließen oder so weit wie möglich zu verringern. Dazu sind die Entstehung und die Ausbreitung elektromagnetischer Felder nach dem Stand der Technik vorrangig an der Quelle zu verhindern oder zu reduzieren. Der Arbeitgeber hat dafür zu sorgen, dass die Expositionsgrenzwerte nach § 5 in Verbindung mit den Anhängen 2 und 3 eingehalten und Gefährdungen aufgrund direkter und indirekter Wirkungen von elektromagnetischen Feldern vermieden oder verringert werden und somit ein sicheres Arbeiten gewährleistet ist. Technische Maßnahmen haben Vorrang vor organisatorischen und personenbezogenen Maßnahmen. Geeignete persönliche Schutzausrüstung ist dann zu verwenden, wenn technische und organisatorische Maßnahmen nicht ausreichen oder nicht anwendbar sind.
 
@@ -210,8 +201,7 @@ Expositionsgrenzwerte und Auslöseschwellen für elektromagnetische Felder sind 
 
 3. Wirkungen durch Entladungen oder Kontaktströme in elektromagnetischen Feldern.
 
-
-## § 7 – Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen bei Tätigkeiten im statischen Magnetfeld über 2 Tesla
+# § 7 – Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen bei Tätigkeiten im statischen Magnetfeld über 2 Tesla
 
 Bei Überschreitung des Expositionsgrenzwertes für sensorische Wirkungen unter normalen Arbeitsbedingungen im statischen Magnetfeld über 2 Tesla nach Anhang 2 Tabelle A2.1 hat der Arbeitgeber dafür zu sorgen, dass
 
@@ -229,8 +219,7 @@ d) spezielle Arbeitspraktiken und Maßnahmen, insbesondere kontrollierte Bewegun
 
 e) weitere Maßnahmen nach § 6 Absatz 2 ergriffen werden, wenn vorübergehende Symptome nach § 6 Absatz 7 auftreten.
 
-
-## § 8 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für die Projektilwirkung von ferromagnetischen Gegenständen im Streufeld von Anlagen mit hohem statischen Magnetfeld ( >  100 Millitesla)
+# § 8 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für die Projektilwirkung von ferromagnetischen Gegenständen im Streufeld von Anlagen mit hohem statischen Magnetfeld ( >  100 Millitesla)
 
 (1) Bei Überschreitung der unteren Auslöseschwellen für die Projektilwirkung von ferromagnetischen Gegenständen im Streufeld von Anlagen mit hohem statischen Magnetfeld (&gt; 100 Millitesla) nach Anhang 2 Tabelle A2.11 hat der Arbeitgeber die betreffenden Arbeitsbereiche nach § 6 Absatz 3 zu kennzeichnen.
 
@@ -244,8 +233,7 @@ e) weitere Maßnahmen nach § 6 Absatz 2 ergriffen werden, wenn vorübergehende 
 
 4. betriebsorganisatorische Maßnahmen, insbesondere Schulung und Unterweisung sowie erforderlichenfalls Hinweise für Dritte, damit Beschäftigte nicht gefährdet werden.
 
-
-## § 9 – Besondere Festlegungen für die Überschreitung der oberen Auslöseschwelle für die Beeinflussung von implantierten aktiven oder am Körper getragenen medizinischen Geräten in statischen Magnetfeldern
+# § 9 – Besondere Festlegungen für die Überschreitung der oberen Auslöseschwelle für die Beeinflussung von implantierten aktiven oder am Körper getragenen medizinischen Geräten in statischen Magnetfeldern
 
 Bei Überschreitung der oberen Auslöseschwelle nach Anhang 2 Tabelle A2.10 hat der Arbeitgeber weitere Maßnahmen nach § 6 Absatz 2 zu ergreifen, um Gefährdungen der Beschäftigten mit implantierten aktiven oder am Körper getragenen medizinischen Geräten zu beseitigen oder zu minimieren. Dazu zählen insbesondere folgende Maßnahmen:
 
@@ -255,8 +243,7 @@ Bei Überschreitung der oberen Auslöseschwelle nach Anhang 2 Tabelle A2.10 hat 
 
 3. betriebsorganisatorische Maßnahmen, insbesondere Schulung und Unterweisung, individuelle oder allgemeine Zugangsverbote.
 
-
-## § 10 – Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+# § 10 – Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
 
 Bei Überschreitung der unteren Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz nach Anhang 2 Tabelle A2.7 hat der Arbeitgeber, wenn keine geeigneten alternativen Arbeitsverfahren zur Verfügung stehen, dafür zu sorgen, dass
 
@@ -294,13 +281,11 @@ c) die Expositionsgrenzwerte der internen elektrischen Feldstärke E<sub>i</sub>
 
 d) die Gefährdungen durch direkte und indirekte Wirkungen ausgeschlossen sind und damit ein sicheres Arbeiten gewährleistet ist.
 
-
-## § 11 – Besondere Festlegungen für die Überschreitung der oberen Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+# § 11 – Besondere Festlegungen für die Überschreitung der oberen Auslöseschwellen für externe elektrische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
 
 Bei Überschreitung der oberen Auslöseschwellen für die Exposition gegenüber externen elektrischen Feldern im Frequenzbereich von 0 Hertz bis 10 Megahertz nach Anhang 2 Tabelle A2.7 hat der Arbeitgeber, wenn keine geeigneten alternativen Arbeitsverfahren zur Verfügung stehen, dafür zu sorgen, dass über die in § 10 Nummer 2 genannten Maßnahmen hinaus weitere Maßnahmen nach § 6 Absatz 2 durchgeführt werden, damit Gefährdungen durch direkte und indirekte Wirkungen ausgeschlossen sind. Zu den Maßnahmen zählen insbesondere spezielle Unterweisungen.
 
-
-## § 12 – Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für magnetische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
+# § 12 – Besondere Festlegungen für die Überschreitung der unteren Auslöseschwellen für magnetische Felder im Frequenzbereich von 0 Hertz bis 10 Megahertz
 
 Bei Überschreitung der unteren Auslöseschwellen für die Exposition gegenüber magnetischen Feldern im Frequenzbereich von 0 Hertz bis 10 Megahertz nach Anhang 2 Tabelle A2.8 insbesondere im Bereich von Kopf oder Rumpf hat der Arbeitgeber, wenn keine geeigneten alternativen Arbeitsverfahren zur Verfügung stehen, dafür zu sorgen, dass
 
@@ -314,8 +299,7 @@ b) die Expositionsgrenzwerte der internen elektrischen Feldstärke E<sub>i</sub>
 
 c) die Gefährdungen durch direkte und indirekte Wirkungen ausgeschlossen sind und damit ein sicheres Arbeiten gewährleistet ist.
 
-
-## § 13 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für Kontaktströme bei berührendem Kontakt
+# § 13 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für Kontaktströme bei berührendem Kontakt
 
 Bei Überschreitung der Auslöseschwellen für Kontaktströme I<sub>K</sub> bei berührendem Kontakt nach Anhang 2 Tabelle A2.9 hat der Arbeitgeber, wenn keine geeigneten alternativen Arbeitsverfahren oder Arbeitsmittel zur Verfügung stehen, dafür zu sorgen, dass
 
@@ -325,8 +309,7 @@ Bei Überschreitung der Auslöseschwellen für Kontaktströme I<sub>K</sub> bei 
 
 3. die Gefährdungen durch direkte und indirekte Wirkungen ausgeschlossen sind und damit ein sicheres Arbeiten gewährleistet ist.
 
-
-## § 14 – Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen im Frequenzbereich bis 400 Hertz
+# § 14 – Besondere Festlegungen für die Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen im Frequenzbereich bis 400 Hertz
 
 Bei Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen für im Frequenzbereich bis 400 Hertz nach Anhang 2 Tabelle A2.4 hat der Arbeitgeber, wenn keine geeigneten alternativen Arbeitsverfahren zur Verfügung stehen, dafür zu sorgen, dass nach Durchführung der festgelegten Maßnahmen entsprechend der Gefährdungsbeurteilung
 
@@ -336,8 +319,7 @@ Bei Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen für im
 
 3. unverzüglich weitere Maßnahmen nach § 6 Absatz 2 ergriffen werden, wenn vorübergehende Symptome nach § 6 Absatz 7 auftreten.
 
-
-## § 15 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für elektromagnetische Felder im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz
+# § 15 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für elektromagnetische Felder im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz
 
 (1) Bei Überschreitung der Auslöseschwellen für die Exposition gegenüber elektromagnetischen Feldern im Frequenzbereich von 100 Kilohertz bis 300 Gigahertz nach Anhang 3 Tabelle A3.4 hat der Arbeitgeber dafür zu sorgen, dass
 
@@ -347,8 +329,7 @@ Bei Überschreitung der Expositionsgrenzwerte für sensorische Wirkungen für im
 
 (2) Die besonderen Festlegungen für die Überschreitung der Expositionsgrenzwerte der lokalen spezifischen Energieabsorption SA für sensorische Wirkungen bei Exposition gegenüber gepulsten elektromagnetischen Feldern im Frequenzbereich von 0,3 Gigahertz bis 6 Gigahertz (Mikrowellenhören) nach § 17 gelten unabhängig von Absatz 1. Sie sind daher gesondert zu betrachten.
 
-
-## § 16 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für stationäre Kontaktströme oder induzierte Ströme durch die Gliedmaßen im Frequenzbereich von 100 Kilohertz bis 110 Megahertz
+# § 16 – Besondere Festlegungen für die Überschreitung der Auslöseschwellen für stationäre Kontaktströme oder induzierte Ströme durch die Gliedmaßen im Frequenzbereich von 100 Kilohertz bis 110 Megahertz
 
 Bei Überschreitung der Auslöseschwellen für stationäre Kontaktströme I<sub>K</sub> oder induzierte Ströme durch die Gliedmaßen I<sub>G</sub> im Frequenzbereich von 100 Kilohertz bis 110 Megahertz nach Anhang 3 Tabelle A3.5 hat der Arbeitgeber dafür zu sorgen, dass
 
@@ -356,8 +337,7 @@ Bei Überschreitung der Auslöseschwellen für stationäre Kontaktströme I<sub>
 
 2. nach Durchführung der festgelegten Maßnahmen entsprechend der Gefährdungsbeurteilung Gefährdungen der Beschäftigten durch direkte und indirekte Wirkungen ausgeschlossen sind und damit ein sicheres Arbeiten gewährleistet ist.
 
-
-## § 17 – Besondere Festlegungen für die Überschreitung des Expositionsgrenzwertes der lokalen spezifischen Energieabsorption für sensorische Wirkungen von gepulsten elektromagnetischen Feldern im Frequenzbereich von 0,3 Gigahertz bis 6 Gigahertz (Mikrowellenhören)
+# § 17 – Besondere Festlegungen für die Überschreitung des Expositionsgrenzwertes der lokalen spezifischen Energieabsorption für sensorische Wirkungen von gepulsten elektromagnetischen Feldern im Frequenzbereich von 0,3 Gigahertz bis 6 Gigahertz (Mikrowellenhören)
 
 Bei Überschreitung des Expositionsgrenzwertes der lokalen spezifischen Energieabsorption SA für sensorische Wirkungen bei Exposition gegenüber gepulsten elektromagnetischen Feldern im Frequenzbereich von 0,3 Gigahertz bis 6 Gigahertz (Mikrowellenhören) nach Anhang 3 Tabelle A3.3 hat der Arbeitgeber, wenn keine geeigneten alternativen Arbeitsverfahren zur Verfügung stehen, dafür zu sorgen, dass nach Durchführung der festgelegten Maßnahmen entsprechend der Gefährdungsbeurteilung
 
@@ -367,8 +347,7 @@ Bei Überschreitung des Expositionsgrenzwertes der lokalen spezifischen Energiea
 
 3. unverzüglich weitere Maßnahmen nach § 6 Absatz 2 ergriffen werden, wenn vorübergehende Symptome nach § 6 Absatz 7 auftreten.
 
-
-## § 18 – Besondere Festlegungen für die Überschreitung von Expositionsgrenzwerten bei medizinischen Anwendungen von Magnetresonanzverfahren
+# § 18 – Besondere Festlegungen für die Überschreitung von Expositionsgrenzwerten bei medizinischen Anwendungen von Magnetresonanzverfahren
 
 Abweichend von den §§ 7 bis 16 hat der Arbeitgeber bei einer Überschreitung der Expositionsgrenzwerte nach den Anhängen 2 und 3 bei der Aufstellung, Prüfung, Anwendung, Entwicklung oder Wartung von medizinischen Geräten für bildgebende Verfahren mittels Magnetresonanz am Patienten oder damit verknüpften Forschungsarbeiten
 
@@ -386,8 +365,7 @@ Abweichend von den §§ 7 bis 16 hat der Arbeitgeber bei einer Überschreitung d
 
 7. sicherzustellen, dass nur speziell unterwiesene Beschäftigte tätig werden.
 
-
-## § 19 – Unterweisung der Beschäftigten
+# § 19 – Unterweisung der Beschäftigten
 
 (1) Bei Gefährdungen der Beschäftigten durch elektromagnetische Felder am Arbeitsplatz stellt der Arbeitgeber sicher, dass die betroffenen Beschäftigten eine Unterweisung erhalten, die auf den Ergebnissen der Gefährdungsbeurteilung beruht und die Aufschluss über die am Arbeitsplatz auftretenden Gefährdungen gibt. Die Unterweisung muss vor Aufnahme der Tätigkeit, danach in regelmäßigen Abständen, mindestens jedoch jährlich, und unverzüglich bei wesentlichen Änderungen der gefährdenden Tätigkeit oder des Arbeitsplatzes erfolgen. Die Unterweisung muss in einer für die Beschäftigten verständlichen Form und Sprache erfolgen und mindestens folgende Informationen enthalten:
 
@@ -411,13 +389,11 @@ Abweichend von den §§ 7 bis 16 hat der Arbeitgeber bei einer Überschreitung d
 
 (2) Im Rahmen der Unterweisung nach Absatz 1 ist auch eine allgemeine arbeitsmedizinische Beratung durchzuführen mit Hinweisen zu besonderen Gefährdungen insbesondere für besonders schutzbedürftige Beschäftigte. Die Beschäftigten sind dabei auch über den Anspruch und den Zweck der arbeitsmedizinischen Vorsorge nach der Verordnung über arbeitsmedizinische Vorsorge zu unterrichten. Falls erforderlich, hat der Arbeitgeber die Ärztin oder den Arzt nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge zu beteiligen.
 
-
-## § 20 – Beratung durch den Ausschuss für Betriebssicherheit
+# § 20 – Beratung durch den Ausschuss für Betriebssicherheit
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der Sicherheit und des Gesundheitsschutzes bei elektromagnetischen Feldern durch den Ausschuss nach § 21 der Betriebssicherheitsverordnung beraten. § 21 Absatz 5 und 6 der Betriebssicherheitsverordnung gilt entsprechend.
 
-
-## § 21 – Ausnahmen
+# § 21 – Ausnahmen
 
 (1) Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den §§ 6 bis 17 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die Gefährdungen, die sich aus den Ausnahmen ergeben können, auf ein Minimum reduziert werden. Die Ausnahmen sind spätestens nach vier Jahren zu überprüfen. Sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss mindestens Angaben enthalten zu
 
@@ -433,8 +409,7 @@ Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der Sicherhe
 
 (2) Eine Ausnahme nach Absatz 1 Satz 1 kann auch im Zusammenhang mit Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
 
-
-## § 22 – Straftaten und Ordnungswidrigkeiten
+# § 22 – Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -474,8 +449,7 @@ Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der Sicherhe
 
 (2) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung das Leben oder die Gesundheit von Beschäftigten gefährdet, ist nach § 26 Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
-
-## Anhang 1 – Physikalische Größen im Zusammenhang mit der Exposition gegenüber elektromagnetischen Feldern
+# Anhang 1 – Physikalische Größen im Zusammenhang mit der Exposition gegenüber elektromagnetischen Feldern
 
 (Fundstelle: BGBl. I 2016, 2542)
 
@@ -503,8 +477,7 @@ Die folgenden physikalischen Größen werden zur Beschreibung der Exposition geg
 
 Von den genannten physikalischen Größen lassen sich die externe elektrische Feldstärke E<sub>e</sub>, die magnetische Feldstärke H, die magnetische Flussdichte B, die Leistungsdichte S, die elektrische Ladung Q, der Kontaktstrom I<sub>K</sub>, der Strom durch Gliedmaßen I<sub>G</sub> sowie die Entladungsenergie W direkt am Arbeitsplatz des Beschäftigten messen.
 
-
-## Anhang 2 – Nichtthermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für statische und zeitveränderliche elektrische und magnetische Felder im Frequenzbereich bis 10 MHz
+# Anhang 2 – Nichtthermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für statische und zeitveränderliche elektrische und magnetische Felder im Frequenzbereich bis 10 MHz
 
 (Fundstelle: BGBl. I 2016, 2543 - 2545)
 
@@ -775,8 +748,7 @@ sonstige Magnete
 
 60
 
-
-## Anhang 3 – Thermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für zeitveränderliche elektromagnetische Felder im Frequenzbereich von 100 kHz bis 300 GHz
+# Anhang 3 – Thermische Wirkungen: Expositionsgrenzwerte und Auslöseschwellen für zeitveränderliche elektromagnetische Felder im Frequenzbereich von 100 kHz bis 300 GHz
 
 (Fundstelle: BGBl. I 2016, 2546 - 2547)
 

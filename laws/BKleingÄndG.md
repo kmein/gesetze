@@ -1,20 +1,15 @@
-# [BKleingÄndG] Gesetz zur Änderung des Bundeskleingartengesetzes  (BKleingÄndG)
-
-Ausfertigungsdatum: 08.04.1994
-
+% Gesetz zur Änderung des Bundeskleingartengesetzes  (BKleingÄndG)
+% Ausfertigungsdatum: 08.04.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 und 2 – (weggefallen)
+# Art 1 und 2 – (weggefallen)
 
 \-
 
-
-## Art 3 – Überleitungsregelungen
+# Art 3 – Überleitungsregelungen
 
 Für private Verpächter von Kleingärten findet Artikel 1 Nr. 4 Buchstabe a
 
@@ -24,7 +19,6 @@ Für private Verpächter von Kleingärten findet Artikel 1 Nr. 4 Buchstabe a
 
 Anwendung. Das gilt nicht für den Anwendungsbereich des § 20a des Bundeskleingartengesetzes. § 5 Abs. 3 Satz 1 und 4 des Bundeskleingartengesetzes gilt entsprechend. Die in Textform abgegebene Erklärung des Verpächters hat die Wirkung, dass mit dem vom Verpächter genannten Zeitpunkt an die Stelle der bisherigen Pacht die erhöhte Pacht tritt.
 
-
-## Art 4 – Inkrafttreten
+# Art 4 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Mai 1994 in Kraft.

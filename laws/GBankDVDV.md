@@ -1,28 +1,21 @@
-# [GBankDVDV] Verordnung über den Vorbereitungsdienst für den gehobenen Bankdienst der Deutschen Bundesbank  (GBankDVDV)
-
-Ausfertigungsdatum: 30.08.2017
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen Bankdienst der Deutschen Bundesbank  (GBankDVDV)
+% Ausfertigungsdatum: 30.08.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Bachelorstudium
+# § 1 – Bachelorstudium
 
 Der Studiengang „Zentralbankwesen / Central Banking“ an der Hochschule der Deutschen Bundesbank (Hochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen Bankdienstes.
 
-
-## § 2 – Ziele des Studiums
+# § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen Bankdienst erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im europäischen und internationalen Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um den Herausforderungen im Europäischen System der Zentralbanken gerecht zu werden.
 
-
-## § 3 – Erholungsurlaub
+# § 3 – Erholungsurlaub
 
 Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
-
-## § 4 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 4 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die für die Ernennung der Beamtinnen und Beamten der Deutschen Bundesbank zuständige Stelle (§ 31 Absatz 2 des Gesetzes über die Deutsche Bundesbank) auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst für die Laufbahn des gehobenen Bankdienstes geeignet sind. Insbesondere wird festgestellt, ob sie über das Allgemein- und Fachwissen, die Sprachkenntnisse, die kognitiven, methodischen und sozialen Fähigkeiten, die charakterlichen Merkmale und die Leistungsmotivation verfügen, die für die Erfüllung der Aufgaben im gehobenen Bankdienst erforderlich sind.
 
@@ -30,8 +23,7 @@ Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
 (3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen oder Bewerber und diesen gleichgestellter Bewerberinnen oder Bewerber ist die Schwerbehindertenvertretung anzuhören.
 
-
-## § 5 – Auswahlkommission
+# § 5 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens werden eine oder bei Bedarf mehrere Auswahlkommissionen gebildet.
 
@@ -41,13 +33,11 @@ Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
 (4) Die nach Absatz 2 Satz 1 zuständige Stelle stellt sicher, dass alle Auswahlkommissionen denselben Bewertungsmaßstab anlegen.
 
-
-## § 6 – Teile des Auswahlverfahrens
+# § 6 – Teile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-
-## § 7 – Schriftlicher Teil
+# § 7 – Schriftlicher Teil
 
 Der schriftliche Teil des Auswahlverfahrens besteht aus drei Abschnitten, und zwar aus
 
@@ -59,8 +49,7 @@ Der schriftliche Teil des Auswahlverfahrens besteht aus drei Abschnitten, und zw
 
 Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest und einen Persönlichkeitstest.
 
-
-## § 8 – Mündlicher Teil
+# § 8 – Mündlicher Teil
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus zwei Abschnitten, und zwar aus
 
@@ -80,8 +69,7 @@ Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest
 
 (4) Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank veröffentlicht. Maßgeblich ist die jüngste am Tag der Einladung zum Auswahlverfahren veröffentlichte Fassung.
 
-
-## § 9 – Bewertung der im Auswahlverfahren erbrachten Leistungen
+# § 9 – Bewertung der im Auswahlverfahren erbrachten Leistungen
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten Leistungen gelten folgende Noten und Notendefinitionen:  
   
@@ -152,8 +140,7 @@ Die Eignung entspricht nicht den Anforderungen. Die Abweichungen liegen so deutl
 
 (4) Die Bewertung des mündlichen Teils ist das arithmetische Mittel der Teilnoten der Kompetenzbereiche. Das Ergebnis wird kaufmännisch auf die zweite Nachkommastelle gerundet.
 
-
-## § 10 – Ausschluss von der weiteren Teilnahme am Auswahlverfahren
+# § 10 – Ausschluss von der weiteren Teilnahme am Auswahlverfahren
 
 Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverfahren ausgeschlossen, wenn
 
@@ -161,8 +148,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 2. im mündlichen Teil der Kompetenzbereich „soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
 
-
-## § 11 – Gesamtergebnis des Auswahlverfahrens
+# § 11 – Gesamtergebnis des Auswahlverfahrens
 
 (1) Für die Ermittlung des Gesamtergebnisses des Auswahlverfahrens werden gewichtet:
 
@@ -178,8 +164,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (3) Wer nicht zum Auswahlverfahren zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
 
-
-## § 12 – Dauer und Gliederung des Studiums, Studienplan
+# § 12 – Dauer und Gliederung des Studiums, Studienplan
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien an der Hochschule von insgesamt 22 Monaten Dauer, Praxisstudien von insgesamt zwölf Monaten Dauer und die Bachelorthesis.
 
@@ -209,13 +194,11 @@ Höchstens ein Monat des Praxisstudiums 1 kann dem Grundstudium zeitlich vorgela
 
 (4) Näheres, insbesondere die Untergliederung der Studienabschnitte in Pflicht- und Wahlmodule sowie die Verteilung der Leistungspunkte auf die Module, regelt der Studienplan.
 
-
-## § 13 – Fachstudien
+# § 13 – Fachstudien
 
 Die Fachstudien liegen in der Verantwortung der Hochschule und werden von haupt- und nebenamtlichen Lehrkräften durchgeführt.
 
-
-## § 14 – Praxisstudien, Ausbildungsverantwortliche
+# § 14 – Praxisstudien, Ausbildungsverantwortliche
 
 (1) Die Hochschule bestimmt und überwacht die Gestaltung und Organisation der Praxisstudien. Sie greift hierfür auf die Ausbildungsverantwortlichen nach den Absätzen 2 bis 4 zurück.
 
@@ -229,8 +212,7 @@ Die Fachstudien liegen in der Verantwortung der Hochschule und werden von haupt-
 
 (6) Neben den Ausbildungsverantwortlichen können Ausbildende eingesetzt werden. Den Ausbildenden dürfen nicht mehr Studierende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Die Ausbildenden werden von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist. Sie informieren die Ausbildungsverantwortlichen regelmäßig über den Stand der Ausbildung.
 
-
-## § 15 – Laufbahnprüfung
+# § 15 – Laufbahnprüfung
 
 Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen Bankdienst. Sie besteht aus
 
@@ -242,8 +224,7 @@ Die Bachelorprüfung ist die Laufbahnprüfung für den gehobenen Bankdienst. Sie
 
 4. der mündlichen Abschlussprüfung.
 
-
-## § 16 – Prüfungsamt
+# § 16 – Prüfungsamt
 
 (1) Für die Organisation und Durchführung der Laufbahnprüfung ist die Hochschule zuständig. Sie richtet hierzu ein Prüfungsamt ein, dessen Mitglieder unabhängig und nicht weisungsgebunden sind. Das Prüfungsamt gibt sich eine Geschäftsordnung.
 
@@ -267,8 +248,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 4. bei Vorliegen einer Behinderung über Erleichterungen beim Ablegen von Modulprüfungen, bei der Bachelorthesis, der Verteidigung der Bachelorthesis und der mündlichen Abschlussprüfung als Nachteilsausgleich zu entscheiden, wobei auf Art und Schwere einer Behinderung Rücksicht zu nehmen ist; Abschnitt 9 der Vereinbarung über die Inklusion schwerbehinderter Menschen bei der Deutschen Bundesbank vom 30. Juli 2014 in der jeweils geltenden auf der Internetseite der Deutschen Bundesbank veröffentlichten Fassung ist zu berücksichtigen.
 
-
-## § 17 – Prüfende, Prüfungskommission
+# § 17 – Prüfende, Prüfungskommission
 
 (1) Das Prüfungsamt bestellt Prüfende für die Durchführung und Bewertung der Modulprüfungen sowie für die Bewertung der Bachelorthesis. Für die Durchführung und Bewertung der Verteidigung der Bachelorthesis sowie der mündlichen Abschlussprüfung richtet es eine oder bei Bedarf mehrere Prüfungskommissionen ein und bestellt deren Mitglieder.
 
@@ -282,8 +262,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (6) Eine Prüfungskommission für die Verteidigung der Bachelorthesis sowie die mündliche Abschlussprüfung besteht aus einer oder einem Angehörigen des höheren Dienstes als Vorsitzender oder Vorsitzendem und zwei weiteren Mitgliedern. Ein Mitglied der Prüfungskommission muss haupt- oder nebenamtliche Lehrkraft der Hochschule sein. Die Erstprüferin oder der Erstprüfer der Bachelorthesis soll Mitglied der Prüfungskommission sein.
 
-
-## § 18 – Modulprüfungen
+# § 18 – Modulprüfungen
 
 (1) In jedem Modul ist eine Prüfung abzulegen.
 
@@ -327,8 +306,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (+++ § 18 Abs. 5: zur Anwendung vgl. § 20 Abs. 5 u. § 21 Abs. 5 +++)
 
-
-## § 19 – Bachelorthesis
+# § 19 – Bachelorthesis
 
 (1) Zur Bachelorthesis ist zugelassen, wer die im Studienplan vorgeschriebene Zahl an Modulprüfungen der Studienabschnitte nach § 12 Absatz 2 Satz 1 Nummer 1 bis 7 bestanden hat.
 
@@ -344,8 +322,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (7) Das Bewertungsverfahren soll insgesamt höchstens zwölf Wochen dauern.
 
-
-## § 20 – Verteidigung der Bachelorthesis
+# § 20 – Verteidigung der Bachelorthesis
 
 (1) Zur Verteidigung der Bachelorthesis ist zugelassen, wer die Bachelorthesis bestanden hat.
 
@@ -357,8 +334,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (5) Für die Anfertigung des Protokolls gilt § 18 Absatz 5 entsprechend.
 
-
-## § 21 – Mündliche Abschlussprüfung
+# § 21 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung ist zugelassen, wer die Verteidigung der Bachelorthesis bestanden hat.
 
@@ -370,8 +346,7 @@ Für die drei weiteren Mitglieder des Prüfungsamts sind Vertreterinnen oder Ver
 
 (5) Für die Anfertigung des Protokolls gilt § 18 Absatz 5 entsprechend.
 
-
-## § 22 – Bewertung der Prüfungen
+# § 22 – Bewertung der Prüfungen
 
 (1) Die Prüfungsleistungen werden wie folgt bewertet:  
   
@@ -582,8 +557,7 @@ ungenügend
 
 (8) Die jeweilige Prüfung ist bestanden, wenn sie mit einer Rangpunktzahl von mindestens 5,00 oder mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 23 – Fernbleiben, Rücktritt
+# § 23 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung ohne Genehmigung des Prüfungsamts gilt diese Prüfung als nicht bestanden.
 
@@ -591,8 +565,7 @@ ungenügend
 
 (3) Das Prüfungsamt bestimmt, zu welchem Zeitpunkt und in welcher Form die Prüfung nachgeholt wird.
 
-
-## § 24 – Täuschung, Ordnungsverstoß
+# § 24 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamts oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung ausgeschlossen werden.
 
@@ -604,8 +577,7 @@ ungenügend
 
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 25 – Wiederholung von Prüfungen
+# § 25 – Wiederholung von Prüfungen
 
 (1) Das Prüfungsamt bestimmt, zu welchem Zeitpunkt und in welcher Form eine nicht bestandene Modulprüfung wiederholt wird.
 
@@ -615,8 +587,7 @@ ungenügend
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 26 – Bestehen der Laufbahnprüfung
+# § 26 – Bestehen der Laufbahnprüfung
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die im Studienplan vorgeschriebene Anzahl an Modulprüfungen, die Bachelorthesis, die Verteidigung der Bachelorthesis und die mündliche Abschlussprüfung jeweils bestanden oder zuvor anerkannt worden sind.
 
@@ -644,8 +615,7 @@ ungenügend
 
 (5) Die Rangpunktzahl der Laufbahnprüfung wird kaufmännisch auf die zweite Nachkommastelle gerundet.
 
-
-## § 27 – Abschlusszeugnis, Diploma Supplement
+# § 27 – Abschlusszeugnis, Diploma Supplement
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und ein Diploma Supplement.
 
@@ -661,15 +631,13 @@ ungenügend
 
 (4) Wer die Laufbahnprüfung nicht bestanden hat, erhält von der Einstellungsbehörde einen Bescheid über die nicht bestandene Laufbahnprüfung.
 
-
-## § 28 – Prüfungsakte, Einsichtnahme
+# § 28 – Prüfungsakte, Einsichtnahme
 
 (1) Die schriftlichen Prüfungsleistungen sowie die Protokolle der mündlichen Prüfungen, die Bachelorthesis, das Protokoll der Verteidigung der Bachelorthesis, das Protokoll der mündlichen Abschlussprüfung und eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung sind zur Prüfungsakte zu nehmen. Die Prüfungsakte kann automatisiert geführt werden. Sie wird beim Prüfungsamt nach Beendigung des Vorbereitungsdienstes mindestens fünf und höchstens zehn Jahre aufbewahrt.
 
 (2) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Studierenden auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
-
-## § 29 – Anerkennung von Studien- und Prüfungsleistungen sowie von nicht an einer Hochschule erworbenen Kompetenzen
+# § 29 – Anerkennung von Studien- und Prüfungsleistungen sowie von nicht an einer Hochschule erworbenen Kompetenzen
 
 (1) Auf Antrag der oder des Studierenden werden vom Prüfungsamt anerkannt:
 
@@ -711,8 +679,7 @@ Für die nicht an einer Hochschule erworbenen Kompetenzen oder sonstige Qualifik
 
 (7) Liegt für eine anerkannte Prüfungsleistung keine Bewertung auf der Basis einer Notenskala vor, so wird die anerkannte Prüfungsleistung im Diploma Supplement mit dem Vermerk „bestanden“ versehen.
 
-
-## § 30 – Übergangsregelung
+# § 30 – Übergangsregelung
 
 Für Anwärterinnen und Anwärter, die vor dem 1. Oktober 2017 mit dem Vorbereitungsdienst begonnen haben, ist diese Verordnung mit den Maßgaben anzuwenden, dass
 

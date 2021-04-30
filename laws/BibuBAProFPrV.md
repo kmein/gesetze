@@ -1,10 +1,7 @@
-# [BibuBAProFPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter und Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung  (Bilanzbuchhalter-Bachelor Professional in Bilanzbuchhaltung-Fortbildungsprüfungsverordnung - BibuBAProFPrV)
-
-Ausfertigungsdatum: 18.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter und Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung  (Bilanzbuchhalter-Bachelor Professional in Bilanzbuchhaltung-Fortbildungsprüfungsverordnung - BibuBAProFPrV)
+% Ausfertigungsdatum: 18.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung auf Grund
 
@@ -14,11 +11,9 @@ des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und 53c sowie
 –  
 des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920):
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt
 
@@ -26,8 +21,7 @@ Diese Verordnung regelt
 
 2. ergänzend zu dem Fortbildungsabschluss nach Nummer 1 die Prüfung zu dem anerkannten Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“.
 
-
-## § 2 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+# § 2 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter-Bachelor Professional in Bilanzbuchhaltung und Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten beruflichen Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
 
@@ -57,8 +51,7 @@ Diese Verordnung regelt
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Bachelor Professional in Bilanzbuchhaltung. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Bilanzbuchhalter“ oder „Geprüfte Bilanzbuchhalterin“ vorangestellt.
 
-
-## § 3 – Voraussetzung für die Zulassung zur Prüfung
+# § 3 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
@@ -78,8 +71,7 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Gliederung und Handlungsbereiche der Prüfung
+# § 4 – Gliederung und Handlungsbereiche der Prüfung
 
 (1) Die Prüfung besteht aus einem schriftlichen Teil und einem mündlichen Teil.
 
@@ -99,8 +91,7 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 
 7. Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen.
 
-
-## § 5 – Schriftliche Prüfung
+# § 5 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung wird auf der Grundlage einer Beschreibung einer betrieblichen Situation durchgeführt.
 
@@ -110,8 +101,7 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 
 (4) Die drei Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein sowie der zu prüfenden Person eigenständige Lösungen ohne Antwortvorgaben ermöglichen. Die Aufgabenstellungen sind so zu gestalten, dass jeweils ein anderer Handlungsbereich nach § 4 Absatz 2 Nummer 1, 2 und 3 einen Schwerpunkt bildet und die übrigen Handlungsbereiche nach § 4 Absatz 2 insgesamt mindestens einmal in den drei Aufgabenstellungen situationsbezogen thematisiert werden.
 
-
-## § 6 – Mündliche Prüfung
+# § 6 – Mündliche Prüfung
 
 (1) Zur mündlichen Prüfung wird nur zugelassen, wer die schriftliche Prüfung bestanden hat.
 
@@ -125,8 +115,7 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 
 (6) Im Fachgespräch soll die zu prüfende Person, ausgehend von der Präsentation, nachweisen, dass sie in der Lage ist, Probleme der betrieblichen Praxis zu analysieren und Lösungsmöglichkeiten unter Beachtung der maßgebenden Einflussfaktoren zu bewerten. Im Fachgespräch sind neben dem Handlungsbereich „Jahresabschlüsse aufbereiten und auswerten“ andere Handlungsbereiche einzubeziehen. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
-
-## § 7 – Handlungsbereiche
+# § 7 – Handlungsbereiche
 
 (1) Im Handlungsbereich „Geschäftsvorfälle erfassen und nach Rechnungslegungsvorschriften zu Abschlüssen führen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, nach deutschem Recht eine ordnungsgemäße Buchführung durchzuführen, den Jahresabschluss zu erstellen und die wesentlichen Regelungen des internationalen Bilanzrechts nach den International Financial Reporting Standards darzustellen. In diesem Handlungsbereich können folgende Qualifikationsinhalte geprüft werden:
 
@@ -232,13 +221,11 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 
 7. den Arbeits- und Gesundheitsschutz gestalten.
 
-
-## § 8 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 8 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 9 und 10 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 9 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 10 Absatz 3 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
-
-## § 9 – Bewerten der Prüfungsleistungen
+# § 9 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -256,8 +243,7 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 2. die Bewertung des Fachgesprächs mit zwei Dritteln.
 
-
-## § 10 – Bestehen der Prüfung, Gesamtnote
+# § 10 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung und in der nicht gerundeten Bewertung der mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -269,8 +255,7 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl aus der Bewertung für die schriftliche Prüfung und der Bewertung für die mündliche Prüfung das arithmetische Mittel zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 11 – Zeugnisse
+# § 11 – Zeugnisse
 
 (1) Wer die Prüfung nach § 10 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -282,8 +267,7 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 12 – Wiederholung der Prüfung
+# § 12 – Wiederholung der Prüfung
 
 (1) Ist die schriftliche oder die mündliche Prüfung nicht bestanden, kann sie jeweils zweimal wiederholt werden.
 
@@ -295,13 +279,11 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 (+++ § 12 Abs. 3: Zur Nichtanwendung vgl. § 15 Abs. 1 Satz 3 +++)
 
-
-## § 13 – Ausbildereignung
+# § 13 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der Ausbilder-Eignungsverordnung befreit.
 
-
-## § 14 – Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“
+# § 14 – Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“
 
 (1) Auf Antrag bei der zuständigen Stelle kann eine Prüfung zu dem Anpassungsfortbildungsabschluss „Geprüfter Bilanzbuchhalter International oder Geprüfte Bilanzbuchhalterin International“ abgelegt werden. Voraussetzung für die Zulassung zur Prüfung ist, dass der Antragsteller oder die Antragstellerin bereits
 
@@ -363,25 +345,21 @@ In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 (10) Ist die Prüfung bestanden worden, stellt die zuständige Stelle Zeugnisse in entsprechender Anwendung des § 11 in Verbindung mit der Anlage 2 aus.
 
-
-## § 15 – Übergangsvorschriften
+# § 15 – Übergangsvorschriften
 
 (1) Nach der Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen. § 12 Absatz 3 findet in diesem Fall Anwendung, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
 
 (2) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 1 Satz 1 bezeichneten Bilanzbuchhalterprüfungsverordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen. Die schriftliche Prüfung wird dabei nur angerechnet, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu den §§ 9, 10 und 14)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 9, 10 und 14)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2020, 3076 - 3077)
 
-
-## Anlage 2 – (zu den §§ 11 und 14)Zeugnisinhalte
+# Anlage 2 – (zu den §§ 11 und 14)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 3078)
 

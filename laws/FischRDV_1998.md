@@ -1,15 +1,11 @@
-# [FischRDV 1998] Verordnung zur Durchsetzung des Fischereirechts der Europäischen Union  (Seefischerei-Bußgeldverordnung)
-
-Ausfertigungsdatum: 16.06.1998
-
+% Verordnung zur Durchsetzung des Fischereirechts der Europäischen Union  (Seefischerei-Bußgeldverordnung)
+% Ausfertigungsdatum: 16.06.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 4 des Seefischereigesetzes vom 12. Juli 1984 (BGBl. I S. 876), der durch Artikel 23 Nr. 5 des Gesetzes vom 2. August 1994 (BGBl. I S. 2018) geändert worden ist, und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der durch Artikel 1 Nr. 5 des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156, 340) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 3440/84
+# § 1 – Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 3440/84
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EWG) Nr. 3440/84 der Kommission vom 6. Dezember 1984 über das Anbringen von Vorrichtungen an Schleppnetzen, Snurrewaden und ähnlichen Netzen (ABl. L 318 vom 7.12.1984, S. 23), die zuletzt durch die Verordnung (EG) Nr. 146/2007 (ABl. L 46 vom 16.2.2007, S. 9) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -41,18 +37,15 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 14. entgegen Artikel 13 Absatz 2 ein Verstärkungstau anbringt.
 
-
-## § 2 – Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 1899/85
+# § 2 – Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 1899/85
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 1 Absatz 1 der Verordnung (EWG) Nr. 1899/85 des Rates vom 8. Juli 1985 zur Festlegung einer Mindestmaschenöffnung für die Fischerei auf Lodde im Bereich des Übereinkommens über die künftige multilaterale Zusammenarbeit auf dem Gebiet der Fischerei im Nordostatlantik außerhalb der Seegewässer unter der Fischereigerichtsbarkeit der Vertragsparteien des Übereinkommens (ABl. L 179 vom 11.7.1985, S. 2) ein Netz mit einer Maschenöffnung von weniger als 16 Millimeter verwendet.
 
-
-## § 3 – Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 1638/87
+# § 3 – Durchsetzung bestimmter Vorschriften der Verordnung (EWG) Nr. 1638/87
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 1 Absatz 1 der Verordnung (EWG) Nr. 1638/87 des Rates vom 9. Juni 1987 zur Festlegung einer Mindestmaschenöffnung für pelagische Schleppnetze beim Fang von Blauem Wittling im Geltungsbereich des Übereinkommens über die künftige multilaterale Zusammenarbeit auf dem Gebiet der Fischerei im Nordostatlantik außerhalb der Seegewässer unter der Fischereigerichtsbarkeit der Vertragsparteien des Übereinkommens (ABl. L 153 vom 13.6.1987, S. 7) ein pelagisches Schleppnetz mit einer Maschenöffnung von weniger als 35 Millimeter verwendet.
 
-
-## § 4 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 414/96
+# § 4 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 414/96
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 414/96 des Rates vom 4. März 1996 zur Festlegung von Überwachungsmaßnahmen für die Fischerei in der Ostsee, den Belten und dem Öresund (ABl. L 59 vom 8.3.1996, S. 1) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -60,8 +53,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 2. entgegen Artikel 7 Absatz 1 eine Fangmenge anlandet oder umlädt.
 
-
-## § 5 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 894/97
+# § 5 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 894/97
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 894/97 des Rates vom 29. April 1997 über technische Maßnahmen zur Erhaltung der Fischbestände (ABl. L 132 vom 23.5.1997, S. 1), die zuletzt durch die Verordnung (EG) Nr. 809/2007 (ABl. L 182 vom 12.7.2007, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -69,8 +61,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 2. entgegen Artikel 11a Absatz 2 eine dort genannte Art anlandet.
 
-
-## § 6 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 850/98
+# § 6 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 850/98
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 850/98 des Rates vom 30. März 1998 zur Erhaltung der Fischereiressourcen durch technische Maßnahmen zum Schutz von jungen Meerestieren (ABl. L 125 vom 27.4.1998, S. 1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -242,18 +233,15 @@ in einem dort genannten Gebiet ein dort genanntes Netz einsetzt,
 
 5. entgegen Artikel 34e Absatz 3 Satz 2 oder Absatz 6 Satz 1 oder 2 eine Meldung nicht oder nicht rechtzeitig macht.
 
-
-## § 7 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2549/2000
+# § 7 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2549/2000
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 2 der Verordnung (EG) Nr. 2549/2000 des Rates vom 17. November 2000 mit zusätzlichen technischen Maßnahmen zur Wiederauffüllung des Kabeljaubestands in der Irischen See (ICES-Gebiet VIIa) (ABl. L 292 vom 21.11.2000, S. 5), die durch die Verordnung (EG) Nr. 1456/2001 des Rates (ABl. L 194 vom 18.7.2001, S. 1) geändert worden ist, ein dort genanntes Schleppnetzgeschirr verwendet.
 
-
-## § 8 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1035/2001
+# § 8 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1035/2001
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 17 der Verordnung (EG) Nr. 1035/2001 des Rates vom 22. Mai 2001 zur Einführung einer Fangdokumentationsregelung für Dissostichus spp. (ABl. L 145 vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1368/2006 (ABl. L 253 vom 16.9.2006, S. 1) geändert worden ist, Dissostichus spp. einführt.
 
-
-## § 9 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2056/2001
+# § 9 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2056/2001
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2056/2001 der Kommission vom 19. Oktober 2001 mit zusätzlichen technischen Maßnahmen zur Wiederauffüllung der Kabeljaubestände in der Nordsee und westlich von Schottland (ABl. L 277 vom 20.10.2001, S. 13) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -269,8 +257,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 6. entgegen Artikel 8 Absatz 1 Satz 1 ein dort genanntes Grundschleppnetz einsetzt.
 
-
-## § 10 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 494/2002
+# § 10 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 494/2002
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 494/2002 der Kommission vom 19. März 2002 mit zusätzlichen technischen Maßnahmen zur Wiederauffüllung des Seehechtsbestands in den ICES-Gebieten III, IV, V, VI und VII sowie VIII a, b, d, e (ABl. L 77 vom 20.3.2002, S. 8) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -284,8 +271,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 5. entgegen Artikel 5 Absatz 2 Satz 2 zweiter Anstrich oder Satz 3 zweiter Anstrich ein dort genanntes Fanggerät ganz oder teilweise zu Wasser lässt oder ausbringt.
 
-
-## § 11 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1185/2003
+# § 11 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1185/2003
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1185/2003 des Rates vom 26. Juni 2003 über das Abtrennen von Haifischflossen an Bord von Schiffen (ABl. L 167 vom 4.7.2003, S. 1), die durch die Verordnung (EU) Nr. 605/2013 (ABl. L 181 vom 29.6.2013, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -293,8 +279,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 2. entgegen Artikel 3 Absatz 2 eine Haifischflosse zum Verkauf anbietet.
 
-
-## § 12 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1984/2003
+# § 12 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1984/2003
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1984/2003 des Rates vom 8. April 2003 über eine Regelung zur statistischen Erfassung von Schwertfisch und Großaugenthun in der Gemeinschaft (ABl. L 295 vom 13.11.2003, S. 1), die zuletzt durch die Verordnung (EU) Nr. 640/2010 (ABl. L 194 vom 24.7.2010, S. 1) geändert worden ist, verstößt, indem er als Eigentümer oder dessen Beauftragter vorsätzlich oder fahrlässig
 
@@ -314,8 +299,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 4. entgegen Artikel 6 Absatz 1 eine Wiederausfuhrbescheinigung nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise beifügt.
 
-
-## § 13 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 600/2004
+# § 13 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 600/2004
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 600/2004 des Rates vom 22. März 2004 mit technischen Maßnahmen für die Fischerei im Bereich des Übereinkommens über die Erhaltung der lebenden Meeresschätze der Antarktis (ABl. L 97 vom 1.4.2004, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -359,8 +343,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 600/2004 verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 6 Absatz 2 einen verarbeiteten Krebs nicht in der vorgeschriebenen Weise einfriert.
 
-
-## § 14 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 601/2004
+# § 14 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 601/2004
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 601/2004 des Rates vom 22. März 2004 zur Festlegung von Kontrollmaßnahmen für die Fischerei im Regelungsbereich des Übereinkommens über die Erhaltung der lebenden Meeresschätze der Antarktis und zur Aufhebung der Verordnung (EWG) Nr. 3943/90, (EG) Nr. 66/98 und (EG) Nr. 1721/1999 (ABl. L 97 vom 1.4.2004, S. 16), die zuletzt durch die Verordnung (EG) Nr. 1005/2008 (ABl. L 286 vom 29.10.2008, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -392,8 +375,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 4. als Kapitän entgegen Artikel 27 Absatz 2 Satz 1 die Ankunft eines Schiffes nicht oder nicht rechtzeitig anmeldet oder die dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig abgibt.
 
-
-## § 15 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 812/2004
+# § 15 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 812/2004
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 812/2004 des Rates vom 26. April 2004 zur Festlegung von Maßnahmen gegen Walbeifänge in der Fischerei und zur Änderung der Verordnung (EG) Nr. 88/98 (ABl. L 150 vom 30.4.2004, S. 12, L 185 vom 24.5.2004, S. 4), die zuletzt durch die Verordnung (EU) Nr. 597/2014 (ABl. L 173 vom 12.6.2014, S. 62) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -401,8 +383,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 2. entgegen Artikel 2 Absatz 2 nicht gewährleistet, dass eine akustische Abschreckvorrichtung bei Ausbringen des Fanggeräts voll funktionsfähig ist.
 
-
-## § 16 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2115/2005
+# § 16 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2115/2005
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2115/2005 des Rates vom 20. Dezember 2005 zur Einführung eines Wiederauffüllungsplans für Schwarzen Heilbutt im Rahmen der Organisation für die Fischerei im Nordwestatlantik (ABl. L 340 vom 23.12.2005, S. 3), die zuletzt durch die Verordnung (EG) Nr. 1224/2009 (ABl. L 343 vom 31.12.2009, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -428,8 +409,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 6. als Kapitän entgegen Artikel 10 Absatz 3 eine dort genannte Menge nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig wiegt.
 
-
-## § 17 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2187/2005
+# § 17 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2187/2005
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 2187/2005 des Rates vom 21. Dezember 2005 mit technischen Maßnahmen für die Erhaltung der Fischereiressourcen in der Ostsee, den Belten und dem Öresund, zur Änderung der Verordnung (EG) Nr. 1434/98 und zur Aufhebung der Verordnung (EG) Nr. 88/98 (ABl. L 349 vom 31.12.2005, S. 1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -479,8 +459,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 23. entgegen Artikel 23 Absatz 2 eine dort genannte Ressource verkauft, feilhält oder zum Verkauf anbietet.
 
-
-## § 18 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1386/2007
+# § 18 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1386/2007
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1386/2007 des Rates vom 22. Oktober 2007 mit Bestandserhaltungs- und Kontrollmaßnahmen für den Regelungsbereich der Organisation für die Fischerei im Nordwestatlantik (ABl. L 318 vom 5.12.2007, S. 1), die zuletzt durch die Verordnung (EG) Nr. 679/2009 des Rates (ABl. L 197 vom 29.7.2009, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -580,8 +559,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 21. entgegen Artikel 68 Absatz 1 Satz 2 in Verbindung mit Artikel 63b Absatz 1 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht.
 
-
-## § 19 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 734/2008
+# § 19 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 734/2008
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 734/2008 des Rates vom 15. Juli 2008 zum Schutz empfindlicher Tiefseeökosysteme vor den schädlichen Auswirkungen von Grundfanggeräten (ABl. L 201 vom 30.7.2008, S. 8) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -595,8 +573,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 5 Absatz 2 Satz 1, Artikel 7 Absatz 3 oder Artikel 9 Absatz 1 der Verordnung (EG) Nr. 734/2008 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 20 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1005/2008
+# § 20 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1005/2008
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1005/2008 des Rates vom 29. September 2008 über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei, zur Änderung der Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1936/2001 und (EG) Nr. 601/2004 und zur Aufhebung der Verordnungen (EG) Nr. 1093/94 und (EG) Nr. 1447/1999 (ABl. L 286 vom 29.10.2008, S. 1), die zuletzt durch die Verordnung (EU) Nr. 202/2011 (ABl. L 57 vom 2.3.2011, S. 10) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -638,8 +615,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 3. entgegen Artikel 16 Absatz 1 Satz 1 eine validierte Fangbescheinigung nicht, nicht richtig oder nicht rechtzeitig vorlegt.
 
-
-## § 21 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1006/2008
+# § 21 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1006/2008
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1006/2008 des Rates vom 29. September 2008 über die Genehmigung der Fischereitätigkeiten von Fischereifahrzeugen der Gemeinschaft außerhalb der Gemeinschaftsgewässer und den Zugang von Drittlandschiffen zu Gemeinschaftsgewässern, zur Änderung der Verordnungen (EWG) Nr. 2847/93 und (EG) Nr. 1627/94 und zur Aufhebung der Verordnung (EG) Nr. 3317/94 (ABl. L 286 vom 29.10.2008, S. 33) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -653,13 +629,11 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 13 Unterabsatz 1 Satz 1 oder Unterabsatz 2 Satz 1, auch in Verbindung mit Satz 2, der Verordnung (EG) Nr. 1006/2008 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 22 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1342/2008
+# § 22 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1342/2008
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 25 Absatz 1 der Verordnung (EG) Nr. 1342/2008 des Rates vom 18. Dezember 2008 zur Festlegung eines langfristigen Plans für die Kabeljaubestände und die Fischereien, die diese Bestände befischen, sowie zur Aufhebung der Verordnung (EG) Nr. 423/2004 (ABl. L 348 vom 24.12.2008, S. 20), die zuletzt durch die Verordnung (EU) Nr. 1243/2012 (ABl. L 352 vom 21.12.2012, S. 10) geändert worden ist, nicht dafür Sorge trägt, dass die Anlandung nur in bezeichneten Häfen erfolgt.
 
-
-## § 23 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1010/2009
+# § 23 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1010/2009
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1010/2009 der Kommission vom 22. Oktober 2009 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1005/2008 des Rates über ein Gemeinschaftssystem zur Verhinderung, Bekämpfung und Unterbindung der illegalen, nicht gemeldeten und unregulierten Fischerei (ABl. L 280 vom 27.10.2009, S. 5), die zuletzt durch die Durchführungsverordnung (EU) Nr. 1222/2011 (ABl. L 314 vom 29.11.2011, S. 2) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig als Kapitän
 
@@ -667,8 +641,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 2. entgegen Artikel 3 Absatz 5 in Verbindung mit Absatz 1 oder Absatz 2 eine Erklärung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt.
 
-
-## § 24 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) 1224/2009
+# § 24 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) 1224/2009
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EG) Nr. 1224/2009 des Rates vom 20. November 2009 zur Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik und zur Änderung der Verordnungen (EG) Nr. 847/96, (EG) Nr. 2371/2002, (EG) Nr. 811/2004, (EG) Nr. 768/2005, (EG) Nr. 2115/2005, (EG) Nr. 2166/2005, (EG) Nr. 388/2006, (EG) Nr. 509/2007, (EG) Nr. 676/2007, (EG) Nr. 1098/2007, (EG) Nr. 1300/2008, (EG) Nr. 1342/2008 sowie zur Aufhebung der Verordnungen (EWG) Nr. 2847/93, (EG) Nr. 1627/94 und (EG) Nr. 1966/2006 (ABl. L 343 vom 22.12.2009, S. 1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -746,8 +719,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 17. entgegen Artikel 73 Absatz 7 Satz 2 Zugang nicht oder nicht vollständig gewährt.
 
-
-## § 25 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 201/2010
+# § 25 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 201/2010
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 201/2010 der Kommission vom 10. März 2010 mit Durchführungsbestimmungen zu Verordnung (EG) Nr. 1006/2008 des Rates über die Genehmigung der Fischereitätigkeiten von Fischereifahrzeugen der Gemeinschaft außerhalb der Gemeinschaftsgewässer und den Zugang von Drittlandschiffen zu Gemeinschaftsgewässern (ABl. L 61 vom 11.3.2010, S. 10) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -767,8 +739,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 5. als Kapitän entgegen Artikel 10 in Verbindung mit Anhang IV Teil I Buchstabe c Unterabsatz 4 das Kontrollgebiet verlässt.
 
-
-## § 26 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 640/2010
+# § 26 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 640/2010
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 640/2010 des Europäischen Parlaments und des Rates vom 7. Juli 2010 zur Einführung einer Fangdokumentationsregelung für Roten Thun (Thunnus thynnus) und zur Änderung der Verordnung (EG) Nr. 1984/2003 des Rates (ABl. L 194 vom 24.7.2010, S. 1) verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 2 Unterabsatz 2 eine dort genannte Handlung vornimmt.
 
@@ -778,8 +749,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 2. entgegen Artikel 4 Absatz 1 ein Fangdokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig ausfüllt oder nicht oder nicht rechtzeitig dessen Validierung beantragt.
 
-
-## § 27 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1236/2010
+# § 27 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1236/2010
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 1236/2010 des Europäischen Parlaments und des Rates vom 15. Dezember 2010 zu einer Kontroll- und Durchsetzungsregelung, die auf dem Gebiet des Übereinkommens über die künftige multilaterale Zusammenarbeit auf dem Gebiet der Fischerei im Nordostatlantik anwendbar ist, und zur Aufhebung der Verordnung (EG) Nr. 2791/1999 des Rates (ABl. L 348 vom 31.12.2010, S. 17), die zuletzt durch die Delegierte Verordnung (EU) Nr. 603/2012 (ABl. L 177 vom 7.7.2012, S. 9) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -835,8 +805,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 9. entgegen Artikel 24 Absatz 1 Unterabsatz 1 oder Artikel 40 Absatz 1 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
 
-
-## § 28 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 404/2011
+# § 28 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 404/2011
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Durchführungsverordnung (EU) Nr. 404/2011 der Kommission vom 8. April 2011 mit Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1224/2009 des Rates zur Einführung einer gemeinschaftlichen Kontrollregelung zur Sicherstellung der Einhaltung der Vorschriften der gemeinsamen Fischereipolitik (ABl. L 112 vom 30.4.2011, S. 1), die durch die Durchführungsverordnung (EU) 2015/1962 (ABl. L 287 vom 31.10.2015, S. 6) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -918,18 +887,15 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 19. entgegen Artikel 67 Absatz 2 eine dort genannte Information nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert,
 
-19a.  
-entgegen Artikel 70 Absatz 1 eine dort genannte Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+19a. entgegen Artikel 70 Absatz 1 eine dort genannte Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-19b.  
-entgegen Artikel 70 Absatz 2 eine Aufzeichnung nicht oder nicht mindestens drei Jahre ab ihrer Erstellung zur Verfügung hält,
+19b. entgegen Artikel 70 Absatz 2 eine Aufzeichnung nicht oder nicht mindestens drei Jahre ab ihrer Erstellung zur Verfügung hält,
 
 20. entgegen Artikel 73 Absatz 2 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise aufzeichnet,
 
 21. entgegen Artikel 80 Absatz 1 oder Absatz 2 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-21a.  
-ohne Genehmigung nach Artikel 81 Satz 2 eine Entladung nach einer Unterbrechung wieder aufnimmt,
+21a. ohne Genehmigung nach Artikel 81 Satz 2 eine Entladung nach einer Unterbrechung wieder aufnimmt,
 
 22. entgegen Artikel 82 Absatz 1 eine Seite des Fischereilogbuchs nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt,
 
@@ -961,8 +927,7 @@ ohne Genehmigung nach Artikel 81 Satz 2 eine Entladung nach einer Unterbrechung 
 
 36. entgegen Artikel 114 Absatz 1 Buchstabe g ein sicheres Vonbordgehen nicht ermöglicht.
 
-
-## § 29 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1380/2013
+# § 29 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 1380/2013
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) Nr. 1380/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die Gemeinsame Fischereipolitik und zur Änderung der Verordnungen (EG) Nr. 1954/2003 und (EG) Nr. 1224/2009 des Rates sowie zur Aufhebung der Verordnungen (EG) Nr. 2371/2002 und (EG) Nr. 639/2004 des Rates und des Beschlusses 2004/585/EG des Rates (ABl. L 354 vom 28.12.2013, S. 22), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom 29.5.2015, S. 1) geändert worden ist, verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -972,13 +937,11 @@ ohne Genehmigung nach Artikel 81 Satz 2 eine Entladung nach einer Unterbrechung 
 
 (2) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig als Kapitän entgegen Artikel 15 Absatz 1 der Verordnung (EU) Nr. 1380/2013 einen dort genannten Fang nicht, nicht richtig, nicht vollständig oder nicht vor Anlandung aufzeichnet.
 
-
-## § 30 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) Nr. 1393/2014
+# § 30 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) Nr. 1393/2014
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer als Kapitän vorsätzlich oder fahrlässig entgegen Artikel 4 der Delegierten Verordnung (EU) Nr. 1393/2014 der Kommission vom 20. Oktober 2014 zur Erstellung eines Rückwurfplans für bestimmte Fischereien auf pelagische Arten in den nordwestlichen Gewässern (ABl. L 370 vom 30.12.2014, S. 25) eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach Freisetzung oder Stichprobenentnahme in das Logbuch einträgt.
 
-
-## § 31 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) Nr. 1395/2014
+# § 31 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) Nr. 1395/2014
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU) Nr. 1395/2014 der Kommission vom 20. Oktober 2014 zur Erstellung eines Rückwurfplans für die Fischerei auf bestimmte kleine pelagische Arten und die Industriefischerei in der Nordsee (ABl. L 370 vom 30.12.2014, S. 35) verstößt, indem er als Kapitän vorsätzlich oder fahrlässig
 
@@ -986,8 +949,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 2. entgegen Artikel 4 Absatz 2 eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht unverzüglich nach dem Rückwurf in dem Logbuch vermerkt.
 
-
-## § 32 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1139
+# § 32 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1139
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/1139 des Europäischen Parlaments und des Rates vom 6. Juli 2016 zur Festlegung eines Mehrjahresplans für die Bestände von Dorsch, Hering und Sprotte in der Ostsee und für die Fischereien, die diese Bestände befischen, zur Änderung der Verordnung (EG) Nr. 2187/2005 des Rates und zur Aufhebung der Verordnung (EG) Nr. 1098/2007 des Rates (ABl. L 191 vom 15.7.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -997,8 +959,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 3. entgegen Artikel 14 in Verbindung mit Artikel 43 Absatz 1 der Verordnung (EG) Nr. 1224/2009 einen Fang nicht, nicht richtig oder nicht vollständig anlandet.
 
-
-## § 33 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1627
+# § 33 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/1627
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/1627 des Europäischen Parlaments und des Rates vom 14. September 2016 über einen mehrjährigen Wiederauffüllungsplan für Roten Thun im Ostatlantik und im Mittelmeer und zur Aufhebung der Verordnung (EG) Nr. 302/2009 des Rates (ABl. L 252 vom 16.9.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -1052,8 +1013,7 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe b des Seefischere
 
 11. entgegen Artikel 51 Absatz 3 Fischerei auf Roten Thun betreibt oder einen dort genannten Einsatz vornimmt.
 
-
-## § 34 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2016/2250
+# § 34 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2016/2250
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Delegierte Verordnung (EU) 2016/2250 der Kommission vom 4. Oktober 2016 zur Erstellung eines Rückwurfplans für bestimmte Fischereien auf Grundfischarten in der Nordsee und in den Unionsgewässern der ICES-Division IIa (ABl. L 340 vom 15.12.2016, S. 2) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -1061,13 +1021,11 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 2. entgegen Artikel 8 Absatz 1 ein dort genanntes Schleppnetz oder Snurrewade, Baumkurre oder ähnlich gezogenes Netz an Bord mit sich führt oder einsetzt.
 
-
-## § 35 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2285
+# § 35 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2285
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig als Kapitän entgegen Artikel 6 der Verordnung (EU) 2016/2285 des Rates vom 12. Dezember 2016 zur Festsetzung der Fangmöglichkeiten von Fischereifahrzeugen der Union für bestimmte Bestände von Tiefseearten (2017 und 2018) und zur Änderung der Verordnung (EU) 2016/72 (ABl. L 344 vom 17.12.2016, S. 32) Granatbarsch fischt, an Bord behält, umlädt oder anlandet.
 
-
-## § 36 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2336
+# § 36 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2016/2336
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2016/2336 des Europäischen Parlaments und des Rates vom 14. Dezember 2016 mit besonderen Auflagen für die Befischung von Tiefseebeständen im Nordostatlantik und Vorschriften für den Fischfang in internationalen Gewässern des Nordostatlantiks und zur Aufhebung der Verordnung (EG) Nr. 2347/2002 des Rates (ABl. L 354 vom 23.12.2016, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -1089,18 +1047,15 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 3. entgegen Artikel 13 Absatz 1 Buchstabe a einen Eintrag nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt.
 
-
-## § 37 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/117
+# § 37 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/117
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 der Delegierten Verordnung (EU) 2017/117 der Kommission vom 5. September 2016 zur Festlegung von Bestandserhaltungsmaßnahmen zum Schutz der Meeresumwelt der Ostsee und zur Aufhebung der Verordnung (EU) 2015/1778 (ABl. L 19 vom 25.1.2017, S. 1) eine dort genannte Fangtätigkeit betreibt.
 
-
-## § 38 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/118
+# § 38 – Durchsetzung bestimmter Vorschriften der Delegierten Verordnung (EU) 2017/118
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 Satz 1 oder Absatz 2 der Delegierten Verordnung (EU) 2017/118 der Kommission vom 5. September 2016 zur Festlegung von Bestandserhaltungsmaßnahmen zum Schutz der Meeresumwelt der Nordsee (ABl. L 19 vom 25.1.2017, S. 10) eine dort genannte Fangtätigkeit betreibt.
 
-
-## § 39 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/127
+# § 39 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/127
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2017/127 des Rates vom 20. Januar 2017 zur Festsetzung der Fangmöglichkeiten für 2017 für bestimmte Fischbestände und Bestandsgruppen in den Unionsgewässern sowie für Fischereifahrzeuge der Union in bestimmten Nicht-Unionsgewässern (ABl. L 24 vom 28.1.2017, S. 1), die zuletzt durch die Verordnung (EU) 2017/1398 (ABl. L 199 vom 29.7.2017, S. 2) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -1140,13 +1095,11 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 18. entgegen Artikel 41 Absatz 1 eine dort genannte Art befischt, an Bord behält, umlädt oder anlandet.
 
-
-## § 40 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1004
+# § 40 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1004
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 12 Absatz 3 Satz 1 der Verordnung (EU) 2017/1004 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Einführung einer Rahmenregelung der Union für die Erhebung, Verwaltung und Nutzung von Daten im Fischereisektor und Unterstützung wissenschaftlicher Beratung zur Durchführung der Gemeinsamen Fischereipolitik und zur Aufhebung der Verordnung (EG) Nr. 199/2008 des Rates (ABl. L 157 vom 20.6.2017, S. 1) den Aufenthalt an Bord verweigert.
 
-
-## § 41 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1970
+# § 41 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) 2017/1970
 
 Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischereigesetzes handelt, wer gegen die Verordnung (EU) 2017/1970 des Rates vom 27. Oktober 2017 zur Festsetzung der Fangmöglichkeiten für bestimmte Fischbestände und Bestandsgruppen in der Ostsee für 2018 und zur Änderung der Verordnung (EU) 2017/127 (ABl. L 281 vom 31.10.2017, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -1154,7 +1107,6 @@ Ordnungswidrig im Sinne des § 18 Absatz 2 Nummer 11 Buchstabe a des Seefischere
 
 2. entgegen Unterabsatz 1 der Fußnote (x</sup>) zu der Tabelle „Dorsch Unionsgewässer der Unterdivisionen 25-32 (COD/3DX32)“ oder Unterabsatz 1 der Fußnote (x</sup>) zu der Tabelle „Dorsch Unterdivisionen 22-24 (COD/3BC+24)“ des Anhangs der Verordnung (EU) 2017/1970 Fischerei betreibt.
 
-
-## § 42 – Zuständigkeit
+# § 42 – Zuständigkeit
 
 Soweit die Ausführung des Seefischereigesetzes Bundesbehörden übertragen ist, wird die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 18 des Seefischereigesetzes auf die Außenstelle Hamburg der Bundesanstalt für Landwirtschaft und Ernährung übertragen.

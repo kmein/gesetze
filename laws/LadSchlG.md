@@ -1,10 +1,7 @@
-# [LadSchlG] Gesetz über den Ladenschluß
-
-Ausfertigungsdatum: 28.11.1956
-
+% Gesetz über den Ladenschluß
+% Ausfertigungsdatum: 28.11.1956
  
-
-## § 1 – Verkaufsstellen
+# § 1 – Verkaufsstellen
 
 (1) Verkaufsstellen im Sinne dieses Gesetzes sind
 
@@ -16,15 +13,13 @@ Ausfertigungsdatum: 28.11.1956
 
 (2) Zur Herbeiführung einer einheitlichen Handhabung des Gesetzes kann das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, welche Einrichtungen Verkaufsstellen gemäß Absatz 1 sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Feiertage im Sinne dieses Gesetzes sind die gesetzlichen Feiertage.
 
 (2) Reisebedarf im Sinne dieses Gesetzes sind Zeitungen, Zeitschriften, Straßenkarten, Stadtpläne, Reiselektüre, Schreibmaterialien, Tabakwaren, Schnittblumen, Reisetoilettenartikel, Filme, Tonträger, Bedarf für Reiseapotheken, Reiseandenken und Spielzeug geringeren Wertes, Lebens- und Genussmittel in kleineren Mengen sowie ausländische Geldsorten.
 
-
-## § 3 – Allgemeine Ladenschlusszeiten
+# § 3 – Allgemeine Ladenschlusszeiten
 
 Verkaufsstellen müssen zu folgenden Zeiten für den geschäftlichen Verkehr mit Kunden geschlossen sein:
 
@@ -36,32 +31,27 @@ Verkaufsstellen müssen zu folgenden Zeiten für den geschäftlichen Verkehr mit
 
 Verkaufsstellen für Bäckerwaren dürfen abweichend von Satz 1 den Beginn der Ladenöffnungszeit an Werktagen auf 5.30 Uhr vorverlegen. Die beim Ladenschluss anwesenden Kunden dürfen noch bedient werden.
 
-
-## § 4 – Apotheken
+# § 4 – Apotheken
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Apotheken an allen Tagen während des ganzen Tages geöffnet sein. An Werktagen während der allgemeinen Ladenschlusszeiten (§ 3) und an Sonn- und Feiertagen ist nur die Abgabe von Arznei-, Krankenpflege-, Säuglingspflege- und Säuglingsnährmitteln, hygienischen Artikeln sowie Desinfektionsmitteln gestattet.
 
 (2) Die nach Landesrecht zuständige Verwaltungsbehörde hat für eine Gemeinde oder für benachbarte Gemeinden mit mehreren Apotheken anzuordnen, dass während der allgemeinen Ladenschlusszeiten (§ 3) abwechselnd ein Teil der Apotheken geschlossen sein muss. An den geschlossenen Apotheken ist an sichtbarer Stelle ein Aushang anzubringen, der die zur Zeit offenen Apotheken bekannt gibt. Dienstbereitschaft der Apotheken steht der Offenhaltung gleich.
 
-
-## § 5 – Zeitungen und Zeitschriften
+# § 5 – Zeitungen und Zeitschriften
 
 Abweichend von den Vorschriften des § 3 dürfen Kioske für den Verkauf von Zeitungen und Zeitschriften an Sonn- und Feiertagen von 11 bis 13 Uhr geöffnet sein.
 
-
-## § 6 – Tankstellen
+# § 6 – Tankstellen
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Tankstellen an allen Tagen während des ganzen Tages geöffnet sein.
 
 (2) An Werktagen während der allgemeinen Ladenschlusszeiten (§ 3) und an Sonn- und Feiertagen ist nur die Abgabe von Ersatzteilen für Kraftfahrzeuge, soweit dies für die Erhaltung oder Wiederherstellung der Fahrbereitschaft notwendig ist, sowie die Abgabe von Betriebsstoffen und von Reisebedarf gestattet.
 
-
-## § 7
+# § 7
 
 (weggefallen)
 
-
-## § 8 – Verkaufsstellen auf Personenbahnhöfen
+# § 8 – Verkaufsstellen auf Personenbahnhöfen
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Verkaufsstellen auf Personenbahnhöfen von Eisenbahnen und Magnetschwebebahnen, soweit sie den Bedürfnissen des Reiseverkehrs zu dienen bestimmt sind, an allen Tagen während des ganzen Tages geöffnet sein, am 24. Dezember jedoch nur bis 17 Uhr. Während der allgemeinen Ladenschlusszeiten ist der Verkauf von Reisebedarf zulässig.
 
@@ -77,8 +67,7 @@ an Werktagen von 6 bis 22 Uhr geöffnet sein dürfen; sie haben dabei die Größ
 
 (3) Für Apotheken bleibt es bei den Vorschriften des § 4.
 
-
-## § 9 – Verkaufsstellen auf Flughäfen und in Fährhäfen
+# § 9 – Verkaufsstellen auf Flughäfen und in Fährhäfen
 
 (1) Abweichend von den Vorschriften des § 3 dürfen Verkaufsstellen auf Flughäfen an allen Tagen während des ganzen Tages geöffnet sein, am 24. Dezember jedoch nur bis 17 Uhr. An Werktagen während der allgemeinen Ladenschlusszeiten (§ 3) und an Sonn- und Feiertagen ist nur die Abgabe von Reisebedarf an Reisende gestattet.
 
@@ -86,32 +75,27 @@ an Werktagen von 6 bis 22 Uhr geöffnet sein dürfen; sie haben dabei die Größ
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung abweichend von Absatz 1 Satz 2 zu bestimmen, daß auf internationalen Verkehrsflughäfen und in internationalen Fährhäfen Waren des täglichen Ge- und Verbrauchs sowie Geschenkartikel an Werktagen während der allgemeinen Ladenschlußzeiten (§ 3) und an Sonn- und Feiertagen auch an andere Personen als an Reisende abgegeben werden dürfen; sie haben dabei die Größe der Verkaufsflächen auf das für diesen Zweck erforderliche Maß zu begrenzen.
 
-
-## § 10 – Kur- und Erholungsorte
+# § 10 – Kur- und Erholungsorte
 
 (1) Die Landesregierungen können durch Rechtsverordnung bestimmen, dass und unter welchen Voraussetzungen und Bedingungen in Kurorten und in einzeln aufzuführenden Ausflugs-, Erholungs- und Wallfahrtsorten mit besonders starkem Fremdenverkehr Badegegenstände, Devotionalien, frische Früchte, alkoholfreie Getränke, Milch und Milcherzeugnisse im Sinne des § 4 Abs. 2 des Milch- und Fettgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7842-1, veröffentlichen bereinigten Fassung, Süßwaren, Tabakwaren, Blumen und Zeitungen sowie Waren, die für diese Orte kennzeichnend sind, abweichend von den Vorschriften des § 3 Abs. 1 Nr. 1 an jährlich höchstens 40 Sonn- und Feiertagen bis zur Dauer von acht Stunden verkauft werden dürfen. Sie können durch Rechtsverordnung die Festsetzung der zugelassenen Öffnungszeiten auf andere Stellen übertragen. Bei der Festsetzung der Öffnungszeiten ist auf die Zeit des Hauptgottesdienstes Rücksicht zu nehmen.
 
 (2) In den nach Absatz 1 erlassenen Rechtsverordnungen kann die Offenhaltung auf bestimmte Ortsteile beschränkt werden.
 
-
-## § 11 – Verkauf in ländlichen Gebieten an Sonntagen
+# § 11 – Verkauf in ländlichen Gebieten an Sonntagen
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen können durch Rechtsverordnung bestimmen, dass und unter welchen Voraussetzungen und Bedingungen in ländlichen Gebieten während der Zeit der Feldbestellung und der Ernte abweichend von den Vorschriften des § 3 alle oder bestimmte Arten von Verkaufsstellen an Sonn- und Feiertagen bis zur Dauer von zwei Stunden geöffnet sein dürfen, falls dies zur Befriedigung dringender Kaufbedürfnisse der Landbevölkerung erforderlich ist.
 
-
-## § 12 – Verkauf bestimmter Waren an Sonntagen
+# § 12 – Verkauf bestimmter Waren an Sonntagen
 
 (1) Das Bundesministerium für Arbeit und Soziales bestimmt im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und für Ernährung und Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates, dass und wie lange an Sonn- und Feiertagen abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 Verkaufsstellen für die Abgabe von Milch und Milcherzeugnissen im Sinne des § 4 Abs. 2 des Milch- und Fettgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7842-1, veröffentlichten bereinigten Fassung, Bäcker- und Konditorwaren, frischen Früchten, Blumen und Zeitungen geöffnet sein dürfen.
 
 (2) In den nach Absatz 1 erlassenen Rechtsverordnungen kann die Offenhaltung auf bestimmte Sonn- und Feiertage oder Jahreszeiten sowie auf bestimmte Arten von Verkaufsstellen beschränkt werden. Eine Offenhaltung am 2. Weihnachts-, Oster- und Pfingstfeiertag soll nicht zugelassen werden. Die Lage der zugelassenen Öffnungszeiten wird unter Berücksichtigung der Zeit des Hauptgottesdienstes von den Landesregierungen oder den von ihnen bestimmten Stellen durch Rechtsverordnung festgesetzt.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Weitere Verkaufssonntage
+# § 14 – Weitere Verkaufssonntage
 
 (1) Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen Verkaufsstellen aus Anlass von Märkten, Messen oder ähnlichen Veranstaltungen an jährlich höchstens vier Sonn- und Feiertagen geöffnet sein. Diese Tage werden von den Landesregierungen oder den von ihnen bestimmten Stellen durch Rechtsverordnung freigegeben.
 
@@ -119,8 +103,7 @@ Die Landesregierungen oder die von ihnen bestimmten Stellen können durch Rechts
 
 (3) Sonn- und Feiertage im Dezember dürfen nicht freigegeben werden. In Orten, für die eine Regelung nach § 10 Abs. 1 Satz 1 getroffen ist, dürfen Sonn- und Feiertage nach Absatz 1 nur freigegeben werden, soweit die Zahl dieser Tage zusammen mit den nach § 10 Abs. 1 Nr. 1 freigegebenen Sonn- und Feiertagen 40 nicht übersteigt.
 
-
-## § 15 – Sonntagsverkauf am 24. Dezember
+# § 15 – Sonntagsverkauf am 24. Dezember
 
 Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen, wenn der 24. Dezember auf einen Sonntag fällt,
 
@@ -132,13 +115,11 @@ Abweichend von der Vorschrift des § 3 Abs. 1 Nr. 1 dürfen, wenn der 24. Dezemb
 
 während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
-
-## § 16
+# § 16
 
 (weggefallen)
 
-
-## § 17 – Arbeitszeit an Sonn- und Feiertagen
+# § 17 – Arbeitszeit an Sonn- und Feiertagen
 
 (1) In Verkaufsstellen dürfen Arbeitnehmer an Sonn- und Feiertagen nur während der ausnahmsweise zugelassenen Öffnungszeiten (§§ 4 bis 15 und die hierauf gestützten Vorschriften) und, falls dies zur Erledigung von Vorbereitungs- und Abschlussarbeiten unerlässlich ist, während insgesamt weiterer 30 Minuten beschäftigt werden.
 
@@ -166,11 +147,9 @@ während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
 (9) Die Vorschriften der Absätze 1 bis 8 finden auf pharmazeutisch vorgebildete Arbeitnehmer in Apotheken keine Anwendung.
 
+# §§ 18 und 18a – (weggefallen)
 
-## §§ 18 und 18a – (weggefallen)
-
-
-## § 19 – Marktverkehr
+# § 19 – Marktverkehr
 
 (1) Während der allgemeinen Ladenschlusszeiten (§ 3) dürfen auf behördlich genehmigten Groß- und Wochenmärkten Waren zum Verkauf an den letzten Verbraucher nicht feilgehalten werden; jedoch kann die nach Landesrecht zuständige Verwaltungsbehörde in den Grenzen einer gemäß §§ 10 bis 15 oder den hierauf gestützten Vorschriften zulässigen Offenhaltung der Verkaufsstellen einen geschäftlichen Verkehr auf Groß- und Wochenmärkten zulassen.
 
@@ -178,8 +157,7 @@ während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
 (3) Im Übrigen bleibt es bei den Vorschriften der §§ 64 bis 71a der Gewerbeordnung, insbesondere bei den auf Grund des § 69 Abs. 1 Satz 1 der Gewerbeordnung festgesetzten Öffnungszeiten für Messen, Ausstellungen und Märkte.
 
-
-## § 20 – Sonstiges gewerbliches Feilhalten
+# § 20 – Sonstiges gewerbliches Feilhalten
 
 (1) Während der allgemeinen Ladenschlusszeiten (§ 3) ist auch das gewerbliche Feilhalten von Waren zum Verkauf an jedermann außerhalb von Verkaufsstellen verboten; dies gilt nicht für Volksbelustigungen, die den Vorschriften des Titels III der Gewerbeordnung unterliegen und von der nach Landesrecht zuständigen Behörde genehmigt worden sind, sowie für das Feilhalten von Tageszeitungen an Werktagen. Dem Feilhalten steht das Zeigen von Mustern, Proben und ähnlichem gleich, wenn dazu Räume benutzt werden, die für diesen Zweck besonders bereitgestellt sind, und dabei Warenbestellungen entgegengenommen werden.
 
@@ -191,8 +169,7 @@ während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates zum Schutze der Arbeitnehmer vor übermäßiger Inanspruchnahme ihrer Arbeitskraft oder sonstiger Gefährdung ihrer Gesundheit Vorschriften, wie in § 17 Abs. 7 genannt, erlassen.
 
-
-## § 21 – Auslage des Gesetzes, Verzeichnisse
+# § 21 – Auslage des Gesetzes, Verzeichnisse
 
 (1) Der Inhaber einer Verkaufsstelle, in der regelmäßig mindestens ein Arbeitnehmer beschäftigt wird, ist verpflichtet,
 
@@ -202,8 +179,7 @@ während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
 (2) Die Verpflichtung nach Absatz 1 Nr. 2 obliegt auch den in § 20 genannten Gewerbetreibenden.
 
-
-## § 22 – Aufsicht und Auskunft
+# § 22 – Aufsicht und Auskunft
 
 (1) Die Aufsicht über die Ausführung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Vorschriften üben, soweit es sich nicht um Wochenmärkte (§ 19) handelt, die nach Landesrecht für den Arbeitsschutz zuständigen Verwaltungsbehörden aus; ob und inwieweit andere Dienststellen an der Aufsicht beteiligt werden, bestimmen die obersten Landesbehörden.
 
@@ -217,15 +193,13 @@ während höchstens drei Stunden bis längstens 14 Uhr geöffnet sein.
 
 (4) Die Auskunftspflicht nach Absatz 3 Nr. 1 obliegt auch den in Verkaufsstellen oder beim Feilhalten gemäß § 20 beschäftigten Arbeitnehmern.
 
-
-## § 23 – Ausnahmen im öffentlichen Interesse
+# § 23 – Ausnahmen im öffentlichen Interesse
 
 (1) Die obersten Landesbehörden können in Einzelfällen befristete Ausnahmen von den Vorschriften der §§ 3 bis 15 und 19 bis 21 dieses Gesetzes bewilligen, wenn die Ausnahmen im öffentlichen Interesse dringend nötig werden. Die Bewilligung kann jederzeit widerrufen werden. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständigen Behörden abweichend von Satz 1 zu bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
 (2) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Voraussetzungen und Bedingungen für die Bewilligung von Ausnahmen im Sinne des Absatzes 1 erlassen.
 
-
-## § 24 – Ordnungswidrigkeiten
+# § 24 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -253,30 +227,24 @@ zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 1 Buchstabe a und b kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 1 Buchstabe c und Nr. 2 bis 4 mit einer Geldbuße bis zu fünfhundert Euro geahndet werden.
 
-
-## § 25 – Straftaten
+# § 25 – Straftaten
 
 Wer vorsätzlich als Inhaber einer Verkaufsstelle oder als Gewerbetreibender im Sinne des § 20 eine der in § 24 Abs. 1 Nr. 1 Buchstaben a und b bezeichneten Handlungen begeht und dadurch vorsätzlich oder fahrlässig Arbeitnehmer in ihrer Arbeitskraft oder Gesundheit gefährdet, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-
-## § 26
+# § 26
 
 (weggefallen)
 
-
-## § 27 – Vorbehalt für die Landesgesetzgebung
+# § 27 – Vorbehalt für die Landesgesetzgebung
 
 Unberührt bleiben die landesrechtlichen Vorschriften, durch die der Gewerbebetrieb und die Beschäftigung von Arbeitnehmern in Verkaufsstellen an anderen Festtagen als an Sonn- und Feiertagen beschränkt werden.
 
-
-## § 28 – Bestimmung der zuständigen Behörden
+# § 28 – Bestimmung der zuständigen Behörden
 
 Soweit in diesem Gesetz auf die nach Landesrecht zuständige Verwaltungsbehörde verwiesen wird, bestimmt die Landesregierung durch Verordnung, welche Behörden zuständig sind.
 
+# §§ 29 und 30 – (weggefallen)
 
-## §§ 29 und 30 – (weggefallen)
-
-
-## § 31
+# § 31
 
 (Inkrafttreten, Außerkrafttreten)

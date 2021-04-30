@@ -1,15 +1,11 @@
-# [WSF-DV] Verordnung zur Gewährung und Durchführung von Maßnahmen aus dem Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz  (Wirtschaftsstabilisierungsfonds-Durchführungsverordnung - WSF-DV)
-
-Ausfertigungsdatum: 01.10.2020
-
+% Verordnung zur Gewährung und Durchführung von Maßnahmen aus dem Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz  (Wirtschaftsstabilisierungsfonds-Durchführungsverordnung - WSF-DV)
+% Ausfertigungsdatum: 01.10.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Absatz 6 Satz 1, des § 21 Absatz 2, des § 22 Absatz 3 und des § 25 Absatz 3 des Stabilisierungsfondsgesetzes, die durch Artikel 1 Nummer 7 des Gesetzes vom 27. März 2020 (BGBl. I S. 543) eingefügt worden sind, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Verwaltung des Wirtschaftsstabilisierungsfonds
+# § 1 – Verwaltung des Wirtschaftsstabilisierungsfonds
 
 (1) Die Verwaltung des Wirtschaftsstabilisierungsfonds obliegt der Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) nach Maßgabe von § 18 des Stabilisierungsfondsgesetzes. Die Verwaltung umfasst nicht die Entgegennahme von Anträgen auf Leistungen aus dem Wirtschaftsstabilisierungsfonds oder die Entscheidung über diese Anträge.
 
@@ -37,8 +33,7 @@ Auf Grund des § 20 Absatz 6 Satz 1, des § 21 Absatz 2, des § 22 Absatz 3 und 
 
 (8) Soweit Maßnahmen nach dieser Verordnung beantragt werden, die nicht vom Befristeten Rahmen für staatliche Beihilfen umfasst sind, oder Maßnahmen beantragt werden, die über die Bestimmungen dieser Verordnung hinausgehen, stehen diese unter dem Vorbehalt der Genehmigung durch die Europäische Kommission. Dies gilt für Rekapitalisierungsinstrumente im Sinne von § 5 insbesondere, wenn eine Einzelbeihilfe den Schwellenwert von 250 Millionen Euro überschreitet. Die Bestimmungen der §§ 2 bis 9 finden grundsätzlich auch dann Anwendung, wenn Stabilisierungsmaßnahmen aufgrund von Vorgaben der Europäischen Kommission zur Vereinbarkeit mit den Artikeln 107 und 108 des Vertrages über die Arbeitsweise der Europäischen Union und des Befristeten Rahmens für staatliche Beihilfen unter Vorbehalt der Genehmigung durch die Europäische Kommission stehen. Eine Abweichung von diesen Vorschriften ist zulässig, soweit dies hinsichtlich der mit der Maßnahme verfolgten Zwecke als geboten erscheint und eine Genehmigung durch die Europäische Kommission vorliegt.
 
-
-## § 2 – Garantieübernahme
+# § 2 – Garantieübernahme
 
 (1) Der Wirtschaftsstabilisierungsfonds kann auf Antrag von Unternehmen Garantien oder sonstige Gewährleistungen in jeder geeigneten Form für
 
@@ -54,8 +49,7 @@ Auf Grund des § 20 Absatz 6 Satz 1, des § 21 Absatz 2, des § 22 Absatz 3 und 
 
 (4) In Abstimmung mit dem antragstellenden Unternehmen kann die Garantiegewährung auch in anderer als der ursprünglich beantragten Form erfolgen, wenn eine andere Form der Garantie besser geeignet ist, Liquiditätsengpässe zu beheben oder dessen Refinanzierung am Kapitalmarkt zu unterstützen.
 
-
-## § 3 – Bedingungen für die Garantieübernahme
+# § 3 – Bedingungen für die Garantieübernahme
 
 (1) Die Bedingungen, zu denen eine Garantie nach § 21 Absatz 1 des Stabilisierungsfondsgesetzes übernommen wird, legt die für die Entscheidungen über den Antrag nach § 2 der Stabilisierungsfondsgesetz-Übertragungsverordnung zuständige Stelle fest. Die zuständigen Stellen haben die in den Absätzen 2 bis 5 festgelegten Vorgaben zu berücksichtigen.
 
@@ -67,8 +61,7 @@ Auf Grund des § 20 Absatz 6 Satz 1, des § 21 Absatz 2, des § 22 Absatz 3 und 
 
 (5) Garantien oder sonstige Gewährleistungen dürfen nicht übernommen werden, wenn mit hoher Wahrscheinlichkeit mit der Inanspruchnahme des Bundes gerechnet werden muss.
 
-
-## § 4 – Angemessene Gegenleistung und Obergrenze für Garantien
+# § 4 – Angemessene Gegenleistung und Obergrenze für Garantien
 
 (1) Der Wirtschaftsstabilisierungsfonds erhält vom begünstigten Unternehmen eine Vergütung für die Übernahme der Garantie. Die Ermittlung der Angemessenheit hat unter Anwendung marktüblicher Kriterien unter Berücksichtigung der Art des Produktes, wie zum Beispiel Schuldtitel, Bankkredit, Kreditlinie, Darlehen oder Aval, dem Rang der Forderung, des Ausfallrisikos und der Höhe der Absicherung durch die Garantie zu erfolgen. Die Verwendung von Instrumenten, die nicht von Abschnitt 3.2 des Befristeten Rahmens für staatliche Beihilfen umfasst sind, steht dabei unter dem Vorbehalt einer Genehmigung durch die Europäische Kommission.
 
@@ -94,8 +87,7 @@ Die Bezeichnung als kleines und mittleres Unternehmen (KMU) bestimmt sich nach A
 
 (7) Bei Garantien mit einer Laufzeit bis zum 31. Dezember 2020 kann der Garantiebetrag in gegenüber der Europäischen Kommission angemessen begründeten Fällen höher sein als nach Absatz 5, sofern die Verhältnismäßigkeit gewahrt bleibt und dies gegenüber der Europäischen Kommission nachgewiesen wird.
 
-
-## § 5 – Rekapitalisierungsinstrumente
+# § 5 – Rekapitalisierungsinstrumente
 
 (1) Auf Antrag von Unternehmen kann sich der Wirtschaftsstabilisierungsfonds in den unter § 22 Absatz 1 des Stabilisierungsfondsgesetzes genannten Formen an deren Rekapitalisierung beteiligen. In Abstimmung mit dem jeweiligen Antragsteller kann die Rekapitalisierung auch in anderer als der ursprünglich beantragten Form erfolgen.
 
@@ -115,8 +107,7 @@ Die Bezeichnung als kleines und mittleres Unternehmen (KMU) bestimmt sich nach A
 
 (6) Rekapitalisierungmaßnahmen nach Absatz 2 können auch zusammen mit Maßnahmen nach § 21 des Stabilisierungsfondsgesetzes angewendet werden.
 
-
-## § 6 – Bedingungen für hybride Finanzinstrumente
+# § 6 – Bedingungen für hybride Finanzinstrumente
 
 (1) Bei Rekapitalisierungsmaßnahmen nach § 5 Absatz 2 Nummer 1 und 2 sind die Anforderungen nach den Absätzen 2 bis 7 zu erfüllen. Die Erfüllung ist gegebenenfalls vertraglich abzusichern.
 
@@ -139,8 +130,7 @@ Die Bezeichnung als kleines und mittleres Unternehmen (KMU) bestimmt sich nach A
 
 (+++ § 6 Abs. 5: Zur Anwendung vgl. § 7 Abs. 7 S 2 +++)
 
-
-## § 7 – Bedingungen für Beteiligungen mit Vollstimmrecht
+# § 7 – Bedingungen für Beteiligungen mit Vollstimmrecht
 
 (1) Beim Erwerb von Beteiligungen mit Vollstimmrecht nach § 5 Absatz 2 Nummer 3 sind die Anforderungen nach den Absätzen 3 bis 6 zu erfüllen. Die Erfüllung ist gegebenenfalls vertraglich abzusichern.
 
@@ -170,15 +160,13 @@ Die Bezeichnung als kleines und mittleres Unternehmen (KMU) bestimmt sich nach A
 
 § 7 Abs. 5 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Abgabetrag" durch das Wort "Abgabebetrag" ersetzt.
 
-
-## § 8 – Auflagen und Bedingungen für Unternehmen, die Stabilisierungsmaßnahmen in Anspruch nehmen
+# § 8 – Auflagen und Bedingungen für Unternehmen, die Stabilisierungsmaßnahmen in Anspruch nehmen
 
 (1) Auflagen und Bedingungen für Stabilisierungsmaßnahmen nach dem Stabilisierungsfondsgesetz müssen dem Grundsatz der Verhältnismäßigkeit entsprechen und haben sich insbesondere an der Art, der Höhe und der Dauer der in Anspruch genommenen Stabilisierungsmaßnahme sowie an der wirtschaftlichen Situation des Unternehmens auszurichten.
 
 (2) Ferner sollen die Auflagen so gestaltet werden, dass sie Anreize für eine zügige Beendigung der Stabilisierungsmaßnahme setzen.
 
-
-## § 9 – Auflagen und Bedingungen bei Stabilisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes
+# § 9 – Auflagen und Bedingungen bei Stabilisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes
 
 (1) Solange das Unternehmen Stabilisierungsmaßnahmen des Fonds in Anspruch nimmt, dürfen Organmitgliedern und Geschäftsleitern unter Einbeziehung von etwaigen Konzernbezügen Boni, andere variable oder vergleichbare Vergütungsbestandteile nicht gewährt werden. Ebenso dürfen Sonderzahlungen in Form von Aktienpaketen, Gratifikationen oder andere gesonderte Vergütungen neben dem Festgehalt, sonstige in das freie Ermessen des Unternehmens gestellte Vergütungsbestandteile und rechtlich nicht gebotene Abfindungen nicht gewährt werden.
 
@@ -204,13 +192,11 @@ Die Bezeichnung als kleines und mittleres Unternehmen (KMU) bestimmt sich nach A
 
 (+++ § 9 Abs. 1, 3 und 4: Zur Anwendung vgl. § 10 S 2 +++)
 
-
-## § 10 – Auflagen und Bedingungen für Stabilisierungsmaßnahmen nach § 21 des Stabilisierungsfondsgesetzes
+# § 10 – Auflagen und Bedingungen für Stabilisierungsmaßnahmen nach § 21 des Stabilisierungsfondsgesetzes
 
 Bei Garantien ab einem Umfang von § 2 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 der Stabilisierungsfondsgesetz-Übertragungsverordnung, gelten die Auflagen nach § 9 Absatz 1, 3 und 4 entsprechend. Die Vorschriften des § 9 Absatz 1, 3 und 4 sollen auch auf garantierte Verbindlichkeiten von geringerem Umfang angewendet werden.
 
-
-## § 11 – Auflagen zur Verhinderung von Wettbewerbsverzerrungen durch Rekapitalisierungsmaßnahmen
+# § 11 – Auflagen zur Verhinderung von Wettbewerbsverzerrungen durch Rekapitalisierungsmaßnahmen
 
 (1) Sofern durch die Rekapitalisierungsmaßnahmen Wettbewerbsverzerrungen zu befürchten sind, kann der Fonds dem begünstigten Unternehmen Bedingungen für die Geschäftstätigkeit auferlegen, die geeignet sind, derartige Wettbewerbsverzerrungen zu vermeiden.
 
@@ -222,8 +208,7 @@ Bei Garantien ab einem Umfang von § 2 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 d
 
 (5) Verfügt das begünstigte Unternehmen auf mindestens einem der relevanten Märkte nach § 18 des Gesetzes gegen Wettbewerbsbeschränkungen über beträchtliche Marktmacht und überstieg die Rekapitalisierungsmaßnahme 250 Millionen Euro, sind weitere Bedingungen zur Wahrung eines wirksamen Wettbewerbs auf diesen Märkten festzulegen. Diese Bedingungen können insbesondere strukturelle oder verhaltensbezogene Verpflichtungen betreffen, die in der Mitteilung der Kommission über nach der Verordnung (EG) Nr. 139/2004 des Rates und der Verordnung (EG) Nr. 802/2004 der Kommission zulässige Abhilfemaßnahmen (2008/C 267/01) (ABl. C 267 vom 22.10.2008, S. 1) vorgesehen sind.
 
-
-## § 12 – Vertraglich abzusichernde Rechte des Wirtschaftsstabilisierungsfonds
+# § 12 – Vertraglich abzusichernde Rechte des Wirtschaftsstabilisierungsfonds
 
 (1) Der Wirtschaftsstabilisierungsfonds hat sich im Rahmen von Stabilisierungsmaßnahmen von dem begünstigten Unternehmen folgende vertraglichen Rechte einräumen zu lassen.
 
@@ -239,8 +224,7 @@ Bei Garantien ab einem Umfang von § 2 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 d
 
 (7) Soweit Bedingungen vertraglich vereinbart werden, sind auch die Rechtsfolgen eines Verstoßes durch das begünstigte Unternehmen vertraglich zu regeln. Als vertragliche Rechtsfolgen können insbesondere Kündigungsrechte, Schadensersatzansprüche und Vertragsstrafen vorgesehen werden.
 
-
-## § 13 – Beendigung der Stabilisierungsmaßnahme
+# § 13 – Beendigung der Stabilisierungsmaßnahme
 
 (1) Laufzeit, Art und Umfang der konkreten Maßnahmen sollen unter Berücksichtigung der Dauer der Störung im Wirtschaftsleben gestaltet werden.
 
@@ -252,7 +236,6 @@ Bei Garantien ab einem Umfang von § 2 Absatz 1 Nummer 1 und Absatz 2 Nummer 1 d
 
 (5) Stabilisierungsmaßnahmen nach § 22 des Stabilisierungsfondsgesetzes sind spätestens zehn Jahren nach ihrer Gewährung zu beenden. Darüber hinaus kann eine Stabilisierungsmaßnahme nur fortgeführt werden, wenn ihre Beendigung unwirtschaftlich wäre, die öffentliche Sicherheit und Ordnung, die technologische Souveränität in High-Tech-Bereichen oder die Fortführung des Unternehmens unmittelbar gefährden würde oder erhebliche negative Auswirkungen auf die Gesamtwirtschaft hätte.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

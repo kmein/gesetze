@@ -1,32 +1,24 @@
-# [PrfgZAUTV] Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
-
-Ausfertigungsdatum: 12.04.1990
-
+% Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
+% Ausfertigungsdatum: 12.04.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und des § 40 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S. 1692) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Diese Verordnung dient der Umsetzung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Österreich über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen vom 27. November 1989 (BGBl. II 1991 S. 712).
 
-
-## § 2 – Gleichstellung von Prüfungszeugnissen
+# § 2 – Gleichstellung von Prüfungszeugnissen
 
 Österreichische Zeugnisse über das Bestehen der Lehrabschlußprüfung werden den Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
+# Schlußformel
 
-## Schlußformel
-
-Der Bundesrat hat zugestimmt.  
-  
+Der Bundesrat hat zugestimmt.   
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 Aufstellung der gleichgestellten Prüfungszeugnisse  
 
@@ -2742,8 +2734,7 @@ Werkzeugmechaniker/Werkzeugmechanikerin (A)
 
 1) Sofern zu der Ausbildungsberufsbezeichnung eine Fachrichtungs- oder Schwerpunktbezeichnung aufgeführt ist, beschränkt sich die Gleichstellung auf diese Fachrichtung oder diesen Schwerpunkt.
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 - Kapitel V Sachgebiet B Abschnitt III -
@@ -2790,8 +2781,7 @@ n) Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7 Abs.
 
 o) Prüfungszeugnisse nach der Systematik der Ausbildungsberufe sowie der Systematik der Facharbeiterberufe in Handwerksberufen aus dem in Artikel 3 des Vertrages genannten Gebiet stehen Gesellenprüfungszeugnisse nach § 31 Abs. 2 der Handwerksordnung gleich.
 
-...  
-  
+...   
 - Kapitel XVI Sachgebiet C Abschnitt III -
 
 1. Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S. 1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1 und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs. 2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene Rechtsverordnungen

@@ -1,10 +1,7 @@
-# [FlUUG] Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb ziviler Luftfahrzeuge  (Flugunfall-Untersuchungs-Gesetz - FlUUG)
-
-Ausfertigungsdatum: 26.08.1998
-
+% Gesetz über die Untersuchung von Unfällen und Störungen bei dem Betrieb ziviler Luftfahrzeuge  (Flugunfall-Untersuchungs-Gesetz - FlUUG)
+% Ausfertigungsdatum: 26.08.1998
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -208,8 +205,7 @@ Beispiele für schwere Störungen
 
  
 
-
-## § 1 – Anwendungsbereich des Gesetzes
+# § 1 – Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz gilt für die Untersuchung von Unfällen und Störungen beim Betrieb ziviler Luftfahrzeuge, die sich im Hoheitsgebiet der Bundesrepublik Deutschland ereignen, und für die Verarbeitung von personenbezogenen Daten, die in diesem Zusammenhang anfallen.
 
@@ -217,8 +213,7 @@ Beispiele für schwere Störungen
 
 (3) Unfälle und Störungen, an denen zivile und militärische Luftfahrzeuge beteiligt sind, werden federführend von der zivilen Bundesstelle für Flugunfalluntersuchung untersucht (§ 4). Für Fälle, die überwiegend militärische Belange berühren, wird zwischen dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Verteidigung eine geeignete Regelung getroffen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bedeutet:  
 Unfall  
@@ -254,12 +249,9 @@ oder
 3. das Luftfahrzeug vermißt wird oder nicht zugänglich ist.
 
 Störung  
-Ein anderes Ereignis als ein Unfall, das mit dem Betrieb eines Luftfahrzeugs zusammenhängt und den sicheren Betrieb beeinträchtigt oder beeinträchtigen könnte.  
-Schwere Störung  
-Ein Ereignis beim Betrieb eines Luftfahrzeugs, dessen Umstände darauf hindeuten, daß sich beinahe ein Unfall ereignet hätte (Beispiele für schwere Störungen sind im Anhang aufgeführt).  
-Tödliche Verletzung  
-Eine Verletzung, die eine Person bei einem Unfall erlitten hat und die unmittelbar bei dem Unfall oder innerhalb von 30 Tagen nach dem Unfall ihren Tod zur Folge hat.  
-Schwere Verletzung  
+Ein anderes Ereignis als ein Unfall, das mit dem Betrieb eines Luftfahrzeugs zusammenhängt und den sicheren Betrieb beeinträchtigt oder beeinträchtigen könnte. Schwere Störung  
+Ein Ereignis beim Betrieb eines Luftfahrzeugs, dessen Umstände darauf hindeuten, daß sich beinahe ein Unfall ereignet hätte (Beispiele für schwere Störungen sind im Anhang aufgeführt). Tödliche Verletzung  
+Eine Verletzung, die eine Person bei einem Unfall erlitten hat und die unmittelbar bei dem Unfall oder innerhalb von 30 Tagen nach dem Unfall ihren Tod zur Folge hat. Schwere Verletzung  
 Eine Verletzung, die eine Person bei einem Unfall erlitten hat und die
 
 1. einen Krankenhausaufenthalt von mehr als 48 Stunden innerhalb von 7 Tagen nach der Verletzung erfordert
@@ -285,24 +277,16 @@ oder
 6. Folge einer nachgewiesenen Aussetzung gegenüber infektiösen Stoffen oder schädlicher Strahlung ist.
 
 Ursachen  
-Handlungen, Unterlassungen, Ereignisse oder Umstände oder eine Kombination dieser Faktoren, die zu einem Unfall oder einer Störung geführt haben.  
-Untersuchungsführer  
-Eine Person, der aufgrund ihrer Qualifikation die Verantwortung für Organisation, Durchführung und Beaufsichtigung einer Untersuchung übertragen wird.  
-Untersuchungsfachkraft  
-Eine Person, die aufgrund ihrer Qualifikation Untersuchungstätigkeiten unter Aufsicht des Untersuchungsführers ausübt.  
-Eintragungsstaat  
-Staat, in dessen Luftfahrzeugregister das Luftfahrzeug eingetragen ist.  
-Herstellerstaat  
-Der Staat, der die luftrechtliche Aufsicht über das Unternehmen führt, welches für die Endmontage des Luftfahrzeugs verantwortlich ist.  
-Halterstaat  
-Der Staat, in dem der Halter eines Luftfahrzeugs seinen Hauptgeschäftssitz oder, falls kein Geschäftssitz besteht, seinen Hauptwohnsitz hat.  
-Entwurfsstaat  
-Der Staat, in dessen Hoheitsgebiet sich der Geschäftssitz des Unternehmens befindet, welches den Konstruktionsentwurf für das Luftfahrzeugmuster hergestellt hat.  
-Sicherheitsempfehlung  
+Handlungen, Unterlassungen, Ereignisse oder Umstände oder eine Kombination dieser Faktoren, die zu einem Unfall oder einer Störung geführt haben. Untersuchungsführer  
+Eine Person, der aufgrund ihrer Qualifikation die Verantwortung für Organisation, Durchführung und Beaufsichtigung einer Untersuchung übertragen wird. Untersuchungsfachkraft  
+Eine Person, die aufgrund ihrer Qualifikation Untersuchungstätigkeiten unter Aufsicht des Untersuchungsführers ausübt. Eintragungsstaat  
+Staat, in dessen Luftfahrzeugregister das Luftfahrzeug eingetragen ist. Herstellerstaat  
+Der Staat, der die luftrechtliche Aufsicht über das Unternehmen führt, welches für die Endmontage des Luftfahrzeugs verantwortlich ist. Halterstaat  
+Der Staat, in dem der Halter eines Luftfahrzeugs seinen Hauptgeschäftssitz oder, falls kein Geschäftssitz besteht, seinen Hauptwohnsitz hat. Entwurfsstaat  
+Der Staat, in dessen Hoheitsgebiet sich der Geschäftssitz des Unternehmens befindet, welches den Konstruktionsentwurf für das Luftfahrzeugmuster hergestellt hat. Sicherheitsempfehlung  
 Vorschlag zur Verhütung von Unfällen und Störungen, den die Bundesstelle für Flugunfalluntersuchung auf der Grundlage von Fakten und Informationen unterbreitet, die sich während der Untersuchung ergeben hatten.
 
-
-## § 3 – Zweck und Gegenstand der Untersuchung
+# § 3 – Zweck und Gegenstand der Untersuchung
 
 (1) Unfälle und Störungen unterliegen einer Untersuchung mit dem ausschließlichen Zweck, nach Möglichkeit die Ursachen aufzuklären, mit dem Ziel, künftige Unfälle und Störungen zu verhüten. § 18 Abs. 4 und 5 bleibt unberührt.
 
@@ -337,8 +321,7 @@ b) anderen als den in Absatz 3 und unter Buchstabe a genannten Luftfahrzeugen k�
 
 (5) Auf Störungen beim Betrieb von Luftfahrzeugen ist Absatz 4 Buchstabe b entsprechend anzuwenden.
 
-
-## § 4 – Bundesstelle für Flugunfalluntersuchung
+# § 4 – Bundesstelle für Flugunfalluntersuchung
 
 (1) Zur Untersuchung von Unfällen und Störungen in der zivilen Luftfahrt wird im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur die Bundesstelle für Flugunfalluntersuchung errichtet. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt den Sitz der Bundesstelle und regelt ihren Aufbau. Die Bundesstelle wird von ihrem Direktor geleitet. Verwaltungsangehörige der Bundesstelle sind im übrigen die Beamten, Angestellten und Arbeiter. Die Beamten sind Bundesbeamte.
 
@@ -352,8 +335,7 @@ b) anderen als den in Absatz 3 und unter Buchstabe a genannten Luftfahrzeugen k�
 
 (6) Der Leiter der Bundesstelle und die Untersuchungsführer müssen über umfassende technische und betriebliche Kenntnisse und Erfahrungen auf dem Gebiet des Luftfahrtwesens verfügen sowie für die Befähigung zur Leitung einer umfangreichen Unfalluntersuchung ausreichend geschult sein. Die Bundesstelle hat dafür Sorge zu tragen, die fachlichen Fähigkeiten und Kenntnisse der Untersuchungsführer, der Untersuchungsfachkräfte und der weiteren Fachkräfte zu erhalten und der Entwicklung anzupassen.
 
-
-## § 5 – Zusammenarbeit mit anderen Staaten
+# § 5 – Zusammenarbeit mit anderen Staaten
 
 (1) Wird ein Unfall oder eine Störung eines von diesem Gesetz erfaßten Luftfahrzeugs außerhalb des Geltungsbereichs dieses Gesetzes durch eine ausländische Behörde untersucht, so kann die Bundesstelle einen bevollmächtigten Vertreter zur Teilnahme an der Untersuchung entsenden, wenn die Untersuchung eines vergleichbaren Ereignisses in der Bundesrepublik Deutschland nicht mit einem summarischen Untersuchungsbericht abgeschlossen werden würde. In diesem Fall sind auf Vorschlag des Halters ein oder mehrere Berater des bevollmächtigten Vertreters dem Staat, der die Untersuchung durchführt, zu benennen. Gleiches gilt für die Teilnahme von Vertretern des Herstellers des Luftfahrzeugs oder seiner Teile. Die Bundesstelle übermittelt der ausländischen Behörde alle verfügbaren erforderlichen Informationen; der Empfänger ist darauf hinzuweisen, daß die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu deren Erfüllung sie ihm übermittelt worden sind.
 
@@ -371,8 +353,7 @@ c) die elektronische Speicherung und Auswertung von Unfalldaten,
 
 (3) Die Bundesstelle kann anderen Staaten diese Hilfe auf Ersuchen gewähren. Sie wird auf der Grundlage der Gegenseitigkeit kostenlos gewährt. Die Regelung in Absatz 1 Satz 4 gilt entsprechend.
 
-
-## § 6 – Unterrichtung ausländischer Staaten und der Internationalen Zivilluftfahrt-Organisation
+# § 6 – Unterrichtung ausländischer Staaten und der Internationalen Zivilluftfahrt-Organisation
 
 (1) Ereignet sich im Geltungsbereich dieses Gesetzes ein Unfall oder eine schwere Störung, unterrichtet die Bundesstelle unverzüglich auf dem schnellstmöglichen Wege
 
@@ -388,34 +369,29 @@ c) die elektronische Speicherung und Auswertung von Unfalldaten,
 
 (2) Form und Inhalt der Unterrichtung richten sich nach den international üblichen Verfahren. Soweit die Unterrichtung sich auf personenbezogene Daten erstreckt, ist § 26 Abs. 4 anzuwenden.
 
-
-## § 7 – Unterrichtung anderer Behörden
+# § 7 – Unterrichtung anderer Behörden
 
 Begründen im Verlauf der Untersuchung ermittelte Tatsachen die Annahme, daß eine strafbare Handlung vorliegt, die im Zusammenhang mit dem Unfall oder der schweren Störung beim Betrieb ziviler Luftfahrzeuge steht oder die von erheblicher Bedeutung ist, unterrichtet die Bundesstelle die für die Luftsicherheit zuständige Behörde und die zuständigen Strafverfolgungsbehörden. Sie kann zu diesem Zweck auch personenbezogene Daten übermitteln.
 
-
-## § 8 – Untersuchungsstatus
+# § 8 – Untersuchungsstatus
 
 (1) Die Untersuchung durch die Bundesstelle hat grundsätzlich Vorrang vor allen anderen fachlich-technischen Untersuchungen für andere als die in § 3 genannten Ziele und Zwecke. Die Befugnisse der Strafverfolgungsbehörden und der zur Strafverfolgung berufenen Gerichte bleiben unberührt.
 
 (2) Überschneidungen mit anders gerichteten Interessen im Einzelfall sind durch zielgerichtete und zweckmäßige Zusammenarbeit der Bundesstelle mit anderen beteiligten Behörden zu ordnen.
 
-
-## § 9 – Untersuchungsverfahren
+# § 9 – Untersuchungsverfahren
 
 (1) Das Untersuchungsverfahren umfaßt die gesamte Tätigkeit der Bundesstelle, die auf die Ermittlung der ursächlichen Zusammenhänge eines Unfalls oder einer Störung sowie auf die Feststellung der dafür maßgebenden Ursachen gerichtet ist. Es endet mit der Zusammenfassung der Ergebnisse der Untersuchung in einem Untersuchungsbericht und seiner Veröffentlichung.
 
 (2) Die Bundesstelle bestimmt den Umfang der Untersuchung anhand des Ausmaßes und der Art des Unfalls oder der Störung unter Berücksichtigung der Erkenntnisse, die sich voraussichtlich für die Verbesserung der Sicherheit gewinnen lassen. Sie ist dabei vorbehaltlich anderer Vorschriften dieses Gesetzes an keine Form gebunden. Das Verfahren ist einfach und zweckmäßig durchzuführen.
 
-
-## § 10 – Einleitung der Untersuchung
+# § 10 – Einleitung der Untersuchung
 
 (1) Im Einzelfall bestimmt die Bundesstelle einen Untersuchungsführer, der die Untersuchung leitet.
 
 (2) Der Untersuchungsführer trifft unverzüglich die zur Erfüllung des Untersuchungszwecks notwendigen Maßnahmen.
 
-
-## § 11 – Untersuchungsbefugnisse
+# § 11 – Untersuchungsbefugnisse
 
 (1) Der Untersuchungsführer, die Untersuchungsfachkräfte und die Beauftragten für Unfalluntersuchung sind zur Erfüllung des Untersuchungsauftrags nach § 3 im Benehmen mit der örtlich zuständigen Strafverfolgungsbehörde befugt, alle Maßnahmen zu ergreifen, insbesondere
 
@@ -437,8 +413,7 @@ soweit dies zur Erreichung des Untersuchungszwecks erforderlich ist.
 
 (3) Die Sicherstellung von als Nachweismittel geeigneten Spuren und Gegenständen hat in enger Zusammenarbeit mit der zuständigen Strafverfolgungsbehörde zu erfolgen. Dies gilt insbesondere für solche Nachweismittel, die für einen erfolgreichen Ausgang der Untersuchung sofort gesichert und ausgewertet werden müssen wie die Identifizierung und Untersuchung der Opfer und die Aufzeichnungsanlagen.
 
-
-## § 12 – Unfallstelle
+# § 12 – Unfallstelle
 
 (1) Die Unfallstelle ist frühestmöglich wirksam gegen den Zutritt Dritter abzusperren. Unbefugte dürfen die Unfallstelle nicht betreten. Über den Zutritt zur abgesperrten Unfallstelle entscheidet der Untersuchungsführer in enger Zusammenarbeit mit der zuständigen Strafverfolgungsbehörde.
 
@@ -452,13 +427,11 @@ c) Bergung und Erste-Hilfe-Maßnahmen an Verletzten möglichst unter gleichzeiti
 
 Unzweifelhaft Tote und ihre Überreste sind bis zur Freigabe durch den Untersuchungsführer unverändert liegen zu lassen.
 
-
-## § 13 – Freigabe der Unfallstelle und des Luftfahrzeugs
+# § 13 – Freigabe der Unfallstelle und des Luftfahrzeugs
 
 Über die Freigabe der Unfallstelle, des Luftfahrzeugs, des Wracks oder seiner Teile, der Ladung und etwaiger Opfer entscheidet der Untersuchungsführer in enger Zusammenarbeit mit der zuständigen Strafverfolgungsbehörde.
 
-
-## § 14 – Teilnehmer am Untersuchungsverfahren
+# § 14 – Teilnehmer am Untersuchungsverfahren
 
 (1) Am Untersuchungsverfahren nehmen auf ihr Verlangen je ein bevollmächtigter Vertreter nicht-deutscher Staaten teil (Teilnehmer), und zwar
 
@@ -500,13 +473,11 @@ Die Teilnahme der Vertreter von Staaten nach Absatz 1 Nr. 2 kann auf solche Bere
 
 (9) Soweit die in den Absätzen 1 bis 8 genannten Personen Zugang zu personenbezogenen Daten erhalten, gilt § 26 Abs. 4 entsprechend.
 
-
-## § 15 – Besorgnis der Befangenheit
+# § 15 – Besorgnis der Befangenheit
 
 Liegt ein Grund vor, der geeignet ist, Mißtrauen gegen die unparteiische Ausübung der Tätigkeit einer an der Untersuchung beteiligten Person zu rechtfertigen, oder wird von einem Betroffenen das Vorliegen eines solchen Grundes behauptet (Besorgnis der Befangenheit), so hat die betreffende Person den Leiter der Bundesstelle davon in Kenntnis zu setzen, sich der weiteren Beteiligung am Verfahren zunächst zu enthalten und die Anordnungen des Leiters der Bundesstelle zu befolgen. Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft die Besorgnis der Befangenheit den Leiter der Bundesstelle oder seinen Vertreter, so trifft die Aufsichtsbehörde die erforderlichen Anordnungen.
 
-
-## § 16 – Nachweismittel
+# § 16 – Nachweismittel
 
 (1) Der Untersuchungsführer und die Untersuchungsfachkräfte bedienen sich aller zur Verfügung stehenden Mittel zum Nachweis der Unfallursachen (Nachweismittel). Sie dürfen, soweit dies für die Untersuchung erforderlich ist, insbesondere
 
@@ -522,8 +493,7 @@ Liegt ein Grund vor, der geeignet ist, Mißtrauen gegen die unparteiische Ausüb
 
 (4) Zeugen und Sachverständige sind auf Antrag nach Maßgabe des Gesetzes über die Entschädigung von Zeugen und Sachverständigen zu entschädigen.
 
-
-## § 17 – Anhörung vor Abschluß eines Untersuchungsberichts
+# § 17 – Anhörung vor Abschluß eines Untersuchungsberichts
 
 (1) Vor Abschluß eines Untersuchungsberichts ist nach Lage des Falles dem Halter des Luftfahrzeugs, dem Hersteller des Luftfahrzeugs und seiner Teile, der Flugbesatzung, den Aufsichtsbehörden, der nach § 31b Abs. 1 des Luftverkehrsgesetzes beauftragten Flugsicherungsorganisation und dem Deutschen Wetterdienst sowie den bevollmächtigten Vertretern nach § 14 Gelegenheit zu geben, sich zu den für die Ursachenfeststellung maßgeblichen Tatsachen und Schlußfolgerungen schriftlich zu äußern. Zu diesem Zweck ist der Entwurf eines Untersuchungsberichts zu versenden.
 
@@ -531,8 +501,7 @@ Liegt ein Grund vor, der geeignet ist, Mißtrauen gegen die unparteiische Ausüb
 
 (3) Eine Anhörung unterbleibt, wenn die Untersuchung summarisch (§ 18 Abs. 4 und 5) abgeschlossen wird.
 
-
-## § 18 – Untersuchungsbericht
+# § 18 – Untersuchungsbericht
 
 (1) Zu jeder Untersuchung wird ein Bericht der Bundesstelle in einer der Art und Schwere des Ereignisses angemessenen Form verfaßt. Dieser Bericht verweist auf den ausschließlichen Untersuchungszweck nach § 3.
 
@@ -552,8 +521,7 @@ Im übrigen erfolgt die Herausgabe des Berichts durch Bekanntgabe der Bezugsquel
 
 (5) Der summarische Bericht nach Absatz 4 gibt lediglich Auskunft über die an dem Unfall oder der Störung beteiligten Luftfahrzeuge und den Unfallhergang.
 
-
-## § 19 – Sicherheitsempfehlungen
+# § 19 – Sicherheitsempfehlungen
 
 (1) Sicherheitsempfehlungen werden vom Leiter der Bundesstelle herausgegeben.
 
@@ -565,15 +533,13 @@ Im übrigen erfolgt die Herausgabe des Berichts durch Bekanntgabe der Bezugsquel
 
 (5) Die Kommission der Europäischen Gemeinschaft erhält eine Abschrift der Sicherheitsempfehlung.
 
-
-## § 20 – Ausländische Untersuchungsberichte
+# § 20 – Ausländische Untersuchungsberichte
 
 (1) In den Fällen des § 5 Abs. 1 dürfen Entwürfe ausländischer Untersuchungsberichte, Teile davon und Dokumente, die die Bundesstelle aufgrund ihrer Beteiligung an einer Untersuchung erhält, ohne die ausdrückliche Zustimmung der ausländischen Untersuchungsbehörde nicht veröffentlicht oder Dritten zugänglich gemacht werden, es sei denn, die ausländische Untersuchungsbehörde hat diese Unterlagen bereits veröffentlicht oder freigegeben.
 
 (2) Die Bundesstelle ist zur Veröffentlichung ausländischer Untersuchungsberichte nicht verpflichtet. Im Falle einer Veröffentlichung ist § 18 Abs. 2 Satz 1 entsprechend anzuwenden.
 
-
-## § 21 – Erteilung von Auskünften und Akteneinsicht
+# § 21 – Erteilung von Auskünften und Akteneinsicht
 
 (1) Die Bundesstelle kann den von dem Ereignis betroffenen Personen oder deren Rechtsbeiständen Auskünfte aus den Akten des Untersuchungsverfahrens erteilen, soweit die Auskünfte zur Feststellung, Durchsetzung oder zur Abwehr von Rechtsansprüchen im Zusammenhang mit dem Unfall oder der Störung erforderlich sind.
 
@@ -591,13 +557,11 @@ es sei denn, die betroffenen Personen haben ausdrücklich zugestimmt.
 
 (4) Die Akteneinsicht erfolgt bei der Bundesstelle. Im Einzelfall kann die Einsicht auch bei einer anderen Behörde oder bei einer diplomatischen oder berufskonsularischen Vertretung der Bundesrepublik Deutschland im Ausland erfolgen.
 
-
-## § 22 – Wiederaufnahme eines Untersuchungsverfahrens
+# § 22 – Wiederaufnahme eines Untersuchungsverfahrens
 
 Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts wesentliche neue Tatsachen bekannt, nimmt die Bundesstelle von sich aus oder auf Antrag von bevollmächtigten Vertretern nach § 14 oder den in § 17 Abs. 1 genannten Personen und Stellen das Verfahren frühestens nach Ablauf von einem halben Jahr nach der Fertigstellung des Berichts wieder auf. Gegen die Ablehnung eines Antrags auf Wiederaufnahme kann innerhalb von 30 Tagen Beschwerde an das für den Sitz der Bundesstelle zuständige Oberverwaltungsgericht erhoben werden; sein Spruch ist unanfechtbar.
 
-
-## § 23 – Zuständigkeit
+# § 23 – Zuständigkeit
 
 (1) Bei Unfällen und Störungen von besonderer Bedeutung und Schwere, deren Untersuchung nach Art und Umfang das übliche Maß überschritten hat und bei denen die Auswertung und Kombination der Ergebnisse der verschiedenen Untersuchungshandlungen nicht ohne Schwierigkeiten zu einem offensichtlich eindeutigen Ergebnis führen kann, setzt die Bundesstelle nach der Anhörung nach § 17 eine Untersuchungskammer ein.
 
@@ -609,8 +573,7 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (5) Die Kammer ordnet und verteilt ihre Aufgaben in eigener Verantwortung auf ihre Mitglieder. Sie tritt jedoch nach außen nur als die Untersuchungskammer auf.
 
-
-## § 24 – Kostentragung
+# § 24 – Kostentragung
 
 (1) Die Untersuchungskosten trägt zunächst der Bund.
 
@@ -620,8 +583,7 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (4) Der Kostenerstattungsanspruch ist in einem Bescheid festzusetzen, der nach dem Verwaltungs-Vollstreckungsgesetz vom 27. April 1953 (BGBl. I S. 157), zuletzt geändert durch Artikel 40 des Gesetzes vom 14. Dezember 1976 (BGBl. I S. 3341), in der jeweils geltenden Fassung vollzogen werden kann.
 
-
-## § 25 – Verarbeitung von Daten
+# § 25 – Verarbeitung von Daten
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach § 11 und die Teilnehmer nach § 14 dürfen im Rahmen ihrer Befugnisse nach den §§ 11 und 16 personenbezogene Daten aller an dem Unfall oder der Störung beteiligten oder betroffenen Personen, sowie von Zeugen und anderen Personen, die über den Unfall oder die Störung Aussagen machen, verarbeiten, soweit dies für die Zwecke der Untersuchung nach § 3 erforderlich ist. Ebenso stellen sie die beteiligten Luftfahrzeuge nach Baumuster und Kennzeichen und die identifizierenden Kennwerte der an Bord befindlichen Gepäck- und Frachtstücke fest.
 
@@ -629,8 +591,7 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (3) Die Daten nach Absatz 1 werden in einem Dateisystem gespeichert oder in Akten festgehalten.
 
-
-## § 26 – Datenübermittlung an öffentliche Stellen
+# § 26 – Datenübermittlung an öffentliche Stellen
 
 (1) Die Bundesstelle darf Daten nach § 25 an öffentliche Stellen übermitteln, soweit dies für die Sicherheit in der Luftfahrt, für die Erteilung luftrechtlicher Erlaubnisse und Genehmigungen im Zusammenhang mit dem Betrieb des Luftfahrzeugs, für die Durchführung eines Strafverfahrens, für die Verfolgung von Ordnungswidrigkeiten und für gerichtliche Verfahren zur Feststellung, Geltendmachung oder Abwehr von Rechtsansprüchen im Zusammenhang mit dem Unfall oder der Störung sowie zum Zweck der Information von Angehörigen der vom Unfallereignis betroffenen Personen erforderlich ist.
 
@@ -640,8 +601,7 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (4) Die Bundesstelle darf Daten nach § 25 zu den in Absatz 1 genannten Zwecken an die in § 6 Abs. 1 genannten Stellen übermitteln, soweit dies zur Erfüllung der in der Zuständigkeit der empfangenden Stelle liegenden Aufgaben erforderlich ist und schutzwürdige Interessen der betroffenen Person nicht beeinträchtigt werden, insbesondere beim Empfänger ein angemessener Datenschutzstandard gewährleistet ist. Die Übermittlung von personenbezogenen Daten ist auch dann, wenn beim Empfänger ein angemessener Datenschutz nicht gewährleistet ist, zulässig, soweit sie zur Verhütung von Unfällen beim Betrieb ziviler Luftfahrzeuge und für Zwecke der Information von Angehörigen der vom Unfallereignis betroffenen Personen erforderlich ist. Der Empfänger ist darauf hinzuweisen, daß die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie ihm übermittelt worden sind.
 
-
-## § 27 – Aufbewahrungs- und Löschungsfristen
+# § 27 – Aufbewahrungs- und Löschungsfristen
 
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit Todesopfern 30 Jahre. Alle anderen Akten werden 20 Jahre aufbewahrt.
 
@@ -649,8 +609,7 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluß des Verfahrens. § 187 Absatz 1 des Bürgerlichen Gesetzbuchs und § 1 Nummer 2, 8 bis 10, § 3 Absatz 4, sowie die §§ 5 bis 7 des Bundesarchivgesetzes sind anzuwenden.
 
-
-## § 28 – Flugsicherheitsarbeit
+# § 28 – Flugsicherheitsarbeit
 
 (1) Die Bundesstelle leistet Flugsicherheitsarbeit mit dem Ziel der Flugunfallverhütung, indem sie Statistiken führt und auswertet, Flugunfallinformationen veröffentlicht und sich an Vortragsveranstaltungen beteiligt.
 
@@ -672,13 +631,11 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (6) Die Bundesstelle kann auf Anfrage Referenten zu Flugsicherungsveranstaltungen oder vergleichbaren Veranstaltungen der Polizei oder des Katastrophenschutzes entsenden, soweit dadurch die ordnungsgemäße Erfüllung der Aufgaben nicht beeinträchtigt wird.
 
-
-## § 29 – Beteiligung am Such- und Rettungsdienst
+# § 29 – Beteiligung am Such- und Rettungsdienst
 
 Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie notwendige Informationen beschafft, an diesen weitergibt und ihn berät. Vor der Einstellung der Suche nach einem vermißten Luftfahrzeug ist zwischen dem Such- und Rettungsdienst und der Bundesstelle Einvernehmen herzustellen.
 
-
-## § 30 – Bußgeldvorschriften
+# § 30 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -694,8 +651,7 @@ Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie notwendige I
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt.
 
-
-## Anhang – Beispiele für schwere Störungen
+# Anhang – Beispiele für schwere Störungen
 
 Die nachstehend aufgeführten Störungen sind typische Beispiele für schwere Störungen. Die Liste ist jedoch nicht erschöpfend und dient nur als Richtschnur für die Definition des Begriffs "schwere Störungen".
 

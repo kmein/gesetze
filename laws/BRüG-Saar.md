@@ -1,20 +1,15 @@
-# [BRüG-Saar] Bundesgesetz zur Einführung des Bundesgesetzes zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger (Bundesrückerstattungsgesetz - BRüG) im Saarland  (BRüG-Saar)
-
-Ausfertigungsdatum: 12.01.1967
-
+% Bundesgesetz zur Einführung des Bundesgesetzes zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger (Bundesrückerstattungsgesetz - BRüG) im Saarland  (BRüG-Saar)
+% Ausfertigungsdatum: 12.01.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art I
+# Art I
 
 Das Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger (Bundesrückerstattungsgesetz - BRüG) vom 19. Juli 1957, zuletzt geändert durch das Dritte Gesetz zur Änderung des Bundesrückerstattungsgesetzes vom 2. Oktober 1964 (Bundesgesetzbl. I S. 809), wird nach Maßgabe der folgenden Vorschriften im Saarland eingeführt.
 
-
-## Art II
+# Art II
 
 Für die Anwendung des Bundesrückerstattungsgesetzes im Saarland gelten folgende abweichende Bestimmungen:
 
@@ -35,8 +30,7 @@ die Verordnung Nr. 120 vom 10. November 1947 (Rückerstattung geraubter Vermöge
 
 4. § 11 Nr. 3 erhält folgende Fassung:
 
-"3.  
-a) als Bundesentschädigungsgesetz
+"3. a) als Bundesentschädigungsgesetz
 
 das Bundesgesetz zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (Bundesentschädigungsgesetz - BEG) in der Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559);
 
@@ -160,22 +154,18 @@ c) Absatz 4 erhält folgende Fassung:
 
 28. § 48 entfällt.
 
-
-## Art III
-
-\-
-
-
-## Art IV
+# Art III
 
 \-
 
+# Art IV
 
-## Art V
+\-
+
+# Art V
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## Art VI
+# Art VI
 
 Dieses Gesetz tritt am Tag seiner Verkündung in Kraft.

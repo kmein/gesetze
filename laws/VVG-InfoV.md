@@ -1,15 +1,11 @@
-# [VVG-InfoV] Verordnung über Informationspflichten bei Versicherungsverträgen    (VVG-Informationspflichtenverordnung - VVG-InfoV)
-
-Ausfertigungsdatum: 18.12.2007
-
+% Verordnung über Informationspflichten bei Versicherungsverträgen    (VVG-Informationspflichtenverordnung - VVG-InfoV)
+% Ausfertigungsdatum: 18.12.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 2 und 3 des Versicherungsvertragsgesetzes vom 23. November 2007 (BGBl. I S. 2631) verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Informationspflichten bei allen Versicherungszweigen
+# § 1 – Informationspflichten bei allen Versicherungszweigen
 
 (1) Der Versicherer hat dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des Versicherungsvertragsgesetzes folgende Informationen zur Verfügung zu stellen:
 
@@ -57,8 +53,7 @@ b) die wesentlichen Merkmale der Versicherungsleistung, insbesondere Angaben üb
 
 (2) Soweit die Mitteilung durch Übermittlung der Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die Informationen nach Absatz 1 Nr. 3, 13 und 15 einer hervorgehobenen und deutlich gestalteten Form.
 
-
-## § 2 – Informationspflichten bei der Lebensversicherung, der Berufsunfähigkeitsversicherung und der Unfallversicherung mit Prämienrückgewähr
+# § 2 – Informationspflichten bei der Lebensversicherung, der Berufsunfähigkeitsversicherung und der Unfallversicherung mit Prämienrückgewähr
 
 (1) Bei der Lebensversicherung hat der Versicherer dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des Versicherungsvertragsgesetzes zusätzlich zu den in § 1 Abs. 1 genannten Informationen die folgenden Informationen zur Verfügung zu stellen:
 
@@ -102,8 +97,7 @@ b) die wesentlichen Merkmale der Versicherungsleistung, insbesondere Angaben üb
 
 Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen Schätzwert ersetzt werden, wenn der in Satz 2 genannte Gesamtkostenindikator nicht zu berechnen ist. Die Sätze 1 bis 3 sind nicht anzuwenden auf Altersvorsorgeverträge und Basisrentenverträge im Sinne der §§ 1 und 2 des Altersvorsorgeverträge-Zertifizierungsgesetzes.
 
-
-## § 3 – Informationspflichten bei der Krankenversicherung
+# § 3 – Informationspflichten bei der Krankenversicherung
 
 (1) Bei der substitutiven Krankenversicherung (§ 146 Absatz 1 des Versicherungsaufsichtsgesetzes) hat der Versicherer dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des Versicherungsvertragsgesetzes zusätzlich zu den in § 1 Abs. 1 genannten Informationen folgende Informationen zur Verfügung zu stellen:
 
@@ -123,8 +117,7 @@ Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen Schätzw
 
 (2) Die Angaben zu Absatz 1 Nr. 1, 2 und 7 haben in Euro zu erfolgen.
 
-
-## § 4 – Produktinformationsblatt
+# § 4 – Produktinformationsblatt
 
 (1) Ist der Versicherungsnehmer ein Verbraucher, so hat der Versicherer ihm ein Produktinformationsblatt zur Verfügung zu stellen.
 
@@ -132,8 +125,7 @@ Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen Schätzw
 
 (3) Diese Regelung gilt nicht für Versicherungsanlageprodukte im Sinne der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50), die durch die Verordnung (EU) 2016/2340 (ABl. L 354 vom 23.12.2016, S. 35) geändert worden ist.
 
-
-## § 5 – Informationspflichten bei Telefongesprächen
+# § 5 – Informationspflichten bei Telefongesprächen
 
 (1) Nimmt der Versicherer mit dem Versicherungsnehmer telefonischen Kontakt auf, muss er seine Identität und den geschäftlichen Zweck des Kontakts bereits zu Beginn eines jeden Gesprächs ausdrücklich offenlegen.
 
@@ -141,8 +133,7 @@ Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen Schätzw
 
 (3) Die in §§ 1 bis 4 vorgesehenen Informationspflichten bleiben unberührt.
 
-
-## § 6 – Informationspflichten während der Laufzeit des Vertrages
+# § 6 – Informationspflichten während der Laufzeit des Vertrages
 
 (1) Der Versicherer hat dem Versicherungsnehmer während der Laufzeit des Versicherungsvertrages folgende Informationen mitzuteilen:
 
@@ -154,7 +145,6 @@ Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen Schätzw
 
 (2) Bei der substitutiven Krankenversicherung nach § 146 Absatz 1 des Versicherungsaufsichtsgesetzes hat der Versicherer bei jeder Prämienerhöhung unter Beifügung des Textes der gesetzlichen Regelung auf die Möglichkeit des Tarifwechsels (Umstufung) gemäß § 204 des Versicherungsvertragsgesetzes hinzuweisen. Bei Versicherten, die das 60. Lebensjahr vollendet haben, ist der Versicherungsnehmer auf Tarife, die einen gleichartigen Versicherungsschutz wie die bisher vereinbarten Tarife bieten und bei denen eine Umstufung zu einer Prämienreduzierung führen würde, hinzuweisen. Der Hinweis muss solche Tarife enthalten, die bei verständiger Würdigung der Interessen des Versicherungsnehmers für eine Umstufung besonders in Betracht kommen. Zu den in Satz 2 genannten Tarifen zählen jedenfalls diejenigen Tarife mit Ausnahme des Basistarifs, die jeweils im abgelaufenen Geschäftsjahr den höchsten Neuzugang, gemessen an der Zahl der versicherten Personen, zu verzeichnen hatten. Insgesamt dürfen nicht mehr als zehn Tarife genannt werden. Dabei ist jeweils anzugeben, welche Prämien für die versicherten Personen im Falle eines Wechsels in den jeweiligen Tarif zu zahlen wären. Darüber hinaus ist auf die Möglichkeit eines Wechsels in den Standardtarif oder Basistarif hinzuweisen. Dabei sind die Voraussetzungen des Wechsels in den Standardtarif oder Basistarif, die in diesem Falle zu entrichtende Prämie sowie die Möglichkeit einer Prämienminderung im Basistarif gemäß § 152 Absatz 4 des Versicherungsaufsichtsgesetzes mitzuteilen. Auf Anfrage ist dem Versicherungsnehmer der Übertragungswert gemäß § 146 Absatz 1 Nummer 5 des Versicherungsaufsichtsgesetzes anzugeben; ab dem 1. Januar 2013 ist der Übertragungswert jährlich mitzuteilen.
 
-
-## § 7 – Übergangsvorschrift
+# § 7 – Übergangsvorschrift
 
 Für Versicherungsprodukte, die weder Versicherungsanlageprodukt im Sinne der Verordnung (EU) Nr. 1286/2014 noch Versicherungsprodukt im Sinne des Anhangs I der Richtlinie 2009/138/EG sind, kann der Versicherer bis einschließlich 31. Dezember 2018 das Produktinformationsblatt nach § 4 in seiner bis 13. März 2018 geltenden Fassung gestalten.

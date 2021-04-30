@@ -1,20 +1,15 @@
-# [VulkAusbV 2004] Verordnung über die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
-
-Ausfertigungsdatum: 12.05.2004
-
+% Verordnung über die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
+% Ausfertigungsdatum: 12.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mechaniker für Reifen- und Vulkanisationstechnik/Mechanikerin für Reifen- und Vulkanisationstechnik wird gemäß § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 41 der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre. Im dritten Ausbildungsjahr kann zwischen den Fachrichtungen
 
@@ -26,18 +21,15 @@ gewählt werden.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9, 10 und 11 nachzuweisen.
 
-
-## § 4 – Berufsfeldbreite Grundbildung
+# § 4 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Ausbildungsverordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -97,23 +89,19 @@ c) Warten und Instandsetzen von Fördergurten,
 
 d) Herstellen und Instandsetzen von Gummiauskleidungen und -belägen.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen unter Berücksichtigung der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -127,8 +115,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 Dabei sollen die Prüflinge zeigen, dass sie Arbeitsabläufe planen, Arbeitsmittel festlegen, Messungen durchführen, Schäden und Reparaturen beurteilen, technische Unterlagen nutzen sowie Instandhaltungsabläufe, insbesondere den Zusammenhang von Technik, Arbeitsorganisation, Berufsbildung, Arbeits- und Tarifrecht, Umweltschutz, Sicherheit und Gesundheitsschutz sowie Wirtschaftlichkeit, berücksichtigen können. Durch das Fachgespräch sollen die Prüflinge zeigen, dass sie fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgaben wesentlichen fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgaben begründen können.
 
-
-## § 10 – Gesellenprüfung in der Fachrichtung Reifen- und Fahrwerktechnik
+# § 10 – Gesellenprüfung in der Fachrichtung Reifen- und Fahrwerktechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -150,10 +137,7 @@ Die Durchführung der Arbeitsaufgaben wird mit praxisbezogenen Unterlagen dokume
 
 3. Wirtschafts- und Sozialkunde.
 
-In den Prüfungsbereichen Instandhaltungstechnik sowie Funktionsanalyse sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen, instandhaltungstechnischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Dabei sollen die Prüflinge zeigen, dass sie die Sicherheits-, Gesundheits- und Umweltschutzbestimmungen berücksichtigen sowie technische Informationen nutzen und dem jeweiligen System zuordnen können. Des Weiteren sollen die Prüflinge zeigen, dass sie Problemanalysen durchführen, die für die Instandhaltung erforderlichen Ersatzteile, Werkzeuge und Hilfsmittel unter Beachtung von technischen Regeln auswählen, Maßnahmen unter Berücksichtigung betrieblicher Abläufe planen sowie Funktionspläne, Datensammlungen und branchenbezogene Software nutzen und auswerten können.  
-Im Prüfungsbereich Instandhaltungstechnik kommt insbesondere in Betracht: Beschreiben der Funktion von Fahrzeugsystemen und deren Zusammenwirken sowie Beschreiben der Vorgehensweise bei Instandhaltungsarbeiten.  
-Im Prüfungsbereich Funktionsanalyse kommt insbesondere in Betracht: Beschreiben der Vorgehensweise bei der Ausführung von Arbeiten zum Untersuchen von Fahrzeugen und deren Systemen, insbesondere Ermitteln von Fehlern, Störungen und deren Ursachen.  
-Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
+In den Prüfungsbereichen Instandhaltungstechnik sowie Funktionsanalyse sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen, instandhaltungstechnischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Dabei sollen die Prüflinge zeigen, dass sie die Sicherheits-, Gesundheits- und Umweltschutzbestimmungen berücksichtigen sowie technische Informationen nutzen und dem jeweiligen System zuordnen können. Des Weiteren sollen die Prüflinge zeigen, dass sie Problemanalysen durchführen, die für die Instandhaltung erforderlichen Ersatzteile, Werkzeuge und Hilfsmittel unter Beachtung von technischen Regeln auswählen, Maßnahmen unter Berücksichtigung betrieblicher Abläufe planen sowie Funktionspläne, Datensammlungen und branchenbezogene Software nutzen und auswerten können. Im Prüfungsbereich Instandhaltungstechnik kommt insbesondere in Betracht: Beschreiben der Funktion von Fahrzeugsystemen und deren Zusammenwirken sowie Beschreiben der Vorgehensweise bei Instandhaltungsarbeiten. Im Prüfungsbereich Funktionsanalyse kommt insbesondere in Betracht: Beschreiben der Vorgehensweise bei der Ausführung von Arbeiten zum Untersuchen von Fahrzeugen und deren Systemen, insbesondere Ermitteln von Fehlern, Störungen und deren Ursachen. Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 (4) Im Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:  
 
@@ -181,8 +165,7 @@ Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf p
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 11 – Gesellenprüfung in der Fachrichtung Vulkanisationstechnik
+# § 11 – Gesellenprüfung in der Fachrichtung Vulkanisationstechnik
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -204,10 +187,7 @@ Die Durchführung der Arbeitsaufgaben wird mit praxisbezogenen Unterlagen dokume
 
 3. Wirtschafts- und Sozialkunde.
 
-In den Prüfungsbereichen Instandhaltungstechnik sowie Erneuern von Reifen sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen, instandhaltungstechnischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Dabei sollen die Prüflinge zeigen, dass sie die Sicherheits-, Gesundheits- und Umweltschutzbestimmungen berücksichtigen sowie technische Informationen nutzen und dem jeweiligen System zuordnen können. Des Weiteren sollen die Prüflinge zeigen, dass sie Problemanalysen durchführen, die für die Instandhaltung erforderlichen Ersatzteile, Werkzeuge und Hilfsmittel unter Beachtung von technischen Regeln auswählen, Maßnahmen unter Berücksichtigung betrieblicher Abläufe planen sowie Funktionspläne, Datensammlungen und branchenbezogene Software nutzen und auswerten können.  
-Im Prüfungsbereich Instandhaltungstechnik kommt insbesondere in Betracht: Beschreiben der Funktion von Systemen und deren Zusammenwirken sowie Beschreiben der Vorgehensweise bei Instandhaltungsarbeiten, insbesondere bei der Fördergurtreparatur-, Reifenreparatur- oder Belegetechnik.  
-Im Prüfungsbereich Erneuern von Reifen kommt insbesondere in Betracht: Beschreiben der Vorgehensweise beim Anwenden von Karkassenprüfverfahren und bei der Auswahl der Erneuerungsverfahren sowie Berechnen von Rau- und Belegemaßen sowie Heizzeiten.  
-Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
+In den Prüfungsbereichen Instandhaltungstechnik sowie Erneuern von Reifen sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen, instandhaltungstechnischen und mathematischen Sachverhalten zu analysieren, zu bewerten und Lösungswege darzustellen. Dabei sollen die Prüflinge zeigen, dass sie die Sicherheits-, Gesundheits- und Umweltschutzbestimmungen berücksichtigen sowie technische Informationen nutzen und dem jeweiligen System zuordnen können. Des Weiteren sollen die Prüflinge zeigen, dass sie Problemanalysen durchführen, die für die Instandhaltung erforderlichen Ersatzteile, Werkzeuge und Hilfsmittel unter Beachtung von technischen Regeln auswählen, Maßnahmen unter Berücksichtigung betrieblicher Abläufe planen sowie Funktionspläne, Datensammlungen und branchenbezogene Software nutzen und auswerten können. Im Prüfungsbereich Instandhaltungstechnik kommt insbesondere in Betracht: Beschreiben der Funktion von Systemen und deren Zusammenwirken sowie Beschreiben der Vorgehensweise bei Instandhaltungsarbeiten, insbesondere bei der Fördergurtreparatur-, Reifenreparatur- oder Belegetechnik. Im Prüfungsbereich Erneuern von Reifen kommt insbesondere in Betracht: Beschreiben der Vorgehensweise beim Anwenden von Karkassenprüfverfahren und bei der Auswahl der Erneuerungsverfahren sowie Berechnen von Rau- und Belegemaßen sowie Heizzeiten. Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht: Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- und Arbeitswelt.
 
 (4) Im Prüfungsteil B ist von folgenden zeitlichen Höchstwerten auszugehen:  
 
@@ -235,8 +215,7 @@ Im Prüfungsbereich Wirtschafts- und Sozialkunde kommen Aufgaben, die sich auf p
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
@@ -244,13 +223,11 @@ jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfung
 
 (3) Nach einem erfolgreichen Besuch eines schulischen Berufsgrundbildungsjahres im Berufsfeld Metalltechnik, Schwerpunkt C: Kraftfahrzeugtechnik entsprechend der Berufsgrundbildungsjahr-Anrechnungs-Verordnung vom 17. Juli 1978 (BGBl. I S. 1061), geändert durch § 6 der Verordnung vom 10. März 1988 (BGBl. I S. 229), sind auf bis zum 31. Juli 2005 beginnende Berufsausbildungsverhältnisse die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
+# Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
 
 (Fundstelle: BGBl. I 2004, 912 - 921)
 

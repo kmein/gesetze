@@ -1,13 +1,9 @@
-# [SeeArbG] Seearbeitsgesetz  (SeeArbG)
-
-Ausfertigungsdatum: 20.04.2013
-
+% Seearbeitsgesetz  (SeeArbG)
+% Ausfertigungsdatum: 20.04.2013
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Arbeits- und Lebensbedingungen von Seeleuten an Bord von Kauffahrteischiffen, die die Bundesflagge führen. Es gilt nicht für gewerbsmäßig genutzte Sportboote unter 24 Meter Länge, wenn auf diesen nicht mehr als zwei Personen beschäftigt sind.
 
@@ -23,8 +19,7 @@ gelten die in der Binnenschifffahrt anzuwendenden arbeitsrechtlichen Vorschrifte
 
 (+++ § 1 Abs. 3: Zur Anwendung vgl. § 154 Abs. 1 iVm Bek v. 21.5.2014 (SeeArbG§154AnwBek) I 605 mWv 16.8.2014 +++) (+++ Amtlicher Hinweis des Normgebers auf EG-Recht: Umsetzung der EGRL 38/2004 (CELEX Nr: 304L0082) vgl. Bek v. 21.5.2014 I 605 +++)
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes und soweit nicht ausdrücklich etwas anders bestimmt ist, sind
 
@@ -52,8 +47,7 @@ Im Sinne dieses Gesetzes und soweit nicht ausdrücklich etwas anders bestimmt is
 
 12. bewaffneter Raubüberfall auf Schiffe: jede rechtswidrige Gewalttat oder Freiheitsberaubung oder jede Plünderung oder deren Androhung, ausgenommen seeräuberische Handlungen, die zu privaten Zwecken begangen wird und die gegen ein Schiff oder gegen Personen oder Vermögenswerte an Bord dieses Schiffes in den Binnengewässern, den Archipelgewässern oder den Hoheitsgewässern eines Staates gerichtet ist, oder jede Anstiftung zu einer oben beschriebenen Handlung oder deren vorsätzliche Erleichterung zu verstehen.
 
-
-## § 3 – Besatzungsmitglieder
+# § 3 – Besatzungsmitglieder
 
 (1) Seeleute im Sinne dieses Gesetzes sind alle Personen, die an Bord des Schiffes tätig sind, unabhängig davon, ob sie vom Reeder oder einer anderen Person beschäftigt werden oder als Selbständige tätig sind, einschließlich der zu ihrer Berufsbildung Beschäftigten (Besatzungsmitglieder).
 
@@ -101,8 +95,7 @@ Die Genehmigung ist auf den für die Tätigkeit voraussichtlich erforderlichen Z
 
 (6) Name, Zweck sowie Beginn und Ende des Aufenthaltes von Personen an Bord, die nach Absatz 3 nicht zu den Besatzungsmitgliedern gehören und keine Fahrgäste sind, sind unverzüglich im Seetagebuch zu vermerken.
 
-
-## § 4 – Reeder
+# § 4 – Reeder
 
 (1) Reeder im Sinne dieses Gesetzes ist
 
@@ -122,8 +115,7 @@ Die Genehmigung ist auf den für die Tätigkeit voraussichtlich erforderlichen Z
 
 (5) Für bürgerliche Rechtsstreitigkeiten zwischen Arbeitnehmern oder Auszubildenden und Reedern über Ansprüche aus der Verantwortung des Reeders nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 2 Nummer 2 oder Absatz 4 sind ausschließlich die Gerichte für Arbeitssachen zuständig.
 
-
-## § 5 – Kapitän und Stellvertreter
+# § 5 – Kapitän und Stellvertreter
 
 (1) Kapitän ist das vom Reeder zur Führung des Schiffes bestellte Besatzungsmitglied.
 
@@ -131,30 +123,25 @@ Die Genehmigung ist auf den für die Tätigkeit voraussichtlich erforderlichen Z
 
 (3) Ist ein Kapitän nicht vorhanden oder ist er verhindert, so nimmt der Erste Offizier des Decksdienstes oder der Alleinsteuermann die Pflichten und Befugnisse des Kapitäns wahr.
 
-
-## § 6 – Schiffsoffiziere
+# § 6 – Schiffsoffiziere
 
 Schiffsoffiziere sind Besatzungsmitglieder des nautischen oder des technischen Dienstes, die eines staatlichen Befähigungszeugnisses bedürfen, sowie die Schiffsärztinnen und Schiffsärzte, die Seefunkerinnen und Seefunker, die Schiffselektrotechnikerinnen und Schiffselektrotechniker und die Zahlmeisterinnen und Zahlmeister.
 
-
-## § 7 – Jugendliche Besatzungsmitglieder
+# § 7 – Jugendliche Besatzungsmitglieder
 
 Jugendliche Besatzungsmitglieder sind Besatzungsmitglieder, die das 18. Lebensjahr nicht vollendet haben.
 
-
-## § 8 – Datenschutz
+# § 8 – Datenschutz
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass Heuerverträge, Heuerabrechnungen, Seediensttauglichkeitszeugnisse, Krankenunterlagen sowie alle anderen Unterlagen mit personenbezogenen Daten so an Bord verwahrt werden, dass kein unberechtigter Dritter davon Kenntnis erlangen kann.
 
 (2) Der Reeder hat sicherzustellen, dass die Übermittlung personenbezogener Daten von Besatzungsmitgliedern nur an die Person erfolgt, für die die Daten dienstlich oder zu privaten Zwecken bestimmt sind. Die Übermittlung von personenbezogenen Daten, insbesondere Kopien von Heuerverträgen, an den Kapitän an Bord eines Schiffes ist zulässig.
 
-
-## § 9 – Abweichende Vereinbarungen
+# § 9 – Abweichende Vereinbarungen
 
 Von den Vorschriften dieses Gesetzes kann zu Ungunsten des Besatzungsmitglieds nur abgewichen werden, wenn es gesetzlich bestimmt ist. Die Mindestanforderungen der Arbeits- und Lebensbedingungen des Seearbeitsübereinkommens im Sinne der Artikel III, IV und VI Nummer 1 Satz 1 sind auch dann zu beachten, wenn eine abweichende Rechtswahl getroffen worden ist.
 
-
-## § 10 – Mindestalter des Besatzungsmitglieds
+# § 10 – Mindestalter des Besatzungsmitglieds
 
 (1) Der Reeder darf Personen unter 16 Jahren sowie Personen, die der Vollzeitschulpflicht unterliegen, als Besatzungsmitglied auf Schiffen nicht beschäftigen oder arbeiten lassen.
 
@@ -162,13 +149,11 @@ Von den Vorschriften dieses Gesetzes kann zu Ungunsten des Besatzungsmitglieds n
 
 (3) Abweichend von Absatz 1 dürfen auf Fischereifahrzeugen Personen ab 15 Jahren, die nicht mehr der Vollzeitschulpflicht unterliegen, im Rahmen eines Berufsausbildungsverhältnisses beschäftigt werden.
 
-
-## § 11 – Erfordernis der Seediensttauglichkeit
+# § 11 – Erfordernis der Seediensttauglichkeit
 
 Als Besatzungsmitglied darf nur tätig sein, wer für die von ihm zu verrichtende Tätigkeit auf See gesundheitlich tauglich (seediensttauglich) ist. Seediensttauglich ist, wer nach seinem Gesundheitszustand für die Tätigkeit an Bord von Schiffen geeignet und hinreichend widerstandsfähig ist und den zur Erhaltung der Schiffssicherheit gestellten besonderen Anforderungen seines Dienstzweiges genügt. Ein Reeder darf ein Besatzungsmitglied nur tätig werden lassen, wenn dieses seediensttauglich ist.
 
-
-## § 12 – Seediensttauglichkeitszeugnis
+# § 12 – Seediensttauglichkeitszeugnis
 
 (1) Das Besatzungsmitglied hat vor Aufnahme seiner Tätigkeit seine Seediensttauglichkeit durch eine Bescheinigung eines zugelassenen Arztes nachzuweisen (Seediensttauglichkeitszeugnis). Der Reeder darf ein Besatzungsmitglied ohne ein gültiges Seediensttauglichkeitszeugnis auf Schiffen nicht beschäftigen.
 
@@ -190,8 +175,7 @@ Als Besatzungsmitglied darf nur tätig sein, wer für die von ihm zu verrichtend
 
 (7) Ein Seediensttauglichkeitszeugnis, das von der zuständigen Einrichtung eines anderen Staates ausgestellt ist, steht einem Seediensttauglichkeitszeugnis nach Absatz 1 gleich, wenn das Zeugnis den Anforderungen des STCW-Übereinkommens genügt.
 
-
-## § 13 – Ablehnung der Seediensttauglichkeit, Feststellungen durch die Berufsgenossenschaft
+# § 13 – Ablehnung der Seediensttauglichkeit, Feststellungen durch die Berufsgenossenschaft
 
 (1) Wird einer untersuchten Person wegen fehlender Seediensttauglichkeit das Seediensttauglichkeitszeugnis durch einen zugelassenen Arzt nicht erteilt oder stellt der zugelassene Arzt eine Einschränkung ihrer Seediensttauglichkeit insbesondere hinsichtlich Dauer, Tätigkeitsbereich oder Fahrtgebiet fest, so kann die Person diese Feststellung auf Antrag bei der Berufsgenossenschaft überprüfen lassen. Die Berufsgenossenschaft überprüft die Feststellung des zugelassenen Arztes durch die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft
 
@@ -207,8 +191,7 @@ Die Berufsgenossenschaft ist befugt, Untersuchungsergebnisse über diese Person 
 
 (3) Wird auf Grund der Untersuchung festgestellt, dass die untersuchte Person nicht oder nur eingeschränkt seediensttauglich ist, stellt die Berufsgenossenschaft dies durch Bescheid fest. Widerspruch und Anfechtungsklage gegen einen Bescheid nach Satz 1 haben keine aufschiebende Wirkung.
 
-
-## § 14 – Anordnungsbefugnisse der Berufsgenossenschaft
+# § 14 – Anordnungsbefugnisse der Berufsgenossenschaft
 
 (1) Die Berufsgenossenschaft kann, soweit es erforderlich ist, um
 
@@ -228,8 +211,7 @@ gegenüber einer zu untersuchenden Person anordnen, dass eine Seediensttauglichk
 
 (5) Widerspruch und Anfechtungsklage gegen Anordnungen nach den Absätzen 2 und 3, auch in Verbindung mit Absatz 4, haben keine aufschiebende Wirkung.
 
-
-## § 15 – Rechtsbehelfsverfahren
+# § 15 – Rechtsbehelfsverfahren
 
 (1) Den Widerspruchsbescheid nach § 73 der Verwaltungsgerichtsordnung erlässt der Widerspruchsausschuss.
 
@@ -239,8 +221,7 @@ gegenüber einer zu untersuchenden Person anordnen, dass eine Seediensttauglichk
 
 (4) Das Widerspruchsverfahren ist gebührenfrei. § 80 des Verwaltungsverfahrensgesetzes gilt mit der Maßgabe, dass dem Widerspruchsführer die Kosten des Verfahrens nur auferlegt werden können, soweit der Widerspruch auf Grund grob fahrlässigen Verhaltens des Widerspruchsführers erfolglos geblieben ist.
 
-
-## § 16 – Zulassung von Ärzten
+# § 16 – Zulassung von Ärzten
 
 (1) Eine Ärztin oder ein Arzt wird durch die Berufsgenossenschaft zur Feststellung der Seediensttauglichkeit zugelassen, wenn sie oder er
 
@@ -260,8 +241,7 @@ Im Antrag auf Zulassung sind die in § 19 Absatz 3 Nummer 8 bezeichneten Daten a
 
 erwirkt hat. Die Zulassung ist zu widerrufen, wenn die Ärztin oder der Arzt nicht mehr über die notwendigen fachlichen Kenntnisse, die erforderliche Unabhängigkeit oder Zuverlässigkeit verfügt. Im Übrigen bleiben die §§ 48 und 49 des Verwaltungsverfahrensgesetzes unberührt. Die Berufsgenossenschaft kann, auch in den Fällen der Sätze 1 und 2, anstelle der Rücknahme oder des Widerrufs bis zur Beseitigung der Rücknahme- oder Widerrufsgründe das Ruhen der Zulassung für einen bestimmten Zeitraum anordnen, soweit mit einer Beseitigung der Rücknahme- oder Widerrufsgründe binnen des bestimmten Zeitraumes zu rechnen ist.
 
-
-## § 17 – Überwachung der Ärzte
+# § 17 – Überwachung der Ärzte
 
 (1) Ein zugelassener Arzt unterliegt der Überwachung durch die Berufsgenossenschaft. Über die Befugnisse des § 143 hinaus können die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft
 
@@ -279,8 +259,7 @@ Die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft sind bei Wahrneh
 
 (4) Soweit es im Rahmen der Zulassung von Ärzten erforderlich ist, dürfen die Ärzte des seeärztlichen Dienstes der Berufsgenossenschaft Untersuchungen auf Seediensttauglichkeit durchführen und Seediensttauglichkeitszeugnisse ausstellen. Im Rahmen dieser Untersuchungen sind die zu schulenden Ärzte befugt, bei den Untersuchungen gegenwärtig zu sein, soweit die zu untersuchende Person vor der Untersuchung eingewilligt hat. Absatz 1 Satz 3 gilt für die zu schulenden Ärzte entsprechend.
 
-
-## § 18 – Übernahme der Untersuchungskosten
+# § 18 – Übernahme der Untersuchungskosten
 
 (1) Die Berufsgenossenschaft übernimmt die Kosten der in den §§ 12 und 13 bezeichneten Untersuchungen, wenn
 
@@ -296,8 +275,7 @@ Die Berufsgenossenschaft kann die von ihr nach Satz 1 übernommenen Kosten nach 
 
 (3) Die Kosten der Untersuchungen für jugendliche Besatzungsmitglieder erstattet der Bund der Berufsgenossenschaft.
 
-
-## § 19 – Seediensttauglichkeitsverzeichnis
+# § 19 – Seediensttauglichkeitsverzeichnis
 
 (1) Die Berufsgenossenschaft führt ein Verzeichnis über alle durchgeführten Seediensttauglichkeitsuntersuchungen (Seediensttauglichkeitsverzeichnis).
 
@@ -367,8 +345,7 @@ Die Berufsgenossenschaft kann die von ihr nach Satz 1 übernommenen Kosten nach 
 
 (11) Dem Besatzungsmitglied oder dem zugelassenen Arzt wird auf Antrag schriftlich über den ihn betreffenden Inhalt des Seediensttauglichkeitsverzeichnisses unentgeltlich Auskunft erteilt. Der Antragsteller hat dem Antrag einen Identitätsnachweis beizufügen.
 
-
-## § 20 – Rechtsverordnungen
+# § 20 – Rechtsverordnungen
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -396,13 +373,11 @@ werden.
 
 (2) Rechtsverordnungen nach Absatz 1 bedürfen des Einvernehmens des Bundesministeriums für Ernährung und Landwirtschaft, soweit die Seefischerei betroffen ist.
 
-
-## § 21 – Besatzungsstärke der Schiffe
+# § 21 – Besatzungsstärke der Schiffe
 
 Der Reeder und der Kapitän haben unbeschadet der Vorschriften des Schiffssicherheitsgesetzes für eine nach Anzahl, Qualifikation und Eignung ausreichende Schiffsbesatzung zu sorgen, um unter allen Betriebszuständen einen sicheren, effizienten und gefahrlosen Schiffsbetrieb zu gewährleisten. Das Nähere kann in einer Rechtsverordnung nach § 9 Absatz 1 Nummer 3 des Seeaufgabengesetzes geregelt werden.
 
-
-## § 22 – Besatzungsliste
+# § 22 – Besatzungsliste
 
 (1) Auf Schiffen in der internationalen Fahrt ist der Kapitän verpflichtet, eine Besatzungsliste zu erstellen und mitzuführen, die jederzeit den vollständigen Stand der Zusammensetzung der Besatzung unter Angabe der Vornamen und Familiennamen, der Geburtsdaten, der Geburtsorte, der Nationalitäten, der Nummern der Identitätsnachweise und der Funktionen an Bord oder der Dienststellungen der Besatzungsmitglieder wiedergibt. Die Besatzungsliste muss dem von der Berufsgenossenschaft im Verkehrsblatt oder Bundesanzeiger veröffentlichten Muster entsprechen.
 
@@ -420,13 +395,11 @@ Der Reeder und der Kapitän haben unbeschadet der Vorschriften des Schiffssicher
 
 vorgelegt oder übermittelt wird, um die Einhaltung der sicheren Besetzung nach den dafür geltenden Vorschriften zu überprüfen. Der Kapitän und der Reeder sind verpflichtet, dem Verlangen nach Satz 1 unverzüglich nachzukommen.
 
-
-## § 23 – Befähigungszeugnisse und -nachweise, Sicherheitsunterweisung
+# § 23 – Befähigungszeugnisse und -nachweise, Sicherheitsunterweisung
 
 Als Besatzungsmitglied darf nur tätig sein, wer Inhaber der nach den seeverkehrsrechtlichen Vorschriften erforderlichen Befähigungszeugnisse, Befähigungsnachweise oder sonstiger Qualifikationsbescheinigungen ist. Der Kapitän hat dafür zu sorgen, dass die Besatzungsmitglieder eine Sicherheitsunterweisung mit den nach der Regel VI/1 der Anlage zu dem STCW-Übereinkommen vorgeschriebenen Inhalten an Bord erhalten.
 
-
-## § 24 – Verpflichtungen des Reeders
+# § 24 – Verpflichtungen des Reeders
 
 (1) Ein Reeder darf einen privaten Arbeitsvermittlungsdienst für Seeleute (Vermittler) mit Sitz in Deutschland nur dann für die Vermittlung von Seeleuten in Anspruch nehmen, wenn ihm vom Vermittler eine schriftliche Bescheinigung der Berufsgenossenschaft vorgelegt worden ist, dass der Vermittler die Anforderungen des § 25 erfüllt.
 
@@ -440,8 +413,7 @@ Als Besatzungsmitglied darf nur tätig sein, wer Inhaber der nach den seeverkehr
 
 (3) Ein Reeder darf einen Vermittler mit Sitz in Staaten, die das Seearbeitsübereinkommen nicht ratifiziert haben, nur dann für die Vermittlung von Seeleuten in Anspruch nehmen, wenn der Vermittler dem Reeder gegenüber schriftlich versichert hat, dass er die Vorschriften zur Anwerbung und Vermittlung nach der Regel 1.4 des Seearbeitsübereinkommens erfüllt.
 
-
-## § 25 – Anforderungen an Vermittler
+# § 25 – Anforderungen an Vermittler
 
 (1) Ein Vermittler darf Personen, die an Bord eines Schiffes tätig werden sollen, nur vermitteln, wenn er
 
@@ -463,8 +435,7 @@ Als Besatzungsmitglied darf nur tätig sein, wer Inhaber der nach den seeverkehr
 
 (2) Die §§ 296 bis 301 des Dritten Buches Sozialgesetzbuch bleiben unberührt.
 
-
-## § 26 – Verfahren
+# § 26 – Verfahren
 
 (1) Die Berufsgenossenschaft stellt einem Vermittler auf schriftlichen Antrag eine Bescheinigung über das Erfüllen der Anforderungen nach § 25 Absatz 1 aus, wenn keine Anhaltspunkte dafür vorliegen, dass der Vermittler den Anforderungen nicht genügen wird. Der Vermittler hat gegenüber der Berufsgenossenschaft in seinem Antrag alle zur Beurteilung der Voraussetzung nach Satz 1 erforderlichen Angaben zu machen. Hat die Berufsgenossenschaft auf Grund ihr bekannter Tatsachen Zweifel an der Richtigkeit der Angaben des Antragstellers, kann sie die Verbände der Reeder und der Seeleute vor Ausstellen der Bescheinigung nach Satz 1 anhören. Die Berufsgenossenschaft berücksichtigt dabei auch ihr bekannt gewordene Beschwerden.
 
@@ -474,13 +445,11 @@ Als Besatzungsmitglied darf nur tätig sein, wer Inhaber der nach den seeverkehr
 
 (4) Die Berufsgenossenschaft soll in geeigneter Weise, ohne Angabe personenbezogener Daten, Probleme öffentlich bekannt machen, die sich bei der Anheuerung auf einem Schiff ergeben können, das die Flagge eines Staates führt, der das Seearbeitsübereinkommen nicht ratifiziert hat.
 
-
-## § 27 – Rechtsverordnungen
+# § 27 – Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zum Verfahren der Antragstellung und zur Erteilung der Bescheinigung nach § 26 Absatz 1 zu regeln.
 
-
-## § 28 – Heuervertrag
+# § 28 – Heuervertrag
 
 (1) Der Reeder darf ein Besatzungsmitglied nur mit einem gültigen Heuervertrag beschäftigen. Durch den Heuervertrag wird ein Heuerverhältnis zwischen dem Reeder und dem Besatzungsmitglied begründet. Der Reeder hat dem Besatzungsmitglied rechtzeitig vor dem beabsichtigten Vertragsabschluss einen Vertragsentwurf, einschließlich der nach Absatz 2 Nummer 11 anzugebenden Tarifverträge, Betriebsvereinbarungen oder Bordvereinbarungen, auszuhändigen oder zu übermitteln. Der Heuervertrag bedarf der Schriftform; die elektronische Form ist ausgeschlossen. Der Reeder und das Besatzungsmitglied erhalten je eine Ausfertigung des von ihnen unterzeichneten Heuervertrages.
 
@@ -534,8 +503,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (6) Bei der Änderung wesentlicher Vertragsbedingungen gelten die Absätze 1 bis 5 entsprechend. Satz 1 gilt nicht bei einer Änderung der gesetzlichen Vorschriften, der Tarifverträge, Betriebsvereinbarungen oder Bordvereinbarungen, die für das Heuerverhältnis gelten.
 
-
-## § 29 – Information über Beschäftigungsbedingungen
+# § 29 – Information über Beschäftigungsbedingungen
 
 (1) Der Reeder hat durch geeignete Maßnahmen sicherzustellen, dass die Besatzungsmitglieder auf einfache Weise klare Informationen über ihre Vertragsbedingungen, insbesondere über den Inhalt dieses Gesetzes erhalten können. Hierzu sind eine Kopie dieses Gesetzes, des Seearbeitsübereinkommens und der Vereinbarung zwischen dem Verband der Reeder in der Europäischen Gemeinschaft und der Europäischen Transportarbeiter-Föderation über das Seearbeitsübereinkommen 2006 an geeigneter Stelle an Bord mindestens in deutscher Sprache auszulegen. Jeweils eine Kopie der einzelnen Heuerverträge ist mitzuführen. Ist der Heuervertrag mit einem anderen Arbeitgeber abgeschlossen, so ist an Bord die Kopie einer Ausfertigung mitzuführen, auf der der Reeder mit seiner Unterschrift seine Verantwortung nach § 4 Absatz 2 bestätigt hat. Das Besatzungsmitglied hat das Recht, jederzeit in die Kopie seines Heuervertrages Einsicht zu nehmen.
 
@@ -543,25 +511,21 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (3) Der Reeder hat ein Exemplar dieses Gesetzes, des Seearbeitsübereinkommens, der Vereinbarung zwischen dem Verband der Reeder in der Europäischen Gemeinschaft und der Europäischen Transportarbeiter-Föderation über das Seearbeitsübereinkommen 2006, eines Mustervertrages der Heuerverträge sowie der Tarifverträge, Betriebsvereinbarungen oder Bordvereinbarungen, auf die in den Heuerverträgen verwiesen wird, in englischer Übersetzung an Bord mitzuführen. Satz 1 gilt nicht für Schiffe, die nur deutsche Häfen anlaufen.
 
-
-## § 30 – Dienstantritt
+# § 30 – Dienstantritt
 
 (1) Der Reeder hat dem Besatzungsmitglied rechtzeitig den Zeitpunkt mitzuteilen, zu dem es sich an Bord einzufinden hat. Dabei ist ihm der Liegeplatz des Schiffes oder ein Meldeort anzugeben.
 
 (2) Kann das Besatzungsmitglied den Dienst wegen eines unabwendbaren Ereignisses nicht antreten, so hat es dies unverzüglich dem Reeder oder dem Kapitän unter Angabe der Gründe mitzuteilen.
 
-
-## § 31 – Anreisekosten
+# § 31 – Anreisekosten
 
 Befindet sich das Schiff, auf dem das Besatzungsmitglied seinen Dienst anzutreten hat, an einem anderen Ort als dem, an welchem das Heuerverhältnis begründet worden ist, so hat das Besatzungsmitglied Anspruch auf Ersatz der notwendigen Fahrt- und Gepäckbeförderungskosten sowie auf ein angemessenes Tage- und Übernachtungsgeld. Die gleichen Ansprüche stehen dem Besatzungsmitglied zu, wenn vor dem Dienstantritt Reisen von dem Ort der Begründung des Heuerverhältnisses an einen anderen Meldeort oder Ort des Dienstantritts notwendig werden.
 
-
-## § 32 – Dienstleistungspflicht
+# § 32 – Dienstleistungspflicht
 
 Das Besatzungsmitglied hat die Dienste zu verrichten, zu denen es im Rahmen des Heuerverhältnisses verpflichtet ist. Es hat dabei den Anordnungen der zuständigen Vorgesetzten Folge zu leisten.
 
-
-## § 33 – Dienstbescheinigung
+# § 33 – Dienstbescheinigung
 
 (1) Das Besatzungsmitglied hat gegen den Reeder Anspruch auf eine Bescheinigung über den an Bord des Schiffes geleisteten Dienst. Die Bescheinigung ist dem Besatzungsmitglied spätestens am Tag des Dienstendes an Bord in deutscher und englischer Sprache auszuhändigen oder zu übermitteln. Bei Schiffen, auf denen in kurzen Abständen die Besatzungen wechseln oder regelmäßig dieselben Häfen angelaufen werden, insbesondere in der Fähr- und Schleppschifffahrt, muss die Dienstbescheinigung nur auf Antrag des Besatzungsmitglieds sowie bei Ende des Heuerverhältnisses ausgehändigt oder übermittelt werden.
 
@@ -583,13 +547,11 @@ Das Besatzungsmitglied hat die Dienste zu verrichten, zu denen es im Rahmen des 
 
 (5) Der Reeder ist verpflichtet, die Dienstbescheinigungen der Besatzungsmitglieder mindestens fünf Jahre ab dem Tag der Ausstellung in Kopie oder elektronisch aufzubewahren. Die Berufsgenossenschaft kann vom Reeder jederzeit verlangen, dass Kopien von Dienstbescheinigungen vorgelegt oder übermittelt werden, um die Einhaltung der sicheren Besetzung nach den geltenden Vorschriften zu überprüfen. Der Reeder ist verpflichtet, dem Verlangen nach Satz 2 unverzüglich nachzukommen.
 
-
-## § 34 – Bordanwesenheitspflicht
+# § 34 – Bordanwesenheitspflicht
 
 Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur Anwesenheit an Bord verpflichtet, soweit ihm nicht der Kapitän oder in dessen Vertretung der zuständige Vorgesetzte eine Erlaubnis zum Verlassen des Schiffes erteilt hat. Die Erlaubnis ist zu erteilen, soweit dem Besatzungsmitglied ein Anspruch auf Landgang nach § 35 zusteht.
 
-
-## § 35 – Landgang
+# § 35 – Landgang
 
 (1) Das Besatzungsmitglied hat in seiner dienstfreien Zeit außerhalb der Hafenarbeitszeit im Hafen oder, wenn das Schiff auf Reede liegt, Anspruch auf Landgang.
 
@@ -601,8 +563,7 @@ Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur Anwesenhei
 
 (5) Der Kapitän hat dafür zu sorgen, dass der außerhalb der Arbeitszeit im Hafen oder auf Reede notwendige Wachdienst gleichmäßig auf die Besatzungsmitglieder verteilt wird.
 
-
-## § 36 – Abwendung von Gefahren für das Schiff
+# § 36 – Abwendung von Gefahren für das Schiff
 
 (1) Das Besatzungsmitglied hat jede Anordnung des Kapitäns zu befolgen, die dazu dienen soll, drohende Gefahr für Menschen, Schiff oder Ladung abzuwenden, einen großen Schaden zu vermeiden, schwere Störungen des Schiffsbetriebs zu verhindern oder öffentlich-rechtliche Vorschriften über die Schiffssicherheit zu erfüllen. In dringenden Fällen gilt das Gleiche gegenüber Anordnungen eines an Ort und Stelle befindlichen Vorgesetzten. Kanalsteurer auf dem Nord-Ostsee-Kanal stehen insoweit den Besatzungsmitgliedern gleich.
 
@@ -612,8 +573,7 @@ Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur Anwesenhei
 
 (4) Bei Schiffbruch ist das Besatzungsmitglied verpflichtet, nach Anordnung des Kapitäns nach besten Kräften für die Rettung von Menschen und ihren Sachen sowie für die Sicherstellung der Schiffsteile, der Ausrüstung und der Ladung zu sorgen und bei der Bergung Hilfe zu leisten.
 
-
-## § 37 – Anspruch auf Heuer
+# § 37 – Anspruch auf Heuer
 
 (1) Das Besatzungsmitglied hat für die Dauer des Heuerverhältnisses Anspruch auf Zahlung der vereinbarten Heuer.
 
@@ -621,15 +581,13 @@ Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur Anwesenhei
 
 (3) Das Besatzungsmitglied, das infolge von seeräuberischen Handlungen oder bewaffneten Raubüberfällen auf Schiffe an Bord oder außerhalb des Schiffes gefangen gehalten wird, hat bis zur Freilassung und ordnungsgemäßen Heimschaffung oder im Falle des Todes während der Gefangenschaft bis zu dem festgestellten Todeszeitpunkt Anspruch auf Fortzahlung der vereinbarten Heuer.
 
-
-## § 38 – Bemessung und Fälligkeit der Heuer
+# § 38 – Bemessung und Fälligkeit der Heuer
 
 (1) Die Heuer bemisst sich nach Kalendermonaten. Bei Berechnung der Heuer für einzelne Tage wird der Kalendermonat zu 30 Tagen gerechnet.
 
 (2) Die Heuer ist mit Ablauf eines jeden Kalendermonats oder bei Beendigung des Heuerverhältnisses fällig. Stehen variable Bestandteile der Heuer bei Ablauf des Kalendermonats noch nicht fest, werden sie mit Ablauf des Kalendermonats fällig, in dessen Verlauf sie erstmals der Höhe nach feststehen oder billigerweise festgestellt werden können. Stehen Anteile an Fracht, Gewinn oder Erlös bei Ablauf des Kalendermonats noch nicht fest, kann das Besatzungsmitglied eine Abschlagszahlung in ungefährer Höhe des bis dahin verdienten Anteils der Heuer verlangen.
 
-
-## § 39 – Zahlung der Heuer
+# § 39 – Zahlung der Heuer
 
 (1) Die Heuer ist in Euro zu berechnen und auszuzahlen, es sei denn, dass im Heuervertrag eine andere gesetzliche Währung vereinbart ist. Vereinbaren Reeder und Besatzungsmitglied, dass die Heuer in einer anderen gesetzlichen Währung als Euro gezahlt werden soll, muss der Wechselkurs dem von der Europäischen Zentralbank veröffentlichten Kurs entsprechen und darf für das Besatzungsmitglied nicht nachteilig sein.
 
@@ -643,8 +601,7 @@ Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur Anwesenhei
 
 (4) Von der Heuer des Besatzungsmitglieds dürfen keine Abzüge für die Erlangung oder Beibehaltung einer Beschäftigung vorgenommen werden.
 
-
-## § 40 – Abrechnung
+# § 40 – Abrechnung
 
 (1) Der Reeder hat dem Besatzungsmitglied bei Fälligkeit (§ 38) eine Abrechnung in Textform (§ 126b des Bürgerlichen Gesetzbuchs) zu erteilen und ihm unverzüglich auszuhändigen.
 
@@ -652,13 +609,11 @@ Das Besatzungsmitglied ist auch während seiner dienstfreien Zeit zur Anwesenhei
 
 (3) Beanstandet das Besatzungsmitglied die Abrechnung, ist der Grund der Beanstandung vom Reeder auf der Abrechnung zu vermerken.
 
-
-## § 41 – Verkauf von Waren und Erbringung von Dienstleistungen
+# § 41 – Verkauf von Waren und Erbringung von Dienstleistungen
 
 Verkauft der Reeder einem Besatzungsmitglied Waren oder erbringt er ihm gegenüber Dienstleistungen, sind die Preise so zu kalkulieren, dass nach Deckung der Kosten keine Überschüsse entstehen.
 
-
-## § 42 – Grundsätze für die Gestaltung der Arbeitszeit
+# § 42 – Grundsätze für die Gestaltung der Arbeitszeit
 
 (1) Vorschriften über die Seearbeitszeit sind anzuwenden ab dem Zeitpunkt, an dem das Schiff zum Antritt oder zur Fortsetzung der Reise seinen Liegeplatz im Hafen oder auf der Reede zu verlassen beginnt. Vorschriften über die Hafenarbeitszeit sind anzuwenden ab dem Zeitpunkt, an dem das Schiff im Hafen ordnungsgemäß festgemacht oder auf der Reede geankert hat. Treffen an einem Tag Seearbeitszeit und Hafenarbeitszeit zusammen, so ist bei der Berechnung der täglichen Höchstarbeitszeit die an diesem Tag insgesamt geleistete Arbeit zu berücksichtigen.
 
@@ -670,8 +625,7 @@ Verkauft der Reeder einem Besatzungsmitglied Waren oder erbringt er ihm gegenüb
 
 (5) Ergänzend zu den §§ 43 bis 48 darf die Arbeitszeit von Besatzungsmitgliedern eines Fischereifahrzeugs durchschnittlich 48 Stunden wöchentlich innerhalb von zwölf Monaten nicht überschreiten.
 
-
-## § 43 – Seearbeitszeit
+# § 43 – Seearbeitszeit
 
 (1) Die Seearbeitszeit der zum Wachdienst bestimmten Besatzungsmitglieder darf in der Regel acht Stunden täglich nicht überschreiten. Sie wird nach dem Drei-Wachen-System eingeteilt. Besatzungsmitglieder dürfen während der Brückenwache neben dem Wachdienst keine anderen Arbeiten ausführen. Im Übrigen dürfen die Besatzungsmitglieder während der Wache an Werktagen zwischen 18 und 6 Uhr sowie an Sonntagen und Feiertagen neben dem Wachdienst nur mit gelegentlichen Instandsetzungsarbeiten sowie mit Arbeiten beschäftigt werden, die zur Sicherung des Schiffes und dessen Fahrt, zur Sicherung der Ladung oder zum Bootsdienst unbedingt erforderlich sind.
 
@@ -679,8 +633,7 @@ Verkauft der Reeder einem Besatzungsmitglied Waren oder erbringt er ihm gegenüb
 
 (3) Die Seearbeitszeit des Servicepersonals darf in der Regel acht Stunden täglich nicht überschreiten. Die Arbeitszeit kann um bis zu eine Stunde verlängert werden, wenn in die Arbeitszeit regelmäßig und in erheblichem Umfang Arbeitsbereitschaft fällt. Die Arbeitszeit muss zwischen 6 und 20 Uhr liegen. Der Zeitraum darf für das Servicepersonal auf Fahrgastschiffen auf Anordnung des Kapitäns und für das Krankenpflegepersonal außerdem auf Anordnung des Schiffsarztes oder der Schiffsärztin überschritten werden. Das Servicepersonal darf an Sonntagen und Feiertagen nur mit Arbeiten beschäftigt werden, die zur Verpflegung, Bedienung oder Krankenpflege der an Bord befindlichen Personen unbedingt erforderlich sind, sowie im Verkauf und zur Betreuung oder Unterhaltung von Fahrgästen.
 
-
-## § 44 – Hafenarbeitszeit
+# § 44 – Hafenarbeitszeit
 
 (1) Die Hafenarbeitszeit der Besatzungsmitglieder mit Ausnahme des Servicepersonals darf von Montag bis Freitag in der Regel acht Stunden täglich nicht überschreiten. Am Samstag darf die Hafenarbeitszeit in der Regel fünf Stunden, bei Wachdienst acht Stunden nicht überschreiten. Die Hafenarbeitszeit muss, abgesehen vom Wachdienst, von Montag bis Freitag zwischen 6 und 18 Uhr, am Samstag zwischen 6 und 13 Uhr liegen.
 
@@ -688,8 +641,7 @@ Verkauft der Reeder einem Besatzungsmitglied Waren oder erbringt er ihm gegenüb
 
 (3) Die Hafenarbeitszeit des Servicepersonals muss zwischen 6 und 18 Uhr liegen. Im Übrigen ist § 43 Absatz 3 entsprechend anzuwenden.
 
-
-## § 45 – Ruhepausen und Ruhezeiten
+# § 45 – Ruhepausen und Ruhezeiten
 
 (1) Den Besatzungsmitgliedern sind Ruhepausen und Ruhezeiten zu gewähren, die von ausreichender Dauer sein müssen, um die Sicherheit und Gesundheit der Besatzungsmitglieder zu gewährleisten.
 
@@ -705,15 +657,13 @@ Die Ruhepausen nach Satz 2 können in Zeitabschnitte von jeweils mindestens 15 M
 
 (4) Hat das Besatzungsmitglied während seiner planmäßigen Ruhezeit in Bereitschaft zu sein und wird die Ruhezeit durch Aufrufe zur Arbeit gestört, ist dem Besatzungsmitglied eine angemessene Ruhezeit als Ausgleich zu gewähren. Die Ausgleichsruhezeit muss mindestens der Dauer der Ruhezeitunterbrechungen entsprechen. Eine ununterbrochene Ruhezeit von sechs Stunden muss gewährleistet sein.
 
-
-## § 46 – Abweichende Arbeitszeitregelungen für Zwei-Wachen-Schiffe, Bergungsfahrzeuge und Schlepper
+# § 46 – Abweichende Arbeitszeitregelungen für Zwei-Wachen-Schiffe, Bergungsfahrzeuge und Schlepper
 
 (1) Auf Schiffen mit einer Bruttoraumzahl von bis zu 2 500 in der Fahrt in der Ostsee, in der Nordsee und entlang der norwegischen Küste bis zu 64° nördlicher Breite, im Übrigen bis zu 61° nördlicher Breite und 7° westlicher Länge sowie nach den Häfen Großbritanniens, Irlands und der Atlantikküste Frankreichs, Spaniens und Portugals ausschließlich Gibraltars sowie für Fischereifahrzeuge gleicher Größe auch über diese Fahrtgebiete hinaus darf, sofern die Reise länger als zehn Stunden dauert, die Arbeitszeit des zum Wachdienst bestimmten Deck- und Maschinenpersonals auf See abweichend von § 43 Absatz 1 auf bis zu zwölf Stunden täglich verlängert und nach dem Zwei-Wachen-System eingeteilt werden. Satz 1 ist auch auf Schiffen mit einer Bruttoraumzahl über 2 500 anzuwenden, die vor dem 1. Juli 2002 den bis dahin geltenden Grenzwert für den Raumgehalt eingehalten haben. Wird die Arbeitszeit entsprechend verlängert, haben die Besatzungsmitglieder Anspruch auf einen angemessenen Zuschlag zur Grundheuer.
 
 (2) Auf Bergungsfahrzeugen, See- und Bergungsschleppern in der Nord- und Ostseefahrt bis zu 61° nördlicher Breite ist Absatz 1 Satz 1 für die Arbeitszeit der Wache gehenden Besatzungsmitglieder anzuwenden. Wenn das Fahrzeug an der Bergungsstätte eingesetzt ist, kann die Arbeitszeit abweichend von § 43 vom Kapitän, insbesondere unter Berücksichtigung des Tidenwechsels und der Wetterlage, festgesetzt werden.
 
-
-## § 47 – Arbeitszeitverlängerung in besonderen Ausnahmefällen
+# § 47 – Arbeitszeitverlängerung in besonderen Ausnahmefällen
 
 (1) Der Kapitän hat das Recht, für Besatzungsmitglieder die Arbeitsstunden anzuordnen, die für die unmittelbare Sicherheit des Schiffes und der Personen an Bord, bei einer unmittelbaren Gefahr für die Ladung oder zur Hilfeleistung für in Seenot befindliche Schiffe oder Personen erforderlich sind. Der Kapitän kann den Arbeitszeit- und Ruhezeitplan vorübergehend außer Kraft setzen und anordnen, dass die Besatzungsmitglieder jederzeit die erforderlichen Arbeitsstunden erbringen, bis die normale Situation wiederhergestellt ist.
 
@@ -723,8 +673,7 @@ Die Ruhepausen nach Satz 2 können in Zeitabschnitte von jeweils mindestens 15 M
 
 (4) Abgesehen von den Fällen der Absätze 1 und 2 kann der Kapitän in sonstigen dringenden Fällen eine Verlängerung der in den §§ 43, 44 und 46 bestimmten täglichen Arbeitszeit anordnen. Dasselbe gilt bei Wachdienst im Hafen. In diesen Fällen sind die Regelungen der §§ 43, 44 und 46 über die Lage der Arbeitszeit und die Beschäftigungsbeschränkungen nicht anzuwenden.
 
-
-## § 48 – Höchstarbeitszeiten und Mindestruhezeiten
+# § 48 – Höchstarbeitszeiten und Mindestruhezeiten
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass auf dem Schiff folgende Arbeitszeiten und Ruhezeiten der Besatzungsmitglieder eingehalten werden:
 
@@ -744,8 +693,7 @@ b) 77 Stunden in jedem Zeitraum von sieben Tagen.
 
 (2) Auf einem Schiff, das in kurzer Aufeinanderfolge mehrere Häfen anläuft, kann von der Höchstarbeitszeit nach Absatz 1 Nummer 1 Buchstabe b während der Tage der häufigen Hafenfolge abgewichen werden. Eine kurze Aufeinanderfolge von Häfen liegt dann vor, wenn zwischen den seewärtigen Lotsenversetzpositionen des zu verlassenden Reviers und des anzufahrenden Reviers weniger als 36 Stunden liegen. Nachdem das Schiff das Fahrtgebiet mit häufiger Hafenfolge wieder verlassen hat, hat der Kapitän sicherzustellen, dass alle Besatzungsmitglieder, die während dieser Zeit über die nach Absatz 1 Nummer 1 Buchstabe b zulässige Höchstarbeitszeit hinaus Arbeitsstunden geleistet haben, unverzüglich eine zusätzliche Ruhezeit in Höhe der Anzahl der zusätzlich geleisteten Arbeitsstunden erhalten. Der Ausgleich kann auch in Verbindung mit Urlaub gewährt werden.
 
-
-## § 49 – Abweichende Arbeitszeitregelungen durch Tarifvertrag
+# § 49 – Abweichende Arbeitszeitregelungen durch Tarifvertrag
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrages in einer Betriebsvereinbarung oder Bordvereinbarung kann vereinbart werden,
 
@@ -767,8 +715,7 @@ b) 77 Stunden in jedem Zeitraum von sieben Tagen.
 
 (5) Absatz 1 ist nicht anzuwenden für Tarifverträge, die nach § 21 Absatz 4 Satz 2 des Flaggenrechtsgesetzes abgeschlossen werden.
 
-
-## § 50 – Übersicht über die Arbeitsorganisation, Arbeitszeitnachweise
+# § 50 – Übersicht über die Arbeitsorganisation, Arbeitszeitnachweise
 
 (1) Auf jedem Schiff ist eine Übersicht über die Arbeitsorganisation an Bord zu führen, die Folgendes enthalten muss:
 
@@ -784,8 +731,7 @@ Der Kapitän hat dafür zu sorgen, dass die Übersicht über die Arbeitsorganisa
 
 (4) Die Besatzungsmitglieder sind verpflichtet, dem Kapitän oder seinem Beauftragten die notwendigen Angaben für die Übersicht über die Arbeitsorganisation sowie für die Arbeitszeitnachweise zu geben.
 
-
-## § 51 – Vergütung für Mehr- und Nachtarbeit sowie Sonntags- und Feiertagsarbeit
+# § 51 – Vergütung für Mehr- und Nachtarbeit sowie Sonntags- und Feiertagsarbeit
 
 (1) Werden Besatzungsmitglieder über die in den §§ 43, 44 und 53 Absatz 2 bestimmten Grenzen der täglichen Arbeitszeit hinaus mit Mehrarbeit beschäftigt, so ist ihnen, abgesehen von den Fällen des § 47 Absatz 1 und 2, für jede Stunde eine Vergütung in Höhe von mindestens einem Zweihundertstel der Grundheuer sowie ein angemessener Zuschlag zu zahlen. Ist die Höhe des Zuschlages nicht durch Tarifvertrag festgelegt, so beträgt er für die ersten 60 Mehrarbeitsstunden des Monats sowie für Mehrarbeit bei Wachdienst im Hafen je ein Viertel, für die folgenden 30 je die Hälfte eines Zweihundertstels der Grundheuer und für jede weitere Mehrarbeitsstunde ein Zweihundertstel der Grundheuer. Abweichend von Satz 1 gilt in den Fällen des § 46 die dort bestimmte Grenze der täglichen Arbeitszeit.
 
@@ -799,8 +745,7 @@ Der Kapitän hat dafür zu sorgen, dass die Übersicht über die Arbeitsorganisa
 
 für jede Arbeitsstunde ein Zuschlag von mindestens einem Viertel eines Zweihundertstels der Grundheuer zu zahlen. Sind Arbeiten zugleich solche nach den Nummern 1 und 2, so ist der Zuschlag nur einmal zu zahlen. Sind diese Arbeiten zugleich Mehrarbeit im Sinne des Absatzes 1, so gelten für die Vergütung die im Tarifvertrag oder in Absatz 1 Satz 2 bestimmten Sätze mit der Maßgabe, dass sich der Mindestzuschlag bei Arbeiten nach Nummer 1 jeweils um ein Viertel eines Zweihundertstels der Grundheuer erhöht.
 
-
-## § 52 – Sonntags- und Feiertagsausgleich
+# § 52 – Sonntags- und Feiertagsausgleich
 
 (1) Jedem Besatzungsmitglied ist für jeden Sonntag und für jeden Feiertag, an dem es gearbeitet hat oder an dem sich das Schiff weniger als zwölf Stunden im Hafen befunden hat, ein Ausgleich durch einen arbeitsfreien Werktag zu geben. Einem Besatzungsmitglied des Servicepersonals sind im Monat mindestens zwei freie Tage zu gewähren.
 
@@ -810,8 +755,7 @@ für jede Arbeitsstunde ein Zuschlag von mindestens einem Viertel eines Zweihund
 
 (4) Auf arbeitsfreie Tage finden die Vorschriften des § 58 Absatz 1 Satz 1 und des § 61 Absatz 1 und 2 entsprechende Anwendung.
 
-
-## § 53 – Arbeitszeitregelungen für jugendliche Besatzungsmitglieder
+# § 53 – Arbeitszeitregelungen für jugendliche Besatzungsmitglieder
 
 (1) Für jugendliche Besatzungsmitglieder sind die §§ 42, 48, 50 und 51 sowie die folgenden Absätze anzuwenden. Die §§ 43 und 44 sind mit der Maßgabe der Absätze 2 bis 4 anzuwenden.
 
@@ -839,8 +783,7 @@ Die Ruhepausen müssen in angemessener zeitlicher Lage gewährt werden. Länger 
 
 (8) Arbeiten jugendliche Besatzungsmitglieder an mehr als fünf Tagen, so ist ihnen für die Arbeit am sechsten und siebten Tag in der Woche je ein anderer freier Tag zu gewähren. Die Regelungen des § 52 zum Sonntags- und Feiertagsausgleich sind anzuwenden. Sofern ein freier Tag nach Satz 1 als Ausgleich für eine Beschäftigung an einem Werktag zu gewähren ist, ist § 52 Absatz 2 bis 4 entsprechend anzuwenden. Die finanzielle Abgeltung freier Tage ist nicht zulässig.
 
-
-## § 54 – Abweichende Arbeitszeitregelungen für jugendliche Besatzungsmitglieder durch Tarifvertrag
+# § 54 – Abweichende Arbeitszeitregelungen für jugendliche Besatzungsmitglieder durch Tarifvertrag
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrages in einer Betriebsvereinbarung oder Bordvereinbarung kann für jugendliche Besatzungsmitglieder vereinbart werden,
 
@@ -862,8 +805,7 @@ Im Falle des Satzes 1 Nummer 5 sind zusätzlich nachstehende Anforderungen einzu
 
 (4) Absatz 1 ist nicht für Tarifverträge anzuwenden, die nach § 21 Absatz 4 Satz 2 des Flaggenrechtsgesetzes abgeschlossen werden.
 
-
-## § 55 – Rechtsverordnungen
+# § 55 – Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -875,15 +817,13 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministeriums für Ernährung und Landwirtschaft, soweit die Seefischerei betroffen ist.
 
-
-## § 56 – Urlaubsanspruch
+# § 56 – Urlaubsanspruch
 
 (1) Ein Besatzungsmitglied hat für jedes Beschäftigungsjahr Anspruch auf bezahlten Erholungsurlaub. Der Anspruch auf Erholungsurlaub darf nur unter den Voraussetzungen des § 64 Absatz 3 abgegolten werden.
 
 (2) Soweit nachfolgend nichts anderes bestimmt ist, ist das Bundesurlaubsgesetz anzuwenden.
 
-
-## § 57 – Urlaubsdauer
+# § 57 – Urlaubsdauer
 
 (1) Der Urlaub der Besatzungsmitglieder beträgt für jedes Beschäftigungsjahr mindestens 30 Kalendertage.
 
@@ -903,8 +843,7 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministerium
 
 4. Ausgleichsfreizeiten nach § 52.
 
-
-## § 58 – Festlegung des Urlaubs
+# § 58 – Festlegung des Urlaubs
 
 (1) Bei der zeitlichen Festlegung des Urlaubs sind die Urlaubswünsche des Besatzungsmitglieds zu berücksichtigen, es sei denn, dass ihrer Berücksichtigung dringende betriebliche Belange oder Urlaubswünsche anderer vom Reeder beschäftigter Besatzungsmitglieder, die unter sozialen Gesichtspunkten den Vorrang verdienen, entgegenstehen. Der Urlaub ist möglichst nach sechsmonatigem ununterbrochenem Dienst an Bord, spätestens bis zum Schluss des Beschäftigungsjahres zu gewähren. Ist nicht der Reeder, sondern eine andere Person Arbeitgeber oder Ausbilder des Besatzungsmitglieds und kommt die andere Person ihrer vertraglichen Verpflichtung nach Satz 2 nicht nach, ist der Reeder verpflichtet, im Namen und mit Wirkung für die andere Person den Urlaub zu gewähren.
 
@@ -914,8 +853,7 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministerium
 
 (4) Der Urlaub beginnt frühestens mit dem Tag, der dem Tag der Ankunft des Besatzungsmitglieds am Urlaubsort nachfolgt. Ist der Ort der Wiederaufnahme des Dienstes an Bord oder ein anderer vom Reeder zur Wiederaufnahme des Dienstes bestimmter Ort nicht der Urlaubsort, hat das Besatzungsmitglied an dem Tag, der auf das Ende des Urlaubs folgt, die Reise zu diesem Ort anzutreten.
 
-
-## § 59 – Urlaubsort
+# § 59 – Urlaubsort
 
 Urlaubsort ist nach Wahl des Besatzungsmitglieds
 
@@ -927,34 +865,29 @@ Urlaubsort ist nach Wahl des Besatzungsmitglieds
 
 4. jeder andere im Heuervertrag vereinbarte Ort.
 
-
-## § 60 – Reisekosten
+# § 60 – Reisekosten
 
 Der Reeder trägt die Reisekosten zum Urlaubsort und vom Urlaubsort zum Ort der Wiederaufnahme des Dienstes an Bord oder zu einem anderen vom Reeder bestimmten Ort. Hinsichtlich des Umfangs der Reisekosten gilt § 31 entsprechend.
 
-
-## § 61 – Urlaubsentgelt
+# § 61 – Urlaubsentgelt
 
 (1) Als Urlaubsentgelt ist dem Besatzungsmitglied die Heuer im Sinne des § 37 fortzuzahlen. Für Sachbezüge ist ein angemessener Abgeltungsbetrag zu gewähren.
 
 (2) Für jeden Urlaubstag sowie für jeden in den Urlaub fallenden Feiertag im Sinne des § 57 Absatz 3 Nummer 1 ist ein Dreißigstel der Heuer zu zahlen. Heuerteile, deren Höhe sich nach dem Ausmaß der Arbeit, dem Erfolg oder ähnlichen nicht gleichbleibenden Bemessungsgrundlagen richtet, sind bei der Berechnung des Urlaubsentgelts angemessen zu berücksichtigen.
 
-
-## § 62 – Erkrankung während des Urlaubs
+# § 62 – Erkrankung während des Urlaubs
 
 (1) Wird ein Besatzungsmitglied während des Urlaubs arbeitsunfähig krank, so werden diese Krankheitstage auf den Urlaub nicht angerechnet, soweit die Erkrankung durch ärztliches Zeugnis nachgewiesen wird. Ist anzunehmen, dass die Erkrankung über den Ablauf des Urlaubs hinaus fortdauern wird, so ist das Besatzungsmitglied verpflichtet, dies dem Reeder unverzüglich mitzuteilen.
 
 (2) Das Besatzungsmitglied hat seine Arbeitsleistung nach Ablauf des ihm bewilligten Urlaubs oder, soweit die Erkrankung länger dauert, nach Wiederherstellung der Arbeitsfähigkeit dem Reeder zur Verfügung zu stellen. Der Reeder bestimmt den Zeitpunkt, von dem ab der restliche Urlaub gewährt wird; dabei sind die Wünsche des Besatzungsmitglieds zu berücksichtigen.
 
-
-## § 63 – Urlaub bei Beendigung des Heuerverhältnisses
+# § 63 – Urlaub bei Beendigung des Heuerverhältnisses
 
 (1) Endet das Heuerverhältnis des Besatzungsmitglieds vor Ablauf des Beschäftigungsjahres, so hat das Besatzungsmitglied für jeden angefangenen Beschäftigungsmonat Anspruch auf ein Zwölftel des Jahresurlaubs.
 
 (2) Hat das Besatzungsmitglied bei Beendigung des Heuerverhältnisses mehr als den ihm zustehenden Urlaub erhalten, so kann das dafür gezahlte Urlaubsentgelt nicht zurückgefordert werden.
 
-
-## § 64 – Verlängerung des Heuerverhältnisses, Urlaubsabgeltung
+# § 64 – Verlängerung des Heuerverhältnisses, Urlaubsabgeltung
 
 (1) Hat das Besatzungsmitglied bei Beendigung des Heuerverhältnisses noch nicht den ihm zustehenden Urlaub erhalten, verlängert sich das Heuerverhältnis um die Dauer des nicht gewährten Urlaubs, es sei denn, dass
 
@@ -968,8 +901,7 @@ Der Urlaub ist im Zeitraum der Verlängerung des Heuerverhältnisses zu gewähre
 
 (3) Der Reeder hat den Urlaub abzugelten, soweit dieser wegen Beendigung des Heuerverhältnisses nicht gewährt werden kann. Satz 1 gilt nicht, soweit die Voraussetzungen des Absatzes 1 oder 2 vorliegen.
 
-
-## § 65 – Kündigungsrecht
+# § 65 – Kündigungsrecht
 
 (1) Das Heuerverhältnis kann durch den Reeder und durch das Besatzungsmitglied gekündigt werden.
 
@@ -979,8 +911,7 @@ Der Urlaub ist im Zeitraum der Verlängerung des Heuerverhältnisses zu gewähre
 
 (4) Für die Kündigung des Heuerverhältnisses gelten die allgemeinen Vorschriften über die Kündigung von Arbeitsverhältnissen, soweit in diesem Unterabschnitt nichts anderes bestimmt ist.
 
-
-## § 66 – Kündigungsfristen
+# § 66 – Kündigungsfristen
 
 (1) Das Heuerverhältnis kann während der ersten drei Monate mit einer Frist von einer Woche gekündigt werden. Dauert die erste Reise länger als drei Monate, so kann die Kündigung während der ersten sechs Monate noch in den auf die Beendigung der Reise folgenden drei Tagen mit Wochenfrist ausgesprochen werden. Nach Ablauf der in den Sätzen 1 und 2 bezeichneten Zeiten beträgt die Kündigungsfrist vier Wochen zum 15. Tag oder zum Ende eines Kalendermonats. Die Kündigungsfrist erhöht sich auf zwei Monate zum Ende eines Kalendermonats, wenn das Heuerverhältnis in dem Betrieb oder Unternehmen zwei Jahre bestanden hat. Die Sätze 1 und 2 gelten nicht für den Kapitän; für ihn gelten von Beginn des Heuerverhältnisses an die Fristen nach Satz 3.
 
@@ -1002,8 +933,7 @@ Der Urlaub ist im Zeitraum der Verlängerung des Heuerverhältnisses zu gewähre
 
 (5) Soweit nichts anderes vereinbart wird, setzt sich das Heuerverhältnis über den Ablauf der Kündigungsfrist bis zur Ankunft des Schiffes in einem Hafen fort, in dem die Heimschaffung des Besatzungsmitglieds und seine Ablösung durch eine Ersatzperson sicher und mit allgemein zugänglichen Verkehrsmitteln möglich ist.
 
-
-## § 67 – Außerordentliche Kündigung durch den Reeder
+# § 67 – Außerordentliche Kündigung durch den Reeder
 
 (1) Der Reeder kann das Heuerverhältnis aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist nach § 626 des Bürgerlichen Gesetzbuchs kündigen. Ein wichtiger Grund liegt insbesondere vor, wenn das Besatzungsmitglied
 
@@ -1021,8 +951,7 @@ Der Urlaub ist im Zeitraum der Verlängerung des Heuerverhältnisses zu gewähre
 
 (3) Wird die außerordentliche Kündigung auf See ausgesprochen oder bleibt das Besatzungsmitglied nach einer außerordentlichen Kündigung an Bord, so hat es den Verpflegungssatz zu entrichten, der dem Abgeltungsbetrag für nicht gewährte Verpflegung während des Urlaubs (§ 61 Absatz 1 Satz 2) entspricht.
 
-
-## § 68 – Außerordentliche Kündigung durch das Besatzungsmitglied
+# § 68 – Außerordentliche Kündigung durch das Besatzungsmitglied
 
 (1) Das Besatzungsmitglied kann das Heuerverhältnis aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist nach § 626 des Bürgerlichen Gesetzbuchs kündigen. Ein wichtiger Grund liegt insbesondere vor, wenn
 
@@ -1050,8 +979,7 @@ Im Falle des Satzes 2 Nummer 7 bis 10 ist das Besatzungsmitglied zur außerorden
 
 (2) In den Fällen des Absatzes 1 hat das Besatzungsmitglied ab dem Zeitpunkt der Kündigung Anspruch auf Zahlung der Heuer für einen Monat. Schadensersatzansprüche auf Grund anderer Vorschriften bleiben unberührt.
 
-
-## § 69 – Außerordentliche Kündigung durch das Besatzungsmitglied wegen dringender Familienangelegenheit
+# § 69 – Außerordentliche Kündigung durch das Besatzungsmitglied wegen dringender Familienangelegenheit
 
 Das Besatzungsmitglied kann das Heuerverhältnis ohne Einhaltung einer Frist kündigen, wenn dies wegen einer dringenden Familienangelegenheit oder wegen eines anderen dringenden persönlichen Grundes erforderlich ist. Dringende Familienangelegenheiten sind insbesondere
 
@@ -1061,8 +989,7 @@ Das Besatzungsmitglied kann das Heuerverhältnis ohne Einhaltung einer Frist kü
 
 3. schwere Erkrankung der Ehefrau oder des Ehemanns, eines Kindes, eines Elternteiles oder des Lebenspartners.
 
-
-## § 70 – Entschädigung bei Arbeitslosigkeit wegen Schiffsverlustes oder Schiffbruchs
+# § 70 – Entschädigung bei Arbeitslosigkeit wegen Schiffsverlustes oder Schiffbruchs
 
 Kündigt der Reeder das Heuerverhältnis wegen Schiffsverlustes oder Schiffbruchs, hat das Besatzungsmitglied über das Ende des Heuerverhältnisses hinaus, längstens bis zum Ablauf von zwei Monaten nach dem Zugang der Kündigung, Anspruch auf Zahlung der Heuer für jeden Tag der Arbeitslosigkeit. Auf den Heueranspruch muss sich das Besatzungsmitglied anrechnen lassen, was es
 
@@ -1070,20 +997,17 @@ Kündigt der Reeder das Heuerverhältnis wegen Schiffsverlustes oder Schiffbruch
 
 2. durch anderweitige Arbeit verdient oder zu verdienen böswillig unterlassen hat.
 
-
-## § 71 – Beendigung des Heuerverhältnisses bei vermutetem Verlust von Schiff und Besatzung
+# § 71 – Beendigung des Heuerverhältnisses bei vermutetem Verlust von Schiff und Besatzung
 
 (1) Ist der Verbleib eines Schiffes und seiner Besatzung nicht feststellbar und ist den Umständen nach anzunehmen, dass das Schiff verlorengegangen ist, so gilt das Heuerverhältnis des Besatzungsmitglieds als beendet, wenn seit der letzten amtlich festgestellten Nachricht über das Schiff ein Monat verstrichen ist.
 
 (2) Wird später der Aufenthalt überlebender Besatzungsmitglieder festgestellt, so sind auf diese Besatzungsmitglieder die §§ 73, 75 und 76 über Heimschaffung und Fortzahlung der Heuer anzuwenden.
 
-
-## § 71a – Verlängerung des Heuerverhältnisses während Gefangenschaft
+# § 71a – Verlängerung des Heuerverhältnisses während Gefangenschaft
 
 Befindet sich das Besatzungsmitglied bei Beendigung des Heuerverhältnisses in Gefangenschaft infolge seeräuberischer Handlung oder bewaffneter Raubüberfälle auf Schiffe, verlängert sich das Heuerverhältnis bis zum Zeitpunkt der Freilassung oder des Todes des Besatzungsmitglieds.
 
-
-## § 72 – Zurücklassung
+# § 72 – Zurücklassung
 
 (1) Unbeschadet der Vorschrift des § 101 darf das Besatzungsmitglied ohne Einwilligung der Berufsgenossenschaft nicht an einem Ort im Ausland zurückgelassen werden. Eine Zurücklassung liegt vor, wenn das Besatzungsmitglied auf Veranlassung des Kapitäns das Schiff verlassen muss.
 
@@ -1091,8 +1015,7 @@ Befindet sich das Besatzungsmitglied bei Beendigung des Heuerverhältnisses in G
 
 (3) Die Zurücklassung eines jugendlichen Besatzungsmitglieds bedarf auch der Einwilligung seines gesetzlichen Vertreters.
 
-
-## § 73 – Anspruch auf Heimschaffung
+# § 73 – Anspruch auf Heimschaffung
 
 Das Besatzungsmitglied hat Anspruch auf Heimschaffung an den nach § 75 maßgebenden Bestimmungsort
 
@@ -1106,13 +1029,11 @@ Das Besatzungsmitglied hat Anspruch auf Heimschaffung an den nach § 75 maßgebe
 
 5. wenn der Reeder das Besatzungsmitglied im Stich lässt (§ 76a Absatz 1 Satz 3).
 
-
-## § 74 – Heimschaffung eines jugendlichen Besatzungsmitglieds
+# § 74 – Heimschaffung eines jugendlichen Besatzungsmitglieds
 
 Hat ein jugendliches Besatzungsmitglied während seiner ersten Auslandsreise auf einem Schiff mindestens vier Monate lang Dienst getan und stellt sich während dieser Zeit heraus, dass es für das Leben auf See ungeeignet ist, so hat es einen Anspruch auf Heimschaffung von einem Hafen, in dem die Heimschaffung sicher und mit allgemein zugänglichen Verkehrsmitteln möglich ist.
 
-
-## § 75 – Bestimmungsort der Heimschaffung
+# § 75 – Bestimmungsort der Heimschaffung
 
 (1) Bestimmungsort der Heimschaffung nach Wahl des Besatzungsmitglieds ist
 
@@ -1126,8 +1047,7 @@ Hat ein jugendliches Besatzungsmitglied während seiner ersten Auslandsreise auf
 
 (2) Lässt der Reeder ein Besatzungsmitglied im Stich (§ 76a Absatz 1 Satz 3), ist abweichend von Absatz 1 Bestimmungsort der Heimschaffung ausschließlich der Wohnort des Besatzungsmitglieds.
 
-
-## § 76 – Durchführung und Kosten der Heimschaffung
+# § 76 – Durchführung und Kosten der Heimschaffung
 
 (1) Der Reeder hat die Vorkehrungen für die Durchführung der Heimschaffung zu treffen. Er stellt sicher, dass das Besatzungsmitglied den Pass und sonstige für die Heimschaffung erforderliche Ausweispapiere erhält. Die Beförderung des Besatzungsmitglieds erfolgt grundsätzlich auf dem Luftweg. Für die Zeit vom Verlassen des Schiffes bis zum Eintreffen am Bestimmungsort hat das Besatzungsmitglied Anspruch auf Fortzahlung der Heuer.
 
@@ -1155,8 +1075,7 @@ Der Reeder trägt die notwendigen Kosten der Heimschaffung. Die Aufrechnung der 
 
 (8) Der Reeder ist verpflichtet, zum Schutz der an Bord des Schiffes beschäftigten Besatzungsmitglieder für Fälle der Heimschaffung nach § 73 Nummer 1 bis 4 eine Zahlungsübernahmeerklärung nachzuweisen, die durch eine Bürgschaft oder Garantie durch eine Vereinigung von Reedern oder eine sonstige finanzielle Sicherheit abgedeckt ist.
 
-
-## § 76a – Pflicht zur finanziellen Absicherung für Fälle des Imstichlassens
+# § 76a – Pflicht zur finanziellen Absicherung für Fälle des Imstichlassens
 
 (1) Der Reeder eines Schiffes, das kein Fischereifahrzeug ist, hat nach Maßgabe der Absätze 2 und 3 für Fälle des Imstichlassens eines Besatzungsmitglieds eine Versicherung oder eine sonstige finanzielle Sicherheit aufrechtzuerhalten. Die Versicherung oder die sonstige finanzielle Sicherheit ist der Berufsgenossenschaft bei Überprüfungen nachzuweisen. Ein Besatzungsmitglied ist insbesondere im Stich gelassen, wenn der Reeder
 
@@ -1206,37 +1125,31 @@ Der Reeder trägt die notwendigen Kosten der Heimschaffung. Die Aufrechnung der 
 
 (7) Der Anspruch eines Besatzungsmitglieds gegen den Versicherer oder den Sicherungsgeber auf Zahlung der vom Reeder geschuldeten Heuer mindert sich insoweit, als diese Heueransprüche nach § 169 des Dritten Buches Sozialgesetzbuch auf die Bundesagentur für Arbeit übergehen.
 
-
-## § 77 – Behördliche Durchführungsmaßnahmen bei der Heimschaffung
+# § 77 – Behördliche Durchführungsmaßnahmen bei der Heimschaffung
 
 Erfüllt der Reeder seine Verpflichtung nach § 76 nicht und befriedigt im Falle eines Imstichlassens im Sinne des § 76a Absatz 1 auch der Versicherer oder der Sicherungsgeber das Besatzungsmitglied nicht, hat die Berufsgenossenschaft die Heimschaffung zu veranlassen und die Kosten zu verauslagen. Sie sind vom Reeder zu erstatten. Die Ansprüche des Besatzungsmitglieds im Falle eines Imstichlassens im Sinne des § 76a Absatz 1 gegen den Versicherer oder den Sicherungsgeber gehen insoweit auf sie über.
 
-
-## § 78 – Verfügbarkeit von Rechtsvorschriften über Heimschaffung
+# § 78 – Verfügbarkeit von Rechtsvorschriften über Heimschaffung
 
 Der Reeder hat sicherzustellen, dass dem Besatzungsmitglied an Bord eine Kopie der anwendbaren Rechtsvorschriften über die Heimschaffung in einer für das Besatzungsmitglied geeigneten Sprache zur Verfügung steht.
 
-
-## § 79 – Tod des Besatzungsmitglieds
+# § 79 – Tod des Besatzungsmitglieds
 
 (1) Der Kapitän hat für die Bestattung zu sorgen, wenn ein Besatzungsmitglied an Bord oder während der Schiffsreise im Ausland verstorben ist. Wenn der Leichnam nicht bis zu einem Hafen in dem Staat, in dem der Bestimmungsort nach § 75 liegt, mitgenommen werden kann, das Schiff aber zumutbarerweise innerhalb von 24 Stunden nach dem Todesfall einen Hafen erreichen kann, und gegen die Mitnahme des Leichnams keine gesundheitlichen Bedenken bestehen, so ist die Bestattung an Land vorzunehmen. Ist eine Bestattung auf See erforderlich, so ist sie in einer würdigen Form vorzunehmen.
 
 (2) Der Reeder trägt die Kosten der Bestattung, wenn ein Besatzungsmitglied im Zusammenhang mit seiner Tätigkeit oder deren Folgen verstorben ist.
 
-
-## § 80 – Sorge für Sachen und Heuerguthaben eines verstorbenen oder vermissten Besatzungsmitglieds
+# § 80 – Sorge für Sachen und Heuerguthaben eines verstorbenen oder vermissten Besatzungsmitglieds
 
 (1) Der Kapitän hat die Sachen eines verstorbenen oder vermissten Besatzungsmitglieds dem Vertreter des Reeders vor Ort zu übergeben. Der Reeder hat sicherzustellen, dass die Sachen unverzüglich an die Erben des verstorbenen oder die Angehörigen des vermissten Besatzungsmitglieds übermittelt werden.
 
 (2) Der Reeder hat das Heuerguthaben eines verstorbenen oder für tot erklärten Besatzungsmitglieds an dessen Erben zu überweisen, bei einem vermissten Besatzungsmitglied an dessen Angehörige.
 
-
-## § 81 – Vertrag über die Berufsausbildung für einen Beruf an Bord
+# § 81 – Vertrag über die Berufsausbildung für einen Beruf an Bord
 
 Der Reeder darf die Berufsausbildung eines Besatzungsmitglieds für einen Beruf an Bord nur durchführen, wenn es einen Berufsausbildungsvertrag hat, dessen Form und Inhalt die Anforderungen des § 82 erfüllt. Durch den Berufsausbildungsvertrag wird ein Berufsausbildungsverhältnis begründet. Die Vorschriften des § 10 Absatz 2 bis 5 des Berufsbildungsgesetzes über Abschluss und Wirksamkeit des Berufsausbildungsvertrages und die Verbundausbildung sind entsprechend anzuwenden.
 
-
-## § 82 – Form und Inhalt des Vertrages über die Berufsausbildung an Bord
+# § 82 – Form und Inhalt des Vertrages über die Berufsausbildung an Bord
 
 (1) Der Vertrag über die Berufsausbildung für einen Beruf an Bord bedarf der Schriftform; die elektronische Form ist ausgeschlossen. Der Reeder hat den Auszubildenden und dessen gesetzlichen Vertreter rechtzeitig vor dem beabsichtigten Vertragsschluss einen Vertragsentwurf, einschließlich der nach Absatz 3 Satz 1 Nummer 12 anzugebenden Tarifverträge, Betriebsvereinbarungen oder Bordvereinbarungen, auszuhändigen. Der Vertrag über die Berufsausbildung ist vor Beginn der Berufsausbildung abzuschließen und von dem Reeder, den Auszubildenden und deren gesetzlichen Vertretern zu unterzeichnen. Alle Unterzeichnenden müssen unverzüglich eine Ausfertigung des Vertrages über die Berufsausbildung an Bord erhalten.
 
@@ -1304,37 +1217,31 @@ Die Vorschriften über die Eignung und die Zulassung eines Schiffes unter auslä
 
 (8) Die Vorschriften der §§ 12 bis 16 des Berufsbildungsgesetzes über nichtige Vereinbarungen, die Pflichten der Auszubildenden und der Ausbildenden während der Berufsausbildung, die Freistellung für die Teilnahme am Berufsschulunterricht und das Zeugnis sind entsprechend anwendbar.
 
-
-## § 83 – Vertrag über die Berufsausbildung auf Fahrzeugen der kleinen Hochseefischerei oder der Küstenfischerei
+# § 83 – Vertrag über die Berufsausbildung auf Fahrzeugen der kleinen Hochseefischerei oder der Küstenfischerei
 
 Erfolgt die Berufsausbildung auf einem Fahrzeug der kleinen Hochseefischerei oder Küstenfischerei, gelten anstelle der §§ 10 und 11 des Berufsbildungsgesetzes die §§ 81 und 82; die übrigen Vorschriften dieses Abschnittes sind nicht anzuwenden. Auf den Berufsausbildungsvertrag sind die Vorschriften der anderen Abschnitte dieses Gesetzes anzuwenden, soweit sich aus dem Wesen und Zweck des Vertrages und aus dem Berufsbildungsgesetz nichts anderes ergibt.
 
-
-## § 84 – Vergütungsanspruch
+# § 84 – Vergütungsanspruch
 
 Reeder haben Auszubildenden eine angemessene Vergütung zu zahlen, die so zu bemessen ist, dass sie mit fortschreitender Berufsausbildung, mindestens jährlich bezogen auf das Ausbildungsjahr, ansteigt.
 
-
-## § 85 – Bemessung und Fälligkeit der Vergütung
+# § 85 – Bemessung und Fälligkeit der Vergütung
 
 (1) Die Vergütung bemisst sich nach Kalendermonaten. Bei Berechnung der Vergütung für einzelne Tage wird der Kalendermonat zu 30 Tagen gerechnet.
 
 (2) Die Vergütung ist mit Ablauf eines jeden Kalendermonats oder bei Beendigung des Berufsausbildungsverhältnisses fällig. Die Vorschrift des § 19 des Berufsbildungsgesetzes über die Fortzahlung der Vergütung ist entsprechend anzuwenden.
 
-
-## § 86 – Probezeit
+# § 86 – Probezeit
 
 Das Berufsausbildungsverhältnis beginnt mit der Probezeit. Sie muss mindestens einen Monat und darf höchstens fünf Monate betragen. Mit den in § 3 Absatz 2 Satz 3 genannten Personen kann abweichend von Satz 2 eine kürzere Probezeit vereinbart werden.
 
-
-## § 87 – Beendigung
+# § 87 – Beendigung
 
 (1) Das Berufsausbildungsverhältnis endet mit dem Ablauf der Ausbildungszeit. Bestehen Auszubildende vor Ablauf der Ausbildungszeit die Abschlussprüfung, so endet das Berufsausbildungsverhältnis mit Bekanntgabe des Ergebnisses durch den Prüfungsausschuss.
 
 (2) Bestehen Auszubildende die Abschlussprüfung nicht, so verlängert sich das Berufsausbildungsverhältnis auf ihr Verlangen bis zu der durch den Prüfungsausschuss festgelegten Wiederholungsprüfung, längstens um ein Jahr.
 
-
-## § 88 – Kündigung
+# § 88 – Kündigung
 
 (1) Während der Probezeit kann das Berufsausbildungsverhältnis mit einer Kündigungsfrist von einer Woche gekündigt werden. Wird die Kündigung während der Fahrt des Schiffes ausgesprochen, setzt sich das Berufsausbildungsverhältnis nach Ablauf der Kündigungsfrist als Heuerverhältnis im Sinne des § 28 bis zur Ankunft des Schiffes in einem Hafen fort, in dem eine Heimschaffung des Auszubildenden mit allgemein zugänglichen Verkehrsmitteln möglich ist. Ist der Auszubildende mit der Fortsetzung als Heuerverhältnis nicht einverstanden, so hat er während der Bordanwesenheit den sich aus § 67 Absatz 3 ergebenden Verpflegungssatz zu entrichten.
 
@@ -1350,8 +1257,7 @@ Im Falle der Kündigung aus wichtigem Grund im Sinne des Satzes 1 Nummer 1 sind 
 
 (4) Eine Kündigung aus wichtigem Grund ist unwirksam, wenn die ihr zugrunde liegenden Tatsachen dem zur Kündigung Berechtigten länger als zwei Wochen bekannt sind.
 
-
-## § 89 – Schadensersatz bei vorzeitiger Beendigung
+# § 89 – Schadensersatz bei vorzeitiger Beendigung
 
 (1) Wird das Berufsausbildungsverhältnis nach der Probezeit vorzeitig gelöst, so können Reeder oder Auszubildende Ersatz des Schadens verlangen, wenn die andere Person den Grund für die Auflösung zu vertreten hat. Dies gilt nicht im Falle des § 88 Absatz 2 Nummer 2.
 
@@ -1359,18 +1265,15 @@ Im Falle der Kündigung aus wichtigem Grund im Sinne des Satzes 1 Nummer 1 sind 
 
 (3) Auf die in § 3 Absatz 2 Satz 3 genannten Personen sind die Absätze 1 und 2 nicht anzuwenden.
 
-
-## § 90 – Berufsausbildung auf Schiffen des Bundes und der Länder
+# § 90 – Berufsausbildung auf Schiffen des Bundes und der Länder
 
 Die §§ 81 bis 89 sowie die auf Grund des § 92 erlassenen Rechtsverordnungen sind entsprechend anzuwenden, wenn die Berufsausbildung auf Schiffen durchgeführt wird, die eine Landesdienst- oder die Bundesdienstflagge führen und in der Seefahrt eingesetzt sind.
 
-
-## § 91 – Zuständige Stelle
+# § 91 – Zuständige Stelle
 
 Für die Berufsbildung in Berufen nach § 92 ist die Berufsbildungsstelle Seeschifffahrt e. V., Bremen, die zuständige Stelle.
 
-
-## § 92 – Rechtsverordnungen
+# § 92 – Rechtsverordnungen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung ohne Zustimmung des Bundesrates nach Anhörung der für Berufsbildungsfragen zuständigen obersten Landesbehörden der Küstenländer Ausbildungsberufe in der Seeschifffahrt staatlich anzuerkennen und Bestimmungen zu erlassen über
 
@@ -1390,8 +1293,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 8. das Prüfungswesen, insbesondere im Hinblick auf den Prüfungsausschuss, Prüfungsgegenstand und die Prüfungsordnung.
 
-
-## § 93 – Anspruch auf Unterkunft
+# § 93 – Anspruch auf Unterkunft
 
 (1) Jedes Besatzungsmitglied hat für die Dauer des Heuerverhältnisses Anspruch auf sichere, gesunde und menschenwürdige Unterkunft und Einrichtungen einschließlich sicherer Aufbewahrung seiner Kleidungsstücke und seiner anderen Gebrauchsgegenstände auf dem Schiff, soweit Fahrtdauer und Einsatzbedingungen des Schiffes dies erfordern. Dabei sind die sozialen, kulturellen und religiösen Bedürfnisse der Besatzungsmitglieder angemessen zu berücksichtigen.
 
@@ -1401,8 +1303,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (4) Kann dem Besatzungsmitglied aus besonderen, von ihm nicht zu vertretenden Gründen eine Unterkunft auf dem Schiff nicht gewährt werden, so hat es Anspruch auf eine anderweitige angemessene Unterkunft oder Zahlung des dafür erforderlichen Geldbetrages.
 
-
-## § 94 – Zugang zu Kommunikationseinrichtungen
+# § 94 – Zugang zu Kommunikationseinrichtungen
 
 Der Kapitän hat den Besatzungsmitgliedern auf ihr Verlangen angemessenen und preisgünstigen Zugang zu Schiff-Land-Fernsprechverbindungen, E-Mail-Diensten und Internet-Diensten zu gewähren, soweit solche Einrichtungen an Bord vorhanden sind. Der Reeder hat sicherzustellen, dass
 
@@ -1410,8 +1311,7 @@ Der Kapitän hat den Besatzungsmitgliedern auf ihr Verlangen angemessenen und pr
 
 2. das Besatzungsmitglied kein Nachporto zu zahlen hat, wenn seine Post aus Gründen, die sich seinem Einfluss entziehen, umadressiert werden muss.
 
-
-## § 95 – Besuche, mitreisende Partner
+# § 95 – Besuche, mitreisende Partner
 
 Sofern betriebliche Belange sowie innerstaatliche oder internationale Rechtsvorschriften zur Gefahrenabwehr nicht entgegenstehen, hat der Kapitän den Besatzungsmitgliedern auf ihr Verlangen zu erlauben,
 
@@ -1421,8 +1321,7 @@ Sofern betriebliche Belange sowie innerstaatliche oder internationale Rechtsvors
 
 Mitreisende Partner sind verpflichtet, sich ausreichend gegen Unfall und Krankheit zu versichern. Der Reeder hat die Besatzungsmitglieder beim Abschluss einer solchen Versicherung zu unterstützen.
 
-
-## § 96 – Rechtsverordnungen
+# § 96 – Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -1436,8 +1335,7 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens
 
 2. des Bundesministeriums für Gesundheit im Falle des Satzes 1 Nummer 1.
 
-
-## § 97 – Anspruch auf Verpflegung, Unterweisung
+# § 97 – Anspruch auf Verpflegung, Unterweisung
 
 (1) Das Besatzungsmitglied hat für die Dauer des Heuerverhältnisses Anspruch auf kostenfreie, angemessene und ausreichende Speisen und Getränke (Verpflegung) sowie Trinkwasser. Angemessen ist die Verpflegung, wenn sie hinsichtlich Nährwert, Güte und Abwechslung eine geeignete und ausgewogene Ernährung gewährleistet. Hierbei sind die Anzahl der Besatzungsmitglieder an Bord, ihre kulturellen Eigenheiten und religiösen Gebräuche sowie die Dauer und Art der Reise angemessen zu berücksichtigen.
 
@@ -1449,8 +1347,7 @@ Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens
 
 entsprechen. Er hat sicherzustellen, dass das Küchen- und Bedienungspersonal entsprechend unterwiesen wird. Insbesondere hat er dafür zu sorgen, dass das Personal, das mit den in § 42 Absatz 1 des Infektionsschutzgesetzes bezeichneten Tätigkeiten mit Lebensmitteln beschäftigt werden soll, bei Dienstantritt an Bord und im Weiteren alle zwei Jahre im Sinne des § 43 Absatz 4 des Infektionsschutzgesetzes über Tätigkeitsverbote und Mitteilungspflichten belehrt wird. Die Belehrungen sind im Seetagebuch zu dokumentieren. Bei Tätigkeiten auf wechselnden Schiffen ist eine Abschrift oder Kopie zum Seetagebuch des jeweiligen Schiffes zu nehmen. § 43 Absatz 1 des Infektionsschutzgesetzes ist nicht anzuwenden.
 
-
-## § 98 – Überprüfungen
+# § 98 – Überprüfungen
 
 Der Kapitän oder eine von ihm bestimmte Person hat dafür zu sorgen, dass Überprüfungen
 
@@ -1462,8 +1359,7 @@ Der Kapitän oder eine von ihm bestimmte Person hat dafür zu sorgen, dass Über
 
 mindestens monatlich durchgeführt und unverzüglich unter Angabe des Tages und des Ergebnisses der Überprüfung im Seetagebuch eingetragen werden.
 
-
-## § 99 – Anspruch auf medizinische Betreuung
+# § 99 – Anspruch auf medizinische Betreuung
 
 (1) Das Besatzungsmitglied hat für die Dauer des Heuerverhältnisses im Falle einer Erkrankung oder Verletzung auf Kosten des Reeders Anspruch auf unverzügliche und angemessene medizinische Betreuung, wie sie im Allgemeinen den Arbeitnehmern an Land zur Verfügung steht, bis es wieder gesund ist oder bis die Krankheit oder Erwerbsunfähigkeit als dauernd eingestuft ist, soweit die §§ 100, 102 und 103 nichts anderes bestimmen. Sofern das Schiff in einem inländischen Hafen liegt, hat das Besatzungsmitglied entsprechend Satz 1 Anspruch auf vorbeugende Maßnahmen, die zur Verhütung und Früherkennung von Krankheiten und deren Verschlechterung notwendig sind und die Programme zur Gesundheitsförderung und Gesundheitserziehung umfassen.
 
@@ -1481,8 +1377,7 @@ mindestens monatlich durchgeführt und unverzüglich unter Angabe des Tages und 
 
 3. das Besatzungsmitglied sich die Krankheit oder Verletzung durch eine von ihm vorsätzlich begangene Straftat zugezogen hat.
 
-
-## § 100 – Besonderheiten bei der medizinischen Betreuung im Inland
+# § 100 – Besonderheiten bei der medizinischen Betreuung im Inland
 
 (1) Liegt das Schiff in einem inländischen Hafen, so hat ein in der gesetzlichen Krankenversicherung oder der privaten substitutiven Krankenversicherung versichertes Besatzungsmitglied, solange es an Bord bleibt, die Wahl zwischen der medizinischen Betreuung auf Kosten des Reeders oder der Krankenversicherung.
 
@@ -1494,48 +1389,41 @@ mindestens monatlich durchgeführt und unverzüglich unter Angabe des Tages und 
 
 3. der Erfolg der Behandlung gefährdet ist.
 
-
-## § 101 – Besonderheiten bei der medizinischen Betreuung im Ausland
+# § 101 – Besonderheiten bei der medizinischen Betreuung im Ausland
 
 (1) Hat ein Besatzungsmitglied das Schiff im Ausland wegen Krankheit oder Verletzung verlassen müssen, so kann das Besatzungsmitglied vom Reeder Heilbehandlung und Verpflegung in einem zumutbaren Krankenhaus verlangen.
 
 (2) In den Fällen des Absatzes 1 hat der Reeder dem Besatzungsmitglied zur Befriedigung notwendiger persönlicher Bedürfnisse ein angemessenes Tagegeld zu zahlen, sofern nicht die Heuer nach § 104 fortzuzahlen ist.
 
-
-## § 102 – Ruhen des Anspruchs auf medizinische Betreuung auf Kosten des Reeders
+# § 102 – Ruhen des Anspruchs auf medizinische Betreuung auf Kosten des Reeders
 
 Weigert sich ein Besatzungsmitglied ohne berechtigten Grund, die angebotene Heilbehandlung oder Krankenhausbehandlung anzunehmen, so ruht der Anspruch auf medizinische Betreuung auf Kosten des Reeders für die Dauer der unberechtigten Weigerung.
 
-
-## § 103 – Ende der medizinischen Betreuung auf Kosten des Reeders
+# § 103 – Ende der medizinischen Betreuung auf Kosten des Reeders
 
 (1) Die medizinische Betreuung auf Kosten des Reeders endet, sobald ein Besatzungsmitglied, das in der gesetzlichen Krankenversicherung oder der privaten substitutiven Krankenversicherung versichert ist, an einem inländischen Ort das Schiff verlässt. Die medizinische Betreuung ist jedoch, wenn mit der Unterbrechung Gefahr verbunden ist, fortzusetzen, bis die zuständige Krankenversicherung oder die zuständige Unfallversicherung mit Leistungen beginnt.
 
 (2) Ist ein Besatzungsmitglied im Ausland zurückgelassen worden, so endet die medizinische Betreuung auf Kosten des Reeders, wenn das Besatzungsmitglied, das in der gesetzlichen Krankenversicherung oder der privaten substitutiven Krankenversicherung versichert ist, nach Deutschland heimgeschafft oder zurückgekehrt ist. Die medizinische Betreuung auf Kosten des Reeders endet für jedes Besatzungsmitglied spätestens mit dem Ablauf der 26. Woche, nachdem es das Schiff verlassen hat. Bei Verletzung infolge eines Arbeitsunfalls endet die medizinische Betreuung, sobald die zuständige Unfallversicherung mit ihren Leistungen beginnt.
 
-
-## § 104 – Fortzahlung der Heuer im Krankheitsfall
+# § 104 – Fortzahlung der Heuer im Krankheitsfall
 
 (1) Ein infolge Krankheit oder Verletzung arbeitsunfähiges Besatzungsmitglied hat Anspruch auf Fortzahlung der Heuer vom Beginn der Arbeitsunfähigkeit mindestens bis zu dem Tage, an dem es das Schiff verlässt. Im Übrigen gelten die Vorschriften des Entgeltfortzahlungsgesetzes. Solange das Besatzungsmitglied sich an Bord eines Schiffes auf See oder im Ausland aufhält, ist jedoch § 5 des Entgeltfortzahlungsgesetzes nur insoweit anzuwenden, als das Besatzungsmitglied zur Mitteilung seiner Arbeitsunfähigkeit und deren voraussichtlicher Dauer verpflichtet ist.
 
 (2) Der Reeder hat einem arbeitsunfähig erkrankten oder verletzten Besatzungsmitglied, das keinen Anspruch auf Fortzahlung der Heuer nach Absatz 1 mehr hat, bis zur Dauer von 16 Wochen seit Beginn der Arbeitsunfähigkeit oder der Behandlung in einem Krankenhaus einen Betrag in Höhe des Krankengeldes zu zahlen, das dem Besatzungsmitglied nach dem Fünften Buch Sozialgesetzbuch zustehen würde, wenn es in der gesetzlichen Krankenversicherung versichert und im Inland erkrankt wäre. Der Anspruch nach Satz 1 besteht nicht für ein Besatzungsmitglied, das das Schiff verlassen hat und im Inland einen Anspruch auf Krankengeld gegen die gesetzliche Krankenversicherung hat.
 
-
-## § 105 – Heimschaffung im Krankheitsfall
+# § 105 – Heimschaffung im Krankheitsfall
 
 (1) Ein Besatzungsmitglied, das wegen Krankheit oder Verletzung im Ausland zurückgelassen ist, kann mit seiner Einwilligung und der des behandelnden Arztes nach Maßgabe des § 73 heimgeschafft werden. Ist das Besatzungsmitglied außerstande, die Einwilligung zu erteilen, oder verweigert es die Einwilligung ohne ausreichenden Grund, so kann sie durch die Berufsgenossenschaft nach Anhörung eines Arztes, der nicht dem seeärztlichen Dienst der Berufsgenossenschaft angehört, ersetzt werden.
 
 (2) Ein Besatzungsmitglied, das nach Abschluss der Kranken- oder Heilbehandlung im Ausland nicht an Bord des Schiffes zurückkehren kann, hat Anspruch auf Heimschaffung nach Maßgabe der §§ 73 und 76. Soweit dem Besatzungsmitglied nicht ein Heueranspruch auf Grund anderer Vorschriften zusteht, hat es während der Dauer der Heimschaffung Anspruch auf ein angemessenes Tagegeld zur Befriedigung notwendiger persönlicher Bedürfnisse.
 
-
-## § 106 – Sorge für Sachen und Heuerguthaben eines erkrankten oder verletzten Besatzungsmitglieds
+# § 106 – Sorge für Sachen und Heuerguthaben eines erkrankten oder verletzten Besatzungsmitglieds
 
 (1) Muss ein Besatzungsmitglied wegen Krankheit oder Verletzung an Land zurückgelassen werden, so hat der Kapitän, soweit das Besatzungsmitglied nichts anderes bestimmt hat, unverzüglich dessen Sachen und dessen Heuerguthaben dem Vertreter des Reeders vor Ort zur Aufbewahrung zu übergeben. Das Besatzungsmitglied muss der Übergabe an den Vertreter des Reeders zustimmen, wenn es dazu in der Lage ist. Das Besatzungsmitglied ist in jedem Fall über die Übergabe zu informieren.
 
 (2) Der Kapitän hat unverzüglich dafür zu sorgen, dass eine Aufstellung über die Sachen und das Heuerguthaben des Besatzungsmitglieds in zwei Ausfertigungen erstellt und dabei die Aufbewahrungsstelle angegeben wird. Diese Aufstellung ist vom Kapitän und einem anderen Besatzungsmitglied zu unterzeichnen. Je eine Ausfertigung der Aufstellung erhalten die Aufbewahrungsstelle und das zurückgelassene Besatzungsmitglied.
 
-
-## § 106a – Pflicht zur Entschädigung bei Arbeitsunfällen und Berufskrankheiten
+# § 106a – Pflicht zur Entschädigung bei Arbeitsunfällen und Berufskrankheiten
 
 (1) Der Reeder eines Schiffes, hat nach Maßgabe des Absatzes 2 eine Versicherung oder eine sonstige finanzielle Sicherheit aufrechtzuerhalten, die bei Berufsunfähigkeit oder Tod von Besatzungsmitgliedern infolge von Arbeitsunfällen oder Berufskrankheiten diese oder ihre Hinterbliebenen entschädigt. Die Versicherung oder die sonstige finanzielle Sicherheit ist der Berufsgenossenschaft bei Überprüfungen nachzuweisen. Für Schiffe, die Fischereifahrzeuge sind, gelten die Absätze 3 und 4 nicht.
 
@@ -1575,8 +1463,7 @@ Weigert sich ein Besatzungsmitglied ohne berechtigten Grund, die angebotene Heil
 
 2. der Versicherer oder der Sicherungsgeber die Berufsgenossenschaft.
 
-
-## § 107 – Medizinische Räumlichkeiten und medizinische Ausstattung
+# § 107 – Medizinische Räumlichkeiten und medizinische Ausstattung
 
 (1) Der Reeder hat dafür zu sorgen, dass das Schiff mit den für eine ausreichende medizinische Betreuung der Personen an Bord erforderlichen Räumlichkeiten (medizinische Räumlichkeiten) versehen ist. Zu den medizinischen Räumlichkeiten gehören
 
@@ -1596,8 +1483,7 @@ Der Reeder hat dafür zu sorgen, dass die medizinischen Räumlichkeiten in stän
 
 Die medizinische Ausstattung muss hinsichtlich ihres Inhaltes, ihrer Aufbewahrung, ihrer Kennzeichnung und ihrer Anwendung, einschließlich der Aufzeichnungsmöglichkeiten, geeignet sein, den Schutz der Gesundheit der Personen an Bord und deren unverzügliche angemessene medizinische Behandlung und Versorgung an Bord zu gewährleisten. Entspricht die medizinische Ausstattung dem im Verkehrsblatt oder im Bundesanzeiger jeweils zuletzt bekannt gemachten Stand der medizinischen Anforderungen in der Seeschifffahrt (Stand der medizinischen Erkenntnisse), genügt die medizinische Ausstattung den Anforderungen des Satzes 3.
 
-
-## § 108 – Ausschuss für medizinische Ausstattung in der Seeschifffahrt
+# § 108 – Ausschuss für medizinische Ausstattung in der Seeschifffahrt
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur errichtet einen Ausschuss für medizinische Ausstattung in der Seeschifffahrt (Ausschuss). Dem Ausschuss obliegt es,
 
@@ -1659,8 +1545,7 @@ zu beratenden Mitgliedern des Ausschusses auf Vorschlag der genannten Einrichtun
 
 (6) Die Geschäftsführung des Ausschusses obliegt der Berufsgenossenschaft; sie nimmt an den Sitzungen teil.
 
-
-## § 109 – Durchführung der medizinischen Betreuung und Kontrollen an Bord
+# § 109 – Durchführung der medizinischen Betreuung und Kontrollen an Bord
 
 (1) Für die Durchführung der medizinischen Behandlung und Versorgung an Bord und die Führung, Verwaltung und vertrauliche Behandlung der Aufzeichnungen, insbesondere der ärztlichen Berichtsformulare, ist
 
@@ -1684,8 +1569,7 @@ hinsichtlich der medizinischen Räumlichkeiten und der medizinischen Ausstattung
 
 (4) Die nach Absatz 1 Satz 1 oder 2 zuständige Person hat die medizinische Betreuung einer erkrankten oder verletzten Person an Bord in den in § 107 Absatz 2 Satz 2 Nummer 2 bezeichneten Unterlagen unverzüglich schriftlich oder elektronisch aufzuzeichnen. Die Unterlagen und die darin enthaltenen Angaben sind vertraulich zu behandeln und dürfen nur verarbeitet werden, um die Behandlung der erkrankten oder verletzten Person zu gewährleisten. Die Berufsgenossenschaft kann allgemein anordnen, dass die nach Absatz 1 Satz 1 oder 2 zuständigen Personen verpflichtet sind, Unterlagen anonymisiert an die Berufsgenossenschaft zu bestimmten Zeitpunkten zu übermitteln, soweit dies für die Fortentwicklung des Standes der medizinischen Erkenntnisse erforderlich ist. Die Berufsgenossenschaft darf Daten aus den Unterlagen in anonymisierter Form an Einrichtungen, die wissenschaftliche Forschung betreiben sowie an öffentliche Stellen zum Zwecke statistischer oder wissenschaftlicher Auswertungen übermitteln.
 
-
-## § 110 – Überwachung
+# § 110 – Überwachung
 
 Über die Befugnisse des § 143 hinaus können die Berufsgenossenschaft und bei ihr beschäftigte Personen insbesondere anordnen, dass
 
@@ -1693,20 +1577,17 @@ hinsichtlich der medizinischen Räumlichkeiten und der medizinischen Ausstattung
 
 2. die medizinische Ausstattung, die nicht dem Stand der medizinischen Erkenntnisse im Sinne des § 107 Absatz 2 Satz 4 entspricht, so geändert oder ergänzt wird, dass sie den Anforderungen des § 107 Absatz 2 Satz 3 oder einer Anordnung nach § 111 Absatz 2 genügt.
 
-
-## § 111 – Ausnahmen
+# § 111 – Ausnahmen
 
 (1) Die Berufsgenossenschaft kann auf Antrag im Einzelfall Ausnahmen von den Anforderungen nach diesem Unterabschnitt und den auf Grund der Vorschriften dieses Unterabschnitts erlassenen Rechtsverordnungen bewilligen, soweit dies mit dem Stand der medizinischen Erkenntnisse vereinbar ist und die medizinische Behandlung und Versorgung der Personen an Bord nicht gefährdet wird.
 
 (2) Die Berufsgenossenschaft kann mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur gegenüber den Reedern anordnen, dass abweichend von dem im Verkehrsblatt oder im Bundesanzeiger veröffentlichten Stand der medizinischen Erkenntnisse die medizinische Ausstattung bestimmten Anforderungen zu genügen hat, soweit dies erforderlich ist, um neueren Erkenntnissen, die im Stand der medizinischen Erkenntnisse noch nicht berücksichtigt sind, Rechnung zu tragen. Eine Anordnung nach Satz 1 gilt bis zur Veröffentlichung eines neueren Standes der medizinischen Erkenntnisse, längstens für zwei Jahre. Die Anordnung ist im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben; sie kann zusätzlich auf der Internetseite der Berufsgenossenschaft veröffentlicht werden.
 
-
-## § 112 – Funk- und satellitenfunkärztliche Betreuung
+# § 112 – Funk- und satellitenfunkärztliche Betreuung
 
 Der vom Bund nach § 1 Nummer 7a des Seeaufgabengesetzes eingerichtete funk- oder satellitenfunkärztliche Dienst mit fachärztlicher Beratung steht allen Schiffen auf See, ungeachtet ihrer Flagge, kostenfrei und jederzeit für funk- oder satellitenfunkärztliche Beratung, einschließlich fachärztlicher Beratung, zur Verfügung.
 
-
-## § 113 – Rechtsverordnungen
+# § 113 – Rechtsverordnungen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Sicherstellung einer ausreichenden medizinischen Behandlung und Versorgung an Bord eines Schiffes durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -1728,15 +1609,13 @@ In Rechtsverordnungen nach Satz 1 Nummer 3, 4 und 6 kann das Verwaltungsverfahre
 
 2. des Bundesministeriums für Gesundheit, soweit infektiologische oder hygienische Regelungsinhalte betroffen sind.
 
-
-## § 114 – Allgemeiner Schutz gegen Betriebsgefahren
+# § 114 – Allgemeiner Schutz gegen Betriebsgefahren
 
 (1) Der Reeder ist verpflichtet, den gesamten Schiffsbetrieb und alle Arbeitsmittel, Geräte und Anlagen an Bord so einzurichten und zu unterhalten sowie die Beschäftigung und den Ablauf der Arbeit so zu regeln, dass die Besatzungsmitglieder gegen See- und Feuergefahren, arbeitsbedingte Gesundheitsgefahren sowie gegen sonstige Gefahren für Leben, Gesundheit und Sittlichkeit soweit geschützt sind, wie die Art des Schiffsbetriebs es gestattet. Insbesondere hat der Reeder sicherzustellen, dass dem Kapitän die erforderlichen Mittel zur Verfügung gestellt werden, um eine ausreichende Besatzungsstärke des Schiffes und die Einhaltung der gesetzlichen Arbeitsschutz- und Arbeitszeitbestimmungen zu gewährleisten. Die Pflichten zur Unterhaltung und zum sicheren Betrieb des Schiffes und der Arbeitsbereiche, Anlagen und Geräte an Bord sowie zur Regelung der Beschäftigung und des Ablaufs der Arbeit treffen auch den Kapitän.
 
 (2) Die Besatzungsmitglieder haben die Arbeitsschutzmaßnahmen zu befolgen.
 
-
-## § 115 – Schiffssicherheitsausschuss
+# § 115 – Schiffssicherheitsausschuss
 
 (1) Der Reeder hat auf Schiffen mit fünf oder mehr Besatzungsmitgliedern einen Schiffssicherheitsausschuss zu bilden. Dieser Ausschuss setzt sich zusammen aus:
 
@@ -1750,8 +1629,7 @@ Soweit eine Bordvertretung nicht besteht, ist das Mitglied nach Satz 2 Nummer 2 
 
 (2) Der Schiffssicherheitsausschuss hat die Aufgabe, Anliegen des Arbeitsschutzes und der Unfallverhütung zu beraten. Der Schiffssicherheitsausschuss tritt mindestens einmal vierteljährlich zusammen.
 
-
-## § 116 – Sicherheitsbeauftragter
+# § 116 – Sicherheitsbeauftragter
 
 (1) Der Reeder hat auf Schiffen mit fünf oder mehr Besatzungsmitgliedern einen Sicherheitsbeauftragten zu bestellen. Die Bestellung und Abberufung erfolgt mit Zustimmung der Bordvertretung, soweit eine solche besteht.
 
@@ -1759,8 +1637,7 @@ Soweit eine Bordvertretung nicht besteht, ist das Mitglied nach Satz 2 Nummer 2 
 
 (3) Der Sicherheitsbeauftragte darf wegen der Erfüllung der ihm übertragenen Aufgaben nicht benachteiligt werden.
 
-
-## § 117 – Besonderer Schutz von jugendlichen Besatzungsmitgliedern
+# § 117 – Besonderer Schutz von jugendlichen Besatzungsmitgliedern
 
 (1) Die Beschäftigung oder Arbeit von jugendlichen Besatzungsmitgliedern mit Arbeiten, die ihre Gesundheit oder Sicherheit gefährden können, ist verboten.
 
@@ -1824,13 +1701,11 @@ Satz 2 ist nicht anzuwenden auf gezielte Tätigkeiten mit biologischen Arbeitsst
 
 (8) Die Berufsgenossenschaft kann im Einzelfall feststellen, ob eine Arbeit unter die Arbeitsverbote oder Arbeitsbeschränkungen nach den Absätzen 1 und 2 oder einer nach § 118 erlassenen Rechtsverordnung fällt. Sie kann in Einzelfällen die Arbeit jugendlicher Besatzungsmitglieder mit bestimmten Tätigkeiten über die Arbeitsverbote oder Arbeitsbeschränkungen des Absatzes 1 und einer Rechtsverordnung nach § 118 hinaus verbieten oder beschränken, wenn diese Arbeiten mit Gefahren für Leben, Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung der jugendlichen Besatzungsmitglieder verbunden sind.
 
-
-## § 118 – Rechtsverordnungen
+# § 118 – Rechtsverordnungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates die Arbeitsverbote und Arbeitsbeschränkungen des § 117 Absatz 1 bis 3 für Jugendliche bei Arbeiten, die mit besonderen Gefahren für Leben, Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung verbunden sind, zu bestimmen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens des Bundesministeriums für Ernährung und Landwirtschaft, soweit die Seefischerei betroffen ist.
 
-
-## § 119 – Sozialeinrichtungen für Seeleute an Land
+# § 119 – Sozialeinrichtungen für Seeleute an Land
 
 (1) Sozialeinrichtungen für Seeleute in den Häfen haben sicherzustellen, dass sie für alle Seeleute ungeachtet der Flagge des Schiffes diskriminierungsfrei und leicht zugänglich sind.
 
@@ -1848,13 +1723,11 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 (4) Zur Erfüllung ihrer Aufgaben erhalten die Sozialeinrichtungen in inländischen Häfen einen jährlichen Gesamtbetrag in Höhe von 1,5 Millionen Euro aus Mitteln des Bundes. Jede Sozialeinrichtung hat einen anteiligen Anspruch in gleicher Höhe aus dem Gesamtbetrag nach Satz 1. Zuständige Behörde für die Gewährung der Leistung ist die Berufsgenossenschaft. Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere zur Gewährung des Gesamtbetrages, insbesondere die Verteilungsgrundsätze sowie das Antragsverfahren und die Leistungsgewährung.
 
-
-## § 120 – Verhalten an Bord
+# § 120 – Verhalten an Bord
 
 Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger Achtung und Rücksichtnahme zusammenzuarbeiten, um den Schiffsbetrieb zu sichern und die öffentliche Sicherheit und Ordnung an Bord und im Zusammenhang mit dem Betrieb des Schiffes zu gewährleisten.
 
-
-## § 121 – Verantwortung des Kapitäns für die Erhaltung von Sicherheit und Ordnung
+# § 121 – Verantwortung des Kapitäns für die Erhaltung von Sicherheit und Ordnung
 
 (1) Der Kapitän ist der Vorgesetzte aller Besatzungsmitglieder. Ihm steht die oberste Anordnungsbefugnis gegenüber den Besatzungsmitgliedern und den sonstigen an Bord befindlichen Personen zu.
 
@@ -1868,8 +1741,7 @@ Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger Achtung und Rüc
 
 (6) Der Kapitän hat Maßnahmen nach den Absätzen 3 und 4 und die Übertragung der Befugnisse nach Absatz 5 unter Darstellung des Sachverhalts unverzüglich in das Seetagebuch einzutragen.
 
-
-## § 122 – Anordnungsbefugnis der Schiffsoffiziere und der anderen Vorgesetzten
+# § 122 – Anordnungsbefugnis der Schiffsoffiziere und der anderen Vorgesetzten
 
 (1) Die Schiffsoffiziere und die anderen Vorgesetzten haben die Anordnungsbefugnis zur Erhaltung der öffentlichen Sicherheit und Ordnung an Bord und im Zusammenhang mit dem Betrieb des Schiffes in ihrem Verantwortungsbereich.
 
@@ -1879,15 +1751,13 @@ Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger Achtung und Rüc
 
 (4) Der wachhabende Schiffsoffizier des Maschinendienstes und die anderen Besatzungsmitglieder, die Leiter von Dienstzweigen sind, haben die Anordnungen des wachhabenden nautischen Schiffsoffiziers, die im Rahmen des Wachdienstes ergehen, in ihrem Dienstbereich durchzuführen.
 
-
-## § 123 – Pflichten der Vorgesetzten
+# § 123 – Pflichten der Vorgesetzten
 
 (1) Der Kapitän und die anderen Vorgesetzten haben die ihnen unterstellten Personen gerecht und verständnisvoll zu behandeln und Verstößen gegen die Gesetze und die guten Sitten entgegenzutreten. Der Kapitän und die Vorgesetzten dürfen Besatzungsmitglieder nicht körperlich bestrafen, entwürdigend behandeln, nötigen oder misshandeln und haben sie vor körperlicher Bestrafung, entwürdigender Behandlung, Nötigung, Misshandlung und sittlicher Gefährdung durch andere Besatzungsmitglieder zu schützen. Sie haben darauf zu achten, dass jugendliche Besatzungsmitglieder auch während der Freizeit vor gesundheitlichen und sittlichen Gefahren nach Möglichkeit geschützt sind.
 
 (2) Der Kapitän hat dafür zu sorgen, dass die berufliche Fortbildung der Jugendlichen im Rahmen des Schiffsbetriebs gefördert wird.
 
-
-## § 124 – Pflichten der Besatzungsmitglieder und der sonstigen an Bord befindlichen Personen
+# § 124 – Pflichten der Besatzungsmitglieder und der sonstigen an Bord befindlichen Personen
 
 (1) Jedes Besatzungsmitglied ist verpflichtet, vollziehbare Anordnungen der Vorgesetzten unverzüglich zu befolgen. Insbesondere ist das Besatzungsmitglied verpflichtet, eine vollziehbare Anordnung eines zuständigen Vorgesetzten unverzüglich zu befolgen, die dazu dient, eine drohende Gefahr für Menschen, für das Schiff oder dessen Ladung abzuwehren, schwere Störungen des Schiffsbetriebs zu verhindern oder Vorschriften über die Schiffssicherheit zu erfüllen. In den Fällen des § 121 Absatz 2 und 3, auch in Verbindung mit Absatz 5, sind die Besatzungsmitglieder zur Beistandsleistung verpflichtet.
 
@@ -1895,8 +1765,7 @@ Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger Achtung und Rüc
 
 (3) Die sonstigen an Bord befindlichen Personen haben die vollziehbaren Anordnungen zu befolgen, die ihnen vom Kapitän oder in seiner Vertretung oder seinem Auftrag von einem Mitglied der Besatzung im Interesse der Erhaltung der öffentlichen Sicherheit und Ordnung an Bord und im Zusammenhang mit dem Betrieb des Schiffes erteilt werden. Absatz 2 gilt entsprechend.
 
-
-## § 125 – Anbordbringen von Personen und Gegenständen
+# § 125 – Anbordbringen von Personen und Gegenständen
 
 (1) Die Besatzungsmitglieder dürfen Personen, die nicht zur Schiffsbesatzung gehören, nicht ohne Erlaubnis des Kapitäns an Bord bringen.
 
@@ -1904,13 +1773,11 @@ Die Schiffsbesatzung hat vertrauensvoll und unter gegenseitiger Achtung und Rüc
 
 (3) Werden Gegenstände entgegen den Vorschriften des Absatzes 2 an Bord gebracht, so kann der Kapitän sie in Verwahrung nehmen oder in anderer Weise sicherstellen. Gefährdet ihr Verbleib die Gesundheit der an Bord befindlichen Personen, das Schiff oder die Ladung oder könnte er das Eingreifen einer Behörde veranlassen, so kann der Kapitän die Beseitigung der Gegenstände verlangen. Kommt das Besatzungsmitglied dem Verlangen nicht nach, so kann der Kapitän die Vernichtung der Gegenstände veranlassen. In diesem Falle sind die Tatsache und der Grund der Vernichtung in das Seetagebuch einzutragen.
 
-
-## § 126 – Besatzungsmitgliedern gleichgestellte Personen
+# § 126 – Besatzungsmitgliedern gleichgestellte Personen
 
 Kanalsteurer auf dem Nord-Ostsee-Kanal und Sicherheitskräfte privater nach der Gewerbeordnung zugelassener Bewachungsunternehmen stehen hinsichtlich dieses Unterabschnitts den Besatzungsmitgliedern gleich.
 
-
-## § 127 – Beschwerderecht
+# § 127 – Beschwerderecht
 
 (1) Das Besatzungsmitglied hat das Recht, sich über einen Verstoß gegen dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder über eine Benachteiligung oder ungerechte Behandlung bei den in § 128 Absatz 1, 2 und 4 genannten Stellen zu beschweren (Beschwerde).
 
@@ -1924,8 +1791,7 @@ Kanalsteurer auf dem Nord-Ostsee-Kanal und Sicherheitskräfte privater nach der 
 
 (6) Der Reeder hat das Besatzungsmitglied zusätzlich zur Aushändigung des Heuervertrages schriftlich über die an Bord gültigen Beschwerderegelungen zu unterrichten. Die Unterrichtung hat auch den Namen der Vertrauensperson nach Absatz 2 und die Anschriften und Rufnummern des Reeders, der Berufsgenossenschaft und der im Wohnsitzstaat für Beschwerden zuständigen Stelle zu enthalten. Der Reeder hat die Unterlagen über die Beschwerderegelungen stets auf dem aktuellen Stand zu halten. Er kann die Verpflichtung nach Satz 3 erfüllen, indem er das Besatzungsmitglied auf einen allgemein zugänglichen Aushang an Bord verweist.
 
-
-## § 128 – Beschwerdeverfahren
+# § 128 – Beschwerdeverfahren
 
 (1) Das Besatzungsmitglied soll seine Beschwerde zunächst an den unmittelbaren Vorgesetzten an Bord richten.
 
@@ -1955,8 +1821,7 @@ zu beschweren.
 
 (8) Die Berufsgenossenschaft kann sich bei der Untersuchung und Abhilfe von Beschwerden der Mitwirkung anerkannter Organisationen und anderer sachverständiger Personen bedienen. Die Kosten der Überprüfung hat der Reeder zu tragen.
 
-
-## § 129 – Umfang der Flaggenstaatkontrolle
+# § 129 – Umfang der Flaggenstaatkontrolle
 
 (1) Die Berufsgenossenschaft ist im Rahmen dieses Gesetzes für die Überprüfung der Einhaltung der Arbeits- und Lebensbedingungen an Bord von Schiffen nach den Rechtsvorschriften zuständig, die zum Schutz vor Gefahren für die Sicherheit und die Gesundheit oder zum sonstigen Schutz der Besatzungsmitglieder erlassen worden sind. Insbesondere umfasst die Überprüfung die Einhaltung der Vorschriften zu folgenden Anforderungen:
 
@@ -1992,8 +1857,7 @@ Die Zuständigkeit der Berufsgenossenschaft erstreckt sich auch auf Sachverhalte
 
 (3) Die Berufsgenossenschaft erteilt nach Maßgabe der nachstehenden Vorschriften das Seearbeitszeugnis, die Seearbeits-Konformitätserklärung und das Fischereiarbeitszeugnis.
 
-
-## § 130 – Pflicht zum Mitführen eines Seearbeitszeugnisses, Erteilungsvoraussetzungen
+# § 130 – Pflicht zum Mitführen eines Seearbeitszeugnisses, Erteilungsvoraussetzungen
 
 (1) Der Reeder darf ein Schiff mit einer Bruttoraumzahl von 500 oder größer, das
 
@@ -2037,8 +1901,7 @@ In den Fällen des Satzes 1 hat der Reeder das Seearbeitszeugnis unaufgefordert 
 
 (9) Soweit ein berechtigtes Interesse vorliegt, erteilt die Berufsgenossenschaft auf Antrag Auskunft über ausgestellte oder erneuerte Seearbeitszeugnisse.
 
-
-## § 131 – Vorläufiges Seearbeitszeugnis, kurzzeitige Verlängerung der Gültigkeit des Seearbeitszeugnisses, amtlich anerkanntes Seearbeitszeugnis
+# § 131 – Vorläufiges Seearbeitszeugnis, kurzzeitige Verlängerung der Gültigkeit des Seearbeitszeugnisses, amtlich anerkanntes Seearbeitszeugnis
 
 (1) Die Berufsgenossenschaft kann auf Antrag des Reeders einmalig ein Seearbeitszeugnis vorläufig erteilen (vorläufiges Seearbeitszeugnis), wenn
 
@@ -2066,8 +1929,7 @@ ausgestellt und tritt jeweils an die Stelle eines vorläufigen Seearbeitszeugnis
 
 (5) Für den Verlust der Gültigkeit und die Einziehung eines amtlich anerkannten Seearbeitszeugnisses nach Absatz 3 gilt § 130 Absatz 6 entsprechend.
 
-
-## § 132 – Seearbeits-Konformitätserklärung
+# § 132 – Seearbeits-Konformitätserklärung
 
 (1) Der Reeder hat dafür zu sorgen, dass an Bord seines Schiffes im Sinne des § 130 Absatz 1 eine Seearbeits-Konformitätserklärung mitgeführt wird und der Reeder sicherstellt, dass das Schiff jederzeit den Anforderungen der Erklärung entspricht.
 
@@ -2093,8 +1955,7 @@ ausgestellt und tritt jeweils an die Stelle eines vorläufigen Seearbeitszeugnis
 
 (5) § 130 Absatz 7 und 8 gilt entsprechend.
 
-
-## § 133 – Pflicht zum Mitführen eines Fischereiarbeitszeugnisses, Erteilungsvoraussetzungen
+# § 133 – Pflicht zum Mitführen eines Fischereiarbeitszeugnisses, Erteilungsvoraussetzungen
 
 (1) Der Reeder darf ein Fischereifahrzeug, das länger als drei Tage auf See bleibt und
 
@@ -2106,13 +1967,11 @@ nur in Dienst stellen oder in Fahrt halten, wenn er für das Fahrzeug ein gülti
 
 (2) Ein Fischereiarbeitszeugnis verliert bei entsprechender Anwendung der Voraussetzungen des § 130 Absatz 6 Satz 1 seine Gültigkeit; § 130 Absatz 6 Satz 2 gilt entsprechend.
 
-
-## § 134 – Nicht zeugnispflichtige Schiffe
+# § 134 – Nicht zeugnispflichtige Schiffe
 
 Der Reeder darf ein Schiff, das nicht unter § 130 Absatz 1 Satz 1 fällt und kein Fischereifahrzeug ist, nur in Dienst stellen oder in Fahrt halten, wenn er dieses in Abständen von drei Jahren in Hinblick auf die in § 130 Absatz 2 Satz 1 bezeichneten Anforderungen durch die Berufsgenossenschaft überprüfen lässt. Über die Überprüfung wird ein Überprüfungsbericht ausgestellt. Der Reeder hat sicherzustellen, dass dieser an Bord mitgeführt wird.
 
-
-## § 135 – Ermächtigung anerkannter Organisationen
+# § 135 – Ermächtigung anerkannter Organisationen
 
 (1) Die Berufsgenossenschaft kann nach der Verordnung (EG) Nr. 391/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen (ABl. L 131 vom 28.5.2009, S. 11, L 74 vom 22.3.2010, S. 1) in der jeweils geltenden Fassung anerkannte Organisationen zum Zweck der Mitwirkung an Überprüfungen und Besichtigungen von Schiffen im Zusammenhang mit den in diesem Gesetz vorgesehenen Zeugnissen ermächtigen (anerkannte Organisationen).
 
@@ -2140,8 +1999,7 @@ Der Reeder darf ein Schiff, das nicht unter § 130 Absatz 1 Satz 1 fällt und ke
 
 (5) Die Berufsgenossenschaft gibt die anerkannten Organisationen, die sie nach Absatz 1 ermächtigt hat oder deren Ermächtigung durch Kündigung der Vereinbarung beendet ist, im Bundesanzeiger und nachrichtlich auf ihrer Internetseite bekannt.
 
-
-## § 136 – Rechtsverordnungen
+# § 136 – Rechtsverordnungen
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über
 
@@ -2159,8 +2017,7 @@ sowie das jeweilige Verfahren zu erlassen.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über die näheren Einzelheiten der Voraussetzungen für die Ermächtigung einer anerkannten Organisation nach § 135 sowie das Verfahren zu erlassen.
 
-
-## § 137 – Anforderungen an Reeder eines Schiffes unter ausländischer Flagge
+# § 137 – Anforderungen an Reeder eines Schiffes unter ausländischer Flagge
 
 (1) Reeder und Kapitän eines Schiffes unter ausländischer Flagge haben jeweils sicherzustellen, dass die Arbeits- und Lebensbedingungen der Besatzungsmitglieder an Bord den Anforderungen der Artikel und der Regeln in Verbindung mit Teil A des Codes des Seearbeitsübereinkommens genügen.
 
@@ -2177,8 +2034,7 @@ sowie das jeweilige Verfahren zu erlassen.
 
 § 137 Abs. 2: IdF d. Art. 8 Nr. 17 G v. 25.11.2015 I 2095 mWv 3.12.2015
 
-
-## § 138 – Überprüfung von Schiffen unter ausländischer Flagge
+# § 138 – Überprüfung von Schiffen unter ausländischer Flagge
 
 (1) Die Überprüfung der Einhaltung der in § 137 Absatz 1 bezeichneten Anforderungen auf Schiffen unter ausländischer Flagge (Hafenstaatkontrolle im Sinne der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (ABl. L 131 vom 28.5.2009, S. 57), die durch die Richtlinie 2013/38/EU (ABl. L 218 vom 14.8.2013, S. 1) geändert worden ist) ist Aufgabe der Berufsgenossenschaft.
 
@@ -2213,8 +2069,7 @@ kann sie eine über die Prüfung des Seearbeitszeugnisses hinausgehende gründli
          Umsetzung der 
             EGRL 38/2004   (CELEX Nr: 304L0082) vgl. Bek v. 21.5.2014 I 605 +++) 
 
-
-## § 139 – Beschwerden auf Schiffen unter ausländischer Flagge
+# § 139 – Beschwerden auf Schiffen unter ausländischer Flagge
 
 (1) Das Besatzungsmitglied auf einem Schiff unter ausländischer Flagge, das einen inländischen Hafen anläuft oder den Nord-Ostsee-Kanal befährt, hat das Recht, sich über einen Verstoß gegen das Seearbeitsübereinkommen bei der Berufsgenossenschaft zu beschweren.
 
@@ -2230,29 +2085,25 @@ kann sie eine über die Prüfung des Seearbeitszeugnisses hinausgehende gründli
 
 (+++ § 139: Zur Anwendung vgl. § 154 Abs. 1 iVm Bek v. 21.5.2014 (SeeArbG§154AnwBek) I 605 mWv 16.8.2014 +++) (+++ Amtlicher Hinweis des Normgebers auf EG-Recht: Umsetzung der EGRL 38/2004 (CELEX Nr: 304L0082) vgl. Bek v. 21.5.2014 I 605 +++)
 
-
-## § 140 – Heimschaffung von Besatzungsmitgliedern auf Schiffen unter ausländischer Flagge
+# § 140 – Heimschaffung von Besatzungsmitgliedern auf Schiffen unter ausländischer Flagge
 
 Verzögert sich die Heimschaffung eines Besatzungsmitglieds auf einem Schiff unter ausländischer Flagge, das im Inland zurückgelassen worden ist, unterrichtet die Berufsgenossenschaft unverzüglich den konsularischen Vertreter des Flaggenstaates und des Staatsangehörigkeitsstaates oder des Aufenthaltsstaates des Besatzungsmitglieds. Sorgt die Berufsgenossenschaft für die Heimschaffung, hat sie die verauslagten Kosten beim Flaggenstaat einzufordern. Statt den Anspruch nach Satz 2 geltend zu machen, kann sie nach Maßgabe des Internationalen Übereinkommens vom 10. Mai 1952 zur Vereinheitlichung von Regeln über den Arrest in Seeschiffe (BGBl. 1972 II S. 655) Schiffe des Reeders festhalten, bis die verauslagten Kosten durch den Reeder erstattet worden sind.
 
 (+++ § 140: Zur Anwendung vgl. § 154 Abs. 1 iVm Bek v. 21.5.2014 (SeeArbG§154AnwBek) I 605 mWv 16.8.2014 +++) (+++ Amtlicher Hinweis des Normgebers auf EG-Recht: Umsetzung der EGRL 38/2004 (CELEX Nr: 304L0082) vgl. Bek v. 21.5.2014 I 605 +++)
 
-
-## § 141 – Medizinische Betreuung von Besatzungsmitgliedern auf Schiffen unter ausländischer Flagge
+# § 141 – Medizinische Betreuung von Besatzungsmitgliedern auf Schiffen unter ausländischer Flagge
 
 Bedarf ein erkranktes oder verletztes Besatzungsmitglied auf einem Schiff unter ausländischer Flagge, das einen inländischen Hafen anläuft oder den Nord-Ostsee-Kanal befährt, der unverzüglichen medizinischen Betreuung, hat die Berufsgenossenschaft, unbeschadet ausländerrechtlicher Vorschriften, für einen ungehinderten Zugang des Besatzungsmitglieds zu den medizinischen Einrichtungen an Land zu sorgen.
 
 (+++ § 141: Zur Anwendung vgl. § 154 Abs. 1 iVm Bek v. 21.5.2014 (SeeArbG§154AnwBek) I 605 mWv 16.8.2014 +++) (+++ Amtlicher Hinweis des Normgebers auf EG-Recht: Umsetzung der EGRL 38/2004 (CELEX Nr: 304L0082) vgl. Bek v. 21.5.2014 I 605 +++)
 
-
-## § 142 – Zuständigkeiten
+# § 142 – Zuständigkeiten
 
 (1) Neben den Zuständigkeiten nach den §§ 129 und 138 obliegt der Berufsgenossenschaft die Überwachung der Sozialeinrichtungen.
 
 (2) Die Zuständigkeiten anderer Stellen hinsichtlich der Berufsausbildung an Bord sowie der Ausstellung von Befähigungszeugnissen und -nachweisen bleiben unberührt.
 
-
-## § 143 – Eingriffsbefugnisse der Berufsgenossenschaft
+# § 143 – Eingriffsbefugnisse der Berufsgenossenschaft
 
 (1) Zum Zweck der Überwachung der Einhaltung der Arbeits- und Lebensbedingungen im Rahmen der Flaggenstaatkontrolle und der Hafenstaatkontrolle sind die Berufsgenossenschaft und die bei ihr beschäftigten Personen befugt,
 
@@ -2318,15 +2169,13 @@ im Übrigen bleiben die Vorschriften über Rücknahme und Widerruf von Verwaltun
 
 (+++ § 143: Zur Anwendung vgl. § 154 Abs. 1 +++)
 
-
-## § 144 – Fachaufsicht über die Berufsgenossenschaft
+# § 144 – Fachaufsicht über die Berufsgenossenschaft
 
 (1) Bei der Durchführung der Aufgaben nach den Abschnitten 1, 2 Unterabschnitt 1 und 4, den Abschnitten 3, 5 Unterabschnitt 1, Abschnitt 6 Unterabschnitt 1, 2, 4 und 5 und den Abschnitten 7, 11 und 12 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Arbeit und Soziales.
 
 (2) Bei der Durchführung der Aufgaben nach Abschnitt 2 Unterabschnitt 2 und 3, den Abschnitten 4, 5 Unterabschnitt 2, Abschnitt 6 Unterabschnitt 3 und den Abschnitten 8, 9 und 10 unterliegt die Berufsgenossenschaft der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
-
-## § 145 – Bußgeldvorschriften
+# § 145 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -2348,8 +2197,7 @@ im Übrigen bleiben die Vorschriften über Rücknahme und Widerruf von Verwaltun
 
 9. entgegen § 72 Absatz 1 Satz 1 ein Besatzungsmitglied im Ausland zurücklässt,
 
-9a.  
-entgegen § 76a Absatz 1 Satz 2 oder § 106a Absatz 1 Satz 2 einen Nachweis nicht oder nicht rechtzeitig erbringt,
+9a. entgegen § 76a Absatz 1 Satz 2 oder § 106a Absatz 1 Satz 2 einen Nachweis nicht oder nicht rechtzeitig erbringt,
 
 10. entgegen § 94 Satz 1 dem Besatzungsmitglied den Zugang zu einer dort genannten Kommunikationseinrichtung nicht gewährt,
 
@@ -2381,8 +2229,7 @@ zuwiderhandelt,
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Berufsgenossenschaft.
 
-
-## § 146 – Strafvorschriften
+# § 146 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 145 Absatz 1 Nummer 16 Buchstabe b bezeichnete vorsätzliche Handlung
 
@@ -2400,15 +2247,13 @@ zuwiderhandelt,
 
 3. eine in § 145 Absatz 1 Nummer 16 Buchstabe b bezeichnete vorsätzliche Handlung begeht und dadurch die betroffene Person in ihrer Arbeitskraft gefährdet.
 
-
-## § 147 – Rechtsmittel
+# § 147 – Rechtsmittel
 
 (1) Die Frist für den Einspruch gegen den Bußgeldbescheid gilt als gewahrt, wenn das betroffene Besatzungsmitglied den Einspruch innerhalb der Frist bei dem Kapitän schriftlich oder zur Niederschrift einlegt. Der Kapitän hat den Zeitpunkt der Einlegung unverzüglich in das Seetagebuch einzutragen und dem betroffenen Besatzungsmitglied darüber eine Bescheinigung auszustellen. Legt der Kapitän selbst den Einspruch ein, so obliegen seinem Stellvertreter (§ 5 Absatz 3) die Aufgaben nach den Sätzen 1 und 2. Die Niederschrift oder der schriftliche Einspruch ist unverzüglich der Behörde, die den Bußgeldbescheid erlassen hat, zu übersenden.
 
 (2) Für die Einlegung der Rechtsbeschwerde gilt Absatz 1 entsprechend.
 
-
-## § 148 – Selbständige
+# § 148 – Selbständige
 
 (1) Für Selbständige gilt in Abschnitt 3 über die Beschäftigungsbedingungen § 28 Absatz 1 Satz 1 mit der Maßgabe, dass anstelle des Heuervertrages der Vertrag mit dem Reeder tritt. § 28 Absatz 1 Satz 2 bis 5, Absatz 2 Nummer 1 bis 5, 7, 9, 10, 12 und 13, Absatz 3 Nummer 1 und 2 sowie § 29 Absatz 1 Satz 3 und 4 gelten mit der gleichen Maßgabe entsprechend.
 
@@ -2436,8 +2281,7 @@ nicht anzuwenden. Soweit nach den §§ 49 und 54 abweichende Regelungen über di
 
 (4) Der Reeder hat das Recht, sich die Kosten für die Heimschaffung, die Unterkunft und die Verpflegung für die Dauer des Aufenthaltes an Bord, die er ausgelegt hat, auf Grund einer vertraglichen Vereinbarung mit dem Selbständigen erstatten zu lassen.
 
-
-## § 149 – Gebühren
+# § 149 – Gebühren
 
 (1) Für Amtshandlungen, einschließlich Abnahmen, Prüfungen, Überprüfungen, Untersuchungen, Begutachtungen und Auditierungen (Amtshandlungen) nach diesem Gesetz oder nach Rechtsverordnungen auf Grund dieses Gesetzes erhebt die Berufsgenossenschaft Gebühren und Auslagen.
 
@@ -2445,25 +2289,21 @@ nicht anzuwenden. Soweit nach den §§ 49 und 54 abweichende Regelungen über di
 
 (3) Für Amtshandlungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
 
-
-## § 150 – Zurverfügungstellen von Gesetzen und Rechtsverordnungen, Einstellen von Kopien und Unterlagen in ein elektronisches Informationssystem
+# § 150 – Zurverfügungstellen von Gesetzen und Rechtsverordnungen, Einstellen von Kopien und Unterlagen in ein elektronisches Informationssystem
 
 (1) Die nach den Vorschriften der §§ 20, 55, 92, 96, 113 und 136 dieses Gesetzes erlassenen Rechtsverordnungen und das Gesetz über Ordnungswidrigkeiten muss der Reeder an Bord den Besatzungsmitgliedern zur Verfügung stellen. Das Zurverfügungstellen erfolgt durch Aushang oder Auslegung an geeigneter Stelle oder durch Einstellung in ein elektronisches Informationssystem, das für die Besatzungsmitglieder zugänglich ist.
 
 (2) Die nach § 29 Absatz 1 Satz 2, Absatz 2 und 3, § 76a Absatz 4 Satz 3, § 78 sowie § 106a Absatz 3 Satz 3 und § 130 Absatz 7 bestehenden Verpflichtungen erfüllt der Reeder auch, wenn er die aufgeführten Kopien und Unterlagen in ein elektronisches Informationssystem im Sinne des Absatzes 1 einstellt.
 
-
-## § 151 – Verkündung von Rechtsverordnungen
+# § 151 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 152 – Übergangsregelung für Schiffe mit Vermessung in Bruttoregistertonnen
+# § 152 – Übergangsregelung für Schiffe mit Vermessung in Bruttoregistertonnen
 
 Für Schiffe, die vor dem 18. Juli 1994 nach dem Übereinkommen vom 10. Juni 1947 über ein einheitliches System der Schiffsvermessung (BGBl. 1957 II S. 1469, 1471; 1958 II S. 67) vermessen wurden, gilt der im Internationalen Schiffsmessbrief (1969) in der Spalte „Bemerkungen“ eingetragene Bruttoraumgehalt in Bruttoregistertonnen als Bruttoraumzahl.
 
-
-## § 153 – Übergangsregelung für zugelassene Ärzte
+# § 153 – Übergangsregelung für zugelassene Ärzte
 
 Ärztinnen oder Ärzte, die am 1. August 2013 von der Berufsgenossenschaft mit der Durchführung der Untersuchung der Seediensttauglichkeit betraut sind, gelten vorläufig als nach § 16 Absatz 1 zugelassen. Die vorläufige Zulassung erlischt,
 
@@ -2473,7 +2313,6 @@ Für Schiffe, die vor dem 18. Juli 1994 nach dem Übereinkommen vom 10. Juni 194
 
 In der Rechtsverordnung nach § 20 Absatz 1 Satz 1 Nummer 4 können für Ärztinnen oder Ärzte im Sinne des Satzes 1 Erleichterungen hinsichtlich des Nachweises der Voraussetzungen für die Zulassung vorgesehen werden.
 
-
-## § 154 – Übergangsregelung für Seearbeitszeugnisse und Seearbeits-Konformitätserklärungen
+# § 154 – Übergangsregelung für Seearbeitszeugnisse und Seearbeits-Konformitätserklärungen
 
 Seearbeitszeugnisse und Seearbeits-Konformitätserklärungen, die vor dem 18. Januar 2017 erteilt wurden, behalten ihre Gültigkeit bis zur jeweils nächsten nach § 129 Absatz 2 Nummer 1 anstehenden Überprüfung, soweit der Reeder Bescheinigungen über die Versicherung oder die sonstige finanzielle Sicherheit nach § 76a Absatz 4 Satz 2 sowie § 106a Absatz 3 Satz 2 an Bord mitführt.

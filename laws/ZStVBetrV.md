@@ -1,27 +1,21 @@
-# [ZStVBetrV] Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters  (ZStVBetrV)
-
-Ausfertigungsdatum: 23.09.2005
-
+% Verordnung über den Betrieb des Zentralen Staatsanwaltschaftlichen Verfahrensregisters  (ZStVBetrV)
+% Ausfertigungsdatum: 23.09.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 494 Abs. 4 der Strafprozessordnung in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), der zuletzt durch Artikel 2 Nr. 6 des Gesetzes vom 10. September 2004 (BGBl. I S. 2318) geändert worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Register
+# § 1 – Register
 
 (1) Das Register nach den §§ 492 bis 495 der Strafprozessordnung wird bei dem Bundesamt für Justiz (Registerbehörde) unter der Bezeichnung "Zentrales Staatsanwaltschaftliches Verfahrensregister" geführt.
 
 (2) Eine Erhebung oder Verwendung personenbezogener Daten im Auftrag durch andere Stellen ist unzulässig.
 
-
-## § 2 – Inhalt und Zweck des Registers
+# § 2 – Inhalt und Zweck des Registers
 
 In dem Register werden die in § 4 bezeichneten Daten zu in der Bundesrepublik Deutschland geführten Strafverfahren einschließlich steuerstrafrechtlicher Verfahren zu dem Zweck gespeichert, die Durchführung von Strafverfahren effektiver zu gestalten, insbesondere die Ermittlung überörtlich handelnder Täter und Mehrfachtäter zu erleichtern, das frühzeitige Erkennen von Tat- und Täterverbindungen zu ermöglichen und gebotene Verfahrenskonzentrationen zu fördern.
 
-
-## § 3 – Übermittlung von Daten an das Register
+# § 3 – Übermittlung von Daten an das Register
 
 (1) Die Staatsanwaltschaften und die diesen in steuerstrafrechtlichen Angelegenheiten nach § 386 Abs. 2 und § 399 der Abgabenordnung gleichgestellten Finanzbehörden (mitteilende Stellen) übermitteln, sobald ein Strafverfahren bei ihnen anhängig wird, die in § 4 bezeichneten Daten in einer den Regelungen nach § 10 Abs. 1 entsprechenden standardisierten Form im Wege der Datenfernübertragung an die Registerbehörde. Unrichtigkeiten und Änderungen der Daten sind der Registerbehörde unverzüglich mitzuteilen; dies gilt auch für Verfahrensabgaben, -übernahmen, -verbindungen und -abtrennungen.
 
@@ -29,8 +23,7 @@ In dem Register werden die in § 4 bezeichneten Daten zu in der Bundesrepublik D
 
 (3) Die Übermittlung kann vorübergehend zurückgestellt werden, wenn eine Gefährdung des Untersuchungszwecks zu besorgen ist und diese Gefährdung auf andere Weise, insbesondere durch eine Maßgabe nach Absatz 2, nicht abgewendet werden kann. Die Gründe für eine Zurückstellung der Übermittlung sind zu dokumentieren.
 
-
-## § 4 – Zu speichernde Daten
+# § 4 – Zu speichernde Daten
 
 (1) Es werden die folgenden Identifizierungsdaten der beschuldigten Person gespeichert:
 
@@ -96,13 +89,11 @@ Die Angaben nach Satz 1 Nr. 3 und 4 können unter Verwendung eines Straftatensch
 
 (5) Andere als die in den Absätzen 1 bis 4 genannten Daten werden in dem Register nicht gespeichert.
 
-
-## § 5 – Berichtigung, Löschung und Einschränkung der Verarbeitung
+# § 5 – Berichtigung, Löschung und Einschränkung der Verarbeitung
 
 Die Berichtigung, Löschung und Einschränkung der Verarbeitung der gespeicherten Daten bestimmen sich nach § 494 Absatz 1 bis 3 der Strafprozessordnung.
 
-
-## § 6 – Auskunft an Behörden
+# § 6 – Auskunft an Behörden
 
 (1) Auf Ersuchen erhalten Auskunft über die in § 4 genannten Daten
 
@@ -116,17 +107,13 @@ Die Berichtigung, Löschung und Einschränkung der Verarbeitung der gespeicherte
 
 5. die Waffenbehörden nach Maßgabe des § 492 Abs. 3 Satz 3 der Strafprozessordnung und des § 5 Abs. 5 Satz 1 Nr. 2 und Satz 2 des Waffengesetzes,
 
-5a.  
-die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 8a Absatz 5 Satz 1 Nummer 2 und Satz 3 des Sprengstoffgesetzes,
+5a. die Sprengstoffbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 8a Absatz 5 Satz 1 Nummer 2 und Satz 3 des Sprengstoffgesetzes,
 
-5b.  
-die an Sicherheitsüberprüfungen mitwirkenden Behörde nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes,
+5b. die an Sicherheitsüberprüfungen mitwirkenden Behörde nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 12 Absatz 1 Nummer 2 des Sicherheitsüberprüfungsgesetzes,
 
-5c.  
-die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 31 Absatz 4a des Geldwäschegesetzes,
+5c. die Zentralstelle für Finanztransaktionsuntersuchungen nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 31 Absatz 4a des Geldwäschegesetzes,
 
-5d.  
-die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes,
+5d. die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 7 Absatz 3 Satz 1 Nummer 3 des Luftsicherheitsgesetzes,
 
 6. das nationale Mitglied von Eurojust nach § 5 Absatz 1 Nummer 2 des Eurojust-Gesetzes.
 
@@ -142,15 +129,13 @@ die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafp
 
 (4) Auskunft wird nicht erteilt, soweit eine Maßgabe nach § 3 Abs. 2 entgegensteht.
 
-
-## § 7 – Automatisiertes Anfrage- und Auskunftsverfahren; automatisiertes Abrufverfahren
+# § 7 – Automatisiertes Anfrage- und Auskunftsverfahren; automatisiertes Abrufverfahren
 
 (1) Auskunftsersuchen und Auskünfte werden im Wege eines automatisierten Anfrage- und Auskunftsverfahrens übermittelt. Die Registerbehörde kann Maßnahmen zur Einführung eines automatisierten Abrufverfahrens treffen.
 
 (2) Bei Störung der technischen Einrichtungen für automatisierte Übermittlungen und bei außergewöhnlicher Dringlichkeit können Auskunftsersuchen und Auskünfte auch mittels Telefon oder Telefax übermittelt werden. Hierbei hat die Registerbehörde sicherzustellen, dass die Mitteilung der Auskunft an die ersuchende Stelle erfolgt.
 
-
-## § 8 – Auskunft bei Anfragen mit ähnlichen oder unvollständigen Angaben
+# § 8 – Auskunft bei Anfragen mit ähnlichen oder unvollständigen Angaben
 
 (1) Auf Ersuchen mit nicht eindeutig zuordenbaren oder unvollständigen Identifizierungsdatensätzen übermittelt die Registerbehörde an die ersuchende Stelle für Zwecke der Identitätsprüfung die in § 4 Abs. 1, 2 Satz 1 Nr. 1 und 2 sowie Abs. 3 bezeichneten Daten von bis zu 20 unter ähnlichen Identifizierungsdaten gespeicherten Personen. Satz 1 gilt entsprechend, wenn Anfragedatensätze zwar eindeutig zugeordnet werden können, aber auch Eintragungen unter ähnlichen Identifizierungsdaten vorhanden sind. Die Registerbehörde teilt ferner mit, wie viele weitere Datensätze zu Personen mit ähnlichen Identifizierungsdaten vorhanden sind.
 
@@ -160,8 +145,7 @@ die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafp
 
 (4) Ist eine Identifizierung auch anhand der nach Absatz 3 mitgeteilten Datensätze nicht möglich, kann die ersuchende Stelle der Registerbehörde weitere Folgeersuchen übermitteln, wenn dies für Zwecke eines Strafverfahrens erforderlich ist, das eine Straftat von erheblicher Bedeutung zum Gegenstand hat. Für die weiteren Folgeersuchen gelten die Absätze 1 und 2 entsprechend mit der Maßgabe, dass von der Registerbehörde jeweils die Daten von bis zu 50 weiteren unter ähnlichen Identifizierungsdaten gespeicherten Personen übermittelt werden.
 
-
-## § 9 – Auskunft an betroffene Personen
+# § 9 – Auskunft an betroffene Personen
 
 (1) Für den Auskunftsanspruch betroffener Personen gilt § 57 des Bundesdatenschutzgesetzes.
 
@@ -169,19 +153,16 @@ die Luftsicherheitsbehörden nach Maßgabe des § 492 Absatz 3 Satz 3 der Strafp
 
 (3) Wird gemäß § 57 Absatz 4 des Bundesdatenschutzgesetzes von der Auskunft abgesehen, so wird dem Antragsteller mitgeteilt, dass keine Daten verarbeitet werden, über die Auskunft erteilt werden kann. Der Antragsteller ist unabhängig davon, ob Verfahren gegen ihn geführt werden, auf diese Regelung und auf die Rechtsschutzmöglichkeit des § 57 Absatz 7 Satz 2 des Bundesdatenschutzgesetzes hinzuweisen.
 
-
-## § 10 – Organisatorische und technische Leitlinien und Maßnahmen
+# § 10 – Organisatorische und technische Leitlinien und Maßnahmen
 
 (1) Die Registerbehörde regelt die organisatorischen und technischen Einzelheiten im Einvernehmen mit den obersten Justiz-, Innen- und Finanzbehörden des Bundes und der Länder sowie unter Beteiligung des Bundesbeauftragten für den Datenschutz und des Bundesamtes für Sicherheit in der Informationstechnik. Insbesondere sind die Kommunikation zwischen den mitteilenden und auskunftsberechtigten Stellen und der Registerbehörde, der Aufbau der Datensätze und der Datenstruktur, die Kriterien zur Feststellung gleicher Identifizierungsdaten und die Beantwortung von Anfragen mit ähnlichen oder unvollständigen Angaben zu regeln.
 
 (2) Die Registerbehörde trifft die erforderlichen und angemessenen Maßnahmen, um die Verfügbarkeit, Integrität, Authentizität und Vertraulichkeit der im Register gespeicherten Daten entsprechend dem jeweiligen Stand der Technik sicherzustellen. Dabei ist die besondere Schutzbedürftigkeit der im Register gespeicherten Daten zu berücksichtigen. Die Organisation innerhalb der Registerbehörde ist so zu gestalten, dass sie den Grundsätzen der Aufgabentrennung und der Beschränkung des Zugangs zu personenbezogenen Daten auf das zur Aufgabenerfüllung Erforderliche entspricht.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am ersten Tag des neunten auf die Verkündung folgenden Kalendermonats in Kraft. Gleichzeitig tritt die Allgemeine Verwaltungsvorschrift über eine Errichtungsanordnung für das länderübergreifende staatsanwaltschaftliche Verfahrensregister vom 7. August 1995 (BAnz. S. 9761) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

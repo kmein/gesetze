@@ -1,10 +1,7 @@
-# [SpaEfV] Verordnung über Systeme zur Verbesserung der Energieeffizienz im Zusammenhang mit der Entlastung von der Energie- und der Stromsteuer in Sonderfällen  (Spitzenausgleich-Effizienzsystemverordnung - SpaEfV)
-
-Ausfertigungsdatum: 31.07.2013
-
+% Verordnung über Systeme zur Verbesserung der Energieeffizienz im Zusammenhang mit der Entlastung von der Energie- und der Stromsteuer in Sonderfällen  (Spitzenausgleich-Effizienzsystemverordnung - SpaEfV)
+% Ausfertigungsdatum: 31.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,11 +13,9 @@ des § 12 Absatz 1, 2 Nummer 1, 2, 4 und Absatz 3 des Stromsteuergesetzes, der d
 
 verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck, Anwendungsbereich
+# § 1 – Zweck, Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -34,8 +29,7 @@ b) eines alternativen Systems zur Verbesserung der Energieeffizienz nach § 3 so
 
 3. Vorgaben für die Nachweisführung durch die in § 55 Absatz 8 des Energiesteuergesetzes und in § 10 Absatz 7 des Stromsteuergesetzes genannten Stellen sowie deren Überwachung und Kontrolle.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung ist
 
@@ -61,8 +55,7 @@ b) eines alternativen Systems zur Verbesserung der Energieeffizienz nach § 3 so
 
 (2) Die DIN EN ISO- und DIN EN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth Verlag, Berlin, erschienen und bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 
-
-## § 3 – Alternative Systeme zur Verbesserung der Energieeffizienz für kleine und mittlere Unternehmen
+# § 3 – Alternative Systeme zur Verbesserung der Energieeffizienz für kleine und mittlere Unternehmen
 
 Als alternative Systeme zur Verbesserung der Energieeffizienz für kleine und mittlere Unternehmen (§ 55 Absatz 4 Satz 2 des Energiesteuergesetzes und § 10 Absatz 3 Satz 2 des Stromsteuergesetzes) gelten folgende Systeme:
 
@@ -70,8 +63,7 @@ Als alternative Systeme zur Verbesserung der Energieeffizienz für kleine und mi
 
 2. ein alternatives System gemäß der Anlage 2 dieser Verordnung.
 
-
-## § 4 – Nachweisführung im Regelverfahren
+# § 4 – Nachweisführung im Regelverfahren
 
 (1) Voraussetzung für die Nachweisführung über den Betrieb eines Energiemanagementsystems nach § 55 Absatz 4 Satz 1 Nummer 1 Buchstabe a des Energiesteuergesetzes und § 10 Absatz 3 Satz 1 Nummer 1 Buchstabe a des Stromsteuergesetzes ist:
 
@@ -107,11 +99,9 @@ betrieben werden. In diesen Fällen können einzelne Unternehmensteile oder Stan
 
 (6) Ein Nachweis über das Vorliegen der Voraussetzungen nach den Absätzen 1 bis 5 erfolgt jeweils für ein Antragsjahr und ist von einer der in § 55 Absatz 8 des Energiesteuergesetzes und in § 10 Absatz 7 des Stromsteuergesetzes genannten Stellen nach amtlich vorgeschriebenem Vordruck der Bundesfinanzbehörden schriftlich auszustellen. Der Nachweis ist dem zuständigen Hauptzollamt von dem Unternehmen zusammen mit dem Antrag nach § 101 der Energiesteuer-Durchführungsverordnung oder nach § 19 der Stromsteuer-Durchführungsverordnung vorzulegen. Im Falle eines Nachweises im Rahmen des Verfahrens nach der Verordnung (EG) Nr. 1221/2009 (EMAS-Verfahren) ist ein Nachweis nach Satz 1 durch Umweltgutachter oder Umweltgutachterorganisationen auszustellen; § 18 des Umweltauditgesetzes gilt entsprechend. Sofern ein Nachweis nach dem EMAS-Verfahren das gesamte Unternehmen abdeckt, kann der Nachweis nach Satz 1 unter den Voraussetzungen des Absatzes 2 auch durch die EMAS-Registrierungsstelle ausgestellt werden. Nachweise von Konformitätsbewertungsstellen, die akkreditiert wurden von einer nationalen Akkreditierungsstelle im Sinne des § 1b Absatz 7 Nummer 2 der Energiesteuer-Durchführungsverordnung oder des § 18 Absatz 2 Nummer 2 der Stromsteuer-Durchführungsverordnung im Einklang mit der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung für die Zertifizierung von Energiemanagementsystemen nach der DIN EN ISO 50001 werden anerkannt, sofern dem zuständigen Hauptzollamt eine Kopie der entsprechenden Akkreditierungsurkunde vorgelegt wird.
 
+# § 5 – (weggefallen)
 
-## § 5 – (weggefallen)
-
-
-## § 6 – Überwachung und Kontrolle
+# § 6 – Überwachung und Kontrolle
 
 (1) Die Tätigkeit der Umweltgutachter und Umweltgutachterorganisationen oder der Konformitätsbewertungsstellen wird im Rahmen dieser Verordnung von der zuständigen Stelle überwacht und kontrolliert. Zuständige Stelle im Sinne dieser Verordnung ist
 
@@ -131,8 +121,7 @@ betrieben werden. In diesen Fällen können einzelne Unternehmensteile oder Stan
 
 (4) Die Vorschriften des Umweltauditgesetzes und des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625), das zuletzt durch Artikel 2 Absatz 80 des Gesetzes vom 22. Dezember 2012 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung sowie der auf der Grundlage dieser Gesetze erlassenen Verordnungen bleiben unberührt.
 
-
-## § 7 – Datenübermittlung
+# § 7 – Datenübermittlung
 
 (1) Soweit dies für die Kontrolle und Überwachung der im Bereich der Durchführung dieser Verordnung tätigen Umweltgutachter und Umweltgutachterorganisationen oder Konformitätsbewertungsstellen erforderlich ist, darf die zuständige Stelle nach § 6 Absatz 1 Satz 2 folgende Daten an die Bundesfinanzbehörden übermitteln:
 
@@ -146,8 +135,7 @@ betrieben werden. In diesen Fällen können einzelne Unternehmensteile oder Stan
 
 (4) Die bei den Bundesfinanzbehörden gespeicherten Daten sind zu löschen, wenn sie zur Erfüllung der Aufgaben im Steuerverfahren nicht mehr erforderlich sind, spätestens jedoch nach Ablauf der Festsetzungsfrist nach § 169 der Abgabenordnung.
 
-
-## § 8 – Berichtspflicht der zuständigen Stelle
+# § 8 – Berichtspflicht der zuständigen Stelle
 
 Die zuständige Stelle legt dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie dem Bundesministerium der Finanzen jeweils jährlich einen Bericht über die nach § 6 Absatz 1 und 2 durchgeführten Überwachungs- und Kontrollmaßnahmen vor. Der Berichtspflicht kann nachgekommen werden im Rahmen
 
@@ -157,18 +145,15 @@ Die zuständige Stelle legt dem Bundesministerium für Wirtschaft und Energie, d
 
 § 9 des Akkreditierungsstellengesetzes und § 29 des Umweltauditgesetzes bleiben unberührt.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig entgegen § 4 Absatz 6 Satz 1 oder § 5 Absatz 5 Satz 1 einen dort genannten Nachweis nicht richtig ausstellt oder nicht richtig bestätigt.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 3 Nummer 1)Inhaltliche Anforderungen an einen Energieaudit-Bericht entsprechend DIN EN 16247-1
+# Anlage 1 – (zu § 3 Nummer 1)Inhaltliche Anforderungen an einen Energieaudit-Bericht entsprechend DIN EN 16247-1
 
 (Fundstelle: BGBl. I 2013, 2863)
 
@@ -228,8 +213,7 @@ f) Mess- und Nachweisverfahren, die für eine Abschätzung der Einsparungen nach
 
 5. Schlussfolgerungen.
 
-
-## Anlage 2 – (zu § 3 Nummer 2)Alternatives System
+# Anlage 2 – (zu § 3 Nummer 2)Alternatives System
 
 (Fundstelle: BGBl. I 2013, 2864)
 

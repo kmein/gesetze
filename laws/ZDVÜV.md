@@ -1,15 +1,11 @@
-# [ZDVÜV] Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende nach Herstellung der Einheit Deutschlands  (Zivildienstversorgungs-Übergangsverordnung - ZDVÜV)
-
-Ausfertigungsdatum: 18.12.1991
-
+% Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende nach Herstellung der Einheit Deutschlands  (Zivildienstversorgungs-Übergangsverordnung - ZDVÜV)
+% Ausfertigungsdatum: 18.12.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a des Zivildienstgesetzes, der durch Anlage I Kapitel X Sachgebiet C Abschnitt II des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1074) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften des Zivildienstgesetzes über die Beschädigtenversorgung sowie die Allgemeine Anordnung über die Vertretung der Bundesrepublik Deutschland vor den Gerichten der Sozialgerichtsbarkeit im Bereich des Zivildienstes vom 14. Dezember 1982 (BGBl. I S. 2065) sind anzuwenden auf
 
@@ -21,8 +17,7 @@ Die Vorschriften des Zivildienstgesetzes über die Beschädigtenversorgung sowie
 
 4. Hinterbliebene der in den Nummern 1 bis 3 genannten Personen.
 
-
-## § 2 – Höhe der Leistungen
+# § 2 – Höhe der Leistungen
 
 Die Vorschriften des Zivildienstgesetzes über die Beschädigtenversorgung sind mit folgenden Maßgaben anzuwenden:
 
@@ -34,12 +29,10 @@ Die Vorschriften des Zivildienstgesetzes über die Beschädigtenversorgung sind 
 
 4. Ist die Zivildienstbeschädigung im Sinne des Zivildienstgesetzes zugleich eine Dienstbeschädigung im Sinne des fortgeltenden Rechts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet, besteht ein Anspruch auf Beschädigtenversorgung nur nach dem Zivildienstgesetz.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 3. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

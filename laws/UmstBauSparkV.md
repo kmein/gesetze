@@ -1,15 +1,11 @@
-# [UmstBauSparkV] Verordnung über die Umstellungsrechnung der Bausparkassen aus Anlaß der Neuordnung des Geldwesens
-
-Ausfertigungsdatum: 16.07.1959
-
+% Verordnung über die Umstellungsrechnung der Bausparkassen aus Anlaß der Neuordnung des Geldwesens
+% Ausfertigungsdatum: 16.07.1959
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens und über die Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S. 127) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Allgemeine Vorschriften für den Ansatz der Aktiven und der Passiven
+# § 1 – Allgemeine Vorschriften für den Ansatz der Aktiven und der Passiven
 
 (1) Für die Umstellungsrechnung von Bausparkassen, die eine Ausgleichsforderung in Anspruch nehmen, sind die für die Aktiven vorgeschriebenen Wertansätze Mindestwerte und die für die Passiven zugelassenen Wertansätze Höchstwerte.
 
@@ -19,13 +15,11 @@ Auf Grund des § 1 des Gesetzes über den Erlaß von Rechtsverordnungen auf dem 
 
 (4) Als Ausgleichsforderungen im Sinne der Absätze 1 bis 3 gelten nicht Sonderausgleichsforderungen gemäß § 2 der Fünfundvierzigsten Durchführungsverordnung zum Umstellungsgesetz sowie Ausgleichsforderungen, die nicht auf § 3 Abs. 1 der Bausparkassenverordnung beruhen.
 
-
-## § 2 – Rückbezüglichkeit später eintretender Umstände
+# § 2 – Rückbezüglichkeit später eintretender Umstände
 
 Waren die für die Bewertung von Aktiven oder Passiven maßgebenden Verhältnisse am 21. Juni 1948 nicht oder nicht zuverlässig übersehbar, haben sie sich aber später geklärt, so ist dies auch dann zu berücksichtigen, wenn die tatsächlichen oder rechtlichen Umstände, die zur Klärung geführt haben, erst nach dem 21. Juni 1948 eingetreten sind.
 
-
-## § 3 – Gebietsmäßige Abgrenzung
+# § 3 – Gebietsmäßige Abgrenzung
 
 (1) Hängt die Verpflichtung, einen Vermögensgegenstand in die Umstellungsrechnung einzustellen, davon ab, ob dieser am 21. Juni 1948 im Bundesgebiet belegen war, so gelten als dort belegen
 
@@ -35,20 +29,17 @@ Waren die für die Bewertung von Aktiven oder Passiven maßgebenden Verhältniss
 
 (2) Hängt die Verpflichtung, einen Vermögensgegenstand in die Umstellungsrechnung einzustellen, davon ab, ob dieser am 21. Juni 1948 in einem anderen Gebiet belegen war, so gilt Absatz 1 sinngemäß.
 
-
-## § 4 – Nichtbewertungsfähige Vermögensgegenstände
+# § 4 – Nichtbewertungsfähige Vermögensgegenstände
 
 Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist er mit dem Betrag anzusetzen, bis zu dem eine zuverlässige Bewertung möglich ist. Solange eine Bewertung überhaupt nicht möglich ist, ist er mit einem Merkposten von einer Deutschen Mark anzusetzen. Mehrere Vermögensgegenstände derselben Art können zu einem Merkposten von einer Deutschen Mark zusammengefaßt werden.
 
-
-## § 5 – Verfügungsbeschränkungen
+# § 5 – Verfügungsbeschränkungen
 
 (1) Ist eine Bausparkasse in der Verfügung über einen Vermögensgegenstand in der Weise beschränkt, daß sie über ihn nur mit Genehmigung einer Behörde oder mit Zustimmung eines Dritten verfügen kann, so rechtfertigt eine solche Verfügungsbeschränkung für sich allein noch keine Minderbewertung dieses Vermögensgegenstandes.
 
 (2) Ist einer Bausparkasse die Verfügungsgewalt über einen Vermögensgegenstand entzogen worden, so braucht sie diesen bis zu seiner Freigabe nur mit einem Merkposten anzusetzen. Wird der Vermögensgegenstand freigegeben, so ist er mit dem ihm zukommenden Wert anzusetzen. Erlangt die Bausparkasse für einen ihr entzogenen Vermögensgegenstand einen anderen Vermögensgegenstand, so gilt Satz 2 entsprechend.
 
-
-## § 6 – Wertpapiere und unverbriefte Anteilsrechte an Kapitalgesellschaften
+# § 6 – Wertpapiere und unverbriefte Anteilsrechte an Kapitalgesellschaften
 
 (1) Wertpapiere, für die ein Steuerkurswert auf den 31. Dezember 1948 festgesetzt worden ist, sind,
 
@@ -77,13 +68,11 @@ Solange ein Vermögensgegenstand nicht genau bewertet werden kann, ist er mit de
 § 6 Abs. 8 Kursivdruck "§ 60": Vgl. jetzt § 102 Bewertungsgesetz 610-7  
 § 6 Abs. 9 Kursivdruck: Vgl. jetzt § 11 Abs. 3 Bewertungsgesetz 610-7
 
-
-## § 7 – Grundstücke
+# § 7 – Grundstücke
 
 Grundstücke im Bundesgebiet und in Berlin (West) sind mit einer Deutschen Mark für je eine Reichsmark des zuletzt vor dem 21. Juni 1948 festgesetzten Einheitswertes anzusetzen. Wertfortschreibungen nach dem 20. Juni 1948 sind insoweit zu berücksichtigen, als sie im Hinblick auf die Verhältnisse des Grundstücks vorgenommen wurden oder werden, die am 21. Juni 1948 bestanden haben.
 
-
-## § 8 – Einrichtungsgegenstände
+# § 8 – Einrichtungsgegenstände
 
 (1) Einrichtungsgegenstände sind
 
@@ -97,8 +86,7 @@ unter Berücksichtigung der Restnutzungsdauer im Verhältnis zur bisherigen Nutz
 
 (3) Bei dem Ansatz der Einrichtungsgegenstände nach Absatz 2 sind festeingebaute Tresoranlagen, Stahl- und Panzerkammern (Betonverstärkungen der Decken, Wände und Böden, Stahlbewehrungen, Panzer- und Gittertüren) nicht zu berücksichtigen. Soweit sie nicht bei der Festsetzung des Einheitswertes des Grundstücks berücksichtigt sind, sind sie nach Absatz 1 anzusetzen.
 
-
-## § 9 – Unterverzinsliche Forderungen
+# § 9 – Unterverzinsliche Forderungen
 
 (1) Ist eine befristete Forderung unterverzinslich, so braucht sie nur mit einem unter dem Nennbetrage liegenden Wert angesetzt zu werden.
 
@@ -108,20 +96,17 @@ unter Berücksichtigung der Restnutzungsdauer im Verhältnis zur bisherigen Nutz
 
 (4) Der Minderwert einer unterverzinslichen Forderung ist zu errechnen als Gegenwartswert der Beträge, um die das Zinssoll bis zu den jeweiligen Fälligkeitsterminen hinter der Verzinsung von 3,5 vom Hundert zurückbleibt. Der Gegenwartswert ist unter Zugrundelegung eines Zinssatzes von 3,5 vom Hundert zu errechnen.
 
-
-## § 10 – Ausstehende Kapitaleinlagen
+# § 10 – Ausstehende Kapitaleinlagen
 
 Eine Verpflichtung zur Leistung von ausstehenden Kapitaleinlagen oder von Nachschüssen darf nur insoweit berücksichtigt werden, als sie am 21. Juni 1948 zum Ausgleich einer Überschuldung diente oder für eingezogene Anteile bestand.
 
-
-## § 11 – Rückstellungen
+# § 11 – Rückstellungen
 
 (1) Rückstellungen dürfen gebildet werden, soweit der Grund für eine Verbindlichkeit, deren Höhe am 21. Juni 1948 noch nicht feststand, bereits am 21. Juni 1948 gegeben war.
 
 (2) Rückstellungen dürfen auch für die Kosten einer zweckentsprechenden Rechtsverteidigung wegen einer Verbindlichkeit gebildet werden, die in die Umstellungsrechnung einzustellen wäre. Das gleiche gilt für die Kosten einer nicht mutwilligen oder einer auf Veranlassung der Aufsichtsbehörde durchgeführten Rechtsverfolgung wegen eines Vermögenswertes, der in die Umstellungsrechnung einzustellen wäre.
 
-
-## § 12 – Pensionsrückstellungen
+# § 12 – Pensionsrückstellungen
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung gebildet werden, wenn der Begünstigte am 21. Juni 1948 einen Rechtsanspruch auf eine Versorgungsleistung hatte oder die Bausparkasse einem Dritten gegenüber zur Erstattung von Versorgungsleistungen verpflichtet war, gleichviel ob ein derartiger Rechtsanspruch auf Gesetz, Besoldungsordnung, Tarifvertrag, Betriebsvereinbarung, Arbeitsvertrag, längerer betrieblicher Übung oder einem sonstigen Rechtsgrund beruht.
 
@@ -143,8 +128,7 @@ Eine Verpflichtung zur Leistung von ausstehenden Kapitaleinlagen oder von Nachsc
 
 2. zu der im Endzeitpunkt der vorgesehenen Steigerungen oder Minderungen bestehenden Anwartschaft
 
-steht.  
-Entsprechend dem sich aus diesen beiden Verhältniszahlen ergebenden arithmetischen Mittel ist die Rückstellung, die sich ohne Berücksichtigung der Achtunddreißigsten Durchführungsverordnung zum Umstellungsgesetz ergeben würde, zu mindern.
+steht. Entsprechend dem sich aus diesen beiden Verhältniszahlen ergebenden arithmetischen Mittel ist die Rückstellung, die sich ohne Berücksichtigung der Achtunddreißigsten Durchführungsverordnung zum Umstellungsgesetz ergeben würde, zu mindern.
 
 (7) Bei den einzelnen Arten von laufenden Pensionen und Anwartschaften (Alters- und Invaliditätsrenten, Witwenrente, Waisenrente) ist das Verfahren nach den Absätzen 4 bis 6 gesondert anzuwenden.
 
@@ -170,8 +154,7 @@ c) daß von der ohne Berücksichtigung des Gesetzes vom 19. März 1963 berechnet
 
 (13) Hat die Bausparkasse sich wegen einer Pensionsverpflichtung durch einen Versicherungsvertrag in der Weise rückgedeckt, daß aus dem Versicherungsvertrag nur die Bausparkasse anspruchsberechtigt ist, während die Ansprüche des Versorgungsberechtigten sich ausschließlich gegen die Bausparkasse richten, so darf die Bausparkasse wegen ihrer Verpflichtung gegenüber dem Versorgungsberechtigten eine Rückstellung nach den Absätzen 3 bis 7 und 10 bis 12 bilden. Dabei hat sie ihren Anspruch aus dem Versicherungsvertrag als Aktivposten in die Umstellungsrechnung einzustellen, und zwar mit dem Betrage der Prämienreserve bei dem Versicherungsunternehmen, bei dem sie sich rückgedeckt hat, auf den 21. Juni 1948 zuzüglich der mit jährlich 3,5 vom Hundert auf den 21. Juni 1948 abgezinsten Erhöhungen der Prämienreserve bei dem Versicherungsunternehmen, auf den 1. April 1951 gemäß § 5 des Rentenaufbesserungsgesetzes, auf den 1. Januar 1957 gemäß § 3 des Gesetzes zur Aufbesserung von Leistungen aus Renten- und Pensionsversicherungen sowie aus Kapitalzwangsversicherungen vom 24. Dezember 1956 und auf den 1. Juli 1962 gemäß § 3 des Gesetzes zur weiteren Aufbesserung von Leistungen aus Renten- und Pensionsversicherungen sowie aus Kapitalzwangsversicherungen vom 19. März 1963.
 
-
-## § 13 – Rückstellungen für Verpflichtungen auf Grund des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
+# § 13 – Rückstellungen für Verpflichtungen auf Grund des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
 
 (1) Für Verpflichtungen
 
@@ -199,37 +182,31 @@ die eine Bausparkasse auf Grund der §§ 63, 82 des Gesetzes zu Artikel 131 des 
 
 (4) Soweit Verpflichtungen im Sinne des Absatzes 1 sich aus dem in Berlin (West) ergangenen Gesetz zur Regelung der Rechtsverhältnisse von Personen, die am 8. Mai 1945 im öffentlichen Dienst standen oder versorgungsberechtigt waren, ergeben, tritt an die Stelle des 1. April 1951 der 1. Oktober 1951.
 
-
-## § 14 – Rückerstattungs- und Wiedergutmachungsverbindlichkeiten
+# § 14 – Rückerstattungs- und Wiedergutmachungsverbindlichkeiten
 
 Rückerstattungs- und Wiedergutmachungsverbindlichkeiten dürfen erst berücksichtigt werden, wenn ihr Umfang durch Entscheidung oder Vergleich festgestellt ist.
 
-
-## § 15 – Forderungen und Verbindlichkeiten in ausländischer Währung
+# § 15 – Forderungen und Verbindlichkeiten in ausländischer Währung
 
 (1) Für die Umrechnung des Nennbetrages von Forderungen und Verbindlichkeiten in ausländischer Währung in Deutsche Mark gilt die anliegende Tabelle.
 
 (2) Ist eine Forderung oder eine Verbindlichkeit vor dem Inkrafttreten dieser Verordnung erfüllt worden, so ist sie zum Erfüllungskurs in Deutsche Mark umzurechnen. Der Erfüllung einer Forderung oder Verbindlichkeit steht ihre Umwandlung in eine auf Deutsche Mark lautende Forderung oder Verbindlichkeit gleich.
 
-
-## § 16 – Geldwertschuldverhältnisse
+# § 16 – Geldwertschuldverhältnisse
 
 (1) Für Forderungen und Verbindlichkeiten, die nicht auf einen bestimmten Geldbetrag lauten, sondern nach dem Inhalt des Schuldverhältnisses in deutscher Währung in Höhe des Wertes einer bestimmten Menge von Edelmetallen, Waren, Wertpapieren oder ausländischen Zahlungsmitteln oder von Sach- und Dienstleistungen zu erfüllen sind, ist der Wert anzusetzen, der diesen Gegenständen oder Leistungen als Aktivposten in der Umstellungsrechnung beizulegen wäre.
 
 (2) Absatz 1 findet keine Anwendung, wenn der Wert einer bestimmten Menge Feingold geschuldet wird. In diesem Falle ist der Betrag in Deutscher Mark anzusetzen, der sich nach den Vorschriften des Umstellungsgesetzes für den durch den Preis von 2.790 Reichsmark für ein Kilogramm Feingold bestimmten Reichsmarkbetrag ergibt.
 
-
-## § 17 – Durchlaufende Kredite
+# § 17 – Durchlaufende Kredite
 
 Durchlaufende Kredite aus Treuhandgeschäften sind auf der Aktivseite und auf der Passivseite mit dem gleichen Betrage anzusetzen und bei der Berechnung des vorläufigen Eigenkapitals nach § 4 Abs. 1 A d Satz 2 der Bausparkassenverordnung in der Fassung des § 1 Nr. 2 der Vierundvierzigsten Durchführungsverordnung zum Umstellungsgesetz von den Verbindlichkeiten abzusetzen.
 
-
-## § 18 – Wertberichtigungen
+# § 18 – Wertberichtigungen
 
 Falls eine Forderung mit einem unter dem Nennbetrag liegenden Wert eingestellt werden darf, kann dies auch in der Weise geschehen, daß auf der Aktivseite der Nennbetrag der Forderung und auf der Passivseite ein entsprechender Wertberichtigungsposten angesetzt wird.
 
-
-## § 19 – Abgrenzungsposten
+# § 19 – Abgrenzungsposten
 
 (1) Als Abgrenzungsposten sind anzusetzen
 
@@ -255,8 +232,7 @@ b) Ausgaben nach dem 20. Juni 1948, soweit sie Aufwand für eine Zeit vor dem 21
 
 § 19 Abs. 5 Kursivdruck: § 5 WährG 7600-1-a gegenstandslos
 
-
-## § 20 – Berichtigung der Umstellungsrechnung
+# § 20 – Berichtigung der Umstellungsrechnung
 
 (1) Die Umstellungsrechnung unterliegt der Berichtigung (§ 3 Abs. 3 der Bausparkassenverordnung in Verbindung mit § 3 Abs. 6 der Bankenverordnung), soweit
 
@@ -268,18 +244,15 @@ b) Ausgaben nach dem 20. Juni 1948, soweit sie Aufwand für eine Zeit vor dem 21
 
 (2) Sind die Voraussetzungen des Absatzes 1 gegeben, so muß die Umstellungsrechnung berichtigt werden, wenn die Berichtigung eine Verminderung der Ausgleichsforderung oder eine Erhöhung des nach § 5 Abs. 2 Satz 1 der Bausparkassenverordnung abzuführenden Überschusses zur Folge hat. Sie darf berichtigt werden, wenn die Berichtigung eine Erhöhung der Ausgleichsforderung oder eine Verminderung des nach § 5 Abs. 2 Satz 1 der Bausparkassenverordnung abzuführenden Überschusses zur Folge hat.
 
-
-## § 21
+# § 21
 
 \-
 
-
-## § 22
+# § 22
 
 Diese Verordnung findet sinngemäß Anwendung auf Bausparkassen der in der Anordnung über die Bausparkassen mit Sitz außerhalb des Währungsgebietes aus Anlaß der Neuordnung des Geldwesens vom 25. November 1949 (Bundesanzeiger Nr. 3 vom 5. Januar 1950) bezeichneten Art.
 
-
-## § 23 – Berlin-Klausel
+# § 23 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 9 des Gesetzes über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens und über die Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften vom 21. April 1953 (Bundesgesetzbl. I S. 127) im Land Berlin mit folgenden Maßgaben:
 
@@ -315,13 +288,11 @@ h) in § 21 an die Stelle der Worte "Richtlinien zur Erstellung des Reichsmarkab
 
 i) in § 22 an die Stelle der Worte "Anordnung über die Bausparkassen mit Sitz außerhalb des Währungsgebietes aus Anlaß der Neuordnung des Geldwesens vom 25. November 1949 (Bundesanzeiger Nr. 3 vom 5. Januar 1950)" die Worte "Anordnung zur Erstreckung der Durchführungsbestimmungen Nr. 7 und Nr. 8 zur Umstellungsergänzungsverordnung auf die Bausparkasse Deutsche Baugemeinschaft Aktiengesellschaft vom 28. April 1951 (Gesetz- und Verordnungsblatt für Berlin S. 360) und in der Anordnung zur Erstreckung von Durchführungsbestimmungen zur Umstellungsergänzungsverordnung über Bausparkassen auf die Öffentliche Bausparkasse für die Mark Brandenburg vom 27. Juni 1951 (Gesetz- und Verordnungsblatt für Berlin S. 519)".
 
-
-## § 24 – Geltung im Saarland
+# § 24 – Geltung im Saarland
 
 Diese Verordnung gilt nicht im Saarland.
 
-
-## Anlage – (zu § 15)
+# Anlage – (zu § 15)
 
 Fundstelle des Originaltextes: BGBl. I 1959, 559 - 560
 

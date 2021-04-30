@@ -1,15 +1,11 @@
-# [JudDenkmStiftG] Gesetz zur Errichtung einer "Stiftung Denkmal für die ermordeten Juden Europas"
-
-Ausfertigungsdatum: 17.03.2000
-
+% Gesetz zur Errichtung einer "Stiftung Denkmal für die ermordeten Juden Europas"
+% Ausfertigungsdatum: 17.03.2000
  
-
-## § 1 – Errichtung und Rechtsform
+# § 1 – Errichtung und Rechtsform
 
 Unter dem Namen "Stiftung Denkmal für die ermordeten Juden Europas" wird eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts mit Sitz in Berlin errichtet. Die Stiftung entsteht mit Inkrafttreten dieses Gesetzes.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist die Erinnerung an den nationalsozialistischen Völkermord an den Juden Europas. Die Stiftung trägt dazu bei, die Erinnerung an alle Opfer des Nationalsozialismus und ihre Würdigung in geeigneter Weise sicherzustellen.
 
@@ -25,8 +21,7 @@ Unter dem Namen "Stiftung Denkmal für die ermordeten Juden Europas" wird eine r
 
 (3) Die Stiftung betreut auch das Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma und das Denkmal für die im Nationalsozialismus verfolgten Homosexuellen.
 
-
-## § 3 – Stiftungsvermögen, Gemeinnützigkeit
+# § 3 – Stiftungsvermögen, Gemeinnützigkeit
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen die von der Bundesrepublik Deutschland für die unselbständige Stiftung Denkmal für die ermordeten Juden Europas" bereit gestellten und erworbenen beweglichen und unbeweglichen Vermögensgegenstände in das Eigentum der Stiftung über.
 
@@ -38,8 +33,7 @@ Unter dem Namen "Stiftung Denkmal für die ermordeten Juden Europas" wird eine r
 
 (5) Die Stiftung verfolgt unmittelbar und ausschließlich gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Es darf keine Person durch Ausgaben, die dem Zweck der Stiftung fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-
-## § 4 – Organe der Stiftung
+# § 4 – Organe der Stiftung
 
 Organe der Stiftung sind:
 
@@ -49,8 +43,7 @@ Organe der Stiftung sind:
 
 3. der Beirat.
 
-
-## § 5 – Kuratorium
+# § 5 – Kuratorium
 
 (1) In das Kuratorium entsenden:
 
@@ -94,43 +87,36 @@ Das Kuratorium überwacht die Tätigkeit des Direktors oder der Direktorin.
 
 (5) Die entsendenden Institutionen können die von ihnen entsandten Mitglieder abberufen und durch neue Mitglieder ersetzen.
 
-
-## § 6 – Direktor oder Direktorin
+# § 6 – Direktor oder Direktorin
 
 (1) Der Direktor oder die Direktorin wird vom Kuratorium für fünf Jahre bestellt. Die wiederholte Bestellung ist zulässig. Erster Direktor wird am 11. Juli 2009 der bisherige Geschäftsführer der Stiftung Denkmal für die ermordeten Juden Europas.
 
 (2) Der Direktor oder die Direktorin führt die Beschlüsse des Kuratoriums aus und führt die Geschäfte der Stiftung.
 
-
-## § 7 – Beirat
+# § 7 – Beirat
 
 (1) Der Beirat besteht aus mindestens zwölf Mitgliedern. Sie werden vom Kuratorium für vier Jahre bestellt. Wiederholte Bestellung ist zulässig.
 
 (2) Der Beirat berät das Kuratorium und den Direktor oder die Direktorin.
 
-
-## § 8 – Ehrenamtliche Tätigkeit
+# § 8 – Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des Beirats sind ehrenamtlich tätig. Sie erhalten Reisekostenentschädigung nach dem Bundesreisekostengesetz.
 
-
-## § 9 – Beschäftigte
+# § 9 – Beschäftigte
 
 Auf die Arbeitnehmer der Stiftung sind die für Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
-
-## § 10 – Haushalt, Rechnungsprüfung, Rechtsaufsicht
+# § 10 – Haushalt, Rechnungsprüfung, Rechtsaufsicht
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung gelten die Bestimmungen für die Bundesverwaltung. Die Haushalts- und Wirtschaftsführung der Stiftung unterliegt der Prüfung durch den Bundesrechnungshof.
 
 (2) Die Stiftung untersteht der Rechtsaufsicht der zuständigen obersten Bundesbehörde.
 
-
-## § 11 – Satzung
+# § 11 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von drei Vierteln seiner Mitglieder beschlossen wird. Das Gleiche gilt für Änderungen der Satzung.
 
-
-## § 12 – Dienstsiegel
+# § 12 – Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel mit einer besonderen Form des Bundesadlers und der Umschrift „Stiftung Denkmal für die ermordeten Juden Europas“.

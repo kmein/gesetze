@@ -1,12 +1,7 @@
-# [BinSchUO2018Anh VI] Besatzungsvorschriften(Anhang VI der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Besatzungsvorschriften(Anhang VI der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Inhaltsverzeichnis
-
- 
+# Inhaltsverzeichnis
 
  
 
@@ -24,13 +19,13 @@ Ausfertigungsdatum: 21.09.2018
 
  
 
+ 
 
-## § 1.01 – Allgemeines
+# § 1.01 – Allgemeines
 
 Die Besatzung, die sich während der Fahrt an Bord befinden muss, bestimmt sich nach Kapitel 3 oder nach der Schiffspersonalverordnung-Rhein und wird von der Generaldirektion Wasserstraßen und Schifffahrt in eine Fahrtauglichkeitsbescheinigung oder in die Bescheinigung über die Besatzung nach Anhang V Muster 2 eingetragen. Die Eintragungen in mehrere dieser Urkunden sind zulässig. Sie müssen für die jeweils befahrenen Wasserstraßen gelten und an Bord mitgeführt werden.
 
-
-## § 2.01 – Ausrüstung der Schiffe im Hinblick auf die Besatzung
+# § 2.01 – Ausrüstung der Schiffe im Hinblick auf die Besatzung
 
 Unbeschadet der übrigen Bestimmungen dieser Verordnung und in Anwendung des § 3.14 der Schiffspersonalverordnung-Rhein müssen Motorschiffe, Schubboote, Schubverbände und Fahrgastschiffe, die mit der Mindestbesatzung gefahren werden sollen, dem Ausrüstungsstandard
 
@@ -40,8 +35,7 @@ b) S2 nach Artikel 31.03 ES-TRIN
 
 genügen.
 
-
-## § 3.01 – Allgemeines
+# § 3.01 – Allgemeines
 
  
 
@@ -71,8 +65,7 @@ b) kann das Bundesministerium für Verkehr und digitale Infrastruktur Schifferdi
 
 (+++ § 3.01 Nr. 3: Zur Nichtanwendung vgl. § 1 Abs. 4 BinSchUO 2018 +++)
 
-
-## § 3.02 – Mitglieder der Besatzung, Befähigung
+# § 3.02 – Mitglieder der Besatzung, Befähigung
 
  
 
@@ -154,8 +147,7 @@ die nach der Binnenschifferpatentverordnung erforderliche Fahrerlaubnis.
 
 (+++ § 3.02: Zur Nichtanwendung vgl. § 1 Abs. 4 BinSchUO 2018 +++)
 
-
-## § 3.03 – Betriebsformen
+# § 3.03 – Betriebsformen
 
  
 
@@ -176,8 +168,7 @@ jeweils innerhalb eines Zeitraums von 24 Stunden.
   
 Wechselt die Besatzung während der Fahrt, so ist die Zahl der Stunden maßgebend, während der sich die jeweilige Besatzung an Bord befindet, sofern nicht die Besatzung auf einem anderen Wasserfahrzeug weiterfährt. Bei wechselnder Besatzung hat der Eigentümer, Ausrüster oder Bevollmächtigte den Nachweis über die Arbeitszeit des einzelnen Besatzungsmitglieds durch besondere Anschreibung außerhalb des Fahrtenbuchs zu führen, die mindestens sechs Monate nach der letzten Eintragung aufzubewahren ist.
 
-
-## § 3.04 – Dienst- und Ruhezeiten
+# § 3.04 – Dienst- und Ruhezeiten
 
  
 
@@ -209,8 +200,7 @@ Jedes Fahrtenbuch, dessen Seiten nummeriert sind, muss mit einer fortlaufenden N
 
 6. Abweichende Regelungen arbeitsrechtlicher Art bleiben unberührt. Hierzu zählen insbesondere tarifvertragliche Beschränkungen der Fahrzeit, die Regelungen des Jugendarbeitsschutzgesetzes, des Arbeitszeitgesetzes und der Binnenschifffahrts-Arbeitszeitverordnung.
 
-
-## § 3.05 – Besatzung der Fahrzeuge ohne Antriebsmaschine
+# § 3.05 – Besatzung der Fahrzeuge ohne Antriebsmaschine
 
  
 
@@ -250,8 +240,7 @@ Auf Antrag wird gestattet, dass Güterschleppkähne mit einer Tragfähigkeit bis
 
 7. Die Generaldirektion Wasserstraßen und Schifffahrt kann auf Antrag zulassen, dass Güterschleppkähne mit einer Tragfähigkeit bis 330 t auf Strecken bis 20 km in der Betriebsform A im Pendelverkehr nur mit dem Schiffsführer besetzt sind. Diese Zulassung ist an Bord mitzuführen.
 
-
-## § 3.06 – Besatzung der Gütermotorschiffe und Tankmotorschiffe
+# § 3.06 – Besatzung der Gütermotorschiffe und Tankmotorschiffe
 
  
 
@@ -323,8 +312,7 @@ keine explosions- oder feuergefährlichen Güter befördert und
 
 cc) nur im Nahverkehr eingesetzt ist; als Nahverkehr gilt auf der Unterelbe der Verkehr vom Hamburger Hafen abwärts bis zur Linie Freiburg-Störmündung.
 
-
-## § 3.07 – Besatzung der Schleppboote
+# § 3.07 – Besatzung der Schleppboote
 
  
 
@@ -366,8 +354,7 @@ e) die Schleppstrangwinden vom Steuerstand oder von Deck aus von einer Person be
 
 so beträgt die Besatzung 1 Schiffsführer, 1 Matrose und 1 Matrosen-Motorwart. Sind eine oder mehrere Voraussetzungen des Satzes 1 nicht erfüllt, so erhöht sich die Besatzung um einen Matrosen; anstelle des Matrosen-Motorwarts muss in diesem Fall ein Maschinist an Bord sein.
 
-
-## § 3.08 – Besatzung der Fahrgastschiffe
+# § 3.08 – Besatzung der Fahrgastschiffe
 
  
 
@@ -421,8 +408,7 @@ c) eine Schleuse nicht durchfahren wird; sind Fahrgäste nicht an Bord, so dürf
 
 Die Generaldirektion Wasserstraßen und Schifffahrt vermerkt die für diesen Fall zulässige Besatzungsverminderung in der Fahrtauglichkeitsbescheinigung.
 
-
-## § 3.09 – Mindestbesatzung auf Personenfähren
+# § 3.09 – Mindestbesatzung auf Personenfähren
 
  
 
@@ -456,8 +442,7 @@ Verfügt eine Fähre nur über eine Hauptantriebsmaschine, muss der Anker bei sc
 
 4. Erfüllt eine Fähre die in Nummer 2 Satz 1, auch in Verbindung mit Satz 2, genannten Voraussetzungen nicht, bestimmt sich die Mindestbesatzung nach der nächsthöheren Stufe. Bei einer Fähre der Stufe 5 erhöht sich die Mindestbesatzung um einen Fährgehilfen.
 
-
-## § 3.10 – Mindestbesatzung von Wagenfähren
+# § 3.10 – Mindestbesatzung von Wagenfähren
 
  
 
@@ -500,8 +485,7 @@ c) sichergestellt ist, dass das Festmachen der Fähre an der Fährstelle kein Ve
 
 5. Erfüllt eine Fähre die in Nummer 2 Satz 1, auch in Verbindung mit Satz 2, und Satz 3 sowie Nummer 4 genannten Voraussetzungen nicht, ist die Mindestbesatzung nach der Tabelle in Nummer 1 um die nächsthöhere Stufe anzuwenden. Bei einer Fähre der Stufe 5 erhöht sich die Mindestbesatzung um einen Fährgehilfen.
 
-
-## § 3.11 – Mindestbesatzung von Fahrgastbooten
+# § 3.11 – Mindestbesatzung von Fahrgastbooten
 
  
 
@@ -525,13 +509,11 @@ Wird dem Antrag stattgegeben, so sind die einzuhaltenden Bedingungen nach Satz 1
 
 3. Nummer 2 gilt nicht für Fahrgastboote, die gebaut und eingerichtet sind, um auch durch Segel fortbewegt zu werden.
 
-
-## § 3.12 – Sonstige Wasserfahrzeuge
+# § 3.12 – Sonstige Wasserfahrzeuge
 
 Die Untersuchungskommission setzt für Fahrzeuge, die nicht unter die §§ 3.05 bis 3.11 fallen, die erforderliche Besatzung, die sich während der Fahrt an Bord befinden muss, unter Berücksichtigung ihrer Größe, Bauart, Einrichtung und Zweckbestimmung fest.
 
-
-## § 3.13 – Abweichungen
+# § 3.13 – Abweichungen
 
  
 
@@ -541,8 +523,7 @@ Die Untersuchungskommission setzt für Fahrzeuge, die nicht unter die §§ 3.05 
 
 3. Bei einem Schleppboot, das nach der Fahrtauglichkeitsbescheinigung nur zur Fahrt in Häfen, auf Reeden oder auf kurzen Strecken bestimmt ist, kann die Untersuchungskommission oder die Generaldirektion Wasserstraßen und Schifffahrt eine andere Besatzung festsetzen, wenn die Umstände dies erfordern oder zulassen. Satz 1 gilt nicht für Schleppboote, die zum Bugsieren oder zum Assistieren von Seeschiffen auf den Wasserstraßen der Zonen 1, 2 oder 3 zugelassen und verwendet werden.
 
-
-## § 3.14 – Ausnahmebewilligung
+# § 3.14 – Ausnahmebewilligung
 
  
 
@@ -550,8 +531,7 @@ Die Untersuchungskommission setzt für Fahrzeuge, die nicht unter die §§ 3.05 
 
 2. Auf einem Schiff, dessen Besatzung größer ist als ein Schiffsführer und ein Matrose, kann die Besatzung um einen Schiffsjungen herabgesetzt werden, wenn dieser eine Schifferberufsschule besucht und dies durch eine an Bord befindliche Bescheinigung bestätigt wird. Diese Herabsetzung wird für eine ununterbrochene Dauer von höchstens drei Monaten im Kalenderjahr gewährt.
 
-
-## § 3.15 – Zusätzliche Bestimmungen
+# § 3.15 – Zusätzliche Bestimmungen
 
  
 
@@ -559,8 +539,7 @@ Die Untersuchungskommission setzt für Fahrzeuge, die nicht unter die §§ 3.05 
 
 2. Ein Wasserfahrzeug, auf dem durch unvorhergesehene Umstände (z. B. Krankheit, Unfall, behördliche Anordnung) höchstens ein Mitglied der Besatzung während der Fahrt ausfällt, kann seine Fahrt bis zum nächsten Lade- oder Löschplatz – Fahrgastschiffe und Fähren bis zur Tagesendstation – fortsetzen, wenn auf dem Wasserfahrzeug neben einem Inhaber des Schifferpatents für die betreffende Strecke noch ein weiteres Mitglied der Besatzung vorhanden ist.
 
-
-## Anlage 1 – – gilt nur für Fahrzeuge mit Schiffsattest –Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord
+# Anlage 1 – – gilt nur für Fahrzeuge mit Schiffsattest –Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord
 
 (Fundstelle: BGBl. I 2018, 1514 - 1515)
 
@@ -651,8 +630,7 @@ Die Bescheinigung dient dem Nachweis, dass es sich um ein zugelassenes Gerät ha
 
 7. Die Schiffsführung ist durch die anerkannte Fachfirma in der Bedienung des Gerätes zu unterweisen und eine Bedienungsanleitung ist zum Verbleib an Bord auszuhändigen. Dies ist in der Bescheinigung über den Einbau zu vermerken.
 
-
-## Anlage 2 – Prüfung zum Erwerb der Qualifikation „Matrosen-Motorwart“
+# Anlage 2 – Prüfung zum Erwerb der Qualifikation „Matrosen-Motorwart“
 
 (Fundstelle: BGBl. I 2018, 1516 - 1519 ;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -864,8 +842,7 @@ Durch die Prüfung ist festzustellen, ob der Prüfling befähigt ist, den Anford
 1. Zulassung zur Prüfung  
   
 
-(1) Zur Prüfung ist zuzulassen, wer eine mindestens dreijährige Fahrzeit als Angehöriger einer Decksmannschaft eines See- oder Binnenschiffs, davon mindestens sechs Monate auf Binnengewässern, und den Besuch eines erforderlichen Vorbereitungslehrgangs nach Nummer 3 nachweist.  
-  
+(1) Zur Prüfung ist zuzulassen, wer eine mindestens dreijährige Fahrzeit als Angehöriger einer Decksmannschaft eines See- oder Binnenschiffs, davon mindestens sechs Monate auf Binnengewässern, und den Besuch eines erforderlichen Vorbereitungslehrgangs nach Nummer 3 nachweist.   
 
 (2) Gesellen und Gesellinnen des Metallhandwerks, Fachrichtung Motoren- und Elektrotechnik, sind abweichend von Satz 1 zuzulassen, sofern die nachgewiesene Fahrzeit den Anforderungen des Anhangs VI § 3.02 Nummer 2 Buchstabe c Doppelbuchstabe bb entspricht.
 
@@ -883,58 +860,47 @@ Der Antrag auf Zulassung zur Prüfung ist schriftlich an die zuständige Behörd
 3. Vorbereitungslehrgang  
   
 
-(1) Der Vorbereitungslehrgang dient der Vermittlung der notwendigen Grundlagen für die Aufnahme einer praktischen Tätigkeit als Matrosen-Motorwart. Die Dauer des Lehrgangs soll insgesamt mindestens drei Wochen mit mindestens 120 Stunden betragen.  
-  
+(1) Der Vorbereitungslehrgang dient der Vermittlung der notwendigen Grundlagen für die Aufnahme einer praktischen Tätigkeit als Matrosen-Motorwart. Die Dauer des Lehrgangs soll insgesamt mindestens drei Wochen mit mindestens 120 Stunden betragen.   
 
-(2) Der Lehrgang bedarf der Anerkennung durch die zuständige Behörde. Die Anerkennung ist zu erteilen, wenn der Veranstalter des Lehrgangs nachweist, dass im Lehrgang die Grundprinzipien der im Teil 1 dieser Anlage aufgeführten Themen vermittelt werden. Der Nachweis ist insbesondere durch die Darstellung der zeitlichen und inhaltlichen Gliederung des Lehrgangs, der beabsichtigten Art und Weise der Vermittlung der Inhalte, der sachlichen Voraussetzung und der Qualifikation der Lehrkräfte zu erbringen. Die Anerkennung ist auf fünf Jahre befristet.  
-  
+(2) Der Lehrgang bedarf der Anerkennung durch die zuständige Behörde. Die Anerkennung ist zu erteilen, wenn der Veranstalter des Lehrgangs nachweist, dass im Lehrgang die Grundprinzipien der im Teil 1 dieser Anlage aufgeführten Themen vermittelt werden. Der Nachweis ist insbesondere durch die Darstellung der zeitlichen und inhaltlichen Gliederung des Lehrgangs, der beabsichtigten Art und Weise der Vermittlung der Inhalte, der sachlichen Voraussetzung und der Qualifikation der Lehrkräfte zu erbringen. Die Anerkennung ist auf fünf Jahre befristet.   
 
 (3) Über die Anerkennung wird eine Urkunde mit einer Anerkennungsnummer erteilt. Bei Wegfall der für die Anerkennung maßgeblichen Gründe ist die Anerkennung zurückzunehmen.
 
 4. Prüfung  
   
 
-(1) Die Prüfung besteht aus einem praktischen und einem theoretischen Teil.  
-  
+(1) Die Prüfung besteht aus einem praktischen und einem theoretischen Teil.   
 
-(2) Im praktischen Teil werden die vom Matrosen-Motorwart erforderlichen Kenntnisse zur selbständigen Ausübung der Tätigkeit geprüft. Im Zusammenhang mit dem Erwerb der Fertigkeiten, Kenntnissen und Fähigkeiten soll die praktische Umsetzung der maßgeblichen berufsbezogenen Vorschriften erfolgen.  
-  
+(2) Im praktischen Teil werden die vom Matrosen-Motorwart erforderlichen Kenntnisse zur selbständigen Ausübung der Tätigkeit geprüft. Im Zusammenhang mit dem Erwerb der Fertigkeiten, Kenntnissen und Fähigkeiten soll die praktische Umsetzung der maßgeblichen berufsbezogenen Vorschriften erfolgen.   
 
 (3) Im theoretischen Teil hat der Prüfling anhand inhaltsübergreifender Fragestellungen seine beruflichen Kenntnisse nachzuweisen. Die schriftliche Arbeit soll nicht länger als 60 Minuten dauern. Sie kann durch eine mündliche Prüfung ergänzt werden, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die Ergänzungsprüfung soll je Prüfling nicht länger als 30 Minuten dauern.
 
 5. Prüfungsausschuss  
   
 
-(1) Die Prüfung wird vor einem Prüfungsausschuss, der durch die zuständige Behörde bestellt wird, abgelegt.  
-  
+(1) Die Prüfung wird vor einem Prüfungsausschuss, der durch die zuständige Behörde bestellt wird, abgelegt.   
 
-(2) Der Prüfungsausschuss besteht aus drei Mitgliedern; diese werden von der zuständigen Behörde für die Dauer von drei Jahren berufen. Für jedes Mitglied ist mindestens eine stellvertretende Person zu benennen. An den Entscheidungen des Prüfungsausschusses müssen alle Ausschussmitglieder mitwirken. Der Vorsitz des Prüfungsausschusses wird von den Mitgliedern des Prüfungsausschusses gewählt.  
-  
+(2) Der Prüfungsausschuss besteht aus drei Mitgliedern; diese werden von der zuständigen Behörde für die Dauer von drei Jahren berufen. Für jedes Mitglied ist mindestens eine stellvertretende Person zu benennen. An den Entscheidungen des Prüfungsausschusses müssen alle Ausschussmitglieder mitwirken. Der Vorsitz des Prüfungsausschusses wird von den Mitgliedern des Prüfungsausschusses gewählt.   
 
-(3) Die Beschlüsse des Prüfungsausschusses werden mit Stimmenmehrheit gefasst. Die Ergebnisse der einzelnen Prüfungsleistungen sind in einer Niederschrift des Prüfungsausschusses auszuweisen.  
-  
+(3) Die Beschlüsse des Prüfungsausschusses werden mit Stimmenmehrheit gefasst. Die Ergebnisse der einzelnen Prüfungsleistungen sind in einer Niederschrift des Prüfungsausschusses auszuweisen.   
 
-(4) Die zuständige Behörde führt die Aufsicht über den Prüfungsausschuss. Sie ist berechtigt, Beauftragte zur Prüfung zu entsenden. Sie kann Mitglieder des Prüfungsausschusses, die sich als Prüfer einer erheblichen Pflichtverletzung schuldig gemacht haben, abberufen.  
-  
+(4) Die zuständige Behörde führt die Aufsicht über den Prüfungsausschuss. Sie ist berechtigt, Beauftragte zur Prüfung zu entsenden. Sie kann Mitglieder des Prüfungsausschusses, die sich als Prüfer einer erheblichen Pflichtverletzung schuldig gemacht haben, abberufen.   
 
 (5) Die Tätigkeit im Prüfungsausschuss ist ehrenamtlich. Für bare Auslagen und für Zeitversäumnis ist, soweit eine Entschädigung nicht von anderer Seite gewährt wird, eine angemessene Entschädigung zu zahlen, deren Höhe sich nach dem Bundesreisekostengesetz bestimmt.
 
 6. Prüfungsverfahren  
   
 
-(1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet die Prüfung und setzt die Prüfungstermine in Absprache mit der zuständigen Behörde fest. Die zuständige Behörde gibt die Prüfungstermine bekannt und bereitet die Prüfung vor. Die Prüflinge sind mit einer Frist von mindestens vier Wochen zu laden.  
-  
+(1) Das den Vorsitz führende Mitglied des Prüfungsausschusses leitet die Prüfung und setzt die Prüfungstermine in Absprache mit der zuständigen Behörde fest. Die zuständige Behörde gibt die Prüfungstermine bekannt und bereitet die Prüfung vor. Die Prüflinge sind mit einer Frist von mindestens vier Wochen zu laden.   
 
 (2) Versäumt der Prüfling ohne ausreichende Entschuldigung die Teilnahme an der Prüfung ganz oder teilweise, so gilt die gesamte Prüfung als nicht bestanden. Bei ordnungswidrigem Verhalten während der Prüfung, insbesondere bei Täuschungsversuchen, kann der Prüfling von der weiteren Teilnahme an der Prüfung ausgeschlossen werden. Die Prüfung gilt in diesem Fall als nicht bestanden. Die Entscheidung trifft das den Vorsitz führende Mitglied des Prüfungsausschusses.
 
 7. Bewerten und Bestehen der Prüfung  
   
 
-(1) Die Leistungen in den Prüfungsteilen sind gesondert zu bewerten.  
-  
+(1) Die Leistungen in den Prüfungsteilen sind gesondert zu bewerten.   
 
-(2) Für die Bewertung der Leistungen in den Prüfungsteilen ist die nachfolgende Notenskala anzuwenden. Die einzelnen Leistungen in den Prüfungsteilen sind mit einer der folgenden Noten gemäß der verbalen Darstellung des Leistungsniveaus in Bezug auf die Anforderungen zu bewerten.  
-  
+(2) Für die Bewertung der Leistungen in den Prüfungsteilen ist die nachfolgende Notenskala anzuwenden. Die einzelnen Leistungen in den Prüfungsteilen sind mit einer der folgenden Noten gemäß der verbalen Darstellung des Leistungsniveaus in Bezug auf die Anforderungen zu bewerten.   
 
 |                        |                                                                                                                                                                |
 |:-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -948,18 +914,15 @@ Der Antrag auf Zulassung zur Prüfung ist schriftlich an die zuständige Behörd
   
   
 
-(3) Die Prüfung ist bestanden, wenn in jedem der Prüfungsbereiche des praktischen und theoretischen Teils der Prüfung mindestens ausreichende Leistungen erbracht worden sind. Wird eine der Leistungen der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung insgesamt nicht bestanden.  
-  
+(3) Die Prüfung ist bestanden, wenn in jedem der Prüfungsbereiche des praktischen und theoretischen Teils der Prüfung mindestens ausreichende Leistungen erbracht worden sind. Wird eine der Leistungen der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung insgesamt nicht bestanden.   
 
 (4) Über das Ergebnis der Prüfung ist dem Prüfling ein Prüfungszeugnis auszustellen.
 
 8. Gebühren für die Prüfung  
   
 
-(1) Die für die Abnahme der Prüfung entstehenden Gebühren für Prüfungsausschuss und Verwaltung sind zu gleichen Teilen von allen teilnehmenden Prüflingen zu erstatten.  
-  
+(1) Die für die Abnahme der Prüfung entstehenden Gebühren für Prüfungsausschuss und Verwaltung sind zu gleichen Teilen von allen teilnehmenden Prüflingen zu erstatten.   
 
-(2) Die Gebühren sind nach Maßgabe der Binnenschifffahrtskostenverordnung zu erheben. Durch Anmeldung zur Prüfung erklärt sich der Gebührenschuldner zur Begleichung der tatsächlich entstehenden Gebühren bereit.  
-  
+(2) Die Gebühren sind nach Maßgabe der Binnenschifffahrtskostenverordnung zu erheben. Durch Anmeldung zur Prüfung erklärt sich der Gebührenschuldner zur Begleichung der tatsächlich entstehenden Gebühren bereit.   
 
 (3) Die Vorlage des Gebührenbescheids erfolgt mit Zustellung der Ladung. Dieser ist mindestens zwei Wochen vor Prüfung zu begleichen, andernfalls wird die Teilnahme an der Prüfung untersagt. Der Prüfling bleibt weiterhin Gebührenschuldner.

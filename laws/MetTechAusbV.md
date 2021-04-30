@@ -1,25 +1,19 @@
-# [MetTechAusbV] Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik
-
-Ausfertigungsdatum: 02.04.2013
-
+% Verordnung über die Berufsausbildung zur Fachkraft für Metalltechnik
+% Ausfertigungsdatum: 02.04.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft für Metalltechnik wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert zwei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildungsinhalte in den Fachrichtungen
 
@@ -31,8 +25,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 4. Umform- und Drahttechnik.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -113,8 +106,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7. Planen und Ausführen der Arbeit.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6, 7, 9, 11 und 13 nachzuweisen.
 
@@ -122,8 +114,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
@@ -145,8 +136,7 @@ d) Prüfmittel anzuwenden;
 
 3. die Prüfungszeit beträgt für das Prüfungsstück sechs Stunden und für die schriftlich zu bearbeitenden Aufgaben 60 Minuten.
 
-
-## § 7 – Abschlussprüfung in der Fachrichtung Montagetechnik
+# § 7 – Abschlussprüfung in der Fachrichtung Montagetechnik
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -222,8 +212,7 @@ d) Arbeitsschritte zu planen sowie Werkzeuge und Maschinen zuzuordnen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Montagetechnik
+# § 8 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Montagetechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -255,8 +244,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Auftrags- und Funktionsanalyse, Fertigungs- und Montagetechnik sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 9 – Abschlussprüfung in der Fachrichtung Konstruktionstechnik
+# § 9 – Abschlussprüfung in der Fachrichtung Konstruktionstechnik
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -326,8 +314,7 @@ d) Verfahren und Parameter, Prüfmethoden und Prüfmittel festzulegen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 10 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Konstruktionstechnik
+# § 10 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Konstruktionstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -359,8 +346,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Fertigungstechnik, Auftragsanalyse und Arbeitsplanung sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 11 – Abschlussprüfung in der Fachrichtung Zerspanungstechnik
+# § 11 – Abschlussprüfung in der Fachrichtung Zerspanungstechnik
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -421,8 +407,7 @@ d) Prüfverfahren und Prüfmittel auszuwählen und anzuwenden, Einsatzfähigkeit
     § 11 Abs. 3 Nr. 2 u. Abs. 5 Eingangssatz Kursivdruck: Müßte richtig lauten 
     "Fertigungstechnik" 
 
-
-## § 12 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Zerspanungstechnik
+# § 12 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Zerspanungstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -454,8 +439,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Fertigungstechnik, Arbeitsplanung sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 13 – Abschlussprüfung in der Fachrichtung Umform- und Drahttechnik
+# § 13 – Abschlussprüfung in der Fachrichtung Umform- und Drahttechnik
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -533,8 +517,7 @@ d) Ursachen für Qualitätsabweichungen festzustellen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 14 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Umform- und Drahttechnik
+# § 14 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Umform- und Drahttechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -566,13 +549,11 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Auftragsanalyse und Arbeitsplanung, Produktionstechnik sowie Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 15 – Bestehende Berufsausbildungsverhältnisse
+# § 15 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die in den Berufsbildern der staatlich anerkannten Ausbildungsberufe Drahtwarenmacher und Drahtwarenmacherin, Drahtzieher und Drahtzieherin, Federmacher und Federmacherin, Fräser und Fräserin, Gerätezusammensetzer und Gerätezusammensetzerin, Kabeljungwerker und Kabeljungwerkerin, Maschinenzusammensetzer und Maschinenzusammensetzerin, Metallschleifer und Metallschleiferin, Revolverdreher und Revolverdreherin, Schleifer und Schleiferin sowie Teilezurichter und Teilezurichterin bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
-## § 16 – Fortsetzung der Berufsausbildung
+# § 16 – Fortsetzung der Berufsausbildung
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Metalltechnik kann in der
 
@@ -586,13 +567,11 @@ Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Metalltechnik
 
 nach den Vorschriften dieser Berufe ab dem dritten Ausbildungsjahr fortgesetzt werden.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Metalltechnik
+# Anlage – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Metalltechnik
 
 (Fundstelle: BGBl. I 2013, 634 - 640)
 

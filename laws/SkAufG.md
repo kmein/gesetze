@@ -1,22 +1,17 @@
-# [SkAufG] Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland  (Streitkräfteaufenthaltsgesetz - SkAufG)
-
-Ausfertigungsdatum: 20.07.1995
-
+% Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland  (Streitkräfteaufenthaltsgesetz - SkAufG)
+% Ausfertigungsdatum: 20.07.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Allgemeine Voraussetzungen
+# § 1 – Allgemeine Voraussetzungen
 
 (1) Für Einreise und Aufenthalt bestimmen sich die Rechte und Pflichten der ausländischen Streitkräfte und ihrer Mitglieder nach den deutschen Gesetzen und Rechtsvorschriften.
 
 (2) In der Vereinbarung sind die Rahmenbedingungen für den Aufenthalt der ausländischen Streitkräfte nach Art, Umfang und Dauer festzulegen.
 
-
-## § 2 – Grenzübertritt, Einreise
+# § 2 – Grenzübertritt, Einreise
 
 (1) Ausländische Streitkräfte und deren Mitglieder sind im Rahmen dieses Gesetzes und der ausländerrechtlichen Vorschriften berechtigt, mit Land-, Wasser- und Luftfahrzeugen in die Bundesrepublik Deutschland einzureisen und sich in oder über dem Bundesgebiet aufzuhalten.
 
@@ -34,32 +29,27 @@ b) einen amtlichen Lichtbildausweis, sofern sie in eine Sammelliste eingetragen 
 
 (6) Wird die öffentliche Sicherheit oder Ordnung der Bundesrepublik Deutschland durch ein ziviles oder militärisches Mitglied einer ausländischen Streitkraft gefährdet, so kann die Bundesrepublik Deutschland die unverzügliche Entfernung des Mitgliedes durch die ausländischen Streitkräfte verlangen. In der Vereinbarung ist zu bestimmen, daß die Behörden des Entsendestaates solchen Entfernungsersuchen nachzukommen und die Aufnahme des betreffenden Mitgliedes im eigenen Hoheitsgebiet zu gewährleisten haben. Im übrigen bleiben die Bestimmungen des Aufenthaltsgesetzes unberührt.
 
-
-## § 3 – Meldewesen
+# § 3 – Meldewesen
 
 Mitglieder ausländischer Streitkräfte sind von der allgemeinen Meldepflicht befreit. Diese Befreiung erstreckt sich nicht auf die besondere Meldepflicht in Beherbergungsstätten, Krankenhäusern, Pflegeheimen oder ähnlichen Einrichtungen.
 
-
-## § 4 – Kriegswaffen
+# § 4 – Kriegswaffen
 
 (1) In der Vereinbarung sind Art und Anzahl der Kriegswaffen festzulegen, die ein- oder mitgeführt werden. Ferner ist zu bestimmen, in welcher Form nachzuweisen ist, daß die nach dem Gesetz über die Kontrolle von Kriegswaffen erforderlichen Genehmigungen als erteilt gelten.
 
 (2) Die nach dem Außenwirtschaftsgesetz erforderlichen Genehmigungen gelten als erteilt.
 
-
-## § 5 – Waffen
+# § 5 – Waffen
 
 (1) Mitglieder ausländischer Streitkräfte sind während ihres Aufenthaltes in der Bundesrepublik Deutschland zum Besitz und zum Führen von Waffen nur insoweit berechtigt, als dies für den dienstlichen Zweck ihres Aufenthaltes unerläßlich ist. Diese Mitglieder müssen zum Besitz und Führen von Waffen ermächtigt sein. Einzelheiten sind in einer Vereinbarung zu regeln. Der ausländische Staat beachtet die deutschen Waffenrechtsvorschriften.
 
 (2) Mitglieder der ausländischen Streitkräfte sind zum Waffengebrauch im Rahmen des deutschen Notwehrrechts befugt.
 
-
-## § 6 – Uniformtragen
+# § 6 – Uniformtragen
 
 Mitglieder ausländischer Streitkräfte, die zum militärischen Personal gehören, sind vorbehaltlich gegenteiliger Vereinbarungen mit den Behörden des ausländischen Staates berechtigt, während des Aufenthaltes in der Bundesrepublik Deutschland Uniform zu tragen.
 
-
-## § 7 – Gerichtsbarkeit
+# § 7 – Gerichtsbarkeit
 
 (1) Mitglieder ausländischer Streitkräfte unterliegen, insbesondere auch hinsichtlich der Straf- und Zivilgerichtsbarkeit, deutschem Recht.
 
@@ -67,22 +57,19 @@ Mitglieder ausländischer Streitkräfte, die zum militärischen Personal gehöre
 
 (3) Die zuständigen Behörden und Gerichte leisten einander im Rahmen ihres innerstaatlichen Rechts Rechtshilfe zur Unterstützung von Strafverfahren. Der ausländische Staat wirkt im Rahmen seiner Rechtsordnung darauf hin, daß Mitglieder seiner Streitkräfte, die verdächtigt werden, während des Aufenthalts auf deutschem Hoheitsgebiet eine Straftat begangen zu haben, sich dem Strafverfahren der zuständigen deutschen Behörde stellen. Ist ein Mitglied ausländischer Streitkräfte, das einer Straftat verdächtig ist, in den ausländischen Staat zurückgekehrt, so wird dieser auf Ersuchen des betroffenen Staates den Fall seinen zuständigen Behörden zum Zwecke der Strafverfolgung unterbreiten.
 
-
-## § 8 – Disziplinargewalt
+# § 8 – Disziplinargewalt
 
 (1) Die vom ausländischen Staat zu bestimmenden Behörden oder Vorgesetzten haben das Recht, innerhalb der Bundesrepublik Deutschland die zur Aufrechterhaltung von Ordnung und Disziplin gegenüber den Mitgliedern ihrer Streitkräfte notwendigen Disziplinarmaßnahmen zu treffen, die ihnen nach dem Recht des ausländischen Staates zustehen. Sie haben keine Disziplinargewalt gegenüber den Mitgliedern der Streitkräfte eines anderen Staates.
 
 (2) Disziplinarmaßnahmen, die die Würde des Menschen verletzen, dürfen in der Bundesrepublik Deutschland weder verhängt noch vollstreckt werden.
 
-
-## § 9 – Zwangsmaßnahmen
+# § 9 – Zwangsmaßnahmen
 
 (1) Deutsche Behörden und Gerichte sind im Rahmen ihrer Zuständigkeiten und Befugnisse berechtigt, Zwangsmaßnahmen gegenüber Mitgliedern ausländischer Streitkräfte anzuordnen und auszuüben.
 
 (2) Nach der vorläufigen Festnahme eines Mitgliedes der ausländischen Streitkräfte durch eine deutsche Behörde ist unverzüglich der Verbindungsoffizier seiner Streitkraft hiervon zu unterrichten. Dabei soll mitgeteilt werden, welcher Staatsanwalt zuständig ist und welchem Richter der vorläufig Festgenommene vorgeführt wird.
 
-
-## § 10 – Telekommunikation
+# § 10 – Telekommunikation
 
 (1) Für die Inanspruchnahme von öffentlich angebotenen Telekommunikationsdienstleistungen gelten neben den allgemeinen deutschen Vorschriften die jeweiligen Geschäftsbedingungen des Dienstleistungserbringers; dies gilt insbesondere für die Art und Weise der Berechnung der Entgelte, der Rechnungserstellung und der Begleichung der Rechnungen.
 
@@ -96,15 +83,13 @@ Mitglieder ausländischer Streitkräfte, die zum militärischen Personal gehöre
 
 (6) Besondere Regelungen für Einzelfälle sind im Rahmen der geltenden Gesetze im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Verteidigung festzulegen.
 
-
-## § 11 – Gesundheitswesen
+# § 11 – Gesundheitswesen
 
 (1) Zur Verhütung und Bekämpfung übertragbarer Krankheiten bei Menschen, Tieren und Pflanzen sowie zur Verhütung der Verbreitung und zur Bekämpfung von Pflanzenschädlingen gelten die deutschen Rechtsvorschriften. Seuchenrechtliche, tierseuchenrechtliche, fleisch-, geflügelfleisch- und hygienerechtliche Maßnahmen sowie Maßnahmen auf Grund von Vorschriften des Rechts der Lebensmittel- und Bedarfsgegenstände werden von den zuständigen Stellen der Bundeswehr getroffen, soweit zwischenstaatliche Vereinbarungen dem nicht entgegenstehen.
 
 (2) Stehen den Mitgliedern ausländischer Streitkräfte während ihres Aufenthaltes in Deutschland ausnahmsweise keine ausreichenden eigenen ärztlichen oder zahnärztlichen Dienste zur Verfügung, so kann medizinische Behandlung durch den Sanitätsdienst der Bundeswehr auf der Grundlage gegenseitiger Vereinbarungen gewährt werden.
 
-
-## § 12 – Umweltschutz
+# § 12 – Umweltschutz
 
 (1) Die ausländischen Streitkräfte erkennen und anerkennen die Bedeutung des Umweltschutzes bei ihren Tätigkeiten in der Bundesrepublik Deutschland. Sie achten die deutschen Rechtsvorschriften zum Schutz der Umwelt und wenden sie an, soweit nicht besondere Festlegungen getroffen werden.
 
@@ -120,8 +105,7 @@ Mitglieder ausländischer Streitkräfte, die zum militärischen Personal gehöre
 
 (7) In der Vereinbarung sind die zuständigen deutschen und ausländischen Behörden sowie die Bundeswehr und die beteiligten Streitkräfte auf enge Zusammenarbeit in allen Belangen des Umweltschutzes zu verpflichten. Dies gilt insbesondere bei der Vorbereitung von Übungen.
 
-
-## § 13 – Führerscheine, Luftfahrerscheine, Befähigungszeugnisse für militärische Wasserfahrzeuge
+# § 13 – Führerscheine, Luftfahrerscheine, Befähigungszeugnisse für militärische Wasserfahrzeuge
 
 (1) Führerscheine oder andere Erlaubnisscheine, die den Mitgliedern ausländischer Streitkräfte von einer Behörde des ausländischen Staates zum Führen dienstlicher Land-, Wasser- oder Luftfahrzeuge erteilt worden sind, berechtigen zum Führen solcher Land-, Wasser- oder Luftfahrzeuge auch im Bundesgebiet. Sie sind in einer deutschen Übersetzung mitzuführen.
 
@@ -129,8 +113,7 @@ Mitglieder ausländischer Streitkräfte, die zum militärischen Personal gehöre
 
 (3) Führerscheine für dienstliche Fahrzeuge berechtigen, soweit das nach dem Recht des ausländischen Staates zulässig ist, auch zum Führen entsprechender privater Landfahrzeuge. Eine entsprechende Bescheinigung, die mit einer deutschen Übersetzung zu versehen ist, muß beim Führen privater Kraftfahrzeuge ständig mitgeführt werden.
 
-
-## § 14 – Verkehr mit eigenen Fahrzeugen des ausländischen Staates
+# § 14 – Verkehr mit eigenen Fahrzeugen des ausländischen Staates
 
 (1) Kraftfahrzeuge und Kraftfahrzeuganhänger werden von dem ausländischen Staat registriert und zugelassen. Sie führen außer ihrer Kennummer ein deutliches Nationalitätskennzeichen.
 
@@ -150,13 +133,11 @@ Mitglieder ausländischer Streitkräfte, die zum militärischen Personal gehöre
 
 (9) Alle von den deutschen und den Behörden des ausländischen Staates errichteten und betriebenen Kontrollsysteme für den Luftverkehr und die dazugehörenden Fernmeldesysteme werden koordiniert, soweit dies erforderlich ist, um die Sicherheit des Luftverkehrs und die Erreichung des Aufenthaltszweckes zu gewährleisten.
 
-
-## § 15 – Haftpflichtversicherung
+# § 15 – Haftpflichtversicherung
 
 Für seine Dienstkraftfahrzeuge, militärischen Luft- und Wasserfahrzeuge sowie das Führen von Waffen entfällt die Pflicht zum Abschluß einer Haftpflichtversicherung des ausländischen Staates. Die Risiken hieraus werden vom ausländischen Staat selbst übernommen.
 
-
-## § 16 – Haftung
+# § 16 – Haftung
 
 (1) Der ausländische Staat haftet für alle der Bundesrepublik Deutschland und Dritten entstandenen Schäden, die durch dienstliche Handlungen oder Unterlassungen der Mitglieder seiner Streitkräfte oder durch andere Handlungen, Unterlassungen oder Begebenheiten, für die die ausländischen Streitkräfte rechtlich verantwortlich sind, im Bundesgebiet verursacht worden sind. Dritte sind auch Länder, Landkreise, Gemeinden und andere kommunale Körperschaften des öffentlichen Rechts.
 
@@ -174,8 +155,7 @@ b) Wird eine Abfindung ohne Anerkennung einer Rechtspflicht angeboten und wird d
 
 c) Die Bestimmungen dieses Absatzes lassen die Zuständigkeit der deutschen Gerichte für die Durchführung eines Verfahrens gegen ein Mitglied einer Truppe oder eines zivilen Gefolges unberührt, sofern und solange nicht eine Zahlung als volle Befriedigung des Anspruchs geleistet worden ist.
 
-
-## § 17 – Übungen zu Lande
+# § 17 – Übungen zu Lande
 
 (1) Für Übungen gelten die deutschen Vorschriften.
 
@@ -183,8 +163,7 @@ c) Die Bestimmungen dieses Absatzes lassen die Zuständigkeit der deutschen Geri
 
 (3) Ist der Übungszweck auf diesen Liegenschaften nicht erreichbar, können Manöver und andere Übungen vorbehaltlich der Zustimmung der zuständigen deutschen Behörden im freien Gelände durchgeführt werden. In der Vereinbarung sind Verfahren zur Erteilung der Zustimmung sowie Anmeldung und Koordinierung vorzusehen.
 
-
-## § 18 – Übungen im Luftraum
+# § 18 – Übungen im Luftraum
 
 (1) Für Übungen im deutschen Luftraum gelten die deutschen Vorschriften über den Einflug in den deutschen Luftraum und seine Benutzung sowie die Inanspruchnahme von Anlagen und Einrichtungen der Luftfahrt, die sich im Rahmen der Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation halten, ferner die geltenden Anmeldungs-, Zustimmungs- und Koordinierungsverfahren, wie sie in den entsprechenden Gesetzen, sonstigen Vorschriften und Veröffentlichungen enthalten sind.
 
@@ -192,44 +171,36 @@ c) Die Bestimmungen dieses Absatzes lassen die Zuständigkeit der deutschen Geri
 
 (3) Die an einer Übung teilnehmenden Luftfahrzeugbesatzungen müssen die englische Sprache beherrschen, soweit dies aus Gründen der Flugsicherheit oder Flugsicherung erforderlich ist.
 
-
-## § 19 – Übungen in deutschen Hoheitsgewässern
+# § 19 – Übungen in deutschen Hoheitsgewässern
 
 (1) Für Übungen ausländischer Kriegs- und Hilfsschiffe im Küstenmeer und in den inneren Gewässern gelten die deutschen Vorschriften.
 
 (2) Die Nutzung bordeigener Luftfahrzeuge erfolgt auf der Grundlage des § 18.
 
-
-## § 20 – Befreiung von Steuern und sonstigen Abgaben
+# § 20 – Befreiung von Steuern und sonstigen Abgaben
 
 Die Befreiung der ausländischen Streitkräfte und ihrer Mitglieder von Steuern und sonstigen Abgaben richtet sich nach dem in der Bundesrepublik Deutschland geltenden Recht.
 
-
-## § 21 – Streitbeilegung
+# § 21 – Streitbeilegung
 
 Meinungsverschiedenheiten der Vertragsparteien über die Anwendung und Auslegung der auf diesem Gesetz beruhenden Vereinbarungen unterliegen weder der deutschen Gerichtsbarkeit noch der eines ausländischen Staates. Sie sind im Verhandlungswege beizulegen.
 
-
-## § 1
+# § 1
 
 Das Bundesministerium der Verteidigung erläßt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat allgemeine Verwaltungsvorschriften zur Ausführung des Artikels 2 § 5 über Besitz und Führen von Schußwaffen der diesem Gesetz unterfallenden ausländischen Militärangehörigen.
 
-
-## § 2
+# § 2
 
 Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit gemäß Artikel 2 § 7 Abs. 2 wird von der Staatsanwaltschaft erklärt.
 
-
-## § 3
+# § 3
 
 Für die Zusammenarbeit in strafrechtlichen Angelegenheiten gemäß Artikel 2 § 7 findet Artikel 4a des Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S. 1183) in der jeweils geltenden Fassung entsprechende Anwendung.
 
-
-## § 4
+# § 4
 
 Verpflichtungen der ausländischen Streitkräfte, die sich aus Artikel 2 § 12 Abs. 5 herleiten, lassen die bestehenden Verantwortlichkeiten für eine Liegenschaft gegenüber der Nachbarschaft und der Allgemeinheit unberührt.
 
-
-## § 5
+# § 5
 
 Für die Abgeltung von Schäden finden die Artikel 6, 8 bis 14 und 25 des Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen vom 18. August 1961 (BGBl. 1961 II S. 1183) in der jeweils geltenden Fassung entsprechende Anwendung.

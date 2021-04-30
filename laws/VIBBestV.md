@@ -1,22 +1,17 @@
-# [VIBBestV] Verordnung zur Durchführung des § 15 Absatz 4 des Vermögensanlagengesetzes  (Vermögensanlagen-Informationsblatt-Bestätigungsverordnung - VIBBestV)
-
-Ausfertigungsdatum: 20.08.2015
-
+% Verordnung zur Durchführung des § 15 Absatz 4 des Vermögensanlagengesetzes  (Vermögensanlagen-Informationsblatt-Bestätigungsverordnung - VIBBestV)
+% Ausfertigungsdatum: 20.08.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Absatz 5 des Vermögensanlagengesetzes, der durch Artikel 2 Nummer 16 Buchstabe b des Gesetzes vom 3. Juli 2015 (BGBl. I S. 1114) eingefügt worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Durch diese Verordnung werden die Anforderungen näher bestimmt, die an eine Bestätigung durch Nutzung von Fernkommunikationsmittel nach § 15 Absatz 4 des Gesetzes zu stellen sind, um die eigenhändige Unterzeichnung durch den Anleger nach § 15 Absatz 3 des Gesetzes in gleichwertiger Art und Weise zu ersetzen.
 
 (2) Fernkommunikationsmittel im Sinne des § 15 Absatz 4 des Gesetzes sind Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines Vertrags über eine Vermögensanlage zwischen einem Anleger und einem Anbieter oder Emittenten eingesetzt werden können, ohne dass die Vertragsparteien gleichzeitig körperlich anwesend sind, wie Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst versendete Nachrichten (SMS), Telemedien sowie Internetseiten.
 
-
-## § 2 – Gleichwertigkeit der Bestätigung
+# § 2 – Gleichwertigkeit der Bestätigung
 
 (1) Eine Bestätigung im Sinne von § 15 Absatz 4 Satz 1 des Gesetzes ist der eigenhändigen Unterschrift nach § 15 Absatz 3 des Gesetzes gleichwertig, wenn
 
@@ -70,7 +65,6 @@ hinsichtlich der natürlichen Person, die für die juristische Person oder ander
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,17 +1,11 @@
-# [BuTMedAusbV] Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton   (Bild- und Ton-Mediengestalter-Ausbildungsverordnung - BuTMedAusbV)
-
-Ausfertigungsdatum: 28.02.2020
-
+% Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton   (Bild- und Ton-Mediengestalter-Ausbildungsverordnung - BuTMedAusbV)
+% Ausfertigungsdatum: 28.02.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -33,25 +27,23 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Mediengestalters Bild und Ton und der Mediengestalterin Bild und Ton wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -145,18 +137,15 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen und W
 
 8. rechtliche Grundlagen der Medienproduktion einhalten.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Zeitpunkt
+# § 6 – Zeitpunkt
 
 Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den Zeitpunkt legt die zuständige Stelle fest.
 
-
-## § 7 – Inhalt
+# § 7 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -164,8 +153,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereiche
+# § 8 – Prüfungsbereiche
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -173,8 +161,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 2. Produktionssysteme in Betrieb nehmen und bedienen.
 
-
-## § 9 – Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und herstellen
+# § 9 – Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und herstellen
 
 (1) Im Prüfungsbereich Audiovisuelle Medienprodukte vorbereiten und herstellen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -200,8 +187,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 10 – Prüfungsbereich Produktionssysteme in Betrieb nehmen und bedienen
+# § 10 – Prüfungsbereich Produktionssysteme in Betrieb nehmen und bedienen
 
 (1) Im Prüfungsbereich Produktionssysteme in Betrieb nehmen und bedienen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -223,13 +209,11 @@ d) zur Herstellung und Bearbeitung von Tonaufnahmen einzusetzen und zu bedienen 
 
 (3) Die Prüfungszeit beträgt insgesamt 30 Minuten. Das situative Fachgespräch dauert höchstens fünf Minuten.
 
-
-## § 11 – Zeitpunkt
+# § 11 – Zeitpunkt
 
 Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den Zeitpunkt legt die zuständige Stelle fest.
 
-
-## § 12 – Inhalt
+# § 12 – Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -237,8 +221,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 13 – Prüfungsbereiche
+# § 13 – Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -250,8 +233,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 14 – Prüfungsbereich Realisieren eines Bild- und Tonproduktes
+# § 14 – Prüfungsbereich Realisieren eines Bild- und Tonproduktes
 
 (1) Im Prüfungsbereich Realisieren eines Bild- und Tonproduktes hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -271,8 +253,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (4) Für die Erstellung des Bild- und Tonproduktes und für die Dokumentation hat der Prüfling 24 Stunden Zeit. Das Bild- und Tonprodukt muss er spätestens sechs Wochen nach Genehmigung des Projektantrages erstellt haben.
 
-
-## § 15 – Prüfungsbereich Wahlqualifikationen
+# § 15 – Prüfungsbereich Wahlqualifikationen
 
 (1) Im Prüfungsbereich Wahlqualifikationen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -290,8 +271,7 @@ Für den Nachweis ist die erste im Ausbildungsvertrag festgelegte Wahlqualifikat
 
 (3) Die Prüfungszeit beträgt insgesamt 50 Minuten. Das situative Fachgespräch darf höchstens zehn Minuten dauern.
 
-
-## § 16 – Prüfungsbereich Bild- und Tonproduktion
+# § 16 – Prüfungsbereich Bild- und Tonproduktion
 
 (1) Im Prüfungsbereich Bild- und Tonproduktion hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -319,8 +299,7 @@ Für den Nachweis ist die erste im Ausbildungsvertrag festgelegte Wahlqualifikat
 
 (3) Die Prüfungszeit beträgt 210 Minuten.
 
-
-## § 17 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 17 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -328,8 +307,7 @@ Für den Nachweis ist die erste im Ausbildungsvertrag festgelegte Wahlqualifikat
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -356,8 +334,7 @@ und Tonproduktes</td><td style="text-align: right;">mit 30 Prozent,</td></tr></t
 
 3. in keinem Prüfungsbereich mit „ungenügend“.
 
-
-## § 19 – Mündliche Ergänzungsprüfung
+# § 19 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -379,8 +356,7 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig treten außer Kraft
 
@@ -388,8 +364,7 @@ Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig treten außer Kr
 
 2. die Verordnung über die Berufsausbildung zum Film- und Videoeditor/zur Film- und Videoeditorin vom 29. Januar 1996 (BGBl. I S. 125).
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton
 
 (Fundstelle: BGBl. I 2020, 305 - 315)
 

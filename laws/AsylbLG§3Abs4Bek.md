@@ -1,10 +1,7 @@
-# [AsylbLG§3Abs4Bek] Bekanntmachung über die Höhe der Leistungssätze nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2016
-
-Ausfertigungsdatum: 26.10.2015
-
+% Bekanntmachung über die Höhe der Leistungssätze nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2016
+% Ausfertigungsdatum: 26.10.2015
  
-
-## ----
+# ----
 
 Nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes, der zuletzt durch Artikel 2 Nummer 3 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722) geändert worden ist, wird hiermit Folgendes bekannt gemacht:
 
@@ -36,7 +33,6 @@ e) für leistungsberechtigte Kinder vom Beginn des siebten bis zur Vollendung de
 
 f) für leistungsberechtigte Kinder bis zur Vollendung des sechsten Lebensjahres 135 Euro (§ 3 Absatz 2 Satz 2 Nummer 6).
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

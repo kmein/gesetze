@@ -1,10 +1,7 @@
-# [BinSchPatentV] Verordnung über Befähigungszeugnisse in der Binnenschiffahrt  (Binnenschifferpatentverordnung - BinSchPatentV)
-
-Ausfertigungsdatum: 15.12.1997
-
+% Verordnung über Befähigungszeugnisse in der Binnenschiffahrt  (Binnenschifferpatentverordnung - BinSchPatentV)
+% Ausfertigungsdatum: 15.12.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -17,8 +14,7 @@ des § 3 Abs. 5 des Binnenschiffahrtsaufgabengesetzes verordnet das Bundesminist
 \-  
 des § 4 Abs. 2 Satz 1 und 3 des Binnenschiffahrtsaufgabengesetzes in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -54,8 +50,7 @@ für Sport- und Erholungszwecke bestimmte Schiffe;
 
 zur Beförderung von Fahrgästen zugelassene Schiffe;
 
-8a.  
-Fahrgastboot:
+8a. Fahrgastboot:
 
 zur Beförderung von Fahrgästen zugelassene Fahrzeuge, die keine Fahrgastschiffe sind;
 
@@ -91,8 +86,7 @@ eine Person, die die entsprechende Befähigung nach den Besatzungsvorschriften d
 
 die Zeit an Bord eines auf Reisen befindlichen Fahrzeuges.
 
-
-## § 2 – Unberührt bleibende Vorschriften
+# § 2 – Unberührt bleibende Vorschriften
 
 Vorschriften, die das Führen von
 
@@ -106,13 +100,11 @@ Vorschriften, die das Führen von
 
 regeln, bleiben unberührt.
 
-
-## § 2a – Vorübergehende Abweichungen
+# § 2a – Vorübergehende Abweichungen
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung zur Anpassung an die technische Entwicklung der Binnenschifffahrt oder zu Versuchszwecken, durch die die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden, von dieser Verordnung abweichende Vorschriften vorübergehend bis zur Dauer von drei Jahren zu erlassen.
 
-
-## § 3 – Fahrerlaubnis
+# § 3 – Fahrerlaubnis
 
 (1) Wer ein Fahrzeug auf einer Wasserstraße führen will, bedarf einer Fahrerlaubnis der zuständigen Behörde für die jeweilige Klasse.
 
@@ -122,8 +114,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rech
 
 (4) Der Eigentümer oder, sofern ein Ausrüsterverhältnis besteht, der Ausrüster eines Fahrzeuges darf nicht anordnen oder zulassen, daß jemand das Fahrzeug führt, der nicht Inhaber der erforderlichen Fahrerlaubnis (Absatz 1) ist oder gegen den das Ruhen der Erlaubnis (§ 24 Abs. 2 und 6) vollziehbar angeordnet wurde.
 
-
-## § 4 – Ausnahmen
+# § 4 – Ausnahmen
 
 (1) Keiner Fahrerlaubnis bedarf der Führer eines Fahrzeuges,
 
@@ -141,8 +132,7 @@ Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rech
 
 die Inhaber eines amtlichen Berechtigungsscheines ihrer Dienst- oder Ausbildungsstelle. Dies gilt für die Inhaber eines Berechtigungsscheines einer als gemeinnützig anerkannten Körperschaft beim Führen von Wasserrettungsfahrzeugen mit einer Länge von weniger als 20 Metern entsprechend.
 
-
-## § 5 – Geltung anderer Befähigungszeugnisse
+# § 5 – Geltung anderer Befähigungszeugnisse
 
 (1) Eine nach dieser Verordnung vorgeschriebene Fahrerlaubnis wird ersetzt durch ein gültiges oder eine gültige:
 
@@ -174,8 +164,7 @@ geltendes Befähigungszeugnis, auch soweit es nicht nach dieser Verordnung ertei
 
 (4) Befähigungszeugnisse, die in einem anderen Moseluferstaat für das Führen eines Fahrzeuges, ausgenommen Fähren, mit oder ohne Antriebsmaschine auf der Mosel erteilt sind, berechtigen zum Führen dieser Fahrzeuge bis zur Mündung in den Rhein. Den Befähigungszeugnissen nach Satz 1 stehen für die Saar erteilte Befähigungszeugnisse gleich. § 4 Abs. 1 Nr. 2 bleibt unberührt.
 
-
-## § 6 – Befreiungsmöglichkeiten
+# § 6 – Befreiungsmöglichkeiten
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann, unbeschadet des § 5 Abs. 1 Nr. 2 und des § 21, Inhaber von gleichwertigen Befreiungszeugnissen anderer Staaten vom Erfordernis der Fahrerlaubnis nach § 3 Abs. 1 befreien. Es gibt im Verkehrsblatt bekannt, für welche Wasserstraßen und Fahrzeugarten es als Befähigungszeugnis gilt.
 
@@ -191,8 +180,7 @@ geltendes Befähigungszeugnis, auch soweit es nicht nach dieser Verordnung ertei
 
 erlauben.
 
-
-## § 7 – Einteilung der allgemeinen Fahrerlaubnisse
+# § 7 – Einteilung der allgemeinen Fahrerlaubnisse
 
 (1) Die Fahrerlaubnis wird in Klassen mit folgenden Berechtigungen erteilt:  
   
@@ -316,15 +304,13 @@ verfügt,
 
 2. als mindestens 16 Jahre altes Mitglied der Besatzung eines schwimmenden Gerätes ein dazu gehöriges Hilfsfahrzeug mit einer Antriebsleistung von nicht mehr als 25 Kilowatt (33,95 PS) führt.
 
-
-## § 8 – Besondere Fahrerlaubnisarten Elbschifferpatent, Donaukapitänspatent
+# § 8 – Besondere Fahrerlaubnisarten Elbschifferpatent, Donaukapitänspatent
 
 (1) (weggefallen)
 
 (2) Eine Fahrerlaubnis kann als Donaukapitänspatent (Anlage 8) erteilt werden, wenn der Bewerber bereits Inhaber der für die Bundeswasserstraße Donau erforderlichen Fahrerlaubnis ist. Sie bescheinigt dem Inhaber die Befähigung zum Führen von Fahrzeugen auf der Donau im internationalen Verkehr außerhalb des Geltungsbereichs dieser Verordnung in Übereinstimmung mit den "Empfehlungen über die Erteilung der Binnenschifferpatente auf der Donau" der Donaukommission vom 12. April 1995 (CD/SES 52/23). Sie gilt nur in Verbindung mit einem auf den gleichen Namen lautenden anderen Befähigungszeugnis.
 
-
-## § 9 – Streckenzeugnis
+# § 9 – Streckenzeugnis
 
 Die Erlaubnis zum Befahren einer Wasserstraße nach § 8 Abs. 1 oder Anlage 9 oder Teilstrecken davon wird durch ein Streckenzeugnis (Anlage 7) nachgewiesen bei Inhabern
 
@@ -334,8 +320,7 @@ Die Erlaubnis zum Befahren einer Wasserstraße nach § 8 Abs. 1 oder Anlage 9 od
 
 Die Erlaubnis gilt nur in Verbindung mit einem der in Satz 1 genannten Befähigungszeugnisse.
 
-
-## § 10 – Allgemeine Anforderungen für die Erteilung der Fahrerlaubnis
+# § 10 – Allgemeine Anforderungen für die Erteilung der Fahrerlaubnis
 
 (1) Der Bewerber muß für die Erteilung einer Fahrerlaubnis
 
@@ -349,8 +334,7 @@ vollendet haben;
 
 3. zuverlässig sein;
 
-3a.  
-der Klassen A bis C2 und F, Klasse F soweit die Erteilung der Fahrerlaubnis für eine Fähre mit Maschinenantrieb erteilt werden soll, über ein Sprechfunkzeugnis nach Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk (Bekanntmachung vom 28. August 2000, BGBl. II S. 1213) verfügen;
+3a. der Klassen A bis C2 und F, Klasse F soweit die Erteilung der Fahrerlaubnis für eine Fähre mit Maschinenantrieb erteilt werden soll, über ein Sprechfunkzeugnis nach Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk (Bekanntmachung vom 28. August 2000, BGBl. II S. 1213) verfügen;
 
 4. die erforderliche Befähigung in einer Prüfung (§ 18) nachgewiesen haben.
 
@@ -364,8 +348,7 @@ der Klassen A bis C2 und F, Klasse F soweit die Erteilung der Fahrerlaubnis für
 
 (3) Bewerbern mit eingeschränkter Tauglichkeit kann die Fahrerlaubnis unter Auflagen erteilt werden. Tritt eine Einschränkung der Tauglichkeit nach Erteilung der Fahrerlaubnis ein, können nachträglich Auflagen erteilt werden. Die Auflagen werden im Befähigungszeugnis eingetragen. Der Inhaber eines Befähigungszeugnisses nach § 5 oder § 6 Abs. 1 hat darin eingetragene Auflagen zu beachten.
 
-
-## § 11 – Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Fahrzeit, Fahrleistungen
+# § 11 – Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Fahrzeit, Fahrleistungen
 
 (1) Der Bewerber muß eine Fahrzeit als Mitglied einer Decksmannschaft
 
@@ -397,8 +380,7 @@ b) die nachgewiesene Fahrzeit auf See als Mitglied einer Decksmannschaft höchst
 
 erforderlich wäre.
 
-
-## § 12 – Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Streckenfahrten
+# § 12 – Besondere Anforderungen für die Erteilung einer Fahrerlaubnis Streckenfahrten
 
 (1) Soll sich die Fahrerlaubnis der Klassen A bis E auf Wasserstraßen nach Anlage 9 oder Teilstrecken davon erstrecken, muß der Bewerber die jeweilige Wasserstraße oder Teilstrecke mindestens sechzehnmal an Bord eines Fahrzeuges mit Antriebsmaschine innerhalb der letzten zehn Jahre vor Eingang des Antrags befahren haben, davon mindestens dreimal in jeder Richtung innerhalb der letzten drei Jahre. Für eine Fahrerlaubnis der Klasse E genügt stattdessen, wenn der Bewerber die jeweilige Wasserstraße oder Teilstrecke im Rahmen einer sachgerechten Ausbildung mindestens viermal in jeder Richtung innerhalb des letzten Jahres vor Eingang des Antrags befahren hat.
 
@@ -408,18 +390,15 @@ erforderlich wäre.
 
 (4) Absatz 1 gilt für die Erteilung eines Streckenzeugnisses nach § 9 entsprechend.
 
-
-## § 13 – Erweiterung einer Fahrerlaubnis
+# § 13 – Erweiterung einer Fahrerlaubnis
 
 Soll eine Fahrerlaubnis, ein Befähigungszeugnis nach § 5 Abs. 1 oder ein Streckenzeugnis um eine nach § 7 Abs. 2 erlaubnispflichtige Strecke erweitert werden, gelten § 10 Abs. 1 Nr. 4 und § 12 entsprechend.
 
-
-## § 14 – Zuständige Behörde
+# § 14 – Zuständige Behörde
 
 Zuständige Behörde im Sinne dieser Verordnung ist die Generaldirektion Wasserstraßen und Schifffahrt. § 6 bleibt unberührt.
 
-
-## § 15 – Prüfungsausschuß
+# § 15 – Prüfungsausschuß
 
 (1) Die zuständige Behörde bildet für die Abnahme der Prüfung einen oder mehrere Prüfungsausschüsse. Jeder Prüfungsausschuß besteht aus einem Vorsitzenden, der Angehöriger der Wasserstraßen- und Schifffahrtsverwaltung des Bundes ist, und mindestens zwei Beisitzern.
 
@@ -447,8 +426,7 @@ Zuständige Behörde im Sinne dieser Verordnung ist die Generaldirektion Wassers
 
 10. Dokumentierung von Täuschungsversuchen oder Unregelmäßigkeiten.
 
-
-## § 16 – Antrag
+# § 16 – Antrag
 
 (1) Der Bewerber hat den Antrag auf Zulassung zur Prüfung und auf Erteilung oder Erweiterung einer Fahrerlaubnis mit folgenden Angaben an die zuständige Behörde zu richten:
 
@@ -473,8 +451,7 @@ b) von der Zentralkommission für die Rheinschifffahrt oder dem Bundesministeriu
 
 worden ist,
 
-2a.  
-anstelle des Zeugnisses nach Nummer 2 ein von der Zentralkommission für die Rheinschifffahrt nach Maßgabe der Schiffspersonalverordnung-Rhein anerkanntes gültiges Befähigungszeugnis,
+2a. anstelle des Zeugnisses nach Nummer 2 ein von der Zentralkommission für die Rheinschifffahrt nach Maßgabe der Schiffspersonalverordnung-Rhein anerkanntes gültiges Befähigungszeugnis,
 
 3. der Nachweis über die Fahrzeit und im Falle des § 7 Abs. 2 über die Streckenfahrten,
 
@@ -492,8 +469,7 @@ Im Falle des § 9 sind dem Antrag nur die Kopie des Befähigungszeugnisses, mit 
 
 (7) Die zuständige Behörde kann einzelne Aufgaben ihren nachgeordneten Stellen übertragen.
 
-
-## § 17 – Nachweis der Fahrzeit, Fahrleistungen und Streckenfahrten
+# § 17 – Nachweis der Fahrzeit, Fahrleistungen und Streckenfahrten
 
 (1) Die Fahrzeit und Fahrleistung sowie die Streckenfahrten sind durch ein geprüftes Schifferdienstbuch nach Maßgabe des § 3.09 Nummer 1 der Schiffspersonalverordnung für den Rhein nachzuweisen. Soweit ein Bewerber ein Schifferdienstbuch nach anderen Vorschriften nicht besitzen muß, kann er die Fahrzeit und die Streckenfahrten auch durch eine andere amtliche Urkunde seines Wohnsitzstaates nachweisen, die mindestens folgende Angaben enthält:
 
@@ -515,8 +491,7 @@ Die Fahrzeit auf See ist durch ein Seefahrtbuch nachzuweisen.
 
 (4) Soll die Zeit des Besuchs einer Schifferberufsschule auf die Fahrzeit angerechnet werden, muß das Zeugnis dieser Schule vorgelegt werden.
 
-
-## § 18 – Prüfung
+# § 18 – Prüfung
 
 (1) Der Bewerber hat in einer Prüfung vor einem Prüfungsausschuß nachzuweisen, daß er
 
@@ -528,8 +503,7 @@ Die Prüfung besteht aus einem theoretischen und für den Erwerb einer Fahrerlau
 
 (2) Besteht ein Bewerber die Prüfung nicht, kann er sie frühestens nach zwei Monaten wiederholen. Der Prüfungsausschuß kann diese Frist verlängern; er kann die erneute Teilnahme an einer Prüfung mit Auflagen oder Bedingungen verbinden oder dafür Befreiungen gewähren.
 
-
-## § 19 – Befreiungen und Erleichterungen
+# § 19 – Befreiungen und Erleichterungen
 
 (1) Ein Bewerber, der die Abschlußprüfung in den anerkannten Ausbildungsberufen Binnenschiffer, Hafenschiffer oder Schiffsmechaniker oder eine andere berufsbezogene Abschlußprüfung bestanden hat, kann von dem Teil der Prüfung befreit werden, der sich auf berufliche Fertigkeiten bezieht. Satz 1 gilt nur, sofern der Bewerber in den letzten fünf Jahren vor Stellung des Antrages zur Zulassung zur Prüfung nachweislich im erlernten Beruf tätig war.
 
@@ -543,8 +517,7 @@ Die Prüfung besteht aus einem theoretischen und für den Erwerb einer Fahrerlau
 
 (6) Abweichend von § 11 Absatz 3 können Fahrzeiten auch auf einem Sportboot, das am 31. Dezember 2015 über ein Bootszeugnis nach § 3 Absatz 1 Satz 2 der Binnenschifffahrt-Sportbootvermietungsverordnung verfügt hat und nachweislich auch mit Gestellung des Bootsführers vermietet worden ist, geleistet werden.
 
-
-## § 20 – Erteilung einer Erlaubnis
+# § 20 – Erteilung einer Erlaubnis
 
 (1) Hat der Bewerber in der Prüfung die erforderliche Befähigung zum Führen eines Fahrzeuges nach § 18 Abs. 1 nachgewiesen, wird ihm eine Fahrerlaubnis der entsprechenden Klasse oder eine Erlaubnis nach § 7 Abs. 2 erteilt und ein Zeugnis nach dem Muster der Anlage 1 bis 5, 7 oder 8 ausgestellt. Soweit erforderlich, wird ein befristetes vorläufiges Zeugnis nach dem Muster der Anlage 6 ausgestellt.
 
@@ -552,8 +525,7 @@ Die Prüfung besteht aus einem theoretischen und für den Erwerb einer Fahrerlau
 
 (3) In die Befähigungszeugnisse nach § 7 Abs. 1 wird jeweils als Ablaufdatum für deren Gültigkeit die jeweilige Erneuerungsfrist nach § 24 Abs. 1 Satz 1 eingetragen, wenn sich dies nicht bereits aus einem anderen Bescheid ergibt.
 
-
-## § 21 – Erteilung einer Fahrerlaubnis ohne Prüfung
+# § 21 – Erteilung einer Fahrerlaubnis ohne Prüfung
 
 Gegen Vorlage eines
 
@@ -563,13 +535,11 @@ Gegen Vorlage eines
 
 wird dem Inhaber auf Antrag ohne Ablegung einer Prüfung eine Fahrerlaubnis der entsprechenden Klasse erteilt und ein Befähigungszeugnis ausgestellt. Darin eingetragene Auflagen oder Beschränkungen werden auch in das auszustellende Befähigungszeugnis eingetragen.
 
-
-## § 22 – Ersatzausfertigung
+# § 22 – Ersatzausfertigung
 
 Ist ein Befähigungszeugnis oder ein Streckenzeugnis unbrauchbar geworden, verlorengegangen oder sonst abhanden gekommen, stellt die zuständige Behörde auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Der Verlust ist glaubhaft zu machen. Der Inhaber eines Befähigungszeugnisses hat ein unbrauchbar gewordenes oder wieder aufgefundenes Zeugnis unverzüglich bei der zuständigen Behörde abzuliefern oder ihr zur Entwertung vorzulegen.
 
-
-## § 23 – Entziehung der Fahrerlaubnis
+# § 23 – Entziehung der Fahrerlaubnis
 
 (1) Erweist sich der Inhaber einer Fahrerlaubnis zum Führen von Fahrzeugen als untauglich oder unzuverlässig, hat die zuständige Behörde sie ihm zu entziehen. Rechtfertigen Tatsachen Zweifel an der Tauglichkeit, kann die zuständige Behörde über ein Zeugnis nach § 16 Abs. 2 Satz 1 Nr. 2 hinaus die Vorlage weiterer fachärztlicher Zeugnisse zur Feststellung der Tauglichkeit nach § 10 Abs. 1 Nr. 2 verlangen. Der Inhaber eines Befähigungszeugnisses gilt als widerleglich unzuverlässig, wenn er seiner Verpflichtung nach § 24 Abs. 7 nicht innerhalb einer Woche, nachdem die Anordnung über das Ruhen der Erlaubnis vollziehbar geworden ist, nachgekommen ist.
 
@@ -587,8 +557,7 @@ Ist ein Befähigungszeugnis oder ein Streckenzeugnis unbrauchbar geworden, verlo
 
 (7) Die Absätze 1 bis 6 gelten für Befähigungszeugnisse nach § 5 Abs. 1 Nr. 1 entsprechend.
 
-
-## § 24 – Wiederholungsuntersuchungen, Ruhen der Erlaubnis
+# § 24 – Wiederholungsuntersuchungen, Ruhen der Erlaubnis
 
 (1) Der Inhaber einer Fahrerlaubnis nach § 3 Abs. 1 oder eines Befähigungszeugnisses nach § 5 Abs. 1 Nr. 1, 3 oder 5 darf ein Fahrzeug nicht führen, wenn er seine Tauglichkeit nicht durch Vorlage eines ärztlichen Zeugnisses nach Maßgabe des § 16 Abs. 2 Nr. 2 oder 2a bei der ausstellenden Behörde
 
@@ -632,8 +601,7 @@ vorzulegen. Die Dauer, während der das Verbot nach Absatz 2 gilt, wird von dem 
 
 § 23 Abs. 5a Satz 2 gilt entsprechend.
 
-
-## § 24a – Sicherstellung von Befähigungszeugnissen
+# § 24a – Sicherstellung von Befähigungszeugnissen
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass eine Erlaubnis entzogen (§ 23) oder deren Ruhen angeordnet (§ 24 Abs. 2 oder 6) wird, so kann das Befähigungszeugnis durch die Wasserschutzpolizeien der Länder oder durch die zuständige Behörde vorläufig sichergestellt werden. Bis zu einer Entscheidung nach Satz 1 gilt die Anordnung der Sicherstellung zugleich als Anordnung nach § 24 Absatz 2.
 
@@ -641,8 +609,7 @@ vorzulegen. Die Dauer, während der das Verbot nach Absatz 2 gilt, wird von dem 
 
 (3) Die vorläufige Sicherstellung des Befähigungszeugnisses ist aufzuheben und das Befähigungszeugnis dem Inhaber zurückzugeben, wenn ihr Grund weggefallen ist oder wenn die zuständige Behörde die Erlaubnis nicht entzieht oder nicht deren Ruhen anordnet.
 
-
-## § 25 – Ordnungswidrigkeiten
+# § 25 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -660,11 +627,9 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 
 7. entgegen § 24 Abs. 7 Satz 1 ein Befähigungszeugnis nicht oder nicht rechtzeitig vorlegt.
 
+# §§ 26 und 27 – ----
 
-## §§ 26 und 27 – ----
-
-
-## § 28 – Übergangsvorschriften
+# § 28 – Übergangsvorschriften
 
 (1) Befähigungszeugnisse nach § 5 Abs. 1 Nr. 1 entsprechen folgenden Fahrerlaubnisklassen:  
 
@@ -675,15 +640,13 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 
 (3) (weggefallen)
 
-
-## § 29 – Inkrafttreten, Außerkrafttreten
+# § 29 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
 (2)
 
-
-## Anlage 1 – Muster des Schifferpatentes(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
+# Anlage 1 – Muster des Schifferpatentes(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
 
 (Fundstelle: BGBl. I 2016, 2965)
 
@@ -855,8 +818,7 @@ Einschränkungen
 
 Wasserstraßen mit besonderer Streckenkenntnis
 
-
-## Anlage 2 – Muster des Schifferpatentes C(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
+# Anlage 2 – Muster des Schifferpatentes C(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
 
 (Fundstelle: BGBl. I 2016, 2966)
 
@@ -1024,8 +986,7 @@ Einschränkungen
 
 Wasserstraßen mit besonderer Streckenkenntnis
 
-
-## Anlage 3 – Muster des Feuerlöschbootpatentes D(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
+# Anlage 3 – Muster des Feuerlöschbootpatentes D(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
 
 (Fundstelle: BGBl. I 2016, 2967)
 
@@ -1192,8 +1153,7 @@ Einschränkungen
 
 Wasserstraßen mit besonderer Streckenkenntnis
 
-
-## Anlage 4 – Muster Sportschifferzeugnis(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
+# Anlage 4 – Muster Sportschifferzeugnis(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
 
 (Fundstelle: BGBl. I 2016, 2968)
 
@@ -1356,8 +1316,7 @@ Einschränkungen
 
 Wasserstraßen mit besonderer Streckenkenntnis
 
-
-## Anlage 5 – Muster Fährführerschein(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
+# Anlage 5 – Muster Fährführerschein(85 mm x 54 mm – Grundfarbe blau,entsprechend ISO-Norm 78.10)
 
 (Fundstelle: BGBl. I 2016, 2969)
 
@@ -1520,8 +1479,7 @@ Einschränkungen
 
 Wasserstraßen mit besonderer Streckenkenntnis
 
-
-## Anlage 6 – Muster vorläufiges Patent/Fährführerschein
+# Anlage 6 – Muster vorläufiges Patent/Fährführerschein
 
 (Fundstelle: BGBl. I 2016, 2970)
 
@@ -1624,8 +1582,7 @@ Im Auftrag ..........
 
 (Name, Unterschrift, Siegel)
 
-
-## Anlage 7 – Muster Streckenkundezeugnis
+# Anlage 7 – Muster Streckenkundezeugnis
 
 (Fundstelle: BGBl. I 2016, 2971)
 
@@ -1832,8 +1789,7 @@ Im Auftrag ..........
 
 (Name, Unterschrift, Siegel)
 
-
-## Anlage 8 – Muster Donaukapitänspatent
+# Anlage 8 – Muster Donaukapitänspatent
 
 (Fundstelle: BGBl. I 2016, 2972)
 
@@ -2026,11 +1982,9 @@ est autorisé(e) conformément aux règles relatives à la délivrance des certi
 
   
   
-..........  
-(Eigenhändige Unterschrift des Inhabers)/  
+.......... (Eigenhändige Unterschrift des Inhabers)/  
 (Signature du titulaire)  
-..........  
-(Ort und Datum der Ausstellung)/  
+.......... (Ort und Datum der Ausstellung)/  
 (Lieu et date de délivrance)
 
  
@@ -2072,8 +2026,7 @@ Amtliche Vermerke/observations:
 
  
 
-
-## Anlage 9
+# Anlage 9
 
 (Fundstelle: BGBl. I 2006, 221)
 
@@ -2082,8 +2035,7 @@ Amtliche Vermerke/observations:
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">Wasserstraßen der Zonen 3 und 4 mit besonderer und gegebenenfalls eingeschränkter Streckenkenntnis</td></tr><tr class="even"><td style="text-align: center;"><dl><dt>1.</dt><dd>Elbe von km 0,0 (Schöna) bis km 607,50 (Obere Grenze des Hamburger Hafens)</dd></dl></td></tr><tr class="odd"><td style="text-align: center;"><dl><dt>2.</dt><dd>Weser von km 0,0 (Hann.-Münden) bis km 204,45 (Minden)-Oberweser</dd></dl></td></tr><tr class="even"><td style="text-align: center;"><dl><dt>3.</dt><dd>Donau von km 2249,00 (Liegestelle Vilshofen) bis km 2322,02 (Straubing)</dd></dl></td></tr><tr class="odd"><td style="text-align: center;"><dl><dt>4.</dt><dd>Untere Havel-Wasserstraße<dl><dt>a)</dt><dd>von km 67,5 (Plaue) bis km 112,00 (unterhalb der Einmündung der Hohennauer Wasserstraße), jedoch nur bei Wasserständen am Unterpegel Rathenow von mehr als 190 cm</dd><dt>b)</dt><dd>von km 112,00 (unterhalb der Einmündung der Hohennauer Wasserstraße) bis km 145,80 (Havelberg), jedoch nur bei Wasserständen am Unterpegel Rathenow von mehr als 130 cm</dd></dl></dd></dl></td></tr><tr class="even"><td style="text-align: center;"><dl><dt>5.</dt><dd>Oder von km 542,4 (Ratzdorf) bis km 704,1 (Widochowa)</dd></dl></td></tr><tr class="odd"><td style="text-align: center;"><dl><dt>6.</dt><dd>Saale von km 0,0 (Mündung in die Elbe) bis km 19,50 (Unterer Vorhafen Schleuse Calbe)</dd></dl></td></tr></tbody></table>
 
-
-## Anlage 10
+# Anlage 10
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3089
 
@@ -2111,8 +2063,7 @@ Insel Hiddensee und Insel Rügen (Bug) durch die Verbindungslinie von der Südos
 
 Peenestrom (insoweit kann das die Wasserstraße verwaltende Wasserstraßen- und Schifffahrtsamt Ausnahmen zulassen)
 
-
-## Anlage 11 – Prüfungsprogramm für den Erwerb eines Befähigungszeugnisses in der Binnenschiffahrt
+# Anlage 11 – Prüfungsprogramm für den Erwerb eines Befähigungszeugnisses in der Binnenschiffahrt
 
 Fundstelle des Originaltextes: BGBl. I 1997, 3090 - 3091;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

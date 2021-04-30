@@ -1,20 +1,15 @@
-# [HUrlV] Verordnung über den Heimaturlaub des Auswärtigen Dienstes  (Heimaturlaubsverordnung - HUrlV)
-
-Ausfertigungsdatum: 03.06.2002
-
+% Verordnung über den Heimaturlaub des Auswärtigen Dienstes  (Heimaturlaubsverordnung - HUrlV)
+% Ausfertigungsdatum: 03.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 18 Abs. 2 des Gesetzes über den Auswärtigen Dienst vom 30. August 1990 (BGBl. I S. 1842) verordnet das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen:
 
-
-## § 1 – Zusatzurlaub
+# § 1 – Zusatzurlaub
 
 Beamtinnen und Beamte des Auswärtigen Dienstes an außereuropäischen Dienstorten sowie an europäischen Dienstorten mit besonders schwierigen Lebens- und Arbeitsbedingungen erhalten jährlich bis zu 18 zusätzliche Urlaubstage.
 
-
-## § 2 – Wartezeit, Urlaubsabwicklung
+# § 2 – Wartezeit, Urlaubsabwicklung
 
 (1) Zusatzurlaub kann frühestens angetreten werden
 
@@ -28,15 +23,13 @@ dienstlichen Aufenthalts, es sei denn, ein dienstlicher Aufenthalt an einem ande
 
 (2) Entsteht der Anspruch auf Zusatzurlaub im Laufe des Urlaubsjahres, beträgt er ein Zwölftel für jeden vollen Monat des dienstlichen Aufenthalts. Wechselt die Beamtin oder der Beamte den Dienstort, errechnet sich der Zusatzurlaub anteilig nach Satz 1. Bei einem Wechsel im Laufe eines Monats gilt dieser Monat als voller Monat am neuen Dienstort.
 
-
-## § 3 – Reisetage
+# § 3 – Reisetage
 
 (1) Für die Reise von einem Dienstort außerhalb Europas ins Inland werden neben dem Zusatzurlaub nach § 1 einmal jährlich zusätzliche Urlaubstage (Reisetage) gewährt. Sie betragen pro angefangene sechs Stunden durchschnittlich erforderlicher Reisezeit jeweils für die Hin- und für die Rückreise einen halben Tag, höchstens jedoch sechs Arbeitstage.
 
 (2) Reisetage werden für jedes Urlaubsjahr nur einmal gewährt. Sie verfallen mit dem Erholungsurlaub.
 
-
-## § 4 – Fahrkostenzuschuss
+# § 4 – Fahrkostenzuschuss
 
 (1) Zu den Fahrkosten eines Urlaubs im Inland (Heimaturlaub), der ohne den Tag der An- und Abreise mindestens zwei Wochen dauert, wird auf Antrag einmalig für jedes Jahr des dienstlichen Auslandsaufenthalts ein Zuschuss gewährt (Fahrkostenzuschuss). Berücksichtigt werden Fahrkosten
 
@@ -64,8 +57,7 @@ Der Zuschuss zu den Fahrkosten der in Nummer 2 genannten Personen entfällt, wen
 
 2. im letzten angefangenen Jahr des dienstlichen Auslandsaufenthalts dieser mindestens sechs Monate dauert.
 
-
-## § 5 – Ausschluss des Fahrkostenzuschusses
+# § 5 – Ausschluss des Fahrkostenzuschusses
 
 (1) Der Fahrkostenzuschuss wird nicht gewährt
 
@@ -77,27 +69,22 @@ Der Zuschuss zu den Fahrkosten der in Nummer 2 genannten Personen entfällt, wen
 
 (2) Werden Beamtinnen und Beamte im Anschluss an einen Heimaturlaub, für den sie Fahrkostenzuschuss beantragt haben, an einen anderen Dienstort versetzt oder abgeordnet und ist es nicht erforderlich, dass sie zuvor noch einmal an den bisherigen Dienstort reisen, gilt § 4 Abs. 3 Satz 2 und 3 der Auslandsumzugskostenverordnung. Die Rückkehr an den bisherigen Dienstort ist nicht erforderlich, wenn sie spätestens zwölf Wochen vor Antritt des Heimaturlaubs davon unterrichtet wurden, dass sie im Anschluss an diesen Heimaturlaub versetzt oder abgeordnet werden und an den bisherigen Dienstort aus dienstlichen Gründen nicht zurückzukehren brauchen.
 
-
-## § 6 – Abschlagszahlung und Abrechnung der Fahrkosten
+# § 6 – Abschlagszahlung und Abrechnung der Fahrkosten
 
 Der Fahrkostenzuschuss ist rechtzeitig schriftlich oder elektronisch vor Antritt der Reise bei der zuständigen inländischen Dienststelle zu beantragen. Auf Antrag ist vor Antritt eines Urlaubs eine Abschlagszahlung bis zur Höhe des nach § 4 Abs. 2 voraussichtlich zustehenden Betrages zu gewähren. Der Fahrkostenzuschuss ist innerhalb einer Ausschlussfrist von sechs Monaten nach Beendigung der Urlaubsreise abzurechnen.
 
-
-## § 7
+# § 7
 
 (weggefallen)
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
-
-## Anlage 1 – (weggefallen)
+# Anlage 1 – (weggefallen)
 
 \-
 
-
-## Anlage 2 – (weggefallen)
+# Anlage 2 – (weggefallen)
 
 \-

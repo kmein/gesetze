@@ -1,18 +1,13 @@
-# [KapAusstV] Verordnung über die Kapitalausstattung von Versicherungsunternehmen  (Kapitalausstattungs-Verordnung - KapAusstV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die Kapitalausstattung von Versicherungsunternehmen  (Kapitalausstattungs-Verordnung - KapAusstV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 122 Absatz 2 Satz 1 in Verbindung mit Satz 3, des § 217 Satz 1 Nummer 1 bis 4 in Verbindung mit Satz 3, auch in Verbindung mit § 165 Absatz 1 und § 219 Absatz 1, des § 220 Satz 1 in Verbindung mit Satz 3 und des § 235 Absatz 1 Satz 1 Nummer 1 bis 3 und 12 in Verbindung mit Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der Finanzen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Mindestkapitalanforderung
+# § 1 – Mindestkapitalanforderung
 
 (1) Die gemäß den Artikeln 248 bis 251 der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1) zu berechnende Mindestkapitalanforderung bedarf der Anpassung, wenn sie weniger als 25 Prozent oder mehr als 45 Prozent der nach den §§ 96 bis 109 oder den §§ 111 bis 121 des Versicherungsaufsichtsgesetzes berechneten Solvabilitätskapitalanforderung beträgt. Dabei ist ein etwaiger, nach § 301 des Versicherungsaufsichtsgesetzes festgesetzter Kapitalaufschlag als Teil der Solvabilitätskapitalanforderung mit zu berücksichtigen. Die Anpassung erfolgt durch Anhebung der errechneten Mindestkapitalanforderung auf 25 Prozent oder Reduzierung der errechneten Mindestkapitalanforderung auf 45 Prozent des Betrags der Solvabilitätskapitalanforderung.
 
@@ -28,8 +23,7 @@ Auf Grund des § 122 Absatz 2 Satz 1 in Verbindung mit Satz 3, des § 217 Satz 1
 
 5. 1,2 Millionen Euro bei firmeneigenen Rückversicherungsunternehmen.
 
-
-## § 2 – Solvabilitätskapitalanforderung
+# § 2 – Solvabilitätskapitalanforderung
 
 (1) Die Höhe der Solvabilitätskapitalanforderung ergibt sich vorbehaltlich des Absatzes 2 als Maximum des Beitragsindexes nach § 3 und des Schadenindexes nach § 4.
 
@@ -43,8 +37,7 @@ Der Quotient darf dabei höchstens mit 1 angesetzt werden.
 
 (+++ § 2: Zur Anwendung vgl. § 8 +++)
 
-
-## § 3 – Beitragsindex
+# § 3 – Beitragsindex
 
 (1) Der Beitragsindex errechnet sich nach den Absätzen 2 und 3. Dabei sind die Bruttobeiträge die gebuchten oder die verdienten Bruttobeiträge; maßgebend ist jeweils der höhere Betrag.
 
@@ -57,8 +50,7 @@ Der Quotient darf dabei höchstens mit 1 angesetzt werden.
 (+++ § 3 Abs. 2: Zur Anwendung vgl. § 17 Abs. 2 +++)  
 (+++ § 3 Abs. 3: Zur Anwendung vgl. § 4 Abs. 1 +++)
 
-
-## § 4 – Schadenindex
+# § 4 – Schadenindex
 
 (1) Der Schadenindex wird nach Maßgabe der folgenden Sätze ermittelt. Die Bruttozahlungen für Versicherungsfälle in den letzten drei Geschäftsjahren und die am Ende des letzten Geschäftsjahres gebildeten Bruttorückstellungen für noch nicht abgewickelte Versicherungsfälle für das gesamte Versicherungsgeschäft werden zusammengerechnet. Von dieser Summe werden die während der letzten drei Geschäftsjahre erzielten Erträge aus Regressen sowie die zu Beginn dieses Zeitraums vorhandenen Bruttorückstellungen für noch nicht abgewickelte Versicherungsfälle für das gesamte Versicherungsgeschäft abgezogen. Der verbleibende Betrag wird durch drei geteilt. Von dem Ergebnis werden bis zum Betrag von 42,9 Millionen Euro 26 Prozent und von dem darüber hinausgehenden Betrag 23 Prozent ermittelt. Die ermittelten Teilbeträge werden addiert. Auf das Zwischenergebnis aus Satz 6 ist § 3 Absatz 3 entsprechend anzuwenden.
 
@@ -68,8 +60,7 @@ Der Quotient darf dabei höchstens mit 1 angesetzt werden.
 
 (+++ § 4: Zur Anwendung vgl. § 8 +++)
 
-
-## § 5 – Krankenversicherung
+# § 5 – Krankenversicherung
 
 Die Prozentsätze nach § 3 Absatz 2 Satz 3 und § 4 Absatz 1 Satz 5 sind um zwei Drittel zu kürzen, soweit Krankenversicherungen nach Art der Lebensversicherung betrieben werden, wenn
 
@@ -85,8 +76,7 @@ a) das Kündigungsrecht des Versicherungsunternehmens spätestens nach Ablauf de
 
 b) eine Erhöhung der Beiträge oder eine Herabsetzung der Leistungen mit Wirkung für bestehende Versicherungen vorbehalten ist.
 
-
-## § 6 – Mindestkapitalanforderung
+# § 6 – Mindestkapitalanforderung
 
 (1) Die Mindestkapitalanforderung beträgt mindestens 2,5 Millionen Euro.
 
@@ -96,18 +86,15 @@ b) eine Erhöhung der Beiträge oder eine Herabsetzung der Leistungen mit Wirkun
 
 (+++ § 6: Zur Anwendung vgl. § 8 +++)
 
-
-## § 7 – Ausnahme von der Mindestkapitalanforderung für bestimmte kleinere Vereine
+# § 7 – Ausnahme von der Mindestkapitalanforderung für bestimmte kleinere Vereine
 
 Für kleinere Vereine, deren Satzung vorsieht, dass Nachschüsse vorbehalten sind oder Versicherungsansprüche gekürzt werden, und deren jährliche Beiträge 1,9 Millionen Euro nicht übersteigen, entfällt der Mindestbetrag der Mindestkapitalanforderung.
 
-
-## § 8 – Anzuwendende Vorschriften
+# § 8 – Anzuwendende Vorschriften
 
 Für Rückversicherungsunternehmen in Abwicklung gemäß § 165 des Versicherungsaufsichtsgesetzes gelten die §§ 2 bis 4 und 6 entsprechend.
 
-
-## § 9 – Solvabilitätskapitalanforderung
+# § 9 – Solvabilitätskapitalanforderung
 
 (1) Bei Kapital- und Rentenversicherungen wird die Solvabilitätskapitalanforderung ermittelt als Summe von
 
@@ -130,8 +117,7 @@ Bei kurzfristigen Versicherungen auf den Todesfall mit einer vertraglichen Höch
 (+++ § 9 Abs. 1 S. 1 Nr. 1: Zur Anwendung vgl. § 10 Abs. 2 +++)  
 (+++ § 9 Abs. 1 S. 1 Nr. 1: Zur Anwendung vgl. § 14 Abs. 2 +++)
 
-
-## § 10 – Fondsgebundene Lebensversicherung
+# § 10 – Fondsgebundene Lebensversicherung
 
 (1) Bei fondsgebundenen Lebensversicherungen gilt § 9 Absatz 1 Satz 1 Nummer 1 nur insoweit, als das Versicherungsunternehmen ein Anlagerisiko übernimmt. § 9 Absatz 1 Satz 1 Nummer 2, Satz 2 und 3 gilt nur insoweit, als das Versicherungsunternehmen ein Sterblichkeitsrisiko übernimmt.
 
@@ -141,26 +127,22 @@ Bei kurzfristigen Versicherungen auf den Todesfall mit einer vertraglichen Höch
 
 (+++ § 10: Zur Anwendung vgl. § 17 Abs. 1 +++)
 
-
-## § 11 – Zusätzliche Risiken
+# § 11 – Zusätzliche Risiken
 
 Für Zusatzrisiken zur Lebensversicherung (§ 10 Absatz 4 des Versicherungsaufsichtsgesetzes) bemisst sich die Solvabilitätskapitalanforderung nach den auf die Zusatzrisiken entfallenden Beiträgen. Die Vorschriften des § 3 über den Beitragsindex gelten entsprechend.
 
 (+++ § 11: Zur Anwendung vgl. § 17 Abs. 1 +++)  
 (+++ § 11: Zur Anwendung vgl. § 17 Abs. 2 +++)
 
-
-## § 12 – Kapitalisierungsgeschäfte
+# § 12 – Kapitalisierungsgeschäfte
 
 Bei Kapitalisierungsgeschäften nach § 1 Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes beträgt die Solvabilitätskapitalanforderung 4 Prozent der mathematischen Reserven. Diese sind nach § 9 Absatz 1 Satz 1 Nummer 1 zu berechnen.
 
-
-## § 13 – Tontinengeschäfte
+# § 13 – Tontinengeschäfte
 
 Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent des Vermögens der Gemeinschaften.
 
-
-## § 14 – Verwaltung von Versorgungseinrichtungen
+# § 14 – Verwaltung von Versorgungseinrichtungen
 
 (1) Bei Geschäften der Verwaltung von Versorgungseinrichtungen nach § 1 Absatz 2 Satz 3 und 4 des Versicherungsaufsichtsgesetzes bestimmt sich die Solvabilitätskapitalanforderung nach § 9 Absatz 1 Satz 1 Nummer 1, soweit das Unternehmen das Kapitalanlagerisiko übernimmt.
 
@@ -170,8 +152,7 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (+++ § 14: Zur Anwendung vgl. § 17 Abs. 1 +++)
 
-
-## § 15 – Mindestkapitalanforderung
+# § 15 – Mindestkapitalanforderung
 
 (1) Die Mindestkapitalanforderung beträgt mindestens 3,7 Millionen Euro.
 
@@ -179,8 +160,7 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (3) Die in § 214 Absatz 1 Satz 1 Nummer 8 Buchstabe a des Versicherungsaufsichtsgesetzes genannten Eigenmittel und zusätzliche Eigenmittel gemäß § 16 Absatz 2 werden nicht auf die Mindestkapitalanforderung angerechnet.
 
-
-## § 16 – Zusätzliche Eigenmittel
+# § 16 – Zusätzliche Eigenmittel
 
 (1) Wenn die Deckungsrückstellung nicht oder mit einem niedrigeren Satz gezillmert wurde als dem in den Beitrag eingerechneten Zuschlag für Abschlusskosten, ist auch der Unterschiedsbetrag zwischen der ungezillmerten oder der nur teilweise gezillmerten Deckungsrückstellung und der Deckungsrückstellung, die sich bei Zillmerung mit dem in den Beitrag eingerechneten Zuschlag für Abschlusskosten ergeben würde, als Eigenmittel anzusehen, soweit der Versicherungsnehmer auf den Unterschiedsbetrag keinen Anspruch hat. Der Zillmersatz ist, soweit er die gesetzlichen Höchstwerte übersteigt, nicht zu berücksichtigen; für Versicherungen nach aufsichtsbehördlich genehmigten Tarifen ist der Zillmersatz nicht zu berücksichtigen, soweit er 35 Promille der Versicherungssumme oder des Zwölffachen der versicherten Jahresrente übersteigt. Die in der Bilanz ausgewiesene Deckungsrückstellung wird um die aktivierten Ansprüche für geleistete, rechnungsmäßig gedeckte Abschlusskosten vermindert.
 
@@ -188,15 +168,13 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (+++ § 16: Zur Anwendung vgl. § 17 Abs. 1 +++)
 
-
-## § 17 – Solvabilitätskapitalanforderung
+# § 17 – Solvabilitätskapitalanforderung
 
 (1) Für die Ermittlung der Solvabilitätskapitalanforderung gelten die §§ 9 bis 11, 14 und 16 entsprechend, soweit nicht Absatz 2 etwas anderes bestimmt.
 
 (2) Für Sterbekassen, deren jährliche Beiträge in den letzten drei Geschäftsjahren 500 000 Euro nicht überschritten haben, gelten § 9 Absatz 1 und § 3 Absatz 2 in Verbindung mit § 11 jeweils mit der Maßgabe, dass die Hälfte der dort genannten Prozentsätze anzusetzen ist.
 
-
-## § 18 – Mindestkapitalanforderung
+# § 18 – Mindestkapitalanforderung
 
 (1) Für Pensions- und Sterbekassen beträgt die Mindestkapitalanforderung mindestens 3 Millionen Euro.
 
@@ -204,8 +182,7 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (3) Für Pensions- und Sterbekassen in der Rechtsform des Versicherungsvereins auf Gegenseitigkeit, deren jährliche Beiträge in drei aufeinanderfolgenden Jahren den Betrag von 5 Millionen Euro nicht überschritten haben, entfällt die Mindestkapitalanforderung.
 
-
-## § 19 – Solvabilitätsnachweis
+# § 19 – Solvabilitätsnachweis
 
 (1) Die in Kapitel 2 genannten Unternehmen haben jährlich der Aufsichtsbehörde eine Berechnung der Solvabilitätskapitalanforderung und einen Nachweis über ihre Eigenmittel vorzulegen (Solvabilitätsnachweis).
 
@@ -215,20 +192,17 @@ Bei Tontinengeschäften beträgt die Solvabilitätskapitalanforderung 1 Prozent 
 
 (4) Unternehmen unter Bundesaufsicht legen den Solvabilitätsnachweis elektronisch oder auf Papierformularen der Bundesanstalt für Finanzdienstleistungsaufsicht vor.
 
-
-## § 20 – Übergangsvorschriften
+# § 20 – Übergangsvorschriften
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
 (2) Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist die Kapitalausstattungs-Verordnung vom 13. Dezember 1983 (BGBl. I S. 1451), die durch Artikel 1 Nummer 1 der Verordnung vom 16. Dezember 2015 (BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. Dezember 2015 geltenden Fassung anzuwenden.
 
-
-## § 21 – Inkrafttreten
+# § 21 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 19 Absatz 3)Solvabilitätsnachweis
+# Anlage – (zu § 19 Absatz 3)Solvabilitätsnachweis
 
 (Fundstelle: BGBl. I 2016, 800 - 827)
 

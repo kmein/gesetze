@@ -1,10 +1,7 @@
-# [FerkBetSachkV] Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen  (Ferkelbetäubungssachkundeverordnung   - FerkBetSachkV)
-
-Ausfertigungsdatum: 08.01.2020
-
+% Verordnung zur Durchführung der Betäubung mit Isofluran bei der Ferkelkastration durch sachkundige Personen  (Ferkelbetäubungssachkundeverordnung   - FerkBetSachkV)
+% Ausfertigungsdatum: 08.01.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,23 +13,19 @@ des Artikels 2 des Gesetzes zu dem Europäischen Übereinkommen vom 10. März 19
 
 verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Durchführung der Betäubung von unter acht Tage alten männlichen Schweinen (Ferkel) zum Zweck der Kastration durch andere sachkundige Personen als Tierärzte oder Tierärztinnen einschließlich der Anforderungen an die Sachkunde dieser Personen sowie an das Verfahren der Kastration unter der Betäubung.
 
-
-## § 2 – Ausnahme vom Tierarztvorbehalt
+# § 2 – Ausnahme vom Tierarztvorbehalt
 
 Abweichend von § 5 Absatz 1 Satz 2 des Tierschutzgesetzes darf auch eine andere Person als ein Tierarzt oder eine Tierärztin eine Betäubung bei der Kastration eines Ferkels durchführen, sofern sie über einen von der zuständigen Behörde ausgestellten gültigen Nachweis über ihre Sachkunde nach § 6 Absatz 2 verfügt (sachkundige Person) und die weiteren Voraussetzungen dieser Verordnung erfüllt sind.
 
-
-## § 3 – Tierarzneimittel zur Betäubung
+# § 3 – Tierarzneimittel zur Betäubung
 
 Das zum Erreichen der Betäubung durch Isofluran angewendete Tierarzneimittel muss nach arzneimittelrechtlichen Vorschriften für die Allgemeinanästhesie (Narkose) während der Kastration von unter acht Tage alten Ferkeln zugelassen sein.
 
-
-## § 4 – Verfahren der Ferkelkastration unter Betäubung
+# § 4 – Verfahren der Ferkelkastration unter Betäubung
 
 (1) Vor der Narkoseeinleitung ist das Ferkel durch die sachkundige Person klinisch auf Narkosefähigkeit und normale anatomische Beschaffenheit und Lage der Hoden zu untersuchen und es ist ihm ein Tierarzneimittel, das dafür zugelassen ist, durch den Eingriff verursachte Schmerzen zu lindern, zu verabreichen. Das Tierarzneimittel ist so anzuwenden, dass es unmittelbar nach dem Nachlassen der Betäubung wirksam ist.
 
@@ -52,8 +45,7 @@ zu erfolgen, insbesondere darf die Kastration nicht durch Herausreißen der Hode
 
 (5) Im Anschluss an die Kastration trifft die sachkundige Person geeignete Maßnahmen zur Nachsorge.
 
-
-## § 5 – Orte und Narkosegeräte
+# § 5 – Orte und Narkosegeräte
 
 (1) Die Orte, an denen die sachkundige Person die Betäubung durchführt, müssen trocken, sauber, gut belüftet und leicht zu reinigen sein. Notfallpläne für Notsituationen am Ferkel, insbesondere Narkosezwischenfälle, müssen an den Orten nach Satz 1 hinterlegt sein.
 
@@ -71,8 +63,7 @@ zu erfolgen, insbesondere darf die Kastration nicht durch Herausreißen der Hode
 
 6. die Anzahl der Anwendungen und das Datum der jeweiligen Anwendung manipulationssicher aufzeichnen. Diese Aufzeichnungen müssen durch die sachkundige Person und die zuständige Behörde aus dem Narkosegerät auslesbar sein.
 
-
-## § 6 – Sachkunde
+# § 6 – Sachkunde
 
 (1) Die Sachkunde zur Durchführung der Betäubung wird durch eine jeweils durch Prüfungen nachgewiesene erfolgreiche Teilnahme
 
@@ -102,8 +93,7 @@ erworben.
 
 (6) Darüber hinaus sind sachkundige Personen verpflichtet, innerhalb eines Zeitraums von drei Jahren ab der erstmaligen Ausstellung eines Sachkundenachweises und nachfolgend mindestens alle fünf Jahre an einer mindestens zweistündigen Fortbildungsschulung, in der der aktuelle Wissensstand vermittelt wird, bei einem Tierarzt oder einer Tierärztin teilzunehmen. Die sachkundige Person erhält einen Nachweis über die Teilnahme an der Fortbildungsschulung. Die Teilnahme ist der zuständigen Behörde auf Verlangen nachzuweisen.
 
-
-## § 7 – Schulungseinrichtungen, Lehrgänge und Überprüfung der praktischen Fähigkeiten
+# § 7 – Schulungseinrichtungen, Lehrgänge und Überprüfung der praktischen Fähigkeiten
 
 (1) Einrichtungen, die Lehrgänge nach § 6 Absatz 1 Nummer 1 durchführen,
 
@@ -155,22 +145,18 @@ nachgewiesen werden müssen. Zulassungsvoraussetzung für die Prüfung ist der N
 
 (4) Die Überprüfung der praktischen Fähigkeiten nach § 6 Absatz 5 Satz 1 besteht aus einer Demonstration der praktischen Fähigkeiten durch die sachkundige Person unter Aufsicht eines Tierarztes oder einer Tierärztin. Die praktischen Fähigkeiten gelten als erfolgreich demonstriert, wenn die sachkundige Person die Durchführung der Betäubung bei der Ferkelkastration ordnungsgemäß gezeigt hat. Die sachkundige Person erhält einen Nachweis über die Teilnahme an einer Überprüfung der praktischen Fähigkeiten.
 
-
-## § 8 – Dokumentation
+# § 8 – Dokumentation
 
 Die sachkundige Person hat arbeitstäglich Aufzeichnungen über Komplikationen bei der Narkose zu führen und die Aufzeichnungen nach § 5 Absatz 2 Nummer 6 aus dem Gerät auszulesen. Sie muss die Aufzeichnungen nach Satz 1 an den Betriebsinhaber oder die Betriebsinhaberin des jeweiligen landwirtschaftlichen Betriebes übergeben, falls sie nicht diesem Betrieb angehört. Der Betriebsinhaber oder die Betriebsinhaberin des jeweiligen landwirtschaftlichen Betriebes hat die Aufzeichnungen nach Satz 1 ab dem Zeitpunkt der jeweiligen Betäubung durch das Narkosegerät oder ab dem Zeitpunkt der Komplikation drei Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Komplikationen bei der Narkose sind insbesondere Wachzustände während der Narkose, Störungen der Atmung, Herz-Kreislauf-Störungen, allergische Reaktionen oder der Tod von Tieren während oder unmittelbar nach der Narkose.
 
-
-## § 9 – Übergangsvorschriften
+# § 9 – Übergangsvorschriften
 
 Narkosegeräte, die bereits vor Inkrafttreten dieser Verordnung verwendet worden sind, dürfen weiter verwendet werden, auch wenn sie nicht den Anforderungen nach § 5 Absatz 2 Nummer 6 entsprechen. In diesem Fall hat die sachkundige Person die Anzahl der Anwendungen des Narkosegerätes und das Datum der jeweiligen Anwendung schriftlich oder elektronisch arbeitstäglich aufzuzeichnen.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

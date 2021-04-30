@@ -1,10 +1,7 @@
-# [GleichberG] Gesetz über die Gleichberechtigung von Mann und Frau auf dem Gebiet des bürgerlichen Rechts  (Gleichberechtigungsgesetz - GleichberG)
-
-Ausfertigungsdatum: 18.06.1957
-
+% Gesetz über die Gleichberechtigung von Mann und Frau auf dem Gebiet des bürgerlichen Rechts  (Gleichberechtigungsgesetz - GleichberG)
+% Ausfertigungsdatum: 18.06.1957
  
-
-## I. – Übergangsvorschriften
+# I. – Übergangsvorschriften
 
 1. Die persönlichen Rechtsbeziehungen der Ehegatten zueinander, insbesondere die gegenseitige Unterhaltspflicht, bestimmen sich nach den Vorschriften dieses Gesetzes, auch wenn die Ehe vor seinem Inkrafttreten geschlossen worden ist.
 
@@ -35,8 +32,7 @@ Haben die Ehegatten die allgemeine Gütergemeinschaft vor dem 1. April 1953 vere
 
 11. Die Nummern 3, 4, 6 und 7 gelten im Saarland mit der Maßgabe, daß an die Stelle des 31. März 1953 der 31. Dezember 1956 und an die Stelle des 1. April 1953 der 1. Januar 1957 tritt.
 
-
-## II. – Schlußvorschriften
+# II. – Schlußvorschriften
 
 1\. u. 2. (Aufhebungsvorschriften)
 

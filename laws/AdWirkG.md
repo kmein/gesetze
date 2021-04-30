@@ -1,17 +1,13 @@
-# [AdWirkG] Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht  (Adoptionswirkungsgesetz - AdWirkG)
-
-Ausfertigungsdatum: 05.11.2001
-
+% Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht  (Adoptionswirkungsgesetz - AdWirkG)
+% Ausfertigungsdatum: 05.11.2001
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vorschriften dieses Gesetzes gelten für eine Annahme als Kind, die auf einer ausländischen Entscheidung oder auf ausländischen Sachvorschriften beruht. Sie gelten nicht, wenn der Angenommene zur Zeit der Annahme das 18. Lebensjahr vollendet hatte.
 
 (2) Ist im Rahmen eines internationalen Adoptionsverfahrens (§ 2a Absatz 1 des Adoptionsvermittlungsgesetzes) eine Adoptionsentscheidung im Ausland ergangen, die nicht nach Artikel 23 des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption kraft Gesetzes anerkannt wird, bedarf diese Entscheidung der Anerkennungsfeststellung durch das Familiengericht.
 
-
-## § 2 – Anerkennungs- und Wirkungsfeststellung
+# § 2 – Anerkennungs- und Wirkungsfeststellung
 
 (1) Auf Antrag stellt das Familiengericht fest, ob eine Annahme als Kind im Sinne des § 1 Absatz 1 anzuerkennen oder wirksam und ob das Eltern-Kind-Verhältnis des Kindes zu seinen bisherigen Eltern durch die Annahme erloschen ist.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 05.11.2001
 
 Von der Feststellung nach Satz 1 kann abgesehen werden, wenn gleichzeitig ein Umwandlungsausspruch nach § 3 ergeht.
 
-
-## § 3 – Umwandlungsausspruch
+# § 3 – Umwandlungsausspruch
 
 (1) In den Fällen des § 2 Absatz 3 Satz 1 Nummer 2 kann das Familiengericht auf Antrag aussprechen, dass das Kind die Rechtsstellung eines nach den deutschen Sachvorschriften angenommenen Kindes erhält, wenn
 
@@ -40,15 +35,13 @@ Auf die Erforderlichkeit und die Erteilung der in Satz 1 Nr. 2 genannten Zustimm
 
 (2) Absatz 1 gilt in den Fällen des § 2 Absatz 3 Satz 1 Nummer 1 entsprechend, wenn die Wirkungen der Annahme von den nach den deutschen Sachvorschriften vorgesehenen Wirkungen abweichen.
 
-
-## § 4 – Unbegleitete Auslandsadoptionen
+# § 4 – Unbegleitete Auslandsadoptionen
 
 (1) Eine ausländische Adoptionsentscheidung im Sinne von § 1 Absatz 2 wird nicht anerkannt, wenn die Adoption ohne eine internationale Adoptionsvermittlung gemäß § 2a Absatz 2 des Adoptionsvermittlungsgesetzes vorgenommen worden ist. Abweichend hiervon kann eine Feststellung nach § 2 nur ergehen, wenn zu erwarten ist, dass zwischen dem Annehmenden und dem Kind ein Eltern-Kind-Verhältnis entsteht und die Annahme für das Wohl des Kindes erforderlich ist.
 
 (2) Für das Vorliegen der Voraussetzungen nach Absatz 1 ist der Zeitpunkt der gerichtlichen Entscheidung maßgeblich.
 
-
-## § 5 – Antragstellung; Reichweite der Entscheidungswirkungen
+# § 5 – Antragstellung; Reichweite der Entscheidungswirkungen
 
 (1) Antragsbefugt sind
 
@@ -68,8 +61,7 @@ Der Antrag auf Feststellung nach § 1 Absatz 2 ist unverzüglich nach dem Erlass
 
 (2) Eine Feststellung nach § 2 sowie ein Ausspruch nach § 3 wirken für und gegen alle. Die Feststellung nach § 2 wirkt jedoch nicht gegenüber den bisherigen Eltern. In dem Beschluss nach § 2 ist dessen Wirkung auch gegenüber einem bisherigen Elternteil auszusprechen, sofern dieser das Verfahren eingeleitet hat oder auf Antrag eines nach Absatz 1 Satz 1 Nr. 1 Buchstabe a bis c Antragsbefugten beteiligt wurde. Die Beteiligung eines bisherigen Elternteils und der erweiterte Wirkungsausspruch nach Satz 3 können in einem gesonderten Verfahren beantragt werden.
 
-
-## § 6 – Zuständigkeit und Verfahren
+# § 6 – Zuständigkeit und Verfahren
 
 (1) Über Anträge nach den §§ 2 und 3 entscheidet das Familiengericht, in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk dieses Oberlandesgerichts; für den Bezirk des Kammergerichts entscheidet das Amtsgericht Schöneberg. Für die internationale und die örtliche Zuständigkeit gelten die §§ 101 und 187 Absatz 1, 2 und 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
@@ -83,17 +75,14 @@ Der Antrag auf Feststellung nach § 1 Absatz 2 ist unverzüglich nach dem Erlass
 
 (6) Gegen eine im ersten Rechtszug ergangene Entscheidung steht die Beschwerde dem Bundesamt für Justiz als Bundeszentralstelle für Auslandsadoption zu, sofern mit der Entscheidung einem Antrag nach § 2 Absatz 1 entsprochen worden ist.
 
-
-## § 7 – Vorläufige Anerkennung der Auslandsadoption
+# § 7 – Vorläufige Anerkennung der Auslandsadoption
 
 Bis zum Abschluss des Anerkennungsverfahrens gilt die ausländische Adoptionsentscheidung vorläufig als anerkannt, wenn eine gültige Bescheinigung nach § 2d des Adoptionsvermittlungsgesetzes vorgelegt wird und die Anerkennung nicht nach § 109 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ausgeschlossen ist. Die Bestimmungen des Staatsangehörigkeitsgesetzes bleiben unberührt.
 
-
-## § 8 – Bericht
+# § 8 – Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 30. September 2026 einen Bericht über die Auswirkungen der §§ 1, 2 und 4 bis 7 sowie über die gegebenenfalls notwendigen Anpassungen dieser Vorschriften vor.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Auf die Anerkennung ausländischer Adoptionsentscheidungen, die in Verfahren ergangen sind, die vor dem 1. April 2021 eingeleitet worden sind, sind die Vorschriften des Adoptionswirkungsgesetzes und § 108 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in ihrer bis dahin geltenden Fassung weiterhin anzuwenden.

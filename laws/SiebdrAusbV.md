@@ -1,15 +1,11 @@
-# [SiebdrAusbV] Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck   (Siebdrucker-Ausbildungsverordnung - SiebdrAusbV)
-
-Ausfertigungsdatum: 07.04.2011
-
+% Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck   (Siebdrucker-Ausbildungsverordnung - SiebdrAusbV)
+% Ausfertigungsdatum: 07.04.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, sowie auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Medientechnologe Siebdruck und Medientechnologin Siebdruck wird
 
@@ -19,13 +15,11 @@ Der Ausbildungsberuf Medientechnologe Siebdruck und Medientechnologin Siebdruck 
 
 staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -35,8 +29,7 @@ Die Berufsausbildung gliedert sich in
 
 3. eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 2.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -133,8 +126,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikatio
 
 5. Betriebliche Kommunikation.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -142,8 +134,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikatio
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -187,8 +178,7 @@ c) Druckprozesskontrollen während des Fortdrucks durchzuführen, Parameter zu m
 
 3. die Prüfungszeit beträgt fünf Stunden.
 
-
-## § 7 – Abschlussprüfung, Gesellenprüfung
+# § 7 – Abschlussprüfung, Gesellenprüfung
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschluss- und Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
 
@@ -264,8 +254,7 @@ g) prozessbezogene Berechnungen durchzuführen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelung
+# § 8 – Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -288,15 +277,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Auftragsplanung und Kommunikation“ oder „Prozesstechnologie“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Zusatzqualifikation
+# § 9 – Zusatzqualifikation
 
 (1) Die im Rahmen der Berufsausbildung nicht gewählte Wahlqualifikation Tampondruck oder Großformatiger Digitaldruck nach § 4 Absatz 2 Abschnitt B Nummer 1 kann als Zusatzqualifikation vermittelt werden.
 
 (2) Für die Vermittlung der Zusatzqualifikation gilt die in der Anlage Abschnitt B Nummer 1 enthaltene sachliche Gliederung entsprechend.
 
-
-## § 10 – Prüfung der Zusatzqualifikation
+# § 10 – Prüfung der Zusatzqualifikation
 
 (1) Die Zusatzqualifikation wird im Rahmen der Abschluss- oder Gesellenprüfung gesondert geprüft, wenn die in der Anlage Abschnitt B Nummer 1 enthaltenen Fertigkeiten, Kenntnisse und Fähigkeiten entsprechend vermittelt worden sind.
 
@@ -316,18 +303,15 @@ b) die Prüfungszeit beträgt vier Stunden.
 
 (4) Über das Ergebnis der bestandenen Prüfung der Zusatzqualifikation ist eine gesonderte Bescheinigung zu erteilen.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können, wenn noch keine Zwischenprüfung abgelegt wurde und die Vertragsparteien dies vereinbaren, unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Siebdrucker/zur Siebdruckerin vom 2. Mai 2000 (BGBl. I S. 679) außer Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck
 
 (Fundstelle: BGBl. I 2011, 594 - 604)
 
@@ -335,8 +319,7 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt die Verord
 Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -347,11 +330,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -547,8 +528,7 @@ Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeit
 1\. Auswahlliste I (Wahlqualifikationen nach § 3 Nummer 2)  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -559,11 +539,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -886,8 +864,7 @@ i) Druckprodukte material- und transportgerecht lagern
 2\. Auswahlliste II (Wahlqualifikationen nach § 3 Nummer 3)  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -898,11 +875,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -1180,8 +1155,7 @@ k) bedruckte Produkte material- und transportgerecht lagern
 Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten in den Pflichtqualifikationen nach § 3 Nummer 1  
   
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -1192,11 +1166,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 

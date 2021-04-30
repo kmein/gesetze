@@ -1,17 +1,13 @@
-# [DHMG] Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“  (DHMG)
-
-Ausfertigungsdatum: 21.12.2008
-
+% Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“  (DHMG)
+% Ausfertigungsdatum: 21.12.2008
  
-
-## § 1 – Name, Sitz, Rechtsform und Trägerschaft der Stiftung
+# § 1 – Name, Sitz, Rechtsform und Trägerschaft der Stiftung
 
 (1) Unter dem Namen „Deutsches Historisches Museum“ wird eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts mit Sitz in Berlin errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 (2) Die Stiftung ist Träger der unselbständigen Stiftung „Stiftung Flucht, Vertreibung, Versöhnung“ (§ 15).
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist es, die gesamte deutsche Geschichte in ihrem europäischen Zusammenhang darzustellen.
 
@@ -29,8 +25,7 @@ Ausfertigungsdatum: 21.12.2008
 
 6. Zusammenarbeit mit deutschen und internationalen Museen und sonstigen Einrichtungen mit fachlichem Bezug.
 
-
-## § 3 – Stiftungsvermögen
+# § 3 – Stiftungsvermögen
 
 (1) Mit dem Inkrafttreten dieses Gesetzes geht das Vermögen der Deutsches Historisches Museum-GmbH einschließlich der Verbindlichkeiten und beweglichen Vermögensgegenstände der Bundesrepublik Deutschland, die für Zwecke des Deutschen Historischen Museums erworben und bereitgestellt wurden, auf die Stiftung „Deutsches Historisches Museum“ über. Gleichzeitig erlischt die Deutsches Historisches Museum-GmbH. Die Geschäftsführung der Deutsches Historisches Museum-GmbH meldet die Vermögensübertragung und das Erlöschen der GmbH zur Eintragung in das Handelsregister an.
 
@@ -40,13 +35,11 @@ Ausfertigungsdatum: 21.12.2008
 
 (4) Das Stiftungsvermögen ist nur im Sinne des Stiftungszweckes zu verwenden.
 
-
-## § 4 – Satzung
+# § 4 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die von ihrem Kuratorium beschlossen wird und der Genehmigung durch die Rechtsaufsicht bedarf. Das Gleiche gilt für Änderungen der Satzung.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -56,8 +49,7 @@ Organe der Stiftung sind
 
 3. der wissenschaftliche Beirat.
 
-
-## § 6 – Kuratorium
+# § 6 – Kuratorium
 
 (1) Das Kuratorium besteht aus 15 Mitgliedern, die für jeweils fünf Jahre entsandt werden.
 
@@ -85,8 +77,7 @@ Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mit
 
 (9) Das Nähere regelt die Satzung.
 
-
-## § 7 – Präsidentin oder Präsident
+# § 7 – Präsidentin oder Präsident
 
 (1) Die Präsidentin oder der Präsident wird vom Kuratorium nach Anhörung des wissenschaftlichen Beirates berufen. Erster Präsident der Stiftung wird der bisherige Geschäftsführer der Deutsches Historisches Museum-GmbH.
 
@@ -98,8 +89,7 @@ Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mit
 
 (5) Das Nähere regelt die Satzung.
 
-
-## § 8 – Wissenschaftlicher Beirat
+# § 8 – Wissenschaftlicher Beirat
 
 (1) Dem wissenschaftlichen Beirat gehören mindestens zwölf und höchstens 25 Sachverständige an. Sie werden vom Kuratorium für fünf Jahre berufen. Wiederholte Berufungen sind zulässig.
 
@@ -107,13 +97,11 @@ Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mit
 
 (3) Das Nähere regelt die Satzung.
 
-
-## § 9 – Ehrenamtliche Tätigkeit
+# § 9 – Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des wissenschaftlichen Beirates üben ihre Tätigkeit ehrenamtlich aus. Die Erstattung von Reisekosten und sonstigen Auslagen richtet sich nach den für die unmittelbare Bundesverwaltung geltenden Bestimmungen.
 
-
-## § 10 – Aufsicht; Jahresabschluss; Wirtschaftsplan; Haushalts- und Wirtschaftsführung; Prüfung
+# § 10 – Aufsicht; Jahresabschluss; Wirtschaftsplan; Haushalts- und Wirtschaftsführung; Prüfung
 
 (1) Die Stiftung einschließlich der unselbständigen Stiftung untersteht der Rechtsaufsicht der oder des Beauftragten der Bundesregierung für Kultur und Medien.
 
@@ -123,13 +111,11 @@ Die Mitglieder des Kuratoriums und des wissenschaftlichen Beirates üben ihre T�
 
 (4) Die Haushalts- und Wirtschaftsführung der Stiftung einschließlich der unselbständigen Stiftung unterliegt unbeschadet einer Prüfung durch den Bundesrechnungshof nach § 111 der Bundeshaushaltsordnung der Prüfung durch eine in der Satzung bestimmte Stelle.
 
-
-## § 11 – Berichterstattung
+# § 11 – Berichterstattung
 
 Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen Bericht über ihre Tätigkeit und ihre Vorhaben vor.
 
-
-## § 12 – Beschäftigte
+# § 12 – Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmerinnen und Arbeitnehmer wahrgenommen. Auf die Arbeitnehmerinnen und Arbeitnehmer der Stiftung sind die für die Arbeitnehmerinnen und Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden. Satz 2 gilt für Auszubildende entsprechend.
 
@@ -139,25 +125,21 @@ Die Stiftung legt alle zwei Jahre einen öffentlich zugänglichen Bericht über 
 
 (4) Oberste Dienstbehörde für die Beamtinnen und Beamten der Stiftung ist das Kuratorium. § 187 des Bundesbeamtengesetzes bleibt unberührt.
 
-
-## § 13 – Gebühren und Auslagen
+# § 13 – Gebühren und Auslagen
 
 (1) Für die Benutzung der Einrichtungen der Stiftung sowie für den Zutritt zu besonderen Veranstaltungen werden Gebühren und Auslagen erhoben.
 
 (2) Die Stiftung wird ermächtigt, durch Satzung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Bei der Gebührenbemessung sind Art und Umfang der jeweiligen Benutzung sowie der diesbezügliche Personal- und Sachaufwand zu berücksichtigen. Gebühren- und Auslagenermäßigung sowie Gebühren- und Auslagenbefreiung können im Einzelfall aus Gründen der Billigkeit oder des öffentlichen Interesses zugelassen werden.
 
-
-## § 14 – Dienstsiegel
+# § 14 – Dienstsiegel
 
 Die Stiftung führt als Dienstsiegel das kleine Bundessiegel mit der Umschrift „Stiftung Deutsches Historisches Museum“.
 
-
-## § 15 – Name, Sitz und Rechtsform
+# § 15 – Name, Sitz und Rechtsform
 
 Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit Inkrafttreten dieses Gesetzes in Trägerschaft der Stiftung „Deutsches Historisches Museum“ eine unselbständige Stiftung des öffentlichen Rechts in Berlin errichtet.
 
-
-## § 16 – Stiftungszweck
+# § 16 – Stiftungszweck
 
 (1) Zweck der unselbständigen Stiftung ist es, im Geiste der Versöhnung die Erinnerung und das Gedenken an Flucht und Vertreibung im 20. Jahrhundert im historischen Kontext des Zweiten Weltkrieges und der nationalsozialistischen Expansions- und Vernichtungspolitik und ihrer Folgen wachzuhalten.
 
@@ -173,8 +155,7 @@ Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit Inkraft
 
 5. Zusammenarbeit mit deutschen und internationalen Museen und Forschungseinrichtungen.
 
-
-## § 17 – Stiftungsvermögen
+# § 17 – Stiftungsvermögen
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen alle von der Bundesrepublik Deutschland für die zu errichtende unselbständige Stiftung „Stiftung Flucht, Vertreibung, Versöhnung“ erworbenen oder bereitgestellten beweglichen Vermögensgegenstände in das Vermögen des Trägers über. Dasselbe gilt für Vermögensgegenstände aus Zuwendungen für die zu errichtende unselbständige Stiftung „Stiftung Flucht, Vertreibung, Versöhnung“ von dritter Seite. Der Träger verwaltet dieses Sondervermögen getrennt von seinem Vermögen.
 
@@ -188,8 +169,7 @@ Unter dem Namen „Stiftung Flucht, Vertreibung, Versöhnung“ wird mit Inkraft
 
 (6) Der Träger fertigt für die unselbständige Stiftung zum 31. Dezember eines jeden Jahres einen Bericht, der die Vermögenslage und die Mittelverwendung erläutert. Im Rahmen seiner öffentlichen Berichterstattung sorgt er für eine angemessene Publizität der Stiftungsaktivitäten.
 
-
-## § 18 – Gremien und Leitung der unselbständigen Stiftung
+# § 18 – Gremien und Leitung der unselbständigen Stiftung
 
 (1) Bei der unselbständigen Stiftung werden gebildet
 
@@ -201,8 +181,7 @@ Die Mitglieder des Stiftungsrates und des wissenschaftlichen Beraterkreises sind
 
 (2) Die unselbständige Stiftung hat eine Direktorin oder einen Direktor.
 
-
-## § 19 – Stiftungsrat
+# § 19 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus 21 Mitgliedern.
 
@@ -234,8 +213,7 @@ Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mit
 
 (10) In Haushalts- und Personalangelegenheiten können Beschlüsse nur mit Zustimmung des auf Vorschlag der oder des Beauftragten der Bundesregierung für Kultur und Medien gewählten Stiftungsratsmitgliedes gefasst werden.
 
-
-## § 20 – Wissenschaftlicher Beraterkreis
+# § 20 – Wissenschaftlicher Beraterkreis
 
 (1) Der Stiftungsrat richtet einen wissenschaftlichen Beraterkreis mit bis zu 15 Mitgliedern ein. Die Mitglieder werden für fünf Jahre berufen. Wiederholte Berufungen sind zulässig. Bei den Mitgliedern des wissenschaftlichen Beraterkreises muss es sich um Persönlichkeiten handeln, die auf Grund ihrer Sachkunde geeignet sind, den Stiftungsrat und die Direktorin oder den Direktor in fachlichen Fragen zu beraten.
 
@@ -243,14 +221,12 @@ Für jedes Mitglied ist für den Fall der Verhinderung ein stellvertretendes Mit
 
 (3) Der wissenschaftliche Beraterkreis wählt aus seiner Mitte eine Vorsitzende und deren Stellvertreterin oder Stellvertreter oder einen Vorsitzenden und dessen Stellvertreterin oder Stellvertreter mit der Mehrheit der abgegebenen Stimmen. An den Sitzungen des wissenschaftlichen Beraterkreises nehmen die Direktorin oder der Direktor sowie die oder der Vorsitzende des Stiftungsrates mit Rederecht teil.
 
-
-## § 21 – Direktorin oder Direktor
+# § 21 – Direktorin oder Direktor
 
 (1) Die Direktorin oder der Direktor leitet die unselbständige Stiftung, führt die Beschlüsse des Stiftungsrates aus und bereitet dessen Sitzungen vor. Über die Tätigkeit ist der Stiftungsrat angemessen zu unterrichten.
 
 (2) Mit Zustimmung des Stiftungsrates kann die Direktorin oder der Direktor in einem Beamtenverhältnis auf Zeit für die Dauer von fünf Jahren berufen werden oder in einem außertariflichen Arbeitsverhältnis oberhalb der höchsten tarifvertraglichen Entgeltgruppe beschäftigt werden, soweit dies für die Durchführung der Aufgaben erforderlich ist.
 
-
-## § 22 – Übergangsregelung
+# § 22 – Übergangsregelung
 
 Bis zur erstmaligen Konstituierung des Stiftungsrates und des wissenschaftlichen Beraterkreises nach diesem Gesetz in der Fassung des Gesetzes vom 14. Juni 2010 (BGBl. I S. 784) bleiben die zuvor bestehenden Gremien im Amt.

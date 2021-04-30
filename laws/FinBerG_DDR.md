@@ -1,15 +1,11 @@
-# [FinBerG DDR] Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen  (Finanzbereinigungsgesetz-DDR)
-
-Ausfertigungsdatum: 22.04.1993
-
+% Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen  (Finanzbereinigungsgesetz-DDR)
+% Ausfertigungsdatum: 22.04.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Grundsätze der Finanzbereinigung
+# § 1 – Grundsätze der Finanzbereinigung
 
 (1) Die aus der Wirtschaftstätigkeit bis zum 30. Juni 1990 nach den in § 2 genannten Vorschriften in der ehemaligen Deutschen Demokratischen Republik begründeten Forderungen und Verbindlichkeiten zwischen den öffentlichen Haushalten und den volkseigenen Unternehmen, den Genossenschaften, den Gewerbetreibenden sowie den vorgenannten Unternehmen gleichgestellten Unternehmen erlöschen einschließlich aller Nebenforderungen und -verbindlichkeiten nach Maßgabe der folgenden Absätze. Satz 1 gilt auch für Forderungen und Verbindlichkeiten aus Vorauszahlungen und überhöhten Zahlungen vor dem 3. Oktober 1990.
 
@@ -31,8 +27,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (6) Die Absätze 1, 2, 4 und 5 gelten auch für und gegen die Rechtsnachfolger der in Absatz 2 genannten Unternehmen, wenn die Rechtsnachfolge nach dem 24. Juni 1992 stattgefunden hat. In allen übrigen Fällen der Rechtsnachfolge gelten die Absätze 1 und 3 bis 5.
 
-
-## § 2 – Vorschriften im Sinne des § 1
+# § 2 – Vorschriften im Sinne des § 1
 
 Vorschriften im Sinne des § 1 Abs. 1 sind die folgenden Bestimmungen der ehemaligen Deutschen Demokratischen Republik:
 
@@ -58,13 +53,11 @@ Vorschriften im Sinne des § 1 Abs. 1 sind die folgenden Bestimmungen der ehemal
 
 11. Anordnung über die Gewährung von Exportsonderzuführungen für Exporte in das nichtsozialistische Wirtschaftsgebiet für Kombinate und volkseigene Betriebe der Industrie, der örtlichen Versorgungswirtschaft und des örtlich geleiteten Bauwesens vom 11. Dezember 1985, (herausgegeben vom Sekretariat des Ministerrats der DDR 1985), Anordnung Nr. 2 über die Gewährung von Exportsonderzuführungen für Exporte in das nichtsozialistische Wirtschaftsgebiet für Kombinate und volkseigene Betriebe der Industrie, der örtlichen Versorgungswirtschaft und des örtlich geleiteten Bauwesens vom 28. Januar 1987 (herausgegeben vom Sekretariat des Ministerrats der DDR 1987).
 
-
-## § 3 – Bilanzrechtliche Folgen
+# § 3 – Bilanzrechtliche Folgen
 
 Sind Forderungen und Verbindlichkeiten im Sinne des § 1 in einer gemäß § 1 D-Markbilanzgesetz aufzustellenden Eröffnungsbilanz ausgewiesen, gilt die Eröffnungsbilanz entsprechend § 36 Abs. 1, 2 und 4 Satz 1 und 2 D-Markbilanzgesetz insoweit als geändert, als diese Forderungen und Verbindlichkeiten auf Grund dieses Gesetzes erlöschen. § 50 Abs. 3 D-Markbilanzgesetz ist entsprechend anzuwenden.
 
-
-## § 4 – Verfahrensvorschriften
+# § 4 – Verfahrensvorschriften
 
 (1) Der Antrag gemäß § 1 Abs. 3 darf nicht mit Bedingungen versehen werden. Er kann nicht zurückgenommen werden. Er ist an den Bundesminister der Finanzen zu richten. Dieser entscheidet nach den Vorschriften des Verwaltungsverfahrensgesetzes.
 
@@ -80,8 +73,7 @@ Der Bundesminister der Finanzen kann weitere sachdienliche Erklärungen und Unte
 
 (3) Über den Antrag des Unternehmens entscheidet der Bundesminister der Finanzen unter Anrechnung der Verbindlichkeiten des Unternehmens im Sinne des § 1 Abs. 1. Überwiegen die Verbindlichkeiten, bleibt das Unternehmen zu ihrer Erfüllung verpflichtet.
 
-
-## § 5 – Kosten
+# § 5 – Kosten
 
 (1) Die aus Einzelabwicklungen nach § 1 Abs. 3 und § 4 entstehenden Ausgaben leistet der Bund vorbehaltlich des Ausgleichs nach den Absätzen 2 bis 4. Einnahmen aus Einzelabwicklungen sind zur Leistung der Ausgaben zu verwenden.
 
@@ -100,12 +92,10 @@ Der Bundesminister der Finanzen kann weitere sachdienliche Erklärungen und Unte
 
 (4) An den sich nach dem 31. Dezember 1994 ergebenden Einnahmen und Ausgaben sind der Bund und die Länder entsprechend Absatz 2 Satz 1 und Absatz 3 beteiligt. Die in Absatz 2 Satz 1 genannten Länder erstatten die von ihnen zu tragenden Anteile an den Ausgaben auf Anforderung des Bundes. Einnahmen sind zur Leistung der Ausgaben zu verwenden; soweit die Einnahmen für diesen Zweck nicht benötigt werden, erhalten die in Absatz 2 Satz 1 genannten Länder davon einen Anteil nach dem in Absatz 3 genannten Verhältnis.
 
-
-## § 6 – Von der Anwendung des Gesetzes ausgeschlossene Unternehmen
+# § 6 – Von der Anwendung des Gesetzes ausgeschlossene Unternehmen
 
 Dieses Gesetz findet keine Anwendung auf Geldinstitute, Außenhandelsbetriebe und Versicherungsunternehmen im Sinne des § 38 Abs. 2, 3 Satz 1 und § 44 Abs. 2 D-Markbilanzgesetz in der Fassung der Bekanntmachung vom 18. April 1991 (BGBl. I S. 971, 1951), das zuletzt durch Artikel 3 des Gesetzes vom 21. Dezember 1992 (BGBl. I S. 2133) geändert worden ist, auf Unternehmen der Parteien und der Massenorganisationen der ehemaligen Deutschen Demokratischen Republik sowie auf Unternehmen, die bis zum 31. März 1990 oder zu einem früheren Zeitpunkt zum Bereich "Kommerzielle Koordinierung" gehört haben.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [TVMindestlohnGebäude 2020] Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020
-
-Ausfertigungsdatum: 24.03.2021
-
+% Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 4. November 2020
+% Ausfertigungsdatum: 24.03.2021
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 1. Räumlicher Geltungsbereich
 
@@ -18,8 +15,7 @@ Betriebe, die unter den betrieblichen Geltungsbereich des Rahmentarifvertrags f�
 
 Gewerbliche Arbeitnehmer und Arbeitnehmerinnen, die eine nach den Vorschriften des Sechsten Buches Sozialgesetzbuch – Gesetzliche Rentenversicherung – (SGB VI) versicherungspflichtige Tätigkeit ausüben, einschließlich derjenigen, die gemäß § 8 des Vierten Buches Sozialgesetzbuch – Gemeinsame Vorschriften für die Sozialversicherung – (SGB IV) eine geringfügige Beschäftigung ausüben.
 
-
-## § 2 – Mindestlöhne
+# § 2 – Mindestlöhne
 
 1. Die Mindestlöhne betragen bundeseinheitlich
 
@@ -44,8 +40,7 @@ Glas- und Fassadenreinigungsarbeiten, insbesondere Reinigung, pflegende und sch�
 
 4. Der Anspruch auf den Mindestlohn verfällt, wenn er nicht innerhalb von sechs Monaten nach seiner Fälligkeit gerichtlich geltend gemacht wird. Für die Geltendmachung des Mindestlohnes, welcher nicht ausgezahlt worden ist, sondern dem Jahresarbeitszeitkonto (§ 4 Nummer 2 RTV) gutzuschreiben war, gilt die gesetzliche regelmäßige Verjährungsfrist.
 
-
-## § 3 – Geringfügig Beschäftigte der Lohngruppe 1 – Monatslohn
+# § 3 – Geringfügig Beschäftigte der Lohngruppe 1 – Monatslohn
 
 1. Bei geringfügig Beschäftigten (§ 8 Absatz 1 Nummer 1 SGB IV) der Lohngruppe 1 mit einer gleich bleibenden wöchentlichen Arbeitszeit kann unabhängig von der jeweiligen monatlichen Arbeitszeit ein verstetigter Monatslohn gezahlt werden.
 
@@ -57,8 +52,7 @@ Stundenlohn x Wochenarbeitszeit : 5 x 261 : 12.
 
 3. In der monatlichen Lohnabrechnung ist die gleichbleibende wöchentliche Arbeitszeit gemäß Nummer 1 gesondert auszuweisen. Ein Ausweis in der Lohnabrechnung ist auch in den Fällen vorzunehmen, in denen die individuelle Arbeitszeit nach Nummer 1 ausnahmsweise überschritten wird.
 
-
-## Anhang – (zur Anlage)Auszug aus dem Rahmentarifvertrag für die gewerblichen Beschäftigten in der Gebäudereinigung vom 31. Oktober 2019 (RTV Gebäudereinigung), in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. April 2021 geltenden Fassung
+# Anhang – (zur Anlage)Auszug aus dem Rahmentarifvertrag für die gewerblichen Beschäftigten in der Gebäudereinigung vom 31. Oktober 2019 (RTV Gebäudereinigung), in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. April 2021 geltenden Fassung
 
 \[…\]
 

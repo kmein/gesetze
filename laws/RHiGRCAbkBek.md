@@ -1,10 +1,7 @@
-# [RHiGRCAbkBek] Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
-
-Ausfertigungsdatum: 28.06.1939
-
+% Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
+% Ausfertigungsdatum: 28.06.1939
  
-
-## ----
+# ----
 
 (1) ...
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 28.06.1939
 
 (3) Zur Ausführung des Abkommens ist die Verordnung vom 31. Mai 1939 zur Ausführung des deutsch-griechischen Abkommens über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts (Reichsgesetzbl. II S. 847) erlassen worden.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Reichsminister des Auswärtigen  
 Der Reichsminister der Justiz

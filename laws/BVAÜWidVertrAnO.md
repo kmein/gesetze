@@ -1,15 +1,11 @@
-# [BVAÜWidVertrAnO] Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen von Beschäftigten des Bundesverwaltungsgerichts und Bundespatentgerichts in Angelegenheiten der Besoldung, des Umzugskosten- und Trennungsgeldrechts sowie von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des Umzugskostenrechts  (BVAÜWidVertrAnO)
-
-Ausfertigungsdatum: 31.05.2017
-
+% Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen von Beschäftigten des Bundesverwaltungsgerichts und Bundespatentgerichts in Angelegenheiten der Besoldung, des Umzugskosten- und Trennungsgeldrechts sowie von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des Umzugskostenrechts  (BVAÜWidVertrAnO)
+% Ausfertigungsdatum: 31.05.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 46 des Deutschen Richtergesetzes vom 19. April 1972 (BGBl. I S. 713) ordnet das Bundesministerium der Justiz und für Verbraucherschutz an:
 
-
-## § 1 – Entscheidung über Widersprüche
+# § 1 – Entscheidung über Widersprüche
 
 (1) Dem Bundesverwaltungsamt wird die Befugnis übertragen, in Angelegenheiten der Besoldung, des Umzugskosten- und Trennungsgeldrechts über Widersprüche von Beschäftigten des Bundesverwaltungsgerichts zu entscheiden, soweit das Bundesverwaltungsamt die Maßnahme getroffen hat.
 
@@ -21,22 +17,19 @@ Nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes
 
 (+++ § 1: zur Anwendung vgl. § 3 Abs. 1 +++)
 
-
-## § 2 – Vertretung bei Klagen
+# § 2 – Vertretung bei Klagen
 
 Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird die Vertretung der Bundesrepublik Deutschland bei Klagen von Beschäftigten des Bundesverwaltungsgerichts bis einschließlich A 13g, des Bundespatentgerichts und des Bundesfinanzhofs übertragen, soweit das Bundesverwaltungsamt nach § 1 Absatz 1 bis 3 zur Entscheidung über den Widerspruch befugt ist. Die Bundesministerin oder der Bundesminister der Justiz und für Verbraucherschutz kann im Einzelfall die Vertretung abweichend regeln oder selbst übernehmen.
 
 (+++ § 2: zur Anwendung vgl. § 3 Abs. 2 +++)
 
-
-## § 3 – Übergangsregelung
+# § 3 – Übergangsregelung
 
 (1) § 1 ist auch auf Widersprüche gegen Maßnahmen anzuwenden, die das Bundesamt für zentrale Dienste und offene Vermögensfragen vor dem 1. Juni 2017 getroffen hat.
 
 (2) § 2 ist auch anzuwenden, wenn der Widerspruchsbescheid vor dem 1. Juni 2017 vom Bundesamt für zentrale Dienste und offene Vermögensfragen erlassen worden ist.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt mit Wirkung vom 1. Juni 2017 in Kraft. Gleichzeitig treten außer Kraft:
 

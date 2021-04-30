@@ -1,10 +1,7 @@
-# [CoronaImpfV] Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2  (Coronavirus-Impfverordnung - CoronaImpfV)
-
-Ausfertigungsdatum: 31.03.2021
-
+% Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2  (Coronavirus-Impfverordnung - CoronaImpfV)
+% Ausfertigungsdatum: 31.03.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund des
 
@@ -17,11 +14,9 @@ Das Bundesministerium für Gesundheit verordnet auf Grund des
 –  
 § 13 Absatz 5 Satz 2 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 1c Buchstabe b des Gesetzes vom 29. März 2021 (BGBl. I S. 370) eingefügt worden ist:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anspruch
+# § 1 – Anspruch
 
 (1) Personen nach Satz 2 haben im Rahmen der Verfügbarkeit der vorhandenen Impfstoffe Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2. Anspruchsberechtigt nach Satz 1 sind:
 
@@ -67,8 +62,7 @@ Innerhalb der in Satz 1 genannten Gruppen von Anspruchsberechtigten können auf 
 
 Der Anspruch nach Absatz 1 umfasst außerdem die Ausstellung einer Impfdokumentation nach § 22 des Infektionsschutzgesetzes. Die für die Durchführung der Schutzimpfung verantwortliche Person im Sinne von § 22 Absatz 2 Satz 1 Nummer 4 des Infektionsschutzgesetzes ist der jeweilige Leistungserbringer nach § 6 Absatz 1 Satz 1.
 
-
-## § 2 – Schutzimpfungen mit höchster Priorität
+# § 2 – Schutzimpfungen mit höchster Priorität
 
 (1) Folgende Personen haben mit höchster Priorität Anspruch auf Schutzimpfung:
 
@@ -84,8 +78,7 @@ Der Anspruch nach Absatz 1 umfasst außerdem die Ausstellung einer Impfdokumenta
 
 (2) Personen nach Absatz 1 Nummer 1 können getrennt nach Geburtsjahrgängen, beginnend mit den ältesten Jahrgängen, zeitversetzt zur Schutzimpfung eingeladen werden.
 
-
-## § 3 – Schutzimpfungen mit hoher Priorität
+# § 3 – Schutzimpfungen mit hoher Priorität
 
 (1) Folgende Personen haben mit hoher Priorität Anspruch auf Schutzimpfung:
 
@@ -141,8 +134,7 @@ b) von einer schwangeren Person, die von dieser Person oder von einer sie vertre
 
 (2) Für Personen nach Absatz 1 Nummer 1 gilt § 2 Absatz 2 entsprechend.
 
-
-## § 4 – Schutzimpfungen mit erhöhter Priorität
+# § 4 – Schutzimpfungen mit erhöhter Priorität
 
 (1) Folgende Personen haben mit erhöhter Priorität Anspruch auf Schutzimpfung:
 
@@ -192,8 +184,7 @@ d) die als Wahlhelfer tätig sind,
 
 (2) Für Personen nach Absatz 1 Nummer 1 gilt § 2 Absatz 2 entsprechend.
 
-
-## § 5 – Folge- und Auffrischimpfungen
+# § 5 – Folge- und Auffrischimpfungen
 
 (1) § 1 Absatz 2 bis 4 und die §§ 2 bis 4 gelten entsprechend für Folge- und Auffrischimpfungen, die für ein vollständiges Impfschema im Rahmen der Empfehlung der Ständigen Impfkommission beim Robert Koch-Institut vorgesehen sind. Folge- und Auffrischimpfungen müssen mit dem gleichen Impfstoff erfolgen wie die Erstimpfung.
 
@@ -201,8 +192,7 @@ d) die als Wahlhelfer tätig sind,
 
 (3) Wird der empfohlene Abstand im Einzelfall aus wichtigem Grund überschritten, soll das Impfschema auf Grundlage der Empfehlungen der Ständigen Impfkommission beim Robert Koch-Institut fortgesetzt werden. Das Ziel der Vervollständigung der Impfserie bei Personen, die bereits eine Erstimpfung erhalten haben, ist im Hinblick auf den Beginn der Schutzimpfung weiterer Personen, die noch keine Schutzimpfung erhalten haben, angemessen zu berücksichtigen.
 
-
-## § 6 – Leistungserbringung
+# § 6 – Leistungserbringung
 
 (1) Leistungen nach § 1 Absatz 1 und 4 werden erbracht
 
@@ -262,8 +252,7 @@ Die Vorlage eines ärztlichen Zeugnisses nach Satz 1 Nummer 3 ist nicht erforder
 
 Der Spitzenverband Bund der Krankenkassen bestimmt bis zum 18. März 2021 das Nähere zur Ermittlung der Versicherten. Er erstellt eine Zuordnung der Diagnoseschlüssel aus der Abrechnung ambulanter ärztlicher und stationärer Leistungen zu den in § 3 Absatz 1 Nummer 2 Buchstabe a bis j und § 4 Absatz 1 Nummer 2 Buchstabe a bis h genannten Erkrankungen. Der Spitzenverband Bund der Krankenkassen informiert den Verband der Privaten Krankenversicherung über die getroffenen Bestimmungen zur Ermittlung der Versicherten. Die oberste Landesgesundheitsbehörde kann bestimmen, dass die versichertenbezogene Information als ärztliches Zeugnis nach Absatz 4 Satz 1 Nummer 3 gilt. Macht die oberste Landesgesundheitsbehörde von ihrer Befugnis nach Satz 5 Gebrauch, teilt sie dies dem Landesverband der Krankenkassen und der Ersatzkassen, dem Spitzenverband Bund der Krankenkassen, dem Verband der Privaten Krankenversicherung sowie der Kassenärztlichen Vereinigung unverzüglich mit. Ist die Mitteilung erfolgt, muss in der versichertenbezogenen Information der Krankenkassen und der privaten Krankenversicherungsunternehmen darauf hingewiesen werden, dass die versichertenbezogene Information als ärztliches Zeugnis nach Absatz 4 Satz 1 Nummer 3 gilt.
 
-
-## § 7 – Impfsurveillance
+# § 7 – Impfsurveillance
 
 (1) Die in § 6 Absatz 1 Satz 1 Nummer 1 und 3 genannten Leistungserbringer oder die durch Landesrecht bestimmte Stelle haben täglich folgende Angaben nach § 13 Absatz 5 Satz 1 des Infektionsschutzgesetzes an das Robert Koch-Institut zu übermitteln:
 
@@ -297,8 +286,7 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 (5) Die in § 6 Absatz 1 Nummer 2 genannten Leistungserbringer übermitteln die Daten nach Absatz 1 Satz 1 Nummer 1 bis 10 unbeschadet des Absatzes 1 Satz 2 an die Kassenärztliche Vereinigung, in deren Bezirk der Leistungserbringer seinen Sitz hat, monatlich oder quartalsweise im zeitlichen Zusammenhang mit der Abrechnung nach § 9 Absatz 5. Die Kassenärztlichen Vereinigungen übermitteln diese Daten im Rahmen der Impfsurveillance gemäß § 13 Absatz 5 des Infektionsschutzgesetzes für ab dem 1. April 2021 durchgeführte Schutzimpfungen an das Robert Koch-Institut. Absatz 1 Satz 3 und Absatz 4 gelten entsprechend.
 
-
-## § 8 – Terminvergabe
+# § 8 – Terminvergabe
 
 (1) Die Kassenärztliche Bundesvereinigung entwickelt und betreibt ein standardisiertes Modul zur telefonischen und digitalen Vereinbarung von Terminen in den Impfzentren, das den Ländern zur Organisation der Terminvergabe zur Verfügung gestellt wird. Die bundesweit einheitliche Telefonnummer im Sinne von § 75 Absatz 1a Satz 2 erster Halbsatz des Fünften Buches Sozialgesetzbuch kann zur Steuerung der Anrufe in die Callcenter, die von den Ländern oder von durch die Länder beauftragten Dritten zur Vereinbarung der Termine betrieben werden, genutzt werden. Die Kassenärztliche Bundesvereinigung und die von ihr beauftragte Organisation sind berechtigt, zu den in Satz 1 genannten Zwecken personenbezogene Daten der Terminsuchenden zu verarbeiten und insbesondere an die zuständigen Callcenter und Impfzentren zu übermitteln. Die zuständigen Callcenter und Impfzentren dürfen auf das Modul nach Satz 1 zugreifen, um die Daten der Terminsuchenden in ihrem Zuständigkeitsbereich abzurufen. Sie dürfen die Daten nur zu dem in Satz 1 genannten Zweck verarbeiten.
 
@@ -306,8 +294,7 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 (3) Die Kassenärztliche Bundesvereinigung ist verpflichtet, die für die Erstattung nach Absatz 2 rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
-
-## § 9 – Vergütung ärztlicher Leistungen
+# § 9 – Vergütung ärztlicher Leistungen
 
 (1) Die Vergütung der in § 6 Absatz 1 Satz 1 genannten Arztpraxen für die Leistungen nach § 1 Absatz 4 beträgt je Anspruchsberechtigten und je Impfung 20 Euro. Eine Vergütung setzt neben der Erbringung der in § 1 Absatz 4 genannten Leistungen auch die Erfüllung der Verpflichtung zur Teilnahme an der Impfsurveillance nach § 7 Absatz 1 und 5 voraus. Sofern das Aufsuchen einer Person für die Impfung notwendig ist, werden zuzüglich 35 Euro vergütet; für das Aufsuchen jeder weiteren Person in derselben sozialen Gemeinschaft oder Einrichtung werden zuzüglich jeweils weitere 15 Euro vergütet. Eine Abrechnung von Vergütungen nach Satz 1 oder Satz 3 neben der Vergütung nach Absatz 2 ist ausgeschlossen.
 
@@ -321,8 +308,7 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 (6) Die in den Absätzen 1 bis 4 genannten Leistungserbringer und die Kassenärztlichen Vereinigungen sind verpflichtet, die von ihnen nach § 6 Absatz 4 Satz 1 Nummer 3 in Verbindung mit Absatz 5 sowie nach den Absätzen 1, 2 und 4 erbrachten Leistungen zu dokumentieren und die nach Absatz 5 für die Abrechnung übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
-
-## § 10 – Teilfinanzierung der Kosten der Impfzentren
+# § 10 – Teilfinanzierung der Kosten der Impfzentren
 
 (1) Die notwendigen Kosten für die Errichtung, Vorhaltung ab dem 15. Dezember 2020 und den laufenden Betrieb von Impfzentren einschließlich der mobilen Impfteams, die von den Ländern oder im Auftrag der Länder errichtet, vorgehalten oder betrieben werden, werden nach Maßgabe der Absätze 2 bis 4 in der entstandenen Höhe zu 46,5 Prozent aus der Liquiditätsreserve des Gesundheitsfonds und zu 3,5 Prozent von den privaten Krankenversicherungsunternehmen erstattet. Die Impfzentren einschließlich der mobilen Impfteams sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal- und Sachmitteln, der genutzten Räumlichkeiten sowie der Dauer des Betriebs.
 
@@ -348,8 +334,7 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 (4) Die in § 6 Absatz 1 Satz 1 Nummer 1 und 3 genannten Leistungserbringer sind verpflichtet, die für die Erstattung nach Absatz 1 Satz 1 rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
-
-## § 11 – Großhandelsvergütung für Impfstoffe
+# § 11 – Großhandelsvergütung für Impfstoffe
 
 (1) Für den im Zusammenhang mit der Abgabe von Impfstoffen durch den Großhandel an Apotheken entstehenden Aufwand, insbesondere für den Transport, die Konfektionierung und die Organisation, erhält der Großhändler für den Zeitraum vom 1. April 2021 bis zum Ablauf des 9. Mai 2021 eine Vergütung je abgegebene kühlpflichtige Durchstechflasche in Höhe von 9,65 Euro zuzüglich Umsatzsteuer und je abgegebene ultra- oder tiefkühlpflichtige Durchstechflasche in Höhe von 11,55 Euro zuzüglich Umsatzsteuer. Ab dem 10. Mai 2021 erhält der Großhändler je an die Apotheke abgegebene Durchstechflasche des Impfstoffes eine Vergütung in Höhe von 6,55 Euro zuzüglich Umsatzsteuer.
 
@@ -359,20 +344,17 @@ Die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer haben täglich
 
 (4) Der Bundesverband des pharmazeutischen Großhandels e. V. hat dem Bundesministerium für Gesundheit bis zum 15. Juni 2021 eine Aufstellung der tatsächlichen Aufwände nach den Absätzen 1 und 2 zu übermitteln. Die Vergütung nach den Absätzen 1 und 2 kann aufgrund der Aufstellung angepasst werden.
 
-
-## § 12 – Apothekenvergütung für Impfstoffe
+# § 12 – Apothekenvergütung für Impfstoffe
 
 Für den den Apotheken im Zusammenhang mit der Abgabe von Impfstoff an die in § 6 Absatz 1 Satz 1 Nummer 2 genannten Leistungserbringer entstehenden Aufwand, insbesondere für die Organisation und die bedarfsgerechte Bereitstellung, erhalten die Apotheken eine Vergütung je abgegebene Durchstechflasche in Höhe von 6,58 Euro zuzüglich Umsatzsteuer. Die Bundesvereinigung Deutscher Apothekerverbände e. V. hat dem Bundesministerium für Gesundheit bis zum 17. Mai 2021 eine Aufstellung des tatsächlichen Aufwandes nach Satz 1 zu übermitteln. Die Vergütung kann aufgrund der Aufstellung angepasst werden.
 
-
-## § 13 – Abrechnung der Großhandels- und Apothekenvergütung durch die Apotheken
+# § 13 – Abrechnung der Großhandels- und Apothekenvergütung durch die Apotheken
 
 (1) Die Apotheken rechnen monatlich spätestens bis zum Ende des dritten auf den Abrechnungszeitraum folgenden Monats die sich nach den §§ 11 und 12 ergebende Vergütung unter Angabe der BUND-Pharmazentralnummer mit dem jeweiligen Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch ab. Sie leiten die an sie ausgezahlte Vergütung nach § 11 an den Großhandel weiter.
 
 (2) Der Großhandel und die Apotheken sind verpflichtet, die für den Nachweis der korrekten Abrechnung erforderlichen rechnungsbegründenden Unterlagen bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen nach Absatz 1 Satz 1 übermittelten Angaben und die von ihnen nach § 14 Absatz 2 Satz 1 Nummer 2 übermittelten Angaben bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
-
-## § 14 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
+# § 14 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
 
 (1) Jedes Land übermittelt monatlich oder quartalsweise die folgenden Angaben an das Bundesamt für Soziale Sicherung:
 
@@ -402,13 +384,11 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Beträgen s
 
 (8) Die durch die Kassenärztlichen Vereinigungen gemäß § 11 Absatz 2 Satz 1 der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3) und gemäß § 11 Absatz 2 Satz 1 der Coronavirus-Impfverordnung vom 8. Februar 2021 (BAnz AT 08.02.2021 V1) übermittelten Beträge werden durch das Bundesamt für Soziale Sicherung aus der Liquiditätsreserve des Gesundheitsfonds an die Kassenärztlichen Vereinigungen ausgezahlt, soweit die Zahlung noch nicht erfolgt ist. Für die nach Satz 1 übermittelten Beträge gilt § 11 Absatz 2 Satz 2 der Coronavirus-Impfverordnung vom 8. Februar 2021 (BAnz AT 08.02.2021 V1) entsprechend.
 
-
-## § 15 – Verfahren für die Finanzierung aus Bundesmitteln
+# § 15 – Verfahren für die Finanzierung aus Bundesmitteln
 
 Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 2 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge und der an die Rechenzentren gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1.
 
-
-## § 16 – Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen
+# § 16 – Verfahren für die Zahlung von den privaten Krankenversicherungsunternehmen
 
 (1) Jedes Land übermittelt monatlich oder quartalsweise die folgenden Angaben an den Verband der Privaten Krankenversicherung:
 
@@ -424,22 +404,18 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 (4) Der Verband der Privaten Krankenversicherung übermittelt dem Bundesministerium für Gesundheit monatlich eine Aufstellung der nach Absatz 1 Satz 3 an die Länder ausgezahlten Beträge.
 
-
-## § 17 – Datenübermittlung zu Lagerbeständen
+# § 17 – Datenübermittlung zu Lagerbeständen
 
 Auf Anforderung des Paul-Ehrlich-Instituts haben Arzneimittelgroßhandlungen zur Abwendung von versorgungsrelevanten Lieferengpässen der Impfstoffe Daten zum Bezug, zur Abgabe und zu verfügbaren Beständen mitzuteilen.
 
-
-## § 18 – Evaluierung
+# § 18 – Evaluierung
 
 Diese Verordnung wird insbesondere auf Grundlage der jeweils vorliegenden infektiologischen Erkenntnisse, der jeweils aktuellen Empfehlung der Ständigen Impfkommission beim Robert Koch-Institut und der Versorgungslage mit Impfstoffen fortlaufend evaluiert.
 
-
-## § 19 – Übergangsvorschriften
+# § 19 – Übergangsvorschriften
 
 Vereinbarungen nach § 6 Absatz 3 Satz 1 der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), nach § 6 Absatz 3 Satz 1 Coronavirus-Impfverordnung vom 8. Februar 2021 (BAnz AT 08.02.2021 V1) und nach § 6 Absatz 3 Satz 1 der Coronavirus-Impfverordnung vom 10. März 2021 (BAnz AT 11.03.2021 V1) gelten fort. Arztpraxen, die auf Grundlage der Coronavirus-Impfverordnung vom 18. Dezember 2020 (BAnz AT 21.12.2020 V3), vom 8. Februar 2021 (BAnz AT 08.02.2021 V1) und vom 10. März 2021 (BAnz AT 11.03.2021 V1) mit der Leistungserbringung beauftragt worden sind, können Leistungen nach § 1 Absatz 1 und 4 weiterhin als beauftragte Arztpraxen auf Basis der bisher geltenden Regelungen erbringen.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2021 in Kraft; sie tritt nach § 20i Absatz 3 Satz 15 des Fünften Buches Sozialgesetzbuch und § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft. Die Coronavirus-Impfverordnung vom 10. März 2021 (BAnz AT 11.03.2021 V1) tritt mit Ablauf des 31. März 2021 außer Kraft.

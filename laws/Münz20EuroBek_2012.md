@@ -1,10 +1,7 @@
-# [Münz20EuroBek 2012] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Fichte“ der Serie „Deutscher Wald“)
-
-Ausfertigungsdatum: 25.05.2012
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Fichte“ der Serie „Deutscher Wald“)
+% Ausfertigungsdatum: 25.05.2012
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung am 27. Januar 2010 beschlossen, in den Jahren 2010 bis 2015 eine Serie von Kleinen Goldmünzen im Nominalwert von 20 Euro prägen zu lassen, die dem deutschen Wald gewidmet sind und die sich im Kontext mit dem Internationalen Jahr der Wälder 2011 (UN-Resolution 61/193 vom 20. Dezember 2006) befindet. Bislang sind im Rahmen der Serie die Münzen „Eiche“ (2010) und „Buche“ (2011) erschienen. Im Jahr 2012 wird die Ausgabe mit der Münze „Fichte“ fortgesetzt. Die Münze wird ab dem 26. Juni 2012 in den Verkehr gebracht.
 
@@ -16,12 +13,10 @@ Der Entwurf der Bild- und der Wertseite der Münze „Fichte“ stammt von dem K
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“, die zwölf Europasterne, die Wertziffer mit der Euro-Bezeichnung sowie die Jahreszahl „2012“ und – je nach Münzstätte – das Münzzeichen „A“, „D“, „F“, „G“ oder „J“.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2012, 1235)

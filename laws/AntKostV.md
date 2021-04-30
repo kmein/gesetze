@@ -1,17 +1,13 @@
-# [AntKostV] Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994  (AntKostV)
-
-Ausfertigungsdatum: 17.04.2001
-
+% Kostenverordnung für Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz vom 22. September 1994  (AntKostV)
+% Ausfertigungsdatum: 17.04.2001
  
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Das Umweltbundesamt erhebt für individuell zurechenbare öffentliche Leistungen nach dem Umweltschutzprotokoll-Ausführungsgesetz Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Für die Erhebung von Auslagen gilt § 23 Absatz 6 des Bundesgebührengesetzes. Im Übrigen sind die §§ 4 bis 6, 8, 13 bis 21 und 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes auch anwendbar, soweit diese Verordnung keine besonderen Regelungen enthält.
 
-
-## § 2 – Gebührenverzeichnis
+# § 2 – Gebührenverzeichnis
 
 (1) Die Gebühren für individuell zurechenbare öffentliche Leistungen nach dem Umweltschutzprotokoll-Ausführungsgesetz betragen:
 
@@ -62,8 +58,7 @@ gesetzes
 
 (3) Erfordert eine individuell zurechenbare öffentliche Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand, so kann die Gebühr dem Aufwand entsprechend bis auf 100 Euro reduziert werden.
 
-
-## § 3 – Gebühren in besonderen Fällen
+# § 3 – Gebühren in besonderen Fällen
 
 (1) In den Fällen des Widerrufs oder der Rücknahme einer Genehmigung, der Ablehnung oder Zurücknahme eines Antrags auf Erteilung einer Genehmigung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
@@ -71,12 +66,10 @@ gesetzes
 
 (3) Für die nachträgliche Anordnung einer Auflage, zu der der Antragsteller Anlass gegeben hat, beträgt die Gebühr höchstens ein Viertel der für die Genehmigung festgesetzten Gebühr.
 
-
-## § 4 – Gebühren- und Auslagenbefreiung
+# § 4 – Gebühren- und Auslagenbefreiung
 
 Bei individuell zurechenbaren öffentlichen Leistungen nach dem Umweltschutzprotokoll-Ausführungsgesetz, die Vorhaben der öffentlich geförderten wissenschaftlichen Forschung betreffen, wird von der Erhebung von Gebühren und Auslagen abgesehen.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

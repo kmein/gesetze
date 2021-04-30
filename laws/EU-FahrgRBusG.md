@@ -1,10 +1,7 @@
-# [EU-FahrgRBusG] EU-Fahrgastrechte-Kraftomnibus-Gesetz  (EU-FahrgRBusG)
-
-Ausfertigungsdatum: 23.07.2013
-
+% EU-Fahrgastrechte-Kraftomnibus-Gesetz  (EU-FahrgRBusG)
+% Ausfertigungsdatum: 23.07.2013
  
-
-## § 1 – Gegenstand und Anwendungsbereich
+# § 1 – Gegenstand und Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 über die Fahrgastrechte im Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 55 vom 28.2.2011, S. 1).
 
@@ -12,20 +9,17 @@ Ausfertigungsdatum: 23.07.2013
 
 (3) Artikel 16 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 181/2011 ist für Beförderer in Bezug auf die Schulung der Fahrer bis zum 28. Februar 2018 nicht anzuwenden.
 
-
-## § 2 – Aufgaben des Bundes
+# § 2 – Aufgaben des Bundes
 
 Dem Bund obliegt die Durchsetzung der Fahrgastrechte auf dem Gebiet des Kraftomnibusverkehrs.
 
-
-## § 3 – Zuständige Behörde, Einlegung der Beschwerde beim Beförderer
+# § 3 – Zuständige Behörde, Einlegung der Beschwerde beim Beförderer
 
 (1) Zuständige Behörde für die Durchsetzung der Verordnung (EU) Nr. 181/2011 ist das Eisenbahn-Bundesamt.
 
 (2) Beschwerden nach Artikel 27 der Verordnung (EU) Nr. 181/2011 sind unmittelbar beim Beförderer einzureichen. Die in Absatz 1 bezeichnete Behörde ist Beschwerdeinstanz für Beschwerden nach Artikel 28 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr. 181/2011.
 
-
-## § 4 – Befugnisse
+# § 4 – Befugnisse
 
 (1) Soweit es zur Durchführung der Verordnung (EU) Nr. 181/2011 erforderlich ist, kann die zuständige Behörde die notwendigen Maßnahmen treffen, die zur Feststellung, Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU) Nr. 181/2011 erforderlich sind. Sie kann insbesondere
 
@@ -49,8 +43,7 @@ c) die unter Buchstabe b genannten Unterlagen und Datenträger nutzen und hierf�
 
 (5) Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Bestimmungen durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu 500 000 Euro betragen.
 
-
-## § 5 – Duldungs- und Mitwirkungspflichten
+# § 5 – Duldungs- und Mitwirkungspflichten
 
 Beförderer, ausführende Beförderer, Fahrscheinverkäufer, Reisevermittler, Reiseveranstalter oder Busbahnhofbetreiber, die nach Gesetz oder Satzung zu deren Vertretung berufenen Personen und die von ihnen bestellten Vertreter sowie die Eigentümer und sonstigen nutzungsberechtigten Personen der in § 4 Absatz 2 bezeichneten Grundstücke, Betriebs- und Geschäftsräume sind verpflichtet,
 
@@ -60,8 +53,7 @@ Beförderer, ausführende Beförderer, Fahrscheinverkäufer, Reisevermittler, Re
 
 Insbesondere sind die in Satz 1 genannten Personen verpflichtet, auf Verlangen der zuständigen Behörde und den von ihr beauftragten Personen die in Betracht kommenden Räume zu öffnen.
 
-
-## § 6 – Schlichtungsstelle
+# § 6 – Schlichtungsstelle
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung im Kraftomnibusverkehr kann der Fahrgast eine geeignete Verbraucherschlichtungsstelle anrufen, wenn sich der Vertragspartner bereit erklärt hat, an der Schlichtung teilzunehmen.
 
@@ -83,13 +75,11 @@ Das Recht, die Gerichte anzurufen, bleibt durch die Schlichtung unberührt.
 
 (7) (weggefallen)
 
-
-## § 7 – Gebühren und Auslagen
+# § 7 – Gebühren und Auslagen
 
 Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, auf Grund dieses Gesetzes oder nach der Verordnung (EU) Nr. 181/2011.
 
-
-## § 8 – Verordnungsermächtigung
+# § 8 – Verordnungsermächtigung
 
 (1) Zur Durchsetzung der Fahrgastrechte im Kraftomnibusverkehr nach der Verordnung (EU) Nr. 181/2011 wird das Bundesministerium für Verkehr und digitale Infrastruktur zur Wahrnehmung der Aufgaben des Bundes nach § 2 ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -103,8 +93,7 @@ Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine individuell zur
 
 (3) (weggefallen)
 
-
-## § 9 – Bußgeldvorschriften
+# § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union über die Fahrgastrechte im Kraftomnibusverkehr zuwiderhandelt, soweit eine Rechtsverordnung nach § 8 Absatz 1 Nummer 2 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 

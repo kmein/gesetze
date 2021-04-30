@@ -1,15 +1,11 @@
-# [InfrGGBV] Verordnung über die Beleihung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes  (InfrGG-Beleihungsverordnung - InfrGGBV)
-
-Ausfertigungsdatum: 23.03.2020
-
+% Verordnung über die Beleihung der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes  (InfrGG-Beleihungsverordnung - InfrGGBV)
+% Ausfertigungsdatum: 23.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 des Infrastrukturgesellschaftserrichtungsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3141), der durch Artikel 5 des Gesetzes vom 29. November 2018 (BGBl. I S. 2237) geändert worden ist, verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
-
-## § 1 – Beleihung
+# § 1 – Beleihung
 
 (1) Die Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes (Gesellschaft) wird beliehen
 
@@ -85,8 +81,7 @@ Die Aufgabenwahrnehmung nach Satz 1 umfasst auch den Abschluss von Verwaltungsve
 
 Näheres zu Satz 1 wird in einer Verwaltungsvorschrift bestimmt, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Rahmen des § 5 Absatz 4 des Infrastrukturgesellschaftserrichtungsgesetzes im Einvernehmen mit dem Bundesministerium der Finanzen erlassen wird.
 
-
-## § 2 – Aufsicht, Aufgabenwahrnehmung und Berichtspflichten
+# § 2 – Aufsicht, Aufgabenwahrnehmung und Berichtspflichten
 
 (1) Soweit die Gesellschaft beliehen ist, wird nach § 2 Absatz 1 Satz 1 Nummer 5 des Fernstraßen-Bundesamt-Errichtungsgesetzes die Rechts- und Fachaufsicht vom Fernstraßen-Bundesamt wahrgenommen. Die Funktion der oder des Beauftragten für den Haushalt nach § 9 der Bundeshaushaltsordnung verbleibt für die Haushaltstitel, die die Gesellschaft betreffen, beim Bundesministerium für Verkehr und digitale Infrastruktur.
 
@@ -94,12 +89,10 @@ Näheres zu Satz 1 wird in einer Verwaltungsvorschrift bestimmt, die vom Bundesm
 
 (3) Die Gesellschaft legt dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Fernstraßen-Bundesamt jährlich zum 1. April einen Bericht zur Ausführung der Aufgaben vor, mit denen sie nach dieser Verordnung beliehen ist. Die Pflicht, auf gesonderte Anforderung des Bundesministeriums für Verkehr und digitale Infrastruktur oder des Fernstraßen-Bundesamtes einen Bericht vorzulegen, bleibt hiervon unberührt.
 
-
-## § 3 – Beendigung der Beleihung
+# § 3 – Beendigung der Beleihung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Beleihung insgesamt oder einzelne Beleihungstatbestände jederzeit aufheben. Die Beleihung endet mit dem Inkrafttreten einer die Beleihung aufhebenden Verordnung.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft.

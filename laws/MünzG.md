@@ -1,15 +1,11 @@
-# [MünzG] Münzgesetz  (MünzG)
-
-Ausfertigungsdatum: 16.12.1999
-
+% Münzgesetz  (MünzG)
+% Ausfertigungsdatum: 16.12.1999
  
-
-## § 1 – Ausprägung von deutschen Euro-Münzen
+# § 1 – Ausprägung von deutschen Euro-Münzen
 
 Der Bund prägt Münzen (deutsche Euro-Münzen) gemäß der Verordnung (EG) Nr. 975/98 des Rates vom 3. Mai 1998 über die Stückelungen und die technischen Merkmale der für den Umlauf bestimmten Euro-Münzen (ABl. EG Nr. L 139 S. 6) in der jeweils geltenden Fassung aus.
 
-
-## § 2 – Ausprägung von Sammlermünzen
+# § 2 – Ausprägung von Sammlermünzen
 
 (1) Der Bund kann als Sammlermünzen
 
@@ -23,8 +19,7 @@ ausprägen.
 
 (3) Das Bundesministerium der Finanzen kann für Sammlermünzen einen über dem Nennwert liegenden Verkaufspreis festlegen.
 
-
-## § 3 – Annahme- und Umtauschpflicht
+# § 3 – Annahme- und Umtauschpflicht
 
 (1) Niemand ist verpflichtet, deutsche Euro-Gedenkmünzen im Betrag von mehr als 200 Euro bei einer einzelnen Zahlung anzunehmen. Erfolgt eine einzelne Zahlung sowohl in Euro-Münzen als auch in deutschen Euro-Gedenkmünzen, ist niemand verpflichtet, mehr als 50 Münzen anzunehmen; dies gilt auch dann, wenn der Gesamtbetrag 200 Euro unterschreitet.
 
@@ -32,20 +27,17 @@ ausprägen.
 
 (3) Niemand ist verpflichtet, Euro-Münzen und deutsche Euro-Gedenkmünzen anzunehmen oder umzutauschen, die durchlöchert, verfälscht oder anders als durch den gewöhnlichen Umlauf verändert sind. Die Deutsche Bundesbank hat die Erstattung von nicht für den Umlauf geeigneten Euro-Münzen, die entweder mutwillig oder durch ein Verfahren verändert wurden, bei dem eine Veränderung zu erwarten war, abzulehnen.
 
-
-## § 4 – Gestaltung der deutschen Euro-Münzen
+# § 4 – Gestaltung der deutschen Euro-Münzen
 
 (1) Die Bundesregierung bestimmt die Gestaltung der nationalen Münzseite der deutschen Euro-Münzen einschließlich des Wortlauts der Randschrift der auf 2 Euro lautenden deutschen Euro-Münze sowie im Einvernehmen mit der Deutschen Bundesbank die Verteilung der auszuprägenden Beträge auf die verschiedenen Nennwerte.
 
 (2) Die Gestaltung der nationalen Münzseite der deutschen Euro-Münzen ist im Bundesgesetzblatt bekannt zu machen.
 
-
-## § 5 – Gestalt der deutschen Euro-Gedenkmünzen
+# § 5 – Gestalt der deutschen Euro-Gedenkmünzen
 
 Die Bundesregierung bestimmt die Nennwerte und die Gestaltung sowie im Benehmen mit der Deutschen Bundesbank die technischen Merkmale der deutschen Euro-Gedenkmünzen; sie müssen sich hinreichend von den Euro-Münzen unterscheiden. § 4 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 6 – Münzprägung
+# § 6 – Münzprägung
 
 (1) Die deutschen Euro-Münzen und die deutschen Euro-Gedenkmünzen werden von denjenigen Münzstätten der Länder ausgeprägt, die sich dazu bereit erklären und die der Bund beauftragt. Das Verfahren bei der Ausprägung unterliegt der Aufsicht des Bundesministeriums der Finanzen.
 
@@ -53,37 +45,31 @@ Die Bundesregierung bestimmt die Nennwerte und die Gestaltung sowie im Benehmen 
 
 (3) Die zur Ausprägung erforderlichen Münzmetalle werden den Münzstätten vom Bundesministerium der Finanzen zugewiesen.
 
-
-## § 7 – Inverkehrbringen von Münzen
+# § 7 – Inverkehrbringen von Münzen
 
 (1) Die Deutsche Bundesbank bringt die deutschen Euro-Münzen und die deutschen Euro-Gedenkmünzen unbeschadet des Artikels 128 Absatz 2 Satz 1 des Vertrages über die Arbeitsweise der Europäischen Union nach Maßgabe der Bedürfnisse in den Verkehr. Zu diesem Zweck ist sie verpflichtet, die nach den §§ 1 und 2 ausgeprägten Münzen mit Ausnahme der Münzen gemäß § 2 Abs. 3 vom Bund gegen Gutschrift des Nennbetrages zu übernehmen, soweit Artikel 123 Absatz 1 des Vertrages nicht entgegen steht.
 
 (2) Der Bund bringt unbeschadet des Artikels 128 Absatz 2 Satz 1 des Vertrages über die Arbeitsweise der Europäischen Union Sammlermünzen gemäß § 2 Abs. 3 in den Verkehr. Er kann eine andere Stelle damit beauftragen.
 
-
-## § 7a – Aufgaben nach den Artikeln 6 und 8 bis 12 der Verordnung (EG) Nr. 1210/2010
+# § 7a – Aufgaben nach den Artikeln 6 und 8 bis 12 der Verordnung (EG) Nr. 1210/2010
 
 Die Deutsche Bundesbank nimmt die Aufgaben nach den Artikeln 6, 8 bis 11 und 12 Absatz 2 und 3 der Verordnung (EU) Nr. 1210/2010 wahr.
 
-
-## § 8 – Einziehung von Münzen
+# § 8 – Einziehung von Münzen
 
 Euro-Münzen und deutsche Euro-Gedenkmünzen, die infolge längeren Umlaufs und Abnutzung an Gewicht oder Erkennbarkeit erheblich eingebüßt haben, werden von der Deutschen Bundesbank angenommen. Sie sind für Rechnung des Bundes einzuziehen.
 
-
-## § 9 – Außerkurssetzung
+# § 9 – Außerkurssetzung
 
 (1) Die Bundesregierung kann deutsche Euro-Münzen und deutsche Euro-Gedenkmünzen außer Kurs setzen. Die Einlösungsfrist muss mindestens sechs Monate betragen.
 
 (2) Die Außerkurssetzung der in Absatz 1 genannten Münzen ist im Bundesgesetzblatt, im Bundesanzeiger sowie in überregionalen Tageszeitungen bekannt zu machen und der Kommission der Europäischen Gemeinschaften mitzuteilen.
 
-
-## § 10 – Verordnungsermächtigung
+# § 10 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu versagen oder unter Bedingungen zuzulassen, dass Medaillen und Münzstücke, bei denen die Gefahr einer Verwechselung mit deutschen Euro-Gedenkmünzen besteht, hergestellt, verkauft, eingeführt oder zum Verkauf oder anderen kommerziellen Zwecken verbreitet werden.
 
-
-## § 11 – Münzschutz
+# § 11 – Münzschutz
 
 (1) Es ist verboten,
 
@@ -99,8 +85,7 @@ Satz 1 gilt nicht für Stücke, die als Nachahmungen gestaltet oder vor dem Jahr
 
 (2) Die Verbote gemäß Absatz 1 gelten auch für ausländische Münzen.
 
-
-## § 12 – Bußgeldvorschriften
+# § 12 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 2182/2004 des Rates vom 6. Dezember 2004 über Medaillen und Münzstücke mit ähnlichen Merkmalen wie Euro-Münzen (ABl. EU Nr. L 373 S. 1) verstößt, indem er entgegen Artikel 2 eine Medaille oder ein Münzstück herstellt, verkauft, einführt oder zum Verkauf oder zu anderen kommerziellen Zwecken verbreitet.
 
@@ -134,7 +119,6 @@ Satz 1 gilt nicht für Stücke, die als Nachahmungen gestaltet oder vor dem Jahr
 
 eingezogen werden.
 
-
-## § 13 – (weggefallen)
+# § 13 – (weggefallen)
 
 \-

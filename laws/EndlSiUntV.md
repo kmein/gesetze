@@ -1,20 +1,15 @@
-# [EndlSiUntV] Verordnung über Anforderungen an die Durchführung der vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle  (Endlagersicherheitsuntersuchungsverordnung - EndlSiUntV)
-
-Ausfertigungsdatum: 06.10.2020
-
+% Verordnung über Anforderungen an die Durchführung der vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle  (Endlagersicherheitsuntersuchungsverordnung - EndlSiUntV)
+% Ausfertigungsdatum: 06.10.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf die vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle. Der Vorhabenträger nach § 3 des Standortauswahlgesetzes vom 5. Mai 2017 (BGBl. I S. 1074), das zuletzt durch Artikel 247 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung hat die Einhaltung der Regelungen dieser Verordnung zu gewährleisten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Für diese Verordnung sind die Begriffsbestimmungen nach § 2 des Standortauswahlgesetzes und nach § 2 der Endlagersicherheitsanforderungsverordnung vom 6. Oktober 2020 (BGBl. I S. 2094) in der jeweils geltenden Fassung anzuwenden.
 
-
-## § 3 – Untersuchungsraum
+# § 3 – Untersuchungsraum
 
 (1) In den vorläufigen Sicherheitsuntersuchungen sind die Untersuchungsräume auszuweisen. Untersuchungsräume sind diejenigen räumlichen Bereiche, die zur Bewertung als möglicher Endlagerstandort vorgesehen sind.
 
@@ -24,8 +19,7 @@ Für diese Verordnung sind die Begriffsbestimmungen nach § 2 des Standortauswah
 
 (4) Für jeden Untersuchungsraum ist nur ein vorläufiges Sicherheitskonzept vorzusehen und eine vorläufige Sicherheitsuntersuchung durchzuführen.
 
-
-## § 4 – Allgemeine Anforderungen an die vorläufigen Sicherheitsuntersuchungen
+# § 4 – Allgemeine Anforderungen an die vorläufigen Sicherheitsuntersuchungen
 
 (1) Jede vorläufige Sicherheitsuntersuchung muss mindestens die in den §§ 5 bis 12 aufgeführten Inhalte umfassen. Der Umfang dieser Inhalte ist jeweils an die Erfordernisse der Vorschläge des Vorhabenträgers nach § 14 Absatz 2, § 16 Absatz 3 und § 18 Absatz 3 des Standortauswahlgesetzes anzupassen.
 
@@ -37,8 +31,7 @@ Für diese Verordnung sind die Begriffsbestimmungen nach § 2 des Standortauswah
 
 (5) Jede vorläufige Sicherheitsuntersuchung ist in einem Bericht zusammenzufassen. Die Berichte zu allen repräsentativen, allen weiterentwickelten und allen umfassenden vorläufigen Sicherheitsuntersuchungen sind jeweils einheitlich zu strukturieren und so aufzubereiten, dass sie als Grundlage für eine vergleichende Bewertung der Untersuchungsräume nutzbar sind. Bezüge zu nachgeordneten Unterlagen sind in einem Dokumentstrukturplan darzustellen.
 
-
-## § 5 – Geosynthese
+# § 5 – Geosynthese
 
 (1) Für jede vorläufige Sicherheitsuntersuchung ist eine Geosynthese zu erstellen.
 
@@ -46,8 +39,7 @@ Für diese Verordnung sind die Begriffsbestimmungen nach § 2 des Standortauswah
 
 (3) Informationen, die außerhalb des Untersuchungsraums gewonnen wurden, sind zu kennzeichnen. Ihre Übertragbarkeit auf den Untersuchungsraum und die Notwendigkeit der Übertragung sind zu begründen.
 
-
-## § 6 – Vorläufiges Sicherheitskonzept; vorläufige Auslegung des Endlagers
+# § 6 – Vorläufiges Sicherheitskonzept; vorläufige Auslegung des Endlagers
 
 (1) Für den Untersuchungsraum ist in der repräsentativen vorläufigen Sicherheitsuntersuchung nach § 14 Absatz 1 des Standortauswahlgesetzes ein vorläufiges Sicherheitskonzept entsprechend § 10 der Endlagersicherheitsanforderungsverordnung zu erstellen. Dieses vorläufige Sicherheitskonzept ist in der weiterentwickelten und der umfassenden vorläufigen Sicherheitsuntersuchung nach § 16 Absatz 1 und § 18 Absatz 1 des Standortauswahlgesetzes weiterzuentwickeln.
 
@@ -69,8 +61,7 @@ Für diese Verordnung sind die Begriffsbestimmungen nach § 2 des Standortauswah
 
 6. mögliche Maßnahmen zur Geringhaltung der Schädigung der wesentlichen Barrieren während der Erkundung, der Errichtung, dem Betrieb und der Stilllegung des Endlagers.
 
-
-## § 7 – Analyse des Endlagersystems
+# § 7 – Analyse des Endlagersystems
 
 (1) Grundlage für die Analyse des geplanten Endlagersystems im Untersuchungsraum sind die Geosynthese nach § 5, das vorläufige Sicherheitskonzept nach § 6 Absatz 1 und die vorläufige Auslegung des Endlagers nach § 6 Absatz 2.
 
@@ -114,8 +105,7 @@ f) für die zu erwartenden Entwicklungen die Möglichkeit des sicheren Einschlus
 
 6. für die Beurteilung nach Absatz 5 ist als Indikator nur das Volumen der im Untersuchungsraum vorkommenden potenziellen Wirtsgesteine heranzuziehen.
 
-
-## § 8 – Betriebliche Sicherheitsanalyse
+# § 8 – Betriebliche Sicherheitsanalyse
 
 (1) Die betriebliche Sicherheitsanalyse hat alle Anlagenzustände des Endlagers, einschließlich der übertägigen Anlagen, während der Errichtung, des Betriebs und der Stilllegung entsprechend § 17 der Endlagersicherheitsanforderungsverordnung zu erfassen.
 
@@ -127,8 +117,7 @@ f) für die zu erwartenden Entwicklungen die Möglichkeit des sicheren Einschlus
 
 3. sind die Auswirkungen der Einwirkungen, Ausfälle und Abweichungen nach Nummer 1 auf die Betriebs- und Langzeitsicherheit darzustellen.
 
-
-## § 9 – Langzeitsicherheitsanalyse
+# § 9 – Langzeitsicherheitsanalyse
 
 (1) Die Langzeitsicherheitsanalyse muss den gesamten Bewertungszeitraum von einer Million Jahren ab dem vorgesehenen Verschluss des Endlagers umfassen und mindestens die folgenden Bereiche abdecken:
 
@@ -148,13 +137,11 @@ Bei der Langzeitsicherheitsanalyse ist das Verhalten des Endlagersystems als Gan
 
 (2) Für die Analyse des Verhaltens des Endlagersystems im Bewertungszeitraum sind hinreichend qualifizierte numerische Modellierungen auf Grundlage realitätsnaher Annahmen durchzuführen.
 
-
-## § 10 – Umfassende Bewertung des Endlagersystems
+# § 10 – Umfassende Bewertung des Endlagersystems
 
 Ausgehend von den Ergebnissen der Analyse des Endlagersystems nach § 7 sind die Sicherheit des Endlagersystems sowie seine Robustheit zu bewerten. Insbesondere ist zu bewerten, inwiefern für den jeweiligen Untersuchungsraum in Verbindung mit dem ihm zugeordneten vorläufigen Sicherheitskonzept zu erwarten ist, dass die Anforderungen an den sicheren Einschluss der radioaktiven Abfälle nach § 4 der Endlagersicherheitsanforderungsverordnung erfüllt werden können.
 
-
-## § 11 – Bewertung von Ungewissheiten
+# § 11 – Bewertung von Ungewissheiten
 
 (1) Die zum Zeitpunkt der Erstellung der jeweiligen vorläufigen Sicherheitsuntersuchung bestehenden Ungewissheiten sind systematisch auszuweisen und dahingehend zu charakterisieren, auf welchen Sachverhalten oder Kenntnisdefiziten sie beruhen. Hierbei sind auch Verknüpfungen von Ungewissheiten untereinander sowie Ungewissheiten der Modellierung nach § 9 Absatz 2 zu berücksichtigen. Aufgrund von Ungewissheiten getroffene Annahmen sind darzulegen und zu begründen.
 
@@ -162,8 +149,7 @@ Ausgehend von den Ergebnissen der Analyse des Endlagersystems nach § 7 sind die
 
 (3) Es ist darzulegen, ob und in welchem Umfang Ungewissheiten durch weitere Erkundungs-, Forschungs- und Entwicklungsmaßnahmen reduziert werden können und in welchem Maß dadurch die Zuverlässigkeit der sicherheitsgerichteten Aussagen erhöht werden kann.
 
-
-## § 12 – Ableitung des Erkundungs-, Forschungs- und Entwicklungsbedarfs
+# § 12 – Ableitung des Erkundungs-, Forschungs- und Entwicklungsbedarfs
 
 (1) Anhand der Bewertung des Endlagersystems und der Ungewissheiten nach den §§ 10 und 11 sind
 

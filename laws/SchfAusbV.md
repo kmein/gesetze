@@ -1,25 +1,19 @@
-# [SchfAusbV] Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin   (Schornsteinfeger-Ausbildungsverordnung - SchfAusbV)
-
-Ausfertigungsdatum: 20.06.2012
-
+% Verordnung über die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin   (Schornsteinfeger-Ausbildungsverordnung - SchfAusbV)
+% Ausfertigungsdatum: 20.06.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 in Verbindung mit § 26 Absatz 1 und 2 Satz 1 Nummer 2, 3 und 7 der Handwerksordnung, von denen § 25 Absatz 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert und § 26 zuletzt durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Schornsteinfeger und Schornsteinfegerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe 12 „Schornsteinfeger“ der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -75,8 +69,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 9. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
@@ -84,8 +77,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Zwischenprüfung
+# § 5 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -133,8 +125,7 @@ e) qualitätssichernde Maßnahmen zu berücksichtigen;
 
 3. die Prüfungszeit beträgt 180 Minuten.
 
-
-## § 6 – Gesellenprüfung
+# § 6 – Gesellenprüfung
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist.
 
@@ -234,8 +225,7 @@ i) Arbeitssicherheitsvorschriften zu beschreiben;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 7 – Gewichtungs- und Bestehensregelung
+# § 7 – Gewichtungs- und Bestehensregelung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -266,17 +256,14 @@ Sozialkunde</td><td style="text-align: right;">10 Prozent.</td></tr></tbody></ta
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Anlagentechnik“ oder „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 :1 zu gewichten.
 
-
-## § 8 – Bestehende Berufsausbildungsverhältnisse
+# § 8 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Schornsteinfeger/zur Schornsteinfegerin vom 31. Januar 1997 (BGBl. I S. 179) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
 
 (Fundstelle: BGBl. I 2012, 1434 - 1439)

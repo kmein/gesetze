@@ -1,10 +1,7 @@
-# [InvKG] Investitionsgesetz Kohleregionen  (Investitionsgesetz Kohleregionen - InvKG)
-
-Ausfertigungsdatum: 08.08.2020
-
+% Investitionsgesetz Kohleregionen  (Investitionsgesetz Kohleregionen - InvKG)
+% Ausfertigungsdatum: 08.08.2020
  
-
-## § 1 – Förderziele, Fördervolumen und Leitbilder
+# § 1 – Förderziele, Fördervolumen und Leitbilder
 
 (1) Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums unterstützt der Bund die Länder Brandenburg und Nordrhein-Westfalen, den Freistaat Sachsen und das Land Sachsen-Anhalt in den Fördergebieten nach § 2. Hierzu gewährt der Bund diesen Ländern nach Maßgabe des § 27 Finanzhilfen für besonders bedeutsame Investitionen der Länder und ihrer Gemeinden und Gemeindeverbände nach Artikel 104b Absatz 1 Nummer 2 und 3 des Grundgesetzes in Höhe von bis zu 14 Milliarden Euro, längstens bis 2038.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 08.08.2020
 
 (4) Die Förderziele nach den Absätzen 1 und 2 sind auch für die Maßnahmen der Kapitel 3 und 4 maßgebend.
 
-
-## § 2 – Fördergebiete
+# § 2 – Fördergebiete
 
 Fördergebiete sind das Lausitzer Revier, das Rheinische Revier und das Mitteldeutsche Revier, die sich jeweils aus den folgenden Gemeinden und Gemeindeverbänden zusammensetzen:
 
@@ -33,8 +29,7 @@ a) im Freistaat Sachsen: Landkreis Leipzig, Stadt Leipzig, Landkreis Nordsachsen
 
 b) in Sachsen-Anhalt: Burgenlandkreis, Saalekreis, kreisfreie Stadt Halle, Landkreis Mansfeld-Südharz, Landkreis Anhalt-Bitterfeld.
 
-
-## § 3 – Verteilung
+# § 3 – Verteilung
 
 (1) Der in § 1 Absatz 1 festgelegte Betrag verteilt sich wie folgt:
 
@@ -64,8 +59,7 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (+++ § 3: Zur Anwendung vgl. § 27 Abs. 2 Satz 2 +++)
 
-
-## § 4 – Förderbereiche
+# § 4 – Förderbereiche
 
 (1) Die Finanzhilfen nach Artikel 104b des Grundgesetzes werden den Ländern trägerneutral für Investitionen zur Verbesserung der wirtschaftlichen Infrastruktur insbesondere in folgenden Bereichen gewährt:
 
@@ -97,15 +91,13 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (4) Finanzhilfen im Sinne von § 1 Absatz 1 werden nur für zusätzliche Investitionen gewährt. Die Zusätzlichkeit der geförderten Maßnahmen muss vorhabenbezogen gegeben sein.
 
-
-## § 5 – Doppelförderung
+# § 5 – Doppelförderung
 
 (1) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen als Anteilsfinanzierung nach den Artikeln 91a, 91b, 104b, 104c des Grundgesetzes oder durch andere Förderprogramme des Bundes gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Kapitel gewährt werden.
 
 (2) Investive Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie im Zusammenhang mit Hauptmaßnahmen nach § 4 stehen.
 
-
-## § 6 – Förderperioden, Förderbedingung und Förderzeitraum
+# § 6 – Förderperioden, Förderbedingung und Förderzeitraum
 
 (1) Die Finanzhilfen werden im Zeitraum von 2020 bis einschließlich 2038 gewährt. Der Zeitraum nach Satz 1 wird in die folgenden drei Förderperioden aufgeteilt:
 
@@ -123,8 +115,7 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (5) Die Finanzhilfen der Förderperioden 2 und 3 werden nur gewährt, wenn die Überprüfung des Bundesministeriums für Wirtschaft und Energie nach § 49 des Kohleverstromungsbeendigungsgesetzes ergibt, dass in der jeweils vorausgehenden Förderperiode in den Revieren nach § 2 Stilllegungen von Braunkohleanlagen in dem nach § 4 des Kohleverstromungsbeendigungsgesetzes in Verbindung mit Teil 5 des Kohleverstromungsbeendigungsgesetzes vorgesehenen Umfang erfolgt oder rechtsverbindlich vereinbart worden sind.
 
-
-## § 7 – Förderquote und Bewirtschaftung
+# § 7 – Förderquote und Bewirtschaftung
 
 (1) Der Bund beteiligt sich mit bis zu 90 Prozent, die Länder einschließlich der Gemeinden und Gemeindeverbände beteiligen sich mit mindestens 10 Prozent am Gesamtvolumen des öffentlichen Finanzierungsanteils der förderfähigen Kosten der jeweiligen Investition.
 
@@ -140,8 +131,7 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (4) Die Länder stellen sicher, dass die geförderten Investitionen dauerhaft nach außen erkennbar als durch Finanzhilfen des Bundes geförderte Vorhaben gekennzeichnet werden.
 
-
-## § 8 – Prüfung der Mittelverwendung
+# § 8 – Prüfung der Mittelverwendung
 
 (1) Die zuständigen obersten Landesbehörden sind verpflichtet, dem Bundesministerium für Wirtschaft und Energie die zur Durchführung des Gesetzes erforderlichen Auskünfte zu erteilen. Die Erhebungsrechte des Bundesrechnungshofes nach Artikel 114 Absatz 2 Satz 2 des Grundgesetzes in Verbindung mit § 91 Absatz 1 Nummer 5 der Bundeshaushaltsordnung bleiben unberührt.
 
@@ -149,8 +139,7 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (3) Die zuständigen obersten Landesbehörden übersenden dem Koordinierungsgremium nach § 25 jährlich zum 1. Oktober einen Bericht zur Umsetzung der Maßnahmen. Dieser enthält insbesondere Informationen zur Erreichung der in § 1 genannten Förderziele und der in § 4 Absatz 1 genannten Förderbereiche.
 
-
-## § 9 – Rückforderung
+# § 9 – Rückforderung
 
 (1) Der Bund kann von den Ländern die zugewiesenen Finanzhilfen zurückfordern, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen des § 2 sowie der §§ 4 bis 8 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Die zurückgeforderten Mittel können vorbehaltlich des Absatzes 2 Satz 1 dem jeweiligen Land erneut zur Verfügung gestellt werden.
 
@@ -160,13 +149,11 @@ b) 40 Prozent für den Freistaat Sachsen.
 
 (4) Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann die Bundesregierung Bericht und Vorlage der Akten verlangen und Erhebungen bei allen Behörden durchführen. Die Prüfungsrechte des Bundesrechnungshofes bleiben unberührt.
 
-
-## § 10 – Verwaltungsvereinbarung
+# § 10 – Verwaltungsvereinbarung
 
 Die Einzelheiten des Verfahrens zur Gewährung der Finanzhilfen nach diesem Kapitel werden durch eine Verwaltungsvereinbarung geregelt, die der zustimmenden Kenntnisnahme des Haushaltsausschusses und des Ausschusses für Wirtschaft und Energie des Deutschen Bundestages bedarf. Die Inanspruchnahme der Finanzhilfen ist an das Inkrafttreten der Verwaltungsvereinbarung gebunden.
 
-
-## § 11 – Förderziel und Fördervolumen
+# § 11 – Förderziel und Fördervolumen
 
 (1) Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung wirtschaftlichen Wachstums unterstützt der Bund im Rahmen seiner Zuständigkeit die Länder Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen und Saarland und ihre Gemeinden und Gemeindeverbände nach Maßgabe des § 12. Hierzu gewährt der Bund Strukturhilfen nach Maßgabe des § 27 in Höhe von bis zu 1,09 Milliarden Euro, längstens bis 2038.
 
@@ -184,8 +171,7 @@ Niedersachsen erhält darüber hinaus für das ehemalige Braunkohlerevier im Lan
 
 (3) Die Strukturhilfen dienen im Rahmen der Förderziele nach den Absätzen 1 und 2 insbesondere der Bewältigung des Strukturwandels und der Sicherung der Beschäftigung im Zuge der Beendigung der Verstromung von Steinkohle sowie der Beendigung des Braunkohletagebaus und der Verstromung von Braunkohle in den Landkreisen Helmstedt und Altenburger Land.
 
-
-## § 12 – Förderfähige Gemeinden und Gemeindeverbände
+# § 12 – Förderfähige Gemeinden und Gemeindeverbände
 
 (1) In folgenden Gemeinden und Gemeindeverbänden als strukturschwache Standorte von Steinkohlekraftwerken, an denen der Steinkohlesektor eine erhebliche wirtschaftliche Relevanz besitzt, können Strukturhilfemaßnahmen gefördert werden:
 
@@ -209,25 +195,21 @@ Niedersachsen erhält darüber hinaus für das ehemalige Braunkohlerevier im Lan
 
 (2) Strukturhilfemaßnahmen in den unmittelbar an die Fördergebiete gemäß Absatz 1 angrenzenden Gemeinden und Gemeindeverbänden können gefördert werden, sofern diese Maßnahmen geeignet sind, die Förderziele gemäß § 11 in den Gemeinden und Gemeindeverbänden gemäß Absatz 1 zu erreichen und im Einvernehmen mit diesen Gemeinden oder Gemeindeverbänden durchgeführt werden.
 
-
-## § 13 – Verwaltungsvereinbarungen
+# § 13 – Verwaltungsvereinbarungen
 
 Die Einzelheiten zur Gewährung der Strukturhilfen nach diesem Kapitel werden durch Verwaltungsvereinbarungen geregelt, die der zustimmenden Kenntnisnahme des Haushaltsausschusses und des Ausschusses für Wirtschaft und Energie des Deutschen Bundestages bedürfen. Die Inanspruchnahme der Strukturhilfen ist an das Inkrafttreten der Verwaltungsvereinbarungen gebunden.
 
-
-## § 14 – Förderung von Wissenschaft, Forschung, Lehre und Bildung in den Fördergebieten nach § 2
+# § 14 – Förderung von Wissenschaft, Forschung, Lehre und Bildung in den Fördergebieten nach § 2
 
 Der Bund fördert zweckgebunden Wissenschaft, Forschung, Lehre und Bildung in den Fördergebieten nach § 2 mit der Finanzierung von Projekten sowie der Finanzierung des Bundesanteils im Rahmen von Förderungen nach Artikel 91b Absatz 1 des Grundgesetzes. Die hierfür jeweils geltenden Bestimmungen bleiben unberührt.
 
-
-## § 15 – Bundesförderprogramm
+# § 15 – Bundesförderprogramm
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird unter Einhaltung des europäischen Beihilfenrechts ein Bundesförderprogramm auflegen. Das Programm unterstützt Projekte, die dazu beitragen, die in den §§ 2, 11 und 12 genannten Gemeinden und Gemeindeverbände zu bundesweiten Modellregionen einer treibhausgasneutralen, ressourceneffizienten und nachhaltigen Entwicklung zu wandeln. Die Länder sind verpflichtet, Begleitgremien unter Beteiligung der für die Regionalentwicklung maßgeblichen Akteure und der Sozialpartner einzurichten. Die Einzelheiten, wie dies durch das Bundesprogramm unterstützt werden kann, werden durch eine Förderrichtlinie des Bundesministeriums für Wirtschaft und Energie geregelt.
 
 (2) Im Rahmen des Förderprogramms werden auch lokale Bündnisse zwischen Gemeinden und Sozialpartnern, insbesondere Revierbegleitausschüsse, gefördert, die bei der Erarbeitung und Umsetzung der regionalen Entwicklungspläne und -maßnahmen eingebunden werden.
 
-
-## § 16 – Maßnahmen zur Unterstützung der Energiewende und des Klimaschutzes
+# § 16 – Maßnahmen zur Unterstützung der Energiewende und des Klimaschutzes
 
 (1) Zur Unterstützung der Wärmewende, insbesondere in der leitungsgebundenen Wärmeversorgung, wird in einem der Fördergebiete nach § 2 ein „Kompetenzzentrum Wärmewende“ eingerichtet. Das Kompetenzzentrum unterstützt als zentrale Anlaufstelle Gemeinden, Gemeindeverbände und Unternehmen bei der Erstellung von kommunalen Wärmeplänen sowie bei Planung, Neubau und Transformation von Wärmenetzen.
 
@@ -241,8 +223,7 @@ Der Bund fördert zweckgebunden Wissenschaft, Forschung, Lehre und Bildung in de
 
 3. Einrichtungen im Rahmen eines institutionellen Forschungsprogramms zu den Themen des elektrischen Fliegens in Aachen, Merzbrück und Cochstedt für das Rheinische Revier und das Mitteldeutsche Revier.
 
-
-## § 17 – Erweiterung und Einrichtung von Programmen und Initiativen des Bundes zur Förderung der Gebiete nach § 2
+# § 17 – Erweiterung und Einrichtung von Programmen und Initiativen des Bundes zur Förderung der Gebiete nach § 2
 
 Der Bund wird unter Einhaltung des europäischen Beihilfenrechts und vorrangig zur Stärkung des wirtschaftlichen Wachstums und zur Schaffung von Arbeitsplätzen in den Gebieten nach § 2 insbesondere folgende Programme, Initiativen und Einrichtungen einrichten, ausweiten oder aufstocken:
 
@@ -312,15 +293,13 @@ Der Bund wird unter Einhaltung des europäischen Beihilfenrechts und vorrangig z
 
 Die Bundesregierung wird innerhalb des Finanzrahmens weitere Maßnahmen vorrangig zur Stärkung des wirtschaftlichen Wachstums und zur Schaffung von neuen Arbeitsplätzen in den Gebieten nach § 2 realisieren. Maßnahmen, die sich als nicht zielführend erwiesen haben, können beendet werden.
 
-
-## § 18 – Ansiedlung von Einrichtungen des Bundes in den Revieren
+# § 18 – Ansiedlung von Einrichtungen des Bundes in den Revieren
 
 (1) Die Bundesregierung wird innerhalb eines Zeitraums von zehn Jahren bis zum 31. Dezember 2028 mindestens 5 000 neue, zusätzliche Arbeitsplätze in Behörden des Bundes und sonstigen Bundeseinrichtungen in den Gemeinden und Gemeindeverbänden nach § 2 einrichten.
 
 (2) Unter Beachtung der für jede Behörde oder Einrichtung geltenden fachlichen Kriterien ist bei der Verteilung dieser Arbeitsplätze der Verteilungsschlüssel nach § 3 als Orientierungsgröße zu berücksichtigen sowie eine möglichst gleichmäßige Verteilung innerhalb jedes Reviers anzustreben.
 
-
-## § 19 – Einrichtung einer Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben
+# § 19 – Einrichtung einer Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben
 
 (1) Beim Bundesministerium des Innern, für Bau und Heimat wird eine Beratungs- und Koordinierungsstelle zur Dezentralisierung von Bundesaufgaben eingerichtet.
 
@@ -332,20 +311,17 @@ Die Bundesregierung wird innerhalb des Finanzrahmens weitere Maßnahmen vorrangi
 
 3. Bericht und Information über Entscheidungen über die Ansiedlung und Verstärkung von Behörden des Bundes und sonstigen Bundeseinrichtungen sowie über weitere Planungen der Bundesministerien zur dezentralisierten Wahrnehmung von Bundesaufgaben.
 
-
-## § 20 – Zusätzliche Investitionen in die Bundesfernstraßen
+# § 20 – Zusätzliche Investitionen in die Bundesfernstraßen
 
 Zur Förderung der Gebiete nach § 2 wird ergänzend zu den Vorhaben der Anlage des Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung vom 20. Januar 2005 (BGBl. I S. 201), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3354) geändert worden ist, das Netz der Bundesfernstraßen durch die in Anlage 4 Abschnitt 1 enthaltenen Bau- und Ausbauvorhaben zusätzlich ausgebaut.
 
-
-## § 21 – Zusätzliche Investitionen in die Bundesschienenwege
+# § 21 – Zusätzliche Investitionen in die Bundesschienenwege
 
 (1) Zur Förderung der Gebiete nach § 2 werden ergänzend zu den Vorhaben der Anlage des Bundesschienenwegeausbaugesetzes vom 15. November 1993 (BGBl. I S. 1874), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3221) geändert worden ist, die in Anlage 4 Abschnitt 2 enthaltenen Schieneninfrastrukturen zusätzlich ausgebaut.
 
 (2) Es besteht Bedarf für die in Absatz 1 genannten Projekte. Der verkehrliche und volkswirtschaftliche Nutzen der Projekte ist aus Gründen der Strukturförderung gegeben. Die Feststellung des Bedarfs ist für die Planfeststellung verbindlich. Die §§ 8 bis 11 des Bundesschienenwegeausbaugesetzes sind sinngemäß anzuwenden.
 
-
-## § 22 – Finanzierung weiterer Bedarfsplanmaßnahmen
+# § 22 – Finanzierung weiterer Bedarfsplanmaßnahmen
 
 (1) Zur Förderung der Gebiete nach § 2 werden die in Anlage 5 Abschnitt 1 enthaltenen Bau- und Ausbauvorhaben nach Maßgabe des § 27 finanziert. Die Finanzierung der Vorhaben kann auch auf der Grundlage und nach Maßgabe des Straßenbauplans nach Artikel 3 Absatz 1 des Straßenbaufinanzierungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 912-3, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 19 des Gesetzes vom 14. August 2017 (BGBl. I S. 3122) geändert worden ist, für die Bundesfernstraßen erfolgen. Eine Vorrangwirkung gegenüber anderen Projekten des Straßenbauplans besteht insoweit nicht.
 
@@ -353,13 +329,11 @@ Zur Förderung der Gebiete nach § 2 wird ergänzend zu den Vorhaben der Anlage 
 
 (3) Für die Maßnahmen des Kapitels 4 besteht keine Nachschusspflicht des Bundes für den Fall, dass die Kosten der Vorhaben die bereitgestellten Mittel überschreiten. Für die Inanspruchnahme der Mittel ist ausschließlich der Nachweis des wirtschaftlichen Einsatzes dieser Mittel erforderlich.
 
-
-## § 23 – Sofortvollzug
+# § 23 – Sofortvollzug
 
 Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen des § 17e Absatz 2 und 4 des Bundesfernstraßengesetzes und des § 18e Absatz 2 und 4 des Allgemeinen Eisenbahngesetzes entsprechend anzuwenden.
 
-
-## § 24 – Transparenz zur Sicherstellung ausreichender Planungskapazitäten
+# § 24 – Transparenz zur Sicherstellung ausreichender Planungskapazitäten
 
 (1) Vor Beginn der Planung und Umsetzung einer der in Kapitel 4 genannten Maßnahmen, die nicht Bestandteil des Maßnahmengesetzvorbereitungsgesetzes und keine Maßnahmen nach Anlage 4 Abschnitt 2 Nummer 25 bis 28 sind, legt das Bundesministerium für Verkehr und digitale Infrastruktur dem Ausschuss für Verkehr und digitale Infrastruktur und dem Haushaltsausschuss des Deutschen Bundestages einen Bericht vor. Dieser Bericht enthält neben einer Beschreibung der Maßnahme eine Stellungnahme, ob und in welchem Umfang ausreichend Planungskapazitäten und Haushaltsmittel für die jeweilige Maßnahme vorhanden sind, die eine Umsetzung der jeweiligen Maßnahme ohne Konkurrenz zu anderen Maßnahmen des Bedarfsplans für die Bundesfernstraßen gemäß der Anlage des Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung vom 20. Januar 2005 (BGBl. I S. 201), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3354) geändert worden ist, und des Bedarfsplans für die Bundeschienenwege gemäß der Anlage des Bundesschienenwegeausbaugesetzes vom 15. November 1993 (BGBl. I S. 1874), das zuletzt durch Artikel 1 des Gesetzes vom 23. Dezember 2016 (BGBl. I S. 3221) geändert worden ist, gewährleisten.
 
@@ -367,8 +341,7 @@ Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen d
 
 (3) Zum Zwecke der Berichterstellung nach Absatz 1 kann das Bundesministerium für Verkehr und digitale Infrastruktur von der Autobahn GmbH des Bundes, den Ländern, dem Eisenbahninfrastrukturunternehmen, dem Fernstraßen-Bundesamt und dem Eisenbahn-Bundesamt die dafür notwendigen Informationen einholen.
 
-
-## § 25 – Bund-Länder-Koordinierungsgremium
+# § 25 – Bund-Länder-Koordinierungsgremium
 
 (1) Die Bundesregierung und die Regierungen der Länder Brandenburg, Nordrhein-Westfalen, Freistaat Sachsen und Sachsen-Anhalt bilden ein Koordinierungsgremium. Dieses begleitet und unterstützt die Bundesregierung und die Regierungen der Länder bei der Durchführung und Umsetzung der Maßnahmen insbesondere nach § 4 und stellt den Projektfluss sicher. Es prüft die Umsetzung entsprechend den Leitbildern, Förderzielen und Förderbereichen. Hierzu analysiert es aktuelle Entwicklungen, berichtet und empfiehlt bei Bedarf entsprechende Anpassungen. Die Empfehlungen sind nicht bindend. Das Koordinierungsgremium ist für die in den Kapiteln 1, 3 und 4 genannten Förderbereiche zuständig.
 
@@ -378,8 +351,7 @@ Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen d
 
 (4) Das Koordinierungsgremium gibt sich eine Geschäftsordnung.
 
-
-## § 26 – Evaluierung
+# § 26 – Evaluierung
 
 (1) Das Bundesministerium für Wirtschaft und Energie evaluiert die Anwendung der Vorschriften dieses Gesetzes und ihre Auswirkung auf die wirtschaftliche Dynamik in den Revieren nach § 2 auf wissenschaftlicher Grundlage alle zwei Jahre, erstmals zum 30. Juni 2023. Dabei sind insbesondere die Wirkungen der Maßnahmen nach den Kapiteln 1, 2 und 5 sowie nach Kapitel 3 mit Ausnahme der §§ 18 und 19 auf die Wertschöpfung, die Arbeitsmarktsituation und das kommunale Steueraufkommen zu untersuchen. Es berichtet hierüber dem Koordinierungsgremium nach § 25, dem Deutschen Bundestag und dem Bundesrat. Die betroffenen Länder, Gemeinden und Gemeindeverbände sind zur Mitwirkung verpflichtet.
 
@@ -391,15 +363,13 @@ Für die Bau- und Ausbauvorhaben nach den §§ 20 und 21 sind die Bestimmungen d
 
 (5) Die Bundesregierung berichtet dem Haushaltsausschuss, dem Ausschuss für Wirtschaft und Energie sowie dem Ausschuss für Finanzen des Deutschen Bundestages einmalig zum 31. Oktober 2021 über die Wirkung der degressiven Abschreibung für Abnutzung für bewegliche Wirtschaftsgüter als zusätzlicher Investitionsanreiz. Auf dieser Grundlage entscheidet der Deutsche Bundestag über eine Verlängerung dieser Regelungen in den Gebieten gemäß § 2 ab 2022.
 
-
-## § 27 – Finanzierung
+# § 27 – Finanzierung
 
 (1) Die Maßnahmen nach den Kapiteln 1 bis 4 werden im jeweiligen Haushaltsverfahren bedarfsgerecht veranschlagt. Dabei wird die Bundesregierung eine überjährige Verwendbarkeit der Mittel sicherstellen.
 
 (2) Die Maßnahmen nach den Kapiteln 3 und 4 werden in einem Umfang von bis zu 26 Milliarden Euro bis zum Jahr 2038 realisiert. § 3 ist entsprechend anzuwenden.
 
-
-## Anlage 1 – (zu § 1 Absatz 3)Leitbild zum Lausitzer Revier (Freistaat Sachsen/Land Brandenburg) vom 14. März 2019
+# Anlage 1 – (zu § 1 Absatz 3)Leitbild zum Lausitzer Revier (Freistaat Sachsen/Land Brandenburg) vom 14. März 2019
 
 (Fundstelle: BGBl. I 2020, 1803 - 1804)
 
@@ -473,8 +443,7 @@ Aus diesem Leitbild für das Lausitzer Revier zeichnen sich derzeit folgende bes
 
 Diese Handlungs- und Projektfelder sind offen für eine Weiterentwicklung im Dialog mit den Regionen.
 
-
-## Anlage 2 – (zu § 1 Absatz 3)Leitbild zum Mitteldeutschen Revier (Freistaat Sachsen/Land Sachsen-Anhalt) vom 14. März 2019
+# Anlage 2 – (zu § 1 Absatz 3)Leitbild zum Mitteldeutschen Revier (Freistaat Sachsen/Land Sachsen-Anhalt) vom 14. März 2019
 
 (Fundstelle: BGBl. I 2020, 1805 - 1807)
 
@@ -550,8 +519,7 @@ Für das Mitteldeutsche Revier zeichnen sich derzeit ohne Ableitung einer näher
 
 14. Ansiedlung von Einrichtungen (Bundes-, FuE-Einrichtungen und so weiter).
 
-
-## Anlage 3 – (zu § 1 Absatz 3)Leitbild zum Rheinischen Revier (Land Nordrhein-Westfalen) vom 14. März 2019
+# Anlage 3 – (zu § 1 Absatz 3)Leitbild zum Rheinischen Revier (Land Nordrhein-Westfalen) vom 14. März 2019
 
 (Fundstelle: BGBl. I 2020, 1808)
 
@@ -579,8 +547,7 @@ Es soll eine Internationale Bau- und Technologieausstellung Rheinisches Zukunfts
 
 Zuständig für den Strukturwandel im Rheinischen Revier ist die Zukunftsagentur Rheinisches Revier. Die Zukunftsagentur muss in Zusammenarbeit mit Bund und Land sicherstellen, dass in der Region eine auf den Stärken der Region aufbauende Entwicklung mit wirkungsvollen Impulsen versehen wird. Dazu arbeitet sie mit allen Akteuren der Region zusammen, mit den Kommunen, der Wirtschaft, den Sozialpartnern und Verbänden und der Zivilgesellschaft.
 
-
-## Anlage 4 – (zu den §§ 20 und 21) Verkehrsvorhaben nach den §§ 20 und 21
+# Anlage 4 – (zu den §§ 20 und 21) Verkehrsvorhaben nach den §§ 20 und 21
 
 (Fundstelle: BGBl. I 2020, 1809 - 1811)
 
@@ -610,8 +577,7 @@ Für die Bau- und Ausbauvorhaben nach dieser Anlage sind folgende Begriffsbestim
 |  9.  | OU:         | Ortsumfahrung,                                                                                                                                                                                                                                                                                       |
 | 10\. | 740m-Gleis: | Gleis, welches der Sicherstellung der Befahrbarkeit des Netzes für 740 Meter lange Güterzüge dient; 740 Meter lange Güterzüge benötigen für eine reibungslose Betriebsabwicklung eine Überholgleislänge von mindestens 750 Metern (700 Meter Zuglänge + 2 Loks je 20 Meter + 10 Meter Bremsreserve). |
 
-
-## Anlage 5 – (zu § 22)Verkehrsvorhaben nach § 22
+# Anlage 5 – (zu § 22)Verkehrsvorhaben nach § 22
 
 (Fundstelle: BGBl. I 2020, 1812 - 1814)
 

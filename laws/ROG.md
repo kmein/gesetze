@@ -1,13 +1,9 @@
-# [ROG] Raumordnungsgesetz    (ROG)
-
-Ausfertigungsdatum: 22.12.2008
-
+% Raumordnungsgesetz    (ROG)
+% Ausfertigungsdatum: 22.12.2008
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Aufgabe und Leitvorstellung der Raumordnung
+# § 1 – Aufgabe und Leitvorstellung der Raumordnung
 
 (1) Der Gesamtraum der Bundesrepublik Deutschland und seine Teilräume sind durch Raumordnungspläne, durch raumordnerische Zusammenarbeit und durch Abstimmung raumbedeutsamer Planungen und Maßnahmen zu entwickeln, zu ordnen und zu sichern. Dabei sind
 
@@ -21,10 +17,9 @@ Ausfertigungsdatum: 22.12.2008
 
 (4) Raumordnung findet im Rahmen der Vorgaben des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798) auch in der deutschen ausschließlichen Wirtschaftszone statt.
 
-§ 1 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 1 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 2 – Grundsätze der Raumordnung
+# § 2 – Grundsätze der Raumordnung
 
 (1) Die Grundsätze der Raumordnung sind im Sinne der Leitvorstellung einer nachhaltigen Raumentwicklung nach § 1 Abs. 2 anzuwenden und durch Festlegungen in Raumordnungsplänen zu konkretisieren, soweit dies erforderlich ist.
 
@@ -46,10 +41,9 @@ Ausfertigungsdatum: 22.12.2008
 
 8. Die räumlichen Voraussetzungen für den Zusammenhalt der Europäischen Union und im größeren europäischen Raum sowie für den Ausbau und die Gestaltung der transeuropäischen Netze sind zu gewährleisten. Raumbedeutsamen Planungen und Maßnahmen der Europäischen Union und der europäischen Staaten ist Rechnung zu tragen. Die Zusammenarbeit der Staaten und die grenzüberschreitende Zusammenarbeit der Städte und Regionen sind zu unterstützen.
 
-§ 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes sind
 
@@ -83,10 +77,9 @@ zusammenfassende, überörtliche und fachübergreifende Pläne nach den §§ 13 
 
 (2) Werden die Begriffe nach Absatz 1 Nr. 1 bis 4 in anderen Bundesgesetzen verwandt, sind sie, soweit sich aus diesen Bundesgesetzen nicht etwas anderes ergibt, im Sinne von Absatz 1 auszulegen.
 
-§ 3 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 3 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 4 – Bindungswirkung der Erfordernisse der Raumordnung
+# § 4 – Bindungswirkung der Erfordernisse der Raumordnung
 
 (1) Bei
 
@@ -102,10 +95,9 @@ sind Ziele der Raumordnung zu beachten sowie Grundsätze und sonstige Erforderni
 
 (3) Bei Genehmigungen über die Errichtung und den Betrieb von öffentlich zugänglichen Abfallbeseitigungsanlagen von Personen des Privatrechts nach den Vorschriften des Bundes-Immissionsschutzgesetzes sind die Ziele der Raumordnung zu beachten sowie die Grundsätze der Raumordnung und die sonstigen Erfordernisse der Raumordnung zu berücksichtigen.
 
-§ 4 Abs. 1 u. 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 4 Abs. 1 u. 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 5 – Beschränkung der Bindungswirkung nach § 4
+# § 5 – Beschränkung der Bindungswirkung nach § 4
 
 (1) Bei raumbedeutsamen Planungen und Maßnahmen von öffentlichen Stellen des Bundes, von anderen öffentlichen Stellen, die im Auftrag des Bundes tätig sind, sowie von Personen des Privatrechts nach § 4 Abs. 1 Satz 2, die für den Bund öffentliche Aufgaben durchführen, gilt die Bindungswirkung der Ziele der Raumordnung in Raumordnungsplänen nach § 13 Absatz 1 nur, wenn die zuständige Stelle oder Person bei der Aufstellung des Raumordnungsplans nach § 9 beteiligt worden ist und sie innerhalb einer Frist von zwei Monaten nach Mitteilung des rechtsverbindlichen Ziels nicht widersprochen hat.
 
@@ -119,17 +111,15 @@ sind Ziele der Raumordnung zu beachten sowie Grundsätze und sonstige Erforderni
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für raumbedeutsame Planungen und Maßnahmen öffentlicher Stellen der Länder und der Träger der Regionalplanung hinsichtlich der Bindungswirkung der Ziele der Raumordnung in Raumordnungsplänen des Bundes nach § 17 Absatz 2.
 
-
-## § 6 – Ausnahmen und Zielabweichung
+# § 6 – Ausnahmen und Zielabweichung
 
 (1) Von Zielen der Raumordnung können im Raumordnungsplan Ausnahmen festgelegt werden.
 
 (2) Von Zielen der Raumordnung kann abgewichen werden, wenn die Abweichung unter raumordnerischen Gesichtspunkten vertretbar ist und die Grundzüge der Planung nicht berührt werden. Antragsberechtigt sind die öffentlichen Stellen und die Personen des Privatrechts, die das Ziel, von dem eine Abweichung zugelassen werden soll, nach § 4 zu beachten haben.
 
-§ 6 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 6 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 7 – Allgemeine Vorschriften über Raumordnungspläne
+# § 7 – Allgemeine Vorschriften über Raumordnungspläne
 
 (1) In Raumordnungsplänen sind für einen bestimmten Planungsraum und einen regelmäßig mittelfristigen Zeitraum Festlegungen als Ziele und Grundsätze der Raumordnung zur Entwicklung, Ordnung und Sicherung des Raums, insbesondere zu den Nutzungen und Funktionen des Raums, zu treffen. Es kann festgelegt werden, dass bestimmte Nutzungen und Funktionen des Raums nur für einen bestimmten Zeitraum oder ab oder bis zum Eintritt bestimmter Umstände vorgesehen sind; eine Folge- oder Zwischennutzung kann festgelegt werden. Die Festlegungen nach Satz 1 und 2 können auch in räumlichen und sachlichen Teilplänen getroffen werden. Ziele und Grundsätze der Raumordnung sind als solche zu kennzeichnen.
 
@@ -157,14 +147,13 @@ Bei Vorranggebieten kann festgelegt werden, dass sie zugleich die Wirkung von Ei
 
 (8) Raumordnungspläne nach § 13 Absatz 6 und § 17 sind mindestens alle zehn Jahre zu überprüfen.
 
-§ 7 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
-§ 7 Abs. 1 Satz 3 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 5 Abs. 1 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__5.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
-§ 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986 iVm § 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
-§ 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986 iVm § 9 Abs. 2 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 3 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
-§ 7 Abs. 7 iVm § 10 Abs. 1 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 3 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 18.7.2012, GVBl. ND 2012, 252 mWv 1.9.2012 (vgl. BGBl. I 2012, 1718)
+§ 7 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
+§ 7 Abs. 1 Satz 3 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 5 Abs. 1 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__5.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
+§ 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986 iVm § 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
+§ 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986 iVm § 9 Abs. 2 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 3 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
+§ 7 Abs. 7 iVm § 10 Abs. 1 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 3 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 18.7.2012, GVBl. ND 2012, 252 mWv 1.9.2012 (vgl. BGBl. I 2012, 1718)
 
-
-## § 8 – Umweltprüfung bei der Aufstellung von Raumordnungsplänen
+# § 8 – Umweltprüfung bei der Aufstellung von Raumordnungsplänen
 
 (1) Bei der Aufstellung von Raumordnungsplänen ist von der für den Raumordnungsplan zuständigen Stelle eine Umweltprüfung durchzuführen, in der die voraussichtlichen erheblichen Auswirkungen des Raumordnungsplans auf
 
@@ -184,10 +173,9 @@ zu ermitteln und in einem Umweltbericht frühzeitig zu beschreiben und zu bewert
 
 (4) Die erheblichen Auswirkungen der Durchführung der Raumordnungspläne auf die Umwelt sind auf Grundlage der in der zusammenfassenden Erklärung nach § 10 Abs. 3 genannten Überwachungsmaßnahmen von der in den Landesplanungsgesetzen genannten Stelle, oder, sofern Landesplanungsgesetze keine Regelung treffen, von der für den Raumordnungsplan zuständigen oder der im Raumordnungsplan bezeichneten öffentlichen Stelle zu überwachen, um insbesondere unvorhergesehene nachteilige Auswirkungen frühzeitig zu ermitteln und um in der Lage zu sein, geeignete Maßnahmen zur Abhilfe zu ergreifen. Die in ihren Belangen berührten öffentlichen Stellen unterrichten die öffentliche Stelle nach Satz 1, sofern nach den ihnen vorliegenden Erkenntnissen die Durchführung des Raumordnungsplans erhebliche, insbesondere unvorhergesehene nachteilige Auswirkungen auf die Umwelt hat.
 
-§ 8 (früher § § 9 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 8 (früher § § 9 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 9 – Beteiligung bei der Aufstellung von Raumordnungsplänen
+# § 9 – Beteiligung bei der Aufstellung von Raumordnungsplänen
 
 (1) Die Öffentlichkeit sowie die in ihren Belangen berührten öffentlichen Stellen sind von der Aufstellung des Raumordnungsplans zu unterrichten. Die öffentlichen Stellen sind aufzufordern, Aufschluss über diejenigen von ihnen beabsichtigten oder bereits eingeleiteten Planungen und Maßnahmen sowie über deren zeitliche Abwicklung zu geben, die für die Planaufstellung bedeutsam sein können. Gleiches gilt für weitere ihnen vorliegende Informationen, die für die Ermittlung und Bewertung des Abwägungsmaterials zweckdienlich sind.
 
@@ -197,13 +185,12 @@ zu ermitteln und in einem Umweltbericht frühzeitig zu beschreiben und zu bewert
 
 (4) Wird die Durchführung eines Raumordnungsplans voraussichtlich erhebliche Auswirkungen auf das Gebiet eines Nachbarstaates haben, so ist die von diesem Staat als zuständig benannte oder, sofern der Staat keine Behörde benannt hat, die oberste für Raumordnung zuständige Behörde zu unterrichten; ihr ist ein Exemplar des Planentwurfs zu übermitteln. Der Behörde nach Satz 1 ist eine angemessene Frist zu setzen, innerhalb derer sie Gelegenheit zur Stellungnahme hat. Absatz 2 Satz 5 und 6 sowie Absatz 3 gelten entsprechend. Soweit die Durchführung des Plans erhebliche Umweltauswirkungen auf einen Nachbarstaat haben kann, ist dieser nach den §§ 60 und 61 des Gesetzes über die Umweltverträglichkeitsprüfung zu beteiligen.
 
-§ 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245 iVm § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
+§ 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245 iVm § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
 § 9 Abs. 1 idF d. G. v. 23.5.2017 I 1245 iVm § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986: Schleswig-Holstein - Abweichung durch § 5a des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 15.6.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)  
-§ 9 Abs. 2 idF d. G. v. 23.5.2017 I 1245 iVm § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 3 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
+§ 9 Abs. 2 idF d. G. v. 23.5.2017 I 1245 iVm § 7 Abs. 7 idF d. Bek. v. 22.12.2008 I 2986: Niedersachsen - Abweichung durch [§ 6 Abs. 2 Satz 3 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__6.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
 § 9 Abs. 2 Satz 2 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch § § 6 Abs. 2 Satz 3 des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 26.8.2020, GVOBl. Schl.-H 2020, 500 (vgl. BGBl. I 2020, 2453)
 
-
-## § 10 – Bekanntmachung von Raumordnungsplänen; Bereithaltung von Raumordnungsplänen und von Unterlagen
+# § 10 – Bekanntmachung von Raumordnungsplänen; Bereithaltung von Raumordnungsplänen und von Unterlagen
 
 (1) Soweit der Raumordnungsplan nicht als Gesetz oder Rechtsverordnung verkündet wird, ist er oder seine Genehmigung oder der Beschluss über ihn öffentlich bekannt zu machen; mit der Bekanntmachung wird der Raumordnungsplan wirksam.
 
@@ -213,10 +200,9 @@ zu ermitteln und in einem Umweltbericht frühzeitig zu beschreiben und zu bewert
 
 (4) Im Falle der Beteiligung von Nachbarstaaten nach § 9 Absatz 4 werden die in den Absätzen 2 und 3 genannten Informationen der dort zuständigen Behörde übermittelt.
 
-§ 10 (früher § 11 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 10 (früher § 11 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 11 – Planerhaltung
+# § 11 – Planerhaltung
 
 (1) Eine Verletzung von Verfahrens- und Formvorschriften dieses Gesetzes ist für die Rechtswirksamkeit eines Raumordnungsplans nur beachtlich, wenn
 
@@ -252,10 +238,9 @@ wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Raumordnungsplans 
 
 (6) Der Raumordnungsplan kann durch ein ergänzendes Verfahren zur Behebung von Fehlern auch rückwirkend in Kraft gesetzt werden.
 
-§ 11 (früher § 12 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 11 (früher § 12 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 12 – Untersagung raumbedeutsamer Planungen und Maßnahmen
+# § 12 – Untersagung raumbedeutsamer Planungen und Maßnahmen
 
 (1) Die Raumordnungsbehörde kann raumbedeutsame Planungen und Maßnahmen sowie die Entscheidung über deren Zulässigkeit gegenüber den in § 4 genannten öffentlichen Stellen unbefristet untersagen, wenn Ziele der Raumordnung entgegenstehen.
 
@@ -265,8 +250,7 @@ wenn sie nicht innerhalb eines Jahres seit Bekanntmachung des Raumordnungsplans 
 
 § 12 Abs. 2 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch § 18 Abs. 2 des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 15.6.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)
 
-
-## § 13 – Landesweite Raumordnungspläne, Regionalpläne und regionale Flächennutzungspläne
+# § 13 – Landesweite Raumordnungspläne, Regionalpläne und regionale Flächennutzungspläne
 
 (1) In den Ländern sind aufzustellen:
 
@@ -326,10 +310,9 @@ Bei Festlegungen nach Satz 1 Nummer 2 kann zugleich bestimmt werden, dass in die
 
 Die Absätze 2 bis 5 finden insoweit keine Anwendung.
 
-§ 13 Abs. 1 Satz 1 Nr. 2 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 5 Abs. 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__5.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)
+§ 13 Abs. 1 Satz 1 Nr. 2 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 5 Abs. 2 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__5.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)
 
-
-## § 14 – Raumordnerische Zusammenarbeit
+# § 14 – Raumordnerische Zusammenarbeit
 
 (1) Zur Vorbereitung oder Verwirklichung von Raumordnungsplänen oder von sonstigen raumbedeutsamen Planungen und Maßnahmen sollen die Träger der Landes- und Regionalplanung mit den hierfür maßgeblichen öffentlichen Stellen und Personen des Privatrechts einschließlich Nichtregierungsorganisationen und der Wirtschaft zusammenarbeiten oder auf die Zusammenarbeit dieser Stellen und Personen hinwirken. Die Zusammenarbeit nach Satz 1 kann sowohl zur Entwicklung einer Region als auch im Hinblick auf regionen- oder grenzübergreifende Belange erfolgen; die Zusammenarbeit von Gemeinden zur Stärkung teilräumlicher Entwicklungen (interkommunale Zusammenarbeit) ist zu unterstützen.
 
@@ -343,10 +326,9 @@ Die Absätze 2 bis 5 finden insoweit keine Anwendung.
 
 Im Falle des Satzes 1 Nr. 1 kann Gegenstand der vertraglichen Vereinbarung auch die Übernahme von Kosten sein, die dem Träger der Landes- oder Regionalplanung bei der im Interesse des Vertragspartners liegenden Vorbereitung oder Verwirklichung von Raumordnungsplänen entstehen.
 
-§ 14 (früher § 13 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 14 (früher § 13 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 15 – Raumordnungsverfahren
+# § 15 – Raumordnungsverfahren
 
 (1) Die für Raumordnung zuständige Landesbehörde prüft in einem besonderen Verfahren die Raumverträglichkeit raumbedeutsamer Planungen und Maßnahmen im Sinne von § 1 der Raumordnungsverordnung (Raumordnungsverfahren). Hierbei sind die raumbedeutsamen Auswirkungen der Planung oder Maßnahme unter überörtlichen Gesichtspunkten zu prüfen; insbesondere werden die Übereinstimmung mit den Erfordernissen der Raumordnung und die Abstimmung mit anderen raumbedeutsamen Planungen und Maßnahmen geprüft. Gegenstand der Prüfung nach Satz 2 sollen auch ernsthaft in Betracht kommende Standort- oder Trassenalternativen sein.
 
@@ -360,23 +342,21 @@ Im Falle des Satzes 1 Nr. 1 kann Gegenstand der vertraglichen Vereinbarung auch 
 
 (6) Für die Länder Berlin, Bremen und Hamburg gilt die Verpflichtung, Raumordnungsverfahren durchzuführen, nicht. Schaffen diese Länder allein oder gemeinsam mit anderen Ländern Rechtsgrundlagen für Raumordnungsverfahren, finden die Absätze 1 bis 5 Anwendung.
 
-§ 15 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
-§ 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245 iVm § 16 Abs. 1 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 12 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__12.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
+§ 15 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
+§ 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245 iVm § 16 Abs. 1 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 12 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__12.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)  
 § 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch § 15 Abs. 4 des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 26.8.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)  
 § 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Schleswig-Holstein - Abweichung durch § 17 Satz 2 des Gesetzes über die Landesplanung (LPlG SH) idF d. G v. 26.8.2018, GVOBl. Schl.-H 2018, 292 (vgl. BGBl. I 2020, 2453)
 
-
-## § 16 – Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren
+# § 16 – Beschleunigtes Raumordnungsverfahren; Absehen von Raumordnungsverfahren
 
 (1) Bei der Prüfung der Raumverträglichkeit raumbedeutsamer Planungen und Maßnahmen kann, soweit keine anderen Rechtsvorschriften entgegenstehen, auf die Beteiligung einzelner öffentlicher Stellen nach § 15 Abs. 3 Satz 1 und 6 verzichtet werden, wenn die raumbedeutsamen Auswirkungen dieser Planungen und Maßnahmen gering sind oder wenn für die Prüfung der Raumverträglichkeit erforderliche Stellungnahmen schon in einem anderen Verfahren abgegeben wurden (beschleunigtes Raumordnungsverfahren). Die Frist nach § 15 Abs. 4 Satz 2 beträgt beim beschleunigten Raumordnungsverfahren grundsätzlich drei Monate.
 
 (2) Von der Durchführung eines Raumordnungsverfahrens kann bei solchen Planungen und Maßnahmen abgesehen werden, für die sichergestellt ist, dass ihre Raumverträglichkeit anderweitig geprüft wird. Die Landesregierungen können durch Rechtsverordnung regeln, welche Fälle die Durchführung eines Raumordnungsverfahrens erübrigen.
 
-§ 16 Abs. 1 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
-§ 16 Abs. 1 idF d. G. v. 23.5.2017 I 1245 iVm § 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 12 Niedersächsisches Raumordnungsgesetz (ROG ND)](../abweichendes_Landesrecht/raumog_nd__12.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)
+§ 16 Abs. 1 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)  
+§ 16 Abs. 1 idF d. G. v. 23.5.2017 I 1245 iVm § 15 Abs. 3 idF d. G. v. 23.5.2017 I 1245: Niedersachsen - Abweichung durch [§ 12 Niedersächsisches Raumordnungsgesetz (ROG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/raumog_nd__12.html "Anzeige in neuem Fenster") idF d. G v. 25.9.2017, GVBl. ND 2017, 352 mWv 29.11.2017 (vgl. BGBl. I 2017, 3853)
 
-
-## § 17 – Raumordnungspläne für die deutsche ausschließliche Wirtschaftszone und für den Gesamtraum
+# § 17 – Raumordnungspläne für die deutsche ausschließliche Wirtschaftszone und für den Gesamtraum
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat stellt im Einvernehmen mit den fachlich betroffenen Bundesministerien für die deutsche ausschließliche Wirtschaftszone einen Raumordnungsplan als Rechtsverordnung auf. Der Raumordnungsplan soll unter Berücksichtigung etwaiger Wechselwirkungen zwischen Land und Meer sowie unter Berücksichtigung von Sicherheitsaspekten Festlegungen treffen
 
@@ -398,32 +378,27 @@ Das Bundesamt für Seeschifffahrt und Hydrographie führt mit Zustimmung des Bun
 
 (5) Auf den Raumordnungsplan nach Absatz 3 finden die §§ 8 und 10 keine Anwendung. Der Raumordnungsplan nach Absatz 3 ist im Bundesanzeiger bekannt zu machen; mit der Bekanntmachung tritt er in Kraft. Die Bekanntmachung kann auch dadurch bewirkt werden, dass der Raumordnungsplan bei der Bundesverwaltung zu jedermanns Einsicht ausgelegt und im Bundesanzeiger darauf hingewiesen wird, wo der Raumordnungsplan eingesehen werden kann. Elektronische Informationstechnologien sollen ergänzend genutzt werden; § 9 Absatz 2 Satz 6 gilt entsprechend.
 
-
-## § 18 – Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes
+# § 18 – Beteiligung bei der Aufstellung von Raumordnungsplänen des Bundes
 
 (1) Bei der Aufstellung des Raumordnungsplans nach § 17 Absatz 1 sind Ort und Dauer der Auslegung nach § 9 Absatz 2 mindestens eine Woche vor Beginn der Auslegung im Verkündungsblatt und auf der Internetseite der auslegenden Behörde nach § 17 Absatz 1 Satz 3 amtlich bekannt zu machen.
 
 (2) Bei der Aufstellung der Raumordnungspläne nach § 17 Absatz 2 sind Ort und Dauer der Auslegung nach § 9 Absatz 2 mindestens eine Woche vor Beginn der Auslegung im Verkündungsblatt und auf der Internetseite der auslegenden Behörde nach § 17 Absatz 2 Satz 4 amtlich bekannt zu machen.
 
-
-## § 19 – Zielabweichung bei Raumordnungsplänen des Bundes
+# § 19 – Zielabweichung bei Raumordnungsplänen des Bundes
 
 Hinsichtlich der Zielabweichung bei Raumordnungsplänen des Bundes gilt § 6 Abs. 2 mit der Maßgabe, dass über den Antrag auf Zielabweichung bei Raumordnungsplänen nach § 17 Absatz 1 das Bundesamt für Seeschifffahrt und Hydrographie und bei Raumordnungsplänen nach § 17 Absatz 2 das Bundesministerium des Innern, für Bau und Heimat entscheidet. Wird über den Antrag auf Zielabweichung im Zulassungsverfahren über eine raumbedeutsame Planung oder Maßnahme oder in einem anderen Verfahren entschieden, ist das Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat erforderlich.
 
-
-## § 20 – Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes
+# § 20 – Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes
 
 Für die Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungsplänen des Bundes gilt § 12 Abs. 2 und 3 mit der Maßgabe, dass für die Untersagung das Bundesministerium des Innern, für Bau und Heimat zuständig ist.
 
-
-## § 21 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 21 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Planungen und Maßnahmen zu bestimmen, für die ein Raumordnungsverfahren durchgeführt werden soll, wenn sie im Einzelfall raumbedeutsam sind und überörtliche Bedeutung haben.
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung die Bedeutung und Form der Planzeichen zu bestimmen, die für die Festlegungen in Raumordnungsplänen notwendig sind. Die Rechtsverordnung nach Satz 1 bedarf der Zustimmung des Bundesrates, wenn sie die Bedeutung und Form der Planzeichen bestimmt, die für Festlegungen in Raumordnungsplänen der Länder notwendig sind.
 
-
-## § 22 – Zuständigkeiten des Bundesamtes für Bauwesen und Raumordnung
+# § 22 – Zuständigkeiten des Bundesamtes für Bauwesen und Raumordnung
 
 (1) Das Bundesamt für Bauwesen und Raumordnung führt ein Informationssystem zur räumlichen Entwicklung im Bundesgebiet und in den angrenzenden Gebieten. Das Bundesministerium des Innern, für Bau und Heimat stellt den Ländern die Ergebnisse des Informationssystems zur Verfügung.
 
@@ -439,15 +414,13 @@ Für die Untersagung raumbedeutsamer Planungen und Maßnahmen bei Raumordnungspl
 
 Die Berichte können sich auf fachliche und teilräumliche Aspekte beschränken.
 
-
-## § 23 – Beirat für Raumentwicklung
+# § 23 – Beirat für Raumentwicklung
 
 (1) Der Beirat für Raumentwicklung hat die Aufgabe, das Bundesministerium des Innern, für Bau und Heimat in Grundsatzfragen der räumlichen Entwicklung zu beraten.
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat beruft im Benehmen mit den zuständigen Spitzenverbänden in den Beirat Vertreter aus der Wissenschaft und der Praxis aus Bereichen mit relevanten Bezügen zur räumlichen Entwicklung des Bundesgebietes.
 
-
-## § 24 – Zusammenarbeit von Bund und Ländern
+# § 24 – Zusammenarbeit von Bund und Ländern
 
 (1) Grundsätzliche Angelegenheiten der Raumordnung sollen vom Bundesministerium des Innern, für Bau und Heimat und den für Raumordnung zuständigen obersten Landesbehörden in der Ministerkonferenz für Raumordnung gemeinsam beraten werden.
 
@@ -457,10 +430,9 @@ Die Berichte können sich auf fachliche und teilräumliche Aspekte beschränken.
 
 (4) Bund und Länder sind verpflichtet, sich gegenseitig alle Auskünfte zu erteilen, die zur Durchführung der Aufgaben der Raumordnung notwendig sind.
 
-§ 24 (früher § 26 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 24 (früher § 26 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 25 – Beteiligung bei der Aufstellung von Raumordnungsplänen der Nachbarstaaten
+# § 25 – Beteiligung bei der Aufstellung von Raumordnungsplänen der Nachbarstaaten
 
 (1) Wird die Durchführung eines in einem Nachbarstaat vorgesehenen Raumordnungsplans voraussichtlich erhebliche Auswirkungen auf das angrenzende Plangebiet in der Bundesrepublik Deutschland haben, so ersucht diejenige deutsche Stelle, an deren Plangebiet der ausländische Raumordnungsplan angrenzt und die für einen gleichartigen Raumordnungsplan in Deutschland zuständig wäre, die zuständige Behörde des Nachbarstaates um Unterlagen über den Raumordnungsplan, insbesondere um eine Beschreibung des Planinhalts und um Angaben über grenzüberschreitende Auswirkungen des Plans.
 
@@ -468,15 +440,13 @@ Die Berichte können sich auf fachliche und teilräumliche Aspekte beschränken.
 
 (3) Grenzt das Plangebiet eines ausländischen Raumordnungsplans an die deutsche ausschließliche Wirtschaftszone an, so ist im Hinblick auf die dortigen Auswirkungen die für das Beteiligungsverfahren zuständige deutsche Stelle das Bundesministerium des Innern, für Bau und Heimat.
 
-
-## § 26 – Gebühren und Auslagen
+# § 26 – Gebühren und Auslagen
 
 Für individuell zurechenbare öffentliche Leistungen nach § 19, die das Bundesamt für Seeschifffahrt und Hydrographie durchführt, werden Gebühren erhoben. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Gebühren für die einzelnen individuell zurechenbaren öffentlichen Leistungen im Sinne des Satzes 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass der mit den individuell zurechenbaren öffentlichen Leistungen verbundene Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für die Gebührenschuldner angemessen berücksichtigt werden.
 
-§ 26 (früher § 27 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 26 (früher § 27 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## § 27 – Anwendungsvorschrift für die Raumordnung in den Ländern
+# § 27 – Anwendungsvorschrift für die Raumordnung in den Ländern
 
 (1) Verfahren zur Aufstellung von Raumordnungsplänen nach § 13 sowie Raumordnungsverfahren nach § 15, die vor dem 29. November 2017 förmlich eingeleitet wurden, werden nach den bis zum 28. November 2017 geltenden Raumordnungsgesetzen von Bund und Ländern abgeschlossen. Ist mit gesetzlich vorgeschriebenen einzelnen Schritten des Verfahrens noch nicht begonnen worden, können diese auch nach den Vorschriften dieses Gesetzes durchgeführt werden.
 
@@ -484,10 +454,9 @@ Für individuell zurechenbare öffentliche Leistungen nach § 19, die das Bundes
 
 (3) Am 29. November 2017 geltendes Landesrecht, das § 2 Absatz 2, die §§ 6 bis 12 oder die Vorschriften des Abschnitts 2 dieses Gesetzes ergänzt, sowie landesrechtliche Gebührenregelungen und weiter gehendes Landesrecht zur Beschleunigung des Verfahrens bei Änderung eines ausgelegten Raumordnungsplanentwurfs bleiben unberührt.
 
-§ 27 (früher § 28 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+§ 27 (früher § 28 idF d. Bek. v. 22.12.2008 I 2986): Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## Anlage 1 – (zu § 8 Abs. 1)
+# Anlage 1 – (zu § 8 Abs. 1)
 
 (Fundstelle: BGBl. I 2008, 2996;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -519,10 +488,9 @@ b) Beschreibung der geplanten Maßnahmen zur Überwachung der erheblichen Auswir
 
 c) allgemein verständliche Zusammenfassung der erforderlichen Angaben nach dieser Anlage.
 
-Anlage 1 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+Anlage 1 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
 
-
-## Anlage 2 – (zu § 8 Abs. 2)
+# Anlage 2 – (zu § 8 Abs. 2)
 
 (Fundstelle: BGBl. I 2008, 2997;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -594,4 +562,4 @@ Gebiete mit hoher Bevölkerungsdichte, insbesondere Zentrale Orte im Sinne des �
 2.6.9  
 in amtlichen Listen oder Karten verzeichnete Denkmäler, Denkmalensembles, Bodendenkmäler oder Gebiete, die von der durch die Länder bestimmten Denkmalschutzbehörde als archäologisch bedeutende Landschaften eingestuft worden sind.
 
-Anlage 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](../abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)
+Anlage 2 idF d. Bek. v. 22.12.2008 I 2986: Bayern - Abweichung durch das [Bayerische Landesplanungsgesetz (BayLplG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/lplg_by__.html "Anzeige in neuem Fenster") idF d. G v. 25.6.2012, GVBl. BY 2012, 254, BayRS 230-1-W mWv 1.7.2012 (vgl. BGBl. I 2012, 1820)

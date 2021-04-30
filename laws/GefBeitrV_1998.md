@@ -1,15 +1,11 @@
-# [GefBeitrV 1998] Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene  (Gefangenen-Beitragsverordnung)
-
-Ausfertigungsdatum: 03.03.1998
-
+% Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene  (Gefangenen-Beitragsverordnung)
+% Ausfertigungsdatum: 03.03.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 352 Abs. 3 des Dritten Buches Sozialgesetzbuch - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594) verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
-## § 1 – Berechnungsgrundlagen
+# § 1 – Berechnungsgrundlagen
 
 (1) Für die Berechnung der Beiträge für versicherungspflichtige Gefangene (§ 26 Abs. 1 Nr. 4 des Dritten Buches Sozialgesetzbuch) sind zugrunde zu legen:
 
@@ -37,17 +33,14 @@ Auf Grund des § 352 Abs. 3 des Dritten Buches Sozialgesetzbuch - Arbeitsförder
                 BBGrdl x --- x ---.
                          250   100 
 
-
-## § 2 – Zahlungsweise und -verfahren
+# § 2 – Zahlungsweise und -verfahren
 
 Die Beiträge sind drei Monate nach Ablauf des Kalenderjahres fällig, in dem die Beitragsansprüche entstanden sind. Bis zum Ende eines jeden Kalendervierteljahres werden angemessene Abschläge auf die in dem Kalendervierteljahr entstehenden Beitragsansprüche geleistet. Beiträge und Abschläge sind an die von der Bundesagentur für Arbeit bestimmte Stelle zu zahlen. Zum Fälligkeitstermin übermitteln die Länder der von der Bundesagentur für Arbeit bestimmten Stelle eine Abrechnung über die fälligen Beiträge und die geleisteten Zahlungen.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1998 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,20 +1,15 @@
-# [BewG§90DV] Verordnung zur Durchführung des § 90 des Bewertungsgesetzes
-
-Ausfertigungsdatum: 02.09.1966
-
+% Verordnung zur Durchführung des § 90 des Bewertungsgesetzes
+% Ausfertigungsdatum: 02.09.1966
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 90 Abs. 2 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 In den Fällen, in denen die Einheitswerte der bebauten Grundstücke im Sachwertverfahren zu ermitteln und die Wertverhältnisse vom 1. Januar 1964 zugrunde zu legen sind, ist nach den §§ 2 bis 4 zu verfahren.
 
-
-## § 2
+# § 2
 
 (1) Die Wertzahl zur Angleichung des Ausgangswerts (§ 83 des Gesetzes) an den gemeinen Wert wird in einem Hundertsatz ausgedrückt. Sie ergibt sich aus der nachstehenden Übersicht:  
 
@@ -444,8 +439,7 @@ Bei Grundstücken mit Gebäuden oder Gebäudeteilen verschiedener Baujahrgruppen
 
 (5) Gehören Teile eines Geschäftsgrundstücks zu verschiedenen Grundstücksgruppen, so ist für das ganze Grundstück eine durchschnittliche Wertzahl zu bilden. Dabei ist von dem Verhältnis der auf die verschiedenen Grundstücksgruppen entfallenden Gebäudewerte oder Teile des Gebäudewerts auszugehen. Die errechnete Zahl ist auf die durch die Zahl 5 teilbare Zahl abzurunden, die ihr am nächsten kommt. Dies gilt nicht für Teile eines Fabrikgrundstücks.
 
-
-## § 3
+# § 3
 
 Für Fabrikgrundstücke, bei denen der gesamte Betrieb stilliegt, gilt folgendes:
 
@@ -455,8 +449,7 @@ Für Fabrikgrundstücke, bei denen der gesamte Betrieb stilliegt, gilt folgendes
 
 3. Steht fest, daß ein Fabrikbetrieb spätestens nach zwei Jahren wieder aufgenommen wird, so bestimmt sich die Wertzahl nach § 2.
 
-
-## § 4
+# § 4
 
 (1) Für Geschäftsgrundstücke und für gemischtgenutzte Grundstücke im Zonenrandgebiet ermäßigt sich die Wertzahl, die sich nach den §§ 2 und 3 ergibt, um 10. Als Zonenrandgebiet im Sinne dieser Verordnung sind anzusehen
 
@@ -504,12 +497,10 @@ die Landkreise Kötzting, Viechtach, Regen, Bogen, Grafenau, Deggendorf, Wolfste
 
 (2) Durch die Ermäßigung nach Absatz 1 darf sich keine geringere Wertzahl als 50 vom Hundert ergeben.
 
-
-## § 5
+# § 5
 
 Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

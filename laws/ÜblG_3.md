@@ -1,13 +1,9 @@
-# [ÜblG 3] Gesetz über die Stellung des Landes Berlin im Finanzsystem des Bundes  (Drittes Überleitungsgesetz)
-
-Ausfertigungsdatum: 04.01.1952
-
+% Gesetz über die Stellung des Landes Berlin im Finanzsystem des Bundes  (Drittes Überleitungsgesetz)
+% Ausfertigungsdatum: 04.01.1952
  
+# §§ 1 bis 15 – ----
 
-## §§ 1 bis 15 – ----
-
-
-## § 16 – Bundeshilfe für das Land Berlin
+# § 16 – Bundeshilfe für das Land Berlin
 
 (1) Solange das Land Berlin am Finanzausgleich unter den Ländern nicht teilnimmt, erhält es zur Deckung eines auf andere Weise nicht auszugleichenden Haushaltsfehlbedarfs einen Bundeszuschuß. Zur Deckung eines außerordentlichen Bedarfs für den Wiederaufbau Berlins gewährt der Bund Darlehen, wenn eine anderweitige Darlehnsaufnahme dem Land Berlin nicht zugemutet werden kann oder aus sonstigen Gründen nicht möglich ist.
 
@@ -17,11 +13,9 @@ Ausfertigungsdatum: 04.01.1952
 
 (4) ...
 
+# §§ 17 bis 20 – ----
 
-## §§ 17 bis 20 – ----
-
-
-## Anlage 1 – (§ 12 Abs. 2)  Bundesabgabenrecht, das mit Wirkung vom 1. Januar 1952 im Land Berlin in Kraft tritt
+# Anlage 1 – (§ 12 Abs. 2)  Bundesabgabenrecht, das mit Wirkung vom 1. Januar 1952 im Land Berlin in Kraft tritt
 
 (Fundstelle: BGBl. I 1952, 5)
 
@@ -59,20 +53,17 @@ Ausfertigungsdatum: 04.01.1952
 
 17. Verordnung über Kaffeesteuersätze (Durchschnittsteuersätze für Auszüge aus Kaffee - Kaffee-Extrakte - und für Gemische anderer Stoffe mit Kaffee) vom 19. Oktober 1951 (Bundesanzeiger Nr. 209 vom 27. Oktober 1951)
 
-
-## Anlage 2 – (§ 12 Abs. 3)  Abgabenrecht des Landes Berlin, das bis auf weiteres anzuwenden ist
+# Anlage 2 – (§ 12 Abs. 3)  Abgabenrecht des Landes Berlin, das bis auf weiteres anzuwenden ist
 
 1\.
 
 2. Gesetz über eine Ausgleichsabgabe vom 2. März 1950 (Verordnungsblatt für Berlin I S. 91)
 
-3.  
-4.
+3. 4.
 
 5. Artikel II des Gesetzes zur Änderung des Biersteuergesetzes vom 7. August 1950 (Verordnungsblatt für Berlin I S. 395).
 
-
-## Anlage 3 – (§ 13 Abs. 2)  Bundesrecht, das mit dem Inkrafttreten des Dritten Überleitungsgesetzes im Land Berlin in Kraft tritt
+# Anlage 3 – (§ 13 Abs. 2)  Bundesrecht, das mit dem Inkrafttreten des Dritten Überleitungsgesetzes im Land Berlin in Kraft tritt
 
 (Fundstelle: BGBl. I 1952, 5 - 6)
 
@@ -128,8 +119,7 @@ Ausfertigungsdatum: 04.01.1952
 
 26. Gesetz zur Änderung und Ergänzung des Gesetzes über Viehzählungen vom 2. August 1951 (Bundesgesetzbl. I S. 481)
 
-
-## Anlage 4 – (§ 12 Abs. 3)  Bundesabgabenrecht, das im Land Berlin für Veranlagungszeiträume und Lohnzahlungszeiträume gilt, die nach dem 31. Dezember 1952 enden*.
+# Anlage 4 – (§ 12 Abs. 3)  Bundesabgabenrecht, das im Land Berlin für Veranlagungszeiträume und Lohnzahlungszeiträume gilt, die nach dem 31. Dezember 1952 enden*.
 
 (Fundstelle: BGBl. I 1952, 822 - 823;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

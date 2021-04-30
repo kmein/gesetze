@@ -1,10 +1,7 @@
-# [EinhZeitG] Gesetz über die Einheiten im Messwesen und die Zeitbestimmung  (Einheiten- und Zeitgesetz - EinhZeitG)
-
-Ausfertigungsdatum: 02.07.1969
-
+% Gesetz über die Einheiten im Messwesen und die Zeitbestimmung  (Einheiten- und Zeitgesetz - EinhZeitG)
+% Ausfertigungsdatum: 02.07.1969
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Im amtlichen und geschäftlichen Verkehr sind Größen in gesetzlichen Einheiten anzugeben, wenn für sie Einheiten in einer Rechtsverordnung nach diesem Gesetz festgesetzt sind. Für die gesetzlichen Einheiten sind die festgelegten Namen und Einheitenzeichen zu verwenden.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 02.07.1969
 
 (4) Die Verwendung anderer, auf internationalen Übereinkommen beruhender Einheiten sowie ihrer Namen oder Einheitenzeichen im Schiffs-, Luft- und Eisenbahnverkehr bleibt unberührt. Dasselbe gilt für Zeitregelungen, die sich aus der Anwendung anderer Vorschriften und internationaler Übereinkommen ergeben.
 
-
-## § 2 – Gesetzliche Einheiten im Meßwesen
+# § 2 – Gesetzliche Einheiten im Meßwesen
 
 Gesetzliche Einheiten im Meßwesen sind
 
@@ -23,8 +19,7 @@ Gesetzliche Einheiten im Meßwesen sind
 
 2. dezimale Teile und Vielfache dieser Einheiten, die mit den nach § 3 Abs. 1 Nr. 3 festgesetzten Vorsätzen bezeichnet sind.
 
-
-## § 3 – Ermächtigung
+# § 3 – Ermächtigung
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, zur Gewährleistung der Einheitlichkeit im Meßwesen auf der Grundlage des Internationalen Einheitensystems der Meterkonvention oder zur Durchführung von Rechtsakten der Europäischen Gemeinschaften durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -40,22 +35,19 @@ Gesetzliche Einheiten im Meßwesen sind
 
 (2) In Rechtsverordnungen nach Absatz 1 kann auf Veröffentlichungen sachverständiger Stellen verwiesen werden. Hierbei sind in der Rechtsverordnung das Datum der Veröffentlichung und die Bezugsquelle anzugeben.
 
-
-## § 4 – Gesetzliche Zeit
+# § 4 – Gesetzliche Zeit
 
 (1) Die gesetzliche Zeit ist die mitteleuropäische Zeit. Diese ist bestimmt durch die koordinierte Weltzeit unter Hinzufügung einer Stunde.
 
 (2) Für den Zeitraum ihrer Einführung ist die mitteleuropäische Sommerzeit die gesetzliche Zeit. Die mitteleuropäische Sommerzeit ist bestimmt durch die koordinierte Weltzeit unter Hinzufügung zweier Stunden.
 
-
-## § 5 – Ermächtigung zur Einführung der mitteleuropäischen Sommerzeit
+# § 5 – Ermächtigung zur Einführung der mitteleuropäischen Sommerzeit
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, zur besseren Ausnutzung der Tageshelligkeit und zur Angleichung der Zeitzählung an diejenige benachbarter Staaten durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für einen Zeitraum zwischen dem 1. März und dem 31. Oktober die mitteleuropäische Sommerzeit einzuführen.
 
 (2) Die mitteleuropäische Sommerzeit soll jeweils an einem Sonntag beginnen und enden. Das Bundesministerium für Wirtschaft und Energie bestimmt in der Rechtsverordnung nach Absatz 1 den Tag und die Uhrzeit, zu der die mitteleuropäische Sommerzeit beginnt und endet, sowie die Bezeichnung der am Ende der mitteleuropäischen Sommerzeit doppelt erscheinenden Stunde.
 
-
-## § 6 – Physikalisch-Technische Bundesanstalt
+# § 6 – Physikalisch-Technische Bundesanstalt
 
 (1) Die Physikalisch-Technische Bundesanstalt ist eine bundesunmittelbare, nicht rechtsfähige Anstalt des öffentlichen Rechts im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie. Sie ist eine Bundesoberbehörde.
 
@@ -83,25 +75,21 @@ Wirkt sie bei der Erfüllung der unter den Nummern 1 bis 5 beschriebenen Aufgabe
 
 4. zur Einheitlichkeit des internationalen Messwesens beizutragen.
 
-
-## § 7 – Gebühren und Auslagen für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
+# § 7 – Gebühren und Auslagen für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 (1) Für Nutzleistungen der Physikalisch-Technischen Bundesanstalt werden Gebühren und Auslagen erhoben.
 
 (2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei Fest- oder Zeitgebühren vorzusehen. In der Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine Nutzleistung erhoben werden kann, die nicht begonnen oder nicht zu Ende geführt worden ist, wenn die Gründe hierfür von der Person zu vertreten sind, die die Nutzleistung veranlasst hat. Der mit der Nutzleistung verbundene Personal- und Sachaufwand und ihr wirtschaftlicher Wert für die antragstellende Person sind zu berücksichtigen.
 
-
-## § 8 – Zuständige Behörden
+# § 8 – Zuständige Behörden
 
 Die Landesregierungen oder die von ihnen bestimmten Stellen bestimmen die für die Durchführung dieses Gesetzes zuständigen Behörden, soweit nicht die Physikalisch-Technische Bundesanstalt zuständig ist.
 
-
-## § 9 – Auskünfte
+# § 9 – Auskünfte
 
 Die für die Einhaltung der Vorschriften dieses Gesetzes verantwortlichen Personen haben der zuständigen Behörde die für die Durchführung dieses Gesetzes und der auf Grund des § 3 erlassenen Vorschriften erforderlichen Auskünfte zu erteilen. Der zur Auskunft Verpflichtete kann die Auskunft über solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über die Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 10 – Bußgeldvorschrift
+# § 10 – Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer
 

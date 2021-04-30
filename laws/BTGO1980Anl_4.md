@@ -1,10 +1,7 @@
-# [BTGO1980Anl 4] Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
-
-Ausfertigungsdatum: 25.06.1980
-
+% Richtlinien für die Fragestunde und für die schriftlichen Einzelfragen (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
+% Ausfertigungsdatum: 25.06.1980
  
-
-## I. – Fragerecht
+# I. – Fragerecht
 
 1. In jeder Sitzungswoche wird eine Fragestunde mit einer Dauer von höchstens 90 Minuten durchgeführt.
 
@@ -28,8 +25,7 @@ Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur schriftlichen 
 
 5. Zusatzfragen, die nicht in einem unmittelbaren Zusammenhang mit der Hauptfrage stehen, weist der Präsident zurück.
 
-
-## II. – Die Einreichung der Fragen
+# II. – Die Einreichung der Fragen
 
 6. Die Fragen sind dem Präsidenten (Parlamentssekretariat) in vierfacher Ausfertigung einzureichen.
 
@@ -37,8 +33,7 @@ Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur schriftlichen 
 
 8. Mündliche Fragen müssen vor der Sitzungswoche bis Freitag, 10.00 Uhr, beim Präsidenten und bis Freitag, 12.00 Uhr, bei der Bundesregierung vorliegen.
 
-
-## III. – Durchführung der Fragestunde
+# III. – Durchführung der Fragestunde
 
 9. Der Präsident ruft die Nummer der Frage und den Namen des Fragestellers auf. Fragen dürfen nur beantwortet werden, wenn der Fragesteller anwesend ist. Ist der Fragesteller nicht anwesend, wird seine Frage nur dann schriftlich beantwortet, wenn er bis zum Aufruf des Geschäftsbereichs beim Präsidenten um schriftliche Beantwortung gebeten hat.
 
@@ -46,8 +41,7 @@ Fragen von offenbar lokaler Bedeutung werden vom Präsidenten zur schriftlichen 
 
 11. Fragen, die in den Fragestunden einer Woche aus Zeitmangel nicht beantwortet werden, beantwortet die Bundesregierung schriftlich, sofern der Fragesteller nicht vor Schluß der letzten Fragestunde einer Woche gegenüber dem Sitzungsvorstand seine Fragen zurückzieht. Die schriftlichen Antworten werden in den Anhang zum Plenarprotokoll aufgenommen.
 
-
-## IV. – Schriftliche Fragen
+# IV. – Schriftliche Fragen
 
 12. Jedes Mitglied des Bundestages ist berechtigt, in jedem Monat bis zu vier Fragen zur schriftlichen Beantwortung an die Bundesregierung zu richten. Für die Zulässigkeit der Fragen gilt die Nummer 1 Abs. 3 und Nummer 2 Abs. 1 entsprechend.
 

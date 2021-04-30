@@ -1,22 +1,17 @@
-# [GemFinRefG] Gesetz zur Neuordnung der Gemeindefinanzen  (Gemeindefinanzreformgesetz)
-
-Ausfertigungsdatum: 08.09.1969
-
+% Gesetz zur Neuordnung der Gemeindefinanzen  (Gemeindefinanzreformgesetz)
+% Ausfertigungsdatum: 08.09.1969
  
-
-## § 1 – Gemeindeanteil an der Einkommensteuer
+# § 1 – Gemeindeanteil an der Einkommensteuer
 
 Die Gemeinden erhalten 15 Prozent des Aufkommens an Lohnsteuer und an veranlagter Einkommensteuer sowie 12 Prozent des Aufkommens an Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes (Gemeindeanteil an der Einkommensteuer). Der Gemeindeanteil an der Einkommensteuer wird für jedes Land nach den Steuerbeträgen bemessen, die von den Finanzbehörden im Gebiet des Landes unter Berücksichtigung der Zerlegung nach Artikel 107 Absatz 1 des Grundgesetzes vereinnahmt werden.
 
-
-## § 2 – Aufteilung des Gemeindeanteils an der Einkommensteuer
+# § 2 – Aufteilung des Gemeindeanteils an der Einkommensteuer
 
 Der Gemeindeanteil an der Einkommensteuer wird nach einem Schlüssel auf die Gemeinden aufgeteilt, der von den Ländern auf Grund der Bundesstatistiken über die Lohnsteuer und die veranlagte Einkommensteuer nach § 1 des Gesetzes über Steuerstatistiken ermittelt und durch Rechtsverordnung der Landesregierung festgesetzt wird.
 
 (+++ § 2: Zur Anwendung vgl. § 7 +++)
 
-
-## § 3 – Verteilungsschlüssel für den Gemeindeanteil
+# § 3 – Verteilungsschlüssel für den Gemeindeanteil
 
 (1) Der Schlüssel für die Aufteilung des Gemeindeanteils an der Einkommensteuer wird wie folgt ermittelt. Für jede Gemeinde wird eine Schlüsselzahl festgestellt. Sie ist der in einer Dezimalzahl ausgedrückte Anteil der Gemeinde an dem nach § 1 auf die Gemeinden eines Landes entfallenden Steueraufkommen. Die Schlüsselzahl ergibt sich aus dem Anteil der Gemeinde an der Summe der durch die Bundesstatistiken über die veranlagte Einkommensteuer und über die Lohnsteuer ermittelten Einkommensteuerbeträge, die auf die zu versteuernden Einkommensbeträge bis zu 35 000 Euro jährlich, in den Fällen des § 32a Absatz 5 oder des § 32a Absatz 6 des Einkommensteuergesetzes in der jeweils am letzten Tag des für die Bundesstatistik maßgebenden Veranlagungszeitraumes geltenden Fassung auf die zu versteuernden Einkommensbeträge bis zu 70 000 Euro jährlich entfallen. Für die Zurechnung der Steuerbeträge an die Gemeinden ist der in der Bundesstatistik zugrunde gelegte Wohnsitz der Steuerpflichtigen maßgebend.
 
@@ -26,8 +21,7 @@ Der Gemeindeanteil an der Einkommensteuer wird nach einem Schlüssel auf die Gem
 
 (+++ § 3: Zur Anwengung vgl. § 7 +++)
 
-
-## § 4 – Berichtigung von Fehlern
+# § 4 – Berichtigung von Fehlern
 
 (1) Werden innerhalb von sechs Monaten nach der Festsetzung des Schlüssels Fehler bei der Ermittlung der Schlüsselzahl einer Gemeinde festgestellt, so ist für die Zeit bis zur Neufestsetzung des Schlüssels ein Ausgleich für diese Gemeinde vorzunehmen. Die hierzu erforderlichen Ausgleichsbeträge sind aus dem Gesamtbetrag des Gemeindeanteils des Landes vor der Aufteilung zu entnehmen, zurückzuzahlende Beträge diesem Gesamtbetrag zuzuführen.
 
@@ -35,15 +29,13 @@ Der Gemeindeanteil an der Einkommensteuer wird nach einem Schlüssel auf die Gem
 
 (+++ § 4: Zur Anwengung vgl. § 7 +++)
 
-
-## § 5 – Überweisung des Gemeindeanteils an der Einkommensteuer
+# § 5 – Überweisung des Gemeindeanteils an der Einkommensteuer
 
 Die Landesregierungen regeln durch Rechtsverordnung die Termine und das Verfahren für die Überweisung des Gemeindeanteils an der Einkommensteuer.
 
 (+++ § 5: Zur Anwengung vgl. § 7 +++)
 
-
-## § 5a – Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
+# § 5a – Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
 
 (1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Satz 3 des Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln verteilt. Die Schlüssel bemessen sich nach der Summe der nach Absatz 2 Satz 2 und 3 ermittelten Gemeindeschlüssel je Land.
 
@@ -59,18 +51,15 @@ Die Merkmale nach Satz 2 Nummer 2 und 3 werden mit dem gewogenen durchschnittlic
 
 (3) Die sich aus den Verteilungsschlüsseln nach Absatz 2 ergebenden Anteile an der Umsatzsteuer werden auf die einzelnen Länder jeweils nach Schlüsseln verteilt, die vom Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates festgesetzt werden. Die Länder stellen dem Bundesministerium der Finanzen die für die Ermittlung der Schlüssel notwendigen Daten zur Verfügung. Die Anteile an der Umsatzsteuer nach Absatz 2 werden jeweils nach Schlüsseln auf die Gemeinden aufgeteilt, die von den Ländern nach Absatz 2 ermittelt und durch Rechtsverordnung der jeweiligen Landesregierung festgesetzt werden. Die Länder ermitteln die Schlüsselzahlen ihrer Gemeinden auf der Grundlage von Schlüsselzahlen, die aus Bundessummen abgeleitet und durch die Länder auf Eins normiert werden.
 
-
-## § 5b – Übermittlung statistischer Ergebnisse
+# § 5b – Übermittlung statistischer Ergebnisse
 
 Zur Festsetzung der Verteilungsschlüssel nach § 5a, jedoch nicht für die Regelung von Einzelfällen, dürfen das Statistische Bundesamt und die statistischen Ämter der Länder den Gemeinden und ihren Spitzenverbänden auf Landes- und Bundesebene auf Ersuchen die dafür erforderlichen Tabellen mit Ergebnissen der hierzu vom Statistischen Bundesamt und den statistischen Ämtern der Länder durchgeführten Berechnungen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Die Tabellen dürfen nur für die Zwecke, für die sie übermittelt worden sind, nur durch Amtsträger, für den öffentlichen Dienst besonders Verpflichtete oder Personen, die entsprechend § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes auf die gewissenhafte Erfüllung ihrer Geheimhaltungspflicht förmlich verpflichtet worden sind, und nur räumlich, organisatorisch und personell getrennt von der Erfüllung solcher Verwaltungsaufgaben verwendet werden, für die sie gleichfalls von Bedeutung sein können. Sie sind von den Gemeinden und ihren Spitzenverbänden geheim zu halten und vier Jahre nach Festsetzung des Verteilungsschlüssels zu löschen. Werden innerhalb dieser Frist Einwendungen gegen die Berechnung des Verteilungsschlüssels erhoben, dürfen die Daten bis zur abschließenden Klärung der Einwendungen aufbewahrt werden, soweit sie für die Klärung erforderlich sind. § 16 Absatz 9 des Bundesstatistikgesetzes gilt entsprechend.
 
-
-## § 5c – Rechtsverordnungsermächtigung
+# § 5c – Rechtsverordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, nähere Bestimmungen über die Ermittlung der Schlüsselzahlen nach § 5a durch Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
 
-
-## § 5d – Überweisung des Gemeindeanteils an der Umsatzsteuer
+# § 5d – Überweisung des Gemeindeanteils an der Umsatzsteuer
 
 (1) Die Verteilung des Gemeindeanteils an der Umsatzsteuer auf die Länder wird nach § 17 des Finanzausgleichsgesetzes vom Bundesministerium der Finanzen vorgenommen. Die Weiterverteilung auf die Gemeinden obliegt den Ländern.
 
@@ -78,8 +67,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, nähere Bestimmungen über 
 
 (3) Für die Berichtigung von Fehlern gilt § 4 entsprechend.
 
-
-## § 6 – Umlage nach Maßgabe des Gewerbesteueraufkommens
+# § 6 – Umlage nach Maßgabe des Gewerbesteueraufkommens
 
 (1) Die Gemeinden führen nach den folgenden Vorschriften eine Umlage an das für sie zuständige Finanzamt ab. Die Umlage ist entsprechend dem Verhältnis von Bundes- und Landesvervielfältiger auf den Bund und das Land aufzuteilen.
 
@@ -102,19 +90,16 @@ Das Bundesministerium der Finanzen wird ermächtigt, nähere Bestimmungen über 
     (+++ § 6: Zur Anwengung vgl. § 7 +++)
     (+++ § 6 Abs. 6: Zur Anwendung vgl. § 2 Satz 3 GewStUEZV 2017 +++) 
 
-
-## § 7 – Sondervorschriften für Berlin und Hamburg
+# § 7 – Sondervorschriften für Berlin und Hamburg
 
 In Berlin und Hamburg stehen der Gemeindeanteil an der Einkommensteuer und der Gemeindeanteil an der Umsatzsteuer dem Land zu. Die Länder Berlin und Hamburg führen den Bundesanteil an der Umlage nach § 6 an den Bund ab. Im Übrigen finden die §§ 2 bis 5 und 6 in Berlin und Hamburg keine Anwendung.
 
-
-## § 8 – Subdelegation
+# § 8 – Subdelegation
 
 Soweit dieses Gesetz die Landesregierungen zum Erlass von Rechtsverordnungen ermächtigt, können die Landesregierungen die Ermächtigung durch Rechtsverordnung auf die oberste Finanzbehörde des Landes übertragen.
 
-§ 8 idF d. Bek. v. 10.3.2009 I 502: Schleswig-Holstein - Abweichung durch [Kommunalhaushaltskonsolidierungsgesetz (KomKonsG SH)](../abweichendes_Landesrecht/kommhkonsg_sh.html "Anzeige in neuem Fenster") v. 30.12.2011 GVOBl. Schl.-H. S. 74 mWv 1.1.2012 (vgl. BGBl. I 2012, 1022)
+§ 8 idF d. Bek. v. 10.3.2009 I 502: Schleswig-Holstein - Abweichung durch [Kommunalhaushaltskonsolidierungsgesetz (KomKonsG SH)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/kommhkonsg_sh.html "Anzeige in neuem Fenster") v. 30.12.2011 GVOBl. Schl.-H. S. 74 mWv 1.1.2012 (vgl. BGBl. I 2012, 1022)
 
-
-## § 9 – Ermächtigung
+# § 9 – Ermächtigung
 
 Das Bundesministerium der Finanzen kann dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen in der jeweils geltenden Fassung mit neuem Datum und unter neuer Überschrift im Bundesgesetzblatt bekannt machen.

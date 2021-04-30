@@ -1,15 +1,11 @@
-# [BKOrgErl 2001] Organisationserlass des Bundeskanzlers
-
-Ausfertigungsdatum: 22.01.2001
-
+% Organisationserlass des Bundeskanzlers
+% Ausfertigungsdatum: 22.01.2001
  
-
-## ----
+# ----
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:
 
-I.  
-Das Bundesministerium für Ernährung, Landwirtschaft und Forsten wird zu einem Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft umgebildet.
+I. Das Bundesministerium für Ernährung, Landwirtschaft und Forsten wird zu einem Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft umgebildet.
 
 II. Dazu werden ihm übertragen
 

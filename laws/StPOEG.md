@@ -1,26 +1,19 @@
-# [StPOEG] Einführungsgesetz zur Strafprozeßordnung
-
-Ausfertigungsdatum: 01.02.1877
-
+% Einführungsgesetz zur Strafprozeßordnung
+% Ausfertigungsdatum: 01.02.1877
  
+# Eingangsformel
 
-## Eingangsformel
+Wir ... verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
 
-Wir ...  
-verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des Bundesrats und des Reichstags, was folgt:
-
-
-## § 1
+# § 1
 
 (weggefallen)
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3 – Anwendungsbereich der Strafprozessordnung
+# § 3 – Anwendungsbereich der Strafprozessordnung
 
 (1) Die Strafprozeßordnung findet auf alle Strafsachen Anwendung, welche vor die ordentlichen Gerichte gehören.
 
@@ -28,18 +21,15 @@ verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des Bundesrat
 
 (3) Die Landesgesetze können anordnen, daß Forst- und Feldrügesachen durch die Amtsgerichte in einem besonderen Verfahren, sowie ohne Zuziehung von Schöffen verhandelt und entschieden werden.
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6 – Verhältnis zu landesgesetzlichen Vorschriften
+# § 6 – Verhältnis zu landesgesetzlichen Vorschriften
 
 (1) Die prozeßrechtlichen Vorschriften der Landesgesetze treten für alle Strafsachen, über die gemäß § 3 nach den Vorschriften der Strafprozeßordnung zu entscheiden ist, außer Kraft, soweit nicht in der Strafprozeßordnung auf sie verwiesen ist. Außer Kraft treten insbesondere die Vorschriften über die Befugnis zum Erlaß polizeilicher Strafverfügungen.
 
@@ -49,20 +39,17 @@ verordnen im Namen des Deutschen Reichs, nach erfolgter Zustimmung des Bundesrat
 
 2. über das Verfahren bei Zuwiderhandlungen gegen die Vorschriften über die Erhebung öffentlicher Abgaben und Gefälle, soweit sie auf die Abgabenordnung verweisen.
 
-
-## § 7 – Begriff des Gesetzes
+# § 7 – Begriff des Gesetzes
 
 Gesetz im Sinne der Strafprozeßordnung und dieses Gesetzes ist jede Rechtsnorm.
 
-
-## § 8 – Mitteilungen in Strafsachen gegen Mandatsträger
+# § 8 – Mitteilungen in Strafsachen gegen Mandatsträger
 
 (1) In Strafsachen gegen Mitglieder der gesetzgebenden Körperschaften des Bundes oder eines Landes oder gegen Mitglieder des Europäischen Parlaments ist dem Präsidenten der Körperschaft, dem das Mitglied angehört, nach nicht nur vorläufiger Einstellung oder nach rechtskräftigem Abschluß des Verfahrens zur Sicherstellung der Funktionsfähigkeit oder zur Wahrung des Ansehens der jeweiligen Körperschaft die das Verfahren abschließende Entscheidung mit Begründung zu übermitteln; ist mit dieser Entscheidung ein Rechtsmittel verworfen worden, so ist auch die angefochtene Entscheidung zu übermitteln. Bei Mitgliedern des Deutschen Bundestages oder des Europäischen Parlaments erfolgt die Übermittlung über das Bundesministerium der Justiz und für Verbraucherschutz. Die Übermittlung veranlaßt die Strafverfolgungs- oder Strafvollstreckungsbehörde.
 
 (2) Die Übermittlung unterbleibt, wenn die jeweilige Körperschaft darauf verzichtet hat.
 
-
-## § 9 – Vorwarnmechanismus
+# § 9 – Vorwarnmechanismus
 
 (1) Das Gericht unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz mittels des durch die Verordnung (EU) Nr. 1024/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der Kommission („IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1), die zuletzt durch die Richtlinie 2014/67/EU (ABl. L 159 vom 28.5.2014, S. 11) geändert worden ist, in der jeweils geltenden Fassung eingerichteten Binnenmarkt-Informationssystems über Entscheidungen in Strafsachen, durch die ein vorläufiges Berufsverbot nach § 132a der Strafprozessordnung oder ein Berufsverbot nach § 70 des Strafgesetzbuches gegen Angehörige folgender Berufe angeordnet wurde:
 
@@ -146,53 +133,44 @@ Die Unterrichtung erfolgt im Fall eines vorläufigen Berufsverbots spätestens d
 
 (4) Spätestens drei Tage nach der Aufhebung eines vorläufigen Berufsverbots unterrichtet das Gericht die zuständigen Behörden der anderen in Absatz 1 Satz 1 genannten Staaten mittels des Binnenmarkt-Informationssystems hierüber und veranlasst die Löschung der ursprünglichen Mitteilung. Wird ein rechtskräftig angeordnetes Berufsverbot aufgehoben, ändert sich der Zeitraum, für den es gilt, oder wird die Vollstreckung unterbrochen, so unterrichtet das Gericht die zuständigen Behörden hierüber und veranlasst gegebenenfalls die Löschung der ursprünglichen Mitteilung. Bei einer Aufhebung oder Veränderung des Geltungszeitraums des Berufsverbots auf Grund einer Gnadenentscheidung, auf Grund einer Entscheidung nach § 456c Absatz 2 der Strafprozessordnung oder auf Grund des § 70 Absatz 4 Satz 3 des Strafgesetzbuches nimmt die Staatsanwaltschaft die Unterrichtung vor und veranlasst gegebenenfalls die Löschung der ursprünglichen Mitteilung.
 
-
-## § 10 – Hemmung der Unterbrechungsfristen wegen Infektionsschutzmaßnahmen
+# § 10 – Hemmung der Unterbrechungsfristen wegen Infektionsschutzmaßnahmen
 
 (1) Unabhängig von der Dauer der Hauptverhandlung ist der Lauf der in § 229 Absatz 1 und 2 der Strafprozessordnung genannten Unterbrechungsfristen gehemmt, solange die Hauptverhandlung aufgrund von Schutzmaßnahmen zur Verhinderung der Verbreitung von Infektionen mit dem SARS-CoV-2-Virus (COVID-19-Pandemie) nicht durchgeführt werden kann, längstens jedoch für zwei Monate; diese Fristen enden frühestens zehn Tage nach Ablauf der Hemmung. Beginn und Ende der Hemmung stellt das Gericht durch unanfechtbaren Beschluss fest.
 
 (2) Absatz 1 gilt entsprechend für die in § 268 Absatz 3 Satz 2 der Strafprozessordnung genannte Frist zur Urteilsverkündung.
 
-
-## § 11 – Übergangsregelung zum Gesetz zur Novellierung der forensischen DNA-Analyse
+# § 11 – Übergangsregelung zum Gesetz zur Novellierung der forensischen DNA-Analyse
 
 Für die nach dem DNA-Identitätsfeststellungsgesetz vom 7. September 1998 (BGBl. I S. 2646), das zuletzt durch Artikel 4 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3007) geändert worden ist, erhobenen und verwendeten Daten finden ab dem 1. November 2005 die Regelungen der Strafprozessordnung Anwendung.
 
-
-## § 12 – Übergangsregelung zum Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
+# § 12 – Übergangsregelung zum Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten
 
 (1) Nach § 96 Absatz 1 Satz 1 Nummer 1 des Telekommunikationsgesetzes gespeicherte Standortdaten dürfen erhoben werden bis zum 29. Juli 2017 auf der Grundlage des § 100g Absatz 1 der Strafprozessordnung in der bis zum Inkrafttreten des Gesetzes zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten vom 10. Dezember 2015 (BGBl. I S. 2218) geltenden Fassung.
 
 (2) Die Übersicht nach § 101b der Strafprozessordnung in der Fassung des Artikels 1 des Gesetzes vom 10. Dezember 2015 (BGBl. I S. 2218) ist erstmalig für das Berichtsjahr 2018 zu erstellen. Für die vorangehenden Berichtsjahre ist § 100g Absatz 4 der Strafprozessordnung in der bis zum Inkrafttreten des Gesetzes zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten geltenden Fassung anzuwenden.
 
-
-## § 13 – Übergangsvorschrift zum Gesetz zur Novellierung des Rechts der Unterbringung in einem psychiatrischen Krankenhaus gemäß § 63 des Strafgesetzbuches und zur Änderung anderer Vorschriften
+# § 13 – Übergangsvorschrift zum Gesetz zur Novellierung des Rechts der Unterbringung in einem psychiatrischen Krankenhaus gemäß § 63 des Strafgesetzbuches und zur Änderung anderer Vorschriften
 
 Auf am 1. August 2016 bereits anhängige Vollstreckungsverfahren ist § 463 Absatz 4 Satz 2 und 8 der Strafprozessordnung in der seit dem 1. August 2016 geltenden Fassung erst ab dem 1. August 2018 anwendbar; die Pflicht des Gerichts zur Sachaufklärung, namentlich für die nach § 67d Absatz 6 Satz 2 und 3 des Strafgesetzbuches in der seit dem 1. August 2016 geltenden Fassung gebotenen Überprüfungen, bleibt unberührt. § 463 Absatz 4 Satz 3 und 4 der Strafprozessordnung in der seit dem 1. August 2016 geltenden Fassung ist auf am 1. August 2016 bereits anhängige Vollstreckungsverfahren erst ab dem 1. Februar 2017 anwendbar. Bis zur Anwendbarkeit des neuen Rechts nach Satz 1 ist § 463 Absatz 4 Satz 1 und 5 der Strafprozessordnung und bis zur Anwendbarkeit des neuen Rechts nach Satz 2 ist § 463 Absatz 4 Satz 2 der Strafprozessordnung für die genannten Vollstreckungsverfahren in der jeweils am 31. Juli 2016 geltenden Fassung weiter anzuwenden.
 
-
-## § 14 – Übergangsregelung zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
+# § 14 – Übergangsregelung zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
 
 Das Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) gilt nicht für Verfahren, in denen bis zum Inkrafttreten dieses Gesetzes im Urteil oder Strafbefehl festgestellt wurde, dass deshalb nicht auf Verfall erkannt wird, weil Ansprüche eines Verletzten im Sinne des § 73 Absatz 1 Satz 2 des Strafgesetzbuches entgegenstehen.
 
-
-## § 15 – Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigungen
+# § 15 – Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigungen
 
 Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass die Einreichung elektronischer Dokumente abweichend von § 32a der Strafprozessordnung erst zum 1. Januar des Jahres 2019 oder 2020 möglich ist und § 41a der Strafprozessordnung in der am 31. Dezember 2017 geltenden Fassung bis jeweils zum 31. Dezember des Jahres 2018 oder 2019 weiter Anwendung findet. Sie können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien übertragen.
 
-
-## § 16 – Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens
+# § 16 – Übergangsregelung zum Gesetz zur effektiveren und praxistauglicheren Ausgestaltung des Strafverfahrens
 
 Die Übersichten nach § 101b der Strafprozessordnung sind erstmalig für das Berichtsjahr 2019 zu erstellen. Für die vorangehenden Berichtsjahre sind § 100b Absatz 6, § 100e Absatz 2 und § 101b Nummer 2 der Strafprozessordnung in der bis zum 23. August 2017 geltenden Fassung weiter anzuwenden.
 
-
-## § 17 – Übergangsregelung zum Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 und zu § 76 des Bundesdatenschutzgesetzes vom 30. Juni 2017
+# § 17 – Übergangsregelung zum Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 und zu § 76 des Bundesdatenschutzgesetzes vom 30. Juni 2017
 
 (1) Für vor dem 6. Mai 2016 eingerichtete automatisierte Verarbeitungssysteme sind die durch das Gesetz zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 vom 20. November 2019 (BGBl. I S. 1724) neu gefassten Vorgaben zur Protokollierung in den §§ 488 und 493 der Strafprozessordnung sowie in § 76 des Bundesdatenschutzgesetzes vom 30. Juni 2017 (BGBl. I S. 2097) erst ab dem 6. Mai 2023 anzuwenden. Bis zum 5. Mai 2023 sind für vor dem 6. Mai 2016 eingerichtete automatisierte Abrufverfahren die Vorschriften zur Protokollierung des § 488 Absatz 3 der Strafprozessordnung in der bis zum Inkrafttreten des Gesetzes zur Umsetzung der Richtlinie (EU) 2016/680 im Strafverfahren sowie zur Anpassung datenschutzrechtlicher Bestimmungen an die Verordnung (EU) 2016/679 geltenden Fassung anzuwenden.
 
 (2) Für die IT-Anwendungen der Staatsanwaltschaften und Gerichte zur Verarbeitung und Verwaltung von Verfahrensdaten (Fachverfahren) tritt an die Stelle des 6. Mai 2023 in Absatz 1 Satz 1 der 6. Mai 2026 und an die Stelle des 5. Mai 2023 in Absatz 1 Satz 2 der 5. Mai 2026.
 
-
-## § 18 – Übergangsregelung zum Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität
+# § 18 – Übergangsregelung zum Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität
 
 Die Übersichten nach § 101b Absatz 5 der Strafprozessordnung in der vom 2. April 2021 an geltenden Fassung sind erstmalig für das auf den 2. April 2021 folgende Berichtsjahr zu erstellen. Für die vorangehenden Berichtsjahre ist § 101b Absatz 5 der Strafprozessordnung in der bis zum 1. April 2021 geltenden Fassung anzuwenden.

@@ -1,10 +1,7 @@
-# [VerpflG] Gesetz über die förmliche Verpflichtung nichtbeamteter Personen  (Verpflichtungsgesetz)
-
-Ausfertigungsdatum: 02.03.1974
-
+% Gesetz über die förmliche Verpflichtung nichtbeamteter Personen  (Verpflichtungsgesetz)
+% Ausfertigungsdatum: 02.03.1974
  
-
-## § 1
+# § 1
 
 (1) Auf die gewissenhafte Erfüllung seiner Obliegenheiten soll verpflichtet werden, wer, ohne Amtsträger (§ 11 Abs. 1 Nr. 2 des Strafgesetzbuches) zu sein,
 
@@ -24,8 +21,7 @@ Ausfertigungsdatum: 02.03.1974
 
 2. in allen übrigen Fällen diejenige Behörde, die von der Landesregierung durch Rechtsverordnung bestimmt wird.
 
-
-## § 2
+# § 2
 
 (1) Wer, ohne Amtsträger zu sein, auf Grund des § 1 der Verordnung gegen Bestechung und Geheimnisverrat nichtbeamteter Personen in der Fassung der Bekanntmachung vom 22. Mai 1943 (Reichsgesetzbl. I S. 351) förmlich verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich.
 
@@ -37,12 +33,10 @@ Ausfertigungsdatum: 02.03.1974
 
 zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet worden ist, steht einem nach § 1 Verpflichteten gleich, wenn die Voraussetzungen des § 1 Abs. 2 erfüllt sind.
 
-
-## § 3
+# § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 4
+# § 4
 
 Dieses Gesetz tritt am 1. Januar 1975 in Kraft. § 1 Abs. 4 tritt am Tage nach der Verkündung in Kraft.

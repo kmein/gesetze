@@ -1,15 +1,11 @@
-# [Dig/PrintMedAusbV 2013] Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
-
-Ausfertigungsdatum: 26.04.2013
-
+% Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
+% Ausfertigungsdatum: 26.04.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Mediengestalters Digital und Print und der Mediengestalterin Digital und Print wird staatlich anerkannt
 
@@ -19,13 +15,11 @@ Der Ausbildungsberuf des Mediengestalters Digital und Print und der Mediengestal
 
 3. nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 42 „Flexograf“ der Anlage B Abschnitt 1 der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -41,8 +35,7 @@ c) Gestaltung und Technik sowie
 
 3. vom Ausbildenden im Ausbildungsvertrag festzulegende Wahlqualifikationseinheiten aus den Auswahllisten I bis III nach § 4 Absatz 3 Nummer 1 bis 3.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -147,8 +140,7 @@ Gestaltung und Technik</th></tr></thead><tbody><tr class="odd"><td style="text-a
 
 (4) Bei Wahlqualifikationseinheiten mit aufsteigender Ordnungskennziffer muss bei Eintritt in die höherwertige Wahlqualifikationseinheit der Ausbildungsinhalt der vorangegangenen Wahlqualifikationseinheit vermittelt sein.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt.
 
@@ -156,8 +148,7 @@ Gestaltung und Technik</th></tr></thead><tbody><tr class="odd"><td style="text-a
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -173,8 +164,7 @@ Gestaltung und Technik</th></tr></thead><tbody><tr class="odd"><td style="text-a
 
 (4) Im Prüfungsbereich Gestaltung und Realisation eines Medienproduktes soll der Prüfling eine praktische Aufgabe durchführen. In den Prüfungsbereichen Gestaltungsgrundlagen und Medienproduktion sowie Kommunikation, Arbeits- und Sozialrecht soll er Aufgaben, die sich auf Fälle aus der Praxis beziehen, schriftlich bearbeiten. Die Prüfungszeit soll sieben Stunden nicht überschreiten.
 
-
-## § 7 – Abschluss- oder Gesellenprüfung in der Fachrichtung Beratung und Planung
+# § 7 – Abschluss- oder Gesellenprüfung in der Fachrichtung Beratung und Planung
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschluss- oder Gesellenprüfung soll der Prüfling nachweisen, dass er
 
@@ -209,11 +199,7 @@ Der Prüfling soll nachweisen, dass er in der Lage ist,
 
 4. die Projektkonzeption zu visualisieren und unter Berücksichtigung der Entwürfe zu präsentieren.
 
-Der Prüfling soll ein Prüfungsstück I und ein Prüfungsstück II erstellen und zum Prüfungsstück I eine Präsentation durchführen.  
-Das Prüfungsstück I besteht aus einer Projektkonzeption und der Realisierung eines Produktentwurfes. Nach Aushändigung der Aufgabenstellung ist dem Prüfungsausschuss spätestens nach zehn Arbeitstagen die Projektkonzeption vorzulegen. Die Realisierung des Produktentwurfes soll 6,5 Stunden nicht überschreiten.  
-Die Projektkonzeption ist dem Prüfungsausschuss zu präsentieren. Die Präsentation soll eine Dauer von 30 Minuten nicht überschreiten.  
-Bei der Aufgabenstellung für das Prüfungsstück II ist die im Ausbildungsvertrag festgelegte Wahlqualifikationseinheit nach § 4 Absatz 3 Nummer 3 zu berücksichtigen. Die Anfertigung des Prüfungsstücks II soll die Dauer von zwei Stunden nicht überschreiten.  
-Das Prüfungsstück I ist mit 50 Prozent, die Präsentation mit 25 Prozent und das Prüfungsstück II mit 25 Prozent zu gewichten.
+Der Prüfling soll ein Prüfungsstück I und ein Prüfungsstück II erstellen und zum Prüfungsstück I eine Präsentation durchführen. Das Prüfungsstück I besteht aus einer Projektkonzeption und der Realisierung eines Produktentwurfes. Nach Aushändigung der Aufgabenstellung ist dem Prüfungsausschuss spätestens nach zehn Arbeitstagen die Projektkonzeption vorzulegen. Die Realisierung des Produktentwurfes soll 6,5 Stunden nicht überschreiten. Die Projektkonzeption ist dem Prüfungsausschuss zu präsentieren. Die Präsentation soll eine Dauer von 30 Minuten nicht überschreiten. Bei der Aufgabenstellung für das Prüfungsstück II ist die im Ausbildungsvertrag festgelegte Wahlqualifikationseinheit nach § 4 Absatz 3 Nummer 3 zu berücksichtigen. Die Anfertigung des Prüfungsstücks II soll die Dauer von zwei Stunden nicht überschreiten. Das Prüfungsstück I ist mit 50 Prozent, die Präsentation mit 25 Prozent und das Prüfungsstück II mit 25 Prozent zu gewichten.
 
 (4) Für den Prüfungsbereich Konzeption und Gestaltung bestehen folgende Vorgaben:  
 Der Prüfling soll darstellen, dass er in der Lage ist,
@@ -267,8 +253,7 @@ Der Prüfling soll darstellen, dass er in der Lage ist,
 Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:  
-Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.  
-Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
+Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen. Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 (8) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -304,8 +289,7 @@ Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungs
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 8 – Abschluss- oder Gesellenprüfung in der Fachrichtung Konzeption und Visualisierung
+# § 8 – Abschluss- oder Gesellenprüfung in der Fachrichtung Konzeption und Visualisierung
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. Der Prüfling soll nachweisen, dass er
 
@@ -340,11 +324,7 @@ Der Prüfling soll nachweisen, dass er in der Lage ist,
 
 4. die Designkonzeption unter Berücksichtigung der visualisierten Gestaltungsideen zu präsentieren.
 
-Der Prüfling soll ein Prüfungsstück I und ein Prüfungsstück II erstellen und zum Prüfungsstück I eine Präsentation durchführen.  
-Das Prüfungsstück I besteht aus einer Designkonzeption und der Realisierung eines Medienteilproduktes. Nach Aushändigung der Aufgabenstellung ist dem Prüfungsausschuss spätestens nach zehn Arbeitstagen die Designkonzeption vorzulegen. Die Realisierung des Medienteilproduktes soll 6,5 Stunden nicht überschreiten.  
-Die Designkonzeption ist dem Prüfungsausschuss zu präsentieren. Die Präsentation soll eine Dauer von 30 Minuten nicht überschreiten.  
-Bei der Aufgabenstellung für das Prüfungsstück II ist die im Ausbildungsvertrag festgelegte Wahlqualifikationseinheit nach § 4 Absatz 3 Nummer 3 zu berücksichtigen. Die Anfertigung des Prüfungsstücks II soll die Dauer von zwei Stunden nicht überschreiten.  
-Das Prüfungsstück I ist mit 50 Prozent, die Präsentation mit 25 Prozent und das Prüfungsstück II mit 25 Prozent zu gewichten.
+Der Prüfling soll ein Prüfungsstück I und ein Prüfungsstück II erstellen und zum Prüfungsstück I eine Präsentation durchführen. Das Prüfungsstück I besteht aus einer Designkonzeption und der Realisierung eines Medienteilproduktes. Nach Aushändigung der Aufgabenstellung ist dem Prüfungsausschuss spätestens nach zehn Arbeitstagen die Designkonzeption vorzulegen. Die Realisierung des Medienteilproduktes soll 6,5 Stunden nicht überschreiten. Die Designkonzeption ist dem Prüfungsausschuss zu präsentieren. Die Präsentation soll eine Dauer von 30 Minuten nicht überschreiten. Bei der Aufgabenstellung für das Prüfungsstück II ist die im Ausbildungsvertrag festgelegte Wahlqualifikationseinheit nach § 4 Absatz 3 Nummer 3 zu berücksichtigen. Die Anfertigung des Prüfungsstücks II soll die Dauer von zwei Stunden nicht überschreiten. Das Prüfungsstück I ist mit 50 Prozent, die Präsentation mit 25 Prozent und das Prüfungsstück II mit 25 Prozent zu gewichten.
 
 (4) Für den Prüfungsbereich Konzeption und Gestaltung bestehen folgende Vorgaben:  
 Der Prüfling soll darstellen, dass er in der Lage ist,
@@ -400,8 +380,7 @@ Der Prüfling soll darstellen, dass er in der Lage ist,
 Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:  
-Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.  
-Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
+Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen. Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 (8) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -437,8 +416,7 @@ Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungs
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Abschluss- oder Gesellenprüfung in der Fachrichtung Gestaltung und Technik
+# § 9 – Abschluss- oder Gesellenprüfung in der Fachrichtung Gestaltung und Technik
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. Der Prüfling soll nachweisen, dass er
 
@@ -473,10 +451,7 @@ Der Prüfling soll nachweisen, dass er in der Lage ist,
 
 4. Teilprodukte der Medienproduktion unter Berücksichtigung von Qualitätsgesichtspunkten und wirtschaftlichen Aspekten technisch zu realisieren.
 
-Der Prüfling soll ein Prüfungsstück I und ein Prüfungsstück II erstellen.  
-Das Prüfungsstück I besteht aus einem Lösungsvorschlag mit Arbeitsplanung und der Erstellung eines Teilproduktes der Medienproduktion. Nach Aushändigung der Aufgabenstellung ist dem Prüfungsausschuss spätestens nach zehn Arbeitstagen ein Lösungsvorschlag mit Arbeitsplanung vorzulegen. Die Anfertigung des Teilproduktes der Medienproduktion soll sieben Stunden nicht überschreiten.  
-Bei der Aufgabenstellung für das Prüfungsstück II ist die im Ausbildungsvertrag festgelegte Wahlqualifikationseinheit nach § 4 Absatz 3 Nummer 3 zu berücksichtigen. Die Anfertigung des Prüfungsstücks II soll die Dauer von zwei Stunden nicht überschreiten.  
-Das Prüfungsstück I ist mit 75 Prozent und das Prüfungsstück II mit 25 Prozent zu gewichten.
+Der Prüfling soll ein Prüfungsstück I und ein Prüfungsstück II erstellen. Das Prüfungsstück I besteht aus einem Lösungsvorschlag mit Arbeitsplanung und der Erstellung eines Teilproduktes der Medienproduktion. Nach Aushändigung der Aufgabenstellung ist dem Prüfungsausschuss spätestens nach zehn Arbeitstagen ein Lösungsvorschlag mit Arbeitsplanung vorzulegen. Die Anfertigung des Teilproduktes der Medienproduktion soll sieben Stunden nicht überschreiten. Bei der Aufgabenstellung für das Prüfungsstück II ist die im Ausbildungsvertrag festgelegte Wahlqualifikationseinheit nach § 4 Absatz 3 Nummer 3 zu berücksichtigen. Die Anfertigung des Prüfungsstücks II soll die Dauer von zwei Stunden nicht überschreiten. Das Prüfungsstück I ist mit 75 Prozent und das Prüfungsstück II mit 25 Prozent zu gewichten.
 
 (4) Für den Prüfungsbereich Konzeption und Gestaltung bestehen folgende Vorgaben:  
 Der Prüfling soll darstellen, dass er in der Lage ist,
@@ -526,8 +501,7 @@ Der Prüfling soll darstellen, dass er in der Lage ist,
 Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 (7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen folgende Vorgaben:  
-Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.  
-Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
+Der Prüfling soll nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen. Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
 (8) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -563,13 +537,11 @@ Der Prüfling soll schriftlich praxisbezogene Aufgaben bearbeiten. Die Prüfungs
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche nach Absatz 2 Nummer 2 bis 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Abschluss- oder Gesellenprüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig treten die Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print/zur Mediengestalterin Digital und Print vom 2. Mai 2007 (BGBl. I S. 628), die Verordnung über die Berufsausbildung zum Dekorvorlagenhersteller/zur Dekorvorlagenherstellerin vom 15. Dezember 1994 (BGBl. I S. 3828), die Verordnung über die Berufsausbildung zum Fotolaboranten/zur Fotolaborantin vom 16. Januar 1981 (BGBl. I S. 88) und die Verordnung über die Berufsausbildung zum Fotomedienlaboranten/zur Fotomedienlaborantin vom 10. Dezember 1997 (BGBl. I S. 3177) außer Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
+# Anlage – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print
 
 (Fundstelle: BGBl. I 2013, 1181 - 1202)
 

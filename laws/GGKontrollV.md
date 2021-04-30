@@ -1,10 +1,7 @@
-# [GGKontrollV] Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in den Unternehmen  (GGKontrollV)
-
-Ausfertigungsdatum: 27.05.1997
-
+% Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in den Unternehmen  (GGKontrollV)
+% Ausfertigungsdatum: 27.05.1997
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung gelten für die Kontrollen von Gefahrguttransporten durch die nach § 9 Abs. 1 des Gesetzes über die Beförderung gefährlicher Güter zuständigen Behörden auf der Straße, die mit Fahrzeugen durchgeführt werden, die am Straßenverkehr teilnehmen oder aus einem Drittland in Deutschland einfahren, sowie für Kontrollen in den Unternehmen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 27.05.1997
 
 (3) Das Bundesamt für Güterverkehr wendet die §§ 2 bis 6 entsprechend an.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet der Begriff
 
@@ -27,8 +23,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 5. "Kontrolle": jede Überwachung, Prüfung oder Untersuchung, die aus Sicherheitsgründen auf der Straße oder in den Unternehmen im Zusammenhang mit der Beförderung gefährlicher Güter von den zuständigen Behörden durchgeführt wird.
 
-
-## § 3 – Kontrollen auf der Straße
+# § 3 – Kontrollen auf der Straße
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte oder nach Landesrecht zuständige Stelle stellt sicher, dass in ihrem Gebiet ein repräsentativer Anteil der Gefahrguttransporte auf der Straße den in dieser Verordnung vorgesehenen Kontrollen unterzogen wird, um zu überprüfen, ob die Vorschriften für die Beförderung gefährlicher Güter auf der Straße eingehalten werden. Diese Kontrollen werden in Ausführung von Artikel 3 der Verordnung (EWG) Nr. 4060/89 und Artikel 1 der Verordnung (EWG) Nr. 3912/92 durchgeführt. Das Bundesamt für Güterverkehr kontrolliert im Rahmen seiner Zuständigkeit nach dem Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße in angemessenem Umfang.
 
@@ -44,8 +39,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 (7) Bei Gefahrguttransporten, bei denen ein Verstoß gegen die Vorschriften für die Beförderung gefährlicher Güter, insbesondere einer der in Anlage 3 genannten Verstöße, festgestellt wurden, können alle erforderlichen Maßnahmen zum Schutz gegen die von der Beförderung gefährlicher Güter ausgehenden Gefahren getroffen werden; hierzu gehören insbesondere die Verweigerung der Einfahrt in die Europäische Gemeinschaft und das Abstellen des Fahrzeugs an Ort und Stelle oder auf einem hierfür geeigneten Platz.
 
-
-## § 4 – Kontrollen in den Unternehmen
+# § 4 – Kontrollen in den Unternehmen
 
 (1) Die nach § 9 Abs. 1 des Gesetzes über die Beförderung gefährlicher Güter für die Überwachung in den Unternehmen zuständigen Behörden können, vorbeugend oder wenn bei Gefahrguttransporten auf der Straße Verstöße festgestellt wurden, die die Sicherheit des Gefahrguttransports gefährden, Kontrollen in den inländischen Unternehmen durchführen, um sicherzustellen, dass die Vorschriften über die Beförderung gefährlicher Güter auf der Straße eingehalten werden.
 
@@ -53,8 +47,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 (3) § 3 Absatz 3 Satz 2 und Abs. 4 bis 7 gilt entsprechend.
 
-
-## § 5 – Berichtswesen
+# § 5 – Berichtswesen
 
 (1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte Stelle und das Bundesamt für Güterverkehr übermitteln dem Bundesministerium für Verkehr und digitale Infrastruktur für jedes Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach dem Muster in der Anlage 5 erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
 
@@ -68,8 +61,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 
 (2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
-
-## Anlage 1 – (zu § 3 Abs. 3 Satz 1)Prüfliste
+# Anlage 1 – (zu § 3 Abs. 3 Satz 1)Prüfliste
 
 (Fundstelle: BGBl. I 2005, 3107)
 
@@ -163,23 +155,17 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
     2) Bei Sammelbeförderungen unter "Bemerkungen" angeben.
     3) Prüfung auf sichtbare Verstöße. 
 
-
-## Anlage 2
+# Anlage 2
 
 (weggefallen)
 
-
-## Anlage 3 – (zu § 3 Abs. 7)  Verstöße
+# Anlage 3 – (zu § 3 Abs. 7)  Verstöße
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
 
-Für die Zwecke dieser Verordnung stellt die folgende, nicht erschöpfende Liste mit drei Gefahrenkategorien (wobei Kategorie I die schwerwiegendste ist) eine Leitlinie dafür dar, was als Verstoß einzustufen ist.  
-Die Bestimmung der angemessenen Gefahrenkategorie erfolgt unter Berücksichtigung der besonderen Umstände und liegt im Ermessen der vollziehenden Behörde bzw. des vollziehenden Beamten auf der Straße.  
-Nicht unter den Gefahrenkategorien aufgeführte Mängel werden entsprechend den Beschreibungen der Kategorien eingestuft.  
-Bei mehreren Verstößen je Beförderungseinheit wird bei der Berichterstattung (Anlage 5 dieser Verordnung) nur die schwerwiegendste Gefahrenkategorie (wie unter Nummer 32 der Anlage 1 dieser Verordnung angegeben) angewandt.
+Für die Zwecke dieser Verordnung stellt die folgende, nicht erschöpfende Liste mit drei Gefahrenkategorien (wobei Kategorie I die schwerwiegendste ist) eine Leitlinie dafür dar, was als Verstoß einzustufen ist. Die Bestimmung der angemessenen Gefahrenkategorie erfolgt unter Berücksichtigung der besonderen Umstände und liegt im Ermessen der vollziehenden Behörde bzw. des vollziehenden Beamten auf der Straße. Nicht unter den Gefahrenkategorien aufgeführte Mängel werden entsprechend den Beschreibungen der Kategorien eingestuft. Bei mehreren Verstößen je Beförderungseinheit wird bei der Berichterstattung (Anlage 5 dieser Verordnung) nur die schwerwiegendste Gefahrenkategorie (wie unter Nummer 32 der Anlage 1 dieser Verordnung angegeben) angewandt.
 
-A.  
-Gefahrenkategorie I
+A. Gefahrenkategorie I
 
 Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer hohen Lebensgefahr bzw. der Gefahr schwerer gesundheitlicher Schäden oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in der Regel unverzüglich geeignete Maßnahmen zur Beseitigung der Gefahr ergriffen werden, z. B. Untersagung der Weiterfahrt, Stilllegung des Fahrzeugs.
 
@@ -223,8 +209,7 @@ Mängel sind:
 
 19. das Rauchverbot bei Ladearbeiten wird nicht beachtet.
 
-B.  
-Gefahrenkategorie II
+B. Gefahrenkategorie II
 
 Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit der Gefahr schwerer Verletzungen oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in der Regel geeignete Maßnahmen zur Beseitigung der Gefahr ergriffen werden, z. B. wenn möglich und angemessen die Behebung am Kontrollort, spätestens jedoch nach Abschluss der laufenden Beförderung.
 
@@ -254,8 +239,7 @@ Mängel sind:
 
 12. das Fahrzeug ist nicht ordnungsgemäß überwacht oder geparkt.
 
-C.  
-Gefahrenkategorie III
+C. Gefahrenkategorie III
 
 Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer geringen Gefahr von Verletzungen oder einer Schädigung der Umwelt verbunden ist und geeignete Maßnahmen zur Beseitigung der Gefahr nicht an der Straße ergriffen werden müssen, sondern zu einem späteren Zeitpunkt auf dem Betriebsgelände getroffen werden können.
 
@@ -267,13 +251,11 @@ Mängel sind:
 
 3. die Schulungsbescheinigung befindet sich nicht an Bord des Fahrzeugs, es gibt jedoch Belege dafür, dass der Fahrer sie besitzt.
 
-
-## Anlage 4
+# Anlage 4
 
 (weggefallen)
 
-
-## Anlage 5 – (zu § 5 Abs. 1)  Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
+# Anlage 5 – (zu § 5 Abs. 1)  Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 

@@ -1,15 +1,11 @@
-# [PfleBeteiligungsV] Verordnung zur Beteiligung der auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der pflegenden Angehörigen im Bereich der Begutachtung und Qualitätssicherung der Sozialen Pflegeversicherung  (Pflegebedürftigenbeteiligungsverordnung - PfleBeteiligungsV)
-
-Ausfertigungsdatum: 22.03.2013
-
+% Verordnung zur Beteiligung der auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der pflegenden Angehörigen im Bereich der Begutachtung und Qualitätssicherung der Sozialen Pflegeversicherung  (Pflegebedürftigenbeteiligungsverordnung - PfleBeteiligungsV)
+% Ausfertigungsdatum: 22.03.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 118 Absatz 2 des Elften Buches Sozialgesetzbuch – Soziale Pflegeversicherung –, der durch Artikel 1 Nummer 45 des Gesetzes vom 23. Oktober 2012 (BGBl. I S. 2246) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Voraussetzungen für die Anerkennung maßgeblicher Organisationen auf Bundesebene
+# § 1 – Voraussetzungen für die Anerkennung maßgeblicher Organisationen auf Bundesebene
 
 Maßgebliche Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der pflegenden Angehörigen auf Bundesebene im Sinne des § 118 des Elften Buches Sozialgesetzbuch sind Organisationen, die
 
@@ -25,8 +21,7 @@ Maßgebliche Organisationen für die Wahrnehmung der Interessen und der Selbsthi
 
 6. gemeinnützige Zwecke verfolgen.
 
-
-## § 2 – Anerkannte Organisationen
+# § 2 – Anerkannte Organisationen
 
 Als maßgebliche Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen auf Bundesebene gelten:
 
@@ -42,18 +37,15 @@ Als maßgebliche Organisationen für die Wahrnehmung der Interessen und der Selb
 
 6. der Bundesverband der Verbraucherzentralen und Verbraucherverbände – Verbraucherzentrale Bundesverband e. V.
 
-
-## § 3 – Anerkennung weiterer Organisationen
+# § 3 – Anerkennung weiterer Organisationen
 
 Das Bundesministerium für Gesundheit kann auf Antrag weitere Organisationen, die nicht Mitglied der in § 2 genannten Verbände sind, als maßgebliche Organisation auf Bundesebene anerkennen, wenn die antragstellende Organisation die gemäß § 1 erforderlichen Kriterien erfüllt und diese nachweist. Das Bundesministerium für Gesundheit gibt den Ländern innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme; die Stellungnahmen sind in die Entscheidung einzubeziehen. Die Anerkennung erfolgt durch Verwaltungsakt.
 
-
-## § 4 – Entzug der Anerkennung
+# § 4 – Entzug der Anerkennung
 
 Hat der Spitzenverband Bund der Pflegekassen oder ein anderer Vereinbarungspartner nach § 113 des Elften Buches Sozialgesetzbuch Zweifel, dass eine der in § 2 genannten Organisationen oder eine der nach § 3 anerkannten Organisationen die in § 1 genannten Kriterien erfüllt, bittet er das Bundesministerium für Gesundheit, die betreffende Organisation zu überprüfen. Ergibt die Überprüfung, dass die Kriterien nicht erfüllt sind, stellt das Bundesministerium für Gesundheit durch Verwaltungsakt fest, dass die betreffende Organisation keine maßgebliche Organisation auf Bundesebene im Sinne des § 118 des Elften Buches Sozialgesetzbuch ist.
 
-
-## § 5 – Verfahren der Beteiligung
+# § 5 – Verfahren der Beteiligung
 
 (1) Die in § 2 genannten und die nach § 3 anerkannten Organisationen können zur Wahrnehmung der in § 118 Absatz 1 des Elften Buches Sozialgesetzbuch genannten Mitberatungsrechte zu dem jeweiligen Beratungsverfahren einvernehmlich insgesamt höchstens sechs sachkundige Personen benennen. Kommt innerhalb von vier Wochen nach schriftlicher Aufforderung einer in § 2 genannten oder nach § 3 anerkannten Organisation eine Einigung auf sechs sachkundige Personen nicht zustande, entscheidet das Bundesministerium für Gesundheit auf Antrag einer Organisation unverzüglich durch Los.
 
@@ -61,17 +53,14 @@ Hat der Spitzenverband Bund der Pflegekassen oder ein anderer Vereinbarungspartn
 
 (3) Die in § 2 genannten und die nach § 3 anerkannten Organisationen können Themen vorschlagen, zu denen Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege nach § 113a des Elften Buches Sozialgesetzbuch entwickelt werden sollen. Das Verfahren bestimmt sich nach der Verfahrensordnung gemäß § 113a Absatz 2 des Elften Buches Sozialgesetzbuch.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Wurden vor dem 30. Oktober 2012 bereits Verfahren zur Erstellung von den in § 118 Absatz 1 Satz 1 Nummer 1 des Elften Buches Sozialgesetzbuch genannten Richtlinien eingeleitet oder Verhandlungen zu den in § 118 Absatz 1 Satz 1 Nummer 2 des Elften Buches Sozialgesetzbuch genannten Vereinbarungen aufgenommen, erfolgt die Beteiligung nach dieser Verordnung, wenn noch kein Beteiligungsverfahren eingeleitet worden ist, ab dem jeweiligen Verfahrensstand.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

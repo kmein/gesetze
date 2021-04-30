@@ -1,10 +1,7 @@
-# [KÜO] Verordnung über die Kehrung und Überprüfung von Anlagen    (Kehr- und Überprüfungsordnung - KÜO)
-
-Ausfertigungsdatum: 16.06.2009
-
+% Verordnung über die Kehrung und Überprüfung von Anlagen    (Kehr- und Überprüfungsordnung - KÜO)
+% Ausfertigungsdatum: 16.06.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,8 +13,7 @@ des § 1 Absatz 1 Satz 2 und des § 4 Absatz 4 des Schornsteinfeger-Handwerksges
 
 verordnet das Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Kehr- oder überprüfungspflichtige Anlagen
+# § 1 – Kehr- oder überprüfungspflichtige Anlagen
 
 (1) Kehr- oder überprüfungspflichtig sind folgende Anlagen:
 
@@ -77,15 +73,13 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 (8) Werden bauliche Maßnahmen, insbesondere der Einbau von fugendichten Fenstern oder Außentüren oder das Abdichten von Fenstern oder Außentüren durchgeführt, die eine Änderung der bisherigen Versorgung der Feuerstätten mit Verbrennungsluft oder der Abgasführung erwarten lassen, so hat die unmittelbar veranlassende Person unverzüglich nach Abschluss der Maßnahmen durch die zuständige bevollmächtigte Bezirksschornsteinfegerin oder den zuständigen bevollmächtigten Bezirksschornsteinfeger prüfen zu lassen, ob die öffentlich-rechtlichen Bestimmungen für die Versorgung der Feuerstätte mit Verbrennungsluft und für die Abführung der Rauch- oder Abgase eingehalten sind.
 
-
-## § 2 – Besondere Kehrarbeiten
+# § 2 – Besondere Kehrarbeiten
 
 (1) Eine kehrpflichtige Anlage ist auszubrennen, auszuschlagen oder chemisch zu reinigen, wenn die Verbrennungsrückstände mit den üblichen Kehrwerkzeugen nicht entfernt werden können. Sie darf nicht ausgebrannt werden, wenn ihr Zustand oder sonstige gefahrbringende Umstände entgegenstehen. Ausbrennarbeiten dürfen nur von Personen durchgeführt werden, die zur selbständigen Ausübung des Schornsteinfegerhandwerks berechtigt sind. Der Zeitpunkt des Ausbrennens ist der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume oder deren Beauftragten, den Hausbewohnern und dem Aufgabenträger für den örtlichen Brandschutz vorher mitzuteilen. Nach dem Ausbrennen ist die Anlage auf Brandgefahren zu überprüfen.
 
 (2) Reinigungsarbeiten an asbesthaltigen Abgas- und Lüftungsanlagen und Verbrennungsluft- und Abluftanlagen sind von Schornsteinfegerinnen und Schornsteinfegern nach dem Stand der Technik, insbesondere entsprechend den Technischen Regeln für Gefahrstoffe 519 „Asbest, Abbruch-, Sanierungs- oder Instandhaltungsarbeiten“ (Bekanntmachung des Bundesministeriums für Arbeit und Soziales vom 20. März 2014, GMBl S. 164, die durch die Bekanntmachung vom 2. März 2015, GMBl S. 136, geändert worden ist), durchzuführen.
 
-
-## § 3 – Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
+# § 3 – Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
 
 (1) Die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger hat den Termin der Feuerstättenschau spätestens fünf Werktage vor der Durchführung anzukündigen, soweit nicht die Eigentümerin oder der Eigentümer des Grundstücks oder der Räume oder deren Beauftragter auf die Ankündigung verzichtet.
 
@@ -93,8 +87,7 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 (3) Über das Ergebnis der Feuerstättenschau hat die bevollmächtigte Bezirksschornsteinfegerin oder der bevollmächtigte Bezirksschornsteinfeger der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
-
-## § 4 – Durchführung der Kehr- oder Überprüfungsarbeiten
+# § 4 – Durchführung der Kehr- oder Überprüfungsarbeiten
 
 (1) Die Anlagen sind nach den anerkannten Regeln der Technik zu kehren oder zu überprüfen. Wird bei der Überprüfung festgestellt, dass eine Kehrung erforderlich ist, ist diese durchzuführen; dies gilt nicht für Heizgaswege von Feuerstätten.
 
@@ -102,13 +95,11 @@ Stellt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der zust�
 
 (3) Über das Ergebnis der Abgaswegüberprüfung ist der Eigentümerin oder dem Eigentümer des Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
-
-## § 5 – Formblätter
+# § 5 – Formblätter
 
 Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes und die Bescheinigung nach § 4 Absatz 3 ist ein Vordruck nach dem Muster der Anlage 2 zu verwenden. Die Bescheinigung nach § 4 Absatz 3 ist dem Formblatt als Anlage beizufügen. Die in der Bescheinigung nach § 4 Absatz 3 anzugebende Messgeräte-Identifikationsnummer setzt sich aus Hersteller-Kurzzeichen, Typ-/Seriennummer, Prüfstelle und letztem Prüftermin nach Jahr und Monat zusammen.
 
-
-## § 6 – Gebühren
+# § 6 – Gebühren
 
 (1) Gebühren sind für folgende Tätigkeiten zu entrichten:
 
@@ -126,31 +117,25 @@ Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes 
 
 (3) Die Gebührensätze richten sich nach den in Anlage 3 festgesetzten Arbeitswerten. Der Arbeitswert beträgt 1,20 Euro zuzüglich der gesetzlichen Umsatzsteuer.
 
-§ 6 Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 1 Abs. 1 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger (BezSchfGebG HA)](../abweichendes_Landesrecht/bezschfgebg_ha_1.html "Anzeige in neuem Fenster") v. 13.11.2012 HmbGVBl. S. 474 mWv 1.1.2013 (vgl. BGBl. I 2013, 820). Es besteht Unstimmigkeit bzgl. der Untergliederung.  
-§ 6 Abs. 2 Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Geänderte Abweichung durch § 1 Abs. 2 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger v. 13.11.2012 HmbGVBl. S. 474, geändert durch das G v. 17.9.2013 HmbGVBl. S. 399, mWv 25.9.2013 (vgl. BGBl. I 2013, 4068). Es besteht Unstimmigkeit bzgl. der Untergliederung.
+§ 6 Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 1 Abs. 1 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger (BezSchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/bezschfgebg_ha_1.html "Anzeige in neuem Fenster") v. 13.11.2012 HmbGVBl. S. 474 mWv 1.1.2013 (vgl. BGBl. I 2013, 820). Es besteht Unstimmigkeit bzgl. der Untergliederung. § 6 Abs. 2 Satz 2 idF d. V v. 16.6.2009 I 1292: Hamburg - Geänderte Abweichung durch § 1 Abs. 2 d. Gesetzes zur Regelung von Gebühren für bevollmächtigte Bezirksschornsteinfegerinnen und Bezirksschornsteinfeger v. 13.11.2012 HmbGVBl. S. 474, geändert durch das G v. 17.9.2013 HmbGVBl. S. 399, mWv 25.9.2013 (vgl. BGBl. I 2013, 4068). Es besteht Unstimmigkeit bzgl. der Untergliederung.
 
-
-## § 7 – Begriffsbestimmungen
+# § 7 – Begriffsbestimmungen
 
 Bei der Anwendung dieser Verordnung sind die in Anlage 4 aufgeführten Begriffsbestimmungen zugrunde zu legen.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 § 5 und § 6 in Verbindung mit Anlage 3 Nummer 5.8 dieser Verordnung treten am Tag nach der Verkündung in Kraft. Im Übrigen tritt diese Verordnung am 1. Januar 2010 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Absatz 4)Anzahl der Kehrungen und Überprüfungen
+# Anlage 1 – (zu § 1 Absatz 4)Anzahl der Kehrungen und Überprüfungen
 
 (Fundstelle: BGBl. I 2009, 1295 - 1296; bzgl. einzelner Änderungen vgl. Fußnote)
 
-
-## Anlage 2 – (zu § 5)
+# Anlage 2 – (zu § 5)
 
 (Fundstelle: BGBl. I 2013, 762 - 772)
 
@@ -437,9 +422,7 @@ Druckdifferenz im Ringspalt
 |:-------------------------------------------|-------------------------------------------:|
 | \[ \] Folgende Mängel wurden festgestellt: | \[ \] Es wurden keine Mängel festgestellt. |
 
-\[ \] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen.  
-\[ \] Die Mängel sind aus Sicherheitsgründen bis zum ……………… zu beseitigen.  
-\[ \] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
+\[ \] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen. \[ \] Die Mängel sind aus Sicherheitsgründen bis zum ……………… zu beseitigen. \[ \] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
 
 Messergebnis gemäß 1. BImSchV:
 
@@ -477,9 +460,7 @@ Messunsicherheit
 
    %
 
-\[ \] Das Messergebnis entspricht nicht der Verordnung, weil .....  
-Der Betreiber ist verpflichtet, die notwendigen Verbesserungsmaßnahmen an der Anlage zu treffen.  
-Die Messung ist bis zum …………………………………………… zu wiederholen.
+\[ \] Das Messergebnis entspricht nicht der Verordnung, weil ..... Der Betreiber ist verpflichtet, die notwendigen Verbesserungsmaßnahmen an der Anlage zu treffen. Die Messung ist bis zum …………………………………………… zu wiederholen.
 
 Bemerkungen:
 
@@ -662,9 +643,7 @@ Pa
 
 \[ \]  Es wurden keine Mängel festgestellt.
 
-\[ \] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen.  
-\[ \] Die Mängel sind aus Sicherheitsgründen bis zum ………………………… zu beseitigen.  
-\[ \] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
+\[ \] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen. \[ \] Die Mängel sind aus Sicherheitsgründen bis zum ………………………… zu beseitigen. \[ \] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
 
  
 
@@ -676,7 +655,7 @@ Rußzahl
 
 CO-Gehalt
 
- 1 300 ![](../normengrafiken/bgbl1_2013/j0760-1_0010.jpg)
+ 1 300 ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0760-1_0010.jpg)
 
 Messergebnis gemäß 1. BImSchV:
 
@@ -706,7 +685,7 @@ Rußzahl-Mittelwert
 
 CO-Gehalt
 
-![](../normengrafiken/bgbl1_2013/j0760-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0760-1_0020.jpg)
 
 Wärmeträgertemperatur
 
@@ -738,9 +717,7 @@ Messunsicherheit
 
  %
 
-\[ \] Das Messergebnis entspricht nicht der Verordnung, weil …………………………………………………………………………………..  
-Der Betreiber ist verpflichtet, die notwendigen Verbesserungsmaßnahmen an der Anlage zu treffen.  
-Die Messung ist bis zum ………………………… zu wiederholen.
+\[ \] Das Messergebnis entspricht nicht der Verordnung, weil ………………………………………………………………………………….. Der Betreiber ist verpflichtet, die notwendigen Verbesserungsmaßnahmen an der Anlage zu treffen. Die Messung ist bis zum ………………………… zu wiederholen.
 
 Bemerkungen:
 
@@ -892,8 +869,7 @@ g/m³
 
 \[ \] Das Ergebnis entspricht nicht der Verordnung, weil   
 
-\[ \] Die Mängel sind zu beseitigen. Danach ist bis zum …………………………………………… eine Wiederholungsüberprüfung erforderlich.  
-Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
+\[ \] Die Mängel sind zu beseitigen. Danach ist bis zum …………………………………………… eine Wiederholungsüberprüfung erforderlich. Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Beratung wurde in folgenden Punkten durchgeführt<br />
 (§ 4 Absatz 8, für handbeschickte Feuerungsanlagen):<br />
@@ -1009,8 +985,7 @@ Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.)
 
 \[ \] Das Ergebnis entspricht nicht der Verordnung, weil   
 
-\[ \] Die Mängel sind zu beseitigen. Danach ist bis zum …………………………………………… eine Wiederholungsüberprüfung erforderlich.  
-Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
+\[ \] Die Mängel sind zu beseitigen. Danach ist bis zum …………………………………………… eine Wiederholungsüberprüfung erforderlich. Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Beratung wurde in folgenden Punkten durchgeführt<br />
 (§ 4 Absatz 8, für handbeschickte Feuerungsanlagen):<br />
@@ -1208,9 +1183,7 @@ Abgastemperatur
 |:--------------------------------------------|--------------------------------------------:|
 | \[ \]  Folgende Mängel wurden festgestellt: | \[ \]  Es wurden keine Mängel festgestellt. |
 
-\[ \] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen.  
-\[ \] Die Mängel sind aus Sicherheitsgründen bis zum ……………… zu beseitigen.  
-\[ \] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
+\[ \] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine Überprüfung durch einen Fachbetrieb wird empfohlen. \[ \] Die Mängel sind aus Sicherheitsgründen bis zum ……………… zu beseitigen. \[ \] Aufgrund der festgestellten Mängel ist eine zusätzliche Überprüfung der Feuerungsanlage erforderlich.
 
 |                                     |     |
 |:------------------------------------|:----|
@@ -1219,17 +1192,13 @@ Abgastemperatur
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"><table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;"><br />
 Datum</td><td style="text-align: right;">Unterschrift des Schornsteinfegers </td></tr></tbody></table></td><td>Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu beseitigen sind, geben Sie bitte Nachricht, sobald die Mängel beseitigt sind bzw. die Wiederholungsüberprüfung erfolgen kann.</td></tr></tbody></table>
 
-
-## Anlage 3 – (zu § 6)Gebührenverzeichnis
+# Anlage 3 – (zu § 6)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2013, 773 - 774)
 
-Anlage 3 Nr. 1.2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 2 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](../abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung.  
-Anlage 3 Nr. 3 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](../abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung.  
-Anlage 3 Nr. 4.1.4 u. 4.2.4 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](../abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung.
+Anlage 3 Nr. 1.2 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 2 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung. Anlage 3 Nr. 3 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung. Anlage 3 Nr. 4.1.4 u. 4.2.4 idF d. V v. 16.6.2009 I 1292: Hamburg - Abweichung durch [§ 2 Abs. 3 des Gesetzes zur Bemessung von Gebühren für Schornsteinfegerarbeiten und der Anzahl der Kehrbezirke (SchfGebG HA)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/schfarbgebg_ha__2.html "Anzeige in neuem Fenster") v. 27.4.2010 HmbGVBl. S. 332 mWv 8.5.2010 (vgl. BGBl. I 2011, 96). Es besteht Unstimmigkeit bzgl. der Untergliederung.
 
-
-## Anlage 4 – (zu § 7)Begriffsbestimmungen
+# Anlage 4 – (zu § 7)Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2009, 1305 - 1306; bzgl. einzelner Änderungen vgl. Fußnote)
 

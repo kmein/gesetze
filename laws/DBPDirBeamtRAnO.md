@@ -1,10 +1,7 @@
-# [DBPDirBeamtRAnO] Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Geschäftsbereich des Direktoriums der Deutschen Bundespost
-
-Ausfertigungsdatum: 11.06.1990
-
+% Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Geschäftsbereich des Direktoriums der Deutschen Bundespost
+% Ausfertigungsdatum: 11.06.1990
  
-
-## ----
+# ----
 
 1. Wir übertragen der Dienststelle für Sozialangelegenheiten des Direktoriums und dem Sozialamt der Deutschen Bundespost - je für ihren Geschäftsbereich - die Befugnis,
 

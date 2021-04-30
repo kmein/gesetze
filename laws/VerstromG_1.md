@@ -1,15 +1,11 @@
-# [VerstromG 1] Gesetz zur Förderung der Verwendung von Steinkohle in Kraftwerken
-
-Ausfertigungsdatum: 12.08.1965
-
+% Gesetz zur Förderung der Verwendung von Steinkohle in Kraftwerken
+% Ausfertigungsdatum: 12.08.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Steuerfreie Rücklage für neue Kraftwerke
+# § 1 – Steuerfreie Rücklage für neue Kraftwerke
 
 (1) Steuerpflichtige, die den Gewinn auf Grund ordnungsmäßiger Buchführung nach § 5 des Einkommensteuergesetzes ermitteln und nach dem 30. Juni 1964 und vor dem 1. Juli 1971 ein neu errichtetes Kraftwerk in Betrieb nehmen, können nach Maßgabe der Absätze 2 bis 4 eine den steuerlichen Gewinn mindernde Rücklage bilden. Die Bildung der steuerfreien Rücklage wird nur unter der Bedingung zugelassen, daß das Kraftwerk vom Betriebsbeginn an bis zum Ende des zehnten auf den Betriebsbeginn folgenden Wirtschaftsjahres ausschließlich mit Stein- und Pechkohle oder mit Braunkohle mit einem Anteil von Tiefbaubraunkohle von mindestens fünfundzwanzig vom Hundert betrieben wird, die im Bereich der Europäischen Gemeinschaft für Kohle und Stahl gewonnen wurde (Gemeinschaftskohle). Ein Kraftwerk gilt auch dann als ausschließlich mit Gemeinschaftskohle betrieben, wenn neben diesen Brennstoffen auch Müll verbrannt wird oder in einem technisch unvermeidbaren Maße zu Zündzwecken oder zur Stützfeuerung oder vorübergehend auf Grund behördlicher Anordnung ausschließlich aus Gründen der Luftreinhaltung andere Brennstoffe verwendet werden.
 
@@ -21,8 +17,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (5) Die Vorschriften der Absätze 1 bis 4 sind erstmals für Wirtschaftsjahre anzuwenden, die nach dem 30. Juni 1964 enden.
 
-
-## § 2 – Sondervorschriften beim Betrieb mehrerer Kraftwerke
+# § 2 – Sondervorschriften beim Betrieb mehrerer Kraftwerke
 
 (1) Betreibt der Steuerpflichtige außer dem Kraftwerk, für das eine steuerfreie Rücklage nach § 1 in Anspruch genommen wird, noch andere mit Gemeinschaftskohle betriebene Kraftwerke, die vor dem 1. Juli 1964 in Betrieb genommen worden sind, so vermindern sich die für die Bildung der steuerfreien Rücklage berücksichtigungsfähigen Kosten des Kraftwerks, wenn eines dieser anderen Kraftwerke auf den Betrieb mit einem anderen Brennstoff als Gemeinschaftskohle umgestellt wird. Die berücksichtigungsfähigen Kosten des Kraftwerks sind in diesem Fall um den Teil zu kürzen, der dem Verhältnis der Leistung des Kraftwerks, das auf den Betrieb mit einem anderen Brennstoff umgestellt wurde, zur Leistung des Kraftwerks entspricht, für das die steuerfreie Rücklage nach § 1 in Anspruch genommen wird. Findet die Umstellung auf den Betrieb mit einem anderen Brennstoff statt, nachdem die steuerfreie Rücklage bereits gebildet worden ist, so ist sie gewinnerhöhend aufzulösen, soweit sie die nach Satz 2 zulässige Höhe übersteigt. § 3 Abs. 2 Satz 2 ist entsprechend anzuwenden.
 
@@ -38,8 +33,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die sich nach diesen Vorschriften ergebende Minderung der berücksichtigungsfähigen Kosten des Kraftwerks nicht mehr als 25 vom Hundert betragen würde. Bei der Feststellung, ob diese Grenze erreicht ist, sind alle Umstellungen auf den Betrieb mit einem anderen Brennstoff als Gemeinschaftskohle zu berücksichtigen, die seit Inbetriebnahme des Kraftwerks, für das eine steuerfreie Rücklage nach § 1 in Anspruch genommen wird, vorgenommen worden sind.
 
-
-## § 3 – Auflösung der steuerfreien Rücklage
+# § 3 – Auflösung der steuerfreien Rücklage
 
 (1) Ist ein Kraftwerk, für das eine steuerfreie Rücklage nach § 1 in Anspruch genommen worden ist, bis zum Ende des zehnten auf den Betriebsbeginn folgenden Wirtschaftsjahrs ausschließlich mit Gemeinschaftskohle betrieben worden, so ist die steuerfreie Rücklage zu diesem Zeitpunkt erfolgsneutral aufzulösen.
 
@@ -49,26 +43,22 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften zu erlassen, nach denen Absatz 2 auch dann nicht anzuwenden ist, wenn ein Kraftwerk vor Ablauf des zehnten auf den Betriebsbeginn folgenden Wirtschaftsjahres neben Gemeinschaftskohle andere Steinkohle bis zu 25 vom Hundert des gesamten Kohleverbrauchs im Jahr einsetzt. Voraussetzung ist, daß die Anwendung dieses Gesetzes und des Gesetzes zur Sicherung des Steinkohleneinsatzes in der Elektrizitätswirtschaft vom 5. September 1966 (Bundesgesetzbl. I S. 545) zu übermäßigen Absatzeinbußen für andere Steinkohle als Gemeinschaftskohle führt und die Absatzlage der Gemeinschaftskohle eine Ausnahmeregelung nach Satz 1 gestattet. Die Ausnahmeregelung darf nur für Kraftwerke zugelassen werden, für die die nach § 1 zulässige steuerfreie Rücklage voll in Anspruch genommen worden ist und bei denen das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bescheinigt hat, daß die durch den Einsatz von Gemeinschaftskohle an Stelle von Heizöl insgesamt entstandenen Mehrkosten die steuerlichen Vorteile übersteigen, die sich durch die Rücklage ergeben. Für diese Fälle ist vorzusehen, daß die steuerfreie Rücklage am Schluß des zehnten auf den Betriebsbeginn folgenden Wirtschaftsjahres erfolgsneutral aufzulösen ist.
 
-
-## § 4 – Erweiterung, Kesselerneuerung und Umstellung bestehender Kraftwerke
+# § 4 – Erweiterung, Kesselerneuerung und Umstellung bestehender Kraftwerke
 
 (1) Die Vorschriften der §§ 1 bis 3 sind entsprechend anzuwenden, wenn bestehende Kraftwerke erweitert werden und die durch die Erweiterung erzielte Steigerung der Stromerzeugung ausschließlich auf dem Verbrauch von Gemeinschaftskohle beruht, oder wenn in bestehenden Kraftwerken neue Kessel für den Einsatz von Gemeinschaftskohle eingebaut werden. In diesen Fällen tritt an die Stelle der berücksichtigungsfähigen Kosten des Kraftwerks die Summe der Anschaffungs- oder Herstellungskosten, die für die Erweiterung des Kraftwerks oder für den Einbau des neuen Kessels aufgewendet worden sind.
 
 (2) Die Vorschriften der §§ 1 bis 3 sind entsprechend anzuwenden, wenn bestehende Kraftwerke vom Betrieb mit anderen Brennstoffen als Gemeinschaftskohle auf den Betrieb mit Gemeinschaftskohle umgestellt werden. In diesem Fall tritt an die Stelle der berücksichtigungsfähigen Kosten des Kraftwerks die Summe der Anschaffungs- oder Herstellungskosten, die für die Umstellung des Kraftwerks aufgewendet worden sind.
 
-
-## § 5
+# § 5
 
 (1) Ist nach §§ 1, 2 und 4 eine steuerfreie Rücklage gebildet worden, so ist diese bei der Ermittlung des Einheitswerts des gewerblichen Betriebs in gleicher Höhe abzuziehen, wie sie in der Bilanz für den letzten Bilanzstichtag vor dem für die Ermittlung des Einheitswerts des gewerblichen Betriebs maßgebenden Bewertungsstichtag ausgewiesen worden ist. In den Fällen des § 2 Abs. 1 Satz 3 und des § 3 Abs. 2 Satz 1 ist die Vermögensteuer nachzuerheben, die infolge des Abzugs der steuerfreien Rücklage weniger entrichtet zu werden brauchte.
 
 (2) Die Vorschriften der §§ 1, 2, 3 - mit Ausnahme des Absatzes 2 Satz 2 - und § 4 gelten auch für die Ermittlung des Gewerbeertrages nach § 7 des Gewerbesteuergesetzes. In den Fällen des § 2 Abs. 1 Satz 3 und des § 3 Abs. 2 Satz 1 wird ein Zuschlag zur Gewerbesteuer nach dem Gewerbeertrag von 3 vom Hundert der aufgelösten steuerfreien Rücklage erhoben. Für die Gewerbesteuer nach dem Gewerbekapital gilt Absatz 1 Satz 2 entsprechend.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

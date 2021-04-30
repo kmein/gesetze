@@ -1,20 +1,15 @@
-# [Art115V] Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach § 5 des Artikel 115-Gesetzes  (Artikel 115-Verordnung - Art115V)
-
-Ausfertigungsdatum: 09.06.2010
-
+% Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach § 5 des Artikel 115-Gesetzes  (Artikel 115-Verordnung - Art115V)
+% Ausfertigungsdatum: 09.06.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Absatz 4 Satz 1 des Artikel 115-Gesetzes vom 10. August 2009 (BGBl. I S. 2702, 2704) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Gegenstand der Verordnung
+# § 1 – Gegenstand der Verordnung
 
 Diese Verordnung regelt die Ermittlung der Konjunkturkomponente bei der Aufstellung des Bundeshaushalts nach § 2 Absatz 2 des Gesetzes, bei Nachträgen zum Haushaltsgesetz nach § 8 Satz 3 des Gesetzes sowie nach Abschluss des Haushaltsjahres nach § 7 Absatz 1 Satz 1 des Gesetzes.
 
-
-## § 2 – Ermittlung der Konjunkturkomponente bei der Haushaltsaufstellung
+# § 2 – Ermittlung der Konjunkturkomponente bei der Haushaltsaufstellung
 
 (1) Die Konjunkturkomponente bei der Haushaltsaufstellung (§ 2 Absatz 2 des Gesetzes in Verbindung mit § 5 des Gesetzes) wird durch Multiplikation der nach Absatz 2 bestimmten Produktionslücke mit der nach Absatz 3 bestimmten Budgetsensitivität errechnet.
 
@@ -24,17 +19,14 @@ Diese Verordnung regelt die Ermittlung der Konjunkturkomponente bei der Aufstell
 
 (4) Datengrundlage für die Ermittlung der Konjunkturkomponente sind die Angaben der Volkswirtschaftlichen Gesamtrechnungen des Statistischen Bundesamtes sowie die jeweils aktuelle gesamtwirtschaftliche Vorausschätzung der Bundesregierung für die kurze und die mittlere Frist.
 
-
-## § 3 – Ermittlung der Konjunkturkomponente nach Haushaltsabschluss
+# § 3 – Ermittlung der Konjunkturkomponente nach Haushaltsabschluss
 
 Bei der Ermittlung der nach § 7 des Gesetzes auf dem Kontrollkonto zu buchenden Abweichung ist für die Errechnung der zulässigen Kreditaufnahme die Wirkung der konjunkturellen Entwicklung auf den Haushalt zugrunde zu legen (Konjunkturkomponente nach Haushaltsabschluss). Dazu wird die zum Zeitpunkt der Haushaltsaufstellung nach § 2 ermittelte Konjunkturkomponente an die tatsächliche Wirtschaftsentwicklung angepasst, indem die zum Zeitpunkt der Haushaltsaufstellung ermittelte Produktionslücke für das betreffende Haushaltsjahr korrigiert wird. Die Korrektur erfolgt auf Basis der Differenz zwischen der zum Zeitpunkt der Buchung auf dem Kontrollkonto vom Statistischen Bundesamt festgestellten und der zum Zeitpunkt der Haushaltsaufstellung erwarteten Veränderung des Bruttoinlandsprodukts.
 
-
-## § 4 – Ermittlung der Konjunkturkomponente bei Nachträgen zum Haushaltsgesetz
+# § 4 – Ermittlung der Konjunkturkomponente bei Nachträgen zum Haushaltsgesetz
 
 Bei Nachträgen zum Haushaltsgesetz nach § 8 Satz 3 des Gesetzes wird die zum Zeitpunkt der Haushaltsaufstellung nach § 2 ermittelte Konjunkturkomponente an die zwischenzeitlich veränderte Einschätzung der gesamtwirtschaftlichen Entwicklung im Haushaltsjahr angepasst, indem die zum Zeitpunkt der Haushaltsaufstellung ermittelte Produktionslücke um die Differenz zwischen der zum Zeitpunkt der Aufstellung des Nachtragshaushalts und der zum Zeitpunkt der Haushaltsaufstellung erwarteten Veränderung des Bruttoinlandsprodukts im Haushaltsjahr korrigiert wird.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

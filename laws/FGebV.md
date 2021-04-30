@@ -1,15 +1,11 @@
-# [FGebV] Frequenzgebührenverordnung  (FGebV)
-
-Ausfertigungsdatum: 21.05.1997
-
+% Frequenzgebührenverordnung  (FGebV)
+% Ausfertigungsdatum: 21.05.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 48 Abs. 1 Satz 2 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGBl. I S. 1120) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Post und Telekommunikation im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium der Finanzen, dem Bundesministerium der Justiz und dem Bundesministerium für Wirtschaft:
 
-
-## § 1 – Erheben von Gebühren
+# § 1 – Erheben von Gebühren
 
 (1) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren bestimmen sich nach der Anlage. Auslagen sind in die Gebühren einbezogen.
 
@@ -19,8 +15,7 @@ Auf Grund des § 48 Abs. 1 Satz 2 des Telekommunikationsgesetzes vom 25. Juli 19
 
 (4) Für Frequenzzuteilungen auf Grund von Anträgen, die vor dem 1. Januar 2003 bei der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen vollständig vorlagen, werden Gebühren nach den in der Anlage zu § 1 Abs. 1 der Frequenzgebührenverordnung vom 21. Mai 1997 (BGBl. I S. 1226), geändert durch die Dritte Verordnung zur Änderung der Frequenzgebührenverordnung vom 13. Dezember 2001 (BGBl. I S. 3624), festgelegten Gebührentatbeständen und Gebührenhöhen erhoben.
 
-
-## § 2 – Gebührenbefreiungen
+# § 2 – Gebührenbefreiungen
 
 Bei Frequenzzuteilungen an
 
@@ -34,13 +29,11 @@ Bei Frequenzzuteilungen an
 
 kann auf Antrag Gebührenbefreiung gewährt werden. Sie darf nur für solche zugeteilten Frequenzen gewährt werden, die die Begünstigten überwiegend für Aufgaben nutzen, die ihnen auf Grund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarungen übertragen worden sind.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
 
-
-## Anlage – (zu § 1 Abs. 1)
+# Anlage – (zu § 1 Abs. 1)
 
 (Fundstelle: BGBl. I 2002, 4565 - 4568;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

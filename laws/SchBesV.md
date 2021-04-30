@@ -1,10 +1,7 @@
-# [SchBesV] Schiffsbesetzungsverordnung  (SchBesV)
-
-Ausfertigungsdatum: 18.07.2013
-
+% Schiffsbesetzungsverordnung  (SchBesV)
+% Ausfertigungsdatum: 18.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 9 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2 und mit Absatz 2 Satz
 –  
 des § 113 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2 Nummer 1 des Seearbeitsgesetzes vom 23. April 2013 (BGBl. I S. 868) im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich und Begriffsbestimmungen
+# § 1 – Anwendungsbereich und Begriffsbestimmungen
 
 (1) Diese Verordnung gilt für die Besetzung der Kauffahrteischiffe, die die Bundesflagge führen (Schiffe).
 
@@ -29,8 +25,7 @@ des § 113 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2 Nummer 1 des Seearb
 
 Soweit nach dieser Verordnung einem Unionsbürger Rechte oder Pflichten zustehen oder zugewiesen sind oder Vorschriften auf das Erfordernis der Unionsbürgerschaft abstellen, steht ein Staatsangehöriger eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, der nicht Mitgliedstaat der Europäischen Union ist, einem Unionsbürger gleich.
 
-
-## § 2 – Verpflichtungen des Reeders
+# § 2 – Verpflichtungen des Reeders
 
 (1) Der Reeder hat das Schiff nach Anzahl, Befähigung und Eignung der Besatzungsmitglieder so zu besetzen, dass
 
@@ -44,8 +39,7 @@ Soweit nach dieser Verordnung einem Unionsbürger Rechte oder Pflichten zustehen
 
 5. die sprachliche Verständigung der Besatzungsmitglieder untereinander
 
-gewährleistet sind.  
-Bei der Besetzung des Schiffes sind ferner die betrieblichen Voraussetzungen, insbesondere der Schiffstyp, der Automationsstand, die Ausrüstung, der Einsatzzweck, die Hafenfolge, das Fahrtgebiet und die Art der zu befördernden Ladung zu berücksichtigen.
+gewährleistet sind. Bei der Besetzung des Schiffes sind ferner die betrieblichen Voraussetzungen, insbesondere der Schiffstyp, der Automationsstand, die Ausrüstung, der Einsatzzweck, die Hafenfolge, das Fahrtgebiet und die Art der zu befördernden Ladung zu berücksichtigen.
 
 (2) Der Reeder hat unbeschadet seiner Verpflichtung nach Absatz 1 und der Verpflichtungen des Kapitäns nach § 3 dafür zu sorgen, dass
 
@@ -55,8 +49,7 @@ Bei der Besetzung des Schiffes sind ferner die betrieblichen Voraussetzungen, in
 
 3. das Schiffsbesatzungszeugnis an Bord mitgeführt wird.
 
-
-## § 3 – Verpflichtungen des Kapitäns
+# § 3 – Verpflichtungen des Kapitäns
 
 Der Kapitän hat im Rahmen seiner Befugnisse an Bord des Schiffes dafür zu sorgen, dass
 
@@ -72,13 +65,11 @@ b) der Berufsgenossenschaft, der Bundespolizei, der Zollverwaltung und den Wasse
 
 4. ein Abdruck des Schiffsbesatzungszeugnisses an geeigneter Stelle an Bord ausgehängt wird.
 
-
-## § 4 – Kapitän
+# § 4 – Kapitän
 
 Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän Unionsbürger sein.
 
-
-## § 5 – Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder
+# § 5 – Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder
 
 (1) Auf Schiffen mit einer Bruttoraumzahl von über 500 muss von den Offizieren des nautischen oder technischen Schiffsdienstes mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss ein weiterer Schiffsoffizier nach Satz 1 Unionsbürger sein.
 
@@ -86,8 +77,7 @@ Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän Unionsbürger 
 
 (3) Auf Schiffen mit einer Bruttoraumzahl von über 1 600 muss von den wachbefähigten Besatzungsmitgliedern mindestens einer Unionsbürger sein. Auf Schiffen mit einer Bruttoraumzahl von bis zu 3 000 kann der nach Absatz 2 vorgeschriebene Schiffsmechaniker durch ein weiteres wachbefähigtes Besatzungsmitglied nach Satz 1 ersetzt werden.
 
-
-## § 6 – Schiffsarzt, Gesundheits- und Krankenpflegepersonal
+# § 6 – Schiffsarzt, Gesundheits- und Krankenpflegepersonal
 
 (1) Auf Schiffen mit einer Fahrtdauer von mehr als drei Tagen und mit 100 oder mehr Personen an Bord muss ein den seearbeitsrechtlichen Anforderungen entsprechender Schiffsarzt vorhanden sein, der für die ärztliche Betreuung an Bord zuständig ist. Satz 1 gilt nicht, soweit das Schiff ausschließlich über eine Zulassung für die nationale Fahrt verfügt. Im Falle einer Probefahrt gilt Satz 1 unabhängig von der Fahrtdauer.
 
@@ -95,8 +85,7 @@ Unabhängig von der Bruttoraumzahl des Schiffes muss der Kapitän Unionsbürger 
 
 (3) Auf Schiffen mit Schiffsarzt muss ein Gesundheits- und Krankenpfleger oder ein Pflegefachmann oder eine Pflegefachfrau an Bord vorhanden sein. Auf Schiffen mit mehr als 500 Personen müssen zwei, mit mehr als 800 Personen drei und mit mehr als 1 200 Personen vier Gesundheits- und Krankenpfleger oder Pflegefachmänner oder Pflegefachfrauen an Bord vorhanden sein. Bei Probefahrten können sie durch die entsprechende Anzahl von Rettungssanitätern oder Rettungshelfern ersetzt werden.
 
-
-## § 7 – Schiffskoch
+# § 7 – Schiffskoch
 
 (1) Auf jedem Schiff muss ein Schiffskoch vorhanden und für die Zubereitung von Speisen ausgebildet und qualifiziert sein. Für diese Tätigkeit können Besatzungsmitglieder eingesetzt werden, die
 
@@ -112,8 +101,7 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 (2) Auf Schiffen mit weniger als zehn vorgeschriebenen Besatzungsmitgliedern kann der Reeder auf den Einsatz eines Schiffskochs nach Absatz 1 verzichten, wenn das für die Zubereitung von Speisen verantwortliche Besatzungsmitglied eine Ausbildung oder Unterweisung in den Bereichen Nahrungsmittel- und persönliche Hygiene sowie Handhabung und Lagerung von Verpflegung an Bord erhalten hat.
 
-
-## § 8 – Schiffsbesatzungszeugnis
+# § 8 – Schiffsbesatzungszeugnis
 
 (1) Die Berufsgenossenschaft erteilt auf Antrag des Reeders ein Schiffsbesatzungszeugnis nach dem vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt veröffentlichten Muster, wenn die Voraussetzungen des § 2 Absatz 1 und 2 und der §§ 4 bis 7 vorliegen. Das Schiffsbesatzungszeugnis kann, auch nachträglich, mit Nebenbestimmungen versehen werden. Schiffe mit einer Länge von acht Metern oder weniger benötigen kein Schiffsbesatzungszeugnis.
 
@@ -121,15 +109,13 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 (3) Der Reeder ist verpflichtet, Änderungen der für die Erteilung des Schiffsbesatzungszeugnisses maßgeblichen Voraussetzungen der Berufsgenossenschaft unverzüglich anzuzeigen und ein den geänderten Voraussetzungen entsprechendes Schiffsbesatzungszeugnis zu beantragen. Erteilt die Berufsgenossenschaft in diesem Fall ein neues Schiffsbesatzungszeugnis, so zieht sie das bisherige Schiffsbesatzungszeugnis ein.
 
-
-## § 9 – Überwachung
+# § 9 – Überwachung
 
 (1) Die Berufsgenossenschaft überwacht die Einhaltung der Vorschriften dieser Verordnung und führt die dazu erforderlichen Überprüfungen durch. Hierbei kann sie sich der Vollzugshilfe der Wasserschutzpolizeien der Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben sowie der Bundespolizei und der Zollverwaltung bedienen.
 
 (2) Fehlt es an einem gültigen Schiffsbesatzungszeugnis oder ist ein Schiff nicht entsprechend dem Schiffsbesatzungszeugnis besetzt, hat die Berufsgenossenschaft das Auslaufen oder die Weiterfahrt zu verbieten oder nur unter Bedingungen oder Auflagen zu gestatten, durch welche die Sicherheit des Schiffes und der an Bord befindlichen Personen gewährleistet wird. Von einem Auslauf- oder Weiterfahrtverbot, das in Häfen ausgesprochen wird, unterrichtet die Berufsgenossenschaft unverzüglich die zuständige Hafenbehörde.
 
-
-## § 9a – Gewährleistung eines sicheren Wachdienstes
+# § 9a – Gewährleistung eines sicheren Wachdienstes
 
 (1) Der Reeder und der Kapitän haben dafür zu sorgen, dass alle zum Wachdienst eingeteilten Besatzungsmitglieder die im Internationalen Übereinkommen vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung (STCW-Übereinkommen) enthaltenen Vorschriften, Grundsätze und Anleitungen kennen und beachten, damit sichergestellt ist, dass jederzeit in einer den herrschenden Umständen und Verhältnissen angemessenen Weise sicher und ohne zeitliche Unterbrechung Wachen gegangen werden.
 
@@ -145,8 +131,7 @@ Besatzungsmitglieder unter 18 Jahren dürfen nicht als Schiffskoch eingesetzt we
 
 Satz 1 Nummer 1 gilt nicht auf Fischereifahrzeugen in der Küstenfischerei und in der Kleinen Hochseefischerei.
 
-
-## § 10 – Ausnahmen
+# § 10 – Ausnahmen
 
 (1) Die Berufsgenossenschaft kann auf Antrag des Reeders für ein bestimmtes Schiff weitere Schiffsbesatzungszeugnisse erteilen, wenn die betrieblichen Voraussetzungen dies rechtfertigen oder erfordern. Im Falle des Satzes 1 gilt § 8 Absatz 3 Satz 2 nicht.
 
@@ -154,8 +139,7 @@ Satz 1 Nummer 1 gilt nicht auf Fischereifahrzeugen in der Küstenfischerei und i
 
 (3) In Notfällen kann die Berufsgenossenschaft eine Ausnahmegenehmigung erteilen, nach der abweichend von § 7 Absatz 1 ein anderes Besatzungsmitglied während einer bestimmten begrenzten Zeit bis zum nächsten leicht erreichbaren Anlaufhafen oder längstens in einem Zeitraum von bis zu einem Monat die Aufgaben des Schiffskochs wahrnehmen darf. In diesen Fällen muss das Besatzungsmitglied in den Bereichen Lebensmittelhygiene und persönlicher Hygiene sowie Handhabung und Lagerung von Verpflegung an Bord in dem Umfang ausgebildet oder unterwiesen werden, der für die Wahrnehmung der Aufgaben erforderlich ist.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -169,8 +153,7 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes hand
 
 5. einer vollziehbaren Anordnung oder einer vollziehbaren Auflage nach § 9 Absatz 2 Satz 1 zuwiderhandelt.
 
-
-## § 12 – Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung
+# § 12 – Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung
 
 (1) Die Wirksamkeit eines vor Inkrafttreten dieser Verordnung erteilten Schiffsbesatzungszeugnisses wird durch das Inkrafttreten dieser Verordnung nicht berührt.
 
@@ -180,8 +163,7 @@ Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den Offizieren d
 
 (3) Die Auswirkungen des Absatzes 2 werden nach Ablauf von vier Jahren, beginnend am 17. Juni 2016, evaluiert.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. August 2013 in Kraft.
 

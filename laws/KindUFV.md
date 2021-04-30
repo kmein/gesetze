@@ -1,10 +1,7 @@
-# [KindUFV] Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über den Unterhalt minderjähriger Kinder  (Kindesunterhalt-Formularverordnung - KindUFV)
-
-Ausfertigungsdatum: 19.06.1998
-
+% Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über den Unterhalt minderjähriger Kinder  (Kindesunterhalt-Formularverordnung - KindUFV)
+% Ausfertigungsdatum: 19.06.1998
  
-
-## § 1 – Formulare
+# § 1 – Formulare
 
 (1) Im vereinfachten Verfahren zur Festsetzung des Unterhalts für ein minderjähriges Kind wird das in der Anlage bestimmte Formular für den Antrag auf Festsetzung des Unterhalts nach den §§ 249 und 250 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit verwendet.
 
@@ -16,13 +13,11 @@ Ausfertigungsdatum: 19.06.1998
 
 verlangt wird. Wird das Formular nach § 3 Nummer 2 so angepasst, dass dem Gericht die Angaben als strukturierter Datensatz übermittelt werden können, sollen die nach Satz 1 Nummer 1 und 2 antragsberechtigten Behörden dieses Formular nutzen.
 
-
-## § 2 – Ausführung der Formulare
+# § 2 – Ausführung der Formulare
 
 Das in Anlage bestimmte Formular für den Antrag auf Festsetzung von Unterhalt soll in der erforderlichen Stückzahl als Durchschreibesatz ausgeführt werden, der insbesondere die für die Zustellung erforderliche Abschrift des Antrags mit einem Formular der Mitteilung des Gerichts nach § 251 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit enthält.
 
-
-## § 3 – Zulässige Abweichungen
+# § 3 – Zulässige Abweichungen
 
 Folgende Abweichungen von dem in der Anlage bestimmten Formular sind zulässig:
 
@@ -32,13 +27,11 @@ Folgende Abweichungen von dem in der Anlage bestimmten Formular sind zulässig:
 
 3. Verringerung oder Erweiterung der notwendigen Ausfüllfelder für Fälle, in denen Unterhalt für weniger oder mehr Kinder geltend gemacht wird oder aus anderen Gründen Ausfüllfelder für weitere Angaben notwendig sind.
 
-
-## § 4 – Übergangsvorschrift
+# § 4 – Übergangsvorschrift
 
 Für Verfahren, die bis zum 31. Dezember 2016 beantragt wurden, sind die bis dahin geltenden Formulare zu verwenden.
 
-
-## Anlage (zu § 1 Absatz 1)
+# Anlage (zu § 1 Absatz 1)
 
 <a href="../normengrafiken/bgbl1_2015/j2018-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 

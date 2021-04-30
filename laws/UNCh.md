@@ -1,5 +1,3 @@
-# [UNCh] Charta der Vereinten Nationen
-
-Ausfertigungsdatum: 26.06.1945
-
+% Charta der Vereinten Nationen
+% Ausfertigungsdatum: 26.06.1945
  

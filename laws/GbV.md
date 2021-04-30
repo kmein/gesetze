@@ -1,17 +1,13 @@
-# [GbV] Verordnung über die Bestellung von Gefahrgutbeauftragten in Unternehmen  (Gefahrgutbeauftragtenverordnung - GbV)
-
-Ausfertigungsdatum: 25.02.2011
-
+% Verordnung über die Bestellung von Gefahrgutbeauftragten in Unternehmen  (Gefahrgutbeauftragtenverordnung - GbV)
+% Ausfertigungsdatum: 25.02.2011
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Die nachfolgenden Vorschriften gelten für jedes Unternehmen, dessen Tätigkeit die Beförderung gefährlicher Güter auf der Straße, auf der Schiene, auf schiffbaren Binnengewässern und mit Seeschiffen umfasst.
 
 (2) Die in dem jeweiligen Abschnitt 1.8.3 des Übereinkommens vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR), der Anlage der Ordnung für die internationale Eisenbahnbeförderung gefährlicher Güter (RID) – Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr (COTIF) und des Europäischen Übereinkommens über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN) für die Beförderung gefährlicher Güter auf der Straße, auf der Schiene und auf schiffbaren Binnengewässern getroffenen Regelungen sind auch auf die Beförderung gefährlicher Güter mit Seeschiffen anzuwenden.
 
-
-## § 2 – Befreiungen
+# § 2 – Befreiungen
 
 (1) Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
 
@@ -31,8 +27,7 @@ Ausfertigungsdatum: 25.02.2011
 
 (2) Die Befreiungstatbestände nach Absatz 1 können auch nebeneinander in Anspruch genommen werden.
 
-
-## § 3 – Bestellung von Gefahrgutbeauftragten
+# § 3 – Bestellung von Gefahrgutbeauftragten
 
 (1) Sobald ein Unternehmen an der Beförderung gefährlicher Güter beteiligt ist und ihm Pflichten als Beteiligter in der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt oder in der Gefahrgutverordnung See zugewiesen sind, muss es mindestens einen Sicherheitsberater für die Beförderung gefährlicher Güter (Gefahrgutbeauftragter) schriftlich bestellen. Werden mehrere Gefahrgutbeauftragte bestellt, so sind deren Aufgaben gegeneinander abzugrenzen und schriftlich festzulegen. Nimmt der Unternehmer die Funktion des Gefahrgutbeauftragten selbst wahr, ist eine Bestellung nicht erforderlich.
 
@@ -44,13 +39,11 @@ Ausfertigungsdatum: 25.02.2011
 
 (5) Die zuständige Behörde trifft die zur Einhaltung dieser Verordnung erforderlichen Anordnungen. Sie kann insbesondere die Abberufung des bestellten Gefahrgutbeauftragten und die Bestellung eines anderen Gefahrgutbeauftragten verlangen.
 
-
-## § 4 – Schulungsnachweis
+# § 4 – Schulungsnachweis
 
 Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt 1.8.3.18 ADR/RID/ADN erteilt, wenn der Betroffene an einer Schulung nach § 5 teilgenommen und eine Prüfung nach § 6 Absatz 1 mit Erfolg abgelegt hat. Der Schulungsnachweis gilt fünf Jahre und kann jeweils um weitere fünf Jahre verlängert werden, wenn der Betroffene eine Prüfung nach § 6 Absatz 4 mit Erfolg abgelegt hat.
 
-
-## § 5 – Schulungsanforderungen
+# § 5 – Schulungsanforderungen
 
 (1) Die Schulung erfolgt in einem nach § 7 Absatz 1 Nummer 2 anerkannten Lehrgang.
 
@@ -64,8 +57,7 @@ Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt 1.8.3.18 A
 
 (6) Der Schulungsveranstalter darf Schulungen nur bei Vorliegen aller Voraussetzungen nach Absatz 1 bis 5 durchführen.
 
-
-## § 6 – Prüfungen
+# § 6 – Prüfungen
 
 (1) Die Prüfung besteht aus einer schriftlichen Prüfung, die ganz oder teilweise auch als elektronische Prüfung durchgeführt werden kann. Die Grundsätze der Prüfung richten sich nach Absatz 1.8.3.12.2 bis 1.8.3.12.5 ADR/RID/ADN.
 
@@ -79,8 +71,7 @@ Der Schulungsnachweis wird mit den Mindestangaben nach Unterabschnitt 1.8.3.18 A
 
 (6) Prüfungen dürfen nur bei Vorliegen aller Voraussetzungen nach Absatz 1 bis 5 durchgeführt werden.
 
-
-## § 7 – Zuständigkeiten
+# § 7 – Zuständigkeiten
 
 (1) Die Industrie- und Handelskammern sind zuständig für
 
@@ -102,8 +93,7 @@ Für die Erteilung einer Ausnahme nach § 6 Absatz 3 Satz 2 ist die Industrie- u
 
 (4) Das Bundesministerium der Verteidigung und das Bundesministerium des Innern, für Bau und Heimat bestimmen die zuständigen Behörden im Sinne des § 3 Absatz 4 und 5 für ihren Dienstbereich.
 
-
-## § 8 – Pflichten des Gefahrgutbeauftragten
+# § 8 – Pflichten des Gefahrgutbeauftragten
 
 (1) Der Gefahrgutbeauftragte hat die Aufgaben nach Unterabschnitt 1.8.3.3 ADR/RID/ADN wahrzunehmen.
 
@@ -137,8 +127,7 @@ Der Jahresbericht muss keine Angaben über die Beförderung gefährlicher Güter
 
 (6) Der Gefahrgutbeauftragte muss den Schulungsnachweis nach § 4 der zuständigen Behörde auf Verlangen vorlegen. Er hat dafür zu sorgen, dass dieser Schulungsnachweis rechtzeitig verlängert wird.
 
-
-## § 9 – Pflichten der Unternehmer
+# § 9 – Pflichten der Unternehmer
 
 (1) Der Unternehmer darf den Gefahrgutbeauftragten wegen der Erfüllung der ihm übertragenen Aufgaben nicht benachteiligen.
 
@@ -162,8 +151,7 @@ Der Jahresbericht muss keine Angaben über die Beförderung gefährlicher Güter
 
 (5) Der Unternehmer hat auf Verlangen der zuständigen Behörde die Unfallberichte nach Unterabschnitt 1.8.3.6 ADR/RID/ADN vorzulegen.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 10 Absatz 1 Nummer 1 Buchstabe b des Gesetzes über die Beförderung gefährlicher Güter handelt, wer vorsätzlich oder fahrlässig
 
@@ -199,11 +187,8 @@ d) entgegen § 8 Absatz 5 Satz 1 einen Jahresbericht nicht, nicht richtig, nicht
 
 e) entgegen § 8 Absatz 6 Satz 1 den Schulungsnachweis nicht oder nicht rechtzeitig vorlegt.
 
+# § 11 – (Übergangsbestimmungen)
 
-## § 11 – (Übergangsbestimmungen)
+# § 12 – (Aufheben von Vorschriften)
 
-
-## § 12 – (Aufheben von Vorschriften)
-
-
-## § 13 – (Inkrafttreten)
+# § 13 – (Inkrafttreten)

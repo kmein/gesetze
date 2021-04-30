@@ -1,18 +1,13 @@
-# [LuftSchlichtV] Verordnung nach § 57c des Luftverkehrsgesetzes zur Schlichtung im Luftverkehr  (Luftverkehrsschlichtungsverordnung - LuftSchlichtV)
-
-Ausfertigungsdatum: 11.10.2013
-
+% Verordnung nach § 57c des Luftverkehrsgesetzes zur Schlichtung im Luftverkehr  (Luftverkehrsschlichtungsverordnung - LuftSchlichtV)
+% Ausfertigungsdatum: 11.10.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57c Satz 1 und 2 erster Halbsatz des Luftverkehrsgesetzes, der durch Artikel 1 Nummer 3 des Gesetzes vom 11. Juni 2013 (BGBl. I S. 1545) eingefügt worden ist, verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung, dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz und dem Bundesministerium für Wirtschaft und Technologie:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anerkennung
+# § 1 – Anerkennung
 
 (1) Privatrechtlich organisierte Einrichtungen können als Schlichtungsstellen nach § 57 Absatz 1 des Luftverkehrsgesetzes anerkannt werden, wenn die Schlichtungsstellen, die Durchführung der Schlichtungsverfahren und die Regelung der Entgelte folgenden Anforderungen entsprechen:
 
@@ -26,20 +21,17 @@ Auf Grund des § 57c Satz 1 und 2 erster Halbsatz des Luftverkehrsgesetzes, der 
 
 (2) Jede Änderung der Verfahrensordnung und der Regelung der Entgelte hat die Schlichtungsstelle dem Bundesministerium der Justiz und für Verbraucherschutz mindestens zwei Monate vor Inkrafttreten der Änderung anzuzeigen.
 
-
-## § 2 – Sitz
+# § 2 – Sitz
 
 Die Schlichtungsstelle hat ihren Sitz in der Bundesrepublik Deutschland zu nehmen.
 
-
-## § 3 – Besetzung und Geschäftsverteilung der Schlichtungsstelle
+# § 3 – Besetzung und Geschäftsverteilung der Schlichtungsstelle
 
 (1) Die Schlichtungsstelle ist mit mindestens zwei Schlichtern zu besetzen. Die Schlichter vertreten sich gegenseitig.
 
 (2) Vor jedem Geschäftsjahr ist die Geschäftsverteilung festzulegen. Eine Änderung der Geschäftsverteilung während des Geschäftsjahres ist nur aus wichtigem Grund zulässig.
 
-
-## § 4 – Schlichter
+# § 4 – Schlichter
 
 (1) Die Schlichtung erfolgt durch einen Schlichter.
 
@@ -67,15 +59,13 @@ Die Abberufung bedarf der Zustimmung des Beirats.
 
 (5) Schlichter haben über alles, was ihnen bei oder bei Gelegenheit ihrer Tätigkeit bekannt wird, Verschwiegenheit zu bewahren. Dies gilt auch nach Beendigung ihrer Tätigkeit. Die Schlichter haben die Beteiligten über den Umfang ihrer Verschwiegenheitspflichten zu informieren.
 
-
-## § 5 – Besorgnis der Befangenheit
+# § 5 – Besorgnis der Befangenheit
 
 (1) Ein Schlichter darf nicht bei einer Streitigkeit tätig werden, wenn ein Grund vorliegt, der geeignet ist, Misstrauen gegen seine Unparteilichkeit zu rechtfertigen. Die Tätigkeit kann fortgeführt werden, wenn der Schlichter den Beteiligten die Umstände offenlegt, die seine Unparteilichkeit beeinträchtigen können, und die Beteiligten der Fortführung seiner Tätigkeit ausdrücklich zustimmen.
 
 (2) Das Nähere regelt die Verfahrensordnung nach § 8.
 
-
-## § 6 – Beirat
+# § 6 – Beirat
 
 (1) Die Schlichtungsstelle unterhält einen Beirat, in dem die Interessen der Unternehmen und Verbraucher repräsentiert werden. Dazu gehören dem Beirat in jeweils gleicher Anzahl an:
 
@@ -89,13 +79,11 @@ Die Abberufung bedarf der Zustimmung des Beirats.
 
 (4) Die Beiratsmitglieder werden für mindestens vier Jahre bestellt. Wiederbestellung ist zulässig.
 
-
-## § 7 – Geschäftsstelle
+# § 7 – Geschäftsstelle
 
 Die Schlichtungsstelle richtet eine Geschäftsstelle ein. Für die in der Geschäftsstelle tätigen Personen gilt § 4 Absatz 5 Satz 1 und 2 entsprechend.
 
-
-## § 8 – Verfahrensordnung
+# § 8 – Verfahrensordnung
 
 (1) Die Schlichtungsstelle hat sich eine Verfahrensordnung zu geben, die die Anforderungen an die Schlichtungsstelle und das Schlichtungsverfahren nach den folgenden Vorschriften näher bestimmt:
 
@@ -109,13 +97,11 @@ Die Schlichtungsstelle richtet eine Geschäftsstelle ein. Für die in der Gesch�
 
 (2) Die Verfahrensordnung bedarf der Zustimmung des Beirats.
 
-
-## § 9 – Tätigkeitsbericht
+# § 9 – Tätigkeitsbericht
 
 Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und zu veröffentlichen. Dem Bundesministerium der Justiz und für Verbraucherschutz ist unverzüglich nach Veröffentlichung eine Kopie des Tätigkeitsberichts zu übersenden.
 
-
-## § 10 – Verfahrensgrundsätze
+# § 10 – Verfahrensgrundsätze
 
 (1) Verfahrenssprache ist deutsch, sofern sich nicht Schlichtungsstelle, Fluggast und Luftfahrtunternehmen im Einzelfall auf eine andere Verfahrenssprache verständigen.
 
@@ -123,8 +109,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (3) Die Beteiligten können sich im Verfahren vertreten lassen. Auf Verlangen der Schlichtungsstelle ist eine schriftliche Vollmacht einzureichen. Die Beteiligten dürfen nicht verpflichtet werden, sich vertreten zu lassen.
 
-
-## § 11 – Anrufung der Schlichtungsstelle
+# § 11 – Anrufung der Schlichtungsstelle
 
 (1) Die Anrufung der Schlichtungsstelle erfolgt unter Angabe des Sachverhalts und der Forderung sowie unter Beifügung erforderlicher Belege. Der Fluggast hat weiterhin darzulegen, dass eine Streitigkeit über Ansprüche nach § 57b Absatz 1 des Luftverkehrsgesetzes vorliegt, er den Anspruch unmittelbar gegenüber dem Luftfahrtunternehmen geltend gemacht hat und der Anspruch von dem Luftfahrtunternehmen abgelehnt wurde oder der Anspruch von dem Luftfahrtunternehmen weder anerkannt noch abgelehnt wurde und seit der Geltendmachung mehr als zwei Monate vergangen sind.
 
@@ -132,8 +117,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (3) Ist die Anrufung der Schlichtungsstelle nicht formgerecht erfolgt oder fehlen nach Absatz 1 erforderliche Angaben oder Belege, teilt die Schlichtungsstelle dies dem Fluggast mit und fordert ihn auf, innerhalb von drei Wochen die Mängel der Anrufung zu beheben. Dies gilt auch dann, wenn Anhaltspunkte dafür bestehen, dass die Schlichtungsstelle nach § 57b Absatz 2 des Luftverkehrsgesetzes nicht angerufen werden kann. Die Frist nach Satz 1 kann verlängert werden. Werden die Mängel nicht fristgerecht behoben, so gilt das Schlichtungsbegehren als zurückgenommen. Die Schlichtungsstelle teilt dem Fluggast mit, dass ein Schlichtungsverfahren nicht durchgeführt wird.
 
-
-## § 12 – Unzulässigkeit der Schlichtung
+# § 12 – Unzulässigkeit der Schlichtung
 
 (1) Wird eine Schlichtungsstelle wegen einer Streitigkeit angerufen, die der Schlichtung nach den §§ 57 bis 57b des Luftverkehrsgesetzes oder einer Schlichtung durch diese Schlichtungsstelle nicht unterliegt, lehnt der Schlichter die Schlichtung ab. Kann wegen der Streitigkeit eine andere Schlichtungsstelle angerufen werden, gibt die Schlichtungsstelle das Schlichtungsbegehren unter Benachrichtigung des Fluggastes an die andere Schlichtungsstelle ab.
 
@@ -143,8 +127,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (4) Die Ablehnungen nach Absatz 1 Satz 1 sowie nach den Absätzen 2 und 3 sind kurz und verständlich zu begründen. Die Schlichtungsstelle teilt dem Fluggast die Ablehnung innerhalb von drei Wochen, nachdem sie von dem Ablehnungsgrund Kenntnis erlangt hat, mit.
 
-
-## § 13 – Schlichtungsverfahren
+# § 13 – Schlichtungsverfahren
 
 (1) Wird eine Schlichtung nicht nach § 12 abgelehnt, leitet die Schlichtungsstelle das Schlichtungsbegehren dem Luftfahrtunternehmen zu. Das Luftfahrtunternehmen kann binnen vier Wochen Stellung nehmen. Der Fluggast ist hierüber in Kenntnis zu setzen. Die Schlichtungsstelle kann das Luftfahrtunternehmen auffordern, seine Angaben und Unterlagen innerhalb von weiteren zwei Wochen zu ergänzen. Die privatrechtlich organisierte Schlichtungsstelle kann in ihrer Verfahrensordnung die Fristen nach den Sätzen 2 und 4 verkürzen.
 
@@ -158,8 +141,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (6) Sobald keine weiteren Angaben und Unterlagen mehr benötigt werden (Eingang der vollständigen Beschwerdeakte), benachrichtigt die Schlichtungsstelle die Beteiligten.
 
-
-## § 14 – Schlichtungsvorschlag
+# § 14 – Schlichtungsvorschlag
 
 (1) Der Schlichter unterbreitet auf der Grundlage der Darlegungen der Beteiligten unter Berücksichtigung der vorgelegten Belege einen Schlichtungsvorschlag. Der Schlichtungsvorschlag folgt dem geltenden Recht und muss geeignet sein, den Streit der Beteiligten angemessen beizulegen. Der Schlichtungsvorschlag kann auch in der Mitteilung bestehen, dass der geltend gemachte Anspruch in vollem Umfang besteht oder nicht besteht. Der Schlichtungsvorschlag kann auch eine Empfehlung enthalten, ob und in welchem Umfang weitere Kosten, die nicht bei der Schlichtungsstelle angefallen sind, von den Beteiligten getragen werden sollen.
 
@@ -169,8 +151,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (4) Mit der Übermittlung des Schlichtungsvorschlags sind die Beteiligten auf die Möglichkeit der Annahme, ihre Frist nach § 15 Absatz 1 und ihre Form hinzuweisen sowie darauf, dass sie zur Annahme nicht verpflichtet sind und bei Annahme des Schlichtungsvorschlags durch beide Beteiligte eine vertragliche Bindungswirkung eintritt. Der Fluggast ist zusätzlich darauf hinzuweisen, dass er bei Annahme durch beide Beteiligte den ursprünglich geltend gemachten Anspruch nicht mehr erfolgreich gerichtlich geltend machen kann. Er ist ferner darauf hinzuweisen, dass er bei Nichtannahme durch einen Beteiligten berechtigt ist, die Gerichte anzurufen.
 
-
-## § 15 – Beendigung der Schlichtung
+# § 15 – Beendigung der Schlichtung
 
 (1) Der Schlichtungsvorschlag kann innerhalb von vier Wochen ab Zugang bei den Beteiligten angenommen werden.
 
@@ -178,8 +159,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (3) Kommt es nicht zu einer Einigung, ist die Mitteilung nach Absatz 2 als Bescheinigung über einen erfolglosen Einigungsversuch nach § 15a Absatz 3 Satz 3 des Gesetzes betreffend die Einführung der Zivilprozessordnung zu bezeichnen. Die Namen der Beteiligten sind anzugeben.
 
-
-## § 16 – Vereinfachtes Verfahren
+# § 16 – Vereinfachtes Verfahren
 
 (1) Die privatrechtlich organisierte Schlichtungsstelle kann in ihrer Verfahrensordnung vorsehen, dass die Schlichtungsstelle dem Luftfahrtunternehmen mit der Zuleitung des Schlichtungsbegehrens nach § 13 Absatz 1 Satz 1 einen Schlichtungsvorschlag übersendet, der auf den Darlegungen des Fluggastes basiert und im Übrigen § 14 Absatz 1 Satz 2 bis 4 sowie Absatz 2 entspricht. Wird ein solcher Schlichtungsvorschlag übersandt, unterrichtet die Schlichtungsstelle den Fluggast hierüber unter Beifügung des Schlichtungsvorschlags, sobald das Luftfahrtunternehmen nach § 13 Absatz 1 Satz 2 Stellung genommen hat.
 
@@ -187,8 +167,7 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (3) Für vereinfachte Verfahren nach den Absätzen 1 und 2 gelten § 14 Absatz 4 Satz 1 und 2 sowie § 15 Absatz 1 und 2 Satz 1 entsprechend. Kommt es zu einer Einigung, ist das Schlichtungsverfahren beendet. Andernfalls wird das Schlichtungsverfahren fortgesetzt.
 
-
-## § 17 – Nachweisverfahren
+# § 17 – Nachweisverfahren
 
 (1) Zum Nachweis der Voraussetzungen für ein Entgelt nach § 57 Absatz 5 des Luftverkehrsgesetzes erstellt die Schlichtungsstelle für den Zeitraum von zwei Jahren ab Anerkennung und Aufnahme der Schlichtung eine Übersicht über die Anzahl und die Ergebnisse der Schlichtungsfälle. Dabei sind die Schlichtungsverfahren, in denen der Anspruch nach dem Schlichtungsvorschlag ganz oder teilweise begründet war, und die, in denen der Anspruch nach dem Schlichtungsvorschlag unbegründet war, gesondert darzustellen.
 
@@ -196,19 +175,16 @@ Die Schlichtungsstelle hat jährlich einen Tätigkeitsbericht zu erstellen und z
 
 (3) Das Bundesamt für Justiz prüft, ob der Nachweis nach § 57 Absatz 5 Satz 1 des Luftverkehrsgesetzes erbracht ist, und fordert die Schlichtungsstelle gegebenenfalls zur Ergänzung von Angaben und Unterlagen auf.
 
-
-## § 17a – Verhältnis zum Verbraucherstreitbeilegungsgesetz
+# § 17a – Verhältnis zum Verbraucherstreitbeilegungsgesetz
 
 Für das Verhältnis der Vorschriften dieser Rechtsverordnung zu den Vorschriften des Verbraucherstreitbeilegungsgesetzes und der auf Grund des § 42 Absatz 1 dieses Gesetzes erlassenen Rechtsverordnungen gilt § 57d des Luftverkehrsgesetzes.
 
-
-## § 18 – Übergangsregelung
+# § 18 – Übergangsregelung
 
 (1) § 6 Absatz 1 Satz 2, Absatz 2 und 3 ist auf privatrechtlich organisierte Einrichtungen, die bereits vor dem 1. November 2013 von der Bundesregierung als Schlichtungsstellen im Verkehrsbereich anerkannt worden sind, erst ab dem 9. Juli 2015 anzuwenden.
 
 (2) Die durch Artikel 22 des Gesetzes zur Umsetzung der Richtlinie über alternative Streitbeilegung in Verbraucherangelegenheiten und zur Durchführung der Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten vom 19. Februar 2016 (BGBl. I S. 254) geänderten und eingefügten Vorschriften dieser Rechtsverordnung gelten nicht für Ansprüche, die vor dem 1. April 2016 entstanden sind.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2013 in Kraft.

@@ -1,20 +1,15 @@
-# [FZulG] Gesetz zur steuerlichen Förderung von Forschung und Entwicklung  (Forschungszulagengesetz - FZulG)
-
-Ausfertigungsdatum: 14.12.2019
-
+% Gesetz zur steuerlichen Förderung von Forschung und Entwicklung  (Forschungszulagengesetz - FZulG)
+% Ausfertigungsdatum: 14.12.2019
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anspruchsberechtigung
+# § 1 – Anspruchsberechtigung
 
 (1) Anspruchsberechtigt sind Steuerpflichtige im Sinne des Einkommensteuer- und des Körperschaftsteuergesetzes, soweit sie Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes erzielen, nicht von der Besteuerung befreit sind und die in diesem Gesetz aufgeführten Voraussetzungen erfüllen.
 
 (2) Bei Mitunternehmerschaften nach § 15 Absatz 1 Satz 1 Nummer 2 des Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen die Mitunternehmerschaft als Anspruchsberechtigter.
 
-
-## § 2 – Begünstigte Forschungs- und Entwicklungsvorhaben
+# § 2 – Begünstigte Forschungs- und Entwicklungsvorhaben
 
 (1) Forschungs- und Entwicklungsvorhaben sind begünstigt, soweit sie einer oder mehreren der Kategorien Grundlagenforschung, industrielle Forschung oder experimentelle Entwicklung zuzuordnen sind.
 
@@ -32,8 +27,7 @@ Ausfertigungsdatum: 14.12.2019
 
 (5) Werden Forschungs- und Entwicklungsvorhaben im Sinne des Absatzes 1 in Auftrag gegeben, sind diese nur dann begünstigt, wenn der Auftragnehmer seinen Sitz in einem Mitgliedstaat der Europäischen Union hat oder in einem anderen Staat, auf den das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen) Anwendung findet und der aufgrund vertraglicher Verpflichtung Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leistet, der für die Überprüfung der Anspruchsvoraussetzungen erforderlich ist.
 
-
-## § 3 – Förderfähige Aufwendungen und Bemessungsgrundlage
+# § 3 – Förderfähige Aufwendungen und Bemessungsgrundlage
 
 (1) Förderfähige Aufwendungen sind die beim Anspruchsberechtigten dem Lohnsteuerabzug gemäß § 38 Absatz 1 des Einkommensteuergesetzes unterliegenden Arbeitslöhne für Arbeitnehmer, die der Arbeitnehmer unmittelbar vom Arbeitgeber erhält, sowie die Ausgaben des Arbeitgebers für die Zukunftssicherung des Arbeitnehmers nach § 3 Nummer 62 des Einkommensteuergesetzes. Die in Satz 1 bezeichneten Aufwendungen sind nur förderfähig, soweit die Arbeitnehmer mit Forschungs- und Entwicklungstätigkeiten in begünstigten Forschungs- und Entwicklungsvorhaben im Sinne des § 2 Absatz 1 des Anspruchsberechtigten betraut sind. Zu den in den Sätzen 1 und 2 bezeichneten Aufwendungen gehören auch solche aufgrund eines zwischen einer Kapitalgesellschaft und einem Gesellschafter oder Anteilseigner abgeschlossenen Anstellungsvertrages, der die Voraussetzungen für den Lohnsteuerabzug des Arbeitslohns erfüllt.
 
@@ -49,15 +43,13 @@ Ausfertigungsdatum: 14.12.2019
 
 (7) Für Kooperationsvorhaben im Sinne des § 2 Absatz 4 Nummer 2 und 3 gilt für jeden am Vorhaben beteiligten Anspruchsberechtigten die Bemessungsgrundlage im Sinne des Absatzes 5, soweit nicht die Voraussetzungen des Absatzes 6 vorliegen.
 
-
-## § 4 – Höhe der Forschungszulage
+# § 4 – Höhe der Forschungszulage
 
 (1) Die Forschungszulage beträgt 25 Prozent der Bemessungsgrundlage nach § 3 Absatz 5. Der Anspruch auf Forschungszulage entsteht mit Ablauf des Wirtschaftsjahres, in dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 und 2 vom Arbeitnehmer bezogen worden sind oder die nach § 3 Absatz 3 und 4 förderfähigen Aufwendungen beim Anspruchsberechtigten entstanden sind.
 
 (2) Die Summe der für ein Forschungs- und Entwicklungsvorhaben gewährten staatlichen Beihilfen darf einschließlich der Forschungszulagen nach diesem Gesetz pro Unternehmen und Forschungs- und Entwicklungsvorhaben den Betrag von 15 000 000 Euro nicht überschreiten.
 
-
-## § 5 – Antrag auf Forschungszulage
+# § 5 – Antrag auf Forschungszulage
 
 (1) Der Anspruchsberechtigte hat nach Ablauf des Wirtschaftsjahres, in dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 und 2 vom Arbeitnehmer bezogen worden sind oder die nach § 3 Absatz 3 und 4 förderfähigen Aufwendungen entstanden sind, einen Antrag auf Forschungszulage nach amtlich vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle bei dem für die Besteuerung des Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu stellen. Ist eine Mitunternehmerschaft Anspruchsberechtigter, so ist der Antrag bei dem Finanzamt zu stellen, das für die einheitliche und gesonderte Feststellung der Einkünfte zuständig ist.
 
@@ -65,8 +57,7 @@ Ausfertigungsdatum: 14.12.2019
 
 (3) Dem Antrag ist die Bescheinigung nach § 6 für die im Antrag aufgeführten Forschungs- und Entwicklungsvorhaben beizufügen. Der Anspruchsberechtigte hat im Antrag zu versichern, dass sich die im Rahmen des Bescheinigungsverfahrens nach § 6 erklärten und der Bescheinigung zu Grunde gelegten Sachverhalte nicht verändert haben.
 
-
-## § 6 – Bescheinigung
+# § 6 – Bescheinigung
 
 (1) Grundlage für die Festsetzung der Forschungszulage ist eine Bescheinigung der auf Grundlage der nach § 14 zu erlassenen Rechtsverordnung bestimmten Stelle für jedes im Antrag aufgeführte Forschungs- und Entwicklungsvorhaben des Anspruchsberechtigten.
 
@@ -74,8 +65,7 @@ Ausfertigungsdatum: 14.12.2019
 
 (3) Die erste Bescheinigung für ein Wirtschaftsjahr ist für den Antragsteller vorbehaltlich des Satzes 2 gebührenfrei. Im Fall weiterer Anträge auf Bescheinigung für Forschungs- und Entwicklungsvorhaben desselben Wirtschaftsjahres können ab der Ausstellung der zweiten Bescheinigung nach Absatz 1 Gebühren und Auslagen nach Maßgabe des Bundesgebührengesetzes erhoben werden.
 
-
-## § 7 – Kumulierung mit anderen Förderungen oder staatlichen Beihilfen
+# § 7 – Kumulierung mit anderen Förderungen oder staatlichen Beihilfen
 
 (1) Die Forschungszulage kann vorbehaltlich des Absatzes 2 neben anderen Förderungen oder staatlichen Beihilfen für das begünstigte Forschungs- und Entwicklungsvorhaben gewährt werden.
 
@@ -83,13 +73,11 @@ Ausfertigungsdatum: 14.12.2019
 
 (3) In den Antrag nach § 5 sind die Angaben aufzunehmen, die für die Feststellung der Voraussetzungen nach Absatz 2 erforderlich sind.
 
-
-## § 8 – Begünstigungszeitraum
+# § 8 – Begünstigungszeitraum
 
 Die Forschungszulage kann nur für Forschungs- und Entwicklungsvorhaben im Sinne des § 2 beansprucht werden, mit deren Arbeiten nach dem 1. Januar 2020 begonnen wird oder für die der Auftrag nach dem 1. Januar 2020 erteilt wird.
 
-
-## § 9 – Anzuwendende Rechtsvorschriften der Europäischen Union
+# § 9 – Anzuwendende Rechtsvorschriften der Europäischen Union
 
 (1) Auf dieses Gesetz findet vorbehaltlich des Absatzes 5 die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union, im Folgenden Allgemeine Gruppenfreistellungsverordnung (AGVO) (ABl. L 187 vom 26.6.2014, S. 1), in der jeweils geltenden Fassung Anwendung.
 
@@ -101,8 +89,7 @@ Die Forschungszulage kann nur für Forschungs- und Entwicklungsvorhaben im Sinne
 
 (5) Die Forschungszulage kann für den Teil der Bemessungsgrundlage, der auf Aufwendungen im Sinne des § 3 Absatz 3 entfällt, nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1) (De-minimis-Verordnung) in der jeweils geltenden Fassung eingehalten sind. Unter anderem darf hiernach der Gesamtbetrag der einem einzigen Unternehmen gewährten De-minimis-Beihilfe in einem Zeitraum von drei Veranlagungszeiträumen maximal 200 000 Euro nicht übersteigen. Bei dieser Höchstgrenze sind auch andere in diesem Zeitraum an das Unternehmen gewährte De-minimis-Beihilfen gleich welcher Art und Zielsetzung zu berücksichtigen. Die Forschungszulage kann insoweit erst gewährt werden, wenn der Anspruchsberechtigte in geeigneter Weise den Nachweis erbracht hat, in welcher Höhe ihm in den beiden vorangegangenen sowie im laufenden Veranlagungszeitraum De-minimis-Beihilfen gewährt worden sind, für die die vorliegende oder andere De-minimis-Verordnungen gelten, und nur soweit, wie die Voraussetzungen der De-minimis-Verordnung bei dem Unternehmen im Sinne der De-minimis-Verordnung eingehalten werden.
 
-
-## § 10 – Festsetzung und Leistung der Forschungszulage
+# § 10 – Festsetzung und Leistung der Forschungszulage
 
 (1) Die Forschungszulage ist in einem Forschungszulagenbescheid festzusetzen. Die festgesetzte Forschungszulage wird im Rahmen der nächsten erstmaligen Festsetzung von Einkommen- oder Körperschaftsteuer vollständig auf die festgesetzte Steuer angerechnet. Ergibt sich nach der Anrechnung nach Satz 2 ein Überschuss zugunsten des Steuerpflichtigen, wird dieser dem Steuerpflichtigen als Einkommensteuererstattung aus den Einnahmen an Einkommensteuer oder als Körperschaftsteuererstattung bei Steuerpflichtigen im Sinne des Körperschaftsteuergesetzes aus den Einnahmen an Körperschaftsteuer ausgezahlt.
 
@@ -110,23 +97,19 @@ Die Forschungszulage kann nur für Forschungs- und Entwicklungsvorhaben im Sinne
 
 (3) Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist die nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 erfolgte Anrechnung entsprechend zu ändern.
 
-
-## § 11 – Verzinsung des Rückforderungsanspruchs
+# § 11 – Verzinsung des Rückforderungsanspruchs
 
 Ist der Forschungszulagenbescheid nach § 10 aufgehoben oder zuungunsten des Anspruchsberechtigten geändert worden, ist der Rückzahlungsanspruch nach Maßgabe der §§ 238 und 239 der Abgabenordnung vom Tag der Anrechnung der Forschungszulage an zu verzinsen. Der Zinslauf endet mit Ablauf des Tages, an dem der geänderte Forschungszulagenbescheid wirksam geworden ist. Maßgebend für die Zinsberechnung ist die Differenz zwischen der neu festgesetzten Forschungszulage und der vorher festgesetzten Forschungszulage. Zinsschuldner ist, bei wem die Forschungszulage nach § 10 Absatz 1 und/oder Absatz 2 auf die Einkommen- oder Körperschaftsteuer angerechnet wurde. Die Festsetzungsfrist beginnt mit Ablauf des Kalenderjahres, in dem der Forschungszulagenbescheid aufgehoben oder geändert worden ist.
 
-
-## § 12 – Anwendung der Abgabenordnung
+# § 12 – Anwendung der Abgabenordnung
 
 Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung sind mit Ausnahme des § 163 der Abgabenordnung entsprechend anzuwenden. In öffentlich-rechtlichen Streitigkeiten über die aufgrund dieses Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg gegeben.
 
-
-## § 13 – Verfolgung von Straftaten
+# § 13 – Verfolgung von Straftaten
 
 Für die Forschungszulage gelten die Strafvorschriften des § 370 Absatz 1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 sowie die Bußgeldvorschriften der §§ 378 und 379 Absatz 1 und 4 und der §§ 383 und 384 der Abgabenordnung entsprechend. Für das Strafverfahren wegen einer Straftat nach Satz 1 sowie der Begünstigung einer Person, die eine solche Tat begangen hat, gelten die §§ 385 bis 408, für das Bußgeldverfahren wegen einer Ordnungswidrigkeit nach Satz 1 die §§ 409 bis 412 der Abgabenordnung entsprechend.
 
-
-## § 14 – Verordnungsermächtigung
+# § 14 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Bildung und Forschung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates und im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie
 
@@ -146,13 +129,11 @@ d) erforderliche Einzelangaben bei den Antragstellern im Rahmen des Bescheinigun
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung des Gesetzes durch Rechtsverordnung mit Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und der Gleichmäßigkeit der Besteuerung das Antragsverfahren nach § 5 näher zu regeln.
 
-
-## § 15 – Bekanntmachungserlaubnis
+# § 15 – Bekanntmachungserlaubnis
 
 Das Bundesministerium der Finanzen kann den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung bekannt machen.
 
-
-## § 16 – Anwendungsregelung
+# § 16 – Anwendungsregelung
 
 (1) Das Gesetz ist auf der Grundlage und im Rahmen der Vorgaben der AGVO anwendbar.
 
@@ -166,8 +147,7 @@ Das Bundesministerium der Finanzen kann den Wortlaut dieses Gesetzes in der jewe
 
 im Bundesgesetzblatt bekannt zu machen.
 
-
-## § 17 – Evaluierung und wissenschaftliche Forschung
+# § 17 – Evaluierung und wissenschaftliche Forschung
 
 (1) Die Bundesregierung wird die Anwendung dieses Gesetzes spätestens nach Ablauf von fünf Jahren auf wissenschaftlicher Grundlage evaluieren. Die Bundesregierung unterrichtet den Deutschen Bundestag über die Ergebnisse der Evaluierung.
 

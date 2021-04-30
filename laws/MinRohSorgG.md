@@ -1,20 +1,15 @@
-# [MinRohSorgG] Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten  (Mineralische-Rohstoffe-Sorgfaltspflichten-Gesetz - MinRohSorgG)
-
-Ausfertigungsdatum: 29.04.2020
-
+% Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten  (Mineralische-Rohstoffe-Sorgfaltspflichten-Gesetz - MinRohSorgG)
+% Ausfertigungsdatum: 29.04.2020
  
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 Dieses Gesetz dient der Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten (ABl. L 130 vom 19.5.2017, S. 1) sowie der zu dieser Verordnung von Rat und Europäischer Kommission erlassenen Ergänzungs- und Durchführungsbestimmungen.
 
-
-## § 2 – Zuständige Behörde
+# § 2 – Zuständige Behörde
 
 Zuständige Behörde im Sinne des Artikels 10 der Verordnung (EU) 2017/821 ist die Bundesanstalt für Geowissenschaften und Rohstoffe (Bundesanstalt).
 
-
-## § 3 – Aufgaben, Eingriffsbefugnisse
+# § 3 – Aufgaben, Eingriffsbefugnisse
 
 (1) Der Bundesanstalt obliegt die Durchführung der Verordnung (EU) 2017/821, dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der in § 1 bezeichneten Rechtsakte, soweit diese Rechtsakte den zuständigen Behörden der Mitgliedstaaten Pflichten zuweisen.
 
@@ -54,13 +49,11 @@ b) der Bundesanstalt den Prüfbericht des unabhängigen Dritten zur erneuten Kon
 
 (5) Die Bundesanstalt hat einmal jährlich über die Umsetzung der Verordnung (EU) 2017/821 im jeweils vorausgegangenen Kalenderjahr zu berichten. Der Bericht soll auf festgestellte Verstöße und angeordnete Abhilfemaßnahmen hinweisen und diese erläutern, ohne die von den konkret genannten Abhilfemaßnahmen betroffenen Unionseinführer zu benennen. Der Bericht nach Satz 1 ist erstmals für das Jahr 2021 vorzulegen und auf der Webseite der Bundesanstalt zu veröffentlichen.
 
-
-## § 4 – Datenübermittlung durch die Zollbehörden an die Bundesanstalt
+# § 4 – Datenübermittlung durch die Zollbehörden an die Bundesanstalt
 
 Die Zollbehörden übermitteln der Bundesanstalt auf deren Ersuchen die für die Erfüllung der Aufgaben der Bundesanstalt nach Artikel 13 Absatz 1 und Artikel 18 der Verordnung (EU) 2017/821 erforderlichen Informationen, die sie bei der Überführung der von der Verordnung (EU) 2017/821 erfassten Rohstoffe in den zollrechtlich freien Verkehr erlangt haben.
 
-
-## § 5 – Datenübermittlung durch die Bundesanstalt
+# § 5 – Datenübermittlung durch die Bundesanstalt
 
 (1) Die Bundesanstalt übermittelt der Europäischen Kommission sowie den zuständigen Behörden anderer Mitgliedstaaten alle nach den Artikeln 13 und 18 der Verordnung (EU) 2017/821 vorgesehenen Informationen.
 
@@ -68,8 +61,7 @@ Die Zollbehörden übermitteln der Bundesanstalt auf deren Ersuchen die für die
 
 (3) Für den Datenaustausch und die Datenerfassung, die zur Durchführung der Verordnung (EU) 2017/821 notwendig sind, kann die Bundesanstalt elektronische Systeme einsetzen.
 
-
-## § 6 – Auskunftspflichten
+# § 6 – Auskunftspflichten
 
 (1) Unionseinführer und nach § 3 Absatz 3 Nummer 2 geladene Personen sind verpflichtet, der Bundesanstalt auf Verlangen die Auskünfte zu erteilen, die die Bundesanstalt zur Durchführung der ihr durch dieses Gesetz oder aufgrund dieses Gesetzes übertragenen Aufgaben benötigt.
 
@@ -97,8 +89,7 @@ Die Zollbehörden übermitteln der Bundesanstalt auf deren Ersuchen die für die
 
 (3) Wer zur Auskunft nach Absatz 1 verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Sonstige gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
 
-
-## § 7 – Betretensrechte, Mitwirkungs- und Duldungspflichten
+# § 7 – Betretensrechte, Mitwirkungs- und Duldungspflichten
 
 (1) Zur Durchführung der Aufgaben der Bundesanstalt dürfen die mit der Überwachung beauftragten Personen der Bundesanstalt sowie Personen und Einrichtungen, derer sich die Bundesanstalt zur Durchführung ihrer Aufgaben bedient,
 
@@ -108,8 +99,7 @@ Die Zollbehörden übermitteln der Bundesanstalt auf deren Ersuchen die für die
 
 (2) Die Unionseinführer haben die Maßnahmen zu dulden. Sie haben die Personen im Sinne des Absatzes 1 bei der Durchführung der Maßnahmen zu unterstützen.
 
-
-## § 8 – Verordnungsermächtigungen
+# § 8 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, das Verfahren bei nachträglichen Kontrollen nach Artikel 11 der Verordnung (EU) 2017/821 näher zu regeln, soweit dies zur Durchsetzung der Verpflichtungen nach den Artikeln 4 bis 7 der Verordnung (EU) 2017/821 erforderlich ist. Es kann dabei Einzelheiten zu dem Verfahren bei nachträglichen Kontrollen durch die Bundesanstalt sowie zu den Auskunfts-, Duldungs- und Unterstützungspflichten regeln.
 
@@ -119,12 +109,10 @@ Die Zollbehörden übermitteln der Bundesanstalt auf deren Ersuchen die für die
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Union unanwendbar geworden sind.
 
-
-## § 9 – Zwangsgeld
+# § 9 – Zwangsgeld
 
 Die Höhe des Zwangsgelds im Verwaltungszwangsverfahren der Bundesanstalt beträgt bis zu 50 000 Euro.
 
-
-## § 10 – Zeitliche Geltung
+# § 10 – Zeitliche Geltung
 
 Die §§ 3, 6, 7 und 9 sind erst ab dem 1. Januar 2021 anzuwenden.

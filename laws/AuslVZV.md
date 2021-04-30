@@ -1,17 +1,13 @@
-# [AuslVZV] Verordnung über Zahlung eines Auslandsverwendungszuschlags  (Auslandsverwendungszuschlagsverordnung - AuslVZV)
-
-Ausfertigungsdatum: 25.09.1995
-
+% Verordnung über Zahlung eines Auslandsverwendungszuschlags  (Auslandsverwendungszuschlagsverordnung - AuslVZV)
+% Ausfertigungsdatum: 25.09.1995
  
-
-## § 1 – Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
+# § 1 – Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
 
 (1) Auslandsverwendungszuschlag wird regelmäßig nur gezahlt bei Verwendungen in einem Verband, einer Einheit oder Gruppe sowie im polizeilichen Einzeldienst. Bei sonstigen Einzelverwendungen darf Auslandsverwendungszuschlag nur gezahlt werden, wenn fachspezifische Besonderheiten einer besonderen Verwendung im Ausland eine Ausnahme rechtfertigen.
 
 (2) Eine einsatzvorbereitende Verwendung im Sinne des § 56 Absatz 1 Satz 3 Nummer 1 des Bundesbesoldungsgesetzes liegt vor, wenn sie unter vergleichbaren Bedingungen wie die besondere Verwendung im Ausland selbst durchgeführt wird und dieser unmittelbar zeitlich vorgelagert ist. Eine einsatzabschließende Verwendung im Sinne des § 56 Absatz 1 Satz 3 Nummer 2 des Bundesbesoldungsgesetzes liegt vor, wenn sie unter vergleichbaren Bedingungen wie die besondere Verwendung im Ausland selbst durchgeführt wird und dieser unmittelbar zeitlich nachgelagert ist.
 
-
-## § 2 – Materielle Mehraufwendungen und immaterielle Belastungen
+# § 2 – Materielle Mehraufwendungen und immaterielle Belastungen
 
 Als materielle Mehraufwendungen und immaterielle Belastungen im Verwendungsgebiet und am Ort der besonderen Verwendung werden berücksichtigt:
 
@@ -41,8 +37,7 @@ d) bürgerkriegsähnliche und kriegerische Auseinandersetzungen, Bürgerkrieg;
 
 3. Mehraufwendungen, die durch die besonderen Verhältnisse im Verwendungsgebiet, insbesondere durch Mängel und erschwerende Umstände bei Versorgung und Kommunikation entstehen, soweit keine reisekostenrechtlichen Ansprüche bestehen.
 
-
-## § 3 – Höhe und Festsetzung des Auslandsverwendungszuschlags
+# § 3 – Höhe und Festsetzung des Auslandsverwendungszuschlags
 
 (1) Die Mehraufwendungen und Belastungen der Verwendung werden in sechs Stufen des Auslandsverwendungszuschlags wie folgt berücksichtigt:  
   
@@ -137,15 +132,13 @@ b) vergleichbare gesundheitliche konkrete Gefährdungen; diese liegen nur vor, w
 
 (4) Der Auslandsverwendungszuschlag unterliegt nicht dem Kaufkraftausgleich.
 
-
-## § 4 – Dauer des Anspruchs
+# § 4 – Dauer des Anspruchs
 
 (1) Der Auslandsverwendungszuschlag steht für die Dauer der besonderen Verwendung im Ausland zu. Er wird vom Tage des Eintreffens im Gebiet oder am Ort der Verwendung bis zum Ende dieser Verwendung oder dem Verlassen dieses Gebietes oder Ortes während fortbestehender Verwendung gezahlt. Während einer Dienstbefreiung oder einer Erkrankung wird der Auslandsverwendungszuschlag weitergezahlt, solange der Beamte oder Soldat sich im Gebiet oder am Ort der besonderen Verwendung aufhält.
 
 (2) Bei Verwendungen auf Schiffen und in Luftfahrzeugen entsteht der Anspruch mit dem Erreichen des zur Erfüllung des Auftrags bestimmten Verwendungsgebietes und/oder des zu diesem Zwecke angelaufenen Hafens oder angeflogenen Flugplatzes/Landeplatzes innerhalb des Verwendungsgebietes. Der Auslandsverwendungszuschlag wird nicht für Tage der Verwendung außerhalb dieses Bereichs gezahlt. Insbesondere wird Auslandsverwendungszuschlag nicht gezahlt für Zeiten der Hin- und Rückreise (Fahrt, Flug) zum oder vom ausländischen Ort oder Gebiet der besonderen Verwendung.
 
-
-## § 5 – Anrechnung anderer Bezüge
+# § 5 – Anrechnung anderer Bezüge
 
 (1) Anzurechnen sind Bezüge, mit denen Belastungen abgegolten werden, die beim Auslandsverwendungszuschlag berücksichtigt worden sind.
 

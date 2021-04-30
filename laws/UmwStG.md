@@ -1,10 +1,7 @@
-# [UmwStG] Umwandlungssteuergesetz  (UmwStG)
-
-Ausfertigungsdatum: 28.10.1994
-
+% Umwandlungssteuergesetz  (UmwStG)
+% Ausfertigungsdatum: 28.10.1994
  
-
-## § 1 – Anwendungsbereich des zweiten bis siebten Teils
+# § 1 – Anwendungsbereich des zweiten bis siebten Teils
 
 (1) ¹Der zweite bis siebte Teil gilt nur für Umwandlungen im Sinne des § 1 des Umwandlungsgesetzes von Kapitalgesellschaften, eingetragenen Genossenschaften, eingetragenen Vereinen (§ 21 des Bürgerlichen Gesetzbuchs), wirtschaftlichen Vereinen (§ 22 des Bürgerlichen Gesetzbuchs), genossenschaftlichen Prüfungsverbänden, Versicherungsvereinen auf Gegenseitigkeit sowie Körperschaften und Anstalten des öffentlichen Rechts. ²Diese Teile gelten nicht für die Ausgliederung.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 2 – Steuerliche Rückwirkung
+# § 2 – Steuerliche Rückwirkung
 
 (1) ¹Das Einkommen und das Vermögen der übertragenden Körperschaft sowie der Übernehmerin sind so zu ermitteln, als ob das Vermögen der Körperschaft mit Ablauf des Stichtages der Bilanz, die dem Vermögensübergang zugrunde liegt (steuerlicher Übertragungsstichtag), ganz oder teilweise auf die Übernehmerin übergegangen wäre. ²Das Gleiche gilt für die Ermittlung der Bemessungsgrundlagen bei der Gewerbesteuer.
 
@@ -27,15 +23,13 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 3 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
+# § 3 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
 ¹Wird das Vermögen der übertragenden Körperschaft Betriebsvermögen der übernehmenden Personengesellschaft oder der übernehmenden natürlichen Person, können die Wirtschaftsgüter in der steuerlichen Schlussbilanz mit dem Buchwert oder einem höheren Wert angesetzt werden. ²Der Ansatz mit dem Buchwert ist auch zulässig, wenn in der Handelsbilanz das eingebrachte Betriebsvermögen nach handelsrechtlichen Vorschriften mit einem höheren Wert angesetzt werden muss. ³Buchwert ist der Wert, der sich nach den steuerrechtlichen Vorschriften über die Gewinnermittlung ergibt. ⁴Die Teilwerte der einzelnen Wirtschaftsgüter dürfen nicht überschritten werden.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 4 – Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft
+# § 4 – Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft
 
 (1) Die Personengesellschaft hat die auf sie übergegangenen Wirtschaftsgüter mit dem in der steuerlichen Schlussbilanz der übertragenden Körperschaft enthaltenen Wert zu übernehmen.
 
@@ -53,8 +47,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 5 – Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft in Sonderfällen
+# § 5 – Auswirkungen auf den Gewinn der übernehmenden Personengesellschaft in Sonderfällen
 
 (1) Hat die übernehmende Personengesellschaft Anteile an der übertragenden Körperschaft nach dem steuerlichen Übertragungsstichtag angeschafft oder findet sie einen Anteilseigner ab, so ist ihr Gewinn so zu ermitteln, als hätte sie die Anteile an diesem Stichtag angeschafft.
 
@@ -66,8 +59,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 6 – Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
+# § 6 – Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
 
 (1) ¹Erhöht sich der Gewinn der übernehmenden Personengesellschaft dadurch, dass der Vermögensübergang zum Erlöschen von Forderungen und Verbindlichkeiten zwischen der übertragenden Körperschaft und der Personengesellschaft oder zur Auflösung von Rückstellungen führt, so darf die Personengesellschaft insoweit eine den steuerlichen Gewinn mindernde Rücklage bilden. ²Die Rücklage ist in den auf ihre Bildung folgenden drei Wirtschaftsjahren mit mindestens je einem Drittel gewinnerhöhend aufzulösen.
 
@@ -77,15 +69,13 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 7 – Ermittlung der Einkünfte bei Anteilseignern, die nicht im Sinne des § 17 des Einkommensteuergesetzes beteiligt sind
+# § 7 – Ermittlung der Einkünfte bei Anteilseignern, die nicht im Sinne des § 17 des Einkommensteuergesetzes beteiligt sind
 
 ¹Haben Anteile an der übertragenden Körperschaft zum Zeitpunkt des Vermögensübergangs zum Privatvermögen eines Gesellschafters der übernehmenden Personengesellschaft gehört und handelt es sich nicht um Anteile im Sinne des § 17 des Einkommensteuergesetzes, so sind ihm der Teil des in der Steuerbilanz ausgewiesenen Eigenkapitals abzüglich des Bestands des steuerlichen Einlagekontos im Sinne des § 27 des Körperschaftsteuergesetzes, der sich nach Anwendung des § 29 Abs. 1 des Körperschaftsteuergesetzes ergibt, in dem Verhältnis der Anteile zum Nennkapital der übertragenden Körperschaft als Bezüge aus Kapitalvermögen im Sinne des § 20 Abs. 1 Nr. 1 des Einkommensteuergesetzes zuzurechnen. ²Für Anteile, bei deren Veräußerung ein Veräußerungsverlust nach § 17 Abs. 2 Satz 4 des Einkommensteuergesetzes nicht zu berücksichtigen wäre, gilt Satz 1 entsprechend.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 8 – Vermögensübergang auf eine Personengesellschaft ohne Betriebsvermögen
+# § 8 – Vermögensübergang auf eine Personengesellschaft ohne Betriebsvermögen
 
 (1) ¹Wird das übergehende Vermögen nicht Betriebsvermögen der übernehmenden Personengesellschaft, so sind die infolge des Vermögensübergangs entstehenden Einkünfte bei den Gesellschaftern der Personengesellschaft zu ermitteln. ²§ 4 Abs. 2 und 3, § 5 Abs. 1 und § 7 gelten entsprechend.
 
@@ -93,8 +83,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 9 – Entsprechende Anwendung von Vorschriften beim Vermögensübergang auf eine natürliche Person
+# § 9 – Entsprechende Anwendung von Vorschriften beim Vermögensübergang auf eine natürliche Person
 
 (1) Wird das Vermögen der übertragenden Körperschaft Betriebsvermögen einer natürlichen Person, so sind die §§ 4 bis 7 entsprechend anzuwenden.
 
@@ -102,15 +91,13 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 10 – Körperschaftsteuerminderung und Körperschaftsteuererhöhung
+# § 10 – Körperschaftsteuerminderung und Körperschaftsteuererhöhung
 
 ¹Die Körperschaftsteuerschuld der übertragenden Körperschaft mindert oder erhöht sich für den Veranlagungszeitraum der Umwandlung um den Betrag, der sich nach den §§ 37 und 38 des Körperschaftsteuergesetzes ergeben würde, wenn das in der Steuerbilanz ausgewiesene Eigenkapital abzüglich des Betrags, der nach § 28 Abs. 2 Satz 1 des Körperschaftsteuergesetzes in Verbindung mit § 29 Abs. 1 des Körperschaftsteuergesetzes dem steuerlichen Einlagekonto gutzuschreiben ist, als am Übertragungsstichtag für eine Ausschüttung verwendet gelten würde. ²§ 37 Abs. 2a des Körperschaftsteuergesetzes in der Fassung des Artikels 2 des Gesetzes vom 16. Mai 2003 (BGBl. I S. 660) ist nicht anzuwenden.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 11 – Auswirkungen auf den Gewinn der übertragenden Körperschaft
+# § 11 – Auswirkungen auf den Gewinn der übertragenden Körperschaft
 
 (1) ¹In der steuerlichen Schlussbilanz für das letzte Wirtschaftsjahr der übertragenden Körperschaft können die übergegangenen Wirtschaftsgüter insgesamt mit dem Wert angesetzt werden, der sich nach den steuerrechtlichen Vorschriften über die Gewinnermittlung ergibt, soweit
 
@@ -124,8 +111,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 12 – Auswirkungen auf den Gewinn der übernehmenden Körperschaft
+# § 12 – Auswirkungen auf den Gewinn der übernehmenden Körperschaft
 
 (1) ¹Für die Übernahme der übergegangenen Wirtschaftsgüter gilt § 4 Abs. 1 entsprechend. ²Beim Vermögensübergang von einer steuerfreien auf eine steuerpflichtige Körperschaft sind die übergegangenen Wirtschaftsgüter abweichend von § 4 Abs. 1 mit dem Teilwert anzusetzen.
 
@@ -139,8 +125,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 13 – Besteuerung der Gesellschafter der übertragenden Körperschaft
+# § 13 – Besteuerung der Gesellschafter der übertragenden Körperschaft
 
 (1) Die Anteile an der übertragenden Körperschaft, die zu einem Betriebsvermögen gehören, gelten als zum Buchwert veräußert und die an ihre Stelle tretenden Anteile als mit diesem Wert angeschafft.
 
@@ -152,15 +137,13 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 14 – Entsprechende Anwendung von Vorschriften, Eröffnungsbilanz
+# § 14 – Entsprechende Anwendung von Vorschriften, Eröffnungsbilanz
 
 ¹Im Falle des Formwechsels einer Kapitalgesellschaft in eine Personengesellschaft sind die §§ 3 bis 8 und 10 entsprechend anzuwenden. ²Die Kapitalgesellschaft hat für steuerliche Zwecke auf den Zeitpunkt, in dem der Formwechsel wirksam wird, eine Übertragungsbilanz, die Personengesellschaft eine Eröffnungsbilanz aufzustellen. ³Die Bilanzen nach Satz 2 können auch für einen Stichtag aufgestellt werden, der höchstens acht Monate vor der Anmeldung des Formwechsels zur Eintragung in das Handelsregister liegt (Umwandlungsstichtag). ⁴Die Sätze 1 bis 3 gelten auch für den Formwechsel einer eingetragenen Genossenschaft in eine Personengesellschaft im Sinne des § 38a des Landwirtschaftsanpassungsgesetzes.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 15 – Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
+# § 15 – Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
 
 (1) ¹Geht Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung oder durch Teilübertragung auf andere Körperschaften über, gelten die §§ 11 bis 13 vorbehaltlich des § 16 entsprechend, wenn auf die Übernehmerinnen ein Teilbetrieb übertragen wird. ²Im Falle der Abspaltung oder Teilübertragung muss das der übertragenden Körperschaft verbleibende Vermögen ebenfalls zu einem Teilbetrieb gehören. ³Als Teilbetrieb gilt auch ein Mitunternehmeranteil oder die Beteiligung an einer Kapitalgesellschaft, die das gesamte Nennkapital der Gesellschaft umfasst.
 
@@ -172,22 +155,19 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 16 – Aufspaltung oder Abspaltung auf eine Personengesellschaft
+# § 16 – Aufspaltung oder Abspaltung auf eine Personengesellschaft
 
 ¹Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung auf eine Personengesellschaft übergeht, gelten die §§ 3 bis 8, 10 und 15 entsprechend. ²§ 10 ist für den in § 40 Abs. 2 Satz 3 des Körperschaftsteuergesetzes bezeichneten Teil der Beträge im Sinne der §§ 37 und 38 des Körperschaftsteuergesetzes anzuwenden. ³Ein verbleibender Verlustvortrag der übertragenden Kapitalgesellschaft mindert sich in dem Verhältnis, in dem das Vermögen auf eine Personengesellschaft übergeht.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 18 – Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
+# § 18 – Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
 
 (1) ¹Die §§ 3 bis 9, 14 und 16 gelten bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft vorbehaltlich des Absatzes 2 auch für die Ermittlung des Gewerbeertrags. ²Der maßgebende Gewerbeertrag der übernehmenden Personengesellschaft oder natürlichen Person kann nicht um die vortragsfähigen Fehlbeträge der übertragenden Körperschaft im Sinne des § 10a des Gewerbesteuergesetzes gekürzt werden.
 
@@ -199,8 +179,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 19 – Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
+# § 19 – Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
 
 (1) Geht das Vermögen der übertragenden Körperschaft auf eine andere Körperschaft über, so gelten die §§ 11 bis 13 und 15 auch für die Ermittlung des Gewerbeertrags.
 
@@ -208,8 +187,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 20 – Bewertung des eingebrachten Betriebsvermögens und der Gesellschaftsanteile
+# § 20 – Bewertung des eingebrachten Betriebsvermögens und der Gesellschaftsanteile
 
 (1) ¹Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in eine unbeschränkt körperschaftsteuerpflichtige Kapitalgesellschaft (§ 1 Abs. 1 Nr. 1 des Körperschaftsteuergesetzes) eingebracht und erhält der Einbringende dafür neue Anteile an der Gesellschaft (Sacheinlage), so gelten für die Bewertung des eingebrachten Betriebsvermögens und der neuen Gesellschaftsanteile die nachfolgenden Absätze. ²Satz 1 ist auch auf die Einbringung von Anteilen an einer Kapitalgesellschaft anzuwenden, wenn die übernehmende Kapitalgesellschaft auf Grund ihrer Beteiligung einschließlich der übernommenen Anteile nachweisbar unmittelbar die Mehrheit der Stimmrechte an der Gesellschaft hat, deren Anteile eingebracht werden.
 
@@ -229,8 +207,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 21 – Besteuerung des Anteilseigners
+# § 21 – Besteuerung des Anteilseigners
 
 (1) ¹Werden Anteile an einer Kapitalgesellschaft veräußert, die der Veräußerer oder bei unentgeltlichem Erwerb der Anteile der Rechtsvorgänger durch eine Sacheinlage (§ 20 Abs. 1 und § 23 Abs. 1 bis 4) unter dem Teilwert erworben hat (einbringungsgeborene Anteile), so gilt der Betrag, um den der Veräußerungspreis nach Abzug der Veräußerungskosten die Anschaffungskosten (§ 20 Abs. 4) übersteigt, als Veräußerungsgewinn im Sinne des § 16 des Einkommensteuergesetzes. ²Sind bei einer Sacheinlage nach § 20 Abs. 1 Satz 2 oder § 23 Abs. 4 aus einem Betriebsvermögen nicht alle Anteile der Kapitalgesellschaft eingebracht worden, so ist § 16 Abs. 4 des Einkommensteuergesetzes nicht anzuwenden.
 
@@ -256,8 +233,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 22 – Auswirkungen bei der übernehmenden Kapitalgesellschaft
+# § 22 – Auswirkungen bei der übernehmenden Kapitalgesellschaft
 
 (1) Setzt die Kapitalgesellschaft das eingebrachte Betriebsvermögen mit dem Buchwert (§ 20 Abs. 2 Satz 2) an, so gelten § 4 Abs. 2 Satz 3 und § 12 Abs. 3 Satz 1 entsprechend.
 
@@ -275,8 +251,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 23 – Einbringung in der Europäischen Union
+# § 23 – Einbringung in der Europäischen Union
 
 (1) ¹Bringt eine unbeschränkt körperschaftsteuerpflichtige Kapitalgesellschaft (§ 1 Abs. 1 Nr. 1 des Körperschaftsteuergesetzes) einen Betrieb oder Teilbetrieb in eine inländische Betriebsstätte einer Kapitalgesellschaft ein, die die Voraussetzungen des Artikels 3 der Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 (ABl. EG Nr. L 225 S. 1) erfüllt (EU-Kapitalgesellschaft) und beschränkt körperschaftsteuerpflichtig ist, und erhält die einbringende Kapitalgesellschaft dafür neue Anteile an der übernehmenden Kapitalgesellschaft, so gelten für die Bewertung des eingebrachten Betriebsvermögens in der Betriebsstätte der übernehmenden Kapitalgesellschaft und der neuen Anteile bei der einbringenden Kapitalgesellschaft § 20 Abs. 2 Satz 1 bis 4 und 6, Abs. 4 Satz 1, Abs. 5 Satz 2, Abs. 7 und 8 entsprechend. ²Satz 1 gilt auch, wenn die einbringende Kapitalgesellschaft nur steuerpflichtig ist, soweit sie einen wirtschaftlichen Geschäftsbetrieb unterhält, oder wenn die inländische Betriebsstätte der übernehmenden Kapitalgesellschaft erst durch die Einbringung des Betriebs oder Teilbetriebs entsteht.
 
@@ -288,8 +263,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 24 – Einbringung von Betriebsvermögen in eine Personengesellschaft
+# § 24 – Einbringung von Betriebsvermögen in eine Personengesellschaft
 
 (1) Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in eine Personengesellschaft eingebracht und wird der Einbringende Mitunternehmer der Gesellschaft, so gelten für die Bewertung des eingebrachten Betriebsvermögens die Absätze 2 bis 4.
 
@@ -301,15 +275,13 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 25 – Entsprechende Anwendung des achten Teils
+# § 25 – Entsprechende Anwendung des achten Teils
 
 ¹Der achte Teil gilt in den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesellschaft im Sinne des § 190 des Umwandlungsgesetzes entsprechend. ²Die übertragende Gesellschaft hat eine Steuerbilanz auf den steuerlichen Übertragungsstichtag aufzustellen.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 26 – Wegfall von Steuererleichterungen
+# § 26 – Wegfall von Steuererleichterungen
 
 (1) ¹Die Anwendbarkeit des § 6 entfällt rückwirkend, wenn die Übernehmerin den auf sie übergegangenen Betrieb innerhalb von fünf Jahren nach dem steuerlichen Übertragungsstichtag in eine Kapitalgesellschaft einbringt oder ohne triftigen Grund veräußert oder aufgibt. ²Bereits erteilte Steuerbescheide, Steuermessbescheide, Freistellungsbescheide oder Feststellungsbescheide sind zu ändern, soweit sie auf der Anwendung der in Satz 1 bezeichneten Vorschrift beruhen.
 
@@ -317,8 +289,7 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 27 – Anwendungsvorschriften
+# § 27 – Anwendungsvorschriften
 
 (1) Dieses Gesetz ist erstmals auf den Übergang von Vermögen anzuwenden, der auf Rechtsakten beruht, die nach dem 31. Dezember 1994 wirksam werden.
 
@@ -352,15 +323,13 @@ Ausfertigungsdatum: 28.10.1994
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## § 28 – Ermächtigung
+# § 28 – Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen in der jeweils geltenden Fassung satzweise nummeriert mit neuem Datum und in neuer Paragraphenfolge bekannt zu machen und dabei Unstimmigkeiten im Wortlaut zu beseitigen.
 
 (+++ Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006) +++)
 
-
-## Anlage – (zu § 23)
+# Anlage – (zu § 23)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4143 u. 4144)
 

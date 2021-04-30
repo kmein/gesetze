@@ -1,10 +1,7 @@
-# [EuVtrÜbkProtG] Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof der Europäischen Gemeinschaften
-
-Ausfertigungsdatum: 16.11.1995
-
+% Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof der Europäischen Gemeinschaften
+% Ausfertigungsdatum: 16.11.1995
  
-
-## Art 1
+# Art 1
 
 Den folgenden in Brüssel am 19. Dezember 1988 von der Bundesrepublik Deutschland unterzeichneten Protokollen wird zugestimmt:
 
@@ -14,8 +11,7 @@ Den folgenden in Brüssel am 19. Dezember 1988 von der Bundesrepublik Deutschlan
 
 Die Protokolle werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) In dem Vorlagebeschluß an den Gerichtshof zur Vorabentscheidung ist die zu klärende Auslegungsfrage darzulegen und
 
@@ -25,13 +21,11 @@ Die Protokolle werden nachstehend veröffentlicht.
 
 (2) Soweit dies zur Beurteilung der Auslegungsfrage erforderlich ist, ist der Sach- und Streitstand in gedrängter Form darzustellen.
 
-
-## Art 3
+# Art 3
 
 Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt die zuständige Stelle im Sinne des Artikels 3 des Ersten Protokolls.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

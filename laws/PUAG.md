@@ -1,10 +1,7 @@
-# [PUAG] Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages  (Untersuchungsausschussgesetz - PUAG)
-
-Ausfertigungsdatum: 19.06.2001
-
+% Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages  (Untersuchungsausschussgesetz - PUAG)
+% Ausfertigungsdatum: 19.06.2001
  
-
-## § 1 – Einsetzung
+# § 1 – Einsetzung
 
 (1) Der Bundestag hat das Recht und auf Antrag eines Viertels seiner Mitglieder die Pflicht, einen Untersuchungsausschuss einzusetzen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 19.06.2001
 
 (3) Ein Untersuchungsverfahren ist zulässig im Rahmen der verfassungsmäßigen Zuständigkeit des Bundestages.
 
-
-## § 2 – Rechte der qualifizierten Minderheit bei der Einsetzung
+# § 2 – Rechte der qualifizierten Minderheit bei der Einsetzung
 
 (1) Ist die Einsetzung von einem Viertel der Mitglieder des Bundestages beantragt, so hat der Bundestag sie unverzüglich zu beschließen.
 
@@ -21,37 +17,31 @@ Ausfertigungsdatum: 19.06.2001
 
 (3) Hält der Bundestag den Einsetzungsantrag für teilweise verfassungswidrig, so ist der Untersuchungsausschuss mit der Maßgabe einzusetzen, dass dessen Untersuchungen auf diejenigen Teile des Untersuchungsgegenstandes zu beschränken sind, die der Bundestag für nicht verfassungswidrig hält. Das Recht der Antragstellenden, wegen der teilweisen Ablehnung des Einsetzungsantrages das Bundesverfassungsgericht anzurufen, bleibt unberührt.
 
-
-## § 3 – Gegenstand der Untersuchung
+# § 3 – Gegenstand der Untersuchung
 
 Der Untersuchungsausschuss ist an den ihm erteilten Untersuchungsauftrag gebunden. Eine nachträgliche Änderung des Untersuchungsauftrages bedarf eines Beschlusses des Bundestages; § 2 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 4 – Zusammensetzung
+# § 4 – Zusammensetzung
 
 Der Bundestag bestimmt bei der Einsetzung die Zahl der ordentlichen und die gleich große Zahl der stellvertretenden Mitglieder des Untersuchungsausschusses. Die Bemessung der Zahl hat einerseits die Mehrheitsverhältnisse widerzuspiegeln und andererseits die Aufgabenstellung und die Arbeitsfähigkeit des Untersuchungsausschusses zu berücksichtigen. Jede Fraktion muss vertreten sein. Die Berücksichtigung von Gruppen richtet sich nach den allgemeinen Beschlüssen des Bundestages. Die Zahl der auf die Fraktionen entfallenden Sitze wird nach dem Verfahren der mathematischen Proportion (St. Lague/Schepers) berechnet.
 
-
-## § 5 – Mitglieder
+# § 5 – Mitglieder
 
 Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen benannt und abberufen.
 
-
-## § 6 – Vorsitz
+# § 6 – Vorsitz
 
 (1) Für den Vorsitz der Untersuchungsausschüsse sind die Fraktionen im Verhältnis ihrer Stärke zu berücksichtigen. Der Untersuchungsausschuss bestimmt das Mitglied, das den Vorsitz führt, aus seiner Mitte nach den Vereinbarungen im Ältestenrat.
 
 (2) Der oder die Vorsitzende leitet das Untersuchungsverfahren und ist dabei an den Einsetzungsbeschluss des Bundestages und an die Beschlüsse des Untersuchungsausschusses gebunden.
 
-
-## § 7 – Stellvertretender Vorsitz
+# § 7 – Stellvertretender Vorsitz
 
 (1) Der Untersuchungsausschuss bestimmt nach den Vereinbarungen im Ältestenrat ein Mitglied für den stellvertretenden Vorsitz; dieses Mitglied muss einer anderen Fraktion als der oder die Vorsitzende angehören.
 
 (2) Der oder die stellvertretende Vorsitzende besitzt alle Rechte und Pflichten des oder der abwesenden Vorsitzenden.
 
-
-## § 8 – Einberufung
+# § 8 – Einberufung
 
 (1) Der oder die Vorsitzende beruft den Untersuchungsausschuss unter Angabe der Tagesordnung ein.
 
@@ -59,8 +49,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (3) Zur Einberufung einer Sitzung außerhalb des Zeitplanes oder außerhalb des ständigen Sitzungsortes des Bundestages ist der oder die Vorsitzende nur berechtigt, wenn ein entsprechendes Verlangen eines Viertels der Mitglieder des Untersuchungsausschusses unter Angabe der Tagesordnung vorliegt und der Präsident oder die Präsidentin des Bundestages hierzu die Genehmigung erteilt hat.
 
-
-## § 9 – Beschlussfähigkeit
+# § 9 – Beschlussfähigkeit
 
 (1) Der Untersuchungsausschuss ist beschlussfähig, wenn die Mehrheit seiner Mitglieder anwesend ist. Er gilt solange als beschlussfähig, wie nicht auf Antrag die Beschlussunfähigkeit festgestellt wird.
 
@@ -70,8 +59,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (4) Soweit in diesem Gesetz nichts anderes bestimmt ist, beschließt der Untersuchungsausschuss mit der Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit ist der Antrag abgelehnt.
 
-
-## § 10 – Ermittlungsbeauftragte
+# § 10 – Ermittlungsbeauftragte
 
 (1) Der Untersuchungsausschuss hat jederzeit das Recht und auf Antrag eines Viertels seiner Mitglieder die Pflicht, zu seiner Unterstützung eine Untersuchung zu beschließen, die von einem oder einer Ermittlungsbeauftragten durchgeführt wird. Der Ermittlungsauftrag soll zeitlich auf höchstens sechs Monate begrenzt werden.
 
@@ -81,8 +69,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (4) Ermittlungsbeauftragte sind im Rahmen ihres Auftrages unabhängig. Sie können jederzeit mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder abberufen werden. Sie haben das Recht, für ihren Ermittlungsauftrag in angemessenem Umfang Hilfskräfte einzusetzen.
 
-
-## § 11 – Protokollierung
+# § 11 – Protokollierung
 
 (1) Über die Sitzungen des Untersuchungsausschusses wird ein Protokoll angefertigt.
 
@@ -90,8 +77,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (3) Über die Art der Protokollierung der Beratungen entscheidet der Untersuchungsausschuss.
 
-
-## § 12 – Sitzungen zur Beratung
+# § 12 – Sitzungen zur Beratung
 
 (1) Die Beratungen und Beschlussfassungen des Untersuchungsausschusses sind nicht öffentlich.
 
@@ -99,15 +85,13 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (3) Über Art und Umfang von Mitteilungen an die Öffentlichkeit aus nicht öffentlichen Sitzungen entscheidet der Untersuchungsausschuss.
 
-
-## § 13 – Sitzungen zur Beweisaufnahme
+# § 13 – Sitzungen zur Beweisaufnahme
 
 (1) Die Beweiserhebung erfolgt in öffentlicher Sitzung. Ton- und Filmaufnahmen sowie Ton- und Bildübertragungen sind nicht zulässig. Der Untersuchungsausschuss kann Ausnahmen von Satz 1 zulassen. Ausnahmen von Satz 2 bedürfen einer Mehrheit von zwei Dritteln der anwesenden Mitglieder sowie der Zustimmung der zu vernehmenden oder anzuhörenden Personen.
 
 (2) Die §§ 176 bis 179 des Gerichtsverfassungsgesetzes über die Aufrechterhaltung der Ordnung in der Sitzung finden entsprechende Anwendung.
 
-
-## § 14 – Ausschluss der Öffentlichkeit
+# § 14 – Ausschluss der Öffentlichkeit
 
 (1) Der Untersuchungsausschuss schließt die Öffentlichkeit aus, wenn
 
@@ -131,8 +115,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (4) Über den Ausschluss oder die Beschränkung der Öffentlichkeit entscheidet der Untersuchungsausschuss. Der oder die Vorsitzende begründet auf Beschluss des Untersuchungsausschusses die Entscheidung in öffentlicher Sitzung.
 
-
-## § 15 – Geheimnisschutz
+# § 15 – Geheimnisschutz
 
 (1) Beweismittel, Beweiserhebungen und Beratungen kann der Untersuchungsausschuss mit einem Geheimhaltungsgrad versehen. Vor einer Entscheidung nach Satz 1 kann der oder die Vorsitzende eine vorläufige Einstufung vornehmen.
 
@@ -140,8 +123,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (3) Soweit dieses Gesetz nichts Abweichendes bestimmt, gilt für die Behandlung der Verschlusssachen sowie für streng geheime, geheime und vertrauliche Sitzungen und deren Protokollierung die Geheimschutzordnung des Bundestages.
 
-
-## § 16 – Zugang zu Verschlusssachen und Amtsverschwiegenheit
+# § 16 – Zugang zu Verschlusssachen und Amtsverschwiegenheit
 
 (1) Verschlusssachen des Geheimhaltungsgrades VS-VERTRAULICH und höher, die der Untersuchungsausschuss eingestuft oder von einer anderen herausgebenden Stelle erhalten hat, dürfen nur den Mitgliedern des Untersuchungsausschusses, den Mitgliedern des Bundesrates und der Bundesregierung sowie ihren Beauftragten zugänglich gemacht werden. Ermittlungsbeauftragten, den von ihnen eingesetzten Hilfskräften sowie den Mitarbeitern und Mitarbeiterinnen der Mitglieder des Untersuchungsausschusses, des Sekretariats und der Fraktionen im Untersuchungsausschuss dürfen sie zugänglich gemacht werden, soweit diese zum Umgang mit Verschlusssachen ermächtigt und zur Geheimhaltung förmlich verpflichtet sind.
 
@@ -149,8 +131,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (3) Wird einem Mitglied des Ausschusses ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis im Rahmen der Untersuchungshandlung bekannt, darf es dieses Geheimnis nur offenbaren, wenn es dazu von der berechtigten Person ermächtigt worden ist. Dies gilt nicht, wenn die Offenlegung des Geheimnisses gesetzlich geboten ist.
 
-
-## § 17 – Beweiserhebung
+# § 17 – Beweiserhebung
 
 (1) Der Untersuchungsausschuss erhebt die durch den Untersuchungsauftrag gebotenen Beweise aufgrund von Beweisbeschlüssen.
 
@@ -160,8 +141,7 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (4) Lehnt der Untersuchungsausschuss die Erhebung bestimmter Beweise oder die Anwendung beantragter Zwangsmittel nach den § 21 Abs. 1, § 27 Abs. 1, § 28 Abs. 6 und § 29 Abs. 2 Satz 1 ab, so entscheidet auf Antrag eines Viertels der Mitglieder der Ermittlungsrichter oder die Ermittlungsrichterin des Bundesgerichtshofes über die Erhebung der Beweise oder über die Anordnung des Zwangsmittels.
 
-
-## § 18 – Vorlage von Beweismitteln
+# § 18 – Vorlage von Beweismitteln
 
 (1) Die Bundesregierung, die Behörden des Bundes sowie die bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sind vorbehaltlich verfassungsrechtlicher Grenzen auf Ersuchen verpflichtet, dem Untersuchungsausschuss sächliche Beweismittel, insbesondere die Akten, die den Untersuchungsgegenstand betreffen, vorzulegen.
 
@@ -171,27 +151,23 @@ Die ordentlichen und stellvertretenden Mitglieder werden von den Fraktionen bena
 
 (4) Gerichte und Verwaltungsbehörden sind zur Rechts- und Amtshilfe, insbesondere zur Vorlage sächlicher Beweismittel, verpflichtet. Über Streitigkeiten entscheidet auf Antrag des Untersuchungsausschusses oder eines Viertels seiner Mitglieder der Ermittlungsrichter oder die Ermittlungsrichterin des Bundesgerichtshofes.
 
-
-## § 19 – Augenschein
+# § 19 – Augenschein
 
 Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und Abs. 4 entsprechend.
 
-
-## § 20 – Ladung der Zeugen
+# § 20 – Ladung der Zeugen
 
 (1) Zeugen sind verpflichtet, auf Ladung des Untersuchungsausschusses zu erscheinen. § 50 der Strafprozessordnung findet keine Anwendung.
 
 (2) In der Ladung sind Zeugen über das Beweisthema zu unterrichten, über ihre Rechte zu belehren und auf die gesetzlichen Folgen des Ausbleibens sowie darauf hinzuweisen, dass sie einen rechtlichen Beistand ihres Vertrauens zu der Vernehmung hinzuziehen dürfen.
 
-
-## § 21 – Folgen des Ausbleibens von Zeugen
+# § 21 – Folgen des Ausbleibens von Zeugen
 
 (1) Erscheinen ordnungsgemäß geladene Zeugen nicht, so kann der Untersuchungsausschuss ihnen die durch ihr Ausbleiben verursachten Kosten auferlegen, gegen sie ein Ordnungsgeld bis zu 10.000 Euro festsetzen und ihre zwangsweise Vorführung anordnen. Im Falle wiederholten Ausbleibens kann das Ordnungsgeld noch einmal festgesetzt werden. § 135 Satz 2 der Strafprozessordnung ist anzuwenden.
 
 (2) Maßnahmen nach Absatz 1 unterbleiben, wenn Zeugen ihr Ausbleiben rechtzeitig genügend entschuldigen. Wird das Ausbleiben nachträglich genügend entschuldigt, so sind die nach Absatz 1 getroffenen Anordnungen aufzuheben, wenn die Zeugen glaubhaft machen, dass sie an der Verspätung kein Verschulden trifft.
 
-
-## § 22 – Zeugnis- und Auskunftsverweigerungsrecht
+# § 22 – Zeugnis- und Auskunftsverweigerungsrecht
 
 (1) Die Vorschriften der §§ 53 und 53a der Strafprozessordnung gelten entsprechend.
 
@@ -201,15 +177,13 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (4) Die Tatsachen, auf die einzelne Zeugen die Verweigerung ihres Zeugnisses stützen, sind auf Verlangen glaubhaft zu machen.
 
-
-## § 23 – Vernehmung von Amtsträgern
+# § 23 – Vernehmung von Amtsträgern
 
 (1) § 54 der Strafprozessordnung ist anzuwenden.
 
 (2) Die Bundesregierung ist verpflichtet, die erforderlichen Aussagegenehmigungen zu erteilen; § 18 Abs. 1 bis 3 erster Halbsatz gilt entsprechend.
 
-
-## § 24 – Vernehmung der Zeugen
+# § 24 – Vernehmung der Zeugen
 
 (1) Zeugen sind einzeln und in Abwesenheit der später zu hörenden Zeugen zu vernehmen.
 
@@ -223,15 +197,13 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (6) § 136a der Strafprozessordnung ist entsprechend anzuwenden.
 
-
-## § 25 – Zulässigkeit von Fragen an Zeugen
+# § 25 – Zulässigkeit von Fragen an Zeugen
 
 (1) Der oder die Vorsitzende hat ungeeignete oder nicht zur Sache gehörende Fragen zurückzuweisen. Zeugen können den Vorsitzenden oder die Vorsitzende auffordern, Fragen zurückzuweisen. Bei Zweifeln über die Zulässigkeit von Fragen sowie über die Rechtmäßigkeit ihrer Zurückweisung entscheidet der Untersuchungsausschuss auf Antrag seiner Mitglieder; die Zurückweisung einer Frage bedarf einer Mehrheit von zwei Dritteln der anwesenden Mitglieder.
 
 (2) Beschließt der Untersuchungsausschuss die Unzulässigkeit einer Frage, auf die bereits eine Antwort gegeben worden ist, darf im Bericht des Untersuchungsausschusses auf die Frage und die Antwort nicht Bezug genommen werden.
 
-
-## § 26 – Abschluss der Vernehmung
+# § 26 – Abschluss der Vernehmung
 
 (1) Den einzelnen Zeugen ist das Protokoll über ihre Vernehmung zuzustellen.
 
@@ -239,8 +211,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (3) Zeugen sind von dem oder der Vorsitzenden des Untersuchungsausschusses am Ende ihrer Vernehmung darüber zu belehren, unter welchen Voraussetzungen diese gemäß Absatz 2 abgeschlossen ist.
 
-
-## § 27 – Grundlose Zeugnisverweigerung
+# § 27 – Grundlose Zeugnisverweigerung
 
 (1) Wird das Zeugnis ohne gesetzlichen Grund verweigert, so kann der Untersuchungsausschuss Zeugen die durch ihre Weigerung verursachten Kosten auferlegen und gegen sie ein Ordnungsgeld bis zu 10.000 Euro festsetzen.
 
@@ -248,8 +219,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (3) § 70 Abs. 4 der Strafprozessordnung ist entsprechend anzuwenden.
 
-
-## § 28 – Sachverständige
+# § 28 – Sachverständige
 
 (1) Auf Sachverständige sind die Vorschriften der §§ 20, 22 bis 26 entsprechend anzuwenden, soweit nicht nachfolgend abweichende Regelungen getroffen sind.
 
@@ -263,8 +233,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (6) Weigern sich die zur Erstattung des Gutachtens verpflichteten Sachverständigen, nach Absatz 3 eine angemessene Frist abzusprechen, oder versäumen sie die abgesprochene Frist, so kann der Untersuchungsausschuss gegen sie ein Ordnungsgeld bis zu 10.000 Euro festsetzen. Dasselbe gilt, wenn die ordnungsgemäß geladenen Sachverständigen nicht erscheinen oder sich weigern, ihr Gutachten zu erstatten oder zu erläutern; in diesen Fällen kann der Untersuchungsausschuss zugleich den Sachverständigen die durch ihre Säumnis oder Weigerung verursachten Kosten auferlegen. § 21 Abs. 2 gilt entsprechend.
 
-
-## § 29 – Herausgabepflicht
+# § 29 – Herausgabepflicht
 
 (1) Wer einen Gegenstand, der als Beweismittel für die Untersuchung von Bedeutung sein kann, in seinem Gewahrsam hat, ist verpflichtet, ihn auf Verlangen des Untersuchungsausschusses vorzulegen und auszuliefern. Diese Pflicht besteht nicht, soweit das Beweismittel Informationen enthält, deren Weitergabe wegen ihres streng persönlichen Charakters für die Betroffenen unzumutbar ist.
 
@@ -272,8 +241,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (3) Werden Gegenstände nach Absatz 1 nicht freiwillig vorgelegt, so entscheidet auf Antrag des Untersuchungsausschusses oder eines Viertels seiner Mitglieder der Ermittlungsrichter oder die Ermittlungsrichterin des Bundesgerichtshofes über die Beschlagnahme und die Herausgabe an den Untersuchungsausschuss; § 97 der Strafprozessordnung gilt entsprechend. Zur Beschlagnahme der in Absatz 1 bezeichneten Gegenstände kann der Ermittlungsrichter oder die Ermittlungsrichterin des Bundesgerichtshofes auch die Durchsuchung anordnen, wenn Tatsachen vorliegen, aus denen zu schließen ist, dass der gesuchte Gegenstand sich in den zu durchsuchenden Räumen befindet. Die §§ 104, 105 Abs. 2 und 3, §§ 106, 107 und 109 der Strafprozessordnung sind entsprechend anzuwenden.
 
-
-## § 30 – Verfahren bei der Vorlage von Beweismitteln
+# § 30 – Verfahren bei der Vorlage von Beweismitteln
 
 (1) Wenn die Person, die den Gewahrsam hat, einwendet, verlangte Beweismittel seien für die Untersuchung nicht bedeutsam oder beträfen ein in § 14 Abs. 1 Nr. 1 bis 4 bezeichnetes Geheimnis, so dürfen die in § 29 Abs. 2 bestimmten Ordnungs- und Zwangsmittel und die in § 29 Abs. 3 Satz 1 bezeichnete Herausgabe nur dann angeordnet werden, wenn das Beweismittel keine Informationen enthält, deren Weitergabe wegen ihres streng vertraulichen Charakters für die Betroffenen unzumutbar ist, und der Untersuchungsausschuss für dieses Beweismittel den Geheimhaltungsgrad GEHEIM beschlossen hat.
 
@@ -283,8 +251,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (4) Vor der Beschlussfassung nach Absatz 3 Satz 1 ist die Person, die über das Beweismittel verfügungsberechtigt ist, zu hören. Widerspricht sie der Aufhebung des Geheimhaltungsgrades GEHEIM, so hat die Aufhebung zu unterbleiben, wenn nicht der Ermittlungsrichter oder die Ermittlungsrichterin des Bundesgerichtshofes auf Antrag des Untersuchungsausschusses oder eines Viertels seiner Mitglieder sie für zulässig erklärt.
 
-
-## § 31 – Verlesung von Protokollen und Schriftstücken
+# § 31 – Verlesung von Protokollen und Schriftstücken
 
 (1) Die Protokolle über Untersuchungshandlungen von anderen Untersuchungsausschüssen, Gerichten und Behörden sowie Schriftstücke, die als Beweismittel dienen, sind vor dem Untersuchungsausschuss zu verlesen.
 
@@ -292,15 +259,13 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (3) Eine Verlesung der Protokolle und Schriftstücke oder die Bekanntgabe ihres wesentlichen Inhalts in öffentlicher Sitzung findet nicht statt, wenn die Voraussetzungen des § 14 Abs. 1 vorliegen.
 
-
-## § 32 – Rechtliches Gehör
+# § 32 – Rechtliches Gehör
 
 (1) Personen, die durch die Veröffentlichung des Abschlussberichtes in ihren Rechten erheblich beeinträchtigt werden können, ist vor Abschluss des Untersuchungsverfahrens Gelegenheit zu geben, zu den sie betreffenden Ausführungen im Entwurf des Abschlussberichtes innerhalb von zwei Wochen Stellung zu nehmen, soweit diese Ausführungen nicht mit ihnen in einer Sitzung zur Beweisaufnahme erörtert worden sind.
 
 (2) Der wesentliche Inhalt der Stellungnahme ist in dem Bericht wiederzugeben.
 
-
-## § 33 – Berichterstattung
+# § 33 – Berichterstattung
 
 (1) Nach Abschluss der Untersuchung erstattet der Untersuchungsausschuss dem Bundestag einen schriftlichen Bericht. Der Bericht hat den Gang des Verfahrens, die ermittelten Tatsachen und das Ergebnis der Untersuchung wiederzugeben.
 
@@ -310,8 +275,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (4) Auf Beschluss des Bundestages hat der Untersuchungsausschuss dem Bundestag einen Zwischenbericht vorzulegen.
 
-
-## § 34 – Rechte des Verteidigungsausschusses als Untersuchungsausschuss
+# § 34 – Rechte des Verteidigungsausschusses als Untersuchungsausschuss
 
 (1) Beschließt der Verteidigungsausschuss, eine Angelegenheit zum Gegenstand seiner Untersuchung zu machen, hat er bei seinen Untersuchungen die Rechte eines Untersuchungsausschusses. Der Verteidigungsausschuss hat sich auf Verlangen von einem Viertel seiner Mitglieder als Untersuchungsausschuss zu konstituieren. Die §§ 1 bis 3 gelten entsprechend.
 
@@ -321,8 +285,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (4) Für das Verfahren des Verteidigungsausschusses als Untersuchungsausschuss gelten die Vorschriften dieses Gesetzes. Über das Ergebnis seiner Untersuchung hat der Verteidigungsausschuss dem Bundestag einen Bericht zu erstatten; eine Aussprache darf sich nur auf den veröffentlichten Bericht beziehen.
 
-
-## § 35 – Kosten und Auslagen
+# § 35 – Kosten und Auslagen
 
 (1) Die Kosten des Untersuchungsverfahrens trägt der Bund.
 
@@ -330,8 +293,7 @@ Für die Einnahme eines Augenscheins gilt § 18 Abs. 1 bis 3 erster Halbsatz und
 
 (3) Die Entschädigung, die Vergütung und die Erstattung der Auslagen setzt der Präsident oder die Präsidentin des Bundestages fest.
 
-
-## § 36 – Gerichtliche Zuständigkeiten
+# § 36 – Gerichtliche Zuständigkeiten
 
 (1) Zuständiges Gericht für Streitigkeiten nach diesem Gesetz ist der Bundesgerichtshof, soweit Artikel 93 des Grundgesetzes sowie § 13 des Bundesverfassungsgerichtsgesetzes und die Vorschriften dieses Gesetzes nichts Abweichendes bestimmen.
 

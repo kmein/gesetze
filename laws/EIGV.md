@@ -1,12 +1,7 @@
-# [EIGV] Verordnung über die Erteilung von Inbetriebnahmegenehmigungen für das Eisenbahnsystem  (Eisenbahn-Inbetriebnahmegenehmigungsverordnung - EIGV)
-
-Ausfertigungsdatum: 26.07.2018
-
+% Verordnung über die Erteilung von Inbetriebnahmegenehmigungen für das Eisenbahnsystem  (Eisenbahn-Inbetriebnahmegenehmigungsverordnung - EIGV)
+% Ausfertigungsdatum: 26.07.2018
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -28,8 +23,9 @@ Ausfertigungsdatum: 26.07.2018
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Bedingungen für das Inverkehrbringen und für die Inbetriebnahme von Bestandteilen des Eisenbahnsystems nach Maßgabe der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (ABl. L 138 vom 26.5.2016, S. 44) in der jeweils geltenden Fassung.
 
@@ -65,8 +61,7 @@ von Bestandteilen des Eisenbahnsystems.
 
 4. Fahrzeuge, die ausschließlich zu historischen oder touristischen Zwecken genutzt werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -146,13 +141,11 @@ in Betriebsbereitschaft;
 
 33. „Zwischenzustände“ für einen Übergangszeitraum bestehende, in sich abgeschlossene Änderungen an der Eisenbahninfrastruktur, die sich infolge des baulichen Fortschritts ergeben und nicht den baulich realisierten Endzustand der Gesamtmaßnahme darstellen.
 
-
-## § 3 – Grundlegende Anforderungen
+# § 3 – Grundlegende Anforderungen
 
 Das Eisenbahnsystem, seine Teilsysteme und die Interoperabilitätskomponenten einschließlich ihrer Schnittstellen müssen die grundlegenden Anforderungen erfüllen, die in Anhang III der Richtlinie (EU) 2016/797 jeweils für sie festgelegt sind.
 
-
-## § 4 – Anwendung der Technischen Spezifikationen für die Interoperabilität, der notifizierten technischen Vorschriften und der technischen Vorschriften
+# § 4 – Anwendung der Technischen Spezifikationen für die Interoperabilität, der notifizierten technischen Vorschriften und der technischen Vorschriften
 
 (1) Die Technischen Spezifikationen für die Interoperabilität sind nach Maßgabe der Anlage 1 anzuwenden. Die Pflicht zur Anwendung von Technischen Spezifikationen für die Interoperabilität, die unmittelbar geltendes Recht der Europäischen Union sind, bleibt unberührt.
 
@@ -188,8 +181,7 @@ Die §§ 5 und 5a gelten entsprechend.
 
 (6) Absatz 5 gilt für notifizierte technische Vorschriften und für technische Vorschriften entsprechend.
 
-
-## § 5 – Ausnahmen von der Anwendung der Technischen Spezifikationen für die Interoperabilität
+# § 5 – Ausnahmen von der Anwendung der Technischen Spezifikationen für die Interoperabilität
 
 In den folgenden Fällen können Ausnahmen von der vollständigen oder teilweisen Anwendung der Technischen Spezifikationen für die Interoperabilität zugelassen werden:
 
@@ -203,8 +195,7 @@ In den folgenden Fällen können Ausnahmen von der vollständigen oder teilweise
 
 (+++ § 5: Zur Anwendung vgl. § 4 Abs. 4 Satz 2 +++)
 
-
-## § 5a – Ausnahmeverfahren betreffend die Anwendung der Technischen Spezifikationen für die Interoperabilität
+# § 5a – Ausnahmeverfahren betreffend die Anwendung der Technischen Spezifikationen für die Interoperabilität
 
 (1) Der Antrag auf Zulassung von Ausnahmen von der vollständigen oder teilweisen Anwendung der Technischen Spezifikationen für die Interoperabilität ist beim Eisenbahn-Bundesamt zu stellen. Der Antrag ist schriftlich oder elektronisch zu stellen. Der Antragsteller muss dem Antrag die Unterlagen nach Anhang IX Buchstabe b der Richtlinie 2008/57/EG beifügen. Das Eisenbahn-Bundesamt kann verlangen, dass der Antrag in elektronischer Form und in einem bestimmten Dateiformat übermittelt wird.
 
@@ -220,8 +211,7 @@ In den folgenden Fällen können Ausnahmen von der vollständigen oder teilweise
 
 (7) Die Entscheidung des Eisenbahn-Bundesamtes über den Antrag ergeht schriftlich oder elektronisch.
 
-
-## § 6 – Zur Erfüllung der grundlegenden Anforderungen anzuwendende Vorschriften
+# § 6 – Zur Erfüllung der grundlegenden Anforderungen anzuwendende Vorschriften
 
 (1) Für strukturelle Teilsysteme sind zur Erfüllung der grundlegenden Anforderungen einschließlich der technischen Kompatibilität und der sicheren Integration die folgenden Vorschriften anzuwenden:
 
@@ -233,8 +223,7 @@ In den folgenden Fällen können Ausnahmen von der vollständigen oder teilweise
 
 (2) Für Bestandteile des Eisenbahnsystems, die nicht in den Anwendungsbereich der Technischen Spezifikationen für die Interoperabilität fallen, sind zur Erfüllung der grundlegenden Anforderungen einschließlich der technischen Kompatibilität und der sicheren Integration die notifizierten technischen Vorschriften und die für die übrige Eisenbahninfrastruktur gemäß Anlage 2 geltenden technischen Vorschriften anzuwenden.
 
-
-## § 7 – Notifizierung von technischen Vorschriften
+# § 7 – Notifizierung von technischen Vorschriften
 
 (1) Das Eisenbahn-Bundesamt erstellt für jede anzuwendende Technische Spezifikation für die Interoperabilität bei Bedarf nach Anhörung der betroffenen Wirtschaftskreise eine Liste der zu notifizierenden technischen Vorschriften.
 
@@ -266,13 +255,11 @@ Es ist auch zu notifizieren, wenn die notifizierten Vorschriften nach Veröffent
 
 (7) Das Eisenbahn-Bundesamt veröffentlicht die Listen der zu notifizierenden technischen Vorschriften. Es gilt der Stand der Übermittlung nach Absatz 5.
 
-
-## § 8 – Nebenbestimmungen
+# § 8 – Nebenbestimmungen
 
 Die Genehmigungen oder Zulassungen nach den §§ 16, 17, 20, 26 und 27 können mit Nebenbestimmungen versehen werden, soweit dies zur Erfüllung der grundlegenden Anforderungen oder für die Sicherheit des Eisenbahnbetriebs erforderlich ist.
 
-
-## § 9 – Erfordernis der Genehmigung für das Inverkehrbringen oder der Inbetriebnahmegenehmigung
+# § 9 – Erfordernis der Genehmigung für das Inverkehrbringen oder der Inbetriebnahmegenehmigung
 
 (1) Das erstmalige Inverkehrbringen eines Fahrzeugs bedarf einer Genehmigung für das Inverkehrbringen.
 
@@ -291,8 +278,7 @@ wenn eine in Anlage 4 genannte Maßnahme durchgeführt werden soll. Die in Anlag
 (+++ § 9: Zur Anwendung vgl. § 15 Abs. 6 Satz 2 +++)  
 (+++ § 9 Abs. 1: Zur Anwendung vgl. § 20 Abs. 4 Satz 2 +++)
 
-
-## § 10 – Genehmigungsstelle
+# § 10 – Genehmigungsstelle
 
 (1) Die Genehmigungsstelle erteilt auf Antrag
 
@@ -310,8 +296,7 @@ wenn eine in Anlage 4 genannte Maßnahme durchgeführt werden soll. Die in Anlag
 
 (+++ § 10: Zur Anwendung vgl. § 15 Abs. 6 Satz 2 +++)
 
-
-## § 10a – Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie der übrigen Eisenbahninfrastruktur auf Grenzbetriebsstrecken und Durchgangsstrecken
+# § 10a – Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie der übrigen Eisenbahninfrastruktur auf Grenzbetriebsstrecken und Durchgangsstrecken
 
 Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie der übrigen Eisenbahninfrastruktur können auf Grenzbetriebsstrecken und Durchgangsstrecken nach den Vorschriften des Nachbarstaates
 
@@ -321,8 +306,7 @@ Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerun
 
 Satz 1 gilt nicht für Bahnübergänge und Anlagen zur Sicherung von Bahnübergängen.
 
-
-## § 11 – Voraussetzungen und Verfahren
+# § 11 – Voraussetzungen und Verfahren
 
 (1) Die Voraussetzungen und das Verfahren für die Erteilung einer Genehmigung für das Inverkehrbringen von Fahrzeugen und einer Fahrzeugtypgenehmigung richten sich nach der Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäß der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates (ABl. L 90 vom 6.4.2018, S. 66) in der jeweils geltenden Fassung und nach Maßgabe dieser Verordnung.
 
@@ -349,8 +333,7 @@ Satz 1 gilt auch für Durchgangsstrecken.
 (+++ § 11 Abs. 2 bis 5 und 8: Zur Anwendung vgl. § 15 Abs. 6 Satz 2 +++)  
 (+++ § 11 Abs. 3 bis 5: Zur Anwendung vgl. § 22 Abs. 4 +++)
 
-
-## § 12 – Konformität von Fahrzeugen mit genehmigtem Fahrzeugtyp
+# § 12 – Konformität von Fahrzeugen mit genehmigtem Fahrzeugtyp
 
 (1) Für Fahrzeuge oder für eine Serie von Fahrzeugen, die mit einem genehmigten Fahrzeugtyp übereinstimmen, ist eine Genehmigung für das Inverkehrbringen ohne weitere technische Prüfung zu erteilen auf der Grundlage einer Typenkonformitätserklärung nach Artikel 10 in Verbindung mit Anhang VI der Durchführungsverordnung (EU) 2019/250 der Kommission vom 12. Februar 2019 über die Muster der EG-Erklärungen und -Bescheinigungen für Eisenbahn-Interoperabilitätskomponenten und -Teilsysteme, das Muster der Typenkonformitätserklärung für Schienenfahrzeuge und über die EG-Prüfverfahren für Teilsysteme gemäß der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EU) Nr. 201/2011 der Kommission (ABl. L 42 vom 13.2.2019, S. 9) in der jeweils geltenden Fassung.
 
@@ -358,8 +341,7 @@ Satz 1 gilt auch für Durchgangsstrecken.
 
 (3) Genehmigungen für das Inverkehrbringen, die auf der Grundlage einer Fahrzeugtypgenehmigung erteilt worden sind, bleiben gültig, auch wenn eine Fahrzeugtypgenehmigung nach Artikel 24 Absatz 3 der Richtlinie (EU) 2016/797 geändert wird.
 
-
-## § 13 – Fahrzeuge oder Fahrzeugtypen, die die grundlegenden Anforderungen nicht erfüllen
+# § 13 – Fahrzeuge oder Fahrzeugtypen, die die grundlegenden Anforderungen nicht erfüllen
 
 (1) Stellt das Eisenbahn-Bundesamt fest, dass ein Fahrzeug oder ein Fahrzeugtyp,
 
@@ -375,8 +357,7 @@ die grundlegenden Anforderungen nicht erfüllt, unterrichtet es die Eisenbahn, d
 
 (4) Führen die ergriffenen Maßnahmen nach Absatz 2 oder die Verpflichtung nach § 29 Absatz 1 nicht zur Erfüllung der grundlegenden Anforderungen und führt dieser Umstand zu einem schwerwiegenden Sicherheitsrisiko, so kann das Eisenbahn-Bundesamt vorübergehende Sicherheitsmaßnahmen ergreifen.
 
-
-## § 14 – Vorgehen im Fall eines Widerrufs einer Genehmigung
+# § 14 – Vorgehen im Fall eines Widerrufs einer Genehmigung
 
 (1) Wird eine Genehmigung für das Inverkehrbringen widerrufen, darf das entsprechende Fahrzeug nicht mehr eingesetzt werden und sein Verwendungsgebiet darf nicht erweitert werden.
 
@@ -384,8 +365,7 @@ die grundlegenden Anforderungen nicht erfüllt, unterrichtet es die Eisenbahn, d
 
 (3) Das Eisenbahn-Bundesamt stellt sicher, dass alle, die Fahrzeuge des vom Widerruf betroffenen Fahrzeugs oder Fahrzeugtyps einsetzen, von dem Widerruf unterrichtet werden, soweit sie dem Eisenbahn-Bundesamt bekannt sind. Die unterrichteten Eisenbahnen haben zu prüfen, ob ihre Fahrzeuge ebenfalls die grundlegenden Anforderungen nicht erfüllen.
 
-
-## § 15 – Probefahrten
+# § 15 – Probefahrten
 
 (1) Eisenbahnen und Fahrzeughalter dürfen ohne Genehmigung Probefahrten durchführen, wenn hierbei die Sicherheit des Eisenbahnverkehrs nicht beeinträchtigt wird.
 
@@ -415,8 +395,7 @@ Gegenstand dieser Genehmigung ist ausschließlich die Zulässigkeit der Abweichu
 
 2. durch eine schriftliche oder elektronische Erklärung nach Artikel 16 der Durchführungsverordnung (EU) Nr. 402/2013 bestätigt, dass alle für die Art und den Umfang der beantragten Probefahrten ermittelten Gefährdungen und damit verbundenen Risiken auf einem vertretbaren Niveau gehalten werden.
 
-
-## § 16 – Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität anzuwenden sind
+# § 16 – Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität anzuwenden sind
 
 (1) Sofern Technische Spezifikationen für die Interoperabilität anzuwenden sind, ist die Inbetriebnahmegenehmigung zu erteilen, wenn der Antragsteller nachweist, dass die betreffende Infrastruktur oder Anlage die grundlegenden Anforderungen erfüllt. Hierbei hat der Antragsteller insbesondere die technische Kompatibilität und die sichere Integration nachzuweisen. Dieser Nachweis gilt als erbracht mit Vorlage folgender Unterlagen:
 
@@ -462,8 +441,7 @@ die Zustimmung der Agentur zu dem Vorhaben vorzulegen, nachdem das Verfahren nac
 
 (4) Für die Nachweise nach Absatz 1 Satz 3 Nummer 4, 5 und 7 sind die technischen Vorschriften einzuhalten. Die Einhaltung dieser Vorschriften müssen Prüfsachverständige nach § 4b des Allgemeinen Eisenbahngesetzes in Prüfbescheinigungen bestätigen. Bei sicherheitsrelevanten und signifikanten Änderungen, bei welchen eine unabhängige Bewertungsstelle gemäß der Durchführungsverordnung (EU) Nr. 402/2013 zum Einsatz kommen muss, kann die Bestätigung für den Nachweis gemäß Absatz 1 Satz 3 Nummer 5 auch von einer unabhängigen Bewertungsstelle kommen.
 
-
-## § 17 – Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden sind
+# § 17 – Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden sind
 
 Sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden sind, ist die Inbetriebnahmegenehmigung zu erteilen, wenn die folgenden Vorschriften entsprechend erfüllt sind:
 
@@ -471,8 +449,7 @@ Sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden s
 
 2. für die übrige Eisenbahninfrastruktur: § 16 Absatz 1 Satz 2 und 3 Nummer 2 bis 7 sowie Absatz 3 und 4.
 
-
-## § 18 – Antrag auf Erteilung einer Inbetriebnahmegenehmigung und Pflichten des Antragstellers
+# § 18 – Antrag auf Erteilung einer Inbetriebnahmegenehmigung und Pflichten des Antragstellers
 
 (1) Das Eisenbahninfrastrukturunternehmen hat den Antrag und die zur Prüfung des Antrags erforderlichen Unterlagen nach § 16 Absatz 1 Satz 3, Absatz 2 und nach Anlage 6 der Genehmigungsstelle 24 Monate vor dem geplanten Inbetriebnahmetermin, spätestens zehn Wochen vor Baubeginn vorzulegen.
 
@@ -505,8 +482,7 @@ Gleichzeitig sind die stattdessen anzuwendenden Vorschriften anzugeben oder Nach
 (+++ § 18 Abs. 3 bis 6: Zur Anwendung vgl. § 19 Abs. 3 Satz 3 +++)  
 (+++ § 18 Abs. 5: Zur Anwendung vgl. § 20 Abs. 4 Satz 2 +++)
 
-
-## § 19 – Verfahren für die Erteilung einer Inbetriebnahmegenehmigung
+# § 19 – Verfahren für die Erteilung einer Inbetriebnahmegenehmigung
 
 (1) Die Genehmigungsstelle prüft die Antragsunterlagen auf deren Vollständigkeit und Prüffähigkeit und bestätigt dem Antragsteller innerhalb eines Monats nach deren Vorlage die Vollständigkeit und Prüffähigkeit. Anschließend prüft sie die Antragsunterlagen auf Nachvollziehbarkeit und entscheidet spätestens vier Monate nach Vorlage aller erforderlichen Unterlagen über den Antrag. Stellt die Genehmigungsstelle vor Ablauf der jeweiligen Frist Mängel an den Unterlagen fest, hat sie dem Antragsteller Gelegenheit zur Beseitigung zu geben. Im Fall des Satzes 3 ist die Frist nach Satz 1 oder 2 bis zur Beseitigung der Mängel gehemmt.
 
@@ -542,13 +518,11 @@ b) durch Bewertungsstellen, und diese Erkenntnisse Maßnahmen nach Artikel 11 A
 
 (7) Die Genehmigungsstelle entscheidet über einen Widerspruch im Rahmen des Verfahrens für die Erteilung einer Inbetriebnahmegenehmigung innerhalb von zwei Monaten.
 
-
-## § 20 – Aufrüstung und Erneuerung
+# § 20 – Aufrüstung und Erneuerung
 
 Die Inbetriebnahmegenehmigung eines aufgerüsteten oder erneuerten Teilsystems Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie einer aufgerüsteten oder erneuerten übrigen Eisenbahninfrastruktur ist zu erteilen, wenn der Antragsteller nachweist, dass die veränderten oder nicht übereinstimmenden Teile und deren Schnittstellen zu den Bestandteilen des Eisenbahnsystems die grundlegenden Anforderungen erfüllen. Hierfür sind die Voraussetzungen nach § 16 oder § 17 zu erfüllen.
 
-
-## § 21 – Anzeige bei Aufrüstung und Erneuerung
+# § 21 – Anzeige bei Aufrüstung und Erneuerung
 
 (1) Geplante Arbeiten an dem Teilsystem Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie an der übrigen Eisenbahninfrastruktur oder geplante Arbeiten an einem Teil davon, die über den Austausch im Zuge von Instandhaltungsarbeiten hinausgehen, sind der Genehmigungsstelle durch das Eisenbahninfrastrukturunternehmen schriftlich oder elektronisch nach Maßgabe des Absatzes 2 spätestens zehn Wochen vor Baubeginn anzuzeigen.
 
@@ -570,8 +544,7 @@ In der Beschreibung nach Nummer 1 sind der Umfang der veränderten oder nicht ü
 
 (3) Bei genehmigungspflichtigen Maßnahmen, die im laufenden Betrieb durchgeführt werden, dürfen Eisenbahninfrastrukturunternehmen vor Erteilung der Inbetriebnahmegenehmigung den Betrieb vorläufig in eigener Verantwortung nach Maßgabe des § 4 Absatz 3 des Allgemeinen Eisenbahngesetzes aufnehmen. Die Genehmigungsstelle legt in der Entscheidung nach § 22 Absatz 1 im jeweiligen Einzelfall fest, wann die vollständigen Unterlagen nach Anlage 6 spätestens vorzulegen sind.
 
-
-## § 22 – Verfahren bei Aufrüstung und Erneuerung
+# § 22 – Verfahren bei Aufrüstung und Erneuerung
 
 (1) Innerhalb eines Monats nach Eingang der Anzeige und der zur Prüfung erforderlichen Unterlagen entscheidet die Genehmigungsstelle, ob die angezeigte Maßnahme nach § 21 einer Inbetriebnahmegenehmigung bedarf. Stellt die Genehmigungsstelle vor Ablauf der Frist Mängel hinsichtlich der vorgelegten Unterlagen fest, hat sie dem Anzeigenden Gelegenheit zur Beseitigung zu geben. Im Fall des Satzes 2 ist die Frist bis zur Beseitigung der Mängel gehemmt.
 
@@ -591,8 +564,7 @@ so prüft die Genehmigungsstelle in enger Zusammenarbeit mit der Agentur die ein
 
 (+++ § 22 Abs. 1 Satz 1: Zur Anwendung vgl. § 30 Abs. 1 Satz 2 +++)
 
-
-## § 23 – Zwischenzustände und zwischenzeitliche Betriebsaufnahme
+# § 23 – Zwischenzustände und zwischenzeitliche Betriebsaufnahme
 
 (1) Für Zwischenzustände ist keine Inbetriebnahmegenehmigung erforderlich. Die betriebliche Nutzung der Eisenbahninfrastruktur für den öffentlichen Eisenbahnbetrieb erfolgt durch das Eisenbahninfrastrukturunternehmen entsprechend den einzelfallbezogenen Anforderungen des Inbetriebnahmeverantwortlichen oder eines anderen geeigneten Mitarbeiters. Zwischenzustände, die länger als ein Jahr oder länger als eine Fahrplanperiode andauern, gelten als zwischenzeitliche Betriebsaufnahme nach Absatz 2.
 
@@ -602,8 +574,7 @@ so prüft die Genehmigungsstelle in enger Zusammenarbeit mit der Agentur die ein
 
 2. die vorläufigen Inbetriebnahmeunterlagen nach Anlage 6, die durch den Inbetriebnahmeverantwortlichen oder, falls ein Inbetriebnahmeverantwortlicher nicht nach § 18 Absatz 4 bestellt worden ist, durch einen anderen Mitarbeiter nach § 18 Absatz 4 erstellt worden sind.
 
-
-## § 24 – Inverkehrbringen und Verwenden von Interoperabilitätskomponenten
+# § 24 – Inverkehrbringen und Verwenden von Interoperabilitätskomponenten
 
 (1) Interoperabilitätskomponenten dürfen nur in Verkehr gebracht werden, wenn
 
@@ -621,8 +592,7 @@ so prüft die Genehmigungsstelle in enger Zusammenarbeit mit der Agentur die ein
 
 (5) Die Absätze 1 bis 4 gelten entsprechend für zusammengesetzte Interoperabilitätskomponenten im Sinne des Artikels 10 Absatz 4 Satz 2 der Richtlinie (EU) 2016/797 für die Herstellung zum Eigengebrauch und im Fall wesentlicher Änderungen an bereits in Verkehr gebrachten Interoperabilitätskomponenten oder im Fall wesentlicher Änderungen in Bezug auf ihre Verwendung.
 
-
-## § 25 – Interoperabilitätskomponenten, die die grundlegenden Anforderungen nicht erfüllen
+# § 25 – Interoperabilitätskomponenten, die die grundlegenden Anforderungen nicht erfüllen
 
 (1) Stellt das Eisenbahn-Bundesamt fest, dass eine Interoperabilitätskomponente,
 
@@ -642,8 +612,7 @@ die grundlegenden Anforderungen nicht erfüllt, so kann das Eisenbahn-Bundesamt 
 
 3. die europäischen Spezifikationen unvollständig sind.
 
-
-## § 25a – Maßnahmen gegenüber dem Hersteller, wenn Interoperabilitätskomponenten die grundlegenden Anforderungen nicht erfüllen
+# § 25a – Maßnahmen gegenüber dem Hersteller, wenn Interoperabilitätskomponenten die grundlegenden Anforderungen nicht erfüllen
 
 (1) Stellt das Eisenbahn-Bundesamt fest, dass die EG-Konformitätserklärung oder die EG-Gebrauchstauglichkeitserklärung unberechtigterweise ausgestellt worden ist, so fordert es den Hersteller oder seinen Bevollmächtigten auf, dass die Interoperabilitätskomponente
 
@@ -655,8 +624,7 @@ die grundlegenden Anforderungen nicht erfüllt, so kann das Eisenbahn-Bundesamt 
 
 (3) Ist eine EG-Konformitätserklärung unberechtigterweise ausgestellt worden, so unterrichtet das Eisenbahn-Bundesamt die Kommission und die anderen Mitgliedstaaten der Europäischen Union über die getroffenen Maßnahmen nach Absatz 1.
 
-
-## § 26 – Verwendung von Bauprodukten und Anwendung von Bauarten
+# § 26 – Verwendung von Bauprodukten und Anwendung von Bauarten
 
 (1) Bauprodukte dürfen nur verwendet und Bauarten nur angewendet werden, wenn sie zuvor vom Eisenbahn-Bundesamt zugelassen worden sind.
 
@@ -690,8 +658,7 @@ die grundlegenden Anforderungen nicht erfüllt, so kann das Eisenbahn-Bundesamt 
 
 (6) Die Zulassung für Bauprodukte oder Bauarten nach Absatz 3 gilt längstens für fünf Jahre. Die Zulassung kann jeweils um längstens fünf Jahre verlängert werden.
 
-
-## § 27 – Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen
+# § 27 – Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen
 
 (1) Sicherungstechnische und elektrotechnische Systeme sowie Bestandteile dieser Systeme können vom Eisenbahn-Bundesamt eine Genehmigung zum Inverkehrbringen und Verwenden erhalten, wenn sie
 
@@ -723,8 +690,7 @@ können die Regelwerke angewendet werden, die für die vorhergehende Zulassung z
 
 (6) Ist für sicherungstechnische oder elektrotechnische Systeme oder für Bestandteile dieser Systeme eine Genehmigung zum Inverkehrbringen und Verwenden erteilt worden, wird die Erfüllung der damit abgedeckten Anforderungen bei der Erteilung der Inbetriebnahmegenehmigung nicht nochmals überprüft.
 
-
-## § 28 – Marktaufsicht
+# § 28 – Marktaufsicht
 
 (1) Das Eisenbahn-Bundesamt führt eine Marktaufsicht durch über die verwendeten
 
@@ -746,8 +712,7 @@ können die Regelwerke angewendet werden, die für die vorhergehende Zulassung z
 
 4. ihn zurückrufen.
 
-
-## § 29 – Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen
+# § 29 – Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen
 
 (1) Stellt eine Eisenbahn oder ein Halter von Eisenbahnfahrzeugen während des Betriebs fest, dass ein von ihr oder ihm genutztes Fahrzeug eine der grundlegenden Anforderungen nicht erfüllt, so ergreift sie oder er die erforderlichen Korrekturmaßnahmen, um diese Anforderungen wieder zu erfüllen.
 
@@ -763,8 +728,7 @@ Abweichend von Satz 1 darf für Durchgangsstrecken im Inland das Infrastrukturre
 
 (4) Eisenbahnen, Halter und Hersteller von Eisenbahnfahrzeugen sowie für die Instandhaltung zuständige Stellen oder deren Rechtsnachfolger haben sich gegenseitig unverzüglich nach Kenntnis über sicherheitsrelevante Mängel an Fahrzeugen zu unterrichten.
 
-
-## § 29a – Prüfungen vor der Nutzung eines genehmigten Fahrzeugs
+# § 29a – Prüfungen vor der Nutzung eines genehmigten Fahrzeugs
 
 Bevor ein Eisenbahnverkehrsunternehmen ein Fahrzeug in dem Verwendungsgebiet einsetzt, das in der Genehmigung für das Inverkehrbringen angegeben ist, prüft es, ob
 
@@ -774,15 +738,13 @@ Bevor ein Eisenbahnverkehrsunternehmen ein Fahrzeug in dem Verwendungsgebiet ein
 
 3. sich das Fahrzeug ordnungsgemäß in die Zusammensetzung des Zuges, als dessen Teil es betrieben werden soll, einfügt.
 
-
-## § 30 – Pflichten bei Maßnahmen zur Aufrüstung oder Erneuerung
+# § 30 – Pflichten bei Maßnahmen zur Aufrüstung oder Erneuerung
 
 (1) Eisenbahninfrastrukturunternehmen haben für nicht genehmigungspflichtige Aufrüstungen und Erneuerungen von Bestandteilen des Eisenbahnsystems nachzuweisen, dass die Voraussetzungen des § 4 Absatz 1 und 3 des Allgemeinen Eisenbahngesetzes erfüllt sind. Zudem gelten für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie die übrige Eisenbahninfrastruktur § 16 Absatz 1 und § 18 Absatz 4 Nummer 1 bis 4 und Absatz 5 entsprechend. Die Unterlagen sind dem Eisenbahn-Bundesamt nicht vorzulegen.
 
 (2) Sofern an den aufzurüstenden oder zu erneuernden oder in Bauweise und Funktion vergleichbaren Fahrzeugen sicherheitsrelevante Mängel festgestellt werden, welche die veränderten oder nicht übereinstimmenden Teile oder ihre Auswirkungen auf das Gesamtfahrzeug betreffen, hat der Halter von Eisenbahnfahrzeugen die betroffenen Fahrzeuge unverzüglich aus dem Betrieb zu nehmen. Der Halter von Eisenbahnfahrzeugen darf die Fahrzeuge erst dann wieder in Betrieb nehmen, wenn sie frei von diesen Mängeln sind.
 
-
-## § 31 – Weitere Unterrichtungspflichten
+# § 31 – Weitere Unterrichtungspflichten
 
 Stellen auf dem Gebiet der Bundesrepublik Deutschland
 
@@ -794,8 +756,7 @@ Stellen auf dem Gebiet der Bundesrepublik Deutschland
 
 fest, dass eine benannte Stelle oder eine bestimmte Stelle den Anforderungen nach § 35 Absatz 2 nicht entspricht oder die mit der Betrauung verbundenen Pflichten nicht erfüllt, so haben sie das Eisenbahn-Bundesamt darüber zu unterrichten. Satz 1 gilt auch, wenn eine Bewertungsstelle den Anforderungen nach Anhang II der Durchführungsverordnung (EU) Nr. 402/2013 nicht entspricht oder die mit der Betrauung verbundenen Pflichten nicht erfüllt. Sofern eine benannte Stelle betroffen ist, teilt das Eisenbahn-Bundesamt den Fall der Kommission mit.
 
-
-## § 32 – Aufbewahrungs-, Weitergabe- und Aufzeichnungspflichten
+# § 32 – Aufbewahrungs-, Weitergabe- und Aufzeichnungspflichten
 
 (1) Wer nach § 15 Absatz 6, § 16 Absatz 1 Satz 1, § 17, § 20 oder Artikel 46 Absatz 2 der Durchführungsverordnung (EU) 2018/545 eine Genehmigung erhalten hat, ist verpflichtet, die Genehmigung und die zur Erlangung der Genehmigung erforderlichen Nachweise so lange aufzubewahren, wie der genehmigte Bestandteil des Eisenbahnsystems dem Verwendungszweck dienen kann. Veräußert er den Bestandteil des Eisenbahnsystems, sind die Unterlagen nach Satz 1 spätestens bei dessen Übergabe mit auszuhändigen. Satz 1 gilt entsprechend für den Erwerber.
 
@@ -803,8 +764,7 @@ fest, dass eine benannte Stelle oder eine bestimmte Stelle den Anforderungen nac
 
 (+++ § 32 Abs. 1: Zur Anwendung vgl. § 18 Abs. 5 Satz 6 +++)
 
-
-## § 33 – Aufgaben der benannten Stellen
+# § 33 – Aufgaben der benannten Stellen
 
 (1) Benannte Stellen
 
@@ -820,8 +780,7 @@ Benannte Stellen dürfen eine Prüfbescheinigung nur ausstellen, wenn die Intero
 
 (+++ § 33 Abs. 2 bis 5: Zur Anwendung vgl. § 34 Abs. 2 +++)
 
-
-## § 34 – Aufgaben der bestimmten Stellen
+# § 34 – Aufgaben der bestimmten Stellen
 
 (1) Bestimmte Stellen
 
@@ -835,8 +794,7 @@ Bestimmte Stellen dürfen eine Prüfbescheinigung nur ausstellen, wenn das struk
 
 (2) § 33 Absatz 2 und 3 gilt entsprechend.
 
-
-## § 35 – Anerkennungsvoraussetzungen
+# § 35 – Anerkennungsvoraussetzungen
 
 (1) Wer als benannte Stelle oder bestimmte Stelle tätig werden will, bedarf der Anerkennung durch das Eisenbahn-Bundesamt.
 
@@ -858,8 +816,7 @@ Bestimmte Stellen dürfen eine Prüfbescheinigung nur ausstellen, wenn das struk
 
 8. unparteilich nach Artikel 31 der Richtlinie (EU) 2016/797 ist.
 
-
-## § 35a – Anerkennung der benannten Stellen
+# § 35a – Anerkennung der benannten Stellen
 
 (1) Eine Stelle kann beim Eisenbahn-Bundesamt schriftlich oder elektronisch beantragen, als benannte Stelle tätig werden zu dürfen. Dem Antrag sind beizufügen:
 
@@ -889,8 +846,7 @@ Das Eisenbahn-Bundesamt bestimmt die Form der Übermittlung.
 
 (7) Anerkannte Stellen werden durch das Eisenbahn-Bundesamt regelmäßig überwacht.
 
-
-## § 35b – Unterrichtungspflichten des Eisenbahn-Bundesamtes zur Anerkennung von benannten Stellen
+# § 35b – Unterrichtungspflichten des Eisenbahn-Bundesamtes zur Anerkennung von benannten Stellen
 
 (1) Das Eisenbahn-Bundesamt unterrichtet die Kommission und die Mitgliedstaaten der Europäischen Union
 
@@ -902,8 +858,7 @@ Das Eisenbahn-Bundesamt bestimmt die Form der Übermittlung.
 
 (3) Das Eisenbahn-Bundesamt erteilt der Kommission auf deren Verlangen sämtliche Auskünfte über die Grundlage der Benennung oder über Anerkennungsvoraussetzungen der benannten Stellen.
 
-
-## § 35c – Anerkennung der bestimmten Stellen
+# § 35c – Anerkennung der bestimmten Stellen
 
 (1) Eine Stelle kann beim Eisenbahn-Bundesamt schriftlich oder elektronisch beantragen, als bestimmte Stelle tätig werden zu dürfen. Dem Antrag sind beizufügen:
 
@@ -917,8 +872,7 @@ Das Eisenbahn-Bundesamt bestimmt die Form der Übermittlung.
 
 (3) § 35a Absatz 2, 3, 5 bis 7 gilt entsprechend.
 
-
-## § 36 – Rücknahme und Widerruf; Einstellung der Tätigkeit
+# § 36 – Rücknahme und Widerruf; Einstellung der Tätigkeit
 
 (1) Anerkennungen nach § 35 können zurückgenommen werden, wenn bekannt wird, dass zum Zeitpunkt der Anerkennung die Voraussetzungen nach § 35 Absatz 2 nicht vorlagen. Wird die Anerkennung einer benannten Stelle zurückgenommen, hat das Eisenbahn-Bundesamt hiervon die Kommission und die Mitgliedstaaten der Europäischen Union unverzüglich zu unterrichten.
 
@@ -928,8 +882,7 @@ Das Eisenbahn-Bundesamt bestimmt die Form der Übermittlung.
 
 (4) Im Fall einer Rücknahme der Anerkennung, eines Widerrufs der Anerkennung oder der Einstellung der Tätigkeit hat die Konformitätsbewertungsstelle die Unterlagen an ihren Rechtsnachfolger oder, soweit ein Rechtsnachfolger nicht vorhanden ist, an den Antragsteller herauszugeben.
 
-
-## § 37 – Unterauftragsvergabe
+# § 37 – Unterauftragsvergabe
 
 (1) Konformitätsbewertungsstellen können Unterauftragnehmer oder Zweigunternehmen beauftragen, Teile des EG-Prüfverfahrens sowie des Konformitäts- und Gebrauchstauglichkeitsverfahrens auszuführen. In diesem Fall hat die Stelle sicherzustellen, dass der Unterauftragnehmer oder das Zweigunternehmen die Voraussetzungen nach § 35 Absatz 2 erfüllt.
 
@@ -943,8 +896,7 @@ Das Eisenbahn-Bundesamt bestimmt die Form der Übermittlung.
 
 (6) Konformitätsbewertungsstellen haben ein Verzeichnis aller ihrer Unterauftragnehmer und ihrer Zweigunternehmen anzulegen und auf dem neuesten Stand zu halten.
 
-
-## § 37a – Vorgehen der Konformitätsbewertungsstelle bei Nichterfüllung der Anforderungen durch den Hersteller
+# § 37a – Vorgehen der Konformitätsbewertungsstelle bei Nichterfüllung der Anforderungen durch den Hersteller
 
 (1) Stellt eine Konformitätsbewertungsstelle fest, dass eine Interoperabilitätskomponente oder ein strukturelles Teilsystem die grundlegenden Anforderungen nicht erfüllt, so fordert sie den betreffenden Hersteller zu Maßnahmen auf, damit die grundlegenden Anforderungen erfüllt werden. Solange die Anforderungen nicht erfüllt werden, stellt die Konformitätsbewertungsstelle keine Prüfbescheinigung aus.
 
@@ -952,8 +904,7 @@ Das Eisenbahn-Bundesamt bestimmt die Form der Übermittlung.
 
 (3) Ergreift der Hersteller keine Maßnahmen nach Absatz 1 oder 2 oder genügen diese nicht, um die Erfüllung der Anforderungen sicherzustellen, schränkt die Konformitätsbewertungsstelle alle betreffenden Prüfbescheinigungen ein, setzt sie aus oder widerruft sie.
 
-
-## § 37b – Meldepflichten der Konformitätsbewertungsstellen
+# § 37b – Meldepflichten der Konformitätsbewertungsstellen
 
 (1) Benannte Stellen melden dem Eisenbahn-Bundesamt
 
@@ -977,8 +928,7 @@ Satz 1 gilt für bestimmte Stellen entsprechend.
 
 2. die EG-Konformitäts- und die EG-Gebrauchstauglichkeitsbescheinigungen für Interoperabilitätskomponenten.
 
-
-## § 37c – Weitere Pflichten der Konformitätsbewertungsstellen
+# § 37c – Weitere Pflichten der Konformitätsbewertungsstellen
 
 (1) Die Mitarbeiter einer Konformitätsbewertungsstelle dürfen die Tatsachen, die ihnen im Rahmen einer Konformitätsbewertung bekannt geworden sind und deren Geheimhaltung im Interesse der Konformitätsbewertungsstelle oder eines Dritten liegt, nicht offenbaren oder verwerten, auch wenn ihre Tätigkeit beendet ist. Die von der Konformitätsbewertungsstelle zu beachtenden Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
@@ -986,8 +936,7 @@ Satz 1 gilt für bestimmte Stellen entsprechend.
 
 (3) Die Konformitätsbewertungsstellen veröffentlichen mindestens einmal jährlich die nach Anhang IV Nummer 2.7 der Richtlinie (EU) 2016/797 vorgesehenen Angaben. Personen- und betriebsbezogene Daten dürfen nicht veröffentlicht werden. Die Wahrung des Betriebs- und Geschäftsgeheimnisses ist sicherzustellen.
 
-
-## § 37d – Mitarbeit in Koordinierungsgruppen
+# § 37d – Mitarbeit in Koordinierungsgruppen
 
 (1) Benannte Stellen haben an den einschlägigen Normungsaktivitäten und den Aktivitäten der Koordinierungsgruppe benannter Konformitätsbewertungsstellen, die im Rahmen des einschlägigen Unionsrechts geschaffen worden sind, mitzuwirken. Benannte Stellen haben dafür zu sorgen, dass ihr Konformitätsbewertungspersonal über die Aktivitäten der Koordinierungsgruppe informiert wird. Sie haben die Entscheidungen und Dokumente, die die Koordinierungsgruppe erarbeitet hat, als allgemeine Leitlinien anzuwenden.
 
@@ -995,8 +944,7 @@ Satz 1 gilt für bestimmte Stellen entsprechend.
 
 (3) Bestimmte Stellen haben an den Aktivitäten einer Koordinierungsgruppe mitzuwirken, die vom Eisenbahn-Bundesamt einzurichten ist. Bestimmte Stellen haben dafür zu sorgen, dass ihr Konformitätsbewertungspersonal über die Aktivitäten der Koordinierungsgruppe informiert wird. Sie haben die Entscheidungen und Dokumente, die die Koordinierungsgruppe erarbeitet hat, als allgemeine Leitlinien anzuwenden.
 
-
-## § 38 – Fahrzeugeinstellungsregister
+# § 38 – Fahrzeugeinstellungsregister
 
 (1) Das Eisenbahn-Bundesamt führt ein Fahrzeugeinstellungsregister, das die Inhalte und Formate enthält, die in
 
@@ -1018,8 +966,7 @@ konkretisiert worden sind.
 
 (5) Das Eisenbahn-Bundesamt erteilt Zugriffsberechtigten nach Nummer 3.3 des Anhangs der Entscheidung 2007/756/EG auf Antrag Auskünfte zu den im Fahrzeugeinstellungsregister gespeicherten Angaben. Die Auskünfte erteilt das Eisenbahn-Bundesamt in einem von ihm bestimmten editierbaren Standardformat.
 
-
-## § 38a – Europäisches Fahrzeugeinstellungsregister
+# § 38a – Europäisches Fahrzeugeinstellungsregister
 
 (1) Das Eisenbahn-Bundesamt hat in das europäische Fahrzeugeinstellungsregister die Angaben der Fahrzeuge, die in der Bundesrepublik Deutschland einzutragen sind nach Anhang II des Durchführungsbeschlusses (EU) 2018/1614 der Kommission vom 25. Oktober 2018 zur Festlegung der Spezifikationen für die Fahrzeugeinstellungsregister nach Artikel 47 der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Änderung und Aufhebung der Entscheidung 2007/756/EG der Kommission (ABl. L 268 vom 26.10.2018, S. 53) in der jeweils geltenden Fassung
 
@@ -1031,8 +978,7 @@ konkretisiert worden sind.
 
 (3) Zugriffsberechtigte nach Anhang II Nummer 3.3.2 des Durchführungsbeschlusses (EU) 2018/1614 erhalten auf Antrag Auskünfte zu den im europäischen Fahrzeugeinstellungsregister gespeicherten Angaben beim Eisenbahn-Bundesamt, wenn die Zugriffsberechtigten sich in der Bundesrepublik Deutschland befinden.
 
-
-## § 39 – Fahrzeugkennzeichnung
+# § 39 – Fahrzeugkennzeichnung
 
 (1) Das Eisenbahn-Bundesamt weist jedem Fahrzeug mit Erteilung der Genehmigung für das Inverkehrbringen von Fahrzeugen eine europäische Fahrzeugnummer zu. Satz 1 gilt auch im Fall der Erteilung der Fahrzeugtypgenehmigung.
 
@@ -1046,8 +992,7 @@ a) bis zum 15. Juni 2021 nach den Vorgaben der Anlage H des Beschlusses 2012/757
 
 b) ab dem 16. Juni 2021 nach den Vorgaben der Anlage H der Durchführungsverordnung (EU) 2019/773 der Kommission vom 16. Mai 2019 über die technische Spezifikation für die Interoperabilität des Teilsystems „Verkehrsbetrieb und Verkehrssteuerung“ des Eisenbahnsystems in der Europäischen Union und zur Aufhebung des Beschlusses 2012/757/EU (ABl. L 139 I vom 27.5.2019, S. 5) in der jeweils geltenden Fassung.
 
-
-## § 40 – Europäisches Register genehmigter Fahrzeugtypen
+# § 40 – Europäisches Register genehmigter Fahrzeugtypen
 
 (1) Die Genehmigungsstelle übermittelt die Angaben nach Anhang II des Durchführungsbeschlusses 2011/665/EU der Kommission vom 4. Oktober 2011 über das Europäische Register genehmigter Schienenfahrzeugtypen (ABl. L 264 vom 8.10.2011, S. 32), der durch die Durchführungsverordnung (EU) 2019/776 geändert worden ist, innerhalb von 20 Arbeitstagen nach Erteilung der Genehmigung eines Fahrzeugtyps an das Europäische Register genehmigter Fahrzeugtypen.
 
@@ -1065,8 +1010,7 @@ Die Angaben gemäß Nummer 1 müssen den Angaben in den technischen Begleitunter
 
 (5) Die Absätze 1 bis 4 gelten für Versionen eines Fahrzeugtyps oder einer Fahrzeugtypvariante entsprechend.
 
-
-## § 41 – Ordnungswidrigkeiten
+# § 41 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 6 Buchstabe a des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1098,8 +1042,7 @@ Die Angaben gemäß Nummer 1 müssen den Angaben in den technischen Begleitunter
 
 5. entgegen § 38 Absatz 3 Satz 1 eine Änderung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einträgt.
 
-
-## § 42 – Übergangsvorschriften
+# § 42 – Übergangsvorschriften
 
 (1) Eisenbahnen und Halter von Eisenbahnfahrzeugen haben dem Eisenbahn-Bundesamt die erforderlichen Angaben nach § 38 Absatz 1 bezüglich ihrer Fahrzeuge, die sich am 11. August 2018 bereits im Betrieb befanden, in einem vom Eisenbahn-Bundesamt bestimmten Format bis zum 1. August 2020 zu übermitteln. Das Eisenbahn-Bundesamt stellt die Angaben unverzüglich in das Fahrzeugeinstellungsregister ein.
 
@@ -1127,13 +1070,11 @@ unterliegt bis zum 16. Juni 2031 nicht dem Verfahren nach § 16 Absatz 2, wenn d
 
 können abweichend von § 11 Absatz 3 weiterhin nach § 21 Absatz 1 in der Fassung vom 26. Juli 2018 (BGBl. I S. 1270) auf deutschem Hoheitsgebiet ausschließlich auf Grenzbetriebsstrecken betrieben werden.
 
-
-## § 43 – Befristung
+# § 43 – Befristung
 
 § 38 tritt am 16. Juni 2021 außer Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1)Umsetzung von Entscheidungen und Beschlüssen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
+# Anlage 1 – (zu § 4 Absatz 1)Umsetzung von Entscheidungen und Beschlüssen der Kommission über die Technischen Spezifikationen für die Interoperabilität (TSI)
 
 (Fundstelle: BGBl. I 2018, 1288 - 1293)
 
@@ -1427,8 +1368,7 @@ b) Vorhaben, die ein neues, umzurüstendes oder zu erneuerndes Teilsystem betref
 
 c) Vorhaben für neue Fahrzeuge mit bestehendem Entwurf nach Abschnitt 7.1.2 des Anhangs der Verordnung (EU) Nr. 1300/2014.
 
-
-## Anlage 2 – (zu § 6 Absatz 2)Übrige Eisenbahninfrastruktur
+# Anlage 2 – (zu § 6 Absatz 2)Übrige Eisenbahninfrastruktur
 
 (Fundstelle: BGBl. I 2018, 1294 - 1296)
 
@@ -1612,11 +1552,9 @@ Notbeleuchtungs- und Energieverteilungsanlagen in Eisenbahntunneln einschließli
 
 Anlage 2 Abschnitt 2.3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde die Ziffer "2.2.3" durch die Ziffer "2.3.3" ersetzt
 
+# Anlage 3 – (weggefallen)
 
-## Anlage 3 – (weggefallen)
-
-
-## Anlage 4 – (zu § 9 Absatz 3 und 4 sowie § 21 Absatz 2)Maßnahmen, die für die Bestandteile des Eisenbahnsystems als genehmigungspflichtige Aufrüstung oder Erneuerung einzustufen sind
+# Anlage 4 – (zu § 9 Absatz 3 und 4 sowie § 21 Absatz 2)Maßnahmen, die für die Bestandteile des Eisenbahnsystems als genehmigungspflichtige Aufrüstung oder Erneuerung einzustufen sind
 
 (Fundstelle: BGBl. I 2018, 1298 - 1301)
 
@@ -1860,8 +1798,7 @@ Sicherheitsreaktionen der Funkfernsteuerung.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 5 – (zu § 9 Absatz 4)Maßnahmen, die für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur als Austausch im Zuge von Instandhaltungsarbeiten einzustufen sind
+# Anlage 5 – (zu § 9 Absatz 4)Maßnahmen, die für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur als Austausch im Zuge von Instandhaltungsarbeiten einzustufen sind
 
 (Fundstelle: BGBl. I 2018, 1302 - 1305)
 
@@ -2290,8 +2227,7 @@ Baumaßnahmen an Stromversorgungsanlagen,
 4.2.14  
 Baumaßnahmen an Telekommunikationsanlagen zur Reisendeninformation nach der Verordnung (EU) Nr. 1300/2014 ohne Sicherheitsaufgaben in Bahnhofsbereichen.
 
-
-## Anlage 6 – (zu § 18 Absatz 1 und § 21)Unterlagen zum Antrag auf Inbetriebnahmegenehmigung
+# Anlage 6 – (zu § 18 Absatz 1 und § 21)Unterlagen zum Antrag auf Inbetriebnahmegenehmigung
 
 (Fundstelle: BGBl. I 2018, 1306 - 1307)
 
@@ -2440,8 +2376,7 @@ Zusammenstellung der Abnahmebescheinigungen nach Nummer 3.5
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 7 – (zu § 27 Absatz 1 und 4)Gegenstand einer Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen
+# Anlage 7 – (zu § 27 Absatz 1 und 4)Gegenstand einer Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen
 
 (Fundstelle: BGBl. I 2018, 1308)
 

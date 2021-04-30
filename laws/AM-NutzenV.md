@@ -1,20 +1,15 @@
-# [AM-NutzenV] Verordnung über die Nutzenbewertung von Arzneimitteln nach § 35a Absatz 1 SGB V für Erstattungsvereinbarungen nach § 130b SGB V  (Arzneimittel-Nutzenbewertungsverordnung - AM-NutzenV)
-
-Ausfertigungsdatum: 28.12.2010
-
+% Verordnung über die Nutzenbewertung von Arzneimitteln nach § 35a Absatz 1 SGB V für Erstattungsvereinbarungen nach § 130b SGB V  (Arzneimittel-Nutzenbewertungsverordnung - AM-NutzenV)
+% Ausfertigungsdatum: 28.12.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 35a Absatz 1 Satz 6 und 7 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch Artikel 1 Nummer 5 des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2262) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Die Verordnung regelt das Nähere zur Nutzenbewertung von erstattungsfähigen Arzneimitteln mit neuen Wirkstoffen nach § 35a des Fünften Buches Sozialgesetzbuch. Der Gemeinsame Bundesausschuss regelt in seiner Verfahrensordnung weitere Einzelheiten erstmals innerhalb eines Monats nach Inkrafttreten der Rechtsverordnung.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Arzneimittel mit neuen Wirkstoffen im Sinne dieser Verordnung sind Arzneimittel, die Wirkstoffe enthalten, deren Wirkungen bei der erstmaligen Zulassung in der medizinischen Wissenschaft nicht allgemein bekannt sind. Ein Arzneimittel mit einem neuen Wirkstoff im Sinne dieser Verordnung gilt solange als ein Arzneimittel mit einem neuen Wirkstoff, wie für das erstmalig zugelassene Arzneimittel mit dem Wirkstoff Unterlagenschutz besteht.
 
@@ -26,8 +21,7 @@ Die Verordnung regelt das Nähere zur Nutzenbewertung von erstattungsfähigen Ar
 
 (5) Zweckmäßige Vergleichstherapie im Sinne dieser Verordnung ist diejenige Therapie, deren Nutzen mit dem Nutzen eines Arzneimittels mit neuen Wirkstoffen für die Nutzenbewertung nach § 35a des Fünften Buches Sozialgesetzbuch verglichen wird.
 
-
-## § 3 – Anwendungsbereich der Nutzenbewertung nach § 35a SGB V
+# § 3 – Anwendungsbereich der Nutzenbewertung nach § 35a SGB V
 
 (1) Die Nutzenbewertung nach § 35a Absatz 1 des Fünften Buches Sozialgesetzbuch wird durchgeführt für erstattungsfähige Arzneimittel mit neuen Wirkstoffen und neuen Wirkstoffkombinationen,
 
@@ -43,8 +37,7 @@ Die Verordnung regelt das Nähere zur Nutzenbewertung von erstattungsfähigen Ar
 
 (2) Die Nutzenbewertung nach § 35a Absatz 6 des Fünften Buches Sozialgesetzbuch wird durchgeführt für erstattungsfähige Arzneimittel mit Wirkstoffen, die keine neuen Wirkstoffe im Sinne dieser Verordnung sind, wenn der Gemeinsame Bundesausschuss eine Nutzenbewertung nach § 35a Absatz 6 des Fünften Buches Sozialgesetzbuch veranlasst.
 
-
-## § 4 – Dossier des pharmazeutischen Unternehmers
+# § 4 – Dossier des pharmazeutischen Unternehmers
 
 (1) Das Dossier enthält Angaben über:
 
@@ -90,8 +83,7 @@ Für Arzneimittel nach § 35a Absatz 1 Satz 11 des Fünften Buches Sozialgesetzb
 
 (8) Der pharmazeutische Unternehmer hat die Kosten für die gesetzliche Krankenversicherung gemessen am Apothekenabgabepreis und die den Krankenkassen tatsächlich entstehenden Kosten anzugeben. Die Kosten sind sowohl für das zu bewertende Arzneimittel als auch für die zweckmäßige Vergleichstherapie anzugeben. Maßgeblich sind die direkten Kosten für die gesetzliche Krankenversicherung über einen bestimmten Zeitraum. Bestehen bei Anwendung der Arzneimittel entsprechend der Fach- oder Gebrauchsinformation regelhaft Unterschiede bei der notwendigen Inanspruchnahme ärztlicher Behandlung oder bei der Verordnung sonstiger Leistungen zwischen dem zu bewertenden Arzneimittel und der zweckmäßigen Vergleichstherapie, sind die damit verbundenen Kostenunterschiede für die Feststellung der den Krankenkassen tatsächlich entstehenden Kosten zu berücksichtigen.
 
-
-## § 5 – Zusatznutzen
+# § 5 – Zusatznutzen
 
 (1) Der Zusatznutzen ist vom pharmazeutischen Unternehmer im Dossier nach § 4 nachzuweisen. Der Gemeinsame Bundesausschuss hat keine Amtsermittlungspflicht.
 
@@ -139,8 +131,7 @@ Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach den Nummer
 
 (8) Für Arzneimittel, die zur Behandlung eines seltenen Leidens nach der Verordnung (EG) Nr. 141/2000 des Europäischen Parlaments und des Rates vom 16. Dezember 1999 über Arzneimittel für seltene Leiden (ABl. L 18 vom 22.1.2000, S. 1) zugelassen sind und für die keine Nachweise nach § 35a Absatz 1 Satz 3 Nummer 2 und 3 des Fünften Buches Sozialgesetzbuch vorgelegt werden müssen, ist unter Angabe der Aussagekraft der Nachweise nur das Ausmaß des Zusatznutzens nach Absatz 7 Satz 1 Nummer 1 bis 4 zu quantifizieren. Im Fall des Absatzes 7 Satz 1 Nummer 4 hat der Gemeinsame Bundesausschuss im Beschluss über die Nutzenbewertung nach § 7 Absatz 4 danach zu differenzieren, ob ein Zusatznutzen vorliegt, aber nicht quantifizierbar ist, weil die wissenschaftliche Datengrundlage dies nicht zulässt oder weil die erforderlichen Nachweise nicht vollständig sind. Absatz 7 Satz 2 gilt entsprechend. Sofern es unmöglich oder unangemessen ist, Studien höchster Evidenzstufe durchzuführen oder zu fordern, sind Nachweise der bestverfügbaren Evidenzstufe einzureichen.
 
-
-## § 6 – Zweckmäßige Vergleichstherapie
+# § 6 – Zweckmäßige Vergleichstherapie
 
 (1) Die zweckmäßige Vergleichstherapie ist regelhaft zu bestimmen nach Maßstäben, die sich aus den internationalen Standards der evidenzbasierten Medizin ergeben.
 
@@ -150,8 +141,7 @@ Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach den Nummer
 
 (3) Für Arzneimittel einer Wirkstoffklasse ist die gleiche zweckmäßige Vergleichstherapie heranzuziehen, um eine einheitliche Bewertung zu gewährleisten.
 
-
-## § 7 – Nutzenbewertung
+# § 7 – Nutzenbewertung
 
 (1) Der Gemeinsame Bundesausschuss führt die Nutzenbewertung durch. Grundlage dafür sind das Dossier des pharmazeutischen Unternehmers nach § 4 sowie die aus einer anwendungsbegleitenden Datenerhebung nach § 35a Absatz 3b des Fünften Buches Sozialgesetzbuch erhobenen oder gewonnenen Daten. Der Gemeinsame Bundesausschuss kann das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen oder Dritte mit der Nutzenbewertung beauftragen. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
@@ -163,8 +153,7 @@ Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach den Nummer
 
 (4) Der Gemeinsame Bundesausschuss stellt die Nutzenbewertung einschließlich der Zusammenfassung zur schriftlichen und mündlichen Anhörung. Er beschließt nach der Durchführung der Anhörungen. Der Beschluss enthält die wesentlichen Ergebnisse der Nutzenbewertung und ist Teil der Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 6 des Fünften Buches Sozialgesetzbuch. Der Beschluss ist innerhalb von drei Monaten nach Veröffentlichung der Nutzenbewertung zu fassen. Der Beschluss ist für alle Arzneimittel mit diesem Wirkstoff Grundlage für Vereinbarungen nach § 130b des Fünften Buches Sozialgesetzbuch über Erstattungsbeträge und für die Bestimmung von Anforderungen an die Zweckmäßigkeit, Qualität und Wirtschaftlichkeit der Verordnung sowie für die Anerkennung als Praxisbesonderheit oder für die Zuordnung von Arzneimitteln ohne Zusatznutzen zu einer Festbetragsgruppe nach § 35 des Fünften Buches Sozialgesetzbuch.
 
-
-## § 8 – Beratung
+# § 8 – Beratung
 
 (1) Der Gemeinsame Bundesausschuss berät den pharmazeutischen Unternehmer aufgrund dessen Anforderung auf der Grundlage der eingereichten Unterlagen nach Absatz 2. Die Beratung wird durch die Geschäftsstelle des Gemeinsamen Bundesausschusses durchgeführt, sofern er nichts anderes beschließt. Die Beratung kann bereits vor Beginn von Zulassungsstudien der Phase drei und unter Beteiligung des Bundesinstituts für Arzneimittel und Medizinprodukte oder des Paul-Ehrlich-Instituts stattfinden. Der pharmazeutische Unternehmer erhält eine Niederschrift über das Beratungsgespräch.
 
@@ -172,8 +161,7 @@ Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach den Nummer
 
 (3) Die Frist für die Einreichung eines Dossiers nach § 4 Absatz 3 gilt unbeschadet der Beratung. Der Anspruch auf Beratung erlischt mit Verstreichen des Zeitpunktes nach § 4 Absatz 3 oder mit der Einreichung des Dossiers.
 
-
-## § 9 – Offenlegung
+# § 9 – Offenlegung
 
 (1) Das Dossier wird gleichzeitig mit der Nutzenbewertung nach § 7 Absatz 2 auf der Internetseite des Gemeinsamen Bundesausschusses veröffentlicht, sofern nicht Betriebs- und Geschäftsgeheimnisse, der Schutz des geistigen Eigentums oder der Schutz personenbezogener Daten dagegensprechen. Die Veröffentlichung enthält die Grundlagen, auf die sich die Bewertung stützt.
 
@@ -181,14 +169,12 @@ Abweichungen von dem quantifizierten Ausmaß eines Zusatznutzens nach den Nummer
 
 (3) Der Gemeinsame Bundesausschuss kann mit den maßgeblichen Verbänden der pharmazeutischen Industrie und mit pharmazeutischen Unternehmern das Nähere durch Vereinbarung regeln.
 
-
-## § 10 – Übergangsregelungen
+# § 10 – Übergangsregelungen
 
 (1) Für bis zum 31. Juli 2011 einzureichende Dossiers berät der Gemeinsame Bundesausschuss den pharmazeutischen Unternehmer abweichend von § 8 Absatz 3 über Inhalt und Vollständigkeit des Dossiers. Er kann damit das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen oder Dritte beauftragen. Ist das Dossier inhaltlich unzureichend, teilt der Gemeinsame Bundesausschuss dem pharmazeutischen Unternehmer in der Regel innerhalb von drei Monaten mit, welche zusätzlichen Angaben erforderlich sind.
 
 (2) Der pharmazeutische Unternehmer hat dem Gemeinsamen Bundesausschuss das überarbeitete Dossier innerhalb von drei Monaten nach der Mitteilung des Gemeinsamen Bundesausschusses nach Absatz 1 vorzulegen; § 4 Absatz 4 gilt entsprechend. Der Zeitpunkt der erneuten Vorlage des Dossiers ist für die Frist zum Abschluss der Nutzenbewertung nach § 7 Absatz 3 maßgeblich.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2011 in Kraft.

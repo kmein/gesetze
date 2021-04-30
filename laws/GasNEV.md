@@ -1,15 +1,11 @@
-# [GasNEV] Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen  (Gasnetzentgeltverordnung - GasNEV)
-
-Ausfertigungsdatum: 25.07.2005
-
+% Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen  (Gasnetzentgeltverordnung - GasNEV)
+% Ausfertigungsdatum: 25.07.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 24 Satz 1 Nr. 1, 2 und 4 in Verbindung mit Satz 2 Nr. 1, 2, 4, 5, 6 und 7 sowie Satz 3 und 5 und des § 29 Abs. 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970) verordnet die Bundesregierung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -261,13 +257,11 @@ Inkrafttreten
 
  
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Festlegung der Methode zur Bestimmung der Entgelte für den Zugang zu den Gasfernleitungs- und Gasverteilernetzen (Netzentgelte).
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -289,8 +283,7 @@ b) ausschließlich oder überwiegend dem Import von Erdgas oder dem Transport vo
 
 Im Übrigen finden die Begriffsbestimmungen der Gasnetzzugangsverordnung entsprechende Anwendung.
 
-
-## § 3 – Grundsätze der Entgeltbestimmung
+# § 3 – Grundsätze der Entgeltbestimmung
 
 (1) Für die Ermittlung der Netzentgelte sind die Netzkosten nach den §§ 4 bis 10 zusammenzustellen. Die ermittelten Netzkosten sind anschließend nach § 12 vollständig den dort aufgeführten Hauptkostenstellen zuzuordnen. Die Netzentgelte für die Gasfernleitung und Gasverteilung sind nach Maßgabe der §§ 13 bis 18 und 20 zu bestimmen. Die Ermittlung der Kosten und der Netzentgelte erfolgt auf der Basis der Daten des abgelaufenen Geschäftsjahres; gesicherte Erkenntnisse über das Planjahr können dabei berücksichtigt werden. Soweit hinsichtlich der Kostenermittlung keine besonderen Regelungen getroffen werden, sind die Leitsätze für die Preisermittlung auf Grund von Selbstkosten nach der Anlage zur Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz Nr. 244), die zuletzt durch Artikel 70 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) geändert worden ist, heranzuziehen.
 
@@ -302,8 +295,7 @@ Im Übrigen finden die Begriffsbestimmungen der Gasnetzzugangsverordnung entspre
 
 (3) Betreiber von Fernleitungsnetzen, die die Entgelte nach Absatz 2 bilden, haben dies unverzüglich der Regulierungsbehörde schriftlich oder elektronisch anzuzeigen sowie das Vorliegen der in Absatz 2 genannten Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1 sind jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3 der Anreizregulierungsverordnung, erstmals vor Beginn der zweiten Regulierungsperiode bei der Regulierungsbehörde einzureichen. Die Regulierungsbehörde hat zu prüfen, ob die Voraussetzungen nach Absatz 2 Satz 1 und 2 vorliegen. Stellt sie fest, dass dies nicht der Fall ist, hat sie von ihren Befugnissen nach § 65 des Energiewirtschaftsgesetzes Gebrauch zu machen. Bis zu einer Entscheidung nach Satz 4 können Entgelte in jedem Fall nach Absatz 2 Satz 1 gebildet werden.
 
-
-## § 4 – Grundsätze der Netzkostenermittlung
+# § 4 – Grundsätze der Netzkostenermittlung
 
 (1) Bilanzielle und kalkulatorische Kosten des Netzbetriebs sind nur insoweit anzusetzen, als sie den Kosten eines effizienten und strukturell vergleichbaren Netzbetreibers entsprechen.
 
@@ -321,15 +313,13 @@ Im Übrigen finden die Begriffsbestimmungen der Gasnetzzugangsverordnung entspre
 
 (7) Soweit außerordentliche Aufwendungen und Erträge die Netzkosten einer Kalkulationsperiode beeinflussen, sind diese der Regulierungsbehörde unverzüglich anzuzeigen.
 
-
-## § 5 – Aufwandsgleiche Kostenpositionen
+# § 5 – Aufwandsgleiche Kostenpositionen
 
 (1) Aufwandsgleiche Kostenpositionen sind den nach § 6b Absatz 3 des Energiewirtschaftsgesetzes erstellten Gewinn- und Verlustrechnungen für die Gasfernleitung und Gasverteilung zu entnehmen und nach Maßgabe des § 4 Abs. 1 bei der Bestimmung der Netzkosten zu berücksichtigen.
 
 (2) Fremdkapitalzinsen sind in ihrer tatsächlichen Höhe einzustellen, höchstens jedoch in der Höhe kapitalmarktüblicher Zinsen für vergleichbare Kreditaufnahmen.
 
-
-## § 6 – Kalkulatorische Abschreibungen
+# § 6 – Kalkulatorische Abschreibungen
 
 (1) Zur Gewährleistung eines langfristig angelegten leistungsfähigen und zuverlässigen Netzbetriebs ist die Wertminderung der betriebsnotwendigen Anlagegüter nach den Absätzen 2 bis 7 als Kostenposition bei der Ermittlung der Netzkosten in Ansatz zu bringen (kalkulatorische Abschreibungen). Die kalkulatorischen Abschreibungen treten insoweit in der kalkulatorischen Kosten- und Erlösrechnung an die Stelle der entsprechenden bilanziellen Abschreibungen der Gewinn- und Verlustrechnung. Bei der Ermittlung der kalkulatorischen Abschreibungen ist jeweils zu unterscheiden nach Anlagegütern, die vor dem 1. Januar 2006 aktiviert wurden (Altanlage), und Anlagegütern, die ab dem 1. Januar 2006 aktiviert werden (Neuanlage).
 
@@ -351,8 +341,7 @@ Die Eigenkapitalquote ergibt sich rechnerisch als Quotient aus dem betriebsnotwe
 
 (7) Das Verbot von Abschreibungen unter Null gilt ungeachtet der Änderung von Eigentumsverhältnissen oder der Begründung von Schuldverhältnissen.
 
-
-## § 6a – Preisindizes zur Ermittlung der Tagesneuwerte
+# § 6a – Preisindizes zur Ermittlung der Tagesneuwerte
 
 (1) Bei der Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 sind folgende Indexreihen des Statistischen Bundesamtes<span id="FnR.F782159_02"></span><a href="#F782159_02" class="FnR">*</a></sup> heranzuziehen:
 
@@ -394,8 +383,7 @@ c) für den Zeitraum vor 1968 die Indexreihe Eisen und Stahl (Statistisches Bund
 
 (3) Der Tagesneuwert im Basisjahr eines im Jahr t angeschafften Anlagegutes ergibt sich durch die Multiplikation des Indexfaktors des Jahres t mit den historischen Anschaffungs- oder Herstellungskosten. Der Indexfaktor des Jahres t ergibt sich aus dem Quotienten des Indexwertes des Basisjahres und dem Indexwert des Jahres t und ist auf vier Nachkommastellen zu runden.
 
-
-## § 7 – Kalkulatorische Eigenkapitalverzinsung
+# § 7 – Kalkulatorische Eigenkapitalverzinsung
 
 (1) Die Verzinsung des von Betreibern von Gasversorgungsnetzen eingesetzten Eigenkapitals erfolgt im Wege einer kalkulatorischen Eigenkapitalverzinsung auf Grundlage des betriebsnotwendigen Eigenkapitals. Das betriebsnotwendige Eigenkapital ergibt sich aus der Summe der
 
@@ -445,13 +433,11 @@ und unter Abzug des Abzugskapitals und des verzinslichen Fremdkapitals. Grundst�
 
 Weitere Zuschläge sind unzulässig.
 
-
-## § 8 – Kalkulatorische Steuern
+# § 8 – Kalkulatorische Steuern
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische Kostenposition in Ansatz gebracht werden.
 
-
-## § 9 – Kostenmindernde Erlöse und Erträge
+# § 9 – Kostenmindernde Erlöse und Erträge
 
 (1) Sonstige Erlöse und Erträge sind, soweit sie sachlich dem Netzbetrieb zuzurechnen und insbesondere den Positionen
 
@@ -469,8 +455,7 @@ der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von den Netzkos
 
 (2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines Anschlusses für die Einspeisung von Gas entrichtet wurden, sind anschlussindividuell über die Dauer von 20 Jahren linear aufzulösen.
 
-
-## § 10 – Periodenübergreifende Saldierung
+# § 10 – Periodenübergreifende Saldierung
 
 Soweit die Netzentgelte nicht im Wege der Anreizregulierung nach § 21a des Energiewirtschaftsgesetzes bestimmt werden, sind die Betreiber von Gasversorgungsnetzen verpflichtet, nach Abschluss einer Kalkulationsperiode die Differenz zwischen
 
@@ -480,18 +465,15 @@ Soweit die Netzentgelte nicht im Wege der Anreizregulierung nach § 21a des Ener
 
 zu ermitteln. Liegen die Erlöse nach Satz 1 Nr. 1 über den Kosten nach Satz 1 Nr. 2, ist der Differenzbetrag zuzüglich einer Verzinsung des durchschnittlich gebundenen Betrages mit einem angemessenen Zinssatz kostenmindernd in Ansatz zu bringen. Liegen die Erlöse nach Satz 1 Nr. 1 unter den Kosten nach Satz 1 Nr. 2, kann der Differenzbetrag zuzüglich einer Verzinsung des durchschnittlichen Differenzbetrages mit einem angemessenen Zinssatz kostenerhöhend in Ansatz gebracht werden. Eine Saldierung erfolgt jeweils über die drei folgenden Kalkulationsperioden. Der durchschnittlich gebundene Betrag ist der Mittelwert der Differenz aus den erzielten Erlösen und den zu deckenden Kosten. Der durchschnittliche Differenzbetrag ist der Mittelwert der Differenz aus den zu deckenden Kosten und den erzielten Erlösen.
 
-
-## § 11 – Grundsätze der Kostenverteilung
+# § 11 – Grundsätze der Kostenverteilung
 
 Die nach § 4 ermittelten Netzkosten sind soweit möglich direkt den Hauptkostenstellen nach § 12 zuzuordnen. Soweit eine direkte Zuordnung von Kosten nicht oder nur mit unvertretbar hohem Aufwand möglich ist, sind diese zunächst geeigneten Hilfskostenstellen zuzuordnen. Die Aufteilung dieser Netzkosten auf die Hauptkostenstellen hat verursachungsgerecht über eine angemessene Schlüsselung zu erfolgen. Die gewählten Schlüssel müssen sachgerecht sein und sind von Betreibern eines Gasfernleitungs- oder Gasverteilernetzes für sachkundige Dritte nachvollziehbar und vollständig schriftlich zu dokumentieren. Insbesondere sind die Schlüssel stetig anzuwenden. Änderungen eines Schlüssels sind nur zulässig, sofern diese sachlich geboten sind. Die sachlichen Gründe für diese Änderungen sind von Betreibern eines Gasfernleitungs- oder Gasverteilernetzes in einer für sachkundige Dritte nachvollziehbaren Weise und vollständig schriftlich zu dokumentieren. Diese Dokumentationen sind der Regulierungsbehörde auf Verlangen zu übermitteln.
 
-
-## § 12 – Kostenstellen
+# § 12 – Kostenstellen
 
 Für die Ermittlung der Netzentgelte haben Betreiber von Gasversorgungsnetzen als Maßgrößen der Kostenverursachung Haupt- und Nebenkostenstellen nach Anlage 2 zu bilden. Betreiber von örtlichen Verteilernetzen sind verpflichtet, jede Haupt- und Nebenkostenstelle zusätzlich nach Ortstransportleitungen und Ortsverteilernetz zu unterteilen. Die Netzkosten nach § 4 sind vollständig auf die Kostenstellen nach Anlage 2 zu verteilen. Die Bildung von Hilfskostenstellen ist zulässig.
 
-
-## § 13 – Grundsätze der Entgeltermittlung
+# § 13 – Grundsätze der Entgeltermittlung
 
 (1) Grundlage des Systems der Entgeltbildung für den Netzzugang ist das Netzzugangsmodell nach § 20 Abs. 1b des Energiewirtschaftsgesetzes.
 
@@ -501,15 +483,13 @@ Für die Ermittlung der Netzentgelte haben Betreiber von Gasversorgungsnetzen al
 
 (4) Die Netzbetreiber haben die Vorgehensweise bei der Bildung der Ein- und Ausspeiseentgelte zu dokumentieren; diese Dokumentation ist auf Verlangen der Regulierungsbehörde vorzulegen.
 
-
-## § 14 – Teilnetze
+# § 14 – Teilnetze
 
 (1) Soweit ein Betreiber von Gasversorgungsnetzen nach § 6 Abs. 5 der Gasnetzzugangsverordnung Teilnetze gebildet hat, hat er die nach § 4 ermittelten Netzkosten zunächst den einzelnen Teilnetzen zuzuordnen. Die Zuordnung kann durch eine sachgerechte Schlüsselung erfolgen und ist zu dokumentieren.
 
 (2) Die Ermittlung der Netzentgelte nach § 15 erfolgt getrennt für die einzelnen Teilnetze auf Basis der diesen Teilnetzen zugewiesenen Kosten. Nur einmal erbrachte Systemdienstleistungen nach § 5 Abs. 2 der Gasnetzzugangsverordnung dürfen bei der Nutzung mehrerer Teilnetze eines Netzbetreibers nicht mehrfach berechnet werden.
 
-
-## § 15 – Ermittlung der Netzentgelte
+# § 15 – Ermittlung der Netzentgelte
 
 (1) Die Netzkosten sind möglichst verursachungsgerecht zunächst in die Beträge aufzuteilen, die durch Einspeiseentgelte einerseits und Ausspeiseentgelte andererseits zu decken sind. Es ist eine angemessene Aufteilung der Gesamtkosten zwischen den Ein- und Ausspeisepunkten zu gewährleisten. Die Aufteilung der Kosten und Änderung der Aufteilung haben Betreiber von Gasversorgungsnetzen der Regulierungsbehörde jeweils unverzüglich anzuzeigen und ihr in einer für sachkundige Dritte nachvollziehbaren Weise zu begründen.
 
@@ -537,18 +517,15 @@ Zur Ermittlung von Anreizmöglichkeiten im Sinne des Satzes 2 Nr. 3 hat der Netz
 
 (+++ § 15 Abs. 7: Zur Anwendung vgl. § 7 Abs. 1 MessbG +++)
 
-
-## § 16 – Verprobung
+# § 16 – Verprobung
 
 (1) Netzbetreiber haben im Rahmen der Ermittlung der Netzentgelte sicherzustellen, dass ein zur Veröffentlichung stehendes Entgeltsystem geeignet ist, die nach § 4 ermittelten Kosten zu decken. Im Einzelnen ist sicherzustellen, dass die Anwendung des Entgeltsystems einen prognostizierten Erlös ergibt, welcher der Höhe nach den zu deckenden Kosten nach Satz 1 entspricht.
 
 (2) Die Verprobungen nach Absatz 1 sind vom Netzbetreiber in einer für sachkundige Dritte nachvollziehbaren Weise schriftlich zu dokumentieren und in den Bericht nach § 28 aufzunehmen.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Besondere Regeln für örtliche Verteilernetze
+# § 18 – Besondere Regeln für örtliche Verteilernetze
 
 (1) Grundlage des Systems der Entgeltbildung für den Netzzugang zu örtlichen Verteilernetzen ist abweichend von den §§ 14 bis 16 ein transaktionsunabhängiges Punktmodell. Die für das jeweilige Verteilernetz nach § 4 ermittelten Netzkosten werden über ein jährliches Netzentgelt gedeckt. Für die Einspeisung von Gas in das örtliche Verteilernetz sind keine Netzentgelte zu entrichten.
 
@@ -564,8 +541,7 @@ Zur Ermittlung von Anreizmöglichkeiten im Sinne des Satzes 2 Nr. 3 hat der Netz
 
 (7) Die Netzbetreiber haben die Vorgehensweise bei der Bildung der Netzentgelte vollständig und in für sachkundige Dritte nachvollziehbarer Weise zu dokumentieren und die Dokumentation auf Verlangen der Regulierungsbehörde vorzulegen.
 
-
-## § 19 – Besondere Regeln für Fernleitungsnetze
+# § 19 – Besondere Regeln für Fernleitungsnetze
 
 (1) Bei Fernleitungsnetzen im Sinne des § 2 Nr. 3 erfolgt die Bildung der Ein- und Ausspeiseentgelte auf der Grundlage eines von der Regulierungsbehörde durchzuführenden Vergleichsverfahrens nach Maßgabe des § 26. Bis zur erstmaligen Bildung der Netzentgelte nach Satz 1 haben die Netzbetreiber die bis zum Inkrafttreten dieser Verordnung von ihnen angewandten Entgelte zu Grunde zu legen. Für die Einspeisung von Biogas ins Fernleitungsnetz sind keine Einspeiseentgelte zu entrichten.
 
@@ -573,8 +549,7 @@ Zur Ermittlung von Anreizmöglichkeiten im Sinne des Satzes 2 Nr. 3 hat der Netz
 
 (3) Ergibt der von der Regulierungsbehörde nach § 26 durchgeführte Vergleich, dass die Netzentgelte die Entgelte anderer strukturell vergleichbarer Netze oder Teilnetze in der Europäischen Union überschreiten, ohne dass dieses sachlich gerechtfertigt ist, ist der Netzbetreiber verpflichtet, seine Entgelte unverzüglich entsprechend anzupassen.
 
-
-## § 20 – Sonderformen der Netznutzung
+# § 20 – Sonderformen der Netznutzung
 
 (1) Netzbetreiber können für bestimmte Ein- und Ausspeisepunkte neben den Ein- und Ausspeiseentgelten separate Kurzstreckenentgelte ausweisen, wenn hierdurch eine bessere Auslastung des Leitungsnetzes erreicht oder gesichert werden kann.
 
@@ -582,13 +557,11 @@ Zur Ermittlung von Anreizmöglichkeiten im Sinne des Satzes 2 Nr. 3 hat der Netz
 
 (3) Die Vorgehensweise nach den Absätzen 1 und 2 ist vom Netzbetreiber in für sachkundige Dritte nachvollziehbarer Weise zu dokumentieren; die Dokumentation ist der Regulierungsbehörde auf Verlangen vorzulegen.
 
-
-## § 20a
+# § 20a
 
 Transportkunden von Biogas erhalten vom Netzbetreiber, in dessen Netz sie unmittelbar Biogas einspeisen, ein pauschales Entgelt in Höhe von 0,007 Euro je Kilowattstunde eingespeisten Biogases für vermiedene Netzkosten für zehn Jahre ab Inbetriebnahme des jeweiligen Netzanschlusses für die Einspeisung von Biogas. Dies gilt unabhängig von der Netzebene, in die eingespeist wird. Die Höhe des pauschalierten Entgelts wird im Zuge des Monitorings nach § 35 Absatz 1 Nummer 7 des Energiewirtschaftsgesetzes überprüft.
 
-
-## § 20b
+# § 20b
 
 Die Kosten
 
@@ -606,8 +579,7 @@ für die vom Netzbetreiber gemäß § 20a an den Transportkunden von Biogas zu z
 
 werden bundesweit umgelegt.
 
-
-## § 21 – Netzentgeltbildung bei Anreizregulierung
+# § 21 – Netzentgeltbildung bei Anreizregulierung
 
 (1) Soweit die Kosten einer Regulierung nach der Anreizregulierungsverordnung unterliegen, werden die Entgelte für den Zugang zu den Energieversorgungsnetzen aus den nach § 32 Absatz 1 Nummer 1 der Anreizregulierungsverordnung festgelegten Erlösobergrenzen ermittelt. Dies erfolgt entsprechend den Vorschriften der §§ 11 bis 16 und 18 bis 20b.
 
@@ -615,11 +587,9 @@ werden bundesweit umgelegt.
 
 (3) Die Anpassung der Netzentgelte nach Absatz 2 erfolgt zum 1. Januar eines Kalenderjahres. Vorgelagerte Netzbetreiber haben die Höhe der geplanten Anpassung der Netzentgelte den nachgelagerten Netzbetreibern rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
+# §§ 22 bis 26 – (weggefallen)
 
-## §§ 22 bis 26 – (weggefallen)
-
-
-## § 27 – Veröffentlichungspflichten
+# § 27 – Veröffentlichungspflichten
 
 (1) Betreiber von Gasversorgungsnetzen sind verpflichtet, die für ihr Netz geltenden Netzentgelte auf ihren Internetseiten zu veröffentlichen und auf Anfrage jedermann unverzüglich in Textform mitzuteilen. Werden individuelle Netzentgelte nach § 20 gebildet, sind diese in die Veröffentlichung der Netzentgelte aufzunehmen und der Regulierungsbehörde unverzüglich anzuzeigen.
 
@@ -635,8 +605,7 @@ werden bundesweit umgelegt.
 
 5. die zeitgleiche Jahreshöchstlast aller Entnahmen in Megawatt oder Kubikmetern pro Stunde und den Zeitpunkt des jeweiligen Auftretens.
 
-
-## § 28 – Dokumentation
+# § 28 – Dokumentation
 
 (1) Betreiber von Gasversorgungsnetzen haben unverzüglich einen Bericht über die Ermittlung der Netzentgelte nach den Sätzen 2 und 3 zu erstellen. Der Bericht muss enthalten:
 
@@ -666,13 +635,11 @@ Die Angaben nach Satz 2 Nr. 1 und 2 müssen einen sachkundigen Dritten in die La
 
 (3) Für Betreiber von Fernleitungsnetzen, die ihre Entgelte nach § 19 bilden, gelten abweichend von den Absätzen 1 und 2 nur Absatz 1 Satz 2 Nr. 1 im Hinblick auf die Erlöslage der abgeschlossenen Kalkulationsperiode und Nummer 2.
 
-
-## § 29 – Mitteilungen gegenüber der Regulierungsbehörde
+# § 29 – Mitteilungen gegenüber der Regulierungsbehörde
 
 Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes Entscheidungen treffen zu Umfang, Zeitpunkt und Form der ihr zu übermittelnden Informationen, insbesondere zu den zulässigen Datenträgern und Übertragungswegen.
 
-
-## § 30 – Festlegungen der Regulierungsbehörde
+# § 30 – Festlegungen der Regulierungsbehörde
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die Regulierungsbehörde unter Beachtung der Anforderungen eines sicheren Netzbetriebs Entscheidungen durch Festlegung nach § 29 Abs. 1 des Energiewirtschaftsgesetzes treffen über
 
@@ -706,8 +673,7 @@ Die Regulierungsbehörde kann zur Vereinfachung des Verfahrens durch Festlegung 
 
 (3) (weggefallen)
 
-
-## § 31 – Ordnungswidrigkeiten
+# § 31 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -717,8 +683,7 @@ Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaft
 
 3. entgegen § 28 Abs. 1 Satz 1 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt.
 
-
-## § 32 – Übergangsregelungen
+# § 32 – Übergangsregelungen
 
 (1) Zur erstmaligen Ermittlung der Netzentgelte nach Absatz 2 sind die kalkulatorischen Restwerte des Sachanlagevermögens für den eigenfinanzierten Anteil auf Tagesneuwertbasis nach § 6 Abs. 3, für den fremdfinanzierten Anteil anschaffungsorientiert zu bestimmen und anlagenscharf zu dokumentieren. Dabei sind die seit Inbetriebnahme der Sachanlagegüter der kalkulatorischen Abschreibung tatsächlich zu Grunde gelegten Nutzungsdauern heranzuziehen. Soweit vor dem Inkrafttreten dieser Verordnung keine kostenbasierten Preise gefordert worden sind, wird vermutet, dass der kalkulatorischen Abschreibung des Sachanlagevermögens die unteren Werte der in Anlage 1 genannten Spannen von Nutzungsdauern zu Grunde gelegt worden sind, es sei denn, der Betreiber des Gasversorgungsnetzes weist etwas anderes nach.
 
@@ -730,18 +695,15 @@ Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaft
 
 (5) Die Verzinsung des die Eigenkapitalquote im Sinne des § 7 Absatz 1 Satz 5 übersteigenden Anteils des Eigenkapitals erfolgt ab dem 1. Januar 2013 nach § 7 Absatz 7.
 
-
-## § 33 – Inkrafttreten
+# § 33 – Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 6 Abs. 5 Satz 1)  Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
+# Anlage 1 – (zu § 6 Abs. 5 Satz 1)  Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 2207 - 2208)
 
@@ -1055,8 +1017,7 @@ Fernwirkanlagen
 
 15-20
 
-
-## Anlage 2 – (zu § 12 Satz 1)Haupt- und Nebenkostenstellen
+# Anlage 2 – (zu § 12 Satz 1)Haupt- und Nebenkostenstellen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2209
 
@@ -1109,8 +1070,7 @@ Nebenkostenstelle "Messung Mitteldruckleitungsnetz";
 5.3  
 Nebenkostenstelle "Messung Niederdruckleitungsnetz".
 
-5a.  
-Hauptkostenstelle „Messstellenbetrieb“
+5a. Hauptkostenstelle „Messstellenbetrieb“
 
 5a.1  
 Nebenkostenstelle „Messstellenbetrieb Hochdruckleitungsnetz“;

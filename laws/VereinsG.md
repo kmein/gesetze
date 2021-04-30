@@ -1,22 +1,17 @@
-# [VereinsG] Gesetz zur Regelung des öffentlichen Vereinsrechts  (Vereinsgesetz)
-
-Ausfertigungsdatum: 05.08.1964
-
+% Gesetz zur Regelung des öffentlichen Vereinsrechts  (Vereinsgesetz)
+% Ausfertigungsdatum: 05.08.1964
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Vereinsfreiheit
+# § 1 – Vereinsfreiheit
 
 (1) Die Bildung von Vereinen ist frei (Vereinsfreiheit).
 
 (2) Gegen Vereine, die die Vereinsfreiheit mißbrauchen, kann zur Wahrung der öffentlichen Sicherheit oder Ordnung nur nach Maßgabe dieses Gesetzes eingeschritten werden.
 
-
-## § 2 – Begriff des Vereins
+# § 2 – Begriff des Vereins
 
 (1) Verein im Sinne dieses Gesetzes ist ohne Rücksicht auf die Rechtsform jede Vereinigung, zu der sich eine Mehrheit natürlicher oder juristischer Personen für längere Zeit zu einem gemeinsamen Zweck freiwillig zusammengeschlossen und einer organisierten Willensbildung unterworfen hat.
 
@@ -26,8 +21,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 2. Fraktionen des Deutschen Bundestages und der Parlamente der Länder.
 
-
-## § 3 – Verbot
+# § 3 – Verbot
 
 (1) Ein Verein darf erst dann als verboten (Artikel 9 Abs. 2 des Grundgesetzes) behandelt werden, wenn durch Verfügung der Verbotsbehörde festgestellt ist, daß seine Zwecke oder seine Tätigkeit den Strafgesetzen zuwiderlaufen oder daß er sich gegen die verfassungsmäßige Ordnung oder den Gedanken der Völkerverständigung richtet; in der Verfügung ist die Auflösung des Vereins anzuordnen (Verbot). Mit dem Verbot ist in der Regel die Beschlagnahme und die Einziehung
 
@@ -61,8 +55,7 @@ Die oberste Landesbehörde oder die nach Landesrecht zuständige Behörde entsch
 
  
 
-
-## § 4 – Ermittlungen
+# § 4 – Ermittlungen
 
 (1) Die Verbotsbehörde kann für ihre Ermittlungen die Hilfe der für die Wahrung der öffentlichen Sicherheit oder Ordnung zuständigen Behörden und Dienststellen in Anspruch nehmen. Ermittlungsersuchen des Bundesministeriums des Innern, für Bau und Heimat sind an die zuständige oberste Landesbehörde zu richten.
 
@@ -74,22 +67,19 @@ Die oberste Landesbehörde oder die nach Landesrecht zuständige Behörde entsch
 
 (5) Bei Gefahr im Verzug kann auch die Verbotsbehörde oder eine gemäß Absatz 1 Satz 1 ersuchte Stelle eine Beschlagnahme, mit Ausnahme der Beschlagnahme nach § 99 der Strafprozeßordnung, oder eine Durchsuchung anordnen. Die Vorschriften des Absatzes 4 sowie § 98 Abs. 2 Satz 1 und 2 der Strafprozeßordnung gelten entsprechend.
 
-
-## § 5 – Vollzug des Verbots
+# § 5 – Vollzug des Verbots
 
 (1) Soweit das Verbot nach diesem Gesetz nicht von der Verbotsbehörde selbst oder den von ihr gemäß § 10 Abs. 3 und § 11 Abs. 3 beauftragten Stellen zu vollziehen ist, wird es von den von der Landesregierung bestimmten Behörden vollzogen.
 
 (2) Folgt dem Verbot eines Teilvereins, bevor es unanfechtbar geworden ist, ein den Teilverein einschließendes Verbot des Gesamtvereins, so ist von diesem Zeitpunkt an nur noch das Verbot des Gesamtvereins zu vollziehen.
 
-
-## § 6 – Anfechtung des Verbotsvollzugs
+# § 6 – Anfechtung des Verbotsvollzugs
 
 (1) Wird eine Maßnahme zum Vollzug des Verbots angefochten und kommt es für die Entscheidung darauf an, ob das Verbot rechtmäßig ist, so hat das Verwaltungsgericht, wenn es die Rechtmäßigkeit des Verbots bezweifelt, das Verfahren auszusetzen, bis über das Verbot unanfechtbar entschieden ist, und dieses Ergebnis seiner Entscheidung zugrunde zu legen.
 
 (2) Widerspruch und Anfechtungsklage gegen Maßnahmen zum Vollzug des Verbots haben keine aufschiebende Wirkung.
 
-
-## § 7 – Unanfechtbarkeit des Verbots, Eintragung in öffentliche Register
+# § 7 – Unanfechtbarkeit des Verbots, Eintragung in öffentliche Register
 
 (1) Ist das Verbot unanfechtbar geworden, so ist sein verfügender Teil nochmals unter Hinweis auf die Unanfechtbarkeit im Bundesanzeiger und in dem in § 3 Abs. 4 Satz 2 genannten Mitteilungsblatt zu veröffentlichen.
 
@@ -99,15 +89,13 @@ die Bestellung und Abberufung von Verwaltern (§ 10 Abs. 3),
 die Auflösung des Vereins, nachdem das Verbot unanfechtbar geworden ist, und  
 das Erlöschen des Vereins.
 
-
-## § 8 – Verbot der Bildung von Ersatzorganisationen
+# § 8 – Verbot der Bildung von Ersatzorganisationen
 
 (1) Es ist verboten, Organisationen zu bilden, die verfassungswidrige Bestrebungen (Artikel 9 Abs. 2 des Grundgesetzes) eines nach § 3 dieses Gesetzes verbotenen Vereins an dessen Stelle weiterverfolgen (Ersatzorganisationen) oder bestehende Organisationen als Ersatzorganisationen fortzuführen.
 
 (2) Gegen eine Ersatzorganisation, die Verein im Sinne dieses Gesetzes ist, kann zur verwaltungsmäßigen Durchführung des in Absatz 1 enthaltenen Verbots nur auf Grund einer besonderen Verfügung vorgegangen werden, in der festgestellt wird, daß sie Ersatzorganisation des verbotenen Vereins ist. Die §§ 3 bis 7 und 10 bis 13 gelten entsprechend. Widerspruch und Anfechtungsklage gegen die Verfügung haben keine aufschiebende Wirkung. Die für die Wahrung der öffentlichen Sicherheit oder Ordnung zuständigen Behörden und Dienststellen sind bei Gefahr im Verzug zu vorläufigen Maßnahmen berechtigt, die außer Kraft treten, wenn die Verbotsbehörde nicht binnen zweier Wochen die in Satz 1 bestimmte Verfügung trifft.
 
-
-## § 9 – Kennzeichenverbot
+# § 9 – Kennzeichenverbot
 
 (1) Kennzeichen des verbotenen Vereins dürfen für die Dauer der Vollziehbarkeit des Verbots nicht mehr
 
@@ -123,8 +111,7 @@ verwendet werden. Ausgenommen ist eine Verwendung von Kennzeichen im Rahmen der 
 
 (4) Diese Vorschriften gelten auch für die Verwendung von Kennzeichen einer Ersatzorganisation für die Dauer der Vollziehbarkeit einer Verfügung nach § 8 Abs. 2 Satz 1.
 
-
-## § 10 – Vermögensbeschlagnahme
+# § 10 – Vermögensbeschlagnahme
 
 (1) Die Beschlagnahme (§ 3 Abs. 1 Satz 2) hat die Wirkung eines Veräußerungsverbots. Rechtsgeschäfte, die gegen das Veräußerungsverbot verstoßen, sind nichtig, es sei denn, daß der andere Teil weder wußte noch wissen mußte, daß der Gegenstand, auf den sich das Rechtsgeschäft bezieht, der Beschlagnahme unterliegt. Die Beschlagnahme erfaßt auch die Gegenstände, die der Verein einem Dritten zu treuen Händen übertragen hat oder die ein Dritter als Treuhänder für den Verein erworben hat. In den Fällen des Satzes 3 sind die Vorschriften zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, entsprechend anzuwenden.
 
@@ -136,8 +123,7 @@ verwendet werden. Ausgenommen ist eine Verwendung von Kennzeichen im Rahmen der 
 
 (5) Die Aufhebung der Beschlagnahme sowie der Aufschub und die Wiederherstellung ihrer Vollziehbarkeit haben keine rückwirkende Kraft.
 
-
-## § 11 – Vermögenseinziehung
+# § 11 – Vermögenseinziehung
 
 (1) Die Einziehung (§ 3 Abs. 1 Satz 2) wird im Fall des § 3 Abs. 2 Nr. 1 zugunsten des Landes, im Fall des § 3 Abs. 2 Nr. 2 zugunsten des Bundes angeordnet. Die Einziehung erfaßt auch die Gegenstände, auf die sich nach § 10 Abs. 1 Satz 3 die Beschlagnahme erstreckt, mit Ausnahme der vom Verein einem Dritten zur Sicherung übertragenen Gegenstände.
 
@@ -147,8 +133,7 @@ verwendet werden. Ausgenommen ist eine Verwendung von Kennzeichen im Rahmen der 
 
 (4) Die Verbotsbehörde kann von der Einziehung absehen, wenn keine Gefahr besteht, daß Vermögenswerte des Vereins von neuem zur Förderung von Handlungen oder Bestrebungen der in Artikel 9 Abs. 2 des Grundgesetzes genannten Art verwendet werden oder daß die Vermögensauseinandersetzung dazu mißbraucht wird, den organisatorischen Zusammenhalt des Vereins aufrechtzuerhalten, ferner, soweit es sich um Gegenstände von unerheblichem Wert handelt. Die Verbotsbehörde kann die Liquidatoren bestellen. § 12 Abs. 1 Satz 1 gilt sinngemäß für den Anspruch auf den Liquidationserlös.
 
-
-## § 12 – Einziehung von Gegenständen Dritter
+# § 12 – Einziehung von Gegenständen Dritter
 
 (1) Die Verbotsbehörde oder die Einziehungsbehörde zieht Forderungen Dritter gegen den Verein ein, wenn
 
@@ -166,8 +151,7 @@ Hat der Gläubiger eine solche Forderung durch Abtretung erworben, so kann sie n
 
 (5) Verfügungen des Vereins, die in den letzten sechs Monaten vor Erlaß des Verbots in der dem anderen Teil bekannten Absicht vorgenommen wurden, Gegenstände des Vereinsvermögens beiseite zu schaffen, sind dem Einziehungsbegünstigten gegenüber unwirksam. Ist zugunsten eines Vereinsmitglieds oder einer Person, die ihm im Sinne des § 138 Abs. 1 der Insolvenzordnung nahesteht, verfügt worden, so wird vermutet, daß diesen die in Satz 1 bezeichnete Absicht bekannt war.
 
-
-## § 13 – Abwicklung
+# § 13 – Abwicklung
 
 (1) Die Gläubiger, die ihre Forderungen innerhalb der von der Verbotsbehörde oder Einziehungsbehörde gesetzten Ausschlußfrist angemeldet haben, sind aus der besonderen Vermögensmasse zu befriedigen. Die Befriedigung von Gläubigern, die im Falle des Insolvenzverfahrens Insolvenzgläubiger wären, ist, soweit nicht eine Rechtsverordnung etwas anderes bestimmt, erst zulässig, wenn die Verwertung des eingezogenen Vermögens (§ 11 Abs. 1) eine zur Befriedigung aller Gläubiger ausreichende bare Masse ergeben hat. Forderungen, die innerhalb der Ausschlußfrist nicht angemeldet werden, erlöschen.
 
@@ -177,8 +161,7 @@ Hat der Gläubiger eine solche Forderung durch Abtretung erworben, so kann sie n
 
 (4) Das nach Befriedigung der gegen die besondere Vermögensmasse gerichteten Ansprüche verbleibende Vermögen und die nach § 12 eingezogenen Gegenstände sind vom Einziehungsbegünstigten für gemeinnützige Zwecke zu verwenden.
 
-
-## § 14 – Ausländervereine
+# § 14 – Ausländervereine
 
 (1) Vereine, deren Mitglieder oder Leiter sämtlich oder überwiegend Ausländer sind (Ausländervereine), können über die in Artikel 9 Abs. 2 des Grundgesetzes genannten Gründe hinaus unter den Voraussetzungen des Absatzes 2 verboten werden. Vereine, deren Mitglieder oder Leiter sämtlich oder überwiegend ausländische Staatsangehörige eines Mitgliedstaates der Europäischen Union sind, gelten nicht als Ausländervereine. § 3 Abs. 1 Satz 2 und § 12 Abs. 1 und 2 sind mit der Maßgabe anzuwenden, dass die Beschlagnahme und die Einziehung von Forderungen und Sachen Dritter auch im Falle des Absatzes 2 zulässig sind.
 
@@ -196,15 +179,13 @@ Hat der Gläubiger eine solche Forderung durch Abtretung erworben, so kann sie n
 
 (3) Anstelle des Vereinsverbots kann die Verbotsbehörde gegenüber Ausländervereinen Betätigungsverbote erlassen, die sie auch auf bestimmte Handlungen oder bestimmte Personen beschränken kann. Im übrigen bleiben Ausländervereinen gegenüber die gesetzlichen Vorschriften zur Wahrung der öffentlichen Sicherheit oder Ordnung unberührt.
 
-
-## § 15 – Ausländische Vereine
+# § 15 – Ausländische Vereine
 
 (1) Für Vereine mit Sitz im Ausland (ausländische Vereine), deren Organisation oder Tätigkeit sich auf den räumlichen Geltungsbereich dieses Gesetzes erstreckt, gilt § 14 entsprechend. Zuständig für das Verbot ist das Bundesministerium des Innern, für Bau und Heimat.
 
 (2) Ausländische Vereine und die einem ausländischen Verein eingegliederten Teilvereine, deren Mitglieder und Leiter sämtlich oder überwiegend Deutsche oder ausländische Unionsbürger sind, können nur aus den in Artikel 9 Abs. 2 des Grundgesetzes genannten Gründen verboten oder in ein Verbot einbezogen werden.
 
-
-## § 16 – Arbeitnehmer- und Arbeitgebervereinigungen
+# § 16 – Arbeitnehmer- und Arbeitgebervereinigungen
 
 (1) Verbote nach § 3 Abs. 1 oder Verfügungen nach § 8 Abs. 2 Satz 1 gegen Vereinigungen, die den Schutz des Übereinkommens Nr. 87 der Internationalen Arbeitsorganisation vom 9. Juli 1948 über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechts (Bundesgesetzbl. 1956 II S. 2072) genießen, werden erst wirksam, wenn das Gericht ihre Rechtmäßigkeit bestätigt hat. § 3 Abs. 4 und § 8 Abs. 2 Satz 3 und 4 sind nicht anzuwenden.
 
@@ -214,8 +195,7 @@ Hat der Gläubiger eine solche Forderung durch Abtretung erworben, so kann sie n
 
 (4) Auf Antrag der Verbotsbehörde kann das Gericht die nötigen einstweiligen Anordnungen treffen, insbesondere die Beschlagnahme des Vereinsvermögens verfügen. Betätigungsverbote und Beschlagnahmeanordnungen hat das Gericht entsprechend § 3 Abs. 4 Satz 2 bekanntzumachen.
 
-
-## § 17 – Wirtschaftsvereinigungen
+# § 17 – Wirtschaftsvereinigungen
 
 Die Vorschriften dieses Gesetzes sind auf Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung, konzessionierte Wirtschaftsvereine nach § 22 des Bürgerlichen Gesetzbuches, Europäische Gesellschaften, Genossenschaften, Europäische Genossenschaften und Versicherungsvereine auf Gegenseitigkeit nur anzuwenden,
 
@@ -227,13 +207,11 @@ Die Vorschriften dieses Gesetzes sind auf Aktiengesellschaften, Kommanditgesells
 
 4. wenn sie Ersatzorganisation eines Vereins sind, der aus einem der in Nummer 1 oder 2 genannten Gründe verboten wurde.
 
-
-## § 18 – Räumlicher Geltungsbereich von Vereinsverboten
+# § 18 – Räumlicher Geltungsbereich von Vereinsverboten
 
 Verbote von Vereinen, die ihren Sitz außerhalb des räumlichen Geltungsbereichs dieses Gesetzes, aber Teilorganisationen innerhalb dieses Bereichs haben, erstrecken sich nur auf die Teilorganisationen innerhalb dieses Bereichs. Hat der Verein im räumlichen Geltungsbereich dieses Gesetzes keine Organisation, so richtet sich das Verbot (§ 3 Abs. 1) gegen seine Tätigkeit in diesem Bereich.
 
-
-## § 19 – Rechtsverordnungen
+# § 19 – Rechtsverordnungen
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -245,8 +223,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 4. Ausländervereine und ausländische Vereine einer Anmelde- und Auskunftspflicht unterwerfen, Vorschriften über Inhalt, Form und Verfahren der Anmeldung erlassen und die Auskunftspflicht näher regeln.
 
-
-## § 20 – Zuwiderhandlungen gegen Verbote
+# § 20 – Zuwiderhandlungen gegen Verbote
 
 (1) Wer im räumlichen Geltungsbereichs dieses Gesetzes durch eine darin ausgeübte Tätigkeit
 
@@ -274,20 +251,17 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn di
 (+++ § 20 Abs. 3: IdF d. Art. 6 Nr. 1, d. in Berlin gem. Art. 9 Abs. 2 Nr. 5 keine Anwendung findet, G v. 25.6.1968 I 741 mWv 1.8.1968 +++)  
 § 20 Abs. 1 Nr. 1: Mit GG (100-1) vereinbar, soweit hiernach bestraft wird, wer im räumlichen Geltungsbereich des Gesetzes durch eine darin ausgeübte Tätigkeit den organisatorischen Zusammenhalt eines Vereins entgegen einem vollziehbaren Verbot aufrechterhält, BVerfGE v. 15.6.1989 (2 BvL 4/87)
 
-
-## § 21 – Zuwiderhandlungen gegen Rechtsverordnungen
+# § 21 – Zuwiderhandlungen gegen Rechtsverordnungen
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Vorschrift einer nach § 19 Nr. 4 erlassenen Rechtsverordnung zuwiderhandelt, wenn die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausend Deutsche Mark geahndet werden.
 
-
-## §§ 22 bis 29 – (weggefallen)
+# §§ 22 bis 29 – (weggefallen)
 
 \-
 
-
-## § 30 – Aufhebung und Fortgeltung von Rechtsvorschriften
+# § 30 – Aufhebung und Fortgeltung von Rechtsvorschriften
 
 (1) (Aufhebungsvorschriften)
 
@@ -303,13 +277,11 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft, wenn di
 
 5. die in zwischenstaatlichen Vereinbarungen getroffenen Sonderregelungen über Ausländervereine und ausländische Vereine.
 
-
-## § 30a – Zuständige Stelle zur Ausführung der Verordnung (EU, Euratom) Nr. 1141/2014
+# § 30a – Zuständige Stelle zur Ausführung der Verordnung (EU, Euratom) Nr. 1141/2014
 
 Zuständige Stelle im Sinne der Artikel 16 Absatz 3, Artikel 23 Absatz 1 und Absatz 5 sowie des Artikels 28 Absatz 1 der Verordnung (EU, Euratom) Nr. 1141/2014 des Europäischen Parlaments und des Rates vom 22. Oktober 2014 über das Statut und die Finanzierung europäischer politischer Parteien und europäischer politischer Stiftungen (ABl. L 317 vom 4.11.2014, S. 1, L 131 vom 20.5.2016, S. 91) ist das Bundesministerium des Innern, für Bau und Heimat.
 
-
-## § 31 – Übergangsregelungen
+# § 31 – Übergangsregelungen
 
 (1) Auf vereinsrechtliche Entscheidungen, die vor Inkrafttreten dieses Gesetzes ergangen sind, sind die bisher geltenden Vorschriften anzuwenden.
 
@@ -319,12 +291,10 @@ Zuständige Stelle im Sinne der Artikel 16 Absatz 3, Artikel 23 Absatz 1 und Abs
 
 (4) Rechtshängige Verfahren nach § 129a Abs. 3 des Strafgesetzbuches in der Fassung des Strafrechtsänderungsgesetzes vom 30. August 1951 (Bundesgesetzbl. I S. 739) sind mit Inkrafttreten dieses Gesetzes beendet. Gerichtskosten werden nicht erhoben; jede Partei trägt ihre außergerichtlichen Kosten.
 
-
-## § 32 – Einschränkung von Grundrechten
+# § 32 – Einschränkung von Grundrechten
 
 Die Grundrechte des Brief- und Postgeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 33 – Inkrafttreten
+# § 33 – Inkrafttreten
 
 Dieses Gesetz tritt einen Monat nach seiner Verkündung in Kraft.

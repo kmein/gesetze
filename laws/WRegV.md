@@ -1,15 +1,11 @@
-# [WRegV] Verordnung über den Betrieb des Registers zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen  (Wettbewerbsregisterverordnung - WRegV)
-
-Ausfertigungsdatum: 16.04.2021
-
+% Verordnung über den Betrieb des Registers zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen  (Wettbewerbsregisterverordnung - WRegV)
+% Ausfertigungsdatum: 16.04.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 des Wettbewerbsregistergesetzes vom 18. Juli 2017 (BGBl. I S. 2739), der durch Artikel 10 Nummer 6 des Gesetzes vom 18. Januar 2021 (BGBl. I S. 2) geändert worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Elektronische Kommunikation und Datenübermittlung
+# § 1 – Elektronische Kommunikation und Datenübermittlung
 
 (1) Die elektronische Datenübermittlung und Kommunikation zwischen der Registerbehörde nach § 1 Absatz 1 des Wettbewerbsregistergesetzes und
 
@@ -47,8 +43,7 @@ erfolgt nach Maßgabe dieser Verordnung.
 
 (4) Die für die Datenübermittlung nach Absatz 2 zugelassenen Dateiformate werden von der Registerbehörde nach § 14 Nummer 2 auf ihrer Internetseite veröffentlicht. Genügen die elektronisch übermittelten Daten nicht den von der Registerbehörde für die Bearbeitung gestellten Anforderungen, teilt die Registerbehörde dies dem Absender unter Hinweis auf die geltenden technischen Rahmenbedingungen mit.
 
-
-## § 2 – Nutzung des Portals
+# § 2 – Nutzung des Portals
 
 (1) Die Nutzung des Portals nach § 1 Absatz 3 Nummer 1 setzt eine vorherige Registrierung der Nutzer voraus.
 
@@ -108,15 +103,13 @@ f) Vor- und Nachname sowie die Kontaktdaten der mit der Registrierung betrauten 
 
 (5) Die Registerbehörde macht weitere Vorgaben zu dem Verfahren, das für die Übermittlung von Angaben und Erklärungen zur Registrierung und die Mitteilung nachträglich eingetretener Änderungen nach Absatz 4 einzuhalten ist. Dazu gehören insbesondere Vorgaben zur Nutzung eines sicheren Verfahrens nach § 1 Absatz 2 und 3. Die Registerbehörde kann Vorgaben zu dem für die Anmeldung am Portal zu verwendenden Authentifizierungsmittel und zu den mit der Portalnutzung verbundenen Pflichten machen.
 
-
-## § 3 – Nutzung der amtlichen Schnittstelle
+# § 3 – Nutzung der amtlichen Schnittstelle
 
 (1) Hat die Registerbehörde eine amtliche Schnittstelle nach § 1 Absatz 3 Nummer 2 eingerichtet, kann die Registerbehörde diese mitteilungspflichtigen Behörden, öffentlichen Auftraggebern im Sinne des § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen und amtlichen Verzeichnisstellen zur Nutzung zur Verfügung stellen.
 
 (2) Soweit die Registerbehörde für die Nutzung der amtlichen Schnittstelle nach § 1 Absatz 3 Nummer 2 eine Registrierung verlangt, findet § 2 entsprechende Anwendung.
 
-
-## § 4 – Pflichten der mitteilungspflichtigen Behörden
+# § 4 – Pflichten der mitteilungspflichtigen Behörden
 
 (1) Die mitteilungspflichtigen Behörden haben der Registerbehörde die in § 3 Absatz 1 des Wettbewerbsregistergesetzes bezeichneten Daten unter Beachtung der nachfolgenden Vorgaben elektronisch über das Portal nach § 1 Absatz 3 Nummer 1 oder die amtliche Schnittstelle nach § 1 Absatz 3 Nummer 2 zu übermitteln. Die Registerbehörde hat der übermittelnden Stelle eine automatisierte elektronische Eingangsbestätigung auszustellen.
 
@@ -144,8 +137,7 @@ b) Tatzeit.
 
 2. Bußgeldentscheidungen nach § 2 Absatz 2 Satz 1 des Wettbewerbsregistergesetzes, soweit diese ab dem vom Bundesministerium für Wirtschaft und Energie nach § 12 Absatz 2 Satz 1 des Wettbewerbsregistergesetzes im Bundesanzeiger bekannt zu machenden Tag ergangen sind.
 
-
-## § 5 – Abfrage von Daten durch Auftraggeber
+# § 5 – Abfrage von Daten durch Auftraggeber
 
 (1) Für die elektronische Abfrage durch Auftraggeber nach § 6 Absatz 1 Satz 1, Satz 2 oder Absatz 2 des Wettbewerbsregistergesetzes sind das Portal nach § 1 Absatz 3 Nummer 1 oder die amtliche Schnittstelle nach § 1 Absatz 3 Nummer 2 zu nutzen. Bezieht sich die Abfrage auf eine Bietergemeinschaft, ist die Abfrage für jedes Mitglied der Bietergemeinschaft gesondert zu stellen. Auftraggebern nach § 99 Nummer 4 des Gesetzes gegen Wettbewerbsbeschränkungen steht eine Nutzung der amtlichen Schnittstelle nach § 1 Absatz 3 Nummer 2 nicht zur Verfügung.
 
@@ -163,8 +155,7 @@ Der Auftraggeber hat zu bestätigen, dass die Voraussetzungen für eine Abfrage 
 
 (4) Die Verantwortung für die Rechtmäßigkeit der Datenabfrage und die Verwendung der Daten trägt der Auftraggeber. Die Registerbehörde prüft die Rechtmäßigkeit der Abfrage, sofern dazu Anlass besteht. Sie ist befugt, von dem Auftraggeber weitere Auskünfte sowie Unterlagen zu verlangen, soweit diese für eine Prüfung der Abfrageberechtigung nach Satz 2 erforderlich sind.
 
-
-## § 6 – Auskunftserteilung an amtliche Verzeichnisstellen
+# § 6 – Auskunftserteilung an amtliche Verzeichnisstellen
 
 (1) Für die Abfrage durch amtliche Verzeichnisstellen nach § 5 Absatz 2 Satz 3 des Wettbewerbsregistergesetzes ist die amtliche Schnittstelle nach § 1 Absatz 3 Nummer 2 zu verwenden. Bei der Abfrage hat die amtliche Verzeichnisstelle die in § 3 Absatz 1 Nummer 4 des Wettbewerbsregistergesetzes genannten Angaben zu dem Unternehmen zu machen.
 
@@ -172,20 +163,17 @@ Der Auftraggeber hat zu bestätigen, dass die Voraussetzungen für eine Abfrage 
 
 (3) Die Registerbehörde kann Auskunftsanträge einer amtlichen Verzeichnisstelle zulassen, die sich auf mehrere Unternehmen beziehen (Sammelabfrage).
 
-
-## § 7 – Elektronische Kommunikation mit Unternehmen
+# § 7 – Elektronische Kommunikation mit Unternehmen
 
 Die Kommunikation von Unternehmen mit der Registerbehörde soll elektronisch erfolgen. Hierzu zählt insbesondere die Nutzung eines Portals nach § 1 Absatz 3 Nummer 1, sofern die Registerbehörde diese Möglichkeit eröffnet. Die von der Registerbehörde auf ihrer Internetseite bereitgestellten Standardformulare sind zu verwenden.
 
-
-## § 8 – Antrag auf Selbstauskunft; Gebühr
+# § 8 – Antrag auf Selbstauskunft; Gebühr
 
 (1) Ein elektronischer Antrag auf Selbstauskunft für ein Unternehmen oder eine natürliche Person nach § 5 Absatz 2 Satz 1 des Wettbewerbsregistergesetzes ist unter Verwendung eines Nutzerkontos im Sinne des Onlinezugangsgesetzes zu stellen. Es muss ein elektronischer Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes erbracht werden. Für einen schriftlichen Antrag ist das auf der Internetseite der Registerbehörde bereitgestellte Standardformular zu verwenden.
 
 (2) Für die Erteilung einer Auskunft nach § 5 Absatz 2 Satz 1 des Wettbewerbsregistergesetzes erhebt die Registerbehörde vom Antragsteller eine Gebühr in Höhe von 20 Euro. Die Gebühr wird mit Erteilung der Auskunft durch die Registerbehörde fällig. Die Registerbehörde kann die Zahlung eines Vorschusses verlangen; sie kann die Erteilung der Auskunft von der Zahlung des Vorschusses abhängig machen.
 
-
-## § 9 – Anforderung ergänzender Informationen durch Auftraggeber
+# § 9 – Anforderung ergänzender Informationen durch Auftraggeber
 
 (1) Fordert ein Auftraggeber nach § 6 Absatz 6 Satz 1 des Wettbewerbsregistergesetzes von der mitteilungspflichtigen Behörde ergänzende Informationen an, unterliegen Art und Umfang der Auskunftserteilung dem pflichtgemäßen Ermessen der mitteilungspflichtigen Behörde.
 
@@ -193,8 +181,7 @@ Die Kommunikation von Unternehmen mit der Registerbehörde soll elektronisch erf
 
 (3) Eine Information unterbleibt, soweit ihr eine bundesrechtliche Verwendungsregelung oder Zwecke des Straf- oder Ordnungswidrigkeitenverfahrens entgegenstehen.
 
-
-## § 10 – Mitteilung eines Unternehmens zu Selbstreinigungsmaßnahmen
+# § 10 – Mitteilung eines Unternehmens zu Selbstreinigungsmaßnahmen
 
 (1) Für die Mitteilung über Maßnahmen zur Selbstreinigung eines Unternehmens nach § 3 Absatz 2 des Wettbewerbsregistergesetzes ist das von der Registerbehörde auf ihrer Internetseite bereitgestellte Standardformular zu verwenden. Das Formular soll elektronisch übermittelt werden. Die Registerbehörde kann Vorgaben zum zulässigen Umfang der zu übermittelnden Daten machen. Das Unternehmen hat in der Mitteilung folgende Angaben zu machen:
 
@@ -206,8 +193,7 @@ Die Kommunikation von Unternehmen mit der Registerbehörde soll elektronisch erf
 
 (2) Die Registerbehörde speichert die nach Absatz 1 übermittelten Daten, ohne diese inhaltlich zu überprüfen. Die Daten werden gelöscht, wenn die betreffende Registereintragung aus dem Register gelöscht wird. Anträge nach § 8 Absatz 1 Satz 1 des Wettbewerbsregistergesetzes auf vorzeitige Löschung der Eintragung bleiben unberührt.
 
-
-## § 11 – Anforderungen an vorzulegende Gutachten und Unterlagen zur Bewertung einer Selbstreinigung
+# § 11 – Anforderungen an vorzulegende Gutachten und Unterlagen zur Bewertung einer Selbstreinigung
 
 (1) Die Registerbehörde kann zur Bewertung eines Antrags nach § 8 Absatz 1 Satz 1 des Wettbewerbsregistergesetzes auf vorzeitige Löschung einer Eintragung wegen Selbstreinigung verlangen, dass das Unternehmen geeignete Gutachten oder andere Unterlagen zur Bewertung vorgenommener Selbstreinigungsmaßnahmen vorlegt. Die Registerbehörde kann Vorgaben hinsichtlich des zu begutachtenden Sachverhalts oder der zu begutachtenden Themenstellung machen. Die Registerbehörde ist befugt, für die Vorlage des Gutachtens eine angemessene Frist zu setzen.
 
@@ -215,13 +201,11 @@ Die Kommunikation von Unternehmen mit der Registerbehörde soll elektronisch erf
 
 (3) Das Gutachten muss objektiv und nachvollziehbar den Gegenstand der Untersuchung, die angewandten Methoden sowie die Ergebnisse der Untersuchung darlegen. Die dabei verwendeten Unterlagen und Nachweise sind beizufügen.
 
-
-## § 12 – Datenschutz
+# § 12 – Datenschutz
 
 Bei Datenübermittlungen an oder durch die Registerbehörde müssen die Daten vor einem unbefugten Zugriff Dritter geschützt sein.
 
-
-## § 13 – Protokollierung
+# § 13 – Protokollierung
 
 (1) Die Registerbehörde protokolliert automatisiert Art und Umfang der über das Portal oder über die amtliche Schnittstelle übermittelten Daten. Aus dem Protokoll muss hervorgehen:
 
@@ -241,8 +225,7 @@ Bei Datenübermittlungen an oder durch die Registerbehörde müssen die Daten vo
 
 (3) Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit hat das Recht zur Einsichtnahme in die Protokolldaten.
 
-
-## § 14 – Veröffentlichungen der Registerbehörde zur elektronischen Kommunikation
+# § 14 – Veröffentlichungen der Registerbehörde zur elektronischen Kommunikation
 
 Die Registerbehörde veröffentlicht auf ihrer Internetseite Einzelheiten zur elektronischen Kommunikation, insbesondere zu:
 
@@ -254,12 +237,10 @@ Die Registerbehörde veröffentlicht auf ihrer Internetseite Einzelheiten zur el
 
 4. den nach dieser Verordnung bereitgestellten Standardformularen.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

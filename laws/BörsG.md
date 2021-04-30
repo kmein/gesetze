@@ -1,10 +1,7 @@
-# [BörsG] Börsengesetz  (BörsG)
-
-Ausfertigungsdatum: 16.07.2007
-
+% Börsengesetz  (BörsG)
+% Ausfertigungsdatum: 16.07.2007
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -316,8 +313,7 @@ Geltung für Wechsel und ausländische Zahlungsmittel
 
 Übergangsregelungen
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz enthält Regelungen insbesondere zum Betrieb und zur Organisation von Börsen, zur Zulassung von Handelsteilnehmern, Finanzinstrumenten, Rechten und Wirtschaftsgütern zum Börsenhandel, zur Ermittlung von Börsenpreisen, zu den Zuständigkeiten und Befugnissen der zuständigen obersten Landesbehörde (Börsenaufsichtsbehörde) und zur Ahndung von Verstößen hinsichtlich
 
@@ -331,8 +327,7 @@ Es ist auch anzuwenden auf den Betrieb von multilateralen oder organisierten Han
 
 (2) Ist eine Börse beauftragt worden, Versteigerungen gemäß der Verordnung (EU) Nr. 1031/2010 der Kommission vom 12. November 2010 über den zeitlichen und administrativen Ablauf sowie sonstige Aspekte der Versteigerung von Treibhausgasemissionszertifikaten gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft (ABl. L 302 vom 18.11.2010, S. 1) durchzuführen, gelten hinsichtlich dieser Versteigerungen die Vorschriften dieses Gesetzes, soweit in der Verordnung (EU) Nr. 1031/2010 in der jeweils geltenden Fassung nichts anderes bestimmt ist.
 
-
-## § 2 – Börsen und weitere Begriffsbestimmungen
+# § 2 – Börsen und weitere Begriffsbestimmungen
 
 (1) Börsen sind teilrechtsfähige Anstalten des öffentlichen Rechts, die nach Maßgabe dieses Gesetzes multilaterale Systeme regeln und überwachen, welche die Interessen einer Vielzahl von Personen am Kauf und Verkauf von dort zum Handel zugelassenen Wirtschaftsgütern und Rechten innerhalb des Systems nach nichtdiskretionären Bestimmungen in einer Weise zusammenbringen oder das Zusammenbringen fördern, die zu einem Vertrag über den Kauf dieser Handelsobjekte führt.
 
@@ -356,8 +351,7 @@ Es ist auch anzuwenden auf den Betrieb von multilateralen oder organisierten Han
 
 (11) In verwaltungsgerichtlichen Verfahren kann die Börse unter ihrem Namen klagen und verklagt werden.
 
-
-## § 3 – Aufgaben und Befugnisse der Börsenaufsichtsbehörde
+# § 3 – Aufgaben und Befugnisse der Börsenaufsichtsbehörde
 
 (1) Die zuständige oberste Landesbehörde (Börsenaufsichtsbehörde) übt die Aufsicht über die Börse nach den Vorschriften dieses Gesetzes aus. Ihrer Aufsicht unterliegen insbesondere der Börsenrat, die Börsengeschäftsführung, der Sanktionsausschuss und die Handelsüberwachungsstelle (Börsenorgane) sowie der Börsenträger, die Einrichtungen, die sich auf den Börsenverkehr einschließlich der nach § 5 Abs. 3 ausgelagerten Bereiche beziehen, und der Freiverkehr. Die Aufsicht erstreckt sich auf die Einhaltung der börsenrechtlichen Vorschriften und Anordnungen, die ordnungsmäßige Durchführung des Handels an der Börse sowie die ordnungsmäßige Erfüllung der Börsengeschäfte (Börsengeschäftsabwicklung).
 
@@ -413,15 +407,13 @@ soweit dies zur Durchsetzung der Vorschriften dieses Gesetzes geboten ist. Eine 
 
 (12) Die Börsenaufsichtsbehörde ist zuständige Behörde im Sinne des Titels II sowie der Artikel 22 und 25 Absatz 2, der Artikel 29 bis 31 und 36 der Verordnung (EU) Nr. 600/2014, soweit die Pflichten von Börsenträgern und Börsen betroffen sind.
 
-
-## § 3a – Aufgaben und Befugnisse der Börsenaufsichtsbehörde zur Ausführung der Verordnung (EU) 2015/2365
+# § 3a – Aufgaben und Befugnisse der Börsenaufsichtsbehörde zur Ausführung der Verordnung (EU) 2015/2365
 
 (1) Die Börsenaufsichtsbehörde überwacht die Einhaltung der Verbote und Gebote der Verordnung (EU) 2015/2365 durch die Börse und den Börsenträger und kann Anordnungen treffen, die geeignet und erforderlich sind, Verstöße gegen die Artikel 4 und 15 der Verordnung (EU) 2015/2365 sowie gegen die auf Grundlage des Artikels 4 erlassenen delegierten Rechtsakte und Durchführungsrechtsakte der Europäischen Kommission in der jeweils geltenden Fassung zu verhindern oder Missstände zu beseitigen.
 
 (2) Bei Verstößen gegen die in Absatz 1 genannten Vorschriften sowie sich hierauf beziehende Anordnungen der Börsenaufsichtsbehörde kann diese eine dauerhafte Einstellung der den Verstoß begründenden Handlungen oder Verhaltensweisen verlangen. Verstößt eine Person, die bei der Börse oder dem Börsenträger tätig ist, vorsätzlich gegen eine der in Absatz 1 genannten Vorschriften oder eine sich auf diese Vorschriften beziehende Anordnung der Börsenaufsichtsbehörde und setzt sie dieses Verhalten trotz Verwarnung durch die Börsenaufsichtsbehörde fort, kann die Börsenaufsichtsbehörde dieser Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben bei Börsen oder Börsenträgern untersagen.
 
-
-## § 3b – Meldung von Verstößen
+# § 3b – Meldung von Verstößen
 
 (1) Die Börsenaufsichtsbehörde trifft geeignete Vorkehrungen, um die Meldung von möglichen oder tatsächlichen Verstößen gegen dieses Gesetz oder gegen die Verordnung (EU) Nr. 600/2014 oder gegen Artikel 4 oder 15 der Verordnung (EU) 2015/2365 oder gegen die zur Durchführung dieses Gesetzes oder der Verordnung (EU) Nr. 600/2014 oder von Artikel 4 oder 15 der Verordnung (EU) 2015/2365 erlassenen Verordnungen, Rechtsakte oder Anordnungen oder gegen sonstige Vorschriften, deren Einhaltung sie zu überwachen hat, zu ermöglichen. Die Meldungen können auch anonym abgegeben werden.
 
@@ -437,8 +429,7 @@ soweit dies zur Durchsetzung der Vorschriften dieses Gesetzes geboten ist. Eine 
 
 (7) Die Rechte einer Person, die Gegenstand einer Meldung ist, insbesondere die Rechte nach den anwendbaren Verwaltungsverfahrensgesetzen, nach den §§ 68 bis 71 der Verwaltungsgerichtsordnung und nach den §§ 137, 140, 141 und 147 der Strafprozessordnung werden durch die Einrichtung des Systems zur Meldung von Verstößen nach Absatz 1 nicht eingeschränkt.
 
-
-## § 4 – Erlaubnis
+# § 4 – Erlaubnis
 
 (1) Die Errichtung einer Börse bedarf der schriftlichen Erlaubnis der Börsenaufsichtsbehörde.
 
@@ -484,8 +475,7 @@ Die den § 48 Abs. 4 Satz 1 und § 49 Abs. 2 Satz 2 des Verwaltungsverfahrensges
 
 (7) Der Börsenträger hat der Börsenaufsichtsbehörde einen Wechsel bei den Personen der Geschäftsleitung sowie wesentliche Änderungen hinsichtlich der nach Absatz 2 Satz 2 Nr. 1 bis 5 gemachten Angaben unverzüglich anzuzeigen. Absatz 2 Satz 3 und 4 gilt entsprechend.
 
-
-## § 4a – Geschäftsleitung des Börsenträgers
+# § 4a – Geschäftsleitung des Börsenträgers
 
 (1) Die Geschäftsleiter des Börsenträgers müssen fachlich geeignet und zuverlässig sein und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen.
 
@@ -497,8 +487,7 @@ Die den § 48 Abs. 4 Satz 1 und § 49 Abs. 2 Satz 2 des Verwaltungsverfahrensges
 
 Mandate als Geschäftsleiter einer Börse oder als Mitglied eines Börsenrates und Mandate bei Organisationen und Unternehmen, die nicht überwiegend gewerbliche Ziele verfolgen, insbesondere Unternehmen, die der kommunalen Daseinsvorsorge dienen, werden bei den nach Satz 2 höchstens zulässigen Mandaten nicht berücksichtigt. Die Börsenaufsichtsbehörde kann einem Geschäftsleiter unter Berücksichtigung der Umstände im Einzelfall gestatten, ein zusätzliches Mandat in einem Verwaltungs- oder Aufsichtsorgan innezuhaben, wenn dies den Geschäftsleiter nicht daran hindert, der Wahrnehmung seiner Aufgaben bei dem Börsenträger ausreichend Zeit zu widmen.
 
-
-## § 4b – Verwaltungs- oder Aufsichtsorgan des Börsenträgers
+# § 4b – Verwaltungs- oder Aufsichtsorgan des Börsenträgers
 
 (1) Die Mitglieder des Verwaltungs- oder Aufsichtsorgans des Börsenträgers müssen zuverlässig sein, die erforderliche Sachkunde zur Wahrnehmung der Kontrollfunktion sowie zur Beurteilung und Überwachung der Geschäfte, die das jeweilige Unternehmen betreibt, besitzen und der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen. Bei der Prüfung, ob eine der in Satz 1 genannten Personen die erforderliche Sachkunde besitzt, sind die Art, der Umfang und die Komplexität des Börsenträgers zu berücksichtigen.
 
@@ -534,8 +523,7 @@ Mandate als Geschäftsleiter einer Börse oder als Mitglied eines Börsenrates u
 
 Der Nominierungsausschuss hat bei der Wahrnehmung seiner Aufgaben insbesondere darauf zu achten, dass die Entscheidungsfindung innerhalb der Geschäftsleitung oder des Verwaltungs- oder Aufsichtsorgans durch einzelne Personen oder Gruppen nicht in einer Weise beeinflusst wird, die dem Börsenbetreiber insgesamt schadet. Er kann bei der Wahrnehmung seiner Aufgaben auf alle aus seiner Sicht erforderlichen Mittel zurückgreifen und auch externe Berater hinzuziehen. Zu diesem Zweck soll er vom Unternehmen angemessene Finanzmittel erhalten.
 
-
-## § 5 – Pflichten des Börsenträgers
+# § 5 – Pflichten des Börsenträgers
 
 (1) Mit Erteilung der Erlaubnis wird der Antragsteller als Träger der Börse zu deren Errichtung und Betrieb berechtigt und verpflichtet. Er ist verpflichtet, der Börse auf Anforderung der Geschäftsführung der Börse die zur Durchführung und angemessenen Fortentwicklung des Börsenbetriebs erforderlichen finanziellen, personellen und sachlichen Mittel zur Verfügung zu stellen.
 
@@ -565,8 +553,7 @@ Der Nominierungsausschuss hat bei der Wahrnehmung seiner Aufgaben insbesondere d
 
 (8) Der Börsenträger muss über einen Prozess verfügen, der es den Mitarbeitern unter Wahrung der Vertraulichkeit ihrer Identität ermöglicht, mögliche oder tatsächliche Verstöße gegen die Verordnung (EU) Nr. 596/2014, gegen die Verordnung (EU) 2015/2365, gegen die Verordnung (EU) Nr. 600/2014, gegen die Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1, L 358 vom 13.12.2014, S. 50), gegen dieses Gesetz, gegen das Wertpapierhandelsgesetz oder gegen die auf Grund des Wertpapierhandelsgesetzes erlassenen Rechtsverordnungen sowie etwaige strafbare Handlungen innerhalb des Unternehmens an geeignete Stellen zu berichten.
 
-
-## § 6 – Inhaber bedeutender Beteiligungen
+# § 6 – Inhaber bedeutender Beteiligungen
 
 (1) Wer beabsichtigt, eine bedeutende Beteiligung im Sinne des § 1 Abs. 9 des Kreditwesengesetzes an dem Träger einer Börse zu erwerben, hat dies der Börsenaufsichtsbehörde unverzüglich anzuzeigen. In der Anzeige hat er die Höhe der Beteiligung und gegebenenfalls die für die Begründung des maßgeblichen Einflusses wesentlichen Tatsachen sowie die für die Beurteilung seiner Zuverlässigkeit und die Prüfung der weiteren Untersagungsgründe nach Absatz 2 Satz 1 wesentlichen Tatsachen und Unterlagen, die durch Rechtsverordnung nach Absatz 7 näher zu bestimmen sind, sowie die Personen und Unternehmen anzugeben, von denen er die entsprechenden Anteile erwerben will. Die Börsenaufsichtsbehörde kann über die Vorgaben der Rechtsverordnung hinausgehende Angaben und die Vorlage von weiteren Unterlagen verlangen, falls dies für die Beurteilung der Zuverlässigkeit oder die Prüfung der weiteren Untersagungsgründe nach Absatz 2 Satz 1 zweckmäßig erscheint. Ist der Anzeigepflichtige eine juristische Person oder Personenhandelsgesellschaft, hat er in der Anzeige die für die Beurteilung der Zuverlässigkeit seiner gesetzlichen oder satzungsmäßigen Vertreter oder persönlich haftenden Gesellschafter wesentlichen Tatsachen anzugeben. Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen der Börsenaufsichtsbehörde unverzüglich anzuzeigen. Der Inhaber einer bedeutenden Beteiligung hat der Börsenaufsichtsbehörde ferner unverzüglich anzuzeigen, wenn er beabsichtigt, den Betrag der bedeutenden Beteiligung so zu erhöhen, dass die Schwellen von 20 Prozent, 33 Prozent oder 50 Prozent der Stimmrechte oder des Kapitals erreicht oder überschritten werden oder dass der Träger der Börse unter seine Kontrolle im Sinne des § 1 Abs. 8 des Kreditwesengesetzes kommt. Die Börsenaufsichtsbehörde kann von Inhabern einer Beteiligung an dem Träger einer Börse Auskünfte und die Vorlage von Unterlagen verlangen, wenn Tatsachen die Annahme rechtfertigen, dass es sich hierbei um eine bedeutende Beteiligung handelt.
 
@@ -596,8 +583,7 @@ In den Fällen des Satzes 1 kann die Ausübung der Stimmrechte auf einen Treuhä
 
 (7) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung nähere Bestimmungen über Art, Umfang und Zeitpunkt der nach den Absätzen 1, 5 und 6 vorgesehenen Anzeigen zu erlassen. Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die Börsenaufsichtsbehörde übertragen.
 
-
-## § 7 – Handelsüberwachungsstelle
+# § 7 – Handelsüberwachungsstelle
 
 (1) Die Börse hat unter Beachtung von Maßgaben der Börsenaufsichtsbehörde eine Handelsüberwachungsstelle als Börsenorgan einzurichten und zu betreiben, die den Handel an der Börse und die Börsengeschäftsabwicklung überwacht. Dies umfasst an einer Börse, an der Warenderivate gehandelt werden, die Überwachung, ob Positionslimits nach Abschnitt 9 des Wertpapierhandelsgesetzes durch die Handelsteilnehmer eingehalten werden. § 57 Absatz 3 des Wertpapierhandelsgesetzes gilt hinsichtlich der Überwachung, ob Positionslimits eingehalten werden, mit der Maßgabe entsprechend, dass die Handelsüberwachungsstelle die Börsenaufsichtsbehörde und die Bundesanstalt unterrichtet. Die Handelsüberwachungsstelle hat Daten über den Börsenhandel und die Börsengeschäftsabwicklung einschließlich der Daten gemäß Artikel 25 Absatz 2 der Verordnung (EU) Nr. 600/2014 systematisch und lückenlos zu erfassen und auszuwerten sowie notwendige Ermittlungen durchzuführen. An Warenbörsen, an denen Energie im Sinne des § 3 Nr. 14 des Energiewirtschaftsgesetzes gehandelt wird, sind von der Handelsüberwachungsstelle auch Daten über die Abwicklung von Geschäften systematisch und lückenlos zu erfassen und auszuwerten, die nicht über die Börse geschlossen werden, aber über ein Abwicklungssystem der Börse oder ein externes Abwicklungssystem, das an die börslichen Systeme für den Börsenhandel oder die Börsengeschäftsabwicklung angeschlossen ist, abgewickelt werden und deren Gegenstand der Handel mit Energie oder Termingeschäfte in Bezug auf Energie sind; die Handelsüberwachungsstelle kann auf Basis dieser Daten notwendige Ermittlungen durchführen. Die Börsenaufsichtsbehörde kann der Handelsüberwachungsstelle Weisungen erteilen und die Ermittlungen übernehmen. Die Geschäftsführung kann die Handelsüberwachungsstelle im Rahmen der Aufgaben dieser Stelle nach den Sätzen 1 bis 3 mit der Durchführung von Untersuchungen beauftragen.
 
@@ -611,8 +597,7 @@ In den Fällen des Satzes 1 kann die Ausübung der Stimmrechte auf einen Treuhä
 
 (6) Die Handelsüberwachungsstelle nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-
-## § 8 – Zusammenarbeit
+# § 8 – Zusammenarbeit
 
 (1) Die Börsenaufsichtsbehörden und die Bundesanstalt arbeiten eng zusammen und tauschen nach Maßgabe des § 10 untereinander alle Informationen aus, die für die Wahrnehmung ihrer Aufgaben sachdienlich sind.
 
@@ -624,15 +609,13 @@ In den Fällen des Satzes 1 kann die Ausübung der Stimmrechte auf einen Treuhä
 
 (5) Die Börsenaufsichtsbehörde und die für die Durchführung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41), die zuletzt durch die Delegierte Verordnung (EU) 2016/1226 (ABl. L 202 vom 28.7.2016, S. 5) geändert worden ist, zuständigen Behörden tauschen untereinander Informationen einschließlich personenbezogener Daten aus, die für die Erfüllung ihrer Aufgaben erforderlich sind.
 
-
-## § 9 – Anwendbarkeit kartellrechtlicher Vorschriften
+# § 9 – Anwendbarkeit kartellrechtlicher Vorschriften
 
 (1) Die Börsenaufsichtsbehörde hat darauf hinzuwirken, dass die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen eingehalten werden. Dies gilt insbesondere für den Zugang zu Handels-, Informations- und Abwicklungssystemen und sonstigen börsenbezogenen Dienstleistungseinrichtungen sowie deren Nutzung.
 
 (2) Die Zuständigkeit der Kartellbehörden bleibt unberührt. Die Börsenaufsichtsbehörde unterrichtet die zuständige Kartellbehörde bei Anhaltspunkten für Verstöße gegen das Gesetz gegen Wettbewerbsbeschränkungen. Diese unterrichtet die Börsenaufsichtsbehörde nach Abschluss ihrer Ermittlungen über das Ergebnis der Ermittlungen.
 
-
-## § 10 – Verschwiegenheitspflicht
+# § 10 – Verschwiegenheitspflicht
 
 (1) Die bei der Börsenaufsichtsbehörde oder einer Behörde, der Aufgaben und Befugnisse der Börsenaufsichtsbehörde nach § 3 Abs. 7 übertragen worden sind, Beschäftigten, die nach § 3 Abs. 8 beauftragten Personen, die Mitglieder der Börsenorgane sowie die beim Träger der Börse Beschäftigten oder unmittelbar oder mittelbar in seinem Auftrag handelnden Personen, soweit sie für die Börse tätig sind, dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse der Handelsteilnehmer oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse sowie personenbezogene Daten, nicht unbefugt erheben oder verwenden, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Erheben oder Verwenden im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Informationen weitergegeben werden an
 
@@ -652,13 +635,11 @@ soweit die Kenntnis dieser Informationen für diese Stellen zur Erfüllung ihrer
 
 (3) Die §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht für die in Absatz 1 Satz 1 oder 2 bezeichneten Personen, soweit sie zur Durchführung dieses Gesetzes tätig werden. Sie finden Anwendung, soweit die Finanzbehörden die Kenntnis für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht und nicht Tatsachen betroffen sind, die den in Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne des Absatzes 1 Satz 3 Nr. 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind.
 
-
-## § 11 – Untersagung der Preisfeststellung für ausländische Währungen
+# § 11 – Untersagung der Preisfeststellung für ausländische Währungen
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und nach Anhörung der Deutschen Bundesbank Einzelweisungen an eine Börse erteilen, die Preisermittlung für ausländische Währungen vorübergehend zu untersagen, wenn eine erhebliche Marktstörung droht, die schwerwiegende Gefahren für die Gesamtwirtschaft oder das Publikum erwarten lässt.
 
-
-## § 12 – Börsenrat
+# § 12 – Börsenrat
 
 (1) Jede Börse hat einen Börsenrat zu bilden, der aus höchstens 24 Personen besteht. Im Börsenrat müssen die zur Teilnahme am Börsenhandel zugelassenen Unternehmen und die Anleger vertreten sein. Bei einer Wertpapierbörse gelten als Unternehmen nach Satz 2 insbesondere die zur Teilnahme am Börsenhandel zugelassenen Kreditinstitute einschließlich der Wertpapierhandelsbanken, die zugelassenen Finanzdienstleistungsinstitute und sonstigen zugelassenen Unternehmen sowie die zur Teilnahme am Börsenhandel zugelassenen Kapitalverwaltungsgesellschaften. Handelt es sich bei der Börse zumindest auch um eine Wertpapierbörse, müssen im Börsenrat über die in Satz 2 genannten Unternehmen hinaus auch die Skontroführer, die Versicherungsunternehmen, deren emittierte Wertpapiere an der Börse zum Handel zugelassen sind, und andere Emittenten solcher Wertpapiere vertreten sein. Die Zahl der Vertreter der Kreditinstitute einschließlich der Wertpapierhandelsbanken sowie der mit den Kreditinstituten verbundenen Kapitalverwaltungsgesellschaften und sonstigen Unternehmen darf insgesamt nicht mehr als die Hälfte der Mitglieder des Börsenrates betragen. Die nach § 13 Absatz 4 zu erlassende Rechtsverordnung kann für einzelne Börsen Ausnahmen von den Bestimmungen der Sätze 2 bis 5 zulassen. Sie kann insbesondere vorsehen, dass sonstige betroffene Wirtschaftsgruppen im Börsenrat vertreten sind, und die Entsendung der Vertreter der nicht zum Börsenhandel zugelassenen Unternehmen regeln.
 
@@ -684,8 +665,7 @@ Zur Überwachung der Geschäftsführung ist dem Börsenrat angemessener Zugang z
 
 (6) Der Börsenrat nimmt die ihm nach diesem Gesetz zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-
-## § 13 – Wahl des Börsenrates
+# § 13 – Wahl des Börsenrates
 
 (1) Die Mitglieder des Börsenrates werden für die Dauer von bis zu drei Jahren von den in § 12 Absatz 1 Satz 2 bis 4 genannten Gruppen jeweils aus ihrer Mitte gewählt; die Vertreter der Anleger werden von den übrigen Mitgliedern des Börsenrates hinzugewählt.
 
@@ -695,13 +675,11 @@ Zur Überwachung der Geschäftsführung ist dem Börsenrat angemessener Zugang z
 
 (4) Das Nähere über die Amtszeit des Börsenrates, die Aufteilung in Gruppen, die Ausübung des Wahlrechts und die Wählbarkeit, die Durchführung der Wahl und die vorzeitige Beendigung der Mitgliedschaft im Börsenrat wird durch Rechtsverordnung der Landesregierung nach Anhörung des Börsenrates bestimmt. Die Landesregierung kann diese Ermächtigung durch Rechtsverordnung auf die Börsenaufsichtsbehörde übertragen. Die Rechtsverordnung muss sicherstellen, dass alle in § 12 Absatz 1 Satz 2 bis 4 genannten Gruppen angemessen vertreten sind. Sie kann zudem vorsehen, dass bei vorzeitigem Ausscheiden eines Mitglieds ein Nachfolger für die restliche Amtsdauer aus der Mitte der jeweiligen Gruppe durch die übrigen Mitglieder des Börsenrates hinzugewählt wird.
 
-
-## § 14 – (weggefallen)
+# § 14 – (weggefallen)
 
 \-
 
-
-## § 15 – Leitung der Börse
+# § 15 – Leitung der Börse
 
 (1) Die Leitung der Börse obliegt der Geschäftsführung in eigener Verantwortung. Sie kann aus einer oder mehreren Personen bestehen. Die Geschäftsführer müssen zuverlässig sein, der Wahrnehmung ihrer Aufgaben ausreichend Zeit widmen und die für die Leitung der Börse erforderliche fachliche Eignung besitzen. Sie werden für höchstens fünf Jahre bestellt; die wiederholte Bestellung ist zulässig. Die Bestellung eines Geschäftsführers ist unverzüglich der Börsenaufsichtsbehörde anzuzeigen. Die Anzeige muss die in § 4 Abs. 2 Satz 2 Nr. 2 genannten Angaben enthalten. § 4 Abs. 2 Satz 3 und 4 gilt entsprechend.
 
@@ -719,8 +697,7 @@ Zur Überwachung der Geschäftsführung ist dem Börsenrat angemessener Zugang z
 
 (8) Die Geschäftsführung nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-
-## § 16 – Börsenordnung
+# § 16 – Börsenordnung
 
 (1) Die Börsenordnung soll sicherstellen, dass die Börse die ihr obliegenden Aufgaben erfüllen kann und dabei den Interessen des Publikums und des Handels gerecht wird. Sie muss Bestimmungen enthalten über
 
@@ -744,8 +721,7 @@ Zur Überwachung der Geschäftsführung ist dem Börsenrat angemessener Zugang z
 
 (3) Die Börsenordnung bedarf der Genehmigung durch die Börsenaufsichtsbehörde. Diese kann die Aufnahme bestimmter Vorschriften in die Börsenordnung verlangen, wenn und soweit sie zur Erfüllung der der Börse oder der Börsenaufsichtsbehörde obliegenden gesetzlichen Aufgaben notwendig sind.
 
-
-## § 17 – Gebühren und Entgelte
+# § 17 – Gebühren und Entgelte
 
 (1) Die Gebührenordnung kann die Erhebung von Gebühren und die Erstattung von Auslagen vorsehen für
 
@@ -771,13 +747,11 @@ Zur Überwachung der Geschäftsführung ist dem Börsenrat angemessener Zugang z
 
 (4) Unbeschadet des § 26a hat die Börse für die übermäßige Nutzung der Börsensysteme, insbesondere durch unverhältnismäßig viele Auftragseingaben, -änderungen und -löschungen, separate Gebühren zu erheben, sofern nicht der Börsenträger hierfür bereits separate Entgelte verlangt. Die Höhe dieser Gebühren oder Entgelte ist so zu bemessen, dass einer übermäßigen Nutzung im Sinne des Satzes 1 und der damit verbundenen negativen Auswirkungen auf die Systemstabilität oder die Marktintegrität wirksam begegnet wird.
 
-
-## § 18 – Sonstige Benutzung von Börseneinrichtungen
+# § 18 – Sonstige Benutzung von Börseneinrichtungen
 
 Die Börsenordnung kann für einen anderen als den nach § 16 Abs. 1 Satz 2 Nr. 1 zu bezeichnenden Geschäftszweig die Benutzung von Börseneinrichtungen zulassen. Ein Anspruch auf die Benutzung erwächst in diesem Falle für die Beteiligten nicht.
 
-
-## § 19 – Zulassung zur Börse
+# § 19 – Zulassung zur Börse
 
 (1) Zum Besuch der Börse, zur Teilnahme am Börsenhandel und für Personen, die berechtigt sein sollen, für ein zur Teilnahme am Börsenhandel zugelassenes Unternehmen an der Börse zu handeln (Börsenhändler), ist eine Zulassung durch die Geschäftsführung erforderlich.
 
@@ -821,13 +795,11 @@ Die Börsenordnung kann vorsehen, dass bei Unternehmen, die an einer inländisch
 
 (11) Die Geschäftsführung der Börse übermittelt der Börsenaufsichtsbehörde regelmäßig ein aktuelles Verzeichnis der an der Börse zugelassenen Handelsteilnehmer.
 
-
-## § 19a – Verantwortung des Handelsteilnehmers für Aufträge von mittelbaren Handelsteilnehmern
+# § 19a – Verantwortung des Handelsteilnehmers für Aufträge von mittelbaren Handelsteilnehmern
 
 Der Handelsteilnehmer ist bei Aufträgen von mittelbaren Handelsteilnehmern im Sinne des § 2 Absatz 8 Satz 2, denen er Zugang zur Börse gewährt, für die Einhaltung der börsenrechtlichen Vorschriften verantwortlich.
 
-
-## § 20 – Sicherheitsleistungen
+# § 20 – Sicherheitsleistungen
 
 (1) Die Börsenordnung kann bestimmen, dass die zur Teilnahme am Börsenhandel zugelassenen Unternehmen und die Skontroführer ausreichende Sicherheit zu leisten haben, um die Verpflichtungen aus Geschäften, die an der Börse sowie in einem an der Börse zugelassenen elektronischen Handelssystem abgeschlossen werden, jederzeit erfüllen zu können. Die Höhe der Sicherheitsleistung muss in angemessenem Verhältnis zu den mit den abgeschlossenen Geschäften verbundenen Risiken stehen. Das Nähere über die Art und Weise der Sicherheitsleistung bestimmt die Börsenordnung.
 
@@ -839,8 +811,7 @@ Der Handelsteilnehmer ist bei Aufträgen von mittelbaren Handelsteilnehmern im S
 
 (5) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 4 haben keine aufschiebende Wirkung.
 
-
-## § 21 – Externe Abwicklungssysteme
+# § 21 – Externe Abwicklungssysteme
 
 (1) Wegen der Anbindung von externen Abwicklungssystemen an die Systeme der Börse für den Börsenhandel und die Börsengeschäftsabwicklung wird auf Artikel 35 der Verordnung (EU) Nr. 600/2014 verwiesen.
 
@@ -848,8 +819,7 @@ Der Handelsteilnehmer ist bei Aufträgen von mittelbaren Handelsteilnehmern im S
 
 (3) Der Börsenträger hat die Börsenaufsichtsbehörde über das Stellen von Anträgen auf Zugang nach Artikel 7 der Verordnung (EU) Nr. 648/2012 sowie den Eingang eines Antrags auf Zugang nach Artikel 8 der Verordnung (EU) Nr. 648/2012 unverzüglich schriftlich zu unterrichten.
 
-
-## § 22 – Sanktionsausschuss
+# § 22 – Sanktionsausschuss
 
 (1) Die Landesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über die Errichtung eines Sanktionsausschusses, seine Zusammensetzung, sein Verfahren einschließlich der Beweisaufnahme und der Kosten sowie die Mitwirkung der Börsenaufsichtsbehörde zu erlassen. Die Vorschriften können vorsehen, dass der Sanktionsausschuss Zeugen und Sachverständige, die freiwillig vor ihm erscheinen, ohne Beeidigung vernehmen und das Amtsgericht um die Durchführung einer Beweisaufnahme, die er nicht vornehmen kann, ersuchen darf. Die Landesregierung kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Börsenaufsichtsbehörde übertragen.
 
@@ -859,13 +829,11 @@ Der Handelsteilnehmer ist bei Aufträgen von mittelbaren Handelsteilnehmern im S
 
 (4) Haben sich in einem Verfahren vor dem Sanktionsausschuss Tatsachen ergeben, welche die Rücknahme oder den Widerruf der Zulassung eines Handelsteilnehmers oder eines Skontroführers rechtfertigen, so ist das Verfahren an die Geschäftsführung abzugeben. Sie ist berechtigt, in jeder Lage des Verfahrens von dem Sanktionsausschuss Berichte zu verlangen und das Verfahren an sich zu ziehen. Hat die Geschäftsführung das Verfahren übernommen und erweist sich, dass die Zulassung nicht zurückzunehmen oder zu widerrufen ist, so verweist sie das Verfahren an den Sanktionsausschuss zurück.
 
-
-## § 22a – Synchronisierung von im Geschäftsverkehr verwendeten Uhren
+# § 22a – Synchronisierung von im Geschäftsverkehr verwendeten Uhren
 
 Börse und Handelsteilnehmer müssen die von ihnen im Geschäftsverkehr verwendeten Uhren synchronisieren. Zum Verfahren wird auf die Delegierte Verordnung (EU) 2017/574 der Kommission vom 7. Juni 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für den Grad an Genauigkeit von im Geschäftsverkehr verwendeten Uhren (ABl. L 87 vom 31.3.2017, S. 148), in der jeweils geltenden Fassung, verwiesen.
 
-
-## § 22b – Verarbeitung personenbezogener Daten
+# § 22b – Verarbeitung personenbezogener Daten
 
 (1) Die Börsenaufsichtsbehörde, der Börsenrat, die Geschäftsführung, die Handelsüberwachungsstelle und der Sanktionsausschuss sind befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeiten die in Satz 1 genannten Stellen personenbezogene Daten im Zuge einer Maßnahme zur Durchführung ihrer Aufgaben nach diesem Gesetz, stehen den betroffenen Personen die Rechte aus den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung der Rechte der betroffenen Personen Folgendes gefährden würde:
 
@@ -885,15 +853,13 @@ Unter diesen Voraussetzungen sind die Börsenaufsichtsbehörde, der Börsenrat, 
 
 (4) Soweit Personen oder Unternehmen personenbezogene Daten zur Erfüllung der Aufgaben nach Absatz 1 an die Börsenaufsichtsbehörde, den Börsenrat, die Geschäftsführung, die Handelsüberwachungsstelle oder den Sanktionsausschuss übermitteln oder diese von dort erhoben werden, bestehen die Pflicht zur Information der betroffenen Person nach Artikel 13 Absatz 3 und Artikel 14 Absatz 4 der Verordnung (EU) 2016/679 und das Recht auf Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 nicht.
 
-
-## § 23 – Zulassung von Wirtschaftsgütern und Rechten
+# § 23 – Zulassung von Wirtschaftsgütern und Rechten
 
 (1) Wirtschaftsgüter und Rechte, die an der Börse gehandelt werden sollen und nicht zum Handel im regulierten Markt zugelassen oder in den regulierten Markt oder in den Freiverkehr einbezogen sind, bedürfen der Zulassung zum Handel durch die Geschäftsführung. Vor der Zulassung zum Handel hat der Börsenrat Geschäftsbedingungen für den Handel an der Börse zu erlassen. Das Nähere regeln die Artikel 36 und 37 der Verordnung (EG) Nr. 1287/2006 der Kommission vom 10. August 2006 zur Durchführung der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates betreffend die Aufzeichnungspflichten für Wertpapierfirmen, die Meldung von Geschäften, die Markttransparenz, die Zulassung von Finanzinstrumenten zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie (ABl. EU Nr. L 241 S. 1) und die Börsenordnung.
 
 (2) Unbeschadet des Absatzes 1 hat die Geschäftsführung vor der Zulassung von Derivaten zum Handel die Kontraktspezifikationen festzusetzen. Diese müssen so ausgestaltet sein, dass ein ordnungsgemäßer Börsenhandel und eine wirksame Börsengeschäftsabwicklung möglich sind. Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 24 – Börsenpreis
+# § 24 – Börsenpreis
 
 (1) Preise, die während der Börsenzeit an einer Börse festgestellt werden, sind Börsenpreise. Satz 1 gilt auch für Preise, die während der Börsenzeit im Freiverkehr an einer Wertpapierbörse festgestellt werden.
 
@@ -907,8 +873,7 @@ Unter diesen Voraussetzungen sind die Börsenaufsichtsbehörde, der Börsenrat, 
 
 (4) Geschäfte, die zu Börsenpreisen geführt haben, sind bei der Eingabe in das Geschäftsabwicklungssystem der Börse besonders zu kennzeichnen.
 
-
-## § 25 – Aussetzung und Einstellung des Handels
+# § 25 – Aussetzung und Einstellung des Handels
 
 (1) Die Geschäftsführung kann den Handel von Finanzinstrumenten, Wirtschaftsgütern oder Rechten
 
@@ -926,8 +891,7 @@ Die Geschäftsführung ist verpflichtet, Maßnahmen nach Satz 1 zu veröffentlic
 
 (3) Für Maßnahmen nach Artikel 23 Absatz 1 der Verordnung (EU) Nr. 236/2012 gelten Absatz 1 Satz 2 und Absatz 2 entsprechend.
 
-
-## § 26 – Verleitung zu Börsenspekulationsgeschäften
+# § 26 – Verleitung zu Börsenspekulationsgeschäften
 
 (1) Es ist verboten, gewerbsmäßig andere unter Ausnutzung ihrer Unerfahrenheit in Börsenspekulationsgeschäften zu solchen Geschäften oder zur unmittelbaren oder mittelbaren Beteiligung an solchen Geschäften zu verleiten.
 
@@ -939,18 +903,15 @@ Die Geschäftsführung ist verpflichtet, Maßnahmen nach Satz 1 zu veröffentlic
 
 die darauf gerichtet sind, aus dem Unterschied zwischen dem für die Lieferzeit festgelegten Preis und dem zur Lieferzeit vorhandenen Börsen- oder Marktpreis einen Gewinn zu erzielen.
 
-
-## § 26a – Order-Transaktions-Verhältnis
+# § 26a – Order-Transaktions-Verhältnis
 
 Die Handelsteilnehmer sind verpflichtet, ein angemessenes Verhältnis zwischen ihren Auftragseingaben, -änderungen und -löschungen und den tatsächlich ausgeführten Geschäften (Order-Transaktions-Verhältnis) zu gewährleisten, um Risiken für den ordnungsgemäßen Börsenhandel zu vermeiden. Das Order-Transaktions-Verhältnis ist dabei jeweils für ein Finanzinstrument und anhand des zahlenmäßigen Volumens der jeweiligen Aufträge und Geschäfte innerhalb eines Tages zu bestimmen. Ein angemessenes Order-Transaktions-Verhältnis liegt insbesondere dann vor, wenn dieses auf Grund der Liquidität des betroffenen Finanzinstruments, der konkreten Marktlage oder der Funktion des handelnden Unternehmens wirtschaftlich nachvollziehbar ist. Die Börsenordnung muss nähere Bestimmungen zum angemessenen Order-Transaktions-Verhältnis für bestimmte Gattungen von Finanzinstrumenten treffen.
 
-
-## § 26b – Mindestpreisänderungsgröße
+# § 26b – Mindestpreisänderungsgröße
 
 Die Börse ist verpflichtet, eine angemessene Größe der kleinstmöglichen Preisänderung bei den gehandelten Finanzinstrumenten festzulegen, um negative Auswirkungen auf die Marktintegrität und -liquidität zu verringern. Bei der Festlegung der Mindestgröße nach Satz 1 ist insbesondere zu berücksichtigen, dass diese den Preisfindungsmechanismus und das Ziel eines angemessenen Order-Transaktions-Verhältnisses im Sinne des § 26a nicht beeinträchtigt. Wegen der einzelnen Anforderungen an die Festlegung der Mindestpreisänderungsgröße wird auf die Delegierte Verordnung (EU) 2017/588 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für das Tick-Größen-System für Aktien, Aktienzertifikate und börsengehandelte Fonds (ABl. L 87 vom 31.3.2017, S. 411) in der jeweils geltenden Fassung verwiesen. Nähere Bestimmungen kann die Börsenordnung treffen.
 
-
-## § 26c – Market-Making-Systeme
+# § 26c – Market-Making-Systeme
 
 (1) Die Börsenordnung muss Bestimmungen enthalten über die Zulassung von Wertpapierdienstleistungsunternehmen durch die Geschäftsführung, die an der Börse eine Market-Making-Strategie im Sinne des § 80 Absatz 5 des Wertpapierhandelsgesetzes verfolgen.
 
@@ -962,8 +923,7 @@ Die Börse ist verpflichtet, eine angemessene Größe der kleinstmöglichen Prei
 
 (5) Wegen der einzelnen Anforderungen an die Ausgestaltung von Market-Making-Systemen wird auf die Delegierte Verordnung (EU) 2017/578 verwiesen.
 
-
-## § 26d – Algorithmische Handelssysteme und elektronischer Handel
+# § 26d – Algorithmische Handelssysteme und elektronischer Handel
 
 (1) Die Börse muss sicherstellen, dass algorithmische Handelssysteme nicht zu Beeinträchtigungen des ordnungsgemäßen Börsenhandels führen oder zu solchen Beeinträchtigungen beitragen. Um den von algorithmischen Handelssystemen ausgehenden Gefahren für den ordnungsgemäßen Börsenhandel vorzubeugen, hat die Börse geeignete Vorkehrungen zu treffen, einschließlich Vorkehrungen zur Begrenzung des Verhältnisses von nicht ausgeführten Handelsaufträgen zu ausgeführten Handelsaufträgen für den Fall, dass die Systemkapazität der Börse übermäßig in Anspruch genommen wird und die Gefahr besteht, dass die Kapazitätsgrenze erreicht wird.
 
@@ -971,13 +931,11 @@ Die Börse ist verpflichtet, eine angemessene Größe der kleinstmöglichen Prei
 
 (3) Wegen der geeigneten Vorkehrungen nach Absatz 1 und der Anforderungen an die Ausgestaltung der Tests nach Absatz 2 wird auf die Delegierte Verordnung (EU) 2017/584 der Kommission vom 14. Juli 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates durch technische Regulierungsstandards zur Festlegung der organisatorischen Anforderungen an Handelsplätze (ABl. L 87 vom 31.3.2017, S. 350), in der jeweils geltenden Fassung, verwiesen.
 
-
-## § 26e – Informationen über die Ausführungsqualität
+# § 26e – Informationen über die Ausführungsqualität
 
 Börsen müssen für jedes Finanzinstrument, das an ihnen gehandelt wird, mindestens einmal jährlich gebührenfrei Informationen über die Qualität der Ausführung von Aufträgen veröffentlichen. Die Veröffentlichungen müssen ausführliche Angaben zum Preis, den mit einer Auftragsausführung verbundenen Kosten, der Geschwindigkeit und der Wahrscheinlichkeit der Ausführung enthalten. Wegen der einzelnen Anforderungen an Inhalt und Form der Veröffentlichungen nach den Sätzen 1 und 2 wird auf die Delegierte Verordnung (EU) 2017/575 der Kommission vom 8. Juni 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates über Märkte für Finanzinstrumente durch technische Regulierungsstandards bezüglich der Daten, die Ausführungsplätze zur Qualität der Ausführung von Geschäften veröffentlichen müssen (ABl. L 87 vom 31.3.2017, S. 152), in der jeweils geltenden Fassung, verwiesen.
 
-
-## § 26f – Positionsmanagementkontrollen
+# § 26f – Positionsmanagementkontrollen
 
 (1) Eine Börse, an der Warenderivate gehandelt werden, muss Verfahren zur Überwachung der Einhaltung der nach § 54 Absatz 1 bis 5 und § 55 des Wertpapierhandelsgesetzes festgelegten Positionslimits (Positionsmanagementkontrollen) einrichten. Diese müssen transparent und diskriminierungsfrei ausgestaltet werden, festlegen, wie sie anzuwenden sind und der Art und Zusammensetzung der Handelsteilnehmer sowie deren Nutzung der zum Handel zugelassenen Kontrakte Rechnung tragen. Im Rahmen von Kontrollen nach den Sätzen 1 und 2 hat die Börse insbesondere sicherzustellen, dass sie das Recht hat,
 
@@ -991,13 +949,11 @@ Börsen müssen für jedes Finanzinstrument, das an ihnen gehandelt wird, mindes
 
 (2) Die Börse unterrichtet die Börsenaufsichtsbehörde über Einzelheiten der Positionsmanagementkontrollen nach Absatz 1. Die Börsenaufsichtsbehörde übermittelt diese Informationen an die Bundesanstalt und an die Europäische Wertpapier- und Marktaufsichtsbehörde.
 
-
-## § 26g – Übermittlung von Daten
+# § 26g – Übermittlung von Daten
 
 Die Geschäftsführung kann von den Handelsteilnehmern die Übermittlung von Daten in Bezug auf deren Finanzinstrumente verlangen, soweit dies zur Erfüllung der Anforderungen aus Artikel 25 Absatz 2 der Verordnung (EU) Nr. 600/2014 erforderlich ist.
 
-
-## § 27 – Zulassung zum Skontroführer
+# § 27 – Zulassung zum Skontroführer
 
 (1) Die Geschäftsführung einer Wertpapierbörse kann unter Berücksichtigung des von der Börse genutzten Handelssystems zur Teilnahme am Börsenhandel zugelassene Unternehmen auf deren Antrag mit der Feststellung von Börsenpreisen an dieser Wertpapierbörse betrauen (Zulassung als Skontroführer). Der Antragsteller und seine Geschäftsleiter müssen die für die Skontroführung erforderliche Zuverlässigkeit haben und auf Grund ihrer fachlichen und wirtschaftlichen Leistungsfähigkeit zur Skontroführung geeignet sein. Die Geschäftsführung hat Personen, die berechtigt sein sollen, für einen Skontroführer bei der Skontroführung zu handeln (skontroführende Personen), zuzulassen, wenn diese Personen Börsenhändler sind und die für die Skontroführung erforderliche berufliche Eignung haben. Das Nähere regelt die Börsenordnung.
 
@@ -1007,26 +963,21 @@ Die Geschäftsführung kann von den Handelsteilnehmern die Übermittlung von Dat
 
 (4) Die Bundesanstalt hat die Geschäftsführung unverzüglich zu unterrichten, wenn sie Maßnahmen zur Sicherung der Erfüllung der Verbindlichkeiten des Skontroführers gegenüber dessen Gläubigern ergriffen hat.
 
-
-## § 28 – Pflichten des Skontroführers
+# § 28 – Pflichten des Skontroführers
 
 (1) Der Skontroführer und die skontroführenden Personen haben im Rahmen der Aufgaben des Skontroführers auf einen geordneten Marktverlauf hinzuwirken und die Skontroführung neutral auszuüben. Der Skontroführer hat durch geeignete organisatorische Maßnahmen die Einhaltung der ihm obliegenden Pflichten sicherzustellen. Bei der Preisfeststellung hat er weisungsfrei zu handeln. Die Wahrnehmung der Pflichten hat so zu erfolgen, dass eine wirksame Überwachung der Einhaltung der Pflichten gewährleistet ist. Das Nähere regelt die Börsenordnung.
 
 (2) Der Skontroführer und die skontroführenden Personen haben alle zum Zeitpunkt der Preisfeststellung vorliegenden Aufträge bei ihrer Ausführung unter Beachtung der an der Börse bestehenden besonderen Regelungen gleich zu behandeln. Das Nähere regelt die Börsenordnung.
 
-
-## § 29 – Verteilung der Skontren
+# § 29 – Verteilung der Skontren
 
 Über die Verteilung der Skontren unter den für die Skontroführung geeigneten Antragstellern nach § 27 Abs. 1 Satz 2 und die Anzahl der Skontroführer entscheidet die Geschäftsführung. Die Zuteilung von Skontren kann befristet erfolgen. Das Nähere regelt die Börsenordnung. Die Börsenordnung kann als Kriterien für die Zuteilung der Skontren insbesondere die fachliche und wirtschaftliche Leistungsfähigkeit des Antragstellers vorsehen.
 
+# § 30 – (weggefallen)
 
-## § 30 – (weggefallen)
+# § 31 – (weggefallen)
 
-
-## § 31 – (weggefallen)
-
-
-## § 32 – Zulassungspflicht
+# § 32 – Zulassungspflicht
 
 (1) Wertpapiere, die im regulierten Markt an einer Börse gehandelt werden sollen, bedürfen der Zulassung oder der Einbeziehung durch die Geschäftsführung, soweit nicht in § 37 oder in anderen Gesetzen etwas anderes bestimmt ist.
 
@@ -1042,8 +993,7 @@ Die Geschäftsführung kann von den Handelsteilnehmern die Übermittlung von Dat
 
 (5) Die Geschäftsführung bestimmt mindestens drei inländische Zeitungen mit überregionaler Verbreitung zu Bekanntmachungsblättern für die vorgeschriebenen Veröffentlichungen (überregionale Börsenpflichtblätter). Die Bestimmung kann zeitlich begrenzt werden; sie ist durch Börsenbekanntmachung zu veröffentlichen.
 
-
-## § 33 – Einbeziehung von Wertpapieren in den regulierten Markt
+# § 33 – Einbeziehung von Wertpapieren in den regulierten Markt
 
 (1) Wertpapiere können auf Antrag eines Handelsteilnehmers oder von Amts wegen durch die Geschäftsführung zum Börsenhandel in den regulierten Markt einbezogen werden, wenn
 
@@ -1065,8 +1015,7 @@ zugelassen sind und
 
 (4) Für die Aussetzung und die Einstellung der Ermittlung des Börsenpreises gilt § 25 entsprechend. Für den Widerruf der Einbeziehung gilt § 39 Abs. 1 entsprechend.
 
-
-## § 34 – Ermächtigungen
+# § 34 – Ermächtigungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die zum Schutz des Publikums und für einen ordnungsgemäßen Börsenhandel erforderlichen Vorschriften über
 
@@ -1084,8 +1033,7 @@ d) das Erfordernis, den Zulassungsantrag auf alle Aktien derselben Gattung oder 
 
 zu erlassen.
 
-
-## § 35 – Verweigerung der Zulassung
+# § 35 – Verweigerung der Zulassung
 
 (1) Lehnt die Geschäftsführung einen Zulassungsantrag ab, so hat sie dies den anderen Börsen, an denen die Wertpapiere des Emittenten gehandelt werden sollen, unter Angabe der Gründe für die Ablehnung mitzuteilen.
 
@@ -1093,20 +1041,17 @@ zu erlassen.
 
 (3) Wird ein Zulassungsantrag an mehreren inländischen Börsen gestellt, so dürfen die Wertpapiere nur mit Zustimmung aller Börsen, die über den Antrag zu entscheiden haben, zugelassen werden. Die Zustimmung darf nicht aus Rücksicht auf örtliche Verhältnisse verweigert werden.
 
-
-## § 36 – Zusammenarbeit in der Europäischen Union
+# § 36 – Zusammenarbeit in der Europäischen Union
 
 (1) Beantragt ein Emittent mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, dessen Aktien entsprechend der Richtlinie 2001/34/EG des Europäischen Parlaments und des Rates vom 28. Mai 2001 über die Zulassung von Wertpapieren zur amtlichen Börsennotierung und über die hinsichtlich dieser Wertpapiere zu veröffentlichenden Informationen (ABl. EG Nr. L 184 S. 1) in diesem Mitgliedstaat oder Vertragsstaat zugelassen sind, die Zulassung von Wertpapieren, mit denen Bezugsrechte für diese Aktien verbunden sind, so hat die Geschäftsführung vor ihrer Entscheidung eine Stellungnahme der zuständigen Stelle des anderen Mitgliedstaates oder Vertragsstaates einzuholen.
 
 (2) Die Vorschriften über die Zusammenarbeit nach der Verordnung (EU) 2017/1129 bleiben unberührt.
 
-
-## § 37 – Staatliche Schuldverschreibungen
+# § 37 – Staatliche Schuldverschreibungen
 
 Schuldverschreibungen des Bundes, seiner Sondervermögen oder eines Bundeslandes, auch soweit sie in das Bundesschuldbuch oder in die Schuldbücher der Bundesländer eingetragen sind, sowie Schuldverschreibungen, die von einem anderen Mitgliedstaat der Europäischen Union oder von einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgegeben werden, sind an jeder inländischen Börse zum Handel im regulierten Markt zugelassen.
 
-
-## § 38 – Einführung
+# § 38 – Einführung
 
 (1) Die Geschäftsführung entscheidet auf Antrag des Emittenten über die Aufnahme der Notierung zugelassener Wertpapiere im regulierten Markt (Einführung). Der Emittent hat der Geschäftsführung in dem Antrag den Zeitpunkt für die Einführung und die Merkmale der einzuführenden Wertpapiere mitzuteilen. Das Nähere regelt die Börsenordnung.
 
@@ -1116,8 +1061,7 @@ Schuldverschreibungen des Bundes, seiner Sondervermögen oder eines Bundeslandes
 
 (4) Werden die Wertpapiere nicht innerhalb von drei Monaten nach Veröffentlichung der Zulassungsentscheidung eingeführt, erlischt ihre Zulassung. Die Geschäftsführung kann die Frist auf Antrag angemessen verlängern, wenn ein berechtigtes Interesse des Emittenten der zugelassenen Wertpapiere an der Verlängerung dargetan wird.
 
-
-## § 39 – Widerruf der Zulassung bei Wertpapieren
+# § 39 – Widerruf der Zulassung bei Wertpapieren
 
 (1) Die Geschäftsführung kann die Zulassung von Wertpapieren zum Handel im regulierten Markt außer nach den Vorschriften des Verwaltungsverfahrensgesetzes widerrufen, wenn ein ordnungsgemäßer Börsenhandel auf Dauer nicht mehr gewährleistet ist und die Geschäftsführung die Notierung im regulierten Markt eingestellt hat oder der Emittent seine Pflichten aus der Zulassung auch nach einer angemessenen Frist nicht erfüllt.
 
@@ -1147,39 +1091,33 @@ so ist der Bieter zur Zahlung des Unterschiedsbetrags zwischen der im Angebot ge
 
 (6) Im Hinblick auf die Anforderungen des Absatzes 3 bleibt die Rechtmäßigkeit des Widerrufs unberührt.
 
-
-## § 40 – Pflichten des Emittenten
+# § 40 – Pflichten des Emittenten
 
 (1) Der Emittent zugelassener Aktien ist verpflichtet, für später ausgegebene Aktien derselben Gattung die Zulassung zum regulierten Markt zu beantragen.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wann und unter welchen Voraussetzungen die Verpflichtung nach Absatz 1 eintritt.
 
-
-## § 41 – Auskunftserteilung
+# § 41 – Auskunftserteilung
 
 (1) Der Emittent der zugelassenen Wertpapiere sowie das Institut oder Unternehmen, das die Zulassung der Wertpapiere nach § 32 Abs. 2 Satz 1 zusammen mit dem Emittenten beantragt hat, sind verpflichtet, der Geschäftsführung aus ihrem Bereich alle Auskünfte zu erteilen, die zur ordnungsgemäßen Erfüllung ihrer Aufgaben im Hinblick auf die Zulassung und die Einführung der Wertpapiere erforderlich sind.
 
 (2) Die Geschäftsführung kann verlangen, dass der Emittent der zugelassenen Wertpapiere in angemessener Form und Frist bestimmte Auskünfte veröffentlicht, wenn dies zum Schutz des Publikums oder für einen ordnungsgemäßen Börsenhandel erforderlich ist. Kommt der Emittent dem Verlangen der Geschäftsführung nicht nach, kann die Geschäftsführung nach Anhörung des Emittenten auf dessen Kosten diese Auskünfte selbst veröffentlichen.
 
-
-## § 42 – Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten
+# § 42 – Teilbereiche des regulierten Marktes mit besonderen Pflichten für Emittenten
 
 (1) Die Börsenordnung kann für Teilbereiche des regulierten Marktes ergänzend zu den vom Unternehmen einzureichenden Unterlagen zusätzliche Voraussetzungen für die Zulassung von Aktien oder Aktien vertretenden Zertifikate und weitere Unterrichtungspflichten des Emittenten auf Grund der Zulassung von Aktien oder Aktien vertretenden Zertifikate zum Schutz des Publikums oder für einen ordnungsgemäßen Börsenhandel vorsehen.
 
 (2) Erfüllt der Emittent auch nach einer ihm gesetzten angemessenen Frist zusätzliche Pflichten nach § 42 nicht, kann die Geschäftsführung den Emittent aus dem entsprechenden Teilbereich des regulierten Marktes ausschließen. § 25 Abs. 1 Satz 2 und 3 gilt bei Maßnahmen der Geschäftsführung nach diesem Absatz entsprechend.
 
-
-## § 43 – Verpflichtung des Insolvenzverwalters
+# § 43 – Verpflichtung des Insolvenzverwalters
 
 (1) Wird über das Vermögen eines nach diesem Gesetz zu einer Handlung Verpflichteten ein Insolvenzverfahren eröffnet, hat der Insolvenzverwalter den Schuldner bei der Erfüllung der Pflichten nach diesem Gesetz zu unterstützen, insbesondere indem er aus der Insolvenzmasse die hierfür erforderlichen Mittel bereitstellt.
 
 (2) Wird vor Eröffnung des Insolvenzverfahrens ein vorläufiger Insolvenzverwalter bestellt, hat dieser den Schuldner bei der Erfüllung seiner Pflichten zu unterstützen, insbesondere indem er der Verwendung der Mittel durch den Verpflichteten zustimmt oder, wenn dem Verpflichteten ein allgemeines Verfügungsverbot auferlegt wurde, indem er die Mittel aus dem von ihm verwalteten Vermögen zur Verfügung stellt.
 
+# §§ 44 bis 47 – ----
 
-## §§ 44 bis 47 – ----
-
-
-## § 48 – Freiverkehr
+# § 48 – Freiverkehr
 
 (1) Für Wertpapiere, die weder zum Handel im regulierten Markt zugelassen noch zum Handel in den regulierten Markt einbezogen sind, kann die Börse den Betrieb eines Freiverkehrs durch den Börsenträger zulassen, wenn durch eine Handelsordnung sowie durch Geschäftsbedingungen des Börsenträgers, die von der Geschäftsführung gebilligt wurden, eine ordnungsmäßige Durchführung des Handels und der Geschäftsabwicklung gewährleistet erscheint. Die Handelsordnung regelt den Ablauf des Handels. Die Geschäftsbedingungen regeln die Teilnahme am Handel und die Einbeziehung von Wertpapieren zum Handel. Emittenten, deren Wertpapiere ohne ihre Zustimmung in den Freiverkehr einbezogen worden sind, können durch die Geschäftsbedingungen nicht dazu verpflichtet werden, Informationen in Bezug auf diese Wertpapiere zu veröffentlichen.
 
@@ -1191,8 +1129,7 @@ so ist der Bieter zur Zahlung des Unterschiedsbetrags zwischen der im Angebot ge
 
 (5) Der Börsenträger kann von einem Emittenten die Übermittlung von Referenzdaten in Bezug auf dessen Finanzinstrumente verlangen, soweit dies zur Erfüllung der Anforderungen aus Artikel 4 der Verordnung (EU) Nr. 596/2014 erforderlich ist.
 
-
-## § 48a – KMU-Wachstumsmarkt
+# § 48a – KMU-Wachstumsmarkt
 
 (1) Der Börsenträger kann einen Freiverkehr bei der Börsenaufsichtsbehörde als Wachstumsmarkt für kleine und mittlere Unternehmen (KMU-Wachstumsmarkt) registrieren lassen, sofern folgende Anforderungen erfüllt sind:
 
@@ -1216,8 +1153,7 @@ Die Möglichkeit des Börsenträgers, zusätzliche Anforderungen festzulegen, bl
 
 (3) Ein Finanzinstrument, das zum Handel in den Freiverkehr einbezogen ist, kann nur dann in einem anderen KMU-Wachstumsmarkt gehandelt werden, wenn der Emittent des Finanzinstruments hierüber unterrichtet wurde und dem nicht widersprochen hat. In einem solchen Fall entstehen dem Emittenten im Hinblick auf diesen anderen KMU-Wachstumsmarkt keine Verpflichtungen in Bezug auf die Unternehmensführung und -kontrolle oder erstmalige, laufende oder punktuelle Veröffentlichungspflichten.
 
-
-## § 48b – Organisiertes Handelssystem an einer Börse
+# § 48b – Organisiertes Handelssystem an einer Börse
 
 (1) Der Betrieb eines organisierten Handelssystems an einer Börse bedarf der schriftlichen Erlaubnis der Börsenaufsichtsbehörde. Der Börsenträger legt der Börsenaufsichtsbehörde eine ausführliche Beschreibung der Funktionsweise des organisierten Handelssystems vor, einschließlich etwaiger Verbindungen zu einem anderen organisierten oder multilateralen Handelssystem oder einem systematischen Internalisierer in seinem Eigentum, sowie eine Liste der Handelsteilnehmer. Die Börsenaufsichtsbehörde stellt diese Informationen der Bundesanstalt und auf deren Verlangen der Europäischen Wertpapier- und Marktaufsichtsbehörde zur Verfügung und teilt diesen jede Zulassung eines organisierten Handelssystems mit. Soweit die Absätze 2 bis 9 keine abweichende Regelung treffen, sind die für den Freiverkehr geltenden Vorschriften dieses Gesetzes entsprechend anzuwenden.
 
@@ -1245,13 +1181,11 @@ Im Falle des Satzes 1 Nummer 2 darf eine Zusammenführung nur dann unterbleiben,
 
 (10) § 63 Absatz 1, 3 bis 7 und 9, § 64 Absatz 1 sowie die §§ 69, 70 und 82 des Wertpapierhandelsgesetzes gelten entsprechend für Geschäfte, die über ein organisiertes Handelssystem an einer Börse abgeschlossen wurden.
 
-
-## § 49 – Strafvorschriften
+# § 49 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 26 Abs. 1 andere zu Börsenspekulationsgeschäften oder zu einer Beteiligung an einem solchen Geschäft verleitet.
 
-
-## § 50 – Bußgeldvorschriften
+# § 50 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen
 
@@ -1427,8 +1361,7 @@ Handelt es sich bei den in Satz 1 genannten Personen um juristische Personen ode
 
 (12) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in den Absätzen 9 und 10 in Bezug genommen werden. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder Personenvereinigungen, die über eine Zweigniederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind. Die Verfolgung der Ordnungswidrigkeiten nach den Absätzen 9 und 10 verjährt in drei Jahren.
 
-
-## § 50a – Bekanntmachung von Maßnahmen
+# § 50a – Bekanntmachung von Maßnahmen
 
 (1) Die Börsenaufsichtsbehörde hat jede unanfechtbar gewordene Bußgeldentscheidung nach § 50 Absatz 3 unverzüglich auf ihrer Internetseite öffentlich bekannt zu machen, es sei denn, diese Veröffentlichung würde die Finanzmärkte erheblich gefährden oder zu einem unverhältnismäßigen Schaden bei den Beteiligten führen. Die Bekanntmachung darf keine personenbezogenen Daten enthalten.
 
@@ -1446,15 +1379,13 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 Entscheidet sich die Börsenaufsichtsbehörde für eine Bekanntmachung in anonymisierter Form, kann die Bekanntmachung um einen angemessenen Zeitraum aufgeschoben werden, wenn vorhersehbar ist, dass die Gründe für die anonymisierte Bekanntmachung innerhalb dieses Zeitraums wegfallen werden. Wird gegen die Bußgeldentscheidung ein Rechtsbehelf eingelegt, so macht die Börsenaufsichtsbehörde auch diesen Sachverhalt und das Ergebnis des Rechtsbehelfsverfahrens umgehend auf ihrer Internetseite bekannt. Ferner wird jede Entscheidung, mit der eine frühere Bußgeldentscheidung aufgehoben oder geändert wird, ebenfalls bekannt gemacht. Eine Bekanntmachung nach Satz 1 ist nach fünf Jahren zu löschen. Abweichend davon sind personenbezogene Daten zu löschen, sobald ihre Bekanntmachung nicht mehr erforderlich ist. Die Börsenaufsichtsbehörde unterrichtet die Bundesanstalt und die Europäische Wertpapier- und Marktaufsichtsbehörde über alle Bußgeldentscheidungen, die im Einklang mit Satz 4 Nummer 3 nicht bekannt gemacht wurden, sowie über alle Rechtsbehelfe in Verbindung mit diesen Bußgeldentscheidungen und die Ergebnisse der Rechtsbehelfsverfahren. Über die Bekanntmachung einer Bußgeldentscheidung unterrichtet die Börsenaufsichtsbehörde die Bundesanstalt und die Europäische Wertpapier- und Marktaufsichtbehörde gleichzeitig.
 
-
-## § 51 – Geltung für Wechsel und ausländische Zahlungsmittel
+# § 51 – Geltung für Wechsel und ausländische Zahlungsmittel
 
 (1) Die §§ 24 und 27 bis 29 gelten auch für den Börsenhandel mit Wechseln und ausländischen Zahlungsmitteln.
 
 (2) Als Zahlungsmittel im Sinne des Absatzes 1 gelten auch Auszahlungen, Anweisungen und Schecks.
 
-
-## § 52 – Übergangsregelungen
+# § 52 – Übergangsregelungen
 
 (1) Sind Prospekte, auf Grund derer Wertpapiere zum Börsenhandel mit amtlicher Notierung zugelassen worden sind, oder Unternehmensberichte vor dem 1. April 1998 veröffentlicht worden, so sind auf diese Prospekte und Unternehmensberichte die Vorschriften der §§ 45 bis 49 und 77 des Börsengesetzes in der Fassung der Bekanntmachung vom 17. Juli 1996 (BGBl. I S. 1030) weiterhin anzuwenden.
 

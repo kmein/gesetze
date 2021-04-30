@@ -1,15 +1,11 @@
-# [SchSiMeistPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit
-
-Ausfertigungsdatum: 26.03.2003
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit
+% Ausfertigungsdatum: 26.03.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 4 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Meister/zur Geprüften Meisterin für Schutz und Sicherheit erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
@@ -35,8 +31,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit.
 
-
-## § 2 – Umfang der Meisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister/zur Geprüften Meisterin für Schutz und Sicherheit umfasst:
 
@@ -58,8 +53,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (5) Im Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich und mündlich in Form von handlungsspezifischen Aufgabenstellungen gemäß § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -83,8 +77,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Abweichend von den in den Absätzen 1 und 2 Nr. 2 genannten Voraussetzungen kann zur Prüfung in den Prüfungsteilen auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Kenntnisse, Fertigkeiten und Erfahrungen erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Grundlegende Qualifikationen
+# § 4 – Grundlegende Qualifikationen
 
 (1) Im Prüfungsteil "Grundlegende Qualifikationen" ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -138,8 +131,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (6) Wurde in nicht mehr als einem der in Absatz 1 Nr. 1 bis 3 genannten Prüfungsbereichen eine mangelhafte Prüfungsleistung erbracht, ist darin eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst die Handlungsbereiche "Schutz- und Sicherheitstechnik", "Organisation" sowie "Führung und Personal". Die Handlungsbereiche werden durch die in Absatz 2 Nr. 1 bis 3 genannten Qualifikationsschwerpunkte beschrieben. Es werden drei die Handlungsbereiche integrierende Situationsaufgaben nach den Absätzen 3 bis 5 unter Berücksichtigung der grundlegenden Qualifikationen gestellt. Zwei der Situationsaufgaben sind schriftlich zu lösen, eine Situationsaufgabe ist Gegenstand des situationsgebundenen Fachgespräches nach Absatz 6. Die Situationsaufgaben sind so zu gestalten, dass alle Qualifikationsschwerpunkte der Handlungsbereiche mindestens einmal thematisiert werden. Die Prüfungsdauer der schriftlichen Situationsaufgaben beträgt jeweils mindestens drei Stunden, insgesamt jedoch nicht mehr als acht Stunden.
 
@@ -357,15 +349,13 @@ d) Kontinuierliches Umsetzen der Qualitätsmanagementziele.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -381,8 +371,7 @@ Aus den beiden Bewertungen der schriftlichen Situationsaufgaben und der Bewertun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -412,8 +401,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -427,8 +415,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -436,8 +423,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Optionale Qualifikation
+# § 11 – Optionale Qualifikation
 
 (1) Es ist auch eine Prüfung in "Selbstständige Betriebsführung von Sicherheitsdienstleistungsunternehmen" möglich. Zu dieser gesonderten Prüfung ist zuzulassen, wer die Prüfung nach dieser Verordnung oder die Prüfung zum "Werkschutzmeister" nach den Rechtsvorschriften auf Grund des § 46 Abs. 1 des Berufsbildungsgesetzes bestanden hat.
 
@@ -457,15 +443,13 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschrift
+# § 12 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig treten die Rechtsvorschriften der zuständigen Stellen über die Prüfung Werkschutzmeister/Werkschutzmeisterin außer Kraft.
 
@@ -473,15 +457,13 @@ Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nac
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2242 - 2243)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2243 - 2244)
 

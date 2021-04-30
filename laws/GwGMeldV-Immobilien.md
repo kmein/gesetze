@@ -1,20 +1,15 @@
-# [GwGMeldV-Immobilien] Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich  (Geldwäschegesetzmeldepflichtverordnung-Immobilien - GwGMeldV-Immobilien)
-
-Ausfertigungsdatum: 20.08.2020
-
+% Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich  (Geldwäschegesetzmeldepflichtverordnung-Immobilien - GwGMeldV-Immobilien)
+% Ausfertigungsdatum: 20.08.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Absatz 6 des Geldwäschegesetzes, der durch Artikel 1 Nummer 33 Buchstabe d des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2602) eingefügt worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Regelungsbereich
+# § 1 – Regelungsbereich
 
 Diese Verordnung bestimmt in den §§ 3 bis 6 Sachverhalte bei Erwerbsvorgängen nach § 1 des Grunderwerbsteuergesetzes, die von Verpflichteten nach § 2 Absatz 1 Nummer 10 und 12 des Geldwäschegesetzes stets nach § 43 Absatz 1 des Geldwäschegesetzes zu melden sind. Sie begründet für diese Verpflichteten keine eigenständigen Pflichten zur Ermittlung von Tatsachen, die eine Meldepflicht begründen können.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Rechtsverordnung sind
 
@@ -30,8 +25,7 @@ Im Sinne dieser Rechtsverordnung sind
 
 6. Erwerbsvorgänge: Rechtsvorgänge nach § 1 des Grunderwerbsteuergesetzes einschließlich deren Vorbereitung.
 
-
-## § 3 – Meldepflichten wegen eines Bezugs zu Risikostaaten oder Sanktionslisten
+# § 3 – Meldepflichten wegen eines Bezugs zu Risikostaaten oder Sanktionslisten
 
 (1) Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang Beteiligter oder ein wirtschaftlich Berechtigter ansässig ist in oder einen gleichermaßen engen Bezug aufweist zu
 
@@ -49,8 +43,7 @@ Im Sinne dieser Rechtsverordnung sind
 
 (4) Die Zentralstelle für Finanztransaktionsuntersuchungen stellt den Verpflichteten eine Liste der nach Absatz 1 Nummer 2 zu berücksichtigenden Staaten in deutscher Übersetzung sowie Informationen zu den nach Absatz 3 zu berücksichtigenden Personen über ihre Internetseite zur Verfügung.
 
-
-## § 4 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit den beteiligten Personen oder dem wirtschaftlich Berechtigten
+# § 4 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit den beteiligten Personen oder dem wirtschaftlich Berechtigten
 
 (1) Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang Beteiligter seine Mitwirkungspflicht nach § 11 Absatz 6 Satz 1 des Geldwäschegesetzes oder seine Auskunfts- und Nachweispflicht nach § 11 Absatz 6 Satz 3 und 4 des Geldwäschegesetzes nicht erfüllt hat.
 
@@ -78,8 +71,7 @@ Die Meldepflicht besteht nicht, wenn sich der an dem Erwerbsvorgang Beteiligte o
 
 (7) Der Verpflichtete hat zu melden, wenn der Erwerbsvorgang mit einer grenzüberschreitenden Steuergestaltung im Sinne des § 138d Absatz 2 der Abgabenordnung in Zusammenhang steht, die ein Kennzeichen im Sinne des § 138e Absatz 2 Nummer 2 Buchstabe f oder Nummer 3 der Abgabenordnung aufweist, und der Verpflichtete als Intermediär nach § 138d Absatz 1 der Abgabenordnung mitteilungspflichtig ist.
 
-
-## § 5 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit Stellvertretung
+# § 5 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit Stellvertretung
 
 Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang Beteiligter
 
@@ -91,8 +83,7 @@ Der Verpflichtete hat zu melden, wenn ein an dem Erwerbsvorgang Beteiligter
 
 4. aufgrund einer Vollmacht handelt, die durch Mitarbeiter der konsularischen Vertretung der Bundesrepublik Deutschland in einem Drittstaat nach § 3 Absatz 1 beglaubigt wurde.
 
-
-## § 6 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit dem Preis oder einer Kauf- oder Zahlungsmodalität
+# § 6 – Meldepflichten wegen Auffälligkeiten im Zusammenhang mit dem Preis oder einer Kauf- oder Zahlungsmodalität
 
 (1) Der Verpflichtete hat zu melden, wenn die Gegenleistung
 
@@ -142,12 +133,10 @@ Für die Fristbestimmung nach Satz 1 ist maßgeblich
 
 (3) Der Verpflichtete hat zu melden, wenn die Zahlung über ein Anderkonto erfolgen soll, ohne dass ein berechtigtes Sicherungsinteresse besteht. Satz 1 gilt nicht für Anderkonten des Notars.
 
-
-## § 7 – Ausnahme von der Meldepflicht
+# § 7 – Ausnahme von der Meldepflicht
 
 Liegen Tatsachen vor, die die bei den in den §§ 3 bis 6 bestimmten Sachverhalten vorhandenen Anzeichen entkräften, dass ein Vermögensgegenstand aus einer strafbaren Handlung stammt, die eine Vortat der Geldwäsche darstellen könnte, oder dass der Erwerbsvorgang im Zusammenhang mit Terrorismusfinanzierung steht, so besteht keine Pflicht zur Meldung. Die Tatsachen, aufgrund derer nach Satz 1 von einer Meldung abgesehen wird, sind nach § 8 Absatz 1 Satz 1 Nummer 4 des Geldwäschegesetzes aufzuzeichnen. Die Dokumentation ist für Zwecke der aufsichtlichen Prüfung aufzubewahren.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2020 in Kraft.

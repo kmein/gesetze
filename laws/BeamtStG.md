@@ -1,23 +1,17 @@
-# [BeamtStG] Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern  (Beamtenstatusgesetz - BeamtStG)
-
-Ausfertigungsdatum: 17.06.2008
-
+% Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern  (Beamtenstatusgesetz - BeamtStG)
+% Ausfertigungsdatum: 17.06.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Dieses Gesetz regelt das Statusrecht der Beamtinnen und Beamten der Länder, Gemeinden und Gemeindeverbände sowie der sonstigen der Aufsicht eines Landes unterstehenden Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts.
 
-
-## § 2 – Dienstherrnfähigkeit
+# § 2 – Dienstherrnfähigkeit
 
 Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
@@ -25,8 +19,7 @@ Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
 2. sonstige Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die dieses Recht im Zeitpunkt des Inkrafttretens dieses Gesetzes besitzen oder denen es durch ein Landesgesetz oder aufgrund eines Landesgesetzes verliehen wird.
 
-
-## § 3 – Beamtenverhältnis
+# § 3 – Beamtenverhältnis
 
 (1) Beamtinnen und Beamte stehen zu ihrem Dienstherrn in einem öffentlich-rechtlichen Dienst- und Treueverhältnis (Beamtenverhältnis).
 
@@ -36,8 +29,7 @@ Das Recht, Beamtinnen und Beamte zu haben, besitzen
 
 2. solcher Aufgaben, die aus Gründen der Sicherung des Staates oder des öffentlichen Lebens nicht ausschließlich Personen übertragen werden dürfen, die in einem privatrechtlichen Arbeitsverhältnis stehen.
 
-
-## § 4 – Arten des Beamtenverhältnisses
+# § 4 – Arten des Beamtenverhältnisses
 
 (1) Das Beamtenverhältnis auf Lebenszeit dient der dauernden Wahrnehmung von Aufgaben nach § 3 Abs. 2. Es bildet die Regel.
 
@@ -59,8 +51,7 @@ a) der Ableistung eines Vorbereitungsdienstes oder
 
 b) der nur vorübergehenden Wahrnehmung von Aufgaben nach § 3 Abs. 2.
 
-
-## § 5 – Ehrenbeamtinnen und Ehrenbeamte
+# § 5 – Ehrenbeamtinnen und Ehrenbeamte
 
 (1) Als Ehrenbeamtin oder Ehrenbeamter kann berufen werden, wer Aufgaben im Sinne des § 3 Abs. 2 unentgeltlich wahrnehmen soll.
 
@@ -68,13 +59,11 @@ b) der nur vorübergehenden Wahrnehmung von Aufgaben nach § 3 Abs. 2.
 
 (3) Ein Ehrenbeamtenverhältnis kann nicht in ein Beamtenverhältnis anderer Art, ein solches Beamtenverhältnis nicht in ein Ehrenbeamtenverhältnis umgewandelt werden.
 
-
-## § 6 – Beamtenverhältnis auf Zeit
+# § 6 – Beamtenverhältnis auf Zeit
 
 Für die Rechtsverhältnisse der Beamtinnen auf Zeit und Beamten auf Zeit gelten die Vorschriften für Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit entsprechend, soweit durch Landesrecht nichts anderes bestimmt ist.
 
-
-## § 7 – Voraussetzungen des Beamtenverhältnisses
+# § 7 – Voraussetzungen des Beamtenverhältnisses
 
 (1) In das Beamtenverhältnis darf nur berufen werden, wer
 
@@ -100,8 +89,7 @@ besitzt,
 
 2. bei der Berufung von Hochschullehrerinnen und Hochschullehrern und anderen Mitarbeiterinnen und Mitarbeitern des wissenschaftlichen und künstlerischen Personals in das Beamtenverhältnis andere wichtige Gründe vorliegen.
 
-
-## § 8 – Ernennung
+# § 8 – Ernennung
 
 (1) Einer Ernennung bedarf es zur
 
@@ -125,18 +113,15 @@ besitzt,
 
 (4) Eine Ernennung auf einen zurückliegenden Zeitpunkt ist unzulässig und insoweit unwirksam.
 
-
-## § 9 – Kriterien der Ernennung
+# § 9 – Kriterien der Ernennung
 
 Ernennungen sind nach Eignung, Befähigung und fachlicher Leistung ohne Rücksicht auf Geschlecht, Abstammung, Rasse oder ethnische Herkunft, Behinderung, Religion oder Weltanschauung, politische Anschauungen, Herkunft, Beziehungen oder sexuelle Identität vorzunehmen.
 
-
-## § 10 – Voraussetzung der Ernennung auf Lebenszeit
+# § 10 – Voraussetzung der Ernennung auf Lebenszeit
 
 Die Ernennung zur Beamtin auf Lebenszeit oder zum Beamten auf Lebenszeit ist nur zulässig, wenn die Beamtin oder der Beamte sich in einer Probezeit von mindestens sechs Monaten und höchstens fünf Jahren bewährt hat. Von der Mindestprobezeit können durch Landesrecht Ausnahmen bestimmt werden.
 
-
-## § 11 – Nichtigkeit der Ernennung
+# § 11 – Nichtigkeit der Ernennung
 
 (1) Die Ernennung ist nichtig, wenn
 
@@ -160,8 +145,7 @@ c) eine ihr zu Grunde liegende Wahl unwirksam ist.
 
 3. im Fall des Absatzes 1 Nr. 3 Buchstabe a eine Ausnahme nach § 7 Abs. 3 nachträglich zugelassen wird.
 
-
-## § 12 – Rücknahme der Ernennung
+# § 12 – Rücknahme der Ernennung
 
 (1) Die Ernennung ist mit Wirkung für die Vergangenheit zurückzunehmen, wenn
 
@@ -175,13 +159,11 @@ c) eine ihr zu Grunde liegende Wahl unwirksam ist.
 
 (2) Die Ernennung soll zurückgenommen werden, wenn nicht bekannt war, dass gegen die ernannte Person in einem Disziplinarverfahren auf Entfernung aus dem Beamtenverhältnis oder auf Aberkennung des Ruhegehalts erkannt worden war. Dies gilt auch, wenn die Entscheidung gegen eine Beamtin oder einen Beamten der Europäischen Union oder eines Staates nach § 7 Abs. 1 Nr. 1 ergangen ist.
 
-
-## § 13 – Grundsatz
+# § 13 – Grundsatz
 
 Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnung, Versetzung und Umbildung von Körperschaften sowie bei einer Abordnung oder Versetzung aus einem Land in die Bundesverwaltung.
 
-
-## § 14 – Abordnung
+# § 14 – Abordnung
 
 (1) Beamtinnen und Beamte können aus dienstlichen Gründen vorübergehend ganz oder teilweise zu einer dem übertragenen Amt entsprechenden Tätigkeit in den Bereich eines Dienstherrn eines anderen Landes oder des Bundes abgeordnet werden.
 
@@ -191,8 +173,7 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (4) Die Abordnung wird von dem abgebenden im Einverständnis mit dem aufnehmenden Dienstherrn verfügt. Soweit zwischen den Dienstherren nichts anderes vereinbart ist, sind die für den Bereich des aufnehmenden Dienstherrn geltenden Vorschriften über die Pflichten und Rechte der Beamtinnen und Beamten mit Ausnahme der Regelungen über Diensteid, Amtsbezeichnung, Zahlung von Bezügen, Krankenfürsorgeleistungen und Versorgung entsprechend anzuwenden. Die Verpflichtung zur Bezahlung hat auch der Dienstherr, zu dem die Abordnung erfolgt ist.
 
-
-## § 15 – Versetzung
+# § 15 – Versetzung
 
 (1) Beamtinnen und Beamte können auf Antrag oder aus dienstlichen Gründen in den Bereich eines Dienstherrn eines anderen Landes oder des Bundes in ein Amt einer Laufbahn versetzt werden, für die sie die Befähigung besitzen.
 
@@ -200,8 +181,7 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (3) Die Versetzung wird von dem abgebenden im Einverständnis mit dem aufnehmenden Dienstherrn verfügt. Das Beamtenverhältnis wird mit dem neuen Dienstherrn fortgesetzt.
 
-
-## § 16 – Umbildung einer Körperschaft
+# § 16 – Umbildung einer Körperschaft
 
 (1) Beamtinnen und Beamte einer juristischen Person des öffentlichen Rechts mit Dienstherrnfähigkeit (Körperschaft), die vollständig in eine andere Körperschaft eingegliedert wird, treten mit der Umbildung kraft Gesetzes in den Dienst der aufnehmenden Körperschaft über.
 
@@ -211,8 +191,7 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (4) Die Absätze 1 bis 3 gelten entsprechend, wenn eine Körperschaft mit einer oder mehreren anderen Körperschaften zu einer neuen Körperschaft zusammengeschlossen wird, wenn ein oder mehrere Teile verschiedener Körperschaften zu einem oder mehreren neuen Teilen einer Körperschaft zusammengeschlossen werden, wenn aus einer Körperschaft oder aus Teilen einer Körperschaft eine oder mehrere neue Körperschaften gebildet werden, oder wenn Aufgaben einer Körperschaft vollständig oder teilweise auf eine oder mehrere andere Körperschaften übergehen.
 
-
-## § 17 – Rechtsfolgen der Umbildung
+# § 17 – Rechtsfolgen der Umbildung
 
 (1) Tritt eine Beamtin oder ein Beamter aufgrund des § 16 Abs. 1 kraft Gesetzes in den Dienst einer anderen Körperschaft über oder wird sie oder er aufgrund des § 16 Abs. 2 oder 3 von einer anderen Körperschaft übernommen, wird das Beamtenverhältnis mit dem neuen Dienstherrn fortgesetzt.
 
@@ -222,15 +201,13 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (4) Die Absätze 1 bis 3 gelten entsprechend in den Fällen des § 16 Abs. 4.
 
-
-## § 18 – Rechtsstellung der Beamtinnen und Beamten
+# § 18 – Rechtsstellung der Beamtinnen und Beamten
 
 (1) Beamtinnen und Beamten, die nach § 16 in den Dienst einer anderen Körperschaft kraft Gesetzes übertreten oder übernommen werden, soll ein gleich zu bewertendes Amt übertragen werden, das ihrem bisherigen Amt nach Bedeutung und Inhalt ohne Rücksicht auf Dienststellung und Dienstalter entspricht. Wenn eine dem bisherigen Amt entsprechende Verwendung nicht möglich ist, kann ihnen auch ein anderes Amt mit geringerem Grundgehalt übertragen werden. Das Grundgehalt muss mindestens dem des Amtes entsprechen, das die Beamtinnen und Beamten vor dem bisherigen Amt innehatten. In diesem Fall dürfen sie neben der neuen Amtsbezeichnung die des früheren Amtes mit dem Zusatz „außer Dienst“ („a. D.“) führen.
 
 (2) Die aufnehmende oder neue Körperschaft kann, wenn die Zahl der bei ihr nach der Umbildung vorhandenen Beamtinnen und Beamten den tatsächlichen Bedarf übersteigt, innerhalb einer Frist, deren Bestimmung dem Landesrecht vorbehalten bleibt, Beamtinnen und Beamte im Beamtenverhältnis auf Lebenszeit oder auf Zeit in den einstweiligen Ruhestand versetzen, wenn deren Aufgabengebiet von der Umbildung berührt wurde. Bei Beamtinnen auf Zeit und Beamten auf Zeit, die nach Satz 1 in den einstweiligen Ruhestand versetzt sind, endet der einstweilige Ruhestand mit Ablauf der Amtszeit; sie gelten in diesem Zeitpunkt als dauernd in den Ruhestand versetzt, wenn sie bei Verbleiben im Amt mit Ablauf der Amtszeit in den Ruhestand getreten wären.
 
-
-## § 19 – Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger
+# § 19 – Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger
 
 (1) Die Vorschriften des § 16 Abs. 1 und 2 und des § 17 gelten entsprechend für die im Zeitpunkt der Umbildung bei der abgebenden Körperschaft vorhandenen Versorgungsempfängerinnen und Versorgungsempfänger.
 
@@ -238,8 +215,7 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (3) Die Absätze 1 und 2 gelten entsprechend in den Fällen des § 16 Abs. 4.
 
-
-## § 20 – Zuweisung
+# § 20 – Zuweisung
 
 (1) Beamtinnen und Beamten kann mit ihrer Zustimmung vorübergehend ganz oder teilweise eine ihrem Amt entsprechende Tätigkeit zugewiesen werden
 
@@ -251,8 +227,7 @@ Die Vorschriften dieses Abschnitts gelten nur bei landesübergreifender Abordnun
 
 (3) Die Rechtsstellung der Beamtinnen und Beamten bleibt unberührt.
 
-
-## § 21 – Beendigungsgründe
+# § 21 – Beendigungsgründe
 
 Das Beamtenverhältnis endet durch
 
@@ -264,8 +239,7 @@ Das Beamtenverhältnis endet durch
 
 4. Eintritt oder Versetzung in den Ruhestand.
 
-
-## § 22 – Entlassung kraft Gesetzes
+# § 22 – Entlassung kraft Gesetzes
 
 (1) Beamtinnen und Beamte sind entlassen, wenn
 
@@ -281,8 +255,7 @@ Das Beamtenverhältnis endet durch
 
 (5) Das Beamtenverhältnis auf Probe in einem Amt mit leitender Funktion endet mit Ablauf der Probezeit oder mit Versetzung zu einem anderen Dienstherrn.
 
-
-## § 23 – Entlassung durch Verwaltungsakt
+# § 23 – Entlassung durch Verwaltungsakt
 
 (1) Beamtinnen und Beamte sind zu entlassen, wenn sie
 
@@ -312,8 +285,7 @@ Im Fall des Satzes 1 Nr. 2 ist § 26 Abs. 2 bei allein mangelnder gesundheitlich
 
 (4) Beamtinnen auf Widerruf und Beamte auf Widerruf können jederzeit entlassen werden. Die Gelegenheit zur Beendigung des Vorbereitungsdienstes und zur Ablegung der Prüfung soll gegeben werden.
 
-
-## § 24 – Verlust der Beamtenrechte
+# § 24 – Verlust der Beamtenrechte
 
 (1) Wenn eine Beamtin oder ein Beamter im ordentlichen Strafverfahren durch das Urteil eines deutschen Gerichts
 
@@ -325,13 +297,11 @@ verurteilt wird, endet das Beamtenverhältnis mit der Rechtskraft des Urteils. E
 
 (2) Wird eine Entscheidung, die den Verlust der Beamtenrechte zur Folge hat, in einem Wiederaufnahmeverfahren aufgehoben, gilt das Beamtenverhältnis als nicht unterbrochen.
 
-
-## § 25 – Ruhestand wegen Erreichens der Altersgrenze
+# § 25 – Ruhestand wegen Erreichens der Altersgrenze
 
 Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach Erreichen der Altersgrenze in den Ruhestand.
 
-
-## § 26 – Dienstunfähigkeit
+# § 26 – Dienstunfähigkeit
 
 (1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit sind in den Ruhestand zu versetzen, wenn sie wegen ihres körperlichen Zustands oder aus gesundheitlichen Gründen zur Erfüllung ihrer Dienstpflichten dauernd unfähig (dienstunfähig) sind. Als dienstunfähig kann auch angesehen werden, wer infolge Erkrankung innerhalb eines Zeitraums von sechs Monaten mehr als drei Monate keinen Dienst getan hat und keine Aussicht besteht, dass innerhalb einer Frist, deren Bestimmung dem Landesrecht vorbehalten bleibt, die Dienstfähigkeit wieder voll hergestellt ist. In den Ruhestand wird nicht versetzt, wer anderweitig verwendbar ist. Für Gruppen von Beamtinnen und Beamten können besondere Voraussetzungen für die Dienstunfähigkeit durch Landesrecht geregelt werden.
 
@@ -339,15 +309,13 @@ Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach Erreichen der Al
 
 (3) Zur Vermeidung der Versetzung in den Ruhestand kann der Beamtin oder dem Beamten unter Beibehaltung des übertragenen Amtes ohne Zustimmung auch eine geringerwertige Tätigkeit im Bereich desselben Dienstherrn übertragen werden, wenn eine anderweitige Verwendung nicht möglich ist und die Wahrnehmung der neuen Aufgabe unter Berücksichtigung der bisherigen Tätigkeit zumutbar ist.
 
-
-## § 27 – Begrenzte Dienstfähigkeit
+# § 27 – Begrenzte Dienstfähigkeit
 
 (1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit soll abgesehen werden, wenn die Beamtin oder der Beamte unter Beibehaltung des übertragenen Amtes die Dienstpflichten noch während mindestens der Hälfte der regelmäßigen Arbeitszeit erfüllen kann (begrenzte Dienstfähigkeit).
 
 (2) Die Arbeitszeit ist entsprechend der begrenzten Dienstfähigkeit herabzusetzen. Mit Zustimmung der Beamtin oder des Beamten ist auch eine Verwendung in einer nicht dem Amt entsprechenden Tätigkeit möglich.
 
-
-## § 28 – Ruhestand bei Beamtenverhältnis auf Probe
+# § 28 – Ruhestand bei Beamtenverhältnis auf Probe
 
 (1) Beamtinnen auf Probe und Beamte auf Probe sind in den Ruhestand zu versetzen, wenn sie infolge Krankheit, Verwundung oder sonstiger Beschädigung, die sie sich ohne grobes Verschulden bei Ausübung oder aus Veranlassung des Dienstes zugezogen haben, dienstunfähig geworden sind.
 
@@ -355,8 +323,7 @@ Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach Erreichen der Al
 
 (3) § 26 Abs. 1 Satz 3, Abs. 2 und 3 sowie § 27 sind entsprechend anzuwenden.
 
-
-## § 29 – Wiederherstellung der Dienstfähigkeit
+# § 29 – Wiederherstellung der Dienstfähigkeit
 
 (1) Wird nach der Versetzung in den Ruhestand wegen Dienstunfähigkeit die Dienstfähigkeit wiederhergestellt und beantragt die Ruhestandsbeamtin oder der Ruhestandsbeamte vor Ablauf einer Frist, deren Bestimmung dem Landesrecht vorbehalten bleibt, spätestens zehn Jahre nach der Versetzung in den Ruhestand, eine erneute Berufung in das Beamtenverhältnis, ist diesem Antrag zu entsprechen, falls nicht zwingende dienstliche Gründe entgegenstehen.
 
@@ -370,8 +337,7 @@ Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach Erreichen der Al
 
 (6) Bei einer erneuten Berufung gilt das frühere Beamtenverhältnis als fortgesetzt.
 
-
-## § 30 – Einstweiliger Ruhestand
+# § 30 – Einstweiliger Ruhestand
 
 (1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit können jederzeit in den einstweiligen Ruhestand versetzt werden, wenn sie ein Amt bekleiden, bei dessen Ausübung sie in fortdauernder Übereinstimmung mit den grundsätzlichen politischen Ansichten und Zielen der Regierung stehen müssen. Die Bestimmung der Ämter nach Satz 1 ist dem Landesrecht vorbehalten.
 
@@ -381,8 +347,7 @@ Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach Erreichen der Al
 
 (4) Erreichen Beamtinnen und Beamte, die in den einstweiligen Ruhestand versetzt sind, die gesetzliche Altersgrenze, gelten sie mit diesem Zeitpunkt als dauernd in den Ruhestand versetzt.
 
-
-## § 31 – Einstweiliger Ruhestand bei Umbildung und Auflösung von Behörden
+# § 31 – Einstweiliger Ruhestand bei Umbildung und Auflösung von Behörden
 
 (1) Bei der Auflösung einer Behörde oder bei einer auf landesrechtlicher Vorschrift beruhenden wesentlichen Änderung des Aufbaus oder bei Verschmelzung einer Behörde mit einer oder mehreren anderen kann eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit in den einstweiligen Ruhestand versetzt werden, wenn das übertragene Aufgabengebiet von der Auflösung oder Umbildung berührt wird und eine Versetzung nach Landesrecht nicht möglich ist. Zusätzliche Voraussetzungen können geregelt werden.
 
@@ -390,32 +355,27 @@ Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten nach Erreichen der Al
 
 (3) § 29 Abs. 6 gilt entsprechend.
 
-
-## § 32 – Wartezeit
+# § 32 – Wartezeit
 
 Die Versetzung in den Ruhestand setzt die Erfüllung einer versorgungsrechtlichen Wartezeit voraus.
 
-
-## § 33 – Grundpflichten
+# § 33 – Grundpflichten
 
 (1) Beamtinnen und Beamte dienen dem ganzen Volk, nicht einer Partei. Sie haben ihre Aufgaben unparteiisch und gerecht zu erfüllen und ihr Amt zum Wohl der Allgemeinheit zu führen. Beamtinnen und Beamte müssen sich durch ihr gesamtes Verhalten zu der freiheitlichen demokratischen Grundordnung im Sinne des Grundgesetzes bekennen und für deren Erhaltung eintreten.
 
 (2) Beamtinnen und Beamte haben bei politischer Betätigung diejenige Mäßigung und Zurückhaltung zu wahren, die sich aus ihrer Stellung gegenüber der Allgemeinheit und aus der Rücksicht auf die Pflichten ihres Amtes ergibt.
 
-
-## § 34 – Wahrnehmung der Aufgaben, Verhalten
+# § 34 – Wahrnehmung der Aufgaben, Verhalten
 
 Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem Beruf zu widmen. Sie haben die übertragenen Aufgaben uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten innerhalb und außerhalb des Dienstes muss der Achtung und dem Vertrauen gerecht werden, die ihr Beruf erfordern. Sie dürfen ihr Gesicht bei Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem Dienstbezug nicht verhüllen, es sei denn, dienstliche oder gesundheitliche Gründe erfordern dies.
 
-
-## § 35 – Folgepflicht
+# § 35 – Folgepflicht
 
 (1) Beamtinnen und Beamte haben ihre Vorgesetzten zu beraten und zu unterstützen. Sie sind verpflichtet, deren dienstliche Anordnungen auszuführen und deren allgemeine Richtlinien zu befolgen. Dies gilt nicht, soweit die Beamtinnen und Beamten nach besonderen gesetzlichen Vorschriften an Weisungen nicht gebunden und nur dem Gesetz unterworfen sind.
 
 (2) Beamtinnen und Beamte haben bei organisatorischen Veränderungen dem Dienstherrn Folge zu leisten.
 
-
-## § 36 – Verantwortung für die Rechtmäßigkeit
+# § 36 – Verantwortung für die Rechtmäßigkeit
 
 (1) Beamtinnen und Beamte tragen für die Rechtmäßigkeit ihrer dienstlichen Handlungen die volle persönliche Verantwortung.
 
@@ -423,8 +383,7 @@ Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem Beruf zu
 
 (3) Wird von den Beamtinnen oder Beamten die sofortige Ausführung der Anordnung verlangt, weil Gefahr im Verzug besteht und die Entscheidung der oder des höheren Vorgesetzten nicht rechtzeitig herbeigeführt werden kann, gilt Absatz 2 Satz 3 und 4 entsprechend. Die Anordnung ist durch die anordnende oder den anordnenden Vorgesetzten schriftlich zu bestätigen, wenn die Beamtin oder der Beamte dies unverzüglich nach Ausführung der Anordnung verlangt.
 
-
-## § 37 – Verschwiegenheitspflicht
+# § 37 – Verschwiegenheitspflicht
 
 (1) Beamtinnen und Beamte haben über die ihnen bei oder bei Gelegenheit ihrer amtlichen Tätigkeit bekannt gewordenen dienstlichen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt auch über den Bereich eines Dienstherrn hinaus sowie nach Beendigung des Beamtenverhältnisses.
 
@@ -446,8 +405,7 @@ Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante Straftaten a
 
 (6) Beamtinnen und Beamte haben, auch nach Beendigung des Beamtenverhältnisses, auf Verlangen des Dienstherrn oder des letzten Dienstherrn amtliche Schriftstücke, Zeichnungen, bildliche Darstellungen sowie Aufzeichnungen jeder Art über dienstliche Vorgänge, auch soweit es sich um Wiedergaben handelt, herauszugeben. Die gleiche Verpflichtung trifft ihre Hinterbliebenen und Erben.
 
-
-## § 38 – Diensteid
+# § 38 – Diensteid
 
 (1) Beamtinnen und Beamte haben einen Diensteid zu leisten. Der Diensteid hat eine Verpflichtung auf das Grundgesetz zu enthalten.
 
@@ -455,50 +413,41 @@ Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante Straftaten a
 
 (3) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7 Abs. 1 Nr. 1 zugelassen worden ist, kann an Stelle des Eides ein Gelöbnis vorgeschrieben werden.
 
-
-## § 39 – Verbot der Führung der Dienstgeschäfte
+# § 39 – Verbot der Führung der Dienstgeschäfte
 
 Beamtinnen und Beamten kann aus zwingenden dienstlichen Gründen die Führung der Dienstgeschäfte verboten werden. Das Verbot erlischt, wenn nicht bis zum Ablauf von drei Monaten gegen die Beamtin oder den Beamten ein Disziplinarverfahren oder ein sonstiges auf Rücknahme der Ernennung oder auf Beendigung des Beamtenverhältnisses gerichtetes Verfahren eingeleitet worden ist.
 
-
-## § 40 – Nebentätigkeit
+# § 40 – Nebentätigkeit
 
 Eine Nebentätigkeit ist grundsätzlich anzeigepflichtig. Sie ist unter Erlaubnis- oder Verbotsvorbehalt zu stellen, soweit sie geeignet ist, dienstliche Interessen zu beeinträchtigen.
 
-
-## § 41 – Tätigkeit nach Beendigung des Beamtenverhältnisses
+# § 41 – Tätigkeit nach Beendigung des Beamtenverhältnisses
 
 Ruhestandsbeamtinnen und Ruhestandsbeamte sowie frühere Beamtinnen mit Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben die Ausübung einer Erwerbstätigkeit oder sonstigen Beschäftigung außerhalb des öffentlichen Dienstes, die mit der dienstlichen Tätigkeit innerhalb eines Zeitraums, dessen Bestimmung dem Landesrecht vorbehalten bleibt, im Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt werden können, anzuzeigen. Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu untersagen, wenn zu besorgen ist, dass durch sie dienstliche Interessen beeinträchtigt werden. Das Verbot endet spätestens mit Ablauf von fünf Jahren nach Beendigung des Beamtenverhältnisses.
 
-
-## § 42 – Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
+# § 42 – Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
 
 (1) Beamtinnen und Beamte dürfen, auch nach Beendigung des Beamtenverhältnisses, keine Belohnungen, Geschenke oder sonstigen Vorteile für sich oder eine dritte Person in Bezug auf ihr Amt fordern, sich versprechen lassen oder annehmen. Ausnahmen bedürfen der Zustimmung ihres gegenwärtigen oder letzten Dienstherrn.
 
 (2) Wer gegen das in Absatz 1 genannte Verbot verstößt, hat das aufgrund des pflichtwidrigen Verhaltens Erlangte auf Verlangen dem Dienstherrn herauszugeben, soweit nicht die Einziehung von Taterträgen angeordnet worden oder es auf andere Weise auf den Staat übergegangen ist.
 
-
-## § 43 – Teilzeitbeschäftigung
+# § 43 – Teilzeitbeschäftigung
 
 Teilzeitbeschäftigung ist zu ermöglichen.
 
-
-## § 44 – Erholungsurlaub
+# § 44 – Erholungsurlaub
 
 Beamtinnen und Beamten steht jährlicher Erholungsurlaub unter Fortgewährung der Bezüge zu.
 
-
-## § 45 – Fürsorge
+# § 45 – Fürsorge
 
 Der Dienstherr hat im Rahmen des Dienst- und Treueverhältnisses für das Wohl der Beamtinnen und Beamten und ihrer Familien, auch für die Zeit nach Beendigung des Beamtenverhältnisses, zu sorgen. Er schützt die Beamtinnen und Beamten bei ihrer amtlichen Tätigkeit und in ihrer Stellung.
 
-
-## § 46 – Mutterschutz und Elternzeit
+# § 46 – Mutterschutz und Elternzeit
 
 Effektiver Mutterschutz und Elternzeit sind zu gewährleisten.
 
-
-## § 47 – Nichterfüllung von Pflichten
+# § 47 – Nichterfüllung von Pflichten
 
 (1) Beamtinnen und Beamte begehen ein Dienstvergehen, wenn sie schuldhaft die ihnen obliegenden Pflichten verletzen. Ein Verhalten außerhalb des Dienstes ist nur dann ein Dienstvergehen, wenn es nach den Umständen des Einzelfalls in besonderem Maße geeignet ist, das Vertrauen in einer für ihr Amt bedeutsamen Weise zu beeinträchtigen.
 
@@ -506,13 +455,11 @@ Effektiver Mutterschutz und Elternzeit sind zu gewährleisten.
 
 (3) Das Nähere über die Verfolgung von Dienstvergehen regeln die Disziplinargesetze.
 
-
-## § 48 – Pflicht zum Schadensersatz
+# § 48 – Pflicht zum Schadensersatz
 
 Beamtinnen und Beamte, die vorsätzlich oder grob fahrlässig die ihnen obliegenden Pflichten verletzen, haben dem Dienstherrn, dessen Aufgaben sie wahrgenommen haben, den daraus entstehenden Schaden zu ersetzen. Haben mehrere Beamtinnen oder Beamte gemeinsam den Schaden verursacht, haften sie als Gesamtschuldner.
 
-
-## § 49 – Übermittlungen bei Strafverfahren
+# § 49 – Übermittlungen bei Strafverfahren
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen und Beamte zur Sicherstellung der erforderlichen dienstrechtlichen Maßnahmen im Fall der Erhebung der öffentlichen Klage
 
@@ -538,28 +485,23 @@ zu übermitteln. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, i
 
 (6) Übermittlungen nach den Absätzen 1 bis 3 sind auch zulässig, soweit sie Daten betreffen, die dem Steuergeheimnis (§ 30 der Abgabenordnung) unterliegen. Übermittlungen nach Absatz 4 sind unter den Voraussetzungen des § 30 Abs. 4 Nr. 5 der Abgabenordnung zulässig.
 
-
-## § 50 – Personalakte
+# § 50 – Personalakte
 
 Für jede Beamtin und jeden Beamten ist eine Personalakte zu führen. Zur Personalakte gehören alle Unterlagen, die die Beamtin oder den Beamten betreffen, soweit sie mit dem Dienstverhältnis in einem unmittelbaren inneren Zusammenhang stehen (Personalaktendaten). Die Personalakte ist vertraulich zu behandeln. Personalaktendaten dürfen ohne Einwilligung der Beamtin oder des Beamten nur für Zwecke der Personalverwaltung oder Personalwirtschaft verarbeitet werden. Für Ausnahmefälle kann landesrechtlich eine von Satz 4 abweichende Verarbeitung vorgesehen werden.
 
-
-## § 51 – Personalvertretung
+# § 51 – Personalvertretung
 
 Die Bildung von Personalvertretungen zum Zweck der vertrauensvollen Zusammenarbeit zwischen der Behördenleitung und dem Personal ist unter Einbeziehung der Beamtinnen und Beamten zu gewährleisten.
 
-
-## § 52 – Mitgliedschaft in Gewerkschaften und Berufsverbänden
+# § 52 – Mitgliedschaft in Gewerkschaften und Berufsverbänden
 
 Beamtinnen und Beamte haben das Recht, sich in Gewerkschaften oder Berufsverbänden zusammenzuschließen. Sie dürfen wegen Betätigung für ihre Gewerkschaft oder ihren Berufsverband nicht dienstlich gemaßregelt oder benachteiligt werden.
 
-
-## § 53 – Beteiligung der Spitzenorganisationen
+# § 53 – Beteiligung der Spitzenorganisationen
 
 Bei der Vorbereitung gesetzlicher Regelungen der beamtenrechtlichen Verhältnisse durch die obersten Landesbehörden sind die Spitzenorganisationen der zuständigen Gewerkschaften und Berufsverbände zu beteiligen. Das Beteiligungsverfahren kann auch durch Vereinbarung ausgestaltet werden.
 
-
-## § 54 – Verwaltungsrechtsweg
+# § 54 – Verwaltungsrechtsweg
 
 (1) Für alle Klagen der Beamtinnen, Beamten, Ruhestandsbeamtinnen, Ruhestandsbeamten, früheren Beamtinnen, früheren Beamten und der Hinterbliebenen aus dem Beamtenverhältnis sowie für Klagen des Dienstherrn ist der Verwaltungsrechtsweg gegeben.
 
@@ -569,13 +511,11 @@ Bei der Vorbereitung gesetzlicher Regelungen der beamtenrechtlichen Verhältniss
 
 (4) Widerspruch und Anfechtungsklage gegen Abordnung oder Versetzung haben keine aufschiebende Wirkung.
 
-
-## § 55 – Anwendungsbereich
+# § 55 – Anwendungsbereich
 
 Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 56 bis 59 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes zulässig. Sie sind auf Personen im Sinne des § 5 Abs. 1 des Arbeitssicherstellungsgesetzes nicht anzuwenden.
 
-
-## § 56 – Dienstleistung im Verteidigungsfall
+# § 56 – Dienstleistung im Verteidigungsfall
 
 (1) Beamtinnen und Beamte können für Zwecke der Verteidigung auch ohne ihre Zustimmung zu einem anderen Dienstherrn abgeordnet oder zur Dienstleistung bei über- oder zwischenstaatlichen zivilen Dienststellen verpflichtet werden.
 
@@ -585,25 +525,21 @@ Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 56 bis 59 sind nu
 
 (4) Beamtinnen und Beamte sind bei einer Verlegung der Behörde oder Dienststelle auch in das Ausland zur Dienstleistung am neuen Dienstort verpflichtet.
 
-
-## § 57 – Aufschub der Entlassung und des Ruhestands
+# § 57 – Aufschub der Entlassung und des Ruhestands
 
 Die Entlassung der Beamtinnen und Beamten auf ihren Antrag kann für Zwecke der Verteidigung hinausgeschoben werden, wenn dies im öffentlichen Interesse erforderlich ist und der Personalbedarf der öffentlichen Verwaltung im Bereich ihres Dienstherrn auf freiwilliger Grundlage nicht gedeckt werden kann. Satz 1 gilt entsprechend für den Ablauf der Amtszeit bei Beamtenverhältnissen auf Zeit. Der Eintritt der Beamtinnen und Beamten in den Ruhestand nach Erreichen der Altersgrenze und die vorzeitige Versetzung in den Ruhestand auf Antrag ohne Nachweis der Dienstunfähigkeit können unter den Voraussetzungen des Satzes 1 bis zum Ende des Monats hinausgeschoben werden, in dem die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze erreicht wird.
 
-
-## § 58 – Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten
+# § 58 – Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten
 
 Ruhestandsbeamtinnen und Ruhestandsbeamte, die die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze noch nicht erreicht haben, können für Zwecke der Verteidigung erneut in ein Beamtenverhältnis berufen werden, wenn dies im öffentlichen Interesse erforderlich ist und der Personalbedarf der öffentlichen Verwaltung im Bereich ihres bisherigen Dienstherrn auf freiwilliger Grundlage nicht gedeckt werden kann. Das Beamtenverhältnis endet, wenn es nicht vorher beendet wird, mit dem Ende des Monats, in dem die für Bundesbeamtinnen und Bundesbeamte geltende Regelaltersgrenze erreicht wird.
 
-
-## § 59 – Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit
+# § 59 – Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit
 
 (1) Wenn dienstliche Gründe es erfordern, können Beamtinnen und Beamte für Zwecke der Verteidigung verpflichtet werden, vorübergehend in einer Gemeinschaftsunterkunft zu wohnen und an einer Gemeinschaftsverpflegung teilzunehmen.
 
 (2) Beamtinnen und Beamte sind verpflichtet, für Zwecke der Verteidigung über die regelmäßige Arbeitszeit hinaus ohne besondere Vergütung Dienst zu tun. Für die Mehrbeanspruchung wird ein Freizeitausgleich nur gewährt, soweit es die dienstlichen Erfordernisse gestatten.
 
-
-## § 60 – Verwendungen im Ausland
+# § 60 – Verwendungen im Ausland
 
 (1) Beamtinnen und Beamte, die zur Wahrnehmung des ihnen übertragenen Amtes im Ausland oder außerhalb des Deutschen Hoheitsgebiets auf Schiffen oder in Luftfahrzeugen verwendet werden und dabei wegen vom Inland wesentlich abweichender Verhältnisse erhöhten Gefahren ausgesetzt sind, können aus dienstlichen Gründen verpflichtet werden,
 
@@ -619,18 +555,15 @@ In den Fällen des Satzes 1 Nr. 4 wird für die Mehrbeanspruchung ein Freizeitau
 
 (2) Sind nach Absatz 1 verwendete Beamtinnen und Beamte zum Zeitpunkt des vorgesehenen Eintritts in den Ruhestand nach den §§ 25 und 26 oder des vorgesehenen Ablaufs ihrer Amtszeit wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu vertreten haben, dem Einflussbereich des Dienstherrn entzogen, verlängert sich das Dienstverhältnis bis zum Ablauf des auf die Beendigung dieses Zustands folgenden Monats.
 
-
-## § 61 – Hochschullehrerinnen und Hochschullehrer
+# § 61 – Hochschullehrerinnen und Hochschullehrer
 
 Abweichend von den §§ 14 und 15 können Hochschullehrerinnen und Hochschullehrer nur mit ihrer Zustimmung in den Bereich eines Dienstherrn eines anderen Landes oder des Bundes abgeordnet oder versetzt werden. Abordnung oder Versetzung im Sinne von Satz 1 sind auch ohne Zustimmung der Hochschullehrerinnen oder Hochschullehrer zulässig, wenn die Hochschule oder die Hochschuleinrichtung, an der sie tätig sind, aufgelöst oder mit einer anderen Hochschule zusammengeschlossen wird oder wenn die Studien- oder Fachrichtung, in der sie tätig sind, ganz oder teilweise aufgehoben oder an eine andere Hochschule verlegt wird. In diesen Fällen beschränkt sich eine Mitwirkung der aufnehmenden Hochschule oder Hochschuleinrichtung bei der Einstellung auf eine Anhörung. Die Vorschriften über den einstweiligen Ruhestand sind auf Hochschullehrerinnen und Hochschullehrer nicht anzuwenden.
 
-
-## § 62
+# § 62
 
 (1) bis (19) (Änderungsvorschriften)
 
-
-## § 63 – Inkrafttreten, Außerkrafttreten
+# § 63 – Inkrafttreten, Außerkrafttreten
 
 (1) Die §§ 25 und 50 treten am Tag nach der Verkündung in Kraft. Gleichzeitig treten die §§ 25 und 26 Abs. 3 sowie die §§ 56 bis 56f des Beamtenrechtsrahmengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S 654), das zuletzt durch Artikel 2 Abs. 1 des Gesetzes vom 5. Dezember 2006 (BGBl. I S. 2748) geändert worden ist, außer Kraft.
 

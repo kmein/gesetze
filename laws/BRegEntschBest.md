@@ -1,15 +1,11 @@
-# [BRegEntschBest] Bestimmungen über Amtswohnungen, Umzugskostenentschädigung, Tagegelder und Entschädigung für Reisekosten der Mitglieder der Bundesregierung
-
-Ausfertigungsdatum: 10.11.1953
-
+% Bestimmungen über Amtswohnungen, Umzugskostenentschädigung, Tagegelder und Entschädigung für Reisekosten der Mitglieder der Bundesregierung
+% Ausfertigungsdatum: 10.11.1953
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 5 des Gesetzes über die Rechtsverhältnisse der Mitglieder der Bundesregierung (Bundesministergesetz) vom 17. Juni 1953 (Bundesgesetzbl. I S. 407) werden nach gutachtlicher Äußerung des Präsidenten des Bundesrechnungshofs folgende Bestimmungen erlassen:
 
-
-## § 1
+# § 1
 
 (1) Amtswohnungen sind Wohnungen in bundeseigenen, vom Bund gemieteten oder anderweitig in Anspruch genommenen Gebäuden, die als Wohnungen der Mitglieder der Bundesregierung bestimmt und mit Rücksicht auf deren Stellung und Verpflichtungen für diese Zwecke besonders hergerichtet sind. Die Amtswohnung des Bundeskanzlers ist auf Bundeskosten nach Maßgabe der vorhandenen Haushaltsmittel mit Einrichtungsgegenständen zu versehen, die als Zubehör der Amtswohnung gelten. Wird einem Bundesminister eine Amtswohnung zugewiesen, so kann sie auf Bundeskosten nach Maßgabe der vorhandenen Haushaltsmittel mit Einrichtungsgegenständen versehen werden, die als Zubehör der Amtswohnung gelten.
 
@@ -17,8 +13,7 @@ Auf Grund des § 12 Abs. 5 des Gesetzes über die Rechtsverhältnisse der Mitgli
 
 (3) Ist ein Bundesminister gemäß Absatz 2 von dem Beziehen der Amtswohnung befreit worden, so können in seinem eigenen Hause oder in seiner Mietwohnung auf Antrag höchstens zwei Räume gemäß Absatz 1 Satz 3 ausgestattet werden. Die Miete für diese Räume trägt der Bundesminister.
 
-
-## § 2
+# § 2
 
 (1) Ist für einen Bundesminister eine Amtswohnung in einem bundeseigenen Gebäude nicht vorhanden oder auch bei einem anderen Bundesministerium nicht verfügbar, so kann ihm auf seinen Antrag auch eine andere Wohnung an seinem dienstlichen Wohnsitz als Amtswohnung für die Dauer seiner Amtszeit zugewiesen werden. Dem Antrag auf Zuweisung der Wohnung als Amtswohnung ist ein etwa bestehender Mietvertrag beizufügen.
 
@@ -26,15 +21,13 @@ Auf Grund des § 12 Abs. 5 des Gesetzes über die Rechtsverhältnisse der Mitgli
 
 (3) Wird eine Amtswohnung für einen Bundesminister vom Bund gemietet, so ist im Mietvertrag eine dreimonatige Kündigung zum Monatsende zu vereinbaren. Bei der Entlassung des Bundesministers aus seinem Amt ist die Kündigung sofort auszusprechen.
 
-
-## § 3
+# § 3
 
 (1) Eine Amtswohnung darf nur ungeteilt zugewiesen werden.
 
 (2) Der Wohnungsinhaber ist nicht berechtigt, die Amtswohnung ganz oder teilweise einem anderen zu überlassen oder zu vermieten. Ihre Verwendung zu Dienstzwecken wird hierdurch nicht berührt.
 
-
-## § 4
+# § 4
 
 (1) Mit dem für die Benutzung einer Amtswohnung gemäß § 12 Abs. 1 des Bundesministergesetzes einbehaltenen Ortszuschlag sind alle Lasten und Leistungen abgegolten, die nach § 535 Abs. 1 Satz 3 des Bürgerlichen Gesetzbuchs und nach diesen Bestimmungen dem Bund obliegen.
 
@@ -54,13 +47,11 @@ b) im Falle des § 2 Abs. 2 und des § 4 Abs. 4 mit Ablauf der dort genannten Fr
 
 (5) Sind in der eigenen oder in der Mietwohnung eines Bundesministers Räume gemäß § 1 Abs. 3 ausgestattet worden, so sind bei Beendigung des Amtsverhältnisses nach § 9 des Bundesministergesetzes die bundeseigenen Einrichtungsgegenstände bis zum Ablauf des auf die Beendigung folgenden Monats an den Bund zurückzugeben.
 
-
-## § 5
+# § 5
 
 Die Amtswohnungen sind nach den Vorschriften der Anlage zu verwalten und zu bewirtschaften.
 
-
-## § 6
+# § 6
 
 (1) Den Mitgliedern der Bundesregierung wird für Umzüge, die infolge ihrer Ernennung erforderlich werden, eine Umzugskostenentschädigung in entsprechender Anwendung der §§ 4 bis 10, 14 des Bundesumzugskostengesetzes vom 8. April 1964 (Bundesgesetzbl. I S. 253) gewährt. Dabei ist von der höchsten Reisekostenstufe und Tarifklasse auszugehen. Die Erstattung von Auslagen nach den §§ 6 bis 8, 10, 14 des Bundesumzugskostengesetzes bedarf der Zustimmung des Bundesministers des Innern.
 
@@ -68,16 +59,13 @@ Die Amtswohnungen sind nach den Vorschriften der Anlage zu verwalten und zu bewi
 
 (3) Absatz 2 gilt auch für Hinterbliebene im Sinne des § 1 Abs. 2 des Bundesumzugskostengesetzes.
 
-
-## § 7
+# § 7
 
 Kann einem Bundesminister, der nach § 11 Abs. 1 Buchstabe d des Bundesministergesetzes für die Fortführung des eigenen Hausstandes am bisherigen Wohnort eine Entschädigung erhält, eine Amtswohnung nicht zugewiesen werden, so daß er eine Privatwohnung mieten muß, zu deren notwendiger Instandsetzung weder der Vermieter noch der Vormieter verpflichtet oder in der Lage ist, so ist die Wohnung in angemessenem Umfang aus Bundesmitteln instand zu setzen. Der Vermieter und der Wohnungsinhaber müssen jedoch zusammen mindestens ein Viertel der erwachsenen notwendigen Instandsetzungskosten selbst tragen.
 
+# §§ 8 und 9 – (weggefallen)
 
-## §§ 8 und 9 – (weggefallen)
-
-
-## § 10
+# § 10
 
 (1) Die Mitglieder der Bundesregierung erhalten bei amtlicher Tätigkeit außerhalb ihres dienstlichen Wohnsitzes Tagegeld und Fahrkostenentschädigung; außerdem werden ihnen die Übernachtungskosten erstattet. Als amtliche Tätigkeit gelten auch Reisen, die infolge des Dienstantritts oder des Ausscheidens aus dem Amtsverhältnis erforderlich werden.
 
@@ -93,26 +81,22 @@ b) bei mehrtägiger amtlicher Tätigkeit außerhalb des dienstlichen Wohnsitzes 
 
 (4) Die Fahrkostenentschädigung besteht im Ersatz der verauslagten Fahrkosten einschließlich der Kosten für zuschlagspflichtige Züge und für Platzkarten sowie der Auslagen für Gepäckbeförderung, für Zu- und Abgang zu und von den Verkehrsmitteln und für sonstige notwendige Nebenkosten. Bei der Benutzung von Flugzeugen werden die erwachsenen Auslagen erstattet.
 
-
-## § 11
+# § 11
 
 Bei amtlicher Tätigkeit im Ausland gelten die für die Bundesbeamten der höchsten Reisekostenstufe maßgebenden Bestimmungen entsprechend.
 
-
-## § 12
+# § 12
 
 (1) Entscheidungen nach § 1 Abs. 2, 3 und § 2 Abs. 1 trifft der Bundeskanzler im Benehmen mit dem Bundesminister des Innern, soweit dieser nicht selbst betroffen ist.
 
 (2) Ergeben sich bei der Anwendung dieser Bestimmungen Zweifel, so ist mit dem Bundesminister des Innern in Verbindung zu treten.
 
-
-## § 13
+# § 13
 
 (1) Diese Bestimmungen treten mit Wirkung vom 1. April 1953 ab in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen

@@ -1,10 +1,7 @@
-# [PrHaushStatG] Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte
-
-Ausfertigungsdatum: 11.01.1961
-
+% Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte
+% Ausfertigungsdatum: 11.01.1961
  
-
-## § 1
+# § 1
 
 Im Geltungsbereich dieses Gesetzes werden bei privaten Haushalten folgende repräsentative Erhebungen über Wirtschaftsrechnungen als Bundesstatistik durchgeführt:
 
@@ -12,8 +9,7 @@ Im Geltungsbereich dieses Gesetzes werden bei privaten Haushalten folgende repr�
 
 2. Erhebungen, die sich jeweils auf ein Jahr beziehen, bei Haushalten aller Bevölkerungskreise. Diese Erhebungen sind, beginnend im Jahre 1983, in fünfjährigem Abstand zu wiederholen; die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den fünfjährigen Abstand um ein Jahr zu verkürzen oder zu verlängern, falls dies zur Verbesserung des Erkenntniswerts der Statistik oder zur rationellen Gestaltung des Arbeitsablaufs erforderlich ist.
 
-
-## § 2
+# § 2
 
 (1) Die Erhebungen nach § 1 erfassen folgende Tatbestände:
 
@@ -41,13 +37,11 @@ f) sonstige Zwecke.
 
 2. Vornamen der Haushaltsmitglieder.
 
-
-## § 3
+# § 3
 
 (1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 2 000\*) Haushalte in jedem Monat.
 
-(2) Die Erhebungen nach § 1 Nr. 2 erstrecken sich auf höchstens 0,3 vom Hundert aller Haushalte.  
------
+(2) Die Erhebungen nach § 1 Nr. 2 erstrecken sich auf höchstens 0,3 vom Hundert aller Haushalte. -----
 
 \*)
 
@@ -55,22 +49,18 @@ Gemäß Art. 2 der Statistikanpassungsverordnung vom 26. März 1991 (BGBl. I S. 
 
 "(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6 000 Haushalte, ab 1. Januar 1993 auf 2 000 Haushalte in jedem Monat."
 
-
-## § 4
+# § 4
 
 Die Erteilung der Auskunft durch die Haushalte zu den Erhebungen nach § 1 ist freiwillig.
 
-
-## § 5
+# § 5
 
 Die Aufbereitung der Erhebungen nach § 1 Nr. 2 obliegt dem Statistischen Bundesamt.
 
-
-## § 6
+# § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 7
+# § 7
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

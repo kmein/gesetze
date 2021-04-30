@@ -1,15 +1,11 @@
-# [SHStatG1985AussV] Verordnung zur Aussetzung statistischer Erhebungen im Bereich der Jugendhilfe im Jahre 1985 nach dem Gesetz über die Durchführung von Statistiken auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe
-
-Ausfertigungsdatum: 20.12.1985
-
+% Verordnung zur Aussetzung statistischer Erhebungen im Bereich der Jugendhilfe im Jahre 1985 nach dem Gesetz über die Durchführung von Statistiken auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe
+% Ausfertigungsdatum: 20.12.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 4 des Bundesstatistikgesetzes vom 14. März 1980 (BGBl. I S. 289) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Im Jahre 1985 werden folgende nach § 4 des Gesetzes über die Durchführung von Statistiken auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2170-3, veröffentlichten bereinigten Fassung, geändert durch Artikel 19 des Gesetzes vom 14. März 1980 (BGBl. I S. 294) angeordneten Erhebungen ausgesetzt:
 
@@ -19,12 +15,10 @@ Im Jahre 1985 werden folgende nach § 4 des Gesetzes über die Durchführung von
 
 3. die Erhebung der in der Jugendhilfe tätigen Personen nach Alter, Geschlecht und Berufsausbildungsabschluß nach § 4 Nr. 6.
 
-
-## § 2
+# § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 16 des Bundesstatistikgesetzes auch im Land Berlin.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

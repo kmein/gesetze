@@ -1,17 +1,11 @@
-# [FABaumPflPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt Baumpflege – Bachelor Professional Baumpflege oder Geprüfte Fachagrarwirtin Baumpflege – Bachelor Professional Baumpflege  (Fachagrarwirt-Baumpflege-Prüfungsverordnung - FABaumPflPrV)
-
-Ausfertigungsdatum: 02.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt Baumpflege – Bachelor Professional Baumpflege oder Geprüfte Fachagrarwirtin Baumpflege – Bachelor Professional Baumpflege  (Fachagrarwirt-Baumpflege-Prüfungsverordnung - FABaumPflPrV)
+% Ausfertigungsdatum: 02.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3 Nummer 1 und mit § 53a Absatz 1 Nummer 2 und mit § 53c des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) verordnet das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -53,15 +47,15 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und Absatz 3 Nummer 1 un
 
  
 
+ 
 
-## § 1 – Ziel der Prüfung, Fortbildungsstufe und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung, Fortbildungsstufe und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachagrarwirt Baumpflege – Bachelor Professional Baumpflege oder Geprüfte Fachagrarwirtin Baumpflege – Bachelor Professional Baumpflege wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten Fortbildungsstufe der höherqualifizierenden Berufsbildung nach § 53 in Verbindung mit § 53a Absatz 1 Nummer 2 und § 53c des Berufsbildungsgesetzes nachgewiesen.
 
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Bachelor Professional Baumpflege. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Fachagrarwirt Baumpflege“ oder „Geprüfte Fachagrarwirtin Baumpflege“ vorangestellt.
 
-
-## § 2 – Qualifizierungsbereiche
+# § 2 – Qualifizierungsbereiche
 
 (1) Durch die Prüfung ist festzustellen, ob der Prüfling in der Lage ist, die den Qualifizierungsbereichen
 
@@ -161,8 +155,7 @@ k) Konzepte und Maßnahmen zur Arbeitssicherheit und zum Gesundheitsschutz in Ab
 
 (3) Für den Erwerb der in Absatz 2 bezeichneten Fertigkeiten, Kenntnisse und Fähigkeiten bedarf es in der Regel eines Lernumfangs von insgesamt mindestens 1 200 Stunden. Der Lerninhalt bestimmt sich nach den Anforderungen der jeweiligen Prüfungsteile nach § 4 in Verbindung mit den Anforderungen und Prüfungsinhalten der §§ 6, 11 und 15.
 
-
-## § 3 – Voraussetzungen für die Zulassung zur Prüfung
+# § 3 – Voraussetzungen für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
@@ -176,8 +169,7 @@ k) Konzepte und Maßnahmen zur Arbeitssicherheit und zum Gesundheitsschutz in Ab
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, eine berufliche Handlungsfähigkeit erworben zu haben, die die Zulassung zur Prüfung rechtfertigt.
 
-
-## § 4 – Gliederung der Prüfung
+# § 4 – Gliederung der Prüfung
 
 Die Prüfung umfasst die folgenden Prüfungsteile:
 
@@ -187,13 +179,11 @@ Die Prüfung umfasst die folgenden Prüfungsteile:
 
 3. Mitarbeiterführung und Personalmanagement.
 
-
-## § 5 – Bewerten der Prüfung
+# § 5 – Bewerten der Prüfung
 
 Für die Bewertung der Leistungen in der Prüfung ist der in Anlage 1 dargestellte sechsstufige Bewertungsmaßstab anzuwenden.
 
-
-## § 6 – Anforderungen und Prüfungsinhalte
+# § 6 – Anforderungen und Prüfungsinhalte
 
 (1) Im Prüfungsteil Baumdiagnose und Baumpflegemaßnahmen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -249,8 +239,7 @@ Für die Bewertung der Leistungen in der Prüfung ist der in Anlage 1 dargestell
 
 16. Öffentlichkeitsarbeit im Zusammenhang mit baumpflegerischen Vorhaben und Maßnahmen.
 
-
-## § 7 – Prüfungsbestandteile
+# § 7 – Prüfungsbestandteile
 
 Die Prüfung besteht aus
 
@@ -260,8 +249,7 @@ Die Prüfung besteht aus
 
 3. einer schriftlichen Prüfung nach § 10.
 
-
-## § 8 – Arbeitsprojekt
+# § 8 – Arbeitsprojekt
 
 (1) Mit der Durchführung des Arbeitsprojektes hat der Prüfling nachzuweisen, dass er in der Lage ist, ausgehend von einer konkreten betrieblichen Situation die komplexen Zusammenhänge der Baumpflege zu erfassen und zu analysieren sowie Lösungsvorschläge für betriebliche Aufgaben zu erstellen und diese umzusetzen.
 
@@ -271,22 +259,19 @@ Die Prüfung besteht aus
 
 (4) Für die Durchführung des Arbeitsprojekts steht dem Prüfling ein Zeitraum von sechs Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 60 Minuten dauern.
 
-
-## § 9 – Arbeitsprobe
+# § 9 – Arbeitsprobe
 
 (1) In der Arbeitsprobe hat der Prüfling nachzuweisen, dass er in der Lage ist, eine Baumschadensdiagnose durchzuführen und das Ergebnis in einem Fachgespräch zu erläutern.
 
 (2) Für die Durchführung der Arbeitsprobe einschließlich des Fachgesprächs stehen 60 Minuten zur Verfügung.
 
-
-## § 10 – Schriftliche Prüfung
+# § 10 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den Prüfungsinhalten nach § 6 Absatz 2.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 180 Minuten.
 
-
-## § 11 – Anforderungen und Prüfungsinhalte
+# § 11 – Anforderungen und Prüfungsinhalte
 
 (1) Im Prüfungsteil Betriebs- und Unternehmensführung hat der Prüfling nachzuweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
@@ -324,8 +309,7 @@ Die Prüfung besteht aus
 
 16. Unternehmensabsicherung und Versicherungen.
 
-
-## § 12 – Prüfungsbestandteile
+# § 12 – Prüfungsbestandteile
 
 Die Prüfung besteht aus
 
@@ -333,8 +317,7 @@ Die Prüfung besteht aus
 
 2. einer schriftlichen Prüfung nach § 14.
 
-
-## § 13 – Fallstudie
+# § 13 – Fallstudie
 
 (1) In der Fallstudie hat der Prüfling eine betriebswirtschaftlich relevante unternehmerische Entscheidungssituation zu bearbeiten. Die Situation wird vom Prüfungsausschuss vorgegeben und muss sich auf die in § 11 Absatz 2 beschriebenen Inhalte beziehen.
 
@@ -342,15 +325,13 @@ Die Prüfung besteht aus
 
 (3) Für die Bearbeitung der Fallstudie stehen zwei Tage zur Verfügung. Das Fachgespräch soll nicht länger als 45 Minuten dauern.
 
-
-## § 14 – Schriftliche Prüfung
+# § 14 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den Prüfungsinhalten nach § 11 Absatz 2.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 180 Minuten.
 
-
-## § 15 – Anforderungen und Prüfungsinhalte
+# § 15 – Anforderungen und Prüfungsinhalte
 
 (1) Im Prüfungsteil Mitarbeiterführung und Personalmanagement hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -404,8 +385,7 @@ Die Prüfung besteht aus
 
 9. einschlägige Rechtsvorschriften, insbesondere aus dem Arbeitsrecht, einschließlich dem Tarifrecht, und dem Sozialrecht.
 
-
-## § 16 – Prüfungsbestandteile
+# § 16 – Prüfungsbestandteile
 
 Die Prüfung besteht aus
 
@@ -413,8 +393,7 @@ Die Prüfung besteht aus
 
 2. einer schriftlichen Prüfung nach § 18.
 
-
-## § 17 – Fallstudie
+# § 17 – Fallstudie
 
 (1) In der Fallstudie hat der Prüfling eine Situation der Mitarbeiterführung zu bearbeiten. Die Situation wird vom Prüfungsausschuss vorgegeben und muss sich auf die in § 15 Absatz 2 beschriebenen Inhalte beziehen.
 
@@ -422,28 +401,25 @@ Die Prüfung besteht aus
 
 (3) Für die Bearbeitung der Fallstudie stehen 180 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
-
-## § 18 – Schriftliche Prüfung
+# § 18 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen fallbezogenen Aufgaben aus den Prüfungsinhalten nach § 15 Absatz 2.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 150 Minuten.
 
-
-## § 19 – Bewertungen in den Prüfungen
+# § 19 – Bewertungen in den Prüfungen
 
 (1) Jede Leistung in den sieben Prüfungsbestandteilen nach § 7 Nummer 1 bis 3, § 12 Nummer 1 und 2 sowie § 16 Nummer 1 und 2 ist gesondert mit einer Note als Dezimalzahl nach Anlage 1 zu bewerten.
 
-(2) Die Bewertung der Leistung des Prüfungsteils „Baumdiagnose und Baumpflegemaßnahmen“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8), Arbeitsprobe (§ 9) und schriftliche Prüfung (§ 10) nach folgender Formel: ![](../normengrafiken/bgbl1_2020/j2643-1_0010.jpg)
+(2) Die Bewertung der Leistung des Prüfungsteils „Baumdiagnose und Baumpflegemaßnahmen“ errechnet sich aus den Noten der Prüfungsbestandteile Arbeitsprojekt (§ 8), Arbeitsprobe (§ 9) und schriftliche Prüfung (§ 10) nach folgender Formel: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2643-1_0010.jpg)
 
-(3) Die Bewertung der Leistung des Prüfungsteils „Betriebs- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 13) und schriftliche Prüfung (§ 14) nach folgender Formel: ![](../normengrafiken/bgbl1_2020/j2643-1_0020.jpg)
+(3) Die Bewertung der Leistung des Prüfungsteils „Betriebs- und Unternehmensführung“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 13) und schriftliche Prüfung (§ 14) nach folgender Formel: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2643-1_0020.jpg)
 
-(4) Die Bewertung der Leistung des Prüfungsteils „Mitarbeiterführung und Personalmanagement“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 17) und schriftliche Prüfung (§ 18) nach folgender Formel: ![](../normengrafiken/bgbl1_2020/j2643-1_0030.jpg)
+(4) Die Bewertung der Leistung des Prüfungsteils „Mitarbeiterführung und Personalmanagement“ errechnet sich aus den Noten der Prüfungsbestandteile Fallstudie (§ 17) und schriftliche Prüfung (§ 18) nach folgender Formel: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2643-1_0030.jpg)
 
-(5) Die Bewertung der Gesamtleistung in der Prüfung errechnet sich aus den Bewertungen der Prüfungsteile „Baumdiagnose und Baumpflegemaßnahmen“ (Absatz 2), „Betriebs- und Unternehmensführung“ (Absatz 3) und „Mitarbeiterführung und Personalmanagement“ (Absatz 4) nach folgender Formel: ![](../normengrafiken/bgbl1_2020/j2643-1_0040.jpg)  
+(5) Die Bewertung der Gesamtleistung in der Prüfung errechnet sich aus den Bewertungen der Prüfungsteile „Baumdiagnose und Baumpflegemaßnahmen“ (Absatz 2), „Betriebs- und Unternehmensführung“ (Absatz 3) und „Mitarbeiterführung und Personalmanagement“ (Absatz 4) nach folgender Formel: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2643-1_0040.jpg)  
 
-
-## § 20 – Befreiung von Prüfungsbestandteilen
+# § 20 – Befreiung von Prüfungsbestandteilen
 
 (1) Für die Befreiung von einzelnen Prüfungsbestandteilen nach
 
@@ -465,8 +441,7 @@ ist § 56 Absatz 2 des Berufsbildungsgesetzes anzuwenden.
 
 bleiben diese Prüfungsbestandteile für die Anwendung des § 19 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 19 Absatz 2 bis 5 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zu Grunde zu legen.
 
-
-## § 21 – Bestehen der Prüfung
+# § 21 – Bestehen der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil nach § 4 mindestens die Note „ausreichend“ nach Anlage 1 erzielt hat.
 
@@ -476,8 +451,7 @@ bleiben diese Prüfungsbestandteile für die Anwendung des § 19 außer Betrach
 
 2. mehr als eine der in Nummer 1 genannten Leistungen mit „mangelhaft“ nach Anlage 1 bewertet worden ist.
 
-
-## § 22 – Zeugnisse
+# § 22 – Zeugnisse
 
 (1) Wer die Prüfung bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2.
 
@@ -497,8 +471,7 @@ Jede Befreiung nach § 20 Absatz 1 ist mit Ort, Datum und der Bezeichnung des Pr
 
 2. auf Antrag des Prüflings über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 23 – Mündliche Ergänzungsprüfung
+# § 23 – Mündliche Ergänzungsprüfung
 
 (1) Wurde eine oder wurden zwei der schriftlichen Prüfungen nach den §§ 10, 14 und 18 schlechter als mit „ausreichend“ nach Anlage 1 bewertet, ist auf Antrag des Prüflings eine dieser Prüfungen durch eine mündliche Prüfung zu ergänzen, wenn dies den Ausschlag für das Bestehen der Prüfung insgesamt geben kann.
 
@@ -506,8 +479,7 @@ Jede Befreiung nach § 20 Absatz 1 ist mit Ort, Datum und der Bezeichnung des Pr
 
 (3) Für die Ermittlung des Ergebnisses der ergänzten schriftlichen Prüfung ist die bisherige Note der schriftlichen Prüfung und die Note der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 24 – Wiederholung der Prüfung
+# § 24 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden wurde, kann zweimal wiederholt werden.
 
@@ -517,20 +489,17 @@ Jede Befreiung nach § 20 Absatz 1 ist mit Ort, Datum und der Bezeichnung des Pr
 
 2. der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 25 – Übergangsvorschriften
+# § 25 – Übergangsvorschriften
 
 (1) Die bis zum Ablauf des 31. Dezember 2020 begonnenen Prüfungsverfahren sind nach den Vorschriften der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin – Baumpflege und Baumsanierung vom 29. Juni 1993 (BGBl. I S. 1114) zu Ende zu führen.
 
 (2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 31. Dezember 2020 geltenden Vorschriften nicht bestanden haben und die sich innerhalb von zwei Jahren ab dem 1. Januar 2021 zu einer Wiederholungsprüfung anmelden, legen die Wiederholungsprüfung nach den Vorschriften der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin – Baumpflege und Baumsanierung vom 29. Juni 1993 (BGBl. I S. 1114) ab.
 
-
-## § 26 – Inkrafttreten, Außerkrafttreten
+# § 26 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachagrarwirt/Geprüfte Fachagrarwirtin – Baumpflege und Baumsanierung vom 29. Juni 1993 (BGBl. I S. 1114) außer Kraft.
 
-
-## Anlage 1 – (zu § 5)Bewertungsmaßstab für die Leistungen
+# Anlage 1 – (zu § 5)Bewertungsmaßstab für die Leistungen
 
 (Fundstelle: BGBl. I 2020, 2650)
 
@@ -583,8 +552,7 @@ ungenügend
 
 eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundlagen für die berufliche Handlungsfähigkeit fehlen
 
-
-## Anlage 2 – (zu § 22)Zeugnisinhalte
+# Anlage 2 – (zu § 22)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 2651)
 

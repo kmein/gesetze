@@ -1,25 +1,19 @@
-# [MBVerfV] Verordnung über die Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus  (Methodenbewertungsverfahrensverordnung - MBVerfV)
-
-Ausfertigungsdatum: 23.06.2020
-
+% Verordnung über die Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus  (Methodenbewertungsverfahrensverordnung - MBVerfV)
+% Ausfertigungsdatum: 23.06.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 91b Satz 1 und 2 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch Artikel 2 Nummer 2 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2494) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung regelt das Nähere zum Verfahren, das der Gemeinsame Bundesausschuss bei der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen und vertragszahnärztlichen Versorgung nach § 135 Absatz 1 des Fünften Buches Sozialgesetzbuch und bei der Bewertung von Untersuchungs- und Behandlungsmethoden im Rahmen einer Krankenhausbehandlung nach § 137c Absatz 1 des Fünften Buches Sozialgesetzbuch zu beachten hat. Geltende Regelungen der Verfahrensordnung des Gemeinsamen Bundesausschusses, die den Vorgaben der Verordnung nicht entgegenstehen, bleiben unberührt.
 
-
-## § 2 – Antrag
+# § 2 – Antrag
 
 Ein Antrag nach § 135 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch oder nach § 137c Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch ist schriftlich oder elektronisch bei dem Gemeinsamen Bundesausschuss zu stellen. Die Frist für die Beschlussfassung des Gemeinsamen Bundesausschusses über die Annahme eines Antrags richtet sich nach § 135 Absatz 1 Satz 4 des Fünften Buches Sozialgesetzbuch oder nach § 137c Absatz 1 Satz 5 des Fünften Buches Sozialgesetzbuch.
 
-
-## § 3 – Ankündigung der Bewertung und Einholung von Ersteinschätzungen
+# § 3 – Ankündigung der Bewertung und Einholung von Ersteinschätzungen
 
 (1) Nach der Annahme eines Antrags macht der Gemeinsame Bundesausschuss unverzüglich bekannt, welche Untersuchungs- oder Behandlungsmethode auf Grund des angenommenen Antrags von ihm zu bewerten ist. Die Bekanntmachung erfolgt auf seiner Internetseite, im Bundesanzeiger sowie in geeigneten Fachzeitschriften.
 
@@ -35,8 +29,7 @@ Ein Antrag nach § 135 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch oder
 
 (4) Die Erkenntnisse aus den Ersteinschätzungen sind in die Ausgestaltung des Auftrags nach § 4 Absatz 2 Satz 1 einzubeziehen und in den tragenden Gründen des Beschlusses nach § 7 oder in einer zusammenfassenden Dokumentation des Bewertungsverfahrens zu dokumentieren.
 
-
-## § 4 – Ermittlung und Auswertung der vorliegenden Erkenntnisse
+# § 4 – Ermittlung und Auswertung der vorliegenden Erkenntnisse
 
 (1) Für die Bewertung einer Untersuchungs- oder Behandlungsmethode nach § 135 Absatz 1 des Fünften Buches Sozialgesetzbuch oder § 137c Absatz 1 des Fünften Buches Sozialgesetzbuch ist der aktuelle Stand der medizinischen Erkenntnisse zu ermitteln.
 
@@ -80,20 +73,17 @@ g) V Assoziationsbeobachtungen, pathophysiologische Überlegungen, deskriptive D
 
 Der Auftrag nach Absatz 2 Satz 1 ist entsprechend auszugestalten. Auf die Einbeziehung von Unterlagen und Nachweisen niedrigerer Evidenzstufen kann verzichtet werden, wenn die Bewertungsentscheidung bereits auf Grund hinreichend aussagekräftiger Unterlagen und Nachweise einer höheren Evidenzstufe getroffen werden kann.
 
-
-## § 5 – Bewertung und Abwägungsprozess zur Erstellung eines Beschlussentwurfs
+# § 5 – Bewertung und Abwägungsprozess zur Erstellung eines Beschlussentwurfs
 
 Der Gemeinsame Bundesausschuss erstellt in einem umfassenden Abwägungsprozess einen Beschlussentwurf über die Bewertung der Untersuchungs- oder Behandlungsmethode für den jeweiligen Versorgungskontext. Der Entwurf soll innerhalb von drei Monaten nach Vorliegen des Berichts über die Ermittlung und Auswertung der vorliegenden Erkenntnisse erstellt werden.
 
-
-## § 6 – Stellungnahmeverfahren
+# § 6 – Stellungnahmeverfahren
 
 (1) Die Frist zur Abgabe einer schriftlichen oder elektronischen Stellungnahme durch die Stellungnahmeberechtigen zu dem Beschlussentwurf soll nicht kürzer als vier Wochen sein. Die Gelegenheit zur Abgabe einer mündlichen Stellungnahme nach § 91 Absatz 9 Satz 1 des Fünften Buches Sozialgesetzbuch ist im Rahmen einer Anhörung zu geben, die in der Regel nicht später als einen Monat nach Ablauf der Frist zur Abgabe einer schriftlichen oder elektronischen Stellungnahme stattfinden soll.
 
 (2) Die Auswertung der abgegebenen Stellungnahmen erfordert eine Auseinandersetzung mit den vorgetragenen Einwänden und Änderungsvorschlägen. Die wesentlichen Gründe für das Aufgreifen oder Nichtaufgreifen der einzelnen Einwände oder Änderungsvorschläge bei der Beschlussfassung nach § 7 Absatz 2 oder Absatz 3 sind in die tragenden Gründe aufzunehmen oder in einer zusammenfassenden Dokumentation des Bewertungsverfahrens zu dokumentieren und zu veröffentlichen. Die Auswertung der schriftlichen, elektronischen und mündlichen Stellungnahmen ist in der Regel innerhalb von drei Monaten nach Ablauf der nach Absatz 1 Satz 1 gesetzten Frist zur Abgabe einer schriftlichen oder elektronischen Stellungnahme abzuschließen. Die Stellungnahmen sind in die abschließende Abwägungsentscheidung einzubeziehen.
 
-
-## § 7 – Abschließende Gesamtbewertung und Beschlussfassung
+# § 7 – Abschließende Gesamtbewertung und Beschlussfassung
 
 (1) Die abschließende Gesamtbewertung der Methode erfolgt aufgrund der nach Abschluss des Stellungnahmeverfahrens getroffenen abschließenden Abwägungsentscheidung.
 
@@ -117,8 +107,7 @@ Die Aussetzung eines Methodenbewertungsverfahrens nach § 135 des Fünften Buche
 
 Abweichend von Satz 3 kann der Gemeinsame Bundesausschuss ein Methodenbewertungsverfahren nach § 137c des Fünften Buches Sozialgesetzbuch ausnahmsweise für einen befristeten Zeitraum aussetzen, wenn der Nutzen der Methode noch nicht hinreichend belegt ist, aber zu erwarten ist, dass solche Studien in naher Zukunft vorliegen werden.
 
-
-## § 8 – Tragende Gründe
+# § 8 – Tragende Gründe
 
 (1) Der Gemeinsame Bundesausschuss hat die tragenden Gründe für einen Beschluss nach § 7 Absatz 2 oder Absatz 3 auf seiner Internetseite zu veröffentlichen. Gegenstand der tragenden Gründe ist insbesondere die Darlegung und nähere Begründung der Abwägungsentscheidung, die dem Beschluss nach § 7 Absatz 2 oder Absatz 3 zugrunde liegt.
 
@@ -132,7 +121,6 @@ Abweichend von Satz 3 kann der Gemeinsame Bundesausschuss ein Methodenbewertungs
 
 (3) Die abschließende Abwägungsentscheidung ist in den tragenden Gründen zudem zusammenfassend und in einer für Versicherte verständlichen Sprache dahingehend zu begründen, warum der Gemeinsame Bundesausschuss die vorliegenden Erkenntnisse unter Berücksichtigung des konkreten Versorgungskontextes für die Anerkennung des Nutzens oder die Feststellung eines Potentials als ausreichend oder nicht ausreichend bewertet hat. Die Berücksichtigung des konkreten Versorgungskontextes erfasst neben den Gesichtspunkten nach Absatz 2 Satz 1 Nummer 2 und 3 insbesondere auch die Schwere der mit der Methode zu behandelnden Erkrankung.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

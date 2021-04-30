@@ -1,20 +1,15 @@
-# [KfzHV] Verordnung über Kraftfahrzeughilfe zur beruflichen Rehabilitation  (Kraftfahrzeughilfe-Verordnung - KfzHV)
-
-Ausfertigungsdatum: 28.09.1987
-
+% Verordnung über Kraftfahrzeughilfe zur beruflichen Rehabilitation  (Kraftfahrzeughilfe-Verordnung - KfzHV)
+% Ausfertigungsdatum: 28.09.1987
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 2 des Gesetzes über die Angleichung der Leistungen zur Rehabilitation vom 7. August 1974 (BGBl. I S. 1881), der durch Artikel 16 des Gesetzes vom 1. Dezember 1981 (BGBl. I S. 1205) geändert worden ist, auf Grund des § 27f in Verbindung mit § 26 Abs. 6 Satz 1 des Bundesversorgungsgesetzes in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21) und auf Grund des § 11 Abs. 3 Satz 3 des Schwerbehindertengesetzes in der Fassung der Bekanntmachung vom 26. August 1986 (BGBl. I S. 1421) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sich bei den Trägern der gesetzlichen Unfallversicherung, der gesetzlichen Rentenversicherung, der Kriegsopferfürsorge und der Bundesagentur für Arbeit sowie den Trägern der begleitenden Hilfe im Arbeits- und Berufsleben nach dieser Verordnung.
 
-
-## § 2 – Leistungen
+# § 2 – Leistungen
 
 (1) Die Kraftfahrzeughilfe umfaßt Leistungen
 
@@ -26,8 +21,7 @@ Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sic
 
 (2) Die Leistungen werden als Zuschüsse und nach Maßgabe des § 9 als Darlehen erbracht.
 
-
-## § 3 – Persönliche Voraussetzungen
+# § 3 – Persönliche Voraussetzungen
 
 (1) Die Leistungen setzen voraus, daß
 
@@ -41,8 +35,7 @@ Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sic
 
 (4) Sofern nach den für den Träger geltenden besonderen Vorschriften Kraftfahrzeughilfe für behinderte Menschen, die nicht Arbeitnehmer sind, in Betracht kommt, sind die Absätze 1 und 3 entsprechend anzuwenden.
 
-
-## § 4 – Hilfe zur Beschaffung eines Kraftfahrzeugs
+# § 4 – Hilfe zur Beschaffung eines Kraftfahrzeugs
 
 (1) Hilfe zur Beschaffung eines Kraftfahrzeugs setzt voraus, daß der behinderte Mensch nicht über ein Kraftfahrzeug verfügt, das die Voraussetzungen nach Absatz 2 erfüllt und dessen weitere Benutzung ihm zumutbar ist.
 
@@ -50,8 +43,7 @@ Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sic
 
 (3) Die Beschaffung eines Gebrauchtwagens kann gefördert werden, wenn er die Voraussetzungen nach Absatz 2 erfüllt und sein Verkehrswert mindestens 50 vom Hundert des seinerzeitigen Neuwagenpreises beträgt.
 
-
-## § 5 – Bemessungsbetrag
+# § 5 – Bemessungsbetrag
 
 (1) Die Beschaffung eines Kraftfahrzeugs wird bis zu einem Betrag in Höhe des Kaufpreises, höchstens jedoch bis zu einem Betrag von 9.500 Euro gefördert. Die Kosten einer behinderungsbedingten Zusatzausstattung bleiben bei der Ermittlung unberücksichtigt.
 
@@ -59,8 +51,7 @@ Kraftfahrzeughilfe zur Teilhabe behinderter Menschen am Arbeitsleben richtet sic
 
 (3) Zuschüsse öffentlich-rechtlicher Stellen zu dem Kraftfahrzeug, auf die ein vorrangiger Anspruch besteht oder die vorrangig nach pflichtgemäßem Ermessen zu leisten sind, und der Verkehrswert eines Altwagens sind von dem Betrag nach Absatz 1 oder 2 abzusetzen.
 
-
-## § 6 – Art und Höhe der Förderung
+# § 6 – Art und Höhe der Förderung
 
 (1) Hilfe zur Beschaffung eines Kraftfahrzeugs wird in der Regel als Zuschuß geleistet. Der Zuschuß richtet sich nach dem Einkommen des behinderten Menschen nach Maßgabe der folgenden Tabelle:  
 
@@ -86,13 +77,11 @@ Die Beträge nach Satz 2 sind jeweils auf volle 5 Euro aufzurunden.
 
 (4) Die Absätze 1 bis 3 gelten auch für die Hilfe zur erneuten Beschaffung eines Kraftfahrzeugs. Die Hilfe soll nicht vor Ablauf von fünf Jahren seit der Beschaffung des zuletzt geförderten Fahrzeugs geleistet werden.
 
-
-## § 7 – Behinderungsbedingte Zusatzausstattung
+# § 7 – Behinderungsbedingte Zusatzausstattung
 
 Für eine Zusatzausstattung, die wegen der Behinderung erforderlich ist, ihren Einbau, ihre technische Überprüfung und die Wiederherstellung ihrer technischen Funktionsfähigkeit werden die Kosten in vollem Umfang übernommen. Dies gilt auch für eine Zusatzausstattung, die wegen der Behinderung eines Dritten erforderlich ist, der für den behinderten Menschen das Kraftfahrzeug führt (§ 3 Abs. 1 Nr. 2). Zuschüsse öffentlich-rechtlicher Stellen, auf die ein vorrangiger Anspruch besteht oder die vorrangig nach pflichtgemäßem Ermessen zu leisten sind, sind anzurechnen.
 
-
-## § 8 – Fahrerlaubnis
+# § 8 – Fahrerlaubnis
 
 (1) Zu den Kosten, die für die Erlangung einer Fahrerlaubnis notwendig sind, wird ein Zuschuß geleistet. Er beläuft sich bei behinderten Menschen mit einem Einkommen (§ 6 Abs. 3)
 
@@ -106,8 +95,7 @@ der entstehenden notwendigen Kosten; § 6 Abs. 1 Satz 3 und Abs. 2 gilt entsprec
 
 (2) Kosten für behinderungsbedingte Untersuchungen, Ergänzungsprüfungen und Eintragungen in vorhandene Führerscheine werden in vollem Umfang übernommen.
 
-
-## § 9 – Leistungen in besonderen Härtefällen
+# § 9 – Leistungen in besonderen Härtefällen
 
 (1) Zur Vermeidung besonderer Härten können Leistungen auch abweichend von § 2 Abs. 1, §§ 6 und 8 Abs. 1 erbracht werden, soweit dies
 
@@ -125,23 +113,19 @@ dabei ist zu berücksichtigen, was der behinderte Mensch als Kraftfahrzeughalter
 
 (2) Leistungen nach Absatz 1 Satz 1 können als Darlehen erbracht werden, wenn die dort genannten Ziele auch durch ein Darlehen erreicht werden können; das Darlehen darf zusammen mit einem Zuschuß nach § 6 den nach § 5 maßgebenden Bemessungsbetrag nicht übersteigen. Das Darlehen ist unverzinslich und spätestens innerhalb von fünf Jahren zu tilgen; es können bis zu zwei tilgungsfreie Jahre eingeräumt werden. Auf die Rückzahlung des Darlehens kann unter den in Absatz 1 Satz 1 genannten Voraussetzungen verzichtet werden.
 
-
-## § 10 – Antragstellung
+# § 10 – Antragstellung
 
 Leistungen sollen vor dem Abschluß eines Kaufvertrages über das Kraftfahrzeug und die behinderungsbedingte Zusatzausstattung sowie vor Beginn einer nach § 8 zu fördernden Leistung beantragt werden. Leistungen zur technischen Überprüfung und Wiederherstellung der technischen Funktionsfähigkeit einer behinderungsbedingten Zusatzausstattung sind spätestens innerhalb eines Monats nach Rechnungstellung zu beantragen.
 
-
-## § 11
-
-\-
-
-
-## § 12
+# § 11
 
 \-
 
+# § 12
 
-## § 13 – Übergangsvorschriften
+\-
+
+# § 13 – Übergangsvorschriften
 
 (1) Auf Beschädigte im Sinne des Bundesversorgungsgesetzes und der Gesetze, die das Bundesversorgungsgesetz für entsprechend anwendbar erklären, die vor Inkrafttreten dieser Verordnung Hilfe zur Beschaffung eines Kraftfahrzeugs im Rahmen der Teilhabe am Arbeitsleben erhalten haben, sind die bisher geltenden Bestimmungen weiterhin anzuwenden, wenn sie günstiger sind und der Beschädigte es beantragt.
 
@@ -149,7 +133,6 @@ Leistungen sollen vor dem Abschluß eines Kaufvertrages über das Kraftfahrzeug 
 
 (3) (weggefallen)
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 1987 in Kraft.

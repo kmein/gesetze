@@ -1,20 +1,15 @@
-# [RebflV] Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98 bis 1999/2000
-
-Ausfertigungsdatum: 30.01.1998
-
+% Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98 bis 1999/2000
+% Ausfertigungsdatum: 30.01.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 18 und 19 in Verbindung mit Abs. 4 und 5 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen in der Fassung der Bekanntmachung vom 20. September 1995 (BGBl. I S. 1146) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft:
 
-
-## § 1
+# § 1
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98, 1998/99 und 1999/2000.
 
-
-## § 2
+# § 2
 
 (1) Die Regierungen der Länder Baden-Württemberg, Hessen und Rheinland-Pfalz können durch Rechtsverordnung Gebiete im Sinne des Artikels 1 Abs. 1 Unterabs. 2 Satz 1 der Verordnung (EWG) Nr. 1442/88 des Rates vom 24. Mai 1988 über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1988/89 bis 1999/2000 (ABl. EG Nr. L 132 S. 3) in der jeweils geltenden Fassung bezeichnen und dabei Bedingungen im Sinne des Artikels 1 Abs. 1 Unterabs. 3 der Verordnung (EWG) Nr. 1442/88 festlegen, die insbesondere das Produktionsgleichgewicht und das ökologische Gleichgewicht in den bezeichneten Gebieten sicherstellen sollen.
 
@@ -22,7 +17,6 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 (3) Die Prämie zur endgültigen Aufgabe von Rebflächen wird in den Weinwirtschaftsjahren 1998/99 und 1999/2000 gewährt, wenn die gerodeten Rebflächen eines Betriebes insgesamt mindestens 10 Ar groß sind.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

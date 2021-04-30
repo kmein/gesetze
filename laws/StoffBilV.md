@@ -1,13 +1,9 @@
-# [StoffBilV] Verordnung über den Umgang mit Nährstoffen im Betrieb und betriebliche Stoffstrombilanzen  (Stoffstrombilanzverordnung - StoffBilV)
-
-Ausfertigungsdatum: 14.12.2017
-
+% Verordnung über den Umgang mit Nährstoffen im Betrieb und betriebliche Stoffstrombilanzen  (Stoffstrombilanzverordnung - StoffBilV)
+% Ausfertigungsdatum: 14.12.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt zur näheren Bestimmung der Anforderungen an die gute fachliche Praxis beim Umgang mit Nährstoffen im Sinne des § 11a Absatz 1 des Düngegesetzes die näheren Vorschriften über die nach § 11a Absatz 2 des Düngegesetzes zu erstellende betriebliche Stoffstrombilanz.
 
@@ -27,8 +23,7 @@ Ausfertigungsdatum: 14.12.2017
 
 3. Betriebe, die eine Biogasanlage unterhalten und mit einem Betrieb nach Nummer 1 oder Nummer 2 in einem funktionalen Zusammenhang stehen, wenn dem Betrieb im jeweiligen Bezugsjahr nach § 3 Absatz 2 Satz 3 Wirtschaftsdünger aus diesem Betrieb oder sonst außerhalb des Betriebs anfallender Wirtschaftsdünger zugeführt wird.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -52,8 +47,7 @@ eine natürliche oder juristische Person oder eine nicht rechtsfähige Personenv
 
 die Gesamtheit der vom Betriebsinhaber verwalteten Einheiten, die sich im Gebiet der Bundesrepublik Deutschland befinden.
 
-
-## § 3 – Grundsätze für den nachhaltigen und ressourceneffizienten Umgang mit Nährstoffen im Betrieb
+# § 3 – Grundsätze für den nachhaltigen und ressourceneffizienten Umgang mit Nährstoffen im Betrieb
 
 (1) Bei der landwirtschaftlichen Erzeugung ist ein nachhaltiger und ressourceneffizienter Umgang mit Nährstoffen im Betrieb sicherzustellen. Dabei sind Nährstoffverluste in die Umwelt soweit wie möglich zu vermeiden.
 
@@ -63,8 +57,7 @@ die Gesamtheit der vom Betriebsinhaber verwalteten Einheiten, die sich im Gebiet
 
 (4) Ein Betrieb, der die in § 1 Absatz 2 Nummer 1 oder Absatz 3 Nummer 1 genannten Schwellenwerte unterschreitet und dem innerhalb eines Bezugsjahres nach Absatz 2 Satz 3 Wirtschaftsdünger in Höhe von nicht mehr als 750 Kilogramm Gesamtstickstoff zugeführt wird, ist von den Verpflichtungen nach Absatz 2 für das jeweils folgende Jahr befreit, wenn der für das vorangegangene Jahr erstellte Nährstoffvergleich nach § 8 Absatz 1 der Düngeverordnung keine Anhaltspunkte für eine Verletzung der Verpflichtungen des Betriebs nach Absatz 1 enthält oder ergibt. Ein viehhaltender Betrieb nach § 1 Absatz 2 Nummer 2 ist ferner von den Verpflichtungen nach Absatz 2 für das jeweils folgende Jahr, längstens jedoch bis zum Ablauf des 31. Dezember 2022, befreit, soweit er innerhalb eines Bezugsjahres nach Absatz 2 Satz 3 einen Nährstoffanfall aus Wirtschaftsdüngern tierischer Herkunft von nicht mehr als 750 Kilogramm Stickstoff aus dem eigenen Betrieb aufweist. Der Betriebsinhaber eines nach Satz 1 oder 2 befreiten Betriebs hat der nach Landesrecht zuständigen Stelle wesentliche Änderungen in den betrieblichen Verhältnissen, Abläufen oder in der Wirtschaftsweise des Betriebs unverzüglich, vollständig und richtig anzuzeigen. Die nach Landesrecht zuständige Stelle kann gegenüber dem Betriebsinhaber eines nach Satz 1 oder 2 befreiten Betriebs die Erstellung und Bewertung von Stoffstrombilanzen nach Absatz 2 anordnen, sobald Tatsachen die Annahme rechtfertigen, dass der Betrieb die Verpflichtungen nach Absatz 1 nicht oder nicht mehr erfüllt.
 
-
-## § 4 – Ermittlung der dem Betrieb zugeführten Nährstoffmengen an Stickstoff und Phosphor
+# § 4 – Ermittlung der dem Betrieb zugeführten Nährstoffmengen an Stickstoff und Phosphor
 
 (1) Der Betriebsinhaber hat die dem Betrieb durch Stoffe nach § 2 Nummer 1 und 6 bis 8 des Düngegesetzes, Futtermittel, Saatgut einschließlich Pflanzgut und Vermehrungsmaterial, landwirtschaftliche Nutztiere, Leguminosen sowie sonstige Stoffe zugeführten Nährstoffmengen an Stickstoff und Phosphor
 
@@ -86,8 +79,7 @@ Soweit Kennzeichnungen nach Satz 1 Nummer 1 oder Messergebnisse auf der Grundlag
 
 (+++ § 4 Abs. 2 Satz 1 u. 2: Zur Anwendung vgl. § 5 Abs. 2 +++)
 
-
-## § 5 – Ermittlung der vom Betrieb abgegebenen Nährstoffmengen an Stickstoff und Phosphor
+# § 5 – Ermittlung der vom Betrieb abgegebenen Nährstoffmengen an Stickstoff und Phosphor
 
 (1) Der Betriebsinhaber hat die vom Betrieb durch pflanzliche und tierische Erzeugnisse, Stoffe nach § 2 Nummer 1 und 6 bis 8 des Düngegesetzes, Futtermittel, Saatgut einschließlich Pflanzgut und Vermehrungsmaterial, landwirtschaftliche Nutztiere sowie sonstige Stoffe abgegebenen Nährstoffmengen an Stickstoff und Phosphor
 
@@ -105,8 +97,7 @@ zu ermitteln.
 
 zu berücksichtigen. Im Falle von Stoffen oder Tierarten, die nicht von den in Satz 2 genannten Anlagen erfasst sind, sind die von der nach Landesrecht zuständigen Stelle herausgegebenen Werte für die Gehalte an Stickstoff, Phosphor oder Phosphat heranzuziehen.
 
-
-## § 6 – Erstellung und Bewertung der betrieblichen Stoffstrombilanzen
+# § 6 – Erstellung und Bewertung der betrieblichen Stoffstrombilanzen
 
 (1) Der Betriebsinhaber hat jährlich spätestens sechs Monate nach Ablauf des nach § 3 Absatz 2 Satz 3 festgelegten Bezugsjahres eine betriebliche Stoffstrombilanz nach Maßgabe der Anlage 2 zu erstellen und zu einer jährlich fortgeschriebenen dreijährigen Stoffstrombilanz nach Anlage 3 zusammenzufassen.
 
@@ -130,8 +121,7 @@ Um Besonderheiten bei bestimmten Betriebstypen, bei der Anwendung bestimmter Dü
 
 (6) Die Verpflichtungen nach den Absätzen 2 und 3 gelten bis zum 31. Dezember 2022.
 
-
-## § 7 – Aufzeichnungen
+# § 7 – Aufzeichnungen
 
 (1) Der Betriebsinhaber hat aufzuzeichnen:
 
@@ -145,8 +135,7 @@ Um Besonderheiten bei bestimmten Betriebstypen, bei der Anwendung bestimmter Dü
 
 (3) Den Landesregierungen wird die Befugnis übertragen, durch Rechtsverordnung auf Grund des § 11a Absatz 2 Satz 4 bis 6 des Düngegesetzes Regelungen über Vorlage-, Melde- oder Mitteilungspflichten im Zusammenhang mit den Stoffstrombilanzen nach § 6, den Aufzeichnungen und den ihnen zugrunde liegenden Belegen nach den Absätzen 1 und 2 sowie über die Form der genannten Aufzeichnungen und Stoffstrombilanzen zu erlassen, soweit dies zur Überwachung der Einhaltung der Anforderungen nach dieser Verordnung erforderlich ist.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe a des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 6 Absatz 5 Satz 1 zuwiderhandelt.
 
@@ -156,22 +145,18 @@ Um Besonderheiten bei bestimmten Betriebstypen, bei der Anwendung bestimmter Dü
 
 2. entgegen § 7 Absatz 2 eine Aufzeichnung oder einen dort genannten Beleg nicht oder nicht mindestens sieben Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
-
-## Anlage 1 – (zu § 4 Absatz 2 Satz 3 und 4 und § 5 Absatz 2 Satz 2 Nummer 2)Stickstoff- und Phosphor-/Phosphatgehalte in pflanzlichen und tierischen Erzeugnissen, Futtermitteln, Saatgut einschließlich Pflanzgut und Vermehrungsmaterial, landwirtschaftlichen Nutztieren sowie Stickstoffzufuhr durch Leguminosen
+# Anlage 1 – (zu § 4 Absatz 2 Satz 3 und 4 und § 5 Absatz 2 Satz 2 Nummer 2)Stickstoff- und Phosphor-/Phosphatgehalte in pflanzlichen und tierischen Erzeugnissen, Futtermitteln, Saatgut einschließlich Pflanzgut und Vermehrungsmaterial, landwirtschaftlichen Nutztieren sowie Stickstoffzufuhr durch Leguminosen
 
 (Fundstelle: BGBl. I 2017, 3946 - 3954)
 
-
-## Anlage 2 – (zu § 6 Absatz 1 und 3 und § 7 Absatz 1 Nummer 3)Jährliche betriebliche Stoffstrombilanz für Stickstoff (N) oder Phosphor (P) / Phosphat (P2O5) (Nährstoff unterstreichen)
+# Anlage 2 – (zu § 6 Absatz 1 und 3 und § 7 Absatz 1 Nummer 3)Jährliche betriebliche Stoffstrombilanz für Stickstoff (N) oder Phosphor (P) / Phosphat (P2O5) (Nährstoff unterstreichen)
 
 (Fundstelle: BGBl. I 2017, 3955)
 
-
-## Anlage 3 – (zu § 6 Absatz 1 bis 3 und § 7 Absatz 1 Nummer 3)Dreijährige betriebliche Stoffstrombilanz gleitende Mittelwerte für Stickstoff und Phosphor
+# Anlage 3 – (zu § 6 Absatz 1 bis 3 und § 7 Absatz 1 Nummer 3)Dreijährige betriebliche Stoffstrombilanz gleitende Mittelwerte für Stickstoff und Phosphor
 
 (Fundstelle: BGBl. I 2016, 3956)
 
-
-## Anlage 4 – (zu § 6 Absatz 2 Satz 2 Nummer 2)Ermittlung des für den Betrieb zulässigen Bilanzwertes für Stickstoff
+# Anlage 4 – (zu § 6 Absatz 2 Satz 2 Nummer 2)Ermittlung des für den Betrieb zulässigen Bilanzwertes für Stickstoff
 
 (Fundstelle: BGBl. I 2017, 3957 - 3958)

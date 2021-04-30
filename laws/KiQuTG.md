@@ -1,10 +1,7 @@
-# [KiQuTG] Gesetz zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in Tageseinrichtungen und in der Kindertagespflege  (KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz - KiQuTG)
-
-Ausfertigungsdatum: 19.12.2018
-
+% Gesetz zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in Tageseinrichtungen und in der Kindertagespflege  (KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz - KiQuTG)
+% Ausfertigungsdatum: 19.12.2018
  
-
-## § 1 – Weiterentwicklung der Qualität und Verbesserung der Teilhabe in der Kindertagesbetreuung
+# § 1 – Weiterentwicklung der Qualität und Verbesserung der Teilhabe in der Kindertagesbetreuung
 
 (1) Ziel des Gesetzes ist es, die Qualität frühkindlicher Bildung, Erziehung und Betreuung in der Kindertagesbetreuung bundesweit weiterzuentwickeln und die Teilhabe in der Kindertagesbetreuung zu verbessern. Hierdurch soll ein Beitrag zur Herstellung gleichwertiger Lebensverhältnisse für das Aufwachsen von Kindern im Bundesgebiet und zur besseren Vereinbarkeit von Familie und Beruf geleistet werden.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 19.12.2018
 
 (3) Durch die Weiterentwicklung der Qualität frühkindlicher Bildung, Erziehung und Betreuung in der Kindertagesbetreuung nach den Entwicklungsbedarfen der Länder werden bundesweit gleichwertige qualitative Standards angestrebt.
 
-
-## § 2 – Maßnahmen zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in der Kindertagesbetreuung
+# § 2 – Maßnahmen zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in der Kindertagesbetreuung
 
 Maßnahmen zur Weiterentwicklung der Qualität in der Kindertagesbetreuung werden auf folgenden Handlungsfeldern ergriffen:
 
@@ -43,8 +39,7 @@ Maßnahmen zur Weiterentwicklung der Qualität in der Kindertagesbetreuung werde
 
 Förderfähig sind zusätzlich auch Maßnahmen zur Entlastung der Eltern bei den Gebühren, die über die in § 90 Absatz 3 und 4 des Achten Buches Sozialgesetzbuch in der ab dem 1. August 2019 geltenden Fassung geregelten Maßnahmen hinausgehen, um die Teilhabe an Kinderbetreuungsangeboten zu verbessern. Maßnahmen gemäß § 2 Satz 1 Nummern 1 bis 4 sind von vorrangiger Bedeutung.
 
-
-## § 3 – Handlungskonzepte und Finanzierungskonzepte der Länder
+# § 3 – Handlungskonzepte und Finanzierungskonzepte der Länder
 
 (1) Die Länder analysieren anhand möglichst vergleichbarer Kriterien und Verfahren ihre jeweilige Ausgangslage in Handlungsfeldern nach § 2 Satz 1 und Maßnahmen nach § 2 Satz 2.
 
@@ -64,8 +59,7 @@ Förderfähig sind zusätzlich auch Maßnahmen zur Entlastung der Eltern bei den
 
 3. in welcher zeitlichen Abfolge sie diese Fortschritte erzielen wollen.
 
-
-## § 4 – Verträge zwischen Bund und Ländern
+# § 4 – Verträge zwischen Bund und Ländern
 
 Jedes Land schließt mit der Bundesrepublik Deutschland, vertreten durch das Bundesministerium für Familie, Senioren, Frauen und Jugend, einen Vertrag über die Weiterentwicklung der Qualität in der Kindertagesbetreuung, der als Grundlage für das Monitoring und die Evaluation nach § 6 dient. Dieser Vertrag enthält:
 
@@ -81,8 +75,7 @@ Jedes Land schließt mit der Bundesrepublik Deutschland, vertreten durch das Bun
 
 6. das Nähere zu der Unterstützung durch die Geschäftsstelle gemäß § 5.
 
-
-## § 5 – Geschäftsstelle des Bundes
+# § 5 – Geschäftsstelle des Bundes
 
 Der Bund richtet eine Geschäftsstelle beim Bundesministerium für Familie, Senioren, Frauen und Jugend ein, die
 
@@ -100,8 +93,7 @@ d) bei der Durchführung öffentlichkeitswirksamer Maßnahmen,
 
 3. das Monitoring und die Evaluation nach § 6 begleitet.
 
-
-## § 6 – Monitoring und Evaluation
+# § 6 – Monitoring und Evaluation
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend führt jährlich, erstmals im Jahr 2020 und letztmals im Jahr 2023, ein länderspezifisches sowie länderübergreifendes qualifiziertes Monitoring durch. Das Monitoring ist nach den zehn Handlungsfeldern gemäß § 2 Satz 1 und Maßnahmen gemäß § 2 Satz 2 aufzuschlüsseln.
 

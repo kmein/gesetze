@@ -1,15 +1,11 @@
-# [FoVZV] Forstvermehrungsgut-Zulassungsverordnung  (FoVZV)
-
-Ausfertigungsdatum: 20.12.2002
-
+% Forstvermehrungsgut-Zulassungsverordnung  (FoVZV)
+% Ausfertigungsdatum: 20.12.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 7 Satz 1 und des § 6 Abs. 3 des Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1
+# § 1
 
 (1) Für die Zulassung von
 
@@ -25,23 +21,19 @@ gelten die in der Anlage 1 dieser Verordnung festgelegten Mindestanforderungen.
 
 (3) Samenplantagen, die zum Zeitpunkt des Inkrafttretens dieser Verordnung als Ausgangsmaterial zur Gewinnung von "Ausgewähltem Vermehrungsgut" nach dem Gesetz über forstliches Saat- und Pflanzgut in der Fassung der Bekanntmachung vom 26. Juli 1979 (BGBl. I S. 1242), zuletzt geändert durch Artikel 201 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), zugelassen waren, können ohne weitere Überprüfung unter der Kategorie "Qualifiziert" registriert werden.
 
-
-## § 2
+# § 2
 
 Im Register über zugelassenes Ausgangsmaterial nach § 6 Abs. 1 des Forstvermehrungsgutgesetzes sind die in Anlage 3 dieser Verordnung festgelegten Angaben zu machen.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)  Anforderungen an die Zulassung von Ausgangsmaterial unter den Kategorien "Ausgewählt", "Qualifiziert" und "Geprüft"
+# Anlage 1 – (zu § 1 Abs. 1)  Anforderungen an die Zulassung von Ausgangsmaterial unter den Kategorien "Ausgewählt", "Qualifiziert" und "Geprüft"
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4722 - 4726)
 
@@ -581,8 +573,7 @@ Eine vorläufige Zulassung für einen Zeitraum von höchstens zehn Jahren kann e
 
 Versuche in Baumschulen, Gewächshäusern und Laboratorien können als Grundlage für die vorläufige oder die endgültige Zulassung dienen, wenn nachgewiesen werden kann, dass zwischen dem untersuchten Merkmal und den Merkmalen, wie sie normalerweise in forstlichen Feldversuchen geprüft worden wären, ein enger Zusammenhang besteht. Die anderen zu prüfenden Merkmale müssen die Anforderungen nach Nummer 3 erfüllen.
 
-
-## Anlage 2 – (zu § 1 Abs. 2)  Anforderungen an die Zulassung von Ausgangsmaterial unter der Kategorie "Quellengesichert"
+# Anlage 2 – (zu § 1 Abs. 2)  Anforderungen an die Zulassung von Ausgangsmaterial unter der Kategorie "Quellengesichert"
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4727
 
@@ -590,8 +581,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4727
 
 2. Zweck: Die Zulassung darf nur der Erzeugung von Vermehrungsgut dienen, das nicht für forstliche Zwecke verwendet werden soll.
 
-
-## Anlage 3 – (zu § 2)  Angaben im Register über zugelassenes Ausgangsmaterial gemäß § 6 Abs. 1 des Forstvermehrungsgutgesetzes (FoVG)
+# Anlage 3 – (zu § 2)  Angaben im Register über zugelassenes Ausgangsmaterial gemäß § 6 Abs. 1 des Forstvermehrungsgutgesetzes (FoVG)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4728 - 2729
 

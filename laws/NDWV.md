@@ -1,10 +1,7 @@
-# [NDWV] Verordnung zur Festlegung von Dosiswerten für frühe Notfallschutzmaßnahmen  (Notfall-Dosiswerte-Verordnung - NDWV)
-
-Ausfertigungsdatum: 29.11.2018
-
+% Verordnung zur Festlegung von Dosiswerten für frühe Notfallschutzmaßnahmen  (Notfall-Dosiswerte-Verordnung - NDWV)
+% Ausfertigungsdatum: 29.11.2018
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung legt zum Schutz der Bevölkerung vor den Gefahren ionisierender Strahlung Dosiswerte fest, die bei einem Notfall im Sinne des § 5 Absatz 26 des Strahlenschutzgesetzes als radiologische Kriterien für die Angemessenheit folgender Schutzmaßnahme dienen:
 
@@ -14,8 +11,7 @@ Diese Verordnung legt zum Schutz der Bevölkerung vor den Gefahren ionisierender
 
 3. Evakuierung.
 
-
-## § 2 – Aufforderung zum Aufenthalt in Gebäuden
+# § 2 – Aufforderung zum Aufenthalt in Gebäuden
 
 (1) Radiologisches Kriterium für die Angemessenheit einer Aufforderung der Bevölkerung zum Aufenthalt in Gebäuden ist eine effektive Dosis von 10 Millisievert, die betroffene Personen ohne Schutzmaßnahmen bei einem Daueraufenthalt im Freien innerhalb von sieben Tagen erhalten würden.
 
@@ -27,8 +23,7 @@ Diese Verordnung legt zum Schutz der Bevölkerung vor den Gefahren ionisierender
 
 (3) Die Schätzung des Dosiswerts erfolgt ohne Berücksichtigung sonstiger Schutzfaktoren.
 
-
-## § 3 – Aufforderung zur Einnahme von Jodtabletten
+# § 3 – Aufforderung zur Einnahme von Jodtabletten
 
 (1) Radiologisches Kriterium für die Angemessenheit einer Aufforderung zur Einnahme von Jodtabletten ist
 
@@ -40,8 +35,7 @@ Diese Verordnung legt zum Schutz der Bevölkerung vor den Gefahren ionisierender
 
 (3) Die Schätzung des Werts der Folge-Organ-Äquivalentdosis der Schilddrüse erfolgt ohne Berücksichtigung sonstiger Schutzfaktoren.
 
-
-## § 4 – Evakuierung
+# § 4 – Evakuierung
 
 (1) Radiologisches Kriterium für die Angemessenheit einer Evakuierung ist eine effektive Dosis von 100 Millisievert, die betroffene Personen ohne Schutzmaßnahmen bei einem Daueraufenthalt im Freien innerhalb von sieben Tagen erhalten würden.
 
@@ -53,7 +47,6 @@ Diese Verordnung legt zum Schutz der Bevölkerung vor den Gefahren ionisierender
 
 (3) Die Schätzung des Dosiswerts erfolgt ohne Berücksichtigung sonstiger Schutzfaktoren.
 
-
-## § 5 – Entsprechende Anwendung der Strahlenschutzverordnung
+# § 5 – Entsprechende Anwendung der Strahlenschutzverordnung
 
 Für die Schätzung der Dosiswerte nach dieser Verordnung gelten die §§ 1 und 171 sowie die Anlage 18 der Strahlenschutzverordnung entsprechend.

@@ -1,20 +1,15 @@
-# [FleiMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Fleischer-Handwerk  (Fleischermeisterverordnung - FleiMstrV)
-
-Ausfertigungsdatum: 04.10.2012
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Fleischer-Handwerk  (Fleischermeisterverordnung - FleiMstrV)
+% Ausfertigungsdatum: 04.10.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung, der zuletzt durch Artikel 3 Nummer 1 des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen. Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im Fleischer-Handwerk.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 Im Fleischer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
@@ -60,15 +55,13 @@ Im Fleischer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten 
 
 21. durchgeführte Leistungen dokumentieren sowie Nachkalkulationen durchführen und die Auftragsabwicklung auswerten.
 
-
-## § 3 – Ziel und Gliederung des Teils I
+# § 3 – Ziel und Gliederung des Teils I
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei wesentliche Tätigkeiten des Fleischer-Handwerks meisterhaft verrichten kann.
 
 (2) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen werden vom Meisterprüfungsausschuss festgelegt. Hierzu sollen Vorschläge des Prüflings berücksichtigt werden. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept, einschließlich einer Zeit- und Materialbedarfsplanung. Dieses hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Anforderungen entspricht.
 
@@ -78,8 +71,7 @@ Im Fleischer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten 
 
 (4) Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 30 Prozent, die durchgeführten Arbeiten mit 50 Prozent und die Dokumentationsunterlagen mit 20 Prozent gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
@@ -89,8 +81,7 @@ Im Fleischer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten 
 
 3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Prüfungsdauer und Bestehen des Teils I
+# § 6 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert drei Arbeitstage. Das Fachgespräch soll höchstens 30 Minuten dauern.
 
@@ -98,8 +89,7 @@ Im Fleischer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten 
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 7 – Ziel, Gliederung und Inhalt des Teils II
+# § 7 – Ziel, Gliederung und Inhalt des Teils II
 
 (1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2 Satz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Fleischer-Handwerk zur Lösung komplexer beruflicher Aufgabenstellungen anwendet.
 
@@ -165,8 +155,7 @@ j) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen, Konse
 
 § 7 Abs. 1 Kursivdruck: Müsste richtig lauten "Absatz 2 Satz 3 Nummer 1 bis 3"
 
-
-## § 8 – Prüfungsdauer und Bestehen des Teils II
+# § 8 – Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -180,21 +169,18 @@ j) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen, Konse
 
 2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
-
-## § 9 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 9 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 10 – Übergangsvorschrift
+# § 10 – Übergangsvorschrift
 
 (1) Die bis zum 31. Dezember 2012 begonnenen Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2013, sind auf Verlangen des Prüflings die bis zum 31. Dezember 2012 geltenden Vorschriften anzuwenden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum 31. Dezember 2012 geltenden Vorschriften nicht bestanden haben und sich bis zum 31. Dezember 2014 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum 31. Dezember 2012 geltenden Vorschriften ablegen.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt die Fleischermeisterverordnung vom 19. Juni 1996 (BGBl. I S. 882), die durch Artikel 4 der Verordnung vom 19. Oktober 2007 (BGBl. I S. 2461) geändert worden ist, außer Kraft.

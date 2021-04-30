@@ -1,15 +1,11 @@
-# [GlasblAusbV] Verordnung über die Berufsausbildung zum Glasbläser/zur Glasbläserin
-
-Ausfertigungsdatum: 19.06.1998
-
+% Verordnung über die Berufsausbildung zum Glasbläser/zur Glasbläserin
+% Ausfertigungsdatum: 19.06.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung von 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 9 des Gesetzes vom 25. März 1998 (BGBl. I S. 596) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Glasbläser/Glasbläserin wird
 
@@ -19,8 +15,7 @@ Der Ausbildungsberuf Glasbläser/Glasbläserin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer, Fachrichtungen
+# § 2 – Ausbildungsdauer, Fachrichtungen
 
 Die Ausbildung im Ausbildungsberuf Glasbläser/Glasbläserin dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -32,8 +27,7 @@ Die Ausbildung im Ausbildungsberuf Glasbläser/Glasbläserin dauert drei Jahre. 
 
 gewählt werden.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -77,25 +71,21 @@ gewählt werden.
 
 2. Herstellen der Augenform.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -121,8 +111,7 @@ dabei sollen die Bereiche Vollglas und Hohlglas mit mindestens je einer Arbeitsp
 
 5. berufsbezogene Berechnungen.
 
-
-## § 8 – Abschlussprüfung/Gesellenprüfung
+# § 8 – Abschlussprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -270,13 +259,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum/zur Glasbläser/zur Glasbläserin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum/zur Glasbläser/zur Glasbläserin
 
 (Fundstelle: BGBl. I 1998, 1615 - 1619)
 

@@ -1,15 +1,11 @@
-# [AgrarservMeistPrV] Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin  (Agrarservicemeisterprüfungsverordnung - AgrarservMeistPrV)
-
-Ausfertigungsdatum: 18.08.2010
-
+% Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Agrarservicemeister und Agrarservicemeisterin  (Agrarservicemeisterprüfungsverordnung - AgrarservMeistPrV)
+% Ausfertigungsdatum: 18.08.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 3 durch Artikel 232 Nummer 3 Buchstabe b der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die durch die berufliche Fortbildung zum Agrarservicemeister und zur Agrarservicemeisterin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -29,8 +25,7 @@ Prüfen der betrieblichen und persönlichen Ausbildungsvoraussetzungen; Planen d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Agrarservicemeister oder Agrarservicemeisterin.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -46,8 +41,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Meisterprüfung
+# § 3 – Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Prüfungsteile
 
@@ -59,8 +53,7 @@ nachweist.
 
 (2) Die Meisterprüfung ist nach Maßgabe der §§ 4 bis 6 durchzuführen.
 
-
-## § 4 – Anforderungen im Prüfungsteil „Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen“
+# § 4 – Anforderungen im Prüfungsteil „Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen“
 
 (1) Der Prüfling soll nachweisen, dass er die pflanzliche Produktion und Maßnahmen der Landschaftspflege einschließlich des jeweils damit verbundenen Einsatzes von Arbeitskräften, Maschinen, Geräten, Betriebseinrichtungen und Betriebsstoffen planen, durchführen und beurteilen kann. Hierbei soll gezeigt werden, dass die entsprechenden Maßnahmen qualitätsorientiert und wirtschaftlich unter Beachtung von Kundenanforderungen, berufsbezogener Rechtsvorschriften, des Umwelt-, Boden- und Naturschutzes, des Arbeits- und Gesundheitsschutzes sowie der Erfordernisse des Marktes durchgeführt werden können.
 
@@ -98,8 +91,7 @@ nachweist.
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz 2 aufgeführten Inhalten. Für die schriftliche Prüfung stehen 180 Minuten zur Verfügung.
 
-
-## § 5 – Anforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
+# § 5 – Anforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
@@ -131,8 +123,7 @@ nachweist.
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu komplexen Fragestellungen aus den in Absatz 2 aufgeführten Inhalten. Für die schriftliche Prüfung stehen 180 Minuten zur Verfügung.
 
-
-## § 6 – Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
+# § 6 – Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter führen kann sowie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
@@ -248,13 +239,11 @@ nachweist.
 
 (12) In der Fallstudie soll der Prüfling eine vom Prüfungsausschuss vorgegebene Situation der Mitarbeiterführung, die sich auf die in den Absätzen 7 und 8 aufgeführten Kompetenzen bezieht, analysieren, Handlungsoptionen entwickeln, schriftlich darlegen und diese in einem Fachgespräch erläutern. Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das darauf aufbauende Fachgespräch soll nicht länger als 20 Minuten dauern.
 
-
-## § 7 – Anrechnung anderer Prüfungsleistungen
+# § 7 – Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung einzelner Prüfungsbestandteile nach § 4 Absatz 3, § 5 Absatz 3 und § 6 Absatz 9 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
-
-## § 8 – Bestehen der Meisterprüfung
+# § 8 – Bestehen der Meisterprüfung
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Prüfungsteil „Pflanzenproduktion, Verfahrens- und Agrartechnik, Dienstleistungen“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 4 Absatz 4 und in der Prüfung nach § 4 Absatz 5 zu bilden; dabei hat die Note in der Prüfung nach § 4 Absatz 4 das doppelte Gewicht. Für den Prüfungsteil „Betriebs- und Unternehmensführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 5 Absatz 4 und in der Prüfung nach § 5 Absatz 5 zu bilden. Für den Prüfungsteil „Berufsausbildung und Mitarbeiterführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in den Prüfungen nach § 6 Absatz 10 und 11 im Abschnitt Berufsausbildung sowie der Leistung in der Prüfung nach § 6 Absatz 12 im Abschnitt Mitarbeiterführung zu bilden, dabei ist die Note für den Abschnitt Berufsausbildung mit 60 Prozent und die Note für den Abschnitt Mitarbeiterführung mit 40 Prozent zu gewichten. Die Note für den Abschnitt Berufsausbildung ist als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 6 Absatz 10 und in der Prüfung nach § 6 Absatz 11 zu bilden; dabei hat die Note in der Prüfung nach § 6 Absatz 10 das doppelte Gewicht.
 
@@ -264,15 +253,13 @@ Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung einzelner 
 
 (4) Die Prüfungen nach § 4 Absatz 5, § 5 Absatz 5 und § 6 Absatz 11 sind jeweils durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung von Bedeutung sind. Die Ergänzungsprüfung soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung des Ergebnisses sind jeweils die bisherige Note der Prüfung und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Wiederholung der Meisterprüfung
+# § 9 – Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von der Prüfung in einzelnen Prüfungsteilen nach § 3 Absatz 1 und in den einzelnen Prüfungsbestandteilen nach § 8 Absatz 1 zu befreien, wenn die Leistungen darin in einer vorangegangenen Prüfung min-destens mit der Note „ausreichend“ bewertet worden sind und der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 10 – Übergangsvorschriften
+# § 10 – Übergangsvorschriften
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 

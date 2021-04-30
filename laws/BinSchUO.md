@@ -1,12 +1,7 @@
-# [BinSchUO] Verordnung über die Schiffssicherheit in der Binnenschifffahrt ,    (Binnenschiffsuntersuchungsordnung - BinSchUO)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Verordnung über die Schiffssicherheit in der Binnenschifffahrt ,    (Binnenschiffsuntersuchungsordnung - BinSchUO)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -48,8 +43,9 @@ Ausfertigungsdatum: 21.09.2018
 
  
 
+ 
 
-## § 1 – Geltungs- und Anwendungsbereich
+# § 1 – Geltungs- und Anwendungsbereich
 
 (1) Diese Verordnung regelt für Fahrzeuge, schwimmende Anlagen und Schwimmkörper auf den in Anhang I bezeichneten Wasserstraßen des Bundes
 
@@ -115,8 +111,7 @@ d) bei Sportfahrzeugen, die nicht unter eines der in Buchstabe a genannten Über
 
 (8) Mit den Vorschriften des ES-TRIN wird die von der Zentralkommission für die Rheinschifffahrt beschlossene Rheinschiffsuntersuchungsordnung in der am 7. Dezember 2017 geänderten Fassung<span id="FnR.F804091_03"></span><a href="#F804091_03" class="FnR">3</a></sup> auf der Bundeswasserstraße Rhein in Kraft gesetzt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung ist oder sind
 
@@ -286,8 +281,7 @@ Binnenschifffahrtskostenverordnung vom 21. Dezember 2001 (BGBl. I S. 4218), die 
 
 28. „Tiefgang“ („T“) der senkrechte Abstand vom tiefsten Punkt des Schiffskörpers, ohne Berücksichtigung des Kiels oder anderer fester Anbauten, bis zur Ebene der größten Einsenkung des Schiffskörpers, in Metern.
 
-
-## § 3 – Zuständige Behörden
+# § 3 – Zuständige Behörden
 
 (1) Zuständige Behörde für
 
@@ -323,8 +317,7 @@ ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehr
 
 (4) Zuständige Behörde für die Zulassung und Baumusterprüfung von Kompassen und Steuerkurstransmittern sowie für die Überprüfung der Aufstellung von Magnetkompassen im Sinne des Anhangs III § 6.02 und für die Anerkennung von Regulierern für solche Kompasse und Steuerkurstransmitter ist das Bundesamt für Seeschifffahrt und Hydrographie in Hamburg.
 
-
-## § 4 – Untersuchungskommissionen
+# § 4 – Untersuchungskommissionen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt beruft die Mitglieder der Untersuchungskommissionen. Jede Untersuchungskommission besteht aus einem Vorsitzenden und aus Sachverständigen. Als Sachverständige sind in jede Untersuchungskommission mindestens zu berufen
 
@@ -350,8 +343,7 @@ ist die vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehr
 
 (+++ § 4 Abs. 4 Satz 2: Zur Anwendung vgl. § 8.01 EingS u. Nr. 3 Satz 2 BinSchUO2018Anh II +++)
 
-
-## § 5 – Technische Zulassung zum Verkehr
+# § 5 – Technische Zulassung zum Verkehr
 
 (1) Ein Fahrzeug darf am Verkehr nur teilnehmen, wenn es zum Verkehr technisch zugelassen worden ist und den Voraussetzungen der technischen Zulassung entspricht.
 
@@ -397,8 +389,7 @@ bei höchstzulässiger Einsenkung eine Wasserverdrängung von weniger als 15 m³
 
 (+++ § 5 Abs. 8: Zur Anwendung vgl. § 8.01 EingS u. Nr. 1 Satz 1 BinSchUO2018Anh II +++)
 
-
-## § 6 – Voraussetzung für die Zulassung
+# § 6 – Voraussetzung für die Zulassung
 
 (1) Die technische Zulassung zum Verkehr wird nach der Untersuchung durch eine Untersuchungskommission von der Generaldirektion Wasserstraßen und Schifffahrt durch die Erteilung einer Fahrtauglichkeitsbescheinigung nachgewiesen.
 
@@ -428,8 +419,7 @@ entsprechen.
 
 (+++ § 6 Abs. 1 iVm Abs. 4: Zur Anwendung vgl. § 8.01 EingS u. Nr. 1 Satz 1 BinSchUO2018Anh II +++)
 
-
-## § 7 – Fahrtauglichkeitsbescheinigung
+# § 7 – Fahrtauglichkeitsbescheinigung
 
 (1) Die technische Zulassung eines Fahrzeugs, einer schwimmenden Anlage oder eines Schwimmkörpers zum Verkehr wird durch eine Fahrtauglichkeitsbescheinigung nachgewiesen. Als Fahrtauglichkeitsbescheinigungen gelten:
 
@@ -494,8 +484,7 @@ b) hinsichtlich Bau, Einrichtung und Ausrüstung den Anforderungen dieser Übere
 
 "Attest für Seeschiffe außerhalb des Rheins".
 
-
-## § 8 – Andere Fahrtauglichkeitsbescheinigungen und Bescheinigungen für die Besatzung
+# § 8 – Andere Fahrtauglichkeitsbescheinigungen und Bescheinigungen für die Besatzung
 
 (1) Die Eignung für die Fahrt auf den Wasserstraßen der Zonen 1 und 2 wird nachgewiesen durch einen entsprechenden Eintrag im zusätzlichen Unionszeugnis in Verbindung mit einem von einem Mitgliedstaat der Europäischen Union erteilten Unionszeugnis oder Schiffsattest, das dem jeweiligen Muster der Anlage 3 des ES-TRIN entspricht.
 
@@ -525,8 +514,7 @@ bescheinigt wird.
 
 (7) Eine von einer zuständigen Behörde eines Landes erteilte Fahrtauglichkeitsbescheinigung steht einer nach dieser Verordnung erteilten Fahrtauglichkeitsbescheinigung gleich, soweit sie nicht unter Gewährung von Erleichterungen oder mit örtlichen Einschränkungen erteilt worden ist.
 
-
-## § 9 – Antrag auf Untersuchung
+# § 9 – Antrag auf Untersuchung
 
 (1) Der Eigner, der Ausrüster oder sein Bevollmächtigter muss die Untersuchung des Fahrzeugs bei der Generaldirektion Wasserstraßen und Schifffahrt beantragen. Für den Antrag ist das in Anhang V abgedruckte Muster 1 zu verwenden.
 
@@ -536,8 +524,7 @@ bescheinigt wird.
 
 2. Ort und Zeitpunkt der Untersuchung.
 
-
-## § 10 – Vorführung des Fahrzeugs zur Untersuchung
+# § 10 – Vorführung des Fahrzeugs zur Untersuchung
 
 (1) Der Eigner, der Ausrüster oder sein Bevollmächtigter hat das Fahrzeug ausgerüstet, unbeladen und gereinigt zur Untersuchung vorzuführen. Er hat bei der Untersuchung die erforderliche Hilfe zu leisten, insbesondere sind ein geeignetes Boot und Personal zur Verfügung zu stellen und die Teile des Schiffskörpers oder der Einrichtungen freizulegen, die nicht unmittelbar zugänglich oder sichtbar sind.
 
@@ -555,8 +542,7 @@ von Fahrzeugen mit Maschinenantrieb und Verbänden.
 
 (5) Beim Neubau eines Fahrzeugs mit einer Länge von mehr als 110 m oder beim Umbau eines in Betrieb befindlichen Fahrzeugs auf eine Länge von mehr als 110 m hat der Eigner, der Ausrüster oder sein Bevollmächtigter die Generaldirektion Wasserstraßen und Schifffahrt vor Baubeginn zu benachrichtigen. Satz 1 gilt nicht für Seeschiffe. Die Untersuchungskommission führt während der Bauphase Besichtigungen durch. Die Besichtigungen können entfallen, wenn vor Baubeginn eine Bescheinigung vorgelegt wird, in der eine anerkannte Klassifikationsgesellschaft versichert, dass sie die Bauaufsicht durchführt.
 
-
-## § 11 – Erteilung einer Fahrtauglichkeitsbescheinigung
+# § 11 – Erteilung einer Fahrtauglichkeitsbescheinigung
 
 (1) Entspricht ein Fahrzeug, eine schwimmende Anlage oder ein Schwimmkörper den Bestimmungen über Bau, Einrichtung und Ausrüstung dieser Verordnung, wird eine Fahrtauglichkeitsbescheinigung nach § 7 erteilt.
 
@@ -568,30 +554,25 @@ von Fahrzeugen mit Maschinenantrieb und Verbänden.
 
 (+++ § 11: Zur Anwendung vgl. § 8.01 EingS u. Nr. 3 Satz 1 BinSchUO2018Anh II +++)
 
-
-## § 12 – Befristungen einer Fahrtauglichkeitsbescheinigung
+# § 12 – Befristungen einer Fahrtauglichkeitsbescheinigung
 
 Liegen die Voraussetzungen des § 48 oder § 49 des Verwaltungsverfahrensgesetzes vor, so kann die Generaldirektion Wasserstraßen und Schifffahrt statt einer Rücknahme oder eines Widerrufes einer Fahrtauglichkeitsbescheinigung diese auch nachträglich befristen.
 
-
-## § 13 – Auflagen für eine Fahrtauglichkeitsbescheinigung
+# § 13 – Auflagen für eine Fahrtauglichkeitsbescheinigung
 
 Liegen die Voraussetzungen des § 48 oder § 49 des Verwaltungsverfahrensgesetzes vor, so kann die Generaldirektion Wasserstraßen und Schifffahrt statt einer Rücknahme oder eines Widerrufes einer Fahrtauglichkeitsbescheinigung diese auch nachträglich mit Auflagen versehen.
 
-
-## § 14 – Entzug einer Fahrtauglichkeitsbescheinigung
+# § 14 – Entzug einer Fahrtauglichkeitsbescheinigung
 
 Erfüllt ein Fahrzeug, eine schwimmende Anlage oder ein Schwimmkörper nicht mehr die seinem Zeugnis entsprechenden technischen Vorschriften, so kann die Generaldirektion Wasserstraßen und Schifffahrt jede gültige Fahrtauglichkeitsbescheinigung entziehen. Die §§ 12 und 13 dieser Verordnung und die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
-
-## § 15 – Änderung einer Fahrtauglichkeitsbescheinigung
+# § 15 – Änderung einer Fahrtauglichkeitsbescheinigung
 
 (1) Der Eigner, der Ausrüster oder sein Bevollmächtigter hat der Generaldirektion Wasserstraßen und Schifffahrt jede Namensänderung, jeden Eigentumswechsel, jede neue Eichung und jede Änderung der Registrierung oder des Heimatorts des Fahrzeugs mitzuteilen. Er hat dabei die Fahrtauglichkeitsbescheinigung zur Eintragung der Änderung vorzulegen.
 
 (2) Nimmt die Generaldirektion Wasserstraßen und Schifffahrt eine Änderung der Fahrtauglichkeitsbescheinigung nach Anlage 3 ES-TRIN vor oder trägt sie einen Vermerk ein, so hat sie dies der zuständigen Behörde, die die Fahrtauglichkeitsbescheinigung erteilt hat, mitzuteilen.
 
-
-## § 16 – Zurückbehalten einer Fahrtauglichkeitsbescheinigung
+# § 16 – Zurückbehalten einer Fahrtauglichkeitsbescheinigung
 
 (1) Hat die Untersuchungskommission bei einer Untersuchung festgestellt, dass ein Fahrzeug oder seine Ausrüstung erhebliche Mängel aufweist, und dass dadurch die Sicherheit der an Bord befindlichen Personen oder der Schifffahrt gefährdet wird, so hat die Generaldirektion Wasserstraßen und Schifffahrt
 
@@ -607,8 +588,7 @@ Bei Schubleichtern ist auch die Metalltafel nach § 1.10 Nummer 2 der Rheinschif
 
 (4) Muss die Generaldirektion Wasserstraßen und Schifffahrt beim Zurückbehalten der Fahrtauglichkeitsbescheinigung davon ausgehen, dass die Mängel nicht in absehbarer Zeit beseitigt werden, so schickt sie die Fahrtauglichkeitsbescheinigung der zuständigen Behörde zu, die diese Fahrtauglichkeitsbescheinigung erteilt oder als Letzte erneuert hat.
 
-
-## § 17 – Ersatz einer Fahrtauglichkeitsbescheinigung
+# § 17 – Ersatz einer Fahrtauglichkeitsbescheinigung
 
 (1) Der Verlust einer Fahrtauglichkeitsbescheinigung muss der Generaldirektion Wasserstraßen und Schifffahrt mitgeteilt werden.
 
@@ -616,13 +596,11 @@ Bei Schubleichtern ist auch die Metalltafel nach § 1.10 Nummer 2 der Rheinschif
 
 (3) Die Generaldirektion Wasserstraßen und Schifffahrt stellt jeweils eine Ersatzausfertigung aus, die als solche zu bezeichnen ist.
 
-
-## § 18 – Rückgabe einer Fahrtauglichkeitsbescheinigung
+# § 18 – Rückgabe einer Fahrtauglichkeitsbescheinigung
 
 Ist ein Fahrzeug endgültig stillgelegt oder abgewrackt worden, so hat der Eigner die Fahrtauglichkeitsbescheinigung an die Generaldirektion Wasserstraßen und Schifffahrt zurückzugeben, sofern diese die ausstellende Behörde war.
 
-
-## § 19 – Gültigkeitsdauer einer Fahrtauglichkeitsbescheinigung
+# § 19 – Gültigkeitsdauer einer Fahrtauglichkeitsbescheinigung
 
 (1) Die Gültigkeitsdauer einer Fahrtauglichkeitsbescheinigung wird von der Generaldirektion Wasserstraßen und Schifffahrt festgelegt. Sie beträgt höchstens
 
@@ -642,8 +620,7 @@ Die Gültigkeitsdauer wird in der Fahrtauglichkeitsbescheinigung vermerkt.
 
 (6) Für Fahrzeuge, die vor der Untersuchung schon in Betrieb gewesen sind, legt die Generaldirektion Wasserstraßen und Schifffahrt die Gültigkeitsdauer der Fahrtauglichkeitsbescheinigung je nach dem Ergebnis der Untersuchung fest. Die Gültigkeitsdauer darf jedoch die in den Absätzen 1 bis 5 vorgeschriebenen Fristen nicht überschreiten.
 
-
-## § 20 – Vorläufige Fahrtauglichkeitsbescheinigung
+# § 20 – Vorläufige Fahrtauglichkeitsbescheinigung
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann vorläufige Fahrtauglichkeitsbescheinigungen für Fahrzeuge, schwimmende Anlagen oder Schwimmkörper erteilen.
 
@@ -679,29 +656,25 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 (4) Die Generaldirektion Wasserstraßen und Schifffahrt kann die vorläufige Fahrtauglichkeitsbescheinigung mit Auflagen versehen, die sie für erforderlich hält.
 
-
-## § 21 – Verzeichnis der Fahrtauglichkeitsbescheinigungen
+# § 21 – Verzeichnis der Fahrtauglichkeitsbescheinigungen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt versieht jede von ihr erteilte Fahrtauglichkeitsbescheinigung mit einer laufenden Nummer. Sie führt ein Verzeichnis aller von ihr erteilten Fahrtauglichkeitsbescheinigungen nach Anlage 3 Abschnitt VI ES-TRIN.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt hat von jeder Fahrtauglichkeitsbescheinigung, die sie erteilt hat, die Urschrift oder eine Kopie aufzubewahren. In diese sind alle Vermerke und Änderungen sowie Ungültigkeitserklärungen und Neuerteilungen einzutragen. Sie aktualisiert das Verzeichnis der Fahrtauglichkeitsbescheinigungen entsprechend.
 
-
-## § 22 – Auskünfte
+# § 22 – Auskünfte
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt darf Personen, die ein begründetes Interesse glaubhaft machen, Einsicht in die Fahrtauglichkeitsbescheinigung eines Fahrzeugs gestatten und diesen Personen Auszüge daraus oder beglaubigte Abschriften aushändigen.
 
 (2) Die Auszüge und beglaubigten Kopien sind als solche zu bezeichnen.
 
-
-## § 23 – Kosten
+# § 23 – Kosten
 
 (1) Der Eigner eines Fahrzeugs oder sein Bevollmächtigter trägt die Kosten, die durch die Untersuchung des Fahrzeugs und die Erteilung der Fahrtauglichkeitsbescheinigung entstehen, nach Maßgabe der Binnenschifffahrtskostenverordnung.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt kann vor der Untersuchung einen Vorschuss bis zur Höhe der voraussichtlichen Kosten verlangen.
 
-
-## § 24 – Wiederkehrende Untersuchung
+# § 24 – Wiederkehrende Untersuchung
 
 (1) Vor Ablauf der Gültigkeit der Fahrtauglichkeitsbescheinigung muss das Fahrzeug einer wiederkehrenden Untersuchung unterzogen werden.
 
@@ -711,8 +684,7 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 (+++ § 24: Zur Anwendung vgl. § 8.01 EingS u. Nr. 1 Satz 1 BinSchUO2018Anh II +++)
 
-
-## § 25 – Sonderuntersuchung
+# § 25 – Sonderuntersuchung
 
 (1) Nach jeder wesentlichen Änderung oder Instandsetzung, die auf die Festigkeit des Baues, die Fahr- oder Manövriereigenschaften oder die besonderen Merkmale des Fahrzeugs Einfluss hat, muss das Fahrzeug einer Untersuchungskommission zur Sonderuntersuchung vorgeführt werden, bevor es wieder in Fahrt gesetzt wird.
 
@@ -724,8 +696,7 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 (+++ § 25: Zur Anwendung vgl. § 8.01 EingS u. Nr. 1 Satz 1 BinSchUO2018Anh II +++)
 
-
-## § 26 – Untersuchung von Amts wegen
+# § 26 – Untersuchung von Amts wegen
 
 (1) Ist die für die Sicherheit der Schifffahrt zuständige Generaldirektion Wasserstraßen und Schifffahrt der Ansicht, dass ein Fahrzeug eine Gefahr für die an Bord befindlichen Personen, für die Umwelt oder für die Schifffahrt darstellt, so kann sie die Untersuchung des Fahrzeugs durch eine Untersuchungskommission anordnen.
 
@@ -733,8 +704,7 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 (+++ § 26: Zur Anwendung vgl. § 8.01 EingS u. Nr. 1 Satz 1 BinSchUO2018Anh II +++)
 
-
-## § 27 – Einheitliche europäische Schiffsnummer (ENI)
+# § 27 – Einheitliche europäische Schiffsnummer (ENI)
 
 (1) Jedes Fahrzeug verfügt nur über eine einzige einheitliche europäische Schiffsnummer (ENI), die während der gesamten Lebensdauer des Fahrzeugs unverändert bleibt.
 
@@ -744,8 +714,7 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 (4) Der Eigner muss die ENI auf dem Fahrzeug anbringen lassen.
 
-
-## § 28 – Typgenehmigungen
+# § 28 – Typgenehmigungen
 
 (1) Die zuständigen Behörden erteilen auf Antrag des Herstellers Typgenehmigungen für bestimmte Teile und Ausrüstungen der Fahrzeuge. Mit einer Typgenehmigung bestätigt die zuständige Behörde, dass ein Teil oder eine Ausrüstung den Anforderungen entspricht.
 
@@ -757,8 +726,7 @@ Die vorläufige Fahrtauglichkeitsbescheinigung nach Satz 1 Nummer 3 darf jeweils
 
 (5) Typgenehmigungen und Bestimmungen zum Einbau der Teile und Ausrüstungen und zur Funktionsprüfung nach Maßgabe des Anhangs VII gelten als gleichwertig.
 
-
-## § 29 – Gleichwertigkeiten und Abweichungen
+# § 29 – Gleichwertigkeiten und Abweichungen
 
 (1) Schreiben die Bestimmungen dieser Verordnung vor, dass bestimmte Werkstoffe, Einrichtungen oder Ausrüstungen auf einem Fahrzeug einzubauen oder mitzuführen sind oder dass bestimmte bauliche Maßnahmen zu treffen oder technische oder bauliche Anordnungen vorzusehen sind, so kann die Generaldirektion Wasserstraßen und Schifffahrt nach Maßgabe der Absätze 2 bis 6 zulassen, dass auf einem solchen Fahrzeug andere Werkstoffe, Einrichtungen oder Ausrüstungen eingebaut oder mitgeführt werden oder dass andere bauliche Maßnahmen getroffen werden oder andere bauliche oder technische Anordnungen vorgesehen werden.
 
@@ -784,13 +752,11 @@ praktisch schwer ausführbar ist oder unzumutbar hohe Kosten verursacht, kann di
 
 (+++ § 29 Abs. 3, 4 u. 5: Zur Anwendung vgl. § 30 Satz 2 +++)
 
-
-## § 30 – Nutzung neuer Technologien
+# § 30 – Nutzung neuer Technologien
 
 Zu Versuchszwecken und für einen begrenzten Zeitraum kann die Generaldirektion Wasserstraßen und Schifffahrt für ein Fahrzeug mit technischen Neuerungen, die von den Bestimmungen des Teils II ES-TRIN abweichen, eine Fahrtauglichkeitsbescheinigung ausstellen, sofern diese Neuerungen eine hinreichende Sicherheit bieten. Die Bestimmungen des § 29 Absatz 3, 4 und 5 gelten entsprechend.
 
-
-## § 31 – Grundsatz
+# § 31 – Grundsatz
 
 Ein Fahrzeug, auf dem entgeltlich oder anderweitig geschäfts- oder erwerbsmäßig Personen befördert werden (Fahrgäste), muss den Anforderungen
 
@@ -808,8 +774,7 @@ Ein Fahrzeug, auf dem entgeltlich oder anderweitig geschäfts- oder erwerbsmäß
 
 entsprechen. Als Entgelt gelten auch wirtschaftliche Vorteile, die nur mittelbar für die Wirtschaftlichkeit einer auf diese Weise geförderten Erwerbstätigkeit erstrebt werden. § 8a der Binnenschifffahrt-Sportbootvermietungsverordnung bleibt unberührt.
 
-
-## § 32 – Ausnahmen für Gütermotorschiffe und Sondertransporte
+# § 32 – Ausnahmen für Gütermotorschiffe und Sondertransporte
 
 § 31 gilt nicht für die Beförderung von Fahrgästen
 
@@ -823,8 +788,7 @@ b) die Beförderung von Fahrgästen ausschließlich bei Gelegenheit der Ausübun
 
 Im Falle des Satzes 1 Nummer 2 ist auf die zulässige Anzahl der beförderten Fahrgäste Anhang II § 7.01 Nummer 3 und 4 entsprechend anzuwenden.
 
-
-## § 33 – Ausnahmen für Sportfahrzeuge
+# § 33 – Ausnahmen für Sportfahrzeuge
 
 (1) § 31 gilt nicht für die Beförderung von Fahrgästen
 
@@ -870,8 +834,7 @@ b) einschließlich des Fahrzeugführers nicht mehr als fünf Personen befördert
 
 (4) § 8a der Binnenschifffahrt-Sportbootvermietungsverordnung bleibt unberührt.
 
-
-## § 34 – Übergangsbestimmungen für Sportfahrzeuge
+# § 34 – Übergangsbestimmungen für Sportfahrzeuge
 
 (1) Abweichend von § 31 darf ein Sportfahrzeug mit einer Länge von weniger als 20 Metern, das
 
@@ -889,8 +852,7 @@ bis zum Ablauf des 6. Oktober 2033 zur Beförderung von Fahrgästen in der Betri
 
 (5) Im Übrigen sind die sonstigen für Sportfahrzeuge geltenden Vorschriften anzuwenden.
 
-
-## § 35 – Pflichten des Schiffsführers, Eigentümers, Ausrüsters oder Bevollmächtigten
+# § 35 – Pflichten des Schiffsführers, Eigentümers, Ausrüsters oder Bevollmächtigten
 
 (1) Der Eigentümer, der Ausrüster oder der Bevollmächtigte des Eigentümers oder Ausrüsters haben dafür zu sorgen, dass
 
@@ -1241,8 +1203,7 @@ g) je eine Kopie der Unterlagen nach Artikel 30.01 Nummer 5 ES-TRIN,
 
 3. seine Befähigung an Bord nach Anhang VI § 3.01 Nummer 3 nachweisen.
 
-
-## § 36 – Ordnungswidrigkeiten
+# § 36 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Eigentümer, Ausrüster, Bevollmächtigter des Eigentümers oder Ausrüsters, Schiffsführer oder Mitglied der Besatzung
 
@@ -1360,8 +1321,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 57. entgegen § 35 Absatz 6 Nummer 2 ein Schifferdienstbuch nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 37 – Übergangsbestimmungen
+# § 37 – Übergangsbestimmungen
 
 (1) Werden Fahrtauglichkeitsbescheinigungen erneuert, so gelten für die Fahrzeuge die Übergangsbestimmungen des ES-TRIN sowie der Anhänge II bis IV und VIII.
 
@@ -1389,8 +1349,7 @@ Die Untersuchung wird bei Ablauf der geltenden Fahrtauglichkeitsbescheinigung un
 
 2. Barkassen nach Anhang II Teil II.
 
-
-## § 38 – Weitergeltung bestehender Fahrtauglichkeitsbescheinigungen
+# § 38 – Weitergeltung bestehender Fahrtauglichkeitsbescheinigungen
 
 Fahrtauglichkeitsbescheinigungen und andere Bescheinigungen, die in den Anwendungsbereich dieser Verordnung fallen und
 
@@ -1400,8 +1359,7 @@ Fahrtauglichkeitsbescheinigungen und andere Bescheinigungen, die in den Anwendun
 
 erteilt worden sind, bleiben bis zu ihrem Ablauf gültig.
 
-
-## § 39 – Normen
+# § 39 – Normen
 
 (1) Verweist diese Verordnung bei den Anforderungen an die Beschaffenheit
 
@@ -1411,69 +1369,59 @@ erteilt worden sind, bleiben bis zu ihrem Ablauf gültig.
 
 (2) DIN-, EN- und ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind bei der Beuth-Verlag GmbH, Berlin, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert hinterlegt.
 
-
-## § 40 – Überprüfung
+# § 40 – Überprüfung
 
 Diese Verordnung einschließlich ihrer Anhänge wird im Abstand von zwei Jahren vom Bundesministerium für Verkehr und digitale Infrastruktur überprüft, um für die Sicherheit und Leichtigkeit des Verkehrs sowie für den Arbeits-, Umwelt- und Gewässerschutz erforderliche Anpassungen an internationales Recht vorzunehmen.
 
-
-## Anhang I – (zu § 1 Absatz 1 und § 2 Absatz 1 Nummer 1)Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland
+# Anhang I – (zu § 1 Absatz 1 und § 2 Absatz 1 Nummer 1)Liste der in die geografischen Zonen 1, 2, 3 und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland
 
 (Fundstelle: BGBl. I 2018, 1419 - 1421)
 
 (Text siehe: BinSchUO2018Anh I)
 
-
-## Anhang II – (zu § 1 Absatz 2 Nummer 1, § 6 Absatz 8 und § 31 Satz 1)Nationale Sonderbestimmungen
+# Anhang II – (zu § 1 Absatz 2 Nummer 1, § 6 Absatz 8 und § 31 Satz 1)Nationale Sonderbestimmungen
 
 (Fundstelle: BGBl. I 2018, 1422 - 1458)
 
 (Text siehe: BinSchUO2018Anh II)
 
-
-## Anhang III – (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 3)Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2
+# Anhang III – (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 3)Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2
 
 (Fundstelle: BGBl. I 2018, 1459 - 1471)
 
 (Text siehe: BinSchUO2018Anh III)
 
-
-## Anhang IV – (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 4 und 9)Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
+# Anhang IV – (zu § 1 Absatz 2 Nummer 1 und § 6 Absatz 4 und 9)Eingeschränkte technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 3 außerhalb des Rheins und 4
 
 (Fundstelle: BGBl. I 2018, 1472 - 1474)
 
 (Text siehe: BinSchUO2018Anh IV)
 
-
-## Anhang V – (zu § 1 Absatz 2 Nummer 1, § 7 Absatz 1 Nummer 9 und 10 und § 9 Absatz 1)Nationale Muster
+# Anhang V – (zu § 1 Absatz 2 Nummer 1, § 7 Absatz 1 Nummer 9 und 10 und § 9 Absatz 1)Nationale Muster
 
 (Fundstelle: BGBl. I 2018, 1475 - 1502)
 
 (Text siehe: BinSchUO2018Anh V)
 
-
-## Anhang VI – (zu § 1 Absatz 2 Nummer 1 und 2 Buchstabe b und § 8 Absatz 3)Besatzungsvorschriften
+# Anhang VI – (zu § 1 Absatz 2 Nummer 1 und 2 Buchstabe b und § 8 Absatz 3)Besatzungsvorschriften
 
 (Fundstelle: BGBl. I 2018, 1503 - 1519)
 
 (Text siehe: BinSchUO2018Anh VI)
 
-
-## Anhang VII – (zu § 1 Absatz 2 Nummer 1 und § 28 Absatz 5)Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärungen
+# Anhang VII – (zu § 1 Absatz 2 Nummer 1 und § 28 Absatz 5)Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärungen
 
 (Fundstelle: BGBl. I 2018, 1520)
 
 (Text siehe: BinSchUO2018Anh VII)
 
-
-## Anhang VIII – (zu § 1 Absatz 2 Nummer 1 und § 5 Absatz 2 Nummer 2)Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren
+# Anhang VIII – (zu § 1 Absatz 2 Nummer 1 und § 5 Absatz 2 Nummer 2)Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren
 
 (Fundstelle: BGBl. I 2018, 1521 - 1551)
 
 (Text siehe: BinSchUO2018Anh VIII)
 
-
-## Anhang IX – (zu § 32 Satz 2, § 33 Absatz 2 Satz 1, § 34 Absatz 2 und Anhang II § 7.01 Nummer 4)Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete
+# Anhang IX – (zu § 32 Satz 2, § 33 Absatz 2 Satz 1, § 34 Absatz 2 und Anhang II § 7.01 Nummer 4)Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete
 
 (Fundstelle: BGBl. I 2018, 1552 - 1553)
 

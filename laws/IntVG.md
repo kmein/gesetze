@@ -1,22 +1,17 @@
-# [IntVG] Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestages und des Bundesrates in Angelegenheiten der Europäischen Union  (Integrationsverantwortungsgesetz - IntVG)
-
-Ausfertigungsdatum: 22.09.2009
-
+% Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestages und des Bundesrates in Angelegenheiten der Europäischen Union  (Integrationsverantwortungsgesetz - IntVG)
+% Ausfertigungsdatum: 22.09.2009
  
-
-## § 1 – Integrationsverantwortung
+# § 1 – Integrationsverantwortung
 
 (1) Der Bundestag und der Bundesrat nehmen in Angelegenheiten der Europäischen Union ihre Integrationsverantwortung insbesondere nach Maßgabe der folgenden Bestimmungen wahr.
 
 (2) Der Bundestag und der Bundesrat sollen über Vorlagen nach diesem Gesetz in angemessener Frist beraten und Beschluss fassen und dabei die für die Beschlussfassung auf der Ebene der Europäischen Union maßgeblichen Fristvorgaben berücksichtigen.
 
-
-## § 2 – Vereinfachtes Vertragsänderungsverfahren
+# § 2 – Vereinfachtes Vertragsänderungsverfahren
 
 Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss des Europäischen Rates gemäß Artikel 48 Absatz 6 Unterabsatz 2 und 3 des Vertrags über die Europäische Union erfolgt durch ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes.
 
-
-## § 3 – Besondere Vertragsänderungsverfahren
+# § 3 – Besondere Vertragsänderungsverfahren
 
 (1) Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss des Rates gemäß Artikel 218 Absatz 8 Unterabsatz 2 Satz 2 oder gemäß Artikel 311 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen Union erfolgt durch ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes.
 
@@ -24,15 +19,13 @@ Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss des Europäisc
 
 (3) Der deutsche Vertreter im Europäischen Rat darf einem Beschlussvorschlag gemäß Artikel 42 Absatz 2 Unterabsatz 1 Satz 2 des Vertrags über die Europäische Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem der Bundestag hierzu einen Beschluss gefasst hat. Einen entsprechenden Antrag im Bundestag kann auch die Bundesregierung stellen. Ohne einen solchen Beschluss des Bundestages muss der deutsche Vertreter im Europäischen Rat den Beschlussvorschlag ablehnen. Nachdem ein Beschluss des Europäischen Rates gemäß Artikel 42 Absatz 2 Unterabsatz 1 Satz 2 des Vertrags über die Europäische Union gefasst worden ist, erfolgt eine Zustimmung der Bundesrepublik Deutschland durch ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes.
 
-
-## § 4 – Brückenklauseln
+# § 4 – Brückenklauseln
 
 (1) Der deutsche Vertreter im Europäischen Rat darf einem Beschlussvorschlag gemäß Artikel 48 Absatz 7 Unterabsatz 1 Satz 1 oder Unterabsatz 2 des Vertrags über die Europäische Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem hierzu ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes in Kraft getreten ist. Ohne ein solches Gesetz muss der deutsche Vertreter im Europäischen Rat den Beschlussvorschlag ablehnen.
 
 (2) Der deutsche Vertreter im Rat darf einem Beschlussvorschlag gemäß Artikel 81 Absatz 3 Unterabsatz 2 des Vertrags über die Arbeitsweise der Europäischen Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem hierzu ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes in Kraft getreten ist. Ohne ein solches Gesetz muss der deutsche Vertreter im Rat den Beschlussvorschlag ablehnen.
 
-
-## § 5 – Zustimmung im Europäischen Rat bei besonderen Brückenklauseln
+# § 5 – Zustimmung im Europäischen Rat bei besonderen Brückenklauseln
 
 (1) Der deutsche Vertreter im Europäischen Rat darf einem Beschlussvorschlag gemäß Artikel 31 Absatz 3 des Vertrags über die Europäische Union oder gemäß Artikel 312 Absatz 2 Unterabsatz 2 des Vertrags über die Arbeitsweise der Europäischen Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem der Bundestag hierzu einen Beschluss gefasst hat. Einen entsprechenden Antrag im Bundestag kann auch die Bundesregierung stellen. Ohne einen solchen Beschluss des Bundestages muss der deutsche Vertreter im Europäischen Rat den Beschlussvorschlag ablehnen.
 
@@ -46,34 +39,29 @@ Eine Zustimmung der Bundesrepublik Deutschland zu einem Beschluss des Europäisc
 
 4. deren Regelung durch ein Bundesgesetz der Zustimmung des Bundesrates bedarf.
 
-
-## § 6 – Zustimmung im Rat bei besonderen Brückenklauseln
+# § 6 – Zustimmung im Rat bei besonderen Brückenklauseln
 
 (1) Der deutsche Vertreter im Rat darf einem Beschlussvorschlag gemäß Artikel 153 Absatz 2 Unterabsatz 4, Artikel 192 Absatz 2 Unterabsatz 2 oder Artikel 333 Absatz 1 oder Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem der Bundestag hierzu einen Beschluss gefasst hat. § 5 Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 (2) § 5 Absatz 2 gilt entsprechend.
 
-
-## § 7 – Kompetenzerweiterungsklauseln
+# § 7 – Kompetenzerweiterungsklauseln
 
 (1) Der deutsche Vertreter im Rat darf einem Beschlussvorschlag gemäß Artikel 83 Absatz 1 Unterabsatz 3 oder Artikel 86 Absatz 4 des Vertrags über die Arbeitsweise der Europäischen Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem hierzu ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes in Kraft getreten ist. Ohne ein solches Gesetz muss der deutsche Vertreter im Rat den Beschlussvorschlag ablehnen.
 
 (2) Absatz 1 gilt entsprechend für Satzungsänderungen gemäß Artikel 308 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen Union.
 
-
-## § 8 – Flexibilitätsklausel
+# § 8 – Flexibilitätsklausel
 
 Der deutsche Vertreter im Rat darf einem Vorschlag zum Erlass von Vorschriften gemäß Artikel 352 des Vertrags über die Arbeitsweise der Europäischen Union nur zustimmen oder sich bei einer Beschlussfassung enthalten, nachdem hierzu ein Gesetz gemäß Artikel 23 Absatz 1 des Grundgesetzes in Kraft getreten ist. Ohne ein solches Gesetz muss der deutsche Vertreter im Rat den Vorschlag zum Erlass von Vorschriften ablehnen.
 
-
-## § 9 – Notbremsemechanismus
+# § 9 – Notbremsemechanismus
 
 (1) Der deutsche Vertreter im Rat muss in den Fällen des Artikels 48 Absatz 2 Satz 1, des Artikels 82 Absatz 3 Unterabsatz 1 Satz 1 und des Artikels 83 Absatz 3 Unterabsatz 1 Satz 1 des Vertrags über die Arbeitsweise der Europäischen Union beantragen, den Europäischen Rat zu befassen, wenn der Bundestag ihn hierzu durch einen Beschluss angewiesen hat.
 
 (2) Wenn im Schwerpunkt Gebiete im Sinne des § 5 Absatz 2 betroffen sind, muss der deutsche Vertreter im Rat einen Antrag nach Absatz 1 auch dann stellen, wenn ein entsprechender Beschluss des Bundesrates vorliegt.
 
-
-## § 10 – Ablehnungsrecht bei Brückenklauseln
+# § 10 – Ablehnungsrecht bei Brückenklauseln
 
 (1) Für die Ablehnung einer Initiative des Europäischen Rates gemäß Artikel 48 Absatz 7 Unterabsatz 3 des Vertrags über die Europäische Union gilt:
 
@@ -85,15 +73,13 @@ Der deutsche Vertreter im Rat darf einem Vorschlag zum Erlass von Vorschriften g
 
 (3) Die Absätze 1 und 2 gelten entsprechend für einen Vorschlag der Europäischen Kommission für einen Beschluss des Rates gemäß Artikel 81 Absatz 3 Unterabsatz 3 des Vertrags über die Arbeitsweise der Europäischen Union.
 
-
-## § 11 – Subsidiaritätsrüge
+# § 11 – Subsidiaritätsrüge
 
 (1) Der Bundestag und der Bundesrat können in ihren Geschäftsordnungen regeln, wie eine Entscheidung über die Abgabe einer begründeten Stellungnahme gemäß Artikel 6 des Protokolls über die Anwendung der Grundsätze der Subsidiarität und der Verhältnismäßigkeit herbeizuführen ist.
 
 (2) Der Präsident des Bundestages oder der Präsident des Bundesrates übermittelt die begründete Stellungnahme an die Präsidenten der zuständigen Organe der Europäischen Union und setzt die Bundesregierung darüber in Kenntnis.
 
-
-## § 12 – Subsidiaritätsklage
+# § 12 – Subsidiaritätsklage
 
 (1) Auf Antrag eines Viertels seiner Mitglieder ist der Bundestag verpflichtet, eine Klage gemäß Artikel 8 des Protokolls über die Anwendung der Grundsätze der Subsidiarität und der Verhältnismäßigkeit zu erheben. Auf Antrag eines Viertels seiner Mitglieder, die die Erhebung der Klage nicht stützen, ist deren Auffassung in der Klageschrift deutlich zu machen.
 
@@ -105,8 +91,7 @@ Der deutsche Vertreter im Rat darf einem Vorschlag zum Erlass von Vorschriften g
 
 (5) Wird im Bundestag oder im Bundesrat ein Antrag zur Erhebung einer Klage gemäß Absatz 1 oder gemäß Absatz 2 gestellt, so kann das andere Organ eine Stellungnahme abgeben.
 
-
-## § 13 – Unterrichtung
+# § 13 – Unterrichtung
 
 (1) Die Bundesregierung hat den Bundestag und den Bundesrat in Angelegenheiten dieses Gesetzes umfassend, zum frühestmöglichen Zeitpunkt, fortlaufend und in der Regel schriftlich zu unterrichten. Einzelheiten der Unterrichtungspflichten aufgrund des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union vom 12. März 1993 (BGBl. I S. 311), das durch Artikel 2 Absatz 1 des Gesetzes vom 17. November 2005 (BGBl. I S. 3178) geändert worden ist, des Gesetzes über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der Europäischen Union vom 12. März 1993 (BGBl. I S. 313, 1780), das zuletzt durch Artikel 2 des Gesetzes vom 5. September 2006 (BGBl. I S. 2098) geändert worden ist, und anderer Regelungen bleiben unberührt.
 

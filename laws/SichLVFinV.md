@@ -1,15 +1,11 @@
-# [SichLVFinV] Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer  (SichLVFinV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer  (SichLVFinV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 226 Absatz 7 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Sicherungsvermögen
+# § 1 – Sicherungsvermögen
 
 (1) Im Sicherungsfonds ist ein Sicherungsvermögen bereitzustellen. Der Umfang dieses Sicherungsvermögens soll 1 Promille der Summe der versicherungstechnischen Netto-Rückstellungen aller dem Sicherungsfonds angeschlossenen Versicherungsunternehmen betragen.
 
@@ -17,8 +13,7 @@ Auf Grund des § 226 Absatz 7 des Versicherungsaufsichtsgesetzes vom 1. April 20
 
 (3) Versicherungstechnische Netto-Rückstellungen im Sinne des Absatzes 1 Satz 2 sind die Rückstellungen nach § 341e des Handelsgesetzbuchs ohne die Beträge, die auf das in Rückdeckung gegebene Versicherungsgeschäft entfallen. Es sind die versicherungstechnischen Netto-Rückstellungen zugrunde zu legen, die im Jahresabschluss des Vorjahres der Beitragserhebung gemäß § 7 Absatz 1 oder, wenn nicht vorhanden, im zuletzt aufgestellten Jahresabschluss ausgewiesen sind.
 
-
-## § 2 – Beteiligung am Sicherungsvermögen
+# § 2 – Beteiligung am Sicherungsvermögen
 
 (1) Jedes Mitglied des Sicherungsfonds ist am Sicherungsvermögen beteiligt. Die Höhe der Beteiligung ist nach Maßgabe der Absätze 2 bis 8 zu ermitteln und jährlich neu zu beziffern (Soll-Beteiligung).
 
@@ -44,8 +39,7 @@ Der Kategorie 1 gehören die Mitglieder mit dem günstigsten Risikomaß an, dere
 
 (8) Der Korrekturfaktor ist für die Mitglieder einer Gruppe einheitlich und so zu bemessen, dass die Summe der Soll-Beteiligungen aller Mitglieder einer Gruppe dem auf die jeweilige Gruppe entfallenden Sicherungsvermögen gemäß § 1 Absatz 1 entspricht.
 
-
-## § 3 – Jahresbeiträge und Anteile am Sicherungsvermögen
+# § 3 – Jahresbeiträge und Anteile am Sicherungsvermögen
 
 (1) Die Mitglieder haben Jahresbeiträge zu leisten. Die Summe der Jahresbeiträge aller Mitglieder darf 0,2 Promille der Summe der versicherungstechnischen Netto-Rückstellungen aller Mitglieder nicht übersteigen. Entsprechend ihren Jahresbeiträgen werden den Mitgliedern jeweils zum Zeitpunkt der Zahlung Anteile am Sicherungsvermögen zugeordnet. Die Beitragspflicht beginnt mit Zugehörigkeit zum Sicherungsfonds.
 
@@ -55,8 +49,7 @@ Der Kategorie 1 gehören die Mitglieder mit dem günstigsten Risikomaß an, dere
 
 (4) Die Ist-Beteiligung eines Mitglieds am Fondsvermögen ist zur Bedeckung seiner versicherungstechnischen Rückstellungen im Sinne der §§ 341e bis 341h des Handelsgesetzbuchs geeignet.
 
-
-## § 4 – Höhe der Jahresbeiträge
+# § 4 – Höhe der Jahresbeiträge
 
 (1) Der Sicherungsfonds ermittelt einmal jährlich zum Bewertungsstichtag gemäß § 7 Absatz 2 für jedes Mitglied die Differenz zwischen seiner Soll-Beteiligung und dem Zeitwert seiner Ist-Beteiligung.
 
@@ -70,8 +63,7 @@ Der Kategorie 1 gehören die Mitglieder mit dem günstigsten Risikomaß an, dere
 
 (6) Tritt ein Mitglied in den Sicherungsfonds ein, nachdem der Sicherungsfonds bereits Jahresbeiträge erhoben hat, kann zur Vermeidung von Härten eine Beitragszahlung in Raten vereinbart werden.
 
-
-## § 5 – Sonderbeiträge und Kreditaufnahme
+# § 5 – Sonderbeiträge und Kreditaufnahme
 
 (1) Genügen die Mittel des Sicherungsfonds nicht zur Durchführung seiner gesetzlichen Aufgaben, sind Sonderbeiträge zu erheben. Die Sonderbeiträge müssen unter Berücksichtigung der erwarteten Mittelzuflüsse, insbesondere der Prämieneinnahmen und Veräußerungserlöse, sowie der Fehlbeträge der übernommenen Versicherungsverträge und der entstehenden Verwaltungs- und sonstigen Kosten gewährleisten, dass der Sicherungsfonds über ausreichende Mittel zur Erfüllung seiner gesetzlichen Aufgaben verfügt.
 
@@ -87,13 +79,11 @@ Der Kategorie 1 gehören die Mitglieder mit dem günstigsten Risikomaß an, dere
 
 (7) Reichen die Sonderbeiträge nicht aus, kann der Sicherungsfonds Kredite aufnehmen, um den gemäß § 222 Absatz 4 des Versicherungsaufsichtsgesetzes zu ermittelnden erforderlichen Betrag aufzubringen. Als Kredite gelten auch Mittel, die dem Sicherungsfonds im Falle der Übertragung der Aufgaben und Befugnisse des Sicherungsfonds auf eine juristische Person des Privatrechts gemäß § 224 Absatz 1 des Versicherungsaufsichtsgesetzes aus dem freien Vermögen dieser juristischen Person des Privatrechts zur Verfügung gestellt werden.
 
-
-## § 6 – Befreiung von der Beitragspflicht
+# § 6 – Befreiung von der Beitragspflicht
 
 Die Protektor Lebensversicherungs-AG, Berlin, ist von der Pflicht zur Zahlung von Jahres- und Sonderbeiträgen gemäß den §§ 3 und 5 befreit. Die versicherungstechnischen Netto-Rückstellungen der Protektor Lebensversicherungs-AG bleiben bei der Berechnung der Beiträge der übrigen Mitglieder außer Ansatz.
 
-
-## § 7 – Erhebung der Beiträge
+# § 7 – Erhebung der Beiträge
 
 (1) Die Jahresbeiträge (§ 3) sind spätestens zum 31. Oktober eines jeden Jahres, die Sonderbeiträge (§ 5) bei Bedarf zu erheben. Ihre Höhe ist vom Sicherungsfonds zu ermitteln und durch Bescheid festzusetzen.
 
@@ -111,18 +101,15 @@ Die Protektor Lebensversicherungs-AG, Berlin, ist von der Pflicht zur Zahlung vo
 
 (8) Die fälligen Beiträge werden im Verzugszeitraum taggenau in Höhe des Euribors zuzüglich 5 Prozent pro Jahr verzinst. Für jede nach Fälligkeit ergehende Mahnung wird 1 Prozent des ausstehenden Betrages zur pauschalen Abgeltung der Verwaltungskosten erhoben.
 
-
-## § 8 – Ergebnisse des Sicherungsfonds
+# § 8 – Ergebnisse des Sicherungsfonds
 
 Überschüsse des Sicherungsfonds werden im Folgejahr an die Mitglieder im Verhältnis ihrer Ist-Beteiligungen am Ende des betreffenden Geschäftsjahres ausgezahlt. Die Auszahlung erfolgt spätestens einen Monat nach Feststellung des Jahresabschlusses des Sicherungsfonds.
 
-
-## § 9 – Verwendung des Sicherungsvermögens
+# § 9 – Verwendung des Sicherungsvermögens
 
 Wird das Sicherungsvermögen für die Sanierung eines übernommenen Versicherungsbestandes verwendet, so ist das hierfür eingesetzte Kapital aus den Überschüssen des übernommenen Versicherungsbestandes an die Mitglieder im Verhältnis ihrer Beteiligungen am Kapitaleinsatz zurückzuzahlen, sobald die Aufsichtsbehörde festgestellt hat, dass die Sanierung des Bestandes abgeschlossen ist. Der Kapitaleinsatz des nach § 222 Absatz 7 des Versicherungsaufsichtsgesetzes ausgeschiedenen Mitglieds wird hierbei nicht berücksichtigt.
 
-
-## § 10 – Ausscheiden aus dem Sicherungsfonds
+# § 10 – Ausscheiden aus dem Sicherungsfonds
 
 (1) Scheidet ein Mitglied aus dem Sicherungsfonds aus, wird ihm der Zeitwert seiner Ist-Beteiligung zum Ausscheidungszeitpunkt ausbezahlt. Zur Abgeltung der Verwaltungskosten in Zusammenhang mit dem Ausscheiden des Mitglieds wird ein pauschaler Abschlag in Höhe von 1 Prozent des zurückzuzahlenden Betrages erhoben.
 
@@ -130,12 +117,10 @@ Wird das Sicherungsvermögen für die Sanierung eines übernommenen Versicherung
 
 (3) Etwaige Ansprüche des ausscheidenden Mitglieds nach § 9 bleiben unberührt.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die Vorschriften dieser Verordnung sind erstmals auf die Jahresbeiträge für das Jahr 2017 anzuwenden.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.

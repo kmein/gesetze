@@ -1,10 +1,7 @@
-# [FrSaftErfrischGetrTeeV] Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder  (Fruchtsaft- und Erfrischungsgetränke- und Teeverordnung - FrSaftErfrischGetrTeeV)
-
-Ausfertigungsdatum: 24.05.2004
-
+% Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge und Kleinkinder  (Fruchtsaft- und Erfrischungsgetränke- und Teeverordnung - FrSaftErfrischGetrTeeV)
+% Ausfertigungsdatum: 24.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft verordnet
 
@@ -16,8 +13,7 @@ auf Grund des § 19 Abs. 1 Nr. 1, 2 Buchstabe b, Nr. 3 und 4 Buchstabe a und c d
 
 von denen § 12 Abs. 3 und § 19 Abs. 1 zuletzt durch Artikel 34 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden sind:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die in Anlage 1 aufgeführten Erzeugnisse unterliegen dieser Verordnung, soweit sie dazu bestimmt sind, als Lebensmittel gewerbsmäßig in den Verkehr gebracht zu werden.
 
@@ -25,8 +21,7 @@ von denen § 12 Abs. 3 und § 19 Abs. 1 zuletzt durch Artikel 34 Nr. 1 der Veror
 
 (3) Diese Verordnung gilt nach Maßgabe des Abschnitts 4 auch für Kräuter- und Früchtetee für Säuglinge oder Kleinkinder.
 
-
-## § 2 – Zutaten, Herstellungsanforderungen
+# § 2 – Zutaten, Herstellungsanforderungen
 
 (1) Die Ausgangserzeugnisse für Erzeugnisse nach Anlage 1 müssen den Anforderungen der Anlage 2 entsprechen.
 
@@ -50,8 +45,7 @@ werden.
 
 (8) Unberührt bleiben die Vorschriften über diätetische Lebensmittel sowie über den Zusatz von Vitaminen und Mineralstoffen zu Lebensmitteln.
 
-
-## § 3 – Kennzeichnung
+# § 3 – Kennzeichnung
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in Spalte 1 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung.
 
@@ -91,8 +85,7 @@ Die Angabe nach Satz 1 Nummer 5 hat auf der Verpackung, auf einem an der Verpack
 
 enthält. Ist Zucker von Natur aus in Fruchtnektar enthalten, sollte dieser mit dem zusätzlichen Hinweis auf dem Etikett „Enthält von Natur aus Zucker“ in den Verkehr gebracht werden.
 
-
-## § 4 – Begriffsbestimmungen
+# § 4 – Begriffsbestimmungen
 
 (1) Koffeinhaltige Erfrischungsgetränke im Sinne dieser Verordnung sind Getränke auf der Grundlage von Wasser, die geschmackgebende Zutaten oder Aromen enthalten und denen Koffein oder koffeinhaltige Zutaten zugesetzt worden sind. Sie dürfen zudem weitere Zutaten enthalten. Satz 2 gilt nicht für Alkohol, auch als Zutat oder sonstiger Bestandteil eines alkoholhaltigen Getränkes. Unberührt bleibt ein Alkoholgehalt bis zu einer Menge von 2 Gramm pro Liter, der
 
@@ -102,15 +95,13 @@ enthält. Ist Zucker von Natur aus in Fruchtnektar enthalten, sollte dieser mit 
 
 (2) Energydrinks sind koffeinhaltige Erfrischungsgetränke, die zusätzlich einen oder mehrere der in Anlage 8 Teil B aufgeführten Stoffe enthalten.
 
-
-## § 5 – Besondere Anforderungen an Herstellung und Inverkehrbringen
+# § 5 – Besondere Anforderungen an Herstellung und Inverkehrbringen
 
 (1) Ein koffeinhaltiges Erfrischungsgetränk darf nur so hergestellt oder in den Verkehr gebracht werden, dass im Enderzeugnis Koffein mit einem Gesamtgehalt, einschließlich der aus anderen Zutaten stammenden Gehalte, nicht die in Anlage 8 Teil A festgelegte Höchstmenge übersteigt.
 
 (2) Ein Energydrink darf nur so hergestellt oder in den Verkehr gebracht werden, dass im Enderzeugnis die in Anlage 8 Teil B genannten Stoffe nicht die dort jeweils festgesetzten Höchstmengen übersteigen.
 
-
-## § 6 – Kennzeichnung koffeinhaltiger Erfrischungsgetränke
+# § 6 – Kennzeichnung koffeinhaltiger Erfrischungsgetränke
 
 (1) Koffeinhaltige Erfrischungsgetränke mit einem Koffeingehalt von mehr als 150 Milligramm Koffein pro Liter im verzehrfertigen Zustand, die
 
@@ -130,8 +121,7 @@ dürfen mit dem Ziel der Abgabe an den Endverbraucher oder an Anbieter von Gemei
 
 (3) Im Fall von Absatz 2 Nummer 2 dürfen die vorgeschriebenen Angaben in Fußnoten angebracht werden, wenn bei der Bezeichnung des Lebensmittels auf die entsprechende Fußnote hingewiesen wird.
 
-
-## § 7 – Begriffsbestimmungen
+# § 7 – Begriffsbestimmungen
 
 (1) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder im Sinne dieser Verordnung sind
 
@@ -147,8 +137,7 @@ die nach ihrer Bezeichnung, nach ihren sonstigen Angaben oder Bildzeichen auf de
 
 2. für den Begriff „Kleinkind“ die Begriffsbestimmung gemäß Artikel 2 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 609/2013.
 
-
-## § 8 – Besondere Anforderungen an Herstellung und Inverkehrbringen
+# § 8 – Besondere Anforderungen an Herstellung und Inverkehrbringen
 
 (1) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen nur in Form vorverpackter Lebensmittel in den Verkehr gebracht werden.
 
@@ -168,8 +157,7 @@ verwendet oder zugesetzt werden.
 
 (4) Kräuter- und Früchtetee für Säuglinge oder Kleinkinder, die nicht den Anforderungen nach Absatz 2 Satz 2 oder Absatz 3 entsprechen, dürfen nicht in den Verkehr gebracht werden.
 
-
-## § 9 – Kennzeichnung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+# § 9 – Kennzeichnung von Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
 
 Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen nur in den Verkehr gebracht werden, wenn die Kennzeichnung auf der Verpackung oder auf einem an dieser befestigten Etikett folgende Hinweise enthält:
 
@@ -179,13 +167,11 @@ Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen nur in den Ve
 
 Die Hinweise nach Satz 1 müssen auf der Verpackung gut sichtbar, deutlich und gut lesbar angebracht sein und dürfen in keiner Weise durch andere Angaben oder Bildzeichen oder sonstiges eingefügtes Material verdeckt oder undeutlich gemacht werden.
 
-
-## § 10 – Verkehrsverbote
+# § 10 – Verkehrsverbote
 
 Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung versehen sind, ohne der in Anlage 1 jeweils festgelegten Herstellungsanforderung oder § 2 Absatz 1, 4, 5 Satz 1, Absatz 6 oder 7 zu entsprechen, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-
-## § 11 – Straftaten und Ordnungswidrigkeiten
+# § 11 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 5 oder § 8 Absatz 4 ein dort genanntes Lebensmittel herstellt oder in den Verkehr bringt.
 
@@ -195,25 +181,21 @@ Lebensmittel, die mit einer in Anlage 1 aufgeführten Bezeichnung versehen sind,
 
 (4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 2 Satz 2, Absatz 3 Satz 1 oder Absatz 6 Satz 1, § 6 Absatz 1, § 8 Absatz 1 oder § 9 Satz 1 ein Erzeugnis in den Verkehr bringt.
 
-
-## § 12 – Übergangsregelung für Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
+# § 12 – Übergangsregelung für Kräuter- und Früchtetee für Säuglinge oder Kleinkinder
 
 Bis zum 29. November 2020 dürfen Kräuter- und Früchtetee für Säuglinge oder Kleinkinder nach den bis zum 28. Mai 2020 geltenden Vorschriften hergestellt und gekennzeichnet werden. Nach Satz 1 hergestellte und gekennzeichnete Kräuter- und Früchtetee für Säuglinge oder Kleinkinder dürfen noch bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2)
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 10)
+# Anlage 1 – (zu § 1 Absatz 1, § 2 Absatz 1 bis 5, § 3 Absatz 1 bis 3 und § 10)
 
 (Fundstelle: BGBl. I 2013, 3891 - 3892;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -241,8 +223,7 @@ Aroma, Fruchtfleisch und Zellen, die mit geeigneten physikalischen Verfahren aus
 
 Bezeichnungen der Lebensmittel, Herstellungsanforderungen
 
-
-## Anlage 2 – (zu § 2 Abs. 1)
+# Anlage 2 – (zu § 2 Abs. 1)
 
 (Fundstelle: BGBl. I 2004, 1021;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -273,8 +254,7 @@ die aus den genießbaren Teilen von Früchten der gleichen Art ohne Abtrennung d
 
 unbeschadet der Verordnung (EG) Nr. 1334/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Aromen und bestimmte Lebensmittelzutaten mit Aromaeigenschaften zur Verwendung in und auf Lebensmitteln sowie zur Änderung der Verordnung (EWG) Nr. 1601/91 des Rates, der Verordnungen (EG) Nr. 2232/96 und (EG) Nr. 110/2008 und der Richtlinie 2000/13/EG (ABl. L 354 vom 31.12.2008, S. 34) werden fruchteigene Restaurationsaromen bei der Verarbeitung von Früchten mittels geeigneter physikalischer Verfahren gewonnen; diese physikalischen Verfahren können eingesetzt werden, um die Aromaqualität zu erhalten, zu bewahren oder zu stabilisieren, und umfassen vor allem Pressen, Extraktion, Destillation, Filtern, Adsorption, Evaporation, Fraktionieren und Konzentrieren; das Restaurationsaroma wird aus den genießbaren Teilen der Frucht gewonnen, kann jedoch auch kaltgepresstes Öl aus Zitrusschalen und Bestandteile der Steine enthalten.
 
-
-## Anlage 3 – (zu § 2 Absatz 2)
+# Anlage 3 – (zu § 2 Absatz 2)
 
 (Fundstelle: BGBl. I 2013, 3892)
 
@@ -288,8 +268,7 @@ Bei der Herstellung von Erzeugnissen nach Anlage 1 dürfen folgende Zutaten verw
 
 4. Salz, Gewürze und aromatische Kräuter: bei Tomaten-/Paradeisersaft und Tomaten-/Paradeisersaft aus Tomaten-/Paradeisersaftkonzentrat.
 
-
-## Anlage 4 – (zu § 2 Abs. 3 und 5)
+# Anlage 4 – (zu § 2 Abs. 3 und 5)
 
 (Fundstelle: BGBl. I 2004, 1023;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -332,8 +311,7 @@ B. Lebensmittelzusatzstoffe für die Bearbeitung
 
 7. Pflanzenproteine aus Weizen, Erbsen oder Kartoffeln für die Klärung.
 
-
-## Anlage 5 – (zu § 2 Abs. 6)
+# Anlage 5 – (zu § 2 Abs. 6)
 
 (Fundstelle: BGBl. I 2004, 1024 - 1025;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -551,18 +529,14 @@ andere Früchte dieser Kategorie
 
 50
 
-
-## Anlage 6 – (zu § 2 Abs. 7)
+# Anlage 6 – (zu § 2 Abs. 7)
 
 (Fundstelle: BGBl. I 2010, 675 - 676;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Für die mit einem Sternchen (\*) gekennzeichneten Erzeugnisse, die als Saft erzeugt werden, wird ein Mindestwert für die relative Dichte, bezogen auf Wasser bei 20/20 °C, bestimmt.  
-Für die mit zwei Sternchen (\*\*) gekennzeichneten Erzeugnisse, die als Fruchtmark erzeugt werden, wird nur ein unkorrigierter Mindestbrixwert (ohne Säurekorrektur) bestimmt.  
-Die in der Tabelle für wiederhergestellten Fruchtsaft und wiederhergestelltes Fruchtmark festgesetzten Mindestbrixwerte umfassen nicht die lösliche Trockenmasse hinzugefügter fakultativer Zutaten einschließlich Lebensmittelzusatzstoffen.
+Für die mit einem Sternchen (\*) gekennzeichneten Erzeugnisse, die als Saft erzeugt werden, wird ein Mindestwert für die relative Dichte, bezogen auf Wasser bei 20/20 °C, bestimmt. Für die mit zwei Sternchen (\*\*) gekennzeichneten Erzeugnisse, die als Fruchtmark erzeugt werden, wird nur ein unkorrigierter Mindestbrixwert (ohne Säurekorrektur) bestimmt. Die in der Tabelle für wiederhergestellten Fruchtsaft und wiederhergestelltes Fruchtmark festgesetzten Mindestbrixwerte umfassen nicht die lösliche Trockenmasse hinzugefügter fakultativer Zutaten einschließlich Lebensmittelzusatzstoffen.
 
-
-## Anlage 7 – (zu § 3 Abs. 2 Satz 4)
+# Anlage 7 – (zu § 3 Abs. 2 Satz 4)
 
 (Fundstelle: BGBl. I 2004, 1026;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -637,5 +611,4 @@ Aus Sanddorn gewonnene Säfte mit einem Zuckerzusatz von höchstens 140 g/l
   
 In den Fällen der Nummern 4 und 5 sind die Bezeichnungen der Lebensmittel durch die Angabe der verwendeten Frucht in dänischer Sprache zu ergänzen.
 
-
-## Anlage 8 – (zu den §§ 4 und 5)
+# Anlage 8 – (zu den §§ 4 und 5)

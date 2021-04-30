@@ -1,37 +1,29 @@
-# [MSchnAusbV 2004] Verordnung über die Berufsausbildung zum Maßschneider/zur Maßschneiderin
-
-Ausfertigungsdatum: 15.04.2004
-
+% Verordnung über die Berufsausbildung zum Maßschneider/zur Maßschneiderin
+% Ausfertigungsdatum: 15.04.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Maßschneider/Maßschneiderin wird gemäß § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 19, Damen- und Herrenschneider, der Anlage B Abschnitt 1 der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 10 und 11 nachzuweisen.
 
-
-## § 4 – Berufsfeldbreite Grundbildung
+# § 4 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -65,23 +57,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 15. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse (Ausbildungsberufsbild) sollen unter Berücksichtigung der Schwerpunkte Damen und Herren nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -97,15 +85,12 @@ Bei der Anfertigung einer Hose kann eine zuvor gefertigte rechte Hosenseite verw
 
 Bei der Durchführung der Arbeitsaufgabe und der Dokumentation soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen, Grundsätze der Kundenorientierung sowie Anforderungen des Sicherheits- und Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
 
-
-## § 10 – Gesellenprüfung
+# § 10 – Gesellenprüfung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 40 Stunden eine Arbeitsaufgabe durchführen und mit betriebsüblichen Unterlagen dokumentieren und hierüber während dieser Zeit in insgesamt höchstens 30 Minuten ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Hierfür kommt insbesondere in Betracht:  
-Entwerfen und Anfertigen eines Großstücks unter Berücksichtigung der Schwerpunkte Damen und Herren.  
-Der Prüfling hat den Entwurf für die Arbeitsaufgabe dem Prüfungsausschuss zur Genehmigung vorzulegen.  
-Im praktischen Teil der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Die Durchführung der Arbeitsaufgabe einschließlich der Dokumentation ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
+Entwerfen und Anfertigen eines Großstücks unter Berücksichtigung der Schwerpunkte Damen und Herren. Der Prüfling hat den Entwurf für die Arbeitsaufgabe dem Prüfungsausschuss zur Genehmigung vorzulegen. Im praktischen Teil der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Die Durchführung der Arbeitsaufgabe einschließlich der Dokumentation ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Planung und Fertigung, Gestaltung und Konstruktion sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Planung und Fertigung sowie Gestaltung und Konstruktion sind fachliche Probleme mit verknüpften technologischen, mathematischen und gestalterischen Inhalten zu bewerten und zu lösen. Dabei sollen die Sicherheit und der Gesundheitsschutz bei der Arbeit, der Umweltschutz sowie qualitätssichernde Maßnahmen einbezogen werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
@@ -147,23 +132,19 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10a – Anrechnungsregelung
+# § 10a – Anrechnungsregelung
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem abgeschlossenen Ausbildungsberuf Änderungsschneider/ Änderungsschneiderin erworbenen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2 des Berufsbildungsgesetzes bleibt unberührt.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Maßschneider/zur Maßschneiderin
+# Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Maßschneider/zur Maßschneiderin
 
 (Fundstelle: BGBl. 2004, 574 - 579)  
 

@@ -1,15 +1,11 @@
-# [MTSKraftV] Verordnung zur Markttransparenzstelle für Kraftstoffe  (MTS-Kraftstoff-Verordnung)
-
-Ausfertigungsdatum: 22.03.2013
-
+% Verordnung zur Markttransparenzstelle für Kraftstoffe  (MTS-Kraftstoff-Verordnung)
+% Ausfertigungsdatum: 22.03.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 47k Absatz 8 des Gesetzes gegen Wettbewerbsbeschränkungen, der durch Artikel 1 Nummer 2 des Gesetzes zur Einrichtung einer Markttransparenzstelle für den Großhandel mit Strom und Gas vom 5. Dezember 2012 (BGBl. I S. 2403) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie unter Wahrung der Rechte des Bundestages:
 
-
-## § 1 – Gegenstand der Rechtsverordnung
+# § 1 – Gegenstand der Rechtsverordnung
 
 Diese Rechtsverordnung bestimmt
 
@@ -23,8 +19,7 @@ Diese Rechtsverordnung bestimmt
 
 5. Inhalt, Art, Form und Umfang der Veröffentlichung oder Weitergabe der Preisdaten an Verbraucherinnen und Verbraucher von Kraftstoffen durch die Anbieter von Verbraucher-Informationsdiensten nach § 47k Absatz 5 des Gesetzes gegen Wettbewerbsbeschränkungen.
 
-
-## § 2 – Meldepflichtige
+# § 2 – Meldepflichtige
 
 (1) Meldepflichtig nach § 47k Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen sind
 
@@ -46,8 +41,7 @@ Diese Rechtsverordnung bestimmt
 
 Außerdem hat der Meldepflichtige glaubhaft zu machen, dass es sich bei ihm um einen Meldepflichtigen nach Absatz 1 handelt. Änderungen der Daten nach Satz 1 sind der Markttransparenzstelle unverzüglich zu übermitteln.
 
-
-## § 3 – Befreiung von der Meldepflicht
+# § 3 – Befreiung von der Meldepflicht
 
 (1) Die Markttransparenzstelle stellt einen Meldepflichtigen auf Antrag von den Pflichten zur Übermittlung der Angaben nach § 4 Absatz 1 und 2 frei, wenn
 
@@ -57,8 +51,7 @@ Außerdem hat der Meldepflichtige glaubhaft zu machen, dass es sich bei ihm um e
 
 (2) Die Markttransparenzstelle hebt die Befreiung auf, wenn der Gesamtdurchsatz von Otto- und Dieselkraftstoffen in einem der Folgejahre mehr als 750 Kubikmeter beträgt oder keine unzumutbare Härte mehr vorliegt. Alle hierfür relevanten Tatsachen sind der Markttransparenzstelle unverzüglich zu übermitteln.
 
-
-## § 4 – Übermittlung der Grund- und Preisdaten
+# § 4 – Übermittlung der Grund- und Preisdaten
 
 (1) Der Meldepflichtige hat der Markttransparenzstelle folgende Daten (Grunddaten) zu den Tankstellen, bei denen er über die Preissetzungshoheit verfügt, zu übermitteln:
 
@@ -86,8 +79,7 @@ Außerdem hat der Meldepflichtige glaubhaft zu machen, dass es sich bei ihm um e
 
 (4) Die Daten nach den Absätzen 1 und 2 sind elektronisch über die Standardschnittstelle der Markttransparenzstelle nach § 8 Absatz 2 zu übermitteln. Änderungsmeldungen nach den Absätzen 1 und 2 sind auf die jeweils geänderten Daten zu beschränken. Die Markttransparenzstelle stellt umgehend eine elektronische Rückmeldung zu den eingegangenen Daten zur Verfügung.
 
-
-## § 5 – Datenweitergabe an Anbieter von Verbraucher-Informationsdiensten
+# § 5 – Datenweitergabe an Anbieter von Verbraucher-Informationsdiensten
 
 (1) Die Markttransparenzstelle stellt den nach § 6 Satz 1 zugelassenen Anbietern von Verbraucher-Informationsdiensten die jeweils aktuellen Grunddaten der Tankstellen sowie die Preisdaten zu dem in § 7 näher bestimmten Zweck zur Verfügung.
 
@@ -95,8 +87,7 @@ Außerdem hat der Meldepflichtige glaubhaft zu machen, dass es sich bei ihm um e
 
 (3) Sofern ein zugelassener Anbieter von Verbraucher-Informationsdiensten gegen die Vorgaben in § 6 Satz 1 Nummer 1 und 2 oder in § 7 Absatz 1 Nummer 1 bis 6 oder in § 7 Absatz 2 verstößt, kann die Markttransparenzstelle von einer Weitergabe der Daten nach Absatz 1 absehen.
 
-
-## § 6 – Zulassung von Anbietern von Verbraucher-Informationsdiensten
+# § 6 – Zulassung von Anbietern von Verbraucher-Informationsdiensten
 
 Die Markttransparenzstelle erteilt auf Antrag die Zulassung eines Anbieters von Verbraucher-Informationsdiensten, wenn der Antragsteller glaubhaft macht, dass
 
@@ -122,8 +113,7 @@ Der Antrag hat zudem folgende Angaben zu enthalten:
 
 Änderungen der Angaben nach den Sätzen 1 und 2 sind der Markttransparenzstelle unverzüglich zu übermitteln.
 
-
-## § 7 – Information der Verbraucherinnen und Verbraucher von Kraftstoffen
+# § 7 – Information der Verbraucherinnen und Verbraucher von Kraftstoffen
 
 (1) Die zugelassenen Anbieter von VerbraucherInformationsdiensten veröffentlichen die nach § 5 Absatz 1 von der Markttransparenzstelle zur Verfügung gestellten Grunddaten und Preisdaten mittels eines bundesweit verfügbaren Informationsdienstes nach folgenden Maßgaben:
 
@@ -141,15 +131,13 @@ Der Antrag hat zudem folgende Angaben zu enthalten:
 
 (2) Jeder zugelassene Anbieter von VerbraucherInformationsdiensten hat eine Beschwerdestelle einzurichten, bei der die Nutzer des Verbraucher-Informationsdienstes unzutreffende Informationen hinsichtlich der von der Markttransparenzstelle nach § 5 Absatz 1 zur Verfügung gestellten Daten melden können. Deren Kontaktdaten, wie Kontaktperson, Anschrift, Telefonnummer und E-Mail-Adresse, sind den Verbraucherinnen und Verbrauchern von Kraftstoffen im Zusammenhang mit der Veröffentlichung nach Absatz 1 mitzuteilen. Die Nutzermeldungen nach Satz 1 sind wöchentlich an die Markttransparenzstelle zu übermitteln. Für die Übermittlung der Nutzermeldungen über unzutreffende Informationen gilt § 4 Absatz 4 Satz 1 und 3 entsprechend.
 
-
-## § 8 – Vorgaben zur technischen Ausgestaltung
+# § 8 – Vorgaben zur technischen Ausgestaltung
 
 (1) Die Markttransparenzstelle kann die technische Ausgestaltung der elektronischen Datenübermittlung nach § 4 Absatz 4 Satz 1 und des elektronischen Datenabrufs nach § 5 Absatz 2 näher bestimmen. Sie kann insbesondere die elektronischen Meldekanäle sowie die elektronischen Abrufkanäle beschränken, Lösungen zur Lastbegrenzung vorsehen und bestimmte Datenformate vorgeben. Die näheren Bestimmungen nach den Sätzen 1 und 2 gibt sie auf einer zu diesem Zweck von ihr einzurichtenden Internetseite bekannt.
 
 (2) Für die elektronische Übermittlung sowie den elektronischen Abruf der Daten stellt die Markttransparenzstelle jeweils eine von ihr definierte Standardschnittstelle zur Verfügung, die im Fall der Datenübermittlung eine automatisierte Verarbeitung der eingegangenen Daten ermöglicht.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 (1) § 4 Absatz 2 tritt zwei Wochen nach dem Tag in Kraft, an dem die Grunddaten von mindestens 13 000 Tankstellen auf der Grundlage von § 4 Absatz 1 Satz 1 bei der Markttransparenzstelle erfasst und mindestens drei Anbieter von Verbraucher-Informationsdiensten nach § 6 Satz 1 für die Datenweitergabe zugelassen sind. Das Bundesministerium für Wirtschaft und Technologie gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.
 

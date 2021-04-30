@@ -1,10 +1,7 @@
-# [Münz5DMBek 1977-08] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kleist-Gedenkmünze)
-
-Ausfertigungsdatum: 10.08.1977
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kleist-Gedenkmünze)
+% Ausfertigungsdatum: 10.08.1977
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung ist aus Anlaß der 200. Wiederkehr des Geburtstages von Heinrich von Kleist eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Staatlichen Münze Karlsruhe, die Auflage beträgt 8 Millionen Stück.
 
@@ -39,13 +36,11 @@ DOCH VON ALLEM GLÜCK".
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

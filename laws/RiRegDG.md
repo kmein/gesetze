@@ -1,17 +1,13 @@
-# [RiRegDG] Gesetz über die Verwendung der zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Kennzeichnung und Registrierung von Rindern erhobenen Daten  (Rinderregistrierungsdurchführungsgesetz - RiRegDG)
-
-Ausfertigungsdatum: 17.12.1999
-
+% Gesetz über die Verwendung der zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Kennzeichnung und Registrierung von Rindern erhobenen Daten  (Rinderregistrierungsdurchführungsgesetz - RiRegDG)
+% Ausfertigungsdatum: 17.12.1999
  
-
-## § 1 – Zweck und Anwendungsbereich
+# § 1 – Zweck und Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die Kennzeichnung und Registrierung von Rindern, soweit danach eine Verwendung automatisiert verarbeiteter Daten (Daten) über Rinder und Rinderhalter zu Zwecken der Tierseuchenbekämpfung oder der Durchführung und der Kontrolle der Einhaltung der gemeinschaftlichen Beihilferegelungen zugunsten der Landwirtschaft erforderlich ist. § 2 Abs. 3 bis 7 bleibt unberührt.
 
 (2) Dieses Gesetz findet keine Anwendung, soweit eine Verwendung von Daten durch die Vorschriften des Rindfleischetikettierungsgesetzes sowie der auf Grund des Rindfleischetikettierungsgesetzes erlassenen Rechtsverordnungen geregelt ist.
 
-
-## § 2 – Verarbeitung von Daten
+# § 2 – Verarbeitung von Daten
 
 (1) Die zuständigen Behörden oder die von diesen beauftragten Stellen übermitteln Daten, die
 
@@ -47,8 +43,7 @@ Für die Zulässigkeit der Verarbeitung der Daten durch das Friedrich-Loeffler-I
 
 (7) Auf Anforderung einer tierzuchtrechtlich anerkannten Zuchtorganisation übermittelt die zuständige Behörde oder die von ihr beauftragte Stelle der Zuchtorganisation die nach Absatz 1 Satz 1 Nr. 1 erhobenen Daten, auch in verarbeiteter Form, zum Zwecke der Zuchtbuchführung, Leistungsprüfungen und Zuchtwertschätzung nach § 8 Absatz 2 des Tierzuchtgesetzes, soweit die Zuchtorganisation nachweisen kann, dass der Tierhalter seine Einwilligung zur Übermittlung entsprechender Daten schriftlich erklärt hat. Im Falle des § 9 Absatz 2 Satz 1 Nummer 1 des Tierzuchtgesetzes gilt Satz 1 entsprechend für die Anforderung einer für die Durchführung der tierzuchtrechtlichen Leistungsprüfungen und Zuchtwertschätzung zuständigen Behörde oder der von ihr beauftragten Stelle.
 
-
-## § 3 – Auskunft an den Tierhalter
+# § 3 – Auskunft an den Tierhalter
 
 (1) Ein Tierhalter kann Auskunft verlangen über die Daten, die er nach den Vorschriften der Viehverkehrsverordnung über die Kennzeichnung und Registrierung von Rindern und den Vorschriften der Rinder- und Schafprämien-Verordnung über die Schlachtnummer, das Schlacht- oder Lebendgewicht und die Kategorie angezeigt hat.
 
@@ -76,19 +71,16 @@ soweit diese Daten gespeichert sind.
 
 (3) Die Auskunftserteilung kann durch Abruf im automatisierten Verfahren erfolgen. Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung bleibt unberührt.
 
-
-## § 4 – Aufbewahrung und Löschung von Daten
+# § 4 – Aufbewahrung und Löschung von Daten
 
 Die in § 2 Abs. 1 Satz 1 bezeichneten und bei der zuständigen Behörde oder der von dieser beauftragten Stelle gespeicherten Daten sind für die Dauer von drei Jahren aufzubewahren. Die Frist beginnt mit Ablauf des 31. Dezember desjenigen Jahres, in das der Tod des Rindes fällt. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu löschen, wenn sie zur Erfüllung der in § 2 Abs. 1 Satz 1 genannten Zwecke nicht mehr benötigt werden. Andere Vorschriften, nach denen eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
 
-
-## § 5 – Technische und organisatorische Maßnahmen
+# § 5 – Technische und organisatorische Maßnahmen
 
 (1) Hinsichtlich der technischen und organisatorischen Maßnahmen sind die Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu beachten.
 
 (2) Die speichernde Stelle hat zu gewährleisten, dass die Übermittlung personenbezogener Daten durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
 
-
-## § 6 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 6 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Verfahren der Datenverarbeitung und Datennutzung zu regeln, soweit dies für die Durchführung dieses Gesetzes erforderlich ist.

@@ -1,25 +1,19 @@
-# [MikrotAusbV] Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
-
-Ausfertigungsdatum: 06.03.1998
-
+% Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
+% Ausfertigungsdatum: 06.03.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mikrotechnologe/Mikrotechnologin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -57,8 +51,7 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 17. Sichern von Prozeßabläufen im Einsatzgebiet.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen unter Berücksichtigung der Schwerpunkte "Halbleitertechnik" sowie "Mikrosystemtechnik" nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -94,18 +87,15 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 (5) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -114,8 +104,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 (3) Der Prüfling soll im praktischen Teil der Prüfung in höchstens vier Stunden eine Arbeitsaufgabe sowie im schriftlichen Teil der Prüfung in insgesamt höchstens 90 Minuten die zur Arbeitsaufgabe gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommen insbesondere folgende Gebiete in Betracht:  
 Umrüsten, Prüfen und Instandhalten von Produktionseinrichtungen, insbesondere mechanische Einrichtungen, Einrichtungen der Vakuumtechnik, elektrische Einrichtungen, Einrichtungen zur Ver- und Entsorgung mit Medien; Verhalten im Reinraum; Handhaben von Gasen, Chemikalien und anderen Arbeitsstoffen; Produktionsorganisation, insbesondere Zusammenhänge von Technik, Arbeitsorganisation, Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz und Wirtschaftlichkeit.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -166,13 +155,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (8) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in den betrieblichen Aufträgen einschließlich Dokumentation insgesamt, in dem Fachgespräch oder in einem der drei Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
 
 (Fundstelle: BGBl. I 1998, 480 - 486)
 

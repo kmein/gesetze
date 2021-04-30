@@ -1,12 +1,7 @@
-# [KlaCembAusbV] Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin   (Klavier- und Cembalobauerausbildungsverordnung - KlaCembAusbV)
-
-Ausfertigungsdatum: 08.06.2017
-
+% Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin   (Klavier- und Cembalobauerausbildungsverordnung - KlaCembAusbV)
+% Ausfertigungsdatum: 08.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -14,8 +9,9 @@ Ausfertigungsdatum: 08.06.2017
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Klavier- und Cembalobauers und der Klavier- und Cembalobauerin wird staatlich anerkannt nach
 
@@ -23,20 +19,17 @@ Der Ausbildungsberuf des Klavier- und Cembalobauers und der Klavier- und Cembalo
 
 2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage B Abschnitt 1 Nummer 45 „Klavier- und Cembalobauer“ der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -96,20 +89,17 @@ Die Berufsausbildung dauert dreieinhalb Jahre.
 
 4. Umweltschutz.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Ziel und Zeitpunkt
+# § 6 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
-
-## § 7 – Inhalt
+# § 7 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -117,8 +107,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereiche
+# § 8 – Prüfungsbereiche
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -126,8 +115,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 2. Teilbereiche stimmen.
 
-
-## § 9 – Prüfungsbereich Herstellen von Bauteilen
+# § 9 – Prüfungsbereich Herstellen von Bauteilen
 
 (1) Im Prüfungsbereich Herstellen von Bauteilen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -155,8 +143,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 § 9 Abs. 2 Satz 2 Kursivdruck: Weicht von letzter konstitutiver Fassung ab
 
-
-## § 10 – Prüfungsbereich Teilbereiche stimmen
+# § 10 – Prüfungsbereich Teilbereiche stimmen
 
 (1) Im Prüfungsbereich Teilbereiche stimmen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -182,15 +169,13 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 § 10 Abs. 3 Satz 2 Kursivdruck: Weicht von letzter konstitutiver Fassung ab
 
-
-## § 11 – Ziel und Zeitpunkt
+# § 11 – Ziel und Zeitpunkt
 
 (1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung oder Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 12 – Inhalt
+# § 12 – Inhalt
 
 Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
@@ -198,8 +183,7 @@ Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 13 – Prüfungsbereiche
+# § 13 – Prüfungsbereiche
 
 Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -213,8 +197,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 5. Wirtschafts- und Sozialkunde.
 
-
-## § 14 – Prüfungsbereich Arbeitsauftrag
+# § 14 – Prüfungsbereich Arbeitsauftrag
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -240,8 +223,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (4) Die Prüfungszeit beträgt insgesamt 24 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 15 – Prüfungsbereich Durchführen von Reparaturen
+# § 15 – Prüfungsbereich Durchführen von Reparaturen
 
 (1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -271,8 +253,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (4) Die Prüfungszeit beträgt insgesamt vier Stunden.
 
-
-## § 16 – Prüfungsbereich Stimmen und Intonieren
+# § 16 – Prüfungsbereich Stimmen und Intonieren
 
 (1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -294,8 +275,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (4) Die Prüfungszeit beträgt insgesamt zwei Stunden. Das auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
 
-
-## § 17 – Prüfungsbereich Planen und Konstruieren
+# § 17 – Prüfungsbereich Planen und Konstruieren
 
 (1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -325,8 +305,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (3) Die Prüfungszeit beträgt 240 Minuten.
 
-
-## § 18 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 18 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -334,8 +313,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 19 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
+# § 19 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -375,15 +353,13 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 20 – Ziel und Zeitpunkt
+# § 20 – Ziel und Zeitpunkt
 
 (1) Durch die Abschlussprüfung oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung oder Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 21 – Inhalt
+# § 21 – Inhalt
 
 Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
@@ -391,8 +367,7 @@ Die Abschlussprüfung oder Gesellenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 22 – Prüfungsbereiche
+# § 22 – Prüfungsbereiche
 
 Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -406,8 +381,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 5. Wirtschafts- und Sozialkunde.
 
-
-## § 23 – Prüfungsbereich Arbeitsauftrag
+# § 23 – Prüfungsbereich Arbeitsauftrag
 
 (1) Im Prüfungsbereich Arbeitsauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -433,8 +407,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (4) Die Prüfungszeit beträgt insgesamt 24 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 24 – Prüfungsbereich Durchführen von Reparaturen
+# § 24 – Prüfungsbereich Durchführen von Reparaturen
 
 (1) Im Prüfungsbereich Durchführen von Reparaturen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -464,8 +437,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (4) Die Prüfungszeit beträgt insgesamt drei Stunden.
 
-
-## § 25 – Prüfungsbereich Stimmen und Intonieren
+# § 25 – Prüfungsbereich Stimmen und Intonieren
 
 (1) Im Prüfungsbereich Stimmen und Intonieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -487,8 +459,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (4) Die Prüfungszeit beträgt insgesamt zwei Stunden. Das auftragsbezogene Fachgespräch dauert höchstens zehn Minuten.
 
-
-## § 26 – Prüfungsbereich Planen und Konstruieren
+# § 26 – Prüfungsbereich Planen und Konstruieren
 
 (1) Im Prüfungsbereich Planen und Konstruieren soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -518,8 +489,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (3) Die Prüfungszeit beträgt 240 Minuten.
 
-
-## § 27 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 27 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -527,8 +497,7 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 28 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
+# § 28 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -568,15 +537,12 @@ Die Abschlussprüfung oder Gesellenprüfung findet in den folgenden Prüfungsber
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 29 – Bestehende Berufsausbildungsverhältnisse
+# § 29 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
+# § 30 – (Inkrafttreten, Außerkrafttreten)
 
-## § 30 – (Inkrafttreten, Außerkrafttreten)
-
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin
 
 (Fundstelle: BGBl. I 2018, 65 - 72)

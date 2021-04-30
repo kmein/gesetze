@@ -1,10 +1,7 @@
-# [ZDVG] Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes über die Beteiligung der Soldaten und der Zivildienstleistenden)  (Zivildienstvertrauensmann-Gesetz - ZDVG)
-
-Ausfertigungsdatum: 16.01.1991
-
+% Gesetz über den Vertrauensmann der Zivildienstleistenden (Artikel 2 des Gesetzes über die Beteiligung der Soldaten und der Zivildienstleistenden)  (Zivildienstvertrauensmann-Gesetz - ZDVG)
+% Ausfertigungsdatum: 16.01.1991
  
-
-## § 1 – Beteiligung, Grundsatz
+# § 1 – Beteiligung, Grundsatz
 
 (1) Die Beteiligung der Zivildienstleistenden (Dienstleistenden) in dienstlichen Angelegenheiten nach den Bestimmungen dieses Gesetzes soll zu einer vertrauensvollen Zusammenarbeit bei der Dienstgestaltung und zu einer fürsorglichen Berücksichtigung der Belange des einzelnen Dienstleistenden beitragen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 16.01.1991
 
 (3) Das Recht des Dienstleistenden, sich in dienstlichen und persönlichen Angelegenheiten an seine Vorgesetzten zu wenden sowie Anträge und Beschwerden vorzubringen, bleibt unberührt.
 
-
-## § 2 – Vertrauensmann
+# § 2 – Vertrauensmann
 
 (1) Dienstleistende wählen in geheimer und unmittelbarer Wahl aus ihren Reihen
 
@@ -45,32 +41,27 @@ Ausfertigungsdatum: 16.01.1991
 
 (6) Drei Wahlberechtigte, die Leitung der Dienststelle oder die Leitung des Lehrgangs können die Wahl innerhalb von vierzehn Tagen, vom Tage der Bekanntgabe des Wahlergebnisses an gerechnet, beim Verwaltungsgericht anfechten mit dem Antrag, die Wahl für ungültig zu erklären, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, daß durch den Verstoß das Wahlergebnis nicht verändert oder beeinflußt werden konnte.
 
-
-## § 3 – Beteiligung des Betriebs- oder Personalrats
+# § 3 – Beteiligung des Betriebs- oder Personalrats
 
 (1) Der Vertrauensmann kann an Sitzungen des Betriebs- oder Personalrats der Dienststelle beratend teilnehmen, wenn Angelegenheiten behandelt werden, die auch die Dienstleistenden betreffen.
 
 (2) Ist ein Vertrauensmann nicht gewählt, so können sich die Dienstleistenden mit ihren Anliegen an den für ihre Dienststelle zuständigen Betriebs- oder Personalrat wenden. Dieser hat auf die Berücksichtigung der Anliegen, falls sie berechtigt erscheinen, bei der Leitung des Betriebes oder der Verwaltung hinzuwirken.
 
-
-## § 4 – Schutz des Vertrauensmannes
+# § 4 – Schutz des Vertrauensmannes
 
 Der Vertrauensmann darf in der Ausübung seiner Befugnisse nicht behindert und wegen seiner Tätigkeit nicht benachteiligt oder begünstigt werden.
 
-
-## § 5 – Schweigepflicht
+# § 5 – Schweigepflicht
 
 (1) Der Vertrauensmann hat über die ihm in Ausübung seiner Tätigkeit nach diesem Gesetz bekanntgewordenen Angelegenheiten und Tatsachen Stillschweigen zu bewahren.
 
 (2) Die Schweigepflicht besteht nicht für Angelegenheiten oder Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen. Die Schweigepflicht besteht ferner nicht gegenüber dem Bundesamt für den Zivildienst (Bundesamt) und den Mitgliedern des für die Dienststelle zuständigen Betriebs- oder Personalrats.
 
-
-## § 6 – Unfallschutz
+# § 6 – Unfallschutz
 
 Erleidet ein Dienstleistender anläßlich der Wahrnehmung von Rechten oder der Erfüllung von Pflichten nach diesem Gesetz durch einen Unfall eine gesundheitliche Schädigung, die im Sinne des Zivildienstgesetzes eine Zivildienstbeschädigung wäre, so finden § 35 Abs. 5 und 8, § 47 und die §§ 49 bis 51 des Zivildienstgesetzes entsprechende Anwendung.
 
-
-## § 7 – Amtszeit
+# § 7 – Amtszeit
 
 (1) Die Amtszeit des Vertrauensmannes beginnt mit dem Tag der Wahl oder, wenn zu diesem Zeitpunkt noch ein Vertrauensmann im Amt ist, mit dem Ablauf von dessen Amtszeit. Endet der Zivildienst oder der Lehrgang des Vertrauensmannes, so endet auch seine Amtszeit. Die Amtszeit eines Stellvertreters beginnt mit dem Tag der Wahl, frühestens jedoch mit dem Beginn der Amtszeit des von ihm vertretenen Vertrauensmannes; sie endet mit dem Ende seines Zivildienstes oder seines Lehrgangs.
 
@@ -82,20 +73,17 @@ Erleidet ein Dienstleistender anläßlich der Wahrnehmung von Rechten oder der E
 
 3. durch rechtskräftige Entscheidung des Verwaltungsgerichts.
 
-
-## § 8 – Niederlegung des Amtes
+# § 8 – Niederlegung des Amtes
 
 Der Vertrauensmann kann durch schriftliche Erklärung gegenüber der Leitung der Dienststelle sein Amt niederlegen. Die Niederlegung des Amtes wird von der Leitung der Dienststelle dienstlich bekanntgemacht. Bei Lehrgängen tritt an die Stelle der Leitung der Dienststelle die Leitung des Lehrgangs.
 
-
-## § 9 – Abberufung des Vertrauensmannes
+# § 9 – Abberufung des Vertrauensmannes
 
 (1) Die Präsidentin oder der Präsident des Bundesamtes, mindestens ein Viertel der Dienstleistenden des Wahlbereiches oder die Leitung der Dienststelle kann beim Verwaltungsgericht beantragen, den Vertrauensmann wegen grober Vernachlässigung seiner gesetzlichen Befugnisse oder wegen grober Verletzung seiner gesetzlichen Pflichten als Vertrauensmann abzuberufen. Der Antrag auf Abberufung kann auch wegen eines sonstigen Verhaltens des Vertrauensmannes gestellt werden, das geeignet ist, die verantwortungsvolle Zusammenarbeit zwischen Vorgesetzten und Dienstleistenden oder das Zusammenleben innerhalb der Dienststelle ernsthaft zu beeinträchtigen.
 
 (2) Auf Antrag eines der Antragsteller kann das Verwaltungsgericht das vorläufige Ruhen des Amtes des Vertrauensmannes bis zur Entscheidung über den Abberufungsantrag anordnen.
 
-
-## § 10 – Eintritt des Stellvertreters
+# § 10 – Eintritt des Stellvertreters
 
 (1) Endet das Amt des Vertrauensmannes vorzeitig (§ 7), so tritt der Stellvertreter ein. Ist kein Stellvertreter vorhanden, ist neu zu wählen.
 
@@ -103,30 +91,25 @@ Der Vertrauensmann kann durch schriftliche Erklärung gegenüber der Leitung der
 
 (3) Die §§ 7 bis 9 gelten für den Stellvertreter entsprechend.
 
-
-## § 11 – Versetzung des Vertrauensmannes
+# § 11 – Versetzung des Vertrauensmannes
 
 Der Vertrauensmann darf während der Dauer seines Amtes gegen seinen Willen zu einer anderen Dienststelle nur versetzt werden, wenn dies auch unter Berücksichtigung seiner Stellung als Vertrauensmann aus dienstlichen Gründen unvermeidbar ist. Dasselbe gilt für die zur Wahl vorgeschlagenen Dienstleistenden bis zum Wahltag.
 
-
-## § 12 – Beschwerderecht
+# § 12 – Beschwerderecht
 
 Der Vertrauensmann kann sich entsprechend § 41 des Zivildienstgesetzes auch dann beschweren, wenn er glaubt, in der Ausübung seiner Befugnisse behindert oder wegen seiner Tätigkeit benachteiligt zu sein.
 
-
-## § 13 – Beschwerden gegen den Vertrauensmann
+# § 13 – Beschwerden gegen den Vertrauensmann
 
 Über Beschwerden gegen den Vertrauensmann entscheidet die Präsidentin oder der Präsident des Bundesamtes. Sie oder er kann diese Befugnis auf eine hierfür bestellte Beamtin oder einen hierfür bestellten Beamten des Bundesamtes, die oder der die Befähigung zum Richteramt hat, übertragen.
 
-
-## § 14 – Grundsätze für die Zusammenarbeit
+# § 14 – Grundsätze für die Zusammenarbeit
 
 (1) Der Vertrauensmann soll zur verantwortungsvollen Zusammenarbeit zwischen Vorgesetzten und Dienstleistenden sowie zur Erhaltung des Vertrauens innerhalb der Dienststelle oder des Lehrgangs beitragen.
 
 (2) Die oder der Vorgesetzte hat den Vertrauensmann bei der Erfüllung seiner Aufgaben zu unterstützen.Der Vertrauensmann ist über Angelegenheiten, die seine Aufgaben betreffen, rechtzeitig und umfassend zu unterrichten. Ihm ist während des Dienstes Gelegenheit zu geben, Sprechstunden für Dienstleistende innerhalb der Dienststelle abzuhalten, soweit dies zur Wahrnehmung seiner Aufgaben erforderlich ist und dienstliche Gründe nicht entgegenstehen.
 
-
-## § 15 – Pflichten des Vorgesetzten
+# § 15 – Pflichten des Vorgesetzten
 
 (1) Die oder der Vorgesetzte hat alle Dienstleistenden alsbald nach Dienstantritt über die Rechte und Pflichten des Vertrauensmannes zu unterrichten und den Namen des Vertrauensmannes bekanntzugeben.
 
@@ -138,13 +121,11 @@ Der Vertrauensmann kann sich entsprechend § 41 des Zivildienstgesetzes auch dan
 
 (5) Dem Vertrauensmann ist im Rahmen der gesetzlichen Regelungen Freistellung vom Dienst zu gewähren, wenn er durch die Erfüllung seiner Aufgaben als Vertrauensmann über die regelmäßige tägliche Arbeitszeit hinaus beansprucht wird.
 
-
-## § 16 – Anhörung
+# § 16 – Anhörung
 
 Dem Vertrauensmann sind beabsichtigte Maßnahmen und Entscheidungen, zu denen er anzuhören ist, rechtzeitig mitzuteilen. Ihm ist Gelegenheit zur Äußerung zu geben.
 
-
-## § 17 – Vorschlagsrecht
+# § 17 – Vorschlagsrecht
 
 (1) Soweit dem Vertrauensmann ein Vorschlagsrecht zusteht, hat die oder der Vorgesetzte die Vorschläge des Vertrauensmannes mit ihm zu erörtern.
 
@@ -152,13 +133,11 @@ Dem Vertrauensmann sind beabsichtigte Maßnahmen und Entscheidungen, zu denen er
 
 (3) Entspricht die oder der Vorgesetzte einem Vorschlag des Vertrauensmannes nicht oder nicht in vollem Umfang, teilt sie oder er dem Vertrauensmann die Entscheidung unter Angabe der Gründe mit.
 
-
-## § 18 – Mitbestimmung
+# § 18 – Mitbestimmung
 
 Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der Vertrauensmann von der oder dem zuständigen Vorgesetzten rechtzeitig zu unterrichten. Dabei ist ihm Gelegenheit zur Äußerung zu geben. Kommt eine Einigung nicht zustande, ist die Maßnahme oder die Entscheidung auszusetzen und die oder der nächsthöhere Vorgesetzte anzurufen, sofern eine solche oder ein solcher vorhanden ist. Entscheidet die oder der nächsthöhere Vorgesetzte abweichend vom Vorschlag, ist die Entscheidung gegenüber dem Vertrauensmann schriftlich zu begründen.
 
-
-## § 19 – Personalangelegenheiten
+# § 19 – Personalangelegenheiten
 
 (1) Der Vertrauensmann soll durch die Vorgesetzte oder den Vorgesetzten bei folgenden Personalmaßnahmen auf Antrag des betroffenen Dienstleistenden angehört werden:
 
@@ -172,8 +151,7 @@ Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der Vertrauen
 
 (2) Die oder der Vorgesetzte teilt die Äußerung des Vertrauensmannes zu der beabsichtigten Personalmaßnahme der zuständigen Stelle mit. Das Ergebnis der Anhörung ist in die Personalentscheidung einzubeziehen.
 
-
-## § 20 – Dienstbetrieb
+# § 20 – Dienstbetrieb
 
 (1) Die oder der Vorgesetzte soll den Vertrauensmann zur Gestaltung des Dienstbetriebes anhören. Der Vertrauensmann hat das Recht, Vorschläge zu unterbreiten.
 
@@ -181,15 +159,13 @@ Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der Vertrauen
 
 (3) Auf Antrag des betroffenen Dienstleistenden soll der Vertrauensmann bei der individuellen Gewährung von Freistellungen vom Dienst gehört werden.
 
-
-## § 21 – Betreuung und Fürsorge
+# § 21 – Betreuung und Fürsorge
 
 (1) Die Aufstellung von Benutzerordnungen für Betreuungseinrichtungen unterliegen der Mitbestimmung des Vertrauensmannes.
 
 (2) Die Planung von Veranstaltungen des außerdienstlichen Gemeinschaftslebens bestimmt der Vertrauensmann mit. Zur Durchführung von dienstlichen Veranstaltungen geselliger Art ist er zu hören.
 
-
-## § 22 – Ahndung von Dienstvergehen
+# § 22 – Ahndung von Dienstvergehen
 
 (1) Vor der Verhängung von Disziplinarmaßnahmen ist der Vertrauensmann zur Person des Dienstleistenden und zum Sachverhalt anzuhören.
 
@@ -197,17 +173,14 @@ Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der Vertrauen
 
 (3) Über die Anhörung ist eine Niederschrift anzufertigen, die zu den Akten zu nehmen ist.
 
-
-## § 23 – Beschwerdeverfahren
+# § 23 – Beschwerdeverfahren
 
 Betrifft eine Beschwerde Fragen des Dienstbetriebes, der Fürsorge oder des außerdienstlichen Gemeinschaftslebens, soll der Vertrauensmann des Beschwerdeführers angehört werden. In Personalangelegenheiten (§ 19) soll der Vertrauensmann auf Antrag des Beschwerdeführers angehört werden.
 
-
-## § 24 – Ausschluß der Beteiligung
+# § 24 – Ausschluß der Beteiligung
 
 Eine Beteiligung des Vertrauensmannes unterbleibt, wenn er selbst Betroffener einer Personalmaßnahme oder einer Disziplinarmaßnahme oder Beschwerdeführer ist. In diesen Fällen ist der Stellvertreter des Vertrauensmannes zu beteiligen.
 
-
-## § 25
+# § 25
 
 (weggefallen)

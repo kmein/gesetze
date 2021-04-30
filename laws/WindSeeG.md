@@ -1,20 +1,15 @@
-# [WindSeeG] Gesetz zur Entwicklung und Förderung der Windenergie auf See  (Windenergie-auf-See-Gesetz - WindSeeG)
-
-Ausfertigungsdatum: 13.10.2016
-
+% Gesetz zur Entwicklung und Förderung der Windenergie auf See  (Windenergie-auf-See-Gesetz - WindSeeG)
+% Ausfertigungsdatum: 13.10.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck und Ziel des Gesetzes
+# § 1 – Zweck und Ziel des Gesetzes
 
 (1) Zweck dieses Gesetzes ist es, insbesondere im Interesse des Klima- und Umweltschutzes die Nutzung der Windenergie auf See insbesondere unter Berücksichtigung des Naturschutzes, der Schifffahrt sowie der Offshore-Anbindungsleitungen auszubauen.
 
 (2) Ziel dieses Gesetzes ist es, die installierte Leistung von Windenergieanlagen auf See, die an das Netz angeschlossen werden, ab dem Jahr 2021 auf insgesamt 20 Gigawatt bis zum Jahr 2030 und auf insgesamt 40 Gigawatt bis zum Jahr 2040 zu steigern. Diese Steigerung soll kosteneffizient und unter Berücksichtigung der für die Abnahme, Übertragung und Verteilung des Stroms erforderlichen Netzkapazitäten erfolgen. Der Ausbau von Windenergieanlagen auf See, die an das Netz angeschlossen werden, ist mit dem Ausbau der für die Übertragung des darin erzeugten Stroms erforderlichen Offshore-Anbindungsleitungen unter Berücksichtigung der Netzverknüpfungspunkte an Land zu synchronisieren. Ziel ist ein Gleichlauf der jeweiligen Planungen, Zulassungen, Errichtungen und Inbetriebnahmen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt
 
@@ -28,8 +23,7 @@ Ausfertigungsdatum: 13.10.2016
 
 (2) Dieses Gesetz ist im Bereich der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland und, soweit die nachfolgenden Bestimmungen dies ausdrücklich regeln, im Küstenmeer und auf der Hohen See anzuwenden.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -57,8 +51,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 12. „zugewiesene Netzanbindungskapazität“ das Recht, eine bestimmte Offshore-Anbindungsleitung bis zu einer bestimmten Leistung für die Übertragung von elektrischer Energie aus Windenergieanlagen auf See zu nutzen.
 
-
-## § 4 – Zweck des Flächenentwicklungsplans
+# § 4 – Zweck des Flächenentwicklungsplans
 
 (1) Der Flächenentwicklungsplan trifft fachplanerische Festlegungen für die ausschließliche Wirtschaftszone. Er kann fachplanerische Festlegungen für Gebiete, Flächen, die zeitliche Reihenfolge der Ausschreibungen der Flächen, die Kalenderjahre der Inbetriebnahmen und die voraussichtlich zu installierende Leistung sowie für Testfelder und sonstige Energiegewinnungsbereiche für das Küstenmeer treffen. Nach Maßgabe einer Verwaltungsvereinbarung zwischen dem Bund, vertreten durch das Bundesamt für Seeschifffahrt und Hydrographie, und dem zuständigen Land werden die einzelnen Festlegungen für das Küstenmeer näher bestimmt. Das Land stellt dem Bundesamt für Seeschifffahrt und Hydrographie die jeweils dafür erforderlichen Informationen und Unterlagen einschließlich derjenigen, die für die Strategische Umweltprüfung erforderlich sind, zur Verfügung.
 
@@ -72,8 +65,7 @@ Im Sinn dieses Gesetzes ist oder sind
 
 (3) Der Flächenentwicklungsplan kann für Windenergieanlagen auf See und sonstige Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen werden, Festlegungen mit dem Ziel treffen, die praktische Erprobung und Umsetzung von innovativen Konzepten für nicht an das Netz angeschlossene Energiegewinnung räumlich geordnet und flächensparsam zu ermöglichen.
 
-
-## § 5 – Gegenstand des Flächenentwicklungsplans
+# § 5 – Gegenstand des Flächenentwicklungsplans
 
 (1) Der Flächenentwicklungsplan enthält für den Zeitraum ab dem Jahr 2026 bis mindestens zum Jahr 2030 für die ausschließliche Wirtschaftszone und nach Maßgabe der folgenden Bestimmungen für das Küstenmeer Festlegungen über
 
@@ -161,8 +153,7 @@ b) im Offshore-Netzentwicklungsplan vorbehaltlos bestätigt sind,
 
 (5) Im Flächenentwicklungsplan werden die Gebiete sowie die Flächen und die zeitliche Reihenfolge nach Absatz 1 Nummer 3 und Absatz 4 so festgelegt, dass zum Gebotstermin nach § 17 Flächen ausgeschrieben werden können mit einer voraussichtlich zu installierenden Leistung von etwa 1 Gigawatt pro Jahr in den Jahren 2021 bis 2023, etwa 3 Gigawatt im Jahr 2024 und etwa 4 Gigawatt im Jahr 2025, wobei Abweichungen zulässig sind, solange das Ausbauziel für 2030 nach § 1 Absatz 2 erreicht wird. Die Festlegungen im Flächenentwicklungsplan stellen sicher, dass in den Gebotsterminen ab dem Jahr 2026 Flächen ausgeschrieben werden, die einen stetigen Zubau gewährleisten. Zwischen dem Kalenderjahr der Ausschreibung für eine Fläche und dem Kalenderjahr der Inbetriebnahme der bezuschlagten Windenergieanlagen auf See auf dieser Fläche müssen mindestens so viele Monate liegen, dass die Realisierungsfristen nach § 59 eingehalten werden können.
 
-
-## § 6 – Zuständigkeit und Verfahren zur Erstellung des Flächenentwicklungsplans
+# § 6 – Zuständigkeit und Verfahren zur Erstellung des Flächenentwicklungsplans
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie macht die Einleitung und den voraussichtlichen Zeitpunkt des Abschlusses des Verfahrens zur Erstellung des Flächenentwicklungsplans nach § 73 Nummer 1 bekannt.
 
@@ -194,8 +185,7 @@ Die Bundesnetzagentur prüft die Stellungnahme in Abstimmung mit dem Bundesamt f
 
 (+++ § 6: zur Anwendung vgl. § 8 Abs. 4 Satz 2 +++)
 
-
-## § 7 – Übergang vom Bundesfachplan Offshore und vom Offshore-Netzentwicklungsplan
+# § 7 – Übergang vom Bundesfachplan Offshore und vom Offshore-Netzentwicklungsplan
 
 Für Festlegungen ab dem Jahr 2026 werden
 
@@ -203,8 +193,7 @@ Für Festlegungen ab dem Jahr 2026 werden
 
 2. die bisher im Offshore-Netzentwicklungsplan nach den §§ 17b und 17c des Energiewirtschaftsgesetzes getroffenen Festlegungen teilweise durch die im Flächenentwicklungsplan nach § 5 und teilweise durch die im Netzentwicklungsplan nach den §§ 12b und 12c des Energiewirtschaftsgesetzes getroffenen Festlegungen abgelöst.
 
-
-## § 8 – Änderung und Fortschreibung des Flächenentwicklungsplans
+# § 8 – Änderung und Fortschreibung des Flächenentwicklungsplans
 
 (1) Der Flächenentwicklungsplan kann auf Vorschlag des Bundesamtes für Seeschifffahrt und Hydrographie oder der Bundesnetzagentur geändert oder fortgeschrieben werden. Die Entscheidung über Zeitpunkt und Umfang eines Verfahrens zur Änderung oder Fortschreibung erfolgt im gegenseitigen Einvernehmen des Bundesamtes für Seeschifffahrt und Hydrographie und der Bundesnetzagentur.
 
@@ -214,8 +203,7 @@ Für Festlegungen ab dem Jahr 2026 werden
 
 (4) Das Bundesamt für Seeschifffahrt und Hydrographie und die Bundesnetzagentur machen die Einleitung eines Verfahrens zur Änderung oder Fortschreibung und deren voraussichtlichen Umfang nach § 73 Nummer 1 und 2 bekannt. § 6 ist entsprechend anzuwenden. Bei einer geringfügigen Änderung oder Fortschreibung des Flächenentwicklungsplans kann das Bundesamt für Seeschifffahrt und Hydrographie auf die Durchführung einzelner Verfahrensschritte verzichten; insbesondere kann die Beteiligung der betroffenen Behörden und der Öffentlichkeit schriftlich oder elektronisch erfolgen; die Bestimmungen des Gesetzes über die Umweltverträglichkeitsprüfung bleiben unberührt.
 
-
-## § 9 – Ziel der Voruntersuchung von Flächen
+# § 9 – Ziel der Voruntersuchung von Flächen
 
 (1) Die Voruntersuchung von im Flächenentwicklungsplan festgelegten Flächen nach den §§ 10 bis 12 erfolgt in der im Flächenentwicklungsplan festgelegten Reihenfolge mit dem Ziel, für die Ausschreibungen nach Teil 3 Abschnitt 2
 
@@ -227,8 +215,7 @@ Für Festlegungen ab dem Jahr 2026 werden
 
 (3) Die Voruntersuchung von Flächen wird zeitlich so durchgeführt, dass vor der Bekanntmachung der Ausschreibung in einem Kalenderjahr nach § 19 die Voruntersuchung mindestens derjenigen Flächen abgeschlossen ist, die nach dem Flächenentwicklungsplan in diesem Kalenderjahr zur Ausschreibung kommen sollen. Soweit möglich, soll vor der Bekanntmachung der Ausschreibung in einem Kalenderjahr nach § 19 die Voruntersuchung auch derjenigen Flächen abgeschlossen sein, die nach dem Flächenentwicklungsplan im darauffolgenden Kalenderjahr zur Ausschreibung kommen sollen. Soweit dies zur Einhaltung der Vorgaben nach den Sätzen 1 und 2 erforderlich ist, kann die Voruntersuchung von Flächen bereits auf Grundlage eines Entwurfs des Flächenentwicklungsplans nach § 6 Absatz 4 Satz 2 begonnen werden.
 
-
-## § 10 – Gegenstand und Umfang der Voruntersuchung von Flächen
+# § 10 – Gegenstand und Umfang der Voruntersuchung von Flächen
 
 (1) Um den Bietern die Informationen über die jeweilige Fläche zur Verfügung zu stellen, werden
 
@@ -264,8 +251,7 @@ Bei der Eignungsprüfung werden die Untersuchungsergebnisse und Unterlagen nach 
 
 (3) Zur Bestimmung des Anteils einer Fläche am Ausschreibungsvolumen nach § 17 wird die zu installierende Leistung auf der jeweiligen Fläche bestimmt.
 
-
-## § 10a – Erstattung von notwendigen Kosten für Untersuchungen
+# § 10a – Erstattung von notwendigen Kosten für Untersuchungen
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie erstattet dem Inhaber eines Projekts, dessen Planfeststellungsverfahren oder Genehmigungsverfahren nach § 46 Absatz 3 Satz 1 beendet wurde oder dessen nach der Seeanlagenverordnung erteilte Genehmigung durch das Windenergie-auf-See-Gesetz seine Wirkung verloren hat, auf Antrag die notwendigen Kosten für Untersuchungen für das Vorhaben, soweit
 
@@ -291,8 +277,7 @@ b) dem Stand von Wissenschaft und Technik nach § 10 Absatz 1 Satz 2 und 3 ents
 
 (7) Sobald feststeht, dass für übermittelte Untersuchungsergebnisse oder Unterlagen keine Kosten erstattet werden, sind diese vom Bundesamt für Seeschifffahrt und Hydrographie unverzüglich zu löschen.
 
-
-## § 11 – Zuständigkeit für die Voruntersuchung von Flächen
+# § 11 – Zuständigkeit für die Voruntersuchung von Flächen
 
 (1) Zuständige Stelle für die Voruntersuchung von Flächen ist die Bundesnetzagentur. Sie kann die Voruntersuchung nach Maßgabe einer Verwaltungsvereinbarung im Auftrag wahrnehmen lassen
 
@@ -304,8 +289,7 @@ In diesen Fällen nimmt die Behörde nach Satz 2 Nummer 1 oder Nummer 2 die Aufg
 
 (2) Die Feststellung der Eignung einer Fläche nach § 12 Absatz 5 Satz 1 bedarf des Einvernehmens der Generaldirektion Wasserstraßen und Schifffahrt. Das Einvernehmen darf nur versagt werden, wenn durch die Errichtung und den Betrieb von Windenergieanlagen auf See auf dieser Fläche Beeinträchtigungen der Sicherheit und Leichtigkeit des Verkehrs zu besorgen sind, die bei Flächen in der ausschließlichen Wirtschaftszone nicht durch Bedingungen oder Auflagen im Planfeststellungsbeschluss nach § 48 Absatz 1 oder bei Flächen im Küstenmeer nicht durch Bedingungen oder Auflagen in der Genehmigung nach § 4 Absatz 1 des Bundes-Immissionsschutzgesetzes verhütet oder ausgeglichen werden können.
 
-
-## § 12 – Verfahren zur Voruntersuchung von Flächen
+# § 12 – Verfahren zur Voruntersuchung von Flächen
 
 (1) Die für die Voruntersuchung zuständige Stelle macht die Einleitung des Verfahrens zur Voruntersuchung einer Fläche nach § 73 bekannt.
 
@@ -329,30 +313,25 @@ Das Bundesministerium für Wirtschaft und Energie kann die Ermächtigung zum Erl
 
 (7) Lässt die Bundesnetzagentur die Voruntersuchung nach § 11 Absatz 1 durch eine andere Behörde im Auftrag wahrnehmen, übermittelt diese zum Abschluss des Verfahrens die Untersuchungsergebnisse und Unterlagen aus der Voruntersuchung und die festgestellte zu installierende Leistung nach Absatz 5 unverzüglich im Anschluss an die Bekanntmachung nach Absatz 5 an die Bundesnetzagentur, sofern die Eignung der Fläche festgestellt wurde. Die Übermittlung kann elektronisch erfolgen.
 
-
-## § 13 – Errichtung und Betrieb von Offshore-Anbindungsleitungen
+# § 13 – Errichtung und Betrieb von Offshore-Anbindungsleitungen
 
 Die Errichtung und der Betrieb der Offshore-Anbindungsleitungen, die zur Anbindung der als geeignet festgestellten Flächen erforderlich sind, sind nicht Gegenstand der Voruntersuchung; sie richten sich nach § 17d des Energiewirtschaftsgesetzes.
 
-
-## § 14 – Wettbewerbliche Bestimmung der Marktprämie
+# § 14 – Wettbewerbliche Bestimmung der Marktprämie
 
 (1) Betreiber von Windenergieanlagen auf See, die nach dem 31. Dezember 2020 in der ausschließlichen Wirtschaftszone und im Küstenmeer in Betrieb genommen werden, haben für den Strom, der in diesen Anlagen erzeugt wird, einen Anspruch nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes nur, solange und soweit für die jeweilige Windenergieanlage auf See ein von der Bundesnetzagentur nach § 23 oder nach § 34 erteilter Zuschlag wirksam ist.
 
 (2) Pilotwindenergieanlagen auf See können abweichend von Absatz 1 einen Zahlungsanspruch nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes nach Maßgabe von Teil 5 haben.
 
-
-## § 15 – Allgemeine Ausschreibungsbedingungen
+# § 15 – Allgemeine Ausschreibungsbedingungen
 
 Die Ausschreibungsbedingungen nach den §§ 30 bis 35a, 55 und 55a des Erneuerbare-Energien-Gesetzes sind anzuwenden, soweit die nachfolgenden Bestimmungen nichts anderes regeln.
 
-
-## § 16 – Gegenstand der Ausschreibungen
+# § 16 – Gegenstand der Ausschreibungen
 
 Für Windenergieanlagen auf See, die ab dem 1. Januar 2026 auf voruntersuchten Flächen in Betrieb genommen werden, ermittelt die Bundesnetzagentur ab dem Jahr 2021 die Anspruchsberechtigten und den anzulegenden Wert für den in diesen Anlagen erzeugten Strom nach § 22 des Erneuerbare-Energien-Gesetzes durch Ausschreibungen für voruntersuchte Flächen.
 
-
-## § 17 – Ausschreibungsvolumen
+# § 17 – Ausschreibungsvolumen
 
 Die Bundesnetzagentur schreibt ab dem Jahr 2021 jährlich zum Gebotstermin 1. September entsprechend den Festlegungen des Flächenentwicklungsplans jeweils ein bestimmtes Ausschreibungsvolumen aus, wobei
 
@@ -362,8 +341,7 @@ Die Bundesnetzagentur schreibt ab dem Jahr 2021 jährlich zum Gebotstermin 1. Se
 
 3. der Anteil einer Fläche nach Nummer 2 am Ausschreibungsvolumen sich nach dem Flächenentwicklungsplan und der in der Voruntersuchung festgestellten zu installierenden Leistung auf den Flächen bestimmt.
 
-
-## § 18 – Veränderung des Ausschreibungsvolumens
+# § 18 – Veränderung des Ausschreibungsvolumens
 
 (1) Die Bundesnetzagentur kann für das Ausschreibungsvolumen und die Verteilung des Ausschreibungsvolumens auf die Flächen zu einem Gebotstermin in Abstimmung mit dem Bundesamt für Seeschifffahrt und Hydrographie vom Flächenentwicklungsplan nur abweichen, wenn und soweit
 
@@ -389,8 +367,7 @@ In diesen Fällen wird die Fläche, zu der die betroffene Offshore-Anbindungslei
 
 Passt die Bundesnetzagentur das Ausschreibungsvolumen nach den Absätzen 1 und 2 an, so muss der Flächenentwicklungsplan nach § 8 geändert oder fortgeschrieben werden, wenn er andernfalls in den Folgejahren aufgrund der Anpassungen nicht mehr eingehalten werden könnte. Die Fläche, die in einem Kalenderjahr nicht ausgeschrieben werden konnte, wird im darauffolgenden Kalenderjahr ausgeschrieben, sofern die Voraussetzungen des Absatzes 2 Satz 1 nicht mehr vorliegen.
 
-
-## § 19 – Bekanntmachung der Ausschreibungen
+# § 19 – Bekanntmachung der Ausschreibungen
 
 Die Bundesnetzagentur macht die Ausschreibungen spätestens sechs Kalendermonate vor dem jeweiligen Gebotstermin nach § 73 Nummer 2 bekannt. Die Bekanntmachungen müssen mindestens folgende Angaben enthalten:
 
@@ -418,8 +395,7 @@ Die Bundesnetzagentur macht die Ausschreibungen spätestens sechs Kalendermonate
 
 12. einen Hinweis auf die nach § 46 Absatz 6 und § 48 Absatz 4 Nummer 7 erforderliche Verpflichtungserklärung.
 
-
-## § 20 – Anforderungen an Gebote
+# § 20 – Anforderungen an Gebote
 
 (1) In Ergänzung zu § 30 des Erneuerbare-Energien-Gesetzes müssen Gebote folgenden Anforderungen genügen:
 
@@ -431,13 +407,11 @@ Die Bundesnetzagentur macht die Ausschreibungen spätestens sechs Kalendermonate
 
 (3) § 30 Absatz 1 Nummer 5 des Erneuerbare-Energien-Gesetzes ist mit der Maßgabe anzuwenden, dass der anzugebende Gebotswert nicht negativ sein darf.
 
-
-## § 21 – Sicherheit
+# § 21 – Sicherheit
 
 Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-Gesetzes bestimmt sich aus der Gebotsmenge multipliziert mit 200 Euro pro Kilowatt installierter Leistung.
 
-
-## § 22 – Höchstwert
+# § 22 – Höchstwert
 
 (1) Der Höchstwert für Strom aus Windenergieanlagen auf See beträgt
 
@@ -449,20 +423,17 @@ Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-Gesetzes bestimmt s
 
 (2) Die Bundesnetzagentur kann durch Festlegung nach § 29 des Energiewirtschaftsgesetzes einen von Absatz 1 abweichenden Höchstwert unter Berücksichtigung der zum Zeitpunkt der Bekanntmachung bestehenden wirtschaftlichen Rahmenbedingungen für die Errichtung und den Betrieb von Windenergieanlagen auf See sowie des zu erwartenden technologischen Fortschritts bestimmen, wenn sich Anhaltspunkte dafür ergeben haben, dass der Höchstwert unter Berücksichtigung der §§ 1 und 2 Absatz 4 des Erneuerbare-Energien-Gesetzes zu hoch oder zu niedrig ist. Dabei darf der neue Höchstwert um nicht mehr als 10 Prozent von dem zum Zeitpunkt der Neufestlegung geltenden Höchstwert abweichen.
 
-
-## § 23 – Zuschlagsverfahren, anzulegender Wert
+# § 23 – Zuschlagsverfahren, anzulegender Wert
 
 (1) Die Bundesnetzagentur erteilt auf jeder ausgeschriebenen Fläche dem Gebot mit dem niedrigsten Gebotswert den Zuschlag unter dem Vorbehalt des Widerrufs nach § 60 Absatz 3 und unter dem Vorbehalt eines Übergangs nach § 43 bei wirksamer Ausübung eines Eintrittsrechts. Wenn mehrere Gebotswerte von 0 Cent pro Kilowattstunde für dieselbe ausgeschriebene Fläche abgegeben werden, entscheidet das Los über den Zuschlag.
 
 (2) Der anzulegende Wert ist der Gebotswert des bezuschlagten Gebots.
 
-
-## § 23a – Evaluierung des Losverfahrens
+# § 23a – Evaluierung des Losverfahrens
 
 Die Bundesregierung prüft im Jahr 2022, ob gesetzlicher Anpassungsbedarf besteht, um mehrere Gebotswerte von 0 Cent pro Kilowattstunde für dieselbe ausgeschriebene Fläche differenzieren zu können. Darüber hinaus beobachtet die Bundesregierung die Ausschreibungsmodelle für Windenergie auf See in anderen europäischen Ländern, um möglichen Anpassungsbedarf identifizieren zu können.
 
-
-## § 24 – Rechtsfolgen des Zuschlags
+# § 24 – Rechtsfolgen des Zuschlags
 
 (1) Mit der Erteilung des Zuschlags nach § 23 hat der bezuschlagte Bieter
 
@@ -478,13 +449,11 @@ b) zugewiesene Netzanbindungskapazität auf der im Flächenentwicklungsplan fest
 
 (2) Durch den Zuschlag werden vorbehaltlich des § 48 Absatz 7 und des § 17d Absatz 5 Satz 1 des Energiewirtschaftsgesetzes keine Rechte begründet für die Zeit nach dem Ende des Anspruchs auf die Marktprämie nach § 25 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes. Die bezuschlagte Fläche kann nach Maßgabe des Flächenentwicklungsplans nach § 8 Absatz 3 erneut ausgeschrieben werden.
 
-
-## § 25 – Erstattung von Sicherheiten an Bieter ohne Zuschlag
+# § 25 – Erstattung von Sicherheiten an Bieter ohne Zuschlag
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein Gebot zurück, wenn der Bieter für dieses Gebot keinen Zuschlag nach § 23 erhalten hat.
 
-
-## § 26 – Ausschreibungen für bestehende Projekte
+# § 26 – Ausschreibungen für bestehende Projekte
 
 (1) Für Windenergieanlagen auf See, die nach dem 31. Dezember 2020 in Betrieb genommen werden, ermittelt die Bundesnetzagentur zu den Gebotsterminen 1. April 2017 und 1. April 2018 die Anspruchsberechtigten und den anzulegenden Wert für den in diesen Anlagen erzeugten Strom nach § 22 des Erneuerbare-Energien-Gesetzes durch Ausschreibungen, an denen nur bestehende Projekte teilnehmen können.
 
@@ -504,8 +473,7 @@ a) der Nordsee in einem der Cluster 1 bis 8 des Bundesfachplans Offshore für di
 
 b) der Ostsee in einem der Cluster 1 bis 3 des Bundesfachplans Offshore für die deutsche ausschließliche Wirtschaftszone der Ostsee 2013 des Bundesamtes für Seeschifffahrt und Hydrographie<span id="FnR.f794982_10"></span><a href="#f794982_10" class="FnR">5</a></sup> .
 
-
-## § 27 – Ausschreibungsvolumen
+# § 27 – Ausschreibungsvolumen
 
 (1) Das Ausschreibungsvolumen beträgt 1 550 Megawatt pro Gebotstermin.
 
@@ -527,13 +495,11 @@ b) der Ostsee in einem der Cluster 1 bis 3 des Bundesfachplans Offshore für die
 
 Diese Verteilung des Zubaus wird umgesetzt durch die Mindestmenge für die Ostsee nach Absatz 3 und die entsprechende Verteilung der Offshore-Anbindungsleitungen im Offshore-Netzentwicklungsplan nach § 17b des Energiewirtschaftsgesetzes.
 
-
-## § 28 – Planung der Offshore-Anbindungsleitungen
+# § 28 – Planung der Offshore-Anbindungsleitungen
 
 Die Errichtung und der Betrieb der Offshore-Anbindungsleitungen zu den Clustern, in denen bestehende Projekte liegen, die nach § 26 Absatz 2 für einen Zuschlag in Betracht kommen, erfolgt nach den §§ 17b und 17c des Energiewirtschaftsgesetzes.
 
-
-## § 29 – Bekanntmachung der Ausschreibungen
+# § 29 – Bekanntmachung der Ausschreibungen
 
 Die Bundesnetzagentur macht die Ausschreibungen spätestens acht Kalenderwochen vor dem jeweiligen Gebotstermin nach § 73 Nummer 2 bekannt. Die Bekanntmachungen enthalten mindestens folgende Angaben:
 
@@ -570,8 +536,7 @@ durch Zuschläge nach § 34 Absatz 1 aus dem Gebotstermin 1. April 2017,
 
 9. einen Hinweis auf die nach § 46 Absatz 6 und § 48 Absatz 4 Nummer 7 erforderliche Verpflichtungserklärung.
 
-
-## § 30 – Voraussetzungen für die Teilnahme an Ausschreibungen für bestehende Projekte
+# § 30 – Voraussetzungen für die Teilnahme an Ausschreibungen für bestehende Projekte
 
 (1) Bei den Ausschreibungen nach § 26 dürfen natürliche Personen, rechtsfähige Personengesellschaften und juristische Personen Gebote abgeben, die Inhaber eines bestehenden Projekts im Sinn des § 26 Absatz 2 sind.
 
@@ -585,8 +550,7 @@ Die Teilnahme ist nur zulässig, wenn für das bestehende Projekt bei Bekanntmac
 
 (3) Eine Teilnahme an der Ausschreibung zum Gebotstermin 1. April 2018 ist nur zulässig, soweit für das bestehende Projekt nach § 26 Absatz 2 Nummer 1 bei der Ausschreibung zum Gebotstermin 1. April 2017 kein Zuschlag erteilt wurde.
 
-
-## § 31 – Anforderungen an Gebote
+# § 31 – Anforderungen an Gebote
 
 (1) Die Gebote müssen in Ergänzung zu § 30 des Erneuerbare-Energien-Gesetzes folgende Angaben enthalten:
 
@@ -610,18 +574,15 @@ b) nach § 26 Absatz 2 Nummer 1 Buchstabe c eine Bewertung der für die Feststel
 
 Macht der Bieter von der Möglichkeit nach Satz 1 Nummer 1 keinen Gebrauch, ist die Gebotsmenge zugleich die Mindestgebotsmenge.
 
-
-## § 32 – Sicherheit
+# § 32 – Sicherheit
 
 Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-Gesetzes bestimmt sich aus der Gebotsmenge nach § 30 Absatz 1 Nummer 4 des Erneuerbare-Energien-Gesetzes multipliziert mit 100 Euro pro Kilowatt installierter Leistung. Für die nach § 31 Absatz 2 angegebenen Gebotsmengen ist keine zusätzliche Sicherheit zu leisten.
 
-
-## § 33 – Höchstwert
+# § 33 – Höchstwert
 
 Der Höchstwert für Strom aus Windenergieanlagen auf See beträgt 10 Cent pro Kilowattstunde.
 
-
-## § 34 – Zuschlagsverfahren
+# § 34 – Zuschlagsverfahren
 
 (1) Die Bundesnetzagentur führt bei jeder Ausschreibung das folgende Zuschlagsverfahren durch. Sie
 
@@ -645,20 +606,17 @@ Hat die Bundesnetzagentur einem Gebot nach Satz 2 einen Zuschlag erteilt, darf s
 
 (4) Die Bundesnetzagentur kann durch Festlegung nach § 29 des Energiewirtschaftsgesetzes nähere Bestimmungen zur Umsetzung der Absätze 1 und 2 treffen.
 
-
-## § 35 – Flächenbezug des Zuschlags
+# § 35 – Flächenbezug des Zuschlags
 
 Die Bundesnetzagentur muss den Zuschlag bezogen auf die Fläche erteilen, die sich aus den Standortangaben nach § 31 Absatz 1 Satz 2 ergibt.
 
-
-## § 36 – Zuschlagswert und anzulegender Wert
+# § 36 – Zuschlagswert und anzulegender Wert
 
 (1) Zuschlagswert ist der in dem jeweiligen bezuschlagten Gebot angegebene Gebotswert.
 
 (2) Der anzulegende Wert ist jeweils der Zuschlagswert.
 
-
-## § 37 – Rechtsfolgen des Zuschlags
+# § 37 – Rechtsfolgen des Zuschlags
 
 (1) Mit der Erteilung des Zuschlags nach § 34 hat der bezuschlagte Bieter
 
@@ -672,13 +630,11 @@ b) zugewiesene Netzanbindungskapazität auf der nach dem Offshore-Netzentwicklun
 
 (2) Durch den Zuschlag werden vorbehaltlich des § 48 Absatz 7 und des § 17d Absatz 5 Satz 1 des Energiewirtschaftsgesetzes keine Rechte begründet für die Zeit nach dem Ende des Anspruchs auf die Marktprämie nach § 25 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes. Die Fläche nach § 35 kann nach Maßgabe des Flächenentwicklungsplans nach § 8 Absatz 3 erneut ausgeschrieben werden.
 
-
-## § 38 – Erstattung von Sicherheiten an Bieter ohne Zuschlag
+# § 38 – Erstattung von Sicherheiten an Bieter ohne Zuschlag
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein bestimmtes Gebot zurück, wenn der Bieter für dieses Gebot keinen Zuschlag nach § 34 erhalten hat.
 
-
-## § 39 – Eintrittsrecht für den Inhaber eines bestehenden Projekts
+# § 39 – Eintrittsrecht für den Inhaber eines bestehenden Projekts
 
 (1) Der Inhaber eines bestehenden Projekts nach § 26 Absatz 2 hat nach Maßgabe dieses Abschnitts zum Ausgleich für die Überlassung der bei der Entwicklung seines Projekts durch ihn erhobenen Daten bei den Ausschreibungen nach Abschnitt 2 das Recht, in einen nach § 23 bis zum 31. Dezember 2030 erteilten Zuschlag einzutreten (Eintrittsrecht).
 
@@ -692,8 +648,7 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 (3) Das Eintrittsrecht kann auf eine andere natürliche oder juristische Person übertragen werden. Die Übertragung ist nur wirksam, wenn sie dem Bundesamt für Seeschifffahrt und Hydrographie schriftlich vom bisherigen Berechtigten angezeigt wird. Das Eintrittsrecht kann nur bis zum Tag der Bekanntmachung der Ausschreibung nach § 19 für die voruntersuchte Fläche übertragen werden, für die das Eintrittsrecht besteht.
 
-
-## § 40 – Voraussetzungen und Reichweite des Eintrittsrechts
+# § 40 – Voraussetzungen und Reichweite des Eintrittsrechts
 
 (1) Der Inhaber eines bestehenden Projekts hat ein Eintrittsrecht, wenn
 
@@ -711,8 +666,7 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 
 (2) Wenn sich die räumliche Ausdehnung des bestehenden Projekts nur teilweise, aber überwiegend mit der voruntersuchten Fläche überschneidet, besteht das Eintrittsrecht für die gesamte voruntersuchte Fläche. Wenn sich mehrere bestehende Projekte mit der voruntersuchten Fläche überschneiden, hat nur der Inhaber des bestehenden Projekts ein Eintrittsrecht, dessen räumliche Ausdehnung sich mit dem überwiegenden Teil der voruntersuchten Fläche überschneidet.
 
-
-## § 41 – Datenüberlassung und Verzichtserklärung
+# § 41 – Datenüberlassung und Verzichtserklärung
 
 (1) Das Eintrittsrecht setzt voraus, dass der Inhaber eines bestehenden Projekts in der ausschließlichen Wirtschaftszone
 
@@ -744,8 +698,7 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (+++ § 41 Abs. 3: Zur Anwendung vgl. § 66 Abs. 2 Satz 3 +++)
 
-
-## § 42 – Ausübung des Eintrittsrechts
+# § 42 – Ausübung des Eintrittsrechts
 
 (1) Der Eintrittsberechtigte muss zur Ausübung seines Eintrittsrechts spätestens zum Ablauf des Kalendermonats, der auf die Bekanntmachung der Zuschläge in der Ausschreibung nach Abschnitt 2 für die von dem Eintrittsrecht betroffene voruntersuchte Fläche folgt,
 
@@ -755,13 +708,11 @@ b) auf sämtliche Rechte an den Untersuchungsergebnissen und Unterlagen nach Num
 
 (2) Das Eintrittsrecht muss in vollem Umfang ausgeübt werden. Eine teilweise Ausübung ist unzulässig.
 
-
-## § 43 – Rechtsfolgen des Eintritts
+# § 43 – Rechtsfolgen des Eintritts
 
 Sofern die Voraussetzungen für das Eintrittsrecht nach § 40 Absatz 1 vorliegen und der Inhaber des bestehenden Projekts das Eintrittsrecht nach § 42 wirksam ausgeübt hat, geht der dem Bieter nach § 23 erteilte Zuschlag für die von dem Eintrittsrecht betroffene voruntersuchte Fläche auf den Inhaber des bestehenden Projekts vollständig über.
 
-
-## § 44 – Geltungsbereich von Teil 4
+# § 44 – Geltungsbereich von Teil 4
 
 (1) Die Bestimmungen dieses Teils sind anzuwenden für die Errichtung, den Betrieb und die Änderung von Windenergieanlagen auf See, sonstige Energiegewinnungsanlagen sowie Anlagen zur Übertragung von Strom aus Windenergieanlagen auf See einschließlich der jeweils zur Errichtung und zum Betrieb der Anlagen erforderlichen technischen und baulichen Nebeneinrichtungen (Einrichtungen), wenn und soweit
 
@@ -775,8 +726,7 @@ Sofern die Voraussetzungen für das Eintrittsrecht nach § 40 Absatz 1 vorliegen
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 45 – Planfeststellung
+# § 45 – Planfeststellung
 
 (1) Die Errichtung und der Betrieb von Einrichtungen sowie die wesentliche Änderung solcher Einrichtungen oder ihres Betriebs bedürfen der Planfeststellung.
 
@@ -788,8 +738,7 @@ Sofern die Voraussetzungen für das Eintrittsrecht nach § 40 Absatz 1 vorliegen
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 46 – Verhältnis der Planfeststellung zu den Ausschreibungen
+# § 46 – Verhältnis der Planfeststellung zu den Ausschreibungen
 
 (1) Den Antrag auf Durchführung des Planfeststellungsverfahrens zur Errichtung und zum Betrieb von Windenergieanlagen auf See kann nur stellen, wer über einen Zuschlag der Bundesnetzagentur auf der Fläche verfügt, auf die sich der Plan bezieht. Für den Antrag auf Durchführung des Planfeststellungsverfahrens zur Errichtung und zum Betrieb von Windenergieanlagen auf See und sonstigen Energiegewinnungsanlagen, die jeweils nicht an das Netz angeschlossen werden, ist eine Antragsberechtigung nach § 67a erforderlich.
 
@@ -811,8 +760,7 @@ Sofern die Voraussetzungen für das Eintrittsrecht nach § 40 Absatz 1 vorliegen
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 47 – Planfeststellungsverfahren
+# § 47 – Planfeststellungsverfahren
 
 (1) Der Plan umfasst zusätzlich zu den Zeichnungen und Erläuterungen nach § 73 Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes
 
@@ -840,8 +788,7 @@ Sofern die Voraussetzungen für das Eintrittsrecht nach § 40 Absatz 1 vorliegen
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 48 – Planfeststellungsbeschluss, Plangenehmigung
+# § 48 – Planfeststellungsbeschluss, Plangenehmigung
 
 (1) § 74 Absatz 6 und 7 des Verwaltungsverfahrensgesetzes ist nur anzuwenden, wenn zusätzlich zu den dort genannten Voraussetzungen für das Vorhaben nach dem Gesetz über die Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung durchzuführen ist.
 
@@ -904,8 +851,7 @@ Die wirksame Aufhebung des Planfeststellungsbeschlusses ist nach § 73 Nummer 1 
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)  
 (+++ § 48 Abs. 4 Satz 2 und Abs. 6: Zur Anwendung vgl. § 70 Abs. 3 Satz 1 +++)
 
-
-## § 49 – Vorläufige Anordnung
+# § 49 – Vorläufige Anordnung
 
 Ist das Planfeststellungsverfahren eingeleitet, kann die Planfeststellungsbehörde nach Zustimmung des Bundesministeriums für Wirtschaft und Energie eine vorläufige Anordnung erlassen, in der Teilmaßnahmen zur Vorbereitung der Errichtung festgesetzt werden, wenn Gründe des Wohls der Allgemeinheit, insbesondere der effizienten Netznutzung, den alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes und nach § 48 Absatz 4 zu berücksichtigenden Belange gewahrt werden. In der vorläufigen Anordnung sind die Auflagen zur Sicherung dieser Belange und der Umfang der vorläufig zulässigen Bauarbeiten festzulegen. Sie ist nach § 73 Nummer 1 bekannt zu machen. Die vorläufige Anordnung tritt außer Kraft, wenn nicht binnen sechs Monaten nach ihrem Erlass mit den Arbeiten begonnen wird. Sie ersetzt nicht die Planfeststellung. Soweit die Teilmaßnahmen durch die Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand wiederherzustellen.
 
@@ -913,8 +859,7 @@ Ist das Planfeststellungsverfahren eingeleitet, kann die Planfeststellungsbehör
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 50 – Einvernehmensregelung
+# § 50 – Einvernehmensregelung
 
 Die Feststellung des Plans oder die Plangenehmigung und eine vorläufige Anordnung nach § 49 bedürfen des Einvernehmens der Wasserstraßen- und Schifffahrtsverwaltung des Bundes. Das Einvernehmen darf nur versagt werden, wenn eine Beeinträchtigung der Sicherheit und Leichtigkeit des Verkehrs zu besorgen ist, die nicht durch Bedingungen oder Auflagen verhütet oder ausgeglichen werden kann.
 
@@ -922,8 +867,7 @@ Die Feststellung des Plans oder die Plangenehmigung und eine vorläufige Anordnu
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 51 – Umweltverträglichkeitsprüfung
+# § 51 – Umweltverträglichkeitsprüfung
 
 Die Prüfung der Umweltverträglichkeit von Windenergieanlagen auf See oder von sonstigen Energiegewinnungsanlagen nach den Bestimmungen des Gesetzes über die Umweltverträglichkeitsprüfung kann aufgrund einer nach den §§ 5 bis 12 beim Flächenentwicklungsplan oder der Voruntersuchung bereits durchgeführten Strategischen Umweltprüfung auf zusätzliche oder andere erhebliche Umweltauswirkungen beschränkt werden. Gleiches gilt, soweit eine Windenergieanlage auf See oder eine sonstige Energiegewinnungsanlage oder von sonstigen Energiegewinnungsanlagen in einem vom Bundesfachplan Offshore nach § 17a des Energiewirtschaftsgesetzes festgelegten Cluster oder einem Vorrang-, Vorbehalts- oder Eignungsgebiet eines Raumordnungsplans nach § 17 Absatz 1 Satz 1 des Raumordnungsgesetzes liegt.
 
@@ -931,8 +875,7 @@ Die Prüfung der Umweltverträglichkeit von Windenergieanlagen auf See oder von 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 52 – Veränderungssperre
+# § 52 – Veränderungssperre
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland Seegebiete festlegen, in denen bestimmte Einrichtungen vorübergehend nicht planfestgestellt oder plangenehmigt werden (Veränderungssperre). Diese Seegebiete müssen ernsthaft in Betracht kommen für die Errichtung von:
 
@@ -948,8 +891,7 @@ Die Veränderungssperre darf nur solche Einrichtungen erfassen, die die Errichtu
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 53 – Sicherheitszonen
+# § 53 – Sicherheitszonen
 
 (1) Die Planfeststellungsbehörde richtet in der ausschließlichen Wirtschaftszone Sicherheitszonen um die Einrichtungen ein, soweit dies zur Gewährleistung der Sicherheit der Schifffahrt oder der Einrichtungen notwendig ist. Soweit die Einrichtung der Sicherheitszonen zur Gewährleistung der Sicherheit der Schifffahrt erforderlich ist, bedarf sie des Einvernehmens der Generaldirektion Wasserstraßen und Schifffahrt.
 
@@ -959,8 +901,7 @@ Die Veränderungssperre darf nur solche Einrichtungen erfassen, die die Errichtu
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 54 – Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen
+# § 54 – Bekanntmachung der Einrichtungen und ihrer Sicherheitszonen
 
 Die Planfeststellungsbehörde macht die Einrichtungen und die von ihr nach § 53 eingerichteten Sicherheitszonen nach § 73 Nummer 1 bekannt und trägt sie in die amtlichen Seekarten ein.
 
@@ -968,8 +909,7 @@ Die Planfeststellungsbehörde macht die Einrichtungen und die von ihr nach § 53
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 54a – Rechtsbehelfe
+# § 54a – Rechtsbehelfe
 
 (1) Soweit Vorhaben, die nach § 45 Absatz 1 der Planfeststellung bedürfen, Offshore-Anbindungsleitungen im Sinn des § 3 Nummer 5 betreffen, ist § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung ist auch anzuwenden für auf diese Vorhaben bezogene vorläufige Anordnungen und Veränderungssperren.
 
@@ -979,8 +919,7 @@ Die Planfeststellungsbehörde macht die Einrichtungen und die von ihr nach § 53
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 55 – Pflichten der verantwortlichen Personen
+# § 55 – Pflichten der verantwortlichen Personen
 
 Die im Sinn von § 56 verantwortlichen Personen haben sicherzustellen, dass von der Einrichtung während der Errichtung, des Betriebs und nach einer Betriebseinstellung
 
@@ -1002,8 +941,7 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 56 – Verantwortliche Personen
+# § 56 – Verantwortliche Personen
 
 (1) Die verantwortlichen Personen für die Erfüllung der Pflichten, die sich aus diesem Teil des Gesetzes oder aus Verwaltungsakten zu Errichtung, Betrieb und Betriebseinstellung von Einrichtungen ergeben, sind
 
@@ -1025,8 +963,7 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 57 – Überwachung der Einrichtungen
+# § 57 – Überwachung der Einrichtungen
 
 (1) Die Einrichtungen, ihre Errichtung und ihr Betrieb unterliegen der Überwachung durch das Bundesamt für Seeschifffahrt und Hydrographie. Die Generaldirektion Wasserstraßen und Schifffahrt wird beteiligt, soweit dies der Überwachung der Sicherheit und Leichtigkeit des Verkehrs dient.
 
@@ -1044,8 +981,7 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 58 – Beseitigung der Einrichtungen, Sicherheitsleistung
+# § 58 – Beseitigung der Einrichtungen, Sicherheitsleistung
 
 (1) Wenn der Planfeststellungsbeschluss oder die Plangenehmigung unwirksam werden, sind die Einrichtungen in dem Umfang zu beseitigen, wie dies die in § 48 Absatz 4 Nummer 1 bis 4 genannten Belange erfordern.
 
@@ -1061,8 +997,7 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 59 – Realisierungsfristen
+# § 59 – Realisierungsfristen
 
 (1) Die Fristen für bezuschlagte Bieter, ihre Windenergieanlagen auf See technisch betriebsbereit herzustellen, werden in Abhängigkeit vom Zeitpunkt des Zuschlags und von den Fertigstellungsterminen für die Offshore-Anbindungsleitung bestimmt. Die Fertigstellungstermine bestimmen sich nach dem in § 17d Absatz 2 des Energiewirtschaftsgesetzes festgelegten Verfahren.
 
@@ -1094,8 +1029,7 @@ Die Realisierungsfristen dürfen nicht um mehr als 18 Monate verlängert werden.
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 60 – Sanktionen bei Nichteinhaltung der Realisierungsfristen
+# § 60 – Sanktionen bei Nichteinhaltung der Realisierungsfristen
 
 (1) Bezuschlagte Bieter müssen an den regelverantwortlichen Übertragungsnetzbetreiber eine Pönale leisten, wenn sie gegen die Fristen nach § 59 Absatz 2 verstoßen.
 
@@ -1131,8 +1065,7 @@ In den Fällen nach Satz 1 Nummer 3 erfolgt der Widerruf eines Zuschlags in dem 
 (+++ Teil 4 (§§ 44 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschnitt 2 Unterabschnitt 2 (§§ 59 bis 67): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 61 – Ausnahme von den Sanktionen bei Nichteinhaltung der Realisierungsfristen
+# § 61 – Ausnahme von den Sanktionen bei Nichteinhaltung der Realisierungsfristen
 
 (1) Pönalen nach § 60 Absatz 1, 2 und 2a sind nicht zu leisten und die Bundesnetzagentur darf den Zuschlag nicht nach § 60 Absatz 3 widerrufen, soweit
 
@@ -1152,8 +1085,7 @@ In den Fällen nach Satz 1 Nummer 3 erfolgt der Widerruf eines Zuschlags in dem 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 62 – Rückgabe von Zuschlägen und Planfeststellungsbeschlüssen
+# § 62 – Rückgabe von Zuschlägen und Planfeststellungsbeschlüssen
 
 (1) Der bezuschlagte Bieter darf den Zuschlag oder den Planfeststellungsbeschluss nicht zurückgeben.
 
@@ -1173,8 +1105,7 @@ Das Vorliegen der Voraussetzungen nach Satz 1 stellt auf Antrag des Bieters fest
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 63 – Übergang von Zuschlägen und Planfeststellungsbeschlüssen
+# § 63 – Übergang von Zuschlägen und Planfeststellungsbeschlüssen
 
 (1) Zuschläge nach § 23 oder § 34 dürfen nicht auf Anlagen auf anderen Flächen übertragen werden.
 
@@ -1190,8 +1121,7 @@ Das Vorliegen der Voraussetzungen nach Satz 1 stellt auf Antrag des Bieters fest
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 63a – Rechtsfolgen der Änderung oder Neuerteilung von Planfeststellungsbeschlüssen oder Plangenehmigungen
+# § 63a – Rechtsfolgen der Änderung oder Neuerteilung von Planfeststellungsbeschlüssen oder Plangenehmigungen
 
 Wird der Planfeststellungsbeschluss oder die Plangenehmigung geändert oder neu erteilt, berührt dies die Wirksamkeit des Zuschlags nach § 23 oder nach § 34 nicht. Der Umfang des Zuschlags verändert sich nicht.
 
@@ -1199,8 +1129,7 @@ Wird der Planfeststellungsbeschluss oder die Plangenehmigung geändert oder neu 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 64 – Rechtsfolgen der Unwirksamkeit von Zuschlägen und Planfeststellungsbeschlüssen
+# § 64 – Rechtsfolgen der Unwirksamkeit von Zuschlägen und Planfeststellungsbeschlüssen
 
 (1) Wird ein Zuschlag unwirksam,
 
@@ -1226,8 +1155,7 @@ wird ein für die betreffende Fläche erteilter Zuschlag in dem gleichen Umfang 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 65 – Erstattung von Sicherheiten bei Realisierung oder Erfüllung von Pönalen
+# § 65 – Erstattung von Sicherheiten bei Realisierung oder Erfüllung von Pönalen
 
 Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein bestimmtes Gebot zurück, wenn der Bieter
 
@@ -1239,8 +1167,7 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 66 – Nachnutzung; Verpflichtungserklärung
+# § 66 – Nachnutzung; Verpflichtungserklärung
 
 (1) Abweichend von § 58 kann eine gesetzliche Bestimmung zur Nachnutzung von Flächen, die bereits für die Stromerzeugung aus Windenergieanlagen auf See genutzt werden oder worden sind, oder von sonstigen Energiegewinnungsbereichen vorsehen, dass für die Nachnutzung durch einen Dritten
 
@@ -1254,8 +1181,7 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 67 – Nutzung von Unterlagen
+# § 67 – Nutzung von Unterlagen
 
 (1) Die Planfeststellungsbehörde kann im Fall der Unwirksamkeit von Planfeststellungsbeschlüssen nach § 64 Absatz 1 Satz 1 Nummer 1, der Beendigung von Planfeststellungsverfahren oder Plangenehmigungsverfahren nach § 64 Absatz 1 Satz 1 Nummer 1 oder der Aufhebung von Planfeststellungsbeschlüssen oder Plangenehmigungen nach § 48 Absatz 5 sämtliche im Rahmen des Verfahrens vom Vorhabenträger eingereichten Unterlagen zur Aktualisierung und Ergänzung der Unterlagen nach § 10 Absatz 1 verwenden und im Fall eines weiteren Planfeststellungsverfahrens auf der betreffenden Fläche einem neuen Vorhabenträger zur Verfügung stellen.
 
@@ -1267,16 +1193,14 @@ Die Bundesnetzagentur gibt unverzüglich die hinterlegten Sicherheiten für ein 
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)  
 (+++ Teil 4 Abschn. 2 UAbschn. 2 (§§ 59 bis 67 außer § 64 Abs. 1 Satz 1 Nr. 1 u. § 67 ): Zur Anwendung vgl. § 44 Abs. 2 +++)
 
-
-## § 67a – Ausschreibung der Bereiche zur sonstigen Energiegewinnung
+# § 67a – Ausschreibung der Bereiche zur sonstigen Energiegewinnung
 
 Innerhalb von im Flächenentwicklungsplan festgelegten sonstigen Energiegewinnungsbereichen in der ausschließlichen Wirtschaftszone ermittelt das Bundesamt für Seeschifffahrt und Hydrographie gemäß den Vorgaben in der nach § 71 Nummer 5 zu erlassenden Rechtsverordnung den für die jeweiligen Bereiche Antragsberechtigten durch Ausschreibung.
 
 (+++ Teil 4 (§§ 44 bis 67a): Zur Anwendung vgl. § 44 Abs. 1 +++)  
 (+++ Teil 4 (§§ 44 bis 67a außer §§ 59 bis 67): Zur Anwendung vgl. § 70 Abs. 3 Satz 2 +++)
 
-
-## § 68 – Feststellung einer Pilotwindenergieanlage auf See
+# § 68 – Feststellung einer Pilotwindenergieanlage auf See
 
 Die Bundesnetzagentur stellt im Einvernehmen mit dem Bundesamt für Seeschifffahrt und Hydrographie auf Antrag fest, ob es sich bei einer Windenergieanlage auf See in der ausschließlichen Wirtschaftszone und im Küstenmeer um eine Pilotwindenergieanlage auf See nach § 3 Nummer 6 handelt. Mit dem Antrag müssen geeignete Unterlagen eingereicht werden, die belegen, dass
 
@@ -1284,8 +1208,7 @@ Die Bundesnetzagentur stellt im Einvernehmen mit dem Bundesamt für Seeschifffah
 
 2. die Windenergieanlage auf See eine wesentliche, weit über den Stand der Technik hinausgehende Innovation darstellt.
 
-
-## § 69 – Zahlungsanspruch für Strom aus Pilotwindenergieanlagen auf See
+# § 69 – Zahlungsanspruch für Strom aus Pilotwindenergieanlagen auf See
 
 (1) Für Strom aus Pilotwindenergieanlagen auf See in der ausschließlichen Wirtschaftszone und im Küstenmeer besteht nach Maßgabe der Absätze 3 und 4 ein Anspruch auf Zahlung nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes.
 
@@ -1301,8 +1224,7 @@ Die Bundesnetzagentur stellt im Einvernehmen mit dem Bundesamt für Seeschifffah
 
 (5) Der Nachweis, dass eine Anlage eine Pilotwindenergieanlage nach § 3 Nummer 6 ist, ist vom Anlagenbetreiber durch eine Bescheinigung der Bundesnetzagentur zu führen. Die Bundesnetzagentur kann die Bescheinigung auf Antrag des Anlagenbetreibers ausstellen, wenn der Antragsteller geeignete Unterlagen einreicht, die nachweisen, dass es sich bei einer Windenergieanlage auf See in der ausschließlichen Wirtschaftszone oder im Küstenmeer um eine Pilotwindenergieanlage handelt.
 
-
-## § 70 – Netzanbindungskapazität; Zulassung, Errichtung, Betrieb und Beseitigung
+# § 70 – Netzanbindungskapazität; Zulassung, Errichtung, Betrieb und Beseitigung
 
 (1) Zur Anbindung einer Pilotwindenergieanlage auf See kann der Betreiber die zugewiesene Netzanbindungskapazität nutzen, die er
 
@@ -1328,8 +1250,7 @@ Später gestellte Anträge von anderen Betreibern von Pilotwindenergieanlagen au
 
 (4) Der Betreiber hat nach Errichtung und Inbetriebnahme der Pilotwindenergieanlagen auf See zu einem vom Bundesamt für Seeschifffahrt und Hydrographie gesetzten Termin einen Erfahrungsbericht über die Erprobung der Innovation und die gewonnenen Erkenntnisse einzureichen.
 
-
-## § 71 – Verordnungsermächtigung
+# § 71 – Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrats – im Fall der Nummer 4 im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur – zu regeln
 
@@ -1377,13 +1298,11 @@ c) Anpassungen der Höhe von Pönalen nach § 60 Absatz 1 und 2 entsprechend ein
 
 6. die Ausschreibung von Windenergieanlagen auf See, die an ein Netz angeschlossen werden, abweichend von Teil 2 Abschnitt 2 mit einem von § 10 abweichenden Umfang und mit einem Teil der für das entsprechende Kalenderjahr vorgesehenen Ausschreibungsmenge.
 
-
-## § 72 – Rechtsschutz bei Ausschreibungen für bestehende Projekte
+# § 72 – Rechtsschutz bei Ausschreibungen für bestehende Projekte
 
 Nach Durchführung eines Zuschlagsverfahrens nach § 34 ist für gerichtliche Rechtsbehelfe § 83a des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden.
 
-
-## § 73 – Bekanntmachungen und Unterrichtungen
+# § 73 – Bekanntmachungen und Unterrichtungen
 
 Die nach diesem Gesetz erforderlichen Bekanntmachungen und Unterrichtungen müssen in folgenden Medien vorgenommen werden:
 
@@ -1393,13 +1312,11 @@ Die nach diesem Gesetz erforderlichen Bekanntmachungen und Unterrichtungen müss
 
 3. in den nach Landesrecht bestimmten Medien, soweit eine Landesbehörde die Voruntersuchung nach den §§ 9 bis 12 wahrnimmt.
 
-
-## § 74 – Verwaltungsvollstreckung
+# § 74 – Verwaltungsvollstreckung
 
 Für die Durchsetzung der im Planfeststellungsbeschluss oder in der Plangenehmigung nach § 48 getroffenen Regelungen sind die Bestimmungen des zweiten Abschnitts des Verwaltungsvollstreckungsgesetzes mit der Maßgabe anzuwenden, dass ein Zwangsgeld in Höhe bis zu 500 000 Euro angeordnet werden kann.
 
-
-## § 75 – Bußgeldvorschriften
+# § 75 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1411,13 +1328,11 @@ Für die Durchsetzung der im Planfeststellungsbeschluss oder in der Plangenehmig
 
 (3) Verwaltungsbehörde im Sinn des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Seeschifffahrt und Hydrographie.
 
-
-## § 76 – Gebühren und Auslagen
+# § 76 – Gebühren und Auslagen
 
 Die Gebührenerhebung für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erfolgt aufgrund von Besonderen Gebührenverordnungen nach § 22 Absatz 4 des Bundesgebührengesetzes, die für Ausschreibungen nach Teil 3 dieses Gesetzes sowie für Feststellungen einer Pilotwindenergieanlage auf See nach Teil 5 dieses Gesetzes vom Bundesministerium für Wirtschaft und Energie und für Zulassungen nach Teil 4 Abschnitt 1 dieses Gesetzes vom Bundesministerium für Verkehr und digitale Infrastruktur erlassen werden.
 
-
-## § 77 – Übergangsbestimmungen
+# § 77 – Übergangsbestimmungen
 
 (1) Auf Einrichtungen im Sinn des § 44 Absatz 1, die
 
@@ -1433,15 +1348,13 @@ sind die bisherigen Bestimmungen der Seeanlagenverordnung so lange weiter anzuwe
 
 § 77: IdF d. Art. 16 Nr. 12 G v. 22.12.2016 I 3106 mWv 1.1.2017, Kursivdruck: wegen offensichtlicher Unrichtigkeit wurde die Datumsangabe "23. Oktober 2016" durch die Angabe "13. Oktober 2016" ersetzt
 
-
-## § 78 – Wahrnehmung von Aufgaben durch die Bundesnetzagentur
+# § 78 – Wahrnehmung von Aufgaben durch die Bundesnetzagentur
 
 (1) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz und den aufgrund dieses Gesetzes ergangenen Rechtsverordnungen sind die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme des § 69 Absatz 1 Satz 2 und Absatz 10, des § 71a, des § 91 und der §§ 95 bis 101 sowie des Abschnitts 6 entsprechend anzuwenden.
 
 (2) Die Entscheidungen der Bundesnetzagentur nach diesem Gesetz werden von den Beschlusskammern getroffen.
 
-
-## § 79 – Fachaufsicht über das Bundesamt für Seeschifffahrt und Hydrographie
+# § 79 – Fachaufsicht über das Bundesamt für Seeschifffahrt und Hydrographie
 
 Die Rechts- und Fachaufsicht über das Bundesamt für Seeschifffahrt und Hydrographie für die Aufgaben nach diesem Gesetz obliegt
 
@@ -1459,8 +1372,7 @@ d) nach § 67a und
 
 Diese Aufgaben der Rechts- und Fachaufsicht sind im Benehmen mit dem jeweils anderen Bundesministerium wahrzunehmen.
 
-
-## Anlage – (zu § 58 Absatz 3)Anforderungen an Sicherheitsleistungen
+# Anlage – (zu § 58 Absatz 3)Anforderungen an Sicherheitsleistungen
 
 (Fundstelle: BGBl. I 2016, 2334)
 

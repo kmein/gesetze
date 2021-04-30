@@ -1,10 +1,7 @@
-# [Berlin/BonnG] Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands  (Berlin/Bonn-Gesetz)
-
-Ausfertigungsdatum: 26.04.1994
-
+% Gesetz zur Umsetzung des Beschlusses des Deutschen Bundestages vom 20. Juni 1991 zur Vollendung der Einheit Deutschlands  (Berlin/Bonn-Gesetz)
+% Ausfertigungsdatum: 26.04.1994
  
-
-## Präambel
+# Präambel
 
 Ausgehend davon,
 
@@ -27,8 +24,7 @@ in Kenntnis der Entscheidungen der Bundesregierung vom 3. Juni 1992 sowie vom 12
 
 das folgende Gesetz beschlossen:
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist es, zur Umsetzung des Beschlusses des Deutschen Bundestages zur Vollendung der Einheit Deutschlands vom 20. Juni 1991 Grundsätze für die Verlagerung der Verfassungsorgane Bundestag und Bundesregierung in die Bundeshauptstadt Berlin zu bestimmen sowie die Wahrnehmung von Regierungstätigkeiten in der Bundeshauptstadt Berlin und in der Bundesstadt Bonn zu sichern und einen Ausgleich für die Region Bonn zu gewährleisten.
 
@@ -58,22 +54,19 @@ e) Verteidigung.
 
 7. Ausgleich entstehender Nachteile für die betroffenen Mitarbeiterinnen und Mitarbeiter, soweit dies erforderlich und angemessen ist.
 
-
-## § 2 – Sitz des Deutschen Bundestages
+# § 2 – Sitz des Deutschen Bundestages
 
 (1) Sitz des Deutschen Bundestages ist die Bundeshauptstadt Berlin.
 
 (2) Diese Sitzentscheidung wird vollzogen, sobald der Deutsche Bundestag festgestellt hat, daß die erforderlichen Voraussetzungen für seine Arbeitsfähigkeit in der Bundeshauptstadt Berlin hergestellt sind.
 
-
-## § 3 – Sitz der Bundesregierung
+# § 3 – Sitz der Bundesregierung
 
 (1) Sitz des Verfassungsorgans Bundesregierung ist die Bundeshauptstadt Berlin.
 
 (2) Die Bundesregierung wird den Vollzug der Sitzentscheidung in zeitlicher Abstimmung mit dem Vollzug der Sitzentscheidung des Deutschen Bundestages vornehmen.
 
-
-## § 4 – Organisation der Bundesregierung
+# § 4 – Organisation der Bundesregierung
 
 (1) Bundesministerien befinden sich in der Bundeshauptstadt Berlin und in der Bundesstadt Bonn. Der Bundeskanzler bestimmt die Geschäftsbereiche der Bundesminister und im Zusammenhang damit die Bundesministerien, die nach dem Umzug der Bundesregierung nach Berlin ihren Sitz in der Bundesstadt Bonn behalten.
 
@@ -85,8 +78,7 @@ e) Verteidigung.
 
 (5) Die Bundesregierung hat sicherzustellen, daß die politische und fachliche Zusammenarbeit mit dem Deutschen Bundestag und dem Bundesrat gewährleistet ist.
 
-
-## § 5 – Maßnahmen des Bundes für die Bundeshauptstadt Berlin
+# § 5 – Maßnahmen des Bundes für die Bundeshauptstadt Berlin
 
 (1) Der Bund und das Land Berlin arbeiten zusammen, um die Funktionsfähigkeit der Bundeshauptstadt Berlin als Sitz des Deutschen Bundestages und der Bundesregierung sicherzustellen. In diese Zusammenarbeit ist das Land Brandenburg einzubeziehen, soweit dies erforderlich ist, um zur Funktionsfähigkeit der Bundeshauptstadt Berlin beizutragen.
 
@@ -94,8 +86,7 @@ e) Verteidigung.
 
 (3) Die nähere Ausgestaltung bleibt vertraglichen Vereinbarungen zwischen dem Bund einerseits und den Ländern Berlin und Brandenburg andererseits vorbehalten.
 
-
-## § 6 – Maßnahmen des Bundes für die Region Bonn
+# § 6 – Maßnahmen des Bundes für die Region Bonn
 
 (1) Die Folgen des Verlustes des Parlamentssitzes und des Regierungssitzes für die Region Bonn werden durch die Übernahme und Ansiedlung neuer Funktionen und Institutionen von nationaler und internationaler Bedeutung im politischen, wissenschaftlichen und kulturellen Bereich sowie durch Unterstützung bei notwendigen Umstrukturierungsmaßnahmen angemessen ausgeglichen.
 
@@ -115,8 +106,7 @@ e) Verteidigung.
 
 (5) Die nähere Ausgestaltung bleibt vertraglichen Vereinbarungen zwischen dem Bund einerseits und den betroffenen Ländern sowie den Gebietskörperschaften der Region Bonn andererseits vorbehalten.
 
-
-## § 7 – Verlagerung von Einrichtungen des Bundes und Sitzfestlegungen
+# § 7 – Verlagerung von Einrichtungen des Bundes und Sitzfestlegungen
 
 (1) Die Gesetze, die die nachstehenden Bundesbehörden
 
@@ -175,15 +165,13 @@ a) - k) ...
 
 (5) Der Bund soll darum bemüht sein, daß auch die anzustrebenden Sitzfestlegungen gemäß Absatz 3 in zeitlicher Abstimmung mit der Verlagerung von Regierungsfunktionen nach Berlin vollzogen werden.
 
-
-## § 8 – Dienstrechtliche Maßnahmen
+# § 8 – Dienstrechtliche Maßnahmen
 
 (1) Für die von diesem Gesetz betroffenen Mitarbeiterinnen und Mitarbeiter der Bundesverwaltung werden dienstrechtliche oder sonstige Regelungen getroffen, die sowohl der Funktionsfähigkeit der Verfassungsorgane und der sonstigen betroffenen Bundeseinrichtungen Rechnung tragen als auch einen Ausgleich von verlagerungsbedingten Belastungen, soweit dies erforderlich und angemessen ist, schaffen sollen.
 
 (2) Soweit hierzu gesetzliche Regelungen erforderlich sind, erfolgen diese außerhalb dieses Gesetzes.
 
-
-## § 9 – Bekanntmachungen im Bundesgesetzblatt
+# § 9 – Bekanntmachungen im Bundesgesetzblatt
 
 Im Bundesgesetzblatt werden bekanntgegeben:
 
@@ -193,7 +181,6 @@ Im Bundesgesetzblatt werden bekanntgegeben:
 
 3. der Zeitpunkt nach § 7 Abs. 4 durch das Bundesministerium für Raumordnung, Bauwesen und Städtebau.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

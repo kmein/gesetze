@@ -1,15 +1,11 @@
-# [BausparkV] Verordnung zum Gesetz über Bausparkassen  (Bausparkassen-Verordnung - BausparkV)
-
-Ausfertigungsdatum: 29.12.2015
-
+% Verordnung zum Gesetz über Bausparkassen  (Bausparkassen-Verordnung - BausparkV)
+% Ausfertigungsdatum: 29.12.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 1 Nummer 12 des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2399) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach § 10 Satz 1 des Gesetzes über Bausparkassen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der durch Artikel 1 Absatz 4 Nummer 2 der Verordnung vom 13. Dezember 2002 (BGBl. 2003 I S. 2) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen:
 
-
-## § 1 – Bauspartechnische Simulationsmodelle
+# § 1 – Bauspartechnische Simulationsmodelle
 
 (1) Ein bauspartechnisches Simulationsmodell ist jeweils nur dann als geeignet anzusehen für die in § 8 Absatz 4 des Gesetzes über Bausparkassen und die in § 2 genannten Zwecke sowie zur Beurteilung, ob nach § 4 Absatz 3 eine nachhaltig gesicherte kollektive Liquidität sichergestellt ist und die Bausparkasse aufgrund einer nachhaltig gesicherten kollektiven Liquidität jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bausparguthaben zu befriedigen, wenn damit eine hinreichend genaue Fortschreibung der Entwicklung des Bauspargeschäfts im Sinne des § 1 Absatz 1 des Gesetzes über Bausparkassen sowie der zugehörigen Zinsaufwendungen und -erträge über einen Zeitraum von in der Regel 20 Jahren (Simulationszeitraum) möglich ist.
 
@@ -39,8 +35,7 @@ Der Prüfungsbericht nach § 8 Absatz 5 des Gesetzes über Bausparkassen muss zw
 
 (4) Die Bundesanstalt kann der Bausparkasse die Verwendung des bauspartechnischen Simulationsmodells für sämtliche oder einzelne der in Absatz 1 genannten Zwecke untersagen, wenn es die Anforderungen nach den Absätzen 1 bis 3 nicht erfüllt. Zur Beurteilung, ob die Voraussetzungen der Absätze 1 bis 3 vorliegen, zieht die Bundesanstalt in der Regel den in Absatz 3 genannten Prüfungsbericht und den Bestätigungsvermerk mit heran.
 
-
-## § 2 – Simulationen und Prognosen
+# § 2 – Simulationen und Prognosen
 
 (1) Bei den nach den Regelungen des § 8 Absatz 4 des Gesetzes über Bausparkassen sowie dieser Verordnung zu erstellenden Simulationen und Prognosen hat die Bausparkasse jeweils ein Basisszenario und geeignete Stressszenarien zu simulieren. Ein Basisszenario stellt insbesondere die von der Bausparkasse erwartete Entwicklung der Ertrags-und Liquiditätslage unter Berücksichtigung des erwarteten Marktzinsniveaus über einen bestimmten Zeitraum dar. Ein Stressszenario liegt vor, wenn gegenüber dem Basisszenario abweichende und aus Sicht der Bausparkasse ungünstige Entwicklungen bestimmter Parameter, beispielsweise des Marktzinsniveaus oder der Neugeschäftsentwicklung, angenommen werden.
 
@@ -98,8 +93,7 @@ Das Teilbetriebsergebnis im Sinne des Satzes 4 Nummer 10 ist die Summe aus Zins�
 
 Diese müssen den Anforderungen nach den Absätzen 1 bis 7 entsprechen.
 
-
-## § 3 – Kollektiver Lagebericht
+# § 3 – Kollektiver Lagebericht
 
 (1) Die Bausparkasse hat der Bundesanstalt bis spätestens zum Ende eines Kalenderjahres einen kollektiven Lagebericht nach § 3 Absatz 5 des Gesetzes über Bausparkassen einzureichen. Dieser hat unter Beschreibung des Istzustands des Bausparkollektivs und der aktuellen gesamtwirtschaftlichen Rahmenbedingungen die in § 2 Absatz 8 Satz 1 Nummer 1 und 2 aufgeführten Informationen und Unterlagen zu enthalten. § 2 Absatz 8 Satz 2 gilt entsprechend. Darüber hinaus hat die Bausparkasse insbesondere darzulegen
 
@@ -115,8 +109,7 @@ Diese müssen den Anforderungen nach den Absätzen 1 bis 7 entsprechen.
 
 (3) Die Bundesanstalt kann den Bausparkassen abweichend von Absatz 1 Satz 1 vorgeben, zu welchen Zeitpunkten und in welcher Häufigkeit innerhalb eines Kalenderjahres die Bausparkasse der Bundesanstalt einen kollektiven Lagebericht einzureichen hat.
 
-
-## § 4 – Mindestanforderungen an Bauspartarife
+# § 4 – Mindestanforderungen an Bauspartarife
 
 (1) In die Allgemeinen Bedingungen für Bausparverträge sind Mindestbewertungszahlen oder andere geeignete Zuteilungsvoraussetzungen aufzunehmen, die eine nachhaltig gesicherte kollektive Liquidität sicherstellen sollen.
 
@@ -128,8 +121,7 @@ Diese müssen den Anforderungen nach den Absätzen 1 bis 7 entsprechen.
 
 (5) In den Allgemeinen Bedingungen für Bausparverträge ist die Differenz zwischen nominalem Darlehenszins und dem Guthabenzins in einem Bauspartarif (tarifliche Zinsspanne) so festzulegen, dass die Erfüllbarkeit der von der Bausparkasse übernommenen Verpflichtungen dauerhaft gewährleistet erscheint. Bei der Festlegung der tariflichen Zinsspanne ist die Höhe der individuellen Sparer-Kassen-Leistungsverhältnisse angemessen zu berücksichtigen.
 
-
-## § 5 – Gewährung von Vorfinanzierungs- oder Zwischenfinanzierungskrediten und sonstigen Baudarlehen aus Zuteilungsmitteln
+# § 5 – Gewährung von Vorfinanzierungs- oder Zwischenfinanzierungskrediten und sonstigen Baudarlehen aus Zuteilungsmitteln
 
 (1) Beantragt eine Bausparkasse eine Genehmigung nach § 6 Absatz 1 Satz 2 Nummer 2 des Gesetzes über Bausparkassen, so hat sie insbesondere mittels Simulationsergebnissen darzulegen, dass sie aufgrund einer nachhaltig gesicherten kollektiven Liquidität jederzeit in der Lage ist, Ansprüche auf Auszahlung der Bauspardarlehen und Bausparguthaben zu befriedigen. Die Bundesanstalt kann zusätzlich weitere relevante Informationen, insbesondere aus dem kollektiven Lagebericht (§ 3) mit heranziehen, die zur Beurteilung, ob die Voraussetzungen des § 6 Absatz 1 Nummer 2 des Gesetzes über Bausparkassen vorliegen, erforderlich sind.
 
@@ -151,8 +143,7 @@ Diese müssen den Anforderungen nach den Absätzen 1 bis 7 entsprechen.
 
 Bei ihrer Entscheidung über eine Versagung, einen Widerruf oder eine Nebenbestimmung zu der Genehmigung berücksichtigt die Bundesanstalt die Belange der Bausparer. Liegen die Voraussetzungen vor, eine Genehmigung zu widerrufen, kann die Bundesanstalt anstelle eines sofortigen Widerrufs insbesondere die Genehmigung nachträglich befristen und mit Auflagen versehen, wenn dies geeignet und erforderlich erscheint, um der Bausparkasse zu ermöglichen, ihre Kollektivsteuerung innerhalb eines angemessenen Zeitraums an den Umstand anzupassen, dass sie die Zuteilungsmasse nicht mehr gemäß der ursprünglichen Genehmigung verwenden darf.
 
-
-## § 6 – Tarifgenehmigungsanträge und Anträge auf Genehmigung von Bestandsübertragungen
+# § 6 – Tarifgenehmigungsanträge und Anträge auf Genehmigung von Bestandsübertragungen
 
 (1) Die Bausparkasse hat Anträgen auf eine Genehmigung nach § 9 Absatz 1 Satz 1 und 2 und nach § 14 Absatz 3 des Gesetzes über Bausparkassen insbesondere die nachfolgend aufgeführten Unterlagen beizufügen:
 
@@ -170,8 +161,7 @@ Die Unterlagen können auch in elektronischer Form bei der Bundesanstalt vorgele
 
 (3) § 2 Absatz 8 bleibt von den Absätzen 1 und 2 unberührt.
 
-
-## § 7 – Zuführung zum Fonds zur bauspartechnischen Absicherung
+# § 7 – Zuführung zum Fonds zur bauspartechnischen Absicherung
 
 (1) Die Zuführung zum Fonds zur bauspartechnischen Absicherung nach § 6 Absatz 2 Satz 2 des Gesetzes über Bausparkassen erfolgt jährlich zum Ende des Geschäftsjahres. Für den Fall, dass der Unterschiedsbetrag zwischen dem Ist-Zinsertrag im Sinne des Absatzes 2 und dem Soll-Zinsertrag im Sinne des Absatzes 3 positiv ist, sind dem Fonds sechs Zehntel des Unterschiedsbetrags zuzuführen.
 
@@ -181,8 +171,7 @@ Die Unterlagen können auch in elektronischer Form bei der Bundesanstalt vorgele
 
 (4) Bei Tarifen oder Tarifvarianten, bei denen das individuelle Sparer-Kassen-Leistungsverhältnis größer als 1,000 ist, kann statt des Zinssatzes für Bauspardarlehen wahlweise der Guthabenzins für Bauspareinlagen zuzüglich 2 Prozent zum Ansatz gebracht werden.
 
-
-## § 8 – Einsatz des Fonds zur bauspartechnischen Absicherung
+# § 8 – Einsatz des Fonds zur bauspartechnischen Absicherung
 
 (1) Die Mittel des Fonds zur bauspartechnischen Absicherung sind im Sinne des § 6 Absatz 2 Satz 1 Nummer 1 des Gesetzes über Bausparkassen einzusetzen, soweit die Zuteilung mit einer Zielbewertungszahl, die für Regelsparer zu einem individuellen Sparer-Kassen-Leistungsverhältnis von 1,000 führt, ohne Zuführung außerkollektiver Mittel zur Zuteilungsmasse nicht aufrechterhalten werden kann (obere Einsatzbewertungszahl). Für alle Bauspartarife einer Zuteilungsmasse gilt eine in den Allgemeinen Geschäftsgrundsätzen zu nennende einheitliche obere Einsatzbewertungszahl, die nach den Allgemeinen Bedingungen für Bausparverträge derjenigen Bauspartarifvariante zu ermitteln ist, die im nicht zugeteilten Vertragsbestand summenmäßig den größten Anteil hat und deren niedrigstes individuelles Sparer-Kassen-Leistungsverhältnis gleichzeitig weniger als 0,800 beträgt.
 
@@ -194,8 +183,7 @@ Die Unterlagen können auch in elektronischer Form bei der Bundesanstalt vorgele
 
 (5) § 6 Absatz 2 Satz 3 bis 6 des Gesetzes über Bausparkassen sowie die Absätze 1 bis 4 gelten auch für Mittel, die dem Fonds über die Anforderungen nach § 7 Absatz 1 hinaus zugeführt wurden.
 
-
-## § 9 – Großbausparverträge
+# § 9 – Großbausparverträge
 
 (1) Großbausparverträge sind Bausparverträge, bei denen die Bausparsumme den Betrag von 350 000 Euro übersteigt. Alle innerhalb von zwölf Monaten abgeschlossenen Bausparverträge eines Bausparers gelten dabei als ein Vertrag.
 
@@ -205,36 +193,30 @@ Die Unterlagen können auch in elektronischer Form bei der Bundesanstalt vorgele
 
 (4) Auf die nach den Absätzen 2 und 3 zulässigen Anteile von Großbausparverträgen sind diejenigen Bausparverträge anzurechnen, auf die der Bausparer die für eine Zuteilung erforderliche Mindestansparsumme innerhalb des ersten Jahres nach Vertragsabschluss eingezahlt hat.
 
-
-## § 10 – Gewerbliche Finanzierungen
+# § 10 – Gewerbliche Finanzierungen
 
 Der Anteil der Darlehen, die der Finanzierung von Bauvorhaben mit gewerblichem Charakter dienen, darf drei Prozent des Gesamtbestandes der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 
-
-## § 11 – Darlehen an Beteiligungsunternehmen
+# § 11 – Darlehen an Beteiligungsunternehmen
 
 (1) Darlehen nach § 4 Absatz 1 Nummer 7 des Gesetzes über Bausparkassen dürfen einer Bausparkasse insgesamt in Höhe von bis zu 60 Prozent ihrer Eigenmittel nach Artikel 72 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013, S. 1, L 208 vom 2.8.2013, S. 68, L 321 vom 30.11.2013, S. 6, L 193 vom 21.7.2015, S. 166), die durch die Delegierte Verordnung (EU) 2015/62 (ABl. L 11 vom 17.1.2015, S. 37) geändert worden ist, gewährt werden.
 
 (2) Einem einzelnen Unternehmen, an dem die Bausparkasse beteiligt ist, dürfen Darlehen nach Absatz 1 insgesamt in Höhe von bis zu 20 Prozent ihrer Eigenmittel nach Artikel 72 der Verordnung (EU) Nr. 575/2013 gewährt werden.
 
-
-## § 12 – Darlehen gegen Verpflichtungserklärung, Blankodarlehen
+# § 12 – Darlehen gegen Verpflichtungserklärung, Blankodarlehen
 
 (1) Darlehen gegen Abgabe einer Verpflichtungserklärung nach § 7 Absatz 4 Nummer 1 des Gesetzes über Bausparkassen oder ohne Sicherung nach § 7 Absatz 4 Nummer 2 des Gesetzes über Bausparkassen dürfen im Einzelfall nur bis zu einem Betrag von 30 000 Euro gewährt werden.
 
 (2) Der Anteil aller Darlehen nach Absatz 1 darf insgesamt 30 Prozent des Gesamtbestandes der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 
-
-## § 13 – Begrenzung der nicht durch Grundpfandrechte gesicherten Darlehen
+# § 13 – Begrenzung der nicht durch Grundpfandrechte gesicherten Darlehen
 
 Der Anteil der Darlehen, für die Ersatzsicherheiten nach § 7 Absatz 3 des Gesetzes über Bausparkassen gestellt werden, sowie der Darlehen nach § 12 Absatz 1 darf insgesamt 45 Prozent des Gesamtbestandes der Forderungen aus Darlehen einer Bausparkasse nicht übersteigen.
 
-
-## § 14 – Überleitungsbestimmung
+# § 14 – Überleitungsbestimmung
 
 Eine nach den Regelungen des § 6 Absatz 1 Satz 1 in Verbindung mit § 10 Satz 1 Nummer 1 des Gesetzes über Bausparkassen in der bis zum 28. Dezember 2015 geltenden Fassung in Verbindung mit § 1 Absatz 4 der Bausparkassen-Verordnung in der bis zum 30. Dezember 2015 geltenden Fassung von der Bundesanstalt zugelassene Ausnahme von § 1 Absatz 1 bis 3 der Bausparkassen-Verordnung in der bis zum 30. Dezember 2015 geltenden Fassung gilt für einen Übergangszeitraum vom 29. Dezember 2015 bis zum 29. August 2017 als eine Genehmigung der Bundesanstalt nach § 6 Absatz 1 Nummer 2 des Gesetzes über Bausparkassen in der ab dem 29. Dezember 2015 geltenden Fassung, Mittel aus der Zuteilungsmasse, die vorübergehend nicht für die Zuteilung verwendet werden können, zwischenzeitlich zur Gewährung von Darlehen nach § 4 Absatz 1 Nummer 1 des Gesetzes über Bausparkassen in der ab dem 29. Dezember 2015 geltenden Fassung, verwenden zu dürfen.
 
-
-## § 15 – Inkrafttreten, Außerkrafttreten
+# § 15 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Bausparkassen-Verordnung vom 19. Dezember 1990 (BGBl. I S. 2947), die zuletzt durch Artikel 1 der Verordnung vom 24. April 2009 (BGBl. I S. 999) geändert worden ist, außer Kraft.

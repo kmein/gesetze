@@ -1,12 +1,7 @@
-# [GastStG] Gaststaatgesetz
-
-Ausfertigungsdatum: 30.11.2019
-
+% Gaststaatgesetz
+% Ausfertigungsdatum: 30.11.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -44,8 +39,9 @@ Ausfertigungsdatum: 30.11.2019
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt
 
@@ -63,8 +59,7 @@ Ausfertigungsdatum: 30.11.2019
 
 (4) Die unionsrechtlichen und deutschen Vorschriften zur Bekämpfung und Verhinderung der Geldwäsche und der Terrorismusfinanzierung werden durch dieses Gesetz nicht berührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -98,8 +93,7 @@ Kinder im Sinne dieses Gesetzes sind auch Personen, die auf Grund nationaler ode
 
 11. „Sachverständige im Auftrag“ Personen mit Ausnahme der Bediensteten, die Aufträge für die internationale Organisation oder weiteren internationalen Einrichtung durchführen und die, soweit sie für die Vereinten Nationen tätig sind, in den Geltungsbereich der Artikel VI und VII des Allgemeinen VN-Übereinkommens fallen.
 
-
-## § 3 – Internationale Organisationen
+# § 3 – Internationale Organisationen
 
 (1) Eine internationale Organisation im Sinne dieses Gesetzes liegt vor, wenn sie von mindestens zwei Völkerrechtssubjekten durch völkerrechtlichen Vertrag oder ein anderes völkerrechtliches Instrument errichtet wurde und Rechtsfähigkeit nach Völkerrecht besitzt. Die Ansiedlung einer internationalen Organisation in Deutschland erfordert die Zustimmung der Bundesregierung. Die Zustimmung setzt voraus, dass
 
@@ -113,8 +107,7 @@ Kinder im Sinne dieses Gesetzes sind auch Personen, die auf Grund nationaler ode
 
 (2) Der Ansiedlung einer internationalen Organisation steht die Ansiedlung ihrer Organisationseinheiten wie zum Beispiel Büros oder Sekretariate gleich.
 
-
-## § 4 – Rechtspersönlichkeit und Rechtsfähigkeit
+# § 4 – Rechtspersönlichkeit und Rechtsfähigkeit
 
 (1) Eine internationale Organisation im Sinne von § 3 besitzt in Deutschland Rechtspersönlichkeit und kann
 
@@ -126,13 +119,11 @@ Kinder im Sinne dieses Gesetzes sind auch Personen, die auf Grund nationaler ode
 
 (2) Die rechtswirksame Vertretung der internationalen Organisation richtet sich nach ihren Statuten.
 
-
-## § 5 – Verordnungsermächtigung für Sitzabkommen
+# § 5 – Verordnungsermächtigung für Sitzabkommen
 
 Die Zustimmung der Bundesregierung zur Ansiedlung einer internationalen Organisation in der Bundesrepublik Deutschland erfolgt durch Rechtsverordnung. Die Bundesregierung setzt darin das erforderliche Sitzabkommen in Kraft und gewährt die in Teil 2 Kapitel 2 vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen. Darüber hinaus können die in Teil 2 Kapitel 3 vorgesehenen, weiteren Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewährt werden. Die Rechtsverordnung bedarf der Zustimmung des Bundesrates.
 
-
-## § 6 – Unverletzlichkeit des Sitzgeländes
+# § 6 – Unverletzlichkeit des Sitzgeländes
 
 (1) Das Sitzgelände ist unverletzlich. Die zuständigen deutschen Behörden betreten das Sitzgelände zur Wahrnehmung einer Amtspflicht nur mit ausdrücklicher Zustimmung der internationalen Organisation. Gerichtliche Maßnahmen und die Zustellung oder Vollstreckung gerichtlicher Verfügungen einschließlich der Pfändung von Privateigentum können auf dem Sitzgelände nur mit Zustimmung der internationalen Organisation erfolgen.
 
@@ -148,8 +139,7 @@ Die Zustimmung der Bundesregierung zur Ansiedlung einer internationalen Organisa
 
 (7) Jeder Standort innerhalb Deutschlands, der zeitweilig für Tagungen der internationalen Organisation oder der in § 3 Absatz 2 genannten Einrichtungen genutzt werden kann, gilt mit Zustimmung der Bundesregierung für die Dauer derartiger Tagungen als zum Sitzgelände gehörend.
 
-
-## § 7 – Auf dem Sitzgelände anwendbare Bestimmungen
+# § 7 – Auf dem Sitzgelände anwendbare Bestimmungen
 
 (1) Das Sitzgelände untersteht der Autorität und Kontrolle der internationalen Organisation.
 
@@ -161,20 +151,17 @@ Die Zustimmung der Bundesregierung zur Ansiedlung einer internationalen Organisa
 
 (5) Bei den Beschäftigungsbedingungen der Bediensteten der internationalen Organisationen sind die Mindeststandards des Gastlandes im Bereich des Arbeits- und Arbeitsschutzrechts einzuhalten.
 
-
-## § 8 – Unverletzlichkeit der Archive und aller Unterlagen der internationalen Organisation
+# § 8 – Unverletzlichkeit der Archive und aller Unterlagen der internationalen Organisation
 
 Alle Unterlagen, Materialien und Archive, die der internationalen Organisation zur Verfügung gestellt werden, ihr gehören oder von ihr verwendet werden, sind unverletzlich, ungeachtet ihrer Form oder in wessen Besitz sie sich befinden.
 
-
-## § 9 – Schutz des Sitzgeländes und seiner Umgebung
+# § 9 – Schutz des Sitzgeländes und seiner Umgebung
 
 (1) Die zuständigen Behörden haben die erforderliche Sorgfalt anzuwenden, um die Sicherheit des Sitzgeländes zu gewährleisten und sicherzustellen, dass die Tätigkeit der internationalen Organisation nicht durch das Eindringen von Personen oder Gruppen von außen oder durch Unruhen in der unmittelbaren Umgebung des Sitzgeländes beeinträchtigt wird. Die zuständigen Behörden stellen für das Sitzgelände den gegebenenfalls erforderlichen angemessenen Schutz zur Verfügung.
 
 (2) Auf Ersuchen des Leiters der internationalen Organisation stellen die zuständigen Behörden bei Erfordernis Polizeikräfte zur Wahrung von Recht und Ordnung auf dem Sitzgelände oder in seiner unmittelbaren Umgebung sowie zur Entfernung von Personen vom Sitzgelände bereit.
 
-
-## § 10 – Immunität der internationalen Organisation, Gelder, Guthaben und sonstige Vermögenswerte
+# § 10 – Immunität der internationalen Organisation, Gelder, Guthaben und sonstige Vermögenswerte
 
 (1) Die internationale Organisation, ihre Gelder, Guthaben und sonstigen Vermögenswerte, gleichviel, wo und in wessen Besitz sie sich befinden, genießen Immunität von der Gerichtsbarkeit, soweit nicht im Einzelfall die internationale Organisation ausdrücklich darauf verzichtet hat. Ein solcher Verzicht umfasst nicht Vollstreckungsmaßnahmen.
 
@@ -186,8 +173,7 @@ Alle Unterlagen, Materialien und Archive, die der internationalen Organisation z
 
 2. ihre Mittel, ihr Gold oder ihre Devisen von einem Staat in einen anderen Staat oder innerhalb des Gaststaates frei an eine andere Organisation transferieren.
 
-
-## § 11 – Befreiung von direkten Steuern
+# § 11 – Befreiung von direkten Steuern
 
 Die internationale Organisation, ihre Guthaben, Einkünfte und sonstigen Vermögenswerte genießen Befreiung im Rahmen ihrer amtlichen Tätigkeit von jeder direkten Steuer. Die direkten Steuern umfassen insbesondere
 
@@ -207,8 +193,7 @@ Die internationale Organisation, ihre Guthaben, Einkünfte und sonstigen Vermög
 
 Diese Befreiung umfasst auch die Besteuerung von Versicherungen der internationalen Organisation für Gebäude, deren Inventar und ihre Dienstfahrzeuge, sofern Deutschland Mitglied dieser Organisation ist und die Befreiung in einem mehrseitigen Übereinkommen zwischen den Mitgliedstaaten der Organisation oder in dem Sitzabkommen festgelegt ist.
 
-
-## § 12 – Befreiungen und Vergütungen von der Umsatzsteuer
+# § 12 – Befreiungen und Vergütungen von der Umsatzsteuer
 
 (1) Die Umsatzsteuer wird einer internationalen Organisation im Sinne dieses Gesetzes vom Bundeszentralamt für Steuern vergütet, wenn
 
@@ -230,8 +215,7 @@ Die Vergütung wird in Übereinstimmung mit den vom Bundesministerium der Finanz
 
 (3) Einzelheiten zur effektiven Durchführung der Absätze 1 und 2 werden in dem nach § 3 Absatz 1 Nummer 4 zu schließenden Sitzabkommen festgelegt.
 
-
-## § 13 – Befreiungen und Vergütungen bei den besonderen Verbrauchsteuern
+# § 13 – Befreiungen und Vergütungen bei den besonderen Verbrauchsteuern
 
 (1) Verbrauchsteuerpflichtige Waren können von der Verbrauchsteuer befreit werden, wenn sie für den amtlichen Zweck einer internationalen Organisation im Sinne des § 3 bestimmt sind. Die verbrauchsteuerpflichtigen Waren sind nach Maßgabe der verbrauchsteuerrechtlichen Bestimmungen zu beziehen.
 
@@ -251,15 +235,13 @@ Mindert sich die Bemessungsgrundlage nachträglich, hat die Organisation die Bun
 
 (4) Einzelheiten zur effektiven Durchführung der Absätze 1 bis 3 werden in dem nach § 3 Absatz 2 Nummer 4 zu schließenden Sitzabkommen festgelegt.
 
-
-## § 14 – Befreiungen von Zöllen, Verboten, Beschränkungen
+# § 14 – Befreiungen von Zöllen, Verboten, Beschränkungen
 
 (1) Die internationale Organisation, ihre Gelder, Guthaben und sonstigen Vermögenswerte sind von allen Zöllen, Verboten und Beschränkungen hinsichtlich der von der internationalen Organisation für ihren amtlichen Gebrauch ein- oder ausgeführten Gegenstände einschließlich einer angemessenen Anzahl an Kraftfahrzeugen befreit, soweit dies mit dem Recht der Europäischen Union vereinbar und in einem mehrseitigen Übereinkommen zwischen den Mitgliedstaaten der Organisation oder dem Sitzabkommen festgelegt ist. Die demgemäß zollfrei eingeführten oder gekauften Gegenstände dürfen jedoch in Deutschland nur zu den mit der Bundesregierung vereinbarten Bedingungen und unter Zahlung der anzuwendenden Zölle verkauft, entgeltlich oder unentgeltlich abgegeben oder in anderer Weise veräußert werden.
 
 (2) Die internationale Organisation genießt im Rahmen des Rechts der EU Befreiungen von Ein- und Ausfuhrverboten und -beschränkungen hinsichtlich ihrer Veröffentlichungen und ihrer audiovisuellen Materialien.
 
-
-## § 15 – Erleichterungen im Nachrichtenverkehr
+# § 15 – Erleichterungen im Nachrichtenverkehr
 
 (1) Die internationale Organisation ist hinsichtlich der Behandlung ihres amtlichen Nachrichtenverkehrs und ihrer amtlichen Korrespondenz den diplomatischen Missionen in Deutschland gleichgestellt. Dies gilt für Einrichtung und Betrieb sowie Prioritäten, Tarife und Gebühren in Bezug auf Postsendungen und Kabeltelegramme, Fernschreib-, Fax-, Telefon-, elektronische Daten- und andere Nachrichtenverbindungen sowie für Tarife für Informationen an Presse und Rundfunk.
 
@@ -269,22 +251,19 @@ Mindert sich die Bemessungsgrundlage nachträglich, hat die Organisation die Bun
 
 (4) Die internationale Organisation ist berechtigt, im Verkehr zwischen ihren Dienststellen innerhalb und außerhalb Deutschlands Funk- und andere Telekommunikationsgeräte auf den für die internationale Organisation eingetragenen sowie auf den ihr von der Bundesregierung zugeteilten Frequenzen zu betreiben.
 
-
-## § 16 – Einreise, Aufenthaltstitel
+# § 16 – Einreise, Aufenthaltstitel
 
 (1) Die Einreise nach und Ausreise aus Deutschland sowie Freizügigkeit und freier Aufenthalt von Bediensteten der internationalen Organisation und deren unmittelbaren Angehörigen in Deutschland richten sich nach europäischem und nationalem Recht. Erforderliche Visa, Einreiseerlaubnisse und -genehmigungen werden kostenlos und so rasch wie möglich erteilt. Dies gilt auch für Bewerberinnen und Bewerber für die internationale Organisation, wenn die internationale Organisation darum ersucht. Personen, die sich bereits in Deutschland aufhalten, müssen für die Aufnahme der Beschäftigung bei der internationalen Organisation als Bedienstete über einen gültigen Aufenthaltstitel für den Aufenthalt in Deutschland verfügen.
 
 (2) Die Bediensteten der internationalen Organisation und deren unmittelbare Angehörige sind vom Erfordernis eines Aufenthaltstitels für den Aufenthalt in Deutschland befreit. § 27 Absatz 3 der Aufenthaltsverordnung gilt entsprechend.
 
-
-## § 17 – Passierschein und Bescheinigung der Vereinten Nationen, Reisedokumente anderer internationaler Organisationen
+# § 17 – Passierschein und Bescheinigung der Vereinten Nationen, Reisedokumente anderer internationaler Organisationen
 
 (1) Der von den Vereinten Nationen ausgestellte Passierschein mit der Bezeichnung Laissez-Passer wird als gültiger Reiseausweis, der einem Pass gleichwertig ist, anerkannt und entgegengenommen. Vorbehaltlich unionsrechtlicher Bestimmungen werden bei Vorlage eines Passierscheins der Vereinten Nationen die etwa erforderlichen Visa kostenlos und so rasch wie möglich ausgestellt. Satz 2 gilt ebenfalls für Sachverständige und sonstige Personen, die ohne im Besitz eines Passierscheins der Vereinten Nationen zu sein, Inhaber einer Bescheinigung darüber sind, dass sie für die Organisation reisen, und über ein anerkanntes und gültiges Reisedokument verfügen.
 
 (2) Dasselbe gilt für in Anlage 5 Teil III des Leitfadens für Grenzschutzbeamte („Schengen-Handbuch“) aufgelistete Reisedokumente anderer internationaler Organisationen, die von der Bundesrepublik Deutschland als visierfähig anerkannt sind.
 
-
-## § 18 – Mitteilung zum Personal, Ausstellung von Ausweisen
+# § 18 – Mitteilung zum Personal, Ausstellung von Ausweisen
 
 (1) Die internationale Organisation unterrichtet das Auswärtige Amt über den Dienstantritt der Bediensteten und deren Ausscheiden aus dem Dienst. Sie übermittelt einmal im Jahr eine Aufstellung über die Bediensteten und ihre unmittelbaren Angehörigen und gibt dabei in jedem einzelnen Fall an, ob die betreffende Person die deutsche Staatsangehörigkeit besitzt. Eine weitere Aufstellung, die zusätzlich die sowohl von aktiven Bediensteten als auch von Empfängern von Altersbezügen im jeweils vorhergehenden Kalenderjahr von der internationalen Organisation erhaltenen Zahlungen und die Adresse der betreffenden Personen beinhaltet, ist von der internationalen Organisation an das Bundesministerium der Finanzen zu übermitteln.
 
@@ -293,8 +272,7 @@ Mindert sich die Bemessungsgrundlage nachträglich, hat die Organisation die Bun
 (+++ § 18: Zur Anwendung vgl. § 30 Abs. 4  
 § 18: Zur Anwendung vgl. § 32 Abs. 3 +++)
 
-
-## § 19 – Soziale Sicherheit
+# § 19 – Soziale Sicherheit
 
 (1) Die deutschen Vorschriften über die Versicherungspflicht in der gesetzlichen und privaten Krankenversicherung, der gesetzlichen Unfall- und Rentenversicherung, der sozialen und privaten Pflegeversicherung sowie die Versicherungs- und Umlagepflicht nach dem Recht der Arbeitsförderung finden vorbehaltlich der Absätze 3 und 4 auf internationale Organisationen und ihre im Geltungsbereich dieses Gesetzes beschäftigten Bediensteten keine Anwendung in Bezug auf diese Beschäftigung,
 
@@ -314,20 +292,17 @@ Mindert sich die Bemessungsgrundlage nachträglich, hat die Organisation die Bun
 
 (7) Die für einzelne internationale Organisationen geltenden besonderen innerstaatlichen sowie über- und zwischenstaatlichen Regelungen gehen den Absätzen 1 bis 6 vor.
 
-
-## § 20 – Zugang zum Arbeitsmarkt für unmittelbare Angehörige sowie Ausstellung von Visa und Aufenthaltserlaubnissen an Hausangestellte
+# § 20 – Zugang zum Arbeitsmarkt für unmittelbare Angehörige sowie Ausstellung von Visa und Aufenthaltserlaubnissen an Hausangestellte
 
 (1) Unmittelbare Angehörige eines Bediensteten einer internationalen Organisation haben unbeschränkten Zugang zum Arbeitsmarkt in Deutschland. Für volljährige Kinder gilt dies nur insoweit, als durch eine eventuelle berufliche Tätigkeit keine wirtschaftliche Selbständigkeit oder Auflösung der Haushaltszugehörigkeit des Kindes bedingt ist.
 
 (2) Die Erteilung von Visa für Hausangestellte eines Bediensteten einer internationalen Organisation richtet sich nach europäischem und nationalem Recht. Sie erhalten einen Ausweis im Sinne von § 18 Absatz 2, der sie zum Aufenthalt und zur Aufnahme der Beschäftigung als Hausangestellte berechtigt. Für die Dauer ihrer Beschäftigung als Hausangestellte sind sie vom Erfordernis eines Aufenthaltstitels befreit. Personen, die sich bereits in Deutschland aufhalten, müssen für die Aufnahme der Beschäftigung im Haushalt des Bediensteten bei der internationalen Organisation über einen gültigen Aufenthaltstitel für den Aufenthalt in Deutschland verfügen.
 
-
-## § 21 – Personen, die aus dem Dienst bei der internationalen Organisation ausscheiden
+# § 21 – Personen, die aus dem Dienst bei der internationalen Organisation ausscheiden
 
 Die Erteilung einer Niederlassungserlaubnis für Bedienstete der internationalen Organisation und ihre unmittelbaren Angehörigen nach dem Ausscheiden des Bediensteten aus dem aktiven Dienst bei der internationalen Organisation nach einer Dienstzeit mit Aufenthalt in Deutschland von fünf Jahren richtet sich nach europäischem und nationalem Recht.
 
-
-## § 22 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen der Vertreter der Mitglieder
+# § 22 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen der Vertreter der Mitglieder
 
 (1) Die Vertreter der Mitglieder der internationalen Organisation, die in Deutschland wohnen und die nicht die deutsche Staatsangehörigkeit besitzen oder in Deutschland ständig ansässig sind, genießen die Vorrechte, Immunitäten, Befreiungen und Erleichterungen, die den in vergleichbarem Rang stehenden Diplomaten der in Deutschland akkreditierten diplomatischen Missionen nach dem Wiener Übereinkommen gewährt werden. Für steuerliche Privilegien gilt dies nur, sofern in einem alle Mitglieder der Organisation bindenden mehrseitigen Übereinkommen eine entsprechende Regelung enthalten ist.
 
@@ -335,8 +310,7 @@ Die Erteilung einer Niederlassungserlaubnis für Bedienstete der internationalen
 
 (3) Zoll- und umsatzsteuerrechtliche Privilegien können nur gewährt werden, soweit dies im Recht der Europäischen Union vorgesehen und zugelassen ist.
 
-
-## § 23 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen für Bedienstete der internationalen Organisation
+# § 23 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen für Bedienstete der internationalen Organisation
 
 (1) Die Bediensteten der internationalen Organisation genießen ungeachtet ihrer Staatsangehörigkeit die Vorrechte, Immunitäten, Befreiungen und Erleichterungen, die in den Artikeln V und VII des Allgemeinen VN-Übereinkommens vorgesehen sind. Unter anderem genießen sie
 
@@ -358,13 +332,11 @@ Die Erteilung einer Niederlassungserlaubnis für Bedienstete der internationalen
 
 (3) Die Vorrechte, Immunitäten, Befreiungen und Erleichterungen genießen die Bediensteten der internationalen Organisation im Interesse der internationalen Organisation und nicht zu ihrem persönlichen Vorteil. Das Recht und die Pflicht, die Immunität im Einzelfall aufzuheben, wenn sie ohne Schädigung der Interessen der internationalen Organisation aufgehoben werden kann, liegen beim Leiter der internationalen Organisation.
 
-
-## § 24 – Bedienstete der internationalen Organisation vergleichbar der Stufe P-4 der Vereinten Nationen
+# § 24 – Bedienstete der internationalen Organisation vergleichbar der Stufe P-4 der Vereinten Nationen
 
 In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der internationalen Organisation, soweit sie eine der Stufe P-4 der Vereinten Nationen vergleichbare Stellung innehaben und ihre Aufgaben dies rechtfertigen, die gleichen Vorrechte, Immunitäten und Erleichterungen mit Ausnahme steuerlicher Privilegien gewährt werden wie Bediensteten der Stufe P-5 der Vereinten Nationen und darüber. Entsprechende Anträge sind vom Leiter der internationalen Organisation beim Auswärtigen Amt zu stellen. Zoll und umsatzsteuerrechtliche Privilegien können nur gewährt werden, soweit dies im Recht der Europäischen Union vorgesehen und zugelassen ist.
 
-
-## § 25 – Sachverständige im Auftrag
+# § 25 – Sachverständige im Auftrag
 
 (1) Sachverständigen im Auftrag können ungeachtet ihrer Staatsangehörigkeit die Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewährt werden, die in den Artikeln VI und VII des Allgemeinen VN-Übereinkommens vorgesehen sind. Ihnen können durch Vereinbarung zwischen der internationalen Organisation und der Bundesregierung zusätzliche Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewährt werden.
 
@@ -372,8 +344,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (3) Zoll- und umsatzsteuerrechtliche Privilegien können nur gewährt werden, soweit dies im Recht der Europäischen Union vorgesehen und zugelassen ist.
 
-
-## § 26 – Kongresse, Seminare, ähnliche Veranstaltungen
+# § 26 – Kongresse, Seminare, ähnliche Veranstaltungen
 
 (1) Personen, die im Geltungsbereich dieses Gesetzes an Kongressen, Seminaren oder ähnlichen Veranstaltungen teilnehmen, die von internationalen Organisationen nach Teil 2 oder von weiteren internationalen Einrichtungen nach Teil 3 ausgerichtet werden, können die in Satz 3 genannten Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewährt werden, sofern ihnen diese auf Grundlage dieses Gesetzes nicht bereits zustehen. Voraussetzung hierfür ist, dass die Bundesregierung ausdrücklich der in Satz 1 erwähnten Veranstaltung zugestimmt hat. Folgende Vorrechte, Immunitäten, Befreiungen und Erleichterungen können ihnen gewährt werden:
 
@@ -391,8 +362,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (3) Absatz 1 gilt für Deutsche im Sinne des Grundgesetzes, die Inhaber eines von einer deutschen Behörde im Geltungsbereich dieses Gesetzes oder von einer deutschen Auslandsvertretung ausgestellten gültigen Reisepasses oder Personalausweises sind, nur hinsichtlich der in Absatz 1 Satz 2 Nummer 2, 3 und 4 genannten Vorrechte, Immunitäten, Befreiungen und Erleichterungen. Die Immunität von der Gerichtsbarkeit nach Absatz 1 Satz 2 Nummer 2 gilt nicht im Falle eines Verstoßes gegen die Vorschriften über den Straßenverkehr durch eine teilnehmende Person im Fall von Schäden, die durch ein Motorfahrzeug verursacht wurden, das einer teilnehmenden Person gehört oder von ihr gesteuert wurde. Die Sätze 1 und 2 gelten auch für solche teilnehmenden Personen, die im Geltungsbereich dieses Gesetzes ständig ansässig sind.
 
-
-## § 27 – Internationale Institutionen; Verordnungsermächtigung
+# § 27 – Internationale Institutionen; Verordnungsermächtigung
 
 (1) Eine internationale Institution im Sinne dieses Gesetzes liegt vor, wenn
 
@@ -406,8 +376,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (2) Die Zustimmung der Bundesregierung zur Ansiedlung der internationalen Institution erfolgt durch Rechtsverordnung. Darin erkennt die Bundesregierung der internationalen Institution Rechtspersönlichkeit zu. In der Rechtsverordnung kann die Bunderegierung die in § 28 vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewähren. Die Rechtsverordnung bedarf der Zustimmung des Bundesrates.
 
-
-## § 28 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+# § 28 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen
 
 (1) Einer internationalen Institution, die ihren Hauptsitz oder einen Zweigsitz in Deutschland nimmt, können Vorrechte, Immunitäten, Befreiungen und Erleichterungen gemäß den §§ 6 bis 9 und 15 unter den dort genannten Voraussetzungen gewährt werden. Den Bediensteten einer internationalen Institution können die in den §§ 16 bis 21 sowie in den §§ 23 und 24 vorgesehenen und den Vertretern der Mitglieder im Sinne des § 2 Nummer 7 die in § 22 vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewährt werden. Steuerliche Vergünstigungen gemäß § 11 und § 23 Absatz 1 Satz 2 Nummer 2 werden nur gewährt, wenn sich die internationale Institution überwiegend aus Haushaltsbeiträgen der Mitgliedstaaten finanziert. Bei der Entscheidung über die Gewährung von Vorrechten, Immunitäten, Befreiungen und Erleichterungen ist neben den internationalen Gepflogenheiten und der Bedeutung der Aufgabe der Institution im Rahmen der internationalen Beziehungen das außenpolitische Interesse an der Präsenz der Institution in der Bundesrepublik Deutschland zu berücksichtigen.
 
@@ -417,8 +386,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 2. den §§ 12 bis 14 unter der zusätzlichen Voraussetzung, dass die internationale Institution sich überwiegend aus Haushaltsbeiträgen der Mitgliedstaaten finanziert, unter den Grenzen und Bedingungen, die in einem mehrseitigen Übereinkommen zwischen den Mitgliedern oder dem Sitzabkommen festgelegt sind und vorbehaltlich einer im Bereich der Europäischen Union harmonisierten Regelung zu den in den §§ 12 bis 14 genannten Rechtsbereichen.
 
-
-## § 29 – Quasizwischenstaatliche Organisationen; Verordnungsermächtigung
+# § 29 – Quasizwischenstaatliche Organisationen; Verordnungsermächtigung
 
 (1) Eine quasizwischenstaatliche Organisation im Sinne dieses Gesetzes liegt vor, wenn
 
@@ -436,8 +404,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (2) Die Zustimmung der Bundesregierung zur Ansiedlung der internationalen Institution in der Bundesrepublik Deutschland erfolgt durch Rechtsverordnung. Darin erkennt die Bundesregierung der internationalen Institution Rechtspersönlichkeit zu. Die Bundesregierung kann in der Rechtsverordnung die in § 30 vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewähren. Die Rechtsverordnung bedarf der Zustimmung des Bundesrates.
 
-
-## § 30 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+# § 30 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen
 
 (1) Einer quasizwischenstaatlichen Organisation, die ihren Hauptsitz oder einen Zweigsitz in Deutschland nimmt, können Vorrechte, Immunitäten, Befreiungen und Erleichterungen gemäß den §§ 6 bis 9 und 15 gewährt werden. Den Bediensteten einer quasizwischenstaatlichen Organisation können die in den §§ 16 und 17 sowie den §§ 20 und 21 dieses Gesetzes genannten Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewährt werden. Für die Organisation ergeben sich steuerliche Vergünstigungen ausschließlich nach Maßgabe der §§ 51 bis 68 der Abgabenordnung und der darauf Bezug nehmenden Vorschriften der Einzelsteuergesetze.
 
@@ -447,8 +414,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (4) Soweit Erleichterungen nach § 16 gewährt werden, findet § 18 dieses Gesetzes entsprechende Anwendung auf eine quasizwischenstaatliche Organisation, wobei dies für § 18 Absatz 2 mit der Maßgabe gilt, dass die Ausstellung eines Ausweises erst erfolgt, wenn eine Krankenvollversicherung nachgewiesen wurde.
 
-
-## § 31 – Sonstige internationale Einrichtungen; Verordnungsermächtigung
+# § 31 – Sonstige internationale Einrichtungen; Verordnungsermächtigung
 
 (1) Eine sonstige internationale Einrichtung im Sinne dieses Gesetzes liegt vor, wenn
 
@@ -460,8 +426,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (2) Die Zustimmung der Bundesregierung zur Ansiedlung der sonstigen internationalen Einrichtung in der Bundesrepublik Deutschland erfolgt durch Rechtsverordnung. Darin erkennt die Bundesregierung der sonstigen internationalen Einrichtung Rechtspersönlichkeit zu. Die Bundesregierung kann in der Rechtsverordnung die in § 32 vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen gewähren. Die Rechtsverordnung bedarf der Zustimmung des Bundesrates.
 
-
-## § 32 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen
+# § 32 – Vorrechte, Immunitäten, Befreiungen und Erleichterungen
 
 (1) Einer sonstigen internationalen Einrichtung, die ihren Hauptsitz oder einen Zweigsitz in Deutschland nimmt, können Vorrechte, Immunitäten, Befreiungen und Erleichterungen gemäß den §§ 6 bis 9 und 15 gewährt werden. Den Bediensteten einer sonstigen internationalen Einrichtung können Vorrechte, Immunitäten, Befreiungen und Erleichterungen gemäß den §§ 16 und 17 sowie den §§ 20 und 21 gewährt werden. Bei der Entscheidung über die Gewährung von Vorrechten, Immunitäten, Befreiungen und Erleichterungen ist neben den internationalen Gepflogenheiten und der Bedeutung der Aufgabe der Einrichtung im Rahmen der internationalen Beziehungen das außenpolitische Interesse an der Präsenz der Einrichtung in der Bundesrepublik Deutschland zu berücksichtigen.
 
@@ -469,8 +434,7 @@ In begründeten, einzelnen Ausnahmefällen können auf Antrag Bediensteten der i
 
 (3) Soweit Erleichterungen nach § 16 gewährt werden findet § 18 entsprechende Anwendung auf eine sonstige internationale Einrichtung, wobei dies für § 18 Absatz 2 mit der Maßgabe gilt, dass die Ausstellung eines Ausweises erst erfolgt, wenn eine Krankenvollversicherung nachgewiesen wurde.
 
-
-## § 33 – Internationale Nichtregierungsorganisationen
+# § 33 – Internationale Nichtregierungsorganisationen
 
 (1) Einer internationalen nichtstaatlichen Organisation, die ihren Hauptsitz oder Zweigsitz in Deutschland hat (internationale Nichtregierungsorganisation), kann, unbeschadet der Rechtsform, in der sie errichtet wurde, auf ihren Antrag die Rechtsstellung als internationale Nichtregierungsorganisation im Sinne dieses Gesetzes eingeräumt werden, wenn
 
@@ -492,25 +456,21 @@ b) juristische Personen, die nach dem Recht verschiedener Staaten errichtet word
 
 (3) Die Rechtsstellung einer anerkannten internationalen Nichtregierungsorganisation endet mit dem Wegfall ihrer Tätigkeit in Deutschland. Die internationale Nichtregierungsorganisation ist verpflichtet, alle Änderungen in den Verhältnissen, deren Vorliegen Voraussetzung für die Einräumung der Rechtsstellung war, dem Auswärtigen Amt anzuzeigen. Wenn die Voraussetzungen für die Zuerkennung einer anerkannten internationalen Nichtregierungsorganisation nicht mehr vorliegen, wird diese Rechtsstellung durch Beschluss der Bundesregierung aberkannt. Das Auswärtige Amt führt erforderlichenfalls die Entscheidung über die Aberkennung der Rechtsstellung der internationalen Nichtregierungsorganisation in engem Zusammenwirken mit dem Bundesministerium, in dessen Zuständigkeit die satzungsmäßige Tätigkeit der Organisation fällt, herbei.
 
-
-## § 34 – Steuerliche Vergünstigungen; Anerkennung der Gemeinnützigkeit
+# § 34 – Steuerliche Vergünstigungen; Anerkennung der Gemeinnützigkeit
 
 Steuerliche Vergünstigungen ergeben sich ausschließlich nach Maßgabe der §§ 51 bis 68 der Abgabenordnung und der darauf Bezug nehmenden Vorschriften der Einzelsteuergesetze.
 
-
-## § 35 – Zugang zum Arbeitsmarkt für Bedienstete und unmittelbare Angehörige
+# § 35 – Zugang zum Arbeitsmarkt für Bedienstete und unmittelbare Angehörige
 
 Den Organmitgliedern und hauptamtlich Beschäftigten einer internationalen Nichtregierungsorganisation, der die Rechtsstellung als internationale Nichtregierungsorganisation im Sinne dieses Gesetzes eingeräumt worden ist, ist nur die Ausübung einer Erwerbstätigkeit bei der internationalen Nichtregierungsorganisation gestattet. In der Entscheidung nach § 33 können aufenthaltsrechtliche Begünstigungen nach § 20 Absatz 1 für die unmittelbaren Angehörigen von Organmitgliedern und hauptamtlich Beschäftigten einer internationalen Nichtregierungsorganisation, der die Rechtsstellung als internationale Nichtregierungsorganisation im Sinne dieses Gesetzes eingeräumt worden ist, gewährt werden.
 
-
-## § 36 – Beachtung der Gesetze, Zusammenarbeit mit den zuständigen Behörden
+# § 36 – Beachtung der Gesetze, Zusammenarbeit mit den zuständigen Behörden
 
 (1) Alle Einrichtungen und Personen, die Vorrechte, Immunitäten, Befreiungen und Erleichterungen gemäß diesem Gesetz genießen, sind unbeschadet derselben verpflichtet, die in der Bundesrepublik Deutschland geltenden Gesetze und sonstigen Vorschriften zu beachten. Sie sind ferner verpflichtet, sich nicht in die inneren Angelegenheiten der Bundesrepublik Deutschland einzumischen.
 
 (2) Die Bundesregierung hat darauf hinzuwirken, dass die internationale Organisation oder weitere internationale Einrichtung jederzeit mit den zuständigen Behörden zusammenarbeitet, um eine geordnete Rechtspflege zu erleichtern, die Einhaltung gefahrenabwehrrechtlicher Vorschriften sicherzustellen und jeden Missbrauch im Zusammenhang mit den gemäß diesem Gesetz gewährten Vorrechten, Immunitäten, Befreiungen und Erleichterungen zu verhindern.
 
-
-## § 37 – Beilegung von Streitigkeiten
+# § 37 – Beilegung von Streitigkeiten
 
 (1) Streitigkeiten zwischen der internationalen Organisation und der Bundesrepublik Deutschland werden gemäß dem nach § 3 Absatz 1 Satz 3 Nummer 4 abzuschließenden Sitzabkommen vereinbarten Mechanismus beigelegt.
 
@@ -522,14 +482,12 @@ Den Organmitgliedern und hauptamtlich Beschäftigten einer internationalen Nicht
 
 (3) Die Absätze 1 und 2 gelten entsprechend beim Abschluss eines sonstigen rechtlich bindenden Instruments mit einer weiteren internationalen Institution aus Teil 3 dieses Gesetzes.
 
-
-## § 38 – Einhaltung der Vorrechte, Immunitäten, Befreiungen und Erleichterungen; Maßnahmen bei Missbrauch
+# § 38 – Einhaltung der Vorrechte, Immunitäten, Befreiungen und Erleichterungen; Maßnahmen bei Missbrauch
 
 (1) Die Bundesregierung hat über das Fortbestehen der Voraussetzungen der gemäß diesem Gesetz gewährten Vorrechte, Immunitäten, Befreiungen und Erleichterungen zu wachen und die erforderlichen Maßnahmen zu treffen, wenn sie einen Missbrauch feststellt. Ist die Bundesregierung der Auffassung, dass ein Missbrauch vorliegt, hat sie darauf hinzuwirken, die Frage gemäß § 39 zur Klärung zu bringen.
 
 (2) Im Falle der Beendigung der Gewährung von Vorrechten, Immunitäten, Befreiungen und Erleichterungen werden die Bestimmungen des Wiener Übereinkommens herangezogen.
 
-
-## § 39 – Verhältnis zu bestehenden Abkommen
+# § 39 – Verhältnis zu bestehenden Abkommen
 
 Die Rechte und Pflichten aus vor Inkrafttreten dieses Gesetzes bestehenden Abkommen, bei denen die Bundesrepublik Deutschland Vertragspartei ist, mit Bezug auf Vorrechte, Immunitäten, Befreiungen und Erleichterungen, insbesondere aus Gründungsabkommen, allgemeinen Privilegienabkommen, Sitzabkommen, dem Allgemeinen VN-Übereinkommen, dem Abkommen VN-Sonderorganisationen und dem Wiener Übereinkommen, werden durch dieses Gesetz nicht berührt.

@@ -1,22 +1,17 @@
-# [BGenTGKostV] Bundeskostenverordnung zum Gentechnikgesetz  (BGenTGKostV)
-
-Ausfertigungsdatum: 09.10.1991
-
+% Bundeskostenverordnung zum Gentechnikgesetz  (BGenTGKostV)
+% Ausfertigungsdatum: 09.10.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 24 Abs. 2 des Gentechnikgesetzes vom 20. Juni 1990 (BGBl. I S. 1080) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und dem Organisationserlaß vom 23. Januar 1991 (BGBl. I S. 530) verordnet der Bundesminister für Gesundheit im Einvernehmen mit dem Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesminister für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erhebt für individuell zurechenbare öffentliche Leistungen nach dem Gentechnikgesetz Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Als Auslagen werden vom Gebührenschuldner die in § 10 Absatz 1 Nummer 1 bis 4 und 6 bis 8 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung bezeichneten Auslagen erhoben.
 
-
-## § 2 – Höhe der Gebühren
+# § 2 – Höhe der Gebühren
 
 (1) Die Gebühr beträgt  
 
@@ -29,8 +24,7 @@ Auf Grund des § 24 Abs. 2 des Gentechnikgesetzes vom 20. Juni 1990 (BGBl. I S. 
 
 (3) Erfordert eine individuell zurechenbare öffentliche Leistung im Einzelfall einen außergewöhnlich niedrigen Aufwand, so kann die Gebühr bis auf 50 Euro reduziert werden.
 
-
-## § 3 – Gebühren in besonderen Fällen
+# § 3 – Gebühren in besonderen Fällen
 
 (1) Wird
 
@@ -50,15 +44,13 @@ so gilt § 15 Absatz 2 des Verwaltungskostengesetzes in der bis zum 14. August 2
 
 (5) Wird die einstweilige Einstellung einer Freisetzung oder eines Inverkehrbringens nach § 20 des Gesetzes angeordnet, beträgt die zusätzliche Gebühr bis zur Hälfte der erhobenen Gebühr.
 
-
-## § 4 – Gebührenermäßigung und Gebührenbefreiung
+# § 4 – Gebührenermäßigung und Gebührenbefreiung
 
 (1) Auf Antrag des Gebührenschuldners kann eine Gebührenermäßigung oder eine Gebührenbefreiung gewährt werden, wenn an der Freisetzung oder an dem Inverkehrbringen ein besonderes öffentliches Interesse besteht oder der Antragsteller einen den Gebühren und dem Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht erwarten kann. Satz 1 gilt für Auslagen entsprechend.
 
 (2) Von der Zahlung von Gebühren und Auslagen sind im Fall einer Freisetzung, außer den in § 8 Absatz 1 und 2 des Bundesgebührengesetzes bezeichneten Rechtsträgern, die als gemeinnützig anerkannten Forschungseinrichtungen befreit.
 
-
-## § 5 – Sonstige Gebühren
+# § 5 – Sonstige Gebühren
 
 Bei anderen individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für  
 
@@ -67,12 +59,10 @@ Bei anderen individuell zurechenbaren öffentlichen Leistungen, die auf Antrag v
 | 1\. | nicht einfache schriftliche Auskünfte | 50 bis 100 Euro,    |
 | 2\. | Bescheinigungen und Beglaubigungen    | 12,50 bis 150 Euro. |
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Für individuell zurechenbare öffentliche Leistungen, die vor Inkrafttreten dieser Verordnung vorgenommen worden sind, können Gebühren und Auslagen nach Maßgabe der §§ 1 bis 5 erhoben werden, soweit bei diesen Leistungen unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine Gebührenfestsetzung ausdrücklich vorbehalten worden ist.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

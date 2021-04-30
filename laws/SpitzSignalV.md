@@ -1,20 +1,15 @@
-# [SpitzSignalV] Verordnung zur Einführung eines einheitlichen Spitzensignals für Eisenbahnen des nichtöffentlichen Verkehrs
-
-Ausfertigungsdatum: 26.07.1957
-
+% Verordnung zur Einführung eines einheitlichen Spitzensignals für Eisenbahnen des nichtöffentlichen Verkehrs
+% Ausfertigungsdatum: 26.07.1957
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 und Abs. 3 Satz 1 des Allgemeinen Eisenbahngesetzes vom 29. März 1951 (Bundesgesetzbl. I S. 225) in Verbindung mit § 1 der Verordnung über die Ermächtigung des Bundesministers für Verkehr zum Erlaß von Rechtsverordnungen auf dem Gebiet des Eisenbahnwesens vom 28. September 1955 (Bundesgesetzbl. I S. 654) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 (1) Auf Eisenbahnen des nichtöffentlichen Verkehrs ist bei Dunkelheit vorn am ersten Fahrzeug, wenn dieses ein Triebfahrzeug ist, ein Spitzensignal zu führen, das aus drei weiß leuchtenden Laternen in Form eines A (Dreilicht-Spitzensignal) besteht.
 
@@ -25,14 +20,12 @@ Fundstelle: BGBl II 1957, 1269)
 
 (3) In den übrigen Fällen ist nach den von den Ländern für Anschlußbahnen erlassenen Bestimmungen zu verfahren.
 
-
-## § 3
+# § 3
 
 (1) Die Verordnung tritt am ersten Tage des auf ihre Verkündung folgenden Monats in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

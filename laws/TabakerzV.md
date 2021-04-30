@@ -1,13 +1,9 @@
-# [TabakerzV] Verordnung über Tabakerzeugnisse und verwandte Erzeugnisse  (Tabakerzeugnisverordnung - TabakerzV)
-
-Ausfertigungsdatum: 27.04.2016
-
+% Verordnung über Tabakerzeugnisse und verwandte Erzeugnisse  (Tabakerzeugnisverordnung - TabakerzV)
+% Ausfertigungsdatum: 27.04.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Messverfahren
+# § 1 – Messverfahren
 
 Für die Bestimmung der in § 4 Absatz 1 des Tabakerzeugnisgesetzes genannten Emissionswerte gelten folgende Anforderungen:
 
@@ -31,8 +27,7 @@ Stand Oktober 2009
 
 veröffentlicht ist.
 
-
-## § 2 – Prüflaboratorien
+# § 2 – Prüflaboratorien
 
 (1) Prüflaboratorien, die Bestimmungen nach § 1 im Rahmen des § 29 Absatz 1 Satz 2 oder Absatz 2 Satz 2 Nummer 2 oder 3 des Tabakerzeugnisgesetzes durchführen, müssen von den zuständigen Behörden zugelassen sein. Soweit Prüflaboratorien Teil der unmittelbaren oder mittelbaren Bundes- oder Landesverwaltung sind, gelten sie als zugelassen.
 
@@ -40,8 +35,7 @@ veröffentlicht ist.
 
 1. gültige Akkreditierung nach dem Akkreditierungsstellengesetz; die Akkreditierung eines Prüflaboratoriums durch die nationale Akkreditierungsstelle eines anderen Mitgliedstaates ist anzuerkennen,
 
-1a.  
-erfolgreiche Teilnahme an Laborvergleichsuntersuchungen, die mindestens einmal pro Jahr stattfinden muss, und
+1a. erfolgreiche Teilnahme an Laborvergleichsuntersuchungen, die mindestens einmal pro Jahr stattfinden muss, und
 
 2. Zuverlässigkeit und Unabhängigkeit; ein Prüflaboratorium ist insbesondere dann nicht unabhängig, wenn
 
@@ -49,8 +43,7 @@ a) das Prüflaboratorium unter der unmittelbaren oder mittelbaren Kontrolle der 
 
 b) der Verantwortliche des Prüflaboratoriums oder Mitarbeiter, die mit den Bestimmungen nach § 1 befasst sind, in einem Beschäftigungsverhältnis oder in wirtschaftlicher Abhängigkeit zur Tabakwirtschaft stehen oder bezahlte oder unbezahlte beratende Tätigkeiten für die Tabakwirtschaft ausüben.
 
-
-## § 3 – Zulassungsverfahren
+# § 3 – Zulassungsverfahren
 
 (1) Der Antrag auf Zulassung ist schriftlich bei der zuständigen Behörde zu stellen.
 
@@ -64,25 +57,21 @@ b) der Verantwortliche des Prüflaboratoriums oder Mitarbeiter, die mit den Best
 
 (4) Der Zulassung nach § 2 Absatz 1 steht die von der zuständigen Behörde eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum erteilte Zulassung gleich. Deren Vorliegen ist der zuständigen Behörde nachzuweisen.
 
-
-## § 4 – Zusatzstoffe
+# § 4 – Zusatzstoffe
 
 Tabakerzeugnisse dürfen nicht in den Verkehr gebracht werden, wenn sie einen der in Anlage 1 aufgeführten Zusatzstoffe enthalten.
 
-
-## § 5 – Pflanzenschutzmittel
+# § 5 – Pflanzenschutzmittel
 
 (1) Für die in Anlage 3 aufgeführten Pflanzenschutzmittel werden die dort bezeichneten Höchstmengen festgesetzt, die in oder auf Tabakerzeugnissen bei deren Inverkehrbringen nicht überschritten sein dürfen.
 
 (2) Bei der amtlichen Kontrolle der Rückstände von Pflanzenschutzmitteln sind Analysemethoden anzuwenden, die in der Amtlichen Sammlung aufgeführt sind. Es können auch andere, in der Amtlichen Sammlung nicht aufgeführte, Analysemethoden angewendet werden, wenn sie den in der Amtlichen Sammlung aufgeführten Analysemethoden gleichwertig sind. Die Gleichwertigkeit der Analysemethoden ist anhand des Anhangs der Richtlinie 85/591/EWG des Rates vom 20. Dezember 1985 zur Einführung gemeinschaftlicher Probenahmeverfahren und Analysemethoden für die Kontrolle von Lebensmitteln (ABl. EG Nr. L 372 vom 31.12.1985, S. 50) zu bestimmen. Sofern in der Amtlichen Sammlung für bestimmte Stoffe keine Analysemethoden aufgeführt sind, können auch andere Analysemethoden angewendet werden. Im Falle des Satzes 4 müssen die Analysemethoden so weit wie möglich den Anforderungen des Anhangs der Richtlinie 85/591/EWG entsprechen.
 
-
-## § 5a – Bestimmung von Tabakerzeugnissen mit einem charakteristischen Aroma
+# § 5a – Bestimmung von Tabakerzeugnissen mit einem charakteristischen Aroma
 
 Das bei der Bestimmung von Zigaretten und Tabak zum Selbstdrehen mit einem charakteristischen Aroma nach § 5 Absatz 1 Nummer 1 Buchstabe a des Tabakerzeugnisgesetzes durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit anzuwendende Verfahren richtet sich nach den Artikeln 2 und 4, Artikel 5 Absatz 1 und 4, den Artikeln 6 und 7 Absatz 1, den Artikeln 8 und 9 Absatz 1 und 4 und Artikel 12 der Durchführungsverordnung (EU) 2016/779 der Kommission vom 18. Mai 2016 zur Festlegung einheitlicher Regeln für die Verfahren, mit denen bestimmt wird, ob ein Tabakerzeugnis ein charakteristisches Aroma hat (ABl. L 131 vom 20.5.2016, S. 48).
 
-
-## § 6 – Mitteilungspflichten
+# § 6 – Mitteilungspflichten
 
 (1) Hersteller und Importeure von Tabakerzeugnissen sind verpflichtet, der zuständigen Behörde in einer nach Markennamen und Art der Tabakerzeugnisse gegliederten Liste Folgendes mitzuteilen:
 
@@ -120,8 +109,7 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit stellt sicher, d
 
 (6) Hersteller und Importeure sind verpflichtet, auf Anforderung der zuständigen Behörde von dieser zu bestimmende wissenschaftliche Studien durchzuführen, um die Auswirkungen der Inhaltsstoffe auf die Gesundheit der Verbraucher unter Berücksichtigung insbesondere ihrer suchterzeugenden Wirkung und ihrer toxikologischen Daten zu bewerten. Die Ergebnisse dieser Studien sind der zuständigen Behörde auf Anforderung vorzulegen.
 
-
-## § 7 – Studien und Informationspflichten
+# § 7 – Studien und Informationspflichten
 
 (1) Hersteller und Importeure von Tabakerzeugnissen sind verpflichtet, der zuständigen Behörde jährlich bis zum 30. Juni eines jeden Kalenderjahres in elektronischer Form Folgendes vorzulegen:
 
@@ -131,8 +119,7 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit stellt sicher, d
 
 (2) Für Mitteilungen nach Absatz 1 Nummer 2 gilt § 6 Absatz 4 entsprechend.
 
-
-## § 8 – Besondere Mitteilungspflichten für bestimmte Zusatzstoffe
+# § 8 – Besondere Mitteilungspflichten für bestimmte Zusatzstoffe
 
 (1) Hersteller und Importeure von Zigaretten und Tabak zum Selbstdrehen, die einen Zusatzstoff enthalten, der in einer von den Organen der Europäischen Union veröffentlichten Prioritätenliste gemäß Artikel 6 Absatz 1 Satz 1 der Richtlinie 2014/40/EU des Europäischen Parlaments und des Rates vom 3. April 2014 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Herstellung, die Aufmachung und den Verkauf von Tabakerzeugnissen und verwandten Erzeugnissen und zur Aufhebung der Richtlinie 2001/37/EG (ABl. L 127 vom 29.4.2014, S. 1) enthalten ist, sind verpflichtet, Studien zu diesem Zusatzstoff durchzuführen. Der Prioritätenliste nach Satz 1 gleichgestellt sind vom Bundesministerium für Ernährung und Landwirtschaft im Bundesanzeiger veröffentlichte Listen, die ausschließlich der inhaltsgleichen Umsetzung verbindlicher, an die Mitgliedstaaten gerichteter Durchführungsrechtsakte nach Artikel 6 Absatz 1 Satz 2 der Richtlinie 2014/40/EU dienen.
 
@@ -166,8 +153,7 @@ Hersteller und Importeure sind verpflichtet, der Kommission oder der zuständige
 
 (7) Kleine und mittlere Unternehmen im Sinne der Empfehlung der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36) sind von den Verpflichtungen nach den Absätzen 1 bis 6 befreit, wenn sie gegenüber der zuständigen Behörde den Nachweis erbringen, dass ein Bericht über den Zusatzstoff bereits vorliegt oder von einem anderen Hersteller oder Importeur erstellt wird.
 
-
-## § 9 – Zulassung neuartiger Tabakerzeugnisse
+# § 9 – Zulassung neuartiger Tabakerzeugnisse
 
 (1) Die Zulassung nach § 12 Absatz 1 des Tabakerzeugnisgesetzes erfolgt auf elektronischen Antrag des Herstellers oder Importeurs.
 
@@ -189,8 +175,7 @@ Hersteller und Importeure sind verpflichtet, der Kommission oder der zuständige
 
 (5) Die Zulassung enthält auch die Feststellung, ob das neuartige Tabakerzeugnis ein Rauchtabakerzeugnis oder ein rauchloses Tabakerzeugnis ist.
 
-
-## § 10 – Aufmachung der Packungen von Zigaretten und Tabak zum Selbstdrehen
+# § 10 – Aufmachung der Packungen von Zigaretten und Tabak zum Selbstdrehen
 
 (1) Zigaretten dürfen nur in quaderförmigen Packungen, die mindestens 20 Zigaretten enthalten, in den Verkehr gebracht werden.
 
@@ -198,8 +183,7 @@ Hersteller und Importeure sind verpflichtet, der Kommission oder der zuständige
 
 (3) Tabak zum Selbstdrehen darf nur in quader- oder zylinderförmigen Packungen oder in Beuteln in den Verkehr gebracht werden, die mindestens 30 Gramm Tabak enthalten.
 
-
-## § 11 – Allgemeine Vorschriften zur Kennzeichnung von Tabakerzeugnissen
+# § 11 – Allgemeine Vorschriften zur Kennzeichnung von Tabakerzeugnissen
 
 (1) Für die Gestaltung und Anbringung der gesundheitsbezogenen Warnhinweise nach den §§ 12 bis 17 auf Packungen und Außenverpackungen von Tabakerzeugnissen gelten folgende allgemeine Anforderungen: Die gesundheitsbezogenen Warnhinweise
 
@@ -219,8 +203,7 @@ Die Abmessungen der gesundheitsbezogenen Warnhinweise sind im Verhältnis zur je
 
 (2) Abbildungen von Packungen und Außenverpackungen, die für an Verbraucher gerichtete Werbemaßnahmen in der Europäischen Union bestimmt sind, müssen den Anforderungen dieses Unterabschnitts genügen.
 
-
-## § 12 – Kennzeichnung von Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+# § 12 – Kennzeichnung von Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
 Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur in den Verkehr gebracht werden, wenn Packungen und Außenverpackungen folgende gesundheitsbezogene Warnhinweise tragen:
 
@@ -230,8 +213,7 @@ Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur in den Ver
 
 3. kombinierte Text-Bild-Warnhinweise.
 
-
-## § 13 – Allgemeiner Warnhinweis und Informationsbotschaft bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+# § 13 – Allgemeiner Warnhinweis und Informationsbotschaft bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
 (1) Für die Gestaltung und Anbringung des allgemeinen Warnhinweises nach § 12 Nummer 1 und die Informationsbotschaft nach § 12 Nummer 2 gelten folgende Anforderungen:
 
@@ -251,8 +233,7 @@ c) bei quaderförmigen Packungen und Außenverpackungen parallel zur Seitenkante
 
 (4) Bei Tabak zum Selbstdrehen und Wasserpfeifentabak in zylinderförmigen Packungen mit Deckel ist der allgemeine Warnhinweis auf der äußeren und die Informationsbotschaft auf der inneren Fläche des Deckels anzubringen. Bei Tabak zum Selbstdrehen in rechteckigen Beuteln und in Standbeuteln gelten für die Anbringung des allgemeinen Warnhinweises und der Informationsbotschaft die Anforderungen gemäß Artikel 2 Absatz 1 und Artikel 3 in Verbindung mit Nummer 1, 2 und 4 des Anhangs des Durchführungsbeschlusses (EU) 2015/1735 der Kommission vom 24. September 2015 zur genauen Anordnung des allgemeinen Warnhinweises und der Informationsbotschaft auf in Beuteln verkauftem Tabak zum Selbstdrehen (ABl. L 252 vom 29.9.2015, S. 49). Abweichend von Satz 1 kann die Anbringung bei Tabak zum Selbstdrehen in rechteckigen Wickelbeuteln, die aus Polyethylen, Polypropylen oder Laminatmaterial hergestellt sind, bis zum 20. Mai 2018 gemäß Artikel 2 Absatz 2 in Verbindung mit Nummer 3 des Anhangs des Durchführungsbeschlusses (EU) 2015/1735 erfolgen.
 
-
-## § 14 – Kombinierte Text-Bild-Warnhinweise bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+# § 14 – Kombinierte Text-Bild-Warnhinweise bei Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
 (1) Die kombinierten Text-Bild-Warnhinweise nach § 12 Nummer 3 sind Anhang II der Richtlinie 2014/40/EU in der jeweils geltenden Fassung zu entnehmen. Für deren Format, Layout, Gestaltung und Proportionen gelten die Anforderungen gemäß Artikel 2 bis 4 in Verbindung mit Nummer 1 bis 4 des Anhangs des Durchführungsbeschlusses (EU) 2015/1842 der Kommission vom 9. Oktober 2015 über die technischen Spezifikationen für das Layout, die Gestaltung und die Form der kombinierten gesundheitsbezogenen Warnhinweise für Rauchtabakerzeugnisse (ABl. L 267 vom 14.10.2015, S. 5). Sie sind jährlich so zu wechseln, dass sie in gleicher Anzahl auf den Packungen erscheinen, und durch folgende Information zur Raucherentwöhnung zu ergänzen: „Wollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei),www.rauchfrei-info.de“.
 
@@ -278,8 +259,7 @@ c) bei quaderförmigen Packungen und Außenverpackungen parallel zur Seitenkante
 
 Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhinweises angebracht werden.
 
-
-## § 15 – Kennzeichnung von anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+# § 15 – Kennzeichnung von anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
 (1) Andere Rauchtabakerzeugnisse als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak dürfen nur in den Verkehr gebracht werden, wenn Packungen und Außenverpackungen folgende gesundheitsbezogene Warnhinweise tragen:
 
@@ -289,8 +269,7 @@ Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhin
 
 (2) Der allgemeine Warnhinweis ist durch folgende Information zur Raucherentwöhnung zu ergänzen: „Wollen Sie aufhören? Die BZgA hilft: Tel.: 0800 8 313131 (kostenfrei), www.rauchfrei-info.de“.
 
-
-## § 16 – Allgemeiner Warnhinweis und Text-Warnhinweis bei anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
+# § 16 – Allgemeiner Warnhinweis und Text-Warnhinweis bei anderen Rauchtabakerzeugnissen als Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak
 
 (1) Für die Gestaltung und Anbringung der gesundheitsbezogenen Warnhinweise nach § 15 gelten folgende allgemeine Anforderungen:
 
@@ -316,15 +295,13 @@ Markennamen oder Logos dürfen nicht oberhalb des kombinierten Text-Bild-Warnhin
 
 3. bei jeder Marke muss jeder in Anhang I der Richtlinie 2014/40/EU in der jeweils geltenden Fassung aufgeführte Text-Warnhinweis in gleicher Anzahl erscheinen.
 
-
-## § 17 – Kennzeichnung rauchloser Tabakerzeugnisse
+# § 17 – Kennzeichnung rauchloser Tabakerzeugnisse
 
 (1) Rauchlose Tabakerzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen den folgenden gesundheitsbezogenen Warnhinweis tragen: „Dieses Tabakerzeugnis schädigt Ihre Gesundheit und macht süchtig. “
 
 (2) Der Warnhinweis muss auf den zwei größten Flächen der Packung und der Außenverpackung angebracht werden und jeweils 30 Prozent dieser Flächen einnehmen. Der Warnhinweis muss den Anforderungen des § 13 Absatz 1 Nummer 2 genügen und parallel zum Haupttext ausgerichtet werden.
 
-
-## § 18 – Verbote zum Schutz vor Täuschung
+# § 18 – Verbote zum Schutz vor Täuschung
 
 Es dürfen nicht in den Verkehr gebracht werden:
 
@@ -342,8 +319,7 @@ Es dürfen nicht in den Verkehr gebracht werden:
 
 7. Zigarren, die ein Kunstumblatt oder ein Umblatt aus Tabakfolie besitzen, sofern dies nicht auf den Packungen durch die deutlich sichtbare und leicht lesbare Angabe „mit Kunstumblatt" kenntlich gemacht ist; wenn der Gewichtsanteil des Tabaks im Umblatt mehr als 50 Prozent beträgt, kann stattdessen die Angabe „mit tabakhaltigem Kunstumblatt" verwendet werden; bei Zigarren, die ein Umblatt aus Tabakfolie besitzen, kann die Kenntlichmachung entfallen, wenn der Gewichtsanteil des Tabaks in der Tabakfolie mindestens 75 Prozent der Trockenmasse beträgt.
 
-
-## § 19 – Ausgabestelle
+# § 19 – Ausgabestelle
 
 (1) Ausgabestelle nach § 7a Absatz 1 des Tabakerzeugnisgesetzes ist die Bundesdruckerei GmbH, sofern nicht nach § 7b Absatz 1 Nummer 2 des Tabakerzeugnisgesetzes durch Vertrag ein anderer Privater mit der Ausführung der Aufgaben und Ausübung der Befugnisse der Ausgabestelle beauftragt wird.
 
@@ -351,15 +327,13 @@ Es dürfen nicht in den Verkehr gebracht werden:
 
 (+++ § 19: Zur Anwendung vgl. § 34 Abs. 1 +++)
 
-
-## § 19a – Allgemeines Verfahren bei der Ausgabestelle
+# § 19a – Allgemeines Verfahren bei der Ausgabestelle
 
 (1) Für Erzeugnisse, die in einem anderen Mitgliedstaat der Europäischen Union hergestellt worden sind und die im Inland in den Verkehr gebracht werden, ist die für Deutschland benannte Ausgabestelle zuständig.
 
 (2) Die Ausgabestelle ist berechtigt, die Entgelte für die Generierung und Ausgabe der individuellen Erkennungsmerkmale nach Artikel 3 Absatz 9 der Durchführungsverordnung (EU) 2018/574 in Verbindung mit § 7a Absatz 2 Nummer 2 des Tabakerzeugnisgesetzes festzulegen und zu berechnen. Sie ist zur Rechnungstellung im eigenen Namen gegenüber den Wirtschaftsteilnehmern und den Inhabern erster Verkaufsstellen berechtigt. Die Festlegung und Berechnung der Entgelte erfolgt nach den Grundsätzen einer ordnungsmäßigen betriebswirtschaftlichen Kostenrechnung. Der Kostenrechnung sind diejenigen variablen und fixen Einzelkosten zu Grunde zu legen, die sich den jeweiligen Leistungen unmittelbar zuordnen lassen. Anteilige Gemeinkosten sind der Kostenrechnung nur insoweit zu Grunde zu legen, als sie der jeweiligen Leistung auf Grund eines sachgerechten und nachvollziehbaren Schlüssels zugeordnet werden können.
 
-
-## § 19b – Antragsverfahren
+# § 19b – Antragsverfahren
 
 (1) Anträge auf Generierung und Ausgabe von Identifikationscodes nach den Artikeln 14, 16 und 18 der Durchführungsverordnung (EU) 2018/574 sowie von individuellen Erkennungsmerkmalen nach Artikel 9 Absatz 1 und 4, Artikel 13 in Verbindung mit Artikel 36 der Durchführungsverordnung (EU) 2018/574 können elektronisch oder schriftlich gestellt werden.
 
@@ -373,8 +347,7 @@ Die Ausgabestelle kann diese Angaben verarbeiten, in ein temporäres Register ei
 
 (3) Auf Antrag des Herstellers oder Importeurs ist die Ausgabestelle auch zur physischen Ausgabe des individuellen Erkennungsmerkmals nach Maßgabe des Artikels 9 Absatz 4 der Durchführungsverordnung (EU) 2018/574 verpflichtet; die Absätze 1 und 2 gelten für diese Anträge entsprechend.
 
-
-## § 19c – Deaktivierung von Identifikationscodes
+# § 19c – Deaktivierung von Identifikationscodes
 
 Die Ausgabestelle ist verpflichtet, in Fällen, in denen auf Grund unanfechtbarer behördlicher Entscheidung
 
@@ -384,18 +357,15 @@ Die Ausgabestelle ist verpflichtet, in Fällen, in denen auf Grund unanfechtbare
 
 den Wirtschaftsteilnehmer-Identifikationscode, den Einrichtungs-Identifikationscode oder den Maschinen-Identifikationscode nach Maßgabe des Artikels 15 Absatz 4, des Artikels 17 Absatz 4 und des Artikels 19 Absatz 4 der Durchführungsverordnung (EU) 2018/574 zu deaktivieren.
 
-
-## § 19d – Antimanipulationsvorrichtung
+# § 19d – Antimanipulationsvorrichtung
 
 Die Erklärung über die Antimanipulationsvorrichtung nach Artikel 7 Absatz 2 zweiter Halbsatz der Durchführungsverordnung (EU) 2018/574 ist gegenüber der Europäischen Kommission und gegenüber der zuständigen Behörde nach § 27 Absatz 1 Satz 1 des Tabakerzeugnisgesetzes abzugeben.
 
-
-## § 19e – Unabhängiger Anbieter
+# § 19e – Unabhängiger Anbieter
 
 Unabhängiger Anbieter nach § 7a Absatz 4 des Tabakerzeugnisgesetzes ist die Bundesdruckerei GmbH.
 
-
-## § 20 – Rückverfolgbarkeit
+# § 20 – Rückverfolgbarkeit
 
 (1) Hersteller von Tabakerzeugnissen sind verpflichtet, den Wirtschaftsteilnehmern die Ausrüstung bereitzustellen, die notwendig ist, um die Informationen nach den Artikeln 32 und 33 der Durchführungsverordnung (EU) 2018/574 zu erfassen. Die Ausrüstung muss dazu geeignet sein, die erfassten Informationen elektronisch zu lesen und an das Repository-System nach Artikel 24 der Durchführungsverordnung (EU) 2018/574 zu übermitteln.
 
@@ -403,8 +373,7 @@ Unabhängiger Anbieter nach § 7a Absatz 4 des Tabakerzeugnisgesetzes ist die Bu
 
 (+++ § 20: Zur Anwendung vgl. § 34 Abs. 1 +++)
 
-
-## § 21 – Datenspeicherung durch Dritte
+# § 21 – Datenspeicherung durch Dritte
 
 (1) Auf Verlangen der Kommission, der zuständigen Behörden der Mitgliedstaaten, der Zollbehörden, der zuständigen Behörden nach § 27 Absatz 1 Satz 1 des Tabakerzeugnisgesetzes und des externen Prüfers nach § 22 und soweit dies zur Wahrnehmung ihrer jeweiligen Aufgaben erforderlich ist, sind die Provider des primären und des sekundären Repository verpflichtet, alle Informationen, die über das individuelle Erkennungsmerkmal erfasst werden, bereitzustellen; für den externen Prüfer gilt dies nur hinsichtlich der im primären Repository gespeicherten Daten.
 
@@ -418,8 +387,7 @@ Unabhängiger Anbieter nach § 7a Absatz 4 des Tabakerzeugnisgesetzes ist die Bu
 
 (+++ § 21: Zur Anwendung vgl. § 34 Abs. 1 +++)
 
-
-## § 22 – Externer Prüfer
+# § 22 – Externer Prüfer
 
 (1) Hersteller von Tabakerzeugnissen sind verpflichtet, auf ihre Kosten einen externen Prüfer zu benennen. Der externe Prüfer muss durch die Kommission zugelassen sein.
 
@@ -427,8 +395,7 @@ Unabhängiger Anbieter nach § 7a Absatz 4 des Tabakerzeugnisgesetzes ist die Bu
 
 (+++ § 22: Zur Anwendung vgl. § 34 Abs. 1 +++)
 
-
-## § 23 – Sicherheitsmerkmal
+# § 23 – Sicherheitsmerkmal
 
 (1) Das Sicherheitsmerkmal nach § 7 Absatz 1 Satz 2 des Tabakerzeugnisgesetzes darf weder verwischbar noch ablösbar sein und darf weder verdeckt noch getrennt werden. Für die Anbringung des Sicherheitsmerkmals gelten die Anforderungen nach Artikel 5 des Durchführungsbeschlusses (EU) 2018/576 der Kommission vom 15. Dezember 2017 über technische Standards für Sicherheitsmerkmale von Tabakerzeugnissen (ABl. L 96 vom 16.4.2018, S. 57).
 
@@ -440,8 +407,7 @@ Unabhängiger Anbieter nach § 7a Absatz 4 des Tabakerzeugnisgesetzes ist die Bu
 
 (+++ § 23: Zur Anwendung vgl. § 34 Abs. 1 +++)
 
-
-## § 24 – Mitteilungspflichten
+# § 24 – Mitteilungspflichten
 
 (1) Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern sind verpflichtet, der zuständigen Behörde in einer nach Markennamen und Art der Erzeugnisse gegliederten Liste Folgendes mitzuteilen:
 
@@ -479,8 +445,7 @@ c) ihrer Auswirkungen auf die Gesundheit der Verbraucher und ihrer suchterzeugen
 
 (4) Bei Änderungen der Zusammensetzung oder der Bestandteile einer elektronischen Zigarette oder eines Nachfüllbehälters, von denen die Angaben nach Absatz 1 berührt sind, ist bis zu dem in Absatz 3 Satz 1 genannten Zeitpunkt eine erneute Mitteilung zu machen. Bei elektronischen Zigaretten und Nachfüllbehältern, die am 20. Mai 2016 bereits in den Verkehr gebracht worden sind, muss die Mitteilung innerhalb von sechs Monaten ab diesem Datum erfolgen. Bei nicht nikotinhaltigen elektronischen Zigaretten und Nachfüllbehältern, die am 1. Januar 2021 bereits in den Verkehr gebracht worden sind, muss die Mitteilung innerhalb von sechs Monaten ab diesem Datum erfolgen.
 
-
-## § 25 – Informationspflichten
+# § 25 – Informationspflichten
 
 Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern sind verpflichtet, der zuständigen Behörde jährlich bis zum 30. Juni eines jeden Kalenderjahres in elektronischer Form Folgendes vorzulegen:
 
@@ -492,8 +457,7 @@ Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern 
 
 4. Zusammenfassungen aller diesbezüglich durchgeführten Marktforschungsstudien, einschließlich einer englischen Fassung dieser Zusammenfassungen.
 
-
-## § 26 – Beipackzettel
+# § 26 – Beipackzettel
 
 (1) Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern sind zur Erstellung des Beipackzettels nach § 15 Absatz 1 Nummer 1 des Tabakerzeugnisgesetzes verpflichtet. Der Beipackzettel muss die Überschrift „Gebrauchsinformation“ tragen und Folgendes enthalten:
 
@@ -515,8 +479,7 @@ Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern 
 
 (2) Der Beipackzettel muss in deutscher Sprache verfasst, allgemein verständlich und gut lesbar sein.
 
-
-## § 27 – Warnhinweis und Verpackung
+# § 27 – Warnhinweis und Verpackung
 
 (1) Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern sind vor dem Inverkehrbringen zur Aufbringung einer Liste auf Packungen und Außenverpackungen von elektronischen Zigaretten und Nachfüllbehältern verpflichtet. Die Liste muss folgende Angaben enthalten:
 
@@ -532,23 +495,19 @@ Hersteller und Importeure von elektronischen Zigaretten und Nachfüllbehältern 
 
 (3) Der Warnhinweis muss auf den zwei größten Flächen der Packung und der Außenverpackung angebracht werden und jeweils 30 Prozent dieser Flächen einnehmen. Er muss den Anforderungen des § 13 Absatz 1 Nummer 2 genügen und parallel zum Haupttext ausgerichtet werden.
 
-
-## § 28 – Inhaltsstoffe
+# § 28 – Inhaltsstoffe
 
 Elektronische Zigaretten und Nachfüllbehälter dürfen nicht in den Verkehr gebracht werden, wenn sie einen der in Anlage 2 aufgeführten Inhaltsstoffe enthalten.
 
-
-## § 28a – Nachfüllmechanismus
+# § 28a – Nachfüllmechanismus
 
 Der Mechanismus für eine auslauffreie Nachfüllung nach § 14 Absatz 3 Satz 1 des Tabakerzeugnisgesetzes hat den Anforderungen gemäß Artikel 2 Absatz 1 des Durchführungsbeschlusses (EU) 2016/586 zu genügen.
 
-
-## § 29 – Mitteilungspflichten
+# § 29 – Mitteilungspflichten
 
 Für pflanzliche Raucherzeugnisse gilt § 6 Absatz 1 Nummer 1 und 2, Absatz 4 Satz 1 und Absatz 5 Satz 1 entsprechend. Die Mitteilung kann nach dem Verfahren des § 6 Absatz 4 Satz 2 erfolgen.
 
-
-## § 30 – Warnhinweis
+# § 30 – Warnhinweis
 
 (1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen folgenden gesundheitsbezogenen Warnhinweis tragen: „Das Rauchen dieses Produkts schädigt Ihre Gesundheit. “
 
@@ -560,8 +519,7 @@ Für pflanzliche Raucherzeugnisse gilt § 6 Absatz 1 Nummer 1 und 2, Absatz 4 Sa
 
 3. den Anforderungen des § 13 Absatz 1 Nummer 2 genügen.
 
-
-## § 31 – Grenzüberschreitender Fernabsatz an Verbraucher
+# § 31 – Grenzüberschreitender Fernabsatz an Verbraucher
 
 Die Registrierung nach § 22 Absatz 1 Nummer 2 des Tabakerzeugnisgesetzes erfolgt auf Antrag. Der Antrag muss folgende Angaben enthalten:
 
@@ -573,15 +531,13 @@ Die Registrierung nach § 22 Absatz 1 Nummer 2 des Tabakerzeugnisgesetzes erfolg
 
 4. eine Beschreibung der Einzelheiten und der Funktionsweise des Altersüberprüfungssystems nach § 22 Absatz 1 Nummer 1 des Tabakerzeugnisgesetzes.
 
-
-## § 32 – Veröffentlichung von Informationen
+# § 32 – Veröffentlichung von Informationen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft oder das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit gibt die Informationen, die es gemäß § 6 Absatz 1 Nummer 2 bis 4, § 8, § 24 Absatz 1 und § 29 erhält, im Internet bekannt.
 
 (2) Rechtsmäßig als Geschäftsgeheimnisse oder andere als vertraulich gekennzeichnete Informationen dürfen nicht veröffentlicht werden. Die Vorschriften zum Schutz personenbezogener Daten bleiben unberührt.
 
-
-## § 33 – Ordnungswidrigkeiten
+# § 33 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 35 Absatz 2 Nummer 1 Buchstabe a des Tabakerzeugnisgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -589,8 +545,7 @@ Ordnungswidrig im Sinne des § 35 Absatz 2 Nummer 1 Buchstabe a des Tabakerzeugn
 
 2. entgegen § 27 Absatz 1 Satz 1 eine Liste mit den Angaben nach § 27 Absatz 1 Satz 2 Nummer 1 oder 2 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anbringt.
 
-
-## § 34 – Übergangsregelungen
+# § 34 – Übergangsregelungen
 
 (1) Die §§ 19 bis 23 sind für Zigaretten und Tabak zum Selbstdrehen ab dem 20. Mai 2019 und für die übrigen Tabakerzeugnisse ab dem 20. Mai 2024 anzuwenden.
 
@@ -608,8 +563,7 @@ darf noch bis zum 20. Mai 2019 in den Verkehr gebracht werden oder im Verkehr ve
 
 (3) Anlage 1 Nummer 4 Buchstabe d Doppelbuchstabe aa ist ab dem 20. Mai 2020 anzuwenden.
 
-
-## Anlage 1 – (zu § 4)Verbotene Zusatzstoffe in Tabakerzeugnissen
+# Anlage 1 – (zu § 4)Verbotene Zusatzstoffe in Tabakerzeugnissen
 
 (Fundstelle: BGBl. I 2017, 1201 – 1203)
 
@@ -727,8 +681,7 @@ Para-Hydroxybenzoesäure-Propylester (CAS-Nr. 94-13-3)
 
 (+++ Anlage 1 Nr. 4 Buchst. d DBuchst. aa: Zur Anwendung vgl. § 34 Abs. 3 +++)
 
-
-## Anlage 2 – (zu § 28)Verbotene Inhaltsstoffe in elektronischen Zigaretten und Nachfüllbehältern
+# Anlage 2 – (zu § 28)Verbotene Inhaltsstoffe in elektronischen Zigaretten und Nachfüllbehältern
 
 (Fundstelle: BGBl. I 2017, 1203 – 1204)
 
@@ -814,7 +767,6 @@ Verarbeitete Bestandteile, Extrakte und Öle, die aus der Pflanze Poleyminze sta
 
 Agarizinsäure
 
-
-## Anlage 3 – (zu § 5 Absatz 1)Rückstandshöchstgehalte für Pflanzenschutzmittel
+# Anlage 3 – (zu § 5 Absatz 1)Rückstandshöchstgehalte für Pflanzenschutzmittel
 
 (Fundstelle: BGBl. I 2016, 991 - 992)

@@ -1,37 +1,29 @@
-# [ERPVerwG 2007] Gesetz über die Verwaltung des ERP-Sondervermögens  (ERP-Verwaltungsgesetz)
-
-Ausfertigungsdatum: 26.06.2007
-
+% Gesetz über die Verwaltung des ERP-Sondervermögens  (ERP-Verwaltungsgesetz)
+% Ausfertigungsdatum: 26.06.2007
  
-
-## § 1 – Verwalter des Sondervermögens
+# § 1 – Verwalter des Sondervermögens
 
 Das Bundesministerium für Wirtschaft und Energie verwaltet die in Artikel III des Gesetzes vom 31. Januar 1950 betreffend das Abkommen über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949 (BGBl. 1950 S. 9) bezeichneten Vermögenswerte der Bundesrepublik Deutschland als Sondervermögen des Bundes unter der Bezeichnung "ERP-Sondervermögen".
 
-
-## § 2 – Zweckbestimmung
+# § 2 – Zweckbestimmung
 
 Das Sondervermögen dient der Förderung der deutschen Wirtschaft nach Maßgabe der Bestimmungen des Abkommens über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949 (BGBl. 1950 S. 10).
 
-
-## § 3 – Rechtsgeschäftlicher Verkehr
+# § 3 – Rechtsgeschäftlicher Verkehr
 
 Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Sondervermögens ist Berlin.
 
-
-## § 4 – Getrennte Vermögensverwaltung
+# § 4 – Getrennte Vermögensverwaltung
 
 (1) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten getrennt zu halten.
 
 (2) Der Bund haftet für die Verbindlichkeiten des Sondervermögens; dieses haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
-
-## § 5 – Substanzerhaltungsgebot
+# § 5 – Substanzerhaltungsgebot
 
 Das Sondervermögen soll in seinem Bestand erhalten bleiben. Es ist nach wirtschaftlichen Grundsätzen zu verwalten.
 
-
-## § 6 – Kapitalanlagen in der Kreditanstalt für Wiederaufbau
+# § 6 – Kapitalanlagen in der Kreditanstalt für Wiederaufbau
 
 (1) Teile des Sondervermögens werden als Eigenkapital in Form einer Kapitalrücklage (Förderrücklage) in die Kreditanstalt für Wiederaufbau eingebracht. Weitere Teile des Sondervermögens können der Kreditanstalt für Wiederaufbau als befristetes Nachrangdarlehen gewährt werden. Der Bestimmungszweck des Sondervermögens bleibt auch in Form der Förderrücklage und eines Nachrangdarlehens und der hierauf entfallenden Erträge erhalten; hierüber legt die Kreditanstalt für Wiederaufbau dem Bundesministerium für Wirtschaft und Energie einen jährlichen Bericht vor.
 
@@ -51,15 +43,13 @@ f) Verzicht der Kreditanstalt für Wiederaufbau auf Eigenkapitalkosten, soweit d
 
 (3) Der Vertrag nach Absatz 2 sowie seine Änderungen und Ergänzungen stehen unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.
 
-
-## § 7 – Fördertätigkeit
+# § 7 – Fördertätigkeit
 
 (1) Im Rahmen der Zweckbestimmung können Fördermaßnahmen durchgeführt werden, insbesondere Darlehen gewährt und Zinslasten aus der Verbilligung von Darlehen getragen werden. Darüber hinaus können Sicherheiten bestellt, Gewährleistungen und Bürgschaften eingegangen sowie Beteiligungen erworben werden. Für die hiermit verbundenen Risiken ist in geeigneter Weise Vorsorge zu treffen. Im Ausnahmefall können auch Zuschüsse gewährt werden.
 
 (2) Bei zeitweise nicht ausreichenden Erträgen kann die Kreditanstalt für Wiederaufbau dem Sondervermögen nach Maßgabe der Ermächtigung im jährlichen Gesetz über den Wirtschaftsplan vorübergehend verzinsliche rückzahlbare Mittel bereitstellen. Kredite am Kapitalmarkt darf das Sondervermögen nicht aufnehmen.
 
-
-## § 8 – Wirtschaftsplan
+# § 8 – Wirtschaftsplan
 
 (1) Über die für das jeweils folgende Rechnungsjahr (1. Januar bis 31. Dezember eines Jahres) geplante Wirtschaftsförderung des Sondervermögens stellt das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen einen Wirtschaftsplan auf. Dieser enthält die für die Wirtschaftsförderung des Sondervermögens vorgesehenen Fördermaßnahmen und Programme sowie die dafür einzusetzenden Mittel. Darüber hinaus werden die voraussichtlichen zukünftigen Risiken und Belastungen ausgewiesen. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. In den Wirtschaftsplan ist außerdem der Bericht der Kreditanstalt für Wiederaufbau über die Verwendung des eingebrachten Eigenkapitals und des gewährten Nachrangdarlehens aufzunehmen.
 
@@ -69,8 +59,7 @@ f) Verzicht der Kreditanstalt für Wiederaufbau auf Eigenkapitalkosten, soweit d
 
 (4) Die in dem Wirtschaftsplan des Sondervermögens vorgesehenen Ausgabemittel sind insoweit übertragbar, als die tatsächlich aufgekommenen Einnahmen nicht verwendet sind.
 
-
-## § 9 – Durchführung der Wirtschaftsförderung
+# § 9 – Durchführung der Wirtschaftsförderung
 
 (1) Der Wirtschaftsplan wird durch das Bundesministerium für Wirtschaft und Energie und die Kreditanstalt für Wiederaufbau nach den Regelungen des nach § 6 Abs. 2 geschlossenen Vertrages umgesetzt.
 
@@ -80,13 +69,11 @@ f) Verzicht der Kreditanstalt für Wiederaufbau auf Eigenkapitalkosten, soweit d
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird dem Deutschen Bundestag nach Abschluss des Förderjahres über die Umsetzung des Wirtschaftsplans berichten.
 
-
-## § 10 – Kosten
+# § 10 – Kosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt das Sondervermögen, soweit sie nicht vom Bund getragen werden.
 
-
-## § 11 – Jahresabschluss
+# § 11 – Jahresabschluss
 
 (1) Das Bundesministerium für Wirtschaft und Energie stellt am Schluss eines jeden Rechnungsjahres die Jahresrechnung für das Sondervermögen auf.
 
@@ -94,8 +81,7 @@ Die Kosten für die Verwaltung des Sondervermögens trägt das Sondervermögen, 
 
 (3) Die Prüfungsrechte des Bundesrechnungshofs bleiben unberührt.
 
-
-## § 12 – Prüfungsrechte des Sondervermögens
+# § 12 – Prüfungsrechte des Sondervermögens
 
 (1) Das Sondervermögen kann unmittelbar oder durch Beauftragte von allen natürlichen oder juristischen Personen, die durch die Wirtschaftsförderung des Sondervermögens finanziell begünstigt worden sind, Auskünfte oder Einsicht in die Geschäftsbücher und Geschäftspapiere verlangen. Das Gleiche gilt gegenüber den Begünstigten in den Fällen, in denen im Rahmen der Wirtschaftsförderung Sicherheiten bestellt, Bürgschaften oder Gewährleistungen übernommen oder Beteiligungen erworben worden sind.
 

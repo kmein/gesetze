@@ -1,15 +1,11 @@
-# [StUG] Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik  (Stasi-Unterlagen-Gesetz - StUG)
-
-Ausfertigungsdatum: 20.12.1991
-
+% Gesetz über die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik  (Stasi-Unterlagen-Gesetz - StUG)
+% Ausfertigungsdatum: 20.12.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -421,8 +417,7 @@ Inkrafttreten
 
  
 
-
-## § 1 – Zweck und Anwendungsbereich des Gesetzes
+# § 1 – Zweck und Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz regelt die Erfassung, Erschließung, Verwaltung und Verwendung der Unterlagen des Ministeriums für Staatssicherheit und seiner Vorläufer- und Nachfolgeorganisationen (Staatssicherheitsdienst) der ehemaligen Deutschen Demokratischen Republik, um
 
@@ -436,8 +431,7 @@ Inkrafttreten
 
 (2) Dieses Gesetz gilt für Unterlagen des Staatssicherheitsdienstes, die sich bei öffentlichen Stellen des Bundes oder der Länder, bei natürlichen Personen oder sonstigen nicht öffentlichen Stellen befinden.
 
-
-## § 2 – Erfassung, Verwahrung und Verwaltung der Unterlagen des Staatssicherheitsdienstes
+# § 2 – Erfassung, Verwahrung und Verwaltung der Unterlagen des Staatssicherheitsdienstes
 
 (1) Der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (Bundesbeauftragter) erfasst, verwahrt, verwaltet und verwendet die Unterlagen des Staatssicherheitsdienstes nach Maßgabe dieses Gesetzes.
 
@@ -457,8 +451,7 @@ Inkrafttreten
 
 Diese Informationen sind auf Ersuchen den Gerichten und Strafverfolgungsbehörden zur Erfüllung ihrer gesetzlichen Aufgaben zu übermitteln.
 
-
-## § 3 – Rechte des Einzelnen
+# § 3 – Rechte des Einzelnen
 
 (1) Jeder Einzelne hat das Recht, vom Bundesbeauftragten Auskunft darüber zu verlangen, ob in den erschlossenen Unterlagen Informationen zu seiner Person enthalten sind. Ist das der Fall, hat der Einzelne das Recht auf Auskunft, Einsicht in Unterlagen und Herausgabe von Unterlagen nach Maßgabe dieses Gesetzes.
 
@@ -466,8 +459,7 @@ Diese Informationen sind auf Ersuchen den Gerichten und Strafverfolgungsbehörde
 
 (3) Durch die Auskunftserteilung, Gewährung von Einsicht in Unterlagen oder Herausgabe von Unterlagen dürfen überwiegende schutzwürdige Interessen anderer Personen nicht beeinträchtigt werden.
 
-
-## § 4 – Zulässigkeit der Verwendung der Unterlagen des Staatssicherheitsdienstes durch öffentliche und nicht öffentliche Stellen
+# § 4 – Zulässigkeit der Verwendung der Unterlagen des Staatssicherheitsdienstes durch öffentliche und nicht öffentliche Stellen
 
 (1) Öffentliche und nicht öffentliche Stellen haben nur Zugang zu den Unterlagen und dürfen sie nur verwenden, soweit dieses Gesetz es erlaubt oder anordnet. Legen Betroffene, Dritte, nahe Angehörige Vermisster oder Verstorbener, Mitarbeiter oder Begünstigte des Staatssicherheitsdienstes Unterlagen mit Informationen über ihre Person von sich aus vor, dürfen diese auch für die Zwecke verwendet werden, für die sie vorgelegt worden sind.
 
@@ -477,15 +469,13 @@ Diese Informationen sind auf Ersuchen den Gerichten und Strafverfolgungsbehörde
 
 (4) Durch die Verwendung der Unterlagen dürfen überwiegende schutzwürdige Interessen anderer Personen nicht beeinträchtigt werden.
 
-
-## § 5 – Besondere Verwendungsverbote
+# § 5 – Besondere Verwendungsverbote
 
 (1) Die Verwendung personenbezogener Informationen über Betroffene oder Dritte, die im Rahmen der zielgerichteten Informationserhebung oder Ausspähung des Betroffenen einschließlich heimlicher Informationserhebung gewonnen worden sind, zum Nachteil dieser Personen ist unzulässig. Dies gilt nicht in den Fällen des § 21 Abs. 1 Nr. 1 und 2, wenn Angaben des Betroffenen oder Dritten sich aufgrund der Informationen ganz oder teilweise als unzutreffend erweisen.
 
 (2) Die Verwendung von Unterlagen ist für einen begrenzten Zeitraum unzulässig, wenn die zuständige Staatsanwaltschaft oder das Gericht gegenüber dem Bundesbeauftragten erklärt, dass für einen bestimmten Zeitraum die Verwendung die Durchführung eines Strafverfahrens beeinträchtigen würde. Dies gilt nicht, wenn dadurch Personen in der Wahrnehmung ihrer Rechte in unzumutbarer Weise beschränkt würden. In diesem Fall erfolgt die Verwendung im Einvernehmen mit der Staatsanwaltschaft oder dem Gericht.
 
-
-## § 6 – Begriffsbestimmungen
+# § 6 – Begriffsbestimmungen
 
 (1) Unterlagen des Staatssicherheitsdienstes sind
 
@@ -543,8 +533,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (9) Die Verwendung von Unterlagen umfasst die Weitergabe von Unterlagen, die Übermittlung von Informationen aus den Unterlagen sowie die sonstige Verarbeitung und die Nutzung von Informationen. Soweit in dieser Vorschrift nichts anderes bestimmt ist, gelten die Begriffsbestimmungen der §§ 2 und 3 des Bundesdatenschutzgesetzes mit der Maßgabe, dass zu den nicht öffentlichen Stellen auch die Religionsgesellschaften gehören.
 
-
-## § 7 – Auffinden von Unterlagen des Staatssicherheitsdienstes, Anzeigepflichten
+# § 7 – Auffinden von Unterlagen des Staatssicherheitsdienstes, Anzeigepflichten
 
 (1) Alle öffentlichen Stellen unterstützen den Bundesbeauftragten bei seinen Ermittlungen zum Auffinden der Unterlagen des Staatssicherheitsdienstes und bei deren Übernahme. Ist ihnen bekannt oder stellen sie gelegentlich der Erfüllung ihrer Aufgaben fest, daß sich bei ihnen Unterlagen des Staatssicherheitsdienstes oder Kopien, Abschriften oder sonstige Duplikate solcher Unterlagen befinden, so haben sie dies dem Bundesbeauftragten unverzüglich anzuzeigen.
 
@@ -552,8 +541,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (3) Natürliche Personen und sonstige nicht öffentliche Stellen sind verpflichtet, dem Bundesbeauftragten unverzüglich anzuzeigen, dass sich bei ihnen Unterlagen des Staatssicherheitsdienstes oder Kopien, Abschriften oder sonstige Duplikate solcher Unterlagen befinden, sobald ihnen dies bekannt wird.
 
-
-## § 8 – Herausgabepflicht öffentlicher Stellen
+# § 8 – Herausgabepflicht öffentlicher Stellen
 
 (1) Jede öffentliche Stelle hat dem Bundesbeauftragten auf dessen Verlangen unverzüglich bei ihr befindliche Unterlagen des Staatssicherheitsdienstes einschließlich Kopien, Abschriften und sonstigen Duplikaten herauszugeben.
 
@@ -561,8 +549,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (3) Unterlagen über Betroffene sind von den Nachrichtendiensten des Bundes und der Länder ersatzlos und vollständig an den Bundesbeauftragten herauszugeben.
 
-
-## § 9 – Herausgabepflicht nicht-öffentlicher Stellen
+# § 9 – Herausgabepflicht nicht-öffentlicher Stellen
 
 (1) Jede natürliche Person und jede sonstige nicht öffentliche Stelle hat dem Bundesbeauftragten auf dessen Verlangen unverzüglich Unterlagen des Staatssicherheitsdienstes herauszugeben, soweit diese nicht Eigentum der natürlichen Person oder der sonstigen nicht öffentlichen Stelle sind. Der Nachweis des Eigentumserwerbs obliegt der natürlichen Person oder sonstigen nicht öffentlichen Stelle. Vom Eigentum der natürlichen Person oder sonstigen nicht-öffentlichen Stelle kann ausgegangen werden bei Unterlagen nach § 10 Abs. 4, die sie selbst angefertigt hat.
 
@@ -570,8 +557,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (3) Jede natürliche Person und jede sonstige nicht öffentliche Stelle hat dem Bundesbeauftragten auf dessen Verlangen Unterlagen des Staatssicherheitsdienstes, die ihr Eigentum sind, zur Anfertigung von Kopien, Abschriften oder sonstigen Duplikaten zu überlassen.
 
-
-## § 10 – Unterlagen der Sozialistischen Einheitspartei Deutschlands, anderer mit ihr verbundener Parteien und Massenorganisationen sowie sonstige Unterlagen im Zusammenhang mit dem Staatssicherheitsdienst
+# § 10 – Unterlagen der Sozialistischen Einheitspartei Deutschlands, anderer mit ihr verbundener Parteien und Massenorganisationen sowie sonstige Unterlagen im Zusammenhang mit dem Staatssicherheitsdienst
 
 (1) Der Bundesbeauftragte kann zur Erfüllung seiner Aufgaben von den zuständigen Stellen Auskunft über Art, Inhalt und Aufbewahrungsort der Unterlagen der Sozialistischen Einheitspartei Deutschlands, anderer mit ihr verbundener Parteien und Massenorganisationen der ehemaligen Deutschen Demokratischen Republik verlangen.
 
@@ -581,8 +567,7 @@ soweit sie beim Staatssicherheitsdienst oder beim Arbeitsgebiet 1 der Kriminalpo
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für Unterlagen, die erkennbar im Zusammenwirken anderer öffentlicher oder nicht öffentlicher Stellen der ehemaligen Deutschen Demokratischen Republik mit dem Staatssicherheitsdienst, auf seine Veranlassung oder zur Umsetzung seiner Anordnungen oder Hinweise entstanden sind.
 
-
-## § 11 – Rückgabe und Herausgabe von Unterlagen anderer Behörden durch den Bundesbeauftragten
+# § 11 – Rückgabe und Herausgabe von Unterlagen anderer Behörden durch den Bundesbeauftragten
 
 (1) Der Bundesbeauftragte hat Unterlagen anderer Behörden, in denen sich keine Anhaltspunkte dafür befinden, dass der Staatssicherheitsdienst Maßnahmen getroffen oder veranlasst hat,
 
@@ -602,8 +587,7 @@ an die zuständigen Stellen zurückzugeben. Der Bundesbeauftragte kann Duplikate
 
 (6) Soweit ehemalige Mitarbeiter des Staatssicherheitsdienstes Empfänger von Renten sind, sind die zu ihrer Person geführten Personalunterlagen im erforderlichen Umfang an den Versorgungsträger herauszugeben. Der Bundesbeauftragte kann Duplikate zu seinen Unterlagen nehmen.
 
-
-## § 12 – Verfahrensvorschriften für Betroffene, Dritte, Mitarbeiter und Begünstigte des Staatssicherheitsdienstes
+# § 12 – Verfahrensvorschriften für Betroffene, Dritte, Mitarbeiter und Begünstigte des Staatssicherheitsdienstes
 
 (1) Der Antrag auf Auskunft, Einsicht in Unterlagen oder Herausgabe von Unterlagen ist schriftlich zu stellen. Der Antragsteller hat durch eine Bestätigung der zuständigen Landesbehörde seine Identität und, wenn er als gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen. Wird der Antrag durch einen Bevollmächtigten mit Nachweis seiner Vollmacht gestellt, wird Auskunft erteilt, Einsicht in Unterlagen gewährt oder werden Unterlagen herausgegeben
 
@@ -629,8 +613,7 @@ Im Übrigen wird Einsicht in Duplikate gewährt, in denen die personenbezogenen 
 
 (6) Das Recht auf Einsicht und Herausgabe gilt nicht für die zur Auswertung erforderlichen Hilfsmittel (§ 6 Abs. 1 Nr. 1 Buchstabe c). Sind andere Unterlagen nicht oder nur mit unverhältnismäßigem Aufwand auffindbar, erstreckt sich das Recht auf Einsicht und Herausgabe auf Duplikate von Karteikarten, die der Auswertung der Unterlagen dienen und in denen personenbezogene Informationen über den Antragsteller enthalten sind.
 
-
-## § 13 – Recht von Betroffenen und Dritten auf Auskunft, Einsicht und Herausgabe
+# § 13 – Recht von Betroffenen und Dritten auf Auskunft, Einsicht und Herausgabe
 
 (1) Betroffenen ist auf Antrag Auskunft über die zu ihrer Person vorhandenen und erschlossenen Unterlagen zu erteilen. In dem Antrag sollen Angaben gemacht werden, die das Auffinden der Unterlagen ermöglichen. Der Zweck, zu dem die Auskunft eingeholt wird, muss nicht angegeben werden.
 
@@ -646,13 +629,11 @@ Im Übrigen wird Einsicht in Duplikate gewährt, in denen die personenbezogenen 
 
 (7) Für Dritte gelten die Absätze 1 bis 6 entsprechend mit der Maßgabe, dass der Antragsteller Angaben zu machen hat, die das Auffinden der Informationen ermöglichen. Die Auskunft wird nur erteilt, wenn der dafür erforderliche Aufwand nicht außer Verhältnis zu dem vom Antragsteller geltend gemachten Informationsinteresse steht.
 
-
-## § 14 – (weggefallen)
+# § 14 – (weggefallen)
 
 \-
 
-
-## § 15 – Recht von nahen Angehörigen Vermißter oder Verstorbener auf Auskunft, Einsicht und Herausgabe
+# § 15 – Recht von nahen Angehörigen Vermißter oder Verstorbener auf Auskunft, Einsicht und Herausgabe
 
 (1) Nahen Angehörigen ist auf Antrag Auskunft zu erteilen
 
@@ -672,8 +653,7 @@ Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, 
 
 (5) Absatz 1 gilt nicht, wenn der Vermisste oder Verstorbene eine andere Verfügung hinterlassen hat oder sein entgegenstehender Wille sich aus anderen Umständen eindeutig ergibt.
 
-
-## § 16 – Recht von Mitarbeitern des Staatssicherheitsdienstes auf Auskunft, Einsicht und Herausgabe
+# § 16 – Recht von Mitarbeitern des Staatssicherheitsdienstes auf Auskunft, Einsicht und Herausgabe
 
 (1) Mitarbeitern des Staatssicherheitsdienstes ist auf Antrag Auskunft über ihre personenbezogenen Informationen zu erteilen, die in den zu ihrer Person geführten Unterlagen enthalten sind.
 
@@ -685,8 +665,7 @@ Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, 
 
 (5) Dem Mitarbeiter sind auf Antrag Duplikate der zu seiner Person geführten Unterlagen herauszugeben. In den Duplikaten sind die personenbezogenen Informationen über Betroffene oder Dritte zu anonymisieren.
 
-
-## § 17 – Recht von Begünstigten auf Auskunft, Einsicht und Herausgabe
+# § 17 – Recht von Begünstigten auf Auskunft, Einsicht und Herausgabe
 
 (1) Für das Recht von Begünstigten auf Auskunft, Einsicht in Unterlagen und Herausgabe von Unterlagen gilt § 16 Abs. 1, 3 und 5 entsprechend.
 
@@ -694,13 +673,11 @@ Nahen Angehörigen im Sinne des Absatzes 3 ist auf Antrag Auskunft zu erteilen, 
 
 (3) Absatz 1 gilt nicht, wenn die zuständige oberste Bundesbehörde oder die zuständige Landesbehörde gegenüber dem Bundesbeauftragten erklärt, dass eine Auskunft, Gewährung von Einsicht in Unterlagen oder Herausgabe von Unterlagen wegen eines überwiegenden öffentlichen Interesses unterbleiben muss.
 
-
-## § 18 – Recht auf Auskunft, Einsicht und Herausgabe bei dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
+# § 18 – Recht auf Auskunft, Einsicht und Herausgabe bei dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
 
 Bei den vom Bundesbeauftragten verwahrten Akten von Gerichten und Staatsanwaltschaften gelten für das Recht auf Auskunft, Einsicht in Akten und Herausgabe von Akten anstelle des § 12 Abs. 4 bis 6 und der §§ 13, 15 bis 17 und 43 die jeweiligen gesetzlichen Verfahrensordnungen.
 
-
-## § 19 – Zugang zu den Unterlagen durch öffentliche und nicht öffentliche Stellen, Verfahrensvorschriften
+# § 19 – Zugang zu den Unterlagen durch öffentliche und nicht öffentliche Stellen, Verfahrensvorschriften
 
 (1) Der Bundesbeauftragte macht Mitteilungen an öffentliche und nicht-öffentliche Stellen, gewährt ihnen Einsicht in Unterlagen und gibt ihnen Unterlagen heraus, soweit deren Verwendung nach den §§ 20 bis 23, 25 und 26 zulässig ist. In den Fällen des § 20 Abs. 1 Nr. 6 Buchstabe c bis h, Nr. 7 Buchstabe b bis f und des § 21 Abs. 1 Nr. 6 Buchstabe c bis h und Nr. 7 Buchstabe b bis f unterbleibt eine Mitteilung, Einsichtgewährung und Herausgabe, wenn keine Hinweise vorhanden sind, dass nach dem 31. Dezember 1975 eine inoffizielle Tätigkeit für den Staatssicherheitsdienst oder einen ausländischen Nachrichtendienst vorgelegen hat. Satz 2 gilt nicht, wenn sich aus den Unterlagen Anhaltspunkte dafür ergeben, dass ein Mitarbeiter im Zusammenhang mit seiner inoffiziellen Tätigkeit ein Verbrechen begangen oder gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat.
 
@@ -732,8 +709,7 @@ Bei den vom Bundesbeauftragten verwahrten Akten von Gerichten und Staatsanwaltsc
 
 Absatz 3 Satz 1 bleibt unberührt.
 
-
-## § 20 – Verwendung von Unterlagen, die keine personenbezogenen Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nicht öffentliche Stellen
+# § 20 – Verwendung von Unterlagen, die keine personenbezogenen Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nicht öffentliche Stellen
 
 (1) Unterlagen, soweit sie keine personenbezogenen Informationen über Betroffene oder Dritte enthalten, dürfen durch öffentliche und nicht öffentliche Stellen in dem erforderlichen Umfang für folgende Zwecke verwendet werden:
 
@@ -797,8 +773,7 @@ die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nac
 
 (3) Die Verwendung für die in Absatz 1 Nr. 6 genannten Zwecke ist nach dem 31. Dezember 2030 unzulässig. Unterlagen zu Auskünften und Mitteilungen, die im Zusammenhang mit früheren Überprüfungen bei den anfordernden Stellen angefallen sind, sind dem Bundesarchiv, dem zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern des Deutschen Bundestages, dem Archiv des Deutschen Bundestages anzubieten.
 
-
-## § 21 – Verwendung von Unterlagen, die personenbezogene Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nicht öffentliche Stellen
+# § 21 – Verwendung von Unterlagen, die personenbezogene Informationen über Betroffene oder Dritte enthalten, durch öffentliche und nicht öffentliche Stellen
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über Betroffene oder Dritte enthalten, dürfen durch öffentliche und nicht öffentliche Stellen in dem erforderlichen Umfang für folgende Zwecke verwendet werden:
 
@@ -856,15 +831,13 @@ die Feststellung kann sich auch auf die Tätigkeit für einen ausländischen Nac
 
 (3) Die Verwendung für die in Absatz 1 Nr. 6 genannten Zwecke ist nach dem 31. Dezember 2030 unzulässig. Unterlagen zu Auskünften und Mitteilungen, die im Zusammenhang mit früheren Überprüfungen bei den anfordernden Stellen angefallen sind, sind dem Bundesarchiv, dem zuständigen Landesarchiv oder kommunalen Archiv oder, bei Mitgliedern des Deutschen Bundestages, dem Archiv des Deutschen Bundestages anzubieten.
 
-
-## § 22 – Verwendung von Unterlagen für Zwecke parlamentarischer Untersuchungsausschüsse
+# § 22 – Verwendung von Unterlagen für Zwecke parlamentarischer Untersuchungsausschüsse
 
 (1) Das Recht auf Beweiserhebung durch parlamentarische Untersuchungsausschüsse nach Artikel 44 Abs. 1 und 2 des Grundgesetzes erstreckt sich auch auf Unterlagen des Staatssicherheitsdienstes.
 
 (2) Absatz 1 gilt entsprechend für parlamentarische Untersuchungsausschüsse der Länder.
 
-
-## § 23 – Verwendung von Unterlagen für Zwecke der Strafverfolgung und Gefahrenabwehr
+# § 23 – Verwendung von Unterlagen für Zwecke der Strafverfolgung und Gefahrenabwehr
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über Betroffene oder Dritte enthalten, dürfen in dem erforderlichen Umfang verwendet werden
 
@@ -898,15 +871,13 @@ d) Straftaten nach § 44 dieses Gesetzes,
 
 (2) Andere Unterlagen dürfen auch verwendet werden, soweit dies zur Verfolgung anderer Straftaten einschließlich der Rechtshilfe in Strafsachen sowie der Abwehr einer erheblichen Gefahr für die öffentliche Sicherheit, insbesondere zur Verhütung von Straftaten, erforderlich ist.
 
-
-## § 24 – Verwendung der dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
+# § 24 – Verwendung der dem Staatssicherheitsdienst überlassenen Akten von Gerichten und Staatsanwaltschaften
 
 (1) Für die Verwendung der vom Bundesbeauftragten verwahrten Akten von Gerichten und Staatsanwaltschaften gelten anstelle der §§ 19 bis 21, 23, 25 bis 30 und 43 die jeweiligen gesetzlichen Verfahrensordnungen. § 5 Abs. 1 ist nicht anzuwenden, soweit es sich um Straftaten nach § 23 Abs. 1 Nr. 1 handelt.
 
 (2) Der Bundesbeauftragte gibt auf Anforderung die in Absatz 1 Satz 1 genannten Unterlagen an Gerichte, Staatsanwaltschaften und Polizeibehörden, soweit sie als Hilfsorgane der Staatsanwaltschaft handeln, heraus. Die Unterlagen sind unverzüglich zurückzugeben, sobald sie für den Verwendungszweck nicht mehr benötigt werden.
 
-
-## § 25 – Verwendung von Unterlagen für Zwecke der Nachrichtendienste
+# § 25 – Verwendung von Unterlagen für Zwecke der Nachrichtendienste
 
 (1) Unterlagen, soweit sie personenbezogene Informationen über Betroffene oder Dritte enthalten, dürfen nicht durch oder für Nachrichtendienste verwendet werden. Ausgenommen sind Unterlagen, soweit sie personenbezogene Informationen enthalten über
 
@@ -928,15 +899,13 @@ im Sinne des Bundesverfassungsschutzgesetzes betreffen.
 
 (5) Außerdem dürfen durch oder für Nachrichtendienste im Rahmen ihrer gesetzlichen Aufgaben die in § 26 genannten Unterlagen verwendet werden.
 
-
-## § 26 – Verwendung von Dienstanweisungen, Organisationsplänen und weiteren Unterlagen
+# § 26 – Verwendung von Dienstanweisungen, Organisationsplänen und weiteren Unterlagen
 
 (1) Richtlinien, Dienstanweisungen, Organisationspläne und Stellenpläne des Staatssicherheitsdienstes, soweit sie keine personenbezogenen Informationen über Betroffene oder Dritte enthalten, dürfen auch für andere Zwecke verwendet werden. Das Gleiche gilt für Pläne und Verzeichnisse von Objekten und anderen Gegenständen des Staatssicherheitsdienstes, insbesondere Grundrisspläne, Pläne über Versorgungsleitungen und Telefonleitungen.
 
 (2) Unterlagen, die nicht gezielt zu natürlichen Personen angelegt worden sind, dürfen auch für andere Zwecke verwendet werden, soweit sie keine überwiegend schutzwürdigen personenbezogenen Informationen enthalten.
 
-
-## § 27 – Mitteilungen ohne Ersuchen an öffentliche Stellen
+# § 27 – Mitteilungen ohne Ersuchen an öffentliche Stellen
 
 (1) Stellt der Bundesbeauftragte gelegentlich der Erfüllung seiner Aufgaben nach § 37 eine hauptamtliche oder inoffizielle Tätigkeit für den Staatssicherheitsdienst fest von
 
@@ -966,13 +935,11 @@ so hat er dies von sich aus der zuständigen Stelle mitzuteilen.
 
 (4) Mitteilungen nach den Absätzen 1 bis 3 sind nur zulässig, soweit sie auch auf Ersuchen erfolgen dürfen.
 
-
-## § 28 – (weggefallen)
+# § 28 – (weggefallen)
 
 \-
 
-
-## § 29 – Zweckbindung
+# § 29 – Zweckbindung
 
 (1) Nach den §§ 19 bis 23, 25 und 27 übermittelte personenbezogene Informationen dürfen nur für die Zwecke verarbeitet und genutzt werden, für die sie übermittelt worden sind. Für andere Zwecke dürfen sie nur verarbeitet oder genutzt werden, soweit die Voraussetzungen der §§ 20 bis 23 und 25 vorliegen.
 
@@ -980,8 +947,7 @@ so hat er dies von sich aus der zuständigen Stelle mitzuteilen.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für personenbezogene Informationen in den Unterlagen, die nach § 8 Abs. 2 bei öffentlichen Stellen verbleiben.
 
-
-## § 30 – Benachrichtigung von der Übermittlung
+# § 30 – Benachrichtigung von der Übermittlung
 
 (1) Werden vom Bundesbeauftragten personenbezogene Informationen über einen Betroffenen nach den §§ 21 und 27 Abs. 1 übermittelt, ist dem Betroffenen die Art der übermittelten Informationen und deren Empfänger mitzuteilen.
 
@@ -989,15 +955,13 @@ so hat er dies von sich aus der zuständigen Stelle mitzuteilen.
 
 (3) Eine Benachrichtigung unterbleibt während des Zeitraums, für den die zuständige oberste Bundes- oder Landesbehörde gegenüber dem Bundesbeauftragten festgestellt hat, dass das Bekanntwerden der Übermittlung die öffentliche Sicherheit gefährden oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten würde.
 
-
-## § 31 – Gerichtliche Überprüfung von Entscheidungen des Bundesbeauftragten auf Antrag von Behörden
+# § 31 – Gerichtliche Überprüfung von Entscheidungen des Bundesbeauftragten auf Antrag von Behörden
 
 (1) Lehnt der Bundesbeauftragte ein Ersuchen einer Behörde um Mitteilung, Einsichtnahme oder Herausgabe ab, entscheidet über die Rechtmäßigkeit dieser Ablehnung auf Antrag der betroffenen Behörde das Oberverwaltungsgericht nach mündlicher Verhandlung durch Beschluss. Der Beschluss ist unanfechtbar. Ein Vorverfahren findet nicht statt. Zuständig ist das Oberverwaltungsgericht, in dessen Bezirk der Bundesbeauftragte seinen Sitz hat.
 
 (2) Der Vorsitzende kann aus besonderen Gründen die Einsicht in die Akten oder in Aktenteile sowie die Fertigung oder Erteilung von Auszügen und Abschriften versagen oder beschränken. Dieser Beschluss und der Beschluss des Oberverwaltungsgerichts über die Verpflichtung zur Vorlage von Urkunden nach § 99 Abs. 2 der Verwaltungsgerichtsordnung sind nicht anfechtbar. Im Übrigen sind die Beteiligten zur Geheimhaltung von Tatsachen verpflichtet, die ihnen durch Akteneinsicht zur Kenntnis gelangt sind.
 
-
-## § 32 – Verwendung von Unterlagen für die politische und historische Aufarbeitung
+# § 32 – Verwendung von Unterlagen für die politische und historische Aufarbeitung
 
 (1) Für die Forschung zum Zwecke der politischen und historischen Aufarbeitung der Tätigkeit des Staatssicherheitsdienstes oder der Herrschaftsmechanismen der ehemaligen Deutschen Demokratischen Republik oder der ehemaligen sowjetischen Besatzungszone sowie für Zwecke der politischen Bildung stellt der Bundesbeauftragte auf Antrag folgende Unterlagen zur Verfügung:
 
@@ -1053,15 +1017,13 @@ Durch die Veröffentlichung der in Satz 1 Nr. 2 und 3 genannten personenbezogene
 
 (4) Die Absätze 1 und 3 gelten sinngemäß auch für Zwecke der politischen und historischen Aufarbeitung der nationalsozialistischen Vergangenheit.
 
-
-## § 32a – Benachrichtigung
+# § 32a – Benachrichtigung
 
 (1) Sollen Unterlagen nach § 32 Abs. 1 Satz 1 Nr. 4 zur Verfügung gestellt werden, sind die hiervon betroffenen Personen zuvor rechtzeitig darüber und über den Inhalt der Information zu benachrichtigen, damit Einwände gegen ein Zugänglichmachen solcher Unterlagen vorgebracht werden können. Der Bundesbeauftragte berücksichtigt diese Einwände bei der nach § 32 Abs. 1 vorzunehmenden Interessenabwägung. Soweit kein Einvernehmen erzielt wird, dürfen Unterlagen erst zwei Wochen nach Mitteilung des Ergebnisses der Abwägung zugänglich gemacht werden.
 
 (2) Eine Benachrichtigung kann entfallen, wenn die Beeinträchtigung schutzwürdiger Interessen der betreffenden Person nicht zu befürchten ist, die Benachrichtigung nicht möglich ist oder diese nur mit unverhältnismäßigem Aufwand möglich wäre.
 
-
-## § 33 – Verfahren
+# § 33 – Verfahren
 
 (1) Für Zwecke der Forschung und der politischen Bildung kann in der Zentralstelle oder in einer der Außenstellen des Bundesbeauftragten Einsicht in Unterlagen genommen werden.
 
@@ -1073,15 +1035,13 @@ Durch die Veröffentlichung der in Satz 1 Nr. 2 und 3 genannten personenbezogene
 
 (5) Die Einsichtnahme in noch nicht erschlossene Unterlagen ist nicht zulässig.
 
-
-## § 34 – Verwendung von Unterlagen durch Presse, Rundfunk und Film
+# § 34 – Verwendung von Unterlagen durch Presse, Rundfunk und Film
 
 (1) Für die Verwendung von Unterlagen durch Presse, Rundfunk, Film, deren Hilfsunternehmen und die für sie journalistisch-redaktionell tätigen Personen gelten die §§ 32 bis 33 entsprechend.
 
 (2) Führt die Veröffentlichung personenbezogener Informationen durch Rundfunkanstalten des Bundesrechts zu Gegendarstellungen von Personen, die in der Veröffentlichung genannt sind, so sind diese Gegendarstellungen den personenbezogenen Informationen beizufügen und mit ihnen aufzubewahren. Die Informationen dürfen nur zusammen mit den Gegendarstellungen erneut veröffentlicht werden.
 
-
-## § 35 – Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
+# § 35 – Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik
 
 (1) Der Bundesbeauftragte für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik ist eine Bundesoberbehörde im Geschäftsbereich der für Kultur und Medien zuständigen obersten Bundesbehörde. Er hat eine Zentralstelle in Berlin und kann Außenstellen in den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen haben.
 
@@ -1098,8 +1058,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (5) Der Bundesbeauftragte steht nach Maßgabe dieses Gesetzes zum Bund in einem öffentlich-rechtlichen Amtsverhältnis. Er ist in Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Er untersteht der Rechtsaufsicht der Bundesregierung. Die Dienstaufsicht führt die für Kultur und Medien zuständige oberste Bundesbehörde.
 
-
-## § 36 – Rechtsstellung des Bundesbeauftragten
+# § 36 – Rechtsstellung des Bundesbeauftragten
 
 (1) Das Amtsverhältnis des Bundesbeauftragten beginnt mit der Aushändigung der Ernennungsurkunde. Es endet
 
@@ -1119,8 +1078,7 @@ Der Bundespräsident entläßt den Bundesbeauftragten, wenn dieser es verlangt o
 
 (6) Der Bundesbeauftragte erhält vom Beginn des Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluss des Kalendermonats, in dem das Amtsverhältnis endet, im Falle des Absatzes 1 Satz 6 bis zum Ende des Monats, in dem die Geschäftsführung endet, Amtsbezüge in Höhe der einem Bundesbeamten der Besoldungsgruppe B 9 zustehenden Besoldung. Das Bundesreisekostengesetz und das Bundesumzugskostengesetz sind entsprechend anzuwenden. Im Übrigen sind § 12 Abs. 6 sowie die §§ 13 bis 20 und 21a Abs. 5 des Bundesministergesetzes mit den Maßgaben anzuwenden, dass an die Stelle der vierjährigen Amtszeit in § 15 Abs. 1 des Bundesministergesetzes eine Amtszeit von fünf Jahren und an die Stelle der Besoldungsgruppe B 11 in § 21a Abs. 5 des Bundesministergesetzes die Besoldungsgruppe B 9 tritt. Abweichend von Satz 3 in Verbindung mit den §§ 15 bis 17 und 21a Abs. 5 des Bundesministergesetzes berechnet sich das Ruhegehalt des Bundesbeauftragten unter Hinzurechnung der Amtszeit als ruhegehaltfähige Dienstzeit in entsprechender Anwendung des Beamtenversorgungsgesetzes, wenn dies günstiger ist und der Bundesbeauftragte sich unmittelbar vor seiner Wahl zum Bundesbeauftragten als Beamter oder Richter mindestens in dem letzten gewöhnlich vor Erreichen der Besoldungsgruppe B 9 zu durchlaufenden Amt befunden hat.
 
-
-## § 37 – Aufgaben und Befugnisse des Bundesbeauftragten
+# § 37 – Aufgaben und Befugnisse des Bundesbeauftragten
 
 (1) Der Bundesbeauftragte hat nach Maßgabe dieses Gesetzes folgende Aufgaben und Befugnisse:
 
@@ -1162,13 +1120,11 @@ für die gesonderte Verwahrung nach Buchstabe b bis d gelten die Vorschriften ü
 
 (3) Der Bundesbeauftragte erstattet dem Deutschen Bundestag auf dessen Ersuchen, im Übrigen mindestens alle zwei Jahre, erstmals zum 1. Juli 1993, einen Tätigkeitsbericht. Ab seinem zweiten regelmäßigen Tätigkeitsbericht hat er mitzuteilen, in welchem Umfang und in welchem Zeitraum Unterlagen für die Erfüllung seiner Aufgaben voraussichtlich nicht mehr benötigt werden. Auf Anforderung des Deutschen Bundestages oder der Bundesregierung hat der Bundesbeauftragte Gutachten zu erstellen und Berichte zu erstatten. Der Bundesbeauftragte kann sich jederzeit an den Deutschen Bundestag wenden. In Angelegenheiten einer gesetzgebenden Körperschaft berichtet er dieser Körperschaft unmittelbar.
 
-
-## § 37a – Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes
+# § 37a – Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes
 
 Eine Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik ist vorbehaltlich des Satzes 2 unzulässig. Ehemalige Mitarbeiter des Staatssicherheitsdienstes, die zum Zeitpunkt des Inkrafttretens dieser Bestimmung beim Bundesbeauftragten beschäftigt sind, sind ihren Fähigkeiten entsprechend und unter Berücksichtigung sozialer Belange auf einen gleichwertigen Arbeitsplatz innerhalb der Bundesverwaltung zu versetzen, wenn ihnen dies im Einzelfall zumutbar ist; dies gilt nicht, falls beim Bundesbeauftragten beschäftigte Bedienstete bei ihrer Einstellung auf Befragen eine Tätigkeit für den Staatssicherheitsdienst verschwiegen haben. Bei der Beurteilung der Zumutbarkeit sind insbesondere das Interesse des Beschäftigten an einer gleichwertigen Arbeitssituation sowie seine persönlichen und familiären Umstände zu berücksichtigen.
 
-
-## § 38 – Landesbeauftragte, Verhältnis zum Bundesbeauftragten
+# § 38 – Landesbeauftragte, Verhältnis zum Bundesbeauftragten
 
 (1) Zur Unterstützung der Arbeit des Bundesbeauftragten bei der Wahrnehmung seiner Aufgaben nach § 37 kann in den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen eine Stelle als Landesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik bestimmt werden. Die näheren Einzelheiten richten sich nach Landesrecht.
 
@@ -1176,8 +1132,7 @@ Eine Beschäftigung von Mitarbeitern des Staatssicherheitsdienstes beim Bundesbe
 
 (3) Landesrecht kann bestimmen, dass die Landesbeauftragten die Beteiligten bei der Wahrnehmung ihrer Rechte nach den §§ 13 bis 17 beraten. Diese Tätigkeit kann sich auch auf die psycho-soziale Beratung nach Abschluss der Verfahren nach § 12 erstrecken.
 
-
-## § 39 – Beirat
+# § 39 – Beirat
 
 (1) Beim Bundesbeauftragten wird ein Beirat gebildet. Der Beirat besteht aus
 
@@ -1213,8 +1168,7 @@ Ferner berät der Beirat die Tätigkeitsberichte nach § 37 Abs. 3 Satz 1 vor.
 
 (5) Der Beirat kann sich jederzeit in wichtigen Angelegenheiten an den Deutschen Bundestag wenden.
 
-
-## § 39a – Wissenschaftliches Beratungsgremium
+# § 39a – Wissenschaftliches Beratungsgremium
 
 (1) Zur Beratung des Bundesbeauftragten bei der wissenschaftlichen Aufarbeitung der Tätigkeit des Staatssicherheitsdienstes sowie bei der Konzeption seiner Forschungsarbeit wird ein wissenschaftliches Beratungsgremium gebildet, das aus neun Mitgliedern besteht. Das wissenschaftliche Beratungsgremium begleitet die Forschungsarbeit und Publikationstätigkeit des Bundesbeauftragten wissenschaftlich und fördert und unterstützt die Zusammenarbeit und den Informationsaustausch des Bundesbeauftragten mit anderen wissenschaftlichen Einrichtungen.
 
@@ -1222,8 +1176,7 @@ Ferner berät der Beirat die Tätigkeitsberichte nach § 37 Abs. 3 Satz 1 vor.
 
 (3) Mitglieder des wissenschaftlichen Beratungsgremiums sind bei ihrer Bestellung zur Verschwiegenheit über die ihnen bei ihrer Tätigkeit bekannt gewordenen personenbezogenen Informationen, soweit sie nicht offenkundig sind, zu verpflichten. Die Verschwiegenheitspflicht besteht auch nach Beendigung ihrer Mitgliedschaft im wissenschaftlichen Beratungsgremium fort.
 
-
-## § 40 – Maßnahmen zur Sicherung der Unterlagen
+# § 40 – Maßnahmen zur Sicherung der Unterlagen
 
 (1) Der Bundesbeauftragte trifft für seine Behörde die organisatorischen und technischen Maßnahmen, die erforderlich sind, um die Unterlagen gegen unbefugten Zugriff zu sichern.
 
@@ -1247,8 +1200,7 @@ Ferner berät der Beirat die Tätigkeitsberichte nach § 37 Abs. 3 Satz 1 vor.
 
 9. die innerbehördliche Organisation insgesamt so gestaltet ist, dass sie den besonderen Anforderungen des Datenschutzes gerecht wird.
 
-
-## § 41 – Automatisierte Verfahren, Informationsverarbeitung im Auftrag
+# § 41 – Automatisierte Verfahren, Informationsverarbeitung im Auftrag
 
 (1) Personenbezogene Informationen aus Unterlagen des Staatssicherheitsdienstes darf der Bundesbeauftragte nur insoweit automatisiert verarbeiten, als dies zur Erfüllung seiner Aufgaben erforderlich ist. Auf Informationen, die automatisiert verarbeitet werden, ist § 20 des Bundesdatenschutzgesetzes anzuwenden.
 
@@ -1256,25 +1208,21 @@ Ferner berät der Beirat die Tätigkeitsberichte nach § 37 Abs. 3 Satz 1 vor.
 
 (3) Die Verarbeitung von Informationen aus den Unterlagen im Auftrag ist nur dann zulässig, wenn die Verarbeitung beim Bundesbeauftragten mit eigenen Mitteln nicht oder nur mit unverhältnismäßigem Aufwand möglich ist und der Auftragnehmer unter besonderer Berücksichtigung der Eignung gerade für den Umgang mit diesen Informationen ausgewählt worden ist. Der Auftragnehmer darf die Informationen ausschließlich entsprechend den Weisungen des Bundesbeauftragten verarbeiten.
 
-
-## § 42 – Gebühren und Auslagen
+# § 42 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 13 und 15 bis 17 gegenüber nichtöffentlichen Stellen nach § 19 in Verbindung mit den §§ 20, 21 und 26 sowie nach den §§ 32 und 34 sind zur Deckung des Verwaltungsaufwands Gebühren und Auslagen zu erheben. In den Fällen des Widerrufs oder der Rücknahme eines Verwaltungsaktes, der Ablehnung oder Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie der Zurückweisung oder Zurücknahme eines Widerspruchs sind ebenfalls Gebühren zu erheben. Für Auskünfte an Betroffene, Dritte und nahe Angehörige Vermisster oder Verstorbener sowie für die ihnen gewährte Einsicht in die Unterlagen werden Gebühren und Auslagen nicht erhoben.
 
 (2) Das für Kultur und Medien zuständige Mitglied der Bundesregierung hat durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und hat in der Rechtsverordnung feste Sätze oder Rahmengebühren vorzusehen. In der Rechtsverordnung kann die Erstattung von Auslagen abweichend von den Regelungen des Bundesgebührengesetzes bestimmt werden.
 
-
-## § 43 – Vorrang dieses Gesetzes
+# § 43 – Vorrang dieses Gesetzes
 
 Die Regelungen dieses Gesetzes gehen Vorschriften über die Zulässigkeit der Übermittlung personenbezogener Informationen in anderen Gesetzen vor. Das Bundesdatenschutzgesetz findet mit Ausnahme der Vorschriften über die Datenschutzkontrolle keine Anwendung, soweit nicht in § 6 Abs. 9 und § 41 Abs. 1 Satz 2 dieses Gesetzes etwas anderes bestimmt ist.
 
-
-## § 44 – Strafvorschriften
+# § 44 – Strafvorschriften
 
 Wer von diesem Gesetz geschützte Originalunterlagen oder Duplikate von Originalunterlagen mit personenbezogenen Informationen über Betroffene oder Dritte ganz oder in wesentlichen Teilen im Wortlaut öffentlich mitteilt, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft. Dies gilt nicht, wenn der Betroffene oder Dritte eingewilligt hat.
 
-
-## § 45 – Bußgeldvorschriften
+# § 45 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1288,24 +1236,20 @@ Wer von diesem Gesetz geschützte Originalunterlagen oder Duplikate von Original
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist der Bundesbeauftragte.
 
-
-## § 46 – Straffreiheit
+# § 46 – Straffreiheit
 
 Wer Unterlagen des Staatssicherheitsdienstes durch strafbare Vergehen erlangt hat, wird nicht bestraft, wenn er der Anzeigepflicht nach § 7 Abs. 3 innerhalb einer Frist von drei Monaten nach Inkrafttreten dieses Gesetzes nachkommt.
 
-
-## § 46a – Einschränkung von Grundrechten
+# § 46a – Einschränkung von Grundrechten
 
 Das Brief-, Post- und Fernmeldegeheimnis (Artikel 10 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 47 – Aufhebung von Vorschriften, Überleitung des Amtsinhabers
+# § 47 – Aufhebung von Vorschriften, Überleitung des Amtsinhabers
 
 (1) Die Regelungen in Anlage I Kapitel II Sachgebiet B Abschnitt II Nr. 2 Buchstabe b des Einigungsvertrages vom 31. August 1990 (BGBl. II S. 885, 912) werden aufgehoben.
 
 (2) Das Rechtsverhältnis des aufgrund der in Absatz 1 genannten Regelungen berufenen und bei Inkrafttreten dieses Gesetzes vorhandenen Amtsinhabers richtet sich nach diesem Gesetz. Die aufgrund des Einigungsvertrages ergangenen besoldungs- und versorgungsrechtlichen Übergangsvorschriften gelten sinngemäß.
 
-
-## § 48 – (Inkrafttreten)
+# § 48 – (Inkrafttreten)
 
 \-

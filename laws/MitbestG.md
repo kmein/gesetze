@@ -1,10 +1,7 @@
-# [MitbestG] Gesetz über die Mitbestimmung der Arbeitnehmer  (Mitbestimmungsgesetz - MitbestG)
-
-Ausfertigungsdatum: 04.05.1976
-
+% Gesetz über die Mitbestimmung der Arbeitnehmer  (Mitbestimmungsgesetz - MitbestG)
+% Ausfertigungsdatum: 04.05.1976
  
-
-## § 1 – Erfaßte Unternehmen
+# § 1 – Erfaßte Unternehmen
 
 (1) In Unternehmen, die
 
@@ -32,13 +29,11 @@ ein Mitbestimmungsrecht haben.
 
 dienen. Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitativen und erzieherischen Einrichtungen unbeschadet deren Rechtsform.
 
-
-## § 2 – Anteilseigner
+# § 2 – Anteilseigner
 
 Anteilseigner im Sinne dieses Gesetzes sind je nach der Rechtsform der in § 1 Abs. 1 Nr. 1 bezeichneten Unternehmen Aktionäre, Gesellschafter oder Mitglieder einer Genossenschaft.
 
-
-## § 3 – Arbeitnehmer und Betrieb
+# § 3 – Arbeitnehmer und Betrieb
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind
 
@@ -50,15 +45,13 @@ Keine Arbeitnehmer im Sinne dieses Gesetzes sind die in § 5 Abs. 2 des Betriebs
 
 (2) Betriebe im Sinne dieses Gesetzes sind solche des Betriebsverfassungsgesetzes. § 4 Abs. 2 des Betriebsverfassungsgesetzes ist anzuwenden.
 
-
-## § 4 – Kommanditgesellschaft
+# § 4 – Kommanditgesellschaft
 
 (1) Ist ein in § 1 Abs. 1 Nr. 1 bezeichnetes Unternehmen persönlich haftender Gesellschafter einer Kommanditgesellschaft und hat die Mehrheit der Kommanditisten dieser Kommanditgesellschaft, berechnet nach der Mehrheit der Anteile oder der Stimmen, die Mehrheit der Anteile oder der Stimmen in dem Unternehmen des persönlich haftenden Gesellschafters inne, so gelten für die Anwendung dieses Gesetzes auf den persönlich haftenden Gesellschafter die Arbeitnehmer der Kommanditgesellschaft als Arbeitnehmer des persönlich haftenden Gesellschafters, sofern nicht der persönlich haftende Gesellschafter einen eigenen Geschäftsbetrieb mit in der Regel mehr als 500 Arbeitnehmern hat. Ist die Kommanditgesellschaft persönlich haftender Gesellschafter einer anderen Kommanditgesellschaft, so gelten auch deren Arbeitnehmer als Arbeitnehmer des in § 1 Abs. 1 Nr. 1 bezeichneten Unternehmens. Dies gilt entsprechend, wenn sich die Verbindung von Kommanditgesellschaften in dieser Weise fortsetzt.
 
 (2) Das Unternehmen kann von der Führung der Geschäfte der Kommanditgesellschaft nicht ausgeschlossen werden.
 
-
-## § 5 – Konzern
+# § 5 – Konzern
 
 (1) Ist ein in § 1 Abs. 1 Nr. 1 bezeichnetes Unternehmen herrschendes Unternehmen eines Konzerns (§ 18 Abs. 1 des Aktiengesetzes), so gelten für die Anwendung dieses Gesetzes auf das herrschende Unternehmen die Arbeitnehmer der Konzernunternehmen als Arbeitnehmer des herrschenden Unternehmens. Dies gilt auch für die Arbeitnehmer eines in § 1 Abs. 1 Nr. 1 bezeichneten Unternehmens, das persönlich haftender Gesellschafter eines abhängigen Unternehmens (§ 18 Abs. 1 des Aktiengesetzes) in der Rechtsform einer Kommanditgesellschaft ist.
 
@@ -66,8 +59,7 @@ Keine Arbeitnehmer im Sinne dieses Gesetzes sind die in § 5 Abs. 2 des Betriebs
 
 (3) Stehen in einem Konzern die Konzernunternehmen unter der einheitlichen Leitung eines anderen als eines in Absatz 1 oder 2 bezeichneten Unternehmens, beherrscht aber die Konzernleitung über ein in Absatz 1 oder 2 bezeichnetes Unternehmen oder über mehrere solcher Unternehmen andere Konzernunternehmen, so gelten die in Absatz 1 oder 2 bezeichneten und der Konzernleitung am nächsten stehenden Unternehmen, über die die Konzernleitung andere Konzernunternehmen beherrscht, für die Anwendung dieses Gesetzes als herrschende Unternehmen.
 
-
-## § 6 – Grundsatz
+# § 6 – Grundsatz
 
 (1) Bei den in § 1 Abs. 1 bezeichneten Unternehmen ist ein Aufsichtsrat zu bilden, soweit sich dies nicht schon aus anderen gesetzlichen Vorschriften ergibt.
 
@@ -75,8 +67,7 @@ Keine Arbeitnehmer im Sinne dieses Gesetzes sind die in § 5 Abs. 2 des Betriebs
 
 (3) Auf Genossenschaften sind die §§ 100, 101 Abs. 1 und 3 und die §§ 103 und 106 des Aktiengesetzes nicht anzuwenden. Auf die Aufsichtsratsmitglieder der Arbeitnehmer ist § 9 Abs. 2 des Genossenschaftsgesetzes nicht anzuwenden.
 
-
-## § 7 – Zusammensetzung des Aufsichtsrats
+# § 7 – Zusammensetzung des Aufsichtsrats
 
 (1) Der Aufsichtsrat eines Unternehmens
 
@@ -104,15 +95,13 @@ Bei den in Satz 1 Nr. 1 bezeichneten Unternehmen kann die Satzung (der Gesellsch
 
 § 7 Abs. 1 u. 2: IVm § 31 mit dem GG vereinbar gem. BVerfGE v. 1.3.1979 I 354 - 1 BvR 532/77, 1 BvR 533/77, 1 BvR 419/78, 1 BvL 21/78 -
 
-
-## § 8
+# § 8
 
 (1) Die Aufsichtsratsmitglieder der Anteilseigner werden durch das nach Gesetz, Satzung oder Gesellschaftsvertrag zur Wahl von Mitgliedern des Aufsichtsrats befugte Organ (Wahlorgan) und, soweit gesetzliche Vorschriften dem nicht entgegenstehen, nach Maßgabe der Satzung oder des Gesellschaftsvertrags bestellt.
 
 (2) § 101 Abs. 2 des Aktiengesetzes bleibt unberührt.
 
-
-## § 9
+# § 9
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer (§ 7 Abs. 2) eines Unternehmens mit in der Regel mehr als 8.000 Arbeitnehmern werden durch Delegierte gewählt, sofern nicht die wahlberechtigten Arbeitnehmer die unmittelbare Wahl beschließen.
 
@@ -120,8 +109,7 @@ Bei den in Satz 1 Nr. 1 bezeichneten Unternehmen kann die Satzung (der Gesellsch
 
 (3) Zur Abstimmung darüber, ob die Wahl durch Delegierte oder unmittelbar erfolgen soll, bedarf es eines Antrags, der von einem Zwanzigstel der wahlberechtigten Arbeitnehmer des Unternehmens unterzeichnet sein muß. Die Abstimmung ist geheim. Ein Beschluß nach Absatz 1 oder 2 kann nur unter Beteiligung von mindestens der Hälfte der wahlberechtigten Arbeitnehmer und nur mit der Mehrheit der abgegebenen Stimmen gefaßt werden.
 
-
-## § 10 – Wahl der Delegierten
+# § 10 – Wahl der Delegierten
 
 (1) In jedem Betrieb des Unternehmens wählen die Arbeitnehmer in geheimer Wahl und nach den Grundsätzen der Verhältniswahl Delegierte.
 
@@ -131,8 +119,7 @@ Bei den in Satz 1 Nr. 1 bezeichneten Unternehmen kann die Satzung (der Gesellsch
 
 (4) Wird für einen Wahlgang nur ein Wahlvorschlag gemacht, so gelten die darin aufgeführten Arbeitnehmer in der angegebenen Reihenfolge als gewählt. § 11 Abs. 2 ist anzuwenden.
 
-
-## § 11 – Errechnung der Zahl der Delegierten
+# § 11 – Errechnung der Zahl der Delegierten
 
 (1) In jedem Betrieb entfällt auf je 90 wahlberechtigte Arbeitnehmer ein Delegierter. Ergibt die Errechnung nach Satz 1 in einem Betrieb mehr als
 
@@ -158,15 +145,13 @@ Bei der Errechnung der Zahl der Delegierten werden Teilzahlen voll gezählt, wen
 
 (5) Die Eigenschaft eines Delegierten als Delegierter der Arbeitnehmer nach § 3 Abs. 1 Nr. 1 oder § 3 Abs. 1 Nr. 2 bleibt bei einem Wechsel der Eigenschaft als Arbeitnehmer nach § 3 Abs. 1 Nr. 1 oder § 3 Abs. 1 Nr. 2 erhalten.
 
-
-## § 12 – Wahlvorschläge für Delegierte
+# § 12 – Wahlvorschläge für Delegierte
 
 (1) Zur Wahl der Delegierten können die wahlberechtigten Arbeitnehmer des Betriebs Wahlvorschläge machen. Jeder Wahlvorschlag muss von einem Zwanzigstel oder 50 der jeweils wahlberechtigten in § 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer oder der leitenden Angestellten des Betriebs unterzeichnet sein.
 
 (2) Jeder Wahlvorschlag soll mindestens doppelt so viele Bewerber enthalten, wie in dem Wahlgang Delegierte zu wählen sind.
 
-
-## § 13 – Amtszeit der Delegierten
+# § 13 – Amtszeit der Delegierten
 
 (1) Die Delegierten werden für eine Zeit gewählt, die der Amtszeit der von ihnen zu wählenden Aufsichtsratsmitglieder entspricht. Sie nehmen die ihnen nach den Vorschriften dieses Gesetzes zustehenden Aufgaben und Befugnisse bis zur Einleitung der Neuwahl der Aufsichtsratsmitglieder der Arbeitnehmer wahr.
 
@@ -180,8 +165,7 @@ Bei der Errechnung der Zahl der Delegierten werden Teilzahlen voll gezählt, wen
 
 (4) Abweichend von Absatz 1 endet die Amtszeit der Delegierten eines Betriebs, wenn nach Eintreten aller Ersatzdelegierten des Wahlvorschlags, dem die zu ersetzenden Delegierten angehören, die Gesamtzahl der Delegierten des Betriebs unter die im Zeitpunkt ihrer Wahl vorgeschriebene Zahl der auf den Betrieb entfallenden Delegierten gesunken ist.
 
-
-## § 14 – Vorzeitige Beendigung der Amtszeit oder Verhinderung von Delegierten
+# § 14 – Vorzeitige Beendigung der Amtszeit oder Verhinderung von Delegierten
 
 (1) Die Amtszeit eines Delegierten endet vor dem in § 13 bezeichneten Zeitpunkt
 
@@ -193,8 +177,7 @@ Bei der Errechnung der Zahl der Delegierten werden Teilzahlen voll gezählt, wen
 
 (2) Endet die Amtszeit eines Delegierten vorzeitig oder ist er verhindert, so tritt an seine Stelle ein Ersatzdelegierter. Die Ersatzdelegierten werden der Reihe nach aus den nicht gewählten Arbeitnehmern derjenigen Wahlvorschläge entnommen, denen die zu ersetzenden Delegierten angehören.
 
-
-## § 15 – Wahl der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
+# § 15 – Wahl der unternehmensangehörigen Aufsichtsratsmitglieder der Arbeitnehmer
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 7 Abs. 2 Arbeitnehmer des Unternehmens sein müssen, geheim und nach den Grundsätzen der Verhältniswahl für die Zeit, die im Gesetz oder in der Satzung (im Gesellschaftsvertrag) für die durch das Wahlorgan der Anteilseigner zu wählenden Mitglieder des Aufsichtsrats bestimmt ist. Dem Aufsichtsrat muss ein leitender Angestellter angehören.
 
@@ -206,15 +189,13 @@ Bei der Errechnung der Zahl der Delegierten werden Teilzahlen voll gezählt, wen
 
 (3) Abweichend von Absatz 1 findet Mehrheitswahl statt, soweit nur ein Wahlvorschlag gemacht wird. In diesem Fall muss der Wahlvorschlag doppelt so viele Bewerber enthalten, wie Aufsichtsratsmitglieder auf die Arbeitnehmer nach § 3 Abs. 1 Nr. 1 und auf die leitenden Angestellten entfallen.
 
-
-## § 16 – Wahl der Vertreter von Gewerkschaften in den Aufsichtsrat
+# § 16 – Wahl der Vertreter von Gewerkschaften in den Aufsichtsrat
 
 (1) Die Delegierten wählen die Aufsichtsratsmitglieder, die nach § 7 Abs. 2 Vertreter von Gewerkschaften sind, in geheimer Wahl und nach den Grundsätzen der Verhältniswahl für die in § 15 Abs. 1 bestimmte Zeit.
 
 (2) Die Wahl erfolgt auf Grund von Wahlvorschlägen der Gewerkschaften, die in dem Unternehmen selbst oder in einem anderen Unternehmen vertreten sind, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen. Wird nur ein Wahlvorschlag gemacht, so findet abweichend von Absatz 1 Mehrheitswahl statt. In diesem Fall muß der Wahlvorschlag mindestens doppelt so viele Bewerber enthalten, wie Vertreter von Gewerkschaften in den Aufsichtsrat zu wählen sind.
 
-
-## § 17 – Ersatzmitglieder
+# § 17 – Ersatzmitglieder
 
 (1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Für einen Bewerber, der Arbeitnehmer nach § 3 Abs. 1 Nr. 1 ist, kann nur ein Arbeitnehmer nach § 3 Abs. 1 Nr. 1 und für einen leitenden Angestellten nach § 3 Abs. 1 Nr. 2 nur ein leitender Angestellter als Ersatzmitglied vorgeschlagen werden. Ein Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 
@@ -222,13 +203,11 @@ Bei der Errechnung der Zahl der Delegierten werden Teilzahlen voll gezählt, wen
 
 (3) Im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes ist das Nachrücken eines Ersatzmitgliedes ausgeschlossen, wenn dadurch der Anteil von Frauen und Männern unter den Aufsichtsratsmitgliedern der Arbeitnehmer nicht mehr den Vorgaben des § 7 Absatz 3 entspricht; § 18a Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 18
+# § 18
 
 Sind nach § 9 die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wahl zu wählen, so sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben, wahlberechtigt. § 7 Satz 2 des Betriebsverfassungsgesetzes gilt entsprechend. Für die Wahl sind die §§ 15 bis 17 mit der Maßgabe anzuwenden, daß an die Stelle der Delegierten die wahlberechtigten Arbeitnehmer des Unternehmens treten.
 
-
-## § 18a
+# § 18a
 
 (1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die Vorgaben des § 7 Absatz 3 nicht erreicht worden sind, ist folgendes Geschlechterverhältnis für die Aufsichtsratssitze der Arbeitnehmer herzustellen:
 
@@ -244,13 +223,11 @@ Sind nach § 9 die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wah
 
 Die durch unwirksame Wahl nach Satz 1 nicht besetzten Aufsichtsratssitze werden im Wege der gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der Nachwahl besetzt.
 
-
-## § 19 – Bekanntmachung der Mitglieder des Aufsichtsrats
+# § 19 – Bekanntmachung der Mitglieder des Aufsichtsrats
 
 Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats unverzüglich nach ihrer Bestellung in den Betrieben des Unternehmens bekanntzumachen und im Bundesanzeiger zu veröffentlichen. Nehmen an der Wahl der Aufsichtsratsmitglieder des Unternehmens auch die Arbeitnehmer eines anderen Unternehmens teil, so ist daneben das zur gesetzlichen Vertretung des anderen Unternehmens befugte Organ zur Bekanntmachung in seinen Betrieben verpflichtet.
 
-
-## § 20 – Wahlschutz und Wahlkosten
+# § 20 – Wahlschutz und Wahlkosten
 
 (1) Niemand darf die Wahlen nach den §§ 10, 15, 16 und 18 behindern. Insbesondere darf niemand in der Ausübung des aktiven und passiven Wahlrechts beschränkt werden.
 
@@ -258,8 +235,7 @@ Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die Namen der
 
 (3) Die Kosten der Wahlen trägt das Unternehmen. Versäumnis von Arbeitszeit, die zur Ausübung des Wahlrechts oder der Betätigung im Wahlvorstand erforderlich ist, berechtigt den Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
 
-
-## § 21 – Anfechtung der Wahl von Delegierten
+# § 21 – Anfechtung der Wahl von Delegierten
 
 (1) Die Wahl der Delegierten eines Betriebs kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, daß durch den Verstoß das Wahlergebnis nicht geändert oder beeinflußt werden konnte.
 
@@ -275,8 +251,7 @@ Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die Namen der
 
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
 
-
-## § 22 – Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
+# § 22 – Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, daß durch den Verstoß das Wahlergebnis nicht geändert oder beeinflußt werden konnte.
 
@@ -298,8 +273,7 @@ Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Bekanntga
 
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
-
-## § 23 – Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
+# § 23 – Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der Amtszeit auf Antrag abberufen werden. Antragsberechtigt sind für die Abberufung eines
 
@@ -315,15 +289,13 @@ Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Veröffen
 
 (4) Die Absätze 1 bis 3 sind für die Abberufung von Ersatzmitgliedern entsprechend anzuwenden.
 
-
-## § 24 – Verlust der Wählbarkeit und Änderung der Zuordnung unternehmensangehöriger Aufsichtsratsmitglieder
+# § 24 – Verlust der Wählbarkeit und Änderung der Zuordnung unternehmensangehöriger Aufsichtsratsmitglieder
 
 (1) Verliert ein Aufsichtsratsmitglied, das nach § 7 Abs. 2 Arbeitnehmer des Unternehmens sein muß, die Wählbarkeit, so erlischt sein Amt.
 
 (2) Die Änderung der Zuordnung eines Aufsichtsratsmitglieds zu den in § 3 Abs. 1 Nr. 1 oder § 3 Abs. 1 Nr. 2 genannten Arbeitnehmern führt nicht zum Erlöschen seines Amtes.
 
-
-## § 25 – Grundsatz
+# § 25 – Grundsatz
 
 (1) Die innere Ordnung, die Beschlußfassung sowie die Rechte und Pflichten des Aufsichtsrats bestimmen sich nach den §§ 27 bis 29, den §§ 31 und 32 und, soweit diese Vorschriften dem nicht entgegenstehen,
 
@@ -337,13 +309,11 @@ Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Veröffen
 
 (2) Andere gesetzliche Vorschriften und Bestimmungen der Satzung (des Gesellschaftsvertrags) oder der Geschäftsordnung des Aufsichtsrats über die innere Ordnung, die Beschlußfassung sowie die Rechte und Pflichten des Aufsichtsrats bleiben unberührt, soweit Absatz 1 dem nicht entgegensteht.
 
-
-## § 26 – Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
+# § 26 – Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
 
 Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit im Aufsichtsrat eines Unternehmens, dessen Arbeitnehmer sie sind oder als dessen Arbeitnehmer sie nach § 4 oder § 5 gelten, nicht benachteiligt werden. Dies gilt auch für ihre berufliche Entwicklung.
 
-
-## § 27 – Vorsitz im Aufsichtsrat
+# § 27 – Vorsitz im Aufsichtsrat
 
 (1) Der Aufsichtsrat wählt mit einer Mehrheit von zwei Dritteln der Mitglieder, aus denen er insgesamt zu bestehen hat, aus seiner Mitte einen Aufsichtsratsvorsitzenden und einen Stellvertreter.
 
@@ -351,25 +321,21 @@ Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigke
 
 (3) Unmittelbar nach der Wahl des Aufsichtsratsvorsitzenden und seines Stellvertreters bildet der Aufsichtsrat zur Wahrnehmung der in § 31 Abs. 3 Satz 1 bezeichneten Aufgabe einen Ausschuß, dem der Aufsichtsratsvorsitzende, sein Stellvertreter sowie je ein von den Aufsichtsratsmitgliedern der Arbeitnehmer und von den Aufsichtsratsmitgliedern der Anteilseigner mit der Mehrheit der abgegebenen Stimmen gewähltes Mitglied angehören.
 
-
-## § 28 – Beschlußfähigkeit
+# § 28 – Beschlußfähigkeit
 
 Der Aufsichtsrat ist nur beschlußfähig, wenn mindestens die Hälfte der Mitglieder, aus denen er insgesamt zu bestehen hat, an der Beschlußfassung teilnimmt. § 108 Abs. 2 Satz 4 des Aktiengesetzes ist anzuwenden.
 
-
-## § 29 – Abstimmungen
+# § 29 – Abstimmungen
 
 (1) Beschlüsse des Aufsichtsrats bedürfen der Mehrheit der abgegebenen Stimmen, soweit nicht in Absatz 2 und in den §§ 27, 31 und 32 etwas anderes bestimmt ist.
 
 (2) Ergibt eine Abstimmung im Aufsichtsrat Stimmengleichheit, so hat bei einer erneuten Abstimmung über denselben Gegenstand, wenn auch sie Stimmengleichheit ergibt, der Aufsichtsratsvorsitzende zwei Stimmen. § 108 Abs. 3 des Aktiengesetzes ist auch auf die Abgabe der zweiten Stimme anzuwenden. Dem Stellvertreter steht die zweite Stimme nicht zu.
 
-
-## § 30 – Grundsatz
+# § 30 – Grundsatz
 
 Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung des Unternehmens befugten Organs sowie die Bestellung seiner Mitglieder bestimmen sich nach den für die Rechtsform des Unternehmens geltenden Vorschriften, soweit sich aus den §§ 31 bis 33 nichts anderes ergibt.
 
-
-## § 31 – Bestellung und Widerruf
+# § 31 – Bestellung und Widerruf
 
 (1) Die Bestellung der Mitglieder des zur gesetzlichen Vertretung des Unternehmens befugten Organs und der Widerruf der Bestellung bestimmen sich nach den §§ 84 und 85 des Aktiengesetzes, soweit sich nicht aus den Absätzen 2 bis 5 etwas anderes ergibt. Dies gilt nicht für Kommanditgesellschaften auf Aktien.
 
@@ -381,15 +347,13 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 (5) Die Absätze 2 bis 4 sind für den Widerruf der Bestellung eines Mitglieds des zur gesetzlichen Vertretung des Unternehmens befugten Organs entsprechend anzuwenden.
 
-
-## § 32 – Ausübung von Beteiligungsrechten
+# § 32 – Ausübung von Beteiligungsrechten
 
 (1) Die einem Unternehmen, in dem die Arbeitnehmer nach diesem Gesetz ein Mitbestimmungsrecht haben, auf Grund von Beteiligungen an einem anderen Unternehmen, in dem die Arbeitnehmer nach diesem Gesetz ein Mitbestimmungsrecht haben, zustehenden Rechte bei der Bestellung, dem Widerruf der Bestellung oder der Entlastung von Verwaltungsträgern sowie bei der Beschlußfassung über die Auflösung oder Umwandlung des anderen Unternehmens, den Abschluß von Unternehmensverträgen (§§ 291, 292 des Aktiengesetzes) mit dem anderen Unternehmen, über dessen Fortsetzung nach seiner Auflösung oder über die Übertragung seines Vermögens können durch das zur gesetzlichen Vertretung des Unternehmens befugte Organ nur auf Grund von Beschlüssen des Aufsichtsrats ausgeübt werden. Diese Beschlüsse bedürfen nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Anteilseigner; sie sind für das zur gesetzlichen Vertretung des Unternehmens befugte Organ verbindlich.
 
 (2) Absatz 1 ist nicht anzuwenden, wenn die Beteiligung des Unternehmens an dem anderen Unternehmen weniger als ein Viertel beträgt.
 
-
-## § 33 – Arbeitsdirektor
+# § 33 – Arbeitsdirektor
 
 (1) Als gleichberechtigtes Mitglied des zur gesetzlichen Vertretung des Unternehmens befugten Organs wird ein Arbeitsdirektor bestellt. Dies gilt nicht für Kommanditgesellschaften auf Aktien.
 
@@ -397,8 +361,7 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 (3) Bei Genossenschaften ist auf den Arbeitsdirektor § 9 Abs. 2 des Genossenschaftsgesetzes nicht anzuwenden.
 
-
-## § 34
+# § 34
 
 (1) Die Gesamtheit der Schiffe eines Unternehmens gilt für die Anwendung dieses Gesetzes als ein Betrieb.
 
@@ -412,20 +375,17 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 (6) (weggefallen)
 
-
-## § 35
+# § 35
 
 \-
 
-
-## § 36 – Verweisungen
+# § 36 – Verweisungen
 
 (1) Soweit in anderen Vorschriften auf Vorschriften des Betriebsverfassungsgesetzes 1952 über die Vertretung der Arbeitnehmer in den Aufsichtsräten von Unternehmen verwiesen wird, gelten diese Verweisungen für die in § 1 Abs. 1 dieses Gesetzes bezeichneten Unternehmen als Verweisungen auf dieses Gesetz.
 
 (2) Soweit in anderen Vorschriften für das Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie vom 21. Mai 1951 (Bundesgesetzbl. I S. 347) die Bezeichnung "Mitbestimmungsgesetz" verwendet wird, tritt an ihre Stelle die Bezeichnung "Montan-Mitbestimmungsgesetz".
 
-
-## § 37 – Erstmalige Anwendung des Gesetzes auf ein Unternehmen
+# § 37 – Erstmalige Anwendung des Gesetzes auf ein Unternehmen
 
 (1) Andere als die in § 97 Abs. 2 Satz 2 des Aktiengesetzes bezeichneten Bestimmungen der Satzung (des Gesellschaftsvertrags), die mit den Vorschriften dieses Gesetzes nicht vereinbar sind, treten mit dem in § 97 Abs. 2 Satz 2 des Aktiengesetzes bezeichneten Zeitpunkt oder, im Fall einer gerichtlichen Entscheidung, mit dem in § 98 Abs. 4 Satz 2 des Aktiengesetzes bezeichneten Zeitpunkt außer Kraft. Eine Hauptversammlung (Gesellschafterversammlung, Generalversammlung), die bis zu diesem Zeitpunkt stattfindet, kann an Stelle der außer Kraft tretenden Satzungsbestimmungen mit einfacher Mehrheit neue Satzungsbestimmungen beschließen.
 
@@ -435,13 +395,11 @@ Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung de
 
 (4) Absatz 3 gilt nicht für persönlich haftende Gesellschafter einer Kommanditgesellschaft auf Aktien.
 
-
-## § 38
+# § 38
 
 (weggefallen)
 
-
-## § 39 – Ermächtigung zum Erlaß von Rechtsverordnungen
+# § 39 – Ermächtigung zum Erlaß von Rechtsverordnungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über das Verfahren für die Wahl und die Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere über
 
@@ -467,8 +425,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über 
 
 11. die Aufbewahrung der Wahlakten und der Abstimmungsakten.
 
-
-## § 40 – Übergangsregelung
+# § 40 – Übergangsregelung
 
 (1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis zum 31. Dezember 2015 abgeschlossen sind, ist das Mitbestimmungsgesetz vom 4. Mai 1976 (BGBl. I S. 1153) in der Fassung des Artikels 2 Absatz 113 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) anzuwenden.
 
@@ -476,7 +433,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über 
 
 (3) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als abgeschlossen, wenn die Bekanntmachung der Mitglieder des Aufsichtsrates nach § 19 Satz 1 durch das zur gesetzlichen Vertretung des Unternehmens befugte Organ erfolgt ist.
 
-
-## § 41 – Inkrafttreten
+# § 41 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.

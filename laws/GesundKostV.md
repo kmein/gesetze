@@ -1,20 +1,15 @@
-# [GesundKostV] Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinrichtungen des Bundes  (Gesundheitseinrichtungen-Kostenverordnung - GesundKostV)
-
-Ausfertigungsdatum: 29.04.1996
-
+% Verordnung über Kosten für bestimmte Amtshandlungen von Gesundheitseinrichtungen des Bundes  (Gesundheitseinrichtungen-Kostenverordnung - GesundKostV)
+% Ausfertigungsdatum: 29.04.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 2 des BGA-Nachfolgegesetzes vom 24. Juni 1994 (BGBl. I S. 1416) und des § 10d Abs. 2 des Bundes-Seuchengesetzes, der durch das Gesetz vom 23. April 1996 (BGBl. I S. 621) eingefügt worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1
+# § 1
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte, das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit und das Robert Koch-Institut erheben für die in dieser Verordnung genannten individuell zurechenbaren öffentlichen Leistungen Gebühren und Auslagen nach dieser Verordnung.
 
-
-## § 2
+# § 2
 
 (1) Die Gebühren für die Prüfung von Mitteln und Verfahren zur Bekämpfung von Nichtwirbeltieren (Entwesung) und von Ratten und Mäusen nach § 18 Abs. 2 Nr. 2 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGB. I S. 1045) betragen
 
@@ -87,8 +82,7 @@ an Gebühren zu erheben.
 
 3. für die Erteilung von Auslands-Zertifikaten für nach § 18 Abs. 1 Satz 1 des Infektionsschutzgesetzes gelistete Wirkstoffe, Mittel, Verfahren oder Geräte 320 DM.
 
-
-## § 3
+# § 3
 
 (1) Die Gebühren für die Prüfung von Mitteln und Verfahren zur Desinfektion (Entseuchung) nach § 18 Abs. 2 Nr. 1 des Infektionsschutzgesetzes betragen zur Bestimmung  
 
@@ -120,20 +114,17 @@ erfordert die Prüfung keine experimentellen Untersuchungen, so ermäßigt sich 
 
 (2) Für die Aufnahme eines in Absatz 1 genannten Mittels oder Verfahrens in die Liste nach § 18 Abs. 1 Satz 1 des Infektionsschutzgesetzes beträgt die Gebühr 100 DM.
 
-
-## § 4
+# § 4
 
 Die Gebühr für die Erteilung einer Genehmigung und Vergabe einer Genehmigungsnummer für Kondome und Gleitmittel zur Anwendung mit Kondomen nach der Bekanntmachung des Bundesministeriums für Gesundheit vom 24. Mai 1994 (BAnz. S. 5961) beträgt 200 DM.
 
-
-## § 5
+# § 5
 
 (1) Für die Prüfung der Diäteignung diätetischer Lebensmittel nach § 4a der Diätverordnung beträgt die Gebühr 3.000 DM.
 
 (2) Bei der Prüfung eines diätetischen Lebensmittels, das bereits in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in den Verkehr gebracht worden ist (§ 4a Abs. 2 der Diätverordnung), kann die Gebühr nach Absatz 1 bis auf 150 DM ermäßigt werden.
 
-
-## § 5a
+# § 5a
 
 (1) Für Stellungnahmen nach Artikel 3 Abs. 4 der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates vom 27. Januar 1997 über neuartige Lebensmittel und neuartige Lebensmittelzutaten (ABl. EG Nr. L 43 S. 1) beträgt die Gebühr 5.000 bis 10.000 DM.
 
@@ -143,20 +134,17 @@ Die Gebühr für die Erteilung einer Genehmigung und Vergabe einer Genehmigungsn
 
 2. im Falle des Artikels 4 Abs. 2 Satz 2 zweiter Spiegelstrich der Verordnung (EG) Nr. 258/97 5.000 bis 10.000 DM.
 
-
-## § 6
+# § 6
 
 (1) Für die Bearbeitung von Änderungsanzeigen sowie bei nachträglicher Erteilung von Auflagen wird eine Gebühr bis zur Hälfte der für die jeweilige individuell zurechenbare öffentliche Leistung vorgesehenen Gebühr erhoben.
 
 (2) Bei Änderungsanzeigen, die keinen inhaltlichen Prüfungsaufwand erfordern, zum Beispiel Änderung des Firmennamens oder der Anschrift oder der Produktbezeichnung, beträgt die Gebühr 100 DM.
 
-
-## § 7
+# § 7
 
 Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die Ablehnung eines Antrages auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie in den Fällen der Zurücknahme eines Antrages auf Vornahme einer individuell zurechenbaren öffentlichen Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
-
-## § 8
+# § 8
 
 (1) Erfordert eine der in den §§ 2 bis 5 aufgeführten individuell zurechenbaren öffentlichen Leistungen im Einzelfall einen außergewöhnlich hohen Aufwand, so kann die Gebühr bis auf das Doppelte der danach zu erhebenden Gebühr erhöht werden. Der Gebührenschuldner ist zu hören, wenn mit der Erhöhung der Gebühr zu rechnen ist.
 
@@ -164,8 +152,7 @@ Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die Ablehnung eine
 
 (3) Die nach § 5 Abs. 1 zu erhebende Gebühr kann auf Antrag des Gebührenschuldners bis auf die Hälfte ermäßigt werden, wenn der mit der individuell zurechenbaren öffentlichen Leistung verbundene Personal- und Sachaufwand einerseits und die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der individuell zurechenbaren öffentlichen Leistung für den Gebührenschuldner andererseits dies rechtfertigen.
 
-
-## § 9
+# § 9
 
 Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben:  
 
@@ -175,8 +162,7 @@ Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag
 | 2\. | nicht einfache schriftliche Auskünfte |   100 bis 200 DM, |
 | 3\. | Bescheinigungen und Beglaubigungen    |    25 bis 300 DM. |
 
-
-## § 10
+# § 10
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

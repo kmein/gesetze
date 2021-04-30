@@ -1,15 +1,11 @@
-# [CsgG] Gesetz zur Bevorrechtigung des Carsharing   (Carsharinggesetz - CsgG)
-
-Ausfertigungsdatum: 05.07.2017
-
+% Gesetz zur Bevorrechtigung des Carsharing   (Carsharinggesetz - CsgG)
+% Ausfertigungsdatum: 05.07.2017
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Mit diesem Gesetz werden Maßnahmen zur Bevorrechtigung des Carsharing ermöglicht, um die Verwendung von Carsharingfahrzeugen im Rahmen stationsunabhängiger oder stationsbasierter Angebotsmodelle zur Verringerung insbesondere klima- und umweltschädlicher Auswirkungen des motorisierten Individualverkehrs zu fördern.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -21,8 +17,7 @@ Im Sinne dieses Gesetzes ist
 
 4. stationsbasiertes Carsharing ein Angebotsmodell, das auf vorab reservierbaren Fahrzeugen und örtlich festgelegten Abhol- oder Rückgabestellen beruht.
 
-
-## § 3 – Bevorrechtigungen
+# § 3 – Bevorrechtigungen
 
 (1) Wer ein Fahrzeug im Sinne des § 2 Nummer 1 führt, kann nach Maßgabe der folgenden Vorschriften Bevorrechtigungen bei der Teilnahme am Straßenverkehr erhalten, soweit dadurch die Sicherheit und Leichtigkeit des Verkehrs nicht beeinträchtigt werden.
 
@@ -46,8 +41,7 @@ Rechtsverordnungen mit Regelungen im Sinne des Satzes 1 erlässt das Bundesminis
 
 (4) In Rechtsverordnungen nach § 6a Absatz 6 Satz 2, auch in Verbindung mit Satz 4, des Straßenverkehrsgesetzes können als Bevorrechtigungen Ermäßigungen oder Befreiungen von der Gebührenpflicht vorgesehen werden.
 
-
-## § 4 – Kennzeichnung
+# § 4 – Kennzeichnung
 
 (1) Bevorrechtigungen nach § 3 dürfen nur für Fahrzeuge gewährt werden, die mit einer deutlich sichtbaren Kennzeichnung als Carsharingfahrzeug versehen sind.
 
@@ -63,8 +57,7 @@ näher bestimmen. Das Verfahren kann auch über eine einheitliche Stelle nach §
 
 (3) Für individuell zurechenbare öffentliche Leistungen nach Absatz 1 in Verbindung mit Rechtsverordnungen nach Absatz 2 werden Gebühren und Auslagen erhoben. § 6a Absatz 2 bis 5 und 8 des Straßenverkehrsgesetzes gilt entsprechend.
 
-
-## § 5 – Sondernutzung öffentlichen Straßenraums
+# § 5 – Sondernutzung öffentlichen Straßenraums
 
 (1) Unbeschadet der sonstigen straßenrechtlichen Bestimmungen zur Sondernutzung an Bundesfernstraßen kann die nach Landesrecht zuständige Behörde zum Zwecke der Nutzung als Stellflächen für stationsbasierte Carsharingfahrzeuge dazu geeignete Flächen einer Ortsdurchfahrt im Zuge einer Bundesstraße bestimmen. Ist die nach Landesrecht zuständige Behörde nicht der Straßenbaulastträger, darf sie die Flächen nur mit Zustimmung der Straßenbaubehörde bestimmen. Die Flächen sind so zu bestimmen, dass die Funktion der Bundesstraße und die Belange des öffentlichen Personennahverkehrs nicht beeinträchtigt werden sowie die Anforderungen an die Sicherheit und Leichtigkeit des Verkehrs gewahrt sind.
 
@@ -90,20 +83,17 @@ am besten beizutragen. Bis zum erstmaligen Inkrafttreten einer Rechtsverordnung 
 
 (9) § 8 Absatz 1 Satz 1 und 6 und Absatz 2, 2a, 3, 7a und 8 des Bundesfernstraßengesetzes gilt entsprechend.
 
-
-## § 6 – Berichterstattung
+# § 6 – Berichterstattung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit evaluieren gemeinsam bis zum 1. Juli 2021 dieses Gesetz.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. September 2017 in Kraft.
 
 (2) Soweit dieses Gesetz zum Erlass von Rechtsverordnungen befugt, tritt es am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 5 Absatz 4 Satz 3)Eignungskriterien
+# Anlage – (zu § 5 Absatz 4 Satz 3)Eignungskriterien
 
 (Fundstelle: BGBl. I 2017, 2233)
 

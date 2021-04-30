@@ -1,15 +1,11 @@
-# [VerdStatG] Gesetz über die Statistik der Verdienste und Arbeitskosten  (Verdienststatistikgesetz - VerdStatG)
-
-Ausfertigungsdatum: 21.12.2006
-
+% Gesetz über die Statistik der Verdienste und Arbeitskosten  (Verdienststatistikgesetz - VerdStatG)
+% Ausfertigungsdatum: 21.12.2006
  
-
-## § 1 – Zwecke der Verdienststatistik
+# § 1 – Zwecke der Verdienststatistik
 
 Für Zwecke wirtschafts- und sozialpolitischer Planungsentscheidungen, insbesondere zur regelmäßigen Evaluierung des gesetzlichen Mindestlohns, sowie zur Erfüllung von Berichtspflichten nach dem Recht der Europäischen Union wird eine Bundesstatistik der Arbeitsverdienste und der Struktur der Arbeitskosten durchgeführt.
 
-
-## § 2 – Art der Erhebungen, Stichprobenauswahl, Erhebungseinheiten
+# § 2 – Art der Erhebungen, Stichprobenauswahl, Erhebungseinheiten
 
 (1) Die Statistik umfasst
 
@@ -25,11 +21,9 @@ Die Erhebungen werden als Stichprobenerhebungen durchgeführt. Die Auswahl der E
 
 2. räumlich getrennte Teile der unter Nummer 1 fallenden juristischen Personen, insbesondere die Haupt- und Zweigniederlassungen sowie die Betriebe von Unternehmen (Teileinheiten).
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Erhebung der Arbeitsverdienste
+# § 4 – Erhebung der Arbeitsverdienste
 
 (1) Die Erhebung der Arbeitsverdienste wird im Kalenderjahr 2021 einmal für den Berichtsmonat April und ab dem Kalenderjahr 2022 monatlich durchgeführt.
 
@@ -69,8 +63,7 @@ i) Bruttomonatsverdienst, untergliedert nach Verdienstbestandteilen.
 
 (5) Alle fünf Jahre, beginnend mit dem Kalenderjahr 2025, werden die Bezeichnungen der angewandten Vergütungsvereinbarungen aller Beschäftigten der jeweiligen Erhebungseinheit nach dem Stand am Ende eines repräsentativen Kalendermonats erfasst. Die Erhebung erfolgt bei höchstens 20 000 der Erhebungseinheiten, bei denen im jeweiligen Kalenderjahr die Haupterhebung durchgeführt wird.
 
-
-## § 5 – Erhebung der Struktur der Arbeitskosten
+# § 5 – Erhebung der Struktur der Arbeitskosten
 
 (1) Die Erhebung erfasst alle vier Jahre, beginnend für das Berichtsjahr 2008, bei höchstens 34 000 Erhebungseinheiten nach § 2 Absatz 2 Nummer 1 sowie bei allen zugehörigen Teileinheiten Angaben zu folgenden Erhebungsmerkmalen:
 
@@ -96,8 +89,7 @@ i) Bruttomonatsverdienst, untergliedert nach Verdienstbestandteilen.
 
 (3) Die Erhebung erstreckt sich auf die Wirtschaftszweige nach § 4 Absatz 2. Zusätzlich ausgenommen sind die Wirtschaftszweige nach Abschnitt A – Land- und Forstwirtschaft, Fischerei.
 
-
-## § 6 – Verdienstverlaufsstatistik
+# § 6 – Verdienstverlaufsstatistik
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder führen eine Verdienstverlaufsstatistik für alle Beschäftigten der Erhebungseinheiten, bei denen die Arbeitsverdienste nach § 4 erhoben werden.
 
@@ -109,8 +101,7 @@ i) Bruttomonatsverdienst, untergliedert nach Verdienstbestandteilen.
 
 (5) Die Pseudonyme werden drei Jahre nach der letzten Erhebung zu der oder dem Beschäftigten gelöscht. Die in Absatz 4 dargestellten Zusammenführungen werden 15 Jahre nach der letzten Erhebung gelöscht.
 
-
-## § 7 – Hilfsmerkmale
+# § 7 – Hilfsmerkmale
 
 Hilfsmerkmale der Erhebung sind:
 
@@ -120,8 +111,7 @@ Hilfsmerkmale der Erhebung sind:
 
 3. Personalnummern der in die Erhebung nach § 4 einbezogenen Beschäftigten oder, wenn keine Personalnummern vorliegen, eindeutige, im Zeitverlauf gleichbleibende Ordnungsnummern der Beschäftigten.
 
-
-## § 8 – Auskunftspflicht
+# § 8 – Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 7 Nr. 2 sind freiwillig. Auskunftspflichtig sind die Inhaber der in die Erhebungen einbezogenen Erhebungseinheiten sowie die mit deren Leitung Beauftragten im Rahmen der ihnen übertragenen Aufgaben und Befugnisse.
 
@@ -129,13 +119,11 @@ Hilfsmerkmale der Erhebung sind:
 
 (3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
-
-## § 9 – Übermittlung von Einzelangaben
+# § 9 – Übermittlung von Einzelangaben
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen an die obersten Bundes- und Landesbehörden für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-
-## § 10 – Verordnungsermächtigung
+# § 10 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -143,7 +131,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 2. einzelne neue Erhebungsmerkmale zu den in § 2 genannten Erhebungen einzuführen, wenn dies zum Zweck dieses Gesetzes erforderlich ist und es sich nicht um personenbezogene Daten handelt; werden Erhebungsmerkmale eingeführt, die nicht zur Erfüllung von Berichtspflichten nach dem Recht der Europäischen Union erforderlich sind, so ist durch die gleichzeitige Aussetzung der Erhebung anderer Erhebungsmerkmale eine Erweiterung des Erhebungsumfangs zu vermeiden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Die Erhebung der Arbeitsverdienste wird für die vier Berichtsquartale des Jahres 2021 auf der Grundlage des § 3 in der bis zum 31. Dezember 2020 geltenden Fassung, die Erhebung der Zahl der geleisteten Arbeitsstunden für das Berichtsjahr 2020 auf der Grundlage des § 5 Absatz 1 Nummer 4 in der bis zum 31. Dezember 2020 geltenden Fassung durchgeführt.

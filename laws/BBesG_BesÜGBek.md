@@ -1,10 +1,7 @@
-# [BBesG/BesÜGBek] Bekanntmachung nach § 77 Absatz 1 und 2 sowie nach § 78 Absatz 1 des Bundesbesoldungsgesetzes und nach § 6 Absatz 2 des Besoldungsüberleitungsgesetzes
-
-Ausfertigungsdatum: 01.07.2009
-
+% Bekanntmachung nach § 77 Absatz 1 und 2 sowie nach § 78 Absatz 1 des Bundesbesoldungsgesetzes und nach § 6 Absatz 2 des Besoldungsüberleitungsgesetzes
+% Ausfertigungsdatum: 01.07.2009
  
-
-## ----
+# ----
 
 Auf Grund der § 77 Absatz 4 sowie § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) und auf Grund des § 6 Absatz 2 des Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
@@ -14,16 +11,13 @@ Auf Grund der § 77 Absatz 4 sowie § 78 Absatz 2 des Bundesbesoldungsgesetzes i
 
 3. als Anlage 3 die sich zum 1. Juli 2009 ergebenden Beträge des Grundgehaltes nach der Anlage 1 des Besoldungsüberleitungsgesetzes für Beamtinnen und Beamte bei den Postnachfolgeunternehmen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern
 
+# Anlage 1 – Besoldungsordnung C
 
-## Anlage 1 – Besoldungsordnung C
-
-
-## Anlage 2
+# Anlage 2
 
   
 (Anlage IV des BBesG)  
@@ -44,8 +38,7 @@ Erhöhungsbeträge für Besoldungsgruppen A 2 bis A 5
   
 in den Besoldungsgruppen A 2 bis A 3 um je 25,56 Euro,  
 in der Besoldungsgruppe A 4 um je 20,45 Euro und  
-in der Besoldungsgruppe A 5 um je 15,34 Euro.  
-  
+in der Besoldungsgruppe A 5 um je 15,34 Euro.   
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
@@ -53,8 +46,7 @@ Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 (Anlage IX des BBesG)  
 Gültig ab 1. Juli 2009 für Postnachfolgeunternehmen
 
-
-## Anlage 3
+# Anlage 3
 
   
 Gültig ab 1. Juli 2009 für Postnachfolgeunternehmen

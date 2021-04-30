@@ -1,15 +1,11 @@
-# [VFZV] Verordnung über die Zuweisungen an das Sondervermögen "Versorgungsfonds des Bundes"  (Versorgungsfondszuweisungsverordnung - VFZV)
-
-Ausfertigungsdatum: 11.04.2007
-
+% Verordnung über die Zuweisungen an das Sondervermögen "Versorgungsfonds des Bundes"  (Versorgungsfondszuweisungsverordnung - VFZV)
+% Ausfertigungsdatum: 11.04.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16 Abs. 1 Satz 4 des Versorgungsrücklagegesetzes vom 9. Juli 1998 (BGBl. I S. 1800), der durch Artikel 1 Nr. 11 des Gesetzes vom 21. Dezember 2006 (BGBl. I S. 3288) eingefügt worden ist, verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Höhe der Zuweisungssätze
+# § 1 – Höhe der Zuweisungssätze
 
 (1) Die für die Höhe der regelmäßigen Zuweisungen an das Sondervermögen „Versorgungsfonds des Bundes“ maßgebenden Prozentsätze der jeweiligen ruhegehaltfähigen Dienstbezüge (Zuweisungssätze) betragen:
 
@@ -27,17 +23,14 @@ Auf Grund des § 16 Abs. 1 Satz 4 des Versorgungsrücklagegesetzes vom 9. Juli 1
 
 (3) Die Zuweisungssätze nach Absatz 1 erhöhen sich im Falle der Begründung des Dienst- oder Beschäftigungsverhältnisses nach Vollendung des 45. Lebensjahres um 50 Prozent und nach Vollendung des 50. Lebensjahres um 100 Prozent. Dies gilt nicht in Fällen des § 16 Absatz 3 des Versorgungsrücklagegesetzes in der Fassung der Bekanntmachung vom 27. März 2007 (BGBl. I S. 482), das durch Artikel 4 des Gesetzes vom 22. Dezember 2007 (BGBl. I S. 3245) geändert worden ist.
 
-
-## § 2 – Zahlverfahren
+# § 2 – Zahlverfahren
 
 Die die Bezügezahlungen anordnenden Dienststellen leisten die Zuweisungen für das Kalenderjahr in halbjährlichen Teilbeträgen, die jeweils für das erste Halbjahr bis zum 30. September des Jahres und für das zweite Halbjahr bis zum 31. März des nächsten Jahres auf dem vom Bundesministerium des Innern, für Bau und Heimat benannten Sonderkonto eingehen müssen.
 
-
-## § 3 – Überprüfung der Höhe der Zuweisungssätze
+# § 3 – Überprüfung der Höhe der Zuweisungssätze
 
 Die Höhe der Zuweisungssätze wird vom Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen unter Berücksichtigung versicherungsmathematischer Berechnungen der Deckungsgrade des Versorgungsfonds und der jeweiligen Änderungen des Besoldungs- und Versorgungsrechts überprüft und bei Bedarf angepasst.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2007 in Kraft.

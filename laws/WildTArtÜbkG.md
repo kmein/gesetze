@@ -1,20 +1,15 @@
-# [WildTArtÜbkG] Gesetz zu dem Übereinkommen vom 23. Juni 1979 zur Erhaltung der wandernden wildlebenden Tierarten
-
-Ausfertigungsdatum: 29.06.1984
-
+% Gesetz zu dem Übereinkommen vom 23. Juni 1979 zur Erhaltung der wandernden wildlebenden Tierarten
+% Ausfertigungsdatum: 29.06.1984
  
-
-## Art 1
+# Art 1
 
 Dem in Bonn am 23. Juni 1979 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zur Erhaltung der wandernden wildlebenden Tierarten wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, Änderungen der Anhänge I und II des Übereinkommens nach Maßgabe von dessen Artikel XI, die sich im Rahmen der Ziele des Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
-
-## Art 3
+# Art 3
 
 (1) Es ist verboten, Tiere der im Anhang I des Übereinkommens aufgeführten Arten von einem Schiff aus, das berechtigt ist, die Bundesflagge zu führen, außerhalb der nationalen Hoheitsgrenzen der Natur zu entnehmen.
 
@@ -32,8 +27,7 @@ Die Ausnahmen sind räumlich und zeitlich zu beschränken und dürfen die Erhalt
 
 (3) Im Sinne dieses Gesetzes bedeutet "der Natur entnehmen": entnehmen, jagen, fischen, fangen, beunruhigen, töten oder jeder derartige Versuch.
 
-
-## Art 4
+# Art 4
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Abs. 1 von einem Schiff aus, das berechtigt ist, die Bundesflagge zu führen, Tiere der im Anhang I des Übereinkommens aufgeführten Arten der Natur entnimmt.
 
@@ -43,8 +37,7 @@ Die Ausnahmen sind räumlich und zeitlich zu beschränken und dürfen die Erhalt
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

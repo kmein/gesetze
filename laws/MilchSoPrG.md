@@ -1,10 +1,7 @@
-# [MilchSoPrG] Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter  (Milch-Sonderprogrammgesetz - MilchSoPrG)
-
-Ausfertigungsdatum: 14.04.2010
-
+% Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter  (Milch-Sonderprogrammgesetz - MilchSoPrG)
+% Ausfertigungsdatum: 14.04.2010
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung eines Sonderprogramms für Milchviehhalter mit
 
@@ -20,8 +17,7 @@ b) einem Ergänzungsbetrag,
 
 nach Maßgabe der folgenden Vorschriften.
 
-
-## § 2 – Durchführung von Unionsrecht
+# § 2 – Durchführung von Unionsrecht
 
 (1) Dieses Gesetz dient
 
@@ -35,8 +31,7 @@ nach Maßgabe der folgenden Vorschriften.
 
 2. Rechtsverordnungen auf Grund der in Nummer 1 bezeichneten Vorschriften stets der Zustimmung des Bundesrates bedürfen.
 
-
-## § 3 – Milcherzeuger
+# § 3 – Milcherzeuger
 
 (1) Milcherzeuger im Sinne dieses Gesetzes ist, wer
 
@@ -54,8 +49,7 @@ vorlegt.
 
 (2) Milcherzeuger ist auch, wer auf Grund höherer Gewalt oder sonstiger außergewöhnlicher Umstände in dem in Absatz 1 Nummer 2 genannten Zeitraum keine Milch erzeugt und vermarktet, sofern er durch Vorlage der Kopie einer Milchgeldabrechnung oder im Falle des Absatzes 1 Nummer 3 Buchstabe b durch geeignete Unterlagen über Direktverkäufe nachweist, dass er in dem Monat vor Eintritt der höheren Gewalt oder der sonstigen außergewöhnlichen Umstände Milch erzeugt und vermarktet hat.
 
-
-## § 4 – Weitere Begriffsbestimmungen
+# § 4 – Weitere Begriffsbestimmungen
 
 (1) Grünland im Sinne dieses Gesetzes ist
 
@@ -75,8 +69,7 @@ b) Grünland im Sinne des Artikels 2 Buchstabe d der Verordnung (EG) Nr. 1120/20
 
 (3) Durchschnittlicher Kuhbestand ist die Zahl der Kühe, die im April des jeweiligen Jahres ausweislich der Angaben, die auf Grund von Rechtsvorschriften zur Kennzeichnung und Registrierung von Rindern oder auf Grund tierseuchenrechtlicher Vorschriften über die Anzeige und Registrierung von Betrieben erteilt worden sind, im Betrieb des Betriebsinhabers im arithmetischen Durchschnitt vorhanden sind. Nicht berücksichtigt werden Kühe, für die am 31. Mai des jeweiligen Jahres nicht alle Angaben vorliegen, die nach den in Satz 1 bezeichneten Vorschriften hätten erteilt werden müssen. Ist der Kuhbestand in dem in Satz 1 genannten Zeitraum auf Grund höherer Gewalt oder sonstiger außergewöhnlicher Umstände beeinträchtigt, tritt auf Antrag an die Stelle dieses Zeitraums der Monat vor dem Eintritt der höheren Gewalt oder der sonstigen außergewöhnlichen Umstände.
 
-
-## § 5 – Grünlandprämie
+# § 5 – Grünlandprämie
 
 (1) Ein Milcherzeuger erhält auf Antrag für die Jahre 2010 und 2011 jeweils den Grundbetrag der Grünlandprämie für die nach Maßgabe des Absatzes 2 berücksichtigungsfähigen Hektar Grünlandflächen seines Betriebs im Sinne des Artikels 2 Buchstabe b der Verordnung (EG) Nr. 73/2009, die ihm an dem sich aus § 7 Absatz 1 der InVeKoS-Verordnung ergebenden letzten Tag für die Einreichung des Sammelantrags jeweils zur Verfügung stehen.
 
@@ -94,8 +87,7 @@ b) Grünland im Sinne des Artikels 2 Buchstabe d der Verordnung (EG) Nr. 1120/20
 
 durch die Summe der Flächen geteilt wird, für die die Grünlandprämie beantragt worden ist und die berücksichtigungsfähig sind. Die zuständigen Behörden teilen diese Summe dem Bundesministerium bis zum 15. September des Antragsjahres mit, um die Festsetzung des Betrags der Grünlandprämie je Hektar zu ermöglichen.
 
-
-## § 6 – Zusätzliche Grünlandprämie
+# § 6 – Zusätzliche Grünlandprämie
 
 (1) Jedem Betriebsinhaber im Sinne des Artikels 2 Buchstabe a der Verordnung (EG) Nr. 73/2009, der
 
@@ -125,8 +117,7 @@ c) durch eine Aufteilung im Sinne des Artikels 2 Buchstabe i der Verordnung (EG)
 
 (4) Der Betrag der zusätzlichen Grünlandprämie je Hektar ergibt sich, indem der mit dem Faktor 0,97 multiplizierte Betrag, der Deutschland nach den in § 2 Absatz 1 Nummer 2 genannten Rechtsakten für die zusätzliche Grünlandprämie zur Verfügung steht, durch die Summe der Flächen geteilt wird, für die die zusätzliche Grünlandprämie zu gewähren ist. Die zuständigen Behörden teilen diese Summe dem Bundesministerium bis zum 30. April 2010 mit, um die Festsetzung des Betrags der zusätzlichen Grünlandprämie je Hektar zu ermöglichen. Das Bundesministerium macht den Betrag der zusätzlichen Grünlandprämie je Hektar im Bundesanzeiger bekannt.
 
-
-## § 7 – Kuhprämie
+# § 7 – Kuhprämie
 
 (1) Ein Milcherzeuger erhält auf Antrag für die Jahre 2010 und 2011 jeweils nach Maßgabe des Absatzes 2 eine Kuhprämie bis zur Höhe der Zahl von Kühen, die seinem durchschnittlichen Kuhbestand entspricht. Die Kuhprämie beträgt 21 Euro je Kuh.
 
@@ -136,13 +127,11 @@ c) durch eine Aufteilung im Sinne des Artikels 2 Buchstabe i der Verordnung (EG)
 
 (4) Die Kuhprämie kann, solange der Sachverhalt nicht abschließend geprüft ist, unter dem Vorbehalt der Nachprüfung gewährt werden, ohne dass dies einer Begründung bedarf. Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten des Verfahrens unter Berücksichtigung der Vorschriften der Abgabenordnung über die Steuerfestsetzung unter Vorbehalt der Nachprüfung für Steuern im Sinne des § 169 Absatz 2 Satz 1 Nummer 2 der Abgabenordnung zu regeln.
 
-
-## § 8 – Aufbringen der Mittel
+# § 8 – Aufbringen der Mittel
 
 Der Bund trägt die Geldleistungen für die in § 1 Nummer 1 Buchstabe b und Nummer 3 genannten Prämien.
 
-
-## § 9 – Weitere Verordnungsermächtigungen
+# § 9 – Weitere Verordnungsermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, um den Ergänzungsbetrag der Grünlandprämie und die Kuhprämie sachgerecht durchzuführen, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -152,13 +141,11 @@ Der Bund trägt die Geldleistungen für die in § 1 Nummer 1 Buchstabe b und Num
 
 (2) In Rechtsverordnungen nach Absatz 1 können Meldepflichten, Aufzeichnungspflichten, Pflichten zur Aufbewahrung von geschäftlichen Unterlagen, Pflichten zu Auskünften, zur Duldung von Besichtigungen der Geschäftsräume und Betriebsstätten sowie Unterstützungspflichten vorgeschrieben werden.
 
-
-## § 10 – Weitere Bestimmungen zum Verwaltungsverfahren
+# § 10 – Weitere Bestimmungen zum Verwaltungsverfahren
 
 Soweit nicht nach § 2 Absatz 2 das Marktorganisationsgesetz anzuwenden ist, gelten die §§ 10, 11, 14 und 33 Absatz 1 und 2 des Marktorganisationsgesetzes entsprechend.
 
-
-## § 11 – Bußgeldvorschriften
+# § 11 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -168,10 +155,8 @@ Soweit nicht nach § 2 Absatz 2 das Marktorganisationsgesetz anzuwenden ist, gel
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 12 – Verkündung von Rechtsverordnungen
+# § 12 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## Anlage – (zu § 4 Absatz 2)
+# Anlage – (zu § 4 Absatz 2)

@@ -1,15 +1,11 @@
-# [BAB-KAbgV] Verordnung über Höhe und Erhebung der Konzessionsabgabe für das Betreiben eines Nebenbetriebs an der Bundesautobahn  (BAB-Konzessionsabgabenverordnung - BAB-KAbgV)
-
-Ausfertigungsdatum: 24.06.1997
-
+% Verordnung über Höhe und Erhebung der Konzessionsabgabe für das Betreiben eines Nebenbetriebs an der Bundesautobahn  (BAB-Konzessionsabgabenverordnung - BAB-KAbgV)
+% Ausfertigungsdatum: 24.06.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 3 Satz 2 des Bundesfernstraßengesetzes in der Fassung der Bekanntmachung vom 19. April 1994 (BGBl. I S. 854), geändert durch das Vierte Gesetz zur Änderung des Bundesfernstraßengesetzes vom 18. Juni 1997 (BGBl. I S. 1452), verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Höhe der Konzessionsabgabe
+# § 1 – Höhe der Konzessionsabgabe
 
 (1) Die Höhe der nach § 15 Abs. 3 Satz 1 des Bundesfernstraßengesetzes zu entrichtenden Konzessionsabgabe richtet sich nach der Menge des in dem Nebenbetrieb abgegebenen Kraftstoffs und dem Umsatz für andere Geschäfte in dem Nebenbetrieb, unabhängig davon, ob der Konzessionsinhaber den Nebenbetrieb selbst betreibt oder das Recht auf Ausübung der Konzession auf einen Dritten überträgt.
 
@@ -19,8 +15,7 @@ Auf Grund des § 15 Abs. 3 Satz 2 des Bundesfernstraßengesetzes in der Fassung 
 
 (4) Bei einer Tankstelle/Raststätte, die durch Aufstufung einer Bundesstraße zu einer Bundesautobahn Nebenbetrieb im Sinne des § 15 Abs. 1 des Bundesfernstraßengesetzes geworden ist, ermäßigt sich die Konzessionsabgabe um 25 vom Hundert, solange dem Bund als Baulastträger für die Bundesfernstraßen keine Kosten für das Errichten und Unterhalten einer Verkehrsanlage an diesem Nebenbetrieb entstehen.
 
-
-## § 2 – Fälligkeit der Konzessionsabgabe
+# § 2 – Fälligkeit der Konzessionsabgabe
 
 (1) Der Konzessionsinhaber hat dem Bundesamt für Güterverkehr spätestens 30 Tage nach Ablauf eines Kalendervierteljahres die im vorangegangenen Kalendervierteljahr abgegebenen Kraftstoffmengen (§ 1 Abs. 2) und die anderen Umsätze (§ 1 Abs. 3) mitzuteilen und die daraus berechnete Konzessionsabgabe zu entrichten.
 
@@ -28,28 +23,23 @@ Auf Grund des § 15 Abs. 3 Satz 2 des Bundesfernstraßengesetzes in der Fassung 
 
 (3) Für die Mitteilung der abgegebenen Kraftstoffmengen und der anderen Umsätze an das Bundesamt für Güterverkehr ist das als Anlage beigefügte Formblatt zu verwenden.
 
-
-## § 3 – Vorlage der Geschäftsunterlagen
+# § 3 – Vorlage der Geschäftsunterlagen
 
 Der Konzessionsinhaber hat dem Bundesamt für Güterverkehr auf Verlangen seine Bücher und Aufzeichnungen vorzulegen und Auskünfte zu erteilen, die für die Feststellung der Höhe der Konzessionsabgabe erforderlich sind. Überläßt der Konzessionsinhaber das Recht auf Ausübung der Konzession einem Dritten, so obliegen auch dem Dritten die Pflichten aus Satz 1.
 
-
-## § 4 – Sicherheitsleistung
+# § 4 – Sicherheitsleistung
 
 Zur Sicherung der Ansprüche auf Zahlung der Konzessionsabgabe kann das Bundesamt für Güterverkehr vom Konzessionsinhaber Sicherheit im Form einer unbefristeten selbstschuldnerischen Bankbürgschaft verlangen. Anstelle der Bürgschaft kann auch eine gleichwertige Sicherheit anderer Art geleistet werden.
 
-
-## § 5 – Anwendung der Abgabenordnung
+# § 5 – Anwendung der Abgabenordnung
 
 Auf die Konzessionsabgabe sind ergänzend die Vorschriften der Abgabenordnung über die Führung von Büchern und Aufzeichnungen (§§ 140 bis 148), über Steuererklärungen (§§ 149 bis 153), über die Steuerfestsetzung (§§ 155 bis 168), über die Festsetzungsverjährung (§ 169 Abs. 1, 2 Satz 1 Nr. 2, Satz 2 und 3, §§ 170 und 171), über die Bestandskraft (§§ 172 bis 177), über das Erhebungsverfahren (§§ 218 bis 222, 224, 234, 240 bis 248), über die Vollstreckung (§§ 249 bis 346) und des Umsatzsteuergesetzes über Aufzeichnungspflichten (§ 22) sinngemäß anzuwenden.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendervierteljahres in Kraft.
 
-
-## Anlage – (zu § 2 Abs. 3)Konzessionsabgabe
+# Anlage – (zu § 2 Abs. 3)Konzessionsabgabe
 
 (Fundstelle: BGBl. I 2001, 3764)
 

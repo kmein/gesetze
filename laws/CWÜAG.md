@@ -1,15 +1,11 @@
-# [CWÜAG] Ausführungsgesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot der Entwicklung, Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die Vernichtung solcher Waffen  (Ausführungsgesetz zum Chemiewaffenübereinkommen - CWÜAG)
-
-Ausfertigungsdatum: 02.08.1994
-
+% Ausführungsgesetz zu dem Übereinkommen vom 13. Januar 1993 über das Verbot der Entwicklung, Herstellung, Lagerung und des Einsatzes chemischer Waffen und über die Vernichtung solcher Waffen  (Ausführungsgesetz zum Chemiewaffenübereinkommen - CWÜAG)
+% Ausfertigungsdatum: 02.08.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bedeuten:
 
@@ -68,8 +64,7 @@ c) die Erfüllung internationaler Verpflichtungen zur Abrüstung oder Rüstungsk
 
 19. Beobachter: Vertreter eines ersuchenden Vertragsstaates oder eines dritten Vertragsstaates des Übereinkommens, der beauftragt ist, an einer Inspektion nach Artikel IX des Übereinkommens teilzunehmen.
 
-
-## § 2 – Beschränkungen
+# § 2 – Beschränkungen
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates die Beschränkungen, die zur Erfüllung der Verpflichtungen aus dem Übereinkommen erforderlich sind. Sie kann
 
@@ -97,25 +92,21 @@ Die Verbote nach Satz 2 Nr. 1 Buchstabe a bis c können auch Handlungen Deutsche
 
 2. über Anmelde- und Vorführungspflichten für Chemikalien, deren Einfuhr, Ausfuhr oder Durchfuhr nach der auf Grund des Absatzes 1 erlassenen Rechtsverordnung einer Genehmigung bedarf.
 
-
-## § 3 – Meldepflichten
+# § 3 – Meldepflichten
 
 Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates Meldepflichten im Zusammenhang mit Tätigkeiten nach § 2 Abs. 1 Satz 2 sowie in bezug auf sonstige, in Artikel VI des Übereinkommens genannte Einrichtungen, soweit dies zur Erfüllung der Verpflichtungen aus dem Übereinkommen erforderlich ist. In der Rechtsverordnung können insbesondere Häufigkeit, Zeiträume, Inhalt und Form der Meldungen sowie die Art ihrer Übermittlung und die Fristen für die Übermittlung bestimmt werden.
 
-
-## § 4 – Sicherungspflichten
+# § 4 – Sicherungspflichten
 
 Wer eine Tätigkeit ausübt, die nach einer auf Grund der §§ 2 und 3 erlassenen Rechtsverordnung Beschränkungen unterworfen oder meldepflichtig ist, hat die erforderlichen Maßnahmen zu treffen, um zu verhindern, daß die dort bezeichneten Chemikalien abhanden kommen oder unbefugt verwendet werden.
 
-
-## § 5 – Zuständigkeiten
+# § 5 – Zuständigkeiten
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) ist für die Erteilung von Genehmigungen nach der auf Grund des § 2 Abs. 1 Satz 2 Nr. 2 und 3 erlassenen Rechtsverordnung sowie für die Erhebung, Verarbeitung und Überprüfung von Daten auf Grund dieses Gesetzes und der nach § 3 erlassenen Rechtsverordnung zuständig.
 
 (2) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Einfuhr, Ausfuhr und Durchfuhr der nach § 2 Abs. 1 Satz 2 Nr. 1 und 3 zu bezeichnenden Chemikalien mit. Bestehen Anhaltspunkte für einen Verstoß gegen Beschränkungen, die sich aus diesem Gesetz ergeben oder auf Grund dieses Gesetzes erlassen worden sind, unterrichten sie das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA). Sie können die Chemikalien sowie deren Beförderungs- und Verpackungsmittel auf Kosten und Gefahr des Verfügungsberechtigten zurückweisen oder bis zur Behebung der festgestellten Mängel oder bis zur Entscheidung der zuständigen Behörde sicherstellen.
 
-
-## § 6 – Nutzung, Übermittlung und Geheimhaltung von Daten
+# § 6 – Nutzung, Übermittlung und Geheimhaltung von Daten
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darf die ihm bei der Erfüllung seiner Aufgaben auf Grund dieses Gesetzes und der zu diesem erlassenen Rechtsverordnungen bekanntgewordenen Daten, einschließlich personenbezogener Daten, mit anderen bei ihm gespeicherten Daten abgleichen, soweit dies zur Erfüllung der Verpflichtungen aus dem Übereinkommen erforderlich ist.
 
@@ -133,8 +124,7 @@ b) zur Verfolgung von Straftaten nach diesem Gesetz, dem Außenwirtschaftsgesetz
 
 (4) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) und die in den Absätzen 2 und 3 Nr. 2 genannten Behörden dürfen die übermittelten Daten nur für den Zweck verwenden, zu dem sie übermittelt worden sind. Eine Verwendung für andere Zwecke ist zulässig, soweit die Daten auch dafür hätten übermittelt werden dürfen. Die in Satz 1 genannten Behörden haben die im Übereinkommen enthaltenen Bestimmungen zum Schutz vertraulicher Daten einzuhalten.
 
-
-## § 7 – Auskunftspflichten
+# § 7 – Auskunftspflichten
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann Auskünfte verlangen, soweit dies erforderlich ist, um die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu überwachen. Soweit es zu diesem Zweck erforderlich ist, kann es verlangen, daß ihm die geschäftlichen Unterlagen vorgelegt werden, und kann es Prüfungen bei den Auskunftspflichtigen vornehmen. Zur Vornahme der Prüfungen können Bedienstete des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) die Geschäftsräume und Betriebsanlagen der Auskunftspflichtigen während der üblichen Betriebs- und Geschäftszeiten betreten. Der Verpflichtete hat Prüfungen nach Satz 2 und das Betreten nach Satz 3 zu dulden.
 
@@ -142,8 +132,7 @@ b) zur Verfolgung von Straftaten nach diesem Gesetz, dem Außenwirtschaftsgesetz
 
 (3) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist über sein Recht zur Verweigerung der Auskunft zu belehren.
 
-
-## § 8 – Duldung und Unterstützung von Inspektionen
+# § 8 – Duldung und Unterstützung von Inspektionen
 
 (1) Der Inhaber von Grundstücken oder Räumen, auf oder in denen sich nach einer auf Grund der §§ 2 und 3 erlassenen Rechtsverordnung genehmigungs- oder meldepflichtige Einrichtungen befinden (Verpflichteter), hat Inspektionen nach Artikel VI des Übereinkommens im Rahmen des Inspektionsauftrags nach Maßgabe des § 10 zu dulden und des § 11 zu unterstützen.
 
@@ -151,8 +140,7 @@ b) zur Verfolgung von Straftaten nach diesem Gesetz, dem Außenwirtschaftsgesetz
 
 (3) Der Verpflichtete nach Absatz 1 oder 2 trägt die ihm aus der Durchführung der Inspektionen oder Untersuchungen entstehenden Kosten selbst, wenn sie nicht von der Organisation nach den Bestimmungen des Übereinkommens erstattet werden. Anträge auf Kostenerstattung sind beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) einzureichen, das diese prüft und über das Auswärtige Amt an die Organisation weiterleitet.
 
-
-## § 9 – Begleitgruppe
+# § 9 – Begleitgruppe
 
 (1) Inspektionen nach den Artikeln VI und IX des Übereinkommens sowie Untersuchungen nach Artikel X des Übereinkommens finden nur in Anwesenheit einer Begleitgruppe statt, soweit die auf Grund des § 12 erlassene Rechtsverordnung nichts anderes bestimmt. Bei Inspektionen oder Untersuchungen im Geschäftsbereich des Bundesministeriums der Verteidigung wird die Begleitgruppe vom Zentrum für Verifikationsaufgaben der Bundeswehr, im übrigen vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) gestellt. Der Begleitgruppe können Vertreter anderer Bundesbehörden angehören.
 
@@ -162,8 +150,7 @@ b) zur Verfolgung von Straftaten nach diesem Gesetz, dem Außenwirtschaftsgesetz
 
 (4) Der Leiter der Begleitgruppe übermittelt dem Auswärtigen Amt alle der Begleitgruppe im Verlauf einer Inspektion oder Untersuchung bekanntgewordenen Daten in dem Umfang, wie dies zur Überprüfung der auf Grund dieses Gesetzes oder der zu diesem erlassenen Rechtsverordnungen bekanntgewordenen Daten erforderlich ist. § 6 Abs. 4 gilt entsprechend.
 
-
-## § 10 – Inspektionsbefugnisse
+# § 10 – Inspektionsbefugnisse
 
 (1) Soweit es zur Durchführung der Inspektionen nach Artikel VI und IX des Übereinkommens sowie von Untersuchungen nach Artikel X des Übereinkommens erforderlich ist, ist die Inspektionsgruppe befugt,
 
@@ -209,8 +196,7 @@ soweit dies zur Aufklärung des Sachverhalts erforderlich ist. Das Grundrecht de
 
 (5) Die Inspektionsgruppe und der Beobachter können die ihnen bei der Durchführung von Inspektionen oder Untersuchungen bekanntgewordenen Daten, einschließlich personenbezogener Daten, speichern, soweit dies zur Erfüllung ihrer Aufgaben nach dem Übereinkommen erforderlich ist.
 
-
-## § 11 – Mitwirkungspflichten
+# § 11 – Mitwirkungspflichten
 
 Der Verpflichtete hat die Inspektionsgruppe und die Begleitgruppe bei der Durchführung der in § 8 genannten Inspektionen und Untersuchungen zu unterstützen, soweit dies nach den Artikeln VI, IX oder X des Übereinkommens erforderlich ist. Er hat
 
@@ -238,27 +224,23 @@ Der Verpflichtete hat die Inspektionsgruppe und die Begleitgruppe bei der Durchf
 
 In den Fällen des Satzes 2 Nr. 4 und 6 bis 11 kann er die Mitwirkung verweigern, wenn er sich hierdurch selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist über sein Recht zur Verweigerung der Mitwirkung zu belehren.
 
-
-## § 12 – Durchführung von Inspektionen
+# § 12 – Durchführung von Inspektionen
 
 Die Bundesregierung kann durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten der Befugnisse und Mitwirkungspflichten nach den §§ 10 und 11 sowie des Verwaltungsverfahrens zur Durchführung der in § 8 genannten Inspektionen und Untersuchungen regeln.
 
-
-## § 13 – Vereinbarungen über Einrichtungen
+# § 13 – Vereinbarungen über Einrichtungen
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ermächtigt, Vereinbarungen über Einrichtungen mit der Organisation auszuhandeln und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Auswärtigen Amt abzuschließen.
 
 (2) Soweit die Bundesrepublik Deutschland nach dem Übereinkommen zum Abschluß einer Vereinbarung über eine Einrichtung verpflichtet ist, hört das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) den Verpflichteten vor Aufnahme der Verhandlungen und Abschluß einer solchen Vereinbarung an. In allen übrigen Fällen holt es seine vorherige Zustimmung ein.
 
-
-## § 14 – Haftung
+# § 14 – Haftung
 
 (1) Wird jemand durch ein Mitglied der Inspektionsgruppe geschädigt, haftet für diesen Schaden die Bundesrepublik Deutschland nach den Vorschriften und Grundsätzen des deutschen Rechts, die anwendbar wären, wenn der Schaden durch einen eigenen Bediensteten oder durch eine Handlung oder Unterlassung, für die die Bundesrepublik Deutschland verantwortlich ist, verursacht worden wäre. Satz 1 ist auf Schäden, die von einem Mitglied der Inspektionsgruppe außerhalb der Inspektionstätigkeit verursacht werden, sinngemäß anzuwenden.
 
 (2) Ansprüche nach Absatz 1 sind in den Fällen des § 9 Abs. 1 Satz 2 erste Alternative bei den regional zuständigen Wehrbereichsverwaltungen, im übrigen beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) geltend zu machen. Zur Durchsetzung der Ansprüche ist der ordentliche Rechtsweg gegeben.
 
-
-## § 15 – Bußgeldvorschriften
+# § 15 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -280,8 +262,7 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
-
-## § 16 – Strafvorschriften
+# § 16 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -307,8 +288,7 @@ wenn die Tat nicht nach § 20 des Gesetzes über die Kontrolle von Kriegswaffen 
 
 (6) Handelt der Täter fahrlässig, so ist die Strafe in den Fällen des Absatzes 1 Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe, im Falle des Absatzes 2 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 17 – Strafvorschriften gegen den Mißbrauch als chemische Waffen
+# § 17 – Strafvorschriften gegen den Mißbrauch als chemische Waffen
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
 
@@ -324,13 +304,11 @@ wenn die Tat nicht nach § 20 des Gesetzes über die Kontrolle von Kriegswaffen 
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 leichtfertig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-
-## § 18 – Auslandstaten Deutscher
+# § 18 – Auslandstaten Deutscher
 
 § 16 Abs. 1 Nr. 2, Abs. 5 und § 17 gelten, unabhängig vom Recht des Tatorts, auch für Taten, die im Ausland begangen werden, wenn der Täter Deutscher ist.
 
-
-## § 19 – Einziehung
+# § 19 – Einziehung
 
 (1) Ist eine Ordnungswidrigkeit nach § 15 oder eine Straftat nach den §§ 16 oder 17 begangen worden, so können
 
@@ -344,8 +322,7 @@ eingezogen werden.
 
 (3) (weggefallen)
 
-
-## § 20 – Befugnisse der Zollbehörden
+# § 20 – Befugnisse der Zollbehörden
 
 (1) Die Staatsanwaltschaft und die Verwaltungsbehörde können bei Straftaten und Ordnungswidrigkeiten nach den §§ 15 bis 17 Ermittlungen (§ 161 Satz 1 der Strafprozeßordnung) auch durch die Hauptzollämter oder die Zollfahndungsämter vornehmen lassen.
 
@@ -355,8 +332,7 @@ eingezogen werden.
 
 (4) In diesen Fällen können die Hauptzollämter und Zollfahndungsämter sowie deren Beamte im Bußgeldverfahren Beschlagnahmen, Durchsuchungen, Untersuchungen und sonstige Maßnahmen nach den für Ermittlungspersonen der Staatsanwaltschaft geltenden Vorschriften der Strafprozeßordnung vornehmen; unter den Voraussetzungen des § 111p Abs. 2 Satz 2 der Strafprozeßordnung können auch die Hauptzollämter die Notveräußerung anordnen.
 
-
-## § 21 – Inkrafttreten
+# § 21 – Inkrafttreten
 
 (1) Die §§ 1 bis 7, 12, 15 Abs. 1 Nr. 1 Buchstabe b und Nr. 3, Abs. 2 und 3, § 16 Abs. 1 Nr. 1, Abs. 5 und 6 und die §§ 19 und 20 treten einen Tag nach der gemäß Absatz 2 erfolgten Bekanntgabe in Kraft. Im übrigen tritt dieses Gesetz an dem Tage in Kraft, an dem das Übereinkommen nach seinem Artikel XXI in Kraft tritt.
 

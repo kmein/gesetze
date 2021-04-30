@@ -1,10 +1,7 @@
-# [See-DatenÜbermittDV] Verordnung zur Durchführung der Datenübermittlung an nichtöffentliche Stellen im Seeverkehr  (See-Datenübermittlung-Durchführungsverordnung - See-DatenÜbermittDV)
-
-Ausfertigungsdatum: 01.03.2016
-
+% Verordnung zur Durchführung der Datenübermittlung an nichtöffentliche Stellen im Seeverkehr  (See-Datenübermittlung-Durchführungsverordnung - See-DatenÜbermittDV)
+% Ausfertigungsdatum: 01.03.2016
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Übermittlung der in § 9e Absatz 1 Satz 1 Nummer 1 und 6 des Seeaufgabengesetzes bezeichneten Daten durch die datenerhebenden Stellen an nichtöffentliche Stellen.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 01.03.2016
 
 3. für die Hafenwirtschaft tätige Dienstleister, insbesondere Schlepperbetriebe, Terminal- und Kaibetreiber, Festmacherbetriebe, Speditionen, Transportbetriebe, Schiffsausrüster, Schiffsmakler, Reparaturbetriebe sowie weitere Servicebetriebe.
 
-
-## § 2 – Übermittlung und Nutzung der Daten
+# § 2 – Übermittlung und Nutzung der Daten
 
 (1) Die datenerhebende Stelle darf die bei ihr nach § 9e Absatz 1 Satz 1 Nummer 1 und 6 des Seeaufgabengesetzes gespeicherten Daten an eine der in § 1 Absatz 3 genannten nichtöffentlichen Stellen auf deren Ersuchen übermitteln. Die Verantwortung für die Zulässigkeit der Übermittlung der Daten trägt die datenerhebende Stelle.
 
@@ -31,8 +27,7 @@ Ausfertigungsdatum: 01.03.2016
 
 (5) Im Falle einer nachweislich zweckwidrigen Nutzung übermittelter Daten durch eine nichtöffentliche Stelle ist diese von der weiteren Datenübermittlung auszuschließen.
 
-
-## § 3 – Verfahren der Datenübermittlung
+# § 3 – Verfahren der Datenübermittlung
 
 (1) Ersuchen zur Übermittlung von Daten sind von der nichtöffentlichen Stelle elektronisch oder in Papierform an die datenerhebende Stelle zu richten.
 

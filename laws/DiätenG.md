@@ -1,15 +1,11 @@
-# [DiätenG] Gesetz über die Entschädigung der Mitglieder des Bundestages  (Diätengesetz 1968)
-
-Ausfertigungsdatum: 03.05.1968
-
+% Gesetz über die Entschädigung der Mitglieder des Bundestages  (Diätengesetz 1968)
+% Ausfertigungsdatum: 03.05.1968
  
-
-## § 1
+# § 1
 
 Die Mitglieder des Bundestages haben Anspruch auf eine monatliche Aufwandsentschädigung. Sie beträgt dreiunddreißigeindrittel vom Hundert des Amtsgehalts eines Bundesministers. Der Präsident des Bundestages erhält den dreifachen, seine Stellvertreter erhalten den eineinhalbfachen Betrag. Während des Kalenderjahres 1976 ist das Amtsgehalt nach dem Stand vom 1. Januar 1975 maßgebend.
 
-
-## § 2
+# § 2
 
 (1) Mitglieder, die aus dem Bundestag ausscheiden, erhalten, wenn sie dem Bundestag mindestens ein Jahr angehört haben, die Aufwandsentschädigung bis zum Ende des dritten Monats nach Ablauf des Monats, in dem sie ausgeschieden sind. Für jedes weitere Jahr der Mitgliedschaft zum Bundestag wird die Aufwandsentschädigung für einen weiteren Monat geleistet. Zeiten, für die nach den Sätzen 1 und 2 Zahlungen geleistet worden sind, werden angerechnet. Auf Antrag kann der Präsident die Zahlung der nach den Sätzen 1 und 2 zustehenden Aufwandsentschädigung in einer Summe genehmigen. Tritt das ehemalige Mitglied wieder in den Bundestag ein, ruht bei monatlicher Zahlung der Anspruch nach den Sätzen 1 und 2. Wurde das ehemalige Mitglied in einer Summe abgefunden, ist der Betrag, der bei monatlicher Zahlung ruhen würde, zu erstatten. Der Präsident bestimmt, in welchen Teilbeträgen die Summe zu erstatten ist.
 
@@ -19,20 +15,17 @@ Die Mitglieder des Bundestages haben Anspruch auf eine monatliche Aufwandsentsch
 
 (4) Absatz 1 Satz 1 und 2 wird nicht angewandt, wenn das Mitglied die Mitgliedschaft im Bundestag auf Grund des § 46 Abs. 1 Nr. 3 des Bundeswahlgesetzes verliert. Der Präsident kann die Zahlungen aussetzen, wenn ein Verfahren zu erwarten ist, das die Folgen nach § 46 Abs. 1 Nr. 3 oder 4 des Bundeswahlgesetzes nach sich ziehen kann.
 
-
-## § 3
+# § 3
 
 (1) § 2 wird nicht angewandt, wenn ein Mitglied des Bundestages stirbt. Seine Hinterbliebenen erhalten die noch nicht abgerechneten Aufwandsentschädigungen nach diesem Gesetz. Sein überlebender Ehegatte, seine ehelichen sowie die für ehelich erklärten oder an Kindes Statt angenommenen Kinder erhalten ein Sterbegeld in Höhe der dreifachen Aufwandsentschädigung nach § 1. An wen die Zahlungen zu leisten sind, bestimmt der Präsident. Sind Hinterbliebene im Sinne des Satzes 2 nicht vorhanden, kann auf Antrag sonstigen Personen, die die Kosten der letzten Krankheit oder der Bestattung getragen haben, das Sterbegeld bis zur Höhe ihrer Aufwendungen gewährt werden.
 
 (2) Der Präsident kann die Rückzahlung von Beträgen erlassen, die dem verstorbenen Mitglied im voraus überwiesen wurden.
 
-
-## § 4
+# § 4
 
 Für die Mitglieder des Bundestages wird eine Alters- und Hinterbliebenenversorgung auf Versicherungsgrundlage geschaffen. Die Mitglieder leisten dazu einen Beitrag von fünfundzwanzig vom Hundert der Aufwandsentschädigung nach § 1. Der Vorstand des Bundestages kann diesen Beitrag erhöhen. Der Bundestag leistet zur Alters- und Hinterbliebenenversorgung einen Zuschuß als Aufwandsentschädigung.
 
-
-## § 5
+# § 5
 
 (1) Die Mitglieder des Bundestages erhalten nach ihrem Ausscheiden aus dem Bundestag ein Ruhegeld, wenn sie
 
@@ -46,13 +39,11 @@ Eine Mitgliedschaft zum Bundestag von mehr als einem halben Jahr gilt als volles
 
 (2) Bei einem späteren Wiedereintritt in den Bundestag ruht der Anspruch auf Ruhegeld für die Dauer der Mitgliedschaft.
 
-
-## § 6
+# § 6
 
 Scheidet ein Mitglied aus dem Bundestag aus, so ist der Austritt aus der Altersversorgung bis zum Eintritt des Versorgungsfalles zulässig. Eigene Beiträge werden zinslos erstattet. Im Falle des Wiedereintritts in den Bundestag beginnen die Fristen für die Mitgliedschaftsdauer nach § 5 Abs. 1 erneut zu laufen.
 
-
-## § 7
+# § 7
 
 (1) Das Ruhegeld bei einer Mitgliedschaft im Bundestag bis zu acht Jahren beträgt fünfunddreißig vom Hundert der Entschädigung nach § 1. Es erhöht sich mit jedem weiteren Jahr der tatsächlichen Mitgliedschaft vom neunten bis zum sechzehnten Jahr um fünf vom Hundert bis auf fünfundsiebzig vom Hundert der Entschädigung. Für die Zeit, in der der Präsident und seine Stellvertreter ihr Amt wahrgenommen haben, erhalten sie entsprechend ihrer Beitragsleistung das dreifache oder eineinhalbfache Ruhegeld. § 5 Abs. 1 Satz 2 wird angewandt.
 
@@ -64,8 +55,7 @@ Scheidet ein Mitglied aus dem Bundestag aus, so ist der Austritt aus der Altersv
 
 § 7 Abs. 4 Satz 1: IdF d. Art. 4 Buchst. b G v. 24.6.1975 I 1593 mWv 3.7.1975; Kursivdruck vgl. jetzt § 15 Abs. 2 Nr. 2, 3 G v. 7.5.1956 111-1
 
-
-## § 7a
+# § 7a
 
 (1) Zeiten der Mitgliedschaft im Parlament eines deutschen Bundeslandes gelten im Sinne des § 5 Abs. 1 auf Antrag als Zeiten der Mitgliedschaft im Bundestag. Werden dadurch die Voraussetzungen für einen Anspruch nach diesem Gesetz erfüllt, so wird Ruhegeld gezahlt.
 
@@ -73,8 +63,7 @@ Scheidet ein Mitglied aus dem Bundestag aus, so ist der Austritt aus der Altersv
 
 (3) Bei der Berechnung des Ruhegeldes nach Absatz 2 bleiben die Jahre der tatsächlichen Mitgliedschaft im Bundestag unberücksichtigt, deren Hinzurechnung zu Zeiten der Mitgliedschaft im Parlament eines deutschen Bundeslandes, für die im Bundesland Ruhegeld gezahlt wird, eine Gesamtzeit von 16 Jahren überschreiten würden.
 
-
-## § 8
+# § 8
 
 (1) Hat ein Mitglied während seiner Zugehörigkeit zum Bundestag ohne sein grobes Verschulden eine Gesundheitsbeschädigung erlitten, die seine Arbeitskraft dauernd und so wesentlich beeinträchtigt, daß es sein Mandat und bei seinem Ausscheiden aus dem Bundestag die bei seiner Wahl zum Bundestag ausgeübte Tätigkeit nicht mehr ausüben kann, so erhält es unabhängig von den in § 5 Abs. 1 vorgesehenen Voraussetzungen ein Ruhegeld, dessen Höhe sich nach § 7 Abs. 1 richtet, mindestens jedoch fünfunddreißig vom Hundert der Aufwandsentschädigung nach § 1.
 
@@ -82,8 +71,7 @@ Scheidet ein Mitglied aus dem Bundestag aus, so ist der Austritt aus der Altersv
 
 (3) § 7 Abs. 2 bis 4 wird entsprechend angewandt.
 
-
-## § 9
+# § 9
 
 (1) Der überlebende Ehegatte eines Mitglieds oder ehemaligen Mitglieds des Bundestages erhält sechzig vom Hundert des Ruhegeldes, sofern der Verstorbene im Zeitpunkt seines Todes Anspruch auf Ruhegeld hatte oder die Voraussetzungen für die Gewährung eines Ruhegeldes erfüllte.
 
@@ -95,23 +83,19 @@ Scheidet ein Mitglied aus dem Bundestag aus, so ist der Austritt aus der Altersv
 
 (5) § 7 Abs. 2 bis 4 wird entsprechend angewandt.
 
-
-## § 10
+# § 10
 
 Die Anrechnung von Einkommen oder Versorgungsbezügen aus einer Verwendung im öffentlichen oder einem ähnlichen Dienst oder von Renten aus den gesetzlichen Rentenversicherungen oder aus einer zusätzlichen Alters- und Hinterbliebenenversorgung für Angehörige des öffentlichen Dienstes auf das Ruhegeld und die Hinterbliebenenversorgung nach diesem Gesetz ist ausgeschlossen. Das gleiche gilt für die Anrechnung des Ruhegeldes und der Hinterbliebenenversorgung nach diesem Gesetz auf Versorgungsbezüge aus einer Verwendung im öffentlichen oder einem ähnlichen Dienst. Im übrigen werden die für Bundesbeamte geltenden versorgungsrechtlichen Vorschriften auf das Ruhegeld und die Hinterbliebenenversorgung sinngemäß angewandt, sofern sich aus diesem Gesetz nichts anderes ergibt.
 
-
-## § 11
+# § 11
 
 Die Mitglieder des Bundestages werden gegen Unfall versichert. Sie können schriftlich erklären, wer im Falle ihres Todes bezugsberechtigt sein soll. Liegt keine Erklärung vor, sind die Erben bezugsberechtigt.
 
-
-## § 12
+# § 12
 
 Der Präsident kann in besonderen Fällen Mitgliedern des Bundestages einmalige Unterstützungen, ausgeschiedenen Mitgliedern und ihren Hinterbliebenen einmalige Unterstützungen und laufende Unterhaltszuschüsse gewähren.
 
-
-## § 13
+# § 13
 
 (1) Entsprechend der Aufwandsentschädigungen nach § 1 erhalten die Mitglieder des Bundestages als weitere Aufwandsentschädigungen
 
@@ -123,25 +107,21 @@ Der Präsident kann in besonderen Fällen Mitgliedern des Bundestages einmalige 
 
 (2) Das Nähere regelt der Ältestenrat des Bundestages nach Maßgabe des Haushaltsgesetzes (Bundeshaushaltsplan).
 
-
-## § 14
+# § 14
 
 Das Kostenpauschale wird nicht geleistet an Mitglieder des Bundestages, die im letzten Vierteljahr der Wahlperiode in den Bundestag eintreten, wenn der Bundestag, abgesehen von den in § 17 Abs. 1 aufgeführten Ausschüssen, seine Tätigkeit bereits abgeschlossen hat.
 
-
-## § 15
+# § 15
 
 (1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste ausgelegt wird. Trägt sich ein Mitglied des Bundestages nicht in die Anwesenheitsliste ein, werden ihm sechs vom Hundert vom monatlichen Tagegeldpauschale einbehalten. Die Einbehaltung kann auf Antrag unterbleiben, wenn ein Aufenthalt in einem Krankenhaus oder in einem ärztlich geleiteten Sanatorium nachgewiesen wird. Der einbehaltene Betrag erhöht sich auf zehn vom Hundert, wenn ein Mitglied an einem Plenarsitzungstag sich nicht in die Anwesenheitsliste eingetragen hat und nicht beurlaubt war. Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der Auslegung an ersetzt durch Amtieren als Präsident oder als Schriftführer, durch protokollierte Wortmeldung in einer Sitzung des Bundestages, durch Teilnahme an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf, durch Eintragung in die Anwesenheitsliste eines Ausschusses oder durch eine Dienstreisegenehmigung für den Sitzungstag.
 
 (2) Einem Mitglied des Bundestages, das an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden fünf vom Hundert der monatlichen Tagegeldpauschale abgezogen. Das gilt nicht, wenn der Präsident das Mitglied beurlaubt hat oder ein Abzug nach Absatz 1 erfolgt.
 
-
-## § 16
+# § 16
 
 Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in die Anwesenheitsliste des Bundestages eingetragen hat, Tage- oder Sitzungsgelder aus anderen öffentlichen Mitteln, werden sechs vom Hundert vom monatlichen Tagegeldpauschale einbehalten, jedoch höchstens bis zum Betrag der aus anderen öffentlichen Mitteln geleisteten Tage- oder Sitzungsgelder. Die Sonderregelung des § 19 bleibt hiervon unberührt.
 
-
-## § 17
+# § 17
 
 (1) Die Mitglieder des Bundestages haben das Recht auf freie Benutzung aller Verkehrsmittel der Deutschen Bundesbahn und der Deutschen Bundespost. Benutzen sie in Ausübung des Mandats innerhalb des Bundesgebietes Flugzeuge oder Schlafwagen, so werden die Kosten gegen Nachweis erstattet. Die Rechte nach den Sätzen 1 und 2 entstehen mit der Annahme der Wahl und erlöschen vierzehn Tage nach dem Ablauf der Wahlperiode. Im Falle der Auflösung des Bundestages stehen den Mitgliedern diese Rechte bis zum Ablauf des vierzehnten Tages nach der Neuwahl zu. Der Präsident, seine Stellvertreter, die Mitglieder und die stellvertretenden Mitglieder der gemäß den Artikeln 45 und 45a des Grundgesetzes eingesetzten Ausschüsse haben diese Rechte bis zum Ablauf des vierzehnten Tages nach dem Zusammentritt des neuen Bundestages.
 
@@ -151,13 +131,11 @@ Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in die Anwesen
 
 § 17 Abs. 1 Satz 5 Kursivdruck: Art. 45 GG aufgeh. durch Art. I Nr. 3 G v. 23.8.1976 I 2381 mWv 14.12.1976
 
-
-## § 18
+# § 18
 
 Mit dem Reisekostenpauschale sind, unbeschadet der in § 17 Abs. 1 und § 19 getroffenen Regelungen, alle Kosten, die den Mitgliedern des Bundestages für Fahrten im Wahlkreis entstehen, abgegolten.
 
-
-## § 19
+# § 19
 
 (1) Dienstreisen von Mitgliedern des Bundestages bedürfen der vorherigen Zustimmung des Präsidenten.
 
@@ -171,8 +149,7 @@ Mit dem Reisekostenpauschale sind, unbeschadet der in § 17 Abs. 1 und § 19 get
 
 § 19 Abs. 2 Satz 2 u. Abs. 3 Satz 1 Kursivdruck: Vgl. jetzt Stufe C
 
-
-## § 20
+# § 20
 
 (1) Die bei Inkrafttreten des Gesetzes bestehende Todesfallversicherung wird auf Antrag des Versicherten mit der Maßgabe fortgesetzt, daß das zu zahlende Ruhe- und Witwengeld entsprechend der Zahl und Höhe der seit Inkrafttreten dieses Gesetzes geleisteten monatlichen Beiträge der Versicherungsnehmerin zu der Todesfallversicherung gekürzt werden.
 
@@ -182,8 +159,7 @@ Mit dem Reisekostenpauschale sind, unbeschadet der in § 17 Abs. 1 und § 19 get
 
 (4) Der Antrag nach den Absätzen 1 und 2 ist innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes zu stellen.
 
-
-## § 20a
+# § 20a
 
 (1) Mitglieder und ehemalige Mitglieder des Bundestages, die sich nach § 20 des Gesetzes für die Fortsetzung der Versicherung auf Bundeskosten entschieden haben, können die Todesfallversicherung umwandeln oder auflösen.
 
@@ -191,49 +167,40 @@ Mit dem Reisekostenpauschale sind, unbeschadet der in § 17 Abs. 1 und § 19 get
 
 (3) Bei Auflösung der Versicherung wird dem Versicherten der auf eigenen Beiträgen beruhende Rückkaufswert erstattet.
 
-
-## § 21
+# § 21
 
 Zeiten der Mitgliedschaft im Bundestag, die vor dem Inkrafttreten dieses Gesetzes liegen, werden berücksichtigt.
 
-
-## § 22
+# § 22
 
 Der Präsident gewährt auf Antrag ehemaligen Mitgliedern, die vor Inkrafttreten dieses Gesetzes aus dem Bundestag ausgeschieden sind, sowie deren Hinterbliebenen vom Ersten des Monats der Antragstellung an Leistungen aus der Alters- und Hinterbliebenenversorgung nach diesem Gesetz. Sofern bereits Zahlungen aus der Todesfallversicherung geleistet worden sind, ruht der Anspruch auf Hinterbliebenenversorgung in Höhe des gezahlten Betrages.
 
-
-## § 23
+# § 23
 
 (1) Die in den §§ 1 und 13 geregelten Ansprüche entstehen mit dem Tag der Annahme der Wahl, auch wenn die Wahlperiode des letzten Bundestages noch nicht abgelaufen ist. Ausgeschiedene Mitglieder erhalten die Aufwandsentschädigungen bis zum Ende des Monats, in dem sie ausgeschieden sind. Die Aufwendungen für die Beschäftigung von Mitarbeitern werden längstens bis zum Ende des fünften Monats nach dem Monat des Ausscheidens ersetzt, es sei denn, das Arbeitsverhältnis wird zu einem früheren Zeitpunkt beendet.
 
 (2) Die nach diesem Gesetz zu leistenden Aufwandsentschädigungen werden monatlich im voraus gezahlt. Ist nur ein Teil der monatlichen Aufwandsentschädigungen zu leisten, wird für jeden Kalendertag ein Dreißigstel gezahlt. Der Endbetrag wird auf volle Deutsche Mark aufgerundet.
 
-
-## § 24
+# § 24
 
 Die Entschädigung nach § 1 sowie die Leistungen nach den §§ 5 bis 10 werden auf volle zehn Deutsche Mark aufgerundet.
 
-
-## § 25
+# § 25
 
 Ein Verzicht auf die Entschädigung nach § 1 sowie auf die Leistungen nach den §§ 5 bis 10 ist unzulässig. Die Ansprüche aus diesem Gesetz sind nicht übertragbar.
 
-
-## § 26
+# § 26
 
 Der Ältestenrat des Bundestages kann außer in den in § 13 Abs. 2 und § 19 Abs. 3 aufgeführten Fällen Ausführungsbestimmungen erlassen.
 
-
-## § 27
+# § 27
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 28
+# § 28
 
 Dieses Gesetz tritt mit Ausnahme des § 15 Abs. 1 hinsichtlich der Worte "vom Zeitpunkt der Auslegung an", des § 16 Satz 1, letzter Halbsatz, des § 17 Abs. 1 Satz 2, des § 18 Abs. 2, des § 19 Abs. 2 bis 4, des § 20 Abs. 4, die am Tage nach der Verkündung des Gesetzes in Kraft treten, mit Wirkung vom 1. Januar 1968 in Kraft.
 
-
-## ----
+# ----
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.

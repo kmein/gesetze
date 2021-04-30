@@ -1,10 +1,7 @@
-# [AbfVerbrG] Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen 1) und des Basler Übereinkommens vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung 2)  (Abfallverbringungsgesetz - AbfVerbrG)
-
-Ausfertigungsdatum: 19.07.2007
-
+% Gesetz zur Ausführung der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen 1) und des Basler Übereinkommens vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung 2)  (Abfallverbringungsgesetz - AbfVerbrG)
+% Ausfertigungsdatum: 19.07.2007
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Dieses Gesetz gilt für:
 
@@ -16,15 +13,13 @@ Dieses Gesetz gilt für:
 
 4. die mit der Verbringung verbundene Verwertung oder Beseitigung.
 
-
-## § 2 – Grundsatz der Autarkie
+# § 2 – Grundsatz der Autarkie
 
 (1) Bei Abfällen, die aus dem Bundesgebiet verbracht werden sollen und zur Beseitigung bestimmt sind, hat die Beseitigung im Inland Vorrang vor der Beseitigung im Ausland. Sofern eine Beseitigung von Abfällen im Ausland entsprechend Satz 1 und den Bestimmungen der Verordnung (EG) Nr. 1013/2006 zulässig ist, hat die Beseitigung in einem Mitgliedstaat der Europäischen Union Vorrang vor der Beseitigung in einem anderen Staat.
 
 (2) Absatz 1 gilt in Ausführung von Artikel 3 Abs. 5 der Verordnung (EG) Nr. 1013/2006 entsprechend für gemischte Siedlungsabfälle (Abfallschlüssel 20 03 01), die in privaten Haushaltungen eingesammelt worden sind, auch wenn dabei solche Abfälle anderer Erzeuger mit eingesammelt worden sind.
 
-
-## § 3 – Bestimmungen im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung, die die Behörden betreffen
+# § 3 – Bestimmungen im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung, die die Behörden betreffen
 
 (1) Die zuständige Behörde kann erlauben, dass Sicherheitsleistungen oder entsprechende Versicherungen gemäß Artikel 4 Abs. 2 Nr. 5 und Artikel 6 der Verordnung (EG) Nr. 1013/2006 oder, sofern die zuständige Behörde dies gestattet, der Nachweis über diese Sicherheitsleistungen oder entsprechenden Versicherungen spätestens zusammen mit der vorherigen Mitteilung des tatsächlichen Beginns der Verbringung gemäß Artikel 16 Buchstabe b der Verordnung (EG) Nr. 1013/2006 vorgelegt werden.
 
@@ -42,8 +37,7 @@ Dieses Gesetz gilt für:
 
 2. in sonstigen Fällen seit Rechtskraft des Urteils mehr als fünf Jahre verstrichen sind.
 
-
-## § 4 – Pflichten der übrigen Beteiligten im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung
+# § 4 – Pflichten der übrigen Beteiligten im Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung
 
 (1) Der Notifizierende hat die gemäß Artikel 10 Abs. 1 oder 2, jeweils auch in Verbindung mit Artikel 35 Abs. 1, Artikel 37 Abs. 2 Unterabs. 2, Artikel 37 Abs. 5, Artikel 38 Abs. 1, Artikel 40 Abs. 3, Artikel 42 Abs. 1, Artikel 44 Abs. 1, Artikel 45, Artikel 46 Abs. 1, Artikel 47 oder Artikel 48, der Verordnung (EG) Nr. 1013/2006 festgelegten Auflagen, die ihn betreffen, zu erfüllen und sicherzustellen, dass der Empfänger und der Betreiber der Anlage die Auflagen, die diese betreffen, erfüllen und dass der Beförderer die Auflagen für den Transport der Abfälle erfüllt.
 
@@ -65,8 +59,7 @@ Für die elektronische Mitführung, Übermittlung, Ausfüllung und Unterzeichnun
 
 (6) Der Notifizierende hat der zuständigen Behörde, falls diese ihre Zustimmung zu einer Sammelnotifizierung gemäß Artikel 13 Abs. 3, auch in Verbindung mit Artikel 35 Abs. 1, Artikel 37 Abs. 2 Unterabs. 2, Artikel 37 Abs. 5, Artikel 38 Abs. 1, Artikel 40 Abs. 3, Artikel 42 Abs. 1, Artikel 44 Abs. 1, Artikel 45, Artikel 46 Abs. 1, Artikel 47 oder Artikel 48, der Verordnung (EG) Nr. 1013/2006 von der späteren Vorlage von zusätzlichen Informationen und Unterlagen gemäß Artikel 4 Abs. 2 Nr. 2 und 3 der Verordnung (EG) Nr. 1013/2006 abhängig gemacht hat, zu Zeitpunkten, die von der Behörde festgelegt sind, solche Informationen und Unterlagen zu übermitteln.
 
-
-## § 5 – Pflichten im Rahmen der allgemeinen Informationspflichten
+# § 5 – Pflichten im Rahmen der allgemeinen Informationspflichten
 
 (1) Bei Verbringungen, die von Artikel 18, auch in Verbindung mit Artikel 37 Abs. 3, Artikel 38 Abs. 1, Artikel 40 Abs. 3, Artikel 42 Abs. 1, Artikel 44 Abs. 1, Artikel 45, Artikel 46 Abs. 1, Artikel 47 oder Artikel 48, der Verordnung (EG) Nr. 1013/2006 erfasst werden,
 
@@ -84,8 +77,7 @@ Für die elektronische Mitführung, Übermittlung, Ausfüllung und Unterzeichnun
 
 (4) Für die elektronische Mitführung, Ausfüllung und Unterzeichnung gilt Artikel 26 Abs. 3 der Verordnung (EG) Nr. 1013/2006 bezüglich Absatz 1 Nr. 1, 2 und 3 entsprechend.
 
-
-## § 6 – Verordnungsermächtigungen
+# § 6 – Verordnungsermächtigungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 
@@ -95,8 +87,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 
 3. ohne Zustimmung des Bundesrates nach Anhörung der beteiligten Kreise gemäß Artikel 36 Abs. 3 der Verordnung (EG) Nr. 1013/2006 Vorschriften zu erlassen über die Ausnahmen von dem Ausfuhrverbot in Bezug auf bestimmte in Anhang V aufgeführte Abfälle.
 
-
-## § 7 – Gebühren und Auslagen
+# § 7 – Gebühren und Auslagen
 
 (1) Die zuständigen Behörden können für die folgenden individuell zurechenbaren öffentlichen Leistungen zur Deckung des Verwaltungsaufwands Gebühren und Auslagen erheben:
 
@@ -116,8 +107,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 
 (4) Durch Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung die Gebührenschuldnerschaft abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
-
-## § 8 – Ergänzende Bestimmungen zu den Rücknahmeverpflichtungen
+# § 8 – Ergänzende Bestimmungen zu den Rücknahmeverpflichtungen
 
 (1) Soweit eine Rücknahmeverpflichtung gemäß Artikel 22 Abs. 2 Unterabs. 1 oder Abs. 3 Unterabs. 1 oder Artikel 24 Abs. 2 Buchstabe c, d oder e der Verordnung (EG) Nr. 1013/2006 eine zuständige Behörde im Bundesgebiet trifft, obliegt die Erfüllung der Verpflichtung dem Land, in dem die Verbringung begonnen hat. Soweit Behörden mehrerer Länder zuständig wären, haben die betroffenen Länder eine zuständige Behörde zu bestimmen. Soweit sich keine zuständige Behörde bestimmen oder so rechtzeitig ermitteln lässt, dass der Rücknahmeverpflichtung fristgemäß nachgekommen werden kann, obliegt die Verpflichtung dem Land, das bei sukzessiver Zuordnung dieser Fälle zu der alphabetisch geordneten Liste der Länderbezeichnungen als nächstes zuständig ist. Die Länder können die Erfüllung der Verpflichtung einer gemeinsamen Einrichtung übertragen.
 
@@ -135,8 +125,7 @@ Diejenigen, die zur Übernahme von Kosten für die Rücknahme verpflichtet sind,
 
 (5) Widerspruch und Anfechtungsklage gegen Entscheidungen betreffend die Rückführung der Abfälle oder die Festsetzung von Kosten nach Absatz 3 haben keine aufschiebende Wirkung.
 
-
-## § 9 – Datenerhebung und -verwendung
+# § 9 – Datenerhebung und -verwendung
 
 (1) Für die folgenden Aufgaben dürfen personenbezogene Daten erhoben werden:
 
@@ -174,8 +163,7 @@ b) die Erhebung bei der betroffenen Person einen unverhältnismäßigen Aufwand 
 
 (5) Die dritte Person, an die Daten nach den Absätzen 3 und 4 übermittelt worden sind, darf die Daten nur für die Aufgabe verwenden, für die sie ihr übermittelt worden sind. Darüber hinaus ist eine Verwendung nur zulässig, soweit es zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer sonst drohenden Gefahr für die öffentliche Sicherheit oder zur Verfolgung von Straftaten und Ordnungswidrigkeiten erforderlich ist. Die übermittelnde Stelle hat die dritte Person in den Fällen des Absatzes 4 darauf hinzuweisen.
 
-
-## § 10 – Kennzeichnung der Fahrzeuge
+# § 10 – Kennzeichnung der Fahrzeuge
 
 (1) Beförderer und den Transport unmittelbar durchführende Personen haben Fahrzeuge, mit denen sie Abfälle auf öffentlichen Straßen befördern, vor Antritt der Fahrt mit zwei rechteckigen, rückstrahlenden, weißen Warntafeln von mindestens 40 Zentimetern Breite und mindestens 30 Zentimetern Höhe zu versehen. Die Warntafeln müssen in schwarzer Farbe die Aufschrift „A“ (Buchstabenhöhe 20 Zentimeter, Schriftstärke 2 Zentimeter) tragen. Die Warntafeln müssen während der Beförderung außen am Fahrzeug deutlich sichtbar angebracht sein, und zwar vorn und hinten. Bei Zügen muss die hintere Tafel an der Rückseite des Anhängers angebracht sein.
 
@@ -183,8 +171,7 @@ b) die Erhebung bei der betroffenen Person einen unverhältnismäßigen Aufwand 
 
 (3) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung nach § 53 Absatz 6 oder § 54 Absatz 7 des Kreislaufwirtschaftsgesetzes Ausnahmen von der Kennzeichnungspflicht nach Absatz 1 zuzulassen.
 
-
-## § 11 – Kontrollen
+# § 11 – Kontrollen
 
 (1) Die zuständigen Landesbehörden führen gemäß Artikel 34 der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom 19. November 2008 über Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S. 24), die zuletzt durch die Richtlinie (EU) 2015/1127 (ABl. L 184 vom 11.7.2015, S. 13) geändert worden ist, Kontrollen von Einrichtungen, Unternehmen, Maklern und Händlern gemäß Artikel 50 Absatz 2 der Verordnung (EG) Nr. 1013/2006 und auf der Grundlage von nach § 11a erstellten Kontrollplänen durch.
 
@@ -216,8 +203,7 @@ anderweitig entschieden hat oder haben und ihr ihre Entscheidung schriftlich ode
 
 (7) Widerspruch und Anfechtungsklage gegen Entscheidungen betreffend die sichere Lagerung von Abfällen oder die Sicherstellung nach Absatz 4 oder Absatz 5 haben keine aufschiebende Wirkung.
 
-
-## § 11a – Kontrollpläne
+# § 11a – Kontrollpläne
 
 (1) Die Länder erstellen für ihr Gebiet bis zum 1. Januar 2017 Kontrollpläne gemäß Artikel 50 Absatz 2a Satz 1 bis 4 der Verordnung (EG) Nr. 1013/2006 für Kontrollen gemäß § 11 Absatz 1 und 2. Sie überprüfen diese Pläne mindestens alle drei Jahre und aktualisieren diese gegebenenfalls gemäß Artikel 50 Absatz 2a Satz 5 und 6 der Verordnung (EG) Nr. 1013/2006.
 
@@ -227,8 +213,7 @@ anderweitig entschieden hat oder haben und ihr ihre Entscheidung schriftlich ode
 
 2. führen die Länder das Einvernehmen mit den zuständigen Zollbehörden und dem Bundesamt für Güterverkehr herbei bezüglich der Inhalte der Kontrollpläne, die die Zollbehörden und das Bundesamt für Güterverkehr betreffen; die Generalzolldirektion und das Bundesamt für Güterverkehr teilen den Ländern hierfür die jeweiligen Kontaktstellen mit.
 
-
-## § 12 – Maßnahmen zur Überwachung
+# § 12 – Maßnahmen zur Überwachung
 
 (1) Insbesondere die zuständigen Behörden gemäß § 14 Abs. 1, 2 und 4 arbeiten bei der Verhinderung und Ermittlung illegaler Verbringungen untereinander sowie bilateral und multilateral mit den zuständigen Behörden anderer Staaten gemäß Artikel 50 Abs. 5 der Verordnung (EG) Nr. 1013/2006 zusammen.
 
@@ -250,13 +235,11 @@ anderweitig entschieden hat oder haben und ihr ihre Entscheidung schriftlich ode
 
 (5) Die zuständigen Behörden können zum Zwecke der Kontrolle und Durchsetzung die in Artikel 18 Abs. 1 der Verordnung (EG) Nr. 1013/2006 genannten Informationen über Verbringungen anfordern, die von Artikel 18, auch in Verbindung mit Artikel 37 Abs. 3, Artikel 38 Abs. 1, Artikel 40 Abs. 3, Artikel 42 Abs. 1, Artikel 44 Abs. 1, Artikel 45 oder Artikel 46 Abs. 1, der Verordnung (EG) Nr. 1013/2006 erfasst werden. Die Person, die die Verbringung veranlasst, der Empfänger und der Betreiber der Anlage, die die Abfälle erhält, haben der zuständigen Behörde auf Anforderung zu Zeitpunkten, die von der Behörde festgelegt sind, die in Satz 1 genannten Informationen zu übermitteln.
 
-
-## § 13 – Anordnungen im Einzelfall
+# § 13 – Anordnungen im Einzelfall
 
 Die zuständige Behörde kann im Einzelfall die erforderlichen Anordnungen zur Durchführung der Verordnung (EG) Nr. 1013/2006, anderer unmittelbar geltender Vorschriften in Rechtsakten der Europäischen Gemeinschaft über die Verbringung von Abfällen, dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen treffen. Sie kann insbesondere Anordnungen zur Erfüllung der Rücknahmeverpflichtung gemäß Artikel 22 oder 24, jeweils auch in Verbindung mit Artikel 35 Abs. 1, Artikel 37 Abs. 2 Unterabs. 2, Artikel 37 Abs. 3, Artikel 37 Abs. 5, Artikel 38 Abs. 1, Artikel 40 Abs. 3, Artikel 42 Abs. 1, Artikel 44 Abs. 1, Artikel 45 oder Artikel 46 Abs. 1 der Verordnung (EG) Nr. 1013/2006 und zur Sicherstellung gemäß Artikel 22 Abs. 9, Artikel 24 Abs. 7, Artikel 35 Abs. 6, auch in Verbindung mit Artikel 37 Abs. 2 Unterabs. 2 und Artikel 37 Abs. 5, Artikel 38 Abs. 7, Artikel 42 Abs. 5, auch in Verbindung mit Artikel 45, Artikel 47 und 48 Abs. 1, sowie Artikel 44 Abs. 5, auch in Verbindung mit Artikel 48 Abs. 2, der Verordnung (EG) Nr. 1013/2006 sowie gemäß § 11 Abs. 5 treffen.
 
-
-## § 14 – Zuständige Behörden
+# § 14 – Zuständige Behörden
 
 (1) Für Maßnahmen im Zusammenhang mit der Verbringung von Abfällen in das Bundesgebiet und der damit verbundenen Verwertung oder Beseitigung, einschließlich der Pflichten, die für die zuständige Behörde am Bestimmungsort gemäß Verordnung (EG) Nr. 1013/2006 gelten, ist die Behörde des Landes zuständig, in dem die Abfälle erstmals verwertet oder beseitigt werden sollen oder werden. Für Maßnahmen im Zusammenhang mit der Verbringung von Abfällen aus dem Bundesgebiet und der damit verbundenen Verwertung oder Beseitigung, einschließlich der Pflichten, die für die zuständige Behörde am Versandort gemäß Verordnung (EG) Nr. 1013/2006 gelten, ist die Behörde des Landes zuständig, in dem die Verbringung der Abfälle beginnen soll oder beginnt.
 
@@ -266,8 +249,7 @@ Die zuständige Behörde kann im Einzelfall die erforderlichen Anordnungen zur D
 
 (4) Für die Entscheidung über Abfallverbringungen, die durch das Bundesgebiet erfolgen sollen oder erfolgen, und die damit verbundene Verwertung oder Beseitigung, die dem Verfahren der vorherigen schriftlichen Notifizierung und Zustimmung unterliegen, ist das Umweltbundesamt zuständig. Das Umweltbundesamt ist auch für weitere Pflichten zuständig, die für die Behörden gelten, welche gemäß Verordnung (EG) Nr. 1013/2006 die für die Durchfuhr zuständigen Behörden sind.
 
-
-## § 15 – Anlaufstelle
+# § 15 – Anlaufstelle
 
 (1) Das Umweltbundesamt ist Anlaufstelle im Sinne des Artikels 5 Nr. 1 des Basler Übereinkommens und im Sinne des Artikels 54 der Verordnung (EG) Nr. 1013/2006.
 
@@ -277,20 +259,17 @@ Die zuständige Behörde kann im Einzelfall die erforderlichen Anordnungen zur D
 
 (4) Die Anlaufstelle unterrichtet die Kommission über die Benennungen und die diesbezüglichen Informationen gemäß Artikel 50 Abs. 6 und Artikel 56 Abs. 1 Buchstabe a und b in Verbindung mit Abs. 2 bis 4 der Verordnung (EG) Nr. 1013/2006.
 
-
-## § 16 – Berichte und Übermittlung von Informationen
+# § 16 – Berichte und Übermittlung von Informationen
 
 (1) Für die Übermittlung von Informationen nach Artikel 13 des Basler Übereinkommens an das Sekretariat des Basler Übereinkommens ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die nach Artikel 13 des Basler Übereinkommens erforderlich sind. Dazu gehören insbesondere die Informationen zur Fertigung des Berichts nach Artikel 13 Abs. 3 des Basler Übereinkommens, vor allem die Angaben im Notifizierungsformular. Das Umweltbundesamt übermittelt der Kommission eine Kopie dieses Berichts gemäß Artikel 51 Abs. 1 der Verordnung (EG) Nr. 1013/2006.
 
 (2) Für die Erstellung des Berichts gemäß Artikel 51 Abs. 2 Satz 1 der Verordnung (EG) Nr. 1013/2006 und die Übermittlung an die Kommission ist das Umweltbundesamt zuständig. Auf Anfrage übermitteln die Länder, die Generalzolldirektion und das Bundesamt für Güterverkehr dem Umweltbundesamt rechtzeitig auf elektronischem Weg die Informationen, die zur Fertigung dieses Berichts gemäß Anhang IX der Verordnung (EG) Nr. 1013/2006 erforderlich sind. Das Umweltbundesamt veröffentlicht den in Artikel 51 Absatz 2 Satz 2 der Verordnung (EG) Nr. 1013/2006 genannten Abschnitt dieses Berichts zusammen mit zweckmäßigen Erläuterungen dazu innerhalb eines Monats nach der Übermittlung dieses Berichts an die Kommission auf seiner Webseite.
 
-
-## § 17 – Zollstellen
+# § 17 – Zollstellen
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt im Einvernehmen mit der Generalzolldirektion gemäß Artikel 55 der Verordnung (EG) Nr. 1013/2006 die Zollstellen für die Bundesrepublik Deutschland bekannt, über die Abfälle beim Eingang oder beim Verlassen der Europäischen Gemeinschaft verbracht werden dürfen.
 
-
-## § 18 – Bußgeldvorschriften
+# § 18 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -308,8 +287,7 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt im E
 
 7. entgegen § 4 Abs. 6 eine Information oder Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-7a.  
-entgegen § 5 Absatz 1 Nummer 1 nicht sicherstellt, dass ein dort genanntes Dokument mitgeführt wird,
+7a. entgegen § 5 Absatz 1 Nummer 1 nicht sicherstellt, dass ein dort genanntes Dokument mitgeführt wird,
 
 8. entgegen § 5 Absatz 1 Nummer 2 oder Nummer 3 das dort genannte Dokument nicht, nicht richtig oder nicht vollständig mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
@@ -357,8 +335,7 @@ durchführt.
 
 (6) Soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, wird das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 18 geahndet werden können.
 
-
-## § 18a – Strafvorschriften im Fall illegaler Verbringungen gefährlicher Abfälle
+# § 18a – Strafvorschriften im Fall illegaler Verbringungen gefährlicher Abfälle
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer eine illegale Verbringung im Sinne des Artikels 2 Nummer 35
 
@@ -394,8 +371,7 @@ von gefährlichen Abfällen im Sinne des Artikels 3 Nummer 2 der Richtlinie 2008
 
 (10) Die Tat ist nicht nach den Absätzen 1 bis 8 strafbar, wenn die Handlung eine unerhebliche Menge von gefährlichen Abfällen betrifft.
 
-
-## § 18b – Strafvorschriften im Fall illegaler Verbringungen nicht gefährlicher Abfälle
+# § 18b – Strafvorschriften im Fall illegaler Verbringungen nicht gefährlicher Abfälle
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine illegale Verbringung im Sinne des Artikels 2 Nummer 35
 
@@ -431,15 +407,13 @@ von Abfällen im Sinne des Artikels 3 Nummer 1 der Richtlinie 2008/98/EG, die ke
 
 (10) Die Tat ist nicht nach den Absätzen 1 bis 8 strafbar, wenn die Handlung eine unerhebliche Menge von Abfällen betrifft.
 
-
-## § 18c – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+# § 18c – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
 
 (1) Verweisungen in § 18 Absatz 2, § 18a Absatz 1 und § 18b Absatz 1 dieses Gesetzes auf Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union beziehen sich auf die in dem Anhang zu dieser Vorschrift angegebenen Fassungen.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Fundstellenverzeichnis in dem Anhang zu dieser Vorschrift zu ändern.
 
-
-## § 19 – Einziehung
+# § 19 – Einziehung
 
 Ist eine Straftat nach § 18a oder § 18b oder eine Ordnungswidrigkeit nach § 18 Absatz 1 oder Absatz 2 begangen worden, so können
 
@@ -449,13 +423,11 @@ Ist eine Straftat nach § 18a oder § 18b oder eine Ordnungswidrigkeit nach § 1
 
 eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 20 – Bestimmungen zum Verwaltungsverfahren
+# § 20 – Bestimmungen zum Verwaltungsverfahren
 
 Von den in diesem Gesetz und auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.
 
-
-## Anhang – (zu § 18c)Fundstellenverzeichnis der Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+# Anhang – (zu § 18c)Fundstellenverzeichnis der Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
 
 1. Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1, L 318 vom 28.11.2008, S. 15, L 334 vom 13.12.2013, S. 46, L 277 vom 22.10.2015, S. 61), die zuletzt durch die Verordnung (EU) 2015/2002 (ABl. L 294 vom 11.11.2015, S. 1) geändert worden ist,
 

@@ -1,10 +1,7 @@
-# [TierSeuchErEinfV] Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern  (Tierseuchenerreger-Einfuhrverordnung)
-
-Ausfertigungsdatum: 07.12.1971
-
+% Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern  (Tierseuchenerreger-Einfuhrverordnung)
+% Ausfertigungsdatum: 07.12.1971
  
-
-## § 1
+# § 1
 
 Im Sinne dieser Verordnung sind
 
@@ -24,13 +21,11 @@ b) mindestens drei Jahre auf dem Gebiet der veterinärmedizinischen oder medizin
 
 Betriebe, in denen Sera, Impfstoffe oder diagnostische Mittel hergestellt oder Forschungen unter Verwendung von Tierseuchenerregern durchgeführt werden, sofern die baulichen und technischen Voraussetzungen für das Arbeiten mit Tierseuchenerregern gegeben sind und der Leiter oder der für diese Arbeiten verantwortliche Betriebsangehörige die Voraussetzungen der Nummer 2 Buchstabe a und b erfüllt.
 
-
-## § 1a
+# § 1a
 
 Das innergemeinschaftliche Verbringen aus anderen Mitgliedstaaten (Verbringen) und die Einfuhr von Tierseuchenerregern sind verboten.
 
-
-## § 2
+# § 2
 
 (1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft das Verbringen und die Einfuhr von Erregern  
 der Afrikanischen Pferdepest,  
@@ -54,8 +49,7 @@ genehmigen, soweit dies infolge der Entwicklung der Tierseuchenlage im Ausland o
 
 4. Desinfektion oder unschädliche Beseitigung des Verpackungsmaterials sowie aller Gegenstände, die Träger des Ansteckungsstoffes sind oder sein können.
 
-
-## § 3
+# § 3
 
 Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Einrichtungen und Betrieben für Forschungen oder zur Herstellung von Sera, Impfstoffen oder diagnostischen Mitteln das Verbringen und die Einfuhr der in Anlage 1 aufgeführten Tierseuchenerreger genehmigen, soweit hierfür ein Bedürfnis besteht und Belange der Seuchenbekämpfung nicht entgegenstehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen, insbesondere können folgende Auflagen angeordnet werden:
 
@@ -63,20 +57,17 @@ Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Ei
 
 2. die in § 2 Abs. 2 Satz 3 Nr. 2 bis 4 genannten Auflagen.
 
-
-## § 4
+# § 4
 
 Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Einrichtungen und Betrieben das Verbringen und die Einfuhr von Tierseuchenerregern, die nicht Erreger der in § 2 oder Anlage 1 aufgeführten Tierseuchen sind, genehmigen, soweit dafür ein Bedürfnis besteht. Die Genehmigung ist mit der Auflage zu verbinden, daß die Tierseuchenerreger nur an andere wissenschaftlich geleitete Einrichtungen oder Betriebe abgegeben werden dürfen, sofern es sich nicht um die gewerbliche Abgabe des daraus hergestellten Impfstoffes oder diagnostischen Mittels für serologische Zwecke handelt. Soweit es zum Schutz gegen Seuchenverschleppungen erforderlich ist, ist zusätzlich die Verwendung der Tierseuchenerreger zu beschränken.
 
-
-## § 4a
+# § 4a
 
 (1) Das Verbringen und die Einfuhr von Impfstoffen und Antigenpräparationen, die Tierseuchenerreger enthalten, sind verboten.
 
 (2) Absatz 1 gilt nicht für Impfstoffe und Antigenpräparationen, die der zuständigen Bundesoberbehörde zum Zwecke der Zulassung oder der Chargenprüfung übersandt werden.
 
-
-## § 5
+# § 5
 
 (1) Die zuständigen obersten Landesbehörden können im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft das Verbringen und die Einfuhr von Impfstoffen und Antigenpräparationen, die Erreger der in § 2 Abs. 1 aufgeführten Tierseuchen oder serologisch mit diesen verwandte Tierseuchenerreger enthalten, für Zwecke der staatlichen Tierseuchenbekämpfung im Einzelfall genehmigen, sofern infolge der Entwicklung der Tierseuchenlage im Ausland oder des Auftretens einer in § 2 Abs. 1 genannten Tierseuche im Inland zum Schutz der einheimischen Nutztierbestände eine Bevorratung mit derartigen Impfstoffen und Antigenpräparationen oder eine Anwendung derartiger Impfstoffe oder Antigenpräparationen erforderlich ist. Dies gilt nicht, soweit Impfstoffe oder Antigenpräparationen mit ausreichender Wirksamkeit, die keine Tierseuchenerreger enthalten, zur Verfügung stehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen. In diesen sind insbesondere vorzusehen:
 
@@ -100,8 +91,7 @@ Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Ei
 
 5. dem Ergebnis einer vorherigen Prüfung des zur Herstellung des Impfstoffes verwendeten Erregerstammes und des Impfstoffes in einem von der Genehmigungsbehörde bestimmten Institut.
 
-
-## § 6
+# § 6
 
 (1) Die zuständigen obersten Landesbehörden können für Schutzimpfungen gegen die in Anlage 2 aufgeführten Tierseuchen das Verbringen und die Einfuhr von Impfstoffen, die Tierseuchenerreger enthalten, genehmigen, sofern nach Art und Zusammensetzung des Impfstoffes seiner Verwendung im Inland Belange der Seuchenbekämpfung nicht entgegenstehen. Die Genehmigung ist mit den erforderlichen Nebenbestimmungen zu versehen, insbesondere hinsichtlich Art und Eigenschaft des zur Herstellung des Impfstoffes verwendeten Erregerstammes.
 
@@ -113,8 +103,7 @@ Die zuständigen obersten Landesbehörden können wissenschaftlich geleiteten Ei
 
 Die Genehmigungen sind mit der Auflage zu versehen, daß die Antigenpräparation nur an andere wissenschaftlich geleitete Einrichtungen oder Betriebe abgegeben werden darf.
 
-
-## § 7
+# § 7
 
 Die zuständigen obersten Landesbehörden können im Benehmen mit dem Bundesministerium für Ernährung und Landwirtschaft abweichend von den §§ 5 und 6 das Verbringen und die Einfuhr von Impfstoffen, die Tierseuchenerreger enthalten, im Einzelfall genehmigen
 
@@ -132,8 +121,7 @@ im Ausland hergestellten Impfstoffen, für die ein späterer Einsatz in der Bund
 
 Die Genehmigung kann mit Nebenbestimmungen versehen werden; § 5 Abs. 1 Satz 3 und 4 und Abs. 2 gilt entsprechend.
 
-
-## § 8
+# § 8
 
 Nach § 31 Absatz 1 Nummer 2, Absatz 3 bis 5 des Tiergesundheitsgesetzes wird bestraft, wer vorsätzlich oder fahrlässig
 
@@ -141,13 +129,11 @@ Nach § 31 Absatz 1 Nummer 2, Absatz 3 bis 5 des Tiergesundheitsgesetzes wird be
 
 2. einer vollziehbaren Auflage nach § 2 Absatz 2 Satz 3, § 3 Satz 2, § 4 Satz 2, § 5 Absatz 1 Satz 3, § 6 Absatz 1 Satz 2 oder Absatz 2 Satz 2 oder § 7 Satz 2 erster Halbsatz zuwiderhandelt.
 
-
-## § 9
+# § 9
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu den §§ 3 und 4)
+# Anlage 1 – (zu den §§ 3 und 4)
 
  
 
@@ -583,8 +569,7 @@ Besnoitia besnoiti
 
 Besnoitose
 
-
-## Anlage 2 – (zu § 6)
+# Anlage 2 – (zu § 6)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2227;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -593,28 +578,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 2. Aviäre Encephalomyelitis
 
-2a.  
-Aviäre Rhinotracheitis
+2a. Aviäre Rhinotracheitis
 
 3. Enzootische Bronchopneumonie der Rinder
 
-3a.  
-Feline Bronchopneumonie
+3a. Feline Bronchopneumonie
 
-3b.  
-Feline Peritonitis und Pleuritis
+3b. Feline Peritonitis und Pleuritis
 
 4. Geflügelpocken
 
 5. Gumboro-Krankheit
 
-5a.  
-Hämorrhagische Enteritis der Puten
+5a. Hämorrhagische Enteritis der Puten
 
 6. Hepatitis contagiosa canis (Rubarthsche Krankheit)
 
-6a.  
-Ileitis der Schweine
+6a. Ileitis der Schweine
 
 7. Infektiöse Bovine Rhinotracheitis (IBR)
 
@@ -626,8 +606,7 @@ und Infektiöse Pustulöse Vulvovaginitis (IPV)
 
 10. Infektiöse Laryngotracheitis des Geflügels (ILT)
 
-10a.  
-(weggefallen)
+10a. (weggefallen)
 
 11. Katzenschnupfen
 
@@ -635,15 +614,13 @@ und Infektiöse Pustulöse Vulvovaginitis (IPV)
 
 13. Klassische Schweinepest
 
-13a.  
-Kokzidiose des Geflügels
+13a. Kokzidiose des Geflügels
 
 14. Lungenwurmseuche
 
 15. Mareksche Geflügellähmung
 
-15a.  
-Microsporie
+15a. Microsporie
 
 16. Milzbrand
 
@@ -657,11 +634,9 @@ Microsporie
 
 21. Parvovirose der Hunde
 
-21a.  
-Reovirus-Infektion des Geflügels
+21a. Reovirus-Infektion des Geflügels
 
-21b.  
-Reproduktive und respiratorische Erkrankung der Schweine (PRRS)
+21b. Reproduktive und respiratorische Erkrankung der Schweine (PRRS)
 
 22. Rota-Corona-Infektion der Kälber
 

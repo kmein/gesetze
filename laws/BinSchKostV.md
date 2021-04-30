@@ -1,15 +1,11 @@
-# [BinSchKostV] Kostenverordnung der Wasserstraßen- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt  (Binnenschifffahrtskostenverordnung - BinSchKostV)
-
-Ausfertigungsdatum: 21.12.2001
-
+% Kostenverordnung der Wasserstraßen- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt  (Binnenschifffahrtskostenverordnung - BinSchKostV)
+% Ausfertigungsdatum: 21.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 2 Satz 1 des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 5. Juli 2001 (BGBl. I S. 2026) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes erheben für individuell zurechenbare öffentliche Leistungen auf dem Gebiet der Binnenschifffahrt Gebühren und Auslagen.
 
@@ -21,38 +17,31 @@ Auf Grund des § 4 Abs. 2 Satz 1 des Binnenschifffahrtsaufgabengesetzes in der F
 
 (5) Zulassungsgebühren nach den Nummern 1011, 1012 und 1013 des als Anlage beigefügten Gebührenverzeichnisses werden in voller Höhe erhoben, wenn die Prüfung aus Gründen, die der Prüfling zu vertreten hat, nicht durchgeführt werden kann.
 
-
-## § 2 – Gebührenfreiheit, Gebührenermäßigung
+# § 2 – Gebührenfreiheit, Gebührenermäßigung
 
 Wird ein Antrag ausschließlich wegen Unzuständigkeit einer Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes abgelehnt, so wird keine Gebühr erhoben.
 
-
-## § 3 – Zurückbehaltungsrecht an Urkunden
+# § 3 – Zurückbehaltungsrecht an Urkunden
 
 Urkunden, die im Zusammenhang mit gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen erteilt werden, können bis zur Zahlung der Gebühren und Auslagen zurückbehalten oder an den Gebührenschuldner auf dessen Kosten unter Postnachnahme übersandt werden.
 
-
-## § 4 – Doppelte Gebühr
+# § 4 – Doppelte Gebühr
 
 Erfordert die individuell zurechenbare öffentliche Leistung ein Tätigwerden der Behörde außerhalb der Dienstzeit, so kann die doppelte Gebühr erhoben werden.
 
-
-## § 5 – Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
+# § 5 – Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
 
 Für eine von einer Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes von Amts wegen angeordnete Untersuchung eines Wasserfahrzeugs werden Gebühren und Auslagen nur erhoben, wenn die Schiffsuntersuchungskommission die Anordnung als begründet anerkennt. Für eine von Amts wegen angeordnete Nachprüfung der Angaben eines von einem Schiffseichamt der Bundesrepublik Deutschland ausgestellten Eichscheins werden Gebühren und Auslagen nur erhoben, wenn sich die Annahme bestätigt, dass die Angaben nicht mehr zutreffen.
 
-
-## § 6 – Zuschlag bei Wartezeiten
+# § 6 – Zuschlag bei Wartezeiten
 
 Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur Untersuchung bereitsteht, kann dem Gebührenschuldner je angefangene Wartestunde und je beteiligtem Angehörigen der Schiffsuntersuchungskommission ein Zuschlag von 50 Euro auferlegt werden. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-
-## Anlage – (zu § 1 Abs. 2)Gebührenverzeichnis
+# Anlage – (zu § 1 Abs. 2)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 4220 - 4233;  
 bzgl. einzelner Änderungen vgl. Fußnote)

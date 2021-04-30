@@ -1,22 +1,17 @@
-# [ZAGAnzV] Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz   (ZAG-Anzeigenverordnung - ZAGAnzV)
-
-Ausfertigungsdatum: 15.10.2009
-
+% Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz   (ZAG-Anzeigenverordnung - ZAGAnzV)
+% Ausfertigungsdatum: 15.10.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Absatz 2 Satz 1 und 3 sowie des § 29 Absatz 2 Satz 1 und 3 des Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506) verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank nach Anhörung der Verbände der Zahlungsinstitute:
 
-
-## § 1 – Einreichungsverfahren
+# § 1 – Einreichungsverfahren
 
 (1) Die Anzeigen und die Unterlagen, die nach dem Zahlungsdiensteaufsichtsgesetz zu erstatten oder vorzulegen sind, sind vorbehaltlich abweichender Bestimmungen jeweils in einfacher Ausfertigung der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) und der für das Institut zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen.
 
 (2) Unterlagen und Erklärungen, die nicht in deutscher Sprache verfasst sind, sind in amtlich beglaubigter Übersetzung einzureichen. Die Bundesanstalt kann im Einzelfall auf amtlich beglaubigte Übersetzungen verzichten.
 
-
-## § 2 – Unterlagen nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Erlaubnis)
+# § 2 – Unterlagen nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Erlaubnis)
 
 (1) Erlaubnisanträge einschließlich der nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes erforderlichen Angaben und Nachweise sind der Bundesanstalt in zweifacher Ausfertigung einzureichen.
 
@@ -62,15 +57,13 @@ Auf Grund des § 11 Absatz 2 Satz 1 und 3 sowie des § 29 Absatz 2 Satz 1 und 3 
 
 (18) Die Vorgaben der Absätze 4, 7 bis 13, 15 und 17 sind nach § 11 Absatz 2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes entsprechend anzuwenden auf Erlaubnisanträge nach § 11 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes.
 
-
-## § 3 – Mitteilungen nach § 10 Absatz 5 und § 11 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
+# § 3 – Mitteilungen nach § 10 Absatz 5 und § 11 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
 
 (1) Den Mitteilungen nach § 10 Absatz 5 und § 11 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes sind im Falle der Änderung von gemäß § 10 Absatz 2 oder § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes eingereichten Unterlagen die geänderten Unterlagen beizufügen.
 
 (2) Für das Einreichungsverfahren gilt § 1 Absatz 1.
 
-
-## § 4 – Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Erwerb oder Erhöhung einer bedeutenden Beteiligung)
+# § 4 – Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Erwerb oder Erhöhung einer bedeutenden Beteiligung)
 
 (1) Auf die Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes sind § 2 Absatz 1 und 3 sowie die §§ 3 bis 5 und 7 bis 16 der Inhaberkontrollverordnung mit der Maßgabe anzuwenden, dass an die Stelle der dort genannten Zielunternehmen das Institut tritt.
 
@@ -86,8 +79,7 @@ ist mit dem Formular „Erwerb-Erhöhung“ der Anlage 1 dieser Verordnung anzuz
 
 (4) Der Inhaber einer bedeutenden Beteiligung hat jeden neu bestellten gesetzlichen oder satzungsmäßigen Vertreter oder neuen persönlich haftenden Gesellschafter mit den für die Beurteilung von dessen Zuverlässigkeit wesentlichen Tatsachen entsprechend des § 18 der Inhaberkontrollverordnung anzuzeigen. Das Ausscheiden eines gesetzlichen oder satzungsmäßigen Vertreters oder eines persönlich haftenden Gesellschafters ist ebenfalls anzuzeigen.
 
-
-## § 5 – Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Verringerung oder Aufgabe einer bedeutenden Beteiligung)
+# § 5 – Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Verringerung oder Aufgabe einer bedeutenden Beteiligung)
 
 (1) Die Absicht
 
@@ -101,25 +93,21 @@ ist mit dem Formular „Aufgabe-Verringerung“ der Anlage 3 dieser Verordnung a
 
 (3) Für alle Absichtsanzeigen nach Absatz 1 gilt § 16 Absatz 3 der Inhaberkontrollverordnung entsprechend.
 
-
-## § 6 – Vorlage von Unterlagen nach § 22 des Zahlungsdiensteaufsichtsgesetzes (Jahresabschluss, Lagebericht, Prüfungsbericht)
+# § 6 – Vorlage von Unterlagen nach § 22 des Zahlungsdiensteaufsichtsgesetzes (Jahresabschluss, Lagebericht, Prüfungsbericht)
 
 Wird der Jahresabschluss ohne Änderungen festgestellt, so genügt die Mitteilung hierüber mit dem Datum des Tages der Feststellung; die Einreichung des festgestellten Jahresabschlusses ist in diesem Fall nicht erforderlich.
 
-
-## § 7 – Angaben nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes (Inanspruchnahme von Agenten)
+# § 7 – Angaben nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes (Inanspruchnahme von Agenten)
 
 (1) Der Absichtsanzeige nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes hat das Institut als Nachweise der Zuverlässigkeit und fachlichen Eignung im Sinne des § 25 Absatz 1 Nummer 3 des Zahlungsdiensteaufsichtsgesetzes die Nachweise gemäß § 1 Absatz 1 Satz 1 Nummer 1, 2, 4, 6, 7, 9 und 10 der Agentennachweisverordnung und die Vereinbarung gemäß § 2 Absatz 1 der Agentennachweisverordnung beizufügen. Das Institut hat schriftlich zu versichern, dass es die gemäß § 1 der Agentennachweisverordnung erforderlichen Nachweise über die Zuverlässigkeit und fachliche Eignung der Geschäftsleiter und der für die Geschäftsleitung verantwortlichen Personen vollständig eingeholt hat und von der Zuverlässigkeit und fachlichen Eignung dieser Personen überzeugt ist. Die Bundesanstalt kann die Einreichung weiterer Nachweise verlangen.
 
 (2) Änderungen der nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes angezeigten Verhältnisse hat das Institut spätestens einen Monat vor Wirksamwerden der Änderungen anzuzeigen.
 
-
-## § 8 – Anzeigen nach § 26 Absatz 2 und § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Auslagerung)
+# § 8 – Anzeigen nach § 26 Absatz 2 und § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Auslagerung)
 
 In einer Anzeige nach § 26 Absatz 2 Satz 1 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes sind die beabsichtigten Vorkehrungen gemäß § 26 Absatz 1 Satz 1 des Zahlungsdiensteaufsichtsgesetzes zu beschreiben und Entwürfe der Auslagerungsverträge gemäß § 26 Absatz 1 Satz 6 des Zahlungsdiensteaufsichtsgesetzes einzureichen. Die Namen und Anschriften der Auslagerungsunternehmen sind anzugeben. Mit der Vollzugsanzeige nach § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes ist der geschlossene Vertrag in Kopie einzureichen.
 
-
-## § 9 – Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)
+# § 9 – Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)
 
 (1) Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes sind für jeden Mitgliedstaat der Europäischen Union und jeden anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gesondert einzureichen. Den Anzeigen nach Satz 1 an die Bundesanstalt ist eine Übersetzung in eine von dem Aufnahmestaat anerkannte Sprache beizufügen, sofern der Aufnahmestaat keine deutschsprachige Fassung akzeptiert. Die Sätze 1 und 2 gelten auch im Fall der Änderung der nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes angezeigten Verhältnisse.
 
@@ -137,8 +125,7 @@ verwiesen.
 
 (4) Zu den Einzelheiten einer Anzeige nach § 38 Absatz 6 Satz 2 des Zahlungsdiensteaufsichtsgesetzes über die Aufnahme der Tätigkeit in dem Aufnahmemitgliedstaat beizufügenden Angaben und Unterlagen wird auf Artikel 3 Absatz 1 bis 3 in Verbindung mit Anhang VI der Delegierten Verordnung (EU) 2017/2055 verwiesen.
 
-
-## § 10 – Anzeigen nach § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes (Bestellung eines Geschäftsleiters)
+# § 10 – Anzeigen nach § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes (Bestellung eines Geschäftsleiters)
 
 (1) Der Absichtsanzeige nach § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes ist eine eigenhändig unterzeichnete Erklärung der in § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes genannten Person gemäß dem Formular der Anlage 4 dieser Verordnung beizufügen, in der die Person anzugeben hat, ob
 
@@ -164,13 +151,11 @@ Die angegebenen Verfahren und Sanktionen sind zu erläutern. Amtlich beglaubigte
 
 (6) Auf Verlangen der Bundesanstalt sind weitere Auskünfte zu erteilen und Unterlagen, insbesondere Arbeitszeugnisse, die die im Lebenslauf angegebenen Tätigkeiten belegen, vorzulegen.
 
-
-## § 10a – Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes (Ausscheiden eines Geschäftsleiters sowie Entziehung der Befugnis zur Einzelvertretung)
+# § 10a – Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes (Ausscheiden eines Geschäftsleiters sowie Entziehung der Befugnis zur Einzelvertretung)
 
 Den Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes ist eine Erklärung über den Zeitpunkt des Wirksamwerdens und den Grund des Ausscheidens des Geschäftsleiters bzw. der Entziehung der Befugnis zur Einzelvertretung beizufügen.
 
-
-## § 11 – Anzeigen nach § 28 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes (Bedeutende Beteiligung am eigenen Institut und passivische enge Verbindungen)
+# § 11 – Anzeigen nach § 28 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes (Bedeutende Beteiligung am eigenen Institut und passivische enge Verbindungen)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 28 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes sind mit dem Formular „Passivische Beteiligungsanzeige“ der Anlage 7 dieser Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -190,8 +175,7 @@ Den Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes i
 
 (5) Die Einzelanzeigen und Sammelanzeigen sollen im papierlosen Verfahren der Deutschen Bundesbank eingereicht werden. Die Deutsche Bundesbank veröffentlicht auf ihrer Internetseite die für eine Dateneinreichung im Wege der Datenfernübertragung zu verwendenden Satzformate und den Einreichungsweg. Sie hat die bei ihr eingereichten Anzeigen an die Bundesanstalt weiterzuleiten. Bei papiergebundener Einreichung gilt § 1.
 
-
-## § 12 – Anzeigen nach § 28 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes (aktivische enge Verbindungen)
+# § 12 – Anzeigen nach § 28 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes (aktivische enge Verbindungen)
 
 (1) Einzelanzeigen von Instituten über aktivische enge Verbindungen nach § 28 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes sind mit dem Formular „Aktivische Beteiligungsanzeige“ der Anlage 8 dieser Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -211,84 +195,71 @@ Den Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes i
 
 (5) § 11 Absatz 3 und 5 gilt entsprechend.
 
-
-## § 13 – Anzeigen nach § 28 Absatz 1 Nummer 9 des Zahlungsdiensteaufsichtsgesetzes (Vereinigung von Instituten)
+# § 13 – Anzeigen nach § 28 Absatz 1 Nummer 9 des Zahlungsdiensteaufsichtsgesetzes (Vereinigung von Instituten)
 
 Die Absicht von Instituten, sich zu vereinigen, ist von den beteiligten Instituten nach § 28 Absatz 1 Nummer 9 des Zahlungsdiensteaufsichtsgesetzes anzuzeigen, sobald auf Grund der geführten Verhandlungen anzunehmen ist, dass die Vereinigung zustande kommen wird. Das Scheitern der Fusionsverhandlungen ist unverzüglich mitzuteilen. Gleiches gilt bei erfolgreichen Fusionsverhandlungen für den rechtlichen Vollzug der Vereinigung.
 
-
-## § 14 – Anzeigen nach § 28 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Änderung der Sicherung der Geldbeträge und der Absicherung für den Haftungsfall)
+# § 14 – Anzeigen nach § 28 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Änderung der Sicherung der Geldbeträge und der Absicherung für den Haftungsfall)
 
 Den Anzeigen nach § 28 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes ist eine Beschreibung der wesentlichen Änderungen bei der Sicherung der Geldbeträge bzw. der Absicherung für den Haftungsfall einschließlich der Entwürfe der künftig geltenden Verträge beizufügen sowie das beabsichtigte Datum des Inkrafttretens der Änderung.
 
-
-## § 15 – Anzeigen nach § 28 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes (Nebentätigkeiten und Beteiligungen)
+# § 15 – Anzeigen nach § 28 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes (Nebentätigkeiten und Beteiligungen)
 
 (1) Den Anzeigen nach § 28 Absatz 3 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes sind Angaben über das Unternehmen, für das die Tätigkeit ausgeübt wird, über den Beginn und die Beendigung der Tätigkeit, über die Art der Tätigkeit, und über die zeitliche Beanspruchung für die Tätigkeit beizufügen. Für die Angaben ist das Formular gemäß Anlage 5 dieser Verordnung zu verwenden.
 
 (2) Den Anzeigen nach § 28 Absatz 3 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes sind Angaben über die Übernahme, die Veränderung der Höhe, die Aufgabe einer Beteiligung, über das Unternehmen an dem die Beteiligung besteht, und über die Beteiligungsquote beizufügen. Für die Angaben ist das Formular gemäß Anlage 6 dieser Verordnung zu verwenden.
 
-
-## § 16 – Unterlagen nach § 34 Absatz 1 Satz 2 bis 7 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Registrierung) und Mitteilungen nach § 34 Absatz 5 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
+# § 16 – Unterlagen nach § 34 Absatz 1 Satz 2 bis 7 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Registrierung) und Mitteilungen nach § 34 Absatz 5 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)
 
 Auf Registrierungsanträge nach § 34 Absatz 1 Satz 2 bis 7 des Zahlungsdiensteaufsichtsgesetzes findet § 2 Absatz 1, 2 Satz 1, Absatz 3 und 4, 5 Satz 3, Absatz 7 bis 10, 12, 14, 16 und 17 dieser Verordnung und auf Mitteilungen der Änderung der tatsächlichen oder rechtlichen Verhältnisse nach § 34 Absatz 5 des Zahlungsdiensteaufsichtsgesetzes findet § 3 dieser Verordnung entsprechende Anwendung.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 2 Satz 1)
+# Anlage 1 – (zu § 4 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2018, 2285 - 2299)
 
 <a href="../normengrafiken/bgbl1_2018/j2285_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 4 Absatz 2 Satz 2, § 5 Absatz 1 Satz 2, § 11 Absatz 4 Satz 3 und § 12 Absatz 3 Satz 2)
+# Anlage 2 – (zu § 4 Absatz 2 Satz 2, § 5 Absatz 1 Satz 2, § 11 Absatz 4 Satz 3 und § 12 Absatz 3 Satz 2)
 
 (Fundstelle: BGBl. I 2018, 2300 - 2301)
 
 <a href="../normengrafiken/bgbl1_2018/j2300_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 5 Absatz 1 Satz 1)
+# Anlage 3 – (zu § 5 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2018, 2302 - 2311)
 
 <a href="../normengrafiken/bgbl1_2018/j2302_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 4 – (zu § 10 Absatz 1 Satz 1)
+# Anlage 4 – (zu § 10 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2018, 2312 - 2317)
 
 <a href="../normengrafiken/bgbl1_2018/j2312_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – (zu § 10 Absatz 2 Satz 3)Nebentätigkeiten von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
+# Anlage 5 – (zu § 10 Absatz 2 Satz 3)Nebentätigkeiten von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
 
 (Fundstelle: BGBl. I 2018, 2318 - 2319)
 
 <a href="../normengrafiken/bgbl1_2018/j2318_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 6 – (zu § 10 Absatz 2 Satz 5)Beteiligungen von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
+# Anlage 6 – (zu § 10 Absatz 2 Satz 5)Beteiligungen von Geschäftsleitern, den für die Geschäftsleitung des Instituts verantwortlichen Personen und soweit es sich um Unternehmen handelt, die neben der Erbringung von Zahlungsdiensten oder dem E-Geld-Geschäft anderen Geschäftsaktivitäten nachgehen, den für die Führung der Zahlungsdienstgeschäfte oder dem E-Geld-Geschäft des Instituts verantwortlichen Personen
 
 (Fundstelle: BGBl. I 2018, 2320 - 2322)
 
 <a href="../normengrafiken/bgbl1_2018/j2320_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 7 – (zu § 11 Absatz 1 und 2)Passivische Beteiligungsanzeige
+# Anlage 7 – (zu § 11 Absatz 1 und 2)Passivische Beteiligungsanzeige
 
 (Fundstelle: BGBl. I 2018, 2323 - 2325)
 
 <a href="../normengrafiken/bgbl1_2018/j2323_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 8 – (zu § 12 Absatz 1 und 2)Aktivische Beteiligungsanzeige
+# Anlage 8 – (zu § 12 Absatz 1 und 2)Aktivische Beteiligungsanzeige
 
 (Fundstelle: BGBl. I 2018, 2326 - 2328)
 

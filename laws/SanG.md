@@ -1,10 +1,7 @@
-# [SanG] Sanierungshilfengesetz  (SanG)
-
-Ausfertigungsdatum: 14.08.2017
-
+% Sanierungshilfengesetz  (SanG)
+% Ausfertigungsdatum: 14.08.2017
  
-
-## § 1 – Sanierungshilfen
+# § 1 – Sanierungshilfen
 
 (1) Als Hilfe zur künftig eigenständigen Einhaltung der Vorgaben des Artikels 109 Absatz 3 des Grundgesetzes erhalten die Länder Bremen und Saarland nach Maßgabe dieses Gesetzes ab dem 1. Januar 2020 Sanierungshilfen aus dem Bundeshaushalt in Höhe von insgesamt 800 Millionen Euro jährlich.
 
@@ -20,8 +17,7 @@ Saarland
 
 (4) Die gleichzeitige Gewährung von Sanierungshilfen nach diesem Gesetz und Sanierungshilfen aufgrund einer extremen Haushaltsnotlage ist ausgeschlossen.
 
-
-## § 2 – Sanierungsverpflichtungen
+# § 2 – Sanierungsverpflichtungen
 
 (1) Die in § 1 Absatz 1 genannten Länder verpflichten sich mit den Sanierungshilfen dazu, die Vorgaben des Artikels 109 Absatz 3 einzuhalten. Darüber hinaus haben sie geeignete Maßnahmen zur künftig eigenständigen Einhaltung dieser Vorgaben zu ergreifen. Dazu gehören der Abbau der übermäßigen Verschuldung sowie Maßnahmen zur Stärkung der Wirtschafts- und Finanzkraft.
 
@@ -31,12 +27,10 @@ Saarland
 
 (4) Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium der Finanzen, ob eine Tilgung gemäß Absatz 2 Satz 3 geleistet wurde. In begründeten Ausnahmefällen kann festgestellt werden, dass eine Unterschreitung der erforderlichen Tilgung unbeachtlich ist. Die Entscheidung des Bundesministeriums der Finanzen ergeht bis zum 1. Juni des Folgejahres. Wird die nach Absatz 2 Satz 3 erforderliche Tilgung nicht festgestellt und liegt zudem kein begründeter Ausnahmefall vor, wird die in den fünf Folgejahren jährlich zu erzielende Tilgung nach Absatz 2 Satz 2 um ein Fünftel des Differenzbetrags zwischen erforderlicher Tilgung und tatsächlich geleisteter Tilgung erhöht.
 
-
-## § 3 – Finanzierung
+# § 3 – Finanzierung
 
 Die sich aus der Gewährung der Sanierungshilfen ergebende Finanzierungslast wird vom Bund getragen.
 
-
-## § 4 – Verwaltungsvereinbarung
+# § 4 – Verwaltungsvereinbarung
 
 Die Auszahlung der Sanierungshilfen erfolgt auf der Grundlage einer Verwaltungsvereinbarung, die das Nähere nach Maßgabe dieses Gesetzes regelt.

@@ -1,15 +1,11 @@
-# [AtZüV] Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe nach dem Atomgesetz  (Atomrechtliche Zuverlässigkeitsüberprüfungs-Verordnung - AtZüV)
-
-Ausfertigungsdatum: 01.07.1999
-
+% Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen Entwendung oder Freisetzung radioaktiver Stoffe nach dem Atomgesetz  (Atomrechtliche Zuverlässigkeitsüberprüfungs-Verordnung - AtZüV)
+% Ausfertigungsdatum: 01.07.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Satz 1 Nr. 10 und 11 und des § 12b Abs. 2 in Verbindung mit Abs. 1, jeweils in Verbindung mit § 54 Abs. 1 Satz 1 und Abs. 2 Satz 1 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), von denen § 12 Abs. 1 Satz 1 Nr. 10 durch Artikel 2 Nr. 3 des Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830) neugefaßt und durch Artikel 1 Nr. 11 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) geändert, § 12b Abs. 2 durch Artikel 2 Nr. 4 des Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830) eingefügt und § 54 Abs. 1 Satz 1 zuletzt durch Artikel 1 Nr. 21 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) geändert worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich; Begriffsbestimmungen
+# § 1 – Anwendungsbereich; Begriffsbestimmungen
 
 (1) Die Überprüfung der Zuverlässigkeit einer Person erfolgt nach Maßgabe des § 12b des Atomgesetzes in Verbindung mit dieser Verordnung.
 
@@ -33,8 +29,7 @@ Bereich mit sicherheitstechnisch bedeutsamen Systemen oder Komponenten oder mit 
 
 Bereich, der den inneren Sicherungsbereich umschließt und der nach außen durch Zutrittshindernisse und technische Detektionseinrichtungen begrenzt wird.
 
-
-## § 2 – Kategorien der Zuverlässigkeitsüberprüfung
+# § 2 – Kategorien der Zuverlässigkeitsüberprüfung
 
 Dem Umfang der Zugangsberechtigung oder der Verantwortung entsprechend wird nach Maßgabe des § 5
 
@@ -46,8 +41,7 @@ Dem Umfang der Zugangsberechtigung oder der Verantwortung entsprechend wird nach
 
 durchgeführt.
 
-
-## § 3 – Zuverlässigkeitsüberprüfungen
+# § 3 – Zuverlässigkeitsüberprüfungen
 
 (1) ¹Eine umfassende Zuverlässigkeitsüberprüfung ist bei folgenden Personen durchzuführen:
 
@@ -71,11 +65,9 @@ durchgeführt.
 
 (5) Bei Personen, die den in den Absätzen 1 bis 3 genannten Personenkreisen nicht eindeutig zugeordnet werden können, sowie bei Personen, die zu Anlagen oder Einrichtungen Zutritt erhalten sollen, die nicht in einen inneren und äußeren Sicherungsbereich unterteilt sind, ist über die Zuordnung zu entscheiden unter Berücksichtigung der Art der Anlage, insbesondere der Art und Menge der darin vorhandenen radioaktiven Stoffe, sowie der Art der Tätigkeit, des Umfangs der Zutrittsberechtigung und der Verantwortung einer Person; bei der Beförderung radioaktiver Stoffe sind zusätzlich Verpackung und Transportmittel zu berücksichtigen.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## § 5 – Maßnahmen bei den einzelnen Überprüfungsarten
+# § 5 – Maßnahmen bei den einzelnen Überprüfungsarten
 
 (1) Bei der umfassenden Zuverlässigkeitsüberprüfung nach § 3 Absatz 1 trifft die zuständige Behörde folgende Maßnahmen:
 
@@ -125,8 +117,7 @@ durchgeführt.
 
 (6) Bei tatsächlichen Anhaltspunkten für Zweifel an der Zuverlässigkeit des Betroffenen kann die zuständige Behörde zusätzlich Maßnahmen nach § 12b Absatz 4 des Atomgesetzes durchführen.
 
-
-## § 6 – Verfahren
+# § 6 – Verfahren
 
 (1) ¹Die Zuverlässigkeit des Betroffenen ist vor der Aufnahme der vorgesehenen Tätigkeit oder vor dem Zutritt zu der Anlage oder Einrichtung auf Antrag durch die zuständige Behörde zu überprüfen. ²Antragsberechtigt sind Antragsteller in Genehmigungs- oder Planfeststellungsverfahren oder Genehmigungsinhaber in Aufsichtsverfahren, die sich auf Anlagen oder Tätigkeiten nach den §§ 4, 6, 7, 9 oder § 9a Absatz 3 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1 bis 3 oder § 27 des Strahlenschutzgesetzes beziehen. ³Überträgt der Inhaber einer Genehmigung nach § 4 des Atomgesetzes oder einer Genehmigung zur Beförderung von Großquellen im Sinne des § 23d Satz 3 des Atomgesetzes einem Dritten Aufgaben, die in der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind, ist auch der Dritte antragsberechtigt. ⁴Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4 des Atomgesetzes wird die Überprüfung der Zuverlässigkeit des Betroffenen durch die zuziehende Behörde veranlaßt.
 
@@ -150,8 +141,7 @@ durchgeführt.
 
 (5) Die zuständige Behörde gibt für die Belehrung des Betroffenen, insbesondere über Anfragen nach dem Bundeszentralregistergesetz, sowie für den Erklärungsbogen ein amtliches Formular bekannt.
 
-
-## § 7 – Abschluß der Zuverlässigkeitsüberprüfung
+# § 7 – Abschluß der Zuverlässigkeitsüberprüfung
 
 (1) ¹Die zuständige Behörde bewertet die übermittelten Erkenntnisse auf Grund einer am Zweck des § 12b Abs. 1 Satz 1 des Atomgesetzes orientierten Gesamtwürdigung des Einzelfalles, insbesondere im Hinblick auf die vorgesehene Tätigkeit. ²Für die Bewertung werden die Erkenntnisse über Sachverhalte herangezogen, die sich zugetragen haben
 
@@ -197,8 +187,7 @@ durchgeführt.
 
 (7) Werden dem Antragsberechtigten Änderungen des Namens oder der Staatsangehörigkeit einer Person bekannt, deren Zuverlässigkeit nach Absatz 4 festgestellt wurde, teilt er die Änderungen der zuständigen Behörde mit; diese unterrichtet die nach § 12b Absatz 7 Satz 1 des Atomgesetzes zum Nachbericht verpflichteten Behörden.
 
-
-## § 8 – Geltungsdauer; Wiederholungsüberprüfung
+# § 8 – Geltungsdauer; Wiederholungsüberprüfung
 
 (1) ¹Entscheidet die zuständige Behörde gemäß § 7 Abs. 4, so gilt die Zuverlässigkeitsüberprüfung fünf Jahre; im Einzelfall kann die zuständige Behörde eine kürzere Geltungsdauer festlegen. ²Die Geltungsdauer beginnt mit dem Tag der Entscheidung der zuständigen Behörde.
 
@@ -206,8 +195,7 @@ durchgeführt.
 
 (3) Bestehen die Bedenken gegen die Zuverlässigkeit des Betroffenen nach § 7 Absatz 5 Satz 3 fort, kann ein erneuter Antrag auf Durchführung einer Zuverlässigkeitsüberprüfung der gleichen oder einer höheren Kategorie erst gestellt werden, wenn die von der zuständigen Behörde im Einzelfall unter Berücksichtigung der vorliegenden Erkenntnisse festgelegte Frist von höchstens fünf Jahren abgelaufen ist.
 
-
-## § 9 – Zutrittsregelung; Tätigkeitsaufnahme
+# § 9 – Zutrittsregelung; Tätigkeitsaufnahme
 
 (1) Sofern sich aus den Absätzen 2 bis 5 nichts anderes ergibt, darf der Antragsberechtigte dem Betroffenen die Aufnahme der vorgesehenen Tätigkeit oder den Zutritt zu der Anlage oder Einrichtung erst auf der Grundlage einer Mitteilung nach § 1 Absatz 5 Satz 3, § 1 Absatz 6 Satz 2 oder § 7 Absatz 4 gewähren.
 
@@ -231,13 +219,10 @@ durchgeführt.
 
 (6) ¹Über den Zutritt von Sachverständigen nach § 12b Absatz 1 Satz 1 Nummer 4 des Atomgesetzes, die nicht überprüft sind, entscheidet die zuständige Behörde. ²Absatz 3 Satz 1 bis 3 gilt entsprechend.
 
+# § 10 – (weggefallen)
 
-## § 10 – (weggefallen)
+# § 11 – (weggefallen)
 
-
-## § 11 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

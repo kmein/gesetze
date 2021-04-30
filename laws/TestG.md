@@ -1,15 +1,11 @@
-# [TestG] Gesetz über die Errichtung von Testamenten und Erbverträgen
-
-Ausfertigungsdatum: 31.07.1938
-
+% Gesetz über die Errichtung von Testamenten und Erbverträgen
+% Ausfertigungsdatum: 31.07.1938
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
-
-## § 51 – Übergangsvorschriften
+# § 51 – Übergangsvorschriften
 
 (1) Das Gesetz gilt nicht für Erbfälle, die sich vor seinem Inkrafttreten ereignet haben.
 

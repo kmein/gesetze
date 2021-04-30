@@ -1,30 +1,23 @@
-# [KEPKfmAusbV] Verordnung über die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen
-
-Ausfertigungsdatum: 22.03.2005
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen
+% Ausfertigungsdatum: 22.03.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kaufmann für Kurier-, Express- und Postdienstleistungen/Kauffrau für Kurier-, Express- und Postdienstleistungen wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -104,23 +97,19 @@ Kosten- und Leistungsrechnung,
 8.3  
 Controlling.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -136,8 +125,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -191,20 +179,17 @@ Der Prüfling soll im Rahmen eines Fachgespräches auf der Grundlage einer von z
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in mindestens drei der in Absatz 2 Nr. 1 bis 4 genannten Prüfungsbereiche mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 (2) Ist ein Berufsausbildungsverhältnis in dem Ausbildungsberuf Fachkraft für Brief- und Frachtverkehr abgeschlossen worden, können die Vertragsparteien ein Berufsausbildungsverhältnis in dem Ausbildungsberuf Postverkehrskaufmann/Postverkehrskauffrau gemäß den bisherigen Vorschriften für das dritte Ausbildungsjahr vereinbaren, wenn dadurch die Ausbildung im unmittelbaren Anschluss an das zweite Ausbildungsjahr fortgeführt wird.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
+# Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 873 - 876)
 
@@ -738,8 +723,7 @@ d)
 
 an Aufgaben des kaufmännischen Berichtswesens mitwirken
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 877 - 878)
 

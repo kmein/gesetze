@@ -1,10 +1,7 @@
-# [FlaggRG] Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe  (Flaggenrechtsgesetz)
-
-Ausfertigungsdatum: 08.02.1951
-
+% Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe  (Flaggenrechtsgesetz)
+% Ausfertigungsdatum: 08.02.1951
  
-
-## § 1
+# § 1
 
 (1) Die Bundesflagge haben alle Kauffahrteischiffe und sonstigen zur Seefahrt bestimmten Schiffe (Seeschiffe) zu führen, deren Eigentümer Deutsche sind und ihren Wohnsitz im Geltungsbereich des Grundgesetzes haben.
 
@@ -16,8 +13,7 @@ b) juristische Personen, wenn Deutsche im Vorstand oder in der Geschäftsführun
 
 (3) Befährt ein Binnenschiff, auf das die Schiffssicherheitsverordnung anzuwenden ist, Seegewässer seewärts der Grenze des deutschen Küstenmeeres, so wird es hinsichtlich der Vorschriften dieses Gesetzes mit der Maßgabe einem Seeschiff gleichgestellt, dass an die Stelle des Schiffszertifikates der Schiffsbrief tritt.
 
-
-## § 2
+# § 2
 
 (1) Die Bundesflagge dürfen alle Seeschiffe führen, die nicht nach § 1 zur Führung der Bundesflagge berechtigt sind,
 
@@ -35,8 +31,7 @@ b) sofern es sich um Fischereifahrzeuge handelt, dass der Einsatz der Schiffe zu
 
 (3) Eine Veränderung der Voraussetzungen für die Führung der Bundesflagge in den Fällen der Absätze 1 und 2 ist vom Eigentümer unverzüglich der zuständigen Behörde anzuzeigen.
 
-
-## § 3
+# § 3
 
 Die Berechtigung zur Führung der Bundesflagge wird
 
@@ -50,22 +45,19 @@ d) für Seeschiffe, deren Rumpflänge, gemessen zwischen den äußersten Punkten
 
 nachgewiesen.
 
-
-## § 4
+# § 4
 
 (1) Vor der Erteilung der in § 3 genannten Ausweise darf die Berechtigung nicht ausgeübt werden; dies gilt nicht in den Fällen des § 1, wenn für das Seeschiff keine Pflicht zur Anmeldung im Schiffsregister besteht.
 
 (2) Der Ausweis gemäß § 3 Buchstabe a bis c oder ein von dem Registergericht beglaubigter Auszug aus dem Schiffszertifikat ist während der Reise stets an Bord des Schiffes mitzuführen.
 
-
-## § 5
+# § 5
 
 (1) Entsteht die Berechtigung zur Führung der Bundesflagge bei einem Seeschiff, das sich im Ausland befindet, so kann anstelle des Schiffszertifikats ein Schiffsvorzertifikat erteilt werden. Dasselbe gilt in den Fällen des § 7 für das Entstehen der Befugnis zur Ausübung der in Satz 1 genannten Berechtigung, wenn der Zeitpunkt dieses Entstehens im Schiffsregister eingetragen oder zur Eintragung angemeldet ist.
 
 (2) Das Schiffsvorzertifikat hat nur für die Dauer von 6 Monaten seit dem Tage der Ausstellung Gültigkeit.
 
-
-## § 6
+# § 6
 
 (1) Seeschiffe, welche die Bundesflagge nach § 1 zu führen haben, dürfen als Nationalflagge andere Flaggen nicht führen. Das gleiche gilt für Seeschiffe, welche
 
@@ -75,8 +67,7 @@ b) die Bundesflagge nach § 10 oder § 11 führen dürfen und für die ein Flagg
 
 (2) Unberührt bleiben Vorschriften über die Führung von Dienstflaggen anstelle oder neben der Bundesflagge durch Seeschiffe im öffentlichen Dienst.
 
-
-## § 7
+# § 7
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in den Fällen
 
@@ -106,8 +97,7 @@ an Bord des ausgeflaggten Seeschiffes ständig besetzt zu halten. Der in Satz 1 
 
 (6) Die Einrichtung muss dem Bundesamt für Seeschifffahrt und Hydrographie bis zum 30. Juni eines Jahres geeignete Nachweise für die ordnungsgemäße Einnahme und Verwendung der Ablösebeträge im Vorjahr vorlegen. Das Bundesamt für Seeschifffahrt und Hydrographie prüft, ob die Finanzmittel ordnungsgemäß eingenommen und entsprechend dem Förderzweck nach Absatz 3 verwendet worden sind.
 
-
-## § 7a
+# § 7a
 
 (1) Bei Seeschiffen, für die ein Schiffszertifikat oder ein Schiffsvorzertifikat erteilt ist, wird die Ausflaggungsgenehmigung erst mit der Eintragung eines entsprechenden Vermerks in das Zertifikat wirksam.
 
@@ -115,8 +105,7 @@ an Bord des ausgeflaggten Seeschiffes ständig besetzt zu halten. Der in Satz 1 
 
 (3) Solange die Ausflaggungsgenehmigung wirksam ist, darf das Recht zur Führung der Bundesflagge nicht ausgeübt werden.
 
-
-## § 8
+# § 8
 
 (1) Die Bundesflagge darf auf Seeschiffen nur geführt werden, wenn diese hierzu nach § 1, 2, 10 oder § 11 berechtigt sind. Eine Dienstflagge darf auf Seeschiffen nur geführt werden, wenn dies nach den Vorschriften über die Führung von Dienstflaggen anstelle oder neben der Bundesflagge durch Seeschiffe im öffentlichen Dienst erlaubt ist.
 
@@ -124,8 +113,7 @@ an Bord des ausgeflaggten Seeschiffes ständig besetzt zu halten. Der in Satz 1 
 
 (3) Die Bundesflagge ist beim Einlaufen in einen Hafen und beim Auslaufen zu zeigen.
 
-
-## § 9
+# § 9
 
 (1) Ein Seeschiff, für das ein Schiffszertifikat, Schiffsvorzertifikat oder Flaggenschein erteilt ist, muß seinen Namen an jeder Seite des Bugs und seinen Namen sowie den Namen des Heimathafens am Heck in gut sichtbaren und fest angebrachten Schriftzeichen führen. Hat es keinen oder keinen Heimathafen im Geltungsbereich des Grundgesetzes, so ist statt dessen außer in den Fällen des § 7 Abs. 1 und der §§ 10 und 11 Abs. 1 in gleicher Weise der Registerhafen zu führen.
 
@@ -133,8 +121,7 @@ an Bord des ausgeflaggten Seeschiffes ständig besetzt zu halten. Der in Satz 1 
 
 (3) Der Name eines Seeschiffes, für das die Ausstellung eines Schiffszertifikats oder Schiffsvorzertifikats beantragt wird, ist rechtzeitig vor der Namensführung vom Eigentümer oder Korrespondentreeder dem Bundesministerium für Verkehr und digitale Infrastruktur anzuzeigen; dieses kann zur Wahrung des öffentlichen Interesses die Führung von bestimmten Schiffsnamen untersagen. Satz 1 gilt auch für die Änderung des Namens.
 
-
-## § 9a
+# § 9a
 
 (1) Der Eigentümer hat dafür zu sorgen, dass an einem Seeschiff im Sinne des § 9 neben dem Namen entweder am Heck oder auf beiden Seiten des Schiffsrumpfes in Übereinstimmung mit Kapitel XI-1 Regel 3 der Anlage des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See (BGBl. 1979 II S. 141), das zuletzt nach Maßgabe des Gesetzes vom 22. Dezember 2003 (BGBl. 2003 II S. 2018) geändert worden ist, deutlich sichtbar die IMO-Schiffsidentifikationsnummer angebracht ist, sofern eine derartige Nummer vergeben ist.
 
@@ -142,13 +129,11 @@ an Bord des ausgeflaggten Seeschiffes ständig besetzt zu halten. Der in Satz 1 
 
 (3) Das Verfahren zum Anbringen der IMO-Schiffsidentifikationsnummer an Seeschiffen, die aus einem anderen Werkstoff als Holz oder Metall hergestellt sind, muss von der Flaggenbehörde genehmigt werden.
 
-
-## § 10
+# § 10
 
 Seeschiffen, die im Geltungsbereich des Grundgesetzes erbaut worden sind und die nicht bereits nach den Vorschriften der §§ 1 und 2 zur Führung der Bundesflagge berechtigt sind, kann das Bundesministerium für Verkehr und digitale Infrastruktur die Befugnis hierzu für die erste Überführungsreise in einen anderen Hafen einschließlich der hierfür erforderlichen vorausgehenden Fahrten verleihen.
 
-
-## § 11
+# § 11
 
 (1) Für Seeschiffe, die nicht nach den Vorschriften der §§ 1, 2 und 10 zur Führung der Bundesflagge berechtigt sind, kann das Bundesministerium für Verkehr und digitale Infrastruktur einem ausländischen Eigentümer auf Grund internationaler Vereinbarungen die Befugnis zur Führung der Bundesflagge verleihen. Dasselbe gilt auch ohne das Vorliegen internationaler Vereinbarungen bei einem Ausrüster für die Dauer der Überlassung des Schiffes zur Bereederung in eigenem Namen unter dem Vorbehalt des Widerrufs, wenn
 
@@ -164,36 +149,31 @@ e) nicht fremdes Recht der Führung der Bundesflagge entgegensteht.
 
 (2) Eine Veränderung der Voraussetzungen für die Verleihung ist vom Ausrüster unverzüglich dem Bundesministerium für Verkehr und digitale Infrastruktur anzuzeigen.
 
-
-## § 12
+# § 12
 
 (1) Zur Führung der Bundesflagge berechtigte Kauffahrteischiffe, die im Sinne des Einkommensteuergesetzes im internationalen Verkehr betrieben werden, sind auf Antrag des Eigentümers in das Internationale Seeschiffahrtsregister einzutragen.
 
 (2) Das Internationale Seeschiffahrtsregister wird vom Bundesministerium für Verkehr und digitale Infrastruktur eingerichtet und geführt.
 
-
-## § 13
+# § 13
 
 (1) Für jedes Seeschiff im Sinne von Kapitel XI-1 Regel 5 Absatz 1 der Anlage des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See, das zur Führung der Bundesflagge berechtigt ist, wird bei der Flaggenbehörde eine lückenlose Stammdatendokumentation geführt, welche die nach Kapitel XI-1 Regel 5 Absatz 3 bis 5.2 der Anlage des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See erforderlichen Angaben enthält.
 
 (2) Über die lückenlose Stammdatendokumentation wird von der Flaggenbehörde eine Bescheinigung ausgestellt. Diese ist an Bord des Seeschiffes mitzuführen.
 
-
-## § 14
+# § 14
 
 (1) Binnenschiffe dürfen als deutsche Nationalflagge nur die Bundesflagge führen. Flaggen deutscher Länder oder andere deutsche Heimatflaggen dürfen nur neben der Bundesflagge gesetzt werden.
 
 (2) § 6 Abs. 2 und § 8 Abs. 2 finden entsprechende Anwendung.
 
-
-## § 15
+# § 15
 
 (1) Wer als Führer eines Seeschiffes oder sonst für das Seeschiff Verantwortlicher vorsätzlich oder fahrlässig einer Vorschrift des § 6 Abs. 1 über das Führen einer anderen Nationalflagge als der Bundesflagge zuwiderhandelt, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
 (2) Ebenso wird bestraft, wer als Führer eines Seeschiffes oder sonst für das Seeschiff Verantwortlicher entgegen § 8 Abs. 1 Satz 1 die Bundesflagge oder entgegen § 8 Abs. 1 Satz 2 oder sonst unbefugt eine Dienstflagge führt.
 
-
-## § 16
+# § 16
 
 (1) Ordnungswidrig handelt, wer als Führer eines Seeschiffes oder sonst für das Seeschiff Verantwortlicher vorsätzlich oder fahrlässig
 
@@ -209,8 +189,7 @@ e) nicht fremdes Recht der Führung der Bundesflagge entgegensteht.
 
 1. als Führer eines Seeschiffes oder sonst für das Seeschiff Verantwortlicher oder Schiffsführer eines Binnenschiffes einer Vorschrift des § 8 Abs. 2, auch in Verbindung mit § 14 Abs. 2, über die Art und Weise der Flaggenführung zuwiderhandelt,
 
-1a.  
-entgegen § 9a Abs. 1 oder 2 nicht dafür sorgt, dass die IMO-Schiffsidentifikationsnummer oder die zusätzliche Markierung angebracht ist,
+1a. entgegen § 9a Abs. 1 oder 2 nicht dafür sorgt, dass die IMO-Schiffsidentifikationsnummer oder die zusätzliche Markierung angebracht ist,
 
 2. als Schiffsführer eines Binnenschiffes der Vorschrift des § 14 Abs. 1 über die Flaggenführung der Binnenschiffe zuwiderhandelt,
 
@@ -222,28 +201,23 @@ entgegen § 9a Abs. 1 oder 2 nicht dafür sorgt, dass die IMO-Schiffsidentifikat
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Flaggenbehörde.
 
-
-## § 17
+# § 17
 
 § 15 Abs. 2 gilt, unabhängig vom Recht des Tatorts, auch für die Taten, die außerhalb des Geltungsbereichs dieses Gesetzes begangen werden.
 
-
-## § 18
+# § 18
 
 Bei Verstößen gegen Strafvorschriften zur Verhütung von Meeresverschmutzungen durch Schiffe übermitteln im Falle der Erhebung der öffentlichen Klage die Strafverfolgungsbehörde die Anklageschrift oder eine an deren Stelle tretende Antragsschrift und die Strafvollstreckungsbehörde die das Verfahren abschließende gerichtliche Entscheidung mit Begründung dem Bundesamt für Seeschiffahrt und Hydrographie zur Erfüllung seiner Aufgaben nach diesem Gesetz und dem Seeaufgabengesetz. Zu diesem Zweck ist eine Mitteilung der das Verfahren abschließenden Entscheidung an dieses Bundesamt auch in sonstigen den Seeverkehr und Seetransport berührenden Strafsachen, zu deren Begehung ein Schiff eingesetzt wurde, zulässig. In den Mitteilungen sind die Bezeichnung des Schiffes, seine Flagge und seine IMO-Nummer, soweit erteilt, anzugeben.
 
-
-## § 19
+# § 19
 
 § 1 Abs. 3 gilt nicht für Seeschiffe, die am 31. Dezember 1988 eine andere Nationalflagge als die Bundesflagge geführt haben, solange sie diese Flagge weiterführen.
 
-
-## § 20
+# § 20
 
 (Aufhebung anderer Vorschriften)
 
-
-## § 21
+# § 21
 
 (1) Soweit in anderen Rechtsvorschriften auf die in § 20 bezeichneten Vorschriften verwiesen ist, treten die entsprechenden Vorschriften dieses Gesetzes an deren Stelle.
 
@@ -274,18 +248,15 @@ i) die sich aus Rechtsakten der Europäischen Gemeinschaften und Verpflichtungen
 § 21 Abs. 4 Satz 1 und 2: Mit dem GG vereinbar gem. BVerfGE v. 10.1.1995 I 137 - 1 BvF 1/90 u. a. -  
 § 21 Abs. 4 Satz 3: Mit dem GG unvereinbar und nichtig gem. BVerfGE v. 10.1.1995 I 137 - 1 BvF 1/90 u. a. -
 
-
-## § 22
+# § 22
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt,
 
 1. die Grenzen der Seefahrt im Sinne dieses Gesetzes und die Art und Weise zu bestimmen, wie die Anbringung der Namen und der IMO-Schiffsidentifikationsnummer am Schiff auszuführen ist,
 
-1a.  
-zur Durchführung des § 2 Absatz 1 Nummer 3 und Absatz 2 den Nachweis der Verantwortlichkeit, des Einstehens, der Leitung, Durchführung und Überwachung und die hierfür erforderlichen Anzeigepflicht zu regeln sowie die sich bei Wegfall dieses Nachweises ergebenden Folgen für die Berechtigung zur Führung der Bundesflagge zu bestimmen,
+1a. zur Durchführung des § 2 Absatz 1 Nummer 3 und Absatz 2 den Nachweis der Verantwortlichkeit, des Einstehens, der Leitung, Durchführung und Überwachung und die hierfür erforderlichen Anzeigepflicht zu regeln sowie die sich bei Wegfall dieses Nachweises ergebenden Folgen für die Berechtigung zur Führung der Bundesflagge zu bestimmen,
 
-1b.  
-die näheren Einzelheiten zu der Erteilung der Ausflaggungsgenehmigung, auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union und von Verpflichtungen aus zwischenstaatlichen Vereinbarungen die Führung einer anderen Nationalflagge im Sinne des § 7 zu regeln,
+1b. die näheren Einzelheiten zu der Erteilung der Ausflaggungsgenehmigung, auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union und von Verpflichtungen aus zwischenstaatlichen Vereinbarungen die Führung einer anderen Nationalflagge im Sinne des § 7 zu regeln,
 
 2. im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat die Art und Weise der Flaggenführung im Sinne von § 8 Abs. 2 und § 14 Abs. 2 zu bestimmen,
 
@@ -317,8 +288,7 @@ h) das Führen der Stammdatendokumentation nach § 13 Abs. 1,
 
 (2) Rechtsverordnungen nach Absatz 1 Nr. 1a und 1b sind, soweit sie Fischereifahrzeuge betreffen, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft zu erlassen.
 
-
-## § 22a
+# § 22a
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz können Gebühren und Auslagen erhoben werden.
 
@@ -326,18 +296,15 @@ h) das Führen der Stammdatendokumentation nach § 13 Abs. 1,
 
 (3) Für individuell zurechenbare öffentliche Leistungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
 
-
-## § 22b
+# § 22b
 
 Außerhalb des Geltungsbereichs des Grundgesetzes haben die Konsularbeamten die Einhaltung der über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe bestehenden Vorschriften zu überwachen.
 
-
-## § 22c – (weggefallen)
+# § 22c – (weggefallen)
 
 \-
 
-
-## § 23
+# § 23
 
 Bei Anwendung dieses Gesetzes und der auf Grund des § 22 erlassenen Verordnungen auf Kauffahrteischiffe werden
 
@@ -347,23 +314,19 @@ Bei Anwendung dieses Gesetzes und der auf Grund des § 22 erlassenen Verordnunge
 
 gleichbehandelt.
 
-
-## § 24
+# § 24
 
 Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31. Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur Änderung des Flaggenrechtsgesetzes und der Schiffsregisterordnung vom 20. Dezember 2012 (BGBl. I S. 2792) erlassenen Fassung.
 
-
-## § 25
+# § 25
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## Anlage – (zu § 7 Absatz 2 Satz 1)
+# Anlage – (zu § 7 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2012, 2794)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1107)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1107)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

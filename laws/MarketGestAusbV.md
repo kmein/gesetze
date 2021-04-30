@@ -1,30 +1,23 @@
-# [MarketGestAusbV] Verordnung über die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing
-
-Ausfertigungsdatum: 12.05.2004
-
+% Verordnung über die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing
+% Ausfertigungsdatum: 12.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Gestalter für visuelles Marketing/Gestalterin für visuelles Marketing wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -99,23 +92,19 @@ Erfolgskontrolle,
 7.4  
 Kaufmännische Steuerung und Kontrolle.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -123,8 +112,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (3) Die Zwischenprüfung ist schriftlich in höchstens 180 Minuten durchzuführen. Der Prüfling soll grundlegende praxisbezogene Aufgaben der visuellen Verkaufsförderung bearbeiten und dabei insbesondere eine Gestaltungsidee entwickeln und begründen. Dabei soll der Prüfling zeigen, dass er Skizzen erstellen und nutzen, Arbeitsabläufe planen und dokumentieren, Arbeitsmittel festlegen sowie Anforderungen der Arbeitssicherheit und des Umweltschutzes berücksichtigen kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -156,8 +144,7 @@ b) Einsatz von Werbe- und Gestaltungsmitteln,
 
 c) Be- und Verarbeitungstechniken
 
-bearbeiten und dabei zeigen, dass er Objekte visueller Verkaufsförderung erstellen, präsentieren und platzieren sowie Konzeptionen entwickeln, begründen und umsetzen kann.  
-Im Prüfungsbereich Projektplanung und -steuerung soll der Prüfling in höchstens 90 Minuten praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebieten:
+bearbeiten und dabei zeigen, dass er Objekte visueller Verkaufsförderung erstellen, präsentieren und platzieren sowie Konzeptionen entwickeln, begründen und umsetzen kann. Im Prüfungsbereich Projektplanung und -steuerung soll der Prüfling in höchstens 90 Minuten praxisbezogene Aufgaben oder Fälle insbesondere aus den Gebieten:
 
 a) Projektplanung und -umsetzung,
 
@@ -165,8 +152,7 @@ b) Kalkulation von Projekten und Objekten,
 
 c) Erfolgskontrolle
 
-bearbeiten und dabei zeigen, dass er Arbeitsabläufe unter Beachtung von technischen und wirtschaftlichen Vorgaben planen, gestalten und bewerten sowie Instrumente der Erfolgsfeststellung einsetzen kann.  
-Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in höchstens 60 Minuten praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
+bearbeiten und dabei zeigen, dass er Arbeitsabläufe unter Beachtung von technischen und wirtschaftlichen Vorgaben planen, gestalten und bewerten sowie Instrumente der Erfolgsfeststellung einsetzen kann. Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in höchstens 60 Minuten praxisbezogene Aufgaben oder Fälle bearbeiten und dabei zeigen, dass er wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 (5) Sind in der schriftlichen Prüfung die Prüfungsleistungen in bis zu zwei Prüfungsbereichen mit "mangelhaft" und in den übrigen schriftlichen Prüfungsbereichen mit mindestens "ausreichend" bewertet worden, so ist auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einem der mit "mangelhaft" bewerteten Prüfungsbereiche die schriftliche Prüfung durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Der Prüfungsbereich ist vom Prüfling zu bestimmen. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind die Ergebnisse der schriftlichen Arbeit und der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
@@ -187,18 +173,15 @@ Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling in höchsten
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Prüfungsteils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Prüfungsteils dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Sachliche Gliederung -
+# Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 925 - 928)
 
@@ -684,8 +667,7 @@ d)
 
 Eingang und Ausgang von Rechnungen kontrollieren
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles Marketing/zur Gestalterin für visuelles Marketing - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 929 - 930)
 

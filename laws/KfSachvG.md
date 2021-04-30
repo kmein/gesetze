@@ -1,15 +1,11 @@
-# [KfSachvG] Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr  (Kraftfahrsachverständigengesetz - KfSachvG)
-
-Ausfertigungsdatum: 22.12.1971
-
+% Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr  (Kraftfahrsachverständigengesetz - KfSachvG)
+% Ausfertigungsdatum: 22.12.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Amtliche Anerkennung als Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr
+# § 1 – Amtliche Anerkennung als Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr
 
 (1) Wer die Aufgaben eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr (Sachverständiger) oder eines amtlich anerkannten Prüfers für den Kraftfahrzeugverkehr (Prüfer) wahrnimmt, bedarf der Anerkennung nach diesem Gesetz.
 
@@ -23,8 +19,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Die Anerkennung als Prüfer mit Teilbefugnissen berechtigt nur, Untersuchungen im Rahmen der amtlich vorgeschriebenen technischen Überwachung der Kraftfahrzeuge und ihrer Anhänger durchzuführen.
 
-
-## § 2 – Voraussetzung für die Anerkennung
+# § 2 – Voraussetzung für die Anerkennung
 
 (1) Die Anerkennung wird erteilt, wenn der Bewerber
 
@@ -56,8 +51,7 @@ Die Fahrerlaubnis der Klasse D ist nicht erforderlich, es sei denn, der Sachvers
 
 erfolgreich abgeschlossen haben. Über die Anerkennung der Gleichwertigkeit von ausländischen Zeugnissen entscheiden die zuständigen Behörden der Länder. Die §§ 9 bis 17 des Berufsqualifikationsfeststellungsgesetzes sind entsprechend anzuwenden.
 
-
-## § 3 – Antragsverfahren
+# § 3 – Antragsverfahren
 
 (1) In dem Antrag auf Anerkennung hat der Bewerber anzugeben, ob er als Sachverständiger, als Sachverständiger mit Teilbefugnissen, als Prüfer oder als Prüfer mit Teilbefugnissen anerkannt werden will. Beizufügen sind
 
@@ -77,8 +71,7 @@ erfolgreich abgeschlossen haben. Über die Anerkennung der Gleichwertigkeit von 
 
 (2) Die Anerkennungsbehörde kann eine Beurteilung des Bewerbers von der Technischen Prüfstelle für den Kraftfahrzeugverkehr anfordern, bei der der Bewerber beschäftigt ist oder war.
 
-
-## § 4 – Prüfung für die Anerkennung
+# § 4 – Prüfung für die Anerkennung
 
 (1) Zur Prüfung wird der Bewerber nur zugelassen, wenn er die Voraussetzungen des § 2 Abs. 1 Nr. 1 bis 6 und des § 2 Abs. 2 erfüllt.
 
@@ -98,13 +91,11 @@ erfolgreich abgeschlossen haben. Über die Anerkennung der Gleichwertigkeit von 
 
 2. über die Bildung und Zusammenstellung von Prüfungsausschüssen sowie über die Einzelheiten des Prüfungsverfahrens, insbesondere über die Prüfungsgebiete, die praktische, die schriftliche und die mündliche Prüfung, den Rücktritt und den Ausschluß von der Prüfung, das Prüfungsergebnis und seine Bekanntgabe, die Erteilung von Prüfungsbescheinigungen, die Ergänzungs- und die Wiederholungsprüfungen.
 
-
-## § 5 – Anerkennung
+# § 5 – Anerkennung
 
 Die Anerkennung als Sachverständiger oder Prüfer wird durch Aushändigung oder Zustellung eines Ausweises erteilt. Der Ausweis ist an die Anerkennungsbehörde unverzüglich zurückzugeben, wenn die Anerkennung ruht oder wenn sie erloschen, zurückgenommen oder widerrufen ist.
 
-
-## § 6 – Tätigkeit der Sachverständigen und Prüfer
+# § 6 – Tätigkeit der Sachverständigen und Prüfer
 
 (1) Der Sachverständige und der Prüfer dürfen ihre Tätigkeit nur für die Technische Prüfstelle für den Kraftfahrzeugverkehr ausüben, der sie angehören. Sie haben ihre Aufgaben unparteiisch auszuführen und dürfen von der Zahl und dem Ergebnis der Prüfungen wirtschaftlich nicht abhängig sein.
 
@@ -114,8 +105,7 @@ Die Anerkennung als Sachverständiger oder Prüfer wird durch Aushändigung oder
 
 (3) Nimmt der Sachverständige oder Prüfer Fahrerlaubnisprüfungen für die Klasse B ab, muss er seit mindestens drei Jahren die Fahrerlaubnis der Klasse B besitzen. Nimmt der Sachverständige oder Prüfer Fahrerlaubnisprüfungen sonstiger Fahrerlaubnisklassen ab, muss er seit mindestens drei Jahren als Sachverständiger oder Prüfer bei der Abnahme von Fahrerlaubnisprüfungen der Klasse B tätig sein, es sei denn, er verfügt über eine mindestens fünfjährige Fahrpraxis in der betreffenden Klasse oder hat im Rahmen der Prüfung zur Anerkennung als Sachverständiger oder Prüfer eine vorschriftsmäßige, sichere und gewandte Fahrweise auf einem Fahrzeug der entsprechenden Klasse nachgewiesen. Ein Sachverständiger oder Prüfer, der Fahrerlaubnisprüfungen abnimmt, darf nicht gleichzeitig im Rahmen eines Beschäftigungsverhältnisses als Fahrlehrer tätig oder Inhaber einer Fahrschulerlaubnis sein.
 
-
-## § 7 – Ruhen und Erlöschen der Anerkennung
+# § 7 – Ruhen und Erlöschen der Anerkennung
 
 (1) Die Anerkennung ruht,
 
@@ -131,8 +121,7 @@ Die Anerkennung als Sachverständiger oder Prüfer wird durch Aushändigung oder
 
 (3) Die Anerkennung erlischt auch, wenn der Sachverständige oder der Prüfer auf die Anerkennung verzichtet.
 
-
-## § 8 – Rücknahme und Widerruf der Anerkennung
+# § 8 – Rücknahme und Widerruf der Anerkennung
 
 (1) Die Anerkennung als Sachverständiger oder als Prüfer ist zurückzunehmen, wenn bei ihrer Erteilung eine der Voraussetzungen des § 2 nicht vorgelegen hat und keine Ausnahme nach § 17 genehmigt worden ist.
 
@@ -140,13 +129,11 @@ Die Anerkennung als Sachverständiger oder Prüfer wird durch Aushändigung oder
 
 (3) Zur Vorbereitung einer Entscheidung nach Absatz 1 oder 2 kann die Anerkennungsbehörde von der betroffenen Person die Vorlage eines amts- oder fachärztlichen Zeugnisses oder eines Gutachtens einer amtlich anerkannten Begutachtungsstelle für Fahreignung verlangen.
 
-
-## § 9 – Erteilung einer neuen Anerkennung
+# § 9 – Erteilung einer neuen Anerkennung
 
 Wird nach Erlöschen (§ 7 Abs. 2 und 3), Rücknahme oder Widerruf (§ 8) innerhalb von zwei Jahren eine neue Anerkennung beantragt, so entfällt die Prüfung (§ 2 Abs. 1 Nr. 7 und § 4), wenn nicht Tatsachen vorliegen, die Zweifel an der fachlichen Eignung des Antragstellers begründen. Bei der Berechnung der Zweijahresfrist ist der Zeitraum eines vorangegangenen Ruhens der Anerkennung (§ 7 Abs. 1) zu berücksichtigen.
 
-
-## § 10 – Technische Prüfstelle für den Kraftfahrzeugverkehr
+# § 10 – Technische Prüfstelle für den Kraftfahrzeugverkehr
 
 (1) Eine Technische Prüfstelle für den Kraftfahrzeugverkehr wird von der Stelle unterhalten, die die Landesregierung oder die von ihr bestimmte Behörde hiermit beauftragt. Die Landesregierung oder die von ihr bestimmte Behörde legt die örtliche Zuständigkeit der Technischen Prüfstelle fest. Für denselben Bereich dürfen nicht mehrere Technische Prüfstellen errichtet und unterhalten werden.
 
@@ -158,8 +145,7 @@ Wird nach Erlöschen (§ 7 Abs. 2 und 3), Rücknahme oder Widerruf (§ 8) innerh
 
 (5) Der Auftrag, eine Technische Prüfstelle zu unterhalten, kann widerrufen werden, wenn die beauftragte Stelle nicht sicherstellt, daß die Technische Prüfstelle ihre Pflichten ordnungsgemäß wahrnimmt.
 
-
-## § 11 – Einrichtung und Aufgaben der Technischen Prüfstelle
+# § 11 – Einrichtung und Aufgaben der Technischen Prüfstelle
 
 (1) Für die Technische Prüfstelle sind Sachverständige und Prüfer sowie Hilfskräfte in der erforderlichen Zahl anzustellen und die notwendigen Einrichtungen zur Verfügung zu stellen. Für jede Technische Prüfstelle sind ein Leiter und ein stellvertretender Leiter zu bestellen. Der Leiter der Technischen Prüfstelle hat die ordnungsgemäße Erledigung der den Sachverständigen und Prüfern übertragenen Aufgaben zu überwachen.
 
@@ -175,15 +161,13 @@ Qualitätssicherungssysteme zu unterhalten und dies der Aufsichtsbehörde (§ 13
 
 (3) Fachliche Weisungen an die Sachverständigen und Prüfer der Technischen Prüfstelle dürfen nur der Leiter oder sein Stellvertreter geben.
 
-
-## § 12 – Organisation der Technischen Prüfstelle
+# § 12 – Organisation der Technischen Prüfstelle
 
 (1) Der Leiter der Technischen Prüfstelle und sein Stellvertreter sowie der Leiter einer der Technischen Prüfstelle unmittelbar nachgeordneten Dienststelle und dessen Stellvertreter müssen Sachverständige im Sinne des § 1 sein. Sie bedürfen der Bestätigung der Aufsichtsbehörde.
 
 (2) Die mit der Unterhaltung einer Technischen Prüfstelle beauftragte Stelle hat für die Durchführung der Aufgaben der Technischen Prüfstelle eine Geschäftsordnung zu erlassen, die der Genehmigung der Aufsichtsbehörde bedarf.
 
-
-## § 13 – Aufsicht über die Technische Prüfstelle
+# § 13 – Aufsicht über die Technische Prüfstelle
 
 (1) Die zuständige Landesbehörde übt die Aufsicht über die Technische Prüfstelle aus. Sie erläßt eine Geschäftsanweisung. Der Leiter der Technischen Prüfstelle und sein Stellvertreter sind an die Geschäftsanweisung und an die Einzelanweisungen der Aufsichtsbehörde gebunden.
 
@@ -191,13 +175,11 @@ Qualitätssicherungssysteme zu unterhalten und dies der Aufsichtsbehörde (§ 13
 
 (3) Die Technische Prüfstelle hat der Aufsichtsbehörde über nachteilige Tatsachen, die ihr über einen Sachverständigen oder Prüfer bekanntwerden, zu berichten, wenn diese für die Anerkennung von Bedeutung sein können. Eine entsprechende Verpflichtung gilt für die nach Anlage VIII Abschnitt 7 der Straßenverkehrs-Zulassungs-Ordnung amtlich anerkannten Überwachungsorganisationen, falls ihnen über Prüfingenieure nachteilige Tatsachen bekannt werden, die für die Betrauung mit der Durchführung von Untersuchungen oder Abnahmen von Bedeutung sein können.
 
-
-## § 14 – Staatliche Technische Prüfstellen
+# § 14 – Staatliche Technische Prüfstellen
 
 Für die Länder, die staatliche Technische Prüfstellen eingerichtet haben oder künftig einrichten werden, gelten § 10 Abs. 1, Abs. 2 - ausgenommen Satz 2 und 3 -, Abs. 3 und Abs. 5, § 11 sowie die §§ 12 und 13 sinngemäß.
 
-
-## § 15 – Zuständigkeiten
+# § 15 – Zuständigkeiten
 
 Die Landesregierungen bestimmen durch Rechtsverordnung
 
@@ -207,8 +189,7 @@ Die Landesregierungen bestimmen durch Rechtsverordnung
 
 3. die für die Ausnahmeregelung zuständigen Behörden nach § 17.
 
-
-## § 16 – Sachverständige und Prüfer bei Behörden
+# § 16 – Sachverständige und Prüfer bei Behörden
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Finanzen, das Bundesministerium der Verteidigung, das Bundesministerium für Verkehr und digitale Infrastruktur, können für den Bereich ihrer Verwaltungen und die zuständigen obersten Landesbehörden für den Dienstbereich der Polizei bestimmen, welche Stellen die Ausbildung und Prüfung nach § 2 Abs. 1 Nr. 5 und 7 durchführen und die Anerkennung nach § 1 erteilen. Die amtlich anerkannten Sachverständigen und Prüfer der Deutschen Bundespost POSTDIENST können ihre Aufgaben für die drei Nachfolgeunternehmen der Deutschen Bundespost bis zu einem durch Rechtsverordnung des Bundesministeriums für Verkehr, die der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation bestimmten Termin, längstens bis zum 31. Dezember 1997, weiter wahrnehmen.
 
@@ -222,15 +203,13 @@ Die Landesregierungen bestimmen durch Rechtsverordnung
 
 (6) Beantragt ein Sachverständiger oder Prüfer nach seinem Ausscheiden aus dem öffentlichen Dienst eine Anerkennung nach § 1, so gelten die allgemeinen Vorschriften. Wird der Antrag innerhalb von zwei Jahren nach der Rücknahme, dem Widerruf, dem Erlöschen oder dem Eintritt des Ruhens der erteilten Anerkennung gestellt, so entfällt die Prüfung, wenn nicht Tatsachen vorliegen, die Zweifel an der fachlichen Eignung des Bewerbers rechtfertigen.
 
-
-## § 17 – Ausnahmeregelung
+# § 17 – Ausnahmeregelung
 
 (1) Die nach § 15 zuständigen Behörden und die nach § 16 Abs. 1 zuständigen Dienststellen können Ausnahmen von der Voraussetzung der praktischen Tätigkeit als Ingenieur und des Universitäts-, Hochschul-, Fachhochschul- oder Ingenieurschulabschlusses (§ 2 Abs. 1 Nr. 4 und Abs. 2) sowie von der Ableistung einer sechsmonatigen Ausbildung in einer Technischen Prüfstelle (§ 2 Abs. 1 Nr. 5) genehmigen; eine Ausnahme von der Voraussetzung eines Universitäts- oder Hochschulstudiums kann insbesondere dem Bewerber um die Anerkennung als Sachverständiger genehmigt werden, wenn eine Ausbildung in einer anerkannten deutschen Fachhochschule oder Ingenieurschule nachgewiesen wird, die in Verbindung mit einer geeigneten praktischen Tätigkeit von ausreichender Dauer die Kenntnisse und Fähigkeiten vermittelt haben kann, die der amtlich anerkannte Sachverständige benötigt.
 
 (2) Das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium der Verteidigung und die für die Polizei zuständigen obersten Landesbehörden können die nach § 16 Abs. 1 zuständigen Dienststellen ihres Geschäftsbereichs ermächtigen, Ausnahmen von § 2 Abs. 1 Nr. 1, Nr. 4, Nr. 5, Absatz 2 und § 3 zuzulassen, soweit dies aus dienstlichen Gründen geboten ist.
 
-
-## § 18 – Kosten
+# § 18 – Kosten
 
 (1) Für Amtshandlungen, Prüfungen und Untersuchungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften werden Kosten (Gebühren und Auslagen) erhoben.
 
@@ -238,13 +217,11 @@ Die Landesregierungen bestimmen durch Rechtsverordnung
 
 (3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, daß die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der prüfenden oder untersuchenden Stelle und ohne ausreichende Entschuldigung des Bewerbers oder Antragstellers am festgesetzten Termin nicht stattfinden konnte. Soweit Untersuchungen von amtlich anerkannten Begutachtungsstellen für Fahreignung durchgeführt werden, gilt § 6a Abs. 3 Satz 2 des Straßenverkehrsgesetzes entsprechend.
 
-
-## § 19 – Allgemeine Verwaltungsvorschriften
+# § 19 – Allgemeine Verwaltungsvorschriften
 
 Zur Durchführung dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen kann das Bundesministerium für Verkehr mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften erlassen.
 
-
-## § 20 – Ordnungswidrigkeiten
+# § 20 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -254,8 +231,7 @@ Zur Durchführung dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen 
 
 3. entgegen § 5 den von der Anerkennungsbehörde ausgestellten Ausweis nicht unverzüglich zurückgibt, wenn die Anerkennung ruht, oder wenn sie erloschen, zurückgenommen oder widerrufen ist oder
 
-3a.  
-entgegen § 6 Abs. 1a Satz 1 als amtlich anerkannter Sachverständiger oder Prüfer außerhalb des Bereichs der Technischen Prüfstelle, der er angehört, tätig wird,
+3a. entgegen § 6 Abs. 1a Satz 1 als amtlich anerkannter Sachverständiger oder Prüfer außerhalb des Bereichs der Technischen Prüfstelle, der er angehört, tätig wird,
 
 4. entgegen § 16 Abs. 3 als Sachverständiger oder als Prüfer außerhalb des Geschäftsbereichs der Behörde tätig wird, die die Anerkennung erteilt hat.
 
@@ -263,13 +239,11 @@ entgegen § 6 Abs. 1a Satz 1 als amtlich anerkannter Sachverständiger oder Prü
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Anerkennungsbehörde (§ 15 Nr. 1).
 
-
-## § 21
+# § 21
 
 \-
 
-
-## § 22 – Örtliche Kraftfahrsachverständigenregister
+# § 22 – Örtliche Kraftfahrsachverständigenregister
 
 (1) Die nach Landesrecht für die
 
@@ -307,8 +281,7 @@ erfaßt.
 
 8. die den Anerkennungsbehörden, den für die Zustimmung zur Betrauung zuständigen Behörden oder den zuständigen Aufsichtsbehörden nach § 28 Abs. 2 übermittelten Daten.
 
-
-## § 23 – Registrierung im Kraftfahrt-Bundesamt
+# § 23 – Registrierung im Kraftfahrt-Bundesamt
 
 (1) Im Zentralen Fahrerlaubnisregister (§ 48 des Straßenverkehrsgesetzes) wird vermerkt, ob die dort erfaßten Inhaber von Fahrerlaubnissen zugleich amtlich anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr (§ 22 Abs. 2 Nr. 1) oder Prüfingenieure (§ 22 Abs. 2 Nr. 2) sind und welche Behörde den Sachverständigen oder Prüfer anerkannt oder der Betrauung des Prüfingenieurs zugestimmt hat.
 
@@ -324,8 +297,7 @@ erfaßt.
 
 erfaßt. Unberührt bleiben die Eintragungen nach § 28 Abs. 3 des Straßenverkehrsgesetzes.
 
-
-## § 24 – Zweck der Registrierung
+# § 24 – Zweck der Registrierung
 
 Die Registrierung wird vorgenommen:
 
@@ -333,13 +305,11 @@ Die Registrierung wird vorgenommen:
 
 2. zur Beurteilung der Eignung und Zuverlässigkeit der Personen hinsichtlich der Anerkennungen oder Betrauungen nach Nummer 1 durch die zuständigen Behörden.
 
-
-## § 25 – Erhebung der Daten
+# § 25 – Erhebung der Daten
 
 Die in den Registern nach den §§ 22 und 23 zu erfassenden Personen haben die für die Speicherung nach diesen Vorschriften erforderlichen Daten hinsichtlich der Anerkennung den zuständigen Behörden und hinsichtlich der Betrauung und Bestellung ihren Prüf- oder Dienststellen oder ihren Überwachungsorganisationen unverzüglich mitzuteilen und auf Verlangen nachzuweisen; dies gilt nicht, soweit die Daten von den zuständigen Behörden bereits im Rahmen von § 3 erfaßt werden. Außerdem sind alle Änderungen, die sich auf die erhobenen Daten beziehen, mit dem jeweiligen Zeitpunkt der Änderung unverzüglich mitzuteilen und nachzuweisen.
 
-
-## § 26 – Übermittlung der Daten zur Registrierung
+# § 26 – Übermittlung der Daten zur Registrierung
 
 (1) Die Technischen Prüfstellen und die Überwachungsorganisationen haben die nach § 25 erhobenen Daten den zuständigen Behörden zur Speicherung in den örtlichen Kraftfahrsachverständigenregistern zu übermitteln.
 
@@ -347,8 +317,7 @@ Die in den Registern nach den §§ 22 und 23 zu erfassenden Personen haben die f
 
 (3) Ist ein amtlich anerkannter Sachverständiger oder Prüfer oder ein Prüfingenieur im Bereich mehrerer Anerkennungsbehörden tätig, so teilt das Kraftfahrt-Bundesamt dies mit und übermittelt die nach § 22 zu speichernden Daten den jeweiligen Anerkennungsbehörden oder den Behörden, die der Betrauung zugestimmt haben.
 
-
-## § 27 – Übermittlung der Daten aus den Registern
+# § 27 – Übermittlung der Daten aus den Registern
 
 (1) Die in den Registern gespeicherten Daten dürfen den Stellen,
 
@@ -362,15 +331,13 @@ zuständig sind, übermittelt werden, soweit dies zur Erfüllung der diesen Stel
 
 (2) Für die Verarbeitung der Daten durch den Empfänger gilt § 43 des Straßenverkehrsgesetzes.
 
-
-## § 28 – Abgleich mit dem Fahreignungsregister
+# § 28 – Abgleich mit dem Fahreignungsregister
 
 (1) Das Kraftfahrt-Bundesamt prüft, ob die im Fahreignungsregister enthaltenen Eintragungen Sachverständige, Prüfer oder Prüfingenieure betreffen.
 
 (2) Die nach Absatz 1 ermittelten auf Sachverständige, Prüfer oder Prüfingenieure bezogenen Daten aus dem Fahreignungsregister übermittelt das Amt den zuständigen Anerkennungsbehörden, den für die Zustimmung zur Betrauung zuständigen Behörden oder den zuständigen Aufsichtsbehörden. Hierbei werden die personenbezogenen Daten der betroffenen Person, Art und Umfang der Eintragung, Datum der betreffenden Maßnahme, Entscheidung oder Erklärung sowie Aktenzeichen der Behörde oder des Gerichts übermittelt.
 
-
-## § 29 – Datenvergleich zur Beseitigung von Fehlern
+# § 29 – Datenvergleich zur Beseitigung von Fehlern
 
 (1) Die nach § 22 gespeicherten Daten dürfen von der örtlichen Registerbehörde an das Kraftfahrt-Bundesamt zum Fahreignungsregister und zum Zentralen Fahrerlaubnisregister übermittelt werden, soweit dies erforderlich ist, um Fehler und Abweichungen in diesen Registern festzustellen und zu beseitigen und um diese Register zu vervollständigen.
 
@@ -378,8 +345,7 @@ zuständig sind, übermittelt werden, soweit dies zur Erfüllung der diesen Stel
 
 (3) Die Übermittlungen nach Absatz 1 oder Absatz 2 sind nur zulässig, wenn Anlaß zu der Annahme besteht, daß die Datenbestände unrichtig oder unvollständig sind.
 
-
-## § 30 – Löschung der Daten
+# § 30 – Löschung der Daten
 
 Die nach den §§ 22 und 23 gespeicherten Daten sind
 
@@ -395,8 +361,7 @@ Die nach den §§ 22 und 23 gespeicherten Daten sind
 
 zu löschen. Die Daten über die nicht bestandenen Prüfungen (§ 22 Abs. 3 Nr. 5) werden nach Anerkennung oder Zustimmung zur Betrauung der betroffenen Person gelöscht. Für die Löschung der nach § 28 übermittelten Daten gilt § 29 des Straßenverkehrsgesetzes entsprechend.
 
-
-## § 31 – Register über die Sachverständigen der Bundeswehr
+# § 31 – Register über die Sachverständigen der Bundeswehr
 
 (1) Die durch das Bundesministerium der Verteidigung bestimmte Dienststelle führt ein Register über die von der Bundeswehr anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr. Im Zentralen Fahrerlaubnisregister dürfen Daten über Sachverständige und Prüfer nach Maßgabe des § 23 gespeichert werden.
 
@@ -404,8 +369,7 @@ zu löschen. Die Daten über die nicht bestandenen Prüfungen (§ 22 Abs. 3 Nr. 
 
 (3) Im übrigen finden die Vorschriften der §§ 24 bis 28 und 30 sinngemäß Anwendung.
 
-
-## § 32 – Übergangsregelung
+# § 32 – Übergangsregelung
 
 (1) Ein bei Inkrafttreten dieses Gesetzes amtlich anerkannter Sachverständiger oder Prüfer für den Kraftfahrzeugverkehr bedarf für die ihm zu diesem Zeitpunkt übertragenen Befugnisse keiner erneuten Anerkennung nach diesem Gesetz. Amtlich anerkannte Prüfer, deren Befugnisse nicht beschränkt sind, erhalten die Anerkennung als amtlich anerkannter Sachverständiger mit Teilbefugnissen.
 
@@ -417,15 +381,13 @@ zu löschen. Die Daten über die nicht bestandenen Prüfungen (§ 22 Abs. 3 Nr. 
 
 (5) Amtlich anerkannte Sachverständige oder Prüfer, die vor dem 19. Januar 2013 zur Abnahme von Fahrerlaubnisprüfungen berechtigt waren, sind danach unabhängig vom Vorliegen der Anforderungen in § 6 Absatz 3 weiter zur Abnahme von Fahrerlaubnisprüfungen berechtigt. Sie unterliegen der regelmäßigen Überwachung und den Regelungen zur Qualitätssicherung nach diesem Gesetz.
 
-
-## § 33 – Inkrafttreten
+# § 33 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Januar 1972 in Kraft.
 
 (2)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 1103)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 1103)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

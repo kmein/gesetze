@@ -1,10 +1,7 @@
-# [BTGO1980Anl 5] Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anlage 5 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
-
-Ausfertigungsdatum: 25.06.1980
-
+% Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anlage 5 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
+% Ausfertigungsdatum: 25.06.1980
  
-
-## I. – Voraussetzungen der Aktuellen Stunde
+# I. – Voraussetzungen der Aktuellen Stunde
 
 1. Eine Aktuelle Stunde (§ 106) findet statt, wenn sie
 
@@ -18,8 +15,7 @@ c) unabhängig von einer für die Fragestunde eingereichten Frage von einer Frak
 
 b) Das Verlangen auf eine Aussprache (I. 1.c)) ist dem Präsidenten unter Angabe des Themas bis spätestens 12.00 Uhr des Vortages vorzulegen. Ist die Tagesordnung bereits verteilt, wird ihre Ergänzung durch den Präsidenten mitgeteilt.
 
-
-## II. – Rangfolge der Aussprache
+# II. – Rangfolge der Aussprache
 
 3. An einem Sitzungstag des Bundestages wird nur eine Aussprache durchgeführt.
 
@@ -27,8 +23,7 @@ b) Das Verlangen auf eine Aussprache (I. 1.c)) ist dem Präsidenten unter Angabe
 
 5. Eine Aussprache, die unabhängig von einer für die Fragestunde eingereichten Frage verlangt wird (I. 1.c)), wird auf den nachfolgenden Sitzungstag vertagt, wenn für einen Sitzungstag eine Aussprache zu der Antwort der Bundesregierung auf eine mündliche Anfrage (I. 1.b)) verlangt wird. Die vertagte Aussprache geht dann den anderen Möglichkeiten zur Aussprache vor.
 
-
-## III. – Dauer und Redeordnung der Aussprache
+# III. – Dauer und Redeordnung der Aussprache
 
 6. (1) Die Aussprache dauert höchstens eine Stunde. Sprechen weniger Mitglieder einer Fraktion, als aus deren Mitte das Wort erhalten können, verkürzt sich die Aussprache um die ihnen zustehende Redezeit.
 

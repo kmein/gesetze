@@ -1,10 +1,7 @@
-# [EStDV 1955] Einkommensteuer-Durchführungsverordnung  (EStDV 1955)
-
-Ausfertigungsdatum: 21.12.1955
-
+% Einkommensteuer-Durchführungsverordnung  (EStDV 1955)
+% Ausfertigungsdatum: 21.12.1955
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -539,42 +536,33 @@ Anlage 6
 
 Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
 
-
-## § 1 – Anwendung auf Ehegatten und Lebenspartner
+# § 1 – Anwendung auf Ehegatten und Lebenspartner
 
 Die Regelungen dieser Verordnung zu Ehegatten und Ehen sind auch auf Lebenspartner und Lebenspartnerschaften anzuwenden.
 
+# §§ 2 und 3 – (weggefallen)
 
-## §§ 2 und 3 – (weggefallen)
-
-
-## § 4 – Steuerfreie Einnahmen
+# § 4 – Steuerfreie Einnahmen
 
 Die Vorschriften der Lohnsteuer-Durchführungsverordnung über die Steuerpflicht oder die Steuerfreiheit von Einnahmen aus nichtselbständiger Arbeit sind bei der Veranlagung anzuwenden.
 
+# § 5 – (weggefallen)
 
-## § 5 – (weggefallen)
-
-
-## § 6 – Eröffnung, Erwerb, Aufgabe und Veräußerung eines Betriebs
+# § 6 – Eröffnung, Erwerb, Aufgabe und Veräußerung eines Betriebs
 
 (1) Wird ein Betrieb eröffnet oder erworben, so tritt bei der Ermittlung des Gewinns an die Stelle des Betriebsvermögens am Schluss des vorangegangenen Wirtschaftsjahrs das Betriebsvermögen im Zeitpunkt der Eröffnung oder des Erwerbs des Betriebs.
 
 (2) Wird ein Betrieb aufgegeben oder veräußert, so tritt bei der Ermittlung des Gewinns an die Stelle des Betriebsvermögens am Schluss des Wirtschaftsjahrs das Betriebsvermögen im Zeitpunkt der Aufgabe oder der Veräußerung des Betriebs.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert
+# § 8 – Eigenbetrieblich genutzte Grundstücke von untergeordnetem Wert
 
 Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als Betriebsvermögen behandelt zu werden, wenn ihr Wert nicht mehr als ein Fünftel des gemeinen Werts des gesamten Grundstücks und nicht mehr als 20.500 Euro beträgt.
 
+# § 8a – (weggefallen)
 
-## § 8a – (weggefallen)
-
-
-## § 8b – Wirtschaftsjahr
+# § 8b – Wirtschaftsjahr
 
 ¹Das Wirtschaftsjahr umfasst einen Zeitraum von zwölf Monaten. ²Es darf einen Zeitraum von weniger als zwölf Monaten umfassen, wenn
 
@@ -582,8 +570,7 @@ Eigenbetrieblich genutzte Grundstücksteile brauchen nicht als Betriebsvermögen
 
 2. ein Steuerpflichtiger von regelmäßigen Abschlüssen auf einen bestimmten Tag zu regelmäßigen Abschlüssen auf einen anderen bestimmten Tag übergeht. ²Bei Umstellung eines Wirtschaftsjahrs, das mit dem Kalenderjahr übereinstimmt, auf ein vom Kalenderjahr abweichendes Wirtschaftsjahr und bei Umstellung eines vom Kalenderjahr abweichenden Wirtschaftsjahrs auf ein anderes vom Kalenderjahr abweichendes Wirtschaftsjahr gilt dies nur, wenn die Umstellung im Einvernehmen mit dem Finanzamt vorgenommen wird.
 
-
-## § 8c – Wirtschaftsjahr bei Land- und Forstwirten
+# § 8c – Wirtschaftsjahr bei Land- und Forstwirten
 
 (1) ¹Als Wirtschaftsjahr im Sinne des § 4a Abs. 1 Nr. 1 des Gesetzes können Betriebe mit
 
@@ -601,29 +588,23 @@ bestimmen. ²Ein Betrieb der in Satz 1 bezeichneten Art liegt auch dann vor, wen
 
 (+++ § 8c Abs. 2 Satz 1: Zur erstmaligen Anwendung vgl. § 84 +++)
 
+# § 9 – (weggefallen)
 
-## § 9 – (weggefallen)
-
-
-## § 9a – Anschaffung, Herstellung
+# § 9a – Anschaffung, Herstellung
 
 Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung ist das Jahr der Fertigstellung.
 
-
-## § 10 – Absetzung für Abnutzung im Fall des § 4 Abs. 3 des Gesetzes
+# § 10 – Absetzung für Abnutzung im Fall des § 4 Abs. 3 des Gesetzes
 
 (1) ¹Bei nicht in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegenen Gebäuden, die bereits am 21. Juni 1948 zum Betriebsvermögen gehört haben, sind im Fall des § 4 Abs. 3 des Gesetzes für die Bemessung der Absetzung für Abnutzung als Anschaffungs- oder Herstellungskosten höchstens die Werte zugrunde zu legen, die sich bei sinngemäßer Anwendung des § 16 Abs. 1 des D-Markbilanzgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4140-1, veröffentlichten bereinigten Fassung ergeben würden. ²In dem Teil des Landes Berlin, in dem das Grundgesetz bereits vor dem 3. Oktober 1990 galt, tritt an die Stelle des 21. Juni 1948 der 1. April 1949.
 
 (2) Für Gebäude, die zum Betriebsvermögen eines Betriebs oder einer Betriebsstätte im Saarland gehören, gilt Absatz 1 mit der Maßgabe, dass an die Stelle des 21. Juni 1948 der 6. Juli 1959 sowie an die Stelle des § 16 Abs. 1 des D-Markbilanzgesetzes der § 8 Abs. 1 und der § 11 des D-Markbilanzgesetzes für das Saarland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4140-2, veröffentlichten bereinigten Fassung treten.
 
+# § 10a – (weggefallen)
 
-## § 10a – (weggefallen)
+# §§ 11 bis 11b – (weggefallen)
 
-
-## §§ 11 bis 11b – (weggefallen)
-
-
-## § 11c – Absetzung für Abnutzung bei Gebäuden
+# § 11c – Absetzung für Abnutzung bei Gebäuden
 
 (1) ¹Nutzungsdauer eines Gebäudes im Sinne des § 7 Abs. 4 Satz 2 des Gesetzes ist der Zeitraum, in dem ein Gebäude voraussichtlich seiner Zweckbestimmung entsprechend genutzt werden kann. ²Der Zeitraum der Nutzungsdauer beginnt
 
@@ -637,60 +618,47 @@ Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung ist das Ja
 
 (2) ¹Hat der Steuerpflichtige nach § 7 Abs. 4 Satz 3 des Gesetzes bei einem Gebäude eine Absetzung für außergewöhnliche technische oder wirtschaftliche Abnutzung vorgenommen, so bemessen sich die Absetzungen für Abnutzung von dem folgenden Wirtschaftsjahr oder Kalenderjahr an nach den Anschaffungs- oder Herstellungskosten des Gebäudes abzüglich des Betrags der Absetzung für außergewöhnliche technische oder wirtschaftliche Abnutzung. ²Entsprechendes gilt, wenn der Steuerpflichtige ein zu einem Betriebsvermögen gehörendes Gebäude nach § 6 Abs. 1 Nr. 1 Satz 2 des Gesetzes mit dem niedrigeren Teilwert angesetzt hat. ³Im Fall der Zuschreibung nach § 7 Abs. 4 Satz 3 des Gesetzes oder der Wertaufholung nach § 6 Abs. 1 Nr. 1 Satz 4 des Gesetzes erhöht sich die Bemessungsgrundlage für die Absetzungen für Abnutzung von dem folgenden Wirtschaftsjahr oder Kalenderjahr an um den Betrag der Zuschreibung oder Wertaufholung.
 
-
-## § 11d – Absetzung für Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern, die der Steuerpflichtige unentgeltlich erworben hat
+# § 11d – Absetzung für Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern, die der Steuerpflichtige unentgeltlich erworben hat
 
 (1) ¹Bei den nicht zu einem Betriebsvermögen gehörenden Wirtschaftsgütern, die der Steuerpflichtige unentgeltlich erworben hat, bemessen sich die Absetzungen für Abnutzung nach den Anschaffungs- oder Herstellungskosten des Rechtsvorgängers oder dem Wert, der beim Rechtsvorgänger an deren Stelle getreten ist oder treten würde, wenn dieser noch Eigentümer wäre, zuzüglich der vom Rechtsnachfolger aufgewendeten Herstellungskosten und nach dem Prozentsatz, der für den Rechtsvorgänger maßgebend sein würde, wenn er noch Eigentümer des Wirtschaftsguts wäre. ²Absetzungen für Abnutzung durch den Rechtsnachfolger sind nur zulässig, soweit die vom Rechtsvorgänger und vom Rechtsnachfolger zusammen vorgenommenen Absetzungen für Abnutzung, erhöhten Absetzungen und Abschreibungen bei dem Wirtschaftsgut noch nicht zur vollen Absetzung geführt haben. ³Die Sätze 1 und 2 gelten für die Absetzung für Substanzverringerung und für erhöhte Absetzungen entsprechend.
 
 (2) Bei Bodenschätzen, die der Steuerpflichtige auf einem ihm gehörenden Grundstück entdeckt hat, sind Absetzungen für Substanzverringerung nicht zulässig.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
+# §§ 13 und 14 – (weggefallen)
 
-
-## §§ 13 und 14 – (weggefallen)
-
-
-## § 15 – Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
+# § 15 – Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
 
 (1) Bauherr ist, wer auf eigene Rechnung und Gefahr ein Gebäude baut oder bauen lässt.
 
 (2) In den Fällen des § 7b des Gesetzes in den vor Inkrafttreten des Gesetzes vom 22. Dezember 1981 (BGBl. I S. 1523) geltenden Fassungen und des § 54 des Gesetzes in der Fassung der Bekanntmachung vom 24. Januar 1984 (BGBl. I S. 113) ist § 15 der Einkommensteuer-Durchführungsverordnung 1979 (BGBl. 1980 I S. 1801), geändert durch die Verordnung vom 11. Juni 1981 (BGBl. I S. 526), weiter anzuwenden.
 
+# §§ 16 bis 21 – (weggefallen)
 
-## §§ 16 bis 21 – (weggefallen)
+# §§ 22 bis 28 – (weggefallen)
 
-
-## §§ 22 bis 28 – (weggefallen)
-
-
-## § 29 – Anzeigepflichten bei Versicherungsverträgen
+# § 29 – Anzeigepflichten bei Versicherungsverträgen
 
 ¹Bei Versicherungen, deren Laufzeit vor dem 1. Januar 2005 begonnen hat, hat der Sicherungsnehmer nach amtlich vorgeschriebenem Muster dem für die Veranlagung des Versicherungsnehmers nach dem Einkommen zuständigen Finanzamt, bei einem Versicherungsnehmer, der im Inland weder einen Wohnsitz noch seinen gewöhnlichen Aufenthalt hat, dem für die Veranlagung des Sicherungsnehmers zuständigen Finanzamt (§§ 19, 20 der Abgabenordnung) unverzüglich die Fälle anzuzeigen, in denen Ansprüche aus Versicherungsverträgen zur Tilgung oder Sicherung von Darlehen eingesetzt werden. ²Satz 1 gilt entsprechend für das Versicherungsunternehmen, wenn der Sicherungsnehmer Wohnsitz, Sitz oder Geschäftsleitung im Ausland hat. ³Werden Ansprüche aus Versicherungsverträgen von Personen, die im Inland einen Wohnsitz oder ihren gewöhnlichen Aufenthalt haben (§ 1 Abs. 1 des Gesetzes), zur Tilgung oder Sicherung von Darlehen eingesetzt, sind die Sätze 1 und 2 nur anzuwenden, wenn die Darlehen den Betrag von 25.565 Euro übersteigen. ⁴Der Steuerpflichtige hat dem für seine Veranlagung zuständigen Finanzamt (§ 19 der Abgabenordnung) die Abtretung und die Beleihung unverzüglich anzuzeigen.
 
-
-## § 30 – Nachversteuerung bei Versicherungsverträgen
+# § 30 – Nachversteuerung bei Versicherungsverträgen
 
 ¹Eine Nachversteuerung ist durchzuführen, wenn die Voraussetzungen für den Sonderausgabenabzug von Vorsorgeaufwendungen nach § 10 Absatz 2 Satz 2 des Gesetzes in der am 31. Dezember 2004 geltenden Fassung nicht erfüllt sind. ²Zu diesem Zweck ist die Steuer zu berechnen, die festzusetzen gewesen wäre, wenn der Steuerpflichtige die Beiträge nicht geleistet hätte. ³Der Unterschied zwischen dieser und der festgesetzten Steuer ist als Nachsteuer zu erheben.
 
+# §§ 31 bis 44 – (weggefallen)
 
-## §§ 31 bis 44 – (weggefallen)
+# §§ 45 bis 47 – (weggefallen)
 
-
-## §§ 45 bis 47 – (weggefallen)
-
-
-## § 48 – (weggefallen)
+# § 48 – (weggefallen)
 
 \-
 
-
-## § 49 – (weggefallen)
+# § 49 – (weggefallen)
 
 \-
 
-
-## § 50 – Zuwendungsbestätigung
+# § 50 – Zuwendungsbestätigung
 
 (1) ¹Zuwendungen im Sinne der §§ 10b und 34g des Gesetzes dürfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende eine Zuwendungsbestätigung, die der Zuwendungsempfänger unter Berücksichtigung des § 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den Absätzen 4 bis 6 bezeichneten Unterlagen erhalten hat. ²Dies gilt nicht für Zuwendungen an nicht im Inland ansässige Zuwendungsempfänger nach § 10b Absatz 1 Satz 2 Nummer 1 und 3 des Gesetzes.
 
@@ -726,8 +694,7 @@ c) der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes 
 
 (+++ § 50: Zur erstmaligen Anwendung vgl. § 84 Abs. 2c +++)
 
-
-## § 51 – Pauschale Ermittlung der Gewinne aus Holznutzungen
+# § 51 – Pauschale Ermittlung der Gewinne aus Holznutzungen
 
 (1) Steuerpflichtige, die für ihren Betrieb nicht zur Buchführung verpflichtet sind, den Gewinn nicht nach § 4 Absatz 1 des Einkommensteuergesetzes ermitteln und deren forstwirtschaftlich genutzte Fläche 50 Hektar nicht übersteigt, können auf Antrag für ein Wirtschaftsjahr bei der Ermittlung der Gewinne aus Holznutzungen pauschale Betriebsausgaben abziehen.
 
@@ -741,8 +708,7 @@ c) der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes 
 
 (+++ § 51: Zur Anwendung vgl. § 84 Abs. 3a +++)
 
-
-## § 52 – Mitteilungspflichten bei Beihilfen aus öffentlichen Mitteln
+# § 52 – Mitteilungspflichten bei Beihilfen aus öffentlichen Mitteln
 
 (1) ¹Behörden und andere öffentliche Stellen im Sinne von § 6 Absatz 1 bis 1e der Abgabenordnung sind als mitteilungspflichtige Stellen verpflichtet, der für die Besteuerung des Zahlungsempfängers nach dem Einkommen zuständigen Finanzbehörde eine Mitteilung zu übermitteln, wenn von dieser einer als Land- und Forstwirt tätigen natürlichen Person, Personenvereinigung oder juristischen Person Beihilfen aus öffentlichen Mitteln der Europäischen Union, des Bundes oder eines Landes gewährt werden. ²Von der Mitteilungspflicht ausgenommen sind Förderkredite, Gewährleistungen, Bürgschaften, Garantien und Beteiligungen.
 
@@ -762,13 +728,11 @@ c) der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes 
 
 (+++ § 52: Zur erstmaligen Anwendung vgl. § 84 +++)
 
-
-## § 53 – Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften
+# § 53 – Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften
 
 ¹Bei Anteilen an einer Kapitalgesellschaft, die vor dem 21. Juni 1948 erworben worden sind, sind als Anschaffungskosten im Sinne des § 17 Abs. 2 des Gesetzes die endgültigen Höchstwerte zugrunde zu legen, mit denen die Anteile in eine steuerliche Eröffnungsbilanz in Deutscher Mark auf den 21. Juni 1948 hätten eingestellt werden können; bei Anteilen, die am 21. Juni 1948 als Auslandsvermögen beschlagnahmt waren, ist bei Veräußerung vor der Rückgabe der Veräußerungserlös und bei Veräußerung nach der Rückgabe der Wert im Zeitpunkt der Rückgabe als Anschaffungskosten maßgebend. ²Im Land Berlin tritt an die Stelle des 21. Juni 1948 jeweils der 1. April 1949; im Saarland tritt an die Stelle des 21. Juni 1948 für die in § 43 Abs. 1 Ziff 1 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland vom 30. Juni 1959 (BGBl. I S. 339) bezeichneten Personen jeweils der 6. Juli 1959.
 
-
-## § 54 – Übersendung von Urkunden durch die Notare
+# § 54 – Übersendung von Urkunden durch die Notare
 
 (1) ¹Die Notare übersenden dem in § 20 der Abgabenordnung bezeichneten Finanzamt eine beglaubigte Abschrift aller auf Grund gesetzlicher Vorschrift aufgenommenen oder beglaubigten Urkunden, die die Gründung, Kapitalerhöhung oder -herabsetzung, Umwandlung oder Auflösung von Kapitalgesellschaften oder die Verfügung über Anteile an Kapitalgesellschaften zum Gegenstand haben. ²Gleiches gilt für Dokumente, die im Rahmen einer Anmeldung einer inländischen Zweigniederlassung einer Kapitalgesellschaft mit Sitz im Ausland zur Eintragung in das Handelsregister diesem zu übersenden sind.
 
@@ -781,8 +745,7 @@ c) der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes 
 (+++ § 54 Abs. 1 Satz 2: Zur erstmaligen Anwendung vgl. § 84 +++)  
 (+++ § 54 Abs. 4: Zur erstmaligen Anwendung vgl. § 84 +++)
 
-
-## § 55 – Ermittlung des Ertrags aus Leibrenten in besonderen Fällen
+# § 55 – Ermittlung des Ertrags aus Leibrenten in besonderen Fällen
 
 (1) Der Ertrag des Rentenrechts ist in den folgenden Fällen auf Grund der in § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb des Gesetzes aufgeführten Tabelle zu ermitteln:
 
@@ -792,8 +755,7 @@ c) der Empfänger eine politische Partei im Sinne des § 2 des Parteiengesetzes 
 
 3. bei Leibrenten, deren Dauer von der Lebenszeit mehrerer Personen abhängt. ²Dabei ist das bei Beginn der Rente, im Fall der Nummer 1 das vor dem 1. Januar 1955 vollendete Lebensjahr der ältesten Person maßgebend, wenn das Rentenrecht mit dem Tod des zuerst Sterbenden erlischt, und das Lebensjahr der jüngsten Person, wenn das Rentenrecht mit dem Tod des zuletzt Sterbenden erlischt.
 
-(2) ¹Der Ertrag der Leibrenten, die auf eine bestimmte Zeit beschränkt sind (abgekürzte Leibrenten), ist nach der Lebenserwartung unter Berücksichtigung der zeitlichen Begrenzung zu ermitteln. ²Der Ertragsanteil ist aus der nachstehenden Tabelle zu entnehmen. ³Absatz 1 ist entsprechend anzuwenden.  
-  
+(2) ¹Der Ertrag der Leibrenten, die auf eine bestimmte Zeit beschränkt sind (abgekürzte Leibrenten), ist nach der Lebenserwartung unter Berücksichtigung der zeitlichen Begrenzung zu ermitteln. ²Der Ertragsanteil ist aus der nachstehenden Tabelle zu entnehmen. ³Absatz 1 ist entsprechend anzuwenden.   
 
 Beschränkung der Laufzeit der Rente auf ... Jahre ab Beginn des Rentenbezugs (ab 1. Januar 1955, falls die Rente vor diesem Zeitpunkt zu laufen begonnen hat)
 
@@ -1147,8 +1109,7 @@ ab 80
 
 Der Ertragsanteil ist immer der Tabelle in § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb des Gesetzes zu entnehmen.
 
-
-## § 56 – Steuererklärungspflicht
+# § 56 – Steuererklärungspflicht
 
 ¹Unbeschränkt Steuerpflichtige haben eine jährliche Einkommensteuererklärung für das abgelaufene Kalenderjahr (Veranlagungszeitraum) in den folgenden Fällen abzugeben:
 
@@ -1168,11 +1129,9 @@ b) wenn in dem Gesamtbetrag der Einkünfte Einkünfte aus nichtselbständiger Ar
 
 (+++ § 56: Zur Anwendung vgl. § 84 Abs. 11 +++)
 
+# §§ 57 bis 59 – (weggefallen)
 
-## §§ 57 bis 59 – (weggefallen)
-
-
-## § 60 – Unterlagen zur Steuererklärung
+# § 60 – Unterlagen zur Steuererklärung
 
 (1) ¹Der Steuererklärung ist eine Abschrift der Bilanz, die auf dem Zahlenwerk der Buchführung beruht, im Fall der Eröffnung des Betriebs auch eine Abschrift der Eröffnungsbilanz beizufügen, wenn der Gewinn nach § 4 Abs. 1, § 5 oder § 5a des Gesetzes ermittelt und auf eine elektronische Übermittlung nach § 5b Abs. 2 des Gesetzes verzichtet wird. ²Werden Bücher geführt, die den Grundsätzen der doppelten Buchführung entsprechen, ist eine Gewinn- und Verlustrechnung beizufügen.
 
@@ -1184,18 +1143,15 @@ b) wenn in dem Gesamtbetrag der Einkünfte Einkünfte aus nichtselbständiger Ar
 
 (+++ § 60 Abs. 1 u. 4: Zur erstmaligen Anwendung vgl. § 84 +++)
 
-
-## § 61 – Antrag auf hälftige Verteilung von Abzugsbeträgen im Fall des § 26a des Gesetzes
+# § 61 – Antrag auf hälftige Verteilung von Abzugsbeträgen im Fall des § 26a des Gesetzes
 
 Können die Ehegatten den Antrag nach § 26a Absatz 2 des Gesetzes nicht gemeinsam stellen, weil einer der Ehegatten dazu aus zwingenden Gründen nicht in der Lage ist, kann das Finanzamt den Antrag des anderen Ehegatten als genügend ansehen.
 
 (+++ § 61: Zur Anwendung vgl. § 84 Abs. 11 +++)
 
+# §§ 62 bis 62c – (weggefallen)
 
-## §§ 62 bis 62c – (weggefallen)
-
-
-## § 62d – Anwendung des § 10d des Gesetzes bei der Veranlagung von Ehegatten
+# § 62d – Anwendung des § 10d des Gesetzes bei der Veranlagung von Ehegatten
 
 (1) ¹Im Fall der Einzelveranlagung von Ehegatten (§ 26a des Gesetzes) kann der Steuerpflichtige den Verlustabzug nach § 10d des Gesetzes auch für Verluste derjenigen Veranlagungszeiträume geltend machen, in denen die Ehegatten nach § 26b des Gesetzes zusammen veranlagt worden sind. ²Der Verlustabzug kann in diesem Fall nur für Verluste geltend gemacht werden, die der einzeln veranlagte Ehegatte erlitten hat.
 
@@ -1203,11 +1159,9 @@ Können die Ehegatten den Antrag nach § 26a Absatz 2 des Gesetzes nicht gemeins
 
 (+++ § 62d: Zur Anwendung vgl. § 84 Abs. 11 +++)
 
+# § 63 – (weggefallen)
 
-## § 63 – (weggefallen)
-
-
-## § 64 – Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale
+# § 64 – Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale
 
 (1) Den Nachweis der Zwangsläufigkeit von Aufwendungen im Krankheitsfall hat der Steuerpflichtige zu erbringen:
 
@@ -1237,8 +1191,7 @@ f) wissenschaftlich nicht anerkannte Behandlungsmethoden, wie z. B. Frisch- und 
 
 (+++ § 64: Zur Anwendung vgl. § 84 +++)
 
-
-## § 65 – Nachweis der Behinderung und des Pflegegrads
+# § 65 – Nachweis der Behinderung und des Pflegegrads
 
 (1) Den Nachweis einer Behinderung hat der Steuerpflichtige zu erbringen:
 
@@ -1284,11 +1237,9 @@ f) Gl (gehörlos),
 
 (+++ § 65: Zur Anwendung vgl. §§ 64, 84 +++)
 
+# §§ 66 und 67 – (weggefallen)
 
-## §§ 66 und 67 – (weggefallen)
-
-
-## § 68 – Nutzungssatz, Betriebsgutachten, Betriebswerk
+# § 68 – Nutzungssatz, Betriebsgutachten, Betriebswerk
 
 (1) ¹Der Nutzungssatz muss periodisch für zehn Jahre durch die Finanzbehörde festgesetzt werden. ²Er muss den Holznutzungen entsprechen, die unter Berücksichtigung der vollen Ertragsfähigkeit des Waldes in Kubikmetern im Festmaß (Erntefestmeter Derbholz ohne Rinde) nachhaltig erzielbar sind.
 
@@ -1296,34 +1247,27 @@ f) Gl (gehörlos),
 
 (3) ¹Ein Betriebsgutachten im Sinne des Absatzes 2 ist amtlich anerkannt, wenn die Anerkennung von einer Behörde oder einer Körperschaft des öffentlichen Rechts des Landes, in dem der forstwirtschaftliche Betrieb liegt, ausgesprochen wird. ²Die Länder bestimmen, welche Behörden oder Körperschaften des öffentlichen Rechts diese Anerkennung auszusprechen haben.
 
-
-## § 68a – Einkünfte aus mehreren ausländischen Staaten
+# § 68a – Einkünfte aus mehreren ausländischen Staaten
 
 ¹Die für die Einkünfte aus einem ausländischen Staat festgesetzte und gezahlte und um einen entstandenen Ermäßigungsanspruch gekürzte ausländische Steuer ist nur bis zur Höhe der deutschen Steuer anzurechnen, die auf die Einkünfte aus diesem ausländischen Staat entfällt. ²Stammen die Einkünfte aus mehreren ausländischen Staaten, so sind die Höchstbeträge der anrechenbaren ausländischen Steuern für jeden einzelnen ausländischen Staat gesondert zu berechnen.
 
-
-## § 68b – Nachweis über die Höhe der ausländischen Einkünfte und Steuern
+# § 68b – Nachweis über die Höhe der ausländischen Einkünfte und Steuern
 
 ¹Der Steuerpflichtige hat den Nachweis über die Höhe der ausländischen Einkünfte und über die Festsetzung und Zahlung der ausländischen Steuern durch Vorlage entsprechender Urkunden (z. B. Steuerbescheid, Quittung über die Zahlung) zu führen. ²Sind diese Urkunden in einer fremden Sprache abgefasst, so kann eine beglaubigte Übersetzung in die deutsche Sprache verlangt werden.
 
+# §§ 68c und 69 – (weggefallen)
 
-## §§ 68c und 69 – (weggefallen)
-
-
-## § 70 – Ausgleich von Härten in bestimmten Fällen
+# § 70 – Ausgleich von Härten in bestimmten Fällen
 
 ¹Betragen in den Fällen des § 46 Absatz 2 Nummer 1 bis 7 des Gesetzes die einkommensteuerpflichtigen Einkünfte, von denen der Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist und die nicht nach § 32d Absatz 6 des Gesetzes der tariflichen Einkommensteuer unterworfen wurden, insgesamt mehr als 410 Euro, so ist vom Einkommen der Betrag abzuziehen, um den die bezeichneten Einkünfte, vermindert um den auf sie entfallenden Altersentlastungsbetrag (§ 24a des Gesetzes) und den nach § 13 Absatz 3 des Gesetzes zu berücksichtigenden Betrag, niedriger als 820 Euro sind (Härteausgleichsbetrag). ²Der Härteausgleichsbetrag darf nicht höher sein als die nach Satz 1 verminderten Einkünfte.
 
 (+++ § 70: Zur Anwendung vgl. § 84 +++)
 
+# §§ 71 und 72 – (weggefallen)
 
-## §§ 71 und 72 – (weggefallen)
+# § 73 – (weggefallen)
 
-
-## § 73 – (weggefallen)
-
-
-## § 73a – Begriffsbestimmungen
+# § 73a – Begriffsbestimmungen
 
 (1) Inländisch im Sinne des § 50a Abs. 1 Nr. 4 des Gesetzes sind solche Personenvereinigungen, die ihre Geschäftsleitung oder ihren Sitz im Geltungsbereich des Gesetzes haben.
 
@@ -1343,11 +1287,9 @@ geschützt sind.
 
 (+++ § 73a: Zur erstmaligen Anwendung vgl. § 84 +++)
 
+# § 73b – (weggefallen)
 
-## § 73b – (weggefallen)
-
-
-## § 73c – Zeitpunkt des Zufließens im Sinne des § 50a Abs. 5 Satz 1 des Gesetzes
+# § 73c – Zeitpunkt des Zufließens im Sinne des § 50a Abs. 5 Satz 1 des Gesetzes
 
 Die Vergütungen im Sinne des § 50a Abs. 1 des Gesetzes fließen dem Gläubiger zu
 
@@ -1365,8 +1307,7 @@ bei Zahlung, Verrechnung oder Gutschrift der Vorschüsse.
 
 (+++ § 73c: Zur erstmaligen Anwendung vgl. § 84 +++)
 
-
-## § 73d – Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht
+# § 73d – Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht
 
 (1) ¹Der Schuldner der Vergütungen im Sinne des § 50a Abs. 1 des Gesetzes (Schuldner) hat besondere Aufzeichnungen zu führen. ²Aus den Aufzeichnungen müssen ersichtlich sein:
 
@@ -1386,8 +1327,7 @@ bei Zahlung, Verrechnung oder Gutschrift der Vorschüsse.
 
 (+++ § 73d Abs. 1: Zur erstmaligen Anwendung vgl. § 84 +++)
 
-
-## § 73e – Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)
+# § 73e – Einbehaltung, Abführung und Anmeldung der Steuer von Vergütungen im Sinne des § 50a Abs. 1 und 7 des Gesetzes (§ 50a Abs. 5 des Gesetzes)
 
 ¹Der Schuldner hat die innerhalb eines Kalendervierteljahrs einbehaltene Steuer von Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes unter der Bezeichnung „Steuerabzug von Vergütungen im Sinne des § 50a Absatz 1 des Einkommensteuergesetzes“ jeweils bis zum zehnten des dem Kalendervierteljahr folgenden Monats an das Bundeszentralamt für Steuern abzuführen. ²Bis zum gleichen Zeitpunkt hat der Schuldner dem Bundeszentralamt für Steuern eine Steueranmeldung über den Gläubiger, die Höhe der Vergütungen im Sinne des § 50a Absatz 1 des Gesetzes, die Höhe und Art der von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten und die Höhe des Steuerabzugs zu übersenden. ³Satz 2 gilt entsprechend, wenn ein Steuerabzug auf Grund der Vorschrift des § 50a Abs. 2 Satz 3 oder Abs. 4 Satz 1 des Gesetzes nicht vorzunehmen ist oder auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung nicht oder nicht in voller Höhe vorzunehmen ist. ⁴Die Steueranmeldung ist nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. ⁵Auf Antrag kann das Bundeszentralamt für Steuern zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Steueranmeldung vom Schuldner oder von einem zu seiner Vertretung Berechtigten zu unterschreiben. ⁶Ist es zweifelhaft, ob der Gläubiger beschränkt oder unbeschränkt steuerpflichtig ist, so darf der Schuldner die Einbehaltung der Steuer nur dann unterlassen, wenn der Gläubiger durch eine Bescheinigung des nach den abgabenrechtlichen Vorschriften für die Besteuerung seines Einkommens zuständigen Finanzamts nachweist, dass er unbeschränkt steuerpflichtig ist. ⁷Die Sätze 1, 2, 4 und 5 gelten entsprechend für die Steuer nach § 50a Absatz 7 des Gesetzes mit der Maßgabe, dass
 
@@ -1397,15 +1337,13 @@ bei Zahlung, Verrechnung oder Gutschrift der Vorschüsse.
 
 (+++ § 73e: Zur Anwendung vgl. § 84 +++)
 
-
-## § 73f – Steuerabzug in den Fällen des § 50a Abs. 6 des Gesetzes
+# § 73f – Steuerabzug in den Fällen des § 50a Abs. 6 des Gesetzes
 
 ¹Der Schuldner der Vergütungen für die Nutzung oder das Recht auf Nutzung von Urheberrechten im Sinne des § 50a Abs. 1 Nr. 3 des Gesetzes braucht den Steuerabzug nicht vorzunehmen, wenn er diese Vergütungen auf Grund eines Übereinkommens nicht an den beschränkt steuerpflichtigen Gläubiger (Steuerschuldner), sondern an die Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte (Gema) oder an einen anderen Rechtsträger abführt und die obersten Finanzbehörden der Länder mit Zustimmung des Bundesministeriums der Finanzen einwilligen, dass dieser andere Rechtsträger an die Stelle des Schuldners tritt. ²In diesem Fall hat die Gema oder der andere Rechtsträger den Steuerabzug vorzunehmen; § 50a Abs. 5 des Gesetzes sowie die §§ 73d und 73e gelten entsprechend.
 
 (+++ § 73f Satz 1: Zur erstmaligen Anwendung vgl. § 84 +++)
 
-
-## § 73g – Haftungsbescheid
+# § 73g – Haftungsbescheid
 
 (1) Ist die Steuer nicht ordnungsmäßig einbehalten oder abgeführt, so hat das Bundeszentralamt für Steuern oder das zuständige Finanzamt die Steuer von dem Schuldner, in den Fällen des § 73f von dem dort bezeichneten Rechtsträger, durch Haftungsbescheid oder von dem Steuerschuldner durch Steuerbescheid anzufordern.
 
@@ -1413,11 +1351,9 @@ bei Zahlung, Verrechnung oder Gutschrift der Vorschüsse.
 
 (+++ § 73g: Zur erstmaligen Anwendung vgl. § 84 +++)
 
+# §§ 74 bis 80 – (weggefallen)
 
-## §§ 74 bis 80 – (weggefallen)
-
-
-## § 81 – Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau
+# § 81 – Bewertungsfreiheit für bestimmte Wirtschaftsgüter des Anlagevermögens im Kohlen- und Erzbergbau
 
 (1) ¹Steuerpflichtige, die den Gewinn nach § 5 des Gesetzes ermitteln, können bei abnutzbaren Wirtschaftsgütern des Anlagevermögens, bei denen die in den Absätzen 2 und 3 bezeichneten Voraussetzungen vorliegen, im Wirtschaftsjahr der Anschaffung oder Herstellung und in den vier folgenden Wirtschaftsjahren Sonderabschreibungen vornehmen, und zwar  
 
@@ -1482,11 +1418,9 @@ wenn der Steuerpflichtige vor dem 1. Januar 1990 die Wirtschaftsgüter bestellt 
 
 (5) Bei den in Absatz 2 Nr. 1 Buchstabe b bezeichneten Vorhaben können die vor dem 1. Januar 1990 im Geltungsbereich dieser Verordnung ausschließlich des in Artikel 3 des Einigungsvertrages genannten Gebiets aufgewendeten Kosten für den Vorabraum bis zu 50 Prozent als sofort abzugsfähige Betriebsausgaben behandelt werden.
 
+# § 82 – (weggefallen)
 
-## § 82 – (weggefallen)
-
-
-## § 82a – Erhöhte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand für bestimmte Anlagen und Einrichtungen bei Gebäuden
+# § 82a – Erhöhte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand für bestimmte Anlagen und Einrichtungen bei Gebäuden
 
 (1) ¹Der Steuerpflichtige kann von den Herstellungskosten
 
@@ -1506,8 +1440,7 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 
 (3) ¹Sind die Aufwendungen für eine Maßnahme im Sinne des Absatzes 1 Erhaltungsaufwand und entstehen sie bei einer zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus, deren Nutzungswert nicht mehr besteuert wird, und liegen in den Fällen des Absatzes 1 Nr. 1 die Voraussetzungen des Absatzes 1 Satz 3 vor, können die Aufwendungen wie Sonderausgaben abgezogen werden; sie sind auf das Jahr, in dem die Arbeiten abgeschlossen worden sind, und die neun folgenden Jahre gleichmäßig zu verteilen. ²Entsprechendes gilt bei Aufwendungen zur Anschaffung neuer Einzelöfen für eine Wohnung, wenn keine zentrale Heizungsanlage vorhanden ist und die Wohnung seit mindestens zehn Jahren fertiggestellt ist. ³§ 82b Abs. 2 und 3 gilt entsprechend.
 
-
-## § 82b – Behandlung größeren Erhaltungsaufwands bei Wohngebäuden
+# § 82b – Behandlung größeren Erhaltungsaufwands bei Wohngebäuden
 
 (1) ¹Der Steuerpflichtige kann größere Aufwendungen für die Erhaltung von Gebäuden, die im Zeitpunkt der Leistung des Erhaltungsaufwands nicht zu einem Betriebsvermögen gehören und überwiegend Wohnzwecken dienen, abweichend von § 11 Abs. 2 des Gesetzes auf zwei bis fünf Jahre gleichmäßig verteilen. ²Ein Gebäude dient überwiegend Wohnzwecken, wenn die Grundfläche der Wohnzwecken dienenden Räume des Gebäudes mehr als die Hälfte der gesamten Nutzfläche beträgt. ³Zum Gebäude gehörende Garagen sind ohne Rücksicht auf ihre tatsächliche Nutzung als Wohnzwecken dienend zu behandeln, soweit in ihnen nicht mehr als ein Personenkraftwagen für jede in dem Gebäude befindliche Wohnung untergestellt werden kann. ⁴Räume für die Unterstellung weiterer Kraftwagen sind stets als nicht Wohnzwecken dienend zu behandeln.
 
@@ -1515,11 +1448,9 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 
 (3) Steht das Gebäude im Eigentum mehrerer Personen, so ist der in Absatz 1 bezeichnete Erhaltungsaufwand von allen Eigentümern auf den gleichen Zeitraum zu verteilen.
 
+# §§ 82c bis 82e – (weggefallen)
 
-## §§ 82c bis 82e – (weggefallen)
-
-
-## § 82f – Bewertungsfreiheit für Handelsschiffe, für Schiffe, die der Seefischerei dienen, und für Luftfahrzeuge
+# § 82f – Bewertungsfreiheit für Handelsschiffe, für Schiffe, die der Seefischerei dienen, und für Luftfahrzeuge
 
 (1) ¹Steuerpflichtige, die den Gewinn nach § 5 des Gesetzes ermitteln, können bei Handelsschiffen, die in einem inländischen Seeschiffsregister eingetragen sind, im Wirtschaftsjahr der Anschaffung oder Herstellung und in den vier folgenden Wirtschaftsjahren Sonderabschreibungen bis zu insgesamt 40 Prozent der Anschaffungs- oder Herstellungskosten vornehmen. ²§ 9a gilt entsprechend.
 
@@ -1533,26 +1464,21 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 
 (6) ¹Die Absätze 1 bis 5 gelten für Schiffe, die der Seefischerei dienen, entsprechend. ²Für Luftfahrzeuge, die vom Steuerpflichtigen hergestellt oder in ungebrauchtem Zustand vom Hersteller erworben worden sind und die zur gewerbsmäßigen Beförderung von Personen oder Sachen im internationalen Luftverkehr oder zur Verwendung zu sonstigen gewerblichen Zwecken im Ausland bestimmt sind, gelten die Absätze 1 und 3 bis 5 mit der Maßgabe entsprechend, dass an die Stelle der Eintragung in ein inländisches Seeschiffsregister die Eintragung in die deutsche Luftfahrzeugrolle, an die Stelle des Höchstsatzes von 40 Prozent ein Höchstsatz von 30 Prozent und bei der Vorschrift des Absatzes 3 an die Stelle des Zeitraums von acht Jahren ein Zeitraum von sechs Jahren treten.
 
-
-## § 82g – Erhöhte Absetzungen von Herstellungskosten für bestimmte Baumaßnahmen
+# § 82g – Erhöhte Absetzungen von Herstellungskosten für bestimmte Baumaßnahmen
 
 ¹Der Steuerpflichtige kann von den durch Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln nicht gedeckten Herstellungskosten für Modernisierungs- und Instandsetzungsmaßnahmen im Sinne des § 177 des Baugesetzbuchs sowie für Maßnahmen, die der Erhaltung, Erneuerung und funktionsgerechten Verwendung eines Gebäudes dienen, das wegen seiner geschichtlichen, künstlerischen oder städtebaulichen Bedeutung erhalten bleiben soll, und zu deren Durchführung sich der Eigentümer neben bestimmten Modernisierungsmaßnahmen gegenüber der Gemeinde verpflichtet hat, die für Gebäude in einem förmlich festgelegten Sanierungsgebiet oder städtebaulichen Entwicklungsbereich aufgewendet worden sind, an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Absetzungen für Abnutzung im Jahr der Herstellung und in den neun folgenden Jahren jeweils bis zu 10 Prozent absetzen. ²§ 82a Abs. 1 Satz 2 gilt entsprechend. ³Satz 1 ist anzuwenden, wenn der Steuerpflichtige eine Bescheinigung der zuständigen Gemeindebehörde vorlegt, dass er Baumaßnahmen im Sinne des Satzes 1 durchgeführt hat; sind ihm Zuschüsse aus Sanierungs- oder Entwicklungsförderungsmitteln gewährt worden, so hat die Bescheinigung auch deren Höhe zu enthalten.
 
+# § 82h – (weggefallen)
 
-## § 82h – (weggefallen)
-
-
-## § 82i – Erhöhte Absetzungen von Herstellungskosten bei Baudenkmälern
+# § 82i – Erhöhte Absetzungen von Herstellungskosten bei Baudenkmälern
 
 (1) ¹Bei einem Gebäude, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, kann der Steuerpflichtige von den Herstellungskosten für Baumaßnahmen, die nach Art und Umfang zur Erhaltung des Gebäudes als Baudenkmal und zu seiner sinnvollen Nutzung erforderlich sind und die nach Abstimmung mit der in Absatz 2 bezeichneten Stelle durchgeführt worden sind, an Stelle der nach § 7 Abs. 4 des Gesetzes zu bemessenden Absetzungen für Abnutzung im Jahr der Herstellung und in den neun folgenden Jahren jeweils bis zu 10 Prozent absetzen. ²Eine sinnvolle Nutzung ist nur anzunehmen, wenn das Gebäude in der Weise genutzt wird, dass die Erhaltung der schützenswerten Substanz des Gebäudes auf die Dauer gewährleistet ist. ³Bei einem Gebäudeteil, der nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, sind die Sätze 1 und 2 entsprechend anzuwenden. ⁴Bei einem Gebäude, das für sich allein nicht die Voraussetzungen für ein Baudenkmal erfüllt, aber Teil einer Gebäudegruppe oder Gesamtanlage ist, die nach den jeweiligen landesrechtlichen Vorschriften als Einheit geschützt ist, können die erhöhten Absetzungen von den Herstellungskosten der Gebäudeteile und Maßnahmen vorgenommen werden, die nach Art und Umfang zur Erhaltung des schützenswerten Erscheinungsbildes der Gruppe oder Anlage erforderlich sind. ⁵§ 82a Abs. 1 Satz 2 gilt entsprechend.
 
 (2) Die erhöhten Absetzungen können nur in Anspruch genommen werden, wenn der Steuerpflichtige die Voraussetzungen des Absatzes 1 für das Gebäude oder den Gebäudeteil und für die Erforderlichkeit der Herstellungskosten durch eine Bescheinigung der nach Landesrecht zuständigen oder von der Landesregierung bestimmten Stelle nachweist.
 
+# § 83 – (weggefallen)
 
-## § 83 – (weggefallen)
-
-
-## § 84 – Anwendungsvorschriften
+# § 84 – Anwendungsvorschriften
 
 (1) Die vorstehende Fassung dieser Verordnung ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 2020 anzuwenden.
 
@@ -1624,19 +1550,15 @@ an Stelle der nach § 7 Abs. 4 oder 5 oder § 7b des Gesetzes zu bemessenden Abs
 
 (11) § 56 Satz 1 Nummer 1, die §§ 61 und 62d in der Fassung des Artikels 2 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) sind erstmals für den Veranlagungszeitraum 2013 anzuwenden.
 
+# § 85 – (gegenstandslos)
 
-## § 85 – (gegenstandslos)
-
-
-## Anlage 1 – (weggefallen)
+# Anlage 1 – (weggefallen)
 
 \-
 
+# Anlagen 2 bis 4 – (weggefallen)
 
-## Anlagen 2 bis 4 – (weggefallen)
-
-
-## Anlage 5 – (zu § 81 Abs. 3 Nr. 1)  Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1
+# Anlage 5 – (zu § 81 Abs. 3 Nr. 1)  Verzeichnis der Wirtschaftsgüter des Anlagevermögens über Tage im Sinne des § 81 Abs. 3 Nr. 1
 
 (Fundstelle: BGBl. I 2000, 733)
 
@@ -1650,8 +1572,7 @@ Die Bewertungsfreiheit des § 81 kann im Tiefbaubetrieb des Steinkohlen-, Pechko
 
 4. Sieberei, Wäsche und sonstige Aufbereitungsanlagen; im Erzbergbau alle der Aufbereitung dienenden Anlagen sowie die Anlagen zum Rösten von Eisenerzen, wenn die Anlagen nicht zu einem Hüttenbetrieb gehören.
 
-
-## Anlage 6 – (zu § 81 Abs. 3 Nr. 2)  Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
+# Anlage 6 – (zu § 81 Abs. 3 Nr. 2)  Verzeichnis der Wirtschaftsgüter des beweglichen Anlagevermögens im Sinne des § 81 Abs. 3 Nr. 2
 
 (Fundstelle: BGBl. I 2000, 733)
 

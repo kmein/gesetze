@@ -1,15 +1,11 @@
-# [EmsSchEV] Verordnung zur Einführung der Schiffahrtsordnung Emsmündung  (EmsSchEV)
-
-Ausfertigungsdatum: 08.08.1989
-
+% Verordnung zur Einführung der Schiffahrtsordnung Emsmündung  (EmsSchEV)
+% Ausfertigungsdatum: 08.08.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 7, 9 Abs. 1 Satz 1 Nr. 2, 3, 4 und 6, Satz 2, Abs. 2 Satz 1 Nr. 1 und Abs. 6 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541), des § 3 Abs. 1 Nr. 2 des Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270) und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) wird verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung sowie die Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung - BGBl. 1987 II S. 141, 144 geändert durch das deutsch-niederländische Abkommen vom 5. April 2001 - BGBl. 2001 II S. 1050) finden Anwendung
 
@@ -27,8 +23,7 @@ Diese Wasserflächen sind Seeschiffahrtsstraßen.
 
 (3) Soweit diese Verordnung und die Schiffahrtsordnung Emsmündung nicht ausdrücklich etwas anderes bestimmen, finden in deren Anwendungsbereich auch die Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See (Anlage zur Verordnung vom 13. Juni 1977 - BGBl. I S. 813, 816) in der jeweils für die Bundesrepublik Deutschland geltenden Fassung, im folgenden als Internationale Regeln bezeichnet, Anwendung.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Ergänzend zu Artikel 1 der Schiffahrtsordnung Emsmündung sind im Sinne dieser Verordnung:
 
@@ -38,8 +33,7 @@ Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der Binnenschiffsunter
 
 2. Flammpunkt im Sinne des Artikels 21 Abs. 1 Nr. 2, 3, Abs. 2 Satz 2 der Schiffahrtsordnung Emsmündung die in Grad Celsius ausgedrückte niedrigste Temperatur, bei der sich entflammbare Dämpfe in solcher Menge entwickeln, daß sie entzündet werden können. Die in der Schiffahrtsordnung Emsmündung angegebenen Werte gelten für Versuche mit geschlossenem Tiegel, die in zugelassenen Prüfgeräten ermittelt werden.
 
-
-## § 3 – Grundregeln für das Verhalten im Verkehr
+# § 3 – Grundregeln für das Verhalten im Verkehr
 
 (1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß die Sicherheit und Leichtigkeit des Verkehrs gewährleistet ist und daß kein Anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird. Er hat insbesondere die Vorsichtsmaßregeln zu beachten, die Seemannsbrauch oder besondere Umstände des Falles erfordern.
 
@@ -51,8 +45,7 @@ Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der Binnenschiffsunter
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines Fahrbeschränkungen und Fahrverboten nach Artikel 21 Abs. 1 der Schifffahrtsordnung Emsmündung unterliegenden Fahrzeuges darf in der Dienstzeit während der Fahrt alkoholische Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter der Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen Erholungszeiten an Bord darf der Schiffsführer alkoholische Getränke zu sich nehmen, wenn sichergestellt ist, dass er bei der Übernahme sicherheitsrelevanter Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1 gilt für die im Brückendienst eingesetzten Mitglieder der Schiffsbesatzung entsprechend.
 
-
-## § 4 – Verantwortlichkeit
+# § 4 – Verantwortlichkeit
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit Verantwortliche haben die Vorschriften dieser Verordnung und die der Schiffahrtsordnung Emsmündung über das Verhalten im Verkehr und über die Ausrüstung der Fahrzeuge mit Einrichtungen für das Führen und Zeigen der Sichtzeichen und das Geben von Schallsignalen zu befolgen. Auf Binnenschiffen ist neben dem Fahrzeugführer hierfür auch jedes Mitglied der Besatzung verantwortlich, das vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt.
 
@@ -64,8 +57,7 @@ Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der Binnenschiffsunter
 
 (5) Die Verantwortlichkeit anderer Personen, die sich aus dieser Verordnung und aus der Schiffahrtsordnung Emsmündung ergibt, bleibt unberührt.
 
-
-## § 5 – Schiffahrtszeichen
+# § 5 – Schiffahrtszeichen
 
 (1) Ergänzend zu Artikel 2 Abs. 1 der Schiffahrtsordnung Emsmündung können im Anwendungsbereich dieser Verordnung folgende Schiffahrtszeichen verwendet werden:
 
@@ -210,8 +202,7 @@ Fundstelle: BGBl. I 1989, 1586)
 
 (4) Produkte aus anderen Mitgliedstaaten der Europäischen Union, die den in dieser Verordnung geregelten technischen Anforderungen nicht entsprechen, werden einschließlich der im Herstellerland durchgeführten Prüfungen, Zulassungen und Überwachungen als gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau - Sicherheit, Gesundheit und Gebrauchstauglichkeit - gleichermaßen dauerhaft erreicht wird.
 
-
-## § 6 – Schallsignalanlagen
+# § 6 – Schallsignalanlagen
 
 (1) Ergänzend zu Artikel 3 der Schiffahrtsordnung Emsmündung dürfen Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind, für die jedoch die Vorschriften über Schallsignalanlagen der §§ 1 und 5 Abs. 1 in Verbindung mit Anlage 1 Abschnitt A.I Nummer 6 der Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013, 3023), zuletzt geändert durch Artikel 2 der Verordnung vom 24. August 2001 (BGBl. I S. 2276), und § 1 Abs. 2 in Verbindung mit der Anlage Abschnitt D Nummer 10 des Schiffssicherheitsgesetzes vom 9. September 1998 (BGBl. I S. 2860), geändert durch Artikel 8 des Gesetzes vom 16. Mai 2001 (BGBl. I S. 898), in der jeweils geltenden Fassung nicht gelten, zur Abgabe der nach dieser Verordnung vorgeschriebenen Schallsignale nur solche Schallsignalanlagen verwenden, deren Baumuster vom Bundesamt für Seeschifffahrt und Hydrographie zur Verwendung auf Seeschifffahrtsstraßen zugelassen ist. Anlage 1 der Schiffssicherheitsverordnung gilt entsprechend. Die Zulassung durch eine zuständige Stelle eines anderen Mitgliedstaates der Europäischen Union wird anerkannt, soweit durch sie die Erfüllung der Anforderungen der Internationalen Regeln nachgewiesen wird.
 
@@ -219,8 +210,7 @@ Fundstelle: BGBl. I 1989, 1586)
 
 (3) Für die Verwendung von Produkten aus anderen Mitgliedstaaten der Europäischen Union gilt § 5 Abs. 4.
 
-
-## § 7 – Sichtzeichen
+# § 7 – Sichtzeichen
 
 (1) Die Regelung des Artikels 4 Abs. 1 Satz 4 der Schiffahrtsordnung Emsmündung über die Abschirmung der Seitenlichter von Binnenschiffen findet nur binnenwärts der seewärtigen Grenze der Zone 1 Anwendung.
 
@@ -238,15 +228,13 @@ Fundstelle: BGBl. I 1989, 1586)
 
 (8) Für die Verwendung von Produkten aus anderen Mitgliedstaaten der Europäischen Union gilt § 5 Abs. 4.
 
-
-## § 8 – Sichtzeichen kleiner Fahrzeuge
+# § 8 – Sichtzeichen kleiner Fahrzeuge
 
 (1) Ergänzend zu Artikel 6 der Schiffahrtsordnung Emsmündung und abweichend von Regel 22 Buchstabe c der Internationalen Regeln müssen Fahrzeuge von weniger als 12 m Länge, die berechtigt sind, die Bundesflagge zu führen, Seitenlichter mit einer Mindesttragweite von zwei Seemeilen führen.
 
 (2) Ergänzend zu Artikel 6 der Schiffahrtsordnung Emsmündung und abweichend von Regel 26 Buchstabe c der Internationalen Regeln brauchen offene Fischerboote oberhalb Ems-km 35,785 nur ein weißes Rundumlicht zu führen. Regel 26 Buchstabe e der Internationalen Regeln bleibt unberührt.
 
-
-## § 9 – Durchfahren von Brücken
+# § 9 – Durchfahren von Brücken
 
 (1) Ergänzend zu den Bestimmungen der Artikel 16 bis 18 der Schiffahrtsordnung Emsmündung über die Fahrregeln ist vor und unter Brücken das Begegnen und Überholen nur gestattet, wenn das Fahrwasser mit Sicherheit hinreichenden Raum für die gleichzeitige Durchfahrt gewährt. Anderenfalls ist die Vorfahrt entsprechend Artikel 18 Abs. 3 der Schiffahrtsordnung Emsmündung zu beachten. Ein wartepflichtiges Fahrzeug muß in ausreichender Entfernung vor der Brücke anhalten. Dabei darf es vorübergehend an Festmachedalben, jedoch nicht an Leitwerken und Abweisedalben, festmachen.
 
@@ -254,8 +242,7 @@ Fundstelle: BGBl. I 1989, 1586)
 
 (3) Ergänzend zu den Artikeln 12 und 13 der Schiffahrtsordnung Emsmündung über die Schallsignale der Fahrzeuge haben Schiffe als Aufforderungssignal "Brücke öffnen" zwei lange Töne zu geben.
 
-
-## § 10 – Zuständigkeiten
+# § 10 – Zuständigkeiten
 
 (1) Zuständige Behörden sind
 
@@ -265,20 +252,17 @@ Fundstelle: BGBl. I 1989, 1586)
 
 (2) Örtliche Maßnahmen der Schifffahrtspolizei trifft das vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt. Wirkt sich eine Maßnahme in den Bezirk eines anderen Wasserstraßen- und Schifffahrtsamtes aus, ist das vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt ebenfalls zuständig, wenn der zu regelnde Sachverhalt in seinem Bezirk zuerst eintritt. Wirkt sich eine Maßnahme im Bezirk eines anderen Wasserstraßen- und Schifffahrtsamtes im Anwendungsbereich dieser Verordnung aus, so ist das Wasserstraßen- und Schifffahrtsamt zuständig, in dessen Bezirk der zu regelnde Sachverhalt zuerst eintritt. Ist eine Maßnahme von grundsätzlicher Bedeutung, trifft sie die Generaldirektion Wasserstraßen und Schifffahrt. Schifffahrtspolizeiliche Maßnahmen, die keinen Aufschub dulden, können auch von der Wasserschutzpolizei getroffen werden.
 
-
-## § 11 – Schiffahrtspolizeiliche Verfügungen
+# § 11 – Schiffahrtspolizeiliche Verfügungen
 
 (1) Die Strom- und Schiffahrtspolizeibehörden können zur Erfüllung der Aufgaben nach § 3 des Seeaufgabengesetzes Anordnungen erlassen, die an bestimmte Personen oder an einen bestimmten Personenkreis gerichtet sind und ein Gebot oder Verbot enthalten (Schiffahrtspolizeiliche Verfügungen).
 
 (2) Schiffahrtspolizeiliche Verfügungen gehen den Vorschriften dieser Verordnung und denen der Schiffahrtsordnung Emsmündung und den durch Schiffahrtszeichen getroffenen Anordnungen vor.
 
-
-## § 12 – Befreiung
+# § 12 – Befreiung
 
 Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften dieser Verordnung und denen der Schiffahrtsordnung Emsmündung im Einzelfall befreien.
 
-
-## § 13 – Ermächtigung zum Erlaß von strom- und schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
+# § 13 – Ermächtigung zum Erlaß von strom- und schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, die örtlichen Regelungen durch Bekanntmachungen zu erlassen, wenn und soweit dies zur Abwehr von Gefahren für die Sicherheit und Leichtigkeit des Verkehrs erforderlich ist. Die Bekanntmachungen sind im Bundesanzeiger zu veröffentlichen.
 
@@ -286,8 +270,7 @@ Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften dieser V
 
 (3) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung Anordnungen vorübergehender Art zu erlassen, die aus besonderen Anlässen für die Sicherheit und Leichtigkeit des Verkehrs auf den Seeschiffahrtsstraßen Ems und Leda erforderlich werden. Die Anordnungen können insbesondere veranlaßt sein durch Arbeiten in der Wasserstraße, öffentliche Veranstaltungen oder durch die Fahrwasserverhältnisse. Satz 1 ist auch auf Anordnungen anzuwenden, die notwendig sind, um bis zu einer Änderung dieser Verordnung oder der Schiffahrtsordnung Emsmündung oder zu Versuchszwecken schiffahrtspolizeiliche Maßnahmen zu treffen. Die Anordnungen gelten höchstens drei Jahre.
 
-
-## § 14 – Zuwiderhandlungen gegen Vorschriften dieser Verordnung
+# § 14 – Zuwiderhandlungen gegen Vorschriften dieser Verordnung
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer als Fahrzeugführer oder sonst nach § 4 Abs. 1 für die Sicherheit Verantwortlicher vorsätzlich oder fahrlässig
 
@@ -321,8 +304,7 @@ Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften dieser V
 
 8. als Fahrzeugführer, Eigentümer oder sonst nach § 4 Abs. 1 für Kurs und Geschwindigkeit verantwortliche Person entgegen § 11 Abs. 1 einer vollziehbaren schiffahrtspolizeilichen Verfügung nicht nachkommt.
 
-
-## § 15 – Zuwiderhandlungen gegen Vorschriften der Schiffahrtsordnung Emsmündung
+# § 15 – Zuwiderhandlungen gegen Vorschriften der Schiffahrtsordnung Emsmündung
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer als Fahrzeugführer oder sonst nach § 4 Abs. 1 für die Sicherheit Verantwortlicher vorsätzlich oder fahrlässig
 
@@ -378,17 +360,14 @@ Die Strom- und Schiffahrtspolizeibehörden können von den Vorschriften dieser V
 
 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## § 16
+# § 16
 
 \-
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

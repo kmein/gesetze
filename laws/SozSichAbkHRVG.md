@@ -1,15 +1,11 @@
-# [SozSichAbkHRVG] Gesetz zu dem Abkommen vom 24. November 1997 zwischen der Bundesrepublik Deutschland und der Republik Kroatien über Soziale Sicherheit
-
-Ausfertigungsdatum: 25.08.1998
-
+% Gesetz zu dem Abkommen vom 24. November 1997 zwischen der Bundesrepublik Deutschland und der Republik Kroatien über Soziale Sicherheit
+% Ausfertigungsdatum: 25.08.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Den folgenden, in Bonn am 24. November 1997 unterzeichneten Übereinkünften wird zugestimmt:
 
@@ -19,20 +15,17 @@ Den folgenden, in Bonn am 24. November 1997 unterzeichneten Übereinkünften wir
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (weggefallen)
 
-
-## Art 3
+# Art 3
 
 (1) Ergeben sich aus der Durchführung des Abkommens und der Vereinbarung zur Durchführung des Abkommens für einzelne Träger der Unfallversicherung außergewöhnliche Belastungen, so können diese ausgeglichen werden. Über den Ausgleich entscheidet auf Antrag der Hauptverband der gewerblichen Berufsgenossenschaften e.V. in seiner Eigenschaft als deutsche Verbindungsstelle im Bereich der Unfallversicherung. Die zur Durchführung des Ausgleichs erforderlichen Mittel werden vorbehaltlich des Absatzes 2 durch Umlage auf alle gewerblichen Berufsgenossenschaften nach dem Verhältnis der Ausgaben für Sachleistungen der einzelnen gewerblichen Berufsgenossenschaften zu den Ausgaben aller gewerblichen Berufsgenossenschaften für Sachleistungen des vorvergangenen Kalenderjahres aufgebracht.
 
 (2) Außergewöhnliche Belastungen, die gemäß Artikel 23 Abs. 1 des Abkommens bei entsprechender Anwendung der deutschen Rechtsvorschriften über die Zuständigkeiten in der gesetzlichen Unfallversicherung einer landwirtschaftlichen Berufsgenossenschaft oder einem Träger der öffentlichen Unfallversicherung entstanden wären, werden auf die landwirtschaftlichen Berufsgenossenschaften oder auf die Unfallversicherungsträger der öffentlichen Hand umgelegt. Absatz 1 Satz 3 gilt entsprechend. Im Bereich der Unfallversicherung der öffentlichen Hand bleiben bei der Ermittlung der Umlage die Ausgaben für Sachleistungen, die für den versicherten Personenkreis nach § 2 Abs. 1 Nr. 8 des Siebten Buches Sozialgesetzbuch erbracht werden, außer Betracht.
 
-
-## Art 4
+# Art 4
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Die Vereinbarungen können auch Änderungen der in Artikel 1 Nr. 2 genannten Durchführungsvereinbarung vorsehen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -46,8 +39,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 5. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetzes tritt am Tage nach seiner Verkündung in Kraft.
 

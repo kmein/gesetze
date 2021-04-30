@@ -1,15 +1,11 @@
-# [FinAusglG2019DV 1] Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019
-
-Ausfertigungsdatum: 18.03.2019
-
+% Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019
+% Ausfertigungsdatum: 18.03.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956), von denen § 14 zuletzt durch Artikel 3 Nummer 3 des Gesetzes vom 24. Juni 2015 (BGBl. I S. 974) und § 17 zuletzt durch Artikel 4 Absatz 2 des Gesetzes vom 21. November 2016 (BGBl. I S. 2613) geändert worden sind, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2019
+# § 1 – Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2019
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2019 wird der Zahlungsverkehr nach § 14 Absatz 1 des Gesetzes in der Weise durchgeführt, dass die Ablieferung des Bundesanteils von 49,06406182 Prozent an der durch Landesfinanzbehörden verwalteten Umsatzsteuer auf die folgenden Prozentsätze festgelegt wird:  
   
@@ -43,12 +39,10 @@ Auf Grund der §§ 14 und 17 des Finanzausgleichsgesetzes vom 20. Dezember 2001 
 
 (5) Der Gemeindeanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird nach Maßgabe von § 17 Absatz 1 des Gesetzes den Ländern zusammen mit dem Länderanteil an der Einfuhrumsatzsteuer in monatlichen Teilbeträgen jeweils zum 15. des Folgemonats überwiesen.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2019 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

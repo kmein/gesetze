@@ -1,10 +1,7 @@
-# [VersStDV] Verordnung zur Durchführung des Versicherungsteuergesetzes  (Versicherungsteuer-Durchführungsverordnung - VersStDV)
-
-Ausfertigungsdatum: 13.07.1937
-
+% Verordnung zur Durchführung des Versicherungsteuergesetzes  (Versicherungsteuer-Durchführungsverordnung - VersStDV)
+% Ausfertigungsdatum: 13.07.1937
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Versicherer im Sinne des § 1 Absatz 2 des Gesetzes, der im Gebiet eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum niedergelassen ist, ist ein Versicherer, der seinen Sitz oder Wohnsitz in dem genannten Gebiet hat (EWR-Versicherer).
 
@@ -48,8 +45,7 @@ Sicherungsabtretung und Verpfändung des Anspruchs aus einer Versicherung im Sin
 
 (7) Als zur Entgegennahme des Versicherungsentgelts Bevollmächtigter im Sinne des § 7 Absatz 3 des Gesetzes gilt der nach den Vorschriften des Versicherungsaufsichtsgesetzes von Versicherungsunternehmen eines Drittstaats für die Aufnahme des Geschäftsbetriebs im Inland bestellte Hauptbevollmächtigte, es sei denn, der Versicherer bestimmt eine andere Person mit Wohnsitz oder Sitz im Gebiet der Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum.
 
-
-## § 2 – Anzeigepflichten für Versicherer
+# § 2 – Anzeigepflichten für Versicherer
 
 (1) Ein EWR-Versicherer hat die Aufnahme des Versicherungsgeschäfts im Geltungsbereich des Gesetzes binnen zwei Wochen gegenüber dem Bundeszentralamt für Steuern anzuzeigen. Das Gleiche gilt für eine Person oder eine Personenvereinigung, die an einem Versicherungsvertrag im Sinne des § 2 Abs. 1 des Gesetzes beteiligt ist.
 
@@ -59,13 +55,11 @@ Sicherungsabtretung und Verpfändung des Anspruchs aus einer Versicherung im Sin
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für eine inländische Zweigniederlassung eines Drittlandversicherers im Sinne des Versicherungsaufsichtsgesetzes, der die Leitung des Geschäfts im Geltungsbereich des Gesetzes übertragen ist.
 
-
-## § 3 – Anzeigepflicht für Versicherungsnehmer und Vermittler
+# § 3 – Anzeigepflicht für Versicherungsnehmer und Vermittler
 
 Nimmt ein Versicherungsnehmer eine Versicherung bei einem Drittlandversicherer, der keinen zur Entgegennahme des Versicherungsentgelts Bevollmächtigten mit Wohnsitz oder Sitz im Gebiet eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum bestellt hat, so muss der Versicherungsnehmer den Abschluss der Versicherung gegenüber dem Bundeszentralamt für Steuern unverzüglich anzeigen. Das Gleiche gilt für einen Vermittler, der den Abschluss der Versicherung vermittelt hat.
 
-
-## § 4 – Informationsanspruch des Steuerentrichtungsschuldners
+# § 4 – Informationsanspruch des Steuerentrichtungsschuldners
 
 Zur Gewährleistung eines ordnungsgemäßen Besteuerungsverfahrens ist der Steuerentrichtungsschuldner berechtigt, von allen an der Begründung oder Durchführung eines Versicherungsverhältnisses Beteiligten Informationen über die für die Besteuerung erheblichen Tatsachen zu verlangen. Hierzu gehören insbesondere
 
@@ -77,13 +71,11 @@ Zur Gewährleistung eines ordnungsgemäßen Besteuerungsverfahrens ist der Steue
 
 4. die Versicherungsteuernummer eines beteiligten Mitversicherers, auch wenn er durch einen Makler vertreten wird.
 
-
-## § 5 – Ausnahme von der Besteuerung bei Viehversicherungen
+# § 5 – Ausnahme von der Besteuerung bei Viehversicherungen
 
 Sind bei einer Viehversicherung statt einer Versicherungssumme feste Entschädigungsbeträge für jedes Stück Vieh vereinbart, so gilt die Ausnahmevorschrift des § 4 Nr. 9 des Gesetzes nur, wenn der Höchstbetrag der Ersatzpflicht des Versicherers gegenüber einem Versicherungsnehmer im Zeitpunkt der Zahlung des Versicherungsentgelts 4.000 Euro nicht übersteigt.
 
-
-## § 6 – Empfangsbevollmächtigter in den Fällen des § 2 Absatz 1 des Gesetzes
+# § 6 – Empfangsbevollmächtigter in den Fällen des § 2 Absatz 1 des Gesetzes
 
 (1) Für Zusammenschlüsse von Personen und Personenvereinigungen, die eine Vereinbarung im Sinne des § 2 Absatz 1 des Gesetzes treffen, ist ein gemeinsamer Empfangsbevollmächtigter zu bestellen, der für alle Beteiligten die Verwaltungsakte und Mitteilungen in Empfang nimmt, die mit dem Besteuerungsverfahren und einem gegebenenfalls sich anschließendem Rechtsbehelfsverfahren zusammenhängen.
 
@@ -91,39 +83,32 @@ Sind bei einer Viehversicherung statt einer Versicherungssumme feste Entschädig
 
 (3) Ist weder ein Empfangsbevollmächtigter nach Absatz 1 noch ein Berechtigter nach Absatz 2 vorhanden, fordert das Bundeszentralamt für Steuern die Beteiligten auf, innerhalb einer bestimmten Frist einen Empfangsbevollmächtigten zu benennen. Die Aufforderung ist mit einem Vorschlag und dem Hinweis zu versehen, dass der vorgeschlagenen Person die in Absatz 1 genannten Verwaltungsakte und Mitteilungen mit Wirkung für und gegen alle Beteiligten bekannt gegeben werden, sofern nicht ein anderer Empfangsbevollmächtigter benannt wird. Die Bekanntgabe an Empfangsbevollmächtigte erfolgt mit Wirkung für und gegen alle Beteiligten.
 
-
-## § 7 – Steuerberechnung bei Werten in fremder Währung
+# § 7 – Steuerberechnung bei Werten in fremder Währung
 
 Werte in fremder Währung sind zur Berechnung der Steuer in Euro umzurechnen. Hierfür ist der Umsatzsteuer-Umrechnungskurs anzuwenden, den das Bundesministerium der Finanzen als Durchschnittskurs für die jeweilige Währung für denjenigen Monat öffentlich bekannt gibt, in dem das Versicherungsentgelt gezahlt oder bei Sollversteuerung fällig wird. Eine Umrechnung nach dem durch Bankmitteilung oder Kurszettel nachgewiesenen Tageskurs kann vom Bundeszentralamt für Steuern gestattet werden.
 
-
-## § 8 – Steuererstattung bei Rückzahlung von unverdientem Versicherungsentgelt
+# § 8 – Steuererstattung bei Rückzahlung von unverdientem Versicherungsentgelt
 
 (1) In den Fällen des § 9 Absatz 1 des Gesetzes erfolgt die Steuererstattung im Rahmen der Steueranmeldung für den Anmeldungszeitraum, in dem der Rückzahlungserfolg eingetreten ist. Die für das zurückgezahlte Versicherungsentgelt bereits entrichtete Steuer ist von der für den genannten Anmeldungszeitraum anzumeldenden Steuer abzuziehen. Der erkennbar vorgenommene Steuerabzug gilt zugleich als Antrag auf Steuererstattung im Sinne des § 9 Absatz 1 Satz 1 des Gesetzes.
 
 (2) Hat ein Versicherungsnehmer selbst die Steuer angemeldet und an das Bundeszentralamt für Steuern entrichtet, wird ihm die Steuer auf Antrag erstattet. Im Antrag ist der Grund für die Rückzahlung von Versicherungsentgelt anzugeben. Dem Antrag sind Nachweise über das an den Versicherungsnehmer zurückgezahlte Versicherungsentgelt und über den Zeitpunkt der Rückzahlung beizufügen.
 
-
-## § 9 – Steuererstattung bei nachträglichem Eintritt der Steuerbefreiung
+# § 9 – Steuererstattung bei nachträglichem Eintritt der Steuerbefreiung
 
 Die Steuererstattung nach § 9 Absatz 2 des Gesetzes bezieht sich auf den Steuerbetrag, der auf den Anteil des gezahlten Versicherungsentgelts entfällt, der für einen Zeitraum nach Eintritt der die Steuerbefreiung begründenden Umstände geleistet worden ist. Die Steuererstattung erfolgt durch erkennbar vorgenommenen Steuerabzug im Rahmen der Steueranmeldung für den Anmeldungszeitraum, in dem der Steuerentrichtungspflichtige von den die Steuerbefreiung begründenden Umständen Kenntnis erlangt.
 
-
-## § 10 – Steuererstattung bei nachträglichem Entfallen der Steuerbarkeit bei der Versicherung von Schiffen
+# § 10 – Steuererstattung bei nachträglichem Entfallen der Steuerbarkeit bei der Versicherung von Schiffen
 
 Die Steuererstattung nach § 9 Absatz 3 des Gesetzes bezieht sich auf den Steuerbetrag, der auf den Anteil des gezahlten Versicherungsentgelts entfällt, der für einen Zeitraum nach Eintritt der Umstände geleistet worden ist, die das Entfallen der Steuerbarkeitsvoraussetzungen und der Steuerpflicht begründen. Die Steuererstattung erfolgt durch erkennbar vorgenommenen Steuerabzug im Rahmen der Steueranmeldung für den Anmeldungszeitraum, in dem der Steuerentrichtungspflichtige von Umständen Kenntnis erlangt, die zum Entfallen der Steuerbarkeit geführt haben.
 
-
-## § 11 – Steuererstattung bei nicht vereinnahmtem Versicherungsentgelt
+# § 11 – Steuererstattung bei nicht vereinnahmtem Versicherungsentgelt
 
 Eine Steuererstattung nach § 9 Absatz 4 des Gesetzes erfolgt im Rahmen der Steueranmeldung für den Anmeldungszeitraum, in dem der Versicherer die Versicherung ganz oder teilweise in Abgang gestellt hat. Die für das nicht vereinnahmte Versicherungsentgelt bereits entrichtete Steuer ist erkennbar von der für den genannten Anmeldungszeitraum anzumeldenden Steuer abzuziehen.
 
-
-## § 12 – Nachentrichtung
+# § 12 – Nachentrichtung
 
 Die Nachentrichtung der Steuer in den Fällen des § 9 Absatz 5 und 6 des Gesetzes hat im Rahmen der Steueranmeldung für den Anmeldungszeitraum zu erfolgen, in dem der Steuerentrichtungspflichtige von den Umständen Kenntnis erlangt, die die Steuerpflicht begründen.
 
-
-## § 13 – Berechnung und Entrichtung der Steuer im Pauschverfahren
+# § 13 – Berechnung und Entrichtung der Steuer im Pauschverfahren
 
 Das Bundeszentralamt für Steuern kann in Fällen, in denen die Feststellung der Unterlagen für die Steuerfestsetzung unverhältnismäßig schwierig sein würde, die Berechnung und Entrichtung der Steuer im Pauschverfahren zulassen.

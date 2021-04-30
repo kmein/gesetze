@@ -1,25 +1,19 @@
-# [KAVerOV] Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Kapitalanlagegesetzbuch   (Kapitalanlage-Verhaltens- und -Organisationsverordnung - KAVerOV)
-
-Ausfertigungsdatum: 16.07.2013
-
+% Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Kapitalanlagegesetzbuch   (Kapitalanlage-Verhaltens- und -Organisationsverordnung - KAVerOV)
+% Ausfertigungsdatum: 16.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 8 Satz 1, auch in Verbindung mit § 51 Absatz 4 Satz 1, des § 27 Absatz 6 Satz 1, auch in Verbindung mit § 51 Absatz 4 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1 und des § 30 Absatz 5 Satz 1 des Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 11. Juli 2013 (BGBl. I S. 2231) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Einzelheiten der allgemeinen Verhaltens- und Organisationspflichten, des Umgangs mit Interessenkonflikten sowie des Risiko- und Liquiditätsmanagements von Kapitalverwaltungsgesellschaften bei der Verwaltung von OGAW und Publikums-AIF.
 
 (2) Die §§ 2 und 3 sind auch auf inländische Zweigniederlassungen von EU-OGAW-Verwaltungsgesellschaften anzuwenden, soweit diese Zweigniederlassungen die kollektive Vermögensverwaltung von OGAW im Inland erbringen.
 
-
-## § 2 – Allgemeine Verhaltensregeln
+# § 2 – Allgemeine Verhaltensregeln
 
 (1) Die Kriterien, nach denen die Bundesanstalt für Finanzdienstleistungsaufsicht beurteilt, ob OGAW-Kapitalverwaltungsgesellschaften ihren in § 26 Absatz 1 und 2 des Kapitalanlagegesetzbuches genannten Pflichten nachkommen, bestimmen sich entsprechend den Artikeln 16 bis 22, dem Artikel 23 Absatz 1 und den Artikeln 24 bis 29 der Delegierten Verordnung (EU) Nr. 231/2013 der Kommission vom 19. Dezember 2012 zur Ergänzung der Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates im Hinblick auf Ausnahmen, die Bedingungen für die Ausübung der Tätigkeit, Verwahrstellen, Hebelfinanzierung, Transparenz und Beaufsichtigung (ABl. L 83 vom 22.3.2013, S. 1).
 
@@ -43,8 +37,7 @@ Wird für einen Anleger regelmäßig ein Auftrag durchgeführt, ist entweder nac
 
 (4) Die Kapitalverwaltungsgesellschaft hat den Anlegern von Publikums-AIF und OGAW angemessene Informationen über die entsprechend Artikel 27 Absatz 3 der Verordnung (EU) Nr. 231/2013 festgelegten schriftlichen Grundsätze für die Auftragsausführung und über wesentliche Änderungen dieser Grundsätze auf ihrer Internetseite zur Verfügung zu stellen.
 
-
-## § 3 – Interessenkonflikte
+# § 3 – Interessenkonflikte
 
 (1) Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich
 
@@ -56,8 +49,7 @@ entsprechend den Artikeln 30 bis 37 der Verordnung (EU) Nr. 231/2013.
 
 (2) Unbeschadet der Pflichten nach Artikel 37 Absatz 3 der Verordnung (EU) Nr. 231/2013 hat die Kapitalverwaltungsgesellschaft von OGAW oder von Publikums-AIF eine Kurzbeschreibung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr. 231/2013 ausgearbeiteten Strategien auf ihrer Internetseite zu veröffentlichen. Einzelheiten zu den aufgrund dieser Strategien getroffenen Maßnahmen hat sie den Anlegern auf Verlangen kostenfrei zur Verfügung zu stellen.
 
-
-## § 4 – Allgemeine Organisationspflichten
+# § 4 – Allgemeine Organisationspflichten
 
 (1) Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die in § 28 Absatz 1 des Kapitalanlagegesetzbuches genannten Verfahren und Regelungen entsprechend den Artikeln 57 bis 66, mit Ausnahme des Artikels 60 Absatz 2 Buchstabe h, der Verordnung (EU) Nr. 231/2013.
 
@@ -75,8 +67,7 @@ Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die relevanten Personen
 
 (4) Die OGAW-Kapitalverwaltungsgesellschaft hat einer Person, die in Bezug auf Anteile an dem jeweiligen Investmentvermögen Anlageberatung, Anlage- oder Abschlussvermittlung erbringt, die wesentlichen Anlegerinformationen und den Verkaufsprospekt für dieses Investmentvermögen auf Anfrage zur Verfügung zu stellen.
 
-
-## § 5 – Risikomanagement
+# § 5 – Risikomanagement
 
 (1) Bei OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die Kriterien für
 
@@ -108,8 +99,7 @@ b) bei der Bonität eines Emittenten;
 
 4. Operationelles Risiko ist das Verlustrisiko für ein Investmentvermögen, das aus unzureichenden internen Prozessen sowie aus menschlichem oder Systemversagen bei der Kapitalverwaltungsgesellschaft oder aus externen Ereignissen resultiert; darin eingeschlossen sind Rechts-, Dokumentations- und Reputationsrisiken sowie Risiken, die aus den für ein Investmentvermögen betriebenen Handels-, Abrechnungs- und Bewertungsverfahren resultieren.
 
-
-## § 6 – Liquiditätsmanagement
+# § 6 – Liquiditätsmanagement
 
 Für OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die Kriterien für
 
@@ -119,12 +109,10 @@ Für OGAW-Kapitalverwaltungsgesellschaften bestimmen sich die Kriterien für
 
 entsprechend den Artikeln 46 bis 49 der Verordnung (EU) Nr. 231/2013.
 
-
-## § 7 – Übergangsvorschrift
+# § 7 – Übergangsvorschrift
 
 Die Investment-Verhaltens- und Organisationsverordnung vom 28. Juni 2011 (BGBl. I S. 1288) in der bis zum 21. Juli 2013 geltenden Fassung ist auf die am 21. Juli 2013 bestehenden Kapitalverwaltungsgesellschaften, Sondervermögen und Investmentaktiengesellschaften weiterhin anzuwenden, solange für diese nach den Übergangsvorschriften der §§ 345 bis 350 des Kapitalanlagegesetzbuches weiterhin die Vorschriften des Investmentgesetzes anwendbar sind.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt die Investment-Verhaltens- und Organisationsverordnung vom 28. Juni 2011 (BGBl. I S. 1288) außer Kraft.

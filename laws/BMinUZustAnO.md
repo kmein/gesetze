@@ -1,10 +1,7 @@
-# [BMinUZustAnO] Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
-
-Ausfertigungsdatum: 30.09.2005
-
+% Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
+% Ausfertigungsdatum: 30.09.2005
  
-
-## I.
+# I.
 
 Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 Satz 2 und § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) werden den Präsidenten oder Präsidentinnen der Behörden des Geschäftsbereichs jeweils für ihren Geschäftsbereich
 
@@ -18,12 +15,10 @@ Nach § 33 Abs. 5, § 34 Abs. 2 Satz 2, § 42 Abs. 1 Satz 2 und § 84 Satz 2 des
 
 übertragen.
 
-
-## II.
+# II.
 
 Diese allgemeine Anordnung tritt am Tag nach der Veröffentlichung im Bundesgesetzblatt Teil I in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit

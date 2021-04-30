@@ -1,11 +1,8 @@
-# [StaRUG] Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen  (Unternehmensstabilisierungs- und -restrukturierungsgesetz - StaRUG)
-
-Ausfertigungsdatum: 22.12.2020
-
+% Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen  (Unternehmensstabilisierungs- und -restrukturierungsgesetz - StaRUG)
+% Ausfertigungsdatum: 22.12.2020
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
  
 
  
@@ -151,9 +148,8 @@ Ausfertigungsdatum: 22.12.2020
  
 
  
-
 
-## § 1 – Krisenfrüherkennung und Krisenmanagement bei haftungsbeschränkten Unternehmensträgern
+# § 1 – Krisenfrüherkennung und Krisenmanagement bei haftungsbeschränkten Unternehmensträgern
 
 (1) Die Mitglieder des zur Geschäftsführung berufenen Organs einer juristischen Person (Geschäftsleiter) wachen fortlaufend über Entwicklungen, welche den Fortbestand der juristischen Person gefährden können. Erkennen sie solche Entwicklungen, ergreifen sie geeignete Gegenmaßnahmen und erstatten den zur Überwachung der Geschäftsleitung berufenen Organen (Überwachungsorganen) unverzüglich Bericht. Berühren die zu ergreifenden Maßnahmen die Zuständigkeiten anderer Organe, wirken die Geschäftsleiter unverzüglich auf deren Befassung hin.
 
@@ -161,8 +157,7 @@ Ausfertigungsdatum: 22.12.2020
 
 (3) Weitergehende Pflichten, die sich aus anderen Gesetzen ergeben, bleiben unberührt.
 
-
-## § 2 – Gestaltbare Rechtsverhältnisse
+# § 2 – Gestaltbare Rechtsverhältnisse
 
 (1) Auf der Grundlage eines Restrukturierungsplans können gestaltet werden:
 
@@ -178,15 +173,13 @@ Ausfertigungsdatum: 22.12.2020
 
 (5) Maßgeblich für die Absätze 1 bis 4 sind die Rechtsverhältnisse zum Zeitpunkt der Unterbreitung des Planangebots (§ 17), im Fall einer Abstimmung im gerichtlichen Planabstimmungsverfahren zum Zeitpunkt der Antragstellung (§ 45). Erwirkt der Schuldner vorher eine Stabilisierungsanordnung (§ 49), tritt an die Stelle des Planangebots oder des Antrags der Zeitpunkt der Erstanordnung.
 
-
-## § 3 – Bedingte und nicht fällige Restrukturierungsforderungen; Forderungen aus gegenseitigen Verträgen
+# § 3 – Bedingte und nicht fällige Restrukturierungsforderungen; Forderungen aus gegenseitigen Verträgen
 
 (1) Restrukturierungsforderungen sind auch dann gestaltbar, wenn sie bedingt oder noch nicht fällig sind.
 
 (2) Restrukturierungsforderungen aus gegenseitigen Verträgen sind nur insoweit gestaltbar, als die dem anderen Teil obliegende Leistung bereits erbracht ist.
 
-
-## § 4 – Ausgenommene Rechtsverhältnisse
+# § 4 – Ausgenommene Rechtsverhältnisse
 
 Einer Gestaltung durch einen Restrukturierungsplan sind unzugänglich:
 
@@ -198,13 +191,11 @@ Einer Gestaltung durch einen Restrukturierungsplan sind unzugänglich:
 
 Handelt es sich bei dem Schuldner um eine natürliche Person, gilt dies auch für Forderungen und Absonderungsanwartschaften, die mit dessen unternehmerischer Tätigkeit in keinem Zusammenhang stehen.
 
-
-## § 5 – Gliederung des Restrukturierungsplans
+# § 5 – Gliederung des Restrukturierungsplans
 
 Der Restrukturierungsplan besteht aus einem darstellenden und einem gestaltenden Teil. Er enthält mindestens die nach der Anlage zu diesem Gesetz erforderlichen Angaben. Dem Restrukturierungsplan sind die nach den §§ 14 und 15 erforderlichen Anlagen beizufügen.
 
-
-## § 6 – Darstellender Teil
+# § 6 – Darstellender Teil
 
 (1) Der darstellende Teil beschreibt die Grundlagen und die Auswirkungen des Restrukturierungsplans. Der darstellende Teil enthält alle Angaben, die für die Entscheidung der von dem Plan Betroffenen über die Zustimmung zum Plan und für dessen gerichtliche Bestätigung erheblich sind, einschließlich der Krisenursachen und der zur Krisenbewältigung vorzunehmenden Maßnahmen. Soweit Restrukturierungsmaßnahmen vorgesehen sind, die nicht über den gestaltenden Teil des Plans umgesetzt werden können oder sollen, sind sie im darstellenden Teil gesondert hervorzuheben.
 
@@ -212,8 +203,7 @@ Der Restrukturierungsplan besteht aus einem darstellenden und einem gestaltenden
 
 (3) Sieht der Restrukturierungsplan Eingriffe in die Rechte von Gläubigern aus gruppeninternen Drittsicherheiten (§ 2 Absatz 4) vor, sind in die Darstellung auch die Verhältnisse des die Sicherheit gewährenden verbundenen Unternehmens und die Auswirkungen des Plans auf dieses Unternehmen einzubeziehen.
 
-
-## § 7 – Gestaltender Teil
+# § 7 – Gestaltender Teil
 
 (1) Der gestaltende Teil des Restrukturierungsplans legt fest, wie die Rechtsstellung der Inhaber der Restrukturierungsforderungen, der Absonderungsanwartschaften, der Rechte aus gruppeninternen Drittsicherheiten und der Anteils- oder Mitgliedschaftsrechte (Planbetroffenen) durch den Plan geändert werden soll.
 
@@ -223,8 +213,7 @@ Der Restrukturierungsplan besteht aus einem darstellenden und einem gestaltenden
 
 (4) Restrukturierungsforderungen können auch in Anteils- oder Mitgliedschaftsrechte an dem Schuldner umgewandelt werden. Eine Umwandlung gegen den Willen der betroffenen Gläubiger ist ausgeschlossen. Insbesondere kann der Plan eine Kapitalherabsetzung oder -erhöhung, die Leistung von Sacheinlagen, den Ausschluss von Bezugsrechten oder die Zahlung von Abfindungen an ausscheidende an dem Schuldner beteiligte Personen vorsehen. Der Plan kann vorsehen, dass Anteils- oder Mitgliedschaftsrechte übertragen werden. Im Übrigen kann jede Regelung getroffen werden, die gesellschaftsrechtlich zulässig ist. § 225a Absatz 4 und 5 der Insolvenzordnung ist entsprechend anzuwenden.
 
-
-## § 8 – Auswahl der Planbetroffenen
+# § 8 – Auswahl der Planbetroffenen
 
 Die Auswahl der Planbetroffenen hat nach sachgerechten Kriterien zu erfolgen, die im darstellenden Teil des Plans anzugeben und zu erläutern sind. Die Auswahl ist sachgerecht, wenn
 
@@ -234,8 +223,7 @@ Die Auswahl der Planbetroffenen hat nach sachgerechten Kriterien zu erfolgen, di
 
 3. mit Ausnahme der in § 4 genannten Forderungen sämtliche Forderungen einbezogen werden.
 
-
-## § 9 – Einteilung der Planbetroffenen in Gruppen
+# § 9 – Einteilung der Planbetroffenen in Gruppen
 
 (1) Bei der Festlegung der Rechte der Planbetroffenen im Restrukturierungsplan sind Gruppen zu bilden, soweit Planbetroffene mit unterschiedlicher Rechtsstellung betroffen sind. Es ist zu unterscheiden zwischen
 
@@ -251,8 +239,7 @@ Sieht der gestaltende Teil des Restrukturierungsplans Eingriffe in die Rechte vo
 
 (2) Die Gruppen können nach Maßgabe wirtschaftlicher Interessen in weitere Gruppen unterteilt werden. Sie müssen sachgerecht voneinander abgegrenzt werden. Die Kriterien für die Abgrenzung sind im Plan anzugeben. Kleingläubiger sind im Rahmen der nach Absatz 1 zu bildenden Gruppen zu eigenständigen Gruppen zusammenzufassen.
 
-
-## § 10 – Gleichbehandlung von Planbetroffenen
+# § 10 – Gleichbehandlung von Planbetroffenen
 
 (1) Innerhalb jeder Gruppe sind allen Planbetroffenen gleiche Rechte anzubieten.
 
@@ -260,30 +247,25 @@ Sieht der gestaltende Teil des Restrukturierungsplans Eingriffe in die Rechte vo
 
 (3) Jedes Abkommen des Schuldners oder Dritter mit einzelnen Planbetroffenen, durch das diesen für ihr Verhalten bei Abstimmungen oder sonst im Zusammenhang mit dem Restrukturierungsverfahren ein nicht im Plan vorgesehener Vorteil gewährt wird, ist nichtig.
 
-
-## § 11 – Haftung des Schuldners
+# § 11 – Haftung des Schuldners
 
 Ist im Restrukturierungsplan nichts anderes bestimmt, wird der Schuldner mit der im gestaltenden Teil vorgesehenen Befriedigung der Gläubiger von seinen restlichen Verbindlichkeiten gegenüber diesen aus den in den Plan einbezogenen Restrukturierungsforderungen und Absonderungsanwartschaften befreit. Handelt es sich bei dem Schuldner um eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, so gilt Satz 1 entsprechend für die persönliche Haftung der unbeschränkt haftenden Gesellschafter.
 
-
-## § 12 – Neue Finanzierung
+# § 12 – Neue Finanzierung
 
 In den Restrukturierungsplan können Regelungen zur Zusage von Darlehen oder sonstigen Krediten aufgenommen werden, die zur Finanzierung der Restrukturierung auf der Grundlage des Plans erforderlich sind (neue Finanzierung). Als neue Finanzierung gilt auch deren Besicherung.
 
-
-## § 13 – Änderung sachenrechtlicher Verhältnisse
+# § 13 – Änderung sachenrechtlicher Verhältnisse
 
 Sollen Rechte an Gegenständen begründet, geändert, übertragen oder aufgehoben werden, so können die erforderlichen Willenserklärungen der Beteiligten in den gestaltenden Teil des Restrukturierungsplans aufgenommen werden. Sind im Grundbuch eingetragene Rechte an einem Grundstück oder an eingetragenen Rechten betroffen, so sind diese Rechte unter Beachtung des § 28 der Grundbuchordnung genau zu bezeichnen. Für Rechte, die im Schiffsregister, im Schiffsbauregister oder im Register für Pfandrechte an Luftfahrzeugen eingetragen sind, gilt Satz 2 entsprechend.
 
-
-## § 14 – Erklärung zur Bestandsfähigkeit; Vermögensübersicht; Ergebnis- und Finanzplan
+# § 14 – Erklärung zur Bestandsfähigkeit; Vermögensübersicht; Ergebnis- und Finanzplan
 
 (1) Dem Restrukturierungsplan ist eine begründete Erklärung zu den Aussichten darauf beizufügen, dass die drohende Zahlungsunfähigkeit des Schuldners durch den Plan beseitigt wird und dass die Bestandsfähigkeit des Schuldners sicher- oder wiederhergestellt wird.
 
 (2) Dem Restrukturierungsplan ist eine Vermögensübersicht beizufügen, in der die Vermögensgegenstände und die Verbindlichkeiten, die sich bei Wirksamwerden des Plans gegenüberstünden, mit ihren Werten aufgeführt sind. Zudem ist aufzuführen, welche Aufwendungen und Erträge für den Zeitraum, während dessen die Gläubiger befriedigt werden sollen, zu erwarten sind und durch welche Abfolge von Einnahmen und Ausgaben die Zahlungsfähigkeit des Unternehmens während dieses Zeitraums gewährleistet werden soll. Dabei sind neben den Restrukturierungsforderungen auch die vom Plan unberührt bleibenden Forderungen sowie die künftig nach dem Plan zu begründenden Forderungen zu berücksichtigen.
 
-
-## § 15 – Weitere beizufügende Erklärungen
+# § 15 – Weitere beizufügende Erklärungen
 
 (1) Handelt es sich bei dem Schuldner um eine Gesellschaft ohne Rechtspersönlichkeit oder eine Kommanditgesellschaft auf Aktien, so ist dem Restrukturierungsplan eine Erklärung der Personen beizufügen, die nach dem Plan persönlich haftende Gesellschafter des Unternehmens sein sollen, dass sie zur Fortführung des Unternehmens auf der Grundlage des Plans bereit sind.
 
@@ -293,13 +275,11 @@ Sollen Rechte an Gegenständen begründet, geändert, übertragen oder aufgehobe
 
 (4) Sieht der Restrukturierungsplan Eingriffe in die Rechte von Gläubigern aus gruppeninternen Drittsicherheiten vor, so ist dem Plan die Zustimmung des verbundenen Unternehmens beizufügen, das die Sicherheit gestellt hat.
 
-
-## § 16 – Checkliste für Restrukturierungspläne
+# § 16 – Checkliste für Restrukturierungspläne
 
 Das Bundesministerium der Justiz und für Verbraucherschutz macht eine Checkliste für Restrukturierungspläne bekannt, welche an die Bedürfnisse von kleinen und mittleren Unternehmen angepasst ist. Die Checkliste wird auf der Internetseite www.bmjv.bund.de veröffentlicht.
 
-
-## § 17 – Planangebot
+# § 17 – Planangebot
 
 (1) Das an die Planbetroffenen gerichtete Angebot des Schuldners, den Restrukturierungsplan anzunehmen (Planangebot), hat den deutlichen Hinweis darauf zu enthalten, dass der Plan im Fall seiner mehrheitlichen Annahme und gerichtlichen Bestätigung auch gegenüber Planbetroffenen wirksam wird, die das Angebot nicht annehmen. Dem Planangebot ist der vollständige Restrukturierungsplan nebst Anlagen sowie eine Darstellung der bereits angefallenen und der noch zu erwartenden Kosten des Restrukturierungsverfahrens einschließlich der Vergütung des Restrukturierungsbeauftragten beizufügen.
 
@@ -311,22 +291,19 @@ Das Bundesministerium der Justiz und für Verbraucherschutz macht eine Checklist
 
 (+++ § 17: Zur Nichtanwendung vgl. § 23 +++)
 
-
-## § 18 – Auslegung des Planangebots
+# § 18 – Auslegung des Planangebots
 
 Im Zweifel ist anzunehmen, dass das Planangebot unter der Bedingung steht, dass sämtliche Planbetroffene zustimmen oder dass der Plan gerichtlich bestätigt wird.
 
 (+++ § 18: Zur Nichtanwendung vgl. § 23 +++)
 
-
-## § 19 – Annahmefrist
+# § 19 – Annahmefrist
 
 Für die Annahme des Restrukturierungsplans setzt der Schuldner eine Frist. Die Frist beträgt mindestens 14 Tage. Sie kann kürzer sein, wenn dem Plan ein Restrukturierungskonzept zugrunde liegt, das allen Planbetroffenen seit mindestens 14 Tagen in Textform zugänglich gemacht ist.
 
 (+++ § 19: Zur Nichtanwendung vgl. § 23 +++)
 
-
-## § 20 – Abstimmung im Rahmen einer Versammlung der Planbetroffenen
+# § 20 – Abstimmung im Rahmen einer Versammlung der Planbetroffenen
 
 (1) Der Schuldner kann den Restrukturierungsplan im Rahmen einer Versammlung der Planbetroffenen zur Abstimmung stellen. Die Einberufung erfolgt schriftlich. Die Einberufungsfrist beträgt 14 Tage. Räumt der Schuldner die Möglichkeit einer elektronischen Teilnahme ein, beträgt die Frist sieben Tage. Der Einberufung ist der vollständige Restrukturierungsplan nebst Anlagen beizufügen.
 
@@ -341,8 +318,7 @@ Für die Annahme des Restrukturierungsplans setzt der Schuldner eine Frist. Die 
 (+++ § 20 Abs. 3: Zur Anwendung vgl. § 21 Abs. 3 +++)  
 (+++ § 20: Zur Nichtanwendung vgl. § 23 +++)
 
-
-## § 21 – Erörterung des Restrukturierungsplans
+# § 21 – Erörterung des Restrukturierungsplans
 
 (1) Findet eine Abstimmung im Rahmen einer Versammlung der Planbetroffenen nicht statt, ist unter den Voraussetzungen des § 17 Absatz 3 auf Verlangen eines Planbetroffenen eine Versammlung der Planbetroffenen zur Erörterung des Plans abzuhalten.
 
@@ -354,8 +330,7 @@ Für die Annahme des Restrukturierungsplans setzt der Schuldner eine Frist. Die 
 
 (+++ § 21: Zur Nichtanwendung vgl. § 23 +++)
 
-
-## § 22 – Dokumentation der Abstimmung
+# § 22 – Dokumentation der Abstimmung
 
 (1) Der Schuldner dokumentiert den Ablauf des Planannahmeverfahrens und hält das Ergebnis der Abstimmung nach Ablauf der Annahmefrist oder nach Durchführung der Abstimmung unverzüglich schriftlich fest. Ist die Auswahl der Planbetroffenen, deren Einteilung in Gruppen oder die Zuweisung von Stimmrechten streitig geworden, ist dies in der Dokumentation zu vermerken.
 
@@ -363,13 +338,11 @@ Für die Annahme des Restrukturierungsplans setzt der Schuldner eine Frist. Die 
 
 (+++ § 22: Zur Nichtanwendung vgl. § 23 +++)
 
-
-## § 23 – Gerichtliches Planabstimmungsverfahren
+# § 23 – Gerichtliches Planabstimmungsverfahren
 
 Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen Verfahren zur Abstimmung stellen, welches nach den §§ 45 und 46 durchzuführen ist; die §§ 17 bis 22 finden in diesem Fall keine Anwendung.
 
-
-## § 24 – Stimmrecht
+# § 24 – Stimmrecht
 
 (1) Das Stimmrecht richtet sich
 
@@ -393,15 +366,13 @@ Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen Verfahren zu
 
 (4) Ist das auf eine Forderung oder ein Recht entfallende Stimmrecht streitig, kann der Schuldner der Abstimmung das Stimmrecht zugrunde legen, das er den Planbetroffenen zugewiesen hat. In der Dokumentation der Abstimmung vermerkt er, dass, inwieweit und aus welchem Grund das Stimmrecht streitig ist.
 
-
-## § 25 – Erforderliche Mehrheiten
+# § 25 – Erforderliche Mehrheiten
 
 (1) Zur Annahme des Restrukturierungsplans ist erforderlich, dass in jeder Gruppe auf die dem Plan zustimmenden Gruppenmitglieder mindestens drei Viertel der Stimmrechte in dieser Gruppe entfallen.
 
 (2) Planbetroffene, denen eine Forderung oder ein Recht gemeinschaftlich zusteht, werden bei der Abstimmung als ein Planbetroffener behandelt. Entsprechendes gilt, wenn an einem Recht ein Pfandrecht oder ein Nießbrauch besteht.
 
-
-## § 26 – Gruppenübergreifende Mehrheitsentscheidung
+# § 26 – Gruppenübergreifende Mehrheitsentscheidung
 
 (1) Wird in einer Gruppe die nach § 25 erforderliche Mehrheit nicht erreicht, gilt die Zustimmung dieser Gruppe als erteilt, wenn
 
@@ -413,8 +384,7 @@ Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen Verfahren zu
 
 (2) Wird die nach § 25 erforderliche Mehrheit in einer Gruppe nicht erreicht, die nach § 9 Absatz 1 Satz 3 zu bilden ist, so gelten Absatz 1, § 27 Absatz 1 und § 28 für diese Gruppe nur, wenn die vorgesehene Entschädigung die Inhaber der Rechte aus der gruppeninternen Drittsicherheit für den zu erleidenden Rechtsverlust oder den Verlust der Haftung des persönlich haftenden Gesellschafters angemessen entschädigt.
 
-
-## § 27 – Absolute Priorität
+# § 27 – Absolute Priorität
 
 (1) Eine Gruppe von Gläubigern ist angemessen am Planwert beteiligt, wenn
 
@@ -430,8 +400,7 @@ Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen Verfahren zu
 
 2. vorbehaltlich des § 28 Absatz 2 Nummer 1 keine an dem Schuldner beteiligte Person, die ohne Plan den Mitgliedern der Gruppe gleichgestellt wäre, einen wirtschaftlichen Wert behält.
 
-
-## § 28 – Durchbrechung der absoluten Priorität
+# § 28 – Durchbrechung der absoluten Priorität
 
 (1) Der angemessenen Beteiligung einer Gruppe von planbetroffenen Gläubigern am Planwert steht es nicht entgegen, wenn eine von § 27 Absatz 1 Nummer 3 abweichende Regelung nach der Art der zu bewältigenden wirtschaftlichen Schwierigkeiten und nach den Umständen sachgerecht ist. Eine von § 27 Absatz 1 Nummer 3 abweichende Regelung ist nicht sachgerecht, wenn auf die überstimmte Gruppe mehr als die Hälfte der Stimmrechte der Gläubiger der betroffenen Rangklasse entfällt.
 
@@ -441,8 +410,7 @@ Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen Verfahren zu
 
 2. die Eingriffe in die Rechte der Gläubiger geringfügig sind, insbesondere, weil die Rechte nicht gekürzt werden und deren Fälligkeiten um nicht mehr als 18 Monate verschoben werden.
 
-
-## § 29 – Instrumente des Stabilisierungs- und Restrukturierungsrahmens
+# § 29 – Instrumente des Stabilisierungs- und Restrukturierungsrahmens
 
 (1) Zur nachhaltigen Beseitigung einer drohenden Zahlungsunfähigkeit im Sinne des § 18 Absatz 2 der Insolvenzordnung können die in Absatz 2 genannten Verfahrenshilfen des Stabilisierungs- und Restrukturierungsrahmens (Instrumente) in Anspruch genommen werden.
 
@@ -458,15 +426,13 @@ Der Schuldner kann den Restrukturierungsplan in einem gerichtlichen Verfahren zu
 
 (3) Soweit sich aus den Bestimmungen dieses Gesetzes nichts Abweichendes ergibt, kann der Schuldner die Instrumente des Stabilisierungs-und Restrukturierungsrahmens unabhängig voneinander in Anspruch nehmen.
 
-
-## § 30 – Restrukturierungsfähigkeit
+# § 30 – Restrukturierungsfähigkeit
 
 (1) Die Instrumente des Stabilisierungs- und Restrukturierungsrahmens können vorbehaltlich des Absatzes 2 von jedem insolvenzfähigen Schuldner in Anspruch genommen werden. Für natürliche Personen gilt dies nur, soweit sie unternehmerisch tätig sind.
 
 (2) Die Bestimmungen dieses Kapitels sind auf Unternehmen der Finanzbranche im Sinne des § 1 Absatz 19 des Kreditwesengesetzes nicht anzuwenden.
 
-
-## § 31 – Anzeige des Restrukturierungsvorhabens
+# § 31 – Anzeige des Restrukturierungsvorhabens
 
 (1) Voraussetzung für die Inanspruchnahme der Instrumente des Stabilisierungs- und Restrukturierungsrahmens ist die Anzeige des Restrukturierungsvorhabens bei dem zuständigen Restrukturierungsgericht.
 
@@ -492,8 +458,7 @@ Der Schuldner hat bei der Anzeige zudem anzugeben, ob die Rechte von Verbraucher
 
 4. seit der Anzeige sechs Monate oder, sofern der Schuldner die Anzeige zuvor erneuert hat, zwölf Monate vergangen sind.
 
-
-## § 32 – Pflichten des Schuldners
+# § 32 – Pflichten des Schuldners
 
 (1) Der Schuldner betreibt die Restrukturierungssache mit der Sorgfalt eines ordentlichen und gewissenhaften Sanierungsgeschäftsführers und wahrt dabei die Interessen der Gesamtheit der Gläubiger. Insbesondere unterlässt er Maßnahmen, welche sich mit dem Restrukturierungsziel nicht vereinbaren lassen oder welche die Erfolgsaussichten der in Aussicht genommenen Restrukturierung gefährden. Mit dem Restrukturierungsziel ist es in der Regel nicht vereinbar, Forderungen zu begleichen oder zu besichern, die durch den Restrukturierungsplan gestaltet werden sollen.
 
@@ -503,8 +468,7 @@ Der Schuldner hat bei der Anzeige zudem anzugeben, ob die Rechte von Verbraucher
 
 (4) Der Schuldner ist verpflichtet, dem Gericht unverzüglich anzuzeigen, wenn das Restrukturierungsvorhaben keine Aussicht auf Umsetzung hat, insbesondere, wenn infolge der erkennbar gewordenen ernsthaften und endgültigen Ablehnung des vorgelegten Restrukturierungsplans durch Planbetroffene nicht davon ausgegangen werden kann, dass die für eine Planannahme erforderlichen Mehrheiten erreicht werden können.
 
-
-## § 33 – Aufhebung der Restrukturierungssache
+# § 33 – Aufhebung der Restrukturierungssache
 
 (1) Das Restrukturierungsgericht hebt die Restrukturierungssache von Amts wegen auf, wenn
 
@@ -534,8 +498,7 @@ Satz 1 Nummer 4 ist nicht anwendbar, wenn der Anlass für die frühere Restruktu
 
 (4) Gegen die Aufhebung der Restrukturierungssache nach den Absätzen 1 bis 3 steht dem Schuldner die sofortige Beschwerde zu.
 
-
-## § 34 – Restrukturierungsgericht; Verordnungsermächtigung
+# § 34 – Restrukturierungsgericht; Verordnungsermächtigung
 
 (1) Für Entscheidungen in Restrukturierungssachen ist das Amtsgericht, in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, als Restrukturierungsgericht für den Bezirk des Oberlandesgerichts ausschließlich zuständig. Ist dieses Amtsgericht nicht für Regelinsolvenzsachen zuständig, so ist das Amtsgericht zuständig, das für Regelinsolvenzsachen am Sitz des Oberlandesgerichts zuständig ist.
 
@@ -547,18 +510,15 @@ Satz 1 Nummer 4 ist nicht anwendbar, wenn der Anlass für die frühere Restruktu
 
 Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Mehrere Länder können die Errichtung gemeinsamer Abteilungen eines Amtsgerichts für Restrukturierungssachen oder die Ausdehnung von Gerichtsbezirken für Restrukturierungssachen über die Landesgrenzen hinaus vereinbaren.
 
-
-## § 35 – Örtliche Zuständigkeit
+# § 35 – Örtliche Zuständigkeit
 
 Örtlich zuständig ist ausschließlich das Restrukturierungsgericht, in dessen Bezirk der Schuldner seinen allgemeinen Gerichtsstand hat. Liegt der Mittelpunkt einer wirtschaftlichen Tätigkeit des Schuldners an einem anderen Ort, so ist ausschließlich das Restrukturierungsgericht zuständig, in dessen Bezirk dieser Ort liegt.
 
-
-## § 36 – Einheitliche Zuständigkeit
+# § 36 – Einheitliche Zuständigkeit
 
 Für alle Entscheidungen und Maßnahmen in der Restrukturierungssache ist die Abteilung zuständig, die für die erste Entscheidung zuständig war.
 
-
-## § 37 – Gruppen-Gerichtsstand
+# § 37 – Gruppen-Gerichtsstand
 
 (1) Auf Antrag eines Schuldners, der einer Unternehmensgruppe im Sinne des § 3e der Insolvenzordnung angehört (gruppenangehöriger Schuldner), erklärt sich das angerufene Restrukturierungsgericht für Restrukturierungssachen anderer gruppenangehöriger Schuldner (Gruppen-Folgeverfahren) für zuständig, wenn dieser Schuldner einen zulässigen Antrag in der Restrukturierungssache gestellt hat und er nicht offensichtlich von untergeordneter Bedeutung für die gesamte Unternehmensgruppe ist.
 
@@ -566,13 +526,11 @@ Für alle Entscheidungen und Maßnahmen in der Restrukturierungssache ist die Ab
 
 (3) Auf Antrag des Schuldners erklärt sich unter den Voraussetzungen des Absatzes 1 das für Gruppen-Folgeverfahren in Restrukturierungssachen zuständige Gericht als Insolvenzgericht auch für Gruppen-Folgeverfahren in Insolvenzsachen nach § 3a Absatz 1 der Insolvenzordnung für zuständig.
 
-
-## § 38 – Anwendbarkeit der Zivilprozessordnung
+# § 38 – Anwendbarkeit der Zivilprozessordnung
 
 Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilprozessordnung entsprechend. § 128a der Zivilprozessordnung gilt mit der Maßgabe, dass bei Versammlungen und Terminen die Beteiligten in der Ladung auf die Verpflichtung hinzuweisen sind, wissentliche Ton- und Bildaufzeichnungen zu unterlassen und durch geeignete Maßnahmen sicherzustellen, dass Dritte die Ton- und Bildübertragung nicht wahrnehmen können.
 
-
-## § 39 – Verfahrensgrundsätze
+# § 39 – Verfahrensgrundsätze
 
 (1) Das Restrukturierungsgericht hat von Amts wegen alle Umstände zu ermitteln, die für das Verfahren in der Restrukturierungssache von Bedeutung sind, soweit in diesem Gesetz nichts Abweichendes bestimmt ist. Es kann zu diesem Zweck insbesondere Zeugen und Sachverständige vernehmen.
 
@@ -580,8 +538,7 @@ Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts an
 
 (3) Die Entscheidungen des Restrukturierungsgerichts können ohne mündliche Verhandlung ergehen. Findet eine mündliche Verhandlung statt, so ist § 227 Absatz 3 Satz 1 der Zivilprozessordnung nicht anzuwenden.
 
-
-## § 40 – Rechtsmittel
+# § 40 – Rechtsmittel
 
 (1) Die Entscheidungen des Restrukturierungsgerichts unterliegen nur in den Fällen einem Rechtsmittel, in denen dieses Gesetz die sofortige Beschwerde vorsieht. Die sofortige Beschwerde ist bei dem Restrukturierungsgericht einzulegen.
 
@@ -589,8 +546,7 @@ Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts an
 
 (3) Die Entscheidung über die Beschwerde wird erst mit der Rechtskraft wirksam. Das Beschwerdegericht kann jedoch die sofortige Wirksamkeit der Entscheidung anordnen.
 
-
-## § 41 – Zustellungen
+# § 41 – Zustellungen
 
 (1) Zustellungen erfolgen von Amts wegen, ohne dass es einer Beglaubigung des zuzustellenden Schriftstücks bedarf. Sie können dadurch bewirkt werden, dass das Schriftstück unter der Anschrift des Zustellungsadressaten zur Post gegeben wird; § 184 Absatz 2 Satz 1, 2 und 4 der Zivilprozessordnung gilt entsprechend. Soll die Zustellung im Inland bewirkt werden, gilt das Schriftstück drei Tage nach Aufgabe zur Post als zugestellt.
 
@@ -598,8 +554,7 @@ Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts an
 
 (3) Beauftragt das Gericht den Schuldner mit der Zustellung, erfolgt diese nach Maßgabe der §§ 191 bis 194 der Zivilprozessordnung.
 
-
-## § 42 – Anzeige von Zahlungsunfähigkeit und Überschuldung; Strafvorschrift
+# § 42 – Anzeige von Zahlungsunfähigkeit und Überschuldung; Strafvorschrift
 
 (1) Während der Rechtshängigkeit der Restrukturierungssache ruht die Antragspflicht nach § 15a Absatz 1 bis 3 der Insolvenzordnung und § 42 Absatz 2 des Bürgerlichen Gesetzbuchs. Die Antragspflichtigen sind jedoch verpflichtet, dem Restrukturierungsgericht den Eintritt einer Zahlungsunfähigkeit im Sinne des § 17 Absatz 2 der Insolvenzordnung oder einer Überschuldung im Sinne des § 19 Absatz 2 der Insolvenzordnung ohne schuldhaftes Zögern anzuzeigen.
 
@@ -609,8 +564,7 @@ Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts an
 
 (4) Wenn die Anzeige der Restrukturierungssache nach § 31 Absatz 4 ihre Wirkung verliert, leben die nach Absatz 1 Satz 1 ruhenden Antragspflichten wieder auf.
 
-
-## § 43 – Pflichten und Haftung der Organe
+# § 43 – Pflichten und Haftung der Organe
 
 (1) Handelt es sich bei dem Schuldner um eine juristische Person oder um eine Gesellschaft ohne Rechtspersönlichkeit im Sinne des § 15a Absatz 1 Satz 3, Absatz 2 der Insolvenzordnung, wirken dessen Geschäftsleiter darauf hin, dass der Schuldner die Restrukturierungssache mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters betreibt und die Interessen der Gesamtheit der Gläubiger wahrt. Für die Verletzung dieser Pflicht haften sie dem Schuldner in Höhe des den Gläubigern entstandenen Schadens, es sei denn sie haben die Pflichtverletzung nicht zu vertreten.
 
@@ -618,8 +572,7 @@ Für Verfahren in Restrukturierungssachen gelten, soweit dieses Gesetz nichts an
 
 (3) Ansprüche nach Absatz 1 Satz 2 verjähren in fünf Jahren. Ist der Schuldner zum Zeitpunkt der Pflichtverletzung eine börsennotierte Gesellschaft, verjähren die Ansprüche in zehn Jahren.
 
-
-## § 44 – Verbot von Lösungsklauseln
+# § 44 – Verbot von Lösungsklauseln
 
 (1) Die Rechtshängigkeit der Restrukturierungssache oder die Inanspruchnahme von Instrumenten des Stabilisierungs- und Restrukturierungsrahmens durch den Schuldner ist ohne Weiteres kein Grund
 
@@ -635,8 +588,7 @@ Sie berühren ohne Weiteres auch nicht die Wirksamkeit des Vertrags.
 
 (3) Die Absätze 1 und 2 gelten nicht für Geschäfte nach § 104 Absatz 1 der Insolvenzordnung und Vereinbarungen über das Liquidationsnetting nach § 104 Absatz 3 und 4 der Insolvenzordnung und Finanzsicherheiten im Sinne von § 1 Absatz 17 des Kreditwesengesetzes. Dies gilt auch für Geschäfte, die im Rahmen eines Systems nach § 1 Absatz 16 des Kreditwesengesetzes der Verrechnung von Ansprüchen und Leistungen unterliegen.
 
-
-## § 45 – Erörterungs- und Abstimmungstermin
+# § 45 – Erörterungs- und Abstimmungstermin
 
 (1) Auf Antrag des Schuldners bestimmt das Restrukturierungsgericht einen Termin, in dem der Restrukturierungsplan und das Stimmrecht der Planbetroffenen erörtert werden und anschließend über den Plan abgestimmt wird. Die Ladungsfrist beträgt mindestens 14 Tage.
 
@@ -648,8 +600,7 @@ Sie berühren ohne Weiteres auch nicht die Wirksamkeit des Vertrags.
 
 (+++ § 45 Abs. 3: Zur Anwendung vgl. § 46 Abs. 1 Satz 3 +++)
 
-
-## § 46 – Vorprüfungstermin
+# § 46 – Vorprüfungstermin
 
 (1) Auf Antrag des Schuldners bestimmt das Gericht einen gesonderten Termin zur Vorprüfung des Restrukturierungsplans vor dem Erörterungs- und Abstimmungstermin. Gegenstand dieser Vorprüfung kann jede Frage sein, die für die Bestätigung des Restrukturierungsplans erheblich ist, insbesondere,
 
@@ -665,20 +616,17 @@ Sie berühren ohne Weiteres auch nicht die Wirksamkeit des Vertrags.
 
 (3) Das Gericht kann einen Vorprüfungstermin auch von Amts wegen bestimmen, wenn dies zweckmäßig ist.
 
-
-## § 47 – Antrag
+# § 47 – Antrag
 
 Auf Antrag des Schuldners führt das Restrukturierungsgericht auch dann eine Vorprüfung durch, wenn der Restrukturierungsplan nicht im gerichtlichen Verfahren zur Abstimmung gebracht werden soll. Gegenstand einer solchen Vorprüfung kann jede Frage sein, die für die Bestätigung des Restrukturierungsplans erheblich ist. Neben den in § 46 Absatz 1 Satz 2 genannten Gegenständen können dies insbesondere auch die Anforderungen sein, die an das Planabstimmungsverfahren nach den §§ 17 bis 22 zu stellen sind.
 
-
-## § 48 – Verfahren
+# § 48 – Verfahren
 
 (1) Die von der Vorprüfungsfrage berührten Planbetroffenen sind anzuhören.
 
 (2) Das Ergebnis der Vorprüfung fasst das Gericht in einem Hinweis zusammen. Der Hinweis soll innerhalb von zwei Wochen nach Antragstellung oder, sofern ein Anhörungstermin stattfindet, innerhalb von zwei Wochen nach diesem Termin ergehen. Für die Ladung zu dem Anhörungstermin gelten § 45 Absatz 3 und § 46 Absatz 1 Satz 3 entsprechend.
 
-
-## § 49 – Stabilisierungsanordnung
+# § 49 – Stabilisierungsanordnung
 
 (1) Soweit dies zur Wahrung der Aussichten auf die Verwirklichung des Restrukturierungsziels erforderlich ist, ordnet das Restrukturierungsgericht auf Antrag des Schuldners an, dass
 
@@ -690,8 +638,7 @@ Auf Antrag des Schuldners führt das Restrukturierungsgericht auch dann eine Vor
 
 (3) Die Anordnung nach Absatz 1 kann auch das Recht von Gläubigern zur Durchsetzung von Rechten aus gruppeninternen Drittsicherheiten (§ 2 Absatz 4) sperren.
 
-
-## § 50 – Antrag
+# § 50 – Antrag
 
 (1) Der Schuldner hat die beantragte Stabilisierungsanordnung nach § 49 Absatz 1 ihrem Inhalt, dem Adressatenkreis und der Dauer nach zu bezeichnen.
 
@@ -709,8 +656,7 @@ Auf Antrag des Schuldners führt das Restrukturierungsgericht auch dann eine Vor
 
 3. ob er für die letzten drei abgeschlossenen Geschäftsjahre seinen Verpflichtungen aus den §§ 325 bis 328 oder aus § 339 des Handelsgesetzbuchs nachgekommen ist.
 
-
-## § 51 – Voraussetzungen der Stabilisierungsanordnung
+# § 51 – Voraussetzungen der Stabilisierungsanordnung
 
 (1) Die Stabilisierungsanordnung ergeht, wenn die von dem Schuldner vorgelegte Restrukturierungsplanung vollständig und schlüssig ist und keine Umstände bekannt sind, aus denen sich ergibt, dass
 
@@ -738,13 +684,11 @@ erfolgt die Stabilisierungsanordnung nur, wenn trotz dieser Umstände zu erwarte
 
 (5) Das Restrukturierungsgericht entscheidet über den Antrag auf Erlass der Stabilisierungsanordnung durch Beschluss. Soweit das Gericht den Antrag zurückweist, steht dem Schuldner gegen den Beschluss die sofortige Beschwerde zu.
 
-
-## § 52 – Folgeanordnung, Neuanordnung
+# § 52 – Folgeanordnung, Neuanordnung
 
 Unter den Voraussetzungen des § 51 Absatz 1 und 2 kann eine Stabilisierungsanordnung auf weitere Gläubiger erstreckt, inhaltlich erweitert oder zeitlich verlängert werden (Folgeanordnung) oder, sofern die Anordnungsdauer bereits überschritten ist, erneuert werden (Neuanordnung).
 
-
-## § 53 – Anordnungsdauer
+# § 53 – Anordnungsdauer
 
 (1) Die Stabilisierungsanordnung kann für eine Dauer von bis zu drei Monaten ergehen.
 
@@ -760,15 +704,13 @@ In diesem Fall verlängert sich die Anordnungshöchstdauer um einen Monat und di
 
 (4) Absatz 3 ist nicht anzuwenden, wenn der Mittelpunkt der hauptsächlichen Interessen des Schuldners innerhalb eines Zeitraums von drei Monaten vor der ersten Inanspruchnahme von Instrumenten des Stabilisierungs- und Restrukturierungsrahmens aus einem anderen Mitgliedstaat der Europäischen Union in das Inland verlegt wurde und keine öffentlichen Bekanntmachungen nach den §§ 84 bis 86 erfolgen.
 
-
-## § 54 – Folgen der Verwertungssperre
+# § 54 – Folgen der Verwertungssperre
 
 (1) Ist eine Verwertungssperre ergangen, sind dem Gläubiger die geschuldeten Zinsen zu zahlen und der durch die Nutzung eintretende Wertverlust ist durch laufende Zahlungen an den Gläubiger auszugleichen. Dies gilt nicht, soweit nach der Höhe der Forderung und der sonstigen Belastung des Gegenstands mit einer Befriedigung des Gläubigers aus dem Verwertungserlös nicht zu rechnen ist.
 
 (2) Zieht der Schuldner nach Maßgabe der vertraglichen Vereinbarungen mit dem Berechtigten Forderungen ein, die zur Sicherung eines Anspruchs abgetreten sind, oder veräußert oder verarbeitet er bewegliche Sachen, an denen Rechte bestehen, die im Fall der Eröffnung eines Insolvenzverfahrens als Aus- oder Absonderungsrechte geltend gemacht werden könnten, sind die dabei erzielten Erlöse an den Berechtigten auszukehren oder unterscheidbar zu verwahren, es sei denn, der Schuldner trifft mit dem Berechtigten eine anderweitige Vereinbarung.
 
-
-## § 55 – Vertragsrechtliche Wirkungen
+# § 55 – Vertragsrechtliche Wirkungen
 
 (1) Ist der Schuldner zum Zeitpunkt der Stabilisierunganordnung einem Gläubiger etwas aus einem Vertrag schuldig, so kann der Gläubiger nicht allein wegen der rückständigen Leistung eine ihm im Anordnungszeitraum obliegende Leistung verweigern oder Vertragsbeendigungs- oder -abänderungsrechte geltend machen; unberührt bleibt das Recht des Gläubigers, die Erbringung des Teils der ihm obliegenden Gegenleistung zu verweigern, der auf die rückständige Leistung des Schuldners entfällt. Ergehen Folge- oder Neuanordnungen, ist der Zeitpunkt der Erstanordnung maßgeblich.
 
@@ -776,25 +718,21 @@ In diesem Fall verlängert sich die Anordnungshöchstdauer um einen Monat und di
 
 (3) Ist der Gläubiger vorleistungspflichtig, hat er das Recht, die ihm obliegende Leistung gegen Sicherheitsleistung oder Zug um Zug gegen die dem Schuldner obliegende Leistung zu erbringen. Absatz 1 berührt nicht das Recht von Darlehensgebern, den Darlehensvertrag vor der Auszahlung des Darlehens wegen einer Verschlechterung der Vermögensverhältnisse des Schuldners oder der Werthaltigkeit der für das Darlehen gestellten Sicherheit zu kündigen (§ 490 Absatz 1 des Bürgerlichen Gesetzbuchs). Satz 2 gilt auch für andere Kreditzusagen.
 
-
-## § 56 – Finanzsicherheiten, Zahlungs- und Abwicklungssysteme, Liquidationsnetting
+# § 56 – Finanzsicherheiten, Zahlungs- und Abwicklungssysteme, Liquidationsnetting
 
 (1) Die Stabilisierungsanordnung berührt nicht die Wirksamkeit von Verfügungen über Finanzsicherheiten nach § 1 Absatz 17 des Kreditwesengesetzes und die Wirksamkeit der Verrechnung von Ansprüchen und Leistungen aus Zahlungsaufträgen, Aufträgen zwischen Zahlungsdienstleistern oder zwischengeschalteten Stellen oder Aufträgen zur Übertragung von Wertpapieren, die in Systeme nach § 1 Absatz 16 des Kreditwesengesetzes eingebracht wurden. Dies gilt auch dann, wenn ein solches Rechtsgeschäft des Schuldners am Tag der Anordnung getätigt und verrechnet oder eine Finanzsicherheit bestellt wird und der andere Teil nachweist, dass er die Anordnung weder kannte noch hätte kennen müssen; ist der andere Teil ein Systembetreiber oder Teilnehmer in dem System, bestimmt sich der Tag der Anordnung nach dem Geschäftstag im Sinne des § 1 Absatz 16b des Kreditwesengesetzes.
 
 (2) Von der Stabilisierungsanordnung und ihren Wirkungen bleiben Geschäfte, die den Gegenstand einer Vereinbarung über das Liquidationsnetting im Sinne von § 104 Absatz 3 und 4 der Insolvenzordnung bilden können, sowie Vereinbarungen über das Liquidationsnetting unberührt. Die aus dem Liquidationsnetting resultierende Forderung kann einer Vollstreckungssperre und, im Rahmen des nach Absatz 1 Zulässigen, auch einer Verwertungssperre unterworfen werden.
 
-
-## § 57 – Haftung der Organe
+# § 57 – Haftung der Organe
 
 Handelt es sich bei dem Schuldner um eine juristische Person oder um eine Gesellschaft ohne Rechtspersönlichkeit im Sinne des § 15a Absatz 1 Satz 3, Absatz 2 der Insolvenzordnung und erwirkt er aufgrund vorsätzlich oder fahrlässig unrichtiger Angaben eine Stabilisierungsanordnung, ist der Geschäftsleiter den davon betroffenen Gläubigern zum Ersatz des Schadens verpflichtet, den diese durch die Anordnung erleiden. Dies gilt nicht, wenn ihn kein Verschulden trifft. Die Sätze 1 und 2 gelten auch für den Ersatz des Schadens, der einem Gläubiger aus einer nicht ordnungsgemäßen Auskehrung oder Verwahrung der Erlöse nach § 54 Absatz 2 entsteht. Für Ansprüche nach den Sätzen 1 und 3 gilt § 43 Absatz 3 entsprechend.
 
-
-## § 58 – Insolvenzantrag
+# § 58 – Insolvenzantrag
 
 Das Verfahren über den Antrag eines Gläubigers, das Insolvenzverfahren über das Vermögen des Schuldners zu eröffnen, wird für die Anordnungsdauer ausgesetzt.
 
-
-## § 59 – Aufhebung und Beendigung der Stabilisierungsanordnung
+# § 59 – Aufhebung und Beendigung der Stabilisierungsanordnung
 
 (1) Das Restrukturierungsgericht hebt die Stabilisierungsanordnung auf, wenn
 
@@ -816,8 +754,7 @@ b) die Rechnungslegung und Buchführung des Schuldners so unvollständig oder ma
 
 (4) Die Stabilisierungsanordnung endet, wenn der Restrukturierungsplan bestätigt ist oder die Planbestätigung versagt wird.
 
-
-## § 60 – Antrag
+# § 60 – Antrag
 
 (1) Auf Antrag des Schuldners bestätigt das Gericht den von den Planbetroffenen angenommenen Restrukturierungsplan durch Beschluss. Der Antrag kann auch im Erörterungs- und Abstimmungstermin gestellt werden. Ist die Planabstimmung nicht im gerichtlichen Verfahren (§ 45) erfolgt, hat der Schuldner dem Antrag auf Bestätigung des Restrukturierungsplans neben dem zur Abstimmung gestellten Plan und seinen Anlagen die Dokumentation über das Abstimmungsergebnis sowie sämtliche Urkunden und sonstigen Nachweise beizufügen, aus denen sich ergibt, wie die Abstimmung durchgeführt wurde und zu welchem Ergebnis sie geführt hat.
 
@@ -827,18 +764,15 @@ b) die Rechnungslegung und Buchführung des Schuldners so unvollständig oder ma
 
 2. um Gesellschaften ohne Rechtspersönlichkeit handelt, bei denen kein persönlich haftender Gesellschafter eine natürliche Person ist und kein persönlich haftender Gesellschafter selbst eine Gesellschaft ohne Rechtspersönlichkeit ist, bei der ein persönlich haftender Gesellschafter eine natürliche Person ist oder sich die Verbindung von Gesellschaften in dieser Art fortsetzt.
 
-
-## § 61 – Anhörung
+# § 61 – Anhörung
 
 Vor der Entscheidung über die Bestätigung des Restrukturierungsplans kann das Gericht die Planbetroffenen anhören. Ist die Planabstimmung nicht im gerichtlichen Verfahren erfolgt, hat das Gericht einen Termin zur Anhörung der Planbetroffenen durchzuführen. § 45 Absatz 3 und § 46 Absatz 1 Satz 4 gelten entsprechend.
 
-
-## § 62 – Bedingter Restrukturierungsplan
+# § 62 – Bedingter Restrukturierungsplan
 
 Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte Leistungen erbracht oder andere Maßnahmen verwirklicht werden sollen, wird der Plan nur bestätigt, wenn diese Voraussetzungen erfüllt sind und Versagungsgründe nicht vorliegen.
 
-
-## § 63 – Versagung der Bestätigung
+# § 63 – Versagung der Bestätigung
 
 (1) Die Bestätigung des Restrukturierungsplans ist von Amts wegen zu versagen, wenn
 
@@ -854,8 +788,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (4) Die Bestätigung ist auch zu versagen, wenn die Annahme des Restrukturierungsplans unlauter herbeigeführt worden ist, insbesondere durch Begünstigung eines Planbetroffenen.
 
-
-## § 64 – Minderheitenschutz
+# § 64 – Minderheitenschutz
 
 (1) Auf Antrag eines Planbetroffenen, der gegen den Restrukturierungsplan gestimmt hat, ist die Bestätigung des Plans zu versagen, wenn der Antragsteller durch den Restrukturierungsplan voraussichtlich schlechter gestellt wird als er ohne den Plan stünde. Hat der Schuldner gegen den Inhaber einer Absonderungsanwartschaft eine Vollstreckungs- oder Verwertungssperre erwirkt, die diesen an der Verwertung der Anwartschaft hinderte, bleiben Minderungen im Wert der Anwartschaft, die sich während der Dauer der Anordnung ergeben, für die Bestimmung der Stellung des Berechtigten ohne Plan außer Betracht, es sei denn, die Wertminderung hätte sich auch ohne die Anordnung ergeben.
 
@@ -865,15 +798,13 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (4) Hat weder eine Versammlung der Planbetroffenen (§ 20) noch ein Erörterungs- und Abstimmungstermin (§ 45) stattgefunden, gilt Absatz 2 Satz 1 nur, wenn im Planangebot besonders auf das Erfordernis der Geltendmachung der voraussichtlichen Schlechterstellung durch den Plan im Abstimmungsverfahren hingewiesen wurde. Hat eine Versammlung der Planbetroffenen stattgefunden, gilt Absatz 2 Satz 1 nur, wenn in dem Einberufungsschreiben besonders auf das Erfordernis der Geltendmachung der voraussichtlichen Schlechterstellung durch den Plan im Abstimmungsverfahren hingewiesen wurde. Absatz 2 Satz 2 gilt nur, wenn in der Ladung besonders auf das Erfordernis der Glaubhaftmachung der voraussichtlichen Schlechterstellung durch den Plan spätestens im Erörterungs- und Abstimmungstermin hingewiesen wurde.
 
-
-## § 65 – Bekanntgabe der Entscheidung
+# § 65 – Bekanntgabe der Entscheidung
 
 (1) Wird die Entscheidung über den Antrag auf Bestätigung des Restrukturierungsplans nicht im Anhörungstermin oder im Erörterungs- und Abstimmungstermin verkündet, ist sie in einem alsbald zu bestimmenden besonderen Termin zu verkünden.
 
 (2) Wird der Restrukturierungsplan bestätigt, so ist den Planbetroffenen unter Hinweis auf die Bestätigung ein Abdruck des Plans oder eine Zusammenfassung seines wesentlichen Inhalts zuzusenden; für an dem Schuldner beteiligte Aktionäre oder Kommanditaktionäre gilt dies nicht. Börsennotierte Gesellschaften haben eine Zusammenfassung des wesentlichen Inhalts des Plans über ihre Internetseite zugänglich zu machen. Die Übersendung eines Abdrucks des Plans oder eine Zusammenfassung seines wesentlichen Inhalts nach Satz 1 kann unterbleiben, wenn der vor der Abstimmung übersendete Plan unverändert angenommen wurde.
 
-
-## § 66 – Sofortige Beschwerde
+# § 66 – Sofortige Beschwerde
 
 (1) Gegen den Beschluss, durch den der Restrukturierungsplan bestätigt wird, steht jedem Planbetroffenen die sofortige Beschwerde zu. Dem Schuldner steht die sofortige Beschwerde zu, wenn die Bestätigung des Restrukturierungsplans abgelehnt worden ist.
 
@@ -891,8 +822,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (5) Das Beschwerdegericht weist die Beschwerde gegen die Bestätigung des Restrukturierungsplans auf Antrag des Schuldners unverzüglich zurück, wenn die alsbaldige Rechtskraft der Planbestätigung vorrangig erscheint, weil die Nachteile eines verzögerten Planvollzugs die Nachteile für den Beschwerdeführer überwiegen; ein Abhilfeverfahren findet nicht statt. Dies gilt nicht, wenn ein besonders schwerer Rechtsverstoß vorliegt. Weist das Beschwerdegericht die Beschwerde nach Satz 1 zurück, ist der Schuldner dem Beschwerdeführer zum Ersatz des Schadens verpflichtet, der ihm durch den Planvollzug entsteht; die Rückgängigmachung der Wirkungen des Restrukturierungsplans kann nicht als Schadensersatz verlangt werden. Für Klagen, mit denen Schadensersatzansprüche nach Satz 3 geltend gemacht werden, ist das Landgericht ausschließlich zuständig, das die Beschwerde zurückgewiesen hat.
 
-
-## § 67 – Wirkungen des Restrukturierungsplans
+# § 67 – Wirkungen des Restrukturierungsplans
 
 (1) Mit der Bestätigung des Restrukturierungsplans treten die im gestaltenden Teil festgelegten Wirkungen ein. Dies gilt auch im Verhältnis zu Planbetroffenen, die gegen den Plan gestimmt haben oder die an der Abstimmung nicht teilgenommen haben, obgleich sie ordnungsgemäß an dem Abstimmungsverfahren beteiligt worden sind.
 
@@ -906,8 +836,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (6) Mit der rechtskräftigen Bestätigung des Restrukturierungsplans gelten Mängel im Verfahren der Planabstimmung sowie Willensmängel von Planangebot und Planannahme als geheilt.
 
-
-## § 68 – Sonstige Wirkungen des Restrukturierungsplans
+# § 68 – Sonstige Wirkungen des Restrukturierungsplans
 
 (1) Wenn Rechte an Gegenständen begründet, geändert, übertragen oder aufgehoben oder Geschäftsanteile an einer Gesellschaft mit beschränkter Haftung abgetreten werden sollen, gelten die in den Restrukturierungsplan aufgenommenen Willenserklärungen der Planbetroffenen und des Schuldners als in der vorgeschriebenen Form abgegeben.
 
@@ -915,8 +844,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (3) Entsprechendes gilt für die in den Restrukturierungsplan aufgenommenen Verpflichtungserklärungen, die einer Maßnahme nach Absatz 1 oder Absatz 2 zugrunde liegen.
 
-
-## § 69 – Wiederaufleben gestundeter oder erlassener Forderungen
+# § 69 – Wiederaufleben gestundeter oder erlassener Forderungen
 
 (1) Sind aufgrund des gestaltenden Teils des Restrukturierungsplans einbezogene Restrukturierungsforderungen gestundet oder teilweise erlassen worden, so wird die Stundung oder der Erlass für den Gläubiger hinfällig, gegenüber dem der Schuldner mit der Erfüllung des Plans erheblich in Rückstand gerät. Ein erheblicher Rückstand ist erst anzunehmen, wenn der Schuldner eine fällige Verbindlichkeit nicht bezahlt hat, obwohl der Gläubiger ihn schriftlich gemahnt und ihm dabei eine mindestens zweiwöchige Nachfrist gesetzt hat.
 
@@ -924,8 +852,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (3) Im Restrukturierungsplan kann etwas von Absatz 1 oder 2 Abweichendes vorgesehen werden. Jedoch kann von Absatz 1 nicht zum Nachteil des Schuldners abgewichen werden.
 
-
-## § 70 – Streitige Forderungen und Ausfallforderungen
+# § 70 – Streitige Forderungen und Ausfallforderungen
 
 (1) Streitige Restrukturierungsforderungen unterliegen der auf sie anwendbaren Regelung des Restrukturierungsplans in der Höhe, in der sie später festgestellt sind, nicht aber über den Betrag hinaus, der dem Plan zugrunde gelegt wurde.
 
@@ -935,8 +862,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (4) Ergibt die endgültige Feststellung der Forderung, dass der Schuldner zu viel gezahlt hat, so kann er den Mehrbetrag nur insoweit zurückfordern, als dieser auch den nicht fälligen Teil der Forderung übersteigt, die dem Gläubiger nach dem Restrukturierungsplan zusteht.
 
-
-## § 71 – Vollstreckung aus dem Restrukturierungsplan
+# § 71 – Vollstreckung aus dem Restrukturierungsplan
 
 (1) Aus dem rechtskräftig bestätigten Restrukturierungsplan können die Restrukturierungsgläubiger, deren Forderungen im Bestätigungsbeschluss nicht als bestritten ausgewiesen sind, wie aus einem vollstreckbaren Urteil die Zwangsvollstreckung gegen den Schuldner betreiben. § 202 der Insolvenzordnung gilt entsprechend.
 
@@ -946,8 +872,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 (4) Bestand für die einer Planregelung unterliegende Forderung bereits ein vollstreckbarer Titel, tritt der rechtskräftig bestätigte Restrukturierungsplan an dessen Stelle; die weitere Vollstreckung aus dem früheren Titel ist insoweit unzulässig.
 
-
-## § 72 – Planüberwachung
+# § 72 – Planüberwachung
 
 (1) Im gestaltenden Teil des Restrukturierungsplans kann vorgesehen werden, dass die Erfüllung der den Gläubigern nach dem gestaltenden Teil zustehenden Ansprüche überwacht wird.
 
@@ -963,8 +888,7 @@ Ist im Restrukturierungsplan vorgesehen, dass vor dessen Bestätigung bestimmte 
 
 3. das Insolvenzverfahren über das Vermögen des Schuldners eröffnet oder die Eröffnung mangels Masse abgewiesen wird.
 
-
-## § 73 – Bestellung von Amts wegen
+# § 73 – Bestellung von Amts wegen
 
 (1) Das Restrukturierungsgericht bestellt einen Restrukturierungsbeauftragten, wenn
 
@@ -984,8 +908,7 @@ Das Gericht kann im Einzelfall von einer Bestellung absehen, wenn die Bestellung
 
 2. zur Angemessenheit der Entschädigung bei einem Eingriff in gruppeninterne Drittsicherheiten oder einer Beschränkung der Haftung von unbeschränkt haftenden Gesellschaftern.
 
-
-## § 74 – Bestellung
+# § 74 – Bestellung
 
 (1) Zum Restrukturierungsbeauftragten ist ein für den jeweiligen Einzelfall geeigneter, in Restrukturierungs- und Insolvenzsachen erfahrener Steuerberater, Wirtschaftsprüfer oder Rechtsanwalt oder eine sonstige natürliche Person mit vergleichbarer Qualifikation zu bestellen, die von den Gläubigern und dem Schuldner unabhängig ist und die aus dem Kreis aller zur Übernahme des Amtes bereiten Personen auszuwählen ist.
 
@@ -993,8 +916,7 @@ Das Gericht kann im Einzelfall von einer Bestellung absehen, wenn die Bestellung
 
 (3) Folgt das Restrukturierungsgericht einem Vorschlag des Schuldners nach Absatz 2 Satz 2 oder der Planbetroffenen nach Absatz 2 Satz 3, kann es einen weiteren Restrukturierungsbeauftragten bestellen und diesem dessen Aufgaben übertragen; dies gilt nicht für die Aufgaben nach § 76 Absatz 2 Nummer 1 Halbsatz 1 und 2.
 
-
-## § 75 – Rechtsstellung
+# § 75 – Rechtsstellung
 
 (1) Der Restrukturierungsbeauftragte steht unter der Aufsicht des Restrukturierungsgerichts. Das Gericht kann jederzeit einzelne Auskünfte oder einen Bericht über den Sachstand verlangen.
 
@@ -1004,8 +926,7 @@ Das Gericht kann im Einzelfall von einer Bestellung absehen, wenn die Bestellung
 
 (4) Der Restrukturierungsbeauftragte erfüllt seine Aufgaben mit der gebotenen Sorgfalt und Gewissenhaftigkeit. Er nimmt seine Aufgaben unparteiisch wahr. Verletzt er die ihm obliegenden Pflichten in schuldhafter Weise, ist er den Betroffenen zum Schadensersatz verpflichtet. Die Verjährung des Anspruchs auf Ersatz des Schadens, der aus einer Pflichtverletzung des Restrukturierungsbeauftragten entstanden ist, richtet sich nach den Regelungen über die regelmäßige Verjährung nach dem Bürgerlichen Gesetzbuch. Der Anspruch verjährt spätestens in drei Jahren nach der Beendigung der Rechtshängigkeit der Restrukturierungssache. Ist eine Planüberwachung angeordnet, tritt an die Stelle des Endes der Rechtshängigkeit der Restrukturierungssache der Abschluss der Planüberwachung.
 
-
-## § 76 – Aufgaben
+# § 76 – Aufgaben
 
 (1) Stellt der Restrukturierungsbeauftragte Umstände fest, die eine Aufhebung der Restrukturierungssache nach § 33 rechtfertigen, hat er diese dem Restrukturierungsgericht unverzüglich mitzuteilen.
 
@@ -1033,15 +954,13 @@ b) von dem Schuldner zu verlangen, dass eingehende Gelder nur von dem Beauftragt
 
 (6) Das Restrukturierungsgericht kann den Restrukturierungsbeauftragten beauftragen, die dem Gericht obliegenden Zustellungen durchzuführen. Zur Durchführung der Zustellung und zur Erfassung in den Akten kann der Beauftragte sich Dritter, insbesondere auch eigenen Personals, bedienen. Er hat die von ihm nach § 184 Absatz 2 Satz 4 der Zivilprozessordnung angefertigten Vermerke unverzüglich zu den Gerichtsakten zu reichen.
 
-
-## § 77 – Antrag
+# § 77 – Antrag
 
 (1) Auf Antrag des Schuldners bestellt das Restrukturierungsgericht einen Restrukturierungsbeauftragten zur Förderung der Verhandlungen zwischen den Beteiligten (fakultativer Restrukturierungsbeauftragter). Gläubigern steht dieses Recht gemeinschaftlich zu, wenn auf sie mehr als 25 Prozent der Stimmrechte in einer Gruppe entfallen oder voraussichtlich entfallen werden und wenn sie sich zur gesamtschuldnerischen Übernahme der Kosten der Beauftragung verpflichten.
 
 (2) Der Antrag kann darauf gerichtet sein, dem Beauftragten zusätzlich eine oder mehrere Aufgaben nach § 76 zuzuweisen.
 
-
-## § 78 – Bestellung und Rechtsstellung
+# § 78 – Bestellung und Rechtsstellung
 
 (1) Auf die Bestellung des fakultativen Restrukturierungsbeauftragten findet § 74 Absatz 1 entsprechende Anwendung.
 
@@ -1049,20 +968,17 @@ b) von dem Schuldner zu verlangen, dass eingehende Gelder nur von dem Beauftragt
 
 (3) Auf die Rechtsstellung des fakultativen Restrukturierungsbeauftragten findet § 75 entsprechende Anwendung.
 
-
-## § 79 – Aufgaben
+# § 79 – Aufgaben
 
 Der fakultative Restrukturierungsbeauftragte unterstützt den Schuldner und die Gläubiger bei der Ausarbeitung und Aushandlung des Restrukturierungskonzepts und des auf ihm basierenden Plans.
 
-
-## § 80 – Vergütungsanspruch
+# § 80 – Vergütungsanspruch
 
 Der Restrukturierungsbeauftragte hat nach Maßgabe der nachfolgenden Bestimmungen Anspruch auf Vergütung (Honorar und Auslagen). Vereinbarungen über die Vergütung sind nur dann wirksam, wenn die nachfolgenden Bestimmungen zum zulässigen Inhalt und zum Verfahren beachtet sind.
 
 (+++ § 80: Zur Anwendung vgl. § 98 Abs. 2 +++)
 
-
-## § 81 – Regelvergütung
+# § 81 – Regelvergütung
 
 (1) Der Restrukturierungsbeauftragte erhält, soweit er persönlich tätig wird, ein Honorar auf der Grundlage angemessener Stundensätze.
 
@@ -1080,8 +996,7 @@ Der Restrukturierungsbeauftragte hat nach Maßgabe der nachfolgenden Bestimmunge
 
 (+++ § 81: Zur Anwendung vgl. § 98 Abs. 2 +++)
 
-
-## § 82 – Festsetzung der Vergütung
+# § 82 – Festsetzung der Vergütung
 
 (1) Auf Antrag des Restrukturierungsbeauftragten setzt das Restrukturierungsgericht nach Beendigung des Amtes des Restrukturierungsbeauftragten die Vergütung durch Beschluss fest.
 
@@ -1093,8 +1008,7 @@ Der Restrukturierungsbeauftragte hat nach Maßgabe der nachfolgenden Bestimmunge
 
 (+++ § 82: Zur Anwendung vgl. § 98 Abs. 2 +++)
 
-
-## § 83 – Vergütung in besonderen Fällen
+# § 83 – Vergütung in besonderen Fällen
 
 (1) In besonderen Fällen können Stundensätze als Grundlage für das Honorar festgesetzt werden, welche die Höchstbeträge des § 81 Absatz 3 übersteigen, insbesondere, wenn
 
@@ -1110,13 +1024,11 @@ Im Fall des Satzes 1 Nummer 3 kommt auch eine Vergütung nach anderen Grundsätz
 
 (+++ § 83: Zur Anwendung vgl. § 98 Abs. 2 +++)
 
-
-## §§ 84 bis 88 – (zukünftig in Kraft)
+# §§ 84 bis 88 – (zukünftig in Kraft)
 
 (+++ §§ 84 bis 88: Treten gem. Art. 25 Abs. 3 Nr. 1 G v. 22.12.2020 I 3256 am 17.7.2022 in Kraft +++)
 
-
-## § 89 – Rechtshandlungen, die während der Rechtshängigkeit der Restrukturierungssache vorgenommen werden
+# § 89 – Rechtshandlungen, die während der Rechtshängigkeit der Restrukturierungssache vorgenommen werden
 
 (1) Die Annahme eines sittenwidrigen Beitrags zur Insolvenzverschleppung oder einer Rechtshandlung, die mit dem Vorsatz einer Benachteiligung der Gläubiger vorgenommen wurde, kann nicht allein darauf gestützt werden, dass ein an der Rechtshandlung Beteiligter Kenntnis davon hatte, dass die Restrukturierungssache rechtshängig war oder dass der Schuldner Instrumente des Stabilisierungs- und Restrukturierungsrahmens in Anspruch nahm.
 
@@ -1124,25 +1036,21 @@ Im Fall des Satzes 1 Nummer 3 kommt auch eine Vergütung nach anderen Grundsätz
 
 (3) Hat der Schuldner eine Zahlungsunfähigkeit oder Überschuldung nach § 32 Absatz 3 angezeigt, so gilt bis zur Aufhebung der Restrukturierungssache nach § 33 Absatz 2 Satz 1 Nummer 1 jede Zahlung im ordnungsgemäßen Geschäftsgang, insbesondere Zahlungen, die für die Fortführung der gewöhnlichen Geschäftstätigkeit und die Vorbereitung und Umsetzung des angezeigten Restrukturierungsvorhabens erforderlich sind, als mit der Sorgfalt eines ordentlichen Geschäftsleiters vereinbar. Das gilt nicht für Zahlungen, die bis zu der absehbar zu erwartenden Entscheidung des Restrukturierungsgerichts zurückgehalten werden können, ohne dass damit Nachteile für eine Fortsetzung des Restrukturierungsvorhabens verbunden sind.
 
-
-## § 90 – Planfolgen und Planvollzug
+# § 90 – Planfolgen und Planvollzug
 
 (1) Die Regelungen eines rechtskräftig bestätigten Restrukturierungsplans und Rechtshandlungen, die im Vollzug eines solchen Plans erfolgen, sind mit Ausnahme von Forderungen im Rang des § 39 Absatz 1 Nummer 5 der Insolvenzordnung und Sicherheitsleistungen, die nach § 135 der Insolvenzordnung oder § 6 des Anfechtungsgesetzes anfechtbar sind, bis zur nachhaltigen Restrukturierung einer Anfechtung nur zugänglich, wenn die Bestätigung auf der Grundlage unrichtiger oder unvollständiger Angaben des Schuldners erfolgte und dem anderen Teil dies bekannt war.
 
 (2) Sieht der gestaltende Teil des Restrukturierungsplans die Übertragung des gesamten schuldnerischen Vermögens oder wesentlicher Teile davon vor, gilt Absatz 1 nur, soweit sichergestellt wird, dass die Gläubiger, die nicht planbetroffen sind, sich gegenüber den Planbetroffenen vorrangig aus der dem Wert des Gegenstands der Übertragung angemessenen Gegenleistung befriedigen können.
 
-
-## § 91 – Berechnung von Fristen
+# § 91 – Berechnung von Fristen
 
 In die Fristen der §§ 3 bis 6a des Anfechtungsgesetzes sowie der §§ 88, 130 bis 136 der Insolvenzordnung wird die Zeit der Rechtshängigkeit der Restrukturierungssache nicht eingerechnet.
 
-
-## § 92 – Beteiligungsrechte nach dem Betriebsverfassungsgesetz
+# § 92 – Beteiligungsrechte nach dem Betriebsverfassungsgesetz
 
 Die Verpflichtungen des Schuldners gegenüber den Arbeitnehmervertretungsorganen und deren Beteiligungsrechte nach dem Betriebsverfassungsgesetz bleiben von diesem Gesetz unberührt.
 
-
-## § 93 – Gläubigerbeirat
+# § 93 – Gläubigerbeirat
 
 (1) Sollen in einer Restrukturierungssache mit Ausnahme der in § 4 genannten Forderungen die Forderungen aller Gläubiger durch einen Restrukturierungsplan gestaltet werden, und weist die Restrukturierungssache gesamtverfahrensartige Züge auf, kann das Gericht einen Gläubigerbeirat einsetzen. § 21 Absatz 2 Satz 1 Nummer 1a der Insolvenzordnung gilt entsprechend. In dem Beirat können auch nicht planbetroffene Gläubiger vertreten sein.
 
@@ -1152,8 +1060,7 @@ Die Verpflichtungen des Schuldners gegenüber den Arbeitnehmervertretungsorganen
 
 (4) Die Mitglieder des Gläubigerbeirates haben Anspruch auf Vergütung für ihre Tätigkeit und auf Erstattung angemessener Auslagen. Die Höhe der Vergütung richtet sich nach § 17 der Insolvenzrechtlichen Vergütungsverordnung.
 
-
-## § 94 – Antrag
+# § 94 – Antrag
 
 (1) Auf Antrag eines restrukturierungsfähigen Schuldners bestellt das Gericht eine geeignete, insbesondere geschäftskundige und von den Gläubigern und dem Schuldner unabhängige natürliche Person zum Sanierungsmoderator. Dies gilt nicht, wenn der Schuldner offensichtlich zahlungsunfähig ist. Handelt es sich bei dem Schuldner um eine juristische Person oder eine Person ohne Rechtspersönlichkeit, für deren Verbindlichkeiten keine natürliche Person als unmittelbarer oder mittelbarer Gesellschafter haftet, gilt Satz 2 auch bei einer offensichtlichen Überschuldung.
 
@@ -1167,15 +1074,13 @@ Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögen
 
 (3) Der Antrag ist an das für Restrukturierungssachen zuständige Gericht zu richten.
 
-
-## § 95 – Bestellung
+# § 95 – Bestellung
 
 (1) Die Bestellung des Sanierungsmoderators erfolgt für einen Zeitraum von bis zu drei Monaten. Auf Antrag des Moderators, welcher der Zustimmung des Schuldners und der in die Verhandlungen einbezogenen Gläubiger bedarf, kann der Bestellungszeitraum um bis zu drei weitere Monate verlängert werden. Wird innerhalb dieses Zeitraums die Bestätigung eines Sanierungsvergleichs nach § 97 beantragt, verlängert sich die Bestellung bis zur Entscheidung über die Bestätigung des Vergleichs.
 
 (2) Die Bestellung wird nicht öffentlich bekannt gemacht.
 
-
-## § 96 – Sanierungsmoderation
+# § 96 – Sanierungsmoderation
 
 (1) Der Sanierungsmoderator vermittelt zwischen dem Schuldner und seinen Gläubigern bei der Herbeiführung einer Lösung zur Überwindung der wirtschaftlichen oder finanziellen Schwierigkeiten.
 
@@ -1195,8 +1100,7 @@ Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögen
 
 (5) Der Sanierungsmoderator steht unter der Aufsicht des Restrukturierungsgerichts. Das Restrukturierungsgericht kann den Sanierungsmoderator aus wichtigem Grund aus dem Amt entlassen. Vor der Entscheidung ist der Sanierungsmoderator zu hören.
 
-
-## § 97 – Bestätigung eines Sanierungsvergleichs
+# § 97 – Bestätigung eines Sanierungsvergleichs
 
 (1) Ein Sanierungsvergleich, den der Schuldner mit seinen Gläubigern schließt und an dem sich auch Dritte beteiligen können, kann auf Antrag des Schuldners durch das Restrukturierungsgericht bestätigt werden. Die Bestätigung wird versagt, wenn das dem Vergleich zugrunde liegende Sanierungskonzept
 
@@ -1208,15 +1112,13 @@ Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögen
 
 (3) Ein nach Absatz 1 bestätigter Sanierungsvergleich ist nur unter den Voraussetzungen des § 90 anfechtbar.
 
-
-## § 98 – Vergütung
+# § 98 – Vergütung
 
 (1) Der Sanierungsmoderator hat Anspruch auf eine angemessene Vergütung. Diese bemisst sich nach dem Zeit- und Sachaufwand der mit der Sanierungsmoderation verbundenen Aufgaben.
 
 (2) Die §§ 80 bis 83 finden entsprechende Anwendung.
 
-
-## § 99 – Abberufung
+# § 99 – Abberufung
 
 (1) Der Sanierungsmoderator wird abberufen:
 
@@ -1226,25 +1128,21 @@ Dem Antrag sind ein Verzeichnis der Gläubiger und ein Verzeichnis des Vermögen
 
 (2) Wird der Moderator nach Absatz 1 Nummer 1 abberufen, bestellt das Gericht auf Antrag des Schuldners einen anderen Moderator.
 
-
-## § 100 – Übergang in den Stabilisierungs- und Restrukturierungsrahmen
+# § 100 – Übergang in den Stabilisierungs- und Restrukturierungsrahmen
 
 (1) Nimmt der Schuldner Instrumente des Stabilisierungs- und Restrukturierungsrahmens in Anspruch, bleibt der Sanierungsmoderator im Amt, bis der Bestellungszeitraum abläuft, er nach § 99 abberufen wird oder ein Restrukturierungsbeauftragter bestellt wird.
 
 (2) Das Restrukturierungsgericht kann den Sanierungsmoderator zum Restrukturierungsbeauftragten bestellen.
 
-
-## § 101 – Informationen zu Frühwarnsystemen
+# § 101 – Informationen zu Frühwarnsystemen
 
 Informationen über die Verfügbarkeit der von öffentlichen Stellen bereitgestellten Instrumentarien zur frühzeitigen Identifizierung von Krisen werden vom Bundesministerium der Justiz und für Verbraucherschutz unter seiner Internetadresse www.bmjv.bund.de bereitgestellt.
 
-
-## § 102 – Hinweis- und Warnpflichten
+# § 102 – Hinweis- und Warnpflichten
 
 Bei der Erstellung eines Jahresabschlusses für einen Mandanten haben Steuerberater, Steuerbevollmächtigte, Wirtschaftsprüfer, vereidigte Buchprüfer und Rechtsanwälte den Mandanten auf das Vorliegen eines möglichen Insolvenzgrundes nach den §§ 17 bis 19 der Insolvenzordnung und die sich daran anknüpfenden Pflichten der Geschäftsleiter und Mitglieder der Überwachungsorgane hinzuweisen, wenn entsprechende Anhaltspunkte offenkundig sind und sie annehmen müssen, dass dem Mandanten die mögliche Insolvenzreife nicht bewusst ist.
 
-
-## Anlage – (zu § 5 Satz 2)Notwendige Angaben im Restrukturierungsplan
+# Anlage – (zu § 5 Satz 2)Notwendige Angaben im Restrukturierungsplan
 
 (Fundstelle: BGBl. I 2020, 3280)
 

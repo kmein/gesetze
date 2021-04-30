@@ -1,10 +1,7 @@
-# [BMLErnAnO 1991] Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
-
-Ausfertigungsdatum: 23.08.1991
-
+% Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+% Ausfertigungsdatum: 23.08.1991
  
-
-## ----
+# ----
 
   
   
@@ -31,6 +28,5 @@ für seinen Geschäftsbereich.
   
 II\.
 
-Diese Anordnung tritt am Tage nach Ihrer Veröffentlichung in Kraft.  
-  
+Diese Anordnung tritt am Tage nach Ihrer Veröffentlichung in Kraft.   
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

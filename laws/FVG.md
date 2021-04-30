@@ -1,10 +1,7 @@
-# [FVG] Gesetz über die Finanzverwaltung  (Finanzverwaltungsgesetz - FVG)
-
-Ausfertigungsdatum: 30.08.1971
-
+% Gesetz über die Finanzverwaltung  (Finanzverwaltungsgesetz - FVG)
+% Ausfertigungsdatum: 30.08.1971
  
-
-## § 1 – Bundesfinanzbehörden
+# § 1 – Bundesfinanzbehörden
 
 Bundesfinanzbehörden sind
 
@@ -20,8 +17,7 @@ das Bundeszentralamt für Steuern, das Informationstechnikzentrum Bund und die G
 
 die Hauptzollämter einschließlich ihrer Dienststellen (Zollämter) und die Zollfahndungsämter.
 
-
-## § 2 – Landesfinanzbehörden
+# § 2 – Landesfinanzbehörden
 
 (1) Landesfinanzbehörden sind
 
@@ -43,27 +39,23 @@ die Finanzämter.
 
 (3) Durch Rechtsverordnung der zuständigen Landesregierung können für Kassengeschäfte andere örtliche Landesbehörden zu Landesfinanzbehörden bestimmt werden (besondere Landesfinanzbehörden). Absatz 2 Satz 2 ist anzuwenden.
 
-
-## § 2a – Verzicht auf Mittelbehörden, Aufgabenwahrnehmung durch andere Finanzbehörden
+# § 2a – Verzicht auf Mittelbehörden, Aufgabenwahrnehmung durch andere Finanzbehörden
 
 (1) Durch Rechtsverordnung kann auf Mittelbehörden verzichtet werden. Die Rechtsverordnung erlässt für den Bereich von Aufgaben des Landes die zuständige Landesregierung. Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
 
 (2) Wird auf Mittelbehörden verzichtet, gehen die diesen zugewiesenen Aufgaben der Landesfinanzverwaltung auf die oberste Behörde nach § 2 Abs. 1 Nr. 1 über. Durch Rechtsverordnung der zuständigen Landesregierung können Landesaufgaben nach Satz 1 einer anderen Landesfinanzbehörde übertragen werden. Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
 
-
-## § 2b – (weggefallen)
+# § 2b – (weggefallen)
 
 \-
 
-
-## § 3 – Leitung der Finanzverwaltung
+# § 3 – Leitung der Finanzverwaltung
 
 (1) Das Bundesministerium der Finanzen leitet die Bundesfinanzverwaltung. Soweit die Bundesfinanzbehörden Aufgaben aus dem Geschäftsbereich eines anderen Bundesministeriums zu erledigen haben, erteilt dieses die fachlichen Weisungen. Fachliche Weisungen, die wesentliche organisatorische Auswirkungen haben, ergehen im Benehmen mit dem Bundesministerium der Finanzen.
 
 (2) Die für die Finanzverwaltung zuständige oberste Landesbehörde leitet die Landesfinanzverwaltung. Soweit Landesfinanzbehörden Aufgaben aus dem Geschäftsbereich einer anderen obersten Landesbehörde zu erledigen haben, erteilt diese die fachlichen Weisungen. Fachliche Weisungen, die wesentliche organisatorische Auswirkungen haben, ergehen im Benehmen mit der für die Finanzverwaltung zuständigen obersten Landesbehörde.
 
-
-## § 4 – Sitz und Aufgaben der Bundesoberbehörden
+# § 4 – Sitz und Aufgaben der Bundesoberbehörden
 
 (1) Das Bundesministerium der Finanzen bestimmt den Sitz der Bundesoberbehörden, soweit durch Gesetz nichts anderes bestimmt ist.
 
@@ -71,8 +63,7 @@ die Finanzämter.
 
 (3) Die Bundesoberbehörden erledigen als beauftragte Behörden Aufgaben des Bundes, mit deren Durchführung sie vom Bundesministerium der Finanzen oder mit dessen Zustimmung von dem fachlich zuständigen Bundesministerium beauftragt werden.
 
-
-## § 5 – Aufgaben des Bundeszentralamtes für Steuern
+# § 5 – Aufgaben des Bundeszentralamtes für Steuern
 
 (1) Das Bundeszentralamt für Steuern hat unbeschadet des § 4 Abs. 2 und 3 folgende Aufgaben:
 
@@ -86,17 +77,13 @@ die Finanzämter.
 
 5. die Ausübung der Funktion der zuständigen Behörde auf dem Gebiet der steuerlichen Rechts- und Amtshilfe und bei der Durchführung von Verständigungs- und Schiedsverfahren im Einvernehmen mit der zuständigen obersten Landesfinanzbehörde oder mit der von dieser beauftragten Behörde nach den Doppelbesteuerungsabkommen, dem Übereinkommen Nr. 90/436/EWG über die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung und dem EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz vom 10. Dezember 2019 (BGBl. I S. 2103) in der jeweils geltenden Fassung, soweit das zuständige Bundesministerium seine Befugnisse in diesem Bereich delegiert;
 
-5a.  
-die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
+5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchführung von Bußgeldverfahren in den Fällen des § 379 Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben;
 
-5b.  
-die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im Rahmen der nach § 2 des Gesetzes zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen auszutauschenden Informationen und die Durchführung von Bußgeldverfahren nach § 28 des vorgenannten Gesetzes;
+5b. die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im Rahmen der nach § 2 des Gesetzes zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen auszutauschenden Informationen und die Durchführung von Bußgeldverfahren nach § 28 des vorgenannten Gesetzes;
 
-5c.  
-die Einstellung von Informationen zu grenzüberschreitenden Vorbescheiden oder Vorabverständigungen über die Verrechnungspreisgestaltung gemäß § 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes in das Zentralverzeichnis der Mitgliedstaaten der Europäischen Union gemäß Artikel 21 Absatz 5 der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1) in der jeweils geltenden Fassung sowie die Entgegennahme der von den anderen Mitgliedstaaten der Europäischen Union in das Zentralverzeichnis eingestellten Informationen im Sinne des Artikels 8a der Richtlinie 2011/16/EU und ihre Weiterleitung an die jeweils zuständige Landesfinanzbehörde nach Maßgabe des § 7 Absatz 9 des EU-Amtshilfegesetzes;
+5c. die Einstellung von Informationen zu grenzüberschreitenden Vorbescheiden oder Vorabverständigungen über die Verrechnungspreisgestaltung gemäß § 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes in das Zentralverzeichnis der Mitgliedstaaten der Europäischen Union gemäß Artikel 21 Absatz 5 der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1) in der jeweils geltenden Fassung sowie die Entgegennahme der von den anderen Mitgliedstaaten der Europäischen Union in das Zentralverzeichnis eingestellten Informationen im Sinne des Artikels 8a der Richtlinie 2011/16/EU und ihre Weiterleitung an die jeweils zuständige Landesfinanzbehörde nach Maßgabe des § 7 Absatz 9 des EU-Amtshilfegesetzes;
 
-5d.  
-die automatische Übermittlung der länderbezogenen Berichte, die dem Bundeszentralamt für Steuern hierzu von den Unternehmen nach § 138a Absatz 6 der Abgabenordnung übermittelt worden sind, an
+5d. die automatische Übermittlung der länderbezogenen Berichte, die dem Bundeszentralamt für Steuern hierzu von den Unternehmen nach § 138a Absatz 6 der Abgabenordnung übermittelt worden sind, an
 
 a) die jeweils zuständige Landesfinanzbehörde,
 
@@ -106,8 +93,7 @@ c) die zuständigen Behörden der anderen Mitgliedstaaten gemäß Artikel 8aa de
 
 d) die zuständigen Behörden der Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen über den steuerlichen Informationsaustausch geschlossen hat, nach dem ein automatischer Austausch von Informationen vereinbart werden kann;
 
-5e.  
-die Entgegennahme und Weiterleitung
+5e. die Entgegennahme und Weiterleitung
 
 a) der länderbezogenen Berichte, die dem zentralen Verbindungsbüro von den zuständigen Behörden der anderen Mitgliedstaaten gemäß Artikel 8aa der Richtlinie 2011/16/EU übersandt wurden, an die zuständigen Landesfinanzbehörden,
 
@@ -115,11 +101,9 @@ b) der länderbezogenen Berichte im Sinne des § 138a Absatz 2 der Abgabenordnun
 
 c) der länderbezogenen Berichte im Sinne des § 138a Absatz 2 der Abgabenordnung, die dem zentralen Verbindungsbüro von den zuständigen Behörden der Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen über den steuerlichen Informationsaustausch geschlossen hat, nach dem ein automatischer Austausch von Informationen vereinbart werden kann, übermittelt wurden, an die jeweils zuständige Landesfinanzbehörde;
 
-5f.  
-die automatische Übermittlung von Informationen zu grenzüberschreitenden Steuergestaltungen gemäß § 7 Absatz 13 des EU-Amtshilfegesetzes sowie die Entgegennahme von Informationen im Sinne des Artikels 8ab der Richtlinie 2011/16/EU gemäß § 7 Absatz 14 des EU-Amtshilfegesetzes;
+5f. die automatische Übermittlung von Informationen zu grenzüberschreitenden Steuergestaltungen gemäß § 7 Absatz 13 des EU-Amtshilfegesetzes sowie die Entgegennahme von Informationen im Sinne des Artikels 8ab der Richtlinie 2011/16/EU gemäß § 7 Absatz 14 des EU-Amtshilfegesetzes;
 
-5g.  
-die Auswertung der Informationen nach den Nummern 5c, 5d, 5e und 5f im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e und 5f durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
+5g. die Auswertung der Informationen nach den Nummern 5c, 5d, 5e und 5f im Rahmen der dem Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e und 5f durch die jeweils zuständige Landesfinanzbehörde bleiben hiervon unberührt;
 
 6. die zentrale Sammlung und Auswertung von Unterlagen über steuerliche Auslandsbeziehungen nach näherer Weisung des Bundesministeriums der Finanzen;
 
@@ -187,8 +171,7 @@ Das Bundeszentralamt für Steuern bedient sich zur Durchführung dieser Aufgaben
 
 28. die Unterstützung der Finanzbehörden der Länder bei der Verhütung und Verfolgung von Steuerstraftaten mit länderübergreifender, internationaler oder erheblicher Bedeutung sowie bei Anzeigen nach § 116 Abs. 1 der Abgabenordnung. Das Bundeszentralamt für Steuern hat zur Wahrnehmung dieser Aufgabe alle hierfür erforderlichen Informationen zu sammeln und auszuwerten und die Behörden der Länder über die sie betreffenden Informationen und die in Erfahrung gebrachten Zusammenhänge von Straftaten zu unterrichten;
 
-28a.  
-die Weiterleitung von Mitteilungen nach § 116 Abs. 1 der Abgabenordnung an die zuständigen Finanzbehörden der Zollverwaltung;
+28a. die Weiterleitung von Mitteilungen nach § 116 Abs. 1 der Abgabenordnung an die zuständigen Finanzbehörden der Zollverwaltung;
 
 29. die Durchführung der gesonderten Feststellung und Erteilung der Bescheinigung nach § 27 Abs. 8 des Körperschaftsteuergesetzes;
 
@@ -244,8 +227,7 @@ Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stel
 
 § 5 Abs. 1 Satz 1 Nr. 33 (früher Abs. 1 Nr. 33) Kursivdruck (bezeichnet als "Nr. 31"): Eingef. durch Art. 4 G v. 28.5.2007 I 914 mWv 1.1.2007
 
-
-## § 5a – Aufgaben und Gliederung der Generalzolldirektion
+# § 5a – Aufgaben und Gliederung der Generalzolldirektion
 
 (1) Unbeschadet des § 4 Absatz 2 und 3 leitet die Generalzolldirektion bundesweit die Durchführung der Aufgaben der Zollverwaltung. Sie übt die Dienst- und Fachaufsicht über die Hauptzollämter und Zollfahndungsämter aus. Sie wertet die ihr nach § 138j Absatz 1 Satz 2 der Abgabenordnung vom Bundeszentralamt für Steuern übermittelten Daten über grenzüberschreitende Steuergestaltungen aus, unterrichtet nach § 138j Absatz 2 der Abgabenordnung das Bundesministerium der Finanzen über die Ergebnisse der Auswertung und stellt dem zuständigen Hauptzollamt die zur Durchführung des Besteuerungsverfahrens und des Bußgeldverfahrens erforderlichen Informationen zur Verfügung. Außerdem nimmt die Generalzolldirektion die ihr sonst übertragenen Aufgaben wahr.
 
@@ -255,13 +237,11 @@ Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der zentralen Stel
 
 (4) (weggefallen)
 
-
-## § 5b – Übertragung von Bauaufgaben
+# § 5b – Übertragung von Bauaufgaben
 
 Durch Verwaltungsvereinbarung mit dem jeweiligen Land kann der Bund die Leitung und Erledigung seiner Bauaufgaben im Wege der Organleihe Landesbehörden sowie Landesbetrieben, Sondervermögen des Landes und landesunmittelbaren juristischen Personen des öffentlichen Rechts übertragen. Die Verwaltungsvereinbarung muss vorsehen, dass die Landesbehörden die Anordnungen des fachlich zuständigen Bundesministeriums zu befolgen haben.
 
-
-## § 6 – Sitz und Aufgaben der Landesoberbehörde
+# § 6 – Sitz und Aufgaben der Landesoberbehörde
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde bestimmt den Sitz der Landesoberbehörde, soweit durch Gesetz nichts anderes bestimmt ist.
 
@@ -269,16 +249,13 @@ Durch Verwaltungsvereinbarung mit dem jeweiligen Land kann der Bund die Leitung 
 
 (3) Für die Ernennung und Entlassung des Leiters einer Oberbehörde, die nach § 2 Abs. 1 Nr. 3 anstelle einer Oberfinanzdirektion tritt, gilt § 9a Satz 3 entsprechend.
 
-
-## § 7 – Bezirk und Sitz
+# § 7 – Bezirk und Sitz
 
 Die obersten Landesbehörden bestimmen den Bezirk und Sitz der Mittelbehörde, die ihnen jeweils untersteht.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 8a – Aufgaben und Gliederung
+# § 8a – Aufgaben und Gliederung
 
 (1) Die Mittelbehörden leiten die Finanzverwaltung des jeweiligen Landes in ihrem Bezirk. Einer Mittelbehörde kann auch die Leitung der Finanzverwaltung eines Landes für mehrere Oberfinanzbezirke übertragen werden. Die Mittelbehörden können weitere Aufgaben erledigen.
 
@@ -288,29 +265,23 @@ Die obersten Landesbehörden bestimmen den Bezirk und Sitz der Mittelbehörde, d
 
 (4) Die Besitz- und Verkehrsteuerabteilung leitet die Durchführung der Aufgaben, für deren Erledigung die Finanzämter zuständig sind. Außerdem erledigt sie die ihr sonst übertragenen Aufgaben.
 
+# § 9 – (weggefallen)
 
-## § 9 – (weggefallen)
-
-
-## § 9a – Leitung
+# § 9a – Leitung
 
 Der Präsident oder die Präsidentin leitet die jeweilige Mittelbehörde. Ihm oder ihr kann auch die Leitung einer Abteilung übertragen werden. Er oder sie wird auf Vorschlag der für die Finanzverwaltung zuständigen obersten Landesbehörde im Einvernehmen mit der Bundesregierung durch die zuständige Stelle des Landes ernannt und entlassen.
 
+# § 10 – (weggefallen)
 
-## § 10 – (weggefallen)
-
-
-## § 10a – Landeskassen
+# § 10a – Landeskassen
 
 Werden oder sind bei einer Mittelbehörde eine oder mehrere Landeskassen errichtet, so kann eine Landeskasse Kassengeschäfte für mehrere Bezirke oder für Teile davon wahrnehmen. Die Landeskassen können unmittelbar dem zuständigen Präsidenten oder der zuständigen Präsidentin unterstellt werden.
 
-
-## § 11 – (weggefallen)
+# § 11 – (weggefallen)
 
 \-
 
-
-## § 12 – Bezirk und Sitz der Hauptzollämter und Zollfahndungsämter sowie Aufgaben der Hauptzollämter
+# § 12 – Bezirk und Sitz der Hauptzollämter und Zollfahndungsämter sowie Aufgaben der Hauptzollämter
 
 (1) Die Generalzolldirektion bestimmt den Bezirk und den Sitz der Hauptzollämter und der Zollfahndungsämter.
 
@@ -320,50 +291,41 @@ Werden oder sind bei einer Mittelbehörde eine oder mehrere Landeskassen erricht
 
 (4) (weggefallen)
 
-
-## § 12a – (weggefallen)
-
-\-
-
-
-## § 12b – (weggefallen)
+# § 12a – (weggefallen)
 
 \-
 
-
-## § 12c – (weggefallen)
-
-\-
-
-
-## § 12d – (weggefallen)
+# § 12b – (weggefallen)
 
 \-
 
+# § 12c – (weggefallen)
 
-## § 13 – Beistandspflicht der Ortsbehörden
+\-
+
+# § 12d – (weggefallen)
+
+\-
+
+# § 13 – Beistandspflicht der Ortsbehörden
 
 (1) Die Gemeindebehörden, die Ortspolizeibehörden und die sonstigen Ortsbehörden haben den Hauptzollämtern auch neben der in § 111 der Abgabenordnung vorgesehenen Beistandspflicht Hilfe zu leisten, soweit dies wegen ihrer Kenntnis der örtlichen Verhältnisse oder zur Ersparung von Kosten oder Zeit zweckmäßig ist.
 
 (2) Für Hilfeleistungen nach Absatz 1 werden Entschädigungen nicht gewährt.
 
-
-## § 14 – (weggefallen)
-
-\-
-
-
-## § 15 – (weggefallen)
+# § 14 – (weggefallen)
 
 \-
 
-
-## § 16 – (weggefallen)
+# § 15 – (weggefallen)
 
 \-
 
+# § 16 – (weggefallen)
 
-## § 17 – Bezirk, Sitz und Aufgaben der Finanzämter
+\-
+
+# § 17 – Bezirk, Sitz und Aufgaben der Finanzämter
 
 (1) Die für die Finanzverwaltung zuständige oberste Landesbehörde bestimmt den Bezirk und den Sitz der Finanzämter.
 
@@ -383,16 +345,13 @@ Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die für d
 
 (5) Das Bundesministerium der Finanzen kann zur Effizienzsteigerung im Verwaltungsvollzug auf Antrag von und im Einvernehmen mit allen unmittelbar betroffenen Ländern durch Rechtsverordnung mit Zustimmung des Bundesrates jeweils Zuständigkeiten nach Absatz 2 Satz 1 eines Landes oder mehrerer Länder auf ein Finanzamt, ein nach § 2 Absatz 2 eingerichtetes Rechenzentrum der Landesfinanzverwaltung oder eine besondere Landesfinanzbehörde (§ 2 Absatz 3) eines anderen Landes übertragen. Absatz 4 bleibt unberührt. Durch die Rechtsverordnung nach Satz 1 kann zugleich die Kostentragung geregelt werden.
 
-
-## § 18 – Verwaltung der Umsatzsteuer
+# § 18 – Verwaltung der Umsatzsteuer
 
 Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzsteuer nach Maßgabe der für diese Steuer geltenden Vorschriften mit. Sie handeln hierbei für die Finanzbehörde, die für die Besteuerung örtlich zuständig ist.
 
+# § 18a – (weggefallen)
 
-## § 18a – (weggefallen)
-
-
-## § 19 – Mitwirkung des Bundeszentralamtes für Steuern an Außenprüfungen
+# § 19 – Mitwirkung des Bundeszentralamtes für Steuern an Außenprüfungen
 
 (1) Das Bundeszentralamt für Steuern ist zur Mitwirkung an Außenprüfungen berechtigt, die durch Landesfinanzbehörden durchgeführt werden. Es kann verlangen, dass bestimmte von ihm namhaft gemachte Betriebe zu einem bestimmten Zeitpunkt geprüft werden.
 
@@ -404,8 +363,7 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 (5) Das Bundeszentralamt für Steuern kann verlangen, dass bestimmte von ihm namhaft gemachte Steuerpflichtige, die nach § 193 der Abgabenordnung oder § 5 des Investmentsteuergesetzes der Außenprüfung unterliegen, geprüft werden und Regelungen zur Durchführung und zu Inhalten der Außenprüfung dieser Steuerpflichtigen festlegen. Es wirkt in diesen Fällen an der jeweiligen Außenprüfung mit. Dies gilt insbesondere in Fällen, in denen die Gleichmäßigkeit der Rechtsanwendung in mehreren Betrieben sicherzustellen ist, sowie in den Fällen des Absatzes 3 Satz 2.
 
-
-## § 20 – Einsatz von automatischen Einrichtungen
+# § 20 – Einsatz von automatischen Einrichtungen
 
 (1) Die für die Finanzverwaltung zuständigen obersten Landesbehörden bestimmen Art, Umfang und Organisation des Einsatzes der automatischen Einrichtungen für die Festsetzung und Erhebung von Steuern, die von den Landesfinanzbehörden verwaltet werden; zur Gewährleistung gleicher Programmergebnisse und eines ausgewogenen Leistungsstandes ist Einvernehmen mit dem Bundesministerium der Finanzen herbeizuführen.
 
@@ -415,8 +373,7 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 (4) Das Bundesministerium der Finanzen erstattet dem Haushalts- und dem Finanzausschuss des Deutschen Bundestages jährlich zum 1. März Bericht über den aktuellen Stand und die Fortschritte des Zusammenwirkens von Bund und Ländern nach Absatz 2.
 
-
-## § 20a – Druckdienstleistungen für Bundesfinanzbehörden
+# § 20a – Druckdienstleistungen für Bundesfinanzbehörden
 
 (1) Das Bundesministerium der Finanzen darf sich zum Drucken und Kuvertieren von schriftlichen Verwaltungsakten im Sinne des § 118 der Abgabenordnung und sonstigen Schreiben im Verwaltungsverfahren nach der Abgabenordnung der Bundesfinanzbehörden und zu deren anschließenden verschlossenen Übergabe an einen Postdienstleister (Druckdienstleistung) nur dann einer nicht öffentlichen Stelle als Auftragsverarbeiter im Sinne des Artikels 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung im Rahmen eines Vertrages bedienen, wenn
 
@@ -436,8 +393,7 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 (2) Absatz 1 gilt entsprechend, wenn der Auftragsverarbeiter sich eines weiteren Auftragsverarbeiters bedienen will.
 
-
-## § 21 – Auskunfts- und Teilnahmerechte
+# § 21 – Auskunfts- und Teilnahmerechte
 
 (1) Soweit die den Ländern zustehenden Steuern von Bundesfinanzbehörden verwaltet werden, haben die für die Finanzverwaltung zuständigen obersten Landesbehörden das Recht, sich über die für diese Steuern erheblichen Vorgänge bei den zuständigen Bundesfinanzbehörden zu unterrichten. Zu diesem Zweck steht ihnen das Recht auf Akteneinsicht und auf mündliche und schriftliche Auskunft zu.
 
@@ -453,8 +409,7 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 (7) Zur Durchführung der Verpflichtungen des Bundeszentralamtes für Steuern nach § 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes stellen die zuständigen Landesfinanzbehörden dem Bundeszentralamt für Steuern die erforderlichen Informationen nach Maßgabe der in § 7 Absatz 7 Satz 2 des EU-Amtshilfegesetzes angeführten praktischen Regelungen der Europäischen Kommission zur Verfügung. Hierzu nutzen die Landesfinanzbehörden das Zentralverzeichnis der Mitgliedstaaten der Europäischen Kommission gemäß Artikel 21 Absatz 5 der Richtlinie 2011/16/EU ab dem Zeitpunkt seiner Bereitstellung.
 
-
-## § 21a – Allgemeine Verfahrensgrundsätze
+# § 21a – Allgemeine Verfahrensgrundsätze
 
 (1) Zur Verbesserung und Erleichterung des Vollzugs von Steuergesetzen und im Interesse des Zieles der Gleichmäßigkeit der Besteuerung bestimmt das Bundesministerium der Finanzen mit Zustimmung der obersten Finanzbehörden der Länder einheitliche Verwaltungsgrundsätze, Regelungen zur Zusammenarbeit des Bundes mit den Ländern und erteilt allgemeine fachliche Weisungen. Die Zustimmung gilt als erteilt, wenn nicht mindestens elf Länder widersprechen. Initiativen zur Festlegung der Angelegenheiten des Satzes 1 kann das Bundesministerium der Finanzen allein oder auf gemeinsame Veranlassung von mindestens vier Ländern ergreifen. Die Vertraulichkeit der Sitzungen ist zu wahren, wenn nicht im Einzelfall einstimmig etwas anderes beschlossen wurde. Für Beratungen im schriftlichen Verfahren gilt Entsprechendes.
 
@@ -466,8 +421,7 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 (5) Die Finanzbehörden der Länder wirken bei der Auswertung von Mitteilungen über grenzüberschreitende Steuergestaltungen nach § 138j Absatz 1 Satz 1 der Abgabenordnung durch das Bundeszentralamt für Steuern mit, soweit Steuern betroffen sind, die von den Ländern oder Gemeinden verwaltet werden.
 
-
-## § 22 – Dienstrechtliche Folgen und Regelung der Versorgungslasten
+# § 22 – Dienstrechtliche Folgen und Regelung der Versorgungslasten
 
 (1) Für die am 31. Dezember 2007 vorhandenen Oberfinanzpräsidenten und Oberfinanzpräsidentinnen der Oberfinanzdirektionen Chemnitz, Hannover, Karlsruhe und Koblenz endet das Beamtenverhältnis zur Bundesrepublik Deutschland mit Ablauf dieses Tages. § 107b des Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 150) gilt entsprechend mit der Maßgabe, dass der in § 107b Abs. 1 Satz 1 des Beamtenversorgungsgesetzes genannte Dienstherrenwechsel sowie der dort genannte Zeitraum von mindestens fünf Jahren unberücksichtigt bleiben und dass abgeleistete ruhegehaltfähige Dienstzeiten, in denen die Oberfinanzpräsidenten oder Oberfinanzpräsidentinnen sowohl beim Bund als auch beim Land beamtet waren, vom Bund und vom Land je zur Hälfte getragen werden. Für die Zeit ab 1. Januar 2008 trägt das jeweilige Bundesland, dem die genannte Oberfinanzdirektion untersteht, die vollen Versorgungslasten.
 
@@ -479,18 +433,15 @@ Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung der Umsatzs
 
 gilt Absatz 1 Satz 2 entsprechend.
 
-
-## § 23 – ÜbergangsregelungKosten der Oberfinanzdirektion
+# § 23 – ÜbergangsregelungKosten der Oberfinanzdirektion
 
 Die Kosten der Oberfinanzdirektion werden vom Bund getragen, soweit sie auf den Bund entfallen.
 
-
-## § 24 – Überleitung der Beschäftigten der Bundesfinanzdirektionen, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung
+# § 24 – Überleitung der Beschäftigten der Bundesfinanzdirektionen, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung
 
 Auf Grund der mit Inkrafttreten des Gesetzes zur Neuorganisation der Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178) vollzogenen Überführung der Bundesfinanzdirektionen Nord, Mitte, West, Südwest und Südost, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung in die Generalzolldirektion sind die Beamtinnen und Beamten sowie die Arbeitnehmerinnen und Arbeitnehmer, die bei diesen Bundesfinanzdirektionen, dem Zollkriminalamt oder dem Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung am 31. Dezember 2015 beschäftigt waren, ab dem 1. Januar 2016 Beschäftigte der Generalzolldirektion. Satz 1 gilt für die Auszubildenden bei den zuvor genannten Behörden entsprechend.
 
-
-## § 25 – Übergangsregelung Personalvertretung, Jugend- und Auszubildendenvertretung
+# § 25 – Übergangsregelung Personalvertretung, Jugend- und Auszubildendenvertretung
 
 (1) Die erstmaligen Wahlen zu den Personalvertretungen finden bei der Generalzolldirektion spätestens bis zum 31. Mai 2016 statt. Bis zu diesen Wahlen werden die Personalratsaufgaben des örtlichen Personalrats und des Bezirkspersonalrats übergangsweise vom Hauptpersonalrat beim Bundesministerium der Finanzen wahrgenommen.
 
@@ -498,15 +449,13 @@ Auf Grund der mit Inkrafttreten des Gesetzes zur Neuorganisation der Zollverwalt
 
 (3) Für die Jugend- und Auszubildendenvertretungen bei der Generalzolldirektion gelten die Absätze 1 und 2 entsprechend. Bis zu den erstmaligen Wahlen werden die Aufgaben der örtlichen Jugend- und Auszubildendenvertretung und der Bezirksjugend- und Auszubildendenvertretung übergangsweise von der Hauptjugend- und Auszubildendenvertretung beim Bundesministerium der Finanzen wahrgenommen.
 
-
-## § 26 – Übergangsregelung Schwerbehindertenvertretung
+# § 26 – Übergangsregelung Schwerbehindertenvertretung
 
 (1) Die erstmaligen Wahlen zur örtlichen Schwerbehindertenvertretung nach dem Neunten Buch Sozialgesetzbuch finden in der Generalzolldirektion spätestens bis zum 30. Juni 2016 statt. Bis die Schwerbehindertenvertretung ihre Tätigkeit aufnimmt, werden deren Aufgaben übergangsweise von der Hauptschwerbehindertenvertretung im Geschäftsbereich des Bundesministeriums der Finanzen wahrgenommen. Die Hauptvertrauensperson der schwerbehinderten Menschen in der Bundesfinanzverwaltung bestellt unter Beachtung der gesetzlichen Bestimmungen unverzüglich den Wahlvorstand für die erstmaligen Wahlen nach Satz 1.
 
 (2) Die erstmalige Wahl zur Bezirksschwerbehindertenvertretung nach dem Neunten Buch Sozialgesetzbuch findet in der Generalzolldirektion zeitnah nach den Wahlen zur örtlichen Schwerbehindertenvertretung, spätestens bis zum 30. September 2016 statt. Bis die Bezirksschwerbehindertenvertretung ihre Tätigkeit aufnimmt, werden deren Aufgaben übergangsweise von der Hauptschwerbehindertenvertretung im Geschäftsbereich des Bundesministeriums der Finanzen wahrgenommen. Die Hauptvertrauensperson der schwerbehinderten Menschen in der Bundesfinanzverwaltung bestellt unverzüglich den Wahlvorstand für die erstmalige Wahl nach Satz 1.
 
-
-## § 27 – Übergangsregelung Gleichstellungsbeauftragte
+# § 27 – Übergangsregelung Gleichstellungsbeauftragte
 
 (1) Die erstmalige Wahl der Gleichstellungsbeauftragten der Generalzolldirektion sowie der Stellvertreterinnen findet spätestens bis zum 31. März 2016 statt.
 

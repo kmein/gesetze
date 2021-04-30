@@ -1,15 +1,11 @@
-# [UVOGrV] Verordnung über Obergrenzen für Beförderungsämter bei den bundesunmittelbaren gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau  (Unfallversicherungsobergrenzenverordnung - UVOGrV)
-
-Ausfertigungsdatum: 25.11.2016
-
+% Verordnung über Obergrenzen für Beförderungsämter bei den bundesunmittelbaren gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau  (Unfallversicherungsobergrenzenverordnung - UVOGrV)
+% Ausfertigungsdatum: 25.11.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels VIII § 1 Absatz 6 Satz 1 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern, der zuletzt durch Artikel 31 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen:
 
-
-## § 1 – Stellenobergrenzen
+# § 1 – Stellenobergrenzen
 
 (1) Die Anteile der Beförderungsämter bei den bundesunmittelbaren gewerblichen Berufsgenossenschaften und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau dürfen nach Maßgabe sachgerechter Bewertung die in § 17 Absatz 1 der Bundeshaushaltsordnung festgelegten Obergrenzen nicht überschreiten.
 
@@ -23,12 +19,10 @@ Auf Grund des Artikels VIII § 1 Absatz 6 Satz 1 des Zweiten Gesetzes zur Verein
 
 3. die Planstellen der leitenden technischen Aufsichtspersonen.
 
-
-## § 2 – Inkrafttreten, Außerkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Unfallversicherungsobergrenzenverordnung vom 12. Oktober 2004 (BGBl. I S. 2617), die zuletzt durch Artikel 15 des Gesetzes vom 19. Oktober 2013 (BGBl. I S. 3836) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

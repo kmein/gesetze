@@ -1,15 +1,11 @@
-# [WiPrüfVO] Verordnung zur Geschäftsführung der Prüfungsstellen und der Beschwerdeausschüsse nach § 106c des Fünften Buches Sozialgesetzbuch  (Wirtschaftlichkeitsprüfungs-Verordnung - WiPrüfVO)
-
-Ausfertigungsdatum: 05.01.2004
-
+% Verordnung zur Geschäftsführung der Prüfungsstellen und der Beschwerdeausschüsse nach § 106c des Fünften Buches Sozialgesetzbuch  (Wirtschaftlichkeitsprüfungs-Verordnung - WiPrüfVO)
+% Ausfertigungsdatum: 05.01.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), der durch Artikel 1 Nr. 82 Buchstabe h des Gesetzes vom 14. November 2003 (BGBl. I S. 2190) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit und Soziale Sicherung:
 
-
-## § 1 – Prüfungsstelle und Beschwerdeausschuss
+# § 1 – Prüfungsstelle und Beschwerdeausschuss
 
 (1) Die Prüfungsstelle nach Absatz 4 und der Beschwerdeausschuss sind jeweils als organisatorisch selbständige Einheiten einzurichten. Der Beschwerdeausschuss besteht aus einem unparteiischen Vorsitzenden und höchstens jeweils vier, mindestens jeweils zwei Vertretern der Kassenärztlichen Vereinigung und der Krankenkassen. Mitarbeiter der Landesverbände der Krankenkassen und der Ersatzkassen können als Vertreter der Krankenkassen in den Ausschuss entsandt werden. Für den Vorsitzenden sowie die Vertreter der Kassenärztlichen Vereinigung und der Krankenkassen sind entsprechend dem Bedarf Stellvertreter in ausreichender Anzahl zu bestellen. Die Mitglieder des Ausschusses sind gegenüber den sie entsendenden Organisationen fachlich nicht weisungsgebunden.
 
@@ -21,8 +17,7 @@ Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch - Geset
 
 (5) Die Prüfungsstelle beschließt in erforderlichen Fällen eine Beratung der Ärzte über Fragen der Wirtschaftlichkeit und Qualität der Versorgung. Qualifizierte Berater können an der Durchführung der Beratung beteiligt werden.
 
-
-## § 2 – Aufgaben und Entschädigung des Vorsitzenden
+# § 2 – Aufgaben und Entschädigung des Vorsitzenden
 
 (1) Der Vorsitzende ist für die Durchführung der Aufgaben des Ausschusses verantwortlich. Er führt die laufenden Geschäfte des Ausschusses und bedient sich hierzu der Prüfungsstelle. Insbesondere hat er
 
@@ -42,8 +37,7 @@ Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch - Geset
 
 (4) Soweit der Vorsitzende den Ausschuss vor Gericht vertritt, kann er hierfür mit den in Absatz 3 Satz 3 genannten Vertragspartnern eine gesonderte Vergütung vereinbaren.
 
-
-## § 3 – Pflichten der Mitglieder, Abberufung, Datenschutz
+# § 3 – Pflichten der Mitglieder, Abberufung, Datenschutz
 
 (1) Die Mitglieder des Ausschusses sind verpflichtet, an den Sitzungen teilzunehmen; bei Verhinderung haben sie die Prüfungsstelle und ihren Stellvertreter zu benachrichtigen. Satz 1 gilt entsprechend für die Stellvertreter.
 
@@ -51,8 +45,7 @@ Auf Grund des § 106 Abs. 4a Satz 9 des Fünften Buches Sozialgesetzbuch - Geset
 
 (3) Die Mitglieder des Ausschusses und ihre Stellvertreter dürfen personenbezogene Daten, die ihnen bei der Ausübung ihrer Tätigkeit im Ausschuss zur Kenntnis gelangen, nicht unbefugt offenbaren.
 
-
-## § 4 – Aufgaben und Personal der Prüfungsstelle
+# § 4 – Aufgaben und Personal der Prüfungsstelle
 
 (1) Die Prüfungsstelle hat neben ihren sich aus dem Fünften Buch Sozialgesetzbuch ergebenden Aufgaben insbesondere
 
@@ -80,19 +73,16 @@ Die Vorlagen nach Satz 1 Nr. 1 können entweder in Papierform oder im Wege der e
 
 (4) Die Prüfungsstelle und der Beschwerdeausschuss legen gemeinsam den in § 2 Abs. 3 Satz 3 genannten Vertragspartnern einmal jährlich - spätestens zum 30. September eines Jahres - eine Einnahmen- und Ausgabenübersicht für das kommende Geschäftsjahr und spätestens zwei Monate nach Ablauf eines Geschäftsjahres einen Rechenschaftsbericht über die verauslagten Kosten des abgelaufenen Geschäftsjahres vor. Das Geschäftsjahr ist das Kalenderjahr. Für die Planung und Ausführung von Einnahmen und Ausgaben gelten die Grundsätze der Wirtschaftlichkeit und Sparsamkeit.
 
-
-## § 5 – Kostentragung
+# § 5 – Kostentragung
 
 (1) Die mit der Tätigkeit des Vorsitzenden des Beschwerdeausschusses und seiner Stellvertreter verbundenen Kosten nach § 2 sowie die Kosten der Prüfungsstelle tragen die Kassenärztlichen Vereinigungen und die beteiligten Krankenkassen je zur Hälfte. Dies gilt auch für die Kosten aus Rechtsbehelfs- oder Rechtsmittelverfahren, der Beauftragung Dritter sowie Prüfungen nach § 274 des Fünften Buches Sozialgesetzbuch.
 
 (2) Die Kassenärztliche Vereinigung und die Krankenkassen oder die Verbände der Krankenkassen tragen die Kosten für die von ihnen entsandten Vertreter selbst.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

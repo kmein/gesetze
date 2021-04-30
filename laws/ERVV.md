@@ -1,10 +1,7 @@
-# [ERVV] Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach   (Elektronischer-Rechtsverkehr-Verordnung - ERVV)
-
-Ausfertigungsdatum: 24.11.2017
-
+% Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach   (Elektronischer-Rechtsverkehr-Verordnung - ERVV)
+% Ausfertigungsdatum: 24.11.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -36,15 +33,13 @@ des § 89 Absatz 4 der Schiffsregisterordnung, der durch Artikel 4 Absatz 5 Numm
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Übermittlung elektronischer Dokumente an die Gerichte der Länder und des Bundes sowie die Bearbeitung elektronischer Dokumente durch diese Gerichte nach § 130a der Zivilprozessordnung, § 46c des Arbeitsgerichtsgesetzes, § 65a des Sozialgerichtsgesetzes, § 55a der Verwaltungsgerichtsordnung und § 52a der Finanzgerichtsordnung. Sie gilt ferner nach Maßgabe des Kapitels 4 für die Übermittlung elektronischer Dokumente an Strafverfolgungsbehörden und Strafgerichte der Länder und des Bundes nach § 32a der Strafprozessordnung sowie die Bearbeitung elektronischer Dokumente.
 
 (2) Besondere bundesrechtliche Vorschriften über die Übermittlung elektronischer Dokumente und strukturierter maschinenlesbarer Datensätze bleiben unberührt.
 
-
-## § 2 – Anforderungen an elektronische Dokumente
+# § 2 – Anforderungen an elektronische Dokumente
 
 (1) Das elektronische Dokument ist in druckbarer, kopierbarer und, soweit technisch möglich, durchsuchbarer Form im Dateiformat PDF zu übermitteln. Wenn bildliche Darstellungen im Dateiformat PDF nicht verlustfrei wiedergegeben werden können, darf das elektronische Dokument zusätzlich im Dateiformat TIFF übermittelt werden. Die Dateiformate PDF und TIFF müssen den nach § 5 Absatz 1 Nummer 1 bekanntgemachten Versionen entsprechen.
 
@@ -62,13 +57,11 @@ verordnet die Bundesregierung:
 
 5. sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle.
 
-
-## § 3 – Überschreitung der Höchstgrenzen
+# § 3 – Überschreitung der Höchstgrenzen
 
 Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten Höchstgrenzen für die Anzahl oder das Volumen elektronischer Dokumente nicht eingehalten werden können, kann die Übermittlung als Schriftsatz nach den allgemeinen Vorschriften erfolgen, möglichst unter Beifügung des Schriftsatzes und der Anlagen als elektronische Dokumente auf einem nach § 5 Absatz 1 Nummer 4 bekanntgemachten zulässigen physischen Datenträger.
 
-
-## § 4 – Übermittlung elektronischer Dokumente mit qualifizierter elektronischer Signatur
+# § 4 – Übermittlung elektronischer Dokumente mit qualifizierter elektronischer Signatur
 
 (1) Ein elektronisches Dokument, das mit einer qualifizierten elektronischen Signatur der verantwortenden Person versehen ist, darf wie folgt übermittelt werden:
 
@@ -78,8 +71,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (2) Mehrere elektronische Dokumente dürfen nicht mit einer gemeinsamen qualifizierten elektronischen Signatur übermittelt werden.
 
-
-## § 5 – Bekanntmachung technischer Anforderungen
+# § 5 – Bekanntmachung technischer Anforderungen
 
 (1) Die Bundesregierung macht folgende technische Anforderungen an die Übermittlung und Bearbeitung elektronischer Dokumente im Bundesanzeiger und auf der Internetseite www.justiz.de bekannt:
 
@@ -95,8 +87,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (2) Die technischen Anforderungen müssen den aktuellen Stand der Technik und die Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843), die zuletzt durch Artikel 4 der Verordnung vom 25. November 2016 (BGBl. I S. 2659) geändert worden ist, in der jeweils geltenden Fassung, berücksichtigen und mit einer Mindestgültigkeitsdauer bekanntgemacht werden. Die technischen Anforderungen können mit einem Ablaufdatum nach der Mindestgültigkeitsdauer versehen werden, ab dem sie voraussichtlich durch neue bekanntgegebene Anforderungen abgelöst sein müssen.
 
-
-## § 6 – Besonderes elektronisches Behördenpostfach; Anforderungen
+# § 6 – Besonderes elektronisches Behördenpostfach; Anforderungen
 
 (1) Die Behörden sowie juristischen Personen des öffentlichen Rechts (Postfachinhaber) können zur Übermittlung elektronischer Dokumente auf einem sicheren Übermittlungsweg ein besonderes elektronisches Behördenpostfach verwenden,
 
@@ -116,8 +107,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 3. barrierefrei sein im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843), die zuletzt durch Artikel 4 der Verordnung vom 25. November 2016 (BGBl. I S. 2659) geändert worden ist, in der jeweils geltenden Fassung.
 
-
-## § 7 – Identifizierungsverfahren
+# § 7 – Identifizierungsverfahren
 
 (1) Die von den obersten Behörden des Bundes oder den Landesregierungen für ihren Bereich bestimmten öffentlich-rechtlichen Stellen prüfen die Identität der Behörden oder juristischen Personen des öffentlichen Rechts und bestätigen dies in einem sicheren elektronischen Verzeichnis. Die obersten Behörden des Bundes oder mehrere Landesregierungen können auch eine öffentlich-rechtliche Stelle gemeinsam für ihre Bereiche bestimmen.
 
@@ -127,8 +117,7 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 2. Name und Sitz des Postfachinhabers zutreffend bezeichnet sind.
 
-
-## § 8 – Zugang und Zugangsberechtigung; Verwaltung
+# § 8 – Zugang und Zugangsberechtigung; Verwaltung
 
 (1) Der Postfachinhaber bestimmt die natürlichen Personen, die Zugang zum besonderen elektronischen Behördenpostfach erhalten sollen, und stellt ihnen das Zertifikat und das Zertifikats-Passwort zur Verfügung.
 
@@ -140,15 +129,13 @@ Wird glaubhaft gemacht, dass die nach § 5 Absatz 1 Nummer 3 bekanntgemachten H�
 
 (5) Unbeschadet der Absätze 1, 3 und 4 kann die Verwaltung des besonderen elektronischen Behördenpostfachs behördenübergreifend automatisiert und an zentraler Stelle erfolgen.
 
-
-## § 9 – Änderung und Löschung
+# § 9 – Änderung und Löschung
 
 (1) Der Postfachinhaber hat Änderungen seines Namens oder Sitzes unverzüglich der nach § 7 Absatz 1 bestimmten Stelle anzuzeigen.
 
 (2) Der Postfachinhaber kann jederzeit die Löschung seines besonderen elektronischen Behördenpostfachs veranlassen. Er hat die Löschung seines besonderen elektronischen Behördenpostfachs zu veranlassen, wenn seine Berechtigung zur Nutzung des besonderen elektronischen Behördenpostfachs endet.
 
-
-## § 10 – Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente
+# § 10 – Schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente
 
 Die Kapitel 2 und 3 gelten im Bereich des elektronischen Rechtsverkehrs mit Strafverfolgungsbehörden und Strafgerichten für schriftlich abzufassende, zu unterschreibende oder zu unterzeichnende Dokumente, die gemäß § 32a Absatz 3 der Strafprozessordnung elektronisch eingereicht werden, mit der Maßgabe, dass der Datensatz nach § 2 Absatz 3 mindestens folgende Angaben enthält:
 
@@ -162,15 +149,13 @@ Die Kapitel 2 und 3 gelten im Bereich des elektronischen Rechtsverkehrs mit Stra
 
 5. sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle.
 
-
-## § 11 – Sonstige verfahrensbezogene elektronische Dokumente
+# § 11 – Sonstige verfahrensbezogene elektronische Dokumente
 
 (1) Sonstige verfahrensbezogene elektronische Dokumente, die an Strafverfolgungsbehörden oder Strafgerichte übermittelt werden, sollen den Anforderungen des § 2 entsprechen. Entsprechen sie diesen Anforderungen nicht und sind sie zur Bearbeitung durch die Behörde oder das Gericht aufgrund der dortigen technischen Ausstattung oder der dort einzuhaltenden Sicherheitsstandards nicht geeignet, so liegt ein wirksamer Eingang nicht vor. In der Mitteilung nach § 32a Absatz 6 Satz 1 der Strafprozessordnung ist auf die in § 2 geregelten technischen Rahmenbedingungen hinzuweisen.
 
 (2) Die Übermittlung kann auch auf anderen als den in § 32a Absatz 4 der Strafprozessordnung genannten Übermittlungswegen erfolgen, wenn ein solcher Übermittlungsweg für die Entgegennahme verfahrensbezogener elektronischer Dokumente generell und ausdrücklich eröffnet ist.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
@@ -186,7 +171,6 @@ Die Kapitel 2 und 3 gelten im Bereich des elektronischen Rechtsverkehrs mit Stra
 
 (3) § 2 Absatz 1 Satz 4 dieser Verordnung tritt mit Ablauf des 30. Juni 2019 außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

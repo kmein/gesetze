@@ -1,30 +1,23 @@
-# [SUrlV] Verordnung über den Sonderurlaub für Bundesbeamtinnen und Bundesbeamte sowie für Richterinnen und Richter des Bundes  (Sonderurlaubsverordnung - SUrlV)
-
-Ausfertigungsdatum: 01.06.2016
-
+% Verordnung über den Sonderurlaub für Bundesbeamtinnen und Bundesbeamte sowie für Richterinnen und Richter des Bundes  (Sonderurlaubsverordnung - SUrlV)
+% Ausfertigungsdatum: 01.06.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 90 Absatz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) verordnet die Bundesregierung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für die Beamtinnen und Beamten des Bundes. Für die Richterinnen und Richter im Bundesdienst gilt diese Verordnung nach § 46 des Deutschen Richtergesetzes entsprechend.
 
 (2) Ansprüche auf Sonderurlaub für Beamtinnen und Beamte des Bundes sowie Richterinnen und Richter des Bundes, die sich aus anderen Rechtsvorschriften ergeben, bleiben unberührt.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 Die Entscheidung über die Gewährung von Sonderurlaub trifft – außer in den Fällen des § 22 Absatz 1 Satz 2 und Absatz 3 Satz 2 – die personalverwaltende Dienstbehörde.
 
-
-## § 3 – Voraussetzungen
+# § 3 – Voraussetzungen
 
 Sonderurlaub wird nur gewährt, wenn
 
@@ -34,13 +27,11 @@ Sonderurlaub wird nur gewährt, wenn
 
 3. die jeweiligen Voraussetzungen der §§ 5 bis 22 erfüllt sind.
 
-
-## § 4 – Dauer
+# § 4 – Dauer
 
 Die in den folgenden Vorschriften bestimmte Urlaubsdauer verlängert sich um erforderliche Reisezeiten.
 
-
-## § 5 – Sonderurlaub zur Ausübung staatsbürgerlicher Rechte und zur Erfüllung staatsbürgerlicher Pflichten
+# § 5 – Sonderurlaub zur Ausübung staatsbürgerlicher Rechte und zur Erfüllung staatsbürgerlicher Pflichten
 
 Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
@@ -50,8 +41,7 @@ Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
 3. zur Ausübung einer ehrenamtlichen Tätigkeit oder eines öffentlichen Ehrenamtes, wenn die Übernahme der Tätigkeit auf einer gesetzlichen Vorschrift beruht.
 
-
-## § 6 – Sonderurlaub zur Ausübung einer Tätigkeit in öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtungen oder in einer öffentlichen Einrichtung eines Mitgliedstaates der Europäischen Union
+# § 6 – Sonderurlaub zur Ausübung einer Tätigkeit in öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtungen oder in einer öffentlichen Einrichtung eines Mitgliedstaates der Europäischen Union
 
 (1) Sonderurlaub unter Wegfall der Besoldung ist zu gewähren bei Entsendung für eine hauptberufliche Tätigkeit
 
@@ -65,18 +55,15 @@ Die Dauer des Sonderurlaubs richtet sich nach der Dauer der Entsendung.
 
 (2) Sonderurlaub von bis zu einem Jahr unter Wegfall der Besoldung ist auch für die Wahrnehmung einer hauptberuflichen Tätigkeit nach Absatz 1 Satz 1 zu gewähren, wenn die Beamtin oder der Beamte zu dieser hauptberuflichen Tätigkeit nicht entsandt wird.
 
-
-## § 7 – Sonderurlaub zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit
+# § 7 – Sonderurlaub zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit
 
 Zur Wahrnehmung von Aufgaben der Entwicklungszusammenarbeit sind bis zu fünf Jahre Sonderurlaub unter Wegfall der Besoldung zu gewähren.
 
-
-## § 8 – Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
+# § 8 – Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
 
 Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ist Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des gehobenen oder des höheren Dienstes nach § 39 Absatz 1 der Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen des Bundes teilnehmen.
 
-
-## § 9 – Sonderurlaub für Aus- oder Fortbildung
+# § 9 – Sonderurlaub für Aus- oder Fortbildung
 
 (1) Je Kalenderjahr sind insgesamt jeweils bis zu fünf Arbeitstage Sonderurlaub unter Fortzahlung der Besoldung zu gewähren
 
@@ -92,15 +79,13 @@ Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ist Sonder
 
 (3) Weiterer Sonderurlaub nach Absatz 2 darf frühestens zwei Jahre nach Beendigung des letzten Sonderurlaubs nach Absatz 2 gewährt werden.
 
-
-## § 10 – Sonderurlaub für fremdsprachliche Aus- oder Fortbildung
+# § 10 – Sonderurlaub für fremdsprachliche Aus- oder Fortbildung
 
 (1) Für eine fremdsprachliche Aus- oder Fortbildung in einem Land, in dem die zu erlernende Sprache gesprochen wird, sind bis zu drei Monate Sonderurlaub unter Fortzahlung der Besoldung zu gewähren. Die Aus- oder Fortbildung muss im dienstlichen Interesse liegen.
 
 (2) Weiterer Sonderurlaub nach Absatz 1 darf frühestens zwei Jahre nach Beendigung des letzten Sonderurlaubs nach Absatz 1 gewährt werden.
 
-
-## § 11 – Sonderurlaub für Zwecke der militärischen und zivilen Verteidigung
+# § 11 – Sonderurlaub für Zwecke der militärischen und zivilen Verteidigung
 
 (1) Für die Teilnahme an Ausbildungsveranstaltungen von Organisationen der zivilen Verteidigung ist je Kalenderjahr bis zu zehn Arbeitstage Sonderurlaub unter Fortzahlung der Besoldung zu gewähren.
 
@@ -114,8 +99,7 @@ Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ist Sonder
 
 3. zum Bergwacht- oder Seenotrettungsdienst zwecks Rettung von Menschenleben und zum freiwilligen Sanitätsdienst.
 
-
-## § 12 – Sonderurlaub für vereinspolitische Zwecke
+# § 12 – Sonderurlaub für vereinspolitische Zwecke
 
 (1) Einer Beamtin oder einem Beamten, die oder der als Mitglied des Vorstandes einer überörtlichen Selbsthilfeorganisation zur Betreuung behinderter oder suchtkranker Personen an auf Bundes- oder Landesebene stattfindenden Arbeitstagungen solcher Organisationen teilnimmt, sind je Kalenderjahr bis zu fünf Arbeitstage Sonderurlaub unter Fortzahlung der Besoldung zu gewähren.
 
@@ -125,8 +109,7 @@ Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ist Sonder
 
 2. an Bundes-, Landes- oder Bezirksparteitagen, wenn die Beamtin oder der Beamte als Mitglied eines Parteivorstandes oder als Delegierte oder Delegierter teilnimmt.
 
-
-## § 13 – Sonderurlaub zur Ableistung von Freiwilligendiensten
+# § 13 – Sonderurlaub zur Ableistung von Freiwilligendiensten
 
 Bis zu zwei Jahre Sonderurlaub unter Wegfall der Besoldung sind zu gewähren, wenn eine Beamtin oder ein Beamter
 
@@ -138,13 +121,11 @@ Bis zu zwei Jahre Sonderurlaub unter Wegfall der Besoldung sind zu gewähren, we
 
 ableistet.
 
-
-## § 14 – Sonderurlaub für eine Ausbildung zur Schwesternhelferin oder zum Pflegediensthelfer
+# § 14 – Sonderurlaub für eine Ausbildung zur Schwesternhelferin oder zum Pflegediensthelfer
 
 Für eine Ausbildung zur Schwesternhelferin oder zum Pflegediensthelfer ist Sonderurlaub unter Fortzahlung der Besoldung für die Dauer eines geschlossenen Lehrganges, höchstens jedoch für 20 Arbeitstage im Kalenderjahr, zu gewähren.
 
-
-## § 15 – Sonderurlaub für gewerkschaftliche Zwecke
+# § 15 – Sonderurlaub für gewerkschaftliche Zwecke
 
 Sonderurlaub von jeweils bis zu fünf Arbeitstagen im Kalenderjahr unter Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
 
@@ -152,8 +133,7 @@ Sonderurlaub von jeweils bis zu fünf Arbeitstagen im Kalenderjahr unter Fortzah
 
 2. an Tagungen von Gewerkschaften oder Berufsverbänden auf internationaler Ebene, auf Bundes- oder Landesebene oder, sofern es keine Landesebene gibt, auf Bezirksebene, wenn die Beamtin oder der Beamte als Mitglied eines Gewerkschafts- oder Berufsverbandsvorstandes oder als Delegierte oder Delegierter teilnimmt.
 
-
-## § 16 – Sonderurlaub für kirchliche Zwecke
+# § 16 – Sonderurlaub für kirchliche Zwecke
 
 Sonderurlaub von bis zu fünf Arbeitstagen im Kalenderjahr unter Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
 
@@ -163,8 +143,7 @@ Sonderurlaub von bis zu fünf Arbeitstagen im Kalenderjahr unter Fortzahlung der
 
 3. an Veranstaltungen des Deutschen Evangelischen Kirchentages, des Deutschen Katholikentages, des Ökumenischen Kirchentages oder des Weltjugendtages.
 
-
-## § 17 – Sonderurlaub für sportliche Zwecke
+# § 17 – Sonderurlaub für sportliche Zwecke
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
@@ -182,8 +161,7 @@ Im Fall des Satzes 1 Nummer 2 werden bis zu fünf Arbeitstage Sonderurlaub gewä
 
 (2) Sonderurlaub unter Fortzahlung der Besoldung ist auch Beamtinnen und Beamten zu gewähren, deren Teilnahme für den sportlichen Einsatz der Sportlerinnen und Sportler oder der Mannschaft bei Veranstaltungen im Sinne des Absatzes 1 dringend erforderlich ist. Eine entsprechende Bescheinigung von einem dem Deutschen Olympischen Sportbund angeschlossenen Verband oder Verein ist vorzulegen.
 
-
-## § 18 – Sonderurlaub für Familienheimfahrten
+# § 18 – Sonderurlaub für Familienheimfahrten
 
 (1) Beamtinnen und Beamten, die Trennungsgeld nach der Trennungsgeldverordnung erhalten, ist für Familienheimfahrten Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn die Beamtinnen oder Beamten
 
@@ -205,8 +183,7 @@ Als Sonderurlaub wird im Kalenderjahr innerhalb eines Zeitraums von zwei Monaten
 
 (5) Für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen von Absatz 1 abweichende Regelungen treffen.
 
-
-## § 19 – Sonderurlaub aus dienstlichen Anlässen
+# § 19 – Sonderurlaub aus dienstlichen Anlässen
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist im nachstehend angegebenen Umfang zu gewähren:
 
@@ -218,8 +195,7 @@ Als Sonderurlaub wird im Kalenderjahr innerhalb eines Zeitraums von zwei Monaten
 
 (2) Für die im Bereich der Deutschen Bahn Aktiengesellschaft sowie einer nach § 2 Absatz 1 und § 3 Absatz 3 des Deutsche Bahn Gründungsgesetzes ausgegliederten Gesellschaft beschäftigten Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat von Absatz 1 abweichende Regelungen treffen. Für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen von Absatz 1 abweichende Regelungen treffen.
 
-
-## § 20 – Sonderurlaub aus medizinischen Anlässen
+# § 20 – Sonderurlaub aus medizinischen Anlässen
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren für die Dauer der notwendigen Abwesenheit
 
@@ -249,8 +225,7 @@ Als Sonderurlaub wird im Kalenderjahr innerhalb eines Zeitraums von zwei Monaten
 
 (5) Dauer und Häufigkeit des Sonderurlaubs nach Absatz 2 Nummer 1 bis 4 und 6 bestimmen sich nach § 35 Absatz 2 Satz 2 Nummer 5 und § 36 Absatz 2 der Bundesbeihilfeverordnung.
 
-
-## § 21 – Sonderurlaub aus persönlichen Anlässen
+# § 21 – Sonderurlaub aus persönlichen Anlässen
 
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist wie folgt zu gewähren:  
   
@@ -275,8 +250,7 @@ notwendigen Abwesenheit</td></tr></tbody></table>
 
 (5) Für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern, für Bau und Heimat von den Absätzen 1 bis 3 abweichende Regelungen treffen.
 
-
-## § 22 – Sonderurlaub in anderen Fällen
+# § 22 – Sonderurlaub in anderen Fällen
 
 (1) Sonderurlaub unter Wegfall der Besoldung kann gewährt werden, wenn ein wichtiger Grund vorliegt. Für mehr als drei Monate kann Sonderurlaub unter Wegfall der Besoldung nur in besonders begründeten Fällen und nur durch die oberste Dienstbehörde oder die von ihr bestimmte unmittelbar nachgeordnete Behörde genehmigt werden.
 
@@ -284,13 +258,11 @@ notwendigen Abwesenheit</td></tr></tbody></table>
 
 (3) Für einen in den §§ 5 bis 21 nicht genannten Zweck kann Beamtinnen und Beamten Sonderurlaub unter Fortzahlung der Besoldung gewährt werden, wenn der Sonderurlaub auch dienstlichen Zwecken dient. Sonderurlaub unter Fortzahlung der Besoldung für mehr als zwei Wochen bedarf der Zustimmung der obersten Dienstbehörde oder der von ihr bestimmten unmittelbar nachgeordneten Behörde. Sonderurlaub für mehr als sechs Monate bedarf der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat.
 
-
-## § 23 – Verfahren
+# § 23 – Verfahren
 
 Der Sonderurlaub ist unverzüglich nach Bekanntwerden des Anlasses zu beantragen. Sonderurlaub nach § 21 ist zeitnah zu beantragen.
 
-
-## § 24 – Widerruf
+# § 24 – Widerruf
 
 Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
@@ -300,8 +272,7 @@ Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
 3. andere Gründe, die die Beamtin oder der Beamte zu vertreten hat, den Widerruf erfordern.
 
-
-## § 25 – Ersatz von Mehraufwendungen
+# § 25 – Ersatz von Mehraufwendungen
 
 (1) Folgende Mehraufwendungen werden der Beamtin oder dem Beamten nach den Bestimmungen des Reisekostenrechts ersetzt:
 
@@ -311,8 +282,7 @@ Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
 (2) Zuwendungen, die die Beamtin oder der Beamte von anderer Seite zur Deckung der Aufwendungen erhalten hat, sind anzurechnen.
 
-
-## § 26 – Besoldung
+# § 26 – Besoldung
 
 (1) Zur Besoldung im Sinne dieser Verordnung gehören die in § 1 Absatz 2 und 3 des Bundesbesoldungsgesetzes genannten Bezüge.
 
@@ -320,7 +290,6 @@ Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
 (3) Dauert der Sonderurlaub unter Wegfall der Besoldung nicht länger als einen Monat, bleibt der Anspruch auf Beihilfe oder auf Heilfürsorge nach § 70 Absatz 2 des Bundesbesoldungsgesetzes unberührt.
 
-
-## § 27 – Inkrafttreten, Außerkrafttreten
+# § 27 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Sonderurlaubsverordnung in der Fassung der Bekanntmachung vom 11. November 2004 (BGBl. I S. 2836), die zuletzt durch Artikel 15 Absatz 22 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, außer Kraft.

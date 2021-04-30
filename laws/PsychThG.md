@@ -1,12 +1,7 @@
-# [PsychThG] Gesetz über den Beruf der Psychotherapeutin und des Psychotherapeuten   (Psychotherapeutengesetz - PsychThG)
-
-Ausfertigungsdatum: 15.11.2019
-
+% Gesetz über den Beruf der Psychotherapeutin und des Psychotherapeuten   (Psychotherapeutengesetz - PsychThG)
+% Ausfertigungsdatum: 15.11.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -46,8 +41,9 @@ Ausfertigungsdatum: 15.11.2019
 
  
 
+ 
 
-## § 1 – Berufsbezeichnung, Berufsausübung
+# § 1 – Berufsbezeichnung, Berufsausübung
 
 (1) Wer die Psychotherapie unter der Berufsbezeichnung „Psychotherapeutin“ oder „Psychotherapeut“ ausüben will, bedarf der Approbation als „Psychotherapeutin“ oder „Psychotherapeut“. Eine vorübergehende Ausübung des Berufs ist auch aufgrund einer befristeten Erlaubnis nach § 3 Absatz 1 oder Absatz 3 zulässig. Die Berufsbezeichnung nach Satz 1 darf nur führen, wer nach Satz 1, Satz 2 oder den Absätzen 5 und 6 zur Ausübung des Berufs befugt ist. Die Bezeichnung „Psychotherapeutin“ oder „Psychotherapeut“ darf über die Sätze 1 und 2 oder die Absätze 5 und 6 hinaus von anderen Personen als Ärztinnen und Ärzten, Psychologischen Psychotherapeutinnen und Psychologischen Psychotherapeuten sowie Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten nicht geführt werden. Ärztinnen und Ärzte können dabei den Zusatz „ärztliche“ oder „ärztlicher“ verwenden.
 
@@ -65,8 +61,7 @@ Ausfertigungsdatum: 15.11.2019
 
 (6) Absatz 5 gilt entsprechend für Psychotherapeutinnen und Psychotherapeuten, die Staatsangehörige eines Drittstaates sind, soweit sich hinsichtlich der Anerkennung von Berufsqualifikationen nach dem Recht der Europäischen Union eine Gleichstellung der Staatsangehörigen dieser Drittstaaten (gleichgestellte Staaten) mit Staatsangehörigen eines Mitgliedstaates oder eines Vertragsstaates ergibt.
 
-
-## § 2 – Erteilung der Approbation
+# § 2 – Erteilung der Approbation
 
 (1) Die Approbation als Psychotherapeutin oder Psychotherapeut ist auf Antrag zu erteilen, wenn die antragstellende Person
 
@@ -82,8 +77,7 @@ Ausfertigungsdatum: 15.11.2019
 
 (3) Ist gegen die antragstellende Person wegen des Verdachts einer Straftat, aus der sich die Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des Berufs ergeben kann, ein Strafverfahren eingeleitet, so kann die Entscheidung über den Antrag auf Erteilung der Approbation ausgesetzt werden, bis das Strafverfahren beendet ist.
 
-
-## § 3 – Erlaubnis zur vorübergehenden Berufsausübung
+# § 3 – Erlaubnis zur vorübergehenden Berufsausübung
 
 (1) Eine Erlaubnis zur vorübergehenden Berufsausübung ist auf Antrag Personen zu erteilen, wenn die antragstellende Person
 
@@ -105,8 +99,7 @@ Ausfertigungsdatum: 15.11.2019
 
 (6) Eine Erlaubnis zur vorübergehenden Berufsausübung, die nach § 4 Absatz 1 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung erteilt worden ist, bleibt wirksam.
 
-
-## § 4 – Erlaubnis zur partiellen Berufsausübung
+# § 4 – Erlaubnis zur partiellen Berufsausübung
 
 (1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu erteilen, wenn die antragstellende Person
 
@@ -140,8 +133,7 @@ Zur Vermeidung einer Versagung kann die Erlaubnis mit Auflagen versehen werden.
 
 (5) Eine Erlaubnis zur partiellen Berufsausübung, die nach § 4 Absatz 2a des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung erteilt worden ist, bleibt wirksam.
 
-
-## § 5 – Rücknahme, Widerruf und Ruhen
+# § 5 – Rücknahme, Widerruf und Ruhen
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die Voraussetzung des § 2 Absatz 1 Nummer 1 nicht vorgelegen hat. Die Approbation kann zurückgenommen werden, wenn bei ihrer Erteilung die Voraussetzung des § 2 Absatz 1 Nummer 2 oder Nummer 3 nicht vorgelegen hat. Im Übrigen bleiben die dem § 48 des Verwaltungsverfahrensgesetzes entsprechenden landesrechtlichen Vorschriften unberührt.
 
@@ -169,8 +161,7 @@ Die Anordnung des Ruhens der Erlaubnis ist aufzuheben, sobald die Voraussetzung 
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für Personen mit einer Erlaubnis zur vorübergehenden Berufsausübung oder einer Erlaubnis zur partiellen Berufsausübung.
 
-
-## § 6 – Verzicht
+# § 6 – Verzicht
 
 (1) Auf die Approbation, die Erlaubnis zur vorübergehenden Berufsausübung und die Erlaubnis zur partiellen Berufsausübung kann durch schriftliche Erklärung gegenüber der zuständigen Behörde verzichtet werden.
 
@@ -178,8 +169,7 @@ Die Anordnung des Ruhens der Erlaubnis ist aufzuheben, sobald die Voraussetzung 
 
 (3) Die Erklärung des Verzichts kann nicht widerrufen werden. Hierauf soll vor Abgabe der Verzichtserklärung hingewiesen werden.
 
-
-## § 7 – Ziel des Studiums, das Voraussetzung für die Erteilung einer Approbation als Psychotherapeutin oder Psychotherapeut ist
+# § 7 – Ziel des Studiums, das Voraussetzung für die Erteilung einer Approbation als Psychotherapeutin oder Psychotherapeut ist
 
 (1) Das Studium, das Voraussetzung für die Erteilung einer Approbation als Psychotherapeutin oder Psychotherapeut ist, vermittelt entsprechend dem allgemein anerkannten Stand psychotherapiewissenschaftlicher, psychologischer, pädagogischer, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse die grundlegenden personalen, fachlich-methodischen, sozialen und umsetzungsorientierten Kompetenzen, die für eine eigenverantwortliche, selbständige und umfassende psychotherapeutische Versorgung von Patientinnen und Patienten aller Altersstufen und unter Berücksichtigung der Belange von Menschen mit Behinderungen mittels der wissenschaftlich anerkannten psychotherapeutischen Verfahren und Methoden erforderlich sind. Zugleich befähigt es die Psychotherapeutinnen und Psychotherapeuten, an der Weiterentwicklung von psychotherapeutischen Verfahren oder von psychotherapeutischen Methoden mitzuwirken sowie sich eigenverantwortlich und selbständig fort- und weiterzubilden und dabei auf der Basis von Kenntnissen über psychotherapeutische Versorgungssysteme auch Organisations- und Leitungskompetenzen zu entwickeln.
 
@@ -203,13 +193,11 @@ Die Anordnung des Ruhens der Erlaubnis ist aufzuheben, sobald die Voraussetzung 
 
 8. aktiv und interdisziplinär mit den verschiedenen im Gesundheitssystem tätigen Berufsgruppen zu kommunizieren und patientenorientiert zusammenzuarbeiten.
 
-
-## § 8 – Wissenschaftlicher Beirat
+# § 8 – Wissenschaftlicher Beirat
 
 Die zuständige Behörde stellt die wissenschaftliche Anerkennung eines psychotherapeutischen Verfahrens oder einer psychotherapeutischen Methode fest. Sie stützt ihre Entscheidung dabei in Zweifelsfällen auf ein Gutachten des Wissenschaftlichen Beirats Psychotherapie, der gemeinsam von der Bundespsychotherapeutenkammer und der Bundesärztekammer errichtet worden ist.
 
-
-## § 9 – Dauer, Struktur und Durchführung des Studiums
+# § 9 – Dauer, Struktur und Durchführung des Studiums
 
 (1) Das Studium gemäß § 7 darf nur an Hochschulen angeboten werden. Hochschulen im Sinne dieses Gesetzes sind Universitäten oder Hochschulen, die Universitäten gleichgestellt sind. Das Studium gemäß § 7 dauert in Vollzeit fünf Jahre.
 
@@ -241,8 +229,7 @@ Für diese Bestandteile sind über den Studienverlauf von Bachelor- und Masterst
 
 (10) Die Hochschule trägt die Gesamtverantwortung für die Koordination und Durchführung des Studiums. Soweit sie die Durchführung der berufspraktischen Einsätze nicht an der Hochschule sicherstellen kann, schließt sie im Einvernehmen mit der nach Landesrecht für Gesundheit zuständigen Stelle Kooperationen mit dafür geeigneten Einrichtungen ab.
 
-
-## § 10 – Psychotherapeutische Prüfung als Voraussetzung für die Erteilung der Approbation
+# § 10 – Psychotherapeutische Prüfung als Voraussetzung für die Erteilung der Approbation
 
 (1) Die psychotherapeutische Prüfung dient der Feststellung der für eine Tätigkeit in der Psychotherapie erforderlichen Handlungskompetenzen.
 
@@ -256,8 +243,7 @@ Für diese Bestandteile sind über den Studienverlauf von Bachelor- und Masterst
 
 2. einer anwendungsorientierten Parcoursprüfung in fünf Kompetenzbereichen.
 
-
-## § 11 – Anerkennung von Berufsqualifikationen aus Drittstaaten
+# § 11 – Anerkennung von Berufsqualifikationen aus Drittstaaten
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb eines Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates erworbene abgeschlossene Berufsqualifikation erfüllt die Voraussetzung des § 2 Absatz 1 Nummer 1, wenn
 
@@ -281,8 +267,7 @@ Einzelne Bestandteile unterscheiden sich wesentlich, wenn die von der antragstel
 § 11 Abs. 2 Satz 3 u. 4, Abs. 3: Zur Geltung vgl. § 12 Abs. 2 Satz 2  
 § 11 Abs. 2 u. 3: Zur Geltung vgl. § 12 Abs. 3 Satz 2 +++)
 
-
-## § 12 – Anerkennung von Berufsqualifikationen aus anderen Mitgliedstaaten, anderen Vertragsstaaten oder gleichgestellten Staaten
+# § 12 – Anerkennung von Berufsqualifikationen aus anderen Mitgliedstaaten, anderen Vertragsstaaten oder gleichgestellten Staaten
 
 (1) Eine in einem Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat erworbene abgeschlossene Berufsqualifikation erfüllt die Voraussetzung des § 2 Absatz 1 Nummer 1, wenn
 
@@ -326,8 +311,7 @@ zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften dieses an
 
 (4) Die Absätze 1 bis 3 gelten auch für antragstellende Personen, die über eine abgeschlossene Berufsqualifikation verfügen, die in einem anderen als den in Absatz 1 Satz 1 genannten Staaten erworben wurde und die einer der in Absatz 1 Satz 1 genannten Staaten anerkannt hat.
 
-
-## § 13 – Allgemeine Regelungen bei der Anerkennung von außerhalb des Geltungsbereichs des Gesetzes erworbenen Berufsqualifikationen
+# § 13 – Allgemeine Regelungen bei der Anerkennung von außerhalb des Geltungsbereichs des Gesetzes erworbenen Berufsqualifikationen
 
 (1) Wird die Voraussetzung des § 2 Absatz 1 Nummer 1 auf eine Berufsqualifikation gestützt, die außerhalb des Geltungsbereichs dieses Gesetzes erworben worden ist, so soll bei der Entscheidung über die Erteilung der Approbation zunächst geprüft werden, ob diese Berufsqualifikation gleichwertig ist mit der Berufsqualifikation nach § 2 Absatz 1 Nummer 1. Erst nach Feststellung der Gleichwertigkeit sollen die Voraussetzungen nach § 2 Absatz 1 Nummer 2 bis 4 geprüft werden. Auf Antrag ist der antragstellenden Person ein gesonderter Bescheid über die Feststellung der Gleichwertigkeit ihrer Berufsqualifikation zu erteilen.
 
@@ -337,8 +321,7 @@ zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften dieses an
 
 (4) Die Länder können vereinbaren, dass die Aufgaben nach diesem Abschnitt von einem anderen Land oder einer gemeinsamen Einrichtung wahrgenommen werden.
 
-
-## § 14 – Bescheinigungen, die zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat erforderlich sind
+# § 14 – Bescheinigungen, die zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten Staat erforderlich sind
 
 (1) Üben deutsche Staatsangehörige, Staatsangehörige eines anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates den Beruf der Psychotherapeutin oder des Psychotherapeuten in Deutschland aufgrund einer Approbation als Psychotherapeutin oder Psychotherapeut aus, so wird ihnen auf Antrag eine Bescheinigung ausgestellt, mit der sie die Möglichkeit haben, in ihrem Beruf in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder einem gleichgestellten Staat eine vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union auszuüben.
 
@@ -350,8 +333,7 @@ zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften dieses an
 
 3. die Angabe, dass die antragstellende Person über die berufliche Qualifikation verfügt, die für die Ausübung des Berufs als Psychotherapeutin oder Psychotherapeut in Deutschland erforderlich ist.
 
-
-## § 15 – Dienstleistungserbringung in Deutschland
+# § 15 – Dienstleistungserbringung in Deutschland
 
 (1) Vorübergehende und gelegentliche Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union darf im Geltungsbereich dieses Gesetzes ausüben, wer Staatsangehöriger eines Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates ist und
 
@@ -365,13 +347,11 @@ Der vorübergehende und gelegentliche Charakter der Dienstleistungserbringung wi
 
 (3) Abweichend von Absatz 1 dürfen keine vorübergehenden und gelegentlichen Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union im Geltungsbereich dieses Gesetzes im Beruf als Psychotherapeutin oder Psychotherapeut ausgeübt werden, wenn die jeweilige Person sich eines Verhaltens schuldig gemacht hat, aus dem sich die Unwürdigkeit oder Unzuverlässigkeit zur Ausübung dieses Berufs ergibt, oder sie in gesundheitlicher Hinsicht zur Ausübung dieses Berufs ungeeignet ist.
 
-
-## § 16 – Rechte und Pflichten
+# § 16 – Rechte und Pflichten
 
 Staatsangehörige eines Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates, die in Deutschland im Beruf der Psychotherapeutin oder des Psychotherapeuten vorübergehend und gelegentlich Dienstleistungen erbringen, haben dabei die gleichen Rechte und Pflichten wie Personen mit einer Approbation nach § 1 Absatz 1. Sie können den berufsständischen, gesetzlichen oder verwaltungsrechtlichen Berufsregeln und den geltenden Disziplinarbestimmungen unterworfen werden. Zu diesen Bestimmungen gehören etwa Regelungen über die Definition des Berufs, das Führen von Titeln oder über schwerwiegende berufliche Fehler, die in unmittelbarem und speziellem Zusammenhang mit dem Schutz und der Sicherheit der Verbraucher stehen.
 
-
-## § 17 – Meldung der dienstleistungserbringenden Person an die zuständige Behörde
+# § 17 – Meldung der dienstleistungserbringenden Person an die zuständige Behörde
 
 (1) Wer beabsichtigt, in Deutschland im Beruf der Psychotherapeutin oder des Psychotherapeuten vorübergehend und gelegentlich Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union zu erbringen, hat dies der in Deutschland zuständigen Behörde vorher schriftlich zu melden.
 
@@ -397,8 +377,7 @@ b) einen Nachweis in beliebiger Form darüber, dass die dienstleistungserbringen
 
 (5) Die dienstleistungserbringende Person ist verpflichtet, der zuständigen Behörde unverzüglich jede Änderung zu melden, die sich in Bezug auf eine oder mehrere Tatsachen ergibt, die den nach Absatz 2 Nummer 1 bis 4 vorzulegenden Bescheinigungen oder Nachweisen zugrunde liegen.
 
-
-## § 18 – Prüfen der Angaben durch die zuständige Behörde
+# § 18 – Prüfen der Angaben durch die zuständige Behörde
 
 (1) Im Fall der erstmaligen Meldung der Dienstleistungserbringung prüft die zuständige Behörde den nach § 17 Absatz 2 Nummer 2 vorgelegten Nachweis der beruflichen Qualifikation.
 
@@ -406,8 +385,7 @@ b) einen Nachweis in beliebiger Form darüber, dass die dienstleistungserbringen
 
 (3) Der Ausgleich der fehlenden Kenntnisse und Fähigkeiten ist durch eine Eignungsprüfung nachzuweisen.
 
-
-## § 19 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
+# § 19 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Wird gegen die Pflichten nach § 16 verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsstaates dieser dienstleistungserbringenden Person hierüber zu unterrichten.
 
@@ -419,8 +397,7 @@ b) einen Nachweis in beliebiger Form darüber, dass die dienstleistungserbringen
 
 2. Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen.
 
-
-## § 20 – Regelungen über Ausbildung, Prüfung und Approbation
+# § 20 – Regelungen über Ausbildung, Prüfung und Approbation
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Mindestanforderungen an das Studium nach § 9 einschließlich der Inhalte der hochschulischen Lehre sowie der berufspraktischen Einsätze und das Nähere über die psychotherapeutische Prüfung nach § 10 zu regeln. Die als Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten auszugestaltende Rechtsverordnung soll auch Vorschriften über die für die Erteilung der Approbation nach § 2 Absatz 1 notwendigen Nachweise und über die Urkunden für die Approbation nach § 1 Absatz 1, die Erlaubnis zur vorübergehenden Berufsausübung nach § 3 und die Erlaubnis zur partiellen Berufsausübung nach § 4 enthalten.
 
@@ -444,15 +421,13 @@ b) einen Nachweis in beliebiger Form darüber, dass die dienstleistungserbringen
 
 (+++ § 20: Inkraft gem. Art. 12 Abs. 1 G v. 15.11.2019 I 1604 mWv 23.11.2019 +++)
 
-
-## § 21 – Regelungen über Gebühren
+# § 21 – Regelungen über Gebühren
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte für psychotherapeutische Tätigkeiten von Psychotherapeutinnen und Psychotherapeuten bei Privatbehandlung zu regeln.
 
 (2) In der Rechtsverordnung sind Mindest- und Höchstsätze für die psychotherapeutischen Leistungen festzusetzen. Dabei ist sowohl den berechtigten Interessen der leistungserbringenden Personen als auch den berechtigten Interessen der zur Zahlung der Entgelte Verpflichteten Rechnung zu tragen.
 
-
-## § 22 – Zuständigkeit von Behörden
+# § 22 – Zuständigkeit von Behörden
 
 (1) Die Entscheidungen nach § 2 Absatz 1 trifft die zuständige Behörde des Landes, in dem die antragstellende Person die psychotherapeutische Prüfung abgelegt hat. Die Entscheidungen nach § 2 Absatz 1 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung in Verbindung mit § 27 trifft die zuständige Behörde des Landes, in dem die antragstellende Person die staatliche Prüfung nach § 5 Absatz 1 Satz 2 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung abgelegt hat.
 
@@ -468,8 +443,7 @@ b) einen Nachweis in beliebiger Form darüber, dass die dienstleistungserbringen
 
 (7) Für Entscheidungen nach § 28 Absatz 2 ist die zuständige Behörde des Landes zuständig, in dem die Anerkennung nach § 6 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung ausgesprochen wurde.
 
-
-## § 23 – Unterrichtungspflichten, Prüfpflichten, Mitteilungspflichten
+# § 23 – Unterrichtungspflichten, Prüfpflichten, Mitteilungspflichten
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den Beruf der Psychotherapeutin oder des Psychotherapeuten ausübt oder zuletzt ausgeübt hat, unterrichtet die zuständigen Behörden des Staates, in dem die Person die Berufsqualifikation erworben hat, unter Einhaltung der Vorschriften zum Schutz personenbezogener Daten, wenn
 
@@ -485,8 +459,7 @@ b) einen Nachweis in beliebiger Form darüber, dass die dienstleistungserbringen
 
 (4) Die nach Absatz 3 von den Ländern benannten Behörden übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen zu ihren Entscheidungen über Anträge auf Anerkennung der Berufsqualifikation nach § 12, die die Europäische Kommission für den nach Artikel 60 Absatz 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt. Das Bundesministerium für Gesundheit leitet die ihm übermittelten statistischen Aufstellungen an die Europäische Kommission weiter.
 
-
-## § 24 – Warnmitteilung durch die zuständige Behörde
+# § 24 – Warnmitteilung durch die zuständige Behörde
 
 (1) Die zuständige Behörde des Landes, in dem der Beruf der Psychotherapeutin oder des Psychotherapeuten ausgeübt wird, unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten über
 
@@ -542,8 +515,7 @@ Für die Warnmitteilung ist das Binnenmarkt-Informationssystem zu verwenden, das
 
 (6) Wird eine in Absatz 1 genannte Entscheidung aufgehoben oder wird nach einem Verzicht eine Approbation, eine Erlaubnis zur vorübergehenden Berufsausübung oder eine Erlaubnis zur partiellen Berufsausübung neu erteilt, so unterrichtet die Behörde, die die Warnmitteilung getätigt hat, unverzüglich die zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten über die Aufhebung oder die Neuerteilung. In der Unterrichtung ist auch das Datum anzugeben, an dem die Entscheidung aufgehoben worden ist oder an dem die Neuerteilung der Approbation, der Erlaubnis zur vorübergehenden Berufsausübung oder der Erlaubnis zur partiellen Berufsausübung erfolgt ist. Die Behörde, die die Warnmitteilung getätigt hat, löscht die Warnmitteilung im Binnenmarkt-Informationssystem unverzüglich oder spätestens drei Tage nach der Aufhebung der Entscheidung oder spätestens drei Tage nach Neuerteilung der Approbation, der Erlaubnis zur vorübergehenden Berufsausübung oder der Erlaubnis zur partiellen Berufsausübung.
 
-
-## § 25 – Unterrichtung über gefälschte Berufsqualifikationsnachweise
+# § 25 – Unterrichtung über gefälschte Berufsqualifikationsnachweise
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag auf Erteilung der Approbation, auf Feststellung der Gleichwertigkeit ihrer Berufsqualifikation, auf Erteilung der Erlaubnis zur vorübergehenden Berufsausübung oder auf Erteilung der Erlaubnis zur partiellen Berufsausübung gefälschte Berufsqualifikationsnachweise verwendet hat, so unterrichtet die zuständige Behörde die zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten über
 
@@ -561,13 +533,11 @@ c) ihren Geburtsort, und
 
 (3) Gleichzeitig mit der Unterrichtung über die Verwendung gefälschter Berufsqualifikationsnachweise unterrichtet die Behörde, die die Unterrichtung über die Verwendung gefälschter Berufsqualifikationsnachweise vorgenommen hat, die betroffene Person schriftlich über die Unterrichtung über die Verwendung gefälschter Berufsqualifikationsnachweise und deren Inhalt. Der Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die Unterrichtung über die Verwendung gefälschter Berufsqualifikationsnachweise eingelegt, so ergänzt die Behörde, die die Unterrichtung über die Verwendung gefälschter Berufsqualifikationsnachweise vorgenommen hat, die Unterrichtung über die Verwendung gefälschter Berufsqualifikationsnachweise um einen entsprechenden Hinweis.
 
-
-## § 26 – Weiterführen der alten Berufsbezeichnungen
+# § 26 – Weiterführen der alten Berufsbezeichnungen
 
 Psychologische Psychotherapeutinnen und Psychologische Psychotherapeuten sowie Kinder- und Jugendlichenpsychotherapeutinnen und Kinder- und Jugendlichenpsychotherapeuten, die eine Approbation nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung besitzen, führen weiterhin ihre jeweilige Berufsbezeichnung und dürfen die Psychotherapie nach § 1 Absatz 2 ausüben. Die Berechtigung zur Ausübung des Berufs der Kinder- und Jugendlichenpsychotherapeutin und des Kinder- und Jugendlichenpsychotherapeuten erstreckt sich auf Patientinnen und Patienten, die das 21. Lebensjahr noch nicht vollendet haben. Ausnahmen von Satz 2 sind zulässig, wenn zur Sicherung des Therapieerfolgs eine gemeinsame psychotherapeutische Behandlung von Kindern und Jugendlichen mit Erwachsenen erforderlich ist oder bei Jugendlichen eine zuvor mit Mitteln der Kinder- und Jugendlichenpsychotherapie begonnene psychotherapeutische Behandlung erst nach Vollendung des 21. Lebensjahres abgeschlossen werden kann. Im Übrigen haben Personen nach Satz 1 die gleichen Rechte und Pflichten wie eine Person mit einer Approbation nach § 1 Absatz 1.
 
-
-## § 27 – Abschluss von Ausbildungen
+# § 27 – Abschluss von Ausbildungen
 
 (1) Ist eine Ausbildung zur Psychologischen Psychotherapeutin, zum Psychologischen Psychotherapeuten, zur Kinder- und Jugendlichenpsychotherapeutin oder zum Kinder- und Jugendlichenpsychotherapeuten vor dem 1. September 2020 begonnen worden, so wird sie nach dem Psychotherapeutengesetz in der bis zum 31. August 2020 geltenden Fassung abgeschlossen. Nach Abschluss der Ausbildung erhält die antragstellende Person die Approbation nach § 2 Absatz 1 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung, sofern auch die anderen Voraussetzungen nach § 2 Absatz 1 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung erfüllt sind.
 
@@ -591,8 +561,7 @@ Ausbildungen nach Satz 1 sind von den Ländern durch eine unabhängige wissensch
 
 (5) Personen, denen eine Approbation nach den Absätzen 1, 2 oder 3 erteilt worden ist, führen die ihrer jeweiligen Ausbildung entsprechende Berufsbezeichnung nach § 1 Absatz 1 Satz 1 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung. Sie dürfen die Psychotherapie nach § 1 Absatz 2 ausüben und haben die gleichen Rechte und Pflichten wie eine Person mit einer Approbation nach § 1 Absatz 1.
 
-
-## § 28 – Weitergelten der staatlichen Anerkennung von Ausbildungsstätten
+# § 28 – Weitergelten der staatlichen Anerkennung von Ausbildungsstätten
 
 (1) Ausbildungsstätten, die nach § 6 des Psychotherapeutengesetzes in der bis zum 31. August 2020 geltenden Fassung staatlich anerkannt sind, gelten weiterhin als staatlich anerkannt, solange sie Ausbildungen zum Beruf der Psychologischen Psychotherapeutin und des Psychologischen Psychotherapeuten oder zum Beruf der Kinder- und Jugendlichenpsychotherapeutin und des Kinder- und Jugendlichenpsychotherapeuten durchführen.
 

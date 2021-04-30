@@ -1,10 +1,7 @@
-# [OlympiaMünzBek 1970] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze)
-
-Ausfertigungsdatum: 14.01.1970
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze)
+% Ausfertigungsdatum: 14.01.1970
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom 18. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele der XX. Olympiade 1972 in Deutschland eine Bundesmünze im Nennwert von 10 Deutschen Mark (Olympiamünze) geprägt.
 
@@ -20,13 +17,11 @@ Ausfertigungsdatum: 14.01.1970
 
 (7) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

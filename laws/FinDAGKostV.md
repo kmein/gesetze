@@ -1,10 +1,7 @@
-# [FinDAGKostV] Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz    (FinDAGKostV)
-
-Ausfertigungsdatum: 29.04.2002
-
+% Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz    (FinDAGKostV)
+% Ausfertigungsdatum: 29.04.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,20 +13,17 @@ des § 16 Satz 2 und 3 des Finanzdienstleistungsaufsichtsgesetzes
 
 verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Gebühren
+# § 1 – Gebühren
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) erhebt für individuell zurechenbare öffentliche Leistungen im Rahmen der ihr gesetzlich zugewiesenen Aufgaben Gebühren nach Maßgabe des § 14 und des § 17b des Finanzdienstleistungsaufsichtsgesetzes und den Bestimmungen dieses Abschnitts.
 
-
-## § 2 – Gebührentatbestände; Höhe der Gebühren
+# § 2 – Gebührentatbestände; Höhe der Gebühren
 
 (1) Die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen und Gebührensätze ergeben sich aus den nachfolgenden Bestimmungen dieses Abschnitts und dem anliegenden Gebührenverzeichnis.
 
 (2) Zur Abgeltung mehrfacher gleichartiger individuell zurechenbarer öffentlicher Leistungen für denselben Gebührenschuldner kann die Bundesanstalt auf Antrag des Gebührenschuldners eine Pauschgebühr, die den geringeren Umfang des Verwaltungsaufwandes berücksichtigt, im Voraus festsetzen.
 
-
-## § 3 – Gebührenerhebung in besonderen Fällen
+# § 3 – Gebührenerhebung in besonderen Fällen
 
 (1) Für die Ablehnung eines Verwaltungsaktes, in den Fällen der Rücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung, für die Rücknahme oder den Widerruf eines Verwaltungsaktes sowie für die Zurückweisung eines Widerspruchs erhebt die Bundesanstalt Gebühren nach Maßgabe der Absätze 2 bis 5, sofern in der Anlage (Gebührenverzeichnis) nichts anderes bestimmt ist.
 
@@ -51,34 +45,27 @@ Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung jedoch vor deren 
 
 (5) Die Gebühr beträgt in den Fällen der Absätze 2, 3 und 4 Satz 1 bis 3 mindestens 50 Euro.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
+# §§ 5 bis 12b – (weggefallen)
 
-
-## §§ 5 bis 12b – (weggefallen)
-
-
-## § 13 – Übergangsregelungen
+# § 13 – Übergangsregelungen
 
 (1) In den Fällen, in denen aufgrund der Übergangsvorschriften der §§ 345 bis 350, 355 des Kapitalanlagegesetzbuches weiterhin Amtshandlungen auf Grundlage des Investmentgesetzes erforderlich sind, sind die Gebührennummern 4. bis 4.1.3.7 der Anlage (zu § 2 Absatz 1) Gebührenverzeichnis in der bis zum 21. Juli 2013 geltenden Fassung weiterhin anzuwenden.
 
 (2) Die Gebührennummern 4.3 bis 4.4.3 der Anlage (Gebührenverzeichnis) finden auch auf die am 4. September 2013 anhängigen Verwaltungsverfahren Anwendung.
 
+# § 13a – (weggefallen)
 
-## § 13a – (weggefallen)
-
-
-## § 14 – Aufhebung von Rechtsvorschriften
+# § 14 – Aufhebung von Rechtsvorschriften
 
 Die Umlage-Verordnung Kredit- und Finanzdienstleistungswesen vom 8. März 1999 (BGBl. I S. 314), zuletzt geändert durch die Verordnung vom 20. Dezember 2001 (BGBl. I S. 3911), und die Umlage-Verordnung-Wertpapierhandel vom 22. Februar 1999 (BGBl. I S. 179), zuletzt geändert durch die Verordnung vom 18. April 2001 (BGBl. I S. 611), werden aufgehoben. Sie sind in der bis zum Tag vor dem Inkrafttreten dieser Verordnung geltenden Fassung auf die Umlegung der Kosten der Bundesaufsichtsämter für das Kreditwesen und den Wertpapierhandel für die Umlagejahre 1998, 1999, 2000, 2001 und des bis zum Inkrafttreten dieser Verordnung verbleibenden Abrechnungszeitraums des Jahres 2002 weiter anzuwenden.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 
-
-## Anlage – (zu § 2 Abs. 1)Gebührenverzeichnis
+# Anlage – (zu § 2 Abs. 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl I 2006, 312 - 323;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

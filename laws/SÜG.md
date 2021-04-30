@@ -1,10 +1,7 @@
-# [SÜG] Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes und den Schutz von Verschlusssachen  (Sicherheitsüberprüfungsgesetz - SÜG)
-
-Ausfertigungsdatum: 20.04.1994
-
+% Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes und den Schutz von Verschlusssachen  (Sicherheitsüberprüfungsgesetz - SÜG)
+% Ausfertigungsdatum: 20.04.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -210,8 +207,7 @@ Strafvorschriften
 
 Inkrafttreten
 
-
-## § 1 – Zweck und Anwendungsbereich des Gesetzes
+# § 1 – Zweck und Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz regelt die Voraussetzungen und das Verfahren zur Überprüfung einer Person, die von der zuständigen Stelle mit einer sicherheitsempfindlichen Tätigkeit betraut werden soll (Sicherheitsüberprüfung) oder bereits betraut worden ist (Wiederholungsüberprüfung), sowie den Schutz von Verschlusssachen.
 
@@ -243,8 +239,7 @@ Verteidigungswichtig sind außerhalb des Geschäftsbereiches des Bundesministeri
 
 erheblich gefährden kann. Sicherheitsempfindliche Stelle ist die kleinste selbständig handelnde Organisationseinheit innerhalb einer lebens- oder verteidigungswichtigen Einrichtung, die vor unberechtigtem Zugang geschützt ist und von der im Falle der Beeinträchtigung eine erhebliche Gefahr für die in den Sätzen 1 und 2 genannten Schutzgüter ausgeht.
 
-
-## § 2 – Betroffener Personenkreis
+# § 2 – Betroffener Personenkreis
 
 (1) Eine Person, die mit einer sicherheitsempfindlichen Tätigkeit betraut werden soll (betroffene Person), ist vorher einer Sicherheitsüberprüfung zu unterziehen. Die Sicherheitsüberprüfung bedarf der Zustimmung der betroffenen Person, soweit gesetzlich nichts anderes bestimmt ist. Die Zustimmung ist schriftlich zu erteilen. Eine sicherheitsempfindliche Tätigkeit darf erst nach Vollendung des 16. Lebensjahres übertragen werden. Auf eine Sicherheitsüberprüfung kann verzichtet werden, wenn für die betroffene Person bereits vor weniger als fünf Jahren eine gleich- oder höherwertige Überprüfung abgeschlossen wurde, ohne dass ein Sicherheitsrisiko festgestellt worden ist.
 
@@ -262,8 +257,7 @@ erheblich gefährden kann. Sicherheitsempfindliche Stelle ist die kleinste selbs
 
 1. die Mitglieder der Verfassungsorgane des Bundes,
 
-1a.  
-die in der Bundesrepublik Deutschland gewählten Mitglieder des Europäischen Parlaments,
+1a. die in der Bundesrepublik Deutschland gewählten Mitglieder des Europäischen Parlaments,
 
 2. Richterinnen und Richter, soweit sie Aufgaben der Rechtsprechung wahrnehmen,
 
@@ -271,8 +265,7 @@ die in der Bundesrepublik Deutschland gewählten Mitglieder des Europäischen Pa
 
 Die in Satz 1 Nummer 1 bis 2 genannten Personen erhalten den Zugang zu Verschlusssachen kraft Amtes.
 
-
-## § 3 – Zuständigkeit
+# § 3 – Zuständigkeit
 
 (1) Zuständige Stelle für die Sicherheitsüberprüfung ist
 
@@ -306,8 +299,7 @@ In den Fällen des Satzes 1 Nummer 1 und 4 kann die oberste Bundesbehörde für 
 
 jeweils zuständige Stelle für die Sicherheitsüberprüfung und mitwirkende Behörde zugleich. Sie wenden hierbei die Vorschriften dieses Gesetzes an. Satz 1 Nummer 2 gilt nicht, sofern der Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz oder der Militärische Abschirmdienst ihre jeweils alleinige Zuständigkeit nach Art oder Dauer der sicherheitsempfindlichen Tätigkeit für entbehrlich halten.
 
-
-## § 3a – Geheimschutzbeauftragte, Sabotageschutzbeauftragte
+# § 3a – Geheimschutzbeauftragte, Sabotageschutzbeauftragte
 
 (1) Die nach § 3 Absatz 1 Satz 1 Nummer 1, 4 und 5 für den Bereich des Geheimschutzes zuständigen Stellen sollen zur Erfüllung ihrer Aufgaben eine Geheimschutzbeauftragte oder einen Geheimschutzbeauftragten sowie eine zur Vertretung berechtigte Person bestellen. Soweit eine Geheimschutzbeauftragte oder ein Geheimschutzbeauftragter nicht bestellt wird, nimmt die Dienststellenleitung die Aufgaben der oder des Geheimschutzbeauftragten wahr. Die oder der Geheimschutzbeauftragte sorgt in ihrer oder seiner Behörde oder sonstigen öffentlichen Stelle des Bundes für die Durchführung dieses Gesetzes und der dazu ergangenen Regelungen.
 
@@ -317,8 +309,7 @@ jeweils zuständige Stelle für die Sicherheitsüberprüfung und mitwirkende Beh
 
 (4) Die näheren Aufgaben der Geheimschutzbeauftragten und der Sabotageschutzbeauftragten regeln die allgemeinen Verwaltungsvorschriften im Sinne des § 35.
 
-
-## § 4 – Allgemeine Grundsätze zum Schutz von Verschlusssachen, Mitwirkung des Bundesamtes für Sicherheit in der Informationstechnik
+# § 4 – Allgemeine Grundsätze zum Schutz von Verschlusssachen, Mitwirkung des Bundesamtes für Sicherheit in der Informationstechnik
 
 (1) Verschlusssachen sind im öffentlichen Interesse, insbesondere zum Schutz des Wohles des Bundes oder eines Landes, geheimhaltungsbedürftige Tatsachen, Gegenstände oder Erkenntnisse, unabhängig von ihrer Darstellungsform. Verschlusssachen können auch Produkte und die dazugehörenden Dokumente sowie zugehörige Schlüsselmittel zur Entschlüsselung, Verschlüsselung und Übertragung von Informationen sein (Kryptomittel). Geheimhaltungsbedürftig im öffentlichen Interesse können auch Geschäfts-, Betriebs-, Erfindungs-, Steuer- oder sonstige private Geheimnisse oder Umstände des persönlichen Lebensbereichs sein.
 
@@ -346,8 +337,7 @@ jeweils zuständige Stelle für die Sicherheitsüberprüfung und mitwirkende Beh
 
 (6) Das Bundesamt für Verfassungsschutz, der Militärische Abschirmdienst und der Bundesnachrichtendienst teilen dem Bundesamt für Sicherheit in der Informationstechnik nichtpersonenbezogene Erkenntnisse, die für den Schutz von Verschlusssachen oder die Aufrechterhaltung des Geheimschutzes von Bedeutung sein können, unverzüglich mit. Das gilt nicht, soweit die Erkenntnisse einem Weitergabeverbot unterliegen. § 23 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
-
-## § 5 – Sicherheitsrisiken, sicherheitserhebliche Erkenntnisse
+# § 5 – Sicherheitsrisiken, sicherheitserhebliche Erkenntnisse
 
 (1) Im Sinne dieses Gesetzes liegt ein Sicherheitsrisiko vor, wenn tatsächliche Anhaltspunkte Folgendes begründen:
 
@@ -369,8 +359,7 @@ Ein Sicherheitsrisiko kann auch auf Grund tatsächlicher Anhaltspunkte nach Satz
 
 (2) Eine Erkenntnis ist sicherheitserheblich, wenn sich aus ihr ein Anhaltspunkt für ein Sicherheitsrisiko ergibt.
 
-
-## § 6 – Rechte der betroffenen Person und der mitbetroffenen Person
+# § 6 – Rechte der betroffenen Person und der mitbetroffenen Person
 
 (1) Vor der Feststellung eines Sicherheitsrisikos ist der betroffenen Person Gelegenheit zu geben, sich persönlich zu den für die Entscheidung erheblichen Tatsachen zu äußern. Die betroffene Person kann im Rahmen der Anhörung eine Rechtsanwältin oder einen Rechtsanwalt beiziehen. Die Anhörung erfolgt in einer Weise, die den Quellenschutz gewährleistet und den schutzwürdigen Interessen von Personen, die im Rahmen einer Sicherheitsüberprüfung befragt wurden, Rechnung trägt. Sie unterbleibt, wenn sie einen erheblichen Nachteil für die Sicherheit des Bundes oder eines Landes zur Folge hätte, insbesondere bei Sicherheitsüberprüfungen der Bewerberinnen und Bewerber bei den Nachrichtendiensten des Bundes.
 
@@ -378,8 +367,7 @@ Ein Sicherheitsrisiko kann auch auf Grund tatsächlicher Anhaltspunkte nach Satz
 
 (3) Die Absätze 1 und 2 sind auch im Falle der Ablehnung einer Weiterbeschäftigung in einer sicherheitsempfindlichen Tätigkeit anzuwenden.
 
-
-## § 7 – Arten der Sicherheitsüberprüfung
+# § 7 – Arten der Sicherheitsüberprüfung
 
 (1) Entsprechend der vorgesehenen sicherheitsempfindlichen Tätigkeit wird entweder eine
 
@@ -393,8 +381,7 @@ durchgeführt.
 
 (2) Ergeben sich bei der Sicherheitsüberprüfung sicherheitserhebliche Erkenntnisse, die nur durch Maßnahmen der nächsthöheren Art der Sicherheitsüberprüfung geklärt werden können, kann die zuständige Stelle mit Zustimmung der betroffenen Person die nächsthöhere Art der Sicherheitsüberprüfung anordnen. § 2 Absatz 2 Satz 1 bis 5 gilt entsprechend; § 12 Absatz 5 bleibt unberührt.
 
-
-## § 8 – Einfache Sicherheitsüberprüfung
+# § 8 – Einfache Sicherheitsüberprüfung
 
 (1) Die einfache Sicherheitsüberprüfung ist für Personen durchzuführen, die
 
@@ -418,8 +405,7 @@ d) das Bundesministerium des Innern, für Bau und Heimat dem zugestimmt hat,
 
 § 2 Absatz 1 Satz 5 bleibt unberührt.
 
-
-## § 9 – Erweiterte Sicherheitsüberprüfung
+# § 9 – Erweiterte Sicherheitsüberprüfung
 
 (1) Eine erweiterte Sicherheitsüberprüfung ist für Personen durchzuführen, die
 
@@ -441,8 +427,7 @@ und die nicht überprüfte Person durch eine überprüfte Person ständig beglei
 
 (3) Sofern eine sicherheitsempfindliche Stelle im Sinne des § 1 Absatz 5 Satz 3 neu festgestellt wird, ist die Sicherheitsüberprüfung für eine dort tätige Person nach Absatz 1 Nummer 3 unverzüglich durchzuführen.
 
-
-## § 10 – Erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+# § 10 – Erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
 
 Eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen ist für Personen durchzuführen,
 
@@ -454,15 +439,13 @@ Eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen ist für Pe
 
 soweit nicht die zuständige Stelle im Einzelfall nach Art und Dauer der Tätigkeit eine Sicherheitsüberprüfung nach § 8 oder § 9 für ausreichend hält.
 
-
-## § 11 – Datenerhebung
+# § 11 – Datenerhebung
 
 (1) Die zuständige Stelle und die mitwirkende Behörde dürfen die zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlichen Daten erheben. Die betroffene Person sowie die sonstigen zu befragenden Personen und nicht-öffentlichen Stellen sind auf den Zweck der Erhebung, die Auskunftspflichten nach diesem Gesetz und auf eine dienst-, arbeitsrechtliche oder sonstige vertragliche Mitwirkungspflicht, ansonsten auf die Freiwilligkeit ihrer Angaben hinzuweisen. Bei Sicherheitsüberprüfungen nach § 3 Absatz 3 Satz 1 kann die Angabe der erhebenden Stelle gegenüber den sonstigen zu befragenden Personen oder öffentlichen und nichtöffentlichen Stellen unterbleiben, wenn dies zum Schutz der betroffenen Person oder des Nachrichtendienstes erforderlich ist.
 
 (2) Die zuständige Stelle erhebt die personenbezogenen Daten bei der betroffenen Person oder bei der mitbetroffenen Person. Reicht diese Erhebung nicht aus oder stehen ihr schutzwürdige Interessen der betroffenen Person oder der mitbetroffenen Person entgegen, können andere geeignete Personen oder Stellen befragt werden.
 
-
-## § 12 – Maßnahmen bei den einzelnen Überprüfungsarten, Überprüfungszeitraum
+# § 12 – Maßnahmen bei den einzelnen Überprüfungsarten, Überprüfungszeitraum
 
 (1) Bei der Sicherheitsüberprüfung nach § 8 trifft die mitwirkende Behörde folgende Maßnahmen:
 
@@ -470,8 +453,7 @@ soweit nicht die zuständige Stelle im Einzelfall nach Art und Dauer der Tätigk
 
 2. Einholung einer unbeschränkten Auskunft aus dem Bundeszentralregister und dem Gewerbezentralregister und Ersuchen um eine Datenübermittlung aus dem Zentralen staatsanwaltschaftlichen Verfahrensregister,
 
-2a.  
-soweit im Einzelfall erforderlich, bei ausländischen betroffenen Personen, die keine freizügigkeitsberechtigten Unionsbürger sind, Ersuchen um eine Übermittlung der nach § 3 Absatz 1 und 2 Nummer 5, 6 und 9 des AZR-Gesetzes gespeicherten Daten,
+2a. soweit im Einzelfall erforderlich, bei ausländischen betroffenen Personen, die keine freizügigkeitsberechtigten Unionsbürger sind, Ersuchen um eine Übermittlung der nach § 3 Absatz 1 und 2 Nummer 5, 6 und 9 des AZR-Gesetzes gespeicherten Daten,
 
 3. Anfragen an das Bundeskriminalamt, die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und die Nachrichtendienste des Bundes,
 
@@ -523,8 +505,7 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 
 (6) Die Überprüfung erstreckt sich in der Regel auf den Zeitraum der letzten fünf Jahre, bei den in § 3 Absatz 3 Nummer 1 genannten Personen auf den Zeitraum der letzten zehn Jahre. Internationale Vorschriften, die einen anderen Zeitraum vorsehen, bleiben unberührt.
 
-
-## § 13 – Sicherheitserklärung
+# § 13 – Sicherheitserklärung
 
 (1) In der Sicherheitserklärung sind von der betroffenen Person anzugeben:
 
@@ -532,8 +513,7 @@ Zu den schutzwürdigen Interessen der betroffenen Person oder der mitbetroffenen
 
 2. Geburtsdatum-, -ort,
 
-2a.  
-Geschlecht,
+2a. Geschlecht,
 
 3  
 Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
@@ -564,8 +544,7 @@ Staatsangehörigkeit, auch frühere und weitere Staatsangehörigkeiten,
 
 16. anhängige Strafverfahren einschließlich Ermittlungsverfahren und Disziplinarverfahren,
 
-16a.  
-strafrechtliche Verurteilungen im Ausland,
+16a. strafrechtliche Verurteilungen im Ausland,
 
 17. Wohnsitze, Aufenthalte, Reisen, nahe Angehörige und sonstige Beziehungen in und zu Staaten, in denen nach Feststellung des Bundesministeriums des Innern, für Bau und Heimat besondere Sicherheitsrisiken für die mit sicherheitsempfindlicher Tätigkeit befassten Personen zu besorgen sind,
 
@@ -605,8 +584,7 @@ Außerdem sind zwei aktuelle Lichtbilder der betroffenen Person mit der Angabe d
 
 (6) Die Sicherheitserklärung ist von der betroffenen Person der zuständigen Stelle zuzuleiten. Sie prüft die Angaben der betroffenen Person auf ihre Vollständigkeit und Richtigkeit. Zu diesem Zweck kann die Personalakte eingesehen werden. Die zuständige Stelle leitet die Sicherheitserklärung an die mitwirkende Behörde weiter und beauftragt diese, eine Sicherheitsüberprüfung durchzuführen, es sei denn, die zuständige Stelle hat bereits bei der Prüfung der Sicherheitserklärung festgestellt, daß ein Sicherheitsrisiko vorliegt, das einer sicherheitsempfindlichen Tätigkeit entgegensteht. Die mitwirkende Behörde kann mit Zustimmung der zuständigen Stelle und der betroffenen Person in die Personalakte Einsicht nehmen, wenn dies zur Klärung oder Beurteilung sicherheitserheblicher Erkenntnisse unerläßlich ist.
 
-
-## § 14 – Abschluß der Sicherheitsüberprüfung
+# § 14 – Abschluß der Sicherheitsüberprüfung
 
 (1) Kommt die mitwirkende Behörde zu dem Ergebnis, daß kein Sicherheitsrisiko nach § 5 Abs. 1 vorliegt, so teilt sie dies der zuständigen Stelle mit. Fallen Erkenntnisse an, die kein Sicherheitsrisiko begründen, aber weiterhin sicherheitserheblich sind, so werden diese mitgeteilt.
 
@@ -626,8 +604,7 @@ Außerdem sind zwei aktuelle Lichtbilder der betroffenen Person mit der Angabe d
 
 Ohne eine abgeschlossene Sicherheitsüberprüfung, die zum Ergebnis hat, dass kein Sicherheitsrisiko vorliegt, darf die betroffene Person nicht mit einer sicherheitsempfindlichen Tätigkeit betraut werden. § 2 Absatz 1 Satz 5, § 8 Absatz 2, § 9 Absatz 2 und 3 und § 15 bleiben unberührt.
 
-
-## § 15 – Vorläufige Zuweisung einer sicherheitsempfindlichen Tätigkeit
+# § 15 – Vorläufige Zuweisung einer sicherheitsempfindlichen Tätigkeit
 
 Die zuständige Stelle kann in Ausnahmefällen abweichend von § 2 Absatz 1 die betroffene Person vor Abschluss der Sicherheitsüberprüfung mit einer sicherheitsempfindlichen Tätigkeit betrauen, wenn die mitwirkende Behörde
 
@@ -637,8 +614,7 @@ Die zuständige Stelle kann in Ausnahmefällen abweichend von § 2 Absatz 1 die 
 
 und sich daraus keine tatsächlichen Anhaltspunkte für ein Sicherheitsrisiko ergeben haben.
 
-
-## § 15a – Unterrichtung durch die personalverwaltende Stelle
+# § 15a – Unterrichtung durch die personalverwaltende Stelle
 
 Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfung zuständige Stelle unverzüglich über Veränderungen der persönlichen, dienstlichen und arbeitsrechtlichen Verhältnisse der Personen, die mit einer sicherheitsempfindlichen Tätigkeit betraut werden sollen oder bereits betraut sind. Dazu zählen:
 
@@ -654,8 +630,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 6. sonstige Erkenntnisse, die für die sicherheitsmäßige Beurteilung erheblich sein können.
 
-
-## § 16 – Sicherheitserhebliche Erkenntnisse nach Abschluß der Sicherheitsüberprüfung
+# § 16 – Sicherheitserhebliche Erkenntnisse nach Abschluß der Sicherheitsüberprüfung
 
 (1) Die zuständige Stelle und die mitwirkende Behörde haben sich unverzüglich gegenseitig zu unterrichten, wenn sicherheitserhebliche Erkenntnisse über die betroffene Person oder die mitbetroffene Person bekanntwerden oder sich mitgeteilte Erkenntnisse als unrichtig erweisen.
 
@@ -663,8 +638,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 (3) Liegt eine sicherheitserhebliche Erkenntnis vor, kann die zuständige Stelle die weitere Betrauung der betroffenen Person mit der sicherheitsempfindlichen Tätigkeit bis zu einer endgültigen Entscheidung über das Vorliegen eines Sicherheitsrisikos untersagen, sofern die besondere Bedeutung der Erkenntnis und die Art der sicherheitsempfindlichen Tätigkeit dies erfordern und die Untersagung keinen Aufschub duldet. § 6 Absatz 1 und 2 bleibt unberührt.
 
-
-## § 17 – Aktualisierung und Wiederholungsüberprüfung
+# § 17 – Aktualisierung und Wiederholungsüberprüfung
 
 (1) Die Sicherheitserklärung ist der betroffenen Person, die eine sicherheitsempfindliche Tätigkeit ausübt, in der Regel nach fünf Jahren erneut zuzuleiten und im Falle eingetretener Veränderungen von der betroffenen Person zu aktualisieren. Die zuständige Stelle prüft die Aktualisierungen auf ihre Vollständigkeit und Richtigkeit; § 13 Absatz 6 Satz 3 gilt entsprechend. Die zuständige Stelle beauftragt die mitwirkende Behörde, die Maßnahmen nach § 12 Absatz 1 im erforderlichen Umfang für die betroffene Person und für die mitbetroffene Person erneut durchzuführen und zu bewerten.
 
@@ -678,8 +652,7 @@ Die personalverwaltende Stelle unterrichtet die für die Sicherheitsüberprüfun
 
 (3) Verweigert die betroffene Person oder die mitbetroffene Person die erforderliche Mitwirkung bei den Maßnahmen nach den Absätzen 1 und 2, ist die weitere Betrauung der betroffenen Person mit einer sicherheitsempfindlichen Tätigkeit unzulässig. § 14 Absatz 5 Satz 2 gilt entsprechend.
 
-
-## § 18 – Sicherheitsakte und Sicherheitsüberprüfungsakte
+# § 18 – Sicherheitsakte und Sicherheitsüberprüfungsakte
 
 (1) Die zuständige Stelle führt über die betroffene Person eine Sicherheitsakte, in die alle die Sicherheitsüberprüfung betreffenden Informationen aufzunehmen sind.
 
@@ -721,8 +694,7 @@ Die in Absatz 2 Nummer 5 und 6 genannten Daten sind zur Sicherheitsüberprüfung
 
 (8) Der Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz und der Militärische Abschirmdienst dürfen bei der Sicherheitsüberprüfung von Personen im Sinne des § 3 Absatz 3 die Sicherheitsakte zusammen mit der Sicherheitsüberprüfungsakte in einem gemeinsamen Aktenvorgang unter Beachtung der für die jeweiligen Akten geltenden unterschiedlichen Verwendungs- und Auskunftsregelungen führen.
 
-
-## § 19 – Aufbewahrung und Vernichtung der Unterlagen
+# § 19 – Aufbewahrung und Vernichtung der Unterlagen
 
 (1) Die Unterlagen über die Sicherheitsüberprüfung sind gesondert aufzubewahren und gegen unbefugten Zugriff zu schützen.
 
@@ -742,8 +714,7 @@ Im Falle des Satzes 3 Nummer 4 ist die Verarbeitung der Daten einzuschränken; d
 
 (4) Das Bundesarchivgesetz findet auf die Unterlagen der Sicherheitsüberprüfung keine Anwendung.
 
-
-## § 20 – Speichern, Verändern und Nutzen personenbezogener Daten in Dateien
+# § 20 – Speichern, Verändern und Nutzen personenbezogener Daten in Dateien
 
 (1) Die zuständige Stelle darf zur Erfüllung ihrer Aufgaben nach diesem Gesetz die in § 13 Abs. 1 Nr. 1 bis 6 genannten personenbezogenen Daten, ihre Aktenfundstelle und die der mitwirkenden Behörde sowie die Beschäftigungsstelle, Verfügungen zur Bearbeitung des Vorganges und beteiligte Behörden in Dateien speichern, verändern und nutzen.
 
@@ -757,8 +728,7 @@ Im Falle des Satzes 3 Nummer 4 ist die Verarbeitung der Daten einzuschränken; d
 
 in Dateien speichern, verändern und nutzen. Die Daten nach Nummer 1 dürfen auch in die nach § 6 Absatz 2 des Bundesverfassungsschutzgesetzes zulässigen Verbunddateien gespeichert werden.
 
-
-## § 21 – Übermittlung und Zweckbindung
+# § 21 – Übermittlung und Zweckbindung
 
 (1) Die im Rahmen der Sicherheitsüberprüfung gespeicherten personenbezogenen Daten dürfen von der zuständigen Stelle oder mitwirkenden Behörde nur für
 
@@ -782,8 +752,7 @@ genutzt und übermittelt werden. Die Übermittlung und Nutzung nach Satz 1 Numme
 
 (5) Der Empfänger darf die übermittelten Daten nur für den Zweck speichern, nutzen, verändern und übermitteln, zu dessen Erfüllung sie ihm übermittelt werden, und zum Zweck der Strafverfolgung gemäß Absatz 1 Satz 1 Nummer 4. Eine nicht-öffentliche Stelle ist darauf hinzuweisen.
 
-
-## § 22 – Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten
+# § 22 – Berichtigen, Löschen und Einschränken der Verarbeitung personenbezogener Daten
 
 (1) Die zuständige Stelle und die mitwirkende Behörde haben personenbezogene Daten zu berichtigen, wenn sie unrichtig sind. Wird festgestellt, daß personenbezogene Daten unrichtig sind oder wird ihre Richtigkeit von der betroffenen Person bestritten, so ist dies, soweit sich die personenbezogenen Daten in Akten befinden, dort zu vermerken oder auf sonstige Weise festzuhalten.
 
@@ -821,8 +790,7 @@ Im Falle des Satzes 1 Nummer 4 ist die Verarbeitung der Daten einzuschränken. S
 
 (4) Das Bundesarchivgesetz findet auf in Dateien gespeicherte personenbezogene Daten keine Anwendung.
 
-
-## § 23 – Auskunft über gespeicherte personenbezogene Daten
+# § 23 – Auskunft über gespeicherte personenbezogene Daten
 
 (1) Auf Antrag ist von der zuständigen Stelle oder mitwirkenden Behörde unentgeltlich Auskunft zu erteilen, welche Daten über die anfragende Person im Rahmen der Sicherheitsüberprüfung gespeichert wurden.
 
@@ -846,8 +814,7 @@ und deswegen das Interesse der anfragenden Person an der Auskunftserteilung zur�
 
 (7) (weggefallen)
 
-
-## § 24 – Anwendungsbereich
+# § 24 – Anwendungsbereich
 
 (1) Die Sonderregelungen dieses Abschnitts gelten bei Sicherheitsüberprüfungen von betroffenen Personen, die
 
@@ -857,8 +824,7 @@ und deswegen das Interesse der anfragenden Person an der Auskunftserteilung zur�
 
 (2) Sofern sicherheitsempfindliche Tätigkeiten im Sinne von § 1 Absatz 2 Nummer 1 bis 4 durch nichtöffentliche Stellen in öffentlichen Stellen durchgeführt werden, finden diese Sonderregelungen nur mit Zustimmung des Bundesministeriums für Wirtschaft und Energie Anwendung.
 
-
-## § 25 – Zuständigkeit
+# § 25 – Zuständigkeit
 
 (1) Zuständige Stelle für sicherheitsempfindliche Tätigkeiten nach § 1 Absatz 2 Nummer 1 bis 4 ist das Bundesministerium für Wirtschaft und Energie, soweit gesetzlich nichts anderes bestimmt ist und nicht im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie eine andere Bundesbehörde die Aufgabe als zuständige Stelle wahrnimmt.
 
@@ -876,13 +842,11 @@ und deswegen das Interesse der anfragenden Person an der Auskunftserteilung zur�
 
 (5) § 3 Absatz 1a gilt für die nichtöffentliche Stelle entsprechend. Die zuständige Stelle kann Ausnahmen von § 3 Absatz 1a zulassen, wenn die nichtöffentliche Stelle sich verpflichtet, Informationen, die ihr im Rahmen der Sicherheitsüberprüfung bekannt werden, nur für solche Zwecke zu gebrauchen, die mit der Sicherheitsüberprüfung verfolgt werden.
 
-
-## § 26 – Sicherheitserklärung
+# § 26 – Sicherheitserklärung
 
 Abweichend von § 13 Absatz 6 Satz 1 leitet die betroffene Person ihre Sicherheitserklärung der nicht-öffentlichen Stelle zu, in der sie beschäftigt ist oder beschäftigt werden soll. Die Sicherheitserklärung kann in den Fällen des Satzes 1 mit Zustimmung der zuständigen Stelle auch der nichtöffentlichen Stelle zugeleitet werden, bei der die betroffene Person tätig werden soll. Die Zustimmung der mitbetroffenen Person ist beizufügen. Die nicht-öffentliche Stelle prüft die Vollständigkeit und Richtigkeit der Angaben und darf, soweit dies erforderlich ist, die Personalunterlagen beiziehen. Sie gibt die Sicherheitserklärung an die zuständige Stelle weiter und teilt dieser vorhandene sicherheitserhebliche Erkenntnisse mit.
 
-
-## § 27 – Abschluß der Sicherheitsüberprüfung, Weitergabe sicherheitserheblicher Erkenntnisse
+# § 27 – Abschluß der Sicherheitsüberprüfung, Weitergabe sicherheitserheblicher Erkenntnisse
 
 Die zuständige Stelle unterrichtet die nichtöffentliche Stelle nur darüber, dass die betroffene Person
 
@@ -892,15 +856,13 @@ Die zuständige Stelle unterrichtet die nichtöffentliche Stelle nur darüber, d
 
 Erkenntnisse, die die Ablehnung oder Aufhebung der Ermächtigung zur sicherheitsempfindlichen Tätigkeit oder der Betrauung mit der sicherheitsempfindlichen Tätigkeit betreffen, dürfen nicht mitgeteilt werden. Sofern es zu dem mit der Überprüfung verfolgten Zweck zwingend erforderlich ist, können abweichend von Satz 2 sicherheitserhebliche Erkenntnisse an die nicht-öffentliche Stelle übermittelt werden und dürfen von ihr ausschließlich zu diesem Zweck genutzt werden. Die nicht-öffentliche Stelle hat die zuständige Stelle unverzüglich zu unterrichten, wenn sicherheitserhebliche Erkenntnisse über die betroffene Person oder die mitbetroffene Person bekanntwerden.
 
-
-## § 28 – Aktualisierung
+# § 28 – Aktualisierung
 
 (1) Die nicht-öffentliche Stelle leitet der betroffenen Person, die eine sicherheitsempfindliche Tätigkeit ausübt, auf Anforderung der zuständigen Stelle die Sicherheitserklärung in der Regel nach fünf Jahren erneut zu.
 
 (2) Die betroffene Person hat die in der Sicherheitserklärung angegebenen Daten im Falle eingetretener Veränderungen zu aktualisieren. Die nichtöffentliche Stelle prüft die Vollständigkeit und Richtigkeit der Aktualisierungen und darf, sofern dies erforderlich ist, die Personalunterlagen beiziehen. Die zuständige Stelle beauftragt die mitwirkende Behörde, die Maßnahmen nach § 12 Absatz 1 im erforderlichen Umfang für die betroffene Person und für die mitbetroffene Person erneut durchzuführen und zu bewerten.
 
-
-## § 29 – Übermittlung von Informationen über persönliche und arbeitsrechtliche Verhältnisse
+# § 29 – Übermittlung von Informationen über persönliche und arbeitsrechtliche Verhältnisse
 
 (1) Die nichtöffentliche Stelle hat der zuständigen Stelle unverzüglich mitzuteilen
 
@@ -914,18 +876,15 @@ Erkenntnisse, die die Ablehnung oder Aufhebung der Ermächtigung zur sicherheits
 
 (2) § 2 Absatz 2 Satz 6 und 7, § 14 Absatz 4 Satz 1 und § 15a gelten mit der Maßgabe, dass an die Stelle der zuständigen Stelle die nichtöffentliche Stelle tritt. Für Sicherheitsüberprüfungen nach § 9 Absatz 1 Nummer 3 gilt die Unterrichtungspflicht nach § 15a nur für Veränderungen nach § 15a Satz 2 Nummer 1, 2, 4 und 6.
 
-
-## § 30 – Sicherheitsakte der nicht-öffentlichen Stelle
+# § 30 – Sicherheitsakte der nicht-öffentlichen Stelle
 
 Für die Sicherheitsakte in der nicht-öffentlichen Stelle gelten die Vorschriften dieses Gesetzes über die Sicherheitsakte entsprechend mit der Maßgabe, daß die Sicherheitsakte der nicht-öffentlichen Stelle bei einem Wechsel des Arbeitgebers nicht abgegeben wird.
 
-
-## § 31 – Datenverarbeitung in automatisierten Dateien
+# § 31 – Datenverarbeitung in automatisierten Dateien
 
 Die nicht-öffentliche Stelle darf die nach diesem Gesetz zur Erfüllung ihrer Aufgaben erforderlichen personenbezogenen Daten der betroffenen Person in automatisierten Dateien speichern, verändern und nutzen. Die für die zuständige Stelle geltenden Vorschriften zur Berichtigung, Löschung und Sperrung finden Anwendung.
 
-
-## § 32 – Reisebeschränkungen
+# § 32 – Reisebeschränkungen
 
 (1) Personen, die eine sicherheitsempfindliche Tätigkeit ausüben, die eine Sicherheitsüberprüfung nach den § 9 Absatz 1 Nummer 1 und 2 und § 10 erfordert, können verpflichtet werden, Dienst- und Privatreisen in und durch Staaten, für die besondere Sicherheitsregelungen gelten, der zuständigen Stelle oder der nicht-öffentlichen Stelle rechtzeitig vorher anzuzeigen. Die Verpflichtung kann auch für die Zeit nach dem Ausscheiden aus der sicherheitsempfindlichen Tätigkeit angeordnet werden.
 
@@ -933,8 +892,7 @@ Die nicht-öffentliche Stelle darf die nach diesem Gesetz zur Erfüllung ihrer A
 
 (3) Ergeben sich bei einer Reise in und durch Staaten, für die besondere Sicherheitsregelungen gelten, Anhaltspunkte, die auf einen Anbahnungs- und Werbungsversuch ausländischer Nachrichtendienste hindeuten können, so ist die zuständige Stelle nach Abschluß der Reise unverzüglich zu unterrichten.
 
-
-## § 33 – Sicherheitsüberprüfung auf Antrag ausländischer Dienststellen
+# § 33 – Sicherheitsüberprüfung auf Antrag ausländischer Dienststellen
 
 (1) Ersucht eine ausländische Dienststelle die mitwirkenden Behörden um die Mitwirkung bei einer Sicherheitsüberprüfung, so richtet sie sich nach den Bestimmungen dieses Gesetzes, soweit nicht in Rechtsvorschriften über- oder zwischenstaatlicher Einrichtungen oder völkerrechtlichen Verträgen, denen die gesetzgebenden Körperschaften gemäß Artikel 59 Abs. 2 des Grundgesetzes zugestimmt haben, etwas anderes bestimmt ist.
 
@@ -942,8 +900,7 @@ Die nicht-öffentliche Stelle darf die nach diesem Gesetz zur Erfüllung ihrer A
 
 (3) Die ausländische Dienststelle ist darauf hinzuweisen, daß die im Rahmen der Sicherheitsüberprüfung übermittelten personenbezogenen Daten nur für Zwecke der Sicherheitsüberprüfung verwendet werden dürfen und die mitwirkende Behörde sich vorbehält, um Auskunft über die vorgenommene Verwendung der Daten zu bitten.
 
-
-## § 34 – Verordnungsermächtigung
+# § 34 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates festzustellen,
 
@@ -953,8 +910,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 
 3. welche Behörden oder sonstigen öffentlichen Stellen des Bundes Aufgaben im Sinne des § 10 Nummer 3 wahrnehmen.
 
-
-## § 35 – Allgemeine Verwaltungsvorschriften
+# § 35 – Allgemeine Verwaltungsvorschriften
 
 (1) Die allgemeinen Verwaltungsvorschriften zur Ausführung dieses Gesetzes erläßt das Bundesministerium des Innern, für Bau und Heimat, soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist.
 
@@ -964,8 +920,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 
 (4) Die allgemeinen Verwaltungsvorschriften zur Ausführung dieses Gesetzes bei den Nachrichtendiensten des Bundes erläßt die jeweils zuständige oberste Bundesbehörde im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat.
 
-
-## § 36 – Anwendung des Bundesdatenschutzgesetzes, Bundesverfassungsschutzgesetzes, MAD-Gesetzes und BND-Gesetzes
+# § 36 – Anwendung des Bundesdatenschutzgesetzes, Bundesverfassungsschutzgesetzes, MAD-Gesetzes und BND-Gesetzes
 
 (1) Die Vorschriften des Bundesdatenschutzgesetzes finden wie folgt Anwendung:
 
@@ -975,8 +930,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 
 (2) Die Vorschriften des Ersten Abschnitts und die §§ 14 und 23 Nummer 3 des Bundesverfassungsschutzgesetzes auch in Verbindung mit § 12 des MAD-Gesetzes und § 31 des BND-Gesetzes sowie die §§ 1, 8 und § 10 Absatz 2 Satz 2 bis 6 des MAD-Gesetzes und § 21 des BND-Gesetzes finden Anwendung.
 
-
-## § 36a – Unabhängige Datenschutzkontrolle
+# § 36a – Unabhängige Datenschutzkontrolle
 
 (1) Jede Person kann sich an die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit wenden, wenn sie der Ansicht ist, bei der Verarbeitung ihrer personenbezogenen Daten nach diesem Gesetz durch öffentliche oder nichtöffentliche Stellen in ihren Rechten verletzt worden zu sein.
 
@@ -990,8 +944,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 
 Dies gilt nicht, soweit die zuständige oberste Bundesbehörde im Einzelfall feststellt, dass die Auskunft oder Einsicht die Sicherheit des Bundes oder eines Landes gefährden würde.
 
-
-## § 37 – Strafvorschriften
+# § 37 – Strafvorschriften
 
 (1) Wer unbefugt von diesem Gesetz geschützte personenbezogene Daten, die nicht offenkundig sind,
 
@@ -1013,12 +966,10 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (4) Die Tat wird nur auf Antrag verfolgt.
 
-
-## § 38 – Übergangsregelung
+# § 38 – Übergangsregelung
 
 Bei Sicherheitsüberprüfungsverfahren von betroffenen Personen, die vor dem 1. Januar 2007 mit einer sicherheitsempfindlichen Tätigkeit betraut wurden und für die in den vergangenen zehn Jahren vor dem 21. Juni 2017 keine Wiederholungsüberprüfung durchgeführt wurde, gilt bis zum 21. Juni 2022 § 17 Absatz 2 Satz 1 mit der Maßgabe, dass die Wiederholungsüberprüfung an die Stelle der nächsten regulären Aktualisierung tritt.
 
-
-## § 39 – Inkrafttreten
+# § 39 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

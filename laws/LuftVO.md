@@ -1,12 +1,7 @@
-# [LuftVO] Luftverkehrs-Ordnung  (LuftVO)
-
-Ausfertigungsdatum: 29.10.2015
-
+% Luftverkehrs-Ordnung  (LuftVO)
+% Ausfertigungsdatum: 29.10.2015
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -52,20 +47,19 @@ Ausfertigungsdatum: 29.10.2015
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Voraussetzungen und Bedingungen für die Teilnahme am Luftverkehr in der Bundesrepublik Deutschland, soweit die Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung nicht anwendbar ist oder keine Regelung enthält.
 
-
-## § 2 – Maßeinheiten
+# § 2 – Maßeinheiten
 
 (1) Im Flugbetrieb sind die Maßeinheiten anzuwenden, die das Bundesaufsichtsamt für Flugsicherung festlegt.
 
 (2) Für Ortsbestimmungen im Luftverkehr ist als Bezugssystem das Geodätische Welt-System 84 (World Geodetic System 1984 – WGS 84) anzuwenden.
 
-
-## § 3 – Zuständige Behörde nach Artikel 4 der Durchführungsverordnung (EU) Nr. 923/2012
+# § 3 – Zuständige Behörde nach Artikel 4 der Durchführungsverordnung (EU) Nr. 923/2012
 
 Zuständig für die Gewährung von Ausnahmen für besonderen Flugbetrieb ist nach
 
@@ -79,23 +73,19 @@ b) bei Flügen nach Instrumentenflugregeln das Bundesaufsichtsamt für Flugsiche
 
 3. Artikel 4 Absatz 1 Buchstabe h der Durchführungsverordnung (EU) Nr. 923/2012 das Bundesaufsichtsamt für Flugsicherung.
 
-
-## § 4 – Körperliche und geistige Beeinträchtigungen
+# § 4 – Körperliche und geistige Beeinträchtigungen
 
 Wer infolge geistiger oder körperlicher Beeinträchtigungen in der Wahrnehmung der Aufgaben als Führer eines Luftfahrzeugs oder sonst als Mitglied der Besatzung eingeschränkt ist, darf kein Luftfahrzeug führen und nicht als anderes Besatzungsmitglied tätig sein. Das Verbot in Anhang SERA.2020 der Durchführungsverordnung (EU) Nr. 923/2012 bleibt hiervon unberührt.
 
-
-## § 5 – Lärm
+# § 5 – Lärm
 
 Der Lärm, der bei dem Betrieb eines Luftfahrzeugs verursacht wird, darf nicht stärker sein, als es die ordnungsgemäße Führung oder Bedienung des Luftfahrzeugs unvermeidbar erfordert.
 
-
-## § 6 – Mitführung von Urkunden und Ausweisen
+# § 6 – Mitführung von Urkunden und Ausweisen
 
 Die Verpflichtung, die für den Betrieb eines Luftfahrzeugs erforderlichen Urkunden und Ausweise an Bord eines Luftfahrzeugs mitzuführen, bestimmt sich nach verbindlichen internationalen Vorschriften, nach deutschem Recht und nach dem Recht des Eintragungsstaates des Luftfahrzeugs sowie bei Besatzungsmitgliedern nach dem Recht des Staates, der diese Papiere ausstellt. In jedem Fall sind diese Unterlagen auch in englischer Sprache mitzuführen.
 
-
-## § 7 – Meldung von Unfällen und Störungen
+# § 7 – Meldung von Unfällen und Störungen
 
 (1) Der verantwortliche Luftfahrzeugführer hat Unfälle ziviler Luftfahrzeuge im Sinne von Artikel 2 Nummer 1 der Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates vom 20. Oktober 2010 über die Untersuchung und Verhütung von Unfällen und Störungen in der Zivilluftfahrt und zur Aufhebung der Richtlinie 94/56/EG (ABl. L 295 vom 12.11.2010, S. 35) in der jeweils geltenden Fassung, die sich im Hoheitsgebiet der Bundesrepublik Deutschland ereignet haben, unverzüglich der Bundesstelle für Flugunfalluntersuchung zu melden. Falls der Luftfahrzeugführer nicht in der Lage ist, muss ein anderes Besatzungsmitglied die Meldung nach Satz 1 machen oder, sofern keines der anderen Besatzungsmitglieder dazu in der Lage ist, der Halter des Luftfahrzeugs. Die Meldepflicht nach Satz 1 gilt auch für Unfälle deutscher Luftfahrzeuge außerhalb der Bundesrepublik Deutschland und für Unfälle ausländischer Luftfahrzeuge, die zur Zeit des Ereignisses von deutschen Luftfahrtunternehmen betrieben werden. Die Meldepflicht gilt nicht für Luftsportgeräte.
 
@@ -133,8 +123,7 @@ Der Halter des Luftfahrzeugs ist verpflichtet, auf Verlangen der Bundesstelle f�
 
 (7) Unfälle und Störungen bei dem Betrieb von Luftsportgeräten hat der Luftsportgeräteführer unverzüglich dem nach § 31c des Luftverkehrsgesetzes Beauftragten schriftlich oder elektronisch zu melden. Absatz 1 Satz 2 und die Absätze 4 und 5 gelten entsprechend.
 
-
-## § 8 – Startverbote
+# § 8 – Startverbote
 
 (1) Wird auf Grund des Ergebnisses einer luftaufsichtsrechtlichen Untersuchung ein Startverbot für ein Luftfahrzeug, das nicht in einem deutschen Luftfahrzeugregister eingetragen ist, verhängt, so hat die für die Gewährung der Verkehrsrechte zuständige Behörde unverzüglich den betreffenden Eintragungsstaat über die Untersuchungsergebnisse, die zur Verhängung des Startverbots führten, zu unterrichten. Falls der Eintragungsstaat nicht die Aufsicht über den Flugbetrieb dieses Luftfahrzeugs führt, ist der Staat zu unterrichten, der für die Aufsicht über den Flugbetrieb dieses Luftfahrzeugs zuständig ist. Die Bewertung des unterrichteten Staates ist bei der Entscheidung über die Aufrechterhaltung des Startverbots zu berücksichtigen.
 
@@ -148,8 +137,7 @@ Der Halter des Luftfahrzeugs ist verpflichtet, auf Verlangen der Bundesstelle f�
 
 (6) Die Übermittlung der Daten, auf die sich das Untersuchungsergebnis nach den Absätzen 1 bis 5 stützt, richtet sich nach § 29 Absatz 5 und 6 des Luftverkehrsgesetzes.
 
-
-## § 9 – Meldung von sicherheitsrelevanten Ereignissen
+# § 9 – Meldung von sicherheitsrelevanten Ereignissen
 
 (1) Ein Ereignis, das ein Luftfahrzeug, seine Insassen oder Dritte gefährdet hat oder, wenn keine Gegenmaßnahmen ergriffen werden, gefährden würde (sicherheitsrelevantes Ereignis), ist dem Luftfahrt-Bundesamt zu melden von
 
@@ -177,8 +165,7 @@ b) eines gewerbsmäßig betriebenen Luftfahrzeugs mit einer höchstzulässigen S
 
 (4) Die Pflicht, Unfälle und schwere Störungen nach § 7 zu melden, und andere Pflichten zur Abgabe von Meldungen an das Luftfahrt-Bundesamt und an andere Luftfahrtbehörden auf Grund anderer Vorschriften oder Auflagen bleiben unberührt.
 
-
-## § 10 – Register für sicherheitsrelevante Ereignisse
+# § 10 – Register für sicherheitsrelevante Ereignisse
 
 (1) Das Luftfahrt-Bundesamt führt ein Register zur Erfassung, Verarbeitung, Auswertung und Speicherung der ihm gemeldeten sicherheitsrelevanten Ereignisse.
 
@@ -212,20 +199,17 @@ Nicht gespeichert werden
 
 (4) Das Luftfahrt-Bundesamt ermöglicht allen zuständigen Stellen, die für die Aufsicht in der Zivilluftfahrt oder für die Untersuchung von Unfällen und Störungen in der Zivilluftfahrt innerhalb der Europäischen Union eingerichtet und von den Mitgliedstaaten benannt sind, sowie der Europäischen Kommission den Zugriff auf die in der Ereignisdatei gespeicherten Informationen.
 
-
-## § 11 – Abweichung von Höchstgeschwindigkeiten
+# § 11 – Abweichung von Höchstgeschwindigkeiten
 
 (1) Der Luftfahrzeugführer ist verpflichtet, die in Anhang SERA.6001 Buchstabe c bis g der Durchführungsverordnung (EU) Nr. 923/2012 beschriebenen Geschwindigkeitsbegrenzungen einzuhalten.
 
 (2) Das Bundesaufsichtsamt für Flugsicherung kann für Luftfahrzeugmuster, die aus technischen oder Sicherheitsgründen die in Anhang SERA.6001 Buchstabe c bis g der Durchführungsverordnung (EU) Nr. 923/2012 beschriebenen Geschwindigkeitsbeschränkungen nicht einhalten können, Ausnahmen zulassen.
 
-
-## § 12 – Zuständige Behörde nach Anhang SERA.3210 der Durchführungsverordnung (EU) Nr. 923/2012
+# § 12 – Zuständige Behörde nach Anhang SERA.3210 der Durchführungsverordnung (EU) Nr. 923/2012
 
 Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebenen Mindestabstände zwischen Fahrzeugen und rollenden Luftfahrzeugen nach Anhang SERA.3210 Buchstabe d Nummer 4 Ziffer ii Buchstabe B der Durchführungsverordnung (EU) Nr. 923/2012 ist das Bundesaufsichtsamt für Flugsicherung.
 
-
-## § 13 – Abwerfen von Gegenständen oder sonstigen Stoffen
+# § 13 – Abwerfen von Gegenständen oder sonstigen Stoffen
 
 (1) Das Abwerfen oder Ablassen von Gegenständen oder sonstigen Stoffen aus oder von Luftfahrzeugen ist verboten. Dies gilt nicht für Ballast in Form von Wasser oder feinem Sand, Treibstoffe, Schleppseile, Schleppbanner und ähnliche Gegenstände, wenn sie an Stellen abgeworfen oder abgelassen werden, an denen eine Gefahr für Personen oder Sachen nicht besteht.
 
@@ -233,8 +217,7 @@ Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebe
 
 (3) Das Abwerfen von Post regelt das Bundesministerium für Wirtschaft und Energie oder die von ihm bestimmte Stelle im Einvernehmen mit der zuständigen Luftfahrtbehörde des Landes.
 
-
-## § 14 – Kunstflüge
+# § 14 – Kunstflüge
 
 (1) Kunstflüge dürfen nur bei Flugverhältnissen, bei denen nach Sichtflugregeln geflogen werden darf, und nur mit ausdrücklicher Zustimmung aller Insassen des Luftfahrzeugs ausgeführt werden. Kunstflüge mit Luftsportgeräten sind verboten.
 
@@ -244,8 +227,7 @@ Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebe
 
 (4) Für Kunstflüge im kontrollierten Luftraum und über Flugplätzen mit Flugverkehrskontrollstelle ist der zuständigen Flugverkehrskontrollstelle ein Flugplan zu übermitteln.
 
-
-## § 15 – Schlepp- und Reklameflüge
+# § 15 – Schlepp- und Reklameflüge
 
 (1) Reklameflüge mit geschleppten Gegenständen bedürfen der Erlaubnis der Luftfahrtbehörde des Landes, in dem der Luftfahrzeugführer seinen Wohnsitz oder Sitz hat. Die Erlaubnis darf nur erteilt werden, wenn
 
@@ -265,8 +247,7 @@ Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebe
 
 (5) Flüge zur Reklame mit akustischen Mitteln sind verboten.
 
-
-## § 16 – Luftraumordnung
+# § 16 – Luftraumordnung
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur legt Folgendes fest:
 
@@ -282,15 +263,13 @@ Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebe
 
 (3) Die Flugsicherungsorganisation kann zur Durchführung von militärischem Flugverkehr in Lufträumen, in denen auch für Flüge nach Sichtflugregeln eine Flugverkehrskontrollfreigabe erforderlich ist, zeitlich begrenzt Gebiete festlegen, in denen Flüge nach Sicht- und Instrumentenflugregeln ganz oder teilweise untersagt sind oder Beschränkungen unterliegen, wenn dies zur Abwehr von Gefahren für die Sicherheit des Luftverkehrs erforderlich ist.
 
-
-## § 17 – Luftsperrgebiete und Gebiete mit Flugbeschränkungen
+# § 17 – Luftsperrgebiete und Gebiete mit Flugbeschränkungen
 
 (1) Zuständig für die Festlegung von Luftsperrgebieten und Gebieten mit Flugbeschränkungen sowie für die Genehmigung von Abweichungen in Gebieten mit Flugbeschränkungen nach Anhang SERA.3145 der Durchführungsverordnung (EU) Nr. 923/2012 ist das Bundesministerium für Verkehr und digitale Infrastruktur. Es legt die Luftsperrgebiete und Gebiete mit Flugbeschränkungen fest, wenn dies zur Abwehr von Gefahren für die öffentliche Sicherheit oder Ordnung, insbesondere für die Sicherheit des Luftverkehrs, erforderlich ist.
 
 (2) Gebiete mit Flugbeschränkungen dürfen durchflogen werden, soweit die Beschränkungen dies zulassen oder das Bundesaufsichtsamt für Flugsicherung allgemein oder die zuständige Flugverkehrskontrollstelle im Einzelfall den Durchflug genehmigt hat. Die Genehmigung kann mit Nebenbestimmungen versehen werden. Sie kann insbesondere mit Auflagen verbunden werden.
 
-
-## § 18 – Erlaubnisbedürftige Außenstarts und Außenlandungen
+# § 18 – Erlaubnisbedürftige Außenstarts und Außenlandungen
 
 (1) Starts und Landungen von Luftfahrzeugen außerhalb der für sie genehmigten Flugplätze (Außenstart und Außenlandung) nach § 25 des Luftverkehrsgesetzes bedürfen der Erlaubnis der örtlich zuständigen Luftfahrtbehörde des Landes, soweit nicht der Beauftragte nach § 31c des Luftverkehrsgesetzes zuständig ist. Die Erlaubnis für Außenstarts und Außenlandungen von Hängegleitern und Gleitseglern schließt Schleppstarts durch Winden ein.
 
@@ -310,8 +289,7 @@ Zuständig für die Genehmigung der von der Flugsicherungsorganisation vorgegebe
 
 Für Landestellen auf Gebäuden darf eine Genehmigung nur erteilt werden, wenn neben den Voraussetzungen nach Satz 1 mit Ausnahme von Nummer 3 eine einzelfallbezogene Prüfung durch das Luftfahrt-Bundesamt ergeben hat, dass ein für den Betrieb der Dachlandestelle hinreichender Sicherheitsstandard unter Berücksichtigung des vorhandenen Brandschutzes, der Fluchtwege sowie der Tragfähigkeit des Gebäudes gewährleistet ist. Im Übrigen teilt das Luftfahrtunternehmen dem Luftfahrt-Bundesamt innerhalb von 24 Monaten nach Erteilung der Genehmigung nach Satz 1 mit, dass die Landestelle die Anforderungen der Anlage 8 erfüllt. Unterbleibt diese Mitteilung, kann die Genehmigung nach Satz 1 widerrufen werden.
 
-
-## § 19 – Verbotene Nutzung des Luftraums
+# § 19 – Verbotene Nutzung des Luftraums
 
 (1) In einer Entfernung von weniger als 1,5 Kilometern von der Begrenzung von Flugplätzen sind folgende Arten der Nutzung des Luftraums verboten:
 
@@ -335,8 +313,7 @@ b) von ballonartigen Leuchtkörpern, insbesondere von Flug- oder Himmelslaternen
 
 (3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
 
-
-## § 20 – Erlaubnisbedürftige Nutzung des Luftraums
+# § 20 – Erlaubnisbedürftige Nutzung des Luftraums
 
 (1) Die folgenden Arten der Nutzung des Luftraums bedürfen der Erlaubnis:
 
@@ -362,8 +339,7 @@ Der Starter eines Drachens, Schirmdrachens oder unbemannten Fesselballons muss d
 
 (5) Die Erlaubnis kann natürlichen und juristischen Personen oder Personenvereinigungen allgemein oder für den Einzelfall erteilt werden. Sie kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen verbunden werden.
 
-
-## § 21 – Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle
+# § 21 – Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle
 
 (1) Vor der Nutzung des kontrollierten Luftraums und des Luftraums über Flugplätzen mit Flugverkehrskontrollstelle ist bei der zuständigen Flugverkehrskontrollstelle eine Flugverkehrskontrollfreigabe einzuholen für
 
@@ -403,8 +379,7 @@ b) leicht, sofern der Aufstiegsort innerhalb von Flugplatzkontrollzonen liegt un
 
 (3) Landesrechtliche Regelungen, die Aufstiege von ballonartigen Leuchtkörpern verbieten, bleiben unberührt.
 
-
-## § 21a – Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+# § 21a – Erlaubnisbedürftiger Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
 
 (1) Der Betrieb von folgenden unbemannten Luftfahrtsystemen und Flugmodellen bedarf der Erlaubnis:
 
@@ -462,8 +437,7 @@ Der Nachweis wird erbracht durch
 
 (6) Schutzvorschriften insbesondere des Bundesnaturschutzgesetzes, Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden sind oder fortgelten, sowie das Naturschutzrecht der Länder, sowie die Pflicht zur ordnungsgemäßen Flugvorbereitung im Sinne von Anhang SERA.2010 Buchstabe b der Durchführungsverordnung (EU) Nr. 923/2012 bleiben unberührt.
 
-
-## § 21b – Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
+# § 21b – Verbotener Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen
 
 (1) Der Betrieb von unbemannten Luftfahrtsystemen und Flugmodellen ist verboten, sofern er nicht durch eine in § 21a Absatz 2 genannte Stelle oder unter deren Aufsicht erfolgt,
 
@@ -511,13 +485,11 @@ Der Betrieb erfolgt außerhalb der Sichtweite des Steuerers, wenn der Steuerer d
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur evaluiert die Auswirkungen der in Absatz 1 Nummer 8 enthaltenen Höhenbegrenzung auf den Betrieb von bemannten Luftfahrzeugen in dem Höhenband zwischen 50 und 100 Metern über einen Zeitraum von zwei Jahren ab dem 7. April 2017.
 
-
-## § 21c – Zuständige Behörde
+# § 21c – Zuständige Behörde
 
 Zuständige Behörde für die Erteilung der Erlaubnis nach § 21a Absatz 1 sowie für die Erteilung der Ausnahmegenehmigung nach § 21b Absatz 2 und 3 ist die örtlich zuständige Luftfahrtbehörde des Landes.
 
-
-## § 21d – Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen
+# § 21d – Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten; anerkannte Stellen
 
 (1) Die Bescheinigung nach § 21a Absatz 4 Satz 3 Nummer 2 wird von einer nach Absatz 2 anerkannten Stelle nach Bestehen einer Prüfung ausgestellt. Die Bescheinigung gilt fünf Jahre.
 
@@ -547,27 +519,23 @@ Die Anerkennung kann mit Nebenbestimmungen versehen, insbesondere mit Auflagen v
 
 (7) Das Luftfahrt-Bundesamt führt die Aufsicht über die anerkannten Stellen. Beschäftigte des Luftfahrt-Bundesamtes sind hierbei befugt, die Räumlichkeiten der Stellen zu den üblichen Betriebs- und Geschäftszeiten zu betreten und entsprechende Ermittlungen vorzunehmen. Sie sind zu Aufsichtszwecken auch befugt, einer Prüfung beizuwohnen und Einsicht in das Verzeichnis nach Absatz 6 zu nehmen.
 
-
-## § 21e – Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen
+# § 21e – Bescheinigungen zum Nachweis ausreichender Kenntnisse und Fertigkeiten zum Betrieb von Flugmodellen
 
 (1) Die Bescheinigung gemäß § 21a Absatz 4 Satz 3 Nummer 3 für Flugmodelle wird von einem sachkundigen Benannten eines nach den §§ 1 oder 4a der Verordnung zur Beauftragung von Luftsportverbänden beauftragten Luftsportverbandes oder eines von ihm beauftragten Vereins nach einer Einweisung erteilt. Die Bescheinigung gilt fünf Jahre. Die beauftragten Luftsportverbände legen die Vorgaben für das Verfahren der Erteilung der Bescheinigung fest.
 
 (2) Der Bewerber muss das 14. Lebensjahr vollendet haben. Bei Minderjährigkeit ist die Zustimmung des gesetzlichen Vertreters nachzuweisen.
 
-
-## § 21f – Ausweichregeln für unbemannte Fluggeräte
+# § 21f – Ausweichregeln für unbemannte Fluggeräte
 
 Steuerer von unbemannten Luftfahrtsystemen und Flugmodellen haben dafür Sorge zu tragen, dass diese bemannten Luftfahrzeugen und unbemannten Freiballonen im Sinne von Anlage 2 der Durchführungsverordnung (EU) Nr. 923/2012 ausweichen.
 
-
-## § 22 – Regelung des Flugplatzverkehrs
+# § 22 – Regelung des Flugplatzverkehrs
 
 (1) Für die Durchführung des Flugplatzverkehrs auf Flugplätzen mit Flugverkehrskontrollstelle kann die Flugsicherungsorganisation besondere Regelungen treffen. Für alle anderen Flugplätze werden die Regelungen von der für die Genehmigung des Flugplatzes zuständigen Luftfahrtbehörde des Landes getroffen; Grundlage ist eine gutachtliche Stellungnahme der Flugsicherungsorganisation.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur legt die Flugplatzverkehrszonen und die Voraussetzungen für den Einflug in sie und den Ausflug aus ihnen fest. Der Einflug in eine und der Ausflug aus einer Flugplatzverkehrszone bedürfen der Genehmigung. Die Genehmigung gilt als erteilt, wenn die nach Satz 1 festgelegten Voraussetzungen eingehalten werden.
 
-
-## § 23 – Flugbetrieb auf einem Flugplatz und in dessen Umgebung
+# § 23 – Flugbetrieb auf einem Flugplatz und in dessen Umgebung
 
 (1) Wer ein Luftfahrzeug auf einem Flugplatz oder in dessen Umgebung führt, ist verpflichtet, über die in Anhang SERA.3225 der Durchführungsverordnung (EU) Nr. 923/2012 enthaltenen Verpflichtungen hinaus
 
@@ -632,8 +600,7 @@ für Luftfahrzeuge, die auf Flugplätzen mit Flugverkehrskontrollstelle betriebe
 
 Der Motor darf auf Stand nur laufen, wenn außerdem das Fahrwerk genügend gesichert ist. Das Abbremsen der Motoren und das Abrollen von den Hallen sind so vorzunehmen, dass Gebäude, andere Luftfahrzeuge und andere Fahrzeuge kein stärkerer Luftstrom trifft und Personen nicht verletzt werden können. Bei laufendem Motor darf sich niemand vor dem Luftfahrzeug oder in einem für die Sicherheit nicht ausreichenden Abstand vom Luftfahrzeug aufhalten.
 
-
-## § 24 – Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen
+# § 24 – Flugbetrieb mit Flugzeugen zur gewerbsmäßigen Beförderung von Personen oder Sachen
 
 (1) Der Luftfahrzeugführer eines Flugzeugs mit einer Höchstabflugmasse von mehr als 14 000 Kilogramm darf bei Flügen zur gewerbsmäßigen Beförderung von Personen oder Sachen auf einem Flugplatz im Hoheitsgebiet der Bundesrepublik Deutschland nur starten oder landen, wenn
 
@@ -643,8 +610,7 @@ Der Motor darf auf Stand nur laufen, wenn außerdem das Fahrwerk genügend gesic
 
 (2) Die örtlich zuständige Luftfahrtbehörde des Landes kann für einzelne Flüge Ausnahmen von Absatz 1 zulassen, wenn eine Gefahr für die Sicherheit des Luftverkehrs nicht zu erwarten ist. Die Ausnahmen können eingeschränkt, befristet oder mit Auflagen verbunden werden.
 
-
-## § 25 – Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle
+# § 25 – Besondere Regelungen für den Flugbetrieb auf einem Flugplatz mit Flugverkehrskontrollstelle
 
 (1) Ist beim Betrieb eines Luftfahrzeugs an einem Flugplatz mit Flugverkehrskontrolle eine Funkverbindung nicht möglich, so hat der Luftfahrzeugführer auf Anweisungen durch Licht- und Bodensignale sowie auf Zeichen zu achten.
 
@@ -652,8 +618,7 @@ Der Motor darf auf Stand nur laufen, wenn außerdem das Fahrwerk genügend gesic
 
 (3) Auf dem Rollfeld eines Flugplatzes mit Flugverkehrskontrollstelle bedarf auch der Verkehr von Fußgängern und Fahrzeugen der Erlaubnis der Flugverkehrskontrollstelle. Den von der Flugverkehrskontrollstelle zur Sicherung des Flugplatzverkehrs schriftlich, mündlich, elektronisch, durch Funk, Lichtsignale oder Zeichen erlassenen Verfügungen ist Folge zu leisten.
 
-
-## § 26 – Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken
+# § 26 – Beschränkungen der Starts und Landungen von Flugzeugen mit Strahltriebwerken
 
 (1) Flugzeuge mit Strahltriebwerken,
 
@@ -673,8 +638,7 @@ dürfen auf Flugplätzen nur dann starten und landen, wenn sie die in Artikel 6 
 
 (4) Über die Ausnahmeerlaubnis nach den Absätzen 2 und 3 wird vom Luftfahrt-Bundesamt eine Bescheinigung erteilt, die beim Betrieb des Flugzeugs mitzuführen ist.
 
-
-## § 27 – Prüfung der Flugvorbereitung und der vorgeschriebenen Ausweise
+# § 27 – Prüfung der Flugvorbereitung und der vorgeschriebenen Ausweise
 
 (1) Auf Verlangen der für die Wahrnehmung der Luftaufsicht zuständigen Personen oder Stellen hat
 
@@ -684,8 +648,7 @@ dürfen auf Flugplätzen nur dann starten und landen, wenn sie die in Artikel 6 
 
 (2) Vor einem Flug, für den ein Flugplan zu übermitteln ist, ist eine Flugberatung bei einer Flugberatungsstelle einzuholen. Ausgenommen sind Flüge, bei denen der Flugplan während des Flugs übermittelt wird.
 
-
-## § 28 – Festlegung des Flugplans
+# § 28 – Festlegung des Flugplans
 
 (1) Das Bundesaufsichtsamt für Flugsicherung ist zuständig für
 
@@ -709,8 +672,7 @@ e) abweichender Zeiträume im Sinne von Anhang SERA.8020 Buchstabe b Nummer 3 de
 
 2. in denen nach Anhang SERA.4001 Buchstabe b Nummer 3 der Durchführungsverordnung (EU) Nr. 923/2012 der Fluginformationsdienst, der Flugalarmdienst und der Such- und Rettungsdienst bereitgestellt werden.
 
-
-## § 29 – Festlegungen im Funkverkehr
+# § 29 – Festlegungen im Funkverkehr
 
 (1) Das Bundesaufsichtsamt für Flugsicherung ist zuständig für die Festlegung
 
@@ -720,8 +682,7 @@ e) abweichender Zeiträume im Sinne von Anhang SERA.8020 Buchstabe b Nummer 3 de
 
 (2) Der Funkverkehr wird als Sprechfunkverkehr im Flugfunkdienst durchgeführt. Hierbei sind die nach Absatz 1 Nummer 2 festgelegten Verfahren anzuwenden. Zur Teilnahme am Sprechfunkverkehr im Geltungsbereich dieser Verordnung bedarf es ausreichender Kenntnisse der im Sprechfunkverkehr im Flugfunkdienst verwendeten Sprache.
 
-
-## § 30 – Standortmeldungen
+# § 30 – Standortmeldungen
 
 Zuständige Behörde nach Anhang SERA.8025 der Durchführungsverordnung (EU) Nr. 923/2012 ist das Bundesaufsichtsamt für Flugsicherung. Es legt insbesondere Folgendes fest:
 
@@ -733,8 +694,7 @@ Zuständige Behörde nach Anhang SERA.8025 der Durchführungsverordnung (EU) Nr.
 
 4. Form und Verfahren der Standortmeldungen.
 
-
-## § 31 – Flugverkehrskontrollfreigabe
+# § 31 – Flugverkehrskontrollfreigabe
 
 (1) Über die in den Anhängen SERA.5010, SERA.6001 und SERA.8001 der Durchführungsverordnung (EU) Nr. 923/2012 und in § 21 Absatz 1 vorgeschriebenen Fälle hinaus hat der Luftfahrzeugführer eine Flugverkehrskontrollfreigabe für Flüge in einem Gebiet mit Flugbeschränkungen einzuholen, wenn dies auf Grund von § 17 Absatz 1 als Bedingung festgelegt wurde.
 
@@ -748,8 +708,7 @@ Zuständige Behörde nach Anhang SERA.8025 der Durchführungsverordnung (EU) Nr.
 
 (6) Eine Staffelung nach Anhang SERA.8005 Buchstabe b Nummer 5 der Durchführungsverordnung (EU) Nr. 923 /2012 muss zwischen Sonderflügen nach Sichtflugregeln im Sinne des Artikels 2 Nummer 122 der Durchführungsverordnung (EU) Nr. 923/2012 nicht gewährleistet werden. Für diese Flüge erteilt die zuständige Flugverkehrskontrollstelle dem Luftfahrzeugführer die Verkehrsinformation nach Artikel 2 Nummer 132 sowie auf dessen Anforderung eine Ausweichempfehlung nach Artikel 2 Nummer 131 der Durchführungsverordnung (EU) Nr. 923/2012.
 
-
-## § 32 – Start- und Landemeldung
+# § 32 – Start- und Landemeldung
 
 (1) Der Luftfahrzeugführer hat für Flüge, für die ein Flugplan abgegeben wurde, der zuständigen Flugverkehrsdienststelle die tatsächliche Startzeit unverzüglich nach dem Start zu übermitteln. Dies gilt nicht für Starts von Flugplätzen mit Flugverkehrskontrollstelle. Das Bundesaufsichtsamt für Flugsicherung kann Ausnahmen von Satz 1 zulassen.
 
@@ -757,8 +716,7 @@ Zuständige Behörde nach Anhang SERA.8025 der Durchführungsverordnung (EU) Nr.
 
 (3) Absatz 2 gilt entsprechend für die Landemeldungen nach Anhang SERA.4020 der Durchführungsverordnung (EU) Nr. 923/2012.
 
-
-## § 33 – Flugverfahren
+# § 33 – Flugverfahren
 
 (1) Soweit die zuständige Flugverkehrskontrollstelle keine anders lautende Flugverkehrskontrollfreigabe nach § 31 Absatz 3 erteilt, hat der Luftfahrzeugführer bei Flügen innerhalb von Kontrollzonen, bei Anflügen zu und Abflügen von Flugplätzen mit Flugverkehrskontrollstelle sowie bei Flügen nach Instrumentenflugregeln die vorgeschriebenen Flugverfahren zu befolgen.
 
@@ -766,13 +724,11 @@ Zuständige Behörde nach Anhang SERA.8025 der Durchführungsverordnung (EU) Nr.
 
 (3) Zur Abwehr von Gefahren für die Sicherheit des Luftverkehrs sowie für die öffentliche Sicherheit oder Ordnung kann die Flugsicherungsorganisation im Einvernehmen mit dem Bundesaufsichtsamt für Flugsicherung im Einzelfall Flugverfahren durch Allgemeinverfügung festlegen. Bei Gefahr im Verzug kann die Flugsicherungsorganisation die in Satz 1 beschriebene Allgemeinverfügung ohne das Einvernehmen mit dem Bundesaufsichtsamt für Flugsicherung festlegen. Das Einvernehmen ist in einem solchen Fall unverzüglich herzustellen; wird das Einvernehmen nicht bis zum Ablauf des nächsten Arbeitstages im Bundesaufsichtsamt für Flugsicherung hergestellt, hat die Flugsicherungsorganisation die Festlegung des Flugverfahrens aufzuheben. Die Geltungsdauer der Festlegung eines Flugverfahrens durch Allgemeinverfügung darf drei Monate nicht überschreiten.
 
-
-## § 34 – Genehmigung von Flügen oberhalb der Flugfläche 195
+# § 34 – Genehmigung von Flügen oberhalb der Flugfläche 195
 
 Das Bundesaufsichtsamt für Flugsicherung ist zuständig für die Genehmigung von Flügen oberhalb der Flugfläche 195 nach Artikel 4 der Verordnung (EG) Nr. 730/2006 der Kommission vom 11. Mai 2006 über die Luftraumklassifizierung und den Zugang von Flügen nach Sichtflugregeln zum Luftraum oberhalb der Flugfläche 195 (ABl. L 128 vom 16.5.2006, S. 3), die zuletzt durch die Durchführungsverordnung (EU) Nr. 923/2012 (ABl. L 281 vom 13.10.2012, S. 1) geändert worden ist, in Verbindung mit Anhang SERA.5005 Buchstabe d Nummer 1 der Durchführungsverordnung (EU) Nr. 923/2012.
 
-
-## § 35 – Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Sichtflugregeln
+# § 35 – Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Sichtflugregeln
 
 (1) Die Höhen zur Einstellung des Höhenmessers für Flüge nach Sichtflugregeln werden von dem Bundesaufsichtsamt für Flugsicherung festgelegt.
 
@@ -782,8 +738,7 @@ Das Bundesaufsichtsamt für Flugsicherung ist zuständig für die Genehmigung vo
 
 (4) Das Bundesaufsichtsamt für Flugsicherung kann Abweichungen von den in Anhang SERA.5005 Buchstabe g der Durchführungsverordnung (EU) Nr. 923/2012 vorgeschriebenen Höhen festlegen.
 
-
-## § 36 – Flüge nach Sichtflugregeln bei Nacht
+# § 36 – Flüge nach Sichtflugregeln bei Nacht
 
 (1) Flüge nach Sichtflugregeln bei Nacht sind nur unter den in Anhang SERA.5005 Buchstabe c der Durchführungsverordnung (EU) Nr. 923/2012 genannten Bedingungen zulässig.
 
@@ -791,8 +746,7 @@ Das Bundesaufsichtsamt für Flugsicherung ist zuständig für die Genehmigung vo
 
 (3) Die Durchführung von Sonderflügen nach Sichtflugregeln innerhalb von Kontrollzonen bei Nacht ist zulässig.
 
-
-## § 37 – Sicherheitsmindesthöhe bei Flügen nach Sichtflugregeln
+# § 37 – Sicherheitsmindesthöhe bei Flügen nach Sichtflugregeln
 
 (1) Für Flüge zu besonderen Zwecken kann die örtlich zuständige Luftfahrtbehörde des Landes für einzelne Flüge oder eine Reihe von Flügen Ausnahmen von den in Anhang SERA.5005 Buchstabe f der Durchführungsverordnung (EU) Nr. 923/2012 vorgeschriebenen Mindestflughöhen zulassen, soweit dies für den jeweiligen Zweck erforderlich ist und dadurch keine Gefährdung der öffentlichen Sicherheit und Ordnung eintritt. Wird ausnahmsweise eine Unterschreitung der Sicherheitsmindesthöhe über Industrieanlagen, Menschenansammlungen, Unglücksorten oder Katastrophengebieten zugelassen, ist der Luftfahrzeugführer verpflichtet,
 
@@ -814,8 +768,7 @@ c) Kennzeichen und Muster des Luftfahrzeugs,
 
 (3) Segelflugzeuge, bemannte Freiballone, Hängegleiter und Gleitsegler können die in Anhang SERA.5005 Buchstabe f Nummer 2 der Durchführungsverordnung (EU) Nr. 923/2012 vorgeschriebenen Mindestflughöhen und Mindestabstände unterschreiten, wenn die Art ihres Betriebs dies notwendig macht und dadurch keine Gefährdung der öffentlichen Sicherheit und Ordnung zu befürchten ist.
 
-
-## § 38 – Überschallflüge nach Sichtflugregeln
+# § 38 – Überschallflüge nach Sichtflugregeln
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann Ausnahmen von dem Verbot nach Anhang SERA.5005 Buchstabe d Nummer 2 der Durchführungsverordnung (EU) Nr. 923/2012 und Absatz 2 zulassen, sofern sichergestellt ist, dass bei Flügen mit Überschallgeschwindigkeit ein Überschallknall auf der Erdoberfläche nicht feststellbar ist.
 
@@ -823,13 +776,11 @@ c) Kennzeichen und Muster des Luftfahrzeugs,
 
 (3) In Einzelfällen können Flüge zu Versuchszwecken mit Überschallgeschwindigkeit über Absatz 1 hinausgehend auch dann zugelassen werden, wenn sie dazu dienen sollen, den Nachweis dafür zu erbringen, dass ein Überschallknall auf der Erdoberfläche nicht feststellbar ist.
 
-
-## § 39 – Allgemeingenehmigung für Such- und Rettungsflüge
+# § 39 – Allgemeingenehmigung für Such- und Rettungsflüge
 
 Flüge im Such- und Rettungseinsatz oder zur Hilfeleistung bei einer Gefahr für Leib und Leben einer Person dürfen nach Artikel 4 Absatz 1 der Durchführungsverordnung (EU) Nr. 923/2012 von den Vorschriften des Anhangs SERA.5001 und SERA.5005 der Durchführungsverordnung (EU) Nr. 923/2012 abweichen.
 
-
-## § 40 – Mindestsichtwetterbedingungen in den Lufträumen der Klassen F und G
+# § 40 – Mindestsichtwetterbedingungen in den Lufträumen der Klassen F und G
 
 In den Lufträumen der Klassen F und G gelten ergänzend zu Anhang SERA.5001 der Durchführungsverordnung (EU) Nr. 923/2012 folgende Mindestwerte für Flugsicht:
 
@@ -843,8 +794,7 @@ b) unter Bedingungen, in denen die Wahrscheinlichkeit eines Zusammentreffens mit
 
 Es ist jeweils die größere Höhe maßgeblich.
 
-
-## § 41 – Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Instrumentenflugregeln
+# § 41 – Höhenmessereinstellung und Reiseflughöhen bei Flügen nach Instrumentenflugregeln
 
 (1) Die Höhen zur Einstellung des Höhenmessers für Flüge nach Instrumentenflugregeln werden von dem Bundesaufsichtsamt für Flugsicherung festgelegt.
 
@@ -860,18 +810,15 @@ Es ist jeweils die größere Höhe maßgeblich.
 
 soweit die öffentliche Sicherheit oder Ordnung, insbesondere die Sicherheit des Luftverkehrs, dadurch nicht beeinträchtigt wird.
 
-
-## § 42 – Abbruch von Landeanflügen
+# § 42 – Abbruch von Landeanflügen
 
 Der Luftfahrzeugführer hat den Landeanflug abzubrechen und das nach § 33 festgelegte Fehlanflugverfahren einzuleiten, wenn er die für das verwendete Instrumentenanflugverfahren festgelegten Werte für den Abbruch von Landeanflügen erreicht hat, er den Landeanflug aber nicht nach Sicht beenden kann.
 
-
-## § 43 – Bekanntmachung in den Nachrichten für Luftfahrer
+# § 43 – Bekanntmachung in den Nachrichten für Luftfahrer
 
 Regelungen, Genehmigungen und Festlegungen nach § 2 Absatz 1, § 16 Absatz 1 und 3, § 17 Absatz 1, § 22 Absatz 2 Satz 1, den §§ 28, 29, 30, 31 Absatz 2, § 32 Absatz 2, § 35 Absatz 1 und § 41 Absatz 1 werden durch die dort benannte Behörde in den Nachrichten für Luftfahrer bekannt gemacht.
 
-
-## § 44 – Ordnungswidrigkeiten
+# § 44 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -909,20 +856,15 @@ Regelungen, Genehmigungen und Festlegungen nach § 2 Absatz 1, § 16 Absatz 1 un
 
 17. entgegen § 21 Absatz 1 eine Flugverkehrskontrollfreigabe nicht einholt,
 
-17a.  
-ohne Erlaubnis nach § 21a Absatz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
+17a. ohne Erlaubnis nach § 21a Absatz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
 
-17b.  
-einer mit einer Erlaubnis nach § 21a Absatz 1 oder § 21b Absatz 2 Satz 2 oder Absatz 3 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
+17b. einer mit einer Erlaubnis nach § 21a Absatz 1 oder § 21b Absatz 2 Satz 2 oder Absatz 3 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-17c.  
-entgegen § 21a Absatz 4 Satz 1 einen dort genannten Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
+17c. entgegen § 21a Absatz 4 Satz 1 einen dort genannten Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erbringt,
 
-17d.  
-entgegen § 21b Absatz 1 Satz 1 Nummer 1 bis 10 Buchstabe a oder Nummer 11 oder Absatz 2 Satz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
+17d. entgegen § 21b Absatz 1 Satz 1 Nummer 1 bis 10 Buchstabe a oder Nummer 11 oder Absatz 2 Satz 1 ein unbemanntes Luftfahrtsystem oder Flugmodell betreibt,
 
-17e.  
-entgegen § 21f nicht dafür sorgt, dass ein unbemanntes Luftfahrtsystem oder Flugmodell ausweicht,
+17e. entgegen § 21f nicht dafür sorgt, dass ein unbemanntes Luftfahrtsystem oder Flugmodell ausweicht,
 
 18. ohne Genehmigung nach § 22 Absatz 2 Satz 2 in eine Flugplatzverkehrszone einfliegt oder aus ihr ausfliegt,
 
@@ -1012,8 +954,7 @@ entgegen § 21f nicht dafür sorgt, dass ein unbemanntes Luftfahrtsystem oder Fl
 
 26. entgegen Anhang SERA.12001 in Verbindung mit Anhang SERA.12005, SERA.12010 oder SERA.12015 eine Luftfahrzeugbeobachtung nicht, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig meldet.
 
-
-## Anlage 1 – (zu § 9 Absatz 2)Verzeichnis von meldepflichtigen Ereignissen bei Betrieb, Instandhaltung und Herstellung von Luftfahrzeugen
+# Anlage 1 – (zu § 9 Absatz 2)Verzeichnis von meldepflichtigen Ereignissen bei Betrieb, Instandhaltung und Herstellung von Luftfahrzeugen
 
 (Fundstelle: BGBl. I 2015, 1908 - 1914)
 
@@ -1461,15 +1402,13 @@ b) Nichteinhaltung vorgeschriebener Abfertigungsverfahren oder erhebliche Fehler
 
 c) Betankung mit verunreinigtem oder falschem Treibstoff oder mit verunreinigten oder falschen sonstigen Betriebsflüssigkeiten/Gasen (einschließlich Sauerstoff und Trinkwasser).
 
- 1.  
-Klima-/Lüftungsanlage
+ 1. Klima-/Lüftungsanlage
 
 a) Vollständiger Ausfall der Avionik-Kühlanlage;
 
 b) Druckabfall.
 
- 2.  
-Automatisches Flugsteuerungssystem
+ 2. Automatisches Flugsteuerungssystem
 
 a) Automatisches Flugsteuerungssystem geht nach dem Einschalten nicht in den vorgesehenen Betriebsmodus über;
 
@@ -1479,15 +1418,13 @@ c) Ausfall einer Abschaltvorrichtung für das automatische Flugsteuerungssystem;
 
 d) selbständiger Betriebsmoduswechsel des automatischen Flugsteuerungssystems.
 
- 3.  
-Kommunikation
+ 3. Kommunikation
 
 a) Ausfall oder Mängel der Kabinen-Lautsprecheranlage, sodass Fluggastdurchsagen nicht möglich oder nicht hörbar sind;
 
 b) Gesamtausfall des Kommunikationssystems während des Flugs.
 
- 4.  
-Elektrische Anlage
+ 4. Elektrische Anlage
 
 a) Ausfall eines Verteilersystems der elektrischen Anlage (AC oder DC);
 
@@ -1495,8 +1432,7 @@ b) Totalausfall oder Ausfall von mehr als einem Elektrogeneratorsystem;
 
 c) Ausfall des Reserve-(Notfall-)Elektrogeneratorsystems.
 
- 5.  
-Cockpit/Kabine/Frachträume
+ 5. Cockpit/Kabine/Frachträume
 
 a) Ausfälle der Pilotensitzverstellung während des Flugs;
 
@@ -1504,8 +1440,7 @@ b) Ausfall eines Notfallsystems oder -ausrüstungsteils, einschließlich der Not
 
 c) Ausfall der Haltevorrichtungen des Frachtladesystems.
 
- 6.  
-Brandschutzanlage
+ 6. Brandschutzanlage
 
 a) Brandalarme, mit Ausnahme der sofort als falsch bestätigten Alarme;
 
@@ -1513,8 +1448,7 @@ b) nicht erkannter Ausfall oder Mangel der Brand-/Rauchmeldeanlage- bzw. der Bra
 
 c) Ausbleiben einer Brandmeldung bei einem tatsächlich ausgebrochenen Brand oder bei Rauchentwicklung.
 
- 7.  
-Flugsteuerung
+ 7. Flugsteuerung
 
 a) Asymmetrie der Landeklappen, Vorflügel, Störklappen usw.;
 
@@ -1528,8 +1462,7 @@ e) Lösen oder Ausfall der mechanischen Flugsteuerung;
 
 f) erhebliche Beeinträchtigung der normalen Steuerung des Luftfahrzeugs oder Verschlechterung der Flugeigenschaften.
 
- 8.  
-Treibstoffanlage
+ 8. Treibstoffanlage
 
 a) Fehlfunktion am Treibstoffmengen-Anzeigesystem, die zum Totalausfall der Anzeige oder zur Fehlanzeige der mitgeführten Treibstoffmenge führt;
 
@@ -1541,8 +1474,7 @@ d) Fehlfunktionen oder Mängel des Treibstoffsystems, die erhebliche Auswirkunge
 
 e) Unmöglichkeit, die gesamte nutzbare Treibstoffmenge umzupumpen oder zu verbrauchen.
 
- 9.  
-Hydraulik
+ 9. Hydraulik
 
 a) Ausfall eines Hydrauliksystems (nur ETOPS-Betrieb);
 
@@ -1616,8 +1548,7 @@ b) Ausfall sämtlicher Nebenluftsysteme;
 
 c) Ausfall des Nebenluftleck-Meldesystems.
 
-
-## Anlage 2 – (zu § 9 Absatz 2)Verzeichnis von meldepflichtigen Ereignissen im Zusammenhang mit Flugnavigationsdiensten
+# Anlage 2 – (zu § 9 Absatz 2)Verzeichnis von meldepflichtigen Ereignissen im Zusammenhang mit Flugnavigationsdiensten
 
 (Fundstelle: BGBl. I 2015, 1915 - 1916)
 
@@ -1706,8 +1637,7 @@ k) gefährliche Situation durch fehlerhafte oder unzureichende Markierung von Hi
 
 l) Ausfall, erhebliche Fehlfunktion oder Nichtverfügbarkeit der Flugplatzbefeuerung.
 
-
-## Anlage 3 – (zu § 18 Absatz 4)Bauliche Anforderungen an Landestellen an Einrichtungen von öffentlichem Interesse nach § 18 Absatz 4
+# Anlage 3 – (zu § 18 Absatz 4)Bauliche Anforderungen an Landestellen an Einrichtungen von öffentlichem Interesse nach § 18 Absatz 4
 
 (Fundstelle: BGBl. I 2016, 1556 - 1557)
 
@@ -1725,7 +1655,7 @@ Abbildung 1:
 
  
 
-![](../normengrafiken/bgbl1_2016/j1548-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j1548-1_0010.jpg)
 
  
 
@@ -1733,7 +1663,7 @@ Abbildung 2:
 
  
 
-![](../normengrafiken/bgbl1_2016/j1548-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j1548-1_0020.jpg)
 
 Der Betreiber der Einrichtung von öffentlichem Interesse stellt sicher, dass an exponierter Stelle ein geeigneter Windrichtungsanzeiger angebracht ist, der während des Starts und der Landung vom Luftfahrzeugführer eingesehen werden kann.
 

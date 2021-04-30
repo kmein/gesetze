@@ -1,13 +1,9 @@
-# [StBAPO] Ausbildungs- und Prüfungsordnung für die Steuerbeamtinnen und Steuerbeamten  (Steuerbeamtenausbildungs- und -prüfungsordnung - StBAPO)
-
-Ausfertigungsdatum: 21.07.1977
-
+% Ausbildungs- und Prüfungsordnung für die Steuerbeamtinnen und Steuerbeamten  (Steuerbeamtenausbildungs- und -prüfungsordnung - StBAPO)
+% Ausfertigungsdatum: 21.07.1977
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Ziele des Vorbereitungsdienstes
+# § 1 – Ziele des Vorbereitungsdienstes
 
 (1) Im Vorbereitungsdienst werden die Beamtinnen und Beamten auf ihre Verantwortung im freiheitlichen demokratischen und sozialen Rechtsstaat vorbereitet. Ihre Ausbildung führt sie zur Berufsbefähigung. Diese umfasst insbesondere die erforderlichen fachlichen Kenntnisse und berufspraktischen Fähigkeiten, angemessene methodische und soziale Kompetenzen sowie Verständnis für wirtschaftliche und internationale Zusammenhänge. Dabei sind die Entwicklungen und die sich wandelnden Anforderungen in Staat und Gesellschaft zu berücksichtigen.
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 21.07.1977
 
 (+++ § 1: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 2 – Ausbildungsstellen
+# § 2 – Ausbildungsstellen
 
 (1) Die fachtheoretische Ausbildung für den mittleren Dienst wird an Landesfinanzschulen oder an gleichstehenden Bildungsstätten der Verwaltung durchgeführt.
 
@@ -30,8 +25,7 @@ Ausfertigungsdatum: 21.07.1977
 
 (+++ § 2: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 3 – Ausbildende
+# § 3 – Ausbildende
 
 (1) Bei jeder Oberfinanzdirektion oder bei der Landesfinanzbehörde, die die Aufgaben der Oberfinanzdirektion wahrnimmt, ist eine Beamtin zur Ausbildungsreferentin oder ein Beamter zum Ausbildungsreferenten zu bestellen.
 
@@ -45,8 +39,7 @@ Ausfertigungsdatum: 21.07.1977
 
 (+++ § 3: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 4 – Lehrende
+# § 4 – Lehrende
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte Stelle bestellt die Lehrenden an den Bildungseinrichtungen (§ 2 Abs. 1 und 2). Abweichend von Satz 1 kann die Bestellung auch durch die nach Landesrecht zuständige Stelle im Einvernehmen mit der obersten Landesbehörde vorgenommen werden.
 
@@ -56,8 +49,7 @@ Ausfertigungsdatum: 21.07.1977
 
 (+++ § 4: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 5 – Ausbildungsplan, Beurteilung
+# § 5 – Ausbildungsplan, Beurteilung
 
 (1) Die Ausbildungsleiterin oder der Ausbildungsleiter stellt für jede Beamtin und jeden Beamten einen Plan für die praktische Ausbildung (§ 16 Abs. 1 Nr. 1 und § 24 Abs. 1 Nr. 1) nach der Anlage 1 auf; eine Abschrift des Plans ist der Beamtin oder dem Beamten auszuhändigen. Abweichend vom Ausbildungsplan darf eine Beamtin oder ein Beamter nur nach Anhörung der Ausbildungsleiterin oder des Ausbildungsleiters eingesetzt werden.
 
@@ -65,8 +57,7 @@ Ausfertigungsdatum: 21.07.1977
 
 (+++ § 5: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 6 – Bewertung der Leistungen
+# § 6 – Bewertung der Leistungen
 
 (1) Die einzelnen Leistungen der Beamtin oder des Beamten sind mit einer der folgenden Punktzahlen und der sich daraus ergebenden Note zu bewerten:  
 
@@ -117,22 +108,19 @@ Ausfertigungsdatum: 21.07.1977
 
 (+++ § 6: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 7 – Arbeitsanleitungen
+# § 7 – Arbeitsanleitungen
 
 Für die praktische Ausbildung sind unter Beteiligung der Bildungseinrichtungen (§ 2 Abs. 1 und 2) Anleitungen aufzustellen. Die Anleitungen legen schwerpunktmäßig die Inhalte der Ausbildung in denjenigen Arbeitsgebieten fest, mit denen sich die Beamtin oder der Beamte vertraut machen muß. Die Anleitungen werden ihr oder ihm ausgehändigt.
 
 (+++ § 7: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 8 – Ausbildungsarbeitsgemeinschaften
+# § 8 – Ausbildungsarbeitsgemeinschaften
 
 Die Beamtin oder der Beamte nimmt während der berufspraktischen Ausbildung an Ausbildungsarbeitsgemeinschaften teil. Diese dienen dem Zweck, die bis dahin fachtheoretisch und berufspraktisch vermittelten Kenntnisse und Fähigkeiten zu verknüpfen und zu üben; dabei sollen insbesondere die Automation des steuerlichen Festsetzungs- und Erhebungsverfahrens sowie praxisorientierte Arbeits- und Entscheidungstechniken bei der Veranlagung von Steuern behandelt werden.
 
 (+++ § 8: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 9 – Unterrichts- und Studienpläne, Stoffgliederungspläne, Lehrpläne
+# § 9 – Unterrichts- und Studienpläne, Stoffgliederungspläne, Lehrpläne
 
 (1) Die Lehrveranstaltungen während des Vorbereitungsdienstes richten sich für den mittleren Dienst nach Unterrichts- und für den gehobenen Dienst nach Studienplänen. Diese Pläne legen die Fächer mit Stundenzahlen und die schriftlichen Lernerfolgskontrollen (§ 15 Absatz 2 und § 18 Absatz 7) nach Maßgabe dieser Verordnung fest.
 
@@ -142,8 +130,7 @@ Die Beamtin oder der Beamte nimmt während der berufspraktischen Ausbildung an A
 
 (+++ § 9: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 10 – Übungen und Seminare
+# § 10 – Übungen und Seminare
 
 (1) Während der fachtheoretischen Ausbildung sind Übungen durchzuführen.
 
@@ -153,8 +140,7 @@ Die Beamtin oder der Beamte nimmt während der berufspraktischen Ausbildung an A
 
 (+++ § 10: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 11 – Verlängerung des Vorbereitungsdienstes, Anrechnung
+# § 11 – Verlängerung des Vorbereitungsdienstes, Anrechnung
 
 (1) Der Vorbereitungsdienst kann im Einzelfall verlängert werden, wenn die Beamtin oder der Beamte aus Gründen, die sie oder er nicht zu vertreten hat, das Ziel eines Ausbildungsabschnitts oder eines Teils des Studiengangs voraussichtlich nicht erreichen wird. Hat sie oder er die berufspraktische Ausbildung oder die berufspraktischen Studienzeiten um insgesamt mehr als einen Monat, einen Teilabschnitt der fachtheoretischen Ausbildung oder einen Teil der Fachstudien um mehr als drei Wochen unterbrochen, so kann der Vorbereitungsdienst verlängert werden, wenn die Beamtin oder der Beamte das Versäumte nicht nachholen kann oder nicht hinreichend ausgebildet erscheint. Bei einer Unterbrechung eines Teilabschnitts der fachtheoretischen Ausbildung oder eines Teils der Fachstudien um mehr als drei Wochen schlägt die zuständige Bildungseinrichtung vor, ob die Beamtin oder der Beamte die unterbrochene Ausbildung fortsetzen oder an das Ausbildungsfinanzamt zurückkehren soll.
 
@@ -168,8 +154,7 @@ Die Beamtin oder der Beamte nimmt während der berufspraktischen Ausbildung an A
 
 (+++ § 11: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 12 – Zulässigkeit von Abweichungen und Änderungen, Urlaub
+# § 12 – Zulässigkeit von Abweichungen und Änderungen, Urlaub
 
 (1) Abweichungen von den Unterrichts- und Studienplänen, den Stoffgliederungsplänen sowie den Lehrplänen und von der zeitlichen Aufgliederung der berufspraktischen Ausbildung sind zulässig, wenn sie der Anpassung der Ausbildung an die veränderten Verhältnisse dienen oder im Interesse einer sinnvollen Ausbildung erforderlich erscheinen. In Fällen von grundsätzlicher Bedeutung ist der Koordinierungsausschuß (§ 50) vor der Abweichung zu hören.
 
@@ -181,8 +166,7 @@ Die Beamtin oder der Beamte nimmt während der berufspraktischen Ausbildung an A
 
 (+++ § 12: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 13 – Vorbereitungsdienst
+# § 13 – Vorbereitungsdienst
 
 (1) Der Vorbereitungsdienst umfaßt eine sechsmonatige Einführung in das Aufgabengebiet des einfachen Dienstes. In dieser Zeit soll die Beamtin oder der Beamte die Aufgaben des einfachen Dienstes der Steuerverwaltung kennenlernen und mit dem Aufbau der Verwaltung sowie in Grundzügen mit den Pflichten und Rechten einer Beamtin oder eines Beamten vertraut gemacht werden.
 
@@ -190,8 +174,7 @@ Die Beamtin oder der Beamte nimmt während der berufspraktischen Ausbildung an A
 
 (3) Die §§ 4 bis 10, § 11 Abs. 1 Satz 3 und Abs. 4 sowie § 12 sind nicht anzuwenden.
 
-
-## § 14 – Ausbildungsabschnitte
+# § 14 – Ausbildungsabschnitte
 
 Der zweijährige Vorbereitungsdienst umfaßt
 
@@ -199,8 +182,7 @@ Der zweijährige Vorbereitungsdienst umfaßt
 
 2. eine berufspraktische Ausbildung.
 
-
-## § 15 – Fachtheoretische Ausbildung
+# § 15 – Fachtheoretische Ausbildung
 
 (1) Die fachtheoretische Ausbildung vermittelt neben der Fachkompetenz die methodische und die soziale Kompetenz. Sie umfasst die in der Anlage 4 aufgeführten Fächer und Mindeststunden. Die Gesamtstundenzahl in den Lehrveranstaltungen beträgt mindestens 800. Ein angemessener Teil der Lehrveranstaltungen besteht aus Übungen, die teilweise fächerübergreifend zu gestalten sind.
 
@@ -208,8 +190,7 @@ Der zweijährige Vorbereitungsdienst umfaßt
 
 (3) Nach Beendigung des ersten Teilabschnitts der fachtheoretischen Ausbildung beurteilen die Lehrenden die Leistungen der Beamtin oder des Beamten nach der Anlage 5, nach Beendigung des zweiten Teilabschnitts nach der Anlage 6 (Teilbeurteilungen). Aus diesen Teilbeurteilungen wird nach der Anlage 6 die abschließende Beurteilung für die gesamte fachtheoretische Ausbildung gebildet. Hierzu werden die Durchschnittspunktzahlen der Teilbeurteilungen mit der Anzahl der Monate, die jeder Teilabschnitt gedauert hat, vervielfältigt und zusammengezählt; die Summe wird durch acht geteilt. Aus der abschließenden Beurteilung ergibt sich die Note für die fachtheoretische Ausbildung. Teilbeurteilungen und abschließende Beurteilung für die fachtheoretische Ausbildung sind der Beamtin oder dem Beamten bekannt zu geben.
 
-
-## § 16 – Berufspraktische Ausbildung
+# § 16 – Berufspraktische Ausbildung
 
 (1) Die berufspraktische Ausbildung umfaßt
 
@@ -223,8 +204,7 @@ Der zweijährige Vorbereitungsdienst umfaßt
 
 (4) Die Ausbildungsarbeitsgemeinschaften umfassen mindestens 100 Stunden.
 
-
-## § 17 – Gliederung des Studiengangs
+# § 17 – Gliederung des Studiengangs
 
 (1) Der Studiengang umfasst Fachstudien in einem Grund- und Hauptstudium von 21 Monaten Dauer und berufspraktische Studienzeiten von 15 Monaten Dauer.
 
@@ -236,8 +216,7 @@ Der zweijährige Vorbereitungsdienst umfaßt
 
 (+++ § 17: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 18 – Allgemeine Grundsätze für die Fachstudien
+# § 18 – Allgemeine Grundsätze für die Fachstudien
 
 (1) Die Lerninhalte der Fachstudien sind nach wissenschaftlichen Erkenntnissen und Methoden praxisbezogen und anwendungsorientiert zu vermitteln.
 
@@ -293,20 +272,17 @@ Die Bearbeitungszeit beträgt mindestens drei Stunden.
 
 (+++ § 18: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 19 – Studienfächer, Unterrichtsstunden und Mindeststunden
+# § 19 – Studienfächer, Unterrichtsstunden und Mindeststunden
 
 Die Fachstudien vermitteln neben der Fachkompetenz die methodische und die soziale Kompetenz sowie das Verständnis für internationale Zusammenhänge. Sie umfassen die in Anlage 10 aufgeführten Studienfächer, Wahlpflichtveranstaltungen, Schwerpunktthemen und Fallstudien, die entsprechend dem dort aufgeführten zeitlichen Umfang im Grund- und Hauptstudium zu unterrichten sind.
 
 (+++ § 19: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## §§ 20 bis 23 – (weggefallen)
+# §§ 20 bis 23 – (weggefallen)
 
 \-
 
-
-## § 24 – Berufspraktische Studienzeiten
+# § 24 – Berufspraktische Studienzeiten
 
 (1) Die berufspraktischen Studienzeiten umfassen
 
@@ -322,13 +298,11 @@ Die Fachstudien vermitteln neben der Fachkompetenz die methodische und die sozia
 
 (+++ § 24: Zur Anwendung vgl. § 12 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 25 – Ziel der Einführung
+# § 25 – Ziel der Einführung
 
 Die Einführung bereitet die Beamtinnen und Beamten auf ihre künftigen Führungsaufgaben in der Steuerverwaltung vor und ergänzt ihre fachlichen Kenntnisse. Die hierfür erforderlichen Kompetenzen sind in Theorie und Praxis durch geeignete Bildungsangebote zu fördern. Während der Einführung ist den Beamtinnen und Beamten Gelegenheit zu eigenverantwortlicher und selbständiger Tätigkeit zu geben.
 
-
-## § 26 – Einführungsabschnitte
+# § 26 – Einführungsabschnitte
 
 Die Einführung umfaßt
 
@@ -338,8 +312,7 @@ Die Einführung umfaßt
 
 Die ergänzenden Studien sind in den ersten zwölf Monaten nach erfolgreichem Abschluss der Einführung durch Lehrveranstaltungen von insgesamt einmonatiger Dauer an der Bundesfinanzakademie fortzuführen. Erholungsurlaub darf nicht zu Lasten der ergänzenden und der fortführenden Studien gewährt werden.
 
-
-## § 27 – Studien an der Bundesfinanzakademie
+# § 27 – Studien an der Bundesfinanzakademie
 
 (1) Die ergänzenden Studien an der Bundesfinanzakademie bestehen aus drei Studienabschnitten. Der erste Studienabschnitt soll spätestens nach Ablauf der ersten zwei Monate der Einführungszeit beginnen.
 
@@ -347,8 +320,7 @@ Die ergänzenden Studien sind in den ersten zwölf Monaten nach erfolgreichem Ab
 
 (3) Für die hauptamtlich Lehrenden an der Bundesfinanzakademie gilt § 4 Abs. 3 entsprechend.
 
-
-## § 28 – Allgemeine Grundsätze für die praktische Einweisung
+# § 28 – Allgemeine Grundsätze für die praktische Einweisung
 
 (1) Für die praktische Einweisung sind die Oberfinanzdirektionen und die Finanzämter verantwortlich. Die Ausbildungsreferentin oder der Ausbildungsreferent bei der Oberfinanzdirektion überwacht und koordiniert die Einweisung in allen Abschnitten; ihr oder ihm obliegt die Leitung der praktischen Einweisung bei der Oberfinanzdirektion. Beim Finanzamt bestellt die Oberfinanzdirektion nach Anhörung der Vorsteherin oder des Vorstehers eine Beamtin oder einen Beamten des höheren Dienstes, der die Beamtin oder den Beamten während der praktischen Einweisung anleitet und betreut. In Bundesländern ohne Oberfinanzdirektion tritt an deren Stelle jeweils die Landesbehörde, die die Aufgaben der Oberfinanzdirektion wahrnimmt.
 
@@ -356,8 +328,7 @@ Die ergänzenden Studien sind in den ersten zwölf Monaten nach erfolgreichem Ab
 
 (3) Die Leiterinnen und Leiter der Behörden, denen die Beamtin oder der Beamte zur praktischen Einweisung zugewiesen ist, äußern sich schriftlich über Eignung und fachliche Leistungen. Die Äußerungen sind der Beamtin oder dem Beamten bekanntzugeben.
 
-
-## § 29 – Durchführung der praktischen Einweisung
+# § 29 – Durchführung der praktischen Einweisung
 
 (1) Die Beamtin oder der Beamte wird während der praktischen Einweisung
 
@@ -402,23 +373,19 @@ Für weitere drei Monate ist der Beamtin oder dem Beamten ein geeignetes Sachgeb
 
 (4) Die praktische Einweisung wird durch Arbeitsgemeinschaften und sonstige für die Einweisung förderliche Veranstaltungen ergänzt.
 
-
-## § 30 – Abschluß der Einführung
+# § 30 – Abschluß der Einführung
 
 Der erfolgreiche Abschluß der Einführung wird von der obersten Landesbehörde oder der von ihr bestimmten Stelle unter Berücksichtigung der abgegebenen Äußerungen festgestellt. Die Einführung kann verlängert werden, wenn festgestellt wird, daß ihr Ziel innerhalb der regelmäßigen Einführungszeit nicht erreicht werden kann oder die Einführung nicht erfolgreich abgeschlossen worden ist.
 
-
-## § 31 – Aufstieg in den mittleren und den gehobenen Dienst
+# § 31 – Aufstieg in den mittleren und den gehobenen Dienst
 
 Für die Einführungszeit gelten die §§ 1 bis 10, § 11 Abs. 1, 2 und 5, § 12 und die §§ 14 bis 24 entsprechend.
 
-
-## § 32 – Aufstieg in den höheren Dienst
+# § 32 – Aufstieg in den höheren Dienst
 
 Die inhaltliche Gestaltung der Einführung in die Aufgaben der Laufbahn des höheren Dienstes richtet sich nach Landesrecht. Die Einführung ist erfolgreich abgeschlossen, wenn die Beamtin oder der Beamte die für die neue Laufbahn erforderlichen Kenntnisse und Fähigkeiten besitzt.
 
-
-## § 33 – Allgemeines
+# § 33 – Allgemeines
 
 (1) Die Vorschriften dieses Teils gelten für alle nach dem Steuerbeamten-Ausbildungsgesetz abzulegenden Prüfungen (Absätze 2 und 3). Für die Bewertung der Prüfungsleistungen gilt § 6.
 
@@ -430,8 +397,7 @@ Die inhaltliche Gestaltung der Einführung in die Aufgaben der Laufbahn des höh
 
 (+++ § 33: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 34 – Prüfungsausschüsse
+# § 34 – Prüfungsausschüsse
 
 (1) Die Prüfungen werden vor Prüfungsausschüssen abgelegt, deren Mitglieder bei ihrer Tätigkeit als Prüferin oder Prüfer unabhängig und nicht an Weisungen gebunden sind. Die oberste Landesbehörde oder die von ihr bestimmte Stelle beruft die Mitglieder der Prüfungsausschüsse und bestellt deren Vorsitzende. Die Anzahl der Prüfungsausschüsse richtet sich nach dem Bedarf; mehrere Länder können gemeinsame Prüfungsausschüsse bilden. Lehrende an Bildungseinrichtungen für Steuerbeamtinnen und Steuerbeamte (§ 4) sollen als Mitglieder der Prüfungsausschüsse an den Prüfungen teilnehmen.
 
@@ -447,15 +413,13 @@ Einem Prüfungsausschuss für den gehobenen Dienst gehören an:
 
 2. mindestens drei Beamtinnen oder Beamte des höheren oder des gehobenen Dienstes als Beisitzerinnen oder Beisitzer;
 
-anstelle der Beamtinnen und Beamten des höheren Dienstes können dem Prüfungsausschuss Professorinnen oder Professoren an Bildungseinrichtungen im Sinne des § 2 Absatz 2 Satz 1 angehören.  
-Den Prüfungsausschüssen können auch andere Beschäftigte des öffentlichen Dienstes angehören, wenn sie dieselben fachlichen Voraussetzungen wie Steuerbeamtinnen und Steuerbeamte des gehobenen oder höheren Dienstes erfüllen.
+anstelle der Beamtinnen und Beamten des höheren Dienstes können dem Prüfungsausschuss Professorinnen oder Professoren an Bildungseinrichtungen im Sinne des § 2 Absatz 2 Satz 1 angehören. Den Prüfungsausschüssen können auch andere Beschäftigte des öffentlichen Dienstes angehören, wenn sie dieselben fachlichen Voraussetzungen wie Steuerbeamtinnen und Steuerbeamte des gehobenen oder höheren Dienstes erfüllen.
 
 (3) Der Prüfungsausschuß beschließt mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden.
 
 (+++ § 34: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 35 – Durchführung der Prüfungen
+# § 35 – Durchführung der Prüfungen
 
 (1) Die Prüfungen werden von der obersten Landesbehörde oder der von ihr bestimmten Stelle angesetzt und organisatorisch geleitet. Ist die Durchführung der Prüfungen mehreren Prüfungsausschüssen übertragen, so ist dafür Sorge zu tragen, daß ein gleichmäßiger Bewertungsmaßstab angewandt wird.
 
@@ -465,8 +429,7 @@ Den Prüfungsausschüssen können auch andere Beschäftigte des öffentlichen Di
 
 (+++ § 35: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 36 – Ordnungsverstöße
+# § 36 – Ordnungsverstöße
 
 (1) Über die Folgen eines Täuschungsversuches, einer Täuschung oder eines sonstigen Verstoßes gegen die Ordnung während der schriftlichen Prüfung entscheidet der Prüfungsausschuß. Er kann in schweren Fällen die einzelne Prüfungsarbeit mit der Punktzahl 0 bewerten oder die Prüfung als nicht bestanden erklären.
 
@@ -478,8 +441,7 @@ Den Prüfungsausschüssen können auch andere Beschäftigte des öffentlichen Di
 
 (+++ § 36: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 37 – Säumnis, Verhinderung, Rücktritt
+# § 37 – Säumnis, Verhinderung, Rücktritt
 
 (1) Versäumt die zu prüfende Beamtin oder der zu prüfende Beamte die schriftliche oder mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet der Prüfungsausschuß, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit ungenügend bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird.
 
@@ -489,8 +451,7 @@ Den Prüfungsausschüssen können auch andere Beschäftigte des öffentlichen Di
 
 (+++ § 37: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 38 – Schriftliche Prüfung
+# § 38 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung umfasst:
 
@@ -540,8 +501,7 @@ Jedes Prüfungsgebiet soll mit Aufgaben aus übergreifenden oder angrenzenden Fa
 
 (+++ § 38: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 39 – Durchführung der schriftlichen Prüfung
+# § 39 – Durchführung der schriftlichen Prüfung
 
 (1) Vor der schriftlichen Prüfung sind die zu prüfenden Beamtinnen und Beamten auf die Folgen von Verstößen gegen die Prüfungsordnung und darauf hinzuweisen, daß eine ohne ausreichende Entschuldigung nicht oder nicht rechtzeitig abgelieferte Arbeit mit der Punktzahl 0 bewertet wird (§ 40 Abs. 3).
 
@@ -557,8 +517,7 @@ Jedes Prüfungsgebiet soll mit Aufgaben aus übergreifenden oder angrenzenden Fa
 
 (+++ § 39: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 40 – Bewertung der schriftlichen Prüfungsarbeiten
+# § 40 – Bewertung der schriftlichen Prüfungsarbeiten
 
 (1) Bei der Bewertung der Prüfungsarbeiten sind die Richtigkeit der Entscheidung, die Art und Folgerichtigkeit der Begründung, die Gliederung und Klarheit der Darstellung sowie die Ausdrucksweise zu berücksichtigen.
 
@@ -568,8 +527,7 @@ Jedes Prüfungsgebiet soll mit Aufgaben aus übergreifenden oder angrenzenden Fa
 
 (+++ § 40: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 41 – Ergebnis der Zwischenprüfung
+# § 41 – Ergebnis der Zwischenprüfung
 
 (1) Im Anschluss an die Bewertung der Prüfungsarbeiten setzt der Prüfungsausschuss die Endpunktzahl der Zwischenprüfung fest. Über die Sitzung des Prüfungsausschusses ist eine Niederschrift zu fertigen.
 
@@ -591,8 +549,7 @@ Jedes Prüfungsgebiet soll mit Aufgaben aus übergreifenden oder angrenzenden Fa
 
 (+++ § 41: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 42 – Bekanntgabe des Ergebnisses der Zwischenprüfung
+# § 42 – Bekanntgabe des Ergebnisses der Zwischenprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses teilt der zu prüfenden Beamtin oder dem zu prüfenden Beamten im Anschluß an die Prüfung die Bewertung der Prüfungsarbeiten, die Endpunktzahl und die Prüfungsgesamtnote nach der Anlage 11 schriftlich mit.
 
@@ -602,8 +559,7 @@ Jedes Prüfungsgebiet soll mit Aufgaben aus übergreifenden oder angrenzenden Fa
 
 (+++ § 42: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 43 – Zulassung zur mündlichen Prüfung
+# § 43 – Zulassung zur mündlichen Prüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses setzt die Zulassungspunktzahl fest. Ihr oder ihm müssen vorliegen:
 
@@ -633,8 +589,7 @@ Jedes Prüfungsgebiet soll mit Aufgaben aus übergreifenden oder angrenzenden Fa
 
 (+++ § 43: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 44 – Mündliche Prüfung
+# § 44 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung für den mittleren Dienst kann sich auf die Fächer nach den Nummern 1 bis 12 der Anlage 4, die für den gehobenen Dienst auf die Fächer nach den Nummern 1 bis 7 der Anlage 10 erstrecken. Neben den fachlichen Kenntnissen ist insbesondere zu prüfen, ob die zu prüfende Beamtin oder der zu prüfende Beamte über die notwendigen methodischen und sozialen Kompetenzen verfügt.
 
@@ -658,8 +613,7 @@ Die mündliche Prüfung wird durch eine angemessene Pause unterbrochen.
 
 (+++ § 44: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 45 – Ergebnis der Laufbahnprüfung
+# § 45 – Ergebnis der Laufbahnprüfung
 
 (1) Im Anschluss an die mündliche Prüfung berechnet der Prüfungsausschuss die Endpunktzahl und ermittelt das Ergebnis der Laufbahnprüfung für den mittleren Dienst nach Anlage 13 und für den gehobenen Dienst nach Anlage 14.
 
@@ -691,8 +645,7 @@ Die Endpunktzahl der Laufbahnprüfung für den gehobenen Dienst ist die Summe au
 
 (+++ § 45: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 46 – Bekanntgabe des Ergebnisses der Laufbahnprüfung
+# § 46 – Bekanntgabe des Ergebnisses der Laufbahnprüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses gibt den zu prüfenden Beamtinnen und Beamten im Anschluß an die Beratung des Prüfungsausschusses die erreichte Endpunktzahl, deren Ermittlung sowie die Prüfungsgesamtnote bekannt.
 
@@ -704,8 +657,7 @@ Die Endpunktzahl der Laufbahnprüfung für den gehobenen Dienst ist die Summe au
 
 (+++ § 46: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 47 – Wiederholung von Prüfungen
+# § 47 – Wiederholung von Prüfungen
 
 (1) Hat die zu prüfende Beamtin oder der zu prüfende Beamte die Zwischenprüfung nicht bestanden oder gilt diese als nicht bestanden und ist eine Wiederholung zulässig (§ 4 Absatz 2 Satz 6 des Steuerbeamten-Ausbildungsgesetzes), kann die Zwischenprüfung nur innerhalb von drei Monaten wiederholt werden. Der Vorbereitungsdienst wird nicht verlängert.
 
@@ -715,22 +667,19 @@ Die Endpunktzahl der Laufbahnprüfung für den gehobenen Dienst ist die Summe au
 
 (4) Die oberste Landesbehörde oder die von ihr bestimmte Stelle kann den zu prüfenden Beamtinnen und Beamten, die die Laufbahnprüfung für den gehobenen Dienst endgültig nicht bestanden oder auf deren Wiederholung verzichtet haben, die Befähigung für die Laufbahn des mittleren Dienstes zuerkennen, wenn sie fachlich und persönlich für die Laufbahn des mittleren Dienstes geeignet sind. Die zu prüfenden Beamtinnen und Beamten, denen die Befähigung für die Laufbahn des mittleren Dienstes zuerkannt wird, erhalten ein Befähigungszeugnis.
 
-
-## § 48 – Niederschrift über die Laufbahnprüfung
+# § 48 – Niederschrift über die Laufbahnprüfung
 
 Über die Laufbahnprüfung ist eine Niederschrift nach der Anlage 19 oder 20 zu fertigen. Die Niederschrift ist mit den schriftlichen Prüfungsarbeiten zu den Prüfungsakten zu nehmen.
 
 (+++ § 48: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 49 – Fehlerberichtigung
+# § 49 – Fehlerberichtigung
 
 Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten bei der Ermittlung und der Bekanntgabe der Prüfungsergebnisse können berichtigt werden. Unrichtige Prüfungszeugnisse sind zurückzugeben.
 
 (+++ § 49: Zur Anwendung vgl. § 13 Abs. 2 V 2030-8-5-10 v. 12.1.2017 I 82 +++)
 
-
-## § 50 – Koordinierungsausschuß
+# § 50 – Koordinierungsausschuß
 
 (1) Zur Gewährleistung der Einheitlichkeit der Ausbildung, der Einführung, der Prüfungen und der Fortbildung wird ein Ausschuß aus je einer Vertreterin oder einem Vertreter des Bundesministeriums der Finanzen und der obersten Landesbehörden gebildet (Koordinierungsausschuß). Die Leitung des Koordinierungsausschusses und die Geschäftsführung liegen bei der Vertreterin oder dem Vertreter des Bundesministeriums der Finanzen.
 
@@ -766,118 +715,99 @@ b) die Durchführung der Ausbildung, der Einführung, der Prüfungen und der For
 
 (4) Der Koordinierungsausschuß kann zur Vorbereitung und Durchführung seiner Aufgaben Arbeitsausschüsse bilden. Mit Zustimmung der obersten Landesbehörden können in die Arbeitsausschüsse weitere sachverständige Beschäftigte aufgenommen werden.
 
-
-## § 51 – Personalvertretung
+# § 51 – Personalvertretung
 
 Landesrechtliche Vorschriften über die Beteiligung der Personalvertretungen der Beamtinnen und der Beamten bleiben unberührt.
 
-
-## § 52 – Mitwirkung im Hochschulbereich
+# § 52 – Mitwirkung im Hochschulbereich
 
 Die Mitwirkung der Angehörigen der Einrichtungen nach § 2 Abs. 2 Satz 1 an der Gestaltung des Studiums im Sinne des § 73 Abs. 2 Satz 2 in Verbindung mit § 70 Abs. 1 Nr. 5 des Hochschulrahmengesetzes ist durch Landesrecht sicherzustellen.
 
-
-## § 53 – Übergangsregelung
+# § 53 – Übergangsregelung
 
 Für Beamtinnen und Beamte, die vor dem Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Steuerbeamtenausbildungs- und -prüfungsordnung in der Fassung der Bekanntmachung vom 29. Oktober 1996 (BGBl. I S. 1581), die zuletzt durch Artikel 5 der Verordnung vom 22. Dezember 2014 (BGBl. I S. 2392) geändert worden ist, weiter anzuwenden mit der Maßgabe, dass an die Stelle des § 44 Absatz 5 Satz 2 der Steuerbeamtenausbildungs- und -prüfungsordnung § 44 Absatz 5 Satz 2 dieser Verordnung tritt.
 
-
-## Anlage 1 – (zu § 5 Absatz 1) – mittlerer/gehobener Dienst – Plan für die praktische Ausbildung
+# Anlage 1 – (zu § 5 Absatz 1) – mittlerer/gehobener Dienst – Plan für die praktische Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1133)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 2 – (zu § 5 Absatz 2) – mittlerer Dienst – Beurteilung in der berufspraktischen Ausbildung
+# Anlage 2 – (zu § 5 Absatz 2) – mittlerer Dienst – Beurteilung in der berufspraktischen Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1134)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 3 – (zu § 5 Absatz 2) – gehobener Dienst – Beurteilung in den berufspraktischen Studienzeiten
+# Anlage 3 – (zu § 5 Absatz 2) – gehobener Dienst – Beurteilung in den berufspraktischen Studienzeiten
 
 (Fundstelle: BGBl. I 2012, 1135)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 4 – (zu § 15 ) – mittlerer Dienst – Fächer/Mindeststunden in der fachtheoretischen Ausbildung
+# Anlage 4 – (zu § 15 ) – mittlerer Dienst – Fächer/Mindeststunden in der fachtheoretischen Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1136)
 
-
-## Anlage 5 – (zu § 15 Absatz 3) – mittlerer Dienst – Teilbeurteilung der Leistungen im ersten Teilabschnitt der fachtheoretischen Ausbildung
+# Anlage 5 – (zu § 15 Absatz 3) – mittlerer Dienst – Teilbeurteilung der Leistungen im ersten Teilabschnitt der fachtheoretischen Ausbildung
 
 (Fundstelle : BGBl. I 2012, 1137)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 6 – (zu § 15 Absatz 3) – mittlerer Dienst – Teilbeurteilung der Leistungen im zweiten Teilabschnitt der fachtheoretischen Ausbildung/ Abschließende Beurteilung der Leistungen in der fachtheoretischen Ausbildung
+# Anlage 6 – (zu § 15 Absatz 3) – mittlerer Dienst – Teilbeurteilung der Leistungen im zweiten Teilabschnitt der fachtheoretischen Ausbildung/ Abschließende Beurteilung der Leistungen in der fachtheoretischen Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1138 - 1139)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 7 – (zu § 18 Absatz 10) – gehobener Dienst – Teilbeurteilung der Leistungen im Grundstudium bis zur Zwischenprüfung
+# Anlage 7 – (zu § 18 Absatz 10) – gehobener Dienst – Teilbeurteilung der Leistungen im Grundstudium bis zur Zwischenprüfung
 
 (Fundstelle: BGBl. I 2012, 1140)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0070.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 8 – (zu § 18 Absatz 10 Satz 1 und Absatz 11 Nummer 1) – gehobener Dienst – Beurteilung der Leistungen im Grundstudium
+# Anlage 8 – (zu § 18 Absatz 10 Satz 1 und Absatz 11 Nummer 1) – gehobener Dienst – Beurteilung der Leistungen im Grundstudium
 
 (Fundstelle: BGBl. I 2019, 174 - 175)
 
-
-## Anlage 9 – (zu § 18 Absatz 10 Satz 1 und Absatz 11 Nummer 2) – gehobener Dienst – Beurteilung der Leistungen im Hauptstudium
+# Anlage 9 – (zu § 18 Absatz 10 Satz 1 und Absatz 11 Nummer 2) – gehobener Dienst – Beurteilung der Leistungen im Hauptstudium
 
 (Fundstelle: BGBl. I 2019, 176 - 177)
 
-
-## Anlage 10 – (zu § 19) – gehobener Dienst – Studienfächer, Unterrichtsstunden und Mindeststunden
+# Anlage 10 – (zu § 19) – gehobener Dienst – Studienfächer, Unterrichtsstunden und Mindeststunden
 
 (Fundstelle: BGBl. I 2019, 178 - 179)
 
-
-## Anlage 11 – (zu § 42 Absatz 1) – gehobener Dienst – Mitteilung über das Ergebnis der Zwischenprüfung
+# Anlage 11 – (zu § 42 Absatz 1) – gehobener Dienst – Mitteilung über das Ergebnis der Zwischenprüfung
 
 (Fundstelle: BGBl. I 2019, 180 - 181)
 
-
-## Anlage 12 – (zu § 42 Absatz 2 und § 46 Absatz 2) – mittlerer/gehobener Dienst – Prüfungszeugnis
+# Anlage 12 – (zu § 42 Absatz 2 und § 46 Absatz 2) – mittlerer/gehobener Dienst – Prüfungszeugnis
 
 (Fundstelle: BGBl. I 2012, 1149)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0120.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 13 – (zu § 43 Absatz 1 und § 45 Absatz 1) – mittlerer Dienst – Beurteilungsblatt für die Laufbahnprüfung
+# Anlage 13 – (zu § 43 Absatz 1 und § 45 Absatz 1) – mittlerer Dienst – Beurteilungsblatt für die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1150 - 1151)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0130.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 14 – (zu § 43 Absatz 1 und § 45 Absatz 1) – gehobener Dienst – Beurteilungsblatt für die Laufbahnprüfung
+# Anlage 14 – (zu § 43 Absatz 1 und § 45 Absatz 1) – gehobener Dienst – Beurteilungsblatt für die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1152 - 1153)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0140.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 15 – (zu § 43 Absatz 4) – mittlerer Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
+# Anlage 15 – (zu § 43 Absatz 4) – mittlerer Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1154 - 1155)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0150.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 16 – (zu § 43 Absatz 4) – gehobener Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
+# Anlage 16 – (zu § 43 Absatz 4) – gehobener Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2019, 182 - 183)
 
@@ -890,25 +820,21 @@ Ihre schriftlichen Prüfungsarbeiten sind wie folgt bewertet worden:
   
   
 
-
-## Anlage 17 – (zu § 46 Absatz 3) – mittlerer Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
+# Anlage 17 – (zu § 46 Absatz 3) – mittlerer Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2019, 184)
 
-
-## Anlage 18 – (zu § 46 Absatz 3) – gehobener Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
+# Anlage 18 – (zu § 46 Absatz 3) – gehobener Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2019, 185)
 
-
-## Anlage 19 – (zu § 48) – mittlerer Dienst – Niederschrift über die Laufbahnprüfung
+# Anlage 19 – (zu § 48) – mittlerer Dienst – Niederschrift über die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1160 - 1161)
 
 <a href="../normengrafiken/bgbl1_2012/j1126_0190.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">Link auf PDF</a>
 
-
-## Anlage 20 – (zu § 48) – gehobener Dienst – Niederschrift über die Laufbahnprüfung
+# Anlage 20 – (zu § 48) – gehobener Dienst – Niederschrift über die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1162 - 1163)
 

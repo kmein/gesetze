@@ -1,10 +1,7 @@
-# [BerlinFG 1990] Gesetz zur Förderung der Berliner Wirtschaft  (Berlinförderungsgesetz 1990 - BerlinFG 1990)
-
-Ausfertigungsdatum: 07.03.1950
-
+% Gesetz zur Förderung der Berliner Wirtschaft  (Berlinförderungsgesetz 1990 - BerlinFG 1990)
+% Ausfertigungsdatum: 07.03.1950
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt I
 
@@ -532,8 +529,7 @@ Berlin-Klausel
 
 § 33
 
-
-## § 1 – Kürzungsanspruch des Berliner Unternehmers
+# § 1 – Kürzungsanspruch des Berliner Unternehmers
 
 (1) Hat ein Berliner Unternehmer an einen westdeutschen Unternehmer Gegenstände geliefert, so ist er berechtigt, die von ihm geschuldete Umsatzsteuer um 2 vom Hundert des für diese Gegenstände vereinbarten Entgelts zu kürzen, wenn die Gegenstände in Berlin (West) hergestellt worden sind und aus Berlin (West) in den übrigen Geltungsbereich dieses Gesetzes gelangt sind.
 
@@ -589,8 +585,7 @@ Der geminderte Kürzungssatz ist auf zwei Dezimalstellen zu runden.
 
 (+++ § 1: Zur Anwendung vgl. § 31 Abs. 2 Satz 1 F. ab 1991-06-24 +++)
 
-
-## § 1a – Kürzungsanspruch für Innenumsätze
+# § 1a – Kürzungsanspruch für Innenumsätze
 
 (1) Hat ein Unternehmer Gegenstände, die er in einer Betriebsstätte in Berlin (West) hergestellt hat, zwecks gewerblicher Verwendung in eine westdeutsche Betriebsstätte verbracht und ist ein Kürzungsanspruch nach § 1 nicht gegeben, so ist der Unternehmer berechtigt, die von ihm geschuldete Umsatzsteuer um 3 vom Hundert des Verrechnungsentgelts (§ 7 Abs. 3) für die verbrachten Gegenstände zu kürzen. Die Lieferung der Gegenstände an Abnehmer im übrigen Geltungsbereich dieses Gesetzes, die nicht westdeutscher Unternehmer im Sinne des § 5 Abs. 2 sind, gilt nicht als gewerbliche Verwendung, es sei denn, daß die Gegenstände in der westdeutschen Betriebsstätte bearbeitet oder verarbeitet worden sind; die Vorschrift des § 6 Abs. 1 gilt sinngemäß.
 
@@ -616,20 +611,17 @@ Der geminderte Kürzungssatz ist auf zwei Dezimalstellen zu runden.
 
 (+++ § 1a: Zur Anwendung vgl. § 31 Abs. 2 Satz 1 F. ab 1991-06-24 +++)
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3 – Beschränkung auf den Unternehmensbereich
+# § 3 – Beschränkung auf den Unternehmensbereich
 
 Die Kürzungen nach § 1 werden nur gewährt, wenn der Berliner Unternehmer die Lieferungen und sonstigen Leistungen im Rahmen seines Unternehmens und für das Unternehmen des westdeutschen Unternehmers ausgeführt hat. § 5 Abs. 2 Nr. 4 bleibt unberührt.
 
 (+++ § 3: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 4 – Ausnahmen, Einschränkungen
+# § 4 – Ausnahmen, Einschränkungen
 
 (1) Die Kürzungen nach § 1 Abs. 1 und § 1a Abs. 1 werden nicht gewährt für die Lieferung, das Verbringen oder den Erwerb folgender Gegenstände:
 
@@ -703,8 +695,7 @@ Die Minderungen des Entgelts oder Verrechnungsentgelts sind buchmäßig (§ 10) 
 
 (+++ § 4: Zur erstmaligen Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 5 – Berliner Unternehmer, westdeutscher Unternehmer
+# § 5 – Berliner Unternehmer, westdeutscher Unternehmer
 
 (1) Berliner Unternehmer im Sinne dieses Gesetzes ist
 
@@ -726,8 +717,7 @@ Voraussetzung ist, daß die Geschäftsleitung (Nummer 1) oder die Betriebsstätt
 
 (+++ § 5: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 6 – Herstellung in Berlin (West)
+# § 6 – Herstellung in Berlin (West)
 
 (1) Eine Herstellung in Berlin (West) liegt vor, wenn durch eine Bearbeitung oder Verarbeitung in Berlin (West) nach der Verkehrsauffassung ein Gegenstand anderer Marktgängigkeit entstanden ist, es sei denn, daß der Gegenstand in Berlin (West) nur geringfügig behandelt worden ist. Kennzeichnen, Umpacken, Umfüllen, Sortieren, das Zusammenstellen von erworbenen Gegenständen zu Sachgesamtheiten und das Anbringen von Steuerzeichen gelten nicht als Bearbeitung oder Verarbeitung.
 
@@ -739,8 +729,7 @@ Voraussetzung ist, daß die Geschäftsleitung (Nummer 1) oder die Betriebsstätt
 
 (+++ § 6: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 6a – Berliner Wertschöpfungsquote
+# § 6a – Berliner Wertschöpfungsquote
 
 (1) Die Berliner Wertschöpfungsquote im Sinne dieses Gesetzes ist der Vomhundertsatz, der sich aus dem Verhältnis ergibt, in dem die Berliner Wertschöpfung zum wirtschaftlichen Umsatz der in Berlin (West) belegenen Betriebsstätten des Berliner Unternehmers steht. In den Fällen des § 2 Abs. 2 Nr. 2 des Umsatzsteuergesetzes sind Organgesellschaften als Betriebsstätten des Unternehmers anzusehen.
 
@@ -788,8 +777,7 @@ Die Tabaksteuer, die Branntweinabgaben und die Kaffeesteuer bleiben bei der Ermi
 
 (+++ § 6a: Zur Anwendung vgl. § 31 Abs. 2 u. Abs. 3 Satz 2 F. ab 1990-02-02, F. ab 1991-06-24 +++)
 
-
-## § 6b – Begriffe
+# § 6b – Begriffe
 
 (1) Als Berliner Gewinn im Sinne des § 6a Abs. 2 Nr. 1 gilt der für Zwecke der Einkommensteuer ermittelte Gewinn, der in den in Berlin (West) belegenen Betriebsstätten erzielt worden ist; bei Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des Körperschaftsteuergesetzes sind die für Zwecke der Körperschaftsteuer ermittelten Einkünfte aus Gewerbebetrieb anzusetzen. Bei der Ermittlung des Berliner Gewinnes bleiben unberücksichtigt
 
@@ -837,8 +825,7 @@ die sich auf abnutzbare bewegliche und unbewegliche Wirtschaftsgüter beziehen, 
 
 (+++ § 6b: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 6c – Berliner Vorleistungen
+# § 6c – Berliner Vorleistungen
 
 (1) Als Berliner Vorleistungen im Sinne des § 6a Abs. 2 Nr. 9 gelten
 
@@ -878,8 +865,7 @@ i) die Reinigung von in Berlin (West) belegenen Grundstücken.
 
 (+++ § 6c: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 7 – Bemessungsgrundlage
+# § 7 – Bemessungsgrundlage
 
 (1) Zum Entgelt im Sinne dieses Gesetzes gehört nicht die Umsatzsteuer. § 10 Abs. 1 des Umsatzsteuergesetzes ist anzuwenden.
 
@@ -889,13 +875,11 @@ i) die Reinigung von in Berlin (West) belegenen Grundstücken.
 
 (+++ § 7: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 8
+# § 8
 
 \-
 
-
-## § 9 – Versendungs- und Beförderungsnachweis
+# § 9 – Versendungs- und Beförderungsnachweis
 
 (1) Der Nachweis, daß die in § 1 Abs. 1 und 3 und § 1a Abs. 1 bezeichneten Gegenstände in den übrigen Geltungsbereich dieses Gesetzes gelangt sind, ist durch einen Versendungsbeleg, insbesondere durch Frachtbrief, Posteinlieferungsschein, Konnossement oder deren Doppelstücke, oder durch einen sonstigen handelsüblichen Beleg, insbesondere durch eine Bescheinigung des vom Unternehmer beauftragten Spediteurs, eine Versandbestätigung des Lieferers oder eine Empfangsbestätigung der Betriebsstätte oder des Erwerbers oder Auftraggebers im übrigen Geltungsbereich dieses Gesetzes, im Geltungsbereich dieses Gesetzes zu führen. Aus dem sonstigen Beleg muß sich mindestens die handelsübliche Bezeichnung und Menge der Gegenstände, der Tag der Versendung oder Beförderung und das Beförderungsmittel (z.B. Eisenbahn oder Lastkraftwagen) ergeben. Außerdem soll der Beleg die Versicherung des Ausstellers enthalten, daß die Angaben in dem Beleg auf Grund von Geschäftsunterlagen gemacht wurden, die im Geltungsbereich dieses Gesetzes nachprüfbar sind.
 
@@ -905,8 +889,7 @@ i) die Reinigung von in Berlin (West) belegenen Grundstücken.
 
 (+++ § 9: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 10 – Buchmäßiger Nachweis
+# § 10 – Buchmäßiger Nachweis
 
 (1) Die buchmäßig nachzuweisenden Voraussetzungen müssen eindeutig und leicht nachprüfbar aus der Buchführung zu ersehen sein. Die Bücher sind im Geltungsbereich dieses Gesetzes zu führen.
 
@@ -960,8 +943,7 @@ h) in den Fällen des § 4 Abs. 2 der Betrag, um den das Verrechnungsentgelt zu 
 
 (+++ § 10: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 11 – Verfahren bei der Kürzung
+# § 11 – Verfahren bei der Kürzung
 
 (1) Die Kürzungsbeträge nach den §§ 1 und 1a sind mit der für einen Voranmeldungszeitraum oder Besteuerungszeitraum geschuldeten Umsatzsteuer zu verrechnen.
 
@@ -971,25 +953,21 @@ h) in den Fällen des § 4 Abs. 2 der Betrag, um den das Verrechnungsentgelt zu 
 
 (+++ § 11: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-04 +++)
 
-
-## § 12 – Wegfall der Kürzungsansprüche
+# § 12 – Wegfall der Kürzungsansprüche
 
 Gelangen Gegenstände, für deren Verbringen Anspruch auf die Kürzung nach § 1a besteht, nach Berlin (West) zurück, ohne daß sie im übrigen Geltungsbereich dieses Gesetzes einer Bearbeitung oder Verarbeitung im Sinne des § 6 Abs. 1 unterlegen haben, so darf die geschuldete Umsatzsteuer nicht gekürzt werden. Liefert der westdeutsche Unternehmer die Gegenstände an den Berliner Lieferer zurück, so darf auch die Kürzung nach § 1 nicht vorgenommen werden. Ist die Kürzung bereits vorgenommen worden, so ist der Kürzungsbetrag an das Finanzamt zurückzuzahlen.
 
 (+++ § 12: Zur Anwendung vgl. § 31 Abs. 2 F. ab 1991-06-24 +++)
 
-
-## § 13
-
-\-
-
-
-## § 13a
+# § 13
 
 \-
 
+# § 13a
 
-## § 14 – Erhöhte Absetzungen für abnutzbare Wirtschaftsgüter des Anlagevermögens
+\-
+
+# § 14 – Erhöhte Absetzungen für abnutzbare Wirtschaftsgüter des Anlagevermögens
 
 (1) Bei abnutzbaren Wirtschaftsgütern, die zum Anlagevermögen einer in Berlin (West) belegenen Betriebsstätte gehören und bei denen die Voraussetzungen des Absatzes 2 vorliegen, können im Wirtschaftsjahr der Anschaffung oder Herstellung und in den 4 folgenden Wirtschaftsjahren an Stelle der nach § 7 des Einkommensteuergesetzes zu bemessenden Absetzungen für Abnutzung erhöhte Absetzungen bis zur Höhe von insgesamt 75 vom Hundert der Anschaffungs- oder Herstellungskosten vorgenommen werden. Von dem Wirtschaftsjahr an, in dem erhöhte Absetzungen nach Satz 1 nicht mehr vorgenommen werden können, spätestens vom fünften auf das Wirtschaftsjahr der Anschaffung oder Herstellung folgenden Wirtschaftsjahr an, bemessen sich die Absetzungen für Abnutzung nach § 7a Abs. 9 des Einkommensteuergesetzes.
 
@@ -1031,8 +1009,7 @@ Die erhöhten Absetzungen bemessen sich in diesen Fällen nach den Herstellungsk
 (+++ § 14: Zur weiteren Anwendung vgl. § 31 Abs. 4 F. ab 1991-06-24 +++)  
 (+++ § 14 Abs. 6 F. 1978-12-22: Zur letztmaligen Anwendung vgl. § 31 Abs. 5 F. ab 1988-07-25 +++)
 
-
-## § 14a – Erhöhte Absetzungen für Mehrfamilienhäuser
+# § 14a – Erhöhte Absetzungen für Mehrfamilienhäuser
 
 (1) Bei in Berlin (West) belegenen Gebäuden, die mehr als zwei Wohnungen enthalten (Mehrfamilienhäuser), zu mehr als 66 2/3 vom Hundert Wohnzwecken dienen und vom Steuerpflichtigen hergestellt oder bis zum Ende des Jahres der Fertigstellung angeschafft worden sind, können abweichend von § 7 Abs. 4 und 5 des Einkommensteuergesetzes im Jahr der Fertigstellung oder Anschaffung und dem darauffolgenden Jahr jeweils bis zu 14 vom Hundert, ferner in den darauffolgenden 10 Jahren jeweils bis zu 4 vom Hundert der Herstellungskosten oder Anschaffungskosten abgesetzt werden. Im Falle der Anschaffung ist Satz 1 nur anzuwenden, wenn der Hersteller für das veräußerte Gebäude weder Absetzungen für Abnutzung nach § 7 Abs. 5 des Einkommensteuergesetzes noch erhöhte Absetzungen oder Sonderabschreibungen in Anspruch genommen hat. Nach Ablauf dieser zwölf Jahre sind als Absetzungen für Abnutzung bis zur vollen Absetzung jährlich 3,5 vom Hundert des Restwerts abzuziehen; § 7 Abs. 4 Satz 2 des Einkommensteuergesetzes gilt entsprechend.
 
@@ -1055,8 +1032,7 @@ Die erhöhten Absetzungen bemessen sich in diesen Fällen nach den Herstellungsk
 (+++ § 14a Abs. 6: Zur erstmaligen Anwendung vgl. § 31 Abs. 9 F. ab 1990-02-02 +++)  
 (+++ § 14a Abs. 7 F. 1978-12-22: Zur letztmaligen Anwendung vgl. § 31 Abs. 5 F. ab 1988-07-25 +++)
 
-
-## § 14b – Erhöhte Absetzungen für Modernisierungsmaßnahmen bei Mehrfamilienhäusern
+# § 14b – Erhöhte Absetzungen für Modernisierungsmaßnahmen bei Mehrfamilienhäusern
 
 (1) Bei in Berlin (West) belegenen Mehrfamilienhäusern kann der Steuerpflichtige neben den Absetzungen für Abnutzung für das Gebäude von den Herstellungskosten, die er für Modernisierungsmaßnahmen aufgewendet hat, an Stelle der nach § 7 Abs. 4 oder 5 des Einkommensteuergesetzes oder nach § 14a zu bemessenden Absetzungen im Jahr der Beendigung der Modernisierungsarbeiten und in den beiden folgenden Jahren erhöhte Absetzungen bis zur Höhe von insgesamt 50 vom Hundert vornehmen. Satz 1 gilt entsprechend für Anschaffungskosten, die auf Modernisierungsmaßnahmen entfallen, soweit diese nach dem rechtswirksamen Abschluß eines obligatorischen Erwerbsvertrags oder eines gleichstehenden Rechtsakts durchgeführt worden sind. Von dem Jahr an, in dem erhöhte Absetzungen nach Satz 1 nicht mehr vorgenommen werden können, spätestens vom dritten auf das Jahr der Beendigung der Modernisierungsarbeiten folgenden Jahr an, ist der Restwert in 5 gleichen Jahresbeträgen abzusetzen.
 
@@ -1107,8 +1083,7 @@ Die Voraussetzung der Nummer 1 Buchstabe a entfällt bei Aufwendungen für die i
 (+++ § 14b: Zur Anwendung vgl. § 31 Abs. 7 F. ab 1990-02-02 u. Abs. 9a F. ab 1991-06-24 +++)  
 (+++ § 14b Abs. 4 F. 1978-12-22: Zur letztmaligen Anwendung vgl. § 31 Abs. 17 F. 1986-12-10, Abs. 5 F. ab 1988-07-25 +++)
 
-
-## § 14c – Erhöhte Absetzungen für Baumaßnahmen an Gebäuden zur Schaffung neuer Mietwohnungen
+# § 14c – Erhöhte Absetzungen für Baumaßnahmen an Gebäuden zur Schaffung neuer Mietwohnungen
 
 Bei in Berlin (West) belegenen Wohnungen ist § 7c des Einkommensteuergesetzes mit der Maßgabe anzuwenden, daß
 
@@ -1122,8 +1097,7 @@ Die erhöhten Absetzungen können nur in Anspruch genommen werden, wenn die Wohn
 
 (+++ § 14c: Zur erstmaligen Anwendung vgl. § 31 Abs. 9 F. ab 1990-02-02 +++)
 
-
-## § 14d – Erhöhte Absetzungen für Wohnungen mit Sozialbindung
+# § 14d – Erhöhte Absetzungen für Wohnungen mit Sozialbindung
 
 (1) Bei in Berlin (West) belegenen Wohnungen, die vor dem 1. Januar 1993 fertiggestellt worden sind, ist § 7k des Einkommensteuergesetzes mit der Maßgabe anzuwenden, daß der Steuerpflichtige abweichend von § 14a
 
@@ -1137,8 +1111,7 @@ Die erhöhten Absetzungen können nur in Anspruch genommen werden, wenn die Wohn
 
 (+++ § 14d: Zur erstmaligen Anwendung vgl. § 31 Abs. 9 F. ab 1990-02-02 +++)
 
-
-## § 15 – Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
+# § 15 – Erhöhte Absetzungen für Einfamilienhäuser, Zweifamilienhäuser und Eigentumswohnungen
 
 (1) Bei in Berlin (West) belegenen Einfamilienhäusern, Zweifamilienhäusern und Eigentumswohnungen sowie bei Ausbauten und Erweiterungen an in Berlin (West) belegenen Einfamilienhäusern, Zweifamilienhäusern und Eigentumswohnungen ist § 7b Abs. 1 bis 6 des Einkommensteuergesetzes mit der Maßgabe anzuwenden, daß
 
@@ -1184,15 +1157,13 @@ für das Einfamilienhaus, das Zweifamilienhaus oder die Eigentumswohnung erhöht
 
 (+++ § 15 Abs. 6 F. 1978-12-22: Zur letztmaligen Anwendung vgl. § 31 Abs. 17 F. 1986-12-10, Abs. 5 F. ab 1988-07-25 +++)
 
-
-## § 15a – Verluste bei beschränkter Haftung
+# § 15a – Verluste bei beschränkter Haftung
 
 § 15a des Einkommensteuergesetzes gilt nicht, soweit Verluste bei den Einkünften aus Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger Arbeit auf der Inanspruchnahme erhöhter Absetzungen nach den §§ 14, 14a bis 14d oder 15 beruhen. Scheidet ein Mitunternehmer, dessen Kapitalkonto in der Steuerbilanz der Gesellschaft auf Grund von nach Satz 1 ausgleichs- oder abzugsfähigen Verlusten negativ geworden ist, aus der Gesellschaft aus oder wird in einem solchen Fall die Gesellschaft aufgelöst, so gilt der Betrag, den der Mitunternehmer nicht ausgleichen muß, als Veräußerungsgewinn im Sinne des § 16 des Einkommensteuergesetzes. In Höhe der nach Satz 2 als Gewinn zuzurechnenden Beträge sind bei den anderen Mitunternehmern unter Berücksichtigung der für die Zurechnung von Verlusten geltenden Grundsätze Verlustanteile anzusetzen.
 
 (+++ § 15a: Zur erstmaligen Anwendung vgl. § 31 Abs. 9 u. Abs. 10 F. ab 1990-02-02 +++)
 
-
-## § 15b – Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus
+# § 15b – Steuerbegünstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus
 
 (1) Bei zu eigenen Wohnzwecken genutzten Wohnungen in einem in Berlin (West) belegenen eigenen Haus und bei zu eigenen Wohnzwecken genutzten Eigentumswohnungen in Berlin (West) gilt § 10e des Einkommensteuergesetzes mit der Maßgabe, daß
 
@@ -1228,8 +1199,7 @@ für die Wohnung Abzugsbeträge nach Absatz 1 oder 2 nicht geltend gemacht haben
 
 (+++ § 15b: Zur Anwendung vgl. § 31 Abs. 10a F. ab 1991-06-24 +++)
 
-
-## § 16 – Steuerermäßigung für Darlehen zur Finanzierung von betrieblichen Investitionen
+# § 16 – Steuerermäßigung für Darlehen zur Finanzierung von betrieblichen Investitionen
 
 (1) Bei unbeschränkt Steuerpflichtigen, die der Berliner Industriebank Aktiengesellschaft oder der Niederlassung Berlin der Industriekreditbank Aktiengesellschaft - Deutsche Industriebank unter den Voraussetzungen des Absatzes 2 vor dem 1. Juli 1991 Darlehen gewähren, ermäßigt sich die Einkommensteuer oder Körperschaftsteuer für den Veranlagungszeitraum der Hingabe um 12 vom Hundert der hingegebenen Darlehen. Sind die Darlehen aus Mitteln eines Betriebs gegeben worden, so ermäßigt sich die Einkommensteuer oder Körperschaftsteuer des Veranlagungszeitraums, in dem das Wirtschaftsjahr endet, in dessen Verlauf die Darlehen gegeben worden sind.
 
@@ -1258,8 +1228,7 @@ Bei Schiffen tritt an die Stelle des Zeitraums von 3 Jahren ein Zeitraum von 8 J
 (+++ § 16 Abs. 2 Satz 3: Zur erstmaligen Anwendung vgl. § 31 Abs. 11 F. ab 1990-02-02 +++)  
 (+++ § 16 Abs. 3 Satz 3 u. 4: Zur erstmaligen Anwendung vgl. § 31 Abs. 12 F. ab 1990-02-02 +++)
 
-
-## § 17 – Steuerermäßigung für Darlehen zur Finanzierung von Baumaßnahmen
+# § 17 – Steuerermäßigung für Darlehen zur Finanzierung von Baumaßnahmen
 
 (1) Bei unbeschränkt Steuerpflichtigen, die vor dem 1. Januar 1992 unverzinsliche, in gleichen Jahresbeträgen zu tilgende Darlehen mit einer Laufzeit von mindestens 10 Jahren gewähren, ermäßigt sich unter den Voraussetzungen der Absätze 3 bis 7 die Einkommensteuer oder Körperschaftsteuer für den Veranlagungszeitraum der Hingabe um 20 vom Hundert der hingegebenen Darlehen. Werden die Darlehen von Steuerpflichtigen, die den Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermitteln, aus Mitteln des Betriebs gegeben, so sind die Darlehen in der Bilanz mit dem Wert anzusetzen, der sich nach Abzug von Zwischenzinsen unter Berücksichtigung von Zinseszinsen vom Nennbetrag der Darlehen ergibt. Dabei ist von einem Zinssatz von höchstens 5,5 vom Hundert auszugehen. Die Sätze 2 und 3 gelten auch, wenn die Hingabe der Darlehen nicht durch den Betrieb veranlaßt ist. Sind die Darlehen aus Mitteln eines Betriebs gegeben worden, so ermäßigt sich die Einkommensteuer oder Körperschaftsteuer des Veranlagungszeitraums, in dem das Wirtschaftsjahr endet, in dessen Verlauf die Darlehen gegeben worden sind.
 
@@ -1294,13 +1263,11 @@ Satz 1 gilt entsprechend, wenn die Darlehen zur Finanzierung von Anschaffungskos
 (+++ § 17 Abs. 3: Zur Anwendung vgl. § 31 Abs. 13 F. ab 1990-02-02 +++)  
 (+++ § 17 Abs. 3 Satz 4: Zur erstmaligen Anwendung vgl. § 31 Abs. 11 F. ab 1990-02-02 +++)
 
-
-## § 18 – Anwendung der §§ 16 und 17 durch Arbeitnehmer
+# § 18 – Anwendung der §§ 16 und 17 durch Arbeitnehmer
 
 Besteht das Einkommen ganz oder teilweise aus Einkünften aus nichtselbständiger Arbeit, von denen ein Steuerabzug vorgenommen wird, und liegen die Voraussetzungen des § 46 Abs. 1 und 2 des Einkommensteuergesetzes nicht vor, so kann die Veranlagung zur Anwendung der Vorschriften der §§ 16 und 17 beantragt werden; § 46 Abs. 2 Nr. 8 Buchstabe a und Abs. 3 und 5 des Einkommensteuergesetzes ist sinngemäß anzuwenden.
 
-
-## § 19 – Investitionszulage für Investitionen in Berlin (West)
+# § 19 – Investitionszulage für Investitionen in Berlin (West)
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des Körperschaftsteuergesetzes, die begünstigte Investitionen vornehmen, haben Anspruch auf eine Investitionszulage. Bei Gesellschaften im Sinne des § 15 Abs. 1 Nr. 2 und Abs. 3 des Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen die Gesellschaft als Anspruchsberechtigter.
 
@@ -1386,13 +1353,11 @@ Bemessungsgrundlage für die Investitionszulage ist die Summe der Anschaffungs- 
 (+++ § 19: Zur weiteren Anwendung vgl. § 31 Abs. 10 F. ab 1991-06-24 +++)  
 (+++ § 19 F. 1986-12-10: Zur Anwendung vgl. § 31 Abs. 14 F. ab 1990-02-02 +++)
 
-
-## § 20 – Verfolgung von Straftaten nach § 264 des Strafgesetzbuches
+# § 20 – Verfolgung von Straftaten nach § 264 des Strafgesetzbuches
 
 Für die Verfolgung einer Straftat nach § 264 des Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie der Begünstigung einer Person, die eine solche Straftat begangen hat, gelten die Vorschriften der Abgabenordnung über die Verfolgung von Steuerstraftaten entsprechend.
 
-
-## § 21 – Ermäßigung der veranlagten Einkommensteuer und Körperschaftsteuer
+# § 21 – Ermäßigung der veranlagten Einkommensteuer und Körperschaftsteuer
 
 (1) Bei zur Einkommensteuer veranlagten Personen, die
 
@@ -1442,15 +1407,13 @@ Für Einkünfte im Sinne des § 23 Nr. 2, soweit sie Einnahmen im Sinne des § 2
 
 (3) Bei Steuerpflichtigen, die, ohne die Voraussetzungen der Absätze 1 oder 2 zu erfüllen, eine oder mehrere Betriebsstätten eines Gewerbebetriebs in Berlin (West) unterhalten, in denen während des Veranlagungszeitraums im Durchschnitt regelmäßig insgesamt mindestens 25 Arbeitnehmer beschäftigt worden sind, ermäßigt sich die tarifliche Einkommensteuer um die in Absatz 1 Satz 2 genannten Vomhundertsätze oder vorbehaltlich des Satzes 2 die tarifliche Körperschaftsteuer um die in Absatz 2 Satz 1 genannten Vomhundertsätze, soweit sie nach § 23 Nr. 2 auf Einkünfte aus diesen Betriebsstätten entfällt. Absatz 2 Satz 2 gilt entsprechend. Ist der Steuerpflichtige Mitunternehmer im Sinne des § 15 Abs. 1 Nr. 2 des Einkommensteuergesetzes, so genügt es, wenn die in Satz 1 bezeichnete Mindestzahl von Arbeitnehmern insgesamt in den in Berlin (West) unterhaltenen Betriebsstätten des Unternehmens, an dem der Steuerpflichtige beteiligt ist, beschäftigt worden ist. Unterhält ein Steuerpflichtiger Betriebsstätten mehrerer Gewerbebetriebe in Berlin (West), so werden die Ermäßigungen nur insoweit gewährt, als in den Betriebsstätten des einzelnen Gewerbebetriebs die in Satz 1 bezeichnete Mindestzahl von Arbeitnehmern beschäftigt worden ist.
 
-
-## § 22 – Ermäßigung der veranlagten Einkommensteuer bei Zuzug von Arbeitnehmern
+# § 22 – Ermäßigung der veranlagten Einkommensteuer bei Zuzug von Arbeitnehmern
 
 Bei zur Einkommensteuer veranlagten Arbeitnehmern, die, ohne die Voraussetzungen des § 21 Abs. 1 zu erfüllen, in Berlin (West) ihren Aufenthalt begründen und dort eine nichtselbständige Beschäftigung für einen zusammenhängenden Zeitraum von mindestens 3 Monaten aufnehmen, ermäßigt sich die tarifliche Einkommensteuer (§ 32a Abs. 1 und 5 des Einkommensteuergesetzes), soweit sie auf Einkünfte im Sinne des § 23 Nr. 4 Buchstabe a aus dieser Beschäftigung entfällt, um 30 vom Hundert. § 21 Abs. 1 Satz 3 und 4 gilt entsprechend.
 
 (+++ § 22: Zur letztmaligen Anwendung vlg. § 31 Abs. 14a F. ab 1991-06-24 +++)
 
-
-## § 23 – Einkünfte aus Berlin (West)
+# § 23 – Einkünfte aus Berlin (West)
 
 Einkünfte aus Berlin (West) im Sinne des § 21 sind
 
@@ -1484,15 +1447,13 @@ b) im Sinne des § 20 Abs. 1 Nr. 5 des Einkommensteuergesetzes, wenn das Kapital
 
 § 23 Kursivdruck: Jetzt Nr. 6 bis 8, § 20 Abs. 1 des Einkommensteuergesetzes geändert gem. Art. 3 Nr. 14 Buchst. b und c G v. 14.12.1984 I 1493 mWv 1.1.1985; weitere Änderungen von § 20 Abs. 1 vgl. G v. 25.7.1988 I 1093, 2074, G v. 30.6.1989 I 1267, G v. 25.2.1992 I 297
 
-
-## § 24 – Behandlung von Organgesellschaften und verbundenen Unternehmen
+# § 24 – Behandlung von Organgesellschaften und verbundenen Unternehmen
 
 (1) In den Fällen der §§ 14, 17 und 18 des Körperschaftsteuergesetzes sind für die Ermittlung der in Betriebsstätten in Berlin (West) erzielten Einkünfte aus Gewerbebetrieb (§ 23 Nr. 2) Organgesellschaften als Betriebstätten des Organträgers anzusehen.
 
 (2) Bestehen bei einem Unternehmen mit einem oder mehreren anderen Unternehmen, ohne daß die Voraussetzungen des Absatzes 1 vorliegen, Verbindungen organisatorischer, finanzieller oder wirtschaftlicher Art, so kann das Finanzamt für die Zwecke der Ermäßigung der Einkommensteuer oder Körperschaftsteuer den Gewinn aus Gewerbebetrieb dieses Unternehmens abweichend von dem bei der Veranlagung zugrunde gelegten Gewinn ansetzen. Maßgebend ist der Gewinn, der sich nach den Verhältnissen des Unternehmens ohne die bezeichneten Verbindungen ergeben hätte.
 
-
-## § 25 – Berechnung der Ermäßigung der veranlagten Einkommensteuer und Körperschaftsteuer
+# § 25 – Berechnung der Ermäßigung der veranlagten Einkommensteuer und Körperschaftsteuer
 
 (1) Sind in dem Einkommen nur Einkünfte aus Berlin (West) enthalten oder beträgt der Gesamtbetrag der Einkünfte nicht mehr als 3.000 Deutsche Mark, so wird die Ermäßigung vorbehaltlich des Absatzes 3 in vollem Umfang gewährt.
 
@@ -1510,8 +1471,7 @@ aufzuteilen. Beträgt die Summe der für die Ermäßigung der Einkommensteuer od
 
 (4) Durch Rechtsverordnung kann bestimmt werden, daß Einkünfte, bei denen die Einkommensteuer oder Körperschaftsteuer durch den Steuerabzug als abgegolten gilt, im Fall des Absatzes 2 unberücksichtigt bleiben, Freibeträge, Verlustabzüge, nicht entnommene Gewinne, abzuziehende ausländische Einkommensteuer oder Körperschaftsteuer von den Einkünften abgezogen werden, mit denen sie wirtschaftlich zusammenhängen oder auf die sie sich beziehen, nachzuversteuernde Mehrentnahmen diesen hinzugerechnet werden. Desgleichen kann durch Rechtsverordnung bestimmt werden, daß in den Fällen der §§ 34 und 34b des Einkommensteuergesetzes die außerordentlichen Einkünfte und die darauf entfallende Einkommensteuer von der Aufteilung nach Absatz 2 ausgenommen oder für die Berechnung der Ermäßigung nach den Grundsätzen des Absatzes 2 gesondert berücksichtigt werden.
 
-
-## § 26 – Ermäßigung der Lohnsteuer
+# § 26 – Ermäßigung der Lohnsteuer
 
 (1) Die vom Arbeitslohn einzubehaltende Lohnsteuer, die auf Einkünfte aus Berlin (West) im Sinne des § 23 Nr. 4 Buchstabe b entfällt, ermäßigt sich bei Arbeitnehmern, die
 
@@ -1549,13 +1509,11 @@ Die Ermäßigung beträgt
 
 (4) Liegen bei einer Pauschalierung der Lohnsteuer Arbeitslohnbeträge im Sinne des § 23 Nr. 4 Buchstabe a vor, sind die nach § 40 Abs. 1 des Einkommensteuergesetzes zu ermittelnden Pauschsteuersätze oder die Pauschsteuersätze nach § 40 Abs. 2, § 40a und § 40b des Einkommensteuergesetzes nach Maßgabe des Absatzes 1 Satz 2 zu ermäßigen; dabei ist zu berücksichtigen, daß die Übernahme der pauschalen Lohnsteuer durch den Arbeitgeber für den Arbeitnehmer eine in Geldwert bestehende Einnahme darstellt.
 
-
-## § 27 – Ermittlung der Teilbeträge des verwendbaren Eigenkapitals unbeschränkt steuerpflichtiger Körperschaften
+# § 27 – Ermittlung der Teilbeträge des verwendbaren Eigenkapitals unbeschränkt steuerpflichtiger Körperschaften
 
 Hat sich die Körperschaftsteuer für Einkünfte aus Berlin (West) nach § 21 Abs. 2 Satz 1 oder Abs. 3 Satz 1 ermäßigt, gelten diese Einkünfte für die Gliederung des verwendbaren Eigenkapitals in Höhe des Ermäßigungsbetrags als nicht mit Körperschaftsteuer belastete Vermögensmehrungen im Sinne des § 30 Abs. 1 Nr. 3 des Körperschaftsteuergesetzes. Um denselben Betrag gilt die Körperschaftsteuer, der die ermäßigt besteuerten Einkünfte unterlegen haben, als erhöht. Im übrigen gelten die Vorschriften des Vierten Teils des Körperschaftsteuergesetzes.
 
-
-## § 28 – Vergünstigung durch Zulagen
+# § 28 – Vergünstigung durch Zulagen
 
 (1) Arbeitnehmer, denen Arbeitslohn für eine Beschäftigung in Berlin (West) aus einem gegenwärtigen Dienstverhältnis zufließt (§ 23 Nr. 4 Buchstabe a), erhalten unbeschadet der Steuererleichterungen nach den Vorschriften der §§ 21, 22 und 26 eine Vergünstigung durch Gewährung von Zulagen. Das gilt auch, solange bei Unterbrechung oder Einschränkung der Beschäftigung im Rahmen eines solchen Dienstverhältnisses der Arbeitslohn fortgezahlt wird. Wird bei einer Unterbrechung oder Einschränkung der Beschäftigung der Arbeitslohn nicht oder nicht mehr fortgezahlt, so werden Zulagen je Kalendertag weitergewährt, solange
 
@@ -1695,8 +1653,7 @@ auszuzahlen. In den den Arbeitnehmern erteilten Lohnabrechnungen sind der Arbeit
 
 (+++ § 28 Abs. 4a Nr. 1: Zur erstmaligen Anwendung vgl. § 31 Abs. 14b F. ab 1992-02-25 +++)
 
-
-## § 29 – Ergänzende Vorschriften
+# § 29 – Ergänzende Vorschriften
 
 (1) Auf die Zulage sind die für Steuervergütungen geltenden Vorschriften der Abgabenordnung entsprechend anzuwenden. Dies gilt nicht für § 163 der Abgabenordnung.
 
@@ -1714,15 +1671,13 @@ auszuzahlen. In den den Arbeitnehmern erteilten Lohnabrechnungen sind der Arbeit
 
 (+++ § 29 Abs. 2 Satz 5: Zur Anwendung vgl. § 31 Abs. 15 F. ab 1990-02-02 +++)
 
-
-## § 29a – Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
+# § 29a – Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung
 
 (1) Für die Zulage gelten die Strafvorschriften des § 370 Abs. 1 bis 4, der §§ 371, 375 Abs. 1 und des § 376 sowie die Bußgeldvorschriften der §§ 378, 379 Abs. 1, 4 und des § 384 der Abgabenordnung entsprechend.
 
 (2) Für Strafverfahren wegen einer Straftat nach Absatz 1 sowie der Begünstigung einer Person, die eine solche Tat begangen hat, gelten die §§ 385 bis 408, für das Bußgeldverfahren wegen einer Ordnungswidrigkeit nach Absatz 1 die §§ 409 bis 412 der Abgabenordnung entsprechend.
 
-
-## § 30
+# § 30
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
@@ -1744,8 +1699,7 @@ b) über die Ersetzung von Zulagen an Arbeitgeber, wenn die Summe der Zulagen de
 
 (3) Der Bundesminister der Finanzen wird ermächtigt, zur Berechnung der Zulagen nach § 28 bei monatlicher, wöchentlicher und täglicher Lohnabrechnung Tabellen aufzustellen und bekanntzumachen.
 
-
-## § 31 – Anwendungsbereich
+# § 31 – Anwendungsbereich
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Veranlagungszeitraum 1990 anzuwenden. Beim Steuerabzug vom Arbeitslohn gilt Satz 1 mit der Maßgabe, daß die vorstehende Fassung dieses Gesetzes erstmals auf den laufenden Arbeitslohn, der für einen nach dem 31. Dezember 1989 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 1989 zufließen, anzuwenden ist. Für die Gewährung von Zulagen nach § 28 gilt Satz 1 mit der Maßgabe, daß die vorstehende Fassung dieses Gesetzes erstmals auf Lohnabrechnungszeiträume anzuwenden ist, die nach dem 31. Dezember 1989 enden. Überschreitet der Lohnabrechnungszeitraum fünf Wochen, so tritt an seine Stelle der Lohnzahlungszeitraum.
 
@@ -1799,12 +1753,10 @@ wenn der Anspruchsberechtigte die Investitionen vor dem 1. April 1989 begonnen h
 
 (15) Abweichend von § 29 Abs. 2 Satz 3 ist der Antrag bis zum Ablauf des Kalenderjahrs 1991 zu stellen, wenn die Festsetzung der Zulage für die Zeit vor dem 1. Juli 1991 beantragt wird, weil eine Beschäftigung im Sinne des § 23 Nr. 4 Buchstabe a Satz 6 vorgelegen hat. § 29 Abs. 2 Satz 5 ist auch auf Veranlagungszeiträume vor 1990 anzuwenden.
 
-
-## § 32 – Ermächtigung
+# § 32 – Ermächtigung
 
 Der Bundesminister der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum, unter neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
-## § 33
+# § 33
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.

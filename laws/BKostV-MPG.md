@@ -1,20 +1,15 @@
-# [BKostV-MPG] Gebührenverordnung zum Medizinproduktegesetz und den zu seiner Ausführung ergangenen Rechtsverordnungen  (Medizinprodukte-Gebührenverordnung - BKostV-MPG)
-
-Ausfertigungsdatum: 27.03.2002
-
+% Gebührenverordnung zum Medizinproduktegesetz und den zu seiner Ausführung ergangenen Rechtsverordnungen  (Medizinprodukte-Gebührenverordnung - BKostV-MPG)
+% Ausfertigungsdatum: 27.03.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 37 Abs. 9, 11 Satz 1 und Abs. 12 Satz 3 des Medizinproduktegesetzes vom 2. August 1994 (BGBl. I S. 1963), der durch Artikel 1 Nr. 32 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3586) neu gefasst worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die zuständige Bundesoberbehörde erhebt für ihre individuell zurechenbaren öffentlichen Leistungen nach dem Medizinproduktegesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen Gebühren und Auslagen nach Maßgabe folgender Vorschriften.
 
-
-## § 2 – Zulassung, Verlängerung und Änderung der Zulassung
+# § 2 – Zulassung, Verlängerung und Änderung der Zulassung
 
 (1) Die Gebühr beträgt für die Entscheidung  
 
@@ -26,13 +21,11 @@ Die zuständige Bundesoberbehörde erhebt für ihre individuell zurechenbaren ö
 
 (2) Wird die Zulassung nach § 11 Abs. 1 Satz 1 des Medizinproduktegesetzes oder § 7 Absatz 1 des Medizinprodukterecht-Durchführungsgesetzes gleichzeitig für mehrere gleichartige Medizinprodukte beantragt, gilt für die Entscheidung über die Zulassung für das erste geprüfte Medizinprodukt Absatz 1 Nr. 1. Für die Entscheidung über die Zulassung jedes weiteren Medizinproduktes kann die Gebühr ermäßigt werden, wenn die Gleichartigkeit der Medizinprodukte zu einem geringeren Prüfaufwand geführt hat, der die Ermäßigung rechtfertigt. Mindestens ist jedoch eine Gebühr von 1 100 Euro für jede weitere Entscheidung über die Zulassung zu erheben.
 
-
-## § 3 – Klassifizierung und Abgrenzung von Produkten
+# § 3 – Klassifizierung und Abgrenzung von Produkten
 
 Die Gebühr für eine Entscheidung nach § 13 Absatz 2 und 3 des Medizinproduktegesetzes zur Klassifizierung eines Medizinproduktes und zur Abgrenzung von Medizinprodukten zu anderen Produkten beträgt 400 bis 7 500 Euro.
 
-
-## § 4 – Konsultationsverfahren
+# § 4 – Konsultationsverfahren
 
 (1) Die Gebühr für die Stellungnahme im Rahmen der Konsultation nach Anhang II Ziffer 4.3 oder Anhang III Ziffer 5 jeweils in Verbindung mit Anhang I Ziffer 7.4 der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. EG Nr. L 169 S. 1), die zuletzt durch die Richtlinie 2000/70/EG des Europäischen Parlaments und des Rates vom 16. November 2000 (ABl. EG Nr. L 313 S. 22) geändert worden sind, in Verbindung mit § 4 oder § 6 der Verordnung über Medizinprodukte beträgt  
 
@@ -43,8 +36,7 @@ Die Gebühr für eine Entscheidung nach § 13 Absatz 2 und 3 des Medizinprodukte
 
 (2) Werden mehrere Konsultationsverfahren innerhalb des gleichen Zertifizierungsverfahrens durchgeführt, können die Gebühren für die folgenden Konsultationen jeweils auf 25 Prozent der vorgesehenen Gebühr ermäßigt werden. Wird die Durchführung von mehreren Konsultationsverfahren, die gleichartige Medizinprodukte betreffen, gleichzeitig beantragt, gilt für die Stellungnahme für das erste Medizinprodukt Absatz 1. Die Gebühren für die folgenden Konsultationen können ermäßigt werden, wenn die Gleichartigkeit der Medizinprodukte zu einem geringeren Prüfaufwand geführt hat, der die Ermäßigung rechtfertigt. Mindestens ist jedoch eine Gebühr von 1.250 Euro für jede weitere Konsultation zu erheben.
 
-
-## § 5 – Individuell zurechenbareöffentliche Leistungen im Rahmen klinischerPrüfungen und Leistungsbewertungsprüfungen
+# § 5 – Individuell zurechenbareöffentliche Leistungen im Rahmen klinischerPrüfungen und Leistungsbewertungsprüfungen
 
 (1) Die Gebühr beträgt für die Genehmigung
 
@@ -97,13 +89,11 @@ Die Gebühr für eine Entscheidung nach § 13 Absatz 2 und 3 des Medizinprodukte
 
 Die Gebühren für die Bearbeitung der Meldungen von schwerwiegenden unerwünschten Ereignissen dürfen je klinische Prüfung oder Leistungsbewertungsprüfung insgesamt 20 000 Euro nicht überschreiten.
 
-
-## § 6 – Beratungen
+# § 6 – Beratungen
 
 Die Gebühr für die Beratung des Verantwortlichen nach § 5 des Medizinproduktegesetzes, von Benannten Stellen und von Sponsoren nach § 32 des Medizinproduktegesetzes beträgt 500 bis 2 800 Euro.
 
-
-## § 7 – Gebühren in besonderen Fällen
+# § 7 – Gebühren in besonderen Fällen
 
 (1) Wird
 
@@ -127,8 +117,7 @@ so werden Gebühren nach Maßgabe des § 15 Absatz 2 des Verwaltungskostengesetz
 
 (7) Wird ein Widerspruch teilweise zurückgewiesen, ist die Gebühr nach den Absätzen 3 und 5 entsprechend dem Anteil der Stattgabe zu ermäßigen; die Mindestgebühr nach den Absätzen 3 und 5 darf nicht unterschritten werden.
 
-
-## § 8 – Sonstige Gebühren
+# § 8 – Sonstige Gebühren
 
 Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für  
 
@@ -181,34 +170,28 @@ die Einsichtnahme in Akten, es sei denn, es ist ein Widerspruchsverfahren anhän
   
 Der Antragsteller ist auf die Gebührenpflichtigkeit der individuell zurechenbaren öffentlichen Leistung nach Satz 1 hinzuweisen.
 
-
-## § 9 – Gebührenbemessung
+# § 9 – Gebührenbemessung
 
 Soweit diese Verordnung Gebührenrahmensätze vorsieht, richtet sich die Bemessung der konkreten Gebühr nach § 23 Absatz 4 Satz 2 und 3 des Bundesgebührengesetzes.
 
-
-## § 10 – Gebührenermäßigung und -befreiung auf Antrag
+# § 10 – Gebührenermäßigung und -befreiung auf Antrag
 
 Die nach § 2 zu erhebenden Gebühren können auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr ermäßigt werden, wenn der Antragsteller einen diesen Gebühren angemessen wirtschaftlichen Nutzen nicht erwarten kann oder die Anwendungsfälle selten sind oder die Zielgruppe, für die das Medizinprodukt bestimmt ist, klein ist. Von der Erhebung der Gebühren kann ganz abgesehen werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist.
 
-
-## § 11 – Gebührenerhöhung und -ermäßigung
+# § 11 – Gebührenerhöhung und -ermäßigung
 
 Erfordert eine nach den §§ 2 bis 6 und 8 Nummer 1 und 2 gebührenpflichtige individuell zurechenbare öffentliche Leistung im Einzelfall einen außergewöhnlich hohen Aufwand, so kann die vorgesehene Gebühr bis auf das Doppelte erhöht werden, bei einem Gebührenrahmensatz bis auf das Doppelte des entsprechenden Höchstsatzes. Der Gebührenschuldner ist zu hören, wenn mit einer solchen Erhöhung zu rechnen ist. Erfordert eine gebührenpflichtige individuell zurechenbare öffentliche Leistung nach Satz 1 im Einzelfall einen außergewöhnlich niedrigen Aufwand, so kann die Gebühr bis auf 50 Euro reduziert werden.
 
-
-## § 12 – Auslagen
+# § 12 – Auslagen
 
 Auslagen sind nach den Vorschriften des Bundesgebührengesetzes zu erstatten.
 
-
-## § 13 – Übergangsregelung
+# § 13 – Übergangsregelung
 
 (1) Für eine individuell zurechenbare öffentliche Leistung, die vor dem 11. November 2014 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, sind Gebühren und Auslagen nach der Medizinprodukte-Gebührenverordnung in der Fassung vor dem 11. November 2014 zu erheben.
 
 (2) Für eine individuell zurechenbare öffentliche Leistung, die vor dem 11. November 2014 vorgenommen, beantragt oder begonnen wurde, können Gebühren und Auslagen nach dieser Verordnung erhoben werden, soweit bei diesen Leistungen unter Hinweis auf die bevorstehende Ergänzung der Medizinprodukte-Gebührenverordnung eine Gebührenfestsetzung ausdrücklich vorbehalten worden ist.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

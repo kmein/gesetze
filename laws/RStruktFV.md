@@ -1,15 +1,11 @@
-# [RStruktFV] Verordnung über die Erhebung der Beiträge zum Restrukturierungsfonds für Kreditinstitute  (Restrukturierungsfonds-Verordnung - RStruktFV)
-
-Ausfertigungsdatum: 14.07.2015
-
+% Verordnung über die Erhebung der Beiträge zum Restrukturierungsfonds für Kreditinstitute  (Restrukturierungsfonds-Verordnung - RStruktFV)
+% Ausfertigungsdatum: 14.07.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12g des Restrukturierungsfondsgesetzes, der durch Artikel 3 Nummer 15 des Gesetzes vom 10. Dezember 2014 (BGBl. I S. 2091) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Jahresbeiträge für bestimmte Wertpapierfirmen und für Unionszweigstellen
+# § 1 – Jahresbeiträge für bestimmte Wertpapierfirmen und für Unionszweigstellen
 
 (1) Der Jahresbeitrag gemäß § 12b des Restrukturierungsfondsgesetzes für Institute im Sinne des § 2 Satz 1 Nummer 2 des Restrukturierungsfondsgesetzes, die Wertpapierfirmen im Sinne von Artikel 96 Absatz 1 Buchstabe a oder Buchstabe b der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) sind oder die die in Anhang I Abschnitt A Nummer 8 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom 30.4.2004, S. 1) genannte Tätigkeit, nicht aber die in Anhang I Abschnitt A Nummer 3 und 6 dieser Richtlinie genannten Tätigkeiten ausüben, berechnet sich nach Maßgabe von Absatz 3.
 
@@ -41,8 +37,7 @@ Die Berechnung des Jahresbeitrags nach Satz 1 erfolgt auf Basis des in Artikel 1
 
 (5) Bei der Berechnung der Beiträge nach Absatz 3 für die in Absatz 2 genannten Institute bestimmen sich die Eigenmittel nach Maßgabe von § 53 Absatz 2 Nummer 4 des Kreditwesengesetzes in der für das Bezugsjahr nach Absatz 3 geltenden Fassung. Für die Ermittlung der Verbindlichkeiten nach Absatz 3 bleibt ein passiver Verrechnungssaldo zur Hälfte unberücksichtigt. Für die Ermittlung der gedeckten Einlagen nach Absatz 3 gilt § 3 Absatz 1 und 2 entsprechend.
 
-
-## § 2 – Jahresbeiträge kleiner Institute
+# § 2 – Jahresbeiträge kleiner Institute
 
 (1) Die nach § 2 Satz 1 Nummer 1 und 2 des Restrukturierungsfondsgesetzes beitragspflichtigen Institute, mit Ausnahme der in § 1 Absatz 1 dieser Verordnung genannten Institute, bei denen die Summe der Vermögenswerte nach Artikel 3 Satz 2 Nummer 12 der Delegierten Verordnung (EU) Nr. 2015/63 höchstens 3 Milliarden Euro beträgt, zahlen als Jahresbeitrag für die ersten 300 Millionen Euro der Summe der Verbindlichkeiten im Sinne von Artikel 3 Satz 2 Nummer 11 der Delegierten Verordnung (EU) Nr. 2015/63 abzüglich Eigenmittel im Sinne von Artikel 3 Satz 2 Nummer 16 der Delegierten Verordnung (EU) Nr. 2015/63 und § 3 Absatz 4 und gedeckter Einlagen im Sinne von Artikel 3 Satz 2 Nummer 10 der Delegierten Verordnung (EU) Nr. 2015/63 und § 3 Absatz 2 eine Pauschale gemäß Artikel 10 Absatz 1 bis 6 der Delegierten Verordnung (EU) Nr. 2015/63. Für die Summe der Verbindlichkeiten im Sinne von Artikel 3 Satz 2 Nummer 11 der Delegierten Verordnung (EU) Nr. 2015/63 abzüglich Eigenmittel und gedeckter Einlagen, die über den Betrag von 300 Millionen Euro hinausgeht, leisten diese Institute einen risikoangepassten Jahresbeitrag nach Artikel 4 bis 9 der Delegierten Verordnung (EU) Nr. 2015/63.
 
@@ -50,8 +45,7 @@ Die Berechnung des Jahresbeitrags nach Satz 1 erfolgt auf Basis des in Artikel 1
 
 (3) Die Abwicklungsbehörde kann unbeschadet von Absatz 2 die Entscheidung gemäß Artikel 10 Absatz 8 der Delegierten Verordnung (EU) Nr. 2015/63 auch bezüglich der in Absatz 1 genannten Institute treffen.
 
-
-## § 3 – Jährliche Grundbeiträge nach der Delegierten Verordnung (EU) Nr. 2015/63
+# § 3 – Jährliche Grundbeiträge nach der Delegierten Verordnung (EU) Nr. 2015/63
 
 (1) Solange und soweit einzelne Daten aus Anhang II der Delegierten Verordnung (EU) Nr. 2015/63, die für die Ermittlung der jährlichen Grundbeiträge nach der Delegierten Verordnung (EU) Nr. 2015/63 erforderlich sind, für das Bezugsjahr des in Artikel 14 Absatz 1 der Delegierten Verordnung (EU) Nr. 2015/63 genannten Jahresabschlusses nicht in der nach Artikel 3 der Delegierten Verordnung (EU) Nr. 2015/63 vorgegebenen Form in der Meldung aller Institute gemäß Artikel 14 Absatz 3 der Delegierten Verordnung (EU) Nr. 2015/63 enthalten sind, bestimmt sich die Ermittlung der fehlenden Daten und deren Meldung an die Abwicklungsbehörde nach den Absätzen 2 bis 4.
 
@@ -61,8 +55,7 @@ Die Berechnung des Jahresbeitrags nach Satz 1 erfolgt auf Basis des in Artikel 1
 
 (4) Solange und soweit ein Institut die Eigenmittel im Sinne von Artikel 3 Satz 2 Nummer 16 der Delegierten Verordnung (EU) Nr. 2015/63 nicht zum Bilanzstichtag des Bezugsjahres nach Absatz 1 ermitteln und an die Abwicklungsbehörde melden kann, ermittelt die Abwicklungsbehörde die Eigenmittel näherungsweise. Dazu meldet das Institut das haftende Eigenkapital gemäß § 10 Absatz 2 des Kreditwesengesetzes in der zum 31. Dezember 2013 geltenden Fassung.
 
-
-## § 4 – Risikofelder und Risikoindikatoren nach Artikel 6 der Delegierten Verordnung (EU) Nr. 2015/63
+# § 4 – Risikofelder und Risikoindikatoren nach Artikel 6 der Delegierten Verordnung (EU) Nr. 2015/63
 
 (1) Solange und soweit einzelne Daten aus Anhang II der Delegierten Verordnung (EU) Nr. 2015/63, die für die Ermittlung der Risikofelder und Risikoindikatoren nach Artikel 6 der Delegierten Verordnung (EU) Nr. 2015/63 erforderlich sind, für das Bezugsjahr des in Artikel 14 Absatz 1 der Delegierten Verordnung (EU) Nr. 2015/63 genannten Jahresabschlusses nicht in der nach Artikel 3 und Anhang I der Delegierten Verordnung (EU) Nr. 2015/63 vorgegebenen Form in der Meldung aller Institute gemäß Artikel 14 Absatz 3 der Delegierten Verordnung (EU) Nr. 2015/63 enthalten sind, bestimmt sich die Ermittlung der fehlenden Daten und deren Meldung an die Abwicklungsbehörde nach den Absätzen 2 bis 6. Artikel 8 Absatz 3 der Delegierten Verordnung (EU) Nr. 2015/63 gilt entsprechend.
 
@@ -84,8 +77,7 @@ Die Berechnung des Jahresbeitrags nach Satz 1 erfolgt auf Basis des in Artikel 1
 
 (6) Der Indikator „Anteil der Interbankendarlehen und -einlagen in der Europäischen Union“ im Sinne von Artikel 6 Absatz 4 der Delegierten Verordnung (EU) Nr. 2015/63 umfasst sämtliche außer die in Satz 2 benannten Forderungen und Verbindlichkeiten aus Krediten und Einlagen gegenüber Banken, Versicherungsunternehmen und sonstigen Finanzierungsinstitutionen im Inland und in der Europäischen Union, wie sie in den festgestellten Jahresabschluss im Sinne von § 340a des Handelsgesetzbuchs oder in entsprechende Meldedaten zum Bilanzstichtag des Bezugsjahres nach Absatz 1 eingeflossen sind. Bei dem Indikator nach Satz 1 bleiben Forderungen und Verbindlichkeiten im Sinne von Artikel 5 Absatz 1 Buchstabe f der Delegierten Verordnung (EU) Nr. 2015/63 unberücksichtigt.
 
-
-## § 5 – Von der Abwicklungsbehörde zu bestimmende zusätzliche Risikoindikatoren
+# § 5 – Von der Abwicklungsbehörde zu bestimmende zusätzliche Risikoindikatoren
 
 (1) Die nach Artikel 6 Absatz 1 Buchstabe d der Delegierten Verordnung (EU) Nr. 2015/63 von der Abwicklungsbehörde als Abwicklungsbehörde zu bestimmenden zusätzlichen Risikoindikatoren werden nach den folgenden Absätzen bestimmt.
 
@@ -143,8 +135,7 @@ Für die Berechnung der drei Teilindikatoren wird das Nominalvolumen nach § 36 
 
 (6) Für die Prüfung der Voraussetzungen nach Artikel 6 Absatz 7 Buchstabe a und b der Delegierten Verordnung (EU) Nr. 2015/63 für den zusätzlichen Risikoindikator gemäß Artikel 6 Absatz 5 Satz 1 Buchstabe b der Delegierten Verordnung (EU) Nr. 2015/63 stützt sich die Abwicklungsbehörde grundsätzlich auf die Einschätzung der zuständigen Behörden nach Artikel 6 Absatz 9 der Delegierten Verordnung (EU) Nr. 2015/63, insbesondere auf die Erlaubnis der Anwendung von Artikel 113 Absatz 7 der Verordnung (EU) Nr. 575/2013. Bei Erfüllung der Voraussetzungen nach Satz 1 wird bei dem Institut im Regelfall der maximale Wert der in Anhang I Schritt 3 der Delegierten Verordnung (EU) Nr. 2015/63 genannten Bandbreite angesetzt. In allen anderen Fällen wird der minimale Wert der Bandbreite angesetzt.
 
-
-## § 6 – Mitteilungspflichten
+# § 6 – Mitteilungspflichten
 
 (1) Die nach § 2 Satz 1 Nummer 1 und 2 des Restrukturierungsfondsgesetzes beitragspflichtigen Institute, mit Ausnahme der in § 1 Absatz 1 dieser Verordnung genannten Institute, haben die Pflicht, der Abwicklungsbehörde für die Ermittlung der Risikoindikatoren gemäß § 5 dieser Verordnung die erforderlichen Angaben zu übermitteln. Diese Pflicht besteht zusätzlich zu den Berichtspflichten nach Artikel 14 Absatz 2 der Delegierten Verordnung (EU) Nr. 2015/63 und nach den §§ 3 und 4 dieser Verordnung. Artikel 14 Absatz 6 der Delegierten Verordnung (EU) Nr. 2015/63 gilt entsprechend. Zu übermitteln sind für das Bezugsjahr des in Artikel 14 Absatz 1 der Delegierten Verordnung (EU) Nr. 2015/63 genannten Jahresabschlusses jeweils insbesondere folgende Daten:
 
@@ -184,22 +175,18 @@ Artikel 14 Absatz 3 und 5 sowie Artikel 17 Absatz 1, 3 und 4 der Delegierten Ver
 
 (8) Für die Übermittlung der Informationen nach den Absätzen 1, 2 und 7 sowie der Bestätigungen nach den Absätzen 4 und 5 an die Abwicklungsbehörde gelten entsprechend die Fristen nach Artikel 14 Absatz 4 und 5 sowie Artikel 20 Absatz 3 der Delegierten Verordnung (EU) Nr. 2015/63.
 
-
-## § 7 – Sonderbeiträge für bestimmte Wertpapierfirmen und für Unionszweigstellen
+# § 7 – Sonderbeiträge für bestimmte Wertpapierfirmen und für Unionszweigstellen
 
 Sind von den in § 1 Absatz 1 und 2 genannten Instituten Sonderbeiträge zu erheben, erfolgt ihre Berechnung nach Maßgabe von § 12c Absatz 3 des Restrukturierungsfondsgesetzes entsprechend der Berechnung der Jahresbeiträge der jeweiligen Institute nach § 1 Absatz 3.
 
-
-## § 8 – Übergangsregelung
+# § 8 – Übergangsregelung
 
 Diese Verordnung gilt ab dem Beitragszeitraum 2015. Ab dem Beitragszeitraum 2016 gilt sie nur noch für diejenigen nach § 2 des Restrukturierungsfondsgesetzes beitragspflichtigen Institute, deren Beiträge nicht durch den Ausschuss gemäß der Verordnung (EU) Nr. 806/2014 des Europäischen Parlaments und des Rates vom 15. Juli 2014 zur Festlegung einheitlicher Vorschriften und eines einheitlichen Verfahrens für die Abwicklung von Kreditinstituten und bestimmten Wertpapierfirmen im Rahmen eines einheitlichen Abwicklungsmechanismus und eines einheitlichen Abwicklungsfonds sowie zur Änderung der Verordnung (EU) Nr. 1093/2010 (ABl. L 225 vom 30.7.2014, S. 1) berechnet werden.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Restrukturierungsfonds-Verordnung vom 20. Juli 2011 (BGBl. I S. 1406), die durch Artikel 7 des Gesetzes vom 26. Juni 2012 (BGBl. I S. 1375) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

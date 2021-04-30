@@ -1,17 +1,13 @@
-# [AsylbLG] Asylbewerberleistungsgesetz  (AsylbLG)
-
-Ausfertigungsdatum: 30.06.1993
-
+% Asylbewerberleistungsgesetz  (AsylbLG)
+% Ausfertigungsdatum: 30.06.1993
  
-
-## § 1 – Leistungsberechtigte
+# § 1 – Leistungsberechtigte
 
 (1) Leistungsberechtigt nach diesem Gesetz sind Ausländer, die sich tatsächlich im Bundesgebiet aufhalten und die
 
 1. eine Aufenthaltsgestattung nach dem Asylgesetz besitzen,
 
-1a.  
-ein Asylgesuch geäußert haben und nicht die in den Nummern 1, 2 bis 5 und 7 genannten Voraussetzungen erfüllen,
+1a. ein Asylgesuch geäußert haben und nicht die in den Nummern 1, 2 bis 5 und 7 genannten Voraussetzungen erfüllen,
 
 2. über einen Flughafen einreisen wollen und denen die Einreise nicht oder noch nicht gestattet ist,
 
@@ -37,8 +33,7 @@ c) nach § 25 Absatz 5 des Aufenthaltsgesetzes, sofern die Entscheidung über di
 
 (4) Leistungsberechtigte nach Absatz 1 Nummer 5, denen bereits von einem anderen Mitgliedstaat der Europäischen Union oder von einem am Verteilmechanismus teilnehmenden Drittstaat im Sinne von § 1a Absatz 4 Satz 1 internationaler Schutz gewährt worden ist, haben keinen Anspruch auf Leistungen nach diesem Gesetz, wenn der internationale Schutz fortbesteht. Hilfebedürftigen Ausländern, die Satz 1 unterfallen, werden bis zur Ausreise, längstens jedoch für einen Zeitraum von zwei Wochen, einmalig innerhalb von zwei Jahren nur eingeschränkte Hilfen gewährt, um den Zeitraum bis zur Ausreise zu überbrücken (Überbrückungsleistungen); die Zweijahresfrist beginnt mit dem Erhalt der Überbrückungsleistungen nach Satz 2. Hierüber und über die Möglichkeit der Leistungen nach Satz 6 sind die Leistungsberechtigten zu unterrichten. Die Überbrückungsleistungen umfassen die Leistungen nach § 1a Absatz 1 und nach § 4 Absatz 1 Satz 1 und Absatz 2. Sie sollen als Sachleistung erbracht werden. Soweit dies im Einzelfall besondere Umstände erfordern, werden Leistungsberechtigten nach Satz 2 zur Überwindung einer besonderen Härte andere Leistungen nach den §§ 3, 4 und 6 gewährt; ebenso sind Leistungen über einen Zeitraum von zwei Wochen hinaus zu erbringen, soweit dies im Einzelfall auf Grund besonderer Umstände zur Überwindung einer besonderen Härte und zur Deckung einer zeitlich befristeten Bedarfslage geboten ist. Neben den Überbrückungsleistungen werden auf Antrag auch die angemessenen Kosten der Rückreise übernommen. Satz 7 gilt entsprechend, soweit die Personen allein durch die angemessenen Kosten der Rückreise die in Satz 4 genannten Bedarfe nicht aus eigenen Mitteln oder mit Hilfe Dritter decken können. Die Leistung ist als Darlehen zu erbringen.
 
-
-## § 1a – Anspruchseinschränkung
+# § 1a – Anspruchseinschränkung
 
 (1) Leistungsberechtigte nach § 1 Absatz 1 Nummer 5, für die ein Ausreisetermin und eine Ausreisemöglichkeit feststehen, haben ab dem auf den Ausreisetermin folgenden Tag keinen Anspruch auf Leistungen nach den §§ 2, 3 und 6, es sei denn, die Ausreise konnte aus Gründen, die sie nicht zu vertreten haben, nicht durchgeführt werden. Ihnen werden bis zu ihrer Ausreise oder der Durchführung ihrer Abschiebung nur noch Leistungen zur Deckung ihres Bedarfs an Ernährung und Unterkunft einschließlich Heizung sowie Körper- und Gesundheitspflege gewährt. Nur soweit im Einzelfall besondere Umstände vorliegen, können ihnen auch andere Leistungen im Sinne von § 3 Absatz 1 Satz 1 gewährt werden. Die Leistungen sollen als Sachleistungen erbracht werden.
 
@@ -82,8 +77,7 @@ und deshalb zu Unrecht Leistungen nach diesem Gesetz beziehen, haben nur Anspruc
 
 (7) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1 oder 5, deren Asylantrag durch eine Entscheidung des Bundesamtes für Migration und Flüchtlinge nach § 29 Absatz 1 Nummer 1 in Verbindung mit § 31 Absatz 6 des Asylgesetzes als unzulässig abgelehnt wurde und für die eine Abschiebung nach § 34a Absatz 1 Satz 1 zweite Alternative des Asylgesetzes angeordnet wurde, erhalten nur Leistungen entsprechend Absatz 1, auch wenn die Entscheidung noch nicht unanfechtbar ist. Satz 1 gilt nicht, sofern ein Gericht die aufschiebende Wirkung der Klage gegen die Abschiebungsanordnung angeordnet hat.
 
-
-## § 2 – Leistungen in besonderen Fällen
+# § 2 – Leistungen in besonderen Fällen
 
 (1) Abweichend von den §§ 3 und 4 sowie 6 bis 7 sind das Zwölfte Buch Sozialgesetzbuch und Teil 2 des Neunten Buches Sozialgesetzbuch auf diejenigen Leistungsberechtigten entsprechend anzuwenden, die sich seit 18 Monaten ohne wesentliche Unterbrechung im Bundesgebiet aufhalten und die Dauer des Aufenthalts nicht rechtsmissbräuchlich selbst beeinflusst haben. Die Sonderregelungen für Auszubildende nach § 22 des Zwölften Buches Sozialgesetzbuch finden dabei jedoch keine Anwendung auf
 
@@ -101,8 +95,7 @@ Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem Bundesau
 
 (3) Minderjährige Kinder, die mit ihren Eltern oder einem Elternteil in einer Haushaltsgemeinschaft leben, erhalten Leistungen nach Absatz 1 auch dann, wenn mindestens ein Elternteil in der Haushaltsgemeinschaft Leistungen nach Absatz 1 erhält.
 
-
-## § 3 – Grundleistungen
+# § 3 – Grundleistungen
 
 (1) Leistungsberechtigte nach § 1 erhalten Leistungen zur Deckung des Bedarfs an Ernährung, Unterkunft, Heizung, Kleidung, Gesundheitspflege und Gebrauchs- und Verbrauchsgütern des Haushalts (notwendiger Bedarf). Zusätzlich werden ihnen Leistungen zur Deckung persönlicher Bedürfnisse des täglichen Lebens gewährt (notwendiger persönlicher Bedarf).
 
@@ -118,8 +111,7 @@ Bei Leistungsberechtigten nach § 1 Absatz 1 Nummer 1 in einer nach dem Bundesau
 
 (6) Die Regelung des § 144 Satz 1 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
 
-
-## § 3a – Bedarfssätze der Grundleistungen
+# § 3a – Bedarfssätze der Grundleistungen
 
 (1) Wird der notwendige persönliche Bedarf nach § 3 Absatz 1 Satz 2 vollständig durch Geldleistungen gedeckt, so beträgt dieser monatlich für
 
@@ -175,8 +167,7 @@ b) in einer stationären Einrichtung untergebracht sind;
 
 (+++ Hinweis: Die Beträge nach den Absätzen 1 und 2 ergeben sich für die Zeit ab 1.1.2020 aus Bek. v. 1.10.2019 I 1429 +++)
 
-
-## § 4 – Leistungen bei Krankheit, Schwangerschaft und Geburt
+# § 4 – Leistungen bei Krankheit, Schwangerschaft und Geburt
 
 (1) Zur Behandlung akuter Erkrankungen und Schmerzzustände sind die erforderliche ärztliche und zahnärztliche Behandlung einschließlich der Versorgung mit Arznei- und Verbandmitteln sowie sonstiger zur Genesung, zur Besserung oder zur Linderung von Krankheiten oder Krankheitsfolgen erforderlichen Leistungen zu gewähren. Zur Verhütung und Früherkennung von Krankheiten werden Schutzimpfungen entsprechend den §§ 47, 52 Absatz 1 Satz 1 des Zwölften Buches Sozialgesetzbuch und die medizinisch gebotenen Vorsorgeuntersuchungen erbracht. Eine Versorgung mit Zahnersatz erfolgt nur, soweit dies im Einzelfall aus medizinischen Gründen unaufschiebbar ist.
 
@@ -184,8 +175,7 @@ b) in einer stationären Einrichtung untergebracht sind;
 
 (3) Die zuständige Behörde stellt die Versorgung mit den Leistungen nach den Absätzen 1 und 2 sicher. Sie stellt auch sicher, dass den Leistungsberechtigten frühzeitig eine Vervollständigung ihres Impfschutzes angeboten wird. Soweit die Leistungen durch niedergelassene Ärzte oder Zahnärzte erfolgen, richtet sich die Vergütung nach den am Ort der Niederlassung des Arztes oder Zahnarztes geltenden Verträgen nach § 72 Absatz 2 und § 132e Absatz 1 des Fünften Buches Sozialgesetzbuch. Die zuständige Behörde bestimmt, welcher Vertrag Anwendung findet.
 
-
-## § 5 – Arbeitsgelegenheiten
+# § 5 – Arbeitsgelegenheiten
 
 (1) In Aufnahmeeinrichtungen im Sinne des § 44 des Asylgesetzes und in vergleichbaren Einrichtungen sollen Arbeitsgelegenheiten insbesondere zur Aufrechterhaltung und Betreibung der Einrichtung zur Verfügung gestellt werden; von der Bereitstellung dieser Arbeitsgelegenheiten unberührt bleibt die Verpflichtung der Leistungsberechtigten, Tätigkeiten der Selbstversorgung zu erledigen. Im übrigen sollen soweit wie möglich Arbeitsgelegenheiten bei staatlichen, bei kommunalen und bei gemeinnützigen Trägern zur Verfügung gestellt werden, sofern die zu leistende Arbeit sonst nicht, nicht in diesem Umfang oder nicht zu diesem Zeitpunkt verrichtet werden würde.
 
@@ -197,8 +187,7 @@ b) in einer stationären Einrichtung untergebracht sind;
 
 (5) Ein Arbeitsverhältnis im Sinne des Arbeitsrechts und ein Beschäftigungsverhältnis im Sinne der gesetzlichen Kranken- und Rentenversicherung werden nicht begründet. § 61 Abs. 1 des Asylgesetzes sowie asyl- und ausländerrechtliche Auflagen über das Verbot und die Beschränkung einer Erwerbstätigkeit stehen einer Tätigkeit nach den Absätzen 1 bis 4 nicht entgegen. Die Vorschriften über den Arbeitsschutz sowie die Grundsätze der Beschränkung der Arbeitnehmerhaftung finden entsprechende Anwendung.
 
-
-## § 5a – Arbeitsgelegenheiten auf der Grundlage des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen
+# § 5a – Arbeitsgelegenheiten auf der Grundlage des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen
 
 (1) Arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die das 18. Lebensjahr vollendet haben und nicht der Vollzeitschulpflicht unterliegen, können von den nach diesem Gesetz zuständigen Behörden zu ihrer Aktivierung in Arbeitsgelegenheiten zugewiesen werden, die im Rahmen des von der Bundesagentur für Arbeit (Bundesagentur) durchgeführten Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen gegen Mehraufwandsentschädigung bereitgestellt werden (Flüchtlingsintegrationsmaßnahme). Satz 1 findet keine Anwendung auf Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, die aus einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammen, sowie auf Leistungsberechtigte nach § 1 Absatz 1 Nummer 4 und 5.
 
@@ -220,8 +209,7 @@ Die nach diesem Gesetz zuständigen Behörden dürfen den Maßnahmeträgern die 
 
 (6) Die Maßnahmeträger dürfen die ihnen nach Absatz 5 Satz 2 übermittelten Daten zu den Zwecken verarbeiten, zu denen sie ihnen übermittelt wurden. Maßnahmeträger dürfen den nach diesem Gesetz zuständigen Behörden die in Absatz 5 Satz 1 genannten Daten übermitteln, soweit dies für die Auswahl der Teilnehmerinnen und Teilnehmer, die Erteilung einer Zuweisung in die Maßnahme, die Feststellung der ordnungsgemäßen Teilnahme oder die Bescheinigung der erfolgreichen Teilnahme erforderlich ist. Maßnahmeträger haben den nach diesem Gesetz zuständigen Behörden unverzüglich Auskünfte über Tatsachen zu erteilen, die Anlass für eine Leistungsabsenkung nach Absatz 3 geben könnten und die deshalb für die Leistungen nach diesem Gesetz erheblich sind.
 
-
-## § 5b – Sonstige Maßnahmen zur Integration
+# § 5b – Sonstige Maßnahmen zur Integration
 
 (1) Die nach diesem Gesetz zuständige Behörde kann arbeitsfähige, nicht erwerbstätige Leistungsberechtigte, die das 18. Lebensjahr vollendet haben und der Vollzeitschulpflicht nicht mehr unterliegen und zu dem in § 44 Absatz 4 Satz 2 Nummer 1 bis 3 des Aufenthaltsgesetzes genannten Personenkreis gehören, schriftlich verpflichten, an einem Integrationskurs nach § 43 des Aufenthaltsgesetzes teilzunehmen.
 
@@ -233,25 +221,21 @@ Die nach diesem Gesetz zuständigen Behörden dürfen den Maßnahmeträgern die 
 
 2. zur Durchführung eines Integrationskurses nach § 43 des Aufenthaltsgesetzes oder einer Maßnahme der berufsbezogenen Deutschsprachförderung nach § 45a des Aufenthaltsgesetzes.
 
-
-## § 6 – Sonstige Leistungen
+# § 6 – Sonstige Leistungen
 
 (1) Sonstige Leistungen können insbesondere gewährt werden, wenn sie im Einzelfall zur Sicherung des Lebensunterhalts oder der Gesundheit unerläßlich, zur Deckung besonderer Bedürfnisse von Kindern geboten oder zur Erfüllung einer verwaltungsrechtlichen Mitwirkungspflicht erforderlich sind. Die Leistungen sind als Sachleistungen, bei Vorliegen besonderer Umstände als Geldleistung zu gewähren.
 
 (2) Personen, die eine Aufenthaltserlaubnis gemäß § 24 Abs. 1 des Aufenthaltsgesetzes besitzen und die besondere Bedürfnisse haben, wie beispielsweise unbegleitete Minderjährige oder Personen, die Folter, Vergewaltigung oder sonstige schwere Formen psychischer, physischer oder sexueller Gewalt erlitten haben, wird die erforderliche medizinische oder sonstige Hilfe gewährt. 
 
-
-## § 6a – Erstattung von Aufwendungen anderer
+# § 6a – Erstattung von Aufwendungen anderer
 
 Hat jemand in einem Eilfall einem anderen Leistungen erbracht, die bei rechtzeitigem Einsetzen von Leistungen nach den §§ 3, 4 und 6 nicht zu erbringen gewesen wären, sind ihm die Aufwendungen in gebotenem Umfang zu erstatten, wenn er sie nicht auf Grund rechtlicher oder sittlicher Pflicht selbst zu tragen hat. Dies gilt nur, wenn die Erstattung innerhalb angemessener Frist beim zuständigen Träger des Asylbewerberleistungsgesetzes beantragt wird.
 
-
-## § 6b – Einsetzen der Leistungen
+# § 6b – Einsetzen der Leistungen
 
 Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 und 6 ist § 18 des Zwölften Buches Sozialgesetzbuch entsprechend anzuwenden.
 
-
-## § 7 – Einkommen und Vermögen
+# § 7 – Einkommen und Vermögen
 
 (1) Einkommen und Vermögen, über das verfügt werden kann, sind von dem Leistungsberechtigten und seinen Familienangehörigen, die im selben Haushalt leben, vor Eintritt von Leistungen nach diesem Gesetz aufzubrauchen. § 20 des Zwölften Buches Sozialgesetzbuch findet entsprechende Anwendung. Bei der Unterbringung in einer Einrichtung, in der Sachleistungen gewährt werden, haben Leistungsberechtigte, soweit Einkommen und Vermögen im Sinne des Satzes 1 vorhanden sind, für erhaltene Leistungen dem Kostenträger für sich und ihre Familienangehörigen die Kosten in entsprechender Höhe der in § 3a Absatz 2 genannten Leistungen sowie die Kosten der Unterkunft, Heizung und Haushaltsenergie zu erstatten; für die Kosten der Unterkunft, Heizung und Haushaltsenergie können die Länder Pauschalbeträge festsetzen oder die zuständige Behörde dazu ermächtigen.
 
@@ -287,28 +271,23 @@ Zur Bestimmung des Zeitpunkts des Einsetzens der Leistungen nach den §§ 3, 4 u
 
 (5) Von dem Vermögen nach Absatz 1 Satz 1 ist für den Leistungsberechtigten und seine Familienangehörigen, die im selben Haushalt leben, jeweils ein Freibetrag in Höhe von 200 Euro abzusetzen. Bei der Anwendung von Absatz 1 bleiben ferner Vermögensgegenstände außer Betracht, die zur Aufnahme oder Fortsetzung der Berufsausbildung oder der Erwerbstätigkeit unentbehrlich sind.
 
-
-## § 7a – Sicherheitsleistung
+# § 7a – Sicherheitsleistung
 
 Von Leistungsberechtigten kann wegen der ihnen und ihren Familienangehörigen zu gewährenden Leistungen nach diesem Gesetz Sicherheit verlangt werden, soweit Vermögen im Sinne von § 7 Abs. 1 Satz 1 vorhanden ist. Die Anordnung der Sicherheitsleistung kann ohne vorherige Vollstreckungsandrohung im Wege des unmittelbaren Zwangs erfolgen.
 
+# § 7b – (weggefallen)
 
-## § 7b – (weggefallen)
-
-
-## § 8 – Leistungen bei Verpflichtung Dritter
+# § 8 – Leistungen bei Verpflichtung Dritter
 
 (1) Leistungen nach diesem Gesetz werden nicht gewährt, soweit der erforderliche Lebensunterhalt anderweitig, insbesondere auf Grund einer Verpflichtung nach § 68 Abs. 1 Satz 1 des Aufenthaltsgesetzes gedeckt wird. Besteht eine Verpflichtung nach § 68 Abs. 1 Satz 1 des Aufenthaltsgesetzes, übernimmt die zuständige Behörde die Kosten für Leistungen im Krankheitsfall, bei Behinderung und bei Pflegebedürftigkeit, soweit dies durch Landesrecht vorgesehen ist.
 
 (2) Personen, die sechs Monate oder länger eine Verpflichtung nach § 68 Abs. 1 Satz 1 des Aufenthaltsgesetzes gegenüber einer in § 1 Abs. 1 genannten Person erfüllt haben, kann ein monatlicher Zuschuß bis zum Doppelten des Betrages nach § 3a Absatz 1 gewährt werden, wenn außergewöhnliche Umstände in der Person des Verpflichteten den Einsatz öffentlicher Mittel rechtfertigen.
 
-
-## § 8a – Meldepflicht
+# § 8a – Meldepflicht
 
 Leistungsberechtigte, die eine unselbständige oder selbständige Erwerbstätigkeit aufnehmen, haben dies spätestens am dritten Tag nach Aufnahme der Erwerbstätigkeit der zuständigen Behörde zu melden.
 
-
-## § 9 – Verhältnis zu anderen Vorschriften
+# § 9 – Verhältnis zu anderen Vorschriften
 
 (1) Leistungsberechtigte erhalten keine Leistungen nach dem Zwölften Buch Sozialgesetzbuch oder vergleichbaren Landesgesetzen.
 
@@ -332,13 +311,11 @@ Leistungsberechtigte, die eine unselbständige oder selbständige Erwerbstätigk
 
 (5) Die §§ 117 und 118 des Zwölften Buches Sozialgesetzbuch sowie die auf Grund des § 120 Abs. 1 des Zwölften Buches Sozialgesetzbuch oder des § 117 des Bundessozialhilfegesetzes erlassenen Rechtsverordnungen sind entsprechend anzuwenden.
 
-
-## § 10 – Bestimmungen durch Landesregierungen
+# § 10 – Bestimmungen durch Landesregierungen
 
 Die Landesregierungen oder die von ihnen beauftragten obersten Landesbehörden bestimmen die für die Durchführung dieses Gesetzes zuständigen Behörden und Kostenträger und können Näheres zum Verfahren festlegen, soweit dies nicht durch Landesgesetz geregelt ist. Die bestimmten zuständigen Behörden und Kostenträger können auf Grund näherer Bestimmung gemäß Satz 1 Aufgaben und Kostenträgerschaft auf andere Behörden übertragen.
 
-
-## § 10a – Örtliche Zuständigkeit
+# § 10a – Örtliche Zuständigkeit
 
 (1) Für die Leistungen nach diesem Gesetz örtlich zuständig ist die nach § 10 bestimmte Behörde, in deren Bereich der Leistungsberechtigte nach dem Asylgesetz oder Aufenthaltsgesetz verteilt oder zugewiesen worden ist oder für deren Bereich für den Leistungsberechtigten eine Wohnsitzauflage besteht. Ist der Leistungsberechtigte von einer Vereinbarung nach § 45 Absatz 2 des Asylgesetzes betroffen, so ist die Behörde zuständig, in deren Bereich die nach § 46 Absatz 2a des Asylgesetzes für seine Aufnahme zuständige Aufnahmeeinrichtung liegt. Im übrigen ist die Behörde zuständig, in deren Bereich sich der Leistungsberechtigte tatsächlich aufhält. Diese Zuständigkeit bleibt bis zur Beendigung der Leistung auch dann bestehen, wenn die Leistung von der zuständigen Behörde außerhalb ihres Bereichs sichergestellt wird.
 
@@ -346,8 +323,7 @@ Die Landesregierungen oder die von ihnen beauftragten obersten Landesbehörden b
 
 (3) Als gewöhnlicher Aufenthalt im Sinne dieses Gesetzes gilt der Ort, an dem sich jemand unter Umständen aufhält, die erkennen lassen, daß er an diesem Ort oder in diesem Gebiet nicht nur vorübergehend verweilt. Als gewöhnlicher Aufenthalt ist auch von Beginn an ein zeitlich zusammenhängender Aufenthalt von mindestens sechs Monaten Dauer anzusehen; kurzfristige Unterbrechungen bleiben unberücksichtigt. Satz 2 gilt nicht, wenn der Aufenthalt ausschließlich zum Zweck des Besuchs, der Erholung, der Kur oder ähnlichen privaten Zwecken erfolgt und nicht länger als ein Jahr dauert. Ist jemand nach Absatz 1 Satz 1 nach dem Asylgesetz oder nach dem Aufenthaltsgesetz verteilt oder zugewiesen worden oder besteht für ihn eine Wohnsitzauflage für einen bestimmten Bereich, so gilt dieser Bereich als sein gewöhnlicher Aufenthalt. Wurde eine Vereinbarung nach § 45 Absatz 2 des Asylgesetzes getroffen, so gilt der Bereich als gewöhnlicher Aufenthalt des Leistungsberechtigten, in dem die nach § 46 Absatz 2a des Asylgesetzes für seine Aufnahme zuständige Aufnahmeeinrichtung liegt. Für ein neugeborenes Kind ist der gewöhnliche Aufenthalt der Mutter maßgeblich.
 
-
-## § 10b – Kostenerstattung zwischen den Leistungsträgern
+# § 10b – Kostenerstattung zwischen den Leistungsträgern
 
 (1) Die nach § 10a Abs. 2 Satz 1 zuständige Behörde hat der Behörde, die nach § 10a Abs. 2 Satz 3 die Leistung zu erbringen hat, die aufgewendeten Kosten zu erstatten.
 
@@ -355,8 +331,7 @@ Die Landesregierungen oder die von ihnen beauftragten obersten Landesbehörden b
 
 (3) (weggefallen)
 
-
-## § 11 – Ergänzende Bestimmungen
+# § 11 – Ergänzende Bestimmungen
 
 (1) Im Rahmen von Leistungen nach diesem Gesetz ist auf die Leistungen bestehender Rückführungs- und Weiterwanderungsprogramme, die Leistungsberechtigten gewährt werden können, hinzuweisen; in geeigneten Fällen ist auf eine Inanspruchnahme solcher Programme hinzuwirken.
 
@@ -388,8 +363,7 @@ Der Leistungsberechtigte hat die fehlende Ausstellung des Ankunftsnachweises ins
 
 2. eine Einschränkung des Leistungsanspruchs nach § 1a oder § 11 Absatz 2a festgestellt wird.
 
-
-## § 12 – Asylbewerberleistungsstatistik
+# § 12 – Asylbewerberleistungsstatistik
 
 (1) Zur Beurteilung der Auswirkungen dieses Gesetzes und zu seiner Fortentwicklung werden Erhebungen über
 
@@ -457,8 +431,7 @@ Art und Form anderer Leistungen nach diesem Gesetz im Laufe und am Ende des Beri
 
 Geschlecht; Geburtsmonat und -jahr; Staatsangehörigkeit; aufenthaltsrechtlicher Status; Art und Form der Leistung im Laufe und am Ende des Berichtsjahres; Typ des Leistungsempfängers nach § 3a Absatz 1 Nummer 1 bis 6; Wohngemeinde und Gemeindeteil; Art des Trägers; Art der Unterbringung;
 
-2a.  
-(weggefallen)
+2a. (weggefallen)
 
 3. bei der Erhebung nach Absatz 1 Nr. 2:
 
@@ -494,21 +467,18 @@ zu erteilen.
 
 (8) Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen an die obersten Bundes- und Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch wenn Tabellenfelder nur einen einzigen Fall ausweisen. Die übermittelten Tabellen dürfen nur gegenüber den gesetzgebenden Körperschaften und nur für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen verwendet werden.
 
-
-## § 13 – Bußgeldvorschrift
+# § 13 – Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 8a eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 14 – Dauer der Anspruchseinschränkung
+# § 14 – Dauer der Anspruchseinschränkung
 
 (1) Die Anspruchseinschränkungen nach diesem Gesetz sind auf sechs Monate zu befristen.
 
 (2) Im Anschluss ist die Anspruchseinschränkung bei fortbestehender Pflichtverletzung fortzusetzen, sofern die gesetzlichen Voraussetzungen der Anspruchseinschränkung weiterhin erfüllt werden.
 
-
-## § 15 – Übergangsregelung zum Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht
+# § 15 – Übergangsregelung zum Zweiten Gesetz zur besseren Durchsetzung der Ausreisepflicht
 
 Für Leistungsberechtigte des Asylbewerberleistungsgesetzes, auf die bis zum 21. August 2019 gemäß § 2 Absatz 1 des Asylbewerberleistungsgesetzes das Zwölfte Buch Sozialgesetzbuch entsprechend anzuwenden war, ist § 2 des Asylbewerberleistungsgesetzes in der Fassung der Bekanntmachung vom 5. August 1997 (BGBl. I S. 2022), das zuletzt durch Artikel 4 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2541; 2019 I S. 162) geändert worden ist, weiter anzuwenden.

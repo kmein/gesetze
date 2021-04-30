@@ -1,15 +1,11 @@
-# [SGB 10/Kap3] Sozialgesetzbuch - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten -
-
-Ausfertigungsdatum: 04.11.1982
-
+% Sozialgesetzbuch - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten -
+% Ausfertigungsdatum: 04.11.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1032)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1032)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
@@ -23,19 +19,15 @@ Artikel I und II sind für den Bereich der Kranken-, Renten- und Unfallversicher
 
 ...
 
+# §§ 1 bis 20 – (weggefallen)
 
-## §§ 1 bis 20 – (weggefallen)
+# §§ 21 bis 23 – (weggefallen)
 
-
-## §§ 21 bis 23 – (weggefallen)
-
-
-## § 24
+# § 24
 
 (weggefallen)
 
-
-## § 25 – Inkrafttreten
+# § 25 – Inkrafttreten
 
 (1) Dieses Gesetz tritt mit Ausnahme der in den Absätzen 2 bis 4 genannten Bestimmungen am 1. Juli 1983 in Kraft.
 

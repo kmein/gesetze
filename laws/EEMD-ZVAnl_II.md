@@ -1,10 +1,7 @@
-# [EEMD-ZVAnl II] Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes  (EETS-Zulassungsvertrag)
-
-Ausfertigungsdatum: 20.03.2018
-
+% Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes  (EETS-Zulassungsvertrag)
+% Ausfertigungsdatum: 20.03.2018
  
-
-## Anlage II – (Zulassungsvertrag)
+# Anlage II – (Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 26.03.2019 V 1)
 
@@ -22,15 +19,13 @@ und
 
  
 
-
-## Präambel
+# Präambel
 
 Die Richtlinie 2004/52/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über die Interoperabilität elektronischer Mautsysteme in der Gemeinschaft und die Entscheidung 2009/750/EG der Kommission vom 6. Oktober 2009 über die Festlegung der Merkmale des europäischen elektronischen Mautdienstes und seiner technischen Komponenten in Verbindung mit dem Mautsystemgesetz (MautSysG) und dem Bundesfernstraßenmautgesetz (BFStrMG), die durch Gesetz vom 5. Dezember 2014 eingeführt bzw. geändert worden sind, bilden die rechtlichen Grundlagen für die Implementierung des europäischen elektronischen Mautdienstes (EETS) in der Bundesrepublik Deutschland.
 
 Ziel des EETS ist es, den Nutzern den Zugang zum gesamten mautpflichtigen europäischen Straßennetz mit nur einem Vertrag und nur einem Bordgerät eines Anbieters zu ermöglichen.
 
-
-## § 1 – Vertragsgegenstand
+# § 1 – Vertragsgegenstand
 
 (1) Dieser EETS-Zulassungsvertrag („Vertrag“) regelt die Rechte und Pflichten des Anbieters und des Mauterhebers im Zusammenhang mit der Durchführung des EETS auf mautpflichtigen Bundesfernstraßen im Geltungsbereich des BFStrMG („EETS-Gebiet BFStrMG“) nach § 4f Absatz 1 BFStrMG. Soweit nicht ausdrücklich geregelt, sind Rechte und Pflichten des Anbieters gegenüber Nutzern sowie die zwischen Anbieter und Nutzern geltenden vertraglichen und sonstigen Vereinbarungen nicht Gegenstand dieses Vertrags.
 
@@ -44,8 +39,7 @@ Ziel des EETS ist es, den Nutzern den Zugang zum gesamten mautpflichtigen europ�
 
 (6) Vorbehaltlich der in diesem Vertrag enthaltenen Definitionen gelten für diesen Vertrag die im Glossar nach Anlage 7 enthaltenen Definitionen.
 
-
-## § 2 – Vertragsbestandteile
+# § 2 – Vertragsbestandteile
 
 (1) Bestandteile dieses Vertrags sind
 
@@ -90,8 +84,7 @@ die Gebrauchstauglichkeitsbescheinigung, ausgestellt durch den Mauterheber oder 
 –  
 das Glossar (Anlage 7).
 
-
-## § 3 – Zusicherungen des Anbieters/Wechsel eines wirtschaftlich Berechtigten
+# § 3 – Zusicherungen des Anbieters/Wechsel eines wirtschaftlich Berechtigten
 
 (1) Der Anbieter versichert, dass er entsprechend Artikel 3 der Entscheidung 2009/750/EG registriert ist und belegt die Registrierung bei Vertragsschluss. Der Anbieter muss dem Mauterheber unverzüglich mitteilen, wenn seine Registrierung widerrufen oder aus anderem Grund nicht mehr gültig ist oder ein Verfahren zum Widerruf der Registrierung von der zuständigen Stelle eingeleitet worden ist. Auf Verlangen des Mauterhebers muss der Anbieter das Vorliegen seiner Registrierung nachweisen.
 
@@ -109,8 +102,7 @@ e) Es sind keine Insolvenz-, Reorganisations- oder ähnliche Verfahren im In- od
 
 f) Die in Anlage 3 dargestellte Übersicht über die gesellschaftsrechtlichen Beteiligungsverhältnisse des Anbieters („Beteiligungsstruktur“) ist richtig und vollständig.
 
-
-## § 4 – Einschaltung Dritter
+# § 4 – Einschaltung Dritter
 
 (1) Der Anbieter hat alle vertraglichen Leistungen selbst zu erbringen und muss alle vom Mauterheber gestellten Vorgaben zu jedem Zeitpunkt vollständig erfüllen. Soweit sich der Anbieter für die Erfüllung seiner vertraglichen Verpflichtungen der Leistungen Dritter bedient, hat er dies dem Mauterheber unverzüglich und unaufgefordert anzuzeigen. Wesentliche Änderungen bei der Inanspruchnahme von Leistungen Dritter sind dem Mauterheber unverzüglich und unaufgefordert bekannt zu geben.
 
@@ -118,8 +110,7 @@ f) Die in Anlage 3 dargestellte Übersicht über die gesellschaftsrechtlichen Be
 
 (3) Soweit sich der Anbieter für die Erbringung der vertraglichen Leistung und zur Erfüllung der Vorgaben Dritter bedient, hat er sicherzustellen, dass auch diese alle Pflichten dieses Vertrags erfüllen und der Mauterheber ihnen gegenüber alle Rechte, die ihm nach diesem Vertrag gegenüber dem Anbieter zustehen, ausüben kann. Der Anbieter wird den Dritten zu diesem Zwecke die ihm gegenüber dem Mauterheber bestehenden Pflichten auferlegen. Der Anbieter haftet für die Einhaltung der den Dritten aufzuerlegenden Pflichten gegenüber dem Mauterheber. Dies gilt nicht, soweit weder der Dritte noch der Anbieter die Pflichtverletzung zu vertreten haben.
 
-
-## § 5 – Auskehr der Mauteinnahmen an den Mauterheber
+# § 5 – Auskehr der Mauteinnahmen an den Mauterheber
 
 (1) Die Auskehr der Mauteinnahmen erfolgt auf das Konto der Bundeskasse Trier – Deutsche Bundesbank Saarbrücken, IBAN DE81 5900 0000 0059 0010 20, BIC MARKDEF1590; Stichwort Lkw-Maut. Der Anbieter unterwirft sich gegenüber dem Mauterheber der sofortigen Vollstreckung nach Maßgabe des § 61 des Verwaltungsverfahrensgesetzes (VwVfG).
 
@@ -127,8 +118,7 @@ f) Die in Anlage 3 dargestellte Übersicht über die gesellschaftsrechtlichen Be
 
 (3) Der Anbieter muss sicherstellen, dass die Zahlungsvorgänge zwischen ihm, seinen Nutzern und dem Mauterheber so ausgestaltet sind, dass in jedem Fall, auch im Fall der Insolvenz oder drohender Insolvenz des Anbieters, die Sicherheit der vollständigen Auskehr der Mauteinnahmen nicht gefährdet ist.
 
-
-## § 6 – Sicherheiten
+# § 6 – Sicherheiten
 
 (1) Der Anbieter muss dem Mauterheber vor Abschluss dieses Vertrags eine Garantie einer Bank oder den Nachweis eines gleichwertigen Finanzinstruments in Höhe der erwarteten Durchschnittssumme der pro Monat für das EETS-Gebiet BFStrMG insgesamt auszukehrenden Mauteinnahmen und Zahlungen gemäß § 19 Absatz 1 MautSysG übergeben, („Bankgarantie“/„Revolvierende Bankgarantie“). Für die Prognose wird ein Betrachtungszeitraum von zwölf Monaten zugrunde gelegt. Die Bankgarantie und das gleichwertige Finanzinstrument dienen der Sicherung aller Ansprüche des Mauterhebers aus oder im Zusammenhang mit diesem Vertrag. Sie müssen eine Zahlung auf erstes Anfordern vorsehen.
 
@@ -142,8 +132,7 @@ f) Die in Anlage 3 dargestellte Übersicht über die gesellschaftsrechtlichen Be
 
 (6) Als Verlängerung im Sinne dieses Paragraphen gilt auch die Erneuerung einer Bankgarantie oder eines gleichwertigen Finanzinstruments, wobei eine erneuerte Bankgarantie oder das gleichwertige Finanzinstrument denselben Anforderungen genügen muss als wäre sie eine ursprüngliche Bankgarantie oder ein gleichwertiges Finanzinstrument.
 
-
-## § 7 – Versicherungen
+# § 7 – Versicherungen
 
 (1) Der Anbieter ist verpflichtet, für die im Rahmen dieses Vertrags ausgeführten Tätigkeiten auf eigene Kosten eine Betriebshaftpflichtversicherung mit mindestens den folgenden Inhalten abzuschließen und während der Laufzeit dieses Vertrags aufrechtzuerhalten:
 
@@ -159,20 +148,17 @@ b) Deckung für gesetzliche Haftpflichtansprüche wegen Personen-, Sach- und dar
 
 (5) Die Ansprüche auf Leistungen aus den Versicherungen nach den Absätzen 1 und 2 tritt der Anbieter zur Sicherung der Haftungsansprüche des Mauterhebers an diesen ab. In den Versicherungen nach den Absätzen 1 und 2 ist vorzusehen, dass der Mauterheber vom Versicherer über etwaige Versicherungsleistungen an den Anbieter unmittelbar in Kenntnis gesetzt wird. Der Anbieter ist zum Einzug der Versicherungsleistungen berechtigt und verpflichtet sich, die Versicherungsleistung umgehend zur vollständigen Beseitigung und vollständigen Wiederherstellung der Funktionsfähigkeit des vom Schaden betroffenen Teils zu verwenden. Im Falle der Verletzung dieser Pflicht ist der Mauterheber zur Offenlegung der Abtretung und zum Widerruf der nach Satz 3 erteilten Einziehungsberechtigung berechtigt. Eine Abtretung oder Verpfändung von Versicherungsansprüchen an Dritte ist nur mit vorheriger Zustimmung des Mauterhebers zulässig.
 
-
-## § 8 – Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
+# § 8 – Abtretungsverbot und Verbot der Schuld- und Vertragsübernahme
 
 Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche Zustimmung des Mauterhebers Rechte aus diesem Vertrag an Dritte abzutreten. Dies gilt auch für die Übernahme von Verpflichtungen des Anbieters aus diesem Vertrag durch Dritte sowie eine vollständige Vertragsübernahme dieses Vertrags vom Anbieter durch Dritte. Die Erteilung der Zustimmung steht im freien Ermessen des Mauterhebers.
 
-
-## § 9 – Aufrechnungs- und Zurückbehaltungsrechte, Verbot der Besicherung
+# § 9 – Aufrechnungs- und Zurückbehaltungsrechte, Verbot der Besicherung
 
 (1) Dem Anbieter steht hinsichtlich der an den Mauterheber auszukehrenden Mauteinnahmen weder ein Aufrechnungs- noch ein Zurückbehaltungsrecht zu. Eine Verrechnung der an den Mauterheber auszukehrenden Mauteinnahmen mit bestehenden Ansprüchen des Anbieters gegen den Mauterheber – insbesondere mit dem Vergütungsanspruch gemäß § 20 dieses Vertrags – ist nicht gestattet. Die Sätze 1 und 2 gelten nicht für unbestrittene oder rechtskräftig festgestellte Forderungen des Anbieters gegen den Mauterheber.
 
 (2) Dem Anbieter ist es untersagt, die dem Mauterheber zustehenden Mauteinnahmen zum Gegenstand einer Verpfändung oder Besicherung zu machen oder auf sonstige Weise mit Rechten Dritter zu belasten.
 
-
-## § 10 – Mitwirkungspflichten
+# § 10 – Mitwirkungspflichten
 
 (1) Der Mauterheber informiert den Anbieter über relevante Änderungen des EETS-Registers sowie über relevante bevorstehende Rechtsänderungen. Dies entbindet den Anbieter nicht von der Pflicht, sich regelmäßig über Änderungen des EETS-Registers und anderer Grundlagen für die Durchführung des EETS im EETS-Gebiet BFStrMG zu informieren und die Richtigkeit und Vollständigkeit der ihm zur Verfügung gestellten Informationen zu überprüfen.
 
@@ -182,8 +168,7 @@ Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche Zustimmung des Ma
 
 (4) Soweit für die Durchführung des EETS die Errichtung von baulichen Anlagen im EETS-Gebiet BFStrMG durch den Anbieter notwendig ist, wird der Mauterheber den Anbieter – soweit erforderlich – bei der Errichtung unterstützen. Die Kosten für die Planung, Genehmigung, Errichtung und den Betrieb baulicher Anlagen im EETS-Gebiet BFStrMG durch den Anbieter trägt der Anbieter. Eine Haftung des Mauterhebers im Zusammenhang mit der Errichtung und dem Betrieb baulicher Anlagen im EETS-Gebiet BFStrMG durch den Anbieter ist ausgeschlossen.
 
-
-## § 11 – Nachweis- und Informationspflichten des Anbieters
+# § 11 – Nachweis- und Informationspflichten des Anbieters
 
 (1) Der Anbieter muss dem Mauterheber jede Änderung an seinem EETS-Teilsystem, die Auswirkung auf die Erfüllung der Vorgaben für das EETS-Gebiet BFStrMG haben kann, unverzüglich und unaufgefordert anzeigen.
 
@@ -197,8 +182,7 @@ Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche Zustimmung des Ma
 
 (6) Der Anbieter ist verpflichtet den Mauterheber unverzüglich über alle Maßnahmen oder Ereignisse zu informieren, die direkt oder indirekt Auswirkungen auf das nationale duale Mauterhebungssystem, das Kontrollsystem oder das EETS-Teilsystem des Mauterhebers haben könnten.
 
-
-## § 12 – Zutritts- und Einsichtsrechte des Mauterhebers
+# § 12 – Zutritts- und Einsichtsrechte des Mauterhebers
 
 (1) Der Anbieter muss dem Mauterheber oder einer von diesem benannten Stelle zur Überwachung der Einhaltung der Vorgaben und der vertraglichen Pflichten des Anbieters nach vorheriger Ankündigung und während der üblichen Geschäftszeiten uneingeschränkten Zutritt zu seinen Geschäftsräumen und sonstigen Einrichtungen gewähren.
 
@@ -208,8 +192,7 @@ Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche Zustimmung des Ma
 
 (4) Der Anbieter muss in Verträgen mit Dritten im Sinne von § 4 gemäß den Absätzen 1 und 2 entsprechende Zutritts-, Einsichts- und Zugriffsrechte zugunsten des Mauterhebers, einer von diesem beauftragten Stelle, dem Bundesministerium der Finanzen, dem Bundesrechnungshof und sonstigen staatlichen Stellen vereinbaren.
 
-
-## § 13 – Datenschutz
+# § 13 – Datenschutz
 
 (1) Der Anbieter stellt sicher, dass er bei der Durchführung des EETS jederzeit alle Anforderungen des Datenschutzes erfüllt. Dazu gehören insbesondere die europarechtlichen Anforderungen und die spezialgesetzlichen Anforderungen des MautSysG, des BFStrMG und – soweit das MautSysG und das BFStrMG keine abschließende Regelung treffen – ergänzend die Bestimmungen des Bundesdatenschutzgesetzes (BDSG) sowie die Bestimmungen der Europäischen Datenschutz-Grundverordnung (EU-DSGVO). Diese Verpflichtung des Anbieters gegenüber dem Mauterheber gilt unabhängig davon, ob der Anbieter selbst in den Anwendungsbereich solcher Datenschutzbestimmungen fällt. Die Pflicht des Anbieters zur Einhaltung nationaler Datenschutzbestimmungen des Staates, in dem er niedergelassen ist oder in dem er Daten erhebt oder verarbeitet, bleibt unberührt. Im Zweifel haben das MautSysG, das BFStrMG und – soweit das MautSysG und das BFStrMG keine abschließende Regelung treffen – ergänzend die Bestimmungen des BDSG sowie – soweit anwendbar – weitere spezialgesetzliche deutsche oder supranationale Datenschutzvorschriften die Bestimmungen der EU-DSGVO, Vorrang vor anderen nationalen Datenschutzbestimmungen.
 
@@ -219,8 +202,7 @@ Der Anbieter ist nicht berechtigt, ohne vorherige schriftliche Zustimmung des Ma
 
 (4) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieses Vertrags fort.
 
-
-## § 14 – Datensicherheit
+# § 14 – Datensicherheit
 
 (1) Zum Zwecke des elektronischen Austauschs der für die Durchführung des EETS erforderlichen Daten wird der Mauterheber den Anbieter über die für den Austausch erforderlichen System- und Schnittstellenspezifikationen in Kenntnis setzen, soweit der Anbieter über diese Daten nicht bereits aufgrund des EETS-Prüfverfahrens verfügt. Der Anbieter wird seine Datensysteme und -schnittstellen so ausgestalten, dass auf der Grundlage der vom Mauterheber zur Verfügung gestellten Spezifikationen zu jeder Zeit und uneingeschränkt ein verlustfreier, sicherer Datenaustausch möglich ist. Die Sicherheit der Datenübermittlung ist in dem der Gebrauchstauglichkeitsbescheinigung für den Anbieter zugrunde gelegten Datensicherheitskonzept des Anbieters dokumentiert.
 
@@ -238,8 +220,7 @@ von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter verpflichtet sic
 
 (5) Die Regelungen dieses Paragraphen gelten auch nach Beendigung dieses Vertrags fort.
 
-
-## § 15 – Aufbewahrung von vertraulichen Daten
+# § 15 – Aufbewahrung von vertraulichen Daten
 
 (1) Der Anbieter verpflichtet sich, alle im Zusammenhang mit der Einrichtung, Durchführung und Beendigung des EETS erstellten oder erlangten vertraulichen Daten, die zur uneingeschränkten Überprüfung der Leistungen des Anbieters und vollständigen Erhebung, Vereinnahmung und Auskehr der Maut an den Mauterheber erforderlich sind, entsprechend den gesetzlichen Bestimmungen, insbesondere den Bestimmungen des Datenschutzes und der Bundeshaushaltsordnung, aufzubewahren.
 
@@ -257,8 +238,7 @@ von dem jeweils höchsten Schutzbedarf auszugehen. Der Anbieter verpflichtet sic
 
 (8) Die Regelungen dieses Paragraphen gelten auch im Falle der Beendigung dieses Vertrags fort.
 
-
-## § 16 – Geheimhaltung und Vertraulichkeit
+# § 16 – Geheimhaltung und Vertraulichkeit
 
 (1) Anbieter und Mauterheber werden alle Daten, die ihnen im Zusammenhang mit der Einrichtung, Durchführung und Beendigung des EETS von der anderen Vertragspartei direkt oder indirekt zugänglich gemacht werden, oder die ihnen in diesem Zusammenhang auf sonstige Weise zur Kenntnis gelangt sind (insgesamt: „vertrauliche Daten“), vertraulich behandeln und sie Dritten nicht zugänglich machen. Als vertrauliche Daten gelten auch solche Daten, die Anbieter oder Mauterheber selbst im Zusammenhang mit dem EETS erstellt oder erhoben haben und die mit dem EETS, den ihm zugrunde liegenden Parametern, den technischen Spezifikationen, wirtschaftlichen Vorgaben oder den Vertragsparteien selbst in Verbindung stehen.
 
@@ -302,8 +282,7 @@ c) die vertraulichen Daten zur Ausführung der ihnen obliegenden Aufgaben benöt
 
 (+++ § 16 Abs. 3 und Abs. 8: Zur Anwendung vgl. § 15 Abs. 7 +++)
 
-
-## § 17 – Qualitätsanforderungen
+# § 17 – Qualitätsanforderungen
 
 (1) Der Anbieter muss beim Betrieb seines EETS-Teilsystems die folgenden Qualitätsparameter erfüllen:
 
@@ -323,15 +302,13 @@ Die Einzelheiten zur Messung und Bewertung der einzelnen Qualitätsparameter sin
 
 Die Einzelheiten zu den Auditbestimmungen sind in den Qualitätsparametern für EETS-Anbieter Anlage 5 geregelt.
 
-
-## § 18 – Übertragung von Datenobjekten
+# § 18 – Übertragung von Datenobjekten
 
 (1) Der Anbieter ist verantwortlich für die Richtigkeit und Vollständigkeit der von ihm übermittelten Datenobjekte und trägt das Risiko für die fehlerhafte und unvollständige Übermittlung der Datenobjekte an den Mauterheber. Die Datenobjekte gelten vom Anbieter an den Mauterheber als übermittelt, wenn der Mauterheber den Empfang der Datenobjekte elektronisch quittiert hat.
 
 (2) Der Mauterheber ist verantwortlich für die Richtigkeit und Vollständigkeit der von ihm übermittelten Datenobjekte und trägt das Risiko für die fehlerhafte und unvollständige Übermittlung der Datenobjekte an den Anbieter. Die Verpflichtung des Anbieters, die ihm übermittelten Datenobjekte auf Vollständigkeit und Richtigkeit zu überprüfen, bleibt hiervon unberührt. Hätte der Anbieter die Unrichtigkeit oder Unvollständigkeit der ihm übermittelten Datenobjekte erkennen können, entfällt die Verantwortung des Mauterhebers.
 
-
-## § 19 – Einstandspflicht für geschuldete Maut
+# § 19 – Einstandspflicht für geschuldete Maut
 
 (1) Der Anbieter haftet gegenüber dem Mauterheber für die im EETS-Gebiet BFStrMG geschuldete Maut der Nutzer, die er dem Mauterheber in seinen Nutzerlisten nach § 4j BFStrMG gemeldet hat oder hätte melden müssen. Die Haftung umfasst auch die nach § 8 BFStrMG geschuldete Maut, sofern der Nutzer diese nicht entrichtet („Mautausfallhaftung“).
 
@@ -347,8 +324,7 @@ Die Haftung nach Absatz 1 entfällt nicht für weitere Bordgeräte, die der Anbi
 
 (4) Der Anbieter darf ein Bordgerät erst auf die Schwarze Liste setzen, wenn er das Bordgerät gesperrt hat. Der Anbieter muss seinen Nutzer auf geeignete Weise über die Sperrung des Bordgerätes informieren. Das Bordgerät muss dem Nutzer im Fall der Sperrung anzeigen, dass es nicht erhebungsbereit ist. Der Anbieter muss ein Bordgerät von der Schwarzen Liste entfernen, wenn er das Bordgerät wieder entsperrt hat.
 
-
-## § 20 – Vergütung
+# § 20 – Vergütung
 
 (1) Der Mauterheber zahlt dem Anbieter eine variable kalendermonatliche Vergütung, deren Höhe sich aus der EETS-Anbietervergütung nach Absatz 2 und der Bordgeräte-Vergütung nach Absatz 3 berechnet. Das Risiko, dass sich die Summe der wertgestellten Zahlungen und damit die nach diesem § 20 zu bemessende EETS-Anbietervergütung anders entwickelt als bei Vertragsabschluss angenommen, trägt, unabhängig von der Ursache, ausschließlich der Anbieter.
 
@@ -374,8 +350,7 @@ Der Betrachtungszeitraum beträgt zwölf Monate. Die Zahlung des EQ-Bonus für d
 
 (6) Wurde beim Mauterheber eine berechtigte Erstattung durch einen Nutzer beantragt und wurde dieser Antrag durch das Bundesamt für Güterverkehr positiv beschieden, mindert sich die EETS-Anbietervergütung entsprechend. Der Mauterheber teilt dem Anbieter jeweils bis zum siebten Werktag eines Monats für den vorangegangenen Monat mit, wie viele Anträge auf Erstattung in welcher Höhe positiv beschieden wurden.
 
-
-## § 21 – Rechnungsstellung
+# § 21 – Rechnungsstellung
 
 (1) Der Anbieter hat zur Abrechnung der Vergütung nach § 20 dieses Vertrags eine kalendermonatliche, prüffähige Rechnung entsprechend den nachfolgenden Absätzen auszustellen. Die Abrechnung der Vergütung erfolgt erstmalig in dem Kalendermonat, der auf den Kalendermonat folgt, in dem der Beginn der Vertragslaufzeit liegt.
 
@@ -389,8 +364,7 @@ Der Betrachtungszeitraum beträgt zwölf Monate. Die Zahlung des EQ-Bonus für d
 
 (6) Die Zahlung der Vergütung an den Anbieter erfolgt auf das jeweils in der Rechnung angegebene Konto des Anbieters.
 
-
-## § 22 – Allgemeine Abrechnungs- und Zahlungsbestimmungen
+# § 22 – Allgemeine Abrechnungs- und Zahlungsbestimmungen
 
 (1) Alle Rechnungen müssen den zum Zeitpunkt der Ausstellung der Rechnung geltenden Bestimmungen des deutschen Umsatzsteuergesetzes (UStG) (insbesondere den §§ 14, 14a UStG) in seiner jeweils gültigen Fassung entsprechen. Ist der Rechnungsempfänger zur Akzeptanz von Rechnungen in bestimmter Form nur dann verpflichtet, wenn diese weitere gesetzliche Anforderungen oder Vorgaben aus Rechtsverordnungen erfüllen, sind diese Mindestanforderungen bei der Wahl der jeweiligen Rechnungsform vom Rechnungsaussteller zu berücksichtigen. Erfüllt eine Rechnung die vorgenannten Anforderungen nicht, ist der Rechnungsempfänger berechtigt, die betroffene Rechnung zurückzuweisen.
 
@@ -416,8 +390,7 @@ soweit der Mauterheber dem Anbieter nicht schriftlich einen anderen Rechnungsemp
 
 (8) Gerät der Mauterheber mit der Zahlung von Vergütungsansprüchen des Anbieters in Verzug, hat der Mauterheber Verzugszinsen nach § 288 Absatz 1 Satz 2 BGB zu zahlen.
 
-
-## § 23 – Erneute Durchführung des Verfahrens zur Feststellung der Gebrauchstauglichkeit
+# § 23 – Erneute Durchführung des Verfahrens zur Feststellung der Gebrauchstauglichkeit
 
 (1) Der Mauterheber kann auch nach Vertragsabschluss vom Anbieter die erneute Durchführung des Verfahrens zur Feststellung der Gebrauchstauglichkeit verlangen, wenn
 
@@ -439,8 +412,7 @@ f) bei begründetem Verdacht des Mauterhebers auf Nichterfüllung der Vorgaben d
 
 (4) Das Recht des Mauterhebers zur Kündigung dieses Vertrags bleibt durch die Regelungen dieses Paragraphen unberührt.
 
-
-## § 24 – Haftung und Gewährleistung
+# § 24 – Haftung und Gewährleistung
 
 (1) Der Anbieter haftet bei Verletzung gesetzlicher oder vertraglicher Verpflichtungen nach den allgemeinen gesetzlichen Bestimmungen für Vorsatz und Fahrlässigkeit. Er haftet für die Rückwirkungsfreiheit der von ihm verwendeten Systeme und eingebrachten Komponenten im Hinblick auf die ungestörte Funktion der Systeme des Mauterhebers, des nationalen Betreibers und der von ihm betriebenen Kontrolleinrichtungen, anderer Anbieter und sonstiger Dritter. Soweit der Anbieter in diesem Vertrag explizit oder aus den Umständen ersichtlich eine Einstandspflicht übernommen hat, haftet er dem Mauterheber auch verschuldensunabhängig.
 
@@ -462,8 +434,7 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für Anbieter
 
 (7) Das Recht des Mauterhebers, wegen der Verletzung von Pflichten aus dieser Vereinbarung Vertragsstrafen zu erheben, bleibt von der Regelung dieses Paragraphen unberührt.
 
-
-## § 25 – Freistellung
+# § 25 – Freistellung
 
 (1) Der Anbieter stellt den Mauterheber, die beim Mauterheber beschäftigten oder eingesetzten Personen sowie die vom Mauterheber im Zusammenhang mit dem EETS hinzugezogenen oder beschäftigten Personen und Unternehmen, (gemeinsam: die „Freistellungsberechtigten“) vollumfänglich von allen Ansprüchen frei, die Dritte, einschließlich anderer Anbieter, im Zusammenhang mit der Durchführung des EETS durch den Anbieter gegen die Freistellungsberechtigten geltend machen und die auf der Verletzung von vertraglichen oder gesetzlichen Pflichten des Anbieters beruhen. Der Freistellungsanspruch erfasst auch alle Schäden und Kosten, die den Freistellungsberechtigten in Folge der Inanspruchnahme durch Dritte im Sinne dieses Absatzes entstehen.
 
@@ -471,8 +442,7 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für Anbieter
 
 (3) Die Freistellung des Mauterhebers nach Absatz 1 und die Zurverfügungstellung des Betrages an den Mauterheber nach Absatz 2 erfolgen auf erstes Anfordern.
 
-
-## § 26 – Gewerbliche Schutzrechte
+# § 26 – Gewerbliche Schutzrechte
 
 (1) Der Anbieter hat keine Rechte in Bezug auf gewerbliche Schutzrechte und Urheberrechte (gemeinsam: „Schutzrechte“) des Mauterhebers oder der Betreibergesellschaft. Soweit nachfolgend nicht ein anderes geregelt ist, werden an den Anbieter unter diesem Vertrag keine Schutzrechte lizenziert.
 
@@ -480,8 +450,7 @@ c) aus der Bereitstellung und Durchführung der EETS-Mauterkennung für Anbieter
 
 (3) Soweit beim Mauterheber im Zusammenhang mit der Errichtung und dem Betrieb des EETS-Systems Schutzrechte entstehen, deren Nutzung für den Anbieter im Zusammenhang mit der Erbringung des EETS im EETS-Gebiet BFStrMG erforderlich ist, hat der Anbieter einen Anspruch auf Einräumung eines einfachen Nutzungsrechts für das EETS-Gebiet BFStrMG, in dem zeitlichen und inhaltlichen Umfang, der für das Verhältnis zwischen Anbieter und Mauterheber erforderlich ist. Eine Unterlizenzierung bedarf der vorherigen schriftlichen Genehmigung des Mauterhebers. Der Anbieter haftet dem Mauterheber verschuldensunabhängig für eine Verletzung der Pflicht gemäß Satz 2.
 
-
-## § 27 – Vertragsstrafen
+# § 27 – Vertragsstrafen
 
 (1) Der Anbieter verwirkt eine Vertragsstrafe jeweils in Höhe von 25 000 Euro, wenn er schuldhaft
 
@@ -541,8 +510,7 @@ In den Fällen der Buchstaben g und h wird die Vertragsstrafe für jeden Tag ver
 
 (9) Weder mit der Entgegennahme von Leistungen noch durch die Zahlung der Vergütung oder sonstige Zahlungen im Zusammenhang mit diesem Vertrag verzichtet der Mauterheber auf eine verwirkte oder künftige Vertragsstrafe.
 
-
-## § 28 – Laufzeit und Beendigung des Vertrags
+# § 28 – Laufzeit und Beendigung des Vertrags
 
 (1) Der Vertrag tritt zum (Datum) in Kraft und wird auf unbestimmte Zeit geschlossen. Der Anbieter stellt den EETS für das EETS-Gebiet BFStrMG zum (Datum) in Dienst.
 
@@ -598,8 +566,7 @@ w) der Anbieter wiederholt und in nicht unerheblicher Weise gegen die Vorgaben f
 
 (4) Die Kündigung dieses Vertrags ist durch schriftliche Erklärung auszusprechen und ist der jeweils anderen Vertragspartei per Einschreiben/Rückschein zuzustellen.
 
-
-## § 29 – Verfahren nach Vertragsbeendigung
+# § 29 – Verfahren nach Vertragsbeendigung
 
 (1) Der Anbieter ist auch nach Beendigung dieses Vertrags verpflichtet, die von seinen Nutzern im EETS-Gebiet BFStrMG geschuldete Maut an den Mauterheber vollständig auszukehren. § 19 gilt entsprechend.
 
@@ -607,44 +574,37 @@ w) der Anbieter wiederholt und in nicht unerheblicher Weise gegen die Vorgaben f
 
 (3) Nach Beendigung dieses Vertrags muss der Anbieter von ihm errichtete straßenseitige Einrichtungen im EETS-Gebiet BFStrMG unverzüglich und auf eigene Kosten zurückbauen und umweltgerecht nach den jeweils geltenden Bestimmungen entsorgen. Auf Verlangen des Mauterhebers muss der Anbieter dem Mauterheber oder einem von ihm benannten Dritten die vom Mauterheber schriftlich bezeichneten straßenseitigen Einrichtungen übertragen. Regelungen über die Kosten der Übernahme sind einer gesonderten Vereinbarung vorbehalten. Können sich die Parteien über die Kosten für die Übernahme nicht einigen, wird die Höhe der Kosten durch die Vermittlungsstelle nach den §§ 28 ff. MautSysG festgelegt.
 
-
-## § 30 – Sperrung von Bordgeräten
+# § 30 – Sperrung von Bordgeräten
 
 Im Fall der Kündigung dieses Vertrags durch eine Vertragspartei muss der Anbieter alle von seinen Nutzern im Rahmen ihrer Vertragsverhältnisse mit dem Anbieter verwendeten Bordgeräte für die Nutzung im EETS-Gebiet BFStrMG spätestens bis zum Ablauf der Kündigungsfrist, bei fristloser Kündigung unverzüglich, sperren. Im Falle der Insolvenz oder drohender Insolvenz des Anbieters muss der Anbieter die Bordgeräte nach Satz 1 unverzüglich sperren.
 
-
-## § 31 – Vertragsanpassungen
+# § 31 – Vertragsanpassungen
 
 (1) Der Anbieter ist verpflichtet, mit dem Mauterheber diejenigen Änderungen und Ergänzungen zu diesem Vertrag zu vereinbaren, die aufgrund von Änderungen des geltenden Rechts erforderlich sind. Stimmt der Anbieter den erforderlichen Vertragsanpassungen oder -ergänzungen nicht oder nicht innerhalb angemessener Frist zu, ist der Mauterheber zur Kündigung dieses Vertrags ohne Einhaltung einer Frist berechtigt. § 26 Absatz 4 gilt entsprechend.
 
 (2) Unabhängig vom Wirksamwerden von Vertragsänderungen und -ergänzungen hat der Anbieter die sich aus der Änderung geltenden Rechts ergebenden Verpflichtungen zu erfüllen.
 
-
-## § 32 – Höhere Gewalt
+# § 32 – Höhere Gewalt
 
 Wird einer Vertragspartei die Erfüllung einer ihr nach diesem Vertrag obliegenden Verpflichtung infolge höherer Gewalt oder anderer objektiv unabwendbarer Ereignisse zeitweise oder dauernd unmöglich, informiert sie die andere Vertragspartei unverzüglich schriftlich hierüber. Die betroffenen Rechte und Pflichten der Vertragsparteien ruhen für den entsprechenden Zeitraum. Das Recht zur Kündigung bleibt durch diese Regelung unberührt.
 
-
-## § 33 – Streitbeilegung
+# § 33 – Streitbeilegung
 
 (1) Den Vertragsparteien steht es frei, im Falle von Streitigkeiten über den Inhalt oder die Auslegung dieses Vertrags die Vermittlungsstelle nach den §§ 28 ff. MautSysG anzurufen.
 
 (2) Die Anrufung der Vermittlungsstelle hindert nicht die Inanspruchnahme von behördlichen oder gerichtlichen Rechtsschutzmöglichkeiten in der Bundesrepublik Deutschland oder auf Ebene der Europäischen Union.
 
-
-## § 34 – Anwendbares Recht und Gerichtsstand
+# § 34 – Anwendbares Recht und Gerichtsstand
 
 (1) Dieser Vertrag und seine Auslegung unterliegen deutschem Recht.
 
 (2) Gerichtsstand ist Köln.
 
-
-## § 35 – Vertragskosten
+# § 35 – Vertragskosten
 
 Die im Zusammenhang mit diesem Vertrag anfallenden Beurkundungskosten trägt der Anbieter.
 
-
-## § 36 – Schriftverkehr
+# § 36 – Schriftverkehr
 
 (1) Sämtliche Mitteilungen aus oder im Zusammenhang mit diesem Vertrag sind schriftlich und in deutscher Sprache abzufassen.
 
@@ -662,25 +622,21 @@ Anbieter: (Name und Adresse Anbieter), (Empfangsberechtigter)
 
 (5) Die Vertragsparteien werden Änderungen der Anschriften nach den Absätzen 2 bis 4, insbesondere in der Person der Empfangsbevollmächtigten, einander unverzüglich mitteilen.
 
-
-## § 37 – Schriftform
+# § 37 – Schriftform
 
 Änderungen und Ergänzungen dieses Vertrags bedürfen der Schriftform, soweit nicht eine notarielle Beurkundung gesetzlich oder nach diesem Vertrag erforderlich ist. Dies gilt auch für die Aufhebung des Schriftformerfordernisses. Die Anwendung von § 126 Absatz 3 BGB ist ausgeschlossen. Sämtliche Änderungen und Ergänzungen sind in deutscher Sprache abzufassen.
 
-
-## § 38 – Sofortige Vollstreckung
+# § 38 – Sofortige Vollstreckung
 
 Der Anbieter unterwirft sich wegen des Anspruchs des Mauterhebers auf Auskehr der Mauteinnahmen gemäß § 5 dieses Vertrags der sofortigen Vollstreckung nach § 61 VwVfG in sein gesamtes Vermögen. Wegen der Höhe des Anspruchs wird auf § 25 Absatz 5 dieses Vertrags verwiesen.
 
-
-## § 39 – Salvatorische Klausel
+# § 39 – Salvatorische Klausel
 
 Sollten einzelne Bestimmungen dieses Vertrags unwirksam oder undurchführbar sein, so berührt dies nicht die Wirksamkeit der übrigen Vertragsbestimmungen. Die unwirksame oder undurchführbare Bestimmung ist durch eine solche zu ersetzen, die dem entspricht, was die Parteien vereinbart hätten, wenn sie die Unwirksamkeit oder Undurchführbarkeit bei Abschluss dieses Vertrags erkannt hätten.
 
 Unterschriften
 
-
-## Anlagen
+# Anlagen
 
 –  
 Anlage 1: Zusatzvereinbarung
@@ -706,8 +662,7 @@ Anlage 7: Glossar
 –  
 Anlage 8: gegebenenfalls Erklärungen/Schriftwechsel
 
-
-## Anlage 1 – zum Vertrag über die Durchführung des Europäischen elektronischen Mautdienstesauf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes(EETS-Zulassungsvertrag)
+# Anlage 1 – zum Vertrag über die Durchführung des Europäischen elektronischen Mautdienstesauf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes(EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 26.03.2019 V 1)
 
@@ -761,29 +716,25 @@ Dabei ist zu berücksichtigen, dass alle Berichte am auf den Stichtag folgenden 
 
 Sofern der Anbieter durch den Mauterheber zugelassen wurde oder sich in der Phase 3 (Pilotbetrieb) befindet, muss er dem Mauterheber unaufgefordert fünf (5) EETS-Fahrzeuggeräte, die jeweils den im Produktivsystem eingesetzten Software- und Hardwarestand aufweisen zur Verfügung stellen. Der Mauterheber wird die EETS-Fahrzeuggeräte dem Mautbetreiber (Toll Collect) bereitstellen, damit dieser sie bei Bedarf im Rahmen von Tests zur Sicherstellung der Rückwirkungsfreiheit der EETS-Fahrzeuggeräte auf die Kontrolleinrichtungen des Mautbetreibers (Toll Collect) verwenden kann. Der EETS-Anbieter ist für die Wartung und Instandhaltung der EETS-Fahrzeuggeräte verantwortlich.
 
-
-## Anlage 2 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
-
-(Fundstelle: BAnz AT 27.03.2018 V 2)
-
-\[Beizufügen.\]
-
-
-## Anlage 3 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
+# Anlage 2 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
 \[Beizufügen.\]
 
-
-## Anlage 4 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
+# Anlage 3 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
 \[Beizufügen.\]
 
+# Anlage 4 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
 
-## Anlage 5 – zum Vertrag über die Durchführung des Europäischen elektronischen Mautdienstesauf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes(EETS-Zulassungsvertrag)
+(Fundstelle: BAnz AT 27.03.2018 V 2)
+
+\[Beizufügen.\]
+
+# Anlage 5 – zum Vertrag über die Durchführung des Europäischen elektronischen Mautdienstesauf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes(EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 26.03.2019 V 1;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -903,7 +854,7 @@ Die Quote QP\_DSRCTRANS wird mit folgender Formel erhoben:
 
 |                                                                                                                                                                                                                                                                                                                                                                                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Die DSRC Quote wird berechnet indem man die Anzahl der abschnittsbezogenen Erhebungsdatensätze zu denen ein passender DSRC-Datensatz vorliegt durch die Anzahl der vom EETS-Anbieter übermittelten abschnittsbezogenen Erhebungsdatensätze von Streckenabschnitten, in denen zum Zeitpunkt der Befahrung Kontrolleinrichtungen im Einsatz waren, teilt.](../normengrafiken/banzat_2019/20190326v1_03.jpg) |
+| ![Die DSRC Quote wird berechnet indem man die Anzahl der abschnittsbezogenen Erhebungsdatensätze zu denen ein passender DSRC-Datensatz vorliegt durch die Anzahl der vom EETS-Anbieter übermittelten abschnittsbezogenen Erhebungsdatensätze von Streckenabschnitten, in denen zum Zeitpunkt der Befahrung Kontrolleinrichtungen im Einsatz waren, teilt.](https://www.gesetze-im-internet.de/normengrafiken/banzat_2019/20190326v1_03.jpg) |
 
 Für den betrachteten Zeitraum und für die betrachteten Streckenabschnitte:
 
@@ -958,7 +909,7 @@ Durch folgende Formel wird der Qualitätsparameter QP\_SPERRLISTE bestimmt:
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Die Sperrlistenquote wird ermittelt, indem man die Anzahl erfasste betriebsbereite EETS-FzG, welche zum Zeitpunkt der Erfassung in der Sperrliste des EETS-Anbieters aufgelistet sind durch die Anzahl erfasste betriebsbereite EETS-FzG eines Anbieters (SST 301/ ISO 12813: StatusIndicator = go (1) bedeutet dass das FzG einen betriebsbereiten Status anzeigt), teilt.](../normengrafiken/banzat_2019/20190326v1_04.jpg) |
+| ![Die Sperrlistenquote wird ermittelt, indem man die Anzahl erfasste betriebsbereite EETS-FzG, welche zum Zeitpunkt der Erfassung in der Sperrliste des EETS-Anbieters aufgelistet sind durch die Anzahl erfasste betriebsbereite EETS-FzG eines Anbieters (SST 301/ ISO 12813: StatusIndicator = go (1) bedeutet dass das FzG einen betriebsbereiten Status anzeigt), teilt.](https://www.gesetze-im-internet.de/normengrafiken/banzat_2019/20190326v1_04.jpg) |
 
 Für den betrachteten Zeitraum und für die betrachteten Streckenabschnitte sind die Variablen wie folgt definiert:
 
@@ -992,7 +943,7 @@ Durch folgende Formel wird der Qualitätsparameter QP\_NUTZERLISTE bestimmt:
 
 |                                                                                                                             |
 |:---------------------------------------------------------------------------------------------------------------------------:|
-| ![Durch diese Formel wird der Qualitätsparameter QP\_NUTZERLISTE bestimmt](../normengrafiken/banzat_2019/20190326v1_05.jpg) |
+| ![Durch diese Formel wird der Qualitätsparameter QP\_NUTZERLISTE bestimmt](https://www.gesetze-im-internet.de/normengrafiken/banzat_2019/20190326v1_05.jpg) |
 
 Dabei sind die Variablen für den jeweilig betrachteten Zeitraum wie folgt definiert:
 
@@ -1024,7 +975,7 @@ Die Quote wird mit der folgenden Formel ermittelt:
 
 |                                                                                                                                                                                                                                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Die ABED Quote wird bestimmt, indem man rechtzeitig eingegangene ABEDs des EETS-Anbieters beim Mauterheber durch alle im System des Mauterhebers eingegangenen ABEDs des EETS-Anbieters teilt und am Ende mit 100 multipliziert.](../normengrafiken/banzat_2019/20190326v1_06.jpg) |
+| ![Die ABED Quote wird bestimmt, indem man rechtzeitig eingegangene ABEDs des EETS-Anbieters beim Mauterheber durch alle im System des Mauterhebers eingegangenen ABEDs des EETS-Anbieters teilt und am Ende mit 100 multipliziert.](https://www.gesetze-im-internet.de/normengrafiken/banzat_2019/20190326v1_06.jpg) |
 
 mit
 
@@ -1096,19 +1047,17 @@ anlassbezogene Audits beispielsweise im Zuge einer technischen Störung.
 
 Wird den Empfehlungen des Audit-Berichtes innerhalb der im Bericht verfassten Fristen nicht entsprochen, wird für jeden Tag ab Fristablauf eine Vertragsstrafe in Höhe von 1 000 Euro verhängt. Im Falle eines erfolglosen Widerspruches gegen den Audit-Bericht gilt dieselbe Rechtsfolge wie in Satz 5 2. Halbsatz, wobei die im Audit-Bericht genannte Frist erst zu laufen beginnt, nachdem der Widerspruch aus sachlichem Grund abgelehnt wurde. Im Falle eines erfolgreichen Widerspruches gegen den Audit-Bericht wird für jeden Tag, nachdem die angenommenen Vorschläge nicht innerhalb der abgestimmten Fristen umgesetzt werden, eine Vertragsstrafe in Höhe von 1 000 Euro verhängt.
 
-
-## Anlage 6 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
+# Anlage 6 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
 1. Vorbemerkung  
   
-Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG, sind vom BAG Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben.  
-  
+Im Rahmen der Durchführung des Zulassungsverfahrens zur Erbringung mautdienstbezogener Leistungen auf dem EETS-Gebiet BFStrMG, sind vom BAG Gebühren für die Geltendmachung individuell zurechenbarer öffentlicher Leistungen zu erheben.   
 
 Das Zulassungsverfahren gliedert sich in folgende Phasen:
 
-![](../normengrafiken/banzat_2018/20180327v2_10.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2018/20180327v2_10.jpg)
 
 2. Gebühren  
   
@@ -1149,8 +1098,7 @@ Werden die durchgeführten Anpassungen oder Hinweise auf Nichteinhaltung von Vor
 
 Die erneute Durchführung des Verfahrens zur Gebrauchstauglichkeit orientiert sich an denselben Phasen wie die initiale Durchführung. Sämtliche in der Bewertung der Änderungen als relevant eingestuften Prüfszenarien aller Verfahrensphasen müssen komplett durchlaufen werden. Die erneute Durchführung des Verfahrens zur Gebrauchstauglichkeit wird dem EETS-Anbieter berechnet, es sei denn, Änderungen im System des Mauterhebers sind ursächlich für die erneute Durchführung des Verfahrens. Sollte eine Verfahrensphase von der erneuten Durchführung nicht betroffen sein, ist der entsprechende Pauschalbetrag nicht zu entrichten. Sollte eine der Verfahrensphasen von der erneuten Durchführung teilweise betroffen sein, ist der Pauschalbetrag nach billigem Ermessen des Mauterhebers anteilig zu entrichten.
 
-
-## Anlage 7 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
+# Anlage 7 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 
@@ -1165,8 +1113,7 @@ Liste der gesperrten Bordgeräte. Die Schwarze Liste wird vom EETS-Anbieter gef�
 Ein Teilsystem umfasst Einrichtungen und Prozesse zur Erhebung der Maut.</td></tr><tr class="even"><td style="text-align: left;">Verfahren zur Feststellung der<br />
 Gebrauchstauglichkeit</td><td>Summe aller Aktivitäten des Mauterhebers, eines EETS-Anbieters und gegebenenfalls einer benannten Stelle, die erforderlich sind, um für das technische System des EETS-Anbieters den Nachweis der Gebrauchstauglichkeit zu erbringen.</td></tr><tr class="odd"><td style="text-align: left;">Vermittlungsstelle</td><td>Vermittlungsstelle mit der Aufgabe, die Vermittlung bei Streitigkeiten im Zusammenhang mit der Zulassung nach § 10 MautSysG und der beschränkten Zulassung nach § 11 MautSysG zu erleichtern.</td></tr><tr class="even"><td style="text-align: left;">Vorgaben für das EETS-Gebiet BFStrMG</td><td>Durch die „Verordnung über die Vorgaben für das EETS-Gebiet BFStrMG (EEMD-Gebietsvorgabenverordnung – GVV)“ verbindlich erlassene Vorgaben für das EETS-Gebiet BFStrMG. Diese umfassen:<dl><dt>–</dt><dd>wirtschaftliche Vorgaben</dd><dt>–</dt><dd>finanzielle Vorgaben</dd><dt>–</dt><dd>Vorgaben zu Abrechnungswesen, Zahlungs- und Fakturierungsgrundsätzen</dd><dt>–</dt><dd>technisch-organisatorische Vorgaben</dd><dt>–</dt><dd>Vorgaben zum Zusammenwirken der Teilsysteme des EETS-Anbieters und des Mauterhebers</dd><dt>–</dt><dd>Vorgaben zu Mauterhebung, Kontrolle und Überwachung</dd><dt>–</dt><dd>Vorgaben zu Qualitätsanforderungen.</dd></dl></td></tr><tr class="odd"><td style="text-align: left;">VwVfG</td><td>Verwaltungsverfahrensgesetz.</td></tr><tr class="even"><td style="text-align: left;">Zulassungsverfahren</td><td>Summe aller Aktivitäten des Mauterhebers und eines EETS-Anbieters, die erforderlich sind, um den Zulassungsvertrag abzuschließen.</td></tr></tbody></table>
 
-
-## Anlage 8 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
+# Anlage 8 – zum Vertrag über die Durchführungdes Europäischen elektronischen Mautdienstes auf Bundesfernstraßenim Geltungsbereich des BFStrMG (EETS-Zulassungsvertrag)
 
 (Fundstelle: BAnz AT 27.03.2018 V 2)
 

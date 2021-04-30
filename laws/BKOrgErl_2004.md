@@ -1,10 +1,7 @@
-# [BKOrgErl 2004] Organisationserlass des Bundeskanzlers
-
-Ausfertigungsdatum: 28.12.2004
-
+% Organisationserlass des Bundeskanzlers
+% Ausfertigungsdatum: 28.12.2004
  
-
-## ----
+# ----
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit Wirkung vom 1. Januar 2005 an:
 
@@ -16,7 +13,6 @@ b) die Zuständigkeit für die Stiftung zur Aufarbeitung der SED-Diktatur vom Bu
 
 2. Die Einzelheiten der Übertragungen werden zwischen dem Bundesministerium des Innern und der Beauftragten der Bundesregierung für Kultur und Medien geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundeskanzler

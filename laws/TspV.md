@@ -1,10 +1,7 @@
-# [TspV] Verordnung über die Zulassung des Befahrens der Eder- und der Diemeltalsperre sowie die Abwehr strom- und schifffahrtspolizeilicher Gefahren  (Talsperrenverordnung - TspV)
-
-Ausfertigungsdatum: 15.03.2013
-
+% Verordnung über die Zulassung des Befahrens der Eder- und der Diemeltalsperre sowie die Abwehr strom- und schifffahrtspolizeilicher Gefahren  (Talsperrenverordnung - TspV)
+% Ausfertigungsdatum: 15.03.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Wasser- und Schifffahrtsdirektion Mitte verordnet aufgrund  
   
@@ -15,8 +12,7 @@ des § 27 Absatz 1 und des § 46 Satz 1 Nummer 2 des Bundeswasserstraßengesetze
 \-  
 des § 3 Absatz 1 Nummer 1, 2, 2a, 3 bis 6, hinsichtlich des Absatzes 1 Nummer 1, 2 und 2a auch in Verbindung mit Absatz 2 Nummer 1, und Absatz 6 des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 5. Juli 2001 (BGBl. I S. 2026), von denen § 3 Absatz 1 Nummer 2a durch Artikel 1 Nummer 3 des Gesetzes vom 19. Juli 2005 (BGBl. I S. 2186) eingefügt, § 3 Absatz 1 Nummer 2 und Absatz 6, zuletzt durch Artikel 1 Nummer 3 des Gesetzes vom 19. Juli 2005 (BGBl. I S. 2186) und § 3 Absatz 1, zuletzt durch Artikel 313 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, in Verbindung mit § 1 der Binnenschifffahrt-Übertragungsverordnung vom 18. Dezember 2002 (BGBl. I S. 4580):
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung regelt auf der Edertalsperre und der Diemeltalsperre  
 
@@ -32,8 +28,7 @@ Diese Verordnung regelt auf der Edertalsperre und der Diemeltalsperre
 
 6. die Maßnahmen zur Abwehr von strom- und schifffahrtspolizeilichen Gefahren.
 
-
-## § 2 – Begriffsbestimmungen und anzuwendende Vorschriften
+# § 2 – Begriffsbestimmungen und anzuwendende Vorschriften
 
 (1) Soweit diese Verordnung auf bestimmte Rechtsverordnungen verweist, bedeuten  
   
@@ -83,8 +78,7 @@ eine Fläche, die im Rahmen wechselnder Wasserstände bis zum Höchststau überf
 7. Kitesurfen:  
 jede Betätigung, bei der eine Person, von einem Drachen oder Fallschirm gezogen, auf einem Surfboard, auf Wasserskiern oder auf sonstigen Gegenständen über das Wasser gleitet.
 
-
-## § 3 – Zugelassene Fahrzeuge
+# § 3 – Zugelassene Fahrzeuge
 
 (1) Das Befahren der Talsperren ist mit anderen als den in Satz 2 bezeichneten Fahrzeugen verboten. Das Befahren der Talsperren ist mit Fahrzeugen der folgenden Arten zugelassen (zugelassene Fahrzeuge):
 
@@ -104,8 +98,7 @@ b) Haus- und Wohnbootes, Tauch- und Flugbootes, Luftkissenfahrzeuges, Tragflüge
 
 (3) Das von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt kann das Befahren der Talsperren mit weiteren Fahrzeugen, insbesondere mit Fahrgastschiffen, Fähren und Fahrzeugen der berufsmäßigen Fischerei, im Einzelfall zulassen. Die Erlaubnis wird erteilt, soweit die Sicherheit und Leichtigkeit des Verkehrs sowie strompolizeiliche Belange nicht beeinträchtigt werden. Sie kann mit Auflagen und Bedingungen verbunden oder befristet werden. Für ein Wassermotorrad darf eine Erlaubnis nur für den Einsatz als Wasserskizugboot nach der Wasserskiverordnung erteilt werden.
 
-
-## § 4 – Stillliegen und Sondertransporte auf den Talsperren
+# § 4 – Stillliegen und Sondertransporte auf den Talsperren
 
 (1) Ein zugelassenes Fahrzeug darf über Nacht nur an einem genehmigten Steg oder einer genehmigten Boje stillliegen.
 
@@ -121,8 +114,7 @@ b) Haus- und Wohnbootes, Tauch- und Flugbootes, Luftkissenfahrzeuges, Tragflüge
 
 (4) Ein Sondertransport bedarf einer Erlaubnis nach § 1.21 der Binnenschifffahrtsstraßen-Ordnung.
 
-
-## § 5 – Befähigung und Eignung von Schiffsführer und Besatzung
+# § 5 – Befähigung und Eignung von Schiffsführer und Besatzung
 
 (1) Jedes Fahrzeug muss unter der Führung einer hierfür geeigneten Person stehen (Schiffsführer). Der Schiffsführer muss nicht gleichzeitig der Rudergänger sein.
 
@@ -142,8 +134,7 @@ b) Haus- und Wohnbootes, Tauch- und Flugbootes, Luftkissenfahrzeuges, Tragflüge
 
 ausreichend.
 
-
-## § 6 – Kennzeichnung der Fahrzeuge
+# § 6 – Kennzeichnung der Fahrzeuge
 
 (1) Der Eigentümer eines Fahrzeuges, mit Ausnahme eines Segelsurfbretts, muss sein Fahrzeug mit einem Kennzeichen nach Maßgabe der Binnenschifffahrt-Kennzeichnungsverordnung versehen. Für die Kennzeichnung eines Fahrgastschiffs oder einer Fähre gilt abweichend von Satz 1 der § 2.01 Nummer 1 bis 3 der Binnenschifffahrtsstraßen-Ordnung. Ein nach landesrechtlichen Vorschriften zugeteiltes Kennzeichen ist von dem von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und Schifffahrtsamt auf Antrag anzuerkennen, soweit es unverwechselbar mit den Kennzeichen nach der Binnenschifffahrt-Kennzeichnungsverordnung ist.
 
@@ -159,20 +150,17 @@ der § 2.02 Nummer 1 Binnenschifffahrtsstraßen-Ordnung.
 
 (3) Die Kennzeichnungspflicht gilt auch für ein stillliegendes Fahrzeug.
 
-
-## § 7 – Bezeichnung der Fahrzeuge
+# § 7 – Bezeichnung der Fahrzeuge
 
 In der Nacht und bei unsichtigem Wetter muss ein Fahrzeug die nach Kapitel 3 der Binnenschifffahrtsstraßen-Ordnung vorgeschriebene Bezeichnung führen. Dies gilt nicht für ein Fahrzeug, das am Ufer oder auf Dauerliegeplätzen stillliegt.
 
-
-## § 8 – Abweichungen von der Binnenschiffsuntersuchungsordnung
+# § 8 – Abweichungen von der Binnenschiffsuntersuchungsordnung
 
 (1) Das von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt kann für eine Fähre von den Bestimmungen der Binnenschiffsuntersuchungsordnung und der Fährenbetriebsverordnung Ausnahmen zulassen, soweit die Sicherheit und Leichtigkeit des Verkehrs sowie strompolizeiliche Belange nicht beeinträchtigt werden.
 
 (2) Die Höhe eines zugelassenen Fahrzeugs über der Wasserlinie darf 13,00 m nicht überschreiten.
 
-
-## § 9 – Allgemeines Verhalten
+# § 9 – Allgemeines Verhalten
 
 (1) Jeder Verkehrsteilnehmer hat auf den Talsperren alle Vorsichtsmaßnahmen zu treffen, die die allgemeine Sorgfaltspflicht und die Übung der Schifffahrt gebieten, um insbesondere
 
@@ -192,8 +180,7 @@ zu vermeiden. Jede vermeidbare Beeinträchtigung der Umwelt ist zu verhindern
 
 (5) Der Schiffsführer hat einen Unfall, an dem sein Fahrzeug beteiligt ist, insbesondere eine Beschädigung fremden Eigentums durch sein Fahrzeug oder das Sinken seines Fahrzeuges unverzüglich dem von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und Schifffahrtsamt oder der Wasserschutzpolizei zu melden.
 
-
-## § 10 – Gesperrte Wasserflächen
+# § 10 – Gesperrte Wasserflächen
 
 (1) Folgende Wasserflächen dürfen nicht befahren werden:
 
@@ -221,8 +208,7 @@ Im Falle des Satzes 1 Nummer 4 bleibt § 14 Absatz 2 unberührt.
 
 (2) Das von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt kann auf Antrag das Befahren einer abgegrenzten Wasserfläche zulassen, soweit die Sicherheit und Leichtigkeit des Verkehrs sowie strompolizeiliche Belange nicht beeinträchtigt werden. Die Zulassung kann zeitlich und örtlich beschränkt werden.
 
-
-## § 11 – Besondere Verhaltensregeln
+# § 11 – Besondere Verhaltensregeln
 
 (1) Es darf nur bis zu einem Abstand von 20,00 m an die Abgrenzung einer öffentlichen Badefläche und eines Sporttaucherbereichs herangefahren werden; von den Ufern einer Badestelle ist ein Abstand von mindestens 50,00 m zu halten.
 
@@ -240,15 +226,13 @@ Im Falle des Satzes 1 Nummer 4 bleibt § 14 Absatz 2 unberührt.
 
 (3) Ein Sportfahrzeug darf eine Schiffsanlegestelle und Bootseinsatzstelle zum Anlegen, Ein- und Aussetzen nur benutzen, wenn es dabei die Fahrgastschiffe nicht behindert.
 
-
-## § 12 – Geschwindigkeit
+# § 12 – Geschwindigkeit
 
 (1) Die zulässige Höchstgeschwindigkeit gegenüber dem Ufer beträgt für ein Fahrzeug mit Maschinenantrieb 15 km/h. Dies gilt nicht für ein Wasserskizugboot, das einen Wasserskiläufer in einem dafür freigegebenen Wasserskigebiet zieht.
 
 (2) Unbeschadet des Absatzes 1 ist die Geschwindigkeit den Verhältnissen anzupassen. Sog- und Wellenschlag, insbesondere in der Nähe einer Bootssteganlage und einer Schiffsanlegestelle, ist zu vermeiden.
 
-
-## § 13 – Fahrregeln
+# § 13 – Fahrregeln
 
 (1) Ein sonstiges Fahrzeug muss einem Dienstfahrzeug der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Wasserschutzpolizei, einem Fahrgastschiff oder einer Fähre ausweichen.
 
@@ -272,8 +256,7 @@ c) wenn ein Fahrzeug mit Wind von Backbord ein Fahrzeug in Luv sichtet und nicht
 
 6. Ein unter Segel fahrendes Kleinfahrzeug am Wind darf nicht derart kreuzen, dass es ein anderes Kleinfahrzeug, das das an seiner Steuerbordseite gelegene Ufer anhält, zum Ausweichen zwingt.
 
-
-## § 14 – Wasserskilaufen und Kitesurfen
+# § 14 – Wasserskilaufen und Kitesurfen
 
 (1) Auf den Talsperren ist das Wasserskilaufen nur in dem in § 10 Absatz 1 Nummer 4 genannten Wasserskigebiet mit einem Wasserskizugboot, das eine Befahrenserlaubnis im Sinne des § 3 Absatz 1 Nummer 4 besitzt, gestattet. Die Erlaubnis zum Befahren muss vor der Fahrt erworben werden. Zum Einsetzen oder Auswassern eines Wasserskizugbootes ist keine Befahrenserlaubnis erforderlich.
 
@@ -285,8 +268,7 @@ c) wenn ein Fahrzeug mit Wind von Backbord ein Fahrzeug in Luv sichtet und nicht
 
 Das Kitesurfen auf den Talsperren ist verboten.
 
-
-## § 15 – Sonstige Benutzung
+# § 15 – Sonstige Benutzung
 
 (1) Ein Kraftfahrzeug und ein Anhänger darf im Stauraum nicht geparkt werden.
 
@@ -298,8 +280,7 @@ Das Kitesurfen auf den Talsperren ist verboten.
 
 (5) Das Zelten oder Feuermachen ist im Staubereich und auf den bundeseigenen Ufergrundstücken verboten.
 
-
-## § 16 – Erlaubnis besonderer Veranstaltungen und Taucherarbeiten
+# § 16 – Erlaubnis besonderer Veranstaltungen und Taucherarbeiten
 
 (1) Eine sportliche Veranstaltung, eine Wasserfestlichkeit und jede sonstige Veranstaltung, die zu Ansammlungen von Fahrzeugen führen oder die Schifffahrt behindern kann, sowie eine Einsatzübung eines zivilen Verbandes bedarf der Erlaubnis des von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und Schifffahrtsamtes. Satz 1 gilt entsprechend auch für eine Einsatzübung der Deutschen Lebens-Rettungs-Gesellschaft e.V., der Feuerwehr, des Deutschen Roten Kreuzes und der Bundesanstalt Technisches Hilfswerk. Hierzu können im Einzelfall auch Fahrzeuge mit Verbrennungsmotor als Sicherungs- und Begleitfahrzeuge erlaubt werden. Die Erlaubnis wird erteilt, soweit die Sicherheit und Leichtigkeit des Verkehrs sowie strompolizeiliche Belange nicht beeinträchtigt werden. Sie kann mit Auflagen und Bedingungen verbunden oder befristet werden.
 
@@ -307,23 +288,19 @@ Das Kitesurfen auf den Talsperren ist verboten.
 
 (3) Eine militärische Übung muss dem von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und Schifffahrtsamt rechtzeitig vorher gemeldet und mit ihm hinsichtlich Zeitpunkt und Örtlichkeit abgestimmt werden.
 
-
-## § 17 – Sonderregelungen
+# § 17 – Sonderregelungen
 
 Ein Fahrzeug des von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und Schifffahrtsamtes oder der Wasserschutzpolizei darf abweichend von § 10 Absatz 1 die gesperrten Wasserflächen befahren. Es ist von der Beachtung der strom- und schifffahrtspolizeilichen Vorschriften dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist. Dies gilt auch für ein Fahrzeug der Deutschen Lebens-Rettungs-Gesellschaft e. V., der Feuerwehr, des Deutschen Roten Kreuzes und der Bundesanstalt Technisches Hilfswerk im Rettungseinsatz.
 
-
-## § 18 – Anordnungen vorübergehender Art
+# § 18 – Anordnungen vorübergehender Art
 
 Das von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt kann aus besonderen Anlässen Anordnungen vorübergehender Art zur Gewährleistung der Sicherheit und Leichtigkeit des Verkehrs auf den Talsperren und strompolizeiliche Verfügungen zur Abwehr strompolizeilicher Gefahren erlassen.
 
-
-## § 19 – Mitführen von Urkunden
+# § 19 – Mitführen von Urkunden
 
 Urkunden für das jeweilige Fahrzeug, die für das Befahren der Talsperren notwendig sind, erforderliche Befähigungszeugnisse sowie der Ausweis über das Kennzeichen sind während der Fahrt an Bord mitzuführen und den zur Kontrolle befugten Personen auf Verlangen auszuhändigen.
 
-
-## § 20 – Genehmigungspflichtige Anlagen
+# § 20 – Genehmigungspflichtige Anlagen
 
 (1) Das Ausbringen einer dauerhaft am Grund des Gewässers befestigten Reedeboje zum Festmachen eines Fahrzeuges, einer Bojenkette und sonstiger Gegenstände wie Fischereigeräte oder das Errichten einer festen und schwimmenden Anlegestelle und einer ähnlichen Anlage bedarf der Genehmigung. Die Genehmigung wird erteilt, soweit die Sicherheit und Leichtigkeit des Verkehrs sowie strompolizeiliche Belange nicht beeinträchtigt werden. Sie kann mit Auflagen und Bedingungen verbunden oder befristet werden.
 
@@ -355,18 +332,15 @@ Urkunden für das jeweilige Fahrzeug, die für das Befahren der Talsperren notwe
 
 (4) Als Hafengebiet für die Diemeltalsperre ist festgelegt: Hafengebiet Heringhausen von See-km 3,000 bis See-km 3,900 rechtes Ufer.
 
-
-## § 21 – Zuständigkeiten
+# § 21 – Zuständigkeiten
 
 Für die Erteilung einer Erlaubnis oder einer Genehmigung nach dieser Verordnung ist das von der Generaldirektion Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und Schifffahrtsamt zuständig.
 
-
-## § 22 – Auflagen
+# § 22 – Auflagen
 
 Liegen die Voraussetzungen der §§ 48 oder 49 des Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde an Stelle der Rücknahme oder des Widerrufs eine Erlaubnis oder Genehmigung nach dieser Verordnung auch nachträglich befristen und mit Auflagen versehen.
 
-
-## § 23 – Pflichten des Schiffsführers, des Eigentümers und des Ausrüsters
+# § 23 – Pflichten des Schiffsführers, des Eigentümers und des Ausrüsters
 
 (1) Der Schiffsführer hat sicherzustellen, dass
 
@@ -407,8 +381,7 @@ eingehalten werden,
 
 (6) Der Eigentümer und der Ausrüster dürfen jeweils die Radarfahrt eines Fahrzeugs nur anordnen oder zulassen, wenn es nach § 9 Absatz 2 Satz 2 in Verbindung mit § 6.32 Nummer 1 Satz 1 der Binnenschifffahrtsstraßen-Ordnung vorschriftsmäßig besetzt ist.
 
-
-## § 24 – Ordnungswidrigkeiten
+# § 24 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -516,12 +489,10 @@ b) der Rudergänger eines Fahrzeugs mit Antriebsmaschine mindestens 16 Jahre alt
 
 4. entgegen § 23 Absatz 6 die Radarfahrt eines Fahrzeugs anordnet oder zulässt, das nicht nach § 9 Absatz 2 Satz 2 in Verbindung mit § 6.32 Nummer 1 Satz 1 der Binnenschifffahrtsstraßen-Ordnung vorschriftsmäßig besetzt ist.
 
-
-## § 25 – Übergangsbestimmungen
+# § 25 – Übergangsbestimmungen
 
 Die vor dem Inkrafttreten dieser Verordnung erteilten Erlaubnisse, Genehmigungen, Ausnahmebewilligungen und Befähigungsnachweise gelten bis zum Ablauf ihrer Gültigkeit weiter.
 
-
-## § 26 – Inkrafttreten und Außerkrafttreten
+# § 26 – Inkrafttreten und Außerkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2013 in Kraft. Gleichzeitig tritt die Talsperrenverordnung vom 3. April 2003 (VkBl 2003 S. 230) außer Kraft.

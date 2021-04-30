@@ -1,10 +1,7 @@
-# [SeeEigensichV] Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren  (See-Eigensicherungsverordnung - SeeEigensichV)
-
-Ausfertigungsdatum: 19.09.2005
-
+% Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren  (See-Eigensicherungsverordnung - SeeEigensichV)
+% Ausfertigungsdatum: 19.09.2005
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |      |                                                                        |
 |:-----|:-----------------------------------------------------------------------|
@@ -23,8 +20,7 @@ Ausfertigungsdatum: 19.09.2005
 | § 13 | ISO-Normen                                                             |
 | § 14 | Übergangsvorschrift zu § 7 Absatz 2a                                   |
 
-
-## § 1 – Zweck der Verordnung und Zuständigkeit des Bundes
+# § 1 – Zweck der Verordnung und Zuständigkeit des Bundes
 
 (1) Diese Verordnung regelt die Einrichtung und Überwachung der zur Abwehr äußerer Gefahren für die Sicherheit des Schiffsverkehrs erforderlichen Sicherungssysteme im Sinne
 
@@ -42,8 +38,7 @@ in ihrer jeweils geltenden Fassung.
 
 (3) Die Aufgaben des Bundes werden nach § 5 Abs. 1 Satz 2 Nr. 4b des Seeaufgabengesetzes durch das Bundesamt für Seeschifffahrt und Hydrographie (Bundesamt) wahrgenommen, soweit nachfolgend nichts anderes bestimmt ist.
 
-
-## § 2 – Verpflichtungen privater Unternehmen
+# § 2 – Verpflichtungen privater Unternehmen
 
 (1) Unternehmen im Sinne der Regel 1 Absatz 1.7 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens sind verpflichtet, den zuständigen Mitarbeitern des Bundesamtes sowie den von diesem ermächtigten Behörden oder beauftragten Stellen im Rahmen der Erfüllung ihrer Aufgaben zur Abwehr äußerer Gefahren auf See
 
@@ -67,8 +62,7 @@ Die Mitarbeiter des Bundesamtes und der von diesem ermächtigten Behörden oder 
 
 Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 3 – Anerkannte Stelle zur Gefahrenabwehr
+# § 3 – Anerkannte Stelle zur Gefahrenabwehr
 
 (1) Das Bundesamt kann sich
 
@@ -122,8 +116,7 @@ d) den Abschluss einer angemessenen Haftpflichtversicherung nachweisen kann, sow
 
 (7) Auf die Zuweisung der Aufgaben sind im Übrigen die Nummern 3.6, 3.7 und 3.8 des Abschnitts B der Anlage 2 zur Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013, 3023), die zuletzt durch Artikel 6 der Verordnung vom 6. August 2005 (BGBl. I S. 2288) geändert worden ist, entsprechend anzuwenden.
 
-
-## § 4 – Beauftragte für die Gefahrenabwehr im Unternehmen und auf dem Schiff
+# § 4 – Beauftragte für die Gefahrenabwehr im Unternehmen und auf dem Schiff
 
 (1) Die Beauftragten für die Gefahrenabwehr im Unternehmen gemäß Teil A Abschnitt 11 des ISPS-Codes und auf dem Schiff gemäß Teil A Abschnitt 12 des ISPS-Codes benötigen zur Ausübung ihrer Tätigkeit einen Nachweis, dass sie über die notwendige Kompetenz gemäß Teil A Abschnitt 13 des ISPS-Codes nach Teilnahme an einem gemäß § 5 anerkannten Lehrgang verfügen. Es können auch solche Personen eingesetzt werden, die ihre Kompetenz durch Teilnahme an einem Lehrgang im Ausland nachweisen, welcher den Vorgaben der in § 5 Abs. 1 Satz 1 genannten IMO-Modellkurse entspricht.
 
@@ -133,15 +126,13 @@ d) den Abschluss einer angemessenen Haftpflichtversicherung nachweisen kann, sow
 
 (4) Das Unternehmen ist verpflichtet, den Beauftragten für die Gefahrenabwehr die zur Erfüllung ihrer Aufgaben notwendigen Mittel und Informationen jederzeit und vollständig zur Verfügung zu stellen.
 
-
-## § 5 – Anerkennung von Fortbildungslehrgängen
+# § 5 – Anerkennung von Fortbildungslehrgängen
 
 (1) Nationale Fortbildungslehrgänge im Sinne des § 4 Abs. 1 werden vom Bundesamt auf Antrag anerkannt, wenn sie den Vorgaben der von der Internationalen Seeschifffahrts-Organisation herausgegebenen Modellkurse 3.19 "Beauftragter zur Gefahrenabwehr auf dem Schiff" und 3.20 "Beauftragter für die Gefahrenabwehr im Unternehmen" (VkBl. 2004 S. 519) entsprechen. Näheres regelt das Bundesamt durch Verwaltungsvorschrift.
 
 (2) Über die Anerkennung nach Absatz 1 Satz 1 stellt das Bundesamt einen amtlichen Nachweis für einen Zeitraum von höchstens fünf Jahren aus. Das Bundesamt überprüft stichprobenweise die Einhaltung der Voraussetzungen nach Absatz 1. Hierzu ist ihm der Zugang zu den Fortbildungslehrgängen zu ermöglichen. Erforderliche Unterlagen sind dem Bundesamt auf Verlangen zur Einsichtnahme vorzulegen. Wenn die der Anerkennung zu Grunde liegenden Voraussetzungen entfallen, ist diese zu widerrufen und der entsprechende Nachweis einzuziehen oder für ungültig zu erklären.
 
-
-## § 6 – Risikobewertung
+# § 6 – Risikobewertung
 
 (1) Der Beauftragte für die Gefahrenabwehr im Unternehmen gemäß Teil A Abschnitt 11 des ISPS-Codes ist für die Erstellung und Überprüfung der Risikobewertung des Schiffes gemäß Teil A Abschnitt 8 des ISPS-Codes verantwortlich. Er kann sich bei deren Erarbeitung der Hilfe Dritter bedienen, die über einschlägige Erfahrungen im Sinne des Teils A Abschnitt 8.2 des ISPS-Codes verfügen.
 
@@ -149,8 +140,7 @@ d) den Abschluss einer angemessenen Haftpflichtversicherung nachweisen kann, sow
 
 (3) Bei gefahrenabwehrrelevanten Veränderungen an Bord des Schiffes ist die Risikobewertung vom Beauftragten für die Gefahrenabwehr im Unternehmen gemäß Teil A Abschnitt 8.2 in Verbindung mit Abschnitt 11.2.2 des ISPS-Codes entsprechend fortzuschreiben.
 
-
-## § 7 – Plan zur Gefahrenabwehr auf dem Schiff
+# § 7 – Plan zur Gefahrenabwehr auf dem Schiff
 
 (1) Der Beauftragte für die Gefahrenabwehr im Unternehmen ist für die Erstellung und Fortschreibung des Plans zur Gefahrenabwehr auf dem Schiff verantwortlich. Er kann sich bei dessen Erarbeitung der Hilfe Dritter bedienen, die über einschlägige Erfahrungen im Sinne des Teils A Abschnitt 9 des ISPS-Codes verfügen.
 
@@ -190,8 +180,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (7) Unbeschadet des § 9 Abs. 4 sind sämtliche dem Plan zur Gefahrenabwehr auf dem Schiff zugehörigen Aufzeichnungen im Sinne des Teils A Abschnitt 10 des ISPS-Codes mindestens für drei Jahre vom Beauftragten für die Gefahrenabwehr auf dem Schiff an Bord des Schiffes für unbefugte Dritte unzugänglich aufzubewahren.
 
-
-## § 8 – Internationales Zeugnis über die Gefahrenabwehr an Bord eines Schiffes
+# § 8 – Internationales Zeugnis über die Gefahrenabwehr an Bord eines Schiffes
 
 (1) Liegen die in Teil A Abschnitt 19.1 des ISPS-Codes genannten Voraussetzungen vor, so stellt das Bundesamt ein Internationales Zeugnis gemäß Teil A Abschnitt 19.2 in Verbindung mit Abschnitt 19.3 des ISPS-Codes aus, dessen Gültigkeit auf höchstens fünf Jahre begrenzt ist. Unbeschadet des Teils A Abschnitt 19.3.8 des ISPS-Codes ist das Zeugnis einzuziehen, sofern die zu seiner Erteilung notwendigen Voraussetzungen nicht mehr vorliegen. Liegen die Voraussetzungen von Teil A Abschnitt 19.4 des ISPS-Codes vor, stellt das Bundesamt ein vorläufiges Zeugnis aus.
 
@@ -199,8 +188,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (3) Zwischen dem zweiten und dritten Jahrestag der Ausstellung des Internationalen Zeugnisses ist eine Zwischenüberprüfung gemäß Teil A Abschnitt 19.1.1.3 des ISPS-Codes durchzuführen. Das Bundesamt ist berechtigt, zusätzliche Überprüfungen anzuordnen und durchzuführen, wenn Anhaltspunkte dafür vorliegen, dass die zur Erteilung des Zeugnisses genannten Voraussetzungen nicht mehr erfüllt sind.
 
-
-## § 9 – Sicherheitserklärung
+# § 9 – Sicherheitserklärung
 
 (1) Der Beauftragte für die Gefahrenabwehr auf dem Schiff trägt dafür Sorge, dass erst bei Vorliegen einer Sicherheitserklärung nach Teil A Abschnitt 5.5 des ISPS-Codes mit dem Austausch von Personen oder Gütern begonnen wird, wenn
 
@@ -220,8 +208,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (6) Die Sicherheitserklärungen nach den Absätzen 1 bis 3 sind vom Beauftragten für die Gefahrenabwehr auf dem Schiff ein Jahr ab Ausstellung an Bord aufzubewahren.
 
-
-## § 10 – Kommunikation
+# § 10 – Kommunikation
 
 (1) Gemäß der Regel 7 des Kapitels XI-2 der Anlage des SOLAS-Übereinkommens wird eine Zentrale Kontaktstelle des Bundes im gemeinsamen Lagezentrum See des Maritimen Sicherheitszentrums Cuxhaven eingerichtet.
 
@@ -245,8 +232,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (8) Der Beauftragte für die Gefahrenabwehr im Unternehmen ist dafür verantwortlich, jede Veränderung der Gefahrenstufe durch den Flaggenstaat den jeweils betroffenen Beauftragten für die Gefahrenabwehr auf dem Schiff unverzüglich mitzuteilen. Können die im Plan zur Gefahrenabwehr jeweils vorgesehenen Maßnahmen nicht umgesetzt werden oder liegt das Schiff zum Zeitpunkt der Änderung der Gefahrenstufe in einem ausländischen Hafen, ist dies durch den Beauftragten zur Gefahrenabwehr im Unternehmen unverzüglich der Zentralen Kontaktstelle mitzuteilen.
 
-
-## § 11 – Schulungen und Übungen
+# § 11 – Schulungen und Übungen
 
 (1) Schulungen sind gemäß Teil A Abschnitt 13.4 in Verbindung mit Teil B Abschnitt 13.6 des ISPS-Codes vom Beauftragten zur Gefahrenabwehr auf dem Schiff verantwortlich durchzuführen.
 
@@ -258,8 +244,7 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (5) Die nachgewiesene Teilnahme eines Unternehmens an einer Übung eines anderen Flaggenstaates wird als gleichwertig anerkannt.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -285,12 +270,10 @@ Die Genehmigung des Zusatzes zum Gefahrenabwehrplan ist zu widerrufen, wenn das 
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung der Ordnungswidrigkeiten nach Absatz 1 wird auf das Bundesamt für Seeschifffahrt und Hydrographie übertragen.
 
-
-## § 13 – ISO-Normen
+# § 13 – ISO-Normen
 
 ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## § 14 – Übergangsvorschrift zu § 7 Absatz 2a
+# § 14 – Übergangsvorschrift zu § 7 Absatz 2a
 
 Anträge nach § 7 Absatz 2a auf Genehmigung des Zusatzes zu dem Plan zur Gefahrenabwehr auf dem Schiff nach § 7 Absatz 1b in der ab dem 1. Dezember 2013 geltenden Fassung können bereits vor dem 1. Dezember 2013 bearbeitet werden. Genehmigungen werden frühestens mit Wirkung zum 1. Dezember 2013 erteilt.

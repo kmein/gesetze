@@ -1,12 +1,7 @@
-# [KSG] Bundes-Klimaschutzgesetz  (KSG)
-
-Ausfertigungsdatum: 12.12.2019
-
+% Bundes-Klimaschutzgesetz  (KSG)
+% Ausfertigungsdatum: 12.12.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -26,13 +21,13 @@ Ausfertigungsdatum: 12.12.2019
 
  
 
+ 
 
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es, zum Schutz vor den Auswirkungen des weltweiten Klimawandels die Erfüllung der nationalen Klimaschutzziele sowie die Einhaltung der europäischen Zielvorgaben zu gewährleisten. Die ökologischen, sozialen und ökonomischen Folgen werden berücksichtigt. Grundlage bildet die Verpflichtung nach dem Übereinkommen von Paris aufgrund der Klimarahmenkonvention der Vereinten Nationen, wonach der Anstieg der globalen Durchschnittstemperatur auf deutlich unter 2 Grad Celsius und möglichst auf 1,5 Grad Celsius gegenüber dem vorindustriellen Niveau zu begrenzen ist, um die Auswirkungen des weltweiten Klimawandels so gering wie möglich zu halten, sowie das Bekenntnis der Bundesrepublik Deutschland auf dem Klimagipfel der Vereinten Nationen am 23. September 2019 in New York, Treibhausgasneutralität bis 2050 als langfristiges Ziel zu verfolgen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetz ist oder sind:
 
@@ -54,8 +49,7 @@ Im Sinne dieses Gesetz ist oder sind:
 
 9. Netto-Treibhausgasneutralität: das Gleichgewicht zwischen den anthropogenen Emissionen von Treibhausgasen aus Quellen und dem Abbau solcher Gase durch Senken.
 
-
-## § 3 – Nationale Klimaschutzziele
+# § 3 – Nationale Klimaschutzziele
 
 (1) Die Treibhausgasemissionen werden im Vergleich zum Jahr 1990 schrittweise gemindert. Bis zum Zieljahr 2030 gilt eine Minderungsquote von mindestens 55 Prozent.
 
@@ -63,8 +57,7 @@ Im Sinne dieses Gesetz ist oder sind:
 
 (3) Sollten zur Erfüllung europäischer oder internationaler Klimaschutzziele höhere nationale Klimaschutzziele erforderlich werden, so leitet die Bundesregierung die zur Erhöhung der Zielwerte nach Absatz 1 notwendigen Schritte ein. Klimaschutzziele können erhöht, aber nicht abgesenkt werden.
 
-
-## § 4 – Zulässige Jahresemissionsmengen, Verordnungsermächtigung
+# § 4 – Zulässige Jahresemissionsmengen, Verordnungsermächtigung
 
 (1) Zur Erreichung der nationalen Klimaschutzziele nach § 3 Absatz 1 werden jährliche Minderungsziele durch die Vorgabe von Jahresemissionsmengen für die folgenden Sektoren festgelegt:
 
@@ -92,8 +85,7 @@ Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich au
 
 (6) Im Jahr 2025 legt die Bundesregierung für weitere Zeiträume nach dem Jahr 2030 jährlich absinkende Emissionsmengen durch Rechtsverordnung fest. Diese müssen im Einklang mit der Erreichung der Klimaschutzziele dieses Gesetzes und mit den unionsrechtlichen Anforderungen stehen. Wenn jährlich absinkende Emissionsmengen für Zeiträume nach dem Jahr 2030 festgelegt werden, bedarf die Rechtsverordnung der Zustimmung des Deutschen Bundestages. Hat sich der Deutsche Bundestag nach Ablauf von sechs Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, gilt seine Zustimmung zu der unveränderten Rechtsverordnung als erteilt.
 
-
-## § 5 – Emissionsdaten, Verordnungsermächtigung
+# § 5 – Emissionsdaten, Verordnungsermächtigung
 
 (1) Das Umweltbundesamt erstellt die Daten der Treibhausgasemissionen in den Sektoren nach Anlage 1 (Emissionsdaten) für das zurückliegende Kalenderjahr (Berichtsjahr), beginnend mit dem Berichtsjahr 2020 auf der Grundlage der methodischen Vorgaben der Europäischen Klimaberichterstattungsverordnung oder auf der Grundlage einer nach Artikel 26 der Europäischen Governance-Verordnung erlassenen Nachfolgeregelung. Das Umweltbundesamt veröffentlicht und übersendet bis zum 15. März eines jeden Jahres die Emissionsdaten des Berichtsjahres an den Expertenrat für Klimafragen nach § 10.
 
@@ -119,15 +111,13 @@ Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich au
 
 4. das Verfahren für die Ermittlung und die Mitteilung der Daten regeln.
 
-
-## § 6 – Bußgeldvorschriften
+# § 6 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach § 5 Absatz 4 oder einer vollziehbaren Anordnung aufgrund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 7 – Durchführungsvorschriften zur Europäischen Klimaschutzverordnung
+# § 7 – Durchführungsvorschriften zur Europäischen Klimaschutzverordnung
 
 (1) Der Ankauf von Emissionszuweisungen zur Erfüllung der Pflichten nach der Europäischen Klimaschutzverordnung wird zentral durch das für die Durchführung der Europäischen Klimaschutzverordnung zuständige Bundesministerium nach Maßgabe der im Bundeshaushalt zur Verfügung stehenden Mittel durchgeführt. Beim Ankauf von Emissionszuweisungen hat das Bundesministerium nach Satz 1 darauf zu achten, dass der Verkäuferstaat zusichert, die erzielten Einnahmen für die Bekämpfung des Klimawandels zu verwenden.
 
@@ -141,8 +131,7 @@ Die Emissionsquellen der einzelnen Sektoren und deren Abgrenzung ergeben sich au
 
 Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den Erwerb beizufügen.
 
-
-## § 8 – Sofortprogramm bei Überschreitung der Jahresemissionsmengen
+# § 8 – Sofortprogramm bei Überschreitung der Jahresemissionsmengen
 
 (1) Weisen die Emissionsdaten nach § 5 Absatz 1 und 2 eine Überschreitung der zulässigen Jahresemissionsmenge für einen Sektor in einem Berichtsjahr aus, so legt das nach § 4 Absatz 4 zuständige Bundesministerium der Bundesregierung innerhalb von drei Monaten nach der Vorlage der Bewertung der Emissionsdaten durch den Expertenrat für Klimafragen nach § 11 Absatz 1 ein Sofortprogramm für den jeweiligen Sektor vor, das die Einhaltung der Jahresemissionsmengen des Sektors für die folgenden Jahre sicherstellt.
 
@@ -152,8 +141,7 @@ Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den E
 
 (4) Für den Sektor Energiewirtschaft sind die Absätze 1 bis 3 beginnend mit dem Berichtsjahr 2023 im Turnus von drei Jahren entsprechend anzuwenden.
 
-
-## § 9 – Klimaschutzprogramme
+# § 9 – Klimaschutzprogramme
 
 (1) Die Bundesregierung beschließt mindestens nach jeder Fortschreibung des Klimaschutzplans ein Klimaschutzprogramm; darüber hinaus wird bei Zielverfehlungen eine Aktualisierung des bestehenden Klimaschutzprogramms um Maßnahmen nach § 8 Absatz 2 vorgenommen. In jedem Klimaschutzprogramm legt die Bundesregierung unter Berücksichtigung des jeweils aktuellen Klimaschutz-Projektionsberichts nach § 10 Absatz 2 fest, welche Maßnahmen sie zur Erreichung der nationalen Klimaschutzziele in den einzelnen Sektoren ergreifen wird. Maßgeblich für die Maßnahmen nach Satz 2 ist die Einhaltung der nach § 4 in Verbindung mit Anlage 2 festgelegten zulässigen Jahresemissionsmengen. Zudem legt die Bundesregierung fest, welche Maßnahmen sie zum Erhalt der Netto-Senke bei Landnutzung, Landnutzungsänderung und Forstwirtschaft ergreifen wird.
 
@@ -161,8 +149,7 @@ Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den E
 
 (3) Für jedes Klimaschutzprogramm bezieht die Bundesregierung in einem öffentlichen Konsultationsverfahren Länder, Kommunen, Wirtschaftsverbände und zivilgesellschaftliche Verbände sowie die Wissenschaftsplattform Klimaschutz und wissenschaftliche Begleitgremien der Bundesregierung ein.
 
-
-## § 10 – Berichterstattung
+# § 10 – Berichterstattung
 
 (1) Die Bundesregierung erstellt jährlich einen Klimaschutzbericht, der die Entwicklung der Treibhausgasemissionen in den verschiedenen Sektoren, den Stand der Umsetzung der Klimaschutzprogramme nach § 9 und der Sofortprogramme nach § 8 sowie eine Prognose der zu erwartenden Treibhausgasminderungswirkungen enthält. Die Bundesregierung leitet den Klimaschutzbericht für das jeweilige Vorjahr bis zum 30. Juni dem Deutschen Bundestag zu.
 
@@ -170,8 +157,7 @@ Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den E
 
 (3) Der Klimaschutz-Projektionsbericht ist maßgeblich für die integrierten nationalen Fortschrittsberichte gemäß Artikel 17 der Europäischen Governance-Verordnung, die das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erstellt.
 
-
-## § 11 – Unabhängiger Expertenrat für Klimafragen, Verordnungsermächtigung
+# § 11 – Unabhängiger Expertenrat für Klimafragen, Verordnungsermächtigung
 
 (1) Es wird ein Expertenrat für Klimafragen aus fünf sachverständigen Personen verschiedener Disziplinen eingerichtet. Die Bundesregierung benennt für die Dauer von fünf Jahren die Mitglieder, davon jeweils mindestens ein Mitglied mit hervorragenden wissenschaftlichen Kenntnissen und Erfahrungen aus einem der Bereiche Klimawissenschaften, Wirtschaftswissenschaften, Umweltwissenschaften sowie soziale Fragen. Der Expertenrat soll als Ganzes auch übergreifende Expertise zu den Sektoren nach § 4 Absatz 1 abbilden. Die gleichberechtigte Vertretung von Frauen und Männern ist sicherzustellen. Eine einmalige Wiederernennung ist möglich.
 
@@ -183,8 +169,7 @@ Darüber hinaus ist eine Übersicht der aufgewendeten Haushaltsmittel für den E
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Regelungen zum Sitz, zur Geschäftsstelle, zur pauschalen Entschädigung der Mitglieder, zur Reisekostenerstattung, zur Verschwiegenheit sowie zu sonstigen organisatorischen Angelegenheiten zu bestimmen.
 
-
-## § 12 – Aufgaben des Expertenrats für Klimafragen
+# § 12 – Aufgaben des Expertenrats für Klimafragen
 
 (1) Der Expertenrat für Klimafragen prüft die Emissionsdaten nach § 5 Absatz 1 und 2 und legt der Bundesregierung und dem Deutschen Bundestag innerhalb von einem Monat nach Übersendung durch das Umweltbundesamt eine Bewertung der veröffentlichten Daten vor.
 
@@ -202,8 +187,7 @@ Darüber hinaus können der Deutsche Bundestag oder die Bundesregierung durch Be
 
 (4) Alle öffentlichen Stellen des Bundes im Sinne des § 2 Absatz 1 des Bundesdatenschutzgesetzes gewähren dem Expertenrat für Klimafragen Einsicht in die zur Wahrnehmung seiner Aufgaben benötigten Daten und stellen diese zur Verfügung. Die Bundesregierung stellt sicher, dass der Schutz von Betriebs- und Geschäftsgeheimnissen Dritter sowie personenbezogener Daten gewährleistet ist. Der Expertenrat für Klimafragen kann zu klimaschutzbezogenen Themen Behörden, sowie Sachverständige, insbesondere Vertreter und Vertreterinnen von Organisationen der Wirtschaft und der Umweltverbände, anhören und befragen.
 
-
-## § 13 – Berücksichtigungsgebot
+# § 13 – Berücksichtigungsgebot
 
 (1) Die Träger öffentlicher Aufgaben haben bei ihren Planungen und Entscheidungen den Zweck dieses Gesetzes und die zu seiner Erfüllung festgelegten Ziele zu berücksichtigen. Die Kompetenzen der Länder, Gemeinden und Gemeindeverbände, das Berücksichtigungsgebot innerhalb ihrer jeweiligen Verantwortungsbereiche auszugestalten, bleiben unberührt.
 
@@ -211,15 +195,13 @@ Darüber hinaus können der Deutsche Bundestag oder die Bundesregierung durch Be
 
 (3) Bei der Anwendung von Wirtschaftlichkeitskriterien sind bei vergleichenden Betrachtungen die Kosten und Einsparungen über die jeweilige gesamte Nutzungsdauer der Investition oder Beschaffung zugrunde zu legen. Die zu erwartenden volkswirtschaftlichen Kosten für den Klimaschutz sind auf geeignete Weise zu berücksichtigen.
 
-
-## § 14 – Bund-Länder-Zusammenarbeit
+# § 14 – Bund-Länder-Zusammenarbeit
 
 (1) Unbeschadet der Vereinbarkeit mit Bundesrecht können die Länder eigene Klimaschutzgesetze erlassen. Die bestehenden Klimaschutzgesetze der Länder gelten unbeschadet der Vereinbarkeit mit Bundesrecht fort.
 
 (2) Der Bund und die Länder arbeiten in geeigneter Form zusammen, um die Ziele dieses Gesetzes zu erreichen.
 
-
-## § 15 – Klimaneutrale Bundesverwaltung
+# § 15 – Klimaneutrale Bundesverwaltung
 
 (1) Der Bund setzt sich zum Ziel, die Bundesverwaltung bis zum Jahr 2030 klimaneutral zu organisieren. Zur Verwirklichung dieses Zieles verabschiedet die Bundesregierung spätestens im Jahr 2023 und im Folgenden alle fünf Jahre Maßnahmen, die von den Behörden des Bundes und von sonstigen Bundeseinrichtungen ohne eigene Rechtspersönlichkeit, wenn sie der unmittelbaren Organisationsgewalt des Bundes unterliegen, einzuhalten sind. Sind zur Verwirklichung des in Satz 1 genannten Zieles gesetzliche Regelungen erforderlich, legt die Bundesregierung dem Deutschen Bundestag innerhalb von sechs Monaten nach dem Beschluss der Maßnahmen einen Entwurf vor.
 
@@ -229,13 +211,11 @@ Darüber hinaus können der Deutsche Bundestag oder die Bundesregierung durch Be
 
 (4) Die Bundesregierung führt mit den Ländern einen Erfahrungsaustausch durch, um die Länder bei der Prüfung und im Falle der Erstellung von Regelungen, die mit den Regelungen nach den Absätzen 1 bis 3 vergleichbar sind, für ihren Verantwortungsbereich zu unterstützen.
 
-
-## Anlage 1 – (zu den §§ 4 und 5)Sektoren
+# Anlage 1 – (zu den §§ 4 und 5)Sektoren
 
 (Fundstelle: BGBl. I 2019, 2519)
 
-Die Abgrenzung der Sektoren erfolgt entsprechend der Quellkategorien des gemeinsamen Berichtsformats (Common Reporting Format – CRF) nach der Europäischen Klimaberichterstattungsverordnung oder entsprechend einer auf der Grundlage von Artikel 26 Absatz 7 der Europäischen Governance-Verordnung erlassenen Nachfolgeregelung.  
-  
+Die Abgrenzung der Sektoren erfolgt entsprechend der Quellkategorien des gemeinsamen Berichtsformats (Common Reporting Format – CRF) nach der Europäischen Klimaberichterstattungsverordnung oder entsprechend einer auf der Grundlage von Artikel 26 Absatz 7 der Europäischen Governance-Verordnung erlassenen Nachfolgeregelung.   
 
 Sektoren
 
@@ -339,7 +319,6 @@ Wald, Acker, Grünland, Feuchtgebiete, Siedlungen; Holzprodukte; Änderungen zwi
 
 4
 
-
-## Anlage 2 – (zu § 4)Zulässige Jahresemissionsmengen
+# Anlage 2 – (zu § 4)Zulässige Jahresemissionsmengen
 
 (Fundstelle: BGBl. I 2019, 2520)

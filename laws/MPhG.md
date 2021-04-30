@@ -1,15 +1,11 @@
-# [MPhG] Gesetz über die Berufe in der Physiotherapie  (Masseur- und Physiotherapeutengesetz - MPhG)
-
-Ausfertigungsdatum: 26.05.1994
-
+% Gesetz über die Berufe in der Physiotherapie  (Masseur- und Physiotherapeutengesetz - MPhG)
+% Ausfertigungsdatum: 26.05.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) Wer eine der Berufsbezeichnungen
 
@@ -21,8 +17,7 @@ führen will, bedarf der Erlaubnis.
 
 (2) Masseurinnen und medizinische Bademeisterinnen und Masseure und medizinische Bademeister sowie Physiotherapeutinnen und Physiotherapeuten, die Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes sind, führen eine der Berufsbezeichnungen nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
-## § 2
+# § 2
 
 (1) Die Erlaubnis nach § 1 ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -72,8 +67,7 @@ Fächer oder Bereiche der praktischen Ausbildung oder die praktische Tätigkeit 
 
 (8) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a
+# § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Masseurs und medizinischen Bademeisters oder der Beruf des Physiotherapeuten ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte der zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des Masseurs und medizinischen Bademeisters oder des Berufs des Physiotherapeuten auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind. Die Länder können zur Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 gemeinsame Stellen bestimmen.
 
@@ -81,8 +75,7 @@ Fächer oder Bereiche der praktischen Ausbildung oder die praktische Tätigkeit 
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Abs. 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 2b
+# § 2b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -114,13 +107,11 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 3
+# § 3
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs insbesondere dazu befähigen, durch Anwenden geeigneter Verfahren der physikalischen Therapie in Prävention, kurativer Medizin, Rehabilitation und im Kurwesen Hilfen zur Heilung und Linderung, zur Wiederherstellung oder Verbesserung der Arbeits- und Erwerbsfähigkeit, zu gesundheitsförderndem Verhalten und zum Kurerfolg zu geben (Ausbildungsziel).
 
-
-## § 4
+# § 4
 
 (1) Die Ausbildung besteht aus einem Lehrgang, der theoretischen und praktischen Unterricht und eine praktische Ausbildung umfaßt, sowie aus einer praktischen Tätigkeit.
 
@@ -128,8 +119,7 @@ Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs insbesondere da
 
 (3) Die praktische Tätigkeit dauert sechs Monate und richtet sich nach § 7.
 
-
-## § 5
+# § 5
 
 Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
@@ -137,8 +127,7 @@ Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
 2. der Hauptschulabschluß oder eine gleichwertige Schulbildung oder eine abgeschlossene Berufsausbildung von mindestens einjähriger Dauer.
 
-
-## § 6
+# § 6
 
 (1) Auf die Dauer des Lehrgangs werden angerechnet
 
@@ -150,8 +139,7 @@ Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden
 
 (2) Auf Antrag kann eine andere Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer des Lehrgangs angerechnet werden, wenn die Durchführung des Lehrgangs und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
 
-
-## § 7
+# § 7
 
 (1) Die praktische Tätigkeit ist nach bestandener staatlicher Prüfung in zur Annahme von Praktikanten ermächtigten Krankenhäusern oder anderen geeigneten medizinischen Einrichtungen unter Aufsicht eines Masseurs und medizinischen Bademeisters und, soweit ein solcher nicht zur Verfügung steht, eines Krankengymnasten oder Physiotherapeuten abzuleisten.
 
@@ -169,13 +157,11 @@ verfügen.
 
 (4) Auf Antrag kann eine außerhalb des Geltungsbereichs dieses Gesetzes abgeleistete praktische Tätigkeit in der Massage im Umfang ihrer Gleichwertigkeit ganz oder teilweise auf die praktische Tätigkeit nach Absatz 1 angerechnet werden.
 
-
-## § 8
+# § 8
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs insbesondere dazu befähigen, durch Anwenden geeigneter Verfahren der Physiotherapie in Prävention, kurativer Medizin, Rehabilitation und im Kurwesen Hilfen zur Entwicklung, zum Erhalt oder zur Wiederherstellung aller Funktionen im somatischen und psychischen Bereich zu geben und bei nicht rückbildungsfähigen Körperbehinderungen Ersatzfunktionen zu schulen (Ausbildungsziel).
 
-
-## § 9
+# § 9
 
 (1) Die Ausbildung dauert drei Jahre und besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung. Sie wird durch staatlich anerkannte Schulen vermittelt und schließt mit der staatlichen Prüfung ab. Schulen, die nicht an einem Krankenhaus eingerichtet sind, haben die praktische Ausbildung im Rahmen einer Regelung mit Krankenhäusern oder anderen geeigneten medizinischen Einrichtungen sicherzustellen.
 
@@ -185,8 +171,7 @@ Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs insbesondere da
 
 (4) Das Bundesministerium für Gesundheit erstattet dem Deutschen Bundestag über die Ergebnisse der Modellvorhaben nach Absatz 2 Bericht. Absatz 3 Satz 3 bis 5 gilt entsprechend. Die Länder übermitteln dem Bundesministerium für Gesundheit auf Anforderung die für die Erstellung des Berichts erforderlichen Ergebnisse ihrer Auswertungen nach Absatz 3.
 
-
-## § 10
+# § 10
 
 Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
 
@@ -194,8 +179,7 @@ Voraussetzung für den Zugang zur Ausbildung nach § 9 ist
 
 2. der Realschulabschluß oder eine gleichwertige Ausbildung oder eine andere abgeschlossene zehnjährige Schulbildung, die den Hauptschulabschluß erweitert, oder eine nach Hauptschulabschluß oder einem gleichwertigen Abschluß abgeschlossene Berufsausbildung von mindestens zweijähriger Dauer.
 
-
-## § 11
+# § 11
 
 Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
@@ -205,8 +189,7 @@ Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
 § 6 Abs. 1 Satz 2 gilt entsprechend.
 
-
-## § 12
+# § 12
 
 (1) Bei Personen, die die staatliche Prüfung nach § 4 Abs. 2 bestanden haben, wird auf Antrag die Ausbildung nach § 9 Satz 1 auf 18 Monate oder bei Ausbildung in Teilzeitform auf 2.100 Stunden verkürzt. Satz 1 gilt für Personen, die die in § 1 Nr. 1 genannte Berufsbezeichnung führen dürfen, entsprechend. Bei Personen nach Satz 2 mit einer mindestens fünfjährigen Tätigkeit in diesem Beruf wird auf Antrag der Lehrgang nach § 9 Satz 1 auf zwölf Monate oder bei Ausbildung in Teilzeitform auf 1.400 Stunden verkürzt. Auf den verkürzten Lehrgang nach Satz 3 können auf Antrag Fort- oder Weiterbildungen im Umfang ihrer Gleichwertigkeit um höchstens drei Monate oder 350 Stunden angerechnet werden, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden. Bei einer verkürzten Ausbildung nach den Sätzen 1 bis 4 kann der theoretische Unterricht auch in Form von Fernunterricht erteilt werden. Die verkürzte Ausbildung schließt mit einer staatlichen Ergänzungsprüfung ab. Diese erstreckt sich auf die in dem Lehrgang vermittelten Kenntnisse und Fertigkeiten. Das Nähere regelt die Ausbildungs- und Prüfungsverordnung nach § 13 Abs. 2. Diese soll die Möglichkeit eröffnen, die Prüfung in Teilabschnitten abzulegen, beginnend mit der Prüfung der im Unterricht erworbenen Kenntnisse.
 
@@ -218,8 +201,7 @@ Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
 (3) Auf Antrag kann eine andere Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer einer Ausbildung nach § 9 angerechnet werden, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
 
-
-## § 13
+# § 13
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung nach Maßgabe des § 3 die Mindestanforderungen an den Lehrgang nach § 4 Abs. 1, das Nähere über die staatliche Prüfung für Masseure und medizinische Bademeister, über die praktische Tätigkeit nach § 7 sowie über die Urkunden für die Erlaubnis nach § 1 Nr. 1 zu regeln.
 
@@ -241,8 +223,7 @@ Auf die Dauer einer Ausbildung nach § 9 werden angerechnet
 
 (4) Abweichungen von den in den Absätzen 1 bis 3 sowie der auf dieser Grundlage erlassenen Rechtsverordnungen enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 13a
+# § 13a
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Masseurs und medizinischen Bademeisters oder des Physiotherapeuten in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 oder Abs. 4 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -274,18 +255,15 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
-## § 13b
+# § 13b
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden berechtigt, für jede Dienstleistungserbringung von den zuständigen Behörden des Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf Anforderung der zuständigen Behörden eines Vertragsstaates des Europäischen Wirtschaftsraumes haben die zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung und die gute Führung des Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
 
-
-## § 13c
+# § 13c
 
 Masseurinnen und medizinische Bademeisterinnen oder Masseure und medizinische Bademeister oder Physiotherapeutinnen oder Physiotherapeuten im Sinne des § 13a haben beim Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
-## § 14
+# § 14
 
 (1) Die Entscheidungen nach § 2 Abs. 1 und § 7 Abs. 4 trifft die zuständige Behörde des Landes, in dem der Antragsteller die staatliche Prüfung bestanden hat.
 
@@ -293,8 +271,7 @@ Masseurinnen und medizinische Bademeisterinnen oder Masseure und medizinische Ba
 
 (3) Die Meldung nach § 13a Abs. 2 und 3 nimmt die zuständige Behörde des Landes entgegen, in dem die Dienstleistung erbracht werden soll oder erbracht worden ist. Sie fordert die Informationen nach § 13b Satz 1 an. Die Informationen nach § 13b Satz 2 werden durch die zuständige Behörde des Landes übermittelt, in dem der Beruf des Masseurs und medizinischen Bademeisters oder des Physiotherapeuten ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung des Herkunftsmitgliedstaats gemäß § 13c erfolgt durch die zuständige Behörde des Landes, in dem die Dienstleistung erbracht wird oder erbracht worden ist. Die Bescheinigungen nach § 13a Abs. 4 stellt die zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf des Masseurs und medizinischen Bademeisters oder des Physiotherapeuten ausübt.
 
-
-## § 15
+# § 15
 
 (1) Ordnungswidrig handelt, wer
 
@@ -310,8 +287,7 @@ führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 16
+# § 16
 
 (1) Eine vor Inkrafttreten dieses Gesetzes erteilte Erlaubnis als "Masseurin und medizinische Bademeisterin" oder als "Masseur und medizinischer Bademeister" oder eine einer solchen Erlaubnis durch das Gesetz über die Ausübung der Berufe des Masseurs, des Masseurs und medizinischen Bademeisters und des Krankengymnasten in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2124-7, veröffentlichten bereinigten Fassung, zuletzt geändert gemäß Artikel 14 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278), gleichgestellte Erlaubnis gilt als Erlaubnis nach § 1 Nr. 1. Eine vor Inkrafttreten dieses Gesetzes erteilte Erlaubnis als "Krankengymnastin" oder als "Krankengymnast" oder eine einer solchen Erlaubnis durch das in Satz 1 genannte Gesetz gleichgestellte Erlaubnis gilt als Erlaubnis nach § 1 Nr. 2.
 
@@ -325,8 +301,7 @@ führt.
 
 (6) (Änderungsvorschrift)
 
-
-## § 17
+# § 17
 
 (1) Findet die Ausbildung als Physiotherapeut (§ 9) an einer Schule statt, die nicht an einem Krankenhaus eingerichtet ist, kann abweichend von § 9 Satz 1 und 3 die praktische Ausbildung bis zur Dauer von zwölf Monaten auch als praktische Tätigkeit außerhalb des Lehrgangs an einem zur Annahme von Praktikanten ermächtigten Krankenhaus unter Aufsicht eines Krankengymnasten oder eines Physiotherapeuten und unter ärztlicher Verantwortung durchgeführt werden. Abweichend von Satz 1 kann die praktische Tätigkeit bis zur Dauer von vier Monaten auch an einer zur Annahme von Praktikanten ermächtigten Einrichtung, in der Patienten physiotherapeutisch behandelt oder rehabilitiert werden, unter Aufsicht eines Krankengymnasten oder eines Physiotherapeuten abgeleistet werden. § 7 Abs. 2 gilt entsprechend.
 
@@ -334,12 +309,10 @@ führt.
 
 (3) Schulen, die vor Inkrafttreten dieses Gesetzes aufgrund des in § 16 Abs. 1 Satz 1 genannten Gesetzes die staatliche Anerkennung erhalten haben, gelten weiterhin als staatlich anerkannt nach § 4 Abs. 2 oder § 9, sofern die Anerkennung nicht zurückgenommen wird.
 
-
-## § 18
+# § 18
 
 Für Umschüler mit einer abgeschlossenen Ausbildung in einem medizinischen Fachberuf kann auf Antrag der Lehrgang nach § 4 Abs. 2 Satz 2 um sechs Monate verkürzt werden, wenn mindestens die Voraussetzung des § 5 Nr. 1 erfüllt ist und die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden. Für Umschüler mit einer abgeschlossenen Ausbildung in einem medizinischen Fachberuf kann auf Antrag die Ausbildung nach § 9 Satz 1 um sechs Monate, nach mindestens dreijähriger Tätigkeit im erlernten Beruf um weitere sechs Monate verkürzt werden, wenn mindestens die Voraussetzung des § 10 Nr. 1 erfüllt ist und die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden. Die Sätze 1 und 2 gelten nur für Umschulungen, die bis zum 31. Dezember 2000 begonnen werden. § 6 Abs. 2 und § 12 Abs. 3 bleiben unberührt.
 
-
-## § 19
+# § 19
 
 § 9 Absatz 2 bis 4 tritt am 31. Dezember 2021 außer Kraft. Ausbildungen nach § 9 Absatz 2, die vor dem 31. Dezember 2021 begonnen worden sind, werden nach dieser Bestimmung abgeschlossen.

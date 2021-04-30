@@ -1,15 +1,11 @@
-# [SchKfmAusbV 2004] Verordnung über die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
-
-Ausfertigungsdatum: 22.07.2004
-
+% Verordnung über die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+% Ausfertigungsdatum: 22.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf Schifffahrtskaufmann/Schifffahrtskauffrau wird staatlich anerkannt.
 
@@ -21,18 +17,15 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 
 gewählt werden.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8, 9 und 10 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -114,23 +107,19 @@ Befrachtung,
 2.3  
 Projektlogistik.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -146,8 +135,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 Dabei soll in den Prüfungsgebieten 1 und 2 die Anwendung englischer Fachbegriffe berücksichtigt werden.
 
-
-## § 9 – Abschlussprüfung in der Fachrichtung Linienfahrt
+# § 9 – Abschlussprüfung in der Fachrichtung Linienfahrt
 
 (1) Die Abschlussprüfung in der Fachrichtung Linienfahrt erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nr. 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -203,8 +191,7 @@ In höchstens 30 Minuten soll der Prüfling auf der Grundlage eines Praxisbeispi
 
 (5) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in vier Prüfungsbereichen, darunter die Prüfungsbereiche Betrieb von Seeschiffen und Seeverkehrswirtschaft sowie Fallbezogenes Fachgespräch, mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Trampfahrt
+# § 10 – Abschlussprüfung in der Fachrichtung Trampfahrt
 
 (1) Die Abschlussprüfung in der Fachrichtung Trampfahrt erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nr. 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -258,18 +245,15 @@ In höchstens 30 Minuten soll der Prüfling auf der Grundlage eines Praxisbeispi
 
 (5) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in vier Prüfungsbereichen, darunter die Prüfungsbereiche Betrieb von Seeschiffen und Seeverkehrswirtschaft sowie Fallbezogenes Fachgespräch, mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 
 (Fundstelle: BGBl. I 2004, 1878 - 1882;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -669,8 +653,7 @@ a) an der Transportplanung für Projektladungen, insbesondere Anlagen und Schwer
 
 b) an der Entwicklung und Umsetzung multimodaler Transportkonzepte mitwirken
 
-
-## Anlage 2 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
+# Anlage 2 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Schifffahrtskaufmann/zur Schifffahrtskauffrau
 
 (Fundstelle: BGBl. I 2004, 1883 - 1886;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1015,8 +998,7 @@ II\.
 
 Ladungsbuchung und Abwicklung der Verladung, Lernziele a, c und g,
 
-fortzusetzen.  
-----------
+fortzusetzen. ----------
 
 1)
 
@@ -1036,8 +1018,7 @@ Fachrichtung Trampfahrt
 
 A.
 
-Die Fertigkeiten und Kenntnisse der Berufsbildpositionen 2.1 Arbeitsorganisation und Kooperation, 2.2 Informations- und Kommunikationssysteme sowie 3. Fachbezogenes Englisch sind während der gesamten Ausbildungszeit zu vermitteln.  
-Während des 2. Ausbildungsjahres werden die Grundlagen für die fachrichtungsbezogenen Qualifikationen gelegt.
+Die Fertigkeiten und Kenntnisse der Berufsbildpositionen 2.1 Arbeitsorganisation und Kooperation, 2.2 Informations- und Kommunikationssysteme sowie 3. Fachbezogenes Englisch sind während der gesamten Ausbildungszeit zu vermitteln. Während des 2. Ausbildungsjahres werden die Grundlagen für die fachrichtungsbezogenen Qualifikationen gelegt.
 
  
 
@@ -1335,8 +1316,7 @@ II\.
 
 Befrachtung
 
-fortzusetzen.  
-----------
+fortzusetzen. ----------
 
 1)
 

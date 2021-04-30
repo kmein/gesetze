@@ -1,22 +1,17 @@
-# [PflAV] Verordnung über die Pflichtablieferung von Medienwerken an die Deutsche Nationalbibliothek  (Pflichtablieferungsverordnung - PflAV)
-
-Ausfertigungsdatum: 17.10.2008
-
+% Verordnung über die Pflichtablieferung von Medienwerken an die Deutsche Nationalbibliothek  (Pflichtablieferungsverordnung - PflAV)
+% Ausfertigungsdatum: 17.10.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 des Gesetzes über die Deutsche Nationalbibliothek vom 22. Juni 2006 (BGBl. I S. 1338) in Verbindung mit dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet die Bundeskanzlerin:
 
-
-## § 1 – Einschränkung der Ablieferungspflicht
+# § 1 – Einschränkung der Ablieferungspflicht
 
 (1) Zur Erfüllung der Aufgaben der Deutschen Nationalbibliothek (Bibliothek) sind Medienwerke von den Ablieferungspflichtigen nach den Maßgaben der §§ 14 bis 16 des Gesetzes über die Deutsche Nationalbibliothek an die Bibliothek abzuliefern, soweit sich aus dieser Verordnung nichts anderes ergibt. Unbeschadet der §§ 3, 4, 8 und 9 kann die Bibliothek auf die Ablieferung verzichten, wenn an der Sammlung kein öffentliches Interesse besteht.
 
 (2) Ein Anspruch auf Aufnahme eines Medienwerkes in die Sammlung der Bibliothek besteht nicht.
 
-
-## § 2 – Beschaffenheit körperlicher Medienwerke und Umfang der Ablieferungspflicht
+# § 2 – Beschaffenheit körperlicher Medienwerke und Umfang der Ablieferungspflicht
 
 (1) Die Medienwerke sind in unbenutztem Zustand und in marktüblicher Ausführung abzuliefern.
 
@@ -32,15 +27,13 @@ Auf Grund des § 20 des Gesetzes über die Deutsche Nationalbibliothek vom 22. J
 
 3. alle Teile und Gegenstände, die erkennbar zu einem ablieferungspflichtigen Hauptwerk gehören, auch wenn sie für sich allein nicht der Ablieferungspflicht unterliegen. Dies gilt insbesondere für nicht marktübliche Hilfsmittel und Werkzeuge, die eine Benutzung des Medienwerkes oder die Herstellung einer archivfähigen Version erst ermöglichen und die bei den Ablieferungspflichtigen erschienen sind. Sie sind zusammen mit dem Hauptwerk abzuliefern.
 
-
-## § 3 – Einschränkung der Ablieferungspflicht für körperliche Medienwerke in verschiedenen Ausgaben
+# § 3 – Einschränkung der Ablieferungspflicht für körperliche Medienwerke in verschiedenen Ausgaben
 
 (1) Von inhaltlich oder bibliografisch unveränderten Neuauflagen einschließlich höherer Tausender sind keine Ausfertigungen abzuliefern, wenn Ausfertigungen der ursprünglichen Ausgabe abgeliefert worden sind.
 
 (2) Erscheinen Medienwerke gleichzeitig oder nacheinander in mehreren Ausgaben auf verschiedenen Trägermaterialien oder in unterschiedlichen technischen Ausführungen, so kann die Bibliothek auf die Ablieferung einzelner Ausgaben verzichten.
 
-
-## § 4 – Einschränkung der Ablieferungspflicht für bestimmte Gattungen von körperlichen Medienwerken
+# § 4 – Einschränkung der Ablieferungspflicht für bestimmte Gattungen von körperlichen Medienwerken
 
 Nicht abzuliefern sind
 
@@ -74,15 +67,13 @@ Nicht abzuliefern sind
 
 15. Zeitungen, wenn diese nach Maßgabe der Bibliothek in einer zur Archivierung und Bereitstellung geeigneten unkörperlichen Form abgeliefert wurden.
 
-
-## § 5 – Ablieferungsverfahren für körperliche Medienwerke
+# § 5 – Ablieferungsverfahren für körperliche Medienwerke
 
 (1) Die Ablieferungspflichtigen haben die Medienwerke einschließlich der in § 2 Abs. 4 bezeichneten Teile und Gegenstände unaufgefordert an die Bibliothek abzuliefern. Dies gilt auch für die einzelnen Hefte und Lieferungen von fortlaufend erscheinenden Medienwerken. Unbeschadet des § 4 Nummer 15 sind Tageszeitungen nur auf Anforderung abzuliefern.
 
 (2) Soweit die Benutzung und die dauerhafte Sicherung von Medienwerken auf elektronischen Datenträgern weitere Informationen erfordern, die nicht unmittelbar den Ausfertigungen selbst zu entnehmen sind, insbesondere Angaben über besondere technische Installationsanforderungen, sind diese Informationen von den Ablieferungspflichtigen in einem von der Bibliothek festzulegenden Verfahren zugänglich zu machen.
 
-
-## § 6 – Zuschuss für körperliche Medienwerke
+# § 6 – Zuschuss für körperliche Medienwerke
 
 (1) Ein Zuschuss nach § 18 Satz 1 des Gesetzes über die Deutsche Nationalbibliothek wird gewährt, wenn die Gesamtauflage des Medienwerkes höchstens 300 Exemplare und die Herstellungskosten für die abzuliefernden Ausfertigungen mindestens je 80 Euro betragen. Bei Musikalien gilt Satz 1 mit der Maßgabe, dass die Gesamtauflage des Medienwerkes höchstens 50 Exemplare beträgt. Natürlichen Personen, die nicht gewerbsmäßig oder freiberuflich Medienwerke veröffentlichen, wird ein Zuschuss gewährt, wenn die Herstellungskosten für die abzuliefernden Ausfertigungen mindestens je 20 Euro betragen. Satz 3 gilt auch für Körperschaften, die ausschließlich und unmittelbar gemeinnützige, mildtätige oder kirchliche Zwecke im Sinne des § 51 der Abgabenordnung verfolgen; die Gemeinnützigkeit oder Mildtätigkeit der verfolgten Zwecke muss durch Anerkennungsbescheid des Finanzamtes belegt werden.
 
@@ -94,15 +85,13 @@ Nicht abzuliefern sind
 
 (5) Der Zuschussantrag ist innerhalb eines Monats nach Beginn der Verbreitung des Medienwerkes unter Verwendung des Formulars der Bibliothek bei der Bibliothek zu stellen. Auf Verlangen der Bibliothek sind die Angaben im Antrag nachzuweisen. Die Ablieferungspflicht bleibt unberührt.
 
-
-## § 7 – Beschaffenheit von Netzpublikationen und Umfang der Ablieferungspflicht
+# § 7 – Beschaffenheit von Netzpublikationen und Umfang der Ablieferungspflicht
 
 (1) Unkörperliche Medienwerke (Netzpublikationen) sind in marktüblicher Ausführung und in mit marktüblichen Hilfsmitteln benutzbarem Zustand abzuliefern. Eine Pflicht zur Ablieferung besteht nicht, wenn die Ablieferungspflichtigen im Rahmen des § 16 Satz 2 des Gesetzes über die Deutsche Nationalbibliothek mit der Bibliothek vereinbaren, die Netzpublikationen zur elektronischen Abholung bereitzustellen. Für die Ablieferung von Netzpublikationen gilt § 2 Abs. 3 entsprechend; für die Bereitstellung zur elektronischen Abholung gilt § 2 Abs. 3 Satz 1 entsprechend.
 
 (2) Die Ablieferungspflicht umfasst auch alle Elemente, Software und Werkzeuge, die in physischer oder in elektronischer Form erkennbar zu den ablieferungspflichtigen Netzpublikationen gehören, auch wenn sie für sich allein nicht der Ablieferungspflicht unterliegen. Dies gilt insbesondere für nicht marktübliche Hilfsmittel, die eine Bereitstellung und Benutzung der Netzpublikationen erst ermöglichen und bei den Ablieferungspflichtigen erschienen sind. Sie sind zusammen mit den Netzpublikationen abzuliefern oder zur elektronischen Abholung bereitzustellen.
 
-
-## § 8 – Einschränkung der Ablieferungspflicht für Netzpublikationen in verschiedenen Ausgaben und aufgrund technischer Verfahren
+# § 8 – Einschränkung der Ablieferungspflicht für Netzpublikationen in verschiedenen Ausgaben und aufgrund technischer Verfahren
 
 (1) Die Bibliothek kann auf die Ablieferung oder elektronische Abholung einzelner Ausgaben von Netzpublikationen verzichten, wenn diese gleichzeitig oder nacheinander in unterschiedlichen technischen Ausführungen erscheinen.
 
@@ -110,8 +99,7 @@ Nicht abzuliefern sind
 
 (3) Umfang und Häufigkeit der Ablieferung von regelmäßig aktualisierten Netzpublikationen können durch die Bibliothek eingeschränkt werden.
 
-
-## § 9 – Weitere Einschränkungen der Ablieferungspflicht für Netzpublikationen
+# § 9 – Weitere Einschränkungen der Ablieferungspflicht für Netzpublikationen
 
 Nicht abzuliefern sind
 
@@ -135,7 +123,6 @@ Nicht abzuliefern sind
 
 10. selbstständig veröffentlichte Primär-, Forschungs- und Rohdaten.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

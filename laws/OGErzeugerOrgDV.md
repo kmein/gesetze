@@ -1,10 +1,7 @@
-# [OGErzeugerOrgDV] Verordnung zur Durchführung der unionsrechtlichen Regelungen über Erzeugerorganisationen im Sektor Obst und Gemüse  (Obst-Gemüse-Erzeugerorganisationendurchführungsverordnung - OGErzeugerOrgDV)
-
-Ausfertigungsdatum: 25.09.2014
-
+% Verordnung zur Durchführung der unionsrechtlichen Regelungen über Erzeugerorganisationen im Sektor Obst und Gemüse  (Obst-Gemüse-Erzeugerorganisationendurchführungsverordnung - OGErzeugerOrgDV)
+% Ausfertigungsdatum: 25.09.2014
  
-
-## § 1 – Anwendungsbereich, Zuständigkeit
+# § 1 – Anwendungsbereich, Zuständigkeit
 
 (1) Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Union im Rahmen der gemeinsamen Marktorganisation für landwirtschaftliche Erzeugnisse für den Sektor Obst und Gemüse hinsichtlich der Erzeugerorganisationen, der Betriebsfonds und der operationellen Programme (Unionsrecht).
 
@@ -16,13 +13,11 @@ Ausfertigungsdatum: 25.09.2014
 
 Im Übrigen sind für die Durchführung des Unionsrechts und dieser Verordnung die nach Landesrecht zuständigen Stellen (Landesstellen) zuständig.
 
-
-## § 2 – Rechtsform
+# § 2 – Rechtsform
 
 Als Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen werden auf Antrag alle juristischen Personen des privaten Rechts sowie Personengesellschaften anerkannt, die die für die Anerkennung von Erzeugerorganisationen oder Vereinigungen von Erzeugerorganisationen im Sektor Obst und Gemüse erforderlichen unionsrechtlichen Anforderungen und die Anforderungen der nachstehenden Vorschriften erfüllen.
 
-
-## § 3 – Mindestgröße
+# § 3 – Mindestgröße
 
 (1) Für Erzeugerorganisationen werden
 
@@ -52,8 +47,7 @@ der Mindestwert der vermarktbaren Erzeugung auf 1 250 000 Euro festgesetzt.
 
 (5) Trifft ein Land Regelungen nach Absatz 4, so teilt es diese unverzüglich dem Bundesministerium für Ernährung und Landwirtschaft und den anderen Ländern mit.
 
-
-## § 4 – Mitgliedschaft von Nichterzeugern
+# § 4 – Mitgliedschaft von Nichterzeugern
 
 (1) Mitglied einer Erzeugerorganisation kann auch sein:
 
@@ -71,8 +65,7 @@ Durch die Mitgliedschaft der in Satz 1 genannten Personen darf das Erreichen der
 
 (3) Mitglied einer Vereinigung von Erzeugerorganisationen kann nur eine nach Unionsrecht anerkannte Erzeugerorganisation im Sektor Obst und Gemüse sein.
 
-
-## § 5 – Stimmrechte und Geschäftsanteile
+# § 5 – Stimmrechte und Geschäftsanteile
 
 (1) Die Satzung einer Erzeugerorganisation muss sicherstellen, dass
 
@@ -108,26 +101,21 @@ Die zuständige Stelle kann auf Antrag für juristische Personen und Personenges
 
 (+++ § 5: Zur Anwendung vgl. § 20 Abs. 1 Satz 1, Abs. 2 +++)
 
-
-## § 6 – Kündigung der Mitgliedschaft
+# § 6 – Kündigung der Mitgliedschaft
 
 Eine Erzeugerorganisation oder Vereinigung von Erzeugerorganisationen kann nur anerkannt werden, wenn durch ihre Satzung sichergestellt ist, dass die Frist für die Kündigung der Mitgliedschaft längstens sechs Monate zum Ende eines Geschäftsjahres beträgt.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – Auslagerung
+# § 8 – Auslagerung
 
 Erzeugerorganisationen oder Vereinigungen von Erzeugerorganisationen können die Steuerung der Erzeugung sowie die Anlieferung, Lagerung, Aufbereitung und Vermarktung der Erzeugnisse auslagern.
 
-
-## § 9 – Anwendung von Vorschriften der Agrarmarktstrukturverordnung
+# § 9 – Anwendung von Vorschriften der Agrarmarktstrukturverordnung
 
 Im Übrigen sind die §§ 6 und 7 der Agrarmarktstrukturverordnung vom 15. November 2013 (BGBl. I S. 3998) anzuwenden.
 
-
-## § 10 – Wert der vermarkteten Erzeugung
+# § 10 – Wert der vermarkteten Erzeugung
 
 (1) Für die Berechnung der jährlichen Obergrenze nach Artikel 34 Absatz 2 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom 9.2.2017, S. 41), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist, in der jeweils geltenden Fassung wird der in Artikel 23 Absatz 3 Satz 1 der Delegierten Verordnung (EU) 2017/891 genannte Wert verwendet. Verlässt ein Erzeuger eine nichtländerübergreifende Erzeugerorganisation und tritt einer länderübergreifenden Erzeugerorganisation bei, so wird seine Erzeugung ab dem 1. Januar des dritten auf seinen Austritt folgenden Kalenderjahres bei der aufnehmenden Erzeugerorganisation berücksichtigt. Die beteiligten Erzeugerorganisationen können eine von Satz 2 abweichende Vereinbarung treffen.
 
@@ -135,8 +123,7 @@ Im Übrigen sind die §§ 6 und 7 der Agrarmarktstrukturverordnung vom 15. Novem
 
 (3) Der Wert der vermarkteten Erzeugung ist jährlich von einer Einrichtung, die für die Prüfung von Jahresabschlüssen gesetzlich zugelassen ist, zu prüfen und zu bestätigen.
 
-
-## § 11 – Betriebsfonds
+# § 11 – Betriebsfonds
 
 (1) Der Betriebsfonds ist über eine Finanzbuchhaltung zu verwalten, die es ermöglicht, alle Ausgaben und Einnahmen im Rahmen des Betriebsfonds zu erkennen. Werden aus dem Betriebsfonds ein oder mehrere operationelle Programme oder Teilprogramme finanziert, müssen die jeweiligen finanziellen Beteiligungen für jedes operationelle Programm oder Teilprogramm getrennt ausgewiesen werden.
 
@@ -144,8 +131,7 @@ Im Übrigen sind die §§ 6 und 7 der Agrarmarktstrukturverordnung vom 15. Novem
 
 (3) Die Finanzbuchhaltung ist jährlich von einer Einrichtung, die für die Prüfung von Jahresabschlüssen gesetzlich zugelassen ist, zu prüfen und zu bestätigen. Die Bestätigung muss die Angabe enthalten, dass die Finanzbuchhaltung den Bestimmungen der Absätze 1 und 2 entspricht. Der schriftliche Bericht über die Prüfung und die Bestätigung der Prüfungseinrichtung ist der zuständigen Stelle unverzüglich nach Abschluss der Prüfung vorzulegen.
 
-
-## § 12 – Operationelle Programme
+# § 12 – Operationelle Programme
 
 (1) Die Gewährung von Ruhegehältern oder ruhegehaltsähnlichen Zahlungen darf nicht Gegenstand eines operationellen Programms sein.
 
@@ -163,8 +149,7 @@ Im Übrigen sind die §§ 6 und 7 der Agrarmarktstrukturverordnung vom 15. Novem
 
 (6) Die zuständige Stelle kann die Frist zur Vorlage der operationellen Programme und für Anträge auf Änderung der operationellen Programme bis zum 31. Oktober eines jeden Jahres verlängern.
 
-
-## § 13 – Beihilfe
+# § 13 – Beihilfe
 
 (1) Die finanzielle Unterstützung der Union (Beihilfe) wird auf Antrag gewährt.
 
@@ -172,8 +157,7 @@ Im Übrigen sind die §§ 6 und 7 der Agrarmarktstrukturverordnung vom 15. Novem
 
 (3) Zu dem in Absatz 2 bestimmten Zweck haben die Erzeugerorganisationen der zuständigen Stelle jährlich bis zum 15. Februar die Namen und Anschriften aller ihrer Mitglieder, die im jeweils vorangegangenen Beihilfejahr Mitglieder waren, und im Falle von Erzeugern zusätzlich deren Betriebsnummer nach der InVeKoS-Verordnung, mitzuteilen. Zu diesem Zweck haben Mitglieder von Erzeugerorganisationen, die Erzeuger sind, ihre in Satz 1 genannte Betriebsnummer der Erzeugerorganisation mitzuteilen.
 
-
-## § 14 – Vorschusszahlungen und Teilzahlungen
+# § 14 – Vorschusszahlungen und Teilzahlungen
 
 (1) Auf Antrag kann die zuständige Stelle einen Vorschuss oder Teilzahlungen gewähren.
 
@@ -183,8 +167,7 @@ Im Übrigen sind die §§ 6 und 7 der Agrarmarktstrukturverordnung vom 15. Novem
 
 (4) Ein Antrag auf Teilzahlung kann bis zum 31. Juli des betreffenden Durchführungsjahres des operationellen Programms gestellt werden. Die zuständige Stelle kann hiervon abweichend festlegen, dass der Antrag ausnahmsweise bis zum 31. Oktober des betreffenden Durchführungsjahres gestellt werden kann.
 
-
-## § 15 – Krisenprävention und Krisenmanagement
+# § 15 – Krisenprävention und Krisenmanagement
 
 Die folgenden Maßnahmen zur Krisenprävention und zum Krisenmanagement werden in Deutschland nicht angewandt:
 
@@ -198,20 +181,17 @@ Die folgenden Maßnahmen zur Krisenprävention und zum Krisenmanagement werden i
 
 5. Coaching.
 
-
-## § 16 – Berücksichtigungsfähigkeit von Rechnungen
+# § 16 – Berücksichtigungsfähigkeit von Rechnungen
 
 Rechnungen können auch auf den Namen eines oder mehrerer der angeschlossenen Erzeuger der jeweiligen Erzeugerorganisation ausgestellt sein.
 
-
-## § 17 – Duldungs- und Mitwirkungspflichten
+# § 17 – Duldungs- und Mitwirkungspflichten
 
 (1) Erzeugerorganisationen, ihre Mitglieder, Tochtergesellschaften von Erzeugerorganisationen und diejenigen, die von der Erzeugerorganisation ausgelagerte Tätigkeiten wahrnehmen, sind verpflichtet, zum Zwecke der Überwachung den zuständigen Stellen im Rahmen ihrer Zuständigkeit das Betreten der Geschäfts-, Betriebs- und Lagerräume sowie der Betriebsflächen während der Geschäfts- und Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke, Daten und sonstigen Unterlagen zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Bei automatischer Buchführung sind die in Satz 1 genannten Auskunftspflichtigen verpflichtet, auf ihre Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit die zuständige Stelle dies verlangt.
 
 (2) Soweit nach anderen Rechtsvorschriften keine längeren Aufbewahrungspflichten bestehen, sind die nach dieser Verordnung und den im Unionsrecht vorgeschriebenen Unterlagen, Aufzeichnungen, Belege oder Bücher für die Dauer von sieben Jahren nach Abschluss des jeweiligen operationellen Programms aufzubewahren.
 
-
-## § 18 – Mitteilungspflichten
+# § 18 – Mitteilungspflichten
 
 (1) Erzeugerorganisationen teilen alle nach Unionsrecht erforderlichen Angaben den zuständigen Stellen mit.
 
@@ -221,18 +201,15 @@ Rechnungen können auch auf den Namen eines oder mehrerer der angeschlossenen Er
 
 (4) Erzeugerorganisationen, die kein operationelles Programm vorgelegt haben, teilen der für ihre Anerkennung zuständigen Stelle bis zum 31. Januar eines jeden Jahres den Wert ihrer vermarkteten Erzeugung des Vorjahres mit.
 
-
-## § 18a – Regelwidrige Doppelfinanzierung
+# § 18a – Regelwidrige Doppelfinanzierung
 
 Zum Zwecke der in Artikel 34 Buchstabe c der Durchführungsverordnung (EU) 2017/892 der Kommission vom 13. März 2017 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates für die Sektoren Obst und Gemüse und Verarbeitungserzeugnisse aus Obst und Gemüse (ABl. L 138 vom 25.5.2017, S. 57) in der jeweils geltenden Fassung geregelten Kontrollen in Bezug auf regelwidrige Doppelfinanzierung übermitteln sich jede Landesstelle sowie die Bundesanstalt gegenseitig die in der Anlage Abschnitt II Nummer 2 des Marktorganisationsgesetzes genannten maßnahmespezifischen Daten von Mitgliedern von Erzeugerorganisationen Obst und Gemüse sowie von Antragstellern in von der Bundesanstalt durchgeführten nationalen oder unionsrechtlichen Förderprogrammen und führen Abgleiche durch.
 
-
-## § 19 – Muster und Formulare
+# § 19 – Muster und Formulare
 
 Für alle Anträge und Meldungen können die zuständigen Stellen Muster bekannt geben oder Formulare, auch in elektronischer Form, bereithalten. Soweit die zuständigen Stellen Muster bekannt geben oder Formulare bereithalten, sind diese zu verwenden.
 
-
-## § 20 – Übergangsbestimmungen
+# § 20 – Übergangsbestimmungen
 
 (1) § 5 ist erst ab dem 1. Januar 2015 anzuwenden. Bis zum Ablauf des 31. Dezember 2014 ist § 6 der EU-Obst- und Gemüse-Durchführungsverordnung vom 16. Juni 2008 (BGBl. I S. 1082), die durch Artikel 1 der Verordnung vom 7. Dezember 2011 (BGBl. I S. 2630) geändert worden ist, weiter anzuwenden.
 

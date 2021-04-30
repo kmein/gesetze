@@ -1,21 +1,15 @@
-# [BKOrgErl 1989] Organisationserlaß des Bundeskanzlers
-
-Ausfertigungsdatum: 03.05.1989
-
+% Organisationserlaß des Bundeskanzlers
+% Ausfertigungsdatum: 03.05.1989
  
-
-## I.
+# I.
 
 Der Bundesnachrichtendienst wird dem Chef des Bundeskanzleramtes unterstellt. Dessen Vertreter ist ein Staatssekretär oder ein Abteilungsleiter im Bundeskanzleramt.
 
+# II.
 
-## II.
+Zum Beauftragten für die Nachrichtendienste wird ein Staatsminister oder Staatssekretär im Geschäftsbereich des Bundeskanzlers und des Bundeskanzleramtes bestellt. Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt. Die von diesem geleitete Abteilung unterstützt den Beauftragten bei der Erfüllung seiner Aufgaben.
 
-Zum Beauftragten für die Nachrichtendienste wird ein Staatsminister oder Staatssekretär im Geschäftsbereich des Bundeskanzlers und des Bundeskanzleramtes bestellt.  
-Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt. Die von diesem geleitete Abteilung unterstützt den Beauftragten bei der Erfüllung seiner Aufgaben.
-
-
-## III.
+# III.
 
 Dem Beauftragten für die Nachrichtendienste obliegt die Koordinierung und Intensivierung der Zusammenarbeit des Bundesnachrichtendienstes, des Bundesamtes für Verfassungsschutz und des Militärischen Abschirmdienstes untereinander und ihre ressortübergreifende Zusammenarbeit mit anderen Behörden und Dienststellen.
 
@@ -43,7 +37,6 @@ d) das Recht zu unmittelbaren Besprechungen mit den Leitern der Dienste und dere
 
 Den dienstaufsichtsführenden Ressorts ist von allen an die Dienste gerichteten Auskunftsersuchen und dem sonstigen Schriftwechsel mindestens gleichzeitig Kenntnis zu geben.
 
-
-## IV.
+# IV.
 
 Das Bundesministerium des Innern und das Bundesministerium der Verteidigung unterrichten den Beauftragten für die Nachrichtendienste über nachrichtendienstliche Verdachtsfälle und andere besondere Vorkommnisse aus dem Bereich des Bundesamtes für Verfassungsschutz und des Militärischen Abschirmdienstes, die bei ihrem Bekanntwerden das politische oder öffentliche Interesse finden könnten und deshalb für den Bundeskanzler von Bedeutung sein können (§§ 3, 15 Geschäftsordnung der Bundesregierung).

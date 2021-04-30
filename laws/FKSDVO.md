@@ -1,15 +1,11 @@
-# [FKSDVO] Verordnung zur Bestimmung weiterer Daten, die im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit gespeichert werden  (FKS-Datenverordnung - FKSDVO)
-
-Ausfertigungsdatum: 18.11.2019
-
+% Verordnung zur Bestimmung weiterer Daten, die im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit gespeichert werden  (FKS-Datenverordnung - FKSDVO)
+% Ausfertigungsdatum: 18.11.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16 Absatz 2 Satz 2 des Schwarzarbeitsbekämpfungsgesetzes, der durch Artikel 1 Nummer 11 des Gesetzes vom 6. März 2017 (BGBl. I S. 399) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Speicherung von Daten zu Personen, die tätig oder scheinbar tätig sind
+# § 1 – Speicherung von Daten zu Personen, die tätig oder scheinbar tätig sind
 
 (1) Über Arbeitnehmer und Arbeitnehmerinnen, Selbstständige, scheinbar tätige sowie scheinbar selbstständige Personen, die von Prüfungen nach § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes betroffen sind, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit folgende personenbezogene Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
@@ -95,8 +91,7 @@ l) selbstständiger Landwirt oder selbstständige Landwirtin,
 
 8. vertragliche, handelsrechtliche, gesellschaftsrechtliche oder gewerberechtliche Beziehungen.
 
-
-## § 2 – Speicherung von Daten zu Arbeitgebern, Entleihern und Auftraggebern
+# § 2 – Speicherung von Daten zu Arbeitgebern, Entleihern und Auftraggebern
 
 (1) Über Arbeitgeber, Entleiher und Auftraggeber, die von Prüfungen nach § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes betroffen sind, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit folgende personenbezogene Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
@@ -178,8 +173,7 @@ j) Mitglied einer Arbeitsgemeinschaft zur gemeinsamen Ausführung eines Auftrags
 
 8. Daten zu Betriebsübertragung und Betriebsübergang.
 
-
-## § 3 – Speicherung von Daten zu Unternehmen
+# § 3 – Speicherung von Daten zu Unternehmen
 
 (1) Zu Unternehmen können die in den §§ 1 und 2 genannten Daten auch dann im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit gespeichert werden, wenn es sich um Daten gemäß § 67 Absatz 2 Satz 2 des Zehnten Buches Sozialgesetzbuch handelt und dies zur Aufgabenerfüllung erforderlich ist.
 
@@ -193,18 +187,15 @@ j) Mitglied einer Arbeitsgemeinschaft zur gemeinsamen Ausführung eines Auftrags
 
 2. Angaben zu Handlungen, die eine Geldbewegung oder eine sonstige Vermögensverschiebung bezwecken oder bewirken.
 
-
-## § 4 – Speicherung von Daten aus Hinweisen
+# § 4 – Speicherung von Daten aus Hinweisen
 
 Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu Sachverhalten und etwaigen Verstößen mitgeteilt werden, können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit personenbezogene Daten oder dem Schutz nach § 67 Absatz 2 Satz 2 des Zehnten Buches Sozialgesetzbuch unterliegende Daten gespeichert werden. Die Daten müssen zur Aufgabenerfüllung erforderlich sein und den in § 16 Absatz 2 Satz 1 des Schwarzarbeitsbekämpfungsgesetzes oder den in den §§ 1 bis 3 oder in den §§ 5 bis 7 dieser Rechtsverordnung genannten Daten entsprechen.
 
-
-## § 5 – Speicherung von weiteren Ortsangaben
+# § 5 – Speicherung von weiteren Ortsangaben
 
 Im Rahmen von Prüfungen können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit neben den nach den §§ 1 bis 4 speicherbaren Daten auch Angaben zu Orten einer Prüfung nach § 2 Absatz 1 Nummer 8 des Schwarzarbeitsbekämpfungsgesetzes gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist.
 
-
-## § 6 – Speicherung von Daten zu Beschuldigten und Betroffenen
+# § 6 – Speicherung von Daten zu Beschuldigten und Betroffenen
 
 Neben den nach den §§ 1, 2 und 3 Absatz 3 speicherbaren Daten können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit zu Beschuldigten im Rahmen von strafrechtlichen Ermittlungen und zu Betroffenen sowie Beteiligten im Ordnungswidrigkeitenverfahren folgende Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
@@ -238,8 +229,7 @@ d) E-Mail-Adressen,
 
 8. staatsanwaltschaftliche und gerichtliche Aktenzeichen.
 
-
-## § 7 – Speicherung von Daten zu Zeugen
+# § 7 – Speicherung von Daten zu Zeugen
 
 Neben den nach den §§ 1, 2 und 3 Absatz 2 speicherbaren Daten können im zentralen Informationssystem für die Finanzkontrolle Schwarzarbeit zu Zeugen folgende Daten gespeichert werden, sofern dies zur Aufgabenerfüllung erforderlich ist:
 
@@ -253,7 +243,6 @@ c) E-Mail-Adresse und
 
 2. der Aufenthaltsort.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

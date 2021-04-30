@@ -1,5 +1,3 @@
-# [NATOStatÜbk] Übereinkommen über den Status der Nordatlantikvertrags-Organisation, der nationalen Vertreter und des internationalen Personals
-
-Ausfertigungsdatum: 20.09.1951
-
+% Übereinkommen über den Status der Nordatlantikvertrags-Organisation, der nationalen Vertreter und des internationalen Personals
+% Ausfertigungsdatum: 20.09.1951
  

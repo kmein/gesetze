@@ -1,22 +1,17 @@
-# [SüdumfStG] Gesetz über den Bau der "Südumfahrung Stendal" der Eisenbahnstrecke Berlin-Oebisfelde
-
-Ausfertigungsdatum: 29.10.1993
-
+% Gesetz über den Bau der "Südumfahrung Stendal" der Eisenbahnstrecke Berlin-Oebisfelde
+% Ausfertigungsdatum: 29.10.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zulassung des Baus
+# § 1 – Zulassung des Baus
 
 (1) Zur Herstellung der Einheitlichkeit der Lebensverhältnisse im gesamten Gebiet der Bundesrepublik Deutschland ist die Südumfahrung Stendal als Teil der Eisenbahnstrecke Berlin-Oebisfelde im Abschnitt von km 99,95 bis km 113,00 + 155 einschließlich der für den Betrieb dieses Verkehrsweges notwendigen Anlagen als Bundeseisenbahnanlage, Sondervermögen Deutsche Reichsbahn, zu bauen. Der Bau erfolgt nach dem Plan, der diesem Gesetz als Anlagen 1 bis 12 beigefügt ist.
 
 (2) Durch dieses Gesetz ist die Zulässigkeit des Vorhabens einschließlich der notwendigen Folgemaßnahmen an anderen Anlagen im Hinblick auf alle von ihm berührten öffentlichen Belange festgestellt. Weitere behördliche Entscheidungen, insbesondere öffentlich-rechtliche Genehmigungen, Verleihungen, Erlaubnisse, Bewilligungen, Zustimmungen und Planfeststellungen sind nicht erforderlich. Mit diesem Gesetz werden alle öffentlich-rechtlichen Beziehungen zwischen der Deutschen Reichsbahn als Träger des Vorhabens und den durch den Plan Betroffenen rechtsgestaltend geregelt.
 
-
-## § 2 – Änderung und Ergänzung des Planes
+# § 2 – Änderung und Ergänzung des Planes
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den Plan nach § 1 unter Einhaltung der Grundzüge der Planung zu ändern, soweit nach Inkrafttreten dieses Gesetzes Tatsachen bekannt werden, die der Ausführung des Vorhabens nach den getroffenen Festsetzungen entgegenstehen. Das Bundesministerium für Verkehr und digitale Infrastruktur hat dabei eine Abwägung aller betroffenen Belange vorzunehmen.
 
@@ -32,8 +27,7 @@ Auf das Verfahren finden die für die Planfeststellung geltenden Vorschriften An
 
 (3) Über die Gültigkeit der Rechtsverordnungen nach Absatz 1 entscheidet auf Antrag das Bundesverwaltungsgericht im Rahmen seiner Gerichtsbarkeit. Auf das Verfahren finden die Vorschriften des § 47 der Verwaltungsgerichtsordnung entsprechende Anwendung.
 
-
-## § 3 – Enteignungsverfahren, Enteignungsentschädigung, gerichtliches Verfahren
+# § 3 – Enteignungsverfahren, Enteignungsentschädigung, gerichtliches Verfahren
 
 (1) Die Enteignung zugunsten der Bundesrepublik Deutschland - Sondervermögen Deutsche Reichsbahn - ist zulässig, soweit sie zur Ausführung des Planes nach den §§ 1 und 2 notwendig ist.
 
@@ -43,8 +37,7 @@ Auf das Verfahren finden die für die Planfeststellung geltenden Vorschriften An
 
 (4) Für das gerichtliche Verfahren zur Überprüfung der Entscheidungen der Enteignungsbehörde gelten die §§ 217 bis 232 des Baugesetzbuchs entsprechend.
 
-
-## § 4 – Vorzeitige Besitzeinweisung
+# § 4 – Vorzeitige Besitzeinweisung
 
 (1) Weigert sich der Eigentümer oder Besitzer, den Besitz eines für das Vorhaben benötigten Grundstücks durch Vereinbarung unter Vorbehalt aller Entschädigungsansprüche zu überlassen, so hat die Enteignungsbehörde die Deutsche Reichsbahn auf Antrag in den Besitz einzuweisen. Weiterer Voraussetzungen bedarf es nicht.
 
@@ -56,18 +49,15 @@ Auf das Verfahren finden die für die Planfeststellung geltenden Vorschriften An
 
 (5) Die Deutsche Reichsbahn hat für die durch die vorzeitige Besitzeinweisung entstehenden Vermögensnachteile Entschädigung zu leisten, soweit die Nachteile nicht durch die Verzinsung der Geldentschädigung für die Entziehung oder Beschränkung des Eigentums oder eines anderen Rechtes ausgeglichen werden. Art und Höhe der Entschädigung sind von der Enteignungsbehörde in einem Beschluß festzusetzen.
 
-
-## § 5 – Vertreter des Eigentümers
+# § 5 – Vertreter des Eigentümers
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat die kommunale Aufsichtsbehörde der Gemeinde, in der das betroffene Grundstück liegt, in den Fällen der §§ 3 und 4 auf Antrag der Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung einen Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des Verwaltungsverfahrensgesetzes findet Anwendung.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage 1 bis 12 – ----
+# Anlage 1 bis 12 – ----
 
 ( Inhalt: nicht erfaßte Anlagen 1 bis 12  
 Fundstelle: Anlagebände I bis III zum BGBl. I Nr. 62 vom 30.11.1993 )

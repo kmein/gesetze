@@ -1,15 +1,11 @@
-# [ElekZeugnV] Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für Elektrotechnik in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
-
-Ausfertigungsdatum: 12.04.1978
-
+% Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für Elektrotechnik in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
+% Ausfertigungsdatum: 12.04.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und unter Berücksichtigung des § 28 des Gesetzes vom 7. September 1976 (BGBl. I S. 2658), wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Gleichstellung von Prüfungszeugnissen
+# § 1 – Gleichstellung von Prüfungszeugnissen
 
 Die bis zum 31. Dezember 1989 von der Berufsfachschule für Elektrotechnik in Bremen erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlußprüfungen werden mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Aufstellung gleichgestellt:  
 
@@ -18,23 +14,19 @@ Die bis zum 31. Dezember 1989 von der Berufsfachschule für Elektrotechnik in Br
 | Abschlußprüfung als Elektroanlageninstallateur          | Elektroanlageninstallateur                    |
 | Abschlußprüfung als Energieanlagenelektroniker          | Energieanlagenelektroniker                    |
 
-
-## § 2 – Berlin-Klausel
+# § 2 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 1978 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

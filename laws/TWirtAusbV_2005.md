@@ -1,20 +1,15 @@
-# [TWirtAusbV 2005] Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
-
-Ausfertigungsdatum: 17.05.2005
-
+% Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
+% Ausfertigungsdatum: 17.05.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Tierwirt/Tierwirtin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -32,18 +27,15 @@ gewählt werden.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach der Berufsgrundbildungsjahr-Anrechnungs-Verordnung Landwirtschaft vom 20. Juli 1979 (BGBl. I S. 1142) als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung
+# § 3 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 4 – Zielsetzung der Berufsausbildung
+# § 4 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließen. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 bis 14 nachzuweisen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -158,23 +150,19 @@ Nutzung von Tieren und Gewinnung spezifischer Produkte.
 
 6. Betriebsmittel zur Bienenhaltung.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 5 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Schriftlicher Ausbildungsnachweis
+# § 8 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -210,8 +198,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 8. tierische Produkte.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Rinderhaltung
+# § 10 – Abschlussprüfung in der Fachrichtung Rinderhaltung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -309,8 +296,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Abschlussprüfung in der Fachrichtung Schweinehaltung
+# § 11 – Abschlussprüfung in der Fachrichtung Schweinehaltung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -390,8 +376,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 12 – Abschlussprüfung in der Fachrichtung Geflügelhaltung
+# § 12 – Abschlussprüfung in der Fachrichtung Geflügelhaltung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -483,8 +468,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 13 – Abschlussprüfung in der Fachrichtung Schäferei
+# § 13 – Abschlussprüfung in der Fachrichtung Schäferei
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -582,8 +566,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 14 – Abschlussprüfung in der Fachrichtung Imkerei
+# § 14 – Abschlussprüfung in der Fachrichtung Imkerei
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -675,18 +658,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 15 – Fortsetzung der Berufsausbildung
+# § 15 – Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
+# Anlage – (zu § 6)  Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 
 (Fundstelle: BGBl. I 2005, 1434 - 1443)
 

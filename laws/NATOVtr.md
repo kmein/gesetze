@@ -1,5 +1,3 @@
-# [NATOVtr] Nordatlantikvertrag
-
-Ausfertigungsdatum: 04.04.1949
-
+% Nordatlantikvertrag
+% Ausfertigungsdatum: 04.04.1949
  

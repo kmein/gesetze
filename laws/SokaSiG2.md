@@ -1,13 +1,9 @@
-# [SokaSiG2] Gesetz zur Sicherung der tarifvertraglichen Sozialkassenverfahren   (Zweites Sozialkassenverfahrensicherungsgesetz - SokaSiG2)
-
-Ausfertigungsdatum: 01.09.2017
-
+% Gesetz zur Sicherung der tarifvertraglichen Sozialkassenverfahren   (Zweites Sozialkassenverfahrensicherungsgesetz - SokaSiG2)
+% Ausfertigungsdatum: 01.09.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zusätzliche Altersversorgung im Maler- und Lackiererhandwerk
+# § 1 – Zusätzliche Altersversorgung im Maler- und Lackiererhandwerk
 
 (1) Die Rechtsnormen des Tarifvertrags über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005 gelten in der aus der Anlage 1 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2013 bis zur Beendigung des Tarifvertrags.
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (4) Die Rechtsnormen des Tarifvertrags über den Beginn der Leistungsverpflichtung für eine überbetriebliche Zusatzversorgung von Arbeitnehmern in Betrieben des Beitrittsgebiets im Maler- und Lackiererhandwerk vom 23. November 1992 gelten in der aus der Anlage 4 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 2 – Urlaubsregelungen im Maler- und Lackiererhandwerk
+# § 2 – Urlaubsregelungen im Maler- und Lackiererhandwerk
 
 (1) Die Rechtsnormen des § 3 Nummer 2, des § 6, des § 7 Nummer 1, der §§ 8, 9, 13, 17 bis 21, 23 bis 24a, 26 bis 29, des § 34 Nummer 5, der §§ 35 bis 36, 38 bis 44, 46, 49 und 50 des Rahmentarifvertrags für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992 gelten in der aus der Anlage 5 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2012 bis zur Beendigung des Tarifvertrags.
 
@@ -30,8 +25,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (5) Die Absätze 1 bis 4 finden keine Anwendung auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern.
 
-
-## § 3 – Sozialkassenverfahren im Maler- und Lackiererhandwerk
+# § 3 – Sozialkassenverfahren im Maler- und Lackiererhandwerk
 
 (1) Die Rechtsnormen des Tarifvertrags über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005 gelten in der aus der Anlage 9 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Oktober 2011 bis zur Beendigung des Tarifvertrags.
 
@@ -41,8 +35,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (4) Die Absätze 1 bis 3 finden keine Anwendung auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern.
 
-
-## § 4 – Zusätzliche Altersversorgung im Dachdeckerhandwerk
+# § 4 – Zusätzliche Altersversorgung im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2010 bis zum 31. Dezember 2014 gelten die Rechtsnormen des Tarifvertrags über eine Altersversorgung für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 7. Juli 1978 in der aus der Anlage 12 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -52,15 +45,13 @@ Ausfertigungsdatum: 01.09.2017
 
 (4) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Juli 2008 gelten die Rechtsnormen des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978 in der aus der Anlage 15 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 5 – Ergänzende überbetriebliche Altersversorgung im Dachdeckerhandwerk
+# § 5 – Ergänzende überbetriebliche Altersversorgung im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2014 gelten die Rechtsnormen des Tarifvertrags über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977 in der aus der Anlage 16 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 (2) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2013 gelten die Rechtsnormen des Tarifvertrags über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977 in der aus der Anlage 17 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 6 – Beschäftigungssicherung im Dachdeckerhandwerk
+# § 6 – Beschäftigungssicherung im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2013 bis zum 31. Dezember 2014 gelten die Rechtsnormen des Tarifvertrags zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode vom 5. Dezember 1995 in der aus der Anlage 18 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -70,8 +61,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (4) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2008 gelten die Rechtsnormen des Tarifvertrags zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode vom 5. Dezember 1995 in der aus der Anlage 21 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 7 – 13. Monatseinkommen im Dachdeckerhandwerk
+# § 7 – 13. Monatseinkommen im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2013 bis zum 31. Dezember 2014 gelten die Rechtsnormen des Tarifvertrags über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992 in der aus der Anlage 22 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -79,8 +69,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (3) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2009 gelten die Rechtsnormen des Tarifvertrags über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992 in der aus der Anlage 24 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 8 – Berufsbildung im Dachdeckerhandwerk
+# § 8 – Berufsbildung im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. September 2012 bis zum 31. Dezember 2014 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012 in der aus der Anlage 25 ersichtlichen Fassung mit Ausnahme der §§ 2, 4, 7 Absatz 1 bis 6 und Absatz 10 und des § 8 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -94,8 +83,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (6) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Juli 2012 gelten die Rechtsnormen des Tarifvertrags über das Erstattungsverfahren für die Berufsbildung im Dachdeckerhandwerk vom 4. Oktober 1978 in der aus der Anlage 30 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 9 – Sozialkassenverfahren im Dachdeckerhandwerk
+# § 9 – Sozialkassenverfahren im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. September 2012 bis zum 31. Dezember 2014 gelten die Rechtsnormen des Tarifvertrags über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995 in der aus der Anlage 31 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -109,8 +97,7 @@ Ausfertigungsdatum: 01.09.2017
 
 (6) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Juli 2006 gelten die Rechtsnormen des Tarifvertrags über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995 in der aus der Anlage 36 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 10 – Bemessungsgrundlagen für die Sozialkassenverfahren im Dachdeckerhandwerk
+# § 10 – Bemessungsgrundlagen für die Sozialkassenverfahren im Dachdeckerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2014 gelten die Rechtsnormen der §§ 3, 4, 7, 10 bis 14, des § 15 Nummer 1, der §§ 17 bis 20, 22, 24 bis 26, 33, 35 bis 38, 41, 43 bis 46, 48, 50, 52 und 54 des Rahmentarifvertrags für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik vom 27. November 1990 in der aus der Anlage 37 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -122,37 +109,31 @@ Ausfertigungsdatum: 01.09.2017
 
 (5) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Juli 2006 gelten die Rechtsnormen der §§ 3, 4, 7, 10 bis 14, des § 15 Nummer 1, der §§ 17 bis 33, 35 bis 41, 43 bis 46, 48, 50, 52 und 54 des Rahmentarifvertrags für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik vom 27. November 1990 in der aus der Anlage 41 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 11 – Zusätzliche Altersversorgung im Gerüstbauer-Handwerk
+# § 11 – Zusätzliche Altersversorgung im Gerüstbauer-Handwerk
 
 Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2016 gelten die Rechtsnormen des Tarifvertrags über die überbetriebliche Zusatzversorgung im Gerüstbaugewerbe vom 21. September 1987 in der aus der Anlage 42 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 12 – Urlaubsregelungen im Gerüstbauer-Handwerk
+# § 12 – Urlaubsregelungen im Gerüstbauer-Handwerk
 
 (1) Für den Zeitraum vom 1. Januar 2006 bis zum 31. August 2015 gelten die Rechtsnormen des § 3 Nummer 4.1, 4.2, 4.3.1 bis 4.3.4, 4.3.6 und 6, des § 4 Nummer 6, des § 5 Nummer 11, des § 13 Nummer 1.3 des Rahmentarifvertrags für das Gerüstbauerhandwerk vom 27. Juli 1993 in der aus der Anlage 43 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer. Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2015 gelten die Rechtsnormen des § 3 Nummer 4.3.5 und des § 8 des Rahmentarifvertrags für das Gerüstbauerhandwerk vom 27. Juli 1993 in der aus der Anlage 43 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 (2) Absatz 1 findet keine Anwendung auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern.
 
-
-## § 13 – Lohnausgleich im Gerüstbauer-Handwerk
+# § 13 – Lohnausgleich im Gerüstbauer-Handwerk
 
 Für den Zeitraum vom 1. Januar 2006 bis zum 30. November 2016 gelten die Rechtsnormen des Tarifvertrags zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Gerüstbauerhandwerk während der Winterperiode vom 15. August 1983 in der aus der Anlage 44 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 14 – Berufsbildung im Gerüstbauer-Handwerk
+# § 14 – Berufsbildung im Gerüstbauer-Handwerk
 
 Für den Zeitraum vom 1. Januar 2006 bis zum 31. Oktober 2015 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im Gerüstbauerhandwerk vom 3. Dezember 1996 in der aus der Anlage 45 ersichtlichen Fassung mit Ausnahme der §§ 3, 5 bis 9 und 11 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 15 – Sozialkassenverfahren im Gerüstbauer-Handwerk
+# § 15 – Sozialkassenverfahren im Gerüstbauer-Handwerk
 
 (1) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2015 gelten die Rechtsnormen des Tarifvertrags über das Sozialkassenverfahren im Gerüstbauerhandwerk vom 20. Januar 1994 in der aus der Anlage 46 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
 (2) Absatz 1 findet keine Anwendung auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern.
 
-
-## § 16 – Zusätzliche Altersversorgung im Steinmetz- und Steinbildhauerhandwerk
+# § 16 – Zusätzliche Altersversorgung im Steinmetz- und Steinbildhauerhandwerk
 
 (1) Die Rechtsnormen des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994 gelten in der aus der Anlage 47 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2010 bis zur Beendigung des Tarifvertrags.
 
@@ -162,8 +143,7 @@ Für den Zeitraum vom 1. Januar 2006 bis zum 31. Oktober 2015 gelten die Rechtsn
 
 (4) Für den Zeitraum vom 1. Januar 2006 bis zum 31. März 2007 gelten die Rechtsnormen des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994 in der aus der Anlage 50 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 17 – Berufsbildung im Steinmetz- und Steinbildhauerhandwerk
+# § 17 – Berufsbildung im Steinmetz- und Steinbildhauerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. August 2015 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991 in der aus der Anlage 51 ersichtlichen Fassung mit Ausnahme des § 2 Satz 3 bis 5 und der §§ 3 bis 7 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -175,8 +155,7 @@ Für den Zeitraum vom 1. Januar 2006 bis zum 31. Oktober 2015 gelten die Rechtsn
 
 (5) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2006 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991 in der aus der Anlage 55 ersichtlichen Fassung mit Ausnahme des § 2 Satz 3 bis 5 und der §§ 3 bis 7 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 18 – Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk
+# § 18 – Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk
 
 (1) Für den Zeitraum vom 1. Januar 2014 bis zum 31. Juli 2015 gelten die Rechtsnormen des Tarifvertrags über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994 in der aus der Anlage 56 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
@@ -188,8 +167,7 @@ Für den Zeitraum vom 1. Januar 2006 bis zum 31. Oktober 2015 gelten die Rechtsn
 
 (5) Für den Zeitraum vom 1. Januar 2006 bis zum 31. März 2007 gelten die Rechtsnormen des Tarifvertrags über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994 in der aus der Anlage 60 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 19 – Bemessungsgrundlagen für die Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk
+# § 19 – Bemessungsgrundlagen für die Sozialkassenverfahren im Steinmetz- und Steinbildhauerhandwerk
 
 (1) Die Rechtsnormen des § 3 Nummer 1.1, 1.2, 1.5 bis 1.7, 3 und 4, des § 4 Nummer 1 bis 3, 5 und 6, des § 5 Nummer 1.3, 1.4, 2 bis 6 und 8, der §§ 6 bis 8, des § 9 Nummer 1, 6, 8 und 9 sowie des § 10 des Rahmentarifvertrags für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000 gelten in der aus der Anlage 61 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2010 bis zur Beendigung des Tarifvertrags.
 
@@ -197,75 +175,63 @@ Für den Zeitraum vom 1. Januar 2006 bis zum 31. Oktober 2015 gelten die Rechtsn
 
 (3) Für den Zeitraum vom 1. Januar 2006 bis zum 31. März 2007 gelten die Rechtsnormen des § 3 Nummer 1.1, 1.2, 1.5 bis 1.7, 3 und 4, des § 4 Nummer 1 bis 3, 5 und 6, des § 5 Nummer 1.3, 1.4, 2 bis 6 und 8, der §§ 6 bis 8, des § 9 Nummer 1, 6, 8 und 9 sowie des § 10 des Rahmentarifvertrags für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000 in der aus der Anlage 63 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 20 – Betrieblicher Anwendungsbereich
+# § 20 – Betrieblicher Anwendungsbereich
 
 Die tarifvertraglichen Rechtsnormen, auf die in § 16 Absatz 1 und 2, in § 17 Absatz 1 bis 3, in § 18 Absatz 1 bis 3 sowie in § 19 Absatz 1 verwiesen wird, gelten nicht für Betriebe, die von dem Tarifvertrag über eine Zusatzrente im Betonstein- und Terrazzoherstellerhandwerk vom 13. Dezember 2010 erfasst werden.
 
-
-## § 21 – Zusätzliche Altersversorgung im Betonsteingewerbe Nordwestdeutschland
+# § 21 – Zusätzliche Altersversorgung im Betonsteingewerbe Nordwestdeutschland
 
 (1) Die Rechtsnormen des Tarifvertrags über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands vom 1. April 1986 gelten in der aus der Anlage 64 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2008 bis zur Beendigung des Tarifvertrags.
 
 (2) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2007 gelten die Rechtsnormen des Tarifvertrags über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands vom 1. April 1986 in der aus der Anlage 65 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 22 – Verfahren der zusätzlichen Altersversorgung im Betonsteingewerbe Nordwestdeutschland
+# § 22 – Verfahren der zusätzlichen Altersversorgung im Betonsteingewerbe Nordwestdeutschland
 
 Die Rechtsnormen des Tarifvertrags über das Verfahren der überbetrieblichen Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands vom 1. April 1986 gelten in der aus der Anlage 66 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 23 – Zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+# § 23 – Zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
 
 (1) Die Rechtsnormen des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern gelten in der aus der Anlage 67 ersichtlichen Fassung vom 20. Januar 2012 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer mit Ausnahme des § 5 Abschnitt V Nummer 7 und Abschnitt VII für den Zeitraum vom 1. Januar 2012 bis zur Beendigung des Tarifvertrags. Die Rechtsnormen des § 5 Abschnitt V Nummer 7 und Abschnitt VII des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern gelten in der aus der Anlage 67 ersichtlichen Fassung vom 20. Januar 2012 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Juli 2012 bis zur Beendigung des Tarifvertrags.
 
 (2) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2011 gelten die Rechtsnormen des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern mit Ausnahme des § 5 Abschnitt II Nummer 2 Buchstabe g und Abschnitt V in der aus der Anlage 68 ersichtlichen Fassung vom 5. Juni 2001 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer. Die Rechtsnormen des § 5 Abschnitt II Nummer 2 Buchstabe g des Tarifvertrags über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern gelten in der aus der Anlage 68 ersichtlichen Fassung vom 5. Juni 2001 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zum 20. Mai 2010.
 
-
-## § 24 – Ergänzende zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+# § 24 – Ergänzende zusätzliche Altersversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
 
 (1) Die Rechtsnormen des Tarifvertrags über eine ergänzende Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern gelten in der aus der Anlage 69 ersichtlichen Fassung vom 20. Januar 2012 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2012 bis zur Beendigung des Tarifvertrags.
 
 (2) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2011 gelten die Rechtsnormen des Tarifvertrags über eine ergänzende Alters- und Invalidenbeihilfe und ein ergänzendes Sterbegeld in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern in der aus der Anlage 70 ersichtlichen Fassung vom 5. Juni 2001 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 25 – Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+# § 25 – Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
 
 (1) Die Rechtsnormen des Tarifvertrags über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern gelten in der aus der Anlage 71 ersichtlichen Fassung vom 20. Januar 2012 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2012 bis zur Beendigung des Tarifvertrags.
 
 (2) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2011 gelten die Rechtsnormen des Tarifvertrags über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern in der aus der Anlage 72 ersichtlichen Fassung vom 5. Juni 2001 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 26 – Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
+# § 26 – Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern
 
 (1) Die Rechtsnormen des Tarifvertrags über das Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern gelten in der aus der Anlage 73 ersichtlichen Fassung vom 20. Januar 2012 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2012 bis zur Beendigung des Tarifvertrags.
 
 (2) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2011 gelten die Rechtsnormen des Tarifvertrags über das Verfahren für die Zusatzversorgung der Wehrpflichtigen in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern in der aus der Anlage 74 ersichtlichen Fassung vom 5. Juni 2001 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 27 – Betrieblicher Anwendungsbereich
+# § 27 – Betrieblicher Anwendungsbereich
 
 (1) Die tarifvertraglichen Rechtsnormen, auf die in den §§ 23 bis 26 verwiesen wird, gelten nicht für Betriebe, die dem Verein der Bayerischen Chemischen Industrie e.V. angehören und dessen Tarifverträge anwenden.
 
 (2) Die Rechtsnormen der Tarifverträge aus dem jeweiligen Absatz 2 der §§ 23 bis 26 gelten auch für Betriebe des Transportbetongewerbes im Land Bayern.
 
-
-## § 28 – Aus- und Weiterbildung im Bäckerhandwerk
+# § 28 – Aus- und Weiterbildung im Bäckerhandwerk
 
 Die Rechtsnormen des Tarifvertrags über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks gelten in der aus der Anlage 75 ersichtlichen Fassung vom 18. Dezember 2002 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 29 – Einzug der Beiträge für die Aus- und Weiterbildung im Bäckerhandwerk
+# § 29 – Einzug der Beiträge für die Aus- und Weiterbildung im Bäckerhandwerk
 
 Die Rechtsnormen des Verfahrenstarifvertrags zum Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks gelten in der aus der Anlage 76 ersichtlichen Fassung vom 18. Dezember 2002 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 30 – Betrieblicher Anwendungsbereich
+# § 30 – Betrieblicher Anwendungsbereich
 
 Die §§ 28 und 29 gelten nicht für Betriebe, die Mitglied einer Konditorinnung sind.
 
-
-## § 31 – Zusatzversorgung in der Brot- und Backwarenindustrie
+# § 31 – Zusatzversorgung in der Brot- und Backwarenindustrie
 
 (1) Die Rechtsnormen des Tarifvertrags über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, des Tarifvertrags vom 30. Juli 1979 sowie der Protokollnotizen vom 28. Februar 1977 und vom 4. September 2008 gelten in der aus der Anlage 77 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Juli 2009 bis zur Beendigung des Tarifvertrags.
 
@@ -273,8 +239,7 @@ Die §§ 28 und 29 gelten nicht für Betriebe, die Mitglied einer Konditorinnung
 
 (3) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2008 gelten die Rechtsnormen des Tarifvertrags über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, des Tarifvertrags vom 30. Juli 1979 sowie der Protokollnotizen vom 28. Februar 1977 und vom 4. September 2008 in der aus der Anlage 79 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 32 – Verfahren für die Zusatzversorgung in der Brot- und Backwarenindustrie
+# § 32 – Verfahren für die Zusatzversorgung in der Brot- und Backwarenindustrie
 
 (1) Die Rechtsnormen des Verfahrenstarifvertrags vom 20. Februar 1970 und des Tarifvertrags vom 30. Juli 1979 gelten in der aus der Anlage 80 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Juli 2009 bis zur Beendigung des Tarifvertrags.
 
@@ -282,73 +247,61 @@ Die §§ 28 und 29 gelten nicht für Betriebe, die Mitglied einer Konditorinnung
 
 (3) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2008 gelten die Rechtsnormen des Verfahrenstarifvertrags vom 20. Februar 1970 und des Tarifvertrags vom 30. Juli 1979 in der aus der Anlage 82 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 33 – Zusätzliche Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen
+# § 33 – Zusätzliche Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen
 
 (1) Die Rechtsnormen des Tarifvertrags über die Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen sowie der Protokollnotizen gelten in der aus der Anlage 83 ersichtlichen Fassung vom 15. Dezember 1997 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
 (2) Die tarifvertraglichen Rechtsnormen, auf die in Absatz 1 verwiesen wird, gelten nicht in den Bundesländern Sachsen-Anhalt und Thüringen.
 
-
-## § 34 – Berufsbildung im Garten-, Landschafts- und Sportplatzbau
+# § 34 – Berufsbildung im Garten-, Landschafts- und Sportplatzbau
 
 (1) Die Rechtsnormen des Tarifvertrags über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland einschließlich Berlin (West) ohne das Beitrittsgebiet vom 1. April 1977 sowie der Protokollnotiz vom 11. März 1991 gelten in der aus der Anlage 84 ersichtlichen Fassung mit Ausnahme des § 2 Absatz 1 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
 (2) Absatz 1 gilt nicht für Betriebe oder selbständige Betriebsabteilungen, die von dem Bundesrahmentarifvertrag für Arbeiter des Baugewerbes vom 4. Juli 2002 in der Fassung vom 29. Juli 2005 erfasst werden.
 
-
-## § 35 – Berufsbildung im Garten-, Landschafts- und Sportplatzbau im Beitrittsgebiet
+# § 35 – Berufsbildung im Garten-, Landschafts- und Sportplatzbau im Beitrittsgebiet
 
 (1) Die Rechtsnormen des Tarifvertrags über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland – nur Beitrittsgebiet – vom 11. März 1991 gelten in der aus der Anlage 85 ersichtlichen Fassung mit Ausnahme des § 2 Absatz 1 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
 (2) Absatz 1 gilt nicht für Betriebe oder selbständige Betriebsabteilungen, die von dem Tarifvertrag über das Sozialkassenverfahren im Baugewerbe vom 20. Dezember 1999 in der Fassung vom 15. Dezember 2005 erfasst werden.
 
-
-## § 36 – Zusätzliche Altersversorgung in der Land- und Forstwirtschaft
+# § 36 – Zusätzliche Altersversorgung in der Land- und Forstwirtschaft
 
 Die Rechtsnormen des Tarifvertrags über die Zusatzversorgung der Arbeitnehmer in der Land- und Forstwirtschaft gelten in der aus der Anlage 86 ersichtlichen Fassung vom 28. November 2000 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 37 – Berufsbildung in der Land- und Forstwirtschaft in Hessen
+# § 37 – Berufsbildung in der Land- und Forstwirtschaft in Hessen
 
 Die Rechtsnormen des Tarifvertrags „Qualifizierung der Land- und Forstwirtschaft in Hessen“ gelten in der aus der Anlage 87 ersichtlichen Fassung vom 31. Mai 2001 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 38 – Berufsbildung in der Forstwirtschaft in Niedersachsen
+# § 38 – Berufsbildung in der Forstwirtschaft in Niedersachsen
 
 Die Rechtsnormen des Tarifvertrags über die Qualifizierung der Arbeitnehmer und Arbeitnehmerinnen der forstwirtschaftlichen Lohn- und Dienstleistungsunternehmen und über Maßnahmen zur Erschließung und Sicherung wettbewerbsfähiger Voll- oder Teilzeitarbeitsplätze in der Forstwirtschaft gelten in der aus der Anlage 88 ersichtlichen Fassung vom 1. Januar 2002 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 39 – Beendigung des Tarifvertrags
+# § 39 – Beendigung des Tarifvertrags
 
 (1) Ein Tarifvertrag endet im Sinne dieses Gesetzes, wenn er gekündigt, aufgehoben, geändert oder durch einen anderen Tarifvertrag ganz oder teilweise abgelöst wird.
 
 (2) Die oberste Arbeitsbehörde des Bundes macht die Beendigung des Tarifvertrags im Bundesanzeiger bekannt.
 
-
-## § 40 – Persönlicher Anwendungsbereich
+# § 40 – Persönlicher Anwendungsbereich
 
 Arbeitnehmer im Sinne der §§ 1 bis 38 sind die unter den persönlichen Geltungsbereich des jeweiligen Tarifvertrags fallenden Personen.
 
-
-## § 41 – Geltung der tarifvertraglichen Rechtsnormen
+# § 41 – Geltung der tarifvertraglichen Rechtsnormen
 
 (1) Die tarifvertraglichen Rechtsnormen, auf die in den §§ 1 bis 38 verwiesen wird, gelten unabhängig davon, ob die Tarifverträge wirksam abgeschlossen wurden.
 
 (2) Die Vorschriften des Betriebsrentengesetzes zur Unverfallbarkeit der betrieblichen Altersversorgung bleiben von diesem Gesetz unberührt.
 
-
-## § 42 – Verhältnis zur Allgemeinverbindlichkeit nach dem Tarifvertragsgesetz
+# § 42 – Verhältnis zur Allgemeinverbindlichkeit nach dem Tarifvertragsgesetz
 
 Die Allgemeinverbindlichkeit tarifvertraglicher Rechtsnormen nach dem Tarifvertragsgesetz bleibt unberührt.
 
-
-## Inhalt – Anlage
+# Inhalt – Anlage
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 1 - 3)
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 27. März 2013
+# Anlage 1 – (zu § 1 Absatz 1)Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 27. März 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 5 - 15)
 
@@ -767,8 +720,7 @@ Die Vorschriften der §§ 2 bis 5, 16, 27 und 28 des Gesetzes zur Verbesserung d
 
 3. Die Bestimmungen der §§ 20 bis 22 verlieren mit Ablauf des 31. Dezember 2019 ihre Gültigkeit, ohne dass es einer Kündigung bedarf. Im Übrigen kann dieser Tarifvertrag mit einer Kündigungsfrist von drei Monaten zum Monatsende, erstmalig zum 31. Dezember 2019, gekündigt werden.
 
-
-## Anlage 2 – (zu § 1 Absatz 2)Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
+# Anlage 2 – (zu § 1 Absatz 2)Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 16 - 25)
 
@@ -1149,8 +1101,7 @@ Die Vorschriften der §§ 2 bis 5, 16, 27 und 28 des Gesetzes zur Verbesserung d
 
 3. Die Bestimmungen der §§ 20 bis 22 verlieren mit Ablauf des 31. Dezember 2012 ihre Gültigkeit, ohne dass es einer Kündigung bedarf. Im Übrigen kann dieser Tarifvertrag mit einer Kündigungsfrist von drei Monaten zum Monatsende, erstmalig zum 31. Dezember 2012, gekündigt werden.
 
-
-## Anlage 3 – (zu § 1 Absatz 3)Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
+# Anlage 3 – (zu § 1 Absatz 3)Tarifvertrag über eine zusätzliche Altersversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 26 - 35)
 
@@ -1499,8 +1450,7 @@ Die Vorschriften der §§ 2 bis 5, 16, 27 und 28 des Gesetzes zur Verbesserung d
 
 3. Die Bestimmungen der §§ 20 bis 22 verlieren mit Ablauf des 31. Dezember 2012 ihre Gültigkeit, ohne dass es einer Kündigung bedarf. Im Übrigen kann dieser Tarifvertrag mit einer Kündigungsfrist von drei Monaten zum Monatsende, erstmalig zum 31. Dezember 2012, gekündigt werden.
 
-
-## Anlage 4 – (zu § 1 Absatz 4)Tarifvertrag über den Beginn der Leistungsverpflichtung für eine überbetriebliche Zusatzversorgung von Arbeitnehmern in Betrieben des Beitrittsgebiets im Maler- und Lackiererhandwerk vom 23. November 1992, geändert durch Tarifvertrag vom 15. Dezember 1994
+# Anlage 4 – (zu § 1 Absatz 4)Tarifvertrag über den Beginn der Leistungsverpflichtung für eine überbetriebliche Zusatzversorgung von Arbeitnehmern in Betrieben des Beitrittsgebiets im Maler- und Lackiererhandwerk vom 23. November 1992, geändert durch Tarifvertrag vom 15. Dezember 1994
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 36)
 
@@ -1518,8 +1468,7 @@ Alle Beschäftigten in Betrieben, die unter den betrieblichen Geltungsbereich fa
 
 Nach Maßgabe des § 11 Nr. 2 c) des Tarifvertrages über eine überbetriebliche Zusatzversorgung im Maler- und Lackiererhandwerk (TV Zusatzversorgung) vom 23. November 1992 wird der Beginn der Leistungsverpflichtung der Kasse für die gewerblichen Arbeitnehmer und Angestellten, die ihre Ansprüche auf Tätigkeiten in Betrieben des Beitrittsgebietes begründen, festgelegt auf den 1. Juli 1995.
 
-
-## Anlage 5 – (zu § 2 Absatz 1)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2011
+# Anlage 5 – (zu § 2 Absatz 1)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2011
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 37 - 47)
 
@@ -1698,9 +1647,7 @@ von 28 Arbeitstagen 10,6 v. H.
 
 von 29 Arbeitstagen 11,0 v. H.
 
-von 30 Arbeitstagen 11,4 v. H.  
-des Bruttolohnes.  
-  
+von 30 Arbeitstagen 11,4 v. H. des Bruttolohnes.   
 
 Der zusätzliche Urlaubsanspruch für Schwerbehinderte entspricht einem Urlaubsentgelt von 0,38 v. H. des Bruttolohnes für jeden Urlaubstag, auf den der Schwerbehinderte Anspruch hat, und ist den Prozentsätzen des vorstehenden Absatzes hinzuzurechnen.
 
@@ -2030,8 +1977,7 @@ Dieser Rahmentarifvertrag tritt am 1. April 1992 in Kraft.
 
 Er kann mit Ausnahme des § 18 Nr. 2 mit einer Frist von 3 Monaten zum Monatsende schriftlich gekündigt werden. § 18 Nr. 2 kann mit einer Frist von 3 Monaten zum Monatsende, frühestens zum 31. Januar 2016 gekündigt werden
 
-
-## Anhang – zu Anlage 5 (Anhang zu § 18 Nummer 2)
+# Anhang – zu Anlage 5 (Anhang zu § 18 Nummer 2)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 48)
 
@@ -2206,8 +2152,7 @@ c) 30 Arbeitstage
 
  
 
-
-## Anlage 6 – (zu § 2 Absatz 2)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
+# Anlage 6 – (zu § 2 Absatz 2)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 49 - 59)
 
@@ -2385,11 +2330,7 @@ Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, sind auf v
 
 2. Das Urlaubsentgelt beträgt bei einem Urlaubsanspruch  
   
-von 25 Arbeitstagen    9,5 v. H.  
-von 28 Arbeitstagen   10,6 v. H.  
-von 30 Arbeitstagen   11,4 v. H.  
-des Bruttolohnes.  
-  
+von 25 Arbeitstagen    9,5 v. H. von 28 Arbeitstagen   10,6 v. H. von 30 Arbeitstagen   11,4 v. H. des Bruttolohnes.   
 
 Der zusätzliche Urlaubsanspruch für Schwerbehinderte entspricht einem Urlaubsentgelt von 0,38 v. H. des Bruttolohnes für jeden Urlaubstag, auf den der Schwerbehinderte Anspruch hat, und ist den Prozentsätzen des vorstehenden Absatzes hinzuzurechnen.
 
@@ -2719,8 +2660,7 @@ Dieser Rahmentarifvertrag tritt am 1. April 1992 in Kraft.
 
 Er kann mit einer Frist von 3 Monaten zum Monatsende schriftlich gekündigt werden.
 
-
-## Anlage 7 – (zu § 2 Absatz 3)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 9. September 2007
+# Anlage 7 – (zu § 2 Absatz 3)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 9. September 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 60 - 70)
 
@@ -2898,11 +2838,7 @@ Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, sind auf v
 
 2. Das Urlaubsentgelt beträgt bei einem Urlaubsanspruch  
   
-von 25 Arbeitstagen    9,5 v. H.  
-von 28 Arbeitstagen   10,6 v. H.  
-von 30 Arbeitstagen   11,4 v. H.  
-des Bruttolohnes.  
-  
+von 25 Arbeitstagen    9,5 v. H. von 28 Arbeitstagen   10,6 v. H. von 30 Arbeitstagen   11,4 v. H. des Bruttolohnes.   
 
 Der zusätzliche Urlaubsanspruch für Schwerbehinderte entspricht einem Urlaubsentgelt von 0,38 v. H. des Bruttolohnes für jeden Urlaubstag, auf den der Schwerbehinderte Anspruch hat, und ist den Prozentsätzen des vorstehenden Absatzes hinzuzurechnen.
 
@@ -3236,8 +3172,7 @@ Dieser Rahmentarifvertrag tritt am 1. April 1992 in Kraft.
 
 Er kann mit einer Frist von 3 Monaten zum Monatsende schriftlich gekündigt werden.
 
-
-## Anlage 8 – (zu § 2 Absatz 4)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 6. April 2005
+# Anlage 8 – (zu § 2 Absatz 4)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk vom 30. März 1992, zuletzt geändert durch Tarifvertrag vom 6. April 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 71 - 81)
 
@@ -3415,11 +3350,7 @@ Bruchteile von Urlaubstagen, die mindestens einen halben Tag ergeben, sind auf v
 
 2. Das Urlaubsentgelt beträgt bei einem Urlaubsanspruch  
   
-von 25 Arbeitstagen 9,5 v. H.  
-von 28 Arbeitstagen 10,6 v. H.  
-von 30 Arbeitstagen 11,4 v. H.  
-des Bruttolohnes.  
-  
+von 25 Arbeitstagen 9,5 v. H. von 28 Arbeitstagen 10,6 v. H. von 30 Arbeitstagen 11,4 v. H. des Bruttolohnes.   
 
 Der zusätzliche Urlaubsanspruch für Schwerbehinderte entspricht einem Urlaubsentgelt von 0,38 v. H. des Bruttolohnes für jeden Urlaubstag, auf den der Schwerbehinderte Anspruch hat, und ist den Prozentsätzen des vorstehenden Absatzes hinzuzurechnen.
 
@@ -3753,8 +3684,7 @@ Dieser Rahmentarifvertrag tritt am 1. April 1992 in Kraft.
 
 Er kann mit einer Frist von 3 Monaten zum Monatsende schriftlich gekündigt werden.
 
-
-## Anlage 9 – (zu § 3 Absatz 1)Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 30. Juni 2011
+# Anlage 9 – (zu § 3 Absatz 1)Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 30. Juni 2011
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 82 - 86)
 
@@ -3815,16 +3745,13 @@ Betriebsanschrift und Unterschrift.
 
 Die mit den Eintragungen versehene Lohnnachweiskarte ist dem Arbeitnehmer zusammen mit den übrigen Arbeitspapieren auszuhändigen.
 
-c) Besteht das Arbeitsverhältnis über den 31. Dezember des Jahres fort, hat der Arbeitgeber die Lohnnachweiskarte abzuschließen. Es sind die unter 3 b) genannten Eintragungen zu machen. Der Resturlaubsentgeltanspruch ist zu errechnen, einzutragen und zu bescheinigen.  
-Teil C der Lohnnachweiskarte ist unverzüglich an die Kasse zu senden. Teil B verbleibt zunächst beim Arbeitgeber.
+c) Besteht das Arbeitsverhältnis über den 31. Dezember des Jahres fort, hat der Arbeitgeber die Lohnnachweiskarte abzuschließen. Es sind die unter 3 b) genannten Eintragungen zu machen. Der Resturlaubsentgeltanspruch ist zu errechnen, einzutragen und zu bescheinigen. Teil C der Lohnnachweiskarte ist unverzüglich an die Kasse zu senden. Teil B verbleibt zunächst beim Arbeitgeber.
 
 d) Besteht das Arbeitsverhältnis nicht über den 31. Dezember des Jahres fort, hat der neue Arbeitgeber die Lohnnachweiskarte im folgenden Jahr – beim Wiedereintritt des Arbeitnehmers ins Maler- und Lackiererhandwerk, wie unter c) beschrieben – abzuschließen und die neue Lohnnachweiskarte anzufordern.
 
-e) Am Ende des Urlaubsjahres unverbrauchte Restansprüche auf Jahresurlaub, die im Rahmen des Kassenverfahrens zu verwirklichen sind, sind durch Übertragung der Restansprüche auf Urlaubsentgelt und zusätzliches Urlaubsgeld in die Lohnnachweiskarte des Folgejahres zu übertragen.  
-Nach Übertragung des Resturlaubentgeltanspruchs wie unter b) beschrieben, ist Teil B dem Arbeitnehmer auszuhändigen.
+e) Am Ende des Urlaubsjahres unverbrauchte Restansprüche auf Jahresurlaub, die im Rahmen des Kassenverfahrens zu verwirklichen sind, sind durch Übertragung der Restansprüche auf Urlaubsentgelt und zusätzliches Urlaubsgeld in die Lohnnachweiskarte des Folgejahres zu übertragen. Nach Übertragung des Resturlaubentgeltanspruchs wie unter b) beschrieben, ist Teil B dem Arbeitnehmer auszuhändigen.
 
-f) Der Pauschbetrag gemäß § 21 Nr. 5 a) bis e) des RTV Maler-Lackierer beträgt für jede volle Woche € 38,35.  
-Der Ausgleichsbetrag für die Fälle des § 14 RTV Maler-Lackierer beträgt € 7,67 für jeden Tag.
+f) Der Pauschbetrag gemäß § 21 Nr. 5 a) bis e) des RTV Maler-Lackierer beträgt für jede volle Woche € 38,35. Der Ausgleichsbetrag für die Fälle des § 14 RTV Maler-Lackierer beträgt € 7,67 für jeden Tag.
 
 4. a) Der Arbeitnehmer hat den Empfang der Lohnnachweiskarte bzw. des Teiles B zu bestätigen. Er hat die Eintragungen unverzüglich zu prüfen und Beanstandungen innerhalb von drei Monaten beim Arbeitgeber geltend zu machen. Die Lohnnachweiskarte ist bei Wiederaufnahme der Beschäftigung im Maler- und Lackiererhandwerk dem neuen Arbeitgeber vorzulegen. Teil B dient dem Arbeitnehmer als Nachweis von Ansprüchen aus seiner Tätigkeit im Maler- und Lackiererhandwerk gegen die Urlaubskasse/Zusatzversorgungskasse und ist deswegen sorgsam aufzubewahren.
 
@@ -3984,8 +3911,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kassen gegen Arbeitgeber un
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er ist mit einer Frist von drei Monaten zum Monatsende kündbar.
 
-
-## Anlage 10 – (zu § 3 Absatz 2) Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
+# Anlage 10 – (zu § 3 Absatz 2) Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005, zuletzt geändert durch Tarifvertrag vom 4. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 87 - 91)
 
@@ -4046,16 +3972,13 @@ Betriebsanschrift und Unterschrift.
 
 Die mit den Eintragungen versehene Lohnnachweiskarte ist dem Arbeitnehmer zusammen mit den übrigen Arbeitspapieren auszuhändigen.
 
-c) Besteht das Arbeitsverhältnis über den 31. Dezember des Jahres fort, hat der Arbeitgeber die Lohnnachweiskarte abzuschließen. Es sind die unter 3 b) genannten Eintragungen zu machen. Der Resturlaubsentgeltanspruch ist zu errechnen, einzutragen und zu bescheinigen.  
-Teil C der Lohnnachweiskarte ist unverzüglich an die Kasse zu senden. Teil B verbleibt zunächst beim Arbeitgeber.
+c) Besteht das Arbeitsverhältnis über den 31. Dezember des Jahres fort, hat der Arbeitgeber die Lohnnachweiskarte abzuschließen. Es sind die unter 3 b) genannten Eintragungen zu machen. Der Resturlaubsentgeltanspruch ist zu errechnen, einzutragen und zu bescheinigen. Teil C der Lohnnachweiskarte ist unverzüglich an die Kasse zu senden. Teil B verbleibt zunächst beim Arbeitgeber.
 
 d) Besteht das Arbeitsverhältnis nicht über den 31. Dezember des Jahres fort, hat der neue Arbeitgeber die Lohnnachweiskarte im folgenden Jahr – beim Wiedereintritt des Arbeitnehmers ins Maler- und Lackiererhandwerk, wie unter c) beschrieben – abzuschließen und die neue Lohnnachweiskarte anzufordern.
 
-e) Am Ende des Urlaubsjahres unverbrauchte Restansprüche auf Jahresurlaub, die im Rahmen des Kassenverfahrens zu verwirklichen sind, sind durch Übertragung der Restansprüche auf Urlaubsentgelt und zusätzliches Urlaubsgeld in die Lohnnachweiskarte des Folgejahres zu übertragen.  
-Nach Übertragung des Resturlaubentgeltanspruchs wie unter b) beschrieben, ist Teil B dem Arbeitnehmer auszuhändigen.
+e) Am Ende des Urlaubsjahres unverbrauchte Restansprüche auf Jahresurlaub, die im Rahmen des Kassenverfahrens zu verwirklichen sind, sind durch Übertragung der Restansprüche auf Urlaubsentgelt und zusätzliches Urlaubsgeld in die Lohnnachweiskarte des Folgejahres zu übertragen. Nach Übertragung des Resturlaubentgeltanspruchs wie unter b) beschrieben, ist Teil B dem Arbeitnehmer auszuhändigen.
 
-f) Der Pauschbetrag gemäß § 21 Nr. 5 a) bis e) des RTV Maler-Lackierer beträgt für jede volle Woche € 38,35.  
-Der Ausgleichsbetrag für die Fälle des § 14 RTV Maler-Lackierer beträgt € 7,67 für jeden Tag.
+f) Der Pauschbetrag gemäß § 21 Nr. 5 a) bis e) des RTV Maler-Lackierer beträgt für jede volle Woche € 38,35. Der Ausgleichsbetrag für die Fälle des § 14 RTV Maler-Lackierer beträgt € 7,67 für jeden Tag.
 
 4. a) Der Arbeitnehmer hat den Empfang der Lohnnachweiskarte bzw. des Teiles B zu bestätigen. Er hat die Eintragungen unverzüglich zu prüfen und Beanstandungen innerhalb von drei Monaten beim Arbeitgeber geltend zu machen. Die Lohnnachweiskarte ist bei Wiederaufnahme der Beschäftigung im Maler- und Lackiererhandwerk dem neuen Arbeitgeber vorzulegen. Teil B dient dem Arbeitnehmer als Nachweis von Ansprüchen aus seiner Tätigkeit im Maler- und Lackiererhandwerk gegen die Urlaubskasse/Zusatzversorgungskasse und ist deswegen sorgsam aufzubewahren.
 
@@ -4090,8 +4013,7 @@ a) Der Beitrag für die gewerblichen Arbeitnehmer beträgt 14,1 v. H. der Brutto
 b) Der Beitrag für die Zusatzversorgung der Angestellten beträgt:
 
 –  
-bis 31. Dezember 2004 monatlich 13,29 €.  
-Der Beitrag wird für jeden Monat fällig, in dem das Beschäftigungsverhältnis bestanden hat,
+bis 31. Dezember 2004 monatlich 13,29 €. Der Beitrag wird für jeden Monat fällig, in dem das Beschäftigungsverhältnis bestanden hat,
 
 –  
 ab 1. Januar 2005 2 v. H. des Bruttomonatsgehalts.
@@ -4206,8 +4128,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kassen gegen Arbeitgeber un
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er ist mit einer Frist von drei Monaten zum Monatsende kündbar.
 
-
-## Anlage 11 – (zu § 3 Absatz 3)Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
+# Anlage 11 – (zu § 3 Absatz 3)Tarifvertrag über das Verfahren für den Urlaub und die Zusatzversorgung im Maler- und Lackiererhandwerk vom 23. November 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 92 - 96)
 
@@ -4274,11 +4195,9 @@ Teil C der Lohnnachweiskarte ist unverzüglich an die Kasse zu senden. Teil B ve
 
 d) Besteht das Arbeitsverhältnis nicht über den 31. Dezember des Jahres fort, hat der neue Arbeitgeber die Lohnnachweiskarte im folgenden Jahr – beim Wiedereintritt des Arbeitnehmers ins Maler- und Lackiererhandwerk, wie unter c) beschrieben – abzuschließen und die neue Lohnnachweiskarte anzufordern.
 
-e) Am Ende des Urlaubsjahres unverbrauchte Restansprüche auf Jahresurlaub, die im Rahmen des Kassenverfahrens zu verwirklichen sind, sind durch Übertragung der Restansprüche auf Urlaubsentgelt und zusätzliches Urlaubsgeld in die Lohnnachweiskarte des Folgejahres zu übertragen.  
-Nach Übertragung des Resturlaubentgeltanspruchs wie unter b) beschrieben, ist Teil B dem Arbeitnehmer auszuhändigen.
+e) Am Ende des Urlaubsjahres unverbrauchte Restansprüche auf Jahresurlaub, die im Rahmen des Kassenverfahrens zu verwirklichen sind, sind durch Übertragung der Restansprüche auf Urlaubsentgelt und zusätzliches Urlaubsgeld in die Lohnnachweiskarte des Folgejahres zu übertragen. Nach Übertragung des Resturlaubentgeltanspruchs wie unter b) beschrieben, ist Teil B dem Arbeitnehmer auszuhändigen.
 
-f) Der Pauschbetrag gemäß § 21 Nr. 5 a) bis e) des RTV Maler-Lackierer beträgt für jede volle Woche € 38,35.  
-Der Ausgleichsbetrag für die Fälle des § 14 RTV Maler-Lackierer beträgt € 7,67 für jeden Tag.
+f) Der Pauschbetrag gemäß § 21 Nr. 5 a) bis e) des RTV Maler-Lackierer beträgt für jede volle Woche € 38,35. Der Ausgleichsbetrag für die Fälle des § 14 RTV Maler-Lackierer beträgt € 7,67 für jeden Tag.
 
 4. a) Der Arbeitnehmer hat den Empfang der Lohnnachweiskarte bzw. des Teiles B zu bestätigen. Er hat die Eintragungen unverzüglich zu prüfen und Beanstandungen innerhalb von drei Monaten beim Arbeitgeber geltend zu machen. Die Lohnnachweiskarte ist bei Wiederaufnahme der Beschäftigung im Maler- und Lackiererhandwerk dem neuen Arbeitgeber vorzulegen. Teil B dient dem Arbeitnehmer als Nachweis von Ansprüchen aus seiner Tätigkeit im Maler- und Lackiererhandwerk gegen die Urlaubskasse/Zusatzversorgungskasse und ist deswegen sorgsam aufzubewahren.
 
@@ -4292,8 +4211,7 @@ a) Für Angestellte, die bereits am Kassenverfahren teilgenommen haben, erfolgt 
 
 b) Für Angestellte, die erstmals am Verfahren für die Zusatzversorgung teilnehmen, hat der Arbeitgeber der Kasse die zur erstmaligen Ausstellung des Beschäftigungsnachweises notwendigen Angaben zu machen. Die Kasse stellt dann den Beschäftigungsnachweis zur Verfügung. Der Arbeitgeber hat die von der Kasse eingetragenen Arbeitnehmerdaten zu prüfen. Werden Fehler festgestellt, sind sie auf Teil A zu kennzeichnen. Der Beschäftigungsnachweis ist dann zur Berichtigung an die Kasse zurückzusenden.
 
-3. a) Bei Beendigung des Arbeitsverhältnisses hat der Arbeitgeber auf Teil C mit Durchschrift auf Teil B unter Angabe der Betriebsanschrift und der Betriebskontonummer die Dauer der Beschäftigung und die Höhe des während der Dauer der Beschäftigung im laufenden Jahr erzielten Bruttolohnes zu bescheinigen.  
-Der mit den Eintragungen versehene Beschäftigungsnachweis ist dem Angestellten zusammen mit den übrigen Arbeitspapieren auszuhändigen.
+3. a) Bei Beendigung des Arbeitsverhältnisses hat der Arbeitgeber auf Teil C mit Durchschrift auf Teil B unter Angabe der Betriebsanschrift und der Betriebskontonummer die Dauer der Beschäftigung und die Höhe des während der Dauer der Beschäftigung im laufenden Jahr erzielten Bruttolohnes zu bescheinigen. Der mit den Eintragungen versehene Beschäftigungsnachweis ist dem Angestellten zusammen mit den übrigen Arbeitspapieren auszuhändigen.
 
 b) Besteht das Arbeitsverhältnis über den 31. Dezember des Jahres fort, hat der Arbeitgeber die Dauer der Beschäftigung am Jahresende auf Teil C mit Durchschrift auf Teil B zu bescheinigen. Der Arbeitgeber hat unverzüglich den Teil C der Urlaubskasse/Zusatzversorgungskasse einzusenden und den Teil B dem Angestellten auszuhändigen.
 
@@ -4423,8 +4341,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kassen gegen Arbeitgeber un
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er ist mit einer Frist von drei Monaten zum Monatsende kündbar.
 
-
-## Anlage 12 – (zu § 4 Absatz 1)Tarifvertrag über eine Altersversorgung für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
+# Anlage 12 – (zu § 4 Absatz 1)Tarifvertrag über eine Altersversorgung für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 97 - 104)
 
@@ -4708,16 +4625,10 @@ Zu Abschnitt II:
 Zu Abschnitt III:
 
 1. Die Beihilfen betragen nach einer Wartezeit von  
- 90 Monaten      50 v. H.  
-150 Monaten     75 v. H.  
-240 Monaten   100 v. H.  
-der in Nr. 1 und 2 festgelegten Beihilfehöhen.
+ 90 Monaten      50 v. H. 150 Monaten     75 v. H. 240 Monaten   100 v. H. der in Nr. 1 und 2 festgelegten Beihilfehöhen.
 
 2. Das Sterbegeld beträgt nach einer Wartezeit von  
- 24 Monaten      50 v. H.  
-150 Monaten     75 v. H.  
-240 Monaten   100 v. H.  
-des in Nr. 5 festgelegten Betrages.
+ 24 Monaten      50 v. H. 150 Monaten     75 v. H. 240 Monaten   100 v. H. des in Nr. 5 festgelegten Betrages.
 
 Zu Abschnitt V (Unverfallbarkeitsregelung)
 
@@ -4765,8 +4676,7 @@ Ist eine Einigung nicht zu erzielen, so kann jede der Tarifvertragsparteien das 
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 13 – (zu § 4 Absatz 2)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 22. Juni 2009
+# Anlage 13 – (zu § 4 Absatz 2)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 22. Juni 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 105 - 111)
 
@@ -5046,16 +4956,10 @@ Zu Abschnitt II:
 Zu Abschnitt III:
 
 1. Die Beihilfen betragen nach einer Wartezeit von  
- 90 Monaten     50 v. H.  
-150 Monaten    75 v. H.  
-240 Monaten  100 v. H.  
-der in Nr. 1 und 2 festgelegten Beihilfehöhen.
+ 90 Monaten     50 v. H. 150 Monaten    75 v. H. 240 Monaten  100 v. H. der in Nr. 1 und 2 festgelegten Beihilfehöhen.
 
 2. Das Sterbegeld beträgt nach einer Wartezeit von  
- 24 Monaten     50 v. H.  
-150 Monaten    75 v. H.  
-240 Monaten  100 v. H.  
-des in Nr. 5 festgelegten Betrages.
+ 24 Monaten     50 v. H. 150 Monaten    75 v. H. 240 Monaten  100 v. H. des in Nr. 5 festgelegten Betrages.
 
 Zu Abschnitt V (Unverfallbarkeitsregelung)
 
@@ -5079,8 +4983,7 @@ Ist eine Einigung nicht zu erzielen, so kann jede der Tarifvertragsparteien das 
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 14 – (zu § 4 Absatz 3)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+# Anlage 14 – (zu § 4 Absatz 3)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 26. August 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 112 - 117)
 
@@ -5357,16 +5260,10 @@ Zu Abschnitt II:
 Zu Abschnitt III:
 
 1. Die Beihilfen betragen nach einer Wartezeit von  
- 90 Monaten     50 v. H.  
-150 Monaten    75 v. H.  
-240 Monaten  100 v. H.  
-der in Nr. 1 und 2 festgelegten Beihilfehöhen.
+ 90 Monaten     50 v. H. 150 Monaten    75 v. H. 240 Monaten  100 v. H. der in Nr. 1 und 2 festgelegten Beihilfehöhen.
 
 2. Das Sterbegeld beträgt nach einer Wartezeit von  
- 24 Monaten     50 v. H.  
-150 Monaten    75 v. H.  
-240 Monaten  100 v. H.  
-des in Nr. 5 festgelegten Betrages.
+ 24 Monaten     50 v. H. 150 Monaten    75 v. H. 240 Monaten  100 v. H. des in Nr. 5 festgelegten Betrages.
 
 Zu Abschnitt V (Unverfallbarkeitsregelung)
 
@@ -5390,8 +5287,7 @@ Ist eine Einigung nicht zu erzielen, so kann jede der Tarifvertragsparteien das 
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 15 – (zu § 4 Absatz 4)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 20. Juni 2005
+# Anlage 15 – (zu § 4 Absatz 4)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 7. Juli 1978, zuletzt geändert durch Tarifvertrag vom 20. Juni 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 118 - 124)
 
@@ -5678,16 +5574,10 @@ Zu Abschnitt II:
 Zu Abschnitt III:
 
 1. Die Beihilfen betragen nach einer Wartezeit von  
- 90 Monaten     50 v. H.  
-150 Monaten    75 v. H.  
-240 Monaten  100 v. H.  
-der in Nr. 1 und 2 festgelegten Beihilfehöhen.
+ 90 Monaten     50 v. H. 150 Monaten    75 v. H. 240 Monaten  100 v. H. der in Nr. 1 und 2 festgelegten Beihilfehöhen.
 
 2. Das Sterbegeld beträgt nach einer Wartezeit von  
- 24 Monaten     50 v. H.  
-150 Monaten    75 v. H.  
-240 Monaten  100 v. H.  
-des in Nr. 5 festgelegten Betrages.
+ 24 Monaten     50 v. H. 150 Monaten    75 v. H. 240 Monaten  100 v. H. des in Nr. 5 festgelegten Betrages.
 
 Zu Abschnitt V:
 
@@ -5711,8 +5601,7 @@ Ist eine Einigung nicht zu erzielen, so kann jede der Tarifvertragsparteien das 
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 16 – (zu § 5 Absatz 1)Tarifvertrag über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977, zuletzt geändert durch Tarifvertrag vom 19. Juni 2013
+# Anlage 16 – (zu § 5 Absatz 1)Tarifvertrag über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977, zuletzt geändert durch Tarifvertrag vom 19. Juni 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 125 - 126)
 
@@ -5771,8 +5660,7 @@ Soweit die vorstehenden Bestimmungen technische Verfahrensvorschriften beinhalte
 
 Dieser Tarifvertrag tritt am 1. Januar 1977 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Dezember, erstmalig zum 31. Dezember 1979, gekündigt werden.
 
-
-## Anlage 17 – (zu § 5 Absatz 2)Tarifvertrag über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977, zuletzt geändert durch Tarifvertrag vom 30. September 2002
+# Anlage 17 – (zu § 5 Absatz 2)Tarifvertrag über eine ergänzende überbetriebliche Alters- und Invalidenbeihilfe im Dachdeckerhandwerk vom 8. März 1977, zuletzt geändert durch Tarifvertrag vom 30. September 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 127 - 128)
 
@@ -5835,8 +5723,7 @@ Soweit die vorstehenden Bestimmungen technische Verfahrensvorschriften beinhalte
 
 Dieser Tarifvertrag tritt am 1. Januar 1977 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Dezember, erstmalig zum 31. Dezember 1979, gekündigt werden.
 
-
-## Anlage 18 – (zu § 6 Absatz 1)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 7. September 2012
+# Anlage 18 – (zu § 6 Absatz 1)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 7. September 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 129 - 130)
 
@@ -5884,8 +5771,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche aus diesem Tarifvertrag gegen d
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er kann mit einer Frist von drei Monaten, erstmalig zum 31. Dezember 2008, danach jeweils zum 31. Dezember gekündigt werden. Für den Fall der Aufhebung, wesentlichen Änderung oder Ergänzung der Saison-Kurzarbeiterregelung des Dritten Buchs Sozialgesetzbuch, kann dieser Tarifvertrag ohne Einhaltung einer Kündigungsfrist, jeweils zum Monatsende gekündigt werden.
 
-
-## Anlage 19 – (zu § 6 Absatz 2)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 31. August 2011
+# Anlage 19 – (zu § 6 Absatz 2)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 31. August 2011
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 131 - 132)
 
@@ -5933,8 +5819,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche aus diesem Tarifvertrag gegen d
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er kann mit einer Frist von drei Monaten, erstmalig zum 31. Dezember 2008, danach jeweils zum 31. Dezember gekündigt werden. Für den Fall der Aufhebung, wesentlichen Änderung oder Ergänzung der Saison-Kurzarbeiterregelung des Dritten Buchs Sozialgesetzbuch, kann dieser Tarifvertrag ohne Einhaltung einer Kündigungsfrist, jeweils zum Monatsende gekündigt werden.
 
-
-## Anlage 20 – (zu § 6 Absatz 3)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+# Anlage 20 – (zu § 6 Absatz 3)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 26. August 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 133 - 134)
 
@@ -5982,8 +5867,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche aus diesem Tarifvertrag gegen d
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er kann mit einer Frist von drei Monaten, erstmalig zum 31. Dezember 2008, danach jeweils zum 31. Dezember gekündigt werden. Für den Fall der Aufhebung, wesentlichen Änderung oder Ergänzung der Saison-Kurzarbeiterregelung des Dritten Buchs Sozialgesetzbuch, kann dieser Tarifvertrag ohne Einhaltung einer Kündigungsfrist, jeweils zum Monatsende gekündigt werden.
 
-
-## Anlage 21 – (zu § 6 Absatz 4)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 13. Juli 2006
+# Anlage 21 – (zu § 6 Absatz 4)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Dachdeckerhandwerk während der Winterperiode (TV Beschäftigungssicherung) vom 5. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 13. Juli 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 135 - 136)
 
@@ -6033,8 +5917,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche aus diesem Tarifvertrag gegen d
 
 Dieser Tarifvertrag tritt am 1. Januar 2006 in Kraft. Er kann mit einer Frist von drei Monaten, erstmalig zum 31. Dezember 2008, danach jeweils zum 31. Dezember gekündigt werden. Für den Fall der Aufhebung, wesentlichen Änderung oder Ergänzung der Saison-Kurzarbeiterregelung des Dritten Buchs Sozialgesetzbuch, kann dieser Tarifvertrag ohne Einhaltung einer Kündigungsfrist, jeweils zum Monatsende gekündigt werden.
 
-
-## Anlage 22 – (zu § 7 Absatz 1)Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 7. September 2012
+# Anlage 22 – (zu § 7 Absatz 1)Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 7. September 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 137 - 139)
 
@@ -6106,8 +5989,7 @@ Erfüllungsort und Gerichtsstand ist der Sitz der Kasse.
 
 2. Ist dieser Tarifvertrag gekündigt worden, so bleibt er auch für neu abgeschlossene Beschäftigungsverhältnisse solange in Kraft, bis sich die Tarifvertragsparteien auf einen neuen Tarifvertrag geeinigt haben.
 
-
-## Anlage 23 – (zu § 7 Absatz 2)Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
+# Anlage 23 – (zu § 7 Absatz 2)Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 140 - 142)
 
@@ -6179,8 +6061,7 @@ Erfüllungsort und Gerichtsstand ist der Sitz der Kasse.
 
 2. Ist dieser Tarifvertrag gekündigt worden, so bleibt er auch für neu abgeschlossene Beschäftigungsverhältnisse solange in Kraft, bis sich die Tarifvertragsparteien auf einen neuen Tarifvertrag geeinigt haben.
 
-
-## Anlage 24 – (zu § 7 Absatz 3)Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 21. August 2003
+# Anlage 24 – (zu § 7 Absatz 3)Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens für gewerbliche Arbeitnehmer im Dachdeckerhandwerk vom 12. Juni 1992, zuletzt geändert durch Tarifvertrag vom 21. August 2003
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 143 - 145)
 
@@ -6252,8 +6133,7 @@ Erfüllungsort und Gerichtsstand ist der Sitz der Kasse.
 
 3. Der Tarifvertrag über die Gewährung eines Teiles eines 13. Monatseinkommens im Dachdeckerhandwerk vom 27. November 1990 in der Fassung vom 18. März 1991 wird für die Zeit vom 1. Januar 1992 bis zum 30. Juni 1992 wieder in Kraft gesetzt.
 
-
-## Anlage 25 – (zu § 8 Absatz 1)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012, geändert durch Tarifvertrag vom 7. September 2012
+# Anlage 25 – (zu § 8 Absatz 1)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012, geändert durch Tarifvertrag vom 7. September 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 146 - 151)
 
@@ -6459,8 +6339,7 @@ Die Tarifvertragsparteien verpflichten sich, auch vor Ende der Laufdauer dieses 
 
 Dieser Tarifvertrag tritt am 1. August 2012 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende gekündigt werden, erstmals zum 31. Dezember 2015.
 
-
-## Anlage 26 – (zu § 8 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012
+# Anlage 26 – (zu § 8 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 19. Juni 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 152 - 157)
 
@@ -6675,8 +6554,7 @@ Die Arbeitgeber haben die zur Finanzierung der Erstattungsleistung nach diesem T
 
 Als Erfüllungsort und Gerichtsstand für Ansprüche der LAK gegen Arbeitgeber und Ausbildungsstätten sowie für Ansprüche der Arbeitgeber und Ausbildungsstätten gegen die LAK ist Wiesbaden.
 
-
-## Anlage 27 – (zu § 8 Absatz 3)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 31. August 2011
+# Anlage 27 – (zu § 8 Absatz 3)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 31. August 2011
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 158 - 161)
 
@@ -6833,8 +6711,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1990 in Kraft.
 
 Der Vertrag ist mit sechsmonatiger Frist zum Jahresende kündbar, erstmals zum 31. Dezember 1990.
 
-
-## Anlage 28 – (zu § 8 Absatz 4)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+# Anlage 28 – (zu § 8 Absatz 4)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 26. August 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 162 - 165)
 
@@ -6991,8 +6868,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1990 in Kraft.
 
 Der Vertrag ist mit sechsmonatiger Frist zum Jahresende kündbar, erstmals zum 31. Dezember 1990.
 
-
-## Anlage 29 – (zu § 8 Absatz 5)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 29. November 2007
+# Anlage 29 – (zu § 8 Absatz 5)Auszug aus dem Tarifvertrag über die Berufsbildung im Dachdeckerhandwerk vom 8. November 1989, zuletzt geändert durch Tarifvertrag vom 29. November 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 166 - 169)
 
@@ -7149,8 +7025,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1990 in Kraft.
 
 Der Vertrag ist mit sechsmonatiger Frist zum Jahresende kündbar, erstmals zum 31. Dezember 1990.
 
-
-## Anlage 30 – (zu § 8 Absatz 6)Tarifvertrag über das Erstattungsverfahren für die Berufsbildung im Dachdeckerhandwerk vom 4. Oktober 1978, zuletzt geändert durch Tarifvertrag vom 29. August 2001
+# Anlage 30 – (zu § 8 Absatz 6)Tarifvertrag über das Erstattungsverfahren für die Berufsbildung im Dachdeckerhandwerk vom 4. Oktober 1978, zuletzt geändert durch Tarifvertrag vom 29. August 2001
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 170 - 171)
 
@@ -7202,8 +7077,7 @@ Dieser Tarifvertrag tritt am 1. Juli 1979 in Kraft.
 
 Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmalig zum 31. Dezember 1980, gekündigt werden.
 
-
-## Anlage 31 – (zu § 9 Absatz 1)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 7. September 2012
+# Anlage 31 – (zu § 9 Absatz 1)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 7. September 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 172 - 177)
 
@@ -7328,13 +7202,10 @@ in der jeweils geltenden Fassung ergibt.
 
 Der Beitrag beträgt  
 a) in den alten Bundesländern 6,7 v. H.,  
-ab 1. Januar 2013 7,5 v. H.  
-ab 1. Oktober 2013 8,5 v. H.
+ab 1. Januar 2013 7,5 v. H. ab 1. Oktober 2013 8,5 v. H.
 
 b) in den neuen Bundesländern 6,35 v. H.,  
-ab 1. Januar 2013 7,15 v. H.  
-ab 1. Oktober 2013 8,15 v. H.  
-der Bruttolohnsumme.
+ab 1. Januar 2013 7,15 v. H. ab 1. Oktober 2013 8,15 v. H. der Bruttolohnsumme.
 
 2. Der Kasse (Einzugsstelle) sind monatlich – spätestens zum 15. des Folgemonats – auf einem Formblatt die Bruttolöhne und die abgerechneten lohn- bzw. lohnersatzzahlungspflichtigen Stunden für jeden vom Tarifvertrag erfassten Arbeitnehmer einzeln zu melden. Werden in dem Betrieb Arbeitszeitkonten vereinbart, sind zusätzlich der Stand des Arbeitszeitkontos zum Monatsultimo in Stunden nebst dem sich hieraus ergebenden Bruttolohn zu melden.
 
@@ -7412,8 +7283,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kasse gegen Arbeitgeber und
 
 Dieser Tarifvertrag tritt am 1. Januar 1996 in Kraft. Er kann mit einer Frist von sechs Monaten, erstmalig zum 31. Dezember 1997, gekündigt werden.
 
-
-## Anlage 32 – (zu § 9 Absatz 2)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 31. August 2011
+# Anlage 32 – (zu § 9 Absatz 2)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 31. August 2011
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 178 - 183)
 
@@ -7453,8 +7323,7 @@ Die Beschäftigungsnachweiskarte besteht aus den Teilen B und C und gehört zu d
 
 Bruttolohn ist  
 a) der für die Berechnung der Lohnsteuer zugrunde zulegende und in die Lohnsteuerkarte oder die Lohnsteuerbescheinigung einzutragende Bruttoarbeitslohn einschließlich der Sachbezüge, die nicht pauschal nach § 40 EStG versteuert werden,  
-b) der nach §§ 40a und 40b EStG pauschal zu versteuernde Bruttoarbeitslohn mit Ausnahme des Beitrages für die Tarifliche Zusatzversorgung der Arbeitnehmer (§ 4 des Tarifvertrages über eine Altersversorgung für gewerbliche Arbeitnehmer im Dachdeckerhandwerk), des Beitrages für die Tarifliche Zusatzversorgung der Dienstpflichtigen (§ 5 Nr. 1 des Tarifvertrages über das Verfahren für die Zusatzversorgung der Dienstpflichtigen im Dachdeckerhandwerk), des Arbeitgeberbeitrages zur Finanzierung der Tariflichen Zusatz-Rente (§ 2 Abs. 1 bis 5 des Tarifvertrages über eine Tarifliche Zusatz-Rente im Dachdeckerhandwerk) sowie des Beitrages zu einer Gruppen-Unfallversicherung.  
-c) der nach § 3 Nr. 39 EStG bei geringfügiger Beschäftigung steuerfreie Bruttoarbeitslohn.
+b) der nach §§ 40a und 40b EStG pauschal zu versteuernde Bruttoarbeitslohn mit Ausnahme des Beitrages für die Tarifliche Zusatzversorgung der Arbeitnehmer (§ 4 des Tarifvertrages über eine Altersversorgung für gewerbliche Arbeitnehmer im Dachdeckerhandwerk), des Beitrages für die Tarifliche Zusatzversorgung der Dienstpflichtigen (§ 5 Nr. 1 des Tarifvertrages über das Verfahren für die Zusatzversorgung der Dienstpflichtigen im Dachdeckerhandwerk), des Arbeitgeberbeitrages zur Finanzierung der Tariflichen Zusatz-Rente (§ 2 Abs. 1 bis 5 des Tarifvertrages über eine Tarifliche Zusatz-Rente im Dachdeckerhandwerk) sowie des Beitrages zu einer Gruppen-Unfallversicherung. c) der nach § 3 Nr. 39 EStG bei geringfügiger Beschäftigung steuerfreie Bruttoarbeitslohn.
 
 5. Bei der Fortdauer des Beschäftigungsverhältnisses über den 31. Dezember des Kalenderjahres hinaus hat der Arbeitgeber den Teil B für das Erstattungsverfahren (§ 8) einzubehalten und Teil C bis zum 15. März dem Arbeitnehmer auszuhändigen.
 
@@ -7615,8 +7484,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kasse gegen Arbeitgeber und
 
 Dieser Tarifvertrag tritt am 1. Januar 1996 in Kraft. Er kann mit einer Frist von sechs Monaten, erstmalig zum 31. Dezember 1997, gekündigt werden.
 
-
-## Anlage 33 – (zu § 9 Absatz 3)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
+# Anlage 33 – (zu § 9 Absatz 3)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 15. Juli 2010
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 184 - 189)
 
@@ -7822,8 +7690,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kasse gegen Arbeitgeber und
 
 Dieser Tarifvertrag tritt am 1. Januar 1996 in Kraft. Er kann mit einer Frist von sechs Monaten, erstmalig zum 31. Dezember 1997, gekündigt werden.
 
-
-## Anlage 34 – (zu § 9 Absatz 4)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+# Anlage 34 – (zu § 9 Absatz 4)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 26. August 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 190 - 194)
 
@@ -8016,8 +7883,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kasse gegen Arbeitgeber und
 
 Dieser Tarifvertrag tritt am 1. Januar 1996 in Kraft. Er kann mit einer Frist von sechs Monaten, erstmalig zum 31. Dezember 1997, gekündigt werden.
 
-
-## Anlage 35 – (zu § 9 Absatz 5)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 13. Juli 2006
+# Anlage 35 – (zu § 9 Absatz 5)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 13. Juli 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 195 - 199)
 
@@ -8210,8 +8076,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kasse gegen Arbeitgeber und
 
 Dieser Tarifvertrag tritt am 1. Januar 1996 in Kraft. Er kann mit einer Frist von sechs Monaten, erstmalig zum 31. Dezember 1997, gekündigt werden.
 
-
-## Anlage 36 – (zu § 9 Absatz 6)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 21. August 2003
+# Anlage 36 – (zu § 9 Absatz 6)Tarifvertrag über die Sozialkassenverfahren im Dachdeckerhandwerk vom 6. Dezember 1995, zuletzt geändert durch Tarifvertrag vom 21. August 2003
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 200 - 205)
 
@@ -8441,8 +8306,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Kasse gegen Arbeitgeber und
 
 Dieser Tarifvertrag tritt am 1. Januar 1996 in Kraft. Er kann mit einer Frist von sechs Monaten, erstmalig zum 31. Dezember 1997, gekündigt werden.
 
-
-## Anlage 37 – (zu § 10 Absatz 1)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 19. Juni 2013
+# Anlage 37 – (zu § 10 Absatz 1)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 19. Juni 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 206 - 215)
 
@@ -8832,8 +8696,7 @@ Arbeitnehmer, die nach erfüllter Wartezeit in der zweiten Hälfte des Urlaubsja
 
 3. Die Lohnausgleichskasse für das Dachdeckerhandwerk teilt dem Arbeitgeber in den Fällen der Ziffern 1 und 2 den für seine jeweiligen gewerblichen Arbeitnehmer maßgebenden Durchschnittsstundenlohn schriftlich mit. Dieser mitgeteilte Durchschnittsstundenlohn ist für die Berechnung der Urlaubsvergütung des gesamten Kalenderjahres maßgebend.
 
-4. Steht im Berechnungszeitraum nicht mindestens ein voller Lohnabrechnungszeitraum zur Verfügung, so wird anstelle des Bruttodurchschnittsstundenlohnes der zum Zeitpunkt des Urlaubsantritts aktuelle Stundenlohn, mindestens jedoch der geltende Mindestlohn, zur Berechnung durch den Arbeitgeber verwendet.  
-  
+4. Steht im Berechnungszeitraum nicht mindestens ein voller Lohnabrechnungszeitraum zur Verfügung, so wird anstelle des Bruttodurchschnittsstundenlohnes der zum Zeitpunkt des Urlaubsantritts aktuelle Stundenlohn, mindestens jedoch der geltende Mindestlohn, zur Berechnung durch den Arbeitgeber verwendet.   
 
 Der Arbeitnehmer hat gegen den Arbeitgeber Anspruch auf Zahlung eines zusätzlichen Urlaubsgeldes in Höhe von 25 % des Urlaubsentgelts nach § 43.
 
@@ -8871,8 +8734,7 @@ Im Übrigen bleibt der Freistellungsanspruch gemäß § 629 BGB unberührt.
 
 Dieser Rahmentarifvertrag tritt am 1. Januar 1991 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Mai, erstmals zum 31. August 2010 schriftlich gekündigt werden. Nach diesem Datum beträgt die Kündigungsfrist einen Monat zum Monatsende.
 
-
-## Anlage 38 – (zu § 10 Absatz 2)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 8. November 2012
+# Anlage 38 – (zu § 10 Absatz 2)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 8. November 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 216 - 225)
 
@@ -9291,8 +9153,7 @@ Im Übrigen bleibt der Freistellungsanspruch gemäß § 629 BGB unberührt.
 
 Dieser Rahmentarifvertrag tritt am 1. Januar 1991 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Mai, erstmals zum 31. August 2010 schriftlich gekündigt werden. Nach diesem Datum beträgt die Kündigungsfrist einen Monat zum Monatsende.
 
-
-## Anlage 39 – (zu § 10 Absatz 3)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 26. August 2008
+# Anlage 39 – (zu § 10 Absatz 3)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 26. August 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 226 - 236)
 
@@ -9719,8 +9580,7 @@ Im Übrigen bleibt der Freistellungsanspruch gemäß § 629 BGB unberührt.
 
 Dieser Rahmentarifvertrag tritt am 1. Januar 1991 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Mai, erstmals zum 31. August 2010 schriftlich gekündigt werden. Nach diesem Datum beträgt die Kündigungsfrist einen Monat zum Monatsende.
 
-
-## Anlage 40 – (zu § 10 Absatz 4)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 27. November 2006
+# Anlage 40 – (zu § 10 Absatz 4)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 27. November 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 237 - 247)
 
@@ -10160,8 +10020,7 @@ Im Übrigen bleibt der Freistellungsanspruch gemäß § 629 BGB unberührt.
 
 Dieser Rahmentarifvertrag tritt am 1. Januar 1991 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Mai, erstmals zum 31. Mai 2007 gekündigt werden. Nach diesem Datum beträgt die Kündigungsfrist einen Monat zum Monatsende.
 
-
-## Anlage 41 – (zu § 10 Absatz 5)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 22. Mai 2002
+# Anlage 41 – (zu § 10 Absatz 5)Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 22. Mai 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 248 - 259)
 
@@ -10642,8 +10501,7 @@ Im Übrigen bleibt der Freistellungsanspruch gemäß § 629 BGB unberührt.
 
 Dieser Rahmentarifvertrag tritt am 1. Januar 1991 in Kraft. Er kann mit einer Frist von drei Monaten jeweils zum 31. Mai, erstmals zum 31. Mai 2007 gekündigt werden.
 
-
-## Anlage 42 – (zu § 11)Tarifvertrag über die überbetriebliche Zusatzversorgung im Gerüstbaugewerbe vom 21. September 1987, zuletzt geändert durch Tarifvertrag vom 16. Januar 1998
+# Anlage 42 – (zu § 11)Tarifvertrag über die überbetriebliche Zusatzversorgung im Gerüstbaugewerbe vom 21. September 1987, zuletzt geändert durch Tarifvertrag vom 16. Januar 1998
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 260 - 265)
 
@@ -10710,8 +10568,7 @@ b) eine einmalige Hinterbliebenenbeihilfe (Voll- oder unverfallbare Teilbeihilf
 a) einen Tatbestand, der gegenüber einem gesetzlichen Renten- oder Unfallversicherungsträger einen Rentenanspruch gemäß § 4 Abs. 1 begründet, und  
 b) die Mindestdauer der Wartezeit von 216 Monaten erfüllt, sofern der Arbeitnehmer  
 c) innerhalb der letzten neun Jahre vor diesem Zeitpunkt oder vor Eintritt der Gerüstbauuntauglichkeit (§ 8 Abs. 8) oder  
-– als gewerblicher Arbeitnehmer nach Vollendung des 36. Lebensjahres bzw.  
-– als Angestellter nach Vollendung des 54. Lebensjahres  
+– als gewerblicher Arbeitnehmer nach Vollendung des 36. Lebensjahres bzw. – als Angestellter nach Vollendung des 54. Lebensjahres  
 wenigstens 60 Monate Wartezeit erreicht hat.
 
 (2) Entsteht infolge eines durch den zuständigen gesetzlichen Unfallversicherungsträger anerkannten Arbeitsunfalles im Gerüstbaugewerbe oder infolge einer von ihm anerkannten Berufskrankheit im Gerüstbaugewerbe ein Rentenanspruch gemäß § 4 Abs. 1, so tritt der Versicherungsfall auch dann ein, wenn die Voraussetzungen des Abs. 1 Buchst. b) und c) nicht erfüllt sind.
@@ -10830,8 +10687,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Voraussetzung für das Inkrafttreten dieses Tarifvertrages im Beitrittsgebiet ist, dass die Allgemeinverbindlicherklärung mit Wirkung vom 1. Februar 1998 ausgesprochen wird.
 
-
-## Anlage 43 – (zu § 12 Absatz 1)Auszug aus dem Rahmentarifvertrag für das Gerüstbauerhandwerk vom 27. Juli 1993, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+# Anlage 43 – (zu § 12 Absatz 1)Auszug aus dem Rahmentarifvertrag für das Gerüstbauerhandwerk vom 27. Juli 1993, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 266 - 273)
 
@@ -11158,8 +11014,7 @@ Das tarifliche 13. Monatseinkommen kann auf betrieblich gewährtes Weihnachtsgel
 
 2. Der Tarifvertrag ist jeweils mit sechsmonatiger Frist zum 31. Dezember, erstmalig zum 31. Dezember 2006 kündbar.
 
-
-## Anlage 44 – (zu § 13)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Gerüstbauerhandwerk während der Winterperiode vom 15. August 1983, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+# Anlage 44 – (zu § 13)Tarifvertrag zur Förderung der Aufrechterhaltung der Beschäftigungsverhältnisse im Gerüstbauerhandwerk während der Winterperiode vom 15. August 1983, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 274 - 277)
 
@@ -11249,8 +11104,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 (2) Die Tarifvertragsparteien verpflichten sich, nach Kündigung unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anhang – zu Anlage 44 (zu § 4 Absatz 2 der Anlage 44)
+# Anhang – zu Anlage 44 (zu § 4 Absatz 2 der Anlage 44)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 277)
 
@@ -11295,8 +11149,7 @@ Tarifbereich West = Bundesländer Baden-Württemberg, Bayern, Bremen, Hamburg, H
 
 Tarifbereich Ost = Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen, ab 1. August 2011 inkl. Berlin
 
-
-## Anlage 45 – (zu § 14)Auszug aus dem Tarifvertrag über die Berufsbildung im Gerüstbauerhandwerk vom 3. Dezember 1996, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+# Anlage 45 – (zu § 14)Auszug aus dem Tarifvertrag über die Berufsbildung im Gerüstbauerhandwerk vom 3. Dezember 1996, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 278 - 283)
 
@@ -11462,8 +11315,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Dieser Tarifvertrag tritt am 1. Januar 1997 in Kraft. Er kann mit einer Frist von sechs Monaten zum 30. Juni, erstmals zum 30. Juni 2006, gekündigt werden.
 
-
-## Anhang – zu Anlage 45 (zu § 12 Absatz 1 der Anlage 45)
+# Anhang – zu Anlage 45 (zu § 12 Absatz 1 der Anlage 45)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 284)
 
@@ -11482,8 +11334,7 @@ West = Bundesländer Baden-Württemberg, Bayern, Berlin, Bremen, Hamburg, Hessen
 
 Ost = Bundesländer Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen
 
-
-## Anlage 46 – (zu § 15 Absatz 1)Tarifvertrag über das Sozialkassenverfahren im Gerüstbauerhandwerk vom 20. Januar 1994, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
+# Anlage 46 – (zu § 15 Absatz 1)Tarifvertrag über das Sozialkassenverfahren im Gerüstbauerhandwerk vom 20. Januar 1994, zuletzt geändert durch Tarifvertrag vom 11. Juni 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 285 - 292)
 
@@ -11733,8 +11584,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Dieser Tarifvertrag tritt am 1. Januar 1994 in Kraft. Er ist kündbar mit sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2006.
 
-
-## Anlage 47 – (zu § 16 Absatz 1)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 10. Juli 2009
+# Anlage 47 – (zu § 16 Absatz 1)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 10. Juli 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 293 - 299)
 
@@ -11978,11 +11828,7 @@ V. Begrenzung und Wegfall des Leistungsanspruchs
 § 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3 gelten entsprechend.
 
 Die Höhe des unverfallbaren Teils der Beihilfe und des Sterbegeldes beträgt nach Zurücklegung einer Wartezeit (§ 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3)  
-von mindestens  5 Jahren   10 v. H.  
-von mindestens 10 Jahren   20 v. H.  
-von mindestens 20 Jahren   50 v. H.  
-von mindestens 30 Jahren   80 v. H.  
-der vollen Leistungshöhe gemäß § 5 Abschnitt III.
+von mindestens  5 Jahren   10 v. H. von mindestens 10 Jahren   20 v. H. von mindestens 20 Jahren   50 v. H. von mindestens 30 Jahren   80 v. H. der vollen Leistungshöhe gemäß § 5 Abschnitt III.
 
 Im Beitrittsgebiet gemäß Artikel 3 des Einigungsvertrages vom 31. August 1990 entstehen unverfallbare Anwartschaften nach Absatz 1 nur bei einem Ausscheiden des Versicherten aus dem persönlichen/betrieblichen Geltungsbereich nach dem 30. Juni 1997.
 
@@ -12064,8 +11910,7 @@ Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmalig zum 31. Dezember
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 48 – (zu § 16 Absatz 2)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
+# Anlage 48 – (zu § 16 Absatz 2)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 300 - 305)
 
@@ -12273,8 +12118,7 @@ b) für Beihilfen zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallre
 
 in der Zeit vom 1. Januar 2001 bis 31. Dezember 2003  
 a) für Beihilfen zum Altersruhegeld € 69,02 monatlich  
-b) für Beihilfen zur Rente zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallrente € 51,13 monatlich.  
-5. Die Höhe und Laufzeit der Ergänzungsbeihilfe (§ 5 Abschnitt I Nr. 1 e) wird von der Mitgliederversammlung festgelegt.
+b) für Beihilfen zur Rente zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallrente € 51,13 monatlich. 5. Die Höhe und Laufzeit der Ergänzungsbeihilfe (§ 5 Abschnitt I Nr. 1 e) wird von der Mitgliederversammlung festgelegt.
 
 6. Das Sterbegeld beträgt € 512,00.
 
@@ -12305,11 +12149,7 @@ b) eine Zugehörigkeit zu Betrieben des Steinmetz- und Steinbildhauerhandwerks 
 § 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3 gelten entsprechend.
 
 Die Höhe des unverfallbaren Teils der Beihilfe und des Sterbegeldes beträgt nach Zurücklegung einer Wartezeit (§ 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3)  
-von mindestens  5 Jahren 10 v. H.  
-von mindestens 10 Jahren 20 v. H.  
-von mindestens 20 Jahren 50 v. H.  
-von mindestens 30 Jahren 80 v. H.  
-der vollen Leistungshöhe gemäß § 5 Abschnitt III.
+von mindestens  5 Jahren 10 v. H. von mindestens 10 Jahren 20 v. H. von mindestens 20 Jahren 50 v. H. von mindestens 30 Jahren 80 v. H. der vollen Leistungshöhe gemäß § 5 Abschnitt III.
 
 Im Beitrittsgebiet gemäß Artikel 3 des Einigungsvertrages vom 31. August 1990 entstehen unverfallbare Anwartschaften nach Absatz 1 nur bei einem Ausscheiden des Versicherten aus dem persönlichen/betrieblichen Geltungsbereich nach dem 30. Juni 1997.
 
@@ -12387,8 +12227,7 @@ Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmalig zum 31. Dezember
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 49 – (zu § 16 Absatz 3)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+# Anlage 49 – (zu § 16 Absatz 3)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 306 - 311)
 
@@ -12591,9 +12430,7 @@ b) für Beihilfen zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallre
 
 in der Zeit vom 1. Januar 2001 bis 31. Dezember 2003  
 a) für Beihilfen zum Altersruhegeld € 69,02 monatlich  
-b) für Beihilfen zur Rente zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallrente € 51,13 monatlich.  
-5. Die Höhe und Laufzeit der Ergänzungsbeihilfe (§ 5 Abschnitt I Nr. 1 e) wird von der Mitgliederversammlung festgelegt.  
-6. Das Sterbegeld beträgt € 512,00.
+b) für Beihilfen zur Rente zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallrente € 51,13 monatlich. 5. Die Höhe und Laufzeit der Ergänzungsbeihilfe (§ 5 Abschnitt I Nr. 1 e) wird von der Mitgliederversammlung festgelegt. 6. Das Sterbegeld beträgt € 512,00.
 
 An die Hinterbliebenen von Versicherten, die die Wartezeit erfüllt und keine Rentenbeihilfe bezogen haben, wird ab dem 1. Januar 1977 ein zusätzliches Sterbegeld in Höhe von € 256,00 gezahlt.
 
@@ -12622,11 +12459,7 @@ b) eine Zugehörigkeit zu Betrieben des Steinmetz- und Steinbildhauerhandwerks 
 § 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3 gelten entsprechend.
 
 Die Höhe des unverfallbaren Teils der Beihilfe und des Sterbegeldes beträgt nach Zurücklegung einer Wartezeit (§ 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3)  
-von mindestens  5 Jahren 10 v. H.  
-von mindestens 10 Jahren 20 v. H.  
-von mindestens 20 Jahren 50 v. H.  
-von mindestens 30 Jahren 80 v. H.  
-der vollen Leistungshöhe gemäß § 5 Abschnitt III.
+von mindestens  5 Jahren 10 v. H. von mindestens 10 Jahren 20 v. H. von mindestens 20 Jahren 50 v. H. von mindestens 30 Jahren 80 v. H. der vollen Leistungshöhe gemäß § 5 Abschnitt III.
 
 Im Beitrittsgebiet gemäß Artikel 3 des Einigungsvertrages vom 31. August 1990 entstehen unverfallbare Anwartschaften nach Absatz 1 nur bei einem Ausscheiden des Versicherten aus dem persönlichen/betrieblichen Geltungsbereich nach dem 30. Juni 1997.
 
@@ -12702,8 +12535,7 @@ Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmalig zum 31. Dezember
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 50 – (zu § 16 Absatz 4)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 26. August 2004
+# Anlage 50 – (zu § 16 Absatz 4)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe im Steinmetz- und Steinbildhauerhandwerk vom 20. April 1994, zuletzt geändert durch Tarifvertrag vom 26. August 2004
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 312 - 317)
 
@@ -12905,9 +12737,7 @@ b) für Beihilfen zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallre
 
 in der Zeit vom 1. Januar 2001 bis 31. Dezember 2003  
 a) für Beihilfen zum Altersruhegeld € 69,02 monatlich  
-b) für Beihilfen zur Rente zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallrente € 51,13 monatlich.  
-5. Die Höhe und Laufzeit der Ergänzungsbeihilfe (§ 5 Abschnitt I Nr. 1 e) wird von der Mitgliederversammlung festgelegt.  
-6. Das Sterbegeld beträgt € 512,00.
+b) für Beihilfen zur Rente zur Berufs- oder Erwerbsunfähigkeitsrente sowie zur Unfallrente € 51,13 monatlich. 5. Die Höhe und Laufzeit der Ergänzungsbeihilfe (§ 5 Abschnitt I Nr. 1 e) wird von der Mitgliederversammlung festgelegt. 6. Das Sterbegeld beträgt € 512,00.
 
 An die Hinterbliebenen von Versicherten, die die Wartezeit erfüllt und keine Rentenbeihilfe bezogen haben, wird ab dem 1. Januar 1977 ein zusätzliches Sterbegeld in Höhe von € 256,00 gezahlt.
 
@@ -12936,11 +12766,7 @@ b) eine Zugehörigkeit zu Betrieben des Steinmetz- und Steinbildhauerhandwerks 
 § 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3 gelten entsprechend.
 
 Die Höhe des unverfallbaren Teils der Beihilfe und des Sterbegeldes beträgt nach Zurücklegung einer Wartezeit (§ 5 Abschnitt II Nr. 2 a) bis 2 d) und Nr. 3)  
-von mindestens  5 Jahren 10 v. H.  
-von mindestens 10 Jahren 20 v. H.  
-von mindestens 20 Jahren 50 v. H.  
-von mindestens 30 Jahren 80 v. H.  
-der vollen Leistungshöhe gemäß § 5 Abschnitt III.
+von mindestens  5 Jahren 10 v. H. von mindestens 10 Jahren 20 v. H. von mindestens 20 Jahren 50 v. H. von mindestens 30 Jahren 80 v. H. der vollen Leistungshöhe gemäß § 5 Abschnitt III.
 
 Im Beitrittsgebiet gemäß Artikel 3 des Einigungsvertrages vom 31. August 1990 entstehen unverfallbare Anwartschaften nach Absatz 1 nur bei einem Ausscheiden des Versicherten aus dem persönlichen/betrieblichen Geltungsbereich nach dem 30. Juni 1997.
 
@@ -13016,8 +12842,7 @@ Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmalig zum 31. Dezember
 
 2. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 51 – (zu § 17 Absatz 1)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 11. November 2013
+# Anlage 51 – (zu § 17 Absatz 1)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 11. November 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 318 - 321)
 
@@ -13196,8 +13021,7 @@ Soweit die zulässigen Mittel in einem Geschäftsjahr nicht verbraucht werden, k
 
 Dieser Tarifvertrag tritt am 1. Januar 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember 2002, gekündigt werden.
 
-
-## Anlage 52 – (zu § 17 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 16. Juli 2010
+# Anlage 52 – (zu § 17 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 16. Juli 2010
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 322 - 325)
 
@@ -13377,8 +13201,7 @@ Soweit die zulässigen Mittel in einem Geschäftsjahr nicht verbraucht werden, k
 
 Dieser Tarifvertrag tritt am 1. Januar 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember 2002, gekündigt werden.
 
-
-## Anlage 53 – (zu § 17 Absatz 3)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
+# Anlage 53 – (zu § 17 Absatz 3)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 326 - 329)
 
@@ -13555,8 +13378,7 @@ Soweit die zulässigen Mittel in einem Geschäftsjahr nicht verbraucht werden, k
 
 Dieser Tarifvertrag tritt am 1. Januar 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember 2002, gekündigt werden.
 
-
-## Anlage 54 – (zu § 17 Absatz 4)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+# Anlage 54 – (zu § 17 Absatz 4)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 330 - 333)
 
@@ -13734,8 +13556,7 @@ Soweit die zulässigen Mittel in einem Geschäftsjahr nicht verbraucht werden, k
 
 Dieser Tarifvertrag tritt am 1. Januar 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember 2002, gekündigt werden.
 
-
-## Anlage 55 – (zu § 17 Absatz 5)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 26. August 2004
+# Anlage 55 – (zu § 17 Absatz 5)Auszug aus dem Tarifvertrag über die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 26. Juli 1991, zuletzt geändert durch Tarifvertrag vom 26. August 2004
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 334 - 337)
 
@@ -13913,8 +13734,7 @@ Soweit die zulässigen Mittel in einem Geschäftsjahr nicht verbraucht werden, k
 
 Dieser Tarifvertrag tritt am 1. Januar 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, erstmals zum 31. Dezember 2002, gekündigt werden.
 
-
-## Anlage 56 – (zu § 18 Absatz 1)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
+# Anlage 56 – (zu § 18 Absatz 1)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 338 - 342)
 
@@ -14098,8 +13918,7 @@ Gerichtsstand im Beitrittsgebiet (Artikel 3 des Einigungsvertrages vom 31. Augus
 
 Dieser Tarifvertrag tritt am 1. Juli 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember 2002 gekündigt werden.
 
-
-## Anlage 57 – (zu § 18 Absatz 2)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 12. Oktober 2009
+# Anlage 57 – (zu § 18 Absatz 2)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 12. Oktober 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 343 - 347)
 
@@ -14281,8 +14100,7 @@ Gerichtsstand im Beitrittsgebiet (Artikel 3 des Einigungsvertrages vom 31. Augus
 
 Dieser Tarifvertrag tritt am 1. Juli 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember 2002 gekündigt werden.
 
-
-## Anlage 58 – (zu § 18 Absatz 3)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
+# Anlage 58 – (zu § 18 Absatz 3)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 21. Oktober 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 348 - 352)
 
@@ -14461,8 +14279,7 @@ Gerichtsstand im Beitrittsgebiet (Artikel 3 des Einigungsvertrages vom 31. Augus
 
 Dieser Tarifvertrag tritt am 1. Juli 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember 2002 gekündigt werden.
 
-
-## Anlage 59 – (zu § 18 Absatz 4)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+# Anlage 59 – (zu § 18 Absatz 4)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 353 - 356)
 
@@ -14642,8 +14459,7 @@ Gerichtsstand im Beitrittsgebiet (Artikel 3 des Einigungsvertrages vom 31. Augus
 
 Dieser Tarifvertrag tritt am 1. Juli 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember 2002 gekündigt werden.
 
-
-## Anlage 60 – (zu § 18 Absatz 5)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 13. Januar 2005
+# Anlage 60 – (zu § 18 Absatz 5)Tarifvertrag über das Verfahren für die Zusatzversorgung und für die Berufsbildung im Steinmetz- und Steinbildhauerhandwerk vom 12. September 1994, zuletzt geändert durch Tarifvertrag vom 13. Januar 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 357 - 360)
 
@@ -14822,8 +14638,7 @@ Gerichtsstand im Beitrittsgebiet (Artikel 3 des Einigungsvertrages vom 31. Augus
 
 Dieser Tarifvertrag tritt am 1. Juli 1997 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende, jedoch erstmals zum 31. Dezember 2002 gekündigt werden.
 
-
-## Anlage 61 – (zu § 19 Absatz 1)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 2. Dezember 2009
+# Anlage 61 – (zu § 19 Absatz 1)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 2. Dezember 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 361 - 367)
 
@@ -15226,8 +15041,7 @@ Zuviel gezahltes zusätzliches Urlaubsgeld kann anteilmäßig zurückgefordert b
 
 Dieser Rahmentarifvertrag tritt am 1. Juli 2000 in Kraft. Er kann mit einer Frist von 6 Monaten zum Ende des Kalenderjahres, erstmals zum 31. Dezember 2010, schriftlich gekündigt werden.
 
-
-## Anlage 62 – (zu § 19 Absatz 2)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
+# Anlage 62 – (zu § 19 Absatz 2)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 6. Februar 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 368 - 374)
 
@@ -15680,8 +15494,7 @@ Zuviel gezahltes zusätzliches Urlaubsgeld kann anteilmäßig zurückgefordert b
 
 Dieser Rahmentarifvertrag tritt am 1. Juli 2000 in Kraft. Er kann mit einer Frist von 6 Monaten zum Ende des Kalenderjahres, erstmals zum 31. Dezember 2004, schriftlich gekündigt werden.
 
-
-## Anlage 63 – (zu § 19 Absatz 3)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, geändert durch Tarifvertrag vom 26. August 2004
+# Anlage 63 – (zu § 19 Absatz 3)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk vom 24. Mai 2000, geändert durch Tarifvertrag vom 26. August 2004
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 375 - 381)
 
@@ -16136,8 +15949,7 @@ Zuviel gezahltes zusätzliches Urlaubsgeld kann anteilmäßig zurückgefordert b
 
 Dieser Rahmentarifvertrag tritt am 1. Juli 2000 in Kraft. Er kann mit einer Frist von 6 Monaten zum Ende des Kalenderjahres, erstmals zum 31. Dezember 2004, schriftlich gekündigt werden.
 
-
-## Anlage 64 – (zu § 21 Absatz 1)Tarifvertrag über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (TVZN) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 31. Mai 2010
+# Anlage 64 – (zu § 21 Absatz 1)Tarifvertrag über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (TVZN) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 31. Mai 2010
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 382 - 390)
 
@@ -16159,8 +15971,7 @@ Werden die hergestellten Fertigbauteile dagegen zum überwiegenden Teil durch de
 oder  
 2. nach dem 1. Mai 1974 als Niederlassung eines gemäß 1. erfassten Verbandsmitgliedes gegründet worden ist und sich mit seiner Betriebstätigkeit der Art nach im Rahmen der Betriebstätigkeit des Stammbetriebes hält  
 oder  
-3. nach dem 1. Mai 1974 gegründet und vor Ablauf eines Jahres nach der Produktionsaufnahme Mitglied eines der vertragsschließenden Verbände geworden ist, ohne zuvor die Mitgliedschaft in einem Verband des Baugewerbes erworben zu haben.  
-Ein Betrieb wird trotz Vorliegens der unter 1. – 3. genannten Voraussetzungen nicht von diesem Tarifvertrag erfasst, wenn er  
+3. nach dem 1. Mai 1974 gegründet und vor Ablauf eines Jahres nach der Produktionsaufnahme Mitglied eines der vertragsschließenden Verbände geworden ist, ohne zuvor die Mitgliedschaft in einem Verband des Baugewerbes erworben zu haben. Ein Betrieb wird trotz Vorliegens der unter 1. – 3. genannten Voraussetzungen nicht von diesem Tarifvertrag erfasst, wenn er  
 1. vor dem 1. Mai 1974 zugleich Mitglied in einem Verband des Baugewerbes war und am 1. Mai 1974 die Rahmen- und Sozialkassentarifverträge des Baugewerbes für die Mehrzahl seiner Arbeitnehmer angewendet hat  
 oder  
 2. nach dem 1. Mai 1974 Mitglied in einem Verband des Baugewerbes geworden ist und die Rahmen- und Sozialkassentarifverträge des Baugewerbes für die Mehrzahl seiner Arbeitnehmer anwendet.
@@ -16424,8 +16235,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 (2) Die Tarifvertragsparteien verpflichten sich, nach Kündigung unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 65 – (zu § 21 Absatz 2)Tarifvertrag über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (TVZN) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 1. September 2004
+# Anlage 65 – (zu § 21 Absatz 2)Tarifvertrag über die überbetriebliche Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (TVZN) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 1. September 2004
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 391 - 399)
 
@@ -16720,8 +16530,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 (2) Die Tarifvertragsparteien verpflichten sich, nach Kündigung unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 66 – (zu § 22)Tarifvertrag über das Verfahren der überbetrieblichen Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (Verfahrenstarifvertrag) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 1. September 2004
+# Anlage 66 – (zu § 22)Tarifvertrag über das Verfahren der überbetrieblichen Zusatzversorgung im Betonsteingewerbe (Beton- und Fertigteilindustrie und Betonsteinhandwerk) Nordwestdeutschlands (Verfahrenstarifvertrag) vom 1. April 1986, zuletzt geändert durch Tarifvertrag vom 1. September 2004
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 400 - 403)
 
@@ -16832,8 +16641,7 @@ Die Tarifvertragsparteien des Baugewerbes – der Zentralverband des Deutschen B
 
 Dieser Tarifvertrag tritt am 1. Januar 1986 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende gekündigt werden, erstmals zum 31. Dezember 2007.
 
-
-## Anlage 67 – (zu § 23 Absatz 1)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+# Anlage 67 – (zu § 23 Absatz 1)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 404 - 410)
 
@@ -17175,8 +16983,7 @@ Dieser Tarifvertrag tritt am 1. Januar 2012 in Kraft.
 
 3. Nach einer Kündigung verpflichten sich die Tarifvertragsparteien, unverzüglich in Verhandlungen über einen neuen Tarifvertrag einzutreten.
 
-
-## Anlage 68 – (zu § 23 Absatz 2)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
+# Anlage 68 – (zu § 23 Absatz 2)Tarifvertrag über eine überbetriebliche Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 411 - 416)
 
@@ -17482,8 +17289,7 @@ Dieser Tarifvertrag tritt am 1. Juli 2001 in Kraft.
 
 4. Es tritt außer Kraft der Tarifvertrag vom 18. Februar 1993 TR.Nr. 4-11-11.
 
-
-## Anlage 69 – (zu § 24 Absatz 1)Tarifvertrag über eine ergänzende Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+# Anlage 69 – (zu § 24 Absatz 1)Tarifvertrag über eine ergänzende Alters- und Invalidenbeihilfe in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 417 - 419)
 
@@ -17605,8 +17411,7 @@ Dieser Tarifvertrag tritt am 1. Januar 2012 in Kraft.
 
 Er kann mit einer Frist von 6 Monaten, jeweils zum 31. Dezember, erstmalig zum 31. Dezember 2015, gekündigt werden.
 
-
-## Anlage 70 – (zu § 24 Absatz 2)Tarifvertrag über eine ergänzende Alters- und Invalidenbeihilfe und ein ergänzendes Sterbegeld in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
+# Anlage 70 – (zu § 24 Absatz 2)Tarifvertrag über eine ergänzende Alters- und Invalidenbeihilfe und ein ergänzendes Sterbegeld in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 420 - 422)
 
@@ -17740,8 +17545,7 @@ Es tritt außer Kraft der Tarifvertrag vom 18. Februar 1993 TR.Nr. 4-12-11.
 
 Die Tarifvertragsparteien stellen gemeinsam den Antrag auf Allgemeinverbindlichkeit beim zuständigen Arbeitsministerium.
 
-
-## Anlage 71 – (zu § 25 Absatz 1)Tarifvertrag über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+# Anlage 71 – (zu § 25 Absatz 1)Tarifvertrag über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 423 - 426)
 
@@ -17766,8 +17570,7 @@ Alle industriellen und handwerklichen Betriebe, die Betonwaren, Stahlbetonwaren,
 oder  
 2. nach dem 1. Juli 1999 als Niederlassung eines gemäß Ziffer 1. erfassten Verbandsmitglieds gegründet worden ist und sich mit seiner Betriebstätigkeit der Art nach im Rahmen der Betriebstätigkeit des Stammbetriebes hält  
 oder  
-3. nach dem 1. Juli 1999 gegründet und vor Ablauf eines Jahres nach der Produktionsaufnahme Mitglied eines der vertragschließenden Verbände geworden ist, ohne zuvor die Mitgliedschaft in einem Verband des Baugewerbes erworben zu haben.  
-
+3. nach dem 1. Juli 1999 gegründet und vor Ablauf eines Jahres nach der Produktionsaufnahme Mitglied eines der vertragschließenden Verbände geworden ist, ohne zuvor die Mitgliedschaft in einem Verband des Baugewerbes erworben zu haben. 
 Ein Betrieb wird trotz Vorliegens der unter Ziffer 3a) 1. – 3. genannten Voraussetzungen nicht von diesem Tarifvertrag erfasst, wenn er vor dem 1. Juli 1999 zugleich Mitglied in einem Verband des Baugewerbes war und am 1. Juli 1999 die Rahmen- und Sozialkassentarifverträge des Baugewerbes für die Mehrzahl seiner Arbeitnehmer angewendet hat.
 
 b) Feuerfest- und Steinzeugindustrie
@@ -17927,8 +17730,7 @@ Dieser Tarifvertrag tritt am 1. Januar 2012 in Kraft.
 
 Er kann mit einer Frist von 6 Monaten, jeweils zum 31. Dezember, erstmalig zum 31. Dezember 2015 gekündigt werden.
 
-
-## Anlage 72 – (zu § 25 Absatz 2)Tarifvertrag über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
+# Anlage 72 – (zu § 25 Absatz 2)Tarifvertrag über das Verfahren für die Zusatzversorgung in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegelindustrie in Bayern vom 5. Juni 2001
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 427 - 430)
 
@@ -18115,8 +17917,7 @@ Es treten außer Kraft der Tarifvertrag vom 18. Februar 1993 TR.Nr. 4-13-17.
 
 Die Tarifvertragsparteien stellen gemeinsam den Antrag auf Allgemeinverbindlichkeit beim zuständigen Arbeitsministerium.
 
-
-## Anlage 73 – (zu § 26 Absatz 1)Tarifvertrag über das Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
+# Anlage 73 – (zu § 26 Absatz 1)Tarifvertrag über das Verfahren für die Zusatzversorgung der Wehrdienstleistenden in der Steine- und Erden-Industrie, im Betonsteinhandwerk und in der Ziegelindustrie in Bayern vom 20. Januar 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 431 - 433)
 
@@ -18256,8 +18057,7 @@ Dieser Tarifvertrag tritt am 1. Januar 2012 in Kraft.
 
 Er kann mit einer Frist von 6 Monaten, jeweils zum 31. Dezember, erstmalig zum 31. Dezember 2015 gekündigt werden.
 
-
-## Anlage 74 – (zu § 26 Absatz 2)Tarifvertrag über das Verfahren für die Zusatzversorgung der Wehrpflichtigen in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegel-Industrie in Bayern vom 5 Juni 2001
+# Anlage 74 – (zu § 26 Absatz 2)Tarifvertrag über das Verfahren für die Zusatzversorgung der Wehrpflichtigen in der Steine- und Erden-Industrie sowie im Betonsteinhandwerk in Bayern, der Ziegel-Industrie in Bayern vom 5 Juni 2001
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 434 - 436)
 
@@ -18392,8 +18192,7 @@ Es tritt außer Kraft der Tarifvertrag vom 18. Februar 1993 TR.Nr. 4-14-13.
 
 Die Tarifvertragsparteien stellen gemeinsam den Antrag auf Allgemeinverbindlichkeit beim zuständigen Arbeitsministerium.
 
-
-## Anlage 75 – (zu § 28)Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks vom 18. Dezember 2002
+# Anlage 75 – (zu § 28)Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks vom 18. Dezember 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 437 - 438)
 
@@ -18431,8 +18230,7 @@ Die Tarifvertragsparteien verpflichten sich, gemeinsam die Allgemeinverbindliche
 
 Dieser Tarifvertrag tritt mit dem 1. Januar 2003 in Kraft. Er kann mit einer Frist von 6 Monaten zum Jahresende gekündigt werden. Die Kündigung ist erstmals zum 31. Dezember 2015 zulässig.
 
-
-## Anlage 76 – (zu § 29)Verfahrenstarifvertrag zum Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks vom 18. Dezember 2002
+# Anlage 76 – (zu § 29)Verfahrenstarifvertrag zum Tarifvertrag über die Errichtung eines Förderungswerkes für die Beschäftigten des Deutschen Bäckerhandwerks vom 18. Dezember 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 439)
 
@@ -18462,8 +18260,7 @@ Dieser Tarifvertrag tritt mit dem 1. Januar 2003 in Kraft. Er kann mit einer Fri
 
 Die Tarifvertragsparteien verpflichten sich, gemeinsam die Allgemeinverbindlicherklärung dieses Tarifvertrages zu beantragen.
 
-
-## Anlage 77 – (zu § 31 Absatz 1)Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 28. Mai 2009
+# Anlage 77 – (zu § 31 Absatz 1)Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 28. Mai 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 440 - 443)
 
@@ -18583,11 +18380,7 @@ Im Übrigen sind bei der Bestimmung der unverfallbaren Anwartschaften die Vorsch
 Als Zeitpunkt der Erteilung der Versorgungszusage gilt der Versicherungsbeginn, frühestens jedoch der Beginn der Betriebszugehörigkeit.
 
 Der unverfallbare Teil der Beihilfe beträgt bei einer ununterbrochenen Dauer des Arbeitsverhältnisses in einem Betrieb der Brot- und Backwarenindustrie  
-nach  5 Jahren 20 v. H.  
-nach 10 Jahren 25 v. H.  
-nach 20 Jahren 50 v. H.  
-nach 30 Jahren 75 v. H.  
-der in § 5 Nr. 1 und 2 aufgeführten Beihilfe.
+nach  5 Jahren 20 v. H. nach 10 Jahren 25 v. H. nach 20 Jahren 50 v. H. nach 30 Jahren 75 v. H. der in § 5 Nr. 1 und 2 aufgeführten Beihilfe.
 
 Bei der Berechnung ist die in § 5 Nr. 1 und 2 für den Versicherungsfall im Zeitpunkt des Ausscheidens aus einem Betrieb der Brot- und Backwarenindustrie geltende Leistungshöhe zugrunde zu legen.
 
@@ -18635,8 +18428,7 @@ Die Tarifvertragsparteien stimmen überein, ihren ganzen Einfluss für die Durch
 
 Dieser Änderungstarifvertrag tritt mit dem 1. Januar 2006 in Kraft.
 
-
-## Anlage 78 – (zu § 31 Absatz 2)Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 17. September 2008
+# Anlage 78 – (zu § 31 Absatz 2)Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 17. September 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 444 - 447)
 
@@ -18750,11 +18542,7 @@ Im Übrigen sind bei der Bestimmung der unverfallbaren Anwartschaften die Vorsch
 Als Zeitpunkt der Erteilung der Versorgungszusage gilt der Versicherungsbeginn, frühestens jedoch der Beginn der Betriebszugehörigkeit.
 
 Der unverfallbare Teil der Beihilfe beträgt bei einer ununterbrochenen Dauer des Arbeitsverhältnisses in einem Betrieb der Brot- und Backwarenindustrie  
-nach  5 Jahren 20 v. H.  
-nach 10 Jahren 25 v. H.  
-nach 20 Jahren 50 v. H.  
-nach 30 Jahren 75 v. H.  
-der in § 5 Nr. 1 und 2 aufgeführten Beihilfe.
+nach  5 Jahren 20 v. H. nach 10 Jahren 25 v. H. nach 20 Jahren 50 v. H. nach 30 Jahren 75 v. H. der in § 5 Nr. 1 und 2 aufgeführten Beihilfe.
 
 Bei der Berechnung ist die in § 5 Nr. 1 und 2 für den Versicherungsfall im Zeitpunkt des Ausscheidens aus einem Betrieb der Brot- und Backwarenindustrie geltende Leistungshöhe zugrunde zu legen.
 
@@ -18802,8 +18590,7 @@ Die Tarifvertragsparteien stimmen überein, ihren ganzen Einfluss für die Durch
 
 Dieser Änderungstarifvertrag tritt mit dem 1. Januar 2006 in Kraft.
 
-
-## Anlage 79 – (zu § 31 Absatz 3)Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 23. Juni 2005
+# Anlage 79 – (zu § 31 Absatz 3)Tarifvertrag über die Errichtung einer Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 23. Juni 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 448 - 451)
 
@@ -18864,8 +18651,7 @@ gezahlt.
 
 Die Zahlung dieses Gewinnzuschlages erfolgt nur aufgrund eines Beschlusses der Mitgliederversammlung der Zusatzversorgungskasse für die Beschäftigten der Deutschen Brot- und Backwarenindustrie nach Genehmigung und im Rahmen der jeweiligen Befristung durch die Bundesanstalt für Finanzdienstleistungsaufsicht.
 
-3. Die Wartezeit nach Nr. 1 Satz 1 ist erfüllt, wenn der Arbeitnehmer unmittelbar vor Eintritt des Versicherungsfalles mindestens 10 Jahre ununterbrochen in einem Arbeitsverhältnis zu Betrieben der Brot- und Backwarenindustrie gestanden hat. In besonderen Fällen (Ausscheiden aus betrieblich bedingten und insbesondere gesundheitsbedingten Gründen), die sich auf die ununterbrochene Beschäftigungszeit beziehen, wird der Vorstand bevollmächtigt, auf dem Billigkeitswege zu entscheiden.  
-Als Unterbrechung gelten nicht folgende nachgewiesene Zeiten:
+3. Die Wartezeit nach Nr. 1 Satz 1 ist erfüllt, wenn der Arbeitnehmer unmittelbar vor Eintritt des Versicherungsfalles mindestens 10 Jahre ununterbrochen in einem Arbeitsverhältnis zu Betrieben der Brot- und Backwarenindustrie gestanden hat. In besonderen Fällen (Ausscheiden aus betrieblich bedingten und insbesondere gesundheitsbedingten Gründen), die sich auf die ununterbrochene Beschäftigungszeit beziehen, wird der Vorstand bevollmächtigt, auf dem Billigkeitswege zu entscheiden. Als Unterbrechung gelten nicht folgende nachgewiesene Zeiten:
 
 a) Arbeitslosigkeit
 
@@ -18902,11 +18688,7 @@ Bei Altzusagen gilt § 30f BetrAVG sinngemäß.
 Als Zeitpunkt der Erteilung der Versorgungszusage gilt der Versicherungsbeginn, frühestens jedoch der Beginn der Betriebszugehörigkeit.
 
 Der unverfallbare Teil der Beihilfe beträgt bei einer ununterbrochenen Dauer des Arbeitsverhältnisses gemäß § 5 Nr. 1 Satz 1  
-nach  5 Jahren 20 v. H.  
-nach 10 Jahren 25 v. H.  
-nach 20 Jahren 50 v. H.  
-nach 30 Jahren 75 v. H.  
-der in § 5 Nr. 1 und 2 aufgeführten Beihilfe.
+nach  5 Jahren 20 v. H. nach 10 Jahren 25 v. H. nach 20 Jahren 50 v. H. nach 30 Jahren 75 v. H. der in § 5 Nr. 1 und 2 aufgeführten Beihilfe.
 
 Bei der Berechnung ist die in § 5 Nr. 1 und 2 des Tarifvertrages für den Versicherungsfall im Zeitpunkt des Ausscheidens aus einem Betrieb der Brot- und Backwarenindustrie geltende Leistungshöhe zugrunde zu legen.
 
@@ -18954,8 +18736,7 @@ Die Tarifvertragsparteien stimmen überein, ihren ganzen Einfluss für die Durch
 
 Dieser Änderungstarifvertrag tritt mit dem 1. Januar 2006 in Kraft.
 
-
-## Anhang 1 zu den Anlagen 77 bis 79 – Anlage zum Tarifvertrag (§ 5 Absatz 5) über die Errichtung einer „Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie“ vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 15. April 1987
+# Anhang 1 zu den Anlagen 77 bis 79 – Anlage zum Tarifvertrag (§ 5 Absatz 5) über die Errichtung einer „Zusatzversorgungskasse für die Beschäftigten in der Brot- und Backwarenindustrie“ vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 15. April 1987
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 452 - 453)
 
@@ -19011,10 +18792,7 @@ b) entweder die Versorgungszusage für ihn mindestens zehn Jahre bestanden oder
 Als Zeitpunkt der Erteilung der Versorgungszusage gilt der Versicherungsbeginn, frühestens jedoch der Beginn der Betriebszugehörigkeit.
 
 2. Der unverfallbare Teil der Beihilfe beträgt bei einer ununterbrochenen Dauer des Arbeitsverhältnisses gemäß Ziff. 1  
-nach 10 Jahren 25 v. H.  
-nach 20 Jahren 50 v. H.  
-nach 30 Jahren 75 v. H.  
-der in § 1 Ziff. 1 aufgeführten Beihilfe.
+nach 10 Jahren 25 v. H. nach 20 Jahren 50 v. H. nach 30 Jahren 75 v. H. der in § 1 Ziff. 1 aufgeführten Beihilfe.
 
 Bei der Berechnung ist die in § 5 Buchstabe a) und b) des Tarifvertrages für den Versicherungsfall im Zeitpunkt des Ausscheidens aus einem Betrieb der Brot- und Backwarenindustrie geltende Leistungshöhe zugrunde zu legen.
 
@@ -19058,8 +18836,7 @@ Die Rückstellung für Überschussbeteiligung ist ausschließlich zur Erhöhung 
 
 Sobald die Rückstellung für Überschussbeteiligung einen Betrag erreicht hat, der eine angemessene Erhöhung oder Ergänzung der Leistungen der „Zusatzversorgungskasse“ oder eine angemessene Ermäßigung der Beiträge rechtfertigen würde, ist eine solche nach Maßgabe der Satzungsbestimmungen durchzuführen. Die Beschlussfassung hierüber obliegt der Mitgliederversammlung auf Vorschlag des Vorstandes nach Anhörung des Sachverständigen. Sie bedarf der Genehmigung der Aufsichtsbehörde.
 
-
-## Anhang 2 zu den Anlagen 77 bis 79 – Protokollnotizen vom 28. Februar 1977 und vom 4. September 2008
+# Anhang 2 zu den Anlagen 77 bis 79 – Protokollnotizen vom 28. Februar 1977 und vom 4. September 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 454)
 
@@ -19075,8 +18852,7 @@ zu § 3 der Anlage zu § 5 Abs. 5 des Tarifvertrags vom 20. Februar 1970 in der 
 
 Die Regelung umfasst nur Fälle, in denen ein Arbeitnehmer mit dem Ausscheiden aus dem Betrieb zugleich aus dem fachlichen Geltungsbereich des Tarifvertrages ausscheidet.
 
-
-## Anhang 3 zu den Anlagen 77 bis 79 – Tarifvertrag vom 30. Juli 1979 über den Eintritt des Verbands der Deutschen Brot- und Backwarenindustrie e. V.
+# Anhang 3 zu den Anlagen 77 bis 79 – Tarifvertrag vom 30. Juli 1979 über den Eintritt des Verbands der Deutschen Brot- und Backwarenindustrie e. V.
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 455)
 
@@ -19104,8 +18880,7 @@ Diese Tarifverträge sind Bestandteil und Anlage dieses Tarifvertrages.
 
 Es gelten die in diesen Tarifverträgen vereinbarten Kündigungsbestimmungen.
 
-
-## Anlage 80 – (zu § 32 Absatz 1)Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 28. Mai 2009
+# Anlage 80 – (zu § 32 Absatz 1)Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 28. Mai 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 456)
 
@@ -19137,8 +18912,7 @@ In Ausführung der Bestimmungen des § 4 des Tarifvertrages über die Errichtung
 
 2. Dieser Änderungsvertrag tritt mit dem 1. Januar 2006 in Kraft.
 
-
-## Anlage 81 – (zu § 32 Absatz 2)Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 17. September 2008
+# Anlage 81 – (zu § 32 Absatz 2)Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 17. September 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 457)
 
@@ -19168,8 +18942,7 @@ In Ausführung der Bestimmungen des § 4 des Tarifvertrages über die Errichtung
 
 2. Dieser Änderungsvertrag tritt mit dem 1. Januar 2006 in Kraft.
 
-
-## Anlage 82 – (zu § 32 Absatz 3)Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 23. Juni 2005
+# Anlage 82 – (zu § 32 Absatz 3)Verfahrenstarifvertrag vom 20. Februar 1970, zuletzt geändert durch Tarifvertrag vom 23. Juni 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 458)
 
@@ -19201,8 +18974,7 @@ Für Beiträge, die nach dem 31. Dezember eines Geschäftsjahres bei der „Zusa
 
 2. Dieser Änderungsvertrag tritt mit dem 1. Januar 2006 in Kraft.
 
-
-## Anhang zu den Anlagen 80 bis 82 – Tarifvertrag vom 30. Juli 1979 über den Eintritt des Verbands der Deutschen Brot- und Backwarenindustrie e. V.
+# Anhang zu den Anlagen 80 bis 82 – Tarifvertrag vom 30. Juli 1979 über den Eintritt des Verbands der Deutschen Brot- und Backwarenindustrie e. V.
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 459)
 
@@ -19230,8 +19002,7 @@ Diese Tarifverträge sind Bestandteil und Anlage dieses Tarifvertrages.
 
 Es gelten die in diesen Tarifverträgen vereinbarten Kündigungsbestimmungen.
 
-
-## Anlage 83 – (zu § 33 Absatz 1)Tarifvertrag über die Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen vom 15. Dezember 1997
+# Anlage 83 – (zu § 33 Absatz 1)Tarifvertrag über die Altersversorgung für Redakteurinnen und Redakteure an Tageszeitungen vom 15. Dezember 1997
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 460 - 465)
 
@@ -19431,8 +19202,7 @@ Erfüllungsort und Gerichtsstand für alle Ansprüche ist Stuttgart.
 
 (3) Die Tarifvertragsparteien streben an, diesen Tarifvertrag unverzüglich für allgemeinverbindlich i. S. v. § 5 TVG erklären zu lassen.
 
-
-## Anlage 84 – (zu § 34 Absatz 1)Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland einschließlich Berlin (West) ohne das Beitrittsgebiet vom 1. April 1977, zuletzt geändert durch Tarifvertrag vom 11. März 1991
+# Anlage 84 – (zu § 34 Absatz 1)Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland einschließlich Berlin (West) ohne das Beitrittsgebiet vom 1. April 1977, zuletzt geändert durch Tarifvertrag vom 11. März 1991
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 466 - 469)
 
@@ -19604,15 +19374,13 @@ Soweit die vorstehenden Bestimmungen technische Verfahrensvorschriften beinhalte
 
 2. Die Tarifvertragsparteien vereinbaren, für diesen Tarifvertrag die Allgemeinverbindlichkeit zu beantragen.
 
-
-## Anhang zu Anlage 84 – Protokollnotiz vom 11. März 1991 zum Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau vom 1. April 1977
+# Anhang zu Anlage 84 – Protokollnotiz vom 11. März 1991 zum Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau vom 1. April 1977
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 470)
 
 Nicht erfasst werden solche Betriebe und selbständige Betriebsabteilungen, die am 22. August 1989 (Stichtag) die Voraussetzungen des § 1 Ziffer 1 und 2 des Bundesrahmentarifvertrages für gewerbliche Arbeitnehmer im Garten-, Landschafts- und Sportplatzbau in der Fassung vom 22. August 1989 sowie die in § 1 Absatz 1 i. V. m. Absatz 2 Baubetriebe-Verordnung in der Fassung vom 24. Oktober 1984 normierten Voraussetzungen für die Förderung der ganzjährigen Beschäftigung in der Bauwirtschaft erfüllt haben und am Stichtag nicht von der Einzugstelle für die Winterbauumlage im Garten-, Landschafts- und Sportplatzbau (EWGaLa) wegen der Winterbauumlage (§ 186 a Absatz 2 Arbeitsförderungsgesetz) oder vom Ausbildungsförderwerk Garten-, Landschafts- und Sportplatzbau e. V. (AuGaLa) wegen der Ausbildungsumlage im Garten-, Landschafts- und Sportplatzbau oder von der Bundesanstalt für Arbeit als Betrieb des Garten-, Landschafts- und Sportplatzbaues nach § 1 Absatz 4 Baubetriebe-Verordnung wegen der Winterbauumlage mit einer Betriebskontonummer erfasst waren. Diese Einschränkung gilt nicht für solche Betriebe oder selbständige Betriebsabteilungen, die einem Mitgliedsverband des Bundesverbandes Garten-, Landschafts- und Sportplatzbau als Mitglied angehören.
 
-
-## Anlage 85 – (zu § 35 Absatz 1)Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland – nur Beitrittsgebiet – vom 11. März 1991, geändert durch Tarifvertrag vom 7. Juni 1991
+# Anlage 85 – (zu § 35 Absatz 1)Tarifvertrag über die Berufsbildung im Garten-, Landschafts- und Sportplatzbau der Bundesrepublik Deutschland – nur Beitrittsgebiet – vom 11. März 1991, geändert durch Tarifvertrag vom 7. Juni 1991
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 471 - 474)
 
@@ -19802,8 +19570,7 @@ Soweit die vorstehenden Bestimmungen technische Verfahrensvorschriften beinhalte
 
 2. Die Tarifvertragsparteien vereinbaren, für diesen Tarifvertrag die Allgemeinverbindlichkeit zu beantragen.
 
-
-## Anlage 86 – (zu § 36)Tarifvertrag über die Zusatzversorgung der Arbeitnehmer in der Land- und Forstwirtschaft vom 28. November 2000
+# Anlage 86 – (zu § 36)Tarifvertrag über die Zusatzversorgung der Arbeitnehmer in der Land- und Forstwirtschaft vom 28. November 2000
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 475 - 479)
 
@@ -19989,8 +19756,7 @@ In der Zeit vom 1. Januar 2001 bis zum 31. Dezember 2001 tritt an die Stelle des
 
 (3) § 3 kann abweichend von Absatz 2 nach Ablauf eines Jahres mit einer Frist von sechs Monaten zum Jahresende schriftlich gekündigt werden.
 
-
-## Anlage 87 – (zu § 37)Tarifvertrag „Qualifizierung der Land- und Forstwirtschaft in Hessen“ vom 31. Mai 2001
+# Anlage 87 – (zu § 37)Tarifvertrag „Qualifizierung der Land- und Forstwirtschaft in Hessen“ vom 31. Mai 2001
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 480 - 481)
 
@@ -20050,8 +19816,7 @@ Erfüllungsort und Gerichtsstand für die Ansprüche aus diesem Tarifvertrag ist
 
 2. Mit Inkrafttreten dieses Tarifvertrages tritt der Tarifvertrag über die Qualifizierung der Arbeitnehmer aus der Land- und Forstwirtschaft und über Maßnahmen zur Erschließung und Sicherung „wettbewerbsfähiger Voll- und Teilzeitarbeitsplätze der Land- und Forstwirtschaft“ vom 3. Juli 1995 außer Kraft.
 
-
-## Anlage 88 – (zu § 38)Tarifvertrag über die Qualifizierung der Arbeitnehmer und Arbeitnehmerinnen der forstwirtschaftlichen Lohn- und Dienstleistungsunternehmen und über Maßnahmen zur Erschließung und Sicherung wettbewerbsfähiger Voll- oder Teilzeitarbeitsplätze in der Forstwirtschaft vom 1. Januar 2002
+# Anlage 88 – (zu § 38)Tarifvertrag über die Qualifizierung der Arbeitnehmer und Arbeitnehmerinnen der forstwirtschaftlichen Lohn- und Dienstleistungsunternehmen und über Maßnahmen zur Erschließung und Sicherung wettbewerbsfähiger Voll- oder Teilzeitarbeitsplätze in der Forstwirtschaft vom 1. Januar 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 61 v. 7.9.2017, S. 482 - 483)
 

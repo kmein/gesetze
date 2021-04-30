@@ -1,15 +1,11 @@
-# [BKOrgErl 2005] Organisationserlass der Bundeskanzlerin
-
-Ausfertigungsdatum: 22.11.2005
-
+% Organisationserlass der Bundeskanzlerin
+% Ausfertigungsdatum: 22.11.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:
 
-
-## I.
+# I.
 
 1. Es erhalten
 
@@ -25,8 +21,7 @@ d) das Bundesministerium für Verkehr, Bau- und Wohnungswesen die Bezeichnung Bu
 
 3. Der Chef des Bundeskanzleramtes wird zum Bundesminister für besondere Aufgaben bestellt.
 
-
-## II.
+# II.
 
 Dem Bundesministerium für Wirtschaft und Technologie werden übertragen:
 
@@ -48,8 +43,7 @@ c) die Forschung und Entwicklung und die Innovation in der Wirtschaft; die KMU; 
 
 Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie deren Grundsatz- und Planungsangelegenheiten ein.
 
-
-## III.
+# III.
 
 1. Dem Bundesministerium für Arbeit und Soziales werden aus dem Geschäftsbereich des bisherigen Bundesministeriums für Wirtschaft und Arbeit unter Aufhebung des Organisationserlasses des Bundeskanzlers vom 22. Oktober 2002 (BGBl. I S. 4206), Ziff. I. 1. und 3., die Zuständigkeiten übertragen für
 
@@ -71,17 +65,14 @@ b) die Prävention und die Rehabilitation im Bereich der Politik für Menschen m
 
 Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie deren Grundsatz- und Planungsangelegenheiten ein. Zugeordnet werden dem Bundesministerium für Arbeit und Soziales auch die Beauftragte der Bundesregierung für die Belange der Behinderten und der Bundesbeauftragte für die Sozialversicherungswahlen.
 
-
-## IV.
+# IV.
 
 Aus dem Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend wird dem Bundeskanzleramt die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration zugeordnet, die Aufgabe von einer Staatsministerin wahrgenommen.
 
-
-## V.
+# V.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung geregelt und dem Chef des Bundeskanzleramtes mitgeteilt.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundeskanzlerin

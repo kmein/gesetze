@@ -1,15 +1,11 @@
-# [InsStatG] Gesetz über die Insolvenzstatistik  (Insolvenzstatistikgesetz - InsStatG)
-
-Ausfertigungsdatum: 07.12.2011
-
+% Gesetz über die Insolvenzstatistik  (Insolvenzstatistikgesetz - InsStatG)
+% Ausfertigungsdatum: 07.12.2011
  
-
-## § 1 – Insolvenzstatistik
+# § 1 – Insolvenzstatistik
 
 Für wirtschaftspolitische Planungsentscheidungen werden über Insolvenzverfahren monatliche und jährliche Erhebungen als Bundesstatistik durchgeführt.
 
-
-## § 2 – Erhebungsmerkmale
+# § 2 – Erhebungsmerkmale
 
 Die Erhebungen erfassen folgende Erhebungsmerkmale:
 
@@ -63,8 +59,7 @@ d) Widerruf der erteilten Restschuldbefreiung,
 
 e) Sonstige Beendigung des Verfahrens.
 
-
-## § 3 – Hilfsmerkmale
+# § 3 – Hilfsmerkmale
 
 (1) Hilfsmerkmale der Erhebungen sind:
 
@@ -102,8 +97,7 @@ e) Sonstige Beendigung des Verfahrens.
 
 9. Name, Rufnummer und E-Mail-Adresse einer Ansprechperson im Amtsgericht.
 
-
-## § 4 – Auskunftspflicht und Erteilung der Auskunft
+# § 4 – Auskunftspflicht und Erteilung der Auskunft
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Angaben zu § 3 Absatz 1 Nummer 6 und Absatz 2 Nummer 9 sind freiwillig. Auskunftspflichtig sind
 
@@ -125,20 +119,17 @@ e) Sonstige Beendigung des Verfahrens.
 
 (4) Für die Übermittlung der Angaben der Insolvenzverwalter, Sachwalter und Treuhänder gilt § 11a Absatz 2 und 3 des Bundesstatistikgesetzes entsprechend. Die statistischen Ämter prüfen unter Mithilfe der zuständigen Amtsgerichte die Vollzähligkeit der durch die Insolvenzverwalter, Treuhänder und Sachwalter übermittelten Angaben.
 
-
-## § 5 – Veröffentlichung und Übermittlung
+# § 5 – Veröffentlichung und Übermittlung
 
 (1) Die statistischen Ämter dürfen Ergebnisse veröffentlichen, auch wenn Tabellenfelder nur einen einzigen Fall ausweisen, sofern diese Tabellenfelder keine Angaben zur Summe der Forderungen und zur Zahl der betroffenen Arbeitnehmer enthalten.
 
 (2) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen Tabellen mit statistischen Ergebnissen, auch wenn Tabellenfelder nur einen einzigen Fall ausweisen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder an die fachlich zuständigen obersten Bundes- und Landesbehörden übermittelt werden.
 
-
-## § 5a – Nutzung der Insolvenzbekanntmachungen
+# § 5a – Nutzung der Insolvenzbekanntmachungen
 
 Der Betreiber des elektronischen Informations- und Kommunikationssystems für öffentliche Bekanntmachungen in Insolvenzverfahren im Internet nach § 9 Absatz 1 der Insolvenzordnung darf im Rahmen der technischen Möglichkeiten den statistischen Ämtern jeweils für ihren Zuständigkeitsbereich Daten über die öffentlichen Bekanntmachungen übermitteln. Die Übermittlung kann auch in einem Abrufverfahren erfolgen. Die übermittelten Daten dürfen nur für Zwecke der Plausibilisierung der Insolvenzstatistiken sowie zur Erfüllung von anderen gesetzlich festgelegten Aufgaben der amtlichen Statistik verwendet werden. Personenbezogene Daten, die für die Erfüllung dieser Aufgaben nicht erforderlich sind, sind nach dem Empfang der Daten zu löschen.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 (1) Die Insolvenzverwalter, Sachwalter und Treuhänder sind nach § 4 Absatz 1 auskunftspflichtig bezüglich der Angaben, die sich auf Insolvenzverfahren beziehen, die nach dem 31. Dezember 2008 eröffnet wurden.
 

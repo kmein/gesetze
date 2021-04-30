@@ -1,10 +1,7 @@
-# [BBesG/BesÜGBek 2011] Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
-
-Ausfertigungsdatum: 20.12.2011
-
+% Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
+% Ausfertigungsdatum: 20.12.2011
  
-
-## ----
+# ----
 
 Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes vom 5. Februar 2009 (BGBl. I S. 160, 221, 462) werden bekannt gemacht:
 
@@ -14,18 +11,15 @@ Nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassu
 
 3. als Anlage 3 die ab 1. Januar 2012 geltenden Beträge des Grundgehalts nach Anlage 1 des Besoldungsüberleitungsgesetzes für Beamtinnen und Beamte bei den Postnachfolgeunternehmen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 2011, 3024)
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2011, 3025 - 3029)
 
@@ -46,8 +40,7 @@ Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigen
   
 in den Besoldungsgruppen A 2 bis A 3 um je 25,56 Euro,  
 in der Besoldungsgruppe A 4 um je 20,45 Euro und  
-in der Besoldungsgruppe A 5 um je 15,34 Euro.  
-  
+in der Besoldungsgruppe A 5 um je 15,34 Euro.   
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
 Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
@@ -55,8 +48,7 @@ Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 (Anlage IX des BBesG)  
 Gültig ab 1. Januar 2012 für Postnachfolgeunternehmen
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 2011, 3030)
 

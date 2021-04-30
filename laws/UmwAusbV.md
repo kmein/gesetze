@@ -1,15 +1,11 @@
-# [UmwAusbV] Verordnung über die Berufsausbildung in den umwelttechnischen Berufen
-
-Ausfertigungsdatum: 17.06.2002
-
+% Verordnung über die Berufsausbildung in den umwelttechnischen Berufen
+% Ausfertigungsdatum: 17.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung und dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -297,8 +293,7 @@ Anlage 4:
 
 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -312,13 +307,11 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Soweit die Ausbildung in der gewerblichen Wirtschaft stattfindet, sind sie Ausbildungsberufe der gewerblichen Wirtschaft.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung gliedert sich in:
 
@@ -336,8 +329,7 @@ d) für die Fachkraft für Rohr-, Kanal- und Industrieservice gemäß § 22 Nr. 
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8, 9, 14, 15, 20, 21, 26 und 27 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -389,23 +381,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 24. Rechtsvorschriften und technische Regelwerke.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage 1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -424,14 +412,12 @@ Bearbeiten von Werkstoffen, Montieren, Demontieren und Warten von Bauteilen oder
 
 4. Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens zehn Stunden eine praktische Aufgabe, die aus mehreren Teilen bestehen kann, durchführen. Hierfür kommt insbesondere in Betracht:  
-Betreiben, Überwachen und Instandhalten von Wasserversorgungseinrichtungen unter Berücksichtigung der Überprüfung von Qualitätsparametern und Durchführen elektrotechnischer Arbeiten unter Einbeziehung der Mess-, Steuerungs- und Regelungstechnik.  
-Bei der Durchführung der Aufgabe soll der Prüfling zeigen, dass er Arbeitsabläufe wirtschaftlich planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen ergreifen kann. Der Prüfling soll weiter zeigen, dass er mögliche Gefahren des elektrischen Stroms erkennen, elektrische Arbeiten beurteilen und sicherheitsgerecht ausführen kann.
+Betreiben, Überwachen und Instandhalten von Wasserversorgungseinrichtungen unter Berücksichtigung der Überprüfung von Qualitätsparametern und Durchführen elektrotechnischer Arbeiten unter Einbeziehung der Mess-, Steuerungs- und Regelungstechnik. Bei der Durchführung der Aufgabe soll der Prüfling zeigen, dass er Arbeitsabläufe wirtschaftlich planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen ergreifen kann. Der Prüfling soll weiter zeigen, dass er mögliche Gefahren des elektrischen Stroms erkennen, elektrische Arbeiten beurteilen und sicherheitsgerecht ausführen kann.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Wasserversorgung, Elektrotechnische Arbeiten sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Wasserversorgung sowie Elektrotechnische Arbeiten soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen und mathematisch-naturwissenschaftlichen Sachverhalten unter Beachtung des technischen Regelwerks und der Rechtsgrundlagen lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
@@ -477,8 +463,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des praktischen Teils der Prüfung im Prüfungsbereich Elektrotechnische Arbeiten sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Wasserversorgung ebenfalls mindestens ausreichende Leistungen erbracht sein.
 
-
-## § 10 – Ausbildungsberufsbild
+# § 10 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -526,23 +511,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 22. Vertiefungsphase Kanalbetrieb oder Kläranlagenbetrieb.
 
-
-## § 11 – Ausbildungsrahmenplan
+# § 11 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 10 sollen nach der in der Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 12 – Ausbildungsplan
+# § 12 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 13 – Berichtsheft
+# § 13 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 14 – Zwischenprüfung
+# § 14 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -561,14 +542,12 @@ Bearbeiten von Werkstoffen, Montieren, Demontieren und Warten von Bauteilen oder
 
 4. Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
 
-
-## § 15 – Abschlussprüfung
+# § 15 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens zehn Stunden eine praktische Aufgabe, die aus mehreren Teilaufgaben bestehen kann, durchführen. Hierfür kommt insbesondere in Betracht:  
-Betrieb und Unterhalt von Entwässerungssystemen und Abwasserbehandlungsanlagen einschließlich dem Durchführen analytischer und elektrotechnischer Arbeiten.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe wirtschaftlich planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen ergreifen kann. Der Prüfling soll weiter zeigen, dass er mögliche Gefahren des elektrischen Stroms erkennen, elektrische Arbeiten beurteilen und sicherheitsgerecht ausführen kann.
+Betrieb und Unterhalt von Entwässerungssystemen und Abwasserbehandlungsanlagen einschließlich dem Durchführen analytischer und elektrotechnischer Arbeiten. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe wirtschaftlich planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und qualitätssichernde Maßnahmen ergreifen kann. Der Prüfling soll weiter zeigen, dass er mögliche Gefahren des elektrischen Stroms erkennen, elektrische Arbeiten beurteilen und sicherheitsgerecht ausführen kann.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Abwassertechnik, Elektrotechnische Arbeiten sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Abwassertechnik und Elektrotechnische Arbeiten soll der Prüfling zeigen, dass er praxisbezogene Aufgaben mit verknüpften arbeitsorganisatorischen, technologischen und mathematisch-naturwissenschaftlichen Sachverhalten lösen kann. Dabei sollen Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie qualitätssichernde Maßnahmen dargestellt werden. Es kommen unter Berücksichtigung berufsbezogener Berechnungen insbesondere Aufgaben aus folgenden Gebieten in Betracht:
 
@@ -612,8 +591,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Dabei müssen innerhalb des praktischen Teils der Prüfung im Prüfungsbereich Elektrotechnische Arbeiten sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Abwassertechnik ebenfalls mindestens ausreichende Leistungen erbracht sein.
 
-
-## § 16 – Ausbildungsberufsbild
+# § 16 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -661,23 +639,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 22. Rechtsvorschriften und technische Regelwerke.
 
-
-## § 17 – Ausbildungsrahmenplan
+# § 17 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 16 sollen unter Berücksichtigung der Schwerpunkte "Logistik, Sammlung und Vertrieb", "Abfallverwertung und -behandlung" und "Abfallbeseitigung und -behandlung" nach der in der Anlage 3 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 18 – Ausbildungsplan
+# § 18 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 19 – Berichtsheft
+# § 19 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 20 – Zwischenprüfung
+# § 20 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -696,14 +670,12 @@ Bearbeiten von Werkstoffen, Montieren, Demontieren und Warten von Bauteilen oder
 
 4. Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
 
-
-## § 21 – Abschlussprüfung
+# § 21 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens zehn Stunden drei praktische Aufgaben, darunter zwei gemeinsame und eine schwerpunktbezogene Aufgabe, durchführen. Für die gemeinsamen Aufgaben kommen insbesondere in Betracht:  
-Identifizieren, Deklarieren und Untersuchen von Abfällen sowie deren Zuordnung zu den entsprechenden Entsorgungswegen und Bedienen und Warten von Einrichtungen der Abfallbehandlung.  
-Für die schwerpunktbezogene Aufgabe kommt insbesondere in Betracht:
+Identifizieren, Deklarieren und Untersuchen von Abfällen sowie deren Zuordnung zu den entsprechenden Entsorgungswegen und Bedienen und Warten von Einrichtungen der Abfallbehandlung. Für die schwerpunktbezogene Aufgabe kommt insbesondere in Betracht:
 
 1. im Schwerpunkt Logistik, Sammlung und Vertrieb: Durchführen einer logistischen Aufgabe;
 
@@ -763,8 +735,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Abfallwirtschaftliche Prozesse mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 22 – Ausbildungsberufsbild
+# § 22 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -808,23 +779,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 20. Wartung und Unterhalt.
 
-
-## § 23 – Ausbildungsrahmenplan
+# § 23 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 22 sollen unter Berücksichtigung der Schwerpunkte "Rohr- und Kanalservice" und "Industrieservice" nach der in der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 24 – Ausbildungsplan
+# § 24 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 25 – Berichtsheft
+# § 25 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 26 – Zwischenprüfung
+# § 26 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -843,14 +810,12 @@ Bearbeiten von Werkstoffen, Montieren, Demontieren und Warten von Bauteilen oder
 
 4. Werk-, Hilfs- und Gefahrstoffe, gefährliche Arbeitsstoffe.
 
-
-## § 27 – Abschlussprüfung
+# § 27 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in höchstens zehn Stunden zwei praktische Aufgaben, darunter eine gemeinsame Aufgabe und eine Aufgabe im jeweiligen Schwerpunkt, durchführen. Für die gemeinsame Aufgabe kommt insbesondere in Betracht:  
-Durchführen einer Reinigung einer abwassertechnischen Anlage unter Berücksichtigung arbeitsvorbereitender Maßnahmen und der Arbeitssicherheit.  
-Für die schwerpunktbezogene Aufgabe kommt insbesondere in Betracht:
+Durchführen einer Reinigung einer abwassertechnischen Anlage unter Berücksichtigung arbeitsvorbereitender Maßnahmen und der Arbeitssicherheit. Für die schwerpunktbezogene Aufgabe kommt insbesondere in Betracht:
 
 1. im Schwerpunkt Rohr- und Kanalservice:
 
@@ -904,18 +869,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Die Prüfung ist nicht bestanden, wenn in einem der Prüfungsbereiche ungenügende Leistungen erbracht werden.
 
-
-## § 28 – Übergangsregelung
+# § 28 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 29 – Inkrafttreten, Außerkrafttreten
+# § 29 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserversorgungstechnik
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserversorgungstechnik
 
 (Fundstelle: BGBl. I 2002, 2344 - 2348)
 
@@ -931,11 +893,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -1384,8 +1344,7 @@ Rechtsvorschriften und technische Regelwerke anwenden
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 2 – (zu § 11)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Abwassertechnik
+# Anlage 2 – (zu § 11)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Abwassertechnik
 
 (Fundstelle: BGBl. I 2002, 2349 - 2354)
 
@@ -1401,11 +1360,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -1644,11 +1601,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -1831,8 +1786,7 @@ Zur Fortsetzung der Berufsausbildung sollen Fertigkeiten und Kenntnisse gemäß 
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 3 – (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kreislauf- und Abfallwirtschaft
+# Anlage 3 – (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Kreislauf- und Abfallwirtschaft
 
 (Fundstelle: BGBl. I 2002, 2355 - 2362)
 
@@ -1848,11 +1802,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -2259,11 +2211,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -2525,8 +2475,7 @@ e) tätigkeitsbezogene Betriebsanweisungen anwenden
 
 2
 
-
-## Anlage 4 – (zu § 23)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice
+# Anlage 4 – (zu § 23)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Rohr-, Kanal- und Industrieservice
 
 (Fundstelle: BGBl. I 2002, 2363 - 2368)
 
@@ -2542,11 +2491,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -2900,11 +2847,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 
@@ -2959,11 +2904,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im Ausbildungsmonat
 
-1\. - 15.  
-Monat
+1\. - 15. Monat
 
-16\. - 36.  
-Monat
+16\. - 36. Monat
 
 1
 

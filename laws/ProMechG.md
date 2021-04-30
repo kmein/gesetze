@@ -1,10 +1,7 @@
-# [ProMechG] Gesetz über projektbezogene Mechanismen nach dem Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen vom 11. Dezember 1997  (Projekt-Mechanismen-Gesetz - ProMechG)
-
-Ausfertigungsdatum: 22.09.2005
-
+% Gesetz über projektbezogene Mechanismen nach dem Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen vom 11. Dezember 1997  (Projekt-Mechanismen-Gesetz - ProMechG)
+% Ausfertigungsdatum: 22.09.2005
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -134,15 +131,13 @@ Bußgeldvorschriften
 
 Anhang
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Erzeugung von Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen aus der Durchführung von Projekttätigkeiten im Sinne der Artikel 6 und 12 des Protokolls, an denen die Bundesrepublik Deutschland als Investor- oder Gastgeberstaat beteiligt werden soll.
 
 (2) Dieses Gesetz gilt nicht für die Erzeugung von Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen aus der Durchführung von Projekttätigkeiten, die Nuklearanlagen zum Gegenstand haben.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -194,8 +189,7 @@ Im Sinne dieses Gesetzes ist
 
 24. Verzeichnis über den Teilnahmestatus: das Verzeichnis, das von dem nach Artikel 8 des Übereinkommens eingesetzten Sekretariat über den Teilnahmestatus der Vertragsparteien des Protokolls nach Nummer 27 des Abschnitts D der Anlage des Beschlusses 16/CP.7 und nach Nummer 34 des Abschnitts F der Anlage des Beschlusses 17/CP.7 der Konferenz der Vertragsparteien des Übereinkommens geführt wird.
 
-
-## § 3 – Zustimmung
+# § 3 – Zustimmung
 
 (1) Im Rahmen der Gemeinsamen Projektumsetzung außerhalb des Bundesgebiets hat die zuständige Behörde die Zustimmung zu erteilen, wenn
 
@@ -229,13 +223,11 @@ Die Projektdokumentation einschließlich des Überwachungsplans ist nach den for
 
 (7) (weggefallen)
 
-
-## § 4 – Überprüfung der Verifizierung
+# § 4 – Überprüfung der Verifizierung
 
 Die zuständige Behörde soll, soweit nach Bekanntgabe des Verifizierungsberichts begründete Zweifel an der Richtigkeit oder Vollständigkeit dieses Berichts bestehen, die durch den Projektträger nicht ausgeräumt werden können, unverzüglich ein Überprüfungsgesuch bei der zuständigen Behörde des Gaststaates oder bei dem Aufsichtsausschuss einreichen. Der Projektträger ist hiervon unverzüglich zu unterrichten.
 
-
-## § 5 – Zustimmung und Registrierung
+# § 5 – Zustimmung und Registrierung
 
 (1) Im Rahmen einer Gemeinsamen Projektumsetzung im Bundesgebiet hat die zuständige Behörde die Zustimmung zu erteilen, wenn
 
@@ -273,8 +265,7 @@ Die zuständige Behörde soll, soweit nach Bekanntgabe des Verifizierungsbericht
 
 (10) (weggefallen)
 
-
-## § 6 – Bestätigung des Verifizierungsberichts
+# § 6 – Bestätigung des Verifizierungsberichts
 
 (1) Die zuständige Behörde hat den Verifizierungsbericht zu bestätigen, wenn
 
@@ -296,8 +287,7 @@ Der Projektträger ist verpflichtet, im Überwachungsbericht richtige und vollst
 
 (3) Die zuständige Behörde unterrichtet unverzüglich nach der Bestätigung des Verifizierungsberichts den Registerführer im Sinne des Artikels 2 Buchstabe q der Verordnung (EG) Nr. 2216/2004. Der Registerführer überträgt die Anzahl von Emissionsreduktionseinheiten, die der verifizierten Menge an Emissionsminderungen in Tonnen Kohlendioxidäquivalent entspricht, auf das vom Projektträger benannte Konto.
 
-
-## § 7 – Sachverständige Stellen
+# § 7 – Sachverständige Stellen
 
 (1) Zur Validierung und Verifizierung sind nur solche sachverständigen Stellen befugt, die durch den Exekutivrat oder den Aufsichtsausschuss akkreditiert und bekannt gegeben worden sind. Die sachverständigen Stellen werden vom Projektträger beauftragt. Sie sind verpflichtet, die Angaben des Projektträgers auf Richtigkeit und Vollständigkeit zu überprüfen sowie richtige und vollständige Angaben im Validierungs- und Verifizierungsbericht zu machen.
 
@@ -305,8 +295,7 @@ Der Projektträger ist verpflichtet, im Überwachungsbericht richtige und vollst
 
 (3) Bei der sach- und fachgerechten Erstellung des Validierungs- und Verifizierungsberichts sind die Vorgaben des Abschnitts E der Anlage des Beschlusses 16/CP.7 und die Abschnitte E, G und I der Anlage des Beschlusses 17/CP.7 der Konferenz der Vertragsparteien des Übereinkommens zu beachten. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie die Voraussetzungen und das Verfahren durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, regeln. Dabei ist sicherzustellen, dass bei der Verifizierung Doppelzählungen auf Grund unmittelbarer oder mittelbarer Emissionsminderungen und Doppelbegünstigungen ausgeschlossen werden.
 
-
-## § 8 – Zustimmung
+# § 8 – Zustimmung
 
 (1) Im Rahmen des Mechanismus für umweltverträgliche Entwicklung hat die zuständige Behörde die Zustimmung zu erteilen, wenn
 
@@ -342,25 +331,21 @@ Die Projektdokumentation einschließlich des Überwachungsplans ist nach den for
 
 (6) Die zuständige Behörde hat auf Antrag des Projektträgers eine natürliche oder juristische Person im Sinne des Artikels 12 Abs. 9 des Protokolls zu ermächtigen, sich an der Projekttätigkeit zu beteiligen, der nach Absatz 1 zugestimmt wurde.
 
-
-## § 9 – Überprüfungsgesuch
+# § 9 – Überprüfungsgesuch
 
 Die zuständige Behörde kann, soweit die Voraussetzungen der Nummer 41 des Abschnitts G oder der Nummer 65 des Abschnitts J der Anlage des Beschlusses 17/CP.7 der Konferenz der Vertragsparteien des Übereinkommens vorliegen, ein Überprüfungsgesuch beim Exekutivrat einreichen. Der Projektträger ist hiervon unverzüglich zu unterrichten.
 
-
-## § 10 – Zuständige Behörde; Aufgabenübertragung
+# § 10 – Zuständige Behörde; Aufgabenübertragung
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes ist das Umweltbundesamt.
 
 (2) Die nach Absatz 1 zuständige Behörde kann die Aufgaben und Befugnisse mit Ausnahme der Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 15 ganz oder teilweise auf eine juristische Person übertragen, wenn diese die Gewähr dafür bietet, dass die übertragenen Aufgaben ordnungsgemäß und zentral für das Bundesgebiet erfüllt werden. Die Beliehene untersteht der Aufsicht der nach Absatz 1 zuständigen Behörde. Bei einer Aufgabenübertragung auf eine juristische Person des öffentlichen Rechts gilt Satz 2 entsprechend.
 
-
-## § 11 – Benennung eines Bevollmächtigten
+# § 11 – Benennung eines Bevollmächtigten
 
 Wird ein Antrag im Sinne dieses Gesetzes von mehreren natürlichen oder juristischen Personen gestellt, haben diese der zuständigen Behörde eine natürliche Person als gemeinsamen Bevollmächtigten mit Zustelladresse im Inland zu benennen. Hat der Projektträger seinen Firmensitz im Ausland und keine Zweigniederlassung in der Bundesrepublik Deutschland, hat er eine im Inland ansässige Person als Empfangsberechtigten für Zustellungen zu benennen.
 
-
-## § 12 – Mengenbeobachtung
+# § 12 – Mengenbeobachtung
 
 (1) Die zuständige Behörde hat der Bundesregierung erstmals zum 31. Dezember 2006 und danach jährlich über die Anzahl der tatsächlichen und für den folgenden Berichtszeitraum absehbaren Registrierungen im Sinne des § 5 Abs. 8 zu berichten.
 
@@ -370,18 +355,15 @@ Wird ein Antrag im Sinne dieses Gesetzes von mehreren natürlichen oder juristis
 
 (4) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Verfahren der Vorregistrierung nach Absatz 3 und die Maßnahmen zu regeln, die die Einhaltung der Mengenbegrenzung gewährleisten. Dabei ist sicherzustellen, dass eine Vorregistrierung gelöscht wird, soweit die betreffende Projekttätigkeit nicht innerhalb von zwei Jahren ab Vorregistrierung nach § 5 Abs. 8 registriert wird.
 
-
-## § 13 – Rechtsverordnung zu Zustimmungsvoraussetzungen
+# § 13 – Rechtsverordnung zu Zustimmungsvoraussetzungen
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung unter Beachtung der Beschlüsse 16/CP.7 und 17/CP.7 der Konferenz der Vertragsparteien des Übereinkommens durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, regeln, welche Anforderungen an das Vorliegen der einzelnen Zustimmungsvoraussetzungen des § 3 Abs.1, des § 5 Abs. 1 und des § 8 Abs.1 und Versagungsgründe des § 3 Abs. 2, des § 5 Abs. 2 und des § 8 Abs. 2 zu stellen sind.
 
-
-## § 14 – Gebühren und Auslagen
+# § 14 – Gebühren und Auslagen
 
 Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen erhebt die zuständige Behörde Gebühren und Auslagen. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände, die Höhe der Gebühren und die zu erstattenden Auslagen für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen. Die Gebühr beträgt mindestens 20 Euro; sie darf im Einzelfall 600 Euro nicht übersteigen. Bei der Bemessung der Gebühren sind die Anzahl der aus der Durchführung der Projekttätigkeiten erzeugten Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen sowie der mit der Leistung verbundene Verwaltungsaufwand zu berücksichtigen.
 
-
-## § 15 – Bußgeldvorschriften
+# § 15 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 6 Abs. 2 Satz 3 oder § 7 Abs. 1 Satz 3
 
@@ -393,8 +375,7 @@ eine Angabe nicht richtig oder nicht vollständig macht.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 mit einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## Anhang – Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in Marrakesch vom 29. Oktober bis 10. November 2001  Addendum  Teil Zwei  Von der Konferenz der Vertragsparteien ergriffene Maßnahmen  Band II
+# Anhang – Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in Marrakesch vom 29. Oktober bis 10. November 2001  Addendum  Teil Zwei  Von der Konferenz der Vertragsparteien ergriffene Maßnahmen  Band II
 
 Inhalt
 
@@ -519,8 +500,7 @@ angesichts ihrer Beschlüsse -/CMP.1 (Mechanismen), -/CMP.1 (Artikel 12), -/CMP.
 Anlage  
 Leitlinien für die Durchführung des Artikels 6 des Protokolls von Kyoto
 
-A.  
-Begriffsbestimmungen
+A. Begriffsbestimmungen
 
 1. Für die Zwecke dieser Anlage finden die in Artikel 1 1) enthaltenen Begriffsbestimmungen und Artikel 14 Anwendung. Außerdem
 
@@ -534,13 +514,11 @@ d) ist eine "Gutschrift aus Senken" oder "RMU" eine nach den einschlägigen Best
 
 e) bedeutet "Betroffene" die von dem Projekt betroffene oder wahrscheinlich betroffene Öffentlichkeit einschließlich Einzelpersonen, Gruppen oder Gemeinschaften.
 
-B.  
-Rolle der als Tagung der Vertragsparteien des Protokolls von Kyoto dienenden Konferenz der Vertragsparteien
+B. Rolle der als Tagung der Vertragsparteien des Protokolls von Kyoto dienenden Konferenz der Vertragsparteien
 
 2. Die als Tagung der Vertragsparteien des Protokolls von Kyoto dienende Konferenz der Vertragsparteien (COP/MOP) erteilt Maßgaben für die Durchführung des Artikels 6 und hat die Weisungsbefugnis über den Aufsichtsausschuss betreffend Artikel 6.
 
-C.  
-Aufsichtsausschuss betreffend Artikel 6
+C. Aufsichtsausschuss betreffend Artikel 6
 
 3. Der Aufsichtsausschuss betreffend Artikel 6 beaufsichtigt unter anderem die in Abschnitt E beschriebene Verifizierung der durch Projektmaßnahmen nach Artikel 6 geschaffenen ERU und ist verantwortlich für
 
@@ -608,8 +586,7 @@ e) leisten vor Übernahme ihrer Amtspflichten einen schriftlichen Diensteid, der
 
 19. Das Sekretariat betreut den Aufsichtsausschuss betreffend Artikel 6.
 
-D.  
-Voraussetzungen für die Teilnahme
+D. Voraussetzungen für die Teilnahme
 
 20. Eine an einem Projekt nach Artikel 6 beteiligte Vertragspartei hat dem Sekretariat Folgendes mitzuteilen:
 
@@ -651,8 +628,7 @@ b) dass sie weiterhin die unter Nummer 21 genannten Zulassungsvoraussetzungen er
 
 29. Ermächtigt eine Vertragspartei Rechtsträger, an Projekten nach Artikel 6 teilzunehmen, so ist sie weiterhin für die Erfüllung ihrer Verpflichtungen aus dem Protokoll von Kyoto verantwortlich; sie hat dafür zu sorgen, dass diese Teilnahme in Übereinstimmung mit dieser Anlage erfolgt. Rechtsträger dürfen ERU nur dann übertragen und erwerben, wenn die ermächtigende Vertragspartei zu dem betreffenden Zeitpunkt dazu berechtigt ist.
 
-E.  
-Verifizierungsverfahren im Rahmen des Aufsichtsausschusses betreffend Artikel 6
+E. Verifizierungsverfahren im Rahmen des Aufsichtsausschusses betreffend Artikel 6
 
 30. Das Verifizierungsverfahren im Rahmen des Aufsichtsausschusses betreffend Artikel 6 ist die Feststellung durch eine nach Anhang A akkreditierte unabhängige Prüfeinrichtung, ob ein Projekt und die sich daraus ergebenden Reduktionen der anthropogenen Emissionen aus Quellen oder Verstärkungen des anthropogenen Abbaus durch Senken die einschlägigen Anforderungen des Artikels 6 und dieser Leitlinien erfüllen.
 
@@ -928,8 +904,7 @@ in Kenntnis des Beschlusses 17/CP.7 über Modalitäten und Verfahren für einen 
 Anlage  
 Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche Entwicklung
 
-A.  
-Begriffsbestimmungen
+A. Begriffsbestimmungen
 
 1. Für die Zwecke dieser Anlage finden die in Artikel 1 3) enthaltenen Begriffsbestimmungen und Artikel 14 Anwendung. Außerdem
 
@@ -943,8 +918,7 @@ d) ist eine "Gutschrift aus Senken" oder "RMU" eine nach den einschlägigen Best
 
 e) bedeutet "Betroffene" die von der geplanten Projektmaßnahme im Rahmen des Mechanismus für umweltverträgliche Entwicklung betroffene oder wahrscheinlich betroffene Öffentlichkeit einschließlich Einzelpersonen, Gruppen oder Gemeinschaften.
 
-B.  
-Rolle der als Tagung der Vertragsparteien des Protokolls von Kyoto dienenden Konferenz der Vertragsparteien
+B. Rolle der als Tagung der Vertragsparteien des Protokolls von Kyoto dienenden Konferenz der Vertragsparteien
 
 2. Die als Tagung der Vertragsparteien des Protokolls von Kyoto dienende Konferenz der Vertragsparteien (COP/MOP) hat die Weisungsbefugnis und Leitung über den Mechanismus für umweltverträgliche Entwicklung (CDM).
 
@@ -966,8 +940,7 @@ c) sie überprüft die regionale und subregionale Verteilung von CDM-Projektmaß
 
 d) sie hilft bei Bedarf bei der Beschaffung von Finanzierungsmitteln für CDM-Projektmaßnahmen.
 
-C.  
-Exekutivrat
+C. Exekutivrat
 
 5. Der Exekutivrat beaufsichtigt den CDM unter der Weisung und Leitung der COP/MOP und ist dieser gegenüber voll verantwortlich. In diesem Zusammenhang wird der Exekutivrat wie folgt tätig:
 
@@ -1049,8 +1022,7 @@ g) dürfen vorbehaltlich ihrer Verantwortlichkeiten gegenüber dem Exekutivrat k
 
 19. Das Sekretariat betreut den Exekutivrat.
 
-D.  
-Akkreditierung und Benennung von Prüfeinrichtungen
+D. Akkreditierung und Benennung von Prüfeinrichtungen
 
 20. Der Exekutivrat
 
@@ -1074,8 +1046,7 @@ e) führt zu jeder beliebigen Zeit Stichprobenprüfungen durch und entscheidet a
 
 25. Der Exekutivrat kann bei der Wahrnehmung der unter Nummer 20 genannten Aufgaben nach Nummer 18 um Hilfe nachsuchen.
 
-E.  
-Benannte Prüfeinrichtungen
+E. Benannte Prüfeinrichtungen
 
 26. Benannte Prüfeinrichtungen sind gegenüber der COP/MOP über den Exekutivrat verantwortlich und haben sich nach den Modalitäten und Verfahren in dem Beschluss 17/CP.7, dieser Anlage und den einschlägigen Beschlüssen der COP/MOP und des Exekutivrats zu richten.
 
@@ -1097,8 +1068,7 @@ g) legt dem Exekutivrat einen jährlichen Tätigkeitsbericht vor;
 
 h) macht auf Verlangen des Exekutivrats von CDM-Projektteilnehmern erhaltene Informationen öffentlich verfügbar. Als vertraulich oder rechtlich geschützt gekennzeichnete Informationen dürfen nicht ohne schriftliche Zustimmung der die Informationen herausgebenden Stelle offen gelegt werden, sofern nicht das innerstaatliche Recht dies vorschreibt. Informationen, die dazu dienen festzustellen, ob eine Zusätzlichkeit im Sinne der Nummer 43 vorliegt, die Methoden für die Bestimmung des Referenzszenariums und ihre Anwendung zu beschreiben und eine unter Nummer 37 Buchstabe c genannte Umweltverträglichkeitsprüfung zu unterstützen, gelten nicht als rechtlich geschützt oder vertraulich.
 
-F.  
-Voraussetzungen für die Teilnahme
+F. Voraussetzungen für die Teilnahme
 
 28. Die Teilnahme an einer CDM-Projektmaßnahme ist freiwillig.
 
@@ -1134,8 +1104,7 @@ a) der nicht in Anlage I aufgeführten Vertragsparteien, die Vertragsparteien de
 
 b) der in Anlage I aufgeführten Vertragsparteien, die die Voraussetzungen unter Nummer 31 nicht erfüllen oder deren Zulassung ausgesetzt worden ist.
 
-G.  
-Validierung und Registrierung
+G. Validierung und Registrierung
 
 35. Die Validierung ist die unabhängige Beurteilung einer Projektmaßnahme durch eine benannte Prüfeinrichtung unter Berücksichtigung der Anforderungen des CDM nach Maßgabe des Beschlusses 17/CP.7, dieser Anlage und den einschlägigen Beschlüssen der COP/MOP auf der Grundlage der Projektdokumentation, die in Anhang B beschrieben ist.
 
@@ -1233,8 +1202,7 @@ b) maximal zehn Jahre ohne Verlängerungsmöglichkeit.
 
 52. Die Grenzen des Projekts werden so gezogen, dass alle anthropogenen Emissionen von Treibhausgasen aus Quellen unter der Kontrolle der Projektteilnehmer erfasst werden, die erheblich sind und die nach vernünftigem Ermessen der CDM-Projektmaßnahme zuzurechnen sind.
 
-H.  
-Überwachung
+H. Überwachung
 
 53. Die Projektteilnehmer nehmen in die Projektdokumentation einen Überwachungsplan auf, der Folgendes vorsieht:
 
@@ -1270,8 +1238,7 @@ b) der für die Art der Projektmaßnahme geeigneten bewährten Überwachungsprax
 
 60. Die Projektteilnehmer stellen der benannten Prüfeinrichtung, die von ihnen mit der Durchführung der Verifizierung beauftragt worden ist, für Verifizierungs- und Zertifizierungszwecke einen Überwachungsbericht in Übereinstimmung mit dem unter Nummer 53 genannten registrierten Überwachungsplan zur Verfügung.
 
-I.  
-Verifizierung und Zertifizierung
+I. Verifizierung und Zertifizierung
 
 61. Die Verifizierung ist die von der Prüfeinrichtung durchgeführte regelmäßige unabhängige Überprüfung und Ex-Post-Bestimmung der überwachten Reduktionen der anthropogenen Emissionen von Treibhausgasen aus Quellen, die innerhalb des Verifizierungszeitraums als Ergebnis einer registrierten CDM-Projektmaßnahme entstanden sind. Die Zertifizierung ist eine schriftliche Zusicherung der benannten Prüfeinrichtung, dass eine Projektmaßnahme innerhalb eines bestimmten Zeitraums zu den verifizierten Reduktionen der anthropogenen Emissionen von Treibhausgasen aus Quellen geführt hat.
 
@@ -1295,8 +1262,7 @@ h) legt den Projektteilnehmern, den beteiligten Vertragsparteien und dem Exekuti
 
 63. Die benannte Prüfeinrichtung bestätigt auf der Grundlage ihres Verifizierungsberichts schriftlich, dass die Projektmaßnahme innerhalb des angegebenen Zeitraums zu den verifizierten Reduktionen der anthropogenen Emissionen von Treibhausgasen aus Quellen geführt hat, die ohne die CDM-Projektmaßnahme nicht erreicht worden wären. Nach Beendigung des Zertifizierungsvorgangs informiert sie die Projektteilnehmer, die beteiligten Vertragsparteien und den Exekutivrat umgehend schriftlich über ihre Zertifizierungsentscheidung und macht den Zertifizierungsbericht öffentlich verfügbar.
 
-J.  
-Ausstellung von zertifizierten Emissionsreduktionen (CER)
+J. Ausstellung von zertifizierten Emissionsreduktionen (CER)
 
 64. Der Zertifizierungsbericht stellt einen an den Exekutivrat gerichteten Antrag auf Ausstellung von CER in Höhe der verifizierten Reduktionen der anthropogenen Emissionen von Treibhausgasen aus Quellen dar.
 
@@ -1706,8 +1672,7 @@ Anlage
 Modalitäten für die Abrechnung über die zugeteilten Mengen nach Artikel 7 Absatz 4 des Protokolls von Kyoto 8)  
 I. Modalitäten
 
-A.  
-Begriffsbestimmungen
+A. Begriffsbestimmungen
 
 1. Eine "Emissionsreduktionseinheit" oder "ERU" ist eine nach den einschlägigen Bestimmungen dieser Modalitäten für die Abrechnung über die zugeteilten Mengen ausgestellte Einheit und entspricht einer metrischen Tonne Kohlendioxidäquivalent, berechnet unter Verwendung der globalen Treibhauspotenziale im Sinne des Beschlusses 2/CP.3 oder einer späteren Überarbeitung nach Artikel 5;
 
@@ -1717,8 +1682,7 @@ Begriffsbestimmungen
 
 4. eine "Gutschrift aus Senken" oder "RMU" ist eine nach den einschlägigen Bestimmungen dieser Modalitäten für die Abrechnung über die zugeteilten Mengen ausgestellte Einheit und entspricht einer metrischen Tonne Kohlendioxidäquivalent, berechnet unter Verwendung der globalen Treibhauspotenziale im Sinne des Beschlusses 2/CP.3 oder einer späteren Überarbeitung nach Artikel 5.
 
-B.  
-Berechnung der zugeteilten Menge nach Artikel 3 Absätze 7 und 8
+B. Berechnung der zugeteilten Menge nach Artikel 3 Absätze 7 und 8
 
 5. Die jeder in Anlage I aufgeführten Vertragspartei mit einer in Anlage B des Protokolls von Kyoto niedergelegten Verpflichtung 9) nach Artikel 3 Absätze 7 und 8 zugeteilte Menge für den ersten Verpflichtungszeitraum von 2008 bis 2012 entspricht dem für sie in Anlage B niedergelegten Prozentanteil ihrer gesamten anthropogenen Emissionen der in Anlage A des Protokolls von Kyoto aufgeführten Treibhausgase und aus den dort aufgeführten Quellen in Kohlendioxidäquivalenten im Basisjahr, multipliziert mit fünf, wobei Folgendes zu berücksichtigen ist:
 
@@ -1754,15 +1718,13 @@ e) eine Beschreibung ihres nationalen Systems nach Artikel 5 Absatz 1, das im Ei
 
 f) eine Beschreibung ihres nationalen Registers, das im Einklang mit den Leitlinien für die Erstellung der nach Artikel 7 des Protokolls von Kyoto vorgeschriebenen Informationen gemeldet ist.
 
-C.  
-Erfassung der zugeteilten Menge nach Artikel 3 Absätze 7 und 8
+C. Erfassung der zugeteilten Menge nach Artikel 3 Absätze 7 und 8
 
 9. Nach der ersten Überprüfung aufgrund des Artikels 8 und nach Lösung etwaiger Fragen der Durchführung in Bezug auf Anpassungen oder die Berechnung ihrer zugeteilten Menge nach Artikel 3 Absätze 7 und 8 wird die jeder Vertragspartei nach Artikel 3 Absätze 7 und 8 zugeteilte Menge in der unter Nummer 50 genannten Bilanzdatenbank für die Verbuchung der Emissionsrechte erfasst.
 
 10. Nach Erfassung in der unter Nummer 50 genannten Bilanzdatenbank für die Verbuchung der Emissionsrechte bleibt die zugeteilte Menge nach Artikel 3 Absätze 7 und 8 jeder Vertragspartei während des gesamten Verpflichtungszeitraums unverändert.
 
-D.  
-Additionen zu und Subtraktionen von der zugeteilten Menge nach Artikel 3 Absätze 7 und 8 für die Rechenschaftslegung über die Bewertung der Erfüllung der Verpflichtungen
+D. Additionen zu und Subtraktionen von der zugeteilten Menge nach Artikel 3 Absätze 7 und 8 für die Rechenschaftslegung über die Bewertung der Erfüllung der Verpflichtungen
 
 11. Nach Ablauf der Verlängerung für die Erfüllung der Verpflichtungen werden im Einklang mit Artikel 3 Absätze 3, 4, 10, 12 und 13 für die Rechenschaftslegung über die Bewertung der Erfüllung der Verpflichtungen in dem Verpflichtungszeitraum die folgenden Additionen zu der einer Vertragspartei zugeteilten Menge nach Artikel 3 Absätze 7 und 8 vorgenommen:
 
@@ -1792,15 +1754,13 @@ e) Löschung von ERU, CER, AAU und/oder RMU durch die Vertragspartei nach Festst
 
 f) andere Löschungen von ERU, CER, AAU und/oder RMU durch die Vertragspartei.
 
-E.  
-Grundlage für die Bewertung der Erfüllung der Verpflichtungen
+E. Grundlage für die Bewertung der Erfüllung der Verpflichtungen
 
 13. Jede in Anlage I aufgeführte Vertragspartei bucht zum Nachweis der Erfüllung ihrer Verpflichtung nach Artikel 3 Absatz 1 ERU, CER, AAU und/oder RMU aus.
 
 14. Die Bewertung der Erfüllung der Verpflichtung einer in Anlage I aufgeführten Vertragspartei nach Artikel 3 Absatz 1 nach Ablauf der Verlängerung für die Erfüllung der Verpflichtungen erfolgt auf der Grundlage eines Vergleichs der Menge der für den fraglichen Verpflichtungszeitraum gültigen und von der Vertragspartei nach Nummer 13 ausgebuchten ERU, CER, AAU und/oder RMU mit ihren gesamten anthropogenen Emissionen in Kohlendioxidäquivalenten der in Anlage A des Protokolls von Kyoto genannten Treibhausgase und aus den dort genannten Quellen während des Verpflichtungszeitraums, wie nach Artikel 7 gemeldet und nach Artikel 8 überprüft, unter Berücksichtigung etwaiger Anpassungen nach Artikel 5 Absatz 2 und wie in der unter Nummer 50 genannten Bilanzdatenbank für die Verbuchung der Emissionsrechte erfasst.
 
-F.  
-Übertrag
+F. Übertrag
 
 15. Nach Ablauf der Verlängerung für die Erfüllung der Verpflichtungen und wenn der unter Nummer 62 genannte abschließende Bericht über die Verbuchung der Emissionsrechte zeigt, dass die von der Vertragspartei nach Nummer 13 ausgebuchte Menge an ERU, CER, AAU und/oder RMU mindestens der Menge ihrer anthropogenen Emissionen in Kohlendioxidäquivalenten der in Anlage A des Protokolls von Kyoto genannten Treibhausgase und aus den dort genannten Quellen für den betreffenden Verpflichtungszeitraum entspricht, kann die Vertragspartei Folgendes auf den nachfolgenden Verpflichtungszeitraum übertragen:
 
@@ -1814,8 +1774,7 @@ c) alle nicht für den betreffenden Verpflichtungszeitraum ausgebuchten oder gel
 
 II\. Anforderungen im Hinblick auf das Register
 
-A.  
-Nationale Register
+A. Nationale Register
 
 17. Jede in Anlage I aufgeführte Vertragspartei erstellt und führt ein nationales Register, um die genaue Verbuchung der Ausstellung, des Besitzes, der Übertragung, des Erwerbs, der Löschung und der Ausbuchung von ERU, CER, AAU und RMU und des Übertrags von ERU, CER und AAU zu gewährleisten.
 
@@ -1845,8 +1804,7 @@ a) Kennung der Vertragspartei: die Vertragspartei, in deren nationalem Register 
 
 b) eine eindeutige Nummer: eine nur dieses Konto betreffende Nummer für die Vertragspartei, in deren nationalem Register das Konto geführt wird.
 
-B.  
-Ausstellung von ERU, AAU und RMU
+B. Ausstellung von ERU, AAU und RMU
 
 23. Bevor in einem bestimmten Verpflichtungszeitraum irgendwelche Transaktionen stattfinden, stellt jede in Anlage I aufgeführte Vertragspartei, für ihr nationales Register eine ihrer zugeteilten Menge nach Artikel 3 Absätze 7 und 8 entsprechende Anzahl von nach Maßgabe der Nummern 5 bis 10 berechneten und erfassten AAU aus.
 
@@ -1880,8 +1838,7 @@ e) Einheit: eine eindeutige RMU-Nummer für den angegebenen Verpflichtungszeitra
 
 29. Vor der Übertragung stellt jede Vertragspartei ERU für ihr nationales Register durch Umwandlung von zu einem früheren Zeitpunkt von ihr ausgestellten und in ihrem nationalen Register geführten AAU oder RMU aus. Die Umwandlung einer AAU oder RMU in eine ERU erfolgt durch Hinzufügung eines Projektkennzeichens zu der Seriennummer und durch Änderung der Angabe über die Art der Einheit in der Seriennummer in "ERU". Die anderen Bestandteile der Seriennummer der AAU oder RMU bleiben unverändert. Das Projektkennzeichen zeigt anhand einer eindeutigen Projektnummer für das Herkunftsland an, für welches spezielle Projekt nach Artikel 6 die ERU ausgestellt ist und ob die einschlägigen Reduktionen der anthropogenen Emissionen aus Quellen oder Verstärkungen des anthropogenen Abbaus durch Senken vom Aufsichtsausschuss betreffend Artikel 6 verifiziert wurden.
 
-C.  
-Übertragung, Erwerb, Löschung, Ausbuchung und Übertrag
+C. Übertragung, Erwerb, Löschung, Ausbuchung und Übertrag
 
 30. ERU, CER, AAU und RMU können in Übereinstimmung mit den Beschlüssen -/CMP.1 (Artikel 6), -/CMP.1 (Artikel 12), -/CMP.1 (Artikel 17) und -/CMP.1 (Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zwischen Registern und innerhalb von Registern übertragen werden.
 
@@ -1899,8 +1856,7 @@ C.
 
 37. Stellt der Einhaltungsausschuss fest, dass die Vertragspartei ihre Verpflichtung nach Artikel 3 Absatz 1 in einem Verpflichtungszeitraum nicht erfüllt hat, so überträgt diese Vertragspartei die nach Maßgabe des Beschlusses 24/CP.7 berechnete Anzahl von ERU, CER, AAU und/oder RMU in Übereinstimmung mit Nummer 12 Buchstabe e auf das entsprechende Löschungskonto.
 
-D.  
-Transaktionsverfahren
+D. Transaktionsverfahren
 
 38. Das Sekretariat errichtet und führt eine unabhängige Transaktionsprotokolliereinrichtung, die die Gültigkeit der Transaktionen einschließlich Ausstellung, Übertragung und Erwerb zwischen Registern, Löschung und Ausbuchung von ERU, CER, AAU und RMU und Übertrag von ERU, CER und AAU nachprüft.
 
@@ -1934,8 +1890,7 @@ c) meldet die Transaktionsprotokolliereinrichtung keine Anomalie, wird die Trans
 
 d) zur Erleichterung der automatisierten Kontrollen und der Überprüfung nach Artikel 8 erfasst die Transaktionsprotokolliereinrichtung sämtliche Transaktionsaufzeichnungen sowie Datum und Uhrzeit des Abschlusses jeder Transaktion und macht sie öffentlich verfügbar.
 
-E.  
-Öffentlich zugängliche Informationen
+E. Öffentlich zugängliche Informationen
 
 44. Jedes nationale Register macht Informationen, die nicht vertraulich sind, öffentlich verfügbar und stellt eine öffentlich zugängliche Benutzerschnittstelle über das Internet bereit, die interessierten Personen die Möglichkeit zur Abfrage und Einsichtnahme gibt.
 
@@ -1991,8 +1946,7 @@ l) die aktuelle Gesamtzahl der ERU, CER, AAU und RMU auf jedem Konto.
 
 III\. Bilanzierung der Emissionsverzeichnisse und zugeteilten Mengen
 
-A.  
-Berichterstattung nach Ablauf der Verlängerung für die Erfüllung der Verpflichtungen
+A. Berichterstattung nach Ablauf der Verlängerung für die Erfüllung der Verpflichtungen
 
 49. Nach Ablauf einer Verlängerung für die Erfüllung der Verpflichtungen erstattet jede in Anlage I aufgeführte Vertragspartei dem Sekretariat Bericht und stellt der Öffentlichkeit in einem standardisierten elektronischen Format die folgenden Informationen zur Verfügung. Diese Informationen betreffen nur für den fraglichen Verpflichtungszeitraum gültige ERU, CER, AAU und RMU:
 
@@ -2002,8 +1956,7 @@ b) die Gesamtzahl und die Seriennummern der in ihrem Ausbuchungskonto befindlich
 
 c) die Gesamtzahl und die Seriennummern der ERU, CER und AAU, die auf Antrag der Vertragspartei auf den nachfolgenden Verpflichtungszeitraum übertragen werden sollen.
 
-B.  
-Bilanzdatenbank für die Verbuchung der Emissionsrechte
+B. Bilanzdatenbank für die Verbuchung der Emissionsrechte
 
 50. Im Rahmen der Rechenschaftslegung über die Bewertung der Erfüllung der Verpflichtungen im Einklang mit den Nummern 11 und 12 richtet das Sekretariat eine Bilanzdatenbank für die Verbuchung der Emissionen und zugeteilten Mengen nach Artikel 3 Absätze 7 und 8 sowie der Additionen zu und Subtraktionen von den zugeteilten Mengen nach Artikel 3 Absätze 7 und 8 ein. Zweck dieser Datenbank ist es, die Bewertung der Erfüllung der Verpflichtungen der in Anlage I aufgeführten Vertragsparteien nach Artikel 3 Absatz 1 zu erleichtern.
 
@@ -2071,8 +2024,7 @@ b) die Gesamtzahl der auf dem Ausbuchungskonto der Vertragspartei befindlichen E
 
 60. Nach Beendigung der nach Artikel 8 vorgeschriebenen Überprüfung des jährlichen Verzeichnisses für das letzte Jahr des Verpflichtungszeitraums und der Lösung etwaiger damit verbundener Fragen der Durchführung erfasst das Sekretariat in der Datenbank die gesamten anthropogenen Emissionen der Vertragspartei in Kohlendioxidäquivalenten der in Anlage A des Protokolls von Kyoto genannten Treibhausgase und aus den dort genannten Quellen für den Verpflichtungszeitraum.
 
-C.  
-Bilanzierungsberichte
+C. Bilanzierungsberichte
 
 61. Das Sekretariat veröffentlicht für jede in Anlage I aufgeführte Vertragspartei einen jährlichen Bilanzierungsbericht und leitet diesen an die COP/MOP, den Einhaltungsausschuss und die betroffene Vertragspartei weiter.
 

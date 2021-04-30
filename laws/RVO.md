@@ -1,10 +1,7 @@
-# [RVO] Reichsversicherungsordnung
-
-Ausfertigungsdatum: 19.07.1911
-
+% Reichsversicherungsordnung
+% Ausfertigungsdatum: 19.07.1911
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 ERSTES BUCH
 
@@ -601,200 +598,147 @@ Verfahren
 
 §§ 1545 bis 1805
 
+# §§ 1 u. 2 – (weggefallen)
 
-## §§ 1 u. 2 – (weggefallen)
-
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
-
-\-
-
-
-## §§ 5 bis 11 – (weggefallen)
-
-
-## §§ 12 bis 24 – (weggefallen)
-
-
-## §§ 25 bis 27f – (weggefallen)
-
-
-## § 27g
+# § 4
 
 \-
 
+# §§ 5 bis 11 – (weggefallen)
 
-## § 28
+# §§ 12 bis 24 – (weggefallen)
 
-\-
+# §§ 25 bis 27f – (weggefallen)
 
-
-## § 29
-
-\-
-
-
-## §§ 30 bis 34 – (weggefallen)
-
-
-## § 35
+# § 27g
 
 \-
 
-
-## §§ 36 bis 38 – (weggefallen)
-
-
-## § 39
+# § 28
 
 \-
 
-
-## §§ 40 bis 55 – (weggefallen)
-
-
-## §§ 56 bis 58 – (weggefallen)
-
-
-## §§ 59 u. 60 – (weggefallen)
-
-
-## §§ 61 bis 82 – (weggefallen)
-
-
-## §§ 83 bis 109 – (weggefallen)
-
-
-## §§ 110 bis 114 – (weggefallen)
-
-
-## §§ 115 bis 117 – (weggefallen)
-
-
-## §§ 118 bis 121 – (weggefallen)
-
-
-## §§ 122 und 123 – (weggefallen)
-
-
-## §§ 124 bis 134 – (weggefallen)
-
-
-## §§ 135 u. 136 – (weggefallen)
-
-
-## §§ 137 u. 138 – (weggefallen)
-
-
-## §§ 139 bis 148 – (weggefallen)
-
-
-## §§ 149 bis 152 – (weggefallen)
-
-
-## §§ 153 bis 156 – (weggefallen)
-
-
-## §§ 157 u. 158 – (weggefallen)
-
-
-## § 159
+# § 29
 
 \-
 
+# §§ 30 bis 34 – (weggefallen)
 
-## § 160
-
-\-
-
-
-## § 161
+# § 35
 
 \-
 
+# §§ 36 bis 38 – (weggefallen)
 
-## § 162
-
-\-
-
-
-## § 163
+# § 39
 
 \-
 
+# §§ 40 bis 55 – (weggefallen)
 
-## § 164
+# §§ 56 bis 58 – (weggefallen)
+
+# §§ 59 u. 60 – (weggefallen)
+
+# §§ 61 bis 82 – (weggefallen)
+
+# §§ 83 bis 109 – (weggefallen)
+
+# §§ 110 bis 114 – (weggefallen)
+
+# §§ 115 bis 117 – (weggefallen)
+
+# §§ 118 bis 121 – (weggefallen)
+
+# §§ 122 und 123 – (weggefallen)
+
+# §§ 124 bis 134 – (weggefallen)
+
+# §§ 135 u. 136 – (weggefallen)
+
+# §§ 137 u. 138 – (weggefallen)
+
+# §§ 139 bis 148 – (weggefallen)
+
+# §§ 149 bis 152 – (weggefallen)
+
+# §§ 153 bis 156 – (weggefallen)
+
+# §§ 157 u. 158 – (weggefallen)
+
+# § 159
 
 \-
 
+# § 160
 
-## §§ 165 bis 178 – (weggefallen)
+\-
 
+# § 161
 
-## § 179 – (weggefallen)
+\-
 
+# § 162
 
-## §§ 180 und 180a – (weggefallen)
+\-
 
+# § 163
 
-## §§ 181 bis 181b – (weggefallen)
+\-
 
+# § 164
 
-## §§ 182 bis 194 – (weggefallen)
+\-
 
+# §§ 165 bis 178 – (weggefallen)
 
-## §§ 195 bis 200b – (weggefallen)
+# § 179 – (weggefallen)
 
+# §§ 180 und 180a – (weggefallen)
 
-## §§ 201 bis 204 – (weggefallen)
+# §§ 181 bis 181b – (weggefallen)
 
+# §§ 182 bis 194 – (weggefallen)
 
-## §§ 205 bis 205d – (weggefallen)
+# §§ 195 bis 200b – (weggefallen)
 
+# §§ 201 bis 204 – (weggefallen)
 
-## §§ 206 bis 224 – (weggefallen)
+# §§ 205 bis 205d – (weggefallen)
 
+# §§ 206 bis 224 – (weggefallen)
 
-## §§ 225 bis 305 – (weggefallen)
+# §§ 225 bis 305 – (weggefallen)
 
+# §§ 306 bis 319a – (weggefallen)
 
-## §§ 306 bis 319a – (weggefallen)
+# §§ 320 bis 326 – (weggefallen)
 
+# §§ 327 bis 348 – (weggefallen)
 
-## §§ 320 bis 326 – (weggefallen)
-
-
-## §§ 327 bis 348 – (weggefallen)
-
-
-## § 349
+# § 349
 
 Bei den Krankenkassen werden die aus Mitteln der Kassen bezahlten Stellen der Beamten und derjenigen Angestellten, für welche die Dienstordnung (§ 351) gilt, mit zwei Drittel Mehrheit durch den Vorstand besetzt.
 
-
-## § 350
+# § 350
 
 Kommt kein Anstellungsbeschluß zustande, so bestellt die Aufsichtsbehörde auf Kosten der Kasse widerruflich die für die Geschäfte der Stelle erforderlichen Personen.
 
-
-## § 351
+# § 351
 
 (1) Für die von den Krankenkassen besoldeten Angestellten, die nicht nach Landesrecht staatliche oder gemeindliche Beamte sind, wird eine Dienstordnung aufgestellt.
 
 (2) Für Angestellte, die nur auf Probe, zu vorübergehender Dienstleistung oder zur Vorbereitung beschäftigt werden oder die das Amt ohne Entgelt nebenher ausüben, gilt die Dienstordnung nur, soweit sie es ausdrücklich vorsieht.
 
-
-## § 352
+# § 352
 
 Die Dienstordnung regelt die Rechts- und die allgemeinen Dienstverhältnisse der Angestellten, insbesondere den Nachweis ihrer fachlichen Befähigung, ihre Zahl, die Art der Anstellung, die Kündigung oder Entlassung und die Folgen der Nichterfüllung von Pflichten. Hierbei dürfen keine weitergehenden Rechtsnachteile vorgesehen werden, als sie das Disziplinarrecht für Beamte zuläßt.
 
-
-## § 353
+# § 353
 
 (1) Die Dienstordnung enthält einen Besoldungsplan. Dabei regelt sie:
 
@@ -806,8 +750,7 @@ Die Dienstordnung regelt die Rechts- und die allgemeinen Dienstverhältnisse der
 
 (2) Sie regelt ferner, unter welchen Voraussetzungen Beförderung stattfindet.
 
-
-## § 354
+# § 354
 
 (1) Wer der Dienstordnung unterstehen soll, wird durch schriftlichen Vertrag angestellt.
 
@@ -819,8 +762,7 @@ Die Dienstordnung regelt die Rechts- und die allgemeinen Dienstverhältnisse der
 
 (5) Angestellte, die ihre dienstliche Stellung oder ihre Dienstgeschäfte zu einer religiösen oder politischen Betätigung mißbrauchen, hat der Vorsitzende des Vorstands zu verwarnen und bei Wiederholung, nachdem ihnen Gelegenheit zur Äußerung gegeben worden ist, sofort zu entlassen; die Entlassung bedarf der Genehmigung durch die Aufsichtsbehörde. Eine religiöse oder politische Betätigung außerhalb der Dienstgeschäfte und die Ausübung des Vereinigungsrechts dürfen, soweit sie nicht gegen die Gesetze verstoßen, nicht gehindert werden und gelten an sich nicht als Gründe zur Kündigung oder Entlassung.
 
-
-## § 355
+# § 355
 
 (1) Vor Aufstellung der Dienstordnung hat der Vorstand die volljährigen Angestellten zu hören.
 
@@ -828,13 +770,11 @@ Die Dienstordnung regelt die Rechts- und die allgemeinen Dienstverhältnisse der
 
 (3) Das gleiche gilt für Änderung der Dienstordnung.
 
-
-## § 356
+# § 356
 
 Reicht eine Kasse trotz Aufforderung in der gesetzten Frist keine Dienstordnung ein, so stellt die Aufsichtsbehörde die Dienstordnung rechtsverbindlich fest. Das gleiche gilt für angeordnete Änderungen und Ergänzungen.
 
-
-## § 357
+# § 357
 
 (1) Beschlüsse des Vorstands oder der Vertreterversammlung, die gegen die Dienstordnung verstoßen, hat der Vorsitzende des Vorstands durch Beschwerde an die Aufsichtsbehörde zu beanstanden; die Beschwerde bewirkt Aufschub.
 
@@ -842,138 +782,104 @@ Reicht eine Kasse trotz Aufforderung in der gesetzten Frist keine Dienstordnung 
 
 (3) Läuft eine Bestimmung des Anstellungsvertrags der Dienstordnung zuwider, so ist sie nichtig.
 
-
-## § 358
+# § 358
 
 Verträge mit Angestellten, die der Dienstordnung unterstehen sollen (§§ 349, 354 Abs. 1), dürfen ab dem 1. Januar 1993 nicht mehr abgeschlossen werden, es sei denn, der Angestellte unterstand am 31. Dezember 1992 bereits einer Dienstordnung.
 
-
-## § 359
+# § 359
 
 \-
 
-
-## § 360
+# § 360
 
 Wo nach Landesgesetz auch die nicht auf Lebenszeit oder unwiderruflich angestellten Beamten der Gemeinden und anderer öffentlicher Körperschaften verpflichtet sind, einer staatlich überwachten Pensionskasse oder ähnlichen Einrichtung beizutreten, kann die Landesregierung die zu diesem Zwecke für die Körperschaften und ihre Angestellten geltenden Vorschriften auf Orts- und Innungskrankenkassen und deren Angestellte ausdehnen.
 
-
-## § 361
-
-\-
-
-
-## § 362
+# § 361
 
 \-
 
-
-## §§ 363 bis 367e – (weggefallen)
-
-
-## §§ 368 bis 376d – (weggefallen)
-
-
-## §§ 377 bis 379 – (weggefallen)
-
-
-## §§ 380 bis 405 – (weggefallen)
-
-
-## § 405a
+# § 362
 
 \-
 
+# §§ 363 bis 367e – (weggefallen)
 
-## § 406
+# §§ 368 bis 376d – (weggefallen)
+
+# §§ 377 bis 379 – (weggefallen)
+
+# §§ 380 bis 405 – (weggefallen)
+
+# § 405a
 
 \-
 
+# § 406
 
-## §§ 407 bis 413 – (weggefallen)
+\-
 
+# §§ 407 bis 413 – (weggefallen)
 
-## §§ 414 und 414a – (weggefallen)
+# §§ 414 und 414a – (weggefallen)
 
-
-## § 414b
+# § 414b
 
 Für die von den Verbänden besoldeten Angestellten wird nach Maßgabe der §§ 351 bis 357 vom Vorstand eine Dienstordnung und ein Stellenplan aufgestellt. Die Dienstordnung und der Stellenplan bedürfen der Zustimmung der Vertreterversammlung und der Genehmigung der Aufsichtsbehörde.
 
+# §§ 414c bis 415c – (weggefallen)
 
-## §§ 414c bis 415c – (weggefallen)
+# §§ 416 bis 502 – (weggefallen)
 
+# §§ 503 bis 525c – (weggefallen)
 
-## §§ 416 bis 502 – (weggefallen)
+# §§ 526 bis 532 – (weggefallen)
 
+# §§ 533 bis 536a – (weggefallen)
 
-## §§ 503 bis 525c – (weggefallen)
-
-
-## §§ 526 bis 532 – (weggefallen)
-
-
-## §§ 533 bis 536a – (weggefallen)
-
-
-## §§ 537 bis 1160 – (weggefallen)
+# §§ 537 bis 1160 – (weggefallen)
 
 §§ 895 bis 977: Vgl. Fußnote zum 3. Buch (BVerfGE v. 22.6.1977 I 2065 - 1 BvL 2/74 -)  
 §§ 979 bis 1146: Vgl. Fußnote zum 3. Buch (BVerfGE v. 22.6.1977 I 2065 - 1 BvL 2/74 -)
 
-
-## §§ 1161 bis 1225 – ----
+# §§ 1161 bis 1225 – ----
 
 §§ 1161 bis 1225: Vgl. Fußnote zum 3. Buch (BVerfGE v. 22.6.1977 I 2065 - 1 BvL 2/74 -)
 
-
-## Anlage 1 – (zu § 646 Abs. 1)
-
-\-
-
-
-## Anlage 2 – (zu § 790 Abs. 1)
+# Anlage 1 – (zu § 646 Abs. 1)
 
 \-
 
+# Anlage 2 – (zu § 790 Abs. 1)
 
-## §§ 1226 bis 1500 – (weggefallen)
+\-
 
+# §§ 1226 bis 1500 – (weggefallen)
 
-## §§ 1501 bis 1543e – (weggefallen)
+# §§ 1501 bis 1543e – (weggefallen)
 
+# §§ 1544 bis 1544n – (weggefallen)
 
-## §§ 1544 bis 1544n – (weggefallen)
+# §§ 1545 bis 1773 – (weggefallen)
 
+# §§ 1774 bis 1779 – (weggefallen)
 
-## §§ 1545 bis 1773 – (weggefallen)
+# §§ 1780 bis 1801 – (weggefallen)
 
+# §§ 1802 bis 1805 – (weggefallen)
 
-## §§ 1774 bis 1779 – (weggefallen)
-
-
-## §§ 1780 bis 1801 – (weggefallen)
-
-
-## §§ 1802 bis 1805 – (weggefallen)
-
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII- Sachgebiet G Abschnitt II (Änderungen oder Ergänzungen)- Sachgebiet H Abschnitt I (vom Inkrafttreten ausgenommene Vorschriften)- Sachgebiet I Abschnitt III (Maßgaben für das beigetretene Gebiet)(BGBl. II 1990, 889, 1055, 1057, 1062)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel VIII- Sachgebiet G Abschnitt II (Änderungen oder Ergänzungen)- Sachgebiet H Abschnitt I (vom Inkrafttreten ausgenommene Vorschriften)- Sachgebiet I Abschnitt III (Maßgaben für das beigetretene Gebiet)(BGBl. II 1990, 889, 1055, 1057, 1062)
 
 \- Sachgebiet G Abschnitt II -  
-Bundesrecht wird wie folgt geändert oder ergänzt.  
-...
+Bundesrecht wird wie folgt geändert oder ergänzt. ...
 
 4. Das Zweite Buch der Reichsversicherungsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 9 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211), tritt am 1. Januar 1991 in Kraft.
 
-...  
-- Sachgebiet H Abschnitt I -  
+... - Sachgebiet H Abschnitt I -  
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages sind ausgenommen:
 
 1. Viertes Buch der Reichsversicherungsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 6 des Gesetzes vom 18. Dezember 1989 (BGBl. I S. 2261; 1990 I S. 1337),
 
-...  
-- Sachgebiet I Abschnitt III -  
+... - Sachgebiet I Abschnitt III -  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 
 1. Drittes, Fünftes und Sechstes Buch der Reichsversicherungsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 9 des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),

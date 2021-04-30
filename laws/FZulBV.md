@@ -1,20 +1,15 @@
-# [FZulBV] Verordnung zur Durchführung von § 14 Absatz 1 des Forschungszulagengesetzes  (Forschungszulagen-Bescheinigungsverordnung - FZulBV)
-
-Ausfertigungsdatum: 30.01.2020
-
+% Verordnung zur Durchführung von § 14 Absatz 1 des Forschungszulagengesetzes  (Forschungszulagen-Bescheinigungsverordnung - FZulBV)
+% Ausfertigungsdatum: 30.01.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Absatz 1 Nummer 1 und 2 in Verbindung mit § 6 Absatz 1 des Forschungszulagengesetzes vom 14. Dezember 2019 (BGBl. I S. 2763) verordnet das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Gegenstand, Anwendungsbereich
+# § 1 – Gegenstand, Anwendungsbereich
 
 Diese Verordnung regelt das Bescheinigungsverfahren nach § 6 des Gesetzes.
 
-
-## § 2 – Zuständige Stelle
+# § 2 – Zuständige Stelle
 
 (1) Zuständige Stelle für die Wahrnehmung der Aufgaben nach dieser Verordnung ist das Bundesministerium für Bildung und Forschung. Zur Durchführung werden eine oder mehrere Stellen bestimmt und soweit erforderlich beliehen, die Gewähr für eine sachgemäße Aufgabenwahrnehmung bieten (Bescheinigungsstellen). Das Bundesministerium für Bildung und Forschung gibt die Bescheinigungsstellen im Gemeinsamen Ministerialblatt (GMBl) amtlich bekannt. Das Bundesministerium für Bildung und Forschung bestimmt im Falle mehrerer Bescheinigungsstellen die Zuständigkeitsverteilung und veröffentlicht diese ebenso im Gemeinsamen Ministerialblatt (GMBl).
 
@@ -22,8 +17,7 @@ Diese Verordnung regelt das Bescheinigungsverfahren nach § 6 des Gesetzes.
 
 (3) Die Mitarbeiterinnen und Mitarbeiter der Bescheinigungsstellen sind zur Geheimhaltung besonders zu verpflichten. § 1 Absatz 2 und 3 des Verpflichtungsgesetzes vom 2. März 1974 (BGBl. I S. 469, 547), das durch § 1 Nummer 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942) geändert worden ist, gilt entsprechend.
 
-
-## § 3 – Antragsverfahren
+# § 3 – Antragsverfahren
 
 (1) Der Antrag auf Erteilung einer Bescheinigung nach § 6 des Gesetzes ist nach amtlich vorgeschriebenem Vordruck des Bundesministeriums für Bildung und Forschung einheitlich für sämtliche Forschungs- und Entwicklungsvorhaben eines Wirtschaftsjahres, für die ein Antrag auf Forschungszulage beim Finanzamt gestellt werden soll, elektronisch bei der nach § 2 Absatz 1 benannten Bescheinigungsstelle zu stellen. Sofern erforderlich, sind ergänzende Unterlagen beizufügen. Der Vordruck nach Satz 1 wird im Internet auf der Seite der zuständigen Stelle veröffentlicht.
 
@@ -51,8 +45,7 @@ a) Name und Anschrift von verbundenen Unternehmen,
 
 b) Steuernummer von verbundenen Unternehmen, die ebenfalls einen Antrag nach § 6 des Forschungszulagengesetzes für dasselbe Kalenderjahr gestellt haben oder noch stellen werden.
 
-
-## § 4 – Antragsprüfung
+# § 4 – Antragsprüfung
 
 (1) Die zuständige Bescheinigungsstelle prüft auf der Grundlage einheitlicher Vorgaben, ob ein Forschungs- und Entwicklungsvorhaben im Sinne des § 2 Absatz 1 bis 3 des Gesetzes vorliegt.
 
@@ -64,8 +57,7 @@ b) Steuernummer von verbundenen Unternehmen, die ebenfalls einen Antrag nach § 
 
 (5) Die Kosten der externen Gutachten trägt die Bescheinigungsstelle.
 
-
-## § 5 – Bescheinigung nach § 6 des Gesetzes
+# § 5 – Bescheinigung nach § 6 des Gesetzes
 
 (1) Die Bescheinigung wird von der zuständigen Bescheinigungsstelle für alle in einem Antrag nach § 3 aufgeführten Forschungs- und Entwicklungsvorhaben ausgestellt, die die Voraussetzungen nach § 2 Absatz 1 bis 3 des Gesetzes erfüllen.
 
@@ -77,8 +69,7 @@ b) Steuernummer von verbundenen Unternehmen, die ebenfalls einen Antrag nach § 
 
 (5) Gegen die Bescheinigung und die Ablehnung einer Bescheinigung ist der Widerspruch zulässig.
 
-
-## § 6 – Geschäftsstatistik
+# § 6 – Geschäftsstatistik
 
 (1) Über die Anträge, die Bescheinigungen und die Ablehnungen nach dieser Verordnung führen die Bescheinigungsstellen eine Geschäftsstatistik. Gegenstand der Geschäftsstatistik sind die in Absatz 2 bestimmten Angaben und Merkmale.
 
@@ -100,8 +91,7 @@ Bei verbundenen Unternehmen sollen die Angaben zu 2. bis 5. grundsätzlich für 
 
 (4) Zum Zwecke der Geschäftsstatistik, der Evaluierung sowie der wissenschaftlichen Forschung dürfen die Bescheinigungsstellen sowie die zuständige Stelle Angaben zu demselben Antragsteller aus verschiedenen Bescheinigungsverfahren zusammenführen.
 
-
-## § 7 – Datenübermittlung
+# § 7 – Datenübermittlung
 
 (1) Für die weitere Bearbeitung des Antrags auf Forschungszulage nach § 5 des Gesetzes sowie zum Zwecke der Erfolgskontrolle, Evaluierung und Gesetzesfolgenabschätzung übermitteln die Bescheinigungsstellen Daten aus dem Bescheinigungsverfahren an die Finanzverwaltung.
 
@@ -109,12 +99,10 @@ Bei verbundenen Unternehmen sollen die Angaben zu 2. bis 5. grundsätzlich für 
 
 (3) Die zuständige Stelle sowie die Bescheinigungsstellen dürfen die erhobenen Einzelangaben der Antragsteller einschließlich identifizierender Merkmale (insbesondere den Namen, die Anschrift, die E-Mail-Adresse, die Handelsregister-Nummer, die Steuernummer) sowie der jeweiligen Entscheidung über den betreffenden Antrag verarbeiten und zum Zweck der Evaluierung, weiterer wissenschaftlicher Forschung und zur Qualitätssicherung unionsrechtlicher Erhebungen an die die Erhebungen gemäß Durchführungsverordnung (EU) Nr. 995/2012 der Kommission vom 26. Oktober 2012 mit Durchführungsvorschriften zur Entscheidung Nr. 1608/2003/EG des Europäischen Parlaments und des Rates zur Erstellung und Entwicklung von Gemeinschaftsstatistiken über Wissenschaft und Technologie (ABl. L 299 vom 27.10.2012, S. 18) durchführenden Stellen zur weiteren Verarbeitung übermitteln.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Bekanntgabe der Bescheinigungsstellen nach § 2 Absatz 1 in Kraft, frühestens am 1. Januar 2020. Der Tag des Inkrafttretens ist durch das Bundesministerium für Bildung und Forschung im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,10 +1,7 @@
-# [AtDeckV] Verordnung über die Deckungsvorsorge nach dem Atomgesetz  (Atomrechtliche Deckungsvorsorge-Verordnung - AtDeckV)
-
-Ausfertigungsdatum: 25.01.1977
-
+% Verordnung über die Deckungsvorsorge nach dem Atomgesetz  (Atomrechtliche Deckungsvorsorge-Verordnung - AtDeckV)
+% Ausfertigungsdatum: 25.01.1977
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |                                                                          |      |
 |:-------------------------------------------------------------------------|:-----|
@@ -34,13 +31,11 @@ Ausfertigungsdatum: 25.01.1977
 | Berlin-Klausel                                                           | § 21 |
 | Inkrafttreten                                                            | § 22 |
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13 Abs. 3 und des § 54 Abs. 1 und 2 des Atomgesetzes in der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Arten der Deckungsvorsorge
+# § 1 – Arten der Deckungsvorsorge
 
 Die Deckungsvorsorge für Anlagen und Tätigkeiten, bei denen eine atomrechtliche Haftung nach internationalen Verträgen oder nach dem Atomgesetz in Betracht kommt, kann durch
 
@@ -50,15 +45,13 @@ Die Deckungsvorsorge für Anlagen und Tätigkeiten, bei denen eine atomrechtlich
 
 erbracht werden. Die Verwaltungsbehörde kann zulassen, daß mehrere Vorsorgemaßnahmen gleicher oder verschiedener Art verbunden werden, soweit die Wirksamkeit und die Übersichtlichkeit der Deckungsvorsorge dadurch nicht beeinträchtigt werden.
 
-
-## § 2 – Haftpflichtversicherung
+# § 2 – Haftpflichtversicherung
 
 (1) Durch eine Haftpflichtversicherung kann die Deckungsvorsorge nur erbracht werden, wenn sie bei einem im Inland zum Betrieb der Haftpflichtversicherung befugten Versicherungsunternehmen genommen wird. Für eine grenzüberschreitende Beförderung nach § 4a des Atomgesetzes kann sie auch bei einem Versicherungsunternehmen eines Drittstaates im Sinne des § 7 Nummer 34 des Versicherungsaufsichtsgesetzes, das in seinem Sitzland zum Betrieb der Haftpflichtversicherung befugt ist, genommen werden, wenn neben ihm ein nach Satz 1 befugtes Versicherungsunternehmen oder ein Verband solcher Versicherungsunternehmen die Pflichten eines Haftpflichtversicherers übernimmt.
 
 (2) Sofern der Bund und die Länder verpflichtet sind, den zur Deckungsvorsorge Verpflichteten von Schadensersatzansprüchen freizustellen oder die Befriedigung der gegen ihn gerichteten Schadensersatzansprüche sicherzustellen, muß der Versicherungsvertrag zugunsten der Bundesrepublik Deutschland und des betroffenen Bundeslandes die Verpflichtung des Versicherers enthalten, der Verwaltungsbehörde jede Änderung des Vertrages, jedes Schadensereignis, jede Geltendmachung von Schadensersatzansprüchen und jede Leistung zur Erfüllung von Schadensersatzverpflichtungen unverzüglich anzuzeigen, sobald ihm diese Umstände bekannt werden.
 
-
-## § 3 – Sonstige finanzielle Sicherheit
+# § 3 – Sonstige finanzielle Sicherheit
 
 (1) Durch eine sonstige finanzielle Sicherheit kann die Deckungsvorsorge nur erbracht werden, wenn gewährleistet ist, dass diese, solange mit ihrer Inanspruchnahme gerechnet werden muss, in dem von der behördlichen Festsetzung der Deckungsvorsorge gesetzten Rahmen zur Verfügung steht und unverzüglich zur Erfüllung gesetzlicher Schadensersatzverpflichtungen der in § 13 Abs. 5 des Atomgesetzes genannten Art herangezogen werden kann.
 
@@ -66,8 +59,7 @@ erbracht werden. Die Verwaltungsbehörde kann zulassen, daß mehrere Vorsorgema�
 
 (3) § 2 Abs. 2 gilt entsprechend.
 
-
-## § 4 – Umfang der Deckungsvorsorge
+# § 4 – Umfang der Deckungsvorsorge
 
 (1) Bei einer Kernanlage muß sich die Deckungsvorsorge auf die gesetzlichen Schadensersatzverpflichtungen im Sinne des § 13 Abs. 5 des Atomgesetzes erstrecken, die sich für den Inhaber
 
@@ -101,8 +93,7 @@ ergeben.
 
 (7) Die Absätze 1 und 3 bis 6 gelten für den Inhaber eines Reaktorschiffs entsprechend.
 
-
-## § 5 – Nachweis der Deckungsvorsorge, Mitteilungen und Anzeigen
+# § 5 – Nachweis der Deckungsvorsorge, Mitteilungen und Anzeigen
 
 (1) Die Deckungsvorsorge ist der Verwaltungsbehörde in geeigneter Form nachzuweisen.
 
@@ -112,8 +103,7 @@ ergeben.
 
 (4) Zuständige Stelle für die Entgegennahme einer Anzeige über das Nichtbestehen oder die Beendigung des Versicherungsvertrages oder des Vertrages über eine sonstige finanzielle Sicherheit (§ 14 des Atomgesetzes in Verbindung mit § 117 Abs. 2 des Versicherungsvertragsgesetzes) ist die Genehmigungsbehörde oder, sofern eine Genehmigung nicht erforderlich ist, die sonst zuständige Verwaltungsbehörde.
 
-
-## § 6 – Auflagen
+# § 6 – Auflagen
 
 Bei der Festsetzung der Deckungsvorsorge ist dem zur Deckungsvorsorge Verpflichteten aufzuerlegen,
 
@@ -125,13 +115,11 @@ Bei der Festsetzung der Deckungsvorsorge ist dem zur Deckungsvorsorge Verpflicht
 
 4. die Deckungssumme, soweit sie nicht für jedes Schadensereignis in voller Höhe zur Verfügung steht, wiederaufzufüllen, wenn eine Minderung in mehr als 1 vom Hundert eingetreten oder auf Grund eines oder mehrerer eingetretener Schadensereignisse zu erwarten ist.
 
-
-## § 7 – Deckungssumme und Regeldeckungssumme
+# § 7 – Deckungssumme und Regeldeckungssumme
 
 Bei der Festsetzung der Höhe der Deckungsvorsorge (Deckungssumme) ist von einer für den Regelfall festzusetzenden Deckungssumme (Regeldeckungssumme) auszugehen, sofern die Deckungssumme in diesem Abschnitt nicht unmittelbar bestimmt ist.
 
-
-## § 8 – Umgang und Beförderung
+# § 8 – Umgang und Beförderung
 
 (1) Sofern sich aus diesem Abschnitt nichts anderes ergibt, bestimmt sich die Regeldeckungssumme
 
@@ -153,8 +141,7 @@ und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit
 
 (7) Bei der Lagerung darf die Deckungssumme den Betrag von 350 Millionen Euro nicht überschreiten.
 
-
-## § 9 – Reaktoren
+# § 9 – Reaktoren
 
 (1) Die Regeldeckungssumme beträgt bei Reaktoren mit einer Höchstleistung bis 1 Megawatt 5 Millionen Euro, für jedes weitere Megawatt bis 10 Megawatt 1 Million Euro, für jedes weitere Megawatt 2,5 Millionen Euro bis zum Höchstbetrag von 2,5 Milliarden Euro. Die Regeldeckungssumme ist jedoch nach Anlage 1 zu bestimmen, sofern eine Berechnung nach dieser Anlage auf Grund der genehmigten Art und Masse der Kernbrennstoffe einen höheren Wert als die Berechnung der Regeldeckungssumme nach Satz 1 ergibt. Höchstleistung ist die thermische Dauerleistung, mit welcher der Reaktor auf Grund der Genehmigung betrieben werden darf. Abweichend von Satz 1 beträgt bei Reaktoren, die zur Anwendung ionisierender Strahlung in der Heilkunde genutzt werden, die Deckungssumme mindestens 25 Millionen Euro.
 
@@ -168,13 +155,11 @@ und zwar jeweils nach der genehmigten Art, Masse, Aktivität oder Beschaffenheit
 
 sofern die Anlagen eine gemeinsame Kernanlage im Sinne der Anlage 1 Abs. 1 Nr. 2 letzter Halbsatz zum Atomgesetz bilden.
 
-
-## § 10 – Schiffsreaktoren
+# § 10 – Schiffsreaktoren
 
 Die Regeldeckungssumme für Reaktoren, die zum Antrieb von Schiffen dienen (Schiffsreaktoren), beträgt je Megawatt Höchstleistung 500.000 Euro, höchstens jedoch 200 Millionen Euro. § 9 Abs. 1 Satz 2 und 3 gilt entsprechend.
 
-
-## § 11 – Sonstige kerntechnische Anlagen
+# § 11 – Sonstige kerntechnische Anlagen
 
 (1) Bei Anlagen zur Erzeugung oder zur Bearbeitung oder Verarbeitung von Kernbrennstoffen bestimmt sich die Regeldeckungssumme nach der Art und Masse der Kernbrennstoffe, mit denen auf Grund der Genehmigung in der Anlage umgegangen werden darf, gemäß Anlage 1. Die Deckungssumme soll bei Brennelementfabriken und Urananreicherungsanlagen den Betrag von 140 Millionen Euro nicht überschreiten. Eine Überschreitung ist nur zulässig, wenn nach den Umständen des Einzelfalles der Betrag nach Satz 1 nicht angemessen ist; in diesem Fall kann die Verwaltungsbehörde die Deckungssumme bis zu einer Höchstgrenze des Zweifachen der Summe nach Satz 1 erhöhen. § 16 Abs. 2 findet entsprechende Anwendung.
 
@@ -182,13 +167,11 @@ Die Regeldeckungssumme für Reaktoren, die zum Antrieb von Schiffen dienen (Schi
 
 (3) § 9 Abs. 2 gilt entsprechend.
 
-
-## § 12 – Stillegung von Anlagen
+# § 12 – Stillegung von Anlagen
 
 Wird eine Anlage im Sinne des § 7 des Atomgesetzes stillgelegt oder in sonstiger Weise außer Betrieb gesetzt, bestimmt sich die Regeldeckungssumme nach Maßgabe der in der Anlage noch vorhandenen Aktivität nach Anlage 2 Spalte 3, wenn sich in der Anlage nur noch die aktivierten und kontaminierten Anlagenteile und radioaktive Stoffe zu Prüfzwecken befinden. Sofern die Bestimmung der Aktivität wegen der Besonderheiten des Einzelfalles nicht oder nur mit unverhältnismäßigem Aufwand möglich ist, kann die Verwaltungsbehörde die Deckungssumme bis auf fünf vom Hundert der zuletzt vor der Stillegung oder sonstigen Außerbetriebsetzung festgesetzten Deckungssumme ermäßigen.
 
-
-## § 13 – Anlagen zur Erzeugung ionisierender Strahlen
+# § 13 – Anlagen zur Erzeugung ionisierender Strahlen
 
 (1) Die Regeldeckungssumme beträgt für Anlagen zur Erzeugung ionisierender Strahlen, deren Errichtung und Betrieb einer Genehmigung bedarf, 25 Millionen Euro. Abweichend von Satz 1 beträgt für Ionenbeschleuniger, die für die Positronen-Emissionen-Tomographie im Zusammenhang mit der Ausübung der Heilkunde betrieben werden, die Regeldeckungssumme 1,5 Millionen Euro.
 
@@ -200,18 +183,15 @@ Wird eine Anlage im Sinne des § 7 des Atomgesetzes stillgelegt oder in sonstige
 
 3. 500.000 Euro in allen übrigen Fällen.
 
-
-## § 14
+# § 14
 
 (weggefallen)
 
-
-## § 15 – Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung
+# § 15 – Anwendung radioaktiver Stoffe am Menschen in der medizinischen Forschung
 
 Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen in der medizinischen Forschung muss die Deckungssumme in einem angemessenen Verhältnis zu den mit der Anwendung verbundenen Risiken stehen und auf der Grundlage der Risikoabschätzung so festgelegt werden, dass für den Fall des Todes oder der dauernden Erwerbsunfähigkeit einer jeden Person, an der die radioaktiven Stoffe oder die ionisierende Strahlung angewendet werden, mindestens 500.000 Euro zur Verfügung stehen.
 
-
-## § 16 – Ermittlung der Deckungssumme im Einzelfall
+# § 16 – Ermittlung der Deckungssumme im Einzelfall
 
 (1) Ist die Regeldeckungssumme nach den Umständen des Einzelfalles nicht angemessen, so kann die Verwaltungsbehörde die Deckungssumme im Rahmen der Höchstgrenze des § 13 Abs. 3 Satz 2 des Atomgesetzes bis auf das Zweifache der Regeldeckungssumme erhöhen oder bis auf ein Drittel der Regeldeckungssumme ermäßigen.
 
@@ -229,13 +209,11 @@ Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen i
 
 6. ob und in welchem Umfang im Falle der Beförderung unter Berücksichtigung des Beförderungsmittels, des Beförderungsweges, der Verpackung und der Beschaffenheit der radioaktiven Stoffe besonders hohe oder geringe Gefahren bestehen.
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18 – Deckungssumme bei mehrfachem Umgang
+# § 18 – Deckungssumme bei mehrfachem Umgang
 
 (1) Geht der zur Deckungsvorsorge Verpflichtete auf Grund einer oder weiterer Genehmigungen mit mehreren Stoffen oder mit mehreren Teilmengen eines Stoffes um, so ist für jede zur Deckungsvorsorge verpflichtende Tätigkeit die jeweils in Frage kommende Deckungssumme gesondert festzusetzen.
 
@@ -245,26 +223,21 @@ Bei der Anwendung radioaktiver Stoffe oder ionisierender Strahlung am Menschen i
 
 (4) Für die Beförderung gelten die Absätze 1 bis 3 entsprechend.
 
-
-## § 19 – Abrundung der Deckungssumme
+# § 19 – Abrundung der Deckungssumme
 
 (1) Die Deckungssumme ist auf volle 50.000 Euro festzusetzen.
 
 (2) Ergibt sich aus den Vorschriften über die Deckungssumme ein Zwischenbetrag unter 25.000 Euro, so ist nach unten, im übrigen ist nach oben abzurunden.
 
+# § 20 – (weggefallen)
 
-## § 20 – (weggefallen)
+# § 21 – (weggefallen)
 
-
-## § 21 – (weggefallen)
-
-
-## § 22 – Inkrafttreten
+# § 22 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Anlage 1 – Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro
+# Anlage 1 – Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2338
 
@@ -387,8 +360,7 @@ Für eine über die Freigrenzen hinausgehende Masse
 
 bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25.
 
-
-## Anlage 2 – Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen Euro
+# Anlage 2 – Regeldeckungssummen bei sonstigen radioaktiven Stoffen in Millionen Euro
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2405
 

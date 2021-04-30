@@ -1,37 +1,29 @@
-# [EUZBLG] Gesetz über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der Europäischen Union
-
-Ausfertigungsdatum: 12.03.1993
-
+% Gesetz über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der Europäischen Union
+% Ausfertigungsdatum: 12.03.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 In Angelegenheiten der Europäischen Union wirken die Länder durch den Bundesrat mit.
 
-
-## § 2
+# § 2
 
 Die Bundesregierung unterrichtet den Bundesrat unbeschadet des Artikels 2 des Gesetzes zu den Verträgen vom 25. März 1957 zur Gründung der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft vom 27. Juli 1957 (BGBl. II S. 753) umfassend und zum frühestmöglichen Zeitpunkt über alle Vorhaben im Rahmen der Europäischen Union, die für die Länder von Interesse sein könnten.
 
-
-## § 3
+# § 3
 
 Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der Europäischen Union gibt die Bundesregierung dem Bundesrat rechtzeitig Gelegenheit zur Stellungnahme binnen angemessener Frist, soweit Interessen der Länder berührt sind.
 
-
-## § 4
+# § 4
 
 (1) Soweit der Bundesrat an einer entsprechenden innerstaatlichen Maßnahme mitzuwirken hätte oder soweit die Länder innerstaatlich zuständig wären, beteiligt die Bundesregierung vom Bundesrat benannte Vertreter der Länder an Beratungen zur Festlegung der Verhandlungsposition zu dem Vorhaben.
 
 (2) Gegenstand der Beratungen nach Absatz 1 ist auch die Anwendung der §§ 5 und 6 auf das Vorhaben. Dabei ist zwischen Bund und Ländern ein Einvernehmen anzustreben.
 
-
-## § 5
+# § 5
 
 (1) Soweit in einem Bereich ausschließlicher Zuständigkeiten des Bundes Interessen der Länder berührt sind oder soweit im übrigen der Bund das Recht zur Gesetzgebung hat, berücksichtigt die Bundesregierung die Stellungnahme des Bundesrates bei der Festlegung der Verhandlungsposition zu dem Vorhaben.
 
@@ -39,8 +31,7 @@ Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der Europäischen 
 
 (3) (weggefallen)
 
-
-## § 6
+# § 6
 
 (1) Bei einem Vorhaben, bei dem der Bundesrat an einer entsprechenden innerstaatlichen Maßnahme mitzuwirken hätte oder bei dem die Länder innerstaatlich zuständig wären oder das sonst wesentliche Interessen der Länder berührt, zieht die Bundesregierung auf Verlangen Vertreter der Länder zu den Verhandlungen in den Beratungsgremien der Kommission und des Rates hinzu, soweit ihr dies möglich ist. Die Verhandlungsführung liegt bei der Bundesregierung; Vertreter der Länder können mit Zustimmung der Verhandlungsführung Erklärungen abgeben.
 
@@ -50,8 +41,7 @@ Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der Europäischen 
 
 (4) Auf Tagesordnungspunkte der Ratstagungen, die der Rat ohne Aussprache genehmigt, findet Absatz 2 keine Anwendung, wenn diese Behandlung mit dem Vertreter der Länder abgestimmt worden ist.
 
-
-## § 7
+# § 7
 
 (1) Die Bundesregierung macht auf Verlangen des Bundesrates unbeschadet eigener Klagerechte der Länder von dem im Vertrag über die Europäische Union vorgesehenen Klagemöglichkeiten Gebrauch, soweit die Länder durch ein Handeln oder Unterlassen von Organen der Union in Bereichen ihrer Gesetzgebungsbefugnisse betroffen sind und der Bund kein Recht zur Gesetzgebung hat. Dabei ist die gesamtstaatliche Verantwortung des Bundes, einschließlich außen-, verteidigungs- und integrationspolitisch zu bewertender Fragen, zu wahren.
 
@@ -61,57 +51,47 @@ Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der Europäischen 
 
 (4) Über die Einlegung des zulässigen Rechtsmittels beim Europäischen Gerichtshof gegen eine länderübergreifende Finanzkorrektur der Europäischen Gemeinschaften stellt die Bundesregierung mit den betroffenen Ländern Einvernehmen her. Wird das Einvernehmen nicht erzielt, ist die Bundesregierung auf ausdrückliches Verlangen betroffener Länder zur Einlegung des Rechtsmittels verpflichtet. In diesem Fall werden die Kosten des Rechtsmittelverfahrens von den Ländern getragen, welche die Einlegung des Rechtsmittels verlangt haben.
 
-
-## § 8
+# § 8
 
 Die Länder können unmittelbar zu Einrichtungen der Europäischen Union ständige Verbindungen unterhalten, soweit dies zur Erfüllung ihrer staatlichen Befugnisse und Aufgaben nach dem Grundgesetz dient. Die Länderbüros erhalten keinen diplomatischen Status. Stellung und Aufgaben der Ständigen Vertretung in Brüssel als Vertretung der Bundesrepublik Deutschland bei den Europäischen Gemeinschaften gelten uneingeschränkt auch in den Fällen, in denen die Wahrnehmung der Rechte, die der Bundesrepublik Deutschland als Mitgliedstaat der Europäischen Union zustehen, auf einen Vertreter der Länder übertragen wird.
 
-
-## § 9
+# § 9
 
 Einzelheiten der Unterrichtung und Beteiligung der Länder nach diesem Gesetz sowie nach dem Integrationsverantwortungsgesetz vom 22. September 2009 (BGBl. I S. 3022) sind in der Anlage geregelt. Weitere Einzelheiten bleiben einer Vereinbarung zwischen Bund und Ländern vorbehalten.
 
-
-## § 10
+# § 10
 
 (1) Bei Vorhaben der Europäischen Union ist das Recht der Gemeinden und Gemeindeverbände zur Regelung der Angelegenheiten der örtlichen Gemeinschaft zu wahren und sind ihre Belange zu schützen.
 
 (2) Nimmt der Bundesrat bei Vorhaben der Europäischen Union zu Fragen der kommunalen Daseinsvorsorge Stellung, ist die Stellungnahme von der Bundesregierung unter den Voraussetzungen des § 5 zu berücksichtigen. Die Beteiligungsrechte des Bundesrates gemäß § 5 Absatz 2 bleiben unberührt.
 
-
-## § 11
+# § 11
 
 Dieses Gesetz gilt nicht für den Bereich der Gemeinsamen Außen- und Sicherheitspolitik der Europäischen Union.
 
-
-## § 12
+# § 12
 
 Dieses Gesetz gilt auch für Vorhaben, die auf Beschlüsse des Rates und der im Rat vereinigten Vertreter der Regierungen der Mitgliedstaaten gerichtet sind.
 
-
-## § 13
+# § 13
 
 Die in § 9 genannte Vereinbarung kann weitere Fälle vorsehen, in denen die Länder entsprechend diesem Gesetz mitwirken.
 
-
-## § 14
+# § 14
 
 (1) Vor der Zustimmung zu einem Beschluss über die Zusammensetzung des Ausschusses der Regionen nach Artikel 305 Absatz 2 des Vertrags über die Arbeitsweise der Europäischen Union stellt die Bundesregierung das Einvernehmen mit dem Bundesrat her. Die gesamtstaatliche Verantwortung des Bundes ist zu wahren.
 
 (2) Die Bundesregierung schlägt dem Rat als Mitglieder des Ausschusses der Regionen und deren Stellvertreter die von den Ländern benannten Vertreter vor. Die Länder regeln ein Beteiligungsverfahren für die Gemeinden und Gemeindeverbände, das sichert, daß diese auf Vorschlag der kommunalen Spitzenverbände mit drei gewählten Vertretern im Regionalausschuß vertreten sind.
 
-
-## § 15
+# § 15
 
 \-
 
-
-## § 16
+# § 16
 
 Dieses Gesetz tritt mit dem Tage der Gründung der Europäischen Union in Kraft. Dieser Tag ist im Bundesgesetzblatt bekanntzugeben. Abweichend von Satz 1 tritt § 5 Abs. 3 am 1. Januar 1993 in Kraft.
 
-
-## Anlage – (zu § 9)
+# Anlage – (zu § 9)
 
 (Fundstelle: BGBl. I 2009, 3032 - 3035)
 

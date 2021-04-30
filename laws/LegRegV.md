@@ -1,22 +1,17 @@
-# [LegRegV] Verordnung zur Durchführung des Legehennenbetriebsregistergesetzes  (Legehennenbetriebsregisterverordnung - LegRegV)
-
-Ausfertigungsdatum: 06.10.2003
-
+% Verordnung zur Durchführung des Legehennenbetriebsregistergesetzes  (Legehennenbetriebsregisterverordnung - LegRegV)
+% Ausfertigungsdatum: 06.10.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 1 Nr. 2, 3 und 4 des Legehennenbetriebsregistergesetzes vom 12. September 2003 (BGBl. I S. 1894) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1 – Freiwillige Registrierung
+# § 1 – Freiwillige Registrierung
 
 (1) Ein nach § 1 Abs. 2 des Legehennenbetriebsregistergesetzes nicht registrierungspflichtiger Betrieb kann sich auf Antrag registrieren lassen. In diesem Fall gelten das Legehennenbetriebsregistergesetz mit Ausnahme von § 6 und die auf Grund dieses Gesetzes erlassenen Vorschriften für einen nach Satz 1 registrierten Betrieb.
 
 (2) Ein nach Absatz 1 Satz 1 registrierter Betrieb ist auf Antrag zum Ende des auf den Antrag folgenden Kalendermonats aus dem Register zu löschen. Die diesen Betrieb betreffenden Daten sind für die Dauer von drei Jahren aufzubewahren.
 
-
-## § 2 – Betriebsnummer, Stallnummer
+# § 2 – Betriebsnummer, Stallnummer
 
 (1) Die Betriebsnummer besteht aus sechs Stellen. Die ersten beiden Stellen der Betriebsnummer bestimmen sich nach der Kennung des Landes, in dem der Betrieb liegt. Die Landeskennung lautet wie folgt:  
 
@@ -43,8 +38,7 @@ Auf Grund des § 8 Abs. 1 Nr. 2, 3 und 4 des Legehennenbetriebsregistergesetzes 
 
 (3) Hat ein Betrieb mehr als zehn Ställe, ist ihm eine zweite Betriebsnummer nach Absatz 1 zuzuteilen. Die zweite Betriebsnummer soll fortlaufend zur ersten Betriebsnummer erteilt werden. Für die Stallnummer gilt Absatz 2.
 
-
-## § 3 – Kennnummer
+# § 3 – Kennnummer
 
 Die nach § 4 des Legehennenbetriebsregistergesetzes zu vergebende Kennnummer hat zwölf Stellen. Die Stellen der Kennnummer sind wie folgt zu verwenden:
 
@@ -60,12 +54,10 @@ Die nach § 4 des Legehennenbetriebsregistergesetzes zu vergebende Kennnummer ha
 
 6. zwölfte Stelle: Stallnummer nach § 2 Abs. 2.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

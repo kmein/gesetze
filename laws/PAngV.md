@@ -1,10 +1,7 @@
-# [PAngV] Preisangabenverordnung  (PAngV)
-
-Ausfertigungsdatum: 14.03.1985
-
+% Preisangabenverordnung  (PAngV)
+% Ausfertigungsdatum: 14.03.1985
  
-
-## § 1 – Grundvorschriften
+# § 1 – Grundvorschriften
 
 (1) Wer Verbrauchern gemäß § 13 des Bürgerlichen Gesetzbuchs gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in sonstiger Weise Waren oder Leistungen anbietet oder als Anbieter von Waren oder Leistungen gegenüber Verbrauchern unter Angabe von Preisen wirbt, hat die Preise anzugeben, die einschließlich der Umsatzsteuer und sonstiger Preisbestandteile zu zahlen sind (Gesamtpreise). Soweit es der allgemeinen Verkehrsauffassung entspricht, sind auch die Verkaufs- oder Leistungseinheit und die Gütebezeichnung anzugeben, auf die sich die Preise beziehen. Auf die Bereitschaft, über den angegebenen Preis zu verhandeln, kann hingewiesen werden, soweit es der allgemeinen Verkehrsauffassung entspricht und Rechtsvorschriften nicht entgegenstehen.
 
@@ -30,8 +27,7 @@ Fallen zusätzliche Fracht-, Liefer- oder Versandkosten oder sonstige Kosten an,
 
 (7) Die Angaben nach dieser Verordnung müssen der allgemeinen Verkehrsauffassung und den Grundsätzen von Preisklarheit und Preiswahrheit entsprechen. Wer zu Angaben nach dieser Verordnung verpflichtet ist, hat diese dem Angebot oder der Werbung eindeutig zuzuordnen sowie leicht erkennbar und deutlich lesbar oder sonst gut wahrnehmbar zu machen. Bei der Aufgliederung von Preisen sind die Gesamtpreise hervorzuheben.
 
-
-## § 2 – Grundpreis
+# § 2 – Grundpreis
 
 (1) Wer Verbrauchern gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in sonstiger Weise Waren in Fertigpackungen, offenen Packungen oder als Verkaufseinheiten ohne Umhüllung nach Gewicht, Volumen, Länge oder Fläche anbietet, hat neben dem Gesamtpreis auch den Preis je Mengeneinheit einschließlich der Umsatzsteuer und sonstiger Preisbestandteile (Grundpreis) in unmittelbarer Nähe des Gesamtpreises gemäß Absatz 3 Satz 1, 2, 4 oder 5 anzugeben. Dies gilt auch für denjenigen, der als Anbieter dieser Waren gegenüber Verbrauchern unter Angabe von Preisen wirbt. Auf die Angabe des Grundpreises kann verzichtet werden, wenn dieser mit dem Gesamtpreis identisch ist.
 
@@ -41,13 +37,11 @@ Fallen zusätzliche Fracht-, Liefer- oder Versandkosten oder sonstige Kosten an,
 
 (4) Bei Haushaltswaschmitteln kann als Mengeneinheit für den Grundpreis eine übliche Anwendung verwendet werden. Dies gilt auch für Wasch- und Reinigungsmittel, sofern sie einzeln portioniert sind und die Zahl der Portionen zusätzlich zur Gesamtfüllmenge angegeben ist.
 
-
-## § 3 – Elektrizität, Gas, Fernwärme und Wasser
+# § 3 – Elektrizität, Gas, Fernwärme und Wasser
 
 Wer Verbrauchern gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in sonstiger Weise Elektrizität, Gas, Fernwärme oder Wasser leitungsgebunden anbietet oder als Anbieter dieser Waren gegenüber Verbrauchern unter Angabe von Preisen wirbt, hat den verbrauchsabhängigen Preis je Mengeneinheit einschließlich der Umsatzsteuer und aller spezifischen Verbrauchssteuern (Arbeits- oder Mengenpreis) gemäß Satz 2 im Angebot oder in der Werbung anzugeben. Als Mengeneinheit für den Arbeitspreis bei Elektrizität, Gas und Fernwärme ist 1 Kilowattstunde und für den Mengenpreis bei Wasser 1 Kubikmeter zu verwenden. Wer neben dem Arbeits- oder Mengenpreis leistungsabhängige Preise fordert, hat diese vollständig in unmittelbarer Nähe des Arbeits- oder Mengenpreises anzugeben. Satz 3 gilt entsprechend für die Forderungen nicht verbrauchsabhängiger Preise.
 
-
-## § 4 – Handel
+# § 4 – Handel
 
 (1) Waren, die in Schaufenstern, Schaukästen, innerhalb oder außerhalb des Verkaufsraumes auf Verkaufsständen oder in sonstiger Weise sichtbar ausgestellt werden, und Waren, die vom Verbraucher unmittelbar entnommen werden können, sind durch Preisschilder oder Beschriftung der Ware auszuzeichnen.
 
@@ -59,8 +53,7 @@ Wer Verbrauchern gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in 
 
 (5) Auf Angebote von Waren, deren Preise üblicherweise auf Grund von Tarifen oder Gebührenregelungen bemessen werden, ist § 5 Abs. 1 und 2 entsprechend anzuwenden.
 
-
-## § 5 – Leistungen
+# § 5 – Leistungen
 
 (1) Wer Leistungen anbietet, hat ein Preisverzeichnis mit den Preisen für seine wesentlichen Leistungen oder in den Fällen des § 1 Abs. 3 mit seinen Verrechnungssätzen aufzustellen. Dieses ist im Geschäftslokal oder am sonstigen Ort des Leistungsangebots und, sofern vorhanden, zusätzlich im Schaufenster oder Schaukasten anzubringen. Ort des Leistungsangebots ist auch die Bildschirmanzeige. Wird eine Leistung über Bildschirmanzeige erbracht und nach Einheiten berechnet, ist eine gesonderte Anzeige über den Preis der fortlaufenden Nutzung unentgeltlich anzubieten.
 
@@ -68,8 +61,7 @@ Wer Verbrauchern gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in 
 
 (3) Werden die Leistungen in Fachabteilungen von Handelsbetrieben angeboten, so genügt das Anbringen der Preisverzeichnisse in den Fachabteilungen.
 
-
-## § 6 – Verbraucherdarlehen
+# § 6 – Verbraucherdarlehen
 
 (1) Wer Verbrauchern gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in sonstiger Weise den Abschluss von Verbraucherdarlehen im Sinne des § 491 des Bürgerlichen Gesetzbuchs anbietet, hat als Preis die nach den Absätzen 2 bis 6 und 8 berechneten Gesamtkosten des Verbraucherdarlehens für den Verbraucher, ausgedrückt als jährlicher Prozentsatz des Nettodarlehensbetrags, soweit zutreffend, einschließlich der Kosten gemäß Absatz 3 Satz 2 Nummer 1, anzugeben und als effektiven Jahreszins zu bezeichnen.
 
@@ -105,8 +97,7 @@ Wer Verbrauchern gewerbs- oder geschäftsmäßig oder wer ihnen regelmäßig in 
 
 (8) Bei Bauspardarlehen ist bei der Berechnung des anzugebenden effektiven Jahreszinses davon auszugehen, dass im Zeitpunkt der Verbraucherdarlehensauszahlung das vertragliche Mindestsparguthaben angespart ist. Von der Abschlussgebühr ist im Zweifel lediglich der Teil zu berücksichtigen, der auf den Verbraucherdarlehensanteil der Bausparvertragssumme entfällt. Bei Verbraucherdarlehen, die der Vor- oder Zwischenfinanzierung von Leistungen einer Bausparkasse aus Bausparverträgen dienen und deren preisbestimmende Faktoren bis zur Zuteilung unveränderbar sind, ist als Laufzeit von den Zuteilungsfristen auszugehen, die sich aus der Zielbewertungszahl für Bausparverträge gleicher Art ergeben. Bei vor- oder zwischenfinanzierten Bausparverträgen gemäß Satz 3 ist für das Gesamtprodukt aus Vor- oder Zwischenfinanzierungsdarlehen und Bausparvertrag der effektive Jahreszins für die Gesamtlaufzeit anzugeben.
 
-
-## § 6a – Werbung für Verbraucherdarlehen
+# § 6a – Werbung für Verbraucherdarlehen
 
 (1) Jegliche Kommunikation für Werbe- und Marketingzwecke, die Verbraucherdarlehen betrifft, hat den Kriterien der Redlichkeit und Eindeutigkeit zu genügen und darf nicht irreführend sein. Insbesondere sind Formulierungen unzulässig, die beim Verbraucher falsche Erwartungen in Bezug auf die Möglichkeit, ein Verbraucherdarlehen zu erhalten oder in Bezug auf die Kosten eines Verbraucherdarlehens wecken.
 
@@ -146,20 +137,17 @@ In der Werbung ist der effektive Jahreszins mindestens genauso hervorzuheben wie
 
 (+++ § 6a: Zur Anwendung vgl. § 6c +++)
 
-
-## § 6b – Überziehungsmöglichkeiten
+# § 6b – Überziehungsmöglichkeiten
 
 Bei Überziehungsmöglichkeiten im Sinne des § 504 Abs. 2 des Bürgerlichen Gesetzbuchs hat der Darlehensgeber statt des effektiven Jahreszinses den Sollzinssatz pro Jahr und die Zinsbelastungsperiode anzugeben, wenn diese nicht kürzer als drei Monate ist und der Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt.
 
 (+++ § 6b: Zur Anwendung vgl. § 6c +++)
 
-
-## § 6c – Entgeltliche Finanzierungshilfen
+# § 6c – Entgeltliche Finanzierungshilfen
 
 Die §§ 6 und 6a sind auf Verträge entsprechend anzuwenden, durch die ein Unternehmer einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige entgeltliche Finanzierungshilfe im Sinne des § 506 des Bürgerlichen Gesetzbuchs gewährt.
 
-
-## § 7 – Gaststätten, Beherbergungsbetriebe
+# § 7 – Gaststätten, Beherbergungsbetriebe
 
 (1) In Gaststätten und ähnlichen Betrieben, in denen Speisen oder Getränke angeboten werden, sind die Preise in Preisverzeichnissen anzugeben. Die Preisverzeichnisse sind entweder auf Tischen aufzulegen oder jedem Gast vor Entgegennahme von Bestellungen und auf Verlangen bei Abrechnung vorzulegen oder gut lesbar anzubringen. Werden Speisen und Getränke gemäß § 4 Abs. 1 angeboten, so muss die Preisangabe dieser Vorschrift entsprechen.
 
@@ -171,8 +159,7 @@ Die §§ 6 und 6a sind auf Verträge entsprechend anzuwenden, durch die ein Unte
 
 (5) Die in den Preisverzeichnissen aufgeführten Preise müssen das Bedienungsgeld und sonstige Zuschläge einschließen.
 
-
-## § 8 – Tankstellen, Parkplätze
+# § 8 – Tankstellen, Parkplätze
 
 (1) An Tankstellen sind die Kraftstoffpreise so auszuzeichnen, dass sie
 
@@ -184,8 +171,7 @@ deutlich lesbar sind. Dies gilt nicht für Kraftstoffmischungen, die erst in der
 
 (2) Wer für weniger als einen Monat Garagen, Einstellplätze oder Parkplätze vermietet oder bewacht oder Kraftfahrzeuge verwahrt, hat am Anfang der Zufahrt ein Preisverzeichnis anzubringen, aus dem die von ihm geforderten Preise ersichtlich sind.
 
-
-## § 9 – Ausnahmen
+# § 9 – Ausnahmen
 
 (1) Die Vorschriften dieser Verordnung sind nicht anzuwenden
 
@@ -245,8 +231,7 @@ deutlich lesbar sind. Dies gilt nicht für Kraftstoffmischungen, die erst in der
 
 3. auf Leistungen, bei denen in Gesetzen oder Rechtsverordnungen die Angabe von Preisen besonders geregelt ist.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 3 Abs. 1 Nr. 2 des Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig
 
@@ -286,13 +271,11 @@ zuwiderhandelt.
 
 (3) Ordnungswidrig im Sinne des § 3 Abs. 1 Satz 1 Nr. 3 des Wirtschaftsstrafgesetzes 1954 handelt, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 2 Satz 1 Nr. 2 oder Satz 2 eine Angabe nicht, nicht richtig oder nicht vollständig macht.
 
-
-## § 11
+# § 11
 
 (weggefallen)
 
-
-## Anlage – (zu § 6)
+# Anlage – (zu § 6)
 
 (Fundstelle: BGBl. I 2016, 439 — 441)
 
@@ -302,7 +285,7 @@ Die nachstehende Gleichung zur Ermittlung des effektiven Jahreszinses drückt au
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0396-1_1340.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0396-1_1340.jpg) |
 
 Hierbei ist
 
@@ -357,7 +340,7 @@ e) Mathematisch darstellen lässt sich diese Gleichung durch eine einzige Summat
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0396-1_1350.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0396-1_1350.jpg) |
 
 dabei ist S der Saldo der Gegenwartswerte aller „Ströme“, deren Wert gleich null sein muss, damit die Gleichheit zwischen den „Strömen“ gewahrt bleibt.
 

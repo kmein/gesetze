@@ -1,10 +1,7 @@
-# [BEDBPStruktG] Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen und in den Postnachfolgeunternehmen
-
-Ausfertigungsdatum: 27.12.1993
-
+% Gesetz zur Verbesserung der personellen Struktur beim Bundeseisenbahnvermögen und in den Postnachfolgeunternehmen
+% Ausfertigungsdatum: 27.12.1993
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Dieses Gesetz gilt für Beamtinnen und Beamte
 
@@ -14,8 +11,7 @@ Dieses Gesetz gilt für Beamtinnen und Beamte
 
 3. der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost, die in Bereichen mit Personalüberhang beschäftigt sind.
 
-
-## § 2 – Förderung der anderweitigen Verwendung
+# § 2 – Förderung der anderweitigen Verwendung
 
 (1) Für jeden in § 1 Nr. 1 bezeichneten Beamten, der vor dem 1. Januar 1999 in einen anderen Geschäftsbereich oder in den Bereich eines anderen Dienstherrn versetzt wird, zahlt das Bundeseisenbahnvermögen an die aufnehmende Verwaltung oder den aufnehmenden Dienstherrn monatlich im voraus einen Betrag in Höhe der Hälfte der monatlichen Bezüge des Amtes, welches dem Beamten übertragen war. Die Zahlungsverpflichtung besteht bis zur Zurruhesetzung des betroffenen Beamten, höchstens jedoch fünf Jahre.
 
@@ -23,8 +19,7 @@ Dieses Gesetz gilt für Beamtinnen und Beamte
 
 (3) Die Absätze 1 und 2 finden auf die in § 1 Nr. 2 bezeichneten Beamten bei anderweitiger Verwendung außerhalb der Deutschen Bundespost entsprechende Anwendung. Die Verpflichtungen treffen das Unternehmen der Deutschen Bundespost, dem der Beamte zuvor angehört hat.
 
-
-## § 3 – Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des Bundeseisenbahnvermögens
+# § 3 – Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des Bundeseisenbahnvermögens
 
 (1) Beamtinnen und Beamte des Bundeseisenbahnvermögens, die von Umstrukturierungsmaßnahmen bei der Deutsche Bahn Aktiengesellschaft oder den nach § 2 Abs. 1 sowie § 3 Abs. 3 Satz 1 des Deutsche Bahn Gründungsgesetzes ausgegliederten oder gegründeten Unternehmen betroffen sind, können bis zum 31. Dezember 2006 auf Antrag in den Ruhestand versetzt werden, wenn
 
@@ -36,8 +31,7 @@ Dieses Gesetz gilt für Beamtinnen und Beamte
 
 (3) § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-
-## § 4 – Beamtinnen und Beamte bei den Postnachfolgeunternehmen
+# § 4 – Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember 2024 auf Antrag in den Ruhestand versetzt werden, wenn
 
@@ -61,8 +55,7 @@ c) die Beamtinnen oder Beamten die Voraussetzungen für eine familienbedingte Be
 
 (4) Die Aktiengesellschaft trägt die finanziellen Mehrbelastungen der Postbeamtenversorgungskasse, die sich aus dem vorzeitigen Beginn des Ruhestandes auf Grund dieses Gesetzes ergeben. Diese Mehrbelastungen errechnen sich aus dem Vergleich der Belastungen der Postbeamtenversorgungskasse ab dem angenommenen Beginn des Ruhestandes nach dem Bundesbeamtengesetz mit ihren Belastungen ab dem tatsächlichen Beginn des Ruhestandes nach diesem Gesetz. Auf der Grundlage versicherungsmathematischer Methoden sind in die Berechnung der vorzeitige Beginn der Zahlung von Versorgungsbezügen, der vorzeitige Wegfall der Unternehmensbeiträge nach § 16 Abs. 1 des Postpersonalrechtsgesetzes und in der Höhe abweichende Versorgungsbezüge einzubeziehen. Die Höhe der Zahlungsverpflichtung der Aktiengesellschaft ergibt sich im Einzelfall aus dem aus Nummer 1 der Anlage ermittelten Jahresbetrag und dem in Nummer 2 der Anlage festgelegten Zahlungszeitraum. Die anzuwendenden Zahlungszeiträume richten sich nach dem zum Zeitpunkt der Zurruhesetzung erreichten Lebensalter, der erreichten Besoldungsgruppe sowie der erreichten ruhegehaltfähigen Dienstzeit. Die Aktiengesellschaft, bei der die Beamtin oder der Beamte zuletzt beschäftigt war, hat diese Verpflichtung durch Zahlung an die Postbeamtenversorgungskasse zu erfüllen. Der erste Jahresbetrag nach Nummer 1 der Anlage ist am drittletzten Bankarbeitstag vor Eintritt des Ruhestandes der Beamtin oder des Beamten zu leisten, die weiteren Jahresbeträge jeweils im Abstand von einem Jahr, bis der jeweils vorgesehene Zahlungszeitraum im jeweiligen Einzelfall erreicht wurde. Änderungen der versorgungsrechtlichen Grundlagen oder tatsächlichen Verhältnisse nach dem Zeitpunkt der Zurruhesetzung haben keinen Einfluss auf Höhe und Dauer der Zahlungsverpflichtung der Aktiengesellschaft im Einzelfall. Das Bundesministerium der Finanzen kann die Ausgleichszahlungen nach Grund und Höhe prüfen. Es ist befugt, die Prüfung Dritten zu übertragen. Darüber hinaus trägt die Aktiengesellschaft die anfallenden Beihilfeleistungen der jeweiligen Beamtin bzw. des jeweiligen Beamten über den in Nummer 2 der Anlage festgelegten Zahlungszeitraum.
 
-
-## § 5 – Beamtinnen und Beamte der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
+# § 5 – Beamtinnen und Beamte der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 3 können auf Antrag in den Ruhestand versetzt werden, wenn ihre Verwendung in der Verwaltung nicht möglich oder nach allgemeinen beamtenrechtlichen Grundsätzen nicht zumutbar ist.
 
@@ -70,8 +63,7 @@ c) die Beamtinnen oder Beamten die Voraussetzungen für eine familienbedingte Be
 
 (3) Für Beamtinnen und Beamte nach § 1 Nr. 3 tragen die Aktiengesellschaften die sich aus dem vorzeitigen Beginn des Ruhestandes auf Grund dieses Gesetzes ergebenden finanziellen Mehrbelastungen und gleichen ebenso Abschläge im Sinne des § 14 Abs. 3 des Beamtenversorgungsgesetzes aus.
 
-
-## Anlage – (zu § 4 Abs. 4)
+# Anlage – (zu § 4 Abs. 4)
 
 (Fundstelle: BGBl. I 2017, 1945 – 1946)
 

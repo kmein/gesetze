@@ -1,10 +1,7 @@
-# [BNDG] Gesetz über den Bundesnachrichtendienst  (BND-Gesetz - BNDG)
-
-Ausfertigungsdatum: 20.12.1990
-
+% Gesetz über den Bundesnachrichtendienst  (BND-Gesetz - BNDG)
+% Ausfertigungsdatum: 20.12.1990
  
-
-## § 1 – Organisation und Aufgaben
+# § 1 – Organisation und Aufgaben
 
 (1) Der Bundesnachrichtendienst ist eine Bundesoberbehörde im Geschäftsbereich des Bundeskanzleramtes. Einer polizeilichen Dienststelle darf er nicht angegliedert werden.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 20.12.1990
 
 (+++ § 1: Zur Anwendung vgl. § 36 SÜG +++)
 
-
-## § 2 – Befugnisse
+# § 2 – Befugnisse
 
 (1) Der Bundesnachrichtendienst darf die erforderlichen Informationen einschließlich personenbezogener Daten verarbeiten, soweit nicht die anzuwendenden Bestimmungen des Bundesdatenschutzgesetzes oder besondere Regelungen in diesem Gesetz entgegenstehen,
 
@@ -35,8 +31,7 @@ Die Verarbeitung ist auch zulässig, wenn der Betroffene eingewilligt hat.
 
 (4) Von mehreren geeigneten Maßnahmen hat der Bundesnachrichtendienst diejenige zu wählen, die den Betroffenen voraussichtlich am wenigsten beeinträchtigt. Eine Maßnahme darf keinen Nachteil herbeiführen, der erkennbar außer Verhältnis zu dem beabsichtigten Erfolg steht.
 
-
-## § 3 – Besondere Auskunftsverlangen
+# § 3 – Besondere Auskunftsverlangen
 
 (1) Der Bundesnachrichtendienst darf Auskünfte entsprechend den §§ 8a und 8b des Bundesverfassungsschutzgesetzes einholen, soweit dies im Einzelfall erforderlich ist
 
@@ -56,8 +51,7 @@ treten. § 8b Absatz 1 bis 9 des Bundesverfassungsschutzgesetzes ist mit der Ma�
 
 (3) Das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt.
 
-
-## § 4 – Besondere Auskunftsverlangen zu Bestandsdaten
+# § 4 – Besondere Auskunftsverlangen zu Bestandsdaten
 
 (1) Soweit dies zur politischen Unterrichtung der Bundesregierung oder zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Bedeutung erforderlich ist, darf der Bundesnachrichtendienst Auskunft verlangen von demjenigen, der geschäftsmäßig
 
@@ -131,13 +125,11 @@ und im Übrigen die Voraussetzung des § 24 vorliegen.
 
 § 4 Abs. 3 Nr. 1 Buchst. c Kursivdruck: Fehlschreibung des Wortes "politscher" in "politischer" korrigiert
 
-
-## § 5 – Besondere Formen der Datenerhebung
+# § 5 – Besondere Formen der Datenerhebung
 
 Der Bundesnachrichtendienst darf zur heimlichen Beschaffung von Informationen einschließlich personenbezogener Daten die Mittel gemäß § 8 Abs. 2 des Bundesverfassungsschutzgesetzes anwenden, wenn Tatsachen die Annahme rechtfertigen, daß dies zur Erfüllung seiner Aufgaben erforderlich ist. Die §§ 9, 9a und 9b des Bundesverfassungsschutzgesetzes sind entsprechend anzuwenden.
 
-
-## § 6 – Voraussetzungen für die Verarbeitung von Daten
+# § 6 – Voraussetzungen für die Verarbeitung von Daten
 
 (1) Der Bundesnachrichtendienst darf zur Erfüllung seiner Aufgaben vom Inland aus mit technischen Mitteln Informationen einschließlich personenbezogener Daten aus Telekommunikationsnetzen, über die Telekommunikation von Ausländern im Ausland erfolgt (Telekommunikationsnetze), verarbeiten (Ausland-Ausland-Fernmeldeaufklärung), wenn diese Daten erforderlich sind, um
 
@@ -169,8 +161,7 @@ Suchbegriffe, die zur gezielten Erfassung von Unionsbürgerinnen und Unionsbürg
 
 § 6 idF d. G v. 23.12.2016 I 3346 u. G v. 30.6.2017 I 2097: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 7 – Weitere Verarbeitung der vom Ausland aus erhobenen Daten
+# § 7 – Weitere Verarbeitung der vom Ausland aus erhobenen Daten
 
 (1) Für die weitere Verarbeitung der vom Bundesnachrichtendienst mit Mitteln der Fernmeldeaufklärung vom Ausland aus erhobenen Daten gilt § 6 Absatz 1 Satz 1, Absatz 3 bis 6 entsprechend.
 
@@ -178,8 +169,7 @@ Suchbegriffe, die zur gezielten Erfassung von Unionsbürgerinnen und Unionsbürg
 
 § 7 idF d. G v. 23.12.2016 I 3346 u. G v. 30.6.2017 I 2097: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 - I 1326 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 8 – Pflichten der Anbieter von Telekommunikationsdiensten
+# § 8 – Pflichten der Anbieter von Telekommunikationsdiensten
 
 (1) Wer geschäftsmäßig Telekommunikationsdienste erbringt oder an der Erbringung solcher Dienste mitwirkt, hat dem Bundesnachrichtendienst auf Anordnung Auskunft über die näheren Umstände der nach Wirksamwerden der Anordnung durchgeführten Telekommunikation zu erteilen, Sendungen, die ihm zur Übermittlung auf dem Telekommunikationsweg anvertraut sind, auszuhändigen sowie die Überwachung und Aufzeichnung der Telekommunikation zu ermöglichen. Die §§ 3 und 4 bleiben unberührt. Ob und in welchem Umfang das verpflichtete Telekommunikationsunternehmen Vorkehrungen für die technische und organisatorische Umsetzung der Überwachungsmaßnahmen zu treffen hat, bestimmt sich nach § 110 des Telekommunikationsgesetzes und der dazu erlassenen Rechtsverordnung.
 
@@ -197,8 +187,7 @@ Mit der Durchführung einer Maßnahme dürfen nur Personen betraut werden, die n
 
 (+++ § 8: Zur Anwendung vgl. § 36 SÜG +++)
 
-
-## § 9 – Anordnung; Unterrichtung
+# § 9 – Anordnung; Unterrichtung
 
 (1) Die Anordnung nach § 6 Absatz 1 ergeht schriftlich auf Antrag der Behördenleiterin oder des Behördenleiters des Bundesnachrichtendienstes oder einer Vertreterin oder eines Vertreters. Der Antrag sowie die Anordnung müssen bezeichnen:
 
@@ -222,8 +211,7 @@ Das Bundeskanzleramt ist über Anordnungen nach Satz 1 zu unterrichten.
 
 (5) Das Bundeskanzleramt unterrichtet das Unabhängige Gremium über die vom Bundesnachrichtendienst getroffenen Anordnungen nach Absatz 2, soweit sich diese auf Einrichtungen der Europäischen Union oder auf öffentliche Stellen ihrer Mitgliedstaaten beziehen. Anordnungen, die das Unabhängige Gremium für unzulässig oder nicht notwendig erklärt, sind unverzüglich aufzuheben. Das Unabhängige Gremium ist im Übrigen befugt, die Einhaltung der Vorgaben des § 6 Absatz 3 jederzeit stichprobenartig zu kontrollieren. Die Kontrollrechte des Parlamentarischen Kontrollgremiums bleiben unberührt.
 
-
-## § 10 – Kennzeichnung und Löschung
+# § 10 – Kennzeichnung und Löschung
 
 (1) Die nach § 6 erhobenen Daten sind zu kennzeichnen.
 
@@ -243,13 +231,11 @@ Erfolgt die Mitteilung nicht binnen zwölf Monaten nach Erhebung der Daten, beda
 
 (6) Löschungen nach den Absätzen 2 bis 5 sind zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
 
-
-## § 11 – Kernbereichsschutz
+# § 11 – Kernbereichsschutz
 
 Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch eine Maßnahme nach § 6 allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Sofern durch eine Maßnahme nach § 6 Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt wurden, dürfen diese nicht verwertet werden. Aufzeichnungen über solche Erkenntnisse sind unverzüglich zu löschen. Sowohl ihre Erlangung als auch ihre Löschung sind aktenkundig zu machen.
 
-
-## § 12 – Eignungsprüfung
+# § 12 – Eignungsprüfung
 
 (1) Der Bundesnachrichtendienst darf Informationen einschließlich personenbezogener Daten aus Telekommunikationsnetzen erheben und auswerten, soweit dies zur Bestimmung
 
@@ -273,8 +259,7 @@ für Maßnahmen nach § 6 erforderlich ist (Eignungsprüfung).
 
 (6) Daten aus laufenden Maßnahmen nach § 6 können auch für Eignungsprüfungen verwendet werden; die Absätze 1 und 3 bis 5 gelten entsprechend.
 
-
-## § 13 – Kooperation im Rahmen der Ausland-Ausland-Fernmeldeaufklärung
+# § 13 – Kooperation im Rahmen der Ausland-Ausland-Fernmeldeaufklärung
 
 (1) Soweit der Bundesnachrichtendienst im Rahmen der Ausland-Ausland-Fernmeldeaufklärung (§ 6) mit ausländischen öffentlichen Stellen, die nachrichtendienstliche Aufgaben wahrnehmen (ausländische öffentliche Stellen) kooperiert, dürfen dabei auch Informationen einschließlich personenbezogener Daten nach § 14 erhoben und nach § 15 ausgetauscht werden.
 
@@ -318,8 +303,7 @@ für Maßnahmen nach § 6 erforderlich ist (Eignungsprüfung).
 
 § 13: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 14 – Erhebung von Informationen einschließlich personenbezogener Daten im Rahmen einer Kooperation
+# § 14 – Erhebung von Informationen einschließlich personenbezogener Daten im Rahmen einer Kooperation
 
 (1) Die Erhebung von Informationen einschließlich personenbezogener Daten im Rahmen einer Kooperation nach § 13 durch den Bundesnachrichtendienst ist zulässig,
 
@@ -335,8 +319,7 @@ Die Erhebung der Informationen einschließlich personenbezogener Daten und die V
 
 § 14: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 15 – Automatisierte Datenübermittlung; Speicherung; Prüfung
+# § 15 – Automatisierte Datenübermittlung; Speicherung; Prüfung
 
 (1) Die im Rahmen der Kooperation erhobenen Informationen einschließlich personenbezogener Daten dürfen der ausländischen öffentlichen Stelle automatisiert übermittelt werden, wenn
 
@@ -358,8 +341,7 @@ gelöscht wurden und
 
 § 15: Mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 1 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 16 – Unabhängiges Gremium
+# § 16 – Unabhängiges Gremium
 
 (1) Das Unabhängige Gremium besteht aus
 
@@ -385,20 +367,17 @@ Die Mitglieder des Unabhängigen Gremiums sowie die stellvertretenden Mitglieder
 
 (6) Das Unabhängige Gremium unterrichtet in Abständen von höchstens sechs Monaten das Parlamentarische Kontrollgremium über seine Tätigkeit.
 
-
-## § 17 – Mitteilungsverbote
+# § 17 – Mitteilungsverbote
 
 (1) Personen, die Telekommunikationsdienste erbringen oder die an der Erbringung solcher Dienste mitwirken, dürfen anderen nichts über Maßnahmen nach § 6 Absatz 1 auch in Verbindung mit § 12 Absatz 2 Satz 4 mitteilen.
 
 (2) Erfolgt ein Auskunftsersuchen oder eine Auskunftserteilung nach § 8 Absatz 1 Satz 1 auch in Verbindung mit § 12 Absatz 2 Satz 4, so darf diese Tatsache oder der Inhalt des Ersuchens oder der erteilten Auskunft von Personen, die zur Beantwortung verpflichtet oder mit der Beantwortung betraut sind oder die hieran mitwirken, anderen nicht mitgeteilt werden.
 
-
-## § 18 – Entschädigung
+# § 18 – Entschädigung
 
 Der Bundesnachrichtendienst vereinbart mit den nach § 8 Absatz 1 Satz 1 oder § 12 Absatz 2 Satz 4 verpflichteten Unternehmen für die dort genannten Leistungen eine Entschädigung, deren Höhe sich an den nachgewiesenen tatsächlichen Kosten orientiert.
 
-
-## § 19 – Speicherung, Veränderung und Nutzung personenbezogener Daten
+# § 19 – Speicherung, Veränderung und Nutzung personenbezogener Daten
 
 (1) Der Bundesnachrichtendienst darf personenbezogene Daten nach § 10 des Bundesverfassungsschutzgesetzes speichern, verändern und nutzen, soweit es zur Erfüllung seiner Aufgaben erforderlich ist.
 
@@ -406,27 +385,23 @@ Der Bundesnachrichtendienst vereinbart mit den nach § 8 Absatz 1 Satz 1 oder §
 
 § 19: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 20 – Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten
+# § 20 – Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten
 
 (1) Der Bundesnachrichtendienst hat die in Dateien gespeicherten personenbezogenen Daten zu berichtigen, zu löschen und deren Verarbeitung einzuschränken nach § 12 des Bundesverfassungsschutzgesetzes mit der Maßgabe, dass die Prüffrist nach § 12 Abs. 3 Satz 1 des Bundesverfassungsschutzgesetzes zehn Jahre beträgt.
 
 (2) Der Bundesnachrichtendienst hat personenbezogene Daten in Akten zu berichtigen und deren Verarbeitung einzuschränken nach § 13 Absatz 1 und 2 des Bundesverfassungsschutzgesetzes. Für die Verwendung elektronischer Akten findet § 13 Absatz 4 des Bundesverfassungsschutzgesetzes mit der Maßgabe Anwendung, dass die Erforderlichkeit der elektronischen Akten für die Aufgabenerfüllung spätestens nach zehn Jahren zu prüfen ist.
 
-
-## § 21 – Dateianordnungen
+# § 21 – Dateianordnungen
 
 Der Bundesnachrichtendienst hat für jede automatisierte Datei mit personenbezogenen Daten eine Dateianordnung nach § 14 des Bundesverfassungsschutzgesetzes zu treffen, die der Zustimmung des Bundeskanzleramtes bedarf. § 14 Abs 2 und 3 des Bundesverfassungsschutzgesetzes ist anzuwenden.
 
 (+++ § 21: Zur Anwendung vgl. § 36 SÜG +++)
 
-
-## § 22 – Auskunft an den Betroffenen
+# § 22 – Auskunft an den Betroffenen
 
 Der Bundesnachrichtendienst erteilt dem Betroffenen auf Antrag Auskunft über zu seiner Person nach § 19 gespeicherte Daten entsprechend § 15 des Bundesverfassungsschutzgesetzes. An die Stelle des dort genannten Bundesministeriums des Innern, für Bau und Heimat tritt das Bundeskanzleramt.
 
-
-## § 23 – Übermittlung von Informationen an den Bundesnachrichtendienst
+# § 23 – Übermittlung von Informationen an den Bundesnachrichtendienst
 
 (1) Die Behörden des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts dürfen von sich aus dem Bundesnachrichtendienst die ihnen bekannt gewordenen Informationen einschließlich personenbezogener Daten übermitteln, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Übermittlung
 
@@ -445,8 +420,7 @@ erforderlich ist. Für das Bundesministerium der Verteidigung und die Dienststel
 
 (4) Für die Übermittlung personenbezogener Daten, die auf Grund einer Maßnahme nach § 100a der Strafprozeßordnung bekanntgeworden sind, ist § 18 Abs. 6 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden.
 
-
-## § 24 – Übermittlung von Informationen durch den Bundesnachrichtendienst
+# § 24 – Übermittlung von Informationen durch den Bundesnachrichtendienst
 
 (1) Der Bundesnachrichtendienst darf Informationen einschließlich personenbezogener Daten an inländische öffentliche Stellen übermitteln, wenn dies zur Erfüllung seiner Aufgaben erforderlich ist oder wenn der Empfänger die Daten für erhebliche Zwecke der öffentlichen Sicherheit benötigt. Informationen einschließlich personenbezogener Daten, die mit den Mitteln nach § 5 erhoben worden sind, darf er an die in § 19 Absatz 1 Satz 1 des Bundesverfassungsschutzgesetzes bezeichneten Stellen nur unter den dort geregelten Voraussetzungen oder nach Absatz 3 übermitteln. Der Empfänger darf die übermittelten Daten, soweit gesetzlich nichts anderes bestimmt ist, nur zu dem Zweck verwenden, zu dem sie ihm übermittelt wurden.
 
@@ -454,12 +428,9 @@ erforderlich ist. Für das Bundesministerium der Verteidigung und die Dienststel
 
 (3) Der Bundesnachrichtendienst übermittelt Informationen einschließlich personenbezogener Daten an die Staatsanwaltschaften, die Polizeien und den Militärischen Abschirmdienst entsprechend § 20 des Bundesverfassungsschutzgesetzes.
 
-§ 24 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.  
-§ 24 Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.  
-§ 24 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
+§ 24 Abs. 1 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort. § 24 Abs. 2 Satz 1: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort. § 24 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 10 Abs. 1 u. Art. 5 Abs. 1 Satz 2 GG nicht vereinbar gem. Nr. 2 BVerfGE v. 19.5.2020 I 1326 - 1BvR 2835/17 -. Gem. Nr. 3 dieser BVerfGE gelten die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021 fort.
 
-
-## § 25 – Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen
+# § 25 – Projektbezogene gemeinsame Dateien mit inländischen öffentlichen Stellen
 
 (1) Der Bundesnachrichtendienst kann für die Dauer einer befristeten projektbezogenen Zusammenarbeit mit den Verfassungsschutzbehörden des Bundes und der Länder, dem Militärischen Abschirmdienst, den Polizeibehörden des Bundes und der Länder und dem Zollkriminalamt eine gemeinsame Datei errichten. Die projektbezogene Zusammenarbeit bezweckt nach Maßgabe der Aufgaben und Befugnisse der in Satz 1 genannten Behörden den Austausch und die gemeinsame Auswertung von Erkenntnissen im Hinblick auf
 
@@ -499,8 +470,7 @@ Personenbezogene Daten zu den Gefahrenbereichen nach Satz 2 dürfen unter Einsat
 
 Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes sowie der für die Fachaufsicht der zusammenarbeitenden Behörden zuständigen obersten Bundes- oder Landesbehörden. Der Bundesbeauftragte für Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. § 6 Absatz 2 Satz 6 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
-
-## § 26 – Gemeinsame Dateien mit ausländischen öffentlichen Stellen
+# § 26 – Gemeinsame Dateien mit ausländischen öffentlichen Stellen
 
 (1) Der Bundesnachrichtendienst kann zum Zwecke des Austausches und der gemeinsamen Auswertung von nachrichtendienstlichen Informationen und Erkenntnissen mit ausländischen öffentlichen Stellen gemeinsame Dateien führen (§ 27) oder sich an diesen beteiligen (§ 30). Die jeweilige Datei muss sich auf bestimmte Gefahrenlagen oder bestimmte Personenkreise beziehen.
 
@@ -520,15 +490,13 @@ Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes sowie der für d
 
 2. der Bundesnachrichtendienst sich vorbehält, um Auskunft über die vorgenommene Verwendung der in die gemeinsame Datei übermittelten Daten zu bitten.
 
-
-## § 27 – Führung gemeinsamer Dateien durch den Bundesnachrichtendienst
+# § 27 – Führung gemeinsamer Dateien durch den Bundesnachrichtendienst
 
 (1) Führt der Bundesnachrichtendienst eine Datei nach § 26 Absatz 1 als eigene Datei, muss sich diese auf Informationen und Erkenntnisse zur Erkennung und Begegnung von Gefahren im Sinne des § 5 Absatz 1 Satz 3 des Artikel 10-Gesetzes beziehen. § 14 Absatz 2 des Bundesverfassungsschutzgesetzes gilt entsprechend.
 
 (2) Für die Berichtigung, Verarbeitungseinschränkung und Löschung der Daten zu einer Person durch die teilnehmenden ausländischen öffentlichen Stellen gilt das jeweils anwendbare nationale Recht der ausländischen öffentlichen Stelle, die die entsprechenden Daten eingegeben hat.
 
-
-## § 28 – Dateianordnung bei gemeinsamen Dateien
+# § 28 – Dateianordnung bei gemeinsamen Dateien
 
 Der Bundesnachrichtendienst hat für jede gemeinsam mit ausländischen öffentlichen Stellen genutzte Datei, die er selbst führt, eine Dateianordnung zu treffen. Diese muss folgende Angaben enthalten:
 
@@ -556,8 +524,7 @@ Der Bundesnachrichtendienst hat für jede gemeinsam mit ausländischen öffentli
 
 Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor Erlass einer Dateianordnung anzuhören. Die Prüfkompetenz der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bezieht sich nur auf die Einrichtung der Datei durch den Bundesnachrichtendienst sowie die von diesem in die gemeinsame Datei eingegebenen Daten.
 
-
-## § 29 – Eingabe in und Zugriff auf die vom Bundesnachrichtendienst geführten gemeinsamen Dateien
+# § 29 – Eingabe in und Zugriff auf die vom Bundesnachrichtendienst geführten gemeinsamen Dateien
 
 (1) Die Eingabe von Informationen einschließlich personenbezogener Daten durch den Bundesnachrichtendienst in die von diesem geführten gemeinsamen Dateien ist nur zulässig, wenn die Daten allen an der Zusammenarbeit teilnehmenden Stellen übermittelt werden dürfen. Eine Eingabe ist ferner nur zulässig, wenn der Bundesnachrichtendienst die Daten auch in eigenen Dateien speichern darf. Die personenbezogenen Daten sind zu kennzeichnen.
 
@@ -567,23 +534,19 @@ Die Dateianordnung bedarf der Zustimmung des Bundeskanzleramtes. Die oder der Bu
 
 (4) Die Eingabe und der Zugriff sind zu protokollieren. Die Protokolldaten dürfen ausschließlich zur Durchführung der Datenschutzkontrolle verwendet werden. Die Protokolldaten sind bis zum Ablauf des zweiten auf die Protokollierung folgenden Kalenderjahres aufzubewahren und danach unverzüglich zu löschen.
 
-
-## § 30 – Beteiligung an gemeinsamen Dateien mit ausländischen öffentlichen Stellen
+# § 30 – Beteiligung an gemeinsamen Dateien mit ausländischen öffentlichen Stellen
 
 Eine Beteiligung des Bundesnachrichtendienstes an von ausländischen öffentlichen Stellen errichteten gemeinsamen Dateien im Sinne des § 26 Absatz 1 bedarf der Zustimmung des Bundeskanzleramtes. § 29 Absatz 1 bis 3 gilt entsprechend.
 
-
-## § 31 – Verfahrensregeln für die Übermittlung von Informationen
+# § 31 – Verfahrensregeln für die Übermittlung von Informationen
 
 Für die Übermittlung von Informationen nach den §§ 23 und 24 sind die §§ 23 bis 26 des Bundesverfassungsschutzgesetzes entsprechend anzuwenden.
 
-
-## § 32 – Unabhängige Datenschutzkontrolle
+# § 32 – Unabhängige Datenschutzkontrolle
 
 § 26a des Bundesverfassungsschutzgesetzes ist mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des Innern, für Bau und Heimat das Bundeskanzleramt tritt.
 
-
-## § 32a – Anwendung des Bundesdatenschutzgesetzes
+# § 32a – Anwendung des Bundesdatenschutzgesetzes
 
 Bei der Erfüllung der Aufgaben des Bundesnachrichtendienstes nach § 1 Absatz 2 ist das Bundesdatenschutzgesetz wie folgt anzuwenden:
 
@@ -595,8 +558,7 @@ b) findet § 14 Absatz 2 mit der Maßgabe Anwendung, dass sich die oder der Bund
 
 2. von Teil 3 des Bundesdatenschutzgesetzes sind die §§ 46, 51 Absatz 1 bis 4 sowie die §§ 52 bis 54, 62, 64, 83, 84 entsprechend anzuwenden.
 
-
-## § 33 – Berichtspflicht
+# § 33 – Berichtspflicht
 
 Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt über seine Tätigkeit. Über die Erkenntnisse aus seiner Tätigkeit unterrichtet er darüber hinaus auch unmittelbar die Bundesministerien im Rahmen ihrer Zuständigkeiten; hierbei ist auch die Übermittlung personenbezogener Daten zulässig.Der Bundesnachrichtendienst kann die Öffentlichkeit über Erkenntnisse informieren, die er im Rahmen seiner Aufgaben nach § 1 Absatz 2 und bei der Aufarbeitung seiner Historie gewinnt. Bei der Information darf er auch personenbezogene Daten bekanntgeben, wenn
 
@@ -604,13 +566,11 @@ Der Bundesnachrichtendienst unterrichtet das Bundeskanzleramt über seine Tätig
 
 2. die Interessen der Allgemeinheit das schutzwürdige Interesse des Betroffenen überwiegen.
 
-
-## § 34 – Strafvorschriften
+# § 34 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 17 eine Mitteilung macht.
 
-
-## § 35 – Bußgeldvorschriften
+# § 35 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -622,18 +582,15 @@ Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer en
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesministerium für Wirtschaft und Energie.
 
-
-## § 36 – Übergangsregelung
+# § 36 – Übergangsregelung
 
 Maßnahmen im Sinne der §§ 6, 12 und 13 sowie 27 und 30, die vor dem 31. Dezember 2016 begonnen wurden, dürfen nach diesem Zeitpunkt noch bis zu zwölf Monate fortgeführt werden.
 
-
-## §§ 37 bis 40 – (zukünftig in Kraft)
+# §§ 37 bis 40 – (zukünftig in Kraft)
 
  
 
-
-## § 41 – Unabhängiger Kontrollrat
+# § 41 – Unabhängiger Kontrollrat
 
 (1) Der Unabhängige Kontrollrat ist eine oberste Bundesbehörde und als unabhängiges Organ der Kontrolle der technischen Aufklärung des Bundesnachrichtendienstes nur dem Gesetz unterworfen.
 
@@ -653,13 +610,11 @@ Geheimschutzbelangen des Bundesnachrichtendienstes ist Rechnung zu tragen. Über
 
 (6) Dienstsitze des Unabhängigen Kontrollrates sind Berlin und Pullach.
 
-
-## § 42 – (zukünftig in Kraft)
+# § 42 – (zukünftig in Kraft)
 
  
 
-
-## § 43 – Besetzung des gerichtsähnlichen Kontrollorgans; Wahl der Mitglieder; Wahl der Präsidentin oder des Präsidenten und der Vizepräsidentin oder des Vizepräsidenten des Unabhängigen Kontrollrates
+# § 43 – Besetzung des gerichtsähnlichen Kontrollorgans; Wahl der Mitglieder; Wahl der Präsidentin oder des Präsidenten und der Vizepräsidentin oder des Vizepräsidenten des Unabhängigen Kontrollrates
 
 (1) Das gerichtsähnliche Kontrollorgan des Unabhängigen Kontrollrates besteht aus sechs Mitgliedern, die bis zu ihrer Ernennung als Mitglied beim gerichtsähnlichen Kontrollorgan als Richterinnen oder Richter am Bundesgerichtshof oder Richterinnen oder Richter am Bundesverwaltungsgericht tätig waren und in dieser Tätigkeit über langjährige Erfahrung verfügen.
 
@@ -675,8 +630,7 @@ Die Vorschläge werden dem Parlamentarischen Kontrollgremium durch die Bundesreg
 
 (4) Das Parlamentarische Kontrollgremium wählt aus den nach Absatz 3 vorgeschlagenen Richterinnen oder Richtern die Mitglieder des gerichtsähnlichen Kontrollorgans mit einfacher Mehrheit. Das Parlamentarische Kontrollgremium wählt jeweils auf Vorschlag der Vorsitzenden oder des Vorsitzenden des Parlamentarischen Kontrollgremiums aus den gewählten Mitgliedern die Präsidentin oder den Präsidenten sowie aus den übrigen Mitgliedern die Vizepräsidentin oder den Vizepräsidenten des Unabhängigen Kontrollrates mit einfacher Mehrheit. Die Wahl zur Präsidentin oder zum Präsidenten und zur Vizepräsidentin oder zum Vizepräsidenten des Unabhängigen Kontrollrates kann auch vor deren oder dessen Ernennung nach § 44 Absatz 2 erfolgen.
 
-
-## § 44 – Rechtsstellung und Ernennung der Mitglieder des gerichtsähnlichen Kontrollorgans
+# § 44 – Rechtsstellung und Ernennung der Mitglieder des gerichtsähnlichen Kontrollorgans
 
 (1) Die Mitglieder des gerichtsähnlichen Kontrollorgans werden zu Beamtinnen und Beamten auf Zeit ernannt. Vorbehaltlich der Regelungen in diesem Gesetz finden die Vorschriften des Bundesbeamtengesetzes mit Ausnahme der Vorschriften über die Laufbahnen und die Probezeit entsprechende Anwendung. Die Mitglieder des gerichtsähnlichen Kontrollorgans sind unabhängig und nur dem Gesetz unterworfen.
 
@@ -684,8 +638,7 @@ Die Vorschläge werden dem Parlamentarischen Kontrollgremium durch die Bundesreg
 
 (3) Die Mitglieder des gerichtsähnlichen Kontrollorgans leisten vor der Präsidentin oder dem Präsidenten des Deutschen Bundestages folgenden Eid: „Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.“ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
-
-## § 45 – Amtszeit der Mitglieder des gerichtsähnlichen Kontrollorgans; Ruhestand
+# § 45 – Amtszeit der Mitglieder des gerichtsähnlichen Kontrollorgans; Ruhestand
 
 (1) Die Amtszeit beträgt zwölf Jahre. Eine Wiederwahl ist unzulässig.
 
@@ -697,29 +650,25 @@ Die Vorschläge werden dem Parlamentarischen Kontrollgremium durch die Bundesreg
 
 (5) Die Amtszeit nach Absatz 1 Satz 1 verlängert sich um den Zeitraum bis zur Wahl einer Nachfolgerin oder eines Nachfolgers. Bis dahin führen die Mitglieder des gerichtsähnlichen Kontrollorgans ihre Amtsgeschäfte fort.
 
-
-## § 46 – Besoldung der Mitglieder des gerichtsähnlichen Kontrollorgans
+# § 46 – Besoldung der Mitglieder des gerichtsähnlichen Kontrollorgans
 
 (1) Den Mitgliedern des gerichtsähnlichen Kontrollorgans wird vom Beginn des Kalendermonats an, in dem das Beamtenverhältnis auf Zeit beginnt, bis zum Ende des Kalendermonats, in dem dieses endet, im Falle des § 45 Absatz 5 bis zum Ende des Kalendermonats, in dem die Geschäftsführung endet, ein Amt der Besoldungsgruppe B 7 übertragen.
 
 (2) Abweichend von Absatz 1 wird der Präsidentin oder dem Präsidenten des Unabhängigen Kontrollrates ein Amt der Besoldungsgruppe B 9 übertragen.
 
-
-## § 47 – Weitere Rechte und Pflichten der Mitglieder des gerichtsähnlichen Kontrollorgans
+# § 47 – Weitere Rechte und Pflichten der Mitglieder des gerichtsähnlichen Kontrollorgans
 
 (1) Die für die Richterinnen und Richter an den obersten Gerichtshöfen des Bundes geltenden Vorschriften über Unabhängigkeit und Disziplinarmaßnahmen sind entsprechend anzuwenden.
 
 (2) Die Mitglieder des gerichtsähnlichen Kontrollorgans sehen von allen mit den Aufgaben ihres Amtes nicht zu vereinbarenden Handlungen ab. § 4 des Deutschen Richtergesetzes gilt entsprechend.
 
-
-## § 48 – Amtsbezeichnungen
+# § 48 – Amtsbezeichnungen
 
 (1) Präsidentin oder Präsident des Unabhängigen Kontrollrates ist die Amtsbezeichnung der Behördenleiterin oder des Behördenleiters. Vizepräsidentin oder Vizepräsident des Unabhängigen Kontrollrates ist die Amtsbezeichnung der Stellvertreterin oder des Stellvertreters.
 
 (2) Die weiteren Mitglieder des gerichtsähnlichen Kontrollorgans führen die Amtsbezeichnung Kontrollbeauftragte beim Unabhängigen Kontrollrat oder Kontrollbeauftragter beim Unabhängigen Kontrollrat.
 
-
-## § 49 – Spruchkörper des gerichtsähnlichen Kontrollorgans; Beschlussfassung
+# § 49 – Spruchkörper des gerichtsähnlichen Kontrollorgans; Beschlussfassung
 
 (1) Die Mitglieder des gerichtsähnlichen Kontrollorgans bilden den Senat des gerichtsähnlichen Kontrollorgans. Den Vorsitz im Senat hat die Präsidentin oder der Präsident. Ist die Präsidentin oder der Präsident verhindert, hat die Vizepräsidentin oder der Vizepräsident den Vorsitz.
 
@@ -727,23 +676,19 @@ Die Vorschläge werden dem Parlamentarischen Kontrollgremium durch die Bundesreg
 
 (3) Der Senat ist beschlussfähig, wenn die Mehrheit seiner Mitglieder anwesend ist. Die Kammern sind beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist. Die Beschlussfassung der Spruchkörper erfolgt mit einfacher Stimmenmehrheit. Im Falle der Stimmengleichheit entscheidet die Stimme der oder des Vorsitzenden.
 
-
-## § 50 – Leitung des administrativen Kontrollorgans
+# § 50 – Leitung des administrativen Kontrollorgans
 
 Das administrative Kontrollorgan untersteht einer Leiterin oder einem Leiter. Die Leiterin oder der Leiter verfügt über die Befähigung zum Richteramt. Sie oder er steht in einem Beamtenverhältnis zum Bund und ihr oder ihm wird ein Amt der Besoldungsgruppe B 6 übertragen. Sie oder er führt die Amtsbezeichnung Leiterin oder Leiter des administrativen Kontrollorgans. Die Leiterin oder der Leiter unterliegt den Weisungen der Präsidentin oder des Präsidenten.
 
-
-## §§ 51 und 52 – (zukünftig in Kraft)
+# §§ 51 und 52 – (zukünftig in Kraft)
 
  
 
-
-## § 53 – Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates
+# § 53 – Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates
 
 Die Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates müssen deutsche Staatsangehörige sein und haben sich einer erweiterten Sicherheitsüberprüfung mit Sicherheitsermittlungen nach dem Sicherheitsüberprüfungsgesetz zu unterziehen.
 
-
-## § 54 – Geheimhaltung; Aussagegenehmigung
+# § 54 – Geheimhaltung; Aussagegenehmigung
 
 (1) Die Beratungen des Unabhängigen Kontrollrates sind geheim.
 
@@ -751,7 +696,6 @@ Die Mitarbeiterinnen und Mitarbeiter des Unabhängigen Kontrollrates müssen deu
 
 (3) Über die Erteilung einer Aussagegenehmigung entscheidet die Präsidentin oder der Präsident des Unabhängigen Kontrollrates. Die Genehmigung ist zu versagen, wenn die Aussage dem Wohl des Bundes oder eines Landes Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder erheblich erschweren würde. Über die Erteilung einer Aussagegenehmigung für die Präsidentin oder den Präsidenten entscheidet die Vizepräsidentin oder der Vizepräsident.
 
-
-## §§ 55 bis 62 – (zukünftig in Kraft)
+# §§ 55 bis 62 – (zukünftig in Kraft)
 
  

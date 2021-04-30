@@ -1,10 +1,7 @@
-# [BinSchAbgasV] Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt  (Binnenschiffs-Abgasemissionsverordnung - BinSchAbgasV)
-
-Ausfertigungsdatum: 20.08.2005
-
+% Verordnung über die Begrenzung von Abgasemissionen aus Dieselmotoren in der Binnenschifffahrt  (Binnenschiffs-Abgasemissionsverordnung - BinSchAbgasV)
+% Ausfertigungsdatum: 20.08.2005
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Inverkehrbringen von Motoren für Binnenschiffe und deren Einbau in Binnenschiffe.
 
@@ -50,8 +47,7 @@ Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16. Dezember 
 
 4. Seeschiffe.
 
-
-## § 2 – Technische Vorschriften
+# § 2 – Technische Vorschriften
 
 (1) Ein Motor für Binnenschiffe darf nur dann auf dem Markt bereitgestellt oder in ein Binnenschiff eingebaut werden, wenn der Motor oder die Motorenfamilie oder die Motorengruppe, zu der der Motor gehört,
 
@@ -63,8 +59,7 @@ Satz 1 gilt auch für einen Motor der Kategorie V1:3 nach Anhang I Abschnitt 4.1
 
 (2) Ein Motor muss eingebaut werden nach Maßgabe der Bestimmungen des Kapitels 9 des Europäischen Standards der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4)) (ES-TRIN).
 
-
-## § 3 – Zuständige Behörde und Aufgaben
+# § 3 – Zuständige Behörde und Aufgaben
 
 Die Generaldirektion Wasserstraßen und Schifffahrt als zuständige Behörde
 
@@ -74,7 +69,6 @@ Die Generaldirektion Wasserstraßen und Schifffahrt als zuständige Behörde
 
 nach Maßgabe der Artikel 4 bis 6, 11 und 12 der Richtlinie. § 26 Absatz 2, § 27 Absatz 1 und § 28 Absatz 2 sowie § 31 des Produktsicherheitsgesetzes gelten entsprechend.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 1 Satz 1 oder 2 einen Motor in den Verkehr bringt.

@@ -1,10 +1,7 @@
-# [WOGeistEigÜbkuaG] Gesetz über die am 14. Juli 1967 in Stockholm unterzeichneten Übereinkünfte auf dem Gebiet des geistigen Eigentums
-
-Ausfertigungsdatum: 05.06.1970
-
+% Gesetz über die am 14. Juli 1967 in Stockholm unterzeichneten Übereinkünfte auf dem Gebiet des geistigen Eigentums
+% Ausfertigungsdatum: 05.06.1970
  
-
-## Art 1
+# Art 1
 
 Den folgenden von der Bundesrepublik Deutschland am 14. Juli 1967 in Stockholm unterzeichneten Übereinkünften wird zugestimmt:
 
@@ -24,13 +21,11 @@ Den folgenden von der Bundesrepublik Deutschland am 14. Juli 1967 in Stockholm u
 
 Die Übereinkünfte werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Änderungen der Ausführungsordnung und Festsetzungen der Höhe von Gebühren, die die Versammlung des Verbandes für die internationale Registrierung von Marken gemäß Artikel 10 Abs. 2 Buchstabe a Ziffer iii der Stockholmer Fassung des Madrider Abkommens vom 14. April 1891 über die internationale Registrierung von Marken beschließt, sind im Bundesgesetzblatt bekanntzumachen.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

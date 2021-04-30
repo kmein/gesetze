@@ -1,10 +1,7 @@
-# [PflSchGerätV] Verordnung über die Prüfung von Pflanzenschutzgeräten  (Pflanzenschutz-Geräteverordnung)
-
-Ausfertigungsdatum: 27.06.2013
-
+% Verordnung über die Prüfung von Pflanzenschutzgeräten  (Pflanzenschutz-Geräteverordnung)
+% Ausfertigungsdatum: 27.06.2013
  
-
-## § 1 – Antrag auf Prüfung
+# § 1 – Antrag auf Prüfung
 
 (1) Der Antrag auf Prüfung eines Pflanzenschutzgerätes nach § 52 Absatz 1 des Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S. 148, 1281) ist elektronisch oder schriftlich nach dem in Anlage 1 festgelegten Muster zu stellen. In dem Antrag ist anzugeben, ob
 
@@ -20,8 +17,7 @@ geprüft werden sollen.
 
 (4) Die Prüfung auf Einhaltung der besonderen Anforderungen nach § 16 Absatz 3 des Pflanzenschutzgesetzes hinsichtlich der Verminderung der Abdrift oder des Verbrauchs von Pflanzenschutzmitteln erfolgt anhand der Merkmale nach der Zwölften Bekanntmachung über Merkmale für Pflanzenschutzgeräte des Julius Kühn-Institutes vom 23. November 2018 (BAnz AT 19.12.2018 B13). Der Antragsteller ist verpflichtet, Ergebnisse von Untersuchungen vorzulegen, die nach den Richtlinien 2-2.1, 2-3.1 und 7-1.5 der Bekanntmachung von Richtlinien, die zur Prüfung von Pflanzenschutzgeräten nach § 52 Absatz 1 des Pflanzenschutzgesetzes angewendet werden, des Julius Kühn-Institutes vom 19. April 2013 (BAnz AT 08.05.2013 B2), durchgeführt worden sind.
 
-
-## § 2 – Anerkennung einer Prüfstelle für Pflanzenschutzgeräte
+# § 2 – Anerkennung einer Prüfstelle für Pflanzenschutzgeräte
 
 (1) Der Antrag auf Anerkennung nach § 52 Absatz 3 des Pflanzenschutzgesetzes als Prüfstelle ist schriftlich oder elektronisch beim Julius Kühn-Institut mit folgenden Angaben und beizufügenden Unterlagen zu stellen:
 
@@ -63,8 +59,7 @@ Zu den in Satz 1 Nummer 4 bis 6 genannten Angaben sind jeweils geeignete Nachwei
 
 (4) Nach Erteilung der Anerkennung wird der Prüfstelle eine Anerkennungsbescheinigung nach dem Muster der Anlage 2 ausgestellt.
 
-
-## § 3 – Grundsatz der Prüfung
+# § 3 – Grundsatz der Prüfung
 
 (1) Verfügungsberechtigte und Besitzer haben ihre in Gebrauch befindlichen Pflanzenschutzgeräte, mit Ausnahme der in Anlage 3 aufgeführten Pflanzenschutzgeräte, in Zeitabständen von sechs Kalenderhalbjahren durch eine Kontrollstelle prüfen zu lassen. Kontrollstellen im Sinne dieser Verordnung sind amtliche Kontrollstellen, amtlich anerkannte Kontrollwerkstätten oder amtlich anerkannte Kontrollpersonen. Soweit in § 4 nichts Anderes bestimmt ist, beginnt der Zeitraum von sechs Kalenderhalbjahren am 6. Juli 2013.
 
@@ -72,8 +67,7 @@ Zu den in Satz 1 Nummer 4 bis 6 genannten Angaben sind jeweils geeignete Nachwei
 
 (3) Teile des Pflanzenschutzgerätes, die dem Anwenderschutz oder der Verkehrssicherheit dienen, können in die Prüfung einbezogen werden.
 
-
-## § 4 – Zeitpunkt der Kontrolle
+# § 4 – Zeitpunkt der Kontrolle
 
 (1) Erstmals in Gebrauch genommene Pflanzenschutzgeräte müssen spätestens bei Ablauf des sechsten Monats nach ihrer Ingebrauchnahme geprüft worden sein.
 
@@ -81,8 +75,7 @@ Zu den in Satz 1 Nummer 4 bis 6 genannten Angaben sind jeweils geeignete Nachwei
 
 (3) Die in der Anlage 5 aufgeführten Gerätearten müssen spätestens bis zu dem dort genannten Zeitpunkt kontrolliert worden sein.
 
-
-## § 5 – Prüfplakette
+# § 5 – Prüfplakette
 
 (1) Der Besitzer des Pflanzenschutzgerätes hat das Kalenderhalbjahr, in dem das Pflanzenschutzgerät nach § 3 Absatz 1 Satz 1 zu prüfen ist, durch eine Plakette nach dem in Anlage 6 aufgeführten Muster nachzuweisen. Die Plakette ist von der Kontrollstelle durch Angabe ihrer Anschrift sowie des betreffenden Kalenderjahres und Halbjahres auszufüllen und anzubringen, wenn die Prüfung die einwandfreie Arbeitsweise des Gerätes erwiesen hat.
 
@@ -94,18 +87,15 @@ Zu den in Satz 1 Nummer 4 bis 6 genannten Angaben sind jeweils geeignete Nachwei
 
 (5) Die Plakette wird mit dem Ablauf des auf ihr angegebenen Kalenderhalbjahres ungültig.
 
-
-## § 6 – Verwendungsverbot
+# § 6 – Verwendungsverbot
 
 Pflanzenschutzgeräte, die keiner vorgeschriebenen Prüfung unterzogen oder nicht mit einer gültigen Plakette versehen worden sind, dürfen nicht verwendet werden.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 6 ein Pflanzenschutzgerät verwendet.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Muster eines Antragsformulars nach § 1
+# Anlage 1 – (zu § 1 Absatz 1)Muster eines Antragsformulars nach § 1
 
 (Fundstelle: BGBl. I 2019, 508)
 
@@ -147,15 +137,13 @@ Telefon:
 </td></tr><tr class="even"><td style="text-align: left;">Vorgesehener Verwendungsbereich:<br />
 </td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 2 Absatz 4)Anerkennungsbescheinigung im Sinne des § 2
+# Anlage 2 – (zu § 2 Absatz 4)Anerkennungsbescheinigung im Sinne des § 2
 
 (Fundstelle: BGBl. I 2013, 1965)
 
 (Übersetzung)
 
-
-## Anlage 3 – (zu § 3 Absatz 1)Pflanzenschutzgerätearten, die nicht nach § 3 kontrolliert werden müssen
+# Anlage 3 – (zu § 3 Absatz 1)Pflanzenschutzgerätearten, die nicht nach § 3 kontrolliert werden müssen
 
 (Fundstelle: BGBl. I 2013, 1966)
 
@@ -177,8 +165,7 @@ Handgehaltene sowie schulter- und rückentragbare Pflanzenschutzgeräte,
 
 8. Beizgeräte mit einer Chargengröße kleiner als 5 kg.
 
-
-## Anlage 4 – (zu § 3 Absatz 2)Beschaffenheit der Pflanzenschutzgeräte
+# Anlage 4 – (zu § 3 Absatz 2)Beschaffenheit der Pflanzenschutzgeräte
 
 (Fundstelle: BGBl. I 2013, 1967)
 
@@ -210,8 +197,7 @@ Pflanzenschutzgeräte müssen so beschaffen sein, dass
 
 13. die jeweils zu ihrer Kontrolle erforderlichen Messgeräte einfach angeschlossen werden können.
 
-
-## Anlage 5 – (zu § 4 Absatz 3)Pflanzenschutzgeräte mit abweichenden Prüfterminen
+# Anlage 5 – (zu § 4 Absatz 3)Pflanzenschutzgeräte mit abweichenden Prüfterminen
 
 (Fundstelle: BGBl. I 2013, 1968)
 
@@ -225,8 +211,7 @@ Pflanzenschutzgeräte, die bis zum 31. Dezember 2020 erstmals und dann nach jewe
 
 4. Bodenentseuchungsgeräte.
 
-
-## Anlage 6 – (zu § 5)Muster der Plakette
+# Anlage 6 – (zu § 5)Muster der Plakette
 
 (Fundstelle: BGBl. I 2013, 1969)
 

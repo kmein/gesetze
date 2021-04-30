@@ -1,12 +1,7 @@
-# [NotAktVV] Verordnung über die Führung notarieller Akten und Verzeichnisse  (NotAktVV)
-
-Ausfertigungsdatum: 13.10.2020
-
+% Verordnung über die Führung notarieller Akten und Verzeichnisse  (NotAktVV)
+% Ausfertigungsdatum: 13.10.2020
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -60,13 +55,13 @@ Ausfertigungsdatum: 13.10.2020
 
  
 
+ 
 
-## §§ 1 bis 3 – (zukünftig in Kraft)
+# §§ 1 bis 3 – (zukünftig in Kraft)
 
 (+++ §§ 1 bis 3: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## § 4 – Form und Übergabe elektronischer Aufzeichnungen
+# § 4 – Form und Übergabe elektronischer Aufzeichnungen
 
 (1) Ist die Verwendung eines bestimmten Dateiformats oder eines bestimmten Systems nicht durch andere oder aufgrund anderer Rechtsvorschriften vorgeschrieben, so sind elektronische Akten und Verzeichnisse (elektronische Aufzeichnungen) in einem Dateiformat zu führen, das allgemein gebräuchlich ist. Elektronische Aufzeichnungen können auch in einem anderen Dateiformat geführt werden, wenn dieses ohne erheblichen zeitlichen oder finanziellen Aufwand in ein allgemein gebräuchliches Dateiformat überführt werden kann.
 
@@ -74,8 +69,7 @@ Ausfertigungsdatum: 13.10.2020
 
 (+++ § 4 Abs. 2: Zur Geltung vgl. § 48 S 2 +++)
 
-
-## § 5 – Sicherheit elektronischer Aufzeichnungen
+# § 5 – Sicherheit elektronischer Aufzeichnungen
 
 (1) Systeme, die zum Umgang mit elektronischen Aufzeichnungen verwendet werden, sind durch geeignete und dem Stand der Technik entsprechende Maßnahmen gegen unbefugten Zugang zu schützen.
 
@@ -89,33 +83,27 @@ Ausfertigungsdatum: 13.10.2020
 
 (+++ § 5 Abs. 3 bis 5: Treten gem. Art. 3 Abs. 2 Nr 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## § 6 – Technische und organisatorische Maßnahmen
+# § 6 – Technische und organisatorische Maßnahmen
 
 Die Bundesnotarkammer präzisiert durch Verhaltensregeln nach Artikel 40 Absatz 2 Buchstabe h der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) die technischen und organisatorischen Maßnahmen, die nach Artikel 32 der Verordnung (EU) 2016/679 zu treffen sind, um die Sicherheit der personenbezogenen Daten zu gewährleisten, die in den elektronischen Aufzeichnungen und den zu ihrer Führung verwendeten elektronischen Hilfsmitteln verarbeitet werden.
 
-
-## §§ 7 bis 20 – (zukünftig in Kraft)
+# §§ 7 bis 20 – (zukünftig in Kraft)
 
 (+++ §§ 7 bis 20: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## §§ 21 bis 30 – (zukünftig in Kraft)
+# §§ 21 bis 30 – (zukünftig in Kraft)
 
 (+++ §§ 21 bis 30: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## §§ 31 bis 33 – (zukünftig in Kraft)
+# §§ 31 bis 33 – (zukünftig in Kraft)
 
 (+++ §§ 31 bis 33: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## §§ 34 bis 39 – (zukünftig in Kraft)
+# §§ 34 bis 39 – (zukünftig in Kraft)
 
 (+++ §§ 34 bis 39: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## § 40 – Nebenakten
+# § 40 – Nebenakten
 
 (1) Zu allen Amtsgeschäften können Nebenakten geführt werden. Eine Nebenakte muss geführt werden, soweit dies zur Vornahme eines Amtsgeschäfts geboten ist. Die Nebenakten können als Sammelakten geführt werden, wenn ein sachlicher Grund hierfür besteht und die geordnete Aktenführung sichergestellt ist.
 
@@ -131,8 +119,7 @@ Die Bundesnotarkammer präzisiert durch Verhaltensregeln nach Artikel 40 Absatz 
 
 5. weitere Informationen, die zur Erfüllung der beurkundungsrechtlichen Pflichten oder sonst zur Vornahme des Amtsgeschäfts erforderlich sind.
 
-
-## § 41 – Sonderbestimmungen für Verwahrungsgeschäfte
+# § 41 – Sonderbestimmungen für Verwahrungsgeschäfte
 
 (1) Zu jedem Verwahrungsgeschäft ist eine Nebenakte zu führen. Die Führung von Sammelakten ist für Verwahrungsgeschäfte nicht zulässig.
 
@@ -156,13 +143,11 @@ Die Bundesnotarkammer präzisiert durch Verhaltensregeln nach Artikel 40 Absatz 
 
 (+++ § 41 Abs. 4 und 5: Treten gem. Art. 3 Abs. 2 Nr 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## § 42 – Führung in Papierform
+# § 42 – Führung in Papierform
 
 Werden die Nebenakten in Papierform geführt, müssen die aufgenommenen Dokumente nachvollziehbar geordnet sein. Werden Sammelakten geführt, so ist erforderlichenfalls durch besondere Vorkehrungen dafür zu sorgen, dass die Verfügbarkeit aller Inhalte sichergestellt ist und die Dokumente, die zu einzelnen Amtsgeschäften gehören, aufgefunden werden können.
 
-
-## § 43 – Elektronische Führung
+# § 43 – Elektronische Führung
 
 (1) Werden die Nebenakten elektronisch geführt, müssen die Nebenakten und die darin aufgenommenen Dokumente durch einen strukturierten Datensatz beschrieben sein. Hat die Bundesnotarkammer in ihrem Verkündungsblatt nähere Angaben zu dem strukturierten Datensatz sowie zu den Dateiformaten bekannt gemacht, die bei der Führung der Nebenakten zu verwenden sind, so sind diese zu beachten. Die Bekanntmachung im Verkündungsblatt kann zu technischen Einzelheiten auf eine Veröffentlichung im Internet Bezug nehmen.
 
@@ -170,20 +155,17 @@ Werden die Nebenakten in Papierform geführt, müssen die aufgenommenen Dokument
 
 (+++ § 43: Zur Geltung vgl. § 47 Abs. 2 +++)
 
-
-## § 44 – Führung in Papierform und elektronische Führung
+# § 44 – Führung in Papierform und elektronische Führung
 
 (1) Werden die Nebenakten zu einzelnen Amtsgeschäften in Papierform und zu anderen Amtsgeschäften elektronisch geführt, so ist durch geeignete Vorkehrungen sicherzustellen, dass die jeweiligen Nebenakten problemlos auffindbar und zugänglich sind.
 
 (2) Wird die Nebenakte zu einem Amtsgeschäft teilweise in Papierform und teilweise elektronisch geführt, so ist durch geeignete Vorkehrungen die Transparenz, die Vollständigkeit und die Verfügbarkeit des Akteninhalts sicherzustellen.
 
-
-## § 45 – (zukünftig in Kraft)
+# § 45 – (zukünftig in Kraft)
 
 (+++ § 45: Tritt gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## § 46 – Generalakte
+# § 46 – Generalakte
 
 (1) Für Vorgänge, die die Amtsführung im Allgemeinen betreffen, ist eine Generalakte zu führen. Sie enthält insbesondere
 
@@ -213,19 +195,16 @@ Werden die Nebenakten in Papierform geführt, müssen die aufgenommenen Dokument
 
 (2) Die Generalakte ist entweder nach Sachgebieten geordnet zu gliedern oder mit fortlaufenden Seitenzahlen und einem Inhaltsverzeichnis zu versehen.
 
-
-## § 47 – Elektronische Führung
+# § 47 – Elektronische Führung
 
 (1) Soll die Generalakte teilweise in Papierform und teilweise elektronisch geführt werden, so ist die jeweilige Form auf ganze Jahrgänge, ganze Sachgebiete oder ganze Jahrgänge ganzer Sachgebiete zu erstrecken.
 
 (2) Im Übrigen gilt für die elektronische Führung der Generalakte § 43 entsprechend.
 
-
-## §§ 48 und 49 – (zukünftig in Kraft)
+# §§ 48 und 49 – (zukünftig in Kraft)
 
 (+++ §§ 48 und 49: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)
 
-
-## §§ 50 bis 53 – (zukünftig in Kraft)
+# §§ 50 bis 53 – (zukünftig in Kraft)
 
 (+++ §§ 50 bis 53: Treten gem. Art. 3 Abs. 1 V v. 13.10.2020 I 2246 am 1.1.2022 in Kraft +++)

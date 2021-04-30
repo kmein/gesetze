@@ -1,10 +1,7 @@
-# [VIG] Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation  (Verbraucherinformationsgesetz - VIG)
-
-Ausfertigungsdatum: 05.11.2007
-
+% Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation  (Verbraucherinformationsgesetz - VIG)
+% Ausfertigungsdatum: 05.11.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Durch dieses Gesetz erhalten Verbraucherinnen und Verbraucher freien Zugang zu den bei informationspflichtigen Stellen vorliegenden Informationen über
 
@@ -14,8 +11,7 @@ Durch dieses Gesetz erhalten Verbraucherinnen und Verbraucher freien Zugang zu d
 
 damit der Markt transparenter gestaltet und hierdurch der Schutz der Verbraucherinnen und Verbraucher vor gesundheitsschädlichen oder sonst unsicheren Erzeugnissen und Verbraucherprodukten sowie vor Täuschung beim Verkehr mit Erzeugnissen und Verbraucherprodukten verbessert wird.
 
-
-## § 2 – Anspruch auf Zugang zu Informationen
+# § 2 – Anspruch auf Zugang zu Informationen
 
 (1) Jeder hat nach Maßgabe dieses Gesetzes Anspruch auf freien Zugang zu allen Daten über
 
@@ -67,8 +63,7 @@ Satz 1 gilt im Fall einer Gemeinde oder eines Gemeindeverbandes nur, wenn der Ge
 
 (4) Die Vorschriften dieses Gesetzes gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Vorschriften vorgesehen sind.
 
-
-## § 3 – Ausschluss- und Beschränkungsgründe
+# § 3 – Ausschluss- und Beschränkungsgründe
 
 Der Anspruch nach § 2 besteht wegen
 
@@ -116,8 +111,7 @@ herausgegeben werden. Im Fall des Satzes 1 Nummer 2 Buchstabe a gilt § 5 Absatz
 
 Gleiches gilt für den Namen des Händlers, der das Erzeugnis oder Verbraucherprodukt an Verbraucher abgibt, sowie für die Handelsbezeichnung, eine aussagekräftige Beschreibung und bildliche Darstellung des Erzeugnisses oder Verbraucherproduktes und in den Fällen des § 2 Absatz 1 Satz 1 Nummer 1 zusätzlich für den Namen und die Anschrift des Herstellers, Bevollmächtigten, Einführers, Händlers sowie jedes Gliedes der Liefer- und Vertriebskette; Satz 1 Nummer 2 Buchstabe a ist nicht anzuwenden.
 
-
-## § 4 – Antrag
+# § 4 – Antrag
 
 (1) Die Information wird auf Antrag erteilt. Der Antrag muss hinreichend bestimmt sein und insbesondere erkennen lassen, auf welche Informationen er gerichtet ist. Ferner soll der Antrag den Namen und die Anschrift des Antragstellers enthalten. Zuständig ist
 
@@ -145,8 +139,7 @@ Abweichend von Satz 4 Nummer 1 ist im Fall einer natürlichen oder juristischen 
 
 (5) Wenn der Antragsteller sich die begehrten Informationen in zumutbarer Weise aus allgemein zugänglichen Quellen beschaffen kann, kann der Antrag abgelehnt und der Antragsteller auf diese Quellen hingewiesen werden. Die Voraussetzungen nach Satz 1 sind insbesondere dann erfüllt, wenn die Stelle den Informationszugang bereits nach § 6 Absatz 1 Satz 3 gewährt. Satz 1 gilt entsprechend, soweit sich in den Fällen des § 2 Absatz 1 Satz 1 Nummer 2 bis 6 eine der in § 3 Satz 6 genannten Personen im Rahmen einer nach den Vorschriften des Verwaltungsverfahrensgesetzes oder den entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder durchgeführten Anhörung verpflichtet, die begehrte Information selbst zu erteilen, es sei denn, der Antragsteller hat nach § 6 Absatz 1 Satz 2 ausdrücklich um eine behördliche Auskunftserteilung gebeten oder es bestehen Anhaltspunkte dafür, dass die Information durch die Person nicht, nicht rechtzeitig oder nicht vollständig erfolgen wird.
 
-
-## § 5 – Entscheidung über den Antrag
+# § 5 – Entscheidung über den Antrag
 
 (1) Das Verfahren einschließlich der Beteiligung Dritter, deren rechtliche Interessen durch den Ausgang des Verfahrens berührt werden können, richtet sich nach dem Verwaltungsverfahrensgesetz oder den Verwaltungsverfahrensgesetzen der Länder. Für die Anhörung gelten § 28 des Verwaltungsverfahrensgesetzes oder die entsprechenden Vorschriften der Verwaltungsverfahrensgesetze der Länder mit der Maßgabe, dass von einer Anhörung auch abgesehen werden kann
 
@@ -164,8 +157,7 @@ Bei gleichförmigen Anträgen von mehr als 20 Personen gelten die §§ 17 und 19
 
 (5) Ein Vorverfahren findet abweichend von § 68 der Verwaltungsgerichtsordnung auch dann statt, wenn die Entscheidung von einer obersten Bundesbehörde erlassen worden ist. Widerspruchsbehörde ist die oberste Bundesbehörde.
 
-
-## § 6 – Informationsgewährung
+# § 6 – Informationsgewährung
 
 (1) Die informationspflichtige Stelle kann den Informationszugang durch Auskunftserteilung, Gewährung von Akteneinsicht oder in sonstiger Weise eröffnen. Wird eine bestimmte Art des Informationszugangs begehrt, so darf dieser nur aus wichtigem Grund auf andere Art gewährt werden. Die informationspflichtige Stelle kann Informationen, zu denen Zugang zu gewähren ist, auch unabhängig von einem Antrag nach § 4 Absatz 1 über das Internet oder in sonstiger öffentlich zugänglicher Weise zugänglich machen; § 5 Absatz 1 gilt entsprechend. Die Informationen sollen für die Verbraucherinnen und Verbraucher verständlich dargestellt werden.
 
@@ -175,8 +167,7 @@ Bei gleichförmigen Anträgen von mehr als 20 Personen gelten die §§ 17 und 19
 
 (4) Stellen sich die von der informationspflichtigen Stelle zugänglich gemachten Informationen im Nachhinein als falsch oder die zugrunde liegenden Umstände als unrichtig wiedergegeben heraus, so ist dies unverzüglich richtig zu stellen, sofern der oder die Dritte dies beantragt oder dies zur Wahrung erheblicher Belange des Gemeinwohls erforderlich ist. Die Richtigstellung soll in derselben Weise erfolgen, in der die Information zugänglich gemacht wurde.
 
-
-## § 7 – Gebühren und Auslagen
+# § 7 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen der Behörden nach diesem Gesetz werden vorbehaltlich des Satzes 2 kostendeckende Gebühren und Auslagen erhoben. Der Zugang zu Informationen nach § 2 Absatz 1 Satz 1 Nummer 1 ist bis zu einem Verwaltungsaufwand von 1 000 Euro gebühren- und auslagenfrei, der Zugang zu sonstigen Informationen bis zu einem Verwaltungsaufwand von 250 Euro. Sofern der Antrag nicht gebühren- und auslagenfrei bearbeitet wird, ist der Antragsteller über die voraussichtliche Höhe der Gebühren und Auslagen vorab zu informieren. Er ist auf die Möglichkeit hinzuweisen, seinen Antrag zurücknehmen oder einschränken zu können.
 

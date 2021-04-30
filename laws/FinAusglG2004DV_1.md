@@ -1,15 +1,11 @@
-# [FinAusglG2004DV 1] Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2004
-
-Ausfertigungsdatum: 18.03.2004
-
+% Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2004
+% Ausfertigungsdatum: 18.03.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Abs. 3 des Finanzausgleichsgesetzes vom 23. Juni 1993 (BGBl. I S. 944, 977) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2004
+# § 1 – Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2004
 
 (1) Zum vorläufigen Vollzug der Umsatzsteuerverteilung und des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2004 wird der Zahlungsverkehr nach § 14 Abs. 1 des Gesetzes in der Weise durchgeführt, dass die Ablieferung des Bundesanteils von 49,47608609 vom Hundert an der durch Landesfinanzbehörden verwalteten Umsatzsteuer auf die folgenden Vomhundertsätze erhöht oder vermindert wird:  
 
@@ -42,12 +38,10 @@ Auf Grund des § 14 Abs. 3 des Finanzausgleichsgesetzes vom 23. Juni 1993 (BGBl.
 
 (6) Der nach § 1 Abs. 2 Satz 3 des Gesetzes in Monatsbeträgen mit den Einfuhrumsatzsteuerzahlungen des Bundes nach § 14 Abs. 2 des Gesetzes vorläufig zu berechnende Beitrag der Länder zu den Schuldendienstleistungen für den Fonds "Deutsche Einheit" wird außer auf Berlin (West) vorläufig auch auf die anderen zahlungspflichtigen Länder nach der Einwohnerzahl verteilt. Dabei sind auch die Umschichtungen nach § 1 Abs. 3 des Gesetzes in monatlichen Teilbeträgen zu berücksichtigen.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

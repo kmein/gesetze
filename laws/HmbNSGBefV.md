@@ -1,15 +1,11 @@
-# [HmbNSGBefV] Verordnung über das Befahren der Bundeswasserstraße Elbe in bestimmten Naturschutzgebieten der Freien und Hansestadt Hamburg  (Hamburg-Naturschutzgebietsbefahrensverordnung - HmbNSGBefV)
-
-Ausfertigungsdatum: 27.09.2016
-
+% Verordnung über das Befahren der Bundeswasserstraße Elbe in bestimmten Naturschutzgebieten der Freien und Hansestadt Hamburg  (Hamburg-Naturschutzgebietsbefahrensverordnung - HmbNSGBefV)
+% Ausfertigungsdatum: 27.09.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), der durch Artikel 522 Nummer 2 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Befahrensregelung für das Naturschutzgebiet Mühlenberger Loch/Neßsand
+# § 1 – Befahrensregelung für das Naturschutzgebiet Mühlenberger Loch/Neßsand
 
 (1) Auf der Bundeswasserstraße Elbe im Bereich des Naturschutzgebietes „Mühlenberger Loch/Neßsand“ nach Maßgabe des als Anlage zu dieser Verordnung veröffentlichten Lageplans ist es untersagt,
 
@@ -27,8 +23,7 @@ Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der Fassung der Be
 
 (+++ § 1 Abs 1: Zur Anwendung vgl. § 2 Abs 1 +++)
 
-
-## § 2 – Ausnahmen und Befreiungen
+# § 2 – Ausnahmen und Befreiungen
 
 (1) Die Verbote des § 1 Absatz 1 gelten nicht für notwendige Dienst- oder Forschungsfahrten im Auftrag oder mit Wasserfahrzeugen des Bundes oder eines Landes.
 
@@ -42,8 +37,7 @@ Befreiungen nach Satz 1 Nummer 1 müssen mit dem Schutzzweck dieser Verordnung v
 
 (3) Von den Verboten des § 1 Absatz 1 kann abgewichen werden, soweit dies zur Abwehr einer unmittelbar drohenden Gefahr erforderlich ist.
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -51,13 +45,11 @@ Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengese
 
 2. entgegen § 1 Absatz 1 Nummer 5 ein Wasserfahrzeug trockenfallen lässt.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1 Absatz 1)
+# Anlage – (zu § 1 Absatz 1)
 
 (Fundstelle: BGBl. I 2016,2193)
 

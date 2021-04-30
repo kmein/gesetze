@@ -1,10 +1,7 @@
-# [BMinGErnAnO] Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit
-
-Ausfertigungsdatum: 11.07.2012
-
+% Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit
+% Ausfertigungsdatum: 11.07.2012
  
-
-## I.
+# I.
 
 Nach Artikel 1 Absatz 1 Satz 2 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes vom 23. Juni 2004 (BGBl. I S. 1286) wird die Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten bis zur Besoldungsgruppe A 15 der Bundesbesoldungsordnung A (Anlage I des Bundesbesoldungsgesetzes) widerruflich übertragen auf:
 
@@ -23,12 +20,10 @@ die Präsidentin und Professorin oder den Präsidenten und Professor des Paul-Eh
 –  
 die Präsidentin und Professorin oder den Präsidenten und Professor des Robert Koch-Instituts.
 
-
-## II.
+# II.
 
 Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von diesem Zeitpunkt an ist die Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung vom 6. Mai 2003 (BGBl. I S. 678) nicht mehr anzuwenden, soweit sie Regelungen für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts für medizinische Dokumentation und Information, des Bundesinstituts für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister für Gesundheit

@@ -1,17 +1,13 @@
-# [UIG] Umweltinformationsgesetz  (UIG)
-
-Ausfertigungsdatum: 22.12.2004
-
+% Umweltinformationsgesetz  (UIG)
+% Ausfertigungsdatum: 22.12.2004
  
-
-## § 1 – Zweck des Gesetzes; Anwendungsbereich
+# § 1 – Zweck des Gesetzes; Anwendungsbereich
 
 (1) Zweck dieses Gesetzes ist es, den rechtlichen Rahmen für den freien Zugang zu Umweltinformationen bei informationspflichtigen Stellen sowie für die Verbreitung dieser Umweltinformationen zu schaffen.
 
 (2) Dieses Gesetz gilt für informationspflichtige Stellen des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Informationspflichtige Stellen sind
 
@@ -57,8 +53,7 @@ b) den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu den Ma
 
 (4) Eine informationspflichtige Stelle verfügt über Umweltinformationen, wenn diese bei ihr vorhanden sind oder für sie bereitgehalten werden. Ein Bereithalten liegt vor, wenn eine natürliche oder juristische Person, die selbst nicht informationspflichtige Stelle ist, Umweltinformationen für eine informationspflichtige Stelle im Sinne des Absatzes 1 aufbewahrt, auf die diese Stelle einen Übermittlungsanspruch hat.
 
-
-## § 3 – Anspruch auf Zugang zu Umweltinformationen
+# § 3 – Anspruch auf Zugang zu Umweltinformationen
 
 (1) Jede Person hat nach Maßgabe dieses Gesetzes Anspruch auf freien Zugang zu Umweltinformationen, über die eine informationspflichtige Stelle im Sinne des § 2 Absatz 1 verfügt, ohne ein rechtliches Interesse darlegen zu müssen. Daneben bleiben andere Ansprüche auf Zugang zu Informationen unberührt.
 
@@ -70,8 +65,7 @@ b) den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu den Ma
 
 2. soweit Umweltinformationen derart umfangreich und komplex sind, dass die in Nummer 1 genannte Frist nicht eingehalten werden kann, mit Ablauf von zwei Monaten.
 
-
-## § 4 – Antrag und Verfahren
+# § 4 – Antrag und Verfahren
 
 (1) Umweltinformationen werden von einer informationspflichtigen Stelle auf Antrag zugänglich gemacht.
 
@@ -83,8 +77,7 @@ b) den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu den Ma
 
 (5) Über die Geltung der längeren Frist nach § 3 Absatz 3 Satz 2 Nummer 2 ist die antragstellende Person spätestens mit Ablauf der Frist nach § 3 Absatz 3 Satz 2 Nummer 1 unter Angabe der Gründe zu unterrichten.
 
-
-## § 5 – Ablehnung des Antrags
+# § 5 – Ablehnung des Antrags
 
 (1) Wird der Antrag ganz oder teilweise nach den §§ 8 und 9 abgelehnt, ist die antragstellende Person innerhalb der Fristen nach § 3 Absatz 3 Satz 2 hierüber zu unterrichten. Eine Ablehnung liegt auch dann vor, wenn nach § 3 Absatz 2 der Informationszugang auf andere Art gewährt oder die antragstellende Person auf eine andere Art des Informationszugangs verwiesen wird. Der antragstellenden Person sind die Gründe für die Ablehnung mitzuteilen; in den Fällen des § 8 Absatz 2 Nummer 4 ist darüber hinaus die Stelle, die das Material vorbereitet, sowie der voraussichtliche Zeitpunkt der Fertigstellung mitzuteilen. § 39 Absatz 2 des Verwaltungsverfahrensgesetzes findet keine Anwendung.
 
@@ -94,8 +87,7 @@ b) den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu den Ma
 
 (4) Die antragstellende Person ist im Falle der vollständigen oder teilweisen Ablehnung eines Antrags auch über die Rechtsschutzmöglichkeiten gegen die Entscheidung sowie darüber zu belehren, bei welcher Stelle und innerhalb welcher Frist um Rechtsschutz nachgesucht werden kann.
 
-
-## § 6 – Rechtsschutz
+# § 6 – Rechtsschutz
 
 (1) Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
@@ -107,8 +99,7 @@ b) den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu den Ma
 
 (5) Durch Landesgesetz kann für Streitigkeiten um Ansprüche gegen private informationspflichtige Stellen auf Grund von landesrechtlichen Vorschriften über den Zugang zu Umweltinformationen der Verwaltungsrechtsweg vorgesehen werden.
 
-
-## § 7 – Unterstützung des Zugangs zu Umweltinformationen
+# § 7 – Unterstützung des Zugangs zu Umweltinformationen
 
 (1) Die informationspflichtigen Stellen ergreifen Maßnahmen, um den Zugang zu den bei ihnen verfügbaren Umweltinformationen zu erleichtern. Zu diesem Zweck wirken sie darauf hin, dass Umweltinformationen, über die sie verfügen, zunehmend in elektronischen Datenbanken oder in sonstigen Formaten gespeichert werden, die über Mittel der elektronischen Kommunikation abrufbar sind.
 
@@ -124,13 +115,11 @@ b) den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu den Ma
 
 (3) Soweit möglich, gewährleisten die informationspflichtigen Stellen, dass alle Umweltinformationen, die von ihnen oder für sie zusammengestellt werden, auf dem gegenwärtigen Stand, exakt und vergleichbar sind.
 
-
-## § 7a – Bundesbeauftragte für die Informationsfreiheit
+# § 7a – Bundesbeauftragte für die Informationsfreiheit
 
 § 12 des Informationsfreiheitsgesetzes findet auf Anträge auf Zugang zu Umweltinformationen nach § 3 entsprechende Anwendung.
 
-
-## § 8 – Schutz öffentlicher Belange
+# § 8 – Schutz öffentlicher Belange
 
 (1) Soweit das Bekanntgeben der Informationen nachteilige Auswirkungen hätte auf
 
@@ -158,8 +147,7 @@ ist der Antrag abzulehnen, es sei denn, das öffentliche Interesse an der Bekann
 
 ist er abzulehnen, es sei denn, das öffentliche Interesse an der Bekanntgabe überwiegt.
 
-
-## § 9 – Schutz sonstiger Belange
+# § 9 – Schutz sonstiger Belange
 
 (1) Soweit
 
@@ -173,8 +161,7 @@ ist der Antrag abzulehnen, es sei denn, die Betroffenen haben zugestimmt oder da
 
 (2) Umweltinformationen, die private Dritte einer informationspflichtigen Stelle übermittelt haben, ohne rechtlich dazu verpflichtet zu sein oder rechtlich verpflichtet werden zu können, und deren Offenbarung nachteilige Auswirkungen auf die Interessen der Dritten hätte, dürfen ohne deren Einwilligung anderen nicht zugänglich gemacht werden, es sei denn, das öffentliche Interesse an der Bekanntgabe überwiegt. Der Zugang zu Umweltinformationen über Emissionen kann nicht unter Berufung auf die in Satz 1 genannten Gründe abgelehnt werden.
 
-
-## § 10 – Unterrichtung der Öffentlichkeit
+# § 10 – Unterrichtung der Öffentlichkeit
 
 (1) Die informationspflichtigen Stellen unterrichten die Öffentlichkeit in angemessenem Umfang aktiv und systematisch über die Umwelt. In diesem Rahmen verbreiten sie Umweltinformationen, die für ihre Aufgaben von Bedeutung sind und über die sie verfügen.
 
@@ -210,13 +197,11 @@ In Fällen des Satzes 1 Nummer 5 und 6 genügt zur Verbreitung die Angabe, wo so
 
 2. die Einzelheiten der Aktualisierung von veröffentlichten Umweltinformationen gemäß Absatz 2 Satz 3, einschließlich des nachträglichen Wegfalls der Unterrichtungspflicht nach Absatz 1.
 
-
-## § 11 – Umweltzustandsbericht
+# § 11 – Umweltzustandsbericht
 
 Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht mehr als vier Jahren einen Bericht über den Zustand der Umwelt im Bundesgebiet. Hierbei berücksichtigt sie § 10 Absatz 1, 3 und 6. Der Bericht enthält Informationen über die Umweltqualität und vorhandene Umweltbelastungen. Der erste Bericht nach Inkrafttreten dieses Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
 
-
-## § 12 – Gebühren und Auslagen
+# § 12 – Gebühren und Auslagen
 
 (1) Für die Übermittlung von Informationen auf Grund dieses Gesetzes werden Gebühren und Auslagen erhoben. Dies gilt nicht für die Erteilung mündlicher und einfacher schriftlicher Auskünfte, die Einsichtnahme in Umweltinformationen vor Ort, Maßnahmen und Vorkehrungen nach § 7 Absatz 1 und 2 sowie die Unterrichtung der Öffentlichkeit nach den §§ 10 und 11.
 
@@ -226,8 +211,7 @@ Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht mehr als v
 
 (4) Private informationspflichtige Stellen im Sinne des § 2 Absatz 1 Nummer 2 können für die Übermittlung von Informationen nach diesem Gesetz von der antragstellenden Person Gebühren- und Auslagenerstattung entsprechend den Grundsätzen nach den Absätzen 1 und 2 verlangen. Die Höhe der erstattungsfähigen Gebühren und Auslagen bemisst sich nach den in der Rechtsverordnung nach Absatz 3 festgelegten Sätzen für individuell zurechenbare öffentliche Leistungen von informationspflichtigen Stellen des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
-
-## § 13 – Überwachung
+# § 13 – Überwachung
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die Kontrolle im Sinne des § 2 Absatz 2 für den Bund oder eine unter der Aufsicht des Bundes stehende juristische Person des öffentlichen Rechts ausüben, überwachen die Einhaltung dieses Gesetzes durch private informationspflichtige Stellen im Sinne des § 2 Absatz 1 Nummer 2.
 
@@ -237,8 +221,7 @@ Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht mehr als v
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Aufgaben nach den Absätzen 1 bis 3 abweichend von Absatz 1 auf andere Stellen der öffentlichen Verwaltung zu übertragen.
 
-
-## § 14 – Ordnungswidrigkeiten
+# § 14 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 13 Absatz 3 zuwiderhandelt.
 

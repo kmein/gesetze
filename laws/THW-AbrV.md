@@ -1,25 +1,19 @@
-# [THW-AbrV] Verordnung über die Durchführung und Abrechnung von Hilfeleistungen des Technischen Hilfswerks  (THW-Abrechnungsverordnung - THW-AbrV)
-
-Ausfertigungsdatum: 13.12.2012
-
+% Verordnung über die Durchführung und Abrechnung von Hilfeleistungen des Technischen Hilfswerks  (THW-Abrechnungsverordnung - THW-AbrV)
+% Ausfertigungsdatum: 13.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 3 des THW-Gesetzes, der durch Artikel 1 Nummer 7 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2350) neu gefasst worden ist, verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt das Verfahren zur Bemessung, der Abrechnung und der Durchführung von Hilfeleistungen des Technischen Hilfswerks auf der Grundlage des THW-Gesetzes.
 
-
-## § 2 – Anforderung und Durchführung von Hilfeleistungen
+# § 2 – Anforderung und Durchführung von Hilfeleistungen
 
 Technische Hilfe nach § 1 Absatz 2 Nummer 3 des THW-Gesetzes wird vom Technischen Hilfswerk auf schriftliche oder elektronische Anforderung der zuständigen Stellen geleistet. Liegt eine schriftliche oder elektronische Anforderung vor Durchführung der technischen Hilfe nicht vor, ist sie nachzureichen oder durch einen Vermerk aktenkundig zu machen. Technische Hilfe nach § 1 Absatz 2 Nummer 4 des THW-Gesetzes wird nach Maßgabe der entsprechenden Vereinbarung geleistet.
 
-
-## § 3 – Abrechnung von Hilfeleistungen
+# § 3 – Abrechnung von Hilfeleistungen
 
 (1) Für technische Hilfe nach § 1 Absatz 2 Nummer 3 des THW-Gesetzes erhebt das Technische Hilfswerk gegenüber der anfordernden Stelle Auslagen, wenn diese im Einzelfall 35 Euro übersteigen.
 
@@ -29,8 +23,7 @@ Technische Hilfe nach § 1 Absatz 2 Nummer 3 des THW-Gesetzes wird vom Technisch
 
 (4) Das Technische Hilfswerk macht seine Ansprüche in voller Höhe durch Bescheid geltend.
 
-
-## § 4 – Bemessung der Ansprüche
+# § 4 – Bemessung der Ansprüche
 
 (1) Die nach § 3 Absatz 1 zu erhebenden Auslagen setzen sich zusammen aus:
 
@@ -44,8 +37,7 @@ Technische Hilfe nach § 1 Absatz 2 Nummer 3 des THW-Gesetzes wird vom Technisch
 
 (3) Die Auslagen gemäß Absatz 1 und die Kosten nach Absatz 2 bestimmen sich nach den in der Anlage zu dieser Verordnung aufgeführten festen Sätzen. Nicht genannte Ausstattung wird nach den Sätzen vergleichbarer Ausstattung abgerechnet. Bei anderer Ausstattung, die nicht vergleichbar ist, wird der feste Satz nach der in der Anlage festgelegten Formel, die zur Ermittlung fester Sätze dient, berechnet.
 
-
-## § 5 – Vollständiger oder teilweiser Verzicht auf Auslagenerstattung
+# § 5 – Vollständiger oder teilweiser Verzicht auf Auslagenerstattung
 
 (1) Das Technische Hilfswerk kann auf die Erhebung von Auslagen ganz oder teilweise verzichten, wenn ein besonderes Ausbildungsinteresse an der Durchführung der technischen Hilfe besteht. Ein vollständiger Verzicht soll dem Ausnahmefall vorbehalten sein. Ein Rechtsanspruch auf einen Verzicht besteht nicht. Wenn eine Stelle die Anforderung des Technischen Hilfswerks von der Zusage eines vollständigen oder teilweisen Verzichts auf Kostenerstattung abhängig macht, kann unter den Voraussetzungen des Satzes 1 eine entsprechende Zusage gegeben werden.
 
@@ -63,8 +55,7 @@ Technische Hilfe nach § 1 Absatz 2 Nummer 3 des THW-Gesetzes wird vom Technisch
 
 (5) Auf die Erhebung von Kosten bei Fehlalarmierungen wird verzichtet, sofern ein Kostenträger nicht ermittelt werden kann.
 
-
-## § 6 – Sonstige Regelungen
+# § 6 – Sonstige Regelungen
 
 (1) Das Technische Hilfswerk regelt nähere Einzelheiten im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Verwaltungsvorschrift.
 
@@ -72,13 +63,11 @@ Technische Hilfe nach § 1 Absatz 2 Nummer 3 des THW-Gesetzes wird vom Technisch
 
 (3) Die Beteiligungsrechte nach § 9 der Bundeshaushaltsordnung bleiben unberührt.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2013 in Kraft.
 
-
-## Anlage – (zu § 4 Absatz 3)
+# Anlage – (zu § 4 Absatz 3)
 
 (Fundstelle: BGBl. I 2012, 2676 - 2693)
 

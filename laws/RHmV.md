@@ -1,10 +1,7 @@
-# [RHmV] Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in oder auf Lebensmitteln  (Rückstands-Höchstmengenverordnung - RHmV)
-
-Ausfertigungsdatum: 01.09.1994
-
+% Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in oder auf Lebensmitteln  (Rückstands-Höchstmengenverordnung - RHmV)
+% Ausfertigungsdatum: 01.09.1994
  
-
-## § 1 – Höchstmengen für Lebensmittel
+# § 1 – Höchstmengen für Lebensmittel
 
 (1) Als Höchstmengen, die in oder auf Lebensmitteln beim gewerbsmäßigen Inverkehrbringen nicht überschritten sein dürfen, werden festgesetzt:
 
@@ -38,20 +35,17 @@ Von Satz 1 Nummer 2 Buchstabe b ausgenommen sind die Stoffe Diethyltoluamid (DEE
 
 (6) Lebensmittel, in oder auf denen Stoffe über die in Absatz 1 in Verbindung mit den Anlagen 1 und 2 oder Absatz 4 festgesetzten Höchstmengen hinaus oder höhere als nach Absatz 5 zulässige Mengen von Pflanzenschutzmitteln vorhanden sind, dürfen gewerbsmäßig unbeschadet der Regelung in § 9 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches auch dann nicht in den Verkehr gebracht werden, wenn ihr Gehalt an diesen Stoffen ganz oder teilweise auf Verunreinigungen der Luft, des Wassers oder des Bodens zurückzuführen ist. Satz 1 gilt nicht, soweit in der Kontaminanten-Verordnung für diese Stoffe Höchstmengen festgesetzt sind, sowie für Rückstände von Arsen, Blei, Cadmium, Quecksilber und Selen sowie deren Verbindungen.
 
-
-## § 1a – (weggefallen)
+# § 1a – (weggefallen)
 
 \-
 
-
-## § 2 – Zusammengesetzte und weiterverarbeitete Lebensmittel
+# § 2 – Zusammengesetzte und weiterverarbeitete Lebensmittel
 
 (1) Die Höchstmengenfestsetzungen nach § 1 Abs. 1, 4 und 5 und das Verkehrsverbot nach § 1 Abs. 6 gelten auch für Lebensmittel, die als Zutat eines zusammengesetzten Lebensmittels in den Verkehr gebracht werden, sofern für den betreffenden Stoff für das zusammengesetzte Lebensmittel als Ganzes keine Höchstmenge festgesetzt ist. Läßt sich die Herkunft der in oder auf dem zusammengesetzten Lebensmittel vorhandenen Menge des Stoffes nicht mehr auf einzelne Zutaten zurückführen, so gilt für das zusammengesetzte Lebensmittel insgesamt die Höchstmenge als festgesetzt, die sich aus der Summe der für den Stoff für die einzelnen Zutaten festgesetzten Höchstmengen entsprechend dem Anteil der Zutaten an dem zusammengesetzten Lebensmittel ergibt.
 
 (2) Für weiterverarbeitete Lebensmittel gelten, sofern keine speziellen Höchstmengen für sie festgesetzt sind, die Höchstmengenregelungen derjenigen Lebensmittel, aus denen sie hergestellt werden. Wenn sich der Rückstandsgehalt durch die Weiterverarbeitung erhöht oder erniedrigt, gilt als Höchstmenge der für das zur Herstellung verwendete Lebensmittel festgesetzte Wert zuzüglich der durch die Weiterverarbeitung eingetretenen Erhöhung oder abzüglich der durch die Weiterverarbeitung eingetretenen Erniedrigung. Satz 2 gilt nicht in Fällen des § 1 Abs. 4.
 
-
-## § 3 – Lebensmittel mit überhöhten Rückständen
+# § 3 – Lebensmittel mit überhöhten Rückständen
 
 (1) Lebensmittel, in oder auf denen Stoffe über die durch diese Verordnung festgesetzten Höchstmengen hinaus vorhanden sind, dürfen vorbehaltlich der Absätze 2 und 3 an Betriebe abgegeben werden, die ihnen die Stoffe so weit entziehen, dass bei der Abgabe an den Verbraucher, wobei dem Verbraucher Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleichstehen (Verbraucher), die Höchstmengen nicht überschritten werden.
 
@@ -60,12 +54,10 @@ Von Satz 1 Nummer 2 Buchstabe b ausgenommen sind die Stoffe Diethyltoluamid (DEE
 (3) Getreide, in oder auf dem Stoffe der Anlage 6 vorhanden sind, sowie Rohkaffee und Rohkakao dürfen an Betriebe abgegeben werden, die diese Lebensmittel so behandeln, be- oder verarbeiten, daß bei der Abgabe an den Verbraucher die Höchstmengen nicht überschritten werden.
 
 (4) Lebensmittel nach Absatz 1 müssen unter Angabe der Bezeichnung der Stoffe durch folgende Angaben kenntlich gemacht werden:  
-"Ware mit überhöhten Rückständen an ........................ .  
-Nicht an Verbraucher abgeben."  
+"Ware mit überhöhten Rückständen an ........................ . Nicht an Verbraucher abgeben."  
 Bei der Lagerung und Aufbewahrung sind diese Angaben auf einem Schild auf oder neben der Ware oder in sonstiger, eine Verwechslung mit anderen Lebensmitteln ausschließender Weise anzubringen. Bei der Abgabe müssen die Angaben deutlich sichtbar auf der Außenfläche der Behältnisse angebracht werden und zusätzlich in den Begleitpapieren vermerkt werden.
 
-
-## § 3a – Ausnahmen
+# § 3a – Ausnahmen
 
 (1) Abweichend von
 
@@ -77,8 +69,7 @@ darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005 bezeichnet
 
 (2) Ein Lebensmittel im Sinne des Absatzes 1 Satz 1 darf nur abgegeben werden, wenn es unter der Angabe der Bezeichnung des Wirkstoffs oder der Wirkstoffe durch folgende Angaben gekennzeichnet ist: „Lebensmittel mit überhöhten Rückständen an ........................ (Einsetzen: Bezeichnung des jeweiligen Wirkstoffs oder der jeweiligen Wirkstoffe). Nicht an Verbraucher abgeben.“
 
-
-## § 3b – Kenntlichmachung
+# § 3b – Kenntlichmachung
 
 (1) Die Behandlung von Zitrusfrüchten mit Thiabendazol nach der Ernte zum Zwecke der Haltbarmachung muss bei der Abgabe an den Verbraucher durch die Angabe "konserviert mit Thiabendazol" nach Absatz 3 kenntlich gemacht werden.
 
@@ -86,20 +77,17 @@ darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005 bezeichnet
 
 (3) Die Angabe nach Absatz 1 oder 2 ist jeweils gut sichtbar, deutlich lesbar und unverwischbar auf der Packung, der Fertigpackung oder einem mit ihr verbundenen Etikett, auf der Umhüllung oder, sofern die Erzeugnisse lose abgegeben werden, auf einem Schild neben der Ware oder in einem Aushang oder einer schriftlichen Aufzeichnung oder auf vergleichbare Weise jeweils am Ort der Abgabe, sofern die Angabe dem jeweiligen Lebensmittel zuzuordnen ist, anzugeben. Bei der Abgabe von Erzeugnissen im Sinne des Absatzes 1 oder 2 an andere Personen als Verbraucher erfolgt Kenntlichmachung der Behandlung durch die vorgeschriebene Angabe auf einer Außenfläche der Packungen oder Behältnisse.
 
-
-## § 4 – Probenahme und Analysemethoden
+# § 4 – Probenahme und Analysemethoden
 
 (1) Bei der amtlichen Kontrolle der Rückstände von Pflanzenschutzmitteln in und auf Obst und Gemüse sind die Proben nach dem Verfahren zu nehmen, das in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches \*) unter der Gliederungsnummer L 00.00-7 (EG), Stand Dezember 2002, beschrieben ist.
 
 (2) (weggefallen)
 
-(3) Bei der amtlichen Kontrolle der Rückstände von Pflanzenschutzmitteln sind Analysemethoden anzuwenden, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches \*) aufgeführt sind. Es können auch andere in der Amtlichen Sammlung nicht aufgeführte Analysemethoden angewendet werden, wenn sie diesen Analysemethoden gleichwertig sind.  
------  
+(3) Bei der amtlichen Kontrolle der Rückstände von Pflanzenschutzmitteln sind Analysemethoden anzuwenden, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches \*) aufgeführt sind. Es können auch andere in der Amtlichen Sammlung nicht aufgeführte Analysemethoden angewendet werden, wenn sie diesen Analysemethoden gleichwertig sind. -----  
 
 \*) Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
 
-
-## § 5 – Straftaten und Ordnungswidrigkeiten
+# § 5 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 3b Abs. 1 bei der gewerbsmäßigen Abgabe von Lebensmitteln an den Verbraucher den Gehalt des Stoffes nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise kenntlich macht.
 
@@ -109,8 +97,7 @@ darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005 bezeichnet
 
 (4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 4 Lebensmittel nicht oder nicht in der vorgeschriebenen Weise kenntlich macht.
 
-
-## § 6 – Inkrafttreten, Übergangsvorschriften
+# § 6 – Inkrafttreten, Übergangsvorschriften
 
 (1) (Inkrafttreten)
 
@@ -144,34 +131,29 @@ darf ein in Spalte 2 des Anhangs VII der Verordnung (EG) Nr. 396/2005 bezeichnet
 
 (16) (weggefallen)
 
-
-## Anlage 1 – (zu § 1 Abs. 1 Nr. 1)
+# Anlage 1 – (zu § 1 Abs. 1 Nr. 1)
 
 ( Inhalt: Nicht darstellbare Liste A und B,  
 Fundstelle des Originaltextes: BGBl. I 1999, 2086 - 2093;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-
-## Anlage 2 – (zu § 1 Abs. 1 Nr. 2)
+# Anlage 2 – (zu § 1 Abs. 1 Nr. 2)
 
 ( Inhalt: Nicht darstellbare Liste A und B,  
 Fundstelle des Originaltextes: BGBl. I 1999, 2094 - 2130;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
 
-
-## Anlage 3
+# Anlage 3
 
 (gestrichen)
 
-
-## Anlage 4 – (zu § 1 Abs. 2 bis 4)
+# Anlage 4 – (zu § 1 Abs. 2 bis 4)
 
 (Inhalt: Nicht darstellbare Liste A und B  
 Fundstelle des Originaltextes: BGBl. I 1999, 2131 - 2137;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 5 – (zu § 1 Abs. 4 Nr. 1)
+# Anlage 5 – (zu § 1 Abs. 4 Nr. 1)
 
 ( Fundstelle des Originaltextes: BGBl. I 1999, 2138;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -300,8 +282,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 | Trifenmorph              | 1420-06-0  |
 | 10-Undecensäure          | 112-38-9   |
 
-
-## Anlage 6 – (zu § 3 Abs. 3)
+# Anlage 6 – (zu § 3 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2139)
 
@@ -341,7 +322,6 @@ Phosphorwasserstoff
 
 7803-51-2
 
-
-## Anlage 7
+# Anlage 7
 
 (weggefallen)

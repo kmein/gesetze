@@ -1,10 +1,7 @@
-# [MB-APrV] Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen betreffend andere Heilberufe)  (MB-APrV)
-
-Ausfertigungsdatum: 06.12.1994
-
+% Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister (Artikel 1 der Verordnung über die Ausbildung und Prüfung von Masseuren und medizinischen Bademeistern und zur Änderung verschiedener Ausbildungs- und Prüfungsverordnungen betreffend andere Heilberufe)  (MB-APrV)
+% Ausfertigungsdatum: 06.12.1994
  
-
-## § 1 – Ausbildung
+# § 1 – Ausbildung
 
 (1) Der zweijährige Lehrgang der Masseure und medizinischen Bademeister umfaßt den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2.230 Stunden und die aufgeführte praktische Ausbildung von 800 Stunden. Für Umschüler nach § 18 Satz 1 des Masseur- und Physiotherapeutengesetzes sind die Stundenzahlen entsprechend zu verringern, wobei sich der Unterricht auf alle Fächer der Anlage 1 erstrecken muß.
 
@@ -18,15 +15,13 @@ Ausfertigungsdatum: 06.12.1994
 
 (6) Nach ordnungsgemäßer Ableistung der praktischen Tätigkeit nach Absatz 4 erhält der Praktikant eine Bescheinigung nach dem Muster der Anlage 3. Die Bescheinigung ist von dem Leiter des Krankenhauses oder der medizinischen Einrichtung und von dem Masseur und medizinischen Bademeister, Krankengymnasten oder Physiotherapeuten zu unterschreiben, unter dessen Aufsicht die praktische Tätigkeit abgeleistet wurde.
 
-
-## § 2 – Staatliche Prüfung
+# § 2 – Staatliche Prüfung
 
 (1) Die staatliche Prüfung für den Lehrgang nach § 1 Abs. 1 umfaßt jeweils einen schriftlichen, einen mündlichen und einen praktischen Teil.
 
 (2) Der Prüfling legt die Prüfung bei der Schule für Masseure und medizinische Bademeister (Schule) ab, an der er den Lehrgang abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören.
 
-
-## § 3 – Prüfungsausschuß
+# § 3 – Prüfungsausschuß
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus folgenden Mitgliedern besteht:
 
@@ -50,8 +45,7 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 4 – Zulassung zur Prüfung
+# § 4 – Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleitung fest. Der Prüfungsbeginn soll nicht früher als zwei Monate vor dem Ende der Ausbildung liegen.
 
@@ -65,8 +59,7 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (4) Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 5 – Schriftlicher Teil der Prüfung
+# § 5 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -78,8 +71,7 @@ Der Prüfling hat in beiden Fächergruppen in jeweils einer Aufsichtsarbeit schr
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Note für die einzelne Aufsichtsarbeit sowie aus den Noten der beiden Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der beiden Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
-
-## § 6 – Mündlicher Teil der Prüfung
+# § 6 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -93,8 +85,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Die Prüfun
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
-
-## § 7 – Praktischer Teil der Prüfung
+# § 7 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -108,13 +99,11 @@ Der Prüfling hat in jedem Fach der jeweiligen Fächergruppe fallbezogen seine K
 
 (3) Der praktische Teil der Prüfung wird in jedem einzelnen Fach der jeweiligen Fächergruppe des Absatzes 1 sowie im Falle des Absatzes 2 von zwei Fachprüfern, darunter mindestens einem Fachprüfer nach § 3 Abs. 1 Nr. 3 Buchstabe b abgenommen und benotet. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Note für jede Fächergruppe des Absatzes 1 sowie aus den Noten der beiden Fächergruppen und der Note für die Prüfung nach Absatz 2 die Prüfungsnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn jede Fächergruppe des Absatzes 1 mindestens mit "ausreichend" und dabei kein Fach schlechter als "mangelhaft" sowie die Prüfung nach Absatz 2 mindestens mit "ausreichend" benotet werden.
 
-
-## § 8 – Niederschrift
+# § 8 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 9 – Benotung
+# § 9 – Benotung
 
 Die schriftliche Aufsichtsarbeit sowie die Leistungen in der mündlichen und in der praktischen Prüfung werden wie folgt benotet:
 
@@ -136,8 +125,7 @@ Die schriftliche Aufsichtsarbeit sowie die Leistungen in der mündlichen und in 
 \-  
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 10 – Bestehen und Wiederholung der Prüfung
+# § 10 – Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1 vorgeschriebenen Prüfungsteile bestanden ist.
 
@@ -147,37 +135,31 @@ Die schriftliche Aufsichtsarbeit sowie die Leistungen in der mündlichen und in 
 
 (4) Hat der Prüfling in der praktischen Prüfung eine Fächergruppe des § 7 Abs. 1, die Prüfung nach § 7 Abs. 2 oder die gesamte praktische Prüfung zu wiederholen, so darf er zur Wiederholungsprüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses im Benehmen mit den Fachprüfern bestimmt werden. Die weitere Ausbildung nach Satz 1 darf einschließlich der für die Prüfung erforderlichen Zeit die Dauer von einem Jahr nicht überschreiten. Ein Nachweis über die weitere Ausbildung ist dem Antrag des Prüflings auf Zulassung zur Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein; in begründeten Fällen kann die zuständige Behörde Ausnahmen zulassen.
 
-
-## § 11 – Rücktritt von der Prüfung
+# § 11 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück, so hat er die Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, so gilt die Prüfung als nicht unternommen. Die Genehmigung ist zu erteilen, wenn wichtige Gründe vorliegen. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterläßt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 10 Abs. 3 gilt entsprechend.
 
-
-## § 12 – Versäumnisfolgen
+# § 12 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, so gilt die Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 10 Abs. 3 gilt entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
-## § 13 – Ordnungsverstöße und Täuschungsversuche
+# § 13 – Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuches schuldig gemacht haben, den betreffenden Teil der Prüfung für "nicht bestanden" erklären; § 10 Abs. 3 gilt entsprechend. Eine solche Entscheidung ist im Falle der Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im Falle eines Täuschungsversuches nur innerhalb von drei Jahren nach Abschluß der Prüfung zulässig.
 
-
-## § 14 – Prüfungsunterlagen
+# § 14 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 15 – Erlaubnisurkunde
+# § 15 – Erlaubnisurkunde
 
 Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und Physiotherapeutengesetzes für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1 Nr. 1 des Gesetzes vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
-
-## § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+# § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Nr. 1 des Masseur- und Physiotherapeutengesetzes beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem des Masseurs und medizinischen Bademeisters entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des Masseur- und Physiotherapeutengesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 dieses Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -191,8 +173,7 @@ Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und Physiotherapeutenge
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 1 des Masseur- und Physiotherapeutengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 2 Absatz 4 Satz 6 des Masseur- und Physiotherapeutengesetzes erworben haben.
 
@@ -202,8 +183,7 @@ Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und Physiotherapeutenge
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 13a Absatz 3 Satz 6 des Masseur- und Physiotherapeutengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 11 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 1 des Masseur- und Physiotherapeutengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 2 Satz 5 des Masseur- und Physiotherapeutengesetzes vorliegenden Umstände nicht durchgeführt wird.
 
@@ -225,8 +205,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens ze
 
 (7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 7 erteilt.
 
-
-## § 16c – Fristen, Bescheide, Durchführungsbestimmungen
+# § 16c – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis als Masseurin und medizinische Bademeisterin oder Masseur und medizinischer Bademeister nach § 1 Absatz 1 Nummer 1 des Masseur- und Physiotherapeutengesetzes in Verbindung mit § 2 Absatz 2, 4, 4a oder Absatz 5 des Masseur- und Physiotherapeutengesetzes kurzfristig, spätestens vier Monate, nach Vorlage der für Entscheidungen nach § 2 des Masseur- und Physiotherapeutengesetzes erforderlichen Unterlagen zu entscheiden. Im Falle des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -242,8 +221,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens ze
 
 (3) Die Prüfungen nach § 16a Absatz 3 und § 16b Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in den §§ 16a und 16b nichts anderes bestimmt ist, gelten die §§ 8, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3777 - 3781
 
@@ -1429,8 +1407,7 @@ Mindeststunden
 
 800
 
-
-## Anlage 2 – (zu § 1 Abs. 3)
+# Anlage 2 – (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3782)
 
@@ -1464,8 +1441,7 @@ Mindeststunden
     ...........
     *) Nichtzutreffendes streichen 
 
-
-## Anlage 3 – (zu § 1 Abs. 6)
+# Anlage 3 – (zu § 1 Abs. 6)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3783)
 
@@ -1500,8 +1476,7 @@ Mindeststunden
     ...........
     *) Nichtzutreffendes streichen 
 
-
-## Anlage 4 – (zu § 10 Abs. 2)
+# Anlage 4 – (zu § 10 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3784)
 
@@ -1534,8 +1509,7 @@ Mindeststunden
     (Unterschrift des Vorsitzenden des
     Prüfungsausschusses) 
 
-
-## Anlage 5 – (zu § 15)
+# Anlage 5 – (zu § 15)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3785)
 
@@ -1563,13 +1537,11 @@ Mindeststunden
     .....................................
     (Unterschrift) 
 
-
-## Anlage 5a – (zu § 16a Absatz 2)
+# Anlage 5a – (zu § 16a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 932)
 
-.................................................................................  
-
+................................................................................. 
 (Bezeichnung der Einrichtung)
 
 Bescheinigung  
@@ -1583,19 +1555,16 @@ Geburtsdatum        Geburtsort
 
 ..................................................................................
 
-hat in der Zeit vom ........................................bis ............................................  
-regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+hat in der Zeit vom ........................................bis ............................................ regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
 
 Ort, Datum
 
 ................................................................ (Stempel)
 
-...............................................................................  
-
+............................................................................... 
 Unterschrift(en) der Einrichtung
 
-
-## Anlage 5b – (zu § 16a Absatz 3)
+# Anlage 5b – (zu § 16a Absatz 3)
 
 (Fundstelle: BGBl. I 2016, 932)
 
@@ -1633,12 +1602,9 @@ Ort, Datum
 
 ...................................................................................................................... (Siegel)
 
-...................................................................................................................................  
-
+................................................................................................................................... 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
+# Anlage 6 – (zu § § 16b Absatz 2)
 
-## Anlage 6 – (zu § § 16b Absatz 2)
-
-
-## Anlage 7 – (zu § § 16b Absatz 7)
+# Anlage 7 – (zu § § 16b Absatz 7)

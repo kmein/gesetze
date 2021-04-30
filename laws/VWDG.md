@@ -1,13 +1,9 @@
-# [VWDG] Gesetz zur Errichtung einer Visa-Warndatei  (Visa-Warndateigesetz - VWDG)
-
-Ausfertigungsdatum: 22.12.2011
-
+% Gesetz zur Errichtung einer Visa-Warndatei  (Visa-Warndateigesetz - VWDG)
+% Ausfertigungsdatum: 22.12.2011
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Führung und Zweck der Datei
+# § 1 – Führung und Zweck der Datei
 
 (1) Das Bundesverwaltungsamt führt eine Visa-Warndatei zur Vermeidung des Missbrauchs von Visa. Sie dient der Unterstützung
 
@@ -19,8 +15,7 @@ Ausfertigungsdatum: 22.12.2011
 
 (2) Das Bundesverwaltungsamt darf die ihm nach diesem Gesetz übermittelten personenbezogenen Daten nur nach Maßgabe dieses Gesetzes zu den in Absatz 1 genannten Zwecken verwenden.
 
-
-## § 2 – Anlass der Speicherung
+# § 2 – Anlass der Speicherung
 
 (1) Die Speicherung der Warndaten erfolgt bei Personen,
 
@@ -52,8 +47,7 @@ Wurden die falschen Angaben im Rahmen einer nach Satz 1 Nummer 3 für eine Organ
 
 (2) Die Speicherung von Warndaten einer Person erfolgt ferner mit deren Einwilligung, wenn unter ihrem Namen unbefugt Erklärungen nach Absatz 1 Satz 1 Nummer 3 abgegeben worden sind oder sie dies befürchtet oder sie eine im Visumverfahren nach Absatz 1 Satz 1 Nummer 3 abgegebene Erklärung widerrufen hat. Die Daten sind unverzüglich zu löschen, wenn die Person die Einwilligung widerruft. Die Sätze 1 und 2 gelten entsprechend für die Speicherung und Löschung von Warndaten einer Organisation.
 
-
-## § 3 – Inhalt der Datei
+# § 3 – Inhalt der Datei
 
 (1) Zu Personen oder Organisationen nach § 2 werden folgende Warndaten gespeichert:
 
@@ -105,8 +99,7 @@ Die Daten nach Satz 1 Nummer 1 Buchstabe a, b, e, f, g und h und Nummer 2 Buchst
 
 Eine Übermittlung dieser Daten ist nur an die Stelle zulässig, die die Daten übermittelt hat.
 
-
-## § 4 – Übermittelnde Stellen
+# § 4 – Übermittelnde Stellen
 
 Folgende Stellen sind zur Übermittlung der in § 3 bezeichneten Daten an das Bundesverwaltungsamt verpflichtet:
 
@@ -118,8 +111,7 @@ Folgende Stellen sind zur Übermittlung der in § 3 bezeichneten Daten an das Bu
 
 4. die Staatsanwaltschaften in den Fällen des § 2 Absatz 1 Satz 1 Nummer 1.
 
-
-## § 5 – Verantwortung für die Übermittlung und die Datenrichtigkeit
+# § 5 – Verantwortung für die Übermittlung und die Datenrichtigkeit
 
 (1) Die in § 4 bezeichneten Stellen sind gegenüber dem Bundesverwaltungsamt für die Zulässigkeit der Übermittlung sowie für die Richtigkeit und die Aktualität der von ihnen übermittelten Daten verantwortlich. Sie haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu treffen, die insbesondere die Vertraulichkeit und die Unversehrtheit der von ihnen übermittelten Daten gewährleisten. Sie haben das Bundesverwaltungsamt unverzüglich zu unterrichten, wenn die von ihnen übermittelten Daten unrichtig werden oder sich ihre Unrichtigkeit nachträglich herausstellt und eine Berichtigung oder Aktualisierung nicht im Wege der Direkteingabe nach § 9 erfolgen kann.
 
@@ -129,15 +121,13 @@ Folgende Stellen sind zur Übermittlung der in § 3 bezeichneten Daten an das Bu
 
 (4) In den Fällen des § 2 Absatz 1 Satz 1 Nummer 1 teilt das Bundesamt für Justiz dem Bundesverwaltungsamt mit, dass die Nichtaufnahme nach § 39 des Bundeszentralregistergesetzes oder die Tilgung in besonderen Fällen nach § 49 des Bundeszentralregistergesetzes angeordnet ist. Die Absätze 1 und 2 gelten entsprechend.
 
-
-## § 6 – Datenübermittlung an das Auswärtige Amt, das Bundesamt für Auswärtige Angelegenheiten und die deutschen Auslandsvertretungen
+# § 6 – Datenübermittlung an das Auswärtige Amt, das Bundesamt für Auswärtige Angelegenheiten und die deutschen Auslandsvertretungen
 
 (1) Im Rahmen des Visumverfahrens werden auf Ersuchen des Auswärtigen Amts, des Bundesamts für Auswärtige Angelegenheiten oder der deutschen Auslandsvertretungen die in § 3 Absatz 1 bis 3 bezeichneten Daten über die in § 21 des Ausländerzentralregistergesetzes genannte Stelle an die ersuchende Stelle übermittelt.
 
 (2) Die Übermittlung von nach § 2 Absatz 1 Satz 1 Nummer 1 gespeicherten Daten erfolgt nur, soweit sie der ersuchenden Stelle zur Erfüllung ihrer jeweiligen Aufgabe aus dem Bundeszentralregister übermittelt werden dürften. Ungeachtet abweichender Regelungen werden Daten zu Verurteilungen mit einem Strafmaß bis zu drei Monate Freiheitsstrafe oder Geldstrafe bis zu 90 Tagessätzen oder Jugendstrafe nur an ersuchende Stellen nach Absatz 1 übermittelt, soweit diese ein Recht auf unbeschränkte Auskunft im Sinne des § 41 des Bundeszentralregistergesetzes besitzen.
 
-
-## § 7 – Weitere Behörden, an die Warndaten übermittelt werden
+# § 7 – Weitere Behörden, an die Warndaten übermittelt werden
 
 Das Bundesverwaltungsamt übermittelt die in § 3 Absatz 1 bis 3 bezeichneten Daten auf Ersuchen an
 
@@ -155,8 +145,7 @@ b) zur Entscheidung über die Verlängerung eines Visums nach § 6 Absatz 3 des 
 
 Im Fall der Übermittlung von nach § 2 Absatz 1 Satz 1 Nummer 1 gespeicherten Daten gilt § 6 Absatz 2 entsprechend.
 
-
-## § 8 – Voraussetzungen für die Datenübermittlung
+# § 8 – Voraussetzungen für die Datenübermittlung
 
 (1) Die Übermittlung von Daten an eine der in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Stellen setzt ein Ersuchen unter Angabe des Zwecks voraus und ist nur zulässig, wenn die Kenntnis der Daten zur Erfüllung ihrer in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Aufgaben erforderlich ist. Die ersuchende Stelle trägt dafür die Verantwortung. Das Bundesverwaltungsamt hat die Übermittlung zu versagen, wenn Anhaltspunkte dafür bestehen, dass die in Satz 1 bezeichneten Voraussetzungen nicht vorliegen.
 
@@ -170,8 +159,7 @@ Im Fall der Übermittlung von nach § 2 Absatz 1 Satz 1 Nummer 1 gespeicherten D
 
 (6) Das Bundesverwaltungsamt hat dem jeweiligen Stand der Technik entsprechende technische und organisatorische Maßnahmen zur Sicherung von Datenschutz und Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der in der Visa-Warndatei gespeicherten und an die ersuchende Stelle übermittelten Daten gewährleisten.
 
-
-## § 9 – Übermittlung und Veränderung von Daten durch Direkteingabe; Datenabruf im automatisierten Verfahren
+# § 9 – Übermittlung und Veränderung von Daten durch Direkteingabe; Datenabruf im automatisierten Verfahren
 
 (1) Die in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Stellen können auf Antrag zur Übermittlung von Daten durch Eingabe mit unmittelbarer Wirkung für den Datenbestand (Direkteingabe) und zum Datenabruf nach diesen Vorschriften im automatisierten Verfahren zugelassen werden. Das Bundesverwaltungsamt erteilt die Zulassung, wenn die beantragende Stelle mitteilt, dass sie die zur Datensicherung nach Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 erforderlichen technischen und organisatorischen Maßnahmen getroffen hat.
 
@@ -185,13 +173,11 @@ Im Fall der Übermittlung von nach § 2 Absatz 1 Satz 1 Nummer 1 gespeicherten D
 
 (6) Die Verantwortung für die Zulässigkeit der Direkteingabe trägt die eingebende Stelle. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die abrufende Stelle. Das Bundesverwaltungsamt überprüft die Zulässigkeit der Abrufe nur, wenn dazu Veranlassung besteht. Abrufe von Daten aus der Datei im automatisierten Verfahren dürfen nur von Bediensteten vorgenommen werden, die vom Leiter ihrer Behörde hierzu besonders ermächtigt sind.
 
-
-## § 10 – Zweckbindung und weitere Verarbeitung der Daten
+# § 10 – Zweckbindung und weitere Verarbeitung der Daten
 
 Die ersuchende Behörde darf die übermittelten Daten nur zu dem Zweck verarbeiten, zu dem sie ihr übermittelt worden sind. Eine Weiterübermittlung ist nicht zulässig.
 
-
-## § 11 – Protokollierungspflicht bei Datenübermittlung
+# § 11 – Protokollierungspflicht bei Datenübermittlung
 
 (1) Das Bundesverwaltungsamt protokolliert für Zwecke der Datenschutzkontrolle bei jedem Zugriff auf die Datei
 
@@ -229,8 +215,7 @@ Sie sind durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern.
 
 (4) Die Protokolldaten sind nach zwölf Monaten zu löschen, sofern sie nicht für ein bereits eingeleitetes Kontrollverfahren benötigt werden.
 
-
-## § 12 – Auskunft an die betroffene Person
+# § 12 – Auskunft an die betroffene Person
 
 (1) In dem Antrag auf Auskunft nach Artikel 15 der Verordnung (EU) 2016/679 muss die betroffene Person ihre Grundpersonalien angeben.
 
@@ -250,8 +235,7 @@ und deswegen das Interesse der betroffenen Person an der Auskunftserteilung zur�
 
 (5) Die Absätze 1 bis 4 gelten für betroffene Organisationen entsprechend.
 
-
-## § 13 – Berichtigung und Löschung
+# § 13 – Berichtigung und Löschung
 
 (1) Das Bundesverwaltungsamt hat unrichtige oder unrichtig gewordene Daten unverzüglich nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) 2016/679 zu berichtigen oder zu löschen.
 
@@ -267,15 +251,13 @@ Ohne Rücksicht auf den Lauf der Frist nach Satz 1 werden diese Daten gelöscht,
 
 (4) Warndaten nach § 3 Absatz 1 und die hierzu nach § 3 Absatz 2, 3 und 4 gespeicherten Daten sind im Übrigen spätestens fünf Jahre nach ihrer Speicherung zu löschen.
 
-
-## § 14 – Einschränkung der Verarbeitung
+# § 14 – Einschränkung der Verarbeitung
 
 (1) Ergänzend zu Artikel 18 der Verordnung (EU) 2016/679 tritt an die Stelle der Löschung die Einschränkung der Verarbeitung, wenn Grund zu der Annahme besteht, dass durch die Löschung schutzwürdige Interessen der betroffenen Person oder einer betroffenen Organisation beeinträchtigt würden. Das Bundesverwaltungsamt unterrichtet die betroffene Person über die Einschränkung der Verarbeitung, es sei denn, die Unterrichtung erweist sich als unmöglich oder würde einen unverhältnismäßigen Aufwand erfordern.
 
 (2) Daten, die nur eingeschränkt verarbeitet werden, sind mit einem entsprechenden Vermerk zu versehen. Sie dürfen außer zur Prüfung der Richtigkeit ohne Einwilligung der betroffenen Person nicht verarbeitet werden.
 
-
-## § 15 – Verordnungsermächtigung
+# § 15 – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Näheres zu bestimmen
 
@@ -293,12 +275,10 @@ Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, mit Zust
 
 7. zum Verfahren der Einschränkung der Verarbeitung nach § 14.
 
-
-## § 16 – Bestimmungen zum Verwaltungsverfahren
+# § 16 – Bestimmungen zum Verwaltungsverfahren
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens der Länder kann nicht durch Landesrecht abgewichen werden.
 
-
-## § 17 – Evaluation
+# § 17 – Evaluation
 
 Die Bundesregierung wird die Anwendung dieses Gesetzes drei Jahre nach seinem Inkrafttreten evaluieren.

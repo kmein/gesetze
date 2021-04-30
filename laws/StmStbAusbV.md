@@ -1,35 +1,27 @@
-# [StmStbAusbV] Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin   (Steinmetz- und Steinbildhauerausbildungsverordnung - StmStbAusbV)
-
-Ausfertigungsdatum: 13.04.2018
-
+% Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin   (Steinmetz- und Steinbildhauerausbildungsverordnung - StmStbAusbV)
+% Ausfertigungsdatum: 13.04.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Steinmetz und Steinbildhauer und Steinmetzin und Steinbildhauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 8 „Steinmetzen und Steinbildhauer“ der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung, Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -103,8 +95,7 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 4. Umweltschutz.
 
-
-## § 5 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
+# § 5 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
 Die Berufsausbildung ist während einer Dauer von insgesamt 14 Wochen in geeigneten Einrichtungen außerhalb der Ausbildungsstätte zu ergänzen und zu vertiefen. Folgende Fertigkeiten, Kenntnisse und Fähigkeiten sind zu ergänzen und zu vertiefen:
 
@@ -160,20 +151,17 @@ Nummer 2 Buchstabe a bis d und
 
 cc) Nummer 3 Buchstabe h.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Ziel und Zeitpunkt
+# § 7 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
-
-## § 8 – Inhalt
+# § 8 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -181,8 +169,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereich
+# § 9 – Prüfungsbereich
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines Werkstückes aus Naturwerkstein statt.
 
@@ -218,15 +205,13 @@ Die Zwischenprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt insgesamt zehn Stunden. Davon entfallen auf die Durchführung der Arbeitsaufgabe sieben Stunden. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens zehn Minuten. Auf die schriftliche Bearbeitung der Aufgaben entfallen drei Stunden.
 
-
-## § 10 – Ziel und Zeitpunkt
+# § 10 – Ziel und Zeitpunkt
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Gesellenprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 11 – Inhalt
+# § 11 – Inhalt
 
 Die Gesellenprüfung erstreckt sich auf
 
@@ -234,8 +219,7 @@ Die Gesellenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 12 – Prüfungsbereiche
+# § 12 – Prüfungsbereiche
 
 Die Gesellenprüfung findet in der Fachrichtung Steinmetzarbeiten in den folgenden Prüfungsbereichen statt:
 
@@ -249,8 +233,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinmetzarbeiten in den folgend
 
 5. Wirtschafts- und Sozialkunde.
 
-
-## § 13 – Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit
+# § 13 – Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit
 
 (1) Im Prüfungsbereich Gestalten und Herstellen einer Steinmetzarbeit soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -284,8 +267,7 @@ Der Prüfling wählt aus, welche Tätigkeit zugrunde gelegt wird.
 
 (4) Die Prüfungszeit für das Prüfungsstück und für die Dokumentation beträgt 52 Stunden.
 
-
-## § 14 – Prüfungsbereich Ausführen eines Auftrages
+# § 14 – Prüfungsbereich Ausführen eines Auftrages
 
 (1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -323,8 +305,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (4) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative Fachgespräch dauert höchstens zehn Minuten.
 
-
-## § 15 – Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten
+# § 15 – Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten
 
 (1) Im Prüfungsbereich Gestalten und Planen von Steinmetzarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -352,8 +333,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (3) Die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 16 – Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
+# § 16 – Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
 
 (1) Im Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -377,8 +357,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (3) Die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 17 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 17 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -386,8 +365,7 @@ Der Prüfungsausschuss legt fest, welche Tätigkeit zugrunde gelegt wird.
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+# § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Steinmetzarbeiten wie folgt zu gewichten:
 
@@ -427,8 +405,7 @@ von Versetzarbeiten mit</td><td style="text-align: right;">20 Prozent sowie</td>
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 19 – Prüfungsbereiche
+# § 19 – Prüfungsbereiche
 
 Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den folgenden Prüfungsbereichen statt:
 
@@ -442,8 +419,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 5. Wirtschafts- und Sozialkunde.
 
-
-## § 20 – Prüfungsbereich Gestalten und Herstellen einer Steinbildhauerarbeit
+# § 20 – Prüfungsbereich Gestalten und Herstellen einer Steinbildhauerarbeit
 
 (1) Im Prüfungsbereich Gestalten und Herstellen einer Steinbildhauerarbeit soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -465,8 +441,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 (3) Die Prüfungszeit für das Prüfungsstück und für die Dokumentation beträgt 52 Stunden.
 
-
-## § 21 – Prüfungsbereich Ausführen eines Auftrages
+# § 21 – Prüfungsbereich Ausführen eines Auftrages
 
 (1) Im Prüfungsbereich Ausführen eines Auftrages soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -492,8 +467,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 (3) Die Prüfungszeit beträgt insgesamt acht Stunden. Das situative Fachgespräch dauert höchstens zehn Minuten.
 
-
-## § 22 – Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten
+# § 22 – Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten
 
 (1) Im Prüfungsbereich Gestalten und Planen von Steinbildhauerarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -523,8 +497,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 (3) Die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 23 – Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
+# § 23 – Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten
 
 (1) Im Prüfungsbereich Anwenden von Fertigungstechniken und Durchführen von Versetzarbeiten soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -550,8 +523,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 (3) Die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 24 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 24 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -559,8 +531,7 @@ Die Gesellenprüfung findet in der Fachrichtung Steinbildhauerarbeiten in den fo
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 25 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
+# § 25 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der Fachrichtung Steinbildhauerarbeiten wie folgt zu gewichten:
 
@@ -600,17 +571,14 @@ von Versetzarbeiten mit</td><td style="text-align: right;">20 Prozent sowie</td>
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 26 – Bestehende Berufsausbildungsverhältnisse
+# § 26 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 27 – Inkrafttreten, Außerkrafttreten
+# § 27 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer/zur Steinmetzin und Steinbildhauerin vom 9. Mai 2003 (BGBl. I S. 690; 2004 I S. 2601) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin
 
 (Fundstelle: BGBl. I 2018, 454 - 461)

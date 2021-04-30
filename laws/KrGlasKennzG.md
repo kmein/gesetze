@@ -1,15 +1,11 @@
-# [KrGlasKennzG] Gesetz zur Kennzeichnung von Bleikristall und Kristallglas  (Kristallglaskennzeichnungsgesetz)
-
-Ausfertigungsdatum: 25.06.1971
-
+% Gesetz zur Kennzeichnung von Bleikristall und Kristallglas  (Kristallglaskennzeichnungsgesetz)
+% Ausfertigungsdatum: 25.06.1971
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieses Gesetzes sind anzuwenden auf Glaswaren zur Verwendung bei Tisch, in der Küche, bei der Toilette, im Büro, zum Ausschmücken von Wohnungen und zu ähnlichen Zwecken; ausgenommen sind Würfel, Steinchen, Plättchen für Mosaike und zu ähnlichen Zierzwecken, Phantasiewaren aus lampengeblasenem Glas, Kunstverglasungen, Spiegelglas, Spiegel, Glaswaren für Beleuchtung und Gehäuse für Uhren.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -31,8 +27,7 @@ b) Bleioxyd (PbO), Bariumoxyd (BaO) oder Kaliumoxyd (K2O) allein oder zusammen i
 
 (3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung die in der Anlage aufgeführten Bestimmungsmethoden der wissenschaftlichen und technischen Entwicklung anzupassen, sofern dies zur Erfüllung von Richtlinien der Europäischen Wirtschaftsgemeinschaft erforderlich ist und der Vereinfachung oder der sonstigen Verbesserung der Messung dient.
 
-
-## § 3 – Kennzeichnung
+# § 3 – Kennzeichnung
 
 (1) Wer Erzeugnisse der in § 2 Abs. 1 genannten Art gewerbsmäßig in den Verkehr bringt, einführt (§ 4 Abs. 2 Nr. 4 des Außenwirtschaftsgesetzes) oder sonst in den Geltungsbereich dieses Gesetzes verbringt oder für diese wirbt, hat bei einer Kennzeichnung der Glasart die Bezeichnungen  
 
@@ -89,8 +84,7 @@ zu verwenden. Zusätzlich zu einer dieser Bezeichnungen darf die Kennzeichnung d
 
 (3) Die Absätze 1 und 2 sind auf Genossenschaften auch dann anzuwenden, wenn sich ihr Geschäftsbetrieb auf den Kreis der Mitglieder beschränkt.
 
-
-## § 4 – Verwendung von zusätzlichen Symbolen
+# § 4 – Verwendung von zusätzlichen Symbolen
 
 (1) Werden für Erzeugnisse der in § 2 Abs. 1 genannten Art die Bezeichnungen nach § 3 Abs. 1 verwendet, so dürfen zusätzlich die folgenden Symbole verwendet werden:  
 für Hochbleikristall und Bleikristall (§ 2 Abs. 1 Nr. 1 und 2) ein rundes goldfarbenes Etikett mit einem Durchmesser von mindestens 1 cm;  
@@ -101,8 +95,7 @@ für Kristallglas (§ 2 Abs. 1 Nr. 4 Buchstabe b) ein gleichseitiges silberfarbe
 
 (3) Für Erzeugnisse, die die in § 2 Abs. 1 aufgeführten Merkmale nicht aufweisen oder für die nicht die Bezeichnungen nach § 3 Abs. 1 verwendet werden, dürfen die Symbole des Absatzes 1 nicht verwendet werden.
 
-
-## § 5 – Anbringen anderer Aufschriften
+# § 5 – Anbringen anderer Aufschriften
 
 Wird eine Marke, eine Firmenbezeichnung oder eine andere Aufschrift verwendet, die die Bezeichnungen nach § 3 Abs. 1 oder mit ihnen verwechselbare Bezeichnungen im ganzen, als Wortstamm oder als Eigenschaftswort enthalten und
 
@@ -110,8 +103,7 @@ Wird eine Marke, eine Firmenbezeichnung oder eine andere Aufschrift verwendet, d
 
 2. weist das Erzeugnis die in § 2 Abs. 1 festgelegten Merkmale nicht auf, so ist die stoffliche Beschaffenheit des Erzeugnisses genau anzugeben und diese Angabe unmittelbar neben der Aufschrift deutlich lesbar anzubringen.
 
-
-## § 6 – Ausnahmen
+# § 6 – Ausnahmen
 
 Dieses Gesetz ist nicht anzuwenden auf Erzeugnisse, die
 
@@ -123,8 +115,7 @@ Dieses Gesetz ist nicht anzuwenden auf Erzeugnisse, die
 
 4. zur Veredelung unter zollamtlicher Überwachung eingeführt und danach wieder ausgeführt werden.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -140,23 +131,19 @@ Dieses Gesetz ist nicht anzuwenden auf Erzeugnisse, die
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 8 – Abfertigung durch Zolldienststellen
+# § 8 – Abfertigung durch Zolldienststellen
 
 Die Nichtbeachtung des § 3 Abs. 1 Satz 1 steht der Abfertigung durch die Zolldienststellen nicht entgegen. Die Zolldienststellen sind befugt, Verstöße gegen die Vorschriften dieses Gesetzes, die sie bei der Abfertigung feststellen, den zuständigen Verwaltungsbehörden mitzuteilen.
 
-
-## § 9 – Berlin-Klausel
+# § 9 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach Maßgabe des § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt sechs Monate nach seiner Verkündung in Kraft.
 
-
-## Anlage – Methoden zur Bestimmung der chemischen und physikalischen Eigenschaften der Kristallglasgruppen
+# Anlage – Methoden zur Bestimmung der chemischen und physikalischen Eigenschaften der Kristallglasgruppen
 
 Fundstelle des Originaltextes: BGBl. I 1971, 860 u. 861;  
 bezgl. der Änderungen vgl. Fußnote
@@ -169,13 +156,11 @@ bezgl. der Änderungen vgl. Fußnote
 1.1  
 Bariumoxyd (BaO) und Blei(II)-oxyd (PbO)
 
-1.1.1.  
-Bestimmung des Gesamtgehaltes: Bariumoxyd und Blei(II)-oxyd
+1.1.1. Bestimmung des Gesamtgehaltes: Bariumoxyd und Blei(II)-oxyd
 
 ca. 0,5 g fein zerkleinertes Glas (Glaspulver) auf 0,0001 g genau in eine Platinschale einwiegen. Mit Wasser befeuchten und 10 ml 15%ige Schwefelsäure und 10 ml Flußsäure zufügen. Auf dem Sandbad bis zum kräftigen Rauchen der Schwefelsäure erwärmen. Abkühlen lassen und nochmals 10 ml Flußsäure zufügen. Wiederum bis zum kräftigen Rauchen der Schwefelsäure erwärmen. Abkühlen lassen und die Wandung der Schale mit Wasser abspülen. Nochmals bis zum kräftigen Rauchen der Schwefelsäure erwärmen. Abkühlen lassen, vorsichtig 10 ml Wasser zufügen und dann in einen 400-ml-Becher überführen. Die Schale mehrfach mit 10%iger Schwefelsäure ausspülen und mit dieser auf 100 ml ergänzen. Zum Sieden erhitzen und 2 bis 3 Minuten sieden lassen. Von der Heizquelle nehmen und über Nacht stehenlassen. Durch einen Glasfiltertiegel G 4 filtrieren, zunächst mit 10%iger Schwefelsäure und anschließend zwei- bis dreimal mit Äthanol auswaschen. Eine Stunde im Trockenschrank bei 150 Grad C trocknen. Auswiegen. Auswaage: Summe Bariumsulfat (BaSO(tief)4) und Bleisulfat (PbSO(tief)4).
 
-1.1.2.  
-Bestimmung von Bariumoxyd
+1.1.2. Bestimmung von Bariumoxyd
 
 ca. 0,5 g fein zerkleinertes Glas (Glaspulver) auf 0,0001 g genau in eine Platinschale einwiegen. Mit Wasser befeuchten und 10 ml Flußsäure und 5 ml Perchlorsäure zufügen. Auf dem Sandbad bis zum kräftigen Rauchen der Perchlorsäure erwärmen. Abkühlen lassen und nochmals 10 ml Flußsäure zufügen. Wiederum bis zum kräftigen Rauchen der Perchlorsäure erwärmen. Abkühlen lassen und die Wandung der Schale mit Wasser abspülen. Bis nahezu zur Trockene abrauchen. Mit 50 ml 10%iger Salzsäure aufnehmen und leicht erwärmen, damit der Abrauchrückstand sich auflöst. In einen 400-ml-Becher überführen; anschließend mit Wasser auf 200 ml verdünnen. Zum Sieden erhitzen und so lange Schwefelwasserstoff einleiten, bis die Fällung von Bleisulfid sich am Boden des Bechers abgesetzt hat. Durch ein dichtes Papierfilter filtrieren und mit kaltem, mit Schwefelwasserstoff gesättigtem Wasser auswaschen.
 
@@ -183,13 +168,11 @@ Das Filtrat erforderlichenfalls auf 300 ml eindampfen. Zum Sieden erhitzen und 1
 
 Auswaage: Bariumsulfat
 
-1.2.  
-Bestimmung von Zinkoxyd (ZnO)
+1.2. Bestimmung von Zinkoxyd (ZnO)
 
 Das Filtrat der Bariumsulfatfällung auf 200 ml eindampfen. Mit Ammoniak gegen Methylrot neutralisieren und 20 ml 0,1n Schwefelsäure zufügen. Am pH-Meter: Mit 0,1n Schwefelsäure oder 0,1n Natronlauge pH = 2 einstellen und in die kalte Lösung Schwefelwasserstoff einleiten. Die Fällung von Zinksulfid 4 Stunden stehenlassen, dann durch ein dichtes Papierfilter filtrieren. Mit kaltem, mit Schwefelwasserstoff gesättigtem Wasser auswaschen. Den Niederschlag auf dem Filter durch Behandlung mit 25 ml heißer 10%iger Salzsäure auflösen. Das Filter so lange mit siedendem Wasser auswaschen, bis das Volumen ca. 150 ml beträgt. Mit Ammoniak gegen Lackmus-Papier neutralisieren und pH ca. 5 durch Zugabe von 1 bis 2 g festem Hexamethylentetramin einstellen. Einige Tropfen frisch hergestellter wäßriger 0,5%iger Xylenolorange-Lösung zufügen und mit 0,1n Lösung des Dinatriumsalzes der Äthylendiamintetraessigsäure titrieren. Indikatorumschlag: Von rosa nach zitronengelb.
 
-1.3.  
-Bestimmung von Kaliumoxyd (K2O)
+1.3. Bestimmung von Kaliumoxyd (K2O)
 
 Durch Fällung und Auswaage als Kalium-Tetraphenylborid. Aufschluß: 2 g fein zerkleinertes Glas (Glaspulver) in eine Platinschale einwiegen. Auf dem Wasserbad, später auf dem Sandbad aufschließen durch Behandlung mit 2 ml konzentrierter Salpetersäure, 15 ml Perchlorsäure und 25 ml Flußsäure. Zur Trockene abrauchen und auflösen in 20 ml heißem Wasser und 2 bis 3 ml konzentrierter Salzsäure.
 
@@ -207,8 +190,7 @@ Aus der salzsauren Aufschlußlösung einen aliquoten Anteil entnehmen, welcher c
 
 Umrechnungsfaktor für Kaliumoxyd: 0,13143
 
-1.4.  
-Fehlertoleranzen
+1.4. Fehlertoleranzen
 
 +- 0,1% (absolut) für jede Bestimmung.
 
@@ -216,17 +198,14 @@ Ergibt eine Analyse innerhalb des Analysenspielraums einen Wert unter den festge
 
 2. Physikalische Bestimmungen
 
-2.1.  
-Dichte
+2.1. Dichte
 
 Bestimmung mit der hydrostatischen Waage mit einer Genauigkeit von +- 0,01. Eine Probe von mindestens 20 g wird in Luft und unter destilliertem Wasser von 20 Grad C gewogen.
 
-2.2.  
-Brechungszahl
+2.2. Brechungszahl
 
 Der Brechungsindex wird am Refraktometer mit einer Genauigkeit von +- 0,001 ermittelt.
 
-2.3.  
-Mikrohärte
+2.3. Mikrohärte
 
 Die Vickers-Härte ist gemäß der im Bundesanzeiger Nr. 116 vom 30. Juni 1971 bekanntgemachten Methode zu messen, aber unter Annahme einer Last von 50 g und der Ermittlung des Durchschnitts aus 15 Bestimmungen.

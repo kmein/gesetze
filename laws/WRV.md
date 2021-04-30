@@ -1,10 +1,7 @@
-# [WRV] Die Verfassung des Deutschen Reichs
-
-Ausfertigungsdatum: 11.08.1919
-
+% Die Verfassung des Deutschen Reichs
+% Ausfertigungsdatum: 11.08.1919
  
-
-## Art 109
+# Art 109
 
 (1) u. (2)
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 11.08.1919
 
 (4) bis (6)
 
-
-## Art 136
+# Art 136
 
 (1) Die bürgerlichen und staatsbürgerlichen Rechte und Pflichten werden durch die Ausübung der Religionsfreiheit weder bedingt noch beschränkt.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 11.08.1919
 
 (4) Niemand darf zu einer kirchlichen Handlung oder Feierlichkeit oder zur Teilnahme an religiösen Übungen oder zur Benutzung einer religiösen Eidesform gezwungen werden.
 
-
-## Art 137
+# Art 137
 
 (1) Es besteht keine Staatskirche.
 
@@ -42,19 +37,16 @@ Ausfertigungsdatum: 11.08.1919
 
 (8) Soweit die Durchführung dieser Bestimmungen eine weitere Regelung erfordert, liegt diese der Landesgesetzgebung ob.
 
-
-## Art 138
+# Art 138
 
 (1) Die auf Gesetz, Vertrag oder besonderen Rechtstiteln beruhenden Staatsleistungen an die Religionsgesellschaften werden durch die Landesgesetzgebung abgelöst. Die Grundsätze hierfür stellt das Reich auf.
 
 (2) Das Eigentum und andere Rechte der Religionsgesellschaften und religiösen Vereine an ihren für Kultus-, Unterrichts- und Wohltätigkeitszwecke bestimmten Anstalten, Stiftungen und sonstigen Vermögen werden gewährleistet.
 
-
-## Art 139
+# Art 139
 
 Der Sonntag und die staatlich anerkannten Feiertage bleiben als Tage der Arbeitsruhe und der seelischen Erhebung gesetzlich geschützt.
 
-
-## Art 141
+# Art 141
 
 Soweit das Bedürfnis nach Gottesdienst und Seelsorge im Heer, in Krankenhäusern, Strafanstalten oder sonstigen öffentlichen Anstalten besteht, sind die Religionsgesellschaften zur Vornahme religiöser Handlungen zuzulassen, wobei jeder Zwang fernzuhalten ist.

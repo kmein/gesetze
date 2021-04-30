@@ -1,15 +1,11 @@
-# [MaschMahnVordrV] Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
-
-Ausfertigungsdatum: 06.06.1978
-
+% Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
+% Ausfertigungsdatum: 06.06.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung und Beschleunigung gerichtlicher Verfahren (Vereinfachungsnovelle) vom 3. Dezember 1976 (BGBl. I S. 3281) eingefügten § 703c Abs. 1 Satz 1 und 2 Nr. 1 der Zivilprozeßordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 310-4, veröffentlichten bereinigten Fassung wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Bestimmung der Vordrucke
+# § 1 – Bestimmung der Vordrucke
 
 (1) Für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten, werden eingeführt
 
@@ -29,15 +25,13 @@ Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung und Beschleu
 
 (2) Absatz 1 gilt nicht für Mahnverfahren, in denen der Mahnbescheid im Ausland oder nach Artikel 32 des Zusatzabkommens zum NATO-Truppenstatut vom 3. August 1959 (BGBl. 1961 II S. 1183, 1218) zuzustellen ist.
 
-
-## § 2 – Zweitschriften, Ausfertigungen
+# § 2 – Zweitschriften, Ausfertigungen
 
 (1) Die in den Anlagen 3, 4, 6 und 7 bestimmten Vordrucke für den Widerspruch, den Antrag auf Erlaß eines Vollstreckungsbescheids und die Anträge auf Neuzustellung des Mahn- und des Vollstreckungsbescheids sind mit einer Zweitschrift für die Unterlagen der Partei zu versehen.
 
 (2) Der in Anlage 5 bestimmte Vordruck ist für die dem Antragsteller zu erteilende Ausfertigung des Vollstreckungsbescheids mit dem Aufdruck "Ausfertigung für den Antragsteller" und für die Zustellung an den Antragsgegner mit dem Aufdruck "Ausfertigung für den Antragsgegner" zu versehen.
 
-
-## § 3 – Zulässige Abweichungen
+# § 3 – Zulässige Abweichungen
 
 (1) Folgende Abweichungen von den in den Anlagen 1 bis 7 bestimmten Vordrucken sind zulässig:
 
@@ -49,8 +43,7 @@ Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung und Beschleu
 
 (2) Maßgebend für die Gestaltung der Abweichungen nach Absatz 1 ist die durch Verwaltungsabkommen der Länder eingerichtete Koordinierungsstelle für Pflege und Weiterentwicklung des automatisierten gerichtlichen Mahnverfahrens.
 
-
-## § 4 – Übergang zum Euro
+# § 4 – Übergang zum Euro
 
 (1) Für Mahnverfahren, in denen der Antrag auf Erlaß des Mahnbescheids nach dem 31. Dezember 1998 und vor dem 1. Januar 2002 bei Gericht eingeht, werden die in Anlage 1 und 3 sowie die für Anträge in Anlage 4 und 6 bestimmten Vordrucke in einer Fassung eingeführt, in der alle Felder für die Angabe eines Geldbetrages mit der Bezeichnung "Betrag" überschrieben sind und ein diesen Feldern allgemein zugeordnetes Feld für die Bezeichnung der Beträge mit der Währungsbezeichnung Euro oder Deutsche Mark vorgesehen ist. In dem Hinweisblatt zu Anlage 1 kann die Wertgrenze für die Zuständigkeit des Amtsgerichts in Deutscher Mark und in Euro bezeichnet werden. Der Vordruck für den Antrag auf Erlaß eines Mahnbescheids kann in der in Anlage 1 bisher eingeführten Fassung bis zum 31. Dezember 2001 weiterverwendet werden; Angaben in der dritten Spalte der Zeilen 40 bis 42 bezeichnen in diesen Fällen einen Zinssatz über dem jeweiligen Basiszinssatz.
 
@@ -68,60 +61,51 @@ Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung und Beschleu
 
 (6) Die nähere Ausgestaltung der Vordrucke nach Maßgabe der Absätze 1 bis 5 bestimmt die in § 3 Abs. 2 bezeichnete Stelle.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1979 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Inhalt: nicht darstellbare Vordrucke,  
 Fundstelle: BGBl. I 1991, 1567 - 1570;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 2
+# Anlage 2
 
 (Inhalt: nicht darstellbarer Vordruck,  
 Fundstelle: BGBl. I 1978, 706;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 3
+# Anlage 3
 
 (Inhalt: nicht darstellbarer Vordruck,  
 Fundstelle: BGBl. I 1991, 1571 - 1572;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 4
-
-(Inhalt: nicht darstellbarer Vordruck,  
-Fundstelle: BGBl. I 1978, 706;  
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-## Anlage 5
+# Anlage 4
 
 (Inhalt: nicht darstellbarer Vordruck,  
 Fundstelle: BGBl. I 1978, 706;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 6
+# Anlage 5
 
 (Inhalt: nicht darstellbarer Vordruck,  
 Fundstelle: BGBl. I 1978, 706;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+# Anlage 6
 
-## Anlage 7
+(Inhalt: nicht darstellbarer Vordruck,  
+Fundstelle: BGBl. I 1978, 706;  
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+# Anlage 7
 
 (Inhalt: nicht darstellbarer Vordruck,  
 Fundstelle: BGBl. I 1978, 706;  

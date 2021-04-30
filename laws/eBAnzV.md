@@ -1,25 +1,19 @@
-# [eBAnzV] Verordnung über die Übertragung der Führung des Unternehmensregisters
-
-Ausfertigungsdatum: 15.12.2006
-
+% Verordnung über die Übertragung der Führung des Unternehmensregisters
+% Ausfertigungsdatum: 15.12.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9a Abs. 1 des Handelsgesetzbuchs, der durch Artikel 1 Nr. 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) neu gefasst worden ist, und des Artikels 61 Abs. 2 des Einführungsgesetzes zum Handelsgesetzbuch, der durch Artikel 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Übertragung der Führung des Unternehmensregisters
+# § 1 – Übertragung der Führung des Unternehmensregisters
 
 Der Bundesanzeiger Verlag GmbH (Beliehene), eingetragen im Handelsregister beim Amtsgericht Köln, HRB 31248, wird die Führung des Unternehmensregisters übertragen.
 
-
-## § 2 – Führung eines Dienstsiegels
+# § 2 – Führung eines Dienstsiegels
 
 Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es wird vom Bundesministerium der Justiz und für Verbraucherschutz zur Verfügung gestellt. Das Dienstsiegel darf ausschließlich zur Beglaubigung von Ausdrucken aus dem Unternehmensregister genutzt werden.
 
-
-## § 3 – Kündigungsrechte
+# § 3 – Kündigungsrechte
 
 (1) Das durch die Übertragung der Führung des Unternehmensregisters begründete Auftragsverhältnis kann vor Ablauf des Zeitpunkts des Außerkrafttretens dieser Verordnung nach § 5 Abs. 2 schriftlich von der Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium der Justiz und für Verbraucherschutz mit einer Frist von höchstens einem Jahr gekündigt werden.
 
@@ -39,12 +33,10 @@ Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es wird vom Bu
 
 (4) Unbeschadet des § 5 Abs. 2 sind mit Wirksamwerden der Kündigung die Übertragung der Führung des Unternehmensregisters nach § 1 und die Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
 
-
-## § 4 – Außerkrafttreten
+# § 4 – Außerkrafttreten
 
 Diese Verordnung tritt am 31. Dezember 2026 außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

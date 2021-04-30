@@ -1,17 +1,13 @@
-# [EVPG] Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte  (Energieverbrauchsrelevante-Produkte-Gesetz - EVPG)
-
-Ausfertigungsdatum: 27.02.2008
-
+% Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte  (Energieverbrauchsrelevante-Produkte-Gesetz - EVPG)
+% Ausfertigungsdatum: 27.02.2008
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für das Inverkehrbringen, die Inbetriebnahme und das Ausstellen energieverbrauchsrelevanter Produkte sowie von Bauteilen und Baugruppen, die zum Einbau in energieverbrauchsrelevante Produkte bestimmt sind. Ausgenommen sind Verkehrsmittel zur Personen- und Güterbeförderung und energieverbrauchsrelevante Produkte, die ihrer Bauart nach ausschließlich zur Verwendung für militärische Zwecke bestimmt sind.
 
 (2) Rechtsvorschriften für die Abfallbewirtschaftung und für Chemikalien einschließlich solcher für fluorierte Treibhausgase bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Energieverbrauchsrelevantes Produkt ist ein Gegenstand, dessen Nutzung den Verbrauch von Energie beeinflusst und der in Verkehr gebracht oder in Betrieb genommen wird. Dazu gehören auch Produktteile, die
 
@@ -71,8 +67,7 @@ b) des Artikels 15 der Richtlinie 2005/32/EG des Europäischen Parlaments und de
 
 (19) Wirtschaftsakteure sind Hersteller, Bevollmächtigter, Importeur und Händler.
 
-
-## § 3 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 3 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die Bundesregierung mit Zustimmung des Bundesrates Rechtsverordnungen für energieverbrauchsrelevante Produkte nach Maßgabe des Satzes 2 erlassen. Durch Rechtsverordnung nach Satz 1 können geregelt werden:
 
@@ -82,8 +77,7 @@ Zur Umsetzung oder Durchführung von Durchführungsmaßnahmen kann die Bundesreg
 
 Sie kann bestimmen, dass der Hersteller, sein Bevollmächtigter und der Importeur im Rahmen ihrer jeweiligen Geschäftstätigkeit die Verbraucherinnen und Verbraucher über das ökologische Profil und die Vorteile des Ökodesigns des Produkts oder darüber unterrichten müssen, wie sie das Produkt nachhaltig nutzen können. Hersteller oder ihre Bevollmächtigten, die Bauteile und Baugruppen in Verkehr bringen oder in Betrieb nehmen, können durch Rechtsverordnung nach Satz 1 verpflichtet werden, dem Hersteller eines von einer Durchführungsmaßnahme erfassten energieverbrauchsrelevanten Produkts relevante Angaben zur Materialzusammensetzung sowie zum Verbrauch von Energie, Materialien oder Ressourcen hinsichtlich der betreffenden Bauteile oder Baugruppen zu machen, soweit dabei Betriebs- und Geschäftsgeheimnisse gewahrt bleiben. Satz 4 gilt entsprechend für den Importeur, wenn der Hersteller nicht im Europäischen Wirtschaftsraum niedergelassen ist und keinen Bevollmächtigten hat.
 
-
-## § 4 – Inverkehrbringen, Inbetriebnahme und Ausstellen
+# § 4 – Inverkehrbringen, Inbetriebnahme und Ausstellen
 
 (1) Ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorschrift erfasst wird, darf nur in den Verkehr gebracht werden, wenn:
 
@@ -113,15 +107,13 @@ Ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorsc
 
 (10) Der Händler hat dazu beizutragen, dass ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorschrift erfasst wird, nur auf dem Markt bereitgestellt wird, wenn es die Voraussetzungen nach Absatz 1 Satz 1 erfüllt. Er darf insbesondere kein energieverbrauchsrelevantes Produkt auf dem Markt bereitstellen, von dem er weiß oder auf Grund der ihm vorliegenden Informationen oder seiner Erfahrung wissen muss, dass es nicht die Anforderungen nach Absatz 1 Satz 1 erfüllt.
 
-
-## § 5 – Informationspflichten
+# § 5 – Informationspflichten
 
 (1) Der Hersteller, sein Bevollmächtigter und der Importeur eines energieverbrauchsrelevanten Produkts, das von einer Durchführungsrechtsvorschrift erfasst wird, haben jeweils im Rahmen ihrer Geschäftstätigkeit beim Inverkehrbringen oder, falls das Produkt noch nicht in Verkehr gebracht wurde, bei Inbetriebnahme den Namen des Herstellers oder, sofern dieser nicht im Europäischen Wirtschaftsraum niedergelassen ist, den Namen des Bevollmächtigten oder des Importeurs und deren Adressen auf dem Produkt oder auf dessen Verpackung anzubringen sowie das Produkt so zu kennzeichnen, dass es eindeutig identifiziert werden kann.
 
 (2) Schreibt eine Durchführungsrechtsvorschrift vor, dass der Hersteller gemäß Anhang I Teil 2 der Richtlinie 2009/125/EG Angaben zu machen hat, die den Umgang mit dem Produkt, dessen Nutzung oder Recycling durch andere Stellen als den Hersteller beeinflussen können, können diese Angaben schriftlich oder durch harmonisierte Symbole, allgemein anerkannte Codes oder auf andere Weise gemacht werden. Unabhängig von der Darstellungsform müssen alle Angaben für den voraussichtlichen Benutzer des Produkts verständlich sein. Schriftliche Angaben müssen zumindest auch auf Deutsch verfasst sein, wenn das Produkt dem Endnutzer übergeben wird und der Endnutzer das Produkt nicht gewerblich nutzt.
 
-
-## § 6 – CE-Kennzeichnung
+# § 6 – CE-Kennzeichnung
 
 (1) Es ist verboten, ein energieverbrauchsrelevantes Produkt in Verkehr zu bringen, wenn das Produkt, seine Verpackung oder ihm beigefügte Unterlagen mit der CE-Kennzeichnung versehen sind, ohne dass eine Durchführungsrechtsvorschrift oder andere Rechtsvorschriften dies vorsehen oder ohne dass die Voraussetzungen der Absätze 2 bis 5 eingehalten sind. Unter denselben Voraussetzungen ist es verboten, ein energieverbrauchsrelevantes Produkt, das noch nicht in Verkehr gebracht wurde, in Betrieb zu nehmen.
 
@@ -133,8 +125,7 @@ Ein energieverbrauchsrelevantes Produkt, das von einer Durchführungsrechtsvorsc
 
 (5) Zusätzlich zur CE-Kennzeichnung dürfen keine Kennzeichnungen angebracht werden, durch die Dritte hinsichtlich der Bedeutung und der Gestalt der CE-Kennzeichnung irregeführt werden können. Jede andere Kennzeichnung darf angebracht werden, wenn sie die Sichtbarkeit und Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
 
-
-## § 7 – Marktüberwachung
+# § 7 – Marktüberwachung
 
 (1) Die zuständigen Behörden überwachen, dass von einer Durchführungsrechtsvorschrift erfasste energieverbrauchsrelevante Produkte nur in Verkehr gebracht oder in Betrieb genommen werden, wenn die in diesem Gesetz oder auf Grund dieses Gesetzes dafür festgelegten Voraussetzungen erfüllt sind. Hierzu erstellen sie ein Marktüberwachungskonzept, das insbesondere umfasst:
 
@@ -190,8 +181,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen,
 
 (9) Vor Erlass einer Maßnahme nach Absatz 3 ist der betroffene Wirtschaftsakteur oder Aussteller anzuhören mit der Maßgabe, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass der Wirtschaftsakteur oder der Aussteller gehört wurde, wird ihm so schnell wie möglich Gelegenheit gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend überprüft.
 
-
-## § 8 – Meldeverfahren
+# § 8 – Meldeverfahren
 
 (1) Trifft die zuständige Behörde Maßnahmen nach § 7 Abs. 3 Nr. 6 und 7, unterrichtet sie hierüber unverzüglich unter Angabe der Gründe die beauftragte Stelle; sie gibt insbesondere an, ob eine harmonisierte Norm fehlerhaft angewandt wurde oder einen Mangel aufweist. Wurde die in § 6 vorgesehene Kennzeichnung von einer zugelassenen Stelle zuerkannt, ist auch die nach § 11 Abs. 2 zuständige Behörde zu unterrichten.
 
@@ -201,8 +191,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen,
 
 (4) Für den Informationsaustausch sind so weit wie möglich elektronische Kommunikationsmittel zu benutzen.
 
-
-## § 9 – Veröffentlichung von Informationen
+# § 9 – Veröffentlichung von Informationen
 
 (1) Die beauftragte Stelle macht Anordnungen nach § 7 Abs. 3 Nr. 6 und 7, die unanfechtbar geworden sind oder deren sofortige Vollziehung angeordnet worden ist, öffentlich bekannt. Personenbezogene Daten dürfen nur veröffentlicht werden, wenn sie zur Identifizierung des energieverbrauchsrelevanten Produkts erforderlich sind.
 
@@ -210,13 +199,11 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen,
 
 (3) Liegen einer nach § 7 für die Marktüberwachung zuständigen Behörde oder der beauftragten Stelle erhebliche Anhaltspunkte dafür vor, dass ein von einer Durchführungsrechtsvorschrift erfasstes energieverbrauchsrelevantes Produkt in Verkehr gebracht oder, falls es noch nicht in Verkehr gebracht wurde, in Betrieb genommen werden soll, ohne dass es den Anforderungen gemäß § 4 Abs. 1 entspricht, veröffentlicht sie so schnell wie möglich im Information and Communication System for Market Surveillance (ICSMS) eine mit Gründen versehene Bewertung, inwiefern dieses Produkt von den Anforderungen abweicht. Die nach Satz 1 zuständigen Behörden oder die beauftragte Stelle können von einer Veröffentlichung absehen, wenn das Produkt von den Anforderungen nach § 4 Abs. 1 nur geringfügig abweicht. Bei Veröffentlichungen nach Satz 1 gilt Absatz 2 für die zuständige Behörde und die beauftragte Stelle entsprechend.
 
-
-## § 10 – Beauftragte Stelle
+# § 10 – Beauftragte Stelle
 
 Beauftragte Stelle ist die Bundesanstalt für Materialforschung und -prüfung.
 
-
-## § 11 – Zugelassene Stellen
+# § 11 – Zugelassene Stellen
 
 (1) Zugelassene Stellen nehmen nach Maßgabe einer Durchführungsrechtsvorschrift Aufgaben bei der Durchführung der Verfahren zur Feststellung der Übereinstimmung mit den Anforderungen der Durchführungsrechtsvorschrift wahr.
 
@@ -228,8 +215,7 @@ Beauftragte Stelle ist die Bundesanstalt für Materialforschung und -prüfung.
 
 (5) Die nach § 7 für die Marktüberwachung zuständigen Behörden können von der zugelassenen Stelle und deren mit der Leitung und der Durchführung der Fachaufgaben beauftragtem Personal die zur Erfüllung ihrer Aufgaben erforderlichen Auskünfte und Unterlagen verlangen. Werden sie nach Satz 1 tätig, haben sie die für das Anerkennungsverfahren nach Absatz 2 zuständige Behörde zu unterrichten.
 
-
-## § 12 – Weitere Aufgaben der beauftragten Stelle
+# § 12 – Weitere Aufgaben der beauftragten Stelle
 
 (1) Die beauftragte Stelle stellt ein umfassendes Informationsangebot zu den Ökodesign-Anforderungen und den für sie geltenden Konformitätsbewertungsverfahren bereit mit dem Ziel, die Wirtschaft, insbesondere kleine und mittlere Unternehmen sowie Kleinstunternehmen, darin zu unterstützen, die Verpflichtungen aus diesem Gesetz zu erfüllen und bereits in der Phase der Produktentwicklung einen umweltverträglichen Ansatz zu wählen.
 
@@ -237,8 +223,7 @@ Beauftragte Stelle ist die Bundesanstalt für Materialforschung und -prüfung.
 
 (3) Bei der Erfüllung ihrer Aufgaben nach den Absätzen 1 und 2 arbeitet die beauftragte Stelle mit dem Umweltbundesamt zusammen. Über die dabei gesammelten Erfahrungen tauschen sich beauftragte Stelle und Umweltbundesamt einmal jährlich aus.
 
-
-## § 13 – Bußgeldvorschriften
+# § 13 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -282,18 +267,15 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Absatz 3 
 
 (3) Die Bundesregierung wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 6 geahndet werden können.
 
-
-## § 14 – Anpassung von Rechtsverordnungen
+# § 14 – Anpassung von Rechtsverordnungen
 
 \-
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 4 Abs. 1 Nr. 3)
+# Anlage – (zu § 4 Abs. 1 Nr. 3)
 
 (Fundstelle: BGBl. I 2008, 264)
 

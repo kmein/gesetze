@@ -1,15 +1,11 @@
-# [RindFlSoErstV 1994] Verordnung über das Verfahren für die Gewährung von Sondererstattungen bei der Ausfuhr von Rindfleisch nach Drittländern  (Rindfleisch-Sondererstattungs-Verordnung)
-
-Ausfertigungsdatum: 21.02.1994
-
+% Verordnung über das Verfahren für die Gewährung von Sondererstattungen bei der Ausfuhr von Rindfleisch nach Drittländern  (Rindfleisch-Sondererstattungs-Verordnung)
+% Ausfertigungsdatum: 21.02.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1, des § 15 Satz 1, des § 16 und des § 17 Abs. 3 Satz 1 sowie des § 31 Abs. 2 Satz 1 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen in der Fassung der Bekanntmachung vom 27. August 1986 (BGBl. I S. 1397) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung
 
@@ -19,8 +15,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung
 
 in der jeweils geltenden Fassung.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist zuständig für die Durchführung der in § 1 genannten Rechtsakte hinsichtlich
 
@@ -36,13 +31,11 @@ in der jeweils geltenden Fassung.
 
 (3) Im übrigen gelten hinsichtlich der Zuständigkeit und des Verfahrens bei der Ausfuhrerstattung die Vorschriften der Ausfuhrerstattungsverordnung.
 
-
-## § 3 – Mindestmenge
+# § 3 – Mindestmenge
 
 Die Bundesanstalt trifft die in § 2 Abs. 1 genannten Maßnahmen nur, falls je Schlachtstätte wenigstens 120 Viertel, 60 "quartiers compenses", 60 halbe Tierkörper oder 30 ganze Tierkörper bereitgehalten werden und dies der Bundesanstalt rechtzeitig mitgeteilt worden ist. Die Bundesanstalt kann Ausnahmen von Satz 1 zulassen.
 
-
-## § 4 – Gewinnung, Verpackung und Nämlichkeitssicherung der Teilstücke
+# § 4 – Gewinnung, Verpackung und Nämlichkeitssicherung der Teilstücke
 
 (1) Eine Sondererstattung für Teilstücke nach der Verordnung (EG) Nr. 1359/2007 kann unbeschadet anderweitiger Voraussetzungen nur in Anspruch genommen werden, wenn folgende Bedingungen erfüllt sind:
 
@@ -56,8 +49,7 @@ Die Bundesanstalt trifft die in § 2 Abs. 1 genannten Maßnahmen nur, falls je S
 
 (2) Abweichend von Absatz 1 Nr. 2 Satz 2 kann ein Teilstück auch durch Beilegung eines Etiketts in die Einzelverpackung jedes Teilstücks gekennzeichnet werden. Das Etikett hat einem von der Bundesanstalt im Bundesanzeiger bekannt gemachten Muster zu entsprechen.
 
-
-## § 5 – Pflichten des Zerlegebetriebes
+# § 5 – Pflichten des Zerlegebetriebes
 
 Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
 
@@ -67,19 +59,16 @@ Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
 
 3. ein Verzeichnis der hergestellten Teilstücke nach dem von der Bundesanstalt im Bundesanzeiger veröffentlichten Muster angefertigt wird.
 
-
-## § 6 – (weggefallen)
+# § 6 – (weggefallen)
 
 \-
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig tritt die Rindfleisch-Sondererstattungs-Verordnung vom 18. August 1982 (BGBl. I S. 1229), zuletzt geändert durch die Verordnung vom 23. Februar 1984 (BGBl. I S. 358), außer Kraft. Die in Satz 2 genannte Verordnung ist für die Gewährung der Sondererstattung nach den in § 1 genannten Rechtsakten weiter anzuwenden, die vor dem Tage des Inkrafttretens der in Satz 1 genannten Verordnung beantragt worden ist.
 
 § 7 Satz 2 (Kursivdruck): Aufhebungsvorschrift
 
-
-## Anlage
+# Anlage
 
 (weggefallen)

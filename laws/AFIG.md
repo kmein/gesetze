@@ -1,15 +1,11 @@
-# [AFIG] Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und Fischerei  (Agrar- und Fischereifonds-Informationen-Gesetz - AFIG)
-
-Ausfertigungsdatum: 26.11.2008
-
+% Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Europäischen Fonds für Landwirtschaft und Fischerei  (Agrar- und Fischereifonds-Informationen-Gesetz - AFIG)
+% Ausfertigungsdatum: 26.11.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zweck und Anwendungsbereich
+# § 1 – Zweck und Anwendungsbereich
 
 Dieses Gesetz dient
 
@@ -25,8 +21,7 @@ vorgesehen ist;
 
 2. der Durchführung der Verordnung (EU) Nr. 508/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 über den Europäischen Meeres- und Fischereifonds und zur Aufhebung der Verordnungen (EG) Nr. 2328/2003, (EG) Nr. 861/2006, (EG) Nr. 1198/2006 und (EG) Nr. 791/2007 des Rates und der Verordnung (EU) Nr. 1255/2011 des Europäischen Parlaments und des Rates (ABl. L 149 vom 20.5.2014, S. 1) in der jeweils geltenden Fassung und der zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union, soweit darin Aufgaben der Verwaltungsbehörde im Zusammenhang mit Informationsmaßnahmen im Sinne des Artikels 119 in Verbindung mit Anhang V der Verordnung (EU) Nr. 508/2014 vorgesehen sind.
 
-
-## § 2 – Veröffentlichung
+# § 2 – Veröffentlichung
 
 (1) Die für die Zahlung von Mitteln aus dem Europäischen Garantiefonds für die Landwirtschaft, dem Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums zuständigen Stellen des Bundes und, soweit diese Mittel von den Ländern gezahlt werden, die hierfür zuständigen Stellen der Länder und im Fall des Europäischen Fischereifonds die zuständige Verwaltungsbehörde veröffentlichen die Informationen nach
 
@@ -44,8 +39,7 @@ in den jeweils geltenden Fassungen im Wege der Direkteingabe auf einer gemeinsam
 
 (5) Die veröffentlichten Informationen werden zwei Jahre nach dem ersten Tag der Veröffentlichung auf der Internetseite gelöscht.
 
-
-## § 2a – Datenverarbeitung
+# § 2a – Datenverarbeitung
 
 (1) Wer die in § 2 Absatz 1 genannten Daten von der Internetseite der Bundesanstalt für Landwirtschaft und Ernährung erhebt und speichert, darf die Daten nur zum Zweck der sachbezogenen Information der Öffentlichkeit über die Empfänger von Zahlungen aus den europäischen Agrar- und Fischereifonds nach Maßgabe des Absatzes 2 Satz 1 verwenden.
 
@@ -59,8 +53,7 @@ in den jeweils geltenden Fassungen im Wege der Direkteingabe auf einer gemeinsam
 
 Die Daten nach Absatz 1 sind spätestens mit Ablauf von zwei Jahren nach dem Tag ihrer ersten Veröffentlichung auf der Internetseite der Bundesanstalt für Landwirtschaft und Ernährung von den in Absatz 1 genannten Nutzern zu löschen.
 
-
-## § 3 – Verordnungsermächtigungen
+# § 3 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft trifft im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über Einzelheiten des Verfahrens oder technische und organisatorische Maßnahmen im Sinne des § 2 Absatz 3 Satz 1 für die Veröffentlichung der Informationen im Internet, insbesondere über
 
@@ -76,12 +69,10 @@ Die Daten nach Absatz 1 sind spätestens mit Ablauf von zwei Jahren nach dem Tag
 
 (2) Abweichend von Absatz 1 kann bis zum 31. Juli 2015 die Rechtsverordnung nach Absatz 1 ohne Zustimmung des Bundesrates erlassen werden. Die Rechtsverordnung tritt spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-
-## § 4 – Verkündung von Rechtsverordnungen
+# § 4 – Verkündung von Rechtsverordnungen
 
 Die Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

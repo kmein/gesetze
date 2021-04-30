@@ -1,13 +1,9 @@
-# [TabStG] Tabaksteuergesetz  (TabStG)
-
-Ausfertigungsdatum: 15.07.2009
-
+% Tabaksteuergesetz  (TabStG)
+% Ausfertigungsdatum: 15.07.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Steuergebiet, Steuergegenstand
+# § 1 – Steuergebiet, Steuergegenstand
 
 (1) Tabakwaren unterliegen im Steuergebiet der Tabaksteuer. Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Tabaksteuer ist eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
@@ -45,8 +41,7 @@ c) Tabakstränge, die durch einen einfachen nichtindustriellen Vorgang mit einem
 
 (9) Das Bundesministerium der Finanzen wird ermächtigt, zur Verfahrensvereinfachung sowie zur Sicherung der Gleichmäßigkeit der Besteuerung durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten zur Feststellung des Stückgewichts nach Absatz 3 festzulegen.
 
-
-## § 2 – Steuertarif
+# § 2 – Steuertarif
 
 (1) Die Steuer beträgt:
 
@@ -115,8 +110,7 @@ g) für den Zeitraum vom 1. Januar 2015 bis zum 14. Februar 2016 mindestens 95,0
   
 zu ändern. Dabei kann das Bundesministerium der Finanzen den Quotienten auf fünf Dezimalstellen runden und den neuen Tabaksteueranteil auf zwei Dezimalstellen aufrunden. Die Änderung unterbleibt, wenn sich danach insgesamt eine Tabaksteuerbelastung ergibt, die unterhalb der globalen Verbrauchsteuer liegt, die in der Richtlinie 92/79/EWG sowie in der Richtlinie 92/80/EWG des Rates vom 19. Oktober 1992 zur Annäherung der Verbrauchsteuern auf andere Tabakwaren als Zigaretten (ABl. L 316 vom 31.10.1992, S. 10), die zuletzt durch die Richtlinie 2010/12/EU (ABl. L 50 vom 27.2.2010, S. 1) geändert worden ist, in der jeweils geltenden Fassung vorgeschrieben ist.
 
-
-## § 3 – Bemessungsgrundlagen
+# § 3 – Bemessungsgrundlagen
 
 (1) Kleinverkaufspreis ist der Preis, den der Hersteller oder Einführer als Einzelhandelspreis für Zigarren, Zigarillos und Zigaretten je Stück und für Rauchtabak je Kilogramm bestimmt. Wird nur ein Packungspreis bestimmt, gilt als Kleinverkaufspreis der Preis, der sich aus dem Packungspreis und dem Packungsinhalt je Stück oder Kilogramm ergibt.
 
@@ -134,8 +128,7 @@ zu ändern. Dabei kann das Bundesministerium der Finanzen den Quotienten auf fü
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Erleichterung der Steuererhebung durch Steuerzeichenverwendung für die Staffelung der Kleinverkaufspreise der verschiedenen Tabakwaren Mindestabstände festzulegen.
 
-
-## § 4 – Sonstige Begriffsbestimmungen
+# § 4 – Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -167,15 +160,13 @@ b) beim Eingang aus Drittgebieten der Ort, an dem die Tabakwaren in sinngemäße
 
 12. Steuerzeichen: deutsche Steuerzeichen.
 
-
-## § 5 – Steuerlager
+# § 5 – Steuerlager
 
 (1) Steuerlager sind Orte, an und von denen Tabakwaren unter Steueraussetzung hergestellt, bearbeitet oder verarbeitet, gelagert, empfangen oder versandt werden dürfen.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum Steuerlager gehören.
 
-
-## § 6 – Steuerlagerinhaber
+# § 6 – Steuerlagerinhaber
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Personen, die Tabakwaren lagern, aber nicht herstellen, müssen zum Bezug von Steuerzeichen berechtigt sein oder ausschließlich unversteuerte Tabakwaren abgeben. Sind Anzeichen für eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer Sicherheit abhängig. Diese berechnet sich nach der Höhe des Steuerwerts der voraussichtlich im Jahresdurchschnitt in den steuerrechtlich freien Verkehr überführten Mengen, und zwar
 
@@ -195,8 +186,7 @@ b) beim Eingang aus Drittgebieten der Ort, an dem die Tabakwaren in sinngemäße
 
 3. bei Gefährdung der Steuerbelange Sicherheit bis zur Höhe des Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder das Steuerlager unter amtlichen Verschluss zu nehmen.
 
-
-## § 7 – Registrierte Empfänger
+# § 7 – Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die Tabakwaren unter Steueraussetzung
 
@@ -218,8 +208,7 @@ In den Fällen des Absatzes 1 Nummer 2 ist die Erlaubnis von einer Sicherheit in
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen.
 
-
-## § 8 – Registrierte Versender
+# § 8 – Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Tabakwaren vom Ort der Einfuhr unter Steueraussetzung versenden dürfen.
 
@@ -229,8 +218,7 @@ In den Fällen des Absatzes 1 Nummer 2 ist die Erlaubnis von einer Sicherheit in
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen und dabei zur Vorbeugung des Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen, den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn steuerliche Belange dem nicht entgegenstehen.
 
-
-## § 9 – Begünstigte
+# § 9 – Begünstigte
 
 (1) Begünstigte, die Tabakwaren unter Steueraussetzung im Steuergebiet empfangen dürfen, sind vorbehaltlich des Absatzes 2
 
@@ -260,8 +248,7 @@ und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren für den Empfang unter Steueraussetzung mit Freistellungsbescheinigung für Begünstigte nach Absatz 1 näher zu regeln und zur Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im Steuergebiet anstelle einer Freistellungsbescheinigung andere geeignete Dokumente zuzulassen.
 
-
-## § 10 – Beförderungen (Allgemeines)
+# § 10 – Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur dann als unter Steueraussetzung durchgeführt, wenn sie mit einem elektronischen Verwaltungsdokument nach Artikel 21 der Systemrichtlinie erfolgen.
 
@@ -269,8 +256,7 @@ und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Beförderung unter Steueraussetzung entsprechend den Artikeln 21 bis 31 der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und den dazu erforderlichen Datenaustausch zu regeln und dabei das Verfahren abweichend von Absatz 1 zu bestimmen.
 
-
-## § 11 – Beförderungen im Steuergebiet
+# § 11 – Beförderungen im Steuergebiet
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet
 
@@ -302,8 +288,7 @@ aufzunehmen oder
 
 2. zur Verfahrensvereinfachung zuzulassen, dass Tabakwaren, die Steuerlagerinhaber oder Verwender (§ 31) in Besitz genommen haben, als in ihr Steuerlager oder ihren Betrieb aufgenommen gelten, soweit Steuerbelange dadurch nicht beeinträchtigt werden.
 
-
-## § 12 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+# § 12 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden
 
@@ -359,8 +344,7 @@ im Steuergebiet aufzunehmen oder
 
 2. für häufig und regelmäßig stattfindende Beförderungen von Tabakwaren in einem Verfahren der Steueraussetzung zwischen den Gebieten von zwei oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-
-## § 13 – Ausfuhr
+# § 13 – Ausfuhr
 
 (1) Tabakwaren dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet zu einem Ort befördert werden, an dem die Tabakwaren das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen.
 
@@ -370,8 +354,7 @@ im Steuergebiet aufzunehmen oder
 
 (4) Für die Verfahrensvorschriften, die Sicherheitsleistung und die Zulassung von Verfahrensvereinfachungen gilt für die unmittelbare Ausfuhr aus dem Steuergebiet § 11 Absatz 2 und 5, für die Ausfuhr über andere Mitgliedstaaten § 12 Absatz 2 und 6 entsprechend.
 
-
-## § 14 – Unregelmäßigkeiten während der Beförderung
+# § 14 – Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 15 Absatz 3 Nummer 1 geregelten Fälle, auf Grund dessen die Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
@@ -393,8 +376,7 @@ Hatte die Person, die Sicherheit geleistet hat (§ 12 Absatz 2 und § 13 Absatz 
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 2 bis 6 zu erlassen.
 
-
-## § 15 – Steuerentstehung, Steuerschuldner
+# § 15 – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Tabakwaren in den steuerrechtlich freien Verkehr, es sei denn, es schließt sich eine Steuerbefreiung an.
 
@@ -432,8 +414,7 @@ Werden Tabakwaren aus einem Steuerlager an Personen abgegeben, die nicht im Besi
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu Absatz 3 Nummer 1 zu erlassen, insbesondere zu den Anforderungen an den Nachweis.
 
-
-## § 16 – Verpackungszwang
+# § 16 – Verpackungszwang
 
 (1) Tabakwaren dürfen nur in geschlossenen, verkaufsfertigen Kleinverkaufspackungen in den steuerrechtlich freien Verkehr überführt werden.
 
@@ -443,8 +424,7 @@ Werden Tabakwaren aus einem Steuerlager an Personen abgegeben, die nicht im Besi
 
 2. zur Erleichterung der Steuererhebung durch Steuerzeichenverwendung den Inhalt der Kleinverkaufspackungen auf bestimmte Mengen zu begrenzen.
 
-
-## § 17 – Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung
+# § 17 – Verwendung von Steuerzeichen, Steueranmeldung, Steuererklärung
 
 (1) Für Tabakwaren ist die Steuer durch Verwendung von Steuerzeichen zu entrichten. Die Verwendung umfasst das Entwerten und das Anbringen der Steuerzeichen an den Kleinverkaufspackungen. Die Steuerzeichen müssen verwendet sein, wenn die Steuer entsteht.
 
@@ -460,8 +440,7 @@ Werden Tabakwaren aus einem Steuerlager an Personen abgegeben, die nicht im Besi
 
 3. zur Vereinfachung der Verwaltung oder aus wirtschaftlichen Gründen Ausnahmen von der Entrichtung der Steuer durch Steuerzeichenverwendung zuzulassen, zu bestimmen, dass in einzelnen besonders gelagerten Fällen zur Vermeidung unbilliger Härten Ausnahmen im Verwaltungsweg gemacht werden dürfen, und die Besteuerung zu regeln.
 
-
-## § 18 – Fälligkeit
+# § 18 – Fälligkeit
 
 (1) Die Steuerzeichenschuld ist spätestens zu begleichen
 
@@ -481,8 +460,7 @@ b) für Zigaretten und Rauchtabak am 27. Tag des nächsten Monats.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung die Einzelheiten über die Entrichtung der Steuer zu bestimmen.
 
-
-## § 19 – Einfuhr
+# § 19 – Einfuhr
 
 (1) Einfuhr ist
 
@@ -508,13 +486,11 @@ und die dazu ergangenen Vorschriften;
 
 2. beim Eingang von Tabakwaren im zollrechtlichen Status als Gemeinschaftswaren aus Drittgebieten in sinngemäßer Anwendung die nach Titel III Kapitel 1 bis 4 des Zollkodex vorgesehenen besonderen Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der Gemeinschaft.
 
-
-## § 20 – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
+# § 20 – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Tabakwaren befinden, Unregelmäßigkeiten ein, gilt Artikel 215 des Zollkodex sinngemäß.
 
-
-## § 21 – Steuerentstehung, Steuerschuldner
+# § 21 – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Tabakwaren in den steuerrechtlich freien Verkehr durch die Einfuhr, es sei denn, die Tabakwaren werden unmittelbar am Ort der Einfuhr in ein Verfahren der Steueraussetzung überführt oder es schließt sich eine Steuerbefreiung an. Die Steuer entsteht nicht, wenn die Tabakwaren unter Steueraussetzung aus dem Steuergebiet oder einem anderen Mitgliedstaat über Drittländer oder Drittgebiete in das Steuergebiet befördert werden.
 
@@ -532,8 +508,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Tabakwaren 
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, in Bezug auf Absatz 3 durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu erlassen und die Besteuerung abweichend von Absatz 3 zu regeln, soweit dies zur Sicherung des Steueraufkommens oder zur Anpassung an die Behandlung im Steuergebiet hergestellter Tabakwaren oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
 
-
-## § 22 – Erwerb durch Privatpersonen
+# § 22 – Erwerb durch Privatpersonen
 
 (1) Tabakwaren, die eine Privatperson für ihren Eigenbedarf in anderen Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst in das Steuergebiet befördert (private Zwecke), sind steuerfrei.
 
@@ -551,8 +526,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Tabakwaren 
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens vorzuschreiben, bei welcher Menge an Tabakwaren nach Absatz 1 widerleglich vermutet wird, dass diese nicht für den Eigenbedarf der Privatperson bestimmt sind.
 
-
-## § 23 – Tabakwaren des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten, Versandhandel
+# § 23 – Tabakwaren des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten, Versandhandel
 
 (1) Werden Tabakwaren in anderen als den in § 22 Absatz 1 genannten Fällen entgegen § 17 Absatz 1 aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats in das Steuergebiet verbracht oder werden diese dorthin versandt (gewerbliche Zwecke), entsteht die Steuer, wenn die Tabakwaren erstmals zu gewerblichen Zwecken in Besitz gehalten werden. Steuerschuldner ist, wer die Lieferung vornimmt oder die Tabakwaren in Besitz hält und der Empfänger, sobald er Besitz an den Tabakwaren erlangt hat. Der Steuerschuldner hat über Tabakwaren, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben. Die Steuer ist sofort fällig. Die Tabakwaren sind nach § 215 der Abgabenordnung sicherzustellen.
 
@@ -566,22 +540,19 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Tabakwaren 
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 bis 3 zu erlassen.
 
-
-## § 24 – Beipackverbot
+# § 24 – Beipackverbot
 
 (1) Den Kleinverkaufspackungen, die in den steuerrechtlich freien Verkehr überführt werden, dürfen keine anderen Gegenstände als die Tabakwaren beigepackt werden. Andere Gegenstände dürfen den Packungen auch nicht außen beigepackt werden, es sei denn, die Gegenstände sind für Wiederverkäufer bestimmt. Das gilt unabhängig davon, ob die Gegenstände entgeltlich oder unentgeltlich an Verbraucher abgegeben werden sollen. Das Beipacken von Wechselgeld ist zulässig.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates den Beipack branchenüblichen Zubehörs von geringem Wert zuzulassen.
 
-
-## § 25 – Packungen im Handel, Stückverkauf
+# § 25 – Packungen im Handel, Stückverkauf
 
 (1) Der Händler muss die Kleinverkaufspackungen verschlossen halten und die Steuerzeichen an den Packungen unversehrt erhalten. Er darf die Packungen jedoch öffnen, um den Inhalt zu prüfen, vorzuzeigen oder, mit Ausnahme des Inhalts von Packungen mit Zigaretten und Feinschnitt, unentgeltlich als Proben oder zu Werbezwecken an Verbraucher zu verteilen. Packungen mit Zigarren oder Zigarillos darf er außerdem zum Stückverkauf an Verbraucher öffnen. Er darf die Packungen nur so öffnen, dass die Steuerzeichen durchtrennt oder eingerissen werden. Der Stückverkauf von Zigarren oder Zigarillos ist nur zulässig, wenn der Preis für die abgegebene Menge, der sich aus dem Kleinverkaufspreis ergibt, nicht auf Bruchteile eines Cents lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
 (2) (weggefallen)
 
-
-## § 26 – Verbot der Abgabe unter Kleinverkaufspreis
+# § 26 – Verbot der Abgabe unter Kleinverkaufspreis
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich daraus ergebende Kleinverkaufspreis darf vom Händler bei Abgabe von Tabakwaren an Verbraucher, außer bei unentgeltlicher Abgabe als Proben oder zu Werbezwecken, nicht unterschritten werden. Der Händler darf auch keinen Rabatt gewähren. Dem Rabatt stehen Rückvergütungen aller Art gleich, die auf der Grundlage des Umsatzes gewährt werden. Der Händler darf bei der Abgabe an Verbraucher auch keine Gegenstände zugeben und die Abgabe nicht mit dem Verkauf anderer Gegenstände koppeln.
 
@@ -591,8 +562,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Tabakwaren 
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zugabe branchenüblichen Zubehörs von geringem Wert zuzulassen.
 
-
-## § 27 – Preisnachlässe und -ermäßigungen
+# § 27 – Preisnachlässe und -ermäßigungen
 
 Von dem Verbot des § 26 Absatz 1 sind ausgenommen
 
@@ -608,15 +578,13 @@ c) weil sich der Wert der Tabakwaren gemindert hat.
 
 Die Preisermäßigung bedarf der Genehmigung des Bundesministeriums der Finanzen oder der von ihm bestimmten Stellen.
 
-
-## § 28 – Verbot der Abgabe über Kleinverkaufspreis
+# § 28 – Verbot der Abgabe über Kleinverkaufspreis
 
 (1) Der auf dem Steuerzeichen angegebene Packungspreis oder der sich daraus ergebende Kleinverkaufspreis darf vom Händler bei der Abgabe von Tabakwaren nicht überschritten werden. Wird der Preis überschritten, entsteht damit die Steuer in Höhe des Unterschiedes der Steuerbelastung vor und nach der Preiserhöhung. Steuerschuldner ist der Händler. Er hat unverzüglich eine Steuererklärung abzugeben. Die Steuer ist sofort fällig.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die notwendigen Vorschriften zu Absatz 1 zu erlassen.
 
-
-## § 30 – Steuerbefreiungen
+# § 30 – Steuerbefreiungen
 
 (1) Von der Steuer und vom Verpackungszwang sind befreit
 
@@ -650,8 +618,7 @@ g) im Steuerlager zur Herstellung von Erzeugnissen verwendet werden, die nicht d
 
 2. das Verfahren für die Steuerbefreiung nach Absatz 1 und die Einzelheiten zur Steuererklärung zu regeln.
 
-
-## § 31 – Verwender
+# § 31 – Verwender
 
 (1) Wer Tabakwaren in den Fällen des § 30 Absatz 1 Nummer 1 Buchstabe e und f steuerfrei verwenden will, bedarf einer Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen.
 
@@ -665,8 +632,7 @@ g) im Steuerlager zur Herstellung von Erzeugnissen verwendet werden, die nicht d
 
 2. zur Verwaltungs- und Verfahrensvereinfachung die steuerfreie Verwendung unter Verzicht auf Einzelerlaubnisse allgemein zuzulassen.
 
-
-## § 32 – Erlass, Erstattung der Steuer und der Steuerzeichenschuld
+# § 32 – Erlass, Erstattung der Steuer und der Steuerzeichenschuld
 
 (1) Die Steuer wird auf Antrag erlassen oder erstattet, wenn Tabakwaren in ein Steuerlager aufgenommen werden oder unter Steueraufsicht aus dem Steuergebiet in einen anderen Mitgliedstaat befördert oder ausgeführt werden. Einführern und registrierten Empfängern, die nicht Steuerlagerinhaber sind, wird die Steuer auch erlassen oder erstattet, wenn von ihnen eingeführte oder in Empfang genommene Tabakwaren unter Steueraufsicht vernichtet oder vergällt werden.
 
@@ -684,8 +650,7 @@ g) im Steuerlager zur Herstellung von Erzeugnissen verwendet werden, die nicht d
 
 3. zur Verwaltungsvereinfachung einen Mindestbetrag vorzuschreiben, ab dem der Erlass oder die Erstattung für Tabakwaren oder Steuerzeichen beantragt werden kann.
 
-
-## § 33 – Steueraufsicht
+# § 33 – Steueraufsicht
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegen der Steueraufsicht:
 
@@ -701,15 +666,13 @@ g) im Steuerlager zur Herstellung von Erzeugnissen verwendet werden, die nicht d
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über den Zeitpunkt, die Form und den Inhalt der Anmeldung nach Absatz 2 zu erlassen und zur Vereinfachung der Verwaltung Ausnahmen von der Anmeldepflicht zuzulassen.
 
-
-## § 34 – Geschäftsstatistik
+# § 34 – Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen stellen die Hauptzollämter für statistische Zwecke Erhebungen an und teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für allgemeine Zwecke übermitteln.
 
-
-## § 35 – Besondere Ermächtigungen
+# § 35 – Besondere Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -767,8 +730,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 (2) Das Bundesministerium der Finanzen erlässt die allgemeinen Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
-## § 36 – Ordnungswidrigkeiten
+# § 36 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -794,8 +756,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 3 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 37 – Schwarzhandel mit Zigaretten
+# § 37 – Schwarzhandel mit Zigaretten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig Zigaretten in Verpackungen erwirbt, an denen ein gültiges Steuerzeichen nicht angebracht ist, soweit der einzelnen Tat nicht mehr als 1 000 Zigaretten zugrunde liegen. Die §§ 369 bis 374 der Abgabenordnung finden keine Anwendung.
 
@@ -807,8 +768,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 (5) Die Befugnis nach § 56 des Gesetzes über Ordnungswidrigkeiten steht auch Beamten des Polizeidienstes und den hierzu ermächtigten Beamten des Zollfahndungsdienstes zu, die eine Ordnungswidrigkeit nach Absatz 1 entdecken oder im ersten Zugriff verfolgen und sich ausweisen.
 
-
-## § 38 – Übergangsvorschriften
+# § 38 – Übergangsvorschriften
 
 (1) Für Beförderungen unter Steueraussetzung, die vor dem 1. Januar 2011 begonnen worden sind, gilt dieses Gesetz in der bis zum 31. März 2010 geltenden Fassung bis zum 31. Dezember 2010 fort, es sei denn, die Beförderungen sind mit elektronischem Verwaltungsdokument nach Artikel 21 der Systemrichtlinie eröffnet worden.
 

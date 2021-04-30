@@ -1,15 +1,11 @@
-# [StVZOAusnV 35] Fünfunddreißigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung  (35. Ausnahmeverordnung zur StVZO)
-
-Ausfertigungsdatum: 22.04.1988
-
+% Fünfunddreißigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung  (35. Ausnahmeverordnung zur StVZO)
+% Ausfertigungsdatum: 22.04.1988
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe a in Verbindung mit Abs. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, die Eingangsworte in Nummer 3 zuletzt geändert durch § 37 Abs. 2 des Gesetzes vom 24. August 1965 (BGBl. I S. 927) und Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S. 721), wird nach Anhörung der zuständigen obersten Landesbehörden verordnet:
 
-
-## § 1
+# § 1
 
 (1) Abweichend von § 32 Absatz 1 Nummer 1 der Straßenverkehrs-Zulassungs-Ordnung darf bei land- oder forstwirtschaftlichen Zugmaschinen und ihren Anhängern die Breite über alles bis zu 3,00 m betragen, wenn sich die größere Breite allein aus der Ausrüstung dieser Fahrzeuge ergibt
 
@@ -33,22 +29,18 @@ Bei Zügen, bei denen Zugmaschine und Anhänger breiter als 2,75 m sind, genügt
 
 (4) Abweichend von § 36a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung brauchen in den Fällen des Absatzes 1 keine zusätzlichen Radabdeckungen vorhanden zu sein, wenn die Zugmaschine oder der Zug mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren wird.
 
-
-## § 2
-
-\-
-
-
-## § 3 – (weggefallen)
+# § 2
 
 \-
 
+# § 3 – (weggefallen)
 
-## § 4
+\-
+
+# § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

@@ -1,35 +1,27 @@
-# [VfAusbV] Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik   (Veranstaltungsfachkräfteausbildungsverordnung - VfAusbV)
-
-Ausfertigungsdatum: 03.06.2016
-
+% Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik   (Veranstaltungsfachkräfteausbildungsverordnung - VfAusbV)
+% Ausfertigungsdatum: 03.06.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf der Fachkraft für Veranstaltungstechnik wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -69,27 +61,23 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 6. Kommunikation und Kooperation.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel und Zeitpunkt
+# § 7 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung soll im vierten Ausbildungshalbjahr stattfinden.
 
-
-## § 8 – Inhalt
+# § 8 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -97,8 +85,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereiche
+# § 9 – Prüfungsbereiche
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -106,8 +93,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 2. Bereitstellen der Veranstaltungstechnik.
 
-
-## § 10 – Prüfungsbereich Auswählen der Veranstaltungstechnik und Sicherstellen der Stromversorgung
+# § 10 – Prüfungsbereich Auswählen der Veranstaltungstechnik und Sicherstellen der Stromversorgung
 
 (1) Im Prüfungsbereich Auswählen der Veranstaltungstechnik und Sicherstellen der Stromversorgung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -123,8 +109,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 11 – Prüfungsbereich Bereitstellen der Veranstaltungstechnik
+# § 11 – Prüfungsbereich Bereitstellen der Veranstaltungstechnik
 
 (1) Im Prüfungsbereich Bereitstellen der Veranstaltungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -146,15 +131,13 @@ c) Anlagen der Medien- und Präsentationstechnik,
 
 (3) Die Prüfungszeit beträgt insgesamt 45 Minuten. Das situative Fachgespräch dauert höchstens 15 Minuten.
 
-
-## § 12 – Ziel und Zeitpunkt
+# § 12 – Ziel und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 13 – Inhalt
+# § 13 – Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -162,8 +145,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 14 – Prüfungsbereiche
+# § 14 – Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -177,8 +159,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 5. Wirtschafts- und Sozialkunde.
 
-
-## § 15 – Prüfungsbereich Realisieren eines veranstaltungstechnischen Projekts
+# § 15 – Prüfungsbereich Realisieren eines veranstaltungstechnischen Projekts
 
 (1) Im Prüfungsbereich Realisieren eines veranstaltungstechnischen Projekts soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -196,8 +177,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit für den betrieblichen Auftrag mit Dokumentation beträgt 35 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten. Vor der Durchführung des betrieblichen Auftrages haben die Ausbildenden dem Prüfungsausschuss die Aufgabenstellung einschließlich eines geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen.
 
-
-## § 16 – Prüfungsbereich Planen der Veranstaltungstechnik
+# § 16 – Prüfungsbereich Planen der Veranstaltungstechnik
 
 (1) Im Prüfungsbereich Planen der Veranstaltungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -215,8 +195,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 17 – Prüfungsbereich Planen der Veranstaltungsdurchführung
+# § 17 – Prüfungsbereich Planen der Veranstaltungsdurchführung
 
 (1) Im Prüfungsbereich Planen der Veranstaltungsdurchführung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -232,8 +211,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 18 – Prüfungsbereich Sicherstellen der Energieversorgung für Veranstaltungstechnik
+# § 18 – Prüfungsbereich Sicherstellen der Energieversorgung für Veranstaltungstechnik
 
 (1) Im Prüfungsbereich Sicherstellen der Energieversorgung für Veranstaltungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -251,8 +229,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 19 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 19 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -260,8 +237,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 20 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 20 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -302,12 +278,10 @@ für Veranstaltungstechnik mit</td><td style="text-align: right;">10 Prozent,</t
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 21 – Inkrafttreten, Außerkrafttreten
+# § 21 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik vom 18. Juli 2002 (BGBl. I S. 2699) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Veranstaltungstechnik
 
 (Fundstelle: BGBl. I 2016,1311 - 1317)

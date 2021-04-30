@@ -1,13 +1,9 @@
-# [TabakerzG] Gesetz über Tabakerzeugnisse und verwandte Erzeugnisse  (Tabakerzeugnisgesetz - TabakerzG)
-
-Ausfertigungsdatum: 04.04.2016
-
+% Gesetz über Tabakerzeugnisse und verwandte Erzeugnisse  (Tabakerzeugnisgesetz - TabakerzG)
+% Ausfertigungsdatum: 04.04.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen; Anwendbarkeit weiterer Bestimmungen
+# § 1 – Begriffsbestimmungen; Anwendbarkeit weiterer Bestimmungen
 
 (1) Für die Anwendung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen gelten die Begriffsbestimmungen
 
@@ -25,8 +21,7 @@ b) die Nummer 40 mit der Maßgabe, dass die Bereitstellung von Produkten jede Ab
 
 (2) Bestimmungen über den Schutz der menschlichen Gesundheit oder zum Schutz der Verbraucherinnen und Verbraucher vor Täuschung aufgrund anderer Gesetze und der aufgrund dieser Gesetze erlassenen Rechtsverordnungen bleiben unberührt.
 
-
-## § 2 – Sonstige Begriffsbestimmungen
+# § 2 – Sonstige Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen ist oder sind:
 
@@ -50,15 +45,13 @@ Im Sinne dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsveror
 
 10. Zollbehörden: die Hauptzollämter und Zollfahndungsämter.
 
-
-## § 3 – Verantwortliche Personen
+# § 3 – Verantwortliche Personen
 
 (1) Die Wirtschaftsteilnehmer und die Inhaber erster Verkaufsstellen sind im Rahmen ihrer Geschäftstätigkeit gleichermaßen verpflichtet sicherzustellen, dass nur Erzeugnisse in den Verkehr gebracht werden, die den Anforderungen dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen genügen. Soweit in den in Satz 1 bezeichneten Rechtsvorschriften ein oder mehrere Wirtschaftsteilnehmer oder die Inhaber erster Verkaufsstellen besonders verpflichtet werden, gelten diese Vorschriften zusätzlich.
 
 (2) Die Werbeverbote der §§ 19 bis 21 richten sich an den Hersteller, den Importeur, den Händler und jede natürliche oder juristische Person, die Werbung oder Sponsoring betreibt.
 
-
-## § 4 – Emissionswerte
+# § 4 – Emissionswerte
 
 (1) Zigaretten dürfen nur in der Weise hergestellt oder in den Verkehr gebracht werden, dass folgende Emissionswerte nicht überschritten werden:
 
@@ -70,8 +63,7 @@ Im Sinne dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsveror
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Höchstwerte für Emissionen festzulegen, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden oder zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist.
 
-
-## § 5 – Inhaltsstoffe
+# § 5 – Inhaltsstoffe
 
 (1) Es ist verboten, in den Verkehr zu bringen:
 
@@ -113,8 +105,7 @@ Zuständig für die Durchführung von Regelungen nach Satz 1 Nummer 5 ist das Bu
 
 (+++ § 5 Abs. 1 Nr. 1 Buchst. a: Zur Anwendung vgl. § 47 Abs. 4 +++)
 
-
-## § 6 – Warnhinweise und Verpackung
+# § 6 – Warnhinweise und Verpackung
 
 (1) Tabakerzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen mit den gesundheitsbezogenen Warnhinweisen versehen sind, die eine Rechtsverordnung nach Absatz 2 Nummer 1 für das jeweilige Erzeugnis vorschreibt.
 
@@ -124,8 +115,7 @@ Zuständig für die Durchführung von Regelungen nach Satz 1 Nummer 5 ist das Bu
 
 2. im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union vorzuschreiben, dass Tabakerzeugnisse nur in bestimmten Einheiten und in Packungen einer bestimmten Art oder Größe in den Verkehr gebracht werden dürfen.
 
-
-## § 7 – Rückverfolgbarkeit; Erkennungs- und Sicherheitsmerkmal
+# § 7 – Rückverfolgbarkeit; Erkennungs- und Sicherheitsmerkmal
 
 (1) Tabakerzeugnisse dürfen nur hergestellt oder in Verkehr gebracht werden, wenn sie einem Rückverfolgbarkeitssystem unterliegen, das den Anforderungen der Durchführungsverordnung (EU) 2018/574 und der Delegierten Verordnung (EU) 2018/573 entspricht. Unbeschadet des Artikels 6 der Durchführungsverordnung (EU) 2018/574 ist das Inverkehrbringen von Packungen von Tabakerzeugnissen nur zulässig, wenn sie mit einem fälschungssicheren Sicherheitsmerkmal versehen sind, das den Anforderungen des Artikels 3 des Durchführungsbeschlusses (EU) 2018/576 und des Artikels 16 der Richtlinie 2014/40/EU entspricht.
 
@@ -139,8 +129,7 @@ b) diese Informationen an ein Repository-System nach Nummer 3 elektronisch zu ü
 
 2. Hersteller von Tabakerzeugnissen verpflichten, den übrigen Wirtschaftsteilnehmern die technische Ausrüstung für die Erfassung und elektronische Übermittlung der Informationen nach Nummer 1 Buchstabe a bereitzustellen;
 
-2a.  
-Regelungen zur Abgabe und Übermittlung von Erklärungen über die Antimanipulationsvorrichtung nach Artikel 7 Absatz 2 der Durchführungsverordnung (EU) 2018/574 treffen;
+2a. Regelungen zur Abgabe und Übermittlung von Erklärungen über die Antimanipulationsvorrichtung nach Artikel 7 Absatz 2 der Durchführungsverordnung (EU) 2018/574 treffen;
 
 3. Hersteller und Importeure von Tabakerzeugnissen verpflichten, die Informationen nach Nummer 1 Buchstabe a durch unabhängige Dritte in einem im Gebiet der Europäischen Union befindlichen Datenspeicher verarbeiten und verwalten zu lassen und hierüber Datenspeicherungsverträge abzuschließen, sowie Vorschriften erlassen über
 
@@ -166,8 +155,7 @@ c) formale Leitlinien oder Anforderungen hinsichtlich der Sicherheit von Produkt
 
 (+++ § 7: Zur Anwendung vgl. § 47 Abs. 3 +++)
 
-
-## § 7a – Ausgabestelle; unabhängiger Anbieter
+# § 7a – Ausgabestelle; unabhängiger Anbieter
 
 (1) Die Ausgabestelle nach Artikel 3 Absatz 1 der Durchführungsverordnung (EU) 2018/574 nimmt ihre Tätigkeit der Generierung und Ausgabe der individuellen Erkennungsmerkmale und der Identifikationscodes nach den Artikeln 8, 9, 11 und 13 der Durchführungsverordnung (EU) 2018/574 als Aufgabe des Bundes wahr.
 
@@ -185,8 +173,7 @@ c) formale Leitlinien oder Anforderungen hinsichtlich der Sicherheit von Produkt
 
 (4) Mindestens eines der nach Artikel 3 Absatz 1 des Durchführungsbeschlusses (EU) 2018/576 vom Sicherheitsmerkmal umfassten Authentifizierungselemente muss von einem von der Tabakwirtschaft unabhängigen Anbieter bereitgestellt werden, der die Anforderungen des Artikels 8 des Durchführungsbeschlusses (EU) 2018/576 erfüllt. Die Tätigkeit des unabhängigen Anbieters wird als Aufgabe des Bundes wahrgenommen. Sie kann von der Ausgabestelle zusammen mit der Tätigkeit nach Absatz 1 wahrgenommen werden; Absatz 3 gilt in diesem Fall entsprechend.
 
-
-## § 7b – Verordnungsermächtigungen
+# § 7b – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mit dem Bundesministerium der Finanzen
 
@@ -210,8 +197,7 @@ c) formale Leitlinien oder Anforderungen hinsichtlich der Sicherheit von Produkt
 
 7. die Deaktivierung von Identifikationscodes nach Artikel 15 Absatz 4, Artikel 17 Absatz 4 und Artikel 19 Absatz 4 der Durchführungsverordnung (EU) 2018/574.
 
-
-## § 8 – Bestrahlung
+# § 8 – Bestrahlung
 
 (1) Es ist verboten,
 
@@ -225,8 +211,7 @@ c) formale Leitlinien oder Anforderungen hinsichtlich der Sicherheit von Produkt
 
 2. soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist, bestimmte technische Verfahren für zugelassene Bestrahlungen vorzuschreiben.
 
-
-## § 9 – Pflanzenschutzmittel
+# § 9 – Pflanzenschutzmittel
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zum Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden erforderlich ist,
 
@@ -234,8 +219,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Ei
 
 2. das Inverkehrbringen von Tabakerzeugnissen, bei denen oder bei deren Ausgangsstoffen bestimmte Pflanzenschutzmittel angewendet worden sind, zu verbieten.
 
-
-## § 10 – Kenntlichmachung
+# § 10 – Kenntlichmachung
 
 (1) Die Anwendung der aufgrund von Rechtsverordnungen nach § 8 Absatz 2 Nummer 1 zugelassenen Bestrahlung ist kenntlich zu machen. Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, in diesen Rechtsverordnungen die Art der Kenntlichmachung zu regeln sowie Ausnahmen von den Verpflichtungen zur Kenntlichmachung zuzulassen, soweit dies mit dem Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden vereinbar ist.
 
@@ -245,13 +229,11 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Ei
 
 2. vorzuschreiben, dass Tabakerzeugnissen bestimmte Angaben, insbesondere über die Anwendung dieser Stoffe, beizufügen sind.
 
-
-## § 11 – Tabakerzeugnisse zum oralen Gebrauch
+# § 11 – Tabakerzeugnisse zum oralen Gebrauch
 
 Es ist verboten, Tabakerzeugnisse zum oralen Gebrauch in den Verkehr zu bringen.
 
-
-## § 12 – Neuartige Tabakerzeugnisse
+# § 12 – Neuartige Tabakerzeugnisse
 
 (1) Neuartige Tabakerzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie zugelassen sind.
 
@@ -267,8 +249,7 @@ Es ist verboten, Tabakerzeugnisse zum oralen Gebrauch in den Verkehr zu bringen.
 
 2. Marktforschung und die erwartete Verbraucherwahrnehmung.
 
-
-## § 13 – Inhaltsstoffe von elektronischen Zigaretten und Nachfüllbehältern
+# § 13 – Inhaltsstoffe von elektronischen Zigaretten und Nachfüllbehältern
 
 (1) Elektronische Zigaretten und Nachfüllbehälter dürfen nur in den Verkehr gebracht werden, wenn
 
@@ -286,8 +267,7 @@ Es ist verboten, Tabakerzeugnisse zum oralen Gebrauch in den Verkehr zu bringen.
 
 3. Vorschriften über den Reinheitsgrad von Inhaltsstoffen zu erlassen.
 
-
-## § 14 – Beschaffenheit von elektronischen Zigaretten und Nachfüllbehältern
+# § 14 – Beschaffenheit von elektronischen Zigaretten und Nachfüllbehältern
 
 (1) Elektronische Zigaretten und Nachfüllbehälter, die Nikotin enthalten, dürfen nach Maßgabe des Satzes 2 nur in den Verkehr gebracht werden, wenn
 
@@ -305,8 +285,7 @@ Die nikotinhaltige zu verdampfende Flüssigkeit darf einen Nikotingehalt von hö
 
 2. Anforderungen an eine auslauffreie Nachfüllung festzulegen.
 
-
-## § 15 – Beipackzettel, Warnhinweis und Verpackung für elektronische Zigaretten und Nachfüllbehälter
+# § 15 – Beipackzettel, Warnhinweis und Verpackung für elektronische Zigaretten und Nachfüllbehälter
 
 (1) Elektronische Zigaretten und Nachfüllbehälter dürfen nur in den Verkehr gebracht werden
 
@@ -338,8 +317,7 @@ b) produktspezifische Angaben und Hinweise,
 
 4. vorzuschreiben, dass im Verkehr mit elektronischen Zigaretten und Nachfüllbehältern Angaben über den Gehalt an bestimmten Inhaltsstoffen zu machen sind.
 
-
-## § 16 – Allgemeine Pflichten des Herstellers, des Importeurs und des Händlers von elektronischen Zigaretten und Nachfüllbehältern
+# § 16 – Allgemeine Pflichten des Herstellers, des Importeurs und des Händlers von elektronischen Zigaretten und Nachfüllbehältern
 
 (1) Der Hersteller, der Importeur und der Händler haben jeweils im Rahmen ihrer Geschäftstätigkeit Vorkehrungen für geeignete Maßnahmen zur Vermeidung von Risiken zu treffen, die mit der elektronischen Zigarette oder dem Nachfüllbehälter verbunden sein können, die oder den sie in den Verkehr gebracht haben. Diese Maßnahmen müssen den Produkteigenschaften angemessen sein und reichen bis zur Rücknahme, zu angemessenen und wirksamen Warnungen und zum Rückruf.
 
@@ -365,15 +343,13 @@ Die Marktüberwachungsbehörde unterrichtet unverzüglich das Bundesamt für Ver
 
 (5) Der Hersteller, der Importeur und der Händler haben den Marktüberwachungsbehörden auf Anforderung zusätzliche Informationen und Unterlagen zur Verfügung zu stellen, beispielsweise über Aspekte der Sicherheit und Qualität oder über mögliche nachteilige Auswirkungen von elektronischen Zigaretten oder Nachfüllbehältern auf die Gesundheit.
 
-
-## § 17 – Pflanzliche Raucherzeugnisse
+# § 17 – Pflanzliche Raucherzeugnisse
 
 (1) Pflanzliche Raucherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn die Packungen und Außenverpackungen mit gesundheitsbezogenen Warnhinweisen versehen sind.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung von Rechtsakten der Europäischen Union Inhalt, Art und Weise, Umfang und das Verfahren der Kennzeichnung mit gesundheitsbezogenen Warnhinweisen zu regeln.
 
-
-## § 18 – Verbote zum Schutz vor Täuschung
+# § 18 – Verbote zum Schutz vor Täuschung
 
 (1) Es ist verboten,
 
@@ -409,8 +385,7 @@ c) geeignet sind, den Anschein einer besseren als der tatsächlichen Beschaffenh
 
 (5) Für pflanzliche Raucherzeugnisse gelten die Verbote nach Absatz 2 Satz 1 und 2 Nummer 1, 2 und 4 entsprechend. Es ist ferner verboten, pflanzliche Raucherzeugnisse in den Verkehr zu bringen, bei denen Packungen oder Außenverpackungen werbliche Informationen aufweisen, die sich auf das Fehlen von Zusatz- oder Aromastoffen beziehen.
 
-
-## § 19 – Verbot der Hörfunkwerbung, der Werbung in Druckerzeugnissen und in Diensten der Informationsgesellschaft, Verbot des Sponsorings
+# § 19 – Verbot der Hörfunkwerbung, der Werbung in Druckerzeugnissen und in Diensten der Informationsgesellschaft, Verbot des Sponsorings
 
 (1) Es ist verboten, für Tabakerzeugnisse, elektronische Zigaretten oder Nachfüllbehälter im Hörfunk zu werben.
 
@@ -432,25 +407,21 @@ c) geeignet sind, den Anschein einer besseren als der tatsächlichen Beschaffenh
 
 3. die Veranstaltung oder Aktivität eine sonstige grenzüberschreitende Wirkung hat.
 
-
-## § 20 – Verbot der audiovisuellen kommerziellen Kommunikation
+# § 20 – Verbot der audiovisuellen kommerziellen Kommunikation
 
 Es ist verboten, audiovisuelle kommerzielle Kommunikation im Sinne des Artikels 1 Absatz 1 Buchstabe h der Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010 zur Koordinierung bestimmter Rechts-und Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung audiovisueller Mediendienste (Richtlinie über audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1), die durch die Richtlinie (EU) 2018/1808 (ABl. L 303 vom 28.11.2018, S. 69) geändert worden ist, für Tabakerzeugnisse, elektronische Zigaretten oder Nachfüllbehälter oder zugunsten von Unternehmen, deren Haupttätigkeit die Herstellung oder der Verkauf dieser Erzeugnisse ist, zu betreiben.
 
-
-## § 20a – Verbot der Außenwerbung
+# § 20a – Verbot der Außenwerbung
 
 Es ist verboten, Außenwerbung für Tabakerzeugnisse, elektronische Zigaretten oder Nachfüllbehälter zu betreiben. Satz 1 gilt nicht für Werbung an Außenflächen einschließlich dazugehöriger Fensterflächen von Geschäftsräumen des Fachhandels.
 
-
-## § 20b – Verbot der kostenlosen Abgabe und der Ausspielung
+# § 20b – Verbot der kostenlosen Abgabe und der Ausspielung
 
 (1) Es ist verboten, Zigaretten, Tabak zum Selbstdrehen oder Wasserpfeifentabak außerhalb von Geschäftsräumen des Fachhandels gewerbsmäßig kostenlos abzugeben.
 
 (2) Es ist verboten, Tabakerzeugnisse, elektronische Zigaretten oder Nachfüllbehälter gewerbsmäßig auszuspielen.
 
-
-## § 21 – Verbot von Werbung mit qualitativen Zielen
+# § 21 – Verbot von Werbung mit qualitativen Zielen
 
 (1) Es ist verboten, im Verkehr mit Tabakerzeugnissen oder in der Werbung dafür werbliche Informationen zu verwenden,
 
@@ -468,8 +439,7 @@ Es ist verboten, Außenwerbung für Tabakerzeugnisse, elektronische Zigaretten o
 
 2. die Verwendung von Darstellungen oder Äußerungen von Angehörigen bestimmter Personengruppen zu verbieten oder zu beschränken.
 
-
-## § 22 – Grenzüberschreitender Fernabsatz an Verbraucher; Datenschutz
+# § 22 – Grenzüberschreitender Fernabsatz an Verbraucher; Datenschutz
 
 (1) Wer grenzüberschreitenden Fernabsatz von Tabakerzeugnissen, elektronischen Zigaretten oder Nachfüllbehältern an Verbraucherinnen und Verbraucher in der Europäischen Union betreiben will, muss
 
@@ -507,8 +477,7 @@ b) bei der zuständigen Behörde des Mitgliedstaates der Europäischen Union, in
 
 2. die Zuständigkeit für die Registrierung nach Absatz 2 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a und Nummer 3 ganz oder teilweise auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zu übertragen.
 
-
-## § 23 – Ermächtigungen
+# § 23 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -553,20 +522,17 @@ b) dass Erzeugnisse, die bestimmten Anforderungen an die Herstellung, Zusammense
 
 erlassenen Rechtsverordnung nicht eingehalten worden sind, dürfen nicht in den Verkehr gebracht werden.
 
-
-## § 24 – Allgemeine Anforderungen an das Inverkehrbringen von Bedarfsgegenständen
+# § 24 – Allgemeine Anforderungen an das Inverkehrbringen von Bedarfsgegenständen
 
 Bedarfsgegenstände dürfen nur in den Verkehr gebracht werden, wenn sie aufgrund ihrer stofflichen Zusammensetzung, insbesondere durch toxikologisch wirksame Stoffe oder Verunreinigungen, die Sicherheit und Gesundheit von Verbraucherinnen und Verbrauchern bei bestimmungsgemäßer oder vorhersehbarer Verwendung nicht gefährden.
 
-
-## § 25 – Übergang von Stoffen auf Erzeugnisse
+# § 25 – Übergang von Stoffen auf Erzeugnisse
 
 (1) Es ist verboten, Bedarfsgegenstände so zu verwenden oder für solche Verwendungszwecke in den Verkehr zu bringen, dass von ihnen Stoffe auf Erzeugnisse übergehen. Davon ausgenommen sind stoffliche Anteile, deren Übergang gesundheitlich, geruchlich und geschmacklich unbedenklich und technisch unvermeidbar ist.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies mit dem Schutz der Verbraucherinnen und Verbraucher vor Gesundheitsschäden vereinbar ist, für bestimmte Stoffe die Anteile festzusetzen, deren Übergang als unbedenklich und unvermeidbar im Sinne des Absatzes 1 anzusehen ist. Das Bundesministerium für Ernährung und Landwirtschaft kann die Ermächtigung durch Rechtsverordnung mit Zustimmung des Bundesrates auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übertragen. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit bedarf zum Erlass solcher Rechtsverordnungen nicht der Zustimmung des Bundesrates.
 
-
-## § 26 – Ermächtigungen
+# § 26 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies erforderlich ist, um eine Gefährdung der Sicherheit und Gesundheit von Personen zu vermeiden,
 
@@ -592,15 +558,13 @@ sowie die Art der Kenntlichmachung zu regeln.
 
 (3) Rechtsverordnungen nach Absatz 1 bedürfen des Einvernehmens mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 27 – Zuständigkeit und Zusammenarbeit
+# § 27 – Zuständigkeit und Zusammenarbeit
 
 (1) Vorbehaltlich des Satzes 2 obliegt die Marktüberwachung den nach Landesrecht zuständigen Behörden. Zuständigkeiten zur Durchführung dieses Gesetzes, die durch andere Rechtsvorschriften zugewiesen sind, bleiben unberührt. Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt die Marktüberwachung dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
 (2) Die in Absatz 1 genannten Marktüberwachungsbehörden arbeiten mit den Zollbehörden gemäß Kapitel III Abschnitt 3 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) zusammen. Im Rahmen dieser Zusammenarbeit können die Zollbehörden den Marktüberwachungsbehörden auf Ersuchen die Informationen übermitteln, die sie bei der Überführung von Produkten in den zollrechtlich freien Verkehr erlangt haben und die für die Aufgabenerfüllung der Marktüberwachungsbehörden erforderlich sind. Aussetzungen der Freigabe zum freien Verkehr nach Artikel 27 Absatz 3 Satz 1 der Verordnung (EG) Nr. 765/2008 sind der Marktüberwachungsbehörde zu melden, die für die Zollstelle örtlich zuständig ist.
 
-
-## § 28 – Aufgaben der Marktüberwachungsbehörden
+# § 28 – Aufgaben der Marktüberwachungsbehörden
 
 (1) Die Marktüberwachungsbehörden haben eine wirksame Marktüberwachung auf der Grundlage eines Überwachungskonzepts zu gewährleisten. Das Überwachungskonzept soll insbesondere umfassen:
 
@@ -616,8 +580,7 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 (4) Die Marktüberwachungsbehörden leisten den Marktüberwachungsbehörden anderer Mitgliedstaaten der Europäischen Union in dem für deren Aufgabenerfüllung erforderlichen Umfang Amtshilfe. Dafür stellen sie die erforderlichen Informationen und Unterlagen bereit, führen geeignete Untersuchungen oder andere angemessene Maßnahmen durch und beteiligen sich an Untersuchungen, die in anderen Mitgliedstaaten der Europäischen Union eingeleitet wurden.
 
-
-## § 29 – Marktüberwachungsmaßnahmen
+# § 29 – Marktüberwachungsmaßnahmen
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Art und Weise und in angemessenem Umfang, ob die Erzeugnisse die Anforderungen dieses Gesetzes, der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses Gesetzes erfüllen. Dazu überprüfen sie die Unterlagen oder führen, wenn dies angezeigt ist, physische Kontrollen und Laborprüfungen durch. Die Marktüberwachungsbehörden berücksichtigen bei ihrer Kontrolle die geltenden Grundsätze der Risikobewertung, eingegangene Beschwerden und sonstige Informationen.
 
@@ -647,13 +610,11 @@ Die Marktüberwachungsbehörden sind des Weiteren befugt, Maßnahmen anzuordnen,
 
 (6) Stellt die Marktüberwachungsbehörde fest oder hat sie hinreichend Anlass zur Besorgnis, dass elektronische Zigaretten und Nachfüllbehälter eine ernste Gefahr für die Gesundheit darstellen, obwohl sie den Anforderungen dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen genügen, so kann sie geeignete vorläufige Maßnahmen ergreifen. Die Marktüberwachungsbehörde unterrichtet die Kommission und die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union unverzüglich über die ergriffenen Maßnahmen und übermittelt ihnen alle zugrunde liegenden Daten.
 
-
-## § 30 – Adressaten der Marktüberwachungsmaßnahmen
+# § 30 – Adressaten der Marktüberwachungsmaßnahmen
 
 Die Maßnahmen der Marktüberwachungsbehörde sind gegen den nach § 3 Verpflichteten gerichtet.
 
-
-## § 31 – Betretensrechte und Befugnisse, Probenahme
+# § 31 – Betretensrechte und Befugnisse, Probenahme
 
 (1) Die Marktüberwachungsbehörden und die von ihnen beauftragten Personen sind, soweit dies zur Erfüllung ihrer Überwachungsaufgaben erforderlich ist, befugt, zu den Betriebs- und Geschäftszeiten Geschäftsräume und Betriebsgrundstücke zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit Erzeugnisse
 
@@ -673,13 +634,11 @@ Sie sind befugt, diese Erzeugnisse zu besichtigen, zu prüfen oder prüfen zu la
 
 (4) Für Proben, die im Rahmen der amtlichen Überwachung nach diesem Gesetz entnommen werden, wird grundsätzlich keine Entschädigung geleistet. Im Einzelfall ist eine Entschädigung bis zur Höhe des Verkaufspreises zu leisten, wenn andernfalls eine unbillige Härte eintreten würde.
 
-
-## § 32 – Duldungs- und Mitwirkungspflichten
+# § 32 – Duldungs- und Mitwirkungspflichten
 
 Die nach § 3 Verpflichteten haben Maßnahmen nach § 31 Absatz 1 bis 3 zu dulden sowie die Marktüberwachungsbehörden und deren Beauftragte zu unterstützen. Die nach § 3 Verpflichteten erteilen der Marktüberwachungsbehörde auf Verlangen die Auskünfte, die für deren Aufgabenerfüllung erforderlich sind. Die Auskunftspflichtigen können die Auskunft auf Fragen verweigern, wenn die Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Sie sind über ihr Recht zur Auskunftsverweigerung zu belehren.
 
-
-## § 33 – Ermächtigungen
+# § 33 – Ermächtigungen
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, um eine einheitliche Durchführung der Überwachung zu fördern, durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
@@ -691,8 +650,7 @@ b) die Voraussetzungen und das Verfahren für die Zulassung privater Sachverstä
 
 2. Vorschriften über Verfahren zur Probenahme und Untersuchung von Erzeugnissen zu erlassen.
 
-
-## § 34 – Strafvorschriften
+# § 34 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -756,8 +714,7 @@ ein Erzeugnis in den Verkehr bringt,
 
 soweit eine Rechtsverordnung nach § 37 Nummer 1 für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
-
-## § 35 – Bußgeldvorschriften
+# § 35 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in § 34 bezeichnete Handlung fahrlässig begeht.
 
@@ -831,13 +788,11 @@ soweit eine Rechtsverordnung nach § 37 Nummer 2 für einen bestimmten Tatbestan
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 1 Buchstabe b und des Absatzes 3 Nummer 1 Buchstabe b mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen der Absätze 1, 2 Nummer 1 Buchstabe a, Nummer 2, 3, 5 bis 9 und des Absatzes 3 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 2 Nummer 4 und 12 und des Absatzes 3 Nummer 2 Buchstabe b mit einer Geldbuße bis zu zehntausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 36 – Einziehung
+# § 36 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 34 oder eine Ordnungswidrigkeit nach § 35 Absatz 1, 2 oder 3 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 37 – Ermächtigungen
+# § 37 – Ermächtigungen
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, soweit es zur Durchführung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die
 
@@ -845,13 +800,11 @@ Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, sowei
 
 2. als Ordnungswidrigkeit nach § 35 Absatz 3 geahndet werden können.
 
-
-## § 38 – Amtliche Sammlung von Untersuchungsverfahren
+# § 38 – Amtliche Sammlung von Untersuchungsverfahren
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht eine amtliche Sammlung von Verfahren zur Probenahme und Untersuchung von Erzeugnissen im Sinne des § 2 Nummer 1 und von Bedarfsgegenständen. Die Verfahren werden unter Mitwirkung von Sachkennern aus den Bereichen der Überwachung, der Wissenschaft, der Verbraucherschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung ist laufend auf dem neuesten Stand zu halten.
 
-
-## § 39 – Zulassung von Ausnahmen
+# § 39 – Zulassung von Ausnahmen
 
 (1) Von den Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen können im Einzelfall auf Antrag Ausnahmen nach Maßgabe der Absätze 2 und 3 zugelassen werden. Satz 1 gilt nicht für die Verbote der §§ 19 bis 21.
 
@@ -867,8 +820,7 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht 
 
 (7) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in den Fällen des Absatzes 2 Vorschriften über das Verfahren für die Zulassung von Ausnahmen, insbesondere über Inhalt, Art und Umfang der vom Antragsteller beizubringenden Nachweise und sonstigen Unterlagen sowie über die Veröffentlichung von Anträgen oder erteilten Ausnahmen zu erlassen.
 
-
-## § 40 – Erzeugnisse aus anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 40 – Erzeugnisse aus anderen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Erzeugnisse, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum rechtmäßig hergestellt und rechtmäßig in den Verkehr gebracht werden oder die aus einem Drittland stammen und sich in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum rechtmäßig im Verkehr befinden, dürfen in das Inland verbracht und hier in den Verkehr gebracht werden, auch wenn sie den in der Bundesrepublik Deutschland geltenden Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen nicht entsprechen.
 
@@ -878,8 +830,7 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit veröffentlicht 
 
 (4) Allgemeinverfügungen nach Absatz 2 sind von demjenigen zu beantragen, der die Erzeugnisse nach Deutschland zu verbringen beabsichtigt. Dem Antrag sind eine genaue Beschreibung des Erzeugnisses sowie die für die Entscheidung erforderlichen verfügbaren Unterlagen beizufügen. Über den Antrag ist in angemessener Frist zu entscheiden. Sofern innerhalb von 90 Tagen eine endgültige Entscheidung über den Antrag noch nicht möglich ist, ist der Antragsteller über die Gründe zu unterrichten.
 
-
-## § 41 – Vorübergehende Verbringungsverbote
+# § 41 – Vorübergehende Verbringungsverbote
 
 Die zuständigen Behörden dürfen die Einfuhr oder das sonstige Verbringen von Erzeugnissen im Sinne dieses Gesetzes in das Inland im Einzelfall vorübergehend verbieten oder beschränken, wenn
 
@@ -887,8 +838,7 @@ Die zuständigen Behörden dürfen die Einfuhr oder das sonstige Verbringen von 
 
 2. Tatsachen vorliegen, die darauf schließen lassen, dass die Erzeugnisse geeignet sind, die menschliche Gesundheit zu gefährden.
 
-
-## § 42 – Ausfuhr
+# § 42 – Ausfuhr
 
 (1) Auf Erzeugnisse, die zur Lieferung in das Ausland bestimmt sind, finden die Vorschriften dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen keine Anwendung, soweit nicht in diesem Gesetz oder in aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder in Rechtsakten der Europäischen Union etwas anderes bestimmt ist. Auf Verlangen der zuständigen Behörde hat derjenige, der Erzeugnisse der in Satz 1 genannten Art, die den Vorschriften dieses Gesetzes oder der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen nicht entsprechen, herstellt oder im Ausland in den Verkehr zu bringen beabsichtigt, durch geeignete Mittel glaubhaft zu machen, dass die Erzeugnisse ausgeführt werden, und nachzuweisen, dass die Erzeugnisse den Anforderungen der in Satz 1 zweiter Halbsatz genannten Vorschriften entsprechen.
 
@@ -898,8 +848,7 @@ Die zuständigen Behörden dürfen die Einfuhr oder das sonstige Verbringen von 
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, zur Durchführung von Rechtsakten der Europäischen Union durch Rechtsverordnung mit Zustimmung des Bundesrates, das Verbringen von Erzeugnissen in andere Mitgliedstaaten der Europäischen Union oder andere Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder in Drittländer zu verbieten oder zu beschränken.
 
-
-## § 43 – Rechtsverordnungen in Dringlichkeitsfällen
+# § 43 – Rechtsverordnungen in Dringlichkeitsfällen
 
 (1) Rechtsverordnungen nach diesem Gesetz können bei Gefahr im Verzug oder, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Union erforderlich ist, ohne Zustimmung des Bundesrates erlassen werden.
 
@@ -909,25 +858,21 @@ Die zuständigen Behörden dürfen die Einfuhr oder das sonstige Verbringen von 
 
 (4) Rechtsverordnungen in den Fällen der Absätze 1 und 2 können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 44 – Rechtsverordnungen zur Angleichung an Unionsrecht
+# § 44 – Rechtsverordnungen zur Angleichung an Unionsrecht
 
 (1) Rechtsverordnungen nach diesem Gesetz können auch zum Zweck der Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies zur Durchführung von Rechtsakten der Europäischen Union, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft kann ferner Rechtsverordnungen nach diesem Gesetz, die ausschließlich der Umsetzung verbindlicher technischer Vorschriften aus Rechtsakten der Europäischen Union dienen, ohne Zustimmung des Bundesrates erlassen.
 
-
-## § 45 – Übertragung von Ermächtigungen
+# § 45 – Übertragung von Ermächtigungen
 
 In den Rechtsverordnungen aufgrund dieses Gesetzes kann die jeweilige Ermächtigung ganz oder teilweise auf die Landesregierungen übertragen werden. Soweit eine nach Satz 1 erlassene Rechtsverordnung die Landesregierungen zum Erlass von Rechtsverordnungen ermächtigt, sind die Landesregierungen befugt, die Ermächtigung durch Rechtsverordnung ganz oder teilweise auf andere Behörden zu übertragen.
 
-
-## § 46 – Ermächtigung zur Anpassung von Rechtsverordnungen
+# § 46 – Ermächtigung zur Anpassung von Rechtsverordnungen
 
 Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Rechtsverordnungen, die aufgrund der Regelungen dieses Gesetzes angepasst werden müssen, in dem erforderlichen Umfang zu ändern.
 
-
-## § 47 – Übergangsregelungen
+# § 47 – Übergangsregelungen
 
 (1) Tabakerzeugnisse und pflanzliche Raucherzeugnisse, die
 

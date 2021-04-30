@@ -1,22 +1,17 @@
-# [NatPHHarzV] Verordnung über die Festsetzung des Nationalparks Hochharz
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung des Nationalparks Hochharz
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12 und 14 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) Der Hochharz wird in dem in § 2 näher bezeichneten Umfang als Nationalpark festgesetzt.
 
 (2) Der Nationalpark erhält die Bezeichnung "Nationalpark Hochharz".
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Der Nationalpark umfaßt wesentliche Teile des Granitbereiches im Brockenmassiv und Teile der angrenzenden Kontaktzone zwischen 500 m und 1.142 m ü. NN. Das Gebiet wird beherrscht von Bergfichtenwäldern, so dem Bärlapp-Block-Fichtenwald, dem Reitgras-Fichtenwald und Moorfichtenwäldern. Eingestreut in die Fichtenwälder sind Kamm- und Sattelmoore sowie ein im mitteleuropäischen Maßstab einmaliger Komplex von Hangmooren. Die subalpine Mattenvegetation konzentriert sich auf den Bereich der Brockenkuppe oberhalb der Waldgrenze. Im Bereich des Bergfichtenwaldes und der waldfreien Vegetationseinheiten treten noch artenreiche Moos- und Flechtengesellschaften auf. Mit zahlreichen Fließgewässern bildet der Nationalpark wichtige Einzugsgebiete der Bode, Ilse und Ecker. Das Gebiet ist Refugium gefährdeter, zum Teil nur im Harz vorkommender Pflanzen- und Tierarten. In den randlichen Lagen finden sich Fichtenforste, Buchenwälder und Schluchtwälder.
 
@@ -38,8 +33,7 @@ Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl.
 
 (4) Die Grenze des Nationalparkes ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Die Grenze des Nationalparkes ist in Forstkarten M 1:10.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Kreisverwaltung Wernigerode und bei der Nationalparkverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Mit der Festsetzung zum Nationalpark Hochharz wird bezweckt, eine in Mitteleuropa einmalige Mittelgebirgslandschaft mit Bergfichtenwäldern und unterschiedlichen Moortypen in den Hochlagen des Harzes zu erhalten.
 
@@ -53,8 +47,7 @@ Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl.
 
 (6) In dem Nationalpark wird keine wirtschaftsbestimmte Nutzung bezweckt; er soll aber zur Strukturverbesserung der außerhalb des Nationalparks gelegenen Region (Nationalparkregion) beitragen.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Die Fläche des Nationalparkes wird in die Schutzzonen I und II gegliedert.
 
@@ -71,8 +64,7 @@ Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl.
 5. Totalreservat Hohneklippen mit der Forstabteilung 183a 1.
 
 (3) Die Schutzzone II (Entwicklungs- und Pflegezone) gliedert sich in eine Entwicklungszone IIa und eine Pflegezone IIb. Die Entwicklungszone IIa besteht aus den nachfolgend genannten Forstabteilungen (Abt.):  
-133, 134, 135, 167, 168, 169, 171, 172, 184, 222, 679, 680, 681 sowie die Abt. 183 a 2-3; im Forstrevier Hanneckenbruch die Abteilungen 307, 308, 384, 385, 396, 397, 398, 435, 436; im Forstrevier Winterberg Abt. 501, 502, 503, 504, 505, 506, 507, 508, 512, 513, 517, 518, 519, 520, 521, 522, 523, 524, 525, 530, 538, 541, 542, 543, 545, 546, 547, 548, 549, 550, 551, 552, 553, und 599; Abt. 563, 565, 566, 567 und 568 des Forstreviers Scharfenstein; im Forstrevier Schierke die Abteilungen 624, 628, 629, 630, 631, 632, 633, 634, 636, 637, 639, 640, 641, 649, 672, 673, 674, 675, 676, 677 und 678 sowie die Abteilungen 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 752, 753, 754, 755, 773, 774, 775, und 776 des Forstreviers Zinne.  
-Die Pflegezone IIb umfaßt alle nicht unter Absatz 1 und 2 genannten Flächen des Nationalparks. Es sind die Forstabteilungen:
+133, 134, 135, 167, 168, 169, 171, 172, 184, 222, 679, 680, 681 sowie die Abt. 183 a 2-3; im Forstrevier Hanneckenbruch die Abteilungen 307, 308, 384, 385, 396, 397, 398, 435, 436; im Forstrevier Winterberg Abt. 501, 502, 503, 504, 505, 506, 507, 508, 512, 513, 517, 518, 519, 520, 521, 522, 523, 524, 525, 530, 538, 541, 542, 543, 545, 546, 547, 548, 549, 550, 551, 552, 553, und 599; Abt. 563, 565, 566, 567 und 568 des Forstreviers Scharfenstein; im Forstrevier Schierke die Abteilungen 624, 628, 629, 630, 631, 632, 633, 634, 636, 637, 639, 640, 641, 649, 672, 673, 674, 675, 676, 677 und 678 sowie die Abteilungen 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 752, 753, 754, 755, 773, 774, 775, und 776 des Forstreviers Zinne. Die Pflegezone IIb umfaßt alle nicht unter Absatz 1 und 2 genannten Flächen des Nationalparks. Es sind die Forstabteilungen:
 
 1. 514, 515, 516, 522, 523, 524, 525, 526, 527, 528, 529, 559, 560, 561, 562, 570, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596 und 597;
 
@@ -86,8 +78,7 @@ Die Pflegezone IIb umfaßt alle nicht unter Absatz 1 und 2 genannten Flächen de
 
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 4 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Nationalpark ist es geboten,
 
@@ -107,8 +98,7 @@ Die Pflegezone IIb umfaßt alle nicht unter Absatz 1 und 2 genannten Flächen de
 
 (2) Zur Umsetzung der in Abs. 1 genannten Gebote sowie zur Erhaltung, Pflege und Entwicklung des Nationalparkes soll in angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Nationalpark ist jede Zerstörung, Beschädigung oder Veränderung der Landschaft und ihrer Bestandteile verboten. Insbesondere ist es verboten,
 
@@ -174,8 +164,7 @@ d) Einfriedungen oder Absperrungen, die nicht dem Schutzziel dienen;
 
 (2) In der Schutzzone I ist jegliche Nutzung verboten.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -191,8 +180,7 @@ d) Einfriedungen oder Absperrungen, die nicht dem Schutzziel dienen;
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Nationalparks (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -206,8 +194,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Nationalparkverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei
 
@@ -217,34 +204,28 @@ Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1469)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

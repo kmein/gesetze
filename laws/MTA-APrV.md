@@ -1,15 +1,11 @@
-# [MTA-APrV] Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin  (MTA-APrV)
-
-Ausfertigungsdatum: 25.04.1994
-
+% Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin  (MTA-APrV)
+% Ausfertigungsdatum: 25.04.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 des MTA-Gesetzes vom 2. August 1993 (BGBl. I S. 1402) verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
-
-## § 1 – Ausbildung
+# § 1 – Ausbildung
 
 (1) Die dreijährigen Ausbildungen der technischen Assistenten in der Medizin umfassen für den Ausbildungszweig
 
@@ -27,15 +23,13 @@ Im Unterricht muß den Schülern ausreichende Möglichkeit gegeben werden, die e
 
 (3) Die regelmäßige und erfolgreiche Teilnahme an den Ausbildungsveranstaltungen nach den Absätzen 1 und 2 ist durch eine Bescheinigung nach dem Muster der Anlage 5 nachzuweisen.
 
-
-## § 2 – Staatliche Prüfung
+# § 2 – Staatliche Prüfung
 
 (1) Die staatliche Prüfung für die Ausbildungen nach § 1 des Gesetzes umfaßt jeweils einen schriftlichen, einen mündlichen und einen praktischen Teil.
 
 (2) Der Prüfling legt die Prüfung bei der Schule für technische Assistenten in der Medizin (Schule) ab, an der er die Ausbildung abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören.
 
-
-## § 3 – Prüfungsausschuß
+# § 3 – Prüfungsausschuß
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus folgenden Mitgliedern besteht:
 
@@ -59,8 +53,7 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 4 – Zulassung zur Prüfung
+# § 4 – Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleitung fest. Der Prüfungstermin soll nicht früher als zwei Monate vor dem Ende der Ausbildung liegen.
 
@@ -74,13 +67,11 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (4) Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 5 – Niederschrift
+# § 5 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 6 – Benotung
+# § 6 – Benotung
 
 Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und praktischen Prüfung werden wie folgt benotet:
 
@@ -102,8 +93,7 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 \-  
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 7 – Bestehen und Wiederholung der Prüfung
+# § 7 – Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1 vorgeschriebenen Prüfungsteile bestanden ist.
 
@@ -113,32 +103,27 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 (4) Hat der Prüfling ein Fach der praktischen Prüfung oder die gesamte praktische Prüfung zu wiederholen, so darf er zur Wiederholungsprüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses bestimmt werden. Die weitere Ausbildung darf einschließlich der für die Prüfung erforderlichen Zeit die Dauer von einem Jahr nicht überschreiten. Ein Nachweis über die weitere Ausbildung ist dem Antrag des Prüflings auf Zulassung zur Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein; Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
-## § 8 – Rücktritt von der Prüfung
+# § 8 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück, so hat er die Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, so gilt die Prüfung als nicht unternommen. Die Genehmigung ist nur zu erteilen, wenn wichtige Gründe vorliegen. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterläßt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 7 Abs. 3 gilt entsprechend.
 
-
-## § 9 – Versäumnisfolgen
+# § 9 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, so gilt die Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 7 Abs. 3 gilt entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft der Vorsitzende des Prüfungsausschusses. § 8 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
-## § 10 – Ordnungsverstöße und Täuschungsversuche
+# § 10 – Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuches schuldig gemacht haben, den betreffenden Teil der Prüfung für nicht bestanden erklären; § 7 Abs. 3 gilt entsprechend. Eine solche Entscheidung ist nur bis zum Abschluß der gesamten Prüfung zulässig. Die Rücknahme einer Prüfungsentscheidung wegen Täuschung ist nur innerhalb von drei Jahren nach Abschluß der Prüfung zulässig.
 
-
-## § 11 – Prüfungsunterlagen
+# § 11 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 12 – Schriftlicher Teil der Prüfung
+# § 12 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -160,8 +145,7 @@ die Note der Aufsichtsarbeit in der Fächergruppe 2 mit dem Faktor 2.
 
 Die Summe der gewichteten Noten wird durch die Summe der Faktoren geteilt.
 
-
-## § 13 – Mündlicher Teil der Prüfung
+# § 13 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -179,8 +163,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den einz
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
-
-## § 14 – Praktischer Teil der Prüfung
+# § 14 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -204,8 +187,7 @@ der Prüfling hat eine Aufgabe zur Anzüchtung, Isolierung, Identifizierung und 
 
 (3) Der praktische Teil der Prüfung soll innerhalb von vier Wochen abgeschlossen sein. In der Prüfung ist vom Prüfling in jedem Fach eine kurze Aufzeichnung anzufertigen, in der Prinzip, Arbeitsgang und Fehlermöglichkeiten sowie das Ergebnis mit Interpretation dargestellt werden.
 
-
-## § 15 – Schriftlicher Teil der Prüfung
+# § 15 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -215,8 +197,7 @@ der Prüfling hat eine Aufgabe zur Anzüchtung, Isolierung, Identifizierung und 
 
 (2) § 12 Abs. 1 Satz 2 bis 5, Abs. 2 und 3 gilt entsprechend.
 
-
-## § 16 – Mündlicher Teil der Prüfung
+# § 16 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -230,8 +211,7 @@ der Prüfling hat eine Aufgabe zur Anzüchtung, Isolierung, Identifizierung und 
 
 (2) § 13 Abs. 1 Satz 2 und 3, Abs. 2 und 3 gilt entsprechend.
 
-
-## § 17 – Praktischer Teil der Prüfung
+# § 17 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -253,8 +233,7 @@ der Prüfling hat je eine Meßaufgabe aus dem Gebiet der Dosimetrie und des Stra
 
 (2) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 18 – Schriftlicher Teil der Prüfung
+# § 18 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -264,8 +243,7 @@ der Prüfling hat je eine Meßaufgabe aus dem Gebiet der Dosimetrie und des Stra
 
 (2) § 12 Abs. 1 Satz 2 bis 5, Abs. 2 und 3 gilt entsprechend.
 
-
-## § 19 – Mündlicher Teil der Prüfung
+# § 19 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -279,8 +257,7 @@ der Prüfling hat je eine Meßaufgabe aus dem Gebiet der Dosimetrie und des Stra
 
 (2) § 13 Abs. 1 Satz 2 und 3, Abs. 2 und 3 gilt entsprechend.
 
-
-## § 20 – Praktischer Teil der Prüfung
+# § 20 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -302,8 +279,7 @@ der Prüfling hat zwei vorfelddiagnostische Methoden (Spirometrie, Peak-Flow-Mes
 
 (2) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 21 – Schriftlicher Teil der Prüfung
+# § 21 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -313,8 +289,7 @@ der Prüfling hat zwei vorfelddiagnostische Methoden (Spirometrie, Peak-Flow-Mes
 
 (2) § 12 Abs. 1 Satz 2 bis 5, Abs. 2 und 3 gilt entsprechend.
 
-
-## § 22 – Mündlicher Teil der Prüfung
+# § 22 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -330,8 +305,7 @@ der Prüfling hat zwei vorfelddiagnostische Methoden (Spirometrie, Peak-Flow-Mes
 
 (2) § 13 Abs. 1 Satz 2 und 3, Abs. 2 und 3 gilt entsprechend.
 
-
-## § 23 – Praktischer Teil der Prüfung
+# § 23 – Praktischer Teil der Prüfung
 
 Der praktische Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -357,13 +331,11 @@ der Prüfling hat je eine organoleptische, chemische, histologische und mikrobio
 
 (2) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 24 – Erlaubnisurkunden
+# § 24 – Erlaubnisurkunden
 
 Liegen die Voraussetzungen nach § 2 des Gesetzes für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnungen nach § 1 des Gesetzes vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 7 aus.
 
-
-## § 25 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+# § 25 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr. 2 vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem des Medizinisch-technischen Laboratoriumsassistenten, des Medizinisch-technischen Radiologieassistenten, des Medizinisch-technischen Assistenten für Funktionsdiagnostik oder des Veterinärmedizinisch-technischen Assistenten entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des Gesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 des Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -377,8 +349,7 @@ Liegen die Voraussetzungen nach § 2 des Gesetzes für die Erteilung der Erlaubn
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 25a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 25a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des MTA-Gesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 2 Absatz 3 Satz 7 des MTA-Gesetzes erworben haben.
 
@@ -398,8 +369,7 @@ Liegen die Voraussetzungen nach § 2 des Gesetzes für die Erteilung der Erlaubn
 
 (9) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 10a Absatz 3 Satz 6 des MTA-Gesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 8 Satz 1 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 25 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 25b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 25b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des MTA-Gesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 2 Satz 5 des MTA-Gesetzes vorliegenden Umstände nicht durchgeführt wird.
 
@@ -419,8 +389,7 @@ Liegen die Voraussetzungen nach § 2 des Gesetzes für die Erteilung der Erlaubn
 
 (9) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 9 erteilt.
 
-
-## § 25c – Fristen, Bescheide, Durchführungsbestimmungen
+# § 25c – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis als Medizinisch-technische Laboratoriumsassistentin oder Medizinisch-technischer Laboratoriumsassistent nach § 1 Absatz 1 Nummer 1 des MTA-Gesetzes, als Medizinisch-technische Radiologieassistentin oder Medizinisch-technischer Radiologieassistent nach § 1 Absatz 1 Nummer 2 des MTA-Gesetzes, als Medizinisch-technische Assistentin für Funktionsdiagnostik oder Medizinisch-technischer Assistent für Funktionsdiagnostik nach § 1 Absatz 1 Nummer 3 des MTA-Gesetzes oder als Veterinärmedizinisch-technische Assistentin oder Veterinärmedizinisch-technischer Assistent nach § 1 Absatz 1 Nummer 4 des MTA-Gesetzes jeweils in Verbindung mit § 2 Absatz 2, 3, 3a oder Absatz 4 des MTA-Gesetzes kurzfristig, spätestens vier Monate, nach Vorlage der für Entscheidungen nach § 2 des MTA-Gesetzes erforderlichen Unterlagen zu entscheiden. Im Falle des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -438,20 +407,17 @@ Liegen die Voraussetzungen nach § 2 des Gesetzes für die Erteilung der Erlaubn
 
 § 25b Abs. 2 Nr. 3 Kursivdruck: In Art. 10 Nr. 5 V v. 2.8.2013 I 3005 als "Laboratorimsassistenten" bezeichnet
 
-
-## § 26 – Inkrafttreten
+# § 26 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig tritt, soweit sich nicht aus § 13 Abs. 3 und 4 des Gesetzes etwas anderes ergibt, die Ausbildungs- und Prüfungsordnung für technische Assistenten in der Medizin vom 20. Juni 1972 (BGBl. I S. 929), zuletzt geändert durch Anlage I Kapitel X Sachgebiet D Abschnitt II Nr. 19 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1081), außer Kraft.
 
 § 26 Satz 2 Kursiv: Aufhebungsvorschrift mit Übergangsregelung
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1 Nr. 1)
+# Anlage 1 – (zu § 1 Abs. 1 Nr. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 928 - 933)
 
@@ -2005,8 +1971,7 @@ Stundenzahl insgesamt
 
 1.230
 
-
-## Anlage 2 – (zu § 1 Abs. 1 Nr. 2)
+# Anlage 2 – (zu § 1 Abs. 1 Nr. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 934 - 939)
 
@@ -3570,8 +3535,7 @@ Stundenzahl insgesamt
 
  
 
-
-## Anlage 3 – (zu § 1 Abs. 1 Nr. 3)
+# Anlage 3 – (zu § 1 Abs. 1 Nr. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 940 - 944)
 
@@ -4935,8 +4899,7 @@ Stundenzahl insgesamt
 
 2.030
 
-
-## Anlage 4 – (zu § 1 Abs. 1 Nr. 4)
+# Anlage 4 – (zu § 1 Abs. 1 Nr. 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 945 - 950)
 
@@ -6482,8 +6445,7 @@ Stundenzahl insgesamt
 
 1.230
 
-
-## Anlage 5 – (zu § 1 Abs. 3)
+# Anlage 5 – (zu § 1 Abs. 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 951)
 
@@ -6519,8 +6481,7 @@ Stundenzahl insgesamt
     ......
     *) Nichtzutreffendes streichen. 
 
-
-## Anlage 6 – (zu § 7 Abs. 2 Satz 1)
+# Anlage 6 – (zu § 7 Abs. 2 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 952)
 
@@ -6573,8 +6534,7 @@ Stundenzahl insgesamt
     .......
     *) Jeweilige Berufsbezeichnung nach § 1 des MTA-Gesetzes. 
 
-
-## Anlage 7 – (zu § 24)
+# Anlage 7 – (zu § 24)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 953)
 
@@ -6608,13 +6568,11 @@ Stundenzahl insgesamt
     -------
     *) Nichtzutreffendes streichen. 
 
-
-## Anlage 7a – (zu § 25a Absatz 2)
+# Anlage 7a – (zu § 25a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 922)
 
-...............................................................................................  
-
+............................................................................................... 
 (Bezeichnung der Einrichtung)
 
 Bescheinigung  
@@ -6628,19 +6586,16 @@ Geburtsdatum        Geburtsort
 
 ...................................................................................................
 
-hat in der Zeit vom ................................................................. bis .................................................................  
-regelmäßig an dem nach § 25a Absatz 2 der Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+hat in der Zeit vom ................................................................. bis ................................................................. regelmäßig an dem nach § 25a Absatz 2 der Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
 
 Ort, Datum
 
 .................................................................................  (Stempel)
 
-.................................................................................  
-
+................................................................................. 
 Unterschrift(en) der Einrichtung
 
-
-## Anlage 7b – (zu § 25a Absatz 8)
+# Anlage 7b – (zu § 25a Absatz 8)
 
 (Fundstelle: BGBl. I 2016, 923)
 
@@ -6678,12 +6633,9 @@ Ort, Datum
 
 ............................................................................................. (Siegel)
 
-.............................................................................................  
-
+............................................................................................. 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
+# Anlage 8 – (zu § 25b Absatz 2)
 
-## Anlage 8 – (zu § 25b Absatz 2)
-
-
-## Anlage 9 – (zu § 25b Absatz 9)
+# Anlage 9 – (zu § 25b Absatz 9)

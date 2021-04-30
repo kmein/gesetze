@@ -1,23 +1,17 @@
-# [HOAI] Verordnung über die Honorare für Architekten- und Ingenieurleistungen  (Honorarordnung für Architekten und Ingenieure - HOAI)
-
-Ausfertigungsdatum: 10.07.2013
-
+% Verordnung über die Honorare für Architekten- und Ingenieurleistungen  (Honorarordnung für Architekten und Ingenieure - HOAI)
+% Ausfertigungsdatum: 10.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 1 und 2 des Gesetzes zur Regelung von Ingenieur- und Architektenleistungen vom 4. November 1971 (BGBl. I S. 1745, 1749), die durch Artikel 1 des Gesetzes vom 12. November 1984 (BGBl. I S. 1337) geändert worden sind, verordnet die Bundesregierung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für Honorare für Ingenieur- und Architektenleistungen, soweit diese Leistungen durch diese Verordnung erfasst sind. Die Regelungen dieser Verordnung können zum Zwecke der Honorarberechnung einer Honorarvereinbarung zugrunde gelegt werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Objekte sind Gebäude, Innenräume, Freianlagen, Ingenieurbauwerke, Verkehrsanlagen. Objekte sind auch Tragwerke und Anlagen der Technischen Ausrüstung.
 
@@ -59,15 +53,13 @@ Wird die Kostenschätzung nach § 4 Absatz 1 Satz 3 auf der Grundlage der DIN 27
 
 Wird die Kostenberechnung nach § 4 Absatz 1 Satz 3 auf der Grundlage der DIN 276 erstellt, müssen die Gesamtkosten nach Kostengruppen mindestens bis zur zweiten Ebene der Kostengliederung ermittelt werden.
 
-
-## § 2a – Honorartafeln und Basishonorarsatz
+# § 2a – Honorartafeln und Basishonorarsatz
 
 (1) Die Honorartafeln dieser Verordnung weisen Orientierungswerte aus, die an der Art und dem Umfang der Aufgabe sowie an der Leistung ausgerichtet sind. Die Honorartafeln enthalten für jeden Leistungsbereich Honorarspannen vom Basishonorarsatz bis zum oberen Honorarsatz, gegliedert nach den einzelnen Honorarzonen und den zugrunde liegenden Ansätzen für Flächen, anrechenbare Kosten oder Verrechnungseinheiten.
 
 (2) Basishonorarsatz ist der jeweils untere in den Honorartafeln dieser Verordnung enthaltene Honorarsatz.
 
-
-## § 3 – Leistungen und Leistungsbilder
+# § 3 – Leistungen und Leistungsbilder
 
 (1) Grundleistungen sind Leistungen, die regelmäßig im Rahmen von Flächen-, Objekt- oder Fachplanungen auszuführen sind. Sie sind zur ordnungsgemäßen Erfüllung eines Auftrags im Allgemeinen erforderlich und in Leistungsbildern erfasst. Die Leistungsbilder gliedern sich in Leistungsphasen nach den Regelungen in den Teilen 2 bis 4 und der Anlage 1.
 
@@ -75,8 +67,7 @@ Wird die Kostenberechnung nach § 4 Absatz 1 Satz 3 auf der Grundlage der DIN 27
 
 (3) Die Wirtschaftlichkeit der Leistung ist stets zu beachten.
 
-
-## § 4 – Anrechenbare Kosten
+# § 4 – Anrechenbare Kosten
 
 (1) Anrechenbare Kosten sind Teil der Kosten für die Herstellung, den Umbau, die Modernisierung, Instandhaltung oder Instandsetzung von Objekten sowie für die damit zusammenhängenden Aufwendungen. Sie sind nach allgemein anerkannten Regeln der Technik oder nach Verwaltungsvorschriften (Kostenvorschriften) auf der Grundlage ortsüblicher Preise zu ermitteln. Wird in dieser Verordnung im Zusammenhang mit der Kostenermittlung die DIN 276 in Bezug genommen, so ist die Fassung vom Dezember 2008 (DIN 276-1: 2008-12) bei der Ermittlung der anrechenbaren Kosten zugrunde zu legen. Umsatzsteuer, die auf die Kosten von Objekten entfällt, ist nicht Bestandteil der anrechenbaren Kosten.
 
@@ -92,15 +83,13 @@ Wird die Kostenberechnung nach § 4 Absatz 1 Satz 3 auf der Grundlage der DIN 27
 
 (3) Der Umfang der mitzuverarbeitenden Bausubstanz im Sinne des § 2 Absatz 7 ist bei den anrechenbaren Kosten angemessen zu berücksichtigen. Umfang und Wert der mitzuverarbeitenden Bausubstanz sind zum Zeitpunkt der Kostenberechnung oder, sofern keine Kostenberechnung vorliegt, zum Zeitpunkt der Kostenschätzung objektbezogen zu ermitteln und in Textform zu vereinbaren.
 
-
-## § 5 – Honorarzonen
+# § 5 – Honorarzonen
 
 (1) Die Grundleistungen der Flächen-, Objekt- oder Fachplanungen werden zur Berechnung der Honorare nach den jeweiligen Planungsanforderungen Honorarzonen zugeordnet, die von der Honorarzone I aus ansteigend den Schwierigkeitsgrad der Planung einstufen.
 
 (2) Die Honorarzonen sind anhand der Bewertungsmerkmale in den Honorarregelungen der jeweiligen Leistungsbilder der Teile 2 bis 4 und der Anlage 1 zu ermitteln. Die Zurechnung zu den einzelnen Honorarzonen ist nach Maßgabe der Bewertungsmerkmale und gegebenenfalls der Bewertungspunkte sowie unter Berücksichtigung der Regelbeispiele in den Objektlisten der Anlagen dieser Verordnung vorzunehmen.
 
-
-## § 6 – Grundlagen des Honorars
+# § 6 – Grundlagen des Honorars
 
 (1) Bei der Ermittlung des Honorars für Grundleistungen im Sinne des § 3 Absatz 1 sind zugrunde zu legen
 
@@ -134,15 +123,13 @@ Der Umbau- oder Modernisierungszuschlag ist unter Berücksichtigung des Schwieri
 
 (3) (weggefallen)
 
-
-## § 7 – Honorarvereinbarung
+# § 7 – Honorarvereinbarung
 
 (1) Das Honorar richtet sich nach der Vereinbarung, die die Vertragsparteien in Textform treffen. Sofern keine Vereinbarung über die Höhe des Honorars in Textform getroffen wurde, gilt für Grundleistungen der jeweilige Basishonorarsatz als vereinbart, der sich bei der Anwendung der Honorargrundlagen des § 6 ergibt.
 
 (2) Der Auftragnehmer hat den Auftraggeber, sofern dieser Verbraucher ist, vor Abgabe von dessen verbindlicher Vertragserklärung zur Honorarvereinbarung in Textform darauf hinzuweisen, dass ein höheres oder niedrigeres Honorar als die in den Honorartafeln dieser Verordnung enthaltenen Werte vereinbart werden kann. Erfolgt der Hinweis nach Satz 1 nicht oder nicht rechtzeitig, gilt für die zwischen den Vertragsparteien vereinbarten Grundleistungen anstelle eines höheren Honorars ein Honorar in Höhe des jeweiligen Basishonorarsatzes als vereinbart.
 
-
-## § 8 – Berechnung des Honorars in besonderen Fällen
+# § 8 – Berechnung des Honorars in besonderen Fällen
 
 (1) Werden dem Auftragnehmer nicht alle Leistungsphasen eines Leistungsbildes übertragen, so dürfen nur die für die übertragenen Phasen vorgesehenen Prozentsätze berechnet und vereinbart werden. Die Vereinbarung hat in Textform zu erfolgen.
 
@@ -150,8 +137,7 @@ Der Umbau- oder Modernisierungszuschlag ist unter Berücksichtigung des Schwieri
 
 (3) Die gesonderte Vergütung eines zusätzlichen Koordinierungs- oder Einarbeitungsaufwands ist in Textform zu vereinbaren.
 
-
-## § 9 – Berechnung des Honorars bei Beauftragung von Einzelleistungen
+# § 9 – Berechnung des Honorars bei Beauftragung von Einzelleistungen
 
 (1) Wird die Vorplanung oder Entwurfsplanung bei Gebäuden und Innenräumen, Freianlagen, Ingenieurbauwerken, Verkehrsanlagen, der Tragwerksplanung und der Technischen Ausrüstung als Einzelleistung in Auftrag gegeben, können für die Leistungsbewertung der jeweiligen Leistungsphase
 
@@ -165,15 +151,13 @@ zum Zweck der Honorarberechnung herangezogen werden. Die Vereinbarung hat in Tex
 
 (3) Wird die Objektüberwachung bei der Technischen Ausrüstung oder bei Gebäuden als Einzelleistung in Auftrag gegeben, können für die Leistungsbewertung der Objektüberwachung zum Zweck der Honorarberechnung höchstens der Prozentsatz der Objektüberwachung und die Prozentsätze der Grundlagenermittlung und Vorplanung herangezogen werden. Die Vereinbarung hat in Textform zu erfolgen.
 
-
-## § 10 – Berechnung des Honorars bei vertraglichen Änderungen des Leistungsumfangs
+# § 10 – Berechnung des Honorars bei vertraglichen Änderungen des Leistungsumfangs
 
 (1) Einigen sich Auftraggeber und Auftragnehmer während der Laufzeit des Vertrags darauf, dass der Umfang der beauftragten Leistung geändert wird, und ändern sich dadurch die anrechenbaren Kosten, Flächen oder Verrechnungseinheiten, so ist die Honorarberechnungsgrundlage für die Grundleistungen, die infolge des veränderten Leistungsumfangs zu erbringen sind, durch Vereinbarung in Textform anzupassen.
 
 (2) Einigen sich Auftraggeber und Auftragnehmer über die Wiederholung von Grundleistungen, ohne dass sich dadurch die anrechenbaren Kosten, Flächen oder Verrechnungseinheiten ändern, ist das Honorar für diese Grundleistungen entsprechend ihrem Anteil an der jeweiligen Leistungsphase in Textform zu vereinbaren.
 
-
-## § 11 – Auftrag für mehrere Objekte
+# § 11 – Auftrag für mehrere Objekte
 
 (1) Umfasst ein Auftrag mehrere Objekte, so sind die Honorare vorbehaltlich der folgenden Absätze für jedes Objekt getrennt zu berechnen.
 
@@ -186,20 +170,17 @@ zum Zweck der Honorarberechnung herangezogen werden. Die Vereinbarung hat in Tex
 (+++ § 11 Abs. 1: Zur Anwendung vgl. § 37 Abs. 1 +++)  
 (+++ § 11 Abs. 3 u. 4: Zur Anwendung vgl. § 54 Abs. 3 +++)
 
-
-## § 12 – Instandsetzungen und Instandhaltungen
+# § 12 – Instandsetzungen und Instandhaltungen
 
 (1) Honorare für Grundleistungen bei Instandsetzungen und Instandhaltungen von Objekten sind nach den anrechenbaren Kosten, der Honorarzone, den Leistungsphasen und der Honorartafel zur Honorarorientierung, der die Instandhaltungs- oder Instandsetzungsmaßnahme zuzuordnen ist, zu ermitteln.
 
 (2) Für Grundleistungen bei Instandsetzungen und Instandhaltungen von Objekten kann in Textform vereinbart werden, dass der Prozentsatz für die Objektüberwachung oder Bauoberleitung um bis zu 50 Prozent der Bewertung dieser Leistungsphase erhöht wird.
 
-
-## § 13 – Interpolation
+# § 13 – Interpolation
 
 Zwischenstufen der in den Honorartafeln angegebenen anrechenbaren Kosten und Flächen oder Verrechnungseinheiten sind durch lineare Interpolation zu ermitteln.
 
-
-## § 14 – Nebenkosten
+# § 14 – Nebenkosten
 
 (1) Der Auftragnehmer kann neben den Honoraren dieser Verordnung auch die für die Ausführung des Auftrags erforderlichen Nebenkosten in Rechnung stellen; ausgenommen sind die abziehbaren Vorsteuern gemäß § 15 Absatz 1 des Umsatzsteuergesetzes in der jeweils geltenden Fassung. Die Vertragsparteien können in Textform vereinbaren, dass abweichend von Satz 1 eine Erstattung ganz oder teilweise ausgeschlossen ist.
 
@@ -221,27 +202,23 @@ Zwischenstufen der in den Honorartafeln angegebenen anrechenbaren Kosten und Fl�
 
 (3) Nebenkosten können pauschal oder nach Einzelnachweis abgerechnet werden. Sie sind nach Einzelnachweis abzurechnen, sofern keine pauschale Abrechnung in Textform vereinbart worden ist.
 
-
-## § 15 – Fälligkeit des Honorars, Abschlagszahlungen
+# § 15 – Fälligkeit des Honorars, Abschlagszahlungen
 
 Für die Fälligkeit der Honorare für die von dieser Verordnung erfassten Leistungen gilt § 650g Absatz 4 des Bürgerlichen Gesetzbuchs entsprechend. Für das Recht, Abschlagszahlungen zu verlangen, gilt § 632a des Bürgerlichen Gesetzbuchs entsprechend.
 
-
-## § 16 – Umsatzsteuer
+# § 16 – Umsatzsteuer
 
 (1) Der Auftragnehmer hat Anspruch auf Ersatz der gesetzlich geschuldeten Umsatzsteuer für nach dieser Verordnung abrechenbare Leistungen, sofern nicht die Kleinunternehmerregelung nach § 19 des Umsatzsteuergesetzes angewendet wird. Satz 1 ist auch hinsichtlich der um die nach § 15 des Umsatzsteuergesetzes abziehbaren Vorsteuer gekürzten Nebenkosten anzuwenden, die nach § 14 dieser Verordnung weiterberechenbar sind.
 
 (2) Auslagen gehören nicht zum Entgelt für die Leistung des Auftragnehmers. Sie sind als durchlaufende Posten im umsatzsteuerrechtlichen Sinn einschließlich einer gegebenenfalls enthaltenen Umsatzsteuer weiter zu berechnen.
 
-
-## § 17 – Anwendungsbereich
+# § 17 – Anwendungsbereich
 
 (1) Leistungen der Bauleitplanung umfassen die Vorbereitung der Aufstellung von Flächennutzungs- und Bebauungsplänen im Sinne des § 1 Absatz 2 des Baugesetzbuches in der jeweils geltenden Fassung die erforderlichen Ausarbeitungen und Planfassungen sowie die Mitwirkung beim Verfahren.
 
 (2) Leistungen beim Städtebaulichen Entwurf sind Besondere Leistungen.
 
-
-## § 18 – Leistungsbild Flächennutzungsplan
+# § 18 – Leistungsbild Flächennutzungsplan
 
 (1) Die Grundleistungen bei Flächennutzungsplänen sind in drei Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 20 bewertet:
 
@@ -261,8 +238,7 @@ Der Vorentwurf, Entwurf oder Plan ist jeweils in der vorgeschriebenen Fassung mi
 
 (2) Anlage 2 regelt, welche Grundleistungen jede Leistungsphase umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 19 – Leistungsbild Bebauungsplan
+# § 19 – Leistungsbild Bebauungsplan
 
 (1) Die Grundleistungen bei Bebauungsplänen sind in drei Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 21 bewertet:
 
@@ -282,8 +258,7 @@ Der Vorentwurf, Entwurf oder Plan ist jeweils in der vorgeschriebenen Fassung mi
 
 (2) Anlage 3 regelt, welche Grundleistungen jede Leistungsphase umfasst. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 20 – Honorare für Grundleistungen bei Flächennutzungsplänen
+# § 20 – Honorare für Grundleistungen bei Flächennutzungsplänen
 
 (1) Für die in § 18 und Anlage 2 genannten Grundleistungen bei Flächennutzungsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -631,8 +606,7 @@ Euro
 
 (6) Werden Teilflächen bereits aufgestellter Flächennutzungspläne (Planausschnitte) geändert oder überarbeitet, kann das Honorar auch abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
 
-
-## § 21 – Honorare für Grundleistungen bei Bebauungsplänen
+# § 21 – Honorare für Grundleistungen bei Bebauungsplänen
 
 (1) Für die in § 19 und Anlage 3 genannten Grundleistungen bei Bebauungsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -966,8 +940,7 @@ Euro
 
 (5) Wird die Größe des Plangebiets im förmlichen Verfahren während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Plangebiets zu berechnen.
 
-
-## § 22 – Anwendungsbereich
+# § 22 – Anwendungsbereich
 
 (1) Landschaftsplanerische Leistungen umfassen das Vorbereiten und das Erstellen der für die Pläne nach Absatz 2 erforderlichen Ausarbeitungen.
 
@@ -983,8 +956,7 @@ Euro
 
 5. Pflege- und Entwicklungspläne.
 
-
-## § 23 – Leistungsbild Landschaftsplan
+# § 23 – Leistungsbild Landschaftsplan
 
 (1) Die Grundleistungen bei Landschaftsplänen sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 28 bewertet:
 
@@ -998,8 +970,7 @@ Euro
 
 (2) Anlage 4 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 24 – Leistungsbild Grünordnungsplan
+# § 24 – Leistungsbild Grünordnungsplan
 
 (1) Die Grundleistungen bei Grünordnungsplänen und Landschaftsplanerischen Fachbeiträgen sind in vier Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 29 bewertet:
 
@@ -1013,8 +984,7 @@ Euro
 
 (2) Anlage 5 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 25 – Leistungsbild Landschaftsrahmenplan
+# § 25 – Leistungsbild Landschaftsrahmenplan
 
 (1) Die Grundleistungen bei Landschaftsrahmenplänen sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 30 bewertet:
 
@@ -1028,8 +998,7 @@ Euro
 
 (2) Anlage 6 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 26 – Leistungsbild Landschaftspflegerischer Begleitplan
+# § 26 – Leistungsbild Landschaftspflegerischer Begleitplan
 
 (1) Die Grundleistungen bei Landschaftspflegerischen Begleitplänen sind in vier Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 31 bewertet:
 
@@ -1043,8 +1012,7 @@ Euro
 
 (2) Anlage 7 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 27 – Leistungsbild Pflege- und Entwicklungsplan
+# § 27 – Leistungsbild Pflege- und Entwicklungsplan
 
 (1) Die Grundleistungen bei Pflege- und Entwicklungsplänen sind in vier Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 32 bewertet:
 
@@ -1058,8 +1026,7 @@ Euro
 
 (2) Anlage 8 regelt die Grundleistungen jeder Leistungsphase. Anlage 9 enthält Beispiele für Besondere Leistungen.
 
-
-## § 28 – Honorare für Grundleistungen bei Landschaftsplänen
+# § 28 – Honorare für Grundleistungen bei Landschaftsplänen
 
 (1) Für die in § 23 und Anlage 4 genannten Grundleistungen bei Landschaftsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -1405,8 +1372,7 @@ Euro
 
 (6) Werden Teilflächen bereits aufgestellter Landschaftspläne (Planausschnitte) geändert oder überarbeitet, kann das Honorar abweichend von den Grundsätzen des Absatzes 2 vereinbart werden.
 
-
-## § 29 – Honorare für Grundleistungen bei Grünordnungsplänen
+# § 29 – Honorare für Grundleistungen bei Grünordnungsplänen
 
 (1) Für die in § 24 und Anlage 5 genannten Grundleistungen bei Grünordnungsplänen und Landschaftsplanerischen Fachbeiträgen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -1752,8 +1718,7 @@ Euro
 
 (6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
-
-## § 30 – Honorare für Grundleistungen bei Landschaftsrahmenplänen
+# § 30 – Honorare für Grundleistungen bei Landschaftsrahmenplänen
 
 (1) Für die in § 25 und Anlage 6 genannten Grundleistungen bei Landschaftsrahmenplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -2099,8 +2064,7 @@ Euro
 
 (6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
-
-## § 31 – Honorare für Grundleistungen bei Landschaftspflegerischen Begleitplänen
+# § 31 – Honorare für Grundleistungen bei Landschaftspflegerischen Begleitplänen
 
 (1) Für die in § 26 und Anlage 7 genannten Grundleistungen bei Landschaftspflegerischen Begleitplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -2446,8 +2410,7 @@ Euro
 
 (6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
-
-## § 32 – Honorare für Grundleistungen bei Pflege- und Entwicklungsplänen
+# § 32 – Honorare für Grundleistungen bei Pflege- und Entwicklungsplänen
 
 (1) Für die in § 27 und Anlage 8 genannten Grundleistungen bei Pflege- und Entwicklungsplänen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:  
   
@@ -2794,8 +2757,7 @@ Euro
 
 (6) Wird die Größe des Planungsgebiets während der Leistungserbringung geändert, so ist das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Planungsgebiets zu berechnen.
 
-
-## § 33 – Besondere Grundlagen des Honorars
+# § 33 – Besondere Grundlagen des Honorars
 
 (1) Für Grundleistungen bei Gebäuden und Innenräumen sind die Kosten der Baukonstruktion anrechenbar.
 
@@ -2807,8 +2769,7 @@ Euro
 
 (3) Nicht anrechenbar sind insbesondere die Kosten für das Herrichten, für die nichtöffentliche Erschließung sowie für Leistungen zur Ausstattung und zu Kunstwerken, soweit der Auftragnehmer die Leistungen weder plant noch bei der Beschaffung mitwirkt oder ihre Ausführung oder ihren Einbau fachlich überwacht.
 
-
-## § 34 – Leistungsbild Gebäude und Innenräume
+# § 34 – Leistungsbild Gebäude und Innenräume
 
 (1) Das Leistungsbild Gebäude und Innenräume umfasst Leistungen für Neubauten, Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten, Modernisierungen, Instandsetzungen und Instandhaltungen.
 
@@ -2836,8 +2797,7 @@ Euro
 
 (4) Anlage 10 Nummer 10.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
-
-## § 35 – Honorare für Grundleistungen bei Gebäuden und Innenräumen
+# § 35 – Honorare für Grundleistungen bei Gebäuden und Innenräumen
 
 (1) Für die in § 34 und der Anlage 10 Nummer 10.1 genannten Grundleistungen für Gebäude und Innenräume sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -3389,22 +3349,19 @@ Euro
 
 (7) Für die Zuordnung zu den Honorarzonen ist die Objektliste der Anlage 10 Nummer 10.2 und Nummer 10.3 zu berücksichtigen.
 
-
-## § 36 – Umbauten und Modernisierungen von Gebäuden und Innenräumen
+# § 36 – Umbauten und Modernisierungen von Gebäuden und Innenräumen
 
 (1) Für Umbauten und Modernisierungen von Gebäuden kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent auf das ermittelte Honorar in Textform vereinbart werden.
 
 (2) Für Umbauten und Modernisierungen von Innenräumen in Gebäuden kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 50 Prozent auf das ermittelte Honorar in Textform vereinbart werden.
 
-
-## § 37 – Aufträge für Gebäude und Freianlagen oder für Gebäude und Innenräume
+# § 37 – Aufträge für Gebäude und Freianlagen oder für Gebäude und Innenräume
 
 (1) § 11 Absatz 1 ist nicht anzuwenden, wenn die getrennte Berechnung der Honorare für Freianlagen weniger als 7 500 Euro anrechenbare Kosten ergeben würde.
 
 (2) Werden Grundleistungen für Innenräume in Gebäuden, die neu gebaut, wiederaufgebaut, erweitert oder umgebaut werden, einem Auftragnehmer übertragen, dem auch Grundleistungen für dieses Gebäude nach § 34 übertragen werden, so sind die Grundleistungen für Innenräume bei der Vereinbarung des Honorars für die Grundleistungen am Gebäude zu berücksichtigen. Ein gesondertes Honorar nach § 11 Absatz 1 darf für die Grundleistungen für Innenräume nicht berechnet werden.
 
-
-## § 38 – Besondere Grundlagen des Honorars
+# § 38 – Besondere Grundlagen des Honorars
 
 (1) Für Grundleistungen bei Freianlagen sind die Kosten für Außenanlagen anrechenbar, insbesondere für folgende Bauwerke und Anlagen, soweit diese durch den Auftragnehmer geplant oder überwacht werden:
 
@@ -3430,8 +3387,7 @@ Euro
 
 2. den Unter- und Oberbau von Fußgängerbereichen ausgenommen die Kosten für die Oberflächenbefestigung.
 
-
-## § 39 – Leistungsbild Freianlagen
+# § 39 – Leistungsbild Freianlagen
 
 (1) Freianlagen sind planerisch gestaltete Freiflächen und Freiräume sowie entsprechend gestaltete Anlagen in Verbindung mit Bauwerken oder in Bauwerken und landschaftspflegerische Freianlagenplanungen in Verbindung mit Objekten.
 
@@ -3459,8 +3415,7 @@ Euro
 
 (4) Anlage 11 Nummer 11.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
-
-## § 40 – Honorare für Grundleistungen bei Freianlagen
+# § 40 – Honorare für Grundleistungen bei Freianlagen
 
 (1) Für die in § 39 und der Anlage 11 Nummer 11.1 genannten Grundleistungen für Freianlagen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -3992,8 +3947,7 @@ Euro
 
 (6) § 36 Absatz 1 ist für Freianlagen entsprechend anzuwenden.
 
-
-## § 41 – Anwendungsbereich
+# § 41 – Anwendungsbereich
 
 Ingenieurbauwerke umfassen:
 
@@ -4011,8 +3965,7 @@ Ingenieurbauwerke umfassen:
 
 7. sonstige Einzelbauwerke ausgenommen Gebäude und Freileitungsmaste.
 
-
-## § 42 – Besondere Grundlagen des Honorars
+# § 42 – Besondere Grundlagen des Honorars
 
 (1) Für Grundleistungen bei Ingenieurbauwerken sind die Kosten der Baukonstruktion anrechenbar. Die Kosten für die Anlagen der Maschinentechnik, die der Zweckbestimmung des Ingenieurbauwerks dienen, sind anrechenbar, soweit der Auftragnehmer diese plant oder deren Ausführung überwacht.
 
@@ -4032,8 +3985,7 @@ Ingenieurbauwerke umfassen:
 
 4. die Ausstattung und Nebenanlagen von Ingenieurbauwerken.
 
-
-## § 43 – Leistungsbild Ingenieurbauwerke
+# § 43 – Leistungsbild Ingenieurbauwerke
 
 (1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für Ingenieurbauwerke sind in neun Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 44 bewertet:
 
@@ -4065,8 +4017,7 @@ Ingenieurbauwerke umfassen:
 
 (4) Anlage 12 Nummer 12.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
-
-## § 44 – Honorare für Grundleistungen bei Ingenieurbauwerken
+# § 44 – Honorare für Grundleistungen bei Ingenieurbauwerken
 
 (1) Für die in § 43 und der Anlage 12 Nummer 12.1 genannten Grundleistungen bei Ingenieurbauwerken sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -4602,8 +4553,7 @@ Euro
 
 (7) (weggefallen)
 
-
-## § 45 – Anwendungsbereich
+# § 45 – Anwendungsbereich
 
 Verkehrsanlagen sind
 
@@ -4613,8 +4563,7 @@ Verkehrsanlagen sind
 
 3. Anlagen des Flugverkehrs.
 
-
-## § 46 – Besondere Grundlagen des Honorars
+# § 46 – Besondere Grundlagen des Honorars
 
 (1) Für Grundleistungen bei Verkehrsanlagen sind die Kosten der Baukonstruktion anrechenbar. Soweit der Auftragnehmer die Ausstattung von Anlagen des Straßen-, Schienen- und Flugverkehrs einschließlich der darin enthaltenen Entwässerungsanlagen, die der Zweckbestimmung der Verkehrsanlagen dienen, plant oder deren Ausführung überwacht, sind die dadurch entstehenden Kosten anrechenbar.
 
@@ -4652,8 +4601,7 @@ c) bei mehr als vierstreifigen Straßen zu 60 Prozent,
 
 2. bei Gleis- und Bahnsteiganlagen, die zwei Gleise mit einem gemeinsamen Planum haben, zu 90 Prozent anrechenbar. Das Honorar für Gleis- und Bahnsteiganlagen mit mehr als zwei Gleisen oder Bahnsteigen kann abweichend von den Grundsätzen des Satzes 1, der Absätze 1 bis 4 und der §§ 47 und 48 vereinbart werden.
 
-
-## § 47 – Leistungsbild Verkehrsanlagen
+# § 47 – Leistungsbild Verkehrsanlagen
 
 (1) § 34 Absatz 1 gilt entsprechend. Die Grundleistungen für Verkehrsanlagen sind in neun Leistungsphasen unterteilt und werden wie folgt in Prozentsätzen der Honorare des § 48 bewertet:
 
@@ -4677,8 +4625,7 @@ c) bei mehr als vierstreifigen Straßen zu 60 Prozent,
 
 (2) Anlage 13 Nummer 13.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
-
-## § 48 – Honorare für Grundleistungen bei Verkehrsanlagen
+# § 48 – Honorare für Grundleistungen bei Verkehrsanlagen
 
 (1) Für die in § 47 und der Anlage 13 Nummer 13.1 genannten Grundleistungen bei Verkehrsanlagen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -5214,15 +5161,13 @@ Euro
 
 (6) Für Umbauten und Modernisierungen von Verkehrsanlagen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag gemäß § 6 Absatz 2 Satz 3 bis 33 Prozent in Textform vereinbart werden.
 
-
-## § 49 – Anwendungsbereich
+# § 49 – Anwendungsbereich
 
 (1) Leistungen der Tragwerksplanung sind die statische Fachplanung für die Objektplanung Gebäude und Ingenieurbauwerke.
 
 (2) Das Tragwerk bezeichnet das statische Gesamtsystem der miteinander verbundenen, lastabtragenden Konstruktionen, die für die Standsicherheit von Gebäuden, Ingenieurbauwerken und Traggerüsten bei Ingenieurbauwerken maßgeblich sind.
 
-
-## § 50 – Besondere Grundlagen des Honorars
+# § 50 – Besondere Grundlagen des Honorars
 
 (1) Bei Gebäuden und zugehörigen baulichen Anlagen sind 55 Prozent der Baukonstruktionskosten und 10 Prozent der Kosten der Technischen Anlagen anrechenbar.
 
@@ -5234,8 +5179,7 @@ Euro
 
 (5) Die Vertragsparteien können vereinbaren, dass Kosten von Arbeiten, die nicht in den Absätzen 1 bis 3 erfasst sind, ganz oder teilweise anrechenbar sind, wenn der Auftragnehmer wegen dieser Arbeiten Mehrleistungen für das Tragwerk nach § 51 erbringt.
 
-
-## § 51 – Leistungsbild Tragwerksplanung
+# § 51 – Leistungsbild Tragwerksplanung
 
 (1) Die Grundleistungen der Tragwerksplanung sind für Gebäude und zugehörige bauliche Anlagen sowie für Ingenieurbauwerke nach § 41 Nummer 1 bis 5 in den Leistungsphasen 1 bis 6 sowie für Ingenieurbauwerke nach § 41 Nummer 6 und 7 in den Leistungsphasen 2 bis 6 zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 52 bewertet:
 
@@ -5263,8 +5207,7 @@ Euro
 
 (5) Anlage 14 Nummer 14.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen. Für Ingenieurbauwerke nach § 41 Nummer 6 und 7 sind die Grundleistungen der Tragwerksplanung zur Leistungsphase 1 im Leistungsbild der Ingenieurbauwerke gemäß § 43 enthalten.
 
-
-## § 52 – Honorare für Grundleistungen bei Tragwerksplanungen
+# § 52 – Honorare für Grundleistungen bei Tragwerksplanungen
 
 (1) Für die in § 51 und der Anlage 14 Nummer 14.1 genannten Grundleistungen der Tragwerksplanungen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -5770,8 +5713,7 @@ Euro
 
 (5) (weggefallen)
 
-
-## § 53 – Anwendungsbereich
+# § 53 – Anwendungsbereich
 
 (1) Die Leistungen der Technischen Ausrüstung umfassen die Fachplanungen für Objekte.
 
@@ -5793,8 +5735,7 @@ Euro
 
 8. Gebäudeautomation und Automation von Ingenieurbauwerken.
 
-
-## § 54 – Besondere Grundlagen des Honorars
+# § 54 – Besondere Grundlagen des Honorars
 
 (1) Das Honorar für Grundleistungen bei der Technischen Ausrüstung richtet sich für das jeweilige Objekt im Sinne des § 2 Absatz 1 Satz 1 nach der Summe der anrechenbaren Kosten der Anlagen jeder Anlagengruppe. Dies gilt für nutzungsspezifische Anlagen nur, wenn die Anlagen funktional gleichartig sind. Anrechenbar sind auch sonstige Maßnahmen für Technische Anlagen.
 
@@ -5806,8 +5747,7 @@ Euro
 
 (5) Werden Teile der Technischen Ausrüstung in Baukonstruktionen ausgeführt, so können die Vertragsparteien in Textform vereinbaren, dass die Kosten hierfür ganz oder teilweise zu den anrechenbaren Kosten gehören. Satz 1 ist entsprechend für Bauteile der Kostengruppe Baukonstruktionen anzuwenden, deren Abmessung oder Konstruktion durch die Leistung der Technischen Ausrüstung wesentlich beeinflusst wird.
 
-
-## § 55 – Leistungsbild Technische Ausrüstung
+# § 55 – Leistungsbild Technische Ausrüstung
 
 (1) Das Leistungsbild Technische Ausrüstung umfasst Grundleistungen für Neuanlagen, Wiederaufbauten, Erweiterungsbauten, Umbauten, Modernisierungen, Instandhaltungen und Instandsetzungen. Die Grundleistungen bei der Technischen Ausrüstung sind in neun Leistungsphasen zusammengefasst und werden wie folgt in Prozentsätzen der Honorare des § 56 bewertet:
 
@@ -5833,8 +5773,7 @@ Euro
 
 (3) Anlage 15 Nummer 15.1 regelt die Grundleistungen jeder Leistungsphase und enthält Beispiele für Besondere Leistungen.
 
-
-## § 56 – Honorare für Grundleistungen der Technischen Ausrüstung
+# § 56 – Honorare für Grundleistungen der Technischen Ausrüstung
 
 (1) Für die in § 55 und der Anlage 15 Nummer 15.1 genannten Grundleistungen bei einzelnen Anlagen sind die in der nachstehenden Honorartafel aufgeführten Honorarspannen Orientierungswerte:
 
@@ -6168,25 +6107,21 @@ Euro
 
 (6) (weggefallen)
 
-
-## § 57 – Übergangsvorschrift
+# § 57 – Übergangsvorschrift
 
 (1) Diese Verordnung ist nicht auf Grundleistungen anzuwenden, die vor dem 17. Juli 2013 vertraglich vereinbart wurden; insoweit bleiben die bisherigen Vorschriften anwendbar.
 
 (2) Die durch die Erste Verordnung zur Änderung der Honorarordnung für Architekten und Ingenieure vom 2. Dezember 2020 (BGBl. I S. 2636) geänderten Vorschriften sind erst auf diejenigen Vertragsverhältnisse anzuwenden, die nach Ablauf des 31. Dezember 2020 begründet worden sind.
 
-
-## § 58 – Inkrafttreten, Außerkrafttreten
+# § 58 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Honorarordnung für Architekten und Ingenieure vom 11. August 2009 (BGBl. I S. 2732) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 3 Absatz 1)Weitere Fachplanungs- und Beratungsleistungen
+# Anlage 1 – (zu § 3 Absatz 1)Weitere Fachplanungs- und Beratungsleistungen
 
 (Fundstelle: BGBl. I 2013, 2306 - 2323)
 
@@ -7239,8 +7174,7 @@ Sonstige vermessungstechnische Leistungen
 
 Für sonstige vermessungstechnische Leistungen nach Nummer 1.4.1 kann ein Honorar abweichend von den Grundsätzen gemäß Nummer 1.4 vereinbart werden.
 
-
-## Anlage 2 – (zu § 18 Absatz 2)Grundleistungen im Leistungsbild Flächennutzungsplan
+# Anlage 2 – (zu § 18 Absatz 2)Grundleistungen im Leistungsbild Flächennutzungsplan
 
 (Fundstelle: BGBl. I 2013, 2324)
 
@@ -7296,8 +7230,7 @@ b) Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen
 
 c) Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten Fassung.
 
-
-## Anlage 3 – (zu § 19 Absatz 2)Grundleistungen im Leistungsbild Bebauungsplan
+# Anlage 3 – (zu § 19 Absatz 2)Grundleistungen im Leistungsbild Bebauungsplan
 
 (Fundstelle: BGBl. I 2013, 2325)
 
@@ -7353,8 +7286,7 @@ b) Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen
 
 c) Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten Fassung.
 
-
-## Anlage 4 – (zu § 23 Absatz 2)Grundleistungen im Leistungsbild Landschaftsplan
+# Anlage 4 – (zu § 23 Absatz 2)Grundleistungen im Leistungsbild Landschaftsplan
 
 (Fundstelle: BGBl. I 2013, 2326)
 
@@ -7408,8 +7340,7 @@ g) Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
 
 Darstellen des Landschaftsplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
-
-## Anlage 5 – (zu § 24 Absatz 2)Grundleistungen im Leistungsbild Grünordnungsplan
+# Anlage 5 – (zu § 24 Absatz 2)Grundleistungen im Leistungsbild Grünordnungsplan
 
 (Fundstelle: BGBl. I 2013, 2327)
 
@@ -7472,8 +7403,7 @@ Integrieren ergänzender, zulassungsrelevanter Regelungen und Maßnahmen auf Gru
 
 Darstellen des Grünordnungsplans oder Landschaftsplanerischen Fachbeitrags in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
-
-## Anlage 6 – (zu § 25 Absatz 2)Grundleistungen im Leistungsbild Landschaftsrahmenplan
+# Anlage 6 – (zu § 25 Absatz 2)Grundleistungen im Leistungsbild Landschaftsrahmenplan
 
 (Fundstelle: BGBl. I 2013, 2328)
 
@@ -7533,8 +7463,7 @@ Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
 
 Darstellen des Landschaftsrahmenplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
-
-## Anlage 7 – (zu § 26 Absatz 2)Grundleistungen im Leistungsbild Landschaftspflegerischer Begleitplan
+# Anlage 7 – (zu § 26 Absatz 2)Grundleistungen im Leistungsbild Landschaftspflegerischer Begleitplan
 
 (Fundstelle: BGBl. I 2013, 2329)
 
@@ -7600,8 +7529,7 @@ l) Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
 
 Darstellen des Landschaftspflegerischen Begleitplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
-
-## Anlage 8 – (zu § 27 Absatz 2)Grundleistungen im Leistungsbild Pflege- und Entwicklungsplan
+# Anlage 8 – (zu § 27 Absatz 2)Grundleistungen im Leistungsbild Pflege- und Entwicklungsplan
 
 (Fundstelle: BGBl. I 2013, 2330)
 
@@ -7657,8 +7585,7 @@ g) Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
 
 Darstellen des Pflege- und Entwicklungsplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.
 
-
-## Anlage 9 – (zu § 18 Absatz 2, § 19 Absatz 2, § 23 Absatz 2, § 24 Absatz 2, § 25 Absatz 2, § 26 Absatz 2, § 27 Absatz 2)Besondere Leistungen zur Flächenplanung
+# Anlage 9 – (zu § 18 Absatz 2, § 19 Absatz 2, § 23 Absatz 2, § 24 Absatz 2, § 25 Absatz 2, § 26 Absatz 2, § 27 Absatz 2)Besondere Leistungen zur Flächenplanung
 
 (Fundstelle: BGBl. I 2013, 2331 - 2332)
 
@@ -7812,8 +7739,7 @@ k) Mitwirken an Genehmigungsverfahren nach fachrechtlichen Vorschriften
 
 l) Fortführen der mit dem Auftraggeber abgestimmten Fassung im Rahmen eines Genehmigungsverfahrens, Erstellen einer genehmigungsfähigen Fassung auf der Grundlage von Anregungen Dritter.
 
-
-## Anlage 10 – (zu § 34 Absatz 4, § 35 Absatz 7)Grundleistungen im Leistungsbild Gebäude und Innenräume, Besondere Leistungen, Objektlisten
+# Anlage 10 – (zu § 34 Absatz 4, § 35 Absatz 7)Grundleistungen im Leistungsbild Gebäude und Innenräume, Besondere Leistungen, Objektlisten
 
 (Fundstelle: BGBl. I 2013, 2333 - 2340)
 
@@ -7976,8 +7902,7 @@ Erarbeiten und Erstellen von besonderen bauordnungsrechtlichen Nachweisen für d
 LPH 3 Entwurfsplanung (System- und Integrationsplanung)
 
 a) Erarbeiten der Entwurfsplanung, unter weiterer Berücksichtigung der wesentlichen Zusammenhänge, Vorgaben und Bedingungen  
-(zum Beispiel städtebauliche, gestalterische, funktionale, technische, wirtschaftliche, ökologische, soziale, öffentlich-rechtliche) auf der Grundlage der Vorplanung und als Grundlage für die weiteren Leistungsphasen und die erforderlichen öffentlich-rechtlichen Genehmigungen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter.  
-Zeichnungen nach Art und Größe des Objekts im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:100, zum Beispiel bei Innenräumen im Maßstab 1:50 bis 1:20
+(zum Beispiel städtebauliche, gestalterische, funktionale, technische, wirtschaftliche, ökologische, soziale, öffentlich-rechtliche) auf der Grundlage der Vorplanung und als Grundlage für die weiteren Leistungsphasen und die erforderlichen öffentlich-rechtlichen Genehmigungen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter. Zeichnungen nach Art und Größe des Objekts im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:100, zum Beispiel bei Innenräumen im Maßstab 1:50 bis 1:20
 
 b) Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten sowie Koordination und Integration von deren Leistungen
 
@@ -9597,8 +9522,7 @@ x
 
 x
 
-
-## Anlage 11 – (zu § 39 Absatz 4, § 40 Absatz 5)Grundleistungen im Leistungsbild Freianlagen, Besondere Leistungen, Objektliste
+# Anlage 11 – (zu § 39 Absatz 4, § 40 Absatz 5)Grundleistungen im Leistungsbild Freianlagen, Besondere Leistungen, Objektliste
 
 (Fundstelle: BGBl. I 2013, 2341 - 2346)
 
@@ -10458,8 +10382,7 @@ x
 
 x
 
-
-## Anlage 12 – (zu § 43 Absatz 4, § 48 Absatz 5)Grundleistungen im Leistungsbild Ingenieurbauwerke, Besondere Leistungen, Objektliste
+# Anlage 12 – (zu § 43 Absatz 4, § 48 Absatz 5)Grundleistungen im Leistungsbild Ingenieurbauwerke, Besondere Leistungen, Objektliste
 
 (Fundstelle: BGBl. I 2013, 2347 - 2356)
 
@@ -12936,8 +12859,7 @@ x
 
 Tabelle Zeile 3 Spalte 2 Kursivdruck: Müsste richtig "der Maßnahme" lauten
 
-
-## Anlage 13 – (zu § 47 Absatz 2, § 48 Absatz 5)Grundleistungen im Leistungsbild Verkehrsanlagen, Besondere Leistungen, Objektliste
+# Anlage 13 – (zu § 47 Absatz 2, § 48 Absatz 5)Grundleistungen im Leistungsbild Verkehrsanlagen, Besondere Leistungen, Objektliste
 
 (Fundstelle: BGBl. I 2013, 2357 - 2362)
 
@@ -13707,8 +13629,7 @@ x
 
  
 
-
-## Anlage 14 – (zu § 51 Absatz 5, § 52 Absatz 2)Grundleistungen im Leistungsbild Tragwerksplanung, Besondere Leistungen, Objektliste
+# Anlage 14 – (zu § 51 Absatz 5, § 52 Absatz 2)Grundleistungen im Leistungsbild Tragwerksplanung, Besondere Leistungen, Objektliste
 
 (Fundstelle: BGBl. I 2013, 2363 - 2367)
 
@@ -14613,8 +14534,7 @@ x
 
 x
 
-
-## Anlage 15 – (zu § 55 Absatz 3, § 56 Absatz 3)Grundleistungen im Leistungsbild Technische Ausrüstung, Besondere Leistungen, Objektliste
+# Anlage 15 – (zu § 55 Absatz 3, § 56 Absatz 3)Grundleistungen im Leistungsbild Technische Ausrüstung, Besondere Leistungen, Objektliste
 
 (Fundstelle: BGBl. I 2013, 2368 - 2374)
 

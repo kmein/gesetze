@@ -1,10 +1,7 @@
-# [POSTDIENSTBRAnO] Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Bereich der Deutschen Bundespost POSTDIENST
-
-Ausfertigungsdatum: 05.04.1990
-
+% Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Bereich der Deutschen Bundespost POSTDIENST
+% Ausfertigungsdatum: 05.04.1990
  
-
-## ----
+# ----
 
 1. Wir übertragen
 

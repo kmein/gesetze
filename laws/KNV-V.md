@@ -1,10 +1,7 @@
-# [KNV-V] Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung  (KWK-Kosten-Nutzen-Vergleich-Verordnung - KNV-V)
-
-Ausfertigungsdatum: 28.04.2015
-
+% Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung  (KWK-Kosten-Nutzen-Vergleich-Verordnung - KNV-V)
+% Ausfertigungsdatum: 28.04.2015
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für
 
@@ -18,8 +15,7 @@ c) einer Feuerungsanlage zur Erzeugung von Wärme mit einer Feuerungswärmeleist
 
 2. die Planfeststellung für ein neues Fernwärme- oder Fernkältenetz.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -63,8 +59,7 @@ c) 75 Prozent Wärme aus Kraft-Wärme-Kopplung oder
 
 d) 50 Prozent einer Kombination dieser Energien und dieser Wärme.
 
-
-## § 3 – Vorlagepflicht
+# § 3 – Vorlagepflicht
 
 (1) Für die Errichtung oder erhebliche Modernisierung einer Anlage gemäß § 1 Nummer 1 sind im Rahmen der Antragsunterlagen nach § 4 Absatz 1 Satz 1 der Verordnung über das Genehmigungsverfahren eine Wirtschaftlichkeitsanalyse einschließlich des Kosten-Nutzen-Vergleichs nach § 6 oder eine Darlegung nach § 5 Absatz 4 vorzulegen, es sei denn, die Abwärme soll im Sinne des Vergleichsgegenstandes nach § 4 Absatz 1, 2 oder 3 verwendet werden.
 
@@ -96,8 +91,7 @@ Die zuständige Behörde prüft bei der Genehmigung der Errichtung oder erheblic
 
 (7) Die Antragsteller müssen bei der Planfeststellung für ein neues Fernwärme- oder Fernkältenetz im Sinne des § 1 Nummer 2 gegenüber der zuständigen Behörde die Berechnungsgrundlagen nach § 7 Nummer 3 offenlegen und auf Anfrage begründen.
 
-
-## § 4 – Gegenstand des Kosten-Nutzen-Vergleichs
+# § 4 – Gegenstand des Kosten-Nutzen-Vergleichs
 
 (1) Vor der Errichtung einer Anlage im Sinne des § 1 Nummer 1 Buchstabe a sind die Kosten und der Nutzen von Vorkehrungen für den Betrieb der Anlage als hocheffiziente Kraft-Wärme-Kopplungsanlage zu bewerten. Im Falle einer erheblichen Modernisierung einer Anlage nach Satz 1 sind die Kosten und der Nutzen der Umrüstung zu einer hocheffizienten Kraft-Wärme-Kopplungsanlage zu bewerten.
 
@@ -105,8 +99,7 @@ Die zuständige Behörde prüft bei der Genehmigung der Errichtung oder erheblic
 
 (3) Vor der Errichtung oder erheblichen Modernisierung einer Anlage im Sinne des § 1 Nummer 1 Buchstabe c sowie vor der Errichtung eines neuen Fernwärme- oder Fernkältenetzes im Sinne des § 1 Nummer 2 sind die Kosten und der Nutzen der Verwendung der Abwärme von nahegelegenen Anlagen im Sinne von § 1 Nummer 1 Buchstabe b zu bewerten.
 
-
-## § 5 – Ermittlung zu berücksichtigender Wärme- oder Kältebedarfspunkte und Anlagen
+# § 5 – Ermittlung zu berücksichtigender Wärme- oder Kältebedarfspunkte und Anlagen
 
 (1) Für den Kosten-Nutzen-Vergleich für Vorhaben gemäß § 1 Nummer 1 Buchstabe a und b sind zunächst geeignete bestehende oder mögliche Wärme- oder Kältebedarfspunkte, die über die Anlage versorgt werden könnten, zu ermitteln. Wärme- oder Kältebedarfspunkte sind insbesondere
 
@@ -132,8 +125,7 @@ Die zuständige Behörde prüft bei der Genehmigung der Errichtung oder erheblic
 
 (4) Lassen sich keine geeigneten bestehenden oder möglichen Wärme- oder Kältebedarfspunkte oder keine zur Anbindung geeigneten Anlagen ermitteln, ist eine Wirtschaftlichkeitsanalyse nach § 6 nicht erforderlich; der Antragsteller hat der zuständigen Behörde diesen Umstand darzulegen.
 
-
-## § 6 – Wirtschaftlichkeitsanalyse
+# § 6 – Wirtschaftlichkeitsanalyse
 
 (1) Vor der Wirtschaftlichkeitsanalyse sind folgende umfassende Beschreibungen vorzunehmen:
 
@@ -157,8 +149,7 @@ Die zuständige Behörde prüft bei der Genehmigung der Errichtung oder erheblic
 
 6. Kosten-Nutzen-Vergleich.
 
-
-## § 7 – Ergebnis des Kosten-Nutzen-Vergleichs
+# § 7 – Ergebnis des Kosten-Nutzen-Vergleichs
 
 Das Ergebnis des Kosten-Nutzen-Vergleichs der Wirtschaftlichkeitsanalyse gemäß § 6 Absatz 3 Nummer 6 ist positiv, wenn
 
@@ -168,19 +159,16 @@ Das Ergebnis des Kosten-Nutzen-Vergleichs der Wirtschaftlichkeitsanalyse gemäß
 
 3. bei Anlagen gemäß § 1 Nummer 1 Buchstabe c und bei Fernwärme- oder Fernkältenetzen gemäß § 1 Nummer 2 die ermittelten Gesamtkosten, die zur Deckung des Wärme- und Kältebedarfs unter Nutzung der Abwärme von nahegelegenen Anlagen entstünden, niedriger sind als die Kosten zur Deckung desselben Bedarfs aus eigenen Anlagen.
 
-
-## § 8 – Berücksichtigung des Kosten-Nutzen-Vergleichs
+# § 8 – Berücksichtigung des Kosten-Nutzen-Vergleichs
 
 (1) Die zuständige Behörde berücksichtigt bei der Entscheidung über die Zulässigkeit des Vorhabens das Ergebnis des Kosten-Nutzen-Vergleichs. Zur Feststellung des Ergebnisses des Kosten-Nutzen-Vergleichs berücksichtigt sie ein Testat nach § 3 Absatz 3.
 
 (2) Die zuständige Behörde darf die Zulassung auch bei einem positiven Ergebnis des Kosten-Nutzen-Vergleichs nicht versagen, wenn Maßnahmen auf Grund von Rechtsvorschriften, bestehenden Eigentumsverhältnissen oder der Finanzlage nicht möglich sind. In diesen Fällen muss die Entscheidung zusammen mit einer Begründung durch die zuständige oberste Landesbehörde oder die von ihr bestimmte Behörde über die Bundesregierung an die Europäische Kommission übermittelt werden.
 
-
-## § 9 – Verhältnis zu anderen Vorschriften
+# § 9 – Verhältnis zu anderen Vorschriften
 
 § 12 der Verordnung über Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 2. Mai 2013 (BGBl. I S. 1021, 1023, 3754) sowie § 13 der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021, 1044, 3754) bleiben unberührt.
 
-
-## § 10 – Erstmalige Anwendung
+# § 10 – Erstmalige Anwendung
 
 Die Vorschriften dieser Verordnung gelten nicht für Vorhaben, bei denen die Vollständigkeit der Antragunterlagen vor dem 1. Mai 2015 von der zuständigen Behörde festgestellt worden ist.

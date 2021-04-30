@@ -1,10 +1,7 @@
-# [GKVStabG 2003] Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung im Jahre 2003
-
-Ausfertigungsdatum: 23.12.2002
-
+% Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung im Jahre 2003
+% Ausfertigungsdatum: 23.12.2002
  
-
-## ----
+# ----
 
 (1) Bis zum 31. Dezember 2003 sind Beitragssatzanhebungen der Krankenkassen (§ 4 des Fünften Buches Sozialgesetzbuch) nur zulässig, wenn die dafür erforderlichen Satzungsänderungen vor dem 7. November 2002 genehmigt worden sind. Eine hiervon abweichende Satzungsänderung ist unwirksam. § 220 Abs. 2 des Fünften Buches Sozialgesetzbuch ist in dem in Satz 1 genannten Zeitraum nicht anzuwenden.
 

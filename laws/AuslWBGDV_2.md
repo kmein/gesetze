@@ -1,15 +1,11 @@
-# [AuslWBGDV 2] Zweite Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigte Staaten von Amerika)
-
-Ausfertigungsdatum: 07.03.1953
-
+% Zweite Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigte Staaten von Amerika)
+% Ausfertigungsdatum: 07.03.1953
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des § 76 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung:
 
-
-## § 1 – Geltungsbereich und Begriffsbestimmungen
+# § 1 – Geltungsbereich und Begriffsbestimmungen
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten oder bei einer Ergänzung (§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art einschließlich der dazu ausgegebenen Zins-, Gewinnanteil-, Erneuerungs- und Bezugscheine und anderer Nebenurkunden (§ 5 des Gesetzes), soweit die Vereinigten Staaten von Amerika als Begebungsland angegeben sind (im folgenden "Dollarbonds" genannt).
 
@@ -17,8 +13,7 @@ Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24 Abs. 4, 
 
 § 1 Abs. 1 Kursivdruck: Gegenstandslose Ermächtigung
 
-
-## § 2 – Hinterlegung der Bonds  (§ 23 Abs. 2 bis 5 des Gesetzes)
+# § 2 – Hinterlegung der Bonds  (§ 23 Abs. 2 bis 5 des Gesetzes)
 
 (1) Eine Hinterlegung von Dollarbonds nach § 23 Abs. 2 bis 5 des Gesetzes ist in den Vereinigten Staaten von Amerika vorbehaltlich des Absatzes 2 nur bei der vom Bundesminister der Finanzen bestimmten Bank zulässig (Allgemeine Hinterlegungsstelle). Als Allgemeine Hinterlegungsstelle bestimmt der Bundesminister der Finanzen eine Bank, die auf Grund der Gesetze der Vereinigten Staaten von Amerika oder eines ihrer Staaten gegründet ist, ihre Hauptniederlassung in der Stadt New York im Staate New York hat und deren Kapital einschließlich Reserven mindestens 100 Millionen Dollar beträgt. Der Bundesminister der Finanzen kann nach seinem Ermessen die Bestimmung der Allgemeinen Hinterlegungsstelle aufheben und eine andere Bank, die den Bedingungen des Satzes 2 entspricht, als Allgemeine Hinterlegungsstelle bestimmen.
 
@@ -26,15 +21,13 @@ Auf Grund des § 8 Abs. 6, des § 9 Abs. 5, des § 23 Abs. 5, des § 24 Abs. 4, 
 
 (3) Die Allgemeine Hinterlegungsstelle und etwaige Besondere Hinterlegungsstellen sind im Bundesanzeiger sowie in der von der Regierung der Vereinigten Staaten bezeichneten Weise bekanntzumachen.
 
-
-## § 3 – Bereinigungsstelle  (§ 9 Abs. 5 des Gesetzes)
+# § 3 – Bereinigungsstelle  (§ 9 Abs. 5 des Gesetzes)
 
 (1) Die Aufgaben des Auslandsbevollmächtigten mit Ausnahme der sich aus § 18 Abs. 1, 2, § 33 Abs. 2, § 63 Abs. 5 des Gesetzes ergebenden werden nach § 9 Abs. 5 des Gesetzes hiermit der durch das Abkommen zwischen der Bundesregierung und der Regierung der Vereinigten Staaten von Amerika vom 27. Februar 1953 eingerichteten Bereinigungsstelle für deutsche Bonds in den Vereinigten Staaten (im folgenden "Bereinigungsstelle" genannt) übertragen. Die Bereinigungsstelle kann eines ihrer Mitglieder mit bestimmten Aufgaben beauftragen.
 
 (2) Für das Verfahren vor der Bereinigungsstelle gilt § 9 Abs. 3 des Gesetzes sinngemäß, soweit diese Verordnung nichts anderes bestimmt.
 
-
-## § 4 – Inhalt der Anmeldung und Beweisführung  (§§ 22, 24 des Gesetzes)
+# § 4 – Inhalt der Anmeldung und Beweisführung  (§§ 22, 24 des Gesetzes)
 
 (1) Für die Anmeldung soll der Vordruck verwendet werden, der von der Bereinigungsstelle zur Verfügung gestellt wird.
 
@@ -64,8 +57,7 @@ und, falls der Anmelder den Bond nach dem 1. Januar 1945 erworben hat,
 
 (6) Wenn der Anmelder den Vorschriften der Absätze 2 bis 5 entspricht und sich für die Bereinigungsstelle kein Grund ergibt, die vom Anmelder in seiner Anmeldung gemachten Angaben zu bezweifeln, so ist der angemeldete Auslandsbond anzuerkennen.
 
-
-## § 5 – Verfahren nach der Anmeldung  (§ 24 Abs. 2, 3, § 27 Abs. 2 des Gesetzes)
+# § 5 – Verfahren nach der Anmeldung  (§ 24 Abs. 2, 3, § 27 Abs. 2 des Gesetzes)
 
 (1) Nach Eingang der Anmeldung trifft die Bereinigungsstelle diejenigen Maßnahmen, die durch § 24 Abs. 2 des Gesetzes vorgeschrieben sind.
 
@@ -77,8 +69,7 @@ und, falls der Anmelder den Bond nach dem 1. Januar 1945 erworben hat,
 
 (5) Wenn die Bereinigungsstelle die Rückgabe oder Freigabe eines anerkannten Dollarbonds anordnet (§ 27 Abs. 2 Satz 2 des Gesetzes), so veranlaßt sie, daß dem Bond eine in Stahlstich oder sonst fälschungssicher hergestellte Bescheinigung angeheftet wird, es sei denn, daß der Anmelder vor dieser Anordnung den Umtausch des Bonds gegen einen neuen Bond verlangt hat und daß der neue Bond im Zeitpunkt der Anordnung zur Aushändigung an den Anmelder zur Verfügung steht.
 
-
-## § 6 – Gesetzliche Schiedsgerichte  (§ 35 des Gesetzes)
+# § 6 – Gesetzliche Schiedsgerichte  (§ 35 des Gesetzes)
 
 (1) Für die Nachprüfung ablehnender Entscheidungen der Bereinigungsstelle wird für jeden der zwölf Federal-Reserve-Bezirke der Vereinigten Staaten von Amerika ein Schiedsgericht eingerichtet.
 
@@ -104,24 +95,20 @@ und, falls der Anmelder den Bond nach dem 1. Januar 1945 erworben hat,
 
 (12) Im übrigen bestimmen die Schiedsgerichte ihr Verfahren nach freiem Ermessen.
 
-
-## § 7 – Zustellungen  (§ 70 des Gesetzes)
+# § 7 – Zustellungen  (§ 70 des Gesetzes)
 
 (1) Zustellungen auf Grund dieser Verordnung erfolgen durch eingeschriebenen Brief gegen Rückschein.
 
 (2) Die sonstigen Zustellungen in den Vereinigten Staaten auf Grund des Gesetzes erfolgen in derselben Weise.
 
-
-## § 8 – Nebenurkunden  (§ 5 Abs. 1 des Gesetzes)
+# § 8 – Nebenurkunden  (§ 5 Abs. 1 des Gesetzes)
 
 Die Anerkennung eines Dollarbonds erstreckt sich auf die dazu ausgegebenen Zins-, Gewinnanteil-, Erneuerungs- und Bezugscheine sowie anderen Nebenurkunden derselben Stücknummer, auch wenn diese Nebenurkunden nicht vorgelegt werden.
 
-
-## § 9 – Land Berlin
+# § 9 – Land Berlin
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt diese Verordnung auch im Land Berlin.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

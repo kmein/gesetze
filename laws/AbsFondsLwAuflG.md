@@ -1,10 +1,7 @@
-# [AbsFondsLwAuflG] Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft
-
-Ausfertigungsdatum: 25.05.2011
-
+% Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft
+% Ausfertigungsdatum: 25.05.2011
  
-
-## § 1 – Auflösung und Abwicklung
+# § 1 – Auflösung und Abwicklung
 
 (1) Die Anstalt Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft ist aufgelöst. Bis zur Beendigung der Abwicklung bleibt die Anstalt in der bisherigen Rechtsform bestehen. Die Abwicklung der Anstalt ist beendet, sobald
 
@@ -20,15 +17,13 @@ Neue Verbindlichkeiten können nur eingegangen werden, soweit sie dem Zweck der 
 
 (2) Die Beendigung der Abwicklung ist vom Bundesministerium für Ernährung und Landwirtschaft im Bundesanzeiger bekannt zu geben.
 
-
-## § 2 – Kostentragung und Vermögensüberschussverteilung
+# § 2 – Kostentragung und Vermögensüberschussverteilung
 
 (1) Die Kosten der Abwicklung sind aus dem Vermögen der Anstalt zu tragen.
 
 (2) Verbleibt bei der Anstalt im Zeitpunkt der Beendigung der Abwicklung ein Vermögensüberschuss, so geht dieser Überschuss auf das Zweckvermögen des Bundes nach § 1 Absatz 1 Satz 1 des Gesetzes über das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank über. Die dem Zweckvermögen nach Satz 1 zugewachsenen Finanzmittel sind im Rahmen des § 2 des Gesetzes über das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank zu verwenden.
 
-
-## § 3 – Aufhebung des Absatzfondsgesetzes und der Verordnung über die Beiträge nach dem Absatzfondsgesetz
+# § 3 – Aufhebung des Absatzfondsgesetzes und der Verordnung über die Beiträge nach dem Absatzfondsgesetz
 
 (1) Es werden aufgehoben:
 

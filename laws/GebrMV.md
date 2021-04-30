@@ -1,15 +1,11 @@
-# [GebrMV] Verordnung zur Ausführung des Gebrauchsmustergesetzes  (Gebrauchsmusterverordnung - GebrMV)
-
-Ausfertigungsdatum: 11.05.2004
-
+% Verordnung zur Ausführung des Gebrauchsmustergesetzes  (Gebrauchsmusterverordnung - GebrMV)
+% Ausfertigungsdatum: 11.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 4 des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), der zuletzt durch Artikel 8 Nr. 1 Buchstabe a des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden ist, in Verbindung mit Artikel 29 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) sowie in Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl. I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -77,20 +73,17 @@ Schlussvorschriften
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Für die im Gebrauchsmustergesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt (Gebrauchsmusterangelegenheiten) gelten ergänzend zu den Bestimmungen des Gebrauchsmustergesetzes und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 
 (2) DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
-
-## § 2 – Form der Einreichung
+# § 2 – Form der Einreichung
 
 Erfindungen, für die der Schutz als Gebrauchsmuster verlangt wird (§ 1 Abs. 1 des Gebrauchsmustergesetzes), sind beim Deutschen Patent- und Markenamt schriftlich oder elektronisch anzumelden. Für die elektronische Einreichung ist die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
-
-## § 3 – Gebrauchsmusteranmeldung
+# § 3 – Gebrauchsmusteranmeldung
 
 (1) Für die schriftliche Gebrauchsmusteranmeldung ist für die nachfolgend genannten Angaben das vom Deutschen Patent- und Markenamt herausgegebene Formblatt zu verwenden, sofern diese Verordnung nichts anderes bestimmt.
 
@@ -130,8 +123,7 @@ bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit A
 
 (7) Unterzeichnen Angestellte für ihren anmeldenden Arbeitgeber, so ist auf Anforderung der Nachweis der Zeichnungsbefugnis vorzulegen. Auf beim Deutschen Patent- und Markenamt für die Unterzeichner hinterlegte Angestelltenvollmachten ist unter Angabe der hierfür mitgeteilten Kennnummer hinzuweisen.
 
-
-## § 4 – Anmeldungsunterlagen
+# § 4 – Anmeldungsunterlagen
 
 (1) Die Schutzansprüche, die Beschreibung und die Zeichnungen sind auf gesonderten Blättern einzureichen.
 
@@ -161,8 +153,7 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 5. Gleichmäßig für die gesamten Unterlagen sind schwarze, saubere, scharf konturierte Schriftzeichen und Zeichnungsstriche mit ausreichendem Kontrast zu verwenden. Die Buchstaben der verwendeten Schrift müssen deutlich voneinander getrennt sein und dürfen sich nicht berühren.
 
-
-## § 5 – Schutzansprüche
+# § 5 – Schutzansprüche
 
 (1) In den Schutzansprüchen kann das, was als gebrauchsmusterfähig unter Schutz gestellt werden soll (§ 4 Abs. 3 Nr. 3 des Gebrauchsmustergesetzes), einteilig oder nach Oberbegriff und kennzeichnendem Teil geteilt (zweiteilig) gefasst sein. In beiden Fällen kann die Fassung nach Merkmalen gegliedert sein.
 
@@ -182,8 +173,7 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 (9) Enthält die Anmeldung Zeichnungen, so sollen die in den Schutzansprüchen angegebenen Merkmale mit ihren Bezugszeichen versehen sein.
 
-
-## § 6 – Beschreibung
+# § 6 – Beschreibung
 
 (1) Am Anfang der Beschreibung (§ 4 Abs. 3 Nr. 4 des Gebrauchsmustergesetzes) ist als Titel die im Antrag angegebene Bezeichnung des Gegenstands des Gebrauchsmusters (§ 3 Abs. 2 Nr. 2) anzugeben.
 
@@ -205,8 +195,7 @@ Die Mindestränder können den Namen, die Firma oder die sonstige Bezeichnung de
 
 (3) In die Beschreibung sind keine Markennamen, Fantasiebezeichnungen oder solche Angaben aufzunehmen, die zum Erläutern der Erfindung offensichtlich nicht notwendig sind. Wiederholungen von Schutzansprüchen oder Anspruchsteilen können durch Bezugnahme auf diese ersetzt werden.
 
-
-## § 7 – Zeichnungen
+# § 7 – Zeichnungen
 
 (1) Die Zeichnungen sind auf Blättern mit folgenden Mindesträndern auszuführen:  
 
@@ -230,15 +219,13 @@ Die für die Abbildungen benutzte Fläche darf 26,2 Zentimeter x 17 Zentimeter n
 
 (6) Die Zeichnungen dürfen keine Erläuterungen enthalten; ausgenommen sind kurze unentbehrliche Angaben wie "Wasser", "Dampf", "offen", "zu", "Schnitt nach A-B" sowie in elektrischen Schaltplänen und Blockschaltbildern kurze Stichworte, die für das Verständnis notwendig sind.
 
-
-## § 8 – Abzweigung
+# § 8 – Abzweigung
 
 (1) Hat der Anmelder mit Wirkung für die Bundesrepublik Deutschland für dieselbe Erfindung bereits früher ein Patent angemeldet, so kann er mit der Gebrauchsmusteranmeldung die Erklärung abgeben, dass der für die Patentanmeldung maßgebende Anmeldetag in Anspruch genommen wird. Ein für die Patentanmeldung beanspruchtes Prioritätsrecht bleibt für die Gebrauchsmusteranmeldung erhalten. Das Recht nach Satz 1 kann bis zum Ablauf von zwei Monaten nach dem Ende des Monats, in dem die Patentanmeldung erledigt oder ein etwaiges Einspruchsverfahren abgeschlossen ist, jedoch längstens bis zum Ablauf des zehnten Jahres nach dem Anmeldetag der Patentanmeldung ausgeübt werden (§ 5 Abs. 1 des Gebrauchsmustergesetzes).
 
 (2) Der Abschrift der fremdsprachigen Patentanmeldung (§ 5 Abs. 2 des Gebrauchsmustergesetzes) ist eine deutsche Übersetzung beizufügen, es sei denn, die Anmeldungsunterlagen stellen bereits die Übersetzung der fremdsprachigen Patentanmeldung dar.
 
-
-## § 9 – Fremdsprachige Dokumente
+# § 9 – Fremdsprachige Dokumente
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
 
@@ -256,17 +243,14 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 (5) Wird die Übersetzung im Sinne der Absätze 2 bis 4 nach Ablauf der Frist eingereicht, so gilt das fremdsprachige Dokument als zum Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht eingegangen.
 
-
-## § 10 – Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+# § 10 – Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
 Für Gebrauchsmusteranmeldungen, die vor Inkrafttreten dieser Verordnung eingereicht worden sind, gelten die Vorschriften der Gebrauchsmusteranmeldeverordnung vom 12. November 1986 (BGBl. I S. 1739), zuletzt geändert durch Artikel 22 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656).
 
-
-## § 11 – Übergangsregelung für künftige Änderungen
+# § 11 – Übergangsregelung für künftige Änderungen
 
 Für Gebrauchsmusteranmeldungen, die vor Inkrafttreten von Änderungen dieser Verordnung eingereicht worden sind, gelten die Vorschriften dieser Verordnung in ihrer bis dahin geltenden Fassung.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.

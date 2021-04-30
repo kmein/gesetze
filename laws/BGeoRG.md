@@ -1,17 +1,13 @@
-# [BGeoRG] Gesetz über die geodätischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes  (Bundesgeoreferenzdatengesetz - BGeoRG)
-
-Ausfertigungsdatum: 10.05.2012
-
+% Gesetz über die geodätischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes  (Bundesgeoreferenzdatengesetz - BGeoRG)
+% Ausfertigungsdatum: 10.05.2012
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die geodätischen Referenzsysteme, Referenznetze sowie geotopographischen Referenzdaten des Bundes und im Rahmen der Nutzungsrechte für die Daten des amtlichen Vermessungswesens sowie geotopographischen Referenzdaten von Dritten. Sie sollen den Behörden von Bund und Ländern sowie der Wirtschaft, der Gesellschaft und der Wissenschaft in der erforderlichen Qualität für die im Geodatenzugangsgesetz vom 10. Februar 2009 (BGBl. I S. 278) und diesem Gesetz geregelten Nutzungen bereitgestellt werden.
 
 (2) Die geodatenhaltenden Stellen des Bundes sollen sicherstellen, dass die qualitativen und technischen Vorgaben für die von ihnen erhobenen oder erstellten geotopographischen Referenzdaten und die dazugehörigen Metadaten sowie für geodätische Referenzsysteme und -netze eingehalten werden, so dass ein einfacher Austausch und eine breite Nutzung nach Absatz 1 Satz 2 gewährleistet sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 1. Geotopographische Referenzdaten sind diejenigen Geodaten, die die Geotopographie anwendungsneutral in einem einheitlichen geodätischen Referenzsystem beschreiben oder abbilden.
 
@@ -21,8 +17,7 @@ Ausfertigungsdatum: 10.05.2012
 
 4. Kartographische Modelle sind Darstellungen, mit denen geotopographische Referenzdaten anwendungsbezogen kartographisch veranschaulicht werden. Sie werden durch Kartenwerke in digitaler und analoger Form umgesetzt. Darstellungen der Geotopographie werden auch durch Methoden der Fernerkundung erzeugt.
 
-
-## § 3 – Bundesamt für Kartographie und Geodäsie
+# § 3 – Bundesamt für Kartographie und Geodäsie
 
 (1) Das Bundesamt für Kartographie und Geodäsie ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat.
 
@@ -42,20 +37,17 @@ Ausfertigungsdatum: 10.05.2012
 
 6. Vertretung fachlicher Interessen Deutschlands auf europäischer und internationaler Ebene einschließlich der Mitwirkung an der Vorbereitung von zivilen Programmen und Rechtsvorschriften sowie an der methodischen und technischen Vorbereitung und Harmonisierung von kartographischen und geodätischen Produkten.
 
-
-## § 4 – Weitere geotopographische Referenzdaten führende Stellen des Bundes
+# § 4 – Weitere geotopographische Referenzdaten führende Stellen des Bundes
 
 Geotopographische Referenzdaten führende Stellen des Bundes sind diejenigen Bundesbehörden, die geotopographische Referenzdaten des Bundes erheben, verarbeiten und nutzen. Die geotopographischen Referenzdaten sowie geodätischen Referenzsysteme und -netze des Bundes werden, soweit sie nicht in die Zuständigkeit des Bundesamtes für Kartographie und Geodäsie fallen, von den anderen geotopographische Referenzdaten führenden Stellen des Bundes zur Nutzung durch Bundesbehörden und zur Erfüllung der unionsrechtlichen und internationalen Verpflichtungen Deutschlands erhoben, verarbeitet und genutzt.
 
-
-## § 5 – Austausch unter Behörden
+# § 5 – Austausch unter Behörden
 
 (1) Die geodatenhaltenden Stellen des Bundes gewähren sich untereinander Zugang zu den zur Erfüllung ihrer öffentlichen Aufgaben vorhandenen oder bereitgehaltenen geotopographischen Referenzdaten.
 
 (2) Die geotopographischen Referenzdaten haltenden Stellen des Bundes fordern untereinander keine Gegenleistung für die Zurverfügungstellung von geotopographischen Referenzdaten des Bundes, soweit deren Nutzung zur Wahrnehmung öffentlicher Aufgaben nicht wirtschaftlicher Art erfolgt.
 
-
-## § 6 – Technische Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen
+# § 6 – Technische Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen
 
 (1) Die geodatenhaltenden Stellen des Bundes, die geotopographische Referenzdaten erheben oder erstellen, haben die qualitativen und technischen Anforderungen nach § 1 Absatz 2 nach dem Stand der Technik zu erfüllen. Die Einhaltung des Standes der Technik wird vermutet, wenn die Technischen Richtlinien des Interministeriellen Ausschusses für Geoinformationswesen in der jeweils im elektronischen Bundesanzeiger<span id="FnR.F776484_01"></span><a href="#F776484_01" class="FnR">*)</a></sup> veröffentlichten Fassung eingehalten werden.
 
@@ -93,7 +85,6 @@ Die Festlegungen der qualitativen und technischen Vorgaben erfolgt im Einvernehm
 
 (4) Die Technischen Richtlinien sind im elektronischen Bundesanzeiger<a href="#F776484_01" class="FnR">*)</a></sup> zu veröffentlichen.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. November 2012 in Kraft.

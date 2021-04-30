@@ -1,10 +1,7 @@
-# [SchSG] Schiffssicherheitsgesetz  (SchSG)
-
-Ausfertigungsdatum: 09.09.1998
-
+% Schiffssicherheitsgesetz  (SchSG)
+% Ausfertigungsdatum: 09.09.1998
  
-
-## § 1 – Anwendungsbereich und Begriffsbestimmungen
+# § 1 – Anwendungsbereich und Begriffsbestimmungen
 
 (1) Dieses Gesetz bestimmt, welche Maßnahmen bei der Durchführung der jeweils geltenden internationalen Regelungen zur Schiffssicherheit und zum Umweltschutz auf See (Regelungen) vorzunehmen sind, um die Sicherheit und den Umweltschutz auf See sowie den damit unmittelbar im Zusammenhang stehenden Arbeitsschutz zu gewährleisten.
 
@@ -24,8 +21,7 @@ Ausfertigungsdatum: 09.09.1998
 
 6. den Warenverkehr einschließlich der Sicherheit nach dem Produktsicherheitsgesetz.
 
-
-## § 2 – Weitere Begriffsbestimmungen und Ausnahmen vom Anwendungsbereich
+# § 2 – Weitere Begriffsbestimmungen und Ausnahmen vom Anwendungsbereich
 
 (1) Schiffe im Sinne dieses Gesetzes sind
 
@@ -59,30 +55,25 @@ vorbehaltlich der Nummern 3 bis 5 nur anwendbar, wenn sie in Abschnitt A oder Ab
 
 (3) Auf Schiffe der Bundeswehr und der Deutschen Gesellschaft zur Rettung Schiffbrüchiger sowie auf Schiffe unter ausländischer Flagge, die im Dienst ausländischer Staaten ausschließlich für andere als Handelszwecke genutzt werden, sind die Vorschriften dieses Gesetzes nicht anwendbar.
 
-
-## § 3 – Grundsatz
+# § 3 – Grundsatz
 
 Wer ein Schiff zur Seefahrt einsetzt, ist verpflichtet, für dessen sicheren Betrieb und insbesondere dafür zu sorgen, daß es samt seinem Zubehör in betriebssicherem Zustand gehalten und sicher geführt wird und daß die notwendigen Vorkehrungen zum Schutze Dritter vor Gefahren aus dem Betrieb sowie zum Schutz der Meeresumwelt und der Luft vor Gefahren oder widerrechtlichen Beeinträchtigungen aus dem Betrieb getroffen werden. Dies umfaßt auch, daß Personen, die in dem Schiffahrtsunternehmen und auf dem Schiff hierfür beauftragt werden, wirksam ausgewählt, angeleitet, unterrichtet, beobachtet und unterstützt werden.
 
-
-## § 4 – Einheitliche Durchführung völkerrechtlicher Regeln und Normen
+# § 4 – Einheitliche Durchführung völkerrechtlicher Regeln und Normen
 
 Soweit sich aus den innerstaatlichen Rechtsvorschriften, die die in den Abschnitten A und B der Anlage genannten internationalen Regelungen umsetzen, bestimmte Pflichten ergeben, die durch Personen, Organisationen oder Unternehmen - auch für bestimmte Schiffe oder Schiffe bestimmter Baujahre von oder bis zu einem bestimmten Zeitpunkt - zu erfüllen sind (Anforderungen), ohne daß hierfür bestimmte Personen, Organisationen oder Unternehmen als verantwortlich genannt sind, gelten für die Verantwortlichkeit hinsichtlich der Erfüllung dieser Anforderungen die in den §§ 7 bis 9 enthaltenen einheitlichen Grundsätze. Bei der Erfüllung der Pflichten sind die in Abschnitt C der Anlage genannten Bestimmungen zugrunde zu legen.
 
-
-## § 5 – Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union*)
+# § 5 – Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union*)
 
 (1) Soweit die in Abschnitt D der Anlage genannten Regelungen der Europäischen Gemeinschaften oder der Europäischen Union durch Verpflichtung der Mitgliedstaaten der Europäischen Union darauf abzielen, daß in ihnen genannte Personen, Organisationen oder Unternehmen bestimmte Pflichten einzuhalten haben, sind die sich daraus ergebenden Pflichten von den jeweils Genannten zu erfüllen; diese sind insoweit für die Einhaltung der Regelungen verantwortlich.
 
-(2) Soweit die in Abschnitt D der Anlage genannten Regelungen der Europäischen Gemeinschaften oder der Europäischen Union auf die Einhaltung bestimmter Pflichten von Personen, Organisationen oder Unternehmen abzielen, ohne daß hierfür bestimmte Personen, Organisationen oder Unternehmen als verantwortlich genannt sind, gelten für die Verantwortlichkeit hinsichtlich der Erfüllung der sich daraus ergebenden Pflichten die §§ 7 bis 9 entsprechend.  
-----------
+(2) Soweit die in Abschnitt D der Anlage genannten Regelungen der Europäischen Gemeinschaften oder der Europäischen Union auf die Einhaltung bestimmter Pflichten von Personen, Organisationen oder Unternehmen abzielen, ohne daß hierfür bestimmte Personen, Organisationen oder Unternehmen als verantwortlich genannt sind, gelten für die Verantwortlichkeit hinsichtlich der Erfüllung der sich daraus ergebenden Pflichten die §§ 7 bis 9 entsprechend. ----------
 
 \*)
 
 Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage genannten gemeinschaftsrechtlichen Vorschriften.
 
-
-## § 6 – Ergänzende Pflichten
+# § 6 – Ergänzende Pflichten
 
 (1) Der Schiffseigentümer hat ein Seeschiff, das in ein deutsches Schiffsregister eingetragen wird, zuvor im Einklang mit den internationalen Regelungen amtlich vermessen zu lassen; er hat der hierfür zuständigen Behörde nachträgliche Änderungen des baulichen Zustands anzuzeigen. Dasselbe gilt für ein Binnenschiff, dessen Vermessung nach den internationalen Regelungen vorausgesetzt wird.
 
@@ -92,8 +83,7 @@ Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage genannten gem
 
 (4) Die Anwendung der in Abschnitt E der Anlage aufgeführten internationalen Schiffssicherheitsnormen als allgemein anerkannte Regeln der Technik oder der seemännischen Praxis bleibt unberührt. Das Bundesministerium für Verkehr und digitale Infrastruktur macht den Abschnitt E betreffende Änderungen und Ergänzungen im Verkehrsblatt bekannt.
 
-
-## § 7 – Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
+# § 7 – Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
 
 Für die Erfüllung von Anforderungen, die
 
@@ -105,8 +95,7 @@ Für die Erfüllung von Anforderungen, die
 
 betreffen, ist der Schiffseigentümer verantwortlich.
 
-
-## § 8 – Verhalten beim Schiffsbetrieb
+# § 8 – Verhalten beim Schiffsbetrieb
 
 (1) Für die Erfüllung von Anforderungen hinsichtlich des Verhaltens beim Schiffsbetrieb an Bord, insbesondere in Bezug auf den Wachdienst, Ladung und Ballast, Tanks, Schadstoffe, Müllbeseitigung, Übungen und Notfallbekämpfung, Aufzeichnungen und Eintragungen, Unterrichtungen und Meldungen über Vorgänge beim Bordbetrieb sowie das Mitführen und Vorlegen von Zeugnissen, Bescheinigungen und einschlägigen Unterlagen, ist der Schiffsführer verantwortlich.
 
@@ -116,8 +105,7 @@ betreffen, ist der Schiffseigentümer verantwortlich.
 
 (4) Der Schiffsführer ist vorbehaltlich der zuständigen Behörden für die Gefahrenabwehr auf dem Schiff verantwortlich und hat dabei die Einhaltung der entsprechenden Verpflichtungen sicherzustellen. Dazu zählen insbesondere die Verpflichtungen nach dem Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See und dem Internationalen Code für die Gefahrenabwehr auf Schiffen und in Hafenanlagen, soweit sie die Gefahrenabwehr durch den Kapitän betreffen.
 
-
-## § 9 – Verantwortliche Personen
+# § 9 – Verantwortliche Personen
 
 (1) Verantwortlich im Sinne dieses Gesetzes sind,
 
@@ -139,8 +127,7 @@ d) Personen, die ihm gegenüber die Verantwortung für den Betrieb des Schiffes 
 
 (3) Die Verantwortlichkeit nach anderen Rechtsvorschriften bleibt unberührt.
 
-
-## § 10 – Überwachung
+# § 10 – Überwachung
 
 (1) Der Schiffseigentümer und der Schiffsführer haben auf Anforderung der zuständigen Behörde die amtliche Überwachung der Einhaltung der internationalen Regelungen und der darauf beruhenden Pflichten zu ermöglichen.
 
@@ -152,58 +139,48 @@ d) Personen, die ihm gegenüber die Verantwortung für den Betrieb des Schiffes 
 
 (5) Die Verantwortlichkeit der in diesem Gesetz oder in sonstigen Rechtsvorschriften Genannten bleibt unberührt.
 
-
-## § 11 – Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union*)
+# § 11 – Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union*)
 
 (1) Die im Sinne des § 10 Abs. 2 zuständigen Behörden des Bundes haben - hinsichtlich der schiffahrtspolizeilichen Vollzugsaufgaben unbeschadet der Vereinbarungen über deren Ausübung im Sinne des § 3 Abs. 2 des Seeaufgabengesetzes - jeweils die Überprüfungs-, Gestaltungs- und Eingriffsbefugnisse, -aufgaben und -pflichten, die die in Abschnitt D der Anlage genannten Einzelregelungen den Mitgliedstaaten zur Verwaltung oder ihren Verwaltungsbehörden für einen Fall vorbehalten oder zuweisen. Im Rahmen der genannten Befugnisse können sie die erforderlichen Anordnungen treffen, um Gefahren und schädliche Umwelteinwirkungen zu verhüten und abzuwehren; sie können im Einklang mit den genannten Regelungen Ausnahmen zulassen.
 
-(2) Die Zeugnisse und Bescheinigungen, die für den Nachweis der Einhaltung der Anforderungen und Pflichten nach den Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union in Abschnitt D der Anlage erforderlich sind, werden in Übereinstimmung mit diesen Vorschriften ausgestellt, erteilt, geändert, bestätigt, verlängert, anerkannt, zugelassen und angewendet, eingeschränkt, zurückgewiesen, für ungültig erklärt, eingezogen oder verwahrt.  
-----------
+(2) Die Zeugnisse und Bescheinigungen, die für den Nachweis der Einhaltung der Anforderungen und Pflichten nach den Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union in Abschnitt D der Anlage erforderlich sind, werden in Übereinstimmung mit diesen Vorschriften ausgestellt, erteilt, geändert, bestätigt, verlängert, anerkannt, zugelassen und angewendet, eingeschränkt, zurückgewiesen, für ungültig erklärt, eingezogen oder verwahrt. ----------
 
 \*)
 
 Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage genannten gemeinschaftsrechtlichen Vorschriften.
 
-
-## § 12 – Ermessensbindung
+# § 12 – Ermessensbindung
 
 Wird in den internationalen Regelungen die Ausfüllung eines vorgeschriebenen Standards ausdrücklich in das Ermessen der Verwaltung gestellt, so berücksichtigt die zuständige Behörde bei der Ermessensausübung die für diesen Fall von der Internationalen Seeschiffahrts-Organisation oder einer anderen für diesen Bereich zuständigen zwischenstaatlichen Organisation beschlossenen Empfehlungen, nachdem sie sie an geeigneter Stelle in deutscher Sprache bekanntgemacht hat.
 
-
-## § 13 – Maßnahmen bei Verstößen
+# § 13 – Maßnahmen bei Verstößen
 
 (1) Bei der Anordnung von Maßnahmen wegen eines Verstoßes gegen internationale Schiffssicherheitsregelungen und Pflichten nach diesem Gesetz einschließlich solcher aus Umweltvorschriften richten sich die zuständigen Behörden auch nach den hierfür in diesen Regelungen sowie nach dem Seerechtsübereinkommen der Vereinten Nationen von 1982 vorgeschriebenen Regeln, Verfahren und Gebräuchen.
 
 (2) Ein Zeugnis über die Erfüllung der einschlägigen Vorschriften, das nach Regel IX/4.1 des in Abschnitt A der Anlage unter Nummer 1 genannten Übereinkommens ausgestellt wurde, sowie ein Zeugnis über die Organisation von Sicherheitsmaßnahmen, das nach Regel IX/4.3 dieses Übereinkommens ausgestellt wurde, kann von der erteilenden Stelle für ungültig erklärt und eingezogen werden, wenn der Verantwortliche nach Ablauf einer von dieser Stelle gesetzten Nachfrist die periodische Nachprüfung nicht rechtzeitig beantragt hat oder wenn in erheblichem Umfang gegen internationale Schiffssicherheitsregelungen hinsichtlich der Sicherheitsorganisation verstoßen wird.
 
-
-## § 14 – Überprüfung von Schiffen unter ausländischer Flagge*)
+# § 14 – Überprüfung von Schiffen unter ausländischer Flagge*)
 
 (1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt unter Beachtung der allgemeinen Regeln des Völkerrechts und der internationalen Regelungen, in den Häfen zugleich unter Einhaltung der Vorschriften, die zur Umsetzung der Richtlinie 95/21/EG und deren gemeinschaftsrechtlicher Änderungen und Ergänzungen sowie weiterer gemeinschaftsrechtlicher Vorschriften über die Hafenstaatkontrolle erlassen werden.
 
-(2) Kann ein nach Abschnitt A der Anlage erforderlicher Nachweis ausschließlich deshalb nicht anerkannt werden, weil der Flaggenstaat nicht Vertragspartei der zugrundeliegenden internationalen Regelung ist, so ist als Schiffssicherheitsanforderung insofern ein Standard einzuhalten, der den Zielen der internationalen Schiffssicherheitsregelungen nach Maßgabe der Schiffssicherheitsverordnung entspricht. Dies gilt entsprechend für nach Abschnitt A der Anlage erforderliche Nachweise über die Einhaltung von Umweltschutzstandards.  
-----------
+(2) Kann ein nach Abschnitt A der Anlage erforderlicher Nachweis ausschließlich deshalb nicht anerkannt werden, weil der Flaggenstaat nicht Vertragspartei der zugrundeliegenden internationalen Regelung ist, so ist als Schiffssicherheitsanforderung insofern ein Standard einzuhalten, der den Zielen der internationalen Schiffssicherheitsregelungen nach Maßgabe der Schiffssicherheitsverordnung entspricht. Dies gilt entsprechend für nach Abschnitt A der Anlage erforderliche Nachweise über die Einhaltung von Umweltschutzstandards. ----------
 
 \*)
 
 Diese Bestimmung dient zugleich der Umsetzung folgender Vorschriften: Richtlinie 95/21/EG des Rates vom 19. Juni 1995 zur Durchsetzung internationaler Normen für die Schiffssicherheit, die Verhütung von Verschmutzung und die Lebens- und Arbeitsbedingungen an Bord von Schiffen, die Gemeinschaftshäfen anlaufen und in den Hoheitsgewässern der Mitgliedstaaten fahren (Hafenstaatkontrolle); Artikel 8 und 10 der Richtlinie 94/58/EG des Rates vom 22. November 1994 über Mindestanforderungen für die Ausbildung von Seeleuten.
 
-
-## § 15 – Rechtsetzungsermächtigung
+# § 15 – Rechtsetzungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Abwehr von Gefahren im Sinne des Seeaufgabengesetzes durch Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und aufgrund innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich oder unionsrechtlich in Kraft getretenen schiffsbezogenen Regelungen zu ändern.
 
-
-## Anlage – zum SchiffssicherheitsgesetzInternationaler schiffsbezogener Sicherheitsstandard
+# Anlage – zum SchiffssicherheitsgesetzInternationaler schiffsbezogener Sicherheitsstandard
 
 (Fundstelle: BGBl. I 2005, 2986 - 3006;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-A.  
-Allgemein anerkannte völkerrechtliche Regeln und Normen:
+A. Allgemein anerkannte völkerrechtliche Regeln und Normen:
 
-I.  
-Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See mit Anlage und Anhang sowie Protokolle von 1978 und 1988 zu diesem Übereinkommen (SOLAS)
+I. Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See mit Anlage und Anhang sowie Protokolle von 1978 und 1988 zu diesem Übereinkommen (SOLAS)
 
 (BGBl. 1979 II S. 141, 1980 II S. 525, 1983 II S. 784, 1994 II S. 2458 sowie Anlageband zum BGBl. II Nr. 44 vom 27. September 1994 S. 43);
 
@@ -821,8 +798,7 @@ Zu Kapitel V der Anlage zu SOLAS (Sicherung der Seefahrt):
 Zu Regeln 18 und 19 (- hinsichtlich der Verwendung der Ausrüstung an Bord -):  
   
 
-Die von der IMO oder einer anderen zuständigen zwischenstaatlichen Organisation angenommenen Standards, die bei einer durch die internationalen Regelungen vorgeschriebenen Baumusterprüfung zugrunde zu legen sind, werden jeweils nach § 9d des Seeaufgabengesetzes amtlich bekannt gemacht.  
-  
+Die von der IMO oder einer anderen zuständigen zwischenstaatlichen Organisation angenommenen Standards, die bei einer durch die internationalen Regelungen vorgeschriebenen Baumusterprüfung zugrunde zu legen sind, werden jeweils nach § 9d des Seeaufgabengesetzes amtlich bekannt gemacht.   
 
 Zu Regel 23 (– hinsichtlich Lotsenversetzeinrichtungen –):
 
@@ -2103,8 +2079,7 @@ Empfehlungen zur Vermessung oben offener Containerschiffe
 
 (VkBl. 2008 S. 120)
 
-V.  
-Übereinkommen vom 15. Februar 1966 über die Eichung von Binnenschiffen
+V. Übereinkommen vom 15. Februar 1966 über die Eichung von Binnenschiffen
 
 (BGBl. 1973 II S. 1417)
 
@@ -2142,11 +2117,9 @@ IX. Internationales Übereinkommen von 2004 zur Kontrolle und Behandlung von Bal
 
 (BGBl. 2013 II S. 42, 44; 2017 II S. 1239)
 
-B.  
-Für die jeweiligen Vertragsstaaten anwendbare weitere Regeln in multilateralen völkerrechtlichen Vereinbarungen:
+B. Für die jeweiligen Vertragsstaaten anwendbare weitere Regeln in multilateralen völkerrechtlichen Vereinbarungen:
 
-I.  
-Artikel 10 Abs. 1 und 3 des Internationalen Übereinkommens von 1989 über Bergung
+I. Artikel 10 Abs. 1 und 3 des Internationalen Übereinkommens von 1989 über Bergung
 
 (BGBl. 2001 II S. 510, BGBl. 2002 I S. 1944)
 
@@ -2193,8 +2166,7 @@ f) Verordnung (EG) Nr. 789/2004 des Europäischen Parlaments und des Rates vom 2
 
 2. den in Abschnitt D Nr. 1 bis 4, 5, 6 bis 7.3, 8 bis 8.5, 9, 10 bis 10.4, 11 bis 11.2, 12 bis 12.2 <span id="FnR.bjnr26010998bjne001635308_03"></span><a href="#bjnr26010998bjne001635308_03" class="FnR">3)</a></sup> , 12.4, 13 bis 13.1, 14.1 und 15 bis 19 genannten Richtlinien.
 
-V.  
-Übereinkommen vom 28. Februar 1996 über die besonderen Stabilitätsanforderungen an Ro-Ro-Fahrgastschiffe, die regelmäßig und planmäßig in der Auslandfahrt zwischen, nach oder von bestimmten Häfen in Nordwesteuropa und der Ostsee verkehren (Stockholm-Übereinkommen von 1996)
+V. Übereinkommen vom 28. Februar 1996 über die besonderen Stabilitätsanforderungen an Ro-Ro-Fahrgastschiffe, die regelmäßig und planmäßig in der Auslandfahrt zwischen, nach oder von bestimmten Häfen in Nordwesteuropa und der Ostsee verkehren (Stockholm-Übereinkommen von 1996)
 
 (BGBl. 1997 II S. 540) unter Berücksichtigung der Bekanntmachung über die Anwendung von Modellversuchen im Zusammenhang mit der Erfüllung des Übereinkommens über die besonderen Stabilitätsanforderungen an Ro-Ro-Fahrgastschiffe vom 29. Juli 2004 (VkBl. 2004 S. 433)
 
@@ -2205,11 +2177,9 @@ Artikel 4 und 5 in Verbindung mit den Anhängen 2 und 3 sowie mit Artikel 1 der 
 
 (BGBl. 2000 II S. 1213)
 
-C.  
-Internationale Richtlinien und Standards, die bestimmten in Abschnitt A genannten Regeln und Normen zugrunde gelegt werden müssen:
+C. Internationale Richtlinien und Standards, die bestimmten in Abschnitt A genannten Regeln und Normen zugrunde gelegt werden müssen:
 
-I.  
-Zu der Anlage zu SOLAS:
+I. Zu der Anlage zu SOLAS:
 
 I.1.1  
 Zu den Regeln II-1/2.28 und II-1/3-10:  
@@ -2962,8 +2932,7 @@ IV.1.1
 IV.1.2  
 (weggefallen)
 
-V.  
-Zum Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober 2001 (BGBl. 2008 II S. 522) (AFS-Übereinkommen):
+V. Zum Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober 2001 (BGBl. 2008 II S. 522) (AFS-Übereinkommen):
 
 V.1  
 Zum Übereinkommen:  
@@ -3083,8 +3052,7 @@ Angenommen am 28. Oktober 2016
 
 (VkBl. 2019 S. 364)
 
-D.  
-Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union<span id="FnR.bjnr286010998bjne001635308_04"></span><a href="#bjnr286010998bjne001635308_04" class="FnR">4</a></sup> :
+D. Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union<span id="FnR.bjnr286010998bjne001635308_04"></span><a href="#bjnr286010998bjne001635308_04" class="FnR">4</a></sup> :
 
 –  
 Die Änderungshistorie der in diesem Abschnitt genannten Rechtsvorschriften des Gemeinschafts- und Unionsrechts ist über das Internet unter www.eur-lex.europa.eu abrufbar. –
@@ -3162,8 +3130,7 @@ Für eine Übergangszeit bis zum 19.12.2023 können Angaben nach Artikel 4 Absat
 
 21. Artikel 5, 6 Absatz 1 bis 6 sowie 8 und 9 Buchstabe b, Artikel 7 Absatz 1 und 2, Artikel 8 Absatz 2 und 4 der Richtlinie (EU) 2016/802 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über eine Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe (ABl. L 132 vom 21.5.2016, S. 58)
 
-E.  
-Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare anerkannte Regeln der Technik oder der seemännischen Praxis bekanntgemacht worden sind (§ 6 Abs. 4):
+E. Internationale Schiffssicherheitsnormen, die in Deutschland als anwendbare anerkannte Regeln der Technik oder der seemännischen Praxis bekanntgemacht worden sind (§ 6 Abs. 4):
 
 1. Code für den Bau und die Ausrüstung von Schiffen zur Beförderung verflüssigter Gase als Massengut (GC-Code) einschließlich der Nachträge 1 bis 3 (Entschl.A.328(IX))
 

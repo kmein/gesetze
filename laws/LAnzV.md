@@ -1,15 +1,11 @@
-# [LAnzV] Verordnung zur Konkretisierung von Art, Umfang und Form der Mitteilungen und Benachrichtigungen gemäß Artikel 17 Absatz 5, 6, 9 und 10 der Verordnung (EU) Nr. 236/2012  (Leerverkaufs-Anzeigeverordnung - LAnzV)
-
-Ausfertigungsdatum: 16.04.2014
-
+% Verordnung zur Konkretisierung von Art, Umfang und Form der Mitteilungen und Benachrichtigungen gemäß Artikel 17 Absatz 5, 6, 9 und 10 der Verordnung (EU) Nr. 236/2012  (Leerverkaufs-Anzeigeverordnung - LAnzV)
+% Ausfertigungsdatum: 16.04.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30h Absatz 4 Satz 1 Nummer 2 des Wertpapierhandelsgesetzes, der durch Artikel 1 Nummer 5 des Gesetzes vom 6. November 2012 (BGBl. I S. 2286) geändert worden ist, in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 12. September 2013 (BGBl. I S. 3606) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf
 
@@ -19,8 +15,7 @@ Diese Verordnung ist anzuwenden auf
 
 3. die Benachrichtigungen nach Artikel 17 Absatz 9 und 10 der Verordnung (EU) Nr. 236/2012.
 
-
-## § 2 – Absichtsanzeige für Market-Making-Tätigkeiten
+# § 2 – Absichtsanzeige für Market-Making-Tätigkeiten
 
 Die Absichtsanzeige für Market-Making-Tätigkeiten muss Folgendes enthalten:
 
@@ -60,8 +55,7 @@ die ISIN und die Bezeichnung der Aktie, auf die sich das Finanzinstrument bezieh
 
 8. das Datum der Absichtsanzeige.
 
-
-## § 3 – Absichtsanzeige für Primärmarkttätigkeiten
+# § 3 – Absichtsanzeige für Primärmarkttätigkeiten
 
 (1) Die Absichtsanzeige für Primärmarkttätigkeiten muss Folgendes enthalten:
 
@@ -75,18 +69,15 @@ die ISIN und die Bezeichnung der Aktie, auf die sich das Finanzinstrument bezieh
 
 (2) Der Absichtsanzeige ist eine Kopie der Vereinbarung oder Anerkennung der Primärhändler-Tätigkeit des Anzeigenden beizufügen. Die Vereinbarung oder Anerkennung muss von dem jeweiligen öffentlichen Emittenten oder einer in seinem Namen handelnden Person unterzeichnet sein.
 
-
-## § 4 – Formular
+# § 4 – Formular
 
 Die Absichtsanzeigen nach den §§ 2 und 3 haben unter Verwendung des jeweiligen auf der Internetseite der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) zur Verfügung gestellten Formulars zu erfolgen. Bei Übersendung per Fax ist die in dem Formular angegebene Faxnummer zu verwenden.
 
-
-## § 5 – Benachrichtigung über Änderungen
+# § 5 – Benachrichtigung über Änderungen
 
 In der Benachrichtigung des Market Makers oder Primärhändlers über Änderungen nach Artikel 17 Absatz 9 oder 10 der Verordnung (EU) Nr. 236/2012 ist der neue Sachverhalt darzustellen. Hierbei gelten die jeweils einschlägigen Vorgaben der §§ 2 und 3 entsprechend.
 
-
-## § 6 – Bestandsliste
+# § 6 – Bestandsliste
 
 (1) Die Absichtsanzeigen nach den §§ 2 und 3 sind zusätzlich unverzüglich in elektronischer Form an die auf der Internetseite der Bundesanstalt angegebene E-Mail-Adresse zu übermitteln. Diese Pflicht gilt entsprechend für die Benachrichtigung nach § 5, mit der mitgeteilt wird, dass die Ausnahme hinsichtlich einzelner Finanzinstrumente nicht länger in Anspruch genommen wird.
 
@@ -94,7 +85,6 @@ In der Benachrichtigung des Market Makers oder Primärhändlers über Änderunge
 
 (3) Die Änderungen zu einer vormals übermittelten Bestandsliste sind kenntlich zu machen.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Leerverkaufs-Anzeigeverordnung vom 7. April 2011 (BGBl. I S. 636) außer Kraft.

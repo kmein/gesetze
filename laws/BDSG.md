@@ -1,12 +1,7 @@
-# [BDSG] Bundesdatenschutzgesetz  (BDSG)
-
-Ausfertigungsdatum: 30.06.2017
-
+% Bundesdatenschutzgesetz  (BDSG)
+% Ausfertigungsdatum: 30.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -54,8 +49,9 @@ Ausfertigungsdatum: 30.06.2017
 
  
 
+ 
 
-## § 1 – Anwendungsbereich des Gesetzes
+# § 1 – Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz gilt für die Verarbeitung personenbezogener Daten durch
 
@@ -91,8 +87,7 @@ Sofern dieses Gesetz nicht gemäß Satz 2 Anwendung findet, gelten für den Vera
 
 (8) Für Verarbeitungen personenbezogener Daten durch öffentliche Stellen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten finden die Verordnung (EU) 2016/679 und die Teile 1 und 2 dieses Gesetzes entsprechend Anwendung, soweit nicht in diesem Gesetz oder einem anderen Gesetz Abweichendes geregelt ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Öffentliche Stellen des Bundes sind die Behörden, die Organe der Rechtspflege und andere öffentlich-rechtlich organisierte Einrichtungen des Bundes, der bundesunmittelbaren Körperschaften, der Anstalten und Stiftungen des öffentlichen Rechts sowie deren Vereinigungen ungeachtet ihrer Rechtsform.
 
@@ -110,13 +105,11 @@ Andernfalls gelten sie als öffentliche Stellen der Länder.
 
 (5) Öffentliche Stellen des Bundes gelten als nichtöffentliche Stellen im Sinne dieses Gesetzes, soweit sie als öffentlich-rechtliche Unternehmen am Wettbewerb teilnehmen. Als nichtöffentliche Stellen im Sinne dieses Gesetzes gelten auch öffentliche Stellen der Länder, soweit sie als öffentlich-rechtliche Unternehmen am Wettbewerb teilnehmen, Bundesrecht ausführen und der Datenschutz nicht durch Landesgesetz geregelt ist.
 
-
-## § 3 – Verarbeitung personenbezogener Daten durch öffentliche Stellen
+# § 3 – Verarbeitung personenbezogener Daten durch öffentliche Stellen
 
 Die Verarbeitung personenbezogener Daten durch eine öffentliche Stelle ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit des Verantwortlichen liegenden Aufgabe oder in Ausübung öffentlicher Gewalt, die dem Verantwortlichen übertragen wurde, erforderlich ist.
 
-
-## § 4 – Videoüberwachung öffentlich zugänglicher Räume
+# § 4 – Videoüberwachung öffentlich zugänglicher Räume
 
 (1) Die Beobachtung öffentlich zugänglicher Räume mit optisch-elektronischen Einrichtungen (Videoüberwachung) ist nur zulässig, soweit sie
 
@@ -142,8 +135,7 @@ gilt der Schutz von Leben, Gesundheit oder Freiheit von dort aufhältigen Person
 
 (5) Die Daten sind unverzüglich zu löschen, wenn sie zur Erreichung des Zwecks nicht mehr erforderlich sind oder schutzwürdige Interessen der betroffenen Personen einer weiteren Speicherung entgegenstehen.
 
-
-## § 5 – Benennung
+# § 5 – Benennung
 
 (1) Öffentliche Stellen benennen eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten. Dies gilt auch für öffentliche Stellen nach § 2 Absatz 5, die am Wettbewerb teilnehmen.
 
@@ -155,8 +147,7 @@ gilt der Schutz von Leben, Gesundheit oder Freiheit von dort aufhältigen Person
 
 (5) Die öffentliche Stelle veröffentlicht die Kontaktdaten der oder des Datenschutzbeauftragten und teilt diese Daten der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit mit.
 
-
-## § 6 – Stellung
+# § 6 – Stellung
 
 (1) Die öffentliche Stelle stellt sicher, dass die oder der Datenschutzbeauftragte ordnungsgemäß und frühzeitig in alle mit dem Schutz personenbezogener Daten zusammenhängenden Fragen eingebunden wird.
 
@@ -172,8 +163,7 @@ gilt der Schutz von Leben, Gesundheit oder Freiheit von dort aufhältigen Person
 
 (+++ § 6 Abs. 4, 5 Satz 2 u. Abs. 6: zur Anwendung vgl. § 38 Abs. 2 +++)
 
-
-## § 7 – Aufgaben
+# § 7 – Aufgaben
 
 (1) Der oder dem Datenschutzbeauftragten obliegen neben den in der Verordnung (EU) 2016/679 genannten Aufgaben zumindest folgende Aufgaben:
 
@@ -193,8 +183,7 @@ Im Fall einer oder eines bei einem Gericht bestellten Datenschutzbeauftragten be
 
 (3) Die oder der Datenschutzbeauftragte trägt bei der Erfüllung ihrer oder seiner Aufgaben dem mit den Verarbeitungsvorgängen verbundenen Risiko gebührend Rechnung, wobei sie oder er die Art, den Umfang, die Umstände und die Zwecke der Verarbeitung berücksichtigt.
 
-
-## § 8 – Errichtung
+# § 8 – Errichtung
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (Bundesbeauftragte) ist eine oberste Bundesbehörde. Der Dienstsitz ist Bonn.
 
@@ -202,15 +191,13 @@ Im Fall einer oder eines bei einem Gericht bestellten Datenschutzbeauftragten be
 
 (3) Die oder der Bundesbeauftragte kann Aufgaben der Personalverwaltung und Personalwirtschaft auf andere Stellen des Bundes übertragen, soweit hierdurch die Unabhängigkeit der oder des Bundesbeauftragten nicht beeinträchtigt wird. Diesen Stellen dürfen personenbezogene Daten der Beschäftigten übermittelt werden, soweit deren Kenntnis zur Erfüllung der übertragenen Aufgaben erforderlich ist.
 
-
-## § 9 – Zuständigkeit
+# § 9 – Zuständigkeit
 
 (1) Die oder der Bundesbeauftragte ist zuständig für die Aufsicht über die öffentlichen Stellen des Bundes, auch soweit sie als öffentlich-rechtliche Unternehmen am Wettbewerb teilnehmen, sowie über Unternehmen, soweit diese für die geschäftsmäßige Erbringung von Telekommunikationsdienstleistungen Daten von natürlichen oder juristischen Personen verarbeiten und sich die Zuständigkeit nicht bereits aus § 115 Absatz 4 des Telekommunikationsgesetzes ergibt. Die Vorschriften dieses Kapitels gelten auch für Auftragsverarbeiter, soweit sie nichtöffentliche Stellen sind, bei denen dem Bund die Mehrheit der Anteile gehört oder die Mehrheit der Stimmen zusteht und der Auftraggeber eine öffentliche Stelle des Bundes ist.
 
 (2) Die oder der Bundesbeauftragte ist nicht zuständig für die Aufsicht über die von den Bundesgerichten im Rahmen ihrer justiziellen Tätigkeit vorgenommenen Verarbeitungen.
 
-
-## § 10 – Unabhängigkeit
+# § 10 – Unabhängigkeit
 
 (1) Die oder der Bundesbeauftragte handelt bei der Erfüllung ihrer oder seiner Aufgaben und bei der Ausübung ihrer oder seiner Befugnisse völlig unabhängig. Sie oder er unterliegt weder direkter noch indirekter Beeinflussung von außen und ersucht weder um Weisung noch nimmt sie oder er Weisungen entgegen.
 
@@ -218,8 +205,7 @@ Im Fall einer oder eines bei einem Gericht bestellten Datenschutzbeauftragten be
 
 (+++ § 10 Abs. 1: zur Anwendung vgl. § 12 Abs. 3 +++)
 
-
-## § 11 – Ernennung und Amtszeit
+# § 11 – Ernennung und Amtszeit
 
 (1) Der Deutsche Bundestag wählt ohne Aussprache auf Vorschlag der Bundesregierung die Bundesbeauftragte oder den Bundesbeauftragten mit mehr als der Hälfte der gesetzlichen Zahl seiner Mitglieder. Die oder der Gewählte ist von der Bundespräsidentin oder dem Bundespräsidenten zu ernennen. Die oder der Bundesbeauftragte muss bei ihrer oder seiner Wahl das 35. Lebensjahr vollendet haben. Sie oder er muss über die für die Erfüllung ihrer oder seiner Aufgaben und Ausübung ihrer oder seiner Befugnisse erforderliche Qualifikation, Erfahrung und Sachkunde insbesondere im Bereich des Schutzes personenbezogener Daten verfügen. Insbesondere muss die oder der Bundesbeauftragte über durch einschlägige Berufserfahrung erworbene Kenntnisse des Datenschutzrechts verfügen und die Befähigung zum Richteramt oder höheren Verwaltungsdienst haben.
 
@@ -227,8 +213,7 @@ Im Fall einer oder eines bei einem Gericht bestellten Datenschutzbeauftragten be
 
 (3) Die Amtszeit der oder des Bundesbeauftragten beträgt fünf Jahre. Einmalige Wiederwahl ist zulässig.
 
-
-## § 12 – Amtsverhältnis
+# § 12 – Amtsverhältnis
 
 (1) Die oder der Bundesbeauftragte steht nach Maßgabe dieses Gesetzes zum Bund in einem öffentlich-rechtlichen Amtsverhältnis.
 
@@ -238,8 +223,7 @@ Im Fall einer oder eines bei einem Gericht bestellten Datenschutzbeauftragten be
 
 (4) Die oder der Bundesbeauftragte erhält vom Beginn des Kalendermonats an, in dem das Amtsverhältnis beginnt, bis zum Schluss des Kalendermonats, in dem das Amtsverhältnis endet, im Fall des Absatzes 2 Satz 6 bis zum Ende des Monats, in dem die Geschäftsführung endet, Amtsbezüge in Höhe der Besoldungsgruppe B 11 sowie den Familienzuschlag entsprechend Anlage V des Bundesbesoldungsgesetzes. Das Bundesreisekostengesetz und das Bundesumzugskostengesetz sind entsprechend anzuwenden. Im Übrigen sind § 12 Absatz 6 sowie die §§ 13 bis 20 und 21a Absatz 5 des Bundesministergesetzes mit den Maßgaben anzuwenden, dass an die Stelle der vierjährigen Amtszeit in § 15 Absatz 1 des Bundesministergesetzes eine Amtszeit von fünf Jahren tritt. Abweichend von Satz 3 in Verbindung mit den §§ 15 bis 17 und 21a Absatz 5 des Bundesministergesetzes berechnet sich das Ruhegehalt der oder des Bundesbeauftragten unter Hinzurechnung der Amtszeit als ruhegehaltsfähige Dienstzeit in entsprechender Anwendung des Beamtenversorgungsgesetzes, wenn dies günstiger ist und die oder der Bundesbeauftragte sich unmittelbar vor ihrer oder seiner Wahl zur oder zum Bundesbeauftragten als Beamtin oder Beamter oder als Richterin oder Richter mindestens in dem letzten gewöhnlich vor Erreichen der Besoldungsgruppe B 11 zu durchlaufenden Amt befunden hat.
 
-
-## § 13 – Rechte und Pflichten
+# § 13 – Rechte und Pflichten
 
 (1) Die oder der Bundesbeauftragte sieht von allen mit den Aufgaben ihres oder seines Amtes nicht zu vereinbarenden Handlungen ab und übt während ihrer oder seiner Amtszeit keine andere mit ihrem oder seinem Amt nicht zu vereinbarende entgeltliche oder unentgeltliche Tätigkeit aus. Insbesondere darf die oder der Bundesbeauftragte neben ihrem oder seinem Amt kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung oder dem Aufsichtsrat oder Verwaltungsrat eines auf Erwerb gerichteten Unternehmens noch einer Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines Landes angehören. Sie oder er darf nicht gegen Entgelt außergerichtliche Gutachten abgeben.
 
@@ -261,8 +245,7 @@ Betrifft die Aussage laufende oder abgeschlossene Vorgänge, die dem Kernbereich
 
 (+++ § 13 Abs. 4 Satz 4 bis 7: zur Anwendung vgl. § 40 Abs. 3 +++)
 
-
-## § 14 – Aufgaben
+# § 14 – Aufgaben
 
 (1) Die oder der Bundesbeauftragte hat neben den in der Verordnung (EU) 2016/679 genannten Aufgaben die Aufgaben,
 
@@ -296,13 +279,11 @@ Im Anwendungsbereich der Richtlinie (EU) 2016/680 nimmt die oder der Bundesbeauf
 
 (4) Die Erfüllung der Aufgaben der oder des Bundesbeauftragten ist für die betroffene Person unentgeltlich. Bei offenkundig unbegründeten oder, insbesondere im Fall von häufiger Wiederholung, exzessiven Anfragen kann die oder der Bundesbeauftragte eine angemessene Gebühr auf der Grundlage der Verwaltungskosten verlangen oder sich weigern, aufgrund der Anfrage tätig zu werden. In diesem Fall trägt die oder der Bundesbeauftragte die Beweislast für den offenkundig unbegründeten oder exzessiven Charakter der Anfrage.
 
-
-## § 15 – Tätigkeitsbericht
+# § 15 – Tätigkeitsbericht
 
 Die oder der Bundesbeauftragte erstellt einen Jahresbericht über ihre oder seine Tätigkeit, der eine Liste der Arten der gemeldeten Verstöße und der Arten der getroffenen Maßnahmen, einschließlich der verhängten Sanktionen und der Maßnahmen nach Artikel 58 Absatz 2 der Verordnung (EU) 2016/679, enthalten kann. Die oder der Bundesbeauftragte übermittelt den Bericht dem Deutschen Bundestag, dem Bundesrat und der Bundesregierung und macht ihn der Öffentlichkeit, der Europäischen Kommission und dem Europäischen Datenschutzausschuss zugänglich.
 
-
-## § 16 – Befugnisse
+# § 16 – Befugnisse
 
 (1) Die oder der Bundesbeauftragte nimmt im Anwendungsbereich der Verordnung (EU) 2016/679 die Befugnisse gemäß Artikel 58 der Verordnung (EU) 2016/679 wahr. Kommt die oder der Bundesbeauftragte zu dem Ergebnis, dass Verstöße gegen die Vorschriften über den Datenschutz oder sonstige Mängel bei der Verarbeitung personenbezogener Daten vorliegen, teilt sie oder er dies der zuständigen Rechts- oder Fachaufsichtsbehörde mit und gibt dieser vor der Ausübung der Befugnisse des Artikels 58 Absatz 2 Buchstabe b bis g, i und j der Verordnung (EU) 2016/679 gegenüber dem Verantwortlichen Gelegenheit zur Stellungnahme innerhalb einer angemessenen Frist. Von der Einräumung der Gelegenheit zur Stellungnahme kann abgesehen werden, wenn eine sofortige Entscheidung wegen Gefahr im Verzug oder im öffentlichen Interesse notwendig erscheint oder ihr ein zwingendes öffentliches Interesse entgegensteht. Die Stellungnahme soll auch eine Darstellung der Maßnahmen enthalten, die aufgrund der Mitteilung der oder des Bundesbeauftragten getroffen worden sind.
 
@@ -328,15 +309,13 @@ Für nichtöffentliche Stellen besteht die Verpflichtung des Satzes 1 Nummer 1 n
 
 (+++ § 16 Abs. 4: zur Anwendung vgl. § 40 Abs. 5 u. § 85 Abs. 2 +++)
 
-
-## § 17 – Vertretung im Europäischen Datenschutzausschuss, zentrale Anlaufstelle
+# § 17 – Vertretung im Europäischen Datenschutzausschuss, zentrale Anlaufstelle
 
 (1) Gemeinsamer Vertreter im Europäischen Datenschutzausschuss und zentrale Anlaufstelle ist die oder der Bundesbeauftragte (gemeinsamer Vertreter). Als Stellvertreterin oder Stellvertreter des gemeinsamen Vertreters wählt der Bundesrat eine Leiterin oder einen Leiter der Aufsichtsbehörde eines Landes (Stellvertreter). Die Wahl erfolgt für fünf Jahre. Mit dem Ausscheiden aus dem Amt als Leiterin oder Leiter der Aufsichtsbehörde eines Landes endet zugleich die Funktion als Stellvertreter. Wiederwahl ist zulässig.
 
 (2) Der gemeinsame Vertreter überträgt in Angelegenheiten, die die Wahrnehmung einer Aufgabe betreffen, für welche die Länder allein das Recht zur Gesetzgebung haben, oder welche die Einrichtung oder das Verfahren von Landesbehörden betreffen, dem Stellvertreter auf dessen Verlangen die Verhandlungsführung und das Stimmrecht im Europäischen Datenschutzausschuss.
 
-
-## § 18 – Verfahren der Zusammenarbeit der Aufsichtsbehörden des Bundes und der Länder
+# § 18 – Verfahren der Zusammenarbeit der Aufsichtsbehörden des Bundes und der Länder
 
 (1) Die oder der Bundesbeauftragte und die Aufsichtsbehörden der Länder (Aufsichtsbehörden des Bundes und der Länder) arbeiten in Angelegenheiten der Europäischen Union mit dem Ziel einer einheitlichen Anwendung der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 zusammen. Vor der Übermittlung eines gemeinsamen Standpunktes an die Aufsichtsbehörden der anderen Mitgliedstaaten, die Europäische Kommission oder den Europäischen Datenschutzausschuss geben sich die Aufsichtsbehörden des Bundes und der Länder frühzeitig Gelegenheit zur Stellungnahme. Zu diesem Zweck tauschen sie untereinander alle zweckdienlichen Informationen aus. Die Aufsichtsbehörden des Bundes und der Länder beteiligen die nach den Artikeln 85 und 91 der Verordnung (EU) 2016/679 eingerichteten spezifischen Aufsichtsbehörden, sofern diese von der Angelegenheit betroffen sind.
 
@@ -344,15 +323,13 @@ Für nichtöffentliche Stellen besteht die Verpflichtung des Satzes 1 Nummer 1 n
 
 (3) Der gemeinsame Vertreter und dessen Stellvertreter sind an den gemeinsamen Standpunkt nach den Absätzen 1 und 2 gebunden und legen unter Beachtung dieses Standpunktes einvernehmlich die jeweilige Verhandlungsführung fest. Sollte ein Einvernehmen nicht erreicht werden, entscheidet in den in § 18 Absatz 2 Satz 2 genannten Angelegenheiten der Stellvertreter über die weitere Verhandlungsführung. In den übrigen Fällen gibt die Stimme des gemeinsamen Vertreters den Ausschlag.
 
-
-## § 19 – Zuständigkeiten
+# § 19 – Zuständigkeiten
 
 (1) Federführende Aufsichtsbehörde eines Landes im Verfahren der Zusammenarbeit und Kohärenz nach Kapitel VII der Verordnung (EU) 2016/679 ist die Aufsichtsbehörde des Landes, in dem der Verantwortliche oder der Auftragsverarbeiter seine Hauptniederlassung im Sinne des Artikels 4 Nummer 16 der Verordnung (EU) 2016/679 oder seine einzige Niederlassung in der Europäischen Union im Sinne des Artikels 56 Absatz 1 der Verordnung (EU) 2016/679 hat. Im Zuständigkeitsbereich der oder des Bundesbeauftragten gilt Artikel 56 Absatz 1 in Verbindung mit Artikel 4 Nummer 16 der Verordnung (EU) 2016/679 entsprechend. Besteht über die Federführung kein Einvernehmen, findet für die Festlegung der federführenden Aufsichtsbehörde das Verfahren des § 18 Absatz 2 entsprechende Anwendung.
 
 (2) Die Aufsichtsbehörde, bei der eine betroffene Person Beschwerde eingereicht hat, gibt die Beschwerde an die federführende Aufsichtsbehörde nach Absatz 1, in Ermangelung einer solchen an die Aufsichtsbehörde eines Landes ab, in dem der Verantwortliche oder der Auftragsverarbeiter eine Niederlassung hat. Wird eine Beschwerde bei einer sachlich unzuständigen Aufsichtsbehörde eingereicht, gibt diese, sofern eine Abgabe nach Satz 1 nicht in Betracht kommt, die Beschwerde an die Aufsichtsbehörde am Wohnsitz des Beschwerdeführers ab. Die empfangende Aufsichtsbehörde gilt als die Aufsichtsbehörde nach Maßgabe des Kapitels VII der Verordnung (EU) 2016/679, bei der die Beschwerde eingereicht worden ist, und kommt den Verpflichtungen aus Artikel 60 Absatz 7 bis 9 und Artikel 65 Absatz 6 der Verordnung (EU) 2016/679 nach. Im Zuständigkeitsbereich der oder des Bundesbeauftragten gibt die Aufsichtsbehörde, bei der eine Beschwerde eingereicht wurde, diese, sofern eine Abgabe nach Absatz 1 nicht in Betracht kommt, an den Bundesbeauftragten oder die Bundesbeauftragte ab.
 
-
-## § 20 – Gerichtlicher Rechtsschutz
+# § 20 – Gerichtlicher Rechtsschutz
 
 (1) Für Streitigkeiten zwischen einer natürlichen oder einer juristischen Person und einer Aufsichtsbehörde des Bundes oder eines Landes über Rechte gemäß Artikel 78 Absatz 1 und 2 der Verordnung (EU) 2016/679 sowie § 61 ist der Verwaltungsrechtsweg gegeben. Satz 1 gilt nicht für Bußgeldverfahren.
 
@@ -374,8 +351,7 @@ Für nichtöffentliche Stellen besteht die Verpflichtung des Satzes 1 Nummer 1 n
 
 (7) Die Aufsichtsbehörde darf gegenüber einer Behörde oder deren Rechtsträger nicht die sofortige Vollziehung gemäß § 80 Absatz 2 Satz 1 Nummer 4 der Verwaltungsgerichtsordnung anordnen.
 
-
-## § 21 – Antrag der Aufsichtsbehörde auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Beschlusses der Europäischen Kommission
+# § 21 – Antrag der Aufsichtsbehörde auf gerichtliche Entscheidung bei angenommener Rechtswidrigkeit eines Beschlusses der Europäischen Kommission
 
 (1) Hält eine Aufsichtsbehörde einen Angemessenheitsbeschluss der Europäischen Kommission, einen Beschluss über die Anerkennung von Standardschutzklauseln oder über die Allgemeingültigkeit von genehmigten Verhaltensregeln, auf dessen Gültigkeit es für eine Entscheidung der Aufsichtsbehörde ankommt, für rechtswidrig, so hat die Aufsichtsbehörde ihr Verfahren auszusetzen und einen Antrag auf gerichtliche Entscheidung zu stellen.
 
@@ -389,8 +365,7 @@ Für nichtöffentliche Stellen besteht die Verpflichtung des Satzes 1 Nummer 1 n
 
 (6) In Verfahren nach Absatz 1 ist § 47 Absatz 5 Satz 1 und Absatz 6 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Kommt das Bundesverwaltungsgericht zu der Überzeugung, dass der Beschluss der Europäischen Kommission nach Absatz 1 gültig ist, so stellt es dies in seiner Entscheidung fest. Andernfalls legt es die Frage nach der Gültigkeit des Beschlusses gemäß Artikel 267 des Vertrags über die Arbeitsweise der Europäischen Union dem Gerichtshof der Europäischen Union zur Entscheidung vor.
 
-
-## § 22 – Verarbeitung besonderer Kategorien personenbezogener Daten
+# § 22 – Verarbeitung besonderer Kategorien personenbezogener Daten
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zulässig
 
@@ -438,8 +413,7 @@ und soweit die Interessen des Verantwortlichen an der Datenverarbeitung in den F
 
 (+++ § 22 Abs. 2: zur Anwendung vgl. § 26 Abs. 3 +++)
 
-
-## § 23 – Verarbeitung zu anderen Zwecken durch öffentliche Stellen
+# § 23 – Verarbeitung zu anderen Zwecken durch öffentliche Stellen
 
 (1) Die Verarbeitung personenbezogener Daten zu einem anderen Zweck als zu demjenigen, zu dem die Daten erhoben wurden, durch öffentliche Stellen im Rahmen ihrer Aufgabenerfüllung ist zulässig, wenn
 
@@ -457,8 +431,7 @@ und soweit die Interessen des Verantwortlichen an der Datenverarbeitung in den F
 
 (2) Die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zu einem anderen Zweck als zu demjenigen, zu dem die Daten erhoben wurden, ist zulässig, wenn die Voraussetzungen des Absatzes 1 und ein Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU) 2016/679 oder nach § 22 vorliegen.
 
-
-## § 24 – Verarbeitung zu anderen Zwecken durch nichtöffentliche Stellen
+# § 24 – Verarbeitung zu anderen Zwecken durch nichtöffentliche Stellen
 
 (1) Die Verarbeitung personenbezogener Daten zu einem anderen Zweck als zu demjenigen, zu dem die Daten erhoben wurden, durch nichtöffentliche Stellen ist zulässig, wenn
 
@@ -470,8 +443,7 @@ sofern nicht die Interessen der betroffenen Person an dem Ausschluss der Verarbe
 
 (2) Die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zu einem anderen Zweck als zu demjenigen, zu dem die Daten erhoben wurden, ist zulässig, wenn die Voraussetzungen des Absatzes 1 und ein Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU) 2016/679 oder nach § 22 vorliegen.
 
-
-## § 25 – Datenübermittlungen durch öffentliche Stellen
+# § 25 – Datenübermittlungen durch öffentliche Stellen
 
 (1) Die Übermittlung personenbezogener Daten durch öffentliche Stellen an öffentliche Stellen ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit der übermittelnden Stelle oder des Dritten, an den die Daten übermittelt werden, liegenden Aufgaben erforderlich ist und die Voraussetzungen vorliegen, die eine Verarbeitung nach § 23 zulassen würden. Der Dritte, an den die Daten übermittelt werden, darf diese nur für den Zweck verarbeiten, zu dessen Erfüllung sie ihm übermittelt werden. Eine Verarbeitung für andere Zwecke ist unter den Voraussetzungen des § 23 zulässig.
 
@@ -487,8 +459,7 @@ und der Dritte sich gegenüber der übermittelnden öffentlichen Stelle verpflic
 
 (3) Die Übermittlung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 ist zulässig, wenn die Voraussetzungen des Absatzes 1 oder 2 und ein Ausnahmetatbestand nach Artikel 9 Absatz 2 der Verordnung (EU) 2016/679 oder nach § 22 vorliegen.
 
-
-## § 26 – Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses
+# § 26 – Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses
 
 (1) Personenbezogene Daten von Beschäftigten dürfen für Zwecke des Beschäftigungsverhältnisses verarbeitet werden, wenn dies für die Entscheidung über die Begründung eines Beschäftigungsverhältnisses oder nach Begründung des Beschäftigungsverhältnisses für dessen Durchführung oder Beendigung oder zur Ausübung oder Erfüllung der sich aus einem Gesetz oder einem Tarifvertrag, einer Betriebs- oder Dienstvereinbarung (Kollektivvereinbarung) ergebenden Rechte und Pflichten der Interessenvertretung der Beschäftigten erforderlich ist. Zur Aufdeckung von Straftaten dürfen personenbezogene Daten von Beschäftigten nur dann verarbeitet werden, wenn zu dokumentierende tatsächliche Anhaltspunkte den Verdacht begründen, dass die betroffene Person im Beschäftigungsverhältnis eine Straftat begangen hat, die Verarbeitung zur Aufdeckung erforderlich ist und das schutzwürdige Interesse der oder des Beschäftigten an dem Ausschluss der Verarbeitung nicht überwiegt, insbesondere Art und Ausmaß im Hinblick auf den Anlass nicht unverhältnismäßig sind.
 
@@ -522,8 +493,7 @@ und der Dritte sich gegenüber der übermittelnden öffentlichen Stelle verpflic
 
 Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie Personen, deren Beschäftigungsverhältnis beendet ist, gelten als Beschäftigte.
 
-
-## § 27 – Datenverarbeitung zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken
+# § 27 – Datenverarbeitung zu wissenschaftlichen oder historischen Forschungszwecken und zu statistischen Zwecken
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 auch ohne Einwilligung für wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke zulässig, wenn die Verarbeitung zu diesen Zwecken erforderlich ist und die Interessen des Verantwortlichen an der Verarbeitung die Interessen der betroffenen Person an einem Ausschluss der Verarbeitung erheblich überwiegen. Der Verantwortliche sieht angemessene und spezifische Maßnahmen zur Wahrung der Interessen der betroffenen Person gemäß § 22 Absatz 2 Satz 2 vor.
 
@@ -533,8 +503,7 @@ Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie Personen, d
 
 (4) Der Verantwortliche darf personenbezogene Daten nur veröffentlichen, wenn die betroffene Person eingewilligt hat oder dies für die Darstellung von Forschungsergebnissen über Ereignisse der Zeitgeschichte unerlässlich ist.
 
-
-## § 28 – Datenverarbeitung zu im öffentlichen Interesse liegenden Archivzwecken
+# § 28 – Datenverarbeitung zu im öffentlichen Interesse liegenden Archivzwecken
 
 (1) Abweichend von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 ist die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zulässig, wenn sie für im öffentlichen Interesse liegende Archivzwecke erforderlich ist. Der Verantwortliche sieht angemessene und spezifische Maßnahmen zur Wahrung der Interessen der betroffenen Person gemäß § 22 Absatz 2 Satz 2 vor.
 
@@ -544,8 +513,7 @@ Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie Personen, d
 
 (4) Die in Artikel 18 Absatz 1 Buchstabe a, b und d, den Artikeln 20 und 21 der Verordnung (EU) 2016/679 vorgesehenen Rechte bestehen nicht, soweit diese Rechte voraussichtlich die Verwirklichung der im öffentlichen Interesse liegenden Archivzwecke unmöglich machen oder ernsthaft beeinträchtigen und die Ausnahmen für die Erfüllung dieser Zwecke erforderlich sind.
 
-
-## § 29 – Rechte der betroffenen Person und aufsichtsbehördliche Befugnisse im Fall von Geheimhaltungspflichten
+# § 29 – Rechte der betroffenen Person und aufsichtsbehördliche Befugnisse im Fall von Geheimhaltungspflichten
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel 14 Absatz 1 bis 4 der Verordnung (EU) 2016/679 besteht ergänzend zu den in Artikel 14 Absatz 5 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht, soweit durch ihre Erfüllung Informationen offenbart würden, die ihrem Wesen nach, insbesondere wegen der überwiegenden berechtigten Interessen eines Dritten, geheim gehalten werden müssen. Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der Verordnung (EU) 2016/679 besteht nicht, soweit durch die Auskunft Informationen offenbart würden, die nach einer Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der überwiegenden berechtigten Interessen eines Dritten, geheim gehalten werden müssen. Die Pflicht zur Benachrichtigung gemäß Artikel 34 der Verordnung (EU) 2016/679 besteht ergänzend zu der in Artikel 34 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahme nicht, soweit durch die Benachrichtigung Informationen offenbart würden, die nach einer Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der überwiegenden berechtigten Interessen eines Dritten, geheim gehalten werden müssen. Abweichend von der Ausnahme nach Satz 3 ist die betroffene Person nach Artikel 34 der Verordnung (EU) 2016/679 zu benachrichtigen, wenn die Interessen der betroffenen Person, insbesondere unter Berücksichtigung drohender Schäden, gegenüber dem Geheimhaltungsinteresse überwiegen.
 
@@ -553,15 +521,13 @@ Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie Personen, d
 
 (3) Gegenüber den in § 203 Absatz 1, 2a und 3 des Strafgesetzbuchs genannten Personen oder deren Auftragsverarbeitern bestehen die Untersuchungsbefugnisse der Aufsichtsbehörden gemäß Artikel 58 Absatz 1 Buchstabe e und f der Verordnung (EU) 2016/679 nicht, soweit die Inanspruchnahme der Befugnisse zu einem Verstoß gegen die Geheimhaltungspflichten dieser Personen führen würde. Erlangt eine Aufsichtsbehörde im Rahmen einer Untersuchung Kenntnis von Daten, die einer Geheimhaltungspflicht im Sinne des Satzes 1 unterliegen, gilt die Geheimhaltungspflicht auch für die Aufsichtsbehörde.
 
-
-## § 30 – Verbraucherkredite
+# § 30 – Verbraucherkredite
 
 (1) Eine Stelle, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung erhebt, speichert oder verändert, hat Auskunftsverlangen von Darlehensgebern aus anderen Mitgliedstaaten der Europäischen Union genauso zu behandeln wie Auskunftsverlangen inländischer Darlehensgeber.
 
 (2) Wer den Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe mit einem Verbraucher infolge einer Auskunft einer Stelle im Sinne des Absatzes 1 ablehnt, hat den Verbraucher unverzüglich hierüber sowie über die erhaltene Auskunft zu unterrichten. Die Unterrichtung unterbleibt, soweit hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde. § 37 bleibt unberührt.
 
-
-## § 31 – Schutz des Wirtschaftsverkehrs bei Scoring und Bonitätsauskünften
+# § 31 – Schutz des Wirtschaftsverkehrs bei Scoring und Bonitätsauskünften
 
 (1) Die Verwendung eines Wahrscheinlichkeitswerts über ein bestimmtes zukünftiges Verhalten einer natürlichen Person zum Zweck der Entscheidung über die Begründung, Durchführung oder Beendigung eines Vertragsverhältnisses mit dieser Person (Scoring) ist nur zulässig, wenn
 
@@ -595,8 +561,7 @@ d) der Schuldner die Forderung nicht bestritten hat oder
 
 Die Zulässigkeit der Verarbeitung, einschließlich der Ermittlung von Wahrscheinlichkeitswerten, von anderen bonitätsrelevanten Daten nach allgemeinem Datenschutzrecht bleibt unberührt.
 
-
-## § 32 – Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
+# § 32 – Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel 13 Absatz 3 der Verordnung (EU) 2016/679 besteht ergänzend zu der in Artikel 13 Absatz 4 der Verordnung (EU) 2016/679 genannten Ausnahme dann nicht, wenn die Erteilung der Information über die beabsichtigte Weiterverarbeitung
 
@@ -617,8 +582,7 @@ Die Zulässigkeit der Verarbeitung, einschließlich der Ermittlung von Wahrschei
 (+++ § 32: zur Anwendung vgl. § 4 Abs. 4 +++)  
 (+++ § 32 Abs. 2: zur Anwendung vgl. § 85 Abs. 3 +++)
 
-
-## § 33 – Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden
+# § 33 – Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679 besteht ergänzend zu den in Artikel 14 Absatz 5 der Verordnung (EU) 2016/679 und der in § 29 Absatz 1 Satz 1 genannten Ausnahme nicht, wenn die Erteilung der Information
 
@@ -642,8 +606,7 @@ b) die zuständige öffentliche Stelle gegenüber dem Verantwortlichen festgeste
 
 (+++ § 33 Abs. 2: zur Anwendung vgl. § 85 Abs. 3 +++)
 
-
-## § 34 – Auskunftsrecht der betroffenen Person
+# § 34 – Auskunftsrecht der betroffenen Person
 
 (1) Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der Verordnung (EU) 2016/679 besteht ergänzend zu den in § 27 Absatz 2, § 28 Absatz 2 und § 29 Absatz 1 Satz 2 genannten Ausnahmen nicht, wenn
 
@@ -663,8 +626,7 @@ und die Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern würde
 
 (4) Das Recht der betroffenen Person auf Auskunft über personenbezogene Daten, die durch eine öffentliche Stelle weder automatisiert verarbeitet noch nicht automatisiert verarbeitet und in einem Dateisystem gespeichert werden, besteht nur, soweit die betroffene Person Angaben macht, die das Auffinden der Daten ermöglichen, und der für die Erteilung der Auskunft erforderliche Aufwand nicht außer Verhältnis zu dem von der betroffenen Person geltend gemachten Informationsinteresse steht.
 
-
-## § 35 – Recht auf Löschung
+# § 35 – Recht auf Löschung
 
 (1) Ist eine Löschung im Fall nicht automatisierter Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und ist das Interesse der betroffenen Person an der Löschung als gering anzusehen, besteht das Recht der betroffenen Person auf und die Pflicht des Verantwortlichen zur Löschung personenbezogener Daten gemäß Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 ergänzend zu den in Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung gemäß Artikel 18 der Verordnung (EU) 2016/679. Die Sätze 1 und 2 finden keine Anwendung, wenn die personenbezogenen Daten unrechtmäßig verarbeitet wurden.
 
@@ -672,13 +634,11 @@ und die Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern würde
 
 (3) Ergänzend zu Artikel 17 Absatz 3 Buchstabe b der Verordnung (EU) 2016/679 gilt Absatz 1 entsprechend im Fall des Artikels 17 Absatz 1 Buchstabe a der Verordnung (EU) 2016/679, wenn einer Löschung satzungsgemäße oder vertragliche Aufbewahrungsfristen entgegenstehen.
 
-
-## § 36 – Widerspruchsrecht
+# § 36 – Widerspruchsrecht
 
 Das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung (EU) 2016/679 gegenüber einer öffentlichen Stelle besteht nicht, soweit an der Verarbeitung ein zwingendes öffentliches Interesse besteht, das die Interessen der betroffenen Person überwiegt, oder eine Rechtsvorschrift zur Verarbeitung verpflichtet.
 
-
-## § 37 – Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
+# § 37 – Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
 
 (1) Das Recht gemäß Artikel 22 Absatz 1 der Verordnung (EU) 2016/679, keiner ausschließlich auf einer automatisierten Verarbeitung beruhenden Entscheidung unterworfen zu werden, besteht über die in Artikel 22 Absatz 2 Buchstabe a und c der Verordnung (EU) 2016/679 genannten Ausnahmen hinaus nicht, wenn die Entscheidung im Rahmen der Leistungserbringung nach einem Versicherungsvertrag ergeht und
 
@@ -688,20 +648,17 @@ Das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung (EU) 2016/6
 
 (2) Entscheidungen nach Absatz 1 dürfen auf der Verarbeitung von Gesundheitsdaten im Sinne des Artikels 4 Nummer 15 der Verordnung (EU) 2016/679 beruhen. Der Verantwortliche sieht angemessene und spezifische Maßnahmen zur Wahrung der Interessen der betroffenen Person gemäß § 22 Absatz 2 Satz 2 vor.
 
-
-## § 38 – Datenschutzbeauftragte nichtöffentlicher Stellen
+# § 38 – Datenschutzbeauftragte nichtöffentlicher Stellen
 
 (1) Ergänzend zu Artikel 37 Absatz 1 Buchstabe b und c der Verordnung (EU) 2016/679 benennen der Verantwortliche und der Auftragsverarbeiter eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten, soweit sie in der Regel mindestens 20 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigen. Nehmen der Verantwortliche oder der Auftragsverarbeiter Verarbeitungen vor, die einer Datenschutz-Folgenabschätzung nach Artikel 35 der Verordnung (EU) 2016/679 unterliegen, oder verarbeiten sie personenbezogene Daten geschäftsmäßig zum Zweck der Übermittlung, der anonymisierten Übermittlung oder für Zwecke der Markt- oder Meinungsforschung, haben sie unabhängig von der Anzahl der mit der Verarbeitung beschäftigten Personen eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten zu benennen.
 
 (2) § 6 Absatz 4, 5 Satz 2 und Absatz 6 finden Anwendung, § 6 Absatz 4 jedoch nur, wenn die Benennung einer oder eines Datenschutzbeauftragten verpflichtend ist.
 
-
-## § 39 – Akkreditierung
+# § 39 – Akkreditierung
 
 Die Erteilung der Befugnis, als Zertifizierungsstelle gemäß Artikel 43 Absatz 1 Satz 1 der Verordnung (EU) 2016/679 tätig zu werden, erfolgt durch die für die datenschutzrechtliche Aufsicht über die Zertifizierungsstelle zuständige Aufsichtsbehörde des Bundes oder der Länder auf der Grundlage einer Akkreditierung durch die Deutsche Akkreditierungsstelle. § 2 Absatz 3 Satz 2, § 4 Absatz 3 und § 10 Absatz 1 Satz 1 Nummer 3 des Akkreditierungsstellengesetzes finden mit der Maßgabe Anwendung, dass der Datenschutz als ein dem Anwendungsbereich des § 1 Absatz 2 Satz 2 unterfallender Bereich gilt.
 
-
-## § 40 – Aufsichtsbehörden der Länder
+# § 40 – Aufsichtsbehörden der Länder
 
 (1) Die nach Landesrecht zuständigen Behörden überwachen im Anwendungsbereich der Verordnung (EU) 2016/679 bei den nichtöffentlichen Stellen die Anwendung der Vorschriften über den Datenschutz.
 
@@ -727,15 +684,13 @@ Stellt die Aufsichtsbehörde einen Verstoß gegen die Vorschriften über den Dat
 
 (+++ § 40 Abs. 3 Satz 1: zur Anwendung vgl. § 16 Abs. 5 +++)
 
-
-## § 41 – Anwendung der Vorschriften über das Bußgeld- und Strafverfahren
+# § 41 – Anwendung der Vorschriften über das Bußgeld- und Strafverfahren
 
 (1) Für Verstöße nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679 gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften des Gesetzes über Ordnungswidrigkeiten sinngemäß. Die §§ 17, 35 und 36 des Gesetzes über Ordnungswidrigkeiten finden keine Anwendung. § 68 des Gesetzes über Ordnungswidrigkeiten findet mit der Maßgabe Anwendung, dass das Landgericht entscheidet, wenn die festgesetzte Geldbuße den Betrag von einhunderttausend Euro übersteigt.
 
 (2) Für Verfahren wegen eines Verstoßes nach Artikel 83 Absatz 4 bis 6 der Verordnung (EU) 2016/679 gelten, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften des Gesetzes über Ordnungswidrigkeiten und der allgemeinen Gesetze über das Strafverfahren, namentlich der Strafprozessordnung und des Gerichtsverfassungsgesetzes, entsprechend. Die §§ 56 bis 58, 87, 88, 99 und 100 des Gesetzes über Ordnungswidrigkeiten finden keine Anwendung. § 69 Absatz 4 Satz 2 des Gesetzes über Ordnungswidrigkeiten findet mit der Maßgabe Anwendung, dass die Staatsanwaltschaft das Verfahren nur mit Zustimmung der Aufsichtsbehörde, die den Bußgeldbescheid erlassen hat, einstellen kann.
 
-
-## § 42 – Strafvorschriften
+# § 42 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer wissentlich nicht allgemein zugängliche personenbezogene Daten einer großen Zahl von Personen, ohne hierzu berechtigt zu sein,
 
@@ -760,8 +715,7 @@ und hierbei gegen Entgelt oder in der Absicht handelt, sich oder einen anderen z
 (+++ § 42: zur Anwendung vgl. § 84 +++)  
 (+++ § 42 Abs. 4: zur Anwendung vgl. § 65 Abs. 7 u. § 66 Abs. 6 +++)
 
-
-## § 43 – Bußgeldvorschriften
+# § 43 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -775,8 +729,7 @@ und hierbei gegen Entgelt oder in der Absicht handelt, sich oder einen anderen z
 
 (4) Eine Meldung nach Artikel 33 der Verordnung (EU) 2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der Verordnung (EU) 2016/679 darf in einem Verfahren nach dem Gesetz über Ordnungswidrigkeiten gegen den Meldepflichtigen oder Benachrichtigenden oder seine in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur mit Zustimmung des Meldepflichtigen oder Benachrichtigenden verwendet werden.
 
-
-## § 44 – Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
+# § 44 – Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
 
 (1) Klagen der betroffenen Person gegen einen Verantwortlichen oder einen Auftragsverarbeiter wegen eines Verstoßes gegen datenschutzrechtliche Bestimmungen im Anwendungsbereich der Verordnung (EU) 2016/679 oder der darin enthaltenen Rechte der betroffenen Person können bei dem Gericht des Ortes erhoben werden, an dem sich eine Niederlassung des Verantwortlichen oder Auftragsverarbeiters befindet. Klagen nach Satz 1 können auch bei dem Gericht des Ortes erhoben werden, an dem die betroffene Person ihren gewöhnlichen Aufenthaltsort hat.
 
@@ -784,13 +737,11 @@ und hierbei gegen Entgelt oder in der Absicht handelt, sich oder einen anderen z
 
 (3) Hat der Verantwortliche oder Auftragsverarbeiter einen Vertreter nach Artikel 27 Absatz 1 der Verordnung (EU) 2016/679 benannt, gilt dieser auch als bevollmächtigt, Zustellungen in zivilgerichtlichen Verfahren nach Absatz 1 entgegenzunehmen. § 184 der Zivilprozessordnung bleibt unberührt.
 
-
-## § 45 – Anwendungsbereich
+# § 45 – Anwendungsbereich
 
 Die Vorschriften dieses Teils gelten für die Verarbeitung personenbezogener Daten durch die für die Verhütung, Ermittlung, Aufdeckung, Verfolgung oder Ahndung von Straftaten oder Ordnungswidrigkeiten zuständigen öffentlichen Stellen, soweit sie Daten zum Zweck der Erfüllung dieser Aufgaben verarbeiten. Die öffentlichen Stellen gelten dabei als Verantwortliche. Die Verhütung von Straftaten im Sinne des Satzes 1 umfasst den Schutz vor und die Abwehr von Gefahren für die öffentliche Sicherheit. Die Sätze 1 und 2 finden zudem Anwendung auf diejenigen öffentlichen Stellen, die für die Vollstreckung von Strafen, von Maßnahmen im Sinne des § 11 Absatz 1 Nummer 8 des Strafgesetzbuchs, von Erziehungsmaßregeln oder Zuchtmitteln im Sinne des Jugendgerichtsgesetzes und von Geldbußen zuständig sind. Soweit dieser Teil Vorschriften für Auftragsverarbeiter enthält, gilt er auch für diese.
 
-
-## § 46 – Begriffsbestimmungen
+# § 46 – Begriffsbestimmungen
 
 Es bezeichnen die Begriffe:
 
@@ -838,8 +789,7 @@ e) Daten zum Sexualleben oder zur sexuellen Orientierung;
 
 17. „Einwilligung“ jede freiwillig für den bestimmten Fall, in informierter Weise und unmissverständlich abgegebene Willensbekundung in Form einer Erklärung oder einer sonstigen eindeutigen bestätigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit der Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.
 
-
-## § 47 – Allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
+# § 47 – Allgemeine Grundsätze für die Verarbeitung personenbezogener Daten
 
 Personenbezogene Daten müssen
 
@@ -855,8 +805,7 @@ Personenbezogene Daten müssen
 
 6. in einer Weise verarbeitet werden, die eine angemessene Sicherheit der personenbezogenen Daten gewährleistet; hierzu gehört auch ein durch geeignete technische und organisatorische Maßnahmen zu gewährleistender Schutz vor unbefugter oder unrechtmäßiger Verarbeitung, unbeabsichtigtem Verlust, unbeabsichtigter Zerstörung oder unbeabsichtigter Schädigung.
 
-
-## § 48 – Verarbeitung besonderer Kategorien personenbezogener Daten
+# § 48 – Verarbeitung besonderer Kategorien personenbezogener Daten
 
 (1) Die Verarbeitung besonderer Kategorien personenbezogener Daten ist nur zulässig, wenn sie zur Aufgabenerfüllung unbedingt erforderlich ist.
 
@@ -878,18 +827,15 @@ Personenbezogene Daten müssen
 
 8. spezifische Verfahrensregelungen, die im Fall einer Übermittlung oder Verarbeitung für andere Zwecke die Rechtmäßigkeit der Verarbeitung sicherstellen.
 
-
-## § 49 – Verarbeitung zu anderen Zwecken
+# § 49 – Verarbeitung zu anderen Zwecken
 
 Eine Verarbeitung personenbezogener Daten zu einem anderen Zweck als zu demjenigen, zu dem sie erhoben wurden, ist zulässig, wenn es sich bei dem anderen Zweck um einen der in § 45 genannten Zwecke handelt, der Verantwortliche befugt ist, Daten zu diesem Zweck zu verarbeiten, und die Verarbeitung zu diesem Zweck erforderlich und verhältnismäßig ist. Die Verarbeitung personenbezogener Daten zu einem anderen, in § 45 nicht genannten Zweck ist zulässig, wenn sie in einer Rechtsvorschrift vorgesehen ist.
 
-
-## § 50 – Verarbeitung zu archivarischen, wissenschaftlichen und statistischen Zwecken
+# § 50 – Verarbeitung zu archivarischen, wissenschaftlichen und statistischen Zwecken
 
 Personenbezogene Daten dürfen im Rahmen der in § 45 genannten Zwecke in archivarischer, wissenschaftlicher oder statistischer Form verarbeitet werden, wenn hieran ein öffentliches Interesse besteht und geeignete Garantien für die Rechtsgüter der betroffenen Personen vorgesehen werden. Solche Garantien können in einer so zeitnah wie möglich erfolgenden Anonymisierung der personenbezogenen Daten, in Vorkehrungen gegen ihre unbefugte Kenntnisnahme durch Dritte oder in ihrer räumlich und organisatorisch von den sonstigen Fachaufgaben getrennten Verarbeitung bestehen.
 
-
-## § 51 – Einwilligung
+# § 51 – Einwilligung
 
 (1) Soweit die Verarbeitung personenbezogener Daten nach einer Rechtsvorschrift auf der Grundlage einer Einwilligung erfolgen kann, muss der Verantwortliche die Einwilligung der betroffenen Person nachweisen können.
 
@@ -901,18 +847,15 @@ Personenbezogene Daten dürfen im Rahmen der in § 45 genannten Zwecke in archiv
 
 (5) Soweit besondere Kategorien personenbezogener Daten verarbeitet werden, muss sich die Einwilligung ausdrücklich auf diese Daten beziehen.
 
-
-## § 52 – Verarbeitung auf Weisung des Verantwortlichen
+# § 52 – Verarbeitung auf Weisung des Verantwortlichen
 
 Jede einem Verantwortlichen oder einem Auftragsverarbeiter unterstellte Person, die Zugang zu personenbezogenen Daten hat, darf diese Daten ausschließlich auf Weisung des Verantwortlichen verarbeiten, es sei denn, dass sie nach einer Rechtsvorschrift zur Verarbeitung verpflichtet ist.
 
-
-## § 53 – Datengeheimnis
+# § 53 – Datengeheimnis
 
 Mit Datenverarbeitung befasste Personen dürfen personenbezogene Daten nicht unbefugt verarbeiten (Datengeheimnis). Sie sind bei der Aufnahme ihrer Tätigkeit auf das Datengeheimnis zu verpflichten. Das Datengeheimnis besteht auch nach der Beendigung ihrer Tätigkeit fort.
 
-
-## § 54 – Automatisierte Einzelentscheidung
+# § 54 – Automatisierte Einzelentscheidung
 
 (1) Eine ausschließlich auf einer automatischen Verarbeitung beruhende Entscheidung, die mit einer nachteiligen Rechtsfolge für die betroffene Person verbunden ist oder sie erheblich beeinträchtigt, ist nur zulässig, wenn sie in einer Rechtsvorschrift vorgesehen ist.
 
@@ -920,8 +863,7 @@ Mit Datenverarbeitung befasste Personen dürfen personenbezogene Daten nicht unb
 
 (3) Profiling, das zur Folge hat, dass betroffene Personen auf der Grundlage von besonderen Kategorien personenbezogener Daten diskriminiert werden, ist verboten.
 
-
-## § 55 – Allgemeine Informationen zu Datenverarbeitungen
+# § 55 – Allgemeine Informationen zu Datenverarbeitungen
 
 Der Verantwortliche hat in allgemeiner Form und für jedermann zugänglich Informationen zur Verfügung zu stellen über
 
@@ -935,8 +877,7 @@ Der Verantwortliche hat in allgemeiner Form und für jedermann zugänglich Infor
 
 5. die Erreichbarkeit der oder des Bundesbeauftragten.
 
-
-## § 56 – Benachrichtigung betroffener Personen
+# § 56 – Benachrichtigung betroffener Personen
 
 (1) Ist die Benachrichtigung betroffener Personen über die Verarbeitung sie betreffender personenbezogener Daten in speziellen Rechtsvorschriften, insbesondere bei verdeckten Maßnahmen, vorgesehen oder angeordnet, so hat diese Benachrichtigung zumindest die folgenden Angaben zu enthalten:
 
@@ -964,8 +905,7 @@ gefährdet würden, wenn das Interesse an der Vermeidung dieser Gefahren das Inf
 
 (4) Im Fall der Einschränkung nach Absatz 2 gilt § 57 Absatz 7 entsprechend.
 
-
-## § 57 – Auskunftsrecht
+# § 57 – Auskunftsrecht
 
 (1) Der Verantwortliche hat betroffenen Personen auf Antrag Auskunft darüber zu erteilen, ob er sie betreffende Daten verarbeitet. Betroffene Personen haben darüber hinaus das Recht, Informationen zu erhalten über
 
@@ -1002,8 +942,7 @@ gefährdet würden, wenn das Interesse an der Vermeidung dieser Gefahren das Inf
 (+++ § 57 Abs. 7: zur Anwendung vgl. § 56 Abs. 4 u. § 58 Abs. 7 +++)  
 (+++ § 57 Abs. 8: zur Anwendung vgl. § 58 Abs. 7 +++)
 
-
-## § 58 – Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung
+# § 58 – Rechte auf Berichtigung und Löschung sowie Einschränkung der Verarbeitung
 
 (1) Die betroffene Person hat das Recht, von dem Verantwortlichen unverzüglich die Berichtigung sie betreffender unrichtiger Daten zu verlangen. Insbesondere im Fall von Aussagen oder Beurteilungen betrifft die Frage der Richtigkeit nicht den Inhalt der Aussage oder Beurteilung. Wenn die Richtigkeit oder Unrichtigkeit der Daten nicht festgestellt werden kann, tritt an die Stelle der Berichtigung eine Einschränkung der Verarbeitung. In diesem Fall hat der Verantwortliche die betroffene Person zu unterrichten, bevor er die Einschränkung wieder aufhebt. Die betroffene Person kann zudem die Vervollständigung unvollständiger personenbezogener Daten verlangen, wenn dies unter Berücksichtigung der Verarbeitungszwecke angemessen ist.
 
@@ -1029,8 +968,7 @@ In ihrer Verarbeitung nach Satz 1 eingeschränkte Daten dürfen nur zu dem Zweck
 
 (+++ § 58 Abs. 3 bis 5: zur Anwendung vgl. § 75 Abs. 3 +++)
 
-
-## § 59 – Verfahren für die Ausübung der Rechte der betroffenen Person
+# § 59 – Verfahren für die Ausübung der Rechte der betroffenen Person
 
 (1) Der Verantwortliche hat mit betroffenen Personen unter Verwendung einer klaren und einfachen Sprache in präziser, verständlicher und leicht zugänglicher Form zu kommunizieren. Unbeschadet besonderer Formvorschriften soll er bei der Beantwortung von Anträgen grundsätzlich die für den Antrag gewählte Form verwenden.
 
@@ -1040,22 +978,19 @@ In ihrer Verarbeitung nach Satz 1 eingeschränkte Daten dürfen nur zu dem Zweck
 
 (4) Hat der Verantwortliche begründete Zweifel an der Identität einer betroffenen Person, die einen Antrag nach den §§ 57 oder 58 gestellt hat, kann er von ihr zusätzliche Informationen anfordern, die zur Bestätigung ihrer Identität erforderlich sind.
 
-
-## § 60 – Anrufung der oder des Bundesbeauftragten
+# § 60 – Anrufung der oder des Bundesbeauftragten
 
 (1) Jede betroffene Person kann sich unbeschadet anderweitiger Rechtsbehelfe mit einer Beschwerde an die Bundesbeauftragte oder den Bundesbeauftragten wenden, wenn sie der Auffassung ist, bei der Verarbeitung ihrer personenbezogenen Daten durch öffentliche Stellen zu den in § 45 genannten Zwecken in ihren Rechten verletzt worden zu sein. Dies gilt nicht für die Verarbeitung von personenbezogenen Daten durch Gerichte, soweit diese die Daten im Rahmen ihrer justiziellen Tätigkeit verarbeitet haben. Die oder der Bundesbeauftragte hat die betroffene Person über den Stand und das Ergebnis der Beschwerde zu unterrichten und sie hierbei auf die Möglichkeit gerichtlichen Rechtsschutzes nach § 61 hinzuweisen.
 
 (2) Die oder der Bundesbeauftragte hat eine bei ihr oder ihm eingelegte Beschwerde über eine Verarbeitung, die in die Zuständigkeit einer Aufsichtsbehörde in einem anderen Mitgliedstaat der Europäischen Union fällt, unverzüglich an die zuständige Aufsichtsbehörde des anderen Staates weiterzuleiten. Sie oder er hat in diesem Fall die betroffene Person über die Weiterleitung zu unterrichten und ihr auf deren Ersuchen weitere Unterstützung zu leisten.
 
-
-## § 61 – Rechtsschutz gegen Entscheidungen der oder des Bundesbeauftragten oder bei deren oder dessen Untätigkeit
+# § 61 – Rechtsschutz gegen Entscheidungen der oder des Bundesbeauftragten oder bei deren oder dessen Untätigkeit
 
 (1) Jede natürliche oder juristische Person kann unbeschadet anderer Rechtsbehelfe gerichtlich gegen eine verbindliche Entscheidung der oder des Bundesbeauftragten vorgehen.
 
 (2) Absatz 1 gilt entsprechend zugunsten betroffener Personen, wenn sich die oder der Bundesbeauftragte mit einer Beschwerde nach § 60 nicht befasst oder die betroffene Person nicht innerhalb von drei Monaten nach Einlegung der Beschwerde über den Stand oder das Ergebnis der Beschwerde in Kenntnis gesetzt hat.
 
-
-## § 62 – Auftragsverarbeitung
+# § 62 – Auftragsverarbeitung
 
 (1) Werden personenbezogene Daten im Auftrag eines Verantwortlichen durch andere Personen oder Stellen verarbeitet, hat der Verantwortliche für die Einhaltung der Vorschriften dieses Gesetzes und anderer Vorschriften über den Datenschutz zu sorgen. Die Rechte der betroffenen Personen auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Schadensersatz sind in diesem Fall gegenüber dem Verantwortlichen geltend zu machen.
 
@@ -1089,13 +1024,11 @@ In ihrer Verarbeitung nach Satz 1 eingeschränkte Daten dürfen nur zu dem Zweck
 
 (7) Ein Auftragsverarbeiter, der die Zwecke und Mittel der Verarbeitung unter Verstoß gegen diese Vorschrift bestimmt, gilt in Bezug auf diese Verarbeitung als Verantwortlicher.
 
-
-## § 63 – Gemeinsam Verantwortliche
+# § 63 – Gemeinsam Verantwortliche
 
 Legen zwei oder mehr Verantwortliche gemeinsam die Zwecke und die Mittel der Verarbeitung fest, gelten sie als gemeinsam Verantwortliche. Gemeinsam Verantwortliche haben ihre jeweiligen Aufgaben und datenschutzrechtlichen Verantwortlichkeiten in transparenter Form in einer Vereinbarung festzulegen, soweit diese nicht bereits in Rechtsvorschriften festgelegt sind. Aus der Vereinbarung muss insbesondere hervorgehen, wer welchen Informationspflichten nachzukommen hat und wie und gegenüber wem betroffene Personen ihre Rechte wahrnehmen können. Eine entsprechende Vereinbarung hindert die betroffene Person nicht, ihre Rechte gegenüber jedem der gemeinsam Verantwortlichen geltend zu machen.
 
-
-## § 64 – Anforderungen an die Sicherheit der Datenverarbeitung
+# § 64 – Anforderungen an die Sicherheit der Datenverarbeitung
 
 (1) Der Verantwortliche und der Auftragsverarbeiter haben unter Berücksichtigung des Stands der Technik, der Implementierungskosten, der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der Eintrittswahrscheinlichkeit und der Schwere der mit der Verarbeitung verbundenen Gefahren für die Rechtsgüter der betroffenen Personen die erforderlichen technischen und organisatorischen Maßnahmen zu treffen, um bei der Verarbeitung personenbezogener Daten ein dem Risiko angemessenes Schutzniveau zu gewährleisten, insbesondere im Hinblick auf die Verarbeitung besonderer Kategorien personenbezogener Daten. Der Verantwortliche hat hierbei die einschlägigen Technischen Richtlinien und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik zu berücksichtigen.
 
@@ -1137,8 +1070,7 @@ Legen zwei oder mehr Verantwortliche gemeinsam die Zwecke und die Mittel der Ver
 
 Ein Zweck nach Satz 1 Nummer 2 bis 5 kann insbesondere durch die Verwendung von dem Stand der Technik entsprechenden Verschlüsselungsverfahren erreicht werden.
 
-
-## § 65 – Meldung von Verletzungen des Schutzes personenbezogener Daten an die oder den Bundesbeauftragten
+# § 65 – Meldung von Verletzungen des Schutzes personenbezogener Daten an die oder den Bundesbeauftragten
 
 (1) Der Verantwortliche hat eine Verletzung des Schutzes personenbezogener Daten unverzüglich und möglichst innerhalb von 72 Stunden, nachdem sie ihm bekannt geworden ist, der oder dem Bundesbeauftragten zu melden, es sei denn, dass die Verletzung voraussichtlich keine Gefahr für die Rechtsgüter natürlicher Personen mit sich gebracht hat. Erfolgt die Meldung an die Bundesbeauftragte oder den Bundesbeauftragten nicht innerhalb von 72 Stunden, so ist die Verzögerung zu begründen.
 
@@ -1164,8 +1096,7 @@ Ein Zweck nach Satz 1 Nummer 2 bis 5 kann insbesondere durch die Verwendung von 
 
 (8) Weitere Pflichten des Verantwortlichen zu Benachrichtigungen über Verletzungen des Schutzes personenbezogener Daten bleiben unberührt.
 
-
-## § 66 – Benachrichtigung betroffener Personen bei Verletzungen des Schutzes personenbezogener Daten
+# § 66 – Benachrichtigung betroffener Personen bei Verletzungen des Schutzes personenbezogener Daten
 
 (1) Hat eine Verletzung des Schutzes personenbezogener Daten voraussichtlich eine erhebliche Gefahr für Rechtsgüter betroffener Personen zur Folge, so hat der Verantwortliche die betroffenen Personen unverzüglich über den Vorfall zu benachrichtigen.
 
@@ -1185,8 +1116,7 @@ Ein Zweck nach Satz 1 Nummer 2 bis 5 kann insbesondere durch die Verwendung von 
 
 (6) § 42 Absatz 4 findet entsprechende Anwendung.
 
-
-## § 67 – Durchführung einer Datenschutz-Folgenabschätzung
+# § 67 – Durchführung einer Datenschutz-Folgenabschätzung
 
 (1) Hat eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung voraussichtlich eine erhebliche Gefahr für die Rechtsgüter betroffener Personen zur Folge, so hat der Verantwortliche vorab eine Abschätzung der Folgen der vorgesehenen Verarbeitungsvorgänge für die betroffenen Personen durchzuführen.
 
@@ -1206,13 +1136,11 @@ Ein Zweck nach Satz 1 Nummer 2 bis 5 kann insbesondere durch die Verwendung von 
 
 (5) Soweit erforderlich, hat der Verantwortliche eine Überprüfung durchzuführen, ob die Verarbeitung den Maßgaben folgt, die sich aus der Folgenabschätzung ergeben haben.
 
-
-## § 68 – Zusammenarbeit mit der oder dem Bundesbeauftragten
+# § 68 – Zusammenarbeit mit der oder dem Bundesbeauftragten
 
 Der Verantwortliche hat mit der oder dem Bundesbeauftragten bei der Erfüllung ihrer oder seiner Aufgaben zusammenzuarbeiten.
 
-
-## § 69 – Anhörung der oder des Bundesbeauftragten
+# § 69 – Anhörung der oder des Bundesbeauftragten
 
 (1) Der Verantwortliche hat vor der Inbetriebnahme von neu anzulegenden Dateisystemen die Bundesbeauftragte oder den Bundesbeauftragten anzuhören, wenn
 
@@ -1240,8 +1168,7 @@ Auf Anforderung sind ihr oder ihm zudem alle sonstigen Informationen zu übermit
 
 (4) Hat die beabsichtigte Verarbeitung erhebliche Bedeutung für die Aufgabenerfüllung des Verantwortlichen und ist sie daher besonders dringlich, kann er mit der Verarbeitung nach Beginn der Anhörung, aber vor Ablauf der in Absatz 3 Satz 1 genannten Frist beginnen. In diesem Fall sind die Empfehlungen der oder des Bundesbeauftragten im Nachhinein zu berücksichtigen und sind die Art und Weise der Verarbeitung daraufhin gegebenenfalls anzupassen.
 
-
-## § 70 – Verzeichnis von Verarbeitungstätigkeiten
+# § 70 – Verzeichnis von Verarbeitungstätigkeiten
 
 (1) Der Verantwortliche hat ein Verzeichnis aller Kategorien von Verarbeitungstätigkeiten zu führen, die in seine Zuständigkeit fallen. Dieses Verzeichnis hat die folgenden Angaben zu enthalten:
 
@@ -1275,15 +1202,13 @@ Auf Anforderung sind ihr oder ihm zudem alle sonstigen Informationen zu übermit
 
 (4) Verantwortliche und Auftragsverarbeiter haben auf Anforderung ihre Verzeichnisse der oder dem Bundesbeauftragten zur Verfügung zu stellen.
 
-
-## § 71 – Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen
+# § 71 – Datenschutz durch Technikgestaltung und datenschutzfreundliche Voreinstellungen
 
 (1) Der Verantwortliche hat sowohl zum Zeitpunkt der Festlegung der Mittel für die Verarbeitung als auch zum Zeitpunkt der Verarbeitung selbst angemessene Vorkehrungen zu treffen, die geeignet sind, die Datenschutzgrundsätze wie etwa die Datensparsamkeit wirksam umzusetzen, und die sicherstellen, dass die gesetzlichen Anforderungen eingehalten und die Rechte der betroffenen Personen geschützt werden. Er hat hierbei den Stand der Technik, die Implementierungskosten und die Art, den Umfang, die Umstände und die Zwecke der Verarbeitung sowie die unterschiedliche Eintrittswahrscheinlichkeit und Schwere der mit der Verarbeitung verbundenen Gefahren für die Rechtsgüter der betroffenen Personen zu berücksichtigen. Insbesondere sind die Verarbeitung personenbezogener Daten und die Auswahl und Gestaltung von Datenverarbeitungssystemen an dem Ziel auszurichten, so wenig personenbezogene Daten wie möglich zu verarbeiten. Personenbezogene Daten sind zum frühestmöglichen Zeitpunkt zu anonymisieren oder zu pseudonymisieren, soweit dies nach dem Verarbeitungszweck möglich ist.
 
 (2) Der Verantwortliche hat geeignete technische und organisatorische Maßnahmen zu treffen, die sicherstellen, dass durch Voreinstellungen grundsätzlich nur solche personenbezogenen Daten verarbeitet werden können, deren Verarbeitung für den jeweiligen bestimmten Verarbeitungszweck erforderlich ist. Dies betrifft die Menge der erhobenen Daten, den Umfang ihrer Verarbeitung, ihre Speicherfrist und ihre Zugänglichkeit. Die Maßnahmen müssen insbesondere gewährleisten, dass die Daten durch Voreinstellungen nicht automatisiert einer unbestimmten Anzahl von Personen zugänglich gemacht werden können.
 
-
-## § 72 – Unterscheidung zwischen verschiedenen Kategorien betroffener Personen
+# § 72 – Unterscheidung zwischen verschiedenen Kategorien betroffener Personen
 
 Der Verantwortliche hat bei der Verarbeitung personenbezogener Daten so weit wie möglich zwischen den verschiedenen Kategorien betroffener Personen zu unterscheiden. Dies betrifft insbesondere folgende Kategorien:
 
@@ -1297,13 +1222,11 @@ Der Verantwortliche hat bei der Verarbeitung personenbezogener Daten so weit wie
 
 5. andere Personen wie insbesondere Zeugen, Hinweisgeber oder Personen, die mit den in den Nummern 1 bis 4 genannten Personen in Kontakt oder Verbindung stehen.
 
-
-## § 73 – Unterscheidung zwischen Tatsachen und persönlichen Einschätzungen
+# § 73 – Unterscheidung zwischen Tatsachen und persönlichen Einschätzungen
 
 Der Verantwortliche hat bei der Verarbeitung so weit wie möglich danach zu unterscheiden, ob personenbezogene Daten auf Tatsachen oder auf persönlichen Einschätzungen beruhen. Zu diesem Zweck soll er, soweit dies im Rahmen der jeweiligen Verarbeitung möglich und angemessen ist, Beurteilungen, die auf persönlichen Einschätzungen beruhen, als solche kenntlich machen. Es muss außerdem feststellbar sein, welche Stelle die Unterlagen führt, die der auf einer persönlichen Einschätzung beruhenden Beurteilung zugrunde liegen.
 
-
-## § 74 – Verfahren bei Übermittlungen
+# § 74 – Verfahren bei Übermittlungen
 
 (1) Der Verantwortliche hat angemessene Maßnahmen zu ergreifen, um zu gewährleisten, dass personenbezogene Daten, die unrichtig oder nicht mehr aktuell sind, nicht übermittelt oder sonst zur Verfügung gestellt werden. Zu diesem Zweck hat er, soweit dies mit angemessenem Aufwand möglich ist, die Qualität der Daten vor ihrer Übermittlung oder Bereitstellung zu überprüfen. Bei jeder Übermittlung personenbezogener Daten hat er zudem, soweit dies möglich und angemessen ist, Informationen beizufügen, die es dem Empfänger gestatten, die Richtigkeit, die Vollständigkeit und die Zuverlässigkeit der Daten sowie deren Aktualität zu beurteilen.
 
@@ -1311,8 +1234,7 @@ Der Verantwortliche hat bei der Verarbeitung so weit wie möglich danach zu unte
 
 (3) Die übermittelnde Stelle darf auf Empfänger in anderen Mitgliedstaaten der Europäischen Union und auf Einrichtungen und sonstige Stellen, die nach den Kapiteln 4 und 5 des Titels V des Dritten Teils des Vertrags über die Arbeitsweise der Europäischen Union errichtet wurden, keine Bedingungen anwenden, die nicht auch für entsprechende innerstaatliche Datenübermittlungen gelten.
 
-
-## § 75 – Berichtigung und Löschung personenbezogener Daten sowie Einschränkung der Verarbeitung
+# § 75 – Berichtigung und Löschung personenbezogener Daten sowie Einschränkung der Verarbeitung
 
 (1) Der Verantwortliche hat personenbezogene Daten zu berichtigen, wenn sie unrichtig sind.
 
@@ -1322,8 +1244,7 @@ Der Verantwortliche hat bei der Verarbeitung so weit wie möglich danach zu unte
 
 (4) Unbeschadet in Rechtsvorschriften festgesetzter Höchstspeicher- oder Löschfristen hat der Verantwortliche für die Löschung von personenbezogenen Daten oder eine regelmäßige Überprüfung der Notwendigkeit ihrer Speicherung angemessene Fristen vorzusehen und durch verfahrensrechtliche Vorkehrungen sicherzustellen, dass diese Fristen eingehalten werden.
 
-
-## § 76 – Protokollierung
+# § 76 – Protokollierung
 
 (1) In automatisierten Verarbeitungssystemen haben Verantwortliche und Auftragsverarbeiter mindestens die folgenden Verarbeitungsvorgänge zu protokollieren:
 
@@ -1347,13 +1268,11 @@ Der Verantwortliche hat bei der Verarbeitung so weit wie möglich danach zu unte
 
 (5) Der Verantwortliche und der Auftragsverarbeiter haben die Protokolle der oder dem Bundesbeauftragten auf Anforderung zur Verfügung zu stellen.
 
-
-## § 77 – Vertrauliche Meldung von Verstößen
+# § 77 – Vertrauliche Meldung von Verstößen
 
 Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über in seinem Verantwortungsbereich erfolgende Verstöße gegen Datenschutzvorschriften zugeleitet werden können.
 
-
-## § 78 – Allgemeine Voraussetzungen
+# § 78 – Allgemeine Voraussetzungen
 
 (1) Die Übermittlung personenbezogener Daten an Stellen in Drittstaaten oder an internationale Organisationen ist bei Vorliegen der übrigen für Datenübermittlungen geltenden Voraussetzungen zulässig, wenn
 
@@ -1367,8 +1286,7 @@ Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über i
 
 (4) Der Verantwortliche, der Daten nach Absatz 1 übermittelt, hat durch geeignete Maßnahmen sicherzustellen, dass der Empfänger die übermittelten Daten nur dann an andere Drittstaaten oder andere internationale Organisationen weiterübermittelt, wenn der Verantwortliche diese Übermittlung zuvor genehmigt hat. Bei der Entscheidung über die Erteilung der Genehmigung hat der Verantwortliche alle maßgeblichen Faktoren zu berücksichtigen, insbesondere die Schwere der Straftat, den Zweck der ursprünglichen Übermittlung und das in dem Drittstaat oder der internationalen Organisation, an das oder an die die Daten weiterübermittelt werden sollen, bestehende Schutzniveau für personenbezogene Daten. Eine Genehmigung darf nur dann erfolgen, wenn auch eine direkte Übermittlung an den anderen Drittstaat oder die andere internationale Organisation zulässig wäre. Die Zuständigkeit für die Erteilung der Genehmigung kann auch abweichend geregelt werden.
 
-
-## § 79 – Datenübermittlung bei geeigneten Garantien
+# § 79 – Datenübermittlung bei geeigneten Garantien
 
 (1) Liegt entgegen § 78 Absatz 1 Nummer 2 kein Beschluss nach Artikel 36 Absatz 3 der Richtlinie (EU) 2016/680 vor, ist eine Übermittlung bei Vorliegen der übrigen Voraussetzungen des § 78 auch dann zulässig, wenn
 
@@ -1383,8 +1301,7 @@ Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über i
 (+++ § 79 Abs. 2: zur Anwendung vgl. § 80 Abs. 3 u. § 81 Abs. 3 +++)  
 (+++ § 79 Abs. 3: zur Anwendung vgl. § 81 Abs. 3 +++)
 
-
-## § 80 – Datenübermittlung ohne geeignete Garantien
+# § 80 – Datenübermittlung ohne geeignete Garantien
 
 (1) Liegt entgegen § 78 Absatz 1 Nummer 2 kein Beschluss nach Artikel 36 Absatz 3 der Richtlinie (EU) 2016/680 vor und liegen auch keine geeigneten Garantien im Sinne des § 79 Absatz 1 vor, ist eine Übermittlung bei Vorliegen der übrigen Voraussetzungen des § 78 auch dann zulässig, wenn die Übermittlung erforderlich ist
 
@@ -1402,8 +1319,7 @@ Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über i
 
 (3) Für Übermittlungen nach Absatz 1 gilt § 79 Absatz 2 entsprechend.
 
-
-## § 81 – Sonstige Datenübermittlung an Empfänger in Drittstaaten
+# § 81 – Sonstige Datenübermittlung an Empfänger in Drittstaaten
 
 (1) Verantwortliche können bei Vorliegen der übrigen für die Datenübermittlung in Drittstaaten geltenden Voraussetzungen im besonderen Einzelfall personenbezogene Daten unmittelbar an nicht in § 78 Absatz 1 Nummer 1 genannte Stellen in Drittstaaten übermitteln, wenn die Übermittlung für die Erfüllung ihrer Aufgaben unbedingt erforderlich ist und
 
@@ -1421,8 +1337,7 @@ Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über i
 
 (5) Abkommen im Bereich der justiziellen Zusammenarbeit in Strafsachen und der polizeilichen Zusammenarbeit bleiben unberührt.
 
-
-## § 82 – Gegenseitige Amtshilfe
+# § 82 – Gegenseitige Amtshilfe
 
 (1) Die oder der Bundesbeauftragte hat den Datenschutzaufsichtsbehörden in anderen Mitgliedstaaten der Europäischen Union Informationen zu übermitteln und Amtshilfe zu leisten, soweit dies für eine einheitliche Umsetzung und Anwendung der Richtlinie (EU) 2016/680 erforderlich ist. Die Amtshilfe betrifft insbesondere Auskunftsersuchen und aufsichtsbezogene Maßnahmen, beispielsweise Ersuchen um Konsultation oder um Vornahme von Nachprüfungen und Untersuchungen.
 
@@ -1442,8 +1357,7 @@ Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über i
 
 (7) Ein Amtshilfeersuchen der oder des Bundesbeauftragten hat alle erforderlichen Informationen zu enthalten; hierzu gehören insbesondere der Zweck und die Begründung des Ersuchens. Die auf das Ersuchen übermittelten Informationen dürfen ausschließlich zu dem Zweck verwendet werden, zu dem sie angefordert wurden.
 
-
-## § 83 – Schadensersatz und Entschädigung
+# § 83 – Schadensersatz und Entschädigung
 
 (1) Hat ein Verantwortlicher einer betroffenen Person durch eine Verarbeitung personenbezogener Daten, die nach diesem Gesetz oder nach anderen auf ihre Verarbeitung anwendbaren Vorschriften rechtswidrig war, einen Schaden zugefügt, ist er oder sein Rechtsträger der betroffenen Person zum Schadensersatz verpflichtet. Die Ersatzpflicht entfällt, soweit bei einer nicht automatisierten Verarbeitung der Schaden nicht auf ein Verschulden des Verantwortlichen zurückzuführen ist.
 
@@ -1455,13 +1369,11 @@ Der Verantwortliche hat zu ermöglichen, dass ihm vertrauliche Meldungen über i
 
 (5) Auf die Verjährung finden die für unerlaubte Handlungen geltenden Verjährungsvorschriften des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
-## § 84 – Strafvorschriften
+# § 84 – Strafvorschriften
 
 Für Verarbeitungen personenbezogener Daten durch öffentliche Stellen im Rahmen von Tätigkeiten nach § 45 Satz 1, 3 oder 4 findet § 42 entsprechende Anwendung.
 
-
-## § 85 – Verarbeitung personenbezogener Daten im Rahmen von nicht in die Anwendungs- bereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten
+# § 85 – Verarbeitung personenbezogener Daten im Rahmen von nicht in die Anwendungs- bereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten
 
 (1) Die Übermittlung personenbezogener Daten an einen Drittstaat oder an über- oder zwischenstaatliche Stellen oder internationale Organisationen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten ist über die bereits gemäß der Verordnung (EU) 2016/679 zulässigen Fälle hinaus auch dann zulässig, wenn sie zur Erfüllung eigener Aufgaben aus zwingenden Gründen der Verteidigung oder zur Erfüllung über- oder zwischenstaatlicher Verpflichtungen einer öffentlichen Stelle des Bundes auf dem Gebiet der Krisenbewältigung oder Konfliktverhinderung oder für humanitäre Maßnahmen erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie übermittelt wurden.
 
@@ -1475,8 +1387,7 @@ Für Verarbeitungen personenbezogener Daten durch öffentliche Stellen im Rahmen
 
 Ist die betroffene Person in den Fällen des Satzes 1 nicht zu informieren, besteht auch kein Recht auf Auskunft. § 32 Absatz 2 und § 33 Absatz 2 finden keine Anwendung.
 
-
-## § 86 – Verarbeitung personenbezogener Daten für Zwecke staatlicher Auszeichnungen und Ehrungen
+# § 86 – Verarbeitung personenbezogener Daten für Zwecke staatlicher Auszeichnungen und Ehrungen
 
 (1) Zur Vorbereitung und Durchführung staatlicher Verfahren bei Auszeichnungen und Ehrungen dürfen sowohl die zuständigen als auch andere öffentliche und nichtöffentliche Stellen die dazu erforderlichen personenbezogenen Daten, einschließlich besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679, auch ohne Kenntnis der betroffenen Person verarbeiten. Für nichtöffentliche Stellen gilt insoweit § 1 Absatz 8 entsprechend. Eine Verarbeitung der personenbezogenen Daten nach Satz 1 für andere Zwecke ist nur mit Einwilligung der betroffenen Person zulässig.
 

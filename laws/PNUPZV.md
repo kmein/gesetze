@@ -1,24 +1,19 @@
-# [PNUPZV] Verordnung über Leistungsprämien und -zulagen für Beamtinnen und Beamte der Postnachfolgeunternehmen  (PNU-Prämien- und -Zulagenverordnung - PNUPZV)
-
-Ausfertigungsdatum: 30.09.2013
-
+% Verordnung über Leistungsprämien und -zulagen für Beamtinnen und Beamte der Postnachfolgeunternehmen  (PNU-Prämien- und -Zulagenverordnung - PNUPZV)
+% Ausfertigungsdatum: 30.09.2013
  
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Beamtinnen und Beamten mit Dienstbezügen, die bei einem Postnachfolgeunternehmen beschäftigt sind, können nichtruhegehaltfähige Prämien oder Zulagen als leistungs- und erfolgsbezogene Besoldungselemente gewährt werden. Sie können insbesondere gewährt werden für herausragende besondere Leistungen und Erfolge bei der Kostensenkung, der Arbeitsmenge, der Ertragssicherung und Ertragssteigerung, der Qualitätsverbesserung, der Weiterentwicklung von Techniken oder Produkten, der Vermittlung von Verträgen, der Abwendung von Schäden oder der Betriebsabwicklung unter erschwerten Bedingungen.
 
 (2) Die Höhe der Prämien und Zulagen ist entsprechend der erbrachten Leistung und nach Maßgabe des erzielten Erfolges zu bemessen; der Nutzen für das Unternehmen ist zu berücksichtigen. Für dieselbe Leistung oder denselben Erfolg kann entweder eine Prämie oder eine Zulage gewährt werden.
 
-
-## § 2 – Prämie
+# § 2 – Prämie
 
 (1) Die Prämie wird als Einmalzahlung gewährt. Der Gesamtbetrag der Prämien, die eine Beamtin oder ein Beamter in einem Kalenderjahr erhält, darf 20 000 Euro nicht überschreiten.
 
 (2) Die Prämie kann auch in Form von Sachbezügen gewährt werden.
 
-
-## § 3 – Zulage
+# § 3 – Zulage
 
 (1) Die Zulage wird als Monatsbetrag gewährt
 
@@ -32,8 +27,7 @@ wenn eine entsprechende Leistung oder ein entsprechender Erfolg auch zukünftig 
 
 (3) Die Zulage wird mit den Dienstbezügen ausgezahlt. Sie darf 25 Prozent des monatlichen Endgrundgehaltes der Besoldungsgruppe, der die Beamtin oder der Beamte angehört, nicht überschreiten.
 
-
-## § 4 – Entscheidungsberechtigte
+# § 4 – Entscheidungsberechtigte
 
 Der Vorstand des Postnachfolgeunternehmens entscheidet,
 

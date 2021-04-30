@@ -1,10 +1,7 @@
-# [FreizügG/EU] Gesetz über die allgemeine Freizügigkeit von Unionsbürgern  (Freizügigkeitsgesetz/EU - FreizügG/EU)
-
-Ausfertigungsdatum: 30.07.2004
-
+% Gesetz über die allgemeine Freizügigkeit von Unionsbürgern  (Freizügigkeitsgesetz/EU - FreizügG/EU)
+% Ausfertigungsdatum: 30.07.2004
  
-
-## § 1 – Anwendungsbereich; Begriffsbestimmungen
+# § 1 – Anwendungsbereich; Begriffsbestimmungen
 
 (1) Dieses Gesetz regelt die Einreise und den Aufenthalt von
 
@@ -52,8 +49,7 @@ c) eine Lebensgefährtin oder ein Lebensgefährte, mit der oder dem die Person e
 
 6. sind britische Staatsangehörige die in Artikel 2 Buchstabe d des Austrittsabkommens genannten Personen.
 
-
-## § 2 – Recht auf Einreise und Aufenthalt
+# § 2 – Recht auf Einreise und Aufenthalt
 
 (1) Freizügigkeitsberechtigte Unionsbürger und ihre Familienangehörigen haben das Recht auf Einreise und Aufenthalt nach Maßgabe dieses Gesetzes.
 
@@ -61,8 +57,7 @@ c) eine Lebensgefährtin oder ein Lebensgefährte, mit der oder dem die Person e
 
 1. Unionsbürger, die sich als Arbeitnehmer oder zur Berufsausbildung aufhalten wollen,
 
-1a.  
-Unionsbürger, die sich zur Arbeitsuche aufhalten, für bis zu sechs Monate und darüber hinaus nur, solange sie nachweisen können, dass sie weiterhin Arbeit suchen und begründete Aussicht haben, eingestellt zu werden,
+1a. Unionsbürger, die sich zur Arbeitsuche aufhalten, für bis zu sechs Monate und darüber hinaus nur, solange sie nachweisen können, dass sie weiterhin Arbeit suchen und begründete Aussicht haben, eingestellt zu werden,
 
 2. Unionsbürger, wenn sie zur Ausübung einer selbständigen Erwerbstätigkeit berechtigt sind (niedergelassene selbständige Erwerbstätige),
 
@@ -94,8 +89,7 @@ Bei unfreiwilliger durch die zuständige Agentur für Arbeit bestätigter Arbeit
 
 (7) Das Nichtbestehen des Rechts nach Absatz 1 kann festgestellt werden, wenn feststeht, dass die betreffende Person das Vorliegen einer Voraussetzung für dieses Recht durch die Verwendung von gefälschten oder verfälschten Dokumenten oder durch Vorspiegelung falscher Tatsachen vorgetäuscht hat. Das Nichtbestehen des Rechts nach Absatz 1 kann bei einem Familienangehörigen, der nicht Unionsbürger ist, außerdem festgestellt werden, wenn feststeht, dass er dem Unionsbürger nicht zur Herstellung oder Wahrung der familiären Lebensgemeinschaft nachzieht oder ihn nicht zu diesem Zweck begleitet. Einem Familienangehörigen, der nicht Unionsbürger ist, kann in diesen Fällen die Erteilung der Aufenthaltskarte oder des Visums versagt werden oder seine Aufenthaltskarte kann eingezogen werden. Entscheidungen nach den Sätzen 1 bis 3 bedürfen der Schriftform.
 
-
-## § 3 – Familienangehörige
+# § 3 – Familienangehörige
 
 (1) Familienangehörige der in § 2 Abs. 2 Nr. 1 bis 5 genannten Unionsbürger haben das Recht nach § 2 Abs. 1, wenn sie den Unionsbürger begleiten oder ihm nachziehen. Für Familienangehörige der in § 2 Abs. 2 Nr. 5 genannten Unionsbürger gilt dies nach Maßgabe des § 4.
 
@@ -113,8 +107,7 @@ Bei unfreiwilliger durch die zuständige Agentur für Arbeit bestätigter Arbeit
 
 4. ihnen durch Vereinbarung der Ehegatten oder der Lebenspartner oder durch gerichtliche Entscheidung das Recht zum persönlichen Umgang mit dem minderjährigen Kind nur im Bundesgebiet eingeräumt wurde.
 
-
-## § 3a – Aufenthalt nahestehender Personen
+# § 3a – Aufenthalt nahestehender Personen
 
 (1) Einer nahestehenden Person eines Unionsbürgers, die selbst nicht als Unionsbürger und nicht nach den §§ 3 oder 4 freizügigkeitsberechtigt ist, kann auf Antrag das Recht zur Einreise und zum Aufenthalt im Bundesgebiet verliehen werden, wenn
 
@@ -134,13 +127,11 @@ c) nicht nur vorübergehend schwerwiegende gesundheitliche Gründe zum Antragsze
 
 (3) § 3 Absatz 2 findet entsprechende Anwendung.
 
-
-## § 4 – Nicht erwerbstätige Freizügigkeitsberechtigte
+# § 4 – Nicht erwerbstätige Freizügigkeitsberechtigte
 
 Nicht erwerbstätige Unionsbürger und ihre Familienangehörigen, die den Unionsbürger begleiten oder ihm nachziehen, haben das Recht nach § 2 Abs. 1, wenn sie über ausreichenden Krankenversicherungsschutz und ausreichende Existenzmittel verfügen. Hält sich der Unionsbürger als Student im Bundesgebiet auf, haben dieses Recht nur sein Ehegatte, Lebenspartner und seine Kinder, denen Unterhalt gewährt wird.
 
-
-## § 4a – Daueraufenthaltsrecht
+# § 4a – Daueraufenthaltsrecht
 
 (1) Unionsbürger, die sich seit fünf Jahren ständig rechtmäßig im Bundesgebiet aufgehalten haben, haben unabhängig vom weiteren Vorliegen der Voraussetzungen des § 2 Abs. 2 das Recht auf Einreise und Aufenthalt (Daueraufenthaltsrecht). Ihre Familienangehörigen und nahestehenden Personen, die Inhaber eines Rechts nach § 3a Absatz 1 sind, die nicht Unionsbürger sind, haben dieses Recht, wenn sie sich seit fünf Jahren mit dem Unionsbürger ständig rechtmäßig im Bundesgebiet aufgehalten haben.
 
@@ -184,8 +175,7 @@ Soweit der Ehegatte oder der Lebenspartner des Unionsbürgers Deutscher nach Art
 
 (7) Eine Abwesenheit aus einem seiner Natur nach nicht nur vorübergehenden Grund von mehr als zwei aufeinander folgenden Jahren führt zum Verlust des Daueraufenthaltsrechts.
 
-
-## § 5 – Aufenthaltskarten, Bescheinigung über das Daueraufenthaltsrecht
+# § 5 – Aufenthaltskarten, Bescheinigung über das Daueraufenthaltsrecht
 
 (1) Freizügigkeitsberechtigten Familienangehörigen, die nicht Unionsbürger sind, wird von Amts wegen innerhalb von sechs Monaten, nachdem sie die erforderlichen Angaben gemacht haben, eine Aufenthaltskarte für Familienangehörige von Unionsbürgern ausgestellt, die fünf Jahre gültig sein soll. Eine Bescheinigung darüber, dass die erforderlichen Angaben gemacht worden sind, erhält der Familienangehörige unverzüglich.
 
@@ -201,8 +191,7 @@ Soweit der Ehegatte oder der Lebenspartner des Unionsbürgers Deutscher nach Art
 
 (7) Bei Verleihung des Rechts nach § 3a Absatz 1 stellt die zuständige Behörde eine Aufenthaltskarte für nahestehende Personen, die nicht Unionsbürger sind, aus, die fünf Jahre gültig sein soll. Die Inhaber des Rechts dürfen eine Erwerbstätigkeit ausüben. Absatz 5 Satz 2 findet entsprechende Anwendung.
 
-
-## § 5a – Vorlage von Dokumenten
+# § 5a – Vorlage von Dokumenten
 
 (1) Die zuständige Behörde darf in den Fällen des § 5 Absatz 2 von einem Unionsbürger den gültigen Personalausweis oder Reisepass und im Fall des
 
@@ -234,8 +223,7 @@ b) in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe b, dass und wie lange di
 
 4. in den Fällen nach § 3a Absatz 1 Nummer 3 den Nachweis über die Umstände für das Bestehen einer dauerhaften Beziehung nach § 1 Absatz 2 Nummer 4 Buchstabe c zwischen dem Unionsbürger und der nahestehenden Person.
 
-
-## § 6 – Verlust des Rechts auf Einreise und Aufenthalt
+# § 6 – Verlust des Rechts auf Einreise und Aufenthalt
 
 (1) Der Verlust des Rechts nach § 2 Abs. 1 kann unbeschadet des § 2 Absatz 7 und des § 5 Absatz 4 nur aus Gründen der öffentlichen Ordnung, Sicherheit oder Gesundheit (Artikel 45 Absatz 3, Artikel 52 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union) festgestellt und die Bescheinigung über das Daueraufenthaltsrecht oder die Aufenthaltskarte oder Daueraufenthaltskarte eingezogen werden. Aus den in Satz 1 genannten Gründen kann auch die Einreise verweigert werden. Die Feststellung aus Gründen der öffentlichen Gesundheit kann nur erfolgen, wenn es sich um Krankheiten mit epidemischem Potenzial im Sinne der einschlägigen Rechtsinstrumente der Weltgesundheitsorganisation und sonstige übertragbare, durch Infektionserreger oder Parasiten verursachte Krankheiten handelt, sofern gegen diese Krankheiten Maßnahmen im Bundesgebiet getroffen werden. Krankheiten, die nach Ablauf einer Frist von drei Monaten ab dem Zeitpunkt der Einreise auftreten, stellen keinen Grund für eine Feststellung nach Satz 1 dar.
 
@@ -255,15 +243,13 @@ b) in Fällen nach § 3a Absatz 1 Nummer 1 Buchstabe b, dass und wie lange di
 
 § 6 Abs. 5 Kursivdruck: Müsste richtig „mehrerer“ lauten
 
-
-## § 7 – Ausreisepflicht
+# § 7 – Ausreisepflicht
 
 (1) Unionsbürger oder ihre Familienangehörigen sind ausreisepflichtig, wenn die Ausländerbehörde festgestellt hat, dass das Recht auf Einreise und Aufenthalt nicht besteht. In dem Bescheid soll die Abschiebung angedroht und eine Ausreisefrist gesetzt werden. Außer in dringenden Fällen muss die Frist mindestens einen Monat betragen. Wird ein Antrag nach § 80 Abs. 5 der Verwaltungsgerichtsordnung gestellt, darf die Abschiebung nicht erfolgen, bevor über den Antrag entschieden wurde.
 
 (2) Unionsbürger und ihre Familienangehörigen, die ihr Freizügigkeitsrecht nach § 6 Abs. 1 verloren haben, dürfen nicht erneut in das Bundesgebiet einreisen und sich darin aufhalten. Unionsbürgern und ihren Familienangehörigen, bei denen das Nichtbestehen des Freizügigkeitsrechts nach § 2 Absatz 7 festgestellt worden ist, kann untersagt werden, erneut in das Bundesgebiet einzureisen und sich darin aufzuhalten. Dies soll untersagt werden, wenn ein besonders schwerer Fall, insbesondere ein wiederholtes Vortäuschen des Vorliegens der Voraussetzungen des Rechts auf Einreise und Aufenthalt, vorliegt oder wenn ihr Aufenthalt die öffentliche Ordnung und Sicherheit der Bundesrepublik Deutschland in erheblicher Weise beeinträchtigt. Bei einer Entscheidung nach den Sätzen 2 und 3 findet § 6 Absatz 3, 6 und 8 entsprechend Anwendung. Das Verbot nach den Sätzen 1 bis 3 wird von Amts wegen befristet. Die Frist ist unter Berücksichtigung der Umstände des Einzelfalles festzusetzen und darf fünf Jahre nur in den Fällen des § 6 Absatz 1 überschreiten. Die Frist beginnt mit der Ausreise. Ein nach angemessener Frist oder nach drei Jahren gestellter Antrag auf Aufhebung oder auf Verkürzung der festgesetzten Frist ist innerhalb von sechs Monaten zu bescheiden.
 
-
-## § 8 – Ausweispflicht
+# § 8 – Ausweispflicht
 
 (1) Die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1 durch dieses Gesetz geregelt ist, sind verpflichtet,
 
@@ -281,8 +267,7 @@ b) einem zuständigen Beamten auf Verlangen zur Prüfung vorzulegen,
 
 (2) Die mit dem Vollzug dieses Gesetzes betrauten Behörden dürfen unter den Voraussetzungen des Absatzes 1 Nr. 3 die auf dem elektronischen Speicher- und Verarbeitungsmedium eines Dokumentes nach Absatz 1 gespeicherten biometrischen und sonstigen Daten auslesen, die benötigten biometrischen Daten beim Inhaber des Dokumentes erheben und die biometrischen Daten miteinander vergleichen. Biometrische Daten nach Satz 1 sind nur die Fingerabdrücke, das Lichtbild und die Irisbilder. Die Polizeivollzugsbehörden, die Zollverwaltung und die Meldebehörden sind befugt, Maßnahmen nach Satz 1 zu treffen, soweit sie die Echtheit des Dokumentes oder die Identität des Inhabers überprüfen dürfen. Die nach den Sätzen 1 und 3 erhobenen Daten sind unverzüglich nach Beendigung der Prüfung der Echtheit des Dokumentes oder der Identität des Inhabers zu löschen.
 
-
-## § 9 – Strafvorschriften
+# § 9 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer unrichtige oder unvollständige Angaben macht oder benutzt, um für sich oder einen anderen eine Aufenthaltskarte, eine Daueraufenthaltskarte, eine Bescheinigung über das Daueraufenthaltsrecht, ein Aufenthaltsdokument-GB oder ein Aufenthaltsdokument für Grenzgänger-GB zu beschaffen oder eine so beschaffte Urkunde wissentlich zur Täuschung im Rechtsverkehr gebraucht.
 
@@ -290,8 +275,7 @@ b) einem zuständigen Beamten auf Verlangen zur Prüfung vorzulegen,
 
 (3) Gegenstände, auf die sich eine Straftat nach Absatz 1 bezieht, können eingezogen werden.
 
-
-## § 10 – Bußgeldvorschriften
+# § 10 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -307,8 +291,7 @@ b) einem zuständigen Beamten auf Verlangen zur Prüfung vorzulegen,
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 3 die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde.
 
-
-## § 11 – Anwendung des allgemeinen Aufenthaltsrechts; Ausnahmen von der Anwendung dieses Gesetzes
+# § 11 – Anwendung des allgemeinen Aufenthaltsrechts; Ausnahmen von der Anwendung dieses Gesetzes
 
 (1) Auf die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1 durch dieses Gesetz geregelt ist, finden § 3 Absatz 2, § 11 Absatz 8, die §§ 13, 14 Absatz 2, § 44 Absatz 4, die §§ 45a, 46 Absatz 2, § 50 Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 73, 74 Absatz 2, § 77 Absatz 1, die §§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95 Absatz 1 Nummer 4 und 8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97, 98 Absatz 2 Nummer 2, Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99 des Aufenthaltsgesetzes entsprechende Anwendung.
 
@@ -354,38 +337,31 @@ sind die §§ 6 und 7 nicht anzuwenden. Insoweit findet das Aufenthaltsgesetz en
 
 (15) Zeiten des rechtmäßigen Aufenthalts nach diesem Gesetz unter fünf Jahren entsprechen den Zeiten des Besitzes einer Aufenthaltserlaubnis. Zeiten des rechtmäßigen Aufenthalts nach diesem Gesetz über fünf Jahren entsprechen dem Besitz einer Niederlassungserlaubnis.
 
-
-## § 11a – Verordnungsermächtigung
+# § 11a – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Ausstellung von Aufenthaltskarten nach § 5 Absatz 1 Satz 1 und Absatz 7 Satz 1, Daueraufenthaltskarten nach § 5 Absatz 5 Satz 2, Aufenthaltsdokumenten-GB nach § 16 Absatz 2 Satz 1 und Aufenthaltsdokumenten für Grenzgänger-GB nach § 16 Absatz 3 entsprechend § 99 Absatz 1 Nummer 13a Satz 1 des Aufenthaltsgesetzes sowie Einzelheiten des Prüfverfahrens entsprechend § 34 Nummer 4 des Personalausweisgesetzes und Einzelheiten zum elektronischen Identitätsnachweis entsprechend § 34 Nummer 5 bis 7 des Personalausweisgesetzes festzulegen.
 
-
-## § 12 – Staatsangehörige der EWR-Staaten
+# § 12 – Staatsangehörige der EWR-Staaten
 
 Die nach diesem Gesetz für Unionsbürger, Familienangehörige von Unionsbürgern und nahestehende Personen von Unionsbürgern geltenden Regelungen finden jeweils auch für Staatsangehörige der EWR-Staaten, die nicht Unionsbürger sind, und für ihre Familienangehörigen und ihre nahestehenden Personen Anwendung.
 
-
-## § 12a – Unionsrechtliches Aufenthaltsrecht
+# § 12a – Unionsrechtliches Aufenthaltsrecht
 
 Auf Familienangehörige und nahestehende Personen von Deutschen, die von ihrem Recht auf Freizügigkeit nach Artikel 21 des Vertrages über die Arbeitsweise der Europäischen Union nachhaltig Gebrauch gemacht haben, finden die nach diesem Gesetz für Familienangehörige und für nahestehende Personen von Unionsbürgern geltenden Regelungen entsprechende Anwendung.
 
-
-## § 13 – Staatsangehörige der Beitrittsstaaten
+# § 13 – Staatsangehörige der Beitrittsstaaten
 
 Soweit nach Maßgabe des Beitrittsvertrages eines Mitgliedstaates zur Europäischen Union abweichende Regelungen anzuwenden sind, findet dieses Gesetz Anwendung, wenn die Beschäftigung durch die Bundesagentur für Arbeit nach § 284 Absatz 1 des Dritten Buches Sozialgesetzbuch genehmigt wurde.
 
-
-## § 14 – Bestimmungen zum Verwaltungsverfahren
+# § 14 – Bestimmungen zum Verwaltungsverfahren
 
 Von den in § 11 Abs. 1 in Verbindung mit § 87 Absatz 1, 2 Satz 1 und 2, Abs. 4 Satz 1, 2 und 4, §§ 90, 91 Abs. 1 und 2, § 99 Abs. 1 und 2 des Aufenthaltsgesetzes getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden. Dies gilt nicht im Hinblick auf Verfahren im Zusammenhang mit Aufenthaltsrechten nach § 3a und mit den in den §§ 12a und 16 geregelten Aufenthaltsrechten.
 
-
-## § 15 – Übergangsregelung
+# § 15 – Übergangsregelung
 
 Eine vor dem 28. August 2007 ausgestellte Aufenthaltserlaubnis-EU gilt als Aufenthaltskarte für Familienangehörige eines Unionsbürgers fort.
 
-
-## § 16 – Rechtsstellung britischer Staatsangehöriger und ihrer Familienangehörigen
+# § 16 – Rechtsstellung britischer Staatsangehöriger und ihrer Familienangehörigen
 
 (1) Das in Teil Zwei Titel II Kapitel 1 des Austrittsabkommens vorgesehene Recht auf Einreise und Aufenthalt im Bundesgebiet kann ausgeübt werden, ohne dass es hierfür eines Antrages bedarf. Dieses Recht ist ein Aufenthaltsrecht im Sinne des Artikels 18 Absatz 4 des Austrittsabkommens.
 

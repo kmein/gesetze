@@ -1,18 +1,13 @@
-# [KunstUrhG] Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie
-
-Ausfertigungsdatum: 09.01.1907
-
+% Gesetz betreffend das Urheberrecht an Werken der bildenden Künste und der Photographie
+% Ausfertigungsdatum: 09.01.1907
  
+# §§ 1 bis 21 – ----
 
-## §§ 1 bis 21 – ----
-
-
-## § 22
+# § 22
 
 Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentlich zur Schau gestellt werden. Die Einwilligung gilt im Zweifel als erteilt, wenn der Abgebildete dafür, daß er sich abbilden ließ, eine Entlohnung erhielt. Nach dem Tode des Abgebildeten bedarf es bis zum Ablaufe von 10 Jahren der Einwilligung der Angehörigen des Abgebildeten. Angehörige im Sinne dieses Gesetzes sind der überlebende Ehegatte oder Lebenspartner und die Kinder des Abgebildeten und, wenn weder ein Ehegatte oder Lebenspartner noch Kinder vorhanden sind, die Eltern des Abgebildeten.
 
-
-## § 23
+# § 23
 
 (1) Ohne die nach § 22 erforderliche Einwilligung dürfen verbreitet und zur Schau gestellt werden:
 
@@ -26,38 +21,31 @@ Bildnisse dürfen nur mit Einwilligung des Abgebildeten verbreitet oder öffentl
 
 (2) Die Befugnis erstreckt sich jedoch nicht auf eine Verbreitung und Schaustellung, durch die ein berechtigtes Interesse des Abgebildeten oder, falls dieser verstorben ist, seiner Angehörigen verletzt wird.
 
-
-## § 24
+# § 24
 
 Für Zwecke der Rechtspflege und der öffentlichen Sicherheit dürfen von den Behörden Bildnisse ohne Einwilligung des Berechtigten sowie des Abgebildeten oder seiner Angehörigen vervielfältigt, verbreitet und öffentlich zur Schau gestellt werden.
 
+# §§ 25 bis 32 – ----
 
-## §§ 25 bis 32 – ----
-
-
-## § 33
+# § 33
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen den §§ 22, 23 ein Bildnis verbreitet oder öffentlich zur Schau stellt.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
 
-
-## § 34
-
-\-
-
-
-## § 35
+# § 34
 
 \-
 
-
-## § 36
+# § 35
 
 \-
 
+# § 36
 
-## § 37
+\-
+
+# § 37
 
 (1) Die widerrechtlich hergestellten, verbreiteten oder vorgeführten Exemplare und die zur widerrechtlichen Vervielfältigung oder Vorführung ausschließlich bestimmten Vorrichtungen, wie Formen, Platten, Steine, unterliegen der Vernichtung. Das gleiche gilt von den widerrechtlich verbreiteten oder öffentlich zur Schau gestellten Bildnissen und den zu deren Vervielfältigung ausschließlich bestimmten Vorrichtungen. Ist nur ein Teil des Werkes widerrechtlich hergestellt, verbreitet oder vorgeführt, so ist auf Vernichtung dieses Teiles und der entsprechenden Vorrichtungen zu erkennen.
 
@@ -71,33 +59,27 @@ Für Zwecke der Rechtspflege und der öffentlichen Sicherheit dürfen von den Be
 
 § 37 Abs. 1 bis 3 Kursivdruck u. Abs. 5: Vgl. Fußnote zur Überschrift
 
-
-## § 38
+# § 38
 
 Der Verletzte kann statt der Vernichtung verlangen, daß ihm das Recht zuerkannt wird, die Exemplare und Vorrichtungen ganz oder teilweise gegen eine angemessene, höchstens dem Betrage der Herstellungskosten gleichkommende Vergütung zu übernehmen.
 
-
-## § 39
-
-\-
-
-
-## § 40
+# § 39
 
 \-
 
-
-## § 41
+# § 40
 
 \-
 
+# § 41
 
-## § 42
+\-
+
+# § 42
 
 Die Vernichtung der Exemplare und der Vorrichtungen kann im Wege des bürgerlichen Rechtsstreits oder im Strafverfahren verfolgt werden.
 
-
-## § 43
+# § 43
 
 (1) Auf die Vernichtung von Exemplaren oder Vorrichtungen kann auch im Strafverfahren nur auf besonderen Antrag des Verletzten erkannt werden. Die Zurücknahme des Antrags ist bis zur erfolgten Vernichtung zulässig.
 
@@ -105,28 +87,23 @@ Die Vernichtung der Exemplare und der Vorrichtungen kann im Wege des bürgerlich
 
 § 43 Abs. 2 Kursivdruck: Vgl. jetzt §§ 430 bis 432 StPO 312-2
 
-
-## § 44
+# § 44
 
 Die §§ 42, 43 finden auf die Verfolgung des in § 38 bezeichneten Rechtes entsprechende Anwendung.
 
-
-## § 45
-
-\-
-
-
-## § 46
+# § 45
 
 \-
 
-
-## § 47
+# § 46
 
 \-
 
+# § 47
 
-## § 48
+\-
+
+# § 48
 
 (1) Der Anspruch auf Schadensersatz und die Strafverfolgung wegen widerrechtlicher Verbreitung oder Vorführung eines Werkes sowie die Strafverfolgung wegen widerrechtlicher Verbreitung oder Schaustellung eines Bildnisses verjähren in drei Jahren.
 
@@ -134,38 +111,31 @@ Die §§ 42, 43 finden auf die Verfolgung des in § 38 bezeichneten Rechtes ents
 
 § 48 Abs. 1 Kursivdruck: Vgl. Fußnote zur Überschrift
 
-
-## § 49
+# § 49
 
 \-
 
-
-## § 50
+# § 50
 
 Der Antrag auf Vernichtung der Exemplare und der Vorrichtungen ist so lange zulässig, als solche Exemplare oder Vorrichtungen vorhanden sind.
 
-
-## § 51
-
-\-
-
-
-## § 52
+# § 51
 
 \-
 
-
-## § 53
-
-\-
-
-
-## § 54
+# § 52
 
 \-
 
+# § 53
 
-## § 55
+\-
+
+# § 54
+
+\-
+
+# § 55
 
 (1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.
 

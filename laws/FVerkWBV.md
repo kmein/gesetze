@@ -1,15 +1,11 @@
-# [FVerkWBV] Fernverkehrswegebestimmungsverordnung
-
-Ausfertigungsdatum: 03.06.1992
-
+% Fernverkehrswegebestimmungsverordnung
+% Ausfertigungsdatum: 03.06.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 2 des Verkehrswegeplanungsbeschleunigungsgesetzes vom 16. Dezember 1991 (BGBl. I S. 2174) verordnet der Bundesminister für Verkehr:
 
-
-## § 1 – Verkehrswege der Eisenbahnen des Bundes
+# § 1 – Verkehrswege der Eisenbahnen des Bundes
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden Verkehrswege der Eisenbahnen des Bundes:
 
@@ -37,8 +33,7 @@ Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleu
 
 12. Dresden-Chemnitz-Plauen-Hof-Nürnberg zwischen der Landesgrenze Sachsen und Nürnberg.
 
-
-## § 2 – Bundesfernstraßen
+# § 2 – Bundesfernstraßen
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden Bundesfernstraßen:
 
@@ -116,8 +111,7 @@ Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleu
 
 37. B 173 zwischen der Landesgrenze Sachsen und der A 9 bei Hof.
 
-
-## § 3 – Bundeswasserstraßen
+# § 3 – Bundeswasserstraßen
 
 Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleunigungsgesetzes sind die folgenden Bundeswasserstraßen:
 
@@ -125,12 +119,10 @@ Fernverkehrswege im Sinne des § 1 Abs. 1 Nr. 5 des Verkehrswegeplanungsbeschleu
 
 2. Mittellandkanal zwischen der Landesgrenze Sachsen-Anhalt und dem Wasserstraßenkreuz Minden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,17 +1,11 @@
-# [ITSManKflAusbV] Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management   (IT-System-Management-Kaufleute-Ausbildungsverordnung - ITSManKflAusbV)
-
-Ausfertigungsdatum: 28.02.2020
-
+% Verordnung über die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management   (IT-System-Management-Kaufleute-Ausbildungsverordnung - ITSManKflAusbV)
+% Ausfertigungsdatum: 28.02.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -29,25 +23,23 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Kaufmanns für IT-System-Management und der Kauffrau für IT-System-Management wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -121,20 +113,17 @@ Der Ausbildungsbetrieb legt fest, in welchem Einsatzgebiet die Vermittlung erfol
 
 3. in der Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement nach der Digitalisierungsmanagement-Kaufleute-Ausbildungsverordnung vom 28. Februar 2020 (BGBl. I S. 290).
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Aufteilung in zwei Teile und Zeitpunkt
+# § 6 – Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
 
 (2) Teil 1 findet im vierten Ausbildungshalbjahr statt, Teil 2 am Ende der Berufsausbildung. Den jeweiligen Zeitpunkt legt die zuständige Stelle fest.
 
-
-## § 7 – Inhalt von Teil 1
+# § 7 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -142,8 +131,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich von Teil 1
+# § 8 – Prüfungsbereich von Teil 1
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Einrichten eines IT-gestützten Arbeitsplatzes statt.
 
@@ -163,8 +151,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 9 – Inhalt von Teil 2
+# § 9 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -174,8 +161,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 10 – Prüfungsbereiche von Teil 2
+# § 10 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -187,8 +173,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 11 – Prüfungsbereich Abwicklung eines Kundenauftrages
+# § 11 – Prüfungsbereich Abwicklung eines Kundenauftrages
 
 (1) Im Prüfungsbereich Abwicklung eines Kundenauftrages besteht die Prüfung aus zwei Teilen.
 
@@ -224,8 +209,7 @@ Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Prä
 
 2. die Bewertung für den zweiten Teil mit 50 Prozent.
 
-
-## § 12 – Prüfungsbereich Einführen einer IT-Systemlösung
+# § 12 – Prüfungsbereich Einführen einer IT-Systemlösung
 
 (1) Im Prüfungsbereich Einführen einer IT-Systemlösung hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -247,8 +231,7 @@ Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Prä
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 13 – Prüfungsbereich Kaufmännische Unterstützungsprozesse
+# § 13 – Prüfungsbereich Kaufmännische Unterstützungsprozesse
 
 (1) Im Prüfungsbereich Kaufmännische Unterstützungsprozesse hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -264,8 +247,7 @@ Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Prä
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -273,8 +255,7 @@ Der Prüfling hat die betriebliche Projektarbeit zu präsentieren. Nach der Prä
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -306,8 +287,7 @@ prozesse mit</td><td style="text-align: right;">10 Prozent sowie</td></tr></tbod
 
 4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-
-## § 16 – Mündliche Ergänzungsprüfung
+# § 16 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -331,18 +311,15 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 17 – Bestehende Berufsausbildungsverhältnisse
+# § 17 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2020 in Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für IT-System-Management und zur Kauffrau für IT-System-Management
 
 (Fundstelle: BGBl. I 2020, 284 - 289)
 

@@ -1,10 +1,7 @@
-# [GOÄ] Gebührenordnung für Ärzte  (GOÄ)
-
-Ausfertigungsdatum: 12.11.1982
-
+% Gebührenordnung für Ärzte  (GOÄ)
+% Ausfertigungsdatum: 12.11.1982
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 § 1
 
@@ -76,15 +73,13 @@ Inkrafttreten und Übergangsvorschrift
 
 Gebührenverzeichnis für ärztliche Leistungen (Anlage)\*)
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vergütungen für die beruflichen Leistungen der Ärzte bestimmen sich nach dieser Verordnung, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist.
 
 (2) Vergütungen darf der Arzt nur für Leistungen berechnen, die nach den Regeln der ärztlichen Kunst für eine medizinisch notwendige ärztliche Versorgung erforderlich sind. Leistungen, die über das Maß einer medizinisch notwendigen ärztlichen Versorgung hinausgehen, darf er nur berechnen, wenn sie auf Verlangen des Zahlungspflichtigen erbracht worden sind.
 
-
-## § 2 – Abweichende Vereinbarung
+# § 2 – Abweichende Vereinbarung
 
 (1) Durch Vereinbarung kann eine von dieser Verordnung abweichende Gebührenhöhe festgelegt werden. Für Leistungen nach § 5a ist eine Vereinbarung nach Satz 1 ausgeschlossen. Die Vereinbarung einer abweichenden Punktzahl (§ 5 Abs. 1 Satz 2) oder eines abweichenden Punktwerts (§ 5 Abs. 1 Satz 3) ist nicht zulässig. Notfall- und akute Schmerzbehandlungen dürfen nicht von einer Vereinbarung nach Satz 1 abhängig gemacht werden.
 
@@ -92,13 +87,11 @@ Gebührenverzeichnis für ärztliche Leistungen (Anlage)\*)
 
 (3) Für Leistungen nach den Abschnitten A, E, M und O ist eine Vereinbarung nach Absatz 1 Satz 1 unzulässig. Im übrigen ist bei vollstationären, teilstationären sowie vor- und nachstationären wahlärztlichen Leistungen eine Vereinbarung nach Absatz 1 Satz 1 nur für vom Wahlarzt höchstpersönlich erbrachte Leistungen zulässig.
 
-
-## § 3 – Vergütungen
+# § 3 – Vergütungen
 
 Als Vergütungen stehen dem Arzt Gebühren, Entschädigungen und Ersatz von Auslagen zu.
 
-
-## § 4 – Gebühren
+# § 4 – Gebühren
 
 (1) Gebühren sind Vergütungen für die im Gebührenverzeichnis (Anlage) genannten ärztlichen Leistungen.
 
@@ -120,8 +113,7 @@ wenn diese nicht durch den Wahlarzt oder dessen vor Abschluß des Wahlarztvertra
 
 (5) Sollen Leistungen durch Dritte erbracht werden, die diese dem Zahlungspflichtigen unmittelbar berechnen, so hat der Arzt ihn darüber zu unterrichten.
 
-
-## § 5 – Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
+# § 5 – Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses
 
 (1) Die Höhe der einzelnen Gebühr bemißt sich, soweit in den Absätzen 3 bis 5 nichts anderes bestimmt ist, nach dem Einfachen bis Dreieinhalbfachen des Gebührensatzes. Gebührensatz ist der Betrag, der sich ergibt, wenn die Punktzahl der einzelnen Leistung des Gebührenverzeichnisses mit dem Punktwert vervielfacht wird. Der Punktwert beträgt 5,82873 Cent. Bei der Bemessung von Gebühren sind sich ergebende Bruchteile eines Pfennigs unter 0,5 abzurunden und Bruchteile von 0,5 und mehr aufzurunden.
 
@@ -133,37 +125,31 @@ wenn diese nicht durch den Wahlarzt oder dessen vor Abschluß des Wahlarztvertra
 
 (5) Bei wahlärztlichen Leistungen, die weder von dem Wahlarzt noch von dessen vor Abschluß des Wahlarztvertrages dem Patienten benannten ständigen ärztlichen Vertreter persönlich erbracht werden, tritt an die Stelle des Dreieinhalbfachen des Gebührensatzes nach § 5 Abs. 1 Satz 1 das 2,3fache des Gebührensatzes und an die Stelle des Zweieinhalbfachen des Gebührensatzes nach § 5 Abs. 3 Satz 1 das 1,8fache des Gebührensatzes.
 
-
-## § 5a – Bemessung der Gebühren in besonderen Fällen
+# § 5a – Bemessung der Gebühren in besonderen Fällen
 
 Im Falle eines unter den Voraussetzungen des § 218a Abs. 1 des Strafgesetzbuches vorgenommenen Abbruchs einer Schwangerschaft dürfen Gebühren für die in § 24b Abs. 4 des Fünften Buches Sozialgesetzbuch genannten Leistungen nur bis zum 1,8fachen des Gebührensatzes nach § 5 Abs. 1 Satz 2 berechnet werden.
 
-
-## § 5b – Bemessung der Gebühren bei Versicherten des Standardtarifes der privaten Krankenversicherung
+# § 5b – Bemessung der Gebühren bei Versicherten des Standardtarifes der privaten Krankenversicherung
 
 Für Leistungen, die in einem brancheneinheitlichen Standardtarif nach § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch versichert sind, dürfen Gebühren nur bis zum 1,7fachen des Gebührensatzes nach § 5 Abs. 1 Satz 2 berechnet werden. Bei Gebühren für die in den Abschnitten A, E und O des Gebührenverzeichnisses genannten Leistungen gilt Satz 1 mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes das 1,3fache des Gebührensatzes tritt. Bei Gebühren für die in Abschnitt M des Gebührenverzeichnisses genannten Leistungen gilt Satz 1 mit der Maßgabe, dass an die Stelle des 1,7fachen des Gebührensatzes das 1,1fache des Gebührensatzes tritt.
 
-
-## § 6 – Gebühren für andere Leistungen
+# § 6 – Gebühren für andere Leistungen
 
 (1) Erbringen Mund-Kiefer-Gesichtschirurgen, Hals-Nasen-Ohrenärzte oder Chirurgen Leistungen, die im Gebührenverzeichnis für zahnärztliche Leistungen - Anlage zur Gebührenordnung für Zahnärzte vom 22. Oktober 1987 (BGBl. I S. 2316) - aufgeführt sind, sind die Vergütungen für diese Leistungen nach den Vorschriften der Gebührenordnung für Zahnärzte in der jeweils geltenden Fassung zu berechnen.
 
 (2) Selbständige ärztliche Leistungen, die in das Gebührenverzeichnis nicht aufgenommen sind, können entsprechend einer nach Art, Kosten- und Zeitaufwand gleichwertigen Leistung des Gebührenverzeichnisses berechnet werden.
 
-
-## § 6a – Gebühren bei stationärer Behandlung
+# § 6a – Gebühren bei stationärer Behandlung
 
 (1) Bei vollstationären, teilstationären sowie vor- und nachstationären privatärztlichen Leistungen sind die nach dieser Verordnung berechneten Gebühren einschließlich der darauf entfallenden Zuschläge um 25 von Hundert zu mindern. Abweichend davon beträgt die Minderung für Leistungen und Zuschläge nach Satz 1 von Belegärzten oder niedergelassenen anderen Ärzten 15 vom Hundert. Ausgenommen von der Minderungspflicht ist der Zuschlag nach Buchstabe J in Abschnitt B V des Gebührenverzeichnisses.
 
 (2) Neben den nach Absatz 1 geminderten Gebühren darf der Arzt Kosten nicht berechnen; die §§ 7 bis 10 bleiben unberührt.
 
-
-## § 7 – Entschädigungen
+# § 7 – Entschädigungen
 
 Als Entschädigungen für Besuche erhält der Arzt Wegegeld und Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den Besuch bedingten Mehrkosten abgegolten.
 
-
-## § 8 – Wegegeld
+# § 8 – Wegegeld
 
 (1) Der Arzt kann für jeden Besuch ein Wegegeld berechnen. Das Wegegeld beträgt für einen Besuch innerhalb eines Radius um die Praxisstelle des Arztes von 1.
 
@@ -180,8 +166,7 @@ bis zu zwei Kilometern 7,- Deutsche Mark, bei Nacht (zwischen 20 und 8 Uhr) 14,-
 
 (3) Werden mehrere Patienten in derselben häuslichen Gemeinschaft oder in einem Heim, insbesondere in einem Alten- oder Pflegeheim besucht, darf der Arzt das Wegegeld unabhängig von der Anzahl der besuchten Patienten und deren Versichertenstatus insgesamt nur einmal und nur anteilig berechnen.
 
-
-## § 9 – Reiseentschädigung
+# § 9 – Reiseentschädigung
 
 (1) Bei Besuchen über eine Entfernung von mehr als 25 Kilometern zwischen Praxisstelle des Arztes und Besuchsstelle tritt an die Stelle des Wegegeldes eine Reiseentschädigung.
 
@@ -195,8 +180,7 @@ bis zu zwei Kilometern 7,- Deutsche Mark, bei Nacht (zwischen 20 und 8 Uhr) 14,-
 
 (3) § 8 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 10 – Ersatz von Auslagen
+# § 10 – Ersatz von Auslagen
 
 (1) Neben den für die einzelnen ärztlichen Leistungen vorgesehenen Gebühren können als Auslagen nur berechnet werden
 
@@ -224,15 +208,13 @@ Die Berechnung von Pauschalen ist nicht zulässig.
 
 (3) Versand- und Portokosten können nur von dem Arzt berechnet werden, dem die gesamten Kosten für Versandmaterial, Versandgefäße sowie für den Versand oder Transport entstanden sind. Kosten für Versandmaterial, für den Versand des Untersuchungsmaterials und die Übermittlung des Untersuchungsergebnisses innerhalb einer Laborgemeinschaft oder innerhalb eines Krankenhausgeländes sind nicht berechnungsfähig; dies gilt auch, wenn Material oder ein Teil davon unter Nutzung der Transportmittel oder des Versandweges oder der Versandgefäße einer Laborgemeinschaft zur Untersuchung einem zur Erbringung von Leistungen beauftragten Arzt zugeleitet wird. Werden aus demselben Körpermaterial sowohl in einer Laborgemeinschaft als auch von einem Laborarzt Leistungen aus Abschnitte M oder N ausgeführt, so kann der Laborarzt bei Benutzung desselben Transportweges Versandkosten nicht berechnen; dies gilt auch dann, wenn ein Arzt eines anderen Gebiets Auftragsleistungen aus Abschnitt M oder N erbringt. Für die Versendung der Arztrechnung dürfen Versand- und Portokosten nicht berechnet werden.
 
-
-## § 11 – Zahlung durch öffentliche Leistungsträger
+# § 11 – Zahlung durch öffentliche Leistungsträger
 
 (1) Wenn ein Leistungsträger im Sinne des § 12 des Ersten Buches Sozialgesetzbuch oder ein sonstiger öffentlich-rechtlicher Kostenträger die Zahlung leistet, sind die ärztlichen Leistungen nach den Gebührensätzen des Gebührenverzeichnisses (§ 5 Abs. 1 Satz 2) zu berechnen.
 
 (2) Absatz 1 findet nur Anwendung, wenn dem Arzt vor der Inanspruchnahme eine von dem die Zahlung Leistenden ausgestellte Bescheinigung vorgelegt wird. In dringenden Fällen kann die Bescheinigung auch nachgereicht werden.
 
-
-## § 12 – Fälligkeit und Abrechnung der Vergütung, Rechnung
+# § 12 – Fälligkeit und Abrechnung der Vergütung, Rechnung
 
 (1) Die Vergütung wird fällig, wenn dem Zahlungspflichtigen eine dieser Verordnung entsprechende Rechnung erteilt worden ist.
 
@@ -254,18 +236,15 @@ Die Berechnung von Pauschalen ist nicht zulässig.
 
 (5) Durch Vereinbarung mit den in § 11 Abs. 1 genannten Leistungs- und Kostenträgern kann eine von den Vorschriften der Absätze 1 bis 4 abweichende Regelung getroffen werden.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14
+# § 14
 
 (Inkrafttreten und Übergangsvorschrift)
 
-
-## Anlage – Gebührenverzeichnis für ärztliche Leistungen
+# Anlage – Gebührenverzeichnis für ärztliche Leistungen
 
 (Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 3 - 157)
 
@@ -963,9 +942,7 @@ I. Allgemeine Beratungen und Untersuchungen
 II. Zuschläge zu Beratungen und Untersuchungen nach Nummer 1, 3, 4, 5, 6, 7 oder 8
 
 Allgemeine Bestimmungen  
-Die Zuschläge nach den Buchstaben A bis D sowie K 1 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Sie dürfen unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben A bis D sowie K 1 dürfen die Zuschläge nach den Buchstaben E bis J sowie K 2 nicht berechnet werden. Die Zuschläge nach den Buchstaben B bis D dürfen von Krankenhausärzten nicht berechnet werden, es sei denn, die Leistungen werden durch den liquidationsberechtigten Arzt oder seinen Vertreter nach § 4 Abs. 2 Satz 3 erbracht.  
-Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen.  
-
+Die Zuschläge nach den Buchstaben A bis D sowie K 1 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Sie dürfen unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben A bis D sowie K 1 dürfen die Zuschläge nach den Buchstaben E bis J sowie K 2 nicht berechnet werden. Die Zuschläge nach den Buchstaben B bis D dürfen von Krankenhausärzten nicht berechnet werden, es sei denn, die Leistungen werden durch den liquidationsberechtigten Arzt oder seinen Vertreter nach § 4 Abs. 2 Satz 3 erbracht. Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen. 
 |     |                                                                                                                                                                                      |     |       |
 |:----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----:|------:|
 | A   | Zuschlag für außerhalb der Sprechstunde erbrachte Leistungen                                                                                                                         |  70 |  7,98 |
@@ -1774,9 +1751,7 @@ Zuschläge zu den Leistungen nach den Nummern 45 bis 62, 100 und 101
  
 
 Allgemeine Bestimmungen  
-Die Zuschläge nach den Buchstaben E bis J sowie K 2 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Abweichend hiervon sind die Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer 51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Im Zusammenhang mit Leistungen nach den Nummern 100 oder 101 dürfen die Zuschläge nach den Buchstaben F bis H unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D sowie K 1 nicht berechnet werden.  
-Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen.  
-
+Die Zuschläge nach den Buchstaben E bis J sowie K 2 sind nur mit dem einfachen Gebührensatz berechnungsfähig. Abweichend hiervon sind die Zuschläge nach den Buchstaben E bis H neben der Leistung nach Nummer 51 nur mit dem halben Gebührensatz berechnungsfähig. Im Zusammenhang mit Leistungen nach den Nummern 45 bis 55 und 60 dürfen die Zuschläge unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Im Zusammenhang mit Leistungen nach den Nummern 100 oder 101 dürfen die Zuschläge nach den Buchstaben F bis H unabhängig von der Anzahl und Kombination der erbrachten Leistungen je Inanspruchnahme des Arztes nur einmal berechnet werden. Neben den Zuschlägen nach den Buchstaben E bis J sowie K 2 dürfen die Zuschläge nach den Buchstaben A bis D sowie K 1 nicht berechnet werden. Die Zuschläge sind in der Rechnung unmittelbar im Anschluß an die zugrundeliegende Leistung aufzuführen. 
 |     |                                                                                                                                                                                                                                                                                            |     |       |
 |:----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----:|------:|
 | E   | Zuschlag für dringend angeforderte und unverzüglich erfolgte Ausführung                                                                                                                                                                                                                    | 160 | 18,24 |
@@ -1987,8 +1962,7 @@ Anlegen von Verbänden
 
   
 Allgemeine Bestimmungen  
-Wundverbände nach Nummer 200, die im Zusammenhang mit einer operativen Leistung (auch Ätzung, Fremdkörperentfernung), Punktion, Infusion, Transfusion oder Injektion durchgeführt werden, sind Bestandteil dieser Leistung.  
-
+Wundverbände nach Nummer 200, die im Zusammenhang mit einer operativen Leistung (auch Ätzung, Fremdkörperentfernung), Punktion, Infusion, Transfusion oder Injektion durchgeführt werden, sind Bestandteil dieser Leistung. 
 |     |                                                                                                                                                                                                                                                             |     |        |
 |:----|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----:|-------:|
 | 200 | Verband - ausgenommen Schnell- und Sprühverbände, Augen-, Ohrenklappen oder Dreiecktücher -                                                                                                                                                                 |  45 |   5,13 |
@@ -2025,11 +1999,7 @@ Wundverbände nach Nummer 200, die im Zusammenhang mit einer operativen Leistung
 II. Blutentnahmen, Injektionen, Infiltrationen, Infusionen, Transfusionen, Implantation, Abstrichentnahmen
 
 Allgemeine Bestimmungen  
-Die Leistungen nach den Nummern 252 bis 258 und 261 sind nicht mehrfach berechnungsfähig, wenn anstelle einer Mischung mehrere Arzneimittel bei liegender Kanüle im zeitlichen Zusammenhang nacheinander verabreicht werden.  
-Die Leistungen nach den Nummern 270, 273 bis 281, 283, 286 sowie 287 können jeweils nur einmal je Behandlungstag berechnet werden. Die Leistungen nach Nummer 271 oder 272 sind je Gefäßzugang einmal, insgesamt jedoch nicht mehr als zweimal je Behandlungstag berechnungsfähig. Die zweimalige Berechnung der Leistungen nach den Nummern 271 oder 272 setzt gesonderte Punktionen verschiedener Blutgefäße voraus.  
-Gegebenenfalls erforderliche Gefäßpunktionen sind Bestandteil der Leistungen nach den Nummern 270 bis 287 und mit den Gebühren abgegolten.  
-Die Leistungen nach den Nummern 271 bis 276 sind nicht nebeneinander berechnungsfähig.  
-
+Die Leistungen nach den Nummern 252 bis 258 und 261 sind nicht mehrfach berechnungsfähig, wenn anstelle einer Mischung mehrere Arzneimittel bei liegender Kanüle im zeitlichen Zusammenhang nacheinander verabreicht werden. Die Leistungen nach den Nummern 270, 273 bis 281, 283, 286 sowie 287 können jeweils nur einmal je Behandlungstag berechnet werden. Die Leistungen nach Nummer 271 oder 272 sind je Gefäßzugang einmal, insgesamt jedoch nicht mehr als zweimal je Behandlungstag berechnungsfähig. Die zweimalige Berechnung der Leistungen nach den Nummern 271 oder 272 setzt gesonderte Punktionen verschiedener Blutgefäße voraus. Gegebenenfalls erforderliche Gefäßpunktionen sind Bestandteil der Leistungen nach den Nummern 270 bis 287 und mit den Gebühren abgegolten. Die Leistungen nach den Nummern 271 bis 276 sind nicht nebeneinander berechnungsfähig. 
 250
 
 Blutentnahme mittels Spritze, Kanüle oder Katheter aus der Vene
@@ -2517,8 +2487,7 @@ III\. Punktionen
  
 
 Allgemeine Bestimmungen  
-Zum Inhalt der Leistungen für Punktionen gehören die damit im Zusammenhang stehenden Injektionen, Instillationen, Spülungen sowie Entnahmen z.B. von Blut, Liquor, Gewebe.  
-
+Zum Inhalt der Leistungen für Punktionen gehören die damit im Zusammenhang stehenden Injektionen, Instillationen, Spülungen sowie Entnahmen z.B. von Blut, Liquor, Gewebe. 
  
 
 300
@@ -2729,8 +2698,7 @@ Kontrastmitteleinbringungen
 
   
 Allgemeine Bestimmungen  
-Die zur Einbringung des Kontrastmittels erforderlichen Maßnahmen wie Sondierungen, Injektionen, Punktionen, Gefäßkatheterismus oder Probeinjektionen und gegebenenfalls anschließende Wundnähte und Entfernung(en) des Kontrastmittels sind Bestandteile der Leistungen und nicht gesondert berechnungsfähig. Dies gilt auch für gegebenenfalls notwendige Durchleuchtungen zur Kontrolle der Lage eines Katheters oder einer Punktionsnadel.  
-
+Die zur Einbringung des Kontrastmittels erforderlichen Maßnahmen wie Sondierungen, Injektionen, Punktionen, Gefäßkatheterismus oder Probeinjektionen und gegebenenfalls anschließende Wundnähte und Entfernung(en) des Kontrastmittels sind Bestandteile der Leistungen und nicht gesondert berechnungsfähig. Dies gilt auch für gegebenenfalls notwendige Durchleuchtungen zur Kontrolle der Lage eines Katheters oder einer Punktionsnadel. 
  
 
 340
@@ -3901,8 +3869,7 @@ Der Zuschlag nach Nummer 449 ist neben den Leistungen nach den Nummern 1 bis 8 u
  
 
 D. Anästhesieleistungen  
-Allgemeine Bestimmungen Bei der Anwendung mehrerer Narkose- oder Anästhesieverfahren nebeneinander ist nur die jeweils höchstbewertete dieser Leistungen berechnungsfähig; eine erforderliche Prämedikation ist Bestandteil dieser Leistung. Als Narkosedauer gilt die Dauer von zehn Minuten vor Operationsbeginn bis zehn Minuten nach Operationsende.  
-
+Allgemeine Bestimmungen Bei der Anwendung mehrerer Narkose- oder Anästhesieverfahren nebeneinander ist nur die jeweils höchstbewertete dieser Leistungen berechnungsfähig; eine erforderliche Prämedikation ist Bestandteil dieser Leistung. Als Narkosedauer gilt die Dauer von zehn Minuten vor Operationsbeginn bis zehn Minuten nach Operationsende. 
  
 
 450
@@ -4243,8 +4210,7 @@ Physikalisch-medizinische Leistungen
 
   
 Allgemeine Bestimmungen  
-In den Leistungen des Abschnitts E sind alle Kosten enthalten mit Ausnahme der für Inhalationen sowie für die Photochemotherapie erforderlichen Arzneimittel.  
-I. Inhalationen  
+In den Leistungen des Abschnitts E sind alle Kosten enthalten mit Ausnahme der für Inhalationen sowie für die Photochemotherapie erforderlichen Arzneimittel. I. Inhalationen  
 
  
 
@@ -5769,8 +5735,7 @@ H. Geburtshilfe und Gynäkologie
 
   
 Allgemeine Bestimmungen  
-Werden mehrere Eingriffe in der Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung der Bauchhöhle enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 3135 zu kürzen.  
-
+Werden mehrere Eingriffe in der Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung der Bauchhöhle enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 3135 zu kürzen. 
 1001
 
 Tokographische Untersuchung
@@ -8252,8 +8217,7 @@ Urologie
 
   
 Allgemeine Bestimmungen  
-Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.  
-
+Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen. 
 1700
 
 Spülung der männlichen Harnröhre und/oder Instillation von Arzneimitteln
@@ -9417,9 +9381,7 @@ Gebühr in DM
 L. Chirurgie, Orthopädie
 
 Allgemeine Bestimmungen  
-Zur Erbringung der in Abschnitt L aufgeführten typischen operativen Leistungen sind in der Regel mehrere operative Einzelschritte erforderlich. Sind diese Einzelschritte methodisch notwendige Bestandteile der in der jeweiligen Leistungsbeschreibung genannten Zielleistung, so können sie nicht gesondert berechnet werden.  
-Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen.  
-
+Zur Erbringung der in Abschnitt L aufgeführten typischen operativen Leistungen sind in der Regel mehrere operative Einzelschritte erforderlich. Sind diese Einzelschritte methodisch notwendige Bestandteile der in der jeweiligen Leistungsbeschreibung genannten Zielleistung, so können sie nicht gesondert berechnet werden. Werden mehrere Eingriffe in der Brust- oder Bauchhöhle in zeitlichem Zusammenhang durchgeführt, die jeweils in der Leistung die Eröffnung dieser Körperhöhlen enthalten, so darf diese nur einmal berechnet werden; die Vergütungssätze der weiteren Eingriffe sind deshalb um den Vergütungssatz nach Nummer 2990 oder Nummer 3135 zu kürzen. 
 I.
 
 Wundversorgung, Fremdkörperentfernung
@@ -10051,10 +10013,7 @@ Gelenkchirurgie
  
 
 Allgemeine Bestimmungen  
-Werden Leistungen nach den Nummern 2102, 2104, 2112, 2113, 2117, 2119, 2136, 2189, 2190, 2191 und/oder 2193 an demselben Gelenk im Rahmen derselben Sitzung erbracht, so sind diese Leistungen nicht mehrfach und nicht nebeneinander berechnungsfähig.  
-Neben den Leistungen nach den Nummern 2189 bis 2196 sind die Leistungen nach den Nummern 300 bis 302 sowie 3300 nicht berechnungsfähig.  
-Die Leistungen nach den Nummern 2192, 2195 und/oder 2196 sind für operative Eingriffe an demselben Gelenk im Rahmen derselben Sitzung jeweils nur einmal berechnungsfähig.  
-
+Werden Leistungen nach den Nummern 2102, 2104, 2112, 2113, 2117, 2119, 2136, 2189, 2190, 2191 und/oder 2193 an demselben Gelenk im Rahmen derselben Sitzung erbracht, so sind diese Leistungen nicht mehrfach und nicht nebeneinander berechnungsfähig. Neben den Leistungen nach den Nummern 2189 bis 2196 sind die Leistungen nach den Nummern 300 bis 302 sowie 3300 nicht berechnungsfähig. Die Leistungen nach den Nummern 2192, 2195 und/oder 2196 sind für operative Eingriffe an demselben Gelenk im Rahmen derselben Sitzung jeweils nur einmal berechnungsfähig. 
 2100
 
 Naht der Gelenkkapsel eines Finger- oder Zehengelenks .....................................
@@ -10644,8 +10603,7 @@ Diagnostische Arthroskopie im direkten zeitlichen Zusammenhang mit arthroskopisc
 IV\. Gelenkluxationen
 
 Allgemeine Bestimmungen  
-Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung.  
-
+Bei Einrenkung von Luxationen sind Verbände Bestandteil der Leistung. 
 2203
 
 Einrenkung der Luxationen von Wirbelgelenken im Durchhang
@@ -15102,8 +15060,7 @@ Erstellen eines Konstruktionsplanes für ein großes orthopädisches Hilfsmittel
 
 M. Laboratoriumsuntersuchungen
 
-Allgemeine Bestimmungen 1.  
-Die Gebühren für Laboratoriumsuntersuchungen des Abschnitts M umfassen die Eingangsbegutachtung des Probenmaterials, die Probenvorbereitung, die Durchführung der Untersuchung (einschließlich der erforderlichen Qualitätssicherungsmaßnahmen) sowie die Erstellung des daraus resultierenden ärztlichen Befunds.
+Allgemeine Bestimmungen 1. Die Gebühren für Laboratoriumsuntersuchungen des Abschnitts M umfassen die Eingangsbegutachtung des Probenmaterials, die Probenvorbereitung, die Durchführung der Untersuchung (einschließlich der erforderlichen Qualitätssicherungsmaßnahmen) sowie die Erstellung des daraus resultierenden ärztlichen Befunds.
 
 Mit den Gebühren für die berechnungsfähigen Leistungen sind außer den Kosten - mit Ausnahme der Versand- und Portokosten sowie der Kosten für Pharmaka im Zusammenhang mit Funktionstesten - auch die Beurteilung, die obligatorische Befunddokumentation, die Befundmitteilung sowie der einfache Befundbericht abgegolten. Die Verwendung radioaktiven Materials kann nicht gesondert berechnet werden.
 
@@ -15158,9 +15115,7 @@ Punktzahl
 Gebühr in DM
 
 Allgemeine Bestimmungen  
-Leistungen nach den Nummern 3500 bis 3532 sind nur berechnungsfähig, wenn die Laboruntersuchung direkt beim Patienten (z.B. auch bei Hausbesuch) oder in den eigenen Praxisräumen innerhalb von vier Stunden nach der Probennahme bzw. Probenübergabe an den Arzt erfolgt.  
-Die Leistungen nach den Nummern 3500 bis 3532 sind nicht berechnungsfähig, wenn sie in einem Krankenhaus, einer krankenhausähnlichen Einrichtung, einer Laborgemeinschaft oder in einer laborärztlichen Praxis erbracht werden.  
-
+Leistungen nach den Nummern 3500 bis 3532 sind nur berechnungsfähig, wenn die Laboruntersuchung direkt beim Patienten (z.B. auch bei Hausbesuch) oder in den eigenen Praxisräumen innerhalb von vier Stunden nach der Probennahme bzw. Probenübergabe an den Arzt erfolgt. Die Leistungen nach den Nummern 3500 bis 3532 sind nicht berechnungsfähig, wenn sie in einem Krankenhaus, einer krankenhausähnlichen Einrichtung, einer Laborgemeinschaft oder in einer laborärztlichen Praxis erbracht werden. 
 3500
 
 Blut im Stuhl, dreimalige Untersuchung
@@ -15468,9 +15423,7 @@ II\. Basislabor
  
 
 Allgemeine Bestimmungen  
-Die aufgeführten Laborleistungen dürfen auch dann als eigene Leistungen berechnet werden, wenn diese nach fachlicher Weisung unter der Aufsicht eines anderen Arztes in Laborgemeinschaften oder in von Ärzten ohne eigene Liquidationsberechtigung geleiteten Krankenhauslabors erbracht werden.  
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.  
-
+Die aufgeführten Laborleistungen dürfen auch dann als eigene Leistungen berechnet werden, wenn diese nach fachlicher Weisung unter der Aufsicht eines anderen Arztes in Laborgemeinschaften oder in von Ärzten ohne eigene Liquidationsberechtigung geleiteten Krankenhauslabors erbracht werden. Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten. 
 Höchstwerte
 
  
@@ -15576,8 +15529,7 @@ Natrium
  
 
 Allgemeine Bestimmung  
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.  
-
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten. 
 3560
 
 Glukose
@@ -15633,8 +15585,7 @@ Triglyzeride
  
 
 Allgemeine Bestimmung  
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.  
-
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten. 
 3570.H1
 
 Albumin, photometrisch
@@ -15691,8 +15642,7 @@ Transferrin, Immundiffusion oder ähnliche Untersuchungsmethoden
 
   
 Allgemeine Bestimmung  
-Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten.  
-
+Für die mit H1 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3541.H zu beachten. 
 3580.H1
 
 Anorganisches Phosphat
@@ -15882,9 +15832,7 @@ Thromboplastinzeit (Prothrombinzeit, TPZ, Quickwert), Einfachbestimmung
  
 
 Allgemeine Bestimmungen  
-Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der tatsächlich durchgeführten Einzelleistungen berechnungsfähig.  
-Sind aus medizinischen Gründen über den jeweils genannten Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so können diese mit entsprechender Begründung als Einzelleistungen gesondert berechnet werden.  
-
+Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der tatsächlich durchgeführten Einzelleistungen berechnungsfähig. Sind aus medizinischen Gründen über den jeweils genannten Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so können diese mit entsprechender Begründung als Einzelleistungen gesondert berechnet werden. 
 3610
 
 Amylase-Clearance (Zweimalige Bestimmung von Amylase)
@@ -15954,8 +15902,7 @@ III\. Untersuchungen von körpereigenen oder körperfremden Substanzen und körp
  
 
 Allgemeine Bestimmung  
-Für die mit H2, H3 und H4 gekennzeichneten Untersuchungen sind die Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten.  
-
+Für die mit H2, H3 und H4 gekennzeichneten Untersuchungen sind die Höchstwerte nach den Nummern 3630.H, 3631.H und 3633.H zu beachten. 
 Höchstwerte
 
  
@@ -16471,8 +16418,7 @@ Lipoprotein (a) (Lp(a)), Ligandenassay -gegebenenfalls einschließlich Doppelbes
  
 
 Allgemeine Bestimmung  
-Für die mit H4 gekennzeichnete Untersuchung ist der Höchstwert nach Nummer 3633.H zu beachten.  
-
+Für die mit H4 gekennzeichnete Untersuchung ist der Höchstwert nach Nummer 3633.H zu beachten. 
 3735
 
 Albumin, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, Immundiffusion oder ähnliche Untersuchungsmethoden
@@ -16934,9 +16880,7 @@ Trypsin, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und akt
  
 
 Allgemeine Bestimmungen  
-Die Berechnung einer Gebühr für die qualitative Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für die quantitative Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder eine ähnliche Untersuchungsmethode ist nicht zulässig.  
-Für die mit H2 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3630.H zu beachten.  
-
+Die Berechnung einer Gebühr für die qualitative Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für die quantitative Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder eine ähnliche Untersuchungsmethode ist nicht zulässig. Für die mit H2 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3630.H zu beachten. 
 Untersuchung auf Antikörper mittels qualitativer Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) oder ähnlicher Untersuchungsmethoden
 
 290
@@ -17600,8 +17544,7 @@ Mixed-Antiglobulin-Reaction (MAR-Test) zum Nachweis von Spermien-Antikörpern
  
 
 Allgemeine Bestimmung  
-Neben den Leistungen nach den Nummer 3892, 3893 nd/oder 3894 sind die Leistungen nach den ummern 3572, 3890 und/oder 3891 nicht errechnungsfähig.  
-
+Neben den Leistungen nach den Nummer 3892, 3893 nd/oder 3894 sind die Leistungen nach den ummern 3572, 3890 und/oder 3891 nicht errechnungsfähig. 
 3890
 
 Allergenspezifisches Immunglobulin (z.B. IgE), Mischallergentest (z.B. RAST), im Einzelansatz, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -, qualitativ, bis zu vier Mischallergenen, je Mischallergen
@@ -17681,8 +17624,7 @@ Antikörper gegen Insulin, Ligandenassay - einschließlich Doppelbestimmung und 
  
 
 Allgemeine Bestimmung  
-Für die mit H3 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3631.H zu beachten.  
-
+Für die mit H3 gekennzeichneten Untersuchungen ist der Höchstwert nach Nummer 3631.H zu beachten. 
 3900.H3
 
 Ca 125, Ligandenassay - gegebenenfalls einschließlich Doppelbestimmung und aktueller Bezugskurve -
@@ -19130,8 +19072,7 @@ Tumornekrosefaktorrezeptor (p55), Ligandenassayeinschließlich Doppelbestimmung 
  
 
 Allgemeine Bestimmungen  
-Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der tatsächlich durchgeführten Einzelleistungen berechnungsfähig. Sind aus medizinischen Gründen über den jeweils genannten Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so können diese mit entsprechender Begründung als Einzelleistungen gesondert berechnet werden.  
-
+Wird eine vom jeweils genannten Leistungsumfang abweichende geringere Anzahl von Bestimmungen durchgeführt, so ist nur die Zahl der tatsächlich durchgeführten Einzelleistungen berechnungsfähig. Sind aus medizinischen Gründen über den jeweils genannten Leistungsumfang hinaus weitere Bestimmungen einzelner Meßgrößen erforderlich, so können diese mit entsprechender Begründung als Einzelleistungen gesondert berechnet werden. 
 4090
 
 ACTH-Infusionstest (Zweimalige Bestimmung von Cortisol)
@@ -20141,8 +20082,7 @@ Lithium
  
 
 Allgemeine Bestimmung  
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.  
-
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig. 
 Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
 90
@@ -20902,8 +20842,7 @@ Hyaluronidase, Farbreaktion und visuell, qualitativ
  
 
 Allgemeine Bestimmung  
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.  
-
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig. 
 Qualitativer Nachweis von Antikörpern mittels Agglutinationsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
 90
@@ -21919,8 +21858,7 @@ HIV, Immunoblot
  
 
 Allgemeine Bestimmung  
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.  
-
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig. 
 Qualitativer Nachweis von Antikörpern mittels Immunfluoreszenz oder ähnlicher Untersuchungsmethoden
 
 290
@@ -22084,8 +22022,7 @@ Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parameter si
 22\. Antikörper gegen Parasitenantigene
 
 Allgemeine Bestimmung  
-Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig.  
-
+Die Berechnung einer Gebühr für eine qualitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (bis zu zwei Titerstufen) neben einer Gebühr für eine quantitative Untersuchung mittels Agglutinations- oder Fällungsreaktion bzw. Immunfluoreszenzuntersuchung (mehr als zwei Titerstufen) oder einer ähnlichen Untersuchungsmethode ist nicht zulässig. 
 Qualitativer Nachweis von Antikörpern mittels Agglutinations- oder Fällungsreaktion (z.B. Hämagglutination, Hämagglutinationshemmung, Latex-Agglutination)
 
 90
@@ -22505,8 +22442,7 @@ IV\. Untersuchungen zum Nachweis und zur Charakterisierung von Krankheitserreger
  
 
 Allgemeine Bestimmung  
-Werden Untersuchungen berechnet, die im methodischen Aufwand mit im Leistungstext konkret benannten Untersuchungen vergleichbar sind, so muß die Art der berechneten Untersuchungen genau bezeichnet werden.  
-
+Werden Untersuchungen berechnet, die im methodischen Aufwand mit im Leistungstext konkret benannten Untersuchungen vergleichbar sind, so muß die Art der berechneten Untersuchungen genau bezeichnet werden. 
 1\. Untersuchungen zum Nachweis und zur Charakterisierung von Bakterien
 
  
@@ -23616,8 +23552,7 @@ c\. Identifizierung, Charakterisierung
  
 
 Allgemeine Bestimmungen  
-Die zur Identifizierung geeigneten Verfahren können nur dann in Ansatz gebracht werden, wenn zuvor im Rahmen der Leistung nach Nummer 4655 ein positiver Nachweis gelungen ist und die Charakterisierung nach der Leistung nach Nummer 4665 durchgeführt wurde. Es können jedoch nicht mehr als zwei Verfahren nach den Nummern 4666 bis 4671 zur Identifizierung berechnet werden.  
-
+Die zur Identifizierung geeigneten Verfahren können nur dann in Ansatz gebracht werden, wenn zuvor im Rahmen der Leistung nach Nummer 4655 ein positiver Nachweis gelungen ist und die Charakterisierung nach der Leistung nach Nummer 4665 durchgeführt wurde. Es können jedoch nicht mehr als zwei Verfahren nach den Nummern 4666 bis 4671 zur Identifizierung berechnet werden. 
 4665
 
 Untersuchung zur Charakterisierung von Viren mittels einfacher Verfahren (z.B. Ätherresistenz, Chloroformresistenz, pH3-Test), je Ansatz
@@ -24249,8 +24184,7 @@ Untersuchungen mit ähnlichem methodischem Aufwand Die untersuchten Parasiten si
  
 
 Allgemeine Bestimmung  
-Bei der Berechnung der Leistungen nach den Nummern 4780 bis 4787 ist die Art des untersuchten Materials (Nativmaterial oder Material nach Anzüchtung) sowie der untersuchte Mikroorganismus (Bakterium, Virus, Pilz oder Parasit) in der Rechnung anzugeben.  
-
+Bei der Berechnung der Leistungen nach den Nummern 4780 bis 4787 ist die Art des untersuchten Materials (Nativmaterial oder Material nach Anzüchtung) sowie der untersuchte Mikroorganismus (Bakterium, Virus, Pilz oder Parasit) in der Rechnung anzugeben. 
 4780
 
 Isolierung von Nukleinsäuren
@@ -24506,8 +24440,7 @@ Allgemeine Bestimmungen
 1\. Skelett
 
 Allgemeine Bestimmung  
-Neben den Leistungen nach den Nummern 5050, 5060 und 5070 sind die Leistungen nach den Nummern 300 bis 302, 372, 373, 490, 491 und 5295 nicht berechnungsfähig.  
-
+Neben den Leistungen nach den Nummern 5050, 5060 und 5070 sind die Leistungen nach den Nummern 300 bis 302, 372, 373, 490, 491 und 5295 nicht berechnungsfähig. 
 Zähne
 
  
@@ -25173,9 +25106,7 @@ Der Zuschlag nach Nummer 5298 beträgt 25 v.H. des einfachen Gebührensatzes der
  
 
 Allgemeine Bestimmungen  
-Die Zahl der Serien im Sinne der Leistungsbeschreibungen der Leistungen nach den Nummern 5300 bis 5327 wird durch die Anzahl der Kontrastmittelgaben bestimmt.  
-Die Leistungen nach den Nummern 5300, 5302, 5303, 5305 bis 5313, 5315, 5316, 5318, 5324, 5325, 5327, 5329 bis 5331, 5338 und 5339 sind je Sitzung jeweils nur einmal berechnungsfähig.  
-
+Die Zahl der Serien im Sinne der Leistungsbeschreibungen der Leistungen nach den Nummern 5300 bis 5327 wird durch die Anzahl der Kontrastmittelgaben bestimmt. Die Leistungen nach den Nummern 5300, 5302, 5303, 5305 bis 5313, 5315, 5316, 5318, 5324, 5325, 5327, 5329 bis 5331, 5338 und 5339 sind je Sitzung jeweils nur einmal berechnungsfähig. 
 5300
 
 Serienangiographie im Bereich von Schädel, Brust- und/oder Bauchraum, eine Serie
@@ -25519,8 +25450,7 @@ Ergänzende Projektion(en) im Anschluß an die Leistung nach Nummer 5338 - einsc
  
 
 Allgemeine Bestimmung  
-Die Leistungen nach den Nummern 5345 bis 5356 können je Sitzung nur einmal berechnet werden.  
-
+Die Leistungen nach den Nummern 5345 bis 5356 können je Sitzung nur einmal berechnet werden. 
 5345
 
 Perkutane transluminale Dilatation und Rekanalisation von Arterien mit Ausnahme der Koronararterien - einschließlich Kontrastmitteleinbringungen und Durchleuchtung(en) im zeitlichen Zusammenhang mit dem gesamten Eingriff -
@@ -25784,9 +25714,7 @@ Neben der Leistung nach Nummer 5361 sind die Leistungen nach den Nummern 370, 51
  
 
 Allgemeine Bestimmungen  
-Die Leistungen nach den Nummern 5369 bis 5375 sind je Sitzung jeweils nur einmal berechnungsfähig.  
-Die Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374 ist in der Rechnung gesondert zu begründen. Bei Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374 ist der Höchstwert nach Nummer 5369 zu beachten.  
-
+Die Leistungen nach den Nummern 5369 bis 5375 sind je Sitzung jeweils nur einmal berechnungsfähig. Die Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374 ist in der Rechnung gesondert zu begründen. Bei Nebeneinanderberechnung von Leistungen nach den Nummern 5370 bis 5374 ist der Höchstwert nach Nummer 5369 zu beachten. 
 5369
 
 Höchstwert für Leistungen nach den Nummern 5370 bis 5374
@@ -26484,8 +26412,7 @@ n\. Ergänzungsleistungen
  
 
 Allgemeine Bestimmung  
-Die Ergänzungsleistungen nach den Nummern 5480 bis 5485 sind nur mit dem einfachen Gebührensatz berechnungsfähig.  
-
+Die Ergänzungsleistungen nach den Nummern 5480 bis 5485 sind nur mit dem einfachen Gebührensatz berechnungsfähig. 
 5480
 
 Quantitative Bestimmung von Impulsen/ Impulsratendichte (Fläche, Pixel, Voxel) mittels Gammakamera mit Meßwertverarbeitung - mindestens zwei ROI -
@@ -26649,8 +26576,7 @@ III\. Magnetresonanztomographie
  
 
 Allgemeine Bestimmungen  
-Die Leistungen nach den Nummern 5700 bis 5735 sind je Sitzung jeweils nur einmal berechnungsfähig. Die Nebeneinanderberechnung von Leistungen nach den Nummern 5700 bis 5730 ist in der Rechnung besonders zu begründen. Bei Nebeneinanderberechnung von Leistungen nach den Nummern 5700 bis 5730 ist der Höchstwert nach Nummer 5735 zu beachten.  
-
+Die Leistungen nach den Nummern 5700 bis 5735 sind je Sitzung jeweils nur einmal berechnungsfähig. Die Nebeneinanderberechnung von Leistungen nach den Nummern 5700 bis 5730 ist in der Rechnung besonders zu begründen. Bei Nebeneinanderberechnung von Leistungen nach den Nummern 5700 bis 5730 ist der Höchstwert nach Nummer 5735 zu beachten. 
 5700
 
 Magnetresonanztomographie im Bereich des Kopfes - gegebenenfalls einschließlich des Halses -, in zwei Projektionen, davon mindestens eine Projektion unter Einschluß T2-gewichteter Aufnahmen
@@ -26918,10 +26844,7 @@ Hochvoltstrahlenbehandlung von gutartigen Hypophysentumoren oder der endokrinen 
  
 
 Allgemeine Bestimmungen  
-Die Leistungen nach den Nummer 5834 bis 5837 sind grundsätzlich nur bei einer Mindestdosis von 1,5 Gy im Zielvolumen berechnungsfähig. Muß diese im Einzelfall unterschritten werden, ist für die Berechnung dieser Leistungen eine besondere Begründung erforderlich.  
-Bei Bestrahlungen von Systemerkrankungen oder metastasierten Tumoren gilt als ein Zielvolumen derjenige Bereich, der in einem Großfeld (z.B. Mantelfeld, umgekehrtes Y-Feld) bestrahlt werden kann.  
-Die Kosten für die Anwendung individuell geformter Ausblendungen (mit Ausnahme der Kosten für wiederverwendbares Material) und/oder Kompensatoren oder für die Anwendung individuell gefertigter Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig.  
-
+Die Leistungen nach den Nummer 5834 bis 5837 sind grundsätzlich nur bei einer Mindestdosis von 1,5 Gy im Zielvolumen berechnungsfähig. Muß diese im Einzelfall unterschritten werden, ist für die Berechnung dieser Leistungen eine besondere Begründung erforderlich. Bei Bestrahlungen von Systemerkrankungen oder metastasierten Tumoren gilt als ein Zielvolumen derjenige Bereich, der in einem Großfeld (z.B. Mantelfeld, umgekehrtes Y-Feld) bestrahlt werden kann. Die Kosten für die Anwendung individuell geformter Ausblendungen (mit Ausnahme der Kosten für wiederverwendbares Material) und/oder Kompensatoren oder für die Anwendung individuell gefertigter Lagerungs- und/oder Fixationshilfen sind gesondert berechnungsfähig. 
 5831
 
 Erstellung eines Bestrahlungsplans für die Strahlenbehandlung nach den Nummern 5834 bis 5837, je Bestrahlungsserie
@@ -27009,9 +26932,7 @@ Zuschlag zu der Leistung nach Nummer 5836 bei Bestrahlung mit Großfeld oder von
  
 
 Allgemeine Bestimmungen  
-Der Arzt darf nur die für den Patienten verbrauchte Menge an radioaktiven Stoffen berechnen.  
-Bei der Berechnung von Leistungen nach Abschnitt O IV 4 sind die Behandlungsdaten der jeweils eingebrachten Stoffe sowie die Art der ausgeführten Maßnahmen in der Rechnung anzugeben, sofern nicht durch die Leistungsbeschreibung eine eindeutige Definition gegeben ist.  
-
+Der Arzt darf nur die für den Patienten verbrauchte Menge an radioaktiven Stoffen berechnen. Bei der Berechnung von Leistungen nach Abschnitt O IV 4 sind die Behandlungsdaten der jeweils eingebrachten Stoffe sowie die Art der ausgeführten Maßnahmen in der Rechnung anzugeben, sofern nicht durch die Leistungsbeschreibung eine eindeutige Definition gegeben ist. 
 5840
 
 Erstellung eines Bestrahlungsplans für die Brachytherapie nach den Nummern 5844 und/oder 5846, je Bestrahlungsserie

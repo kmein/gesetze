@@ -1,25 +1,19 @@
-# [KerAusbV] Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin    (Keramikgewerbe-Ausbildungsverordnung - KerAusbV)
-
-Ausfertigungsdatum: 27.05.2009
-
+% Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin    (Keramikgewerbe-Ausbildungsverordnung - KerAusbV)
+% Ausfertigungsdatum: 27.05.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), von denen § 25 Absatz 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert und § 26 durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufs
+# § 1 – Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf des Keramikers und der Keramikerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 43, Keramiker, der Anlage B, Abschnitt 1 der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -29,8 +23,7 @@ Die Berufsausbildung gliedert sich in
 
 3. eine im Ausbildungsvertrag festzulegende Wahlqualifikation nach § 4 Absatz 2 Abschnitt B Nummer 4, 5 oder Nummer 6.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -99,8 +92,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 9. Kundenorientierung, Produktverkauf, unternehmerisches Denken und Handeln.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -108,8 +100,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -188,8 +179,7 @@ cc) Herstellen eines Modells aus Gips oder aus Ton;
 
 4. die Prüfungszeit beträgt insgesamt sieben Stunden. Innerhalb dieser Zeit soll das situative Fachgespräch in höchstens zehn Minuten sowie die schriftliche Bearbeitung der Aufgaben in 150 Minuten durchgeführt werden.
 
-
-## § 7 – Gesellenprüfung
+# § 7 – Gesellenprüfung
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -359,26 +349,22 @@ bewertet worden sind.
 
 (10) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 8 – Bestehende Berufsausbildungsverhältnisse
+# § 8 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Keramiker und zur Keramikerin
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Keramiker und zur Keramikerin
 
 (Fundstelle: BGBl. I 2009, 1181 -1186)
 
   
 Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -389,11 +375,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. – 18.  
-Monat
+1\. – 18. Monat
 
-19\. – 36.  
-Monat
+19\. – 36. Monat
 
 1
 
@@ -541,8 +525,7 @@ b) Brenn- und Oberflächenfehler erkennen, Maßnahmen zur Fehlerbeseitigung ergr
 Abschnitt B: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den  
 Wahlqualifikationen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -553,11 +536,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. – 18.  
-Monat
+1\. – 18. Monat
 
-19\. – 36.  
-Monat
+19\. – 36. Monat
 
 1
 
@@ -761,8 +742,7 @@ d) Funktionsfähigkeit von Einrichtungen und Arbeitsformen überprüfen
 
 Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -773,11 +753,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. – 18.  
-Monat
+1\. – 18. Monat
 
-19\. – 36.  
-Monat
+19\. – 36. Monat
 
 1
 

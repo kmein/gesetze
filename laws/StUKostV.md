@@ -1,20 +1,15 @@
-# [StUKostV] Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik  (Stasi-Unterlagen-Kostenordnung - StUKostV)
-
-Ausfertigungsdatum: 13.07.1992
-
+% Verordnung über Kosten beim Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik  (Stasi-Unterlagen-Kostenordnung - StUKostV)
+% Ausfertigungsdatum: 13.07.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Abs. 2 des Stasi-Unterlagen-Gesetzes vom 20. Dezember 1991 (BGBl. I S. 2272) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet der Bundesminister des Innern:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Für individuell zurechenbare öffentliche Leistungen des Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik (Bundesbeauftragter) nach den §§ 13 bis 17 sowie gegenüber nicht-öffentlichen Stellen nach den §§ 20, 21, 32 und 34 des Stasi-Unterlagen-Gesetzes werden Gebühren und Auslagen nur nach den Vorschriften dieser Verordnung erhoben.
 
-
-## § 2 – Gebühren und Auslagen
+# § 2 – Gebühren und Auslagen
 
 (1) Die Gebühren und Auslagen bestimmen sich nach dem anliegenden Gebühren- und Auslagenverzeichnis.
 
@@ -22,13 +17,11 @@ Für individuell zurechenbare öffentliche Leistungen des Bundesbeauftragten fü
 
 (3) Auslagen sind auch dann zu erheben, wenn eine Gebühr für die individuell zurechenbare öffentliche Leistung nicht erhoben wird. § 42 Abs. 1 Satz 3 des Stasi-Unterlagen-Gesetzes bleibt unberührt.
 
-
-## § 3 – Mindestbetrag einer Gebühr, Abrundung
+# § 3 – Mindestbetrag einer Gebühr, Abrundung
 
 Der Mindestbetrag einer Gebühr ist zehn Deutsche Mark. Pfennigbeträge sind auf volle Markbeträge abzurunden.
 
-
-## § 4 – Gebühren- und Auslagenbefreiung
+# § 4 – Gebühren- und Auslagenbefreiung
 
 Von der Zahlung der Gebühren und Auslagen sind befreit:
 
@@ -36,8 +29,7 @@ Von der Zahlung der Gebühren und Auslagen sind befreit:
 
 2. über- oder zwischenstaatliche Organisationen, in denen die Bundesrepublik Deutschland Mitglied ist.
 
-
-## § 5 – Gebührenschuldner
+# § 5 – Gebührenschuldner
 
 (1) Zur Zahlung der Gebühren ist verpflichtet,
 
@@ -49,32 +41,27 @@ Von der Zahlung der Gebühren und Auslagen sind befreit:
 
 (2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
-
-## § 6 – Vorauszahlung, Rücknahme von Anträgen, erfolglose Widerspruchsverfahren
+# § 6 – Vorauszahlung, Rücknahme von Anträgen, erfolglose Widerspruchsverfahren
 
 (1) Der Bundesbeauftragte kann die Zahlung eines Vorschusses verlangen. Er kann die Vornahme der individuell zurechenbaren öffentlichen Leistung von der Zahlung oder Sicherstellung des Vorschusses abhängig machen.
 
 (2) Wird ein Antrag auf Vornahme einer individuell zurechenbaren öffentlichen Leistung zurückgenommen, nachdem mit der sachlichen Bearbeitung begonnen, diese Leistung aber noch nicht beendet ist, oder wird ein Antrag aus anderen Gründen als wegen Unzuständigkeit abgelehnt oder wird ein Verwaltungsakt zurückgenommen oder widerrufen, ermäßigt sich die vorgesehene Gebühr um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit entspricht. Bei einem erfolglosen Widerspruch wird eine Gebühr bis zur Höhe der für die angefochtene Leistung festgesetzten Gebühr erhoben.
 
-
-## § 7 – Unrichtige Sachbehandlung, Gebühren- und Auslagenermäßigung
+# § 7 – Unrichtige Sachbehandlung, Gebühren- und Auslagenermäßigung
 
 (1) Gebühren und Auslagen, die bei richtiger Behandlung der Sache durch den Bundesbeauftragten nicht entstanden wären, werden nicht erhoben. Das gleiche gilt für Auslagen, die durch eine von Amts wegen veranlaßte Verlegung oder Vertagung eines Termins entstanden sind.
 
 (2) Der Bundesbeauftragte kann ausnahmsweise, wenn dies mit Rücksicht auf die wirtschaftlichen Verhältnisse des Zahlungspflichtigen oder sonst aus Billigkeitsgründen geboten erscheint, die Gebühren für individuell zurechenbare öffentliche Leistungen nach den §§ 13 bis 17, 20, 21, 32 und 34 des Stasi-Unterlagen-Gesetzes unter die Sätze des Gebühren- und Auslagenverzeichnisses ermäßigen. § 3 bleibt unberührt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – Gebühren- und Auslagenverzeichnis
+# Anlage – Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 1995, 626 - 627)  
 bzgl. der einzelnen Änderungen vgl. Fußnote

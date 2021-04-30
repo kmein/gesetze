@@ -1,10 +1,7 @@
-# [PostBATZV] Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die Beamtinnen und Beamten bei der Deutschen Post AG  (Postbeamtenaltersteilzeitverordnung - PostBATZV)
-
-Ausfertigungsdatum: 07.12.2015
-
+% Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die Beamtinnen und Beamten bei der Deutschen Post AG  (Postbeamtenaltersteilzeitverordnung - PostBATZV)
+% Ausfertigungsdatum: 07.12.2015
  
-
-## § 1 – Bewilligung von Altersteilzeit
+# § 1 – Bewilligung von Altersteilzeit
 
 (1) Den bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann auf Antrag Teilzeitbeschäftigung als Altersteilzeit mit der Hälfte der bisherigen Arbeitszeit außer in den Fällen des § 93 Absatz 1 bis 3 des Bundesbeamtengesetzes bewilligt werden, wenn
 
@@ -38,8 +35,7 @@ Beamtinnen und Beamte, die unter Anerkennung des dienstlichen Interesses beurlau
 
 (4) Nach Absatz 1 gewährte Altersteilzeit wird auf die Quote nach § 93 Absatz 4 Satz 1 des Bundesbeamtengesetzes angerechnet. Die Ausschlusskriterien nach § 93 Absatz 4 Satz 2 des Bundesbeamtengesetzes sind auf die Bewilligung von Altersteilzeit nach Absatz 1 nicht anzuwenden.
 
-
-## § 2 – Post-Altersteilzeitzuschlag
+# § 2 – Post-Altersteilzeitzuschlag
 
 (1) Beamtinnen und Beamten, denen Altersteilzeit nach § 1 bewilligt worden ist, erhalten einen nicht ruhegehaltfähigen Zuschlag zur Besoldung (Post-Altersteilzeitzuschlag).
 

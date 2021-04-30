@@ -1,15 +1,11 @@
-# [InnAusV] Verordnung zu den Innovationsausschreibungen  (Innovationsausschreibungsverordnung - InnAusV)
-
-Ausfertigungsdatum: 20.01.2020
-
+% Verordnung zu den Innovationsausschreibungen  (Innovationsausschreibungsverordnung - InnAusV)
+% Ausfertigungsdatum: 20.01.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Innovationsausschreibungen nach § 39j des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 3 des Gesetzes vom 20. November 2019 (BGBl. I S. 1719) geändert worden ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist:
 
@@ -21,15 +17,13 @@ b) von Anlagen mit Einrichtungen, die zwischengespeicherte Energie, die ausschli
 
 wovon mindestens eine erneuerbare Energie Windenergie an Land oder solare Strahlungsenergie ist, und der über einen gemeinsamen Netzverknüpfungspunkt einspeist,
 
-1a.  
-„besondere Solaranlage“ eine Solaranlage, die der Festlegung der Bundesnetzagentur nach § 15 entspricht,
+1a. „besondere Solaranlage“ eine Solaranlage, die der Festlegung der Bundesnetzagentur nach § 15 entspricht,
 
 2. „fixe Marktprämie“ die Zahlung eines festen Betrags pro erzeugter Kilowattstunde im Sinne des § 8,
 
 3. „Innovationsausschreibung“ eine nach den Vorschriften dieser Verordnung durchgeführte Ausschreibung.
 
-
-## § 3 – Anwendung des Erneuerbare-Energien-Gesetzes
+# § 3 – Anwendung des Erneuerbare-Energien-Gesetzes
 
 (1) Die Regelungen des Erneuerbare-Energien-Gesetzes sind bei Innovationsausschreibungen entsprechend anzuwenden, sofern in dieser Verordnung nicht etwas Abweichendes geregelt ist.
 
@@ -41,13 +35,11 @@ wovon mindestens eine erneuerbare Energie Windenergie an Land oder solare Strahl
 
 (5) Die §§ 78 und 80 des Erneuerbare-Energien-Gesetzes sind jeweils mit der Maßgabe anzuwenden, dass anstelle des Anspruchs nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes der Anspruch nach § 8 Absatz 1 tritt.
 
-
-## § 4 – Teilnahmeberechtigte Anlagen
+# § 4 – Teilnahmeberechtigte Anlagen
 
 In den Innovationsausschreibungen können nur Gebote für Anlagenkombinationen abgegeben werden.
 
-
-## § 5 – Gebote der Innovationsausschreibungen
+# § 5 – Gebote der Innovationsausschreibungen
 
 (1) Ein Gebot in einer Innovationsausschreibung muss die Angabe der gebotenen fixen Marktprämie in Cent pro Kilowattstunde mit zwei Nachkommastellen enthalten. Die gebotene fixe Marktprämie darf den Höchstwert nach § 10 nicht überschreiten.
 
@@ -55,8 +47,7 @@ In den Innovationsausschreibungen können nur Gebote für Anlagenkombinationen a
 
 (3) (weggefallen)
 
-
-## § 6 – Weitere Anforderungen an Gebote für Anlagenkombinationen
+# § 6 – Weitere Anforderungen an Gebote für Anlagenkombinationen
 
 (1) Ein Gebot für Anlagenkombinationen darf nur für Anlagen abgegeben werden, die vor dem jeweiligen Gebotstermin noch nicht in Betrieb genommen wurden.
 
@@ -76,13 +67,11 @@ Satz 1 Nummer 1 gilt entsprechend auch für die Teile der Anlagenkombination, f�
 
 (4) Die Höhe der Sicherheit nach § 31 des Erneuerbare-Energien-Gesetzes für Gebote für Anlagenkombinationen bestimmt sich aus der Gebotsmenge multipliziert mit 60 Euro pro Kilowatt zu installierender Leistung.
 
-
-## § 7 – Zusätzliche Bekanntmachung bei Innovationsausschreibungen
+# § 7 – Zusätzliche Bekanntmachung bei Innovationsausschreibungen
 
 Zusätzlich zu den Angaben nach § 29 Absatz 1 Satz 2 des Erneuerbare-Energien-Gesetzes macht die Bundesnetzagentur bei den Innovationsausschreibungen die Höchstwerte nach § 10 bekannt.
 
-
-## § 8 – Fixe Marktprämie
+# § 8 – Fixe Marktprämie
 
 (1) Betreiber von Anlagen oder Anlagenkombinationen, die einen Zuschlag nach dieser Verordnung erhalten haben, haben für den in diesen Anlagen oder Anlagenkombinationen erzeugten Strom gegen den Netzbetreiber einen Anspruch auf die fixe Marktprämie. Der Anspruch kann sich in entsprechender Anwendung von § 23 Absatz 3 des Erneuerbare-Energien-Gesetzes verringern.
 
@@ -94,20 +83,17 @@ Zusätzlich zu den Angaben nach § 29 Absatz 1 Satz 2 des Erneuerbare-Energien-G
 
 (5) Die fixe Marktprämie ist ab der Inbetriebnahme einer Anlage für die Dauer von 20 Jahren zu zahlen. Für bestehende Biomasseanlagen ist § 39f Absatz 3 des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden. Bei Anlagenkombinationen beginnt der Anspruch auf die fixe Marktprämie abweichend von Absatz 1, wenn die Voraussetzungen nach § 2 Nummer 1 erfüllt sind.
 
-
-## § 9 – Verringerung des Zahlungsanspruchs bei negativen Preisen
+# § 9 – Verringerung des Zahlungsanspruchs bei negativen Preisen
 
 Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreibung erhalten, verringert sich die fixe Marktprämie für einen Zeitraum, in dem der Wert der Stundenkontrakte für die Preiszone für Deutschland am Spotmarkt der Strombörse in der vortägigen Auktion negativ ist, auf null.
 
-
-## § 10 – Höchstwert
+# § 10 – Höchstwert
 
 (1) Der Höchstwert beträgt 7,5 Cent pro Kilowattstunde.
 
 (2) Der Höchstwert verringert sich ab dem 1. Januar 2022 um 1 Prozent pro Kalenderjahr gegenüber dem im jeweils vorangegangenen Kalenderjahr geltenden Höchstwert und wird auf zwei Stellen nach dem Komma gerundet. Für die Berechnung der Höhe des Höchstwerts aufgrund einer erneuten Anpassung nach Satz 1 ist der nicht gerundete Wert zugrunde zu legen.
 
-
-## § 11 – Zuschlagserteilung, Zuschlagsbegrenzung
+# § 11 – Zuschlagserteilung, Zuschlagsbegrenzung
 
 (1) Die Bundesnetzagentur prüft die Zulässigkeit der Gebote nach den §§ 33 und 34 des Erneuerbare-Energien-Gesetzes und nach den §§ 5 und 6. Für das weitere Zuschlagsverfahren ist vorbehaltlich der Absätze 2 und 3 der § 32 des Erneuerbare-Energien-Gesetzes entsprechend anwendbar.
 
@@ -121,8 +107,7 @@ Für Anlagen, die Zahlungen aufgrund eines Zuschlags in der Innovationsauschreib
 
 (3) Die Bundesnetzagentur erfasst für jedes Gebot, für das ein Zuschlag erteilt worden ist, die vom Bieter übermittelten Angaben und Nachweise sowie den Zuschlagswert.
 
-
-## § 12 – Bekanntgabe der Zuschläge und Werte
+# § 12 – Bekanntgabe der Zuschläge und Werte
 
 (1) Die Bundesnetzagentur gibt die Zuschläge mit folgenden Angaben auf ihrer Internetseite bekannt:
 
@@ -146,8 +131,7 @@ d) den Registernummern der bezuschlagten Anlagen,
 
 (3) Die Bundesnetzagentur unterrichtet die Bieter, die einen Zuschlag erhalten haben, unverzüglich über die Zuschlagserteilung und die fixe Marktprämie.
 
-
-## § 13 – Weitere Bestimmungen zu Anlagenkombinationen
+# § 13 – Weitere Bestimmungen zu Anlagenkombinationen
 
 (1) Zuschläge für Anlagenkombinationen erlöschen 30 Monate nach der öffentlichen Bekanntgabe des Zuschlags, sofern die Anlagenkombinationen die Voraussetzungen des § 2 Nummer 1 zu diesem Zeitpunkt nicht erfüllen oder soweit die Anlagen nicht bis zu diesem Zeitpunkt in Betrieb genommen worden sind.
 
@@ -161,8 +145,7 @@ d) den Registernummern der bezuschlagten Anlagen,
 
 (6) Sofern die Anlagenkombination auch Windenergieanlagen an Land enthält, ist § 36k des Erneuerbare-Energien-Gesetzes mit der Maßgabe anzuwenden, dass die gesamte in der Anlagenkombination erzeugte und eingespeiste Strommenge Grundlage für die Ermittlung der Zuwendungen sein darf.
 
-
-## § 13a – Erstattung von Sicherheiten
+# § 13a – Erstattung von Sicherheiten
 
 (1) Die Bundesnetzagentur gibt unverzüglich die hinterlegte Sicherheit für ein bestimmtes Gebot zurück, wenn der Bieter
 
@@ -172,8 +155,7 @@ d) den Registernummern der bezuschlagten Anlagen,
 
 (2) Die Bundesnetzagentur erstattet die hinterlegte Sicherheit für ein bestimmtes Gebot auch, soweit die Voraussetzungen des § 13 Absatz 1 erfüllt sind und soweit der Netzbetreiber entsprechende Bestätigungen nach § 13 Absatz 2 der Marktstammdatenregisterverordnung übermittelt hat. Sind nicht mehr als 5 Prozent der Gebotsmenge des bezuschlagten Gebots entwertet worden, erstattet die Bundesnetzagentur die Sicherheit in voller Höhe.
 
-
-## § 14 – Evaluierung
+# § 14 – Evaluierung
 
 (1) Die Bundesregierung evaluiert die Innovationsausschreibungen bis zum 31. Dezember 2021 und danach zum 31. Dezember 2024. Die Bundesnetzagentur unterstützt die Bundesregierung bei der Evaluierung.
 
@@ -193,8 +175,7 @@ d) den Registernummern der bezuschlagten Anlagen,
 
 (4) In dem Bericht, der bis zum 31. Dezember 2024 vorzulegen ist, ist insbesondere auf die besonderen Solaranlagen und deren Realisierung einzugehen.
 
-
-## § 15 – Festlegung zu besonderen Solaranlagen
+# § 15 – Festlegung zu besonderen Solaranlagen
 
 Die Bundesnetzagentur legt zum 1. Oktober 2021 die Voraussetzungen, die an die besonderen Solaranlagen zu stellen sind, fest. Hierbei sollen insbesondere die Anforderungen bestimmt werden, die zu stellen sind an
 
@@ -204,15 +185,13 @@ Die Bundesnetzagentur legt zum 1. Oktober 2021 die Voraussetzungen, die an die b
 
 3. Solaranlagen auf Parkplatzflächen.
 
-
-## § 16 – Weitere Anforderungen an Gebote für besondere Solaranlagen
+# § 16 – Weitere Anforderungen an Gebote für besondere Solaranlagen
 
 (1) Ein Gebot für eine Anlagenkombination, die auch eine besondere Solaranlagen enthält, muss eine Mindestgröße von 100 Kilowatt umfassen, es darf eine Gebotsmenge von 2 Megawatt nicht überschreiten.
 
 (2) § 37 des Erneuerbare-Energien-Gesetzes ist für die Gebote der besonderen Solaranlagen nicht anzuwenden.
 
-
-## § 17 – Zuschlagsverfahren für besondere Solaranlagen
+# § 17 – Zuschlagsverfahren für besondere Solaranlagen
 
 (1) Die Bundesnetzagentur vergibt zum Gebotstermin 1. April 2022 ein Gebotsvolumen von 50 Megawatt vorrangig an Gebote für Anlagenkombinationen, die besondere Solaranlagen enthalten.
 
@@ -234,17 +213,14 @@ b) Sofern die eingereichte Gebotsmenge der zugelassenen Gebote mit besonderen So
 
 6. Die Bundesnetzagentur erteilt allen Geboten nach Nummer 4 einen Zuschlag im Umfang ihres Gebots, bis entweder die Zuschlagsbegrenzung nach Nummer 5 greift oder die Differenz aus ausgeschriebener Menge und der nach Nummer 3 bezuschlagten Gebotsmenge durch den Zuschlag zu einem Gebot erreicht oder überschritten ist.
 
-
-## § 18 – Weitere Bestimmung zu besonderen Solaranlagen
+# § 18 – Weitere Bestimmung zu besonderen Solaranlagen
 
 Anlagenkombinationen, die aufgrund eines Zuschlags nach § 17 die fixe Marktprämie enthalten, müssen bezüglich der besonderen Solaranlagen den nach § 15 festgelegten Anforderungen während der gesamten Dauer des Anspruchs auf die fixe Marktprämie entsprechen; ansonsten verringert sich die fixe Marktprämie für das betreffende Kalenderjahr auf null.
 
-
-## § 19 – Übergangsvorschrift
+# § 19 – Übergangsvorschrift
 
 Für Strom aus Anlagen, deren Zuschläge im Jahr 2020 erteilt wurden, sind mit Ausnahme von § 6 Absatz 2, § 13 Absatz 3 und § 13a die Vorschriften dieses Gesetzes in der am 1. September 2020 geltenden Fassung anzuwenden.
 
-
-## § 20 – Außerkrafttreten
+# § 20 – Außerkrafttreten
 
 Diese Verordnung tritt zum 31. Dezember 2028 außer Kraft.

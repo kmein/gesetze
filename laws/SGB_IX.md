@@ -1,11 +1,8 @@
-# [SGB IX] Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)  (Neuntes Buch Sozialgesetzbuch - SGB IX)
-
-Ausfertigungsdatum: 23.12.2016
-
+% Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)  (Neuntes Buch Sozialgesetzbuch - SGB IX)
+% Ausfertigungsdatum: 23.12.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
  
 
  
@@ -257,14 +254,12 @@ Ausfertigungsdatum: 23.12.2016
  
 
  
-
 
-## § 1 – Selbstbestimmung und Teilhabe am Leben in der Gesellschaft
+# § 1 – Selbstbestimmung und Teilhabe am Leben in der Gesellschaft
 
 Menschen mit Behinderungen oder von Behinderung bedrohte Menschen erhalten Leistungen nach diesem Buch und den für die Rehabilitationsträger geltenden Leistungsgesetzen, um ihre Selbstbestimmung und ihre volle, wirksame und gleichberechtigte Teilhabe am Leben in der Gesellschaft zu fördern, Benachteiligungen zu vermeiden oder ihnen entgegenzuwirken. Dabei wird den besonderen Bedürfnissen von Frauen und Kindern mit Behinderungen und von Behinderung bedrohter Frauen und Kinder sowie Menschen mit seelischen Behinderungen oder von einer solchen Behinderung bedrohter Menschen Rechnung getragen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Menschen mit Behinderungen sind Menschen, die körperliche, seelische, geistige oder Sinnesbeeinträchtigungen haben, die sie in Wechselwirkung mit einstellungs- und umweltbedingten Barrieren an der gleichberechtigten Teilhabe an der Gesellschaft mit hoher Wahrscheinlichkeit länger als sechs Monate hindern können. Eine Beeinträchtigung nach Satz 1 liegt vor, wenn der Körper- und Gesundheitszustand von dem für das Lebensalter typischen Zustand abweicht. Menschen sind von Behinderung bedroht, wenn eine Beeinträchtigung nach Satz 1 zu erwarten ist.
 
@@ -274,8 +269,7 @@ Menschen mit Behinderungen oder von Behinderung bedrohte Menschen erhalten Leist
 
 (+++ § 2: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 3 – Vorrang von Prävention
+# § 3 – Vorrang von Prävention
 
 (1) Die Rehabilitationsträger und die Integrationsämter wirken bei der Aufklärung, Beratung, Auskunft und Ausführung von Leistungen im Sinne des Ersten Buches sowie im Rahmen der Zusammenarbeit mit den Arbeitgebern nach § 167 darauf hin, dass der Eintritt einer Behinderung einschließlich einer chronischen Krankheit vermieden wird.
 
@@ -283,8 +277,7 @@ Menschen mit Behinderungen oder von Behinderung bedrohte Menschen erhalten Leist
 
 (3) Bei der Erbringung von Leistungen für Personen, deren berufliche Eingliederung auf Grund gesundheitlicher Einschränkungen besonders erschwert ist, arbeiten die Krankenkassen mit der Bundesagentur für Arbeit und mit den kommunalen Trägern der Grundsicherung für Arbeitsuchende nach § 20a des Fünften Buches eng zusammen.
 
-
-## § 4 – Leistungen zur Teilhabe
+# § 4 – Leistungen zur Teilhabe
 
 (1) Die Leistungen zur Teilhabe umfassen die notwendigen Sozialleistungen, um unabhängig von der Ursache der Behinderung
 
@@ -302,8 +295,7 @@ Menschen mit Behinderungen oder von Behinderung bedrohte Menschen erhalten Leist
 
 (4) Leistungen für Mütter und Väter mit Behinderungen werden gewährt, um diese bei der Versorgung und Betreuung ihrer Kinder zu unterstützen.
 
-
-## § 5 – Leistungsgruppen
+# § 5 – Leistungsgruppen
 
 Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
@@ -317,8 +309,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 5. Leistungen zur sozialen Teilhabe.
 
-
-## § 6 – Rehabilitationsträger
+# § 6 – Rehabilitationsträger
 
 (1) Träger der Leistungen zur Teilhabe (Rehabilitationsträger) können sein:
 
@@ -340,15 +331,13 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (3) Die Bundesagentur für Arbeit ist auch Rehabilitationsträger für die Leistungen zur Teilhabe am Arbeitsleben für erwerbsfähige Leistungsberechtigte mit Behinderungen im Sinne des Zweiten Buches, sofern nicht ein anderer Rehabilitationsträger zuständig ist. Die Zuständigkeit der Jobcenter nach § 6d des Zweiten Buches für die Leistungen zur beruflichen Teilhabe von Menschen mit Behinderungen nach § 16 Absatz 1 des Zweiten Buches bleibt unberührt. Mit Zustimmung und Beteiligung des Leistungsberechtigten kann die Bundesagentur für Arbeit mit dem zuständigen Jobcenter eine gemeinsame Beratung zur Vorbereitung des Eingliederungsvorschlags durchführen, wenn eine Teilhabeplankonferenz nach § 20 nicht durchzuführen ist. Die Leistungsberechtigten und das Jobcenter können der Bundesagentur für Arbeit in diesen Fällen die Durchführung einer gemeinsamen Beratung vorschlagen. § 20 Absatz 3 und § 23 Absatz 2 gelten entsprechend. Die Bundesagentur für Arbeit unterrichtet das zuständige Jobcenter und die Leistungsberechtigten schriftlich oder elektronisch über den festgestellten Rehabilitationsbedarf und ihren Eingliederungsvorschlag. Das Jobcenter entscheidet unter Berücksichtigung des Eingliederungsvorschlages innerhalb von drei Wochen über die Leistungen zur beruflichen Teilhabe.
 
-
-## § 7 – Vorbehalt abweichender Regelungen
+# § 7 – Vorbehalt abweichender Regelungen
 
 (1) Die Vorschriften im Teil 1 gelten für die Leistungen zur Teilhabe, soweit sich aus den für den jeweiligen Rehabilitationsträger geltenden Leistungsgesetzen nichts Abweichendes ergibt. Die Zuständigkeit und die Voraussetzungen für die Leistungen zur Teilhabe richten sich nach den für den jeweiligen Rehabilitationsträger geltenden Leistungsgesetzen. Das Recht der Eingliederungshilfe im Teil 2 ist ein Leistungsgesetz im Sinne der Sätze 1 und 2.
 
 (2) Abweichend von Absatz 1 gehen die Vorschriften der Kapitel 2 bis 4 den für die jeweiligen Rehabilitationsträger geltenden Leistungsgesetzen vor. Von den Vorschriften in Kapitel 4 kann durch Landesrecht nicht abgewichen werden.
 
-
-## § 8 – Wunsch- und Wahlrecht der Leistungsberechtigten
+# § 8 – Wunsch- und Wahlrecht der Leistungsberechtigten
 
 (1) Bei der Entscheidung über die Leistungen und bei der Ausführung der Leistungen zur Teilhabe wird berechtigten Wünschen der Leistungsberechtigten entsprochen. Dabei wird auch auf die persönliche Lebenssituation, das Alter, das Geschlecht, die Familie sowie die religiösen und weltanschaulichen Bedürfnisse der Leistungsberechtigten Rücksicht genommen; im Übrigen gilt § 33 des Ersten Buches. Den besonderen Bedürfnissen von Müttern und Vätern mit Behinderungen bei der Erfüllung ihres Erziehungsauftrages sowie den besonderen Bedürfnissen von Kindern mit Behinderungen wird Rechnung getragen.
 
@@ -358,8 +347,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (4) Die Leistungen zur Teilhabe bedürfen der Zustimmung der Leistungsberechtigten.
 
-
-## § 9 – Vorrangige Prüfung von Leistungen zur Teilhabe
+# § 9 – Vorrangige Prüfung von Leistungen zur Teilhabe
 
 (1) Werden bei einem Rehabilitationsträger Sozialleistungen wegen oder unter Berücksichtigung einer Behinderung oder einer drohenden Behinderung beantragt oder erbracht, prüft dieser unabhängig von der Entscheidung über diese Leistungen, ob Leistungen zur Teilhabe voraussichtlich zur Erreichung der Ziele nach den §§ 1 und 4 erfolgreich sein können. Er prüft auch, ob hierfür weitere Rehabilitationsträger im Rahmen ihrer Zuständigkeit zur Koordinierung der Leistungen zu beteiligen sind. Werden Leistungen zur Teilhabe nach den Leistungsgesetzen nur auf Antrag erbracht, wirken die Rehabilitationsträger nach § 12 auf eine Antragstellung hin.
 
@@ -369,8 +357,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (4) Absatz 1 gilt auch für die Jobcenter im Rahmen ihrer Zuständigkeit für Leistungen zur beruflichen Teilhabe nach § 6 Absatz 3 mit der Maßgabe, dass sie mögliche Rehabilitationsbedarfe erkennen und auf eine Antragstellung beim voraussichtlich zuständigen Rehabilitationsträger hinwirken sollen.
 
-
-## § 10 – Sicherung der Erwerbsfähigkeit
+# § 10 – Sicherung der Erwerbsfähigkeit
 
 (1) Soweit es im Einzelfall geboten ist, prüft der zuständige Rehabilitationsträger gleichzeitig mit der Einleitung einer Leistung zur medizinischen Rehabilitation, während ihrer Ausführung und nach ihrem Abschluss, ob durch geeignete Leistungen zur Teilhabe am Arbeitsleben die Erwerbsfähigkeit von Menschen mit Behinderungen oder von Behinderung bedrohten Menschen erhalten, gebessert oder wiederhergestellt werden kann. Er beteiligt die Bundesagentur für Arbeit nach § 54.
 
@@ -382,8 +369,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (5) Die Rehabilitationsträger wirken auch in den Fällen der Hinzuziehung durch Arbeitgeber infolge einer Arbeitsplatzgefährdung nach § 167 Absatz 2 Satz 4 auf eine frühzeitige Antragstellung auf Leistungen zur Teilhabe nach allen in Betracht kommenden Leistungsgesetzen hin. Absatz 4 Satz 2 gilt entsprechend.
 
-
-## § 11 – Förderung von Modellvorhaben zur Stärkung der Rehabilitation, Verordnungsermächtigung
+# § 11 – Förderung von Modellvorhaben zur Stärkung der Rehabilitation, Verordnungsermächtigung
 
 (1) Das Bundesministerium für Arbeit und Soziales fördert im Rahmen der für diesen Zweck zur Verfügung stehenden Haushaltsmittel im Aufgabenbereich der Grundsicherung für Arbeitsuchende und der gesetzlichen Rentenversicherung Modellvorhaben, die den Vorrang von Leistungen zur Teilhabe nach § 9 und die Sicherung der Erwerbsfähigkeit nach § 10 unterstützen.
 
@@ -395,8 +381,7 @@ Zur Teilhabe am Leben in der Gesellschaft werden erbracht:
 
 (5) Das Bundesministerium für Arbeit und Soziales untersucht die Wirkungen der Modellvorhaben. Das Bundesministerium für Arbeit und Soziales kann Dritte mit diesen Untersuchungen beauftragen.
 
-
-## § 12 – Maßnahmen zur Unterstützung der frühzeitigen Bedarfserkennung
+# § 12 – Maßnahmen zur Unterstützung der frühzeitigen Bedarfserkennung
 
 (1) Die Rehabilitationsträger stellen durch geeignete Maßnahmen sicher, dass ein Rehabilitationsbedarf frühzeitig erkannt und auf eine Antragstellung der Leistungsberechtigten hingewirkt wird. Die Rehabilitationsträger unterstützen die frühzeitige Erkennung des Rehabilitationsbedarfs insbesondere durch die Bereitstellung und Vermittlung von geeigneten barrierefreien Informationsangeboten über
 
@@ -414,8 +399,7 @@ Die Rehabilitationsträger benennen Ansprechstellen, die Informationsangebote na
 
 (3) Die Rehabilitationsträger, Integrationsämter und Pflegekassen können die Informationsangebote durch ihre Verbände und Vereinigungen bereitstellen und vermitteln lassen. Die Jobcenter können die Informationsangebote durch die Bundesagentur für Arbeit bereitstellen und vermitteln lassen.
 
-
-## § 13 – Instrumente zur Ermittlung des Rehabilitationsbedarfs
+# § 13 – Instrumente zur Ermittlung des Rehabilitationsbedarfs
 
 (1) Zur einheitlichen und überprüfbaren Ermittlung des individuellen Rehabilitationsbedarfs verwenden die Rehabilitationsträger systematische Arbeitsprozesse und standardisierte Arbeitsmittel (Instrumente) nach den für sie geltenden Leistungsgesetzen. Die Instrumente sollen den von den Rehabilitationsträgern vereinbarten Grundsätzen für Instrumente zur Bedarfsermittlung nach § 26 Absatz 2 Nummer 7 entsprechen. Die Rehabilitationsträger können die Entwicklung von Instrumenten durch ihre Verbände und Vereinigungen wahrnehmen lassen oder Dritte mit der Entwicklung beauftragen.
 
@@ -433,8 +417,7 @@ Die Rehabilitationsträger benennen Ansprechstellen, die Informationsangebote na
 
 (4) Auf Vorschlag der Rehabilitationsträger nach § 6 Absatz 1 Nummer 6 und 7 und mit Zustimmung der zuständigen obersten Landesbehörden kann das Bundesministerium für Arbeit und Soziales die von diesen Rehabilitationsträgern eingesetzten Instrumente im Sinne von Absatz 1 in die Untersuchung nach Absatz 3 einbeziehen.
 
-
-## § 14 – Leistender Rehabilitationsträger
+# § 14 – Leistender Rehabilitationsträger
 
 (1) Werden Leistungen zur Teilhabe beantragt, stellt der Rehabilitationsträger innerhalb von zwei Wochen nach Eingang des Antrages bei ihm fest, ob er nach dem für ihn geltenden Leistungsgesetz für die Leistung zuständig ist; bei den Krankenkassen umfasst die Prüfung auch die Leistungspflicht nach § 40 Absatz 4 des Fünften Buches. Stellt er bei der Prüfung fest, dass er für die Leistung insgesamt nicht zuständig ist, leitet er den Antrag unverzüglich dem nach seiner Auffassung zuständigen Rehabilitationsträger zu und unterrichtet hierüber den Antragsteller. Muss für eine solche Feststellung die Ursache der Behinderung geklärt werden und ist diese Klärung in der Frist nach Satz 1 nicht möglich, soll der Antrag unverzüglich dem Rehabilitationsträger zugeleitet werden, der die Leistung ohne Rücksicht auf die Ursache der Behinderung erbringt. Wird der Antrag bei der Bundesagentur für Arbeit gestellt, werden bei der Prüfung nach den Sätzen 1 und 2 keine Feststellungen nach § 11 Absatz 2a Nummer 1 des Sechsten Buches und § 22 Absatz 2 des Dritten Buches getroffen.
 
@@ -446,8 +429,7 @@ Die Rehabilitationsträger benennen Ansprechstellen, die Informationsangebote na
 
 (5) Für die Weiterleitung des Antrages ist § 16 Absatz 2 Satz 1 des Ersten Buches nicht anzuwenden, wenn und soweit Leistungen zur Teilhabe bei einem Rehabilitationsträger beantragt werden.
 
-
-## § 15 – Leistungsverantwortung bei Mehrheit von Rehabilitationsträgern
+# § 15 – Leistungsverantwortung bei Mehrheit von Rehabilitationsträgern
 
 (1) Stellt der leistende Rehabilitationsträger fest, dass der Antrag neben den nach seinem Leistungsgesetz zu erbringenden Leistungen weitere Leistungen zur Teilhabe umfasst, für die er nicht Rehabilitationsträger nach § 6 Absatz 1 sein kann, leitet er den Antrag insoweit unverzüglich dem nach seiner Auffassung zuständigen Rehabilitationsträger zu. Dieser entscheidet über die weiteren Leistungen nach den für ihn geltenden Leistungsgesetzen in eigener Zuständigkeit und unterrichtet hierüber den Antragsteller.
 
@@ -465,8 +447,7 @@ Anderenfalls entscheidet der leistende Rehabilitationsträger über den Antrag i
 
 (4) In den Fällen der Beteiligung von Rehabilitationsträgern nach den Absätzen 1 bis 3 ist abweichend von § 14 Absatz 2 innerhalb von sechs Wochen nach Antragseingang zu entscheiden. Wird eine Teilhabeplankonferenz nach § 20 durchgeführt, ist innerhalb von zwei Monaten nach Antragseingang zu entscheiden. Die Antragsteller werden von dem leistenden Rehabilitationsträger über die Beteiligung von Rehabilitationsträgern sowie über die für die Entscheidung über den Antrag maßgeblichen Zuständigkeiten und Fristen unverzüglich unterrichtet.
 
-
-## § 16 – Erstattungsansprüche zwischen Rehabilitationsträgern
+# § 16 – Erstattungsansprüche zwischen Rehabilitationsträgern
 
 (1) Hat ein leistender Rehabilitationsträger nach § 14 Absatz 2 Satz 4 Leistungen erbracht, für die ein anderer Rehabilitationsträger insgesamt zuständig ist, erstattet der zuständige Rehabilitationsträger die Aufwendungen des leistenden Rehabilitationsträgers nach den für den leistenden Rehabilitationsträger geltenden Rechtsvorschriften.
 
@@ -486,8 +467,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (6) Für den Erstattungsanspruch des Trägers der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Kriegsopferfürsorge gilt § 108 Absatz 2 des Zehnten Buches entsprechend.
 
-
-## § 17 – Begutachtung
+# § 17 – Begutachtung
 
 (1) Ist für die Feststellung des Rehabilitationsbedarfs ein Gutachten erforderlich, beauftragt der leistende Rehabilitationsträger unverzüglich einen geeigneten Sachverständigen. Er benennt den Leistungsberechtigten in der Regel drei möglichst wohnortnahe Sachverständige, soweit nicht gesetzlich die Begutachtung durch einen sozialmedizinischen Dienst vorgesehen ist. Haben sich Leistungsberechtigte für einen benannten Sachverständigen entschieden, wird dem Wunsch Rechnung getragen.
 
@@ -497,8 +477,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (4) Die Rehabilitationsträger stellen sicher, dass sie Sachverständige beauftragen können, bei denen keine Zugangs- und Kommunikationsbarrieren bestehen.
 
-
-## § 18 – Erstattung selbstbeschaffter Leistungen
+# § 18 – Erstattung selbstbeschaffter Leistungen
 
 (1) Kann über den Antrag auf Leistungen zur Teilhabe nicht innerhalb einer Frist von zwei Monaten ab Antragseingang bei dem leistenden Rehabilitationsträger entschieden werden, teilt er den Leistungsberechtigten vor Ablauf der Frist die Gründe hierfür schriftlich mit (begründete Mitteilung).
 
@@ -524,8 +503,7 @@ es sei denn, die Rehabilitationsträger vereinbaren Abweichendes. Hat ein Rehabi
 
 (7) Die Absätze 1 bis 5 gelten nicht für die Träger der Eingliederungshilfe, der öffentlichen Jugendhilfe und der Kriegsopferfürsorge.
 
-
-## § 19 – Teilhabeplan
+# § 19 – Teilhabeplan
 
 (1) Soweit Leistungen verschiedener Leistungsgruppen oder mehrerer Rehabilitationsträger erforderlich sind, ist der leistende Rehabilitationsträger dafür verantwortlich, dass er und die nach § 15 beteiligten Rehabilitationsträger im Benehmen miteinander und in Abstimmung mit den Leistungsberechtigten die nach dem individuellen Bedarf voraussichtlich erforderlichen Leistungen hinsichtlich Ziel, Art und Umfang funktionsbezogen feststellen und schriftlich oder elektronisch so zusammenstellen, dass sie nahtlos ineinandergreifen.
 
@@ -563,8 +541,7 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 (6) Setzen unterhaltssichernde Leistungen den Erhalt von anderen Leistungen zur Teilhabe voraus, gelten die Leistungen im Verhältnis zueinander nicht als Leistungen verschiedener Leistungsgruppen im Sinne von Absatz 1.
 
-
-## § 20 – Teilhabeplankonferenz
+# § 20 – Teilhabeplankonferenz
 
 (1) Mit Zustimmung der Leistungsberechtigten kann der für die Durchführung des Teilhabeplanverfahrens nach § 19 verantwortliche Rehabilitationsträger zur gemeinsamen Beratung der Feststellungen zum Rehabilitationsbedarf eine Teilhabeplankonferenz durchführen. Die Leistungsberechtigten, die beteiligten Rehabilitationsträger und die Jobcenter können dem nach § 19 verantwortlichen Rehabilitationsträger die Durchführung einer Teilhabeplankonferenz vorschlagen. Von dem Vorschlag auf Durchführung einer Teilhabeplankonferenz kann abgewichen werden,
 
@@ -580,13 +557,11 @@ Wenn Leistungsberechtigte die Erstellung eines Teilhabeplans wünschen und die V
 
 (4) Wird eine Teilhabeplankonferenz nach Absatz 1 auf Wunsch und mit Zustimmung der Leistungsberechtigten eingeleitet, richtet sich die Frist zur Entscheidung über den Antrag nach § 15 Absatz 4.
 
-
-## § 21 – Besondere Anforderungen an das Teilhabeplanverfahren
+# § 21 – Besondere Anforderungen an das Teilhabeplanverfahren
 
 Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für die Gesamtplanung ergänzend; dabei ist das Gesamtplanverfahren ein Gegenstand des Teilhabeplanverfahrens. Ist der Träger der öffentlichen Jugendhilfe der für die Durchführung des Teilhabeplans verantwortliche Rehabilitationsträger, gelten für ihn die Vorschriften für den Hilfeplan nach § 36 des Achten Buches ergänzend.
 
-
-## § 22 – Einbeziehung anderer öffentlicher Stellen
+# § 22 – Einbeziehung anderer öffentlicher Stellen
 
 (1) Der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger bezieht unter Berücksichtigung der Interessen der Leistungsberechtigten andere öffentliche Stellen in die Erstellung des Teilhabeplans in geeigneter Art und Weise ein, soweit dies zur Feststellung des Rehabilitationsbedarfs erforderlich ist.
 
@@ -600,8 +575,7 @@ Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabep
 
 (+++ § 22 Abs. 5: Zur Anwendung vgl. § 117 Abs. 5 +++)
 
-
-## § 23 – Verantwortliche Stelle für den Sozialdatenschutz
+# § 23 – Verantwortliche Stelle für den Sozialdatenschutz
 
 (1) Der für die Durchführung des Teilhabeplanverfahrens verantwortliche Rehabilitationsträger ist bei der Erstellung des Teilhabeplans und bei der Durchführung der Teilhabeplankonferenz Verantwortlicher für die Verarbeitung von Sozialdaten nach § 67 Absatz 4 des Zehnten Buches sowie Stelle im Sinne von § 35 Absatz 1 des Ersten Buches.
 
@@ -609,13 +583,11 @@ Ist der Träger der Eingliederungshilfe der für die Durchführung des Teilhabep
 
 (3) Die datenschutzrechtlichen Vorschriften des Ersten und des Zehnten Buches sowie der jeweiligen Leistungsgesetze der Rehabilitationsträger bleiben bei der Zuständigkeitsklärung und bei der Erstellung des Teilhabeplans unberührt.
 
-
-## § 24 – Vorläufige Leistungen
+# § 24 – Vorläufige Leistungen
 
 Die Bestimmungen dieses Kapitels lassen die Verpflichtung der Rehabilitationsträger zur Erbringung vorläufiger Leistungen nach den für sie jeweils geltenden Leistungsgesetzen unberührt. Vorläufig erbrachte Leistungen binden die Rehabilitationsträger nicht bei der Feststellung des Rehabilitationsbedarfs nach diesem Kapitel. Werden Leistungen zur Teilhabe beantragt, ist § 43 des Ersten Buches nicht anzuwenden.
 
-
-## § 25 – Zusammenarbeit der Rehabilitationsträger
+# § 25 – Zusammenarbeit der Rehabilitationsträger
 
 (1) Im Rahmen der durch Gesetz, Rechtsverordnung oder allgemeine Verwaltungsvorschrift getroffenen Regelungen sind die Rehabilitationsträger verantwortlich, dass
 
@@ -633,8 +605,7 @@ Die Bestimmungen dieses Kapitels lassen die Verpflichtung der Rehabilitationstr�
 
 (2) Die Rehabilitationsträger und ihre Verbände sollen zur gemeinsamen Wahrnehmung von Aufgaben zur Teilhabe von Menschen mit Behinderungen insbesondere regionale Arbeitsgemeinschaften bilden. § 88 Absatz 1 Satz 1 und Absatz 2 des Zehnten Buches gilt entsprechend.
 
-
-## § 26 – Gemeinsame Empfehlungen
+# § 26 – Gemeinsame Empfehlungen
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5 vereinbaren zur Sicherung der Zusammenarbeit nach § 25 Absatz 1 gemeinsame Empfehlungen.
 
@@ -677,13 +648,11 @@ Die Bestimmungen dieses Kapitels lassen die Verpflichtung der Rehabilitationstr�
 (+++ § 26 Abs. 3: Zur Anwendung vgl. § 37 Abs. 6 +++)  
 (+++ § 26 Abs. 4: Zur Anwendung vgl. § 37 Abs. 1 +++)
 
-
-## § 27 – Verordnungsermächtigung
+# § 27 – Verordnungsermächtigung
 
 Vereinbaren die Rehabilitationsträger nicht innerhalb von sechs Monaten, nachdem das Bundesministerium für Arbeit und Soziales sie dazu aufgefordert hat, gemeinsame Empfehlungen nach § 26 oder ändern sie unzureichend gewordene Empfehlungen nicht innerhalb dieser Frist, kann das Bundesministerium für Arbeit und Soziales mit dem Ziel der Vereinheitlichung des Verwaltungsvollzugs in dem Anwendungsbereich der §§ 25 und 26 Regelungen durch Rechtsverordnung mit Zustimmung des Bundesrates erlassen. Richten sich die Regelungen nur an Rehabilitationsträger, die nicht der Landesaufsicht unterliegen, wird die Rechtsverordnung ohne Zustimmung des Bundesrates erlassen. Soweit sich die Regelungen an die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 richten, erlässt das Bundesministerium für Arbeit und Soziales die Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Gesundheit.
 
-
-## § 28 – Ausführung von Leistungen
+# § 28 – Ausführung von Leistungen
 
 (1) Der zuständige Rehabilitationsträger kann Leistungen zur Teilhabe
 
@@ -697,8 +666,7 @@ ausführen. Der zuständige Rehabilitationsträger bleibt für die Ausführung d
 
 (2) Die Leistungen werden dem Verlauf der Rehabilitation angepasst und sind darauf ausgerichtet, den Leistungsberechtigten unter Berücksichtigung der Besonderheiten des Einzelfalles zügig, wirksam, wirtschaftlich und auf Dauer eine den Zielen der §§ 1 und 4 Absatz 1 entsprechende umfassende Teilhabe am Leben in der Gesellschaft zu ermöglichen.
 
-
-## § 29 – Persönliches Budget
+# § 29 – Persönliches Budget
 
 (1) Auf Antrag der Leistungsberechtigten werden Leistungen zur Teilhabe durch die Leistungsform eines Persönlichen Budgets ausgeführt, um den Leistungsberechtigten in eigener Verantwortung ein möglichst selbstbestimmtes Leben zu ermöglichen. Bei der Ausführung des Persönlichen Budgets sind nach Maßgabe des individuell festgestellten Bedarfs die Rehabilitationsträger, die Pflegekassen und die Integrationsämter beteiligt. Das Persönliche Budget wird von den beteiligten Leistungsträgern trägerübergreifend als Komplexleistung erbracht. Das Persönliche Budget kann auch nicht trägerübergreifend von einem einzelnen Leistungsträger erbracht werden. Budgetfähig sind auch die neben den Leistungen nach Satz 1 erforderlichen Leistungen der Krankenkassen und der Pflegekassen, Leistungen der Träger der Unfallversicherung bei Pflegebedürftigkeit sowie Hilfe zur Pflege der Sozialhilfe, die sich auf alltägliche und regelmäßig wiederkehrende Bedarfe beziehen und als Geldleistungen oder durch Gutscheine erbracht werden können. An die Entscheidung sind die Leistungsberechtigten für die Dauer von sechs Monaten gebunden.
 
@@ -720,18 +688,15 @@ Satz 1 findet keine Anwendung, wenn allein Pflegekassen Leistungsträger nach Ab
 
 (+++ § 29: Zur Anwendung vgl. § 104 Abs. 4 +++) (+++ § 29: Zur Anwendung vgl. § 63 SGB 12 ab F. 23.12.2016 u. § 57 SGB 12 F. 17.7.2017 +++)
 
-
-## § 30 – Verordnungsermächtigung
+# § 30 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres zum Inhalt und zur Ausführung des Persönlichen Budgets, zum Verfahren sowie zur Zuständigkeit bei Beteiligung mehrerer Rehabilitationsträger zu regeln.
 
-
-## § 31 – Leistungsort
+# § 31 – Leistungsort
 
 Sach- und Dienstleistungen können auch im Ausland erbracht werden, wenn sie dort bei zumindest gleicher Qualität und Wirksamkeit wirtschaftlicher ausgeführt werden können. Leistungen zur Teilhabe am Arbeitsleben können im grenznahen Ausland auch ausgeführt werden, wenn sie für die Aufnahme oder Ausübung einer Beschäftigung oder selbständigen Tätigkeit erforderlich sind.
 
-
-## § 32 – Ergänzende unabhängige Teilhabeberatung; Verordnungsermächtigung
+# § 32 – Ergänzende unabhängige Teilhabeberatung; Verordnungsermächtigung
 
 (1) Zur Stärkung der Selbstbestimmung von Menschen mit Behinderungen und von Behinderung bedrohter Menschen fördert das Bundesministerium für Arbeit und Soziales eine von Leistungsträgern und Leistungserbringern unabhängige ergänzende Beratung als niedrigschwelliges Angebot, das bereits im Vorfeld der Beantragung konkreter Leistungen zur Verfügung steht. Dieses Angebot besteht neben dem Anspruch auf Beratung durch die Rehabilitationsträger.
 
@@ -747,13 +712,11 @@ Sach- und Dienstleistungen können auch im Ausland erbracht werden, wenn sie dor
 
 (7) Zuständige Behörde für die Umsetzung der ergänzenden unabhängigen Teilhabeberatung ist das Bundesministerium für Arbeit und Soziales. Es kann diese Aufgaben Dritten übertragen. Die Auswahl aus dem Kreis der Antragsteller erfolgt durch das Bundesministerium für Arbeit und Soziales im Benehmen mit den zuständigen obersten Landesbehörden. Das Bundesministerium für Arbeit und Soziales erlässt eine Rechtsverordnung ohne Zustimmung des Bundesrates, um die ergänzende unabhängige Teilhabeberatung nach dem Jahr 2022 auszugestalten und umzusetzen.
 
-
-## § 33 – Pflichten der Personensorgeberechtigten
+# § 33 – Pflichten der Personensorgeberechtigten
 
 Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Personen Beeinträchtigungen (§ 2 Absatz 1) wahrnehmen oder durch die in § 34 genannten Personen hierauf hingewiesen werden, sollen im Rahmen ihres Erziehungs- oder Betreuungsauftrags diese Personen einer Beratungsstelle nach § 32 oder einer sonstigen Beratungsstelle für Rehabilitation zur Beratung über die geeigneten Leistungen zur Teilhabe vorstellen.
 
-
-## § 34 – Sicherung der Beratung von Menschen mit Behinderungen
+# § 34 – Sicherung der Beratung von Menschen mit Behinderungen
 
 (1) Die Beratung durch Ärzte, denen eine Person nach § 33 vorgestellt wird, erstreckt sich auf geeignete Leistungen zur Teilhabe. Dabei weisen sie auf die Möglichkeit der Beratung durch die Beratungsstellen der Rehabilitationsträger hin und informieren über wohnortnahe Angebote zur Beratung nach § 32. Werdende Eltern werden außerdem auf den Beratungsanspruch bei den Schwangerschaftsberatungsstellen hingewiesen.
 
@@ -761,8 +724,7 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 (3) Nehmen medizinisches Personal außer Ärzten und Sozialarbeiter bei der Ausübung ihres Berufs Behinderungen bei volljährigen Personen wahr, empfehlen sie diesen Personen oder ihren bestellten Betreuern, eine Beratungsstelle für Rehabilitation oder eine ärztliche Beratung über geeignete Leistungen zur Teilhabe aufzusuchen.
 
-
-## § 35 – Landesärzte
+# § 35 – Landesärzte
 
 (1) In den Ländern können Landesärzte bestellt werden, die über besondere Erfahrungen in der Hilfe für Menschen mit Behinderungen und von Behinderung bedrohte Menschen verfügen.
 
@@ -774,8 +736,7 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 3. die für das Gesundheitswesen zuständigen Landesbehörden über Art und Ursachen von Behinderungen und notwendige Hilfen sowie über den Erfolg von Leistungen zur Teilhabe von Menschen mit Behinderungen und von Behinderung bedrohter Menschen regelmäßig zu unterrichten.
 
-
-## § 36 – Rehabilitationsdienste und -einrichtungen
+# § 36 – Rehabilitationsdienste und -einrichtungen
 
 (1) Die Rehabilitationsträger wirken gemeinsam unter Beteiligung der Bundesregierung und der Landesregierungen darauf hin, dass die fachlich und regional erforderlichen Rehabilitationsdienste und -einrichtungen in ausreichender Anzahl und Qualität zur Verfügung stehen. Dabei achten die Rehabilitationsträger darauf, dass für eine ausreichende Anzahl von Rehabilitationsdiensten und -einrichtungen keine Zugangs- und Kommunikationsbarrieren bestehen. Die Verbände von Menschen mit Behinderungen einschließlich der Verbände der Freien Wohlfahrtspflege, der Selbsthilfegruppen und der Interessenvertretungen von Frauen mit Behinderungen sowie die für die Wahrnehmung der Interessen der ambulanten und stationären Rehabilitationseinrichtungen auf Bundesebene maßgeblichen Spitzenverbände werden beteiligt.
 
@@ -785,8 +746,7 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 (4) Rehabilitationsdienste und -einrichtungen mit gleicher Aufgabenstellung sollen Arbeitsgemeinschaften bilden.
 
-
-## § 37 – Qualitätssicherung, Zertifizierung
+# § 37 – Qualitätssicherung, Zertifizierung
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5 vereinbaren gemeinsame Empfehlungen zur Sicherung und Weiterentwicklung der Qualität der Leistungen, insbesondere zur barrierefreien Leistungserbringung, sowie für die Durchführung vergleichender Qualitätsanalysen als Grundlage für ein effektives Qualitätsmanagement der Leistungserbringer. § 26 Absatz 4 ist entsprechend anzuwenden. Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 6 und 7 können den Empfehlungen beitreten.
 
@@ -802,8 +762,7 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 (+++ § 37 Abs 2: Zur Anwendung vgl. § 55 Abs. 5 +++)
 
-
-## § 38 – Verträge mit Leistungserbringern
+# § 38 – Verträge mit Leistungserbringern
 
 (1) Verträge mit Leistungserbringern müssen insbesondere folgende Regelungen über die Ausführung von Leistungen durch Rehabilitationsdienste und -einrichtungen, die nicht in der Trägerschaft eines Rehabilitationsträgers stehen, enthalten:
 
@@ -827,8 +786,7 @@ Eltern, Vormünder, Pfleger und Betreuer, die bei den ihnen anvertrauten Persone
 
 (4) Absatz 1 Nummer 1 und 3 bis 6 wird für eigene Einrichtungen der Rehabilitationsträger entsprechend angewendet.
 
-
-## § 39 – Aufgaben
+# § 39 – Aufgaben
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 1 bis 5 gestalten und organisieren die trägerübergreifende Zusammenarbeit zur einheitlichen personenzentrierten Gestaltung der Rehabilitation und der Leistungen zur Teilhabe im Rahmen einer Arbeitsgemeinschaft nach § 94 des Zehnten Buches. Sie trägt den Namen „Bundesarbeitsgemeinschaft für Rehabilitation“.
 
@@ -858,13 +816,11 @@ c) der Erhebung und Auswertung nicht personenbezogener Daten über Prozesse und 
 
 9. die Beobachtung und Bewertung der Forschung zur Rehabilitation sowie Durchführung trägerübergreifender Forschungsvorhaben.
 
-
-## § 40 – Rechtsaufsicht
+# § 40 – Rechtsaufsicht
 
 Die Bundesarbeitsgemeinschaft für Rehabilitation untersteht der Rechtsaufsicht des Bundesministeriums für Arbeit und Soziales.
 
-
-## § 41 – Teilhabeverfahrensbericht
+# § 41 – Teilhabeverfahrensbericht
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 erfassen
 
@@ -918,8 +874,7 @@ nicht eingehalten wurde,
 
 3. die Auswertungen über das Rehabilitationsgeschehen.
 
-
-## § 42 – Leistungen zur medizinischen Rehabilitation
+# § 42 – Leistungen zur medizinischen Rehabilitation
 
 (1) Zur medizinischen Rehabilitation von Menschen mit Behinderungen und von Behinderung bedrohter Menschen werden die erforderlichen Leistungen erbracht, um
 
@@ -959,23 +914,19 @@ nicht eingehalten wurde,
 
 7. die Anleitung und Motivation zur Inanspruchnahme von Leistungen der medizinischen Rehabilitation.
 
-
-## § 43 – Krankenbehandlung und Rehabilitation
+# § 43 – Krankenbehandlung und Rehabilitation
 
 Die in § 42 Absatz 1 genannten Ziele und § 12 Absatz 1 und 3 sowie § 19 gelten auch bei Leistungen der Krankenbehandlung.
 
-
-## § 44 – Stufenweise Wiedereingliederung
+# § 44 – Stufenweise Wiedereingliederung
 
 Können arbeitsunfähige Leistungsberechtigte nach ärztlicher Feststellung ihre bisherige Tätigkeit teilweise ausüben und können sie durch eine stufenweise Wiederaufnahme ihrer Tätigkeit voraussichtlich besser wieder in das Erwerbsleben eingegliedert werden, sollen die medizinischen und die sie ergänzenden Leistungen mit dieser Zielrichtung erbracht werden.
 
-
-## § 45 – Förderung der Selbsthilfe
+# § 45 – Förderung der Selbsthilfe
 
 Selbsthilfegruppen, Selbsthilfeorganisationen und Selbsthilfekontaktstellen, die sich die Prävention, Rehabilitation, Früherkennung, Beratung, Behandlung und Bewältigung von Krankheiten und Behinderungen zum Ziel gesetzt haben, sollen nach einheitlichen Grundsätzen gefördert werden. Die Daten der Rehabilitationsträger über Art und Höhe der Förderung der Selbsthilfe fließen in den Bericht der Bundesarbeitsgemeinschaft für Rehabilitation nach § 41 ein.
 
-
-## § 46 – Früherkennung und Frühförderung
+# § 46 – Früherkennung und Frühförderung
 
 (1) Die medizinischen Leistungen zur Früherkennung und Frühförderung für Kinder mit Behinderungen und von Behinderung bedrohte Kinder nach § 42 Absatz 2 Nummer 2 umfassen auch
 
@@ -1001,8 +952,7 @@ Selbsthilfegruppen, Selbsthilfeorganisationen und Selbsthilfekontaktstellen, die
 
 (6) Kommen Landesrahmenvereinbarungen nach Absatz 4 bis zum 31. Juli 2019 nicht zustande, sollen die Landesregierungen Regelungen durch Rechtsverordnung entsprechend Absatz 4 Nummer 1 bis 3 treffen.
 
-
-## § 47 – Hilfsmittel
+# § 47 – Hilfsmittel
 
 (1) Hilfsmittel (Körperersatzstücke sowie orthopädische und andere Hilfsmittel) nach § 42 Absatz 2 Nummer 6 umfassen die Hilfen, die von den Leistungsberechtigten getragen oder mitgeführt oder bei einem Wohnungswechsel mitgenommen werden können und unter Berücksichtigung der Umstände des Einzelfalles erforderlich sind, um
 
@@ -1022,8 +972,7 @@ Selbsthilfegruppen, Selbsthilfeorganisationen und Selbsthilfekontaktstellen, die
 
 (4) Hilfsmittel können auch leihweise überlassen werden. In diesem Fall gelten die Absätze 2 und 3 entsprechend.
 
-
-## § 48 – Verordnungsermächtigungen
+# § 48 – Verordnungsermächtigungen
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres zu regeln
 
@@ -1031,8 +980,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen
 
 2. zur Auswahl der im Einzelfall geeigneten Hilfsmittel, insbesondere zum Verfahren, zur Eignungsprüfung, Dokumentation und leihweisen Überlassung der Hilfsmittel sowie zur Zusammenarbeit der anderen Rehabilitationsträger mit den orthopädischen Versorgungsstellen.
 
-
-## § 49 – Leistungen zur Teilhabe am Arbeitsleben, Verordnungsermächtigung
+# § 49 – Leistungen zur Teilhabe am Arbeitsleben, Verordnungsermächtigung
 
 (1) Zur Teilhabe am Arbeitsleben werden die erforderlichen Leistungen erbracht, um die Erwerbsfähigkeit von Menschen mit Behinderungen oder von Behinderung bedrohter Menschen entsprechend ihrer Leistungsfähigkeit zu erhalten, zu verbessern, herzustellen oder wiederherzustellen und ihre Teilhabe am Arbeitsleben möglichst auf Dauer zu sichern.
 
@@ -1106,8 +1054,7 @@ Die Leistung nach Satz 1 Nummer 3 wird für die Dauer von bis zu drei Jahren bew
 
 (9) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates Näheres über Voraussetzungen, Gegenstand und Umfang der Leistungen der Kraftfahrzeughilfe zur Teilhabe am Arbeitsleben regeln.
 
-
-## § 50 – Leistungen an Arbeitgeber
+# § 50 – Leistungen an Arbeitgeber
 
 (1) Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 2 bis 5 können Leistungen zur Teilhabe am Arbeitsleben auch an Arbeitgeber erbringen, insbesondere als
 
@@ -1131,8 +1078,7 @@ Die Leistung nach Satz 1 Nummer 3 wird für die Dauer von bis zu drei Jahren bew
 
 Die Rückzahlung ist auf die Hälfte des Förderungsbetrages, höchstens aber den im letzten Jahr vor der Beendigung des Beschäftigungsverhältnisses gewährten Förderungsbetrag begrenzt; nicht geförderte Nachbeschäftigungszeiten werden anteilig berücksichtigt.
 
-
-## § 51 – Einrichtungen der beruflichen Rehabilitation
+# § 51 – Einrichtungen der beruflichen Rehabilitation
 
 (1) Leistungen werden durch Berufsbildungswerke, Berufsförderungswerke und vergleichbare Einrichtungen der beruflichen Rehabilitation ausgeführt, wenn Art oder Schwere der Behinderung der Leistungsberechtigten oder die Sicherung des Erfolges die besonderen Hilfen dieser Einrichtungen erforderlich machen. Die Einrichtung muss
 
@@ -1150,25 +1096,21 @@ Die zuständigen Rehabilitationsträger vereinbaren hierüber gemeinsame Empfehl
 
 (+++ § 51 Abs. 1 Satz 2 Nr. 4: Zur Anwendung vgl. § 36 Abs. 2 Satz 3 +++)
 
-
-## § 52 – Rechtsstellung der Teilnehmenden
+# § 52 – Rechtsstellung der Teilnehmenden
 
 Werden Leistungen in Einrichtungen der beruflichen Rehabilitation ausgeführt, werden die Teilnehmenden nicht in den Betrieb der Einrichtungen eingegliedert. Sie sind keine Arbeitnehmer im Sinne des Betriebsverfassungsgesetzes und wählen zu ihrer Mitwirkung besondere Vertreter. Bei der Ausführung werden die arbeitsrechtlichen Grundsätze über den Persönlichkeitsschutz, die Haftungsbeschränkung sowie die gesetzlichen Vorschriften über den Arbeitsschutz, den Schutz vor Diskriminierungen in Beschäftigung und Beruf, den Erholungsurlaub und die Gleichberechtigung von Männern und Frauen entsprechend angewendet.
 
-
-## § 53 – Dauer von Leistungen
+# § 53 – Dauer von Leistungen
 
 (1) Leistungen werden für die Zeit erbracht, die vorgeschrieben oder allgemein üblich ist, um das angestrebte Teilhabeziel zu erreichen. Eine Förderung kann darüber hinaus erfolgen, wenn besondere Umstände dies rechtfertigen.
 
 (2) Leistungen zur beruflichen Weiterbildung sollen in der Regel bei ganztägigem Unterricht nicht länger als zwei Jahre dauern, es sei denn, dass das Teilhabeziel nur über eine länger andauernde Leistung erreicht werden kann oder die Eingliederungsaussichten nur durch eine länger andauernde Leistung wesentlich verbessert werden. Abweichend von Satz 1 erster Teilsatz sollen Leistungen zur beruflichen Weiterbildung, die zu einem Abschluss in einem allgemein anerkannten Ausbildungsberuf führen und für die eine allgemeine Ausbildungsdauer von mehr als zwei Jahren vorgeschrieben ist, nicht länger als zwei Drittel der üblichen Ausbildungszeit dauern.
 
-
-## § 54 – Beteiligung der Bundesagentur für Arbeit
+# § 54 – Beteiligung der Bundesagentur für Arbeit
 
 Die Bundesagentur für Arbeit nimmt auf Anforderung eines anderen Rehabilitationsträgers gutachterlich Stellung zu Notwendigkeit, Art und Umfang von Leistungen unter Berücksichtigung arbeitsmarktlicher Zweckmäßigkeit. Dies gilt auch, wenn sich die Leistungsberechtigten in einem Krankenhaus oder einer Einrichtung der medizinischen oder der medizinisch-beruflichen Rehabilitation aufhalten.
 
-
-## § 55 – Unterstützte Beschäftigung
+# § 55 – Unterstützte Beschäftigung
 
 (1) Ziel der Unterstützten Beschäftigung ist es, Leistungsberechtigten mit besonderem Unterstützungsbedarf eine angemessene, geeignete und sozialversicherungspflichtige Beschäftigung zu ermöglichen und zu erhalten. Unterstützte Beschäftigung umfasst eine individuelle betriebliche Qualifizierung und bei Bedarf Berufsbegleitung.
 
@@ -1190,13 +1132,11 @@ Die Bundesagentur für Arbeit nimmt auf Anforderung eines anderen Rehabilitation
 
 (6) Zur Konkretisierung und Weiterentwicklung der in Absatz 5 genannten Qualitätsanforderungen vereinbaren die Rehabilitationsträger nach § 6 Absatz 1 Nummer 2 bis 5 sowie die Bundesarbeitsgemeinschaft der Integrationsämter und Hauptfürsorgestellen im Rahmen der Bundesarbeitsgemeinschaft für Rehabilitation eine gemeinsame Empfehlung. Die gemeinsame Empfehlung kann auch Ausführungen zu möglichen Leistungsinhalten und zur Zusammenarbeit enthalten. § 26 Absatz 4, 6 und 7 sowie § 27 gelten entsprechend.
 
-
-## § 56 – Leistungen in Werkstätten für behinderte Menschen
+# § 56 – Leistungen in Werkstätten für behinderte Menschen
 
 Leistungen in anerkannten Werkstätten für behinderte Menschen (§ 219) werden erbracht, um die Leistungs- oder Erwerbsfähigkeit der Menschen mit Behinderungen zu erhalten, zu entwickeln, zu verbessern oder wiederherzustellen, die Persönlichkeit dieser Menschen weiterzuentwickeln und ihre Beschäftigung zu ermöglichen oder zu sichern.
 
-
-## § 57 – Leistungen im Eingangsverfahren und im Berufsbildungsbereich
+# § 57 – Leistungen im Eingangsverfahren und im Berufsbildungsbereich
 
 (1) Leistungen im Eingangsverfahren und im Berufsbildungsbereich einer anerkannten Werkstatt für behinderte Menschen erhalten Menschen mit Behinderungen
 
@@ -1210,8 +1150,7 @@ Leistungen in anerkannten Werkstätten für behinderte Menschen (§ 219) werden 
 
 (4) Zeiten der individuellen betrieblichen Qualifizierung im Rahmen einer Unterstützten Beschäftigung nach § 55 werden zur Hälfte auf die Dauer des Berufsbildungsbereichs angerechnet. Allerdings dürfen die Zeiten individueller betrieblicher Qualifizierung und die Zeiten des Berufsbildungsbereichs insgesamt nicht mehr als 36 Monate betragen.
 
-
-## § 58 – Leistungen im Arbeitsbereich
+# § 58 – Leistungen im Arbeitsbereich
 
 (1) Leistungen im Arbeitsbereich einer anerkannten Werkstatt für behinderte Menschen erhalten Menschen mit Behinderungen, bei denen wegen Art oder Schwere der Behinderung
 
@@ -1239,15 +1178,13 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 (4) Bei der Ermittlung des Arbeitsergebnisses der Werkstatt nach § 12 Absatz 4 der Werkstättenverordnung werden die Auswirkungen der Vergütungen auf die Höhe des Arbeitsergebnisses dargestellt. Dabei wird getrennt ausgewiesen, ob sich durch die Vergütung Verluste oder Gewinne ergeben. Das Arbeitsergebnis der Werkstatt darf nicht zur Minderung der Vergütungen nach Absatz 3 verwendet werden.
 
-
-## § 59 – Arbeitsförderungsgeld
+# § 59 – Arbeitsförderungsgeld
 
 (1) Die Werkstätten für behinderte Menschen erhalten von dem zuständigen Rehabilitationsträger zur Auszahlung an die im Arbeitsbereich beschäftigten Menschen mit Behinderungen zusätzlich zu den Vergütungen nach § 58 Absatz 3 ein Arbeitsförderungsgeld. Das Arbeitsförderungsgeld beträgt monatlich 52 Euro für jeden im Arbeitsbereich beschäftigten Menschen mit Behinderungen, dessen Arbeitsentgelt zusammen mit dem Arbeitsförderungsgeld den Betrag von 351 Euro nicht übersteigt. Ist das Arbeitsentgelt höher als 299 Euro, beträgt das Arbeitsförderungsgeld monatlich den Differenzbetrag zwischen dem Arbeitsentgelt und 351 Euro.
 
 (2) Das Arbeitsförderungsgeld bleibt bei Sozialleistungen, deren Zahlung von anderen Einkommen abhängig ist, als Einkommen unberücksichtigt.
 
-
-## § 60 – Andere Leistungsanbieter
+# § 60 – Andere Leistungsanbieter
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach den §§ 57 und 58 haben, können diese auch bei einem anderen Leistungsanbieter in Anspruch nehmen.
 
@@ -1273,8 +1210,7 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 (4) Für das Rechtsverhältnis zwischen dem anderen Leistungsanbieter und dem Menschen mit Behinderungen gilt § 221 entsprechend.
 
-
-## § 61 – Budget für Arbeit
+# § 61 – Budget für Arbeit
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 58 haben und denen von einem privaten oder öffentlichen Arbeitgeber ein sozialversicherungspflichtiges Arbeitsverhältnis mit einer tarifvertraglichen oder ortsüblichen Entlohnung angeboten wird, erhalten mit Abschluss dieses Arbeitsvertrages als Leistungen zur Teilhabe am Arbeitsleben ein Budget für Arbeit.
 
@@ -1286,8 +1222,7 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 (5) Eine Verpflichtung des Leistungsträgers, Leistungen zur Beschäftigung bei privaten oder öffentlichen Arbeitgebern zu ermöglichen, besteht nicht.
 
-
-## § 61a – Budget für Ausbildung
+# § 61a – Budget für Ausbildung
 
 (1) Menschen mit Behinderungen, die Anspruch auf Leistungen nach § 57 haben und denen von einem privaten oder öffentlichen Arbeitgeber ein sozialversicherungspflichtiges Ausbildungsverhältnis in einem anerkannten Ausbildungsberuf oder in einem Ausbildungsgang nach § 66 des Berufsbildungsgesetzes oder § 42m der Handwerksordnung angeboten wird, erhalten mit Abschluss des Vertrages über dieses Ausbildungsverhältnis als Leistungen zur Teilhabe am Arbeitsleben ein Budget für Ausbildung. Das Budget für Ausbildung wird von den Leistungsträgern nach § 63 Absatz 1 erbracht.
 
@@ -1299,15 +1234,13 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 (5) Der zuständige Leistungsträger soll den Menschen mit Behinderungen bei der Suche nach einem geeigneten Ausbildungsplatz im Sinne von Absatz 1 unterstützen.
 
-
-## § 62 – Wahlrecht des Menschen mit Behinderungen
+# § 62 – Wahlrecht des Menschen mit Behinderungen
 
 (1) Auf Wunsch des Menschen mit Behinderungen werden die Leistungen nach den §§ 57 und 58 von einer nach § 225 anerkannten Werkstatt für behinderte Menschen, von dieser zusammen mit einem oder mehreren anderen Leistungsanbietern oder von einem oder mehreren anderen Leistungsanbietern erbracht.
 
 (2) Werden Teile einer Leistung im Verantwortungsbereich einer Werkstatt für behinderte Menschen oder eines anderen Leistungsanbieters erbracht, so bedarf die Leistungserbringung der Zustimmung des unmittelbar verantwortlichen Leistungsanbieters.
 
-
-## § 63 – Zuständigkeit nach den Leistungsgesetzen
+# § 63 – Zuständigkeit nach den Leistungsgesetzen
 
 (1) Die Leistungen im Eingangsverfahren und im Berufsbildungsbereich einer anerkannten Werkstatt für behinderte Menschen erbringen
 
@@ -1331,8 +1264,7 @@ Können die Kosten der Werkstatt nach Satz 2 Nummer 2 im Einzelfall nicht ermitt
 
 (3) Absatz 1 gilt auch für die Leistungen zur beruflichen Bildung bei einem anderen Leistungsanbieter sowie für die Leistung des Budgets für Ausbildung. Absatz 2 gilt auch für die Leistungen zur Beschäftigung bei einem anderen Leistungsanbieter sowie die Leistung des Budgets für Arbeit.
 
-
-## § 64 – Ergänzende Leistungen
+# § 64 – Ergänzende Leistungen
 
 (1) Die Leistungen zur medizinischen Rehabilitation und zur Teilhabe am Arbeitsleben der in § 6 Absatz 1 Nummer 1 bis 5 genannten Rehabilitationsträger werden ergänzt durch
 
@@ -1360,8 +1292,7 @@ e) zur Pflegeversicherung nach Maßgabe des Elften Buches,
 
 (2) Ist der Schutz von Menschen mit Behinderungen bei Krankheit oder Pflege während der Teilnahme an Leistungen zur Teilhabe am Arbeitsleben nicht anderweitig sichergestellt, können die Beiträge für eine freiwillige Krankenversicherung ohne Anspruch auf Krankengeld und zur Pflegeversicherung bei einem Träger der gesetzlichen Kranken- oder Pflegeversicherung oder, wenn dort im Einzelfall ein Schutz nicht gewährleistet ist, die Beiträge zu einem privaten Krankenversicherungsunternehmen erbracht werden. Arbeitslose Teilnehmer an Leistungen zur medizinischen Rehabilitation können für die Dauer des Bezuges von Verletztengeld, Versorgungskrankengeld oder Übergangsgeld einen Zuschuss zu ihrem Beitrag für eine private Versicherung gegen Krankheit oder für die Pflegeversicherung erhalten. Der Zuschuss wird nach § 174 Absatz 2 des Dritten Buches berechnet.
 
-
-## § 65 – Leistungen zum Lebensunterhalt
+# § 65 – Leistungen zum Lebensunterhalt
 
 (1) Im Zusammenhang mit Leistungen zur medizinischen Rehabilitation leisten
 
@@ -1397,8 +1328,7 @@ e) zur Pflegeversicherung nach Maßgabe des Elften Buches,
 
 (7) Das Krankengeld, das Versorgungskrankengeld, das Verletztengeld und das Übergangsgeld werden für Kalendertage gezahlt; wird die Leistung für einen ganzen Kalendermonat gezahlt, so wird dieser mit 30 Tagen angesetzt.
 
-
-## § 66 – Höhe und Berechnung des Übergangsgelds
+# § 66 – Höhe und Berechnung des Übergangsgelds
 
 (1) Der Berechnung des Übergangsgelds werden 80 Prozent des erzielten regelmäßigen Arbeitsentgelts und Arbeitseinkommens, soweit es der Beitragsberechnung unterliegt (Regelentgelt), zugrunde gelegt, höchstens jedoch das in entsprechender Anwendung des § 67 berechnete Nettoarbeitsentgelt; als Obergrenze gilt die für den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze. Bei der Berechnung des Regelentgelts und des Nettoarbeitsentgelts werden die für die jeweilige Beitragsbemessung und Beitragstragung geltenden Besonderheiten des Übergangsbereichs nach § 20 Absatz 2 des Vierten Buches nicht berücksichtigt. Das Übergangsgeld beträgt
 
@@ -1416,8 +1346,7 @@ Leisten Träger der Kriegsopferfürsorge Übergangsgeld, beträgt das Übergangs
 
 (2) Das Nettoarbeitsentgelt nach Absatz 1 Satz 1 berechnet sich, indem der Anteil am Nettoarbeitsentgelt, der sich aus dem kalendertäglichen Hinzurechnungsbetrag nach § 67 Absatz 1 Satz 6 ergibt, mit dem Prozentsatz angesetzt wird, der sich aus dem Verhältnis des kalendertäglichen Regelentgeltbetrages nach § 67 Absatz 1 Satz 1 bis 5 zu dem sich aus diesem Regelentgeltbetrag ergebenden Nettoarbeitsentgelt ergibt. Das kalendertägliche Übergangsgeld darf das kalendertägliche Nettoarbeitsentgelt, das sich aus dem Arbeitsentgelt nach § 67 Absatz 1 Satz 1 bis 5 ergibt, nicht übersteigen.
 
-
-## § 67 – Berechnung des Regelentgelts
+# § 67 – Berechnung des Regelentgelts
 
 (1) Für die Berechnung des Regelentgelts wird das von den Leistungsempfängern im letzten vor Beginn der Leistung oder einer vorangegangenen Arbeitsunfähigkeit abgerechneten Entgeltabrechnungszeitraum, mindestens das während der letzten abgerechneten vier Wochen (Bemessungszeitraum) erzielte und um einmalig gezahltes Arbeitsentgelt verminderte Arbeitsentgelt durch die Zahl der Stunden geteilt, für die es gezahlt wurde. Das Ergebnis wird mit der Zahl der sich aus dem Inhalt des Arbeitsverhältnisses ergebenden regelmäßigen wöchentlichen Arbeitsstunden vervielfacht und durch sieben geteilt. Ist das Arbeitsentgelt nach Monaten bemessen oder ist eine Berechnung des Regelentgelts nach den Sätzen 1 und 2 nicht möglich, gilt der 30. Teil des in dem letzten vor Beginn der Leistung abgerechneten Kalendermonat erzielten und um einmalig gezahltes Arbeitsentgelt verminderten Arbeitsentgelts als Regelentgelt. Wird mit einer Arbeitsleistung Arbeitsentgelt erzielt, das für Zeiten einer Freistellung vor oder nach dieser Arbeitsleistung fällig wird (Wertguthaben nach § 7b des Vierten Buches), ist für die Berechnung des Regelentgelts das im Bemessungszeitraum der Beitragsberechnung zugrunde liegende und um einmalig gezahltes Arbeitsentgelt verminderte Arbeitsentgelt maßgebend; Wertguthaben, die nicht nach einer Vereinbarung über flexible Arbeitszeitregelungen verwendet werden (§ 23b Absatz 2 des Vierten Buches), bleiben außer Betracht. Bei der Anwendung des Satzes 1 gilt als regelmäßige wöchentliche Arbeitszeit die Arbeitszeit, die dem gezahlten Arbeitsentgelt entspricht. Für die Berechnung des Regelentgelts wird der 360. Teil des einmalig gezahlten Arbeitsentgelts, das in den letzten zwölf Kalendermonaten vor Beginn der Leistung nach § 23a des Vierten Buches der Beitragsberechnung zugrunde gelegen hat, dem nach den Sätzen 1 bis 5 berechneten Arbeitsentgelt hinzugerechnet.
 
@@ -1429,8 +1358,7 @@ Leisten Träger der Kriegsopferfürsorge Übergangsgeld, beträgt das Übergangs
 
 (5) Für Leistungsempfänger, die im Inland nicht einkommensteuerpflichtig sind, werden für die Feststellung des entgangenen Nettoarbeitsentgelts die Steuern berücksichtigt, die bei einer Steuerpflicht im Inland durch Abzug vom Arbeitsentgelt erhoben würden.
 
-
-## § 68 – Berechnungsgrundlage in Sonderfällen
+# § 68 – Berechnungsgrundlage in Sonderfällen
 
 (1) Für die Berechnung des Übergangsgeldes während des Bezuges von Leistungen zur Teilhabe am Arbeitsleben werden 65 Prozent eines fiktiven Arbeitsentgelts zugrunde gelegt, wenn
 
@@ -1452,13 +1380,11 @@ Leisten Träger der Kriegsopferfürsorge Übergangsgeld, beträgt das Übergangs
 
 Maßgebend ist die Bezugsgröße, die für den Wohnsitz oder für den gewöhnlichen Aufenthaltsort der Leistungsempfänger im letzten Kalendermonat vor dem Beginn der Leistung gilt.
 
-
-## § 69 – Kontinuität der Bemessungsgrundlage
+# § 69 – Kontinuität der Bemessungsgrundlage
 
 Haben Leistungsempfänger Krankengeld, Verletztengeld, Versorgungskrankengeld oder Übergangsgeld bezogen und wird im Anschluss daran eine Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben ausgeführt, so wird bei der Berechnung der diese Leistungen ergänzenden Leistung zum Lebensunterhalt von dem bisher zugrunde gelegten Arbeitsentgelt ausgegangen; es gilt die für den Rehabilitationsträger jeweils geltende Beitragsbemessungsgrenze.
 
-
-## § 70 – Anpassung der Entgeltersatzleistungen
+# § 70 – Anpassung der Entgeltersatzleistungen
 
 (1) Die Berechnungsgrundlage, die dem Krankengeld, dem Versorgungskrankengeld, dem Verletztengeld und dem Übergangsgeld zugrunde liegt, wird jeweils nach Ablauf eines Jahres ab dem Ende des Bemessungszeitraums an die Entwicklung der Bruttoarbeitsentgelte angepasst und zwar entsprechend der Veränderung der Bruttolöhne und -gehälter je Arbeitnehmer (§ 68 Absatz 2 Satz 1 des Sechsten Buches) vom vorvergangenen zum vergangenen Kalenderjahr.
 
@@ -1468,8 +1394,7 @@ Haben Leistungsempfänger Krankengeld, Verletztengeld, Versorgungskrankengeld od
 
 (4) Das Bundesministerium für Arbeit und Soziales gibt jeweils zum 30. Juni eines Kalenderjahres den Anpassungsfaktor, der für die folgenden zwölf Monate maßgebend ist, im Bundesanzeiger bekannt.
 
-
-## § 71 – Weiterzahlung der Leistungen
+# § 71 – Weiterzahlung der Leistungen
 
 (1) Sind nach Abschluss von Leistungen zur medizinischen Rehabilitation oder von Leistungen zur Teilhabe am Arbeitsleben weitere Leistungen zur Teilhabe am Arbeitsleben erforderlich, während derer dem Grunde nach Anspruch auf Übergangsgeld besteht, und können diese Leistungen aus Gründen, die die Leistungsempfänger nicht zu vertreten haben, nicht unmittelbar anschließend durchgeführt werden, werden das Verletztengeld, das Versorgungskrankengeld oder das Übergangsgeld für diese Zeit weitergezahlt. Voraussetzung für die Weiterzahlung ist, dass
 
@@ -1491,8 +1416,7 @@ des sich aus § 66 Absatz 1 Satz 1 oder § 68 ergebenden Betrages.
 
 (5) Ist im unmittelbaren Anschluss an Leistungen zur medizinischen Rehabilitation eine stufenweise Wiedereingliederung (§ 44) erforderlich, wird das Übergangsgeld bis zum Ende der Wiedereingliederung weitergezahlt.
 
-
-## § 72 – Einkommensanrechnung
+# § 72 – Einkommensanrechnung
 
 (1) Auf das Übergangsgeld der Rehabilitationsträger nach § 6 Absatz 1 Nummer 2, 4 und 5 wird Folgendes angerechnet:
 
@@ -1516,8 +1440,7 @@ des sich aus § 66 Absatz 1 Satz 1 oder § 68 ergebenden Betrages.
 
 (3) Wird ein Anspruch auf Leistungen, um die das Übergangsgeld nach Absatz 1 Nummer 3 zu kürzen wäre, nicht erfüllt, geht der Anspruch insoweit mit Zahlung des Übergangsgeldes auf den Rehabilitationsträger über; die §§ 104 und 115 des Zehnten Buches bleiben unberührt.
 
-
-## § 73 – Reisekosten
+# § 73 – Reisekosten
 
 (1) Als Reisekosten werden die erforderlichen Fahr-, Verpflegungs- und Übernachtungskosten übernommen, die im Zusammenhang mit der Ausführung einer Leistung zur medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben stehen. Zu den Reisekosten gehören auch die Kosten
 
@@ -1535,8 +1458,7 @@ des sich aus § 66 Absatz 1 Satz 1 oder § 68 ergebenden Betrages.
 
 (4) Fahrkosten werden in Höhe des Betrages zugrunde gelegt, der bei Benutzung eines regelmäßig verkehrenden öffentlichen Verkehrsmittels der niedrigsten Beförderungsklasse des zweckmäßigsten öffentlichen Verkehrsmittels zu zahlen ist, bei Benutzung sonstiger Verkehrsmittel in Höhe der Wegstreckenentschädigung nach § 5 Absatz 1 des Bundesreisekostengesetzes. Bei Fahrpreiserhöhungen, die nicht geringfügig sind, hat auf Antrag des Leistungsempfängers eine Anpassung der Fahrkostenentschädigung zu erfolgen, wenn die Maßnahme noch mindestens zwei weitere Monate andauert. Kosten für Pendelfahrten können nur bis zur Höhe des Betrages übernommen werden, der unter Berücksichtigung von Art und Schwere der Behinderung bei einer zumutbaren auswärtigen Unterbringung für Unterbringung und Verpflegung zu leisten wäre.
 
-
-## § 74 – Haushalts- oder Betriebshilfe und Kinderbetreuungskosten
+# § 74 – Haushalts- oder Betriebshilfe und Kinderbetreuungskosten
 
 (1) Haushaltshilfe wird geleistet, wenn
 
@@ -1561,8 +1483,7 @@ des sich aus § 66 Absatz 1 Satz 1 oder § 68 ergebenden Betrages.
     ab dem 1.1.2021 vgl. Nr. 3 Bek. 860-9-1-3-3 v. 19.11.2020 BAnz AT 30.11.2020 B1
      (SGB92018§§160Abs3ua/WMVO§39Abs4Bek) +++) 
 
-
-## § 75 – Leistungen zur Teilhabe an Bildung
+# § 75 – Leistungen zur Teilhabe an Bildung
 
 (1) Zur Teilhabe an Bildung werden unterstützende Leistungen erbracht, die erforderlich sind, damit Menschen mit Behinderungen Bildungsangebote gleichberechtigt wahrnehmen können.
 
@@ -1578,8 +1499,7 @@ des sich aus § 66 Absatz 1 Satz 1 oder § 68 ergebenden Betrages.
 
 Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 3 erbringen ihre Leistungen unter den Voraussetzungen und im Umfang der Bestimmungen des Siebten Buches als Leistungen zur Teilhabe am Arbeitsleben oder zur Teilhabe am Leben in der Gemeinschaft.
 
-
-## § 76 – Leistungen zur Sozialen Teilhabe
+# § 76 – Leistungen zur Sozialen Teilhabe
 
 (1) Leistungen zur Sozialen Teilhabe werden erbracht, um eine gleichberechtigte Teilhabe am Leben in der Gemeinschaft zu ermöglichen oder zu erleichtern, soweit sie nicht nach den Kapiteln 9 bis 12 erbracht werden. Hierzu gehört, Leistungsberechtigte zu einer möglichst selbstbestimmten und eigenverantwortlichen Lebensführung im eigenen Wohnraum sowie in ihrem Sozialraum zu befähigen oder sie hierbei zu unterstützen. Maßgeblich sind die Ermittlungen und Feststellungen nach den Kapiteln 3 und 4.
 
@@ -1601,15 +1521,13 @@ Die Rehabilitationsträger nach § 6 Absatz 1 Nummer 3 erbringen ihre Leistungen
 
 8. Hilfsmittel.
 
-
-## § 77 – Leistungen für Wohnraum
+# § 77 – Leistungen für Wohnraum
 
 (1) Leistungen für Wohnraum werden erbracht, um Leistungsberechtigten zu Wohnraum zu verhelfen, der zur Führung eines möglichst selbstbestimmten, eigenverantwortlichen Lebens geeignet ist. Die Leistungen umfassen Leistungen für die Beschaffung, den Umbau, die Ausstattung und die Erhaltung von Wohnraum, der den besonderen Bedürfnissen von Menschen mit Behinderungen entspricht.
 
 (2) Aufwendungen für Wohnraum oberhalb der Angemessenheitsgrenze nach § 42a des Zwölften Buches sind zu erstatten, soweit wegen des Umfangs von Assistenzleistungen ein gesteigerter Wohnraumbedarf besteht.
 
-
-## § 78 – Assistenzleistungen
+# § 78 – Assistenzleistungen
 
 (1) Zur selbstbestimmten und eigenständigen Bewältigung des Alltages einschließlich der Tagesstrukturierung werden Leistungen für Assistenz erbracht. Sie umfassen insbesondere Leistungen für die allgemeinen Erledigungen des Alltags wie die Haushaltsführung, die Gestaltung sozialer Beziehungen, die persönliche Lebensplanung, die Teilhabe am gemeinschaftlichen und kulturellen Leben, die Freizeitgestaltung einschließlich sportlicher Aktivitäten sowie die Sicherstellung der Wirksamkeit der ärztlichen und ärztlich verordneten Leistungen. Sie beinhalten die Verständigung mit der Umwelt in diesen Bereichen.
 
@@ -1629,8 +1547,7 @@ Die Leistungen nach Nummer 2 werden von Fachkräften als qualifizierte Assistenz
 
 (6) Leistungen zur Erreichbarkeit einer Ansprechperson unabhängig von einer konkreten Inanspruchnahme werden erbracht, soweit dies nach den Besonderheiten des Einzelfalles erforderlich ist.
 
-
-## § 79 – Heilpädagogische Leistungen
+# § 79 – Heilpädagogische Leistungen
 
 (1) Heilpädagogische Leistungen werden an noch nicht eingeschulte Kinder erbracht, wenn nach fachlicher Erkenntnis zu erwarten ist, dass hierdurch
 
@@ -1644,23 +1561,19 @@ Heilpädagogische Leistungen werden immer an schwerstbehinderte und schwerstmehr
 
 (3) In Verbindung mit Leistungen zur Früherkennung und Frühförderung nach § 46 Absatz 3 werden heilpädagogische Leistungen als Komplexleistung erbracht. Die Vorschriften der Verordnung zur Früherkennung und Frühförderung behinderter und von Behinderung bedrohter Kinder finden Anwendung. In Verbindung mit schulvorbereitenden Maßnahmen der Schulträger werden die Leistungen ebenfalls als Komplexleistung erbracht.
 
-
-## § 80 – Leistungen zur Betreuung in einer Pflegefamilie
+# § 80 – Leistungen zur Betreuung in einer Pflegefamilie
 
 Leistungen zur Betreuung in einer Pflegefamilie werden erbracht, um Leistungsberechtigten die Betreuung in einer anderen Familie als der Herkunftsfamilie durch eine geeignete Pflegeperson zu ermöglichen. Bei minderjährigen Leistungsberechtigten bedarf die Pflegeperson der Erlaubnis nach § 44 des Achten Buches. Bei volljährigen Leistungsberechtigten gilt § 44 des Achten Buches entsprechend. Die Regelungen über Verträge mit Leistungserbringern bleiben unberührt.
 
-
-## § 81 – Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten
+# § 81 – Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten
 
 Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten werden erbracht, um Leistungsberechtigten die für sie erreichbare Teilhabe am Leben in der Gemeinschaft zu ermöglichen. Die Leistungen sind insbesondere darauf gerichtet, die Leistungsberechtigten in Fördergruppen und Schulungen oder ähnlichen Maßnahmen zur Vornahme lebenspraktischer Handlungen einschließlich hauswirtschaftlicher Tätigkeiten zu befähigen, sie auf die Teilhabe am Arbeitsleben vorzubereiten, ihre Sprache und Kommunikation zu verbessern und sie zu befähigen, sich ohne fremde Hilfe sicher im Verkehr zu bewegen. Die Leistungen umfassen auch die blindentechnische Grundausbildung.
 
-
-## § 82 – Leistungen zur Förderung der Verständigung
+# § 82 – Leistungen zur Förderung der Verständigung
 
 Leistungen zur Förderung der Verständigung werden erbracht, um Leistungsberechtigten mit Hör- und Sprachbehinderungen die Verständigung mit der Umwelt aus besonderem Anlass zu ermöglichen oder zu erleichtern. Die Leistungen umfassen insbesondere Hilfen durch Gebärdensprachdolmetscher und andere geeignete Kommunikationshilfen. § 17 Absatz 2 des Ersten Buches bleibt unberührt.
 
-
-## § 83 – Leistungen zur Mobilität
+# § 83 – Leistungen zur Mobilität
 
 (1) Leistungen zur Mobilität umfassen
 
@@ -1688,8 +1601,7 @@ Die Bemessung der Leistungen orientiert sich an der Kraftfahrzeughilfe-Verordnun
 
 (+++ § 83: Zur Anwendung vgl. § 114 +++)
 
-
-## § 84 – Hilfsmittel
+# § 84 – Hilfsmittel
 
 (1) Die Leistungen umfassen Hilfsmittel, die erforderlich sind, um eine durch die Behinderung bestehende Einschränkung einer gleichberechtigten Teilhabe am Leben in der Gemeinschaft auszugleichen. Hierzu gehören insbesondere barrierefreie Computer.
 
@@ -1697,13 +1609,11 @@ Die Bemessung der Leistungen orientiert sich an der Kraftfahrzeughilfe-Verordnun
 
 (3) Soweit es im Einzelfall erforderlich ist, werden Leistungen für eine Doppelausstattung erbracht.
 
-
-## § 85 – Klagerecht der Verbände
+# § 85 – Klagerecht der Verbände
 
 Werden Menschen mit Behinderungen in ihren Rechten nach diesem Buch verletzt, können an ihrer Stelle und mit ihrem Einverständnis Verbände klagen, die nach ihrer Satzung Menschen mit Behinderungen auf Bundes- oder Landesebene vertreten und nicht selbst am Prozess beteiligt sind. In diesem Fall müssen alle Verfahrensvoraussetzungen wie bei einem Rechtsschutzersuchen durch den Menschen mit Behinderungen selbst vorliegen.
 
-
-## § 86 – Beirat für die Teilhabe von Menschen mit Behinderungen
+# § 86 – Beirat für die Teilhabe von Menschen mit Behinderungen
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Beirat für die Teilhabe von Menschen mit Behinderungen gebildet, der das Bundesministerium für Arbeit und Soziales in Fragen der Teilhabe von Menschen mit Behinderungen berät und bei Aufgaben der Koordinierung unterstützt. Zu den Aufgaben des Beirats gehören insbesondere auch
 
@@ -1751,25 +1661,21 @@ Das Bundesministerium für Arbeit und Soziales trifft Entscheidungen über die V
 
 Für jedes Mitglied ist ein stellvertretendes Mitglied zu berufen.
 
-
-## § 87 – Verfahren des Beirats
+# § 87 – Verfahren des Beirats
 
 Der Beirat für die Teilhabe von Menschen mit Behinderungen wählt aus den ihm angehörenden Mitgliedern von Seiten der Arbeitnehmer, Arbeitgeber und Organisationen behinderter Menschen jeweils für die Dauer eines Jahres eine Vorsitzende oder einen Vorsitzenden und eine Stellvertreterin oder einen Stellvertreter. Im Übrigen gilt § 189 entsprechend.
 
-
-## § 88 – Berichte über die Lage von Menschen mit Behinderungen und die Entwicklung ihrer Teilhabe
+# § 88 – Berichte über die Lage von Menschen mit Behinderungen und die Entwicklung ihrer Teilhabe
 
 (1) Die Bundesregierung berichtet den gesetzgebenden Körperschaften des Bundes einmal in der Legislaturperiode, mindestens jedoch alle vier Jahre, über die Lebenslagen der Menschen mit Behinderungen und der von Behinderung bedrohten Menschen sowie über die Entwicklung ihrer Teilhabe am Arbeitsleben und am Leben in der Gesellschaft. Die Berichterstattung zu den Lebenslagen umfasst Querschnittsthemen wie Gender Mainstreaming, Migration, Alter, Barrierefreiheit, Diskriminierung, Assistenzbedarf und Armut. Gegenstand des Berichts sind auch Forschungsergebnisse über Wirtschaftlichkeit und Wirksamkeit staatlicher Maßnahmen und der Leistungen der Rehabilitationsträger für die Zielgruppen des Berichts.
 
 (2) Die Verbände der Menschen mit Behinderungen werden an der Weiterentwicklung des Berichtskonzeptes beteiligt.
 
-
-## § 89 – Verordnungsermächtigung
+# § 89 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Vorschriften über die Geschäftsführung und das Verfahren des Beirats nach § 87 erlassen.
 
-
-## § 90 – Aufgabe der Eingliederungshilfe
+# § 90 – Aufgabe der Eingliederungshilfe
 
 (1) Aufgabe der Eingliederungshilfe ist es, Leistungsberechtigten eine individuelle Lebensführung zu ermöglichen, die der Würde des Menschen entspricht, und die volle, wirksame und gleichberechtigte Teilhabe am Leben in der Gesellschaft zu fördern. Die Leistung soll sie befähigen, ihre Lebensplanung und -führung möglichst selbstbestimmt und eigenverantwortlich wahrnehmen zu können.
 
@@ -1781,8 +1687,7 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 
 (5) Besondere Aufgabe der Sozialen Teilhabe ist es, die gleichberechtigte Teilhabe am Leben in der Gemeinschaft zu ermöglichen oder zu erleichtern.
 
-
-## § 91 – Nachrang der Eingliederungshilfe
+# § 91 – Nachrang der Eingliederungshilfe
 
 (1) Eingliederungshilfe erhält, wer die erforderliche Leistung nicht von anderen oder von Trägern anderer Sozialleistungen erhält.
 
@@ -1790,13 +1695,11 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 
 (3) Das Verhältnis der Leistungen der Pflegeversicherung und der Leistungen der Eingliederungshilfe bestimmt sich nach § 13 Absatz 3 des Elften Buches.
 
-
-## § 92 – Beitrag
+# § 92 – Beitrag
 
 Zu den Leistungen der Eingliederungshilfe ist nach Maßgabe des Kapitels 9 ein Beitrag aufzubringen.
 
-
-## § 93 – Verhältnis zu anderen Rechtsbereichen
+# § 93 – Verhältnis zu anderen Rechtsbereichen
 
 (1) Die Vorschriften über die Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch sowie über die Hilfe zum Lebensunterhalt und die Grundsicherung im Alter und bei Erwerbsminderung nach dem Zwölften Buch bleiben unberührt.
 
@@ -1804,8 +1707,7 @@ Zu den Leistungen der Eingliederungshilfe ist nach Maßgabe des Kapitels 9 ein B
 
 (3) Die Hilfen zur Gesundheit nach dem Zwölften Buch gehen den Leistungen der Eingliederungshilfe vor, wenn sie zur Beseitigung einer Beeinträchtigung mit drohender erheblicher Teilhabeeinschränkung nach § 99 geeignet sind.
 
-
-## § 94 – Aufgaben der Länder
+# § 94 – Aufgaben der Länder
 
 (1) Die Länder bestimmen die für die Durchführung dieses Teils zuständigen Träger der Eingliederungshilfe.
 
@@ -1829,13 +1731,11 @@ Zu den Leistungen der Eingliederungshilfe ist nach Maßgabe des Kapitels 9 ein B
 
 Die Erkenntnisse sollen zur Weiterentwicklung der Eingliederungshilfe zusammengeführt werden.
 
-
-## § 95 – Sicherstellungsauftrag
+# § 95 – Sicherstellungsauftrag
 
 Die Träger der Eingliederungshilfe haben im Rahmen ihrer Leistungsverpflichtung eine personenzentrierte Leistung für Leistungsberechtigte unabhängig vom Ort der Leistungserbringung sicherzustellen (Sicherstellungsauftrag), soweit dieser Teil nichts Abweichendes bestimmt. Sie schließen hierzu Vereinbarungen mit den Leistungsanbietern nach den Vorschriften des Kapitels 8 ab. Im Rahmen der Strukturplanung sind die Erkenntnisse aus der Gesamtplanung nach Kapitel 7 zu berücksichtigen.
 
-
-## § 96 – Zusammenarbeit
+# § 96 – Zusammenarbeit
 
 (1) Die Träger der Eingliederungshilfe arbeiten mit Leistungsanbietern und anderen Stellen, deren Aufgabe die Lebenssituation von Menschen mit Behinderungen betrifft, zusammen.
 
@@ -1845,8 +1745,7 @@ Die Träger der Eingliederungshilfe haben im Rahmen ihrer Leistungsverpflichtung
 
 (4) Sozialdaten dürfen im Rahmen der Zusammenarbeit nur verarbeitet werden, soweit dies zur Erfüllung von Aufgaben nach diesem Teil erforderlich ist oder durch Rechtsvorschriften des Sozialgesetzbuches angeordnet oder erlaubt ist.
 
-
-## § 97 – Fachkräfte
+# § 97 – Fachkräfte
 
 Bei der Durchführung der Aufgaben dieses Teils beschäftigen die Träger der Eingliederungshilfe eine dem Bedarf entsprechende Anzahl an Fachkräften aus unterschiedlichen Fachdisziplinen. Diese sollen
 
@@ -1866,8 +1765,7 @@ verfügen,
 
 Soweit Mitarbeiter der Leistungsträger nicht oder nur zum Teil die Voraussetzungen erfüllen, ist ihnen Gelegenheit zur Fortbildung und zum Austausch mit Menschen mit Behinderungen zu geben. Die fachliche Fortbildung der Fachkräfte, die insbesondere die Durchführung der Aufgaben nach den §§ 106 und 117 umfasst, ist zu gewährleisten.
 
-
-## § 98 – Örtliche Zuständigkeit
+# § 98 – Örtliche Zuständigkeit
 
 (1) Für die Eingliederungshilfe örtlich zuständig ist der Träger der Eingliederungshilfe, in dessen Bereich die leistungsberechtigte Person ihren gewöhnlichen Aufenthalt zum Zeitpunkt der ersten Antragstellung nach § 108 Absatz 1 hat oder in den zwei Monaten vor den Leistungen einer Betreuung über Tag und Nacht zuletzt gehabt hatte. Bedarf es nach § 108 Absatz 2 keines Antrags, ist der Beginn des Verfahrens nach Kapitel 7 maßgeblich. Diese Zuständigkeit bleibt bis zur Beendigung des Leistungsbezuges bestehen. Sie ist neu festzustellen, wenn für einen zusammenhängenden Zeitraum von mindestens sechs Monaten keine Leistungen bezogen wurden. Eine Unterbrechung des Leistungsbezuges wegen stationärer Krankenhausbehandlung oder medizinischer Rehabilitation gilt nicht als Beendigung des Leistungsbezuges.
 
@@ -1879,13 +1777,11 @@ Soweit Mitarbeiter der Leistungsträger nicht oder nur zum Teil die Voraussetzun
 
 (5) Bei Personen, die am 31. Dezember 2019 Leistungen nach dem Sechsten Kapitel des Zwölften Buches in der am 31. Dezember 2019 geltenden Fassung bezogen haben und auch ab dem 1. Januar 2020 Leistungen nach Teil 2 dieses Buches erhalten, ist der Träger der Eingliederungshilfe örtlich zuständig, dessen örtliche Zuständigkeit sich am 1. Januar 2020 im Einzelfall in entsprechender Anwendung von § 98 Absatz 1 Satz 1 oder Absatz 5 des Zwölften Buches oder in entsprechender Anwendung von § 98 Absatz 2 Satz 1 und 2 in Verbindung mit § 107 des Zwölften Buches ergeben würde. Absatz 1 Satz 3 bis 5 gilt entsprechend. Im Übrigen bleiben die Absätze 2 bis 4 unberührt.
 
-
-## § 99 – Leistungsberechtigter Personenkreis
+# § 99 – Leistungsberechtigter Personenkreis
 
 Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 des Zwölften Buches und den §§ 1 bis 3 der Eingliederungshilfe-Verordnung in der am 31. Dezember 2019 geltenden Fassung.
 
-
-## § 100 – Eingliederungshilfe für Ausländer
+# § 100 – Eingliederungshilfe für Ausländer
 
 (1) Ausländer, die sich im Inland tatsächlich aufhalten, können Leistungen nach diesem Teil erhalten, soweit dies im Einzelfall gerechtfertigt ist. Die Einschränkung auf Ermessensleistungen nach Satz 1 gilt nicht für Ausländer, die im Besitz einer Niederlassungserlaubnis oder eines befristeten Aufenthaltstitels sind und sich voraussichtlich dauerhaft im Bundesgebiet aufhalten. Andere Rechtsvorschriften, nach denen Leistungen der Eingliederungshilfe zu erbringen sind, bleiben unberührt.
 
@@ -1893,8 +1789,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (3) Ausländer, die eingereist sind, um Leistungen nach diesem Teil zu erlangen, haben keinen Anspruch auf Leistungen der Eingliederungshilfe.
 
-
-## § 101 – Eingliederungshilfe für Deutsche im Ausland
+# § 101 – Eingliederungshilfe für Deutsche im Ausland
 
 (1) Deutsche, die ihren gewöhnlichen Aufenthalt im Ausland haben, erhalten keine Leistungen der Eingliederungshilfe. Hiervon kann im Einzelfall nur abgewichen werden, soweit dies wegen einer außergewöhnlichen Notlage unabweisbar ist und zugleich nachgewiesen wird, dass eine Rückkehr in das Inland aus folgenden Gründen nicht möglich ist:
 
@@ -1912,8 +1807,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (5) Die Träger der Eingliederungshilfe arbeiten mit den deutschen Dienststellen im Ausland zusammen.
 
-
-## § 102 – Leistungen der Eingliederungshilfe
+# § 102 – Leistungen der Eingliederungshilfe
 
 (1) Die Leistungen der Eingliederungshilfe umfassen
 
@@ -1927,15 +1821,13 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (2) Leistungen nach Absatz 1 Nummer 1 bis 3 gehen den Leistungen nach Absatz 1 Nummer 4 vor.
 
-
-## § 103 – Regelung für Menschen mit Behinderungen und Pflegebedarf
+# § 103 – Regelung für Menschen mit Behinderungen und Pflegebedarf
 
 (1) Werden Leistungen der Eingliederungshilfe in Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, umfasst die Leistung auch die Pflegeleistungen in diesen Einrichtungen oder Räumlichkeiten. Stellt der Leistungserbringer fest, dass der Mensch mit Behinderungen so pflegebedürftig ist, dass die Pflege in diesen Einrichtungen oder Räumlichkeiten nicht sichergestellt werden kann, vereinbaren der Träger der Eingliederungshilfe und die zuständige Pflegekasse mit dem Leistungserbringer, dass die Leistung bei einem anderen Leistungserbringer erbracht wird; dabei ist angemessenen Wünschen des Menschen mit Behinderungen Rechnung zu tragen. Die Entscheidung zur Vorbereitung der Vereinbarung nach Satz 2 erfolgt nach den Regelungen zur Gesamtplanung nach Kapitel 7.
 
 (2) Werden Leistungen der Eingliederungshilfe außerhalb von Einrichtungen oder Räumlichkeiten im Sinne des § 43a des Elften Buches in Verbindung mit § 71 Absatz 4 des Elften Buches erbracht, umfasst die Leistung auch die Leistungen der häuslichen Pflege nach den §§ 64a bis 64f, 64i und 66 des Zwölften Buches, solange die Teilhabeziele nach Maßgabe des Gesamtplanes (§ 121) erreicht werden können, es sei denn der Leistungsberechtigte hat vor Vollendung des für die Regelaltersrente im Sinne des Sechsten Buches erforderlichen Lebensjahres keine Leistungen der Eingliederungshilfe erhalten. Satz 1 gilt entsprechend in Fällen, in denen der Leistungsberechtigte vorübergehend Leistungen nach den §§ 64g und 64h des Zwölften Buches in Anspruch nimmt. Die Länder können durch Landesrecht bestimmen, dass der für die Leistungen der häuslichen Pflege zuständige Träger der Sozialhilfe die Kosten der vom Träger der Eingliederungshilfe erbrachten Leistungen der häuslichen Pflege zu erstatten hat.
 
-
-## § 104 – Leistungen nach der Besonderheit des Einzelfalles
+# § 104 – Leistungen nach der Besonderheit des Einzelfalles
 
 (1) Die Leistungen der Eingliederungshilfe bestimmen sich nach der Besonderheit des Einzelfalles, insbesondere nach der Art des Bedarfes, den persönlichen Verhältnissen, dem Sozialraum und den eigenen Kräften und Mitteln; dabei ist auch die Wohnform zu würdigen. Sie werden so lange geleistet, wie die Teilhabeziele nach Maßgabe des Gesamtplanes (§ 121) erreichbar sind.
 
@@ -1951,8 +1843,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (5) Leistungen der Eingliederungshilfe für Leistungsberechtigte mit gewöhnlichem Aufenthalt in Deutschland können auch im Ausland erbracht werden, wenn dies im Interesse der Aufgabe der Eingliederungshilfe geboten ist, die Dauer der Leistungen durch den Auslandsaufenthalt nicht wesentlich verlängert wird und keine unvertretbaren Mehraufwendungen entstehen.
 
-
-## § 105 – Leistungsformen
+# § 105 – Leistungsformen
 
 (1) Die Leistungen der Eingliederungshilfe werden als Sach-, Geld- oder Dienstleistung erbracht.
 
@@ -1962,8 +1853,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (4) Die Leistungen der Eingliederungshilfe werden auf Antrag auch als Teil eines Persönlichen Budgets ausgeführt. Die Vorschrift zum Persönlichen Budget nach § 29 ist insoweit anzuwenden.
 
-
-## § 106 – Beratung und Unterstützung
+# § 106 – Beratung und Unterstützung
 
 (1) Zur Erfüllung der Aufgaben dieses Teils werden die Leistungsberechtigten, auf ihren Wunsch auch im Beisein einer Person ihres Vertrauens, vom Träger der Eingliederungshilfe beraten und, soweit erforderlich, unterstützt. Die Beratung erfolgt in einer für den Leistungsberechtigten wahrnehmbaren Form.
 
@@ -2005,29 +1895,25 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (4) Die Leistungsberechtigten sind hinzuweisen auf die ergänzende unabhängige Teilhabeberatung nach § 32, auf die Beratung und Unterstützung von Verbänden der Freien Wohlfahrtspflege sowie von Angehörigen der rechtsberatenden Berufe und von sonstigen Stellen.
 
-
-## § 107 – Übertragung, Verpfändung oder Pfändung, Auswahlermessen
+# § 107 – Übertragung, Verpfändung oder Pfändung, Auswahlermessen
 
 (1) Der Anspruch auf Leistungen der Eingliederungshilfe kann nicht übertragen, verpfändet oder gepfändet werden.
 
 (2) Über Art und Maß der Leistungserbringung ist nach pflichtgemäßem Ermessen zu entscheiden, soweit das Ermessen nicht ausgeschlossen ist.
 
-
-## § 108 – Antragserfordernis
+# § 108 – Antragserfordernis
 
 (1) Die Leistungen der Eingliederungshilfe nach diesem Teil werden auf Antrag erbracht. Die Leistungen werden frühestens ab dem Ersten des Monats der Antragstellung erbracht, wenn zu diesem Zeitpunkt die Voraussetzungen bereits vorlagen.
 
 (2) Eines Antrages bedarf es nicht für Leistungen, deren Bedarf in dem Verfahren nach Kapitel 7 ermittelt worden ist.
 
-
-## § 109 – Leistungen zur medizinischen Rehabilitation
+# § 109 – Leistungen zur medizinischen Rehabilitation
 
 (1) Leistungen zur medizinischen Rehabilitation sind insbesondere die in § 42 Absatz 2 und 3 und § 64 Absatz 1 Nummer 3 bis 6 genannten Leistungen.
 
 (2) Die Leistungen zur medizinischen Rehabilitation entsprechen den Rehabilitationsleistungen der gesetzlichen Krankenversicherung.
 
-
-## § 110 – Leistungserbringung
+# § 110 – Leistungserbringung
 
 (1) Leistungsberechtigte haben entsprechend den Bestimmungen der gesetzlichen Krankenversicherung die freie Wahl unter den Ärzten und Zahnärzten sowie unter den Krankenhäusern und Vorsorge- und Rehabilitationseinrichtungen.
 
@@ -2035,8 +1921,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (3) Die Verpflichtungen, die sich für die Leistungserbringer aus den §§ 294, 294a, 295, 300 bis 302 des Fünften Buches ergeben, gelten auch für die Abrechnung von Leistungen zur medizinischen Rehabilitation mit dem Träger der Eingliederungshilfe. Die Vereinbarungen nach § 303 Absatz 1 sowie § 304 des Fünften Buches gelten für den Träger der Eingliederungshilfe entsprechend.
 
-
-## § 111 – Leistungen zur Beschäftigung
+# § 111 – Leistungen zur Beschäftigung
 
 (1) Leistungen zur Beschäftigung umfassen
 
@@ -2050,8 +1935,7 @@ Leistungen der Eingliederungshilfe erhalten Personen nach § 53 Absatz 1 und 2 d
 
 (3) Zu den Leistungen nach Absatz 1 Nummer 1 und 2 gehört auch das Arbeitsförderungsgeld nach § 59.
 
-
-## § 112 – Leistungen zur Teilhabe an Bildung
+# § 112 – Leistungen zur Teilhabe an Bildung
 
 (1) Leistungen zur Teilhabe an Bildung umfassen
 
@@ -2081,8 +1965,7 @@ Hilfen für ein Masterstudium werden abweichend von Satz 1 Nummer 2 auch erbrach
 
 (4) Die in der Schule oder Hochschule wegen der Behinderung erforderliche Anleitung und Begleitung können an mehrere Leistungsberechtigte gemeinsam erbracht werden, soweit dies nach § 104 für die Leistungsberechtigten zumutbar ist und mit Leistungserbringern entsprechende Vereinbarungen bestehen. Die Leistungen nach Satz 1 sind auf Wunsch der Leistungsberechtigten gemeinsam zu erbringen.
 
-
-## § 113 – Leistungen zur Sozialen Teilhabe
+# § 113 – Leistungen zur Sozialen Teilhabe
 
 (1) Leistungen zur Sozialen Teilhabe werden erbracht, um eine gleichberechtigte Teilhabe am Leben in der Gemeinschaft zu ermöglichen oder zu erleichtern, soweit sie nicht nach den Kapiteln 3 bis 5 erbracht werden. Hierzu gehört, Leistungsberechtigte zu einer möglichst selbstbestimmten und eigenverantwortlichen Lebensführung im eigenen Wohnraum sowie in ihrem Sozialraum zu befähigen oder sie hierbei zu unterstützen. Maßgeblich sind die Ermittlungen und Feststellungen nach Kapitel 7.
 
@@ -2112,8 +1995,7 @@ Hilfen für ein Masterstudium werden abweichend von Satz 1 Nummer 2 auch erbrach
 
 (5) In besonderen Wohnformen des § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften Buches werden Aufwendungen für Wohnraum oberhalb der Angemessenheitsgrenze nach § 42a Absatz 6 des Zwölften Buches übernommen, sofern dies wegen der besonderen Bedürfnisse des Menschen mit Behinderungen erforderlich ist. Kapitel 8 ist anzuwenden.
 
-
-## § 114 – Leistungen zur Mobilität
+# § 114 – Leistungen zur Mobilität
 
 Bei den Leistungen zur Mobilität nach § 113 Absatz 2 Nummer 7 gilt § 83 mit der Maßgabe, dass
 
@@ -2121,13 +2003,11 @@ Bei den Leistungen zur Mobilität nach § 113 Absatz 2 Nummer 7 gilt § 83 mit d
 
 2. abweichend von § 83 Absatz 3 Satz 2 die Vorschriften der §§ 6 und 8 der Kraftfahrzeughilfe-Verordnung nicht maßgeblich sind.
 
-
-## § 115 – Besuchsbeihilfen
+# § 115 – Besuchsbeihilfen
 
 Werden Leistungen bei einem oder mehreren Anbietern über Tag und Nacht erbracht, können den Leistungsberechtigten oder ihren Angehörigen zum gegenseitigen Besuch Beihilfen geleistet werden, soweit es im Einzelfall erforderlich ist.
 
-
-## § 116 – Pauschale Geldleistung, gemeinsame Inanspruchnahme
+# § 116 – Pauschale Geldleistung, gemeinsame Inanspruchnahme
 
 (1) Die Leistungen
 
@@ -2157,8 +2037,7 @@ können an mehrere Leistungsberechtigte gemeinsam erbracht werden, soweit dies n
 
 (3) Die Leistungen nach Absatz 2 sind auf Wunsch der Leistungsberechtigten gemeinsam zu erbringen, soweit die Teilhabeziele erreicht werden können.
 
-
-## § 117 – Gesamtplanverfahren
+# § 117 – Gesamtplanverfahren
 
 (1) Das Gesamtplanverfahren ist nach folgenden Maßstäben durchzuführen:
 
@@ -2198,8 +2077,7 @@ h) zielorientiert,
 
 (5) § 22 Absatz 5 ist entsprechend anzuwenden, auch wenn ein Teilhabeplan nicht zu erstellen ist.
 
-
-## § 118 – Instrumente der Bedarfsermittlung
+# § 118 – Instrumente der Bedarfsermittlung
 
 (1) Der Träger der Eingliederungshilfe hat die Leistungen nach den Kapiteln 3 bis 6 unter Berücksichtigung der Wünsche des Leistungsberechtigten festzustellen. Die Ermittlung des individuellen Bedarfes des Leistungsberechtigten muss durch ein Instrument erfolgen, das sich an der Internationalen Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit orientiert. Das Instrument hat die Beschreibung einer nicht nur vorübergehenden Beeinträchtigung der Aktivität und Teilhabe in den folgenden Lebensbereichen vorzusehen:
 
@@ -2223,8 +2101,7 @@ h) zielorientiert,
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung das Nähere über das Instrument zur Bedarfsermittlung zu bestimmen.
 
-
-## § 119 – Gesamtplankonferenz
+# § 119 – Gesamtplankonferenz
 
 (1) Mit Zustimmung des Leistungsberechtigten kann der Träger der Eingliederungshilfe eine Gesamtplankonferenz durchführen, um die Leistungen für den Leistungsberechtigten nach den Kapiteln 3 bis 6 sicherzustellen. Die Leistungsberechtigten und die beteiligten Rehabilitationsträger können dem nach § 15 verantwortlichen Träger der Eingliederungshilfe die Durchführung einer Gesamtplankonferenz vorschlagen. Den Vorschlag auf Durchführung einer Gesamtplankonferenz kann der Träger der Eingliederungshilfe ablehnen, wenn der maßgebliche Sachverhalt schriftlich ermittelt werden kann oder der Aufwand zur Durchführung nicht in einem angemessenen Verhältnis zum Umfang der beantragten Leistung steht.
 
@@ -2244,8 +2121,7 @@ Soweit die Beratung über die Erbringung der Leistungen nach Nummer 4 den Lebens
 
 (4) Beantragt eine leistungsberechtigte Mutter oder ein leistungsberechtigter Vater Leistungen zur Deckung von Bedarfen bei der Versorgung und Betreuung eines eigenen Kindes oder mehrerer eigener Kinder, so ist eine Gesamtplankonferenz mit Zustimmung des Leistungsberechtigten durchzuführen. Bestehen Anhaltspunkte dafür, dass diese Bedarfe durch Leistungen anderer Leistungsträger, durch das familiäre, freundschaftliche und nachbarschaftliche Umfeld oder ehrenamtlich gedeckt werden können, so informiert der Träger der Eingliederungshilfe mit Zustimmung der Leistungsberechtigten die als zuständig angesehenen Leistungsträger, die ehrenamtlich tätigen Stellen und Personen oder die jeweiligen Personen aus dem persönlichen Umfeld und beteiligt sie an der Gesamtplankonferenz.
 
-
-## § 120 – Feststellung der Leistungen
+# § 120 – Feststellung der Leistungen
 
 (1) Nach Abschluss der Gesamtplankonferenz stellen der Träger der Eingliederungshilfe und die beteiligten Leistungsträger ihre Leistungen nach den für sie geltenden Leistungsgesetzen innerhalb der Fristen nach den §§ 14 und 15 fest.
 
@@ -2255,8 +2131,7 @@ Soweit die Beratung über die Erbringung der Leistungen nach Nummer 4 den Lebens
 
 (4) In einem Eilfall erbringt der Träger der Eingliederungshilfe Leistungen der Eingliederungshilfe nach den Kapiteln 3 bis 6 vor Beginn der Gesamtplankonferenz vorläufig; der Umfang der vorläufigen Gesamtleistung bestimmt sich nach pflichtgemäßem Ermessen.
 
-
-## § 121 – Gesamtplan
+# § 121 – Gesamtplan
 
 (1) Der Träger der Eingliederungshilfe stellt unverzüglich nach der Feststellung der Leistungen einen Gesamtplan insbesondere zur Durchführung der einzelnen Leistungen oder einer Einzelleistung auf.
 
@@ -2296,13 +2171,11 @@ e) den Dienststellen der Bundesagentur für Arbeit.
 
 (5) Der Träger der Eingliederungshilfe stellt der leistungsberechtigten Person den Gesamtplan zur Verfügung.
 
-
-## § 122 – Teilhabezielvereinbarung
+# § 122 – Teilhabezielvereinbarung
 
 Der Träger der Eingliederungshilfe kann mit dem Leistungsberechtigten eine Teilhabezielvereinbarung zur Umsetzung der Mindestinhalte des Gesamtplanes oder von Teilen der Mindestinhalte des Gesamtplanes abschließen. Die Vereinbarung wird für die Dauer des Bewilligungszeitraumes der Leistungen der Eingliederungshilfe abgeschlossen, soweit sich aus ihr nichts Abweichendes ergibt. Bestehen Anhaltspunkte dafür, dass die Vereinbarungsziele nicht oder nicht mehr erreicht werden, hat der Träger der Eingliederungshilfe die Teilhabezielvereinbarung anzupassen. Die Kriterien nach § 117 Absatz 1 Nummer 3 gelten entsprechend.
 
-
-## § 123 – Allgemeine Grundsätze
+# § 123 – Allgemeine Grundsätze
 
 (1) Der Träger der Eingliederungshilfe darf Leistungen der Eingliederungshilfe mit Ausnahme der Leistungen nach § 113 Absatz 2 Nummer 2 in Verbindung mit § 78 Absatz 5 und § 116 Absatz 1 durch Dritte (Leistungserbringer) nur bewilligen, soweit eine schriftliche Vereinbarung zwischen dem Träger des Leistungserbringers und dem für den Ort der Leistungserbringung zuständigen Träger der Eingliederungshilfe besteht. Die Vereinbarung kann auch zwischen dem Träger der Eingliederungshilfe und dem Verband, dem der Leistungserbringer angehört, geschlossen werden, soweit der Verband eine entsprechende Vollmacht nachweist.
 
@@ -2328,8 +2201,7 @@ Die allgemeinen Grundsätze der Absätze 1 bis 3 und 5 sowie die Vorschriften zu
 
 (6) Der Leistungserbringer hat gegen den Träger der Eingliederungshilfe einen Anspruch auf Vergütung der gegenüber dem Leistungsberechtigten erbrachten Leistungen der Eingliederungshilfe.
 
-
-## § 124 – Geeignete Leistungserbringer
+# § 124 – Geeignete Leistungserbringer
 
 (1) Sind geeignete Leistungserbringer vorhanden, soll der Träger der Eingliederungshilfe zur Erfüllung seiner Aufgaben eigene Angebote nicht neu schaffen. Geeignet ist ein externer Leistungserbringer, der unter Sicherstellung der Grundsätze des § 104 die Leistungen wirtschaftlich und sparsam erbringen kann. Die durch den Leistungserbringer geforderte Vergütung ist wirtschaftlich angemessen, wenn sie im Vergleich mit der Vergütung vergleichbarer Leistungserbringer im unteren Drittel liegt (externer Vergleich). Liegt die geforderte Vergütung oberhalb des unteren Drittels, kann sie wirtschaftlich angemessen sein, sofern sie nachvollziehbar auf einem höheren Aufwand des Leistungserbringers beruht und wirtschaftlicher Betriebsführung entspricht. In den externen Vergleich sind die im Einzugsbereich tätigen Leistungserbringer einzubeziehen. Die Bezahlung tariflich vereinbarter Vergütungen sowie entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich abgelehnt werden, soweit die Vergütung aus diesem Grunde oberhalb des unteren Drittels liegt.
 
@@ -2337,8 +2209,7 @@ Die allgemeinen Grundsätze der Absätze 1 bis 3 und 5 sowie die Vorschriften zu
 
 (3) Sind mehrere Leistungserbringer im gleichen Maße geeignet, so hat der Träger der Eingliederungshilfe Vereinbarungen vorrangig mit Leistungserbringern abzuschließen, deren Vergütung bei vergleichbarem Inhalt, Umfang und Qualität der Leistung nicht höher ist als die anderer Leistungserbringer.
 
-
-## § 125 – Inhalt der schriftlichen Vereinbarung
+# § 125 – Inhalt der schriftlichen Vereinbarung
 
 (1) In der schriftlichen Vereinbarung zwischen dem Träger der Eingliederungshilfe und dem Leistungserbringer sind zu regeln:
 
@@ -2366,8 +2237,7 @@ Soweit die Erbringung von Leistungen nach § 116 Absatz 2 zu vereinbaren ist, si
 
 (4) Die Vergütungsvereinbarungen mit Werkstätten für behinderte Menschen und anderen Leistungsanbietern berücksichtigen zusätzlich die mit der wirtschaftlichen Betätigung in Zusammenhang stehenden Kosten, soweit diese Kosten unter Berücksichtigung der besonderen Verhältnisse beim Leistungserbringer und der dort beschäftigten Menschen mit Behinderungen nach Art und Umfang über die in einem Wirtschaftsunternehmen üblicherweise entstehenden Kosten hinausgehen. Können die Kosten im Einzelfall nicht ermittelt werden, kann hierfür eine Vergütungspauschale vereinbart werden. Das Arbeitsergebnis des Leistungserbringers darf nicht dazu verwendet werden, die Vergütung des Trägers der Eingliederungshilfe zu mindern.
 
-
-## § 126 – Verfahren und Inkrafttreten der Vereinbarung
+# § 126 – Verfahren und Inkrafttreten der Vereinbarung
 
 (1) Der Leistungserbringer oder der Träger der Eingliederungshilfe hat die jeweils andere Partei schriftlich zu Verhandlungen über den Abschluss einer Vereinbarung gemäß § 125 aufzufordern. Bei einer Aufforderung zum Abschluss einer Folgevereinbarung sind die Verhandlungsgegenstände zu benennen. Die Aufforderung durch den Leistungsträger kann an einen unbestimmten Kreis von Leistungserbringern gerichtet werden. Auf Verlangen einer Partei sind geeignete Nachweise zu den Verhandlungsgegenständen vorzulegen.
 
@@ -2378,8 +2248,7 @@ Soweit die Erbringung von Leistungen nach § 116 Absatz 2 zu vereinbaren ist, si
 (+++ § 126: Zur Anwendung vgl. § 127 Abs. 3 +++)  
 (+++ § 126 Abs. 2 u. 3: Zur Anwendung vgl. § 129 Abs. 1 +++)
 
-
-## § 127 – Verbindlichkeit der vereinbarten Vergütung
+# § 127 – Verbindlichkeit der vereinbarten Vergütung
 
 (1) Mit der Zahlung der vereinbarten Vergütung gelten alle während des Vereinbarungszeitraumes entstandenen Ansprüche des Leistungserbringers auf Vergütung der Leistung der Eingliederungshilfe als abgegolten. Die im Einzelfall zu zahlende Vergütung bestimmt sich auf der Grundlage der jeweiligen Vereinbarung nach dem Betrag, der dem Leistungsberechtigten vom zuständigen Träger der Eingliederungshilfe bewilligt worden ist. Sind Leistungspauschalen nach Gruppen von Leistungsberechtigten kalkuliert (§ 125 Absatz 3 Satz 3), richtet sich die zu zahlende Vergütung nach der Gruppe, die dem Leistungsberechtigten vom zuständigen Träger der Eingliederungshilfe bewilligt wurde.
 
@@ -2389,8 +2258,7 @@ Soweit die Erbringung von Leistungen nach § 116 Absatz 2 zu vereinbaren ist, si
 
 (4) Nach Ablauf des Vereinbarungszeitraumes gilt die vereinbarte oder durch die Schiedsstelle festgesetzte Vergütung bis zum Inkrafttreten einer neuen Vergütungsvereinbarung weiter.
 
-
-## § 128 – Wirtschaftlichkeits- und Qualitätsprüfung
+# § 128 – Wirtschaftlichkeits- und Qualitätsprüfung
 
 (1) Soweit tatsächliche Anhaltspunkte dafür bestehen, dass ein Leistungserbringer seine vertraglichen oder gesetzlichen Pflichten nicht erfüllt, prüft der Träger der Eingliederungshilfe oder ein von diesem beauftragter Dritter die Wirtschaftlichkeit und Qualität einschließlich der Wirksamkeit der vereinbarten Leistungen des Leistungserbringers. Die Leistungserbringer sind verpflichtet, dem Träger der Eingliederungshilfe auf Verlangen die für die Prüfung erforderlichen Unterlagen vorzulegen und Auskünfte zu erteilen. Zur Vermeidung von Doppelprüfungen arbeiten die Träger der Eingliederungshilfe mit den Trägern der Sozialhilfe, mit den für die Heimaufsicht zuständigen Behörden sowie mit dem Medizinischen Dienst gemäß § 278 des Fünften Buches zusammen. Der Träger der Eingliederungshilfe ist berechtigt und auf Anforderung verpflichtet, den für die Heimaufsicht zuständigen Behörden die Daten über den Leistungserbringer sowie die Ergebnisse der Prüfungen mitzuteilen, soweit sie für die Zwecke der Prüfung durch den Empfänger erforderlich sind. Personenbezogene Daten sind vor der Datenübermittlung zu anonymisieren. Abweichend von Satz 5 dürfen personenbezogene Daten in nicht anonymisierter Form an die für die Heimaufsicht zuständigen Behörden übermittelt werden, soweit sie zu deren Aufgabenerfüllung erforderlich sind. Durch Landesrecht kann von der Einschränkung in Satz 1 erster Halbsatz abgewichen werden.
 
@@ -2398,8 +2266,7 @@ Soweit die Erbringung von Leistungen nach § 116 Absatz 2 zu vereinbaren ist, si
 
 (3) Der Träger der Eingliederungshilfe hat den Leistungserbringer über das Ergebnis der Prüfung schriftlich zu unterrichten. Das Ergebnis der Prüfung ist dem Leistungsberechtigten in einer wahrnehmbaren Form zugänglich zu machen.
 
-
-## § 129 – Kürzung der Vergütung
+# § 129 – Kürzung der Vergütung
 
 (1) Hält ein Leistungserbringer seine gesetzlichen oder vertraglichen Verpflichtungen ganz oder teilweise nicht ein, ist die vereinbarte Vergütung für die Dauer der Pflichtverletzung entsprechend zu kürzen. Über die Höhe des Kürzungsbetrags ist zwischen den Vertragsparteien Einvernehmen herzustellen. Kommt eine Einigung nicht zustande, entscheidet auf Antrag einer Vertragspartei die Schiedsstelle. Für das Verfahren bei Entscheidungen durch die Schiedsstelle gilt § 126 Absatz 2 und 3 entsprechend.
 
@@ -2407,8 +2274,7 @@ Soweit die Erbringung von Leistungen nach § 116 Absatz 2 zu vereinbaren ist, si
 
 (3) Der Kürzungsbetrag kann nicht über die Vergütungen refinanziert werden. Darüber hinaus besteht hinsichtlich des Kürzungsbetrags kein Anspruch auf Nachverhandlung gemäß § 127 Absatz 3.
 
-
-## § 130 – Außerordentliche Kündigung der Vereinbarungen
+# § 130 – Außerordentliche Kündigung der Vereinbarungen
 
 Der Träger der Eingliederungshilfe kann die Vereinbarungen mit einem Leistungserbringer fristlos kündigen, wenn ihm ein Festhalten an den Vereinbarungen auf Grund einer groben Verletzung einer gesetzlichen oder vertraglichen Verpflichtung durch den Leistungserbringer nicht mehr zumutbar ist. Eine grobe Pflichtverletzung liegt insbesondere dann vor, wenn
 
@@ -2424,8 +2290,7 @@ Der Träger der Eingliederungshilfe kann die Vereinbarungen mit einem Leistungse
 
 Die Kündigung bedarf der Schriftform. § 59 des Zehnten Buches gilt entsprechend.
 
-
-## § 131 – Rahmenverträge zur Erbringung von Leistungen
+# § 131 – Rahmenverträge zur Erbringung von Leistungen
 
 (1) Die Träger der Eingliederungshilfe schließen auf Landesebene mit den Vereinigungen der Leistungserbringer gemeinsam und einheitlich Rahmenverträge zu den schriftlichen Vereinbarungen nach § 125 ab. Die Rahmenverträge bestimmen
 
@@ -2451,8 +2316,7 @@ Für Leistungserbringer, die einer Kirche oder Religionsgemeinschaft des öffent
 
 (4) Kommt es nicht innerhalb von sechs Monaten nach schriftlicher Aufforderung durch die Landesregierung zu einem Rahmenvertrag, so kann die Landesregierung die Inhalte durch Rechtsverordnung regeln.
 
-
-## § 132 – Abweichende Zielvereinbarungen
+# § 132 – Abweichende Zielvereinbarungen
 
 (1) Leistungsträger und Träger der Leistungserbringer können Zielvereinbarungen zur Erprobung neuer und zur Weiterentwicklung der bestehenden Leistungs- und Finanzierungsstrukturen abschließen.
 
@@ -2460,8 +2324,7 @@ Für Leistungserbringer, die einer Kirche oder Religionsgemeinschaft des öffent
 
 (3) Absatz 1 gilt nicht, soweit auch Leistungen nach dem Siebten Kapitel des Zwölften Buches gewährt werden.
 
-
-## § 133 – Schiedsstelle
+# § 133 – Schiedsstelle
 
 (1) Für jedes Land oder für Teile eines Landes wird eine Schiedsstelle gebildet.
 
@@ -2493,8 +2356,7 @@ Für Leistungserbringer, die einer Kirche oder Religionsgemeinschaft des öffent
 
 10. die Beteiligung der Interessenvertretungen der Menschen mit Behinderungen.
 
-
-## § 134 – Sonderregelung zum Inhalt der Vereinbarungen zur Erbringung von Leistungen für minderjährige Leistungsberechtigte und in Sonderfällen
+# § 134 – Sonderregelung zum Inhalt der Vereinbarungen zur Erbringung von Leistungen für minderjährige Leistungsberechtigte und in Sonderfällen
 
 (1) In der schriftlichen Vereinbarung zur Erbringung von Leistungen für minderjährige Leistungsberechtigte zwischen dem Träger der Eingliederungshilfe und dem Leistungserbringer sind zu regeln:
 
@@ -2534,15 +2396,13 @@ Förderungen aus öffentlichen Mitteln sind anzurechnen. Die Maßnahmepauschale 
 
 3. der Leistungsberechtigte nach Erreichen der Volljährigkeit für eine kurze Zeit, in der Regel nicht länger als bis zur Vollendung des 21. Lebensjahres, Leistungen von diesem Leistungserbringer weitererhält, mit denen insbesondere vor dem Erreichen der Volljährigkeit definierte Teilhabeziele erreicht werden sollen.
 
-
-## § 135 – Begriff des Einkommens
+# § 135 – Begriff des Einkommens
 
 (1) Maßgeblich für die Ermittlung des Beitrages nach § 136 ist die Summe der Einkünfte des Vorvorjahres nach § 2 Absatz 2 des Einkommensteuergesetzes sowie bei Renteneinkünften die Bruttorente des Vorvorjahres.
 
 (2) Wenn zum Zeitpunkt der Leistungsgewährung eine erhebliche Abweichung zu den Einkünften des Vorvorjahres besteht, sind die voraussichtlichen Jahreseinkünfte des laufenden Jahres im Sinne des Absatzes 1 zu ermitteln und zugrunde zu legen.
 
-
-## § 136 – Beitrag aus Einkommen zu den Aufwendungen
+# § 136 – Beitrag aus Einkommen zu den Aufwendungen
 
 (1) Bei den Leistungen nach diesem Teil ist ein Beitrag zu den Aufwendungen aufzubringen, wenn das Einkommen im Sinne des § 135 der antragstellenden Person sowie bei minderjährigen Personen der im Haushalt lebenden Eltern oder des im Haushalt lebenden Elternteils die Beträge nach Absatz 2 übersteigt.
 
@@ -2562,8 +2422,7 @@ Wird das Einkommen im Sinne des § 135 überwiegend aus anderen Einkunftsarten e
 
 (5) Ist der Leistungsberechtigte minderjährig und lebt im Haushalt der Eltern, erhöht sich der Betrag nach Absatz 2 um 75 Prozent der jährlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches für jeden Leistungsberechtigten. Die Absätze 3 und 4 sind nicht anzuwenden.
 
-
-## § 137 – Höhe des Beitrages zu den Aufwendungen
+# § 137 – Höhe des Beitrages zu den Aufwendungen
 
 (1) Die antragstellende Person im Sinne des § 136 Absatz 1 hat aus dem Einkommen im Sinne des § 135 einen Beitrag zu den Aufwendungen nach Maßgabe der Absätze 2 und 3 aufzubringen.
 
@@ -2573,8 +2432,7 @@ Wird das Einkommen im Sinne des § 135 überwiegend aus anderen Einkunftsarten e
 
 (4) Ist ein Beitrag von anderen Personen aufzubringen als dem Leistungsberechtigten und ist die Durchführung der Maßnahme der Eingliederungshilfeleistung ohne Entrichtung des Beitrages gefährdet, so kann im Einzelfall die erforderliche Leistung ohne Abzug nach Absatz 3 erbracht werden. Die in Satz 1 genannten Personen haben dem Träger der Eingliederungshilfe die Aufwendungen im Umfang des Beitrages zu ersetzen; mehrere Verpflichtete haften als Gesamtschuldner.
 
-
-## § 138 – Besondere Höhe des Beitrages zu den Aufwendungen
+# § 138 – Besondere Höhe des Beitrages zu den Aufwendungen
 
 (1) Ein Beitrag ist nicht aufzubringen bei
 
@@ -2600,13 +2458,11 @@ Wird das Einkommen im Sinne des § 135 überwiegend aus anderen Einkunftsarten e
 
 (4) (weggefallen)
 
-
-## § 139 – Begriff des Vermögens
+# § 139 – Begriff des Vermögens
 
 Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. Die Leistungen nach diesem Teil dürfen nicht abhängig gemacht werden vom Einsatz oder von der Verwertung des Vermögens im Sinne des § 90 Absatz 2 Nummer 1 bis 8 des Zwölften Buches und eines Barvermögens oder sonstiger Geldwerte bis zu einem Betrag von 150 Prozent der jährlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches. Die Eingliederungshilfe darf ferner nicht vom Einsatz oder von der Verwertung eines Vermögens abhängig gemacht werden, soweit dies für den, der das Vermögen einzusetzen hat, und für seine unterhaltsberechtigten Angehörigen eine Härte bedeuten würde.
 
-
-## § 140 – Einsatz des Vermögens
+# § 140 – Einsatz des Vermögens
 
 (1) Die antragstellende Person sowie bei minderjährigen Personen die im Haushalt lebenden Eltern oder ein Elternteil haben vor der Inanspruchnahme von Leistungen nach diesem Teil die erforderlichen Mittel aus ihrem Vermögen aufzubringen.
 
@@ -2614,8 +2470,7 @@ Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. D
 
 (3) Die in § 138 Absatz 1 genannten Leistungen sind ohne Berücksichtigung von vorhandenem Vermögen zu erbringen.
 
-
-## § 141 – Übergang von Ansprüchen
+# § 141 – Übergang von Ansprüchen
 
 (1) Hat eine Person im Sinne von § 136 Absatz 1 oder der nicht getrennt lebende Ehegatte oder Lebenspartner für die antragstellende Person einen Anspruch gegen einen anderen, der kein Leistungsträger im Sinne des § 12 des Ersten Buches ist, kann der Träger der Eingliederungshilfe durch schriftliche Anzeige an den anderen bewirken, dass dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht. Dies gilt nicht für bürgerlich-rechtliche Unterhaltsansprüche.
 
@@ -2625,8 +2480,7 @@ Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. D
 
 (4) Widerspruch und Anfechtungsklage gegen den Verwaltungsakt, der den Übergang des Anspruches bewirkt, haben keine aufschiebende Wirkung. Die §§ 115 und 116 des Zehnten Buches gehen der Regelung des Absatzes 1 vor.
 
-
-## § 142 – Sonderregelungen für minderjährige Leistungsberechtigte und in Sonderfällen
+# § 142 – Sonderregelungen für minderjährige Leistungsberechtigte und in Sonderfällen
 
 (1) Minderjährigen Leistungsberechtigten und ihren Eltern oder einem Elternteil ist bei Leistungen im Sinne des § 138 Absatz 1 Nummer 1, 2, 4, 5 und 7 die Aufbringung der Mittel für die Kosten des Lebensunterhalts nur in Höhe der für den häuslichen Lebensunterhalt ersparten Aufwendungen zuzumuten, soweit Leistungen über Tag und Nacht oder über Tag erbracht werden.
 
@@ -2636,8 +2490,7 @@ Zum Vermögen im Sinne dieses Teils gehört das gesamte verwertbare Vermögen. D
 
 (4) (weggefallen)
 
-
-## § 143 – Bundesstatistik
+# § 143 – Bundesstatistik
 
 Zur Beurteilung der Auswirkungen dieses Teils und zu seiner Fortentwicklung werden Erhebungen über
 
@@ -2647,8 +2500,7 @@ Zur Beurteilung der Auswirkungen dieses Teils und zu seiner Fortentwicklung werd
 
 als Bundesstatistik durchgeführt.
 
-
-## § 144 – Erhebungsmerkmale
+# § 144 – Erhebungsmerkmale
 
 (1) Erhebungsmerkmale bei den Erhebungen nach § 143 Nummer 1 sind für jeden Leistungsberechtigten
 
@@ -2692,8 +2544,7 @@ als Bundesstatistik durchgeführt.
 
 (3) Erhebungsmerkmale nach § 143 Nummer 2 sind das Bundesland, die Ausgaben gesamt nach der Art der Leistungen die Einnahmen gesamt und nach Einnahmearten sowie die Höhe der aufgebrachten Beiträge gesamt.
 
-
-## § 145 – Hilfsmerkmale
+# § 145 – Hilfsmerkmale
 
 (1) Hilfsmerkmale sind
 
@@ -2705,20 +2556,17 @@ als Bundesstatistik durchgeführt.
 
 (2) Die Kennnummern nach Absatz 1 Nummer 3 dienen der Prüfung der Richtigkeit der Statistik und der Fortschreibung der jeweils letzten Bestandserhebung. Sie enthalten keine Angaben über persönliche und sachliche Verhältnisse des Leistungsberechtigten und sind zum frühestmöglichen Zeitpunkt, spätestens nach Abschluss der wiederkehrenden Bestandserhebung, zu löschen.
 
-
-## § 146 – Periodizität und Berichtszeitraum
+# § 146 – Periodizität und Berichtszeitraum
 
 Die Erhebungen erfolgen jährlich für das abgelaufene Kalenderjahr.
 
-
-## § 147 – Auskunftspflicht
+# § 147 – Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben nach § 145 Absatz 1 Nummer 2 und die Angaben zum Gemeindeteil nach § 144 Absatz 1 Nummer 1 sind freiwillig.
 
 (2) Auskunftspflichtig sind die Träger der Eingliederungshilfe.
 
-
-## § 148 – Übermittlung, Veröffentlichung
+# § 148 – Übermittlung, Veröffentlichung
 
 (1) Die in sich schlüssigen und nach einheitlichen Standards formatierten Einzeldatensätze sind von den Auskunftspflichtigen elektronisch bis zum Ablauf von 40 Arbeitstagen nach Ende des jeweiligen Berichtszeitraums an das jeweilige statistische Landesamt zu übermitteln.
 
@@ -2728,18 +2576,15 @@ Die Erhebungen erfolgen jährlich für das abgelaufene Kalenderjahr.
 
 (4) Die Ergebnisse der Bundesstatistik nach diesem Kapitel dürfen auf die einzelnen Gemeinden bezogen veröffentlicht werden.
 
-
-## § 149 – Übergangsregelung für ambulant Betreute
+# § 149 – Übergangsregelung für ambulant Betreute
 
 Für Personen, die Leistungen der Eingliederungshilfe für behinderte Menschen erhalten, deren Betreuung am 26. Juni 1996 durch von ihnen beschäftigte Personen oder ambulante Dienste sichergestellt wurde, gilt § 3a des Bundessozialhilfegesetzes in der am 26. Juni 1996 geltenden Fassung.
 
-
-## § 150 – Übergangsregelung zum Einsatz des Einkommens
+# § 150 – Übergangsregelung zum Einsatz des Einkommens
 
 Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsberechtigte, die am 31. Dezember 2019 Leistungen nach dem Sechsten Kapitel des Zwölften Buches in der Fassung vom 31. Dezember 2019 erhalten haben und von denen ein Einsatz des Einkommens über der Einkommensgrenze gemäß § 87 des Zwölften Buches in der Fassung vom 31. Dezember 2019 gefordert wurde, die am 31. Dezember 2019 geltenden Einkommensgrenzen nach dem Elften Kapitel des Zwölften Buches in der Fassung vom 31. Dezember 2019 zugrunde zu legen, solange der nach Kapitel 9 aufzubringende Beitrag höher ist als der Einkommenseinsatz nach dem am 31. Dezember 2019 geltenden Recht.
 
-
-## § 151 – Geltungsbereich
+# § 151 – Geltungsbereich
 
 (1) Die Regelungen dieses Teils gelten für schwerbehinderte und diesen gleichgestellte behinderte Menschen.
 
@@ -2749,8 +2594,7 @@ Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsb
 
 (4) Schwerbehinderten Menschen gleichgestellt sind auch behinderte Jugendliche und junge Erwachsene (§ 2 Absatz 1) während der Zeit ihrer Berufsausbildung in Betrieben und Dienststellen oder einer beruflichen Orientierung, auch wenn der Grad der Behinderung weniger als 30 beträgt oder ein Grad der Behinderung nicht festgestellt ist. Der Nachweis der Behinderung wird durch eine Stellungnahme der Agentur für Arbeit oder durch einen Bescheid über Leistungen zur Teilhabe am Arbeitsleben erbracht. Die Gleichstellung gilt nur für Leistungen des Integrationsamtes im Rahmen der beruflichen Orientierung und der Berufsausbildung im Sinne des § 185 Absatz 3 Nummer 2 Buchstabe c.
 
-
-## § 152 – Feststellung der Behinderung, Ausweise
+# § 152 – Feststellung der Behinderung, Ausweise
 
 (1) Auf Antrag des behinderten Menschen stellen die für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden das Vorliegen einer Behinderung und den Grad der Behinderung zum Zeitpunkt der Antragstellung fest. Auf Antrag kann festgestellt werden, dass ein Grad der Behinderung oder gesundheitliche Merkmale bereits zu einem früheren Zeitpunkt vorgelegen haben, wenn dafür ein besonderes Interesse glaubhaft gemacht wird. Beantragt eine erwerbstätige Person die Feststellung der Eigenschaft als schwerbehinderter Mensch (§ 2 Absatz 2), gelten die in § 14 Absatz 2 Satz 2 und 3 sowie § 17 Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Fristen sowie § 60 Absatz 1 des Ersten Buches entsprechend. Das Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung ist entsprechend anzuwenden, soweit nicht das Zehnte Buch Anwendung findet. Die Auswirkungen auf die Teilhabe am Leben in der Gesellschaft werden als Grad der Behinderung nach Zehnergraden abgestuft festgestellt. Eine Feststellung ist nur zu treffen, wenn ein Grad der Behinderung von wenigstens 20 vorliegt. Durch Landesrecht kann die Zuständigkeit abweichend von Satz 1 geregelt werden.
 
@@ -2764,15 +2608,13 @@ Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsb
 
 (+++ § 152: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 153 – Verordnungsermächtigung
+# § 153 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Gestaltung der Ausweise, ihre Gültigkeit und das Verwaltungsverfahren zu erlassen.
 
 (2) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze aufzustellen, die für die Bewertung des Grades der Behinderung, die Kriterien für die Bewertung der Hilflosigkeit und die Voraussetzungen für die Vergabe von Merkzeichen maßgebend sind, die nach Bundesrecht im Schwerbehindertenausweis einzutragen sind.
 
-
-## § 154 – Pflicht der Arbeitgeber zur Beschäftigung schwerbehinderter Menschen
+# § 154 – Pflicht der Arbeitgeber zur Beschäftigung schwerbehinderter Menschen
 
 (1) Private und öffentliche Arbeitgeber (Arbeitgeber) mit jahresdurchschnittlich monatlich mindestens 20 Arbeitsplätzen im Sinne des § 156 haben auf wenigstens 5 Prozent der Arbeitsplätze schwerbehinderte Menschen zu beschäftigen. Dabei sind schwerbehinderte Frauen besonders zu berücksichtigen. Abweichend von Satz 1 haben Arbeitgeber mit jahresdurchschnittlich monatlich weniger als 40 Arbeitsplätzen jahresdurchschnittlich je Monat einen schwerbehinderten Menschen, Arbeitgeber mit jahresdurchschnittlich monatlich weniger als 60 Arbeitsplätzen jahresdurchschnittlich je Monat zwei schwerbehinderte Menschen zu beschäftigen.
 
@@ -2786,8 +2628,7 @@ Abweichend von Kapitel 9 sind bei der Festsetzung von Leistungen für Leistungsb
 
 4. jede sonstige Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts.
 
-
-## § 155 – Beschäftigung besonderer Gruppen schwerbehinderter Menschen
+# § 155 – Beschäftigung besonderer Gruppen schwerbehinderter Menschen
 
 (1) Im Rahmen der Erfüllung der Beschäftigungspflicht sind in angemessenem Umfang zu beschäftigen:
 
@@ -2807,8 +2648,7 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (2) Arbeitgeber mit Stellen zur beruflichen Bildung, insbesondere für Auszubildende, haben im Rahmen der Erfüllung der Beschäftigungspflicht einen angemessenen Anteil dieser Stellen mit schwerbehinderten Menschen zu besetzen. Hierüber ist mit der zuständigen Interessenvertretung im Sinne des § 176 und der Schwerbehindertenvertretung zu beraten.
 
-
-## § 156 – Begriff des Arbeitsplatzes
+# § 156 – Begriff des Arbeitsplatzes
 
 (1) Arbeitsplätze im Sinne dieses Teils sind alle Stellen, auf denen Arbeitnehmerinnen und Arbeitnehmer, Beamtinnen und Beamte, Richterinnen und Richter sowie Auszubildende und andere zu ihrer beruflichen Bildung Eingestellte beschäftigt werden.
 
@@ -2828,15 +2668,13 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (3) Als Arbeitsplätze gelten ferner nicht Stellen, die nach der Natur der Arbeit oder nach den zwischen den Parteien getroffenen Vereinbarungen nur auf die Dauer von höchstens acht Wochen besetzt sind, sowie Stellen, auf denen Beschäftigte weniger als 18 Stunden wöchentlich beschäftigt werden.
 
-
-## § 157 – Berechnung der Mindestzahl von Arbeitsplätzen und der Pflichtarbeitsplatzzahl
+# § 157 – Berechnung der Mindestzahl von Arbeitsplätzen und der Pflichtarbeitsplatzzahl
 
 (1) Bei der Berechnung der Mindestzahl von Arbeitsplätzen und der Zahl der Arbeitsplätze, auf denen schwerbehinderte Menschen zu beschäftigen sind (§ 154), zählen Stellen, auf denen Auszubildende beschäftigt werden, nicht mit. Das Gleiche gilt für Stellen, auf denen Rechts- oder Studienreferendarinnen und -referendare beschäftigt werden, die einen Rechtsanspruch auf Einstellung haben.
 
 (2) Bei der Berechnung sich ergebende Bruchteile von 0,5 und mehr sind aufzurunden, bei Arbeitgebern mit jahresdurchschnittlich weniger als 60 Arbeitsplätzen abzurunden.
 
-
-## § 158 – Anrechnung Beschäftigter auf die Zahl der Pflichtarbeitsplätze für schwerbehinderte Menschen
+# § 158 – Anrechnung Beschäftigter auf die Zahl der Pflichtarbeitsplätze für schwerbehinderte Menschen
 
 (1) Ein schwerbehinderter Mensch, der auf einem Arbeitsplatz im Sinne des § 156 Absatz 1 oder Absatz 2 Nummer 1 oder 4 beschäftigt wird, wird auf einen Pflichtarbeitsplatz für schwerbehinderte Menschen angerechnet.
 
@@ -2848,8 +2686,7 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (5) Der Inhaber eines Bergmannsversorgungsscheins wird, auch wenn er kein schwerbehinderter oder gleichgestellter behinderter Mensch im Sinne des § 2 Absatz 2 oder 3 ist, auf einen Pflichtarbeitsplatz angerechnet.
 
-
-## § 159 – Mehrfachanrechnung
+# § 159 – Mehrfachanrechnung
 
 (1) Die Bundesagentur für Arbeit kann die Anrechnung eines schwerbehinderten Menschen, besonders eines schwerbehinderten Menschen im Sinne des § 155 Absatz 1 auf mehr als einen Pflichtarbeitsplatz, höchstens drei Pflichtarbeitsplätze für schwerbehinderte Menschen zulassen, wenn dessen Teilhabe am Arbeitsleben auf besondere Schwierigkeiten stößt. Satz 1 gilt auch für schwerbehinderte Menschen im Anschluss an eine Beschäftigung in einer Werkstatt für behinderte Menschen und für teilzeitbeschäftigte schwerbehinderte Menschen im Sinne des § 158 Absatz 2.
 
@@ -2857,8 +2694,7 @@ e) die wegen Art oder Schwere der Behinderung keine abgeschlossene Berufsbildung
 
 (3) Bescheide über die Anrechnung eines schwerbehinderten Menschen auf mehr als drei Pflichtarbeitsplätze für schwerbehinderte Menschen, die vor dem 1. August 1986 erlassen worden sind, gelten fort.
 
-
-## § 160 – Ausgleichsabgabe
+# § 160 – Ausgleichsabgabe
 
 (1) Solange Arbeitgeber die vorgeschriebene Zahl schwerbehinderter Menschen nicht beschäftigen, entrichten sie für jeden unbesetzten Pflichtarbeitsplatz für schwerbehinderte Menschen eine Ausgleichsabgabe. Die Zahlung der Ausgleichsabgabe hebt die Pflicht zur Beschäftigung schwerbehinderter Menschen nicht auf. Die Ausgleichsabgabe wird auf der Grundlage einer jahresdurchschnittlichen Beschäftigungsquote ermittelt.
 
@@ -2897,13 +2733,11 @@ Abweichend von Satz 1 beträgt die Ausgleichsabgabe je unbesetztem Pflichtarbeit
     ab dem 1.1.2021 vgl. Nr. 1 Bek. 860-9-1-3-3 v. 19.11.2020 BAnz AT 30.11.2020 B1
      (SGB92018§§160Abs3ua/WMVO§39Abs4Bek) +++) 
 
-
-## § 161 – Ausgleichsfonds
+# § 161 – Ausgleichsfonds
 
 Zur besonderen Förderung der Einstellung und Beschäftigung schwerbehinderter Menschen auf Arbeitsplätzen und zur Förderung von Einrichtungen und Maßnahmen, die den Interessen mehrerer Länder auf dem Gebiet der Förderung der Teilhabe schwerbehinderter Menschen am Arbeitsleben dienen, ist beim Bundesministerium für Arbeit und Soziales als zweckgebundene Vermögensmasse ein Ausgleichsfonds für überregionale Vorhaben zur Teilhabe schwerbehinderter Menschen am Arbeitsleben gebildet. Das Bundesministerium für Arbeit und Soziales verwaltet den Ausgleichsfonds.
 
-
-## § 162 – Verordnungsermächtigungen
+# § 162 – Verordnungsermächtigungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -2923,8 +2757,7 @@ zu regeln,
 
 4. die Ausgleichsabgabe bei Arbeitgebern, die über weniger als 30 Arbeitsplätze verfügen, für einen bestimmten Zeitraum allgemein oder für einzelne Bundesländer herabzusetzen oder zu erlassen, wenn die Zahl der unbesetzten Pflichtarbeitsplätze für schwerbehinderte Menschen die Zahl der zu beschäftigenden schwerbehinderten Menschen so erheblich übersteigt, dass die Pflichtarbeitsplätze für schwerbehinderte Menschen dieser Arbeitgeber nicht in Anspruch genommen zu werden brauchen.
 
-
-## § 163 – Zusammenwirken der Arbeitgeber mit der Bundesagentur für Arbeit und den Integrationsämtern
+# § 163 – Zusammenwirken der Arbeitgeber mit der Bundesagentur für Arbeit und den Integrationsämtern
 
 (1) Die Arbeitgeber haben, gesondert für jeden Betrieb und jede Dienststelle, ein Verzeichnis der bei ihnen beschäftigten schwerbehinderten, ihnen gleichgestellten behinderten Menschen und sonstigen anrechnungsfähigen Personen laufend zu führen und dieses den Vertretern oder Vertreterinnen der Bundesagentur für Arbeit und des Integrationsamtes, die für den Sitz des Betriebes oder der Dienststelle zuständig sind, auf Verlangen vorzulegen.
 
@@ -2942,8 +2775,7 @@ zu regeln,
 
 (8) Die Arbeitgeber haben die Vertrauenspersonen der schwerbehinderten Menschen (§ 177 Absatz 1 Satz 1 bis 3 und § 180 Absatz 1 bis 5) unverzüglich nach der Wahl und ihren Inklusionsbeauftragten für die Angelegenheiten der schwerbehinderten Menschen (§ 181 Satz 1) unverzüglich nach der Bestellung der für den Sitz des Betriebes oder der Dienststelle zuständigen Agentur für Arbeit und dem Integrationsamt zu benennen.
 
-
-## § 164 – Pflichten des Arbeitgebers und Rechte schwerbehinderter Menschen
+# § 164 – Pflichten des Arbeitgebers und Rechte schwerbehinderter Menschen
 
 (1) Die Arbeitgeber sind verpflichtet zu prüfen, ob freie Arbeitsplätze mit schwerbehinderten Menschen, insbesondere mit bei der Agentur für Arbeit arbeitslos oder arbeitsuchend gemeldeten schwerbehinderten Menschen, besetzt werden können. Sie nehmen frühzeitig Verbindung mit der Agentur für Arbeit auf. Die Bundesagentur für Arbeit oder ein Integrationsfachdienst schlägt den Arbeitgebern geeignete schwerbehinderte Menschen vor. Über die Vermittlungsvorschläge und vorliegende Bewerbungen von schwerbehinderten Menschen haben die Arbeitgeber die Schwerbehindertenvertretung und die in § 176 genannten Vertretungen unmittelbar nach Eingang zu unterrichten. Bei Bewerbungen schwerbehinderter Richterinnen und Richter wird der Präsidialrat unterrichtet und gehört, soweit dieser an der Ernennung zu beteiligen ist. Bei der Prüfung nach Satz 1 beteiligen die Arbeitgeber die Schwerbehindertenvertretung nach § 178 Absatz 2 und hören die in § 176 genannten Vertretungen an. Erfüllt der Arbeitgeber seine Beschäftigungspflicht nicht und ist die Schwerbehindertenvertretung oder eine in § 176 genannte Vertretung mit der beabsichtigten Entscheidung des Arbeitgebers nicht einverstanden, ist diese unter Darlegung der Gründe mit ihnen zu erörtern. Dabei wird der betroffene schwerbehinderte Mensch angehört. Alle Beteiligten sind vom Arbeitgeber über die getroffene Entscheidung unter Darlegung der Gründe unverzüglich zu unterrichten. Bei Bewerbungen schwerbehinderter Menschen ist die Schwerbehindertenvertretung nicht zu beteiligen, wenn der schwerbehinderte Mensch die Beteiligung der Schwerbehindertenvertretung ausdrücklich ablehnt.
 
@@ -2967,13 +2799,11 @@ unter Berücksichtigung der Behinderung und ihrer Auswirkungen auf die Beschäft
 
 (5) Die Arbeitgeber fördern die Einrichtung von Teilzeitarbeitsplätzen. Sie werden dabei von den Integrationsämtern unterstützt. Schwerbehinderte Menschen haben einen Anspruch auf Teilzeitbeschäftigung, wenn die kürzere Arbeitszeit wegen Art oder Schwere der Behinderung notwendig ist; Absatz 4 Satz 3 gilt entsprechend.
 
-
-## § 165 – Besondere Pflichten der öffentlichen Arbeitgeber
+# § 165 – Besondere Pflichten der öffentlichen Arbeitgeber
 
 Die Dienststellen der öffentlichen Arbeitgeber melden den Agenturen für Arbeit frühzeitig nach einer erfolglosen Prüfung zur internen Besetzung des Arbeitsplatzes frei werdende und neu zu besetzende sowie neue Arbeitsplätze (§ 156). Mit dieser Meldung gilt die Zustimmung zur Veröffentlichung der Stellenangebote als erteilt. Haben schwerbehinderte Menschen sich um einen solchen Arbeitsplatz beworben oder sind sie von der Bundesagentur für Arbeit oder einem von dieser beauftragten Integrationsfachdienst vorgeschlagen worden, werden sie zu einem Vorstellungsgespräch eingeladen. Eine Einladung ist entbehrlich, wenn die fachliche Eignung offensichtlich fehlt. Einer Inklusionsvereinbarung nach § 166 bedarf es nicht, wenn für die Dienststellen dem § 166 entsprechende Regelungen bereits bestehen und durchgeführt werden.
 
-
-## § 166 – Inklusionsvereinbarung
+# § 166 – Inklusionsvereinbarung
 
 (1) Die Arbeitgeber treffen mit der Schwerbehindertenvertretung und den in § 176 genannten Vertretungen in Zusammenarbeit mit dem Inklusionsbeauftragten des Arbeitgebers (§ 181) eine verbindliche Inklusionsvereinbarung. Auf Antrag der Schwerbehindertenvertretung wird unter Beteiligung der in § 176 genannten Vertretungen hierüber verhandelt. Ist eine Schwerbehindertenvertretung nicht vorhanden, steht das Antragsrecht den in § 176 genannten Vertretungen zu. Der Arbeitgeber oder die Schwerbehindertenvertretung kann das Integrationsamt einladen, sich an den Verhandlungen über die Inklusionsvereinbarung zu beteiligen. Das Integrationsamt soll dabei insbesondere darauf hinwirken, dass unterschiedliche Auffassungen überwunden werden. Der Agentur für Arbeit und dem Integrationsamt, die für den Sitz des Arbeitgebers zuständig sind, wird die Vereinbarung übermittelt.
 
@@ -2995,8 +2825,7 @@ Die Dienststellen der öffentlichen Arbeitgeber melden den Agenturen für Arbeit
 
 (4) In den Versammlungen schwerbehinderter Menschen berichtet der Arbeitgeber über alle Angelegenheiten im Zusammenhang mit der Eingliederung schwerbehinderter Menschen.
 
-
-## § 167 – Prävention
+# § 167 – Prävention
 
 (1) Der Arbeitgeber schaltet bei Eintreten von personen-, verhaltens- oder betriebsbedingten Schwierigkeiten im Arbeits- oder sonstigen Beschäftigungsverhältnis, die zur Gefährdung dieses Verhältnisses führen können, möglichst frühzeitig die Schwerbehindertenvertretung und die in § 176 genannten Vertretungen sowie das Integrationsamt ein, um mit ihnen alle Möglichkeiten und alle zur Verfügung stehenden Hilfen zur Beratung und mögliche finanzielle Leistungen zu erörtern, mit denen die Schwierigkeiten beseitigt werden können und das Arbeits- oder sonstige Beschäftigungsverhältnis möglichst dauerhaft fortgesetzt werden kann.
 
@@ -3004,23 +2833,20 @@ Die Dienststellen der öffentlichen Arbeitgeber melden den Agenturen für Arbeit
 
 (3) Die Rehabilitationsträger und die Integrationsämter können Arbeitgeber, die ein betriebliches Eingliederungsmanagement einführen, durch Prämien oder einen Bonus fördern.
 
-
-## § 168 – Erfordernis der Zustimmung
+# § 168 – Erfordernis der Zustimmung
 
 Die Kündigung des Arbeitsverhältnisses eines schwerbehinderten Menschen durch den Arbeitgeber bedarf der vorherigen Zustimmung des Integrationsamtes.
 
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 169 – Kündigungsfrist
+# § 169 – Kündigungsfrist
 
 Die Kündigungsfrist beträgt mindestens vier Wochen.
 
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)
 
-
-## § 170 – Antragsverfahren
+# § 170 – Antragsverfahren
 
 (1) Die Zustimmung zur Kündigung beantragt der Arbeitgeber bei dem für den Sitz des Betriebes oder der Dienststelle zuständigen Integrationsamt schriftlich oder elektronisch. Der Begriff des Betriebes und der Begriff der Dienststelle im Sinne dieses Teils bestimmen sich nach dem Betriebsverfassungsgesetz und dem Personalvertretungsrecht.
 
@@ -3031,8 +2857,7 @@ Die Kündigungsfrist beträgt mindestens vier Wochen.
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 171 – Entscheidung des Integrationsamtes
+# § 171 – Entscheidung des Integrationsamtes
 
 (1) Das Integrationsamt soll die Entscheidung, falls erforderlich, auf Grund mündlicher Verhandlung, innerhalb eines Monats vom Tag des Eingangs des Antrages an treffen.
 
@@ -3047,8 +2872,7 @@ Die Kündigungsfrist beträgt mindestens vier Wochen.
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 172 – Einschränkungen der Ermessensentscheidung
+# § 172 – Einschränkungen der Ermessensentscheidung
 
 (1) Das Integrationsamt erteilt die Zustimmung bei Kündigungen in Betrieben und Dienststellen, die nicht nur vorübergehend eingestellt oder aufgelöst werden, wenn zwischen dem Tag der Kündigung und dem Tag, bis zu dem Gehalt oder Lohn gezahlt wird, mindestens drei Monate liegen. Unter der gleichen Voraussetzung soll es die Zustimmung auch bei Kündigungen in Betrieben und Dienststellen erteilen, die nicht nur vorübergehend wesentlich eingeschränkt werden, wenn die Gesamtzahl der weiterhin beschäftigten schwerbehinderten Menschen zur Erfüllung der Beschäftigungspflicht nach § 154 ausreicht. Die Sätze 1 und 2 gelten nicht, wenn eine Weiterbeschäftigung auf einem anderen Arbeitsplatz desselben Betriebes oder derselben Dienststelle oder auf einem freien Arbeitsplatz in einem anderen Betrieb oder einer anderen Dienststelle desselben Arbeitgebers mit Einverständnis des schwerbehinderten Menschen möglich und für den Arbeitgeber zumutbar ist.
 
@@ -3067,8 +2891,7 @@ Die Kündigungsfrist beträgt mindestens vier Wochen.
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 173 – Ausnahmen
+# § 173 – Ausnahmen
 
 (1) Die Vorschriften dieses Kapitels gelten nicht für schwerbehinderte Menschen,
 
@@ -3093,8 +2916,7 @@ Satz 1 Nummer 3 (Buchstabe a und b) finden Anwendung, wenn der Arbeitgeber ihnen
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 174 – Außerordentliche Kündigung
+# § 174 – Außerordentliche Kündigung
 
 (1) Die Vorschriften dieses Kapitels gelten mit Ausnahme von § 169 auch bei außerordentlicher Kündigung, soweit sich aus den folgenden Bestimmungen nichts Abweichendes ergibt.
 
@@ -3111,23 +2933,20 @@ Satz 1 Nummer 3 (Buchstabe a und b) finden Anwendung, wenn der Arbeitgeber ihnen
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 175 – Erweiterter Beendigungsschutz
+# § 175 – Erweiterter Beendigungsschutz
 
 Die Beendigung des Arbeitsverhältnisses eines schwerbehinderten Menschen bedarf auch dann der vorherigen Zustimmung des Integrationsamtes, wenn sie im Falle des Eintritts einer teilweisen Erwerbsminderung, der Erwerbsminderung auf Zeit, der Berufsunfähigkeit oder der Erwerbsunfähigkeit auf Zeit ohne Kündigung erfolgt. Die Vorschriften dieses Kapitels über die Zustimmung zur ordentlichen Kündigung gelten entsprechend.
 
 (+++ Kapitel 4 (§§ 168 bis 175: Zur Anwendung vgl. § 173 +++)  
 (+++ Kapitel 4 (§§ 168 u. 170 bis 175: Zur Anwendung vgl. § 174 +++)
 
-
-## § 176 – Aufgaben des Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrates
+# § 176 – Aufgaben des Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrates
 
 Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrat fördern die Eingliederung schwerbehinderter Menschen. Sie achten insbesondere darauf, dass die dem Arbeitgeber nach den §§ 154, 155 und 164 bis 167 obliegenden Verpflichtungen erfüllt werden; sie wirken auf die Wahl der Schwerbehindertenvertretung hin.
 
 (+++ § 176: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 177 – Wahl und Amtszeit der Schwerbehindertenvertretung
+# § 177 – Wahl und Amtszeit der Schwerbehindertenvertretung
 
 (1) In Betrieben und Dienststellen, in denen wenigstens fünf schwerbehinderte Menschen nicht nur vorübergehend beschäftigt sind, werden eine Vertrauensperson und wenigstens ein stellvertretendes Mitglied gewählt, das die Vertrauensperson im Falle der Verhinderung vertritt. Ferner wählen bei Gerichten, denen mindestens fünf schwerbehinderte Richter oder Richterinnen angehören, diese einen Richter oder eine Richterin zu ihrer Schwerbehindertenvertretung. Satz 2 gilt entsprechend für Staatsanwälte oder Staatsanwältinnen, soweit für sie eine besondere Personalvertretung gebildet wird. Betriebe oder Dienststellen, die die Voraussetzungen des Satzes 1 nicht erfüllen, können für die Wahl mit räumlich nahe liegenden Betrieben des Arbeitgebers oder gleichstufigen Dienststellen derselben Verwaltung zusammengefasst werden; soweit erforderlich, können Gerichte unterschiedlicher Gerichtszweige und Stufen zusammengefasst werden. Über die Zusammenfassung entscheidet der Arbeitgeber im Benehmen mit dem für den Sitz der Betriebe oder Dienststellen einschließlich Gerichten zuständigen Integrationsamt.
 
@@ -3157,8 +2976,7 @@ Hat außerhalb des für die regelmäßigen Wahlen festgelegten Zeitraumes eine W
 (+++ § 177 Abs. 1 S. 4 und 5: Zur Anwendung vgl. § 240 +++)  
 (+++ § 177 Abs. 2, 3, 6 und 7: Zur Anwendung vgl. § 239 +++)
 
-
-## § 178 – Aufgaben der Schwerbehindertenvertretung
+# § 178 – Aufgaben der Schwerbehindertenvertretung
 
 (1) Die Schwerbehindertenvertretung fördert die Eingliederung schwerbehinderter Menschen in den Betrieb oder die Dienststelle, vertritt ihre Interessen in dem Betrieb oder der Dienststelle und steht ihnen beratend und helfend zur Seite. Sie erfüllt ihre Aufgaben insbesondere dadurch, dass sie
 
@@ -3186,8 +3004,7 @@ Die Schwerbehindertenvertretung unterstützt Beschäftigte auch bei Anträgen an
 
 (+++ § 178: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 179 – Persönliche Rechte und Pflichten der Vertrauenspersonen der schwerbehinderten Menschen
+# § 179 – Persönliche Rechte und Pflichten der Vertrauenspersonen der schwerbehinderten Menschen
 
 (1) Die Vertrauenspersonen führen ihr Amt unentgeltlich als Ehrenamt.
 
@@ -3216,8 +3033,7 @@ Diese Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht g
 (+++ § 179: Zur Anwendung vgl. § 211 Abs. 3 +++)  
 (+++ § 179 Abs. 7 S. 3: Zur Anwendung vgl. § 240 +++)
 
-
-## § 180 – Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung
+# § 180 – Konzern-, Gesamt-, Bezirks- und Hauptschwerbehindertenvertretung
 
 (1) Ist für mehrere Betriebe eines Arbeitgebers ein Gesamtbetriebsrat oder für den Geschäftsbereich mehrerer Dienststellen ein Gesamtpersonalrat errichtet, wählen die Schwerbehindertenvertretungen der einzelnen Betriebe oder Dienststellen eine Gesamtschwerbehindertenvertretung. Ist eine Schwerbehindertenvertretung nur in einem der Betriebe oder in einer der Dienststellen gewählt, nimmt sie die Rechte und Pflichten der Gesamtschwerbehindertenvertretung wahr.
 
@@ -3239,15 +3055,13 @@ Diese Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht g
 (+++ § 180: Zur Anwendung vgl. § 240 +++)  
 (+++ § 180 Abs. 6 S. 1: Zur Anwendung vgl. § 239 +++)
 
-
-## § 181 – Inklusionsbeauftragter des Arbeitgebers
+# § 181 – Inklusionsbeauftragter des Arbeitgebers
 
 Der Arbeitgeber bestellt einen Inklusionsbeauftragten, der ihn in Angelegenheiten schwerbehinderter Menschen verantwortlich vertritt; falls erforderlich, können mehrere Inklusionsbeauftragte bestellt werden. Der Inklusionsbeauftragte soll nach Möglichkeit selbst ein schwerbehinderter Mensch sein. Der Inklusionsbeauftragte achtet vor allem darauf, dass dem Arbeitgeber obliegende Verpflichtungen erfüllt werden.
 
 (+++ § 181: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 182 – Zusammenarbeit
+# § 182 – Zusammenarbeit
 
 (1) Arbeitgeber, Inklusionsbeauftragter des Arbeitgebers, Schwerbehindertenvertretung und Betriebs-, Personal-, Richter-, Staatsanwalts- oder Präsidialrat arbeiten zur Teilhabe schwerbehinderter Menschen am Arbeitsleben in dem Betrieb oder der Dienststelle eng zusammen.
 
@@ -3255,13 +3069,11 @@ Der Arbeitgeber bestellt einen Inklusionsbeauftragten, der ihn in Angelegenheite
 
 (+++ § 182: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 183 – Verordnungsermächtigung
+# § 183 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Vorbereitung und Durchführung der Wahl der Schwerbehindertenvertretung und ihrer Stufenvertretungen zu erlassen.
 
-
-## § 184 – Zusammenarbeit der Integrationsämter und der Bundesagentur für Arbeit
+# § 184 – Zusammenarbeit der Integrationsämter und der Bundesagentur für Arbeit
 
 (1) Soweit die besonderen Regelungen zur Teilhabe schwerbehinderter Menschen am Arbeitsleben nicht durch freie Entschließung der Arbeitgeber erfüllt werden, werden sie
 
@@ -3273,8 +3085,7 @@ in enger Zusammenarbeit durchgeführt.
 
 (2) Die den Rehabilitationsträgern nach den geltenden Vorschriften obliegenden Aufgaben bleiben unberührt.
 
-
-## § 185 – Aufgaben des Integrationsamtes
+# § 185 – Aufgaben des Integrationsamtes
 
 (1) Das Integrationsamt hat folgende Aufgaben:
 
@@ -3336,8 +3147,7 @@ e) für außergewöhnliche Belastungen, die mit der Beschäftigung schwerbehinde
 
 (8) Auf Antrag führt das Integrationsamt seine Leistungen zur begleitenden Hilfe im Arbeitsleben als Persönliches Budget aus. § 29 gilt entsprechend.
 
-
-## § 186 – Beratender Ausschuss für behinderte Menschen bei dem Integrationsamt
+# § 186 – Beratender Ausschuss für behinderte Menschen bei dem Integrationsamt
 
 (1) Bei jedem Integrationsamt wird ein Beratender Ausschuss für behinderte Menschen gebildet, der die Teilhabe der behinderten Menschen am Arbeitsleben fördert, das Integrationsamt bei der Durchführung der besonderen Regelungen für schwerbehinderte Menschen zur Teilhabe am Arbeitsleben unterstützt und bei der Vergabe der Mittel der Ausgleichsabgabe mitwirkt. Soweit die Mittel der Ausgleichsabgabe zur institutionellen Förderung verwendet werden, macht der Beratende Ausschuss Vorschläge für die Entscheidungen des Integrationsamtes.
 
@@ -3367,8 +3177,7 @@ e) für außergewöhnliche Belastungen, die mit der Beschäftigung schwerbehinde
 
 Die zuständige oberste Landesbehörde oder die von ihr bestimmte Behörde und die Bundesagentur für Arbeit berufen je ein Mitglied.
 
-
-## § 187 – Aufgaben der Bundesagentur für Arbeit
+# § 187 – Aufgaben der Bundesagentur für Arbeit
 
 (1) Die Bundesagentur für Arbeit hat folgende Aufgaben:
 
@@ -3412,8 +3221,7 @@ e) die zur Aus- oder Weiterbildung eingestellt werden,
 
 2. ihre Fördermöglichkeiten aufzuzeigen, soweit möglich und erforderlich, auch die entsprechenden Hilfen der Rehabilitationsträger und der begleitenden Hilfe im Arbeitsleben durch die Integrationsämter.
 
-
-## § 188 – Beratender Ausschuss für behinderte Menschen bei der Bundesagentur für Arbeit
+# § 188 – Beratender Ausschuss für behinderte Menschen bei der Bundesagentur für Arbeit
 
 (1) Bei der Zentrale der Bundesagentur für Arbeit wird ein Beratender Ausschuss für behinderte Menschen gebildet, der die Teilhabe der behinderten Menschen am Arbeitsleben durch Vorschläge fördert und die Bundesagentur für Arbeit bei der Durchführung der in diesem Teil und im Dritten Buch zur Teilhabe behinderter und schwerbehinderter Menschen am Arbeitsleben übertragenen Aufgaben unterstützt.
 
@@ -3433,8 +3241,7 @@ e) die zur Aus- oder Weiterbildung eingestellt werden,
 
 (4) Der Vorstand der Bundesagentur für Arbeit beruft die Mitglieder, die Arbeitnehmer und Arbeitgeber vertreten, auf Vorschlag ihrer Gruppenvertreter im Verwaltungsrat der Bundesagentur für Arbeit. Er beruft auf Vorschlag der Organisationen behinderter Menschen, die nach der Zusammensetzung ihrer Mitglieder dazu berufen sind, die behinderten Menschen in ihrer Gesamtheit auf Bundesebene zu vertreten, die Mitglieder, die Organisationen der behinderten Menschen vertreten. Auf Vorschlag der Bundesarbeitsgemeinschaft der Integrationsämter und Hauptfürsorgestellen beruft er das Mitglied, das die Integrationsämter vertritt, und auf Vorschlag des Bundesministeriums für Arbeit und Soziales das Mitglied, das dieses vertritt.
 
-
-## § 189 – Gemeinsame Vorschriften
+# § 189 – Gemeinsame Vorschriften
 
 (1) Die Beratenden Ausschüsse für behinderte Menschen (§§ 186, 188) wählen aus den ihnen angehörenden Mitgliedern von Seiten der Arbeitnehmer, Arbeitgeber oder Organisationen behinderter Menschen jeweils für die Dauer eines Jahres eine Vorsitzende oder einen Vorsitzenden und eine Stellvertreterin oder einen Stellvertreter. Die Gewählten dürfen nicht derselben Gruppe angehören. Die Gruppen stellen in regelmäßig jährlich wechselnder Reihenfolge die Vorsitzende oder den Vorsitzenden und die Stellvertreterin oder den Stellvertreter. Die Reihenfolge wird durch die Beendigung der Amtszeit der Mitglieder nicht unterbrochen. Scheidet die Vorsitzende oder der Vorsitzende oder die Stellvertreterin oder der Stellvertreter aus, wird sie oder er neu gewählt.
 
@@ -3442,20 +3249,17 @@ e) die zur Aus- oder Weiterbildung eingestellt werden,
 
 (3) Die Mitglieder der Beratenden Ausschüsse für behinderte Menschen üben ihre Tätigkeit ehrenamtlich aus. Ihre Amtszeit beträgt vier Jahre.
 
-
-## § 190 – Übertragung von Aufgaben
+# § 190 – Übertragung von Aufgaben
 
 (1) Die Landesregierung oder die von ihr bestimmte Stelle kann die Verlängerung der Gültigkeitsdauer der Ausweise nach § 152 Absatz 5, für die eine Feststellung nach § 152 Absatz 1 nicht zu treffen ist, auf andere Behörden übertragen. Im Übrigen kann sie andere Behörden zur Aushändigung der Ausweise heranziehen.
 
 (2) Die Landesregierung oder die von ihr bestimmte Stelle kann Aufgaben und Befugnisse des Integrationsamtes nach diesem Teil auf örtliche Fürsorgestellen übertragen oder die Heranziehung örtlicher Fürsorgestellen zur Durchführung der den Integrationsämtern obliegenden Aufgaben bestimmen.
 
-
-## § 191 – Verordnungsermächtigung
+# § 191 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Voraussetzungen des Anspruchs nach § 49 Absatz 8 Nummer 3 und § 185 Absatz 5 sowie über die Dauer und Ausführung der Leistungen zu regeln.
 
-
-## § 192 – Begriff und Personenkreis
+# § 192 – Begriff und Personenkreis
 
 (1) Integrationsfachdienste sind Dienste Dritter, die bei der Durchführung der Maßnahmen zur Teilhabe schwerbehinderter Menschen am Arbeitsleben beteiligt werden.
 
@@ -3471,8 +3275,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (4) Der Integrationsfachdienst kann im Rahmen der Aufgabenstellung nach Absatz 1 auch zur beruflichen Eingliederung von behinderten Menschen, die nicht schwerbehindert sind, tätig werden. Hierbei wird den besonderen Bedürfnissen seelisch behinderter oder von einer seelischen Behinderung bedrohter Menschen Rechnung getragen.
 
-
-## § 193 – Aufgaben
+# § 193 – Aufgaben
 
 (1) Die Integrationsfachdienste können zur Teilhabe schwerbehinderter Menschen am Arbeitsleben (Aufnahme, Ausübung und Sicherung einer möglichst dauerhaften Beschäftigung) beteiligt werden, indem sie
 
@@ -3502,8 +3305,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 10. in Zusammenarbeit mit den Rehabilitationsträgern und den Integrationsämtern die für den schwerbehinderten Menschen benötigten Leistungen zu klären und bei der Beantragung zu unterstützen.
 
-
-## § 194 – Beauftragung und Verantwortlichkeit
+# § 194 – Beauftragung und Verantwortlichkeit
 
 (1) Die Integrationsfachdienste werden im Auftrag der Integrationsämter oder der Rehabilitationsträger tätig. Diese bleiben für die Ausführung der Leistung verantwortlich.
 
@@ -3531,8 +3333,7 @@ eng zusammen.
 
 (5) Die Integrationsämter wirken darauf hin, dass die berufsbegleitenden und psychosozialen Dienste bei den von ihnen beauftragten Integrationsfachdiensten konzentriert werden.
 
-
-## § 195 – Fachliche Anforderungen
+# § 195 – Fachliche Anforderungen
 
 (1) Die Integrationsfachdienste müssen
 
@@ -3548,8 +3349,7 @@ eng zusammen.
 
 (3) Bei der Stellenbesetzung des Integrationsfachdienstes werden schwerbehinderte Menschen bevorzugt berücksichtigt. Dabei wird ein angemessener Anteil der Stellen mit schwerbehinderten Frauen besetzt.
 
-
-## § 196 – Finanzielle Leistungen
+# § 196 – Finanzielle Leistungen
 
 (1) Die Inanspruchnahme von Integrationsfachdiensten wird vom Auftraggeber vergütet. Die Vergütung für die Inanspruchnahme von Integrationsfachdiensten kann bei Beauftragung durch das Integrationsamt aus Mitteln der Ausgleichsabgabe erbracht werden.
 
@@ -3557,8 +3357,7 @@ eng zusammen.
 
 (3) Die Bundesarbeitsgemeinschaft der Integrationsämter und Hauptfürsorgestellen vereinbart mit den Rehabilitationsträgern nach § 6 Absatz 1 Nummer 2 bis 5 unter Beteiligung der maßgeblichen Verbände, darunter der Bundesarbeitsgemeinschaft, in der sich die Integrationsfachdienste zusammengeschlossen haben, eine gemeinsame Empfehlung zur Inanspruchnahme der Integrationsfachdienste durch die Rehabilitationsträger, zur Zusammenarbeit und zur Finanzierung der Kosten, die dem Integrationsfachdienst bei der Wahrnehmung der Aufgaben der Rehabilitationsträger entstehen. § 26 Absatz 7 und 8 gilt entsprechend.
 
-
-## § 197 – Ergebnisbeobachtung
+# § 197 – Ergebnisbeobachtung
 
 (1) Der Integrationsfachdienst dokumentiert Verlauf und Ergebnis der jeweiligen Bemühungen um die Förderung der Teilhabe am Arbeitsleben. Er erstellt jährlich eine zusammenfassende Darstellung der Ergebnisse und legt diese den Auftraggebern nach deren näherer gemeinsamer Maßgabe vor. Diese Zusammenstellung soll insbesondere geschlechtsdifferenzierte Angaben enthalten zu
 
@@ -3570,15 +3369,13 @@ eng zusammen.
 
 (2) Der Integrationsfachdienst dokumentiert auch die Ergebnisse seiner Bemühungen zur Unterstützung der Bundesagentur für Arbeit und die Begleitung der betrieblichen Ausbildung nach § 193 Absatz 2 Nummer 2 und 3 unter Einbeziehung geschlechtsdifferenzierter Daten und Besonderheiten sowie der Art der Behinderung.
 
-
-## § 198 – Verordnungsermächtigung
+# § 198 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über den Begriff und die Aufgaben des Integrationsfachdienstes, die für sie geltenden fachlichen Anforderungen und die finanziellen Leistungen zu regeln.
 
 (2) Vereinbaren die Bundesarbeitsgemeinschaft der Integrationsämter und Hauptfürsorgestellen und die Rehabilitationsträger nicht innerhalb von sechs Monaten, nachdem das Bundesministerium für Arbeit und Soziales sie dazu aufgefordert hat, eine gemeinsame Empfehlung nach § 196 Absatz 3 oder ändern sie die unzureichend gewordene Empfehlung nicht innerhalb dieser Frist, kann das Bundesministerium für Arbeit und Soziales Regelungen durch Rechtsverordnung mit Zustimmung des Bundesrates erlassen.
 
-
-## § 199 – Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen
+# § 199 – Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen
 
 (1) Die besonderen Regelungen für schwerbehinderte Menschen werden nicht angewendet nach dem Wegfall der Voraussetzungen nach § 2 Absatz 2; wenn sich der Grad der Behinderung auf weniger als 50 verringert, jedoch erst am Ende des dritten Kalendermonats nach Eintritt der Unanfechtbarkeit des die Verringerung feststellenden Bescheides.
 
@@ -3588,22 +3385,19 @@ eng zusammen.
 
 (+++ § 199 Abs. 1: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 200 – Entziehung der besonderen Hilfen für schwerbehinderte Menschen
+# § 200 – Entziehung der besonderen Hilfen für schwerbehinderte Menschen
 
 (1) Einem schwerbehinderten Menschen, der einen zumutbaren Arbeitsplatz ohne berechtigten Grund zurückweist oder aufgibt oder sich ohne berechtigten Grund weigert, an einer Maßnahme zur Teilhabe am Arbeitsleben teilzunehmen, oder sonst durch sein Verhalten seine Teilhabe am Arbeitsleben schuldhaft vereitelt, kann das Integrationsamt im Benehmen mit der Bundesagentur für Arbeit die besonderen Hilfen für schwerbehinderte Menschen zeitweilig entziehen. Dies gilt auch für gleichgestellte behinderte Menschen.
 
 (2) Vor der Entscheidung über die Entziehung wird der schwerbehinderte Mensch gehört. In der Entscheidung wird die Frist bestimmt, für die sie gilt. Die Frist läuft vom Tag der Entscheidung an und beträgt nicht mehr als sechs Monate. Die Entscheidung wird dem schwerbehinderten Menschen bekannt gegeben.
 
-
-## § 201 – Widerspruch
+# § 201 – Widerspruch
 
 (1) Den Widerspruchsbescheid nach § 73 der Verwaltungsgerichtsordnung erlässt bei Verwaltungsakten der Integrationsämter und bei Verwaltungsakten der örtlichen Fürsorgestellen (§ 190 Absatz 2) der Widerspruchsausschuss bei dem Integrationsamt (§ 202). Des Vorverfahrens bedarf es auch, wenn den Verwaltungsakt ein Integrationsamt erlassen hat, das bei einer obersten Landesbehörde besteht.
 
 (2) Den Widerspruchsbescheid nach § 85 des Sozialgerichtsgesetzes erlässt bei Verwaltungsakten, welche die Bundesagentur für Arbeit auf Grund dieses Teils erlässt, der Widerspruchsausschuss der Bundesagentur für Arbeit.
 
-
-## § 202 – Widerspruchsausschuss bei dem Integrationsamt
+# § 202 – Widerspruchsausschuss bei dem Integrationsamt
 
 (1) Bei jedem Integrationsamt besteht ein Widerspruchsausschuss aus sieben Mitgliedern, und zwar aus zwei Mitgliedern, die schwerbehinderte Arbeitnehmer oder Arbeitnehmerinnen sind, zwei Mitgliedern, die Arbeitgeber sind, einem Mitglied, das das Integrationsamt vertritt, einem Mitglied, das die Bundesagentur für Arbeit vertritt, einer Vertrauensperson schwerbehinderter Menschen.
 
@@ -3615,8 +3409,7 @@ eng zusammen.
 
 (5) Die Amtszeit der Mitglieder der Widerspruchsausschüsse beträgt vier Jahre. Die Mitglieder der Ausschüsse üben ihre Tätigkeit unentgeltlich aus.
 
-
-## § 203 – Widerspruchsausschüsse der Bundesagentur für Arbeit
+# § 203 – Widerspruchsausschüsse der Bundesagentur für Arbeit
 
 (1) Die Bundesagentur für Arbeit richtet Widerspruchsausschüsse ein, die aus sieben Mitgliedern bestehen, und zwar aus zwei Mitgliedern, die schwerbehinderte Arbeitnehmer oder Arbeitnehmerinnen sind, zwei Mitgliedern, die Arbeitgeber sind, einem Mitglied, das das Integrationsamt vertritt, einem Mitglied, das die Bundesagentur für Arbeit vertritt, einer Vertrauensperson schwerbehinderter Menschen.
 
@@ -3636,8 +3429,7 @@ Die zuständige oberste Landesbehörde oder die von ihr bestimmte Behörde beruf
 
 (4) § 202 Absatz 5 gilt entsprechend.
 
-
-## § 204 – Verfahrensvorschriften
+# § 204 – Verfahrensvorschriften
 
 (1) Für den Widerspruchsausschuss bei dem Integrationsamt (§ 202) und die Widerspruchsausschüsse bei der Bundesagentur für Arbeit (§ 203) gilt § 189 Absatz 1 und 2 entsprechend.
 
@@ -3645,13 +3437,11 @@ Die zuständige oberste Landesbehörde oder die von ihr bestimmte Behörde beruf
 
 (3) Die Mitglieder der Ausschüsse können wegen Besorgnis der Befangenheit abgelehnt werden. Über die Ablehnung entscheidet der Ausschuss, dem das Mitglied angehört.
 
-
-## § 205 – Vorrang der schwerbehinderten Menschen
+# § 205 – Vorrang der schwerbehinderten Menschen
 
 Verpflichtungen zur bevorzugten Einstellung und Beschäftigung bestimmter Personenkreise nach anderen Gesetzen entbinden den Arbeitgeber nicht von der Verpflichtung zur Beschäftigung schwerbehinderter Menschen nach den besonderen Regelungen für schwerbehinderte Menschen.
 
-
-## § 206 – Arbeitsentgelt und Dienstbezüge
+# § 206 – Arbeitsentgelt und Dienstbezüge
 
 (1) Bei der Bemessung des Arbeitsentgelts und der Dienstbezüge aus einem bestehenden Beschäftigungsverhältnis werden Renten und vergleichbare Leistungen, die wegen der Behinderung bezogen werden, nicht berücksichtigt. Die völlige oder teilweise Anrechnung dieser Leistungen auf das Arbeitsentgelt oder die Dienstbezüge ist unzulässig.
 
@@ -3659,13 +3449,11 @@ Verpflichtungen zur bevorzugten Einstellung und Beschäftigung bestimmter Person
 
 (+++ § 206: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 207 – Mehrarbeit
+# § 207 – Mehrarbeit
 
 Schwerbehinderte Menschen werden auf ihr Verlangen von Mehrarbeit freigestellt.
 
-
-## § 208 – Zusatzurlaub
+# § 208 – Zusatzurlaub
 
 (1) Schwerbehinderte Menschen haben Anspruch auf einen bezahlten zusätzlichen Urlaub von fünf Arbeitstagen im Urlaubsjahr; verteilt sich die regelmäßige Arbeitszeit des schwerbehinderten Menschen auf mehr oder weniger als fünf Arbeitstage in der Kalenderwoche, erhöht oder vermindert sich der Zusatzurlaub entsprechend. Soweit tarifliche, betriebliche oder sonstige Urlaubsregelungen für schwerbehinderte Menschen einen längeren Zusatzurlaub vorsehen, bleiben sie unberührt.
 
@@ -3675,15 +3463,13 @@ Schwerbehinderte Menschen werden auf ihr Verlangen von Mehrarbeit freigestellt.
 
 (+++ § 209: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 209 – Nachteilsausgleich
+# § 209 – Nachteilsausgleich
 
 (1) Die Vorschriften über Hilfen für behinderte Menschen zum Ausgleich behinderungsbedingter Nachteile oder Mehraufwendungen (Nachteilsausgleich) werden so gestaltet, dass sie unabhängig von der Ursache der Behinderung der Art oder Schwere der Behinderung Rechnung tragen.
 
 (2) Nachteilsausgleiche, die auf Grund bisher geltender Rechtsvorschriften erfolgen, bleiben unberührt.
 
-
-## § 210 – Beschäftigung schwerbehinderter Menschen in Heimarbeit
+# § 210 – Beschäftigung schwerbehinderter Menschen in Heimarbeit
 
 (1) Schwerbehinderte Menschen, die in Heimarbeit beschäftigt oder diesen gleichgestellt sind (§ 1 Absatz 1 und 2 des Heimarbeitsgesetzes) und in der Hauptsache für den gleichen Auftraggeber arbeiten, werden auf die Arbeitsplätze für schwerbehinderte Menschen dieses Auftraggebers angerechnet.
 
@@ -3697,8 +3483,7 @@ Schwerbehinderte Menschen werden auf ihr Verlangen von Mehrarbeit freigestellt.
 
 (6) Die den Arbeitgeber nach § 163 Absatz 1 und 5 treffenden Verpflichtungen gelten auch für Personen, die Heimarbeit ausgeben.
 
-
-## § 211 – Schwerbehinderte Beamtinnen und Beamte, Richterinnen und Richter, Soldatinnen und Soldaten
+# § 211 – Schwerbehinderte Beamtinnen und Beamte, Richterinnen und Richter, Soldatinnen und Soldaten
 
 (1) Die besonderen Vorschriften und Grundsätze für die Besetzung der Beamtenstellen sind unbeschadet der Geltung dieses Teils auch für schwerbehinderte Beamtinnen und Beamte so zu gestalten, dass die Einstellung und Beschäftigung schwerbehinderter Menschen gefördert und ein angemessener Anteil schwerbehinderter Menschen unter den Beamten und Beamtinnen erreicht wird.
 
@@ -3706,13 +3491,11 @@ Schwerbehinderte Menschen werden auf ihr Verlangen von Mehrarbeit freigestellt.
 
 (3) Für die persönliche Rechtsstellung schwerbehinderter Soldatinnen und Soldaten gelten die §§ 2, 152, 176 bis 182, 199 Absatz 1 sowie die §§ 206, 208, 209 und 228 bis 230. Im Übrigen gelten für Soldatinnen und Soldaten die Vorschriften über die persönliche Rechtsstellung der schwerbehinderten Menschen, soweit sie mit den Besonderheiten des Dienstverhältnisses vereinbar sind.
 
-
-## § 212 – Unabhängige Tätigkeit
+# § 212 – Unabhängige Tätigkeit
 
 Soweit zur Ausübung einer unabhängigen Tätigkeit eine Zulassung erforderlich ist, soll schwerbehinderten Menschen, die eine Zulassung beantragen, bei fachlicher Eignung und Erfüllung der sonstigen gesetzlichen Voraussetzungen die Zulassung bevorzugt erteilt werden.
 
-
-## § 213 – Geheimhaltungspflicht
+# § 213 – Geheimhaltungspflicht
 
 (1) Die Beschäftigten der Integrationsämter, der Bundesagentur für Arbeit, der Rehabilitationsträger sowie der von diesen Stellen beauftragten Integrationsfachdienste und die Mitglieder der Ausschüsse und des Beirates für die Teilhabe von Menschen mit Behinderungen (§ 86) und ihre Stellvertreterinnen oder Stellvertreter sowie zur Durchführung ihrer Aufgaben hinzugezogene Sachverständige sind verpflichtet,
 
@@ -3722,8 +3505,7 @@ Soweit zur Ausübung einer unabhängigen Tätigkeit eine Zulassung erforderlich 
 
 (2) Diese Pflichten gelten auch nach dem Ausscheiden aus dem Amt oder nach Beendigung des Auftrages. Sie gelten nicht gegenüber der Bundesagentur für Arbeit, den Integrationsämtern und den Rehabilitationsträgern, soweit deren Aufgaben gegenüber schwerbehinderten Menschen es erfordern, gegenüber der Schwerbehindertenvertretung sowie gegenüber den in § 79 Absatz 1 des Betriebsverfassungsgesetzes und den in den entsprechenden Vorschriften des Personalvertretungsrechts genannten Vertretungen, Personen und Stellen.
 
-
-## § 214 – Statistik
+# § 214 – Statistik
 
 (1) Über schwerbehinderte Menschen wird alle zwei Jahre eine Bundesstatistik durchgeführt. Sie umfasst die folgenden Erhebungsmerkmale:
 
@@ -3743,8 +3525,7 @@ Soweit zur Ausübung einer unabhängigen Tätigkeit eine Zulassung erforderlich 
 
 (3) Für die Erhebung besteht Auskunftspflicht. Auskunftspflichtig sind die nach § 152 Absatz 1 und 5 zuständigen Behörden. Die Angaben zu Absatz 2 Nummer 2 sind freiwillig.
 
-
-## § 215 – Begriff und Personenkreis
+# § 215 – Begriff und Personenkreis
 
 (1) Inklusionsbetriebe sind rechtlich und wirtschaftlich selbständige Unternehmen oder unternehmensinterne oder von öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 geführte Betriebe oder Abteilungen zur Beschäftigung schwerbehinderter Menschen auf dem allgemeinen Arbeitsmarkt, deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen Arbeitsmarkt auf Grund von Art oder Schwere der Behinderung oder wegen sonstiger Umstände voraussichtlich trotz Ausschöpfens aller Fördermöglichkeiten und des Einsatzes von Integrationsfachdiensten auf besondere Schwierigkeiten stößt.
 
@@ -3762,25 +3543,21 @@ Soweit zur Ausübung einer unabhängigen Tätigkeit eine Zulassung erforderlich 
 
 (4) Auf die Quoten nach Absatz 3 wird auch die Anzahl der psychisch kranken beschäftigten Menschen angerechnet, die behindert oder von Behinderung bedroht sind und deren Teilhabe an einer sonstigen Beschäftigung auf dem allgemeinen Arbeitsmarkt auf Grund von Art oder Schwere der Behinderung oder wegen sonstiger Umstände auf besondere Schwierigkeiten stößt.
 
-
-## § 216 – Aufgaben
+# § 216 – Aufgaben
 
 Die Inklusionsbetriebe bieten den schwerbehinderten Menschen Beschäftigung, Maßnahmen der betrieblichen Gesundheitsförderung und arbeitsbegleitende Betreuung an, soweit erforderlich auch Maßnahmen der beruflichen Weiterbildung oder Gelegenheit zur Teilnahme an entsprechenden außerbetrieblichen Maßnahmen und Unterstützung bei der Vermittlung in eine sonstige Beschäftigung in einem Betrieb oder einer Dienststelle auf dem allgemeinen Arbeitsmarkt sowie geeignete Maßnahmen zur Vorbereitung auf eine Beschäftigung in einem Inklusionsbetrieb. Satz 1 gilt entsprechend für psychisch kranke Menschen im Sinne des § 215 Absatz 4.
 
-
-## § 217 – Finanzielle Leistungen
+# § 217 – Finanzielle Leistungen
 
 (1) Inklusionsbetriebe können aus Mitteln der Ausgleichsabgabe Leistungen für Aufbau, Erweiterung, Modernisierung und Ausstattung einschließlich einer betriebswirtschaftlichen Beratung und für besonderen Aufwand erhalten.
 
 (2) Die Finanzierung von Leistungen nach § 216 Satz 2 erfolgt durch den zuständigen Rehabilitationsträger.
 
-
-## § 218 – Verordnungsermächtigung
+# § 218 – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über den Begriff und die Aufgaben der Inklusionsbetriebe, die für sie geltenden fachlichen Anforderungen, die Aufnahmevoraussetzungen und die finanziellen Leistungen zu regeln.
 
-
-## § 219 – Begriff und Aufgaben der Werkstatt für behinderte Menschen
+# § 219 – Begriff und Aufgaben der Werkstatt für behinderte Menschen
 
 (1) Die Werkstatt für behinderte Menschen ist eine Einrichtung zur Teilhabe behinderter Menschen am Arbeitsleben im Sinne des Kapitels 10 des Teils 1 und zur Eingliederung in das Arbeitsleben. Sie hat denjenigen behinderten Menschen, die wegen Art oder Schwere der Behinderung nicht, noch nicht oder noch nicht wieder auf dem allgemeinen Arbeitsmarkt beschäftigt werden können,
 
@@ -3794,8 +3571,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 (3) Behinderte Menschen, die die Voraussetzungen für eine Beschäftigung in einer Werkstatt nicht erfüllen, sollen in Einrichtungen oder Gruppen betreut und gefördert werden, die der Werkstatt angegliedert sind. Die Betreuung und Förderung kann auch gemeinsam mit den Werkstattbeschäftigten in der Werkstatt erfolgen. Die Betreuung und Förderung soll auch Angebote zur Orientierung auf Beschäftigung enthalten.
 
-
-## § 220 – Aufnahme in die Werkstätten für behinderte Menschen
+# § 220 – Aufnahme in die Werkstätten für behinderte Menschen
 
 (1) Anerkannte Werkstätten nehmen diejenigen behinderten Menschen aus ihrem Einzugsgebiet auf, die die Aufnahmevoraussetzungen gemäß § 219 Absatz 2 erfüllen, wenn Leistungen durch die Rehabilitationsträger gewährleistet sind; die Möglichkeit zur Aufnahme in eine andere anerkannte Werkstatt nach Maßgabe des § 9 des Zwölften Buches oder entsprechender Regelungen bleibt unberührt. Die Aufnahme erfolgt unabhängig von
 
@@ -3809,8 +3585,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 (3) Leistungsberechtigte Menschen mit Behinderungen, die aus einer Werkstatt für behinderte Menschen auf den allgemeinen Arbeitsmarkt übergegangen sind oder bei einem anderen Leistungsanbieter oder mit Hilfe des Budgets für Arbeit oder des Budgets für Ausbildung am Arbeitsleben teilnehmen, haben einen Anspruch auf Aufnahme in eine Werkstatt für behinderte Menschen.
 
-
-## § 221 – Rechtsstellung und Arbeitsentgelt behinderter Menschen
+# § 221 – Rechtsstellung und Arbeitsentgelt behinderter Menschen
 
 (1) Behinderte Menschen im Arbeitsbereich anerkannter Werkstätten stehen, wenn sie nicht Arbeitnehmer sind, zu den Werkstätten in einem arbeitnehmerähnlichen Rechtsverhältnis, soweit sich aus dem zugrunde liegenden Sozialleistungsverhältnis nichts anderes ergibt.
 
@@ -3826,8 +3601,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 (7) Die Lösungserklärung durch den Träger einer Werkstatt bedarf der schriftlichen Form und ist zu begründen.
 
-
-## § 222 – Mitbestimmung, Mitwirkung, Frauenbeauftragte
+# § 222 – Mitbestimmung, Mitwirkung, Frauenbeauftragte
 
 (1) Die in § 221 Absatz 1 genannten behinderten Menschen bestimmen und wirken unabhängig von ihrer Geschäftsfähigkeit durch Werkstatträte in den ihre Interessen berührenden Angelegenheiten der Werkstatt mit. Die Werkstatträte berücksichtigen die Interessen der im Eingangsverfahren und im Berufsbildungsbereich der Werkstätten tätigen behinderten Menschen in angemessener und geeigneter Weise, solange für diese eine Vertretung nach § 52 nicht besteht.
 
@@ -3839,8 +3613,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 (5) Behinderte Frauen im Sinne des § 221 Absatz 1 wählen in jeder Werkstatt eine Frauenbeauftragte und eine Stellvertreterin. In Werkstätten mit mehr als 700 wahlberechtigten Frauen wird eine zweite Stellvertreterin gewählt, in Werkstätten mit mehr als 1 000 wahlberechtigten Frauen werden bis zu drei Stellvertreterinnen gewählt.
 
-
-## § 223 – Anrechnung von Aufträgen auf die Ausgleichsabgabe
+# § 223 – Anrechnung von Aufträgen auf die Ausgleichsabgabe
 
 (1) Arbeitgeber, die durch Aufträge an anerkannte Werkstätten für behinderte Menschen zur Beschäftigung behinderter Menschen beitragen, können 50 Prozent des auf die Arbeitsleistung der Werkstatt entfallenden Rechnungsbetrages solcher Aufträge (Gesamtrechnungsbetrag abzüglich Materialkosten) auf die Ausgleichsabgabe anrechnen. Dabei wird die Arbeitsleistung des Fachpersonals zur Arbeits- und Berufsförderung berücksichtigt, nicht hingegen die Arbeitsleistung sonstiger nichtbehinderter Arbeitnehmerinnen und Arbeitnehmer. Bei Weiterveräußerung von Erzeugnissen anderer anerkannter Werkstätten für behinderte Menschen wird die von diesen erbrachte Arbeitsleistung berücksichtigt. Die Werkstätten bestätigen das Vorliegen der Anrechnungsvoraussetzungen in der Rechnung.
 
@@ -3854,8 +3627,7 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 (+++ § 223: Zur Anwendung vgl. § 226 +++)
 
-
-## § 224 – Vergabe von Aufträgen durch die öffentliche Hand
+# § 224 – Vergabe von Aufträgen durch die öffentliche Hand
 
 (1) Aufträge der öffentlichen Hand, die von anerkannten Werkstätten für behinderte Menschen ausgeführt werden können, werden bevorzugt diesen Werkstätten angeboten. Die Bundesregierung erlässt mit Zustimmung des Bundesrates hierzu allgemeine Verwaltungsvorschriften.
 
@@ -3863,25 +3635,21 @@ Sie fördert den Übergang geeigneter Personen auf den allgemeinen Arbeitsmarkt 
 
 (+++ § 224: Zur Anwendung vgl. § 226 +++)
 
-
-## § 225 – Anerkennungsverfahren
+# § 225 – Anerkennungsverfahren
 
 Werkstätten für behinderte Menschen, die eine Vergünstigung im Sinne dieses Kapitels in Anspruch nehmen wollen, bedürfen der Anerkennung. Die Entscheidung über die Anerkennung trifft auf Antrag die Bundesagentur für Arbeit im Einvernehmen mit dem Träger der Eingliederungshilfe. Die Bundesagentur für Arbeit führt ein Verzeichnis der anerkannten Werkstätten für behinderte Menschen. In dieses Verzeichnis werden auch Zusammenschlüsse anerkannter Werkstätten für behinderte Menschen aufgenommen.
 
-
-## § 226 – Blindenwerkstätten
+# § 226 – Blindenwerkstätten
 
 Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebsgesetzes anerkannten Blindenwerkstätten anzuwenden.
 
-
-## § 227 – Verordnungsermächtigungen
+# § 227 – Verordnungsermächtigungen
 
 (1) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über den Begriff und die Aufgaben der Werkstatt für behinderte Menschen, die Aufnahmevoraussetzungen, die fachlichen Anforderungen, insbesondere hinsichtlich der Wirtschaftsführung, sowie des Begriffs und der Verwendung des Arbeitsergebnisses sowie das Verfahren zur Anerkennung als Werkstatt für behinderte Menschen.
 
 (2) Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates im Einzelnen die Errichtung, Zusammensetzung und Aufgaben des Werkstattrats, die Fragen, auf die sich Mitbestimmung und Mitwirkung erstrecken, einschließlich Art und Umfang der Mitbestimmung und Mitwirkung, die Vorbereitung und Durchführung der Wahl, einschließlich der Wahlberechtigung und der Wählbarkeit, die Amtszeit sowie die Geschäftsführung des Werkstattrats einschließlich des Erlasses einer Geschäftsordnung und der persönlichen Rechte und Pflichten der Mitglieder des Werkstattrats und der Kostentragung. In der Rechtsverordnung werden auch Art und Umfang der Beteiligung von Frauenbeauftragten, die Vorbereitung und Durchführung der Wahl einschließlich der Wahlberechtigung und der Wählbarkeit, die Amtszeit, die persönlichen Rechte und die Pflichten der Frauenbeauftragten und ihrer Stellvertreterinnen sowie die Kostentragung geregelt. Die Rechtsverordnung kann darüber hinaus bestimmen, dass die in ihr getroffenen Regelungen keine Anwendung auf Religionsgemeinschaften und ihre Einrichtungen finden, soweit sie eigene gleichwertige Regelungen getroffen haben.
 
-
-## § 228 – Unentgeltliche Beförderung, Anspruch auf Erstattung der Fahrgeldausfälle
+# § 228 – Unentgeltliche Beförderung, Anspruch auf Erstattung der Fahrgeldausfälle
 
 (1) Schwerbehinderte Menschen, die infolge ihrer Behinderung in ihrer Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt oder hilflos oder gehörlos sind, werden von Unternehmern, die öffentlichen Personenverkehr betreiben, gegen Vorzeigen eines entsprechend gekennzeichneten Ausweises nach § 152 Absatz 5 im Nahverkehr im Sinne des § 230 Absatz 1 unentgeltlich befördert; die unentgeltliche Beförderung verpflichtet zur Zahlung eines tarifmäßigen Zuschlages bei der Benutzung zuschlagpflichtiger Züge des Nahverkehrs. Voraussetzung ist, dass der Ausweis mit einer gültigen Wertmarke versehen ist.
 
@@ -3916,8 +3684,7 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
     ab dem 1.1.2021 vgl. Nr. 2 Bek. 860-9-1-3-3 v. 19.11.2020 BAnz AT 30.11.2020 B1
      (SGB92018§§160Abs3ua/WMVO§39Abs4Bek) +++) 
 
-
-## § 229 – Persönliche Voraussetzungen
+# § 229 – Persönliche Voraussetzungen
 
 (1) In seiner Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt ist, wer infolge einer Einschränkung des Gehvermögens (auch durch innere Leiden oder infolge von Anfällen oder von Störungen der Orientierungsfähigkeit) nicht ohne erhebliche Schwierigkeiten oder nicht ohne Gefahren für sich oder andere Wegstrecken im Ortsverkehr zurückzulegen vermag, die üblicherweise noch zu Fuß zurückgelegt werden. Der Nachweis der erheblichen Beeinträchtigung in der Bewegungsfähigkeit im Straßenverkehr kann bei schwerbehinderten Menschen mit einem Grad der Behinderung von wenigstens 80 nur mit einem Ausweis mit halbseitigem orangefarbenem Flächenaufdruck und eingetragenem Merkzeichen „G“ geführt werden, dessen Gültigkeit frühestens mit dem 1. April 1984 beginnt, oder auf dem ein entsprechender Änderungsvermerk eingetragen ist.
 
@@ -3927,8 +3694,7 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 
 (+++ § 229: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 230 – Nah- und Fernverkehr
+# § 230 – Nah- und Fernverkehr
 
 (1) Nahverkehr im Sinne dieses Gesetzes ist der öffentliche Personenverkehr mit
 
@@ -3958,8 +3724,7 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 
 (+++ § 230: Zur Anwendung vgl. § 211 Abs. 3 +++)
 
-
-## § 231 – Erstattung der Fahrgeldausfälle im Nahverkehr
+# § 231 – Erstattung der Fahrgeldausfälle im Nahverkehr
 
 (1) Die Fahrgeldausfälle im Nahverkehr werden nach einem Prozentsatz der von den Unternehmern oder den Nahverkehrsorganisationen im Sinne des § 233 Absatz 2 nachgewiesenen Fahrgeldeinnahmen im Nahverkehr erstattet.
 
@@ -3974,16 +3739,14 @@ Die §§ 223 und 224 sind auch zugunsten von auf Grund des Blindenwarenvertriebs
 2. der in den jährlichen Veröffentlichungen des Statistischen Bundesamtes zum Ende des Vorjahres nachgewiesenen Zahl der Wohnbevölkerung in dem Land abzüglich der Zahl der Kinder, die das sechste Lebensjahr noch nicht vollendet haben, und der Zahlen nach Nummer 1.
 
 Der Prozentsatz ist nach folgender Formel zu berechnen:  
-![](../normengrafiken/bgbl1_2017/j2541-1_0010.jpg) .  
-  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j2541-1_0010.jpg) .   
 Bei der Festsetzung des Prozentsatzes sich ergebende Bruchteile von 0,005 und mehr werden auf ganze Hundertstel aufgerundet, im Übrigen abgerundet.
 
 (5) Weist ein Unternehmen durch Verkehrszählung nach, dass das Verhältnis zwischen den nach diesem Kapitel unentgeltlich beförderten Fahrgästen und den sonstigen Fahrgästen den nach Absatz 4 festgesetzten Prozentsatz um mindestens ein Drittel übersteigt, wird neben dem sich aus der Berechnung nach Absatz 4 ergebenden Erstattungsbetrag auf Antrag der nachgewiesene, über dem Drittel liegende Anteil erstattet. Die Länder können durch Rechtsverordnung bestimmen, dass die Verkehrszählung durch Dritte auf Kosten des Unternehmens zu erfolgen hat.
 
 (6) Absatz 5 gilt nicht in Fällen des § 233 Absatz 2.
 
-
-## § 232 – Erstattung der Fahrgeldausfälle im Fernverkehr
+# § 232 – Erstattung der Fahrgeldausfälle im Fernverkehr
 
 (1) Die Fahrgeldausfälle im Fernverkehr werden nach einem Prozentsatz der von den Unternehmern nachgewiesenen Fahrgeldeinnahmen im Fernverkehr erstattet.
 
@@ -3994,12 +3757,10 @@ Bei der Festsetzung des Prozentsatzes sich ergebende Bruchteile von 0,005 und me
 2. der in den jährlichen Veröffentlichungen des Statistischen Bundesamtes zum Jahresende nachgewiesenen Zahl der Wohnbevölkerung im Geltungsbereich dieses Gesetzes abzüglich der Zahl der Kinder, die das vierte Lebensjahr noch nicht vollendet haben, und der nach Nummer 1 ermittelten Zahl.
 
 Der Prozentsatz ist nach folgender Formel zu berechnen:  
-![](../normengrafiken/bgbl1_2017/j2541-1_0020.jpg) .  
-  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j2541-1_0020.jpg) .   
 § 231 Absatz 4 letzter Satz gilt entsprechend.
 
-
-## § 233 – Erstattungsverfahren
+# § 233 – Erstattungsverfahren
 
 (1) Die Fahrgeldausfälle werden auf Antrag des Unternehmers erstattet. Bei einem von mehreren Unternehmern gebildeten zusammenhängenden Liniennetz mit einheitlichen oder verbundenen Beförderungsentgelten können die Anträge auch von einer Gemeinschaftseinrichtung dieser Unternehmer für ihre Mitglieder gestellt werden. Der Antrag ist innerhalb von drei Jahren nach Ablauf des Abrechnungsjahres zu stellen, und zwar für den Nahverkehr nach § 234 Satz 1 Nummer 1 und für den Fernverkehr an das Bundesverwaltungsamt, für den übrigen Nahverkehr bei den in Absatz 4 bestimmten Behörden.
 
@@ -4017,8 +3778,7 @@ Der Prozentsatz ist nach folgender Formel zu berechnen:
 
 (8) Für das Erstattungsverfahren gelten das Verwaltungsverfahrensgesetz und die entsprechenden Gesetze der Länder. Bei Streitigkeiten über die Erstattungen und die Vorauszahlungen ist der Verwaltungsrechtsweg gegeben.
 
-
-## § 234 – Kostentragung
+# § 234 – Kostentragung
 
 Der Bund trägt die Aufwendungen für die unentgeltliche Beförderung
 
@@ -4028,13 +3788,11 @@ Der Bund trägt die Aufwendungen für die unentgeltliche Beförderung
 
 Die Länder tragen die Aufwendungen für die unentgeltliche Beförderung im übrigen Nahverkehr.
 
-
-## § 235 – Einnahmen aus Wertmarken
+# § 235 – Einnahmen aus Wertmarken
 
 Von den durch die Ausgabe der Wertmarken erzielten jährlichen Einnahmen erhält der Bund einen Anteil von 27 Prozent. Dieser ist unter Berücksichtigung der in der Zeit vom 1. Januar bis 30. Juni eines Kalenderjahres eingegangenen Einnahmen zum 15. Juli und unter Berücksichtigung der vom 1. Juli bis 31. Dezember eines Kalenderjahres eingegangenen Einnahmen zum 15. Januar des darauffolgenden Kalenderjahres an den Bund abzuführen.
 
-
-## § 236 – Erfassung der Ausweise
+# § 236 – Erfassung der Ausweise
 
 Die für die Ausstellung der Ausweise nach § 152 Absatz 5 zuständigen Behörden erfassen
 
@@ -4044,22 +3802,19 @@ Die für die Ausstellung der Ausweise nach § 152 Absatz 5 zuständigen Behörde
 
 als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 Satz 2 Nummer 1 zu ermittelnde Zahl der Ausweise und Wertmarken. Die zuständigen obersten Landesbehörden teilen dem Bundesministerium für Arbeit und Soziales das Ergebnis der Erfassung nach Satz 1 spätestens bis zum 31. März des Jahres mit, in dem die Prozentsätze festzusetzen sind.
 
-
-## § 237 – Verordnungsermächtigungen
+# § 237 – Verordnungsermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, in der Rechtsverordnung auf Grund des § 153 Absatz 1 nähere Vorschriften über die Gestaltung der Wertmarken, ihre Verbindung mit dem Ausweis und Vermerke über ihre Gültigkeitsdauer zu erlassen.
 
 (2) Das Bundesministerium für Arbeit und Soziales und das Bundesministerium für Verkehr und digitale Infrastruktur werden ermächtigt, durch Rechtsverordnung festzulegen, welche Zuggattungen von Eisenbahnen des Bundes zu den Zügen des Nahverkehrs im Sinne des § 230 Absatz 1 Nummer 5 und zu den zuschlagpflichtigen Zügen des Nahverkehrs im Sinne des § 228 Absatz 1 Satz 1 zweiter Halbsatz zählen.
 
-
-## § 237a – Strafvorschriften
+# § 237a – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 179 Absatz 7 Satz 1 Nummer 2, auch in Verbindung mit Satz 2 oder § 180 Absatz 7, ein Betriebs- oder Geschäftsgeheimnis verwertet.
 
 (2) Die Tat wird nur auf Antrag verfolgt.
 
-
-## § 237b – Strafvorschriften
+# § 237b – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 179 Absatz 7 Satz 1, auch in Verbindung mit Satz 2 oder § 180 Absatz 7, ein dort genanntes Geheimnis offenbart.
 
@@ -4067,8 +3822,7 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (3) Die Tat wird nur auf Antrag verfolgt.
 
-
-## § 238 – Bußgeldvorschriften
+# § 238 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -4096,15 +3850,13 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (5) Die nach Absatz 4 Satz 1 zuständige Kasse trägt abweichend von § 105 Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des Gesetzes über Ordnungswidrigkeiten.
 
-
-## § 239 – Stadtstaatenklausel
+# § 239 – Stadtstaatenklausel
 
 (1) Der Senat der Freien und Hansestadt Hamburg wird ermächtigt, die Schwerbehindertenvertretung für Angelegenheiten, die mehrere oder alle Dienststellen betreffen, in der Weise zu regeln, dass die Schwerbehindertenvertretungen aller Dienststellen eine Gesamtschwerbehindertenvertretung wählen. Für die Wahl gilt § 177 Absatz 2, 3, 6 und 7 entsprechend.
 
 (2) § 180 Absatz 6 Satz 1 gilt entsprechend.
 
-
-## § 240 – Sonderregelung für den Bundesnachrichtendienst und den Militärischen Abschirmdienst
+# § 240 – Sonderregelung für den Bundesnachrichtendienst und den Militärischen Abschirmdienst
 
 (1) Für den Bundesnachrichtendienst gilt dieses Gesetz mit folgenden Abweichungen:
 
@@ -4120,8 +3872,7 @@ als Grundlage für die nach § 231 Absatz 4 Satz 2 Nummer 1 und § 232 Absatz 2 
 
 (2) Der Militärische Abschirmdienst mit seinem Geschäftsbereich gilt als einheitliche Dienststelle.
 
-
-## § 241 – Übergangsregelung
+# § 241 – Übergangsregelung
 
 (1) Abweichend von § 154 Absatz 1 beträgt die Pflichtquote für die in § 154 Absatz 2 Nummer 1 und 4 genannten öffentlichen Arbeitgeber des Bundes weiterhin 6 Prozent, wenn sie am 31. Oktober 1999 auf mindestens 6 Prozent der Arbeitsplätze schwerbehinderte Menschen beschäftigt hatten.
 

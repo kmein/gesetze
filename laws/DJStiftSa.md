@@ -1,15 +1,11 @@
-# [DJStiftSa] Satzung der "Stiftung Demokratische Jugend" (Anlage zur Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
-
-Ausfertigungsdatum: 20.07.1990
-
+% Satzung der "Stiftung Demokratische Jugend" (Anlage zur Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
+% Ausfertigungsdatum: 20.07.1990
  
-
-## § 1 – Name und Sitz
+# § 1 – Name und Sitz
 
 Die Stiftung führt den Namen "Stiftung Demokratische Jugend". Sie ist eine selbständige Stiftung öffentlichen Rechts und hat ihren Sitz in Berlin.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist die Förderung der Jugendarbeit in der DDR bzw. in den sich auf diesem Territorium bildenden Ländern.
 
@@ -35,13 +31,11 @@ Jugendaustausch und internationale Begegnung.
 
 (3) Die Förderung erfolgt nach dem Grundsatz der Hilfe zur Selbsthilfe, soweit geeignete Träger zur Durchführung vorhanden sind. Im übrigen entscheidet der Vorstand, auf welche Weise der Zweck der Stiftung zu verwirklichen ist.
 
-
-## § 3 – Gemeinnützigkeit
+# § 3 – Gemeinnützigkeit
 
 Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke. Mittel der Stiftung dürfen nur für die unter § 2 genannten Zwecke verwendet werden. Es dürfen keine Begünstigungen erfolgen, die dem Stiftungszweck fremd sind.
 
-
-## § 4 – Stiftungsvermögen
+# § 4 – Stiftungsvermögen
 
 (1) Die Stiftung wird im Zeitpunkt ihrer Errichtung ausgestattet mit 20 Millionen DM. Diesem Vermögen wachsen weitere freiwillige Zuwendungen des Stifters zu, über deren Art und Höhe der Stifter nach seinem Ermessen entscheidet.
 
@@ -49,8 +43,7 @@ Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und unmittelbar 
 
 (3) Der Jahresabschluß der Stiftung erfolgt durch einen unabhängigen Wirtschaftsprüfer. Sein Bericht ist dem Kuratorium sowie den zuständigen Aufsichtsbehörden vorzulegen.
 
-
-## § 5 – Leistungen
+# § 5 – Leistungen
 
 (1) Leistungen können gewährt werden für einmalige oder wiederkehrende Maßnahmen oder ständige Einrichtungen, die der Jugendarbeit dienen. Unterstützt werden solche Maßnahmen oder Einrichtungen, die dem Vorstand förderungswürdig erscheinen.
 
@@ -62,8 +55,7 @@ Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und unmittelbar 
 
 (5) Die Stiftung darf keine Person durch Verwaltungsausgaben, die dem Zweck der Stiftung fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigen. Mitglieder des Vorstandes und des Kuratoriums erhalten über eine Aufwandsentschädigung und eine Erstattung ihrer Kosten hinaus keine Zuwendungen. Über die Höhe der Aufwandsentschädigung entscheidet der Vorstand.
 
-
-## § 6 – Vorstand
+# § 6 – Vorstand
 
 (1) Organ der Stiftung ist der Vorstand. Er besteht aus einem Vorsitzenden des Vorstandes, einem Stellvertreter des Vorsitzenden und zwei weiteren Mitgliedern.
 
@@ -75,28 +67,18 @@ Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und unmittelbar 
 
 (5) Der Vorstand gibt sich eine Geschäftsordnung. Er faßt Beschlüsse mit einfacher Mehrheit.
 
+# § 7 – Kuratorium
 
-## § 7 – Kuratorium
+Das Kuratorium berät den Vorstand und überwacht die Einhaltung des Stiftungszwecks. Es besteht aus zehn Vertretern verschiedener gesellschaftlicher Gruppierungen, die Jugendarbeit betreiben. Die Mitglieder des Kuratoriums werden vom Vorstand persönlich für drei Jahre berufen. Das Kuratorium wählt mit Zweidrittelmehrheit einen Sprecher. Dieser kann vom Vorstand Einsicht in alle Unterlagen der Stiftung verlangen. Das Kuratorium tagt mindestens einmal im Jahr. Außerordentliche Tagungen können vom Kuratorium mit Zweidrittelmehrheit beschlossen oder vom Vorstand einberufen werden. Das Kuratorium kann Empfehlungen an den Vorstand mit einfacher Mehrheit beschließen. Der Vorstand kann Aufgaben an das Kuratorium delegieren, wenn dieses zustimmt.
 
-Das Kuratorium berät den Vorstand und überwacht die Einhaltung des Stiftungszwecks. Es besteht aus zehn Vertretern verschiedener gesellschaftlicher Gruppierungen, die Jugendarbeit betreiben. Die Mitglieder des Kuratoriums werden vom Vorstand persönlich für drei Jahre berufen.  
-Das Kuratorium wählt mit Zweidrittelmehrheit einen Sprecher. Dieser kann vom Vorstand Einsicht in alle Unterlagen der Stiftung verlangen.  
-Das Kuratorium tagt mindestens einmal im Jahr. Außerordentliche Tagungen können vom Kuratorium mit Zweidrittelmehrheit beschlossen oder vom Vorstand einberufen werden.  
-Das Kuratorium kann Empfehlungen an den Vorstand mit einfacher Mehrheit beschließen.  
-Der Vorstand kann Aufgaben an das Kuratorium delegieren, wenn dieses zustimmt.
-
-
-## § 8 – Geschäftsführung
+# § 8 – Geschäftsführung
 
 Der Vorstand kann zur Führung der Stiftungsgeschäfte Geschäftsführer bestellen, die an die Beschlüsse des Vorstandes gebunden sind. Geschäftsjahr ist das Kalenderjahr.
 
-
-## § 9 – Fach- und Rechtsaufsicht
+# § 9 – Fach- und Rechtsaufsicht
 
 Vorbehaltlich einer künftigen gesetzlichen Regelung übt das Ministerium für Jugend und Sport die Fach- und Rechtsaufsicht aus.
 
+# § 10 – Satzungsänderung, Auflösung
 
-## § 10 – Satzungsänderung, Auflösung
-
-Satzungsänderungen können vom Vorstand nur einstimmig im Sinne des Stiftungszwecks beschlossen werden und bedürfen der Zustimmung der Stiftungsaufsichtsbehörde.  
-Satzungsänderungen, die aufgrund künftigen Stiftungsrechts notwendig werden, fügt der Vorstand unter Wahrung des Stifterwillens in die Satzung ein.  
-Bei Auflösung der Stiftung fällt das Vermögen zu gleichen Teilen an die Länder, in denen die Stiftung gemäß § 2 tätig ist. Es ist von den obersten Jugendbehörden dieser Länder im Sinne der unter § 2 genannten Zweckbindung zu verwenden.
+Satzungsänderungen können vom Vorstand nur einstimmig im Sinne des Stiftungszwecks beschlossen werden und bedürfen der Zustimmung der Stiftungsaufsichtsbehörde. Satzungsänderungen, die aufgrund künftigen Stiftungsrechts notwendig werden, fügt der Vorstand unter Wahrung des Stifterwillens in die Satzung ein. Bei Auflösung der Stiftung fällt das Vermögen zu gleichen Teilen an die Länder, in denen die Stiftung gemäß § 2 tätig ist. Es ist von den obersten Jugendbehörden dieser Länder im Sinne der unter § 2 genannten Zweckbindung zu verwenden.

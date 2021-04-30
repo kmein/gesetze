@@ -1,30 +1,23 @@
-# [FSDurchführungsV] Verordnung über die Durchführung der Flugsicherung  (FSDurchführungsV)
-
-Ausfertigungsdatum: 17.12.1992
-
+% Verordnung über die Durchführung der Flugsicherung  (FSDurchführungsV)
+% Ausfertigungsdatum: 17.12.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Nr. 3 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), der durch Artikel 1 Nr. 16 Buchstabe c des Gesetzes vom 30. Juli 1992 (BGBl. I S. 1370) eingefügt worden ist, und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch das Gesetz vom 28. Februar 1992 (BGBl. I S. 372), in Verbindung mit § 63 Nr. 2 des Luftverkehrsgesetzes in der vorgenannten Fassung, zuletzt geändert durch das Gesetz vom 30. Juli 1992 (BGBl. I S. 1370), verordnet der Bundesminister für Verkehr:
 
-
-## § 1 – Grundlagen
+# § 1 – Grundlagen
 
 Flugsicherung ist nach Maßgabe dieser Verordnung durchzuführen.
 
-
-## § 2 – Betriebszeiten
+# § 2 – Betriebszeiten
 
 Die Betriebszeiten für die Flugverkehrsdienste sind von der Flugsicherungsorganisation festzulegen und in den Nachrichten für Luftfahrer bekanntzumachen.
 
-
-## § 3 – Zusammenarbeit mit den Haltern von Luftfahrzeugen
+# § 3 – Zusammenarbeit mit den Haltern von Luftfahrzeugen
 
 Die Flugsicherungsorganisationen, die Flugverkehrsdienste erbringen, haben soweit wie möglich die Halter und Führer von Luftfahrzeugen bei der Erfüllung ihrer Verpflichtung zu einer ordnungsgemäßen Flugbetriebsabwicklung zu unterstützen. Zu diesem Zweck stellen sie den Haltern und Führern von Luftfahrzeugen auf Anforderung die vorhandenen notwendigen Informationen zur Verfügung.
 
-
-## § 4 – Aufgabe
+# § 4 – Aufgabe
 
 Flugverkehrskontrolle ist die Überwachung und Lenkung der Bewegungen im Luftraum und auf den Rollfeldern von Flugplätzen mit Flugplatzkontrolle zur sicheren, geordneten und flüssigen Abwicklung des Luftverkehrs. Die Flugverkehrskontrolle soll insbesondere
 
@@ -32,8 +25,7 @@ Flugverkehrskontrolle ist die Überwachung und Lenkung der Bewegungen im Luftrau
 
 2. Zusammenstöße zwischen Luftfahrzeugen und anderen Fahrzeugen sowie sonstigen Hindernissen auf den Rollfeldern der Flugplätze verhindern.
 
-
-## § 5 – Umfang
+# § 5 – Umfang
 
 (1) Flugverkehrskontrolle ist durchzuführen für:
 
@@ -45,8 +37,7 @@ Flugverkehrskontrolle ist die Überwachung und Lenkung der Bewegungen im Luftrau
 
 (2) Die Flugverkehrskontrolle kann auch andere Fälle erfassen, wenn dies zur Abwehr von Gefahren für die Sicherheit des Luftverkehrs sowie für die öffentliche Sicherheit oder Ordnung durch die Luftfahrt erforderlich ist.
 
-
-## § 6 – Arten der Flugverkehrskontrolle
+# § 6 – Arten der Flugverkehrskontrolle
 
 Die Flugverkehrskontrolle ist durchzuführen als
 
@@ -56,15 +47,13 @@ Die Flugverkehrskontrolle ist durchzuführen als
 
 3. Bezirkskontrolle.
 
-
-## § 7 – Zuständigkeit der Flugverkehrskontrollstellen
+# § 7 – Zuständigkeit der Flugverkehrskontrollstellen
 
 (1) Die Flugverkehrskontrollstellen führen ihre Dienste in den ihnen zugewiesenen Zuständigkeits- und Verfahrensbereichen durch. Diese Bereiche sind von der Flugsicherungsorganisation festzulegen.
 
 (2) Für die Kontrolle eines Luftfahrzeuges ist zu jedem Zeitpunkt nur eine Flugverkehrskontrollstelle zuständig.
 
-
-## § 8 – Durchführung
+# § 8 – Durchführung
 
 (1) Die Durchführung der Flugverkehrskontrolle umfaßt
 
@@ -74,20 +63,17 @@ Die Flugverkehrskontrolle ist durchzuführen als
 
 (2) Die Durchführung der Flugverkehrskontrolle hat Vorrang vor der Herausgabe von Verkehrsinformationen.
 
-
-## § 9 – Verkehrsflußregelung
+# § 9 – Verkehrsflußregelung
 
 (1) Die Verkehrsflußregelung soll Überlastsituationen bei der Flugverkehrskontrolle verhindern, den Verkehrsablauf möglichst flüssig und wirtschaftlich gestalten und dazu geeignete Maßnahmen der Planung und Steuerung treffen.
 
 (2) Für die Verkehrsflußregelung gelten die vom Bundesministerium für Verkehr und digitale Infrastruktur erlassenen Richtlinien. Darüber hinaus sind bei grenzüberschreitenden Flügen die Vorgaben der Organisation EUROCONTROL im Rahmen der zentralen europäischen Verkehrsflußregelung zu beachten.
 
-
-## § 10 – Steuerung der Luftraumnutzung
+# § 10 – Steuerung der Luftraumnutzung
 
 Besondere Nutzungen des Luftraumes, insbesondere überregionale Luftfahrtveranstaltungen, militärische Großmanöver, Flüge durch Gebiete mit Flugbeschränkungen und sonstige besondere Flugvorhaben, sind in enger Zusammenarbeit mit den zuständigen Behörden und Stellen zu koordinieren. Die zur Abwehr von Gefahren für die Sicherheit oder Ordnung erforderlichen Mitteilungen sind rechtzeitig zu veröffentlichen.
 
-
-## § 11 – Vorrang
+# § 11 – Vorrang
 
 Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in der angegebenen Reihenfolge Vorrang einzuräumen:
 
@@ -101,28 +87,23 @@ Bei der Durchführung der Flugverkehrskontrolle ist folgenden Flügen in der ang
 
 5. Regierungsflüge einschließlich Flüge mit Staatsoberhäuptern nach den Bestimmungen des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
-
-## § 12 – Aufgabe
+# § 12 – Aufgabe
 
 Der Fluginformationsdienst gibt den Führern von Luftfahrzeugen Informationen und Hinweise, die für die sichere, geordnete und flüssige Durchführung von Flügen erforderlich sind.
 
-
-## § 13 – Umfang
+# § 13 – Umfang
 
 Der Fluginformationsdienst ist von den Flugverkehrskontrollstellen für Flüge, die der Flugverkehrskontrolle unterliegen, sowie für andere Flüge, bei denen Sprechfunkverbindung besteht, durchzuführen. Die Durchführung des Fluginformationsdienstes hat hinter der Durchführung der Flugverkehrskontrolle zurückzustehen.
 
-
-## § 14 – Flugverkehrsberatungsdienst
+# § 14 – Flugverkehrsberatungsdienst
 
 Ist die Durchführung der Flugverkehrskontrolle auf Grund unzureichender Informationen über den Flugverkehr nach Instrumentenflugregeln in einem Luftraum nicht möglich, kann dort im Rahmen eines erweiterten Fluginformationsdienstes ein Flugverkehrsberatungsdienst durchgeführt werden. Mit Hilfe des Flugverkehrsberatungsdienstes werden der Flugsicherung bekannte Luftfahrzeuge, die Flüge nach Instrumentenflugregeln im unkontrollierten Luftraum durchführen, untereinander gestaffelt.
 
-
-## § 15 – Aufgabe
+# § 15 – Aufgabe
 
 Der Flugalarmdienst benachrichtigt die für die Durchführung des Such- und Rettungsdienstes für Luftfahrzeuge zuständigen Stellen über den notwendigen Einsatz des Such- und Rettungsdienstes und unterstützt diese Stellen.
 
-
-## § 16 – Alarmstufen
+# § 16 – Alarmstufen
 
 (1) Zur Durchführung des Flugalarmdienstes sind Alarmstufen eingerichtet. Sie werden unterteilt in die Ungewißheitsstufe, die Bereitschaftsstufe und die Notstufe. Im Festen Flugfernmeldedienst (§ 22) sind für die Alarmstufen folgende Bezeichnungen zu verwenden:
 
@@ -164,8 +145,7 @@ noch nicht angekommen ist.
 
 (5) Die Maßnahmen nach den Absätzen 1 bis 4 sind zu beenden, wenn bekannt wird, daß das Luftfahrzeug weder von schwerer unmittelbarer Gefahr bedroht ist noch sofortiger Hilfeleistung bedarf.
 
-
-## § 17 – Aufgabe
+# § 17 – Aufgabe
 
 Der Flugberatungsdienst umfaßt
 
@@ -177,13 +157,11 @@ Der Flugberatungsdienst umfaßt
 
 4. die Herstellung und Veröffentlichung von Luftfahrtkarten.
 
-
-## § 18 – Flugberatungsstellen
+# § 18 – Flugberatungsstellen
 
 Die Flugberatungsstellen werden in den Nachrichten für Luftfahrer bekanntgegeben.
 
-
-## § 19 – Nachrichten für die Luftfahrt
+# § 19 – Nachrichten für die Luftfahrt
 
 (1) Die Flugsicherungsorganisation im Sinne von § 31b Absatz 1 des Luftverkehrsgesetzes veröffentlicht Nachrichten für die Luftfahrt
 
@@ -207,18 +185,15 @@ b) Informationen und Hinweise für die Luftfahrt, die keiner internationalen Ver
 
 (5) Als "AIC" sind Anordnungen sowie Informationen und Hinweise für die Luftfahrt bekanntzumachen, die nicht im Luftfahrthandbuch aufzunehmen oder als "NOTAM" zu veröffentlichen sind, deren Verbreitung jedoch auf Grund der internationalen Verflechtung auf dem Gebiete der Luftfahrt im rechtlichen, betrieblichen und technischen Bereich oder im Interesse der Flugsicherheit zweckdienlich erscheint.
 
-
-## § 20 – Internationale Verbreitung
+# § 20 – Internationale Verbreitung
 
 Nachrichten für die Luftfahrt mit Ausnahme der NfL nach § 19 Abs. 1 Buchstabe a sind nach Maßgabe von Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur zu veröffentlichen und zur Gewährleistung einer sicheren, geordneten und flüssigen Durchführung des Flugbetriebs international zu verbreiten.
 
-
-## § 21 – Aufgabe
+# § 21 – Aufgabe
 
 Der Flugfernmeldedienst hat die für eine sichere, geordnete und flüssige Abwicklung des Flugverkehrs erforderlichen Flugsicherungsinformationen zu übermitteln.
 
-
-## § 22 – Arten der Übermittlung, Flugfernmeldestellen
+# § 22 – Arten der Übermittlung, Flugfernmeldestellen
 
 (1) Die Übermittlung der Flugsicherungsinformationen ist als Fester Flugfernmeldedienst, Beweglicher Flugfernmeldedienst und Flugrundfunkdienst durchzuführen.
 
@@ -226,31 +201,26 @@ Der Flugfernmeldedienst hat die für eine sichere, geordnete und flüssige Abwic
 
 (3) Zur Durchführung des Festen Flugfernmeldedienstes sind, soweit erforderlich, von der Flugsicherungsorganisation Flugfernmeldestellen einzurichten.
 
-
-## § 23 – Durchführung
+# § 23 – Durchführung
 
 (1) Zur Durchführung des Festen Flugfernmeldedienstes sind von der Flugsicherungsorganisation die erforderlichen Fernmeldeeinrichtungen zu schaffen und zu betreiben.
 
 (2) Die Frequenzen für den beweglichen Flugfernmeldedienst und für den Flugrundfunkdienst werden von dem Bundesaufsichtsamt für Flugsicherung festgelegt.
 
-
-## § 24 – Aufzeichnung des Flugfernmeldeverkehrs und der Radardaten
+# § 24 – Aufzeichnung des Flugfernmeldeverkehrs und der Radardaten
 
 (1) Der Flugfernmeldeverkehr ist aufzuzeichnen. Dasselbe gilt für die in der Flugverkehrskontrolle verwendeten Radardaten.
 
 (2) Schriftliche Aufzeichnungen des Flugfernmeldeverkehrs sind mindestens neunzig Tage, elektromagnetische Aufzeichnungen mindestens dreißig Tage und Aufzeichnungen von Radardaten mindestens vierzehn Tage, beginnend mit dem Tage der Aufzeichnung, aufzubewahren. Aufzeichnungen, deren Inhalt Gegenstand einer behördlichen oder gerichtlichen Untersuchung ist, sind bis zum Abschluß der Untersuchung aufzubewahren.
 
-
-## § 25 – Betriebsanweisungen
+# § 25 – Betriebsanweisungen
 
 Die zur Durchführung der §§ 1 bis 24 dieser Verordnung notwendigen Einzelheiten sind von der Flugsicherungsorganisation in Betriebsanweisungen zu regeln.
 
-
-## § 26 – Ordnungswidrigkeiten
+# § 26 – Ordnungswidrigkeiten
 
 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt für die Flugsicherungsaufgaben nach § 27c des Luftverkehrsgesetzes.
 
-
-## § 27 – Inkrafttreten
+# § 27 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1993 in Kraft.

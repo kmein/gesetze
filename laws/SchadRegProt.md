@@ -1,5 +1,3 @@
-# [SchadRegProt] Protokoll über Schadstofffreisetzungs- und -verbringungsregister
-
-Ausfertigungsdatum: 21.05.2003
-
+% Protokoll über Schadstofffreisetzungs- und -verbringungsregister
+% Ausfertigungsdatum: 21.05.2003
  

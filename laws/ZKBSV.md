@@ -1,10 +1,7 @@
-# [ZKBSV] Verordnung über die Zentrale Kommission für die Biologische Sicherheit  (ZKBS-Verordnung - ZKBSV)
-
-Ausfertigungsdatum: 30.10.1990
-
+% Verordnung über die Zentrale Kommission für die Biologische Sicherheit  (ZKBS-Verordnung - ZKBSV)
+% Ausfertigungsdatum: 30.10.1990
  
-
-## § 1 – Aufgaben
+# § 1 – Aufgaben
 
 (1) Die Zentrale Kommission für die Biologische Sicherheit (Kommission) prüft und bewertet sicherheitsrelevante Fragen nach den Vorschriften des Gentechnikgesetzes, gibt hierzu Empfehlungen und berät die Bundesregierung und die Länder in sicherheitsrelevanten Fragen der Gentechnik.
 
@@ -22,46 +19,39 @@ Die Kommission veröffentlicht allgemeine Stellungnahmen zu häufig durchgeführ
 
 2. zu den vom Bundesministerium für Arbeit und Soziales im Gemeinsamen Ministerialblatt nach § 20 der Gentechnik-Sicherheitsverordnung zu veröffentlichenden Regeln und Erkenntnissen zur arbeitsmedizinischen Vorsorge bei gentechnischen Arbeiten.
 
-
-## § 2 – Berufung der Mitglieder
+# § 2 – Berufung der Mitglieder
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft beruft gemäß § 4 Abs. 2 des Gentechnikgesetzes die Mitglieder und die stellvertretenden Mitglieder im Benehmen mit den Landesregierungen. Bei den Berufungen nach § 4 Abs. 1 Satz 2 Nr. 1 des Gentechnikgesetzes sind Vorschläge des Wissenschaftsrates, bei Berufungen nach § 4 Abs. 1 Satz 2 Nr. 2 des Gentechnikgesetzes Vorschläge aus den dort genannten Bereichen einzuholen.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft macht die Namen der Mitglieder und der stellvertretenden Mitglieder im Bundesanzeiger bekannt.
 
-
-## § 3 – Mitglieder und stellvertretende Mitglieder
+# § 3 – Mitglieder und stellvertretende Mitglieder
 
 (1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt. Die Mitglieder und die stellvertretenden Mitglieder erhalten Ersatz ihrer Reisekosten nach dem Bundesreisekostenrecht sowie eine Sitzungsentschädigung.
 
 (2) Die Mitglieder und die stellvertretenden Mitglieder können durch schriftliche Erklärung gegenüber dem Bundesministerium für Ernährung und Landwirtschaft ihre Mitgliedschaft jederzeit beenden.
 
-
-## § 4 – Beteiligung anderer Personen und Stellen
+# § 4 – Beteiligung anderer Personen und Stellen
 
 (1) Die in § 4 Abs. 2 des Gentechnikgesetzes genannten Bundesministerien sowie die zuständigen obersten Landesbehörden haben das Recht, zu den Sitzungen der Kommission und der Arbeitskreise Vertreter zu entsenden.
 
 (2) Auf Beschluß der Kommission werden der Antragsteller oder der Anmelder in dem Verfahren nach dem Gentechnikgesetz und von ihm beauftragte Sachverständige zum mündlichen Vortrag vor der Kommission zugelassen.
 
-
-## § 5 – Vorsitzender und Stellvertreter
+# § 5 – Vorsitzender und Stellvertreter
 
 Die Mitglieder oder bei deren Abwesenheit ihre Stellvertreter wählen aus dem Kreis der Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des Gentechnikgesetzes einen Vorsitzenden und zwei Stellvertreter für die Dauer von drei Jahren. Wiederwahl ist möglich.
 
-
-## § 6 – Berichterstatter
+# § 6 – Berichterstatter
 
 (1) Anforderungen von Stellungnahmen der Kommission werden auf je zwei Berichterstatter aus dem Kreis der Mitglieder und deren Stellvertreter verteilt. Die Berichterstatter fertigen eine Zusammenfassung der Unterlagen und nehmen eine Sicherheitseinstufung unter Berücksichtigung der vorgesehenen Sicherheitsmaßnahmen vor; sie erarbeiten sonstige Stellungnahmen. Sie berichten der Kommission.
 
 (2) Die Berichterstatter können der Kommission Vorschläge für die Hinzuziehung von Sachverständigen nach § 7 machen.
 
-
-## § 7 – Sachverständige
+# § 7 – Sachverständige
 
 Zur Erfüllung ihrer Aufgaben kann die Kommission Sachverständige hören, Gutachten beiziehen, Untersuchungen durch Dritte vornehmen lassen oder einzelne Mitglieder oder stellvertretende Mitglieder mit der Wahrnehmung bestimmter Aufgaben betrauen.
 
-
-## § 8 – Geschäftsstelle
+# § 8 – Geschäftsstelle
 
 (1) Die Kommission hat ihre Geschäftsstelle beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
 
@@ -69,8 +59,7 @@ Zur Erfüllung ihrer Aufgaben kann die Kommission Sachverständige hören, Gutac
 
 (3) Die Geschäftsstelle nimmt die an die Kommission gerichteten Anträge entgegen, unterrichtet die zuständige Behörde bei Unvollständigkeit der Anträge unverzüglich und sorgt für die fristgerechte Beurteilung der Anträge durch die Kommission.
 
-
-## § 9 – Sitzungen der Kommission
+# § 9 – Sitzungen der Kommission
 
 (1) Die Sitzungen der Kommission finden in regelmäßigen Abständen statt. Die Sitzungen der Kommission sind so häufig anzuberaumen, daß die Entscheidungen den zuständigen Behörden innerhalb der gesetzten Fristen mitgeteilt werden können.
 
@@ -82,8 +71,7 @@ Zur Erfüllung ihrer Aufgaben kann die Kommission Sachverständige hören, Gutac
 
 (5) Auf Antrag der Mehrheit der Mitglieder der Kommission ist zu einer außerordentlichen Sitzung einzuladen.
 
-
-## § 10 – Durchführung von Sitzungen
+# § 10 – Durchführung von Sitzungen
 
 (1) Die Sitzungen sind nicht öffentlich. Die stellvertretenden Mitglieder sollen an den Sitzungen teilnehmen.
 
@@ -95,8 +83,7 @@ Zur Erfüllung ihrer Aufgaben kann die Kommission Sachverständige hören, Gutac
 
 (5) Die Sitzungsteilnehmer haben über den Inhalt der Sitzung Verschwiegenheit zu wahren.
 
-
-## § 11 – Beschlußfassung
+# § 11 – Beschlußfassung
 
 (1) Die Kommission ist beschlußfähig, wenn alle Mitglieder geladen und mindestens zehn stimmberechtigte Mitglieder, davon mindestens sechs stimmberechtigte Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des Gentechnikgesetzes, anwesend sind.
 
@@ -110,8 +97,7 @@ im schriftlichen Verfahren beschließen. Satz 1 gilt auch für die abschließend
 
 (3) Überstimmte Mitglieder können verlangen, daß ein Minderheitsvotum bei der Veröffentlichung oder Weiterleitung von Stellungnahmen der Kommission zum Ausdruck gebracht wird. Ein Minderheitsvotum ist zulässig, wenn das Mitglied die Stellungnahme als Ganzes ablehnt und der Gegenstand des Minderheitsvotums in Form eines Antrags in die Beratung eingeführt worden ist. Das Minderheitsvotum ist zu begründen. Aus der Begründung muß sich ergeben, auf welchen Einzelerwägungen die Ablehnung der Stellungnahme beruht.
 
-
-## § 12 – Sitzungsprotokoll
+# § 12 – Sitzungsprotokoll
 
 (1) Die Geschäftsstelle fertigt für jede Sitzung ein Sitzungsprotokoll, das Ort und Zeit der Sitzung, die Beratungsgegenstände, deren Ergebnisse und ihre Begründung sowie die Stimmenverhältnisse ausweist. Minderheitsvoten werden protokolliert. Dem Sitzungsprotokoll ist eine Anwesenheitsliste beizufügen.
 
@@ -121,8 +107,7 @@ im schriftlichen Verfahren beschließen. Satz 1 gilt auch für die abschließend
 
 (4) Die Geschäftsstelle übersendet das Sitzungsprotokoll an die Mitglieder, die stellvertretenden Mitglieder, die in § 4 Abs. 2 des Gentechnikgesetzes genannten Bundesministerien und an die zuständigen obersten Landesbehörden. Soweit der Antragsteller oder der Anmelder sowie von diesen beauftragte Sachverständige nach § 4 Abs. 2 gehört werden, erhält die zuständige Behörde den entsprechenden Auszug aus dem Sitzungsprotokoll.
 
-
-## § 13 – Arbeitskreise
+# § 13 – Arbeitskreise
 
 (1) Die Kommission kann nach Bedarf unter Hinzuziehung von Sachverständigen nach § 7 für bestimmte Aufgaben auf Zeit Arbeitskreise bilden. Zur Bildung von Arbeitskreisen ist in dringenden Fällen auch der Vorsitzende der Kommission im Einvernehmen mit seinen Stellvertretern befugt. Er hat die Kommission darüber zu unterrichten.
 
@@ -130,31 +115,26 @@ im schriftlichen Verfahren beschließen. Satz 1 gilt auch für die abschließend
 
 (3) Die Arbeitskreise haben ihre Arbeitsergebnisse der Kommission über die Geschäftsstelle zur Beratung und Beschlußfassung zu unterbreiten. § 4 Abs. 1, §§ 7 und 10 Abs. 1 und § 12 finden entsprechende Anwendung.
 
-
-## § 14 – Zusammenarbeit mit den zuständigen Behörden
+# § 14 – Zusammenarbeit mit den zuständigen Behörden
 
 (1) Die Kommission gibt spätestens sechs Wochen, bei Anmeldung weiterer gentechnischer Arbeiten spätestens vier Wochen, nach Eingang der Unterlagen gegenüber der nach dem Gentechnikgesetz zuständigen Behörde eine Stellungnahme nach § 1 Abs. 2 ab. Die Frist nach Satz 1 verlängert sich, wenn eine Ergänzung der Unterlagen erforderlich ist und nach § 11 Abs. 5 Satz 3 oder Abs. 6 Satz 3, § 12 Abs. 5 Satz 3 oder § 16 Abs. 3 Satz 3 des Gentechnikgesetzes die Frist ruht. Die Stellungnahme ist zu begründen. Sie soll die tragenden Erwägungsgründe, das Abstimmungsergebnis und die Minderheitsvoten enthalten.
 
 (2) (weggefallen)
 
-
-## § 15 – Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
+# § 15 – Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
 
 (1) Die Kommission erstellt einen jährlichen Tätigkeitsbericht, der vom Bundesministerium für Ernährung und Landwirtschaft veröffentlicht wird.
 
 (2) Die Kommission kann der Öffentlichkeit in geeigneter Weise über Stellungnahmen von allgemeiner Bedeutung berichten, jedoch nicht vor Abschluß des jeweiligen Verfahrens nach dem Gentechnikgesetz.
 
-
-## § 16 – Geschäftsordnung
+# § 16 – Geschäftsordnung
 
 Die Kommission gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums für Ernährung und Landwirtschaft, das seine Entscheidung im Einvernehmen mit den in § 4 Abs. 2 des Gentechnikgesetzes genannten Bundesministerien trifft.
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18
+# § 18
 
 (Inkrafttreten)

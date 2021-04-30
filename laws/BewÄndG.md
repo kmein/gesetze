@@ -1,10 +1,7 @@
-# [BewÄndG] Gesetz über die Anwendung und Änderung bewertungsrechtlicher Vorschriften
-
-Ausfertigungsdatum: 18.08.1969
-
+% Gesetz über die Anwendung und Änderung bewertungsrechtlicher Vorschriften
+% Ausfertigungsdatum: 18.08.1969
  
-
-## § 1
+# § 1
 
 Bei der Hauptfeststellung der Einheitswerte des Grundbesitzes auf den 1. Januar 1964 sowie bei Fortschreibungen und Nachfeststellungen der Einheitswerte des Grundbesitzes, bei denen die Wertverhältnisse vom 1. Januar 1964 zugrunde zu legen sind, ist § 77 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) in der folgenden Fassung anzuwenden:
 
@@ -15,22 +12,18 @@ Mindestwert
 
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer sein als 50 vom Hundert des Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu bewerten wäre."
 
-
-## § 2
+# § 2
 
 Sind Einheitswerte des Grundbesitzes auf den 1. Januar 1964 nach § 77 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 10. Dezember 1965 vor dem Inkrafttreten dieses Gesetzes festgestellt worden, so ist der Feststellungsbescheid aufzuheben.
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
+# § 4
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 5
+# § 5
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

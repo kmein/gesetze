@@ -1,10 +1,7 @@
-# [BWappenBek] Bekanntmachung betreffend das Bundeswappen und den Bundesadler
-
-Ausfertigungsdatum: 20.01.1950
-
+% Bekanntmachung betreffend das Bundeswappen und den Bundesadler
+% Ausfertigungsdatum: 20.01.1950
  
-
-## ----
+# ----
 
 (1) Auf Grund eines Beschlusses der Bundesregierung gebe ich hiermit bekannt, daß das Bundeswappen auf goldgelbem Grund den einköpfigen schwarzen Adler zeigt, den Kopf nach rechts gewendet, die Flügel offen, aber mit geschlossenem Gefieder, Schnabel, Zunge und Fänge von roter Farbe.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 20.01.1950
 
 (3) Die im Bundesministerium des Innern verwahrten Muster sind für die heraldische Gestaltung des Bundeswappens maßgebend. Die künstlerische Ausgestaltung bleibt für jeden besonderen Zweck vorbehalten.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundespräsident  
 Der Bundeskanzler  

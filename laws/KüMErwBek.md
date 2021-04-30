@@ -1,10 +1,7 @@
-# [KüMErwBek] Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht
-
-Ausfertigungsdatum: 12.11.1984
-
+% Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht
+% Ausfertigungsdatum: 12.11.1984
  
-
-## ----
+# ----
 
 Der Beschluß der Bundesregierung über die "Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht" wird hiermit bekanntgemacht:
 
@@ -15,6 +12,5 @@ Im Westen durch eine Linie, die durch den Meridian 7 Grad 24' 36" Ost gebildet w
 
 Im Norden durch eine Tangente vom letztgenannten Punkt an die kreisförmige gegenwärtige Küstenmeergrenze nordwestlich von Helgoland (der Tangentenberührungspunkt hat die Lage 54 Grad 14' 26" Nord, 7 Grad 49' 50" Ost); weiter auf der nördlichen gegenwärtigen Küstenmeergrenze dieser Insel bis zu dem Punkt nordöstlich von Helgoland, in dem die Tangente vom Punkt der gegenwärtigen Küstenmeergrenze vor der Elbmündung mit der Lage 54 Grad 01' 11" Nord, 8 Grad 18' 40" Ost die kreisförmige gegenwärtige Küstenmeergrenze nordöstlich von Helgoland berührt (54 Grad 13' 36" Nord, 7 Grad 58' 57" Ost). Diese Tangente bildet die Ostgrenze des erweiterten Küstenmeeres.
 
-Dieser Beschluß tritt am 16. März 1985 in Kraft.  
-  
+Dieser Beschluß tritt am 16. März 1985 in Kraft.   
 Der Bundesminister des Innern

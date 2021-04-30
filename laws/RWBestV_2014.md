@@ -1,10 +1,7 @@
-# [RWBestV 2014] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2014  (Rentenwertbestimmungsverordnung 2014 - RWBestV 2014)
-
-Ausfertigungsdatum: 16.06.2014
-
+% Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2014  (Rentenwertbestimmungsverordnung 2014 - RWBestV 2014)
+% Ausfertigungsdatum: 16.06.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -19,36 +16,31 @@ des § 26 in Verbindung mit § 23 Absatz 4 und des § 105 in Verbindung mit § 1
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+# § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2014 28,61 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2014 26,39 Euro.
 
-
-## § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+# § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2014 13,21 Euro.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2014 12,18 Euro.
 
-
-## § 3 – Ausgleichsbedarf und Ausgleichsbedarf (Ost)
+# § 3 – Ausgleichsbedarf und Ausgleichsbedarf (Ost)
 
 (1) Der Ausgleichsbedarf beträgt ab dem 1. Juli 2014 1,0000.
 
 (2) Der Ausgleichsbedarf (Ost) beträgt ab dem 1. Juli 2014 1,0000.
 
-
-## § 4 – Anpassungsfaktor in der Unfallversicherung
+# § 4 – Anpassungsfaktor in der Unfallversicherung
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2014 anzupassenden Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44 Absatz 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt 1,0167.
 
 (2) Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor dem 1. Juli 2014 eingetreten sind, werden zum 1. Juli 2014 angepasst. Der Anpassungsfaktor beträgt 1,0253.
 
-
-## § 5 – Pflegegeld in der Unfallversicherung
+# § 5 – Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2014 an
 
@@ -56,12 +48,10 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2014 an
 
 2. für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch anzuwenden ist, zwischen 294 Euro und 1 177 Euro.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2014 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

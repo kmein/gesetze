@@ -1,20 +1,15 @@
-# [AZAV] Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch  (Akkreditierungs- und Zulassungsverordnung Arbeitsförderung - AZAV)
-
-Ausfertigungsdatum: 02.04.2012
-
+% Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch  (Akkreditierungs- und Zulassungsverordnung Arbeitsförderung - AZAV)
+% Ausfertigungsdatum: 02.04.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 184 des Dritten Buches Sozialgesetzbuch – Arbeitsförderung –, der durch Artikel 2 Nummer 18 des Gesetzes vom 20. Dezember 2011 (BGBl. I S. 2854) geändert worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Akkreditierungsverfahren
+# § 1 – Akkreditierungsverfahren
 
 Bei der Prüfung nach § 177 Absatz 2 Satz 1 Nummer 2 des Dritten Buches Sozialgesetzbuch berücksichtigt die Akkreditierungsstelle insbesondere, ob die bei der Zertifizierungsstelle mit der Zulassung von Trägern und Maßnahmen beauftragten Personen umfassende Kenntnisse der Fachbereiche nach § 5 Absatz 1 Satz 3 sowie hinsichtlich Inhalt und Durchführung von Maßnahmen nach den §§ 45 sowie 81 und 82 des Dritten Buches Sozialgesetzbuch haben.
 
-
-## § 2 – Trägerzulassung
+# § 2 – Trägerzulassung
 
 (1) Ein Träger ist nach § 178 Nummer 1 des Dritten Buches Sozialgesetzbuch leistungsfähig und zuverlässig, wenn insbesondere seine finanzielle und fachliche Leistungsfähigkeit gewährleistet ist und keine Tatsachen vorliegen, die seine Unzuverlässigkeit oder die der für die Führung der Geschäfte bestellten Personen darlegen. Damit die fachkundige Stelle die Leistungsfähigkeit des Trägers beurteilen kann, erhält sie von dem Träger grundsätzlich folgende Angaben und Nachweise:
 
@@ -76,8 +71,7 @@ Damit die fachkundige Stelle die Zuverlässigkeit des Trägers beurteilen kann, 
 
 (7) Sofern der Träger im Einzelfall keine Angaben aus seiner bisherigen Tätigkeit machen kann, hat er gegenüber der fachkundigen Stelle in geeigneter Weise darzulegen, wie die jeweilige Anforderung erfüllt werden wird.
 
-
-## § 3 – Maßnahmezulassung
+# § 3 – Maßnahmezulassung
 
 (1) Eine Maßnahme lässt nach § 179 Absatz 1 Nummer 1 des Dritten Buches Sozialgesetzbuch eine erfolgreiche Teilnahme erwarten, wenn
 
@@ -109,13 +103,11 @@ Als besondere Aufwendungen können auch Kosten anerkannt werden, die auf eine ba
 
 (8) Die fachkundige Stelle kann Maßnahmebausteine zulassen. Die Zulassung gilt auch für eine aus zugelassenen Maßnahmebausteinen bestehende Maßnahme, wenn der Träger gewährleistet, dass diese Maßnahme individuell auf die Bedürfnisse der Teilnehmenden und des Ausbildungs- und Arbeitsmarktes abgestimmt ist, und sie die Voraussetzungen des § 45 oder der §§ 81 und 82 des Dritten Buches Sozialgesetzbuch erfüllt.
 
-
-## § 4 – Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
+# § 4 – Ergänzende Anforderungen an Maßnahmen der beruflichen Weiterbildung
 
 Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Dritten Buches Sozialgesetzbuch zugelassen werden sollen, die auf Berufsabschlüsse in anerkannten Ausbildungsberufen oder bundes- oder landesrechtlich geregelten Berufen vorbereiten, ist der fachkundigen Stelle eine Bestätigung der zuständigen Stelle oder der zuständigen Aufsichtsbehörde über die Eignung des Trägers als Ausbildungsstätte vorzulegen.
 
-
-## § 5 – Zulassungsverfahren
+# § 5 – Zulassungsverfahren
 
 (1) Im Rahmen der Trägerzulassung prüft die fachkundige Stelle das Vorliegen der Anforderungen des § 2 Absatz 1 bis 6 ortsbezogen und bezogen auf den jeweiligen Fachbereich. Die ortsbezogene Prüfung bezieht die Standorte des Trägers mit ein. Die jeweiligen Fachbereiche sind:
 
@@ -145,19 +137,16 @@ Soweit Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 des Drit
 
 (8) Die Prüfung der Durchführung von Maßnahmen und die Beobachtung des Erfolgs dieser Maßnahmen obliegen nach § 183 des Dritten Buches Sozialgesetzbuch allein der Agentur für Arbeit. Die fachkundige Stelle prüft im Rahmen des § 181 Absatz 7 des Dritten Buches Sozialgesetzbuch, ob die ihr gemäß § 183 Absatz 4 des Dritten Buches Sozialgesetzbuch mitgeteilten Erkenntnisse Auswirkungen auf die Zulassung haben.
 
-
-## § 6 – Zusammenarbeit
+# § 6 – Zusammenarbeit
 
 (1) Die Akkreditierungsstelle, die fachkundigen Stellen und die Bundesagentur für Arbeit arbeiten in allen Fragen der Zulassung von Trägern und Maßnahmen vertrauensvoll zusammen.
 
 (2) Die Bundesagentur für Arbeit kann den fachkundigen Stellen Umsetzungshinweise zur Verfügung stellen, die diese bei der Prüfung berücksichtigen. Sie hat dabei die Empfehlungen des Beirats nach § 182 des Dritten Buches Sozialgesetzbuch zu beachten.
 
-
-## § 7 – Sonderregelung
+# § 7 – Sonderregelung
 
 Für das Jahr 2020 werden die durchschnittlichen Kostensätze für Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 und nach den §§ 81 und 82 des Dritten Buches Sozialgesetzbuch auf der Basis der im Jahr 2019 von den fachkundigen Stellen vorgelegten Kostensätze ermittelt. Zum 1. Juli 2020 werden die durchschnittlichen Kostensätze für Maßnahmen der beruflichen Weiterbildung nach den §§ 81 und 82 um 20 Prozent angehoben.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Anerkennungs- und Zulassungsverordnung – Weiterbildung vom 16. Juni 2004 (BGBl. I S. 1100), die durch Artikel 453 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, außer Kraft.

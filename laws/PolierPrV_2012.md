@@ -1,15 +1,11 @@
-# [PolierPrV 2012] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin
-
-Ausfertigungsdatum: 06.09.2012
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin
+% Ausfertigungsdatum: 06.09.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Industrie- und Handelskammern und Handwerkskammern können als zuständige Stellen berufliche Fortbildungsprüfungen zum Geprüften Polier und zur Geprüften Polierin nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -39,8 +35,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Polier“ oder „Geprüfte Polierin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -56,8 +51,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Umfang der Qualifikation und Gliederung der Prüfung
+# § 3 – Umfang der Qualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation „Geprüfter Polier“ und „Geprüfte Polierin“ umfasst:
 
@@ -85,8 +79,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Prüfungsteil „Baubetrieb“
+# § 4 – Prüfungsteil „Baubetrieb“
 
 (1) Im Prüfungsteil „Baubetrieb“ soll die Befähigung nachgewiesen werden, Prozesse bei der Vorbereitung und Einrichtung einer Baustelle sowie während der Bauausführung zu steuern. In diesem Rahmen können folgende Qualifikationen geprüft werden:
 
@@ -120,8 +113,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Prüfungsteil „Bautechnik“
+# § 5 – Prüfungsteil „Bautechnik“
 
 (1) Im Prüfungsteil „Bautechnik“ soll die Befähigung nachgewiesen werden, konstruktions- und fertigungstechnische Aufgaben unter Beachtung wirtschaftlicher und ökologischer Aspekte in einem Baubetrieb in den Bereichen „Hochbau“ oder „Tiefbau“ zu bearbeiten. Es sollen fachliche Sachverhalte beurteilt und bewertet werden. Bei den Aufgabenstellungen sollen fallorientiert jeweils mindestens fünf der nachfolgend aufgeführten Qualifikationsinhalte verknüpft werden:
 
@@ -181,8 +173,7 @@ k) Durchführen und Beurteilen der einschlägigen Eigenüberwachungen, insbesond
 
 (3) Wurde in nicht mehr als einer der beiden Situationsaufgaben eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 6 – Prüfungsteil „Mitarbeiterführung und Personalmanagement“
+# § 6 – Prüfungsteil „Mitarbeiterführung und Personalmanagement“
 
 (1) Der Prüfungsteil „Mitarbeiterführung und Personalmanagement“ gliedert sich in folgende Qualifikationsschwerpunkte:
 
@@ -242,15 +233,13 @@ e) Mitwirken beim Beenden von Arbeitsverhältnissen und Erstellen von Zeugnissen
 
 (4) Wurde in nicht mehr als einer der beiden Situationsaufgaben eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 2 Satz 3, Absatz 3 Satz 2, Absatz 4 Satz 2 oder § 9 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bewerten der Prüfungsleistungen
+# § 8 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu bewerten.
 
@@ -268,8 +257,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils 50 Punkte erreicht worden sind:
 
@@ -293,8 +281,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und B.
 
@@ -308,8 +295,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -317,22 +303,19 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 Begonnene Prüfverfahren können bis zum 31. März 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die zuständige Stelle die Wiederholungsprüfung auch nach dieser Verordnung durchführen. § 9 Absatz 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2012 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2012 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Polier vom 20. Juni 1979 (BGBl. I S. 667), die zuletzt durch Artikel 1 Nummer 17 und Artikel 2 § 1 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und § 4 Nummer 8 der Verordnung vom 15. April 1999 (BGBl. I S. 711) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu § 2 Absatz 2)Profil des Werkpoliers und der Werkpolierin
+# Anlage 1 – (zu § 2 Absatz 2)Profil des Werkpoliers und der Werkpolierin
 
 (Fundstelle: BGBl. I 2012, 1931)
 
@@ -394,15 +377,13 @@ n) Erkennen von betriebswirtschaftlichen Zusammenhängen;
 
 Die Qualifikationen sind durch ein Zeugnis eines Prüfungsausschusses auf der Grundlage des Regelwerkes der Tarifvertragsparteien des Baugewerbes, durch ein Zeugnis der zuständigen Stellen oder durch eine Bescheinigung insbesondere von Arbeitgebern nachzuweisen. Dabei müssen diese Nachweise die Breite und Tiefe der Qualifikation abbilden.
 
-
-## Anlage 2 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 2 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2370 - 2371)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 10)Zeugnisinhalte
+# Anlage 3 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2371)
 

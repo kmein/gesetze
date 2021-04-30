@@ -1,18 +1,13 @@
-# [FSPersAV] Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung    (Flugsicherungspersonalausbildungsverordnung - FSPersAV)
-
-Ausfertigungsdatum: 10.10.2008
-
+% Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung    (Flugsicherungspersonalausbildungsverordnung - FSPersAV)
+% Ausfertigungsdatum: 10.10.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 4 und 5 und Satz 3 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Erlaubnispflichtiges Personal
+# § 1 – Erlaubnispflichtiges Personal
 
 Das erlaubnispflichtige Personal für die Flugsicherung umfasst
 
@@ -30,8 +25,7 @@ sowie dessen Ausbilder an Arbeitsplätzen der Flugsicherungsbetriebsdienste,
 
 3. das flugsicherungstechnische Personal für den Betrieb, die Instandhaltung und die Überwachung (Inbetriebhaltung) der betrieblich genutzten flugsicherungstechnischen Einrichtungen sowie dessen Ausbilder an betrieblich genutzten flugsicherungstechnischen Einrichtungen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -83,13 +77,11 @@ b) die in einen Erlaubnisschein eingetragene Genehmigung zur selbstverantwortlic
 
 18. betrieblicher Ausbildungsplan: ein von der Aufsichtsbehörde genehmigter Plan mit genauen Angaben zu den Verfahren und zeitlichen Vorgaben, damit ein Lizenzinhaber die Verfahren der Kontrollstelle unter Aufsicht eines Ausbilders am Arbeitsplatz auf den örtlichen Zuständigkeitsbereich anwenden kann.
 
-
-## § 3 – Aufsichtsbehörde
+# § 3 – Aufsichtsbehörde
 
 Aufsichtsbehörde ist das Bundesaufsichtsamt für Flugsicherung.
 
-
-## § 4 – Allgemeine Pflichten
+# § 4 – Allgemeine Pflichten
 
 (1) Jede Flugsicherungsorganisation stellt sicher, dass die von ihr eingesetzten Fluglotsen die erforderliche Kompetenz besitzen.
 
@@ -103,8 +95,7 @@ Aufsichtsbehörde ist das Bundesaufsichtsamt für Flugsicherung.
 
 (3) Die Aufsichtsbehörde kann Auflagen zur Erfüllung der in den Absätzen 1 und 2 genannten Pflichten erlassen.
 
-
-## § 5 – Lizenzen, Erlaubnisse und Befugnisse
+# § 5 – Lizenzen, Erlaubnisse und Befugnisse
 
 (1) Die Lizenz für Fluglotsen enthält eine oder mehrere der folgenden Erlaubnisse und Befugnisse:
 
@@ -152,8 +143,7 @@ d) Die Befugnis „Ozeankontrolle“ (Oceanic Control, OCN) gibt an, dass der Li
 
 (2) Der Lizenzschein muss die in Anlage 4 genannten Anforderungen erfüllen.
 
-
-## § 6 – Ausbildungsvoraussetzungen
+# § 6 – Ausbildungsvoraussetzungen
 
 (1) Die Ausbildung von Fluglotsen ist nur zulässig, wenn
 
@@ -185,8 +175,7 @@ b) wegen sonstiger vorsätzlicher Straftaten zu einer Freiheitsstrafe oder Jugen
 
 Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 1 erfasst sind, oder im Fall von Entscheidungen der Gerichte oder Staatsanwaltschaften nach § 153a der Strafprozessordnung verneint werden, wenn der zugrunde liegende Sachverhalt für die Beurteilung der Zuverlässigkeit von Personen im Umgang mit Luftfahrzeugen von Bedeutung ist und seit dem Eintritt der Rechtskraft der letzten Verurteilung oder der Entscheidung fünf Jahre noch nicht verstrichen sind.
 
-
-## § 7 – Medizinische Tauglichkeit
+# § 7 – Medizinische Tauglichkeit
 
 (1) Die medizinische Tauglichkeit ist regelmäßig wiederkehrend durch Vorlage von Tauglichkeitszeugnissen nachzuweisen. Tauglichkeitszeugnisse werden entweder durch ein anerkanntes flugmedizinisches Zentrum oder einen anerkannten Flugmediziner ausgestellt. Die Untersuchung zur erstmaligen Erteilung eines Tauglichkeitszeugnisses (Erstuntersuchung) ist durch ein anerkanntes flugmedizinisches Zentrum oder durch einen anerkannten Flugmediziner, der der direkten Qualitätskontrolle eines flugmedizinischen Zentrums untersteht, durchzuführen. Nachuntersuchungen (Wiederholungsuntersuchungen) sind von einem anerkannten flugmedizinischen Zentrum oder einem anerkannten Flugmediziner durchzuführen. Das Ergebnis der Untersuchung ist dem Betroffenen und der Aufsichtsbehörde mitzuteilen.
 
@@ -202,18 +191,15 @@ Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 
 
 (7) Anerkannte flugmedizinische Zentren und anerkannte Flugmediziner unterliegen hinsichtlich Art und Umfang der Untersuchungen sowie der anzuwendenden Standards der Aufsicht durch die Aufsichtsbehörde; diese kann hierzu unter Berücksichtigung der Bestimmungen des Anhangs I des ICAO-Abkommens und den Anforderungen des Eurocontrol-Dokuments „Requirements for European Class 3 Medical Certification of Air Traffic Controllers“ nähere Bestimmungen erlassen. Bei medizinischen Fragestellungen kann sich die Aufsichtsbehörde der Fachkompetenz von anerkannten flugmedizinischen Zentren bedienen.
 
-
-## § 8 – Ausbildungsinhalt
+# § 8 – Ausbildungsinhalt
 
 Die Ausbildung für Fluglotsen umfasst die grundlegende Ausbildung, die zur Erteilung einer Auszubildendenlizenz erforderlich ist, und die betriebliche Ausbildung einschließlich der Einweisung, der Vorbereitung zur Ausbildung am Arbeitsplatz und der Ausbildung am Arbeitsplatz selbst, die zur Erteilung einer Fluglotsenlizenz erforderlich ist.
 
-
-## § 9 – Grundlegende Ausbildung
+# § 9 – Grundlegende Ausbildung
 
 In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinander aufbauenden Ausbildungskursen nach Anlage 1 Nr. 1 die für die betriebliche Ausbildung erforderlichen Kenntnisse und Fertigkeiten vermittelt. Die Ausbildungsziele und Ausbildungsinhalte sind in Anlage 1 Nr. 2 bestimmt. Für den Erwerb einer weiteren Erlaubnis und das Erlangen einer neuen Auszubildendenlizenz werden die bereits in einer früheren Ausbildung nach dieser Verordnung in gleichen Ausbildungskursen vermittelten Ausbildungsinhalte anerkannt, wenn der Fluglotse im Besitz mindestens einer gültigen Berechtigung im Rahmen der mit der früheren Ausbildung erworbenen Erlaubnis und Befugnisse ist. Liegt keine gültige Berechtigung mehr vor, kann die Regelung des Satzes 3 unter angemessener Beurteilung des Einzelfalls angewendet werden.
 
-
-## § 10 – Leistungsnachweise in der grundlegenden Ausbildung und Sprachenvermerke
+# § 10 – Leistungsnachweise in der grundlegenden Ausbildung und Sprachenvermerke
 
 (1) Während der grundlegenden Ausbildung sind in jedem der aufeinander aufbauenden Ausbildungskurse schriftliche, mündliche oder praktische Leistungsnachweise zu erbringen. Schriftliche Leistungsnachweise können in Form computergestützter Tests durchgeführt werden. In den Leistungsnachweisen sind die notwendigen Kenntnisse und Fertigkeiten für die Tätigkeit als Fluglotse nachzuweisen. Ein Ausbildungskurs ist erfolgreich abgeschlossen, wenn alle diesem Kurs zugehörigen Leistungsnachweise erbracht wurden. Die Teilnahme an einem nachfolgenden Ausbildungskurs setzt den erfolgreichen Abschluss des vorausgehenden Kurses voraus. Art, Anzahl und Inhalte der Leistungsnachweise in jedem Ausbildungskurs sind in Anlage 1 Nr. 2 festgelegt.
 
@@ -229,8 +215,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (7) Die Aufsichtsbehörde kann auf Antrag Stellen für die Beurteilung von Sprachkenntnissen nach Anlage 3 anerkennen. Die Voraussetzungen für eine Anerkennung werden von der Aufsichtsbehörde festgelegt und im Bundesanzeiger bekannt gemacht. Die Anerkennung wird widerrufen, wenn die Voraussetzungen zu einem späteren Zeitpunkt nicht nur vorübergehend entfallen sind.
 
-
-## § 11 – Prüfung zum Erwerb der Auszubildendenlizenz
+# § 11 – Prüfung zum Erwerb der Auszubildendenlizenz
 
 (1) Die Prüfung zum Erwerb der Auszubildendenlizenz wird zum Abschluss jedes Erlaubnis- oder Ergänzungskurses nach Anlage 1 dieser Verordnung als praktische Arbeitsprobe an einer Simulationseinrichtung durchgeführt und kann aus mehreren Teilprüfungen bestehen. In der Prüfung sind die für die jeweilige Tätigkeit notwendigen grundlegenden Fähigkeiten und Fertigkeiten nachzuweisen.
 
@@ -242,8 +227,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (5) Zum Erwerb zusätzlicher Befugnisse in Befugniskursen nach Anlage 1 dieser Verordnung gelten die Absätze 1 bis 4 entsprechend.
 
-
-## § 12 – Erteilung der Auszubildendenlizenz
+# § 12 – Erteilung der Auszubildendenlizenz
 
 (1) Die Aufsichtsbehörde erteilt die Auszubildendenlizenz, wenn der Auszubildende die Prüfung zum Erwerb der Auszubildendenlizenz besteht oder die Prüfung nach § 16 erlassen wird, soweit § 6 Abs. 1 Nr. 6 nicht entgegensteht. Der Auszubildendenlizenzschein wird dem Auszubildenden ausgehändigt.
 
@@ -253,8 +237,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (4) Das Innehaben der Auszubildendenlizenz berechtigt den Inhaber zur Tätigkeit an den Arbeitsplätzen der Flugverkehrskontrolldienste unter Aufsicht eines Ausbilders im Rahmen der einen Teil der Auszubildendenlizenz bildenden Erlaubnisse, Befugnisse und Sprachenvermerke.
 
-
-## § 13 – Leistungsnachweise in der betrieblichen Ausbildung
+# § 13 – Leistungsnachweise in der betrieblichen Ausbildung
 
 (1) In der betrieblichen Ausbildung ergänzt und vertieft der Auszubildende die in der grundlegenden Ausbildung erworbenen Kenntnisse und Fertigkeiten und lernt, diese bei der praktischen Tätigkeit als Fluglotse anzuwenden. Voraussetzung für die Teilnahme an der betrieblichen Ausbildung mit der Beschränkung nach § 12 Abs. 2 ist das Innehaben der Auszubildendenlizenz. Die betriebliche Ausbildung umfasst jeweils auch theoretische Ausbildungsinhalte.
 
@@ -270,8 +253,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (7) Die betriebliche Ausbildung erfolgt nach betrieblichen Ausbildungsplänen. Diese werden von der jeweiligen Flugsicherungsorganisation festgelegt und von der Aufsichtsbehörde genehmigt. Die Anforderungen an die betrieblichen Ausbildungspläne sind in Anlage 2 Nr. 3 festgelegt.
 
-
-## § 14 – Prüfung zum Erwerb und Erteilung der Berechtigungen
+# § 14 – Prüfung zum Erwerb und Erteilung der Berechtigungen
 
 (1) Die Prüfung zum Erwerb einer Berechtigung erfolgt nach Abschluss der Trainingsphasen nach Anlage 2 dieser Verordnung. Sie findet grundsätzlich am operativen Sektor oder Arbeitsplatz während der Betriebsdurchführung statt; die Aufsichtsbehörde kann Ausnahmen zulassen, wenn insbesondere aufgrund des Verkehrsaufkommens eine Prüfung am operativen Sektor oder Arbeitsplatz nicht sinnvoll erscheint.
 
@@ -287,8 +269,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (7) Werden Sektoren oder Arbeitsplätze neu eingerichtet, können Fluglotsen, die im Besitz einer gültigen Berechtigung im Rahmen der entsprechenden Erlaubnisse und Befugnisse sind, die betriebliche Ausbildung und die Prüfung oder fortlaufende Beurteilung zum Erwerb der Berechtigung für die Tätigkeit auf dem neuen Sektor oder Arbeitsplatz durch die Aufsichtsbehörde ganz oder teilweise erlassen werden.
 
-
-## § 15 – Erteilung der Fluglotsenlizenz
+# § 15 – Erteilung der Fluglotsenlizenz
 
 (1) Die Aufsichtsbehörde erteilt die Fluglotsenlizenz an Personen,
 
@@ -306,8 +287,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (3) Das Innehaben der Fluglotsenlizenz berechtigt den Inhaber, selbstverantwortlich Flugverkehrskontrolldienste im Rahmen der einen Teil der Fluglotsenlizenz bildenden Erlaubnisse, Befugnisse, Berechtigungen und Sprachvermerke zu erbringen.
 
-
-## § 16 – Ausnahmeregelungen
+# § 16 – Ausnahmeregelungen
 
 (1) Lizenzen und zugehörige Erlaubnisse, Befugnisse und Sprachenvermerke, die von der Aufsichtsbehörde eines anderen Mitgliedsstaates der Europäischen Gemeinschaft gemäß der Richtlinie 2006/23/EG des Europäischen Parlaments und des Rates vom 5. April 2006 über eine gemeinschaftliche Fluglotsenlizenz (ABl. EU Nr. L 114 S. 22) erteilt wurden, werden von der Aufsichtsbehörde anerkannt. Fluglotsenlizenzen werden nur anerkannt, wenn der Lizenzinhaber das Mindestalter nach § 15 Abs. 1 Nr. 1 erreicht hat. Satz 1 gilt entsprechend auch für medizinische Tauglichkeitszeugnisse, die nach § 7 Abs. 2 erteilt wurden. Die Aufsichtsbehörde tauscht auf Antrag des Lizenzinhabers seinen anerkannten ausländischen Lizenzschein gegen einen deutschen Lizenzschein gleichen Inhalts aus, wenn der Lizenzinhaber im Geltungsbereich dieser Verordnung die mit der Lizenz verbundenen Rechte ausübt und die nach § 10 Abs. 3 erforderliche deutsche Sprachkompetenz nachweist.
 
@@ -315,8 +295,7 @@ In der grundlegenden Ausbildung werden den Auszubildenden in mehreren aufeinande
 
 (3) Fluglotsen, die militärische Erlaubnisse innehaben oder innehatten, kann die grundlegende Ausbildung oder Teile dieser Ausbildung durch die Aufsichtsbehörde erlassen werden, wenn sie gleichwertige Kenntnisse und Fähigkeiten nachweisen. Für militärische Fluglotsen der Bundeswehr, die im Rahmen der zivil-militärischen Integration in die DFS Deutsche Flugsicherung GmbH beurlaubt werden sollen, werden die Eingangs- und Verwendungsvoraussetzungen der Bundeswehr für militärische Flugverkehrskontrolldienste anerkannt.
 
-
-## § 17 – Erteilung der Ausbildererlaubnis
+# § 17 – Erteilung der Ausbildererlaubnis
 
 (1) Die Aufsichtsbehörde erteilt die Ausbildererlaubnis an Inhaber einer Fluglotsenlizenz, die
 
@@ -334,8 +313,7 @@ Die Aufsichtsbehörde kann in begründeten Fällen Ausnahmen von Nummer 2 zulass
 
 (4) Die Ausbildererlaubnis darf nicht erteilt werden, wenn Tatsachen die Annahme rechtfertigen, dass der Fluglotse für die Ausbildertätigkeit persönlich ungeeignet ist.
 
-
-## § 18 – Leistungsnachweise
+# § 18 – Leistungsnachweise
 
 (1) Das Erbringen von Leistungsnachweisen und die Bewertung der Leistungen sind in Anlage 9 geregelt.
 
@@ -345,8 +323,7 @@ Die Aufsichtsbehörde kann in begründeten Fällen Ausnahmen von Nummer 2 zulass
 
 (4) Schriftliche Leistungsnachweise sind fünf Jahre aufzubewahren.
 
-
-## § 19 – Prüfungsausschüsse, Durchführung der Prüfungen
+# § 19 – Prüfungsausschüsse, Durchführung der Prüfungen
 
 (1) Jeder Prüfungsausschuss besteht aus dem Vorsitzenden und zwei Beisitzern. Die Mitglieder der Prüfungsausschüsse werden von der Aufsichtsbehörde für einen verlängerbaren Zeitraum von jeweils drei Jahren berufen. Die Mitglieder des Prüfungsausschusses müssen für die Prüfungstätigkeit persönlich geeignet sein und einen von der Aufsichtsbehörde anerkannten Prüferlehrgang erfolgreich abgeschlossen haben.
 
@@ -362,39 +339,33 @@ Die Aufsichtsbehörde kann in begründeten Fällen Ausnahmen von Nummer 2 zulass
 
 (7) Über die Prüfung ist eine Niederschrift anzufertigen. Sie ist von den Mitgliedern des Prüfungsausschusses zu unterzeichnen. Prüfungsniederschriften sind zehn Jahre aufzubewahren.
 
-
-## § 20 – Bestehen von Teilprüfungen und Prüfungen
+# § 20 – Bestehen von Teilprüfungen und Prüfungen
 
 Die Bewertung von Teilprüfungen und Prüfungen, die Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen und Bestehen von Prüfungen sind in Anlage 9 geregelt.
 
-
-## § 21 – Wiederholung
+# § 21 – Wiederholung
 
 (1) Eine nicht bestandene Prüfung oder Teilprüfung kann wiederholt werden. Die Aufsichtsbehörde kann ausnahmsweise eine zweite Wiederholung zulassen, wenn begründete Aussicht auf Erfolg besteht.
 
 (2) Empfehlungen des Prüfungsausschusses für die Wiederholung sind angemessen zu berücksichtigen.
 
-
-## § 22 – Rücktritt
+# § 22 – Rücktritt
 
 (1) Wer von einer Prüfung oder einem Prüfungsteil zurücktritt, hat die Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, gilt die Prüfung oder der betreffende Prüfungsteil als nicht begonnen. Die Genehmigung wird erteilt, wenn ein wichtiger Grund vorliegt. Die Entscheidung, ob ein wichtiger Grund vorliegt, obliegt dem Vorsitzenden des Prüfungsausschusses. Eine Erkrankung ist durch Vorlage einer ärztlichen Bescheinigung nachzuweisen.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder werden die Gründe für den Rücktritt nicht unverzüglich mitgeteilt, gilt die Prüfung oder der betreffende Prüfungsteil als nicht bestanden.
 
-
-## § 23 – Versäumnisfolgen
+# § 23 – Versäumnisfolgen
 
 (1) Wird ein Prüfungstermin versäumt oder eine Prüfung unterbrochen, sind die Gründe hierfür unverzüglich dem Vorsitzenden des Prüfungsausschusses mitzuteilen. Eine Erkrankung ist durch Vorlage einer ärztlichen Bescheinigung nachzuweisen.
 
 (2) Liegt kein wichtiger Grund für die Versäumnis oder Unterbrechung vor, gilt der betreffende Prüfungsteil als nicht bestanden. Im Übrigen gilt der Prüfungsteil als nicht begonnen. Die Entscheidung, ob ein wichtiger Grund vorliegt, obliegt dem Vorsitzenden des Prüfungsausschusses.
 
-
-## § 24 – Ordnungsverstöße und Täuschungsversuche
+# § 24 – Ordnungsverstöße und Täuschungsversuche
 
 Hat ein Prüfungsteilnehmer die ordnungsgemäße Durchführung einer Prüfung in erheblichem Maße gestört oder eine Täuschung versucht, kann der Prüfungsausschuss den betreffenden Teil der Prüfung für nicht bestanden erklären. Eine solche Entscheidung ist im Fall der Störung nur bis zum Abschluss der Prüfung, im Fall eines Täuschungsversuches nur innerhalb von zwei Jahren nach Abschluss der Prüfung zulässig.
 
-
-## § 25 – Gültigkeit, Verlängerung, Ruhen, Widerruf und Erneuerung von Auszubildendenlizenzen
+# § 25 – Gültigkeit, Verlängerung, Ruhen, Widerruf und Erneuerung von Auszubildendenlizenzen
 
 (1) Auszubildendenlizenzen gelten 18 Monate, sofern sie nicht verlängert werden, ruhen, widerrufen oder erneuert werden. Sie gelten jedoch höchstens bis zum Ablauf der Frist für die medizinische Tauglichkeit oder bis zum Ablauf der Frist für die Gültigkeit von Sprachenvermerken.
 
@@ -412,8 +383,7 @@ Hat ein Prüfungsteilnehmer die ordnungsgemäße Durchführung einer Prüfung in
 
 (8) Die Aufsichtsbehörde teilt der Flugsicherungsorganisation das Ruhen nach Absatz 4 oder den Widerruf nach Absatz 5 mit.
 
-
-## § 26 – Gültigkeit, Verlängerung und Erneuerung von Berechtigungen, Betriebliche Kompetenzprogramme
+# § 26 – Gültigkeit, Verlängerung und Erneuerung von Berechtigungen, Betriebliche Kompetenzprogramme
 
 (1) Berechtigungen nach § 14 werden mit einer Gültigkeitsdauer von zwölf Monaten erteilt, längstens jedoch bis zum Ablauf der Frist für die medizinische Tauglichkeit oder bis zum Ablauf der Frist für die Gültigkeit von Sprachenvermerken.
 
@@ -447,8 +417,7 @@ Hat ein Prüfungsteilnehmer die ordnungsgemäße Durchführung einer Prüfung in
 
 (7) Die Aufsichtsbehörde trägt die Gültigkeit, die Verlängerung und die Erneuerung von Berechtigungen in den Fluglotsenlizenzschein ein.
 
-
-## § 27 – Überprüfung der Kompetenz, Ruhen und Widerruf von Fluglotsenlizenzen
+# § 27 – Überprüfung der Kompetenz, Ruhen und Widerruf von Fluglotsenlizenzen
 
 (1) Die Aufsichtsbehörde ist unverzüglich zu unterrichten, wenn begründete Zweifel an der sicheren Betriebsabwicklung durch den Fluglotsen bestehen. Dies ist insbesondere der Fall, wenn
 
@@ -474,8 +443,7 @@ Der Fluglotsenlizenzschein wird von der Aufsichtsbehörde eingezogen.
 
 (5) Die Aufsichtsbehörde teilt der Flugsicherungsorganisation das Ruhen nach Absatz 2 oder den Widerruf nach Absatz 4 mit.
 
-
-## § 28 – Gültigkeit, Verlängerung, Ruhen, Widerruf und Erneuerung von Ausbildererlaubnissen
+# § 28 – Gültigkeit, Verlängerung, Ruhen, Widerruf und Erneuerung von Ausbildererlaubnissen
 
 (1) Eine Ausbildererlaubnis wird von der Aufsichtsbehörde für einen Zeitraum von drei Jahren erteilt.
 
@@ -491,8 +459,7 @@ Der Fluglotsenlizenzschein wird von der Aufsichtsbehörde eingezogen.
 
 (7) Die Aufsichtsbehörde teilt der Flugsicherungsorganisation das Ruhen nach Absatz 3 oder den Widerruf nach Absatz 4 mit.
 
-
-## § 29 – Zertifizierung von Ausbildungsanbietern
+# § 29 – Zertifizierung von Ausbildungsanbietern
 
 (1) Die Ausbildung von Fluglotsen darf nur von zertifizierten Ausbildungsanbietern durchgeführt werden. Die Zertifizierungsanforderungen beziehen sich auf die technische und betriebliche Kompetenz und die Eignung zur Durchführung von Ausbildungsgängen für Fluglotsen.
 
@@ -530,8 +497,7 @@ Der Fluglotsenlizenzschein wird von der Aufsichtsbehörde eingezogen.
 
 (8) Die DFS Deutsche Flugsicherung GmbH und deren Tochtergesellschaften gelten bis zu einer Zertifizierung als zertifizierter Ausbildungsanbieter im Sinne von Absatz 1.
 
-
-## § 30 – Ausbildungsvoraussetzungen
+# § 30 – Ausbildungsvoraussetzungen
 
 (1) Die Ausbildung von Flugsicherungsbetriebspersonal nach § 1 Nr. 2 oder flugsicherungstechnischem Personal nach § 1 Nr. 3 ist nur zulässig, wenn
 
@@ -569,8 +535,7 @@ Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 
 
 4. eine andere gleichwertige Ausbildung.
 
-
-## § 31 – Medizinische Tauglichkeit
+# § 31 – Medizinische Tauglichkeit
 
 (1) Für das Flugsicherungspersonal nach § 1 Nr. 2 und 3 ist die medizinische Tauglichkeit vor der Einstellung in einer Erstuntersuchung nach der entsprechenden Tauglichkeitsrichtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur vom 25. August 2001, NfL II 78/01, in der jeweils gültigen Fassung nachzuweisen.
 
@@ -584,13 +549,11 @@ Die Zuverlässigkeit kann auch im Fall von Verurteilungen, die nicht von Nummer 
 
 (3) Falls von dem nach der in Absatz 1 genannten Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur untersuchenden Arzt eine kürzere Frist für erforderlich gehalten wird, kann eine vorzeitige Nachuntersuchung veranlasst werden. Auch beim Vorliegen besonderer Gründe, die Zweifel an dem Fortbestehen der medizinischen Tauglichkeit aufkommen lassen, ist eine vorzeitige Nachuntersuchung auf Veranlassung der Aufsichtsbehörde durchzuführen.
 
-
-## § 32 – Ausbildungsinhalt
+# § 32 – Ausbildungsinhalt
 
 Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundlegende Ausbildung nach § 33 zum Erwerb einer Erlaubnis und die betriebliche Ausbildung nach § 37 zum Erwerb von Berechtigungen.
 
-
-## § 33 – Grundlegende Ausbildung
+# § 33 – Grundlegende Ausbildung
 
 (1) In der grundlegenden Ausbildung werden dem Flugsicherungsbetriebspersonal nach § 1 Nr. 2 in mehreren aufeinander aufbauenden Ausbildungskursen nach Anlage 5 Nr. 1 die für die betriebliche Ausbildung auf Arbeitsplätzen des jeweiligen Verwendungsbereichs erforderlichen Kenntnisse und grundlegenden Fertigkeiten vermittelt. Diesem Personal werden für den Erwerb einer neuen Erlaubnis die bereits in einer früheren Ausbildung nach dieser Verordnung in gleichen Ausbildungskursen vermittelten Ausbildungsinhalte anerkannt, wenn der Erlaubnispflichtige im Besitz der gültigen Erlaubnis ist, die mit der früheren Ausbildung erworben wurde. Dem flugsicherungstechnischen Personal nach § 1 Nr. 3 werden in einem Erlaubniskurs die für die betriebliche Ausbildung in der Inbetriebhaltung flugsicherungstechnischer Einrichtungen erforderlichen grundlegenden Kenntnisse der Flugsicherungstechnik vermittelt.
 
@@ -598,8 +561,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (3) Die Ausbildungsziele und Ausbildungsinhalte der Ausbildungskurse sind für Flugsicherungsbetriebspersonal nach § 1 Nr. 2 in Anlage 5 Nr. 2, für flugsicherungstechnisches Personal nach § 1 Nr. 3 in Anlage 6 festgelegt.
 
-
-## § 34 – Leistungsnachweise in der grundlegenden Ausbildung und Sprachenvermerke
+# § 34 – Leistungsnachweise in der grundlegenden Ausbildung und Sprachenvermerke
 
 (1) Während der grundlegenden Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2 sind in jedem der aufeinander aufbauenden Ausbildungskurse schriftliche, mündliche oder praktische Leistungsnachweise zu erbringen. In ihnen sind die notwendigen Kenntnisse und Fertigkeiten für die jeweilige erlaubnispflichtige Tätigkeit in den Flugsicherungsbetriebsdiensten nachzuweisen. Ein Ausbildungskurs ist erfolgreich abgeschlossen, wenn alle diesem Kurs zugehörigen Leistungsnachweise erbracht wurden. Die Teilnahme an einem nachfolgenden Ausbildungskurs setzt den erfolgreichen Abschluss des vorhergehenden Kurses voraus.
 
@@ -615,8 +577,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (7) § 10 Abs. 6 gilt entsprechend.
 
-
-## § 35 – Erlaubnisprüfung
+# § 35 – Erlaubnisprüfung
 
 (1) Die Erlaubnisprüfung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2 wird als praktische Arbeitsprobe an einer Simulationseinrichtung durchgeführt. Sie kann aus mehreren Teilprüfungen bestehen. In ihr sind die für die Tätigkeit unter Aufsicht im jeweiligen Verwendungsbereich in den Flugsicherungsbetriebsdiensten notwendigen praktischen Fähigkeiten und Fertigkeiten nachzuweisen.
 
@@ -628,15 +589,13 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (5) Das Verfahren zur Durchführung der Prüfung richtet sich nach § 41.
 
-
-## § 36 – Erwerb, Erteilung und Wirkung der Erlaubnisse
+# § 36 – Erwerb, Erteilung und Wirkung der Erlaubnisse
 
 (1) Mit dem Bestehen der Erlaubnisprüfung erwirbt der Bewerber die Erlaubnis für den jeweiligen Verwendungsbereich in den Flugsicherungsbetriebsdiensten nach § 1 Nr. 2 oder für die Inbetriebhaltung betrieblich genutzter flugsicherungstechnischer Einrichtungen nach § 1 Nr. 3. Die Erlaubnis wird von der Aufsichtsbehörde erteilt und im Erlaubnisschein eingetragen. Der Erlaubnisschein wird dem Bewerber ausgehändigt.
 
 (2) Das Innehaben der Erlaubnis berechtigt das Flugsicherungspersonal nach § 1 Nr. 2 und 3 zur Tätigkeit an Arbeitsplätzen der Flugsicherungsbetriebsdienste in den entsprechenden Verwendungsbereichen oder an betrieblich genutzten flugsicherungstechnischen Einrichtungen unter der Aufsicht eines Ausbilders.
 
-
-## § 37 – Leistungsnachweise in der betrieblichen Ausbildung
+# § 37 – Leistungsnachweise in der betrieblichen Ausbildung
 
 (1) In der betrieblichen Ausbildung vertieft der Bewerber die in der grundlegenden Ausbildung erworbenen Kenntnisse und Fertigkeiten und lernt, sie bei der praktischen Tätigkeit auf Arbeitsplätzen der Flugsicherungsbetriebsdienste im jeweiligen Verwendungsbereich oder bei der Inbetriebhaltung flugsicherungstechnischer Einrichtungen anzuwenden. Voraussetzung für die Teilnahme an der betrieblichen Ausbildung ist der Besitz der entsprechenden Erlaubnis. Die betriebliche Ausbildung umfasst jeweils auch theoretische Ausbildungsinhalte.
 
@@ -648,8 +607,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (5) Struktur und Inhalte der betrieblichen Ausbildung sowie Art, Anzahl und Inhalte der Leistungsnachweise sind für Flugsicherungsbetriebspersonal nach § 1 Nr. 2 in Anlage 7, für flugsicherungstechnisches Personal nach § 1 Nr. 3 in Anlage 8 festgelegt.
 
-
-## § 38 – Prüfung zum Erwerb und Erteilung der Berechtigungen
+# § 38 – Prüfung zum Erwerb und Erteilung der Berechtigungen
 
 (1) Die Prüfung zum Erwerb einer Berechtigung erfolgt nach Abschluss der Trainingsphasen nach Anlage 7 oder Anlage 8 dieser Verordnung. Für die Flugsicherungsbetriebsdienste in den Verwendungsbereichen nach § 1 Nr. 2 findet die Prüfung am Arbeitsplatz während der Betriebsdurchführung statt; die Aufsichtsbehörde kann Ausnahmen zulassen, wenn insbesondere aufgrund des Verkehrsaufkommens eine Prüfung am Arbeitsplatz nicht sinnvoll erscheint.
 
@@ -665,8 +623,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (7) Werden Arbeitsplätze neu eingerichtet, kann Flugsicherungspersonal nach § 1 Nr. 2 und 3, die im Besitz einer gültigen Berechtigung im Rahmen der entsprechenden Erlaubnisse sind, die betriebliche Ausbildung und die Prüfung auf dem neuen Arbeitsplatz durch die Aufsichtsbehörde ganz oder teilweise erlassen werden.
 
-
-## § 39 – Ausnahmeregelungen
+# § 39 – Ausnahmeregelungen
 
 (1) Bewerbern für die Flugsicherungsbetriebsdienste, welche die Voraussetzungen nach § 30 erfüllen und eine nach den Richtlinien der Internationalen Zivilluftfahrt-Organisation (ICAO) oder der Bundeswehr erworbene Erlaubnis für einen der in § 1 Nr. 2 genannten Verwendungsbereiche nachweisen, kann, sofern die Erlaubnis den Anforderungen an die Gültigkeit nach § 42 entspricht, von der Aufsichtsbehörde die grundlegende Ausbildung, einzelne oder sämtliche Leistungsnachweise und die Erlaubnisprüfung jeweils in dem Umfang, in dem diese Voraussetzung für den Erwerb der Erlaubnis waren, erlassen werden. Dies gilt ebenso für Bewerber, die die Voraussetzungen nach § 30 erfüllen und ausbildungsbezogene Vorkenntnisse nachweisen. Im begründeten Ausnahmefall kann die Aufsichtsbehörde die betriebliche Ausbildung und die Prüfung zum Erwerb der Berechtigung für die Tätigkeit auf einem neu eingerichteten Arbeitsplatz ganz oder teilweise erlassen. Voraussetzung dafür ist, dass das Flugsicherungsbetriebspersonal eine gültige Berechtigung nach § 38 Abs. 5 des gleichen Verwendungsbereichs innehat.
 
@@ -674,8 +631,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (3) Die Aufsichtsbehörde kann Bewerbern für die Ausbildung zum flugsicherungstechnischen Personal hinsichtlich der Inbetriebhaltung von betrieblich genutzten flugsicherungstechnischen Einrichtungen nach § 1 Nr. 3 die grundlegende Ausbildung, die Erlaubnisprüfung, die betriebliche Ausbildung, einzelne oder sämtliche Berechtigungsprüfungen und einzelne oder sämtliche Leistungsnachweise ganz oder teilweise erlassen, soweit sie entsprechende Kenntnisse, Fähigkeiten und Fertigkeiten zur Inbetriebhaltung der betreffenden flugsicherungstechnischen Einrichtungen nachweisen. Soll ein solcher Bewerber im begründeten Ausnahmefall nur an einzelnen flugsicherungstechnischen Einrichtungen eingesetzt werden, wird die Erlaubnis auf die Inbetriebhaltung bestimmter Einrichtungen beschränkt.
 
-
-## § 40 – Erteilung der Ausbilderberechtigung
+# § 40 – Erteilung der Ausbilderberechtigung
 
 (1) Die Aufsichtsbehörde erteilt die Ausbilderberechtigung an Personen, die
 
@@ -693,15 +649,13 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (5) Die Ausbilderberechtigung darf nicht erteilt werden, wenn Tatsachen die Annahme rechtfertigen, dass der Ausbilder persönlich ungeeignet ist. Die Ausbilderberechtigung ist zu widerrufen, wenn Tatsachen die Annahme rechtfertigen, dass der Ausbilder fachlich, pädagogisch oder persönlich ungeeignet ist. Bei einem Widerruf ist der Erlaubnisschein zu berichtigen. Bis zur endgültigen Entscheidung über den Widerruf kann die Aufsichtsbehörde das Ruhen der Ausbilderberechtigung anordnen.
 
-
-## § 41 – Prüfungsausschüsse, Durchführung der Prüfungen
+# § 41 – Prüfungsausschüsse, Durchführung der Prüfungen
 
 (1) Jeder Prüfungsausschuss besteht aus dem Vorsitzenden und zwei Beisitzern. Die Mitglieder der Prüfungsausschüsse werden von der Aufsichtsbehörde für einen verlängerbaren Zeitraum von jeweils drei Jahren berufen. Sie müssen für die Prüfungstätigkeit geeignet sein und über besondere fachliche Erfahrungen verfügen. Die Beisitzer des Prüfungsausschusses für die Prüfung zum Erwerb einer Berechtigung nach § 38 müssen darüber hinaus die gültige Berechtigung für den betreffenden Arbeitsplatz der Flugsicherungsbetriebsdienste oder die betreffende flugsicherungstechnische Einrichtung sowie eine gültige Ausbilderberechtigung nach § 40 besitzen. Soweit Beisitzer mit dieser Berechtigung zur selbstverantwortlichen Tätigkeit nicht vorhanden sind, können Beisitzer eingesetzt werden, die eine gleichartige Berechtigung besitzen. Bei Prüfungen nach § 38 für das flugsicherungstechnische Personal nach § 1 Nr. 3 können, wenn eine flugsicherungstechnische Einrichtung erstmals in Betrieb genommen wird, anstelle von Beisitzern mit gleichartiger Berechtigung Beisitzer ohne Berechtigung eingesetzt werden, die über besondere technische Kenntnisse und Erfahrungen über diese Einrichtung verfügen.
 
 (2) § 18 Abs. 1, § 19 Abs. 3 bis 7 sowie die §§ 20 bis 24 gelten entsprechend.
 
-
-## § 42 – Gültigkeit, Ruhen, Widerruf und Erneuerung von Erlaubnissen
+# § 42 – Gültigkeit, Ruhen, Widerruf und Erneuerung von Erlaubnissen
 
 (1) Erlaubnisse für Flugsicherungspersonal nach § 1 Nr. 2 und 3 gelten unbefristet, sofern sie nicht widerrufen werden.
 
@@ -711,8 +665,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (4) Eine Erlaubnis, die ihre Gültigkeit durch Widerruf verloren hat, kann auf Antrag des Erlaubnisinhabers erneuert werden, wenn die Voraussetzungen des § 30 entsprechend sowie des § 31 vorliegen und sichergestellt ist, dass die erforderlichen Kenntnisse und grundlegenden Fertigkeiten nach § 33 vorhanden sind.
 
-
-## § 43 – Gültigkeit, Verlängerung und Erneuerung von Berechtigungen
+# § 43 – Gültigkeit, Verlängerung und Erneuerung von Berechtigungen
 
 (1) Berechtigungen werden mit einer Gültigkeitsdauer von zwölf Monaten für die Flugsicherungsbetriebsdienste nach § 1 Nr. 2 und von 24 Monaten für die Inbetriebhaltung von betrieblich genutzten flugsicherungstechnischen Einrichtungen nach § 1 Nr. 3 erteilt.
 
@@ -722,8 +675,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (4) Die Aufsichtsbehörde kann in außergewöhnlichen Notfällen mit bundesweiten Auswirkungen, insbesondere in epidemischen Lagen von nationaler Tragweite nach § 5 Absatz 1 des Infektionsschutzgesetzes, Berechtigungen auch ohne Vorliegen der Voraussetzungen des Absatzes 2 für einen Zeitraum von bis zu sechs Monaten verlängern, wenn und soweit dies für die Aufrechterhaltung der Funktionsfähigkeit der Flugsicherung erforderlich ist. Bei Fortdauer des Notfalls und nachgewiesenem Personalbedarf ist einmalig eine erneute Verlängerung um bis zu drei weitere Monate möglich.
 
-
-## § 44 – Überprüfung, Ruhen und Widerruf von Berechtigungen
+# § 44 – Überprüfung, Ruhen und Widerruf von Berechtigungen
 
 (1) Die Aufsichtsbehörde kann in von ihr zu bestimmenden zeitlichen Abständen oder aus begründetem Anlass im Einzelfall die Kenntnisse, Fähigkeiten und Fertigkeiten der Berechtigungsinhaber von einem Prüfungsausschuss nach § 41 überprüfen lassen.
 
@@ -735,8 +687,7 @@ Die Ausbildung für sonstiges erlaubnispflichtiges Personal umfasst die grundleg
 
 (5) Der Prüfungsausschuss fertigt einen Überprüfungsbericht.
 
-
-## § 45 – Erlaubnis zum Betrieb von Ausbildungsstätten
+# § 45 – Erlaubnis zum Betrieb von Ausbildungsstätten
 
 (1) Die Aufsichtsbehörde erteilt auf Antrag eine Erlaubnis zum Betreiben einer Ausbildungsstätte zur grundlegenden Ausbildung von erlaubnispflichtigem Flugsicherungspersonal nach § 1 Nr. 2 und 3.
 
@@ -776,8 +727,7 @@ Die Aufsichtsbehörde kann zusätzliche Angaben fordern.
 
 (9) Für Ausbildungsstätten der Flugsicherungsorganisation DFS Deutsche Flugsicherung GmbH, die zum Zeitpunkt des Inkrafttretens dieser Verordnung erlaubnispflichtiges Flugsicherungspersonal im Sinne von § 1 Nr. 2 und 3 ausbilden, gilt die Erlaubnis nach Absatz 1 als erteilt. Im Übrigen unterliegen die Erlaubnisinhaber den Voraussetzungen und Bestimmungen dieser Vorschrift.
 
-
-## § 46 – Ordnungswidrigkeiten
+# § 46 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -787,8 +737,7 @@ Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt
 
 3. einer vollziehbaren Auflage nach § 4 Abs. 3 zuwiderhandelt.
 
-
-## § 47 – Übergangsvorschriften
+# § 47 – Übergangsvorschriften
 
 (1) Berechtigungen nach § 11 der Flugsicherungspersonalausbildungsverordnung in der Fassung vom 26. Februar 2002 (BGBl. I S. 1014) für Flugsicherungsbetriebspersonal im Sinne des § 2 Nr. 1 Buchstabe a und b der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung, die zum Zeitpunkt des Inkrafttretens dieser Verordnung gültig sind, gelten als Berechtigungen im Sinne des § 14 dieser Verordnung. Der Ablauf der Gültigkeitsdauer nach § 22 der Flugsicherungspersonalausbildungsverordnung in der genannten Fassung wird dadurch nicht berührt.
 
@@ -814,13 +763,11 @@ Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt
 
 (12) Ein Prüferlehrgang nach § 19 Abs. 1 Satz 3 ist erstmalig drei Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
-
-## § 48 – Inkrafttreten, Außerkrafttreten
+# § 48 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 17. Oktober 2008 in Kraft.
 
-
-## Anlage 1 – (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs. 5 und 8)Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
+# Anlage 1 – (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs. 5 und 8)Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
 
 1. Abfolge der Ausbildungskurse<span id="FnR.f771489_02"></span><a href="#f771489_02" class="FnR">*)</a></sup>
 
@@ -1713,8 +1660,7 @@ d) Prüfung
 
 Die Prüfung soll mindestens 55 und höchstens 70 Minuten dauern.
 
-
-## Anlage 2 – (zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3)Betriebliche Ausbildung für Fluglotsen
+# Anlage 2 – (zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3)Betriebliche Ausbildung für Fluglotsen
 
 1. Ausbildungsstruktur
 
@@ -1803,8 +1749,7 @@ In den Plänen für die betriebliche Ausbildung sind unter Berücksichtigung der
 
 Die Beurteilung der erforderlichen Fertigkeiten erfolgt in geeigneten Prüfungen oder mittels eines Systems fortlaufender Beurteilungen.
 
-
-## Anlage 3 – (zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6)Einstufungstabelle für Sprachkompetenz
+# Anlage 3 – (zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6)Einstufungstabelle für Sprachkompetenz
 
 Die in § 10 Abs. 2 und 3 und § 34 Abs. 4 festgelegten Anforderungen an die Sprachkompetenz gelten sowohl für den Gebrauch der Sprechgruppen als auch für den Gebrauch normaler Sprache. Zum Nachweis der Sprachkompetenz ist eine Beurteilung vorzunehmen, bei der mindestens die Kompetenzstufe 4 (Einsatzfähigkeit) in der nachfolgenden Einstufungsskala für Sprachkompetenz erreicht werden muss.
 
@@ -1822,8 +1767,7 @@ e) sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen verstan
 
 Einstufungstabelle für Sprachkompetenz:
 
-
-## Anlage 4 – (zu § 5 Abs. 2)Anforderungen an Lizenzscheine
+# Anlage 4 – (zu § 5 Abs. 2)Anforderungen an Lizenzscheine
 
 1. Einzelangaben
 
@@ -1865,8 +1809,7 @@ Es ist Papier bester Qualität oder ein anderes geeignetes Material zu verwenden
 
 Der Lizenzschein für Fluglotsen ist gelb.
 
-
-## Anlage 5 – (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+# Anlage 5 – (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
 1. Abfolge der Ausbildungskurse
 
@@ -2537,8 +2480,7 @@ e) Prüfung
 
 Die Prüfung soll mindestens 55 Minuten und höchstens 70 Minuten dauern.
 
-
-## Anlage 6 – (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+# Anlage 6 – (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
 
 a) Ausbildungsziel
 
@@ -2654,8 +2596,7 @@ d) Prüfung
 
 Die Prüfung soll mindestens 150 Minuten und höchstens 210 Minuten dauern.
 
-
-## Anlage 7 – (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+# Anlage 7 – (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
 1. Ausbildungsstruktur
 
@@ -2740,8 +2681,7 @@ b) Leistungsnachweise
 
 Zum Abschluss der abschnittsbezogenen fachlichen Einweisung ist ein schriftlicher und zum Abschluss jeder Trainingsphase ein praktischer Leistungsnachweis (Phasenbericht) zu erbringen. Damit umfasst der zweite Trainingsabschnitt vier Leistungsnachweise.
 
-
-## Anlage 8 – (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+# Anlage 8 – (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
 
 1. Ausbildungsstruktur
 
@@ -2803,8 +2743,7 @@ Er lernt, die erworbenen Kenntnisse bei der Inbetriebhaltung der betreffenden fl
 
 Am Ende jedes fachlichen Lehrgangs mit einer Mindestdauer von einer Woche hat der Teilnehmer einen schriftlichen Leistungsnachweis zu erbringen.
 
-
-## Anlage 9 – (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
+# Anlage 9 – (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
 
 1. Leistungsnachweise und Prüfungen für Fluglotsen nach § 1 Nr. 1 und Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
@@ -2875,8 +2814,7 @@ Bei der Bewertung der schriftlichen Aufsichtsarbeit in der Erlaubnisprüfung wir
 
 Prozentanteil der Leistungspunkte
 
-
-## Anlage 10 – (zu § 7 Abs. 2 und 6, § 47 Abs. 11)Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
+# Anlage 10 – (zu § 7 Abs. 2 und 6, § 47 Abs. 11)Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
 
 1. Organisation der flugmedizinischen Dienste
 
@@ -2991,13 +2929,9 @@ Federal Republic of Germany
   
 
 Anforderungen und Anmerkungen:  
-Die Größe der Seite ist 1/8 von A4 (A7).  
-Das gesamte Zeugnis ist auf eine Seite eines A4-Papiers  
-zu drucken.  
-Es ist Sicherheitspapier mit nicht zu kopierenden Merkmalen  
-zu verwenden.  
-Der gedruckte Text erscheint in deutscher und englischer Sprache.  
-Gefaltet passt das Tauglichkeitszeugnis in die Plastikhülle  
+Die Größe der Seite ist 1/8 von A4 (A7). Das gesamte Zeugnis ist auf eine Seite eines A4-Papiers  
+zu drucken. Es ist Sicherheitspapier mit nicht zu kopierenden Merkmalen  
+zu verwenden. Der gedruckte Text erscheint in deutscher und englischer Sprache. Gefaltet passt das Tauglichkeitszeugnis in die Plastikhülle  
 für die Fluglotsenlizenz.
 
 Tauglichkeitszeugnis  

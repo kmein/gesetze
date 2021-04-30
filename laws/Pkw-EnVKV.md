@@ -1,15 +1,11 @@
-# [Pkw-EnVKV] Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch neuer Personenkraftwagen  (Pkw-Energieverbrauchskennzeichnungsverordnung - Pkw-EnVKV)
-
-Ausfertigungsdatum: 28.05.2004
-
+% Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch neuer Personenkraftwagen  (Pkw-Energieverbrauchskennzeichnungsverordnung - Pkw-EnVKV)
+% Ausfertigungsdatum: 28.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 in Verbindung mit § 1 Abs. 2 und 3 Nr. 1 und 3 bis 5 des Energieverbrauchskennzeichnungsgesetzes vom 30. Januar 2002 (BGBl. I S. 570), von denen § 1 Abs. 1 und 2 durch Artikel 135 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1 – Kennzeichnungspflicht
+# § 1 – Kennzeichnungspflicht
 
 (1) Hersteller und Händler, die neue Personenkraftwagen ausstellen, zum Kauf oder Leasing anbieten oder für diese werben, haben dabei Angaben über den Kraftstoffverbrauch, die CO<sub>2</sub>-Emissionen und gegebenenfalls den Stromverbrauch nach Maßgabe der §§ 3 bis 5 sowie der Anlagen 1 bis 4 zu machen.
 
@@ -27,8 +23,7 @@ Der Verbrauch ist jeweils bis zur ersten Dezimalstelle nach kaufmännischen Rund
 
 2. für die CO<sub>2</sub>-Emissionen Gramm je Kilometer (g/km), jeweils auf eine ganze Zahl nach kaufmännischen Rundungsregeln auf- oder abgerundet.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -44,17 +39,13 @@ Im Sinne dieser Verordnung
 
 6. sind "offizielle spezifische CO<sub>2</sub>-Emissionen" die Emissionen eines neuen Personenkraftwagens nach Artikel 2 Nr. 6 der Richtlinie 1999/94/EG;
 
-6a.  
-ist der „offizielle Stromverbrauch“ der auf der Grundlage der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) in Verbindung mit der Verordnung (EG) Nr. 692/2008 des Europäischen Parlaments und des Rates vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen (Euro 5 und 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1) ermittelte Verbrauch an elektrischer Energie;
+6a. ist der „offizielle Stromverbrauch“ der auf der Grundlage der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S. 1) in Verbindung mit der Verordnung (EG) Nr. 692/2008 des Europäischen Parlaments und des Rates vom 18. Juli 2008 zur Durchführung und Änderung der Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates über die Typgenehmigung von Kraftfahrzeugen (Euro 5 und 6) und über den Zugang zu Reparatur- und Wartungsinformationen für Fahrzeuge (ABl. L 199 vom 28.7.2008, S. 1) ermittelte Verbrauch an elektrischer Energie;
 
-6b.  
-ist „anderer Energieträger“ elektrischer Strom;
+6b. ist „anderer Energieträger“ elektrischer Strom;
 
-6c.  
-ist „Masse des fahrbereiten Fahrzeugs“ die in Anhang IX Teil 1 der Verordnung (EG) Nr. 385/2009 der Kommission vom 7. Mai 2009 zur Ersetzung des Anhangs IX der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge („Rahmenrichtlinie“) (ABl. L 118 vom 13.5.2009, S. 13) definierte Masse, sofern in dieser Verordnung nichts Abweichendes geregelt ist; bei Fahrzeugen, die nicht über eine EG-Übereinstimmungsbescheinigung (Certificate of Conformity – CoC) im Sinne der Verordnung (EG) Nr. 385/2009 verfügen, ist zur Bestimmung der „Masse des fahrbereiten Fahrzeugs“ die in Anhang I Nummer 2.6 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) definierte Masse zugrunde zu legen und bei Angabe eines Bereichs für die Masse im Rahmen dieser Verordnung der höhere Wert heranzuziehen;
+6c. ist „Masse des fahrbereiten Fahrzeugs“ die in Anhang IX Teil 1 der Verordnung (EG) Nr. 385/2009 der Kommission vom 7. Mai 2009 zur Ersetzung des Anhangs IX der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge („Rahmenrichtlinie“) (ABl. L 118 vom 13.5.2009, S. 13) definierte Masse, sofern in dieser Verordnung nichts Abweichendes geregelt ist; bei Fahrzeugen, die nicht über eine EG-Übereinstimmungsbescheinigung (Certificate of Conformity – CoC) im Sinne der Verordnung (EG) Nr. 385/2009 verfügen, ist zur Bestimmung der „Masse des fahrbereiten Fahrzeugs“ die in Anhang I Nummer 2.6 der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) definierte Masse zugrunde zu legen und bei Angabe eines Bereichs für die Masse im Rahmen dieser Verordnung der höhere Wert heranzuziehen;
 
-6d.  
-ist unter dem Begriff „Kraftstoff“ im Sinne dieser Verordnung der vom Hersteller empfohlene Kraftstoff mit derjenigen Bezeichnung anzugeben, die zur Bekanntmachung der Kraftstoffqualität für den Betrieb von Kraftfahrzeugen nach der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung verwendet werden muss; wobei bei Ottokraftstoffen und Dieselkraftstoffen auf den Zusatz „schwefelfrei“ im Rahmen dieser Verordnung verzichtet werden kann;
+6d. ist unter dem Begriff „Kraftstoff“ im Sinne dieser Verordnung der vom Hersteller empfohlene Kraftstoff mit derjenigen Bezeichnung anzugeben, die zur Bekanntmachung der Kraftstoffqualität für den Betrieb von Kraftfahrzeugen nach der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen in der jeweils geltenden Fassung verwendet werden muss; wobei bei Ottokraftstoffen und Dieselkraftstoffen auf den Zusatz „schwefelfrei“ im Rahmen dieser Verordnung verzichtet werden kann;
 
 7. ist "Hinweis auf den Kraftstoffverbrauch, die CO<sub>2</sub>-Emissionen und den Stromverbrauch" eine Angabe zur Information des Verbrauchers über den offiziellen Kraftstoffverbrauch, die offiziellen spezifischen CO<sub>2</sub>-Emissionen und den offiziellen Stromverbrauch des Personenkraftwagens;
 
@@ -76,8 +67,7 @@ ist unter dem Begriff „Kraftstoff“ im Sinne dieser Verordnung der vom Herste
 
 16. sind "Typ", "Variante" und "Version" die Unterteilungen einer bestimmten Fabrikmarke nach Artikel 2 Nr. 12 der Richtlinie 1999/94/EG.
 
-
-## § 3 – Hinweis auf Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
+# § 3 – Hinweis auf Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch sowie Aushang am Verkaufsort
 
 (1) Wer einen neuen Personenkraftwagen ausstellt oder zum Kauf oder Leasing anbietet, hat dafür Sorge zu tragen, dass
 
@@ -89,8 +79,7 @@ ist unter dem Begriff „Kraftstoff“ im Sinne dieser Verordnung der vom Herste
 
 (3) Die Hersteller haben den Händlern, denen sie neue Personenkraftwagen liefern, auf Anforderung unverzüglich und unentgeltlich die Angaben zu übermitteln, die erforderlich sind, um den Hinweis und den Aushang nach Absatz 1 zu erstellen.
 
-
-## § 3a – CO2-Effizienzklassen
+# § 3a – CO2-Effizienzklassen
 
 (1) Der Hersteller hat die CO<sub>2</sub>-Effizienz des Fahrzeugs durch Angabe einer CO<sub>2</sub>-Effizienzklasse auszuweisen. Er hat dazu die Abweichung der offiziellen spezifischen CO<sub>2</sub>-Emissionen des Fahrzeugs von einem fahrzeugspezifischen Referenzwert zu ermitteln. Der Referenzwert ist wie folgt zu bestimmen:
 
@@ -106,7 +95,7 @@ a= 
 
 Der Referenzwert ist als ganze Zahl nach kaufmännischen Rundungsregeln auf- oder abzurunden. Die Abweichung der offiziellen spezifischen CO<sub>2</sub>-Emissionen des Fahrzeugs vom Referenzwert ist durch die Differenz der beiden Angaben auszudrücken und wie folgt zu berechnen:
 
-![](../normengrafiken/bgbl1_2011/j1756-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1756-1_0010.jpg)
 
 Dabei ist:
 
@@ -118,8 +107,7 @@ offizielle spezifische CO<sub>2</sub>-Emissionen des Fahrzeugs.
 
 Der Prozentwert ist auf zwei Dezimalstellen nach dem Komma nach kaufmännischen Rundungsregeln auf- oder abzurunden.
 
-(2) Entsprechend der Abweichung vom Referenzwert wird das Fahrzeug einer der nachfolgend bestimmten CO<sub>2</sub>-Effizienzklassen zugewiesen.  
-  
+(2) Entsprechend der Abweichung vom Referenzwert wird das Fahrzeug einer der nachfolgend bestimmten CO<sub>2</sub>-Effizienzklassen zugewiesen.   
 
 | CO<sub>2</sub>-Effizienzklasse | Bandbreite der Klassen Abweichung vom Referenzwert |
 |:------------------------------:|:--------------------------------------------------:|
@@ -132,8 +120,7 @@ Der Prozentwert ist auf zwei Dezimalstellen nach dem Komma nach kaufmännischen 
 |               F                |                 +8,01 % bis +17 %                  |
 |               G                |                   &gt; +17,01 %                    |
 
-(3) Erfüllt fünf vom Hundert der zugelassenen Fahrzeuge in einem Kalenderjahr die Anforderungen der nächst effizienteren Klassen A ++ oder A +++, werden diese Klassen entsprechend den nachfolgend bestimmten CO<sub>2</sub>-Effizienzklassen eingeführt, gegebenenfalls auch gleichzeitig. Das Bundesministerium für Wirtschaft und Energie überprüft jährlich das Erreichen des Fünf-vom-Hundert-Kriteriums für die Einführung der nächst höheren CO<sub>2</sub>-Effizienzklasse. Diese Überprüfung erfolgt auf der Basis der Zulassungszahlen und Typdaten des Kraftfahrt-Bundesamtes und unter Zugrundelegung der offiziellen spezifischen CO<sub>2</sub>-Emissionen und der Masse des fahrbereiten Fahrzeugs im Sinne der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) sowie optionaler, ergänzender versions- oder fahrzeugspezifischer Meldungen der Hersteller an das Kraftfahrt-Bundesamt, wobei in den Fällen, in denen in den Typgenehmigungsdokumenten ein Bereich für die Masse angegeben ist, für die Berechnung im Sinne des § 3a Absatz 3 dieser Verordnung der höhere Wert heranzuziehen ist. Das Bundesministerium für Wirtschaft und Energie veröffentlicht das Ergebnis der Prüfung und gegebenenfalls die Notwendigkeit, die Klassen A ++ beziehungsweise A +++ einzuführen bis spätestens 30. Juni eines jeden Jahres im Bundesanzeiger. Die neue Klasse ist nach drei Monaten ab dem Datum der Veröffentlichung im Bundesanzeiger anzuwenden.  
-  
+(3) Erfüllt fünf vom Hundert der zugelassenen Fahrzeuge in einem Kalenderjahr die Anforderungen der nächst effizienteren Klassen A ++ oder A +++, werden diese Klassen entsprechend den nachfolgend bestimmten CO<sub>2</sub>-Effizienzklassen eingeführt, gegebenenfalls auch gleichzeitig. Das Bundesministerium für Wirtschaft und Energie überprüft jährlich das Erreichen des Fünf-vom-Hundert-Kriteriums für die Einführung der nächst höheren CO<sub>2</sub>-Effizienzklasse. Diese Überprüfung erfolgt auf der Basis der Zulassungszahlen und Typdaten des Kraftfahrt-Bundesamtes und unter Zugrundelegung der offiziellen spezifischen CO<sub>2</sub>-Emissionen und der Masse des fahrbereiten Fahrzeugs im Sinne der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (ABl. L 263 vom 9.10.2007, S. 1) sowie optionaler, ergänzender versions- oder fahrzeugspezifischer Meldungen der Hersteller an das Kraftfahrt-Bundesamt, wobei in den Fällen, in denen in den Typgenehmigungsdokumenten ein Bereich für die Masse angegeben ist, für die Berechnung im Sinne des § 3a Absatz 3 dieser Verordnung der höhere Wert heranzuziehen ist. Das Bundesministerium für Wirtschaft und Energie veröffentlicht das Ergebnis der Prüfung und gegebenenfalls die Notwendigkeit, die Klassen A ++ beziehungsweise A +++ einzuführen bis spätestens 30. Juni eines jeden Jahres im Bundesanzeiger. Die neue Klasse ist nach drei Monaten ab dem Datum der Veröffentlichung im Bundesanzeiger anzuwenden.   
 
 | CO<sub>2</sub>-Effizienzklasse | Bandbreite der Klassen Abweichung vom Referenzwert |
 |:------------------------------:|:--------------------------------------------------:|
@@ -147,8 +134,7 @@ Der Prozentwert ist auf zwei Dezimalstellen nach dem Komma nach kaufmännischen 
 
 Spätestens drei Jahre nach Inkrafttreten dieser Verordnung wird das Bundesministerium für Wirtschaft und Energie die Berechnungsgrundlagen für den Referenzwert, insbesondere Alternativen zur Bezugsgröße Masse, und den Anteil der zugelassenen Fahrzeuge in den Klassen insgesamt überprüfen und gegebenenfalls die Energieverbrauchskennzeichnung für Personenkraftwagen durch Änderung dieser Verordnung anpassen.
 
-
-## § 4 – Leitfaden zu Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch
+# § 4 – Leitfaden zu Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch
 
 (1) Die Hersteller bestimmen eine Stelle, die in ihrem Auftrag einen einheitlichen Leitfaden über den Kraftstoffverbrauch, die CO<sub>2</sub>-Emissionen und den Stromverbrauch in gedruckter Form erstellt und an Händler, Verbraucher und sonstige Interessenten verteilt. Der Leitfaden ist mindestens einmal jährlich zu aktualisieren. Die Hersteller teilen die nach Satz 1 bestimmte Stelle dem Bundesministerium für Wirtschaft und Energie mit; dieses gibt die Stelle im Bundesanzeiger bekannt. Der Leitfaden ist von den Herstellern auch im Internet zur Verfügung zu stellen.
 
@@ -168,8 +154,7 @@ Spätestens drei Jahre nach Inkrafttreten dieser Verordnung wird das Bundesminis
 
 2. zu den unter Nummer 1 genannten Modellen zusätzlich jeweils den Hubraum, die Leistung, die Getriebeart, die Masse des Fahrzeugs, die Kraftstoffart, gegebenenfalls den anderen Energieträger, den offiziellen Kraftstoffverbrauch, die offiziellen spezifischen CO<sub>2</sub>-Emissionen und gegebenenfalls den offiziellen Stromverbrauch.
 
-
-## § 5 – Werbung
+# § 5 – Werbung
 
 (1) Hersteller und Händler, die Werbeschriften erstellen, erstellen lassen, weitergeben oder auf andere Weise verwenden, haben sicherzustellen, dass in den Werbeschriften Angaben über den offiziellen Kraftstoffverbrauch und die offiziellen spezifischen CO<sub>2</sub>-Emissionen der betreffenden Modelle neuer Personenkraftwagen nach Maßgabe von Abschnitt I der Anlage 4 gemacht werden.
 
@@ -183,13 +168,11 @@ hiervon ausgenommen sind Hörfunkdienste und audiovisuelle Mediendienste nach Ar
 
 (3) Die Verpflichtungen der Hersteller nach § 3 Abs. 3 gelten entsprechend für Angaben, die erforderlich sind, um Werbeschriften, zur Verbreitung in elektronischer Form bestimmtes Werbematerial und elektronische, magnetische oder optische Speichermedien nach den Absätzen 1 und 2 zu erstellen.
 
-
-## § 6 – Missbräuchliche Verwendung von Bezeichnungen
+# § 6 – Missbräuchliche Verwendung von Bezeichnungen
 
 Es ist verboten, in nach § 3 Abs. 1, § 3a Absatz 1 und 2, § 4 Abs. 2 Satz 1 und § 5 Abs. 1 und 2 bereitzustellenden Informationen zum offiziellen Kraftstoffverbrauch, zu den offiziellen spezifischen CO<sub>2</sub>-Emissionen, zum offiziellen Stromverbrauch und zu den CO<sub>2</sub>-Effizienzklassen andere den Vorschriften dieser Verordnung nicht entsprechende Zeichen, Symbole oder Angaben zu verwenden, sofern diese geeignet sind, beim Verbraucher zu Verwechslungen zu führen.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des Energieverbrauchskennzeichnungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -203,30 +186,25 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des Energieverbrauchskennzei
 
 5. entgegen § 6 ein dort genanntes Zeichen oder Symbol oder eine dort genannte Angabe verwendet.
 
-
-## § 8 – Weiterverwendung von Werbematerial
+# § 8 – Weiterverwendung von Werbematerial
 
 Werbeschriften und elektronische, magnetische oder optische Speichermedien, die vor Inkrafttreten dieser Verordnung erstellt wurden und die nach dieser Verordnung erforderlichen Angaben nicht oder nicht in der erforderlichen Form enthalten, können noch drei Monate nach Inkrafttreten dieser Verordnung verwendet werden.
 
-
-## § 8a – Übergangsregelungen
+# § 8a – Übergangsregelungen
 
 (1) Der Leitfaden im Sinne des § 4 muss spätestens am 2. Januar 2012 den Anforderungen dieser Verordnung entsprechen.
 
 (2) Die Anforderungen dieser Verordnung an den Aushang im Sinne des § 3 Absatz 1 Nummer 2 gelten für jede Aktualisierung, die nach Inkrafttreten dieser Verordnung vorgenommen wird.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tag des fünften auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 3 Abs. 1 Nr. 1)Hinweis auf Kraftstoffverbrauch und CO2-Emissionen und Stromverbrauch
+# Anlage 1 – (zu § 3 Abs. 1 Nr. 1)Hinweis auf Kraftstoffverbrauch und CO2-Emissionen und Stromverbrauch
 
 (Fundstelle: BGBl. I 2011, 1760 - 1765;  
 bzgl. einzelner Änderungen vgl. Fußnote)  
@@ -329,8 +307,7 @@ E, F, G
 
 <a href="../normengrafiken/bgbl1_2011/j1756-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 3 Abs. 1 Nr. 2)Aushang am Verkaufsort über Kraftstoffverbrauch, CO2-Emissionen und den Stromverbrauch
+# Anlage 2 – (zu § 3 Abs. 1 Nr. 2)Aushang am Verkaufsort über Kraftstoffverbrauch, CO2-Emissionen und den Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1042;  
 bezüglich der einzelnen Änderungen vgl. Fußnote)  
@@ -399,8 +376,7 @@ a) Es ist sicherzustellen, dass die in Anlage 1 Abschnitt I Nr. 6 aufgeführten 
 
 b) Die Angaben sind mindestens alle drei Monate zu aktualisieren.
 
-
-## Anlage 3 – (zu § 4 Abs. 2 Satz 1)Leitfaden über Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch
+# Anlage 3 – (zu § 4 Abs. 2 Satz 1)Leitfaden über Kraftstoffverbrauch, CO2-Emissionen und Stromverbrauch
 
 (Fundstelle: BGBl. I 2004, 1043;  
 bezüglich der einzelnen Änderungen vgl. Fußnote)  
@@ -436,8 +412,7 @@ Der Leitfaden über den Kraftstoffverbrauch, die CO<sub>2</sub>-Emissionen und d
 
 Der Leitfaden soll das Format DIN A4 nicht überschreiten.
 
-
-## Anlage 4 – (zu § 5)Angaben über Kraftstoffverbrauch und CO2-Emissionen in der Werbung
+# Anlage 4 – (zu § 5)Angaben über Kraftstoffverbrauch und CO2-Emissionen in der Werbung
 
 (Fundstelle: BGBl. I 2004, 1044;  
 bezüglich der einzelnen Änderungen vgl. Fußnote)  

@@ -1,15 +1,11 @@
-# [UhrmAusbV 2001] Verordnung über die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
-
-Ausfertigungsdatum: 02.07.2001
-
+% Verordnung über die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
+% Ausfertigungsdatum: 02.07.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, und auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), jeweils in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Uhrmacher/Uhrmacherin wird
 
@@ -17,13 +13,11 @@ Der Ausbildungsberuf Uhrmacher/Uhrmacherin wird
 
 2. gemäß § 25 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -75,25 +69,21 @@ Programmieren und Handhaben von numerisch gesteuerten Werkzeugmaschinen oder Spa
 
 21. Instandhalten von industriell gefertigtem Schmuck.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegen des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -102,8 +92,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 (3) Der Prüfling soll in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe durchführen und während dieser Zeit in höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
 Anfertigen und Prüfen einer funktionsfähigen uhrentechnischen Baugruppe oder eines Bauteils unter Anwendung manueller und maschineller Bearbeitungstechniken, lösbarer und unlösbarer Fügetechniken einschließlich Vorbehandeln von Oberflächen unter Berücksichtigung der Sicherheit und des Gesundheitsschutzes bei der Arbeit, sowie Anfertigen eines Arbeitsplanes und eines Prüf- und Messprotokolls. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, Messoperationen durchführen, technische Unterlagen nutzen sowie Fertigungsabläufe, insbesondere den Zusammenhang von Technik, Arbeitsorganisation, Umweltschutz und Wirtschaftlichkeit, berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann.
 
-
-## § 8 – Abschlussprüfung/Gesellenprüfung
+# § 8 – Abschlussprüfung/Gesellenprüfung
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -144,18 +133,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B der Prüfung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in der Arbeitsaufgabe einschließlich Dokumentation, im Fachgespräch oder in einem der drei Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Uhrmacher/zur Uhrmacherin
 
 (Fundstelle: BGBl. I 2001, 1479 - 1485)
 

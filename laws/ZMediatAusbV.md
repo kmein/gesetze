@@ -1,15 +1,11 @@
-# [ZMediatAusbV] Verordnung über die Aus- und Fortbildung von zertifizierten Mediatoren  (Zertifizierte-Mediatoren-Ausbildungsverordnung - ZMediatAusbV)
-
-Ausfertigungsdatum: 21.08.2016
-
+% Verordnung über die Aus- und Fortbildung von zertifizierten Mediatoren  (Zertifizierte-Mediatoren-Ausbildungsverordnung - ZMediatAusbV)
+% Ausfertigungsdatum: 21.08.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 des Mediationsgesetzes, der durch Artikel 135 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -19,8 +15,7 @@ Diese Verordnung regelt
 
 3. Anforderungen an die Einrichtungen zur Aus- und Fortbildung nach den Nummern 1 und 2.
 
-
-## § 2 – Ausbildung zum zertifizierten Mediator
+# § 2 – Ausbildung zum zertifizierten Mediator
 
 (1) Als zertifizierter Mediator darf sich nur bezeichnen, wer eine Ausbildung zum zertifizierten Mediator abgeschlossen hat.
 
@@ -46,8 +41,7 @@ Diese Verordnung regelt
 
 6. Name und Anschrift des Supervisors.
 
-
-## § 3 – Fortbildungsveranstaltung
+# § 3 – Fortbildungsveranstaltung
 
 (1) Der zertifizierte Mediator hat nach Abschluss der Ausbildung regelmäßig an Fortbildungsveranstaltungen teilzunehmen. Der Umfang der Fortbildungsveranstaltungen beträgt innerhalb eines Zeitraums von vier Jahren mindestens 40 Zeitstunden. Die Vierjahresfrist beginnt erstmals mit Ausstellung der Bescheinigung nach § 2 Absatz 6 zu laufen.
 
@@ -67,8 +61,7 @@ Diese Verordnung regelt
 
 4. vermittelte Fortbildungsinhalte und Dauer der Fortbildungsveranstaltung in Zeitstunden.
 
-
-## § 4 – Fortbildung durch Einzelsupervision
+# § 4 – Fortbildung durch Einzelsupervision
 
 (1) Innerhalb der zwei auf den Abschluss seiner Ausbildung nach § 2 folgenden Jahre hat der zertifizierte Mediator mindestens viermal an einer Einzelsupervision, jeweils im Anschluss an eine als Mediator oder Co-Mediator durchgeführte Mediation, teilzunehmen. Die Zweijahresfrist beginnt mit Ausstellung der Bescheinigung nach § 2 Absatz 6 zu laufen.
 
@@ -82,8 +75,7 @@ Diese Verordnung regelt
 
 4. Name und Anschrift des Supervisors.
 
-
-## § 5 – Anforderungen an Aus- und Fortbildungseinrichtungen
+# § 5 – Anforderungen an Aus- und Fortbildungseinrichtungen
 
 (1) Eine Ausbildung nach § 2 oder eine Fortbildung nach § 3 darf nur durchführen, wer sicherstellt, dass die dafür eingesetzten Lehrkräfte
 
@@ -93,8 +85,7 @@ Diese Verordnung regelt
 
 (2) Sofern eine Lehrkraft nur eingesetzt wird, um bestimmte Aus- oder Fortbildungsinhalte zu vermitteln, müssen sich ihre fachlichen Kenntnisse nur darauf beziehen.
 
-
-## § 6 – Gleichwertige im Ausland erworbene Qualifikation
+# § 6 – Gleichwertige im Ausland erworbene Qualifikation
 
 Als zertifizierter Mediator darf sich auch bezeichnen, wer
 
@@ -102,8 +93,7 @@ Als zertifizierter Mediator darf sich auch bezeichnen, wer
 
 2. anschließend als Mediator oder Co-Mediator mindestens vier Mediationen durchgeführt hat.
 
-
-## § 7 – Übergangsbestimmungen
+# § 7 – Übergangsbestimmungen
 
 (1) Als zertifizierter Mediator darf sich bezeichnen, wer vor dem 26. Juli 2012 eine Ausbildung zum Mediator im Umfang von mindestens 90 Zeitstunden abgeschlossen und anschließend als Mediator oder Co-Mediator mindestens vier Mediationen durchgeführt hat.
 
@@ -111,12 +101,10 @@ Als zertifizierter Mediator darf sich auch bezeichnen, wer
 
 (3) In den Fällen der Absätze 1 und 2 beginnen die Fristen des § 3 Absatz 1 Satz 3 und des § 4 Absatz 1 am 1. September 2017 zu laufen. Im Fall des Absatzes 2 Satz 2 beginnen die Fristen abweichend von Satz 1 mit Ausstellen der Bescheinigung zu laufen.
 
-
-## § 8 – Hemmung von Fristen
+# § 8 – Hemmung von Fristen
 
 War jemand ohne sein Verschulden gehindert, eine in dieser Verordnung genannte Frist einzuhalten, so ist der Lauf dieser Frist für die Dauer des Hindernisses, höchstens jedoch für die Hälfte der jeweils einzuhaltenden Frist, gehemmt.
 
-
-## Anlage – Inhalte des Ausbildungslehrgangs
+# Anlage – Inhalte des Ausbildungslehrgangs
 
 (Fundstelle: BGBl. I 2016,1996 - 1997)

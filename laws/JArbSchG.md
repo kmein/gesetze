@@ -1,10 +1,7 @@
-# [JArbSchG] Gesetz zum Schutze der arbeitenden Jugend  (Jugendarbeitsschutzgesetz - JArbSchG)
-
-Ausfertigungsdatum: 12.04.1976
-
+% Gesetz zum Schutze der arbeitenden Jugend  (Jugendarbeitsschutzgesetz - JArbSchG)
+% Ausfertigungsdatum: 12.04.1976
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -928,13 +925,11 @@ Inkrafttreten
 
 § 72
 
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz gilt in der Bundesrepublik Deutschland und in der ausschließlichen Wirtschaftszone für die Beschäftigung von Personen, die noch nicht 18 Jahre alt sind,
 
@@ -962,8 +957,7 @@ erbracht werden,
 
 2. für die Beschäftigung durch die Personensorgeberechtigten im Familienhaushalt.
 
-
-## § 2 – Kind, Jugendlicher
+# § 2 – Kind, Jugendlicher
 
 (1) Kind im Sinne dieses Gesetzes ist, wer noch nicht 15 Jahre alt ist.
 
@@ -971,13 +965,11 @@ erbracht werden,
 
 (3) Auf Jugendliche, die der Vollzeitschulpflicht unterliegen, finden die für Kinder geltenden Vorschriften Anwendung.
 
-
-## § 3 – Arbeitgeber
+# § 3 – Arbeitgeber
 
 Arbeitgeber im Sinne dieses Gesetzes ist, wer ein Kind oder einen Jugendlichen gemäß § 1 beschäftigt.
 
-
-## § 4 – Arbeitszeit
+# § 4 – Arbeitszeit
 
 (1) Tägliche Arbeitszeit ist die Zeit vom Beginn bis zum Ende der täglichen Beschäftigung ohne die Ruhepausen (§ 11).
 
@@ -989,8 +981,7 @@ Arbeitgeber im Sinne dieses Gesetzes ist, wer ein Kind oder einen Jugendlichen g
 
 (5) Wird ein Kind oder ein Jugendlicher von mehreren Arbeitgebern beschäftigt, so werden die Arbeits- und Schichtzeiten sowie die Arbeitstage zusammengerechnet.
 
-
-## § 5 – Verbot der Beschäftigung von Kindern
+# § 5 – Verbot der Beschäftigung von Kindern
 
 (1) Die Beschäftigung von Kindern (§ 2 Abs. 1) ist verboten.
 
@@ -1022,8 +1013,7 @@ nicht nachteilig beeinflußt. Die Kinder dürfen nicht mehr als zwei Stunden tä
 
 (5) Für Veranstaltungen kann die Aufsichtsbehörde Ausnahmen gemäß § 6 bewilligen.
 
-
-## § 6 – Behördliche Ausnahmen für Veranstaltungen
+# § 6 – Behördliche Ausnahmen für Veranstaltungen
 
 (1) Die Aufsichtsbehörde kann auf Antrag bewilligen, daß
 
@@ -1061,8 +1051,7 @@ gestaltend mitwirken und an den erforderlichen Proben teilnehmen. Eine Ausnahme 
 
 (4) Die Entscheidung der Aufsichtsbehörde ist dem Arbeitgeber schriftlich bekanntzugeben. Er darf das Kind erst nach Empfang des Bewilligungsbescheids beschäftigen.
 
-
-## § 7 – Beschäftigung von nicht vollzeitschulpflichtigen Kindern
+# § 7 – Beschäftigung von nicht vollzeitschulpflichtigen Kindern
 
 Kinder, die der Vollzeitschulpflicht nicht mehr unterliegen, dürfen
 
@@ -1072,8 +1061,7 @@ Kinder, die der Vollzeitschulpflicht nicht mehr unterliegen, dürfen
 
 beschäftigt werden. Auf die Beschäftigung finden die §§ 8 bis 46 entsprechende Anwendung.
 
-
-## § 8 – Dauer der Arbeitszeit
+# § 8 – Dauer der Arbeitszeit
 
 (1) Jugendliche dürfen nicht mehr als acht Stunden täglich und nicht mehr als 40 Stunden wöchentlich beschäftigt werden.
 
@@ -1083,8 +1071,7 @@ beschäftigt werden. Auf die Beschäftigung finden die §§ 8 bis 46 entsprechen
 
 (3) In der Landwirtschaft dürfen Jugendliche über 16 Jahre während der Erntezeit nicht mehr als neun Stunden täglich und nicht mehr als 85 Stunden in der Doppelwoche beschäftigt werden.
 
-
-## § 9 – Berufsschule
+# § 9 – Berufsschule
 
 (1) Der Arbeitgeber hat den Jugendlichen für die Teilnahme am Berufsschulunterricht freizustellen. Er darf den Jugendlichen nicht beschäftigen
 
@@ -1106,8 +1093,7 @@ beschäftigt werden. Auf die Beschäftigung finden die §§ 8 bis 46 entsprechen
 
 (4) (weggefallen)
 
-
-## § 10 – Prüfungen und außerbetriebliche Ausbildungsmaßnahmen
+# § 10 – Prüfungen und außerbetriebliche Ausbildungsmaßnahmen
 
 (1) Der Arbeitgeber hat den Jugendlichen
 
@@ -1125,8 +1111,7 @@ freizustellen.
 
 Ein Entgeltausfall darf nicht eintreten.
 
-
-## § 11 – Ruhepausen, Aufenthaltsräume
+# § 11 – Ruhepausen, Aufenthaltsräume
 
 (1) Jugendlichen müssen im voraus feststehende Ruhepausen von angemessener Dauer gewährt werden. Die Ruhepausen müssen mindestens betragen
 
@@ -1142,18 +1127,15 @@ Als Ruhepause gilt nur eine Arbeitsunterbrechung von mindestens 15 Minuten.
 
 (4) Absatz 3 gilt nicht für den Bergbau unter Tage.
 
-
-## § 12 – Schichtzeit
+# § 12 – Schichtzeit
 
 Bei der Beschäftigung Jugendlicher darf die Schichtzeit (§ 4 Abs. 2) 10 Stunden, im Bergbau unter Tage 8 Stunden, im Gaststättengewerbe, in der Landwirtschaft, in der Tierhaltung, auf Bau- und Montagestellen 11 Stunden nicht überschreiten.
 
-
-## § 13 – Tägliche Freizeit
+# § 13 – Tägliche Freizeit
 
 Nach Beendigung der täglichen Arbeitszeit dürfen Jugendliche nicht vor Ablauf einer ununterbrochenen Freizeit von mindestens 12 Stunden beschäftigt werden.
 
-
-## § 14 – Nachtruhe
+# § 14 – Nachtruhe
 
 (1) Jugendliche dürfen nur in der Zeit von 6 bis 20 Uhr beschäftigt werden.
 
@@ -1179,13 +1161,11 @@ beschäftigt werden.
 
 (7) Jugendliche dürfen bei Musikaufführungen, Theatervorstellungen und anderen Aufführungen, bei Aufnahmen im Rundfunk (Hörfunk und Fernsehen), auf Ton- und Bildträger sowie bei Film- und Fotoaufnahmen bis 23 Uhr gestaltend mitwirken. Eine Mitwirkung ist nicht zulässig bei Veranstaltungen, Schaustellungen oder Darbietungen, bei denen die Anwesenheit Jugendlicher nach den Vorschriften des Jugendschutzgesetzes verboten ist. Nach Beendigung der Tätigkeit dürfen Jugendliche nicht vor Ablauf einer ununterbrochenen Freizeit von mindestens 14 Stunden beschäftigt werden.
 
-
-## § 15 – Fünf-Tage-Woche
+# § 15 – Fünf-Tage-Woche
 
 Jugendliche dürfen nur an fünf Tagen in der Woche beschäftigt werden. Die beiden wöchentlichen Ruhetage sollen nach Möglichkeit aufeinander folgen.
 
-
-## § 16 – Samstagsruhe
+# § 16 – Samstagsruhe
 
 (1) An Samstagen dürfen Jugendliche nicht beschäftigt werden.
 
@@ -1219,8 +1199,7 @@ Mindestens zwei Samstage im Monat sollen beschäftigungsfrei bleiben.
 
 (4) Können Jugendliche in den Fällen des Absatzes 2 Nr. 2 am Samstag nicht acht Stunden beschäftigt werden, kann der Unterschied zwischen der tatsächlichen und der nach § 8 Abs. 1 höchstzulässigen Arbeitszeit an dem Tag bis 13 Uhr ausgeglichen werden, an dem die Jugendlichen nach Absatz 3 Satz 1 freizustellen sind.
 
-
-## § 17 – Sonntagsruhe
+# § 17 – Sonntagsruhe
 
 (1) An Sonntagen dürfen Jugendliche nicht beschäftigt werden.
 
@@ -1246,8 +1225,7 @@ Jeder zweite Sonntag soll, mindestens zwei Sonntage im Monat müssen beschäftig
 
 (3) Werden Jugendliche am Sonntag beschäftigt, ist ihnen die Fünf-Tage-Woche (§ 15) durch Freistellung an einem anderen berufsschulfreien Arbeitstag derselben Woche sicherzustellen. In Betrieben mit einem Betriebsruhetag in der Woche kann die Freistellung auch an diesem Tag erfolgen, wenn die Jugendlichen an diesem Tag keinen Berufsschulunterricht haben.
 
-
-## § 18 – Feiertagsruhe
+# § 18 – Feiertagsruhe
 
 (1) Am 24. und 31. Dezember nach 14 Uhr und an gesetzlichen Feiertagen dürfen Jugendliche nicht beschäftigt werden.
 
@@ -1255,8 +1233,7 @@ Jeder zweite Sonntag soll, mindestens zwei Sonntage im Monat müssen beschäftig
 
 (3) Für die Beschäftigung an einem gesetzlichen Feiertag, der auf einem Werktag fällt, ist der Jugendliche an einem anderen berufsschulfreien Arbeitstag derselben oder der folgenden Woche freizustellen. In Betrieben mit einem Betriebsruhetag in der Woche kann die Freistellung auch an diesem Tag erfolgen, wenn die Jugendlichen an diesem Tag keinen Berufsschulunterricht haben.
 
-
-## § 19 – Urlaub
+# § 19 – Urlaub
 
 (1) Der Arbeitgeber hat Jugendlichen für jedes Kalenderjahr einen bezahlten Erholungsurlaub zu gewähren.
 
@@ -1274,8 +1251,7 @@ Jugendliche, die im Bergbau unter Tage beschäftigt werden, erhalten in jeder Al
 
 (4) Im übrigen gelten für den Urlaub der Jugendlichen § 3 Abs. 2, §§ 4 bis 12 und § 13 Abs. 3 des Bundesurlaubsgesetzes. Der Auftraggeber oder Zwischenmeister hat jedoch abweichend von § 12 Nr. 1 des Bundesurlaubsgesetzes den jugendlichen Heimarbeitern für jedes Kalenderjahr einen bezahlten Erholungsurlaub entsprechend Absatz 2 zu gewähren; das Urlaubsentgelt der jugendlichen Heimarbeiter beträgt bei einem Urlaub von 30 Werktagen 11,6 vom Hundert, bei einem Urlaub von 27 Werktagen 10,3 vom Hundert und bei einem Urlaub von 25 Werktagen 9,5 vom Hundert.
 
-
-## § 20 – Binnenschiffahrt
+# § 20 – Binnenschiffahrt
 
 (1) In der Binnenschiffahrt gelten folgende Abweichungen:
 
@@ -1301,8 +1277,7 @@ Jugendliche, die im Bergbau unter Tage beschäftigt werden, erhalten in jeder Al
 
 6. Beginn und Ende der täglichen Arbeitszeit oder der täglichen Freizeit.
 
-
-## § 21 – Ausnahmen in besonderen Fällen
+# § 21 – Ausnahmen in besonderen Fällen
 
 (1) Die §§ 8 und 11 bis 18 finden keine Anwendung auf die Beschäftigung Jugendlicher mit vorübergehenden und unaufschiebbaren Arbeiten in Notfällen, soweit erwachsene Beschäftigte nicht zur Verfügung stehen.
 
@@ -1310,8 +1285,7 @@ Jugendliche, die im Bergbau unter Tage beschäftigt werden, erhalten in jeder Al
 
 (3) (weggefallen)
 
-
-## § 21a – Abweichende Regelungen
+# § 21a – Abweichende Regelungen
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrages in einer Betriebsvereinbarung kann zugelassen werden
 
@@ -1331,8 +1305,7 @@ Jugendliche, die im Bergbau unter Tage beschäftigt werden, erhalten in jeder Al
 
 (3) Die Kirchen und die öffentlich-rechtlichen Religionsgesellschaften können die in Absatz 1 genannten Abweichungen in ihren Regelungen vorsehen.
 
-
-## § 21b
+# § 21b
 
 Das Bundesministerium für Arbeit und Soziales kann im Interesse der Berufsausbildung oder der Zusammenarbeit von Jugendlichen und Erwachsenen durch Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von den Vorschriften
 
@@ -1344,8 +1317,7 @@ Das Bundesministerium für Arbeit und Soziales kann im Interesse der Berufsausbi
 
 zulassen, soweit eine Beeinträchtigung der Gesundheit oder der körperlichen oder seelisch-geistigen Entwicklung der Jugendlichen nicht zu befürchten ist.
 
-
-## § 22 – Gefährliche Arbeiten
+# § 22 – Gefährliche Arbeiten
 
 (1) Jugendliche dürfen nicht beschäftigt werden
 
@@ -1375,8 +1347,7 @@ Satz 1 findet keine Anwendung auf gezielte Tätigkeiten mit biologischen Arbeits
 
 (3) Werden Jugendliche in einem Betrieb beschäftigt, für den ein Betriebsarzt oder eine Fachkraft für Arbeitssicherheit verpflichtet ist, muß ihre betriebsärztliche oder sicherheitstechnische Betreuung sichergestellt sein.
 
-
-## § 23 – Akkordarbeit, tempoabhängige Arbeiten
+# § 23 – Akkordarbeit, tempoabhängige Arbeiten
 
 (1) Jugendliche dürfen nicht beschäftigt werden
 
@@ -1396,8 +1367,7 @@ oder
 
 und ihr Schutz durch die Aufsicht eines Fachkundigen gewährleistet ist.
 
-
-## § 24 – Arbeiten unter Tage
+# § 24 – Arbeiten unter Tage
 
 (1) Jugendliche dürfen nicht mit Arbeiten unter Tage beschäftigt werden.
 
@@ -1411,8 +1381,7 @@ und ihr Schutz durch die Aufsicht eines Fachkundigen gewährleistet ist.
 
 und ihr Schutz durch die Aufsicht eines Fachkundigen gewährleistet ist.
 
-
-## § 25 – Verbot der Beschäftigung durch bestimmte Personen
+# § 25 – Verbot der Beschäftigung durch bestimmte Personen
 
 (1) Personen, die
 
@@ -1432,8 +1401,7 @@ rechtskräftig verurteilt worden sind, dürfen Jugendliche nicht beschäftigen s
 
 (3) Das Verbot des Absatzes 1 und 2 gilt nicht für die Beschäftigung durch die Personensorgeberechtigten.
 
-
-## § 26 – Ermächtigungen
+# § 26 – Ermächtigungen
 
 Das Bundesministerium für Arbeit und Soziales kann zum Schutz der Jugendlichen gegen Gefahren für Leben und Gesundheit sowie zur Vermeidung einer Beeinträchtigung der körperlichen oder seelisch-geistigen Entwicklung durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -1441,8 +1409,7 @@ Das Bundesministerium für Arbeit und Soziales kann zum Schutz der Jugendlichen 
 
 2. über die Beschäftigungsverbote in den §§ 22 bis 25 hinaus die Beschäftigung Jugendlicher in bestimmten Betriebsarten oder mit bestimmten Arbeiten verbieten oder beschränken, wenn sie bei diesen Arbeiten infolge ihres Entwicklungsstands in besonderem Maß Gefahren ausgesetzt sind oder wenn das Verbot oder die Beschränkung der Beschäftigung infolge der technischen Entwicklung oder neuer arbeitsmedizinischer oder sicherheitstechnischer Erkenntnisse notwendig ist.
 
-
-## § 27 – Behördliche Anordnungen und Ausnahmen
+# § 27 – Behördliche Anordnungen und Ausnahmen
 
 (1) Die Aufsichtsbehörde kann in Einzelfällen feststellen, ob eine Arbeit unter die Beschäftigungsverbote oder -beschränkungen der §§ 22 bis 24 oder einer Rechtsverordnung nach § 26 fällt. Sie kann in Einzelfällen die Beschäftigung Jugendlicher mit bestimmten Arbeiten über die Beschäftigungsverbote und -beschränkungen der §§ 22 bis 24 und einer Rechtsverordnung nach § 26 hinaus verbieten oder beschränken, wenn diese Arbeiten mit Gefahren für Leben, Gesundheit oder für die körperliche oder seelisch-geistige Entwicklung der Jugendlichen verbunden sind.
 
@@ -1460,8 +1427,7 @@ verbieten, Kinder und Jugendliche zu beschäftigen oder im Rahmen eines Rechtsve
 
 2. wenn eine nicht länger als vor drei Monaten ausgestellte ärztliche Bescheinigung vorgelegt wird, nach der gesundheitliche Bedenken gegen die Beschäftigung nicht bestehen.
 
-
-## § 28 – Menschengerechte Gestaltung der Arbeit
+# § 28 – Menschengerechte Gestaltung der Arbeit
 
 (1) Der Arbeitgeber hat bei der Einrichtung und der Unterhaltung der Arbeitsstätte einschließlich der Maschinen, Werkzeuge und Geräte und bei der Regelung der Beschäftigung die Vorkehrungen und Maßnahmen zu treffen, die zum Schutz der Jugendlichen gegen Gefahren für Leben und Gesundheit sowie zur Vermeidung einer Beeinträchtigung der körperlichen oder seelisch-geistigen Entwicklung der Jugendlichen erforderlich sind. Hierbei sind das mangelnde Sicherheitsbewußtsein, die mangelnde Erfahrung und der Entwicklungsstand der Jugendlichen zu berücksichtigen und die allgemein anerkannten sicherheitstechnischen und arbeitsmedizinischen Regeln sowie die sonstigen gesicherten arbeitswissenschaftlichen Erkenntnisse zu beachten.
 
@@ -1469,13 +1435,11 @@ verbieten, Kinder und Jugendliche zu beschäftigen oder im Rahmen eines Rechtsve
 
 (3) Die Aufsichtsbehörde kann in Einzelfällen anordnen, welche Vorkehrungen und Maßnahmen zur Durchführung des Absatzes 1 oder einer vom Bundesministerium für Arbeit und Soziales gemäß Absatz 2 erlassenen Verordnung zu treffen sind.
 
-
-## § 28a – Beurteilung der Arbeitsbedingungen
+# § 28a – Beurteilung der Arbeitsbedingungen
 
 Vor Beginn der Beschäftigung Jugendlicher und bei wesentlicher Änderung der Arbeitsbedingungen hat der Arbeitgeber die mit der Beschäftigung verbundenen Gefährdungen Jugendlicher zu beurteilen. Im übrigen gelten die Vorschriften des Arbeitsschutzgesetzes.
 
-
-## § 29 – Unterweisung über Gefahren
+# § 29 – Unterweisung über Gefahren
 
 (1) Der Arbeitgeber hat die Jugendlichen vor Beginn der Beschäftigung und bei wesentlicher Änderung der Arbeitsbedingungen über die Unfall- und Gesundheitsgefahren, denen sie bei der Beschäftigung ausgesetzt sind, sowie über die Einrichtungen und Maßnahmen zur Abwendung dieser Gefahren zu unterweisen. Er hat die Jugendlichen vor der erstmaligen Beschäftigung an Maschinen oder gefährlichen Arbeitsstellen oder mit Arbeiten, bei denen sie mit gesundheitsgefährdenden Stoffen in Berührung kommen, über die besonderen Gefahren dieser Arbeiten sowie über das bei ihrer Verrichtung erforderliche Verhalten zu unterweisen.
 
@@ -1483,8 +1447,7 @@ Vor Beginn der Beschäftigung Jugendlicher und bei wesentlicher Änderung der Ar
 
 (3) Der Arbeitgeber beteiligt die Betriebsärzte und die Fachkräfte für Arbeitssicherheit an der Planung, Durchführung und Überwachung der für die Sicherheit und den Gesundheitsschutz bei der Beschäftigung Jugendlicher geltenden Vorschriften.
 
-
-## § 30 – Häusliche Gemeinschaft
+# § 30 – Häusliche Gemeinschaft
 
 (1) Hat der Arbeitgeber einen Jugendlichen in die häusliche Gemeinschaft aufgenommen, so muß er
 
@@ -1494,15 +1457,13 @@ Vor Beginn der Beschäftigung Jugendlicher und bei wesentlicher Änderung der Ar
 
 (2) Die Aufsichtsbehörde kann im Einzelfall anordnen, welchen Anforderungen die Unterkunft (Absatz 1 Nr. 1) und die Pflege bei Erkrankungen (Absatz 1 Nr. 2) genügen müssen.
 
-
-## § 31 – Züchtigungsverbot, Verbot der Abgabe von Alkohol und Tabak
+# § 31 – Züchtigungsverbot, Verbot der Abgabe von Alkohol und Tabak
 
 (1) Wer Jugendliche beschäftigt oder im Rahmen eines Rechtsverhältnisses im Sinne des § 1 beaufsichtigt, anweist oder ausbildet, darf sie nicht körperlich züchtigen.
 
 (2) Wer Jugendliche beschäftigt, muß sie vor körperlicher Züchtigung und Mißhandlung und vor sittlicher Gefährdung durch andere bei ihm Beschäftigte und durch Mitglieder seines Haushalts an der Arbeitsstätte und in seinem Haus schützen. Soweit deren Abgabe nach § 9 Absatz 1 oder § 10 Absatz 1 und 4 des Jugendschutzgesetzes verboten ist, darf der Arbeitgeber Jugendlichen keine alkoholischen Getränke , Tabakwaren oder anderen dort genannten Erzeugnisse geben.
 
-
-## § 32 – Erstuntersuchung
+# § 32 – Erstuntersuchung
 
 (1) Ein Jugendlicher, der in das Berufsleben eintritt, darf nur beschäftigt werden, wenn
 
@@ -1512,8 +1473,7 @@ Vor Beginn der Beschäftigung Jugendlicher und bei wesentlicher Änderung der Ar
 
 (2) Absatz 1 gilt nicht für eine nur geringfügige oder eine nicht länger als zwei Monate dauernde Beschäftigung mit leichten Arbeiten, von denen keine gesundheitlichen Nachteile für den Jugendlichen zu befürchten sind.
 
-
-## § 33 – Erste Nachuntersuchung
+# § 33 – Erste Nachuntersuchung
 
 (1) Ein Jahr nach Aufnahme der ersten Beschäftigung hat sich der Arbeitgeber die Bescheinigung eines Arztes darüber vorlegen zu lassen, daß der Jugendliche nachuntersucht worden ist (erste Nachuntersuchung). Die Nachuntersuchung darf nicht länger als drei Monate zurückliegen. Der Arbeitgeber soll den Jugendlichen neun Monate nach Aufnahme der ersten Beschäftigung nachdrücklich auf den Zeitpunkt, bis zu dem der Jugendliche ihm die ärztliche Bescheinigung nach Satz 1 vorzulegen hat, hinweisen und ihn auffordern, die Nachuntersuchung bis dahin durchführen zu lassen.
 
@@ -1521,13 +1481,11 @@ Vor Beginn der Beschäftigung Jugendlicher und bei wesentlicher Änderung der Ar
 
 (3) Der Jugendliche darf nach Ablauf von 14 Monaten nach Aufnahme der ersten Beschäftigung nicht weiterbeschäftigt werden, solange er die Bescheinigung nicht vorgelegt hat.
 
-
-## § 34 – Weitere Nachuntersuchungen
+# § 34 – Weitere Nachuntersuchungen
 
 Nach Ablauf jedes weiteren Jahres nach der ersten Nachuntersuchung kann sich der Jugendliche erneut nachuntersuchen lassen (weitere Nachuntersuchungen). Der Arbeitgeber soll ihn auf diese Möglichkeit rechtzeitig hinweisen und darauf hinwirken, daß der Jugendliche ihm die Bescheinigung über die weitere Nachuntersuchung vorlegt.
 
-
-## § 35 – Außerordentliche Nachuntersuchung
+# § 35 – Außerordentliche Nachuntersuchung
 
 (1) Der Arzt soll eine außerordentliche Nachuntersuchung anordnen, wenn eine Untersuchung ergibt, daß
 
@@ -1539,13 +1497,11 @@ Nach Ablauf jedes weiteren Jahres nach der ersten Nachuntersuchung kann sich der
 
 (2) Die in § 33 Abs. 1 festgelegten Fristen werden durch die Anordnung einer außerordentlichen Nachuntersuchung nicht berührt.
 
-
-## § 36 – Ärztliche Untersuchungen und Wechsel des Arbeitgebers
+# § 36 – Ärztliche Untersuchungen und Wechsel des Arbeitgebers
 
 Wechselt der Jugendliche den Arbeitgeber, so darf ihn der neue Arbeitgeber erst beschäftigen, wenn ihm die Bescheinigung über die Erstuntersuchung (§ 32 Abs. 1) und, falls seit der Aufnahme der Beschäftigung ein Jahr vergangen ist, die Bescheinigung über die erste Nachuntersuchung (§ 33) vorliegen.
 
-
-## § 37 – Inhalt und Durchführung der ärztlichen Untersuchungen
+# § 37 – Inhalt und Durchführung der ärztlichen Untersuchungen
 
 (1) Die ärztlichen Untersuchungen haben sich auf den Gesundheits- und Entwicklungsstand und die körperliche Beschaffenheit, die Nachuntersuchungen außerdem auf die Auswirkungen der Beschäftigung auf Gesundheit und Entwicklung des Jugendlichen zu erstrecken.
 
@@ -1567,13 +1523,11 @@ Wechselt der Jugendliche den Arbeitgeber, so darf ihn der neue Arbeitgeber erst 
 
 4. die Anordnung einer außerordentlichen Nachuntersuchung (§ 35 Abs. 1).
 
-
-## § 38 – Ergänzungsuntersuchung
+# § 38 – Ergänzungsuntersuchung
 
 Kann der Arzt den Gesundheits- und Entwicklungsstand des Jugendlichen nur beurteilen, wenn das Ergebnis einer Ergänzungsuntersuchung durch einen anderen Arzt oder einen Zahnarzt vorliegt, so hat er die Ergänzungsuntersuchung zu veranlassen und ihre Notwendigkeit schriftlich zu begründen.
 
-
-## § 39 – Mitteilung, Bescheinigung
+# § 39 – Mitteilung, Bescheinigung
 
 (1) Der Arzt hat dem Personensorgeberechtigten schriftlich mitzuteilen:
 
@@ -1587,37 +1541,31 @@ Kann der Arzt den Gesundheits- und Entwicklungsstand des Jugendlichen nur beurte
 
 (2) Der Arzt hat eine für den Arbeitgeber bestimmte Bescheinigung darüber auszustellen, daß die Untersuchung stattgefunden hat und darin die Arbeiten zu vermerken, durch deren Ausführung er die Gesundheit oder die Entwicklung des Jugendlichen für gefährdet hält.
 
-
-## § 40 – Bescheinigung mit Gefährdungsvermerk
+# § 40 – Bescheinigung mit Gefährdungsvermerk
 
 (1) Enthält die Bescheinigung des Arztes (§ 39 Abs. 2) einen Vermerk über Arbeiten, durch deren Ausführung er die Gesundheit oder die Entwicklung des Jugendlichen für gefährdet hält, so darf der Jugendliche mit solchen Arbeiten nicht beschäftigt werden.
 
 (2) Die Aufsichtsbehörde kann die Beschäftigung des Jugendlichen mit den in der Bescheinigung des Arztes (§ 39 Abs. 2) vermerkten Arbeiten im Einvernehmen mit einem Arzt zulassen und die Zulassung mit Auflagen verbinden.
 
-
-## § 41 – Aufbewahren der ärztlichen Bescheinigungen
+# § 41 – Aufbewahren der ärztlichen Bescheinigungen
 
 (1) Der Arbeitgeber hat die ärztlichen Bescheinigungen bis zur Beendigung der Beschäftigung, längstens jedoch bis zur Vollendung des 18. Lebensjahrs des Jugendlichen aufzubewahren und der Aufsichtsbehörde sowie der Berufsgenossenschaft auf Verlangen zur Einsicht vorzulegen oder einzusenden.
 
 (2) Scheidet der Jugendliche aus dem Beschäftigungsverhältnis aus, so hat ihm der Arbeitgeber die Bescheinigungen auszuhändigen.
 
-
-## § 42 – Eingreifen der Aufsichtsbehörde
+# § 42 – Eingreifen der Aufsichtsbehörde
 
 Die Aufsichtsbehörde hat, wenn die dem Jugendlichen übertragenen Arbeiten Gefahren für seine Gesundheit befürchten lassen, dies dem Personensorgeberechtigten und dem Arbeitgeber mitzuteilen und den Jugendlichen aufzufordern, sich durch einen von ihr ermächtigten Arzt untersuchen zu lassen.
 
-
-## § 43 – Freistellung für Untersuchungen
+# § 43 – Freistellung für Untersuchungen
 
 Der Arbeitgeber hat den Jugendlichen für die Durchführung der ärztlichen Untersuchungen nach diesem Abschnitt freizustellen. Ein Entgeltausfall darf hierdurch nicht eintreten.
 
-
-## § 44 – Kosten der Untersuchungen
+# § 44 – Kosten der Untersuchungen
 
 Die Kosten der Untersuchungen trägt das Land.
 
-
-## § 45 – Gegenseitige Unterrichtung der Ärzte
+# § 45 – Gegenseitige Unterrichtung der Ärzte
 
 (1) Die Ärzte, die Untersuchungen nach diesem Abschnitt vorgenommen haben, müssen, wenn der Personensorgeberechtigte und der Jugendliche damit einverstanden sind,
 
@@ -1629,8 +1577,7 @@ auf Verlangen die Aufzeichnungen über die Untersuchungsbefunde zur Einsicht aus
 
 (2) Unter den Voraussetzungen des Absatzes 1 kann der Amtsarzt des Gesundheitsamts einem Arzt, der einen Jugendlichen nach diesem Abschnitt untersucht, Einsicht in andere in seiner Dienststelle vorhandene Unterlagen über Gesundheit und Entwicklung des Jugendlichen gewähren.
 
-
-## § 46 – Ermächtigungen
+# § 46 – Ermächtigungen
 
 (1) Das Bundesministerium für Arbeit und Soziales kann zum Zweck einer gleichmäßigen und wirksamen gesundheitlichen Betreuung durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Durchführung der ärztlichen Untersuchungen und über die für die Aufzeichnungen der Untersuchungsbefunde, die Bescheinigungen und Mitteilungen zu verwendenden Vordrucke erlassen.
 
@@ -1644,23 +1591,19 @@ a) Pauschbeträge für die Kosten der ärztlichen Untersuchungen im Rahmen der g
 
 b) Vorschriften über die Erstattung der Kosten beim Zusammentreffen mehrerer Untersuchungen nach Nummer 1 erlassen.
 
-
-## § 47 – Bekanntgabe des Gesetzes und der Aufsichtsbehörde
+# § 47 – Bekanntgabe des Gesetzes und der Aufsichtsbehörde
 
 Arbeitgeber, die regelmäßig mindestens einen Jugendlichen beschäftigen, haben einen Abdruck dieses Gesetzes und die Anschrift der zuständigen Aufsichtsbehörde an geeigneter Stelle im Betrieb zur Einsicht auszulegen oder auszuhängen.
 
-
-## § 48 – Aushang über Arbeitszeit und Pausen
+# § 48 – Aushang über Arbeitszeit und Pausen
 
 Arbeitgeber, die regelmäßig mindestens drei Jugendliche beschäftigen, haben einen Aushang über Beginn und Ende der regelmäßigen täglichen Arbeitszeit und der Pausen der Jugendlichen an geeigneter Stelle im Betrieb anzubringen.
 
-
-## § 49 – Verzeichnisse der Jugendlichen
+# § 49 – Verzeichnisse der Jugendlichen
 
 Arbeitgeber haben Verzeichnisse der bei ihnen beschäftigten Jugendlichen unter Angabe des Vor- und Familiennamens, des Geburtsdatums und der Wohnanschrift zu führen, in denen das Datum des Beginns der Beschäftigung bei ihnen, bei einer Beschäftigung unter Tage auch das Datum des Beginns dieser Beschäftigung, enthalten ist.
 
-
-## § 50 – Auskunft, Vorlage der Verzeichnisse
+# § 50 – Auskunft, Vorlage der Verzeichnisse
 
 (1) Der Arbeitgeber ist verpflichtet, der Aufsichtsbehörde auf Verlangen
 
@@ -1670,8 +1613,7 @@ Arbeitgeber haben Verzeichnisse der bei ihnen beschäftigten Jugendlichen unter 
 
 (2) Die Verzeichnisse und Unterlagen sind mindestens bis zum Ablauf von zwei Jahren nach der letzten Eintragung aufzubewahren.
 
-
-## § 51 – Aufsichtsbehörde, Besichtigungsrechte und Berichtspflicht
+# § 51 – Aufsichtsbehörde, Besichtigungsrechte und Berichtspflicht
 
 (1) Die Aufsicht über die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt der nach Landesrecht zuständigen Behörde (Aufsichtsbehörde). Die Landesregierung kann durch Rechtsverordnung die Aufsicht über die Ausführung dieser Vorschriften in Familienhaushalten auf gelegentliche Prüfungen beschränken.
 
@@ -1679,16 +1621,13 @@ Arbeitgeber haben Verzeichnisse der bei ihnen beschäftigten Jugendlichen unter 
 
 (3) Die Aufsichtsbehörden haben im Rahmen der Jahresberichte nach § 139b Abs. 3 der Gewerbeordnung über ihre Aufsichtstätigkeit gemäß Absatz 1 zu berichten.
 
+# § 52 – (weggefallen)
 
-## § 52 – (weggefallen)
-
-
-## § 53 – Mitteilung über Verstöße
+# § 53 – Mitteilung über Verstöße
 
 Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften dieses Gesetzes oder gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen der nach dem Berufsbildungsgesetz oder der Handwerksordnung zuständigen Stelle mit. Die zuständige Agentur für Arbeit erhält eine Durchschrift dieser Mitteilung.
 
-
-## § 54 – Ausnahmebewilligungen
+# § 54 – Ausnahmebewilligungen
 
 (1) Ausnahmen, die die Aufsichtsbehörde nach diesem Gesetz oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen bewilligen kann, sind zu befristen. Die Ausnahmebewilligungen können
 
@@ -1702,8 +1641,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 (3) Ist eine Ausnahme für einen Betrieb oder einen Teil des Betriebs bewilligt worden, so hat der Arbeitgeber hierüber an geeigneter Stelle im Betrieb einen Aushang anzubringen.
 
-
-## § 55 – Bildung des Landesausschusses für Jugendarbeitsschutz
+# § 55 – Bildung des Landesausschusses für Jugendarbeitsschutz
 
 (1) Bei der von der Landesregierung bestimmten obersten Landesbehörde wird ein Landesausschuß für Jugendarbeitsschutz gebildet.
 
@@ -1729,8 +1667,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 (8) Der Landesausschuß gibt sich eine Geschäftsordnung. Die Geschäftsordnung kann die Bildung von Unterausschüssen vorsehen und bestimmen, daß ihnen ausnahmsweise nicht nur Mitglieder des Landesausschusses angehören. Absatz 4 Satz 2 gilt für die Unterausschüsse hinsichtlich der Entschädigung entsprechend. An den Sitzungen des Landesausschusses und der Unterausschüsse können Vertreter der beteiligten obersten Landesbehörden teilnehmen.
 
-
-## § 56 – Bildung des Ausschusses für Jugendarbeitsschutz bei der Aufsichtsbehörde
+# § 56 – Bildung des Ausschusses für Jugendarbeitsschutz bei der Aufsichtsbehörde
 
 (1) Bei der Aufsichtsbehörde wird ein Ausschuß für Jugendarbeitsschutz gebildet. In Städten, in denen mehrere Aufsichtsbehörden ihren Sitz haben, wird ein gemeinsamer Ausschuß für Jugendarbeitsschutz gebildet. In Ländern, in denen nicht mehr als zwei Aufsichtsbehörden eingerichtet sind, übernimmt der Landesausschuß für Jugendarbeitsschutz die Aufgaben dieses Ausschusses.
 
@@ -1746,8 +1683,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 (3) Die Mitglieder des Jugendarbeitsschutzausschusses werden von der Aufsichtsbehörde berufen, die Vertreter der Arbeitgeber und Arbeitnehmer auf Vorschlag der im Aufsichtsbezirk bestehenden Arbeitgeberverbände und Gewerkschaften, der Arzt auf Vorschlag der Ärztekammer, der Lehrer auf Vorschlag der nach Landesrecht zuständigen Behörde, die übrigen Vertreter auf Vorschlag der in Absatz 2 Nr. 2 und 3 genannten Stellen. § 55 Abs. 4 bis 8 gilt mit der Maßgabe entsprechend, daß die Entschädigung von der Aufsichtsbehörde mit Genehmigung der von der Landesregierung bestimmten obersten Landesbehörde festgesetzt wird.
 
-
-## § 57 – Aufgaben der Ausschüsse
+# § 57 – Aufgaben der Ausschüsse
 
 (1) Der Landesausschuß berät die oberste Landesbehörde in allen allgemeinen Angelegenheiten des Jugendarbeitsschutzes und macht Vorschläge für die Durchführung dieses Gesetzes. Er klärt über Inhalt und Ziel des Jugendarbeitsschutzes auf.
 
@@ -1757,8 +1693,7 @@ Die Aufsichtsbehörde teilt schwerwiegende Verstöße gegen die Vorschriften die
 
 (4) Der Ausschuß für Jugendarbeitsschutz bei der Aufsichtsbehörde berät diese in allen allgemeinen Angelegenheiten des Jugendarbeitsschutzes und macht dem Landesausschuß Vorschläge für die Durchführung dieses Gesetzes. Er klärt über Inhalt und Ziel des Jugendarbeitsschutzes auf.
 
-
-## § 58 – Bußgeld- und Strafvorschriften
+# § 58 – Bußgeld- und Strafvorschriften
 
 (1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
@@ -1836,8 +1771,7 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 (6) Wer in den Fällen des Absatzes 5 Satz 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-
-## § 59 – Bußgeldvorschriften
+# § 59 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
@@ -1845,11 +1779,9 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 2. entgegen § 11 Abs. 3 den Aufenthalt in Arbeitsräumen gestattet,
 
-2a.  
-entgegen § 20 Absatz 2 Satz 1 eine Aufzeichnung nicht oder nicht richtig führt,
+2a. entgegen § 20 Absatz 2 Satz 1 eine Aufzeichnung nicht oder nicht richtig führt,
 
-2b.  
-entgegen § 20 Absatz 2 Satz 3 eine Aufzeichnung nicht oder nicht mindestens zwölf Monate aufbewahrt,
+2b. entgegen § 20 Absatz 2 Satz 3 eine Aufzeichnung nicht oder nicht mindestens zwölf Monate aufbewahrt,
 
 3. entgegen § 29 einen Jugendlichen über Gefahren nicht, nicht richtig oder nicht rechtzeitig unterweist,
 
@@ -1875,18 +1807,15 @@ entgegen § 20 Absatz 2 Satz 3 eine Aufzeichnung nicht oder nicht mindestens zw�
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 60 – Verwaltungsvorschriften für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+# § 60 – Verwaltungsvorschriften für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 Der Bundesminister für Arbeit und Sozialordnung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach §§ 58 und 59 durch die Verwaltungsbehörde (§ 35 des Gesetzes über Ordnungswidrigkeiten) und über die Erteilung einer Verwarnung (§§ 56, 58 Abs. 2 des Gesetzes über Ordnungswidrigkeiten) wegen einer Ordnungswidrigkeit nach §§ 58 und 59 erlassen.
 
-
-## § 61 – Beschäftigung von Jugendlichen auf Kauffahrteischiffen
+# § 61 – Beschäftigung von Jugendlichen auf Kauffahrteischiffen
 
 Für die Beschäftigung von Jugendlichen als Besatzungsmitglieder auf Kauffahrteischiffen im Sinne des § 3 des Seearbeitsgesetzes gilt anstelle dieses Gesetzes das Seearbeitsgesetz.
 
-
-## § 62 – Beschäftigung im Vollzug einer Freiheitsentziehung
+# § 62 – Beschäftigung im Vollzug einer Freiheitsentziehung
 
 (1) Die Vorschriften dieses Gesetzes gelten für die Beschäftigung Jugendlicher (§ 2 Abs. 2) im Vollzug einer gerichtlich angeordneten Freiheitsentziehung entsprechend, soweit es sich nicht nur um gelegentliche, geringfügige Hilfeleistungen handelt und soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist.
 
@@ -1896,14 +1825,11 @@ Für die Beschäftigung von Jugendlichen als Besatzungsmitglieder auf Kauffahrte
 
 (4) § 18 Abs. 1 und 2 gilt nicht für die Beschäftigung jugendlicher Anstaltsinsassen in landwirtschaftlichen Betrieben der Vollzugsanstalten mit Arbeiten, die auch an Sonn- und Feiertagen naturnotwendig vorgenommen werden müssen.
 
+# §§ 63 bis 70 – (Änderungsvorschriften)
 
-## §§ 63 bis 70 – (Änderungsvorschriften)
+# § 71 – (weggefallen)
 
-
-## § 71 – (weggefallen)
-
-
-## § 72 – Inkrafttreten
+# § 72 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Mai 1976 in Kraft.
 

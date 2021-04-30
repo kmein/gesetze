@@ -1,13 +1,9 @@
-# [TrZollG] Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens zum NATO-Truppenstatut hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen militärischen Hauptquartiere  (Truppenzollgesetz - TrZollG)
-
-Ausfertigungsdatum: 19.05.2009
-
+% Gesetz zur Ausführung der zoll- und steuerrechtlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens zum NATO-Truppenstatut hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Streitkräfte und des Protokolls und der Abkommen betreffend die in der Bundesrepublik Deutschland errichteten internationalen militärischen Hauptquartiere  (Truppenzollgesetz - TrZollG)
+% Ausfertigungsdatum: 19.05.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -63,8 +59,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 26. Einfuhrabgaben: Einfuhrabgaben im Sinne des § 1 Abs. 1 Satz 3 des Zollverwaltungsgesetzes.
 
-
-## § 2 – Grundsatz, Geltungsbereich, Truppenverwendung
+# § 2 – Grundsatz, Geltungsbereich, Truppenverwendung
 
 (1) Dieses Gesetz dient der Ausführung der zoll- und umsatzsteuerlichen Bestimmungen des NATO-Truppenstatuts, des Zusatzabkommens, des Hautquartierprotokolls, des Ergänzungsabkommens, des Statusübereinkommens und des Unterzeichnungsprotokolls sowie der dazu geschlossenen Verwaltungsvereinbarungen. Die Regelungen der genannten Abkommen finden uneingeschränkt Anwendung. Die dort genannten Vergünstigungen für die ausländischen Streitkräfte, deren Mitglieder oder für die Hauptquartiere und deren Mitglieder werden durch dieses Gesetz nicht berührt.
 
@@ -72,8 +67,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 (3) Die Truppenverwendung ist ein nationales Zollverfahren. Sie gilt als Zollverfahren und Nichterhebungsverfahren im Sinne des Zollkodex. Der Zollkodex und die Zollkodex-Durchführungsverordnung finden Anwendung, soweit in den in Absatz 1 genannten Abkommen und den dazu geschlossenen Verwaltungsvereinbarungen in diesem Gesetz oder in der Rechtsverordnung zu diesem Gesetz nichts anderes geregelt ist. Jede aus einer Einfuhrware hergestellte oder gewonnene Ware gilt als Nichtgemeinschaftsware und als in die Truppenverwendung übergeführt.
 
-
-## § 3 – Überführung von Nichtgemeinschaftswaren in die Truppenverwendung
+# § 3 – Überführung von Nichtgemeinschaftswaren in die Truppenverwendung
 
 (1) Nichtgemeinschaftswaren, die
 
@@ -87,8 +81,7 @@ zu ihrem ausschließlichen Gebrauch oder Verbrauch aus einem Drittland einführe
 
 (3) Absatz 2 gilt für die Belieferung der Hauptquartiere entsprechend.
 
-
-## § 4 – Anmeldung und Zollabfertigung zur Truppenverwendung
+# § 4 – Anmeldung und Zollabfertigung zur Truppenverwendung
 
 (1) Die Anmeldung und die Zollabfertigung zur Truppenverwendung erfolgen im Rahmen internationaler Abkommen
 
@@ -126,8 +119,7 @@ Die Zollstelle kann darüber hinaus eine Einfuhr-/Erwerbsgenehmigung verlangen, 
 
 (6) Besteht in den Fällen des Absatzes 2 keine Möglichkeit zur Entgegennahme der schriftlichen Zollanmeldung und ist das Mitglied der Streitkräfte oder der Hauptquartiere im Besitz der jeweils erforderlichen Erlaubnis, so gelten die Waren als Waren in vorübergehender Verwahrung. Sie sind unverzüglich, spätestens jedoch innerhalb von 20 Tagen nach der Einfuhr bei der örtlich zuständigen Zollstelle unverändert zu gestellen und anzumelden.
 
-
-## § 5 – Überführung in die Truppenverwendung unter Einsatz der Datenverarbeitung
+# § 5 – Überführung in die Truppenverwendung unter Einsatz der Datenverarbeitung
 
 (1) Die Zollanmeldung zur Truppenverwendung kann unter Einsatz von Informatikverfahren, die durch das Bundesministerium der Finanzen zu diesem Zweck zugelassen wurden, erfolgen. In der Zulassung bestimmt das Bundesministerium der Finanzen die Voraussetzungen und Modalitäten der Nutzung des Informatikverfahrens.
 
@@ -137,13 +129,11 @@ Die Zollstelle kann darüber hinaus eine Einfuhr-/Erwerbsgenehmigung verlangen, 
 
 (4) Eine Zollanmeldung, die im zugelassenen Informatikverfahren erstellt wird, gilt zum Zeitpunkt des Empfangs der elektronischen Nachricht durch die Zollstelle als abgegeben. Die Annahme dieser Zollanmeldung wird dem Anmelder mittels einer Antwortnachricht mitgeteilt, die mindestens die Identitätsbezeichnung der erhaltenen Zollanmeldung sowie den Annahmezeitpunkt enthält. Die Überlassung der Waren wird dem Anmelder mittels einer Nachricht bekannt gegeben, die mindestens die Identitätsbezeichnung der Zollanmeldung und den Überlassungszeitpunkt enthält.
 
-
-## § 6 – Vereinfachte Zollanmeldung
+# § 6 – Vereinfachte Zollanmeldung
 
 Die Vorschriften des Zollkodex sowie der Zollkodex-Durchführungsverordnung (Teil I Titel IX) zur vereinfachten Zollanmeldung von Waren zum zollrechtlich freien Verkehr gelten für die Zollanmeldung zur Truppenverwendung nach § 4 Abs. 1 Nr. 8 entsprechend.
 
-
-## § 7 – Einfuhrhöchstmengen
+# § 7 – Einfuhrhöchstmengen
 
 Folgende Waren der Mitglieder der ausländischen Streitkräfte und der Hauptquartiere sind einmal monatlich im persönlich mitgeführten Gepäck innerhalb folgender Höchstmengen nach Artikel 66 Abs. 2 des Zusatzabkommens, auch in Verbindung mit Artikel 2 des Statusübereinkommens, einfuhrabgabenfrei:  
   
@@ -188,13 +178,11 @@ Alkohol und alkoholhaltige Getränke
 
 2 Liter Spirituosen oder Schaumwein und 2 Liter Wein.
 
-
-## § 8 – Einfuhr von Nichtgemeinschaftswaren aus anderen Mitgliedstaaten
+# § 8 – Einfuhr von Nichtgemeinschaftswaren aus anderen Mitgliedstaaten
 
 Nichtgemeinschaftswaren, die ausländische Streitkräfte, Hauptquartiere oder ihre Mitglieder zu den in § 3 Abs. 1 genannten Zwecken aus anderen Mitgliedstaaten in den Geltungsbereich dieses Gesetzes einführen, gelten mit der Einfuhr als gestellt und zur Truppenverwendung angemeldet. Die Zollanmeldung gilt als angenommen und die Waren gelten als überlassen. Dies gilt nicht, wenn die Waren sich bei der Einfuhr in einem Nichterhebungsverfahren befinden.
 
-
-## § 9 – Übergang von Gemeinschaftswaren in die Truppenverwendung
+# § 9 – Übergang von Gemeinschaftswaren in die Truppenverwendung
 
 (1) Gemeinschaftswaren, die ausländischen Streitkräften
 
@@ -218,23 +206,19 @@ geliefert werden.
 
 (3) Gemeinschaftswaren, die unter Gewährung von Ausfuhrerstattung an die ausländischen Streitkräfte oder Hauptquartiere geliefert werden, gehen mit der Lieferung an die Streitkräfte in die Truppenverwendung über und werden wie Nichtgemeinschaftswaren behandelt. Sie gelten als von den ausländischen Streitkräften oder Hauptquartieren zu ihrer ausschließlichen Verwendung frei von Einfuhrabgaben eingeführt und in die Truppenverwendung übergeführt. Sie stehen ab dem Zeitpunkt der Lieferung an die ausländischen Streitkräfte oder Hauptquartiere unter zollamtlicher Überwachung.
 
-
-## § 10 – Einfuhr von Gemeinschaftswaren aus anderen Mitgliedstaaten
+# § 10 – Einfuhr von Gemeinschaftswaren aus anderen Mitgliedstaaten
 
 Gemeinschaftswaren, die ausländische Streitkräfte, Hauptquartiere oder ihre Mitglieder in einem anderen Mitgliedstaat nach den Bestimmungen des NATO-Truppenstatuts, des Hauptquartierprotokolls, anderer völkerrechtlicher Vereinbarungen oder nach dessen nationalen Vorschriften abgabenbegünstigt aus einem Drittland eingeführt oder aus einem Mitgliedstaat eingeführt oder bezogen haben und die von diesen zur weiteren Verwendung nach den oben genannten Bestimmungen in den Geltungsbereich dieses Gesetzes eingeführt werden, gelten mit der Einfuhr als Nichtgemeinschaftswaren und als in die Truppenverwendung übergeführt. Sie stehen ab dem Zeitpunkt der Einfuhr unter zollamtlicher Überwachung.
 
-
-## § 11 – Abgabenbegünstigter Erwerb von Kraftfahrzeugen
+# § 11 – Abgabenbegünstigter Erwerb von Kraftfahrzeugen
 
 Die Mitglieder der ausländischen Streitkräfte und der Hauptquartiere können Kraftfahrzeuge zu ihrem ausschließlichen Gebrauch aus einem Zolllagerverfahren, aus einem Verfahren der aktiven Veredelung oder aus der vorübergehenden Verwendung frei von Einfuhrabgaben beziehen, wenn der Erwerb des Kraftfahrzeugs von den zuständigen Behörden der ausländischen Streitkräfte genehmigt worden ist.
 
-
-## § 12 – Zollrechtlicher Status der Waren, Vermutung
+# § 12 – Zollrechtlicher Status der Waren, Vermutung
 
 Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der ausländischen Streitkräfte, Hauptquartiere oder ihrer Mitglieder vermutet, dass sie Nichtgemeinschaftswaren in der Truppenverwendung sind.
 
-
-## § 13 – Beendigung der Truppenverwendung
+# § 13 – Beendigung der Truppenverwendung
 
 (1) Die Truppenverwendung im Sinne des § 2 Abs. 3 endet, wenn die Einfuhrwaren eine neue zollrechtliche Bestimmung erhalten. Abweichend von den Bestimmungen des Zollkodex muss die Zerstörung von Waren in der Truppenverwendung der ausländischen Streitkräfte, der Hauptquartiere oder ihrer Mitglieder nicht mitgeteilt werden, es sei denn, sie erfolgt durch eine nichtberechtigte Person. In diesem Fall erfolgt die Mitteilung durch die zuständigen Behörden der ausländischen Streitkräfte oder Hauptquartiere; § 16 bleibt unberührt. Werden die Einfuhrwaren zur Ausfuhr in ein Drittland bestimmt, so ist eine Zollanmeldung abzugeben.
 
@@ -252,8 +236,7 @@ Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der ausländisc
 
 3. auf dem Wasserweg, wenn ein Hafen in einem anderen Mitgliedstaat angelaufen wird.
 
-
-## § 14 – Anmeldung und Zollabfertigung zur Ausfuhr in ein Drittland
+# § 14 – Anmeldung und Zollabfertigung zur Ausfuhr in ein Drittland
 
 (1) Die Anmeldung und die Zollabfertigung zur Ausfuhr in ein Drittland erfolgt im Rahmen internationaler Abkommen
 
@@ -271,8 +254,7 @@ Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der ausländisc
 
 (3) Im Sinne des Absatzes 1 Nr. 2, 3 und 4 gelten die dort genannten Waren als gestellt, die Zollanmeldung als angenommen und die Waren als zur Ausfuhr in ein Drittland überlassen, wenn sie nicht schriftlich angemeldet werden.
 
-
-## § 15 – Ausfuhr in ein Drittland unter Einsatz der Datenverarbeitung
+# § 15 – Ausfuhr in ein Drittland unter Einsatz der Datenverarbeitung
 
 (1) Die Zollanmeldung zur Ausfuhr in ein Drittland zur Beendigung der Truppenverwendung kann unter Einsatz von Informatikverfahren, die durch das Bundesministerium der Finanzen zu diesem Zweck zugelassen wurden, erfolgen. In der Zulassung bestimmt das Bundesministerium der Finanzen die Voraussetzungen und Modalitäten der Nutzung des Informatikverfahrens.
 
@@ -280,8 +262,7 @@ Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der ausländisc
 
 (3) § 13 Abs. 5 bleibt unberührt.
 
-
-## § 16 – Übernahme von Waren aus der Truppenverwendung, Zuführung zu einer anderen zollrechtlichen Bestimmung
+# § 16 – Übernahme von Waren aus der Truppenverwendung, Zuführung zu einer anderen zollrechtlichen Bestimmung
 
 (1) Will eine nichtberechtigte Person Einfuhrwaren aus der Truppenverwendung der Streitkräfte, Hauptquartiere oder deren Mitgliedern übernehmen, ist diese Person verpflichtet, dies vor der Übernahme der zuständigen Zollstelle anzuzeigen und die Einfuhrwaren unverzüglich nach der Übernahme bei der zuständigen Zollstelle zu gestellen und einer zulässigen zollrechtlichen Bestimmung zuzuführen, soweit nicht in der zu diesem Gesetz erlassenen Rechtsverordnung Ausnahmen zugelassen sind. § 4 des Zollverwaltungsgesetzes gilt entsprechend. Die Zollstelle kann eine Sicherheitsleistung verlangen, um die Erfüllung einer möglichen Einfuhrabgabenschuld zu gewährleisten. Das Recht der ausländischen Streitkräfte, Hauptquartiere und ihrer Mitglieder, Einfuhrwaren einer zulässigen zollrechtlichen Bestimmung zuzuführen, bleibt hiervon unberührt.
 
@@ -293,8 +274,7 @@ Soweit nichts anderes nachgewiesen ist, wird von Waren im Besitz der ausländisc
 
 (5) Für die Zuführung von Einfuhrwaren eines Bewilligungsinhabers im Sinne des § 3 Abs. 2 zu einer anderen zollrechtlichen Bestimmung gelten die Vorschriften des Zollkodex und der Zollkodex-Durchführungsverordnung entsprechend.
 
-
-## § 17 – Pflichten aus der Inanspruchnahme der Truppenverwendung, Zweckwidrige Verwendung
+# § 17 – Pflichten aus der Inanspruchnahme der Truppenverwendung, Zweckwidrige Verwendung
 
 (1) Einfuhrwaren dürfen nur
 
@@ -326,8 +306,7 @@ verwendet werden, soweit nicht in der zu diesem Gesetz erlassenen Rechtsverordnu
 
 3. diese an einem in der Bewilligung nicht zugelassenen Ort gelagert werden.
 
-
-## § 18 – Rationsmengen
+# § 18 – Rationsmengen
 
 (1) Festgelegte Rationsmengen im Sinne des § 17 Abs. 2 Nr. 4 sind:  
   
@@ -469,8 +448,7 @@ für Flugzeuge
 
 besondere Rationserhöhungen gewähren.
 
-
-## § 19 – Abgabenschuld, Abgabenschuldner
+# § 19 – Abgabenschuld, Abgabenschuldner
 
 (1) Wird die Truppenverwendung durch die Überführung der Einfuhrware in den zollrechtlich freien Verkehr beendet, gelten für die Entstehung der Abgabenschuld dieser Einfuhrwaren vorbehaltlich Absatz 3 die Vorschriften des Zollkodex und der Zollkodex-Durchführungsverordnung, die darauf Bezug nehmenden Vorschriften des Umsatzsteuergesetzes sowie die Verbrauchsteuergesetze.
 
@@ -488,22 +466,19 @@ b) erworben oder in Besitz genommen hat, obwohl sie im Zeitpunkt des Erwerbs ode
 
 2. daneben das Mitglied der ausländischen Streitkräfte oder der Hauptquartiere, das die Pflichtverletzung begangen hat.
 
-
-## § 20 – Beendigung vorangegangener Zollverfahren mit wirtschaftlicher Bedeutung
+# § 20 – Beendigung vorangegangener Zollverfahren mit wirtschaftlicher Bedeutung
 
 (1) Wenn die ordnungsgemäße Lieferung oder Rückgabe von Waren aus einer aktiven Veredelung oder die ordnungsgemäße Übergabe von Waren aus einem Zolllager an die ausländischen Streitkräfte oder Hauptquartiere gewährleistet ist, kann zugelassen werden, dass die Waren ohne Gestellung geliefert oder zurückgegeben werden. Wird dies zugelassen, gelten die Waren mit der Übergabe als gestellt und zur Truppenverwendung angemeldet. Die Zollanmeldung gilt als angenommen und die Waren gelten als zur Truppenverwendung überlassen.
 
 (2) Ist in den Fällen des Absatzes 1 die Übergabe von Waren an die ausländischen Streitkräfte oder ein Hauptquartier ohne Gestellung zugelassen, ist der Nachweis der Übergabe mit einem Abwicklungsschein zu führen.
 
-
-## § 21 – Verlust der Rechtsstellung als Mitglied der ausländischen Streitkräfte oder der Hauptquartiere
+# § 21 – Verlust der Rechtsstellung als Mitglied der ausländischen Streitkräfte oder der Hauptquartiere
 
 (1) Verliert ein im Geltungsbereich dieses Gesetzes stationiertes Mitglied der ausländischen Streitkräfte seine Rechtsstellung, gelten für die in seinem Besitz befindlichen Einfuhrwaren die Vorschriften des Gemeinschaftsrechts über die Einfuhrabgabenfreiheit von Übersiedlungsgut entsprechend. Dies gilt auch dann, wenn es sich um ein Mitglied der ausländischen Streitkräfte eines Landes handelt, das Mitglied der Europäischen Union ist. Gleichgestellt sind die Verlegung des Wohnsitzes und der Fall, dass das ehemalige Mitglied der ausländischen Streitkräfte seinen Wohnsitz im Geltungsbereich dieses Gesetzes begründet oder behält.
 
 (2) Für ein Mitglied der Hauptquartiere gilt Absatz 1 unter der Voraussetzung, dass das Mitglied nicht die deutsche Staatsangehörigkeit besitzt.
 
-
-## § 22 – Harmonisierungsvorschrift für Waren aus anderen Mitgliedstaaten
+# § 22 – Harmonisierungsvorschrift für Waren aus anderen Mitgliedstaaten
 
 (1) Waren der Mitglieder der ausländischen Streitkräfte oder der Hauptquartiere in einem anderen Mitgliedstaat, die dort
 
@@ -515,13 +490,11 @@ gelten mit der Einfuhr als in die vorübergehende Verwendung unter vollständige
 
 (2) Absatz 1 findet keine Anwendung, sofern das Recht des anderen Mitgliedstaats abweichende Regelungen für die in Absatz 1 genannten Fälle vorsieht.
 
-
-## § 23 – Vertretung
+# § 23 – Vertretung
 
 Ein Mitglied der ausländischen Streitkräfte kann sich gegenüber Zollstellen bei der Vornahme von Verfahrenshandlungen nach diesem Gesetz ausschließlich durch ein anderes Mitglied der ausländischen Streitkräfte oder eine Behörde der ausländischen Streitkräfte vertreten lassen. Die indirekte Vertretung ist ausgeschlossen. Die Sätze 1 und 2 gelten für ein Mitglied der Hauptquartiere entsprechend. Bei Verfahrenshandlungen, die im Zusammenhang mit der Kommandierung in den Geltungsbereich dieses Gesetzes oder aus diesem hinaus stehen, kann sich ein Mitglied der Streitkräfte oder der Hauptquartiere durch jedermann vertreten lassen.
 
-
-## § 24 – Übergangs- und Schlussvorschriften
+# § 24 – Übergangs- und Schlussvorschriften
 
 (1) Waren, die sich im Zeitpunkt des Inkrafttretens dieses Gesetzes in der einfuhrabgabenbegünstigten Verwendung nach § 1 des Truppenzollgesetzes 1962 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 613-5-6, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 6 des Gesetzes vom 26. November 1979 (BGBl. I S. 1953) geändert worden ist, auch in Verbindung mit Artikel 4 des Gesetzes zum Hauptquartierprotokoll in der Fassung vom 17. Oktober 1969 (BGBl. 1969 II S. 1997), befinden, gelten als in die Truppenverwendung übergeführt.
 
@@ -531,8 +504,7 @@ Ein Mitglied der ausländischen Streitkräfte kann sich gegenüber Zollstellen b
 
 (4) Soweit die Artikel 71 bis 73 des Zusatzabkommens für Organisationen, Unternehmen und für ihre Angestellten sowie für technische Fachkräfte die gleiche Behandlung oder die gleichen Befreiungen und Vergünstigungen wie für eine Truppe und Mitglieder eines zivilen Gefolges im Sinne des NATO-Truppenstatuts und des Zusatzabkommens vorsehen, gilt dieses Gesetz entsprechend.
 
-
-## § 25 – Ermächtigungen
+# § 25 – Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen kann zur Durchführung dieses Gesetzes durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -552,8 +524,7 @@ Ein Mitglied der ausländischen Streitkräfte kann sich gegenüber Zollstellen b
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für Waren, die im Rahmen der Pflege gesellschaftlicher und dienstlicher Beziehungen von den ausländischen Streitkräften, Hauptquartieren oder ihren Mitgliedern an andere Personen abgegeben werden, Abgabenfreiheit anordnen, wenn die Waren wegen ihrer Beschaffenheit oder ihrer besonderen Widmung nicht mehr am Wirtschaftsverkehr teilnehmen oder wenn es sich um Waren in kleinen Mengen oder von geringem Wert handelt und durch die Abgabenfreiheit schutzwürdige Interessen der inländischen Wirtschaft nicht verletzt werden.
 
-
-## § 26 – Ordnungswidrigkeiten
+# § 26 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 382 Abs. 1 Nr. 2 der Abgabenordnung handelt, wer vorsätzlich oder fahrlässig
 

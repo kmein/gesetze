@@ -1,47 +1,37 @@
-# [BLEÖLGKostV] Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes  (BLE-ÖLG-Kostenverordnung - BLEÖLGKostV)
-
-Ausfertigungsdatum: 19.11.2003
-
+% Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes  (BLE-ÖLG-Kostenverordnung - BLEÖLGKostV)
+% Ausfertigungsdatum: 19.11.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 2 Satz 2 des Öko-Landbaugesetzes vom 10. Juli 2002 (BGBl. I S. 2558) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Erhebung von Gebühren und Auslagen
+# § 1 – Erhebung von Gebühren und Auslagen
 
 Die Bundesanstalt für Landwirtschaft und Ernährung erhebt für individuell zurechenbare öffentliche Leistungen nach § 2 Absatz 2 des Öko-Landbaugesetzes Gebühren und Auslagen nach dieser Verordnung.
 
-
-## § 2 – Gebühren
+# § 2 – Gebühren
 
 Die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen und die Gebührensätze ergeben sich aus dem anliegenden Gebührenverzeichnis.
 
-
-## § 3 – Auslagen
+# § 3 – Auslagen
 
 Vom Kostenschuldner werden die in § 10 Abs. 1 Nr. 2 bis 7 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung aufgeführten Auslagen erhoben.
 
-
-## § 4 – Rücknahme, Widerruf, Widerspruch
+# § 4 – Rücknahme, Widerruf, Widerspruch
 
 (1) Wird ein Antrag auf Vornahme einer gebührenpflichtigen individuell zurechenbaren öffentlichen Leistung nach Beginn der sachlichen Bearbeitung und vor deren Beendigung vom Antragsteller zurückgenommen oder ein Antrag aus anderen Gründen als wegen Unzuständigkeit abgelehnt, oder wird ein Verwaltungsakt zurückgenommen oder widerrufen, so werden Gebühren nach Maßgabe des § 15 Absatz 2 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung erhoben.
 
 (2) Für die vollständige oder teilweise Zurückweisung eines Widerspruchs wird eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt festgesetzten Gebühr erhoben; dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Bei einem erfolglosen Widerspruch, der sich ausschließlich gegen eine Gebührenfestsetzung richtet, beträgt die Gebühr höchstens 10 Prozent des streitigen Betrages. Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 Prozent der Widerspruchsgebühr.
 
-
-## § 5 – Übergangsregelung
+# § 5 – Übergangsregelung
 
 Für individuell zurechenbare öffentliche Leistungen, die vor dem Inkrafttreten dieser Verordnung vorgenommen worden sind, können Gebühren und Auslagen nach Maßgabe des § 2 Abs. 1 und der §§ 3 und 4 erhoben werden, soweit die Bundesanstalt für Landwirtschaft und Ernährung die Erhebung der Gebühren und Auslagen in einem unanfechtbaren Bescheid vorbehalten hat.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 2)Verzeichnis der Gebühren für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
+# Anlage – (zu § 2)Verzeichnis der Gebühren für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
 
 (Fundstelle: BGBl. I 2010, 81; bzgl. einzelner Änderungen vgl. Fußnote)
 

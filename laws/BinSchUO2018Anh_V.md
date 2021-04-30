@@ -1,13 +1,9 @@
-# [BinSchUO2018Anh V] Nationale Muster(Anhang V der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Nationale Muster(Anhang V der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
+% Ausfertigungsdatum: 21.09.2018
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## Muster 1 – Muster des Antrags auf Untersuchung
+# Muster 1 – Muster des Antrags auf Untersuchung
 
 (Fundstelle: BGBl. I 2018, 1476 -1477)
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 21.09.2018
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0630.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Muster 2 – Muster der Bescheinigung über die Besatzung für Binnenschiffe
+# Muster 2 – Muster der Bescheinigung über die Besatzung für Binnenschiffe
 
 (Fundstelle: BGBl. I 2018, 1478 - 1479)
 
@@ -24,8 +19,7 @@ Ausfertigungsdatum: 21.09.2018
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0650.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Muster 3 – Muster des Fährzeugnisses
+# Muster 3 – Muster des Fährzeugnisses
 
 (Fundstelle: BGBl. I 2018, 1480 - 1491)
 
@@ -53,8 +47,7 @@ Ausfertigungsdatum: 21.09.2018
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0770.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Muster 4 – Muster des vorläufigen Fährzeugnisses
+# Muster 4 – Muster des vorläufigen Fährzeugnisses
 
 (Fundstelle: BGBl. I 2018, 1492 - 1493)
 
@@ -62,8 +55,7 @@ Ausfertigungsdatum: 21.09.2018
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0790.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Muster 5 – Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren
+# Muster 5 – Muster des Abnahmeprotokolls für die Prüfung der Seil- und Kettenanlagen von seil- und kettengebundenen Fähren
 
 (Fundstelle: BGBl. I 2018, 1494 - 1498)
 
@@ -77,8 +69,7 @@ Ausfertigungsdatum: 21.09.2018
 
 <a href="../normengrafiken/bgbl1_2018/j1398-1_0840.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Muster 6 – Muster des Abnahmeprotokolls für Fahrgastboote
+# Muster 6 – Muster des Abnahmeprotokolls für Fahrgastboote
 
 (Fundstelle: BGBl. I 2018, 1499 - 1502)
 

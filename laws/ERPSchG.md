@@ -1,10 +1,7 @@
-# [ERPSchG] Gesetz zur Mitübernahme der Schulden und Rechte des ERP-Sondervermögens in die Bundesschuld und in das Bundesvermögen, über die Zuführung von Mitteln aus dem ERP-Sondervermögen an den Bundeshaushalt sowie über die Einbringung von ERP-Vermögen in die Kreditanstalt für Wiederaufbau
-
-Ausfertigungsdatum: 26.06.2007
-
+% Gesetz zur Mitübernahme der Schulden und Rechte des ERP-Sondervermögens in die Bundesschuld und in das Bundesvermögen, über die Zuführung von Mitteln aus dem ERP-Sondervermögen an den Bundeshaushalt sowie über die Einbringung von ERP-Vermögen in die Kreditanstalt für Wiederaufbau
+% Ausfertigungsdatum: 26.06.2007
  
-
-## § 1
+# § 1
 
 (1) Der Bund übernimmt mit Wirkung vom 1. Juli 2007 als Mitschuldner die bis dahin aufgelaufenen Verbindlichkeiten des ERP-Sondervermögens im Nennwert von 14.080.977.718,92 Euro sowie die dazugehörigen Zinsverbindlichkeiten und als Mitgläubiger Kreditforderungen und sonstige Rechte des ERP-Sondervermögens in nominal gleicher Höhe. Vor der Übernahme nach Satz 1 können die zu übernehmenden Kreditforderungen und sonstigen Rechte im Rahmen des gemäß § 6 des ERP-Verwaltungsgesetzes zu schließenden Vertrages durch ein einheitliches Schuldverhältnis ersetzt werden. In diesem Fall gehen die entsprechenden ursprünglichen Kreditforderungen und sonstige Rechte mit dem Inkrafttreten dieses Gesetzes und dem Wirksamwerden des in § 6 des ERP-Verwaltungsgesetzes genannten Vertrages auf die Kreditanstalt für Wiederaufbau über.
 
@@ -12,18 +9,15 @@ Ausfertigungsdatum: 26.06.2007
 
 (3) Einzelheiten regeln der Bund und das ERP-Sondervermögen durch Verwaltungsvereinbarung.
 
-
-## § 2
+# § 2
 
 Im Innenverhältnis zum ERP-Sondervermögen ist der Bund alleiniger Schuldner der nach § 1 übernommenen Verbindlichkeiten und alleiniger Gläubiger der nach § 1 übernommenen Kreditforderungen und sonstigen Rechte.
 
-
-## § 3
+# § 3
 
 Das Bundesministerium der Finanzen wird ermächtigt, zur Tilgung der nach § 1 vom Bund mitübernommenen Verbindlichkeiten des ERP-Sondervermögens Kredite bis zur Höhe von 1.314.533.505 Euro aufzunehmen.
 
-
-## § 4
+# § 4
 
 (1) Aus dem ERP-Sondervermögen werden nach Maßgabe des § 6 des ERP-Verwaltungsgesetzes Kreditforderungen und sonstige Rechte in Höhe von 4.650.000.000 Euro als Eigenkapital in die Kreditanstalt für Wiederaufbau eingebracht. Das darüber hinaus verfügbare Kapital des ERP-Sondervermögens wird der Kreditanstalt für Wiederaufbau nach Maßgabe des in § 6 des ERP-Verwaltungsgesetzes genannten Vertrages als befristetes Nachrangdarlehen gewährt. Das eingebrachte Eigenkapital und das gewährte Nachrangdarlehen werden unter Aufrechterhaltung der Zweckbestimmung der ERP-Wirtschaftsförderung und unter Beachtung des Gesetzes über die Kreditanstalt für Wiederaufbau für Zwecke der Wirtschaftsförderung eingesetzt.
 

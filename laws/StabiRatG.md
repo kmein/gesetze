@@ -1,10 +1,7 @@
-# [StabiRatG] Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen  (Stabilitätsratsgesetz - StabiRatG)
-
-Ausfertigungsdatum: 10.08.2009
-
+% Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen  (Stabilitätsratsgesetz - StabiRatG)
+% Ausfertigungsdatum: 10.08.2009
  
-
-## § 1 – Stabilitätsrat
+# § 1 – Stabilitätsrat
 
 (1) Bund und Länder bilden einen Stabilitätsrat mit dem Ziel der Vermeidung von Haushaltsnotlagen. Dem Stabilitätsrat gehören an:
 
@@ -26,13 +23,11 @@ Der Stabilitätsrat wird bei der Bundesregierung eingerichtet.
 
 (6) Zur Unterstützung der Aufgaben des Stabilitätsrates wird ein Sekretariat eingerichtet, das jeweils aus einer Vertreterin oder einem Vertreter aus dem Bundesministerium der Finanzen sowie aus einer oder einem von der Finanzministerkonferenz der Länder benannten Vertreterin oder Vertreter besteht.
 
-
-## § 2 – Aufgaben des Stabilitätsrates
+# § 2 – Aufgaben des Stabilitätsrates
 
 Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der Haushalte des Bundes und der Länder sowie die Durchführung von Sanierungsverfahren nach § 5. Dem Stabilitätsrat obliegt ab dem Jahr 2020 die Überprüfung der Einhaltung der Vorgaben zur Haushaltsdisziplin des Artikels 109 Absatz 3 des Grundgesetzes durch den Bund und alle einzelnen Länder. Der Stabilitätsrat überwacht die Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes. Dem Stabilitätsrat können durch Gesetz weitere Aufgaben übertragen werden.
 
-
-## § 3 – Regelmäßige Haushaltsüberwachung
+# § 3 – Regelmäßige Haushaltsüberwachung
 
 (1) Der Stabilitätsrat überwacht regelmäßig die aktuelle Lage und die Entwicklung der Haushalte von Bund und Ländern.
 
@@ -40,8 +35,7 @@ Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der Haushalte
 
 (3) Die vorgelegten Haushaltskennziffern und die Schlussfolgerungen des Stabilitätsrates werden veröffentlicht.
 
-
-## § 4 – Drohende Haushaltsnotlage
+# § 4 – Drohende Haushaltsnotlage
 
 (1) Der Stabilitätsrat beschließt allgemein geltende Schwellenwerte für die einzelnen Kennziffern nach § 3 Absatz 2, deren Überschreitung auf eine drohende Haushaltsnotlage hinweisen kann. Für den Bund sind gegenüber den Ländern abweichende Schwellenwerte festzulegen.
 
@@ -57,8 +51,7 @@ Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der Haushalte
 
 (5) Der Stabilitätsrat beschließt aufgrund des Prüfberichts nach Absatz 4, ob im Bund oder in dem betreffenden Land eine Haushaltsnotlage droht.
 
-
-## § 5 – Sanierungsverfahren
+# § 5 – Sanierungsverfahren
 
 (1) Hat der Stabilitätsrat eine drohende Haushaltsnotlage nach § 4 Absatz 5 für den Bund oder ein Land festgestellt, vereinbart er mit dem Bund oder dem Land ein Sanierungsprogramm. Der Bund oder das Land unterbreitet hierfür Vorschläge. Das Sanierungsprogramm erstreckt sich grundsätzlich über einen Zeitraum von fünf Jahren; es enthält Vorgaben über die angestrebten Abbauschritte der jährlichen Nettokreditaufnahme und die geeigneten Sanierungsmaßnahmen. Geeignet sind Sanierungsmaßnahmen nur insoweit, als sie in der alleinigen Kompetenz der betroffenen Gebietskörperschaft liegen.
 
@@ -68,15 +61,13 @@ Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der Haushalte
 
 (4) Nach Abschluss des Sanierungsprogramms prüft der Stabilitätsrat die Haushaltslage des Bundes oder des Landes. Für den Fall, dass auch bei vollständiger Umsetzung des vereinbarten Sanierungsprogramms weiterhin eine Haushaltsnotlage droht, wird ein neues Sanierungsprogramm zwischen dem Stabilitätsrat und dem Bund oder dem Land vereinbart.
 
-
-## § 5a – Überprüfung der Einhaltung der grundgesetzlichen Verschuldungsregel
+# § 5a – Überprüfung der Einhaltung der grundgesetzlichen Verschuldungsregel
 
 (1) Der Stabilitätsrat überprüft regelmäßig im Herbst eines Jahres die Einhaltung der Verschuldungsregel des Artikels 109 Absatz 3 des Grundgesetzes durch den Bund und jedes einzelne Land für das jeweils abgelaufene, das aktuelle und das darauffolgende Jahr.
 
 (2) Die Überwachung nach Absatz 1 orientiert sich an den Vorgaben und Verfahren aus Rechtsakten aufgrund des Vertrages über die Arbeitsweise der Europäischen Union zur Einhaltung der Haushaltsdisziplin. Grundlage ist ein einheitliches Konjunkturbereinigungsverfahren. Die Beschlüsse und Berichte werden veröffentlicht.
 
-
-## § 6 – Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes
+# § 6 – Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes
 
 (1) Der Stabilitätsrat überprüft auf Grundlage einer Schätzung des gesamtstaatlichen Finanzierungssaldos zweimal jährlich die Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes für das laufende Jahr und die vier folgenden Jahre. Die Beschlüsse des Stabilitätsrates werden veröffentlicht.
 
@@ -84,8 +75,7 @@ Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der Haushalte
 
 (3) Falls kein Beschluss des Stabilitätsrates über eine Empfehlung nach Absatz 2 zustande kommt, leiten die Vorsitzenden des Stabilitätsrates der Bundesregierung und den Landesregierungen zur Weiterleitung an die jeweiligen Parlamente einen Bericht zu, in dem das Ergebnis der Prüfung und die im Stabilitätsrat erörterten Maßnahmen darzulegen sind. Diesem Bericht sind die Einschätzungen und Empfehlungen des unabhängigen Beirats des Stabilitätsrates nach § 7 Absatz 3 beizufügen.
 
-
-## § 7 – Unabhängiger Beirat des Stabilitätsrates
+# § 7 – Unabhängiger Beirat des Stabilitätsrates
 
 (1) Zur Unterstützung des Stabilitätsrates bei der Überwachung der Einhaltung der Obergrenze des strukturellen gesamtstaatlichen Finanzierungsdefizits nach § 51 Absatz 2 des Haushaltsgrundsätzegesetzes wird ein unabhängiger Beirat eingerichtet. Der Beirat gibt sich mit der Mehrheit von zwei Dritteln seiner Mitglieder eine Geschäftsordnung. Für den Beirat entstehende Kosten tragen Bund und Länder je zur Hälfte.
 
@@ -95,7 +85,6 @@ Aufgaben des Stabilitätsrates sind die regelmäßige Überwachung der Haushalte
 
 (4) Die vom Beirat vorgelegten Einschätzungen und Empfehlungen werden veröffentlicht.
 
-
-## § 8 – Unterrichtung der Parlamente
+# § 8 – Unterrichtung der Parlamente
 
 Die Bundesregierung und die Landesregierungen leiten Beschlüsse und Berichte nach § 1 Absatz 4, § 3 Absatz 3, § 5a Absatz 2 und § 6 Absatz 1 den jeweiligen Parlamenten zu.

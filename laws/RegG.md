@@ -1,32 +1,25 @@
-# [RegG] Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs  (Regionalisierungsgesetz - RegG)
-
-Ausfertigungsdatum: 27.12.1993
-
+% Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs  (Regionalisierungsgesetz - RegG)
+% Ausfertigungsdatum: 27.12.1993
  
-
-## § 1 – Öffentliche Aufgabe, Zuständigkeit
+# § 1 – Öffentliche Aufgabe, Zuständigkeit
 
 (1) Die Sicherstellung einer ausreichenden Bedienung der Bevölkerung mit Verkehrsleistungen im öffentlichen Personennahverkehr ist eine Aufgabe der Daseinsvorsorge.
 
 (2) Die Stellen, die diese Aufgabe wahrnehmen, werden durch Landesrecht bestimmt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Öffentlicher Personennahverkehr im Sinne dieses Gesetzes ist die allgemein zugängliche Beförderung von Personen mit Verkehrsmitteln im Linienverkehr, die überwiegend dazu bestimmt sind, die Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der Beförderungsfälle eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt.
 
-
-## § 3 – Regionalisierung
+# § 3 – Regionalisierung
 
 Zur Stärkung der Wirtschaftlichkeit der Verkehrsbedienung im öffentlichen Personennahverkehr ist anzustreben, die Zuständigkeiten für Planung, Organisation und Finanzierung des öffentlichen Personennahverkehrs zusammenzuführen. Das Nähere regeln die Länder.
 
-
-## § 4 – Gemeinwirtschaftliche Verkehrsleistungen
+# § 4 – Gemeinwirtschaftliche Verkehrsleistungen
 
 Für die Sicherstellung einer ausreichenden Verkehrsbedienung im öffentlichen Personennahverkehr ist die Verordnung (EG) Nr. 1370/2007 des Europäischen Parlaments und des Rates vom 23. Oktober 2007 über öffentliche Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L 315 vom 3.12.2007, S. 1) maßgeblich. Zuständig sind die nach Landesrecht bestimmten Stellen.
 
-
-## § 5 – Finanzierung und Verteilung
+# § 5 – Finanzierung und Verteilung
 
 (1) Den Ländern steht für den öffentlichen Personennahverkehr aus dem Steueraufkommen des Bundes nach Maßgabe der folgenden Vorschriften für jedes Jahr ein Betrag zu.
 
@@ -62,15 +55,13 @@ Ab dem Jahr 2024 steigt der Betrag bis 2031 jährlich um 1,8 vom Hundert des Bet
 
 (12) Die sich nach Absatz 11 ergebenden absoluten Zahlbeträge werden nach Maßgabe der Anlage 3 auf die Länder verteilt. Von diesen Jahresbeträgen wird je ein Zwölftel zum 15. jedes Monats überwiesen.
 
-
-## § 6 – Verwendung
+# § 6 – Verwendung
 
 (1) Mit den Beträgen nach § 5 ist insbesondere der Schienenpersonennahverkehr zu finanzieren.
 
 (2) Die Länder weisen dem Bund jährlich, beginnend mit dem Jahr 2016, die Verwendung der Mittel nach Maßgabe der Anlage 4 bis zum 30. September des jeweiligen Folgejahres nach. Die Bundesregierung erstellt jährlich aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
-
-## § 7 – Unterstützung der Länder beim Ausgleich von finanziellen Nachteilen durch COVID 19
+# § 7 – Unterstützung der Länder beim Ausgleich von finanziellen Nachteilen durch COVID 19
 
 (1) Den Ländern steht im Jahr 2020 für den Ausgleich der durch die COVID-19-Pandemie entstandenen finanziellen Nachteile ein Betrag aus dem Steueraufkommen des Bundes zu. Der Betrag wird auf 2 500 000 000 Euro festgesetzt.
 
@@ -132,8 +123,7 @@ Baden-Württemberg</td><td style="text-align: right;">278 253 658,54 Euro<br /
 
 (6) Die Länder sind für die zweckentsprechende Verwendung des Betrags nach Absatz 1 verantwortlich und weisen dem Bund die Verwendung dieser Mittel nach Maßgabe der Anlage 5 bis zum 31. Dezember 2021 nach. Nicht zweckentsprechend verwendete Mittel sind dem Bund zurückzuüberweisen. Die Bundesregierung erstellt aus den Nachweisen der Länder einen Gesamtbericht, der dem Deutschen Bundestag zugeleitet und veröffentlicht wird.
 
-
-## Anlage 1 (zu § 5 Absatz 4 und 9) – Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
+# Anlage 1 (zu § 5 Absatz 4 und 9) – Verteilung der Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2016 bis einschließlich 2031
 
 (Fundstelle: BGBl. I 2016, 2759 — 2760)
 
@@ -213,8 +203,7 @@ Baden-Württemberg</td><td style="text-align: right;">278 253 658,54 Euro<br /
 | SH       |    342 848 113,85 |    350 542 689,04 |    358 403 186,15 |    364 854 443,50 |
 | TH       |    300 682 066,95 |    301 907 766,05 |    303 069 899,61 |    308 525 157,80 |
 
-
-## Anlage 2 (zu § 5 Absatz 7, 8 und 9) – Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen
+# Anlage 2 (zu § 5 Absatz 7, 8 und 9) – Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Saarland, Sachsen, Sachsen-Anhalt und Thüringen
 
 (BGBl. I 2016, 2761 — 2762)
 
@@ -287,13 +276,11 @@ Verteilung der zusätzlichen Regionalisierungsmittel auf die Länder Berlin, Bra
 | ST       | 60 649 491,43 | 61 741 182,28 | 62 852 523,56 | 63 983 868,99 |
 | TH       | 34 223 370,85 | 34 839 391,52 | 35 466 500,57 | 36 104 897,58 |
 
-
-## Anlage 3 (zu § 5 Absatz 11 und 12) – Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
+# Anlage 3 (zu § 5 Absatz 11 und 12) – Verteilung der zusätzlichen Regionalisierungsmittel auf alle Länder in absoluten Zahlbeträgen für die Jahre 2020 bis einschließlich 2031
 
 (Fundstelle: BGBl. I 2020, 446 – 447)
 
-
-## Anlage 4 (zu § 6 Absatz 2) – Verwendungsnachweis
+# Anlage 4 (zu § 6 Absatz 2) – Verwendungsnachweis
 
 (BGBl. I 2016, 2763 — 2764);  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1143,8 +1130,7 @@ Die Übersicht der Verträge ist als gesonderte Anlage zu übersenden. Dabei sin
 <span id="FnA1-F7_796380"></span><a href="#FnR.FnA1-F7_796380" class="Footnote">7</a>  
 Angaben zur Höhe und geplanter Verwendung.
 
-
-## Anlage 5 – (zu § 7 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1
+# Anlage 5 – (zu § 7 Absatz 6)Nachweis über die Verwendung der zusätzlichen Regionalisierungsmittel nach § 7 Absatz 1
 
 (Fundstelle: BGBl. I 2020, 1686)
 

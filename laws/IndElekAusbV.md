@@ -1,25 +1,19 @@
-# [IndElekAusbV] Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin
-
-Ausfertigungsdatum: 28.05.2009
-
+% Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin
+% Ausfertigungsdatum: 28.05.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Industrieelektriker/Industrieelektrikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert zwei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen
 
@@ -27,8 +21,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 2. Geräte und Systeme.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -82,8 +75,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6. Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -91,8 +83,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zu Beginn des zweiten Ausbildungsjahres stattfinden.
 
@@ -108,8 +99,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 3. die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 7 – Abschlussprüfung
+# § 7 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -227,8 +217,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtung und Bestehensregelung
+# § 8 – Gewichtung und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -254,8 +243,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 9 – Fortsetzung der Berufsausbildung
+# § 9 – Fortsetzung der Berufsausbildung
 
 (1) Die erfolgreich abgeschlossene Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin kann in der
 
@@ -279,13 +267,11 @@ nach den Vorschriften des dritten und vierten Ausbildungsjahres dieser Berufe fo
 
 nach den Vorschriften des zweiten, dritten und vierten Ausbildungsjahres dieser Berufe fortgesetzt werden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-
-## Anlage 1 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Sachliche Gliederung –
+# Anlage 1 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1205 - 1209)
 
@@ -672,8 +658,7 @@ g) betriebsübliche Qualitätssicherungssysteme anwenden
 
 h) eigenen Qualifikationsbedarf feststellen und Qualifizierungsmöglichkeiten nutzen
 
-
-## Anlage 2 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Zeitliche Gliederung –
+# Anlage 2 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1210 - 1219)
 

@@ -1,15 +1,11 @@
-# [VerkPBG] Gesetz zur Beschleunigung der Planungen für Verkehrswege in den neuen Ländern sowie im Land Berlin  (Verkehrswegeplanungsbeschleunigungsgesetz)
-
-Ausfertigungsdatum: 16.12.1991
-
+% Gesetz zur Beschleunigung der Planungen für Verkehrswege in den neuen Ländern sowie im Land Berlin  (Verkehrswegeplanungsbeschleunigungsgesetz)
+% Ausfertigungsdatum: 16.12.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Geltungsdauer, Anwendungsbereich
+# § 1 – Geltungsdauer, Anwendungsbereich
 
 (1) Für die Planung des Baus und der Änderung von
 
@@ -29,15 +25,13 @@ gelten die besonderen Vorschriften dieses Gesetzes bis zum Ablauf des 16. Dezemb
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die Fernverkehrswege zwischen den in Absatz 1 Satz 1 genannten Ländern und den nächsten Knotenpunkten des Hauptfernverkehrsnetzes des übrigen Bundesgebietes im einzelnen.
 
-
-## § 2 – Linienbestimmung
+# § 2 – Linienbestimmung
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt die Linienführung der Verkehrswege mit Ausnahme der Eisenbahnen des Bundes und der Straßenbahnen, § 16 Abs. 1 Satz 2 des Bundesfernstraßengesetzes bleibt unberührt. Die Bestimmung erfolgt im Benehmen mit den für die Landesplanung zuständigen Behörden der beteiligten Länder, soweit nicht bei Bundeswasserstraßen zur Wahrung der Bedürfnisse der Landeskultur und der Wasserwirtschaft das Einvernehmen herzustellen ist. Das Benehmen gilt als hergestellt, wenn die zuständige Behörde nicht innerhalb von vier Monaten nach Zugang des Linienentwurfs Stellung genommen hat; die Frist kann bis zu zwei Monaten verlängert werden.
 
 (2) Die §§ 15 und 16 des Gesetzes über die Umweltverträglichkeitsprüfung finden mit der Maßgabe Anwendung, daß die Einbeziehung der Öffentlichkeit im nachfolgenden Planfeststellungsverfahren stattfindet.
 
-
-## § 3 – Planfeststellungsverfahren
+# § 3 – Planfeststellungsverfahren
 
 (1) Die Einholung der Stellungnahmen der Behörden nach § 73 Abs. 2 des Verwaltungsverfahrensgesetzes sowie die Auslegung des Plans (§ 73 Abs. 1 Satz 2 des Verwaltungsverfahrensgesetzes) in den Gemeinden nach § 73 Abs. 3 des Verwaltungsverfahrensgesetzes veranlaßt die Anhörungsbehörde innerhalb eines Monats, nachdem der Träger des Vorhabens den Plan bei ihr eingereicht hat. Zu den Erläuterungen gehört auch die Angabe der wichtigsten Alternativen, die bei der Linienbestimmung untersucht wurden, und der Gründe, die für die Bestimmung der Linienführung maßgebend gewesen sind. Die Behörden haben ihre Stellungnahmen innerhalb von drei Monaten abzugeben.
 
@@ -53,13 +47,11 @@ gelten die besonderen Vorschriften dieses Gesetzes bis zum Ablauf des 16. Dezemb
 
 (7) (weggefallen)
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5 – Verwaltungsgerichtsverfahren
+# § 5 – Verwaltungsgerichtsverfahren
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug über sämtliche Streitigkeiten, die Planfeststellungsverfahren und Plangenehmigungsverfahren für Vorhaben nach § 1 dieses Gesetzes betreffen.
 
@@ -67,23 +59,19 @@ gelten die besonderen Vorschriften dieses Gesetzes bis zum Ablauf des 16. Dezemb
 
 (3) Der Kläger hat innerhalb einer Frist von sechs Wochen die Tatsachen, durch deren Berücksichtigung oder Nichtberücksichtigung im Verwaltungsverfahren er sich beschwert fühlt, anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt entsprechend.
 
-
-## § 6
-
-(weggefallen)
-
-
-## § 7
+# § 6
 
 (weggefallen)
 
+# § 7
 
-## § 8 – Vertreter des Eigentümers
+(weggefallen)
+
+# § 8 – Vertreter des Eigentümers
 
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat die kommunale Aufsichtsbehörde der Gemeinde, in der das Grundstück liegt, in den Fällen, in denen ein Plangenehmigungsverfahren oder Vorarbeiten durchgeführt werden sollen, auf Antrag der Planfeststellungsbehörde und in den Fällen, in denen eine vorzeitige Besitzeinweisung angeordnet werden soll, auf Antrag der Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung einen Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des Verwaltungsverfahrensgesetzes findet Anwendung.
 
-
-## § 9 – Enteignungsentschädigung, Enteignungsverfahren, gerichtliches Verfahren
+# § 9 – Enteignungsentschädigung, Enteignungsverfahren, gerichtliches Verfahren
 
 (1) Für die Enteignung gelten die §§ 86, 87, 90 bis 92 des Baugesetzbuches entsprechend, soweit keine landesrechtlichen Regelungen bestehen. Für die Enteignungsentschädigung gelten die §§ 93 bis 103 des Baugesetzbuches, soweit keine landesrechtlichen Regelungen bestehen.
 
@@ -91,15 +79,13 @@ Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat die komm
 
 (3) Für das gerichtliche Verfahren zur Überprüfung der Entscheidungen der Enteignungsbehörde gelten die §§ 217 bis 231 in Verbindung mit § 246a Abs. 1 Satz 1 Nr. 17 des Baugesetzbuchs entsprechend, soweit keine landesrechtlichen Regelungen bestehen.
 
-
-## § 10
+# § 10
 
 (1) Die Anlegung und der Betrieb neuer Verkehrsflughäfen bedürfen keiner vorherigen Genehmigung nach § 6 Abs. 1 des Luftverkehrsgesetzes. Die Planfeststellungsbehörde regelt den Betrieb des Flughafens und legt den Ausbauplan nach § 12 Abs. 1 Satz 1 des Luftverkehrsgesetzes fest. Nach dem Ergebnis des Planfeststellungsverfahrens ist eine Genehmigung nach § 6 Abs. 1 des Luftverkehrsgesetzes zu erteilen.
 
 (2) (weggefallen)
 
-
-## § 11 – Übergangsregelungen
+# § 11 – Übergangsregelungen
 
 (1) Vor Inkrafttreten dieses Gesetzes begonnene Planungsverfahren für Verkehrswege und Verkehrsflughäfen können nach den Vorschriften dieses Gesetzes weitergeführt werden.
 
@@ -111,7 +97,6 @@ Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat die komm
 
 3. bei der Plangenehmigung mit dem Antrag auf Plangenehmigung.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

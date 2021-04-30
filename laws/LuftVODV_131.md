@@ -1,5 +1,3 @@
-# [LuftVODV 131] Hunderteinunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Dortmund-Wickede)
-
-Ausfertigungsdatum: 20.09.1993
-
+% Hunderteinunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Dortmund-Wickede)
+% Ausfertigungsdatum: 20.09.1993
  

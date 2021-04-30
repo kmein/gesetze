@@ -1,15 +1,11 @@
-# [FzgLackAusbV] Verordnung über die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
-
-Ausfertigungsdatum: 03.07.2003
-
+% Verordnung über die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
+% Ausfertigungsdatum: 03.07.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), von dem Absatz 1 durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Der Ausbildungsberuf Fahrzeuglackierer/Fahrzeuglackiererin wird
 
@@ -19,22 +15,19 @@ Der Ausbildungsberuf Fahrzeuglackierer/Fahrzeuglackiererin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung und § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die Berufsausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+# § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
-
-## § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
+# § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
 Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) während einer Dauer von acht Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
@@ -44,8 +37,7 @@ Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) währen
 
 3. im dritten Ausbildungsjahr der Berufsausbildung in drei Wochen Fertigkeiten und Kenntnisse aus dem Abschnitt II, laufende Nummern 8 bis 10 der Anlage.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -79,40 +71,33 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 15. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage in Abschnitt I für das erste Ausbildungsjahr sowie die in Abschnitt II für das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und innerhalb dieser Zeit in insgesamt höchstens zehn Minuten hierüber ein Fachgespräch führen. Weiter soll er in insgesamt höchstens 180 Minuten Aufgaben, die im Zusammenhang mit der Arbeitsaufgabe stehen, lösen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Herstellen einer Oberfläche an einem Fahrzeugteil unter Anwendung manueller und maschineller Bearbeitungs- und Beschichtungstechniken sowie von Verbindungstechniken einschließlich Vorbereiten des Untergrundes und Übertragen einer Applikation.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen und den Zusammenhang von Technik, Gestaltung, Arbeitsorganisation, Umweltschutz und Wirtschaftlichkeit sowie die Sicherheit und den Gesundheitsschutz bei der Arbeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
+Herstellen einer Oberfläche an einem Fahrzeugteil unter Anwendung manueller und maschineller Bearbeitungs- und Beschichtungstechniken sowie von Verbindungstechniken einschließlich Vorbereiten des Untergrundes und Übertragen einer Applikation. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen und den Zusammenhang von Technik, Gestaltung, Arbeitsorganisation, Umweltschutz und Wirtschaftlichkeit sowie die Sicherheit und den Gesundheitsschutz bei der Arbeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
-
-## § 10 – Abschlussprüfung, Gesellenprüfung
+# § 10 – Abschlussprüfung, Gesellenprüfung
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 14 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Vorbereiten, Beschichten und Gestalten einer Oberfläche an einem Fahrzeug oder einem Bauteil einschließlich Finish-Arbeiten sowie Instandsetzungs-, De- und Montagearbeit.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe zielorientiert unter Beachtung wirtschaftlicher, technischer, gestalterischer, organisatorischer und zeitlicher Vorgaben selbständig planen, durchführen und die Arbeitsergebnisse kontrollieren kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+Vorbereiten, Beschichten und Gestalten einer Oberfläche an einem Fahrzeug oder einem Bauteil einschließlich Finish-Arbeiten sowie Instandsetzungs-, De- und Montagearbeit. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe zielorientiert unter Beachtung wirtschaftlicher, technischer, gestalterischer, organisatorischer und zeitlicher Vorgaben selbständig planen, durchführen und die Arbeitsergebnisse kontrollieren kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
 
 (3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend benannten Prüfungsbereichen
 
@@ -156,8 +141,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. Weiterhin sind in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
@@ -165,13 +149,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (3) Auf Berufsausbildungsverhältnisse, die in der Zeit vom 1. August 2003 bis zum 31. Juli 2004 beginnen, sind die bisherigen Vorschriften weiter anzuwenden, wenn für die Ausbildung in diesen Ausbildungsberufen nach Landesrecht der Besuch eines schulischen Berufsgrundbildungsjahres vorgesehen ist.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-
-## Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
+# Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin
 
 (Fundstelle: BGBl. I 2003, 1086 - 1092)
 

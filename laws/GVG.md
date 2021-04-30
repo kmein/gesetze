@@ -1,63 +1,49 @@
-# [GVG] Gerichtsverfassungsgesetz  (GVG)
-
-Ausfertigungsdatum: 12.09.1950
-
+% Gerichtsverfassungsgesetz  (GVG)
+% Ausfertigungsdatum: 12.09.1950
  
-
-## § 1
+# § 1
 
 Die richterliche Gewalt wird durch unabhängige, nur dem Gesetz unterworfene Gerichte ausgeübt.
 
+# §§ 2 bis 9 – (weggefallen)
 
-## §§ 2 bis 9 – (weggefallen)
-
-
-## § 10
+# § 10
 
 Unter Aufsicht des Richters können Referendare Rechtshilfeersuchen erledigen und außer in Strafsachen Verfahrensbeteiligte anhören, Beweise erheben und die mündliche Verhandlung leiten. Referendare sind nicht befugt, eine Beeidigung anzuordnen oder einen Eid abzunehmen.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
-
-
-## § 12
+# § 12
 
 Die ordentliche Gerichtsbarkeit wird durch Amtsgerichte, Landgerichte, Oberlandesgerichte und durch den Bundesgerichtshof (den obersten Gerichtshof des Bundes für das Gebiet der ordentlichen Gerichtsbarkeit) ausgeübt.
 
-
-## § 13
+# § 13
 
 Vor die ordentlichen Gerichte gehören die bürgerlichen Rechtsstreitigkeiten, die Familiensachen und die Angelegenheiten der freiwilligen Gerichtsbarkeit (Zivilsachen) sowie die Strafsachen, für die nicht entweder die Zuständigkeit von Verwaltungsbehörden oder Verwaltungsgerichten begründet ist oder auf Grund von Vorschriften des Bundesrechts besondere Gerichte bestellt oder zugelassen sind.
 
-
-## § 13a
+# § 13a
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Gericht für die Bezirke mehrerer Gerichte Sachen aller Art ganz oder teilweise zuzuweisen sowie auswärtige Spruchkörper von Gerichten einzurichten, sofern dies für die sachdienliche Förderung oder schnellere Erledigung von Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen. Besondere Ermächtigungen der Landesregierungen zum Erlass von Rechtsverordnungen gehen vor.
 
 (2) Mehrere Länder können die Einrichtung eines gemeinsamen Gerichts oder gemeinsamer Spruchkörper eines Gerichts oder die Ausdehnung von Gerichtsbezirken über die Landesgrenzen hinaus, auch für einzelne Sachgebiete, vereinbaren.
 
-
-## § 14
+# § 14
 
 Als besondere Gerichte werden Gerichte der Schiffahrt für die in den Staatsverträgen bezeichneten Angelegenheiten zugelassen.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## § 16
+# § 16
 
 Ausnahmegerichte sind unstatthaft. Niemand darf seinem gesetzlichen Richter entzogen werden.
 
-
-## § 17
+# § 17
 
 (1) Die Zulässigkeit des beschrittenen Rechtsweges wird durch eine nach Rechtshängigkeit eintretende Veränderung der sie begründenden Umstände nicht berührt. Während der Rechtshängigkeit kann die Sache von keiner Partei anderweitig anhängig gemacht werden.
 
 (2) Das Gericht des zulässigen Rechtsweges entscheidet den Rechtsstreit unter allen in Betracht kommenden rechtlichen Gesichtspunkten. Artikel 14 Abs. 3 Satz 4 und Artikel 34 Satz 3 des Grundgesetzes bleiben unberührt.
 
-
-## § 17a
+# § 17a
 
 (1) Hat ein Gericht den zu ihm beschrittenen Rechtsweg rechtskräftig für zulässig erklärt, sind andere Gerichte an diese Entscheidung gebunden.
 
@@ -71,8 +57,7 @@ Ausnahmegerichte sind unstatthaft. Niemand darf seinem gesetzlichen Richter entz
 
 (6) Die Absätze 1 bis 5 gelten für die in bürgerlichen Rechtsstreitigkeiten, Familiensachen und Angelegenheiten der freiwilligen Gerichtsbarkeit zuständigen Spruchkörper in ihrem Verhältnis zueinander entsprechend.
 
-
-## § 17b
+# § 17b
 
 (1) Nach Eintritt der Rechtskraft des Verweisungsbeschlusses wird der Rechtsstreit mit Eingang der Akten bei dem im Beschluß bezeichneten Gericht anhängig. Die Wirkungen der Rechtshängigkeit bleiben bestehen.
 
@@ -80,39 +65,33 @@ Ausnahmegerichte sind unstatthaft. Niemand darf seinem gesetzlichen Richter entz
 
 (3) Absatz 2 Satz 2 gilt nicht in Familiensachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-
-## § 17c
+# § 17c
 
 (1) Werden Zuständigkeitskonzentrationen oder Änderungen der Gerichtsbezirksgrenzen aufgrund dieses Gesetzes, aufgrund anderer bundesgesetzlicher Regelungen oder aufgrund Landesrechts vorgenommen, stehen in diesen Fällen bundesrechtliche Bestimmungen, die die gerichtliche Zuständigkeit in anhängigen und rechtshängigen Verfahren unberührt lassen, einer landesrechtlichen Zuweisung dieser Verfahren an das neu zuständige Gericht nicht entgegen.
 
 (2) Ist im Zeitpunkt der Zuweisung die Hauptverhandlung in einer Straf- oder Bußgeldsache begonnen, aber noch nicht beendet, so kann sie vor dem nach dem Inkrafttreten der Zuständigkeitsänderung zuständigen Gericht nur fortgesetzt werden, wenn die zur Urteilsfindung berufenen Personen personenidentisch mit denen zu Beginn der Hauptverhandlung sind. Soweit keine Personenidentität gegeben ist, bleibt das Gericht zuständig, das die Hauptverhandlung begonnen hat.
 
-
-## § 18
+# § 18
 
 Die Mitglieder der im Geltungsbereich dieses Gesetzes errichteten diplomatischen Missionen, ihre Familienmitglieder und ihre privaten Hausangestellten sind nach Maßgabe des Wiener Übereinkommens über diplomatische Beziehungen vom 18. April 1961 (Bundesgesetzbl. 1964 II S. 957ff.) von der deutschen Gerichtsbarkeit befreit. Dies gilt auch, wenn ihr Entsendestaat nicht Vertragspartei dieses Übereinkommens ist; in diesem Falle findet Artikel 2 des Gesetzes vom 6. August 1964 zu dem Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen (Bundesgesetzbl. 1964 II S. 957) entsprechende Anwendung.
 
-
-## § 19
+# § 19
 
 (1) Die Mitglieder der im Geltungsbereich dieses Gesetzes errichteten konsularischen Vertretungen einschließlich der Wahlkonsularbeamten sind nach Maßgabe des Wiener Übereinkommens über konsularische Beziehungen vom 24. April 1963 (Bundesgesetzbl. 1969 II S. 1585ff.) von der deutschen Gerichtsbarkeit befreit. Dies gilt auch, wenn ihr Entsendestaat nicht Vertragspartei dieses Übereinkommens ist; in diesem Falle findet Artikel 2 des Gesetzes vom 26. August 1969 zu dem Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen (Bundesgesetzbl. 1969 II S. 1585) entsprechende Anwendung.
 
 (2) Besondere völkerrechtliche Vereinbarungen über die Befreiung der in Absatz 1 genannten Personen von der deutschen Gerichtsbarkeit bleiben unberührt.
 
-
-## § 20
+# § 20
 
 (1) Die deutsche Gerichtsbarkeit erstreckt sich auch nicht auf Repräsentanten anderer Staaten und deren Begleitung, die sich auf amtliche Einladung der Bundesrepublik Deutschland im Geltungsbereich dieses Gesetzes aufhalten.
 
 (2) Im übrigen erstreckt sich die deutsche Gerichtsbarkeit auch nicht auf andere als die in Absatz 1 und in den §§ 18 und 19 genannten Personen, soweit sie nach den allgemeinen Regeln des Völkerrechts, auf Grund völkerrechtlicher Vereinbarungen oder sonstiger Rechtsvorschriften von ihr befreit sind.
 
-
-## § 21
+# § 21
 
 Die §§ 18 bis 20 stehen der Erledigung eines Ersuchens um Überstellung und Rechtshilfe eines internationalen Strafgerichtshofes, der durch einen für die Bundesrepublik Deutschland verbindlichen Rechtsakt errichtet wurde, nicht entgegen.
 
-
-## § 21a
+# § 21a
 
 (1) Bei jedem Gericht wird ein Präsidium gebildet.
 
@@ -128,8 +107,7 @@ Die §§ 18 bis 20 stehen der Erledigung eines Ersuchens um Überstellung und Re
 
 5. bei den anderen Gerichten aus den nach § 21b Abs. 1 wählbaren Richtern.
 
-
-## § 21b
+# § 21b
 
 (1) Wahlberechtigt sind die Richter auf Lebenszeit und die Richter auf Zeit, denen bei dem Gericht ein Richteramt übertragen ist, sowie die bei dem Gericht tätigen Richter auf Probe, die Richter kraft Auftrags und die für eine Dauer von mindestens drei Monaten abgeordneten Richter, die Aufgaben der Rechtsprechung wahrnehmen. Wählbar sind die Richter auf Lebenszeit und die Richter auf Zeit, denen bei dem Gericht ein Richteramt übertragen ist. Nicht wahlberechtigt und nicht wählbar sind Richter, die für mehr als drei Monate an ein anderes Gericht abgeordnet, für mehr als drei Monate beurlaubt oder an eine Verwaltungsbehörde abgeordnet sind.
 
@@ -143,15 +121,13 @@ Die §§ 18 bis 20 stehen der Erledigung eines Ersuchens um Überstellung und Re
 
 (6) Ist bei der Wahl ein Gesetz verletzt worden, so kann die Wahl von den in Absatz 1 Satz 1 bezeichneten Richtern angefochten werden. Über die Wahlanfechtung entscheidet ein Senat des zuständigen Oberlandesgerichts, bei dem Bundesgerichtshof ein Senat dieses Gerichts. Wird die Anfechtung für begründet erklärt, so kann ein Rechtsmittel gegen eine gerichtliche Entscheidung nicht darauf gestützt werden, das Präsidium sei deswegen nicht ordnungsgemäß zusammengesetzt gewesen. Im Übrigen sind auf das Verfahren die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 
-
-## § 21c
+# § 21c
 
 (1) Bei einer Verhinderung des Präsidenten oder aufsichtführenden Richters tritt sein Vertreter (§ 21 h) an seine Stelle. Ist der Präsident oder aufsichtführende Richter anwesend, so kann sein Vertreter, wenn er nicht selbst gewählt ist, an den Sitzungen des Präsidiums mit beratender Stimme teilnehmen. Die gewählten Mitglieder des Präsidiums werden nicht vertreten.
 
 (2) Scheidet ein gewähltes Mitglied des Präsidiums aus dem Gericht aus, wird es für mehr als drei Monate an ein anderes Gericht abgeordnet oder für mehr als drei Monate beurlaubt, wird es an eine Verwaltungsbehörde abgeordnet oder wird es kraft Gesetzes Mitglied des Präsidiums, so tritt an seine Stelle der durch die letzte Wahl Nächstberufene.
 
-
-## § 21d
+# § 21d
 
 (1) Für die Größe des Präsidiums ist die Zahl der Richterplanstellen am Ablauf des Tages maßgebend, der dem Tage, an dem das Geschäftsjahr beginnt, um sechs Monate vorhergeht.
 
@@ -175,8 +151,7 @@ Neben den nach § 21b Abs. 4 ausscheidenden Mitgliedern scheidet jeweils ein wei
 
 Hiervon scheidet jeweils ein Mitglied, das durch das Los bestimmt wird, nach zwei Jahren aus.
 
-
-## § 21e
+# § 21e
 
 (1) Das Präsidium bestimmt die Besetzung der Spruchkörper, bestellt die Ermittlungsrichter, regelt die Vertretung und verteilt die Geschäfte. Es trifft diese Anordnungen vor dem Beginn des Geschäftsjahres für dessen Dauer. Der Präsident bestimmt, welche richterlichen Aufgaben er wahrnimmt. Jeder Richter kann mehreren Spruchkörpern angehören.
 
@@ -196,15 +171,13 @@ Hiervon scheidet jeweils ein Mitglied, das durch das Los bestimmt wird, nach zwe
 
 (9) Der Geschäftsverteilungsplan des Gerichts ist in der von dem Präsidenten oder aufsichtführenden Richter bestimmten Geschäftsstelle des Gerichts zur Einsichtnahme aufzulegen; einer Veröffentlichung bedarf es nicht.
 
-
-## § 21f
+# § 21f
 
 (1) Den Vorsitz in den Spruchkörpern bei den Landgerichten, bei den Oberlandesgerichten sowie bei dem Bundesgerichtshof führen der Präsident und die Vorsitzenden Richter.
 
 (2) Bei Verhinderung des Vorsitzenden führt den Vorsitz das vom Präsidium bestimmte Mitglied des Spruchkörpers. Ist auch dieser Vertreter verhindert, führt das dienstälteste, bei gleichem Dienstalter das lebensälteste Mitglied des Spruchkörpers den Vorsitz.
 
-
-## § 21g
+# § 21g
 
 (1) Innerhalb des mit mehreren Richtern besetzten Spruchkörpers werden die Geschäfte durch Beschluss aller dem Spruchkörper angehörenden Berufsrichter auf die Mitglieder verteilt. Bei Stimmengleichheit entscheidet das Präsidium.
 
@@ -220,20 +193,17 @@ Hiervon scheidet jeweils ein Mitglied, das durch das Los bestimmt wird, nach zwe
 
 (7) § 21e Abs. 9 findet entsprechend Anwendung.
 
-
-## § 21h
+# § 21h
 
 Der Präsident oder aufsichtführende Richter wird in seinen durch dieses Gesetz bestimmten Geschäften, die nicht durch das Präsidium zu verteilen sind, durch seinen ständigen Vertreter, bei mehreren ständigen Vertretern durch den dienstältesten, bei gleichem Dienstalter durch den lebensältesten von ihnen vertreten. Ist ein ständiger Vertreter nicht bestellt oder ist er verhindert, wird der Präsident oder aufsichtführende Richter durch den dienstältesten, bei gleichem Dienstalter durch den lebensältesten Richter vertreten.
 
-
-## § 21i
+# § 21i
 
 (1) Das Präsidium ist beschlußfähig, wenn mindestens die Hälfte seiner gewählten Mitglieder anwesend ist.
 
 (2) Sofern eine Entscheidung des Präsidiums nicht rechtzeitig ergehen kann, werden die in § 21e bezeichneten Anordnungen von dem Präsidenten oder aufsichtführenden Richter getroffen. Die Gründe für die getroffene Anordnung sind schriftlich niederzulegen. Die Anordnung ist dem Präsidium unverzüglich zur Genehmigung vorzulegen. Sie bleibt in Kraft, solange das Präsidium nicht anderweit beschließt.
 
-
-## § 21j
+# § 21j
 
 (1) Wird ein Gericht errichtet und ist das Präsidium nach § 21a  Abs. 2 Nr. 1 bis 4 zu bilden, so werden die in § 21e bezeichneten Anordnungen bis zur Bildung des Präsidiums von dem Präsidenten oder aufsichtführenden Richter getroffen. § 21i Abs. 2 Satz 2 bis 4 gilt entsprechend.
 
@@ -243,8 +213,7 @@ Der Präsident oder aufsichtführende Richter wird in seinen durch dieses Gesetz
 
 (4) Die Aufgaben nach § 1 Abs. 2 Satz 2 und 3 und Abs. 3 der Wahlordnung für die Präsidien der Gerichte vom 19. September 1972 (BGBl. I S. 1821) nimmt bei der erstmaligen Bestellung des Wahlvorstandes der Präsident oder aufsichtführende Richter wahr. Als Ablauf des Geschäftsjahres in § 1 Abs. 2 Satz 2 und § 3 Satz 1 der Wahlordnung für die Präsidien der Gerichte gilt der Ablauf der in Absatz 2 Satz 1 genannten Frist.
 
-
-## § 22
+# § 22
 
 (1) Den Amtsgerichten stehen Einzelrichter vor.
 
@@ -258,13 +227,11 @@ Der Präsident oder aufsichtführende Richter wird in seinen durch dieses Gesetz
 
 (6) Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte in Insolvenz- und Restrukturierungssachen nicht wahrnehmen. Richter in Insolvenz- und Restrukturierungssachen sollen, soweit dies zur Erfüllung der jeweiligen Richtergeschäftsaufgabe erforderlich ist, über belegbare Kenntnisse auf den Gebieten des Insolvenzrechts, des Restrukturierungsrechts, des Handels- und Gesellschaftsrechts sowie über Grundkenntnisse der für das Insolvenz- und Restrukturierungsverfahren notwendigen Teile des Arbeits-, Sozial- und Steuerrechts und des Rechnungswesens verfügen. Einem Richter, dessen Kenntnisse auf diesen Gebieten nicht belegt sind, dürfen die Aufgaben eines Insolvenz- oder Restrukturierungsrichters nur zugewiesen werden, wenn der Erwerb der Kenntnisse alsbald zu erwarten ist.
 
-
-## § 22a
+# § 22a
 
 Bei Amtsgerichten mit einem aus allen wählbaren Richtern bestehenden Präsidium (§ 21a Abs. 2 Nr. 5) gehört der Präsident des übergeordneten Landgerichts oder, wenn der Präsident eines anderen Amtsgerichts die Dienstaufsicht ausübt, dieser Präsident dem Präsidium als Vorsitzender an.
 
-
-## § 22b
+# § 22b
 
 (1) Ist ein Amtsgericht nur mit einem Richter besetzt, so beauftragt das Präsidium des Landgerichts einen Richter seines Bezirks mit der ständigen Vertretung dieses Richters.
 
@@ -274,20 +241,17 @@ Bei Amtsgerichten mit einem aus allen wählbaren Richtern bestehenden Präsidium
 
 (4) Bei Amtsgerichten, über die der Präsident eines anderen Amtsgerichts die Dienstaufsicht ausübt, ist in den Fällen der Absätze 1 und 2 das Präsidium des anderen Amtsgerichts und im Falle des Absatzes 3 dessen Präsident zuständig.
 
-
-## § 22c
+# § 22c
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass für mehrere Amtsgerichte im Bezirk eines Landgerichts oder mehrerer Landgerichte im Bezirk eines Oberlandesgerichts ein gemeinsamer Bereitschaftsdienstplan aufgestellt wird oder ein Amtsgericht Geschäfte des Bereitschaftsdienstes ganz oder teilweise wahrnimmt, wenn dies zur Sicherstellung einer gleichmäßigeren Belastung der Richter mit Bereitschaftsdiensten angezeigt ist. Zu dem Bereitschaftsdienst sind die Richter der in Satz 1 bezeichneten Amtsgerichte heranzuziehen. In der Verordnung nach Satz 1 kann bestimmt werden, dass auch die Richter der Landgerichte heranzuziehen sind. Über die Verteilung der Geschäfte des Bereitschaftsdienstes beschließen nach Maßgabe des § 21e im Einvernehmen die Präsidien der Landgerichte sowie im Einvernehmen mit den Präsidien der betroffenen Amtsgerichte. Kommt eine Einigung nicht zustande, obliegt die Beschlussfassung dem Präsidium des Oberlandesgerichts, zu dessen Bezirk die Landgerichte gehören.
 
 (2) Die Landesregierungen können die Ermächtigung nach Absatz 1 auf die Landesjustizverwaltungen übertragen.
 
-
-## § 22d
+# § 22d
 
 Die Gültigkeit der Handlung eines Richters beim Amtsgericht wird nicht dadurch berührt, daß die Handlung nach der Geschäftsverteilung von einem anderen Richter wahrzunehmen gewesen wäre.
 
-
-## § 23
+# § 23
 
 Die Zuständigkeit der Amtsgerichte umfaßt in bürgerlichen Rechtsstreitigkeiten, soweit sie nicht ohne Rücksicht auf den Wert des Streitgegenstandes den Landgerichten zugewiesen sind:
 
@@ -309,8 +273,7 @@ f) (weggefallen)
 
 g) Ansprüche aus einem mit der Überlassung eines Grundstücks in Verbindung stehenden Leibgedings-, Leibzuchts-, Altenteils- oder Auszugsvertrag.
 
-
-## § 23a
+# § 23a
 
 (1) Die Amtsgerichte sind ferner zuständig für
 
@@ -346,8 +309,7 @@ Die Zuständigkeit nach Satz 1 Nummer 1 ist eine ausschließliche.
 
 (3) Abweichend von Absatz 1 Satz 1 Nummer 2 sind für die den Amtsgerichten obliegenden Verrichtungen in Teilungssachen im Sinne von § 342 Absatz 2 Nummer 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anstelle der Amtsgerichte die Notare zuständig.
 
-
-## § 23b
+# § 23b
 
 (1) Bei den Amtsgerichten werden Abteilungen für Familiensachen (Familiengerichte) gebildet.
 
@@ -355,22 +317,19 @@ Die Zuständigkeit nach Satz 1 Nummer 1 ist eine ausschließliche.
 
 (3) Die Abteilungen für Familiensachen werden mit Familienrichtern besetzt. Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte des Familienrichters nicht wahrnehmen.
 
-
-## § 23c
+# § 23c
 
 (1) Bei den Amtsgerichten werden Abteilungen für Betreuungssachen, Unterbringungssachen und betreuungsgerichtliche Zuweisungssachen (Betreuungsgerichte) gebildet.
 
 (2) Die Betreuungsgerichte werden mit Betreuungsrichtern besetzt. Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte des Betreuungsrichters nicht wahrnehmen.
 
-
-## § 23d
+# § 23d
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Amtsgericht für die Bezirke mehrerer Amtsgerichte die Familiensachen sowie ganz oder teilweise die Handelssachen, die Angelegenheiten der freiwilligen Gerichtsbarkeit und Entscheidungen über Maßnahmen, die nach den Vollzugsgesetzen der vorherigen gerichtlichen Anordnung oder gerichtlichen Genehmigung bedürfen zuzuweisen, sofern die Zusammenfassung der sachlichen Förderung der Verfahren dient oder zur Sicherung einer einheitlichen Rechtsprechung geboten erscheint. Die Landesregierungen können die Ermächtigungen auf die Landesjustizverwaltungen übertragen.
 
 § 23d (früher § 23c): Eingef. durch Art. 5 Nr. 2 G v. 14.6.1976 I 1421 mWv 16.6.1976, jetzt § 23d gem. u. idF d. Art. 22 Nr. 10 G v. 17.12.2008 I 2586 mWv 1.9.2009. Mit dem GG vereinbar, BVerfGE v. 28.2.1980 I 283 -1 BvL 17/77 u. a. -
 
-
-## § 24
+# § 24
 
 (1) In Strafsachen sind die Amtsgerichte zuständig, wenn nicht
 
@@ -384,8 +343,7 @@ Eine besondere Schutzbedürftigkeit nach Satz 1 Nummer 3 liegt insbesondere vor,
 
 (2) Das Amtsgericht darf nicht auf eine höhere Strafe als vier Jahre Freiheitsstrafe und nicht auf die Unterbringung in einem psychiatrischen Krankenhaus, allein oder neben einer Strafe, oder in der Sicherungsverwahrung erkennen.
 
-
-## § 25
+# § 25
 
 Der Richter beim Amtsgericht entscheidet als Strafrichter bei Vergehen,
 
@@ -393,8 +351,7 @@ Der Richter beim Amtsgericht entscheidet als Strafrichter bei Vergehen,
 
 2. wenn eine höhere Strafe als Freiheitsstrafe von zwei Jahren nicht zu erwarten ist.
 
-
-## § 26
+# § 26
 
 (1) Für Straftaten Erwachsener, durch die ein Kind oder ein Jugendlicher verletzt oder unmittelbar gefährdet wird, sowie für Verstöße Erwachsener gegen Vorschriften, die dem Jugendschutz oder der Jugenderziehung dienen, sind neben den für allgemeine Strafsachen zuständigen Gerichten auch die Jugendgerichte zuständig. Die §§ 24 und 25 gelten entsprechend.
 
@@ -402,40 +359,33 @@ Der Richter beim Amtsgericht entscheidet als Strafrichter bei Vergehen,
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Beantragung gerichtlicher Untersuchungshandlungen im Ermittlungsverfahren.
 
+# § 26a – (weggefallen)
 
-## § 26a – (weggefallen)
-
-
-## § 27
+# § 27
 
 Im übrigen wird die Zuständigkeit und der Geschäftskreis der Amtsgerichte durch die Vorschriften dieses Gesetzes und der Prozeßordnungen bestimmt.
 
-
-## § 28
+# § 28
 
 Für die Verhandlung und Entscheidung der zur Zuständigkeit der Amtsgerichte gehörenden Strafsachen werden, soweit nicht der Strafrichter entscheidet, bei den Amtsgerichten Schöffengerichte gebildet.
 
-
-## § 29
+# § 29
 
 (1) Das Schöffengericht besteht aus dem Richter beim Amtsgericht als Vorsitzenden und zwei Schöffen. Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Vorsitzender sein.
 
 (2) Bei Eröffnung des Hauptverfahrens kann auf Antrag der Staatsanwaltschaft die Zuziehung eines zweiten Richters beim Amtsgericht beschlossen werden, wenn dessen Mitwirkung nach dem Umfang der Sache notwendig erscheint. Eines Antrages der Staatsanwaltschaft bedarf es nicht, wenn ein Gericht höherer Ordnung das Hauptverfahren vor dem Schöffengericht eröffnet.
 
-
-## § 30
+# § 30
 
 (1) Insoweit das Gesetz nicht Ausnahmen bestimmt, üben die Schöffen während der Hauptverhandlung das Richteramt in vollem Umfang und mit gleichem Stimmrecht wie die Richter beim Amtsgericht aus und nehmen auch an den im Laufe einer Hauptverhandlung zu erlassenden Entscheidungen teil, die in keiner Beziehung zu der Urteilsfällung stehen und die auch ohne mündliche Verhandlung erlassen werden können.
 
 (2) Die außerhalb der Hauptverhandlung erforderlichen Entscheidungen werden von dem Richter beim Amtsgericht erlassen.
 
-
-## § 31
+# § 31
 
 Das Amt eines Schöffen ist ein Ehrenamt. Es kann nur von Deutschen versehen werden.
 
-
-## § 32
+# § 32
 
 Unfähig zu dem Amt eines Schöffen sind:
 
@@ -445,8 +395,7 @@ Unfähig zu dem Amt eines Schöffen sind:
 
 3. (weggefallen)
 
-
-## § 33
+# § 33
 
 Zu dem Amt eines Schöffen sollen nicht berufen werden:
 
@@ -462,8 +411,7 @@ Zu dem Amt eines Schöffen sollen nicht berufen werden:
 
 6. Personen, die in Vermögensverfall geraten sind.
 
-
-## § 34
+# § 34
 
 (1) Zu dem Amt eines Schöffen sollen ferner nicht berufen werden:
 
@@ -481,8 +429,7 @@ Zu dem Amt eines Schöffen sollen nicht berufen werden:
 
 (2) Die Landesgesetze können außer den vorbezeichneten Beamten höhere Verwaltungsbeamte bezeichnen, die zu dem Amt eines Schöffen nicht berufen werden sollen.
 
-
-## § 35
+# § 35
 
 Die Berufung zum Amt eines Schöffen dürfen ablehnen:
 
@@ -506,8 +453,7 @@ c) bereits als ehrenamtliche Richter tätig sind;
 
 7. Personen, die glaubhaft machen, daß die Ausübung des Amtes für sie oder einen Dritten wegen Gefährdung oder erheblicher Beeinträchtigung einer ausreichenden wirtschaftlichen Lebensgrundlage eine besondere Härte bedeutet.
 
-
-## § 36
+# § 36
 
 (1) Die Gemeinde stellt in jedem fünften Jahr eine Vorschlagsliste für Schöffen auf. Für die Aufnahme in die Liste ist die Zustimmung von zwei Dritteln der anwesenden Mitglieder der Gemeindevertretung, mindestens jedoch der Hälfte der gesetzlichen Zahl der Mitglieder der Gemeindevertretung erforderlich. Die jeweiligen Regelungen zur Beschlussfassung der Gemeindevertretung bleiben unberührt.
 
@@ -519,25 +465,21 @@ c) bereits als ehrenamtliche Richter tätig sind;
 
 (+++ § 36 Abs. 2: Zur Anwendung vgl. Art. 9 Abs. 9 G v. 9.12.1974 I 3393 (in dieser Fassung erstmals auf die Amtsperiode ab 1.1.1977 anzuwenden) +++)
 
-
-## § 37
+# § 37
 
 Gegen die Vorschlagsliste kann binnen einer Woche, gerechnet vom Ende der Auflegungsfrist, schriftlich oder zu Protokoll mit der Begründung Einspruch erhoben werden, daß in die Vorschlagsliste Personen aufgenommen sind, die nach § 32 nicht aufgenommen werden durften oder nach den §§ 33, 34 nicht aufgenommen werden sollten.
 
-
-## § 38
+# § 38
 
 (1) Der Gemeindevorsteher sendet die Vorschlagsliste nebst den Einsprüchen an den Richter beim Amtsgericht des Bezirks.
 
 (2) Wird nach Absendung der Vorschlagsliste ihre Berichtigung erforderlich, so hat der Gemeindevorsteher hiervon dem Richter beim Amtsgericht Anzeige zu machen.
 
-
-## § 39
+# § 39
 
 Der Richter beim Amtsgericht stellt die Vorschlagslisten der Gemeinden zur Liste des Bezirks zusammen und bereitet den Beschluß über die Einsprüche vor. Er hat die Beachtung der Vorschriften des § 36 Abs. 3 zu prüfen und die Abstellung etwaiger Mängel zu veranlassen.
 
-
-## § 40
+# § 40
 
 (1) Bei dem Amtsgericht tritt jedes fünfte Jahr ein Ausschuß zusammen.
 
@@ -547,13 +489,11 @@ Der Richter beim Amtsgericht stellt die Vorschlagslisten der Gemeinden zur Liste
 
 (4) Der Ausschuß ist beschlußfähig, wenn wenigstens der Vorsitzende, der Verwaltungsbeamte und drei Vertrauenspersonen anwesend sind.
 
-
-## § 41
+# § 41
 
 Der Ausschuß entscheidet mit einfacher Mehrheit über die gegen die Vorschlagsliste erhobenen Einsprüche. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden. Die Entscheidungen sind zu Protokoll zu vermerken. Sie sind nicht anfechtbar.
 
-
-## § 42
+# § 42
 
 (1) Aus der berichtigten Vorschlagsliste wählt der Ausschuß mit einer Mehrheit von zwei Dritteln der Stimmen für die nächsten fünf Geschäftsjahre:
 
@@ -563,8 +503,7 @@ Der Ausschuß entscheidet mit einfacher Mehrheit über die gegen die Vorschlagsl
 
 (2) Bei der Wahl soll darauf geachtet werden, daß alle Gruppen der Bevölkerung nach Geschlecht, Alter, Beruf und sozialer Stellung angemessen berücksichtigt werden.
 
-
-## § 43
+# § 43
 
 (1) Die für jedes Amtsgericht erforderliche Zahl von Haupt- und Hilfsschöffen wird durch den Präsidenten des Landgerichts (Präsidenten des Amtsgerichts) bestimmt.
 
@@ -572,13 +511,11 @@ Der Ausschuß entscheidet mit einfacher Mehrheit über die gegen die Vorschlagsl
 
 (+++ § 43 Abs. 2: Zur Anwendung vgl. Art. 9 Abs. 9 G v. 9.12.1974 I 3393 (in dieser Fassung erstmals auf die Amtsperiode ab 1.1.1977 anzuwenden) +++)
 
-
-## § 44
+# § 44
 
 Die Namen der gewählten Hauptschöffen und Hilfsschöffen werden bei jedem Amtsgericht in gesonderte Verzeichnisse aufgenommen (Schöffenlisten).
 
-
-## § 45
+# § 45
 
 (1) Die Tage der ordentlichen Sitzungen des Schöffengerichts werden für das ganze Jahr im voraus festgestellt.
 
@@ -602,13 +539,11 @@ Die bisherige Fassung des § 45 lautet:
 (4) Über die Auslosung wird von dem Urkundsbeamten der Geschäftsstelle ein Protokoll aufgenommen." +++)  
 (+++ § 45 Abs. 2 Satz 3 (früher Satz 2): Zur Anwendung vgl. Art. 9 Abs. 9 G v. 9.12.1974 I 3393; erstmals auf die Amtsperiode ab 1.1. 1977 anzuwenden +++)
 
-
-## § 46
+# § 46
 
 Wird bei einem Amtsgericht während des Geschäftsjahres ein weiteres Schöffengericht gebildet, so werden für dessen ordentliche Sitzungen die benötigten Hauptschöffen gemäß § 45 Abs. 1, 2 Satz 1, Abs. 3, 4 aus der Hilfsschöffenliste ausgelost. Die ausgelosten Schöffen werden in der Hilfsschöffenliste gestrichen.
 
-(+++ § 46: Zur Anwendung idF d. Art. 2 Nr. 3 G v. 5.10.1978 I 1645 mWv 1.1.1979 vgl. Art. 8 Abs. 8 dieses G (erstmals auf die am 1.1.1981 beginnende Amtsperiode anzuwenden.  
-Die bisherige Fassung des § 46 lautet:
+(+++ § 46: Zur Anwendung idF d. Art. 2 Nr. 3 G v. 5.10.1978 I 1645 mWv 1.1.1979 vgl. Art. 8 Abs. 8 dieses G (erstmals auf die am 1.1.1981 beginnende Amtsperiode anzuwenden. Die bisherige Fassung des § 46 lautet:
 
 "§ 46
 
@@ -616,20 +551,17 @@ Die bisherige Fassung des § 46 lautet:
 
 (2) In gleicher Weise werden die im Laufe des Geschäftsjahres einzuberufenden Schöffen benachrichtigt." +++)
 
-
-## § 47
+# § 47
 
 Wenn die Geschäfte die Anberaumung außerordentlicher Sitzungen erforderlich machen oder wenn zu einzelnen Sitzungen die Zuziehung anderer als der zunächst berufenen Schöffen oder Ergänzungsschöffen erforderlich wird, so werden Schöffen aus der Hilfsschöffenliste herangezogen.
 
-
-## § 48
+# § 48
 
 (1) Ergänzungsschöffen (§ 192 Abs. 2, 3) werden aus der Hilfsschöffenliste zugewiesen.
 
 (2) Im Fall der Verhinderung eines Hauptschöffen tritt der zunächst zugewiesene Ergänzungsschöffe auch dann an seine Stelle, wenn die Verhinderung vor Beginn der Sitzung bekannt wird.
 
-
-## § 49
+# § 49
 
 (1) Wird die Heranziehung von Hilfsschöffen zu einzelnen Sitzungen erforderlich (§§ 47, 48 Abs. 1), so werden sie aus der Hilfsschöffenliste in deren Reihenfolge zugewiesen.
 
@@ -641,13 +573,11 @@ Wenn die Geschäfte die Anberaumung außerordentlicher Sitzungen erforderlich ma
 
 (+++ § 49 Abs. 2 Satz 2, Abs. 3: Zur Anwendung vgl. Art. 8 Abs. 8 G v. 5.10.1978 I 1645 (erstmals auf die am 1.1.1981 beginnende Amtsperiode anzuwenden) +++)
 
-
-## § 50
+# § 50
 
 Erstreckt sich die Dauer einer Sitzung über die Zeit hinaus, für die der Schöffe zunächst einberufen ist, so hat er bis zur Beendigung der Sitzung seine Amtstätigkeit fortzusetzen.
 
-
-## § 51
+# § 51
 
 (1) Ein Schöffe ist seines Amtes zu entheben, wenn er seine Amtspflichten gröblich verletzt hat.
 
@@ -655,8 +585,7 @@ Erstreckt sich die Dauer einer Sitzung über die Zeit hinaus, für die der Schö
 
 (3) Der nach Absatz 2 Satz 1 zuständige Senat kann anordnen, dass der Schöffe bis zur Entscheidung über die Amtsenthebung nicht zu Sitzungen heranzuziehen ist. Die Anordnung ist nicht anfechtbar.
 
-
-## § 52
+# § 52
 
 (1) Ein Schöffe ist von der Schöffenliste zu streichen, wenn
 
@@ -682,15 +611,13 @@ Bei Hauptschöffen wird die Streichung nur für Sitzungen wirksam, die später a
 
 (6) Hat sich die ursprüngliche Zahl der Hilfsschöffen in der Hilfsschöffenliste auf die Hälfte verringert, so findet aus den vorhandenen Vorschlagslisten eine Ergänzungswahl durch den Ausschuß statt, der die Schöffenwahl vorgenommen hatte. Der Richter beim Amtsgericht kann von der Ergänzungswahl absehen, wenn sie in den letzten sechs Monaten des Zeitraums stattfinden müßte, für den die Schöffen gewählt sind. Für die Bestimmung der Reihenfolge der neuen Hilfsschöffen gilt § 45 entsprechend mit der Maßgabe, daß die Plätze im Anschluß an den im Zeitpunkt der Auslosung an letzter Stelle der Hilfsschöffenliste stehenden Schöffen ausgelost werden.
 
-
-## § 53
+# § 53
 
 (1) Ablehnungsgründe sind nur zu berücksichtigen, wenn sie innerhalb einer Woche, nachdem der beteiligte Schöffe von seiner Einberufung in Kenntnis gesetzt worden ist, von ihm geltend gemacht werden. Sind sie später entstanden oder bekannt geworden, so ist die Frist erst von diesem Zeitpunkt zu berechnen.
 
 (2) Der Richter beim Amtsgericht entscheidet über das Gesuch nach Anhörung der Staatsanwaltschaft. Die Entscheidung ist nicht anfechtbar.
 
-
-## § 54
+# § 54
 
 (1) Der Richter beim Amtsgericht kann einen Schöffen auf dessen Antrag wegen eingetretener Hinderungsgründe von der Dienstleistung an bestimmten Sitzungstagen entbinden. Ein Hinderungsgrund liegt vor, wenn der Schöffe an der Dienstleistung durch unabwendbare Umstände gehindert ist oder wenn ihm die Dienstleistung nicht zugemutet werden kann.
 
@@ -698,25 +625,21 @@ Bei Hauptschöffen wird die Streichung nur für Sitzungen wirksam, die später a
 
 (3) Die Entscheidung ist nicht anfechtbar. Der Antrag nach Absatz 1 und die Entscheidung sind aktenkundig zu machen.
 
-
-## § 55
+# § 55
 
 Die Schöffen und Vertrauenspersonen des Ausschusses erhalten eine Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 56
+# § 56
 
 (1) Gegen Schöffen und Vertrauenspersonen des Ausschusses, die sich ohne genügende Entschuldigung zu den Sitzungen nicht rechtzeitig einfinden oder sich ihren Obliegenheiten in anderer Weise entziehen, wird ein Ordnungsgeld festgesetzt. Zugleich werden ihnen auch die verursachten Kosten auferlegt.
 
 (2) Die Entscheidung trifft der Richter beim Amtsgericht nach Anhörung der Staatsanwaltschaft. Bei nachträglicher genügender Entschuldigung kann die Entscheidung ganz oder zum Teil zurückgenommen werden. Gegen die Entscheidung ist Beschwerde des Betroffenen nach den Vorschriften der Strafprozeßordnung zulässig.
 
-
-## § 57
+# § 57
 
 Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter beim Amtsgericht einzureichen sind, der Ausschuß zu berufen und die Auslosung der Schöffen zu bewirken ist, wird durch die Landesjustizverwaltung bestimmt.
 
-
-## § 58
+# § 58
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Amtsgericht für die Bezirke mehrerer Amtsgerichte die Strafsachen ganz oder teilweise, Entscheidungen bestimmter Art in Strafsachen sowie Rechtshilfeersuchen in strafrechtlichen Angelegenheiten von Stellen außerhalb des räumlichen Geltungsbereichs dieses Gesetzes zuzuweisen, sofern die Zusammenfassung für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -724,8 +647,7 @@ Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter beim Amtsge
 
 (3) Die übrigen Vorschriften dieses Titels sind entsprechend anzuwenden.
 
-
-## § 59
+# § 59
 
 (1) Die Landgerichte werden mit einem Präsidenten sowie mit Vorsitzenden Richtern und weiteren Richtern besetzt.
 
@@ -733,18 +655,15 @@ Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter beim Amtsge
 
 (3) Es können Richter auf Probe und Richter kraft Auftrags verwendet werden.
 
-
-## § 60
+# § 60
 
 (1) Bei jedem Landgericht werden, soweit nichts anders bestimmt ist, sowohl Zivil- als auch Strafkammern gebildet.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung bei einem Landgericht mit mindestens 100 Richterstellen ausschließlich Zivil- oder Strafkammern zu bilden und diesem für die Bezirke mehrerer Landgerichte die Zivil- oder Strafsachen zuzuweisen. Die Landesregierungen können die Ermächtigung nach Satz 1 auf die Landesjustizverwaltungen übertragen.
 
+# §§ 61 bis 69 – (weggefallen)
 
-## §§ 61 bis 69 – (weggefallen)
-
-
-## § 70
+# § 70
 
 (1) Soweit die Vertretung eines Mitgliedes nicht durch ein Mitglied desselben Gerichts möglich ist, wird sie auf den Antrag des Präsidiums durch die Landesjustizverwaltung geordnet.
 
@@ -752,8 +671,7 @@ Bis zu welchem Tag die Vorschlagslisten aufzustellen und dem Richter beim Amtsge
 
 (3) Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen richterliche Geschäfte nur von auf Lebenszeit ernannten Richtern wahrgenommen werden können, sowie die, welche die Vertretung durch auf Lebenszeit ernannte Richter regeln.
 
-
-## § 71
+# § 71
 
 (1) Vor die Zivilkammern, einschließlich der Kammern für Handelssachen, gehören alle bürgerlichen Rechtsstreitigkeiten, die nicht den Amtsgerichten zugewiesen sind.
 
@@ -793,15 +711,13 @@ b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestelle
 
 § 71 Abs. 2: Änd. durch G v. 26.6.1981 I 553 gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig
 
-
-## § 72
+# § 72
 
 (1) Die Zivilkammern, einschließlich der Kammern für Handelssachen und der in § 72a genannten Kammern, sind die Berufungs- und Beschwerdegerichte in den vor den Amtsgerichten verhandelten bürgerlichen Rechtsstreitigkeiten, soweit nicht die Zuständigkeit der Oberlandesgerichte begründet ist. Die Landgerichte sind ferner die Beschwerdegerichte in Freiheitsentziehungssachen und in den von den Betreuungsgerichten entschiedenen Sachen.
 
 (2) In Streitigkeiten nach § 43 Absatz 2 des Wohnungseigentumsgesetzes ist das für den Sitz des Oberlandesgerichts zuständige Landgericht gemeinsames Berufungs- und Beschwerdegericht für den Bezirk des Oberlandesgerichts, in dem das Amtsgericht seinen Sitz hat. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung anstelle dieses Gerichts ein anderes Landgericht im Bezirk des Oberlandesgerichts zu bestimmen. Sie können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 72a
+# § 72a
 
 (1) Bei den Landgerichten werden eine oder mehrere Zivilkammern für folgende Sachgebiete gebildet:
 
@@ -823,18 +739,15 @@ b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestelle
 
 (3) Den Zivilkammern nach den Absätzen 1 und 2 können auch Streitigkeiten nach den §§ 71 und 72 zugewiesen werden.
 
-
-## § 73
+# § 73
 
 (1) Die Strafkammern entscheiden über Beschwerden gegen Verfügungen des Richters beim Amtsgericht sowie gegen Entscheidungen des Richters beim Amtsgericht und der Schöffengerichte.
 
 (2) Die Strafkammern erledigen außerdem die in der Strafprozeßordnung den Landgerichten zugewiesenen Geschäfte.
 
+# § 73a – (weggefallen)
 
-## § 73a – (weggefallen)
-
-
-## § 74
+# § 74
 
 (1) Die Strafkammern sind als erkennende Gerichte des ersten Rechtszuges zuständig für alle Verbrechen, die nicht zur Zuständigkeit des Amtsgerichts oder des Oberlandesgerichts gehören. Sie sind auch zuständig für alle Straftaten, bei denen eine höhere Strafe als vier Jahre Freiheitsstrafe oder die Unterbringung in einem psychiatrischen Krankenhaus, allein oder neben einer Strafe, oder in der Sicherungsverwahrung zu erwarten ist oder bei denen die Staatsanwaltschaft in den Fällen des § 24 Abs. 1 Nr. 3 Anklage beim Landgericht erhebt.
 
@@ -856,8 +769,7 @@ b) über die Höhe des Vergütungsanspruchs infolge einer Anordnung des Bestelle
 
 8. der Entziehung Minderjähriger mit Todesfolge (§ 235 Abs. 5 des Strafgesetzbuches),
 
-8a.  
-der Nachstellung mit Todesfolge (§ 238 Absatz 3 des Strafgesetzbuches),
+8a. der Nachstellung mit Todesfolge (§ 238 Absatz 3 des Strafgesetzbuches),
 
 9. der Freiheitsberaubung mit Todesfolge (§ 239 Abs. 4 des Strafgesetzbuches),
 
@@ -905,8 +817,7 @@ ist eine Strafkammer als Schwurgericht zuständig. § 120 bleibt unberührt.
 
 (3) Die Strafkammern sind außerdem zuständig für die Verhandlung und Entscheidung über das Rechtsmittel der Berufung gegen die Urteile des Strafrichters und des Schöffengerichts.
 
-
-## § 74a
+# § 74a
 
 (1) Bei den Landgerichten, in deren Bezirk ein Oberlandesgericht seinen Sitz hat, ist eine Strafkammer für den Bezirk dieses Oberlandesgerichts als erkennendes Gericht des ersten Rechtszuges zuständig für Straftaten
 
@@ -930,13 +841,11 @@ ist eine Strafkammer als Schwurgericht zuständig. § 120 bleibt unberührt.
 
 (5) Im Rahmen der Absätze 1, 3 und 4 erstreckt sich der Bezirk des Landgerichts auf den Bezirk des Oberlandesgerichts.
 
-
-## § 74b
+# § 74b
 
 In Jugendschutzsachen (§ 26 Abs. 1 Satz 1) ist neben der für allgemeine Strafsachen zuständigen Strafkammer auch die Jugendkammer als erkennendes Gericht des ersten Rechtszuges zuständig. § 26 Abs. 2 und §§ 73 und 74 gelten entsprechend.
 
-
-## § 74c
+# § 74c
 
 (1) Für Straftaten
 
@@ -950,8 +859,7 @@ In Jugendschutzsachen (§ 26 Abs. 1 Satz 1) ist neben der für allgemeine Strafs
 
 5. des Subventionsbetruges, des Kapitalanlagebetruges, des Kreditbetruges, des Bankrotts, der Verletzung der Buchführungspflicht, der Gläubigerbegünstigung und der Schuldnerbegünstigung,
 
-5a.  
-der wettbewerbsbeschränkenden Absprachen bei Ausschreibungen, der Bestechlichkeit und Bestechung im geschäftlichen Verkehr sowie der Bestechlichkeit im Gesundheitswesen und der Bestechung im Gesundheitswesen,
+5a. der wettbewerbsbeschränkenden Absprachen bei Ausschreibungen, der Bestechlichkeit und Bestechung im geschäftlichen Verkehr sowie der Bestechlichkeit im Gesundheitswesen und der Bestechung im Gesundheitswesen,
 
 6. a) der Geldwäsche, des Betruges, des Computerbetruges, der Untreue, des Vorenthaltens und Veruntreuens von Arbeitsentgelt, des Wuchers, der Vorteilsannahme, der Bestechlichkeit, der Vorteilsgewährung und der Bestechung,
 
@@ -967,8 +875,7 @@ ist, soweit nach § 74 Abs. 1 als Gericht des ersten Rechtszuges und nach § 74 
 
 (4) Im Rahmen des Absatzes 3 erstreckt sich der Bezirk des danach bestimmten Landgerichts auf die Bezirke der anderen Landgerichte.
 
-
-## § 74d
+# § 74d
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Landgericht für die Bezirke mehrerer Landgerichte die in § 74 Abs. 2 bezeichneten Strafsachen zuzuweisen, sofern dies der sachlichen Förderung der Verfahren dient. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
@@ -983,8 +890,7 @@ Die bisherige Fassung des § 74d lautet:
 
 (2) Die Landesjustizverwaltung verteilt die Zahl der erforderlichen Hauptschöffen auf sämtliche Amtsgerichte des durch Rechtsverordnung nach Absatz 1 gebildeten Bezirks." +++)
 
-
-## § 74e
+# § 74e
 
 Unter verschiedenen nach den Vorschriften der §§ 74 bis 74 d zuständigen Strafkammern kommt
 
@@ -996,8 +902,7 @@ Unter verschiedenen nach den Vorschriften der §§ 74 bis 74 d zuständigen Stra
 
 der Vorrang zu.
 
-
-## § 74f
+# § 74f
 
 (1) Hat im ersten Rechtszug eine Strafkammer die Anordnung der Sicherungsverwahrung vorbehalten oder im Fall des § 66b des Strafgesetzbuches als Tatgericht entschieden, ist diese Strafkammer im ersten Rechtszug für die Verhandlung und Entscheidung über die im Urteil vorbehaltene oder die nachträgliche Anordnung der Sicherungsverwahrung zuständig.
 
@@ -1007,13 +912,11 @@ der Vorrang zu.
 
 (4) In Verfahren, in denen über die im Urteil vorbehaltene oder die nachträgliche Anordnung der Sicherungsverwahrung zu entscheiden ist, ist die große Strafkammer mit drei Richtern einschließlich des Vorsitzenden und zwei Schöffen besetzt. Bei Entscheidungen außerhalb der Hauptverhandlung wirken die Schöffen nicht mit.
 
-
-## § 75
+# § 75
 
 Die Zivilkammern sind, soweit nicht nach den Vorschriften der Prozeßgesetze an Stelle der Kammer der Einzelrichter zu entscheiden hat, mit drei Mitgliedern einschließlich des Vorsitzenden besetzt.
 
-
-## § 76
+# § 76
 
 (1) Die Strafkammern sind mit drei Richtern einschließlich des Vorsitzenden und zwei Schöffen (große Strafkammer), in Verfahren über Berufungen gegen ein Urteil des Strafrichters oder des Schöffengerichts mit dem Vorsitzenden und zwei Schöffen (kleine Strafkammer) besetzt. Bei Entscheidungen außerhalb der Hauptverhandlung wirken die Schöffen nicht mit.
 
@@ -1035,8 +938,7 @@ Im Übrigen beschließt die große Strafkammer eine Besetzung mit zwei Richtern 
 
 (6) In Verfahren über Berufungen gegen ein Urteil des erweiterten Schöffengerichts (§ 29 Abs. 2) ist ein zweiter Richter hinzuzuziehen. Außerhalb der Hauptverhandlung entscheidet der Vorsitzende allein.
 
-
-## § 77
+# § 77
 
 (1) Für die Schöffen der Strafkammern gelten entsprechend die Vorschriften über die Schöffen des Schöffengerichts mit folgender Maßgabe:
 
@@ -1048,8 +950,7 @@ Im Übrigen beschließt die große Strafkammer eine Besetzung mit zwei Richtern 
 
 (5) § 52 Abs. 2 Satz 1 Nr. 1 findet keine Anwendung.
 
-
-## § 78
+# § 78
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung wegen großer Entfernung zu dem Sitz eines Landgerichts bei einem Amtsgericht für den Bezirk eines oder mehrerer Amtsgerichte eine Strafkammer zu bilden und ihr für diesen Bezirk die gesamte Tätigkeit der Strafkammer des Landgerichts oder einen Teil dieser Tätigkeit zuzuweisen. Die in § 74 Abs. 2 bezeichneten Verbrechen dürfen einer nach Satz 1 gebildeten Strafkammer nicht zugewiesen werden. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
@@ -1057,8 +958,7 @@ Im Übrigen beschließt die große Strafkammer eine Besetzung mit zwei Richtern 
 
 (3) Der Präsident des Landgerichts verteilt die Zahl der erforderlichen Hauptschöffen auf die zum Bezirk der Strafkammer gehörenden Amtsgerichtsbezirke. Die Hilfsschöffen wählt der Ausschuß bei dem Amtsgericht, bei dem die auswärtige Strafkammer gebildet worden ist. Die sonstigen in § 77 dem Präsidenten des Landgerichts zugewiesenen Geschäfte nimmt der Vorsitzende der Strafkammer wahr.
 
-
-## § 78a
+# § 78a
 
 (1) Bei den Landgerichten werden, soweit in ihrem Bezirk für Erwachsene Anstalten unterhalten werden, in denen Freiheitsstrafe oder freiheitsentziehende Maßregeln der Besserung und Sicherung vollzogen werden, oder soweit in ihrem Bezirk andere Vollzugsbehörden ihren Sitz haben, Strafvollstreckungskammern gebildet. Diese sind zuständig für die Entscheidungen
 
@@ -1074,8 +974,7 @@ Ist nach § 454b Absatz 3 oder Absatz 4 der Strafprozeßordnung über die Ausset
 
 (3) Unterhält ein Land eine Anstalt, in der Freiheitsstrafe oder freiheitsentziehende Maßregeln der Besserung und Sicherung vollzogen werden, auf dem Gebiete eines anderen Landes, so können die beteiligten Länder vereinbaren, daß die Strafvollstreckungskammer bei dem Landgericht zuständig ist, in dessen Bezirk die für die Anstalt zuständige Aufsichtsbehörde ihren Sitz hat.
 
-
-## § 78b
+# § 78b
 
 (1) Die Strafvollstreckungskammern sind besetzt
 
@@ -1085,23 +984,19 @@ Ist nach § 454b Absatz 3 oder Absatz 4 der Strafprozeßordnung über die Ausset
 
 (2) Die Mitglieder der Strafvollstreckungskammern werden vom Präsidium des Landgerichts aus der Zahl der Mitglieder des Landgerichts und der in seinem Bezirk angestellten Richter beim Amtsgericht bestellt.
 
+# §§ 79 bis 92 – (weggefallen)
 
-## §§ 79 bis 92 – (weggefallen)
-
-
-## § 93
+# § 93
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung bei den Landgerichten für deren Bezirke oder für örtlich abgegrenzte Teile davon Kammern für Handelssachen zu bilden. Solche Kammern können ihren Sitz innerhalb des Landgerichtsbezirks auch an Orten haben, an denen das Landgericht seinen Sitz nicht hat.
 
 (2) Die Landesregierungen können die Ermächtigung nach Absatz 1 auf die Landesjustizverwaltungen übertragen.
 
-
-## § 94
+# § 94
 
 Ist bei einem Landgericht eine Kammer für Handelssachen gebildet, so tritt für Handelssachen diese Kammer an die Stelle der Zivilkammern nach Maßgabe der folgenden Vorschriften.
 
-
-## § 95
+# § 95
 
 (1) Handelssachen im Sinne dieses Gesetzes sind die bürgerlichen Rechtsstreitigkeiten, in denen durch die Klage ein Anspruch geltend gemacht wird:
 
@@ -1135,22 +1030,19 @@ f) aus den Rechtsverhältnissen des Seerechts, insbesondere aus denen, die sich 
 
 2. die in § 71 Abs. 2 Nr. 4 Buchstabe b bis f genannten Verfahren.
 
-
-## § 96
+# § 96
 
 (1) Der Rechtsstreit wird vor der Kammer für Handelssachen verhandelt, wenn der Kläger dies in der Klageschrift beantragt hat.
 
 (2) Ist ein Rechtsstreit nach den Vorschriften der §§ 281, 506 der Zivilprozeßordnung vom Amtsgericht an das Landgericht zu verweisen, so hat der Kläger den Antrag auf Verhandlung vor der Kammer für Handelssachen vor dem Amtsgericht zu stellen.
 
-
-## § 97
+# § 97
 
 (1) Wird vor der Kammer für Handelssachen eine nicht vor sie gehörige Klage zur Verhandlung gebracht, so ist der Rechtsstreit auf Antrag des Beklagten an die Zivilkammer zu verweisen.
 
 (2) Gehört die Klage oder die im Falle des § 506 der Zivilprozeßordnung erhobene Widerklage als Klage nicht vor die Kammer für Handelssachen, so ist diese auch von Amts wegen befugt, den Rechtsstreit an die Zivilkammer zu verweisen, solange nicht eine Verhandlung zur Hauptsache erfolgt und darauf ein Beschluß verkündet ist. Die Verweisung von Amts wegen kann nicht aus dem Grund erfolgen, daß der Beklagte nicht Kaufmann ist.
 
-
-## § 98
+# § 98
 
 (1) Wird vor der Zivilkammer eine vor die Kammer für Handelssachen gehörige Klage zur Verhandlung gebracht, so ist der Rechtsstreit auf Antrag des Beklagten an die Kammer für Handelssachen zu verweisen. Ein Beklagter, der nicht in das Handelsregister oder Genossenschaftsregister eingetragen ist, kann den Antrag nicht darauf stützen, daß er Kaufmann ist.
 
@@ -1160,44 +1052,37 @@ f) aus den Rechtsverhältnissen des Seerechts, insbesondere aus denen, die sich 
 
 (4) Die Zivilkammer ist zur Verwerfung des Antrags auch dann befugt, wenn der Kläger ihm zugestimmt hat.
 
-
-## § 99
+# § 99
 
 (1) Wird in einem bei der Kammer für Handelssachen anhängigen Rechtsstreit die Klage nach § 256 Abs. 2 der Zivilprozeßordnung durch den Antrag auf Feststellung eines Rechtsverhältnisses erweitert oder eine Widerklage erhoben und gehört die erweiterte Klage oder die Widerklage als Klage nicht vor die Kammer für Handelssachen, so ist der Rechtsstreit auf Antrag des Gegners an die Zivilkammer zu verweisen.
 
 (2) Unter der Beschränkung des § 97 Abs. 2 ist die Kammer zu der Verweisung auch von Amts wegen befugt. Diese Befugnis tritt auch dann ein, wenn durch eine Klageänderung ein Anspruch geltend gemacht wird, der nicht vor die Kammer für Handelssachen gehört.
 
-
-## § 100
+# § 100
 
 Die §§ 96 bis 99 sind auf das Verfahren im zweiten Rechtszuge vor den Kammern für Handelssachen entsprechend anzuwenden.
 
-
-## § 101
+# § 101
 
 (1) Der Antrag auf Verweisung des Rechtsstreits an eine andere Kammer ist nur vor der Verhandlung des Antragstellers zur Sache zulässig. Ist dem Antragsteller vor der mündlichen Verhandlung eine Frist zur Klageerwiderung oder Berufungserwiderung gesetzt, so hat er den Antrag innerhalb der Frist zu stellen. § 296 Abs. 3 der Zivilprozeßordnung gilt entsprechend; der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen.
 
 (2) Über den Antrag ist vorab zu entscheiden. Die Entscheidung kann ohne mündliche Verhandlung ergehen.
 
-
-## § 102
+# § 102
 
 Die Entscheidung über Verweisung eines Rechtsstreits an die Zivilkammer oder an die Kammer für Handelssachen ist nicht anfechtbar. Erfolgt die Verweisung an eine andere Kammer, so ist diese Entscheidung für die Kammer, an die der Rechtsstreit verwiesen wird, bindend. Der Termin zur weiteren mündlichen Verhandlung wird von Amts wegen bestimmt und den Parteien bekanntgemacht.
 
-
-## § 103
+# § 103
 
 Bei der Kammer für Handelssachen kann ein Anspruch nach § 64 der Zivilprozeßordnung nur dann geltend gemacht werden, wenn der Rechtsstreit nach den Vorschriften der §§ 94, 95 vor die Kammer für Handelssachen gehört.
 
-
-## § 104
+# § 104
 
 (1) Wird die Kammer für Handelssachen als Beschwerdegericht mit einer vor sie nicht gehörenden Beschwerde befaßt, so ist die Beschwerde von Amts wegen an die Zivilkammer zu verweisen. Ebenso hat die Zivilkammer, wenn sie als Beschwerdegericht in einer Handelssache mit einer Beschwerde befaßt wird, diese von Amts wegen an die Kammer für Handelssachen zu verweisen. Die Vorschriften des § 102 Satz 1, 2 sind entsprechend anzuwenden.
 
 (2) Eine Beschwerde kann nicht an eine andere Kammer verwiesen werden, wenn bei der Kammer, die mit der Beschwerde befaßt wird, die Hauptsache anhängig ist oder diese Kammer bereits eine Entscheidung in der Hauptsache erlassen hat.
 
-
-## § 105
+# § 105
 
 (1) Die Kammern für Handelssachen entscheiden in der Besetzung mit einem Mitglied des Landgerichts als Vorsitzenden und zwei ehrenamtlichen Richtern, soweit nicht nach den Vorschriften der Prozeßgesetze an Stelle der Kammer der Vorsitzende zu entscheiden hat.
 
@@ -1207,13 +1092,11 @@ Bei der Kammer für Handelssachen kann ein Anspruch nach § 64 der Zivilprozeßo
 
 § 105 Abs. 1 Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
-
-## § 106
+# § 106
 
 Im Falle des § 93 Abs. 1 Satz 2 kann ein Richter beim Amtsgericht Vorsitzender der Kammer für Handelssachen sein.
 
-
-## § 107
+# § 107
 
 (1) Die ehrenamtlichen Richter, die weder ihren Wohnsitz noch ihre gewerbliche Niederlassung am Sitz der Kammer für Handelssachen haben, erhalten Tage- und Übernachtungsgelder nach den für Richter am Landgericht geltenden Vorschriften.
 
@@ -1221,15 +1104,13 @@ Im Falle des § 93 Abs. 1 Satz 2 kann ein Richter beim Amtsgericht Vorsitzender 
 
 §§ 107 bis 109 Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
-
-## § 108
+# § 108
 
 Die ehrenamtlichen Richter werden auf gutachtlichen Vorschlag der Industrie- und Handelskammern für die Dauer von fünf Jahren ernannt; eine wiederholte Ernennung ist nicht ausgeschlossen.
 
 §§ 107 bis 109 Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
-
-## § 109
+# § 109
 
 (1) Zum ehrenamtlichen Richter kann ernannt werden, wer
 
@@ -1255,25 +1136,21 @@ Darüber hinaus soll nur ernannt werden
 
 (3) Zum ehrenamtlichen Richter kann nicht ernannt werden, wer zu dem Amt eines Schöffen unfähig ist oder nach § 33 Nr. 4 zu dem Amt eines Schöffen nicht berufen werden soll. Zum ehrenamtlichen Richter soll nicht ernannt werden, wer nach § 33 Nr. 6 zu dem Amt eines Schöffen nicht berufen werden soll.
 
-
-## § 110
+# § 110
 
 An Seeplätzen können ehrenamtliche Richter auch aus dem Kreis der Schiffahrtskundigen ernannt werden.
 
 §§ 110, 112 u. 113 Abs. 1 Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
+# § 111 – (weggefallen)
 
-## § 111 – (weggefallen)
-
-
-## § 112
+# § 112
 
 Die ehrenamtlichen Richter haben während der Dauer ihres Amts in Beziehung auf dasselbe alle Rechte und Pflichten eines Richters.
 
 §§ 110, 112 u. 113 Abs. 1 Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
-
-## § 113
+# § 113
 
 (1) Ein ehrenamtlicher Richter ist seines Amtes zu entheben, wenn er
 
@@ -1289,21 +1166,17 @@ Die ehrenamtlichen Richter haben während der Dauer ihres Amts in Beziehung auf 
 
 § 113 Abs. 1 Eingangssatz Kursivdruck: Jetzt "Handelsrichter", vgl. § 45a Deutsches Richtergesetz 301-1
 
-
-## § 114
+# § 114
 
 Über Gegenstände, zu deren Beurteilung eine kaufmännische Begutachtung genügt, sowie über das Bestehen von Handelsgebräuchen kann die Kammer für Handelssachen auf Grund eigener Sachkunde und Wissenschaft entscheiden.
 
-
-## § 115
+# § 115
 
 Die Oberlandesgerichte werden mit einem Präsidenten sowie mit Vorsitzenden Richtern und weiteren Richtern besetzt.
 
+# § 115a – (weggefallen)
 
-## § 115a – (weggefallen)
-
-
-## § 116
+# § 116
 
 (1) Bei den Oberlandesgerichten werden Zivil- und Strafsenate gebildet. Bei den nach § 120 zuständigen Oberlandesgerichten werden Ermittlungsrichter bestellt; zum Ermittlungsrichter kann auch jedes Mitglied eines anderen Oberlandesgerichts, das in dem in § 120 bezeichneten Gebiet seinen Sitz hat, bestellt werden.
 
@@ -1311,18 +1184,15 @@ Die Oberlandesgerichte werden mit einem Präsidenten sowie mit Vorsitzenden Rich
 
 (3) Die Landesregierungen können die Ermächtigung nach Absatz 2 auf die Landesjustizverwaltungen übertragen.
 
-
-## § 117
+# § 117
 
 Die Vorschrift des § 70 Abs. 1 ist entsprechend anzuwenden.
 
-
-## § 118
+# § 118
 
 Die Oberlandesgerichte sind in bürgerlichen Rechtsstreitigkeiten im ersten Rechtszug zuständig für die Verhandlung und Entscheidung über Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz.
 
-
-## § 119
+# § 119
 
 (1) Die Oberlandesgerichte sind in Zivilsachen zuständig für die Verhandlung und Entscheidung über die Rechtsmittel:
 
@@ -1338,8 +1208,7 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 (3) In Zivilsachen sind Oberlandesgerichte ferner zuständig für die Verhandlung und Entscheidung von Musterfeststellungsverfahren nach Buch 6 der Zivilprozessordnung im ersten Rechtszug. Ein Land, in dem mehrere Oberlandesgerichte errichtet sind, kann durch Rechtsverordnung der Landesregierung einem Oberlandesgericht die Entscheidung und Verhandlung für die Bezirke mehrerer Oberlandesgerichte oder dem Obersten Landesgericht zuweisen, sofern die Zuweisung für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 119a
+# § 119a
 
 (1) Bei den Oberlandesgerichten werden ein oder mehrere Zivilsenate für folgende Sachgebiete gebildet:
 
@@ -1361,8 +1230,7 @@ b) in den Angelegenheiten der freiwilligen Gerichtsbarkeit mit Ausnahme der Frei
 
 (3) Den Zivilsenaten nach den Absätzen 1 und 2 können auch Streitigkeiten nach § 119 Absatz 1 zugewiesen werden.
 
-
-## § 120
+# § 120
 
 (1) In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die Landesregierungen ihren Sitz haben, für das Gebiet des Landes zuständig für die Verhandlung und Entscheidung im ersten Rechtszug
 
@@ -1420,20 +1288,17 @@ Eine besondere Bedeutung des Falles ist auch anzunehmen, wenn in den Fällen des
 
 (7) Soweit die Länder aufgrund von Strafverfahren, in denen die Oberlandesgerichte in Ausübung von Gerichtsbarkeit des Bundes entscheiden, Verfahrenskosten und Auslagen von Verfahrensbeteiligten zu tragen oder Entschädigungen zu leisten haben, können sie vom Bund Erstattung verlangen.
 
-
-## § 120a
+# § 120a
 
 (1) Hat im ersten Rechtszug ein Strafsenat die Anordnung der Sicherungsverwahrung vorbehalten oder im Fall des § 66b des Strafgesetzbuches als Tatgericht entschieden, ist dieser Strafsenat im ersten Rechtszug für die Verhandlung und Entscheidung über die im Urteil vorbehaltene oder die nachträgliche Anordnung der Sicherungsverwahrung zuständig.
 
 (2) Im Fall des § 66b des Strafgesetzbuches gilt § 462a Abs. 3 Satz 2 und 3 der Strafprozessordnung entsprechend.
 
-
-## § 120b
+# § 120b
 
 In Strafsachen sind die Oberlandesgerichte, in deren Bezirk die Landesregierungen ihren Sitz haben, zuständig für die Verhandlung und Entscheidung im ersten Rechtszug bei Bestechlichkeit und Bestechung von Mandatsträgern (§ 108e des Strafgesetzbuches). § 120 Absatz 3 und 5 gilt entsprechend.
 
-
-## § 121
+# § 121
 
 (1) Die Oberlandesgerichte sind in Strafsachen ferner zuständig für die Verhandlung und Entscheidung über die Rechtsmittel:
 
@@ -1465,48 +1330,39 @@ eines anderen Oberlandesgerichtes oder von einer Entscheidung des Bundesgerichts
 
 (3) Ein Land, in dem mehrere Oberlandesgerichte errichtet sind, kann durch Rechtsverordnung der Landesregierung die Entscheidungen nach Absatz 1 Nr. 3 einem Oberlandesgericht für die Bezirke mehrerer Oberlandesgerichte oder dem Obersten Landesgericht zuweisen, sofern die Zuweisung für eine sachdienliche Förderung oder schnellere Erledigung der Verfahren zweckmäßig ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 122
+# § 122
 
 (1) Die Senate der Oberlandesgerichte entscheiden, soweit nicht nach den Vorschriften der Prozeßgesetze an Stelle des Senats der Einzelrichter zu entscheiden hat, in der Besetzung von drei Mitgliedern mit Einschluß des Vorsitzenden.
 
 (2) Die Strafsenate entscheiden über die Eröffnung des Hauptverfahrens des ersten Rechtszuges mit einer Besetzung von fünf Richtern einschließlich des Vorsitzenden. Bei der Eröffnung des Hauptverfahrens beschließt der Strafsenat, daß er in der Hauptverhandlung mit drei Richtern einschließlich des Vorsitzenden besetzt ist, wenn nicht nach dem Umfang oder der Schwierigkeit der Sache die Mitwirkung zweier weiterer Richter notwendig erscheint. Über die Einstellung des Hauptverfahrens wegen eines Verfahrenshindernisses entscheidet der Strafsenat in der für die Hauptverhandlung bestimmten Besetzung. Ist eine Sache vom Revisionsgericht zurückverwiesen worden, kann der nunmehr zuständige Strafsenat erneut nach Satz 2 über seine Besetzung beschließen.
 
-
-## § 123
+# § 123
 
 Sitz des Bundesgerichtshofes ist Karlsruhe.
 
-
-## § 124
+# § 124
 
 Der Bundesgerichtshof wird mit einem Präsidenten sowie mit Vorsitzenden Richtern und weiteren Richtern besetzt.
 
-
-## § 125
+# § 125
 
 (1) Die Mitglieder des Bundesgerichtshofes werden durch den Bundesminister der Justiz und für Verbraucherschutz gemeinsam mit dem Richterwahlausschuß gemäß dem Richterwahlgesetz berufen und vom Bundespräsidenten ernannt.
 
 (2) Zum Mitglied des Bundesgerichtshofes kann nur berufen werden, wer das fünfunddreißigste Lebensjahr vollendet hat.
 
+# §§ 126 bis 129 – (weggefallen)
 
-## §§ 126 bis 129 – (weggefallen)
-
-
-## § 130
+# § 130
 
 (1) Bei dem Bundesgerichtshof werden Zivil- und Strafsenate gebildet und Ermittlungsrichter bestellt. Ihre Zahl bestimmt der Bundesminister der Justiz und für Verbraucherschutz.
 
 (2) Der Bundesminister der Justiz und für Verbraucherschutz wird ermächtigt, Zivil- und Strafsenate auch außerhalb des Sitzes des Bundesgerichtshofes zu bilden und die Dienstsitze für Ermittlungsrichter des Bundesgerichtshofes zu bestimmen.
 
+# § 131 – (weggefallen)
 
-## § 131 – (weggefallen)
+# § 131a – (weggefallen)
 
-
-## § 131a – (weggefallen)
-
-
-## § 132
+# § 132
 
 (1) Beim Bundesgerichtshof werden ein Großer Senat für Zivilsachen und ein Großer Senat für Strafsachen gebildet. Die Großen Senate bilden die Vereinigten Großen Senate.
 
@@ -1520,19 +1376,15 @@ Der Bundesgerichtshof wird mit einem Präsidenten sowie mit Vorsitzenden Richter
 
 (6) Die Mitglieder und die Vertreter werden durch das Präsidium für ein Geschäftsjahr bestellt. Dies gilt auch für das Mitglied eines anderen Senats nach Absatz 5 Satz 2 und für seinen Vertreter. Den Vorsitz in den Großen Senaten und den Vereinigten Großen Senaten führt der Präsident, bei Verhinderung das dienstälteste Mitglied. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
-
-## § 133
+# § 133
 
 In Zivilsachen ist der Bundesgerichtshof zuständig für die Verhandlung und Entscheidung über die Rechtsmittel der Revision, der Sprungrevision, der Rechtsbeschwerde und der Sprungrechtsbeschwerde.
 
+# § 134 – (weggefallen)
 
-## § 134 – (weggefallen)
+# § 134a – (weggefallen)
 
-
-## § 134a – (weggefallen)
-
-
-## § 135
+# § 135
 
 (1) In Strafsachen ist der Bundesgerichtshof zuständig zur Verhandlung und Entscheidung über das Rechtsmittel der Revision gegen die Urteile der Oberlandesgerichte im ersten Rechtszug sowie gegen die Urteile der Landgerichte im ersten Rechtszug, soweit nicht die Zuständigkeit der Oberlandesgerichte begründet ist.
 
@@ -1544,14 +1396,11 @@ In Zivilsachen ist der Bundesgerichtshof zuständig für die Verhandlung und Ent
 
 3. Einwände gegen die Besetzung eines Oberlandesgerichts im Fall des § 222b Absatz 3 Satz 1 der Strafprozessordnung.
 
+# § 136 – (weggefallen)
 
-## § 136 – (weggefallen)
+# § 137 – (weggefallen)
 
-
-## § 137 – (weggefallen)
-
-
-## § 138
+# § 138
 
 (1) Die Großen Senate und die Vereinigten Großen Senate entscheiden nur über die Rechtsfrage. Sie können ohne mündliche Verhandlung entscheiden. Die Entscheidung ist in der vorliegenden Sache für den erkennenden Senat bindend.
 
@@ -1559,20 +1408,17 @@ In Zivilsachen ist der Bundesgerichtshof zuständig für die Verhandlung und Ent
 
 (3) Erfordert die Entscheidung der Sache eine erneute mündliche Verhandlung vor dem erkennenden Senat, so sind die Beteiligten unter Mitteilung der ergangenen Entscheidung der Rechtsfrage zu der Verhandlung zu laden.
 
-
-## § 139
+# § 139
 
 (1) Die Senate des Bundesgerichtshofes entscheiden in der Besetzung von fünf Mitgliedern einschließlich des Vorsitzenden.
 
 (2) Die Strafsenate entscheiden über Beschwerden in der Besetzung von drei Mitgliedern einschließlich des Vorsitzenden. Dies gilt nicht für die Entscheidung über Beschwerden gegen Beschlüsse, durch welche die Eröffnung des Hauptverfahrens abgelehnt oder das Verfahren wegen eines Verfahrenshindernisses eingestellt wird.
 
-
-## § 140
+# § 140
 
 Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die das Plenum beschließt.
 
-
-## § 140a
+# § 140a
 
 (1) Im Wiederaufnahmeverfahren entscheidet ein anderes Gericht mit gleicher sachlicher Zuständigkeit als das Gericht, gegen dessen Entscheidung sich der Antrag auf Wiederaufnahme des Verfahrens richtet. Über einen Antrag gegen ein im Revisionsverfahren erlassenes Urteil entscheidet ein anderes Gericht der Ordnung des Gerichts, gegen dessen Urteil die Revision eingelegt war.
 
@@ -1588,13 +1434,11 @@ Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die das Plenum be
 
 (7) Für Entscheidungen über Anträge zur Vorbereitung eines Wiederaufnahmeverfahrens gelten die Absätze 1 bis 6 entsprechend.
 
-
-## § 141
+# § 141
 
 Bei jedem Gericht soll eine Staatsanwaltschaft bestehen.
 
-
-## § 142
+# § 142
 
 (1) Das Amt der Staatsanwaltschaft wird ausgeübt:
 
@@ -1608,8 +1452,7 @@ Bei jedem Gericht soll eine Staatsanwaltschaft bestehen.
 
 (3) Referendaren kann die Wahrnehmung der Aufgaben eines Amtsanwalts und im Einzelfall die Wahrnehmung der Aufgaben eines Staatsanwalts unter dessen Aufsicht übertragen werden.
 
-
-## § 142a
+# § 142a
 
 (1) Der Generalbundesanwalt übt in den zur Zuständigkeit von Oberlandesgerichten im ersten Rechtszug gehörenden Strafsachen gemäß § 120 Absatz 1 und 2 das Amt der Staatsanwaltschaft auch bei diesen Gerichten aus. Für die Übernahme der Strafverfolgung durch den Generalbundesanwalt genügt es, dass zureichende tatsächliche Anhaltspunkte für die seine Zuständigkeit begründenden Voraussetzungen gegeben sind. Vorgänge, die Anlass zu der Prüfung einer Übernahme der Strafverfolgung durch den Generalbundesanwalt geben, übersendet die Staatsanwaltschaft diesem unverzüglich. Können in den Fällen des § 120 Abs. 1 die Beamten der Staatsanwaltschaft eines Landes und der Generalbundesanwalt sich nicht darüber einigen, wer von ihnen die Verfolgung zu übernehmen hat, so entscheidet der Generalbundesanwalt.
 
@@ -1635,15 +1478,13 @@ d) Straftaten nach § 52 Abs. 2 des Patentgesetzes, nach § 9 Abs. 2 des Gebrauc
 
 (4) Der Generalbundesanwalt gibt eine Sache, die er nach § 120 Abs. 2 Satz 1 Nr. 2 bis 4 oder § 74a Abs. 2 übernommen hat, wieder an die Landesstaatsanwaltschaft ab, wenn eine besondere Bedeutung des Falles nicht mehr vorliegt.
 
-
-## § 142b – Europäische Staatsanwaltschaft
+# § 142b – Europäische Staatsanwaltschaft
 
 (1) In Verfahren, in denen die Europäische Staatsanwaltschaft nach den Artikeln 22 und 23 der Verordnung (EU) 2017/1939 des Rates vom 12. Oktober 2017 zur Durchführung einer Verstärkten Zusammenarbeit zur Errichtung der Europäischen Staatsanwaltschaft (EUStA) (ABl. L 283 vom 31.10.2017, S. 1) zuständig ist und gemäß Artikel 25 dieser Verordnung die Verfolgung übernommen hat, wird das Amt der Staatsanwaltschaft durch Staatsanwälte ausgeübt, die zugleich als Delegierte Europäische Staatsanwälte für die Bundesrepublik Deutschland gemäß dieser Verordnung ernannt sind. Bei Verfahren vor dem Bundesgerichtshof wird das Amt der Staatsanwaltschaft durch einen Bundesanwalt ausgeübt, der zugleich als Delegierter Europäischer Staatsanwalt gemäß der Verordnung (EU) 2017/1939 ernannt ist. Wird der gemäß der Verordnung (EU) 2017/1939 für die Bundesrepublik Deutschland ernannte Europäische Staatsanwalt gemäß Artikel 28 Absatz 4 dieser Verordnung tätig, wird das Amt der Staatsanwaltschaft durch diesen ausgeübt.
 
 (2) Im Falle des Artikels 25 Absatz 6 der Verordnung (EU) 2017/1939 entscheidet der Generalbundesanwalt auf Antrag der betroffenen Staatsanwaltschaft oder der Europäischen Staatsanwaltschaft. Gegen die Entscheidung des Generalbundesanwalts kann die betroffene Staatsanwaltschaft oder die Europäische Staatsanwaltschaft Beschwerde beim Bundesgerichtshof erheben.
 
-
-## § 143
+# § 143
 
 (1) Die örtliche Zuständigkeit der Staatsanwaltschaft bestimmt sich nach der örtlichen Zuständigkeit des Gerichts, bei dem die Staatsanwaltschaft besteht. Fehlt es im Geltungsbereich dieses Gesetzes an einem zuständigen Gericht oder ist dieses nicht ermittelt, ist die zuerst mit der Sache befasste Staatsanwaltschaft zuständig. Ergibt sich in den Fällen des Satzes 2 die Zuständigkeit eines Gerichts, ist das Verfahren an die nach Satz 1 zuständige Staatsanwaltschaft abzugeben, sobald alle notwendigen verfahrenssichernden Maßnahmen ergriffen worden sind und der Verfahrensstand eine geordnete Abgabe zulässt. Satz 3 gilt entsprechend, wenn die Zuständigkeit einer Staatsanwaltschaft entfallen ist und eine andere Staatsanwaltschaft zuständig geworden ist.
 
@@ -1657,28 +1498,23 @@ d) Straftaten nach § 52 Abs. 2 des Patentgesetzes, nach § 9 Abs. 2 des Gebrauc
 
 (6) Abweichend von Absatz 1 Satz 1 sind die in der Bundesrepublik Deutschland als Delegierte Europäische Staatsanwälte gemäß der Verordnung (EU) 2017/1939 ernannten Staatsanwälte unabhängig von ihrem Dienstsitz für alle Strafsachen im Geltungsbereich dieses Gesetzes zuständig, mit denen sie nach Maßgabe der Verordnung (EU) 2017/1939 befasst sind. Satz 1 gilt entsprechend für den deutschen Europäischen Staatsanwalt, der gemäß Artikel 28 Absatz 4 der Verordnung (EU) 2017/1939 tätig wird.
 
-
-## § 144
+# § 144
 
 Besteht die Staatsanwaltschaft eines Gerichts aus mehreren Beamten, so handeln die dem ersten Beamten beigeordneten Personen als dessen Vertreter; sie sind, wenn sie für ihn auftreten, zu allen Amtsverrichtungen desselben ohne den Nachweis eines besonderen Auftrags berechtigt.
 
-
-## § 145
+# § 145
 
 (1) Die ersten Beamten der Staatsanwaltschaft bei den Oberlandesgerichten und den Landgerichten sind befugt, bei allen Gerichten ihres Bezirks die Amtsverrichtungen der Staatsanwaltschaft selbst zu übernehmen oder mit ihrer Wahrnehmung einen anderen als den zunächst zuständigen Beamten zu beauftragen.
 
 (2) Amtsanwälte können das Amt der Staatsanwaltschaft nur bei den Amtsgerichten versehen.
 
+# § 145a – (weggefallen)
 
-## § 145a – (weggefallen)
-
-
-## § 146
+# § 146
 
 Die Beamten der Staatsanwaltschaft haben den dienstlichen Anweisungen ihres Vorgesetzten nachzukommen.
 
-
-## § 147
+# § 147
 
 Das Recht der Aufsicht und Leitung steht zu:
 
@@ -1688,35 +1524,29 @@ Das Recht der Aufsicht und Leitung steht zu:
 
 3. dem ersten Beamten der Staatsanwaltschaft bei den Oberlandesgerichten und den Landgerichten hinsichtlich aller Beamten der Staatsanwaltschaft ihres Bezirks.
 
-
-## § 148
+# § 148
 
 Der Generalbundesanwalt und die Bundesanwälte sind Beamte.
 
-
-## § 149
+# § 149
 
 Der Generalbundesanwalt und die Bundesanwälte werden auf Vorschlag des Bundesministers der Justiz und für Verbraucherschutz, der der Zustimmung des Bundesrates bedarf, vom Bundespräsidenten ernannt.
 
-
-## § 150
+# § 150
 
 Die Staatsanwaltschaft ist in ihren amtlichen Verrichtungen von den Gerichten unabhängig.
 
-
-## § 151
+# § 151
 
 Die Staatsanwälte dürfen richterliche Geschäfte nicht wahrnehmen. Auch darf ihnen eine Dienstaufsicht über die Richter nicht übertragen werden.
 
-
-## § 152
+# § 152
 
 (1) Die Ermittlungspersonen der Staatsanwaltschaft sind in dieser Eigenschaft verpflichtet, den Anordnungen der Staatsanwaltschaft ihres Bezirks und der dieser vorgesetzten Beamten Folge zu leisten.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung diejenigen Beamten- und Angestelltengruppen zu bezeichnen, auf die diese Vorschrift anzuwenden ist. Die Angestellten müssen im öffentlichen Dienst stehen, das 21. Lebensjahr vollendet haben und mindestens zwei Jahre in den bezeichneten Beamten- oder Angestelltengruppen tätig gewesen sein. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 153
+# § 153
 
 (1) Bei jedem Gericht und jeder Staatsanwaltschaft wird eine Geschäftsstelle eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten besetzt wird.
 
@@ -1734,18 +1564,15 @@ Die Staatsanwälte dürfen richterliche Geschäfte nicht wahrnehmen. Auch darf i
 
 (5) Der Bund und die Länder können ferner bestimmen, daß mit Aufgaben eines Urkundsbeamten der Geschäftsstelle auch betraut werden kann, wer auf dem Sachgebiet, das ihm übertragen werden soll, einen Wissens- und Leistungsstand aufweist, der dem durch die Ausbildung nach Absatz 2 vermittelten Stand gleichwertig ist. In den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen dürfen solche Personen weiterhin mit den Aufgaben eines Urkundsbeamten der Geschäftsstelle betraut werden, die bis zum 25. April 2006 gemäß Anlage I Kapitel III Sachgebiet A Abschnitt III Nr. 1 Buchstabe q Abs. 1 zum Einigungsvertrag vom 31. August 1990 (BGBl. 1990 II S. 889, 922) mit diesen Aufgaben betraut worden sind.
 
-
-## § 154
+# § 154
 
 Die Dienst- und Geschäftsverhältnisse der mit den Zustellungen, Ladungen und Vollstreckungen zu betrauenden Beamten (Gerichtsvollzieher) werden bei dem Bundesgerichtshof durch den Bundesminister der Justiz und für Verbraucherschutz, bei den Landesgerichten durch die Landesjustizverwaltung bestimmt.
 
-
-## § 155
+# § 155
 
 Der Gerichtsvollzieher ist von der Ausübung seines Amts kraft Gesetzes ausgeschlossen:
 
-I.  
-in bürgerlichen Rechtsstreitigkeiten:
+I. in bürgerlichen Rechtsstreitigkeiten:
 
 1. wenn er selbst Partei oder gesetzlicher Vertreter einer Partei ist oder zu einer Partei in dem Verhältnis eines Mitberechtigten, Mitverpflichteten oder Schadensersatzpflichtigen steht;
 
@@ -1761,81 +1588,67 @@ II. in Strafsachen:
 
 3. wenn er mit dem Beschuldigten oder Verletzten in dem unter Nummer I 3 bezeichneten Verwandtschafts- oder Schwägerschaftsverhältnis steht oder stand.
 
-
-## § 156
+# § 156
 
 Die Gerichte haben sich in Zivilsachen und in Strafsachen Rechtshilfe zu leisten.
 
-
-## § 157
+# § 157
 
 (1) Das Ersuchen um Rechtshilfe ist an das Amtsgericht zu richten, in dessen Bezirk die Amtshandlung vorgenommen werden soll.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Erledigung von Rechtshilfeersuchen für die Bezirke mehrerer Amtsgerichte einem von ihnen ganz oder teilweise zuzuweisen, sofern dadurch der Rechtshilfeverkehr erleichtert oder beschleunigt wird. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 158
+# § 158
 
 (1) Das Ersuchen darf nicht abgelehnt werden.
 
 (2) Das Ersuchen eines nicht im Rechtszuge vorgesetzten Gerichts ist jedoch abzulehnen, wenn die vorzunehmende Handlung nach dem Recht des ersuchten Gerichts verboten ist. Ist das ersuchte Gericht örtlich nicht zuständig, so gibt es das Ersuchen an das zuständige Gericht ab.
 
-
-## § 159
+# § 159
 
 (1) Wird das Ersuchen abgelehnt oder wird der Vorschrift des § 158 Abs 2 zuwider dem Ersuchen stattgegeben, so entscheidet das Oberlandesgericht, zu dessen Bezirk das ersuchte Gericht gehört. Die Entscheidung ist nur anfechtbar, wenn sie die Rechtshilfe für unzulässig erklärt und das ersuchende und das ersuchte Gericht den Bezirken verschiedener Oberlandesgerichte angehören. Über die Beschwerde entscheidet der Bundesgerichtshof.
 
 (2) Die Entscheidungen ergehen auf Antrag der Beteiligten oder des ersuchenden Gerichts ohne mündliche Verhandlung.
 
-
-## § 160
+# § 160
 
 Vollstreckungen, Ladungen und Zustellungen werden nach Vorschrift der Prozeßordnungen bewirkt ohne Rücksicht darauf, ob sie in dem Land, dem das Prozeßgericht angehört, oder in einem anderen deutschen Land vorzunehmen sind.
 
-
-## § 161
+# § 161
 
 Gerichte, Staatsanwaltschaften und Geschäftsstellen der Gerichte können wegen Erteilung eines Auftrags an einen Gerichtsvollzieher die Mitwirkung der Geschäftsstelle des Amtsgerichts in Anspruch nehmen, in dessen Bezirk der Auftrag ausgeführt werden soll. Der von der Geschäftsstelle beauftragte Gerichtsvollzieher gilt als unmittelbar beauftragt.
 
-
-## § 162
+# § 162
 
 Hält sich ein zu einer Freiheitsstrafe Verurteilter außerhalb des Bezirks der Strafvollstreckungsbehörde auf, so kann diese Behörde die Staatsanwaltschaft des Landgerichts, in dessen Bezirk sich der Verurteilte befindet, um die Vollstreckung der Strafe ersuchen.
 
-
-## § 163
+# § 163
 
 Soll eine Freiheitsstrafe in dem Bezirk eines anderen Gerichts vollstreckt oder ein in dem Bezirk eines anderen Gerichts befindlicher Verurteilter zum Zwecke der Strafverbüßung ergriffen und abgeliefert werden, so ist die Staatsanwaltschaft bei dem Landgericht des Bezirks um die Ausführung zu ersuchen.
 
-
-## § 164
+# § 164
 
 (1) Kosten und Auslagen der Rechtshilfe werden von der ersuchenden Behörde nicht erstattet.
 
 (2) Gebühren oder andere öffentliche Abgaben, denen die von der ersuchenden Behörde übersendeten Schriftstücke (Urkunden, Protokolle) nach dem Recht der ersuchten Behörde unterliegen, bleiben außer Ansatz.
 
+# § 165 – (weggefallen)
 
-## § 165 – (weggefallen)
-
-
-## § 166
+# § 166
 
 Ein Gericht darf Amtshandlungen im Geltungsbereich dieses Gesetzes auch außerhalb seines Bezirks vornehmen.
 
-
-## § 167
+# § 167
 
 (1) Die Polizeibeamten eines deutschen Landes sind ermächtigt, die Verfolgung eines Flüchtigen auf das Gebiet eines anderen deutschen Landes fortzusetzen und den Flüchtigen dort zu ergreifen.
 
 (2) Der Ergriffene ist unverzüglich an das nächste Gericht oder die nächste Polizeibehörde des Landes, in dem er ergriffen wurde, abzuführen.
 
-
-## § 168
+# § 168
 
 Die in einem deutschen Land bestehenden Vorschriften über die Mitteilung von Akten einer öffentlichen Behörde an ein Gericht dieses Landes sind auch dann anzuwenden, wenn das ersuchende Gericht einem anderen deutschen Land angehört.
 
-
-## § 169
+# § 169
 
 (1) Die Verhandlung vor dem erkennenden Gericht einschließlich der Verkündung der Urteile und Beschlüsse ist öffentlich. Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der öffentlichen Vorführung oder Veröffentlichung ihres Inhalts sind unzulässig. Die Tonübertragung in einen Arbeitsraum für Personen, die für Presse, Hörfunk, Fernsehen oder für andere Medien berichten, kann von dem Gericht zugelassen werden. Die Tonübertragung kann zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter oder zur Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens teilweise untersagt werden. Im Übrigen gilt für den in den Arbeitsraum übertragenen Ton Satz 2 entsprechend.
 
@@ -1845,23 +1658,19 @@ Die in einem deutschen Land bestehenden Vorschriften über die Mitteilung von Ak
 
 (4) Die Beschlüsse des Gerichts nach den Absätzen 1 bis 3 sind unanfechtbar.
 
-
-## § 170
+# § 170
 
 (1) Verhandlungen, Erörterungen und Anhörungen in Familiensachen sowie in Angelegenheiten der freiwilligen Gerichtsbarkeit sind nicht öffentlich. Das Gericht kann die Öffentlichkeit zulassen, jedoch nicht gegen den Willen eines Beteiligten. In Betreuungs- und Unterbringungssachen ist auf Verlangen des Betroffenen einer Person seines Vertrauens die Anwesenheit zu gestatten.
 
 (2) Das Rechtsbeschwerdegericht kann die Öffentlichkeit zulassen, soweit nicht das Interesse eines Beteiligten an der nicht öffentlichen Erörterung überwiegt.
 
+# § 171 – (weggefallen)
 
-## § 171 – (weggefallen)
-
-
-## § 171a
+# § 171a
 
 Die Öffentlichkeit kann für die Hauptverhandlung oder für einen Teil davon ausgeschlossen werden, wenn das Verfahren die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus oder einer Entziehungsanstalt, allein oder neben einer Strafe, zum Gegenstand hat.
 
-
-## § 171b
+# § 171b
 
 (1) Die Öffentlichkeit kann ausgeschlossen werden, soweit Umstände aus dem persönlichen Lebensbereich eines Prozessbeteiligten, eines Zeugen oder eines durch eine rechtswidrige Tat (§ 11 Absatz 1 Nummer 5 des Strafgesetzbuchs) Verletzten zur Sprache kommen, deren öffentliche Erörterung schutzwürdige Interessen verletzen würde. Das gilt nicht, soweit das Interesse an der öffentlichen Erörterung dieser Umstände überwiegt. Die besonderen Belastungen, die für Kinder und Jugendliche mit einer öffentlichen Hauptverhandlung verbunden sein können, sind dabei zu berücksichtigen. Entsprechendes gilt bei volljährigen Personen, die als Kinder oder Jugendliche durch die Straftat verletzt worden sind.
 
@@ -1873,15 +1682,13 @@ Die Öffentlichkeit kann für die Hauptverhandlung oder für einen Teil davon au
 
 (5) Die Entscheidungen nach den Absätzen 1 bis 4 sind unanfechtbar.
 
-
-## § 172
+# § 172
 
 Das Gericht kann für die Verhandlung oder für einen Teil davon die Öffentlichkeit ausschließen, wenn
 
 1. eine Gefährdung der Staatssicherheit, der öffentlichen Ordnung oder der Sittlichkeit zu besorgen ist,
 
-1a.  
-eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder einer anderen Person zu besorgen ist,
+1a. eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder einer anderen Person zu besorgen ist,
 
 2. ein wichtiges Geschäfts-, Betriebs-, Erfindungs- oder Steuergeheimnis zur Sprache kommt, durch dessen öffentliche Erörterung überwiegende schutzwürdige Interessen verletzt würden,
 
@@ -1889,15 +1696,13 @@ eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder eine
 
 4. eine Person unter 18 Jahren vernommen wird.
 
-
-## § 173
+# § 173
 
 (1) Die Verkündung des Urteils sowie der Endentscheidung in Ehesachen und Familienstreitsachen erfolgt in jedem Falle öffentlich.
 
 (2) Durch einen besonderen Beschluß des Gerichts kann unter den Voraussetzungen der §§ 171b und 172 auch für die Verkündung der Entscheidungsgründe oder eines Teiles davon die Öffentlichkeit ausgeschlossen werden.
 
-
-## § 174
+# § 174
 
 (1) Über die Ausschließung der Öffentlichkeit ist in nicht öffentlicher Sitzung zu verhandeln, wenn ein Beteiligter es beantragt oder das Gericht es für angemessen erachtet. Der Beschluß, der die Öffentlichkeit ausschließt, muß öffentlich verkündet werden; er kann in nicht öffentlicher Sitzung verkündet werden, wenn zu befürchten ist, daß seine öffentliche Verkündung eine erhebliche Störung der Ordnung in der Sitzung zur Folge haben würde. Bei der Verkündung ist in den Fällen der §§ 171b, 172 und 173 anzugeben, aus welchem Grund die Öffentlichkeit ausgeschlossen worden ist.
 
@@ -1905,8 +1710,7 @@ eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder eine
 
 (3) Ist die Öffentlichkeit wegen Gefährdung der Staatssicherheit oder aus den in §§ 171b und 172 Nr. 2 und 3 bezeichneten Gründen ausgeschlossen, so kann das Gericht den anwesenden Personen die Geheimhaltung von Tatsachen, die durch die Verhandlung oder durch ein die Sache betreffendes amtliches Schriftstück zu ihrer Kenntnis gelangen, zur Pflicht machen. Der Beschluß ist in das Sitzungsprotokoll aufzunehmen. Er ist anfechtbar. Die Beschwerde hat keine aufschiebende Wirkung.
 
-
-## § 175
+# § 175
 
 (1) Der Zutritt zu öffentlichen Verhandlungen kann unerwachsenen und solchen Personen versagt werden, die in einer der Würde des Gerichts nicht entsprechenden Weise erscheinen.
 
@@ -1914,20 +1718,17 @@ eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder eine
 
 (3) Die Ausschließung der Öffentlichkeit steht der Anwesenheit der die Dienstaufsicht führenden Beamten der Justizverwaltung bei den Verhandlungen vor dem erkennenden Gericht nicht entgegen.
 
-
-## § 176
+# § 176
 
 (1) Die Aufrechterhaltung der Ordnung in der Sitzung obliegt dem Vorsitzenden.
 
 (2) An der Verhandlung beteiligte Personen dürfen ihr Gesicht während der Sitzung weder ganz noch teilweise verhüllen. Der Vorsitzende kann Ausnahmen gestatten, wenn und soweit die Kenntlichmachung des Gesichts weder zur Identitätsfeststellung noch zur Beweiswürdigung notwendig ist.
 
-
-## § 177
+# § 177
 
 Parteien, Beschuldigte, Zeugen, Sachverständige oder bei der Verhandlung nicht beteiligte Personen, die den zur Aufrechterhaltung der Ordnung getroffenen Anordnungen nicht Folge leisten, können aus dem Sitzungszimmer entfernt sowie zur Ordnungshaft abgeführt und während einer zu bestimmenden Zeit, die vierundzwanzig Stunden nicht übersteigen darf, festgehalten werden. Über Maßnahmen nach Satz 1 entscheidet gegenüber Personen, die bei der Verhandlung nicht beteiligt sind, der Vorsitzende, in den übrigen Fällen das Gericht.
 
-
-## § 178
+# § 178
 
 (1) Gegen Parteien, Beschuldigte, Zeugen, Sachverständige oder bei der Verhandlung nicht beteiligte Personen, die sich in der Sitzung einer Ungebühr schuldig machen, kann vorbehaltlich der strafgerichtlichen Verfolgung ein Ordnungsgeld bis zu eintausend Euro oder Ordnungshaft bis zu einer Woche festgesetzt und sofort vollstreckt werden. Bei der Festsetzung von Ordnungsgeld ist zugleich für den Fall, daß dieses nicht beigetrieben werden kann, zu bestimmen, in welchem Maße Ordnungshaft an seine Stelle tritt.
 
@@ -1935,18 +1736,15 @@ Parteien, Beschuldigte, Zeugen, Sachverständige oder bei der Verhandlung nicht 
 
 (3) Wird wegen derselben Tat später auf Strafe erkannt, so sind das Ordnungsgeld oder die Ordnungshaft auf die Strafe anzurechnen.
 
-
-## § 179
+# § 179
 
 Die Vollstreckung der vorstehend bezeichneten Ordnungsmittel hat der Vorsitzende unmittelbar zu veranlassen.
 
-
-## § 180
+# § 180
 
 Die in den §§ 176 bis 179 bezeichneten Befugnisse stehen auch einem einzelnen Richter bei der Vornahme von Amtshandlungen außerhalb der Sitzung zu.
 
-
-## § 181
+# § 181
 
 (1) Ist in den Fällen der §§ 178, 180 ein Ordnungsmittel festgesetzt, so kann gegen die Entscheidung binnen der Frist von einer Woche nach ihrer Bekanntmachung Beschwerde eingelegt werden, sofern sie nicht von dem Bundesgerichtshof oder einem Oberlandesgericht getroffen ist.
 
@@ -1954,23 +1752,19 @@ Die in den §§ 176 bis 179 bezeichneten Befugnisse stehen auch einem einzelnen 
 
 (3) Über die Beschwerde entscheidet das Oberlandesgericht.
 
-
-## § 182
+# § 182
 
 Ist ein Ordnungsmittel wegen Ungebühr festgesetzt oder eine Person zur Ordnungshaft abgeführt oder eine bei der Verhandlung beteiligte Person entfernt worden, so ist der Beschluß des Gerichts und dessen Veranlassung in das Protokoll aufzunehmen.
 
-
-## § 183
+# § 183
 
 Wird eine Straftat in der Sitzung begangen, so hat das Gericht den Tatbestand festzustellen und der zuständigen Behörde das darüber aufgenommene Protokoll mitzuteilen. In geeigneten Fällen ist die vorläufige Festnahme des Täters zu verfügen.
 
-
-## § 184
+# § 184
 
 Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der sorbischen Bevölkerung vor Gericht sorbisch zu sprechen, ist gewährleistet.
 
-
-## § 185
+# § 185
 
 (1) Wird unter Beteiligung von Personen verhandelt, die der deutschen Sprache nicht mächtig sind, so ist ein Dolmetscher zuzuziehen. Ein Nebenprotokoll in der fremden Sprache wird nicht geführt; jedoch sollen Aussagen und Erklärungen in fremder Sprache, wenn und soweit der Richter dies mit Rücksicht auf die Wichtigkeit der Sache für erforderlich erachtet, auch in der fremden Sprache in das Protokoll oder in eine Anlage niedergeschrieben werden. In den dazu geeigneten Fällen soll dem Protokoll eine durch den Dolmetscher zu beglaubigende Übersetzung beigefügt werden.
 
@@ -1980,8 +1774,7 @@ Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der 
 
 (3) In Familiensachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit bedarf es der Zuziehung eines Dolmetschers nicht, wenn der Richter der Sprache, in der sich die beteiligten Personen erklären, mächtig ist.
 
-
-## § 186
+# § 186
 
 (1) Die Verständigung mit einer hör- oder sprachbehinderten Person erfolgt nach ihrer Wahl mündlich, schriftlich oder mit Hilfe einer die Verständigung ermöglichenden Person, die vom Gericht hinzuzuziehen ist. Für die mündliche und schriftliche Verständigung hat das Gericht die geeigneten technischen Hilfsmittel bereitzustellen. Die hör- oder sprachbehinderte Person ist auf ihr Wahlrecht hinzuweisen.
 
@@ -1997,8 +1790,7 @@ Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der 
 
 4. ob und wie die Person mit Hör- oder Sprachbehinderung mitzuwirken hat.
 
-
-## § 187
+# § 187
 
 (1) Das Gericht zieht für den Beschuldigten oder Verurteilten, der der deutschen Sprache nicht mächtig ist, einen Dolmetscher oder Übersetzer heran, soweit dies zur Ausübung seiner strafprozessualen Rechte erforderlich ist. Das Gericht weist den Beschuldigten in einer ihm verständlichen Sprache darauf hin, dass er insoweit für das gesamte Strafverfahren die unentgeltliche Hinzuziehung eines Dolmetschers oder Übersetzers beanspruchen kann.
 
@@ -2008,13 +1800,11 @@ Die Gerichtssprache ist deutsch. Das Recht der Sorben, in den Heimatkreisen der 
 
 (4) Absatz 1 gilt entsprechend für Personen, die nach § 395 der Strafprozessordnung berechtigt sind, sich der öffentlichen Klage mit der Nebenklage anzuschließen.
 
-
-## § 188
+# § 188
 
 Personen, die der deutschen Sprache nicht mächtig sind, leisten Eide in der ihnen geläufigen Sprache.
 
-
-## § 189
+# § 189
 
 (1) Der Dolmetscher hat einen Eid dahin zu leisten, daß er treu und gewissenhaft übertragen werde. Gibt der Dolmetscher an, daß er aus Glaubens- oder Gewissensgründen keinen Eid leisten wolle, so hat er eine Bekräftigung abzugeben. Diese Bekräftigung steht dem Eid gleich; hierauf ist der Dolmetscher hinzuweisen.
 
@@ -2024,18 +1814,15 @@ Personen, die der deutschen Sprache nicht mächtig sind, leisten Eide in der ihn
 
 (4) Der Dolmetscher oder Übersetzer soll über Umstände, die ihm bei seiner Tätigkeit zur Kenntnis gelangen, Verschwiegenheit wahren. Hierauf weist ihn das Gericht hin.
 
-
-## § 190
+# § 190
 
 Der Dienst des Dolmetschers kann von dem Urkundsbeamten der Geschäftsstelle wahrgenommen werden. Einer besonderen Beeidigung bedarf es nicht.
 
-
-## § 191
+# § 191
 
 Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der Sachverständigen entsprechend anzuwenden. Es entscheidet das Gericht oder der Richter, von dem der Dolmetscher zugezogen ist.
 
-
-## § 191a
+# § 191a
 
 (1) Eine blinde oder sehbehinderte Person kann Schriftsätze und andere Dokumente in einer für sie wahrnehmbaren Form bei Gericht einreichen. Sie kann nach Maßgabe der Rechtsverordnung nach Absatz 2 verlangen, dass ihr Schriftsätze und andere Dokumente eines gerichtlichen Verfahrens barrierefrei zugänglich gemacht werden. Ist der blinden oder sehbehinderten Person Akteneinsicht zu gewähren, kann sie verlangen, dass ihr die Akteneinsicht nach Maßgabe der Rechtsverordnung nach Absatz 2 barrierefrei gewährt wird. Ein Anspruch im Sinne der Sätze 1 bis 3 steht auch einer blinden oder sehbehinderten Person zu, die von einer anderen Person mit der Wahrnehmung ihrer Rechte beauftragt oder hierfür bestellt worden ist. Auslagen für die barrierefreie Zugänglichmachung nach diesen Vorschriften werden nicht erhoben.
 
@@ -2043,8 +1830,7 @@ Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der
 
 (3) Elektronische Dokumente sind für blinde oder sehbehinderte Personen barrierefrei zu gestalten, soweit sie in Schriftzeichen wiedergegeben werden. Erfolgt die Übermittlung eines elektronischen Dokuments auf einem sicheren Übermittlungsweg, ist dieser barrierefrei auszugestalten. Sind elektronische Formulare eingeführt (§ 130c der Zivilprozessordnung, § 14a des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, § 46f des Arbeitsgerichtsgesetzes, § 65c des Sozialgerichtsgesetzes, § 55c der Verwaltungsgerichtsordnung, § 52c der Finanzgerichtsordnung), sind diese blinden oder sehbehinderten Personen barrierefrei zugänglich zu machen. Dabei sind die Standards von § 3 der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung maßgebend.
 
-
-## § 192
+# § 192
 
 (1) Bei Entscheidungen dürfen Richter nur in der gesetzlich bestimmten Anzahl mitwirken.
 
@@ -2052,8 +1838,7 @@ Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der
 
 (3) Diese Vorschriften sind auch auf Schöffen anzuwenden.
 
-
-## § 193
+# § 193
 
 (1) Bei der Beratung und Abstimmung dürfen außer den zur Entscheidung berufenen Richtern nur die bei demselben Gericht zu ihrer juristischen Ausbildung beschäftigten Personen und die dort beschäftigten wissenschaftlichen Hilfskräfte zugegen sein, soweit der Vorsitzende deren Anwesenheit gestattet.
 
@@ -2063,20 +1848,17 @@ Auf den Dolmetscher sind die Vorschriften über Ausschließung und Ablehnung der
 
 (4) Die Verpflichtung wird vom Präsidenten oder vom aufsichtsführenden Richter des Gerichts vorgenommen. Er kann diese Befugnis auf den Vorsitzenden des Spruchkörpers oder auf den Richter übertragen, dem die in Absatz 2 genannten Personen zugewiesen sind. Einer erneuten Verpflichtung bedarf es während der Dauer des Studienaufenthaltes nicht. In den Fällen des § 355 des Strafgesetzbuches ist der Richter, der die Verpflichtung vorgenommen hat, neben dem Verletzten antragsberechtigt.
 
-
-## § 194
+# § 194
 
 (1) Der Vorsitzende leitet die Beratung, stellt die Fragen und sammelt die Stimmen.
 
 (2) Meinungsverschiedenheiten über den Gegenstand, die Fassung und die Reihenfolge der Fragen oder über das Ergebnis der Abstimmung entscheidet das Gericht.
 
-
-## § 195
+# § 195
 
 Kein Richter oder Schöffe darf die Abstimmung über eine Frage verweigern, weil er bei der Abstimmung über eine vorhergegangene Frage in der Minderheit geblieben ist.
 
-
-## § 196
+# § 196
 
 (1) Das Gericht entscheidet, soweit das Gesetz nicht ein anderes bestimmt, mit der absoluten Mehrheit der Stimmen.
 
@@ -2086,13 +1868,11 @@ Kein Richter oder Schöffe darf die Abstimmung über eine Frage verweigern, weil
 
 (4) Ergibt sich in dem mit zwei Richtern und zwei Schöffen besetzten Gericht in einer Frage, über die mit einfacher Mehrheit zu entscheiden ist, Stimmengleichheit, so gibt die Stimme des Vorsitzenden den Ausschlag.
 
-
-## § 197
+# § 197
 
 Die Richter stimmen nach dem Dienstalter, bei gleichem Dienstalter nach dem Lebensalter, ehrenamtliche Richter und Schöffen nach dem Lebensalter; der jüngere stimmt vor dem älteren. Die Schöffen stimmen vor den Richtern. Wenn ein Berichterstatter ernannt ist, so stimmt er zuerst. Zuletzt stimmt der Vorsitzende.
 
-
-## § 198
+# § 198
 
 (1) Wer infolge unangemessener Dauer eines Gerichtsverfahrens als Verfahrensbeteiligter einen Nachteil erleidet, wird angemessen entschädigt. Die Angemessenheit der Verfahrensdauer richtet sich nach den Umständen des Einzelfalles, insbesondere nach der Schwierigkeit und Bedeutung des Verfahrens und nach dem Verhalten der Verfahrensbeteiligten und Dritter.
 
@@ -2110,8 +1890,7 @@ Die Richter stimmen nach dem Dienstalter, bei gleichem Dienstalter nach dem Lebe
 
 2. ein Verfahrensbeteiligter jede Partei und jeder Beteiligte eines Gerichtsverfahrens mit Ausnahme der Verfassungsorgane, der Träger öffentlicher Verwaltung und sonstiger öffentlicher Stellen, soweit diese nicht in Wahrnehmung eines Selbstverwaltungsrechts an einem Verfahren beteiligt sind.
 
-
-## § 199
+# § 199
 
 (1) Für das Strafverfahren einschließlich des Verfahrens auf Vorbereitung der öffentlichen Klage ist § 198 nach Maßgabe der Absätze 2 bis 4 anzuwenden.
 
@@ -2121,13 +1900,11 @@ Die Richter stimmen nach dem Dienstalter, bei gleichem Dienstalter nach dem Lebe
 
 (4) Ein Privatkläger ist nicht Verfahrensbeteiligter im Sinne von § 198 Absatz 6 Nummer 2.
 
-
-## § 200
+# § 200
 
 Für Nachteile, die auf Grund von Verzögerungen bei Gerichten eines Landes eingetreten sind, haftet das Land. Für Nachteile, die auf Grund von Verzögerungen bei Gerichten des Bundes eingetreten sind, haftet der Bund. Für Staatsanwaltschaften und Finanzbehörden in Fällen des § 386 Absatz 2 der Abgabenordnung gelten die Sätze 1 und 2 entsprechend.
 
-
-## § 201
+# § 201
 
 (1) Zuständig für die Klage auf Entschädigung gegen ein Land ist das Oberlandesgericht, in dessen Bezirk das streitgegenständliche Verfahren durchgeführt wurde. Zuständig für die Klage auf Entschädigung gegen den Bund ist der Bundesgerichtshof. Diese Zuständigkeiten sind ausschließliche.
 

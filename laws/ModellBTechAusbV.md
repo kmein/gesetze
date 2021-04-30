@@ -1,15 +1,11 @@
-# [ModellBTechAusbV] Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
-
-Ausfertigungsdatum: 27.05.2009
-
+% Verordnung über die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
+% Ausfertigungsdatum: 27.05.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 in Verbindung mit § 26 Absatz 1 und 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), von denen § 25 Absatz 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 durch Artikel 2 Nummer 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Technischer Modellbauer/Technische Modellbauerin wird
 
@@ -19,13 +15,11 @@ Der Ausbildungsberuf Technischer Modellbauer/Technische Modellbauerin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen:
 
@@ -35,8 +29,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 3. Anschauung.
 
-
-## § 4 – Ausbildungsrahmenplan/Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan/Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -124,8 +117,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 7, 8, 10 und 12 nachzuweisen.
 
@@ -133,15 +125,13 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung/Gesellenprüfung
+# § 6 – Abschlussprüfung/Gesellenprüfung
 
 (1) Die Abschlussprüfung/Gesellenprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung/Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung/Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung/Gesellenprüfung waren, in Teil 2 der Abschlussprüfung/Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung/Gesellenprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung/Gesellenprüfung mit 75 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Abschlussprüfung/Gesellenprüfung
+# § 7 – Teil 1 der Abschlussprüfung/Gesellenprüfung
 
 (1) Teil 1 der Abschlussprüfung/Gesellenprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -172,8 +162,7 @@ Planen und Herstellen eines Modells, einer Form, eines Musters oder eines Protot
 
 4. die Prüfungszeit für die Arbeitsaufgabe beträgt sieben Stunden. Die Aufgabenstellungen sollen einen zeitlichen Umfang von 90 Minuten haben.
 
-
-## § 8 – Teil 2 der Abschlussprüfung/ Gesellenprüfung in der Fachrichtung Gießerei
+# § 8 – Teil 2 der Abschlussprüfung/ Gesellenprüfung in der Fachrichtung Gießerei
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -268,8 +257,7 @@ Erstellen von Fertigungsunterlagen zur Herstellung einer Gießereimodelleinricht
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelung in der Fachrichtung Gießerei
+# § 9 – Gewichtungs- und Bestehensregelung in der Fachrichtung Gießerei
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -294,8 +282,7 @@ Erstellen von Fertigungsunterlagen zur Herstellung einer Gießereimodelleinricht
 
 bewertet worden sind.
 
-
-## § 10 – Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Karosserie und Produktion
+# § 10 – Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Karosserie und Produktion
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -394,8 +381,7 @@ Erstellen von Fertigungsunterlagen zur Herstellung eines Karosserie- oder Produk
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 11 – Gewichtungs- und Bestehensregelung in der Fachrichtung Karosserie und Produktion
+# § 11 – Gewichtungs- und Bestehensregelung in der Fachrichtung Karosserie und Produktion
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -420,8 +406,7 @@ Erstellen von Fertigungsunterlagen zur Herstellung eines Karosserie- oder Produk
 
 bewertet worden sind.
 
-
-## § 12 – Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Anschauung
+# § 12 – Teil 2 der Abschlussprüfung/Gesellenprüfung in der Fachrichtung Anschauung
 
 (1) Teil 2 der Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -514,8 +499,7 @@ Erstellen von Fertigungsunterlagen zur Herstellung eines Anschauungsmodells;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Gewichtungs- und Bestehensregelung in der Fachrichtung Anschauung
+# § 13 – Gewichtungs- und Bestehensregelung in der Fachrichtung Anschauung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -536,23 +520,19 @@ und Sozialkunde</td><td style="text-align: left;">10 Prozent.</td></tr></tbody><
 
 bewertet worden sind.
 
-
-## § 14 – Mündliche Ergänzungsprüfung
+# § 14 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung/Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 15 – Bestehende Berufsausbildungsverhältnisse
+# § 15 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Technischen Modellbauer/zur Technischen Modellbauerin
 
 (Fundstelle: BGBl. I 2009, 1193 - 1200)
 

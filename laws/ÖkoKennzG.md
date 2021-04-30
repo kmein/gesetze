@@ -1,10 +1,7 @@
-# [ÖkoKennzG] Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus  (Öko-Kennzeichengesetz - ÖkoKennzG)
-
-Ausfertigungsdatum: 10.12.2001
-
+% Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus  (Öko-Kennzeichengesetz - ÖkoKennzG)
+% Ausfertigungsdatum: 10.12.2001
  
-
-## § 1 – Öko-Kennzeichen
+# § 1 – Öko-Kennzeichen
 
 (1) Mit einem Kennzeichen nach Maßgabe einer Rechtsverordnung nach § 2 Abs. 2 Satz 1 Nr. 1 (Öko-Kennzeichen) darf nur in den Verkehr gebracht werden
 
@@ -22,8 +19,7 @@ in den Verkehr zu bringen.
 
 (3) Sonstige Vorschriften über die Kennzeichnung oder Etikettierung von Saatgut, Futtermitteln oder Lebensmitteln bleiben unberührt.
 
-
-## § 2 – Ermächtigungen
+# § 2 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten der Verwendung des Öko-Kennzeichens zu regeln, soweit dies erforderlich ist, um eine einheitliche Kennzeichnung oder eine eindeutige Erkennbarkeit der Erzeugnisse zu gewährleisten.
 
@@ -41,8 +37,7 @@ zu regeln. In einer Rechtsverordnung nach Satz 1 Nr. 2 kann die Aufgabe der Bund
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Union unanwendbar geworden sind.
 
-
-## § 3 – Strafvorschriften
+# § 3 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -50,8 +45,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 2. entgegen § 1 Abs. 2 Nr. 2 ein Erzeugnis oder einen Gegenstand in den Verkehr bringt.
 
-
-## § 4 – Bußgeldvorschriften
+# § 4 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine der in § 3 bezeichneten Handlungen fahrlässig begeht.
 
@@ -59,8 +53,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
-## § 5 – Einziehung
+# § 5 – Einziehung
 
 Ist eine Straftat nach § 3 oder eine Ordnungswidrigkeit nach § 4 begangen worden, so können
 
@@ -70,5 +63,4 @@ Ist eine Straftat nach § 3 oder eine Ordnungswidrigkeit nach § 4 begangen word
 
 eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 6 – (Inkrafttreten)
+# § 6 – (Inkrafttreten)

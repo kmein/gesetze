@@ -1,10 +1,7 @@
-# [RWBestV 2019] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2019  (Rentenwertbestimmungsverordnung 2019 - RWBestV 2019)
-
-Ausfertigungsdatum: 13.06.2019
-
+% Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2019  (Rentenwertbestimmungsverordnung 2019 - RWBestV 2019)
+% Ausfertigungsdatum: 13.06.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -25,34 +22,29 @@ des § 95 Absatz 1 Satz 2 des Siebten Buches Sozialgesetzbuch in der vorstehend 
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Aktueller Rentenwert und aktueller Rentenwert (Ost) in der gesetzlichen Rentenversicherung
+# § 1 – Aktueller Rentenwert und aktueller Rentenwert (Ost) in der gesetzlichen Rentenversicherung
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2019 33,05 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2019 31,89 Euro.
 
-
-## § 2 – Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
+# § 2 – Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
 
 Das Sicherungsniveau vor Steuern beträgt für das Jahr 2019 48,16 Prozent.
 
-
-## § 3 – Allgemeiner Rentenwert und allgemeiner Rentenwert (Ost) in der Alterssicherung der Landwirte
+# § 3 – Allgemeiner Rentenwert und allgemeiner Rentenwert (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2019 15,26 Euro.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2019 14,70 Euro.
 
-
-## § 4 – Anpassungsfaktor in der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+# § 4 – Anpassungsfaktor in der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2019 anzupassenden Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44 Absatz 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt 1,0318.
 
 (2) Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor dem 1. Juli 2019 eingetreten sind, werden zum 1. Juli 2019 angepasst. Der Anpassungsfaktor beträgt 1,0391.
 
-
-## § 5 – Pflegegeld der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+# § 5 – Pflegegeld der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2019 an
 
@@ -60,12 +52,10 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2019 an
 
 2. für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch anzuwenden ist, zwischen 354 Euro und 1 423 Euro.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2019 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

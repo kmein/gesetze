@@ -1,37 +1,29 @@
-# [ÖLGKontrollStZulV] Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz   (ÖLG-Kontrollstellen-Zulassungsverordnung - ÖLGKontrollStZulV)
-
-Ausfertigungsdatum: 07.05.2012
-
+% Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz   (ÖLG-Kontrollstellen-Zulassungsverordnung - ÖLGKontrollStZulV)
+% Ausfertigungsdatum: 07.05.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Absatz 1 Nummer 6 des Öko-Landbaugesetzes vom 7. Dezember 2008 (BGBl. I S. 2358) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die näheren Einzelheiten über die Voraussetzungen sowie das Verfahren der Zulassung privater Kontrollstellen nach § 4 Absatz 1 bis 4 des Öko-Landbaugesetzes.
 
-
-## § 2 – Antrag auf Zulassung
+# § 2 – Antrag auf Zulassung
 
 Der Antrag auf Zulassung ist von der Kontrollstelle schriftlich oder elektronisch bei der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) zu stellen. Im Antrag ist anzugeben, für welche der in Anlage 1 aufgeführten Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008 der Kommission vom 5. September 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen hinsichtlich der ökologischen/biologischen Produktion, Kennzeichnung und Kontrolle (ABl. L 250 vom 18.9.2008, S. 1), die zuletzt durch die Durchführungsverordnung (EU) Nr. 203/2012 (ABl. L 71 vom 9.3.2012, S. 42) geändert worden ist, in der jeweils geltenden Fassung die Zulassung beantragt wird.
 
-
-## § 3 – Antragsinhalt
+# § 3 – Antragsinhalt
 
 (1) Dem Antrag auf Zulassung als Kontrollstelle sind alle zur Prüfung der Voraussetzungen nach Artikel 27 Absatz 5 und 6 der Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 20.7.2007, S. 1), die durch die Verordnung (EG) Nr. 967/2008 (ABl. L 264 vom 3.10.2008, S. 1) geändert worden ist, in der jeweils geltenden Fassung erforderlichen Unterlagen nach Maßgabe der §§ 4 bis 11 beizufügen.
 
 (2) Dem Antrag ist eine Erklärung beizufügen, dass die Kontrollstelle sich zur Durchführung der Kontrollen nach Maßgabe der §§ 5 bis 10 verpflichtet.
 
-
-## § 4 – Qualitätsmanagement
+# § 4 – Qualitätsmanagement
 
 Dem Antrag ist das Qualitätsmanagement-Handbuch einschließlich der Verfahrensanweisungen nach Nummer 4.5.3 und der Dokumentation nach Nummer 4.8 der Norm DIN EN 45011 (Ausgabe März 1998)<span id="FnR.f776729_02"></span><a href="#f776729_02" class="FnR">1)</a></sup> beizufügen.
 
-
-## § 5 – Standardkontrollverfahren, Musterkontrollvertrag
+# § 5 – Standardkontrollverfahren, Musterkontrollvertrag
 
 (1) Die Kontrollstelle hat dem Antrag eine Darstellung des von ihr nach Artikel 27 Absatz 6 Buchstabe a der Verordnung (EG) Nr. 834/2007 vorgesehenen Standardkontrollverfahrens insbesondere nach Maßgabe der Absätze 2 bis 4 beizufügen.
 
@@ -47,8 +39,7 @@ Dem Antrag ist das Qualitätsmanagement-Handbuch einschließlich der Verfahrensa
 
 (7) Dem Antrag ist ein Muster für den Kontrollvertrag beizufügen, den die Kontrollstelle mit den Unternehmern abzuschließen beabsichtigt.
 
-
-## § 6 – Risikoanalyse
+# § 6 – Risikoanalyse
 
 (1) Die Kontrollstelle hat dem Antrag eine Verfahrensanweisung zur Durchführung einer jährlichen Risikoanalyse nach Artikel 27 Absatz 3 Satz 1 der Verordnung (EG) Nr. 834/2007 für die Betriebe der Unternehmer beizufügen, mit denen die Kontrollstelle einen Kontrollvertrag abgeschlossen hat. Die Risikoanalyse hat die Tätigkeiten beauftragter Dritter, die nach Artikel 28 Absatz 1 Satz 3 der Verordnung (EG) Nr. 834/2007 nicht selbst dem Kontrollsystem unterliegen, einzuschließen.
 
@@ -82,8 +73,7 @@ Dem Antrag ist das Qualitätsmanagement-Handbuch einschließlich der Verfahrensa
 
 Im Falle des Satzes 1 Nummer 3 sind je 100 Unternehmen, mit denen die Kontrollstelle einen Kontrollvertrag abgeschlossen hat, mindestens 10 unternehmensübergreifende Warenflusskontrollen für mindestens jeweils ein Erzeugnis einzuleiten, die durch die Kontrollstelle abzuschließen sind, mit der der Lieferant oder Abnehmer des Erzeugnisses einen Kontrollvertrag abgeschlossen hat.
 
-
-## § 7 – Durchführung von Probenahmen und Analysen
+# § 7 – Durchführung von Probenahmen und Analysen
 
 (1) Dem Antrag ist nach Maßgabe der folgenden Bestimmungen eine Verfahrensanweisung der Kontrollstelle für die Durchführung sowohl repräsentativer als auch anlassbezogener Probenahmen, einschließlich Analyse und Bewertung, beizufügen.
 
@@ -97,8 +87,7 @@ Im Falle des Satzes 1 Nummer 3 sind je 100 Unternehmen, mit denen die Kontrollst
 
 (6) Vor Beginn eines jeden Kalenderjahres ist ein Plan für voraussichtliche Probenahmen im Kalenderjahr zu erstellen.
 
-
-## § 8 – Informationspflichten
+# § 8 – Informationspflichten
 
 (1) Mit dem Antrag ist nach Maßgabe der folgenden Bestimmungen eine Verfahrensanweisung für den Informationsaustausch vorzulegen.
 
@@ -110,8 +99,7 @@ Im Falle des Satzes 1 Nummer 3 sind je 100 Unternehmen, mit denen die Kontrollst
 
 (5) Im Musterkontrollvertrag nach § 5 Absatz 7 ist ein Verfahren vorzusehen, nach dem der Unternehmer, mit dem die Kontrollstelle einen Kontrollvertrag abschließt, die Meldung nach Artikel 28 Absatz 1 Satz 1 Buchstabe a der Verordnung (EG) Nr. 834/2007 an die zuständige Landesbehörde erst nach Bestätigung der Angaben und Zuteilung der alphanumerischen Identifikationsnummer nach Maßgabe der Anlage 2 durch die Kontrollstelle vornimmt.
 
-
-## § 9 – Kontrollbesuche
+# § 9 – Kontrollbesuche
 
 (1) Mit dem Antrag ist nach Maßgabe der folgenden Bestimmungen eine Verfahrensanweisung der Kontrollstelle zur Durchführung der Erst- und Folgekontrollbesuche vorzulegen.
 
@@ -121,15 +109,13 @@ Im Falle des Satzes 1 Nummer 3 sind je 100 Unternehmen, mit denen die Kontrollst
 
 (4) Über jeden Kontrolltermin und seine Änderung ist die zuständige Landesbehörde von der Kontrollstelle unverzüglich zu informieren, soweit dies von der zuständigen Landesbehörde gefordert wird.
 
-
-## § 10 – Maßnahmenkatalog
+# § 10 – Maßnahmenkatalog
 
 (1) Mit dem Antrag hat die Kontrollstelle eine Verfahrensanweisung vorzulegen, die für den Fall der Feststellung von Abweichungen von den Vorschriften der Verordnung (EG) Nr. 834/2007 sowie der zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union die Anwendung eines Maßnahmenkatalogs nach den Vorgaben der Anlage 3 gegenüber den Unternehmern, mit denen die Kontrollstelle einen Kontrollvertrag abgeschlossen hat, vorsieht.
 
 (2) In der Verfahrensanweisung nach Absatz 1 ist im Einzelnen darzulegen, wie die Kontrollstelle im Falle der Feststellung von Abweichungen die gegebenenfalls getroffenen Abhilfemaßnahmen auferlegt und überprüft.
 
-
-## § 11 – Anforderungen an das Kontrollstellenpersonal
+# § 11 – Anforderungen an das Kontrollstellenpersonal
 
 (1) Für die Zulassung als private Kontrollstelle ist nachzuweisen, dass
 
@@ -149,8 +135,7 @@ Im Falle des Satzes 1 Nummer 3 sind je 100 Unternehmen, mit denen die Kontrollst
 
 (5) Bei der Prüfung des Antrags der Kontrollstelle auf Zulassung nach § 2 stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass das Personal die Anforderungen des Absatzes 1 Nummer 2 bis 4 erfüllt oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind. Nachweise im Sinne des Satzes 1 sind der Bundesanstalt bei Antragstellung im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 
-
-## § 12 – Zulassung
+# § 12 – Zulassung
 
 (1) Die Entscheidung über den Antrag der Kontrollstelle ergeht durch schriftlichen oder elektronischen Bescheid.
 
@@ -168,25 +153,21 @@ Im Falle des Satzes 1 Nummer 3 sind je 100 Unternehmen, mit denen die Kontrollst
 
 (6) Nach Zulassung einer Kontrollstelle erfolgt die Zulassung weiterer für die Kontrolle vorgesehener Personen oder der Änderung des Tätigkeitsumfangs der für die Kontrolle vorgesehenen Personen von der Bundesanstalt durch schriftlichen oder elektronischen Bescheid. Das Ausscheiden von für die Kontrolle vorgesehenen Personen wird ebenfalls durch schriftlichen oder elektronischen Bescheid festgestellt.
 
-
-## § 13 – Verfahrensvorschriften
+# § 13 – Verfahrensvorschriften
 
 Über einen Antrag auf Erteilung der Zulassung ist innerhalb einer Frist von drei Monaten, über einen Antrag nach § 12 Absatz 6 Satz 1 innerhalb einer Frist von vier Wochen, jeweils nach Zugang der vollständigen Antragsunterlagen bei der Bundesanstalt, zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet Anwendung. Für das Verfahren nach Satz 1 gelten die §§ 71a bis 71e des Verwaltungsverfahrensgesetzes über eine einheitliche Stelle.
 
-
-## § 14 – Muster und Vordrucke
+# § 14 – Muster und Vordrucke
 
 (1) Für die in dieser Verordnung vorgesehenen Anträge, Unterlagen, Formblätter, Schreiben, Verträge, Verfahrensanweisungen, Berichte, Mitteilungen, Meldungen und Übersichten kann die Bundesanstalt Muster veröffentlichen oder Vordrucke, auch elektronisch, bereithalten. Zur elektronischen Übermittlung der Daten kann die Bundesanstalt ein zu verwendendes Format vorgeben.
 
 (2) Soweit die Bundesanstalt Muster veröffentlicht oder Vordrucke bereithält, sind diese zu verwenden.
 
-
-## § 15 – Unterrichtung der Länder
+# § 15 – Unterrichtung der Länder
 
 Die Bundesanstalt unterrichtet die zuständigen Landesbehörden über die Erteilung einer Zulassung sowie über deren Änderung.
 
-
-## § 16 – Übergangsvorschrift
+# § 16 – Übergangsvorschrift
 
 Im Falle einer am 12. Mai 2012 bestehenden Zulassung nach § 4 Absatz 1 des Öko-Landbaugesetzes kann die Bundesanstalt diese, soweit die Voraussetzungen des § 4 Absatz 4 des Öko-Landbaugesetzes erfüllt sind, mit der Auflage versehen, innerhalb einer angemessenen Frist folgende Unterlagen vorzulegen:
 
@@ -208,18 +189,15 @@ d) zur Durchführung von Kontrollbesuchen nach § 9 und
 
 e) zum Maßnahmenkatalog nach § 10.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2)Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
+# Anlage 1 – (zu § 2)Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
 
 (Fundstelle: BGBl. I 2012, 1049)
 
@@ -258,8 +236,7 @@ Der Kontrollbereich umfasst Einheiten, die ökologische/biologische Erzeugnisse 
 
 Der Kontrollbereich umfasst Einheiten zur Aufbereitung von Futtermitteln.
 
-
-## Anlage 2 – (zu § 8)Zuteilung der alphanumerischen Identifikationsnummer
+# Anlage 2 – (zu § 8)Zuteilung der alphanumerischen Identifikationsnummer
 
 (Fundstelle: BGBl. I 2012, 1050)
 
@@ -300,8 +277,7 @@ Die von der Kontrollstelle zu erteilende fünfstellige unternehmensspezifische I
 – Z:  
 Das Kürzel der Kontrollbereiche nach § 2, in denen das Unternehmen tätig ist und von der Kontrollstelle kontrolliert wird. Für Unternehmen, die ökologische/biologische Erzeugnisse ausschließlich lagern oder handeln, ist das Kürzel H zu verwenden.
 
-
-## Anlage 3 – (zu § 10)Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
+# Anlage 3 – (zu § 10)Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
 
 (Fundstelle: BGBl. I 2012, 1051 - 1061)
 
@@ -511,8 +487,7 @@ der Verordnung<br />
 (EG) Nr. 1235/2008</td><td style="text-align: left;">Prüfung, ob Heilung durch zuständige Behörde möglich, sonst Entfernung des Hinweis auf den ökologischen Landbau.</td></tr><tr class="odd"><td style="text-align: left;">11.6</td><td style="text-align: left;">IM</td><td style="text-align: left;">Keine Kennzeichnung nach Artikel 34 der Verordnung (EG) Nr. 889/2008 auf dem Behältnis/der Verpackung oder Import loser Ware.</td><td style="text-align: left;">Artikel 34 der Verordnung<br />
 (EG) Nr. 889/2008</td><td style="text-align: left;">Entfernung des Hinweises auf den ökologischen Landbau von der betreffenden Partie.</td></tr></tbody></table>
 
-
-## Anlage 4 – (zu § 11)Anforderungen an das Kontrollstellenpersonal
+# Anlage 4 – (zu § 11)Anforderungen an das Kontrollstellenpersonal
 
 (Fundstelle: BGBl. I 2011, 1062 - 1064)
 
@@ -676,8 +651,7 @@ Durchführung von drei Kontrollen im jeweiligen Kontrollbereich, soweit die Kont
 3. Anforderungen an die Aneignung einer Kontrollbefähigung in einem zusätzlichen Kontrollbereich  
   
 
-Erfahrene Kontrolleurinnen/Kontrolleure können sich in zusätzlichen Kontrollbereichen eine Kontrollbefähigung aneignen. Der Bundesanstalt ist hierüber eine Dokumentation der Schulung und Einarbeitung für den neuen Kontrollbereich vorzulegen. Die Dokumentation ist in der Kontrollstelle in den Personalunterlagen aufzubewahren. Schulungen und begleitete Kontrollen können auch in anderen Kontrollstellen durchgeführt werden.  
-  
+Erfahrene Kontrolleurinnen/Kontrolleure können sich in zusätzlichen Kontrollbereichen eine Kontrollbefähigung aneignen. Der Bundesanstalt ist hierüber eine Dokumentation der Schulung und Einarbeitung für den neuen Kontrollbereich vorzulegen. Die Dokumentation ist in der Kontrollstelle in den Personalunterlagen aufzubewahren. Schulungen und begleitete Kontrollen können auch in anderen Kontrollstellen durchgeführt werden.   
 
 Die Kontrolleurin/der Kontrolleur muss folgende Mindestvoraussetzungen erfüllen:
 
@@ -726,8 +700,7 @@ Zur Aufrechterhaltung der Kontrollbefähigung in einem Kontrollbereich hat eine 
 5. Anforderungen zur Sicherung der Objektivität, Neutralität und Unvoreingenommenheit  
   
 
-Personen, die mit Kontrollaufgaben im Rahmen der Rechtsvorschriften der Europäischen Union für den ökologischen Landbau befasst sind, dürfen keine weiteren Tätigkeiten ausüben, die mit dem Erfordernis der Objektivität, der Neutralität und Unvoreingenommenheit unvereinbar sind.  
-  
+Personen, die mit Kontrollaufgaben im Rahmen der Rechtsvorschriften der Europäischen Union für den ökologischen Landbau befasst sind, dürfen keine weiteren Tätigkeiten ausüben, die mit dem Erfordernis der Objektivität, der Neutralität und Unvoreingenommenheit unvereinbar sind.   
 
 Hierunter fallen insbesondere:
 
@@ -740,7 +713,6 @@ Geschäftsführer- oder Vorstandstätigkeiten bei einem Interessensverband des �
 –  
 Tätigkeiten als Beraterin bzw. Berater in Betrieben, die dem Kontrollverfahren nach den Rechtsvorschriften der Europäischen Union für den ökologischen Landbau unterstehen, sofern nicht eine klare regionale oder sachliche Trennung zwischen Kontrolle und Beratungstätigkeit vorgenommen wird.
 
-Um Interessenskonflikten vorzubeugen, müssen durch die Kontrollstelle ggf. Maßnahmen ergriffen werden, die unter anderem eine ausreichende räumliche und sachliche Trennung der betreffenden Tätigkeiten gewährleisten. Die Maßnahmen sind zu dokumentieren und der Bundesanstalt vorzulegen.  
-  
+Um Interessenskonflikten vorzubeugen, müssen durch die Kontrollstelle ggf. Maßnahmen ergriffen werden, die unter anderem eine ausreichende räumliche und sachliche Trennung der betreffenden Tätigkeiten gewährleisten. Die Maßnahmen sind zu dokumentieren und der Bundesanstalt vorzulegen.   
 
 Dem Kontrollstellenpersonal muss es gestattet sein, sich an die zuständige Behörde zu wenden, falls es die Auffassung vertritt, dass eine positive Zertifizierungsentscheidung nicht dem Kontrollergebnis entspricht. Nachteile für das Kontrollstellenpersonal müssen insoweit ausgeschlossen sein. Eine entsprechende Regelung muss Bestandteil der Arbeitsverträge sein.

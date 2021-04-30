@@ -1,17 +1,13 @@
-# [MilchSonMaßG] Gesetz zur Durchführung von Sondermaßnahmen der Europäischen Union im Milchmarktbereich  (Milchmarktsondermaßnahmengesetz - MilchSonMaßG)
-
-Ausfertigungsdatum: 20.12.2016
-
+% Gesetz zur Durchführung von Sondermaßnahmen der Europäischen Union im Milchmarktbereich  (Milchmarktsondermaßnahmengesetz - MilchSonMaßG)
+% Ausfertigungsdatum: 20.12.2016
  
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 (1) Dieses Gesetz dient in Ergänzung des Marktorganisationsgesetzes der Durchführung von Sondermaßnahmen der Europäischen Union im Milchmarktbereich, soweit es sich um eine außergewöhnliche Maßnahme im Sinne des § 9b Absatz 1 des Marktorganisationsgesetzes handelt.
 
 (2) Dieses Gesetz ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
 
-
-## § 2 – Voraussetzungen und Höhe einer Vergünstigung
+# § 2 – Voraussetzungen und Höhe einer Vergünstigung
 
 (1) Soweit
 

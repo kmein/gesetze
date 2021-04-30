@@ -1,5 +1,3 @@
-# [NSStRpflV BrZ] Verordnung zur Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege
-
-Ausfertigungsdatum: 23.05.1947
-
+% Verordnung zur Beseitigung nationalsozialistischer Eingriffe in die Strafrechtspflege
+% Ausfertigungsdatum: 23.05.1947
  

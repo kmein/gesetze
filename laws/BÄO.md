@@ -1,17 +1,13 @@
-# [BÄO] Bundesärzteordnung
-
-Ausfertigungsdatum: 02.10.1961
-
+% Bundesärzteordnung
+% Ausfertigungsdatum: 02.10.1961
  
-
-## § 1
+# § 1
 
 (1) Der Arzt dient der Gesundheit des einzelnen Menschen und des gesamten Volkes.
 
 (2) Der ärztliche Beruf ist kein Gewerbe; er ist seiner Natur nach ein freier Beruf.
 
-
-## § 2
+# § 2
 
 (1) Wer im Geltungsbereich dieses Gesetzes den ärztlichen Beruf ausüben will, bedarf der Approbation als Arzt.
 
@@ -23,13 +19,11 @@ Ausfertigungsdatum: 02.10.1961
 
 (5) Ausübung des ärztlichen Berufs ist die Ausübung der Heilkunde unter der Berufsbezeichnung "Arzt" oder "Ärztin".
 
-
-## § 2a
+# § 2a
 
 Die Berufsbezeichnung "Arzt" oder "Ärztin" darf nur führen, wer als Arzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur Ausübung des ärztlichen Berufs befugt ist.
 
-
-## § 3
+# § 3
 
 (1) Die Approbation als Arzt ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -67,13 +61,11 @@ Fächer unterscheiden sich wesentlich, bei denen Kenntnis und Fähigkeiten eine 
 
 1. ein Identitätsnachweis,
 
-1a.  
-eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
+1a. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
 
 2. eine amtlich beglaubigte Kopie der Befähigungsnachweise oder des Ausbildungsnachweises, der zur Aufnahme des entsprechenden Berufs berechtigt sowie gegebenenfalls eine Bescheinigung über die von der betreffenden Person erworbene Berufserfahrung,
 
-2a.  
-im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind darzulegen, im Inland den ärztlichen Beruf ausüben zu wollen,
+2a. im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind darzulegen, im Inland den ärztlichen Beruf ausüben zu wollen,
 
 3. die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats ausgestellt wurden und belegen, dass die Erfordernisse nach Absatz 1 Satz 1 Nr. 2 erfüllt werden oder, wenn im Herkunftsstaat die vorgenannten Unterlagen nicht ausgestellt werden, eine eidesstattliche Erklärung oder – in den Staaten, in denen es keine eidesstattliche Erklärung gibt – eine feierliche Erklärung, die die betreffende Person vor einer zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder einer entsprechend bevollmächtigten Berufsorganisation des Herkunftsstaats, der eine diese eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat,
 
@@ -99,8 +91,7 @@ Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung des Ant
 
 (8) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 4
+# § 4
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Approbationsordnung für Ärzte die Mindestanforderungen an das Studium der Medizin einschließlich der praktischen Ausbildung in Krankenhäusern und anderen geeigneten Einrichtungen der ärztlichen Krankenversorgung sowie das Nähere über die ärztliche Prüfung und über die Approbation.
 
@@ -118,15 +109,13 @@ Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung des Ant
 
 (7) Abweichungen von den in den Absätzen 1 bis 3, 5 und 6 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 5
+# § 5
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung eine der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 4 nicht vorgelegen hat oder bei einer vor Wirksamwerden des Beitritts erteilten Approbation das an einer Ausbildungsstätte in dem in Artikel 3 des Einigungsvertrages genannten Gebiet oder das in einem Fall des § 14 Abs. 1 Satz 2 oder in einem Fall des § 14a Abs. 4 Satz 1 erworbene Medizinstudium nicht abgeschlossen war oder die Ausbildung nach § 3 Abs. 1 Satz 2 oder 6 oder § 3 Absatz 2 oder 3 oder die nach § 14b nachzuweisende Ausbildung nicht abgeschlossen war. Sie kann zurückgenommen werden, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 3 Abs. 1 Satz 1 Nummer 2 und 3 nicht vorgelegen hat. Eine nach § 3 Abs. 2 oder 3 erteilte Approbation kann zurückgenommen werden, wenn die festgestellte Gleichwertigkeit des Ausbildungsstandes tatsächlich nicht gegeben war oder der alternativ festgestellte gleichwertige Kenntnisstand tatsächlich nicht nachgewiesen worden ist. Eine nach § 3 Absatz 2 oder 3 oder nach § 14b Absatz 2 erteilte Approbation kann zurückgenommen werden, wenn die nachzuweisende Ausbildung tatsächlich doch wesentliche Unterschiede gegenüber der in diesem Gesetz und in der Rechtsverordnung nach § 4 Absatz 1 geregelten Ausbildung aufgewiesen hat oder die zur Ausübung des ärztlichen Berufs im Geltungsbereich dieses Gesetzes erforderlichen Kenntnisse und Fähigkeiten in der Eignungsprüfung tatsächlich nicht nachgewiesen worden sind.
 
 (2) Die Approbation ist zu widerrufen, wenn nachträglich die Voraussetzung nach § 3 Abs. 1 Satz 1 Nr. 2 weggefallen ist. Sie kann widerrufen werden, wenn nachträglich die Voraussetzung nach § 3 Abs. 1 Satz 1 Nr. 3 weggefallen ist.
 
-
-## § 6
+# § 6
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -146,25 +135,21 @@ Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung des Ant
 
 (4) Die zuständige Behörde kann zulassen, daß die Praxis eines Arztes, dessen Approbation ruht, für einen von ihr zu bestimmenden Zeitraum durch einen anderen Arzt weitergeführt werden kann.
 
-
-## § 7
+# § 7
 
 (weggefallen)
 
-
-## § 8
+# § 8
 
 (1) Bei einer Person, deren Approbation oder Bestallung wegen Fehlens oder späteren Wegfalls einer der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3 zurückgenommen oder widerrufen worden ist oder die gemäß § 9 auf die Approbation verzichtet hat und die einen Antrag auf Wiedererteilung der Approbation gestellt hat, kann die Entscheidung über diesen Antrag zurückgestellt und zunächst eine Erlaubnis zur Ausübung des ärztlichen Berufs bis zu einer Dauer von zwei Jahren erteilt werden.
 
 (2) Die Erlaubnis wird nur widerruflich und befristet erteilt; sie kann auf bestimmte Tätigkeiten und Beschäftigungsstellen beschränkt werden. Personen, denen die Erlaubnis erteilt worden ist, haben im übrigen die Rechte und Pflichten eines Arztes.
 
-
-## § 9
+# § 9
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer Bedingung erklärt wird, ist unwirksam.
 
-
-## § 9a
+# § 9a
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -198,8 +183,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 10
+# § 10
 
 (1) Die Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs kann auf Antrag Personen erteilt werden, die eine abgeschlossene Ausbildung für den ärztlichen Beruf nachweisen. Eine Erlaubnis nach Satz 1 wird Antragstellern, die über einen Ausbildungsnachweis als Arzt verfügen, der in einem Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz ausgestellt wurde, nicht erteilt. Eine Erlaubnis wird auch nicht in den Fällen des § 3 Absatz 2 Satz 10 erteilt. § 8 bleibt unberührt.
 
@@ -219,8 +203,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (6) Personen, denen eine Erlaubnis zur Ausübung des ärztlichen Berufs nach den vorstehenden Vorschriften erteilt worden ist, haben im übrigen die Rechte und Pflichten eines Arztes.
 
-
-## § 10a
+# § 10a
 
 (1) Approbierte Zahnärzte, die eine gültige staatliche Anerkennung als Fachzahnarzt für Kieferchirurgie nach der Anordnung Nr. 1 über die Weiterbildung der Ärzte und Zahnärzte (Facharzt-/Fachzahnarztordnung) vom 11. August 1978 (GBl. I Nr. 25 S. 286) in der Fassung der Anordnung Nr. 2 vom 15. April 1986 (GBl. I Nr. 16 S. 262) besitzen und bis zum 2. Oktober 1990 aufgrund der Anweisung zu den Approbationsordnungen für Ärzte und Zahnärzte vom 12. Januar 1982 (Verfügung und Mitteilung des Ministeriums für Gesundheitswesen Nr. 2 S. 28) berechtigt waren, ärztliche Tätigkeiten auf dem Gebiet der Mund-, Kiefer- und Gesichtschirurgie auszuüben, erhalten auf Antrag eine unbefristete Erlaubnis zur Ausübung des ärztlichen Berufs auf dem Gebiet der Mund-, Kiefer- und Gesichtschirurgie. Das gleiche gilt für Zahnärzte, die sich am 3. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet in einer Weiterbildung zum Fachzahnarzt für Kieferchirurgie nach den in Satz 1 genannten Weiterbildungsvorschriften befanden, nachdem sie die Weiterbildung nach diesen Vorschriften erfolgreich abgeschlossen haben.
 
@@ -230,8 +213,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (4) Für Inhaber einer Erlaubnis nach Absatz 1 oder 2 gilt § 10 Abs. 6 entsprechend.
 
-
-## § 10b
+# § 10b
 
 (1) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die zur Ausübung des ärztlichen Berufs in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen ärztlichen Ausbildung oder auf Grund eines in der Anlage zu § 3 Abs. 1 Satz 2, in § 3 Abs. 1 Satz 6 oder in § 14b Absatz 1 genannten ärztlichen Ausbildungsnachweises berechtigt sind, dürfen als Dienstleistungserbringer im Sinne des Artikels 50 des EG-Vertrages vorübergehend und gelegentlich den ärztlichen Beruf im Geltungsbereich dieses Gesetzes ausüben. Der vorübergehende und gelegentliche Charakter der Erbringung von Dienstleistungen wird im Einzelfall beurteilt, insbesondere anhand der Dauer, der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der Dienstleistung. Eine Berechtigung nach Satz 1 besteht nicht, wenn die Voraussetzungen einer Rücknahme, eines Widerrufs oder einer Ruhensanordnung, die sich auf die Tatbestände nach § 3 Abs. 1 Satz 1 Nr. 2 oder 3 beziehen, vorliegen, eine entsprechende Maßnahme mangels deutscher Berufszulassung jedoch nicht erlassen werden kann.
 
@@ -257,15 +239,13 @@ Vom Dienstleistungserbringer im Sinne des Absatzes 1 können dabei Informationen
 
 3. er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-## § 11
+# § 11
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte für ärztliche Tätigkeit in einer Gebührenordnung zu regeln. In dieser Gebührenordnung sind Mindest- und Höchstsätze für die ärztlichen Leistungen festzusetzen. Dabei ist den berechtigten Interessen der Ärzte und der zur Zahlung der Entgelte Verpflichteten Rechnung zu tragen.
 
 § 11: Mit dem GG vereinbar gem. BVerfGE v. 12.12.1984; 1985 I 552 - 1 BvR 1249/83 u. a. -
 
-
-## § 12
+# § 12
 
 (1) Die Approbation erteilt in den Fällen des § 3 Abs. 1 Satz 1 die zuständige Behörde des Landes, in dem der Antragsteller die ärztliche Prüfung abgelegt hat. In den Fällen des § 14 Abs. 3 Satz 2 wird sie von der zuständigen Behörde des Landes erteilt, in dessen Gebiet die Behörde ihren Sitz hatte, von der der Antragsteller seine nach den Vorschriften der Deutschen Demokratischen Republik erteilte Approbation erhalten hat. In den Fällen des § 14a Abs. 4 Satz 1 bis 3 wird die Approbation von der zuständigen Behörde des Landes erteilt, in dem der Antragsteller sein Medizinstudium erfolgreich abgeschlossen hat.
 
@@ -283,20 +263,17 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (8) Soweit die in Deutschland zuständigen Stellen Informationen nach Anhang VII Nummer 1 Buchstabe d der Richtlinie 2005/36/EG an die zuständigen Behörden des Aufnahmemitgliedstaats zu übermitteln haben, hat dies binnen zwei Monaten zu erfolgen.
 
-
-## § 13 – VII Straf- und Bußgeldvorschriften
+# § 13 – VII Straf- und Bußgeldvorschriften
 
 Wer die Heilkunde ausübt, solange durch vollziehbare Verfügung das Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 13a
+# § 13a
 
 (1) Ordnungswidrig handelt, wer entgegen § 14 Abs. 4 Satz 1 die Berufsbezeichnung "Arzt" oder "Ärztin" ohne Zusatz führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 14
+# § 14
 
 (1) Eine Approbation oder Bestallung, die bei Wirksamwerden des Beitritts im bisherigen Geltungsbereich dieses Gesetzes zur Ausübung des ärztlichen Berufs berechtigt, gilt als Approbation im Sinne dieses Gesetzes. Das gleiche gilt unbeschadet der Vorschriften des Absatzes 4 für eine Approbation, die am Tage vor dem Wirksamwerden des Vertrages in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zur Ausübung des ärztlichen Berufs berechtigt, soweit sie vor dem 1. Juli 1988 erteilt und nicht durch eine zu diesem Zeitpunkt geltende Anordnung nach § 15 der Approbationsordnung für Ärzte vom 13. Januar 1977 (GBl. I Nr. 5 S. 30) in der Fassung der Anordnung Nr. 2 vom 24. August 1981 (GBl. I Nr. 29 S. 346) eingeschränkt worden ist. Die Berechtigung zur weiteren Führung einer im Zusammenhang mit der Anerkennung als Facharzt verliehenen Bezeichnung durch Inhaber einer in Satz 2 genannten Approbation, die am Tage vor dem Wirksamwerden des Beitritts eine solche Bezeichnung in dem in Artikel 3 des Einigungsvertrages genannten Gebiet führen dürfen, richtet sich nach Landesrecht.
 
@@ -308,8 +285,7 @@ Wer die Heilkunde ausübt, solange durch vollziehbare Verfügung das Ruhen der A
 
 (5) Eine bei Wirksamwerden des Beitritts gültige Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufes und eine am Tage vor dem Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gültige staatliche Erlaubnis zur Ausübung ärztlicher Tätigkeit gemäß § 10 Abs. 3 der Approbationsordnung für Ärzte vom 13. Januar 1977 (GBl. I Nr. 5 S. 30) in der Fassung der Anordnung Nr. 2 vom 24. August 1981 (GBl. I Nr. 29 S. 346) gelten mit ihrem bisherigen Inhalt als Erlaubnis nach § 10 Abs. 1 dieses Gesetzes.
 
-
-## § 14a
+# § 14a
 
 (1) Antragsteller, die das Studium der Medizin im Jahre 1970 oder im Sommersemester 1971 aufgenommen haben, weisen an Stelle eines mindestens sechsjährigen Hochschulstudiums der Medizin (§ 3 Abs. 1 Nr. 4) ein Hochschulstudium der Medizin von mindestens elf Semestern und die Ableistung einer nach der ärztlichen Prüfung durchzuführenden einjährigen Medizinalassistentenzeit nach.
 
@@ -319,8 +295,7 @@ Wer die Heilkunde ausübt, solange durch vollziehbare Verfügung das Ruhen der A
 
 (4) Studierende der Medizin, die nach dem Wirksamwerden des Beitritts ein vorher begonnenes Medizinstudium an Universitäten oder medizinischen Akademien in dem in Artikel 3 des Einigungsvertrages genannten Gebiet fortsetzen, schließen das Studium nach den bisher für dieses Gebiet geltenden Rechtsvorschriften ab, sofern dies bis zum 31. Dezember 1998 geschieht. Der erfolgreiche Studienabschluß steht dem Abschluß des Medizinstudiums durch die bestandene ärztliche Prüfung nach § 3 Abs. 1 Satz 1 Nr. 4 gleich. Inhaber eines entsprechenden Nachweises erhalten auf Antrag eine Erlaubnis nach § 10 Abs. 1, mit der sie entsprechend einer Erlaubnis nach § 10 Abs. 4 der Bundesärzteordnung in der Fassung der Bekanntmachung vom 16. April 1987 (BGBl. I S. 1218), die zuletzt durch Artikel 7 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467) geändert worden ist, eine achtzehnmonatige Tätigkeit in abhängiger Stellung absolvieren können. Studierende, die im September 1991 ein Medizinstudium an den in Satz 1 genannten Ausbildungsstätten aufnehmen, schließen den vorklinischen Studienabschnitt einschließlich des Physikums nach den in Satz 1 genannten Vorschriften ab, sofern sie das Physikum bis zum 31. Dezember 1994 bestehen. Sie setzen das Medizinstudium nach den Vorschriften der aufgrund des § 4 erlassenen Approbationsordnung für Ärzte fort und schließen die Ausbildung hiernach ab. Für Studierende, die im Jahre 1992 und später ein Medizinstudium an den in Satz 1 genannten Ausbildungsstätten aufnehmen, gelten die Vorschriften dieser Verordnung vom Beginn dieses Studiums an. In der Verordnung können hinsichtlich der Art der Prüfungen besondere Regelungen für die in Satz 5 und 6 genannten Studierenden getroffen werden.
 
-
-## § 14b
+# § 14b
 
 (1) Antragstellern, die die Voraussetzungen des § 3 Absatz 1 Satz 1 Nummer 2, 3 und 5 erfüllen und eine Approbation als Arzt auf Grund der Vorlage eines vor dem nach § 3 Abs. 1 Satz 2, 3 oder 4 für die Anerkennung jeweils maßgebenden Datum ausgestellten ärztlichen Ausbildungsnachweises eines der übrigen Mitgliedstaaten oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, beantragen, ist die Approbation als Arzt ebenfalls zu erteilen. In den Fällen, in denen die ärztliche Ausbildung des Antragstellers den Mindestanforderungen des Artikels 24 der Richtlinie 2005/36/EG vom 7. September 2005 (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) nicht genügt, kann die zuständige Behörde die Vorlage einer Bescheinigung des Herkunftsmitgliedstaats des Antragstellers verlangen, aus der sich ergibt, daß der Antragsteller während der letzten fünf Jahre vor der Antragstellung mindestens drei Jahre ununterbrochen tatsächlich und rechtmäßig den ärztlichen Beruf ausgeübt hat. Bei Antragstellern, deren Ausbildungsnachweise
 
@@ -334,15 +309,12 @@ ist die Approbation als Arzt zu erteilen, wenn die Behörden dieser Mitgliedstaa
 
 (2) Antragstellern, für die Absatz 1 gilt und die die dort genannten Voraussetzungen mit Ausnahme der geforderten Berufserfahrung erfüllten, ist die Approbation zu erteilen, wenn die Ausbildung des Antragstellers keine wesentlichen Unterschiede gegenüber der Ausbildung aufweist, die in diesem Gesetz und in der Rechtsverordnung nach § 4 Absatz 1 geregelt ist. § 3 Absatz 2 Satz 3 bis 9 gilt entsprechend.
 
-
-## § 15 – (weggefallen)
+# § 15 – (weggefallen)
 
 \-
 
-
-## § 16
+# § 16
 
 (Inkrafttreten, Außerkrafttreten)
 
-
-## Anlage – (zu § 3 Abs. 1 Satz 2)
+# Anlage – (zu § 3 Abs. 1 Satz 2)

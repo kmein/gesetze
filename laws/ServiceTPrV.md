@@ -1,15 +1,11 @@
-# [ServiceTPrV] Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-Servicetechnikerin"
-
-Ausfertigungsdatum: 15.12.1997
-
+% Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-Servicetechnikerin"
+% Ausfertigungsdatum: 15.12.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1) und des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), die zuletzt gemäß den Artikeln 33 und 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden sind, verordnet das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch berufliche Fortbildung zum Geprüften Kraftfahrzeug-Servicetechniker/zur Geprüften Kraftfahrzeug-Servicetechnikerin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -25,8 +21,7 @@ Der Kraftfahrzeug-Servicetechniker diagnostiziert technische Probleme im Gesprä
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß Geprüfter Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-Servicetechnikerin.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -40,8 +35,7 @@ nachweist.
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung, Struktur und integrierte Durchführung der Prüfung
+# § 3 – Gliederung, Struktur und integrierte Durchführung der Prüfung
 
 (1) Die Prüfung ist handlungsorientiert durchzuführen. Dabei sollen die Handlungsbereiche gemäß § 1 Abs. 2 in die Aufgaben integriert werden.
 
@@ -55,8 +49,7 @@ nachweist.
 
 4. einem situationsbezogenen Fachgespräch. Dieses kann sich auf das gesamte betriebliche Handlungsfeld des Kraftfahrzeug-Servicetechnikers beziehen und soll in erster Linie der mündlichen Erläuterung der Problemlösungen der Aufgaben 1 bis 3 im Sinne der Qualifikationsschwerpunkte "Kooperation, Kommunikation und Mitarbeiterqualifizierung" und "Kundenbetreuung und -beratung" dienen. Die Dauer soll 30 Minuten nicht überschreiten.
 
-
-## § 4 – Prüfungsinhalte
+# § 4 – Prüfungsinhalte
 
 (1) Den Handlungsbereichen sind folgende Qualifikationsschwerpunkte zugeordnet:
 
@@ -198,15 +191,13 @@ Diese Qualifikationen sollen für mindestens drei der folgenden Fahrzeugsysteme 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Eine Befreiung vom situationsbezogenen Fachgespräch nach § 3 Absatz 2 Nummer 4 ist nicht zulässig.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -214,8 +205,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -231,8 +221,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -246,8 +235,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -255,15 +243,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Gleichstellung anderer Prüfungszeugnisse
+# § 10 – Gleichstellung anderer Prüfungszeugnisse
 
 Prüfungszeugnisse von Weiterbildungsstätten über das Bestehen der Prüfung zum Kraftfahrzeug-Servicetechniker/ zur Kraftfahrzeug-Servicetechnikerin nach dem Branchenmodell des Zentralverbandes des Deutschen Kraftfahrzeuggewerbes aus der Zeit vom 1. Januar 1992 bis 30. Juni 1998 sind den Zeugnissen über das Bestehen der Prüfung nach dieser Verordnung gleichgestellt.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren zum Kraftfahrzeug-Servicetechniker können nach den bisherigen Vorschriften zu Ende geführt werden.
 
@@ -271,22 +257,19 @@ Prüfungszeugnisse von Weiterbildungsstätten über das Bestehen der Prüfung zu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1998 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2198 - 2199)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2199 - 2200)
 

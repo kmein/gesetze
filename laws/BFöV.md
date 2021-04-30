@@ -1,15 +1,11 @@
-# [BFöV] Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten  (Berufsförderungsverordnung - BFöV)
-
-Ausfertigungsdatum: 23.10.2006
-
+% Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten  (Berufsförderungsverordnung - BFöV)
+% Ausfertigungsdatum: 23.10.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10a Abs. 1 und 3 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 9. April 2002 (BGBl. I S. 1258, 1909), der durch Artikel 1 Nr. 23 des Gesetzes vom 4. Mai 2005 (BGBl. I S. 1234) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -217,8 +213,7 @@ Schlussvorschriften
 
 Übergangsregelungen
 
-
-## § 1 – Maßnahmen der schulischen und beruflichen Bildung
+# § 1 – Maßnahmen der schulischen und beruflichen Bildung
 
 (1) Schulische und berufliche Bildung werden durch Maßnahmen mit einem bestimmten Bildungsziel vermittelt. Gefördert werden nur Maßnahmen, die anhand von Lehrplänen oder Ausbildungsvorschriften oder in einem rechtlich geregelten Ausbildungsgang durchgeführt werden.
 
@@ -226,8 +221,7 @@ Schlussvorschriften
 
 (3) Eine Maßnahme schulischer und beruflicher Bildung kann auch dann gefördert werden, wenn bereits vermittelte Inhalte wiederholt oder bereits vermittelte Kenntnisse aufgefrischt werden, soweit dies voraussichtlich unverzichtbare Voraussetzung für den erfolgreichen Abschluss einer anschließend angestrebten Maßnahme der schulischen oder beruflichen Bildung sein wird.
 
-
-## § 1a – Zuständigkeiten
+# § 1a – Zuständigkeiten
 
 (1) Für die Beratung in Fragen der schulischen und beruflichen Bildung sind die Karrierecenter der Bundeswehr – Berufsförderungsdienst – zuständig.
 
@@ -247,8 +241,7 @@ Schlussvorschriften
 
 (6) Das Bildungszentrum der Bundeswehr trifft die Entscheidungen über die Einrichtung von Lehrgängen und Studienkursen nach § 9, die Zulassung zu diesen Lehrgängen und Studienkursen sowie den Ausbildungsort. Es übt die Fachaufsicht über die Bundeswehrfachschulen aus.
 
-
-## § 2 – Berufsberatung
+# § 2 – Berufsberatung
 
 (1) Das Beratungsgespräch umfasst:
 
@@ -296,22 +289,19 @@ Schlussvorschriften
 
 (9) Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, werden vor der Inanspruchnahme von Leistungen der Berufsförderung und im Übrigen auf Antrag beraten.
 
-
-## § 2a – Erstattung von Aufwendungen für die Berufsberatung
+# § 2a – Erstattung von Aufwendungen für die Berufsberatung
 
 (1) Hat die Soldatin auf Zeit oder der Soldat auf Zeit die Wehrdienstzeit beendet und ist ihr oder ihm gestattet worden, von einem auswärtigen Wohn-, Maßnahme- oder Arbeitsort zur Berufsberatung anzureisen, so werden die Aufwendungen für Fahrten zum und vom nächstgelegenen Beratungsort erstattet. Der Umfang der Erstattung richtet sich nach den für die Beamtinnen und Beamten des Bundes geltenden reisekostenrechtlichen Vorschriften.
 
 (2) Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Verpflichtungszeit von mindestens vier Jahren können auf Antrag für die Teilnahme von Personen nach § 2 Absatz 3 Satz 2 an einem gemeinsamen Beratungsgespräch im Inland Kosten in entsprechender Anwendung des § 6 Absatz 3 des Soldatenversorgungsgesetzes erstattet werden. Der Antrag ist nur zulässig, wenn er vor dem Beratungsgespräch gestellt wird. Absatz 1 gilt entsprechend.
 
-
-## § 3 – Förderungsplan
+# § 3 – Förderungsplan
 
 (1) Die Beratungsergebnisse sind im Einvernehmen mit den Förderungsberechtigten in einer Niederschrift zu dokumentieren und dienen der Erstellung eines Förderungsplans.
 
 (2) Der Förderungsplan ist im Verlauf der Dienstzeit den fachlichen und persönlichen Entwicklungen anzupassen. Ändert sich das im Förderungsplan festgelegte schulische oder berufliche Bildungsziel, ist der Förderungsplan auf der Grundlage einer weiteren Beratung zu aktualisieren.
 
-
-## § 4 – Voraussetzungen der Förderungsfähigkeit
+# § 4 – Voraussetzungen der Förderungsfähigkeit
 
 (1) Förderungsfähig sind Bildungsmaßnahmen fachberuflicher und berufsübergreifender Art. Soweit dies im Einzelfall nach dem Förderungsplan notwendig ist, kann im Rahmen der dienstzeitbegleitenden Förderung auch schulische Bildung gefördert werden. § 17 gilt entsprechend.
 
@@ -329,8 +319,7 @@ Schlussvorschriften
 
 (+++ § 4 Abs. 4: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 5 – Durchführung der dienstzeitbegleitenden Förderung
+# § 5 – Durchführung der dienstzeitbegleitenden Förderung
 
 (1) Gefördert wird die Teilnahme an Bildungsmaßnahmen der Bundeswehrfachschulen und an Bildungsmaßnahmen, die durch das Karrierecenter der Bundeswehr – Berufsförderungsdienst – geplant und in dessen Auftrag durchgeführt werden (interne Maßnahmen).
 
@@ -340,8 +329,7 @@ Schlussvorschriften
 
 (+++ § 5 Abs. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 6 – Erstattung von Kosten
+# § 6 – Erstattung von Kosten
 
 (1) Die Teilnahme an internen Maßnahmen ist kostenfrei. § 6 Absatz 3 des Soldatenversorgungsgesetzes gilt entsprechend.
 
@@ -349,8 +337,7 @@ Schlussvorschriften
 
 (3) Erstattungsfähige Kosten sind innerhalb einer Frist von sechs Monaten nach Abschluss der Maßnahme schriftlich oder elektronisch beim Karrierecenter der Bundeswehr – Berufsförderungsdienst – geltend zu machen.
 
-
-## § 7 – Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes
+# § 7 – Bestandteile der Bewilligungen nach § 4 des Soldatenversorgungsgesetzes
 
 (1) Der Bescheid über die Bewilligung der dienstzeitbegleitenden Förderung kann widerrufen werden, wenn
 
@@ -374,13 +361,11 @@ Tritt die auflösende Bedingung ein, kann die weitere Teilnahme an der Maßnahme
 
 (3) § 28 Absatz 1 gilt entsprechend.
 
-
-## § 8 – Grundsatz zur Förderung der schulischen Bildung
+# § 8 – Grundsatz zur Förderung der schulischen Bildung
 
 Die Förderung der schulischen Bildung weicht von der Förderung der beruflichen Bildung nur ab, soweit die §§ 9 bis 14 ausdrücklich Anderes regeln.
 
-
-## § 9 – Lehrgänge an Bundeswehrfachschulen
+# § 9 – Lehrgänge an Bundeswehrfachschulen
 
 (1) An Bundeswehrfachschulen können folgende Lehrgänge durchgeführt werden:
 
@@ -434,13 +419,11 @@ Für Maßnahmen nach Absatz 1 Satz 1 Nummer 7 gelten die von der zuständigen St
 
 2. für andere Förderungsberechtigte mit einer Hochschulzugangsberechtigung höchstens zwölf Monate.
 
-
-## § 10 – Zahl der Unterrichtsstunden
+# § 10 – Zahl der Unterrichtsstunden
 
 Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach Lehrgang bis zu 750 Unterrichtsstunden.
 
-
-## § 11 – Zulassung ab einem höheren Studienhalbjahr und Lehrgangswechsel
+# § 11 – Zulassung ab einem höheren Studienhalbjahr und Lehrgangswechsel
 
 (1) Auf Antrag kann bei entsprechender Vorbildung der Förderungsberechtigten die Teilnahme an den Lehrgängen nach § 9 Abs. 1 Satz 1 Nr. 4 bis 6 von einem höheren Studienhalbjahr an zugelassen werden. § 9 Abs. 2 gilt entsprechend.
 
@@ -448,15 +431,13 @@ Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach Lehrgang bis z
 
 (3) Anträge nach den Absätzen 1 und 2 sind jeweils schriftlich oder elektronisch beim Karrierecenter der Bundeswehr – Berufsförderungsdienst – zu stellen.
 
-
-## § 12 – Kosten der Lehrgangsteilnahme
+# § 12 – Kosten der Lehrgangsteilnahme
 
 (1) Bei Maßnahmen nach § 9 Absatz 1 Satz 1 Nummer 7 werden pro angefangenem Monat der Förderung pauschal 200 Euro, höchstens jedoch 1 200 Euro pro Studienhalbjahr auf den Höchstbetrag nach § 19 Absatz 2 angerechnet. Mit Zustimmung des Bundesministeriums der Verteidigung kann in begründeten Fällen bei einzelnen Lehrgängen von der Anrechnung abgesehen werden.
 
 (2) Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer an Bundeswehrfachschulen sind zum Wohnen in der Gemeinschaftsunterkunft berechtigt. Soweit zur Lehrgangsteilnahme kostenfreie Unterkunft oder Gemeinschaftsverpflegung gegen Bezahlung bereitgestellt wird, sind die Förderungsberechtigten auf die Inanspruchnahme zu verweisen. Wird eine der in Satz 2 genannten Leistungen nicht in Anspruch genommen, führt dies nicht zu höheren Leistungen nach § 6 Absatz 3 des Soldatenversorgungsgesetzes.
 
-
-## § 13 – Form und Fristen
+# § 13 – Form und Fristen
 
 (1) Förderungsberechtigte haben dem Karrierecenter der Bundeswehr – Berufsförderungsdienst – spätestens sieben Monate vor Beginn der schulischen Maßnahme schriftlich oder elektronisch mitzuteilen, welchen Lehrgang einer Bundeswehrfachschule sie besuchen wollen.
 
@@ -464,8 +445,7 @@ Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach Lehrgang bis z
 
 (3) Von den Fristen der Absätze 1 und 2 kann in begründeten Einzelfällen abgewichen werden.
 
-
-## § 14 – Versetzung und Prüfung
+# § 14 – Versetzung und Prüfung
 
 (1) Nach erfolgreichem Unterrichtsbesuch werden die Förderungsberechtigten von einem Studienhalbjahr in das nächstfolgende versetzt oder in einen weiterführenden Lehrgang eingewiesen. Die Versetzung ist in einem Zeugnis auszusprechen, das die Bewertung der Leistungen in den einzelnen Fächern enthält.
 
@@ -473,8 +453,7 @@ Ein Studienhalbjahr an einer Bundeswehrfachschule umfasst je nach Lehrgang bis z
 
 (3) Die Lehrgänge nach § 9 Abs. 1 Satz 1 Nr. 4 bis 6 und 8 werden durch eine Prüfung an der Bundeswehrfachschule abgeschlossen.
 
-
-## § 15 – Gegenstand der beruflichen Bildung
+# § 15 – Gegenstand der beruflichen Bildung
 
 (1) Gefördert werden die fachberufliche Aus-, Fort- und Weiterbildung sowie die Umschulung der Förderungsberechtigten in öffentlichen und privaten Bildungseinrichtungen, Betrieben oder Verwaltungen im Bundesgebiet sowie an Hochschulen im Sinne des § 1 des Hochschulrahmengesetzes. § 4 Abs. 2 gilt entsprechend. Maßnahmen der beruflichen Bildung, die im eigenen Betrieb der Förderungsberechtigten durchgeführt werden sollen oder auf Verträgen mit der Ehegattin oder dem Ehegatten, der Lebenspartnerin oder dem Lebenspartner (§ 1 Absatz 1 Satz 1 des Lebenspartnerschaftsgesetzes), den Eltern, Großeltern, Geschwistern oder eigenen Kindern beruhen, werden grundsätzlich nicht gefördert.
 
@@ -506,8 +485,7 @@ Dauert die Maßnahme insgesamt weniger als 4 Tage, ist von Vollzeitform auszugeh
 
 2. ihre Dauer und Mehrkosten nach den besonderen berufsbildungs- und eingliederungsrelevanten Umständen vertretbar sind.
 
-
-## § 16 – Durchführung der Förderung der beruflichen Bildung
+# § 16 – Durchführung der Förderung der beruflichen Bildung
 
 (1) Maßnahmen der beruflichen Bildung werden nur gefördert, wenn sie bis zum Ablauf von sechs Jahren nach Beendigung des Dienstverhältnisses begonnen werden; die Förderung kann bis zum Erreichen der jeweiligen Förderungshöchstdauer nach § 5 des Soldatenversorgungsgesetzes erfolgen.
 
@@ -527,15 +505,13 @@ Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdien
 
 (+++ § 16: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 17 – Antragstellung
+# § 17 – Antragstellung
 
 (1) Die Förderung ist vor Beginn der Maßnahme schriftlich oder elektronisch zu beantragen. Wird der Antrag verspätet gestellt und eine Wiedereinsetzung in den vorigen Stand nach § 32 des Verwaltungsverfahrensgesetzes nicht gewährt, ist eine anteilige Förderung ab Antragseingang möglich.
 
 (2) Die Antragstellerin oder der Antragsteller hat die zur Entscheidung über den Antrag erforderlichen Unterlagen vorzulegen. Welche Unterlagen vorzulegen sind, bestimmt das Karrierecenter der Bundeswehr – Berufsförderungsdienst – nach den Umständen des Einzelfalls.
 
-
-## § 18 – Persönliche Förderungsvoraussetzungen
+# § 18 – Persönliche Förderungsvoraussetzungen
 
 (1) Die beantragte Maßnahme der beruflichen Bildung wird bewilligt, wenn
 
@@ -549,8 +525,7 @@ Satz 1 gilt für Soldatinnen auf Zeit und Soldaten auf Zeit mit einer Gesamtdien
 
 (3) Die Eignung kann auch durch eine probeweise Teilnahme an der beabsichtigten Maßnahme der beruflichen Bildung im Rahmen des § 5 des Soldatenversorgungsgesetzes nachgewiesen werden, die nicht länger als einen Monat dauern sollte. Vor Bewilligung der Förderung der Maßnahme der beruflichen Bildung können die Leiterin oder der Leiter der Bundeswehrfachschule, die Disziplinarvorgesetzten, die Bundesagentur für Arbeit, Ausbildungsbehörden, Schulen, Industrie- und Handelskammern, Handwerks- und Landwirtschaftskammern sowie berufsständische Organisationen gutachtlich gehört werden.
 
-
-## § 19 – Kosten der beruflichen Bildung
+# § 19 – Kosten der beruflichen Bildung
 
 (1) Soweit die Soldatinnen auf Zeit und Soldaten auf Zeit oder die zu ihrem Unterhalt Verpflichteten die Kosten selbst tragen müssten, wenn kein Anspruch auf berufliche Förderung bestünde, werden folgende Kosten nach Maßgabe dieser Verordnung erstattet:
 
@@ -659,8 +634,7 @@ Der Höchstbetrag erhöht sich bei einer Gesamtdienstzeit von mindestens 15 Jahr
 
 (+++ § 19 Abs. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 20 – Lehrgangs- und Studiengebühren
+# § 20 – Lehrgangs- und Studiengebühren
 
 (1) Zu den Lehrgangs- und Studiengebühren gehören auch Aufnahme- und Prüfungsgebühren. Die Prüfungsgebühren und die durch Teilnahme an der Prüfung verursachten weiteren Auslagen sind nach Ablauf der Förderungszeit nach § 5 Abs. 4 des Soldatenversorgungsgesetzes jedoch nur zu erstatten, wenn
 
@@ -672,8 +646,7 @@ Der Höchstbetrag erhöht sich bei einer Gesamtdienstzeit von mindestens 15 Jahr
 
 (3) Wird eine ehemalige Soldatin auf Zeit oder ein ehemaliger Soldat auf Zeit, die oder der an einer geförderten Maßnahme nach § 4 Absatz 2 oder § 5 des Soldatenversorgungsgesetzes teilnimmt, erneut bei der Bundeswehr in ein Dienstverhältnis als Beamtin oder Beamter oder als Soldatin oder Soldat berufen oder als Arbeitnehmerin oder Arbeitnehmer eingestellt, erstattet ihr oder ihm der Bund die bis zum Zeitpunkt der Berufung oder Einstellung entstandenen notwendigen Kosten der Maßnahme.
 
-
-## § 21 – Kosten für Ausbildungsmittel
+# § 21 – Kosten für Ausbildungsmittel
 
 (1) Ausbildungsmittel sind:
 
@@ -697,11 +670,9 @@ werden nur anteilig erstattet. Die Höhe des zu erstattenden Anteils entspricht 
 
 (4) § 20 Absatz 2 gilt entsprechend.
 
+# § 22 – (weggefallen)
 
-## § 22 – (weggefallen)
-
-
-## § 23 – Reise- und Trennungsauslagen
+# § 23 – Reise- und Trennungsauslagen
 
 (1) Bei der Förderung einer Maßnahme der beruflichen Bildung sind die für die Beamtinnen und Beamten des Bundes geltenden reise- und trennungsgeldrechtlichen Vorschriften anzuwenden.
 
@@ -709,22 +680,19 @@ werden nur anteilig erstattet. Die Höhe des zu erstattenden Anteils entspricht 
 
 (3) Den Förderungsberechtigten können zusätzliche Nachweispflichten auferlegt werden, insbesondere die Pflicht, die ordnungsgemäße Teilnahme nachzuweisen.
 
-
-## § 24 – Kosten für Studienfahrten aus Anlass der Maßnahme der beruflichen Bildung
+# § 24 – Kosten für Studienfahrten aus Anlass der Maßnahme der beruflichen Bildung
 
 (1) Notwendige Kosten für Studienfahrten - auch in das Ausland - aus Anlass der Maßnahme der beruflichen Bildung sind zu übernehmen, wenn solche Reisen in den Ausbildungs- und Prüfungsordnungen oder Studienordnungen vorgesehen sind oder die zuständigen Ausbilderinnen oder Ausbilder bescheinigen, dass die Studienfahrt im konkreten Ausbildungsprogramm für alle Teilnehmenden vorgegeben ist und in dem Zeitraum der Studienfahrt eine anderweitige Unterweisung Zurückbleibender nicht angeboten wird.
 
 (2) Der Antrag ist vor Beginn der Reise schriftlich oder elektronisch beim Karrierecenter der Bundeswehr – Berufsförderungsdienst – zu stellen. § 20 Abs. 2 und § 23 gelten entsprechend.
 
-
-## § 25 – Kosten für Eignungsfeststellungsverfahren
+# § 25 – Kosten für Eignungsfeststellungsverfahren
 
 (1) Förderungsberechtigten, die sich vor der Entscheidung über den Antrag auf Förderung einer Maßnahme der beruflichen Bildung mit Zustimmung oder auf Veranlassung des Karrierecenters der Bundeswehr – Berufsförderungsdienst – einem Eignungsfeststellungsverfahren unterziehen, werden die notwendigen Kosten für die Teilnahme erstattet. Dies gilt auch bei Vorliegen der Voraussetzungen nach § 31 Absatz 3 Satz 2.
 
 (2) Der Antrag ist vor Antritt der Reise zum Eignungsfeststellungsverfahren schriftlich oder elektronisch beim Karrierecenter der Bundeswehr – Berufsförderungsdienst – zu stellen. § 20 Abs. 2 und § 23 gelten entsprechend.
 
-
-## § 26 – Zuschuss zu den Umzugsauslagen
+# § 26 – Zuschuss zu den Umzugsauslagen
 
 Förderungsberechtigte, denen eine Maßnahme der beruflichen Bildung außerhalb ihres Wohnortes bewilligt worden ist, können auf einen Antrag, der vor einem Umzug an den Ort der Maßnahme der beruflichen Bildung einschließlich seines Einzugsgebietes (§ 3 Abs. 1 Nr. 1 Buchstabe c des Bundesumzugskostengesetzes) schriftlich oder elektronisch zu stellen ist, für diesen Umzug einen Zuschuss zu den Umzugsauslagen erhalten, sofern hierfür
 
@@ -736,15 +704,13 @@ Förderungsberechtigte, denen eine Maßnahme der beruflichen Bildung außerhalb 
 
 Der Zuschuss wird begrenzt auf den Betrag, der an Trennungsauslagen nach § 23 eingespart wird. Für die Berechnung eingesparter Trennungsauslagen gelten die Bestimmungen für das auswärtige Verbleiben nach der Trennungsgeldverordnung mit der Maßgabe, dass als Übernachtungskosten ab dem 15. Tag ein Betrag von 6,67 Euro je notwendiger Übernachtung berücksichtigt werden kann. Für die Berechnung der Umzugsauslagen können die Kosten berücksichtigt werden, die nach den §§ 6 bis 10 des Bundesumzugskostengesetzes als Umzugskostenvergütung gewährt werden könnten. Ist zum Zeitpunkt der Bewilligung des Zuschusses zu den Umzugsauslagen bereits bekannt, dass zur Berufsbildungsmaßnahme gehörende Ausbildungsanteile an weiteren Orten durchgeführt werden müssen, kann, sofern die Förderungsberechtigten dies schriftlich oder elektronisch beantragen, die Berechnung des zugrunde liegenden Trennungsgeldes auf den Bewilligungszeitraum beschränkt werden, der sich auf den ersten Ort der bewilligten Maßnahme der beruflichen Bildung bezieht. Für weitere Ausbildungsorte bleibt der Anspruch auf Erstattung der Trennungsauslagen erhalten, wenn die übrigen Anspruchsvoraussetzungen erfüllt sind.
 
-
-## § 27 – Verbrauch und Verlängerung der Förderungszeiten
+# § 27 – Verbrauch und Verlängerung der Förderungszeiten
 
 Bei der Berechnung des zeitlichen Umfanges des Verbrauchs sind im Bewilligungsbescheid die Gesamtdauer der bewilligten Maßnahme und bei Beendigung der Maßnahme die Zeiträume der Teilnahme voll zugrunde zu legen, unabhängig davon, ob die Berufsbildungsmaßnahme an einzelnen Wochentagen, halbtags oder stundenweise durchgeführt wird. Maßnahmen der schulischen und beruflichen Bildung sind grundsätzlich unterbrechungsfrei zu fördern. Auf Antrag können unterrichtsfreie Zeiten einer Maßnahme aus der Förderung ausgeklammert werden, soweit dies nach der Förderungsplanung zur Erreichung des Eingliederungsziels zwingend notwendig ist. Unzulässig ist die Beschränkung der Förderung auf kostenintensive Teile der Maßnahme.
 
 (+++ § 27 Abs. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 28 – Pflichten der Förderungsberechtigten
+# § 28 – Pflichten der Förderungsberechtigten
 
 (1) Die Förderungsberechtigten haben dem Karrierecenter der Bundeswehr – Berufsförderungsdienst – alle Umstände, die für die Förderung von Bedeutung sein können, unverzüglich anzuzeigen. Dies gilt insbesondere, wenn sie
 
@@ -772,8 +738,7 @@ Meldepflichten nach anderen Vorschriften bleiben unberührt.
 
 (5) Hinsichtlich der Auskunftspflicht nach § 60 Abs. 4 des Soldatenversorgungsgesetzes fordert das Karrierecenter der Bundeswehr – Berufsförderungsdienst – zur Abgabe der Erklärung über den Stand der zivilberuflichen Eingliederung auf und überwacht deren Eingang.
 
-
-## § 29 – Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes
+# § 29 – Bestandteile der Bewilligungen nach § 5 des Soldatenversorgungsgesetzes
 
 (1) Eine bewilligte Förderung kann auch mit Wirkung für die Vergangenheit widerrufen werden, wenn
 
@@ -799,8 +764,7 @@ nicht erwartet werden kann, dass das Ziel der Bildungsmaßnahme erreicht wird. D
 
 Bereits entstandene Kosten werden im Fall der Nummern 1 und 4 gegen Nachweis erstattet; dies gilt auch für zwingend notwendige Kosten, die vor Antritt einer Maßnahme entstanden sind.
 
-
-## § 30 – Unterstützung zur Erlangung eines Arbeitsplatzes
+# § 30 – Unterstützung zur Erlangung eines Arbeitsplatzes
 
 (1) Für die Unterstützung zur Erlangung eines Arbeitsplatzes wird bei dem Bundesamt für das Personalmanagement der Bundeswehr und bei den Karrierecentern der Bundeswehr – Berufsförderungsdienst – ein Job-Service eingerichtet.
 
@@ -820,8 +784,7 @@ Satz 1 gilt entsprechend für Soldatinnen auf Zeit und Soldaten auf Zeit mit ein
 
 (3) 50 Prozent der Vergütung nach Absatz 2 werden nach sechswöchiger Dauer des Beschäftigungsverhältnisses und die restlichen 50 Prozent nach sechsmonatiger Dauer des Beschäftigungsverhältnisses gezahlt.
 
-
-## § 31 – Eingliederungshilfen
+# § 31 – Eingliederungshilfen
 
 (1) Zu den Eingliederungshilfen zählen neben den Eingliederungsmaßnahmen im Sinne des § 7 Abs. 2 des Soldatenversorgungsgesetzes
 
@@ -841,8 +804,7 @@ Satz 1 gilt entsprechend für Soldatinnen auf Zeit und Soldaten auf Zeit mit ein
 
 (4) Soldatinnen auf Zeit und Soldaten auf Zeit, die keinen Anspruch auf Förderung der schulischen oder beruflichen Bildung nach § 5 des Soldatenversorgungsgesetzes erworben haben, sowie Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des Soldatengesetzes leisten, werden Eingliederungshilfen nach Absatz 1 mit Ausnahme der Hilfen nach Absatz 1 Nummer 3 und 5 nur gewährt, wenn sie innerhalb eines Jahres nach Beendigung des Dienstverhältnisses mit der Maßnahme beginnen.
 
-
-## § 32 – Einarbeitungszuschuss
+# § 32 – Einarbeitungszuschuss
 
 (1) Der Einarbeitungszuschuss soll gewährt werden, wenn die Arbeitgeberin oder der Arbeitgeber in einem unbefristeten oder in einem auf die Dauer von mindestens einem Jahr befristeten Arbeitsverhältnis über die übliche - in der Regel kurzfristige - Einweisung hinaus im Rahmen eines Einarbeitungsplanes zunächst das Leistungsvermögen der Förderungsberechtigten an die Anforderungen des Arbeitsplatzes und des Betriebes heranführen muss.
 
@@ -858,8 +820,7 @@ Satz 1 gilt entsprechend für Soldatinnen auf Zeit und Soldaten auf Zeit mit ein
 
 (7) Die Arbeitgeberin oder der Arbeitgeber hat den gewährten Einarbeitungszuschuss sofort zurückzuzahlen, wenn das Arbeitsverhältnis während der Einarbeitungszeit aus Gründen gelöst wird, die die Arbeitgeberin oder der Arbeitgeber zu vertreten hat.
 
-
-## § 32a – Lohnkostenzuschuss
+# § 32a – Lohnkostenzuschuss
 
 (1) Von einem zusätzlichen Unterstützungsbedarf im Sinne des § 7 Absatz 9 des Soldatenversorgungsgesetzes ist auszugehen, wenn nach den Gesamtumständen des Einzelfalls unter Berücksichtigung der Arbeitsmarktsituation nicht von einer baldigen Eingliederung in das zivile Erwerbsleben auf einen zumutbaren Arbeitsplatz ausgegangen werden kann. Ein zusätzlicher Unterstützungsbedarf liegt nicht vor, wenn die ehemalige Soldatin oder der ehemalige Soldat bisher nicht in zumutbarer Weise an der Eingliederung mitgewirkt hat. Die Feststellung des Unterstützungsbedarfs erfolgt schriftlich und ist der ehemaligen Soldatin auf Zeit oder dem ehemaligen Soldaten auf Zeit auszuhändigen.
 
@@ -891,8 +852,7 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (5) Die Feststellung des Unterstützungsbedarfs ist nach Abschluss eines Arbeitsvertrages aufzuheben.
 
-
-## § 33 – Erstattung von Kosten für Vorstellungsreisen
+# § 33 – Erstattung von Kosten für Vorstellungsreisen
 
 (1) Den Förderungsberechtigten können die notwendigen Kosten für Vorstellungsreisen auf schriftlichen Antrag erstattet werden, es sei denn, es bestehen auf Grund des bisherigen Förderungsverlaufs erhebliche Zweifel an der Ernsthaftigkeit der Bewerbung und die Förderungsberechtigten wirken nicht angemessen an der Behebung der Zweifel mit.
 
@@ -902,8 +862,7 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (4) (weggefallen)
 
-
-## § 34 – Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes
+# § 34 – Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes
 
 (1) Über die Freistellung vom militärischen Dienst zur Teilnahme an einem Berufsorientierungspraktikum nach § 7 Abs. 3 des Soldatenversorgungsgesetzes wird auf den vor dem Beginn des Praktikums schriftlich oder elektronisch gestellten Antrag der Förderungsberechtigten entsprechend dem Verfahren nach § 16 Absatz 3 entschieden.
 
@@ -913,8 +872,7 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (+++ § 34 Abs. 1 u. 2: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 35 – Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes
+# § 35 – Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes
 
 (1) Über die Freistellung vom militärischen Dienst nach § 7 Absatz 3 des Soldatenversorgungsgesetzes zur Teilnahme an einem Berufsorientierungspraktikum entscheidet das Karrierecenter der Bundeswehr – Berufsförderungsdienst –; § 16 Absatz 3 gilt entsprechend. Der Antrag ist vor Beginn des Berufsorientierungspraktikums zu stellen.
 
@@ -926,13 +884,11 @@ Ein Lohnkostenzuschuss wird nicht neben einem Einarbeitungszuschuss gewährt.
 
 (+++ § 35 Abs. 1: Zur Weiteranwendung in der bis zum 27.8.2015 geltenden Fassung vgl. § 38 F. 4.8.2019 +++)
 
-
-## § 36 – Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen
+# § 36 – Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen
 
 Auf schriftlichen oder elektronischen Antrag werden die Kosten für fachberufliche Prüfungen, die unabhängig von Maßnahmen nach den §§ 4 und 5 des Soldatenversorgungsgesetzes für den Zivilberuf abgelegt werden, sowie Kosten für die Umschreibung der im militärischen Bereich erworbenen in die im zivilen Bereich gültigen Berechtigungen im Rahmen der zur Verfügung stehenden Haushaltsmittel erstattet, wenn dadurch die Eingliederung in das zivile Berufsleben voraussichtlich erleichtert wird. Hinsichtlich der Anrechnung der Kosten gilt § 5 Abs. 2 entsprechend. Reise- und Trennungsauslagen werden nicht erstattet.
 
-
-## § 36a – Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes
+# § 36a – Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes
 
 (1) Das Karrierecenter der Bundeswehr – Berufsförderungsdienst – bietet unter Beteiligung des Sozialdienstes der Bundeswehr regelmäßig zielgruppenspezifische Eingliederungsseminare nach § 7 Absatz 5 des Soldatenversorgungsgesetzes an. Die Teilnahme ist kostenfrei; dies gilt auch für Personen nach § 7 Absatz 5 Satz 3 des Soldatenversorgungsgesetzes.
 
@@ -940,19 +896,16 @@ Auf schriftlichen oder elektronischen Antrag werden die Kosten für fachberuflic
 
 (3) Die truppendienstlichen Vorgesetzten sorgen dafür, dass die Soldatin auf Zeit oder der Soldat auf Zeit an dem Eingliederungsseminar teilnimmt.
 
-
-## § 37 – Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung
+# § 37 – Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung
 
 Auf schriftlichen oder elektronischen Antrag bescheinigt das Karrierecenter der Bundeswehr – Berufsförderungsdienst – Art und Umfang der zivilberuflich verwertbaren Anteile der militärischen Ausbildung und Verwendung. Die militärische Ausbildung und Verwendung ist von den Förderungsberechtigten in geeigneter Form nachzuweisen.
 
-
-## § 38 – Übergangsregelungen
+# § 38 – Übergangsregelungen
 
 (1) Für Soldatinnen auf Zeit und Soldaten auf Zeit, für die nach § 102 des Soldatenversorgungsgesetzes das Soldatenversorgungsgesetz in der bis zum 25. Juli 2012 geltenden Fassung gilt, sind § 4 Absatz 4, § 5 Absatz 2, die §§ 16 und 19 Absatz 2, § 27 Absatz 2, § 34 Absatz 1 und 2 sowie § 35 Absatz 1 in der bis zum 27. August 2015 geltenden Fassung weiter anzuwenden.
 
 (2) § 6 Absatz 1 Satz 2 ist erstmalig anzuwenden bei Maßnahmen, die ab dem 1. Oktober 2019 beginnen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

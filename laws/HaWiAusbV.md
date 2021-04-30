@@ -1,17 +1,11 @@
-# [HaWiAusbV] Verordnung über die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin  (Hauswirtschafterausbildungsverordnung - HaWiAusbV)
-
-Ausfertigungsdatum: 19.03.2020
-
+% Verordnung über die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin  (Hauswirtschafterausbildungsverordnung - HaWiAusbV)
+% Ausfertigungsdatum: 19.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -35,27 +29,25 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artike
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes, Anerkennungsbereich des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes, Anerkennungsbereich des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf des Hauswirtschafters und der Hauswirtschafterin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
 (2) Der Ausbildungsberuf des Hauswirtschafters und der Hauswirtschafterin ist Ausbildungsberuf der Hauswirtschaft. Soweit die Ausbildung in Betrieben der Landwirtschaft stattfindet, ist er ein Ausbildungsberuf der Landwirtschaft.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -121,18 +113,15 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten sind in Berufsbildpositionen als T
 
 5. Digitalisierung der Arbeit, Datenschutz und Informationssicherheit.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Zeitpunkt
+# § 6 – Zeitpunkt
 
 Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt. Den Zeitrahmen legt die zuständige Stelle fest.
 
-
-## § 7 – Inhalt
+# § 7 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -140,8 +129,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereich
+# § 8 – Prüfungsbereich
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Hauswirtschaftliche Leistungen durchführen statt.
 
@@ -165,13 +153,11 @@ Die Zwischenprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsproben 120 Minuten. Innerhalb dieser Zeit dauert das situative Fachgespräch höchstens 10 Minuten. Die Prüfungszeit für die schriftliche Bearbeitung der Aufgaben beträgt 90 Minuten.
 
-
-## § 9 – Zeitpunkt
+# § 9 – Zeitpunkt
 
 Die Abschlussprüfung findet am Ende der Berufsausbildung statt. Den Zeitrahmen legt die zuständige Stelle fest.
 
-
-## § 10 – Inhalt
+# § 10 – Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -179,8 +165,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 11 – Prüfungsbereiche
+# § 11 – Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -194,8 +179,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 5. Wirtschafts- und Sozialkunde.
 
-
-## § 12 – Prüfungsbereich Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen
+# § 12 – Prüfungsbereich Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen
 
 (1) Im Prüfungsbereich Hauswirtschaftliche Versorgungs- und Betreuungsleistungen planen und umsetzen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -221,8 +205,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 3. für das auftragsbezogene Fachgespräch höchstens 15 Minuten.
 
-
-## § 13 – Prüfungsbereich Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten
+# § 13 – Prüfungsbereich Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten
 
 (1) Im Prüfungsbereich Hauswirtschaftliche Produkte und Dienstleistungen erstellen und vermarkten hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -254,8 +237,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (4) Die Prüfungszeit für die Planung und Durchführung des betrieblichen Auftrags sowie für die Dokumentation mit praxisbezogenen Unterlagen und für die Vorbereitung der Präsentation beträgt zusammen 24 Stunden. Die Präsentation dauert höchstens 10 Minuten. Die Prüfungszeit für das auftragsbezogene Fachgespräch beträgt höchstens 20 Minuten.
 
-
-## § 14 – Prüfungsbereich Verpflegung personenorientiert und zielgruppenorientiert planen
+# § 14 – Prüfungsbereich Verpflegung personenorientiert und zielgruppenorientiert planen
 
 (1) Im Prüfungsbereich Verpflegung personenorientiert und zielgruppenorientiert planen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -281,8 +263,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 15 – Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen
+# § 15 – Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen
 
 (1) Im Prüfungsbereich Textilien, Räume und Wohnumfeld beurteilen, reinigen und pflegen hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -312,8 +293,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 16 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 16 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -321,8 +301,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -353,8 +332,7 @@ reinigen und pflegen</td><td style="text-align: right;">mit 15 Prozent sowie</td
 
 3. in keinem Prüfungsbereich mit „ungenügend“.
 
-
-## § 18 – Mündliche Ergänzungsprüfung
+# § 18 – Mündliche Ergänzungsprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich eine mündliche Ergänzungsprüfung beantragen.
 
@@ -378,18 +356,15 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 19 – Bestehende Berufsausbildungsverhältnisse
+# § 19 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch keine Zwischenprüfung absolviert hat.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Ausbildungsverordnung Hauswirtschafter/Hauswirtschafterin vom 30. Juni 1999 (BGBl. I S. 1495) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin
 
 (Fundstelle: BGBl. I 2020, 735 - 742)
 
@@ -399,8 +374,7 @@ Diese Verordnung tritt am 1. August 2020 in Kraft. Gleichzeitig tritt die Ausbil
 
 1. Personenbetreuende Dienstleistungen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -411,11 +385,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -452,8 +424,7 @@ g) Kommunikationsprozesse personen-, zielgruppen- sowie situations- und lösungs
 
 2. Serviceorientierte Dienstleistungen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -464,11 +435,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -509,8 +478,7 @@ i) Kommunikationsprozesse personen-, zielgruppen- sowie situations- und lösungs
 
 3. Ländlich-agrarische Dienstleistungen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -521,11 +489,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen im
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 

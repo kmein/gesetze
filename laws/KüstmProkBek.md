@@ -1,15 +1,11 @@
-# [KüstmProkBek] Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres
-
-Ausfertigungsdatum: 11.11.1994
-
+% Bekanntmachung der Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres
+% Ausfertigungsdatum: 11.11.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die von der Bundesregierung am 19. Oktober 1994 beschlossene Proklamation über die Ausweitung des deutschen Küstenmeeres wird hiermit bekanntgemacht:
 
-
-## I.
+# I.
 
   
 Die seewärtige Abgrenzung des Küstenmeeres der Bundesrepublik Deutschland wird nach Maßgabe der folgenden Angaben festgelegt. Frühere Bekanntmachungen über die Abgrenzung des deutschen Küstenmeeres werden damit gegenstandslos.
@@ -114,8 +110,7 @@ Die Feststellung der vorstehenden Koordinaten erfolgt vorbehaltlich einer eventu
 
 Herausgeber: Bundesamt für Seeschiffahrt und Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg
 
-
-## II.
+# II.
 
   
 Dieser Beschluß tritt am 1. Januar 1995 in Kraft.

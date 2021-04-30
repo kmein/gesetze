@@ -1,10 +1,7 @@
-# [BRüG] Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger  (Bundesrückerstattungsgesetz - BRüG)
-
-Ausfertigungsdatum: 19.07.1957
-
+% Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger  (Bundesrückerstattungsgesetz - BRüG)
+% Ausfertigungsdatum: 19.07.1957
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -166,8 +163,7 @@ Schlußvorschriften
 
 §§ 45 bis 48
 
-
-## § 1
+# § 1
 
 (1) Dieses Gesetz findet auf rückerstattungsrechtliche Ansprüche gegen das Deutsche Reich einschließlich der Sondervermögen Deutsche Reichsbahn und Deutsche Reichspost Anwendung.
 
@@ -181,13 +177,11 @@ Schlußvorschriften
 
 4. die Reichsvereinigung der Juden in Deutschland und den Auswanderungsfonds Böhmen und Mähren.
 
-
-## § 2
+# § 2
 
 Rückerstattungsrechtliche Ansprüche im Sinne dieses Gesetzes sind Ansprüche, die nach den Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände (§ 11 Nr. 1) oder nach den Vorschriften dieses Gesetzes Rückerstattungsberechtigten oder deren Rechtsnachfolgern zustehen und auf einen Geldbetrag oder auf Schadensersatz gerichtet sind.
 
-
-## § 2a
+# § 2a
 
 (1) Ein in § 1 genannter Rechtsträger ist im Sinne der in § 11 Nr. 1 Buchstabe a genannten Rechtsvorschriften in bezug auf einen feststellbaren Vermögensgegenstand rückerstattungspflichtig, wenn er sich entgegen rechtsstaatlichen Grundsätzen das Eigentum, die Eigentümerstellung, den Besitz oder die Verfügungsmacht verschafft oder angemaßt hat.
 
@@ -199,45 +193,37 @@ Rückerstattungsrechtliche Ansprüche im Sinne dieses Gesetzes sind Ansprüche, 
 
 (5) Sind im Geltungsbereich der in § 11 Nr. 1 Buchstaben b und c genannten Rechtsvorschriften feststellbare Vermögensgegenstände von einem der in § 1 genannten Rechtsträger entzogen worden, so ist dieser Rechtsträger schadensersatzpflichtig, wenn die Gegenstände verloren gegangen, beschädigt, oder in ihrem Wert vermindert worden sind; § 848 des Bürgerlichen Gesetzbuches findet Anwendung. Das gleiche gilt, wenn feststellbare Vermögensgegenstände von einem der in § 1 genannten Rechtsträger entzogen worden und nachweislich in den Geltungsbereich der in § 11 Nr. 1 Buchstaben b und c genannten Rechtsvorschriften gelangt sind.
 
-
-## § 3
+# § 3
 
 Den rückerstattungsrechtlichen Ansprüchen gegen die in § 1 genannten Rechtsträger werden rückerstattungsrechtliche Ansprüche gleichgestellt, die sich nur auf Grund von Vermögens- oder Aufgabennachfolge nach den in § 1 genannten Rechtsträgern gegen den Bund oder einen anderen öffentlichen Rechtsträger richten könnten.
 
-
-## § 4
+# § 4
 
 Hat ein Dritter feststellbare Vermögensgegenstände entzogen, die anders als durch ein entgeltliches Rechtsgeschäft auf einen der in § 1 genannten Rechtsträger übergegangen sind, so trifft eine nach den Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände (§ 11 Nr. 1) gegebene Schadensersatzpflicht im Verhältnis zu dem Dritten nur diesen Rechtsträger. Ansprüche nach den Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände (§ 11 Nr. 1) bleiben unberührt.
 
-
-## § 5
+# § 5
 
 (1) Sind feststellbare Vermögensgegenstände von einem der in § 1 genannten Rechtsträger außerhalb des Geltungsbereichs dieses Gesetzes entzogen worden und nach der Entziehung nachweislich in diesen Geltungsbereich gelangt, ohne daß der Ort, an den die Gegenstände gelangt sind, feststeht, so gelten die Gegenstände als in den Geltungsbereich der in § 11 Nr. 1 Buchstabe d genannten Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände gelangt. Das gleiche gilt, wenn die entzogenen Vermögensgegenstände nachweislich in das Gebiet von Berlin innerhalb der in § 4 der Berliner Verfassung von 1950 festgelegten Grenzen gelangt sind.
 
 (2) Sind feststellbare Vermögensgegenstände von einem der in § 1 genannten Rechtsträger außerhalb des Geltungsbereichs der in § 11 Nr. 1 genannten Rechtsvorschriften und des Saarlandes entzogen worden und nach der Entziehung nachweislich in das Saarland gelangt, ohne daß der Ort, an den die Gegenstände gelangt sind, feststeht, so gelten die Gegenstände als in den Geltungsbereich der in § 11 Nr. 1 Buchstabe d genannten Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände gelangt.
 
-
-## § 5a
+# § 5a
 
 Sind feststellbare Vermögensgegenstände, die verlorengegangen sind, durch einen der in § 1 genannten Rechtsträger innerhalb der in Artikel 4 der Berliner Verfassung von 1950 festgelegten Grenzen, aber außerhalb des Gebiets der jetzigen Westsektoren von Berlin entzogen worden, so gilt die Entziehung als innerhalb des Geltungsbereichs der in § 11 Nr. 1 Buchstabe d genannten Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände vorgenommen, wenn die Personen, denen die Vermögensgegenstände entzogen worden sind, oder deren Rechtsnachfolger zu irgendeinem Zeitpunkt zwischen dem 30. Januar 1933 und dem 31. Dezember 1961 ihren Wohnsitz oder dauernden Aufenthalt oder ihren Sitz im Geltungsbereich dieses Gesetzes oder in Gebieten hatten, mit deren Regierungen die Bundesrepublik Deutschland am 8. Oktober 1964 diplomatische Beziehungen unterhält. § 45 Abs. 2 findet entsprechende Anwendung.
 
-
-## § 6
+# § 6
 
 Ist vor Inkrafttreten dieses Gesetzes über einen rückerstattungsrechtlichen Anspruch (§§ 1, 3) ganz oder teilweise rechtskräftig entschieden worden oder eine gütliche Einigung zustande gekommen, so hat die Entscheidung oder die gütliche Einigung nur die in diesem Gesetz vorgesehene Wirkung.
 
-
-## § 6a
+# § 6a
 
 In Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) kann ein Anspruch ganz oder teilweise durch gerichtliche Entscheidung versagt werden, wenn der Berechtigte sich unlauterer Mittel bedient oder vorsätzlich oder grob fahrlässig unrichtige oder irreführende Angaben über Grund oder Höhe des Anspruchs gemacht, veranlaßt oder zugelassen hat.
 
-
-## § 7
+# § 7
 
 Auf Grund rückerstattungsrechtlicher Ansprüche (§§ 1, 3) können Leistungen nur nach Maßgabe dieses Gesetzes gefordert werden.
 
-
-## § 7a
+# § 7a
 
 (1) In Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) soll von der Vorlage eines Erbscheins abgesehen werden, wenn die Erbberechtigung auch ohne Vorlage eines Erbscheins nachweisbar ist.
 
@@ -245,23 +231,19 @@ Auf Grund rückerstattungsrechtlicher Ansprüche (§§ 1, 3) können Leistungen 
 
 (3) Die Erteilung des Erbscheins für den Rückerstattungsanspruch einschließlich des vorausgegangenen Verfahrens ist gebühren- und auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 
-
-## § 8
+# § 8
 
 Rückerstattungsrechtliche Ansprüche (§§ 1, 3) können abgetreten, verpfändet oder gepfändet werden.
 
-
-## § 9
+# § 9
 
 In Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) werden die in § 1 genannten Rechtsträger durch den Bundesminister der Finanzen oder von ihm zu bestimmende nachgeordnete Behörden der Bundesfinanzverwaltung vertreten.
 
-
-## § 10
+# § 10
 
 Soweit in einem Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) einer der in § 1 genannten Rechtsträger verpflichtet worden ist oder verpflichtet wird, dem Berechtigten die Kosten des Verfahrens zu erstatten, richtet sich der Anspruch auf Kostenerstattung gegen den Bund.
 
-
-## § 11
+# § 11
 
 In diesem Gesetz werden bezeichnet
 
@@ -309,8 +291,7 @@ das Gesetz zur Milderung von Härten der Währungsreform (Altsparergesetz) in de
 
 das Reichsbewertungsgesetz vom 16. Oktober 1934 (Reichsgesetzbl. I S. 1035) in der Fassung des Gesetzes zur Bewertung des Vermögens für die Kalenderjahre 1949 bis 1951 (Hauptveranlagung 1949) vom 16. Januar 1952 (Bundesgesetzbl. I S. 22).
 
-
-## § 12
+# § 12
 
 (1) Sind im Geltungsbereich der in § 11 Nr. 1 Buchstabe c genannten Verordnung Nr. 120 Vermögensgegenstände, die im Zeitpunkt der Entziehung feststellbar waren, durch eine im Sinne der Artikel 1 bis 3 dieser Verordnung nichtige oder anfechtbare Verfügung von einem der in § 1 genannten Rechtsträger entzogen worden, so ist dieser Rechtsträger schadensersatzpflichtig, wenn die Gegenstände verlorengegangen, beschädigt oder in ihrem Wert vermindert worden sind; das gleiche gilt, wenn solche Vermögensgegenstände zunächst von einem Dritten entzogen und alsdann auf einen der in § 1 genannten Rechtsträger übergegangen sind. Eine Schadensersatzpflicht des Rechtsträger besteht nicht, wenn der Rechtsträger nachweist, daß der Verlust, die Beschädigung oder die Wertminderung nicht auf seinem Verschulden beruht.
 
@@ -320,8 +301,7 @@ das Reichsbewertungsgesetz vom 16. Oktober 1934 (Reichsgesetzbl. I S. 1035) in d
 
 (4) Eine Schadensersatzpflicht der in § 1 genannten Rechtsträger nach Absatz 1 besteht gegenüber Nachfolgeorganisationen nicht.
 
-
-## § 13
+# § 13
 
 (1) Ist Umzugsgut in einem außerhalb des Geltungsbereichs dieses Gesetzes gelegenen europäischen Ort vom Deutschen Reich entzogen worden, so ist das Deutsche Reich nach den Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände oder nach § 12 schadensersatzpflichtig, wenn der Verfolgte aus dem Geltungsbereich dieses Gesetzes ausgewandert ist oder auszuwandern beabsichtigte und vor der Auswanderung oder vor der Versendung des Umzugsgutes seinen letzten Wohnsitz oder dauernden Aufenthalt im Geltungsbereich dieses Gesetzes gehabt hat. Die Entziehung gilt als an dem Ort erfolgt, an dem der Verfolgte vor der Auswanderung oder vor der Versendung des Umzugsgutes seinen letzten Wohnsitz oder dauernden Aufenthalt im Geltungsbereich dieses Gesetzes gehabt hat.
 
@@ -335,8 +315,7 @@ das Reichsbewertungsgesetz vom 16. Oktober 1934 (Reichsgesetzbl. I S. 1035) in d
 
 (4) Die Schadensersatzpflicht des Deutschen Reichs entfällt in dem Umfange, als der Berechtigte Entschädigung von einem anderen Staat erhalten hat. Soweit diese Entschädigung in fremder Währung geleistet wurde, ist sie zu dem am 1. April 1956 gültigen Kurs auf den Schadensersatzbetrag anzurechnen.
 
-
-## § 14
+# § 14
 
 (1) Ist vor Inkrafttreten dieses Gesetzes über einen rückerstattungsrechtlichen Anspruch (§§ 1, 3) ganz oder teilweise rechtskräftig entschieden worden oder eine gütliche Einigung rechtsgültig zustande gekommen, so gilt die Entscheidung oder die gütliche Einigung als nach Maßgabe der §§ 15 bis 26 ergänzt oder abgeändert. Das gleiche gilt, wenn eine vorher ergangene Entscheidung nach Inkrafttreten dieses Gesetzes in Rechtskraft erwachsen oder eine vorher getroffene gütliche Einigung nach Inkrafttreten dieses Gesetzes rechtsgültig geworden ist.
 
@@ -344,8 +323,7 @@ das Reichsbewertungsgesetz vom 16. Oktober 1934 (Reichsgesetzbl. I S. 1035) in d
 
 (3) Auf Ansprüche der Nachfolgeorganisationen oder ihrer Rechtsnachfolger, die unter die zwischen der Bundesrepublik Deutschland und den Nachfolgeorganisationen oder ihren Rechtsnachfolgern geschlossenen Globalvereinbarungen fallen, finden die §§ 15 bis 26 keine Anwendung.
 
-
-## § 15
+# § 15
 
 (1) Rückerstattungsrechtliche Ansprüche auf Zahlung eines Reichsmarkbetrages gelten als im Zeitpunkt der Währungsumstellung im Verhältnis 10:1 auf Deutsche Mark umgestellt.
 
@@ -353,32 +331,27 @@ das Reichsbewertungsgesetz vom 16. Oktober 1934 (Reichsgesetzbl. I S. 1035) in d
 
 (3) Absatz 2 findet keine Anwendung auf rückerstattungsrechtliche Ansprüche, die sich auf Herausgabe des Reinertrags der Nutzungen richten.
 
-
-## § 16
+# § 16
 
 (1) Rückerstattungsrechtliche Schadensersatzansprüche sind auf Ersatzleistung in Deutscher Mark gerichtet, auch wenn sie nach den Vorschriften des bürgerlichen Rechts auf Herstellung des Zustandes gerichtet sind, der bestehen würde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten wäre. Bei der Bemessung der Höhe des Schadensersatzbetrags ist der Wiederbeschaffungswert des entzogenen Vermögensgegenstandes im Geltungsbereich dieses Gesetzes zugrunde zu legen. Maßgebend ist der Wiederbeschaffungswert am 1. April 1956; sind Sachen entzogen worden, so ist deren Zustand im Zeitpunkt der Entziehung zu berücksichtigen.
 
 (2) Für Vorteile, die der Gebrauch des entzogenen Vermögensgegenstandes gewährt hätte, wird ein Ersatz nicht geleistet. Sind sonstige Nutzungen oder Zinsen oder sonstige geldwerte Vorteile entgangen, so wird dem Schadensersatzbetrag nach Absatz 1 ein Betrag von 25 vom Hundert hinzugerechnet; der Zuschlag von 25 vom Hundert ermäßigt sich auf 10 vom Hundert, wenn Nutzungen oder sonstige geldwerte Vorteile entzogener Aktien oder sonstiger Beteiligungen entgangen sind.
 
-
-## § 17
+# § 17
 
 (1) Läßt sich der Wiederbeschaffungswert des entzogenen Vermögensgegenstandes am 1. April 1956 nicht ermitteln oder liegt er unter dem im Verhältnis 10:1 in Deutsche Mark umgerechneten Wert des Vermögensgegenstandes im Zeitpunkt der Entziehung, so gilt der im Verhältnis 10:1 in Deutsche Mark umgerechnete Wert des Vermögensgegenstandes im Zeitpunkt der Entziehung als Schadensersatzbetrag.
 
 (2) § 16 Abs. 2 findet entsprechende Anwendung. Dies gilt nicht, soweit der Schadensersatzbetrag nach Absatz 1 sich aus den entgangenen Nutzungen oder Zinsen oder sonstigen geldwerten Vorteilen errechnet.
 
-
-## § 18
+# § 18
 
 Ist vor Inkrafttreten dieses Gesetzes die Höhe des Schadensersatzbetrages durch rechtskräftige Entscheidung oder gütliche Einigung in Deutscher Mark festgesetzt worden, so gilt der festgesetzte Betrag als Schadensersatzbetrag nach § 16 oder nach § 17, es sei denn, daß Ersatz für entzogene Forderungen oder Wertpapiere zu leisten ist; § 14 Abs. 1 Satz 2 findet entsprechende Anwendung. Ist vor Inkrafttreten dieses Gesetzes die Höhe des Schadensersatzbetrages durch rechtskräftige Entscheidung ohne Berücksichtigung der entgangenen Zinsen und Nutzungen und sonstigen geldwerten Vorteile in Deutscher Mark festgesetzt worden, so erhöht sich der Schadensersatzbetrag um den in § 16 Abs. 2 Satz 2 oder in § 17 Abs. 2 genannten Betrag.
 
-
-## § 19
+# § 19
 
 Bei rückerstattungsrechtlichen Schadensersatzansprüchen auf Zahlung einer Rente werden die bis zum 31. März 1956 fällig gewesenen Beträge mit der Maßgabe zusammengerechnet, daß die Reichsmarkbeträge im Verhältnis 10:1 in Deutsche Mark umgerechnet werden. Die ab 1. April 1956 zu zahlende Rente ist zu kapitalisieren. Der Kapitalwert der Rente ist nach den Vorschriften des Reichsbewertungsgesetzes zu errechnen.
 
-
-## § 20
+# § 20
 
 (1) Bei rückerstattungsrechtlichen Schadensersatzansprüchen wegen der Entziehung einer Reichsmarkforderung, die ohne die Entziehung als Reichsmarkforderung im Sinne des § 13 Abs. 3 des Umstellungsgesetzes umgestellt worden wäre, gilt für die Bemessung des Schadensersatzbetrags die Reichsmarkforderung als im Zeitpunkt der Währungsumstellung in dem Verhältnis auf Deutsche Mark umgestellt, in dem die Reichsmarkforderung ohne die Entziehung umgestellt worden wäre; richtet sich die entzogene Forderung gegen einen der in § 14 des Umstellungsgesetzes genannten Schuldner, so bemißt sich die Höhe des Schadensersatzbetrags nach der künftigen gesetzlichen Regelung der Forderung gegen die in § 14 des Umstellungsgesetzes genannten Schuldner.
 
@@ -386,8 +359,7 @@ Bei rückerstattungsrechtlichen Schadensersatzansprüchen auf Zahlung einer Rent
 
 (3) § 16 Abs. 2 findet Anwendung.
 
-
-## § 21
+# § 21
 
 (1) Bei der Bemessung des Schadensersatzbetrags nach § 20 ist diesem der Betrag der Entschädigung nach § 5 des Altsparergesetzes hinzuzurechnen, wenn der rückerstattungsrechtliche Anspruch dem Berechtigten wegen der Entziehung einer Reichsmarkforderung (§ 20 Abs. 1) zusteht, für die dem Berechtigten Entschädigung nach dem Altsparergesetz zu gewähren sein würde. Die entzogene RM-Forderung wird so behandelt, als hätte sie dem Berechtigten vom Zeitpunkt der Entziehung bis zum Zeitpunkt der Umstellung auf Deutsche Mark zugestanden.
 
@@ -395,23 +367,19 @@ Bei rückerstattungsrechtlichen Schadensersatzansprüchen auf Zahlung einer Rent
 
 (3) Absatz 1 und 2 finden auf die Entziehung eines Guthabens (§ 20 Abs. 2) entsprechende Anwendung.
 
-
-## § 22
+# § 22
 
 Hat der Berechtigte aus demselben Entziehungstatbestand gegen einen der in § 1 genannten Rechtsträger sowohl einen rückerstattungsrechtlichen Schadensersatzanspruch als auch einen rückerstattungsrechtlichen Anspruch auf Zahlung eines Reichsmarkbetrags oder hat er diese Ansprüche wahlweise, so wird der eine Anspruch durch den anderen nicht berührt; der Berechtigte muß sich jedoch den Betrag, den er auf Grund des einen Anspruchs erlangt, auf den Betrag, der ihm auf Grund des anderen Anspruchs zusteht, anrechnen lassen.
 
-
-## § 23
+# § 23
 
 Steht dem rückerstattungsrechtlichen Anspruch (§§ 1, 3) ein Gegenanspruch aus demselben Entziehungstatbestand gegenüber, so vermindert sich der rückerstattungsrechtliche Anspruch um den Wert des Gegenanspruchs am 1. April 1956; § 20 Abs. 1 zweiter Halbsatz findet sinngemäß Anwendung.
 
-
-## § 24
+# § 24
 
 Steht ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) im Zeitpunkt des Inkrafttretens dieses Gesetzes mehreren Personen zur gesamten Hand oder gemeinschaftlich nach Bruchteilen zu, so ist eine Auseinandersetzung der Gemeinschaft in Ansehung dieses Anspruchs ausgeschlossen. Eine entgegenstehende Vereinbarung ist nichtig.
 
-
-## § 25
+# § 25
 
 (1) Ein rückerstattungsrechtlicher Anspruch (§§ 1, 3), auf den ein Land Leistungen bewirkt, geht bis zur Höhe der Leistungen auf das Land über. Sind die Leistungen vor Inkrafttreten dieses Gesetzes bewirkt worden, so gilt der Anspruch als im Zeitpunkt der Leistungen übergegangen.
 
@@ -419,13 +387,11 @@ Steht ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) im Zeitpunkt des Inkr
 
 (3) Ein nach Absatz 1 oder 2 übergegangener Anspruch kann nach diesem Gesetz nicht geltend gemacht werden, soweit eine Sonderabgabe im Sinne des Bundesentschädigungsgesetzes durch Barzahlung oder auf Grund einer Anweisung zur Zahlung entrichtet worden ist.
 
-
-## § 26
+# § 26
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf einen Dritten übergegangen, so kann jeder der Berechtigten den Anspruch im ganzen geltend machen. Der Anspruch kann nur dahin geltend gemacht werden, daß Leistungen an die Berechtigten nach Maßgabe ihrer Beteiligung zu bewirken sind. Der Anspruch gilt auch dann als im ganzen geltend gemacht, wenn ein Berechtigter lediglich den auf ihn entfallenden Teil geltend macht.
 
-
-## § 27
+# § 27
 
 (1) Im Geltungsbereich der in § 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften sind Ansprüche nach § 13 von dem Berechtigten bei dem zuständigen Zentralanmeldeamt anzumelden.
 
@@ -435,8 +401,7 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf einen Dri
 
 (4) Auf das Verfahren bei der Anmeldung und das weitere Verfahren finden die Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände (§ 11 Nr. 1 Buchstaben a, b und d) Anwendung.
 
-
-## § 28
+# § 28
 
 (1) Im Geltungsbereich der in § 11 Nr. 1 Buchstabe c genannten Rechtsvorschriften sind Ansprüche nach §§ 12, 13 von dem Berechtigten durch Klage vor der Restitutionskammer des zuständigen Landgerichts geltend zu machen. Sind die Ansprüche vor Inkrafttreten dieses Gesetzes in einem Entschädigungsverfahren geltend gemacht worden, so gilt die Erhebung der Klage zugleich als Antrag an das Entschädigungsorgan, die Sache an die Restitutionskammer abzugeben.
 
@@ -448,8 +413,7 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf einen Dri
 
 (5) Einer Klageerhebung nach Absatz 1 bedarf es nicht, wenn innerhalb der Frist des Absatzes 2 eine gütliche Einigung zwischen dem Berechtigten und der nach § 9 zuständigen Behörde dem Vorsitzenden der Restitutionskammer gemäß den in § 11 Nr. 1 Buchstabe c genannten Rechtsvorschriften zur Bestätigung vorgelegt wird.
 
-
-## § 29
+# § 29
 
 (1) Im Geltungsbereich der in § 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften kann ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) von dem Berechtigten bei dem zuständigen Zentralanmeldeamt erneut angemeldet werden, wenn und soweit vor Inkrafttreten dieses Gesetzes
 
@@ -467,15 +431,13 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf einen Dri
 
 (5) § 27 Abs. 2 bis 4 finden Anwendung.
 
-
-## § 29a
+# § 29a
 
 (1) Die Fristen des § 27 Abs. 2, § 28 Abs. 2 und § 29 Abs. 5 gelten als gewahrt, wenn der Berechtigte bis zum 1. April 1959 den rückerstattungsrechtlichen Anspruch (§§ 1, 3) irrtümlich bei einer unzuständigen Behörde der Bundesrepublik Deutschland angemeldet oder durch Klage bei einem unzuständigen Gericht der Bundesrepublik Deutschland geltend gemacht hat und aus der Anmeldung die feststellbaren Vermögensgegenstände erkennbar sind, für die Ersatz verlangt wird.
 
 (2) Die Anmeldung nach Absatz 1 wird unwirksam, wenn der Anspruch nicht bis zum 8. Oktober 1965 im Rückerstattungsverfahren geltend gemacht wird. § 27 Abs. 4 und § 28 Abs. 4 finden entsprechende Anwendung.
 
-
-## § 29b
+# § 29b
 
 (1) Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) wegen der Entziehung von Hausrat in den ehemals besetzten Westgebieten oder wegen der Entziehung von Schmuck- und Edelmetallgegenständen in den ehemals besetzten oder eingegliederten Gebieten rechtskräftig zurückgewiesen oder zurückgenommen worden, weil nicht nachzuweisen war, daß die entzogenen Vermögensgegenstände in den nach § 5 maßgeblichen Bereich gelangt sind, kann der Anspruch erneut im Rückerstattungsverfahren geltend gemacht werden, wenn solche Vermögensgegenstände auf Grund allgemeiner Maßnahmen aus dem Entziehungsgebiet ganz oder überwiegend in den nach § 5 maßgeblichen Bereich gelangt sind.
 
@@ -487,8 +449,7 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf einen Dri
 
 (5) Rechtsverordnungen nach den Absätzen 2 und 4 können nur bis zum 31. Dezember 1965 erlassen werden.
 
-
-## § 30
+# § 30
 
 (1) Ist im Geltungsbereich der in § 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften ein seiner Rechtsnatur nach rückerstattungsrechtlicher Anspruch (§§ 1, 3) irrtümlich nach §§ 189, 231 des Bundesentschädigungsgesetzes bis zum 1. April 1958 angemeldet worden, so gilt diese Anmeldung als fristgemäße Anmeldung nach §§ 27, 29, wenn aus der Anmeldung die feststellbaren Vermögensgegenstände erkennbar sind, für die Ersatz verlangt wird; das gleiche gilt auch, wenn die Anmeldung nach Ablauf der Frist des § 189 des Bundesentschädigungsgesetzes bis zum 1. April 1959 erfolgt ist. Durch die Anmeldung gilt auch die Klagefrist des § 28 Abs. 2 als gewahrt.
 
@@ -504,27 +465,23 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) teilweise auf einen Dri
 
 § 30 Abs. 1 Satz 1 u. Abs. 2 Satz 1: IdF d. Art. I Nr. 9 G v. 2.10.1964 I 809, 930 gem. BVerfGE v. 24.7.1968 I 967 nichtig, soweit er die Einschränkung enthält "wenn aus der Anmeldung die feststellbaren Gegenstände erkennbar sind, für die Ersatz verlangt wird" - 1 BvR 537/65 -
 
-
-## § 30a
+# § 30a
 
 (1) Ist ein Verfahren über rückerstattungsrechtliche Ansprüche (§§ 1, 3) bei einer unzuständigen Wiedergutmachungsbehörde anhängig, so ist die Sache auf Antrag des Berechtigten über das zuständige Zentralanmeldeamt an die zuständige Wiedergutmachungsbehörde oder, falls eine solche nicht besteht, an das zuständige Wiedergutmachungsgericht 1. Instanz zu verweisen.
 
 (2) Ist ein solches Verfahren bei einem unzuständigen Wiedergutmachungsgericht anhängig, so ist die Sache auf Antrag des Berechtigten über das zuständige Zentralanmeldeamt an die zuständige Wiedergutmachungsbehörde oder an das zuständige Wiedergutmachungsgericht 1. Instanz zu verweisen.
 
-
-## § 30b
+# § 30b
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) rechtswirksam nach den in § 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften oder nach den §§ 27, 29 und 30 angemeldet worden, ohne daß die einzelnen feststellbaren Vermögensgegenstände erkennbar sind, für die Ersatz verlangt wird, so wird die Anmeldung unwirksam, soweit nicht bis 5. September 1970 die Beschreibung der einzelnen Gegenstände, für die Ersatz verlangt wird, nachgeholt worden ist.
 
-
-## § 31
+# § 31
 
 (1) Die Bundesrepublik Deutschland ist verpflichtet, die rückerstattungsrechtlichen Ansprüche (§§ 1, 3) nach Maßgabe der folgenden Vorschriften zu erfüllen.
 
 (2) Die sich aus der Verpflichtung nach Absatz 1 ergebenden Lasten trägt der Bund.
 
-
-## § 32
+# § 32
 
 (1) Die rückerstattungsrechtlichen Ansprüche (§§ 1, 3) werden für den einzelnen Berechtigten in einem Bescheid (§ 38) zusammengefaßt und nach den folgenden Vorschriften befriedigt.
 
@@ -540,42 +497,35 @@ b) ab 1. Januar 1966, wenn der Anspruch einer juristischen Person zusteht, die n
 
 c) ab 1. Januar 1967, wenn der Anspruch anderen als den in Buchstaben a und b genannten Personen zusteht.
 
-
-## § 33
+# § 33
 
 \-
 
-
-## § 34
+# § 34
 
 (1) Der für den einzelnen Berechtigten insgesamt im Bescheid (§ 38) festgestellte Betrag ist, soweit er am 31. Dezember 1967 noch nicht gezahlt ist, ab 1. Januar 1968 zu verzinsen. Die Zinsen betragen 1 vom Hundert für jedes angefangene Vierteljahr.
 
 (2) Die Geltendmachung eines weiteren Verzugsschadens ist ausgeschlossen.
 
-
-## § 35
+# § 35
 
 Die Vorschriften der §§ 32, 34 finden keine Anwendung auf die Befriedigung der in § 14 Abs. 3 genannten rückerstattungsrechtlichen Ansprüche (§§ 1, 3) der Nachfolgeorganisationen oder ihrer Rechtsnachfolger.
 
-
-## § 36
+# § 36
 
 Vorleistungen werden auf die von der Bundesrepublik Deutschland nach §§ 32, 34 zu bewirkenden Leistungen angerechnet. Das gleiche gilt für Darlehen, die mit der Maßgabe einer Verrechnung nach Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs gewährt worden sind. Die Anrechnung wird am 1. April 1956 wirksam; hat der Berechtigte Vorleistungen oder Darlehen nach dem 1. April 1956 erhalten, so wird die Anrechnung am Tag der Zahlung wirksam.
 
-
-## § 37
+# § 37
 
 Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) nach § 25 teilweise auf ein Land übergegangen, so werden die nach §§ 32, 34 zu leistenden Zahlungen bis zur Befriedigung des übergegangenen Anspruchs an das Land bewirkt.
 
-
-## § 38
+# § 38
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen erteilt dem Berechtigten über die nach § 31 von der Bundesrepublik Deutschland zu erfüllenden rückerstattungsrechtlichen Ansprüche (§§ 1, 3) einen Bescheid. Im Falle des § 14 Abs. 1 ist in dem Bescheid auszusprechen, ob und in welchem Umfang die Entscheidung oder die gütliche Einigung als nach Maßgabe der §§ 15 bis 26 ergänzt oder abgeändert gilt.
 
 (2) (weggefallen)
 
-
-## § 39
+# § 39
 
 (1) Der Bescheid soll enthalten
 
@@ -607,8 +557,7 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) nach § 25 teilweise au
 
 (2) Im Falle des § 38 Abs. 1 Satz 2 soll der Bescheid ferner enthalten die Gründe für die Abänderung oder Ergänzung gemäß § 14 Abs. 1.
 
-
-## § 40
+# § 40
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen hat von Amts wegen alle für den Bescheid nach § 39 Abs. 1 Nr. 5 und 7 erheblichen Tatsachen zu ermitteln; alle Behörden und Gerichte haben ihr unentgeltlich Amts- und Rechtshilfe zu leisten.
 
@@ -622,13 +571,11 @@ Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) nach § 25 teilweise au
 
 (6) Ein Recht auf Aushändigung der Akten haben nur Rechtsanwälte.
 
-
-## § 41
+# § 41
 
 Der Bescheid ist dem Berechtigten zuzustellen. Zustellungen erfolgen nach den Vorschriften des Verwaltungszustellungsgesetzes.
 
-
-## § 42
+# § 42
 
 (1) Innerhalb einer Frist von drei Monaten nach Zustellung des Bescheids kann der Berechtigte gerichtliche Entscheidung beantragen; der Antrag kann insbesondere darauf gestützt werden, daß in dem Bescheid die Aufteilung des Geldbetrags gemäß § 32 unzutreffend vorgenommen oder, falls vor Inkrafttreten dieses Gesetzes eine gerichtliche Entscheidung rechtskräftig oder eine gütliche Einigung rechtsgültig geworden ist (§ 14 Abs. 1), die Höhe des geschuldeten Geldbetrags im Bescheid unzutreffend festgesetzt ist. Wohnt der Berechtigte im Ausland, so tritt an die Stelle der Frist von drei Monaten eine Frist von sechs Monaten.
 
@@ -640,13 +587,11 @@ Der Bescheid ist dem Berechtigten zuzustellen. Zustellungen erfolgen nach den Vo
 
 (5) Auf das Verfahren finden die Rechtsvorschriften zur Rückerstattung feststellbarer Vermögensgegenstände (§ 11 Nr. 1) Anwendung. Ein Anwaltszwang besteht nicht.
 
-
-## § 43
+# § 43
 
 Die Zahlung erfolgt unverzüglich nach Zustellung des Bescheids in Höhe der nach diesem Bescheid fälligen Beträge.
 
-
-## § 43a
+# § 43a
 
 (1) Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) durch rechtskräftige Entscheidung oder rechtsgültige gütliche Einigung festgestellt und stellt sich nachträglich heraus, daß der Berechtigte sich unlauterer Mittel bedient oder vorsätzlich oder grob fahrlässig unrichtige oder irreführende Angaben über Grund oder Höhe des Anspruchs gemacht, veranlaßt oder zugelassen hat, so kann das Bundesamt für zentrale Dienste und offene Vermögensfragen beantragen, den rückerstattungsrechtlichen Anspruch unter Aufhebung der Entscheidung oder der gütlichen Einigung ganz oder teilweise abzuweisen.
 
@@ -656,8 +601,7 @@ Die Zahlung erfolgt unverzüglich nach Zustellung des Bescheids in Höhe der nac
 
 (4) § 42 Abs. 3 bis 5 findet Anwendung.
 
-
-## § 44
+# § 44
 
 (1) Natürlichen Personen, denen im Geltungsbereich dieses Gesetzes feststellbare Vermögensgegenstände durch einen der in § 1 genannten Rechtsträger entzogen worden sind, kann auf Antrag zur Milderung einer auf der Entziehung beruhenden Notlage ein Härteausgleich gewährt werden.
 
@@ -667,8 +611,7 @@ Die Zahlung erfolgt unverzüglich nach Zustellung des Bescheids in Höhe der nac
 
 (4) Anträge nach Absatz 1 sind bis zum 1. April 1959, Anträge nach Absatz 2 sind bis zum 8. Oktober 1965 bei dem Bundesamt für zentrale Dienste und offene Vermögensfragen zu stellen.
 
-
-## § 44a
+# § 44a
 
 (1) Ist ein rückerstattungsrechtlicher Anspruch (§§ 1, 3) wegen der Entziehung von Hausrat in den ehemals besetzten Westgebieten oder wegen der Entziehung von Schmuck- und Edelmetallgegenständen in den ehemals besetzten oder eingegliederten Gebieten innerhalb der Frist der §§ 29, 27 nicht angemeldet worden, kann auf Antrag ein Härteausgleich gewährt werden, wenn solche Vermögensgegenstände auf Grund allgemeiner Maßnahmen aus dem Entziehungsgebiet ganz oder überwiegend in den nach § 5 maßgeblichen Bereich gelangt sind. Die in Satz 1 genannten allgemeinen Maßnahmen und die Entziehungsgebiete und Entziehungszeiträume, für die sie getroffen worden sind, werden durch Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf, bezeichnet. Durch Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf, kann bestimmt werden, daß ein Härteausgleich auch wegen der Entziehung von anderen als in Satz 1 genannten Gegenständen gewährt werden kann, wenn solche Gegenstände auf Grund allgemeiner Maßnahmen aus dem Entziehungsgebiet ganz oder überwiegend in den nach § 5 maßgeblichen Bereich gelangt sind; Satz 2 gilt entsprechend. Rechtsverordnungen nach Satz 2 und 3 können nur bis zum 31. Dezember 1965 erlassen werden.
 
@@ -692,26 +635,22 @@ Die Zahlung erfolgt unverzüglich nach Zustellung des Bescheids in Höhe der nac
 
 (11) Die Durchführung der Bestimmungen der Absätze 1 bis 10 erfolgt im Rahmen der im jeweiligen Haushaltsplan ausgebrachten Mittel.
 
-
-## § 45
+# § 45
 
 (1) Ansprüche nach diesem Gesetz werden nicht befriedigt, solange der Berechtigte seinen Wohnsitz oder dauernden Aufenthalt in Gebieten hat, mit deren Regierungen die Bundesrepublik Deutschland keine diplomatischen Beziehungen unterhält.
 
 (2) Die Bundesregierung kann bestimmen, welche Staaten, mit deren Regierungen die Bundesrepublik Deutschland keine diplomatischen Beziehungen unterhält, behandelt werden, als ob mit ihnen diplomatische Beziehungen unterhalten würden.
 
-
-## § 46
+# § 46
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
 (2) Soweit in den §§ 11, 20 und 21 auf die Vorschriften über die Neuordnung des Geldwesens Bezug genommen ist, treten an die Stelle dieser Vorschriften in Berlin die dort geltenden entsprechenden Vorschriften.
 
-
-## § 47
+# § 47
 
 Dieses Gesetz gilt nicht im Saarland.
 
-
-## § 48
+# § 48
 
 Dieses Gesetz tritt am Tag seiner Verkündung in Kraft.

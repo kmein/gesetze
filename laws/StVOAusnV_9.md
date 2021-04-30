@@ -1,10 +1,7 @@
-# [StVOAusnV 9] Neunte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung  (9. Ausnahmeverordnung zur StVO)
-
-Ausfertigungsdatum: 15.10.1998
-
+% Neunte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung  (9. Ausnahmeverordnung zur StVO)
+% Ausfertigungsdatum: 15.10.1998
  
-
-## § 1
+# § 1
 
 Abweichend von § 18 Abs. 5 Nr. 1 der Straßenverkehrs-Ordnung beträgt auf Autobahnen (Zeichen 330.1) und Kraftfahrstraßen (Zeichen 331.1) die zulässige Höchstgeschwindigkeit auch unter günstigsten Umständen für Personenkraftwagen mit Anhänger (Kombination) und für sonstige mehrspurige Kraftfahrzeuge mit einer zulässigen Gesamtmasse bis zu 3,5 t mit Anhänger (Kombination), für Kraftomnibus-Anhänger-Kombinationen jedoch nur, wenn der Kraftomnibus mit einer zulässigen Gesamtmasse bis zu 3,5 t als Zugfahrzeug eine Tempo-100 km/h-Zulassung nach § 18 Abs. 5 Nr. 3 der Straßenverkehrs-Ordnung hat, 100 km/h, wenn
 
@@ -36,40 +33,32 @@ mit einem anderen Bauteil oder einer selbstständigen technischen Einheit ausges
 
 4. die von der nach Landesrecht zuständige untere Verwaltungsbehörde gemäß § 5 ausgegebene und gesiegelte Tempo-100 km/h-Plakette an der Rückseite des Anhängers angebracht ist.
 
-Im Falle des Satzes 1 Nr. 1 Buchstabe d ist die Erhöhung der Faktoren auch zulässig, wenn das Zugfahrzeug mit einem speziellen fahrdynamischen Stabilitätssystem für den Anhängerbetrieb ausgestattet ist und eine Bestätigung des Herstellers für die in Satz 1 Nr. 1 Buchstabe d Doppelbuchstabe bb genannten Bedingungen vorliegt und dies in den Fahrzeugpapieren eingetragen ist.  
-----------
+Im Falle des Satzes 1 Nr. 1 Buchstabe d ist die Erhöhung der Faktoren auch zulässig, wenn das Zugfahrzeug mit einem speziellen fahrdynamischen Stabilitätssystem für den Anhängerbetrieb ausgestattet ist und eine Bestätigung des Herstellers für die in Satz 1 Nr. 1 Buchstabe d Doppelbuchstabe bb genannten Bedingungen vorliegt und dies in den Fahrzeugpapieren eingetragen ist. ----------
 
-
-## § 2
+# § 2
 
 Der Bestätigung eines amtlich anerkannten Sachverständigen oder Prüfers oder eines Prüfingenieurs einer amtlich anerkannten Überwachungsorganisation nach § 1 Nr. 2 dieser Verordnung ist die Bestätigung einer in anderen Mitgliedstaaten der Europäischen Union oder der Türkei oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zugelassenen Stelle gleichwertig, wenn die der Bestätigung dieser Stellen zugrunde liegenden technischen Anforderungen, Prüfungen und Prüfverfahren denen der deutschen Stellen gleichwertig sind und die Bestätigung in deutscher Sprache erstellt wurde oder eine amtlich beglaubigte Übersetzung in deutscher Sprache vorgelegt und während der Fahrt mitgeführt und zuständigen Personen auf Verlangen zur Prüfung ausgehändigt wird.
 
-
-## § 3
+# § 3
 
 Die Reifen des Anhängers müssen zum Zeitpunkt der jeweiligen Fahrt, erkennbar am eingeprägten Herstellungsdatum, jünger als sechs Jahre und mindestens mit der Geschwindigkeitskategorie L (= 120 km/h) gekennzeichnet sein.
 
-
-## § 4
+# § 4
 
 Die Stützlast der Kombination ist an der größtmöglichen Stützlast des Zugfahrzeugs oder des Anhängers zu orientieren, wobei als Obergrenze in jedem Fall der kleinere Wert gilt.
 
-
-## § 5
+# § 5
 
 Die Ausführung der großen Tempo-100 km/h-Plakette nach § 1 Nr. 4 bestimmt sich nach § 58 Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung.
 
-
-## § 6
+# § 6
 
 Bei allen Veränderungen, die dazu führen, dass den Anforderungen dieser Verordnung nicht mehr entsprochen wird, richtet sich die zulässige Höchstgeschwindigkeit nach der Straßenverkehrs-Ordnung.
 
-
-## § 7
+# § 7
 
 Bescheinigungen, die nach § 1 Nr. 5 in der bis zum 21. Oktober 2005 geltenden Fassung ausgestellt worden sind, behalten in Bezug auf die darin zum Anhänger der Kombination enthaltenen Angaben weiterhin ihre Gültigkeit.
 
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

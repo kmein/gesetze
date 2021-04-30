@@ -1,15 +1,11 @@
-# [EinglMV 2021] Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Leistungen zur Eingliederung in Arbeit und der Verwaltungskosten der Grundsicherung für Arbeitsuchende im Jahr 2021  (Eingliederungsmittel-Verordnung 2021 - EinglMV 2021)
-
-Ausfertigungsdatum: 09.12.2019
-
+% Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Leistungen zur Eingliederung in Arbeit und der Verwaltungskosten der Grundsicherung für Arbeitsuchende im Jahr 2021  (Eingliederungsmittel-Verordnung 2021 - EinglMV 2021)
+% Ausfertigungsdatum: 09.12.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Absatz 2 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der zuletzt durch Artikel 1 Nummer 5 des Gesetzes vom 17. Dezember 2018 (BGBl. I S. 2583) geändert worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Verteilungsmaßstäbe für die Mittel für Leistungen zur Eingliederung in Arbeit
+# § 1 – Verteilungsmaßstäbe für die Mittel für Leistungen zur Eingliederung in Arbeit
 
 (1) Die Verteilung der im Bundeshaushalt 2021 in Kapitel 1101 Titelgruppe 01 Titel 685 11 für Leistungen zur Eingliederung in Arbeit veranschlagten Mittel erfolgt nach den in den Absätzen 2 bis 6 festgelegten anderen und ergänzenden Maßstäben. Diese Mittel umfassen auch zur Verfügung stehende Ausgabereste in Höhe von bis zu 400 Millionen Euro. 400 Millionen Euro aus Kapitel 1101 Titelgruppe 01 Titel 685 11 für Leistungen zur Eingliederung in Arbeit werden bereits zu Jahresbeginn zur Verstärkung der Mittel für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende nach Kapitel 1101 Titelgruppe 01 Titel 636 13 eingesetzt.
 
@@ -23,8 +19,7 @@ Auf Grund des § 46 Absatz 2 des Zweiten Buches Sozialgesetzbuch – Grundsicher
 
 (6) Die vorstehenden Absätze sind grundsätzlich auch auf die in Kapitel 1101 Titelgruppe 01 Titel 685 11 des Bundeshaushalts 2021 für Eingliederungsleistungen der Grundsicherung für Arbeitsuchende etatisierten Verpflichtungsermächtigungen anzuwenden.
 
-
-## § 2 – Verteilungsmaßstäbe für die Mittel für Verwaltungskosten
+# § 2 – Verteilungsmaßstäbe für die Mittel für Verwaltungskosten
 
 (1) Die Verteilung der im Bundeshaushalt 2021 in Kapitel 1101 Titelgruppe 01 Titel 636 13 für Verwaltungskosten der Grundsicherung für Arbeitsuchende veranschlagten und nach § 1 Absatz 1 Satz 3 zusätzlich eingesetzten Mittel erfolgt nach den in den Absätzen 2 bis 6 festgelegten anderen und ergänzenden Maßstäben.
 
@@ -48,18 +43,15 @@ Auf Grund des § 46 Absatz 2 des Zweiten Buches Sozialgesetzbuch – Grundsicher
 
 (6) Die der Bundesagentur für Arbeit nach Absatz 5 zur Verfügung gestellten Mittel werden nach dem zu erwartenden Umfang der überörtlich und örtlich wahrzunehmenden Verwaltungsaufgaben auf die Zentrale der Bundesagentur für Arbeit und auf die gemeinsamen Einrichtungen verteilt. Die Zentrale der Bundesagentur für Arbeit erhält für überörtlich wahrzunehmende Verwaltungsaufgaben einen Betrag von 155 Millionen Euro. Die übrigen Mittel werden nach Maßgabe der ermittelten Maximalwerte auf die gemeinsamen Einrichtungen verteilt. Die Verteilung erfolgt nach den in Anlage 4 genannten Prozentsätzen. Soweit bis zum 31. August 2021 absehbar ist, dass Mittel nach Satz 2 nicht verausgabt werden, können diese unter Berücksichtigung regionaler Sonderbelastungen auf die gemeinsamen Einrichtungen verteilt werden.
 
-
-## § 3 – Neuberechnung der Anteile nach Veränderung der Zuständigkeit von Jobcentern
+# § 3 – Neuberechnung der Anteile nach Veränderung der Zuständigkeit von Jobcentern
 
 Verändert sich die Zuständigkeit von Jobcentern für die Durchführung der Grundsicherung für Arbeitsuchende im Verlauf des Jahres, so kann das Bundesministerium für Arbeit und Soziales eine Neuberechnung der Anteile für die betreffenden Jobcenter vornehmen. Dabei werden die Maßstäbe nach § 1 Absatz 3 bis 5 und nach § 2 Absatz 5 und 6 berücksichtigt.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft. Sie tritt mit Ablauf des 31. Dezember 2021 außer Kraft.
 
-
-## Anlage 1 – (zu § 1 Absatz 4 Satz 5)Verteilung der Eingliederungsmittel
+# Anlage 1 – (zu § 1 Absatz 4 Satz 5)Verteilung der Eingliederungsmittel
 
 (Fundstelle: BAnz AT 21.12.2020 V2)
 
@@ -79,8 +71,7 @@ zkT
 
 zugelassener kommunaler Träger
 
-
-## Anlage 2 – (zu § 1 Absatz 5 Satz 6)Verteilung der Eingliederungsmittel
+# Anlage 2 – (zu § 1 Absatz 5 Satz 6)Verteilung der Eingliederungsmittel
 
 (Fundstelle: BAnz AT 21.12.2020 V2)
 
@@ -100,8 +91,7 @@ zkT
 
 zugelassener kommunaler Träger
 
-
-## Anlage 3 – (zu § 2 Absatz 5 Satz 3)Verteilung der Verwaltungsmittel
+# Anlage 3 – (zu § 2 Absatz 5 Satz 3)Verteilung der Verwaltungsmittel
 
 (Fundstelle: BAnz AT 21.12.2020 V2)
 
@@ -121,8 +111,7 @@ zkT
 
 zugelassener kommunaler Träger
 
-
-## Anlage 4 – (zu § 2 Absatz 6 Satz 4)Verteilung der auf die Bundesagentur für Arbeit entfallenden Verwaltungsmittel nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit für die gE
+# Anlage 4 – (zu § 2 Absatz 6 Satz 4)Verteilung der auf die Bundesagentur für Arbeit entfallenden Verwaltungsmittel nach Abzug der Mittel für überörtlich wahrzunehmende Verwaltungsaufgaben der Zentrale der Bundesagentur für Arbeit für die gE
 
 (Fundstelle: BAnz AT 21.12.2020 V2)
 

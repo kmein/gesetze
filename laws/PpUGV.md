@@ -1,15 +1,11 @@
-# [PpUGV] Verordnung zur Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern für das Jahr 2021  (Pflegepersonaluntergrenzen-Verordnung - PpUGV)
-
-Ausfertigungsdatum: 09.11.2020
-
+% Verordnung zur Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern für das Jahr 2021  (Pflegepersonaluntergrenzen-Verordnung - PpUGV)
+% Ausfertigungsdatum: 09.11.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 137i Absatz 3 Satz 1 in Verbindung mit Satz 2 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der zuletzt durch Artikel 12 Nummer 15 Buchstabe a Doppelbuchstabe aa des Gesetzes vom 9. August 2019 (BGBl. I S. 1202) geändert worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern nach § 137i des Fünften Buches Sozialgesetzbuch.
 
@@ -17,8 +13,7 @@ Auf Grund des § 137i Absatz 3 Satz 1 in Verbindung mit Satz 2 des Fünften Buch
 
 (3) Die Pflegepersonaluntergrenzen in den pflegesensitiven Bereichen Pädiatrie und pädiatrische Intensivmedizin gelten nicht für die Bereiche Frauenheilkunde und Geburtshilfe eines Krankenhauses sowie in den Bereichen, die die Mindestanforderungen an die perinatologische Versorgung nach den Versorgungsstufen des § 3 Absatz 2 der Richtlinie des Gemeinsamen Bundesausschusses über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifegeborenen nach § 136 Absatz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 des Fünften Buches Sozialgesetzbuch in der jeweils geltenden und gemäß § 94 Absatz 2 des Fünften Buches Sozialgesetzbuch im Bundesanzeiger bekannt gemachten Fassung erfüllen. Unberührt durch die Pflegepersonaluntergrenzen bleiben die jeweils geltenden und im Bundesanzeiger bekannt gemachten Beschlüsse des Gemeinsamen Bundesausschusses, in denen eine niedrigere Anzahl von Patientinnen und Patienten im Verhältnis zu einer Pflegekraft festgelegt ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Pflegekräfte im Sinne dieser Verordnung sind Pflegefachkräfte und Pflegehilfskräfte. Pflegefachkräfte sind Personen, die über die Erlaubnis zum Führen einer Berufsbezeichnung nach § 1 Absatz 1, § 58 Absatz 1 oder Absatz 2 des Pflegeberufegesetzes verfügen oder deren Erlaubnis zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach § 64 des Pflegeberufegesetzes fortgilt. Pflegehilfskräfte sind Personen,
 
@@ -42,8 +37,7 @@ Zu den Pflegehilfskräften im Sinne dieser Verordnung zählen außerdem
 
 (4) Eine Station im Sinne dieser Verordnung ist die kleinste bettenführende organisatorische Einheit in der Patientenversorgung am Standort eines Krankenhauses, die räumlich ausgewiesen ist und die anhand einer ihr zugewiesenen individuellen Bezeichnung auch für Dritte identifizierbar ist. Auf einer Station werden Patientinnen und Patienten entweder in einem medizinischen Fachgebiet oder interdisziplinär in verschiedenen medizinischen Fachgebieten behandelt. Das einer Station zugeordnete Personal sowie seine Leitungsstruktur lassen sich den Organisations- und Dienstplänen des Krankenhauses entnehmen. Zu einer intensivmedizinischen Behandlungseinheit einer Station zählt jedes Bett, das der intensivmedizinischen Patientenversorgung dient.
 
-
-## § 3 – Ermittlung pflegesensitiver Bereiche in den Krankenhäusern
+# § 3 – Ermittlung pflegesensitiver Bereiche in den Krankenhäusern
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus ermittelt die pflegesensitiven Bereiche in den Krankenhäusern auf Grundlage
 
@@ -83,13 +77,11 @@ b) in den nach § 21 des Krankenhausentgeltgesetzes übermittelten Daten des Vor
 
 (5) Die vom Institut für das Entgeltsystem im Krankenhaus im Jahr 2019 für das Jahr 2020 ermittelten pflegesensitiven Bereiche bestehen unberührt bis zum 31. Januar 2021 fort. Für diese pflegesensitiven Bereiche gilt Absatz 4 entsprechend.
 
-
-## § 4 – Ermittlung des Pflegeaufwands zur Festlegung risikoadjustierter Pflegepersonaluntergrenzen
+# § 4 – Ermittlung des Pflegeaufwands zur Festlegung risikoadjustierter Pflegepersonaluntergrenzen
 
 Das Institut für das Entgeltsystem im Krankenhaus ermittelt den Pflegeaufwand in den pflegesensitiven Bereichen in den Krankenhäusern. Der Pflegeaufwand wird für jeden pflegesensitiven Bereich in den Krankenhäusern für jeden Standort eines Krankenhauses gesondert ermittelt. Die Ermittlung erfolgt auf der Grundlage des aktuellen vom Institut für das Entgeltsystem im Krankenhaus entwickelten Katalogs zur Risikoadjustierung des Pflegeaufwands.
 
-
-## § 5 – Übermittlung der Ergebnisse der Ermittlung pflegesensitiver Bereiche in Krankenhäusern an die betroffenen Krankenhäuser, Mitteilungspflichten
+# § 5 – Übermittlung der Ergebnisse der Ermittlung pflegesensitiver Bereiche in Krankenhäusern an die betroffenen Krankenhäuser, Mitteilungspflichten
 
 (1) Das Institut für das Entgeltsystem im Krankenhaus übermittelt den Krankenhäusern, bei denen nach § 3 ein oder mehrere pflegesensitive Bereiche ermittelt wurden, das sie betreffende Ergebnis der Ermittlung, soweit möglich standortbezogen, jährlich bis zum 15. November, erstmals bis zum 15. November 2020. Das zu übermittelnde Ergebnis muss für jede betroffene Fachabteilung des Krankenhauses die Zuordnung zu einem oder mehreren pflegesensitiven Bereichen und für den Fall, dass ein pflegesensitiver Bereich nach § 3 Absatz 2 Nummer 3 oder Absatz 3 ermittelt wird, die Mitteilung über das Erreichen des jeweiligen Schwellenwertes sowie die jeweils zugehörigen Berechnungsgrundlagen enthalten.
 
@@ -131,8 +123,7 @@ Die Mitteilungen nach Satz 1 Nummer 1 bis 6 haben standortbezogen und unter Nenn
 
 (5) Das Institut für das Entgeltsystem im Krankenhaus kann Bestimmungen zur Vereinheitlichung der Verfahrensabläufe nach den Absätzen 2 bis 4 treffen.
 
-
-## § 6 – Festlegung der Pflegepersonaluntergrenzen
+# § 6 – Festlegung der Pflegepersonaluntergrenzen
 
 (1) Für die folgenden pflegesensitiven Bereiche in Krankenhäusern werden die folgenden Pflegepersonaluntergrenzen schichtbezogen als Verhältnis von Patientinnen und Patienten zu einer Pflegekraft festgelegt, die unter Berücksichtigung der in Absatz 2 genannten Höchstanteile von Pflegehilfskräften auf den Stationen oder für die betroffenen intensivmedizinischen Behandlungseinheiten, die einem pflegesensitiven Bereich angehören, stets einzuhalten sind:
 
@@ -264,8 +255,7 @@ b) in der Nachtschicht: 5 Prozent.
 
 (5) Die Krankenhäuser ermitteln anhand monatlicher Durchschnittswerte, ob die Pflegepersonaluntergrenzen eingehalten werden.
 
-
-## § 7 – Ausnahmetatbestände
+# § 7 – Ausnahmetatbestände
 
 Die Pflegepersonaluntergrenzen müssen in den folgenden Fällen nicht eingehalten werden:
 
@@ -275,8 +265,7 @@ Die Pflegepersonaluntergrenzen müssen in den folgenden Fällen nicht eingehalte
 
 Das Krankenhaus ist verpflichtet, den jeweiligen Vertragsparteien nach § 11 des Krankenhausentgeltgesetzes das Vorliegen der Voraussetzungen eines Ausnahmetatbestandes nach Satz 1 nachzuweisen.
 
-
-## § 8 – Personalverlagerungen
+# § 8 – Personalverlagerungen
 
 (1) Personalverlagerungen aus anderen Bereichen in der unmittelbaren Patientenversorgung auf bettenführenden Stationen in die pflegesensitiven Bereiche in Krankenhäusern sind unzulässig, wenn
 
@@ -290,13 +279,11 @@ Bei der Ermittlung der Belegungstage der Fachabteilungen gilt der Entlassungstag
 
 (3) Sind für ein Krankenhaus unzulässige Personalverlagerungen gemäß Absatz 1 festgestellt worden, vereinbaren die Vertragsparteien nach § 11 des Krankenhausentgeltgesetzes geeignete Maßnahmen, die das Krankenhaus zur Vermeidung von Personalverlagerungen zu ergreifen hat.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Pflegepersonaluntergrenzen-Verordnung vom 28. Oktober 2019 (BGBl. I S. 1492), die zuletzt durch Artikel 1 der Verordnung vom 16. Juli 2020 (BGBl. I S. 1701) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Indikatoren-DRGs
+# Anlage – (zu § 3 Absatz 1)Indikatoren-DRGs
 
 (Fundstelle: BGBl. I 2020, 2362 - 2385)
 

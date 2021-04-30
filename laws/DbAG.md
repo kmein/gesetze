@@ -1,10 +1,7 @@
-# [DbAG] Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet  (Dienstbeschädigungsausgleichsgesetz - DbAG)
-
-Ausfertigungsdatum: 11.11.1996
-
+% Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet  (Dienstbeschädigungsausgleichsgesetz - DbAG)
+% Ausfertigungsdatum: 11.11.1996
  
-
-## § 1 – Anspruch
+# § 1 – Anspruch
 
 (1) Anspruch auf einen Dienstbeschädigungsausgleich haben vom 1. März 2002 an Personen, die
 
@@ -16,8 +13,7 @@ Wurde am 28. Februar 2002 eine Dienstbeschädigungsrente nicht gezahlt, wird der
 
 (2) Personen, die einem Sonderversorgungssystem angehört und einen vor dessen Schließung verursachten Körper- oder Gesundheitsschaden erlitten haben, haben Anspruch auf Dienstbeschädigungsausgleich, wenn der anspruchsbegründende Zustand nach Schließung des Sonderversorgungssystems eingetreten ist.
 
-
-## § 1a – Leistungsversagung und -entziehung
+# § 1a – Leistungsversagung und -entziehung
 
 (1) Leistungen sind zu versagen, wenn der Berechtigte bei einer Diensthandlung gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat und der den Leistungsentzug rechtfertigende Menschenrechtsverstoß mit der den Leistungen zu Grunde liegenden Schädigung in einem inneren Zusammenhang steht.
 
@@ -25,8 +21,7 @@ Wurde am 28. Februar 2002 eine Dienstbeschädigungsrente nicht gezahlt, wird der
 
 (3) Anhaltspunkte, die eine besonders intensive Überprüfung erforderlich machen, ob ein Berechtigter durch sein individuelles Verhalten gegen Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen hat, können sich insbesondere aus einer Zugehörigkeit des Berechtigten zu dem ehemaligen Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der DDR ergeben.
 
-
-## § 2 – Höhe
+# § 2 – Höhe
 
 (1) Der Dienstbeschädigungsausgleich wird bei einem Körper- oder Gesundheitsschaden, der nach den Regelungen der Sonderversorgungssysteme zu einem Anspruch auf eine Dienstbeschädigungsrente geführt hat oder führen würde, in Höhe der Grundrente nach § 31 des Bundesversorgungsgesetzes geleistet. Dabei gilt der Grad des Körper- oder Gesundheitsschadens als Grad der Schädigungsfolgen; bei einem Grad der Schädigungsfolgen von 20 sind zwei Drittel der Mindestgrundrente zugrunde zu legen. Für den Dienstbeschädigungsausgleich, der wegen einer in die gesetzliche Rentenversicherung überführten Dienstbeschädigungsvollrente zu leisten ist, wird der Grad des Körper- oder Gesundheitsschadens neu festgestellt; bis zu dieser Feststellung können die Versorgungsträger auf Antrag einen Dienstbeschädigungsausgleich auf der Grundlage eines Grades des Körper- oder Gesundheitsschadens von 70 vom Hundert unter dem Vorbehalt einer rückwirkenden Neufeststellung leisten. Wurde die Dienstbeschädigungsteilrente wegen § 11 Abs. 5 Satz 2 oder 4 des Anspruchs- und Anwartschaftsüberführungsgesetzes nicht gezahlt, kann von dem zuletzt festgestellten Grad Körper- oder Gesundheitsschadens ausgegangen werden.
 
@@ -38,13 +33,11 @@ Wurde am 28. Februar 2002 eine Dienstbeschädigungsrente nicht gezahlt, wird der
 
 § 2 Abs. 2: IdF d. Art. 6 Nr. 3 Buchst. c G v. 19.6.2006 I 1305 mWv 1.3.2002, Abs. 2 Satz 1 Halbsatz 2 (Kursivdruck) mWv 23.6.2006
 
-
-## § 3 – Verfahren, Erstattung, Rechtsweg
+# § 3 – Verfahren, Erstattung, Rechtsweg
 
 Für die Feststellung der Anspruchsvoraussetzungen, das Verwaltungsverfahren, die Auszahlung, die Erstattung und den Rechtsweg gelten die bis zum 31. Dezember 1996 für die Dienstbeschädigungsteilrenten geltenden Regelungen des Anspruchs- und Anwartschaftsüberführungsgesetzes und der AAÜG-Erstattungsverordnung entsprechend. Die Vorschriften des Ersten und Zehnten Buches Sozialgesetzbuch sind anzuwenden.
 
-
-## § 4 – Leistungen für die Zeit vom 1. August 1991 bis 28. Februar 2002
+# § 4 – Leistungen für die Zeit vom 1. August 1991 bis 28. Februar 2002
 
 (1) Personen nach § 1, für die ein Bescheid über die Nichtgewährung von Dienstbeschädigungsteilrenten am 14. Februar 2002 noch nicht unanfechtbar war, erhalten Dienstbeschädigungsausgleich für die Zeit vom 1. August 1991 bis 28. Februar 2002, soweit sie während dieser Zeit Anspruch auf Dienstbeschädigungsteilrente gehabt hätten.
 

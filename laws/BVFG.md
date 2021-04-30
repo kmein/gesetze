@@ -1,10 +1,7 @@
-# [BVFG] Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge  (Bundesvertriebenengesetz - BVFG)
-
-Ausfertigungsdatum: 19.05.1953
-
+% Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge  (Bundesvertriebenengesetz - BVFG)
+% Ausfertigungsdatum: 19.05.1953
  
-
-## § 1 – Vertriebener
+# § 1 – Vertriebener
 
 (1) Vertriebener ist, wer als deutscher Staatsangehöriger oder deutscher Volkszugehöriger seinen Wohnsitz in den ehemals unter fremder Verwaltung stehenden deutschen Ostgebieten oder in den Gebieten außerhalb der Grenzen des Deutschen Reiches nach dem Gebietsstande vom 31. Dezember 1937 hatte und diesen im Zusammenhang mit den Ereignissen des zweiten Weltkrieges infolge Vertreibung, insbesondere durch Ausweisung oder Flucht, verloren hat. Bei mehrfachem Wohnsitz muss derjenige Wohnsitz verloren gegangen sein, der für die persönlichen Lebensverhältnisse des Betroffenen bestimmend war. Als bestimmender Wohnsitz im Sinne des Satzes 2 ist insbesondere der Wohnsitz anzusehen, an welchem die Familienangehörigen gewohnt haben.
 
@@ -26,15 +23,13 @@ Ausfertigungsdatum: 19.05.1953
 
 (4) Wer infolge von Kriegseinwirkungen Aufenthalt in den in Absatz 1 genannten Gebieten genommen hat, ist jedoch nur dann Vertriebener, wenn es aus den Umständen hervorgeht, dass er sich auch nach dem Kriege in diesen Gebieten ständig niederlassen wollte oder wenn er diese Gebiete nach dem 31. Dezember 1989 verlassen hat.
 
-
-## § 2 – Heimatvertriebener
+# § 2 – Heimatvertriebener
 
 (1) Heimatvertriebener ist ein Vertriebener, der am 31. Dezember 1937 oder bereits einmal vorher seinen Wohnsitz in dem Gebiet desjenigen Staates hatte, aus dem er vertrieben worden ist (Vertreibungsgebiet), und dieses Gebiet vor dem 1. Januar 1993 verlassen hat; die Gesamtheit der in § 1 Abs. 1 genannten Gebiete, die am 1. Januar 1914 zum Deutschen Reich oder zur Österreichisch-Ungarischen Monarchie oder zu einem späteren Zeitpunkt zu Polen, zu Estland, zu Lettland oder zu Litauen gehört haben, gilt als einheitliches Vertreibungsgebiet.
 
 (2) Als Heimatvertriebener gilt auch ein vertriebener Ehegatte oder Abkömmling, der die Vertreibungsgebiete vor dem 1. Januar 1993 verlassen hat, wenn der andere Ehegatte oder bei Abkömmlingen ein Elternteil am 31. Dezember 1937 oder bereits einmal vorher seinen Wohnsitz im Vertreibungsgebiet (Absatz 1) gehabt hat.
 
-
-## § 3 – Sowjetzonenflüchtling
+# § 3 – Sowjetzonenflüchtling
 
 (1) Sowjetzonenflüchtling ist ein deutscher Staatsangehöriger oder deutscher Volkszugehöriger, der seinen Wohnsitz in der sowjetischen Besatzungszone oder im sowjetisch besetzten Sektor von Berlin hat oder gehabt hat und von dort vor dem 1. Juli 1990 geflüchtet ist, um sich einer von ihm nicht zu vertretenden und durch die politischen Verhältnisse bedingten besonderen Zwangslage zu entziehen. Eine besondere Zwangslage ist vor allem dann gegeben, wenn eine unmittelbare Gefahr für Leib und Leben oder die persönliche Freiheit vorgelegen hat. Eine besondere Zwangslage ist auch bei einem schweren Gewissenskonflikt gegeben. Wirtschaftliche Gründe sind als besondere Zwangslage anzuerkennen, wenn die Existenzgrundlage zerstört oder entscheidend beeinträchtigt worden ist oder wenn die Zerstörung oder entscheidende Beeinträchtigung nahe bevorstand.
 
@@ -48,8 +43,7 @@ Ausfertigungsdatum: 19.05.1953
 
 (3) § 1 Abs. 1 Satz 2 und 3, Abs. 2 Nr. 4 bis 6, Abs. 3 und 4 ist sinngemäß anzuwenden.
 
-
-## § 4 – Spätaussiedler
+# § 4 – Spätaussiedler
 
 (1) Spätaussiedler ist in der Regel ein deutscher Volkszugehöriger, der die Republiken der ehemaligen Sowjetunion nach dem 31. Dezember 1992 im Wege des Aufnahmeverfahrens verlassen und innerhalb von sechs Monaten im Geltungsbereich des Gesetzes seinen ständigen Aufenthalt genommen hat, wenn er zuvor
 
@@ -65,8 +59,7 @@ seinen Wohnsitz in den Aussiedlungsgebieten hatte.
 
 (3) Der Spätaussiedler ist Deutscher im Sinne des Artikels 116 Abs. 1 des Grundgesetzes. Ehegatten oder Abkömmlinge von Spätaussiedlern, die nach § 27 Abs. 1 Satz 2 in den Aufnahmebescheid einbezogen worden sind, erwerben, sofern die Einbeziehung nicht unwirksam geworden ist, diese Rechtsstellung mit ihrer Aufnahme im Geltungsbereich des Gesetzes.
 
-
-## § 5 – Ausschluss
+# § 5 – Ausschluss
 
 Die Rechtsstellung nach § 4 Abs. 1, 2 oder Abs. 3 Satz 2 erwirbt nicht, wer
 
@@ -96,22 +89,19 @@ b) in den Aussiedlungsgebieten eine Funktion ausgeübt hat, die für die Aufrech
 
 c) wer für mindestens drei Jahre mit dem Inhaber einer Funktion im Sinne von Buchstabe b in häuslicher Gemeinschaft gelebt hat.
 
-
-## § 6 – Volkszugehörigkeit
+# § 6 – Volkszugehörigkeit
 
 (1) Deutscher Volkszugehöriger im Sinne dieses Gesetzes ist, wer sich in seiner Heimat zum deutschen Volkstum bekannt hat, sofern dieses Bekenntnis durch bestimmte Merkmale wie Abstammung, Sprache, Erziehung, Kultur bestätigt wird.
 
 (2) Wer nach dem 31. Dezember 1923 geboren worden ist, ist deutscher Volkszugehöriger, wenn er von einem deutschen Staatsangehörigen oder deutschen Volkszugehörigen abstammt und sich bis zum Verlassen der Aussiedlungsgebiete durch eine entsprechende Nationalitätenerklärung oder auf andere Weise zum deutschen Volkstum bekannt oder nach dem Recht des Herkunftsstaates zur deutschen Nationalität gehört hat. Das Bekenntnis auf andere Weise kann insbesondere durch den Nachweis ausreichender deutscher Sprachkenntnisse entsprechend dem Niveau B 1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen oder durch den Nachweis familiär vermittelter Deutschkenntnisse erbracht werden. Das Bekenntnis zum deutschen Volkstum muss bestätigt werden durch den Nachweis der Fähigkeit, zum Zeitpunkt der verwaltungsbehördlichen Entscheidung über den Aufnahmeantrag, in Fällen des § 27 Absatz 1 Satz 2 im Zeitpunkt der Begründung des ständigen Aufenthalts im Geltungsbereich dieses Gesetzes, zumindest ein einfaches Gespräch auf Deutsch führen zu können, es sei denn, der Aufnahmebewerber kann diese Fähigkeit wegen einer körperlichen, geistigen oder seelischen Krankheit oder wegen einer Behinderung im Sinne des § 2 Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch nicht besitzen. Ein Bekenntnis zum deutschen Volkstum wird unterstellt, wenn es unterblieben ist, weil es mit Gefahr für Leib und Leben oder schwerwiegenden beruflichen oder wirtschaftlichen Nachteilen verbunden war, jedoch auf Grund der Gesamtumstände der Wille unzweifelhaft ist, der deutschen Volksgruppe und keiner anderen anzugehören.
 
-
-## § 7 – Grundsatz
+# § 7 – Grundsatz
 
 (1) Spätaussiedlern ist die Eingliederung in das berufliche, kulturelle und soziale Leben in der Bundesrepublik Deutschland zu erleichtern. Durch die Spätaussiedlung bedingte Nachteile sind zu mildern.
 
 (2) Die §§ 8, 10 und 11 sind auf den Ehegatten und die Abkömmlinge des Spätaussiedlers, die die Voraussetzungen des § 4 Abs. 1 oder 2 nicht erfüllen, aber die Aussiedlungsgebiete im Wege des Aufnahmeverfahrens verlassen haben, entsprechend anzuwenden. § 5 gilt sinngemäß.
 
-
-## § 8 – Verteilung
+# § 8 – Verteilung
 
 (1) Die Länder nehmen die Spätaussiedler und ihre Ehegatten und Abkömmlinge, soweit sie die Voraussetzungen des § 7 Abs. 2 erfüllen, auf. Das Bundesverwaltungsamt legt das aufnehmende Land fest (Verteilungsverfahren). Bis zu dieser Festlegung werden die Personen vom Bund untergebracht. Spätaussiedler und in den Aufnahmebescheid einbezogene Ehegatten oder Abkömmlinge sind verpflichtet, sich nach der Einreise in den Geltungsbereich des Gesetzes in einer Erstaufnahmeeinrichtung des Bundes registrieren zu lassen.
 
@@ -127,8 +117,7 @@ c) wer für mindestens drei Jahre mit dem Inhaber einer Funktion im Sinne von Bu
 
 (7) § 45 des Achten Buches Sozialgesetzbuch (Artikel 1 des Gesetzes vom 26. Juni 1990, BGBl. I S. 1163) gilt nicht für Einrichtungen zur Aufnahme von Spätaussiedlern.
 
-
-## § 9 – Hilfen
+# § 9 – Hilfen
 
 (1) Spätaussiedler gemäß § 4 Abs. 1 oder 2 sowie deren Ehegatten oder Abkömmlinge, welche die Voraussetzungen des § 7 Abs. 2 Satz 1 erfüllen, haben Anspruch auf kostenlose Teilnahme an einem Integrationskurs, der einen Basis- und einen Aufbausprachkurs von gleicher Dauer zur Erlangung ausreichender Sprachkenntnisse sowie einen Orientierungskurs zur Vermittlung von Kenntnissen der Rechtsordnung, der Kultur und der Geschichte in Deutschland umfasst. Ausgenommen sind Kinder, Jugendliche und junge Erwachsene, die eine schulische Ausbildung aufnehmen oder ihre bisherige Schullaufbahn in der Bundesrepublik Deutschland fortsetzen. Der Sprachkurs dauert bei ganztägigem Unterricht (Regelfall) längstens sechs Monate. Soweit erforderlich soll der Integrationskurs durch eine sozialpädagogische Betreuung sowie durch Kinderbetreuungsangebote ergänzt werden. Spätaussiedlern sowie deren Ehegatten oder Abkömmlingen im Sinne des § 7 Abs. 2 Satz 1, denen nach § 2 Abs. 1 des Gesetzes über die Festlegung eines vorläufigen Wohnortes für Spätaussiedler ein Wohnort zugewiesen wurde, wird, solange die Entscheidung über die Zuweisung eines vorläufigen Wohnortes nicht nach § 2 Abs. 4 des Gesetzes über die Festlegung eines vorläufigen Wohnortes für Spätaussiedler gegenstandslos geworden ist, ein Fahrkostenzuschuss zur Teilnahme an einem Integrationskurs gewährt, wenn ein Kursangebot nicht zumutbar erreichbar ist. Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, nähere Einzelheiten des Integrationskurses, insbesondere die Grundstruktur, die Dauer, die Lerninhalte und die Durchführung der Kurse, die Vorgaben bezüglich der Auswahl und Zulassung der Kursträger sowie die Rahmenbedingungen für die Teilnahme durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu regeln.
 
@@ -150,8 +139,7 @@ a) die Entwicklung von Grundstruktur und Lerninhalten des Basissprachkurses, des
 
 b) die Durchführung der Maßnahmen nach den Absätzen 1 und 4.
 
-
-## § 10 – Prüfungen und Befähigungsnachweise
+# § 10 – Prüfungen und Befähigungsnachweise
 
 (1) Prüfungen oder Befähigungsnachweise, die Spätaussiedler bis zum 8. Mai 1945 im Gebiet des Deutschen Reiches nach dem Gebietsstande vom 31. Dezember 1937 abgelegt oder erworben haben, sind im Geltungsbereich des Gesetzes anzuerkennen.
 
@@ -167,8 +155,7 @@ b) die Durchführung der Maßnahmen nach den Absätzen 1 und 4.
 
 (5) Die Bescheinigung gemäß Absatz 3 hat im Rechtsverkehr dieselbe Wirkung wie die Urkunde über die abgelegte Prüfung oder den erworbenen Befähigungsnachweis.
 
-
-## § 11 – Leistungen bei Krankheit
+# § 11 – Leistungen bei Krankheit
 
 (1) Wer als Spätaussiedler aus den Aussiedlungsgebieten innerhalb von zwei Monaten nach dem Verlassen dieser Gebiete im Geltungsbereich dieses Gesetzes seinen ständigen Aufenthalt genommen hat, erhält einmalig Leistungen wie ein Versicherter der gesetzlichen Krankenversicherung, wenn der Leistungsgrund am Tag der Aufenthaltsnahme gegeben ist oder innerhalb von drei Monaten danach eintritt.
 
@@ -190,18 +177,15 @@ b) die Durchführung der Maßnahmen nach den Absätzen 1 und 4.
 
 (8) Für Rechtsstreitigkeiten auf Grund der Vorschriften der Absätze 1 bis 7 ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben.
 
-
-## § 12 – (weggefallen)
+# § 12 – (weggefallen)
 
 \-
 
-
-## § 13 – Gesetzliche Rentenversicherung, gesetzliche Unfallversicherung
+# § 13 – Gesetzliche Rentenversicherung, gesetzliche Unfallversicherung
 
 Die Rechtsstellung der Spätaussiedler in der gesetzlichen Rentenversicherung und der gesetzlichen Unfallversicherung richtet sich nach dem Fremdrentengesetz.
 
-
-## § 14 – Förderung einer selbständigen Erwerbstätigkeit
+# § 14 – Förderung einer selbständigen Erwerbstätigkeit
 
 (1) Spätaussiedlern ist die Begründung und Festigung einer selbständigen Erwerbstätigkeit in der Landwirtschaft, im Gewerbe und in freien Berufen zu erleichtern. Zu diesem Zweck können die Gewährung von Krediten zu günstigen Zins-, Tilgungs- und Sicherungsbedingungen sowie Zinsverbilligungen und Bürgschaftsübernahmen vorgesehen werden.
 
@@ -213,8 +197,7 @@ Die Rechtsstellung der Spätaussiedler in der gesetzlichen Rentenversicherung un
 
 (5) Spätaussiedler, die glaubhaft machen, dass sie vor der Aussiedlung ein Handwerk als stehendes Gewerbe selbständig betrieben oder die Befugnis zur Anleitung von Lehrlingen besessen haben, sind auf Antrag bei der für den Ort ihres ständigen Aufenthaltes zuständigen Handwerkskammer in die Handwerksrolle einzutragen. Für die Glaubhaftmachung ist § 10 Abs. 3 und 4 entsprechend anzuwenden.
 
-
-## § 15 – Bescheinigungen
+# § 15 – Bescheinigungen
 
 (1) Das Bundesverwaltungsamt stellt Spätaussiedlern zum Nachweis ihrer Spätaussiedlereigenschaft eine Bescheinigung aus. Eine Wiederholung des Gesprächs im Sinne von § 6 Abs. 2 Satz 3 findet hierbei nicht statt. Bei Personen, die das 16. Lebensjahr vollendet haben, beteiligt das Bundesverwaltungsamt vor Erteilung der Bescheinigung den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, die Bundespolizei, das Bundeskriminalamt und das Zollkriminalamt, wenn dies zur Feststellung von Ausschlussgründen nach § 5 Nr. 1 Buchstabe d und e geboten ist. Die Entscheidung über die Ausstellung der Bescheinigung ist für Staatsangehörigkeitsbehörden und alle Behörden und Stellen verbindlich, die für die Gewährung von Rechten oder Vergünstigungen als Spätaussiedler nach diesem oder einem anderen Gesetz zuständig sind. Hält eine Behörde oder Stelle die Entscheidung des Bundesverwaltungsamtes über die Ausstellung der Bescheinigung nicht für gerechtfertigt, so kann sie nur ihre Änderung oder Aufhebung durch das Bundesverwaltungsamt beantragen.
 
@@ -224,8 +207,7 @@ Die Rechtsstellung der Spätaussiedler in der gesetzlichen Rentenversicherung un
 
 (4) Eine Bescheinigung kann mit Wirkung für die Vergangenheit nur zurückgenommen werden, wenn sie durch arglistige Täuschung, Drohung oder Bestechung oder durch vorsätzlich unrichtige oder unvollständige Angaben, die wesentlich für ihre Ausstellung gewesen sind, erwirkt worden ist. Die Rücknahme mit Wirkung für die Vergangenheit darf nur bis zum Ablauf von fünf Jahren nach Ausstellung der Bescheinigung erfolgen. Hat die Rücknahme einer Bescheinigung nach Absatz 1 auch Auswirkungen auf die Rechtmäßigkeit von Bescheinigungen nach Absatz 2, so ist für jeden Betroffenen eine selbständige Ermessensentscheidung zu treffen. Dabei ist das Maß der Beteiligung des Ehegatten oder Abkömmlings an einer arglistigen Täuschung, Drohung oder Bestechung oder an unrichtigen oder unvollständigen Angaben des Spätaussiedlers gegen die schutzwürdigen Belange des Ehegatten oder Abkömmlings, insbesondere unter Beachtung des Kindeswohls, abzuwägen. Der Widerruf einer Bescheinigung ist nicht zulässig.
 
-
-## § 16 – Datenschutz
+# § 16 – Datenschutz
 
 Für die Verfahren nach § 15 gilt § 29 Abs. 1 und 1a entsprechend. Die in diesen Verfahren gespeicherten Daten dürfen auf Ersuchen zur Durchführung von Verfahren zur Gewährung von Leistungen nach diesem Gesetz sowie zur Feststellung der Rechtsstellung als Deutscher nach Artikel 116 Abs. 1 des Grundgesetzes übermittelt und innerhalb derselben Behörde weitergegeben werden, wenn dies erforderlich ist. Wird eine ganz oder teilweise ablehnende Entscheidung nach § 15 getroffen oder eine Entscheidung nach § 15 ganz oder teilweise zurückgenommen oder widerrufen, werden alle Stellen, die Personen im Sinne der §§ 1 bis 4 Rechte einräumen, Vergünstigungen oder Leistungen gewähren, und die Staatsangehörigkeits- sowie Pass- und Personalausweisbehörde von der Entscheidung unterrichtet. Dabei dürfen mitgeteilt werden:
 
@@ -237,23 +219,19 @@ Für die Verfahren nach § 15 gilt § 29 Abs. 1 und 1a entsprechend. Die in dies
 
 4. Tag der Entscheidung und Eintritt der Rechtsbeständigkeit.
 
-
-## §§ 17 bis 20 – (weggefallen)
-
-\-
-
-
-## §§ 21 bis 25 – (weggefallen)
+# §§ 17 bis 20 – (weggefallen)
 
 \-
 
+# §§ 21 bis 25 – (weggefallen)
 
-## § 26 – Aufnahmebescheid
+\-
+
+# § 26 – Aufnahmebescheid
 
 Personen, die die Aussiedlungsgebiete als Spätaussiedler verlassen wollen, um im Geltungsbereich dieses Gesetzes ihren ständigen Aufenthalt zu nehmen, wird nach Maßgabe der folgenden Vorschriften ein Aufnahmebescheid erteilt.
 
-
-## § 27 – Anspruch
+# § 27 – Anspruch
 
 (1) Der Aufnahmebescheid wird auf Antrag Personen mit Wohnsitz in den Aussiedlungsgebieten erteilt, die nach Begründung des ständigen Aufenthalts im Geltungsbereich des Gesetzes die Voraussetzungen als Spätaussiedler erfüllen (Bezugspersonen). Abweichend hiervon kann Personen, die sich ohne Aufnahmebescheid im Geltungsbereich des Gesetzes aufhalten, ein Aufnahmebescheid erteilt oder es kann die Eintragung nach Absatz 2 Satz 1 nachgeholt werden, wenn die Versagung eine besondere Härte bedeuten würde und die sonstigen Voraussetzungen vorliegen. Der Wohnsitz im Aussiedlungsgebiet gilt als fortbestehend, wenn ein Antrag nach Satz 2 abgelehnt wurde und der Antragsteller für den Folgeantrag nach Satz 1 erneut Wohnsitz in den Aussiedlungsgebieten begründet hat.
 
@@ -263,13 +241,11 @@ Personen, die die Aussiedlungsgebiete als Spätaussiedler verlassen wollen, um i
 
 (4) Für jedes Kalenderjahr dürfen so viele Aufnahmebescheide erteilt werden, dass die Zahl der aufzunehmenden Spätaussiedler, Ehegatten und Abkömmlinge die Zahl der vom Bundesverwaltungsamt im Jahre 1998 verteilten Personen im Sinne der §§ 4, 7 nicht überschreitet. Das Bundesverwaltungsamt kann hiervon um bis zu 10 vom Hundert nach oben oder unten abweichen.
 
-
-## § 28 – Verfahren
+# § 28 – Verfahren
 
 Das Bundesverwaltungsamt führt das Aufnahmeverfahren durch und erteilt den Aufnahmebescheid. Zur Feststellung von Ausschlussgründen nach § 5 Nr. 1 Buchstabe d und e beteiligt das Bundesverwaltungsamt den Bundesnachrichtendienst, das Bundesamt für Verfassungsschutz, den Militärischen Abschirmdienst, die Bundespolizei, das Bundeskriminalamt und das Zollkriminalamt, wenn die zu überprüfende Person das 16. Lebensjahr vollendet hat.
 
-
-## § 29 – Datenschutz
+# § 29 – Datenschutz
 
 (1) Das Bundesverwaltungsamt und die im Aufnahmeverfahren mitwirkenden Behörden dürfen, soweit es zur Feststellung der Voraussetzungen nach § 27 erforderlich ist,
 
@@ -301,13 +277,11 @@ Soweit Anhaltspunkte für Ausschlussgründe nach § 5 Nummer 1 Buchstabe d oder 
 
 (2) Die im Aufnahme- und Verteilungsverfahren gesammelten Daten dürfen, soweit gesetzlich nichts anderes bestimmt ist, nur für Zwecke dieser Verfahren einschließlich der vorläufigen Unterbringung durch die Länder, für Verfahren nach § 15 und zur Feststellung der Rechtsstellung als Deutscher nach Artikel 116 Abs. 1 des Grundgesetzes sowie für Verfahren zur Gewährung von Leistungen nach diesem Gesetz genutzt und übermittelt werden.
 
-
-## §§ 30 bis 93 – (weggefallen)
+# §§ 30 bis 93 – (weggefallen)
 
 \-
 
-
-## § 94 – Familiennamen und Vornamen
+# § 94 – Familiennamen und Vornamen
 
 (1) Vertriebene und Spätaussiedler, deren Ehegatten und Abkömmlinge, die Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind, können durch Erklärung gegenüber dem Bundesverwaltungsamt im Verteilungsverfahren oder dem Standesamt
 
@@ -325,35 +299,29 @@ Wird in den Fällen der Nummern 3 bis 5 der Familienname als Ehename geführt, s
 
 (2) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben werden. Im Verteilungsverfahren kann auch das Bundesverwaltungsamt die Erklärungen öffentlich beglaubigen oder beurkunden. Gebühren und Auslagen werden nicht erhoben.
 
-
-## § 95 – Unentgeltliche Beratung
+# § 95 – Unentgeltliche Beratung
 
 (1) Organisationen der Vertriebenen, Flüchtlinge und Spätaussiedler, deren Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist, dürfen Vertriebene, Flüchtlinge und Spätaussiedler im Rahmen ihres Aufgabengebiets in Steuerfragen unentgeltlich beraten. Sie bedürfen hierzu keiner besonderen Erlaubnis.
 
 (2) Diese Tätigkeit kann ihnen im Falle missbräuchlicher Ausübung untersagt werden. Das Nähere bestimmt die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
-## § 96 – Pflege des Kulturgutes der Vertriebenen und Flüchtlinge und Förderung der wissenschaftlichen Forschung
+# § 96 – Pflege des Kulturgutes der Vertriebenen und Flüchtlinge und Förderung der wissenschaftlichen Forschung
 
 Bund und Länder haben entsprechend ihrer durch das Grundgesetz gegebenen Zuständigkeit das Kulturgut der Vertreibungsgebiete in dem Bewusstsein der Vertriebenen und Flüchtlinge, des gesamten deutschen Volkes und des Auslandes zu erhalten, Archive, Museen und Bibliotheken zu sichern, zu ergänzen und auszuwerten sowie Einrichtungen des Kunstschaffens und der Ausbildung sicherzustellen und zu fördern. Sie haben Wissenschaft und Forschung bei der Erfüllung der Aufgaben, die sich aus der Vertreibung und der Eingliederung der Vertriebenen und Flüchtlinge ergeben, sowie die Weiterentwicklung der Kulturleistungen der Vertriebenen und Flüchtlinge zu fördern. Die Bundesregierung berichtet jährlich dem Bundestag über das von ihr Veranlasste.
 
-
-## § 97 – Statistik
+# § 97 – Statistik
 
 Bund und Länder haben die auf dem Gebiete des Spätaussiedlerwesens erforderlichen statistischen Arbeiten durchzuführen. Insbesondere haben sie die Statistik so auszugestalten, dass die statistischen Unterlagen für die Durchführung der zum Zwecke der Eingliederung der Spätaussiedler erlassenen Vorschriften zur Verfügung gestellt werden können.
 
-
-## § 98 – Erschleichung von Vergünstigungen
+# § 98 – Erschleichung von Vergünstigungen
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer unrichtige oder unvollständige Angaben tatsächlicher Art macht oder benutzt, um für sich oder einen anderen Rechte oder Vergünstigungen, die Spätaussiedlern vorbehalten sind, zu erschleichen.
 
-
-## § 99 – Pflichtverletzung von Verwaltungsangehörigen
+# § 99 – Pflichtverletzung von Verwaltungsangehörigen
 
 Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer als Verwaltungsangehöriger bei der Durchführung dieses Gesetzes Bescheinigungen für Personen ausstellt, von denen er weiß, dass sie kein Recht auf Erteilung der Bescheinigung haben.
 
-
-## § 100 – Anwendung des bisherigen Rechts
+# § 100 – Anwendung des bisherigen Rechts
 
 (1) Für Personen im Sinne der §§ 1 bis 3 finden die vor dem 1. Januar 1993 geltenden Vorschriften nach Maßgabe der Absätze 2 bis 8 Anwendung.
 
@@ -371,37 +339,30 @@ Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer a
 
 (8) § 90a Abs. 1, 3 und 4 ist in der bis zum 31. Dezember 1992 geltenden Fassung weiterhin anzuwenden.
 
-
-## § 100a – Übergangsregelung
+# § 100a – Übergangsregelung
 
 Die Spätaussiedlereigenschaft von Personen aus Estland, Lettland oder Litauen, die vor dem 24. Mai 2007 einen Aufnahmebescheid nach § 26 erhalten haben, bestimmt sich weiter nach den §§ 4 und 5 in der vor dem 24. Mai 2007 geltenden Fassung mit der Maßgabe, dass kein Ausschlussgrund nach § 5 Nr. 1 Buchstabe d oder Buchstabe e vorliegt.
 
-
-## § 100b – Anwendungsvorschrift
+# § 100b – Anwendungsvorschrift
 
 § 4 Abs. 3 Satz 2 ist in der bis zum 1. Januar 2005 geltenden Fassung auf Ehegatten, die bis zu diesem Zeitpunkt in den Aufnahmebescheid einbezogen worden sind und deren Ehe mit dem Spätaussiedler zum Zeitpunkt des Verlassens der Aussiedlungsgebiete noch keine drei Jahre bestanden hat, anzuwenden. Werden Ehegatten im Sinne des Satzes 1 nach dem 24. Mai 2007 im Geltungsbereich des Gesetzes aufgenommen, ist ihnen eine Bescheinigung nach § 15 Abs. 2 auszustellen, aus der hervorgeht, dass sie den Status im Sinne des Artikels 116 Abs. 1 des Grundgesetzes nicht erworben haben.
 
-
-## § 101 – Geltung für Lebenspartner
+# § 101 – Geltung für Lebenspartner
 
 Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten entsprechend für Lebenspartner.
 
-
-## § 102 – (weggefallen)
+# § 102 – (weggefallen)
 
 \-
 
-
-## § 103 – Kostentragung
+# § 103 – Kostentragung
 
 Der Bund trägt die Aufwendungen nach § 9 dieses Gesetzes.
 
-
-## § 104
+# § 104
 
 Das Bundesministerium des Innern, für Bau und Heimat kann allgemeine Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das Bundesverwaltungsamt erlassen.
 
-
-## §§ 105 bis 107 – (weggefallen)
+# §§ 105 bis 107 – (weggefallen)
 
 \-

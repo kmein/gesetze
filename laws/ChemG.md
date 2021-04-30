@@ -1,20 +1,15 @@
-# [ChemG] Gesetz zum Schutz vor gefährlichen Stoffen   (Chemikaliengesetz - ChemG)
-
-Ausfertigungsdatum: 16.09.1980
-
+% Gesetz zum Schutz vor gefährlichen Stoffen   (Chemikaliengesetz - ChemG)
+% Ausfertigungsdatum: 16.09.1980
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Inhaltsübersicht Fußnote Kursivdruck: Art. 4 u. Art. 5 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.08.2018
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirkungen gefährlicher Stoffe und Gemische zu schützen, insbesondere sie erkennbar zu machen, sie abzuwenden und ihrem Entstehen vorzubeugen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Die Vorschriften des Dritten Abschnitts, die §§ 16e, 17 Abs. 1 Nr. 2 Buchstabe a und b und § 23 Abs. 2 gelten nicht für
 
@@ -22,8 +17,7 @@ Zweck des Gesetzes ist es, den Menschen und die Umwelt vor schädlichen Einwirku
 
 2. Arzneimittel, die einem Zulassungs- oder Registrierungsverfahren nach dem Arzneimittelgesetz oder nach dem Tiergesundheitsgesetz unterliegen, sowie sonstige Arzneimittel, soweit sie nach § 21 Abs. 2 des Arzneimittelgesetzes einer Zulassung nicht bedürfen oder in einer zur Abgabe an den Verbraucher bestimmten Verpackung abgegeben werden,
 
-2a.  
-Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes und ihr Zubehör; die Vorschriften des Dritten Abschnitts und § 16e gelten für Medizinprodukte mit Ausnahme von für den Endverbraucher bestimmten Fertigerzeugnissen, die invasiv oder unter Körperberührung angewendet werden,
+2a. Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes und ihr Zubehör; die Vorschriften des Dritten Abschnitts und § 16e gelten für Medizinprodukte mit Ausnahme von für den Endverbraucher bestimmten Fertigerzeugnissen, die invasiv oder unter Körperberührung angewendet werden,
 
 3. Abfälle zur Beseitigung im Sinne des § 3 Absatz 1 Satz 2 zweiter Halbsatz des Kreislaufwirtschaftsgesetzes,
 
@@ -59,8 +53,7 @@ b) über die Abfallbeseitigung und Luftreinhaltung,
 
 (5) Die Vorschriften des Ersten, Dritten und Vierten Abschnitts, die §§ 17 und 18 sowie die Vorschriften des Siebten und Achten Abschnitts gelten nicht für die Beförderung gefährlicher Güter im Eisenbahn-, Straßen-, Binnenschiffs-, See- und Luftverkehr, ausgenommen die innerbetriebliche Beförderung.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -72,8 +65,7 @@ chemisches Element und seine Verbindungen in natürlicher Form oder gewonnen dur
 
 3. (weggefallen)
 
-3a.  
-(weggefallen)
+3a. (weggefallen)
 
 4. Gemische:
 
@@ -113,8 +105,7 @@ Wirkstoff im Sinne des Artikels 3 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 5
 
 Bestimmungen der in Satz 1 aufgeführten Begriffe in Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union (EG- oder EU-Verordnungen) bleiben unberührt.
 
-
-## § 3a – Gefährliche Stoffe und gefährliche Gemische
+# § 3a – Gefährliche Stoffe und gefährliche Gemische
 
 (1) Gefährliche Stoffe oder gefährliche Gemische im Sinne dieses Gesetzes sind Stoffe oder Gemische, die
 
@@ -128,11 +119,9 @@ b) selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit
 
 (2) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften über die Festlegung der in Absatz 1 genannten Gefährlichkeitsmerkmale zu erlassen.
 
+# § 3b – (weggefallen)
 
-## § 3b – (weggefallen)
-
-
-## § 4 – Beteiligte Bundesbehörden
+# § 4 – Beteiligte Bundesbehörden
 
 (1) Bei der Durchführung der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. EU Nr. L 396 S. 1, 2007 Nr. L 136 S. 3) in der jeweils geltenden Fassung und bei der Durchführung der Verordnung (EG) Nr. 1272/2008 wirken nach Maßgabe dieses Abschnitts mit:
 
@@ -146,8 +135,7 @@ b) selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit
 
 (2) Die Bundesstelle für Chemikalien beteiligt im Einzelfall weitere Bundesoberbehörden, sofern bei diesen besondere Fachkenntnisse zu Einzelaspekten der Bewertung von Stoffen, Gemischen oder Erzeugnissen zu Zwecken der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008 vorhanden sind und die betreffende Fragestellung von den in Absatz 1 genannten Behörden nicht abschließend beurteilt werden kann.
 
-
-## § 5 – Aufgaben der Bundesstelle für Chemikalien
+# § 5 – Aufgaben der Bundesstelle für Chemikalien
 
 (1) Bei der Durchführung der Verordnung (EG) Nr. 1907/2006 und der Verordnung (EG) Nr. 1272/2008 gelten insbesondere die folgenden Aufgaben als Mitwirkungsakte nach § 21 Absatz 2 Satz 2, für die die Bundesstelle für Chemikalien zuständig ist:
 
@@ -177,8 +165,7 @@ b) selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit
 
 8. Beratung der Bundesregierung in allen die Verordnung (EG) Nr. 1907/2006 und die Verordnung (EG) Nr. 1272/2008 und ihre Fortentwicklung betreffenden Angelegenheiten.
 
-
-## § 6 – Aufgaben der Bewertungsstellen
+# § 6 – Aufgaben der Bewertungsstellen
 
 (1) Die Bewertungsstellen unterstützen die Bundesstelle für Chemikalien bei deren Aufgaben nach § 5 Absatz 1 Nummer 2 bis 4 und Absatz 2 Nummer 1 bis 3 durch die eigenverantwortliche und abschließende Durchführung der ihren jeweiligen Zuständigkeitsbereich betreffenden Bewertungsaufgaben. Bei den Aufgaben der Bundesstelle für Chemikalien nach § 5 Absatz 1 Nummer 1 und Absatz 2 Nummer 4 bis 8 wirken sie bei den ihren jeweiligen Zuständigkeitsbereich betreffenden Fragen mit. Die Bewertungsstellen unterstützen sich gegenseitig durch fachliche Stellungnahmen, sofern dies für die Wahrnehmung ihrer Aufgaben erforderlich ist.
 
@@ -188,20 +175,17 @@ b) selbst oder deren Umwandlungsprodukte sonst geeignet sind, die Beschaffenheit
 
 (4) Fachlicher Zuständigkeitsbereich der Bewertungsstelle für Sicherheit und Gesundheitsschutz der Beschäftigten ist die arbeitsschutzbezogene Risikobewertung einschließlich der Bewertung von Risikominderungsmaßnahmen.
 
-
-## § 7 – Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
+# § 7 – Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
 
 (1) Die Bundesstelle für Chemikalien koordiniert das Zusammenwirken der in § 4 genannten Bundesoberbehörden und wirkt auf die Schlüssigkeit und Widerspruchsfreiheit der Gesamtposition hin. Sie entscheidet über die Gesamtposition, sofern im Einzelfall deren Schlüssigkeit und Widerspruchsfreiheit anders nicht erreicht werden kann und die Abgabe einer Stellungnahme keinen Aufschub duldet. Entscheidungen nach Satz 2, in denen die Bundesstelle für Chemikalien von der Bewertung einer Bewertungsstelle nach § 6 Absatz 1 Satz 1 abweicht, bedürfen einer eingehenden Begründung, die aktenkundig zu machen und den Bewertungsstellen zuzuleiten ist.
 
 (2) Die Bundesstelle für Chemikalien vertritt die Gesamtposition nach außen. Sie zieht dabei Vertreter der anderen beteiligten Bundesoberbehörden zur Unterstützung hinzu, sofern sie es für erforderlich hält oder diese es verlangen.
 
-
-## § 8 – Gebührenfreiheit der nationalen Auskunftsstelle
+# § 8 – Gebührenfreiheit der nationalen Auskunftsstelle
 
 Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als nationale Auskunftsstelle nach Artikel 124 Absatz 2 der Verordnung (EG) Nr. 1907/2006 und nach Artikel 44 der Verordnung (EG) Nr. 1272/2008 keine Gebühren.
 
-
-## § 9 – Informationsaustausch zwischen Bundes- und Landesbehörden
+# § 9 – Informationsaustausch zwischen Bundes- und Landesbehörden
 
 (1) Die Bundesstelle für Chemikalien informiert die zuständigen Landesbehörden insbesondere über Mitteilungen der Europäischen Chemikalienagentur über
 
@@ -231,21 +215,17 @@ Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als nationale Ausk
 
 (3) § 22 bleibt unberührt.
 
-
-## § 10 – Vorläufige Maßnahmen
+# § 10 – Vorläufige Maßnahmen
 
 (1) Sofern auf Grundlage dieses Gesetzes eine vorläufige Maßnahme im Sinne des Artikels 129 der Verordnung (EG) Nr. 1907/2006 oder im Sinne des Artikels 52 der Verordnung (EG) Nr. 1272/2008 erlassen wurde, unterrichtet die Bundesstelle für Chemikalien unverzüglich die Europäische Kommission und die anderen Mitgliedstaaten der Europäischen Union unter Angabe der Gründe über die getroffene Entscheidung und legt die wissenschaftlichen oder technischen Informationen vor, auf denen diese vorläufige Maßnahme beruht.
 
 (2) Die Bundesstelle für Chemikalien informiert die zuständigen Landesbehörden über die Entscheidung der Europäischen Kommission nach Artikel 129 Absatz 2 der Verordnung (EG) Nr. 1907/2006 oder nach Artikel 52 Absatz 2 der Verordnung (EG) Nr. 1272/2008.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
+# § 12 – (weggefallen)
 
-
-## § 12 – (weggefallen)
-
-
-## § 12a – Beteiligte Bundesbehörden
+# § 12a – Beteiligte Bundesbehörden
 
 (1) Bei der Durchführung der Verordnung (EU) Nr. 528/2012 wirken die in § 4 Absatz 1 genannten Stellen nach Maßgabe dieses Abschnitts mit. Das Bundesinstitut für Risikobewertung als Bewertungsstelle Gesundheit und Verbraucherschutz unterliegt insoweit der Fachaufsicht des Bundesministeriums für Ernährung und Landwirtschaft.
 
@@ -259,8 +239,7 @@ Die Bundesstelle für Chemikalien erhebt für ihre Tätigkeit als nationale Ausk
 
 3. das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit in Bezug auf Biozid-Produkte, die nach einer Rechtsverordnung auf Grund des § 7 des Tiergesundheitsgesetzes bei einer tiergesundheitsrechtlich vorgeschriebenen Desinfektion, Bekämpfung von Schadnagern oder von sonstigen Schadorganismen oder bei einer sonstigen Entwesung verwendet werden dürfen.
 
-
-## § 12b – Aufgaben der Bundesstelle für Chemikalien
+# § 12b – Aufgaben der Bundesstelle für Chemikalien
 
 (1) Bei der Durchführung der Verordnung (EU) Nr. 528/2012 gelten insbesondere die folgenden Aufgaben als Mitwirkungsakte nach § 21 Absatz 2 Satz 2:
 
@@ -296,8 +275,7 @@ b) bei der Erteilung und Verlängerung sowie der Aufhebung, Überprüfung und Ä
 
 10. die Beratung der Bundesregierung in allen die Verordnung (EU) Nr. 528/2012 und ihre Fortentwicklung betreffenden Angelegenheiten.
 
-
-## § 12c – Aufgaben der Bewertungsstellen
+# § 12c – Aufgaben der Bewertungsstellen
 
 (1) Die Bewertungsstellen unterstützen die Bundesstelle für Chemikalien bei deren Aufgaben nach § 12b Absatz 1 und 2 Nummer 1 bis 9 durch die eigenverantwortliche und abschließende Durchführung der ihren jeweiligen Zuständigkeitsbereich betreffenden Bewertungsaufgaben. Im Übrigen wirken sie bei den ihren jeweiligen Zuständigkeitsbereich betreffenden Fragen mit. Die Bewertungsstellen unterstützen sich gegenseitig durch fachliche Stellungnahmen, sofern dies für die Wahrnehmung ihrer Aufgaben erforderlich ist.
 
@@ -311,8 +289,7 @@ b) bei der Erteilung und Verlängerung sowie der Aufhebung, Überprüfung und Ä
 
 (4) Fachlicher Zuständigkeitsbereich der Bewertungsstelle für Sicherheit und Gesundheitsschutz der Beschäftigten ist die Risikobewertung in Bezug auf den Arbeitsschutz, einschließlich der Bewertung von Risikominderungsmaßnahmen.
 
-
-## § 12d – Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
+# § 12d – Zusammenarbeit der Bundesstelle für Chemikalien und der anderen beteiligten Bundesoberbehörden
 
 (1) Die Bundesstelle für Chemikalien koordiniert das Zusammenwirken der in § 12a genannten Bundesoberbehörden und wirkt auf die Schlüssigkeit und Widerspruchsfreiheit der Entscheidungen und Stellungnahmen als Ganzes hin.
 
@@ -342,8 +319,7 @@ Die Bundesstelle für Chemikalien entscheidet ferner im Einvernehmen mit den Bew
 
 (4) Entscheidungen der in § 12a Absatz 3 genannten Bundesoberbehörden über Zulassungen nach Artikel 55 Absatz 1 der Verordnung (EU) Nr. 528/2012 werden von der Behörde nach außen vertreten, die jeweils für die Entscheidung verantwortlich ist. Diese Behörde unterrichtet die Bundesstelle für Chemikalien jeweils unverzüglich über den Beginn der betreffenden Entscheidungsverfahren und über die von ihr getroffenen Maßnahmen.
 
-
-## § 12e – Auskunftsstelle, Unterrichtung der Öffentlichkeit
+# § 12e – Auskunftsstelle, Unterrichtung der Öffentlichkeit
 
 (1) Die Bundesstelle für Chemikalien richtet eine Auskunftsstelle zur Erfüllung der Aufgaben nach Artikel 81 Absatz 2 der Verordnung (EU) Nr. 528/2012 ein. Die Auskunftsstelle ist im Verbund mit der Auskunftsstelle nach § 5 Absatz 2 Nummer 7 zu führen. § 8 ist entsprechend anzuwenden.
 
@@ -357,8 +333,7 @@ Die Bundesstelle für Chemikalien entscheidet ferner im Einvernehmen mit den Bew
 
 (3) Die übrigen in § 12a genannten Bundesoberbehörden unterstützen die Bundesstelle für Chemikalien bei der Wahrnehmung der Aufgaben nach den Absätzen 1 und 2.
 
-
-## § 12f – Informationsaustausch zwischen Bundes- und Landesbehörden
+# § 12f – Informationsaustausch zwischen Bundes- und Landesbehörden
 
 (1) Die Bundesstelle für Chemikalien informiert die zuständigen Landesbehörden insbesondere über
 
@@ -402,8 +377,7 @@ c) Meldungen nach Artikel 17 Absatz 6 Satz 3 der Verordnung (EU) Nr. 528/2012.
 
 (5) § 22 bleibt unberührt.
 
-
-## § 12g – Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen
+# § 12g – Anordnungsbefugnisse der Bundesstelle für Chemikalien, vorläufige Maßnahmen
 
 (1) Bestehen auf der Grundlage neuer Tatsachen berechtigte Gründe zu der Annahme, dass ein Biozid-Produkt, obwohl es nach der Verordnung (EU) Nr. 528/2012 zugelassen wurde, dennoch ein unmittelbares oder langfristiges gravierendes Risiko für die Gesundheit von Menschen oder Tieren, insbesondere für gefährdete Gruppen, oder für die Umwelt darstellt, so kann die Bundesstelle für Chemikalien im Einvernehmen mit den Bewertungsstellen geeignete vorläufige Maßnahmen treffen, insbesondere die Bereitstellung des Biozid-Produkts auf dem Markt im Sinne des Artikels 3 Absatz 1 Buchstabe i der Verordnung (EU) Nr. 528/2012 vorläufig untersagen oder von der Einhaltung bestimmter Voraussetzungen abhängig machen. Rechtsbehelfe gegen Anordnungen nach Satz 1 haben keine aufschiebende Wirkung. Die Anordnungen der Bundesstelle für Chemikalien nach Satz 1 werden von der jeweils zuständigen Landesbehörde nach den jeweiligen landesrechtlichen Vorschriften über das Verwaltungsvollstreckungsverfahren vollstreckt. § 23 Absatz 2 bleibt unberührt.
 
@@ -411,8 +385,7 @@ c) Meldungen nach Artikel 17 Absatz 6 Satz 3 der Verordnung (EU) Nr. 528/2012.
 
 (3) Die Bundesstelle für Chemikalien kann im Einvernehmen mit den Bewertungsstellen ein Biozid-Produkt zulassen für wesentliche Verwendungszwecke gemäß Artikel 22 Absatz 1 der Delegierten Verordnung (EU) Nr. 1062/2014 der Kommission vom 4. August 2014 über das Arbeitsprogramm zur systematischen Prüfung aller in Biozidprodukten enthaltenen alten Wirkstoffe gemäß der Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates (ABl. L 294 vom 10.10.2014, S. 1; L 198 vom 28.7.2015, S. 28), sofern die Europäische Kommission für den betreffenden Biozid-Wirkstoff eine Entscheidung nach Artikel 22 Absatz 4 der Delegierten Verordnung (EU) Nr. 1062/2014, auch in Verbindung mit Artikel 89 Absatz 1 der Verordnung (EU) Nr. 528/2012, getroffen hat und die dort genannten Voraussetzungen eingehalten werden.
 
-
-## § 12h – Verordnungsermächtigungen
+# § 12h – Verordnungsermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates Voraussetzungen, Inhalt und Verfahren der Entscheidungen oder Mitwirkungsakte der in § 12a genannten Bundesoberbehörden im Rahmen der Durchführung der Verordnung (EU) Nr. 528/2012 näher zu regeln, insbesondere zu bestimmen,
 
@@ -436,8 +409,7 @@ b) der Meldung und behördlichen Prüfung von Experimenten und Versuchen nach Ar
 
 3. dass und in welcher Form Personen, die bei der Behandlung oder Beurteilung akuter und chronischer Vergiftungsfälle von Nicht-Zielorganismen durch Biozid-Produkte hinzugezogen wurden, der Bundesstelle für Chemikalien oder einer anderen geeigneten Bundesoberbehörde derartige Fälle zu melden haben.
 
-
-## § 13 – Einstufungs-, Kennzeichnungs- und Verpackungspflichten
+# § 13 – Einstufungs-, Kennzeichnungs- und Verpackungspflichten
 
 (1) Die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen richten sich nach den Bestimmungen der Verordnung (EG) Nr. 1272/2008.
 
@@ -447,8 +419,7 @@ b) der Meldung und behördlichen Prüfung von Experimenten und Versuchen nach Ar
 
 (4) Weitergehende Anforderungen über die Kennzeichnung und Verpackung nach anderen Rechtsvorschriften bleiben unberührt.
 
-
-## § 14 – Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften
+# § 14 – Ermächtigung zu Einstufungs-, Kennzeichnungs- und Verpackungsvorschriften
 
 (1) Die Bundesregierung wird ermächtigt, soweit unionsrechtlich zulässig durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -476,26 +447,19 @@ g) dass andere als die in § 13 Absatz 2 und 3 genannten Personen für die Einst
 
 (3) Regelungen nach den Absätzen 1 und 2 können auch für Biozid-Wirkstoffe und Biozid-Produkte, die nicht gefährliche Stoffe oder Gemische im Sinne des § 3a sind, sowie für Stoffe, Gemische und Erzeugnisse nach § 19 Absatz 2 getroffen werden.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
+# § 15a – (weggefallen)
 
+# § 16 – (weggefallen)
 
-## § 15a – (weggefallen)
+# § 16a – (weggefallen)
 
+# § 16b – (weggefallen)
 
-## § 16 – (weggefallen)
+# § 16c – (weggefallen)
 
-
-## § 16a – (weggefallen)
-
-
-## § 16b – (weggefallen)
-
-
-## § 16c – (weggefallen)
-
-
-## § 16d – Mitteilungspflichten bei Gemischen
+# § 16d – Mitteilungspflichten bei Gemischen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum Zwecke der Ermittlung von Gefahren, die von Gemischen ausgehen können, sowie von Art und Umfang der Verwendung gefährlicher Stoffe in Gemischen den Hersteller, Einführer oder Verwender von bestimmten Gemischen zu verpflichten,
 
@@ -517,8 +481,7 @@ der Bundesstelle für Chemikalien innerhalb einer angemessenen Frist schriftlich
 
 (2) Die Mitteilungspflicht kann auf bestimmte Angaben über die Zusammensetzung beschränkt, von der hergestellten, eingeführten oder verwendeten Menge abhängig gemacht und auf spätere Änderungen der Zusammensetzung erstreckt werden. In der Rechtsverordnung sind Bestimmungen darüber zu treffen, dass und wie auf Verlangen des Mitteilungspflichtigen die Vertraulichkeit der mitgeteilten Angaben sicherzustellen ist.
 
-
-## § 16e – Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen
+# § 16e – Mitteilungen für die gesundheitliche Notversorgung und für vorbeugende Maßnahmen
 
 (1) Das Bundesinstitut für Risikobewertung nimmt als benannte Stelle nach Artikel 45 Absatz 1 der Verordnung (EG) Nr. 1272/2008, auch in Verbindung mit Artikel 73 der Verordnung (EU) Nr. 528/2012, die Aufgaben nach Artikel 45 Absatz 1 in Verbindung mit Anhang VIII der Verordnung (EG) Nr. 1272/2008 wahr.
 
@@ -556,15 +519,13 @@ Die Überwachungsbefugnisse der zuständigen Landesbehörden nach § 21 bleiben 
 
 3. nähere Bestimmungen über die Informationspflichten nach den Absätzen 2 und 3 sowie die vertrauliche Behandlung und die Zweckbindung nach Absatz 4 zu treffen.
 
-
-## § 16f – Informationspflicht der Lieferanten
+# § 16f – Informationspflicht der Lieferanten
 
 (1) Wer als Lieferant im Sinne des Artikels 3 Nummer 33 der Verordnung (EG) Nr. 1907/2006 Erzeugnisse im Sinne der Verordnung (EG) Nr. 1907/2006 in Verkehr bringt, hat ab dem 5. Januar 2021 die Informationen gemäß Artikel 33 Absatz 1 der Verordnung (EG) Nr. 1907/2006 der Europäischen Chemikalienagentur nach Artikel 9 Absatz 2 der Richtlinie 2008/98/EG zur Verfügung zu stellen. Satz 1 gilt nicht für Erzeugnisse mit militärischer Zweckbestimmung.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates näher zu bestimmen, auf welche Art und Weise und mit welchen Maßgaben die Verpflichtung nach Absatz 1 unter Berücksichtigung der auf Unionsebene entwickelten Vorgaben für die Datenbank zu erfüllen ist.
 
-
-## § 17 – Verbote und Beschränkungen
+# § 17 – Verbote und Beschränkungen
 
 (1) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zu dem in § 1 genannten Zweck erforderlich und unionsrechtlich zulässig ist,
 
@@ -600,8 +561,7 @@ d) seine Sachkunde in einem näher festzulegenden Verfahren nachzuweisen hat,
 
 (7) Die beteiligten Kreise bestehen aus jeweils auszuwählenden Vertretern der Wissenschaft, der Verbraucherschutzverbände, der Gewerkschaften und Berufsgenossenschaften, der beteiligten Wirtschaft, des Gesundheitswesens sowie der Umwelt-, Tierschutz- und Naturschutzverbände.
 
-
-## § 18 – Giftige Tiere und Pflanzen
+# § 18 – Giftige Tiere und Pflanzen
 
 (1) Die Bundesregierung wird ermächtigt, soweit es zum Schutz von Leben oder Gesundheit des Menschen unter Berücksichtigung der Belange des Natur- und Tierschutzes erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass Exemplare
 
@@ -625,8 +585,7 @@ Die Erlaubnis zur Haltung nach Satz 1 Nummer 1 Buchstabe b und c kann mit Auflag
 
 (3) § 17 Absatz 1 Nummer 1 und 2 Buchstabe c und d gilt entsprechend für die in Absatz 2 Satz 1 genannten Tierkörper oder deren Teile sowie für bestimmte Arten giftiger Samen und abgestorbener Exemplare oder Teile giftiger Pflanzenarten.
 
-
-## § 19 – Maßnahmen zum Schutz von Beschäftigten
+# § 19 – Maßnahmen zum Schutz von Beschäftigten
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zum Schutz von Leben und Gesundheit des Menschen einschließlich des Schutzes der Arbeitskraft und der menschengerechten Gestaltung der Arbeit erforderlich ist, beim Herstellen und Verwenden von Stoffen, Gemischen und Erzeugnissen sowie bei Tätigkeiten in deren Gefahrenbereich Maßnahmen der in Absatz 3 beschriebenen Art vorzuschreiben. Satz 1 gilt nicht für Maßnahmen nach Absatz 3, soweit entsprechende Vorschriften nach dem Atomgesetz, Bundes-Immissionsschutzgesetz, Pflanzenschutzgesetz oder Sprengstoffgesetz bestehen.
 
@@ -648,8 +607,7 @@ Die Erlaubnis zur Haltung nach Satz 1 Nummer 1 Buchstabe b und c kann mit Auflag
 
 2. dass derjenige, der andere mit der Herstellung oder Verwendung von Gefahrstoffen beschäftigt, verpflichtet wird zu prüfen, ob Stoffe, Gemische oder Erzeugnisse oder Herstellungs- oder Verwendungsverfahren mit einem geringeren Risiko für die menschliche Gesundheit verfügbar sind und dass er diese verwenden soll oder zu verwenden hat, soweit es ihm zumutbar ist,
 
-2a.  
-dass der Hersteller oder Einführer dem Arbeitgeber auf Verlangen die gefährlichen Inhaltsstoffe der Gefahrstoffe sowie die gültigen Grenzwerte und, falls solche noch nicht vorhanden sind, Empfehlungen für einzuhaltende Stoffkonzentrationen und die von den Gefahrstoffen ausgehenden Gefahren oder die zu ergreifenden Maßnahmen mitzuteilen hat,
+2a. dass der Hersteller oder Einführer dem Arbeitgeber auf Verlangen die gefährlichen Inhaltsstoffe der Gefahrstoffe sowie die gültigen Grenzwerte und, falls solche noch nicht vorhanden sind, Empfehlungen für einzuhaltende Stoffkonzentrationen und die von den Gefahrstoffen ausgehenden Gefahren oder die zu ergreifenden Maßnahmen mitzuteilen hat,
 
 3. wie die Arbeitsstätte einschließlich der technischen Anlagen, die technischen Arbeitsmittel und die Arbeitsverfahren beschaffen, eingerichtet sein oder betrieben werden müssen, damit sie dem Stand der Technik, Arbeitsmedizin und Hygiene sowie den gesicherten sicherheitstechnischen, arbeitsmedizinischen, hygienischen und sonstigen arbeitswissenschaftlichen Erkenntnissen entsprechen, die zum Schutz der Beschäftigten zu beachten sind,
 
@@ -709,8 +667,7 @@ d) die in die Aufzeichnung aufzunehmenden Daten dem zuständigen Träger der ges
 
 2. die Bekanntmachung bei der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin archivmäßig gesichert niederzulegen und in der Rechtsverordnung darauf hinzuweisen.
 
-
-## § 19a – Gute Laborpraxis (GLP)
+# § 19a – Gute Laborpraxis (GLP)
 
 (1) Nicht-klinische gesundheits- und umweltrelevante Sicherheitsprüfungen von Stoffen oder Gemischen, deren Ergebnisse eine Bewertung ihrer möglichen Gefahren für Mensch und Umwelt in einem Zulassungs-, Erlaubnis-, Registrierungs-, Anmelde- oder Mitteilungsverfahren ermöglichen sollen, sind unter Einhaltung der Grundsätze der Guten Laborpraxis nach dem Anhang 1 zu diesem Gesetz durchzuführen, soweit gemeinschaftsrechtlich oder unionsrechtlich nichts anderes bestimmt ist.
 
@@ -728,8 +685,7 @@ Wird der Nachweis nicht erbracht, gelten die Prüfergebnisse als nicht vorgelegt
 
 (5) Die Absätze 1 und 2 sind nicht anzuwenden auf vor dem 1. August 1990 begonnene und bis zum 1. Januar 1995 abgeschlossene Prüfungen, wenn die zuständige Behörde im Einzelfall festgestellt hat, dass die Prüfung auch unter Berücksichtigung der Grundsätze der Guten Laborpraxis noch verwertbar ist.
 
-
-## § 19b – GLP-Bescheinigung
+# § 19b – GLP-Bescheinigung
 
 (1) Die zuständige Behörde hat demjenigen, der Prüfungen nach § 19a Absatz 1 durchführt, auf Antrag nach Durchführung eines Inspektionsverfahrens eine Bescheinigung über die Einhaltung der Grundsätze der Guten Laborpraxis zu erteilen, wenn seine Prüfeinrichtung oder sein Prüfstandort und die von ihm durchgeführten Prüfungen oder Phasen von Prüfungen den Grundsätzen der Guten Laborpraxis nach Anhang 1 entsprechen. Den Antrag nach Satz 1 kann auch stellen, wer, ohne zu Prüfungen nach § 19a Absatz 1 verpflichtet zu sein, ein berechtigtes Interesse glaubhaft macht. In dem Fall des § 19a Absatz 3 wird der Bundesbehörde die Bescheinigung von ihrer Aufsichtsbehörde oder einer von dieser bestimmten Stelle erteilt. Die Bescheinigung nach den Sätzen 1 und 3 ist nach dem Muster des Anhangs 2 auszustellen. Über einen Antrag auf Erteilung einer Bescheinigung nach Satz 1 ist innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet mit der Maßgabe Anwendung, dass die Frist nicht vor Abschluss des vorgeschriebenen Inspektionsverfahrens nach Satz 1 beginnt. Das Antragsverfahren zur Erteilung der Bescheinigung kann über eine einheitliche Stelle abgewickelt werden. Bei der Prüfung des Antrags auf Erteilung einer Bescheinigung nach Satz 1 stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass der Antragsteller die betreffenden Anforderungen des Satzes 1 oder die aufgrund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaats erfüllt.
 
@@ -741,15 +697,13 @@ Wird der Nachweis nicht erbracht, gelten die Prüfergebnisse als nicht vorgelegt
 
 3. eine Bestätigung des Bundesinstitutes für Risikobewertung, dass eine Prüfeinrichtung, die in einem Staat gelegen ist, der nicht Mitgliedstaat der Europäischen Union ist und die gegenseitige Anerkennung von GLP-Bescheinigungen nicht gewährleistet, nach den dem Bundesinstitut für Risikobewertung vorliegenden Erkenntnissen Prüfungen nach den Grundsätzen der Guten Laborpraxis durchführt.
 
-
-## § 19c – Berichterstattung
+# § 19c – Berichterstattung
 
 (1) Die Bundesregierung erstattet jährlich bis zum 31. März für das vergangene Kalenderjahr der Europäischen Kommission Bericht über die Anwendung der Grundsätze der Guten Laborpraxis im Geltungsbereich dieses Gesetzes. Der Bericht enthält ein Verzeichnis der inspizierten Prüfeinrichtungen und Prüfstandorte, eine Angabe der Zeitpunkte, zu denen Inspektionen durchgeführt wurden und eine Zusammenfassung der Ergebnisse der Inspektionen. Die obersten Landesbehörden wirken bei der Erstellung des Berichts mit und übersenden ihre Beiträge bis zum 15. Februar für das vergangene Kalenderjahr dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann ein Verzeichnis der Prüfeinrichtungen und Prüfstandorte, die Prüfungen oder Phasen von Prüfungen unter Einhaltung der Grundsätze der Guten Laborpraxis durchführen, im Bundesanzeiger veröffentlichen.
 
-
-## § 19d – Ergänzende Vorschriften
+# § 19d – Ergänzende Vorschriften
 
 (1) Das Bundesinstitut für Risikobewertung hat, zusätzlich zu den Aufgaben, die ihm durch Gesetze, Rechtsverordnungen oder andere Rechtsvorschriften übertragen sind, im Bereich der Guten Laborpraxis folgende Aufgaben:
 
@@ -775,8 +729,7 @@ e) die Überwachung der Einhaltung der Grundsätze der Guten Laborpraxis,
 
 (3) Die Bundesregierung erlässt mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften über das Verfahren der behördlichen Überwachung. In der allgemeinen Verwaltungsvorschrift kann auch eine Übertragung der Veröffentlichungsbefugnis auf das Bundesinstitut für Risikobewertung geregelt werden.
 
-
-## § 20 – Antrags- und Mitteilungsunterlagen, Verordnungsermächtigungen
+# § 20 – Antrags- und Mitteilungsunterlagen, Verordnungsermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -792,11 +745,9 @@ e) die Überwachung der Einhaltung der Grundsätze der Guten Laborpraxis,
 
 3. die Übermittlung weiterer Kopien vorgelegter Unterlagen verlangen, soweit dies im Hinblick auf die Beteiligung der in den §§ 4 und 12a genannten weiteren Bundesbehörden erforderlich ist.
 
+# § 20a – (weggefallen)
 
-## § 20a – (weggefallen)
-
-
-## § 20b – Ausschüsse
+# § 20b – Ausschüsse
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Ausschüsse zu bilden, denen die Aufgabe übertragen werden kann,
 
@@ -820,8 +771,7 @@ c) für Mensch und Umwelt nicht oder weniger gefährliche Stoffe, Gemische, Erze
 
 die das zuständige Bundesministerium amtlich bekannt machen kann.
 
-
-## § 21 – Überwachung
+# § 21 – Überwachung
 
 (1) Die zuständigen Landesbehörden haben die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen, soweit dieses Gesetz keine andere Regelung trifft.
 
@@ -855,20 +805,17 @@ Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung 
 
 (7) Die Bundesstelle für Chemikalien und die in § 12a genannten Stellen sind verpflichtet, die Daten, die von ihnen aufgrund dieses Gesetzes, der auf Grundlage dieses Gesetzes ergangenen Verordnungen und der in Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen erhoben und gespeichert werden, den Behörden des Arbeitsschutzes, des allgemeinen Gesundheitsschutzes, des Umwelt- und Naturschutzes, der allgemeinen Gefahrenabwehr und des Brand- und Katastrophenschutzes der Länder sowie den Trägern der gesetzlichen Unfallversicherung im Wege der Amtshilfe zur Verfügung zu stellen. § 16e Absatz 4 bleibt unberührt.
 
-
-## § 21a – Mitwirkung von Zollstellen
+# § 21a – Mitwirkung von Zollstellen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Ein- und Ausfuhr derjenigen Stoffe, Gemische und Erzeugnisse mit, die diesem Gesetz oder einer aufgrund dieses Gesetzes erlassenen Rechtsverordnung oder einer der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen unterliegen. Soweit dies zur Überwachung der Durchführung dieses Gesetzes, der aufgrund dieses Gesetzes ergangenen Verordnungen und der in Satz 1 genannten EG- oder EU-Verordnungen erforderlich ist, können sie Informationen, die sie im Rahmen ihrer zollamtlichen Tätigkeit gewonnen haben, den zuständigen Behörden mitteilen.
 
 (2) Bestehen Anhaltspunkte für einen Verstoß gegen die in Absatz 1 genannten Vorschriften, unterrichten die Zollstellen die zuständigen Behörden. Sie können die Stoffe, Gemische und Erzeugnisse sowie deren Beförderungs- und Verpackungsmittel auf Kosten und Gefahr des Verfügungsberechtigten zurückweisen oder bis zur Behebung der festgestellten Mängel oder bis zur Entscheidung der zuständigen Behörde sicherstellen.
 
-
-## § 22 – Informationspflichten
+# § 22 – Informationspflichten
 
 Die Bundesstelle für Chemikalien und die zuständigen Landesbehörden unterrichten sich gegenseitig über alle Erkenntnisse, die für die Wahrnehmung ihrer Aufgaben nach diesem Gesetz, den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen oder den in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen einschließlich der Erfüllung darin enthaltener Berichtspflichten gegenüber der Europäischen Kommission erforderlich sind. Die Bundesstelle für Chemikalien hat die zuständigen Landesbehörden auf Verlangen zu beraten. Soweit nach § 21 Absatz 2a Nummer 2 eine andere Bundesoberbehörde bestimmt ist, bestehen die in den Sätzen 1 und 2 genannten Pflichten zwischen dieser Behörde und den zuständigen Landesbehörden.
 
-
-## § 23 – Behördliche Anordnungen
+# § 23 – Behördliche Anordnungen
 
 (1) Die zuständige Landesbehörde kann im Einzelfall die Anordnungen treffen, die zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße gegen dieses Gesetz oder gegen die nach diesem Gesetz erlassenen Rechtsverordnungen oder gegen eine in § 21 Absatz 2 Satz 1 genannte EG- oder EU-Verordnung notwendig sind.
 
@@ -878,20 +825,17 @@ Die Bundesstelle für Chemikalien und die zuständigen Landesbehörden unterrich
 
 (3) Rechtsbehelfe gegen Anordnungen nach den Absätzen 1a und 2 haben keine aufschiebende Wirkung.
 
-
-## § 24 – Vollzug im Bereich der Bundeswehr
+# § 24 – Vollzug im Bereich der Bundeswehr
 
 (1) Im Geschäftsbereich des Bundesministeriums der Verteidigung obliegt der Vollzug des Gesetzes, der auf dieses Gesetz gestützten Rechtsverordnungen und der in § 21 Absatz 2 Satz 1 genannten EG- oder EU-Verordnungen dem Bundesministerium der Verteidigung und den von ihm bestimmten Stellen.
 
 (2) Das Bundesministerium der Verteidigung kann für seinen Geschäftsbereich in Einzelfällen sowie für bestimmte Stoffe, Gemische und Erzeugnisse Ausnahmen von den in Absatz 1 genannten Rechtsvorschriften zulassen, wenn dies im Interesse der Landesverteidigung erforderlich und unionsrechtlich zulässig ist.
 
-
-## § 25 – Angleichung an Gemeinschaftsrecht oder Unionsrecht
+# § 25 – Angleichung an Gemeinschaftsrecht oder Unionsrecht
 
 Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder Europäischen Union, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist.
 
-
-## § 25a – Gebühren und Auslagen
+# § 25a – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsvorschriften sowie nach EG- oder EU-Verordnungen im Sinne des § 21 Absatz 2 Satz 1 sind Gebühren und Auslagen zu erheben. § 8 bleibt unberührt.
 
@@ -901,18 +845,15 @@ Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der Angleichung de
 
 § 25a Fußnote Kursivdruck: Art. 4 u. Art. 5 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
-
-## § 26 – Bußgeldvorschriften
+# § 26 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. (weggefallen)
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
-1b.  
-(weggefallen)
+1b. (weggefallen)
 
 2. (weggefallen)
 
@@ -926,16 +867,13 @@ b) entgegen § 13 Absatz 3 Satz 1 in Verbindung mit einer Rechtsverordnung nach 
 
 c) einer Rechtsverordnung nach § 14 Absatz 1 Nummer 3 Buchstabe a, b, d, e oder Buchstabe f oder Absatz 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-5a.  
-(weggefallen)
+5a. (weggefallen)
 
 6. einer Rechtsverordnung nach § 16d zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-6a.  
-(weggefallen)
+6a. (weggefallen)
 
-6b.  
-(weggefallen)
+6b. (weggefallen)
 
 7. einer Rechtsverordnung nach
 
@@ -955,8 +893,7 @@ b) § 19 Absatz 1 in Verbindung mit Absatz 3 über Maßnahmen zum Schutz von Bes
 
 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-8a.  
-(weggefallen)
+8a. (weggefallen)
 
 9. entgegen § 21 Absatz 3 eine Auskunft trotz Anmahnung nicht erteilt, entgegen § 21 Absatz 4 Satz 1 Nummer 2 Unterlagen nicht vorlegt oder einer Pflicht nach § 21 Absatz 4 Satz 3 nicht nachkommt,
 
@@ -968,8 +905,7 @@ b) nach § 23 Absatz 2 Satz 3 in Verbindung mit Satz 1 über das Herstellen, das
 
 zuwiderhandelt,
 
-10a.  
-einer Rechtsverordnung nach § 28 Absatz 11 über Zulassungs- oder Meldepflichten für bestimmte Biozid-Produkte zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
+10a. einer Rechtsverordnung nach § 28 Absatz 11 über Zulassungs- oder Meldepflichten für bestimmte Biozid-Produkte zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
 11. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union zuwiderhandelt, die Sachbereiche dieses Gesetzes betrifft, soweit eine Rechtsverordnung nach Satz 2 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist und die Zuwiderhandlung nicht nach § 27 Absatz 1 Nummer 3 oder Absatz 2 als Straftat geahndet werden kann. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die einzelnen Tatbestände der Rechtsakte, die nach Satz 1 als Ordnungswidrigkeiten mit Geldbuße geahndet werden können, zu bezeichnen, soweit dies zur Durchführung der Rechtsakte erforderlich ist.
 
@@ -987,8 +923,7 @@ b) die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, 
 
 3. im Übrigen die nach Landesrecht zuständige Behörde.
 
-
-## § 27 – Strafvorschriften
+# § 27 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -1014,8 +949,7 @@ b) die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, 
 
 (6) Die Absätze 1 bis 5 gelten nicht, wenn die Tat nach den §§ 328, 330 oder 330a des Strafgesetzbuches mit gleicher oder schwererer Strafe bedroht ist.
 
-
-## § 27a – Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung
+# § 27a – Unwahre GLP-Erklärungen, Erschleichen der GLP-Bescheinigung
 
 (1) Wer zur Täuschung im Rechtsverkehr die Erklärung nach § 19a Absatz 2 Satz 2 Nummer 2 der Wahrheit zuwider abgibt oder eine unwahre Erklärung gebraucht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
@@ -1025,8 +959,7 @@ b) die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, 
 
 (4) Der Versuch ist strafbar.
 
-
-## § 27b – Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
+# § 27b – Zuwiderhandlungen gegen die Verordnung (EG) Nr. 1907/2006
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer gegen die Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. EU Nr. L 396 S. 1, 2007 Nr. L 136 S. 3) verstößt, indem er
 
@@ -1046,20 +979,17 @@ b) die in der Rechtsverordnung nach § 21 Absatz 2a bezeichnete Bundesbehörde, 
 
 (5) Ordnungswidrig handelt, wer eine in Absatz 1 Nummer 1, 2 oder Nummer 3 bezeichnete Handlung fahrlässig begeht. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu hunderttausend Euro geahndet werden.
 
-
-## § 27c – Zuwiderhandlungen gegen Abgabevorschriften
+# § 27c – Zuwiderhandlungen gegen Abgabevorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 26 Absatz 1 Nummer 7 Buchstabe b bezeichnete vorsätzliche Handlung begeht, obwohl er weiß, dass der gefährliche Stoff, das gefährliche Gemisch oder das Erzeugnis für eine rechtswidrige Tat, die den Tatbestand eines Strafgesetzes verwirklicht, verwendet werden soll.
 
 (2) Erkennt der Täter in den Fällen des Absatzes 1 leichtfertig nicht, dass der gefährliche Stoff, das gefährliche Gemisch oder das Erzeugnis für eine rechtswidrige Tat, die den Tatbestand eines Strafgesetzes verwirklicht, verwendet werden soll, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 27d – Einziehung
+# § 27d – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach den §§ 27, 27b Absatz 1 bis 4 oder § 27c oder eine Ordnungswidrigkeit nach § 26 Absatz 1 Nummer 4, 5, 7 Buchstabe a oder Buchstabe b, Nummer 10 oder Nummer 11 oder § 27b Absatz 5 Satz 1 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 28 – Übergangsregelung
+# § 28 – Übergangsregelung
 
 (1) (weggefallen)
 
@@ -1169,19 +1099,15 @@ Satz 1 gilt nicht für Gemische, die nicht in eine der Gefahrenklassen nach Anha
 
 Mitteilungen nach Satz 2 oder § 28 Absatz 12 dieses Gesetzes in der bis zum 31. Dezember 2019 geltenden Fassung gelten nicht als frühere Informationen im Sinne des Anhangs VIII Teil A Abschnitt 1.4 der Verordnung (EG) Nr. 1272/2008.
 
+# § 29 – (Außerkrafttreten)
 
-## § 29 – (Außerkrafttreten)
-
-
-## § 30 – Berlin-Klausel
+# § 30 – Berlin-Klausel
 
 (gegenstandslos)
 
+# § 31 – (Inkrafttreten)
 
-## § 31 – (Inkrafttreten)
-
-
-## Anhang 1 – (zu § 19a Absatz 1)Grundsätze der Guten Laborpraxis (GLP)
+# Anhang 1 – (zu § 19a Absatz 1)Grundsätze der Guten Laborpraxis (GLP)
 
 (Fundstelle: BGBl. I 2013, 3521 — 3531)
 
@@ -1695,8 +1621,7 @@ Archiviertes Material ist zu indexieren, um ein ordnungsgemäßes Aufbewahren un
 10.4  
 Wenn eine Prüfeinrichtung oder ein Vertragsarchiv die Tätigkeit einstellt und keinen Rechtsnachfolger hat, ist das Archiv an die Archive der Auftraggeber der Prüfungen zu überführen.
 
-
-## Anhang 2 – (zu § 19b Abs. 1)Landessiegel/Coloured Logo Gute Laborpraxis/Good Laboratory Practice GLP-Bescheinigung/Statement of GLP Compliance(gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
+# Anhang 2 – (zu § 19b Abs. 1)Landessiegel/Coloured Logo Gute Laborpraxis/Good Laboratory Practice GLP-Bescheinigung/Statement of GLP Compliance(gemäß/according to § 19b Abs. 1 Chemikaliengesetz)
 
 (Fundstelle: BGBl. I 2013, 3532)
 

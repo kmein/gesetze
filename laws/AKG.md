@@ -1,10 +1,7 @@
-# [AKG] Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden  (Allgemeines Kriegsfolgengesetz)
-
-Ausfertigungsdatum: 05.11.1957
-
+% Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden  (Allgemeines Kriegsfolgengesetz)
+% Ausfertigungsdatum: 05.11.1957
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 ERSTER TEIL
 
@@ -810,8 +807,7 @@ Inkrafttreten
 
 § 112
 
-
-## § 1 – Erlöschen von Ansprüchen
+# § 1 – Erlöschen von Ansprüchen
 
 (1) Ansprüche gegen
 
@@ -827,8 +823,7 @@ erlöschen, soweit dieses Gesetz nichts anderes bestimmt.
 
 (3) Absatz 1 steht einer bundesgesetzlichen Regelung nicht entgegen, welche Gläubigern, deren Ansprüche nach diesem Gesetz nicht zu erfüllen oder nicht abzulösen sind, eine über den Rahmen dieses Gesetzes hinausgehende Entschädigung gewährt, soweit sich auf Grund der in Durchführung dieses Gesetzes gewonnenen Erfahrungen eine solche weitergehende Entschädigung als notwendig erweisen sollte.
 
-
-## § 2 – Gleichgestellte Ansprüche
+# § 2 – Gleichgestellte Ansprüche
 
 Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
@@ -840,8 +835,7 @@ Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
 4. Ansprüche gegen Länder oder Gemeinden (Gemeindeverbände), die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen haben. Dies gilt nicht, soweit wegen dieser Ansprüche ein Rechtsträger durch rechtskräftiges Urteil oder Schiedsspruch zur Erfüllung verurteilt oder eine Erfüllungsverpflichtung eines Rechtsträgers rechtskräftig festgestellt worden ist.
 
-
-## § 3 – Dem Gesetz nicht unterliegende Schäden und Ansprüche
+# § 3 – Dem Gesetz nicht unterliegende Schäden und Ansprüche
 
 (1) Einer besonderen gesetzlichen Regelung bleiben vorbehalten
 
@@ -857,8 +851,7 @@ Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
 (2) Auf Grund der in Absatz 1 bezeichneten Tatbestände können Leistungen vom Bund oder einem anderen öffentlichen Rechtsträger bis zum Inkrafttreten der vorbehaltenen gesetzlichen Regelung, längstens jedoch bis zum 31. März 1968, nicht verlangt werden.
 
-
-## § 4 – Ansprüche aus der Nachkriegszeit
+# § 4 – Ansprüche aus der Nachkriegszeit
 
 (1) Zu erfüllen sind
 
@@ -874,8 +867,7 @@ Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf
 
 2. Ansprüchen auf Erstattung von Verwaltungskosten und sonstigen Aufwendungen, die im Zusammenhang mit der Verwaltung von Vermögen der in § 1 Abs. 1 genannten Rechtsträger anderen öffentlichen Rechtsträgern entstanden sind; insoweit bleibt eine gesetzliche Regelung vorbehalten.
 
-
-## § 5 – Versorgungs- und Schadensersatzansprüche
+# § 5 – Versorgungs- und Schadensersatzansprüche
 
 (1) Zu erfüllen sind
 
@@ -897,8 +889,7 @@ Insoweit verbleibt es bei den bundesgesetzlichen Regelungen.
 
 (3) § 8 des Zweiten Gesetzes zur Überleitung von Lasten und Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21. August 1951 (Bundesgesetzbl. I S. 774) wird aufgehoben. Aus § 7 des vorbezeichneten Gesetzes können Ansprüche der Geschädigten gegen den Bund nicht hergeleitet werden. Auf Grund des Zweiten Überleitungsgesetzes durch Rechtsgeschäfte oder gerichtliche Entscheidungen bereits zuerkannte Ansprüche werden durch die Vorschriften dieses Gesetze nicht berührt.
 
-
-## § 6 – Wohnsitzvoraussetzungen
+# § 6 – Wohnsitzvoraussetzungen
 
 (1) Ansprüche der in § 5 bezeichneten Art sind nur unter der Voraussetzung zu erfüllen, daß sie am 31. Dezember 1952 oder, falls sie später entstanden sind oder entstehen, im Zeitpunkt ihrer Entstehung zugestanden haben oder zustehen natürlichen Personen, die
 
@@ -906,8 +897,7 @@ Insoweit verbleibt es bei den bundesgesetzlichen Regelungen.
 
 2. am 31. Dezember 1952 Angehörige eines Gläubigerstaates waren, demgegenüber das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden (Bundesgesetzblatt II S. 331) wirksam ist oder wird, oder
 
-2a.  
-nach dem 31. Dezember 1952 aus der sowjetischen Besatzungszone oder aus dem Sowjetsektor von Berlin, ohne daß sie dort durch ihr Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen haben, im Wege der Notaufnahme oder eines vergleichbaren Verfahrens zugezogen sind und am 31. Dezember 1961 oder am 31. Dezember 1964 ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieses Gesetzes gehabt haben oder
+2a. nach dem 31. Dezember 1952 aus der sowjetischen Besatzungszone oder aus dem Sowjetsektor von Berlin, ohne daß sie dort durch ihr Verhalten gegen die Grundsätze der Menschlichkeit oder Rechtsstaatlichkeit verstoßen haben, im Wege der Notaufnahme oder eines vergleichbaren Verfahrens zugezogen sind und am 31. Dezember 1961 oder am 31. Dezember 1964 ihren Wohnsitz oder ständigen Aufenthalt im Geltungsbereich dieses Gesetzes gehabt haben oder
 
 3. nach dem 31. Dezember 1952 im Geltungsbereich dieses Gesetzes ihren Wohnsitz begründet haben oder begründen oder ständigen Aufenthalt genommen haben oder nehmen
 
@@ -943,8 +933,7 @@ Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbedürftig.
 
 (2) Standen oder stehen zu dem in Absatz 1 bezeichneten Zeitpunkt Ansprüche der in § 5 bezeichneten Art einer Erbengemeinschaft oder ehelichen Gütergemeinschaft zu, so sind die Ansprüche auch dann zu erfüllen, wenn die Voraussetzungen des Absatzes 1 Nr. 1 bis 3 in der Person eines der Mitberechtigten gegeben sind.
 
-
-## § 7 – Ansprüche aus gegenseitigen Verträgen
+# § 7 – Ansprüche aus gegenseitigen Verträgen
 
 (1) Zu erfüllen sind Ansprüche (§ 1) aus einem gegenseitigen Vertrag, den ein in § 1 Abs. 1 genannter Rechtsträger vor dem 1. August 1945 geschlossen hat und der bis zu diesem Zeitpunkt von dem anderen Vertragsteil nicht vollständig erfüllt war, wenn der an dem Vertrag beteiligte Rechtsträger (§ 1 Abs. 1) oder dessen Vermögens- oder Aufgabennachfolger nach dem 31. Juli 1945 und vor dem Inkrafttreten dieses Gesetzes die Erfüllung des Vertrages verlangt oder eine Leistung oder Teilleistung als Erfüllung angenommen oder in sonstiger Weise erklärt hat, daß er an dem Vertrag festhalte. Sind die beiderseitigen Leistungen teilbar, so sind die Ansprüche nur insoweit zu erfüllen, als sie einer nach dem 31. Juli 1945 erbrachten Teilleistung des anderen Vertragsteils entsprechen.
 
@@ -956,8 +945,7 @@ Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbedürftig.
 
 2. Ansprüchen, die daraus hergeleitet werden, daß eine auf Grund des Vertrages zurückzugebende Sache vor dem 1. August 1945 verändert oder verschlechtert worden oder untergegangen ist oder aus einem anderen vor dem 1. August 1945 eingetretenen Grunde nicht zurückgegeben werden kann.
 
-
-## § 8 – Auflösung von Verträgen
+# § 8 – Auflösung von Verträgen
 
 (1) Ist bei einem Vertrag der in § 7 Abs. 1 bezeichneten Art innerhalb der in § 7 Abs. 1 oder 2 bezeichneten Fristen erklärt worden, daß an dem Vertrag festgehalten werde, so kann der andere Vertragsteil von dem Vertrag zurücktreten, wenn und soweit ihm nach den Umständen die Erfüllung nicht zugemutet werden kann. Die Rücktrittserklärung kann gegenüber dem an dem Vertrag beteiligten Rechtsträger (§ 1 Abs. 1) oder dessen Vermögens- oder Aufgabennachfolger oder in jedem Fall gegenüber dem Bund abgegeben werden. Der Rücktritt kann nur innerhalb von drei Monaten erklärt werden. Die Frist beginnt
 
@@ -969,8 +957,7 @@ Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbedürftig.
 
 (3) Soweit ein Rücktritt nach Absatz 1 erklärt ist oder der Vertrag nach Absatz 2 als aufgelöst gilt, hat jeder Vertragsteil eine auf Grund des Vertrages empfangene Leistung dem anderen Vertragsteil nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung zurückzugewähren. Eine Verpflichtung der Rechtsträger (§ 1 Abs. 1) zur Rückgewähr einer vor dem 1. August 1945 empfangenen Leistung besteht jedoch nicht. Weitergehende Ansprüche der Vertragsteile aus Rechten an einer Sache oder an einem Recht bleiben unberührt, soweit sich nicht aus §§ 19, 20 etwas anderes ergibt.
 
-
-## § 9 – Ansprüche aus Grundstücksübereignungen
+# § 9 – Ansprüche aus Grundstücksübereignungen
 
 (1) Zu erfüllen sind Ansprüche (§ 1) auf Leistung eines Kaufpreises, einer Enteignungsentschädigung oder eines sonstigen Entgelts für im Geltungsbereich dieses Gesetzes belegene Grundstücke, die ein in § 1 Abs. 1 genannter Rechtsträger vor dem 1. August 1945 zu Eigentum erworben hat. Ansprüche, die nicht auf Geld oder auf einen Wertausgleich in Geld gerichtet sind, sind in Höhe des Betrages zu erfüllen, der in entsprechender Anwendung der §§ 45, 46 der Insolvenzordnung zu ermitteln ist. Für die Wertermittlung sind die Verhältnisse im Zeitpunkt des Vertragsabschlusses oder der Rechtskraft des Entschädigungsbeschlusses maßgeblich. Die Sätze 1 bis 3 gelten entsprechend für grundstücksgleiche Rechte.
 
@@ -978,18 +965,15 @@ Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbedürftig.
 
 (3) War bei einer Enteignung auf Grund der Vorschriften über die Landbeschaffung für Zwecke der Wehrmacht die Entschädigung vor dem 1. Juli 1944 nicht rechtskräftig festgesetzt, so kann, sofern der Entschädigungsanspruch nach diesem Gesetz zu erfüllen ist, die Festsetzung der Entschädigung oder die Änderung der Festsetzung durch Klage im Rechtsweg vor den ordentlichen Gerichten verlangt werden. Dies gilt nicht, wenn das Reichsverwaltungsgericht über die Entschädigung entschieden hat. Ausschließlich zuständig ist das Landgericht, in dessen Bezirk das enteignete Grundstück oder das grundstücksgleiche Recht ganz oder zum größeren Teil belegen ist. Die Klage kann nur innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes erhoben werden; diese Frist gilt als eine Notfrist im Sinne der Zivilprozeßordnung. Auf das gerichtliche Verfahren sind die für bürgerliche Rechtsstreitigkeiten geltenden Vorschriften anzuwenden. Der Ablauf der Frist, die in Artikel III der Verordnung des Zentral-Justizamts für die Britische Zone über die Abwicklung von Entschädigungsansprüchen auf Grund der Vorschriften über die Landbeschaffung für Zwecke der Wehrmacht vom 27. April 1948 in der Fassung der Verordnung vom 5. Januar 1949 (Verordnungblatt für die Britische Zone 1948 S. 110; 1949 S. 16) bestimmt war, steht der Klageerhebung nicht entgegen.
 
-
-## § 10 – Ansprüche aus Grundpfandrechten
+# § 10 – Ansprüche aus Grundpfandrechten
 
 Zu erfüllen sind Ansprüche (§ 1) aus Hypotheken, Grundschulden, Rentenschulden, Reallasten und Schiffshypotheken sowie die durch diese Pfandrechte gesicherten Ansprüche, soweit die Pfandrechte auf im Geltungsbereich dieses Gesetzes belegenen Grundstücken oder grundstücksgleichen Rechten ruhen oder in einem Schiffsregister oder Schiffsbauregister im Geltungsbereich dieses Gesetzes eingetragen und vor dem 1. August 1945 bestellt worden sind.
 
-
-## § 11 – Ansprüche auf Nutzungsentschädigung
+# § 11 – Ansprüche auf Nutzungsentschädigung
 
 Ansprüche (§ 1) auf Nutzungsentschädigung, die auf einem vor dem 1. August 1945 begründeten Rechtsverhältnis beruhen und für die Zeit nach dem 31. Juli 1945 geschuldet werden, sind zu erfüllen, wenn und soweit der Besitz an der Sache nach diesem Zeitpunkt im Geltungsbereich dieses Gesetzes von den in § 1 Abs. 1 genannten Rechtsträgern oder im Zusammenhang mit der Verwaltung von Vermögensgegenständen dieser Rechtsträger von anderen für diese zu handeln befugten Rechtsträgern in Anspruch genommen worden ist. Die Höhe der Nutzungsentschädigung bestimmt sich nach dem ortsüblich angemessenen Entgelt, Werterhöhungen, die auf Maßnahmen der Rechtsträger (§ 1 Abs. 1) beruhen, bleiben hierbei außer Betracht. Die Nutzungsentschädigung gilt als im Zeitpunkt der Inbesitznahme der Sache vereinbart.
 
-
-## § 12 – Ansprüche aus Verwahrungen
+# § 12 – Ansprüche aus Verwahrungen
 
 Zu erfüllen sind
 
@@ -997,38 +981,31 @@ Zu erfüllen sind
 
 2. Ansprüche (§ 1) auf Schadensersatz, die auf einer Verletzung der in Nummer 1 bezeichneten Rechtsverhältnisse beruhen, soweit die zum Schadensersatz verpflichtende Handlung oder Unterlassung nach dem 31. Juli 1945 im Geltungsbereich dieses Gesetzes begangen worden ist.
 
-
-## § 13 – Ansprüche auf Abgabe von Erklärungen
+# § 13 – Ansprüche auf Abgabe von Erklärungen
 
 Zu erfüllen sind Ansprüche (§ 1) auf Erteilung von Auskünften, Quittungen, Arbeitsbescheinigungen, Zeugnissen und ähnlichen Bescheinigungen sowie auf Abgabe von Erklärungen gegenüber den öffentlichen Registerbehörden, den Grundbuchämtern und dem Deutschen Patentamt, soweit der Inhalt der Register und Grundbücher mit der wirklichen Rechtslage nicht mehr im Einklang steht.
 
-
-## § 14 – Ansprüche aus Urteilen und Schiedssprüchen
+# § 14 – Ansprüche aus Urteilen und Schiedssprüchen
 
 Zu erfüllen sind Ansprüche (§ 1), soweit durch rechtskräftiges Urteil oder Schiedsspruch der Bund, ein Land oder ein sonstiger öffentlicher Rechtsträger mit Ausnahme der in § 1 Abs. 1 genannten Rechtsträger dem Grunde oder der Höhe nach zur Erfüllung verurteilt oder eine Erfüllungsverpflichtung eines solchen Rechtsträgers festgestellt worden ist.
 
-
-## § 15 – Ausgleichsansprüche
+# § 15 – Ausgleichsansprüche
 
 Haftet neben einem der in § 1 Abs. 1 genannten Rechtsträger wegen eines nach diesem Gesetz zu erfüllenden Anspruchs (§ 1) ein anderer als Gesamtschuldner, so ist der diesem Gesamtschuldner zustehende Ausgleichsanspruch (§ 426 des Bürgerlichen Gesetzbuchs) zu erfüllen. Ist der Anspruch (§ 1) nach diesem Gesetz nur zum Teil zu erfüllen, so ist auch der Ausgleichsanspruch nur zu einem entsprechenden Teil zu erfüllen.
 
-
-## § 16 – Gesetzeskonkurrenz
+# § 16 – Gesetzeskonkurrenz
 
 Ist ein Anspruch (§ 1) nach einer Vorschrift dieses Teils zu erfüllen, so steht dieser Erfüllungsverpflichtung nicht entgegen, daß der Anspruch nach einer anderen Vorschrift dieses Teils nicht oder nur in geringerem Umfang zu erfüllen ist.
 
-
-## § 17 – Zulässigkeit von Aufrechnungen
+# § 17 – Zulässigkeit von Aufrechnungen
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem Anspruch (§ 1), dessen Erfüllung in diesem Gesetz nicht vorgesehen ist, nicht entgegen. § 395 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
-
-## § 18 – Umstellung von Reichsmarkansprüchen
+# § 18 – Umstellung von Reichsmarkansprüchen
 
 § 14 des Umstellungsgesetzes tritt hinsichtlich der in §§ 4 bis 15 und 19 bezeichneten, bisher nicht umgestellten Ansprüche außer Kraft.
 
-
-## § 19 – Ansprüche aus dinglichen Rechten und aus der Beeinträchtigung dieser Rechte
+# § 19 – Ansprüche aus dinglichen Rechten und aus der Beeinträchtigung dieser Rechte
 
 (1) Ansprüche (§ 1) aus dem Eigentum oder anderen Rechten an einer Sache auf Herausgabe der Sache sind zu erfüllen. Bei einem Anspruch auf Herausgabe eines Grundstücks finden die Vorschriften des Bürgerlichen Gesetzbuchs über Ansprüche aus dem Eigentum mit der Maßgabe Anwendung, daß bis zum Ablauf der in § 20 Abs. 1 bezeichneten Fristen die in §§ 987 bis 992 des Bürgerlichen Gesetzbuchs bezeichneten Voraussetzungen als nicht vorliegend zu erachten sind. Ansprüche auf Nutzungsentschädigung nach § 11 bleiben unberührt.
 
@@ -1042,8 +1019,7 @@ Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem Anspruch (§ 1
 
 (4) Hypotheken, Grundschulden, Rentenschulden, Reallasten, Schiffshypotheken und sonstige Pfandrechte erlöschen, soweit die durch sie gesicherten Ansprüche (§ 1) nicht zu erfüllen sind.
 
-
-## § 20 – Verweigerung der Herausgabe von Grundstücken
+# § 20 – Verweigerung der Herausgabe von Grundstücken
 
 (1) Der Anspruchsschuldner (§ 25) kann, auch wenn ihm ein Recht zum Besitz nicht zusteht, die Herausgabe eines Grundstücks an den Berechtigten verweigern
 
@@ -1053,13 +1029,11 @@ Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem Anspruch (§ 1
 
 (2) Auf ein Besitzrecht, das nur auf einer vor dem 1. August 1945 vorgenommenen öffentlich-rechtlichen Inanspruchnahme beruht, kann sich der Anspruchsschuldner unbeschadet der Vorschrift des Absatzes 1 nicht berufen.
 
-
-## § 21 – Beweisregel
+# § 21 – Beweisregel
 
 Ist streitig, ob ein Anspruch (§ 1) erfüllt ist, und sind die Beweismittel infolge des Krieges oder des Zusammenbruchs verlorengegangen oder unerreichbar geworden, so wird, wenn der Anspruchsschuldner (§ 25) erhebliche, für die Erfüllung sprechende Umstände dartut, vermutet, daß der Anspruch erloschen ist. Satz 1 gilt entsprechend für die Gegenansprüche der in § 1 Abs. 1 genannten Rechtsträger.
 
-
-## § 22 – Enteignungsrecht
+# § 22 – Enteignungsrecht
 
 (1) Soweit ein Grundstück, das ein in § 1 Abs. 1 genannter Rechtsträger anders als auf Grund eines Kauf- oder Tauschvertrages in Besitz genommen hat, zum Wohle der Allgemeinheit benötigt wird, kann der Anspruchsschuldner (§ 25) die Enteignung nach den Vorschriften des Absatzes 2 innerhalb der in § 20 Abs. 1 Nr. 1 bezeichneten Frist beantragen.
 
@@ -1079,18 +1053,15 @@ Ist streitig, ob ein Anspruch (§ 1) erfüllt ist, und sind die Beweismittel inf
 
 § 22 Abs. 2 Kursivdruck: Jetzt statt § 74 LandbeschaffungsG 54-3 die Verwaltungsgerichtsordnung; VwGO 340-1
 
-
-## § 23 – Erwerbspflicht der öffentlichen Hand bei Grundstücksbesitz
+# § 23 – Erwerbspflicht der öffentlichen Hand bei Grundstücksbesitz
 
 Hat ein in § 1 Abs. 1 genannter Rechtsträger den Zustand eines herauszugebenden Grundstücks oder eines Teils dieses Grundstücks so verändert oder verlangt ein Anspruchsschuldner (§ 25) für den Fall der Herausgabe des Grundstücks von dem Eigentümer so hohe Erstattungsleistungen, daß dem Eigentümer die Rücknahme des Grundstücks nicht zuzumuten ist, so kann der Eigentümer innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes verlangen, daß der Anspruchsschuldner das Grundstück oder den veränderten Teil des Grundstücks gegen Entschädigung zu Eigentum erwirbt. Der Anspruchsschuldner kann den Erwerb des veränderten Grundstücksteils verweigern, wenn der Eigentümer ihm nicht innerhalb der vorbezeichneten Frist anbietet, diejenigen weiteren Teile des herauszugebenden Grundstücks gegen Entschädigung zu erwerben, ohne die der Anspruchsschuldner den veränderten Grundstücksteil nicht zweckmäßig benutzen kann. Ist der Herausgabeschuldner nicht der Bund, so gilt die vorbezeichnete Frist auch dann als gewahrt, wenn der Eigentümer das Grundstück zum Erwerb innerhalb der Frist dem Bund angeboten hat. Die Höhe der Entschädigung bestimmt sich nach § 22 Abs. 2.
 
-
-## § 24 – Erwerbspflicht der öffentlichen Hand bei Grundstücksbeeinträchtigungen
+# § 24 – Erwerbspflicht der öffentlichen Hand bei Grundstücksbeeinträchtigungen
 
 Ist ein Anspruch aus § 1004 des Bürgerlichen Gesetzbuchs im Falle der Beeinträchtigung des Eigentums oder eines anderen Rechts an einem Grundstück nach diesem Gesetz nicht zu erfüllen und ist dem Berechtigten wegen der Beeinträchtigung nicht zuzumuten, sein Recht an dem Grundstück zu behalten, so ist § 23 entsprechend anzuwenden.
 
-
-## § 25 – Anspruchsschuldner
+# § 25 – Anspruchsschuldner
 
 (1) In den Fällen der §§ 4 bis 24 ist Anspruchsschuldner der Bund.
 
@@ -1106,13 +1077,11 @@ so ist Anspruchsschuldner dieser andere Rechtsträger. Treffen für einen Anspru
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden bei den in § 2 Nr. 4 bezeichneten Ansprüchen. Soweit diese Ansprüche nach diesem Gesetz zu erfüllen sind, bleiben die Länder oder Gemeinden (Gemeindeverbände) Anspruchsschuldner.
 
-
-## § 26 – Anmeldung
+# § 26 – Anmeldung
 
 Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können Leistungen nur verlangt werden, soweit die Ansprüche bei den Anmeldestellen (§ 27) fristgerecht (§ 28) angemeldet worden sind.
 
-
-## § 27 – Anmeldestellen
+# § 27 – Anmeldestellen
 
 (1) Anmeldestellen für die nach diesem Gesetz vom Bund zu erfüllenden Ansprüche sind
 
@@ -1126,8 +1095,7 @@ Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können Leistungen n
 
 (3) Anmeldestellen für die Ansprüche ausländischer Staatsangehöriger, im Ausland ansässiger Staatenloser und nach ausländischem Recht errichteter juristischer Personen ist das Bundesministerium der Finanzen oder eine von ihm zu bestimmende Behörde oder Anstalt seines Geschäftsbereichs.
 
-
-## § 28 – Anmeldefrist, Nachsichtgewährung
+# § 28 – Anmeldefrist, Nachsichtgewährung
 
 (1) Die in §§ 4, 5, 9, 10, 11, 12 Nr. 2 und § 19 Abs. 2 bezeichneten Ansprüche können nur innerhalb einer Frist von einem Jahr nach dem Inkrafttreten dieses Gesetzes angemeldet werden. In Abweichung hiervon beginnt die Frist,
 
@@ -1145,36 +1113,29 @@ Die Frist gilt auch dann als gewahrt, wenn der Anspruch innerhalb der Frist bei 
 
 (3) Ablehnende Entscheidungen der Anmeldestelle sind nach den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.
 
-
-## § 29 – Klagefrist
+# § 29 – Klagefrist
 
 Lehnt eine Anmeldestelle (§ 27) die Erfüllung eines nach § 26 angemeldeten Anspruchs ab, so kann der Anspruch nur innerhalb von sechs Monaten und nur vor dem Gericht geltend gemacht werden, das nach der Natur des Anspruchs zuständig ist. Dieses Gericht ist auch dann zuständig, wenn nur die Nachsichtgewährung nach § 28 Abs. 2 verlangt wird. Die Frist ist eine Notfrist im Sinne der Zivilprozeßordnung. Sie beginnt mit Zustellung des Ablehnungsbescheides. Die Frist gilt auch dann als gewahrt, wenn der Anspruch bei einem unzuständigen Gericht geltend gemacht wird.
 
+# §§ 30 bis 67 – (weggefallen)
 
-## §§ 30 bis 67 – (weggefallen)
+# §§ 68 bis 84 – ----
 
-
-## §§ 68 bis 84 – ----
-
-
-## § 85
+# § 85
 
 \-
 
-
-## § 86
+# § 86
 
 \-
 
-
-## § 87 – Stundung und Herabsetzung
+# § 87 – Stundung und Herabsetzung
 
 (1) Verbindlichkeiten aus Inhaber- oder Orderschuldverschreibungen, die vor dem 21. Juni 1948 als Teile einer Gesamtemission begeben worden sind und die nicht unter § 6 Abs. 1 Nr. 2 des Vertragshilfegesetzes vom 26. März 1952 (Bundesgesetzbl. I S. 198) in der Fassung des § 106 des Gesetzes vom 24. August 1953 (Bundesgesetzbl. I S. 1003) fallen, können auf Antrag des Schuldners durch gerichtliche Entscheidung gestundet oder herabgesetzt werden, wenn und soweit ihm wegen der Vermögensverluste, die er auf Grund von Kriegsereignissen oder Kriegsfolgen erlitten hat, die fristgemäße oder volle Leistung bei gerechter Abwägung seiner Interessen und der Interessen der Gesamtheit der Gläubiger nicht zugemutet werden kann. Der Antrag ist gegen die Gesamtheit der Gläubiger zu richten.
 
 (2) Die Vorschriften des Vertragshilfegesetzes sind entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
-
-## § 88 – Vertretung der Gläubiger
+# § 88 – Vertretung der Gläubiger
 
 (1) Die Rechte der Gesamtheit der Gläubiger werden in dem Verfahren von einem oder mehreren Vertretern wahrgenommen. Die Befugnis der Gläubiger, ihre Rechte in dem Verfahren selbst geltend zu machen, ist ausgeschlossen.
 
@@ -1186,27 +1147,23 @@ Lehnt eine Anmeldestelle (§ 27) die Erfüllung eines nach § 26 angemeldeten An
 
 (5) Für die rechtliche Stellung des Vertreters gelten die Vorschriften des Schuldverschreibungsgesetzes entsprechend. Zum Abschluß eines Vergleichs ist der Vertreter nur auf Grund eines ihm hierzu ermächtigenden Beschlusses der Gläubigerversammlung befugt; § 5 Absatz 4 Satz 2 des Schuldverschreibungsgesetzes gilt entsprechend.
 
-
-## § 89 – Versammlung der Gläubiger
+# § 89 – Versammlung der Gläubiger
 
 Für die Einberufung und die Beschlüsse der Versammlung gelten die Vorschriften des Schuldverschreibungsgesetzes entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
-
-## § 90 – Besonderheiten des Verfahrens
+# § 90 – Besonderheiten des Verfahrens
 
 (1) Dem Antrag (§ 87 Abs. 1 Satz 2) ist eine Ausfertigung der nach § 16 Absatz 3 des Schuldverschreibungsgesetzes aufgenommenen Niederschriften beizufügen.
 
 (2) Die Entscheidung über den Antrag kann nur für alle Gläubiger einheitlich ergehen. Sie wirkt für und gegen alle Gläubiger. § 19 Abs. 5 Satz 2 des Vertragshilfegesetzes ist nicht anwendbar.
 
-
-## § 91 – Frühere Vertragshilfeentscheidungen, Erledigung anhängiger Verfahren
+# § 91 – Frühere Vertragshilfeentscheidungen, Erledigung anhängiger Verfahren
 
 (1) Gerichtliche Entscheidungen, die in Vertragshilfeverfahren über Ansprüche der in § 87 Abs. 1 Satz 1 bezeichneten Art ergangen und vor dem Inkrafttreten dieses Gesetzes rechtskräftig geworden sind, bleiben unberührt. Das gleiche gilt für Vergleiche, die vor dem Inkrafttreten dieses Gesetzes abgeschlossen worden sind.
 
 (2) Ist über einen Anspruch der in § 87 Abs. 1 Satz 1 bezeichneten Art zu der Zeit, zu der ein Antrag nach § 87 Abs. 1 Satz 2 gestellt wird, ein Vertragshilfeverfahren anhängig, so ruht es bis zur rechtskräftigen Entscheidung über den Antrag. Wird über den Antrag in der Sache selbst entschieden oder wird er zurückgenommen, so ist das Vertragshilfeverfahren erledigt; gerichtliche Gebühren und Auslagen werden nicht erhoben. Wird der Antrag durch eine nicht in der Sache selbst ergehende Entscheidung zurückgewiesen, so kann das Vertragshilfeverfahren fortgesetzt werden.
 
-
-## § 92 – Verwaltung der nach dem Anleihestockgesetz und der Dividendenabgabeverordnung gebildeten Sondervermögen
+# § 92 – Verwaltung der nach dem Anleihestockgesetz und der Dividendenabgabeverordnung gebildeten Sondervermögen
 
 (1) Die treuhänderische Verwaltung eines von einer Kapitalgesellschaft nach dem Gesetz über die Gewinnverteilung bei Kapitalgesellschaften (Anleihestockgesetz) vom 4. Dezember 1934 (Reichsgesetzbl. I S. 1222) gebildeten Anleihestocks geht mit dem Inkrafttreten dieses Gesetzes von der Deutschen Golddiskontbank auf die Kapitalgesellschaft über.
 
@@ -1216,8 +1173,7 @@ Für die Einberufung und die Beschlüsse der Versammlung gelten die Vorschriften
 
 (4) Die Absätze 1 bis 3 gelten nur für Kapitalgesellschaften, die die Voraussetzungen des § 33 Abs. 2 Nr. 3 erfüllen.
 
-
-## § 93 – Verwertung der Ablösungsschuld und Ausschüttung
+# § 93 – Verwertung der Ablösungsschuld und Ausschüttung
 
 (1) Innerhalb von drei Jahren nach Feststellung des Rechts auf Ablösung hat die Kapitalgesellschaft die auf die Ansprüche entfallende Ablösungsschuld zu verwerten und den Erlös sowie Zinsen (§ 37) und eine Barablösung (§ 39) nach den für die Gewinnverteilung geltenden Vorschriften an die Gesellschafter auszuschütten, die im Zeitpunkt des Ausschüttungsbeschlusses gewinnberechtigt sind. Ist für eine einzelne Gattung von Gesellschaftsanteilen ein besonderer Anleihestock oder ein besonderes Treuhandvermögen errichtet worden, so sind der Anleihestock und das Treuhandvermögen nur an die Inhaber dieser Anteile auszuschütten.
 
@@ -1229,33 +1185,27 @@ Für die Einberufung und die Beschlüsse der Versammlung gelten die Vorschriften
 
 (3) Die Kosten des Verfahrens (§ 63) sowie der Verwaltung und Verteilung des Anleihestocks und des Treuhandvermögens trägt die Gesellschaft.
 
-
-## § 94 – Sondervermögen eigener Art
+# § 94 – Sondervermögen eigener Art
 
 §§ 92 und 93 sind sinngemäß auf einen Anleihestock und ein Treuhandvermögen anzuwenden, die für die Inhaber von Genußrechten und Gewinnschuldverschreibungen gebildet worden sind.
 
-
-## § 95 – Unmittelbare Haftung der Beamten aus Amtspflichtverletzungen
+# § 95 – Unmittelbare Haftung der Beamten aus Amtspflichtverletzungen
 
 Wird ein Anspruch (§ 1), der auf einer in Ausübung öffentlicher Gewalt vorsätzlich begangenen Amtspflichtverletzung beruht, nach den Vorschriften dieses Gesetzes nicht erfüllt, so kann derjenige, der die Amtspflichtverletzung begangen hat, in Anspruch genommen werden.
 
-
-## § 96
+# § 96
 
 \-
 
-
-## § 97 – Zusatzversorgungsanstalten des öffentlichen Dienstes
+# § 97 – Zusatzversorgungsanstalten des öffentlichen Dienstes
 
 § 24 des Umstellungsgesetzes findet auf die Zusatzversorgungsanstalten des öffentlichen Dienstes keine Anwendung. Zur Sicherstellung der Leistungen der Zusatzversorgungsanstalten des öffentlichen Dienstes bleibt eine besondere gesetzliche Regelung vorbehalten.
 
-
-## § 98 – Ablösungsschuld der Deutschen Bundesbahn
+# § 98 – Ablösungsschuld der Deutschen Bundesbahn
 
 Die für die Verwaltung der allgemeinen Bundesschuld jeweils geltenden Vorschriften gelten sinngemäß für die Ablösungsschuld der Deutschen Bundesbahn.
 
-
-## § 99 – Nachversicherung ausgeschiedener Angehöriger des öffentlichen Dienstes
+# § 99 – Nachversicherung ausgeschiedener Angehöriger des öffentlichen Dienstes
 
 (1) Vor dem 9. Mai 1945 ausgeschiedene Angehörige des öffentlichen Dienstes, die von den in § 1 Abs. 1 genannten Rechtsträgern nach den im Zeitpunkt ihres Ausscheidens geltenden Vorschriften der Reichsversicherungsgesetze für die Zeit ihrer versicherungsfreien Beschäftigung nachzuversichern waren und nicht nachversichert worden sind, gelten als für diese Zeit nachversichert, wenn sie nicht bereits auf Grund anderer Vorschriften für diese Zeit als nachversichert gelten; dies gilt auch für den Fall des Todes, wenn Hinterbliebene vorhanden sind. Satz 1 gilt auch für die ehemaligen Berufssoldaten der früheren Wehrmacht und berufsmäßige Angehörige des früheren Reichsarbeitsdienstes, deren Nachversicherung gemäß § 1242b der Reichsversicherungsordnung deswegen nicht durchzuführen war, weil sie aus ihrem Dienstverhältnis nicht in Ehren ausgeschieden sind. Die Vorschriften über die Versicherungspflichtgrenze stehen der Nachversicherung in der allgemeinen Rentenversicherung nicht entgegen, wenn ohne die Nachversicherung eine ausreichende anderweitige Alters- und Hinterbliebenensicherung nicht gewährleistet ist; das Nähere bestimmen das Bundesministerium für Arbeit und Soziales, das Bundesministerium der Finanzen und das Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates. Hat der Jahresarbeitsverdienst in den in Satz 3 bezeichneten Fällen die Versicherungspflichtgrenze überschritten, so gilt die Nachversicherung als bis zur Höhe der Versicherungspflichtgrenze durchgeführt. Wird nach dem Ausscheiden aus der versicherungsfreien Beschäftigung ein Anspruch oder eine Anwartschaft auf Alters- und Hinterbliebenenversorgung unter Einrechnung der vor dem Ausscheiden liegenden Zeiten im öffentlichen Dienst erworben oder nachträglich festgestellt, so entfallen die Nachversicherung und die an sie geknüpften Rechtsfolgen. Gezahlte Renten sind bis zum Ende des dritten Monats nach Ablauf des Monats, in dem dem Träger der gesetzlichen Rentenversicherung eine Mitteilung über den Eintritt der Voraussetzungen für den Wegfall der Nachversicherung nach Satz 2 zugegangen ist, nicht zurückzufordern; jedoch sind diese Renten auf die für die gleichen Zeiträume zustehenden Versorgungsbezüge in der Höhe anzurechnen, die sich aus dem Verhältnis des Unterschiedsbetrages zwischen den zuletzt gezahlten und den für den gleichen Monat ohne Berücksichtigung der Nachversicherung errechneten Renten zu den für diesen Monat zustehenden Versorgungsbezügen ergibt. Erlischt eine in Satz 2 bezeichnete Anwartschaft, so gilt die Nachversicherung als nicht entfallen.
 
@@ -1275,18 +1225,15 @@ Die für die Verwaltung der allgemeinen Bundesschuld jeweils geltenden Vorschrif
 
 (9) Die Feststellung nach Absatz 1 trifft die Stelle, die nach dem Gesetz zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen zuständig sein würde, wenn das Dienstverhältnis bis zum 8. Mai 1945 fortgesetzt worden wäre; § 72 Abs. 10, 11 und § 81a des vorgenannten Gesetzes gelten entsprechend.
 
-
-## § 100 – Kraftloswerden von Wertpapieren
+# § 100 – Kraftloswerden von Wertpapieren
 
 Wertpapiere, in denen nach § 1 erlöschende Ansprüche verbrieft sind, werden mit dem Inkrafttreten dieses Gesetzes kraftlos.
 
-
-## § 101 – Londoner Schuldenabkommen
+# § 101 – Londoner Schuldenabkommen
 
 Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und die zu seiner Ausführung ergangenen Vorschriften werden durch die Vorschriften dieses Gesetzes nicht berührt.
 
-
-## § 102 – Ansprüche ausländischer und staatenloser Bürger
+# § 102 – Ansprüche ausländischer und staatenloser Bürger
 
 (1) Die in § 27 Abs. 3 genannten Personen können auf Grund von Ansprüchen, für deren Anmeldung nach § 28 Abs. 1 eine Frist vorgesehen ist, Leistungen nicht vor Ablauf von fünf Jahren seit dem Inkrafttreten dieses Gesetzes verlangen. Erklärt ein ausländischer Staat vor Ablauf dieser Frist gegenüber der Bundesrepublik Deutschland, daß er nicht beabsichtige, ein Abkommen über eine pauschale Abgeltung der in Satz 1 bezeichneten Ansprüche abzuschließen, so entfällt Satz 1 für die Ansprüche seiner Staatsangehörigen, in seinem Land ansässiger Staatenloser und nach seinem Recht errichteter juristischer Personen mit Wirkung von dem Tage, an dem die Erklärung der Bundesrepublik Deutschland zugeht.
 
@@ -1294,8 +1241,7 @@ Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und die zu sei
 
 (3) Auf die Gewährung von Härtebeihilfen auf Grund der in § 68 bezeichneten Tatbestände sind die Absätze 1 und 2 entsprechend anzuwenden.
 
-
-## § 103 – Gerichtliche Verfahren für Ansprüche ausländischer und staatenloser Gläubiger
+# § 103 – Gerichtliche Verfahren für Ansprüche ausländischer und staatenloser Gläubiger
 
 (1) Die in § 27 Abs. 3 genannten Personen können auf Grund von Ansprüchen, für deren Anmeldung nach § 28 Abs. 1 eine Frist vorgesehen ist, bis zum Ablauf der in § 102 Abs. 1 bezeichneten Frist nur Klage auf Feststellung des angemeldeten Anspruchs erheben. Das Gericht hat in jedem Fall zu prüfen, ob der dem Erfüllungsverlangen zugrunde liegende Anspruch (§ 1) besteht oder bis zum Inkrafttreten dieses Gesetzes bestanden hat. Das Gericht hat auf Antrag des Beklagten gleichzeitig zu prüfen und darüber zu entscheiden,
 
@@ -1309,37 +1255,31 @@ Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und die zu sei
 
 (3) Absatz 1 ist in Verwaltungsstreitverfahren über die Gewährung einer beantragten Härtebeihilfe, deren Gewährung nach § 102 Abs. 3 noch nicht verlangt werden kann, entsprechend anzuwenden; dabei tritt an die Stelle des § 28 die Vorschrift des § 80.
 
-
-## § 104 – Regelungen von Verbindlichkeiten der Konversionskasse für deutsche Auslandsschulden
+# § 104 – Regelungen von Verbindlichkeiten der Konversionskasse für deutsche Auslandsschulden
 
 (1) Die Regelungsangebote der Regierung der Bundesrepublik Deutschland für die dreiprozentigen im Inland zahlbaren Schuldverschreibungen und Teilgutscheine sowie für die Scrips der Konversionskasse für deutsche Auslandsschulden vom 25. April 1955 - veröffentlicht im Bundesanzeiger Nr. 83 vom 30. April 1955 - richten sich auch an Gläubiger, die am Tage des Inkrafttretens dieses Gesetzes in dessen Geltungsbereich als Deutsche im Sinne des Artikels 116 des Grundgesetzes ihren Wohnsitz oder ständigen Aufenthalt oder als juristische Personen ihren Sitz oder den Ort ihrer Geschäftsleitung haben. Ein Sitz in Berlin gilt als Sitz im Geltungsbereich dieses Gesetzes nur dann, wenn sich die Geschäftsleitung im Geltungsbereich dieses Gesetzes befindet.
 
 (2) Absatz 1 gilt nur hinsichtlich solcher Ansprüche, die am 31. Dezember 1952 die Voraussetzungen des § 33 Abs. 2 erfüllen.
 
-
-## § 105 – Leistungsausschluß für Tätigkeit gebietsfremder Behörden
+# § 105 – Leistungsausschluß für Tätigkeit gebietsfremder Behörden
 
 (1) Nach diesem Gesetz sind auf Grund von Ansprüchen gegen die in § 1 Abs. 1 bezeichneten Rechtsträger Leistungen nicht zu gewähren, wenn die Ansprüche auf Maßnahmen, Handlungen oder Unterlassungen beruhen, die auf eine nach dem 8. Mai 1945 ausgeübte Tätigkeit oder auf Maßnahmen oder Weisungen von Behörden zurückzuführen sind, die ihren Sitz außerhalb der in § 33 bezeichneten Gebiete haben oder wenn diese Maßnahmen, Handlungen oder Unterlassungen zugunsten der Verwaltung der Deutschen Reichsbahn der sowjetischen Zone erfolgt sind.
 
 (2) § 9 findet keine Anwendung auf Ansprüche, die sich auf Grundstücke beziehen, die der Verwaltung der Deutschen Reichsbahn der sowjetischen Zone unterliegen.
 
-
-## § 106 – Kosten anhängiger Gerichtsverfahren
+# § 106 – Kosten anhängiger Gerichtsverfahren
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt, trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
 
-
-## § 107 – Freistellung von Verwaltungsgebühren
+# § 107 – Freistellung von Verwaltungsgebühren
 
 Polizeiliche Aufenthalts- und Wohnsitzbescheinigungen für Zwecke dieses Gesetzes sind gebührenfrei auszustellen.
 
-
-## § 108 – Amts- und Rechtshilfe
+# § 108 – Amts- und Rechtshilfe
 
 Die Verwaltungsbehörden und Gerichte, die öffentlich-rechtlichen Körperschaften und Anstalten und die Organisationen der Selbstverwaltung der Wirtschaft haben den mit der Durchführung dieses Gesetzes befaßten Behörden Amts- und Rechtshilfe zu leisten. Für Rechtshilfe der Gerichte gelten die §§ 156 bis 168 des Gerichtsverfassungsgesetzes entsprechend.
 
-
-## § 109 – Sondervorschriften für Berlin
+# § 109 – Sondervorschriften für Berlin
 
 Die Vorschriften dieses Gesetzes gelten im Land Berlin mit der Maßgabe, daß
 
@@ -1357,8 +1297,7 @@ Die Vorschriften dieses Gesetzes gelten im Land Berlin mit der Maßgabe, daß
 
 treten.
 
-
-## § 110 – Sondervorschriften wegen des Saarlandes
+# § 110 – Sondervorschriften wegen des Saarlandes
 
 (1) Dieses Gesetz gilt wegen der besonderen Verhältnisse im Saarland mit folgender Maßgabe:
 
@@ -1376,18 +1315,15 @@ treten.
 
 (2) Soweit die Anwendung des Gesetzes durch Absatz 1 ausgeschlossen wird, bleibt eine besondere gesetzliche Regelung vorbehalten, wenn dies die Sach- und Rechtslage im Saarland erfordert.
 
-
-## § 111 – Berlin-Klausel
+# § 111 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe der §§ 12, 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch in Berlin (West). Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten in Berlin (West) nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 112 – Inkrafttreten
+# § 112 – Inkrafttreten
 
 Das Gesetz tritt am ersten Tage des zweiten Monats nach seiner Verkündung in Kraft.
 
-
-## Anlage – (zu § 30)
+# Anlage – (zu § 30)
 
 Fundstelle des Originaltextes: BGBl. Teil III 653-1, S. 50 - 52
 

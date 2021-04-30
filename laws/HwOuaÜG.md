@@ -1,10 +1,7 @@
-# [HwOuaÜG] Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften
-
-Ausfertigungsdatum: 25.03.1998
-
+% Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften
+% Ausfertigungsdatum: 25.03.1998
  
-
-## § 1
+# § 1
 
 (1) Die wesentliche Tätigkeit Herstellung und Reparatur von Ziegeldächern des Gewerbes Nummer 4 Dachdecker der Anlage A zur Handwerksordnung wird auch dem Gewerbe Nummer 3 Zimmerer der Anlage A zur Handwerksordnung als wesentliche Tätigkeit zugeordnet.
 
@@ -20,12 +17,10 @@ Ausfertigungsdatum: 25.03.1998
 
 (7) Der Akustik- und Trockenbau ist keine wesentliche Tätigkeit eines der in der Anlage A zur Handwerksordnung aufgeführten Gewerbe.
 
-
-## § 2
+# § 2
 
 Soweit durch Artikel 1 des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften vom 25. März 1998 (BGBl. I S. 596) Gewerbe in der Anlage A zur Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), die zuletzt durch Artikel 2 Abs. 21 des Gesetzes vom 17. Dezember 1997 (BGBl. I S. 3108) geändert worden ist, zu Gewerben zusammengefaßt werden, werden die wesentlichen Tätigkeiten der bisherigen Gewerbe beibehalten, soweit in § 1 nicht etwas anderes bestimmt ist. Satz 1 gilt entsprechend, soweit Gewerbe eine neue Bezeichnung erhalten.
 
-
-## § 3
+# § 3
 
 Wer ein zulassungsfreies Handwerk nach § 18 Abs. 2 Satz 1 der Handwerksordnung betreibt und am 31. Dezember 2003 berechtigt war, ein zulassungspflichtiges Handwerk auszuüben, kann hierbei auch Arbeiten in zulassungspflichtigen Handwerken nach § 1 Abs. 1 der Handwerksordnung ausüben, wenn sie mit dem Leistungsangebot seines Gewerbes technisch oder fachlich zusammenhängen oder es wirtschaftlich ergänzen.

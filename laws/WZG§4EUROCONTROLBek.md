@@ -1,10 +1,7 @@
-# [WZG§4EUROCONTROLBek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 05.05.1971
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 05.05.1971
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29), zuletzt geändert durch das Gesetz vom 23. Juni 1970 (Bundesgesetzbl. I S. 805), wird bekanntgemacht, daß
 
@@ -20,13 +17,11 @@ von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 (2) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 19. September 1969 (Bundesgesetzbl. I S. 1736).\*
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1 – Bezeichnungen und Kennzeichen der Europäischen Organisation zur Sicherung der Luftfahrt
+# Anlage 1 – Bezeichnungen und Kennzeichen der Europäischen Organisation zur Sicherung der Luftfahrt
 
 Bezeichnungen
 
@@ -65,35 +60,30 @@ Kennzeichen
 
 Fundstelle: BGBl. I 1971, 671)
 
-
-## Anlage 2 – Kennzeichen des Internationalen Ausstellungsbüros
-
-(Fundstelle: BGBl. I 1971, 672)
-
-![](../normengrafiken/bgbl1_1971/j0672_0010.jpg)
-
-
-## Anlage 3 – Kennzeichen der Organisation der Erdöl ausführenden Staaten
+# Anlage 2 – Kennzeichen des Internationalen Ausstellungsbüros
 
 (Fundstelle: BGBl. I 1971, 672)
 
-![](../normengrafiken/bgbl1_1971/j0672_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1971/j0672_0010.jpg)
 
+# Anlage 3 – Kennzeichen der Organisation der Erdöl ausführenden Staaten
 
-## Anlage 4 – Bezeichnungen und Kennzeichen der Weltorganisation für geistiges Eigentum
+(Fundstelle: BGBl. I 1971, 672)
+
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1971/j0672_0020.jpg)
+
+# Anlage 4 – Bezeichnungen und Kennzeichen der Weltorganisation für geistiges Eigentum
 
 (Fundstelle: BGBl. I 1971, 673,  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
-![](../normengrafiken/bgbl1_1971/j0673_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1971/j0673_0010.jpg)
 
-
-## Anlage 5
+# Anlage 5
 
 \-
 
-
-## Anlage 6
+# Anlage 6
 
 \-

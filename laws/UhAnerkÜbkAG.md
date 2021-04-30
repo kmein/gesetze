@@ -1,17 +1,13 @@
-# [UhAnerkÜbkAG] Gesetz zur Ausführung des Haager Übereinkommens vom 15. April 1958 über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern
-
-Ausfertigungsdatum: 18.07.1961
-
+% Gesetz zur Ausführung des Haager Übereinkommens vom 15. April 1958 über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern
+% Ausfertigungsdatum: 18.07.1961
  
-
-## § 1
+# § 1
 
 (1) Für die Vollstreckbarerklärung von Entscheidungen, die über Unterhaltsansprüche von Kindern in einem der Vertragsstaaten des Haager Übereinkommens vom 15. April 1958 über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern ergangen sind (Artikel 1, 4 bis 8, 12 des Übereinkommens), ist sachlich das Amtsgericht zuständig.
 
 (2) Örtlich zuständig ist das Gericht, bei dem der Schuldner seinen allgemeinen Gerichtsstand hat, und beim Fehlen eines solchen das Gericht, in dessen Bezirk sich Vermögen des Schuldners befindet oder die Zwangsvollstreckung durchgeführt werden soll.
 
-
-## § 2
+# § 2
 
 (1) Für die Vollstreckbarerklärung der in § 1 Abs. 1 genannten Entscheidungen gelten § 1063 Abs. 1 und § 1064 Abs. 2 der Zivilprozeßordnung entsprechend.
 
@@ -23,13 +19,11 @@ Ausfertigungsdatum: 18.07.1961
 
 (5) (weggefallen)
 
-
-## § 3
+# § 3
 
 Hängt die Vollstreckung nach dem Inhalt der Entscheidung von einer dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf einer Frist oder dem Eintritt einer anderen Tatsache ab, so ist die Frage, inwieweit die Vollstreckbarerklärung von dem Nachweis besonderer Voraussetzungen abhängig ist, nach dem Recht zu entscheiden, das für das Gericht des Urteilsstaates maßgebend ist. Der Nachweis ist durch öffentliche oder öffentlich beglaubigte Urkunden zu führen, sofern nicht die Tatsachen bei dem Gericht offenkundig sind. Kann er in dieser Form nicht erbracht werden, so ist mündliche Verhandlung anzuordnen.
 
-
-## § 4
+# § 4
 
 (1) In dem Verfahren der Vollstreckbarerklärung einer Entscheidung kann der Schuldner auch Einwendungen gegen den Anspruch selbst insoweit geltend machen, als die Gründe, auf denen sie beruhen, erst nach dem Erlaß der Entscheidung entstanden sind.
 
@@ -41,8 +35,7 @@ Hängt die Vollstreckung nach dem Inhalt der Entscheidung von einer dem Gläubig
 
 entstanden sind.
 
-
-## § 5
+# § 5
 
 (1) Ist die Entscheidung, deren Vollstreckbarerklärung beantragt wird, nach dem Recht des Staates, in dem sie ergangen ist, noch nicht rechtskräftig, so kann das Verfahren der Vollstreckbarerklärung ausgesetzt werden, wenn der Schuldner nachweist, daß er gegen die Entscheidung einen Rechtsbehelf eingelegt hat, der den Eintritt der Rechtskraft hemmt.
 
@@ -52,13 +45,11 @@ entstanden sind.
 
 2. wenn der Unterhaltsanspruch vor Erlaß der Entscheidung, deren Vollstreckbarerklärung beantragt wird, im Inland rechtshängig geworden ist und eine rechtskräftige inländische Entscheidung noch nicht vorliegt.
 
-
-## § 6
+# § 6
 
 Aus den für vollstreckbar erklärten Entscheidungen (§ 1 Abs. 1) findet die Zwangsvollstreckung statt, sofern die Entscheidung über die Vollstreckbarkeit rechtskräftig oder für vorläufig vollstreckbar erklärt ist.
 
-
-## § 7
+# § 7
 
 (1) Wird eine der in § 1 Abs. 1 bezeichneten Entscheidungen in dem Staat, in dem sie ergangen ist, nach der Vollstreckbarerklärung aufgehoben oder abgeändert und kann der Schuldner diese Tatsache in dem Verfahren der Vollstreckbarerklärung nicht mehr geltend machen, so kann er die Aufhebung oder Abänderung der Vollstreckbarerklärung in einem besonderen Verfahren beantragen.
 
@@ -66,13 +57,11 @@ Aus den für vollstreckbar erklärten Entscheidungen (§ 1 Abs. 1) findet die Zw
 
 (3) Für die Einstellung der Zwangsvollstreckung und die Aufhebung bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der Zivilprozeßordnung entsprechend. Die Aufhebung einer Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
-## § 8
+# § 8
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil, durch das über einen Unterhaltsanspruch von Kindern (Artikel 1 des Übereinkommens) entschieden wird, in einem der Vertragsstaaten geltend gemacht werden soll, so darf das Urteil nicht in abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
 
-
-## § 9
+# § 9
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das über einen Unterhaltsanspruch von Kindern ergangen und nach § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in einem der Vertragsstaaten geltend machen, so ist das Urteil auf ihren Antrag zu vervollständigen. Der Antrag kann bei dem Gericht schriftlich eingereicht oder mündlich zu Protokoll der Geschäftsstelle gestellt werden. Über den Antrag wird ohne mündliche Verhandlung entschieden.
 
@@ -82,27 +71,22 @@ Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil, durch das über 
 
 (4) Für die Vervollständigung des Urteils werden Gerichtsgebühren nicht erhoben.
 
-
-## § 10
+# § 10
 
 Einer einstweiligen Anordnung oder einer einstweiligen Verfügung, durch die über einen Unterhaltsanspruch von Kindern entschieden wird und die in einem der Vertragsstaaten geltend gemacht werden soll, ist eine Begründung beizufügen. § 9 ist entsprechend anzuwenden.
 
-
-## § 11
+# § 11
 
 Vollstreckungsbescheide und einstweilige Verfügungen, die über einen Unterhaltsanspruch von Kindern erlassen sind und auf Grund deren ein Gläubiger die Zwangsvollstreckung in einem der Vertragsstaaten betreiben will, sind auch dann mit der Vollstreckungsklausel zu versehen, wenn dies für eine Zwangsvollstreckung im Inland nach § 796 Abs. 1, §§ 936, 929 Abs. 1 der Zivilprozeßordnung nicht erforderlich wäre.
 
-
-## § 12
+# § 12
 
 \-
 
-
-## § 13
+# § 13
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 14
+# § 14
 
 Dieses Gesetz tritt gleichzeitig mit dem Haager Übereinkommen vom 15. April 1958 über die Anerkennung und Vollstreckung von Entscheidungen auf dem Gebiet der Unterhaltspflicht gegenüber Kindern in Kraft.

@@ -1,15 +1,11 @@
-# [SozSichAbkURYG] Gesetz zu dem Abkommen vom 8. April 2013 zwischen der Bundesrepublik Deutschland und der Republik Östlich des Uruguay über Soziale Sicherheit
-
-Ausfertigungsdatum: 08.05.2014
-
+% Gesetz zu dem Abkommen vom 8. April 2013 zwischen der Bundesrepublik Deutschland und der Republik Östlich des Uruguay über Soziale Sicherheit
+% Ausfertigungsdatum: 08.05.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Folgenden in Berlin am 8. April 2013 unterzeichneten zwischenstaatlichen Übereinkünften wird zugestimmt:
 
@@ -19,8 +15,7 @@ Folgenden in Berlin am 8. April 2013 unterzeichneten zwischenstaatlichen Überei
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens sowie Änderungen der in Artikel 1 Nummer 2 genannten Durchführungsvereinbarung in Kraft zu setzen und die zur Durchführung des Abkommens erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -30,8 +25,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. die Zuständigkeit der Versicherungsträger oder anderer im Abkommen genannter Stellen und Behörden.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

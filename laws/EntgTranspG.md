@@ -1,12 +1,7 @@
-# [EntgTranspG] Gesetz zur Förderung der Entgelttransparenz zwischen Frauen und Männern  (Entgelttransparenzgesetz - EntgTranspG)
-
-Ausfertigungsdatum: 30.06.2017
-
+% Gesetz zur Förderung der Entgelttransparenz zwischen Frauen und Männern  (Entgelttransparenzgesetz - EntgTranspG)
+% Ausfertigungsdatum: 30.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -14,20 +9,19 @@ Ausfertigungsdatum: 30.06.2017
 
  
 
+ 
 
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen und Männer bei gleicher oder gleichwertiger Arbeit durchzusetzen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für das Entgelt von Beschäftigten nach § 5 Absatz 2, die bei Arbeitgebern nach § 5 Absatz 3 beschäftigt sind, soweit durch dieses Gesetz nichts anderes bestimmt wird.
 
 (2) Das Allgemeine Gleichbehandlungsgesetz bleibt unberührt. Ebenfalls unberührt bleiben sonstige Benachteiligungsverbote und Gebote der Gleichbehandlung sowie öffentlich-rechtliche Vorschriften, die dem Schutz oder der Förderung bestimmter Personengruppen dienen.
 
-
-## § 3 – Verbot der unmittelbaren und mittelbaren Entgeltbenachteiligung wegen des Geschlechts
+# § 3 – Verbot der unmittelbaren und mittelbaren Entgeltbenachteiligung wegen des Geschlechts
 
 (1) Bei gleicher oder gleichwertiger Arbeit ist eine unmittelbare oder mittelbare Benachteiligung wegen des Geschlechts im Hinblick auf sämtliche Entgeltbestandteile und Entgeltbedingungen verboten.
 
@@ -37,8 +31,7 @@ Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen und Männe
 
 (4) Die §§ 5 und 8 des Allgemeinen Gleichbehandlungsgesetzes bleiben unberührt.
 
-
-## § 4 – Feststellung von gleicher oder gleichwertiger Arbeit, benachteiligungsfreie Entgeltsysteme
+# § 4 – Feststellung von gleicher oder gleichwertiger Arbeit, benachteiligungsfreie Entgeltsysteme
 
 (1) Weibliche und männliche Beschäftigte üben eine gleiche Arbeit aus, wenn sie an verschiedenen Arbeitsplätzen oder nacheinander an demselben Arbeitsplatz eine identische oder gleichartige Tätigkeit ausführen.
 
@@ -60,8 +53,7 @@ Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen und Männe
 
 (6) Absatz 5 ist sinngemäß auch auf gesetzliche Entgeltregelungen anzuwenden.
 
-
-## § 5 – Allgemeine Begriffsbestimmungen
+# § 5 – Allgemeine Begriffsbestimmungen
 
 (1) Entgelt im Sinne dieses Gesetzes sind alle Grund- oder Mindestarbeitsentgelte sowie alle sonstigen Vergütungen, die unmittelbar oder mittelbar in bar oder in Sachleistungen aufgrund eines Beschäftigungsverhältnisses gewährt werden.
 
@@ -85,32 +77,27 @@ Ziel des Gesetzes ist es, das Gebot des gleichen Entgelts für Frauen und Männe
 
 (5) Tarifanwendende Arbeitgeber im Sinne dieses Gesetzes sind Arbeitgeber, die im Geltungsbereich eines Entgelttarifvertrages oder Entgeltrahmentarifvertrages die tariflichen Regelungen zum Entgelt durch schriftliche Vereinbarung zwischen Arbeitgeber und Beschäftigten verbindlich und inhaltsgleich für alle Tätigkeiten und Beschäftigten übernommen haben, für die diese tariflichen Regelungen zum Entgelt angewendet werden.
 
-
-## § 6 – Aufgaben von Arbeitgebern, Tarifvertragsparteien und betrieblichen Interessenvertretungen
+# § 6 – Aufgaben von Arbeitgebern, Tarifvertragsparteien und betrieblichen Interessenvertretungen
 
 (1) Arbeitgeber, Tarifvertragsparteien und die betrieblichen Interessenvertretungen sind aufgefordert, im Rahmen ihrer Aufgaben und Handlungsmöglichkeiten an der Verwirklichung der Entgeltgleichheit zwischen Frauen und Männern mitzuwirken. Die zuständigen Tarifvertragsparteien benennen Vertreterinnen und Vertreter zur Einhaltung des Entgeltgleichheitsgebots im Sinne dieses Gesetzes und zur Wahrnehmung der Aufgaben nach § 14 Absatz 3.
 
 (2) Arbeitgeber sind verpflichtet, die erforderlichen Maßnahmen zu treffen, um die Beschäftigten vor Benachteiligungen wegen des Geschlechts in Bezug auf das Entgelt zu schützen. Dieser Schutz umfasst auch vorbeugende Maßnahmen.
 
-
-## § 7 – Entgeltgleichheitsgebot
+# § 7 – Entgeltgleichheitsgebot
 
 Bei Beschäftigungsverhältnissen darf für gleiche oder für gleichwertige Arbeit nicht wegen des Geschlechts der oder des Beschäftigten ein geringeres Entgelt vereinbart oder gezahlt werden als bei einer oder einem Beschäftigten des anderen Geschlechts.
 
-
-## § 8 – Unwirksamkeit von Vereinbarungen
+# § 8 – Unwirksamkeit von Vereinbarungen
 
 (1) Bestimmungen in Vereinbarungen, die gegen § 3 oder § 7 verstoßen, sind unwirksam.
 
 (2) Die Nutzung der in einem Auskunftsverlangen erlangten Informationen ist auf die Geltendmachung von Rechten im Sinne dieses Gesetzes beschränkt. Die Veröffentlichung personenbezogener Gehaltsangaben und die Weitergabe an Dritte sind von dem Nutzungsrecht nicht umfasst.
 
-
-## § 9 – Maßregelungsverbot
+# § 9 – Maßregelungsverbot
 
 Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten nach diesem Gesetz benachteiligen. Gleiches gilt für Personen, welche die Beschäftigten hierbei unterstützen oder als Zeuginnen oder Zeugen aussagen. § 16 des Allgemeinen Gleichbehandlungsgesetzes bleibt unberührt.
 
-
-## § 10 – Individueller Auskunftsanspruch
+# § 10 – Individueller Auskunftsanspruch
 
 (1) Zur Überprüfung der Einhaltung des Entgeltgleichheitsgebots im Sinne dieses Gesetzes haben Beschäftigte einen Auskunftsanspruch nach Maßgabe der §§ 11 bis 16. Dazu haben die Beschäftigten in zumutbarer Weise eine gleiche oder gleichwertige Tätigkeit (Vergleichstätigkeit) zu benennen. Sie können Auskunft zu dem durchschnittlichen monatlichen Bruttoentgelt nach § 5 Absatz 1 und zu bis zu zwei einzelnen Entgeltbestandteilen verlangen.
 
@@ -120,8 +107,7 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 
 (4) Sonstige Auskunftsansprüche bleiben von diesem Gesetz unberührt.
 
-
-## § 11 – Angabe zu Vergleichstätigkeit und Vergleichsentgelt
+# § 11 – Angabe zu Vergleichstätigkeit und Vergleichsentgelt
 
 (1) Die Auskunftsverpflichtung erstreckt sich auf die Angabe zu den Kriterien und Verfahren der Entgeltfindung nach Absatz 2 und auf die Angabe zum Vergleichsentgelt nach Absatz 3.
 
@@ -137,8 +123,7 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 
 (+++ § 11: Zur Anwendung vgl. § 16 +++)
 
-
-## § 12 – Reichweite
+# § 12 – Reichweite
 
 (1) Der Anspruch nach § 10 besteht für Beschäftigte nach § 5 Absatz 2 in Betrieben mit in der Regel mehr als 200 Beschäftigten bei demselben Arbeitgeber.
 
@@ -155,8 +140,7 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 (+++ § 12: Zur Anwendung vgl. § 16 +++)  
 (+++ § 12 Abs. 1 u. 2: Zur Anwendung vgl. § 18 Abs. 3 +++)
 
-
-## § 13 – Aufgaben und Rechte des Betriebsrates
+# § 13 – Aufgaben und Rechte des Betriebsrates
 
 (1) Im Rahmen seiner Aufgabe nach § 80 Absatz 1 Nummer 2a des Betriebsverfassungsgesetzes fördert der Betriebsrat die Durchsetzung der Entgeltgleichheit von Frauen und Männern im Betrieb. Dabei nimmt der Betriebsrat insbesondere die Aufgaben nach § 14 Absatz 1 und § 15 Absatz 2 wahr. Betriebsverfassungsrechtliche, tarifrechtliche oder betrieblich geregelte Verfahren bleiben unberührt.
 
@@ -172,8 +156,7 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 
 (+++ § 13: Zur Anwendung vgl. § 16 +++)
 
-
-## § 14 – Verfahren bei tarifgebundenen und tarifanwendenden Arbeitgebern
+# § 14 – Verfahren bei tarifgebundenen und tarifanwendenden Arbeitgebern
 
 (1) Beschäftigte tarifgebundener und tarifanwendender Arbeitgeber wenden sich für ihr Auskunftsverlangen nach § 10 an den Betriebsrat. Die Vorgaben bestimmen sich nach § 13. Der Betriebsrat hat den Arbeitgeber über eingehende Auskunftsverlangen in anonymisierter Form umfassend zu informieren. Abweichend von Satz 1 kann der Betriebsrat verlangen, dass der Arbeitgeber die Auskunftsverpflichtung übernimmt.
 
@@ -186,8 +169,7 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 (+++ § 14: Zur Anwendung vgl. § 16 +++)  
 (+++ § 14 Abs. 1 u. 2: Zur Anwendung vgl. § 15 Abs. 2 +++)
 
-
-## § 15 – Verfahren bei nicht tarifgebundenen und nicht tarifanwendenden Arbeitgebern
+# § 15 – Verfahren bei nicht tarifgebundenen und nicht tarifanwendenden Arbeitgebern
 
 (1) Beschäftigte nicht tarifgebundener und nicht tarifanwendender Arbeitgeber wenden sich für ihr Auskunftsverlangen nach § 10 an den Arbeitgeber.
 
@@ -199,20 +181,17 @@ Der Arbeitgeber darf Beschäftigte nicht wegen der Inanspruchnahme von Rechten n
 
 (5) Unterlässt der Arbeitgeber die Erfüllung seiner Auskunftspflicht, trägt er im Streitfall die Beweislast dafür, dass kein Verstoß gegen das Entgeltgleichheitsgebot im Sinne dieses Gesetzes vorliegt. Dies gilt auch, wenn der Betriebsrat aus Gründen, die der Arbeitgeber zu vertreten hat, die Auskunft nicht erteilen konnte.
 
-
-## § 16 – Öffentlicher Dienst
+# § 16 – Öffentlicher Dienst
 
 Der Anspruch nach § 10 besteht auch für Beschäftigte des öffentlichen Dienstes nach § 5 Absatz 2 Nummer 1 bis 5 in Dienststellen mit in der Regel mehr als 200 Beschäftigten. Die §§ 11 bis 14 sind sinngemäß anzuwenden.
 
-
-## § 17 – Betriebliche Prüfverfahren
+# § 17 – Betriebliche Prüfverfahren
 
 (1) Private Arbeitgeber mit in der Regel mehr als 500 Beschäftigten sind aufgefordert, mithilfe betrieblicher Prüfverfahren ihre Entgeltregelungen und die verschiedenen gezahlten Entgeltbestandteile sowie deren Anwendung regelmäßig auf die Einhaltung des Entgeltgleichheitsgebots im Sinne dieses Gesetzes zu überprüfen. Nimmt in einem Konzern das herrschende Unternehmen auf die Entgeltbedingungen mindestens eines Konzernunternehmens entscheidenden Einfluss, kann das herrschende Unternehmen das betriebliche Prüfverfahren nach Satz 1 für alle Konzernunternehmen durchführen.
 
 (2) Wird ein betriebliches Prüfverfahren durchgeführt, hat dies in eigener Verantwortung der Arbeitgeber mithilfe der Verfahren nach § 18 und unter Beteiligung der betrieblichen Interessenvertretungen zu erfolgen.
 
-
-## § 18 – Durchführung betrieblicher Prüfverfahren
+# § 18 – Durchführung betrieblicher Prüfverfahren
 
 (1) In das betriebliche Prüfverfahren sind die Tätigkeiten einzubeziehen, die demselben Entgeltsystem unterliegen, unabhängig davon, welche individualrechtlichen, tarifvertraglichen und betrieblichen Rechtsgrundlagen zusammenwirken.
 
@@ -222,20 +201,17 @@ Der Anspruch nach § 10 besteht auch für Beschäftigte des öffentlichen Dienst
 
 (4) Die Ergebnisse von Bestandsaufnahme und Analyse werden zusammengefasst und können betriebsintern veröffentlicht werden.
 
-
-## § 19 – Beseitigung von Entgeltbenachteiligungen
+# § 19 – Beseitigung von Entgeltbenachteiligungen
 
 Ergeben sich aus einem betrieblichen Prüfverfahren Benachteiligungen wegen des Geschlechts in Bezug auf das Entgelt, ergreift der Arbeitgeber die geeigneten Maßnahmen zur Beseitigung der Benachteiligung.
 
-
-## § 20 – Mitwirkung und Information
+# § 20 – Mitwirkung und Information
 
 (1) Der Arbeitgeber hat den Betriebsrat über die Planung des betrieblichen Prüfverfahrens rechtzeitig unter Vorlage der erforderlichen Unterlagen zu unterrichten.
 
 (2) Die Beschäftigten sind über die Ergebnisse des betrieblichen Prüfverfahrens zu informieren. § 43 Absatz 2 und § 53 Absatz 2 des Betriebsverfassungsgesetzes sind zu beachten.
 
-
-## § 21 – Bericht zur Gleichstellung und Entgeltgleichheit
+# § 21 – Bericht zur Gleichstellung und Entgeltgleichheit
 
 (1) Arbeitgeber mit in der Regel mehr als 500 Beschäftigten, die zur Erstellung eines Lageberichts nach den §§ 264 und 289 des Handelsgesetzbuches verpflichtet sind, erstellen einen Bericht zur Gleichstellung und Entgeltgleichheit, in dem sie Folgendes darstellen:
 
@@ -251,8 +227,7 @@ Arbeitgeber, die keine Maßnahmen im Sinne des Satzes 1 Nummer 1 oder 2 durchfü
 
 2. zu der durchschnittlichen Zahl der Vollzeit- und Teilzeitbeschäftigten.
 
-
-## § 22 – Berichtszeitraum und Veröffentlichung
+# § 22 – Berichtszeitraum und Veröffentlichung
 
 (1) Arbeitgeber nach § 21 Absatz 1, die tarifgebunden nach § 5 Absatz 4 sind oder die tarifanwendend nach § 5 Absatz 5 sind und die gemäß § 13 Absatz 5 erklärt haben, tarifliche Regelungen zum Entgelt nach § 5 Absatz 5 anzuwenden, erstellen den Bericht alle fünf Jahre. Der Berichtszeitraum umfasst die vergangenen fünf Jahre.
 
@@ -262,8 +237,7 @@ Arbeitgeber, die keine Maßnahmen im Sinne des Satzes 1 Nummer 1 oder 2 durchfü
 
 (4) Der Bericht nach § 21 ist dem nächsten Lagebericht nach § 289 des Handelsgesetzbuches, der dem jeweiligen Berichtszeitraum folgt, als Anlage beizufügen und im Bundesanzeiger zu veröffentlichen.
 
-
-## § 23 – Evaluation und Berichterstattung
+# § 23 – Evaluation und Berichterstattung
 
 (1) Die Bundesregierung evaluiert nach Inkrafttreten dieses Gesetzes laufend die Wirksamkeit dieses Gesetzes und informiert alle vier Jahre, erstmals zwei Jahre nach Inkrafttreten, über die Ergebnisse. Die Evaluation hat die Umsetzung des Gebots des gleichen Entgelts für Frauen und Männer bei gleicher oder gleichwertiger Arbeit in allen Betriebs- und Unternehmensformen und -größen darzustellen, die unter den Anwendungsbereich des Abschnittes 2 dieses Gesetzes unterfallen.
 
@@ -271,13 +245,11 @@ Arbeitgeber, die keine Maßnahmen im Sinne des Satzes 1 Nummer 1 oder 2 durchfü
 
 (3) Die Bundesregierung hat in die Evaluation nach Absatz 1 und in die Berichterstattung nach Absatz 2 die Stellungnahme der Sozialpartner miteinzubeziehen.
 
-
-## § 24 – Aufgabe der Gleichstellungsbeauftragten
+# § 24 – Aufgabe der Gleichstellungsbeauftragten
 
 Die Gleichstellungsbeauftragten in der Bundesverwaltung und in den Unternehmen und den Gerichten des Bundes sowie die Beauftragten, die in Unternehmen für die Gleichstellung von Frauen und Männern zuständig sind, haben die Aufgabe, den Vollzug dieses Gesetzes in Bezug auf die Durchsetzung des Gebots des gleichen Entgelts bei gleicher oder gleichwertiger Arbeit für Frauen und Männer zu fördern.
 
-
-## § 25 – Übergangsbestimmungen
+# § 25 – Übergangsbestimmungen
 
 (1) Der Auskunftsanspruch nach § 10 kann erstmals sechs Kalendermonate nach dem 6. Juli 2017 geltend gemacht werden. Soweit der Auskunftsanspruch nach Satz 1 dann innerhalb von drei Kalenderjahren erstmals geltend gemacht wird, können Beschäftigte abweichend von § 10 Absatz 2 Satz 2 erst nach Ablauf von drei Kalenderjahren erneut Auskunft verlangen. Satz 2 gilt nicht, soweit die Beschäftigten darlegen, dass sich die Voraussetzungen wesentlich verändert haben.
 

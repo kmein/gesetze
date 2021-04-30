@@ -1,20 +1,15 @@
-# [TKGebV] Verordnung über Telekommunikationsgebühren  (Telekommunikationsgebührenverordnung - TKGebV)
-
-Ausfertigungsdatum: 19.07.2007
-
+% Verordnung über Telekommunikationsgebühren  (Telekommunikationsgebührenverordnung - TKGebV)
+% Ausfertigungsdatum: 19.07.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 142 Abs. 2 Satz 1, 2, 6 und 7 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und mit § 1 der TKG-Übertragungsverordnung vom 22. November 2004 (BGBl. I S. 2899), von denen § 142 Abs. 2 des Telekommunikationsgesetzes zuletzt durch Artikel 273 Nr. 1 und § 1 der TKG-Übertragungsverordnung zuletzt durch Artikel 465 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Erhebung von Gebühren
+# § 1 – Erhebung von Gebühren
 
 Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren bestimmen sich nach den jeweiligen Anlagen dieser Verordnung. Daneben werden für die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen Auslagen nach § 23 Absatz 6 des Bundesgebührengesetzes erhoben. Die Frequenzgebührenverordnung und die Telekommunikations-Nummerngebührenverordnung bleiben unberührt.
 
-
-## § 2 – Gebührenbefreiungen
+# § 2 – Gebührenbefreiungen
 
 (1) Für Organisationen, die mit Behörden und Organisationen mit Sicherheitsaufgaben vergleichbar sind, werden für die individuell zurechenbaren öffentlichen Leistungen keine Gebühren erhoben, wenn diese die Leistung zur Erfüllung ihrer Aufgaben benötigen, die ihnen auf Grund eines Gesetzes oder durch öffentlich-rechtliche Vereinbarung übertragen worden sind. Zuständig für die Feststellung der Vergleichbarkeit nach Satz 1 ist das Bundesministerium des Innern, für Bau und Heimat.
 
@@ -22,13 +17,11 @@ Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren bestimmen sich
 
 (3) Eine Gebührenbefreiung tritt nicht ein, soweit die in Absatz 1 Genannten berechtigt sind, die Gebühren Dritten aufzuerlegen. Gleiches gilt für individuell zurechenbare öffentliche Leistungen nach Absatz 2, sofern die Begünstigten die Gebühren Dritten auferlegen können.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 26. Juni 2004 in Kraft.
 
-
-## Anlage 1 – Gebührentatbestände für die Bearbeitung von Anträgen auf Registrierung von Anwählprogrammen über Mehrwertdienste-Rufnummern nach § 66 in Verbindung mit § 142 Abs. 1 Nr. 3, 5 und 6 des Telekommunikationsgesetzes
+# Anlage 1 – Gebührentatbestände für die Bearbeitung von Anträgen auf Registrierung von Anwählprogrammen über Mehrwertdienste-Rufnummern nach § 66 in Verbindung mit § 142 Abs. 1 Nr. 3, 5 und 6 des Telekommunikationsgesetzes
 
 (Fundstelle: BGBl. I 2007, 1478)
 
@@ -99,8 +92,7 @@ Bearbeiten eines Verstoßes gegen Registrierungsbedingungen und Auflagen einschl
   
 Neben den ausgewiesenen Gebührensätzen werden Auslagen entsprechend dem Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung gesondert erhoben.
 
-
-## Anlage 2 – Gebührentatbestände für die einzelfallbezogene Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 56 in Verbindung mit § 142 Abs. 1 Nr. 4, 5 und 6 des Telekommunikationsgesetzes
+# Anlage 2 – Gebührentatbestände für die einzelfallbezogene Koordinierung, Anmeldung, Übertragung und Notifizierung von Satellitensystemen nach § 56 in Verbindung mit § 142 Abs. 1 Nr. 4, 5 und 6 des Telekommunikationsgesetzes
 
 (Fundstelle: BGBl. I 2007, 1479)
 
@@ -207,8 +199,7 @@ Ausführen eines mobilen/stationären Messeinsatzes zum Ermitteln von Verstöße
   
 Neben den ausgewiesenen Gebührensätzen werden Auslagen entsprechend dem Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung gesondert erhoben. Dies betrifft insbesondere die ITU-Gebühren (ITU-Cost recovery), die für das jeweils beantragte Satellitenfunknetz von der ITU zur Deckung des dortigen Verwaltungsaufwandes erhoben werden.
 
-
-## Anlage 3 – Gebührentatbestände für die Entscheidung über die Übertragung von Wegerechten nach § 69 in Verbindung mit § 142 Abs. 1 Nr. 7 des Telekommunikationsgesetzes
+# Anlage 3 – Gebührentatbestände für die Entscheidung über die Übertragung von Wegerechten nach § 69 in Verbindung mit § 142 Abs. 1 Nr. 7 des Telekommunikationsgesetzes
 
 (Fundstelle: BGBl. I 2007, 1480)
 

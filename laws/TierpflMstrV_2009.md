@@ -1,15 +1,11 @@
-# [TierpflMstrV 2009] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin
-
-Ausfertigungsdatum: 16.03.2009
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin
+% Ausfertigungsdatum: 16.03.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die durch die berufliche Fortbildung zum Geprüften Tierpflegemeister/zur Geprüften Tierpflegemeisterin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -25,8 +21,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss „Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -48,8 +43,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Abweichend von den Absätzen 1 und 2 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten erworben wurden, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Inhalt und Gliederung der Prüfung
+# § 3 – Inhalt und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Tierpflegemeister/zur Geprüften Tierpflegemeisterin umfasst:
 
@@ -71,8 +65,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (5) Der Erwerb der berufs- und arbeitspädagogischen Qualifikationen nach der auf der Grundlage des Berufsbildungsgesetzes geregelten Ausbilder-Eignungsverordnung in der jeweils geltenden Fassung oder einer anderen gleichwertigen öffentlich-rechtlichen Regelung ist nachzuweisen. Der Nachweis ist vor Beginn der letzten Prüfungsleistung zu erbringen.
 
-
-## § 4 – Grundlegende Qualifikationen
+# § 4 – Grundlegende Qualifikationen
 
 (1) Der Prüfungsteil „Grundlegende Qualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -126,8 +119,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (6) Wurde in nicht mehr als einem der in Absatz 1 Nummer 1 bis 3 genannten Prüfungsbereiche eine mangelhafte Prüfungsleistung erbracht, ist in diesem eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ ist in folgenden Handlungsfeldern zu prüfen:
 
@@ -299,15 +291,13 @@ e) Vermitteln von Fertigkeiten, Kenntnissen und Fähigkeiten im Bereich Arbeitss
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbereiche des Prüfungsteils „Grundlegende Qualifikationen“ und in einzelnen Handlungsbereichen der Handlungsfelder des Prüfungsteils „Handlungsspezifische Qualifikationen“ befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten von Prüfungsleistungen
+# § 7 – Bewerten von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -327,8 +317,7 @@ Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben, der Bewert
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -362,8 +351,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -377,8 +365,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholen der Prüfung
+# § 10 – Wiederholen der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -386,22 +373,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 31. Juli 2011 nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die zuständige Stelle die Wiederholungsprüfung auch nach dieser Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Juli 2011 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2009 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Tierpflegemeister/ Geprüfte Tierpflegemeisterin vom 11. Juli 1990 (BGBl. I S. 1404), die zuletzt durch Artikel 9 der Verordnung vom 19. Oktober 2007 (BGBl. I S. 2461) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2316 – 2317)
 
@@ -410,8 +394,7 @@ Diese Verordnung tritt am 1. April 2009 in Kraft. Gleichzeitig tritt die Verordn
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2317 – 2318)
 

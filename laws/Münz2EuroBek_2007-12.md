@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2007-12] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Hamburg“)
-
-Ausfertigungsdatum: 06.12.2007
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Hamburg“)
+% Ausfertigungsdatum: 06.12.2007
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „Hamburg“ im Rahmen einer Serie „Bundesländer“ prägen zu lassen.
 
@@ -20,10 +17,8 @@ Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G�
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn Erich Ott aus München.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----

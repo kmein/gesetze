@@ -1,10 +1,7 @@
-# [KJHG] Gesetz zur Neuordnung des Kinder- und Jugendhilferechts  (Kinder- und Jugendhilfegesetz - KJHG)
-
-Ausfertigungsdatum: 26.06.1990
-
+% Gesetz zur Neuordnung des Kinder- und Jugendhilferechts  (Kinder- und Jugendhilfegesetz - KJHG)
+% Ausfertigungsdatum: 26.06.1990
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -216,24 +213,19 @@ Artikel 23
 
 Inkrafttreten
 
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 – Sozialgesetzbuch (SGB)  Achtes Buch (VIII)  Kinder- und Jugendhilfe
+# Art 1 – Sozialgesetzbuch (SGB)  Achtes Buch (VIII)  Kinder- und Jugendhilfe
 
 \-
 
+# Art 2 und 3 – ----
 
-## Art 2 und 3 – ----
+# Art 4 bis 9 – ----
 
-
-## Art 4 bis 9 – ----
-
-
-## Art 10 – Übergangsfassung einzelner Vorschriften
+# Art 10 – Übergangsfassung einzelner Vorschriften
 
 (1) Bis zum 31. Dezember 1994 sind abweichend von Artikel 1 in folgenden Fassungen anzuwenden:
 
@@ -272,15 +264,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3)
 
-
-## Art 11 – Übergangsvorschrift für Leistungen an seelisch behinderte junge Menschen
+# Art 11 – Übergangsvorschrift für Leistungen an seelisch behinderte junge Menschen
 
 (1) Abweichend von Artikel 1 § 10 Abs. 2 Satz 2 und § 35a gehen bis zum 31. Dezember 1994 auch für junge Menschen, die seelisch behindert oder von einer solchen Behinderung bedroht sind, die Leistungen der Eingliederungshilfe nach dem Bundessozialhilfegesetz vor.
 
 (2) Landesrecht kann die Geltung von Absatz 1 ausschließen oder eine andere Übergangsfrist vorsehen.
 
-
-## Art 12 – Fortführung einer Einrichtung
+# Art 12 – Fortführung einer Einrichtung
 
 (1) Für Einrichtungen, die vor dem Tage des Inkrafttretens dieses Gesetzes in Betrieb genommen worden sind, gelten die nachstehenden besonderen Vorschriften.
 
@@ -288,22 +278,19 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Eine am Tage des Inkrafttretens dieses Gesetzes bestehende Einrichtung, zu deren Betrieb der Träger einer Erlaubnis nach Artikel 1 § 45 bedarf, darf ohne diese Erlaubnis weiterbetrieben werden, sofern die Erlaubnis unverzüglich beantragt wird. Bis zum Abschluß des Erlaubniserteilungsverfahrens kann die nach Landesrecht zuständige Behörde den Betrieb einer solchen Einrichtung untersagen, wenn Tatsachen festgestellt werden, die geeignet sind, das leibliche, geistige oder seelische Wohl der in der Einrichtung betreuten Kinder und Jugendlichen zu gefährden und eine unverzügliche Beseitigung der Gefährdung nicht zu erwarten ist.
 
-
-## Art 13 – Jugendhilfeausschuß, Landesjugendhilfeausschuß
+# Art 13 – Jugendhilfeausschuß, Landesjugendhilfeausschuß
 
 (1) Ein am Tage des Inkrafttretens dieses Gesetzes bestehender und nach § 14 des Gesetzes für Jugendwohlfahrt zusammengesetzter Jugendwohlfahrtsausschuß gilt als Jugendhilfeausschuß, bis sich die erstmals nach diesem Zeitpunkt gewählte Vertretungskörperschaft konstituiert hat.
 
 (2) Ein am Tage des Inkrafttretens dieses Gesetzes bestehender und nach § 21 Abs. 3 des Gesetzes für Jugendwohlfahrt zusammengesetzter Landesjugendwohlfahrtsausschuß gilt als Landesjugendhilfeausschuß, bis aufgrund landesrechtlicher Regelung ein neuer Landesjugendhilfeausschuß gebildet wird.
 
-
-## Art 14 – Örtliche Zuständigkeit, Kostenerstattung
+# Art 14 – Örtliche Zuständigkeit, Kostenerstattung
 
 (1) Abweichend von den Vorschriften des Artikels 1 über die örtliche Zuständigkeit bleibt für die Gewährung einer Hilfe zur Erziehung, die am Tage des Inkrafttretens des Kinder- und Jugendhilfegesetzes bereits eingeleitet war, der örtliche Träger, der die Hilfe zur Erziehung eingeleitet hat, so lange örtlich zuständig, bis das Kind oder der Jugendliche den gewöhnlichen Aufenthalt wechselt, höchstens jedoch bis zum 1. April 1993.
 
 (2) Abweichend von den Vorschriften des Artikels 1 über die Kostenerstattung sind in dem Gebiet der Bundesrepublik Deutschland nach dem Stand bis zum 3. Oktober 1990 für Hilfen zur Erziehung und Hilfen für junge Volljährige, die am Tage des Inkrafttretens des Kinder- und Jugendhilfegesetzes bereits eingeleitet oder gewährt wurden, bis zum 1. April 1993 für die Kostenerstattung die §§ 103 bis 111 des Bundessozialhilfegesetzes entsprechend anzuwenden, solange die Hilfe ohne Unterbrechung weitergewährt wird; eine Unterbrechung der Hilfe von bis zu drei Monaten bleibt außer Betracht.
 
-
-## Art 15 – Sachliche Zuständigkeit des Landesjugendamts
+# Art 15 – Sachliche Zuständigkeit des Landesjugendamts
 
 (1) Abweichend von Artikel 1 § 85 Abs. 1 ist bis zum 31. Dezember 1994 für die Gewährung von Hilfe zur Erziehung nach Artikel 1 §§ 32 bis 35 und ihre Weiterführung nach Artikel 1 § 41 das Landesjugendamt oder die am Tage vor dem Inkrafttreten dieses Gesetzes zuständige Behörde sachlich zuständig, wenn die leibliche, geistige oder seelische Entwicklung des Kindes oder des Jugendlichen oder des jungen Volljährigen gefährdet oder geschädigt ist und zur Abwendung der Gefahr oder zur Beseitigung des Schadens eine besondere erzieherische Hilfe notwendig ist, die nur durch das Landesjugendamt sichergestellt werden kann. Satz 1 gilt nicht in den Ländern, in denen am Tage vor dem Inkrafttreten dieses Gesetzes aufgrund Landesrechts das Jugendamt für die Ausführung der Freiwilligen Erziehungshilfe und der Fürsorgeerziehung nach den §§ 62 bis 77 des Gesetzes für Jugendwohlfahrt zuständig war.
 
@@ -311,8 +298,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Bis zum 31. Dezember 1994 ist der überörtliche Träger auskunftspflichtig für Erhebungen nach Artikel 1 § 99 Abs. 1 Nr. 3, sofern nicht Landesrecht nach Absatz 2 eine andere Regelung trifft.
 
-
-## Art 16 – Fortgeltung von Verwaltungsakten
+# Art 16 – Fortgeltung von Verwaltungsakten
 
 Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
@@ -324,8 +310,7 @@ Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
 4. eine aufgrund des § 53 des Gesetzes für Jugendwohlfahrt erteilte Eignungserklärung als Erlaubnis nach Artikel 1 § 54 Abs. 2 dieses Gesetzes.
 
-
-## Art 17 – Öffentlich-rechtliche Streitigkeiten
+# Art 17 – Öffentlich-rechtliche Streitigkeiten
 
 (1) Für Verfahren in Angelegenheiten nach dem Gesetz für Jugendwohlfahrt in der Fassung der Bekanntmachung vom 25. April 1977 (BGBl. I S. 633, 795), zuletzt geändert durch Artikel 6 § 8 des Gesetzes vom 25. Juli 1986 (BGBl. I S. 1142), die einen vor dem Inkrafttreten dieses Gesetzes bekanntgegebenen Verwaltungsakt betreffen oder vor dem Inkrafttreten dieses Gesetzes bei den Verwaltungsgerichten anhängig geworden sind und deren Rechtsgrundlage durch dieses Gesetz geändert worden oder erloschen ist, gelten die nachstehenden besonderen Vorschriften.
 
@@ -345,8 +330,7 @@ Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
 § 161 Abs. 2 der Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
 
-
-## Art 18 – Verfahren vor dem Vormundschaftsgericht
+# Art 18 – Verfahren vor dem Vormundschaftsgericht
 
 (1) Für Verfahren in Angelegenheiten nach dem Gesetz für Jugendwohlfahrt in der Fassung der Bekanntmachung vom 25. April 1977 (BGBl. I S. 633, 795), zuletzt geändert durch Artikel 6 § 8 des Gesetzes vom 25. Juli 1986 (BGBl. I S. 1142), die vor dem Inkrafttreten dieses Gesetzes bei den Vormundschaftsgerichten anhängig geworden sind und deren Rechtsgrundlage durch dieses Gesetz geändert oder erloschen ist, gelten die nachstehenden besonderen Vorschriften.
 
@@ -356,23 +340,19 @@ Nach dem Tag des Inkrafttretens dieses Gesetzes gelten fort:
 
 (4) Eine vor dem Inkrafttreten dieses Gesetzes nach § 57 des Gesetzes für Jugendwohlfahrt angeordnete Erziehungsbeistandschaft und eine nach den §§ 65 und 67 des Gesetzes für Jugendwohlfahrt angeordnete Fürsorgeerziehung hebt das Vormundschaftsgericht von Amts wegen auf und prüft gleichzeitig, ob Maßnahmen nach § 1666 des Bürgerlichen Gesetzbuchs erforderlich sind.
 
-
-## Art 19 – Eintragungen im Erziehungsregister
+# Art 19 – Eintragungen im Erziehungsregister
 
 Eintragungen über die Anordnung der Erziehungsbeistandschaft oder der Fürsorgeerziehung durch den Vormundschaftsrichter werden aus dem Erziehungsregister entfernt.
 
-
-## Art 20 – Einschränkung von Grundrechten
+# Art 20 – Einschränkung von Grundrechten
 
 Die Grundrechte der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## Art 21 – Zuständigkeit für die Kostenerstattung aufgrund der deutsch-schweizerischen Fürsorgevereinbarung
+# Art 21 – Zuständigkeit für die Kostenerstattung aufgrund der deutsch-schweizerischen Fürsorgevereinbarung
 
 Deutsche Fürsorgestelle im Sinne der Erklärung der Bevollmächtigten der Regierung der Bundesrepublik Deutschland zum Schlußprotokoll zur Vereinbarung zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Fürsorge für Hilfsbedürftige vom 14. Juli 1952 (BGBl. 1953 II S. 32) ist für Leistungen der Jugendhilfe das Landesjugendamt, in dessen Bereich das Kind oder der Jugendliche geboren ist. Liegt der Geburtsort nicht im Geltungsbereich dieses Gesetzes oder ist er nicht zu ermitteln, so ist das Landesjugendamt Berlin zuständig.
 
-
-## Art 22 – Stadtstaatenklausel
+# Art 22 – Stadtstaatenklausel
 
 Die Länder Berlin, Bremen und Hamburg können zur Anpassung an ihren besonderen Verwaltungsaufbau abweichen von den Vorschriften dieses Gesetzes über
 
@@ -382,7 +362,6 @@ Die Länder Berlin, Bremen und Hamburg können zur Anpassung an ihren besonderen
 
 3. die Bildung, Zusammensetzung und die Befugnisse von Jugendhilfe- und Landesjugendhilfeausschüssen; dabei haben sie für eine angemessene Beteiligung der anerkannten Träger der freien Jugendhilfe zu sorgen.
 
-
-## Art 23 – Inkrafttreten
+# Art 23 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1991 in Kraft.

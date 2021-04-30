@@ -1,20 +1,15 @@
-# [POP-Abfall-ÜberwV] Verordnung über die Getrenntsammlung und Überwachung von nicht gefährlichen Abfällen mit persistenten organischen Schadstoffen  (POP-Abfall-Überwachungs-Verordnung - POP-Abfall-ÜberwV)
-
-Ausfertigungsdatum: 17.07.2017
-
+% Verordnung über die Getrenntsammlung und Überwachung von nicht gefährlichen Abfällen mit persistenten organischen Schadstoffen  (POP-Abfall-Überwachungs-Verordnung - POP-Abfall-ÜberwV)
+% Ausfertigungsdatum: 17.07.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Erzeuger, Besitzer, Sammler, Beförderer, Händler, Makler und Entsorger von POP-haltigen Abfällen.
 
 (2) Diese Verordnung gilt nicht für die Verbringung von Abfällen im Sinne der Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (ABl. L 190 vom 12.7.2006, S. 1; L 318 vom 28.11.2008, S. 15; L 334 vom 13.12.2013, S. 46; L 277 vom 22.10.2015, S. 61), die zuletzt durch die Verordnung (EU) 2015/2002 (ABl. L 294 vom 11.11.2015, S. 1) geändert worden ist, in der jeweils geltenden Fassung. Im Fall einer Verbringung von Abfällen in das Bundesgebiet, die zur vorläufigen Verwertung oder Beseitigung bestimmt sind, gilt diese Verordnung abweichend von Satz 1 ab dem Abschluss dieser vorläufigen Verwertung oder Beseitigung, wenn sie mit einer weiteren Verwertung oder Beseitigung im Bundesgebiet verbunden ist.
 
-
-## § 2 – POP-haltige Abfälle
+# § 2 – POP-haltige Abfälle
 
 POP-haltige Abfälle im Sinne dieser Verordnung sind
 
@@ -57,8 +52,7 @@ ii) gebrauchte elektrische und elektronische Geräte mit Ausnahme derjenigen, di
 
 3. in einer Anlage aussortierte Abfälle, die die in Nummer 1 Buchstabe a bis c genannten Anforderungen erfüllen und hinsichtlich der Art und Zusammensetzung den in Nummer 1 Buchstabe d genannten Abfallarten entsprechen.
 
-
-## § 3 – Getrennte Sammlung und Beförderung; Vermischungsverbot
+# § 3 – Getrennte Sammlung und Beförderung; Vermischungsverbot
 
 (1) Erzeuger und Besitzer von POP-haltigen Abfällen haben diese getrennt von anderen Abfällen zu sammeln und zu befördern, soweit dies zur Erfüllung der Anforderungen nach § 7 Absatz 2 bis 4 und § 8 Absatz 1 oder nach § 15 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes erforderlich ist.
 
@@ -84,8 +78,7 @@ sicherzustellen, und
 
 2. die Trennung technisch möglich und wirtschaftlich zumutbar ist.
 
-
-## § 4 – Nachweispflichten
+# § 4 – Nachweispflichten
 
 (1) Erzeuger, Besitzer, Sammler, Beförderer und Entsorger von POP-haltigen Abfällen haben sowohl der zuständigen Behörde gegenüber als auch untereinander die ordnungsgemäße Entsorgung der Abfälle gemäß Satz 2 nachzuweisen. Der Nachweis wird geführt
 
@@ -105,8 +98,7 @@ Die Teile 2 und 4 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298),
 
 (6) Die Nachweispflichten nach Absatz 1 gelten nicht für private Haushaltungen.
 
-
-## § 5 – Registerpflichten
+# § 5 – Registerpflichten
 
 (1) Erzeuger, Besitzer, Sammler, Beförderer, Händler und Makler von POP-haltigen Abfällen haben ein Register zu führen, in dem hinsichtlich der Vorgänge nach Anlage 1 oder Anlage 2 des Kreislaufwirtschaftsgesetzes folgende Angaben verzeichnet sind:
 
@@ -122,8 +114,7 @@ Die Teile 3 und 4 der Nachweisverordnung gelten entsprechend.
 
 (4) Die Registerpflichten nach Absatz 1 gelten nicht für private Haushaltungen.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 

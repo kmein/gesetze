@@ -1,25 +1,19 @@
-# [SAZV] Verordnung über die Arbeitszeit der Soldatinnen und Soldaten  (Soldatenarbeitszeitverordnung - SAZV)
-
-Ausfertigungsdatum: 16.11.2015
-
+% Verordnung über die Arbeitszeit der Soldatinnen und Soldaten  (Soldatenarbeitszeitverordnung - SAZV)
+% Ausfertigungsdatum: 16.11.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30c Absatz 5 in Verbindung mit § 93 Absatz 2 Nummer 5 des Soldatengesetzes, von denen § 30c Absatz 5 durch Artikel 5 Nummer 7 und § 93 Absatz 2 Nummer 5 durch Artikel 5 Nummer 18 des Gesetzes vom 13. Mai 2015 (BGBl. I S. 706) eingefügt worden ist, verordnet das Bundesministerium der Verteidigung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für alle Soldatinnen und Soldaten, die im Geschäftsbereich des Bundesministeriums der Verteidigung verwendet werden.
 
 (2) § 30c Absatz 1 bis 3 des Soldatengesetzes und diese Verordnung gelten nicht für Soldatinnen und Soldaten, die zur Wahrnehmung internationaler Aufgaben zu den in der Anlage aufgeführten militärischen Stellen versetzt oder kommandiert sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -63,13 +57,11 @@ b) vom Ende der dienstlichen Tätigkeit an einem Tag bis zum Beginn der dienstli
 
 c) vom Ende der dienstlichen Tätigkeit bis zur Abreise.
 
-
-## § 3 – Zuständigkeit
+# § 3 – Zuständigkeit
 
 Für Maßnahmen nach dieser Verordnung ist das Bundesministerium der Verteidigung zuständig, soweit nichts Abweichendes bestimmt ist. Das Bundesministerium der Verteidigung kann seine Zuständigkeiten auf andere Dienststellen seines Geschäftsbereichs übertragen.
 
-
-## § 4 – Arbeitszeit
+# § 4 – Arbeitszeit
 
 Arbeitszeit ist insbesondere nicht:
 
@@ -93,8 +85,7 @@ Arbeitszeit ist insbesondere nicht:
 
 10. Freizeitsport, auch wenn er dem Erhalt der Gesundheit und der körperlichen Leistungsfähigkeit dient.
 
-
-## § 5 – Regelmäßige wöchentliche Arbeitszeit
+# § 5 – Regelmäßige wöchentliche Arbeitszeit
 
 (1) Die regelmäßige wöchentliche Arbeitszeit kann auf Antrag von 41 auf 40 Stunden verkürzt werden für:
 
@@ -116,8 +107,7 @@ Die Verkürzung beginnt mit Beginn des Monats der Antragstellung, sofern die Vor
 
 (5) Die durchschnittliche wöchentliche Arbeitszeit darf in einem Zeitraum von zwölf Monaten einschließlich der geleisteten Mehrarbeit 48 Stunden nicht überschreiten.
 
-
-## § 5a – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten als fliegende Besatzung
+# § 5a – Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten als fliegende Besatzung
 
 (1) Für Soldatinnen und Soldaten, die als fliegende Besatzung Tätigkeiten zur Überwachung des nationalen Luftraums oder im maritimen Such- und Rettungsdienst der Streitkräfte ausüben, darf bis zum 31. Dezember 2023 abweichend von § 5 Absatz 5 die durchschnittliche wöchentliche Arbeitszeit in einem Zeitraum von zwölf Monaten 54 Stunden nicht überschreiten. Die betroffenen Soldatinnen und Soldaten sind über die für sie geltende höchstzulässige durchschnittliche wöchentliche Arbeitszeit zu unterrichten.
 
@@ -149,8 +139,7 @@ b) am ersten und letzten Tag der ununterbrochenen Geltung der höchstzulässigen
 
 Das Bundesministerium der Verteidigung, das Kommando Luftwaffe und das Marinekommando löschen die Liste spätestens zwei Jahre nach dem Ende des Berichtszeitraums.
 
-
-## § 6 – Regelmäßige tägliche Arbeitszeit
+# § 6 – Regelmäßige tägliche Arbeitszeit
 
 (1) Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind festzulegen. Die regelmäßige tägliche Arbeitszeit darf 13 Stunden einschließlich der Pausen nicht überschreiten. Von Satz 2 kann abgewichen werden, wenn dienstliche Gründe dies erfordern, insbesondere in folgenden Bereichen:
 
@@ -170,8 +159,7 @@ Das Bundesministerium der Verteidigung, das Kommando Luftwaffe und das Marinekom
 
 (2) Bei Teilzeitbeschäftigung ist die regelmäßige tägliche Arbeitszeit innerhalb der Grenzen nach Absatz 1 individuell festzulegen.
 
-
-## § 7 – Ruhepausen und Ruhezeiten
+# § 7 – Ruhepausen und Ruhezeiten
 
 (1) Die Arbeit ist spätestens nach 6 Stunden durch eine Ruhepause von mindestens 30 Minuten zu unterbrechen. Nach mehr als 9 Stunden muss die Ruhepause insgesamt mindestens 45 Minuten betragen. Ruhepausen können in Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden.
 
@@ -181,25 +169,21 @@ Das Bundesministerium der Verteidigung, das Kommando Luftwaffe und das Marinekom
 
 (4) Von den Absätzen 1 und 3 kann in entsprechender Anwendung des § 6 Absatz 1 Satz 3 abgewichen werden.
 
-
-## § 8 – Dienstfreie Tage
+# § 8 – Dienstfreie Tage
 
 Samstag, Heiligabend und Silvester sind grundsätzlich dienstfrei. Aus dienstlichen Gründen kann an diesen Tagen, an Sonntagen und an gesetzlich anerkannten Feiertagen Dienst befohlen oder angeordnet werden.
 
-
-## § 9 – Schichtdienst
+# § 9 – Schichtdienst
 
 (1) Sind die Dienststunden so festgelegt, dass die regelmäßige tägliche Arbeitszeit von Soldatinnen und Soldaten im Rahmen der regelmäßigen wöchentlichen Arbeitszeit dauerhaft überschritten wird, ist der Dienstbetrieb im Schichtdienst durchzuführen.
 
 (2) Von Schichtdienst soll abgesehen werden, wenn die Überschreitung der regelmäßigen täglichen Arbeitszeit durch Dienstbefreiung oder im Rahmen der gleitenden Arbeitszeit ausgeglichen werden kann.
 
-
-## § 10 – Mobiles Arbeiten
+# § 10 – Mobiles Arbeiten
 
 Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort als dem Arbeitsplatz zu leisten, wenn dienstliche Gründe nicht entgegenstehen.
 
-
-## § 11 – Dienstreisen
+# § 11 – Dienstreisen
 
 (1) Bei Dienstreisen ist die Zeit, die zur Erledigung von Dienstgeschäften außerhalb der Dienststätte benötigt wird, Arbeitszeit. Bei ganz- oder mehrtägigen Dienstreisen gilt die regelmäßige tägliche Arbeitszeit als geleistet.
 
@@ -213,15 +197,13 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 (4) Überschreiten bei Dienstreisen, die über die regelmäßige tägliche Arbeitszeit hinausgehen, die nicht anrechenbaren Reisezeiten in einem Kalendermonat insgesamt 15 Stunden, so ist innerhalb von zwölf Monaten auf Antrag ein Viertel der über 15 Stunden hinausgehenden Zeit auszugleichen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei gleitender Arbeitszeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben. Der Antrag ist spätestens am Ende des Kalendermonats zu stellen, der auf den Kalendermonat folgt, in dem die nicht anrechenbaren Reisezeiten angefallen sind.
 
-
-## § 12 – Rufbereitschaft
+# § 12 – Rufbereitschaft
 
 (1) Zeiten der Rufbereitschaft sind keine Arbeitszeit. Hat die Soldatin oder der Soldat jedoch über die Arbeitszeit hinaus mehr als 10 Stunden Rufbereitschaft im Kalendermonat, ist innerhalb von zwölf Monaten ein Achtel der über 10 Stunden hinausgehenden Zeit auszugleichen. Bei fester Arbeitszeit ist eine entsprechende Dienstbefreiung zu gewähren. Bei gleitender Arbeitszeit wird diese Zeit dem Gleitzeitkonto gutgeschrieben.
 
 (2) Wird eine Soldatin oder ein Soldat in Zeiten der Rufbereitschaft tatsächlich beansprucht, ist dies Arbeitszeit und nicht als Zeit der Rufbereitschaft anzurechnen. Als Zeit der tatsächlichen Inanspruchnahme gilt die Zeit vom Eintreffen der Soldatin oder des Soldaten am Ort der Dienstleistung bis zur Beendigung des jeweiligen Auftrages.
 
-
-## § 13 – Bereitschaftsdienst
+# § 13 – Bereitschaftsdienst
 
 (1) Bereitschaftsdienst ist Arbeitszeit.
 
@@ -231,15 +213,13 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 (4) In den Dienststellen sind Listen aller Soldatinnen und Soldaten zu führen, die eine nach § 30c Absatz 3 Satz 2 des Soldatengesetzes verlängerte Arbeitszeit auf Grund von Bereitschaftsdienst leisten. Die Listen sind zwei Jahre nach ihrer Erstellung aufzubewahren und den zuständigen Behörden auf Ersuchen zur Verfügung zu stellen. Auf Ersuchen sind die zuständigen Behörden über diese Soldatinnen und Soldaten zu unterrichten. Nach Ablauf der Frist nach Satz 2 sind die Listen zu vernichten.
 
-
-## § 14 – Nachtdienst
+# § 14 – Nachtdienst
 
 (1) Die Gestaltung von Nachtdienst muss der besonderen Beanspruchung der Arbeitskraft der Soldatin oder des Soldaten Rechnung tragen. Die Arbeitszeit, in der Nachtdienst verrichtet wird, darf innerhalb von zwölf Monaten im Durchschnitt 8 Stunden pro 24-Stunden-Zeitraum nicht überschreiten.
 
 (2) Ist die Arbeit mit besonderen Gefahren, mit einer erheblichen körperlichen Belastung oder mit erheblicher geistiger Anspannung verbunden, darf in einem 24-Stunden-Zeitraum, in dem Nachtdienst verrichtet wird, die Arbeitszeit nicht mehr als 8 Stunden betragen. § 6 Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 15 – Mehrarbeit
+# § 15 – Mehrarbeit
 
 (1) Der Dienstbetrieb ist grundsätzlich so auszugestalten, dass die regelmäßige wöchentliche Arbeitszeit oder die im Rahmen der Teilzeitbeschäftigung festgelegte Arbeitszeit hierfür ausreicht.
 
@@ -253,8 +233,7 @@ Soldatinnen oder Soldaten kann gestattet werden, den Dienst an einem anderen Ort
 
 (6) Die Anordnung, der Befehl, die Genehmigung und der Ausgleich von Mehrarbeit sind gesondert zu erfassen. Die hierbei erhobenen und gespeicherten Daten sind nach Ablauf des Jahres, in dem sie entstanden sind, fünf weitere Jahre aufzubewahren und anschließend zu löschen.
 
-
-## § 16 – Gleitende Arbeitszeit
+# § 16 – Gleitende Arbeitszeit
 
 (1) Das Bundesministerium der Verteidigung kann gleitende Arbeitszeit ermöglichen, soweit dienstliche Gründe dem nicht entgegenstehen. Die zur Erfüllung der Aufgaben erforderliche Anwesenheit in der Dienststelle haben die Vorgesetzten sowie die Soldatinnen und Soldaten sicherzustellen.
 
@@ -280,11 +259,9 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 (9) Verstöße gegen die Regelungen zur gleitenden Arbeitszeit dürfen der oder dem unmittelbaren Vorgesetzten mitgeteilt werden.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Automatisierte Zeiterfassung
+# § 18 – Automatisierte Zeiterfassung
 
 (1) Das Bundesministerium der Verteidigung kann eine automatisierte Zeiterfassung auch unabhängig von der Einführung einer gleitenden Arbeitszeit für einzelne Dienststellen, militärische Organisationsbereiche oder seinen gesamten Geschäftsbereich einführen. Die erfassten Daten sind mindestens drei Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, aufzubewahren. Das Bundesministerium der Verteidigung legt fest, ob die Daten entweder spätestens sechs Monate nach Ablauf des Abrechnungszeitraums oder spätestens 13 Monate nach Ablauf des Kalendermonats, in dem sie erhoben worden sind, zu löschen sind.
 
@@ -292,8 +269,7 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 (3) Verstöße gegen Arbeitszeitregelungen dürfen der oder dem unmittelbaren Vorgesetzten mitgeteilt werden.
 
-
-## § 19 – Führungskräfte
+# § 19 – Führungskräfte
 
 (1) Die Regelungen dieses Abschnitts zur regelmäßigen wöchentlichen Arbeitszeit, zur täglichen und wöchentlichen Ruhezeit, zu Ruhepausen, zur wöchentlichen Höchstarbeitszeit und zur Dauer der Nachtarbeit gelten nicht für Soldatinnen und Soldaten von der Besoldungsgruppe B 6 an aufwärts, die verwendet werden
 
@@ -307,27 +283,23 @@ Vor einer Versetzung ist das Gleitzeitkonto grundsätzlich auszugleichen.
 
 (3) Die Pflicht der Vorgesetzten der in Absatz 1 genannten Soldatinnen und Soldaten, für die Sicherheit und Gesundheit ihrer Untergebenen zu sorgen, bleibt unberührt.
 
-
-## § 20 – Nichtanwendung des Abschnitts 2
+# § 20 – Nichtanwendung des Abschnitts 2
 
 (1) Bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes sind die Bestimmungen des Abschnitts 2 nicht anzuwenden.
 
 (2) Zeiten, während derer Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes verrichtet werden, werden bei der Berechnung der durchschnittlichen wöchentlichen Arbeitszeit nicht berücksichtigt. Das gilt auch für Freistellungszeiten, die aus Diensten nach § 30c Absatz 4 des Soldatengesetzes resultieren.
 
-
-## § 21 – Anordnung von Dienst
+# § 21 – Anordnung von Dienst
 
 (1) Bei den in § 30c Absatz 4 des Soldatengesetzes genannten Tätigkeiten ist der Dienst im Voraus und für ganze Kalendertage anzuordnen. Soweit es zwingend erforderlich ist, darf die Anordnung am selben Kalendertag erfolgen; in diesem Fall gilt der Dienst des gesamten Tages als für die Tätigkeit nach § 30c Absatz 4 des Soldatengesetzes geleistet. Die Anordnung erfolgt bei den in § 30c Absatz 4 Nummer 2 bis 5 des Soldatengesetzes genannten Tätigkeiten durch die zuständige Inspekteurin oder den zuständigen Inspekteur. Sie oder er kann die Anordnungsbefugnis nachgeordneten Stellen übertragen.
 
 (2) Geleisteter Dienst bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes ist einschließlich seiner Anordnung und seines Ausgleichs zu erfassen. Die hierbei erhobenen Daten sind nach Ablauf des Jahres, in dem der Dienst geleistet worden ist, fünf Jahre aufzubewahren und anschließend zu löschen.
 
-
-## § 22 – Umgang mit besonderen zeitlichen Belastungen
+# § 22 – Umgang mit besonderen zeitlichen Belastungen
 
 Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die besonderen zeitlichen Belastungen der Soldatinnen und Soldaten so gering wie möglich halten und nach Phasen extremer Belastung Ruhezeiten und Ruhepausen gewähren.
 
-
-## § 23 – Ausgleich von Belastungen
+# § 23 – Ausgleich von Belastungen
 
 (1) Belastungen bei Tätigkeiten nach § 30c Absatz 4 des Soldatengesetzes sind auszugleichen.
 
@@ -347,8 +319,7 @@ Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die beso
 
 3. nach Beendigung der Tätigkeit in unmittelbarem zeitlichen Zusammenhang mindestens ein dienstfreier Tag aus bestehenden Ansprüchen auf Urlaub, Dienstbefreiung und Freistellung vom Dienst zu gewähren ist; über einen weiteren zeitlichen Ausgleich wird in Abhängigkeit von der individuellen Belastung entschieden.
 
-
-## § 24 – Inkrafttreten, Außerkrafttreten
+# § 24 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
@@ -356,8 +327,7 @@ Die Vorgesetzten sollen unter Berücksichtigung der militärischen Lage die beso
 
 (3) § 5a tritt am 31. Dezember 2023 außer Kraft.
 
-
-## Anlage – (zu § 1 Absatz 2)
+# Anlage – (zu § 1 Absatz 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2020, 240 - 241)
 

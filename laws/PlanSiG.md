@@ -1,15 +1,11 @@
-# [PlanSiG] Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie   (Planungssicherstellungsgesetz - PlanSiG)
-
-Ausfertigungsdatum: 20.05.2020
-
+% Gesetz zur Sicherstellung ordnungsgemäßer Planungs- und Genehmigungsverfahren während der COVID-19-Pandemie   (Planungssicherstellungsgesetz - PlanSiG)
+% Ausfertigungsdatum: 20.05.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für Verfahren nach
 
@@ -63,15 +59,13 @@ Dieses Gesetz gilt für Verfahren nach
 
 Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fassung anzuwenden.
 
-
-## § 2 – Ortsübliche und öffentliche Bekanntmachungen
+# § 2 – Ortsübliche und öffentliche Bekanntmachungen
 
 (1) Ist in Verfahren nach den in § 1 genannten Gesetzen eine ortsübliche oder öffentliche Bekanntmachung angeordnet und ist nach den dafür geltenden Vorschriften der Anschlag an einer Amtstafel oder die Auslegung zur Einsichtnahme vorgesehen, so können der Anschlag oder die Auslegung durch eine Veröffentlichung des Inhalts der Bekanntmachung im Internet ersetzt werden, wenn die jeweilige Bekanntmachungsfrist spätestens mit Ablauf des 31. Dezember 2022 endet. Zusätzlich hat zumindest eine Bekanntmachung in einem amtlichen Veröffentlichungsblatt oder einer örtlichen Tageszeitung zu erfolgen.
 
 (2) Für die Veröffentlichung im Internet gilt § 27a Absatz 1 Satz 2 und Absatz 2 des Verwaltungsverfahrensgesetzes entsprechend.
 
-
-## § 3 – Auslegung von Unterlagen oder Entscheidungen
+# § 3 – Auslegung von Unterlagen oder Entscheidungen
 
 (1) Ist in Verfahren nach den in § 1 genannten Gesetzen eine Auslegung von Unterlagen oder Entscheidungen angeordnet, auf die nach den für die Auslegung geltenden Vorschriften nicht verzichtet werden kann, so kann die Auslegung durch eine Veröffentlichung im Internet ersetzt werden, wenn die jeweilige Auslegungsfrist spätestens mit Ablauf des 31. Dezember 2022 endet. Für die Veröffentlichung im Internet gilt § 27a Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes entsprechend. In der Bekanntmachung der Auslegung ist darauf hinzuweisen, dass und wo die Veröffentlichung im Internet erfolgt. Soweit Regelungen in den in § 1 genannten Gesetzen den Zugang über ein zentrales Internetportal vorsehen, bleiben diese unberührt. Der Vorhabenträger hat Anspruch darauf, dass seine Betriebs- und Geschäftsgeheimnisse von der Behörde nicht unbefugt offenbart werden. Er kann der Veröffentlichung im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet. Widerspricht der Vorhabenträger der Veröffentlichung im Internet, hat die Behörde das Verfahren bis zu einer Auslegung auszusetzen.
 
@@ -82,15 +76,13 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 (+++ § 3 Abs. 1 Satz 5 bis 7: Zur Geltung vgl. § 5 Abs. 4 Satz 5 +++)  
 (+++ § 3 Abs. 3: Zur Geltung vgl. § 5 Abs. 7 +++)
 
-
-## § 4 – Erklärungen zur Niederschrift
+# § 4 – Erklärungen zur Niederschrift
 
 (1) In Verfahren nach den in § 1 genannten Gesetzen kann die Abgabe von Erklärungen zur Niederschrift bei der Behörde ausgeschlossen werden, wenn die jeweilige Erklärungsfrist spätestens mit Ablauf des 31. Dezember 2022 endet und die zuständige Behörde festgestellt hat, dass innerhalb der Erklärungsfrist eine Entgegennahme zur Niederschrift nicht oder nur mit unverhältnismäßigem Aufwand möglich sein würde.
 
 (2) In Fällen des Absatzes 1 hat die zuständige Behörde einen Zugang für die Abgabe von elektronischen Erklärungen bereitzuhalten. In den Bekanntmachungen, in denen sonst auf die Möglichkeit der Abgabe von Erklärungen zur Niederschrift hingewiesen wird, ist auf die Möglichkeit der Abgabe elektronischer Erklärungen und den Ausschluss der Abgabe von Erklärungen zur Niederschrift hinzuweisen.
 
-
-## § 5 – Erörterungstermine, mündliche Verhandlungen und Antragskonferenzen
+# § 5 – Erörterungstermine, mündliche Verhandlungen und Antragskonferenzen
 
 (1) Ist in Verfahren nach den in § 1 genannten Gesetzen die Durchführung eines Erörterungstermins oder einer mündlichen Verhandlung in das Ermessen der Behörde gestellt, können bei der Ermessensentscheidung auch geltende Beschränkungen aufgrund der COVID-19-Pandemie und das Risiko der weiteren Ausbreitung des Virus berücksichtigt werden.
 
@@ -106,8 +98,7 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 (7) § 3 Absatz 3 gilt entsprechend.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 (1) Die Regelungen dieses Gesetzes sind auch auf bereits vor Inkrafttreten dieses Gesetzes begonnene, aber noch nicht abgeschlossene Verfahren anwendbar. Ein Verfahrensschritt, der bereits begonnen wurde, ist jedoch zu wiederholen, wenn er nach diesem Gesetz durchgeführt werden soll. Abweichend von Satz 2 ist ein Verfahrensschritt, der bereits vor dem 16. März 2020 begonnen wurde, nicht zu wiederholen, wenn der Beteiligungsschritt in diesem Verfahrensschritt, der teilweise oder ganz entfallen oder erschwert worden ist, nach diesem Gesetz hätte entfallen können und lediglich der Hinweis auf das Unterbleiben einer einzelnen Beteiligungsmöglichkeit vorab nicht erteilt werden konnte.
 
@@ -115,8 +106,7 @@ Die in den Nummern 1 bis 24 genannten Gesetze sind in ihrer jeweils geltenden Fa
 
 (3) Die für die in § 1 genannten Verfahren geltenden Fehlerfolgenregelungen sind entsprechend anzuwenden und bleiben im Übrigen unberührt. Fehler bei Bekanntmachungen haben keine Auswirkung auf die Rechtmäßigkeit der Verfahren, wenn der Hinweiszweck der Bekanntmachung erfüllt ist.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

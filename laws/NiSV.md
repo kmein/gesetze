@@ -1,10 +1,7 @@
-# [NiSV] Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen   (NiSV)
-
-Ausfertigungsdatum: 29.11.2018
-
+% Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen   (NiSV)
+% Ausfertigungsdatum: 29.11.2018
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für den Betrieb von Anlagen zur Anwendung nichtionisierender Strahlung am Menschen, die zu kosmetischen oder sonstigen nichtmedizinischen Zwecken gewerblich oder im Rahmen sonstiger wirtschaftlicher Unternehmungen eingesetzt werden. Sie gilt nicht für den Betrieb von UV-Bestrahlungsgeräten im Sinne der UV-Schutz-Verordnung.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 29.11.2018
 
 (3) Die Vorschriften des Arbeitsschutzgesetzes und die auf dieses Gesetz gestützten Rechtsverordnungen bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Anlagen im Sinne dieser Verordnung sind:
 
@@ -59,8 +55,7 @@ c) im Frequenzbereich von 100 Kilohertz bis zu 110 Megahertz aussenden, die bei 
 
 7. elektrische Muskelstimulation: die Stimulation der Körpermuskulatur mit Stromimpulsen durch am Körper angebrachte Elektroden.
 
-
-## § 3 – Allgemeine Anforderungen an den Betrieb
+# § 3 – Allgemeine Anforderungen an den Betrieb
 
 (1) Der Betreiber einer Anlage muss sicherstellen, dass
 
@@ -112,13 +107,11 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (+++ § 3 Abs. 3 Satz 3: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
 
-
-## § 4 – (zukünftig in Kraft)
+# § 4 – (zukünftig in Kraft)
 
 (+++ § 4: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
 
-
-## § 5 – Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen
+# § 5 – Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen
 
 (1) Die erforderliche Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil B und Teil C oder von approbierten Ärztinnen und Ärzten durch entsprechende ärztliche Weiterbildung oder Fortbildung erworben.
 
@@ -126,8 +119,7 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (+++ § 5 Abs. 1: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
 
-
-## § 6 – Fachkunde zur Anwendung von Hochfrequenzgeräten
+# § 6 – Fachkunde zur Anwendung von Hochfrequenzgeräten
 
 (1) Die erforderliche Fachkunde zur Anwendung von Hochfrequenzgeräten wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil B und Teil D oder von approbierten Ärztinnen und Ärzten durch entsprechende ärztliche Weiterbildung oder Fortbildung erworben.
 
@@ -135,18 +127,15 @@ Der Betreiber muss ferner sicherstellen, dass die durchgeführten Anwendungen ge
 
 (+++ § 6 Abs. 1: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
 
-
-## § 7 – (zukünftig in Kraft)
+# § 7 – (zukünftig in Kraft)
 
 (+++ § 7: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
 
-
-## § 8 – Stimulation des Zentralen Nervensystems
+# § 8 – Stimulation des Zentralen Nervensystems
 
 Anlagen zur Stimulation des zentralen Nervensystems am Menschen dürfen nur von approbierten Ärztinnen und Ärzten angewendet werden, die entsprechende fachliche Kenntnisse nach ärztlicher Weiterbildung oder Fortbildung nachweisen.
 
-
-## § 9 – Fachkunde zur Anwendung von Ultraschall
+# § 9 – Fachkunde zur Anwendung von Ultraschall
 
 (1) Die erforderliche Fachkunde zur Anwendung von Ultraschallgeräten wird durch erfolgreiche Teilnahme an einer Schulung gemäß Anlage 3 Teil A in Verbindung mit Anlage 3 Teil B und Teil F oder durch die Approbation als Ärztin oder als Arzt erworben.
 
@@ -154,18 +143,15 @@ Anlagen zur Stimulation des zentralen Nervensystems am Menschen dürfen nur von 
 
 (+++ § 9 Abs. 1: Tritt gem. Art. 20 Abs. 3 Satz 2 V v. 29.11.2018 I 2034 am 31.12.2021 in Kraft +++)
 
-
-## § 10 – Anwendung von Ultraschall an einer schwangeren Person
+# § 10 – Anwendung von Ultraschall an einer schwangeren Person
 
 Bei der Anwendung von Ultraschallgeräten zu nichtmedizinischen Zwecken darf ein Fötus nicht exponiert werden.
 
-
-## § 11 – Anwendung von Magnetresonanzverfahren
+# § 11 – Anwendung von Magnetresonanzverfahren
 
 Magnetresonanztomographen dürfen zu nichtmedizinischen Zwecken am Menschen nur unter Verantwortung einer Ärztin oder eines Arztes mit einer der sachgerechten Bedienung von Magnetresonanztomographen dienenden Fachkunde angewendet werden.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 3 des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen handelt, wer vorsätzlich oder fahrlässig
 
@@ -189,8 +175,7 @@ Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 3 des Gesetzes zum Schutz vor n
 
 10. entgegen § 10 bei der Anwendung von Ultraschallgeräten einen Fötus exponiert.
 
-
-## Anlage 1 – (zu § 2 Absatz 1 Nummer 4 und 5)Werte für Anlagen im Sinne dieser Verordnung
+# Anlage 1 – (zu § 2 Absatz 1 Nummer 4 und 5)Werte für Anlagen im Sinne dieser Verordnung
 
 (Fundstelle: BGBl. I 2018, 2191 - 2192)
 
@@ -218,8 +203,7 @@ c) Referenzwerte für Kontaktströme:
 
   
 
-Die Kontaktstromstärke ist über alle Elektroden zu summieren.  
-  
+Die Kontaktstromstärke ist über alle Elektroden zu summieren.   
   
   
 
@@ -245,8 +229,7 @@ b) Referenzwerte für Kontaktströme:
 
   
 
-Die Kontaktstromstärke ist über alle Elektroden zu summieren.  
-  
+Die Kontaktstromstärke ist über alle Elektroden zu summieren.   
 
 3. Grenzwertausschöpfung von Geräten, die gleichzeitig mehrere Frequenzen verwenden (§ 2 Absatz 1 Nummer 4 und 5)  
   
@@ -255,7 +238,7 @@ a) Summationsformeln für spezifische Absorptionsraten SAR und Leistungsdichten 
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j2034-1_0320.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0320.jpg) |
 
 mit
 
@@ -271,7 +254,7 @@ b) Summationsformeln für induzierte elektrische Felder E<sub>i</sub>
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j2034-1_0330.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0330.jpg) |
 
 mit
 
@@ -283,11 +266,11 @@ c) Summationsformeln für Kontaktströme I<sub>j</sub>
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j2034-1_0340.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0340.jpg) |
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j2034-1_0350.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j2034-1_0350.jpg) |
 
 mit
 
@@ -297,8 +280,7 @@ I<sub>R1,\ j</sub> = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß
 
 I<sub>R2,\ j</sub> = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß Anhang 1 Nummer 2 b)
 
-
-## Anlage 2 – (zu § 3 Absatz 2 Satz 3)Dokumentation der Anwendung
+# Anlage 2 – (zu § 3 Absatz 2 Satz 3)Dokumentation der Anwendung
 
 (Fundstelle: BGBl. I 2018, 2193)
 
@@ -316,8 +298,7 @@ I<sub>R2,\ j</sub> = Referenzwert des Kontaktstromes bei der Frequenz j, gemäß
 
 7. Einverständniserklärung der behandelten Person zur Anwendung.
 
-
-## Anlage 3 – (zu § 5 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und § 9 Absatz 1)Fachkunde
+# Anlage 3 – (zu § 5 Absatz 1, § 6 Absatz 1, § 7 Absatz 1 und § 9 Absatz 1)Fachkunde
 
 (Fundstelle: BGBl. I 2018, 2194 - 2196)
 
@@ -332,8 +313,7 @@ Kürzel
 2. Übersicht Fachkunde für spezifische Anwendungen  
   
 
-Die Anforderungen an die Fachkunde sind abhängig von der Art der Anwendung (Fachkundegruppen).  
-  
+Die Anforderungen an die Fachkunde sind abhängig von der Art der Anwendung (Fachkundegruppen).   
 
 Modul
 

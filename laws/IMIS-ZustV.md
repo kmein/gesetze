@@ -1,10 +1,7 @@
-# [IMIS-ZustV] Verordnung über die Zuständigkeiten von Bundesbehörden im integrierten Mess- und Informationssystem für die Überwachung der Umweltradioaktivität nach dem Strahlenschutzgesetz  (IMIS-Zuständigkeitsverordnung - IMIS-ZustV)
-
-Ausfertigungsdatum: 05.10.2017
-
+% Verordnung über die Zuständigkeiten von Bundesbehörden im integrierten Mess- und Informationssystem für die Überwachung der Umweltradioaktivität nach dem Strahlenschutzgesetz  (IMIS-Zuständigkeitsverordnung - IMIS-ZustV)
+% Ausfertigungsdatum: 05.10.2017
  
-
-## § 1 – Aufgaben des Bundesamtes für Strahlenschutz
+# § 1 – Aufgaben des Bundesamtes für Strahlenschutz
 
 (1) Das Bundesamt für Strahlenschutz ist zuständig
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 05.10.2017
 
 (3) Das Bundesamt für Strahlenschutz ist als Leitstelle für Fragen der Radioaktivitätsüberwachung im Bereich der bergbaulichen Tätigkeiten für die Aufgaben des Strahlenschutzgesetzes nach § 161 Absatz 1 Nummer 2 und 3 in diesem Bereich zuständig.
 
-
-## § 2 – Aufgaben des Deutschen Wetterdienstes
+# § 2 – Aufgaben des Deutschen Wetterdienstes
 
 (1) Der Deutsche Wetterdienst ist zuständig
 
@@ -43,36 +39,31 @@ b) für die Überwachung der Radioaktivität in der hohen Atmosphäre mittels Lu
 
 (3) Der Deutsche Wetterdienst ergänzt mit seinen Messeinrichtungen die Spurenanalyse durch das Bundesamt für Strahlenschutz nach § 1 Absatz 1 Nummer 1.
 
-
-## § 3 – Aufgaben der Physikalisch-Technischen Bundesanstalt
+# § 3 – Aufgaben der Physikalisch-Technischen Bundesanstalt
 
 (1) Die Physikalisch-Technische Bundesanstalt ist im Rahmen der Aufgaben nach § 161 Absatz 1 Nummer 2 des Strahlenschutzgesetzes zuständig für die Bereitstellung von Aktivitätsnormalen.
 
 (2) Die Physikalisch-Technische Bundesanstalt ergänzt mit ihren Messeinrichtungen die Spurenanalyse durch das Bundesamt für Strahlenschutz nach § 1 Absatz 1 Nummer 1.
 
-
-## § 4 – Aufgaben des Johann Heinrich von Thünen-Instituts
+# § 4 – Aufgaben des Johann Heinrich von Thünen-Instituts
 
 (1) Das Johann Heinrich von Thünen-Institut, Bundesinstitut für ländliche Räume, Wald und Fischerei, ist zuständig für die Aufgaben nach § 161 Absatz 1 Nummer 1 Buchstabe c des Strahlenschutzgesetzes im Bereich Meeresorganismen in Nord- und Ostsee, einschließlich der Küstengewässer, der ausschließlichen Wirtschaftszone und des Festlandsockels.
 
 (2) Das Johann Heinrich von Thünen-Institut, Bundesinstitut für ländliche Räume, Wald und Fischerei, ist als Leitstelle zur Überwachung der Umweltradioaktivität für die Aufgaben nach § 161 Absatz 1 Nummer 2 und 3 des Strahlenschutzgesetzes in den Bereichen Fische, Fischprodukte, Krusten- und Schalentiere und Wasserpflanzen zuständig.
 
-
-## § 5 – Aufgaben der Bundesanstalt für Gewässerkunde
+# § 5 – Aufgaben der Bundesanstalt für Gewässerkunde
 
 (1) Die Bundesanstalt für Gewässerkunde ist für die Aufgaben nach § 161 Absatz 1 Nummer 1 Buchstabe c des Strahlenschutzgesetzes im Bereich Bundeswasserstraßen außer Küstengewässern für die Ermittlung der Radioaktivität in Wasser, Schwebstoffen und Sediment zuständig.
 
 (2) Die Bundesanstalt für Gewässerkunde ist als Leitstelle zur Überwachung der Umweltradioaktivität im Rahmen der Aufgaben nach § 161 Absatz 1 Nummer 2 und 3 des Strahlenschutzgesetzes für den Bereich oberirdische Binnengewässer zuständig.
 
-
-## § 6 – Aufgaben des Bundesamtes für Seeschifffahrt und Hydrographie
+# § 6 – Aufgaben des Bundesamtes für Seeschifffahrt und Hydrographie
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für die Aufgaben nach § 161 Absatz 1 Nummer 1 Buchstabe c des Strahlenschutzgesetzes im Bereich Nord- und Ostsee, einschließlich der Küstengewässer, der ausschließlichen Wirtschaftszone und des Festlandsockels für die Ermittlung der Radioaktivität in Meerwasser, Schwebstoffen und Sediment zuständig.
 
 (2) Das Bundesamt für Seeschifffahrt und Hydrographie ist als Leitstelle zur Überwachung der Umweltradioaktivität für die Aufgaben nach § 161 Absatz 1 Nummer 2 und 3 des Strahlenschutzgesetzes für den Bereich Nord- und Ostsee, einschließlich der Küstengewässer, der ausschließlichen Wirtschaftszone und des Festlandsockels, zuständig.
 
-
-## § 7 – Aufgaben des Max Rubner-Instituts
+# § 7 – Aufgaben des Max Rubner-Instituts
 
 (1) Das Max Rubner-Institut, Bundesforschungsinstitut für Ernährung und Lebensmittel, ist als Leitstelle zur Überwachung der Umweltradioaktivität für die Aufgaben nach § 161 Absatz 1 Nummer 2 und 3 des Strahlenschutzgesetzes für die Bereiche Lebensmittel, Futtermittel, Pflanzen als Indikatoren und Boden zuständig.
 

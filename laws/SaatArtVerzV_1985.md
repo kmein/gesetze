@@ -1,30 +1,23 @@
-# [SaatArtVerzV 1985] Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz
-
-Ausfertigungsdatum: 27.08.1985
-
+% Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz
+% Ausfertigungsdatum: 27.08.1985
  
-
-## § 1
+# § 1
 
 Das Artenverzeichnis zum Saatgutverkehrsgesetz erhält die Fassung der Anlage.
 
-
-## § 2
+# § 2
 
 Als im Artenverzeichnis aufgeführt gelten auch Unterlagen und andere Pflanzenteile anderer als der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden, soweit sie mit Material von Pflanzen der in Nummer 2 der Anlage genannten Gemüsearten oder deren Hybriden veredelt werden oder veredelt werden sollen.
 
-
-## § 2a
+# § 2a
 
 (weggefallen)
 
-
-## § 3
+# § 3
 
 (Inkrafttreten)
 
-
-## Anlage – Artenverzeichnis zum Saatgutverkehrsgesetz
+# Anlage – Artenverzeichnis zum Saatgutverkehrsgesetz
 
 (Fundstelle: BGBl. I 2004, 2698 - 2702;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -117,8 +110,7 @@ Spelz, Dinkel
 
 1.1.11
 
-Zea mays L.  
-außer Zea mays L. convar. microsperma Koern. Zea mays L. convar. everta Sturt. und Zea mays L. convar. saccharata Koern.
+Zea mays L. außer Zea mays L. convar. microsperma Koern. Zea mays L. convar. everta Sturt. und Zea mays L. convar. saccharata Koern.
 
 Mais  
 außer Perlmais, Puffmais (Popcorn), Zuckermais und Mais für Zierzwecke

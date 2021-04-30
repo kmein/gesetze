@@ -1,5 +1,3 @@
-# [EspooÜbk] Übereinkommen über die Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen
-
-Ausfertigungsdatum: 25.02.1991
-
+% Übereinkommen über die Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen
+% Ausfertigungsdatum: 25.02.1991
  

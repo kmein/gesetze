@@ -1,15 +1,11 @@
-# [MTAG] Gesetz über technische Assistenten in der Medizin  (MTA-Gesetz - MTAG)
-
-Ausfertigungsdatum: 02.08.1993
-
+% Gesetz über technische Assistenten in der Medizin  (MTA-Gesetz - MTAG)
+% Ausfertigungsdatum: 02.08.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) Wer eine der Berufsbezeichnungen
 
@@ -25,8 +21,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (2) Medizinisch-technische Laboratoriumsassistentinnen und Medizinisch-technische Laboratoriumsassistenten, Medizinisch-technische Radiologieassistentinnen und Medizinisch-technische Radiologieassistenten, Medizinisch-technische Assistentinnen für Funktionsdiagnostik und Medizinisch-technische Assistenten für Funktionsdiagnostik sowie Veterinärmedizinisch-technische Assistentinnen und Veterinärmedizinisch-technische Assistenten, die Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes sind, führen eine der Berufsbezeichnungen nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
-## § 2
+# § 2
 
 (1) Die Erlaubnis nach § 1 ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -78,8 +73,7 @@ Die Bestätigung des partiellen Zugangs wirkt unbefristet. Die Voraussetzungen n
 
 (7) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a
+# § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Medizinisch-technischen Laboratoriumsassistenten, Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte der zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des Medizinisch-technischen Laboratoriumsassistenten, Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind. Die Länder können zur Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 gemeinsame Stellen bestimmen.
 
@@ -87,8 +81,7 @@ Die Bestätigung des partiellen Zugangs wirkt unbefristet. Die Voraussetzungen n
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Abs. 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 2b
+# § 2b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -120,8 +113,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 3
+# § 3
 
 Die Ausbildung soll insbesondere dazu befähigen, bei Personen,
 
@@ -133,13 +125,11 @@ Die Ausbildung soll insbesondere dazu befähigen, bei Personen,
 
 4. die eine Erlaubnis nach § 1 Nr. 4 anstreben, unter Anwendung geeigneter Verfahren labordiagnostische Untersuchungsgänge in der Lebensmittelanalytik, der Lebensmitteltoxikologie, der Spermatologie sowie der in Nummer 1 genannten Gebiete durchzuführen (Ausbildungsziele).
 
-
-## § 4
+# § 4
 
 Die Ausbildung dauert drei Jahre und besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung. Sie wird durch staatlich anerkannte Schulen für technische Assistenten in der Medizin vermittelt. Schulen, die nicht an einem Krankenhaus eingerichtet sind, haben die praktische Ausbildung im Rahmen einer Regelung mit einem Krankenhaus oder anderen geeigneten medizinischen Einrichtungen sicherzustellen. Die Ausbildung schließt mit der staatlichen Prüfung ab.
 
-
-## § 5
+# § 5
 
 Voraussetzung für den Zugang zur Ausbildung ist
 
@@ -147,8 +137,7 @@ Voraussetzung für den Zugang zur Ausbildung ist
 
 2. der Realschulabschluß oder eine gleichwertige Ausbildung oder eine andere abgeschlossene zehnjährige Schulbildung, die den Hauptschulabschluß erweitert, oder eine nach Hauptschulabschluß oder einem gleichwertigen Abschluß abgeschlossene Berufsausbildung von mindestens zweijähriger Dauer.
 
-
-## § 6
+# § 6
 
 (1) Auf die Dauer der Ausbildung werden angerechnet
 
@@ -160,15 +149,13 @@ Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden
 
 (2) Absatz 1 gilt nicht für die Dauer der Ausbildung im Krankenhaus nach § 8 Abs. 3.
 
-
-## § 7
+# § 7
 
 (1) Die zuständige Behörde kann auf Antrag eine andere Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung anrechnen, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
 
 (2) Eine nach den Vorschriften dieses Gesetzes abgeschlossene oder begonnene, jedoch nicht abgeschlossene Ausbildung ist auf Antrag auf eine Ausbildung in einem anderen, in § 1 dieses Gesetzes genannten Ausbildungsgang anzurechnen, soweit die Ausbildungsinhalte gleichwertig sind und die Durchführung der Ausbildung sowie die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
 
-
-## § 8
+# § 8
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin die Mindestanforderungen an die Ausbildung, das Nähere über die staatliche Prüfung und die Urkunden für die Erlaubnisse nach § 1 zu regeln.
 
@@ -190,8 +177,7 @@ Auf Antrag können auch darüber hinausgehende Fehlzeiten berücksichtigt werden
 
 (4) Abweichungen von den in den Absätzen 1 bis 3 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 9
+# § 9
 
 (1) Auf dem Gebiet der Humanmedizin dürfen ausgeübt werden
 
@@ -243,8 +229,7 @@ Ausgenommen von den unter den Nummern 1 bis 3 genannten Tätigkeiten sind einfac
 
 (3) Tätigkeiten, deren Ergebnisse der Erkennung einer Krankheit und der Beurteilung ihres Verlaufs dienen, dürfen von den in § 1 genannten Personen nur auf ärztliche, zahnärztliche oder tierärztliche oder auf Anforderung einer Heilpraktikerin oder eines Heilpraktikers ausgeübt werden.
 
-
-## § 10
+# § 10
 
 § 9 Abs. 1 und 2 findet keine Anwendung auf
 
@@ -258,13 +243,11 @@ Ausgenommen von den unter den Nummern 1 bis 3 genannten Tätigkeiten sind einfac
 
 5. Personen mit einer staatlich geregelten, staatlich anerkannten oder staatlich überwachten abgeschlossenen Ausbildung, wenn sie eine der vorbehaltenen Tätigkeiten nach § 9 ausüben, sofern diese Tätigkeit Gegenstand ihrer Ausbildung und Prüfung war,
 
-5a.  
-Personen mit einer abgeschlossenen Ausbildung aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, denen ein partieller Zugang nach § 2 Absatz 3b bestätigt worden ist und die eine oder mehrere der vorbehaltenen Tätigkeiten nach § 9 ausüben, sofern diese Tätigkeit Gegenstand ihrer Ausbildung war,
+5a. Personen mit einer abgeschlossenen Ausbildung aus einem anderen Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, denen ein partieller Zugang nach § 2 Absatz 3b bestätigt worden ist und die eine oder mehrere der vorbehaltenen Tätigkeiten nach § 9 ausüben, sofern diese Tätigkeit Gegenstand ihrer Ausbildung war,
 
 6. Personen mit einer abgeschlossenen sonstigen medizinischen Ausbildung, die ohne nach den Nummern 1 bis 5 berechtigt zu sein, unter Aufsicht und Verantwortung einer der in Nummer 1 genannten Personen tätig werden.
 
-
-## § 10a
+# § 10a
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Medizinisch-technischen Laboratoriumsassistenten, Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -296,18 +279,15 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
-## § 10b
+# § 10b
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden berechtigt, für jede Dienstleistungserbringung von den zuständigen Behörden des Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf Anforderung der zuständigen Behörden eines Vertragsstaates des Europäischen Wirtschaftsraumes haben die zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung und die gute Führung des Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
 
-
-## § 10c
+# § 10c
 
 Medizinisch-technische Laboratoriumsassistentinnen oder Medizinisch-technische Laboratoriumsassistenten, Medizinisch-technische Radiologieassistentinnen oder Medizinisch-technische Radiologieassistenten, Medizinisch-technische Assistentinnen für Funktionsdiagnostik oder Medizinisch-technische Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-technische Assistentinnen oder Veterinärmedizinisch-technische Assistenten im Sinne des § 10a haben beim Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
-## § 11
+# § 11
 
 (1) Die Entscheidung über die Erteilung der Erlaubnis nach § 2 trifft die zuständige Behörde des Landes, in dem der Antragsteller die Prüfung abgelegt hat.
 
@@ -315,15 +295,13 @@ Medizinisch-technische Laboratoriumsassistentinnen oder Medizinisch-technische L
 
 (3) Die Meldung nach § 10a Abs. 2 und 3 nimmt die zuständige Behörde des Landes entgegen, in dem die Dienstleistung erbracht werden soll oder erbracht worden ist. Sie fordert die Informationen nach § 10b Satz 1 an. Die Informationen nach § 10b Satz 2 werden durch die zuständige Behörde des Landes übermittelt, in dem der Beruf des Medizinisch-technischen Laboratoriumsassistenten, Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung des Herkunftsmitgliedstaats gemäß § 10c erfolgt durch die zuständige Behörde des Landes, in dem die Dienstleistung erbracht wird oder erbracht worden ist. Die Bescheinigungen nach § 10a Abs. 4 stellt die zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf des Medizinisch-technischen Laboratoriumsassistenten, Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten ausübt.
 
-
-## § 12
+# § 12
 
 (1) Ordnungswidrig handelt, wer ohne Erlaubnis eine der in § 1 genannten Berufsbezeichnungen führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 13
+# § 13
 
 (1) Eine nach § 1 oder § 3 des Gesetzes über technische Assistenten in der Medizin vom 8. September 1971 (BGBl. I S. 1515), zuletzt geändert gemäß Artikel 15 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278), erteilte Erlaubnis gilt als Erlaubnis nach § 1 Nr. 1, 2 oder § 1 Nr. 4.
 
@@ -343,13 +321,11 @@ Medizinisch-technische Laboratoriumsassistentinnen oder Medizinisch-technische L
 
 (9)
 
-
-## § 14
+# § 14
 
 Schulen, die technische Assistenten in der Medizin ausbilden und vor Inkrafttreten dieses Gesetzes die staatliche Anerkennung erhalten haben, gelten weiterhin als staatlich anerkannt nach § 4, sofern die Anerkennung nicht zurückgenommen wird.
 
-
-## § 15
+# § 15
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 8 am 1. Januar 1994 in Kraft.
 

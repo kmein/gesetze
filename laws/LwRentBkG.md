@@ -1,22 +1,17 @@
-# [LwRentBkG] Gesetz über die Landwirtschaftliche Rentenbank
-
-Ausfertigungsdatum: 11.05.1949
-
+% Gesetz über die Landwirtschaftliche Rentenbank
+% Ausfertigungsdatum: 11.05.1949
  
-
-## § 1 – Rechtsform, Sitz
+# § 1 – Rechtsform, Sitz
 
 (1) Die Landwirtschaftliche Rentenbank, nachstehend Bank genannt, ist eine bundesunmittelbare Anstalt des öffentlichen Rechts.
 
 (2) Die Bank hat ihren Sitz in Frankfurt am Main. Sie unterhält keine Zweigniederlassungen.
 
-
-## § 1a – Haftung des Bundes
+# § 1a – Haftung des Bundes
 
 Der Bund haftet für die von der Bank aufgenommenen Darlehen und begebenen Schuldverschreibungen, die als Festgeschäfte ausgestalteten Termingeschäfte, die Rechte aus Optionen und andere Kredite an die Bank sowie für Kredite an Dritte, soweit sie von der Bank ausdrücklich gewährleistet werden.
 
-
-## § 2 – Kapital
+# § 2 – Kapital
 
 (1) Das Grundkapital der Bank beträgt 135 Millionen Euro.
 
@@ -24,8 +19,7 @@ Der Bund haftet für die von der Bank aufgenommenen Darlehen und begebenen Schul
 
 (3) Neben der Hauptrücklage (Absatz 2) ist eine besondere Deckungsrücklage zu bilden; sie dient der Schaffung zusätzlicher Sicherheiten für die von der Bank ausgegebenen gedeckten Schuldverschreibungen. Die Deckungsrücklage darf 5 vom Hundert des Nennbetrages der jeweils im Umlauf befindlichen gedeckten Schuldverschreibungen nicht überschreiten. Ihr dürfen nicht mehr als 50 vom Hundert des Jahresüberschusses zugewiesen werden.
 
-
-## § 3 – Geschäftsaufgaben
+# § 3 – Geschäftsaufgaben
 
 (1) Die Bank hat den staatlichen Auftrag, die Landwirtschaft und den ländlichen Raum zu fördern, wobei die jeweiligen Zuständigkeiten des Bundes und der Länder zu beachten sind. Zur Erfüllung ihres Auftrages führt die Bank in folgenden Bereichen nach näherer Bestimmung der Satzung Fördermaßnahmen, insbesondere mittels Finanzierungen, durch:
 
@@ -49,15 +43,13 @@ Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mi
 
 (5) Zur Beschaffung der erforderlichen Mittel kann die Bank Darlehen aufnehmen, ungedeckte und gedeckte Schuldverschreibungen ausgeben, Gewährleistungen übernehmen sowie alle sonstigen banküblichen Finanzierungsinstrumente einsetzen.
 
-
-## § 4 – Sonstige Geschäfte
+# § 4 – Sonstige Geschäfte
 
 (1) Die Bank kann ferner alle Geschäfte und Dienstleistungen betreiben, die mit der Erfüllung ihrer Aufgaben in direktem Zusammenhang stehen. In diesem Rahmen darf sie insbesondere Forderungen und Wertpapiere kaufen und verkaufen sowie Geschäfte und Maßnahmen zur Steuerung und Sicherstellung ihrer finanziellen Liquidität durchführen (Treasury Management) und alle für die Risikosteuerung erforderlichen Geschäfte betreiben.
 
 (2) Der Effektenhandel, das Einlagengeschäft und Zahlungsdienste im Sinne des § 1 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes sind der Bank nur für eigene Rechnung und nur insoweit gestattet, als sie mit der Erfüllung der öffentlichen Förderaufgaben in direktem Zusammenhang stehen.
 
-
-## § 5 – Organe
+# § 5 – Organe
 
 (1) Organe der Bank sind
 
@@ -69,8 +61,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mi
 
 (2) Die Aufgaben und Befugnisse der Organe regelt, soweit sie nicht im Gesetz bestimmt sind, die Satzung.
 
-
-## § 6 – Vorstand
+# § 6 – Vorstand
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die Vorstandsmitglieder werden vom Verwaltungsrat mit einer Mehrheit von mindestens zwei Dritteln seiner Mitglieder bestellt und abberufen. Die Bestellung bedarf der Zustimmung der Aufsichtsbehörde (§ 11 Absatz 1).
 
@@ -78,8 +69,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mi
 
 (3) Der Vorstand vertritt die Bank gerichtlich und außergerichtlich. Die Befugnis zur Vertretung der Bank sowie die Form für Willenserklärungen der vertretungsberechtigten Personen werden durch die Satzung geregelt. Ist eine Willenserklärung der Bank gegenüber abzugeben, so genügt die Abgabe gegenüber einem Mitglied des Vorstandes. Auf die Vertretung der Bank gegenüber ihren Organen sind die für Aktiengesellschaften geltenden Vorschriften entsprechend anzuwenden.
 
-
-## § 7 – Verwaltungsrat
+# § 7 – Verwaltungsrat
 
 (1) Der Verwaltungsrat besteht aus
 
@@ -105,8 +95,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mi
 
 (6) Der Verwaltungsrat beschließt die Satzung und ihre Änderungen. Sie bedürfen der Genehmigung der Aufsichtsbehörde (§ 11 Absatz 1).
 
-
-## § 8 – Anstaltsversammlung
+# § 8 – Anstaltsversammlung
 
 (1) Die Anstaltsversammlung ist die Vertretung der Eigentümer und Pächter der mit der Rentenbankgrundschuld belasteten Grundstücke.
 
@@ -114,8 +103,7 @@ Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mi
 
 (3) Die Anstaltsversammlung nimmt die Berichte des Vorstandes über die Geschäftstätigkeit der Bank und des Verwaltungsrates über die von ihm gefassten Beschlüsse entgegen und berät die Bank in Fragen der Förderung der Landwirtschaft und des ländlichen Raumes sowie bei allgemeinen agrar- und geschäftspolitischen Fragen. Sie beschließt über die Gewinnverwendung gemäß § 9 Absatz 2.
 
-
-## § 9 – Gewinnverwendung
+# § 9 – Gewinnverwendung
 
 (1) Der Bilanzgewinn darf nur für eine das Allgemeininteresse wahrende Förderung der Landwirtschaft und des ländlichen Raumes verwendet werden.
 
@@ -123,13 +111,11 @@ Das Bundesministerium für Ernährung und Landwirtschaft kann im Einvernehmen mi
 
 (3) Mindestens die Hälfte des zur Verteilung kommenden Betrages soll dem Zweckvermögen des Bundes nach dem Gesetz über das Zweckvermögen des Bundes bei der Landwirtschaftlichen Rentenbank vom 12. August 2005 (BGBl. I S. 2363) zugeführt werden, solange dieses von der Bank verwaltet wird und solange die Bank von allen Steuern vom Vermögen, vom Einkommen und vom Gewerbebetrieb befreit ist.
 
-
-## § 10 – Besondere Pflicht der Organe
+# § 10 – Besondere Pflicht der Organe
 
 Sorgfaltspflicht und Verantwortlichkeit der Mitglieder des Vorstandes und des Verwaltungsrates richten sich nach den entsprechenden Vorschriften für Vorstands- und Aufsichtsratsmitglieder der Aktiengesellschaften.
 
-
-## § 11 – Aufsicht
+# § 11 – Aufsicht
 
 (1) Die Bank untersteht der Aufsicht des Bundesministeriums für Ernährung und Landwirtschaft (Aufsichtsbehörde), das seine Entscheidungen im Einvernehmen mit dem Bundesministerium der Finanzen trifft. Die Aufsichtsbehörde trägt dafür Sorge, dass der Geschäftsbetrieb der Bank mit dem öffentlichen Interesse insbesondere an der Förderung der Landwirtschaft und des ländlichen Raumes sowie mit den Gesetzen und der Satzung in Einklang steht.
 
@@ -139,13 +125,11 @@ Sorgfaltspflicht und Verantwortlichkeit der Mitglieder des Vorstandes und des Ve
 
 (4) Im Übrigen ist die Bank in der Verwaltung und Geschäftsführung selbständig, desgleichen in der Anstellung des Personals.
 
-
-## § 12 – Dienstsiegel und öffentliche Urkunden
+# § 12 – Dienstsiegel und öffentliche Urkunden
 
 Die Bank ist berechtigt, ein Dienstsiegel zu führen. § 39a des Beurkundungsgesetzes ist entsprechend anzuwenden. Ordnungsgemäß unterschriebene und mit dem Abdruck des Dienstsiegels versehene Erklärungen der Bank haben die Eigenschaft öffentlich beglaubigter Urkunden.
 
-
-## § 13 – Gedeckte Schuldverschreibungen
+# § 13 – Gedeckte Schuldverschreibungen
 
 (1) Die Bank kann gedeckte Schuldverschreibungen nach Maßgabe der Absätze 2 bis 4 ausgeben.
 
@@ -163,38 +147,30 @@ Die in Satz 2 vorgeschriebene ordentliche Deckung kann vorübergehend durch Guth
 
 (4) Die Aufsichtsbehörde (§ 11 Absatz 1) bestellt nach Anhörung der Bank einen Treuhänder und einen Stellvertreter. Der Treuhänder hat darauf zu achten, dass die Ausgabe, Verwaltung und Deckung der Schuldverschreibungen den gesetzlichen und satzungsmäßigen Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 und 4 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend mit der Maßgabe, dass an die Stelle der Bundesanstalt die in § 11 Absatz 1 genannte Aufsichtsbehörde tritt.
 
-
-## § 13a – Mündelsicherheit
+# § 13a – Mündelsicherheit
 
 Die Schuldverschreibungen der Bank, die nicht auf ausländische Zahlungsmittel lauten, sind zur Anlegung von Mündelgeldern geeignet.
 
-
-## § 14 – Arreste und Zwangsvollstreckungen
+# § 14 – Arreste und Zwangsvollstreckungen
 
 Auf Arreste und Zwangsvollstreckungen in Vermögenswerte, die in das Deckungsregister nach § 13 Absatz 3 eingetragen sind, ist § 29 des Pfandbriefgesetzes entsprechend anzuwenden.
 
-
-## § 15 – Sondervorschrift für Refinanzierungskredite
+# § 15 – Sondervorschrift für Refinanzierungskredite
 
 Kreditinstitute können sich bei der Gewährung von Darlehen aus Mitteln, die sie von der Bank erhalten, die Verzinsung rückständiger Zinsen im Voraus versprechen lassen.
 
-
-## § 16 – Auflösung
+# § 16 – Auflösung
 
 (1) Das Insolvenzverfahren über das Vermögen der Bank ist unzulässig. Die Bank kann nur durch Gesetz aufgelöst werden. Das Gesetz bestimmt über die Verwendung des Vermögens. Es darf nur für eine das Allgemeininteresse wahrende Förderung der Landwirtschaft oder der landwirtschaftlichen Forschung verwendet werden.
 
 (2) Im Falle der Auflösung gehen die Gläubiger der gedeckten Schuldverschreibungen hinsichtlich der nach § 13 Absatz 3 in dem Register eingetragenen Werte den übrigen Gläubigern der Bank im Rang vor. Soweit diese Werte nicht zur Befriedigung der Gläubiger der gedeckten Schuldverschreibungen notwendig sind, stehen sie den übrigen Gläubigern der Bank zur Verfügung.
 
-
-## § 17 – Übergangsregelungen
+# § 17 – Übergangsregelungen
 
 Die bisherigen Deckungsregister der Bank bleiben nach Inkrafttreten des Fünften Gesetzes zur Änderung des Gesetzes über die Landwirtschaftliche Rentenbank als getrennte Deckungsregister neben dem Deckungsregister nach § 13 Absatz 3 bestehen. Die Aufgaben des Treuhänders nach § 13 Absatz 4 erstrecken sich auch auf diese Deckungsregister.
 
+# § 18 – (weggefallen)
 
-## § 18 – (weggefallen)
+# § 19 – (weggefallen)
 
-
-## § 19 – (weggefallen)
-
-
-## § 20 – (Inkrafttreten)
+# § 20 – (Inkrafttreten)

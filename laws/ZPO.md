@@ -1,10 +1,7 @@
-# [ZPO] Zivilprozessordnung
-
-Ausfertigungsdatum: 12.09.1950
-
+% Zivilprozessordnung
+% Ausfertigungsdatum: 12.09.1950
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Buch 1
 
@@ -5068,92 +5065,75 @@ Verwaltungszusammenarbeit
 
 Mehrsprachige Formulare
 
-
-## § 1 – Sachliche Zuständigkeit
+# § 1 – Sachliche Zuständigkeit
 
 Die sachliche Zuständigkeit der Gerichte wird durch das Gesetz über die Gerichtsverfassung bestimmt.
 
-
-## § 2 – Bedeutung des Wertes
+# § 2 – Bedeutung des Wertes
 
 Kommt es nach den Vorschriften dieses Gesetzes oder des Gerichtsverfassungsgesetzes auf den Wert des Streitgegenstandes, des Beschwerdegegenstandes, der Beschwer oder der Verurteilung an, so gelten die nachfolgenden Vorschriften.
 
-
-## § 3 – Wertfestsetzung nach freiem Ermessen
+# § 3 – Wertfestsetzung nach freiem Ermessen
 
 Der Wert wird von dem Gericht nach freiem Ermessen festgesetzt; es kann eine beantragte Beweisaufnahme sowie von Amts wegen die Einnahme des Augenscheins und die Begutachtung durch Sachverständige anordnen.
 
-
-## § 4 – Wertberechnung; Nebenforderungen
+# § 4 – Wertberechnung; Nebenforderungen
 
 (1) Für die Wertberechnung ist der Zeitpunkt der Einreichung der Klage, in der Rechtsmittelinstanz der Zeitpunkt der Einlegung des Rechtsmittels, bei der Verurteilung der Zeitpunkt des Schlusses der mündlichen Verhandlung, auf die das Urteil ergeht, entscheidend; Früchte, Nutzungen, Zinsen und Kosten bleiben unberücksichtigt, wenn sie als Nebenforderungen geltend gemacht werden.
 
 (2) Bei Ansprüchen aus Wechseln im Sinne des Wechselgesetzes sind Zinsen, Kosten und Provision, die außer der Wechselsumme gefordert werden, als Nebenforderungen anzusehen.
 
-
-## § 5 – Mehrere Ansprüche
+# § 5 – Mehrere Ansprüche
 
 Mehrere in einer Klage geltend gemachte Ansprüche werden zusammengerechnet; dies gilt nicht für den Gegenstand der Klage und der Widerklage.
 
-
-## § 6 – Besitz; Sicherstellung; Pfandrecht
+# § 6 – Besitz; Sicherstellung; Pfandrecht
 
 Der Wert wird bestimmt: durch den Wert einer Sache, wenn es auf deren Besitz, und durch den Betrag einer Forderung, wenn es auf deren Sicherstellung oder ein Pfandrecht ankommt. Hat der Gegenstand des Pfandrechts einen geringeren Wert, so ist dieser maßgebend.
 
-
-## § 7 – Grunddienstbarkeit
+# § 7 – Grunddienstbarkeit
 
 Der Wert einer Grunddienstbarkeit wird durch den Wert, den sie für das herrschende Grundstück hat, und wenn der Betrag, um den sich der Wert des dienenden Grundstücks durch die Dienstbarkeit mindert, größer ist, durch diesen Betrag bestimmt.
 
-
-## § 8 – Pacht- oder Mietverhältnis
+# § 8 – Pacht- oder Mietverhältnis
 
 Ist das Bestehen oder die Dauer eines Pacht- oder Mietverhältnisses streitig, so ist der Betrag der auf die gesamte streitige Zeit entfallenden Pacht oder Miete und, wenn der 25fache Betrag des einjährigen Entgelts geringer ist, dieser Betrag für die Wertberechnung entscheidend.
 
-
-## § 9 – Wiederkehrende Nutzungen oder Leistungen
+# § 9 – Wiederkehrende Nutzungen oder Leistungen
 
 Der Wert des Rechts auf wiederkehrende Nutzungen oder Leistungen wird nach dem dreieinhalbfachen Wert des einjährigen Bezuges berechnet. Bei bestimmter Dauer des Bezugsrechts ist der Gesamtbetrag der künftigen Bezüge maßgebend, wenn er der geringere ist.
 
-
-## § 10
+# § 10
 
 (weggefallen)
 
-
-## § 11 – Bindende Entscheidung über Unzuständigkeit
+# § 11 – Bindende Entscheidung über Unzuständigkeit
 
 Ist die Unzuständigkeit eines Gerichts auf Grund der Vorschriften über die sachliche Zuständigkeit der Gerichte rechtskräftig ausgesprochen, so ist diese Entscheidung für das Gericht bindend, bei dem die Sache später anhängig wird.
 
-
-## § 12 – Allgemeiner Gerichtsstand; Begriff
+# § 12 – Allgemeiner Gerichtsstand; Begriff
 
 Das Gericht, bei dem eine Person ihren allgemeinen Gerichtsstand hat, ist für alle gegen sie zu erhebenden Klagen zuständig, sofern nicht für eine Klage ein ausschließlicher Gerichtsstand begründet ist.
 
-
-## § 13 – Allgemeiner Gerichtsstand des Wohnsitzes
+# § 13 – Allgemeiner Gerichtsstand des Wohnsitzes
 
 Der allgemeine Gerichtsstand einer Person wird durch den Wohnsitz bestimmt.
 
-
-## § 14
+# § 14
 
 (weggefallen)
 
-
-## § 15 – Allgemeiner Gerichtsstand für exterritoriale Deutsche
+# § 15 – Allgemeiner Gerichtsstand für exterritoriale Deutsche
 
 (1) Deutsche, die das Recht der Exterritorialität genießen, sowie die im Ausland beschäftigten deutschen Angehörigen des öffentlichen Dienstes behalten den Gerichtsstand ihres letzten inländischen Wohnsitzes. Wenn sie einen solchen Wohnsitz nicht hatten, haben sie ihren allgemeinen Gerichtsstand beim Amtsgericht Schöneberg in Berlin.
 
 (2) Auf Honorarkonsuln ist diese Vorschrift nicht anzuwenden.
 
-
-## § 16 – Allgemeiner Gerichtsstand wohnsitzloser Personen
+# § 16 – Allgemeiner Gerichtsstand wohnsitzloser Personen
 
 Der allgemeine Gerichtsstand einer Person, die keinen Wohnsitz hat, wird durch den Aufenthaltsort im Inland und, wenn ein solcher nicht bekannt ist, durch den letzten Wohnsitz bestimmt.
 
-
-## § 17 – Allgemeiner Gerichtsstand juristischer Personen
+# § 17 – Allgemeiner Gerichtsstand juristischer Personen
 
 (1) Der allgemeine Gerichtsstand der Gemeinden, der Korporationen sowie derjenigen Gesellschaften, Genossenschaften oder anderen Vereine und derjenigen Stiftungen, Anstalten und Vermögensmassen, die als solche verklagt werden können, wird durch ihren Sitz bestimmt. Als Sitz gilt, wenn sich nichts anderes ergibt, der Ort, wo die Verwaltung geführt wird.
 
@@ -5161,105 +5141,87 @@ Der allgemeine Gerichtsstand einer Person, die keinen Wohnsitz hat, wird durch d
 
 (3) Neben dem durch die Vorschriften dieses Paragraphen bestimmten Gerichtsstand ist ein durch Statut oder in anderer Weise besonders geregelter Gerichtsstand zulässig.
 
-
-## § 18 – Allgemeiner Gerichtsstand des Fiskus
+# § 18 – Allgemeiner Gerichtsstand des Fiskus
 
 Der allgemeine Gerichtsstand des Fiskus wird durch den Sitz der Behörde bestimmt, die berufen ist, den Fiskus in dem Rechtsstreit zu vertreten.
 
-
-## § 19 – Mehrere Gerichtsbezirke am Behördensitz
+# § 19 – Mehrere Gerichtsbezirke am Behördensitz
 
 Ist der Ort, an dem eine Behörde ihren Sitz hat, in mehrere Gerichtsbezirke geteilt, so wird der Bezirk, der im Sinne der §§ 17, 18 als Sitz der Behörde gilt, für die Bundesbehörden von dem Bundesministerium der Justiz und für Verbraucherschutz, im Übrigen von der Landesjustizverwaltung durch allgemeine Anordnung bestimmt.
 
-
-## § 19a – Allgemeiner Gerichtsstand des Insolvenzverwalters
+# § 19a – Allgemeiner Gerichtsstand des Insolvenzverwalters
 
 Der allgemeine Gerichtsstand eines Insolvenzverwalters für Klagen, die sich auf die Insolvenzmasse beziehen, wird durch den Sitz des Insolvenzgerichts bestimmt.
 
-
-## § 19b – Ausschließlicher Gerichtsstand bei restrukturierungsbezogenen Klagen; Verordnungsermächtigung
+# § 19b – Ausschließlicher Gerichtsstand bei restrukturierungsbezogenen Klagen; Verordnungsermächtigung
 
 (1) Für Klagen, die sich auf Restrukturierungssachen nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz beziehen, ist ausschließlich das Gericht zuständig, in dessen Bezirk das für die Restrukturierungssache zuständige Restrukturierungsgericht seinen Sitz hat.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die in Absatz 1 genannten Klagen einem Landgericht für die Bezirke mehrerer Oberlandesgerichte zuzuweisen, sofern dies der sachlichen Förderung oder schnelleren Erledigung der Verfahren dienlich ist. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 20 – Besonderer Gerichtsstand des Aufenthaltsorts
+# § 20 – Besonderer Gerichtsstand des Aufenthaltsorts
 
 Wenn Personen an einem Ort unter Verhältnissen, die ihrer Natur nach auf einen Aufenthalt von längerer Dauer hinweisen, insbesondere als Hausgehilfen, Arbeiter, Gewerbegehilfen, Studierende, Schüler oder Lehrlinge sich aufhalten, so ist das Gericht des Aufenthaltsortes für alle Klagen zuständig, die gegen diese Personen wegen vermögensrechtlicher Ansprüche erhoben werden.
 
-
-## § 21 – Besonderer Gerichtsstand der Niederlassung
+# § 21 – Besonderer Gerichtsstand der Niederlassung
 
 (1) Hat jemand zum Betrieb einer Fabrik, einer Handlung oder eines anderen Gewerbes eine Niederlassung, von der aus unmittelbar Geschäfte geschlossen werden, so können gegen ihn alle Klagen, die auf den Geschäftsbetrieb der Niederlassung Bezug haben, bei dem Gericht des Ortes erhoben werden, wo die Niederlassung sich befindet.
 
 (2) Der Gerichtsstand der Niederlassung ist auch für Klagen gegen Personen begründet, die ein mit Wohn- und Wirtschaftsgebäuden versehenes Gut als Eigentümer, Nutznießer oder Pächter bewirtschaften, soweit diese Klagen die auf die Bewirtschaftung des Gutes sich beziehenden Rechtsverhältnisse betreffen.
 
-
-## § 22 – Besonderer Gerichtsstand der Mitgliedschaft
+# § 22 – Besonderer Gerichtsstand der Mitgliedschaft
 
 Das Gericht, bei dem Gemeinden, Korporationen, Gesellschaften, Genossenschaften oder andere Vereine den allgemeinen Gerichtsstand haben, ist für die Klagen zuständig, die von ihnen oder von dem Insolvenzverwalter gegen die Mitglieder als solche oder von den Mitgliedern in dieser Eigenschaft gegeneinander erhoben werden.
 
-
-## § 23 – Besonderer Gerichtsstand des Vermögens und des Gegenstands
+# § 23 – Besonderer Gerichtsstand des Vermögens und des Gegenstands
 
 Für Klagen wegen vermögensrechtlicher Ansprüche gegen eine Person, die im Inland keinen Wohnsitz hat, ist das Gericht zuständig, in dessen Bezirk sich Vermögen derselben oder der mit der Klage in Anspruch genommene Gegenstand befindet. Bei Forderungen gilt als der Ort, wo das Vermögen sich befindet, der Wohnsitz des Schuldners und, wenn für die Forderungen eine Sache zur Sicherheit haftet, auch der Ort, wo die Sache sich befindet.
 
-
-## § 23a – (weggefallen)
+# § 23a – (weggefallen)
 
 \-
 
-
-## § 24 – Ausschließlicher dinglicher Gerichtsstand
+# § 24 – Ausschließlicher dinglicher Gerichtsstand
 
 (1) Für Klagen, durch die das Eigentum, eine dingliche Belastung oder die Freiheit von einer solchen geltend gemacht wird, für Grenzscheidungs-, Teilungs- und Besitzklagen ist, sofern es sich um unbewegliche Sachen handelt, das Gericht ausschließlich zuständig, in dessen Bezirk die Sache belegen ist.
 
 (2) Bei den eine Grunddienstbarkeit, eine Reallast oder ein Vorkaufsrecht betreffenden Klagen ist die Lage des dienenden oder belasteten Grundstücks entscheidend.
 
-
-## § 25 – Dinglicher Gerichtsstand des Sachzusammenhanges
+# § 25 – Dinglicher Gerichtsstand des Sachzusammenhanges
 
 In dem dinglichen Gerichtsstand kann mit der Klage aus einer Hypothek, Grundschuld oder Rentenschuld die Schuldklage, mit der Klage auf Umschreibung oder Löschung einer Hypothek, Grundschuld oder Rentenschuld die Klage auf Befreiung von der persönlichen Verbindlichkeit, mit der Klage auf Anerkennung einer Reallast die Klage auf rückständige Leistungen erhoben werden, wenn die verbundenen Klagen gegen denselben Beklagten gerichtet sind.
 
-
-## § 26 – Dinglicher Gerichtsstand für persönliche Klagen
+# § 26 – Dinglicher Gerichtsstand für persönliche Klagen
 
 In dem dinglichen Gerichtsstand können persönliche Klagen, die gegen den Eigentümer oder Besitzer einer unbeweglichen Sache als solche gerichtet werden, sowie Klagen wegen Beschädigung eines Grundstücks oder hinsichtlich der Entschädigung wegen Enteignung eines Grundstücks erhoben werden.
 
-
-## § 27 – Besonderer Gerichtsstand der Erbschaft
+# § 27 – Besonderer Gerichtsstand der Erbschaft
 
 (1) Klagen, welche die Feststellung des Erbrechts, Ansprüche des Erben gegen einen Erbschaftsbesitzer, Ansprüche aus Vermächtnissen oder sonstigen Verfügungen von Todes wegen, Pflichtteilsansprüche oder die Teilung der Erbschaft zum Gegenstand haben, können vor dem Gericht erhoben werden, bei dem der Erblasser zur Zeit seines Todes den allgemeinen Gerichtsstand gehabt hat.
 
 (2) Ist der Erblasser ein Deutscher und hatte er zur Zeit seines Todes im Inland keinen allgemeinen Gerichtsstand, so können die im Absatz 1 bezeichneten Klagen vor dem Gericht erhoben werden, in dessen Bezirk der Erblasser seinen letzten inländischen Wohnsitz hatte; wenn er einen solchen Wohnsitz nicht hatte, so gilt die Vorschrift des § 15 Abs. 1 Satz 2 entsprechend.
 
-
-## § 28 – Erweiterter Gerichtsstand der Erbschaft
+# § 28 – Erweiterter Gerichtsstand der Erbschaft
 
 In dem Gerichtsstand der Erbschaft können auch Klagen wegen anderer Nachlassverbindlichkeiten erhoben werden, solange sich der Nachlass noch ganz oder teilweise im Bezirk des Gerichts befindet oder die vorhandenen mehreren Erben noch als Gesamtschuldner haften.
 
-
-## § 29 – Besonderer Gerichtsstand des Erfüllungsorts
+# § 29 – Besonderer Gerichtsstand des Erfüllungsorts
 
 (1) Für Streitigkeiten aus einem Vertragsverhältnis und über dessen Bestehen ist das Gericht des Ortes zuständig, an dem die streitige Verpflichtung zu erfüllen ist.
 
 (2) Eine Vereinbarung über den Erfüllungsort begründet die Zuständigkeit nur, wenn die Vertragsparteien Kaufleute, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermögen sind.
 
-
-## § 29a – Ausschließlicher Gerichtsstand bei Miet- oder Pachträumen
+# § 29a – Ausschließlicher Gerichtsstand bei Miet- oder Pachträumen
 
 (1) Für Streitigkeiten über Ansprüche aus Miet- oder Pachtverhältnissen über Räume oder über das Bestehen solcher Verhältnisse ist das Gericht ausschließlich zuständig, in dessen Bezirk sich die Räume befinden.
 
 (2) Absatz 1 ist nicht anzuwenden, wenn es sich um Wohnraum der in § 549 Abs. 2 Nr. 1 bis 3 des Bürgerlichen Gesetzbuchs genannten Art handelt.
 
-
-## § 29b – (weggefallen)
+# § 29b – (weggefallen)
 
 \-
 
-
-## § 29c – Besonderer Gerichtsstand für Haustürgeschäfte
+# § 29c – Besonderer Gerichtsstand für Haustürgeschäfte
 
 (1) Für Klagen aus außerhalb von Geschäftsräumen geschlossenen Verträgen (§ 312b des Bürgerlichen Gesetzbuchs) ist das Gericht zuständig, in dessen Bezirk der Verbraucher zur Zeit der Klageerhebung seinen Wohnsitz, in Ermangelung eines solchen seinen gewöhnlichen Aufenthalt hat. Für Klagen gegen den Verbraucher ist dieses Gericht ausschließlich zuständig.
 
@@ -5269,35 +5231,29 @@ In dem Gerichtsstand der Erbschaft können auch Klagen wegen anderer Nachlassver
 
 (4) Eine von Absatz 1 abweichende Vereinbarung ist zulässig für den Fall, dass der Verbraucher nach Vertragsschluss seinen Wohnsitz oder gewöhnlichen Aufenthalt aus dem Geltungsbereich dieses Gesetzes verlegt oder sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt ist.
 
-
-## § 30 – Gerichtsstand bei Beförderungen
+# § 30 – Gerichtsstand bei Beförderungen
 
 (1) Für Rechtsstreitigkeiten aus einer Güterbeförderung ist auch das Gericht zuständig, in dessen Bezirk der Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes vorgesehene Ort liegt. Eine Klage gegen den ausführenden Frachtführer oder ausführenden Verfrachter kann auch in dem Gerichtsstand des Frachtführers oder Verfrachters erhoben werden. Eine Klage gegen den Frachtführer oder Verfrachter kann auch in dem Gerichtsstand des ausführenden Frachtführers oder ausführenden Verfrachters erhoben werden.
 
 (2) Für Rechtsstreitigkeiten wegen einer Beförderung von Fahrgästen und ihrem Gepäck auf Schiffen ist auch das Gericht zuständig, in dessen Bezirk sich der im Beförderungsvertrag bestimmte Abgangs- oder Bestimmungsort befindet. Eine von Satz 1 abweichende Vereinbarung ist unwirksam, wenn sie vor Eintritt des Ereignisses getroffen wird, das den Tod oder die Körperverletzung des Fahrgasts oder den Verlust, die Beschädigung oder die verspätete Aushändigung des Gepäcks verursacht hat.
 
-
-## § 30a – Gerichtsstand bei Bergungsansprüchen
+# § 30a – Gerichtsstand bei Bergungsansprüchen
 
 Für Klagen wegen Ansprüchen aus Bergung von Schiffen oder sonstigen Vermögensgegenständen in einem Gewässer gegen eine Person, die im Inland keinen Gerichtsstand hat, ist das Gericht zuständig, bei dem der Kläger im Inland seinen allgemeinen Gerichtsstand hat.
 
-
-## § 31 – Besonderer Gerichtsstand der Vermögensverwaltung
+# § 31 – Besonderer Gerichtsstand der Vermögensverwaltung
 
 Für Klagen, die aus einer Vermögensverwaltung von dem Geschäftsherrn gegen den Verwalter oder von dem Verwalter gegen den Geschäftsherrn erhoben werden, ist das Gericht des Ortes zuständig, wo die Verwaltung geführt ist.
 
-
-## § 32 – Besonderer Gerichtsstand der unerlaubten Handlung
+# § 32 – Besonderer Gerichtsstand der unerlaubten Handlung
 
 Für Klagen aus unerlaubten Handlungen ist das Gericht zuständig, in dessen Bezirk die Handlung begangen ist.
 
-
-## § 32a – Ausschließlicher Gerichtsstand der Umwelteinwirkung
+# § 32a – Ausschließlicher Gerichtsstand der Umwelteinwirkung
 
 Für Klagen gegen den Inhaber einer im Anhang 1 des Umwelthaftungsgesetzes genannten Anlage, mit denen der Ersatz eines durch eine Umwelteinwirkung verursachten Schadens geltend gemacht wird, ist das Gericht ausschließlich zuständig, in dessen Bezirk die Umwelteinwirkung von der Anlage ausgegangen ist. Dies gilt nicht, wenn die Anlage im Ausland belegen ist.
 
-
-## § 32b – Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen
+# § 32b – Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen
 
 (1) Für Klagen, in denen
 
@@ -5311,35 +5267,29 @@ geltend gemacht wird, ist das Gericht ausschließlich am Sitz des betroffenen Em
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die in Absatz 1 genannten Klagen einem Landgericht für die Bezirke mehrerer Landgerichte zuzuweisen, sofern dies der sachlichen Förderung oder schnelleren Erledigung der Verfahren dienlich ist. Die Landesregierungen können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 32c – Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren
+# § 32c – Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren
 
 Für Klagen in Musterfeststellungsverfahren nach Buch 6 ist das Gericht des allgemeinen Gerichtsstands des Beklagten ausschließlich zuständig, sofern sich dieser im Inland befindet.
 
-
-## § 33 – Besonderer Gerichtsstand der Widerklage
+# § 33 – Besonderer Gerichtsstand der Widerklage
 
 (1) Bei dem Gericht der Klage kann eine Widerklage erhoben werden, wenn der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch oder mit den gegen ihn vorgebrachten Verteidigungsmitteln in Zusammenhang steht.
 
 (2) Dies gilt nicht, wenn für eine Klage wegen des Gegenanspruchs die Vereinbarung der Zuständigkeit des Gerichts nach § 40 Abs. 2 unzulässig ist.
 
-
-## § 34 – Besonderer Gerichtsstand des Hauptprozesses
+# § 34 – Besonderer Gerichtsstand des Hauptprozesses
 
 Für Klagen der Prozessbevollmächtigten, der Beistände, der Zustellungsbevollmächtigten und der Gerichtsvollzieher wegen Gebühren und Auslagen ist das Gericht des Hauptprozesses zuständig.
 
-
-## § 35 – Wahl unter mehreren Gerichtsständen
+# § 35 – Wahl unter mehreren Gerichtsständen
 
 Unter mehreren zuständigen Gerichten hat der Kläger die Wahl.
 
-
-## § 35a – (weggefallen)
+# § 35a – (weggefallen)
 
 \-
 
-
-## § 36 – Gerichtliche Bestimmung der Zuständigkeit
+# § 36 – Gerichtliche Bestimmung der Zuständigkeit
 
 (1) Das zuständige Gericht wird durch das im Rechtszug zunächst höhere Gericht bestimmt:
 
@@ -5359,15 +5309,13 @@ Unter mehreren zuständigen Gerichten hat der Kläger die Wahl.
 
 (3) Will das Oberlandesgericht bei der Bestimmung des zuständigen Gerichts in einer Rechtsfrage von der Entscheidung eines anderen Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so hat es die Sache unter Begründung seiner Rechtsauffassung dem Bundesgerichtshof vorzulegen. In diesem Fall entscheidet der Bundesgerichtshof.
 
-
-## § 37 – Verfahren bei gerichtlicher Bestimmung
+# § 37 – Verfahren bei gerichtlicher Bestimmung
 
 (1) Die Entscheidung über das Gesuch um Bestimmung des zuständigen Gerichts ergeht durch Beschluss.
 
 (2) Der Beschluss, der das zuständige Gericht bestimmt, ist nicht anfechtbar.
 
-
-## § 38 – Zugelassene Gerichtsstandsvereinbarung
+# § 38 – Zugelassene Gerichtsstandsvereinbarung
 
 (1) Ein an sich unzuständiges Gericht des ersten Rechtszuges wird durch ausdrückliche oder stillschweigende Vereinbarung der Parteien zuständig, wenn die Vertragsparteien Kaufleute, juristische Personen des öffentlichen Rechts oder öffentlich-rechtliche Sondervermögen sind.
 
@@ -5379,13 +5327,11 @@ Unter mehreren zuständigen Gerichten hat der Kläger die Wahl.
 
 2. für den Fall geschlossen wird, dass die im Klageweg in Anspruch zu nehmende Partei nach Vertragsschluss ihren Wohnsitz oder gewöhnlichen Aufenthaltsort aus dem Geltungsbereich dieses Gesetzes verlegt oder ihr Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der Klageerhebung nicht bekannt ist.
 
-
-## § 39 – Zuständigkeit infolge rügeloser Verhandlung
+# § 39 – Zuständigkeit infolge rügeloser Verhandlung
 
 Die Zuständigkeit eines Gerichts des ersten Rechtszuges wird ferner dadurch begründet, dass der Beklagte, ohne die Unzuständigkeit geltend zu machen, zur Hauptsache mündlich verhandelt. Dies gilt nicht, wenn die Belehrung nach § 504 unterblieben ist.
 
-
-## § 40 – Unwirksame und unzulässige Gerichtsstandsvereinbarung
+# § 40 – Unwirksame und unzulässige Gerichtsstandsvereinbarung
 
 (1) Die Vereinbarung hat keine rechtliche Wirkung, wenn sie nicht auf ein bestimmtes Rechtsverhältnis und die aus ihm entspringenden Rechtsstreitigkeiten sich bezieht.
 
@@ -5397,8 +5343,7 @@ Die Zuständigkeit eines Gerichts des ersten Rechtszuges wird ferner dadurch beg
 
 In diesen Fällen wird die Zuständigkeit eines Gerichts auch nicht durch rügeloses Verhandeln zur Hauptsache begründet.
 
-
-## § 41 – Ausschluss von der Ausübung des Richteramtes
+# § 41 – Ausschluss von der Ausübung des Richteramtes
 
 Ein Richter ist von der Ausübung des Richteramtes kraft Gesetzes ausgeschlossen:
 
@@ -5406,8 +5351,7 @@ Ein Richter ist von der Ausübung des Richteramtes kraft Gesetzes ausgeschlossen
 
 2. in Sachen seines Ehegatten, auch wenn die Ehe nicht mehr besteht;
 
-2a.  
-in Sachen seines Lebenspartners, auch wenn die Lebenspartnerschaft nicht mehr besteht;
+2a. in Sachen seines Lebenspartners, auch wenn die Lebenspartnerschaft nicht mehr besteht;
 
 3. in Sachen einer Person, mit der er in gerader Linie verwandt oder verschwägert, in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert ist oder war;
 
@@ -5421,8 +5365,7 @@ in Sachen seines Lebenspartners, auch wenn die Lebenspartnerschaft nicht mehr be
 
 8. in Sachen, in denen er an einem Mediationsverfahren oder einem anderen Verfahren der außergerichtlichen Konfliktbeilegung mitgewirkt hat.
 
-
-## § 42 – Ablehnung eines Richters
+# § 42 – Ablehnung eines Richters
 
 (1) Ein Richter kann sowohl in den Fällen, in denen er von der Ausübung des Richteramts kraft Gesetzes ausgeschlossen ist, als auch wegen Besorgnis der Befangenheit abgelehnt werden.
 
@@ -5430,13 +5373,11 @@ in Sachen seines Lebenspartners, auch wenn die Lebenspartnerschaft nicht mehr be
 
 (3) Das Ablehnungsrecht steht in jedem Fall beiden Parteien zu.
 
-
-## § 43 – Verlust des Ablehnungsrechts
+# § 43 – Verlust des Ablehnungsrechts
 
 Eine Partei kann einen Richter wegen Besorgnis der Befangenheit nicht mehr ablehnen, wenn sie sich bei ihm, ohne den ihr bekannten Ablehnungsgrund geltend zu machen, in eine Verhandlung eingelassen oder Anträge gestellt hat.
 
-
-## § 44 – Ablehnungsgesuch
+# § 44 – Ablehnungsgesuch
 
 (1) Das Ablehnungsgesuch ist bei dem Gericht, dem der Richter angehört, anzubringen; es kann vor der Geschäftsstelle zu Protokoll erklärt werden.
 
@@ -5446,8 +5387,7 @@ Eine Partei kann einen Richter wegen Besorgnis der Befangenheit nicht mehr ableh
 
 (4) Wird ein Richter, bei dem die Partei sich in eine Verhandlung eingelassen oder Anträge gestellt hat, wegen Besorgnis der Befangenheit abgelehnt, so ist glaubhaft zu machen, dass der Ablehnungsgrund erst später entstanden oder der Partei bekannt geworden sei. Das Ablehnungsgesuch ist unverzüglich anzubringen.
 
-
-## § 45 – Entscheidung über das Ablehnungsgesuch
+# § 45 – Entscheidung über das Ablehnungsgesuch
 
 (1) Über das Ablehnungsgesuch entscheidet das Gericht, dem der Abgelehnte angehört, ohne dessen Mitwirkung.
 
@@ -5455,39 +5395,33 @@ Eine Partei kann einen Richter wegen Besorgnis der Befangenheit nicht mehr ableh
 
 (3) Wird das zur Entscheidung berufene Gericht durch Ausscheiden des abgelehnten Mitglieds beschlussunfähig, so entscheidet das im Rechtszug zunächst höhere Gericht.
 
-
-## § 46 – Entscheidung und Rechtsmittel
+# § 46 – Entscheidung und Rechtsmittel
 
 (1) Die Entscheidung über das Ablehnungsgesuch ergeht durch Beschluss.
 
 (2) Gegen den Beschluss, durch den das Gesuch für begründet erklärt wird, findet kein Rechtsmittel, gegen den Beschluss, durch den das Gesuch für unbegründet erklärt wird, findet sofortige Beschwerde statt.
 
-
-## § 47 – Unaufschiebbare Amtshandlungen
+# § 47 – Unaufschiebbare Amtshandlungen
 
 (1) Ein abgelehnter Richter hat vor Erledigung des Ablehnungsgesuchs nur solche Handlungen vorzunehmen, die keinen Aufschub gestatten.
 
 (2) Wird ein Richter während der Verhandlung abgelehnt und würde die Entscheidung über die Ablehnung eine Vertagung der Verhandlung erfordern, so kann der Termin unter Mitwirkung des abgelehnten Richters fortgesetzt werden. Wird die Ablehnung für begründet erklärt, so ist der nach Anbringung des Ablehnungsgesuchs liegende Teil der Verhandlung zu wiederholen.
 
-
-## § 48 – Selbstablehnung; Ablehnung von Amts wegen
+# § 48 – Selbstablehnung; Ablehnung von Amts wegen
 
 Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dann zu entscheiden, wenn ein solches Gesuch nicht angebracht ist, ein Richter aber von einem Verhältnis Anzeige macht, das seine Ablehnung rechtfertigen könnte, oder wenn aus anderer Veranlassung Zweifel darüber entstehen, ob ein Richter kraft Gesetzes ausgeschlossen sei.
 
-
-## § 49 – Urkundsbeamte
+# § 49 – Urkundsbeamte
 
 Die Vorschriften dieses Titels sind auf den Urkundsbeamten der Geschäftsstelle entsprechend anzuwenden; die Entscheidung ergeht durch das Gericht, bei dem er angestellt ist.
 
-
-## § 50 – Parteifähigkeit
+# § 50 – Parteifähigkeit
 
 (1) Parteifähig ist, wer rechtsfähig ist.
 
 (2) Ein Verein, der nicht rechtsfähig ist, kann klagen und verklagt werden; in dem Rechtsstreit hat der Verein die Stellung eines rechtsfähigen Vereins.
 
-
-## § 51 – Prozessfähigkeit; gesetzliche Vertretung; Prozessführung
+# § 51 – Prozessfähigkeit; gesetzliche Vertretung; Prozessführung
 
 (1) Die Fähigkeit einer Partei, vor Gericht zu stehen, die Vertretung nicht prozessfähiger Parteien durch andere Personen (gesetzliche Vertreter) und die Notwendigkeit einer besonderen Ermächtigung zur Prozessführung bestimmt sich nach den Vorschriften des bürgerlichen Rechts, soweit nicht die nachfolgenden Paragraphen abweichende Vorschriften enthalten.
 
@@ -5495,113 +5429,93 @@ Die Vorschriften dieses Titels sind auf den Urkundsbeamten der Geschäftsstelle 
 
 (3) Hat eine nicht prozessfähige Partei, die eine volljährige natürliche Person ist, wirksam eine andere natürliche Person schriftlich mit ihrer gerichtlichen Vertretung bevollmächtigt, so steht diese Person einem gesetzlichen Vertreter gleich, wenn die Bevollmächtigung geeignet ist, gemäß § 1896 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs die Erforderlichkeit einer Betreuung entfallen zu lassen.
 
-
-## § 52 – Umfang der Prozessfähigkeit
+# § 52 – Umfang der Prozessfähigkeit
 
 (1) Eine Person ist insoweit prozessfähig, als sie sich durch Verträge verpflichten kann.
 
-
-## § 53 – Prozessunfähigkeit bei Betreuung oder Pflegschaft
+# § 53 – Prozessunfähigkeit bei Betreuung oder Pflegschaft
 
 Wird in einem Rechtsstreit eine prozessfähige Person durch einen Betreuer oder Pfleger vertreten, so steht sie für den Rechtsstreit einer nicht prozessfähigen Person gleich.
 
-
-## § 53a – (weggefallen)
+# § 53a – (weggefallen)
 
 \-
 
-
-## § 54 – Besondere Ermächtigung zu Prozesshandlungen
+# § 54 – Besondere Ermächtigung zu Prozesshandlungen
 
 Einzelne Prozesshandlungen, zu denen nach den Vorschriften des bürgerlichen Rechts eine besondere Ermächtigung erforderlich ist, sind ohne sie gültig, wenn die Ermächtigung zur Prozessführung im Allgemeinen erteilt oder die Prozessführung auch ohne eine solche Ermächtigung im Allgemeinen statthaft ist.
 
-
-## § 55 – Prozessfähigkeit von Ausländern
+# § 55 – Prozessfähigkeit von Ausländern
 
 Ein Ausländer, dem nach dem Recht seines Landes die Prozessfähigkeit mangelt, gilt als prozessfähig, wenn ihm nach dem Recht des Prozessgerichts die Prozessfähigkeit zusteht.
 
-
-## § 56 – Prüfung von Amts wegen
+# § 56 – Prüfung von Amts wegen
 
 (1) Das Gericht hat den Mangel der Parteifähigkeit, der Prozessfähigkeit, der Legitimation eines gesetzlichen Vertreters und der erforderlichen Ermächtigung zur Prozessführung von Amts wegen zu berücksichtigen.
 
 (2) Die Partei oder deren gesetzlicher Vertreter kann zur Prozessführung mit Vorbehalt der Beseitigung des Mangels zugelassen werden, wenn mit dem Verzug Gefahr für die Partei verbunden ist. Das Endurteil darf erst erlassen werden, nachdem die für die Beseitigung des Mangels zu bestimmende Frist abgelaufen ist.
 
-
-## § 57 – Prozesspfleger
+# § 57 – Prozesspfleger
 
 (1) Soll eine nicht prozessfähige Partei verklagt werden, die ohne gesetzlichen Vertreter ist, so hat ihr der Vorsitzende des Prozessgerichts, falls mit dem Verzug Gefahr verbunden ist, auf Antrag bis zu dem Eintritt des gesetzlichen Vertreters einen besonderen Vertreter zu bestellen.
 
 (2) Der Vorsitzende kann einen solchen Vertreter auch bestellen, wenn in den Fällen des § 20 eine nicht prozessfähige Person bei dem Gericht ihres Aufenthaltsortes verklagt werden soll.
 
-
-## § 58 – Prozesspfleger bei herrenlosem Grundstück oder Schiff
+# § 58 – Prozesspfleger bei herrenlosem Grundstück oder Schiff
 
 (1) Soll ein Recht an einem Grundstück, das von dem bisherigen Eigentümer nach § 928 des Bürgerlichen Gesetzbuchs aufgegeben und von dem Aneignungsberechtigten noch nicht erworben worden ist, im Wege der Klage geltend gemacht werden, so hat der Vorsitzende des Prozessgerichts auf Antrag einen Vertreter zu bestellen, dem bis zur Eintragung eines neuen Eigentümers die Wahrnehmung der sich aus dem Eigentum ergebenden Rechte und Verpflichtungen im Rechtsstreit obliegt.
 
 (2) Absatz 1 gilt entsprechend, wenn im Wege der Klage ein Recht an einem eingetragenen Schiff oder Schiffsbauwerk geltend gemacht werden soll, das von dem bisherigen Eigentümer nach § 7 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken vom 15. November 1940 (RGBl. I S. 1499) aufgegeben und von dem Aneignungsberechtigten noch nicht erworben worden ist.
 
-
-## § 59 – Streitgenossenschaft bei Rechtsgemeinschaft oder Identität des Grundes
+# § 59 – Streitgenossenschaft bei Rechtsgemeinschaft oder Identität des Grundes
 
 Mehrere Personen können als Streitgenossen gemeinschaftlich klagen oder verklagt werden, wenn sie hinsichtlich des Streitgegenstandes in Rechtsgemeinschaft stehen oder wenn sie aus demselben tatsächlichen und rechtlichen Grund berechtigt oder verpflichtet sind.
 
-
-## § 60 – Streitgenossenschaft bei Gleichartigkeit der Ansprüche
+# § 60 – Streitgenossenschaft bei Gleichartigkeit der Ansprüche
 
 Mehrere Personen können auch dann als Streitgenossen gemeinschaftlich klagen oder verklagt werden, wenn gleichartige und auf einem im Wesentlichen gleichartigen tatsächlichen und rechtlichen Grund beruhende Ansprüche oder Verpflichtungen den Gegenstand des Rechtsstreits bilden.
 
-
-## § 61 – Wirkung der Streitgenossenschaft
+# § 61 – Wirkung der Streitgenossenschaft
 
 Streitgenossen stehen, soweit nicht aus den Vorschriften des bürgerlichen Rechts oder dieses Gesetzes sich ein anderes ergibt, dem Gegner dergestalt als Einzelne gegenüber, dass die Handlungen des einen Streitgenossen dem anderen weder zum Vorteil noch zum Nachteil gereichen.
 
-
-## § 62 – Notwendige Streitgenossenschaft
+# § 62 – Notwendige Streitgenossenschaft
 
 (1) Kann das streitige Rechtsverhältnis allen Streitgenossen gegenüber nur einheitlich festgestellt werden oder ist die Streitgenossenschaft aus einem sonstigen Grund eine notwendige, so werden, wenn ein Termin oder eine Frist nur von einzelnen Streitgenossen versäumt wird, die säumigen Streitgenossen als durch die nicht säumigen vertreten angesehen.
 
 (2) Die säumigen Streitgenossen sind auch in dem späteren Verfahren zuzuziehen.
 
-
-## § 63 – Prozessbetrieb; Ladungen
+# § 63 – Prozessbetrieb; Ladungen
 
 Das Recht zur Betreibung des Prozesses steht jedem Streitgenossen zu; zu allen Terminen sind sämtliche Streitgenossen zu laden.
 
-
-## § 64 – Hauptintervention
+# § 64 – Hauptintervention
 
 Wer die Sache oder das Recht, worüber zwischen anderen Personen ein Rechtsstreit anhängig geworden ist, ganz oder teilweise für sich in Anspruch nimmt, ist bis zur rechtskräftigen Entscheidung dieses Rechtsstreits berechtigt, seinen Anspruch durch eine gegen beide Parteien gerichtete Klage bei dem Gericht geltend zu machen, vor dem der Rechtsstreit im ersten Rechtszug anhängig wurde.
 
-
-## § 65 – Aussetzung des Hauptprozesses
+# § 65 – Aussetzung des Hauptprozesses
 
 Der Hauptprozess kann auf Antrag einer Partei bis zur rechtskräftigen Entscheidung über die Hauptintervention ausgesetzt werden.
 
-
-## § 66 – Nebenintervention
+# § 66 – Nebenintervention
 
 (1) Wer ein rechtliches Interesse daran hat, dass in einem zwischen anderen Personen anhängigen Rechtsstreit die eine Partei obsiege, kann dieser Partei zum Zwecke ihrer Unterstützung beitreten.
 
 (2) Die Nebenintervention kann in jeder Lage des Rechtsstreits bis zur rechtskräftigen Entscheidung, auch in Verbindung mit der Einlegung eines Rechtsmittels, erfolgen.
 
-
-## § 67 – Rechtsstellung des Nebenintervenienten
+# § 67 – Rechtsstellung des Nebenintervenienten
 
 Der Nebenintervenient muss den Rechtsstreit in der Lage annehmen, in der er sich zur Zeit seines Beitritts befindet; er ist berechtigt, Angriffs- und Verteidigungsmittel geltend zu machen und alle Prozesshandlungen wirksam vorzunehmen, insoweit nicht seine Erklärungen und Handlungen mit Erklärungen und Handlungen der Hauptpartei in Widerspruch stehen. Für ihn gelten die §§ 141 und 278 Absatz 3 entsprechend.
 
-
-## § 68 – Wirkung der Nebenintervention
+# § 68 – Wirkung der Nebenintervention
 
 Der Nebenintervenient wird im Verhältnis zu der Hauptpartei mit der Behauptung nicht gehört, dass der Rechtsstreit, wie er dem Richter vorgelegen habe, unrichtig entschieden sei; er wird mit der Behauptung, dass die Hauptpartei den Rechtsstreit mangelhaft geführt habe, nur insoweit gehört, als er durch die Lage des Rechtsstreits zur Zeit seines Beitritts oder durch Erklärungen und Handlungen der Hauptpartei verhindert worden ist, Angriffs- oder Verteidigungsmittel geltend zu machen, oder als Angriffs- oder Verteidigungsmittel, die ihm unbekannt waren, von der Hauptpartei absichtlich oder durch grobes Verschulden nicht geltend gemacht sind.
 
-
-## § 69 – Streitgenössische Nebenintervention
+# § 69 – Streitgenössische Nebenintervention
 
 Insofern nach den Vorschriften des bürgerlichen Rechts die Rechtskraft der in dem Hauptprozess erlassenen Entscheidung auf das Rechtsverhältnis des Nebenintervenienten zu dem Gegner von Wirksamkeit ist, gilt der Nebenintervenient im Sinne des § 61 als Streitgenosse der Hauptpartei.
 
-
-## § 70 – Beitritt des Nebenintervenienten
+# § 70 – Beitritt des Nebenintervenienten
 
 (1) Der Beitritt des Nebenintervenienten erfolgt durch Einreichung eines Schriftsatzes bei dem Prozessgericht und, wenn er mit der Einlegung eines Rechtsmittels verbunden wird, durch Einreichung eines Schriftsatzes bei dem Rechtsmittelgericht. Der Schriftsatz ist beiden Parteien zuzustellen und muss enthalten:
 
@@ -5613,8 +5527,7 @@ Insofern nach den Vorschriften des bürgerlichen Rechts die Rechtskraft der in d
 
 (2) Außerdem gelten die allgemeinen Vorschriften über die vorbereitenden Schriftsätze.
 
-
-## § 71 – Zwischenstreit über Nebenintervention
+# § 71 – Zwischenstreit über Nebenintervention
 
 (1) Über den Antrag auf Zurückweisung einer Nebenintervention wird nach mündlicher Verhandlung unter den Parteien und dem Nebenintervenienten entschieden. Der Nebenintervenient ist zuzulassen, wenn er sein Interesse glaubhaft macht.
 
@@ -5622,8 +5535,7 @@ Insofern nach den Vorschriften des bürgerlichen Rechts die Rechtskraft der in d
 
 (3) Solange nicht die Unzulässigkeit der Intervention rechtskräftig ausgesprochen ist, wird der Intervenient im Hauptverfahren zugezogen.
 
-
-## § 72 – Zulässigkeit der Streitverkündung
+# § 72 – Zulässigkeit der Streitverkündung
 
 (1) Eine Partei, die für den Fall des ihr ungünstigen Ausganges des Rechtsstreits einen Anspruch auf Gewährleistung oder Schadloshaltung gegen einen Dritten erheben zu können glaubt oder den Anspruch eines Dritten besorgt, kann bis zur rechtskräftigen Entscheidung des Rechtsstreits dem Dritten gerichtlich den Streit verkünden.
 
@@ -5631,13 +5543,11 @@ Insofern nach den Vorschriften des bürgerlichen Rechts die Rechtskraft der in d
 
 (3) Der Dritte ist zu einer weiteren Streitverkündung berechtigt.
 
-
-## § 73 – Form der Streitverkündung
+# § 73 – Form der Streitverkündung
 
 Zum Zwecke der Streitverkündung hat die Partei einen Schriftsatz einzureichen, in dem der Grund der Streitverkündung und die Lage des Rechtsstreits anzugeben ist. Der Schriftsatz ist dem Dritten zuzustellen und dem Gegner des Streitverkünders in Abschrift mitzuteilen. Die Streitverkündung wird erst mit der Zustellung an den Dritten wirksam.
 
-
-## § 74 – Wirkung der Streitverkündung
+# § 74 – Wirkung der Streitverkündung
 
 (1) Wenn der Dritte dem Streitverkünder beitritt, so bestimmt sich sein Verhältnis zu den Parteien nach den Grundsätzen über die Nebenintervention.
 
@@ -5645,13 +5555,11 @@ Zum Zwecke der Streitverkündung hat die Partei einen Schriftsatz einzureichen, 
 
 (3) In allen Fällen dieses Paragraphen sind gegen den Dritten die Vorschriften des § 68 mit der Abweichung anzuwenden, dass statt der Zeit des Beitritts die Zeit entscheidet, zu welcher der Beitritt infolge der Streitverkündung möglich war.
 
-
-## § 75 – Gläubigerstreit
+# § 75 – Gläubigerstreit
 
 Wird von dem verklagten Schuldner einem Dritten, der die geltend gemachte Forderung für sich in Anspruch nimmt, der Streit verkündet und tritt der Dritte in den Streit ein, so ist der Beklagte, wenn er den Betrag der Forderung zugunsten der streitenden Gläubiger unter Verzicht auf das Recht zur Rücknahme hinterlegt, auf seinen Antrag aus dem Rechtsstreit unter Verurteilung in die durch seinen unbegründeten Widerspruch veranlassten Kosten zu entlassen und der Rechtsstreit über die Berechtigung an der Forderung zwischen den streitenden Gläubigern allein fortzusetzen. Dem Obsiegenden ist der hinterlegte Betrag zuzusprechen und der Unterliegende auch zur Erstattung der dem Beklagten entstandenen, nicht durch dessen unbegründeten Widerspruch veranlassten Kosten, einschließlich der Kosten der Hinterlegung, zu verurteilen.
 
-
-## § 76 – Urheberbenennung bei Besitz
+# § 76 – Urheberbenennung bei Besitz
 
 (1) Wer als Besitzer einer Sache verklagt ist, die er auf Grund eines Rechtsverhältnisses der im § 868 des Bürgerlichen Gesetzbuchs bezeichneten Art zu besitzen behauptet, kann vor der Verhandlung zur Hauptsache unter Einreichung eines Schriftsatzes, in dem er den mittelbaren Besitzer benennt, und einer Streitverkündungsschrift die Ladung des mittelbaren Besitzers zur Erklärung beantragen. Bis zu dieser Erklärung oder bis zum Schluss des Termins, in dem sich der Benannte zu erklären hat, kann der Beklagte die Verhandlung zur Hauptsache verweigern.
 
@@ -5661,13 +5569,11 @@ Wird von dem verklagten Schuldner einem Dritten, der die geltend gemachte Forder
 
 (4) Hat der Benannte den Prozess übernommen, so ist der Beklagte auf seinen Antrag von der Klage zu entbinden. Die Entscheidung ist in Ansehung der Sache selbst auch gegen den Beklagten wirksam und vollstreckbar.
 
-
-## § 77 – Urheberbenennung bei Eigentumsbeeinträchtigung
+# § 77 – Urheberbenennung bei Eigentumsbeeinträchtigung
 
 Ist von dem Eigentümer einer Sache oder von demjenigen, dem ein Recht an einer Sache zusteht, wegen einer Beeinträchtigung des Eigentums oder seines Rechts Klage auf Beseitigung der Beeinträchtigung oder auf Unterlassung weiterer Beeinträchtigungen erhoben, so sind die Vorschriften des § 76 entsprechend anzuwenden, sofern der Beklagte die Beeinträchtigung in Ausübung des Rechtes eines Dritten vorgenommen zu haben behauptet.
 
-
-## § 78 – Anwaltsprozess
+# § 78 – Anwaltsprozess
 
 (1) Vor den Landgerichten und Oberlandesgerichten müssen sich die Parteien durch einen Rechtsanwalt vertreten lassen. Ist in einem Land auf Grund des § 8 des Einführungsgesetzes zum Gerichtsverfassungsgesetz ein oberstes Landesgericht errichtet, so müssen sich die Parteien vor diesem ebenfalls durch einen Rechtsanwalt vertreten lassen. Vor dem Bundesgerichtshof müssen sich die Parteien durch einen bei dem Bundesgerichtshof zugelassenen Rechtsanwalt vertreten lassen.
 
@@ -5677,20 +5583,17 @@ Ist von dem Eigentümer einer Sache oder von demjenigen, dem ein Recht an einer 
 
 (4) Ein Rechtsanwalt, der nach Maßgabe der Absätze 1 und 2 zur Vertretung berechtigt ist, kann sich selbst vertreten.
 
-
-## § 78a
+# § 78a
 
 (weggefallen)
 
-
-## § 78b – Notanwalt
+# § 78b – Notanwalt
 
 (1) Insoweit eine Vertretung durch Anwälte geboten ist, hat das Prozessgericht einer Partei auf ihren Antrag durch Beschluss für den Rechtszug einen Rechtsanwalt zur Wahrnehmung ihrer Rechte beizuordnen, wenn sie einen zu ihrer Vertretung bereiten Rechtsanwalt nicht findet und die Rechtsverfolgung oder Rechtsverteidigung nicht mutwillig oder aussichtslos erscheint.
 
 (2) Gegen den Beschluss, durch den die Beiordnung eines Rechtsanwalts abgelehnt wird, findet die sofortige Beschwerde statt.
 
-
-## § 78c – Auswahl des Rechtsanwalts
+# § 78c – Auswahl des Rechtsanwalts
 
 (1) Der nach § 78b beizuordnende Rechtsanwalt wird durch den Vorsitzenden des Gerichts aus der Zahl der in dem Bezirk des Prozessgerichts niedergelassenen Rechtsanwälte ausgewählt.
 
@@ -5698,8 +5601,7 @@ Ist von dem Eigentümer einer Sache oder von demjenigen, dem ein Recht an einer 
 
 (3) Gegen eine Verfügung, die nach Absatz 1 getroffen wird, steht der Partei und dem Rechtsanwalt die sofortige Beschwerde zu. Dem Rechtsanwalt steht die sofortige Beschwerde auch zu, wenn der Vorsitzende des Gerichts den Antrag, die Beiordnung aufzuheben (§ 48 Abs. 2 der Bundesrechtsanwaltsordnung), ablehnt.
 
-
-## § 79 – Parteiprozess
+# § 79 – Parteiprozess
 
 (1) Soweit eine Vertretung durch Rechtsanwälte nicht geboten ist, können die Parteien den Rechtsstreit selbst führen. Parteien, die eine fremde oder ihnen zum Zweck der Einziehung auf fremde Rechnung abgetretene Geldforderung geltend machen, müssen sich durch einen Rechtsanwalt als Bevollmächtigten vertreten lassen, soweit sie nicht nach Maßgabe des Absatzes 2 zur Vertretung des Gläubigers befugt wären oder eine Forderung einziehen, deren ursprünglicher Gläubiger sie sind.
 
@@ -5719,35 +5621,29 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (4) Richter dürfen nicht als Bevollmächtigte vor einem Gericht auftreten, dem sie angehören. Ehrenamtliche Richter dürfen, außer in den Fällen des Absatzes 2 Satz 2 Nr. 1, nicht vor einem Spruchkörper auftreten, dem sie angehören. Absatz 3 Satz 1 und 2 gilt entsprechend.
 
-
-## § 80 – Prozessvollmacht
+# § 80 – Prozessvollmacht
 
 Die Vollmacht ist schriftlich zu den Gerichtsakten einzureichen. Sie kann nachgereicht werden; hierfür kann das Gericht eine Frist bestimmen.
 
-
-## § 81 – Umfang der Prozessvollmacht
+# § 81 – Umfang der Prozessvollmacht
 
 Die Prozessvollmacht ermächtigt zu allen den Rechtsstreit betreffenden Prozesshandlungen, einschließlich derjenigen, die durch eine Widerklage, eine Wiederaufnahme des Verfahrens, eine Rüge nach § 321a und die Zwangsvollstreckung veranlasst werden; zur Bestellung eines Vertreters sowie eines Bevollmächtigten für die höheren Instanzen; zur Beseitigung des Rechtsstreits durch Vergleich, Verzichtleistung auf den Streitgegenstand oder Anerkennung des von dem Gegner geltend gemachten Anspruchs; zur Empfangnahme der von dem Gegner oder aus der Staatskasse zu erstattenden Kosten.
 
-
-## § 82 – Geltung für Nebenverfahren
+# § 82 – Geltung für Nebenverfahren
 
 Die Vollmacht für den Hauptprozess umfasst die Vollmacht für das eine Hauptintervention, einen Arrest oder eine einstweilige Verfügung betreffende Verfahren.
 
-
-## § 83 – Beschränkung der Prozessvollmacht
+# § 83 – Beschränkung der Prozessvollmacht
 
 (1) Eine Beschränkung des gesetzlichen Umfanges der Vollmacht hat dem Gegner gegenüber nur insoweit rechtliche Wirkung, als diese Beschränkung die Beseitigung des Rechtsstreits durch Vergleich, Verzichtleistung auf den Streitgegenstand oder Anerkennung des von dem Gegner geltend gemachten Anspruchs betrifft.
 
 (2) Insoweit eine Vertretung durch Anwälte nicht geboten ist, kann eine Vollmacht für einzelne Prozesshandlungen erteilt werden.
 
-
-## § 84 – Mehrere Prozessbevollmächtigte
+# § 84 – Mehrere Prozessbevollmächtigte
 
 Mehrere Bevollmächtigte sind berechtigt, sowohl gemeinschaftlich als einzeln die Partei zu vertreten. Eine abweichende Bestimmung der Vollmacht hat dem Gegner gegenüber keine rechtliche Wirkung.
 
-
-## § 85 – Wirkung der Prozessvollmacht
+# § 85 – Wirkung der Prozessvollmacht
 
 (1) Die von dem Bevollmächtigten vorgenommenen Prozesshandlungen sind für die Partei in gleicher Art verpflichtend, als wenn sie von der Partei selbst vorgenommen wären. Dies gilt von Geständnissen und anderen tatsächlichen Erklärungen, insoweit sie nicht von der miterschienenen Partei sofort widerrufen oder berichtigt werden.
 
@@ -5755,41 +5651,35 @@ Mehrere Bevollmächtigte sind berechtigt, sowohl gemeinschaftlich als einzeln di
 
 § 85 Abs. 2: Mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerfGE v. 20.4.1982 I 1169 - 2 BvL 26/81 -
 
-
-## § 86 – Fortbestand der Prozessvollmacht
+# § 86 – Fortbestand der Prozessvollmacht
 
 Die Vollmacht wird weder durch den Tod des Vollmachtgebers noch durch eine Veränderung in seiner Prozessfähigkeit oder seiner gesetzlichen Vertretung aufgehoben; der Bevollmächtigte hat jedoch, wenn er nach Aussetzung des Rechtsstreits für den Nachfolger im Rechtsstreit auftritt, dessen Vollmacht beizubringen.
 
-
-## § 87 – Erlöschen der Vollmacht
+# § 87 – Erlöschen der Vollmacht
 
 (1) Dem Gegner gegenüber erlangt die Kündigung des Vollmachtvertrags erst durch die Anzeige des Erlöschens der Vollmacht, in Anwaltsprozessen erst durch die Anzeige der Bestellung eines anderen Anwalts rechtliche Wirksamkeit.
 
 (2) Der Bevollmächtigte wird durch die von seiner Seite erfolgte Kündigung nicht gehindert, für den Vollmachtgeber so lange zu handeln, bis dieser für Wahrnehmung seiner Rechte in anderer Weise gesorgt hat.
 
-
-## § 88 – Mangel der Vollmacht
+# § 88 – Mangel der Vollmacht
 
 (1) Der Mangel der Vollmacht kann von dem Gegner in jeder Lage des Rechtsstreits gerügt werden.
 
 (2) Das Gericht hat den Mangel der Vollmacht von Amts wegen zu berücksichtigen, wenn nicht als Bevollmächtigter ein Rechtsanwalt auftritt.
 
-
-## § 89 – Vollmachtloser Vertreter
+# § 89 – Vollmachtloser Vertreter
 
 (1) Handelt jemand für eine Partei als Geschäftsführer ohne Auftrag oder als Bevollmächtigter ohne Beibringung einer Vollmacht, so kann er gegen oder ohne Sicherheitsleistung für Kosten und Schäden zur Prozessführung einstweilen zugelassen werden. Das Endurteil darf erst erlassen werden, nachdem die für die Beibringung der Genehmigung zu bestimmende Frist abgelaufen ist. Ist zu der Zeit, zu der das Endurteil erlassen wird, die Genehmigung nicht beigebracht, so ist der einstweilen zur Prozessführung Zugelassene zum Ersatz der dem Gegner infolge der Zulassung erwachsenen Kosten zu verurteilen; auch hat er dem Gegner die infolge der Zulassung entstandenen Schäden zu ersetzen.
 
 (2) Die Partei muss die Prozessführung gegen sich gelten lassen, wenn sie auch nur mündlich Vollmacht erteilt oder wenn sie die Prozessführung ausdrücklich oder stillschweigend genehmigt hat.
 
-
-## § 90 – Beistand
+# § 90 – Beistand
 
 (1) In der Verhandlung können die Parteien mit Beiständen erscheinen. Beistand kann sein, wer in Verfahren, in denen die Partei den Rechtsstreit selbst führen kann, als Bevollmächtigter zur Vertretung in der Verhandlung befugt ist. Das Gericht kann andere Personen als Beistand zulassen, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht. § 79 Abs. 3 Satz 1 und 3 und Abs. 4 gilt entsprechend.
 
 (2) Das von dem Beistand Vorgetragene gilt als von der Partei vorgebracht, insoweit es nicht von dieser sofort widerrufen oder berichtigt wird.
 
-
-## § 91 – Grundsatz und Umfang der Kostenpflicht
+# § 91 – Grundsatz und Umfang der Kostenpflicht
 
 (1) Die unterliegende Partei hat die Kosten des Rechtsstreits zu tragen, insbesondere die dem Gegner erwachsenen Kosten zu erstatten, soweit sie zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendig waren. Die Kostenerstattung umfasst auch die Entschädigung des Gegners für die durch notwendige Reisen oder durch die notwendige Wahrnehmung von Terminen entstandene Zeitversäumnis; die für die Entschädigung von Zeugen geltenden Vorschriften sind entsprechend anzuwenden.
 
@@ -5799,15 +5689,13 @@ Die Vollmacht wird weder durch den Tod des Vollmachtgebers noch durch eine Verä
 
 (4) Zu den Kosten des Rechtsstreits im Sinne von Absatz 1 gehören auch Kosten, die die obsiegende Partei der unterlegenen Partei im Verlaufe des Rechtsstreits gezahlt hat.
 
-
-## § 91a – Kosten bei Erledigung der Hauptsache
+# § 91a – Kosten bei Erledigung der Hauptsache
 
 (1) Haben die Parteien in der mündlichen Verhandlung oder durch Einreichung eines Schriftsatzes oder zu Protokoll der Geschäftsstelle den Rechtsstreit in der Hauptsache für erledigt erklärt, so entscheidet das Gericht über die Kosten unter Berücksichtigung des bisherigen Sach- und Streitstandes nach billigem Ermessen durch Beschluss. Dasselbe gilt, wenn der Beklagte der Erledigungserklärung des Klägers nicht innerhalb einer Notfrist von zwei Wochen seit der Zustellung des Schriftsatzes widerspricht, wenn der Beklagte zuvor auf diese Folge hingewiesen worden ist.
 
 (2) Gegen die Entscheidung findet die sofortige Beschwerde statt. Dies gilt nicht, wenn der Streitwert der Hauptsache den in § 511 genannten Betrag nicht übersteigt. Vor der Entscheidung über die Beschwerde ist der Gegner zu hören.
 
-
-## § 92 – Kosten bei teilweisem Obsiegen
+# § 92 – Kosten bei teilweisem Obsiegen
 
 (1) Wenn jede Partei teils obsiegt, teils unterliegt, so sind die Kosten gegeneinander aufzuheben oder verhältnismäßig zu teilen. Sind die Kosten gegeneinander aufgehoben, so fallen die Gerichtskosten jeder Partei zur Hälfte zur Last.
 
@@ -5817,18 +5705,15 @@ Die Vollmacht wird weder durch den Tod des Vollmachtgebers noch durch eine Verä
 
 2. der Betrag der Forderung der anderen Partei von der Festsetzung durch richterliches Ermessen, von der Ermittlung durch Sachverständige oder von einer gegenseitigen Berechnung abhängig war.
 
-
-## § 93 – Kosten bei sofortigem Anerkenntnis
+# § 93 – Kosten bei sofortigem Anerkenntnis
 
 Hat der Beklagte nicht durch sein Verhalten zur Erhebung der Klage Veranlassung gegeben, so fallen dem Kläger die Prozesskosten zur Last, wenn der Beklagte den Anspruch sofort anerkennt.
 
-
-## § 93a – (weggefallen)
+# § 93a – (weggefallen)
 
 \-
 
-
-## § 93b – Kosten bei Räumungsklagen
+# § 93b – Kosten bei Räumungsklagen
 
 (1) Wird einer Klage auf Räumung von Wohnraum mit Rücksicht darauf stattgegeben, dass ein Verlangen des Beklagten auf Fortsetzung des Mietverhältnisses auf Grund der §§ 574 bis 574b des Bürgerlichen Gesetzbuchs wegen der berechtigten Interessen des Klägers nicht gerechtfertigt ist, so kann das Gericht die Kosten ganz oder teilweise dem Kläger auferlegen, wenn der Beklagte die Fortsetzung des Mietverhältnisses unter Angabe von Gründen verlangt hatte und der Kläger aus Gründen obsiegt, die erst nachträglich entstanden sind (§ 574 Abs. 3 des Bürgerlichen Gesetzbuchs). Dies gilt in einem Rechtsstreit wegen Fortsetzung des Mietverhältnisses bei Abweisung der Klage entsprechend.
 
@@ -5836,33 +5721,27 @@ Hat der Beklagte nicht durch sein Verhalten zur Erhebung der Klage Veranlassung 
 
 (3) Erkennt der Beklagte den Anspruch auf Räumung von Wohnraum sofort an, wird ihm jedoch eine Räumungsfrist bewilligt, so kann das Gericht die Kosten ganz oder teilweise dem Kläger auferlegen, wenn der Beklagte bereits vor Erhebung der Klage unter Angabe von Gründen die Fortsetzung des Mietverhältnisses oder eine den Umständen nach angemessene Räumungsfrist vom Kläger vergeblich begehrt hatte.
 
-
-## § 93c – (weggefallen)
-
-\-
-
-
-## § 93d – (weggefallen)
+# § 93c – (weggefallen)
 
 \-
 
+# § 93d – (weggefallen)
 
-## § 94 – Kosten bei übergegangenem Anspruch
+\-
+
+# § 94 – Kosten bei übergegangenem Anspruch
 
 Macht der Kläger einen auf ihn übergangenen Anspruch geltend, ohne dass er vor der Erhebung der Klage dem Beklagten den Übergang mitgeteilt und auf Verlangen nachgewiesen hat, so fallen ihm die Prozesskosten insoweit zur Last, als sie dadurch entstanden sind, dass der Beklagte durch die Unterlassung der Mitteilung oder des Nachweises veranlasst worden ist, den Anspruch zu bestreiten.
 
-
-## § 95 – Kosten bei Säumnis oder Verschulden
+# § 95 – Kosten bei Säumnis oder Verschulden
 
 Die Partei, die einen Termin oder eine Frist versäumt oder die Verlegung eines Termins, die Vertagung einer Verhandlung, die Anberaumung eines Termins zur Fortsetzung der Verhandlung oder die Verlängerung einer Frist durch ihr Verschulden veranlasst, hat die dadurch verursachten Kosten zu tragen.
 
-
-## § 96 – Kosten erfolgloser Angriffs- oder Verteidigungsmittel
+# § 96 – Kosten erfolgloser Angriffs- oder Verteidigungsmittel
 
 Die Kosten eines ohne Erfolg gebliebenen Angriffs- oder Verteidigungsmittels können der Partei auferlegt werden, die es geltend gemacht hat, auch wenn sie in der Hauptsache obsiegt.
 
-
-## § 97 – Rechtsmittelkosten
+# § 97 – Rechtsmittelkosten
 
 (1) Die Kosten eines ohne Erfolg eingelegten Rechtsmittels fallen der Partei zur Last, die es eingelegt hat.
 
@@ -5870,20 +5749,17 @@ Die Kosten eines ohne Erfolg gebliebenen Angriffs- oder Verteidigungsmittels kö
 
 (3) (weggefallen)
 
-
-## § 98 – Vergleichskosten
+# § 98 – Vergleichskosten
 
 Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben anzusehen, wenn nicht die Parteien ein anderes vereinbart haben. Das Gleiche gilt von den Kosten des durch Vergleich erledigten Rechtsstreits, soweit nicht über sie bereits rechtskräftig erkannt ist.
 
-
-## § 99 – Anfechtung von Kostenentscheidungen
+# § 99 – Anfechtung von Kostenentscheidungen
 
 (1) Die Anfechtung der Kostenentscheidung ist unzulässig, wenn nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel eingelegt wird.
 
 (2) Ist die Hauptsache durch eine auf Grund eines Anerkenntnisses ausgesprochene Verurteilung erledigt, so findet gegen die Kostenentscheidung die sofortige Beschwerde statt. Dies gilt nicht, wenn der Streitwert der Hauptsache den in § 511 genannten Betrag nicht übersteigt. Vor der Entscheidung über die Beschwerde ist der Gegner zu hören.
 
-
-## § 100 – Kosten bei Streitgenossen
+# § 100 – Kosten bei Streitgenossen
 
 (1) Besteht der unterliegende Teil aus mehreren Personen, so haften sie für die Kostenerstattung nach Kopfteilen.
 
@@ -5893,27 +5769,23 @@ Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben an
 
 (4) Werden mehrere Beklagte als Gesamtschuldner verurteilt, so haften sie auch für die Kostenerstattung, unbeschadet der Vorschrift des Absatzes 3, als Gesamtschuldner. Die Vorschriften des bürgerlichen Rechts, nach denen sich diese Haftung auf die im Absatz 3 bezeichneten Kosten erstreckt, bleiben unberührt.
 
-
-## § 101 – Kosten einer Nebenintervention
+# § 101 – Kosten einer Nebenintervention
 
 (1) Die durch eine Nebenintervention verursachten Kosten sind dem Gegner der Hauptpartei aufzuerlegen, soweit er nach den Vorschriften der §§ 91 bis 98 die Kosten des Rechtsstreits zu tragen hat; soweit dies nicht der Fall ist, sind sie dem Nebenintervenienten aufzuerlegen.
 
 (2) Gilt der Nebenintervenient als Streitgenosse der Hauptpartei (§ 69), so sind die Vorschriften des § 100 maßgebend.
 
-
-## § 102
+# § 102
 
 (weggefallen)
 
-
-## § 103 – Kostenfestsetzungsgrundlage; Kostenfestsetzungsantrag
+# § 103 – Kostenfestsetzungsgrundlage; Kostenfestsetzungsantrag
 
 (1) Der Anspruch auf Erstattung der Prozesskosten kann nur auf Grund eines zur Zwangsvollstreckung geeigneten Titels geltend gemacht werden.
 
 (2) Der Antrag auf Festsetzung des zu erstattenden Betrages ist bei dem Gericht des ersten Rechtszuges anzubringen. Die Kostenberechnung, ihre zur Mitteilung an den Gegner bestimmte Abschrift und die zur Rechtfertigung der einzelnen Ansätze dienenden Belege sind beizufügen.
 
-
-## § 104 – Kostenfestsetzungsverfahren
+# § 104 – Kostenfestsetzungsverfahren
 
 (1) Über den Festsetzungsantrag entscheidet das Gericht des ersten Rechtszuges. Auf Antrag ist auszusprechen, dass die festgesetzten Kosten vom Eingang des Festsetzungsantrags, im Falle des § 105 Abs. 3 von der Verkündung des Urteils ab mit fünf Prozentpunkten über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen sind. Die Entscheidung ist, sofern dem Antrag ganz oder teilweise entsprochen wird, dem Gegner des Antragstellers unter Beifügung einer Abschrift der Kostenrechnung von Amts wegen zuzustellen. Dem Antragsteller ist die Entscheidung nur dann von Amts wegen zuzustellen, wenn der Antrag ganz oder teilweise zurückgewiesen wird; im Übrigen ergeht die Mitteilung formlos.
 
@@ -5921,8 +5793,7 @@ Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben an
 
 (3) Gegen die Entscheidung findet sofortige Beschwerde statt. Das Beschwerdegericht kann das Verfahren aussetzen, bis die Entscheidung, auf die der Festsetzungsantrag gestützt wird, rechtskräftig ist.
 
-
-## § 105 – Vereinfachter Kostenfestsetzungsbeschluss
+# § 105 – Vereinfachter Kostenfestsetzungsbeschluss
 
 (1) Der Festsetzungsbeschluss kann auf das Urteil und die Ausfertigungen gesetzt werden, sofern bei Eingang des Antrags eine Ausfertigung des Urteils noch nicht erteilt ist und eine Verzögerung der Ausfertigung nicht eintritt. Erfolgt der Festsetzungsbeschluss in der Form des § 130b, ist er in einem gesonderten elektronischen Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
@@ -5930,15 +5801,13 @@ Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben an
 
 (3) Eines Festsetzungsantrags bedarf es nicht, wenn die Partei vor der Verkündung des Urteils die Berechnung ihrer Kosten eingereicht hat; in diesem Fall ist die dem Gegner mitzuteilende Abschrift der Kostenberechnung von Amts wegen anzufertigen.
 
-
-## § 106 – Verteilung nach Quoten
+# § 106 – Verteilung nach Quoten
 
 (1) Sind die Prozesskosten ganz oder teilweise nach Quoten verteilt, so hat nach Eingang des Festsetzungsantrags das Gericht den Gegner aufzufordern, die Berechnung seiner Kosten binnen einer Woche bei Gericht einzureichen. Die Vorschriften des § 105 sind nicht anzuwenden.
 
 (2) Nach fruchtlosem Ablauf der einwöchigen Frist ergeht die Entscheidung ohne Rücksicht auf die Kosten des Gegners, unbeschadet des Rechts des letzteren, den Anspruch auf Erstattung nachträglich geltend zu machen. Der Gegner haftet für die Mehrkosten, die durch das nachträgliche Verfahren entstehen.
 
-
-## § 107 – Änderung nach Streitwertfestsetzung
+# § 107 – Änderung nach Streitwertfestsetzung
 
 (1) Ergeht nach der Kostenfestsetzung eine Entscheidung, durch die der Wert des Streitgegenstandes festgesetzt wird, so ist, falls diese Entscheidung von der Wertberechnung abweicht, die der Kostenfestsetzung zugrunde liegt, auf Antrag die Kostenfestsetzung entsprechend abzuändern. Über den Antrag entscheidet das Gericht des ersten Rechtszuges.
 
@@ -5946,15 +5815,13 @@ Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben an
 
 (3) Die Vorschriften des § 104 Abs. 3 sind anzuwenden.
 
-
-## § 108 – Art und Höhe der Sicherheit
+# § 108 – Art und Höhe der Sicherheit
 
 (1) In den Fällen der Bestellung einer prozessualen Sicherheit kann das Gericht nach freiem Ermessen bestimmen, in welcher Art und Höhe die Sicherheit zu leisten ist. Soweit das Gericht eine Bestimmung nicht getroffen hat und die Parteien ein anderes nicht vereinbart haben, ist die Sicherheitsleistung durch die schriftliche, unwiderrufliche, unbedingte und unbefristete Bürgschaft eines im Inland zum Geschäftsbetrieb befugten Kreditinstituts oder durch Hinterlegung von Geld oder solchen Wertpapieren zu bewirken, die nach § 234 Abs. 1 und 3 des Bürgerlichen Gesetzbuchs zur Sicherheitsleistung geeignet sind.
 
 (2) Die Vorschriften des § 234 Abs. 2 und des § 235 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
 
-
-## § 109 – Rückgabe der Sicherheit
+# § 109 – Rückgabe der Sicherheit
 
 (1) Ist die Veranlassung für eine Sicherheitsleistung weggefallen, so hat auf Antrag das Gericht, das die Bestellung der Sicherheit angeordnet oder zugelassen hat, eine Frist zu bestimmen, binnen der ihm die Partei, zu deren Gunsten die Sicherheit geleistet ist, die Einwilligung in die Rückgabe der Sicherheit zu erklären oder die Erhebung der Klage wegen ihrer Ansprüche nachzuweisen hat.
 
@@ -5964,8 +5831,7 @@ Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben an
 
 (4) Gegen den Beschluss, durch den der im Absatz 1 vorgesehene Antrag abgelehnt wird, steht dem Antragsteller, gegen die im Absatz 2 bezeichnete Entscheidung steht beiden Teilen die sofortige Beschwerde zu.
 
-
-## § 110 – Prozesskostensicherheit
+# § 110 – Prozesskostensicherheit
 
 (1) Kläger, die ihren gewöhnlichen Aufenthalt nicht in einem Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum haben, leisten auf Verlangen des Beklagten wegen der Prozesskosten Sicherheit.
 
@@ -5981,13 +5847,11 @@ Die Kosten eines abgeschlossenen Vergleichs sind als gegeneinander aufgehoben an
 
 5. bei Klagen, die auf Grund einer öffentlichen Aufforderung erhoben werden.
 
-
-## § 111 – Nachträgliche Prozesskostensicherheit
+# § 111 – Nachträgliche Prozesskostensicherheit
 
 Der Beklagte kann auch dann Sicherheit verlangen, wenn die Voraussetzungen für die Verpflichtung zur Sicherheitsleistung erst im Laufe des Rechtsstreits eintreten und nicht ein zur Deckung ausreichender Teil des erhobenen Anspruchs unbestritten ist.
 
-
-## § 112 – Höhe der Prozesskostensicherheit
+# § 112 – Höhe der Prozesskostensicherheit
 
 (1) Die Höhe der zu leistenden Sicherheit wird von dem Gericht nach freiem Ermessen festgesetzt.
 
@@ -5995,20 +5859,17 @@ Der Beklagte kann auch dann Sicherheit verlangen, wenn die Voraussetzungen für 
 
 (3) Ergibt sich im Laufe des Rechtsstreits, dass die geleistete Sicherheit nicht hinreicht, so kann der Beklagte die Leistung einer weiteren Sicherheit verlangen, sofern nicht ein zur Deckung ausreichender Teil des erhobenen Anspruchs unbestritten ist.
 
-
-## § 113 – Fristbestimmung für Prozesskostensicherheit
+# § 113 – Fristbestimmung für Prozesskostensicherheit
 
 Das Gericht hat dem Kläger bei Anordnung der Sicherheitsleistung eine Frist zu bestimmen, binnen der die Sicherheit zu leisten ist. Nach Ablauf der Frist ist auf Antrag des Beklagten, wenn die Sicherheit bis zur Entscheidung nicht geleistet ist, die Klage für zurückgenommen zu erklären oder, wenn über ein Rechtsmittel des Klägers zu verhandeln ist, dieses zu verwerfen.
 
-
-## § 114 – Voraussetzungen
+# § 114 – Voraussetzungen
 
 (1) Eine Partei, die nach ihren persönlichen und wirtschaftlichen Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder nur in Raten aufbringen kann, erhält auf Antrag Prozesskostenhilfe, wenn die beabsichtigte Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint. Für die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union gelten ergänzend die §§ 1076 bis 1078.
 
 (2) Mutwillig ist die Rechtsverfolgung oder Rechtsverteidigung, wenn eine Partei, die keine Prozesskostenhilfe beansprucht, bei verständiger Würdigung aller Umstände von der Rechtsverfolgung oder Rechtsverteidigung absehen würde, obwohl eine hinreichende Aussicht auf Erfolg besteht.
 
-
-## § 115 – Einsatz von Einkommen und Vermögen
+# § 115 – Einsatz von Einkommen und Vermögen
 
 (1) Die Partei hat ihr Einkommen einzusetzen. Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert. Von ihm sind abzusetzen:
 
@@ -6037,8 +5898,7 @@ Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der Prozesskost
 (+++ Hinweis: Zur Höhe der nach § 115 Abs. 1 Satz 3 Nr. 1 Buchst. b und Nr. 2 sowie Satz 5 maßgebenden Beträge  
 ab dem 1.1.2021 vgl. Bek. v. 28.12.2020 I 3344 (PKHB 2021) +++)
 
-
-## § 116 – Partei kraft Amtes; juristische Person; parteifähige Vereinigung
+# § 116 – Partei kraft Amtes; juristische Person; parteifähige Vereinigung
 
 Prozesskostenhilfe erhalten auf Antrag
 
@@ -6048,8 +5908,7 @@ Prozesskostenhilfe erhalten auf Antrag
 
 § 114 Absatz 1 Satz 1 letzter Halbsatz und Absatz 2 ist anzuwenden. Können die Kosten nur zum Teil oder nur in Teilbeträgen aufgebracht werden, so sind die entsprechenden Beträge zu zahlen.
 
-
-## § 117 – Antrag
+# § 117 – Antrag
 
 (1) Der Antrag auf Bewilligung der Prozesskostenhilfe ist bei dem Prozessgericht zu stellen; er kann vor der Geschäftsstelle zu Protokoll erklärt werden. In dem Antrag ist das Streitverhältnis unter Angabe der Beweismittel darzustellen. Der Antrag auf Bewilligung von Prozesskostenhilfe für die Zwangsvollstreckung ist bei dem für die Zwangsvollstreckung zuständigen Gericht zu stellen.
 
@@ -6059,8 +5918,7 @@ Prozesskostenhilfe erhalten auf Antrag
 
 (4) Soweit Formulare für die Erklärung eingeführt sind, muss sich die Partei ihrer bedienen.
 
-
-## § 118 – Bewilligungsverfahren
+# § 118 – Bewilligungsverfahren
 
 (1) Dem Gegner ist Gelegenheit zur Stellungnahme zu geben, ob er die Voraussetzungen für die Bewilligung von Prozesskostenhilfe für gegeben hält, soweit dies aus besonderen Gründen nicht unzweckmäßig erscheint. Die Stellungnahme kann vor der Geschäftsstelle zu Protokoll erklärt werden. Das Gericht kann die Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen. Dem Gegner entstandene Kosten werden nicht erstattet. Die durch die Vernehmung von Zeugen und Sachverständigen nach Absatz 2 Satz 3 entstandenen Auslagen sind als Gerichtskosten von der Partei zu tragen, der die Kosten des Rechtsstreits auferlegt sind.
 
@@ -6068,15 +5926,13 @@ Prozesskostenhilfe erhalten auf Antrag
 
 (3) Die in Absatz 1, 2 bezeichneten Maßnahmen werden von dem Vorsitzenden oder einem von ihm beauftragten Mitglied des Gerichts durchgeführt.
 
-
-## § 119 – Bewilligung
+# § 119 – Bewilligung
 
 (1) Die Bewilligung der Prozesskostenhilfe erfolgt für jeden Rechtszug besonders. In einem höheren Rechtszug ist nicht zu prüfen, ob die Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet oder mutwillig erscheint, wenn der Gegner das Rechtsmittel eingelegt hat.
 
 (2) Die Bewilligung von Prozesskostenhilfe für die Zwangsvollstreckung in das bewegliche Vermögen umfasst alle Vollstreckungshandlungen im Bezirk des Vollstreckungsgerichts einschließlich des Verfahrens auf Abgabe der Vermögensauskunft und der eidesstattlichen Versicherung.
 
-
-## § 120 – Festsetzung von Zahlungen
+# § 120 – Festsetzung von Zahlungen
 
 (1) Mit der Bewilligung der Prozesskostenhilfe setzt das Gericht zu zahlende Monatsraten und aus dem Vermögen zu zahlende Beträge fest. Setzt das Gericht nach § 115 Absatz 1 Satz 3 Nummer 5 mit Rücksicht auf besondere Belastungen von dem Einkommen Beträge ab und ist anzunehmen, dass die Belastungen bis zum Ablauf von vier Jahren ganz oder teilweise entfallen werden, so setzt das Gericht zugleich diejenigen Zahlungen fest, die sich ergeben, wenn die Belastungen nicht oder nur in verringertem Umfang berücksichtigt werden, und bestimmt den Zeitpunkt, von dem an sie zu erbringen sind.
 
@@ -6090,8 +5946,7 @@ Prozesskostenhilfe erhalten auf Antrag
 
 (4) (weggefallen)
 
-
-## § 120a – Änderung der Bewilligung
+# § 120a – Änderung der Bewilligung
 
 (1) Das Gericht soll die Entscheidung über die zu leistenden Zahlungen ändern, wenn sich die für die Prozesskostenhilfe maßgebenden persönlichen oder wirtschaftlichen Verhältnisse wesentlich verändert haben. Eine Änderung der nach § 115 Absatz 1 Satz 3 Nummer 1 Buchstabe b und Nummer 2 maßgebenden Beträge ist nur auf Antrag und nur dann zu berücksichtigen, wenn sie dazu führt, dass keine Monatsrate zu zahlen ist. Auf Verlangen des Gerichts muss die Partei jederzeit erklären, ob eine Veränderung der Verhältnisse eingetreten ist. Eine Änderung zum Nachteil der Partei ist ausgeschlossen, wenn seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens vier Jahre vergangen sind.
 
@@ -6101,8 +5956,7 @@ Prozesskostenhilfe erhalten auf Antrag
 
 (4) Für die Erklärung über die Änderung der persönlichen oder wirtschaftlichen Verhältnisse nach Absatz 1 Satz 3 muss die Partei das gemäß § 117 Absatz 3 eingeführte Formular benutzen. Für die Überprüfung der persönlichen und wirtschaftlichen Verhältnisse gilt § 118 Absatz 2 entsprechend.
 
-
-## § 121 – Beiordnung eines Rechtsanwalts
+# § 121 – Beiordnung eines Rechtsanwalts
 
 (1) Ist eine Vertretung durch Anwälte vorgeschrieben, wird der Partei ein zur Vertretung bereiter Rechtsanwalt ihrer Wahl beigeordnet.
 
@@ -6114,8 +5968,7 @@ Prozesskostenhilfe erhalten auf Antrag
 
 (5) Findet die Partei keinen zur Vertretung bereiten Anwalt, ordnet der Vorsitzende ihr auf Antrag einen Rechtsanwalt bei.
 
-
-## § 122 – Wirkung der Prozesskostenhilfe
+# § 122 – Wirkung der Prozesskostenhilfe
 
 (1) Die Bewilligung der Prozesskostenhilfe bewirkt, dass
 
@@ -6133,13 +5986,11 @@ nur nach den Bestimmungen, die das Gericht trifft, gegen die Partei geltend mach
 
 (2) Ist dem Kläger, dem Berufungskläger oder dem Revisionskläger Prozesskostenhilfe bewilligt und ist nicht bestimmt worden, dass Zahlungen an die Bundes- oder Landeskasse zu leisten sind, so hat dies für den Gegner die einstweilige Befreiung von den in Absatz 1 Nr. 1 Buchstabe a bezeichneten Kosten zur Folge.
 
-
-## § 123 – Kostenerstattung
+# § 123 – Kostenerstattung
 
 Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner entstandenen Kosten zu erstatten, keinen Einfluss.
 
-
-## § 124 – Aufhebung der Bewilligung
+# § 124 – Aufhebung der Bewilligung
 
 (1) Das Gericht soll die Bewilligung der Prozesskostenhilfe aufheben, wenn
 
@@ -6155,22 +6006,19 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 
 (2) Das Gericht kann die Bewilligung der Prozesskostenhilfe aufheben, soweit die von der Partei beantragte Beweiserhebung auf Grund von Umständen, die im Zeitpunkt der Bewilligung der Prozesskostenhilfe noch nicht berücksichtigt werden konnten, keine hinreichende Aussicht auf Erfolg bietet oder der Beweisantritt mutwillig erscheint.
 
-
-## § 125 – Einziehung der Kosten
+# § 125 – Einziehung der Kosten
 
 (1) Die Gerichtskosten und die Gerichtsvollzieherkosten können von dem Gegner erst eingezogen werden, wenn er rechtskräftig in die Prozesskosten verurteilt ist.
 
 (2) Die Gerichtskosten, von deren Zahlung der Gegner einstweilen befreit ist, sind von ihm einzuziehen, soweit er rechtskräftig in die Prozesskosten verurteilt oder der Rechtsstreit ohne Urteil über die Kosten beendet ist.
 
-
-## § 126 – Beitreibung der Rechtsanwaltskosten
+# § 126 – Beitreibung der Rechtsanwaltskosten
 
 (1) Die für die Partei bestellten Rechtsanwälte sind berechtigt, ihre Gebühren und Auslagen von dem in die Prozesskosten verurteilten Gegner im eigenen Namen beizutreiben.
 
 (2) Eine Einrede aus der Person der Partei ist nicht zulässig. Der Gegner kann mit Kosten aufrechnen, die nach der in demselben Rechtsstreit über die Kosten erlassenen Entscheidung von der Partei zu erstatten sind.
 
-
-## § 127 – Entscheidungen
+# § 127 – Entscheidungen
 
 (1) Entscheidungen im Verfahren über die Prozesskostenhilfe ergehen ohne mündliche Verhandlung. Zuständig ist das Gericht des ersten Rechtszuges; ist das Verfahren in einem höheren Rechtszug anhängig, so ist das Gericht dieses Rechtszuges zuständig. Soweit die Gründe der Entscheidung Angaben über die persönlichen und wirtschaftlichen Verhältnisse der Partei enthalten, dürfen sie dem Gegner nur mit Zustimmung der Partei zugänglich gemacht werden.
 
@@ -6180,13 +6028,11 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 
 (4) Die Kosten des Beschwerdeverfahrens werden nicht erstattet.
 
-
-## § 127a – (weggefallen)
+# § 127a – (weggefallen)
 
 \-
 
-
-## § 128 – Grundsatz der Mündlichkeit; schriftliches Verfahren
+# § 128 – Grundsatz der Mündlichkeit; schriftliches Verfahren
 
 (1) Die Parteien verhandeln über den Rechtsstreit vor dem erkennenden Gericht mündlich.
 
@@ -6196,8 +6042,7 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 
 (4) Entscheidungen des Gerichts, die nicht Urteile sind, können ohne mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
-
-## § 128a – Verhandlung im Wege der Bild- und Tonübertragung
+# § 128a – Verhandlung im Wege der Bild- und Tonübertragung
 
 (1) Das Gericht kann den Parteien, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
 
@@ -6205,29 +6050,25 @@ Die Bewilligung der Prozesskostenhilfe hat auf die Verpflichtung, die dem Gegner
 
 (3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
 
-
-## § 129 – Vorbereitende Schriftsätze
+# § 129 – Vorbereitende Schriftsätze
 
 (1) In Anwaltsprozessen wird die mündliche Verhandlung durch Schriftsätze vorbereitet.
 
 (2) In anderen Prozessen kann den Parteien durch richterliche Anordnung aufgegeben werden, die mündliche Verhandlung durch Schriftsätze oder zu Protokoll der Geschäftsstelle abzugebende Erklärungen vorzubereiten.
 
-
-## § 129a – Anträge und Erklärungen zu Protokoll
+# § 129a – Anträge und Erklärungen zu Protokoll
 
 (1) Anträge und Erklärungen, deren Abgabe vor dem Urkundsbeamten der Geschäftsstelle zulässig ist, können vor der Geschäftsstelle eines jeden Amtsgerichts zu Protokoll abgegeben werden.
 
 (2) Die Geschäftsstelle hat das Protokoll unverzüglich an das Gericht zu übermitteln, an das der Antrag oder die Erklärung gerichtet ist. Die Wirkung einer Prozesshandlung tritt frühestens ein, wenn das Protokoll dort eingeht. Die Übermittlung des Protokolls kann demjenigen, der den Antrag oder die Erklärung zu Protokoll abgegeben hat, mit seiner Zustimmung überlassen werden.
 
-
-## § 130 – Inhalt der Schriftsätze
+# § 130 – Inhalt der Schriftsätze
 
 Die vorbereitenden Schriftsätze sollen enthalten:
 
 1. die Bezeichnung der Parteien und ihrer gesetzlichen Vertreter nach Namen, Stand oder Gewerbe, Wohnort und Parteistellung; die Bezeichnung des Gerichts und des Streitgegenstandes; die Zahl der Anlagen;
 
-1a.  
-die für eine Übermittlung elektronischer Dokumente erforderlichen Angaben, sofern eine solche möglich ist;
+1a. die für eine Übermittlung elektronischer Dokumente erforderlichen Angaben, sofern eine solche möglich ist;
 
 2. die Anträge, welche die Partei in der Gerichtssitzung zu stellen beabsichtigt;
 
@@ -6239,8 +6080,7 @@ die für eine Übermittlung elektronischer Dokumente erforderlichen Angaben, sof
 
 6. die Unterschrift der Person, die den Schriftsatz verantwortet, bei Übermittlung durch einen Telefaxdienst (Telekopie) die Wiedergabe der Unterschrift in der Kopie.
 
-
-## § 130a – Elektronisches Dokument
+# § 130a – Elektronisches Dokument
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.
 
@@ -6262,20 +6102,17 @@ die für eine Übermittlung elektronischer Dokumente erforderlichen Angaben, sof
 
 (6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und auf die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.
 
-
-## § 130b – Gerichtliches elektronisches Dokument
+# § 130b – Gerichtliches elektronisches Dokument
 
 Soweit dieses Gesetz dem Richter, dem Rechtspfleger, dem Urkundsbeamten der Geschäftsstelle oder dem Gerichtsvollzieher die handschriftliche Unterzeichnung vorschreibt, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches Dokument, in welches das handschriftlich unterzeichnete Schriftstück gemäß § 298a Absatz 2 übertragen worden ist.
 
-
-## § 130c – Formulare; Verordnungsermächtigung
+# § 130c – Formulare; Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 130a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 131 – Beifügung von Urkunden
+# § 131 – Beifügung von Urkunden
 
 (1) Dem vorbereitenden Schriftsatz sind die in den Händen der Partei befindlichen Urkunden, auf die in dem Schriftsatz Bezug genommen wird, in Abschrift beizufügen.
 
@@ -6283,29 +6120,25 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (3) Sind die Urkunden dem Gegner bereits bekannt oder von bedeutendem Umfang, so genügt ihre genaue Bezeichnung mit dem Erbieten, Einsicht zu gewähren.
 
-
-## § 132 – Fristen für Schriftsätze
+# § 132 – Fristen für Schriftsätze
 
 (1) Der vorbereitende Schriftsatz, der neue Tatsachen oder ein anderes neues Vorbringen enthält, ist so rechtzeitig einzureichen, dass er mindestens eine Woche vor der mündlichen Verhandlung zugestellt werden kann. Das Gleiche gilt für einen Schriftsatz, der einen Zwischenstreit betrifft.
 
 (2) Der vorbereitende Schriftsatz, der eine Gegenerklärung auf neues Vorbringen enthält, ist so rechtzeitig einzureichen, dass er mindestens drei Tage vor der mündlichen Verhandlung zugestellt werden kann. Dies gilt nicht, wenn es sich um eine schriftliche Gegenerklärung in einem Zwischenstreit handelt.
 
-
-## § 133 – Abschriften
+# § 133 – Abschriften
 
 (1) Die Parteien sollen den Schriftsätzen, die sie bei dem Gericht einreichen, die für die Zustellung erforderliche Zahl von Abschriften der Schriftsätze und deren Anlagen beifügen. Das gilt nicht für elektronisch übermittelte Dokumente sowie für Anlagen, die dem Gegner in Urschrift oder in Abschrift vorliegen.
 
 (2) Im Falle der Zustellung von Anwalt zu Anwalt (§ 195) haben die Parteien sofort nach der Zustellung eine für das Prozessgericht bestimmte Abschrift ihrer vorbereitenden Schriftsätze und der Anlagen bei dem Gericht einzureichen.
 
-
-## § 134 – Einsicht von Urkunden
+# § 134 – Einsicht von Urkunden
 
 (1) Die Partei ist, wenn sie rechtzeitig aufgefordert wird, verpflichtet, die in ihren Händen befindlichen Urkunden, auf die sie in einem vorbereitenden Schriftsatz Bezug genommen hat, vor der mündlichen Verhandlung auf der Geschäftsstelle niederzulegen und den Gegner von der Niederlegung zu benachrichtigen.
 
 (2) Der Gegner hat zur Einsicht der Urkunden eine Frist von drei Tagen. Die Frist kann auf Antrag von dem Vorsitzenden verlängert oder abgekürzt werden.
 
-
-## § 135 – Mitteilung von Urkunden unter Rechtsanwälten
+# § 135 – Mitteilung von Urkunden unter Rechtsanwälten
 
 (1) Den Rechtsanwälten steht es frei, die Mitteilung von Urkunden von Hand zu Hand gegen Empfangsbescheinigung zu bewirken.
 
@@ -6313,8 +6146,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (3) Gegen das Zwischenurteil findet sofortige Beschwerde statt.
 
-
-## § 136 – Prozessleitung durch Vorsitzenden
+# § 136 – Prozessleitung durch Vorsitzenden
 
 (1) Der Vorsitzende eröffnet und leitet die Verhandlung.
 
@@ -6324,8 +6156,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (4) Er schließt die Verhandlung, wenn nach Ansicht des Gerichts die Sache vollständig erörtert ist, und verkündet die Urteile und Beschlüsse des Gerichts.
 
-
-## § 137 – Gang der mündlichen Verhandlung
+# § 137 – Gang der mündlichen Verhandlung
 
 (1) Die mündliche Verhandlung wird dadurch eingeleitet, dass die Parteien ihre Anträge stellen.
 
@@ -6335,8 +6166,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (4) In Anwaltsprozessen ist neben dem Anwalt auch der Partei selbst auf Antrag das Wort zu gestatten.
 
-
-## § 138 – Erklärungspflicht über Tatsachen; Wahrheitspflicht
+# § 138 – Erklärungspflicht über Tatsachen; Wahrheitspflicht
 
 (1) Die Parteien haben ihre Erklärungen über tatsächliche Umstände vollständig und der Wahrheit gemäß abzugeben.
 
@@ -6346,8 +6176,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (4) Eine Erklärung mit Nichtwissen ist nur über Tatsachen zulässig, die weder eigene Handlungen der Partei noch Gegenstand ihrer eigenen Wahrnehmung gewesen sind.
 
-
-## § 139 – Materielle Prozessleitung
+# § 139 – Materielle Prozessleitung
 
 (1) Das Gericht hat das Sach- und Streitverhältnis, soweit erforderlich, mit den Parteien nach der tatsächlichen und rechtlichen Seite zu erörtern und Fragen zu stellen. Es hat dahin zu wirken, dass die Parteien sich rechtzeitig und vollständig über alle erheblichen Tatsachen erklären, insbesondere ungenügende Angaben zu den geltend gemachten Tatsachen ergänzen, die Beweismittel bezeichnen und die sachdienlichen Anträge stellen. Das Gericht kann durch Maßnahmen der Prozessleitung das Verfahren strukturieren und den Streitstoff abschichten.
 
@@ -6359,13 +6188,11 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (5) Ist einer Partei eine sofortige Erklärung zu einem gerichtlichen Hinweis nicht möglich, so soll auf ihren Antrag das Gericht eine Frist bestimmen, in der sie die Erklärung in einem Schriftsatz nachbringen kann.
 
-
-## § 140 – Beanstandung von Prozessleitung oder Fragen
+# § 140 – Beanstandung von Prozessleitung oder Fragen
 
 Wird eine auf die Sachleitung bezügliche Anordnung des Vorsitzenden oder eine von dem Vorsitzenden oder einem Gerichtsmitglied gestellte Frage von einer bei der Verhandlung beteiligten Person als unzulässig beanstandet, so entscheidet das Gericht.
 
-
-## § 141 – Anordnung des persönlichen Erscheinens
+# § 141 – Anordnung des persönlichen Erscheinens
 
 (1) Das Gericht soll das persönliche Erscheinen beider Parteien anordnen, wenn dies zur Aufklärung des Sachverhalts geboten erscheint. Ist einer Partei wegen großer Entfernung oder aus sonstigem wichtigen Grund die persönliche Wahrnehmung des Termins nicht zuzumuten, so sieht das Gericht von der Anordnung ihres Erscheinens ab.
 
@@ -6373,8 +6200,7 @@ Wird eine auf die Sachleitung bezügliche Anordnung des Vorsitzenden oder eine v
 
 (3) Bleibt die Partei im Termin aus, so kann gegen sie Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen festgesetzt werden. Dies gilt nicht, wenn die Partei zur Verhandlung einen Vertreter entsendet, der zur Aufklärung des Tatbestandes in der Lage und zur Abgabe der gebotenen Erklärungen, insbesondere zu einem Vergleichsabschluss, ermächtigt ist. Die Partei ist auf die Folgen ihres Ausbleibens in der Ladung hinzuweisen.
 
-
-## § 142 – Anordnung der Urkundenvorlegung
+# § 142 – Anordnung der Urkundenvorlegung
 
 (1) Das Gericht kann anordnen, dass eine Partei oder ein Dritter die in ihrem oder seinem Besitz befindlichen Urkunden und sonstigen Unterlagen, auf die sich eine Partei bezogen hat, vorlegt. Das Gericht kann hierfür eine Frist setzen sowie anordnen, dass die vorgelegten Unterlagen während einer von ihm zu bestimmenden Zeit auf der Geschäftsstelle verbleiben.
 
@@ -6382,13 +6208,11 @@ Wird eine auf die Sachleitung bezügliche Anordnung des Vorsitzenden oder eine v
 
 (3) Das Gericht kann anordnen, dass von in fremder Sprache abgefassten Urkunden eine Übersetzung beigebracht wird, die ein Übersetzer angefertigt hat, der für Sprachübertragungen der betreffenden Art in einem Land nach den landesrechtlichen Vorschriften ermächtigt oder öffentlich bestellt wurde oder einem solchen Übersetzer jeweils gleichgestellt ist. Eine solche Übersetzung gilt als richtig und vollständig, wenn dies von dem Übersetzer bescheinigt wird. Die Bescheinigung soll auf die Übersetzung gesetzt werden, Ort und Tag der Übersetzung sowie die Stellung des Übersetzers angeben und von ihm unterschrieben werden. Der Beweis der Unrichtigkeit oder Unvollständigkeit der Übersetzung ist zulässig. Die Anordnung nach Satz 1 kann nicht gegenüber dem Dritten ergehen.
 
-
-## § 143 – Anordnung der Aktenübermittlung
+# § 143 – Anordnung der Aktenübermittlung
 
 Das Gericht kann anordnen, dass die Parteien die in ihrem Besitz befindlichen Akten vorlegen, soweit diese aus Dokumenten bestehen, welche die Verhandlung und Entscheidung der Sache betreffen.
 
-
-## § 144 – Augenschein; Sachverständige
+# § 144 – Augenschein; Sachverständige
 
 (1) Das Gericht kann die Einnahme des Augenscheins sowie die Hinzuziehung von Sachverständigen anordnen. Es kann zu diesem Zweck einer Partei oder einem Dritten die Vorlegung eines in ihrem oder seinem Besitz befindlichen Gegenstandes aufgeben und hierfür eine Frist setzen. Es kann auch die Duldung der Maßnahme nach Satz 1 aufgeben, sofern nicht eine Wohnung betroffen ist.
 
@@ -6396,8 +6220,7 @@ Das Gericht kann anordnen, dass die Parteien die in ihrem Besitz befindlichen Ak
 
 (3) Die Vorschriften, die eine auf Antrag angeordnete Einnahme des Augenscheins oder Begutachtung durch Sachverständige zum Gegenstand haben, sind entsprechend anzuwenden.
 
-
-## § 145 – Prozesstrennung
+# § 145 – Prozesstrennung
 
 (1) Das Gericht kann anordnen, dass mehrere in einer Klage erhobene Ansprüche in getrennten Prozessen verhandelt werden, wenn dies aus sachlichen Gründen gerechtfertigt ist. Die Entscheidung ergeht durch Beschluss und ist zu begründen.
 
@@ -6405,64 +6228,53 @@ Das Gericht kann anordnen, dass die Parteien die in ihrem Besitz befindlichen Ak
 
 (3) Macht der Beklagte die Aufrechnung einer Gegenforderung geltend, die mit der in der Klage geltend gemachten Forderung nicht in rechtlichem Zusammenhang steht, so kann das Gericht anordnen, dass über die Klage und über die Aufrechnung getrennt verhandelt werde; die Vorschriften des § 302 sind anzuwenden.
 
-
-## § 146 – Beschränkung auf einzelne Angriffs- und Verteidigungsmittel
+# § 146 – Beschränkung auf einzelne Angriffs- und Verteidigungsmittel
 
 Das Gericht kann anordnen, dass bei mehreren auf denselben Anspruch sich beziehenden selbständigen Angriffs- oder Verteidigungsmitteln (Klagegründen, Einreden, Repliken usw.) die Verhandlung zunächst auf eines oder einige dieser Angriffs- oder Verteidigungsmittel zu beschränken sei.
 
-
-## § 147 – Prozessverbindung
+# § 147 – Prozessverbindung
 
 Das Gericht kann die Verbindung mehrerer bei ihm anhängiger Prozesse derselben oder verschiedener Parteien zum Zwecke der gleichzeitigen Verhandlung und Entscheidung anordnen, wenn die Ansprüche, die den Gegenstand dieser Prozesse bilden, in rechtlichem Zusammenhang stehen oder in einer Klage hätten geltend gemacht werden können.
 
-
-## § 148 – Aussetzung bei Vorgreiflichkeit
+# § 148 – Aussetzung bei Vorgreiflichkeit
 
 (1) Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Rechtsstreits bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen, dass die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
 
 (2) Das Gericht kann ferner, wenn die Entscheidung des Rechtsstreits von Feststellungszielen abhängt, die den Gegenstand eines anhängigen Musterfeststellungsverfahrens bilden, auf Antrag des Klägers, der nicht Verbraucher ist, anordnen, dass die Verhandlung bis zur Erledigung des Musterfeststellungsverfahrens auszusetzen sei.
 
-
-## § 149 – Aussetzung bei Verdacht einer Straftat
+# § 149 – Aussetzung bei Verdacht einer Straftat
 
 (1) Das Gericht kann, wenn sich im Laufe eines Rechtsstreits der Verdacht einer Straftat ergibt, deren Ermittlung auf die Entscheidung von Einfluss ist, die Aussetzung der Verhandlung bis zur Erledigung des Strafverfahrens anordnen.
 
 (2) Das Gericht hat die Verhandlung auf Antrag einer Partei fortzusetzen, wenn seit der Aussetzung ein Jahr vergangen ist. Dies gilt nicht, wenn gewichtige Gründe für die Aufrechterhaltung der Aussetzung sprechen.
 
-
-## § 150 – Aufhebung von Trennung, Verbindung oder Aussetzung
+# § 150 – Aufhebung von Trennung, Verbindung oder Aussetzung
 
 Das Gericht kann die von ihm erlassenen, eine Trennung, Verbindung oder Aussetzung betreffenden Anordnungen wieder aufheben. § 149 Abs. 2 bleibt unberührt.
 
-
-## § 151
+# § 151
 
 (weggefallen)
 
-
-## § 152 – Aussetzung bei Eheaufhebungsantrag
+# § 152 – Aussetzung bei Eheaufhebungsantrag
 
 Hängt die Entscheidung eines Rechtsstreits davon ab, ob eine Ehe aufhebbar ist, und ist die Aufhebung beantragt, so hat das Gericht auf Antrag das Verfahren auszusetzen. Ist das Verfahren über die Aufhebung erledigt, so findet die Aufnahme des ausgesetzten Verfahrens statt.
 
-
-## § 153 – Aussetzung bei Vaterschaftsanfechtungsklage
+# § 153 – Aussetzung bei Vaterschaftsanfechtungsklage
 
 Hängt die Entscheidung eines Rechtsstreits davon ab, ob ein Mann, dessen Vaterschaft im Wege der Anfechtungsklage angefochten worden ist, der Vater des Kindes ist, so gelten die Vorschriften des § 152 entsprechend.
 
-
-## § 154 – Aussetzung bei Ehe- oder Kindschaftsstreit
+# § 154 – Aussetzung bei Ehe- oder Kindschaftsstreit
 
 (1) Wird im Laufe eines Rechtsstreits streitig, ob zwischen den Parteien eine Ehe oder eine Lebenspartnerschaft bestehe oder nicht bestehe, und hängt von der Entscheidung dieser Frage die Entscheidung des Rechtsstreits ab, so hat das Gericht auf Antrag das Verfahren auszusetzen, bis der Streit über das Bestehen oder Nichtbestehen der Ehe oder der Lebenspartnerschaft im Wege der Feststellungsklage erledigt ist.
 
 (2) Diese Vorschrift gilt entsprechend, wenn im Laufe eines Rechtsstreits streitig wird, ob zwischen den Parteien ein Eltern- und Kindesverhältnis bestehe oder nicht bestehe oder ob der einen Partei die elterliche Sorge für die andere zustehe oder nicht zustehe, und von der Entscheidung dieser Fragen die Entscheidung des Rechtsstreits abhängt.
 
-
-## § 155 – Aufhebung der Aussetzung bei Verzögerung
+# § 155 – Aufhebung der Aussetzung bei Verzögerung
 
 In den Fällen der §§ 152, 153 kann das Gericht auf Antrag die Anordnung, durch die das Verfahren ausgesetzt ist, aufheben, wenn die Betreibung des Rechtsstreits, der zu der Aussetzung Anlass gegeben hat, verzögert wird.
 
-
-## § 156 – Wiedereröffnung der Verhandlung
+# § 156 – Wiedereröffnung der Verhandlung
 
 (1) Das Gericht kann die Wiedereröffnung einer Verhandlung, die geschlossen war, anordnen.
 
@@ -6474,25 +6286,21 @@ In den Fällen der §§ 152, 153 kann das Gericht auf Antrag die Anordnung, durc
 
 3. zwischen dem Schluss der mündlichen Verhandlung und dem Schluss der Beratung und Abstimmung (§§ 192 bis 197 des Gerichtsverfassungsgesetzes) ein Richter ausgeschieden ist.
 
-
-## § 157 – Untervertretung in der Verhandlung
+# § 157 – Untervertretung in der Verhandlung
 
 Der bevollmächtigte Rechtsanwalt kann in Verfahren, in denen die Parteien den Rechtsstreit selbst führen können, zur Vertretung in der Verhandlung einen Referendar bevollmächtigen, der im Vorbereitungsdienst bei ihm beschäftigt ist.
 
-
-## § 158 – Entfernung infolge Prozessleitungsanordnung
+# § 158 – Entfernung infolge Prozessleitungsanordnung
 
 Ist eine bei der Verhandlung beteiligte Person zur Aufrechterhaltung der Ordnung von dem Ort der Verhandlung entfernt worden, so kann auf Antrag gegen sie in gleicher Weise verfahren werden, als wenn sie freiwillig sich entfernt hätte.
 
-
-## § 159 – Protokollaufnahme
+# § 159 – Protokollaufnahme
 
 (1) Über die Verhandlung und jede Beweisaufnahme ist ein Protokoll aufzunehmen. Für die Protokollführung kann ein Urkundsbeamter der Geschäftsstelle zugezogen werden, wenn dies auf Grund des zu erwartenden Umfangs des Protokolls, in Anbetracht der besonderen Schwierigkeit der Sache oder aus einem sonstigen wichtigen Grund erforderlich ist.
 
 (2) Absatz 1 gilt entsprechend für Verhandlungen, die außerhalb der Sitzung vor Richtern beim Amtsgericht oder vor beauftragten oder ersuchten Richtern stattfinden. Ein Protokoll über eine Güteverhandlung oder weitere Güteversuche vor einem Güterichter nach § 278 Absatz 5 wird nur auf übereinstimmenden Antrag der Parteien aufgenommen.
 
-
-## § 160 – Inhalt des Protokolls
+# § 160 – Inhalt des Protokolls
 
 (1) Das Protokoll enthält
 
@@ -6534,8 +6342,7 @@ Ist eine bei der Verhandlung beteiligte Person zur Aufrechterhaltung der Ordnung
 
 (5) Der Aufnahme in das Protokoll steht die Aufnahme in eine Schrift gleich, die dem Protokoll als Anlage beigefügt und in ihm als solche bezeichnet ist.
 
-
-## § 160a – Vorläufige Protokollaufzeichnung
+# § 160a – Vorläufige Protokollaufzeichnung
 
 (1) Der Inhalt des Protokolls kann in einer gebräuchlichen Kurzschrift, durch verständliche Abkürzungen oder auf einem Ton- oder Datenträger vorläufig aufgezeichnet werden.
 
@@ -6551,8 +6358,7 @@ Soweit das Gericht über eine zentrale Datenspeichereinrichtung verfügt, könne
 
 (4) Die endgültige Herstellung durch Aufzeichnung auf Datenträger in der Form des § 130b ist möglich.
 
-
-## § 161 – Entbehrliche Feststellungen
+# § 161 – Entbehrliche Feststellungen
 
 (1) Feststellungen nach § 160 Abs. 3 Nr. 4 und 5 brauchen nicht in das Protokoll aufgenommen zu werden,
 
@@ -6562,22 +6368,19 @@ Soweit das Gericht über eine zentrale Datenspeichereinrichtung verfügt, könne
 
 (2) In dem Protokoll ist zu vermerken, dass die Vernehmung oder der Augenschein durchgeführt worden ist. § 160a Abs. 3 gilt entsprechend.
 
-
-## § 162 – Genehmigung des Protokolls
+# § 162 – Genehmigung des Protokolls
 
 (1) Das Protokoll ist insoweit, als es Feststellungen nach § 160 Abs. 3 Nr. 1, 3, 4, 5, 8, 9 oder zu Protokoll erklärte Anträge enthält, den Beteiligten vorzulesen oder zur Durchsicht vorzulegen. Ist der Inhalt des Protokolls nur vorläufig aufgezeichnet worden, so genügt es, wenn die Aufzeichnungen vorgelesen oder abgespielt werden. In dem Protokoll ist zu vermerken, dass dies geschehen und die Genehmigung erteilt ist oder welche Einwendungen erhoben worden sind.
 
 (2) Feststellungen nach § 160 Abs. 3 Nr. 4 brauchen nicht abgespielt zu werden, wenn sie in Gegenwart der Beteiligten unmittelbar aufgezeichnet worden sind; der Beteiligte, dessen Aussage aufgezeichnet ist, kann das Abspielen verlangen. Soweit Feststellungen nach § 160 Abs. 3 Nr. 4 und 5 in Gegenwart der Beteiligten diktiert worden sind, kann das Abspielen, das Vorlesen oder die Vorlage zur Durchsicht unterbleiben, wenn die Beteiligten nach der Aufzeichnung darauf verzichten; in dem Protokoll ist zu vermerken, dass der Verzicht ausgesprochen worden ist.
 
-
-## § 163 – Unterschreiben des Protokolls
+# § 163 – Unterschreiben des Protokolls
 
 (1) Das Protokoll ist von dem Vorsitzenden und von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben. Ist der Inhalt des Protokolls ganz oder teilweise mit einem Tonaufnahmegerät vorläufig aufgezeichnet worden, so hat der Urkundsbeamte der Geschäftsstelle die Richtigkeit der Übertragung zu prüfen und durch seine Unterschrift zu bestätigen; dies gilt auch dann, wenn der Urkundsbeamte der Geschäftsstelle zur Sitzung nicht zugezogen war.
 
 (2) Ist der Vorsitzende verhindert, so unterschreibt für ihn der älteste beisitzende Richter; war nur ein Richter tätig und ist dieser verhindert, so genügt die Unterschrift des zur Protokollführung zugezogenen Urkundsbeamten der Geschäftsstelle. Ist dieser verhindert, so genügt die Unterschrift des Richters. Der Grund der Verhinderung soll im Protokoll vermerkt werden.
 
-
-## § 164 – Protokollberichtigung
+# § 164 – Protokollberichtigung
 
 (1) Unrichtigkeiten des Protokolls können jederzeit berichtigt werden.
 
@@ -6587,32 +6390,27 @@ Soweit das Gericht über eine zentrale Datenspeichereinrichtung verfügt, könne
 
 (4) Erfolgt der Berichtigungsvermerk in der Form des § 130b, ist er in einem gesonderten elektronischen Dokument festzuhalten. Das Dokument ist mit dem Protokoll untrennbar zu verbinden.
 
-
-## § 165 – Beweiskraft des Protokolls
+# § 165 – Beweiskraft des Protokolls
 
 Die Beachtung der für die Verhandlung vorgeschriebenen Förmlichkeiten kann nur durch das Protokoll bewiesen werden. Gegen seinen diese Förmlichkeiten betreffenden Inhalt ist nur der Nachweis der Fälschung zulässig.
 
-
-## § 166 – Zustellung
+# § 166 – Zustellung
 
 (1) Zustellung ist die Bekanntgabe eines Dokuments an eine Person in der in diesem Titel bestimmten Form.
 
 (2) Dokumente, deren Zustellung vorgeschrieben oder vom Gericht angeordnet ist, sind von Amts wegen zuzustellen, soweit nicht anderes bestimmt ist.
 
-
-## § 167 – Rückwirkung der Zustellung
+# § 167 – Rückwirkung der Zustellung
 
 Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beginnen oder nach § 204 des Bürgerlichen Gesetzbuchs gehemmt werden, tritt diese Wirkung bereits mit Eingang des Antrags oder der Erklärung ein, wenn die Zustellung demnächst erfolgt.
 
-
-## § 168 – Aufgaben der Geschäftsstelle
+# § 168 – Aufgaben der Geschäftsstelle
 
 (1) Die Geschäftsstelle führt die Zustellung nach §§ 173 bis 175 aus. Sie kann einen nach § 33 Abs. 1 des Postgesetzes beliehenen Unternehmer (Post) oder einen Justizbediensteten mit der Ausführung der Zustellung beauftragen. Den Auftrag an die Post erteilt die Geschäftsstelle auf dem dafür vorgesehenen Vordruck.
 
 (2) Der Vorsitzende des Prozessgerichts oder ein von ihm bestimmtes Mitglied können einen Gerichtsvollzieher oder eine andere Behörde mit der Ausführung der Zustellung beauftragen, wenn eine Zustellung nach Absatz 1 keinen Erfolg verspricht.
 
-
-## § 169 – Bescheinigung des Zeitpunktes der Zustellung; Beglaubigung
+# § 169 – Bescheinigung des Zeitpunktes der Zustellung; Beglaubigung
 
 (1) Die Geschäftsstelle bescheinigt auf Antrag den Zeitpunkt der Zustellung.
 
@@ -6630,8 +6428,7 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 3. nach Maßgabe des § 298a errichtet wurde und mit einem Übertragungsnachweis nach § 298a Absatz 2 Satz 3 oder 4 versehen ist.
 
-
-## § 170 – Zustellung an Vertreter
+# § 170 – Zustellung an Vertreter
 
 (1) Bei nicht prozessfähigen Personen ist an ihren gesetzlichen Vertreter zuzustellen. Die Zustellung an die nicht prozessfähige Person ist unwirksam.
 
@@ -6639,25 +6436,21 @@ Soll durch die Zustellung eine Frist gewahrt werden oder die Verjährung neu beg
 
 (3) Bei mehreren gesetzlichen Vertretern oder Leitern genügt die Zustellung an einen von ihnen.
 
-
-## § 171 – Zustellung an Bevollmächtigte
+# § 171 – Zustellung an Bevollmächtigte
 
 An den rechtsgeschäftlich bestellten Vertreter kann mit gleicher Wirkung wie an den Vertretenen zugestellt werden. Der Vertreter hat eine schriftliche Vollmacht vorzulegen.
 
-
-## § 172 – Zustellung an Prozessbevollmächtigte
+# § 172 – Zustellung an Prozessbevollmächtigte
 
 (1) In einem anhängigen Verfahren hat die Zustellung an den für den Rechtszug bestellten Prozessbevollmächtigten zu erfolgen. Das gilt auch für die Prozesshandlungen, die das Verfahren vor diesem Gericht infolge eines Einspruchs, einer Aufhebung des Urteils dieses Gerichts, einer Wiederaufnahme des Verfahrens, einer Rüge nach § 321a oder eines neuen Vorbringens in dem Verfahren der Zwangsvollstreckung betreffen. Das Verfahren vor dem Vollstreckungsgericht gehört zum ersten Rechtszug.
 
 (2) Ein Schriftsatz, durch den ein Rechtsmittel eingelegt wird, ist dem Prozessbevollmächtigten des Rechtszuges zuzustellen, dessen Entscheidung angefochten wird. Wenn bereits ein Prozessbevollmächtigter für den höheren Rechtszug bestellt ist, ist der Schriftsatz diesem zuzustellen. Der Partei ist selbst zuzustellen, wenn sie einen Prozessbevollmächtigten nicht bestellt hat.
 
-
-## § 173 – Zustellung durch Aushändigung an der Amtsstelle
+# § 173 – Zustellung durch Aushändigung an der Amtsstelle
 
 Ein Schriftstück kann dem Adressaten oder seinem rechtsgeschäftlich bestellten Vertreter durch Aushändigung an der Amtsstelle zugestellt werden. Zum Nachweis der Zustellung ist auf dem Schriftstück und in den Akten zu vermerken, dass es zum Zwecke der Zustellung ausgehändigt wurde und wann das geschehen ist; bei Aushändigung an den Vertreter ist dies mit dem Zusatz zu vermerken, an wen das Schriftstück ausgehändigt wurde und dass die Vollmacht nach § 171 Satz 2 vorgelegt wurde. Der Vermerk ist von dem Bediensteten zu unterschreiben, der die Aushändigung vorgenommen hat.
 
-
-## § 174 – Zustellung gegen Empfangsbekenntnis oder automatisierte Eingangsbestätigung
+# § 174 – Zustellung gegen Empfangsbekenntnis oder automatisierte Eingangsbestätigung
 
 (1) Ein Schriftstück kann an einen Anwalt, einen Notar, einen Gerichtsvollzieher, einen Steuerberater oder an eine sonstige Person, bei der auf Grund ihres Berufes von einer erhöhten Zuverlässigkeit ausgegangen werden kann, eine Behörde, eine Körperschaft oder eine Anstalt des öffentlichen Rechts gegen Empfangsbekenntnis zugestellt werden.
 
@@ -6667,25 +6460,21 @@ Ein Schriftstück kann dem Adressaten oder seinem rechtsgeschäftlich bestellten
 
 (4) Zum Nachweis der Zustellung nach den Absätzen 1 und 2 genügt das mit Datum und Unterschrift des Adressaten versehene Empfangsbekenntnis, das an das Gericht zurückzusenden ist. Das Empfangsbekenntnis kann schriftlich, durch Telekopie oder als elektronisches Dokument (§ 130a) zurückgesandt werden. Die Zustellung nach Absatz 3 wird durch ein elektronisches Empfangsbekenntnis nachgewiesen. Das elektronische Empfangsbekenntnis ist in strukturierter maschinenlesbarer Form zu übermitteln. Wird vom Gericht hierfür mit der Zustellung ein strukturierter Datensatz zur Verfügung gestellt, ist dieser zu nutzen. Andernfalls ist das elektronische Empfangsbekenntnis abweichend von Satz 4 als elektronisches Dokument (§ 130a) zu übermitteln.
 
-
-## § 175 – Zustellung durch Einschreiben mit Rückschein
+# § 175 – Zustellung durch Einschreiben mit Rückschein
 
 Ein Schriftstück kann durch Einschreiben mit Rückschein zugestellt werden. Zum Nachweis der Zustellung genügt der Rückschein.
 
-
-## § 176 – Zustellungsauftrag
+# § 176 – Zustellungsauftrag
 
 (1) Wird der Post, einem Justizbediensteten oder einem Gerichtsvollzieher ein Zustellungsauftrag erteilt oder wird eine andere Behörde um die Ausführung der Zustellung ersucht, übergibt die Geschäftsstelle das zuzustellende Schriftstück in einem verschlossenen Umschlag und ein vorbereitetes Formular einer Zustellungsurkunde.
 
 (2) Die Ausführung der Zustellung erfolgt nach den §§ 177 bis 181.
 
-
-## § 177 – Ort der Zustellung
+# § 177 – Ort der Zustellung
 
 Das Schriftstück kann der Person, der zugestellt werden soll, an jedem Ort übergeben werden, an dem sie angetroffen wird.
 
-
-## § 178 – Ersatzzustellung in der Wohnung, in Geschäftsräumen und Einrichtungen
+# § 178 – Ersatzzustellung in der Wohnung, in Geschäftsräumen und Einrichtungen
 
 (1) Wird die Person, der zugestellt werden soll, in ihrer Wohnung, in dem Geschäftsraum oder in einer Gemeinschaftseinrichtung, in der sie wohnt, nicht angetroffen, kann das Schriftstück zugestellt werden
 
@@ -6697,25 +6486,21 @@ Das Schriftstück kann der Person, der zugestellt werden soll, an jedem Ort übe
 
 (2) Die Zustellung an eine der in Absatz 1 bezeichneten Personen ist unwirksam, wenn diese an dem Rechtsstreit als Gegner der Person, der zugestellt werden soll, beteiligt ist.
 
-
-## § 179 – Zustellung bei verweigerter Annahme
+# § 179 – Zustellung bei verweigerter Annahme
 
 Wird die Annahme des zuzustellenden Schriftstücks unberechtigt verweigert, so ist das Schriftstück in der Wohnung oder in dem Geschäftsraum zurückzulassen. Hat der Zustellungsadressat keine Wohnung oder ist kein Geschäftsraum vorhanden, ist das zuzustellende Schriftstück zurückzusenden. Mit der Annahmeverweigerung gilt das Schriftstück als zugestellt.
 
-
-## § 180 – Ersatzzustellung durch Einlegen in den Briefkasten
+# § 180 – Ersatzzustellung durch Einlegen in den Briefkasten
 
 Ist die Zustellung nach § 178 Abs. 1 Nr. 1 oder 2 nicht ausführbar, kann das Schriftstück in einen zu der Wohnung oder dem Geschäftsraum gehörenden Briefkasten oder in eine ähnliche Vorrichtung eingelegt werden, die der Adressat für den Postempfang eingerichtet hat und die in der allgemein üblichen Art für eine sichere Aufbewahrung geeignet ist. Mit der Einlegung gilt das Schriftstück als zugestellt. Der Zusteller vermerkt auf dem Umschlag des zuzustellenden Schriftstücks das Datum der Zustellung.
 
-
-## § 181 – Ersatzzustellung durch Niederlegung
+# § 181 – Ersatzzustellung durch Niederlegung
 
 (1) Ist die Zustellung nach § 178 Abs. 1 Nr. 3 oder § 180 nicht ausführbar, kann das zuzustellende Schriftstück auf der Geschäftsstelle des Amtsgerichts, in dessen Bezirk der Ort der Zustellung liegt, niedergelegt werden. Wird die Post mit der Ausführung der Zustellung beauftragt, ist das zuzustellende Schriftstück am Ort der Zustellung oder am Ort des Amtsgerichts bei einer von der Post dafür bestimmten Stelle niederzulegen. Über die Niederlegung ist eine schriftliche Mitteilung auf dem vorgesehenen Formular unter der Anschrift der Person, der zugestellt werden soll, in der bei gewöhnlichen Briefen üblichen Weise abzugeben oder, wenn das nicht möglich ist, an der Tür der Wohnung, des Geschäftsraums oder der Gemeinschaftseinrichtung anzuheften. Das Schriftstück gilt mit der Abgabe der schriftlichen Mitteilung als zugestellt. Der Zusteller vermerkt auf dem Umschlag des zuzustellenden Schriftstücks das Datum der Zustellung.
 
 (2) Das niedergelegte Schriftstück ist drei Monate zur Abholung bereitzuhalten. Nicht abgeholte Schriftstücke sind danach an den Absender zurückzusenden.
 
-
-## § 182 – Zustellungsurkunde
+# § 182 – Zustellungsurkunde
 
 (1) Zum Nachweis der Zustellung nach den §§ 171, 177 bis 181 ist eine Urkunde auf dem hierfür vorgesehenen Formular anzufertigen. Für diese Zustellungsurkunde gilt § 418.
 
@@ -6739,8 +6524,7 @@ Ist die Zustellung nach § 178 Abs. 1 Nr. 1 oder 2 nicht ausführbar, kann das S
 
 (3) Die Zustellungsurkunde ist der Geschäftsstelle in Urschrift oder als elektronisches Dokument unverzüglich zurückzuleiten.
 
-
-## § 183 – Zustellung im Ausland
+# § 183 – Zustellung im Ausland
 
 (1) Soweit nicht unmittelbar anwendbare Regelungen der Europäischen Union in ihrer jeweils geltenden Fassung, insbesondere
 
@@ -6758,15 +6542,13 @@ maßgeblich sind, gelten für die Zustellung im Ausland die nachfolgenden Absät
 
 (5) Zum Nachweis der Zustellung nach Absatz 2 Satz 2 erster Halbsatz genügt der Rückschein. Die Zustellung nach Absatz 2 Satz 2 zweiter Halbsatz und den Absätzen 3 und 4 wird durch das Zeugnis der ersuchten Behörde nachgewiesen.
 
-
-## § 184 – Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
+# § 184 – Zustellungsbevollmächtigter; Zustellung durch Aufgabe zur Post
 
 (1) Das Gericht kann bei der Zustellung nach § 183 Absatz 2 bis 5 anordnen, dass die Partei innerhalb einer angemessenen Frist einen Zustellungsbevollmächtigten benennt, der im Inland wohnt oder dort einen Geschäftsraum hat, falls sie nicht einen Prozessbevollmächtigten bestellt hat. Wird kein Zustellungsbevollmächtigter benannt, so können spätere Zustellungen bis zur nachträglichen Benennung dadurch bewirkt werden, dass das Schriftstück unter der Anschrift der Partei zur Post gegeben wird.
 
 (2) Das Schriftstück gilt zwei Wochen nach Aufgabe zur Post als zugestellt. Das Gericht kann eine längere Frist bestimmen. In der Anordnung nach Absatz 1 ist auf diese Rechtsfolgen hinzuweisen. Zum Nachweis der Zustellung ist in den Akten zu vermerken, zu welcher Zeit und unter welcher Anschrift das Schriftstück zur Post gegeben wurde.
 
-
-## § 185 – Öffentliche Zustellung
+# § 185 – Öffentliche Zustellung
 
 Die Zustellung kann durch öffentliche Bekanntmachung (öffentliche Zustellung) erfolgen, wenn
 
@@ -6778,8 +6560,7 @@ Die Zustellung kann durch öffentliche Bekanntmachung (öffentliche Zustellung) 
 
 4. die Zustellung nicht erfolgen kann, weil der Ort der Zustellung die Wohnung einer Person ist, die nach den §§ 18 bis 20 des Gerichtsverfassungsgesetzes der Gerichtsbarkeit nicht unterliegt.
 
-
-## § 186 – Bewilligung und Ausführung der öffentlichen Zustellung
+# § 186 – Bewilligung und Ausführung der öffentlichen Zustellung
 
 (1) Über die Bewilligung der öffentlichen Zustellung entscheidet das Prozessgericht. Die Entscheidung kann ohne mündliche Verhandlung ergehen.
 
@@ -6797,33 +6578,27 @@ Die Benachrichtigung muss den Hinweis enthalten, dass ein Schriftstück öffentl
 
 (3) In den Akten ist zu vermerken, wann die Benachrichtigung ausgehängt und wann sie abgenommen wurde.
 
-
-## § 187 – Veröffentlichung der Benachrichtigung
+# § 187 – Veröffentlichung der Benachrichtigung
 
 Das Prozessgericht kann zusätzlich anordnen, dass die Benachrichtigung einmal oder mehrfach im Bundesanzeiger oder in anderen Blättern zu veröffentlichen ist.
 
-
-## § 188 – Zeitpunkt der öffentlichen Zustellung
+# § 188 – Zeitpunkt der öffentlichen Zustellung
 
 Das Schriftstück gilt als zugestellt, wenn seit dem Aushang der Benachrichtigung ein Monat vergangen ist. Das Prozessgericht kann eine längere Frist bestimmen.
 
-
-## § 189 – Heilung von Zustellungsmängeln
+# § 189 – Heilung von Zustellungsmängeln
 
 Lässt sich die formgerechte Zustellung eines Dokuments nicht nachweisen oder ist das Dokument unter Verletzung zwingender Zustellungsvorschriften zugegangen, so gilt es in dem Zeitpunkt als zugestellt, in dem das Dokument der Person, an die die Zustellung dem Gesetz gemäß gerichtet war oder gerichtet werden konnte, tatsächlich zugegangen ist.
 
-
-## § 190 – Einheitliche Zustellungsformulare
+# § 190 – Einheitliche Zustellungsformulare
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung und Vereinheitlichung der Zustellung Formulare einzuführen.
 
-
-## § 191 – Zustellung
+# § 191 – Zustellung
 
 Ist eine Zustellung auf Betreiben der Parteien zugelassen oder vorgeschrieben, finden die Vorschriften über die Zustellung von Amts wegen entsprechende Anwendung, soweit sich nicht aus den nachfolgenden Vorschriften Abweichungen ergeben.
 
-
-## § 192 – Zustellung durch Gerichtsvollzieher
+# § 192 – Zustellung durch Gerichtsvollzieher
 
 (1) Die von den Parteien zu betreibenden Zustellungen erfolgen unbeschadet der Zustellung im Ausland nach § 183 durch den Gerichtsvollzieher nach Maßgabe der §§ 193 und 194.
 
@@ -6831,8 +6606,7 @@ Ist eine Zustellung auf Betreiben der Parteien zugelassen oder vorgeschrieben, f
 
 (3) Im Verfahren vor dem Amtsgericht kann die Partei den Gerichtsvollzieher unter Vermittlung der Geschäftsstelle des Prozessgerichts mit der Zustellung beauftragen. Insoweit hat diese den Gerichtsvollzieher mit der Zustellung zu beauftragen.
 
-
-## § 193 – Ausführung der Zustellung
+# § 193 – Ausführung der Zustellung
 
 (1) Der Gerichtsvollzieher beurkundet auf der Urschrift des zuzustellenden Schriftstücks oder auf dem mit der Urschrift zu verbindenden hierfür vorgesehenen Formular die Ausführung der Zustellung nach § 182 Abs. 2 und vermerkt die Person, in deren Auftrag er zugestellt hat. Bei Zustellung durch Aufgabe zur Post ist das Datum und die Anschrift, unter der die Aufgabe erfolgte, zu vermerken.
 
@@ -6840,37 +6614,31 @@ Ist eine Zustellung auf Betreiben der Parteien zugelassen oder vorgeschrieben, f
 
 (3) Die Zustellungsurkunde ist der Partei zu übermitteln, für die zugestellt wurde.
 
-
-## § 194 – Zustellungsauftrag
+# § 194 – Zustellungsauftrag
 
 (1) Beauftragt der Gerichtsvollzieher die Post mit der Ausführung der Zustellung, vermerkt er auf dem zuzustellenden Schriftstück, im Auftrag welcher Person er es der Post übergibt. Auf der Urschrift des zuzustellenden Schriftstücks oder auf einem mit ihr zu verbindenden Übergabebogen bezeugt er, dass die mit der Anschrift des Zustellungsadressaten, der Bezeichnung des absendenden Gerichtsvollziehers und einem Aktenzeichen versehene Sendung der Post übergeben wurde.
 
 (2) Die Post leitet die Zustellungsurkunde unverzüglich an den Gerichtsvollzieher zurück.
 
-
-## § 195 – Zustellung von Anwalt zu Anwalt
+# § 195 – Zustellung von Anwalt zu Anwalt
 
 (1) Sind die Parteien durch Anwälte vertreten, so kann ein Dokument auch dadurch zugestellt werden, dass der zustellende Anwalt das Dokument dem anderen Anwalt übermittelt (Zustellung von Anwalt zu Anwalt). Auch Schriftsätze, die nach den Vorschriften dieses Gesetzes vom Amts wegen zugestellt werden, können stattdessen von Anwalt zu Anwalt zugestellt werden, wenn nicht gleichzeitig dem Gegner eine gerichtliche Anordnung mitzuteilen ist. In dem Schriftsatz soll die Erklärung enthalten sein, dass von Anwalt zu Anwalt zugestellt werde. Die Zustellung ist dem Gericht, sofern dies für die zu treffende Entscheidung erforderlich ist, nachzuweisen. Für die Zustellung an einen Anwalt gilt § 174 Abs. 2 Satz 1 und Abs. 3 Satz 1, 3 entsprechend.
 
 (2) Zum Nachweis der Zustellung genügt das mit Datum und Unterschrift versehene schriftliche Empfangsbekenntnis des Anwalts, dem zugestellt worden ist. § 174 Absatz 4 Satz 2 bis 4 gilt entsprechend. Der Anwalt, der zustellt, hat dem anderen Anwalt auf Verlangen eine Bescheinigung über die Zustellung zu erteilen.
 
+# §§ 195a bis 213a – (weggefallen)
 
-## §§ 195a bis 213a – (weggefallen)
-
-
-## § 214 – Ladung zum Termin
+# § 214 – Ladung zum Termin
 
 Die Ladung zu einem Termin wird von Amts wegen veranlasst.
 
-
-## § 215 – Notwendiger Inhalt der Ladung zur mündlichen Verhandlung
+# § 215 – Notwendiger Inhalt der Ladung zur mündlichen Verhandlung
 
 (1) In der Ladung zur mündlichen Verhandlung ist über die Folgen einer Versäumung des Termins zu belehren (§§ 330 bis 331a). Die Belehrung hat die Rechtsfolgen aus den §§ 91 und 708 Nr. 2 zu umfassen.
 
 (2) In Anwaltsprozessen muss die Ladung zur mündlichen Verhandlung, sofern die Zustellung nicht an einen Rechtsanwalt erfolgt, die Aufforderung enthalten, einen Anwalt zu bestellen.
 
-
-## § 216 – Terminsbestimmung
+# § 216 – Terminsbestimmung
 
 (1) Die Termine werden von Amts wegen bestimmt, wenn Anträge oder Erklärungen eingereicht werden, über die nur nach mündlicher Verhandlung entschieden werden kann oder über die mündliche Verhandlung vom Gericht angeordnet ist.
 
@@ -6878,37 +6646,31 @@ Die Ladung zu einem Termin wird von Amts wegen veranlasst.
 
 (3) Auf Sonntage, allgemeine Feiertage oder Sonnabende sind Termine nur in Notfällen anzuberaumen.
 
-
-## § 217 – Ladungsfrist
+# § 217 – Ladungsfrist
 
 Die Frist, die in einer anhängigen Sache zwischen der Zustellung der Ladung und dem Terminstag liegen soll (Ladungsfrist), beträgt in Anwaltsprozessen mindestens eine Woche, in anderen Prozessen mindestens drei Tage.
 
-
-## § 218 – Entbehrlichkeit der Ladung
+# § 218 – Entbehrlichkeit der Ladung
 
 Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung der Parteien unbeschadet der Vorschriften des § 141 Abs. 2 nicht erforderlich.
 
-
-## § 219 – Terminsort
+# § 219 – Terminsort
 
 (1) Die Termine werden an der Gerichtsstelle abgehalten, sofern nicht die Einnahme eines Augenscheins an Ort und Stelle, die Verhandlung mit einer am Erscheinen vor Gericht verhinderten Person oder eine sonstige Handlung erforderlich ist, die an der Gerichtsstelle nicht vorgenommen werden kann.
 
 (2) Der Bundespräsident ist nicht verpflichtet, persönlich an der Gerichtsstelle zu erscheinen.
 
-
-## § 220 – Aufruf der Sache; versäumter Termin
+# § 220 – Aufruf der Sache; versäumter Termin
 
 (1) Der Termin beginnt mit dem Aufruf der Sache.
 
 (2) Der Termin ist von einer Partei versäumt, wenn sie bis zum Schluss nicht verhandelt.
 
-
-## § 221 – Fristbeginn
+# § 221 – Fristbeginn
 
 (1) Der Lauf einer richterlichen Frist beginnt, sofern nicht bei ihrer Festsetzung ein anderes bestimmt wird, mit der Zustellung des Dokuments, in dem die Frist festgesetzt ist, und, wenn es einer solchen Zustellung nicht bedarf, mit der Verkündung der Frist.
 
-
-## § 222 – Fristberechnung
+# § 222 – Fristberechnung
 
 (1) Für die Berechnung der Fristen gelten die Vorschriften des Bürgerlichen Gesetzbuchs.
 
@@ -6916,13 +6678,11 @@ Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung d
 
 (3) Bei der Berechnung einer Frist, die nach Stunden bestimmt ist, werden Sonntage, allgemeine Feiertage und Sonnabende nicht mitgerechnet.
 
-
-## § 223
+# § 223
 
 (weggefallen)
 
-
-## § 224 – Fristkürzung; Fristverlängerung
+# § 224 – Fristkürzung; Fristverlängerung
 
 (1) Durch Vereinbarung der Parteien können Fristen, mit Ausnahme der Notfristen, abgekürzt werden. Notfristen sind nur diejenigen Fristen, die in diesem Gesetz als solche bezeichnet sind.
 
@@ -6930,8 +6690,7 @@ Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung d
 
 (3) Im Falle der Verlängerung wird die neue Frist von dem Ablauf der vorigen Frist an berechnet, wenn nicht im einzelnen Fall ein anderes bestimmt ist.
 
-
-## § 225 – Verfahren bei Friständerung
+# § 225 – Verfahren bei Friständerung
 
 (1) Über das Gesuch um Abkürzung oder Verlängerung einer Frist kann ohne mündliche Verhandlung entschieden werden.
 
@@ -6939,8 +6698,7 @@ Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung d
 
 (3) Eine Anfechtung des Beschlusses, durch den das Gesuch um Verlängerung einer Frist zurückgewiesen ist, findet nicht statt.
 
-
-## § 226 – Abkürzung von Zwischenfristen
+# § 226 – Abkürzung von Zwischenfristen
 
 (1) Einlassungsfristen, Ladungsfristen sowie diejenigen Fristen, die für die Zustellung vorbereitender Schriftsätze bestimmt sind, können auf Antrag abgekürzt werden.
 
@@ -6948,8 +6706,7 @@ Zu Terminen, die in verkündeten Entscheidungen bestimmt sind, ist eine Ladung d
 
 (3) Der Vorsitzende kann bei Bestimmung des Termins die Abkürzung ohne Anhörung des Gegners und des sonst Beteiligten verfügen; diese Verfügung ist dem Beteiligten abschriftlich mitzuteilen.
 
-
-## § 227 – Terminsänderung
+# § 227 – Terminsänderung
 
 (1) Aus erheblichen Gründen kann ein Termin aufgehoben oder verlegt sowie eine Verhandlung vertagt werden. Erhebliche Gründe sind insbesondere nicht
 
@@ -6983,40 +6740,33 @@ dabei genügt es, wenn nur einer von mehreren Ansprüchen die Voraussetzungen er
 
 (4) Über die Aufhebung sowie Verlegung eines Termins entscheidet der Vorsitzende ohne mündliche Verhandlung; über die Vertagung einer Verhandlung entscheidet das Gericht. Die Entscheidung ist kurz zu begründen. Sie ist unanfechtbar.
 
-
-## § 228
+# § 228
 
 (weggefallen)
 
-
-## § 229 – Beauftragter oder ersuchter Richter
+# § 229 – Beauftragter oder ersuchter Richter
 
 Die in diesem Titel dem Gericht und dem Vorsitzenden beigelegten Befugnisse stehen dem beauftragten oder ersuchten Richter in Bezug auf die von diesen zu bestimmenden Termine und Fristen zu.
 
-
-## § 230 – Allgemeine Versäumungsfolge
+# § 230 – Allgemeine Versäumungsfolge
 
 Die Versäumung einer Prozesshandlung hat zur allgemeinen Folge, dass die Partei mit der vorzunehmenden Prozesshandlung ausgeschlossen wird.
 
-
-## § 231 – Keine Androhung; Nachholung der Prozesshandlung
+# § 231 – Keine Androhung; Nachholung der Prozesshandlung
 
 (1) Einer Androhung der gesetzlichen Folgen der Versäumung bedarf es nicht; sie treten von selbst ein, sofern nicht dieses Gesetz einen auf Verwirklichung des Rechtsnachteils gerichteten Antrag erfordert.
 
 (2) Im letzteren Fall kann, solange nicht der Antrag gestellt und die mündliche Verhandlung über ihn geschlossen ist, die versäumte Prozesshandlung nachgeholt werden.
 
-
-## § 232 – Rechtsbehelfsbelehrung
+# § 232 – Rechtsbehelfsbelehrung
 
 Jede anfechtbare gerichtliche Entscheidung hat eine Belehrung über das statthafte Rechtsmittel, den Einspruch, den Widerspruch oder die Erinnerung sowie über das Gericht, bei dem der Rechtsbehelf einzulegen ist, über den Sitz des Gerichts und über die einzuhaltende Form und Frist zu enthalten. Dies gilt nicht in Verfahren, in denen sich die Parteien durch einen Rechtsanwalt vertreten lassen müssen, es sei denn, es ist über einen Einspruch oder Widerspruch zu belehren oder die Belehrung ist an einen Zeugen oder Sachverständigen zu richten. Über die Möglichkeit der Sprungrevision muss nicht belehrt werden.
 
-
-## § 233 – Wiedereinsetzung in den vorigen Stand
+# § 233 – Wiedereinsetzung in den vorigen Stand
 
 War eine Partei ohne ihr Verschulden verhindert, eine Notfrist oder die Frist zur Begründung der Berufung, der Revision, der Nichtzulassungsbeschwerde oder der Rechtsbeschwerde oder die Frist des § 234 Abs. 1 einzuhalten, so ist ihr auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Ein Fehlen des Verschuldens wird vermutet, wenn eine Rechtsbehelfsbelehrung unterblieben oder fehlerhaft ist.
 
-
-## § 234 – Wiedereinsetzungsfrist
+# § 234 – Wiedereinsetzungsfrist
 
 (1) Die Wiedereinsetzung muss innerhalb einer zweiwöchigen Frist beantragt werden. Die Frist beträgt einen Monat, wenn die Partei verhindert ist, die Frist zur Begründung der Berufung, der Revision, der Nichtzulassungsbeschwerde oder der Rechtsbeschwerde einzuhalten.
 
@@ -7024,25 +6774,21 @@ War eine Partei ohne ihr Verschulden verhindert, eine Notfrist oder die Frist zu
 
 (3) Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
 
-
-## § 235
+# § 235
 
 (weggefallen)
 
-
-## § 236 – Wiedereinsetzungsantrag
+# § 236 – Wiedereinsetzungsantrag
 
 (1) Die Form des Antrags auf Wiedereinsetzung richtet sich nach den Vorschriften, die für die versäumte Prozesshandlung gelten.
 
 (2) Der Antrag muss die Angabe der die Wiedereinsetzung begründenden Tatsachen enthalten; diese sind bei der Antragstellung oder im Verfahren über den Antrag glaubhaft zu machen. Innerhalb der Antragsfrist ist die versäumte Prozesshandlung nachzuholen; ist dies geschehen, so kann Wiedereinsetzung auch ohne Antrag gewährt werden.
 
-
-## § 237 – Zuständigkeit für Wiedereinsetzung
+# § 237 – Zuständigkeit für Wiedereinsetzung
 
 Über den Antrag auf Wiedereinsetzung entscheidet das Gericht, dem die Entscheidung über die nachgeholte Prozesshandlung zusteht.
 
-
-## § 238 – Verfahren bei Wiedereinsetzung
+# § 238 – Verfahren bei Wiedereinsetzung
 
 (1) Das Verfahren über den Antrag auf Wiedereinsetzung ist mit dem Verfahren über die nachgeholte Prozesshandlung zu verbinden. Das Gericht kann jedoch das Verfahren zunächst auf die Verhandlung und Entscheidung über den Antrag beschränken.
 
@@ -7052,8 +6798,7 @@ War eine Partei ohne ihr Verschulden verhindert, eine Notfrist oder die Frist zu
 
 (4) Die Kosten der Wiedereinsetzung fallen dem Antragsteller zur Last, soweit sie nicht durch einen unbegründeten Widerspruch des Gegners entstanden sind.
 
-
-## § 239 – Unterbrechung durch Tod der Partei
+# § 239 – Unterbrechung durch Tod der Partei
 
 (1) Im Falle des Todes einer Partei tritt eine Unterbrechung des Verfahrens bis zu dessen Aufnahme durch die Rechtsnachfolger ein.
 
@@ -7065,13 +6810,11 @@ War eine Partei ohne ihr Verschulden verhindert, eine Notfrist oder die Frist zu
 
 (5) Der Erbe ist vor der Annahme der Erbschaft zur Fortsetzung des Rechtsstreits nicht verpflichtet.
 
-
-## § 240 – Unterbrechung durch Insolvenzverfahren
+# § 240 – Unterbrechung durch Insolvenzverfahren
 
 Im Falle der Eröffnung des Insolvenzverfahrens über das Vermögen einer Partei wird das Verfahren, wenn es die Insolvenzmasse betrifft, unterbrochen, bis es nach den für das Insolvenzverfahren geltenden Vorschriften aufgenommen oder das Insolvenzverfahren beendet wird. Entsprechendes gilt, wenn die Verwaltungs- und Verfügungsbefugnis über das Vermögen des Schuldners auf einen vorläufigen Insolvenzverwalter übergeht.
 
-
-## § 241 – Unterbrechung durch Prozessunfähigkeit
+# § 241 – Unterbrechung durch Prozessunfähigkeit
 
 (1) Verliert eine Partei die Prozessfähigkeit oder stirbt der gesetzliche Vertreter einer Partei oder hört seine Vertretungsbefugnis auf, ohne dass die Partei prozessfähig geworden ist, so wird das Verfahren unterbrochen, bis der gesetzliche Vertreter oder der neue gesetzliche Vertreter von seiner Bestellung dem Gericht Anzeige macht oder der Gegner seine Absicht, das Verfahren fortzusetzen, dem Gericht angezeigt und das Gericht diese Anzeige von Amts wegen zugestellt hat.
 
@@ -7079,49 +6822,41 @@ Im Falle der Eröffnung des Insolvenzverfahrens über das Vermögen einer Partei
 
 (3) Diese Vorschriften sind entsprechend anzuwenden, wenn eine Nachlassverwaltung angeordnet wird.
 
-
-## § 242 – Unterbrechung durch Nacherbfolge
+# § 242 – Unterbrechung durch Nacherbfolge
 
 Tritt während des Rechtsstreits zwischen einem Vorerben und einem Dritten über einen der Nacherbfolge unterliegenden Gegenstand der Fall der Nacherbfolge ein, so gelten, sofern der Vorerbe befugt war, ohne Zustimmung des Nacherben über den Gegenstand zu verfügen, hinsichtlich der Unterbrechung und der Aufnahme des Verfahrens die Vorschriften des § 239 entsprechend.
 
-
-## § 243 – Aufnahme bei Nachlasspflegschaft und Testamentsvollstreckung
+# § 243 – Aufnahme bei Nachlasspflegschaft und Testamentsvollstreckung
 
 Wird im Falle der Unterbrechung des Verfahrens durch den Tod einer Partei ein Nachlasspfleger bestellt oder ist ein zur Führung des Rechtsstreits berechtigter Testamentsvollstrecker vorhanden, so sind die Vorschriften des § 241 und, wenn über den Nachlass das Insolvenzverfahren eröffnet wird, die Vorschriften des § 240 bei der Aufnahme des Verfahrens anzuwenden.
 
-
-## § 244 – Unterbrechung durch Anwaltsverlust
+# § 244 – Unterbrechung durch Anwaltsverlust
 
 (1) Stirbt in Anwaltsprozessen der Anwalt einer Partei oder wird er unfähig, die Vertretung der Partei fortzuführen, so tritt eine Unterbrechung des Verfahrens ein, bis der bestellte neue Anwalt seine Bestellung dem Gericht angezeigt und das Gericht die Anzeige dem Gegner von Amts wegen zugestellt hat.
 
 (2) Wird diese Anzeige verzögert, so ist auf Antrag des Gegners die Partei selbst zur Verhandlung der Hauptsache zu laden oder zur Bestellung eines neuen Anwalts binnen einer von dem Vorsitzenden zu bestimmenden Frist aufzufordern. Wird dieser Aufforderung nicht Folge geleistet, so ist das Verfahren als aufgenommen anzusehen. Bis zur nachträglichen Anzeige der Bestellung eines neuen Anwalts erfolgen alle Zustellungen an die zur Anzeige verpflichtete Partei.
 
-
-## § 245 – Unterbrechung durch Stillstand der Rechtspflege
+# § 245 – Unterbrechung durch Stillstand der Rechtspflege
 
 Hört infolge eines Krieges oder eines anderen Ereignisses die Tätigkeit des Gerichts auf, so wird für die Dauer dieses Zustandes das Verfahren unterbrochen.
 
-
-## § 246 – Aussetzung bei Vertretung durch Prozessbevollmächtigten
+# § 246 – Aussetzung bei Vertretung durch Prozessbevollmächtigten
 
 (1) Fand in den Fällen des Todes, des Verlustes der Prozessfähigkeit, des Wegfalls des gesetzlichen Vertreters, der Anordnung einer Nachlassverwaltung oder des Eintritts der Nacherbfolge (§§ 239, 241, 242) eine Vertretung durch einen Prozessbevollmächtigten statt, so tritt eine Unterbrechung des Verfahrens nicht ein; das Prozessgericht hat jedoch auf Antrag des Bevollmächtigten, in den Fällen des Todes und der Nacherbfolge auch auf Antrag des Gegners die Aussetzung des Verfahrens anzuordnen.
 
 (2) Die Dauer der Aussetzung und die Aufnahme des Verfahrens richten sich nach den Vorschriften der §§ 239, 241 bis 243; in den Fällen des Todes und der Nacherbfolge ist die Ladung mit dem Schriftsatz, in dem sie beantragt ist, auch dem Bevollmächtigten zuzustellen.
 
-
-## § 247 – Aussetzung bei abgeschnittenem Verkehr
+# § 247 – Aussetzung bei abgeschnittenem Verkehr
 
 Hält sich eine Partei an einem Ort auf, der durch obrigkeitliche Anordnung oder durch Krieg oder durch andere Zufälle von dem Verkehr mit dem Prozessgericht abgeschnitten ist, so kann das Gericht auch von Amts wegen die Aussetzung des Verfahrens bis zur Beseitigung des Hindernisses anordnen.
 
-
-## § 248 – Verfahren bei Aussetzung
+# § 248 – Verfahren bei Aussetzung
 
 (1) Das Gesuch um Aussetzung des Verfahrens ist bei dem Prozessgericht anzubringen; es kann vor der Geschäftsstelle zu Protokoll erklärt werden.
 
 (2) Die Entscheidung kann ohne mündliche Verhandlung ergehen.
 
-
-## § 249 – Wirkung von Unterbrechung und Aussetzung
+# § 249 – Wirkung von Unterbrechung und Aussetzung
 
 (1) Die Unterbrechung und Aussetzung des Verfahrens hat die Wirkung, dass der Lauf einer jeden Frist aufhört und nach Beendigung der Unterbrechung oder Aussetzung die volle Frist von neuem zu laufen beginnt.
 
@@ -7129,18 +6864,15 @@ Hält sich eine Partei an einem Ort auf, der durch obrigkeitliche Anordnung oder
 
 (3) Durch die nach dem Schluss einer mündlichen Verhandlung eintretende Unterbrechung wird die Verkündung der auf Grund dieser Verhandlung zu erlassenden Entscheidung nicht gehindert.
 
-
-## § 250 – Form von Aufnahme und Anzeige
+# § 250 – Form von Aufnahme und Anzeige
 
 Die Aufnahme eines unterbrochenen oder ausgesetzten Verfahrens und die in diesem Titel erwähnten Anzeigen erfolgen durch Zustellung eines bei Gericht einzureichenden Schriftsatzes.
 
-
-## § 251 – Ruhen des Verfahrens
+# § 251 – Ruhen des Verfahrens
 
 Das Gericht hat das Ruhen des Verfahrens anzuordnen, wenn beide Parteien dies beantragen und anzunehmen ist, dass wegen Schwebens von Vergleichsverhandlungen oder aus sonstigen wichtigen Gründen diese Anordnung zweckmäßig ist. Die Anordnung hat auf den Lauf der im § 233 bezeichneten Fristen keinen Einfluss.
 
-
-## § 251a – Säumnis beider Parteien; Entscheidung nach Lage der Akten
+# § 251a – Säumnis beider Parteien; Entscheidung nach Lage der Akten
 
 (1) Erscheinen oder verhandeln in einem Termin beide Parteien nicht, so kann das Gericht nach Lage der Akten entscheiden.
 
@@ -7148,13 +6880,11 @@ Das Gericht hat das Ruhen des Verfahrens anzuordnen, wenn beide Parteien dies be
 
 (3) Wenn das Gericht nicht nach Lage der Akten entscheidet und nicht nach § 227 vertagt, ordnet es das Ruhen des Verfahrens an.
 
-
-## § 252 – Rechtsmittel bei Aussetzung
+# § 252 – Rechtsmittel bei Aussetzung
 
 Gegen die Entscheidung, durch die auf Grund der Vorschriften dieses Titels oder auf Grund anderer gesetzlicher Bestimmungen die Aussetzung des Verfahrens angeordnet oder abgelehnt wird, findet die sofortige Beschwerde statt.
 
-
-## § 253 – Klageschrift
+# § 253 – Klageschrift
 
 (1) Die Erhebung der Klage erfolgt durch Zustellung eines Schriftsatzes (Klageschrift).
 
@@ -7176,47 +6906,39 @@ Gegen die Entscheidung, durch die auf Grund der Vorschriften dieses Titels oder 
 
 (5) Die Klageschrift sowie sonstige Anträge und Erklärungen einer Partei, die zugestellt werden sollen, sind bei dem Gericht schriftlich unter Beifügung der für ihre Zustellung oder Mitteilung erforderlichen Zahl von Abschriften einzureichen. Einer Beifügung von Abschriften bedarf es nicht, soweit die Klageschrift elektronisch eingereicht wird.
 
-
-## § 254 – Stufenklage
+# § 254 – Stufenklage
 
 Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen Versicherung die Klage auf Herausgabe desjenigen verbunden, was der Beklagte aus dem zugrunde liegenden Rechtsverhältnis schuldet, so kann die bestimmte Angabe der Leistungen, die der Kläger beansprucht, vorbehalten werden, bis die Rechnung mitgeteilt, das Vermögensverzeichnis vorgelegt oder die eidesstattliche Versicherung abgegeben ist.
 
-
-## § 255 – Fristbestimmung im Urteil
+# § 255 – Fristbestimmung im Urteil
 
 (1) Hat der Kläger für den Fall, dass der Beklagte nicht vor dem Ablauf einer ihm zu bestimmenden Frist den erhobenen Anspruch befriedigt, das Recht, Schadensersatz wegen Nichterfüllung zu fordern oder die Aufhebung eines Vertrages herbeizuführen, so kann er verlangen, dass die Frist im Urteil bestimmt wird.
 
 (2) Das Gleiche gilt, wenn dem Kläger das Recht, die Anordnung einer Verwaltung zu verlangen, für den Fall zusteht, dass der Beklagte nicht vor dem Ablauf einer ihm zu bestimmenden Frist die beanspruchte Sicherheit leistet, sowie im Falle des § 2193 Abs. 2 des Bürgerlichen Gesetzbuchs für die Bestimmung einer Frist zur Vollziehung der Auflage.
 
-
-## § 256 – Feststellungsklage
+# § 256 – Feststellungsklage
 
 (1) Auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses, auf Anerkennung einer Urkunde oder auf Feststellung ihrer Unechtheit kann Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass das Rechtsverhältnis oder die Echtheit oder Unechtheit der Urkunde durch richterliche Entscheidung alsbald festgestellt werde.
 
 (2) Bis zum Schluss derjenigen mündlichen Verhandlung, auf die das Urteil ergeht, kann der Kläger durch Erweiterung des Klageantrags, der Beklagte durch Erhebung einer Widerklage beantragen, dass ein im Laufe des Prozesses streitig gewordenes Rechtsverhältnis, von dessen Bestehen oder Nichtbestehen die Entscheidung des Rechtsstreits ganz oder zum Teil abhängt, durch richterliche Entscheidung festgestellt werde.
 
-
-## § 257 – Klage auf künftige Zahlung oder Räumung
+# § 257 – Klage auf künftige Zahlung oder Räumung
 
 Ist die Geltendmachung einer nicht von einer Gegenleistung abhängigen Geldforderung oder die Geltendmachung des Anspruchs auf Räumung eines Grundstücks oder eines Raumes, der anderen als Wohnzwecken dient, an den Eintritt eines Kalendertages geknüpft, so kann Klage auf künftige Zahlung oder Räumung erhoben werden.
 
-
-## § 258 – Klage auf wiederkehrende Leistungen
+# § 258 – Klage auf wiederkehrende Leistungen
 
 Bei wiederkehrenden Leistungen kann auch wegen der erst nach Erlass des Urteils fällig werdenden Leistungen Klage auf künftige Entrichtung erhoben werden.
 
-
-## § 259 – Klage wegen Besorgnis nicht rechtzeitiger Leistung
+# § 259 – Klage wegen Besorgnis nicht rechtzeitiger Leistung
 
 Klage auf künftige Leistung kann außer den Fällen der §§ 257, 258 erhoben werden, wenn den Umständen nach die Besorgnis gerechtfertigt ist, dass der Schuldner sich der rechtzeitigen Leistung entziehen werde.
 
-
-## § 260 – Anspruchshäufung
+# § 260 – Anspruchshäufung
 
 Mehrere Ansprüche des Klägers gegen denselben Beklagten können, auch wenn sie auf verschiedenen Gründen beruhen, in einer Klage verbunden werden, wenn für sämtliche Ansprüche das Prozessgericht zuständig und dieselbe Prozessart zulässig ist.
 
-
-## § 261 – Rechtshängigkeit
+# § 261 – Rechtshängigkeit
 
 (1) Durch die Erhebung der Klage wird die Rechtshängigkeit der Streitsache begründet.
 
@@ -7228,18 +6950,15 @@ Mehrere Ansprüche des Klägers gegen denselben Beklagten können, auch wenn sie
 
 2. die Zuständigkeit des Prozessgerichts wird durch eine Veränderung der sie begründenden Umstände nicht berührt.
 
-
-## § 262 – Sonstige Wirkungen der Rechtshängigkeit
+# § 262 – Sonstige Wirkungen der Rechtshängigkeit
 
 Die Vorschriften des bürgerlichen Rechts über die sonstigen Wirkungen der Rechtshängigkeit bleiben unberührt. Diese Wirkungen sowie alle Wirkungen, die durch die Vorschriften des bürgerlichen Rechts an die Anstellung, Mitteilung oder gerichtliche Anmeldung der Klage, an die Ladung oder Einlassung des Beklagten geknüpft werden, treten unbeschadet der Vorschrift des § 167 mit der Erhebung der Klage ein.
 
-
-## § 263 – Klageänderung
+# § 263 – Klageänderung
 
 Nach dem Eintritt der Rechtshängigkeit ist eine Änderung der Klage zulässig, wenn der Beklagte einwilligt oder das Gericht sie für sachdienlich erachtet.
 
-
-## § 264 – Keine Klageänderung
+# § 264 – Keine Klageänderung
 
 Als eine Änderung der Klage ist es nicht anzusehen, wenn ohne Änderung des Klagegrundes
 
@@ -7249,8 +6968,7 @@ Als eine Änderung der Klage ist es nicht anzusehen, wenn ohne Änderung des Kla
 
 3. statt des ursprünglich geforderten Gegenstandes wegen einer später eingetretenen Veränderung ein anderer Gegenstand oder das Interesse gefordert wird.
 
-
-## § 265 – Veräußerung oder Abtretung der Streitsache
+# § 265 – Veräußerung oder Abtretung der Streitsache
 
 (1) Die Rechtshängigkeit schließt das Recht der einen oder der anderen Partei nicht aus, die in Streit befangene Sache zu veräußern oder den geltend gemachten Anspruch abzutreten.
 
@@ -7258,25 +6976,21 @@ Als eine Änderung der Klage ist es nicht anzusehen, wenn ohne Änderung des Kla
 
 (3) Hat der Kläger veräußert oder abgetreten, so kann ihm, sofern das Urteil nach § 325 gegen den Rechtsnachfolger nicht wirksam sein würde, der Einwand entgegengesetzt werden, dass er zur Geltendmachung des Anspruchs nicht mehr befugt sei.
 
-
-## § 266 – Veräußerung eines Grundstücks
+# § 266 – Veräußerung eines Grundstücks
 
 (1) Ist über das Bestehen oder Nichtbestehen eines Rechts, das für ein Grundstück in Anspruch genommen wird, oder einer Verpflichtung, die auf einem Grundstück ruhen soll, zwischen dem Besitzer und einem Dritten ein Rechtsstreit anhängig, so ist im Falle der Veräußerung des Grundstücks der Rechtsnachfolger berechtigt und auf Antrag des Gegners verpflichtet, den Rechtsstreit in der Lage, in der er sich befindet, als Hauptpartei zu übernehmen. Entsprechendes gilt für einen Rechtsstreit über das Bestehen oder Nichtbestehen einer Verpflichtung, die auf einem eingetragenen Schiff oder Schiffsbauwerk ruhen soll.
 
 (2) Diese Bestimmung ist insoweit nicht anzuwenden, als ihr Vorschriften des bürgerlichen Rechts zugunsten derjenigen, die Rechte von einem Nichtberechtigten herleiten, entgegenstehen. In einem solchen Fall gilt, wenn der Kläger veräußert hat, die Vorschrift des § 265 Abs. 3.
 
-
-## § 267 – Vermutete Einwilligung in die Klageänderung
+# § 267 – Vermutete Einwilligung in die Klageänderung
 
 Die Einwilligung des Beklagten in die Änderung der Klage ist anzunehmen, wenn er, ohne der Änderung zu widersprechen, sich in einer mündlichen Verhandlung auf die abgeänderte Klage eingelassen hat.
 
-
-## § 268 – Unanfechtbarkeit der Entscheidung
+# § 268 – Unanfechtbarkeit der Entscheidung
 
 Eine Anfechtung der Entscheidung, dass eine Änderung der Klage nicht vorliege oder dass die Änderung zuzulassen sei, findet nicht statt.
 
-
-## § 269 – Klagerücknahme
+# § 269 – Klagerücknahme
 
 (1) Die Klage kann ohne Einwilligung des Beklagten nur bis zum Beginn der mündlichen Verhandlung des Beklagten zur Hauptsache zurückgenommen werden.
 
@@ -7290,20 +7004,17 @@ Eine Anfechtung der Entscheidung, dass eine Änderung der Klage nicht vorliege o
 
 (6) Wird die Klage von neuem angestellt, so kann der Beklagte die Einlassung verweigern, bis die Kosten erstattet sind.
 
-
-## § 270 – Zustellung; formlose Mitteilung
+# § 270 – Zustellung; formlose Mitteilung
 
 Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthalten, sind Schriftsätze und sonstige Erklärungen der Parteien, sofern nicht das Gericht die Zustellung anordnet, ohne besondere Form mitzuteilen. Bei Übersendung durch die Post gilt die Mitteilung, wenn die Wohnung der Partei im Bereich des Ortsbestellverkehrs liegt, an dem folgenden, im Übrigen an dem zweiten Werktag nach der Aufgabe zur Post als bewirkt, sofern nicht die Partei glaubhaft macht, dass ihr die Mitteilung nicht oder erst in einem späteren Zeitpunkt zugegangen ist.
 
-
-## § 271 – Zustellung der Klageschrift
+# § 271 – Zustellung der Klageschrift
 
 (1) Die Klageschrift ist unverzüglich zuzustellen.
 
 (2) Mit der Zustellung ist der Beklagte aufzufordern, einen Rechtsanwalt zu bestellen, wenn er eine Verteidigung gegen die Klage beabsichtigt.
 
-
-## § 272 – Bestimmung der Verfahrensweise
+# § 272 – Bestimmung der Verfahrensweise
 
 (1) Der Rechtsstreit ist in der Regel in einem umfassend vorbereiteten Termin zur mündlichen Verhandlung (Haupttermin) zu erledigen.
 
@@ -7313,8 +7024,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (4) Räumungssachen sind vorrangig und beschleunigt durchzuführen.
 
-
-## § 273 – Vorbereitung des Termins
+# § 273 – Vorbereitung des Termins
 
 (1) Das Gericht hat erforderliche vorbereitende Maßnahmen rechtzeitig zu veranlassen.
 
@@ -7334,8 +7044,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (4) Die Parteien sind von jeder Anordnung zu benachrichtigen. Wird das persönliche Erscheinen der Parteien angeordnet, so gelten die Vorschriften des § 141 Abs. 2, 3.
 
-
-## § 274 – Ladung der Parteien; Einlassungsfrist
+# § 274 – Ladung der Parteien; Einlassungsfrist
 
 (1) Nach der Bestimmung des Termins zur mündlichen Verhandlung ist die Ladung der Parteien durch die Geschäftsstelle zu veranlassen.
 
@@ -7343,8 +7052,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (3) Zwischen der Zustellung der Klageschrift und dem Termin zur mündlichen Verhandlung muss ein Zeitraum von mindestens zwei Wochen liegen (Einlassungsfrist). Ist die Zustellung im Ausland vorzunehmen, so beträgt die Einlassungsfrist einen Monat. Der Vorsitzende kann auch eine längere Frist bestimmen.
 
-
-## § 275 – Früher erster Termin
+# § 275 – Früher erster Termin
 
 (1) Zur Vorbereitung des frühen ersten Termins zur mündlichen Verhandlung kann der Vorsitzende oder ein von ihm bestimmtes Mitglied des Prozessgerichts dem Beklagten eine Frist zur schriftlichen Klageerwiderung setzen. Andernfalls ist der Beklagte aufzufordern, etwa vorzubringende Verteidigungsmittel unverzüglich durch den zu bestellenden Rechtsanwalt in einem Schriftsatz dem Gericht mitzuteilen; § 277 Abs. 1 Satz 2 gilt entsprechend.
 
@@ -7354,8 +7062,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (4) Das Gericht kann dem Kläger in dem Termin oder nach Eingang der Klageerwiderung eine Frist zur schriftlichen Stellungnahme auf die Klageerwiderung setzen. Außerhalb der mündlichen Verhandlung kann der Vorsitzende die Frist setzen.
 
-
-## § 276 – Schriftliches Vorverfahren
+# § 276 – Schriftliches Vorverfahren
 
 (1) Bestimmt der Vorsitzende keinen frühen ersten Termin zur mündlichen Verhandlung, so fordert er den Beklagten mit der Zustellung der Klage auf, wenn er sich gegen die Klage verteidigen wolle, dies binnen einer Notfrist von zwei Wochen nach Zustellung der Klageschrift dem Gericht schriftlich anzuzeigen; der Kläger ist von der Aufforderung zu unterrichten. Zugleich ist dem Beklagten eine Frist von mindestens zwei weiteren Wochen zur schriftlichen Klageerwiderung zu setzen. Ist die Zustellung der Klage im Ausland vorzunehmen, so beträgt die Frist nach Satz 1 einen Monat. Der Vorsitzende kann in diesem Fall auch eine längere Frist bestimmen.
 
@@ -7363,8 +7070,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (3) Der Vorsitzende kann dem Kläger eine Frist zur schriftlichen Stellungnahme auf die Klageerwiderung setzen.
 
-
-## § 277 – Klageerwiderung; Replik
+# § 277 – Klageerwiderung; Replik
 
 (1) In der Klageerwiderung hat der Beklagte seine Verteidigungsmittel vorzubringen, soweit es nach der Prozesslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Prozessführung entspricht. Die Klageerwiderung soll ferner eine Äußerung dazu enthalten, ob einer Entscheidung der Sache durch den Einzelrichter Gründe entgegenstehen.
 
@@ -7374,8 +7080,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (4) Für die schriftliche Stellungnahme auf die Klageerwiderung gelten Absatz 1 Satz 1 und Absätze 2 und 3 entsprechend.
 
-
-## § 278 – Gütliche Streitbeilegung, Güteverhandlung, Vergleich
+# § 278 – Gütliche Streitbeilegung, Güteverhandlung, Vergleich
 
 (1) Das Gericht soll in jeder Lage des Verfahrens auf eine gütliche Beilegung des Rechtsstreits oder einzelner Streitpunkte bedacht sein.
 
@@ -7389,15 +7094,13 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (6) Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, dass die Parteien dem Gericht einen schriftlichen Vergleichsvorschlag unterbreiten oder einen schriftlichen oder zu Protokoll der mündlichen Verhandlung erklärten Vergleichsvorschlag des Gerichts durch Schriftsatz oder durch Erklärung zu Protokoll der mündlichen Verhandlung gegenüber dem Gericht annehmen. Das Gericht stellt das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen Vergleichs durch Beschluss fest. § 164 gilt entsprechend.
 
-
-## § 278a – Mediation, außergerichtliche Konfliktbeilegung
+# § 278a – Mediation, außergerichtliche Konfliktbeilegung
 
 (1) Das Gericht kann den Parteien eine Mediation oder ein anderes Verfahren der außergerichtlichen Konfliktbeilegung vorschlagen.
 
 (2) Entscheiden sich die Parteien zur Durchführung einer Mediation oder eines anderen Verfahrens der außergerichtlichen Konfliktbeilegung, ordnet das Gericht das Ruhen des Verfahrens an.
 
-
-## § 279 – Mündliche Verhandlung
+# § 279 – Mündliche Verhandlung
 
 (1) Erscheint eine Partei in der Güteverhandlung nicht oder ist die Güteverhandlung erfolglos, soll sich die mündliche Verhandlung (früher erster Termin oder Haupttermin) unmittelbar anschließen. Andernfalls ist unverzüglich Termin zur mündlichen Verhandlung zu bestimmen.
 
@@ -7405,15 +7108,13 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (3) Im Anschluss an die Beweisaufnahme hat das Gericht erneut den Sach- und Streitstand und, soweit bereits möglich, das Ergebnis der Beweisaufnahme mit den Parteien zu erörtern.
 
-
-## § 280 – Abgesonderte Verhandlung über Zulässigkeit der Klage
+# § 280 – Abgesonderte Verhandlung über Zulässigkeit der Klage
 
 (1) Das Gericht kann anordnen, dass über die Zulässigkeit der Klage abgesondert verhandelt wird.
 
 (2) Ergeht ein Zwischenurteil, so ist es in Betreff der Rechtsmittel als Endurteil anzusehen. Das Gericht kann jedoch auf Antrag anordnen, dass zur Hauptsache zu verhandeln ist.
 
-
-## § 281 – Verweisung bei Unzuständigkeit
+# § 281 – Verweisung bei Unzuständigkeit
 
 (1) Ist auf Grund der Vorschriften über die örtliche oder sachliche Zuständigkeit der Gerichte die Unzuständigkeit des Gerichts auszusprechen, so hat das angegangene Gericht, sofern das zuständige Gericht bestimmt werden kann, auf Antrag des Klägers durch Beschluss sich für unzuständig zu erklären und den Rechtsstreit an das zuständige Gericht zu verweisen. Sind mehrere Gerichte zuständig, so erfolgt die Verweisung an das vom Kläger gewählte Gericht.
 
@@ -7421,8 +7122,7 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (3) Die im Verfahren vor dem angegangenen Gericht erwachsenen Kosten werden als Teil der Kosten behandelt, die bei dem im Beschluss bezeichneten Gericht erwachsen. Dem Kläger sind die entstandenen Mehrkosten auch dann aufzuerlegen, wenn er in der Hauptsache obsiegt.
 
-
-## § 282 – Rechtzeitigkeit des Vorbringens
+# § 282 – Rechtzeitigkeit des Vorbringens
 
 (1) Jede Partei hat in der mündlichen Verhandlung ihre Angriffs- und Verteidigungsmittel, insbesondere Behauptungen, Bestreiten, Einwendungen, Einreden, Beweismittel und Beweiseinreden, so zeitig vorzubringen, wie es nach der Prozesslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Prozessführung entspricht.
 
@@ -7430,13 +7130,11 @@ Mit Ausnahme der Klageschrift und solcher Schriftsätze, die Sachanträge enthal
 
 (3) Rügen, die die Zulässigkeit der Klage betreffen, hat der Beklagte gleichzeitig und vor seiner Verhandlung zur Hauptsache vorzubringen. Ist ihm vor der mündlichen Verhandlung eine Frist zur Klageerwiderung gesetzt, so hat er die Rügen schon innerhalb der Frist geltend zu machen.
 
-
-## § 283 – Schriftsatzfrist für Erklärungen zum Vorbringen des Gegners
+# § 283 – Schriftsatzfrist für Erklärungen zum Vorbringen des Gegners
 
 Kann sich eine Partei in der mündlichen Verhandlung auf ein Vorbringen des Gegners nicht erklären, weil es ihr nicht rechtzeitig vor dem Termin mitgeteilt worden ist, so kann auf ihren Antrag das Gericht eine Frist bestimmen, in der sie die Erklärung in einem Schriftsatz nachbringen kann; gleichzeitig wird ein Termin zur Verkündung einer Entscheidung anberaumt. Eine fristgemäß eingereichte Erklärung muss, eine verspätet eingereichte Erklärung kann das Gericht bei der Entscheidung berücksichtigen.
 
-
-## § 283a – Sicherungsanordnung
+# § 283a – Sicherungsanordnung
 
 (1) Wird eine Räumungsklage mit einer Zahlungsklage aus demselben Rechtsverhältnis verbunden, ordnet das Prozessgericht auf Antrag des Klägers an, dass der Beklagte wegen der Geldforderungen, die nach Rechtshängigkeit der Klage fällig geworden sind, Sicherheit zu leisten hat, soweit
 
@@ -7452,87 +7150,73 @@ Streiten die Parteien um das Recht des Klägers, die Geldforderung zu erhöhen, 
 
 (4) Soweit dem Kläger nach dem Endurteil oder nach der anderweitigen Regelung ein Anspruch in Höhe der Sicherheitsleistung nicht zusteht, hat er den Schaden zu ersetzen, der dem Beklagten durch die Sicherheitsleistung entstanden ist. § 717 Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 284 – Beweisaufnahme
+# § 284 – Beweisaufnahme
 
 Die Beweisaufnahme und die Anordnung eines besonderen Beweisaufnahmeverfahrens durch Beweisbeschluss wird durch die Vorschriften des fünften bis elften Titels bestimmt. Mit Einverständnis der Parteien kann das Gericht die Beweise in der ihm geeignet erscheinenden Art aufnehmen. Das Einverständnis kann auf einzelne Beweiserhebungen beschränkt werden. Es kann nur bei einer wesentlichen Änderung der Prozesslage vor Beginn der Beweiserhebung, auf die es sich bezieht, widerrufen werden.
 
-
-## § 285 – Verhandlung nach Beweisaufnahme
+# § 285 – Verhandlung nach Beweisaufnahme
 
 (1) Über das Ergebnis der Beweisaufnahme haben die Parteien unter Darlegung des Streitverhältnisses zu verhandeln.
 
 (2) Ist die Beweisaufnahme nicht vor dem Prozessgericht erfolgt, so haben die Parteien ihr Ergebnis auf Grund der Beweisverhandlungen vorzutragen.
 
-
-## § 286 – Freie Beweiswürdigung
+# § 286 – Freie Beweiswürdigung
 
 (1) Das Gericht hat unter Berücksichtigung des gesamten Inhalts der Verhandlungen und des Ergebnisses einer etwaigen Beweisaufnahme nach freier Überzeugung zu entscheiden, ob eine tatsächliche Behauptung für wahr oder für nicht wahr zu erachten sei. In dem Urteil sind die Gründe anzugeben, die für die richterliche Überzeugung leitend gewesen sind.
 
 (2) An gesetzliche Beweisregeln ist das Gericht nur in den durch dieses Gesetz bezeichneten Fällen gebunden.
 
-
-## § 287 – Schadensermittlung; Höhe der Forderung
+# § 287 – Schadensermittlung; Höhe der Forderung
 
 (1) Ist unter den Parteien streitig, ob ein Schaden entstanden sei und wie hoch sich der Schaden oder ein zu ersetzendes Interesse belaufe, so entscheidet hierüber das Gericht unter Würdigung aller Umstände nach freier Überzeugung. Ob und inwieweit eine beantragte Beweisaufnahme oder von Amts wegen die Begutachtung durch Sachverständige anzuordnen sei, bleibt dem Ermessen des Gerichts überlassen. Das Gericht kann den Beweisführer über den Schaden oder das Interesse vernehmen; die Vorschriften des § 452 Abs. 1 Satz 1, Abs. 2 bis 4 gelten entsprechend.
 
 (2) Die Vorschriften des Absatzes 1 Satz 1, 2 sind bei vermögensrechtlichen Streitigkeiten auch in anderen Fällen entsprechend anzuwenden, soweit unter den Parteien die Höhe einer Forderung streitig ist und die vollständige Aufklärung aller hierfür maßgebenden Umstände mit Schwierigkeiten verbunden ist, die zu der Bedeutung des streitigen Teiles der Forderung in keinem Verhältnis stehen.
 
-
-## § 288 – Gerichtliches Geständnis
+# § 288 – Gerichtliches Geständnis
 
 (1) Die von einer Partei behaupteten Tatsachen bedürfen insoweit keines Beweises, als sie im Laufe des Rechtsstreits von dem Gegner bei einer mündlichen Verhandlung oder zum Protokoll eines beauftragten oder ersuchten Richters zugestanden sind.
 
 (2) Zur Wirksamkeit des gerichtlichen Geständnisses ist dessen Annahme nicht erforderlich.
 
-
-## § 289 – Zusätze beim Geständnis
+# § 289 – Zusätze beim Geständnis
 
 (1) Die Wirksamkeit des gerichtlichen Geständnisses wird dadurch nicht beeinträchtigt, dass ihm eine Behauptung hinzugefügt wird, die ein selbständiges Angriffs- oder Verteidigungsmittel enthält.
 
 (2) Inwiefern eine vor Gericht erfolgte einräumende Erklärung ungeachtet anderer zusätzlicher oder einschränkender Behauptungen als ein Geständnis anzusehen sei, bestimmt sich nach der Beschaffenheit des einzelnen Falles.
 
-
-## § 290 – Widerruf des Geständnisses
+# § 290 – Widerruf des Geständnisses
 
 Der Widerruf hat auf die Wirksamkeit des gerichtlichen Geständnisses nur dann Einfluss, wenn die widerrufende Partei beweist, dass das Geständnis der Wahrheit nicht entspreche und durch einen Irrtum veranlasst sei. In diesem Fall verliert das Geständnis seine Wirksamkeit.
 
-
-## § 291 – Offenkundige Tatsachen
+# § 291 – Offenkundige Tatsachen
 
 Tatsachen, die bei dem Gericht offenkundig sind, bedürfen keines Beweises.
 
-
-## § 292 – Gesetzliche Vermutungen
+# § 292 – Gesetzliche Vermutungen
 
 Stellt das Gesetz für das Vorhandensein einer Tatsache eine Vermutung auf, so ist der Beweis des Gegenteils zulässig, sofern nicht das Gesetz ein anderes vorschreibt. Dieser Beweis kann auch durch den Antrag auf Parteivernehmung nach § 445 geführt werden.
 
-
-## § 292a
+# § 292a
 
 (weggefallen)
 
-
-## § 293 – Fremdes Recht; Gewohnheitsrecht; Statuten
+# § 293 – Fremdes Recht; Gewohnheitsrecht; Statuten
 
 Das in einem anderen Staat geltende Recht, die Gewohnheitsrechte und Statuten bedürfen des Beweises nur insofern, als sie dem Gericht unbekannt sind. Bei Ermittlung dieser Rechtsnormen ist das Gericht auf die von den Parteien beigebrachten Nachweise nicht beschränkt; es ist befugt, auch andere Erkenntnisquellen zu benutzen und zum Zwecke einer solchen Benutzung das Erforderliche anzuordnen.
 
-
-## § 294 – Glaubhaftmachung
+# § 294 – Glaubhaftmachung
 
 (1) Wer eine tatsächliche Behauptung glaubhaft zu machen hat, kann sich aller Beweismittel bedienen, auch zur Versicherung an Eides statt zugelassen werden.
 
 (2) Eine Beweisaufnahme, die nicht sofort erfolgen kann, ist unstatthaft.
 
-
-## § 295 – Verfahrensrügen
+# § 295 – Verfahrensrügen
 
 (1) Die Verletzung einer das Verfahren und insbesondere die Form einer Prozesshandlung betreffenden Vorschrift kann nicht mehr gerügt werden, wenn die Partei auf die Befolgung der Vorschrift verzichtet, oder wenn sie bei der nächsten mündlichen Verhandlung, die auf Grund des betreffenden Verfahrens stattgefunden hat oder in der darauf Bezug genommen ist, den Mangel nicht gerügt hat, obgleich sie erschienen und ihr der Mangel bekannt war oder bekannt sein musste.
 
 (2) Die vorstehende Bestimmung ist nicht anzuwenden, wenn Vorschriften verletzt sind, auf deren Befolgung eine Partei wirksam nicht verzichten kann.
 
-
-## § 296 – Zurückweisung verspäteten Vorbringens
+# § 296 – Zurückweisung verspäteten Vorbringens
 
 (1) Angriffs- und Verteidigungsmittel, die erst nach Ablauf einer hierfür gesetzten Frist (§ 273 Abs. 2 Nr. 1 und, soweit die Fristsetzung gegenüber einer Partei ergeht, 5, § 275 Abs. 1 Satz 1, Abs. 3, 4, § 276 Abs. 1 Satz 2, Abs. 3, § 277) vorgebracht werden, sind nur zuzulassen, wenn nach der freien Überzeugung des Gerichts ihre Zulassung die Erledigung des Rechtsstreits nicht verzögern würde oder wenn die Partei die Verspätung genügend entschuldigt.
 
@@ -7542,20 +7226,17 @@ Das in einem anderen Staat geltende Recht, die Gewohnheitsrechte und Statuten be
 
 (4) In den Fällen der Absätze 1 und 3 ist der Entschuldigungsgrund auf Verlangen des Gerichts glaubhaft zu machen.
 
-
-## § 296a – Vorbringen nach Schluss der mündlichen Verhandlung
+# § 296a – Vorbringen nach Schluss der mündlichen Verhandlung
 
 Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, können Angriffs- und Verteidigungsmittel nicht mehr vorgebracht werden. § 139 Abs. 5, §§ 156, 283 bleiben unberührt.
 
-
-## § 297 – Form der Antragstellung
+# § 297 – Form der Antragstellung
 
 (1) Die Anträge sind aus den vorbereitenden Schriftsätzen zu verlesen. Soweit sie darin nicht enthalten sind, müssen sie aus einer dem Protokoll als Anlage beizufügenden Schrift verlesen werden. Der Vorsitzende kann auch gestatten, dass die Anträge zu Protokoll erklärt werden.
 
 (2) Die Verlesung kann dadurch ersetzt werden, dass die Parteien auf die Schriftsätze Bezug nehmen, die die Anträge enthalten.
 
-
-## § 298 – Aktenausdruck
+# § 298 – Aktenausdruck
 
 (1) Werden die Akten in Papierform geführt, ist von einem elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern; der Speicherort ist aktenkundig zu machen.
 
@@ -7571,8 +7252,7 @@ Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, können Ang
 
 (4) Ein eingereichtes elektronisches Dokument kann nach Ablauf von sechs Monaten gelöscht werden.
 
-
-## § 298a – Elektronische Akte; Verordnungsermächtigung
+# § 298a – Elektronische Akte; Verordnungsermächtigung
 
 (1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt werden sowie die hierfür geltenden organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Akten elektronisch zu führen sind.
 
@@ -7580,8 +7260,7 @@ Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, können Ang
 
 (2) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
 
-
-## § 299 – Akteneinsicht; Abschriften
+# § 299 – Akteneinsicht; Abschriften
 
 (1) Die Parteien können die Prozessakten einsehen und sich aus ihnen durch die Geschäftsstelle Ausfertigungen, Auszüge und Abschriften erteilen lassen.
 
@@ -7591,27 +7270,23 @@ Nach Schluss der mündlichen Verhandlung, auf die das Urteil ergeht, können Ang
 
 (4) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu ihrer Vorbereitung gelieferten Arbeiten sowie die Dokumente, die Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
 
-
-## § 299a – Datenträgerarchiv
+# § 299a – Datenträgerarchiv
 
 Sind die Prozessakten nach ordnungsgemäßen Grundsätzen zur Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger übertragen worden und liegt der schriftliche Nachweis darüber vor, dass die Wiedergabe mit der Urschrift übereinstimmt, so können Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke werden in diesem Fall bei dem Nachweis angebracht.
 
-
-## § 300 – Endurteil
+# § 300 – Endurteil
 
 (1) Ist der Rechtsstreit zur Endentscheidung reif, so hat das Gericht sie durch Endurteil zu erlassen.
 
 (2) Das Gleiche gilt, wenn von mehreren zum Zwecke gleichzeitiger Verhandlung und Entscheidung verbundenen Prozessen nur der eine zur Endentscheidung reif ist.
 
-
-## § 301 – Teilurteil
+# § 301 – Teilurteil
 
 (1) Ist von mehreren in einer Klage geltend gemachten Ansprüchen nur der eine oder ist nur ein Teil eines Anspruchs oder bei erhobener Widerklage nur die Klage oder die Widerklage zur Endentscheidung reif, so hat das Gericht sie durch Endurteil (Teilurteil) zu erlassen. Über einen Teil eines einheitlichen Anspruchs, der nach Grund und Höhe streitig ist, kann durch Teilurteil nur entschieden werden, wenn zugleich ein Grundurteil über den restlichen Teil des Anspruchs ergeht.
 
 (2) Der Erlass eines Teilurteils kann unterbleiben, wenn es das Gericht nach Lage der Sache nicht für angemessen erachtet.
 
-
-## § 302 – Vorbehaltsurteil
+# § 302 – Vorbehaltsurteil
 
 (1) Hat der Beklagte die Aufrechnung einer Gegenforderung geltend gemacht, so kann, wenn nur die Verhandlung über die Forderung zur Entscheidung reif ist, diese unter Vorbehalt der Entscheidung über die Aufrechnung ergehen.
 
@@ -7621,27 +7296,23 @@ Sind die Prozessakten nach ordnungsgemäßen Grundsätzen zur Ersetzung der Ursc
 
 (4) In Betreff der Aufrechnung, über welche die Entscheidung vorbehalten ist, bleibt der Rechtsstreit anhängig. Soweit sich in dem weiteren Verfahren ergibt, dass der Anspruch des Klägers unbegründet war, ist das frühere Urteil aufzuheben, der Kläger mit dem Anspruch abzuweisen und über die Kosten anderweit zu entscheiden. Der Kläger ist zum Ersatz des Schadens verpflichtet, der dem Beklagten durch die Vollstreckung des Urteils oder durch eine zur Abwendung der Vollstreckung gemachte Leistung entstanden ist. Der Beklagte kann den Anspruch auf Schadensersatz in dem anhängigen Rechtsstreit geltend machen; wird der Anspruch geltend gemacht, so ist er als zur Zeit der Zahlung oder Leistung rechtshängig geworden anzusehen.
 
-
-## § 303 – Zwischenurteil
+# § 303 – Zwischenurteil
 
 Ist ein Zwischenstreit zur Entscheidung reif, so kann die Entscheidung durch Zwischenurteil ergehen.
 
-
-## § 304 – Zwischenurteil über den Grund
+# § 304 – Zwischenurteil über den Grund
 
 (1) Ist ein Anspruch nach Grund und Betrag streitig, so kann das Gericht über den Grund vorab entscheiden.
 
 (2) Das Urteil ist in Betreff der Rechtsmittel als Endurteil anzusehen; das Gericht kann jedoch, wenn der Anspruch für begründet erklärt ist, auf Antrag anordnen, dass über den Betrag zu verhandeln sei.
 
-
-## § 305 – Urteil unter Vorbehalt erbrechtlich beschränkter Haftung
+# § 305 – Urteil unter Vorbehalt erbrechtlich beschränkter Haftung
 
 (1) Durch die Geltendmachung der dem Erben nach den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs zustehenden Einreden wird eine unter dem Vorbehalt der beschränkten Haftung ergehende Verurteilung des Erben nicht ausgeschlossen.
 
 (2) Das Gleiche gilt für die Geltendmachung der Einreden, die im Falle der fortgesetzten Gütergemeinschaft dem überlebenden Ehegatten oder Lebenspartner nach dem § 1489 Abs. 2 und den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs zustehen.
 
-
-## § 305a – Urteil unter Vorbehalt seerechtlich beschränkter Haftung
+# § 305a – Urteil unter Vorbehalt seerechtlich beschränkter Haftung
 
 (1) Unterliegt der in der Klage geltend gemachte Anspruch der Haftungsbeschränkung nach § 611 Absatz 1 oder 3, §§ 612 bis 616 des Handelsgesetzbuchs und macht der Beklagte geltend, dass
 
@@ -7657,37 +7328,31 @@ so kann das Gericht das Recht auf Beschränkung der Haftung bei der Entscheidung
 
 2. im Falle des Absatzes 1 Satz 2 unter dem Vorbehalt, dass der Beklagte das Recht auf Beschränkung der Haftung geltend machen kann, wenn ein Fonds nach § 5d des Binnenschifffahrtsgesetzes errichtet worden ist oder bei Geltendmachung des Rechts auf Beschränkung der Haftung errichtet wird.
 
-
-## § 306 – Verzicht
+# § 306 – Verzicht
 
 Verzichtet der Kläger bei der mündlichen Verhandlung auf den geltend gemachten Anspruch, so ist er auf Grund des Verzichts mit dem Anspruch abzuweisen, wenn der Beklagte die Abweisung beantragt.
 
-
-## § 307 – Anerkenntnis
+# § 307 – Anerkenntnis
 
 Erkennt eine Partei den gegen sie geltend gemachten Anspruch ganz oder zum Teil an, so ist sie dem Anerkenntnis gemäß zu verurteilen. Einer mündlichen Verhandlung bedarf es insoweit nicht.
 
-
-## § 308 – Bindung an die Parteianträge
+# § 308 – Bindung an die Parteianträge
 
 (1) Das Gericht ist nicht befugt, einer Partei etwas zuzusprechen, was nicht beantragt ist. Dies gilt insbesondere von Früchten, Zinsen und anderen Nebenforderungen.
 
 (2) Über die Verpflichtung, die Prozesskosten zu tragen, hat das Gericht auch ohne Antrag zu erkennen.
 
-
-## § 308a – Entscheidung ohne Antrag in Mietsachen
+# § 308a – Entscheidung ohne Antrag in Mietsachen
 
 (1) Erachtet das Gericht in einer Streitigkeit zwischen dem Vermieter und dem Mieter oder dem Mieter und dem Untermieter wegen Räumung von Wohnraum den Räumungsanspruch für unbegründet, weil der Mieter nach den §§ 574 bis 574b des Bürgerlichen Gesetzbuchs eine Fortsetzung des Mietverhältnisses verlangen kann, so hat es in dem Urteil auch ohne Antrag auszusprechen, für welche Dauer und unter welchen Änderungen der Vertragsbedingungen das Mietverhältnis fortgesetzt wird. Vor dem Ausspruch sind die Parteien zu hören.
 
 (2) Der Ausspruch ist selbständig anfechtbar.
 
-
-## § 309 – Erkennende Richter
+# § 309 – Erkennende Richter
 
 Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urteil zugrunde liegenden Verhandlung beigewohnt haben.
 
-
-## § 310 – Termin der Urteilsverkündung
+# § 310 – Termin der Urteilsverkündung
 
 (1) Das Urteil wird in dem Termin, in dem die mündliche Verhandlung geschlossen wird, oder in einem sofort anzuberaumenden Termin verkündet. Dieser wird nur dann über drei Wochen hinaus angesetzt, wenn wichtige Gründe, insbesondere der Umfang oder die Schwierigkeit der Sache, dies erfordern.
 
@@ -7695,8 +7360,7 @@ Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urte
 
 (3) Bei einem Anerkenntnisurteil und einem Versäumnisurteil, die nach §§ 307, 331 Abs. 3 ohne mündliche Verhandlung ergehen, wird die Verkündung durch die Zustellung des Urteils ersetzt. Dasselbe gilt bei einem Urteil, das den Einspruch gegen ein Versäumnisurteil verwirft (§ 341 Abs. 2).
 
-
-## § 311 – Form der Urteilsverkündung
+# § 311 – Form der Urteilsverkündung
 
 (1) Das Urteil ergeht im Namen des Volkes.
 
@@ -7706,15 +7370,13 @@ Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urte
 
 (4) Wird das Urteil nicht in dem Termin verkündet, in dem die mündliche Verhandlung geschlossen wird, so kann es der Vorsitzende in Abwesenheit der anderen Mitglieder des Prozessgerichts verkünden.
 
-
-## § 312 – Anwesenheit der Parteien
+# § 312 – Anwesenheit der Parteien
 
 (1) Die Wirksamkeit der Verkündung eines Urteils ist von der Anwesenheit der Parteien nicht abhängig. Die Verkündung gilt auch derjenigen Partei gegenüber als bewirkt, die den Termin versäumt hat.
 
 (2) Die Befugnis einer Partei, auf Grund eines verkündeten Urteils das Verfahren fortzusetzen oder von dem Urteil in anderer Weise Gebrauch zu machen, ist von der Zustellung an den Gegner nicht abhängig, soweit nicht dieses Gesetz ein anderes bestimmt.
 
-
-## § 313 – Form und Inhalt des Urteils
+# § 313 – Form und Inhalt des Urteils
 
 (1) Das Urteil enthält:
 
@@ -7734,8 +7396,7 @@ Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urte
 
 (3) Die Entscheidungsgründe enthalten eine kurze Zusammenfassung der Erwägungen, auf denen die Entscheidung in tatsächlicher und rechtlicher Hinsicht beruht.
 
-
-## § 313a – Weglassen von Tatbestand und Entscheidungsgründen
+# § 313a – Weglassen von Tatbestand und Entscheidungsgründen
 
 (1) Des Tatbestandes bedarf es nicht, wenn ein Rechtsmittel gegen das Urteil unzweifelhaft nicht zulässig ist. In diesem Fall bedarf es auch keiner Entscheidungsgründe, wenn die Parteien auf sie verzichten oder wenn ihr wesentlicher Inhalt in das Protokoll aufgenommen worden ist.
 
@@ -7747,8 +7408,7 @@ Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urte
 
 (5) Soll ein ohne Tatbestand und Entscheidungsgründe hergestelltes Urteil im Ausland geltend gemacht werden, so gelten die Vorschriften über die Vervollständigung von Versäumnis- und Anerkenntnisurteilen entsprechend.
 
-
-## § 313b – Versäumnis-, Anerkenntnis- und Verzichtsurteil
+# § 313b – Versäumnis-, Anerkenntnis- und Verzichtsurteil
 
 (1) Wird durch Versäumnisurteil, Anerkenntnisurteil oder Verzichtsurteil erkannt, so bedarf es nicht des Tatbestandes und der Entscheidungsgründe. Das Urteil ist als Versäumnis-, Anerkenntnis- oder Verzichtsurteil zu bezeichnen.
 
@@ -7758,13 +7418,11 @@ Das Urteil kann nur von denjenigen Richtern gefällt werden, welche der dem Urte
 
 (4) Absatz 2 ist nicht anzuwenden, wenn die Prozessakten elektronisch geführt werden.
 
-
-## § 314 – Beweiskraft des Tatbestandes
+# § 314 – Beweiskraft des Tatbestandes
 
 Der Tatbestand des Urteils liefert Beweis für das mündliche Parteivorbringen. Der Beweis kann nur durch das Sitzungsprotokoll entkräftet werden.
 
-
-## § 315 – Unterschrift der Richter
+# § 315 – Unterschrift der Richter
 
 (1) Das Urteil ist von den Richtern, die bei der Entscheidung mitgewirkt haben, zu unterschreiben. Ist ein Richter verhindert, seine Unterschrift beizufügen, so wird dies unter Angabe des Verhinderungsgrundes von dem Vorsitzenden und bei dessen Verhinderung von dem ältesten beisitzenden Richter unter dem Urteil vermerkt.
 
@@ -7772,13 +7430,11 @@ Der Tatbestand des Urteils liefert Beweis für das mündliche Parteivorbringen. 
 
 (3) Der Urkundsbeamte der Geschäftsstelle hat auf dem Urteil den Tag der Verkündung oder der Zustellung nach § 310 Abs. 3 zu vermerken und diesen Vermerk zu unterschreiben. Werden die Prozessakten elektronisch geführt, hat der Urkundsbeamte der Geschäftsstelle den Vermerk in einem gesonderten Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 316
+# § 316
 
 (weggefallen)
 
-
-## § 317 – Urteilszustellung und -ausfertigung
+# § 317 – Urteilszustellung und -ausfertigung
 
 (1) Die Urteile werden den Parteien, verkündete Versäumnisurteile nur der unterliegenden Partei in Abschrift zugestellt. Eine Zustellung nach § 310 Abs. 3 genügt. Auf übereinstimmenden Antrag der Parteien kann der Vorsitzende die Zustellung verkündeter Urteile bis zum Ablauf von fünf Monaten nach der Verkündung hinausschieben.
 
@@ -7790,13 +7446,11 @@ Der Tatbestand des Urteils liefert Beweis für das mündliche Parteivorbringen. 
 
 (5) Ist das Urteil nach § 313b Abs. 2 in abgekürzter Form hergestellt, so erfolgt die Ausfertigung in gleicher Weise unter Benutzung einer beglaubigten Abschrift der Klageschrift oder in der Weise, dass das Urteil durch Aufnahme der in § 313 Abs. 1 Nr. 1 bis 4 bezeichneten Angaben vervollständigt wird. Die Abschrift der Klageschrift kann durch den Urkundsbeamten der Geschäftsstelle oder durch den Rechtsanwalt des Klägers beglaubigt werden.
 
-
-## § 318 – Bindung des Gerichts
+# § 318 – Bindung des Gerichts
 
 Das Gericht ist an die Entscheidung, die in den von ihm erlassenen End- und Zwischenurteilen enthalten ist, gebunden.
 
-
-## § 319 – Berichtigung des Urteils
+# § 319 – Berichtigung des Urteils
 
 (1) Schreibfehler, Rechnungsfehler und ähnliche offenbare Unrichtigkeiten, die in dem Urteil vorkommen, sind jederzeit von dem Gericht auch von Amts wegen zu berichtigen.
 
@@ -7804,8 +7458,7 @@ Das Gericht ist an die Entscheidung, die in den von ihm erlassenen End- und Zwis
 
 (3) Gegen den Beschluss, durch den der Antrag auf Berichtigung zurückgewiesen wird, findet kein Rechtsmittel, gegen den Beschluss, der eine Berichtigung ausspricht, findet sofortige Beschwerde statt.
 
-
-## § 320 – Berichtigung des Tatbestandes
+# § 320 – Berichtigung des Tatbestandes
 
 (1) Enthält der Tatbestand des Urteils Unrichtigkeiten, die nicht unter die Vorschriften des vorstehenden Paragraphen fallen, Auslassungen, Dunkelheiten oder Widersprüche, so kann die Berichtigung binnen einer zweiwöchigen Frist durch Einreichung eines Schriftsatzes beantragt werden.
 
@@ -7815,8 +7468,7 @@ Das Gericht ist an die Entscheidung, die in den von ihm erlassenen End- und Zwis
 
 (4) Die Berichtigung des Tatbestandes hat eine Änderung des übrigen Teils des Urteils nicht zur Folge.
 
-
-## § 321 – Ergänzung des Urteils
+# § 321 – Ergänzung des Urteils
 
 (1) Wenn ein nach dem ursprünglich festgestellten oder nachträglich berichtigten Tatbestand von einer Partei geltend gemachter Haupt- oder Nebenanspruch oder wenn der Kostenpunkt bei der Endentscheidung ganz oder teilweise übergangen ist, so ist auf Antrag das Urteil durch nachträgliche Entscheidung zu ergänzen.
 
@@ -7826,8 +7478,7 @@ Das Gericht ist an die Entscheidung, die in den von ihm erlassenen End- und Zwis
 
 (4) Eine mündliche Verhandlung hat nur den nicht erledigten Teil des Rechtsstreits zum Gegenstand.
 
-
-## § 321a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+# § 321a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge der durch die Entscheidung beschwerten Partei ist das Verfahren fortzuführen, wenn
 
@@ -7845,15 +7496,13 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (5) Ist die Rüge begründet, so hilft ihr das Gericht ab, indem es das Verfahren fortführt, soweit dies auf Grund der Rüge geboten ist. Das Verfahren wird in die Lage zurückversetzt, in der es sich vor dem Schluss der mündlichen Verhandlung befand. § 343 gilt entsprechend. In schriftlichen Verfahren tritt an die Stelle des Schlusses der mündlichen Verhandlung der Zeitpunkt, bis zu dem Schriftsätze eingereicht werden können.
 
-
-## § 322 – Materielle Rechtskraft
+# § 322 – Materielle Rechtskraft
 
 (1) Urteile sind der Rechtskraft nur insoweit fähig, als über den durch die Klage oder durch die Widerklage erhobenen Anspruch entschieden ist.
 
 (2) Hat der Beklagte die Aufrechnung einer Gegenforderung geltend gemacht, so ist die Entscheidung, dass die Gegenforderung nicht besteht, bis zur Höhe des Betrages, für den die Aufrechnung geltend gemacht worden ist, der Rechtskraft fähig.
 
-
-## § 323 – Abänderung von Urteilen
+# § 323 – Abänderung von Urteilen
 
 (1) Enthält ein Urteil eine Verpflichtung zu künftig fällig werdenden wiederkehrenden Leistungen, kann jeder Teil die Abänderung beantragen. Die Klage ist nur zulässig, wenn der Kläger Tatsachen vorträgt, aus denen sich eine wesentliche Veränderung der der Entscheidung zugrunde liegenden tatsächlichen oder rechtlichen Verhältnisse ergibt.
 
@@ -7863,25 +7512,21 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (4) Liegt eine wesentliche Veränderung der tatsächlichen oder rechtlichen Verhältnisse vor, ist die Entscheidung unter Wahrung ihrer Grundlagen anzupassen.
 
-
-## § 323a – Abänderung von Vergleichen und Urkunden
+# § 323a – Abänderung von Vergleichen und Urkunden
 
 (1) Enthält ein Vergleich nach § 794 Abs. 1 Nr. 1 oder eine vollstreckbare Urkunde eine Verpflichtung zu künftig fällig werdenden wiederkehrenden Leistungen, kann jeder Teil auf Abänderung des Titels klagen. Die Klage ist nur zulässig, wenn der Kläger Tatsachen vorträgt, die die Abänderung rechtfertigen.
 
 (2) Die weiteren Voraussetzungen und der Umfang der Abänderung richten sich nach den Vorschriften des bürgerlichen Rechts.
 
-
-## § 323b – Verschärfte Haftung
+# § 323b – Verschärfte Haftung
 
 Die Rechtshängigkeit einer auf Herabsetzung gerichteten Abänderungsklage steht bei der Anwendung des § 818 Abs. 4 des Bürgerlichen Gesetzbuchs der Rechtshängigkeit einer Klage auf Rückzahlung der geleisteten Beträge gleich.
 
-
-## § 324 – Nachforderungsklage zur Sicherheitsleistung
+# § 324 – Nachforderungsklage zur Sicherheitsleistung
 
 Ist bei einer nach den §§ 843 bis 845 oder §§ 1569 bis 1586b des Bürgerlichen Gesetzbuchs erfolgten Verurteilung zur Entrichtung einer Geldrente nicht auf Sicherheitsleistung erkannt, so kann der Berechtigte gleichwohl Sicherheitsleistung verlangen, wenn sich die Vermögensverhältnisse des Verpflichteten erheblich verschlechtert haben; unter der gleichen Voraussetzung kann er eine Erhöhung der in dem Urteil bestimmten Sicherheit verlangen.
 
-
-## § 325 – Subjektive Rechtskraftwirkung
+# § 325 – Subjektive Rechtskraftwirkung
 
 (1) Das rechtskräftige Urteil wirkt für und gegen die Parteien und die Personen, die nach dem Eintritt der Rechtshängigkeit Rechtsnachfolger der Parteien geworden sind oder den Besitz der in Streit befangenen Sache in solcher Weise erlangt haben, dass eine der Parteien oder ihr Rechtsnachfolger mittelbarer Besitzer geworden ist.
 
@@ -7891,27 +7536,23 @@ Ist bei einer nach den §§ 843 bis 845 oder §§ 1569 bis 1586b des Bürgerlich
 
 (4) Betrifft das Urteil einen Anspruch aus einer eingetragenen Schiffshypothek, so gilt Absatz 3 Satz 1 entsprechend.
 
-
-## § 325a – Feststellungswirkung des Musterentscheids *)
+# § 325a – Feststellungswirkung des Musterentscheids *)
 
 Für die weitergehenden Wirkungen des Musterentscheids gelten die Vorschriften des Kapitalanleger-Musterverfahrensgesetzes.
 
-
-## § 326 – Rechtskraft bei Nacherbfolge
+# § 326 – Rechtskraft bei Nacherbfolge
 
 (1) Ein Urteil, das zwischen einem Vorerben und einem Dritten über einen gegen den Vorerben als Erben gerichteten Anspruch oder über einen der Nacherbfolge unterliegenden Gegenstand ergeht, wirkt, sofern es vor dem Eintritt der Nacherbfolge rechtskräftig wird, für den Nacherben.
 
 (2) Ein Urteil, das zwischen einem Vorerben und einem Dritten über einen der Nacherbfolge unterliegenden Gegenstand ergeht, wirkt auch gegen den Nacherben, sofern der Vorerbe befugt ist, ohne Zustimmung des Nacherben über den Gegenstand zu verfügen.
 
-
-## § 327 – Rechtskraft bei Testamentsvollstreckung
+# § 327 – Rechtskraft bei Testamentsvollstreckung
 
 (1) Ein Urteil, das zwischen einem Testamentsvollstrecker und einem Dritten über ein der Verwaltung des Testamentsvollstreckers unterliegendes Recht ergeht, wirkt für und gegen den Erben.
 
 (2) Das Gleiche gilt von einem Urteil, das zwischen einem Testamentsvollstrecker und einem Dritten über einen gegen den Nachlass gerichteten Anspruch ergeht, wenn der Testamentsvollstrecker zur Führung des Rechtsstreits berechtigt ist.
 
-
-## § 328 – Anerkennung ausländischer Urteile
+# § 328 – Anerkennung ausländischer Urteile
 
 (1) Die Anerkennung des Urteils eines ausländischen Gerichts ist ausgeschlossen:
 
@@ -7927,8 +7568,7 @@ Für die weitergehenden Wirkungen des Musterentscheids gelten die Vorschriften d
 
 (2) Die Vorschrift der Nummer 5 steht der Anerkennung des Urteils nicht entgegen, wenn das Urteil einen nichtvermögensrechtlichen Anspruch betrifft und nach den deutschen Gesetzen ein Gerichtsstand im Inland nicht begründet war.
 
-
-## § 329 – Beschlüsse und Verfügungen
+# § 329 – Beschlüsse und Verfügungen
 
 (1) Die auf Grund einer mündlichen Verhandlung ergehenden Beschlüsse des Gerichts müssen verkündet werden. Die Vorschriften der §§ 309, 310 Abs. 1 und des § 311 Abs. 4 sind auf Beschlüsse des Gerichts, die Vorschriften des § 312 und des § 317 Abs. 2 Satz 1, 2, Absatz 3 und 4 auf Beschlüsse des Gerichts und auf Verfügungen des Vorsitzenden sowie eines beauftragten oder ersuchten Richters entsprechend anzuwenden.
 
@@ -7936,13 +7576,11 @@ Für die weitergehenden Wirkungen des Musterentscheids gelten die Vorschriften d
 
 (3) Entscheidungen, die einen Vollstreckungstitel bilden oder die der sofortigen Beschwerde oder der Erinnerung nach § 573 Abs. 1 unterliegen, sind zuzustellen.
 
-
-## § 330 – Versäumnisurteil gegen den Kläger
+# § 330 – Versäumnisurteil gegen den Kläger
 
 Erscheint der Kläger im Termin zur mündlichen Verhandlung nicht, so ist auf Antrag das Versäumnisurteil dahin zu erlassen, dass der Kläger mit der Klage abzuweisen sei.
 
-
-## § 331 – Versäumnisurteil gegen den Beklagten
+# § 331 – Versäumnisurteil gegen den Beklagten
 
 (1) Beantragt der Kläger gegen den im Termin zur mündlichen Verhandlung nicht erschienenen Beklagten das Versäumnisurteil, so ist das tatsächliche mündliche Vorbringen des Klägers als zugestanden anzunehmen. Dies gilt nicht für Vorbringen zur Zuständigkeit des Gerichts nach § 29 Abs. 2, § 38.
 
@@ -7950,28 +7588,23 @@ Erscheint der Kläger im Termin zur mündlichen Verhandlung nicht, so ist auf An
 
 (3) Hat der Beklagte entgegen § 276 Abs. 1 Satz 1, Abs. 2 nicht rechtzeitig angezeigt, dass er sich gegen die Klage verteidigen wolle, so trifft auf Antrag des Klägers das Gericht die Entscheidung ohne mündliche Verhandlung; dies gilt nicht, wenn die Erklärung des Beklagten noch eingeht, bevor das von den Richtern unterschriebene Urteil der Geschäftsstelle übermittelt ist. Der Antrag kann schon in der Klageschrift gestellt werden. Eine Entscheidung ohne mündliche Verhandlung ist auch insoweit zulässig, als das Vorbringen des Klägers den Klageantrag in einer Nebenforderung nicht rechtfertigt, sofern der Kläger vor der Entscheidung auf diese Möglichkeit hingewiesen worden ist.
 
-
-## § 331a – Entscheidung nach Aktenlage
+# § 331a – Entscheidung nach Aktenlage
 
 Beim Ausbleiben einer Partei im Termin zur mündlichen Verhandlung kann der Gegner statt eines Versäumnisurteils eine Entscheidung nach Lage der Akten beantragen; dem Antrag ist zu entsprechen, wenn der Sachverhalt für eine derartige Entscheidung hinreichend geklärt erscheint. § 251a Abs. 2 gilt entsprechend.
 
-
-## § 332 – Begriff des Verhandlungstermins
+# § 332 – Begriff des Verhandlungstermins
 
 Als Verhandlungstermine im Sinne der vorstehenden Paragraphen sind auch diejenigen Termine anzusehen, auf welche die mündliche Verhandlung vertagt ist oder die zu ihrer Fortsetzung vor oder nach dem Erlass eines Beweisbeschlusses bestimmt sind.
 
-
-## § 333 – Nichtverhandeln der erschienenen Partei
+# § 333 – Nichtverhandeln der erschienenen Partei
 
 Als nicht erschienen ist auch die Partei anzusehen, die in dem Termin zwar erscheint, aber nicht verhandelt.
 
-
-## § 334 – Unvollständiges Verhandeln
+# § 334 – Unvollständiges Verhandeln
 
 Wenn eine Partei in dem Termin verhandelt, sich jedoch über Tatsachen, Urkunden oder Anträge auf Parteivernehmung nicht erklärt, so sind die Vorschriften dieses Titels nicht anzuwenden.
 
-
-## § 335 – Unzulässigkeit einer Versäumnisentscheidung
+# § 335 – Unzulässigkeit einer Versäumnisentscheidung
 
 (1) Der Antrag auf Erlass eines Versäumnisurteils oder einer Entscheidung nach Lage der Akten ist zurückzuweisen:
 
@@ -7987,25 +7620,21 @@ Wenn eine Partei in dem Termin verhandelt, sich jedoch über Tatsachen, Urkunden
 
 (2) Wird die Verhandlung vertagt, so ist die nicht erschienene Partei zu dem neuen Termin zu laden.
 
-
-## § 336 – Rechtsmittel bei Zurückweisung
+# § 336 – Rechtsmittel bei Zurückweisung
 
 (1) Gegen den Beschluss, durch den der Antrag auf Erlass des Versäumnisurteils zurückgewiesen wird, findet sofortige Beschwerde statt. Wird der Beschluss aufgehoben, so ist die nicht erschienene Partei zu dem neuen Termin nicht zu laden.
 
 (2) Die Ablehnung eines Antrages auf Entscheidung nach Lage der Akten ist unanfechtbar.
 
-
-## § 337 – Vertagung von Amts wegen
+# § 337 – Vertagung von Amts wegen
 
 Das Gericht vertagt die Verhandlung über den Antrag auf Erlass des Versäumnisurteils oder einer Entscheidung nach Lage der Akten, wenn es dafür hält, dass die von dem Vorsitzenden bestimmte Einlassungs- oder Ladungsfrist zu kurz bemessen oder dass die Partei ohne ihr Verschulden am Erscheinen verhindert ist. Die nicht erschienene Partei ist zu dem neuen Termin zu laden.
 
-
-## § 338 – Einspruch
+# § 338 – Einspruch
 
 Der Partei, gegen die ein Versäumnisurteil erlassen ist, steht gegen das Urteil der Einspruch zu.
 
-
-## § 339 – Einspruchsfrist
+# § 339 – Einspruchsfrist
 
 (1) Die Einspruchsfrist beträgt zwei Wochen; sie ist eine Notfrist und beginnt mit der Zustellung des Versäumnisurteils.
 
@@ -8013,8 +7642,7 @@ Der Partei, gegen die ein Versäumnisurteil erlassen ist, steht gegen das Urteil
 
 (3) Muss die Zustellung durch öffentliche Bekanntmachung erfolgen, so hat das Gericht die Einspruchsfrist im Versäumnisurteil oder nachträglich durch besonderen Beschluss zu bestimmen.
 
-
-## § 340 – Einspruchsschrift
+# § 340 – Einspruchsschrift
 
 (1) Der Einspruch wird durch Einreichung der Einspruchsschrift bei dem Prozessgericht eingelegt.
 
@@ -8028,57 +7656,47 @@ Soll das Urteil nur zum Teil angefochten werden, so ist der Umfang der Anfechtun
 
 (3) In der Einspruchsschrift hat die Partei ihre Angriffs- und Verteidigungsmittel, soweit es nach der Prozesslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Prozessführung entspricht, sowie Rügen, die die Zulässigkeit der Klage betreffen, vorzubringen. Auf Antrag kann der Vorsitzende für die Begründung die Frist verlängern, wenn nach seiner freien Überzeugung der Rechtsstreit durch die Verlängerung nicht verzögert wird oder wenn die Partei erhebliche Gründe darlegt. § 296 Abs. 1, 3, 4 ist entsprechend anzuwenden. Auf die Folgen einer Fristversäumung ist bei der Zustellung des Versäumnisurteils hinzuweisen.
 
-
-## § 340a – Zustellung der Einspruchsschrift
+# § 340a – Zustellung der Einspruchsschrift
 
 Die Einspruchsschrift ist der Gegenpartei zuzustellen. Dabei ist mitzuteilen, wann das Versäumnisurteil zugestellt und Einspruch eingelegt worden ist. Die erforderliche Zahl von Abschriften soll die Partei mit der Einspruchsschrift einreichen. Dies gilt nicht, wenn die Einspruchsschrift als elektronisches Dokument übermittelt wird.
 
-
-## § 341 – Einspruchsprüfung
+# § 341 – Einspruchsprüfung
 
 (1) Das Gericht hat von Amts wegen zu prüfen, ob der Einspruch an sich statthaft und ob er in der gesetzlichen Form und Frist eingelegt ist. Fehlt es an einem dieser Erfordernisse, so ist der Einspruch als unzulässig zu verwerfen.
 
 (2) Das Urteil kann ohne mündliche Verhandlung ergehen.
 
-
-## § 341a – Einspruchstermin
+# § 341a – Einspruchstermin
 
 Wird der Einspruch nicht als unzulässig verworfen, so ist der Termin zur mündlichen Verhandlung über den Einspruch und die Hauptsache zu bestimmen und den Parteien bekannt zu machen.
 
-
-## § 342 – Wirkung des zulässigen Einspruchs
+# § 342 – Wirkung des zulässigen Einspruchs
 
 Ist der Einspruch zulässig, so wird der Prozess, soweit der Einspruch reicht, in die Lage zurückversetzt, in der er sich vor Eintritt der Versäumnis befand.
 
-
-## § 343 – Entscheidung nach Einspruch
+# § 343 – Entscheidung nach Einspruch
 
 Insoweit die Entscheidung, die auf Grund der neuen Verhandlung zu erlassen ist, mit der in dem Versäumnisurteil enthaltenen Entscheidung übereinstimmt, ist auszusprechen, dass diese Entscheidung aufrechtzuerhalten sei. Insoweit diese Voraussetzung nicht zutrifft, wird das Versäumnisurteil in dem neuen Urteil aufgehoben.
 
-
-## § 344 – Versäumniskosten
+# § 344 – Versäumniskosten
 
 Ist das Versäumnisurteil in gesetzlicher Weise ergangen, so sind die durch die Versäumnis veranlassten Kosten, soweit sie nicht durch einen unbegründeten Widerspruch des Gegners entstanden sind, der säumigen Partei auch dann aufzuerlegen, wenn infolge des Einspruchs eine abändernde Entscheidung erlassen wird.
 
-
-## § 345 – Zweites Versäumnisurteil
+# § 345 – Zweites Versäumnisurteil
 
 Einer Partei, die den Einspruch eingelegt hat, aber in der zur mündlichen Verhandlung bestimmten Sitzung oder in derjenigen Sitzung, auf welche die Verhandlung vertagt ist, nicht erscheint oder nicht zur Hauptsache verhandelt, steht gegen das Versäumnisurteil, durch das der Einspruch verworfen wird, ein weiterer Einspruch nicht zu.
 
-
-## § 346 – Verzicht und Zurücknahme des Einspruchs
+# § 346 – Verzicht und Zurücknahme des Einspruchs
 
 Für den Verzicht auf den Einspruch und seine Zurücknahme gelten die Vorschriften über den Verzicht auf die Berufung und über ihre Zurücknahme entsprechend.
 
-
-## § 347 – Verfahren bei Widerklage und Zwischenstreit
+# § 347 – Verfahren bei Widerklage und Zwischenstreit
 
 (1) Die Vorschriften dieses Titels gelten für das Verfahren, das eine Widerklage oder die Bestimmung des Betrages eines dem Grunde nach bereits festgestellten Anspruchs zum Gegenstand hat, entsprechend.
 
 (2) War ein Termin lediglich zur Verhandlung über einen Zwischenstreit bestimmt, so beschränkt sich das Versäumnisverfahren und das Versäumnisurteil auf die Erledigung dieses Zwischenstreits. Die Vorschriften dieses Titels gelten entsprechend.
 
-
-## § 348 – Originärer Einzelrichter
+# § 348 – Originärer Einzelrichter
 
 (1) Die Zivilkammer entscheidet durch eines ihrer Mitglieder als Einzelrichter. Dies gilt nicht, wenn
 
@@ -8122,8 +7740,7 @@ Die Kammer übernimmt den Rechtsstreit, wenn die Voraussetzungen nach Satz 1 Nr.
 
 (4) Auf eine erfolgte oder unterlassene Vorlage oder Übernahme kann ein Rechtsmittel nicht gestützt werden.
 
-
-## § 348a – Obligatorischer Einzelrichter
+# § 348a – Obligatorischer Einzelrichter
 
 (1) Ist eine originäre Einzelrichterzuständigkeit nach § 348 Abs. 1 nicht begründet, überträgt die Zivilkammer die Sache durch Beschluss einem ihrer Mitglieder als Einzelrichter zur Entscheidung, wenn
 
@@ -8143,8 +7760,7 @@ Die Kammer übernimmt den Rechtsstreit, wenn die Voraussetzungen nach Satz 1 Nr.
 
 (3) Auf eine erfolgte oder unterlassene Übertragung, Vorlage oder Übernahme kann ein Rechtsmittel nicht gestützt werden.
 
-
-## § 349 – Vorsitzender der Kammer für Handelssachen
+# § 349 – Vorsitzender der Kammer für Handelssachen
 
 (1) In der Kammer für Handelssachen hat der Vorsitzende die Sache so weit zu fördern, dass sie in einer mündlichen Verhandlung vor der Kammer erledigt werden kann. Beweise darf er nur insoweit erheben, als anzunehmen ist, dass es für die Beweiserhebung auf die besondere Sachkunde der ehrenamtlichen Richter nicht ankommt und die Kammer das Beweisergebnis auch ohne unmittelbaren Eindruck von dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag.
 
@@ -8178,45 +7794,37 @@ Die Kammer übernimmt den Rechtsstreit, wenn die Voraussetzungen nach Satz 1 Nr.
 
 (4) Die §§ 348 und 348a sind nicht anzuwenden.
 
-
-## § 350 – Rechtsmittel
+# § 350 – Rechtsmittel
 
 Für die Anfechtung der Entscheidungen des Einzelrichters (§§ 348, 348a) und des Vorsitzenden der Kammer für Handelssachen (§ 349) gelten dieselben Vorschriften wie für die Anfechtung entsprechender Entscheidungen der Kammer.
 
+# §§ 351 bis 354 – (weggefallen)
 
-## §§ 351 bis 354 – (weggefallen)
-
-
-## § 355 – Unmittelbarkeit der Beweisaufnahme
+# § 355 – Unmittelbarkeit der Beweisaufnahme
 
 (1) Die Beweisaufnahme erfolgt vor dem Prozessgericht. Sie ist nur in den durch dieses Gesetz bestimmten Fällen einem Mitglied des Prozessgerichts oder einem anderen Gericht zu übertragen.
 
 (2) Eine Anfechtung des Beschlusses, durch den die eine oder die andere Art der Beweisaufnahme angeordnet wird, findet nicht statt.
 
-
-## § 356 – Beibringungsfrist
+# § 356 – Beibringungsfrist
 
 Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, so ist durch Beschluss eine Frist zu bestimmen, nach deren fruchtlosem Ablauf das Beweismittel nur benutzt werden kann, wenn nach der freien Überzeugung des Gerichts dadurch das Verfahren nicht verzögert wird.
 
-
-## § 357 – Parteiöffentlichkeit
+# § 357 – Parteiöffentlichkeit
 
 (1) Den Parteien ist gestattet, der Beweisaufnahme beizuwohnen.
 
 (2) Wird die Beweisaufnahme einem Mitglied des Prozessgerichts oder einem anderen Gericht übertragen, so ist die Terminsbestimmung den Parteien ohne besondere Form mitzuteilen, sofern nicht das Gericht die Zustellung anordnet. Bei Übersendung durch die Post gilt die Mitteilung, wenn die Wohnung der Partei im Bereich des Ortsbestellverkehrs liegt, an dem folgenden, im Übrigen an dem zweiten Werktage nach der Aufgabe zur Post als bewirkt, sofern nicht die Partei glaubhaft macht, dass ihr die Mitteilung nicht oder erst in einem späteren Zeitpunkt zugegangen ist.
 
-
-## § 357a
+# § 357a
 
 (weggefallen)
 
-
-## § 358 – Notwendigkeit eines Beweisbeschlusses
+# § 358 – Notwendigkeit eines Beweisbeschlusses
 
 Erfordert die Beweisaufnahme ein besonderes Verfahren, so ist es durch Beweisbeschluss anzuordnen.
 
-
-## § 358a – Beweisbeschluss und Beweisaufnahme vor mündlicher Verhandlung
+# § 358a – Beweisbeschluss und Beweisaufnahme vor mündlicher Verhandlung
 
 Das Gericht kann schon vor der mündlichen Verhandlung einen Beweisbeschluss erlassen. Der Beschluss kann vor der mündlichen Verhandlung ausgeführt werden, soweit er anordnet
 
@@ -8230,8 +7838,7 @@ Das Gericht kann schon vor der mündlichen Verhandlung einen Beweisbeschluss erl
 
 5. die Einnahme eines Augenscheins.
 
-
-## § 359 – Inhalt des Beweisbeschlusses
+# § 359 – Inhalt des Beweisbeschlusses
 
 Der Beweisbeschluss enthält:
 
@@ -8241,27 +7848,23 @@ Der Beweisbeschluss enthält:
 
 3. die Bezeichnung der Partei, die sich auf das Beweismittel berufen hat.
 
-
-## § 360 – Änderung des Beweisbeschlusses
+# § 360 – Änderung des Beweisbeschlusses
 
 Vor der Erledigung des Beweisbeschlusses kann keine Partei dessen Änderung auf Grund der früheren Verhandlungen verlangen. Das Gericht kann jedoch auf Antrag einer Partei oder von Amts wegen den Beweisbeschluss auch ohne erneute mündliche Verhandlung insoweit ändern, als der Gegner zustimmt oder es sich nur um die Berichtigung oder Ergänzung der im Beschluss angegebenen Beweistatsachen oder um die Vernehmung anderer als der im Beschluss angegebenen Zeugen oder Sachverständigen handelt. Die gleiche Befugnis hat der beauftragte oder ersuchte Richter. Die Parteien sind tunlichst vorher zu hören und in jedem Fall von der Änderung unverzüglich zu benachrichtigen.
 
-
-## § 361 – Beweisaufnahme durch beauftragten Richter
+# § 361 – Beweisaufnahme durch beauftragten Richter
 
 (1) Soll die Beweisaufnahme durch ein Mitglied des Prozessgerichts erfolgen, so wird bei der Verkündung des Beweisbeschlusses durch den Vorsitzenden der beauftragte Richter bezeichnet und der Termin zur Beweisaufnahme bestimmt.
 
 (2) Ist die Terminsbestimmung unterblieben, so erfolgt sie durch den beauftragten Richter, wird er verhindert, den Auftrag zu vollziehen, so ernennt der Vorsitzende ein anderes Mitglied.
 
-
-## § 362 – Beweisaufnahme durch ersuchten Richter
+# § 362 – Beweisaufnahme durch ersuchten Richter
 
 (1) Soll die Beweisaufnahme durch ein anderes Gericht erfolgen, so ist das Ersuchungsschreiben von dem Vorsitzenden zu erlassen.
 
 (2) Die auf die Beweisaufnahme sich beziehenden Verhandlungen übermittelt der ersuchte Richter der Geschäftsstelle des Prozessgerichts in Urschrift; die Geschäftsstelle benachrichtigt die Parteien von dem Eingang.
 
-
-## § 363 – Beweisaufnahme im Ausland
+# § 363 – Beweisaufnahme im Ausland
 
 (1) Soll die Beweisaufnahme im Ausland erfolgen, so hat der Vorsitzende die zuständige Behörde um Aufnahme des Beweises zu ersuchen.
 
@@ -8269,8 +7872,7 @@ Vor der Erledigung des Beweisbeschlusses kann keine Partei dessen Änderung auf 
 
 (3) Die Vorschriften der Verordnung (EG) Nr. 1206/2001 des Rates vom 28. Mai 2001 über die Zusammenarbeit zwischen den Gerichten der Mitgliedstaaten auf dem Gebiet der Beweisaufnahme in Zivil- oder Handelssachen bleiben unberührt. Für die Durchführung gelten die §§ 1072 und 1073.
 
-
-## § 364 – Parteimitwirkung bei Beweisaufnahme im Ausland
+# § 364 – Parteimitwirkung bei Beweisaufnahme im Ausland
 
 (1) Wird eine ausländische Behörde ersucht, den Beweis aufzunehmen, so kann das Gericht anordnen, dass der Beweisführer das Ersuchungsschreiben zu besorgen und die Erledigung des Ersuchens zu betreiben habe.
 
@@ -8280,44 +7882,37 @@ Vor der Erledigung des Beweisbeschlusses kann keine Partei dessen Änderung auf 
 
 (4) Der Beweisführer hat den Gegner, wenn möglich, von dem Ort und der Zeit der Beweisaufnahme so zeitig in Kenntnis zu setzen, dass dieser seine Rechte in geeigneter Weise wahrzunehmen vermag. Ist die Benachrichtigung unterblieben, so hat das Gericht zu ermessen, ob und inwieweit der Beweisführer zur Benutzung der Beweisverhandlung berechtigt ist.
 
-
-## § 365 – Abgabe durch beauftragten oder ersuchten Richter
+# § 365 – Abgabe durch beauftragten oder ersuchten Richter
 
 Der beauftragte oder ersuchte Richter ist ermächtigt, falls sich später Gründe ergeben, welche die Beweisaufnahme durch ein anderes Gericht sachgemäß erscheinen lassen, dieses Gericht um die Aufnahme des Beweises zu ersuchen. Die Parteien sind von dieser Verfügung in Kenntnis zu setzen.
 
-
-## § 366 – Zwischenstreit
+# § 366 – Zwischenstreit
 
 (1) Erhebt sich bei der Beweisaufnahme vor einem beauftragten oder ersuchten Richter ein Streit, von dessen Erledigung die Fortsetzung der Beweisaufnahme abhängig und zu dessen Entscheidung der Richter nicht berechtigt ist, so erfolgt die Erledigung durch das Prozessgericht.
 
 (2) Der Termin zur mündlichen Verhandlung über den Zwischenstreit ist von Amts wegen zu bestimmen und den Parteien bekannt zu machen.
 
-
-## § 367 – Ausbleiben der Partei
+# § 367 – Ausbleiben der Partei
 
 (1) Erscheint eine Partei oder erscheinen beide Parteien in dem Termin zur Beweisaufnahme nicht, so ist die Beweisaufnahme gleichwohl insoweit zu bewirken, als dies nach Lage der Sache geschehen kann.
 
 (2) Eine nachträgliche Beweisaufnahme oder eine Vervollständigung der Beweisaufnahme ist bis zum Schluss derjenigen mündlichen Verhandlung, auf die das Urteil ergeht, auf Antrag anzuordnen, wenn das Verfahren dadurch nicht verzögert wird oder wenn die Partei glaubhaft macht, dass sie ohne ihr Verschulden außerstande gewesen sei, in dem früheren Termin zu erscheinen, und im Falle des Antrags auf Vervollständigung, dass durch ihr Nichterscheinen eine wesentliche Unvollständigkeit der Beweisaufnahme veranlasst sei.
 
-
-## § 368 – Neuer Beweistermin
+# § 368 – Neuer Beweistermin
 
 Wird ein neuer Termin zur Beweisaufnahme oder zu ihrer Fortsetzung erforderlich, so ist dieser Termin, auch wenn der Beweisführer oder beide Parteien in dem früheren Termin nicht erschienen waren, von Amts wegen zu bestimmen.
 
-
-## § 369 – Ausländische Beweisaufnahme
+# § 369 – Ausländische Beweisaufnahme
 
 Entspricht die von einer ausländischen Behörde vorgenommene Beweisaufnahme den für das Prozessgericht geltenden Gesetzen, so kann daraus, dass sie nach den ausländischen Gesetzen mangelhaft ist, kein Einwand entnommen werden.
 
-
-## § 370 – Fortsetzung der mündlichen Verhandlung
+# § 370 – Fortsetzung der mündlichen Verhandlung
 
 (1) Erfolgt die Beweisaufnahme vor dem Prozessgericht, so ist der Termin, in dem die Beweisaufnahme stattfindet, zugleich zur Fortsetzung der mündlichen Verhandlung bestimmt.
 
 (2) In dem Beweisbeschluss, der anordnet, dass die Beweisaufnahme vor einem beauftragten oder ersuchten Richter erfolgen solle, kann zugleich der Termin zur Fortsetzung der mündlichen Verhandlung vor dem Prozessgericht bestimmt werden. Ist dies nicht geschehen, so wird nach Beendigung der Beweisaufnahme dieser Termin von Amts wegen bestimmt und den Parteien bekannt gemacht.
 
-
-## § 371 – Beweis durch Augenschein
+# § 371 – Beweis durch Augenschein
 
 (1) Der Beweis durch Augenschein wird durch Bezeichnung des Gegenstandes des Augenscheins und durch die Angabe der zu beweisenden Tatsachen angetreten. Ist ein elektronisches Dokument Gegenstand des Beweises, wird der Beweis durch Vorlegung oder Übermittlung der Datei angetreten.
 
@@ -8325,8 +7920,7 @@ Entspricht die von einer ausländischen Behörde vorgenommene Beweisaufnahme den
 
 (3) Vereitelt eine Partei die ihr zumutbare Einnahme des Augenscheins, so können die Behauptungen des Gegners über die Beschaffenheit des Gegenstandes als bewiesen angesehen werden.
 
-
-## § 371a – Beweiskraft elektronischer Dokumente
+# § 371a – Beweiskraft elektronischer Dokumente
 
 (1) Auf private elektronische Dokumente, die mit einer qualifizierten elektronischen Signatur versehen sind, finden die Vorschriften über die Beweiskraft privater Urkunden entsprechende Anwendung. Der Anschein der Echtheit einer in elektronischer Form vorliegenden Erklärung, der sich auf Grund der Prüfung der qualifizierten elektronischen Signatur nach Artikel 32 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) ergibt, kann nur durch Tatsachen erschüttert werden, die ernstliche Zweifel daran begründen, dass die Erklärung von der verantwortenden Person abgegeben worden ist.
 
@@ -8334,37 +7928,31 @@ Entspricht die von einer ausländischen Behörde vorgenommene Beweisaufnahme den
 
 (3) Auf elektronische Dokumente, die von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form erstellt worden sind (öffentliche elektronische Dokumente), finden die Vorschriften über die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Ist das Dokument von der erstellenden öffentlichen Behörde oder von der mit öffentlichem Glauben versehenen Person mit einer qualifizierten elektronischen Signatur versehen, gilt § 437 entsprechend. Das Gleiche gilt, wenn das Dokument im Auftrag der erstellenden öffentlichen Behörde oder der mit öffentlichem Glauben versehenen Person durch einen akkreditierten Diensteanbieter mit seiner qualifizierten elektronischen Signatur gemäß § 5 Absatz 5 des De-Mail-Gesetzes versehen ist und die Absenderbestätigung die erstellende öffentliche Behörde oder die mit öffentlichem Glauben versehene Person als Nutzer des De-Mail-Kontos ausweist.
 
-
-## § 371b – Beweiskraft gescannter öffentlicher Urkunden
+# § 371b – Beweiskraft gescannter öffentlicher Urkunden
 
 Wird eine öffentliche Urkunde nach dem Stand der Technik von einer öffentlichen Behörde oder von einer mit öffentlichem Glauben versehenen Person in ein elektronisches Dokument übertragen und liegt die Bestätigung vor, dass das elektronische Dokument mit der Urschrift bildlich und inhaltlich übereinstimmt, finden auf das elektronische Dokument die Vorschriften über die Beweiskraft öffentlicher Urkunden entsprechende Anwendung. Sind das Dokument und die Bestätigung mit einer qualifizierten elektronischen Signatur versehen, gilt § 437 entsprechend.
 
-
-## § 372 – Beweisaufnahme
+# § 372 – Beweisaufnahme
 
 (1) Das Prozessgericht kann anordnen, dass bei der Einnahme des Augenscheins ein oder mehrere Sachverständige zuzuziehen seien.
 
 (2) Es kann einem Mitglied des Prozessgerichts oder einem anderen Gericht die Einnahme des Augenscheins übertragen, auch die Ernennung der zuzuziehenden Sachverständigen überlassen.
 
-
-## § 372a – Untersuchungen zur Feststellung der Abstammung
+# § 372a – Untersuchungen zur Feststellung der Abstammung
 
 (1) Soweit es zur Feststellung der Abstammung erforderlich ist, hat jede Person Untersuchungen, insbesondere die Entnahme von Blutproben, zu dulden, es sei denn, dass die Untersuchung dem zu Untersuchenden nicht zugemutet werden kann.
 
 (2) Die §§ 386 bis 390 gelten entsprechend. Bei wiederholter unberechtigter Verweigerung der Untersuchung kann auch unmittelbarer Zwang angewendet, insbesondere die zwangsweise Vorführung zur Untersuchung angeordnet werden.
 
-
-## § 373 – Beweisantritt
+# § 373 – Beweisantritt
 
 Der Zeugenbeweis wird durch die Benennung der Zeugen und die Bezeichnung der Tatsachen, über welche die Vernehmung der Zeugen stattfinden soll, angetreten.
 
-
-## § 374
+# § 374
 
 (weggefallen)
 
-
-## § 375 – Beweisaufnahme durch beauftragten oder ersuchten Richter
+# § 375 – Beweisaufnahme durch beauftragten oder ersuchten Richter
 
 (1) Die Aufnahme des Zeugenbeweises darf einem Mitglied des Prozessgerichts oder einem anderen Gericht nur übertragen werden, wenn von vornherein anzunehmen ist, dass das Prozessgericht das Beweisergebnis auch ohne unmittelbaren Eindruck von dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag, und
 
@@ -8378,8 +7966,7 @@ Der Zeugenbeweis wird durch die Benennung der Zeugen und die Bezeichnung der Tat
 
 (2) Der Bundespräsident ist in seiner Wohnung zu vernehmen.
 
-
-## § 376 – Vernehmung bei Amtsverschwiegenheit
+# § 376 – Vernehmung bei Amtsverschwiegenheit
 
 (1) Für die Vernehmung von Richtern, Beamten und anderen Personen des öffentlichen Dienstes als Zeugen über Umstände, auf die sich ihre Pflicht zur Amtsverschwiegenheit bezieht, und für die Genehmigung zur Aussage gelten die besonderen beamtenrechtlichen Vorschriften.
 
@@ -8391,8 +7978,7 @@ Der Zeugenbeweis wird durch die Benennung der Zeugen und die Bezeichnung der Tat
 
 (5) Diese Vorschriften gelten auch, wenn die vorgenannten Personen nicht mehr im öffentlichen Dienst oder Angestellte einer Fraktion sind oder ihre Mandate beendet sind, soweit es sich um Tatsachen handelt, die sich während ihrer Dienst-, Beschäftigungs- oder Mandatszeit ereignet haben oder ihnen während ihrer Dienst-, Beschäftigungs- oder Mandatszeit zur Kenntnis gelangt sind.
 
-
-## § 377 – Zeugenladung
+# § 377 – Zeugenladung
 
 (1) Die Ladung der Zeugen ist von der Geschäftsstelle unter Bezugnahme auf den Beweisbeschluss auszufertigen und von Amts wegen mitzuteilen. Sie wird, sofern nicht das Gericht die Zustellung anordnet, formlos übermittelt.
 
@@ -8406,20 +7992,17 @@ Der Zeugenbeweis wird durch die Benennung der Zeugen und die Bezeichnung der Tat
 
 (3) Das Gericht kann eine schriftliche Beantwortung der Beweisfrage anordnen, wenn es dies im Hinblick auf den Inhalt der Beweisfrage und die Person des Zeugen für ausreichend erachtet. Der Zeuge ist darauf hinzuweisen, dass er zur Vernehmung geladen werden kann. Das Gericht ordnet die Ladung des Zeugen an, wenn es dies zur weiteren Klärung der Beweisfrage für notwendig erachtet.
 
-
-## § 378 – Aussageerleichternde Unterlagen
+# § 378 – Aussageerleichternde Unterlagen
 
 (1) Soweit es die Aussage über seine Wahrnehmungen erleichtert, hat der Zeuge Aufzeichnungen und andere Unterlagen einzusehen und zu dem Termin mitzubringen, wenn ihm dies gestattet und zumutbar ist. Die §§ 142 und 429 bleiben unberührt.
 
 (2) Kommt der Zeuge auf eine bestimmte Anordnung des Gerichts der Verpflichtung nach Absatz 1 nicht nach, so kann das Gericht die in § 390 bezeichneten Maßnahmen treffen; hierauf ist der Zeuge vorher hinzuweisen.
 
-
-## § 379 – Auslagenvorschuss
+# § 379 – Auslagenvorschuss
 
 Das Gericht kann die Ladung des Zeugen davon abhängig machen, dass der Beweisführer einen hinreichenden Vorschuss zur Deckung der Auslagen zahlt, die der Staatskasse durch die Vernehmung des Zeugen erwachsen. Wird der Vorschuss nicht innerhalb der bestimmten Frist gezahlt, so unterbleibt die Ladung, wenn die Zahlung nicht so zeitig nachgeholt wird, dass die Vernehmung durchgeführt werden kann, ohne dass dadurch nach der freien Überzeugung des Gerichts das Verfahren verzögert wird.
 
-
-## § 380 – Folgen des Ausbleibens des Zeugen
+# § 380 – Folgen des Ausbleibens des Zeugen
 
 (1) Einem ordnungsgemäß geladenen Zeugen, der nicht erscheint, werden, ohne dass es eines Antrages bedarf, die durch das Ausbleiben verursachten Kosten auferlegt. Zugleich wird gegen ihn ein Ordnungsgeld und für den Fall, dass dieses nicht beigetrieben werden kann, Ordnungshaft festgesetzt.
 
@@ -8427,15 +8010,13 @@ Das Gericht kann die Ladung des Zeugen davon abhängig machen, dass der Beweisf�
 
 (3) Gegen diese Beschlüsse findet die sofortige Beschwerde statt.
 
-
-## § 381 – Genügende Entschuldigung des Ausbleibens
+# § 381 – Genügende Entschuldigung des Ausbleibens
 
 (1) Die Auferlegung der Kosten und die Festsetzung eines Ordnungsmittels unterbleiben, wenn das Ausbleiben des Zeugen rechtzeitig genügend entschuldigt wird. Erfolgt die Entschuldigung nach Satz 1 nicht rechtzeitig, so unterbleiben die Auferlegung der Kosten und die Festsetzung eines Ordnungsmittels nur dann, wenn glaubhaft gemacht wird, dass den Zeugen an der Verspätung der Entschuldigung kein Verschulden trifft. Erfolgt die genügende Entschuldigung oder die Glaubhaftmachung nachträglich, so werden die getroffenen Anordnungen unter den Voraussetzungen des Satzes 2 aufgehoben.
 
 (2) Die Anzeigen und Gesuche des Zeugen können schriftlich oder zum Protokoll der Geschäftsstelle oder mündlich in dem zur Vernehmung bestimmten neuen Termin angebracht werden.
 
-
-## § 382 – Vernehmung an bestimmten Orten
+# § 382 – Vernehmung an bestimmten Orten
 
 (1) Die Mitglieder der Bundesregierung oder einer Landesregierung sind an ihrem Amtssitz oder, wenn sie sich außerhalb ihres Amtssitzes aufhalten, an ihrem Aufenthaltsort zu vernehmen.
 
@@ -8450,8 +8031,7 @@ für die Mitglieder einer Landesregierung der Genehmigung der Landesregierung,
 
 für die Mitglieder einer der im Absatz 2 genannten Versammlungen der Genehmigung dieser Versammlung.
 
-
-## § 383 – Zeugnisverweigerung aus persönlichen Gründen
+# § 383 – Zeugnisverweigerung aus persönlichen Gründen
 
 (1) Zur Verweigerung des Zeugnisses sind berechtigt:
 
@@ -8459,8 +8039,7 @@ für die Mitglieder einer der im Absatz 2 genannten Versammlungen der Genehmigun
 
 2. der Ehegatte einer Partei, auch wenn die Ehe nicht mehr besteht;
 
-2a.  
-der Lebenspartner einer Partei, auch wenn die Lebenspartnerschaft nicht mehr besteht;
+2a. der Lebenspartner einer Partei, auch wenn die Lebenspartnerschaft nicht mehr besteht;
 
 3. diejenigen, die mit einer Partei in gerader Linie verwandt oder verschwägert, in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert sind oder waren;
 
@@ -8474,8 +8053,7 @@ der Lebenspartner einer Partei, auch wenn die Lebenspartnerschaft nicht mehr bes
 
 (3) Die Vernehmung der unter Nummern 4 bis 6 bezeichneten Personen ist, auch wenn das Zeugnis nicht verweigert wird, auf Tatsachen nicht zu richten, in Ansehung welcher erhellt, dass ohne Verletzung der Verpflichtung zur Verschwiegenheit ein Zeugnis nicht abgelegt werden kann.
 
-
-## § 384 – Zeugnisverweigerung aus sachlichen Gründen
+# § 384 – Zeugnisverweigerung aus sachlichen Gründen
 
 Das Zeugnis kann verweigert werden:
 
@@ -8485,8 +8063,7 @@ Das Zeugnis kann verweigert werden:
 
 3. über Fragen, die der Zeuge nicht würde beantworten können, ohne ein Kunst- oder Gewerbegeheimnis zu offenbaren.
 
-
-## § 385 – Ausnahmen vom Zeugnisverweigerungsrecht
+# § 385 – Ausnahmen vom Zeugnisverweigerungsrecht
 
 (1) In den Fällen des § 383 Nr. 1 bis 3 und des § 384 Nr. 1 darf der Zeuge das Zeugnis nicht verweigern:
 
@@ -8500,8 +8077,7 @@ Das Zeugnis kann verweigert werden:
 
 (2) Die im § 383 Nr. 4, 6 bezeichneten Personen dürfen das Zeugnis nicht verweigern, wenn sie von der Verpflichtung zur Verschwiegenheit entbunden sind.
 
-
-## § 386 – Erklärung der Zeugnisverweigerung
+# § 386 – Erklärung der Zeugnisverweigerung
 
 (1) Der Zeuge, der das Zeugnis verweigert, hat vor dem zu seiner Vernehmung bestimmten Termin schriftlich oder zum Protokoll der Geschäftsstelle oder in diesem Termin die Tatsachen, auf die er die Weigerung gründet, anzugeben und glaubhaft zu machen.
 
@@ -8511,8 +8087,7 @@ Das Zeugnis kann verweigert werden:
 
 (4) Von dem Eingang einer Erklärung des Zeugen oder von der Aufnahme einer solchen zum Protokoll hat die Geschäftsstelle die Parteien zu benachrichtigen.
 
-
-## § 387 – Zwischenstreit über Zeugnisverweigerung
+# § 387 – Zwischenstreit über Zeugnisverweigerung
 
 (1) Über die Rechtmäßigkeit der Weigerung wird von dem Prozessgericht nach Anhörung der Parteien entschieden.
 
@@ -8520,13 +8095,11 @@ Das Zeugnis kann verweigert werden:
 
 (3) Gegen das Zwischenurteil findet sofortige Beschwerde statt.
 
-
-## § 388 – Zwischenstreit über schriftliche Zeugnisverweigerung
+# § 388 – Zwischenstreit über schriftliche Zeugnisverweigerung
 
 Hat der Zeuge seine Weigerung schriftlich oder zum Protokoll der Geschäftsstelle erklärt und ist er in dem Termin nicht erschienen, so hat auf Grund seiner Erklärungen ein Mitglied des Prozessgerichts Bericht zu erstatten.
 
-
-## § 389 – Zeugnisverweigerung vor beauftragtem oder ersuchtem Richter
+# § 389 – Zeugnisverweigerung vor beauftragtem oder ersuchtem Richter
 
 (1) Erfolgt die Weigerung vor einem beauftragten oder ersuchten Richter, so sind die Erklärungen des Zeugen, wenn sie nicht schriftlich oder zum Protokoll der Geschäftsstelle abgegeben sind, nebst den Erklärungen der Parteien in das Protokoll aufzunehmen.
 
@@ -8534,8 +8107,7 @@ Hat der Zeuge seine Weigerung schriftlich oder zum Protokoll der Geschäftsstell
 
 (3) Auf Grund der von dem Zeugen und den Parteien abgegebenen Erklärungen hat ein Mitglied des Prozessgerichts Bericht zu erstatten. Nach dem Vortrag des Berichterstatters können der Zeuge und die Parteien zur Begründung ihrer Anträge das Wort nehmen; neue Tatsachen oder Beweismittel dürfen nicht geltend gemacht werden.
 
-
-## § 390 – Folgen der Zeugnisverweigerung
+# § 390 – Folgen der Zeugnisverweigerung
 
 (1) Wird das Zeugnis oder die Eidesleistung ohne Angabe eines Grundes oder aus einem rechtskräftig für unerheblich erklärten Grund verweigert, so werden dem Zeugen, ohne dass es eines Antrages bedarf, die durch die Weigerung verursachten Kosten auferlegt. Zugleich wird gegen ihn ein Ordnungsgeld und für den Fall, dass dieses nicht beigetrieben werden kann, Ordnungshaft festgesetzt.
 
@@ -8543,37 +8115,31 @@ Hat der Zeuge seine Weigerung schriftlich oder zum Protokoll der Geschäftsstell
 
 (3) Gegen die Beschlüsse findet die sofortige Beschwerde statt.
 
-
-## § 391 – Zeugenbeeidigung
+# § 391 – Zeugenbeeidigung
 
 Ein Zeuge ist, vorbehaltlich der sich aus § 393 ergebenden Ausnahmen, zu beeidigen, wenn das Gericht dies mit Rücksicht auf die Bedeutung der Aussage oder zur Herbeiführung einer wahrheitsgemäßen Aussage für geboten erachtet und die Parteien auf die Beeidigung nicht verzichten.
 
-
-## § 392 – Nacheid; Eidesnorm
+# § 392 – Nacheid; Eidesnorm
 
 Die Beeidigung erfolgt nach der Vernehmung. Mehrere Zeugen können gleichzeitig beeidigt werden. Die Eidesnorm geht dahin, dass der Zeuge nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe.
 
-
-## § 393 – Uneidliche Vernehmung
+# § 393 – Uneidliche Vernehmung
 
 Personen, die zur Zeit der Vernehmung das 16. Lebensjahr noch nicht vollendet oder wegen mangelnder Verstandesreife oder wegen Verstandesschwäche von dem Wesen und der Bedeutung des Eides keine genügende Vorstellung haben, sind unbeeidigt zu vernehmen.
 
-
-## § 394 – Einzelvernehmung
+# § 394 – Einzelvernehmung
 
 (1) Jeder Zeuge ist einzeln und in Abwesenheit der später abzuhörenden Zeugen zu vernehmen.
 
 (2) Zeugen, deren Aussagen sich widersprechen, können einander gegenübergestellt werden.
 
-
-## § 395 – Wahrheitsermahnung; Vernehmung zur Person
+# § 395 – Wahrheitsermahnung; Vernehmung zur Person
 
 (1) Vor der Vernehmung wird der Zeuge zur Wahrheit ermahnt und darauf hingewiesen, dass er in den vom Gesetz vorgesehenen Fällen unter Umständen seine Aussage zu beeidigen habe.
 
 (2) Die Vernehmung beginnt damit, dass der Zeuge über Vornamen und Zunamen, Alter, Stand oder Gewerbe und Wohnort befragt wird. Erforderlichenfalls sind ihm Fragen über solche Umstände, die seine Glaubwürdigkeit in der vorliegenden Sache betreffen, insbesondere über seine Beziehungen zu den Parteien vorzulegen.
 
-
-## § 396 – Vernehmung zur Sache
+# § 396 – Vernehmung zur Sache
 
 (1) Der Zeuge ist zu veranlassen, dasjenige, was ihm von dem Gegenstand seiner Vernehmung bekannt ist, im Zusammenhang anzugeben.
 
@@ -8581,8 +8147,7 @@ Personen, die zur Zeit der Vernehmung das 16. Lebensjahr noch nicht vollendet od
 
 (3) Der Vorsitzende hat jedem Mitglied des Gerichts auf Verlangen zu gestatten, Fragen zu stellen.
 
-
-## § 397 – Fragerecht der Parteien
+# § 397 – Fragerecht der Parteien
 
 (1) Die Parteien sind berechtigt, dem Zeugen diejenigen Fragen vorlegen zu lassen, die sie zur Aufklärung der Sache oder der Verhältnisse des Zeugen für dienlich erachten.
 
@@ -8590,8 +8155,7 @@ Personen, die zur Zeit der Vernehmung das 16. Lebensjahr noch nicht vollendet od
 
 (3) Zweifel über die Zulässigkeit einer Frage entscheidet das Gericht.
 
-
-## § 398 – Wiederholte und nachträgliche Vernehmung
+# § 398 – Wiederholte und nachträgliche Vernehmung
 
 (1) Das Prozessgericht kann nach seinem Ermessen die wiederholte Vernehmung eines Zeugen anordnen.
 
@@ -8599,33 +8163,27 @@ Personen, die zur Zeit der Vernehmung das 16. Lebensjahr noch nicht vollendet od
 
 (3) Bei der wiederholten oder der nachträglichen Vernehmung kann der Richter statt der nochmaligen Beeidigung den Zeugen die Richtigkeit seiner Aussage unter Berufung auf den früher geleisteten Eid versichern lassen.
 
-
-## § 399 – Verzicht auf Zeugen
+# § 399 – Verzicht auf Zeugen
 
 Die Partei kann auf einen Zeugen, den sie vorgeschlagen hat, verzichten; der Gegner kann aber verlangen, dass der erschienene Zeuge vernommen und, wenn die Vernehmung bereits begonnen hat, dass sie fortgesetzt werde.
 
-
-## § 400 – Befugnisse des mit der Beweisaufnahme betrauten Richters
+# § 400 – Befugnisse des mit der Beweisaufnahme betrauten Richters
 
 Der mit der Beweisaufnahme betraute Richter ist ermächtigt, im Falle des Nichterscheinens oder der Zeugnisverweigerung die gesetzlichen Verfügungen zu treffen, auch sie, soweit dies überhaupt zulässig ist, selbst nach Erledigung des Auftrages wieder aufzuheben, über die Zulässigkeit einer dem Zeugen vorgelegten Frage vorläufig zu entscheiden und die nochmalige Vernehmung eines Zeugen vorzunehmen.
 
-
-## § 401 – Zeugenentschädigung
+# § 401 – Zeugenentschädigung
 
 Der Zeuge wird nach dem Justizvergütungs- und -entschädigungsgesetz entschädigt.
 
-
-## § 402 – Anwendbarkeit der Vorschriften für Zeugen
+# § 402 – Anwendbarkeit der Vorschriften für Zeugen
 
 Für den Beweis durch Sachverständige gelten die Vorschriften über den Beweis durch Zeugen entsprechend, insoweit nicht in den nachfolgenden Paragraphen abweichende Vorschriften enthalten sind.
 
-
-## § 403 – Beweisantritt
+# § 403 – Beweisantritt
 
 Der Beweis wird durch die Bezeichnung der zu begutachtenden Punkte angetreten.
 
-
-## § 404 – Sachverständigenauswahl
+# § 404 – Sachverständigenauswahl
 
 (1) Die Auswahl der zuzuziehenden Sachverständigen und die Bestimmung ihrer Anzahl erfolgt durch das Prozessgericht. Es kann sich auf die Ernennung eines einzigen Sachverständigen beschränken. An Stelle der zuerst ernannten Sachverständigen kann es andere ernennen.
 
@@ -8637,8 +8195,7 @@ Der Beweis wird durch die Bezeichnung der zu begutachtenden Punkte angetreten.
 
 (5) Einigen sich die Parteien über bestimmte Personen als Sachverständige, so hat das Gericht dieser Einigung Folge zu geben; das Gericht kann jedoch die Wahl der Parteien auf eine bestimmte Anzahl beschränken.
 
-
-## § 404a – Leitung der Tätigkeit des Sachverständigen
+# § 404a – Leitung der Tätigkeit des Sachverständigen
 
 (1) Das Gericht hat die Tätigkeit des Sachverständigen zu leiten und kann ihm für Art und Umfang seiner Tätigkeit Weisungen erteilen.
 
@@ -8650,13 +8207,11 @@ Der Beweis wird durch die Bezeichnung der zu begutachtenden Punkte angetreten.
 
 (5) Weisungen an den Sachverständigen sind den Parteien mitzuteilen. Findet ein besonderer Termin zur Einweisung des Sachverständigen statt, so ist den Parteien die Teilnahme zu gestatten.
 
-
-## § 405 – Auswahl durch den mit der Beweisaufnahme betrauten Richter
+# § 405 – Auswahl durch den mit der Beweisaufnahme betrauten Richter
 
 Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennung der Sachverständigen ermächtigen. Er hat in diesem Falle die Befugnisse und Pflichten des Prozessgerichts nach den §§ 404, 404a.
 
-
-## § 406 – Ablehnung eines Sachverständigen
+# § 406 – Ablehnung eines Sachverständigen
 
 (1) Ein Sachverständiger kann aus denselben Gründen, die zur Ablehnung eines Richters berechtigen, abgelehnt werden. Ein Ablehnungsgrund kann jedoch nicht daraus entnommen werden, dass der Sachverständige als Zeuge vernommen worden ist.
 
@@ -8668,15 +8223,13 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 (5) Gegen den Beschluss, durch den die Ablehnung für begründet erklärt wird, findet kein Rechtsmittel, gegen den Beschluss, durch den sie für unbegründet erklärt wird, findet sofortige Beschwerde statt.
 
-
-## § 407 – Pflicht zur Erstattung des Gutachtens
+# § 407 – Pflicht zur Erstattung des Gutachtens
 
 (1) Der zum Sachverständigen Ernannte hat der Ernennung Folge zu leisten, wenn er zur Erstattung von Gutachten der erforderten Art öffentlich bestellt ist oder wenn er die Wissenschaft, die Kunst oder das Gewerbe, deren Kenntnis Voraussetzung der Begutachtung ist, öffentlich zum Erwerb ausübt oder wenn er zur Ausübung derselben öffentlich bestellt oder ermächtigt ist.
 
 (2) Zur Erstattung des Gutachtens ist auch derjenige verpflichtet, der sich hierzu vor Gericht bereit erklärt hat.
 
-
-## § 407a – Weitere Pflichten des Sachverständigen
+# § 407a – Weitere Pflichten des Sachverständigen
 
 (1) Der Sachverständige hat unverzüglich zu prüfen, ob der Auftrag in sein Fachgebiet fällt und ohne die Hinzuziehung weiterer Sachverständiger sowie innerhalb der vom Gericht gesetzten Frist erledigt werden kann. Ist das nicht der Fall, so hat der Sachverständige das Gericht unverzüglich zu verständigen.
 
@@ -8690,8 +8243,7 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 (6) Das Gericht soll den Sachverständigen auf seine Pflichten hinweisen.
 
-
-## § 408 – Gutachtenverweigerungsrecht
+# § 408 – Gutachtenverweigerungsrecht
 
 (1) Dieselben Gründe, die einen Zeugen berechtigen, das Zeugnis zu verweigern, berechtigen einen Sachverständigen zur Verweigerung des Gutachtens. Das Gericht kann auch aus anderen Gründen einen Sachverständigen von der Verpflichtung zur Erstattung des Gutachtens entbinden.
 
@@ -8699,22 +8251,19 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 (3) Wer bei einer richterlichen Entscheidung mitgewirkt hat, soll über Fragen, die den Gegenstand der Entscheidung gebildet haben, nicht als Sachverständiger vernommen werden.
 
-
-## § 409 – Folgen des Ausbleibens oder der Gutachtenverweigerung
+# § 409 – Folgen des Ausbleibens oder der Gutachtenverweigerung
 
 (1) Wenn ein Sachverständiger nicht erscheint oder sich weigert, ein Gutachten zu erstatten, obgleich er dazu verpflichtet ist, oder wenn er Akten oder sonstige Unterlagen zurückbehält, werden ihm die dadurch verursachten Kosten auferlegt. Zugleich wird gegen ihn ein Ordnungsgeld festgesetzt. Im Falle wiederholten Ungehorsams kann das Ordnungsgeld noch einmal festgesetzt werden.
 
 (2) Gegen den Beschluss findet sofortige Beschwerde statt.
 
-
-## § 410 – Sachverständigenbeeidigung
+# § 410 – Sachverständigenbeeidigung
 
 (1) Der Sachverständige wird vor oder nach Erstattung des Gutachtens beeidigt. Die Eidesnorm geht dahin, dass der Sachverständige das von ihm erforderte Gutachten unparteiisch und nach bestem Wissen und Gewissen erstatten werde oder erstattet habe.
 
 (2) Ist der Sachverständige für die Erstattung von Gutachten der betreffenden Art im Allgemeinen beeidigt, so genügt die Berufung auf den geleisteten Eid; sie kann auch in einem schriftlichen Gutachten erklärt werden.
 
-
-## § 411 – Schriftliches Gutachten
+# § 411 – Schriftliches Gutachten
 
 (1) Wird schriftliche Begutachtung angeordnet, setzt das Gericht dem Sachverständigen eine Frist, innerhalb derer er das von ihm unterschriebene Gutachten zu übermitteln hat.
 
@@ -8724,52 +8273,43 @@ Das Prozessgericht kann den mit der Beweisaufnahme betrauten Richter zur Ernennu
 
 (4) Die Parteien haben dem Gericht innerhalb eines angemessenen Zeitraums ihre Einwendungen gegen das Gutachten, die Begutachtung betreffende Anträge und Ergänzungsfragen zu dem schriftlichen Gutachten mitzuteilen. Das Gericht kann ihnen hierfür eine Frist setzen; § 296 Abs. 1, 4 gilt entsprechend.
 
-
-## § 411a – Verwertung von Sachverständigengutachten aus anderen Verfahren
+# § 411a – Verwertung von Sachverständigengutachten aus anderen Verfahren
 
 Die schriftliche Begutachtung kann durch die Verwertung eines gerichtlich oder staatsanwaltschaftlich eingeholten Sachverständigengutachtens aus einem anderen Verfahren ersetzt werden.
 
-
-## § 412 – Neues Gutachten
+# § 412 – Neues Gutachten
 
 (1) Das Gericht kann eine neue Begutachtung durch dieselben oder durch andere Sachverständige anordnen, wenn es das Gutachten für ungenügend erachtet.
 
 (2) Das Gericht kann die Begutachtung durch einen anderen Sachverständigen anordnen, wenn ein Sachverständiger nach Erstattung des Gutachtens mit Erfolg abgelehnt ist.
 
-
-## § 413 – Sachverständigenvergütung
+# § 413 – Sachverständigenvergütung
 
 Der Sachverständige erhält eine Vergütung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 414 – Sachverständige Zeugen
+# § 414 – Sachverständige Zeugen
 
 Insoweit zum Beweis vergangener Tatsachen oder Zustände, zu deren Wahrnehmung eine besondere Sachkunde erforderlich war, sachkundige Personen zu vernehmen sind, kommen die Vorschriften über den Zeugenbeweis zur Anwendung.
 
-
-## § 415 – Beweiskraft öffentlicher Urkunden über Erklärungen
+# § 415 – Beweiskraft öffentlicher Urkunden über Erklärungen
 
 (1) Urkunden, die von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form aufgenommen sind (öffentliche Urkunden), begründen, wenn sie über eine vor der Behörde oder der Urkundsperson abgegebene Erklärung errichtet sind, vollen Beweis des durch die Behörde oder die Urkundsperson beurkundeten Vorganges.
 
 (2) Der Beweis, dass der Vorgang unrichtig beurkundet sei, ist zulässig.
 
-
-## § 416 – Beweiskraft von Privaturkunden
+# § 416 – Beweiskraft von Privaturkunden
 
 Privaturkunden begründen, sofern sie von den Ausstellern unterschrieben oder mittels notariell beglaubigten Handzeichens unterzeichnet sind, vollen Beweis dafür, dass die in ihnen enthaltenen Erklärungen von den Ausstellern abgegeben sind.
 
-
-## § 416a – Beweiskraft des Ausdrucks eines öffentlichen elektronischen Dokuments
+# § 416a – Beweiskraft des Ausdrucks eines öffentlichen elektronischen Dokuments
 
 Der mit einem Beglaubigungsvermerk versehene Ausdruck eines öffentlichen elektronischen Dokuments gemäß § 371a Absatz 3, den eine öffentliche Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder eine mit öffentlichem Glauben versehene Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form erstellt hat, sowie der Ausdruck eines gerichtlichen elektronischen Dokuments, der einen Vermerk des zuständigen Gerichts gemäß § 298 Absatz 3 enthält, stehen einer öffentlichen Urkunde in beglaubigter Abschrift gleich.
 
-
-## § 417 – Beweiskraft öffentlicher Urkunden über amtliche Anordnung, Verfügung oder Entscheidung
+# § 417 – Beweiskraft öffentlicher Urkunden über amtliche Anordnung, Verfügung oder Entscheidung
 
 Die von einer Behörde ausgestellten, eine amtliche Anordnung, Verfügung oder Entscheidung enthaltenden öffentlichen Urkunden begründen vollen Beweis ihres Inhalts.
 
-
-## § 418 – Beweiskraft öffentlicher Urkunden mit anderem Inhalt
+# § 418 – Beweiskraft öffentlicher Urkunden mit anderem Inhalt
 
 (1) Öffentliche Urkunden, die einen anderen als den in den §§ 415, 417 bezeichneten Inhalt haben, begründen vollen Beweis der darin bezeugten Tatsachen.
 
@@ -8777,33 +8317,27 @@ Die von einer Behörde ausgestellten, eine amtliche Anordnung, Verfügung oder E
 
 (3) Beruht das Zeugnis nicht auf eigener Wahrnehmung der Behörde oder der Urkundsperson, so ist die Vorschrift des ersten Absatzes nur dann anzuwenden, wenn sich aus den Landesgesetzen ergibt, dass die Beweiskraft des Zeugnisses von der eigenen Wahrnehmung unabhängig ist.
 
-
-## § 419 – Beweiskraft mangelbehafteter Urkunden
+# § 419 – Beweiskraft mangelbehafteter Urkunden
 
 Inwiefern Durchstreichungen, Radierungen, Einschaltungen oder sonstige äußere Mängel die Beweiskraft einer Urkunde ganz oder teilweise aufheben oder mindern, entscheidet das Gericht nach freier Überzeugung.
 
-
-## § 420 – Vorlegung durch Beweisführer; Beweisantritt
+# § 420 – Vorlegung durch Beweisführer; Beweisantritt
 
 Der Beweis wird durch die Vorlegung der Urkunde angetreten.
 
-
-## § 421 – Vorlegung durch den Gegner; Beweisantritt
+# § 421 – Vorlegung durch den Gegner; Beweisantritt
 
 Befindet sich die Urkunde nach der Behauptung des Beweisführers in den Händen des Gegners, so wird der Beweis durch den Antrag angetreten, dem Gegner die Vorlegung der Urkunde aufzugeben.
 
-
-## § 422 – Vorlegungspflicht des Gegners nach bürgerlichem Recht
+# § 422 – Vorlegungspflicht des Gegners nach bürgerlichem Recht
 
 Der Gegner ist zur Vorlegung der Urkunde verpflichtet, wenn der Beweisführer nach den Vorschriften des bürgerlichen Rechts die Herausgabe oder die Vorlegung der Urkunde verlangen kann.
 
-
-## § 423 – Vorlegungspflicht des Gegners bei Bezugnahme
+# § 423 – Vorlegungspflicht des Gegners bei Bezugnahme
 
 Der Gegner ist auch zur Vorlegung der in seinen Händen befindlichen Urkunden verpflichtet, auf die er im Prozess zur Beweisführung Bezug genommen hat, selbst wenn es nur in einem vorbereitenden Schriftsatz geschehen ist.
 
-
-## § 424 – Antrag bei Vorlegung durch Gegner
+# § 424 – Antrag bei Vorlegung durch Gegner
 
 Der Antrag soll enthalten:
 
@@ -8817,45 +8351,37 @@ Der Antrag soll enthalten:
 
 5. die Bezeichnung des Grundes, der die Verpflichtung zur Vorlegung der Urkunde ergibt. Der Grund ist glaubhaft zu machen.
 
-
-## § 425 – Anordnung der Vorlegung durch Gegner
+# § 425 – Anordnung der Vorlegung durch Gegner
 
 Erachtet das Gericht die Tatsache, die durch die Urkunde bewiesen werden soll, für erheblich und den Antrag für begründet, so ordnet es, wenn der Gegner zugesteht, dass die Urkunde sich in seinen Händen befinde, oder wenn der Gegner sich über den Antrag nicht erklärt, die Vorlegung der Urkunde an.
 
-
-## § 426 – Vernehmung des Gegners über den Verbleib
+# § 426 – Vernehmung des Gegners über den Verbleib
 
 Bestreitet der Gegner, dass die Urkunde sich in seinem Besitz befinde, so ist er über ihren Verbleib zu vernehmen. In der Ladung zum Vernehmungstermin ist ihm aufzugeben, nach dem Verbleib der Urkunde sorgfältig zu forschen. Im Übrigen gelten die Vorschriften der §§ 449 bis 454 entsprechend. Gelangt das Gericht zu der Überzeugung, dass sich die Urkunde im Besitz des Gegners befindet, so ordnet es die Vorlegung an.
 
-
-## § 427 – Folgen der Nichtvorlegung durch Gegner
+# § 427 – Folgen der Nichtvorlegung durch Gegner
 
 Kommt der Gegner der Anordnung, die Urkunde vorzulegen, nicht nach oder gelangt das Gericht im Falle des § 426 zu der Überzeugung, dass er nach dem Verbleib der Urkunde nicht sorgfältig geforscht habe, so kann eine vom Beweisführer beigebrachte Abschrift der Urkunde als richtig angesehen werden. Ist eine Abschrift der Urkunde nicht beigebracht, so können die Behauptungen des Beweisführers über die Beschaffenheit und den Inhalt der Urkunde als bewiesen angenommen werden.
 
-
-## § 428 – Vorlegung durch Dritte; Beweisantritt
+# § 428 – Vorlegung durch Dritte; Beweisantritt
 
 Befindet sich die Urkunde nach der Behauptung des Beweisführers im Besitz eines Dritten, so wird der Beweis durch den Antrag angetreten, zur Herbeischaffung der Urkunde eine Frist zu bestimmen oder eine Anordnung nach § 142 zu erlassen.
 
-
-## § 429 – Vorlegungspflicht Dritter
+# § 429 – Vorlegungspflicht Dritter
 
 Der Dritte ist aus denselben Gründen wie der Gegner des Beweisführers zur Vorlegung einer Urkunde verpflichtet; er kann zur Vorlegung nur im Wege der Klage genötigt werden. § 142 bleibt unberührt.
 
-
-## § 430 – Antrag bei Vorlegung durch Dritte
+# § 430 – Antrag bei Vorlegung durch Dritte
 
 Zur Begründung des nach § 428 zu stellenden Antrages hat der Beweisführer den Erfordernissen des § 424 Nr. 1 bis 3, 5 zu genügen und außerdem glaubhaft zu machen, dass die Urkunde sich in den Händen des Dritten befinde.
 
-
-## § 431 – Vorlegungsfrist bei Vorlegung durch Dritte
+# § 431 – Vorlegungsfrist bei Vorlegung durch Dritte
 
 (1) Ist die Tatsache, die durch die Urkunde bewiesen werden soll, erheblich und entspricht der Antrag den Vorschriften des vorstehenden Paragraphen, so hat das Gericht durch Beschluss eine Frist zur Vorlegung der Urkunde zu bestimmen.
 
 (2) Der Gegner kann die Fortsetzung des Verfahrens vor dem Ablauf der Frist beantragen, wenn die Klage gegen den Dritten erledigt ist oder wenn der Beweisführer die Erhebung der Klage oder die Betreibung des Prozesses oder der Zwangsvollstreckung verzögert.
 
-
-## § 432 – Vorlegung durch Behörden oder Beamte; Beweisantritt
+# § 432 – Vorlegung durch Behörden oder Beamte; Beweisantritt
 
 (1) Befindet sich die Urkunde nach der Behauptung des Beweisführers in den Händen einer öffentlichen Behörde oder eines öffentlichen Beamten, so wird der Beweis durch den Antrag angetreten, die Behörde oder den Beamten um die Mitteilung der Urkunde zu ersuchen.
 
@@ -8863,42 +8389,35 @@ Zur Begründung des nach § 428 zu stellenden Antrages hat der Beweisführer den
 
 (3) Verweigert die Behörde oder der Beamte die Mitteilung der Urkunde in Fällen, in denen eine Verpflichtung zur Vorlegung auf § 422 gestützt wird, so gelten die Vorschriften der §§ 428 bis 431.
 
-
-## § 433
+# § 433
 
 (weggefallen)
 
-
-## § 434 – Vorlegung vor beauftragtem oder ersuchtem Richter
+# § 434 – Vorlegung vor beauftragtem oder ersuchtem Richter
 
 Wenn eine Urkunde bei der mündlichen Verhandlung wegen erheblicher Hindernisse nicht vorgelegt werden kann oder wenn es bedenklich erscheint, sie wegen ihrer Wichtigkeit und der Besorgnis ihres Verlustes oder ihrer Beschädigung vorzulegen, so kann das Prozessgericht anordnen, dass sie vor einem seiner Mitglieder oder vor einem anderen Gericht vorgelegt werde.
 
-
-## § 435 – Vorlegung öffentlicher Urkunden in Urschrift oder beglaubigter Abschrift
+# § 435 – Vorlegung öffentlicher Urkunden in Urschrift oder beglaubigter Abschrift
 
 Eine öffentliche Urkunde kann in Urschrift oder in einer beglaubigten Abschrift, die hinsichtlich der Beglaubigung die Erfordernisse einer öffentlichen Urkunde an sich trägt, vorgelegt werden; das Gericht kann jedoch anordnen, dass der Beweisführer die Urschrift vorlege oder die Tatsachen angebe und glaubhaft mache, die ihn an der Vorlegung der Urschrift verhindern. Bleibt die Anordnung erfolglos, so entscheidet das Gericht nach freier Überzeugung, welche Beweiskraft der beglaubigten Abschrift beizulegen sei.
 
-
-## § 436 – Verzicht nach Vorlegung
+# § 436 – Verzicht nach Vorlegung
 
 Der Beweisführer kann nach der Vorlegung einer Urkunde nur mit Zustimmung des Gegners auf dieses Beweismittel verzichten.
 
-
-## § 437 – Echtheit inländischer öffentlicher Urkunden
+# § 437 – Echtheit inländischer öffentlicher Urkunden
 
 (1) Urkunden, die nach Form und Inhalt als von einer öffentlichen Behörde oder von einer mit öffentlichem Glauben versehenen Person errichtet sich darstellen, haben die Vermutung der Echtheit für sich.
 
 (2) Das Gericht kann, wenn es die Echtheit für zweifelhaft hält, auch von Amts wegen die Behörde oder die Person, von der die Urkunde errichtet sein soll, zu einer Erklärung über die Echtheit veranlassen.
 
-
-## § 438 – Echtheit ausländischer öffentlicher Urkunden
+# § 438 – Echtheit ausländischer öffentlicher Urkunden
 
 (1) Ob eine Urkunde, die als von einer ausländischen Behörde oder von einer mit öffentlichem Glauben versehenen Person des Auslandes errichtet sich darstellt, ohne näheren Nachweis als echt anzusehen sei, hat das Gericht nach den Umständen des Falles zu ermessen.
 
 (2) Zum Beweis der Echtheit einer solchen Urkunde genügt die Legalisation durch einen Konsul oder Gesandten des Bundes.
 
-
-## § 439 – Erklärung über Echtheit von Privaturkunden
+# § 439 – Erklärung über Echtheit von Privaturkunden
 
 (1) Über die Echtheit einer Privaturkunde hat sich der Gegner des Beweisführers nach der Vorschrift des § 138 zu erklären.
 
@@ -8906,15 +8425,13 @@ Der Beweisführer kann nach der Vorlegung einer Urkunde nur mit Zustimmung des G
 
 (3) Wird die Erklärung nicht abgegeben, so ist die Urkunde als anerkannt anzusehen, wenn nicht die Absicht, die Echtheit bestreiten zu wollen, aus den übrigen Erklärungen der Partei hervorgeht.
 
-
-## § 440 – Beweis der Echtheit von Privaturkunden
+# § 440 – Beweis der Echtheit von Privaturkunden
 
 (1) Die Echtheit einer nicht anerkannten Privaturkunde ist zu beweisen.
 
 (2) Steht die Echtheit der Namensunterschrift fest oder ist das unter einer Urkunde befindliche Handzeichen notariell beglaubigt, so hat die über der Unterschrift oder dem Handzeichen stehende Schrift die Vermutung der Echtheit für sich.
 
-
-## § 441 – Schriftvergleichung
+# § 441 – Schriftvergleichung
 
 (1) Der Beweis der Echtheit oder Unechtheit einer Urkunde kann auch durch Schriftvergleichung geführt werden.
 
@@ -8924,62 +8441,51 @@ Der Beweisführer kann nach der Vorlegung einer Urkunde nur mit Zustimmung des G
 
 (4) Macht der Beweisführer glaubhaft, dass in den Händen eines Dritten geeignete Vergleichungsschriften sich befinden, deren Vorlegung er im Wege der Klage zu erwirken imstande sei, so gelten die Vorschriften des § 431 entsprechend.
 
-
-## § 442 – Würdigung der Schriftvergleichung
+# § 442 – Würdigung der Schriftvergleichung
 
 Über das Ergebnis der Schriftvergleichung hat das Gericht nach freier Überzeugung, geeignetenfalls nach Anhörung von Sachverständigen, zu entscheiden.
 
-
-## § 443 – Verwahrung verdächtiger Urkunden
+# § 443 – Verwahrung verdächtiger Urkunden
 
 Urkunden, deren Echtheit bestritten ist oder deren Inhalt verändert sein soll, werden bis zur Erledigung des Rechtsstreits auf der Geschäftsstelle verwahrt, sofern nicht ihre Auslieferung an eine andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist.
 
-
-## § 444 – Folgen der Beseitigung einer Urkunde
+# § 444 – Folgen der Beseitigung einer Urkunde
 
 Ist eine Urkunde von einer Partei in der Absicht, ihre Benutzung dem Gegner zu entziehen, beseitigt oder zur Benutzung untauglich gemacht, so können die Behauptungen des Gegners über die Beschaffenheit und den Inhalt der Urkunde als bewiesen angesehen werden.
 
-
-## § 445 – Vernehmung des Gegners; Beweisantritt
+# § 445 – Vernehmung des Gegners; Beweisantritt
 
 (1) Eine Partei, die den ihr obliegenden Beweis mit anderen Beweismitteln nicht vollständig geführt oder andere Beweismittel nicht vorgebracht hat, kann den Beweis dadurch antreten, dass sie beantragt, den Gegner über die zu beweisenden Tatsachen zu vernehmen.
 
 (2) Der Antrag ist nicht zu berücksichtigen, wenn er Tatsachen betrifft, deren Gegenteil das Gericht für erwiesen erachtet.
 
-
-## § 446 – Weigerung des Gegners
+# § 446 – Weigerung des Gegners
 
 Lehnt der Gegner ab, sich vernehmen zu lassen, oder gibt er auf Verlangen des Gerichts keine Erklärung ab, so hat das Gericht unter Berücksichtigung der gesamten Sachlage, insbesondere der für die Weigerung vorgebrachten Gründe, nach freier Überzeugung zu entscheiden, ob es die behauptete Tatsache als erwiesen ansehen will.
 
-
-## § 447 – Vernehmung der beweispflichtigen Partei auf Antrag
+# § 447 – Vernehmung der beweispflichtigen Partei auf Antrag
 
 Das Gericht kann über eine streitige Tatsache auch die beweispflichtige Partei vernehmen, wenn eine Partei es beantragt und die andere damit einverstanden ist.
 
-
-## § 448 – Vernehmung von Amts wegen
+# § 448 – Vernehmung von Amts wegen
 
 Auch ohne Antrag einer Partei und ohne Rücksicht auf die Beweislast kann das Gericht, wenn das Ergebnis der Verhandlungen und einer etwaigen Beweisaufnahme nicht ausreicht, um seine Überzeugung von der Wahrheit oder Unwahrheit einer zu erweisenden Tatsache zu begründen, die Vernehmung einer Partei oder beider Parteien über die Tatsache anordnen.
 
-
-## § 449 – Vernehmung von Streitgenossen
+# § 449 – Vernehmung von Streitgenossen
 
 Besteht die zu vernehmende Partei aus mehreren Streitgenossen, so bestimmt das Gericht nach Lage des Falles, ob alle oder nur einzelne Streitgenossen zu vernehmen sind.
 
-
-## § 450 – Beweisbeschluss
+# § 450 – Beweisbeschluss
 
 (1) Die Vernehmung einer Partei wird durch Beweisbeschluss angeordnet. Die Partei ist, wenn sie bei der Verkündung des Beschlusses nicht persönlich anwesend ist, zu der Vernehmung unter Mitteilung des Beweisbeschlusses von Amts wegen zu laden. Die Ladung ist der Partei selbst mitzuteilen, auch wenn sie einen Prozessbevollmächtigten bestellt hat; der Zustellung bedarf die Ladung nicht.
 
 (2) Die Ausführung des Beschlusses kann ausgesetzt werden, wenn nach seinem Erlass über die zu beweisende Tatsache neue Beweismittel vorgebracht werden. Nach Erhebung der neuen Beweise ist von der Parteivernehmung abzusehen, wenn das Gericht die Beweisfrage für geklärt erachtet.
 
-
-## § 451 – Ausführung der Vernehmung
+# § 451 – Ausführung der Vernehmung
 
 Für die Vernehmung einer Partei gelten die Vorschriften der §§ 375, 376, 395 Abs. 1, Abs. 2 Satz 1 und der §§ 396, 397, 398 entsprechend.
 
-
-## § 452 – Beeidigung der Partei
+# § 452 – Beeidigung der Partei
 
 (1) Reicht das Ergebnis der unbeeidigten Aussage einer Partei nicht aus, um das Gericht von der Wahrheit oder Unwahrheit der zu erweisenden Tatsache zu überzeugen, so kann es anordnen, dass die Partei ihre Aussage zu beeidigen habe. Waren beide Parteien vernommen, so kann die Beeidigung der Aussage über dieselben Tatsachen nur von einer Partei gefordert werden.
 
@@ -8989,49 +8495,41 @@ Für die Vernehmung einer Partei gelten die Vorschriften der §§ 375, 376, 395 
 
 (4) Die Beeidigung einer Partei, die wegen wissentlicher Verletzung der Eidespflicht rechtskräftig verurteilt ist, ist unzulässig.
 
-
-## § 453 – Beweiswürdigung bei Parteivernehmung
+# § 453 – Beweiswürdigung bei Parteivernehmung
 
 (1) Das Gericht hat die Aussage der Partei nach § 286 frei zu würdigen.
 
 (2) Verweigert die Partei die Aussage oder den Eid, so gilt § 446 entsprechend.
 
-
-## § 454 – Ausbleiben der Partei
+# § 454 – Ausbleiben der Partei
 
 (1) Bleibt die Partei in dem zu ihrer Vernehmung oder Beeidigung bestimmten Termin aus, so entscheidet das Gericht unter Berücksichtigung aller Umstände, insbesondere auch etwaiger von der Partei für ihr Ausbleiben angegebener Gründe, nach freiem Ermessen, ob die Aussage als verweigert anzusehen ist.
 
 (2) War der Termin zur Vernehmung oder Beeidigung der Partei vor dem Prozessgericht bestimmt, so ist im Falle ihres Ausbleibens, wenn nicht das Gericht die Anberaumung eines neuen Vernehmungstermins für geboten erachtet, zur Hauptsache zu verhandeln.
 
-
-## § 455 – Prozessunfähige
+# § 455 – Prozessunfähige
 
 (1) Ist eine Partei nicht prozessfähig, so ist vorbehaltlich der Vorschrift im Absatz 2 ihr gesetzlicher Vertreter zu vernehmen. Sind mehrere gesetzliche Vertreter vorhanden, so gilt § 449 entsprechend.
 
 (2) Minderjährige, die das 16. Lebensjahr vollendet haben, können über Tatsachen, die in ihren eigenen Handlungen bestehen oder Gegenstand ihrer Wahrnehmung gewesen sind, vernommen und auch nach § 452 beeidigt werden, wenn das Gericht dies nach den Umständen des Falles für angemessen erachtet. Das Gleiche gilt von einer prozessfähigen Person, die in dem Rechtsstreit durch einen Betreuer oder Pfleger vertreten wird.
 
+# §§ 456 bis 477 – (weggefallen)
 
-## §§ 456 bis 477 – (weggefallen)
-
-
-## § 478 – Eidesleistung in Person
+# § 478 – Eidesleistung in Person
 
 Der Eid muss von dem Schwurpflichtigen in Person geleistet werden.
 
-
-## § 479 – Eidesleistung vor beauftragtem oder ersuchtem Richter
+# § 479 – Eidesleistung vor beauftragtem oder ersuchtem Richter
 
 (1) Das Prozessgericht kann anordnen, dass der Eid vor einem seiner Mitglieder oder vor einem anderen Gericht geleistet werde, wenn der Schwurpflichtige am Erscheinen vor dem Prozessgericht verhindert ist oder sich in großer Entfernung von dessen Sitz aufhält und die Leistung des Eides nach § 128a Abs. 2 nicht stattfindet.
 
 (2) Der Bundespräsident leistet den Eid in seiner Wohnung vor einem Mitglied des Prozessgerichts oder vor einem anderen Gericht.
 
-
-## § 480 – Eidesbelehrung
+# § 480 – Eidesbelehrung
 
 Vor der Leistung des Eides hat der Richter den Schwurpflichtigen in angemessener Weise über die Bedeutung des Eides sowie darüber zu belehren, dass er den Eid mit religiöser oder ohne religiöse Beteuerung leisten kann.
 
-
-## § 481 – Eidesleistung; Eidesformel
+# § 481 – Eidesleistung; Eidesformel
 
 (1) Der Eid mit religiöser Beteuerung wird in der Weise geleistet, dass der Richter die Eidesnorm mit der Eingangsformel:  
 "Sie schwören bei Gott dem Allmächtigen und Allwissenden"  
@@ -9049,20 +8547,17 @@ vorspricht und der Schwurpflichtige darauf die Worte spricht (Eidesformel):
 
 (5) Sollen mehrere Personen gleichzeitig einen Eid leisten, so wird die Eidesformel von jedem Schwurpflichtigen einzeln gesprochen.
 
-
-## § 482
+# § 482
 
 (weggefallen)
 
-
-## § 483 – Eidesleistung sprach- oder hörbehinderter Personen
+# § 483 – Eidesleistung sprach- oder hörbehinderter Personen
 
 (1) Eine hör- oder sprachbehinderte Person leistet den Eid nach ihrer Wahl mittels Nachsprechens der Eidesformel, mittels Abschreibens und Unterschreibens der Eidesformel oder mit Hilfe einer die Verständigung ermöglichenden Person, die vom Gericht hinzuzuziehen ist. Das Gericht hat die geeigneten technischen Hilfsmittel bereitzustellen. Die hör- oder sprachbehinderte Person ist auf ihr Wahlrecht hinzuweisen.
 
 (2) Das Gericht kann eine schriftliche Eidesleistung verlangen oder die Hinzuziehung einer die Verständigung ermöglichenden Person anordnen, wenn die hör- oder sprachbehinderte Person von ihrem Wahlrecht nach Absatz 1 keinen Gebrauch gemacht hat oder eine Eidesleistung in der nach Absatz 1 gewählten Form nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
 
-
-## § 484 – Eidesgleiche Bekräftigung
+# § 484 – Eidesgleiche Bekräftigung
 
 (1) Gibt der Schwurpflichtige an, dass er aus Glaubens- oder Gewissensgründen keinen Eid leisten wolle, so hat er eine Bekräftigung abzugeben. Diese Bekräftigung steht dem Eid gleich; hierauf ist der Verpflichtete hinzuweisen.
 
@@ -9073,8 +8568,7 @@ vorspricht und der Verpflichtete darauf spricht:
 
 (3) § 481 Abs. 3, 5, § 483 gelten entsprechend.
 
-
-## § 485 – Zulässigkeit
+# § 485 – Zulässigkeit
 
 (1) Während oder außerhalb eines Streitverfahrens kann auf Antrag einer Partei die Einnahme des Augenscheins, die Vernehmung von Zeugen oder die Begutachtung durch einen Sachverständigen angeordnet werden, wenn der Gegner zustimmt oder zu besorgen ist, dass das Beweismittel verloren geht oder seine Benutzung erschwert wird.
 
@@ -9090,8 +8584,7 @@ festgestellt wird. Ein rechtliches Interesse ist anzunehmen, wenn die Feststellu
 
 (3) Soweit eine Begutachtung bereits gerichtlich angeordnet worden ist, findet eine neue Begutachtung nur statt, wenn die Voraussetzungen des § 412 erfüllt sind.
 
-
-## § 486 – Zuständiges Gericht
+# § 486 – Zuständiges Gericht
 
 (1) Ist ein Rechtsstreit anhängig, so ist der Antrag bei dem Prozessgericht zu stellen.
 
@@ -9101,8 +8594,7 @@ festgestellt wird. Ein rechtliches Interesse ist anzunehmen, wenn die Feststellu
 
 (4) Der Antrag kann vor der Geschäftsstelle zu Protokoll erklärt werden.
 
-
-## § 487 – Inhalt des Antrages
+# § 487 – Inhalt des Antrages
 
 Der Antrag muss enthalten:
 
@@ -9114,25 +8606,21 @@ Der Antrag muss enthalten:
 
 4. die Glaubhaftmachung der Tatsachen, die die Zulässigkeit des selbständigen Beweisverfahrens und die Zuständigkeit des Gerichts begründen sollen.
 
+# §§ 488 und 489 – (weggefallen)
 
-## §§ 488 und 489 – (weggefallen)
-
-
-## § 490 – Entscheidung über den Antrag
+# § 490 – Entscheidung über den Antrag
 
 (1) Über den Antrag entscheidet das Gericht durch Beschluss.
 
 (2) In dem Beschluss, durch welchen dem Antrag stattgegeben wird, sind die Tatsachen, über die der Beweis zu erheben ist, und die Beweismittel unter Benennung der zu vernehmenden Zeugen und Sachverständigen zu bezeichnen. Der Beschluss ist nicht anfechtbar.
 
-
-## § 491 – Ladung des Gegners
+# § 491 – Ladung des Gegners
 
 (1) Der Gegner ist, sofern es nach den Umständen des Falles geschehen kann, unter Zustellung des Beschlusses und einer Abschrift des Antrags zu dem für die Beweisaufnahme bestimmten Termin so zeitig zu laden, dass er in diesem Termin seine Rechte wahrzunehmen vermag.
 
 (2) Die Nichtbefolgung dieser Vorschrift steht der Beweisaufnahme nicht entgegen.
 
-
-## § 492 – Beweisaufnahme
+# § 492 – Beweisaufnahme
 
 (1) Die Beweisaufnahme erfolgt nach den für die Aufnahme des betreffenden Beweismittels überhaupt geltenden Vorschriften.
 
@@ -9140,106 +8628,87 @@ Der Antrag muss enthalten:
 
 (3) Das Gericht kann die Parteien zur mündlichen Erörterung laden, wenn eine Einigung zu erwarten ist; ein Vergleich ist zu gerichtlichem Protokoll zu nehmen.
 
-
-## § 493 – Benutzung im Prozess
+# § 493 – Benutzung im Prozess
 
 (1) Beruft sich eine Partei im Prozess auf Tatsachen, über die selbständig Beweis erhoben worden ist, so steht die selbständige Beweiserhebung einer Beweisaufnahme vor dem Prozessgericht gleich.
 
 (2) War der Gegner in einem Termin im selbständigen Beweisverfahren nicht erschienen, so kann das Ergebnis nur benutzt werden, wenn der Gegner rechtzeitig geladen war.
 
-
-## § 494 – Unbekannter Gegner
+# § 494 – Unbekannter Gegner
 
 (1) Wird von dem Beweisführer ein Gegner nicht bezeichnet, so ist der Antrag nur dann zulässig, wenn der Beweisführer glaubhaft macht, dass er ohne sein Verschulden außerstande sei, den Gegner zu bezeichnen.
 
 (2) Wird dem Antrag stattgegeben, so kann das Gericht dem unbekannten Gegner zur Wahrnehmung seiner Rechte bei der Beweisaufnahme einen Vertreter bestellen.
 
-
-## § 494a – Frist zur Klageerhebung
+# § 494a – Frist zur Klageerhebung
 
 (1) Ist ein Rechtsstreit nicht anhängig, hat das Gericht nach Beendigung der Beweiserhebung auf Antrag ohne mündliche Verhandlung anzuordnen, dass der Antragsteller binnen einer zu bestimmenden Frist Klage zu erheben hat.
 
 (2) Kommt der Antragsteller dieser Anordnung nicht nach, hat das Gericht auf Antrag durch Beschluss auszusprechen, dass er die dem Gegner entstandenen Kosten zu tragen hat. Die Entscheidung unterliegt der sofortigen Beschwerde.
 
-
-## § 495 – Anzuwendende Vorschriften
+# § 495 – Anzuwendende Vorschriften
 
 (1) Für das Verfahren vor den Amtsgerichten gelten die Vorschriften über das Verfahren vor den Landgerichten, soweit nicht aus den allgemeinen Vorschriften des Buches 1, aus den nachfolgenden besonderen Bestimmungen und aus der Verfassung der Amtsgerichte sich Abweichungen ergeben.
 
-
-## § 495a – Verfahren nach billigem Ermessen
+# § 495a – Verfahren nach billigem Ermessen
 
 Das Gericht kann sein Verfahren nach billigem Ermessen bestimmen, wenn der Streitwert 600 Euro nicht übersteigt. Auf Antrag muss mündlich verhandelt werden.
 
-
-## § 496 – Einreichung von Schriftsätzen; Erklärungen zu Protokoll
+# § 496 – Einreichung von Schriftsätzen; Erklärungen zu Protokoll
 
 Die Klage, die Klageerwiderung sowie sonstige Anträge und Erklärungen einer Partei, die zugestellt werden sollen, sind bei dem Gericht schriftlich einzureichen oder mündlich zum Protokoll der Geschäftsstelle anzubringen.
 
-
-## § 497 – Ladungen
+# § 497 – Ladungen
 
 (1) Die Ladung des Klägers zu dem auf die Klage bestimmten Termin ist, sofern nicht das Gericht die Zustellung anordnet, ohne besondere Form mitzuteilen. § 270 Satz 2 gilt entsprechend.
 
 (2) Die Ladung einer Partei ist nicht erforderlich, wenn der Termin der Partei bei Einreichung oder Anbringung der Klage oder des Antrages, auf Grund dessen die Terminsbestimmung stattfindet, mitgeteilt worden ist. Die Mitteilung ist zu den Akten zu vermerken.
 
-
-## § 498 – Zustellung des Protokolls über die Klage
+# § 498 – Zustellung des Protokolls über die Klage
 
 Ist die Klage zum Protokoll der Geschäftsstelle angebracht worden, so wird an Stelle der Klageschrift das Protokoll zugestellt.
 
-
-## § 499 – Belehrungen
+# § 499 – Belehrungen
 
 (1) Mit der Zustellung der Klageschrift oder des Protokolls über die Klage ist der Beklagte darüber zu belehren, dass eine Vertretung durch einen Rechtsanwalt nicht vorgeschrieben ist.
 
 (2) Mit der Aufforderung nach § 276 ist der Beklagte auch über die Folgen eines schriftlich abgegebenen Anerkenntnisses zu belehren.
 
+# §§ 499a bis 503 – (weggefallen)
 
-## §§ 499a bis 503 – (weggefallen)
-
-
-## § 504 – Hinweis bei Unzuständigkeit des Amtsgerichts
+# § 504 – Hinweis bei Unzuständigkeit des Amtsgerichts
 
 Ist das Amtsgericht sachlich oder örtlich unzuständig, so hat es den Beklagten vor der Verhandlung zur Hauptsache darauf und auf die Folgen einer rügelosen Einlassung zur Hauptsache hinzuweisen.
 
-
-## § 505
+# § 505
 
 (weggefallen)
 
-
-## § 506 – Nachträgliche sachliche Unzuständigkeit
+# § 506 – Nachträgliche sachliche Unzuständigkeit
 
 (1) Wird durch Widerklage oder durch Erweiterung des Klageantrages (§ 264 Nr. 2, 3) ein Anspruch erhoben, der zur Zuständigkeit der Landgerichte gehört, oder wird nach § 256 Abs. 2 die Feststellung eines Rechtsverhältnisses beantragt, für das die Landgerichte zuständig sind, so hat das Amtsgericht, sofern eine Partei vor weiterer Verhandlung zur Hauptsache darauf anträgt, durch Beschluss sich für unzuständig zu erklären und den Rechtsstreit an das Landgericht zu verweisen.
 
 (2) Die Vorschriften des § 281 Abs. 2, Abs. 3 Satz 1 gelten entsprechend.
 
+# §§ 507 bis 509 – (weggefallen)
 
-## §§ 507 bis 509 – (weggefallen)
-
-
-## § 510 – Erklärung über Urkunden
+# § 510 – Erklärung über Urkunden
 
 Wegen unterbliebener Erklärung ist eine Urkunde nur dann als anerkannt anzusehen, wenn die Partei durch das Gericht zur Erklärung über die Echtheit der Urkunde aufgefordert ist.
 
-
-## § 510a – Inhalt des Protokolls
+# § 510a – Inhalt des Protokolls
 
 Andere Erklärungen einer Partei als Geständnisse und Erklärungen über einen Antrag auf Parteivernehmung sind im Protokoll festzustellen, soweit das Gericht es für erforderlich hält.
 
-
-## § 510b – Urteil auf Vornahme einer Handlung
+# § 510b – Urteil auf Vornahme einer Handlung
 
 Erfolgt die Verurteilung zur Vornahme einer Handlung, so kann der Beklagte zugleich auf Antrag des Klägers für den Fall, dass die Handlung nicht binnen einer zu bestimmenden Frist vorgenommen ist, zur Zahlung einer Entschädigung verurteilt werden; das Gericht hat die Entschädigung nach freiem Ermessen festzusetzen.
 
-
-## § 510c
+# § 510c
 
 (weggefallen)
 
-
-## § 511 – Statthaftigkeit der Berufung
+# § 511 – Statthaftigkeit der Berufung
 
 (1) Die Berufung findet gegen die im ersten Rechtszug erlassenen Endurteile statt.
 
@@ -9259,32 +8728,27 @@ Erfolgt die Verurteilung zur Vornahme einer Handlung, so kann der Beklagte zugle
 
 Das Berufungsgericht ist an die Zulassung gebunden.
 
-
-## § 512 – Vorentscheidungen im ersten Rechtszug
+# § 512 – Vorentscheidungen im ersten Rechtszug
 
 Der Beurteilung des Berufungsgerichts unterliegen auch diejenigen Entscheidungen, die dem Endurteil vorausgegangen sind, sofern sie nicht nach den Vorschriften dieses Gesetzes unanfechtbar oder mit der sofortigen Beschwerde anfechtbar sind.
 
-
-## § 513 – Berufungsgründe
+# § 513 – Berufungsgründe
 
 (1) Die Berufung kann nur darauf gestützt werden, dass die Entscheidung auf einer Rechtsverletzung (§ 546) beruht oder nach § 529 zugrunde zu legende Tatsachen eine andere Entscheidung rechtfertigen.
 
 (2) Die Berufung kann nicht darauf gestützt werden, dass das Gericht des ersten Rechtszuges seine Zuständigkeit zu Unrecht angenommen hat.
 
-
-## § 514 – Versäumnisurteile
+# § 514 – Versäumnisurteile
 
 (1) Ein Versäumnisurteil kann von der Partei, gegen die es erlassen ist, mit der Berufung oder Anschlussberufung nicht angefochten werden.
 
 (2) Ein Versäumnisurteil, gegen das der Einspruch an sich nicht statthaft ist, unterliegt der Berufung oder Anschlussberufung insoweit, als sie darauf gestützt wird, dass der Fall der schuldhaften Versäumung nicht vorgelegen habe. § 511 Abs. 2 ist nicht anzuwenden.
 
-
-## § 515 – Verzicht auf Berufung
+# § 515 – Verzicht auf Berufung
 
 Die Wirksamkeit eines Verzichts auf das Recht der Berufung ist nicht davon abhängig, dass der Gegner die Verzichtsleistung angenommen hat.
 
-
-## § 516 – Zurücknahme der Berufung
+# § 516 – Zurücknahme der Berufung
 
 (1) Der Berufungskläger kann die Berufung bis zur Verkündung des Berufungsurteils zurücknehmen.
 
@@ -9292,18 +8756,15 @@ Die Wirksamkeit eines Verzichts auf das Recht der Berufung ist nicht davon abhä
 
 (3) Die Zurücknahme hat den Verlust des eingelegten Rechtsmittels und die Verpflichtung zur Folge, die durch das Rechtsmittel entstandenen Kosten zu tragen. Diese Wirkungen sind durch Beschluss auszusprechen.
 
-
-## § 517 – Berufungsfrist
+# § 517 – Berufungsfrist
 
 Die Berufungsfrist beträgt einen Monat; sie ist eine Notfrist und beginnt mit der Zustellung des in vollständiger Form abgefassten Urteils, spätestens aber mit dem Ablauf von fünf Monaten nach der Verkündung.
 
-
-## § 518 – Berufungsfrist bei Urteilsergänzung
+# § 518 – Berufungsfrist bei Urteilsergänzung
 
 Wird innerhalb der Berufungsfrist ein Urteil durch eine nachträgliche Entscheidung ergänzt (§ 321), so beginnt mit der Zustellung der nachträglichen Entscheidung der Lauf der Berufungsfrist auch für die Berufung gegen das zuerst ergangene Urteil von neuem. Wird gegen beide Urteile von derselben Partei Berufung eingelegt, so sind beide Berufungen miteinander zu verbinden.
 
-
-## § 519 – Berufungsschrift
+# § 519 – Berufungsschrift
 
 (1) Die Berufung wird durch Einreichung der Berufungsschrift bei dem Berufungsgericht eingelegt.
 
@@ -9317,8 +8778,7 @@ Wird innerhalb der Berufungsfrist ein Urteil durch eine nachträgliche Entscheid
 
 (4) Die allgemeinen Vorschriften über die vorbereitenden Schriftsätze sind auch auf die Berufungsschrift anzuwenden.
 
-
-## § 520 – Berufungsbegründung
+# § 520 – Berufungsbegründung
 
 (1) Der Berufungskläger muss die Berufung begründen.
 
@@ -9342,15 +8802,13 @@ Wird innerhalb der Berufungsfrist ein Urteil durch eine nachträgliche Entscheid
 
 (5) Die allgemeinen Vorschriften über die vorbereitenden Schriftsätze sind auch auf die Berufungsbegründung anzuwenden.
 
-
-## § 521 – Zustellung der Berufungsschrift und -begründung
+# § 521 – Zustellung der Berufungsschrift und -begründung
 
 (1) Die Berufungsschrift und die Berufungsbegründung sind der Gegenpartei zuzustellen.
 
 (2) Der Vorsitzende oder das Berufungsgericht kann der Gegenpartei eine Frist zur schriftlichen Berufungserwiderung und dem Berufungskläger eine Frist zur schriftlichen Stellungnahme auf die Berufungserwiderung setzen. § 277 gilt entsprechend.
 
-
-## § 522 – Zulässigkeitsprüfung; Zurückweisungsbeschluss
+# § 522 – Zulässigkeitsprüfung; Zurückweisungsbeschluss
 
 (1) Das Berufungsgericht hat von Amts wegen zu prüfen, ob die Berufung an sich statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet ist. Mangelt es an einem dieser Erfordernisse, so ist die Berufung als unzulässig zu verwerfen. Die Entscheidung kann durch Beschluss ergehen. Gegen den Beschluss findet die Rechtsbeschwerde statt.
 
@@ -9370,15 +8828,13 @@ Das Berufungsgericht oder der Vorsitzende hat zuvor die Parteien auf die beabsic
 
 (+++ § 522 Abs. 3: Zur Anwendung vgl. § 38a ZPOEG +++)
 
-
-## § 523 – Terminsbestimmung
+# § 523 – Terminsbestimmung
 
 (1) Wird die Berufung nicht nach § 522 durch Beschluss verworfen oder zurückgewiesen, so entscheidet das Berufungsgericht über die Übertragung des Rechtsstreits auf den Einzelrichter. Sodann ist unverzüglich Termin zur mündlichen Verhandlung zu bestimmen.
 
 (2) Auf die Frist, die zwischen dem Zeitpunkt der Bekanntmachung des Termins und der mündlichen Verhandlung liegen muss, ist § 274 Abs. 3 entsprechend anzuwenden.
 
-
-## § 524 – Anschlussberufung
+# § 524 – Anschlussberufung
 
 (1) Der Berufungsbeklagte kann sich der Berufung anschließen. Die Anschließung erfolgt durch Einreichung der Berufungsanschlussschrift bei dem Berufungsgericht.
 
@@ -9388,13 +8844,11 @@ Das Berufungsgericht oder der Vorsitzende hat zuvor die Parteien auf die beabsic
 
 (4) Die Anschließung verliert ihre Wirkung, wenn die Berufung zurückgenommen, verworfen oder durch Beschluss zurückgewiesen wird.
 
-
-## § 525 – Allgemeine Verfahrensgrundsätze
+# § 525 – Allgemeine Verfahrensgrundsätze
 
 Auf das weitere Verfahren sind die im ersten Rechtszuge für das Verfahren vor den Landgerichten geltenden Vorschriften entsprechend anzuwenden, soweit sich nicht Abweichungen aus den Vorschriften dieses Abschnitts ergeben. Einer Güteverhandlung bedarf es nicht.
 
-
-## § 526 – Entscheidender Richter
+# § 526 – Entscheidender Richter
 
 (1) Das Berufungsgericht kann durch Beschluss den Rechtsstreit einem seiner Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn
 
@@ -9418,8 +8872,7 @@ Das Berufungsgericht übernimmt den Rechtsstreit, wenn die Voraussetzungen nach 
 
 (4) In Sachen der Kammer für Handelssachen kann Einzelrichter nur der Vorsitzende sein.
 
-
-## § 527 – Vorbereitender Einzelrichter
+# § 527 – Vorbereitender Einzelrichter
 
 (1) Wird der Rechtsstreit nicht nach § 526 dem Einzelrichter übertragen, kann das Berufungsgericht die Sache einem seiner Mitglieder als Einzelrichter zur Vorbereitung der Entscheidung zuweisen. In der Kammer für Handelssachen ist Einzelrichter der Vorsitzende; außerhalb der mündlichen Verhandlung bedarf es einer Zuweisung nicht.
 
@@ -9441,13 +8894,11 @@ Das Berufungsgericht übernimmt den Rechtsstreit, wenn die Voraussetzungen nach 
 
 (4) Im Einverständnis der Parteien kann der Einzelrichter auch im Übrigen entscheiden.
 
-
-## § 528 – Bindung an die Berufungsanträge
+# § 528 – Bindung an die Berufungsanträge
 
 Der Prüfung und Entscheidung des Berufungsgerichts unterliegen nur die Berufungsanträge. Das Urteil des ersten Rechtszuges darf nur insoweit abgeändert werden, als eine Abänderung beantragt ist.
 
-
-## § 529 – Prüfungsumfang des Berufungsgerichts
+# § 529 – Prüfungsumfang des Berufungsgerichts
 
 (1) Das Berufungsgericht hat seiner Verhandlung und Entscheidung zugrunde zu legen:
 
@@ -9457,13 +8908,11 @@ Der Prüfung und Entscheidung des Berufungsgerichts unterliegen nur die Berufung
 
 (2) Auf einen Mangel des Verfahrens, der nicht von Amts wegen zu berücksichtigen ist, wird das angefochtene Urteil nur geprüft, wenn dieser nach § 520 Abs. 3 geltend gemacht worden ist. Im Übrigen ist das Berufungsgericht an die geltend gemachten Berufungsgründe nicht gebunden.
 
-
-## § 530 – Verspätet vorgebrachte Angriffs- und Verteidigungsmittel
+# § 530 – Verspätet vorgebrachte Angriffs- und Verteidigungsmittel
 
 Werden Angriffs- oder Verteidigungsmittel entgegen den §§ 520 und 521 Abs. 2 nicht rechtzeitig vorgebracht, so gilt § 296 Abs. 1 und 4 entsprechend.
 
-
-## § 531 – Zurückgewiesene und neue Angriffs- und Verteidigungsmittel
+# § 531 – Zurückgewiesene und neue Angriffs- und Verteidigungsmittel
 
 (1) Angriffs- und Verteidigungsmittel, die im ersten Rechtszuge zu Recht zurückgewiesen worden sind, bleiben ausgeschlossen.
 
@@ -9477,13 +8926,11 @@ Werden Angriffs- oder Verteidigungsmittel entgegen den §§ 520 und 521 Abs. 2 n
 
 Das Berufungsgericht kann die Glaubhaftmachung der Tatsachen verlangen, aus denen sich die Zulässigkeit der neuen Angriffs- und Verteidigungsmittel ergibt.
 
-
-## § 532 – Rügen der Unzulässigkeit der Klage
+# § 532 – Rügen der Unzulässigkeit der Klage
 
 Verzichtbare Rügen, die die Zulässigkeit der Klage betreffen und die entgegen den §§ 520 und 521 Abs. 2 nicht rechtzeitig vorgebracht werden, sind nur zuzulassen, wenn die Partei die Verspätung genügend entschuldigt. Dasselbe gilt für verzichtbare neue Rügen, die die Zulässigkeit der Klage betreffen, wenn die Partei sie im ersten Rechtszug hätte vorbringen können. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen.
 
-
-## § 533 – Klageänderung; Aufrechnungserklärung; Widerklage
+# § 533 – Klageänderung; Aufrechnungserklärung; Widerklage
 
 Klageänderung, Aufrechnungserklärung und Widerklage sind nur zulässig, wenn
 
@@ -9491,32 +8938,27 @@ Klageänderung, Aufrechnungserklärung und Widerklage sind nur zulässig, wenn
 
 2. diese auf Tatsachen gestützt werden können, die das Berufungsgericht seiner Verhandlung und Entscheidung über die Berufung ohnehin nach § 529 zugrunde zu legen hat.
 
-
-## § 534 – Verlust des Rügerechts
+# § 534 – Verlust des Rügerechts
 
 Die Verletzung einer das Verfahren des ersten Rechtszuges betreffenden Vorschrift kann in der Berufungsinstanz nicht mehr gerügt werden, wenn die Partei das Rügerecht bereits im ersten Rechtszuge nach der Vorschrift des § 295 verloren hat.
 
-
-## § 535 – Gerichtliches Geständnis
+# § 535 – Gerichtliches Geständnis
 
 Das im ersten Rechtszuge abgelegte gerichtliche Geständnis behält seine Wirksamkeit auch für die Berufungsinstanz.
 
-
-## § 536 – Parteivernehmung
+# § 536 – Parteivernehmung
 
 (1) Das Berufungsgericht darf die Vernehmung oder Beeidigung einer Partei, die im ersten Rechtszuge die Vernehmung abgelehnt oder die Aussage oder den Eid verweigert hatte, nur anordnen, wenn es der Überzeugung ist, dass die Partei zu der Ablehnung oder Weigerung genügende Gründe hatte und diese Gründe seitdem weggefallen sind.
 
 (2) War eine Partei im ersten Rechtszuge vernommen und auf ihre Aussage beeidigt, so darf das Berufungsgericht die eidliche Vernehmung des Gegners nur anordnen, wenn die Vernehmung oder Beeidigung im ersten Rechtszuge unzulässig war.
 
-
-## § 537 – Vorläufige Vollstreckbarkeit
+# § 537 – Vorläufige Vollstreckbarkeit
 
 (1) Ein nicht oder nicht unbedingt für vorläufig vollstreckbar erklärtes Urteil des ersten Rechtszuges ist, soweit es durch die Berufungsanträge nicht angefochten wird, auf Antrag von dem Berufungsgericht durch Beschluss für vorläufig vollstreckbar zu erklären. Die Entscheidung ist erst nach Ablauf der Berufungsbegründungsfrist zulässig.
 
 (2) Eine Anfechtung des Beschlusses findet nicht statt.
 
-
-## § 538 – Zurückverweisung
+# § 538 – Zurückverweisung
 
 (1) Das Berufungsgericht hat die notwendigen Beweise zu erheben und in der Sache selbst zu entscheiden.
 
@@ -9538,8 +8980,7 @@ Das im ersten Rechtszuge abgelegte gerichtliche Geständnis behält seine Wirksa
 
 und eine Partei die Zurückverweisung beantragt. Im Fall der Nummer 3 hat das Berufungsgericht sämtliche Rügen zu erledigen. Im Fall der Nummer 7 bedarf es eines Antrags nicht.
 
-
-## § 539 – Versäumnisverfahren
+# § 539 – Versäumnisverfahren
 
 (1) Erscheint der Berufungskläger im Termin zur mündlichen Verhandlung nicht, so ist seine Berufung auf Antrag durch Versäumnisurteil zurückzuweisen.
 
@@ -9547,8 +8988,7 @@ und eine Partei die Zurückverweisung beantragt. Im Fall der Nummer 3 hat das Be
 
 (3) Im Übrigen gelten die Vorschriften über das Versäumnisverfahren im ersten Rechtszug sinngemäß.
 
-
-## § 540 – Inhalt des Berufungsurteils
+# § 540 – Inhalt des Berufungsurteils
 
 (1) Anstelle von Tatbestand und Entscheidungsgründen enthält das Urteil
 
@@ -9560,22 +9000,19 @@ Wird das Urteil in dem Termin, in dem die mündliche Verhandlung geschlossen wor
 
 (2) Die §§ 313a, 313b gelten entsprechend.
 
-
-## § 541 – Prozessakten
+# § 541 – Prozessakten
 
 (1) Die Geschäftsstelle des Berufungsgerichts hat, nachdem die Berufungsschrift eingereicht ist, unverzüglich von der Geschäftsstelle des Gerichts des ersten Rechtszuges die Prozessakten einzufordern. Die Akten sind unverzüglich an das Berufungsgericht zu übersenden.
 
 (2) Nach Erledigung der Berufung sind die Akten der Geschäftsstelle des Gerichts des ersten Rechtszuges nebst einer beglaubigten Abschrift der in der Berufungsinstanz ergangenen Entscheidung zurückzusenden.
 
-
-## § 542 – Statthaftigkeit der Revision
+# § 542 – Statthaftigkeit der Revision
 
 (1) Die Revision findet gegen die in der Berufungsinstanz erlassenen Endurteile nach Maßgabe der folgenden Vorschriften statt.
 
 (2) Gegen Urteile, durch die über die Anordnung, Abänderung oder Aufhebung eines Arrestes oder einer einstweiligen Verfügung entschieden worden ist, findet die Revision nicht statt. Dasselbe gilt für Urteile über die vorzeitige Besitzeinweisung im Enteignungsverfahren oder im Umlegungsverfahren.
 
-
-## § 543 – Zulassungsrevision
+# § 543 – Zulassungsrevision
 
 (1) Die Revision findet nur statt, wenn sie
 
@@ -9593,8 +9030,7 @@ zugelassen hat.
 
 Das Revisionsgericht ist an die Zulassung durch das Berufungsgericht gebunden.
 
-
-## § 544 – Nichtzulassungsbeschwerde
+# § 544 – Nichtzulassungsbeschwerde
 
 (1) Die Nichtzulassung der Revision durch das Berufungsgericht unterliegt der Beschwerde (Nichtzulassungsbeschwerde).
 
@@ -9620,20 +9056,17 @@ Das Revisionsgericht ist an die Zulassung durch das Berufungsgericht gebunden.
 
 (+++ § 544: Zur Anwendung vgl. § 26 Nr. 8 ZPOEG +++)
 
-
-## § 545 – Revisionsgründe
+# § 545 – Revisionsgründe
 
 (1) Die Revision kann nur darauf gestützt werden, dass die Entscheidung auf einer Verletzung des Rechts beruht.
 
 (2) Die Revision kann nicht darauf gestützt werden, dass das Gericht des ersten Rechtszuges seine Zuständigkeit zu Unrecht angenommen oder verneint hat.
 
-
-## § 546 – Begriff der Rechtsverletzung
+# § 546 – Begriff der Rechtsverletzung
 
 Das Recht ist verletzt, wenn eine Rechtsnorm nicht oder nicht richtig angewendet worden ist.
 
-
-## § 547 – Absolute Revisionsgründe
+# § 547 – Absolute Revisionsgründe
 
 Eine Entscheidung ist stets als auf einer Verletzung des Rechts beruhend anzusehen,
 
@@ -9649,13 +9082,11 @@ Eine Entscheidung ist stets als auf einer Verletzung des Rechts beruhend anzuseh
 
 6. wenn die Entscheidung entgegen den Bestimmungen dieses Gesetzes nicht mit Gründen versehen ist.
 
-
-## § 548 – Revisionsfrist
+# § 548 – Revisionsfrist
 
 Die Frist für die Einlegung der Revision (Revisionsfrist) beträgt einen Monat; sie ist eine Notfrist und beginnt mit der Zustellung des in vollständiger Form abgefassten Berufungsurteils, spätestens aber mit dem Ablauf von fünf Monaten nach der Verkündung.
 
-
-## § 549 – Revisionseinlegung
+# § 549 – Revisionseinlegung
 
 (1) Die Revision wird durch Einreichung der Revisionsschrift bei dem Revisionsgericht eingelegt. Die Revisionsschrift muss enthalten:
 
@@ -9667,15 +9098,13 @@ Die Frist für die Einlegung der Revision (Revisionsfrist) beträgt einen Monat;
 
 (2) Die allgemeinen Vorschriften über die vorbereitenden Schriftsätze sind auch auf die Revisionsschrift anzuwenden.
 
-
-## § 550 – Zustellung der Revisionsschrift
+# § 550 – Zustellung der Revisionsschrift
 
 (1) Mit der Revisionsschrift soll eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils vorgelegt werden, soweit dies nicht bereits nach § 544 Absatz 3 Satz 2 geschehen ist.
 
 (2) Die Revisionsschrift ist der Gegenpartei zuzustellen.
 
-
-## § 551 – Revisionsbegründung
+# § 551 – Revisionsbegründung
 
 (1) Der Revisionskläger muss die Revision begründen.
 
@@ -9695,27 +9124,23 @@ Ist die Revision auf Grund einer Nichtzulassungsbeschwerde zugelassen worden, ka
 
 (4) § 549 Abs. 2 und § 550 Abs. 2 sind auf die Revisionsbegründung entsprechend anzuwenden.
 
-
-## § 552 – Zulässigkeitsprüfung
+# § 552 – Zulässigkeitsprüfung
 
 (1) Das Revisionsgericht hat von Amts wegen zu prüfen, ob die Revision an sich statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet ist. Mangelt es an einem dieser Erfordernisse, so ist die Revision als unzulässig zu verwerfen.
 
 (2) Die Entscheidung kann durch Beschluss ergehen.
 
-
-## § 552a – Zurückweisungsbeschluss
+# § 552a – Zurückweisungsbeschluss
 
 Das Revisionsgericht weist die von dem Berufungsgericht zugelassene Revision durch einstimmigen Beschluss zurück, wenn es davon überzeugt ist, dass die Voraussetzungen für die Zulassung der Revision nicht vorliegen und die Revision keine Aussicht auf Erfolg hat. § 522 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 553 – Terminsbestimmung; Einlassungsfrist
+# § 553 – Terminsbestimmung; Einlassungsfrist
 
 (1) Wird die Revision nicht durch Beschluss als unzulässig verworfen oder gemäß § 552a zurückgewiesen, so ist Termin zur mündlichen Verhandlung zu bestimmen und den Parteien bekannt zu machen.
 
 (2) Auf die Frist, die zwischen dem Zeitpunkt der Bekanntmachung des Termins und der mündlichen Verhandlung liegen muss, ist § 274 Abs. 3 entsprechend anzuwenden.
 
-
-## § 554 – Anschlussrevision
+# § 554 – Anschlussrevision
 
 (1) Der Revisionsbeklagte kann sich der Revision anschließen. Die Anschließung erfolgt durch Einreichung der Revisionsanschlussschrift bei dem Revisionsgericht.
 
@@ -9725,8 +9150,7 @@ Das Revisionsgericht weist die von dem Berufungsgericht zugelassene Revision dur
 
 (4) Die Anschließung verliert ihre Wirkung, wenn die Revision zurückgenommen, verworfen oder durch Beschluss zurückgewiesen wird.
 
-
-## § 555 – Allgemeine Verfahrensgrundsätze
+# § 555 – Allgemeine Verfahrensgrundsätze
 
 (1) Auf das weitere Verfahren sind, soweit sich nicht Abweichungen aus den Vorschriften dieses Abschnitts ergeben, die im ersten Rechtszuge für das Verfahren vor den Landgerichten geltenden Vorschriften entsprechend anzuwenden. Einer Güteverhandlung bedarf es nicht.
 
@@ -9734,13 +9158,11 @@ Das Revisionsgericht weist die von dem Berufungsgericht zugelassene Revision dur
 
 (3) Ein Anerkenntnisurteil ergeht nur auf gesonderten Antrag des Klägers.
 
-
-## § 556 – Verlust des Rügerechts
+# § 556 – Verlust des Rügerechts
 
 Die Verletzung einer das Verfahren der Berufungsinstanz betreffenden Vorschrift kann in der Revisionsinstanz nicht mehr gerügt werden, wenn die Partei das Rügerecht bereits in der Berufungsinstanz nach der Vorschrift des § 295 verloren hat.
 
-
-## § 557 – Umfang der Revisionsprüfung
+# § 557 – Umfang der Revisionsprüfung
 
 (1) Der Prüfung des Revisionsgerichts unterliegen nur die von den Parteien gestellten Anträge.
 
@@ -9748,37 +9170,31 @@ Die Verletzung einer das Verfahren der Berufungsinstanz betreffenden Vorschrift 
 
 (3) Das Revisionsgericht ist an die geltend gemachten Revisionsgründe nicht gebunden. Auf Verfahrensmängel, die nicht von Amts wegen zu berücksichtigen sind, darf das angefochtene Urteil nur geprüft werden, wenn die Mängel nach den §§ 551 und 554 Abs. 3 gerügt worden sind.
 
-
-## § 558 – Vorläufige Vollstreckbarkeit
+# § 558 – Vorläufige Vollstreckbarkeit
 
 Ein nicht oder nicht unbedingt für vorläufig vollstreckbar erklärtes Urteil des Berufungsgerichts ist, soweit es durch die Revisionsanträge nicht angefochten wird, auf Antrag von dem Revisionsgericht durch Beschluss für vorläufig vollstreckbar zu erklären. Die Entscheidung ist erst nach Ablauf der Revisionsbegründungsfrist zulässig.
 
-
-## § 559 – Beschränkte Nachprüfung tatsächlicher Feststellungen
+# § 559 – Beschränkte Nachprüfung tatsächlicher Feststellungen
 
 (1) Der Beurteilung des Revisionsgerichts unterliegt nur dasjenige Parteivorbringen, das aus dem Berufungsurteil oder dem Sitzungsprotokoll ersichtlich ist. Außerdem können nur die in § 551 Abs. 3 Nr. 2 Buchstabe b erwähnten Tatsachen berücksichtigt werden.
 
 (2) Hat das Berufungsgericht festgestellt, dass eine tatsächliche Behauptung wahr oder nicht wahr sei, so ist diese Feststellung für das Revisionsgericht bindend, es sei denn, dass in Bezug auf die Feststellung ein zulässiger und begründeter Revisionsangriff erhoben ist.
 
-
-## § 560 – Nicht revisible Gesetze
+# § 560 – Nicht revisible Gesetze
 
 Die Entscheidung des Berufungsgerichts über das Bestehen und den Inhalt von Gesetzen, auf deren Verletzung die Revision nach § 545 nicht gestützt werden kann, ist für die auf die Revision ergehende Entscheidung maßgebend.
 
-
-## § 561 – Revisionszurückweisung
+# § 561 – Revisionszurückweisung
 
 Ergibt die Begründung des Berufungsurteils zwar eine Rechtsverletzung, stellt die Entscheidung selbst aber aus anderen Gründen sich als richtig dar, so ist die Revision zurückzuweisen.
 
-
-## § 562 – Aufhebung des angefochtenen Urteils
+# § 562 – Aufhebung des angefochtenen Urteils
 
 (1) Insoweit die Revision für begründet erachtet wird, ist das angefochtene Urteil aufzuheben.
 
 (2) Wird das Urteil wegen eines Mangels des Verfahrens aufgehoben, so ist zugleich das Verfahren insoweit aufzuheben, als es durch den Mangel betroffen wird.
 
-
-## § 563 – Zurückverweisung; eigene Sachentscheidung
+# § 563 – Zurückverweisung; eigene Sachentscheidung
 
 (1) Im Falle der Aufhebung des Urteils ist die Sache zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen. Die Zurückverweisung kann an einen anderen Spruchkörper des Berufungsgerichts erfolgen.
 
@@ -9788,18 +9204,15 @@ Ergibt die Begründung des Berufungsurteils zwar eine Rechtsverletzung, stellt d
 
 (4) Kommt im Fall des Absatzes 3 für die in der Sache selbst zu erlassende Entscheidung die Anwendbarkeit von Gesetzen, auf deren Verletzung die Revision nach § 545 nicht gestützt werden kann, in Frage, so kann die Sache zur Verhandlung und Entscheidung an das Berufungsgericht zurückverwiesen werden.
 
-
-## § 564 – Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln
+# § 564 – Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln
 
 Die Entscheidung braucht nicht begründet zu werden, soweit das Revisionsgericht Rügen von Verfahrensmängeln nicht für durchgreifend erachtet. Dies gilt nicht für Rügen nach § 547.
 
-
-## § 565 – Anzuwendende Vorschriften des Berufungsverfahrens
+# § 565 – Anzuwendende Vorschriften des Berufungsverfahrens
 
 Die für die Berufung geltenden Vorschriften über die Anfechtbarkeit der Versäumnisurteile, über die Verzichtsleistung auf das Rechtsmittel und seine Zurücknahme, über die Rügen der Unzulässigkeit der Klage und über die Einforderung, Übersendung und Zurücksendung der Prozessakten sind auf die Revision entsprechend anzuwenden. Die Revision kann ohne Einwilligung des Revisionsbeklagten nur bis zum Beginn der mündlichen Verhandlung des Revisionsbeklagten zur Hauptsache zurückgenommen werden.
 
-
-## § 566 – Sprungrevision
+# § 566 – Sprungrevision
 
 (1) Gegen die im ersten Rechtszug erlassenen Endurteile, die ohne Zulassung der Berufung unterliegen, findet auf Antrag unter Übergehung der Berufungsinstanz unmittelbar die Revision (Sprungrevision) statt, wenn
 
@@ -9829,8 +9242,7 @@ Die Sprungrevision kann nicht auf einen Mangel des Verfahrens gestützt werden.
 
 (8) Das weitere Verfahren bestimmt sich nach den für die Revision geltenden Bestimmungen. § 563 ist mit der Maßgabe anzuwenden, dass die Zurückverweisung an das erstinstanzliche Gericht erfolgt. Wird gegen die nachfolgende Entscheidung des erstinstanzlichen Gerichts Berufung eingelegt, so hat das Berufungsgericht die rechtliche Beurteilung, die der Aufhebung durch das Revisionsgericht zugrunde gelegt ist, auch seiner Entscheidung zugrunde zu legen.
 
-
-## § 567 – Sofortige Beschwerde; Anschlussbeschwerde
+# § 567 – Sofortige Beschwerde; Anschlussbeschwerde
 
 (1) Die sofortige Beschwerde findet statt gegen die im ersten Rechtszug ergangenen Entscheidungen der Amtsgerichte und Landgerichte, wenn
 
@@ -9842,8 +9254,7 @@ Die Sprungrevision kann nicht auf einen Mangel des Verfahrens gestützt werden.
 
 (3) Der Beschwerdegegner kann sich der Beschwerde anschließen, selbst wenn er auf die Beschwerde verzichtet hat oder die Beschwerdefrist verstrichen ist. Die Anschließung verliert ihre Wirkung, wenn die Beschwerde zurückgenommen oder als unzulässig verworfen wird.
 
-
-## § 568 – Originärer Einzelrichter
+# § 568 – Originärer Einzelrichter
 
 Das Beschwerdegericht entscheidet durch eines seiner Mitglieder als Einzelrichter, wenn die angefochtene Entscheidung von einem Einzelrichter oder einem Rechtspfleger erlassen wurde. Der Einzelrichter überträgt das Verfahren dem Beschwerdegericht zur Entscheidung in der im Gerichtsverfassungsgesetz vorgeschriebenen Besetzung, wenn
 
@@ -9853,8 +9264,7 @@ Das Beschwerdegericht entscheidet durch eines seiner Mitglieder als Einzelrichte
 
 Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht gestützt werden.
 
-
-## § 569 – Frist und Form
+# § 569 – Frist und Form
 
 (1) Die sofortige Beschwerde ist, soweit keine andere Frist bestimmt ist, binnen einer Notfrist von zwei Wochen bei dem Gericht, dessen Entscheidung angefochten wird, oder bei dem Beschwerdegericht einzulegen. Die Notfrist beginnt, soweit nichts anderes bestimmt ist, mit der Zustellung der Entscheidung, spätestens mit dem Ablauf von fünf Monaten nach der Verkündung des Beschlusses. Liegen die Erfordernisse der Nichtigkeits- oder der Restitutionsklage vor, so kann die Beschwerde auch nach Ablauf der Notfrist innerhalb der für diese Klagen geltenden Notfristen erhoben werden.
 
@@ -9868,8 +9278,7 @@ Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht ges
 
 3. sie von einem Zeugen, Sachverständigen oder Dritten im Sinne der §§ 142, 144 erhoben wird.
 
-
-## § 570 – Aufschiebende Wirkung; einstweilige Anordnungen
+# § 570 – Aufschiebende Wirkung; einstweilige Anordnungen
 
 (1) Die Beschwerde hat nur dann aufschiebende Wirkung, wenn sie die Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat.
 
@@ -9877,8 +9286,7 @@ Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht ges
 
 (3) Das Beschwerdegericht kann vor der Entscheidung eine einstweilige Anordnung erlassen; es kann insbesondere die Vollziehung der angefochtenen Entscheidung aussetzen.
 
-
-## § 571 – Begründung, Präklusion, Ausnahmen vom Anwaltszwang
+# § 571 – Begründung, Präklusion, Ausnahmen vom Anwaltszwang
 
 (1) Die Beschwerde soll begründet werden.
 
@@ -9888,8 +9296,7 @@ Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht ges
 
 (4) Ordnet das Gericht eine schriftliche Erklärung an, so kann diese zu Protokoll der Geschäftsstelle abgegeben werden, wenn die Beschwerde zu Protokoll der Geschäftsstelle eingelegt werden darf (§ 569 Abs. 3).
 
-
-## § 572 – Gang des Beschwerdeverfahrens
+# § 572 – Gang des Beschwerdeverfahrens
 
 (1) Erachtet das Gericht oder der Vorsitzende, dessen Entscheidung angefochten wird, die Beschwerde für begründet, so haben sie ihr abzuhelfen; andernfalls ist die Beschwerde unverzüglich dem Beschwerdegericht vorzulegen. § 318 bleibt unberührt.
 
@@ -9899,8 +9306,7 @@ Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht ges
 
 (4) Die Entscheidung über die Beschwerde ergeht durch Beschluss.
 
-
-## § 573 – Erinnerung
+# § 573 – Erinnerung
 
 (1) Gegen die Entscheidungen des beauftragten oder ersuchten Richters oder des Urkundsbeamten der Geschäftsstelle kann binnen einer Notfrist von zwei Wochen die Entscheidung des Gerichts beantragt werden (Erinnerung). Die Erinnerung ist schriftlich oder zu Protokoll der Geschäftsstelle einzulegen. § 569 Abs. 1 Satz 1 und 2, Abs. 2 und die §§ 570 und 572 gelten entsprechend.
 
@@ -9908,8 +9314,7 @@ Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht ges
 
 (3) Die Vorschrift des Absatzes 1 gilt auch für die Oberlandesgerichte und den Bundesgerichtshof.
 
-
-## § 574 – Rechtsbeschwerde; Anschlussrechtsbeschwerde
+# § 574 – Rechtsbeschwerde; Anschlussrechtsbeschwerde
 
 (1) Gegen einen Beschluss ist die Rechtsbeschwerde statthaft, wenn
 
@@ -9929,8 +9334,7 @@ Auf eine erfolgte oder unterlassene Übertragung kann ein Rechtsmittel nicht ges
 
 (4) Der Rechtsbeschwerdegegner kann sich bis zum Ablauf einer Notfrist von einem Monat nach der Zustellung der Begründungsschrift der Rechtsbeschwerde durch Einreichen der Rechtsbeschwerdeanschlussschrift beim Rechtsbeschwerdegericht anschließen, auch wenn er auf die Rechtsbeschwerde verzichtet hat, die Rechtsbeschwerdefrist verstrichen oder die Rechtsbeschwerde nicht zugelassen worden ist. Die Anschlussbeschwerde ist in der Anschlussschrift zu begründen. Die Anschließung verliert ihre Wirkung, wenn die Rechtsbeschwerde zurückgenommen oder als unzulässig verworfen wird.
 
-
-## § 575 – Frist, Form und Begründung der Rechtsbeschwerde
+# § 575 – Frist, Form und Begründung der Rechtsbeschwerde
 
 (1) Die Rechtsbeschwerde ist binnen einer Notfrist von einem Monat nach Zustellung des Beschlusses durch Einreichen einer Beschwerdeschrift bei dem Rechtsbeschwerdegericht einzulegen. Die Rechtsbeschwerdeschrift muss enthalten:
 
@@ -9958,8 +9362,7 @@ b) soweit die Rechtsbeschwerde darauf gestützt wird, dass das Gesetz in Bezug a
 
 (5) Die §§ 541 und 570 Abs. 1, 3 gelten entsprechend.
 
-
-## § 576 – Gründe der Rechtsbeschwerde
+# § 576 – Gründe der Rechtsbeschwerde
 
 (1) Die Rechtsbeschwerde kann nur darauf gestützt werden, dass die Entscheidung auf der Verletzung des Bundesrechts oder einer Vorschrift beruht, deren Geltungsbereich sich über den Bezirk eines Oberlandesgerichts hinaus erstreckt.
 
@@ -9967,8 +9370,7 @@ b) soweit die Rechtsbeschwerde darauf gestützt wird, dass das Gesetz in Bezug a
 
 (3) Die §§ 546, 547, 556 und 560 gelten entsprechend.
 
-
-## § 577 – Prüfung und Entscheidung der Rechtsbeschwerde
+# § 577 – Prüfung und Entscheidung der Rechtsbeschwerde
 
 (1) Das Rechtsbeschwerdegericht hat von Amts wegen zu prüfen, ob die Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet ist. Mangelt es an einem dieser Erfordernisse, so ist die Rechtsbeschwerde als unzulässig zu verwerfen.
 
@@ -9982,15 +9384,13 @@ b) soweit die Rechtsbeschwerde darauf gestützt wird, dass das Gesetz in Bezug a
 
 (6) Die Entscheidung über die Rechtsbeschwerde ergeht durch Beschluss. § 564 gilt entsprechend. Im Übrigen kann von einer Begründung abgesehen werden, wenn sie nicht geeignet wäre, zur Klärung von Rechtsfragen grundsätzlicher Bedeutung, zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung beizutragen.
 
-
-## § 578 – Arten der Wiederaufnahme
+# § 578 – Arten der Wiederaufnahme
 
 (1) Die Wiederaufnahme eines durch rechtskräftiges Endurteil geschlossenen Verfahrens kann durch Nichtigkeitsklage und durch Restitutionsklage erfolgen.
 
 (2) Werden beide Klagen von derselben Partei oder von verschiedenen Parteien erhoben, so ist die Verhandlung und Entscheidung über die Restitutionsklage bis zur rechtskräftigen Entscheidung über die Nichtigkeitsklage auszusetzen.
 
-
-## § 579 – Nichtigkeitsklage
+# § 579 – Nichtigkeitsklage
 
 (1) Die Nichtigkeitsklage findet statt:
 
@@ -10004,8 +9404,7 @@ b) soweit die Rechtsbeschwerde darauf gestützt wird, dass das Gesetz in Bezug a
 
 (2) In den Fällen der Nummern 1, 3 findet die Klage nicht statt, wenn die Nichtigkeit mittels eines Rechtsmittels geltend gemacht werden konnte.
 
-
-## § 580 – Restitutionsklage
+# § 580 – Restitutionsklage
 
 Die Restitutionsklage findet statt:
 
@@ -10031,37 +9430,31 @@ b) eine andere Urkunde auffindet oder zu benutzen in den Stand gesetzt wird, die
 
 (+++ § 580 Nr. 8: Zur Anwendung vgl. § 586 Abs. 4 +++)
 
-
-## § 581 – Besondere Voraussetzungen der Restitutionsklage
+# § 581 – Besondere Voraussetzungen der Restitutionsklage
 
 (1) In den Fällen des vorhergehenden Paragraphen Nummern 1 bis 5 findet die Restitutionsklage nur statt, wenn wegen der Straftat eine rechtskräftige Verurteilung ergangen ist oder wenn die Einleitung oder Durchführung eines Strafverfahrens aus anderen Gründen als wegen Mangels an Beweis nicht erfolgen kann.
 
 (2) Der Beweis der Tatsachen, welche die Restitutionsklage begründen, kann durch den Antrag auf Parteivernehmung nicht geführt werden.
 
-
-## § 582 – Hilfsnatur der Restitutionsklage
+# § 582 – Hilfsnatur der Restitutionsklage
 
 Die Restitutionsklage ist nur zulässig, wenn die Partei ohne ihr Verschulden außerstande war, den Restitutionsgrund in dem früheren Verfahren, insbesondere durch Einspruch oder Berufung oder mittels Anschließung an eine Berufung, geltend zu machen.
 
-
-## § 583 – Vorentscheidungen
+# § 583 – Vorentscheidungen
 
 Mit den Klagen können Anfechtungsgründe, durch die eine dem angefochtenen Urteil vorausgegangene Entscheidung derselben oder einer unteren Instanz betroffen wird, geltend gemacht werden, sofern das angefochtene Urteil auf dieser Entscheidung beruht.
 
-
-## § 584 – Ausschließliche Zuständigkeit für Nichtigkeits- und Restitutionsklagen
+# § 584 – Ausschließliche Zuständigkeit für Nichtigkeits- und Restitutionsklagen
 
 (1) Für die Klagen ist ausschließlich zuständig: das Gericht, das im ersten Rechtszug erkannt hat; wenn das angefochtene Urteil oder auch nur eines von mehreren angefochtenen Urteilen von dem Berufungsgericht erlassen wurde oder wenn ein in der Revisionsinstanz erlassenes Urteil auf Grund des § 580 Nr. 1 bis 3, 6, 7 angefochten wird, das Berufungsgericht; wenn ein in der Revisionsinstanz erlassenes Urteil auf Grund der §§ 579, 580 Nr. 4, 5 angefochten wird, das Revisionsgericht.
 
 (2) Sind die Klagen gegen einen Vollstreckungsbescheid gerichtet, so gehören sie ausschließlich vor das Gericht, das für eine Entscheidung im Streitverfahren zuständig gewesen wäre.
 
-
-## § 585 – Allgemeine Verfahrensgrundsätze
+# § 585 – Allgemeine Verfahrensgrundsätze
 
 Für die Erhebung der Klagen und das weitere Verfahren gelten die allgemeinen Vorschriften entsprechend, sofern nicht aus den Vorschriften dieses Gesetzes sich eine Abweichung ergibt.
 
-
-## § 586 – Klagefrist
+# § 586 – Klagefrist
 
 (1) Die Klagen sind vor Ablauf der Notfrist eines Monats zu erheben.
 
@@ -10073,13 +9466,11 @@ Für die Erhebung der Klagen und das weitere Verfahren gelten die allgemeinen Vo
 
 (+++ § 586 Abs. 2 Satz 2: Zur Anwendung vgl. § 38a ZPOEG +++)
 
-
-## § 587 – Klageschrift
+# § 587 – Klageschrift
 
 In der Klage muss die Bezeichnung des Urteils, gegen das die Nichtigkeits- oder Restitutionsklage gerichtet wird, und die Erklärung, welche dieser Klagen erhoben wird, enthalten sein.
 
-
-## § 588 – Inhalt der Klageschrift
+# § 588 – Inhalt der Klageschrift
 
 (1) Als vorbereitender Schriftsatz soll die Klage enthalten:
 
@@ -10091,15 +9482,13 @@ In der Klage muss die Bezeichnung des Urteils, gegen das die Nichtigkeits- oder 
 
 (2) Dem Schriftsatz, durch den eine Restitutionsklage erhoben wird, sind die Urkunden, auf die sie gestützt wird, in Urschrift oder in Abschrift beizufügen. Befinden sich die Urkunden nicht in den Händen des Klägers, so hat er zu erklären, welchen Antrag er wegen ihrer Herbeischaffung zu stellen beabsichtigt.
 
-
-## § 589 – Zulässigkeitsprüfung
+# § 589 – Zulässigkeitsprüfung
 
 (1) Das Gericht hat von Amts wegen zu prüfen, ob die Klage an sich statthaft und ob sie in der gesetzlichen Form und Frist erhoben sei. Mangelt es an einem dieser Erfordernisse, so ist die Klage als unzulässig zu verwerfen.
 
 (2) Die Tatsachen, die ergeben, dass die Klage vor Ablauf der Notfrist erhoben ist, sind glaubhaft zu machen.
 
-
-## § 590 – Neue Verhandlung
+# § 590 – Neue Verhandlung
 
 (1) Die Hauptsache wird, insoweit sie von dem Anfechtungsgrunde betroffen ist, von neuem verhandelt.
 
@@ -10107,30 +9496,25 @@ In der Klage muss die Bezeichnung des Urteils, gegen das die Nichtigkeits- oder 
 
 (3) Das für die Klagen zuständige Revisionsgericht hat die Verhandlung über Grund und Zulässigkeit der Wiederaufnahme des Verfahrens zu erledigen, auch wenn diese Erledigung von der Feststellung und Würdigung bestrittener Tatsachen abhängig ist.
 
-
-## § 591 – Rechtsmittel
+# § 591 – Rechtsmittel
 
 Rechtsmittel sind insoweit zulässig, als sie gegen die Entscheidungen der mit den Klagen befassten Gerichte überhaupt stattfinden.
 
-
-## § 592 – Zulässigkeit
+# § 592 – Zulässigkeit
 
 Ein Anspruch, welcher die Zahlung einer bestimmten Geldsumme oder die Leistung einer bestimmten Menge anderer vertretbarer Sachen oder Wertpapiere zum Gegenstand hat, kann im Urkundenprozess geltend gemacht werden, wenn die sämtlichen zur Begründung des Anspruchs erforderlichen Tatsachen durch Urkunden bewiesen werden können. Als ein Anspruch, welcher die Zahlung einer Geldsumme zum Gegenstand hat, gilt auch der Anspruch aus einer Hypothek, einer Grundschuld, einer Rentenschuld oder einer Schiffshypothek.
 
-
-## § 593 – Klageinhalt; Urkunden
+# § 593 – Klageinhalt; Urkunden
 
 (1) Die Klage muss die Erklärung enthalten, dass im Urkundenprozess geklagt werde.
 
 (2) Die Urkunden müssen in Abschrift der Klage oder einem vorbereitenden Schriftsatz beigefügt werden. Im letzteren Fall muss zwischen der Zustellung des Schriftsatzes und dem Termin zur mündlichen Verhandlung ein der Einlassungsfrist gleicher Zeitraum liegen.
 
-
-## § 594
+# § 594
 
 (weggefallen)
 
-
-## § 595 – Keine Widerklage; Beweismittel
+# § 595 – Keine Widerklage; Beweismittel
 
 (1) Widerklagen sind nicht statthaft.
 
@@ -10138,25 +9522,21 @@ Ein Anspruch, welcher die Zahlung einer bestimmten Geldsumme oder die Leistung e
 
 (3) Der Urkundenbeweis kann nur durch Vorlegung der Urkunden angetreten werden.
 
-
-## § 596 – Abstehen vom Urkundenprozess
+# § 596 – Abstehen vom Urkundenprozess
 
 Der Kläger kann, ohne dass es der Einwilligung des Beklagten bedarf, bis zum Schluss der mündlichen Verhandlung von dem Urkundenprozess in der Weise abstehen, dass der Rechtsstreit im ordentlichen Verfahren anhängig bleibt.
 
-
-## § 597 – Klageabweisung
+# § 597 – Klageabweisung
 
 (1) Insoweit der in der Klage geltend gemachte Anspruch an sich oder infolge einer Einrede des Beklagten als unbegründet sich darstellt, ist der Kläger mit dem Anspruch abzuweisen.
 
 (2) Ist der Urkundenprozess unstatthaft, ist insbesondere ein dem Kläger obliegender Beweis nicht mit den im Urkundenprozess zulässigen Beweismitteln angetreten oder mit solchen Beweismitteln nicht vollständig geführt, so wird die Klage als in der gewählten Prozessart unstatthaft abgewiesen, selbst wenn in dem Termin zur mündlichen Verhandlung der Beklagte nicht erschienen ist oder der Klage nur auf Grund von Einwendungen widersprochen hat, die rechtlich unbegründet oder im Urkundenprozess unstatthaft sind.
 
-
-## § 598 – Zurückweisung von Einwendungen
+# § 598 – Zurückweisung von Einwendungen
 
 Einwendungen des Beklagten sind, wenn der dem Beklagten obliegende Beweis nicht mit den im Urkundenprozess zulässigen Beweismitteln angetreten oder mit solchen Beweismitteln nicht vollständig geführt ist, als im Urkundenprozess unstatthaft zurückzuweisen.
 
-
-## § 599 – Vorbehaltsurteil
+# § 599 – Vorbehaltsurteil
 
 (1) Dem Beklagten, welcher dem geltend gemachten Anspruch widersprochen hat, ist in allen Fällen, in denen er verurteilt wird, die Ausführung seiner Rechte vorzubehalten.
 
@@ -10164,8 +9544,7 @@ Einwendungen des Beklagten sind, wenn der dem Beklagten obliegende Beweis nicht 
 
 (3) Das Urteil, das unter Vorbehalt der Rechte ergeht, ist für die Rechtsmittel und die Zwangsvollstreckung als Endurteil anzusehen.
 
-
-## § 600 – Nachverfahren
+# § 600 – Nachverfahren
 
 (1) Wird dem Beklagten die Ausführung seiner Rechte vorbehalten, so bleibt der Rechtsstreit im ordentlichen Verfahren anhängig.
 
@@ -10173,25 +9552,21 @@ Einwendungen des Beklagten sind, wenn der dem Beklagten obliegende Beweis nicht 
 
 (3) Erscheint in diesem Verfahren eine Partei nicht, so sind die Vorschriften über das Versäumnisurteil entsprechend anzuwenden.
 
-
-## § 601
+# § 601
 
 (weggefallen)
 
-
-## § 602 – Wechselprozess
+# § 602 – Wechselprozess
 
 Werden im Urkundenprozess Ansprüche aus Wechseln im Sinne des Wechselgesetzes geltend gemacht (Wechselprozess), so sind die nachfolgenden besonderen Vorschriften anzuwenden.
 
-
-## § 603 – Gerichtsstand
+# § 603 – Gerichtsstand
 
 (1) Wechselklagen können sowohl bei dem Gericht des Zahlungsortes als bei dem Gericht angestellt werden, bei dem der Beklagte seinen allgemeinen Gerichtsstand hat.
 
 (2) Wenn mehrere Wechselverpflichtete gemeinschaftlich verklagt werden, so ist außer dem Gericht des Zahlungsortes jedes Gericht zuständig, bei dem einer der Beklagten seinen allgemeinen Gerichtsstand hat.
 
-
-## § 604 – Klageinhalt; Ladungsfrist
+# § 604 – Klageinhalt; Ladungsfrist
 
 (1) Die Klage muss die Erklärung enthalten, dass im Wechselprozess geklagt werde.
 
@@ -10199,20 +9574,17 @@ Werden im Urkundenprozess Ansprüche aus Wechseln im Sinne des Wechselgesetzes g
 
 (3) In den höheren Instanzen beträgt die Ladungsfrist mindestens 24 Stunden, wenn die Zustellung der Berufungs- oder Revisionsschrift oder der Ladung an dem Ort erfolgt, der Sitz des höheren Gerichts ist; mindestens drei Tage, wenn die Zustellung an einem anderen Ort erfolgt, der ganz oder zum Teil in dem Landgerichtsbezirk liegt, in dem das höhere Gericht seinen Sitz hat; mindestens eine Woche, wenn die Zustellung sonst im Inland erfolgt.
 
-
-## § 605 – Beweisvorschriften
+# § 605 – Beweisvorschriften
 
 (1) Soweit es zur Erhaltung des wechselmäßigen Anspruchs der rechtzeitigen Protesterhebung nicht bedarf, ist als Beweismittel bezüglich der Vorlegung des Wechsels der Antrag auf Parteivernehmung zulässig.
 
 (2) Zur Berücksichtigung einer Nebenforderung genügt, dass sie glaubhaft gemacht ist.
 
-
-## § 605a – Scheckprozess
+# § 605a – Scheckprozess
 
 Werden im Urkundenprozess Ansprüche aus Schecks im Sinne des Scheckgesetzes geltend gemacht (Scheckprozess), so sind die §§ 602 bis 605 entsprechend anzuwenden.
 
-
-## § 606 – Musterfeststellungsklage
+# § 606 – Musterfeststellungsklage
 
 (1) Mit der Musterfeststellungsklage können qualifizierte Einrichtungen die Feststellung des Vorliegens oder Nichtvorliegens von tatsächlichen und rechtlichen Voraussetzungen für das Bestehen oder Nichtbestehen von Ansprüchen oder Rechtsverhältnissen (Feststellungsziele) zwischen Verbrauchern und einem Unternehmer begehren. Qualifizierte Einrichtungen im Sinne von Satz 1 sind die in § 3 Absatz 1 Satz 1 Nummer 1 des Unterlassungsklagengesetzes bezeichneten Stellen, die
 
@@ -10244,8 +9616,7 @@ Die Klageschrift soll darüber hinaus für den Zweck der Bekanntmachung im Klage
 
 3. zwei Monate nach öffentlicher Bekanntmachung der Musterfeststellungsklage mindestens 50 Verbraucher ihre Ansprüche oder Rechtsverhältnisse zur Eintragung in das Klageregister wirksam angemeldet haben.
 
-
-## § 607 – Bekanntmachung der Musterfeststellungsklage
+# § 607 – Bekanntmachung der Musterfeststellungsklage
 
 (1) Die Musterfeststellungsklage ist im Klageregister mit folgenden Angaben öffentlich bekannt zu machen:
 
@@ -10269,8 +9640,7 @@ Die Klageschrift soll darüber hinaus für den Zweck der Bekanntmachung im Klage
 
 (3) Das Gericht veranlasst unverzüglich die öffentliche Bekanntmachung seiner Terminbestimmungen, Hinweise und Zwischenentscheidungen im Klageregister, wenn dies zur Information der Verbraucher über den Fortgang des Verfahrens erforderlich ist. Die öffentliche Bekanntmachung von Terminen muss spätestens eine Woche vor dem jeweiligen Terminstag erfolgen. Das Gericht veranlasst ferner unverzüglich die öffentliche Bekanntmachung einer Beendigung des Musterfeststellungsverfahrens; die Vorschriften der §§ 611, 612 bleiben hiervon unberührt.
 
-
-## § 608 – Anmeldung von Ansprüchen oder Rechtsverhältnissen
+# § 608 – Anmeldung von Ansprüchen oder Rechtsverhältnissen
 
 (1) Bis zum Ablauf des Tages vor Beginn des ersten Termins können Verbraucher Ansprüche oder Rechtsverhältnisse, die von den Feststellungszielen abhängen, zur Eintragung in das Klageregister anmelden.
 
@@ -10292,8 +9662,7 @@ Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten. Die Angabe
 
 (4) Anmeldung und Rücknahme sind in Textform gegenüber dem Bundesamt für Justiz zu erklären.
 
-
-## § 609 – Klageregister; Verordnungsermächtigung
+# § 609 – Klageregister; Verordnungsermächtigung
 
 (1) Klageregister ist das Register für Musterfeststellungsklagen. Es wird vom Bundesamt für Justiz geführt und kann elektronisch betrieben werden.
 
@@ -10309,8 +9678,7 @@ Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten. Die Angabe
 
 (7) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die näheren Bestimmungen über Inhalt, Aufbau und Führung des Klageregisters, die Einreichung, Eintragung, Änderung und Vernichtung der im Klageregister erfassten Angaben, die Erteilung von Auszügen aus dem Klageregister sowie die Datensicherheit und Barrierefreiheit zu treffen.
 
-
-## § 610 – Besonderheiten der Musterfeststellungsklage
+# § 610 – Besonderheiten der Musterfeststellungsklage
 
 (1) Ab dem Tag der Rechtshängigkeit der Musterfeststellungsklage kann gegen den Beklagten keine andere Musterfeststellungsklage erhoben werden, soweit deren Streitgegenstand denselben Lebenssachverhalt und dieselben Feststellungsziele betrifft. Die Wirkung von Satz 1 entfällt, sobald die Musterfeststellungsklage ohne Entscheidung in der Sache beendet wird.
 
@@ -10328,8 +9696,7 @@ Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten. Die Angabe
 
 2. behaupten, entweder einen Anspruch gegen den Beklagten zu haben oder vom Beklagten in Anspruch genommen zu werden oder in einem Rechtsverhältnis zum Beklagten zu stehen.
 
-
-## § 611 – Vergleich
+# § 611 – Vergleich
 
 (1) Ein gerichtlicher Vergleich kann auch mit Wirkung für und gegen die angemeldeten Verbraucher geschlossen werden.
 
@@ -10351,30 +9718,25 @@ Die Anmeldung soll ferner Angaben zum Betrag der Forderung enthalten. Die Angabe
 
 (6) Der Abschluss eines gerichtlichen Vergleichs vor dem ersten Termin ist unzulässig.
 
-
-## § 612 – Bekanntmachungen zum Musterfeststellungsurteil
+# § 612 – Bekanntmachungen zum Musterfeststellungsurteil
 
 (1) Das Musterfeststellungsurteil ist nach seiner Verkündung im Klageregister öffentlich bekannt zu machen.
 
 (2) Die Einlegung eines Rechtsmittels gegen das Musterfeststellungsurteil ist im Klageregister öffentlich bekannt zu machen. Dasselbe gilt für den Eintritt der Rechtskraft des Musterfeststellungsurteils.
 
-
-## § 613 – Bindungswirkung des Musterfeststellungsurteils; Aussetzung
+# § 613 – Bindungswirkung des Musterfeststellungsurteils; Aussetzung
 
 (1) Das rechtskräftige Musterfeststellungsurteil bindet das zur Entscheidung eines Rechtsstreits zwischen einem angemeldeten Verbraucher und dem Beklagten berufene Gericht, soweit dessen Entscheidung die Feststellungsziele und den Lebenssachverhalt der Musterfeststellungsklage betrifft. Dies gilt nicht, wenn der angemeldete Verbraucher seine Anmeldung wirksam zurückgenommen hat.
 
 (2) Hat ein Verbraucher vor der Bekanntmachung der Angaben zur Musterfeststellungsklage im Klageregister eine Klage gegen den Beklagten erhoben, die die Feststellungsziele und den Lebenssachverhalt der Musterfeststellungsklage betrifft, und meldet er seinen Anspruch oder sein Rechtsverhältnis zum Klageregister an, so setzt das Gericht das Verfahren bis zur rechtskräftigen Entscheidung oder sonstigen Erledigung der Musterfeststellungsklage oder wirksamen Rücknahme der Anmeldung aus.
 
-
-## § 614 – Rechtsmittel
+# § 614 – Rechtsmittel
 
 Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache hat stets grundsätzliche Bedeutung im Sinne des § 543 Absatz 2 Nummer 1.
 
+# §§ 615 bis 687 – (weggefallen)
 
-## §§ 615 bis 687 – (weggefallen)
-
-
-## § 688 – Zulässigkeit
+# § 688 – Zulässigkeit
 
 (1) Wegen eines Anspruchs, der die Zahlung einer bestimmten Geldsumme in Euro zum Gegenstand hat, ist auf Antrag des Antragstellers ein Mahnbescheid zu erlassen.
 
@@ -10390,8 +9752,7 @@ Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache hat stets 
 
 (4) Die Vorschriften der Verordnung (EG) Nr. 1896/2006 des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zur Einführung eines Europäischen Mahnverfahrens (ABl. L 399 vom 30.12.2006, S. 1; L 46 vom 21.2.2008, S. 52; L 333 vom 11.12.2008, S. 17), die zuletzt durch die Verordnung (EU) 2015/2421 (ABl. L 341 vom 24.12.2015, S. 1) geändert worden ist, bleiben unberührt. Für die Durchführung gelten die §§ 1087 bis 1096.
 
-
-## § 689 – Zuständigkeit; maschinelle Bearbeitung
+# § 689 – Zuständigkeit; maschinelle Bearbeitung
 
 (1) Das Mahnverfahren wird von den Amtsgerichten durchgeführt. Eine maschinelle Bearbeitung ist zulässig. Bei dieser Bearbeitung sollen Eingänge spätestens an dem Arbeitstag erledigt sein, der dem Tag des Eingangs folgt. Die Akten können elektronisch geführt werden (§ 298a).
 
@@ -10399,8 +9760,7 @@ Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache hat stets 
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Mahnverfahren einem Amtsgericht für die Bezirke mehrerer Amtsgerichte zuzuweisen, wenn dies ihrer schnelleren und rationelleren Erledigung dient. Die Zuweisung kann auf Mahnverfahren beschränkt werden, die maschinell bearbeitet werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Mehrere Länder können die Zuständigkeit eines Amtsgerichts über die Landesgrenzen hinaus vereinbaren.
 
-
-## § 690 – Mahnantrag
+# § 690 – Mahnantrag
 
 (1) Der Antrag muss auf den Erlass eines Mahnbescheids gerichtet sein und enthalten:
 
@@ -10418,8 +9778,7 @@ Gegen Musterfeststellungsurteile findet die Revision statt. Die Sache hat stets 
 
 (3) (weggefallen)
 
-
-## § 691 – Zurückweisung des Mahnantrags
+# § 691 – Zurückweisung des Mahnantrags
 
 (1) Der Antrag wird zurückgewiesen:
 
@@ -10433,8 +9792,7 @@ Vor der Zurückweisung ist der Antragsteller zu hören.
 
 (3) Gegen die Zurückweisung findet die sofortige Beschwerde statt, wenn der Antrag in einer nur maschinell lesbaren Form übermittelt und mit der Begründung zurückgewiesen worden ist, dass diese Form dem Gericht für seine maschinelle Bearbeitung nicht geeignet erscheine. Im Übrigen sind Entscheidungen nach Absatz 1 unanfechtbar.
 
-
-## § 692 – Mahnbescheid
+# § 692 – Mahnbescheid
 
 (1) Der Mahnbescheid enthält:
 
@@ -10452,27 +9810,23 @@ Vor der Zurückweisung ist der Antragsteller zu hören.
 
 (2) An Stelle einer handschriftlichen Unterzeichnung genügt ein entsprechender Stempelabdruck oder eine elektronische Signatur.
 
-
-## § 693 – Zustellung des Mahnbescheids
+# § 693 – Zustellung des Mahnbescheids
 
 (1) Der Mahnbescheid wird dem Antragsgegner zugestellt.
 
 (2) Die Geschäftsstelle setzt den Antragsteller von der Zustellung des Mahnbescheids in Kenntnis.
 
-
-## § 694 – Widerspruch gegen den Mahnbescheid
+# § 694 – Widerspruch gegen den Mahnbescheid
 
 (1) Der Antragsgegner kann gegen den Anspruch oder einen Teil des Anspruchs bei dem Gericht, das den Mahnbescheid erlassen hat, schriftlich Widerspruch erheben, solange der Vollstreckungsbescheid nicht verfügt ist.
 
 (2) Ein verspäteter Widerspruch wird als Einspruch behandelt. Dies ist dem Antragsgegner, der den Widerspruch erhoben hat, mitzuteilen.
 
-
-## § 695 – Mitteilung des Widerspruchs; Abschriften
+# § 695 – Mitteilung des Widerspruchs; Abschriften
 
 Das Gericht hat den Antragsteller von dem Widerspruch und dem Zeitpunkt seiner Erhebung in Kenntnis zu setzen. Gleichzeitig belehrt es ihn über die Folgen des § 697 Absatz 2 Satz 2. Wird das Mahnverfahren nicht maschinell bearbeitet, so soll der Antragsgegner die erforderliche Zahl von Abschriften mit dem Widerspruch einreichen.
 
-
-## § 696 – Verfahren nach Widerspruch
+# § 696 – Verfahren nach Widerspruch
 
 (1) Wird rechtzeitig Widerspruch erhoben und beantragt eine Partei die Durchführung des streitigen Verfahrens, so gibt das Gericht, das den Mahnbescheid erlassen hat, den Rechtsstreit von Amts wegen an das Gericht ab, das in dem Mahnbescheid gemäß § 692 Abs. 1 Nr. 1 bezeichnet worden ist, wenn die Parteien übereinstimmend die Abgabe an ein anderes Gericht verlangen, an dieses. Der Antrag kann in den Antrag auf Erlass des Mahnbescheids aufgenommen werden. Die Abgabe ist den Parteien mitzuteilen; sie ist nicht anfechtbar. Mit Eingang der Akten bei dem Gericht, an das er abgegeben wird, gilt der Rechtsstreit als dort anhängig. § 281 Abs. 3 Satz 1 gilt entsprechend.
 
@@ -10484,8 +9838,7 @@ Das Gericht hat den Antragsteller von dem Widerspruch und dem Zeitpunkt seiner E
 
 (5) Das Gericht, an das der Rechtsstreit abgegeben ist, ist hierdurch in seiner Zuständigkeit nicht gebunden.
 
-
-## § 697 – Einleitung des Streitverfahrens
+# § 697 – Einleitung des Streitverfahrens
 
 (1) Die Geschäftsstelle des Gerichts, an das die Streitsache abgegeben wird, hat dem Antragsteller unverzüglich aufzugeben, seinen Anspruch binnen zwei Wochen in einer der Klageschrift entsprechenden Form zu begründen. § 270 Satz 2 gilt entsprechend.
 
@@ -10497,13 +9850,11 @@ Das Gericht hat den Antragsteller von dem Widerspruch und dem Zeitpunkt seiner E
 
 (5) Zur Herstellung eines Urteils in abgekürzter Form nach § 313b Absatz 2, § 317 Absatz 5 kann der Mahnbescheid an Stelle der Klageschrift benutzt werden. Ist das Mahnverfahren maschinell bearbeitet worden, so tritt an die Stelle der Klageschrift der maschinell erstellte Aktenausdruck.
 
-
-## § 698 – Abgabe des Verfahrens am selben Gericht
+# § 698 – Abgabe des Verfahrens am selben Gericht
 
 Die Vorschriften über die Abgabe des Verfahrens gelten sinngemäß, wenn Mahnverfahren und streitiges Verfahren bei demselben Gericht durchgeführt werden.
 
-
-## § 699 – Vollstreckungsbescheid
+# § 699 – Vollstreckungsbescheid
 
 (1) Auf der Grundlage des Mahnbescheids erlässt das Gericht auf Antrag einen Vollstreckungsbescheid, wenn der Antragsgegner nicht rechtzeitig Widerspruch erhoben hat. Der Antrag kann nicht vor Ablauf der Widerspruchsfrist gestellt werden; er hat die Erklärung zu enthalten, ob und welche Zahlungen auf den Mahnbescheid geleistet worden sind. Ist der Rechtsstreit bereits an ein anderes Gericht abgegeben, so erlässt dieses den Vollstreckungsbescheid.
 
@@ -10515,8 +9866,7 @@ Die Vorschriften über die Abgabe des Verfahrens gelten sinngemäß, wenn Mahnve
 
 (5) Die Belehrung gemäß § 232 ist dem Antragsgegner zusammen mit der Zustellung des Vollstreckungsbescheids schriftlich mitzuteilen.
 
-
-## § 700 – Einspruch gegen den Vollstreckungsbescheid
+# § 700 – Einspruch gegen den Vollstreckungsbescheid
 
 (1) Der Vollstreckungsbescheid steht einem für vorläufig vollstreckbar erklärten Versäumnisurteil gleich.
 
@@ -10530,13 +9880,11 @@ Die Vorschriften über die Abgabe des Verfahrens gelten sinngemäß, wenn Mahnve
 
 (6) Der Einspruch darf nach § 345 nur verworfen werden, soweit die Voraussetzungen des § 331 Abs. 1, 2 erster Halbsatz für ein Versäumnisurteil vorliegen; soweit die Voraussetzungen nicht vorliegen, wird der Vollstreckungsbescheid aufgehoben.
 
-
-## § 701 – Wegfall der Wirkung des Mahnbescheids
+# § 701 – Wegfall der Wirkung des Mahnbescheids
 
 Ist Widerspruch nicht erhoben und beantragt der Antragsteller den Erlass des Vollstreckungsbescheids nicht binnen einer sechsmonatigen Frist, die mit der Zustellung des Mahnbescheids beginnt, so fällt die Wirkung des Mahnbescheids weg. Dasselbe gilt, wenn der Vollstreckungsbescheid rechtzeitig beantragt ist, der Antrag aber zurückgewiesen wird.
 
-
-## § 702 – Form von Anträgen und Erklärungen
+# § 702 – Form von Anträgen und Erklärungen
 
 (1) Im Mahnverfahren können die Anträge und Erklärungen vor dem Urkundsbeamten der Geschäftsstelle abgegeben werden. Soweit Formulare eingeführt sind, werden diese ausgefüllt; der Urkundsbeamte vermerkt unter Angabe des Gerichts und des Datums, dass er den Antrag oder die Erklärung aufgenommen hat. Auch soweit Formulare nicht eingeführt sind, ist für den Antrag auf Erlass eines Mahnbescheids oder eines Vollstreckungsbescheids bei dem für das Mahnverfahren zuständigen Gericht die Aufnahme eines Protokolls nicht erforderlich.
 
@@ -10546,13 +9894,11 @@ Ist Widerspruch nicht erhoben und beantragt der Antragsteller den Erlass des Vol
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 703 – Kein Nachweis der Vollmacht
+# § 703 – Kein Nachweis der Vollmacht
 
 Im Mahnverfahren bedarf es des Nachweises einer Vollmacht nicht. Wer als Bevollmächtigter einen Antrag einreicht oder einen Rechtsbehelf einlegt, hat seine ordnungsgemäße Bevollmächtigung zu versichern.
 
-
-## § 703a – Urkunden-, Wechsel- und Scheckmahnverfahren
+# § 703a – Urkunden-, Wechsel- und Scheckmahnverfahren
 
 (1) Ist der Antrag des Antragstellers auf den Erlass eines Urkunden-, Wechsel- oder Scheckmahnbescheids gerichtet, so wird der Mahnbescheid als Urkunden-, Wechsel- oder Scheckmahnbescheid bezeichnet.
 
@@ -10566,15 +9912,13 @@ Im Mahnverfahren bedarf es des Nachweises einer Vollmacht nicht. Wer als Bevollm
 
 4. beschränkt sich der Widerspruch auf den Antrag, dem Beklagten die Ausführung seiner Rechte vorzubehalten, so ist der Vollstreckungsbescheid unter diesem Vorbehalt zu erlassen. Auf das weitere Verfahren ist die Vorschrift des § 600 entsprechend anzuwenden.
 
-
-## § 703b – Sonderregelungen für maschinelle Bearbeitung
+# § 703b – Sonderregelungen für maschinelle Bearbeitung
 
 (1) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen, Ausfertigungen und Vollstreckungsklauseln mit dem Gerichtssiegel versehen; einer Unterschrift bedarf es nicht.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates den Verfahrensablauf zu regeln, soweit dies für eine einheitliche maschinelle Bearbeitung der Mahnverfahren erforderlich ist (Verfahrensablaufplan).
 
-
-## § 703c – Formulare; Einführung der maschinellen Bearbeitung
+# § 703c – Formulare; Einführung der maschinellen Bearbeitung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vereinfachung des Mahnverfahrens und zum Schutze der in Anspruch genommenen Partei Formulare einzuführen. Für
 
@@ -10592,39 +9936,33 @@ können unterschiedliche Formulare eingeführt werden.
 
 (3) Die Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, in dem bei einem Amtsgericht die maschinelle Bearbeitung der Mahnverfahren eingeführt wird; sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 703d – Antragsgegner ohne allgemeinen inländischen Gerichtsstand
+# § 703d – Antragsgegner ohne allgemeinen inländischen Gerichtsstand
 
 (1) Hat der Antragsgegner keinen allgemeinen Gerichtsstand im Inland, so gelten die nachfolgenden besonderen Vorschriften.
 
 (2) Zuständig für das Mahnverfahren ist das Amtsgericht, das für das streitige Verfahren zuständig sein würde, wenn die Amtsgerichte im ersten Rechtszug sachlich unbeschränkt zuständig wären. § 689 Abs. 3 gilt entsprechend.
 
-
-## § 704 – Vollstreckbare Endurteile
+# § 704 – Vollstreckbare Endurteile
 
 Die Zwangsvollstreckung findet statt aus Endurteilen, die rechtskräftig oder für vorläufig vollstreckbar erklärt sind.
 
-
-## § 705 – Formelle Rechtskraft
+# § 705 – Formelle Rechtskraft
 
 Die Rechtskraft der Urteile tritt vor Ablauf der für die Einlegung des zulässigen Rechtsmittels oder des zulässigen Einspruchs bestimmten Frist nicht ein. Der Eintritt der Rechtskraft wird durch rechtzeitige Einlegung des Rechtsmittels oder des Einspruchs gehemmt.
 
-
-## § 706 – Rechtskraft- und Notfristzeugnis
+# § 706 – Rechtskraft- und Notfristzeugnis
 
 (1) Zeugnisse über die Rechtskraft der Urteile sind auf Grund der Prozessakten von der Geschäftsstelle des Gerichts des ersten Rechtszuges und, solange der Rechtsstreit in einem höheren Rechtszug anhängig ist, von der Geschäftsstelle des Gerichts dieses Rechtszuges zu erteilen.
 
 (2) Soweit die Erteilung des Zeugnisses davon abhängt, dass gegen das Urteil ein Rechtsmittel nicht eingelegt ist, holt die Geschäftsstelle des Gerichts des ersten Rechtszuges bei der Geschäftsstelle des für das Rechtsmittel zuständigen Gerichts eine Mitteilung in Textform ein, dass bis zum Ablauf der Notfrist eine Rechtsmittelschrift nicht eingereicht sei. Einer Mitteilung durch die Geschäftsstelle des Revisionsgerichts, dass ein Antrag auf Zulassung der Revision nach § 566 nicht eingereicht sei, bedarf es nicht.
 
-
-## § 707 – Einstweilige Einstellung der Zwangsvollstreckung
+# § 707 – Einstweilige Einstellung der Zwangsvollstreckung
 
 (1) Wird die Wiedereinsetzung in den vorigen Stand oder eine Wiederaufnahme des Verfahrens beantragt oder die Rüge nach § 321a erhoben oder wird der Rechtsstreit nach der Verkündung eines Vorbehaltsurteils fortgesetzt, so kann das Gericht auf Antrag anordnen, dass die Zwangsvollstreckung gegen oder ohne Sicherheitsleistung einstweilen eingestellt werde oder nur gegen Sicherheitsleistung stattfinde und dass die Vollstreckungsmaßregeln gegen Sicherheitsleistung aufzuheben seien. Die Einstellung der Zwangsvollstreckung ohne Sicherheitsleistung ist nur zulässig, wenn glaubhaft gemacht wird, dass der Schuldner zur Sicherheitsleistung nicht in der Lage ist und die Vollstreckung einen nicht zu ersetzenden Nachteil bringen würde.
 
 (2) Die Entscheidung ergeht durch Beschluss. Eine Anfechtung des Beschlusses findet nicht statt.
 
-
-## § 708 – Vorläufige Vollstreckbarkeit ohne Sicherheitsleistung
+# § 708 – Vorläufige Vollstreckbarkeit ohne Sicherheitsleistung
 
 Für vorläufig vollstreckbar ohne Sicherheitsleistung sind zu erklären:
 
@@ -10650,54 +9988,45 @@ Für vorläufig vollstreckbar ohne Sicherheitsleistung sind zu erklären:
 
 11. andere Urteile in vermögensrechtlichen Streitigkeiten, wenn der Gegenstand der Verurteilung in der Hauptsache 1.250 Euro nicht übersteigt oder wenn nur die Entscheidung über die Kosten vollstreckbar ist und eine Vollstreckung im Wert von nicht mehr als 1.500 Euro ermöglicht.
 
-
-## § 709 – Vorläufige Vollstreckbarkeit gegen Sicherheitsleistung
+# § 709 – Vorläufige Vollstreckbarkeit gegen Sicherheitsleistung
 
 Andere Urteile sind gegen eine der Höhe nach zu bestimmende Sicherheit für vorläufig vollstreckbar zu erklären. Soweit wegen einer Geldforderung zu vollstrecken ist, genügt es, wenn die Höhe der Sicherheitsleistung in einem bestimmten Verhältnis zur Höhe des jeweils zu vollstreckenden Betrages angegeben wird. Handelt es sich um ein Urteil, das ein Versäumnisurteil aufrechterhält, so ist auszusprechen, dass die Vollstreckung aus dem Versäumnisurteil nur gegen Leistung der Sicherheit fortgesetzt werden darf.
 
-
-## § 710 – Ausnahmen von der Sicherheitsleistung des Gläubigers
+# § 710 – Ausnahmen von der Sicherheitsleistung des Gläubigers
 
 Kann der Gläubiger die Sicherheit nach § 709 nicht oder nur unter erheblichen Schwierigkeiten leisten, so ist das Urteil auf Antrag auch ohne Sicherheitsleistung für vorläufig vollstreckbar zu erklären, wenn die Aussetzung der Vollstreckung dem Gläubiger einen schwer zu ersetzenden oder schwer abzusehenden Nachteil bringen würde oder aus einem sonstigen Grund für den Gläubiger unbillig wäre, insbesondere weil er die Leistung für seine Lebenshaltung oder seine Erwerbstätigkeit dringend benötigt.
 
-
-## § 711 – Abwendungsbefugnis
+# § 711 – Abwendungsbefugnis
 
 In den Fällen des § 708 Nr. 4 bis 11 hat das Gericht auszusprechen, dass der Schuldner die Vollstreckung durch Sicherheitsleistung oder Hinterlegung abwenden darf, wenn nicht der Gläubiger vor der Vollstreckung Sicherheit leistet. § 709 Satz 2 gilt entsprechend, für den Schuldner jedoch mit der Maßgabe, dass Sicherheit in einem bestimmten Verhältnis zur Höhe des auf Grund des Urteils vollstreckbaren Betrages zu leisten ist. Für den Gläubiger gilt § 710 entsprechend.
 
-
-## § 712 – Schutzantrag des Schuldners
+# § 712 – Schutzantrag des Schuldners
 
 (1) Würde die Vollstreckung dem Schuldner einen nicht zu ersetzenden Nachteil bringen, so hat ihm das Gericht auf Antrag zu gestatten, die Vollstreckung durch Sicherheitsleistung oder Hinterlegung ohne Rücksicht auf eine Sicherheitsleistung des Gläubigers abzuwenden; § 709 Satz 2 gilt in den Fällen des § 709 Satz 1 entsprechend. Ist der Schuldner dazu nicht in der Lage, so ist das Urteil nicht für vorläufig vollstreckbar zu erklären oder die Vollstreckung auf die in § 720a Abs. 1, 2 bezeichneten Maßregeln zu beschränken.
 
 (2) Dem Antrag des Schuldners ist nicht zu entsprechen, wenn ein überwiegendes Interesse des Gläubigers entgegensteht. In den Fällen des § 708 kann das Gericht anordnen, dass das Urteil nur gegen Sicherheitsleistung vorläufig vollstreckbar ist.
 
-
-## § 713 – Unterbleiben von Schuldnerschutzanordnungen
+# § 713 – Unterbleiben von Schuldnerschutzanordnungen
 
 Die in den §§ 711, 712 zugunsten des Schuldners zugelassenen Anordnungen sollen nicht ergehen, wenn die Voraussetzungen, unter denen ein Rechtsmittel gegen das Urteil stattfindet, unzweifelhaft nicht vorliegen.
 
-
-## § 714 – Anträge zur vorläufigen Vollstreckbarkeit
+# § 714 – Anträge zur vorläufigen Vollstreckbarkeit
 
 (1) Anträge nach den §§ 710, 711 Satz 3, § 712 sind vor Schluss der mündlichen Verhandlung zu stellen, auf die das Urteil ergeht.
 
 (2) Die tatsächlichen Voraussetzungen sind glaubhaft zu machen.
 
-
-## § 715 – Rückgabe der Sicherheit
+# § 715 – Rückgabe der Sicherheit
 
 (1) Das Gericht, das eine Sicherheitsleistung des Gläubigers angeordnet oder zugelassen hat, ordnet auf Antrag die Rückgabe der Sicherheit an, wenn ein Zeugnis über die Rechtskraft des für vorläufig vollstreckbar erklärten Urteils vorgelegt wird. Ist die Sicherheit durch eine Bürgschaft bewirkt worden, so ordnet das Gericht das Erlöschen der Bürgschaft an.
 
 (2) § 109 Abs. 3 gilt entsprechend.
 
-
-## § 716 – Ergänzung des Urteils
+# § 716 – Ergänzung des Urteils
 
 Ist über die vorläufige Vollstreckbarkeit nicht entschieden, so sind wegen Ergänzung des Urteils die Vorschriften des § 321 anzuwenden.
 
-
-## § 717 – Wirkungen eines aufhebenden oder abändernden Urteils
+# § 717 – Wirkungen eines aufhebenden oder abändernden Urteils
 
 (1) Die vorläufige Vollstreckbarkeit tritt mit der Verkündung eines Urteils, das die Entscheidung in der Hauptsache oder die Vollstreckbarkeitserklärung aufhebt oder abändert, insoweit außer Kraft, als die Aufhebung oder Abänderung ergeht.
 
@@ -10705,15 +10034,13 @@ Ist über die vorläufige Vollstreckbarkeit nicht entschieden, so sind wegen Erg
 
 (3) Die Vorschriften des Absatzes 2 sind auf die im § 708 Nr. 10 bezeichneten Berufungsurteile, mit Ausnahme der Versäumnisurteile, nicht anzuwenden. Soweit ein solches Urteil aufgehoben oder abgeändert wird, ist der Kläger auf Antrag des Beklagten zur Erstattung des von diesem auf Grund des Urteils Gezahlten oder Geleisteten zu verurteilen. Die Erstattungspflicht des Klägers bestimmt sich nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung. Wird der Antrag gestellt, so ist der Anspruch auf Erstattung als zur Zeit der Zahlung oder Leistung rechtshängig geworden anzusehen; die mit der Rechtshängigkeit nach den Vorschriften des bürgerlichen Rechts verbundenen Wirkungen treten mit der Zahlung oder Leistung auch dann ein, wenn der Antrag nicht gestellt wird.
 
-
-## § 718 – Vorabentscheidung über vorläufige Vollstreckbarkeit
+# § 718 – Vorabentscheidung über vorläufige Vollstreckbarkeit
 
 (1) In der Berufungsinstanz ist über die vorläufige Vollstreckbarkeit auf Antrag vorab zu entscheiden. Die Entscheidung kann ohne mündliche Verhandlung ergehen; § 128 Absatz 2 Satz 2 gilt entsprechend.
 
 (2) Eine Anfechtung der in der Berufungsinstanz über die vorläufige Vollstreckbarkeit erlassenen Entscheidung findet nicht statt.
 
-
-## § 719 – Einstweilige Einstellung bei Rechtsmittel und Einspruch
+# § 719 – Einstweilige Einstellung bei Rechtsmittel und Einspruch
 
 (1) Wird gegen ein für vorläufig vollstreckbar erklärtes Urteil der Einspruch oder die Berufung eingelegt, so gelten die Vorschriften des § 707 entsprechend. Die Zwangsvollstreckung aus einem Versäumnisurteil darf nur gegen Sicherheitsleistung eingestellt werden, es sei denn, dass das Versäumnisurteil nicht in gesetzlicher Weise ergangen ist oder die säumige Partei glaubhaft macht, dass ihre Säumnis unverschuldet war.
 
@@ -10721,13 +10048,11 @@ Ist über die vorläufige Vollstreckbarkeit nicht entschieden, so sind wegen Erg
 
 (3) Die Entscheidung ergeht durch Beschluss.
 
-
-## § 720 – Hinterlegung bei Abwendung der Vollstreckung
+# § 720 – Hinterlegung bei Abwendung der Vollstreckung
 
 Darf der Schuldner nach § 711 Satz 1, § 712 Abs. 1 Satz 1 die Vollstreckung durch Sicherheitsleistung oder Hinterlegung abwenden, so ist gepfändetes Geld oder der Erlös gepfändeter Gegenstände zu hinterlegen.
 
-
-## § 720a – Sicherungsvollstreckung
+# § 720a – Sicherungsvollstreckung
 
 (1) Aus einem nur gegen Sicherheit vorläufig vollstreckbaren Urteil, durch das der Schuldner zur Leistung von Geld verurteilt worden ist, darf der Gläubiger ohne Sicherheitsleistung die Zwangsvollstreckung insoweit betreiben, als
 
@@ -10741,8 +10066,7 @@ Der Gläubiger kann sich aus dem belasteten Gegenstand nur nach Leistung der Sic
 
 (3) Der Schuldner ist befugt, die Zwangsvollstreckung nach Absatz 1 durch Leistung einer Sicherheit in Höhe des Hauptanspruchs abzuwenden, wegen dessen der Gläubiger vollstrecken kann, wenn nicht der Gläubiger vorher die ihm obliegende Sicherheit geleistet hat.
 
-
-## § 721 – Räumungsfrist
+# § 721 – Räumungsfrist
 
 (1) Wird auf Räumung von Wohnraum erkannt, so kann das Gericht auf Antrag oder von Amts wegen dem Schuldner eine den Umständen nach angemessene Räumungsfrist gewähren. Der Antrag ist vor dem Schluss der mündlichen Verhandlung zu stellen, auf die das Urteil ergeht. Ist der Antrag bei der Entscheidung übergangen, so gilt § 321; bis zur Entscheidung kann das Gericht auf Antrag die Zwangsvollstreckung wegen des Räumungsanspruchs einstweilen einstellen.
 
@@ -10762,81 +10086,69 @@ Der Gläubiger kann sich aus dem belasteten Gegenstand nur nach Leistung der Sic
 
 (7) Die Absätze 1 bis 6 gelten nicht für Mietverhältnisse über Wohnraum im Sinne des § 549 Abs. 2 Nr. 3 sowie in den Fällen des § 575 des Bürgerlichen Gesetzbuchs. Endet ein Mietverhältnis im Sinne des § 575 des Bürgerlichen Gesetzbuchs durch außerordentliche Kündigung, kann eine Räumungsfrist höchstens bis zum vertraglich bestimmten Zeitpunkt der Beendigung gewährt werden.
 
-
-## § 722 – Vollstreckbarkeit ausländischer Urteile
+# § 722 – Vollstreckbarkeit ausländischer Urteile
 
 (1) Aus dem Urteil eines ausländischen Gerichts findet die Zwangsvollstreckung nur statt, wenn ihre Zulässigkeit durch ein Vollstreckungsurteil ausgesprochen ist.
 
 (2) Für die Klage auf Erlass des Urteils ist das Amtsgericht oder Landgericht, bei dem der Schuldner seinen allgemeinen Gerichtsstand hat, und sonst das Amtsgericht oder Landgericht zuständig, bei dem nach § 23 gegen den Schuldner Klage erhoben werden kann.
 
-
-## § 723 – Vollstreckungsurteil
+# § 723 – Vollstreckungsurteil
 
 (1) Das Vollstreckungsurteil ist ohne Prüfung der Gesetzmäßigkeit der Entscheidung zu erlassen.
 
 (2) Das Vollstreckungsurteil ist erst zu erlassen, wenn das Urteil des ausländischen Gerichts nach dem für dieses Gericht geltenden Recht die Rechtskraft erlangt hat. Es ist nicht zu erlassen, wenn die Anerkennung des Urteils nach § 328 ausgeschlossen ist.
 
-
-## § 724 – Vollstreckbare Ausfertigung
+# § 724 – Vollstreckbare Ausfertigung
 
 (1) Die Zwangsvollstreckung wird auf Grund einer mit der Vollstreckungsklausel versehenen Ausfertigung des Urteils (vollstreckbare Ausfertigung) durchgeführt.
 
 (2) Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts des ersten Rechtszuges und, wenn der Rechtsstreit bei einem höheren Gericht anhängig ist, von dem Urkundsbeamten der Geschäftsstelle dieses Gerichts erteilt.
 
-
-## § 725 – Vollstreckungsklausel
+# § 725 – Vollstreckungsklausel
 
 Die Vollstreckungsklausel:  
 "Vorstehende Ausfertigung wird dem usw. (Bezeichnung der Partei) zum Zwecke der Zwangsvollstreckung erteilt"  
 ist der Ausfertigung des Urteils am Schluss beizufügen, von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen.
 
-
-## § 726 – Vollstreckbare Ausfertigung bei bedingten Leistungen
+# § 726 – Vollstreckbare Ausfertigung bei bedingten Leistungen
 
 (1) Von Urteilen, deren Vollstreckung nach ihrem Inhalt von dem durch den Gläubiger zu beweisenden Eintritt einer anderen Tatsache als einer dem Gläubiger obliegenden Sicherheitsleistung abhängt, darf eine vollstreckbare Ausfertigung nur erteilt werden, wenn der Beweis durch öffentliche oder öffentlich beglaubigte Urkunden geführt wird.
 
 (2) Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläubigers an den Schuldner ab, so ist der Beweis, dass der Schuldner befriedigt oder im Verzug der Annahme ist, nur dann erforderlich, wenn die dem Schuldner obliegende Leistung in der Abgabe einer Willenserklärung besteht.
 
-
-## § 727 – Vollstreckbare Ausfertigung für und gegen Rechtsnachfolger
+# § 727 – Vollstreckbare Ausfertigung für und gegen Rechtsnachfolger
 
 (1) Eine vollstreckbare Ausfertigung kann für den Rechtsnachfolger des in dem Urteil bezeichneten Gläubigers sowie gegen denjenigen Rechtsnachfolger des in dem Urteil bezeichneten Schuldners und denjenigen Besitzer der in Streit befangenen Sache, gegen die das Urteil nach § 325 wirksam ist, erteilt werden, sofern die Rechtsnachfolge oder das Besitzverhältnis bei dem Gericht offenkundig ist oder durch öffentliche oder öffentlich beglaubigte Urkunden nachgewiesen wird.
 
 (2) Ist die Rechtsnachfolge oder das Besitzverhältnis bei dem Gericht offenkundig, so ist dies in der Vollstreckungsklausel zu erwähnen.
 
-
-## § 728 – Vollstreckbare Ausfertigung bei Nacherbe oder Testamentsvollstrecker
+# § 728 – Vollstreckbare Ausfertigung bei Nacherbe oder Testamentsvollstrecker
 
 (1) Ist gegenüber dem Vorerben ein nach § 326 dem Nacherben gegenüber wirksames Urteil ergangen, so sind auf die Erteilung einer vollstreckbaren Ausfertigung für und gegen den Nacherben die Vorschriften des § 727 entsprechend anzuwenden.
 
 (2) Das Gleiche gilt, wenn gegenüber einem Testamentsvollstrecker ein nach § 327 dem Erben gegenüber wirksames Urteil ergangen ist, für die Erteilung einer vollstreckbaren Ausfertigung für und gegen den Erben. Eine vollstreckbare Ausfertigung kann gegen den Erben erteilt werden, auch wenn die Verwaltung des Testamentsvollstreckers noch besteht.
 
-
-## § 729 – Vollstreckbare Ausfertigung gegen Vermögens- und Firmenübernehmer
+# § 729 – Vollstreckbare Ausfertigung gegen Vermögens- und Firmenübernehmer
 
 (1) Hat jemand das Vermögen eines anderen durch Vertrag mit diesem nach der rechtskräftigen Feststellung einer Schuld des anderen übernommen, so sind auf die Erteilung einer vollstreckbaren Ausfertigung des Urteils gegen den Übernehmer die Vorschriften des § 727 entsprechend anzuwenden.
 
 (2) Das Gleiche gilt für die Erteilung einer vollstreckbaren Ausfertigung gegen denjenigen, der ein unter Lebenden erworbenes Handelsgeschäft unter der bisherigen Firma fortführt, in Ansehung der Verbindlichkeiten, für die er nach § 25 Abs. 1 Satz 1, Abs. 2 des Handelsgesetzbuchs haftet, sofern sie vor dem Erwerb des Geschäfts gegen den früheren Inhaber rechtskräftig festgestellt worden sind.
 
-
-## § 730 – Anhörung des Schuldners
+# § 730 – Anhörung des Schuldners
 
 In den Fällen des § 726 Abs. 1 und der §§ 727 bis 729 kann der Schuldner vor der Erteilung der vollstreckbaren Ausfertigung gehört werden.
 
-
-## § 731 – Klage auf Erteilung der Vollstreckungsklausel
+# § 731 – Klage auf Erteilung der Vollstreckungsklausel
 
 Kann der nach dem § 726 Abs. 1 und den §§ 727 bis 729 erforderliche Nachweis durch öffentliche oder öffentlich beglaubigte Urkunden nicht geführt werden, so hat der Gläubiger bei dem Prozessgericht des ersten Rechtszuges aus dem Urteil auf Erteilung der Vollstreckungsklausel Klage zu erheben.
 
-
-## § 732 – Erinnerung gegen Erteilung der Vollstreckungsklausel
+# § 732 – Erinnerung gegen Erteilung der Vollstreckungsklausel
 
 (1) Über Einwendungen des Schuldners, welche die Zulässigkeit der Vollstreckungsklausel betreffen, entscheidet das Gericht, von dessen Geschäftsstelle die Vollstreckungsklausel erteilt ist. Die Entscheidung ergeht durch Beschluss.
 
 (2) Das Gericht kann vor der Entscheidung eine einstweilige Anordnung erlassen; es kann insbesondere anordnen, dass die Zwangsvollstreckung gegen oder ohne Sicherheitsleistung einstweilen einzustellen oder nur gegen Sicherheitsleistung fortzusetzen sei.
 
-
-## § 733 – Weitere vollstreckbare Ausfertigung
+# § 733 – Weitere vollstreckbare Ausfertigung
 
 (1) Vor der Erteilung einer weiteren vollstreckbaren Ausfertigung kann der Schuldner gehört werden, sofern nicht die zuerst erteilte Ausfertigung zurückgegeben wird.
 
@@ -10844,61 +10156,51 @@ Kann der nach dem § 726 Abs. 1 und den §§ 727 bis 729 erforderliche Nachweis 
 
 (3) Die weitere Ausfertigung ist als solche ausdrücklich zu bezeichnen.
 
-
-## § 734 – Vermerk über Ausfertigungserteilung auf der Urteilsurschrift
+# § 734 – Vermerk über Ausfertigungserteilung auf der Urteilsurschrift
 
 Vor der Aushändigung einer vollstreckbaren Ausfertigung ist auf der Urschrift des Urteils zu vermerken, für welche Partei und zu welcher Zeit die Ausfertigung erteilt ist. Werden die Prozessakten elektronisch geführt, so ist der Vermerk in einem gesonderten elektronischen Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 735 – Zwangsvollstreckung gegen nicht rechtsfähigen Verein
+# § 735 – Zwangsvollstreckung gegen nicht rechtsfähigen Verein
 
 Zur Zwangsvollstreckung in das Vermögen eines nicht rechtsfähigen Vereins genügt ein gegen den Verein ergangenes Urteil.
 
-
-## § 736 – Zwangsvollstreckung gegen BGB-Gesellschaft
+# § 736 – Zwangsvollstreckung gegen BGB-Gesellschaft
 
 Zur Zwangsvollstreckung in das Gesellschaftsvermögen einer nach § 705 des Bürgerlichen Gesetzbuchs eingegangenen Gesellschaft ist ein gegen alle Gesellschafter ergangenes Urteil erforderlich.
 
-
-## § 737 – Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch
+# § 737 – Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch
 
 (1) Bei dem Nießbrauch an einem Vermögen ist wegen der vor der Bestellung des Nießbrauchs entstandenen Verbindlichkeiten des Bestellers die Zwangsvollstreckung in die dem Nießbrauch unterliegenden Gegenstände ohne Rücksicht auf den Nießbrauch zulässig, wenn der Besteller zu der Leistung und der Nießbraucher zur Duldung der Zwangsvollstreckung verurteilt ist.
 
 (2) Das Gleiche gilt bei dem Nießbrauch an einer Erbschaft für die Nachlassverbindlichkeiten.
 
-
-## § 738 – Vollstreckbare Ausfertigung gegen Nießbraucher
+# § 738 – Vollstreckbare Ausfertigung gegen Nießbraucher
 
 (1) Ist die Bestellung des Nießbrauchs an einem Vermögen nach der rechtskräftigen Feststellung einer Schuld des Bestellers erfolgt, so sind auf die Erteilung einer in Ansehung der dem Nießbrauch unterliegenden Gegenstände vollstreckbaren Ausfertigung des Urteils gegen den Nießbraucher die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
 
 (2) Das Gleiche gilt bei dem Nießbrauch an einer Erbschaft für die Erteilung einer vollstreckbaren Ausfertigung des gegen den Erblasser ergangenen Urteils.
 
-
-## § 739 – Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner
+# § 739 – Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner
 
 (1) Wird zugunsten der Gläubiger eines der Ehegatten gemäß § 1362 des Bürgerlichen Gesetzbuchs vermutet, dass der Schuldner Eigentümer beweglicher Sachen ist, so gilt, unbeschadet der Rechte Dritter, für die Durchführung der Zwangsvollstreckung nur der Schuldner als Gewahrsamsinhaber und Besitzer.
 
 (2) Absatz 1 gilt entsprechend für die Vermutung des § 8 Abs. 1 des Lebenspartnerschaftsgesetzes zugunsten der Gläubiger eines der Lebenspartner.
 
-
-## § 740 – Zwangsvollstreckung in das Gesamtgut
+# § 740 – Zwangsvollstreckung in das Gesamtgut
 
 (1) Leben die Ehegatten oder Lebenspartner in Gütergemeinschaft und verwaltet einer von ihnen das Gesamtgut allein, so ist zur Zwangsvollstreckung in das Gesamtgut ein Urteil gegen diesen Ehegatten oder Lebenspartner erforderlich und genügend.
 
 (2) Verwalten die Ehegatten oder Lebenspartner das Gesamtgut gemeinschaftlich, so ist die Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn beide Ehegatten oder Lebenspartner zur Leistung verurteilt sind.
 
-
-## § 741 – Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
+# § 741 – Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft
 
 Betreibt ein Ehegatte oder Lebenspartner, der in Gütergemeinschaft lebt und das Gesamtgut nicht oder nicht allein verwaltet, selbständig ein Erwerbsgeschäft, so ist zur Zwangsvollstreckung in das Gesamtgut ein gegen ihn ergangenes Urteil genügend, es sei denn, dass zur Zeit des Eintritts der Rechtshängigkeit der Einspruch des anderen Ehegatten oder Lebenspartners gegen den Betrieb des Erwerbsgeschäfts oder der Widerruf seiner Einwilligung zu dem Betrieb im Güterrechtsregister eingetragen war.
 
-
-## § 742 – Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
+# § 742 – Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits
 
 Ist die Gütergemeinschaft erst eingetreten, nachdem ein von einem Ehegatten oder Lebenspartner oder gegen einen Ehegatten oder Lebenspartner geführter Rechtsstreit rechtshängig geworden ist, und verwaltet dieser Ehegatte oder Lebenspartner das Gesamtgut nicht oder nicht allein, so sind auf die Erteilung einer in Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils für oder gegen den anderen Ehegatten oder Lebenspartner die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
 
-
-## § 743 – Beendete Gütergemeinschaft
+# § 743 – Beendete Gütergemeinschaft
 
 Nach der Beendigung der Gütergemeinschaft ist vor der Auseinandersetzung die Zwangsvollstreckung in das Gesamtgut nur zulässig, wenn
 
@@ -10906,18 +10208,15 @@ Nach der Beendigung der Gütergemeinschaft ist vor der Auseinandersetzung die Zw
 
 2. der eine Ehegatte oder Lebenspartner zu der Leistung verurteilt ist und der andere zur Duldung der Zwangsvollstreckung.
 
-
-## § 744 – Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft
+# § 744 – Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft
 
 Ist die Beendigung der Gütergemeinschaft nach der Beendigung eines Rechtsstreits des Ehegatten oder Lebenspartners eingetreten, der das Gesamtgut allein verwaltet, so sind auf die Erteilung einer in Ansehung des Gesamtgutes vollstreckbaren Ausfertigung des Urteils gegen den anderen Ehegatten oder Lebenspartner die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden.
 
-
-## § 744a – Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft
+# § 744a – Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft
 
 Leben die Ehegatten gemäß Artikel 234 § 4 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch im Güterstand der Eigentums- und Vermögensgemeinschaft, sind für die Zwangsvollstreckung in Gegenstände des gemeinschaftlichen Eigentums und Vermögens die §§ 740 bis 744, 774 und 860 entsprechend anzuwenden.
 
-
-## § 745 – Zwangsvollstreckung bei fortgesetzter Gütergemeinschaft
+# § 745 – Zwangsvollstreckung bei fortgesetzter Gütergemeinschaft
 
 (1) Im Falle der fortgesetzten Gütergemeinschaft ist zur Zwangsvollstreckung in das Gesamtgut ein gegen den überlebenden Ehegatten oder Lebenspartner ergangenes Urteil erforderlich und genügend.
 
@@ -10927,18 +10226,15 @@ Leben die Ehegatten gemäß Artikel 234 § 4 Abs. 2 des Einführungsgesetzes zum
 
 2. an die Stelle des anderen Ehegatten oder Lebenspartners die anteilsberechtigten Abkömmlinge treten.
 
-
-## § 746
+# § 746
 
 (weggefallen)
 
-
-## § 747 – Zwangsvollstreckung in ungeteilten Nachlass
+# § 747 – Zwangsvollstreckung in ungeteilten Nachlass
 
 Zur Zwangsvollstreckung in einen Nachlass ist, wenn mehrere Erben vorhanden sind, bis zur Teilung ein gegen alle Erben ergangenes Urteil erforderlich.
 
-
-## § 748 – Zwangsvollstreckung bei Testamentsvollstrecker
+# § 748 – Zwangsvollstreckung bei Testamentsvollstrecker
 
 (1) Unterliegt ein Nachlass der Verwaltung eines Testamentsvollstreckers, so ist zur Zwangsvollstreckung in den Nachlass ein gegen den Testamentsvollstrecker ergangenes Urteil erforderlich und genügend.
 
@@ -10946,13 +10242,11 @@ Zur Zwangsvollstreckung in einen Nachlass ist, wenn mehrere Erben vorhanden sind
 
 (3) Zur Zwangsvollstreckung wegen eines Pflichtteilanspruchs ist im Falle des Absatzes 1 wie im Falle des Absatzes 2 ein sowohl gegen den Erben als gegen den Testamentsvollstrecker ergangenes Urteil erforderlich.
 
-
-## § 749 – Vollstreckbare Ausfertigung für und gegen Testamentsvollstrecker
+# § 749 – Vollstreckbare Ausfertigung für und gegen Testamentsvollstrecker
 
 Auf die Erteilung einer vollstreckbaren Ausfertigung eines für oder gegen den Erblasser ergangenen Urteils für oder gegen den Testamentsvollstrecker sind die Vorschriften der §§ 727, 730 bis 732 entsprechend anzuwenden. Auf Grund einer solchen Ausfertigung ist die Zwangsvollstreckung nur in die der Verwaltung des Testamentsvollstreckers unterliegenden Nachlassgegenstände zulässig.
 
-
-## § 750 – Voraussetzungen der Zwangsvollstreckung
+# § 750 – Voraussetzungen der Zwangsvollstreckung
 
 (1) Die Zwangsvollstreckung darf nur beginnen, wenn die Personen, für und gegen die sie stattfinden soll, in dem Urteil oder in der ihm beigefügten Vollstreckungsklausel namentlich bezeichnet sind und das Urteil bereits zugestellt ist oder gleichzeitig zugestellt wird. Eine Zustellung durch den Gläubiger genügt; in diesem Fall braucht die Ausfertigung des Urteils Tatbestand und Entscheidungsgründe nicht zu enthalten.
 
@@ -10960,20 +10254,17 @@ Auf die Erteilung einer vollstreckbaren Ausfertigung eines für oder gegen den E
 
 (3) Eine Zwangsvollstreckung nach § 720a darf nur beginnen, wenn das Urteil und die Vollstreckungsklausel mindestens zwei Wochen vorher zugestellt sind.
 
-
-## § 751 – Bedingungen für Vollstreckungsbeginn
+# § 751 – Bedingungen für Vollstreckungsbeginn
 
 (1) Ist die Geltendmachung des Anspruchs von dem Eintritt eines Kalendertages abhängig, so darf die Zwangsvollstreckung nur beginnen, wenn der Kalendertag abgelaufen ist.
 
 (2) Hängt die Vollstreckung von einer dem Gläubiger obliegenden Sicherheitsleistung ab, so darf mit der Zwangsvollstreckung nur begonnen oder sie nur fortgesetzt werden, wenn die Sicherheitsleistung durch eine öffentliche oder öffentlich beglaubigte Urkunde nachgewiesen und eine Abschrift dieser Urkunde bereits zugestellt ist oder gleichzeitig zugestellt wird.
 
-
-## § 752 – Sicherheitsleistung bei Teilvollstreckung
+# § 752 – Sicherheitsleistung bei Teilvollstreckung
 
 Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines Teilbetrages, so bemisst sich die Höhe der Sicherheitsleistung nach dem Verhältnis des Teilbetrages zum Gesamtbetrag. Darf der Schuldner in den Fällen des § 709 die Vollstreckung gemäß § 712 Abs. 1 Satz 1 abwenden, so gilt für ihn Satz 1 entsprechend.
 
-
-## § 753 – Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung
+# § 753 – Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung
 
 (1) Die Zwangsvollstreckung wird, soweit sie nicht den Gerichten zugewiesen ist, durch Gerichtsvollzieher durchgeführt, die sie im Auftrag des Gläubigers zu bewirken haben.
 
@@ -10983,20 +10274,17 @@ Vollstreckt der Gläubiger im Fall des § 751 Abs. 2 nur wegen eines Teilbetrage
 
 (4) Schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können als elektronisches Dokument beim Gerichtsvollzieher eingereicht werden. Für das elektronische Dokument gelten § 130a, auf dieser Grundlage erlassene Rechtsverordnungen sowie § 298 entsprechend. Die Bundesregierung kann in der Rechtsverordnung nach § 130a Absatz 2 Satz 2 besondere technische Rahmenbedingungen für die Übermittlung und Bearbeitung elektronischer Dokumente in Zwangsvollstreckungsverfahren durch Gerichtsvollzieher bestimmen. Im Übrigen gilt § 174 Absatz 3 und 4 entsprechend.
 
-
-## § 753a – Vollmachtsnachweis
+# § 753a – Vollmachtsnachweis
 
 Bei der Durchführung der Zwangsvollstreckung wegen Geldforderungen in das bewegliche Vermögen haben Bevollmächtigte nach § 79 Absatz 2 Satz 1 und 2 Nummer 3 und 4 ihre ordnungsgemäße Bevollmächtigung zu versichern; des Nachweises einer Vollmacht bedarf es in diesen Fällen nicht. Satz 1 gilt nicht für Anträge nach § 802g.
 
-
-## § 754 – Vollstreckungsauftrag und vollstreckbare Ausfertigung
+# § 754 – Vollstreckungsauftrag und vollstreckbare Ausfertigung
 
 (1) Durch den Vollstreckungsauftrag und die Übergabe der vollstreckbaren Ausfertigung wird der Gerichtsvollzieher ermächtigt, Leistungen des Schuldners entgegenzunehmen und diese zu quittieren sowie mit Wirkung für den Gläubiger Zahlungsvereinbarungen nach Maßgabe des § 802b zu treffen.
 
 (2) Dem Schuldner und Dritten gegenüber wird der Gerichtsvollzieher zur Vornahme der Zwangsvollstreckung und der in Absatz 1 bezeichneten Handlungen durch den Besitz der vollstreckbaren Ausfertigung ermächtigt. Der Mangel oder die Beschränkung des Auftrags kann diesen Personen gegenüber von dem Gläubiger nicht geltend gemacht werden.
 
-
-## § 754a – Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden
+# § 754a – Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden
 
 (1) Im Fall eines elektronisch eingereichten Auftrags zur Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht bedarf, ist bei der Zwangsvollstreckung wegen Geldforderungen die Übermittlung der Ausfertigung des Vollstreckungsbescheides entbehrlich, wenn
 
@@ -11014,8 +10302,7 @@ Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind dem Auftrag zusä
 
 (3) (weggefallen)
 
-
-## § 755 – Ermittlung des Aufenthaltsorts des Schuldners
+# § 755 – Ermittlung des Aufenthaltsorts des Schuldners
 
 (1) Ist der Wohnsitz oder gewöhnliche Aufenthaltsort des Schuldners nicht bekannt, darf der Gerichtsvollzieher auf Grund des Vollstreckungsauftrags und der Übergabe der vollstreckbaren Ausfertigung zur Ermittlung des Aufenthaltsorts des Schuldners bei der Meldebehörde die gegenwärtigen Anschriften sowie Angaben zur Haupt- und Nebenwohnung des Schuldners erheben. Der Gerichtsvollzieher darf auch beauftragt werden, die gegenwärtigen Anschriften, den Ort der Hauptniederlassung oder den Sitz des Schuldners zu erheben
 
@@ -11035,22 +10322,19 @@ erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten 
 
 (3) Nach Absatz 1 oder Absatz 2 erhobene Daten, die innerhalb der letzten drei Monate bei dem Gerichtsvollzieher eingegangen sind, darf dieser auch in einem Zwangsvollstreckungsverfahren eines weiteren Gläubigers gegen denselben Schuldner verarbeiten, wenn die Voraussetzungen für die Datenerhebung auch bei diesem Gläubiger vorliegen.
 
-
-## § 756 – Zwangsvollstreckung bei Leistung Zug um Zug
+# § 756 – Zwangsvollstreckung bei Leistung Zug um Zug
 
 (1) Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläubigers an den Schuldner ab, so darf der Gerichtsvollzieher die Zwangsvollstreckung nicht beginnen, bevor er dem Schuldner die diesem gebührende Leistung in einer den Verzug der Annahme begründenden Weise angeboten hat, sofern nicht der Beweis, dass der Schuldner befriedigt oder im Verzug der Annahme ist, durch öffentliche oder öffentlich beglaubigte Urkunden geführt wird und eine Abschrift dieser Urkunden bereits zugestellt ist oder gleichzeitig zugestellt wird.
 
 (2) Der Gerichtsvollzieher darf mit der Zwangsvollstreckung beginnen, wenn der Schuldner auf das wörtliche Angebot des Gerichtsvollziehers erklärt, dass er die Leistung nicht annehmen werde.
 
-
-## § 757 – Übergabe des Titels und Quittung
+# § 757 – Übergabe des Titels und Quittung
 
 (1) Der Gerichtsvollzieher hat nach Empfang der Leistungen dem Schuldner die vollstreckbare Ausfertigung nebst einer Quittung auszuliefern, bei teilweiser Leistung diese auf der vollstreckbaren Ausfertigung zu vermerken und dem Schuldner Quittung zu erteilen.
 
 (2) Das Recht des Schuldners, nachträglich eine Quittung des Gläubigers selbst zu fordern, wird durch diese Vorschriften nicht berührt.
 
-
-## § 758 – Durchsuchung; Gewaltanwendung
+# § 758 – Durchsuchung; Gewaltanwendung
 
 (1) Der Gerichtsvollzieher ist befugt, die Wohnung und die Behältnisse des Schuldners zu durchsuchen, soweit der Zweck der Vollstreckung dies erfordert.
 
@@ -11058,8 +10342,7 @@ erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten 
 
 (3) Er ist, wenn er Widerstand findet, zur Anwendung von Gewalt befugt und kann zu diesem Zweck die Unterstützung der polizeilichen Vollzugsorgane nachsuchen.
 
-
-## § 758a – Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit
+# § 758a – Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit
 
 (1) Die Wohnung des Schuldners darf ohne dessen Einwilligung nur auf Grund einer Anordnung des Richters bei dem Amtsgericht durchsucht werden, in dessen Bezirk die Durchsuchung erfolgen soll. Dies gilt nicht, wenn die Einholung der Anordnung den Erfolg der Durchsuchung gefährden würde.
 
@@ -11073,23 +10356,19 @@ erheben. Ist der Schuldner Unionsbürger, darf der Gerichtsvollzieher die Daten 
 
 (6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung nach Absatz 1 einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
-
-## § 759 – Zuziehung von Zeugen
+# § 759 – Zuziehung von Zeugen
 
 Wird bei einer Vollstreckungshandlung Widerstand geleistet oder ist bei einer in der Wohnung des Schuldners vorzunehmenden Vollstreckungshandlung weder der Schuldner noch ein erwachsener Familienangehöriger, eine in der Familie beschäftigte Person oder ein erwachsener ständiger Mitbewohner anwesend, so hat der Gerichtsvollzieher zwei erwachsene Personen oder einen Gemeinde- oder Polizeibeamten als Zeugen zuzuziehen.
 
-
-## § 760 – Akteneinsicht; Aktenabschrift
+# § 760 – Akteneinsicht; Aktenabschrift
 
 Jeder Person, die bei dem Vollstreckungsverfahren beteiligt ist, muss auf Begehren Einsicht der Akten des Gerichtsvollziehers gestattet und Abschrift einzelner Aktenstücke erteilt werden. Werden die Akten des Gerichtsvollziehers elektronisch geführt, erfolgt die Gewährung von Akteneinsicht durch Erteilung von Ausdrucken, durch Übermittlung von elektronischen Dokumenten oder durch Wiedergabe auf einem Bildschirm; dies gilt auch für die nach § 885a Absatz 2 Satz 2 elektronisch gespeicherten Dateien.
 
-
-## § 761
+# § 761
 
 (weggefallen)
 
-
-## § 762 – Protokoll über Vollstreckungshandlungen
+# § 762 – Protokoll über Vollstreckungshandlungen
 
 (1) Der Gerichtsvollzieher hat über jede Vollstreckungshandlung ein Protokoll aufzunehmen.
 
@@ -11107,15 +10386,13 @@ Jeder Person, die bei dem Vollstreckungsverfahren beteiligt ist, muss auf Begehr
 
 (3) Hat einem der unter Nummer 4 bezeichneten Erfordernisse nicht genügt werden können, so ist der Grund anzugeben.
 
-
-## § 763 – Aufforderungen und Mitteilungen
+# § 763 – Aufforderungen und Mitteilungen
 
 (1) Die Aufforderungen und sonstigen Mitteilungen, die zu den Vollstreckungshandlungen gehören, sind von dem Gerichtsvollzieher mündlich zu erlassen und vollständig in das Protokoll aufzunehmen.
 
 (2) Kann dies mündlich nicht ausgeführt werden, so hat der Gerichtsvollzieher eine Abschrift des Protokolls zuzustellen oder durch die Post zu übersenden. Es muss im Protokoll vermerkt werden, dass diese Vorschrift befolgt ist. Eine öffentliche Zustellung findet nicht statt.
 
-
-## § 764 – Vollstreckungsgericht
+# § 764 – Vollstreckungsgericht
 
 (1) Die den Gerichten zugewiesene Anordnung von Vollstreckungshandlungen und Mitwirkung bei solchen gehört zur Zuständigkeit der Amtsgerichte als Vollstreckungsgerichte.
 
@@ -11123,8 +10400,7 @@ Jeder Person, die bei dem Vollstreckungsverfahren beteiligt ist, muss auf Begehr
 
 (3) Die Entscheidungen des Vollstreckungsgerichts ergehen durch Beschluss.
 
-
-## § 765 – Vollstreckungsgerichtliche Anordnungen bei Leistung Zug um Zug
+# § 765 – Vollstreckungsgerichtliche Anordnungen bei Leistung Zug um Zug
 
 Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläubigers an den Schuldner ab, so darf das Vollstreckungsgericht eine Vollstreckungsmaßregel nur anordnen, wenn
 
@@ -11132,8 +10408,7 @@ Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläub
 
 2. der Gerichtsvollzieher eine Vollstreckungsmaßnahme nach § 756 Abs. 2 durchgeführt hat und diese durch das Protokoll des Gerichtsvollziehers nachgewiesen ist.
 
-
-## § 765a – Vollstreckungsschutz
+# § 765a – Vollstreckungsschutz
 
 (1) Auf Antrag des Schuldners kann das Vollstreckungsgericht eine Maßnahme der Zwangsvollstreckung ganz oder teilweise aufheben, untersagen oder einstweilen einstellen, wenn die Maßnahme unter voller Würdigung des Schutzbedürfnisses des Gläubigers wegen ganz besonderer Umstände eine Härte bedeutet, die mit den guten Sitten nicht vereinbar ist. Es ist befugt, die in § 732 Abs. 2 bezeichneten Anordnungen zu erlassen. Betrifft die Maßnahme ein Tier, so hat das Vollstreckungsgericht bei der von ihm vorzunehmenden Abwägung die Verantwortung des Menschen für das Tier zu berücksichtigen.
 
@@ -11145,15 +10420,13 @@ Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläub
 
 (5) Die Aufhebung von Vollstreckungsmaßregeln erfolgt in den Fällen des Absatzes 1 Satz 1 und des Absatzes 4 erst nach Rechtskraft des Beschlusses.
 
-
-## § 766 – Erinnerung gegen Art und Weise der Zwangsvollstreckung
+# § 766 – Erinnerung gegen Art und Weise der Zwangsvollstreckung
 
 (1) Über Anträge, Einwendungen und Erinnerungen, welche die Art und Weise der Zwangsvollstreckung oder das vom Gerichtsvollzieher bei ihr zu beobachtende Verfahren betreffen, entscheidet das Vollstreckungsgericht. Es ist befugt, die im § 732 Abs. 2 bezeichneten Anordnungen zu erlassen.
 
 (2) Dem Vollstreckungsgericht steht auch die Entscheidung zu, wenn ein Gerichtsvollzieher sich weigert, einen Vollstreckungsauftrag zu übernehmen oder eine Vollstreckungshandlung dem Auftrag gemäß auszuführen, oder wenn wegen der von dem Gerichtsvollzieher in Ansatz gebrachten Kosten Erinnerungen erhoben werden.
 
-
-## § 767 – Vollstreckungsabwehrklage
+# § 767 – Vollstreckungsabwehrklage
 
 (1) Einwendungen, die den durch das Urteil festgestellten Anspruch selbst betreffen, sind von dem Schuldner im Wege der Klage bei dem Prozessgericht des ersten Rechtszuges geltend zu machen.
 
@@ -11161,13 +10434,11 @@ Hängt die Vollstreckung von einer Zug um Zug zu bewirkenden Leistung des Gläub
 
 (3) Der Schuldner muss in der von ihm zu erhebenden Klage alle Einwendungen geltend machen, die er zur Zeit der Erhebung der Klage geltend zu machen imstande war.
 
-
-## § 768 – Klage gegen Vollstreckungsklausel
+# § 768 – Klage gegen Vollstreckungsklausel
 
 Die Vorschriften des § 767 Abs. 1, 3 gelten entsprechend, wenn in den Fällen des § 726 Abs. 1, der §§ 727 bis 729, 738, 742, 744, des § 745 Abs. 2 und des § 749 der Schuldner den bei der Erteilung der Vollstreckungsklausel als bewiesen angenommenen Eintritt der Voraussetzung für die Erteilung der Vollstreckungsklausel bestreitet, unbeschadet der Befugnis des Schuldners, in diesen Fällen Einwendungen gegen die Zulässigkeit der Vollstreckungsklausel nach § 732 zu erheben.
 
-
-## § 769 – Einstweilige Anordnungen
+# § 769 – Einstweilige Anordnungen
 
 (1) Das Prozessgericht kann auf Antrag anordnen, dass bis zum Erlass des Urteils über die in den §§ 767, 768 bezeichneten Einwendungen die Zwangsvollstreckung gegen oder ohne Sicherheitsleistung eingestellt oder nur gegen Sicherheitsleistung fortgesetzt werde und dass Vollstreckungsmaßregeln gegen Sicherheitsleistung aufzuheben seien. Es setzt eine Sicherheitsleistung für die Einstellung der Zwangsvollstreckung nicht fest, wenn der Schuldner zur Sicherheitsleistung nicht in der Lage ist und die Rechtsverfolgung durch ihn hinreichende Aussicht auf Erfolg bietet. Die tatsächlichen Behauptungen, die den Antrag begründen, sind glaubhaft zu machen.
 
@@ -11177,13 +10448,11 @@ Die Vorschriften des § 767 Abs. 1, 3 gelten entsprechend, wenn in den Fällen d
 
 (4) Im Fall der Anhängigkeit einer auf Herabsetzung gerichteten Abänderungsklage gelten die Absätze 1 bis 3 entsprechend.
 
-
-## § 770 – Einstweilige Anordnungen im Urteil
+# § 770 – Einstweilige Anordnungen im Urteil
 
 Das Prozessgericht kann in dem Urteil, durch das über die Einwendungen entschieden wird, die in dem vorstehenden Paragraphen bezeichneten Anordnungen erlassen oder die bereits erlassenen Anordnungen aufheben, abändern oder bestätigen. Für die Anfechtung einer solchen Entscheidung gelten die Vorschriften des § 718 entsprechend.
 
-
-## § 771 – Drittwiderspruchsklage
+# § 771 – Drittwiderspruchsklage
 
 (1) Behauptet ein Dritter, dass ihm an dem Gegenstand der Zwangsvollstreckung ein die Veräußerung hinderndes Recht zustehe, so ist der Widerspruch gegen die Zwangsvollstreckung im Wege der Klage bei dem Gericht geltend zu machen, in dessen Bezirk die Zwangsvollstreckung erfolgt.
 
@@ -11191,23 +10460,19 @@ Das Prozessgericht kann in dem Urteil, durch das über die Einwendungen entschie
 
 (3) Auf die Einstellung der Zwangsvollstreckung und die Aufhebung der bereits getroffenen Vollstreckungsmaßregeln sind die Vorschriften der §§ 769, 770 entsprechend anzuwenden. Die Aufhebung einer Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
-
-## § 772 – Drittwiderspruchsklage bei Veräußerungsverbot
+# § 772 – Drittwiderspruchsklage bei Veräußerungsverbot
 
 Solange ein Veräußerungsverbot der in den §§ 135, 136 des Bürgerlichen Gesetzbuchs bezeichneten Art besteht, soll der Gegenstand, auf den es sich bezieht, wegen eines persönlichen Anspruchs oder auf Grund eines infolge des Verbots unwirksamen Rechts nicht im Wege der Zwangsvollstreckung veräußert oder überwiesen werden. Auf Grund des Veräußerungsverbots kann nach Maßgabe des § 771 Widerspruch erhoben werden.
 
-
-## § 773 – Drittwiderspruchsklage des Nacherben
+# § 773 – Drittwiderspruchsklage des Nacherben
 
 Ein Gegenstand, der zu einer Vorerbschaft gehört, soll nicht im Wege der Zwangsvollstreckung veräußert oder überwiesen werden, wenn die Veräußerung oder die Überweisung im Falle des Eintritts der Nacherbfolge nach § 2115 des Bürgerlichen Gesetzbuchs dem Nacherben gegenüber unwirksam ist. Der Nacherbe kann nach Maßgabe des § 771 Widerspruch erheben.
 
-
-## § 774 – Drittwiderspruchsklage des Ehegatten oder Lebenspartners
+# § 774 – Drittwiderspruchsklage des Ehegatten oder Lebenspartners
 
 Findet nach § 741 die Zwangsvollstreckung in das Gesamtgut statt, so kann ein Ehegatte oder Lebenspartner nach Maßgabe des § 771 Widerspruch erheben, wenn das gegen den anderen Ehegatten oder Lebenspartner ergangene Urteil in Ansehung des Gesamtgutes ihm gegenüber unwirksam ist.
 
-
-## § 775 – Einstellung oder Beschränkung der Zwangsvollstreckung
+# § 775 – Einstellung oder Beschränkung der Zwangsvollstreckung
 
 Die Zwangsvollstreckung ist einzustellen oder zu beschränken:
 
@@ -11221,73 +10486,61 @@ Die Zwangsvollstreckung ist einzustellen oder zu beschränken:
 
 5. wenn der Einzahlungs- oder Überweisungsnachweis einer Bank oder Sparkasse vorgelegt wird, aus dem sich ergibt, dass der zur Befriedigung des Gläubigers erforderliche Betrag zur Auszahlung an den Gläubiger oder auf dessen Konto eingezahlt oder überwiesen worden ist.
 
-
-## § 776 – Aufhebung von Vollstreckungsmaßregeln
+# § 776 – Aufhebung von Vollstreckungsmaßregeln
 
 In den Fällen des § 775 Nr. 1, 3 sind zugleich die bereits getroffenen Vollstreckungsmaßregeln aufzuheben. In den Fällen der Nummern 4, 5 bleiben diese Maßregeln einstweilen bestehen; dasselbe gilt in den Fällen der Nummer 2, sofern nicht durch die Entscheidung auch die Aufhebung der bisherigen Vollstreckungshandlungen angeordnet ist.
 
-
-## § 777 – Erinnerung bei genügender Sicherung des Gläubigers
+# § 777 – Erinnerung bei genügender Sicherung des Gläubigers
 
 Hat der Gläubiger eine bewegliche Sache des Schuldners im Besitz, in Ansehung deren ihm ein Pfandrecht oder ein Zurückbehaltungsrecht für seine Forderung zusteht, so kann der Schuldner der Zwangsvollstreckung in sein übriges Vermögen nach § 766 widersprechen, soweit die Forderung durch den Wert der Sache gedeckt ist. Steht dem Gläubiger ein solches Recht in Ansehung der Sache auch für eine andere Forderung zu, so ist der Widerspruch nur zulässig, wenn auch diese Forderung durch den Wert der Sache gedeckt ist.
 
-
-## § 778 – Zwangsvollstreckung vor Erbschaftsannahme
+# § 778 – Zwangsvollstreckung vor Erbschaftsannahme
 
 (1) Solange der Erbe die Erbschaft nicht angenommen hat, ist eine Zwangsvollstreckung wegen eines Anspruchs, der sich gegen den Nachlass richtet, nur in den Nachlass zulässig.
 
 (2) Wegen eigener Verbindlichkeiten des Erben ist eine Zwangsvollstreckung in den Nachlass vor der Annahme der Erbschaft nicht zulässig.
 
-
-## § 779 – Fortsetzung der Zwangsvollstreckung nach dem Tod des Schuldners
+# § 779 – Fortsetzung der Zwangsvollstreckung nach dem Tod des Schuldners
 
 (1) Eine Zwangsvollstreckung, die zur Zeit des Todes des Schuldners gegen ihn bereits begonnen hatte, wird in seinen Nachlass fortgesetzt.
 
 (2) Ist bei einer Vollstreckungshandlung die Zuziehung des Schuldners nötig, so hat, wenn die Erbschaft noch nicht angenommen oder wenn der Erbe unbekannt oder es ungewiss ist, ob er die Erbschaft angenommen hat, das Vollstreckungsgericht auf Antrag des Gläubigers dem Erben einen einstweiligen besonderen Vertreter zu bestellen. Die Bestellung hat zu unterbleiben, wenn ein Nachlasspfleger bestellt ist oder wenn die Verwaltung des Nachlasses einem Testamentsvollstrecker zusteht.
 
-
-## § 780 – Vorbehalt der beschränkten Erbenhaftung
+# § 780 – Vorbehalt der beschränkten Erbenhaftung
 
 (1) Der als Erbe des Schuldners verurteilte Beklagte kann die Beschränkung seiner Haftung nur geltend machen, wenn sie ihm im Urteil vorbehalten ist.
 
 (2) Der Vorbehalt ist nicht erforderlich, wenn der Fiskus als gesetzlicher Erbe verurteilt wird oder wenn das Urteil über eine Nachlassverbindlichkeit gegen einen Nachlassverwalter oder einen anderen Nachlasspfleger oder gegen einen Testamentsvollstrecker, dem die Verwaltung des Nachlasses zusteht, erlassen wird.
 
-
-## § 781 – Beschränkte Erbenhaftung in der Zwangsvollstreckung
+# § 781 – Beschränkte Erbenhaftung in der Zwangsvollstreckung
 
 Bei der Zwangsvollstreckung gegen den Erben des Schuldners bleibt die Beschränkung der Haftung unberücksichtigt, bis auf Grund derselben gegen die Zwangsvollstreckung von dem Erben Einwendungen erhoben werden.
 
-
-## § 782 – Einreden des Erben gegen Nachlassgläubiger
+# § 782 – Einreden des Erben gegen Nachlassgläubiger
 
 Der Erbe kann auf Grund der ihm nach den §§ 2014, 2015 des Bürgerlichen Gesetzbuchs zustehenden Einreden nur verlangen, dass die Zwangsvollstreckung für die Dauer der dort bestimmten Fristen auf solche Maßregeln beschränkt wird, die zur Vollziehung eines Arrestes zulässig sind. Wird vor dem Ablauf der Frist die Eröffnung des Nachlassinsolvenzverfahrens beantragt, so ist auf Antrag die Beschränkung der Zwangsvollstreckung auch nach dem Ablauf der Frist aufrechtzuerhalten, bis über die Eröffnung des Insolvenzverfahrens rechtskräftig entschieden ist.
 
-
-## § 783 – Einreden des Erben gegen persönliche Gläubiger
+# § 783 – Einreden des Erben gegen persönliche Gläubiger
 
 In Ansehung der Nachlassgegenstände kann der Erbe die Beschränkung der Zwangsvollstreckung nach § 782 auch gegenüber den Gläubigern verlangen, die nicht Nachlassgläubiger sind, es sei denn, dass er für die Nachlassverbindlichkeiten unbeschränkt haftet.
 
-
-## § 784 – Zwangsvollstreckung bei Nachlassverwaltung und -insolvenzverfahren
+# § 784 – Zwangsvollstreckung bei Nachlassverwaltung und -insolvenzverfahren
 
 (1) Ist eine Nachlassverwaltung angeordnet oder das Nachlassinsolvenzverfahren eröffnet, so kann der Erbe verlangen, dass Maßregeln der Zwangsvollstreckung, die zugunsten eines Nachlassgläubigers in sein nicht zum Nachlass gehörendes Vermögen erfolgt sind, aufgehoben werden, es sei denn, dass er für die Nachlassverbindlichkeiten unbeschränkt haftet.
 
 (2) Im Falle der Nachlassverwaltung steht dem Nachlassverwalter das gleiche Recht gegenüber Maßregeln der Zwangsvollstreckung zu, die zugunsten eines anderen Gläubigers als eines Nachlassgläubigers in den Nachlass erfolgt sind.
 
-
-## § 785 – Vollstreckungsabwehrklage des Erben
+# § 785 – Vollstreckungsabwehrklage des Erben
 
 Die auf Grund der §§ 781 bis 784 erhobenen Einwendungen werden nach den Vorschriften der §§ 767, 769, 770 erledigt.
 
-
-## § 786 – Vollstreckungsabwehrklage bei beschränkter Haftung
+# § 786 – Vollstreckungsabwehrklage bei beschränkter Haftung
 
 (1) Die Vorschriften des § 780 Abs. 1 und der §§ 781 bis 785 sind auf die nach § 1489 des Bürgerlichen Gesetzbuchs eintretende beschränkte Haftung, die Vorschriften des § 780 Abs. 1 und der §§ 781, 785 sind auf die nach den §§ 1480, 1504, 1629a, 2187 des Bürgerlichen Gesetzbuchs eintretende beschränkte Haftung entsprechend anzuwenden.
 
 (2) Bei der Zwangsvollstreckung aus Urteilen, die bis zum Inkrafttreten des Minderjährigenhaftungsbeschränkungsgesetzes vom 25. August 1998 (BGBl. I S. 2487) am 1. Juli 1999 ergangen sind, kann die Haftungsbeschränkung nach § 1629a des Bürgerlichen Gesetzbuchs auch dann geltend gemacht werden, wenn sie nicht gemäß § 780 Abs. 1 dieses Gesetzes im Urteil vorbehalten ist.
 
-
-## § 786a – See- und binnenschifffahrtsrechtliche Haftungsbeschränkung
+# § 786a – See- und binnenschifffahrtsrechtliche Haftungsbeschränkung
 
 (1) Die Vorschriften des § 780 Abs. 1 und des § 781 sind auf die nach § 611 Absatz 1 oder 3, §§ 612 bis 616 des Handelsgesetzbuchs oder nach den §§ 4 bis 5n des Binnenschifffahrtsgesetzes eintretende beschränkte Haftung entsprechend anzuwenden.
 
@@ -11301,15 +10554,13 @@ Die auf Grund der §§ 781 bis 784 erhobenen Einwendungen werden nach den Vorsch
 
 (3) Ist das Urteil eines ausländischen Gerichts unter dem Vorbehalt ergangen, dass der Beklagte das Recht auf Beschränkung der Haftung geltend machen kann, wenn ein Fonds nach Artikel 11 des Haftungsbeschränkungsübereinkommens oder nach Artikel 12 des Straßburger Übereinkommens vom 27. September 2012 über die Beschränkung der Haftung in der Binnenschifffahrt (CLNI 2012) errichtet worden ist oder bei Geltendmachung des Rechts auf Beschränkung der Haftung errichtet wird, so gelten für die Zwangsvollstreckung wegen des durch das Urteil festgestellten Anspruchs die Vorschriften des Absatzes 2 entsprechend.
 
-
-## § 787 – Zwangsvollstreckung bei herrenlosem Grundstück oder Schiff
+# § 787 – Zwangsvollstreckung bei herrenlosem Grundstück oder Schiff
 
 (1) Soll durch die Zwangsvollstreckung ein Recht an einem Grundstück, das von dem bisherigen Eigentümer nach § 928 des Bürgerlichen Gesetzbuchs aufgegeben und von dem Aneignungsberechtigten noch nicht erworben worden ist, geltend gemacht werden, so hat das Vollstreckungsgericht auf Antrag einen Vertreter zu bestellen, dem bis zur Eintragung eines neuen Eigentümers die Wahrnehmung der sich aus dem Eigentum ergebenden Rechte und Verpflichtungen im Zwangsvollstreckungsverfahren obliegt.
 
 (2) Absatz 1 gilt entsprechend, wenn durch die Zwangsvollstreckung ein Recht an einem eingetragenen Schiff oder Schiffsbauwerk geltend gemacht werden soll, das von dem bisherigen Eigentümer nach § 7 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken vom 15. November 1940 (RGBl. I S. 1499) aufgegeben und von dem Aneignungsberechtigten noch nicht erworben worden ist.
 
-
-## § 788 – Kosten der Zwangsvollstreckung
+# § 788 – Kosten der Zwangsvollstreckung
 
 (1) Die Kosten der Zwangsvollstreckung fallen, soweit sie notwendig waren (§ 91), dem Schuldner zur Last; sie sind zugleich mit dem zur Zwangsvollstreckung stehenden Anspruch beizutreiben. Als Kosten der Zwangsvollstreckung gelten auch die Kosten der Ausfertigung und der Zustellung des Urteils. Soweit mehrere Schuldner als Gesamtschuldner verurteilt worden sind, haften sie auch für die Kosten der Zwangsvollstreckung als Gesamtschuldner; § 100 Abs. 3 und 4 gilt entsprechend.
 
@@ -11319,33 +10570,27 @@ Die auf Grund der §§ 781 bis 784 erhobenen Einwendungen werden nach den Vorsch
 
 (4) Die Kosten eines Verfahrens nach den §§ 765a, 811a, 811b, 829, 850k, 850l, 851a und 851b kann das Gericht ganz oder teilweise dem Gläubiger auferlegen, wenn dies aus besonderen, in dem Verhalten des Gläubigers liegenden Gründen der Billigkeit entspricht.
 
-
-## § 789 – Einschreiten von Behörden
+# § 789 – Einschreiten von Behörden
 
 Wird zum Zwecke der Vollstreckung das Einschreiten einer Behörde erforderlich, so hat das Gericht die Behörde um ihr Einschreiten zu ersuchen.
 
-
-## § 790 – (weggefallen)
+# § 790 – (weggefallen)
 
 \-
 
-
-## § 791
+# § 791
 
 (weggefallen)
 
-
-## § 792 – Erteilung von Urkunden an Gläubiger
+# § 792 – Erteilung von Urkunden an Gläubiger
 
 Bedarf der Gläubiger zum Zwecke der Zwangsvollstreckung eines Erbscheins oder einer anderen Urkunde, die dem Schuldner auf Antrag von einer Behörde, einem Beamten oder einem Notar zu erteilen ist, so kann er die Erteilung an Stelle des Schuldners verlangen.
 
-
-## § 793 – Sofortige Beschwerde
+# § 793 – Sofortige Beschwerde
 
 Gegen Entscheidungen, die im Zwangsvollstreckungsverfahren ohne mündliche Verhandlung ergehen können, findet sofortige Beschwerde statt.
 
-
-## § 794 – Weitere Vollstreckungstitel
+# § 794 – Weitere Vollstreckungstitel
 
 (1) Die Zwangsvollstreckung findet ferner statt:
 
@@ -11353,24 +10598,19 @@ Gegen Entscheidungen, die im Zwangsvollstreckungsverfahren ohne mündliche Verha
 
 2. aus Kostenfestsetzungsbeschlüssen;
 
-2a.  
-(weggefallen)
+2a. (weggefallen)
 
-2b.  
-(weggefallen)
+2b. (weggefallen)
 
 3. aus Entscheidungen, gegen die das Rechtsmittel der Beschwerde stattfindet;
 
-3a.  
-(weggefallen)
+3a. (weggefallen)
 
 4. aus Vollstreckungsbescheiden;
 
-4a.  
-aus Entscheidungen, die Schiedssprüche für vollstreckbar erklären, sofern die Entscheidungen rechtskräftig oder für vorläufig vollstreckbar erklärt sind;
+4a. aus Entscheidungen, die Schiedssprüche für vollstreckbar erklären, sofern die Entscheidungen rechtskräftig oder für vorläufig vollstreckbar erklärt sind;
 
-4b.  
-aus Beschlüssen nach § 796b oder § 796c;
+4b. aus Beschlüssen nach § 796b oder § 796c;
 
 5. aus Urkunden, die von einem deutschen Gericht oder von einem deutschen Notar innerhalb der Grenzen seiner Amtsbefugnisse in der vorgeschriebenen Form aufgenommen sind, sofern die Urkunde über einen Anspruch errichtet ist, der einer vergleichsweisen Regelung zugänglich, nicht auf Abgabe einer Willenserklärung gerichtet ist und nicht den Bestand eines Mietverhältnisses über Wohnraum betrifft, und der Schuldner sich in der Urkunde wegen des zu bezeichnenden Anspruchs der sofortigen Zwangsvollstreckung unterworfen hat;
 
@@ -11384,8 +10624,7 @@ aus Beschlüssen nach § 796b oder § 796c;
 
 (2) Soweit nach den Vorschriften der §§ 737, 743, des § 745 Abs. 2 und des § 748 Abs. 2 die Verurteilung eines Beteiligten zur Duldung der Zwangsvollstreckung erforderlich ist, wird sie dadurch ersetzt, dass der Beteiligte in einer nach Absatz 1 Nr. 5 aufgenommenen Urkunde die sofortige Zwangsvollstreckung in die seinem Recht unterworfenen Gegenstände bewilligt.
 
-
-## § 794a – Zwangsvollstreckung aus Räumungsvergleich
+# § 794a – Zwangsvollstreckung aus Räumungsvergleich
 
 (1) Hat sich der Schuldner in einem Vergleich, aus dem die Zwangsvollstreckung stattfindet, zur Räumung von Wohnraum verpflichtet, so kann ihm das Amtsgericht, in dessen Bezirk der Wohnraum belegen ist, auf Antrag eine den Umständen nach angemessene Räumungsfrist bewilligen. Der Antrag ist spätestens zwei Wochen vor dem Tag, an dem nach dem Vergleich zu räumen ist, zu stellen; §§ 233 bis 238 gelten sinngemäß. Die Entscheidung ergeht durch Beschluss. Vor der Entscheidung ist der Gläubiger zu hören. Das Gericht ist befugt, die im § 732 Abs. 2 bezeichneten Anordnungen zu erlassen.
 
@@ -11397,23 +10636,19 @@ aus Beschlüssen nach § 796b oder § 796c;
 
 (5) Die Absätze 1 bis 4 gelten nicht für Mietverhältnisse über Wohnraum im Sinne des § 549 Abs. 2 Nr. 3 sowie in den Fällen des § 575 des Bürgerlichen Gesetzbuchs. Endet ein Mietverhältnis im Sinne des § 575 des Bürgerlichen Gesetzbuchs durch außerordentliche Kündigung, kann eine Räumungsfrist höchstens bis zum vertraglich bestimmten Zeitpunkt der Beendigung gewährt werden.
 
-
-## § 795 – Anwendung der allgemeinen Vorschriften auf die weiteren Vollstreckungstitel
+# § 795 – Anwendung der allgemeinen Vorschriften auf die weiteren Vollstreckungstitel
 
 Auf die Zwangsvollstreckung aus den in § 794 erwähnten Schuldtiteln sind die Vorschriften der §§ 724 bis 793 entsprechend anzuwenden, soweit nicht in den §§ 795a bis 800, 1079 bis 1086, 1093 bis 1096 und 1107 bis 1117 abweichende Vorschriften enthalten sind. Auf die Zwangsvollstreckung aus den in § 794 Abs. 1 Nr. 2 erwähnten Schuldtiteln ist § 720a entsprechend anzuwenden, wenn die Schuldtitel auf Urteilen beruhen, die nur gegen Sicherheitsleistung vorläufig vollstreckbar sind. Die Vorschriften der in § 794 Absatz 1 Nummer 6 bis 9 genannten Verordnungen bleiben unberührt.
 
-
-## § 795a – Zwangsvollstreckung aus Kostenfestsetzungsbeschluss
+# § 795a – Zwangsvollstreckung aus Kostenfestsetzungsbeschluss
 
 Die Zwangsvollstreckung aus einem Kostenfestsetzungsbeschluss, der nach § 105 auf das Urteil gesetzt ist, erfolgt auf Grund einer vollstreckbaren Ausfertigung des Urteils; einer besonderen Vollstreckungsklausel für den Festsetzungsbeschluss bedarf es nicht.
 
-
-## § 795b – Vollstreckbarerklärung des gerichtlichen Vergleichs
+# § 795b – Vollstreckbarerklärung des gerichtlichen Vergleichs
 
 Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1 Nr. 1) und deren Wirksamkeit ausschließlich vom Eintritt einer sich aus der Verfahrensakte ergebenden Tatsache abhängig ist, wird die Vollstreckungsklausel von dem Urkundsbeamten der Geschäftsstelle des Gerichts des ersten Rechtszugs und, wenn der Rechtsstreit bei einem höheren Gericht anhängig ist, von dem Urkundsbeamten der Geschäftsstelle dieses Gerichts erteilt.
 
-
-## § 796 – Zwangsvollstreckung aus Vollstreckungsbescheiden
+# § 796 – Zwangsvollstreckung aus Vollstreckungsbescheiden
 
 (1) Vollstreckungsbescheide bedürfen der Vollstreckungsklausel nur, wenn die Zwangsvollstreckung für einen anderen als den in dem Bescheid bezeichneten Gläubiger oder gegen einen anderen als den in dem Bescheid bezeichneten Schuldner erfolgen soll.
 
@@ -11421,8 +10656,7 @@ Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1
 
 (3) Für Klagen auf Erteilung der Vollstreckungsklausel sowie für Klagen, durch welche die den Anspruch selbst betreffenden Einwendungen geltend gemacht werden oder der bei der Erteilung der Vollstreckungsklausel als bewiesen angenommene Eintritt der Voraussetzung für die Erteilung der Vollstreckungsklausel bestritten wird, ist das Gericht zuständig, das für eine Entscheidung im Streitverfahren zuständig gewesen wäre.
 
-
-## § 796a – Voraussetzungen für die Vollstreckbarerklärung des Anwaltsvergleichs
+# § 796a – Voraussetzungen für die Vollstreckbarerklärung des Anwaltsvergleichs
 
 (1) Ein von Rechtsanwälten im Namen und mit Vollmacht der von ihnen vertretenen Parteien abgeschlossener Vergleich wird auf Antrag einer Partei für vollstreckbar erklärt, wenn sich der Schuldner darin der sofortigen Zwangsvollstreckung unterworfen hat und der Vergleich unter Angabe des Tages seines Zustandekommens bei einem Amtsgericht niedergelegt ist, bei dem eine der Parteien zur Zeit des Vergleichsabschlusses ihren allgemeinen Gerichtsstand hat.
 
@@ -11430,22 +10664,19 @@ Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1
 
 (3) Die Vollstreckbarerklärung ist abzulehnen, wenn der Vergleich unwirksam ist oder seine Anerkennung gegen die öffentliche Ordnung verstoßen würde.
 
-
-## § 796b – Vollstreckbarerklärung durch das Prozessgericht
+# § 796b – Vollstreckbarerklärung durch das Prozessgericht
 
 (1) Für die Vollstreckbarerklärung nach § 796a Abs. 1 ist das Gericht als Prozessgericht zuständig, das für die gerichtliche Geltendmachung des zu vollstreckenden Anspruchs zuständig wäre.
 
 (2) Vor der Entscheidung über den Antrag auf Vollstreckbarerklärung ist der Gegner zu hören. Die Entscheidung ergeht durch Beschluss. Eine Anfechtung findet nicht statt.
 
-
-## § 796c – Vollstreckbarerklärung durch einen Notar
+# § 796c – Vollstreckbarerklärung durch einen Notar
 
 (1) Mit Zustimmung der Parteien kann ein Vergleich ferner von einem Notar, der seinen Amtssitz im Bezirk eines nach § 796a Abs. 1 zuständigen Gerichts hat, in Verwahrung genommen und für vollstreckbar erklärt werden. Die §§ 796a und 796b gelten entsprechend.
 
 (2) Lehnt der Notar die Vollstreckbarerklärung ab, ist dies zu begründen. Die Ablehnung durch den Notar kann mit dem Antrag auf gerichtliche Entscheidung bei dem nach § 796b Abs. 1 zuständigen Gericht angefochten werden.
 
-
-## § 797 – Verfahren bei vollstreckbaren Urkunden
+# § 797 – Verfahren bei vollstreckbaren Urkunden
 
 (1) Die vollstreckbare Ausfertigung gerichtlicher Urkunden wird von dem Urkundsbeamten der Geschäftsstelle des Gerichts erteilt, das die Urkunde verwahrt.
 
@@ -11459,8 +10690,7 @@ Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1
 
 (6) Auf Beschlüsse nach § 796c sind die Absätze 2 bis 5 entsprechend anzuwenden.
 
-
-## § 797a – Verfahren bei Gütestellenvergleichen
+# § 797a – Verfahren bei Gütestellenvergleichen
 
 (1) Bei Vergleichen, die vor Gütestellen der im § 794 Abs. 1 Nr. 1 bezeichneten Art geschlossen sind, wird die Vollstreckungsklausel von dem Urkundsbeamten der Geschäftsstelle desjenigen Amtsgerichts erteilt, in dessen Bezirk die Gütestelle ihren Sitz hat.
 
@@ -11470,28 +10700,23 @@ Bei Vergleichen, die vor einem deutschen Gericht geschlossen sind (§ 794 Abs. 1
 
 (4) Die Landesjustizverwaltung kann Vorsteher von Gütestellen ermächtigen, die Vollstreckungsklausel für Vergleiche zu erteilen, die vor der Gütestelle geschlossen sind. Die Ermächtigung erstreckt sich nicht auf die Fälle des § 726 Abs. 1, der §§ 727 bis 729 und des § 733. Über Einwendungen, welche die Zulässigkeit der Vollstreckungsklausel betreffen, entscheidet das im Absatz 1 bezeichnete Gericht.
 
-
-## § 798 – Wartefrist
+# § 798 – Wartefrist
 
 Aus einem Kostenfestsetzungsbeschluss, der nicht auf das Urteil gesetzt ist, aus Beschlüssen nach § 794 Abs. 1 Nr. 4b sowie aus den nach § 794 Abs. 1 Nr. 5 aufgenommenen Urkunden darf die Zwangsvollstreckung nur beginnen, wenn der Schuldtitel mindestens zwei Wochen vorher zugestellt ist.
 
-
-## § 798a – (weggefallen)
+# § 798a – (weggefallen)
 
 \-
 
-
-## § 799 – Vollstreckbare Urkunde bei Rechtsnachfolge
+# § 799 – Vollstreckbare Urkunde bei Rechtsnachfolge
 
 Hat sich der Eigentümer eines mit einer Hypothek, einer Grundschuld oder einer Rentenschuld belasteten Grundstücks in einer nach § 794 Abs. 1 Nr. 5 aufgenommenen Urkunde der sofortigen Zwangsvollstreckung unterworfen und ist dem Rechtsnachfolger des Gläubigers eine vollstreckbare Ausfertigung erteilt, so ist die Zustellung der die Rechtsnachfolge nachweisenden öffentlichen oder öffentlich beglaubigten Urkunde nicht erforderlich, wenn der Rechtsnachfolger als Gläubiger im Grundbuch eingetragen ist.
 
-
-## § 799a – Schadensersatzpflicht bei derVollstreckung aus Urkunden durch andere Gläubiger
+# § 799a – Schadensersatzpflicht bei derVollstreckung aus Urkunden durch andere Gläubiger
 
 Hat sich der Eigentümer eines Grundstücks in Ansehung einer Hypothek oder Grundschuld in einer Urkunde nach § 794 Abs. 1 Nr. 5 der sofortigen Zwangsvollstreckung in das Grundstück unterworfen und betreibt ein anderer als der in der Urkunde bezeichnete Gläubiger die Vollstreckung, so ist dieser, soweit die Vollstreckung aus der Urkunde für unzulässig erklärt wird, dem Schuldner zum Ersatz des Schadens verpflichtet, der diesem durch die Vollstreckung aus der Urkunde oder durch eine zur Abwendung der Vollstreckung erbrachte Leistung entsteht. Satz 1 gilt entsprechend, wenn sich der Schuldner wegen der Forderungen, zu deren Sicherung das Grundpfandrecht bestellt worden ist, oder wegen der Forderung aus einem demselben Zweck dienenden Schuldanerkenntnis der sofortigen Vollstreckung in sein Vermögen unterworfen hat.
 
-
-## § 800 – Vollstreckbare Urkunde gegen den jeweiligen Grundstückseigentümer
+# § 800 – Vollstreckbare Urkunde gegen den jeweiligen Grundstückseigentümer
 
 (1) Der Eigentümer kann sich in einer nach § 794 Abs. 1 Nr. 5 aufgenommenen Urkunde in Ansehung einer Hypothek, einer Grundschuld oder einer Rentenschuld der sofortigen Zwangsvollstreckung in der Weise unterwerfen, dass die Zwangsvollstreckung aus der Urkunde gegen den jeweiligen Eigentümer des Grundstücks zulässig sein soll. Die Unterwerfung bedarf in diesem Fall der Eintragung in das Grundbuch.
 
@@ -11499,27 +10724,23 @@ Hat sich der Eigentümer eines Grundstücks in Ansehung einer Hypothek oder Grun
 
 (3) Ist die sofortige Zwangsvollstreckung gegen den jeweiligen Eigentümer zulässig, so ist für die im § 797 Abs. 5 bezeichneten Klagen das Gericht zuständig, in dessen Bezirk das Grundstück belegen ist.
 
-
-## § 800a – Vollstreckbare Urkunde bei Schiffshypothek
+# § 800a – Vollstreckbare Urkunde bei Schiffshypothek
 
 (1) Die Vorschriften der §§ 799, 800 gelten für eingetragene Schiffe und Schiffsbauwerke, die mit einer Schiffshypothek belastet sind, entsprechend.
 
 (2) Ist die sofortige Zwangsvollstreckung gegen den jeweiligen Eigentümer zulässig, so ist für die im § 797 Abs. 5 bezeichneten Klagen das Gericht zuständig, in dessen Bezirk das Register für das Schiff oder das Schiffsbauwerk geführt wird.
 
-
-## § 801 – Landesrechtliche Vollstreckungstitel
+# § 801 – Landesrechtliche Vollstreckungstitel
 
 (1) Die Landesgesetzgebung ist nicht gehindert, auf Grund anderer als der in den §§ 704, 794 bezeichneten Schuldtitel die gerichtliche Zwangsvollstreckung zuzulassen und insoweit von diesem Gesetz abweichende Vorschriften über die Zwangsvollstreckung zu treffen.
 
 (2) Aus landesrechtlichen Schuldtiteln im Sinne des Absatzes 1 kann im gesamten Bundesgebiet vollstreckt werden.
 
-
-## § 802 – Ausschließlichkeit der Gerichtsstände
+# § 802 – Ausschließlichkeit der Gerichtsstände
 
 Die in diesem Buch angeordneten Gerichtsstände sind ausschließliche.
 
-
-## § 802a – Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
+# § 802a – Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers
 
 (1) Der Gerichtsvollzieher wirkt auf eine zügige, vollständige und Kosten sparende Beitreibung von Geldforderungen hin.
 
@@ -11537,8 +10758,7 @@ Die in diesem Buch angeordneten Gerichtsstände sind ausschließliche.
 
 Die Maßnahmen sind in dem Vollstreckungsauftrag zu bezeichnen, die Maßnahme nach Satz 1 Nr. 1 jedoch nur dann, wenn sich der Auftrag hierauf beschränkt.
 
-
-## § 802b – Gütliche Erledigung; Vollstreckungsaufschub bei Zahlungsvereinbarung
+# § 802b – Gütliche Erledigung; Vollstreckungsaufschub bei Zahlungsvereinbarung
 
 (1) Der Gerichtsvollzieher soll in jeder Lage des Verfahrens auf eine gütliche Erledigung bedacht sein.
 
@@ -11546,8 +10766,7 @@ Die Maßnahmen sind in dem Vollstreckungsauftrag zu bezeichnen, die Maßnahme na
 
 (3) Der Gerichtsvollzieher unterrichtet den Gläubiger unverzüglich über den gemäß Absatz 2 festgesetzten Zahlungsplan und den Vollstreckungsaufschub. Widerspricht der Gläubiger unverzüglich, so wird der Zahlungsplan mit der Unterrichtung des Schuldners hinfällig; zugleich endet der Vollstreckungsaufschub. Dieselben Wirkungen treten ein, wenn der Schuldner mit einer festgesetzten Zahlung ganz oder teilweise länger als zwei Wochen in Rückstand gerät.
 
-
-## § 802c – Vermögensauskunft des Schuldners
+# § 802c – Vermögensauskunft des Schuldners
 
 (1) Der Schuldner ist verpflichtet, zum Zwecke der Vollstreckung einer Geldforderung auf Verlangen des Gerichtsvollziehers Auskunft über sein Vermögen nach Maßgabe der folgenden Vorschriften zu erteilen sowie seinen Geburtsnamen, sein Geburtsdatum und seinen Geburtsort anzugeben. Handelt es sich bei dem Vollstreckungsschuldner um eine juristische Person oder um eine Personenvereinigung, so hat er seine Firma, die Nummer des Registerblatts im Handelsregister und seinen Sitz anzugeben.
 
@@ -11561,22 +10780,19 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 (3) Der Schuldner hat zu Protokoll an Eides statt zu versichern, dass er die Angaben nach den Absätzen 1 und 2 nach bestem Wissen und Gewissen richtig und vollständig gemacht habe. Die Vorschriften der §§ 478 bis 480, 483 gelten entsprechend.
 
-
-## § 802d – Erneute Vermögensauskunft
+# § 802d – Erneute Vermögensauskunft
 
 (1) Ein Schuldner, der die Vermögensauskunft nach § 802c dieses Gesetzes oder nach § 284 der Abgabenordnung innerhalb der letzten zwei Jahre abgegeben hat, ist zur erneuten Abgabe nur verpflichtet, wenn ein Gläubiger Tatsachen glaubhaft macht, die auf eine wesentliche Veränderung der Vermögensverhältnisse des Schuldners schließen lassen. Andernfalls leitet der Gerichtsvollzieher dem Gläubiger einen Ausdruck des letzten abgegebenen Vermögensverzeichnisses zu; ein Verzicht des Gläubigers auf die Zuleitung ist unbeachtlich. Der Gläubiger darf die erlangten Daten nur zu Vollstreckungszwecken verarbeiten und hat die Daten nach Zweckerreichung zu löschen; hierauf ist er vom Gerichtsvollzieher hinzuweisen. Von der Zuleitung eines Ausdrucks nach Satz 2 setzt der Gerichtsvollzieher den Schuldner in Kenntnis und belehrt ihn über die Möglichkeit der Eintragung in das Schuldnerverzeichnis (§ 882c).
 
 (2) Anstelle der Zuleitung eines Ausdrucks kann dem Gläubiger auf Antrag das Vermögensverzeichnis als elektronisches Dokument übermittelt werden, wenn dieses mit einer qualifizierten elektronischen Signatur versehen und gegen unbefugte Kenntnisnahme geschützt ist.
 
-
-## § 802e – Zuständigkeit
+# § 802e – Zuständigkeit
 
 (1) Für die Abnahme der Vermögensauskunft und der eidesstattlichen Versicherung ist der Gerichtsvollzieher bei dem Amtsgericht zuständig, in dessen Bezirk der Schuldner im Zeitpunkt der Auftragserteilung seinen Wohnsitz oder in Ermangelung eines solchen seinen Aufenthaltsort hat.
 
 (2) Ist der angegangene Gerichtsvollzieher nicht zuständig, so leitet er die Sache auf Antrag des Gläubigers an den zuständigen Gerichtsvollzieher weiter.
 
-
-## § 802f – Verfahren zur Abnahme der Vermögensauskunft
+# § 802f – Verfahren zur Abnahme der Vermögensauskunft
 
 (1) Zur Abnahme der Vermögensauskunft setzt der Gerichtsvollzieher dem Schuldner für die Begleichung der Forderung eine Frist von zwei Wochen. Zugleich bestimmt er für den Fall, dass die Forderung nach Fristablauf nicht vollständig beglichen ist, einen Termin zur Abgabe der Vermögensauskunft alsbald nach Fristablauf und lädt den Schuldner zu diesem Termin in seine Geschäftsräume. Der Schuldner hat die zur Abgabe der Vermögensauskunft erforderlichen Unterlagen im Termin beizubringen. Der Fristsetzung nach Satz 1 bedarf es nicht, wenn der Gerichtsvollzieher den Schuldner bereits zuvor zur Zahlung aufgefordert hat und seit dieser Aufforderung zwei Wochen verstrichen sind, ohne dass die Aufforderung Erfolg hatte.
 
@@ -11590,22 +10806,19 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 (6) Der Gerichtsvollzieher hinterlegt das Vermögensverzeichnis bei dem zentralen Vollstreckungsgericht nach § 802k Abs. 1 und leitet dem Gläubiger unverzüglich einen Ausdruck zu. Der Ausdruck muss den Vermerk enthalten, dass er mit dem Inhalt des Vermögensverzeichnisses übereinstimmt; § 802d Abs. 1 Satz 3 und Abs. 2 gilt entsprechend.
 
-
-## § 802g – Erzwingungshaft
+# § 802g – Erzwingungshaft
 
 (1) Auf Antrag des Gläubigers erlässt das Gericht gegen den Schuldner, der dem Termin zur Abgabe der Vermögensauskunft unentschuldigt fernbleibt oder die Abgabe der Vermögensauskunft gemäß § 802c ohne Grund verweigert, zur Erzwingung der Abgabe einen Haftbefehl. In dem Haftbefehl sind der Gläubiger, der Schuldner und der Grund der Verhaftung zu bezeichnen. Einer Zustellung des Haftbefehls vor seiner Vollziehung bedarf es nicht.
 
 (2) Die Verhaftung des Schuldners erfolgt durch einen Gerichtsvollzieher. Der Gerichtsvollzieher händigt dem Schuldner von Amts wegen bei der Verhaftung eine beglaubigte Abschrift des Haftbefehls aus.
 
-
-## § 802h – Unzulässigkeit der Haftvollstreckung
+# § 802h – Unzulässigkeit der Haftvollstreckung
 
 (1) Die Vollziehung des Haftbefehls ist unstatthaft, wenn seit dem Tag, an dem der Haftbefehl erlassen wurde, zwei Jahre vergangen sind.
 
 (2) Gegen einen Schuldner, dessen Gesundheit durch die Vollstreckung der Haft einer nahen und erheblichen Gefahr ausgesetzt würde, darf, solange dieser Zustand dauert, die Haft nicht vollstreckt werden.
 
-
-## § 802i – Vermögensauskunft des verhafteten Schuldners
+# § 802i – Vermögensauskunft des verhafteten Schuldners
 
 (1) Der verhaftete Schuldner kann zu jeder Zeit bei dem Gerichtsvollzieher des Amtsgerichts des Haftortes verlangen, ihm die Vermögensauskunft abzunehmen. Dem Verlangen ist unverzüglich stattzugeben; § 802f Abs. 5 gilt entsprechend. Dem Gläubiger wird die Teilnahme ermöglicht, wenn er dies beantragt hat und seine Teilnahme nicht zu einer Verzögerung der Abnahme führt.
 
@@ -11613,8 +10826,7 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 (3) Kann der Schuldner vollständige Angaben nicht machen, weil er die erforderlichen Unterlagen nicht bei sich hat, so kann der Gerichtsvollzieher einen neuen Termin bestimmen und die Vollziehung des Haftbefehls bis zu diesem Termin aussetzen. § 802f gilt entsprechend; der Setzung einer Zahlungsfrist bedarf es nicht.
 
-
-## § 802j – Dauer der Haft; erneute Haft
+# § 802j – Dauer der Haft; erneute Haft
 
 (1) Die Haft darf die Dauer von sechs Monaten nicht übersteigen. Nach Ablauf der sechs Monate wird der Schuldner von Amts wegen aus der Haft entlassen.
 
@@ -11622,8 +10834,7 @@ Sachen, die nach § 811 Abs. 1 Nr. 1 und 2 der Pfändung offensichtlich nicht un
 
 (3) Ein Schuldner, gegen den wegen Verweigerung der Abgabe der Vermögensauskunft eine Haft von sechs Monaten vollstreckt ist, kann innerhalb der folgenden zwei Jahre auch auf Antrag eines anderen Gläubigers nur unter den Voraussetzungen des § 802d von neuem zur Abgabe einer solchen Vermögensauskunft durch Haft angehalten werden.
 
-
-## § 802k – Zentrale Verwaltung der Vermögensverzeichnisse
+# § 802k – Zentrale Verwaltung der Vermögensverzeichnisse
 
 (1) Nach § 802f Abs. 6 dieses Gesetzes oder nach § 284 Abs. 7 Satz 4 der Abgabenordnung zu hinterlegende Vermögensverzeichnisse werden landesweit von einem zentralen Vollstreckungsgericht in elektronischer Form verwaltet. Die Vermögensverzeichnisse können über eine zentrale und länderübergreifende Abfrage im Internet eingesehen und abgerufen werden. Gleiches gilt für Vermögensverzeichnisse, die auf Grund einer § 284 Abs. 1 bis 7 der Abgabenordnung gleichwertigen bundesgesetzlichen oder landesgesetzlichen Regelung errichtet wurden, soweit diese Regelung die Hinterlegung anordnet. Ein Vermögensverzeichnis nach Satz 1 oder Satz 2 ist nach Ablauf von zwei Jahren seit Abgabe der Auskunft oder bei Eingang eines neuen Vermögensverzeichnisses zu löschen.
 
@@ -11651,8 +10862,7 @@ Zur Einsicht befugt sind ferner Vollstreckungsgerichte, Insolvenzgerichte und Re
 
 (5) Macht eine betroffene Person das Auskunftsrecht nach Artikel 15 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in Bezug auf personenbezogene Daten geltend, die in den von den zentralen Vollstreckungsgerichten nach Absatz 1 verwalteten Vermögensverzeichnissen enthalten sind, so sind der betroffenen Person im Hinblick auf die Empfänger, denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, nur die Kategorien berechtigter Empfänger mitzuteilen. Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU) 2016/679 findet in Bezug auf die personenbezogenen Daten, die in den von den zentralen Vollstreckungsgerichten nach Absatz 1 verwalteten Vermögensverzeichnissen enthalten sind, keine Anwendung.
 
-
-## § 802l – Auskunftsrechte des Gerichtsvollziehers
+# § 802l – Auskunftsrechte des Gerichtsvollziehers
 
 (1) Kommt der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft nicht nach oder ist bei einer Vollstreckung in die dort aufgeführten Vermögensgegenstände eine vollständige Befriedigung des Gläubigers voraussichtlich nicht zu erwarten, so darf der Gerichtsvollzieher
 
@@ -11672,15 +10882,13 @@ Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur Vollstreckung 
 
 (5) Übermittelt der Gerichtsvollzieher Daten nach Absatz 4 Satz 1 an einen weiteren Gläubiger, so hat er den Schuldner davon innerhalb von vier Wochen nach der Übermittlung in Kenntnis zu setzen; § 802d Absatz 1 Satz 3 und Absatz 2 gilt entsprechend.
 
-
-## § 803 – Pfändung
+# § 803 – Pfändung
 
 (1) Die Zwangsvollstreckung in das bewegliche Vermögen erfolgt durch Pfändung. Sie darf nicht weiter ausgedehnt werden, als es zur Befriedigung des Gläubigers und zur Deckung der Kosten der Zwangsvollstreckung erforderlich ist.
 
 (2) Die Pfändung hat zu unterbleiben, wenn sich von der Verwertung der zu pfändenden Gegenstände ein Überschuss über die Kosten der Zwangsvollstreckung nicht erwarten lässt.
 
-
-## § 804 – Pfändungspfandrecht
+# § 804 – Pfändungspfandrecht
 
 (1) Durch die Pfändung erwirbt der Gläubiger ein Pfandrecht an dem gepfändeten Gegenstande.
 
@@ -11688,8 +10896,7 @@ Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur Vollstreckung 
 
 (3) Das durch eine frühere Pfändung begründete Pfandrecht geht demjenigen vor, das durch eine spätere Pfändung begründet wird.
 
-
-## § 805 – Klage auf vorzugsweise Befriedigung
+# § 805 – Klage auf vorzugsweise Befriedigung
 
 (1) Der Pfändung einer Sache kann ein Dritter, der sich nicht im Besitz der Sache befindet, auf Grund eines Pfand- oder Vorzugsrechts nicht widersprechen; er kann jedoch seinen Anspruch auf vorzugsweise Befriedigung aus dem Erlös im Wege der Klage geltend machen, ohne Rücksicht darauf, ob seine Forderung fällig ist oder nicht.
 
@@ -11699,23 +10906,19 @@ Die Erhebung oder das Ersuchen ist nur zulässig, soweit dies zur Vollstreckung 
 
 (4) Wird der Anspruch glaubhaft gemacht, so hat das Gericht die Hinterlegung des Erlöses anzuordnen. Die Vorschriften der §§ 769, 770 sind hierbei entsprechend anzuwenden.
 
-
-## § 806 – Keine Gewährleistung bei Pfandveräußerung
+# § 806 – Keine Gewährleistung bei Pfandveräußerung
 
 Wird ein Gegenstand auf Grund der Pfändung veräußert, so steht dem Erwerber wegen eines Mangels im Recht oder wegen eines Mangels der veräußerten Sache ein Anspruch auf Gewährleistung nicht zu.
 
-
-## § 806a – Mitteilungen und Befragung durch den Gerichtsvollzieher
+# § 806a – Mitteilungen und Befragung durch den Gerichtsvollzieher
 
 (1) Erhält der Gerichtsvollzieher anlässlich der Zwangsvollstreckung durch Befragung des Schuldners oder durch Einsicht in Dokumente Kenntnis von Geldforderungen des Schuldners gegen Dritte und konnte eine Pfändung nicht bewirkt werden oder wird eine bewirkte Pfändung voraussichtlich nicht zur vollständigen Befriedigung des Gläubigers führen, so teilt er Namen und Anschriften der Drittschuldner sowie den Grund der Forderungen und für diese bestehende Sicherheiten dem Gläubiger mit.
 
 (2) Trifft der Gerichtsvollzieher den Schuldner in der Wohnung nicht an und konnte eine Pfändung nicht bewirkt werden oder wird eine bewirkte Pfändung voraussichtlich nicht zur vollständigen Befriedigung des Gläubigers führen, so kann der Gerichtsvollzieher die zum Hausstand des Schuldners gehörenden erwachsenen Personen nach dem Arbeitgeber des Schuldners befragen. Diese sind zu einer Auskunft nicht verpflichtet und vom Gerichtsvollzieher auf die Freiwilligkeit ihrer Angaben hinzuweisen. Seine Erkenntnisse teilt der Gerichtsvollzieher dem Gläubiger mit.
 
+# § 806b – (weggefallen)
 
-## § 806b – (weggefallen)
-
-
-## § 807 – Abnahme der Vermögensauskunft nach Pfändungsversuch
+# § 807 – Abnahme der Vermögensauskunft nach Pfändungsversuch
 
 (1) Hat der Gläubiger die Vornahme der Pfändung beim Schuldner beantragt und
 
@@ -11727,8 +10930,7 @@ so kann der Gerichtsvollzieher dem Schuldner die Vermögensauskunft auf Antrag d
 
 (2) Der Schuldner kann einer sofortigen Abnahme widersprechen. In diesem Fall verfährt der Gerichtsvollzieher nach § 802f; der Setzung einer Zahlungsfrist bedarf es nicht.
 
-
-## § 808 – Pfändung beim Schuldner
+# § 808 – Pfändung beim Schuldner
 
 (1) Die Pfändung der im Gewahrsam des Schuldners befindlichen körperlichen Sachen wird dadurch bewirkt, dass der Gerichtsvollzieher sie in Besitz nimmt.
 
@@ -11736,20 +10938,17 @@ so kann der Gerichtsvollzieher dem Schuldner die Vermögensauskunft auf Antrag d
 
 (3) Der Gerichtsvollzieher hat den Schuldner von der erfolgten Pfändung in Kenntnis zu setzen.
 
-
-## § 809 – Pfändung beim Gläubiger oder bei Dritten
+# § 809 – Pfändung beim Gläubiger oder bei Dritten
 
 Die vorstehenden Vorschriften sind auf die Pfändung von Sachen, die sich im Gewahrsam des Gläubigers oder eines zur Herausgabe bereiten Dritten befinden, entsprechend anzuwenden.
 
-
-## § 810 – Pfändung ungetrennter Früchte
+# § 810 – Pfändung ungetrennter Früchte
 
 (1) Früchte, die von dem Boden noch nicht getrennt sind, können gepfändet werden, solange nicht ihre Beschlagnahme im Wege der Zwangsvollstreckung in das unbewegliche Vermögen erfolgt ist. Die Pfändung darf nicht früher als einen Monat vor der gewöhnlichen Zeit der Reife erfolgen.
 
 (2) Ein Gläubiger, der ein Recht auf Befriedigung aus dem Grundstück hat, kann der Pfändung nach Maßgabe des § 771 widersprechen, sofern nicht die Pfändung für einen im Falle der Zwangsvollstreckung in das Grundstück vorgehenden Anspruch erfolgt ist.
 
-
-## § 811 – Unpfändbare Sachen
+# § 811 – Unpfändbare Sachen
 
 (1) Folgende Sachen sind der Pfändung nicht unterworfen:
 
@@ -11761,8 +10960,7 @@ Die vorstehenden Vorschriften sind auf die Pfändung von Sachen, die sich im Gew
 
 4. bei Personen, die Landwirtschaft betreiben, das zum Wirtschaftsbetrieb erforderliche Gerät und Vieh nebst dem nötigen Dünger sowie die landwirtschaftlichen Erzeugnisse, soweit sie zur Sicherung des Unterhalts des Schuldners, seiner Familie und seiner Arbeitnehmer oder zur Fortführung der Wirtschaft bis zur nächsten Ernte gleicher oder ähnlicher Erzeugnisse erforderlich sind;
 
-4a.  
-bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als Vergütung gelieferten Naturalien, soweit der Schuldner ihrer zu seinem und seiner Familie Unterhalt bedarf;
+4a. bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als Vergütung gelieferten Naturalien, soweit der Schuldner ihrer zu seinem und seiner Familie Unterhalt bedarf;
 
 5. bei Personen, die aus ihrer körperlichen oder geistigen Arbeit oder sonstigen persönlichen Leistungen ihren Erwerb ziehen, die zur Fortsetzung dieser Erwerbstätigkeit erforderlichen Gegenstände;
 
@@ -11784,8 +10982,7 @@ bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als Vergütung gel
 
 (2) Eine in Absatz 1 Nr. 1, 4, 5 bis 7 bezeichnete Sache kann gepfändet werden, wenn der Verkäufer wegen einer durch Eigentumsvorbehalt gesicherten Geldforderung aus ihrem Verkauf vollstreckt. Die Vereinbarung des Eigentumsvorbehaltes ist durch Urkunden nachzuweisen.
 
-
-## § 811a – Austauschpfändung
+# § 811a – Austauschpfändung
 
 (1) Die Pfändung einer nach § 811 Abs. 1 Nr. 1, 5 und 6 unpfändbaren Sache kann zugelassen werden, wenn der Gläubiger dem Schuldner vor der Wegnahme der Sache ein Ersatzstück, das dem geschützten Verwendungszweck genügt, oder den zur Beschaffung eines solchen Ersatzstückes erforderlichen Geldbetrag überlässt; ist dem Gläubiger die rechtzeitige Ersatzbeschaffung nicht möglich oder nicht zuzumuten, so kann die Pfändung mit der Maßgabe zugelassen werden, dass dem Schuldner der zur Ersatzbeschaffung erforderliche Geldbetrag aus dem Vollstreckungserlös überlassen wird (Austauschpfändung).
 
@@ -11795,8 +10992,7 @@ bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als Vergütung gel
 
 (4) Bei der Austauschpfändung nach Absatz 1 Halbsatz 2 ist die Wegnahme der gepfändeten Sache erst nach Rechtskraft des Zulassungsbeschlusses zulässig.
 
-
-## § 811b – Vorläufige Austauschpfändung
+# § 811b – Vorläufige Austauschpfändung
 
 (1) Ohne vorgängige Entscheidung des Gerichts ist eine vorläufige Austauschpfändung zulässig, wenn eine Zulassung durch das Gericht zu erwarten ist. Der Gerichtsvollzieher soll die Austauschpfändung nur vornehmen, wenn zu erwarten ist, dass der Vollstreckungserlös den Wert des Ersatzstückes erheblich übersteigen wird.
 
@@ -11806,27 +11002,23 @@ bei Arbeitnehmern in landwirtschaftlichen Betrieben die ihnen als Vergütung gel
 
 (4) Die Übergabe des Ersatzstückes oder des zu seiner Beschaffung erforderlichen Geldbetrages an den Schuldner und die Fortsetzung der Zwangsvollstreckung erfolgen erst nach Erlass des Beschlusses gemäß § 811a Abs. 2 auf Anweisung des Gläubigers. § 811a Abs. 4 gilt entsprechend.
 
-
-## § 811c – Unpfändbarkeit von Haustieren
+# § 811c – Unpfändbarkeit von Haustieren
 
 (1) Tiere, die im häuslichen Bereich und nicht zu Erwerbszwecken gehalten werden, sind der Pfändung nicht unterworfen.
 
 (2) Auf Antrag des Gläubigers lässt das Vollstreckungsgericht eine Pfändung wegen des hohen Wertes des Tieres zu, wenn die Unpfändbarkeit für den Gläubiger eine Härte bedeuten würde, die auch unter Würdigung der Belange des Tierschutzes und der berechtigten Interessen des Schuldners nicht zu rechtfertigen ist.
 
-
-## § 811d – Vorwegpfändung
+# § 811d – Vorwegpfändung
 
 (1) Ist zu erwarten, dass eine Sache demnächst pfändbar wird, so kann sie gepfändet werden, ist aber im Gewahrsam des Schuldners zu belassen. Die Vollstreckung darf erst fortgesetzt werden, wenn die Sache pfändbar geworden ist.
 
 (2) Die Pfändung ist aufzuheben, wenn die Sache nicht binnen eines Jahres pfändbar geworden ist.
 
-
-## § 812 – Pfändung von Hausrat
+# § 812 – Pfändung von Hausrat
 
 Gegenstände, die zum gewöhnlichen Hausrat gehören und im Haushalt des Schuldners gebraucht werden, sollen nicht gepfändet werden, wenn ohne weiteres ersichtlich ist, dass durch ihre Verwertung nur ein Erlös erzielt werden würde, der zu dem Wert außer allem Verhältnis steht.
 
-
-## § 813 – Schätzung
+# § 813 – Schätzung
 
 (1) Die gepfändeten Sachen sollen bei der Pfändung auf ihren gewöhnlichen Verkaufswert geschätzt werden. Die Schätzung des Wertes von Kostbarkeiten soll einem Sachverständigen übertragen werden. In anderen Fällen kann das Vollstreckungsgericht auf Antrag des Gläubigers oder des Schuldners die Schätzung durch einen Sachverständigen anordnen.
 
@@ -11836,14 +11028,11 @@ Gegenstände, die zum gewöhnlichen Hausrat gehören und im Haushalt des Schuldn
 
 (4) Die Landesjustizverwaltung kann bestimmen, dass auch in anderen Fällen ein Sachverständiger zugezogen werden soll.
 
+# § 813a – (weggefallen)
 
-## § 813a – (weggefallen)
+# § 813b – (weggefallen)
 
-
-## § 813b – (weggefallen)
-
-
-## § 814 – Öffentliche Versteigerung
+# § 814 – Öffentliche Versteigerung
 
 (1) Die gepfändeten Sachen sind von dem Gerichtsvollzieher öffentlich zu versteigern; Kostbarkeiten sind vor der Versteigerung durch einen Sachverständigen abzuschätzen.\*)
 
@@ -11875,8 +11064,7 @@ Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwalt
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 815 – Gepfändetes Geld
+# § 815 – Gepfändetes Geld
 
 (1) Gepfändetes Geld ist dem Gläubiger abzuliefern.
 
@@ -11884,8 +11072,7 @@ Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwalt
 
 (3) Die Wegnahme des Geldes durch den Gerichtsvollzieher gilt als Zahlung von Seiten des Schuldners, sofern nicht nach Absatz 2 oder nach § 720 die Hinterlegung zu erfolgen hat.
 
-
-## § 816 – Zeit und Ort der Versteigerung
+# § 816 – Zeit und Ort der Versteigerung
 
 (1) Die Versteigerung der gepfändeten Sachen darf nicht vor Ablauf einer Woche seit dem Tag der Pfändung geschehen, sofern nicht der Gläubiger und der Schuldner über eine frühere Versteigerung sich einigen oder diese erforderlich ist, um die Gefahr einer beträchtlichen Wertverringerung der zu versteigernden Sache abzuwenden oder um unverhältnismäßige Kosten einer längeren Aufbewahrung zu vermeiden.
 
@@ -11897,8 +11084,7 @@ Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwalt
 
 (5) Die Absätze 2 und 3 gelten nicht bei einer Versteigerung im Internet.
 
-
-## § 817 – Zuschlag und Ablieferung
+# § 817 – Zuschlag und Ablieferung
 
 (1) Bei der Versteigerung vor Ort soll dem Zuschlag an den Meistbietenden ein dreimaliger Aufruf vorausgehen. Bei einer Versteigerung im Internet ist der Zuschlag der Person erteilt, die am Ende der Versteigerung das höchste, wenigstens das nach § 817a Absatz 1 Satz 1 zu erreichende Mindestgebot abgegeben hat; sie ist von dem Zuschlag zu benachrichtigen. § 156 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
@@ -11908,8 +11094,7 @@ Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwalt
 
 (4) Wird der Zuschlag dem Gläubiger erteilt, so ist dieser von der Verpflichtung zur baren Zahlung so weit befreit, als der Erlös nach Abzug der Kosten der Zwangsvollstreckung zu seiner Befriedigung zu verwenden ist, sofern nicht dem Schuldner nachgelassen ist, durch Sicherheitsleistung oder durch Hinterlegung die Vollstreckung abzuwenden. Soweit der Gläubiger von der Verpflichtung zur baren Zahlung befreit ist, gilt der Betrag als von dem Schuldner an den Gläubiger gezahlt.
 
-
-## § 817a – Mindestgebot
+# § 817a – Mindestgebot
 
 (1) Der Zuschlag darf nur auf ein Gebot erteilt werden, das mindestens die Hälfte des gewöhnlichen Verkaufswertes der Sache erreicht (Mindestgebot). Der gewöhnliche Verkaufswert und das Mindestgebot sollen bei dem Ausbieten bekannt gegeben werden.
 
@@ -11917,50 +11102,41 @@ Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwalt
 
 (3) Gold- und Silbersachen dürfen auch nicht unter ihrem Gold- oder Silberwert zugeschlagen werden. Wird ein den Zuschlag gestattendes Gebot nicht abgegeben, so kann der Gerichtsvollzieher den Verkauf aus freier Hand zu dem Preise bewirken, der den Gold- oder Silberwert erreicht, jedoch nicht unter der Hälfte des gewöhnlichen Verkaufswertes.
 
-
-## § 818 – Einstellung der Versteigerung
+# § 818 – Einstellung der Versteigerung
 
 Die Versteigerung wird eingestellt, sobald der Erlös zur Befriedigung des Gläubigers und zur Deckung der Kosten der Zwangsvollstreckung hinreicht.
 
-
-## § 819 – Wirkung des Erlösempfanges
+# § 819 – Wirkung des Erlösempfanges
 
 Die Empfangnahme des Erlöses durch den Gerichtsvollzieher gilt als Zahlung von Seiten des Schuldners, sofern nicht dem Schuldner nachgelassen ist, durch Sicherheitsleistung oder durch Hinterlegung die Vollstreckung abzuwenden.
 
-
-## § 820
+# § 820
 
 (weggefallen)
 
-
-## § 821 – Verwertung von Wertpapieren
+# § 821 – Verwertung von Wertpapieren
 
 Gepfändete Wertpapiere sind, wenn sie einen Börsen- oder Marktpreis haben, von dem Gerichtsvollzieher aus freier Hand zum Tageskurs zu verkaufen und, wenn sie einen solchen Preis nicht haben, nach den allgemeinen Bestimmungen zu versteigern.
 
-
-## § 822 – Umschreibung von Namenspapieren
+# § 822 – Umschreibung von Namenspapieren
 
 Lautet ein Wertpapier auf Namen, so kann der Gerichtsvollzieher durch das Vollstreckungsgericht ermächtigt werden, die Umschreibung auf den Namen des Käufers zu erwirken und die hierzu erforderlichen Erklärungen an Stelle des Schuldners abzugeben.
 
-
-## § 823 – Außer Kurs gesetzte Inhaberpapiere
+# § 823 – Außer Kurs gesetzte Inhaberpapiere
 
 Ist ein Inhaberpapier durch Einschreibung auf den Namen oder in anderer Weise außer Kurs gesetzt, so kann der Gerichtsvollzieher durch das Vollstreckungsgericht ermächtigt werden, die Wiederinkurssetzung zu erwirken und die hierzu erforderlichen Erklärungen an Stelle des Schuldners abzugeben.
 
-
-## § 824 – Verwertung ungetrennter Früchte
+# § 824 – Verwertung ungetrennter Früchte
 
 Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter Früchte ist erst nach der Reife zulässig. Sie kann vor oder nach der Trennung der Früchte erfolgen; im letzteren Fall hat der Gerichtsvollzieher die Aberntung bewirken zu lassen.
 
-
-## § 825 – Andere Verwertungsart
+# § 825 – Andere Verwertungsart
 
 (1) Auf Antrag des Gläubigers oder des Schuldners kann der Gerichtsvollzieher eine gepfändete Sache in anderer Weise oder an einem anderen Ort verwerten, als in den vorstehenden Paragraphen bestimmt ist. Über die beabsichtigte Verwertung hat der Gerichtsvollzieher den Antragsgegner zu unterrichten. Ohne Zustimmung des Antragsgegners darf er die Sache nicht vor Ablauf von zwei Wochen nach Zustellung der Unterrichtung verwerten.
 
 (2) Die Versteigerung einer gepfändeten Sache durch eine andere Person als den Gerichtsvollzieher kann das Vollstreckungsgericht auf Antrag des Gläubigers oder des Schuldners anordnen.
 
-
-## § 826 – Anschlusspfändung
+# § 826 – Anschlusspfändung
 
 (1) Zur Pfändung bereits gepfändeter Sachen genügt die in das Protokoll aufzunehmende Erklärung des Gerichtsvollziehers, dass er die Sachen für seinen Auftraggeber pfände.
 
@@ -11968,8 +11144,7 @@ Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter Früchte ist
 
 (3) Der Schuldner ist von den weiteren Pfändungen in Kenntnis zu setzen.
 
-
-## § 827 – Verfahren bei mehrfacher Pfändung
+# § 827 – Verfahren bei mehrfacher Pfändung
 
 (1) Auf den Gerichtsvollzieher, von dem die erste Pfändung bewirkt ist, geht der Auftrag des zweiten Gläubigers kraft Gesetzes über, sofern nicht das Vollstreckungsgericht auf Antrag eines beteiligten Gläubigers oder des Schuldners anordnet, dass die Verrichtungen jenes Gerichtsvollziehers von einem anderen zu übernehmen seien. Die Versteigerung erfolgt für alle beteiligten Gläubiger.
 
@@ -11977,8 +11152,7 @@ Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter Früchte ist
 
 (3) In gleicher Weise ist zu verfahren, wenn die Pfändung für mehrere Gläubiger gleichzeitig bewirkt ist.
 
-
-## § 828 – Zuständigkeit des Vollstreckungsgerichts
+# § 828 – Zuständigkeit des Vollstreckungsgerichts
 
 (1) Die gerichtlichen Handlungen, welche die Zwangsvollstreckung in Forderungen und andere Vermögensrechte zum Gegenstand haben, erfolgen durch das Vollstreckungsgericht.
 
@@ -11986,8 +11160,7 @@ Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter Früchte ist
 
 (3) Ist das angegangene Gericht nicht zuständig, gibt es die Sache auf Antrag des Gläubigers an das zuständige Gericht ab. Die Abgabe ist nicht bindend.
 
-
-## § 829 – Pfändung einer Geldforderung
+# § 829 – Pfändung einer Geldforderung
 
 (1) Soll eine Geldforderung gepfändet werden, so hat das Gericht dem Drittschuldner zu verbieten, an den Schuldner zu zahlen. Zugleich hat das Gericht an den Schuldner das Gebot zu erlassen, sich jeder Verfügung über die Forderung, insbesondere ihrer Einziehung, zu enthalten. Die Pfändung mehrerer Geldforderungen gegen verschiedene Drittschuldner soll auf Antrag des Gläubigers durch einheitlichen Beschluss ausgesprochen werden, soweit dies für Zwecke der Vollstreckung geboten erscheint und kein Grund zu der Annahme besteht, dass schutzwürdige Interessen der Drittschuldner entgegenstehen.
 
@@ -11997,8 +11170,7 @@ Die Versteigerung gepfändeter, von dem Boden noch nicht getrennter Früchte ist
 
 (4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses einzuführen. Soweit nach Satz 1 Formulare eingeführt sind, muss sich der Antragsteller ihrer bedienen. Für Verfahren bei Gerichten, die die Verfahren elektronisch bearbeiten, und für Verfahren bei Gerichten, die die Verfahren nicht elektronisch bearbeiten, können unterschiedliche Formulare eingeführt werden.
 
-
-## § 829a – Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
+# § 829a – Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden
 
 (1) Im Fall eines elektronischen Antrags zur Zwangsvollstreckung aus einem Vollstreckungsbescheid, der einer Vollstreckungsklausel nicht bedarf, ist bei Pfändung und Überweisung einer Geldforderung (§§ 829, 835) die Übermittlung der Ausfertigung des Vollstreckungsbescheides entbehrlich, wenn
 
@@ -12016,8 +11188,7 @@ Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind zusätzlich zu de
 
 (3) (weggefallen)
 
-
-## § 830 – Pfändung einer Hypothekenforderung
+# § 830 – Pfändung einer Hypothekenforderung
 
 (1) Zur Pfändung einer Forderung, für die eine Hypothek besteht, ist außer dem Pfändungsbeschluss die Übergabe des Hypothekenbriefes an den Gläubiger erforderlich. Wird die Übergabe im Wege der Zwangsvollstreckung erwirkt, so gilt sie als erfolgt, wenn der Gerichtsvollzieher den Brief zum Zwecke der Ablieferung an den Gläubiger wegnimmt. Ist die Erteilung des Hypothekenbriefes ausgeschlossen, so ist die Eintragung der Pfändung in das Grundbuch erforderlich; die Eintragung erfolgt auf Grund des Pfändungsbeschlusses.
 
@@ -12025,8 +11196,7 @@ Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind zusätzlich zu de
 
 (3) Diese Vorschriften sind nicht anzuwenden, soweit es sich um die Pfändung der Ansprüche auf die im § 1159 des Bürgerlichen Gesetzbuchs bezeichneten Leistungen handelt. Das Gleiche gilt bei einer Sicherungshypothek im Falle des § 1187 des Bürgerlichen Gesetzbuchs von der Pfändung der Hauptforderung.
 
-
-## § 830a – Pfändung einer Schiffshypothekenforderung
+# § 830a – Pfändung einer Schiffshypothekenforderung
 
 (1) Zur Pfändung einer Forderung, für die eine Schiffshypothek besteht, ist die Eintragung der Pfändung in das Schiffsregister oder in das Schiffsbauregister erforderlich; die Eintragung erfolgt auf Grund des Pfändungsbeschlusses.
 
@@ -12034,35 +11204,29 @@ Sollen Kosten der Zwangsvollstreckung vollstreckt werden, sind zusätzlich zu de
 
 (3) Diese Vorschriften sind nicht anzuwenden, soweit es sich um die Pfändung der Ansprüche auf die im § 53 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken vom 15. November 1940 (RGBl. I S. 1499) bezeichneten Leistungen handelt. Das Gleiche gilt, wenn bei einer Schiffshypothek für eine Forderung aus einer Schuldverschreibung auf den Inhaber, aus einem Wechsel oder aus einem anderen durch Indossament übertragbaren Papier die Hauptforderung gepfändet wird.
 
-
-## § 831 – Pfändung indossabler Papiere
+# § 831 – Pfändung indossabler Papiere
 
 Die Pfändung von Forderungen aus Wechseln und anderen Papieren, die durch Indossament übertragen werden können, wird dadurch bewirkt, dass der Gerichtsvollzieher diese Papiere in Besitz nimmt.
 
-
-## § 832 – Pfändungsumfang bei fortlaufenden Bezügen
+# § 832 – Pfändungsumfang bei fortlaufenden Bezügen
 
 Das Pfandrecht, das durch die Pfändung einer Gehaltsforderung oder einer ähnlichen in fortlaufenden Bezügen bestehenden Forderung erworben wird, erstreckt sich auch auf die nach der Pfändung fällig werdenden Beträge.
 
-
-## § 833 – Pfändungsumfang bei Arbeits- und Diensteinkommen
+# § 833 – Pfändungsumfang bei Arbeits- und Diensteinkommen
 
 (1) Durch die Pfändung eines Diensteinkommens wird auch das Einkommen betroffen, das der Schuldner infolge der Versetzung in ein anderes Amt, der Übertragung eines neuen Amtes oder einer Gehaltserhöhung zu beziehen hat. Diese Vorschrift ist auf den Fall der Änderung des Dienstherrn nicht anzuwenden.
 
 (2) Endet das Arbeits- oder Dienstverhältnis und begründen Schuldner und Drittschuldner innerhalb von neun Monaten ein solches neu, so erstreckt sich die Pfändung auf die Forderung aus dem neuen Arbeits- oder Dienstverhältnis.
 
-
-## § 833a – Pfändungsumfang bei Kontoguthaben
+# § 833a – Pfändungsumfang bei Kontoguthaben
 
 Die Pfändung des Guthabens eines Kontos bei einem Kreditinstitut umfasst das am Tag der Zustellung des Pfändungsbeschlusses bei dem Kreditinstitut bestehende Guthaben sowie die Tagesguthaben der auf die Pfändung folgenden Tage.
 
-
-## § 834 – Keine Anhörung des Schuldners
+# § 834 – Keine Anhörung des Schuldners
 
 Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu hören.
 
-
-## § 835 – Überweisung einer Geldforderung
+# § 835 – Überweisung einer Geldforderung
 
 (1) Die gepfändete Geldforderung ist dem Gläubiger nach seiner Wahl zur Einziehung oder an Zahlungs statt zum Nennwert zu überweisen.
 
@@ -12074,8 +11238,7 @@ Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu hören.
 
 (5) Wenn nicht wiederkehrend zahlbare Vergütungen eines Schuldners, der eine natürliche Person ist, für persönlich geleistete Arbeiten oder Dienste oder sonstige Einkünfte, die kein Arbeitseinkommen sind, dem Gläubiger überwiesen werden, so darf der Drittschuldner erst vier Wochen nach der Zustellung des Überweisungsbeschlusses an den Gläubiger leisten oder den Betrag hinterlegen.
 
-
-## § 836 – Wirkung der Überweisung
+# § 836 – Wirkung der Überweisung
 
 (1) Die Überweisung ersetzt die förmlichen Erklärungen des Schuldners, von denen nach den Vorschriften des bürgerlichen Rechts die Berechtigung zur Einziehung der Forderung abhängig ist.
 
@@ -12083,8 +11246,7 @@ Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu hören.
 
 (3) Der Schuldner ist verpflichtet, dem Gläubiger die zur Geltendmachung der Forderung nötige Auskunft zu erteilen und ihm die über die Forderung vorhandenen Urkunden herauszugeben. Erteilt der Schuldner die Auskunft nicht, so ist er auf Antrag des Gläubigers verpflichtet, sie zu Protokoll zu geben und seine Angaben an Eides statt zu versichern. Der gemäß § 802e zuständige Gerichtsvollzieher lädt den Schuldner zur Abgabe der Auskunft und eidesstattlichen Versicherung. Die Vorschriften des § 802f Abs. 4 und der §§ 802g bis 802i, 802j Abs. 1 und 2 gelten entsprechend. Die Herausgabe der Urkunden kann von dem Gläubiger im Wege der Zwangsvollstreckung erwirkt werden.
 
-
-## § 837 – Überweisung einer Hypothekenforderung
+# § 837 – Überweisung einer Hypothekenforderung
 
 (1) Zur Überweisung einer gepfändeten Forderung, für die eine Hypothek besteht, genügt die Aushändigung des Überweisungsbeschlusses an den Gläubiger. Ist die Erteilung des Hypothekenbriefes ausgeschlossen, so ist zur Überweisung an Zahlungs statt die Eintragung der Überweisung in das Grundbuch erforderlich; die Eintragung erfolgt auf Grund des Überweisungsbeschlusses.
 
@@ -12092,8 +11254,7 @@ Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu hören.
 
 (3) Bei einer Sicherungshypothek der im § 1190 des Bürgerlichen Gesetzbuchs bezeichneten Art kann die Hauptforderung nach den allgemeinen Vorschriften gepfändet und überwiesen werden, wenn der Gläubiger die Überweisung der Forderung ohne die Hypothek an Zahlungs statt beantragt.
 
-
-## § 837a – Überweisung einer Schiffshypothekenforderung
+# § 837a – Überweisung einer Schiffshypothekenforderung
 
 (1) Zur Überweisung einer gepfändeten Forderung, für die eine Schiffshypothek besteht, genügt, wenn die Forderung zur Einziehung überwiesen wird, die Aushändigung des Überweisungsbeschlusses an den Gläubiger. Zur Überweisung an Zahlungs statt ist die Eintragung der Überweisung in das Schiffsregister oder in das Schiffsbauregister erforderlich; die Eintragung erfolgt auf Grund des Überweisungsbeschlusses.
 
@@ -12101,18 +11262,15 @@ Vor der Pfändung ist der Schuldner über das Pfändungsgesuch nicht zu hören.
 
 (3) Bei einer Schiffshypothek für einen Höchstbetrag (§ 75 des im Absatz 2 genannten Gesetzes) gilt § 837 Abs. 3 entsprechend.
 
-
-## § 838 – Einrede des Schuldners bei Faustpfand
+# § 838 – Einrede des Schuldners bei Faustpfand
 
 Wird eine durch ein Pfandrecht an einer beweglichen Sache gesicherte Forderung überwiesen, so kann der Schuldner die Herausgabe des Pfandes an den Gläubiger verweigern, bis ihm Sicherheit für die Haftung geleistet wird, die für ihn aus einer Verletzung der dem Gläubiger dem Verpfänder gegenüber obliegenden Verpflichtungen entstehen kann.
 
-
-## § 839 – Überweisung bei Abwendungsbefugnis
+# § 839 – Überweisung bei Abwendungsbefugnis
 
 Darf der Schuldner nach § 711 Satz 1, § 712 Abs. 1 Satz 1 die Vollstreckung durch Sicherheitsleistung oder Hinterlegung abwenden, so findet die Überweisung gepfändeter Geldforderungen nur zur Einziehung und nur mit der Wirkung statt, dass der Drittschuldner den Schuldbetrag zu hinterlegen hat.
 
-
-## § 840 – Erklärungspflicht des Drittschuldners
+# § 840 – Erklärungspflicht des Drittschuldners
 
 (1) Auf Verlangen des Gläubigers hat der Drittschuldner binnen zwei Wochen, von der Zustellung des Pfändungsbeschlusses an gerechnet, dem Gläubiger zu erklären:
 
@@ -12130,49 +11288,41 @@ Darf der Schuldner nach § 711 Satz 1, § 712 Abs. 1 Satz 1 die Vollstreckung du
 
 (3) Die Erklärungen des Drittschuldners können bei Zustellung des Pfändungsbeschlusses oder innerhalb der im ersten Absatz bestimmten Frist an den Gerichtsvollzieher erfolgen. Im ersteren Fall sind sie in die Zustellungsurkunde aufzunehmen und von dem Drittschuldner zu unterschreiben.
 
-
-## § 841 – Pflicht zur Streitverkündung
+# § 841 – Pflicht zur Streitverkündung
 
 Der Gläubiger, der die Forderung einklagt, ist verpflichtet, dem Schuldner gerichtlich den Streit zu verkünden, sofern nicht eine Zustellung im Ausland oder eine öffentliche Zustellung erforderlich wird.
 
-
-## § 842 – Schadenersatz bei verzögerter Beitreibung
+# § 842 – Schadenersatz bei verzögerter Beitreibung
 
 Der Gläubiger, der die Beitreibung einer ihm zur Einziehung überwiesenen Forderung verzögert, haftet dem Schuldner für den daraus entstehenden Schaden.
 
-
-## § 843 – Verzicht des Pfandgläubigers
+# § 843 – Verzicht des Pfandgläubigers
 
 Der Gläubiger kann auf die durch Pfändung und Überweisung zur Einziehung erworbenen Rechte unbeschadet seines Anspruchs verzichten. Die Verzichtleistung erfolgt durch eine dem Schuldner zuzustellende Erklärung. Die Erklärung ist auch dem Drittschuldner zuzustellen.
 
-
-## § 844 – Andere Verwertungsart
+# § 844 – Andere Verwertungsart
 
 (1) Ist die gepfändete Forderung bedingt oder betagt oder ist ihre Einziehung wegen der Abhängigkeit von einer Gegenleistung oder aus anderen Gründen mit Schwierigkeiten verbunden, so kann das Gericht auf Antrag an Stelle der Überweisung eine andere Art der Verwertung anordnen.
 
 (2) Vor dem Beschluss, durch welchen dem Antrag stattgegeben wird, ist der Gegner zu hören, sofern nicht eine Zustellung im Ausland oder eine öffentliche Zustellung erforderlich wird.
 
-
-## § 845 – Vorpfändung
+# § 845 – Vorpfändung
 
 (1) Schon vor der Pfändung kann der Gläubiger auf Grund eines vollstreckbaren Schuldtitels durch den Gerichtsvollzieher dem Drittschuldner und dem Schuldner die Benachrichtigung, dass die Pfändung bevorstehe, zustellen lassen mit der Aufforderung an den Drittschuldner, nicht an den Schuldner zu zahlen, und mit der Aufforderung an den Schuldner, sich jeder Verfügung über die Forderung, insbesondere ihrer Einziehung, zu enthalten. Der Gerichtsvollzieher hat die Benachrichtigung mit den Aufforderungen selbst anzufertigen, wenn er von dem Gläubiger hierzu ausdrücklich beauftragt worden ist. An Stelle einer an den Schuldner im Ausland zu bewirkenden Zustellung erfolgt die Zustellung durch Aufgabe zur Post, sofern die Zustellung weder nach der Verordnung (EG) Nr. 1393/2007 noch nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- und Handelssachen zu bewirken ist.
 
 (2) Die Benachrichtigung an den Drittschuldner hat die Wirkung eines Arrestes (§ 930), sofern die Pfändung der Forderung innerhalb eines Monats bewirkt wird. Die Frist beginnt mit dem Tag, an dem die Benachrichtigung zugestellt ist.
 
-
-## § 846 – Zwangsvollstreckung in Herausgabeansprüche
+# § 846 – Zwangsvollstreckung in Herausgabeansprüche
 
 Die Zwangsvollstreckung in Ansprüche, welche die Herausgabe oder Leistung körperlicher Sachen zum Gegenstand haben, erfolgt nach den §§ 829 bis 845 unter Berücksichtigung der nachstehenden Vorschriften.
 
-
-## § 847 – Herausgabeanspruch auf eine bewegliche Sache
+# § 847 – Herausgabeanspruch auf eine bewegliche Sache
 
 (1) Bei der Pfändung eines Anspruchs, der eine bewegliche körperliche Sache betrifft, ist anzuordnen, dass die Sache an einen vom Gläubiger zu beauftragenden Gerichtsvollzieher herauszugeben sei.
 
 (2) Auf die Verwertung der Sache sind die Vorschriften über die Verwertung gepfändeter Sachen anzuwenden.
 
-
-## § 847a – Herausgabeanspruch auf ein Schiff
+# § 847a – Herausgabeanspruch auf ein Schiff
 
 (1) Bei der Pfändung eines Anspruchs, der ein eingetragenes Schiff betrifft, ist anzuordnen, dass das Schiff an einen vom Vollstreckungsgericht zu bestellenden Treuhänder herauszugeben ist.
 
@@ -12182,8 +11332,7 @@ Die Zwangsvollstreckung in Ansprüche, welche die Herausgabe oder Leistung körp
 
 (4) Die vorstehenden Vorschriften gelten entsprechend, wenn der Anspruch ein Schiffsbauwerk betrifft, das im Schiffsbauregister eingetragen ist oder in dieses Register eingetragen werden kann.
 
-
-## § 848 – Herausgabeanspruch auf eine unbewegliche Sache
+# § 848 – Herausgabeanspruch auf eine unbewegliche Sache
 
 (1) Bei Pfändung eines Anspruchs, der eine unbewegliche Sache betrifft, ist anzuordnen, dass die Sache an einen auf Antrag des Gläubigers vom Amtsgericht der belegenen Sache zu bestellenden Sequester herauszugeben sei.
 
@@ -12191,13 +11340,11 @@ Die Zwangsvollstreckung in Ansprüche, welche die Herausgabe oder Leistung körp
 
 (3) Die Zwangsvollstreckung in die herausgegebene Sache wird nach den für die Zwangsvollstreckung in unbewegliche Sachen geltenden Vorschriften bewirkt.
 
-
-## § 849 – Keine Überweisung an Zahlungs statt
+# § 849 – Keine Überweisung an Zahlungs statt
 
 Eine Überweisung der im § 846 bezeichneten Ansprüche an Zahlungs statt ist unzulässig.
 
-
-## § 850 – Pfändungsschutz für Arbeitseinkommen
+# § 850 – Pfändungsschutz für Arbeitseinkommen
 
 (1) Arbeitseinkommen, das in Geld zahlbar ist, kann nur nach Maßgabe der §§ 850a bis 850i gepfändet werden.
 
@@ -12211,8 +11358,7 @@ b) Renten, die auf Grund von Versicherungsverträgen gewährt werden, wenn diese
 
 (4) Die Pfändung des in Geld zahlbaren Arbeitseinkommens erfasst alle Vergütungen, die dem Schuldner aus der Arbeits- oder Dienstleistung zustehen, ohne Rücksicht auf ihre Benennung oder Berechnungsart.
 
-
-## § 850a – Unpfändbare Bezüge
+# § 850a – Unpfändbare Bezüge
 
 Unpfändbar sind
 
@@ -12232,8 +11378,7 @@ Unpfändbar sind
 
 8. Blindenzulagen.
 
-
-## § 850b – Bedingt pfändbare Bezüge
+# § 850b – Bedingt pfändbare Bezüge
 
 (1) Unpfändbar sind ferner
 
@@ -12249,8 +11394,7 @@ Unpfändbar sind
 
 (3) Das Vollstreckungsgericht soll vor seiner Entscheidung die Beteiligten hören.
 
-
-## § 850c – Pfändungsgrenzen für Arbeitseinkommen
+# § 850c – Pfändungsgrenzen für Arbeitseinkommen
 
 (1) Arbeitseinkommen ist unpfändbar, wenn es, je nach dem Zeitraum, für den es gezahlt wird, nicht mehr als  
 
@@ -12295,8 +11439,7 @@ für die zweite bis fünfte Person.
 
 (3) Bei der Berechnung des nach Absatz 2 pfändbaren Teils des Arbeitseinkommens ist das Arbeitseinkommen, gegebenenfalls nach Abzug des nach Absatz 2 Satz 2 pfändbaren Betrages, wie aus der Tabelle ersichtlich, die diesem Gesetz als Anlage beigefügt ist, nach unten abzurunden, und zwar bei Auszahlung für Monate auf einen durch 10 Euro, bei Auszahlung für Wochen auf einen durch 2,50 Euro oder bei Auszahlung für Tage auf einen durch 50 Cent teilbaren Betrag. Im Pfändungsbeschluss genügt die Bezugnahme auf die Tabelle.
 
-(4) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher Verpflichtung Unterhalt gewährt, eigene Einkünfte, so kann das Vollstreckungsgericht auf Antrag des Gläubigers nach billigem Ermessen bestimmen, dass diese Person bei der Berechnung des unpfändbaren Teils des Arbeitseinkommens ganz oder teilweise unberücksichtigt bleibt; soll die Person nur teilweise berücksichtigt werden, so ist Absatz 3 Satz 2 nicht anzuwenden.  
-\_\_\_\_\_\_\_\_\_\_\_\_\_
+(4) Hat eine Person, welcher der Schuldner auf Grund gesetzlicher Verpflichtung Unterhalt gewährt, eigene Einkünfte, so kann das Vollstreckungsgericht auf Antrag des Gläubigers nach billigem Ermessen bestimmen, dass diese Person bei der Berechnung des unpfändbaren Teils des Arbeitseinkommens ganz oder teilweise unberücksichtigt bleibt; soll die Person nur teilweise berücksichtigt werden, so ist Absatz 3 Satz 2 nicht anzuwenden. \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Die unpfändbaren Beträge nach Absatz 1 und Absatz 2 Satz 2 sind durch Bekanntmachung zu § 850c der Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25. Februar 2005 (BGBl. I S. 493) geändert worden:
 
@@ -12316,12 +11459,10 @@ für die Zeit ab 1.7.2013 vgl. Bek. v. 26.3.2013 I 710
 für die Zeit ab 1.7.2015 vgl. Bek. v. 14.4.2015 I 618  
 (Pfändungsfreigrenzenbekanntmachung 2015),  
 für die Zeit ab 1.7.2017 vgl. Bek. v. 28.3.2017 I 750  
-(Pfändungsfreigrenzenbekanntmachung 2017) u.  
-für die Zeit ab 1.7.2019 vgl. Bek. v. 4.4.2019 I 443  
+(Pfändungsfreigrenzenbekanntmachung 2017) u. für die Zeit ab 1.7.2019 vgl. Bek. v. 4.4.2019 I 443  
 (Pfändungsfreigrenzenbekanntmachung 2019) +++)
 
-
-## § 850d – Pfändbarkeit bei Unterhaltsansprüchen
+# § 850d – Pfändbarkeit bei Unterhaltsansprüchen
 
 (1) Wegen der Unterhaltsansprüche, die kraft Gesetzes einem Verwandten, dem Ehegatten, einem früheren Ehegatten, dem Lebenspartner, einem früheren Lebenspartner oder nach §§ 1615l, 1615n des Bürgerlichen Gesetzbuchs einem Elternteil zustehen, sind das Arbeitseinkommen und die in § 850a Nr. 1, 2 und 4 genannten Bezüge ohne die in § 850c bezeichneten Beschränkungen pfändbar. Dem Schuldner ist jedoch so viel zu belassen, als er für seinen notwendigen Unterhalt und zur Erfüllung seiner laufenden gesetzlichen Unterhaltspflichten gegenüber den dem Gläubiger vorgehenden Berechtigten oder zur gleichmäßigen Befriedigung der dem Gläubiger gleichstehenden Berechtigten bedarf; von den in § 850a Nr. 1, 2 und 4 genannten Bezügen hat ihm mindestens die Hälfte des nach § 850a unpfändbaren Betrages zu verbleiben. Der dem Schuldner hiernach verbleibende Teil seines Arbeitseinkommens darf den Betrag nicht übersteigen, der ihm nach den Vorschriften des § 850c gegenüber nicht bevorrechtigten Gläubigern zu verbleiben hätte. Für die Pfändung wegen der Rückstände, die länger als ein Jahr vor dem Antrag auf Erlass des Pfändungsbeschlusses fällig geworden sind, gelten die Vorschriften dieses Absatzes insoweit nicht, als nach Lage der Verhältnisse nicht anzunehmen ist, dass der Schuldner sich seiner Zahlungspflicht absichtlich entzogen hat.
 
@@ -12329,8 +11470,7 @@ für die Zeit ab 1.7.2019 vgl. Bek. v. 4.4.2019 I 443
 
 (3) Bei der Vollstreckung wegen der in Absatz 1 bezeichneten Ansprüche sowie wegen der aus Anlass einer Verletzung des Körpers oder der Gesundheit zu zahlenden Renten kann zugleich mit der Pfändung wegen fälliger Ansprüche auch künftig fällig werdendes Arbeitseinkommen wegen der dann jeweils fällig werdenden Ansprüche gepfändet und überwiesen werden.
 
-
-## § 850e – Berechnung des pfändbaren Arbeitseinkommens
+# § 850e – Berechnung des pfändbaren Arbeitseinkommens
 
 Für die Berechnung des pfändbaren Arbeitseinkommens gilt Folgendes:
 
@@ -12342,15 +11482,13 @@ b) an eine Ersatzkasse oder an ein Unternehmen der privaten Krankenversicherung 
 
 2. Mehrere Arbeitseinkommen sind auf Antrag vom Vollstreckungsgericht bei der Pfändung zusammenzurechnen. Der unpfändbare Grundbetrag ist in erster Linie dem Arbeitseinkommen zu entnehmen, das die wesentliche Grundlage der Lebenshaltung des Schuldners bildet.
 
-2a.  
-Mit Arbeitseinkommen sind auf Antrag auch Ansprüche auf laufende Geldleistungen nach dem Sozialgesetzbuch zusammenzurechnen, soweit diese der Pfändung unterworfen sind. Der unpfändbare Grundbetrag ist, soweit die Pfändung nicht wegen gesetzlicher Unterhaltsansprüche erfolgt, in erster Linie den laufenden Geldleistungen nach dem Sozialgesetzbuch zu entnehmen. Ansprüche auf Geldleistungen für Kinder dürfen mit Arbeitseinkommen nur zusammengerechnet werden, soweit sie nach § 76 des Einkommensteuergesetzes oder nach § 54 Abs. 5 des Ersten Buches Sozialgesetzbuch gepfändet werden können.
+2a. Mit Arbeitseinkommen sind auf Antrag auch Ansprüche auf laufende Geldleistungen nach dem Sozialgesetzbuch zusammenzurechnen, soweit diese der Pfändung unterworfen sind. Der unpfändbare Grundbetrag ist, soweit die Pfändung nicht wegen gesetzlicher Unterhaltsansprüche erfolgt, in erster Linie den laufenden Geldleistungen nach dem Sozialgesetzbuch zu entnehmen. Ansprüche auf Geldleistungen für Kinder dürfen mit Arbeitseinkommen nur zusammengerechnet werden, soweit sie nach § 76 des Einkommensteuergesetzes oder nach § 54 Abs. 5 des Ersten Buches Sozialgesetzbuch gepfändet werden können.
 
 3. Erhält der Schuldner neben seinem in Geld zahlbaren Einkommen auch Naturalleistungen, so sind Geld- und Naturalleistungen zusammenzurechnen. In diesem Fall ist der in Geld zahlbare Betrag insoweit pfändbar, als der nach § 850c unpfändbare Teil des Gesamteinkommens durch den Wert der dem Schuldner verbleibenden Naturalleistungen gedeckt ist.
 
 4. Trifft eine Pfändung, eine Abtretung oder eine sonstige Verfügung wegen eines der in § 850d bezeichneten Ansprüche mit einer Pfändung wegen eines sonstigen Anspruchs zusammen, so sind auf die Unterhaltsansprüche zunächst die gemäß § 850d der Pfändung in erweitertem Umfang unterliegenden Teile des Arbeitseinkommens zu verrechnen. Die Verrechnung nimmt auf Antrag eines Beteiligten das Vollstreckungsgericht vor. Der Drittschuldner kann, solange ihm eine Entscheidung des Vollstreckungsgerichts nicht zugestellt ist, nach dem Inhalt der ihm bekannten Pfändungsbeschlüsse, Abtretungen und sonstigen Verfügungen mit befreiender Wirkung leisten.
 
-
-## § 850f – Änderung des unpfändbaren Betrages
+# § 850f – Änderung des unpfändbaren Betrages
 
 (1) Das Vollstreckungsgericht kann dem Schuldner auf Antrag von dem nach den Bestimmungen der §§ 850c, 850d und 850i pfändbaren Teil seines Arbeitseinkommens einen Teil belassen, wenn
 
@@ -12364,8 +11502,7 @@ und überwiegende Belange des Gläubigers nicht entgegenstehen.
 
 (2) Wird die Zwangsvollstreckung wegen einer Forderung aus einer vorsätzlich begangenen unerlaubten Handlung betrieben, so kann das Vollstreckungsgericht auf Antrag des Gläubigers den pfändbaren Teil des Arbeitseinkommens ohne Rücksicht auf die in § 850c vorgesehenen Beschränkungen bestimmen; dem Schuldner ist jedoch so viel zu belassen, wie er für seinen notwendigen Unterhalt und zur Erfüllung seiner laufenden gesetzlichen Unterhaltspflichten bedarf.
 
-(3) Wird die Zwangsvollstreckung wegen anderer als der in Absatz 2 und in § 850d bezeichneten Forderungen betrieben, so kann das Vollstreckungsgericht in den Fällen, in denen sich das Arbeitseinkommen des Schuldners auf mehr als monatlich 2 815 Euro1)</sup> (wöchentlich 641 Euro2)</sup>, täglich 123,50 Euro3)</sup>) beläuft, über die Beträge hinaus, die nach § 850c pfändbar wären, auf Antrag des Gläubigers die Pfändbarkeit unter Berücksichtigung der Belange des Gläubigers und des Schuldners nach freiem Ermessen festsetzen. Dem Schuldner ist jedoch mindestens so viel zu belassen, wie sich bei einem Arbeitseinkommen von monatlich 2 815 Euro1)</sup> (wöchentlich 641 Euro2)</sup>, täglich 123,50 Euro3)</sup>) aus § 850c ergeben würde. Die Beträge nach den Sätzen 1 und 2 werden entsprechend der in § 850c Abs. 2a getroffenen Regelung jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, geändert. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt.  
-\_\_\_\_\_\_\_\_\_\_\_\_\_
+(3) Wird die Zwangsvollstreckung wegen anderer als der in Absatz 2 und in § 850d bezeichneten Forderungen betrieben, so kann das Vollstreckungsgericht in den Fällen, in denen sich das Arbeitseinkommen des Schuldners auf mehr als monatlich 2 815 Euro1)</sup> (wöchentlich 641 Euro2)</sup>, täglich 123,50 Euro3)</sup>) beläuft, über die Beträge hinaus, die nach § 850c pfändbar wären, auf Antrag des Gläubigers die Pfändbarkeit unter Berücksichtigung der Belange des Gläubigers und des Schuldners nach freiem Ermessen festsetzen. Dem Schuldner ist jedoch mindestens so viel zu belassen, wie sich bei einem Arbeitseinkommen von monatlich 2 815 Euro1)</sup> (wöchentlich 641 Euro2)</sup>, täglich 123,50 Euro3)</sup>) aus § 850c ergeben würde. Die Beträge nach den Sätzen 1 und 2 werden entsprechend der in § 850c Abs. 2a getroffenen Regelung jeweils zum 1. Juli eines jeden zweiten Jahres, erstmalig zum 1. Juli 2003, geändert. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die maßgebenden Beträge rechtzeitig im Bundesgesetzblatt bekannt. \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Die Beträge haben sich infolge der Bekanntmachung zu § 850c der Zivilprozessordnung (Pfändungsfreigrenzenbekanntmachung 2005) vom 25. Februar 2005 (BGBl. I S. 493) geändert:
 
@@ -12373,27 +11510,22 @@ Die Beträge haben sich infolge der Bekanntmachung zu § 850c der Zivilprozessor
 
 1)</sup> 2 985 Euro; 2)</sup> 678,70 Euro; 3)</sup> 131,25 Euro.
 
-(+++ Hinweis: Zur Änderung der Beträge nach § 850f Abs. 3 Satz 1 und 2 vgl.  
-Bek. v. 9.5.2011 I 825 (Pfändungsfreigrenzenbekanntmachung 2011),  
+(+++ Hinweis: Zur Änderung der Beträge nach § 850f Abs. 3 Satz 1 und 2 vgl. Bek. v. 9.5.2011 I 825 (Pfändungsfreigrenzenbekanntmachung 2011),  
 Bek. v. 26.3.2013 I 710 (Pfändungsfreigrenzenbekanntmachung 2013),  
 Bek. v. 14.4.2015 I 618 (Pfändungsfreigrenzenbekanntmachung 2015),  
-Bek. v. 28.3.2017 I 750 (Pfändungsfreigrenzenbekanntmachung 2017) u.  
-Bek. v. 4.4.2019 I 443 (Pfändungsfreigrenzenbekanntmachung 2019) +++)
+Bek. v. 28.3.2017 I 750 (Pfändungsfreigrenzenbekanntmachung 2017) u. Bek. v. 4.4.2019 I 443 (Pfändungsfreigrenzenbekanntmachung 2019) +++)
 
-
-## § 850g – Änderung der Unpfändbarkeitsvoraussetzungen
+# § 850g – Änderung der Unpfändbarkeitsvoraussetzungen
 
 Ändern sich die Voraussetzungen für die Bemessung des unpfändbaren Teils des Arbeitseinkommens, so hat das Vollstreckungsgericht auf Antrag des Schuldners oder des Gläubigers den Pfändungsbeschluss entsprechend zu ändern. Antragsberechtigt ist auch ein Dritter, dem der Schuldner kraft Gesetzes Unterhalt zu gewähren hat. Der Drittschuldner kann nach dem Inhalt des früheren Pfändungsbeschlusses mit befreiender Wirkung leisten, bis ihm der Änderungsbeschluss zugestellt wird.
 
-
-## § 850h – Verschleiertes Arbeitseinkommen
+# § 850h – Verschleiertes Arbeitseinkommen
 
 (1) Hat sich der Empfänger der vom Schuldner geleisteten Arbeiten oder Dienste verpflichtet, Leistungen an einen Dritten zu bewirken, die nach Lage der Verhältnisse ganz oder teilweise eine Vergütung für die Leistung des Schuldners darstellen, so kann der Anspruch des Drittberechtigten insoweit auf Grund des Schuldtitels gegen den Schuldner gepfändet werden, wie wenn der Anspruch dem Schuldner zustände. Die Pfändung des Vergütungsanspruchs des Schuldners umfasst ohne weiteres den Anspruch des Drittberechtigten. Der Pfändungsbeschluss ist dem Drittberechtigten ebenso wie dem Schuldner zuzustellen.
 
 (2) Leistet der Schuldner einem Dritten in einem ständigen Verhältnis Arbeiten oder Dienste, die nach Art und Umfang üblicherweise vergütet werden, unentgeltlich oder gegen eine unverhältnismäßig geringe Vergütung, so gilt im Verhältnis des Gläubigers zu dem Empfänger der Arbeits- und Dienstleistungen eine angemessene Vergütung als geschuldet. Bei der Prüfung, ob diese Voraussetzungen vorliegen, sowie bei der Bemessung der Vergütung ist auf alle Umstände des Einzelfalles, insbesondere die Art der Arbeits- und Dienstleistung, die verwandtschaftlichen oder sonstigen Beziehungen zwischen dem Dienstberechtigten und dem Dienstverpflichteten und die wirtschaftliche Leistungsfähigkeit des Dienstberechtigten Rücksicht zu nehmen.
 
-
-## § 850i – Pfändungsschutz für sonstige Einkünfte
+# § 850i – Pfändungsschutz für sonstige Einkünfte
 
 (1) Werden nicht wiederkehrend zahlbare Vergütungen für persönlich geleistete Arbeiten oder Dienste oder sonstige Einkünfte, die kein Arbeitseinkommen sind, gepfändet, so hat das Gericht dem Schuldner auf Antrag während eines angemessenen Zeitraums so viel zu belassen, als ihm nach freier Schätzung des Gerichts verbleiben würde, wenn sein Einkommen aus laufendem Arbeits- oder Dienstlohn bestünde. Bei der Entscheidung sind die wirtschaftlichen Verhältnisse des Schuldners, insbesondere seine sonstigen Verdienstmöglichkeiten, frei zu würdigen. Der Antrag des Schuldners ist insoweit abzulehnen, als überwiegende Belange des Gläubigers entgegenstehen.
 
@@ -12401,8 +11533,7 @@ Bek. v. 4.4.2019 I 443 (Pfändungsfreigrenzenbekanntmachung 2019) +++)
 
 (3) Die Bestimmungen der Versicherungs-, Versorgungs- und sonstigen gesetzlichen Vorschriften über die Pfändung von Ansprüchen bestimmter Art bleiben unberührt.
 
-
-## § 850k – Pfändungsschutzkonto
+# § 850k – Pfändungsschutzkonto
 
 (1) Wird das Guthaben auf dem Pfändungsschutzkonto des Schuldners bei einem Kreditinstitut gepfändet, kann der Schuldner jeweils bis zum Ende des Kalendermonats über Guthaben in Höhe des monatlichen Freibetrages nach § 850c Abs. 1 Satz 1 in Verbindung mit § 850c Abs. 2a verfügen; insoweit wird es nicht von der Pfändung erfasst. Zum Guthaben im Sinne des Satzes 1 gehört auch das Guthaben, das bis zum Ablauf der Frist des § 835 Absatz 4 nicht an den Gläubiger geleistet oder hinterlegt werden darf. Soweit der Schuldner in dem jeweiligen Kalendermonat nicht über Guthaben in Höhe des nach Satz 1 pfändungsfreien Betrages verfügt hat, wird dieses Guthaben in dem folgenden Kalendermonat zusätzlich zu dem nach Satz 1 geschützten Guthaben nicht von der Pfändung erfasst. Die Sätze 1 bis 3 gelten entsprechend, wenn das Guthaben auf einem Girokonto des Schuldners gepfändet ist, das vor Ablauf von vier Wochen seit der Zustellung des Überweisungsbeschlusses an den Drittschuldner in ein Pfändungsschutzkonto umgewandelt wird.
 
@@ -12434,27 +11565,23 @@ Für die Beträge nach Satz 1 gilt Absatz 1 Satz 3 entsprechend.
 
 (9) Unterhält ein Schuldner entgegen Absatz 8 Satz 1 mehrere Girokonten als Pfändungsschutzkonten, ordnet das Vollstreckungsgericht auf Antrag eines Gläubigers an, dass nur das von dem Gläubiger in dem Antrag bezeichnete Girokonto dem Schuldner als Pfändungsschutzkonto verbleibt. Der Gläubiger hat die Voraussetzungen nach Satz 1 durch Vorlage entsprechender Erklärungen der Drittschuldner glaubhaft zu machen. Eine Anhörung des Schuldners unterbleibt. Die Entscheidung ist allen Drittschuldnern zuzustellen. Mit der Zustellung der Entscheidung an diejenigen Kreditinstitute, deren Girokonten nicht zum Pfändungsschutzkonto bestimmt sind, entfallen die Wirkungen nach den Absätzen 1 bis 6.
 
-
-## § 850l – Anordnung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto
+# § 850l – Anordnung der Unpfändbarkeit von Kontoguthaben auf dem Pfändungsschutzkonto
 
 Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen, dass das Guthaben auf dem Pfändungsschutzkonto für die Dauer von bis zu zwölf Monaten der Pfändung nicht unterworfen ist, wenn der Schuldner nachweist, dass dem Konto in den letzten sechs Monaten vor Antragstellung ganz überwiegend nur unpfändbare Beträge gutgeschrieben worden sind, und er glaubhaft macht, dass auch innerhalb der nächsten zwölf Monate nur ganz überwiegend nicht pfändbare Beträge zu erwarten sind. Die Anordnung kann versagt werden, wenn überwiegende Belange des Gläubigers entgegenstehen. Sie ist auf Antrag eines Gläubigers aufzuheben, wenn ihre Voraussetzungen nicht mehr vorliegen oder die Anordnung den überwiegenden Belangen dieses Gläubigers entgegensteht.
 
-
-## § 851 – Nicht übertragbare Forderungen
+# § 851 – Nicht übertragbare Forderungen
 
 (1) Eine Forderung ist in Ermangelung besonderer Vorschriften der Pfändung nur insoweit unterworfen, als sie übertragbar ist.
 
 (2) Eine nach § 399 des Bürgerlichen Gesetzbuchs nicht übertragbare Forderung kann insoweit gepfändet und zur Einziehung überwiesen werden, als der geschuldete Gegenstand der Pfändung unterworfen ist.
 
-
-## § 851a – Pfändungsschutz für Landwirte
+# § 851a – Pfändungsschutz für Landwirte
 
 (1) Die Pfändung von Forderungen, die einem die Landwirtschaft betreibenden Schuldner aus dem Verkauf von landwirtschaftlichen Erzeugnissen zustehen, ist auf seinen Antrag vom Vollstreckungsgericht insoweit aufzuheben, als die Einkünfte zum Unterhalt des Schuldners, seiner Familie und seiner Arbeitnehmer oder zur Aufrechterhaltung einer geordneten Wirtschaftsführung unentbehrlich sind.
 
 (2) Die Pfändung soll unterbleiben, wenn offenkundig ist, dass die Voraussetzungen für die Aufhebung der Zwangsvollstreckung nach Absatz 1 vorliegen.
 
-
-## § 851b – Pfändungsschutz bei Miet- und Pachtzinsen
+# § 851b – Pfändungsschutz bei Miet- und Pachtzinsen
 
 (1) Die Pfändung von Miete und Pacht ist auf Antrag des Schuldners vom Vollstreckungsgericht insoweit aufzuheben, als diese Einkünfte für den Schuldner zur laufenden Unterhaltung des Grundstücks, zur Vornahme notwendiger Instandsetzungsarbeiten und zur Befriedigung von Ansprüchen unentbehrlich sind, die bei einer Zwangsvollstreckung in das Grundstück dem Anspruch des Gläubigers nach § 10 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung vorgehen würden. Das Gleiche gilt von der Pfändung von Barmitteln und Guthaben, die aus Miet- oder Pachtzahlungen herrühren und zu den in Satz 1 bezeichneten Zwecken unentbehrlich sind.
 
@@ -12464,8 +11591,7 @@ Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen, dass das Guth
 
 (4) Vor den in den Absätzen 1 und 3 bezeichneten Entscheidungen ist, soweit dies ohne erhebliche Verzögerung möglich ist, der Gläubiger zu hören. Die für die Entscheidung wesentlichen tatsächlichen Verhältnisse sind glaubhaft zu machen. Die Pfändung soll unterbleiben, wenn offenkundig ist, dass die Voraussetzungen für die Aufhebung der Zwangsvollstreckung nach Absatz 1 vorliegen.
 
-
-## § 851c – Pfändungsschutz bei Altersrenten
+# § 851c – Pfändungsschutz bei Altersrenten
 
 (1) Ansprüche auf Leistungen, die auf Grund von Verträgen gewährt werden, dürfen nur wie Arbeitseinkommen gepfändet werden, wenn
 
@@ -12481,25 +11607,21 @@ Auf Antrag des Schuldners kann das Vollstreckungsgericht anordnen, dass das Guth
 
 (3) § 850e Nr. 2 und 2a gilt entsprechend.
 
-
-## § 851d – Pfändungsschutz bei steuerlich gefördertem Altersvorsorgevermögen
+# § 851d – Pfändungsschutz bei steuerlich gefördertem Altersvorsorgevermögen
 
 Monatliche Leistungen in Form einer lebenslangen Rente oder monatlicher Ratenzahlungen im Rahmen eines Auszahlungsplans nach § 1 Abs. 1 Satz 1 Nr. 4 des Altersvorsorgeverträge-Zertifizierungsgesetzes aus steuerlich gefördertem Altersvorsorgevermögen sind wie Arbeitseinkommen pfändbar.
 
-
-## § 852 – Beschränkt pfändbare Forderungen
+# § 852 – Beschränkt pfändbare Forderungen
 
 (1) Der Pflichtteilsanspruch ist der Pfändung nur unterworfen, wenn er durch Vertrag anerkannt oder rechtshängig geworden ist.
 
 (2) Das Gleiche gilt für den nach § 528 des Bürgerlichen Gesetzbuchs dem Schenker zustehenden Anspruch auf Herausgabe des Geschenkes sowie für den Anspruch eines Ehegatten oder Lebenspartners auf den Ausgleich des Zugewinns.
 
-
-## § 853 – Mehrfache Pfändung einer Geldforderung
+# § 853 – Mehrfache Pfändung einer Geldforderung
 
 Ist eine Geldforderung für mehrere Gläubiger gepfändet, so ist der Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem die Forderung überwiesen wurde, verpflichtet, unter Anzeige der Sachlage und unter Aushändigung der ihm zugestellten Beschlüsse an das Amtsgericht, dessen Beschluss ihm zuerst zugestellt ist, den Schuldbetrag zu hinterlegen.
 
-
-## § 854 – Mehrfache Pfändung eines Anspruchs auf bewegliche Sachen
+# § 854 – Mehrfache Pfändung eines Anspruchs auf bewegliche Sachen
 
 (1) Ist ein Anspruch, der eine bewegliche körperliche Sache betrifft, für mehrere Gläubiger gepfändet, so ist der Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem der Anspruch überwiesen wurde, verpflichtet, die Sache unter Anzeige der Sachlage und unter Aushändigung der ihm zugestellten Beschlüsse dem Gerichtsvollzieher herauszugeben, der nach dem ihm zuerst zugestellten Beschluss zur Empfangnahme der Sache ermächtigt ist. Hat der Gläubiger einen solchen Gerichtsvollzieher nicht bezeichnet, so wird dieser auf Antrag des Drittschuldners von dem Amtsgericht des Ortes ernannt, wo die Sache herauszugeben ist.
 
@@ -12507,20 +11629,17 @@ Ist eine Geldforderung für mehrere Gläubiger gepfändet, so ist der Drittschul
 
 (3) In gleicher Weise ist zu verfahren, wenn die Pfändung für mehrere Gläubiger gleichzeitig bewirkt ist.
 
-
-## § 855 – Mehrfache Pfändung eines Anspruchs auf eine unbewegliche Sache
+# § 855 – Mehrfache Pfändung eines Anspruchs auf eine unbewegliche Sache
 
 Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem der Anspruch überwiesen wurde, verpflichtet, die Sache unter Anzeige der Sachlage und unter Aushändigung der ihm zugestellten Beschlüsse an den von dem Amtsgericht der belegenen Sache ernannten oder auf seinen Antrag zu ernennenden Sequester herauszugeben.
 
-
-## § 855a – Mehrfache Pfändung eines Anspruchs auf ein Schiff
+# § 855a – Mehrfache Pfändung eines Anspruchs auf ein Schiff
 
 (1) Betrifft der Anspruch ein eingetragenes Schiff, so ist der Drittschuldner berechtigt und auf Verlangen eines Gläubigers, dem der Anspruch überwiesen wurde, verpflichtet, das Schiff unter Anzeige der Sachlage und unter Aushändigung der Beschlüsse dem Treuhänder herauszugeben, der in dem ihm zuerst zugestellten Beschluss bestellt ist.
 
 (2) Absatz 1 gilt sinngemäß, wenn der Anspruch ein Schiffsbauwerk betrifft, das im Schiffsbauregister eingetragen ist oder in dieses Register eingetragen werden kann.
 
-
-## § 856 – Klage bei mehrfacher Pfändung
+# § 856 – Klage bei mehrfacher Pfändung
 
 (1) Jeder Gläubiger, dem der Anspruch überwiesen wurde, ist berechtigt, gegen den Drittschuldner Klage auf Erfüllung der nach den Vorschriften der §§ 853 bis 855 diesem obliegenden Verpflichtungen zu erheben.
 
@@ -12532,8 +11651,7 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (5) Der Drittschuldner kann sich gegenüber einem Gläubiger auf die ihm günstige Entscheidung nicht berufen, wenn der Gläubiger zum Termin zur mündlichen Verhandlung nicht geladen worden ist.
 
-
-## § 857 – Zwangsvollstreckung in andere Vermögensrechte
+# § 857 – Zwangsvollstreckung in andere Vermögensrechte
 
 (1) Für die Zwangsvollstreckung in andere Vermögensrechte, die nicht Gegenstand der Zwangsvollstreckung in das unbewegliche Vermögen sind, gelten die vorstehenden Vorschriften entsprechend.
 
@@ -12549,8 +11667,7 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (7) Die Vorschrift des § 845 Abs. 1 Satz 2 ist nicht anzuwenden.
 
-
-## § 858 – Zwangsvollstreckung in Schiffspart
+# § 858 – Zwangsvollstreckung in Schiffspart
 
 (1) Für die Zwangsvollstreckung in die Schiffspart (§§ 489 ff. des Handelsgesetzbuchs) gilt § 857 mit folgenden Abweichungen.
 
@@ -12562,25 +11679,21 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (5) Ergibt der Auszug aus dem Schiffsregister, dass die Schiffspart mit einem Pfandrecht belastet ist, das einem anderen als dem betreibenden Gläubiger zusteht, so ist die Hinterlegung des Erlöses anzuordnen. Der Erlös wird in diesem Fall nach den Vorschriften der §§ 873 bis 882 verteilt; Forderungen, für die ein Pfandrecht an der Schiffspart eingetragen ist, sind nach dem Inhalt des Schiffsregisters in den Teilungsplan aufzunehmen.
 
-
-## § 859 – Pfändung von Gesamthandanteilen
+# § 859 – Pfändung von Gesamthandanteilen
 
 (1) Der Anteil eines Gesellschafters an dem Gesellschaftsvermögen einer nach § 705 des Bürgerlichen Gesetzbuchs eingegangenen Gesellschaft ist der Pfändung unterworfen. Der Anteil eines Gesellschafters an den einzelnen zu dem Gesellschaftsvermögen gehörenden Gegenständen ist der Pfändung nicht unterworfen.
 
 (2) Die gleichen Vorschriften gelten für den Anteil eines Miterben an dem Nachlass und an den einzelnen Nachlassgegenständen.
 
-
-## § 860 – Pfändung von Gesamtgutanteilen
+# § 860 – Pfändung von Gesamtgutanteilen
 
 (1) Bei dem Güterstand der Gütergemeinschaft ist der Anteil eines Ehegatten oder Lebenspartners an dem Gesamtgut und an den einzelnen dazu gehörenden Gegenständen der Pfändung nicht unterworfen. Das Gleiche gilt bei der fortgesetzten Gütergemeinschaft von den Anteilen des überlebenden Ehegatten oder Lebenspartners und der Abkömmlinge.
 
 (2) Nach der Beendigung der Gemeinschaft ist der Anteil an dem Gesamtgut zugunsten der Gläubiger des Anteilsberechtigten der Pfändung unterworfen.
 
+# §§ 861 und 862 – (weggefallen)
 
-## §§ 861 und 862 – (weggefallen)
-
-
-## § 863 – Pfändungsbeschränkungen bei Erbschaftsnutzungen
+# § 863 – Pfändungsbeschränkungen bei Erbschaftsnutzungen
 
 (1) Ist der Schuldner als Erbe nach § 2338 des Bürgerlichen Gesetzbuchs durch die Einsetzung eines Nacherben beschränkt, so sind die Nutzungen der Erbschaft der Pfändung nicht unterworfen, soweit sie zur Erfüllung der dem Schuldner seinem Ehegatten, seinem früheren Ehegatten, seinem Lebenspartner, einem früheren Lebenspartner oder seinen Verwandten gegenüber gesetzlich obliegenden Unterhaltspflicht und zur Bestreitung seines standesmäßigen Unterhalts erforderlich sind. Das Gleiche gilt, wenn der Schuldner nach § 2338 des Bürgerlichen Gesetzbuchs durch die Ernennung eines Testamentsvollstreckers beschränkt ist, für seinen Anspruch auf den jährlichen Reinertrag.
 
@@ -12588,22 +11701,19 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (3) Diese Vorschriften gelten entsprechend, wenn der Anteil eines Abkömmlings an dem Gesamtgut der fortgesetzten Gütergemeinschaft nach § 1513 Abs. 2 des Bürgerlichen Gesetzbuchs einer Beschränkung der im Absatz 1 bezeichneten Art unterliegt.
 
-
-## § 864 – Gegenstand der Immobiliarvollstreckung
+# § 864 – Gegenstand der Immobiliarvollstreckung
 
 (1) Der Zwangsvollstreckung in das unbewegliche Vermögen unterliegen außer den Grundstücken die Berechtigungen, für welche die sich auf Grundstücke beziehenden Vorschriften gelten, die im Schiffsregister eingetragenen Schiffe und die Schiffsbauwerke, die im Schiffsbauregister eingetragen sind oder in dieses Register eingetragen werden können.
 
 (2) Die Zwangsvollstreckung in den Bruchteil eines Grundstücks, einer Berechtigung der im Absatz 1 bezeichneten Art oder eines Schiffes oder Schiffsbauwerks ist nur zulässig, wenn der Bruchteil in dem Anteil eines Miteigentümers besteht oder wenn sich der Anspruch des Gläubigers auf ein Recht gründet, mit dem der Bruchteil als solcher belastet ist.
 
-
-## § 865 – Verhältnis zur Mobiliarvollstreckung
+# § 865 – Verhältnis zur Mobiliarvollstreckung
 
 (1) Die Zwangsvollstreckung in das unbewegliche Vermögen umfasst auch die Gegenstände, auf die sich bei Grundstücken und Berechtigungen die Hypothek, bei Schiffen oder Schiffsbauwerken die Schiffshypothek erstreckt.
 
 (2) Diese Gegenstände können, soweit sie Zubehör sind, nicht gepfändet werden. Im Übrigen unterliegen sie der Zwangsvollstreckung in das bewegliche Vermögen, solange nicht ihre Beschlagnahme im Wege der Zwangsvollstreckung in das unbewegliche Vermögen erfolgt ist.
 
-
-## § 866 – Arten der Vollstreckung
+# § 866 – Arten der Vollstreckung
 
 (1) Die Zwangsvollstreckung in ein Grundstück erfolgt durch Eintragung einer Sicherungshypothek für die Forderung, durch Zwangsversteigerung und durch Zwangsverwaltung.
 
@@ -12611,8 +11721,7 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (3) Eine Sicherungshypothek (Absatz 1) darf nur für einen Betrag von mehr als 750 Euro eingetragen werden; Zinsen bleiben dabei unberücksichtigt, soweit sie als Nebenforderung geltend gemacht sind. Auf Grund mehrerer demselben Gläubiger zustehender Schuldtitel kann eine einheitliche Sicherungshypothek eingetragen werden.
 
-
-## § 867 – Zwangshypothek
+# § 867 – Zwangshypothek
 
 (1) Die Sicherungshypothek wird auf Antrag des Gläubigers in das Grundbuch eingetragen; die Eintragung ist auf dem vollstreckbaren Titel zu vermerken. Mit der Eintragung entsteht die Hypothek. Das Grundstück haftet auch für die dem Schuldner zur Last fallenden Kosten der Eintragung.
 
@@ -12620,25 +11729,21 @@ Betrifft der Anspruch eine unbewegliche Sache, so ist der Drittschuldner berecht
 
 (3) Zur Befriedigung aus dem Grundstück durch Zwangsversteigerung genügt der vollstreckbare Titel, auf dem die Eintragung vermerkt ist.
 
-
-## § 868 – Erwerb der Zwangshypothek durch den Eigentümer
+# § 868 – Erwerb der Zwangshypothek durch den Eigentümer
 
 (1) Wird durch eine vollstreckbare Entscheidung die zu vollstreckende Entscheidung oder ihre vorläufige Vollstreckbarkeit aufgehoben oder die Zwangsvollstreckung für unzulässig erklärt oder deren Einstellung angeordnet, so erwirbt der Eigentümer des Grundstücks die Hypothek.
 
 (2) Das Gleiche gilt, wenn durch eine gerichtliche Entscheidung die einstweilige Einstellung der Vollstreckung und zugleich die Aufhebung der erfolgten Vollstreckungsmaßregeln angeordnet wird oder wenn die zur Abwendung der Vollstreckung nachgelassene Sicherheitsleistung oder Hinterlegung erfolgt.
 
-
-## § 869 – Zwangsversteigerung und Zwangsverwaltung
+# § 869 – Zwangsversteigerung und Zwangsverwaltung
 
 Die Zwangsversteigerung und die Zwangsverwaltung werden durch ein besonderes Gesetz geregelt.
 
-
-## § 870 – Grundstücksgleiche Rechte
+# § 870 – Grundstücksgleiche Rechte
 
 Auf die Zwangsvollstreckung in eine Berechtigung, für welche die sich auf Grundstücke beziehenden Vorschriften gelten, sind die Vorschriften über die Zwangsvollstreckung in Grundstücke entsprechend anzuwenden.
 
-
-## § 870a – Zwangsvollstreckung in ein Schiff oder Schiffsbauwerk
+# § 870a – Zwangsvollstreckung in ein Schiff oder Schiffsbauwerk
 
 (1) Die Zwangsvollstreckung in ein eingetragenes Schiff oder in ein Schiffsbauwerk, das im Schiffsbauregister eingetragen ist oder in dieses Register eingetragen werden kann, erfolgt durch Eintragung einer Schiffshypothek für die Forderung oder durch Zwangsversteigerung. Die Anordnung einer Zwangsversteigerung eines Seeschiffs ist unzulässig, wenn sich das Schiff auf der Reise befindet und nicht in einem Hafen liegt.
 
@@ -12646,23 +11751,19 @@ Auf die Zwangsvollstreckung in eine Berechtigung, für welche die sich auf Grund
 
 (3) Wird durch eine vollstreckbare Entscheidung die zu vollstreckende Entscheidung oder ihre vorläufige Vollstreckbarkeit aufgehoben oder die Zwangsvollstreckung für unzulässig erklärt oder deren Einstellung angeordnet, so erlischt die Schiffshypothek; § 57 Abs. 3 des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken vom 15. November 1940 (RGBl. I S. 1499) ist anzuwenden. Das Gleiche gilt, wenn durch eine gerichtliche Entscheidung die einstweilige Einstellung der Zwangsvollstreckung und zugleich die Aufhebung der erfolgten Vollstreckungsmaßregeln angeordnet wird oder wenn die zur Abwendung der Vollstreckung nachgelassene Sicherheitsleistung oder Hinterlegung erfolgt.
 
-
-## § 871 – Landesrechtlicher Vorbehalt bei Eisenbahnen
+# § 871 – Landesrechtlicher Vorbehalt bei Eisenbahnen
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen, wenn ein anderer als der Eigentümer einer Eisenbahn oder Kleinbahn den Betrieb der Bahn kraft eigenen Nutzungsrechts ausübt, das Nutzungsrecht und gewisse dem Betriebe gewidmete Gegenstände in Ansehung der Zwangsvollstreckung zum unbeweglichen Vermögen gehören und die Zwangsvollstreckung abweichend von den Vorschriften des Bundesrechts geregelt ist.
 
-
-## § 872 – Voraussetzungen
+# § 872 – Voraussetzungen
 
 Das Verteilungsverfahren tritt ein, wenn bei der Zwangsvollstreckung in das bewegliche Vermögen ein Geldbetrag hinterlegt ist, der zur Befriedigung der beteiligten Gläubiger nicht hinreicht.
 
-
-## § 873 – Aufforderung des Verteilungsgerichts
+# § 873 – Aufforderung des Verteilungsgerichts
 
 Das zuständige Amtsgericht (§§ 827, 853, 854) hat nach Eingang der Anzeige über die Sachlage an jeden der beteiligten Gläubiger die Aufforderung zu erlassen, binnen zwei Wochen eine Berechnung der Forderung an Kapital, Zinsen, Kosten und sonstigen Nebenforderungen einzureichen.
 
-
-## § 874 – Teilungsplan
+# § 874 – Teilungsplan
 
 (1) Nach Ablauf der zweiwöchigen Fristen wird von dem Gericht ein Teilungsplan angefertigt.
 
@@ -12670,56 +11771,47 @@ Das zuständige Amtsgericht (§§ 827, 853, 854) hat nach Eingang der Anzeige ü
 
 (3) Die Forderung eines Gläubigers, der bis zur Anfertigung des Teilungsplanes der an ihn gerichteten Aufforderung nicht nachgekommen ist, wird nach der Anzeige und deren Unterlagen berechnet. Eine nachträgliche Ergänzung der Forderung findet nicht statt.
 
-
-## § 875 – Terminsbestimmung
+# § 875 – Terminsbestimmung
 
 (1) Das Gericht hat zur Erklärung über den Teilungsplan sowie zur Ausführung der Verteilung einen Termin zu bestimmen. Der Teilungsplan muss spätestens drei Tage vor dem Termin auf der Geschäftsstelle zur Einsicht der Beteiligten niedergelegt werden.
 
 (2) Die Ladung des Schuldners zu dem Termin ist nicht erforderlich, wenn sie durch Zustellung im Ausland oder durch öffentliche Zustellung erfolgen müsste.
 
-
-## § 876 – Termin zur Erklärung und Ausführung
+# § 876 – Termin zur Erklärung und Ausführung
 
 Wird in dem Termin ein Widerspruch gegen den Plan nicht erhoben, so ist dieser zur Ausführung zu bringen. Erfolgt ein Widerspruch, so hat sich jeder dabei beteiligte Gläubiger sofort zu erklären. Wird der Widerspruch von den Beteiligten als begründet anerkannt oder kommt anderweit eine Einigung zustande, so ist der Plan demgemäß zu berichtigen. Wenn ein Widerspruch sich nicht erledigt, so wird der Plan insoweit ausgeführt, als er durch den Widerspruch nicht betroffen wird.
 
-
-## § 877 – Säumnisfolgen
+# § 877 – Säumnisfolgen
 
 (1) Gegen einen Gläubiger, der in dem Termin weder erschienen ist noch vor dem Termin bei dem Gericht Widerspruch erhoben hat, wird angenommen, dass er mit der Ausführung des Planes einverstanden sei.
 
 (2) Ist ein in dem Termin nicht erschienener Gläubiger bei dem Widerspruch beteiligt, den ein anderer Gläubiger erhoben hat, so wird angenommen, dass er diesen Widerspruch nicht als begründet anerkenne.
 
-
-## § 878 – Widerspruchsklage
+# § 878 – Widerspruchsklage
 
 (1) Der widersprechende Gläubiger muss ohne vorherige Aufforderung binnen einer Frist von einem Monat, die mit dem Terminstag beginnt, dem Gericht nachweisen, dass er gegen die beteiligten Gläubiger Klage erhoben habe. Nach fruchtlosem Ablauf dieser Frist wird die Ausführung des Planes ohne Rücksicht auf den Widerspruch angeordnet.
 
 (2) Die Befugnis des Gläubigers, der dem Plan widersprochen hat, ein besseres Recht gegen den Gläubiger, der einen Geldbetrag nach dem Plan erhalten hat, im Wege der Klage geltend zu machen, wird durch die Versäumung der Frist und durch die Ausführung des Planes nicht ausgeschlossen.
 
-
-## § 879 – Zuständigkeit für die Widerspruchsklage
+# § 879 – Zuständigkeit für die Widerspruchsklage
 
 (1) Die Klage ist bei dem Verteilungsgericht und, wenn der Streitgegenstand zur Zuständigkeit der Amtsgerichte nicht gehört, bei dem Landgericht zu erheben, in dessen Bezirk das Verteilungsgericht seinen Sitz hat.
 
 (2) Das Landgericht ist für sämtliche Klagen zuständig, wenn seine Zuständigkeit nach dem Inhalt der erhobenen und in dem Termin nicht zur Erledigung gelangten Widersprüche auch nur bei einer Klage begründet ist, sofern nicht die sämtlichen beteiligten Gläubiger vereinbaren, dass das Verteilungsgericht über alle Widersprüche entscheiden solle.
 
-
-## § 880 – Inhalt des Urteils
+# § 880 – Inhalt des Urteils
 
 In dem Urteil, durch das über einen erhobenen Widerspruch entschieden wird, ist zugleich zu bestimmen, an welche Gläubiger und in welchen Beträgen der streitige Teil der Masse auszuzahlen sei. Wird dies nicht für angemessen erachtet, so ist die Anfertigung eines neuen Planes und ein anderweites Verteilungsverfahren in dem Urteil anzuordnen.
 
-
-## § 881 – Versäumnisurteil
+# § 881 – Versäumnisurteil
 
 Das Versäumnisurteil gegen einen widersprechenden Gläubiger ist dahin zu erlassen, dass der Widerspruch als zurückgenommen anzusehen sei.
 
-
-## § 882 – Verfahren nach dem Urteil
+# § 882 – Verfahren nach dem Urteil
 
 Auf Grund des erlassenen Urteils wird die Auszahlung oder das anderweite Verteilungsverfahren von dem Verteilungsgericht angeordnet.
 
-
-## § 882a – Zwangsvollstreckung wegen einer Geldforderung
+# § 882a – Zwangsvollstreckung wegen einer Geldforderung
 
 (1) Die Zwangsvollstreckung gegen den Bund oder ein Land wegen einer Geldforderung darf, soweit nicht dingliche Rechte verfolgt werden, erst vier Wochen nach dem Zeitpunkt beginnen, in dem der Gläubiger seine Absicht, die Zwangsvollstreckung zu betreiben, der zur Vertretung des Schuldners berufenen Behörde und, sofern die Zwangsvollstreckung in ein von einer anderen Behörde verwaltetes Vermögen erfolgen soll, auch dem zuständigen Minister der Finanzen angezeigt hat. Dem Gläubiger ist auf Verlangen der Empfang der Anzeige zu bescheinigen. Soweit in solchen Fällen die Zwangsvollstreckung durch den Gerichtsvollzieher zu erfolgen hat, ist der Gerichtsvollzieher auf Antrag des Gläubigers vom Vollstreckungsgericht zu bestimmen.
 
@@ -12731,8 +11823,7 @@ Auf Grund des erlassenen Urteils wird die Auszahlung oder das anderweite Verteil
 
 (5) Der Ankündigung der Zwangsvollstreckung und der Einhaltung einer Wartefrist nach Maßgabe der Absätze 1 und 3 bedarf es nicht, wenn es sich um den Vollzug einer einstweiligen Verfügung handelt.
 
-
-## § 882b – Inhalt des Schuldnerverzeichnisses
+# § 882b – Inhalt des Schuldnerverzeichnisses
 
 (1) Das zentrale Vollstreckungsgericht nach § 882h Abs. 1 führt ein Verzeichnis (Schuldnerverzeichnis) derjenigen Personen,
 
@@ -12762,8 +11853,7 @@ einschließlich abweichender Personendaten.
 
 4. im Fall des Absatzes 1 Nummer 3 das Datum der Eintragungsanordnung sowie die Feststellung, dass ein Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Schuldners mangels Masse gemäß § 26 Absatz 1 Satz 1 der Insolvenzordnung abgewiesen wurde, oder bei einer Eintragung gemäß § 303a der Insolvenzordnung der zur Eintragung führende Grund und das Datum der Entscheidung des Insolvenzgerichts.
 
-
-## § 882c – Eintragungsanordnung
+# § 882c – Eintragungsanordnung
 
 (1) Der zuständige Gerichtsvollzieher ordnet von Amts wegen die Eintragung des Schuldners in das Schuldnerverzeichnis an, wenn
 
@@ -12779,8 +11869,7 @@ Die Anordnung der Eintragung des Schuldners in das Schuldnerverzeichnis ist Teil
 
 (3) Die Eintragungsanordnung hat die in § 882b Abs. 2 und 3 genannten Daten zu enthalten. Sind dem Gerichtsvollzieher die nach § 882b Abs. 2 Nr. 1 bis 3 im Schuldnerverzeichnis anzugebenden Daten nicht bekannt, holt er Auskünfte bei den in § 755 Abs. 1 und 2 Satz 1 Nr. 1 genannten Stellen ein, um die erforderlichen Daten zu beschaffen. Hat der Gerichtsvollzieher Anhaltspunkte dafür, dass zugunsten des Schuldners eine Auskunftssperre gemäß § 51 des Bundesmeldegesetzes eingetragen oder ein bedingter Sperrvermerk gemäß § 52 des Bundesmeldegesetzes eingerichtet wurde, hat der Gerichtsvollzieher den Schuldner auf die Möglichkeit eines Vorgehens nach § 882f Absatz 2 hinzuweisen.
 
-
-## § 882d – Vollziehung der Eintragungsanordnung
+# § 882d – Vollziehung der Eintragungsanordnung
 
 (1) Gegen die Eintragungsanordnung nach § 882c kann der Schuldner binnen zwei Wochen seit Bekanntgabe Widerspruch beim zuständigen Vollstreckungsgericht einlegen. Der Widerspruch hemmt nicht die Vollziehung. Nach Ablauf der Frist des Satzes 1 übermittelt der Gerichtsvollzieher die Anordnung unverzüglich elektronisch dem zentralen Vollstreckungsgericht nach § 882h Abs. 1. Dieses veranlasst die Eintragung des Schuldners. Wird dem Gerichtsvollzieher vor der Übermittlung der Anordnung nach Satz 3 bekannt, dass die Voraussetzungen für die Eintragung nicht oder nicht mehr vorliegen, hebt er die Anordnung auf und unterrichtet den Schuldner hierüber.
 
@@ -12788,8 +11877,7 @@ Die Anordnung der Eintragung des Schuldners in das Schuldnerverzeichnis ist Teil
 
 (3) Über die Rechtsbehelfe nach den Absätzen 1 und 2 ist der Schuldner mit der Bekanntgabe der Eintragungsanordnung zu belehren. Das Gericht, das über die Rechtsbehelfe entschieden hat, übermittelt seine Entscheidung dem zentralen Vollstreckungsgericht nach § 882h Abs. 1 elektronisch.
 
-
-## § 882e – Löschung
+# § 882e – Löschung
 
 (1) Eine Eintragung im Schuldnerverzeichnis wird nach Ablauf von drei Jahren seit dem Tag der Eintragungsanordnung von dem zentralen Vollstreckungsgericht nach § 882h Abs. 1 gelöscht.
 
@@ -12805,8 +11893,7 @@ Die Anordnung der Eintragung des Schuldners in das Schuldnerverzeichnis ist Teil
 
 (4) Wird dem zentralen Vollstreckungsgericht nach § 882h Abs. 1 bekannt, dass der Inhalt einer Eintragung von Beginn an fehlerhaft war, wird die Eintragung durch den Urkundsbeamten der Geschäftsstelle geändert. Wird der Schuldner oder ein Dritter durch die Änderung der Eintragung beschwert, findet die Erinnerung nach § 573 statt.
 
-
-## § 882f – Einsicht in das Schuldnerverzeichnis
+# § 882f – Einsicht in das Schuldnerverzeichnis
 
 (1) Die Einsicht in das Schuldnerverzeichnis ist jedem gestattet, der darlegt, Angaben nach § 882b zu benötigen:
 
@@ -12828,8 +11915,7 @@ Die Informationen dürfen nur für den Zweck verarbeitet werden, für den sie ü
 
 (2) Das Recht auf Einsichtnahme durch Dritte erstreckt sich nicht auf Angaben nach § 882b Absatz 2 Nummer 3, wenn glaubhaft gemacht wird, dass zugunsten des Schuldners eine Auskunftssperre gemäß § 51 des Bundesmeldegesetzes eingetragen oder ein bedingter Sperrvermerk gemäß § 52 des Bundesmeldegesetzes eingerichtet wurde. Der Schuldner hat das Bestehen einer solchen Auskunftssperre oder eines solchen Sperrvermerks gegenüber dem Gerichtsvollzieher glaubhaft zu machen. Satz 2 gilt entsprechend gegenüber dem zentralen Vollstreckungsgericht, wenn die Eintragungsanordnung an dieses gemäß § 882d Absatz 1 Satz 3 übermittelt worden ist. Satz 1 ist nicht anzuwenden auf die Einsichtnahme in das Schuldnerverzeichnis durch Gerichte und Behörden für die in Absatz 1 Satz 1 Nummer 2 und 5 bezeichneten Zwecke.
 
-
-## § 882g – Erteilung von Abdrucken
+# § 882g – Erteilung von Abdrucken
 
 (1) Aus dem Schuldnerverzeichnis können auf Antrag Abdrucke zum laufenden Bezug erteilt werden, auch durch Übermittlung in einer nur maschinell lesbaren Form. Bei der Übermittlung in einer nur maschinell lesbaren Form gelten die von der Landesjustizverwaltung festgelegten Datenübertragungsregeln. Liegen die Voraussetzungen des § 882f Absatz 2 vor, dürfen Abdrucke insoweit nicht erteilt werden.
 
@@ -12861,8 +11947,7 @@ Die Informationen dürfen nur für den Zweck verarbeitet werden, für den sie ü
 
 4. zur Durchsetzung der Vernichtungs- und Löschungspflichten im Fall des Widerrufs der Bewilligung die Verhängung von Zwangsgeldern vorzusehen; das einzelne Zwangsgeld darf den Betrag von 25 000 Euro nicht übersteigen.
 
-
-## § 882h – Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses
+# § 882h – Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses
 
 (1) Das Schuldnerverzeichnis wird für jedes Land von einem zentralen Vollstreckungsgericht geführt. Der Inhalt des Schuldnerverzeichnisses kann über eine zentrale und länderübergreifende Abfrage im Internet eingesehen werden. Die Länder können Einzug und Verteilung der Gebühren sowie weitere Abwicklungsaufgaben im Zusammenhang mit der Abfrage nach Satz 2 auf die zuständige Stelle eines Landes übertragen.
 
@@ -12880,8 +11965,7 @@ Die Informationen dürfen nur für den Zweck verarbeitet werden, für den sie ü
 
 Die Daten der Nutzer dürfen nur für die in Satz 3 Nr. 4 genannten Zwecke verarbeitet werden.
 
-
-## § 882i – Rechte der Betroffenen
+# § 882i – Rechte der Betroffenen
 
 (1) Das Auskunftsrecht nach Artikel 15 Absatz 1 und das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 wird in Bezug auf die personenbezogenen Daten, die im Schuldnerverzeichnis und in den an das zentrale Vollstreckungsgericht übermittelten Anordnungen der Eintragung in das Schuldnerverzeichnis enthalten sind, dadurch gewährt, dass die betroffene Person Einsicht in das Schuldnerverzeichnis über die zentrale und länderübergreifende Abfrage im Internet nach § 882h Absatz 1 Satz 2 nehmen kann. Eine Information der betroffenen Person über konkrete Empfänger, gegenüber denen die in Satz 1 genannten personenbezogenen Daten offengelegt werden, erfolgt nur insoweit, als Daten zu diesen Empfängern nach den Vorschriften für Zwecke der Datenschutzkontrolle zu speichern sind.
 
@@ -12889,8 +11973,7 @@ Die Daten der Nutzer dürfen nur für die in Satz 3 Nr. 4 genannten Zwecke verar
 
 (3) Das Widerspruchsrecht gemäß Artikel 21 der Verordnung (EU) 2016/679 gilt nicht in Bezug auf die personenbezogenen Daten, die im Schuldnerverzeichnis und in den an das zentrale Vollstreckungsgericht übermittelten Anordnungen der Eintragung in das Schuldnerverzeichnis enthalten sind.
 
-
-## § 883 – Herausgabe bestimmter beweglicher Sachen
+# § 883 – Herausgabe bestimmter beweglicher Sachen
 
 (1) Hat der Schuldner eine bewegliche Sache oder eine Menge bestimmter beweglicher Sachen herauszugeben, so sind sie von dem Gerichtsvollzieher ihm wegzunehmen und dem Gläubiger zu übergeben.
 
@@ -12900,13 +11983,11 @@ Die Daten der Nutzer dürfen nur für die in Satz 3 Nr. 4 genannten Zwecke verar
 
 (4) (weggefallen)
 
-
-## § 884 – Leistung einer bestimmten Menge vertretbarer Sachen
+# § 884 – Leistung einer bestimmten Menge vertretbarer Sachen
 
 Hat der Schuldner eine bestimmte Menge vertretbarer Sachen oder Wertpapiere zu leisten, so gilt die Vorschrift des § 883 Abs. 1 entsprechend.
 
-
-## § 885 – Herausgabe von Grundstücken oder Schiffen
+# § 885 – Herausgabe von Grundstücken oder Schiffen
 
 (1) Hat der Schuldner eine unbewegliche Sache oder ein eingetragenes Schiff oder Schiffsbauwerk herauszugeben, zu überlassen oder zu räumen, so hat der Gerichtsvollzieher den Schuldner aus dem Besitz zu setzen und den Gläubiger in den Besitz einzuweisen. Der Gerichtsvollzieher hat den Schuldner aufzufordern, eine Anschrift zum Zweck von Zustellungen oder einen Zustellungsbevollmächtigten zu benennen.
 
@@ -12918,8 +11999,7 @@ Hat der Schuldner eine bestimmte Menge vertretbarer Sachen oder Wertpapiere zu l
 
 (5) Unpfändbare Sachen und solche Sachen, bei denen ein Verwertungserlös nicht zu erwarten ist, sind auf Verlangen des Schuldners jederzeit ohne Weiteres herauszugeben.
 
-
-## § 885a – Beschränkter Vollstreckungsauftrag
+# § 885a – Beschränkter Vollstreckungsauftrag
 
 (1) Der Vollstreckungsauftrag kann auf die Maßnahmen nach § 885 Absatz 1 beschränkt werden.
 
@@ -12935,13 +12015,11 @@ Hat der Schuldner eine bestimmte Menge vertretbarer Sachen oder Wertpapiere zu l
 
 (7) Die Kosten nach den Absätzen 3 und 4 gelten als Kosten der Zwangsvollstreckung.
 
-
-## § 886 – Herausgabe bei Gewahrsam eines Dritten
+# § 886 – Herausgabe bei Gewahrsam eines Dritten
 
 Befindet sich eine herauszugebende Sache im Gewahrsam eines Dritten, so ist dem Gläubiger auf dessen Antrag der Anspruch des Schuldners auf Herausgabe der Sache nach den Vorschriften zu überweisen, welche die Pfändung und Überweisung einer Geldforderung betreffen.
 
-
-## § 887 – Vertretbare Handlungen
+# § 887 – Vertretbare Handlungen
 
 (1) Erfüllt der Schuldner die Verpflichtung nicht, eine Handlung vorzunehmen, deren Vornahme durch einen Dritten erfolgen kann, so ist der Gläubiger von dem Prozessgericht des ersten Rechtszuges auf Antrag zu ermächtigen, auf Kosten des Schuldners die Handlung vornehmen zu lassen.
 
@@ -12949,8 +12027,7 @@ Befindet sich eine herauszugebende Sache im Gewahrsam eines Dritten, so ist dem 
 
 (3) Auf die Zwangsvollstreckung zur Erwirkung der Herausgabe oder Leistung von Sachen sind die vorstehenden Vorschriften nicht anzuwenden.
 
-
-## § 888 – Nicht vertretbare Handlungen
+# § 888 – Nicht vertretbare Handlungen
 
 (1) Kann eine Handlung durch einen Dritten nicht vorgenommen werden, so ist, wenn sie ausschließlich von dem Willen des Schuldners abhängt, auf Antrag von dem Prozessgericht des ersten Rechtszuges zu erkennen, dass der Schuldner zur Vornahme der Handlung durch Zwangsgeld und für den Fall, dass dieses nicht beigetrieben werden kann, durch Zwangshaft oder durch Zwangshaft anzuhalten sei. Das einzelne Zwangsgeld darf den Betrag von 25 000 Euro nicht übersteigen. Für die Zwangshaft gelten die Vorschriften des Zweiten Abschnitts über die Haft entsprechend.
 
@@ -12958,20 +12035,17 @@ Befindet sich eine herauszugebende Sache im Gewahrsam eines Dritten, so ist dem 
 
 (3) Diese Vorschriften kommen im Falle der Verurteilung zur Leistung von Diensten aus einem Dienstvertrag nicht zur Anwendung.
 
-
-## § 888a – Keine Handlungsvollstreckung bei Entschädigungspflicht
+# § 888a – Keine Handlungsvollstreckung bei Entschädigungspflicht
 
 Ist im Falle des § 510b der Beklagte zur Zahlung einer Entschädigung verurteilt, so ist die Zwangsvollstreckung auf Grund der Vorschriften der §§ 887, 888 ausgeschlossen.
 
-
-## § 889 – Eidesstattliche Versicherung nach bürgerlichem Recht
+# § 889 – Eidesstattliche Versicherung nach bürgerlichem Recht
 
 (1) Ist der Schuldner auf Grund der Vorschriften des bürgerlichen Rechts zur Abgabe einer eidesstattlichen Versicherung verurteilt, so wird die Versicherung vor dem Amtsgericht als Vollstreckungsgericht abgegeben, in dessen Bezirk der Schuldner im Inland seinen Wohnsitz oder in Ermangelung eines solchen seinen Aufenthaltsort hat, sonst vor dem Amtsgericht als Vollstreckungsgericht, in dessen Bezirk das Prozessgericht des ersten Rechtszuges seinen Sitz hat. Die Vorschriften der §§ 478 bis 480, 483 gelten entsprechend.
 
 (2) Erscheint der Schuldner in dem zur Abgabe der eidesstattlichen Versicherung bestimmten Termin nicht oder verweigert er die Abgabe der eidesstattlichen Versicherung, so verfährt das Vollstreckungsgericht nach § 888.
 
-
-## § 890 – Erzwingung von Unterlassungen und Duldungen
+# § 890 – Erzwingung von Unterlassungen und Duldungen
 
 (1) Handelt der Schuldner der Verpflichtung zuwider, eine Handlung zu unterlassen oder die Vornahme einer Handlung zu dulden, so ist er wegen einer jeden Zuwiderhandlung auf Antrag des Gläubigers von dem Prozessgericht des ersten Rechtszuges zu einem Ordnungsgeld und für den Fall, dass dieses nicht beigetrieben werden kann, zur Ordnungshaft oder zur Ordnungshaft bis zu sechs Monaten zu verurteilen. Das einzelne Ordnungsgeld darf den Betrag von 250.000 Euro, die Ordnungshaft insgesamt zwei Jahre nicht übersteigen.
 
@@ -12979,84 +12053,69 @@ Ist im Falle des § 510b der Beklagte zur Zahlung einer Entschädigung verurteil
 
 (3) Auch kann der Schuldner auf Antrag des Gläubigers zur Bestellung einer Sicherheit für den durch fernere Zuwiderhandlungen entstehenden Schaden auf bestimmte Zeit verurteilt werden.
 
-
-## § 891 – Verfahren; Anhörung des Schuldners; Kostenentscheidung
+# § 891 – Verfahren; Anhörung des Schuldners; Kostenentscheidung
 
 Die nach den §§ 887 bis 890 zu erlassenden Entscheidungen ergehen durch Beschluss. Vor der Entscheidung ist der Schuldner zu hören. Für die Kostenentscheidung gelten die §§ 91 bis 93, 95 bis 100, 106, 107 entsprechend.
 
-
-## § 892 – Widerstand des Schuldners
+# § 892 – Widerstand des Schuldners
 
 Leistet der Schuldner Widerstand gegen die Vornahme einer Handlung, die er nach den Vorschriften der §§ 887, 890 zu dulden hat, so kann der Gläubiger zur Beseitigung des Widerstandes einen Gerichtsvollzieher zuziehen, der nach den Vorschriften des § 758 Abs. 3 und des § 759 zu verfahren hat.
 
-
-## § 892a – (weggefallen)
+# § 892a – (weggefallen)
 
 \-
 
-
-## § 893 – Klage auf Leistung des Interesses
+# § 893 – Klage auf Leistung des Interesses
 
 (1) Durch die Vorschriften dieses Abschnitts wird das Recht des Gläubigers nicht berührt, die Leistung des Interesses zu verlangen.
 
 (2) Den Anspruch auf Leistung des Interesses hat der Gläubiger im Wege der Klage bei dem Prozessgericht des ersten Rechtszuges geltend zu machen.
 
-
-## § 894 – Fiktion der Abgabe einer Willenserklärung
+# § 894 – Fiktion der Abgabe einer Willenserklärung
 
 Ist der Schuldner zur Abgabe einer Willenserklärung verurteilt, so gilt die Erklärung als abgegeben, sobald das Urteil die Rechtskraft erlangt hat. Ist die Willenserklärung von einer Gegenleistung abhängig gemacht, so tritt diese Wirkung ein, sobald nach den Vorschriften der §§ 726, 730 eine vollstreckbare Ausfertigung des rechtskräftigen Urteils erteilt ist.
 
-
-## § 895 – Willenserklärung zwecks Eintragung bei vorläufig vollstreckbarem Urteil
+# § 895 – Willenserklärung zwecks Eintragung bei vorläufig vollstreckbarem Urteil
 
 Ist durch ein vorläufig vollstreckbares Urteil der Schuldner zur Abgabe einer Willenserklärung verurteilt, auf Grund deren eine Eintragung in das Grundbuch, das Schiffsregister oder das Schiffsbauregister erfolgen soll, so gilt die Eintragung einer Vormerkung oder eines Widerspruchs als bewilligt. Die Vormerkung oder der Widerspruch erlischt, wenn das Urteil durch eine vollstreckbare Entscheidung aufgehoben wird.
 
-
-## § 896 – Erteilung von Urkunden an Gläubiger
+# § 896 – Erteilung von Urkunden an Gläubiger
 
 Soll auf Grund eines Urteils, das eine Willenserklärung des Schuldners ersetzt, eine Eintragung in ein öffentliches Buch oder Register vorgenommen werden, so kann der Gläubiger an Stelle des Schuldners die Erteilung der im § 792 bezeichneten Urkunden verlangen, soweit er dieser Urkunden zur Herbeiführung der Eintragung bedarf.
 
-
-## § 897 – Übereignung; Verschaffung von Grundpfandrechten
+# § 897 – Übereignung; Verschaffung von Grundpfandrechten
 
 (1) Ist der Schuldner zur Übertragung des Eigentums oder zur Bestellung eines Rechts an einer beweglichen Sache verurteilt, so gilt die Übergabe der Sache als erfolgt, wenn der Gerichtsvollzieher die Sache zum Zwecke der Ablieferung an den Gläubiger wegnimmt.
 
 (2) Das Gleiche gilt, wenn der Schuldner zur Bestellung einer Hypothek, Grundschuld oder Rentenschuld oder zur Abtretung oder Belastung einer Hypothekenforderung, Grundschuld oder Rentenschuld verurteilt ist, für die Übergabe des Hypotheken-, Grundschuld- oder Rentenschuldbriefs.
 
-
-## § 898 – Gutgläubiger Erwerb
+# § 898 – Gutgläubiger Erwerb
 
 Auf einen Erwerb, der sich nach den §§ 894, 897 vollzieht, sind die Vorschriften des bürgerlichen Rechts zugunsten derjenigen, die Rechte von einem Nichtberechtigten herleiten, anzuwenden.
 
+# §§ 899 bis 915h – (weggefallen)
 
-## §§ 899 bis 915h – (weggefallen)
-
-
-## § 916 – Arrestanspruch
+# § 916 – Arrestanspruch
 
 (1) Der Arrest findet zur Sicherung der Zwangsvollstreckung in das bewegliche oder unbewegliche Vermögen wegen einer Geldforderung oder wegen eines Anspruchs statt, der in eine Geldforderung übergehen kann.
 
 (2) Die Zulässigkeit des Arrestes wird nicht dadurch ausgeschlossen, dass der Anspruch betagt oder bedingt ist, es sei denn, dass der bedingte Anspruch wegen der entfernten Möglichkeit des Eintritts der Bedingung einen gegenwärtigen Vermögenswert nicht hat.
 
-
-## § 917 – Arrestgrund bei dinglichem Arrest
+# § 917 – Arrestgrund bei dinglichem Arrest
 
 (1) Der dingliche Arrest findet statt, wenn zu besorgen ist, dass ohne dessen Verhängung die Vollstreckung des Urteils vereitelt oder wesentlich erschwert werden würde.
 
 (2) Als ein zureichender Arrestgrund ist es anzusehen, wenn das Urteil im Ausland vollstreckt werden müsste und die Gegenseitigkeit nicht verbürgt ist. Eines Arrestgrundes bedarf es nicht, wenn der Arrest nur zur Sicherung der Zwangsvollstreckung in ein Schiff stattfindet.
 
-
-## § 918 – Arrestgrund bei persönlichem Arrest
+# § 918 – Arrestgrund bei persönlichem Arrest
 
 Der persönliche Sicherheitsarrest findet nur statt, wenn er erforderlich ist, um die gefährdete Zwangsvollstreckung in das Vermögen des Schuldners zu sichern.
 
-
-## § 919 – Arrestgericht
+# § 919 – Arrestgericht
 
 Für die Anordnung des Arrestes ist sowohl das Gericht der Hauptsache als das Amtsgericht zuständig, in dessen Bezirk der mit Arrest zu belegende Gegenstand oder die in ihrer persönlichen Freiheit zu beschränkende Person sich befindet.
 
-
-## § 920 – Arrestgesuch
+# § 920 – Arrestgesuch
 
 (1) Das Gesuch soll die Bezeichnung des Anspruchs unter Angabe des Geldbetrages oder des Geldwertes sowie die Bezeichnung des Arrestgrundes enthalten.
 
@@ -13064,13 +12123,11 @@ Für die Anordnung des Arrestes ist sowohl das Gericht der Hauptsache als das Am
 
 (3) Das Gesuch kann vor der Geschäftsstelle zu Protokoll erklärt werden.
 
-
-## § 921 – Entscheidung über das Arrestgesuch
+# § 921 – Entscheidung über das Arrestgesuch
 
 Das Gericht kann, auch wenn der Anspruch oder der Arrestgrund nicht glaubhaft gemacht ist, den Arrest anordnen, sofern wegen der dem Gegner drohenden Nachteile Sicherheit geleistet wird. Es kann die Anordnung des Arrestes von einer Sicherheitsleistung abhängig machen, selbst wenn der Anspruch und der Arrestgrund glaubhaft gemacht sind.
 
-
-## § 922 – Arresturteil und Arrestbeschluss
+# § 922 – Arresturteil und Arrestbeschluss
 
 (1) Die Entscheidung über das Gesuch ergeht im Falle einer mündlichen Verhandlung durch Endurteil, andernfalls durch Beschluss. Die Entscheidung, durch die der Arrest angeordnet wird, ist zu begründen, wenn sie im Ausland geltend gemacht werden soll.
 
@@ -13078,13 +12135,11 @@ Das Gericht kann, auch wenn der Anspruch oder der Arrestgrund nicht glaubhaft ge
 
 (3) Der Beschluss, durch den das Arrestgesuch zurückgewiesen oder vorherige Sicherheitsleistung für erforderlich erklärt wird, ist dem Gegner nicht mitzuteilen.
 
-
-## § 923 – Abwendungsbefugnis
+# § 923 – Abwendungsbefugnis
 
 In dem Arrestbefehl ist ein Geldbetrag festzustellen, durch dessen Hinterlegung die Vollziehung des Arrestes gehemmt und der Schuldner zu dem Antrag auf Aufhebung des vollzogenen Arrestes berechtigt wird.
 
-
-## § 924 – Widerspruch
+# § 924 – Widerspruch
 
 (1) Gegen den Beschluss, durch den ein Arrest angeordnet wird, findet Widerspruch statt.
 
@@ -13092,34 +12147,29 @@ In dem Arrestbefehl ist ein Geldbetrag festzustellen, durch dessen Hinterlegung 
 
 (3) Durch Erhebung des Widerspruchs wird die Vollziehung des Arrestes nicht gehemmt. Das Gericht kann aber eine einstweilige Anordnung nach § 707 treffen; § 707 Abs. 1 Satz 2 ist nicht anzuwenden.
 
-
-## § 925 – Entscheidung nach Widerspruch
+# § 925 – Entscheidung nach Widerspruch
 
 (1) Wird Widerspruch erhoben, so ist über die Rechtmäßigkeit des Arrestes durch Endurteil zu entscheiden.
 
 (2) Das Gericht kann den Arrest ganz oder teilweise bestätigen, abändern oder aufheben, auch die Bestätigung, Abänderung oder Aufhebung von einer Sicherheitsleistung abhängig machen.
 
-
-## § 926 – Anordnung der Klageerhebung
+# § 926 – Anordnung der Klageerhebung
 
 (1) Ist die Hauptsache nicht anhängig, so hat das Arrestgericht auf Antrag ohne mündliche Verhandlung anzuordnen, dass die Partei, die den Arrestbefehl erwirkt hat, binnen einer zu bestimmenden Frist Klage zu erheben habe.
 
 (2) Wird dieser Anordnung nicht Folge geleistet, so ist auf Antrag die Aufhebung des Arrestes durch Endurteil auszusprechen.
 
-
-## § 927 – Aufhebung wegen veränderter Umstände
+# § 927 – Aufhebung wegen veränderter Umstände
 
 (1) Auch nach der Bestätigung des Arrestes kann wegen veränderter Umstände, insbesondere wegen Erledigung des Arrestgrundes oder auf Grund des Erbietens zur Sicherheitsleistung die Aufhebung des Arrestes beantragt werden.
 
 (2) Die Entscheidung ist durch Endurteil zu erlassen; sie ergeht durch das Gericht, das den Arrest angeordnet hat, und wenn die Hauptsache anhängig ist, durch das Gericht der Hauptsache.
 
-
-## § 928 – Vollziehung des Arrestes
+# § 928 – Vollziehung des Arrestes
 
 Auf die Vollziehung des Arrestes sind die Vorschriften über die Zwangsvollstreckung entsprechend anzuwenden, soweit nicht die nachfolgenden Paragraphen abweichende Vorschriften enthalten.
 
-
-## § 929 – Vollstreckungsklausel; Vollziehungsfrist
+# § 929 – Vollstreckungsklausel; Vollziehungsfrist
 
 (1) Arrestbefehle bedürfen der Vollstreckungsklausel nur, wenn die Vollziehung für einen anderen als den in dem Befehl bezeichneten Gläubiger oder gegen einen anderen als den in dem Befehl bezeichneten Schuldner erfolgen soll.
 
@@ -13127,8 +12177,7 @@ Auf die Vollziehung des Arrestes sind die Vorschriften über die Zwangsvollstrec
 
 (3) Die Vollziehung ist vor der Zustellung des Arrestbefehls an den Schuldner zulässig. Sie ist jedoch ohne Wirkung, wenn die Zustellung nicht innerhalb einer Woche nach der Vollziehung und vor Ablauf der für diese im vorhergehenden Absatz bestimmten Frist erfolgt.
 
-
-## § 930 – Vollziehung in bewegliches Vermögen und Forderungen
+# § 930 – Vollziehung in bewegliches Vermögen und Forderungen
 
 (1) Die Vollziehung des Arrestes in bewegliches Vermögen wird durch Pfändung bewirkt. Die Pfändung erfolgt nach denselben Grundsätzen wie jede andere Pfändung und begründet ein Pfandrecht mit den im § 804 bestimmten Wirkungen. Für die Pfändung einer Forderung ist das Arrestgericht als Vollstreckungsgericht zuständig.
 
@@ -13138,8 +12187,7 @@ Auf die Vollziehung des Arrestes sind die Vorschriften über die Zwangsvollstrec
 
 (4) Die Vollziehung des Arrestes in ein nicht eingetragenes Seeschiff ist unzulässig, wenn sich das Schiff auf der Reise befindet und nicht in einem Hafen liegt.
 
-
-## § 931 – Vollziehung in eingetragenes Schiff oder Schiffsbauwerk
+# § 931 – Vollziehung in eingetragenes Schiff oder Schiffsbauwerk
 
 (1) Die Vollziehung des Arrestes in ein eingetragenes Schiff oder Schiffsbauwerk wird durch Pfändung nach den Vorschriften über die Pfändung beweglicher Sachen mit folgenden Abweichungen bewirkt.
 
@@ -13155,8 +12203,7 @@ Auf die Vollziehung des Arrestes sind die Vorschriften über die Zwangsvollstrec
 
 (7) Die Vollziehung des Arrestes in ein eingetragenes Seeschiff ist unzulässig, wenn sich das Schiff auf der Reise befindet und nicht in einem Hafen liegt.
 
-
-## § 932 – Arresthypothek
+# § 932 – Arresthypothek
 
 (1) Die Vollziehung des Arrestes in ein Grundstück oder in eine Berechtigung, für welche die sich auf Grundstücke beziehenden Vorschriften gelten, erfolgt durch Eintragung einer Sicherungshypothek für die Forderung; der nach § 923 festgestellte Geldbetrag ist als der Höchstbetrag zu bezeichnen, für den das Grundstück oder die Berechtigung haftet. Ein Anspruch nach § 1179a oder § 1179b des Bürgerlichen Gesetzbuchs steht dem Gläubiger oder im Grundbuch eingetragenen Gläubiger der Sicherungshypothek nicht zu.
 
@@ -13164,13 +12211,11 @@ Auf die Vollziehung des Arrestes sind die Vorschriften über die Zwangsvollstrec
 
 (3) Der Antrag auf Eintragung der Hypothek gilt im Sinne des § 929 Abs. 2, 3 als Vollziehung des Arrestbefehls.
 
-
-## § 933 – Vollziehung des persönlichen Arrestes
+# § 933 – Vollziehung des persönlichen Arrestes
 
 Die Vollziehung des persönlichen Sicherheitsarrestes richtet sich, wenn sie durch Haft erfolgt, nach den Vorschriften der §§ 802g, 802h und 802j Abs. 1 und 2 und, wenn sie durch sonstige Beschränkung der persönlichen Freiheit erfolgt, nach den vom Arrestgericht zu treffenden besonderen Anordnungen, für welche die Beschränkungen der Haft maßgebend sind. In den Haftbefehl ist der nach § 923 festgestellte Geldbetrag aufzunehmen.
 
-
-## § 934 – Aufhebung der Arrestvollziehung
+# § 934 – Aufhebung der Arrestvollziehung
 
 (1) Wird der in dem Arrestbefehl festgestellte Geldbetrag hinterlegt, so wird der vollzogene Arrest von dem Vollstreckungsgericht aufgehoben.
 
@@ -13180,42 +12225,35 @@ Die Vollziehung des persönlichen Sicherheitsarrestes richtet sich, wenn sie dur
 
 (4) Gegen den Beschluss, durch den der Arrest aufgehoben wird, findet sofortige Beschwerde statt.
 
-
-## § 935 – Einstweilige Verfügung bezüglich Streitgegenstand
+# § 935 – Einstweilige Verfügung bezüglich Streitgegenstand
 
 Einstweilige Verfügungen in Bezug auf den Streitgegenstand sind zulässig, wenn zu besorgen ist, dass durch eine Veränderung des bestehenden Zustandes die Verwirklichung des Rechts einer Partei vereitelt oder wesentlich erschwert werden könnte.
 
-
-## § 936 – Anwendung der Arrestvorschriften
+# § 936 – Anwendung der Arrestvorschriften
 
 Auf die Anordnung einstweiliger Verfügungen und das weitere Verfahren sind die Vorschriften über die Anordnung von Arresten und über das Arrestverfahren entsprechend anzuwenden, soweit nicht die nachfolgenden Paragraphen abweichende Vorschriften enthalten.
 
-
-## § 937 – Zuständiges Gericht
+# § 937 – Zuständiges Gericht
 
 (1) Für den Erlass einstweiliger Verfügungen ist das Gericht der Hauptsache zuständig.
 
 (2) Die Entscheidung kann in dringenden Fällen sowie dann, wenn der Antrag auf Erlass einer einstweiligen Verfügung zurückzuweisen ist, ohne mündliche Verhandlung ergehen.
 
-
-## § 938 – Inhalt der einstweiligen Verfügung
+# § 938 – Inhalt der einstweiligen Verfügung
 
 (1) Das Gericht bestimmt nach freiem Ermessen, welche Anordnungen zur Erreichung des Zweckes erforderlich sind.
 
 (2) Die einstweilige Verfügung kann auch in einer Sequestration sowie darin bestehen, dass dem Gegner eine Handlung geboten oder verboten, insbesondere die Veräußerung, Belastung oder Verpfändung eines Grundstücks oder eines eingetragenen Schiffes oder Schiffsbauwerks untersagt wird.
 
-
-## § 939 – Aufhebung gegen Sicherheitsleistung
+# § 939 – Aufhebung gegen Sicherheitsleistung
 
 Nur unter besonderen Umständen kann die Aufhebung einer einstweiligen Verfügung gegen Sicherheitsleistung gestattet werden.
 
-
-## § 940 – Einstweilige Verfügung zur Regelung eines einstweiligen Zustandes
+# § 940 – Einstweilige Verfügung zur Regelung eines einstweiligen Zustandes
 
 Einstweilige Verfügungen sind auch zum Zwecke der Regelung eines einstweiligen Zustandes in Bezug auf ein streitiges Rechtsverhältnis zulässig, sofern diese Regelung, insbesondere bei dauernden Rechtsverhältnissen zur Abwendung wesentlicher Nachteile oder zur Verhinderung drohender Gewalt oder aus anderen Gründen nötig erscheint.
 
-
-## § 940a – Räumung von Wohnraum
+# § 940a – Räumung von Wohnraum
 
 (1) Die Räumung von Wohnraum darf durch einstweilige Verfügung nur wegen verbotener Eigenmacht oder bei einer konkreten Gefahr für Leib oder Leben angeordnet werden.
 
@@ -13225,13 +12263,11 @@ Einstweilige Verfügungen sind auch zum Zwecke der Regelung eines einstweiligen 
 
 (4) In den Fällen der Absätze 2 und 3 hat das Gericht den Gegner vor Erlass einer Räumungsverfügung anzuhören.
 
-
-## § 941 – Ersuchen um Eintragungen im Grundbuch usw.
+# § 941 – Ersuchen um Eintragungen im Grundbuch usw.
 
 Hat auf Grund der einstweiligen Verfügung eine Eintragung in das Grundbuch, das Schiffsregister oder das Schiffsbauregister zu erfolgen, so ist das Gericht befugt, das Grundbuchamt oder die Registerbehörde um die Eintragung zu ersuchen.
 
-
-## § 942 – Zuständigkeit des Amtsgerichts der belegenen Sache
+# § 942 – Zuständigkeit des Amtsgerichts der belegenen Sache
 
 (1) In dringenden Fällen kann das Amtsgericht, in dessen Bezirk sich der Streitgegenstand befindet, eine einstweilige Verfügung erlassen unter Bestimmung einer Frist, innerhalb der die Ladung des Gegners zur mündlichen Verhandlung über die Rechtmäßigkeit der einstweiligen Verfügung bei dem Gericht der Hauptsache zu beantragen ist.
 
@@ -13241,25 +12277,21 @@ Hat auf Grund der einstweiligen Verfügung eine Eintragung in das Grundbuch, das
 
 (4) Die in diesem Paragraphen erwähnten Entscheidungen des Amtsgerichts ergehen durch Beschluss.
 
-
-## § 943 – Gericht der Hauptsache
+# § 943 – Gericht der Hauptsache
 
 (1) Als Gericht der Hauptsache im Sinne der Vorschriften dieses Abschnitts ist das Gericht des ersten Rechtszuges und, wenn die Hauptsache in der Berufungsinstanz anhängig ist, das Berufungsgericht anzusehen.
 
 (2) Das Gericht der Hauptsache ist für die nach § 109 zu treffenden Anordnungen ausschließlich zuständig, wenn die Hauptsache anhängig ist oder anhängig gewesen ist.
 
-
-## § 944 – Entscheidung des Vorsitzenden bei Dringlichkeit
+# § 944 – Entscheidung des Vorsitzenden bei Dringlichkeit
 
 In dringenden Fällen kann der Vorsitzende über die in diesem Abschnitt erwähnten Gesuche, sofern deren Erledigung eine mündliche Verhandlung nicht erfordert, anstatt des Gerichts entscheiden.
 
-
-## § 945 – Schadensersatzpflicht
+# § 945 – Schadensersatzpflicht
 
 Erweist sich die Anordnung eines Arrestes oder einer einstweiligen Verfügung als von Anfang an ungerechtfertigt oder wird die angeordnete Maßregel auf Grund des § 926 Abs. 2 oder des § 942 Abs. 3 aufgehoben, so ist die Partei, welche die Anordnung erwirkt hat, verpflichtet, dem Gegner den Schaden zu ersetzen, der ihm aus der Vollziehung der angeordneten Maßregel oder dadurch entsteht, dass er Sicherheit leistet, um die Vollziehung abzuwenden oder die Aufhebung der Maßregel zu erwirken.
 
-
-## § 945a – Einreichung von Schutzschriften
+# § 945a – Einreichung von Schutzschriften
 
 (1) Die Landesjustizverwaltung Hessen führt für die Länder ein zentrales, länderübergreifendes elektronisches Register für Schutzschriften (Schutzschriftenregister). Schutzschriften sind vorbeugende Verteidigungsschriftsätze gegen erwartete Anträge auf Arrest oder einstweilige Verfügung.
 
@@ -13267,27 +12299,23 @@ Erweist sich die Anordnung eines Arrestes oder einer einstweiligen Verfügung al
 
 (3) Die Gerichte erhalten Zugriff auf das Register über ein automatisiertes Abrufverfahren. Die Verwendung der Daten ist auf das für die Erfüllung der gesetzlichen Aufgaben Erforderliche zu beschränken. Abrufvorgänge sind zu protokollieren.
 
-
-## § 945b – Verordnungsermächtigung
+# § 945b – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Bestimmungen über die Einrichtung und Führung des Registers, über die Einreichung von Schutzschriften zum Register, über den Abruf von Schutzschriften aus dem Register sowie über die Einzelheiten der Datenübermittlung und -speicherung sowie der Datensicherheit und der Barrierefreiheit zu treffen.
 
-
-## § 946 – Zuständigkeit
+# § 946 – Zuständigkeit
 
 (1) Für den Erlass des Beschlusses zur vorläufigen Kontenpfändung nach der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf die Erleichterung der grenzüberschreitenden Eintreibung von Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S. 59) ist das Gericht der Hauptsache zuständig. Die §§ 943 und 944 gelten entsprechend.
 
 (2) Hat der Gläubiger bereits eine öffentliche Urkunde (Artikel 4 Nummer 10 der Verordnung (EU) Nr. 655/2014) erwirkt, in der der Schuldner verpflichtet wird, die Forderung zu erfüllen, ist das Gericht zuständig, in dessen Bezirk die Urkunde errichtet worden ist.
 
-
-## § 947 – Verfahren
+# § 947 – Verfahren
 
 (1) Der Gläubiger kann sich in dem Verfahren auf Erlass des Beschlusses zur vorläufigen Kontenpfändung aller Beweismittel sowie der Versicherung an Eides statt bedienen. Nur eine Beweisaufnahme, die sofort erfolgen kann, ist statthaft.
 
 (2) Das Gericht darf die ihm nach Artikel 14 Absatz 6 der Verordnung (EU) Nr. 655/2014 übermittelten Kontoinformationen für die Zwecke des jeweiligen Verfahrens auf Erlass eines Beschlusses zur vorläufigen Kontenpfändung speichern, übermitteln und nutzen. Soweit übermittelte Kontoinformationen für den Erlass des Beschlusses zur vorläufigen Kontenpfändung nicht erforderlich sind, sind sie unverzüglich zu löschen oder ist deren Verarbeitung einzuschränken. Die Löschung ist zu protokollieren. § 802d Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 948 – Ersuchen um Einholung von Kontoinformationen
+# § 948 – Ersuchen um Einholung von Kontoinformationen
 
 (1) Zuständige Auskunftsbehörde gemäß Artikel 14 der Verordnung (EU) Nr. 655/2014 für die Einholung von Kontoinformationen ist das Bundesamt für Justiz.
 
@@ -13295,27 +12323,23 @@ Das Bundesministerium der Justiz und für Verbraucherschutz hat durch Rechtsvero
 
 (3) Das Bundesamt für Justiz protokolliert die eingehenden Ersuchen um Einholung von Kontoinformationen gemäß Artikel 14 der Verordnung (EU) Nr. 655/2014. Zu protokollieren sind ebenfalls die Bezeichnung der ersuchenden Stelle eines anderen Mitgliedstaates der Europäischen Union, der Abruf der in § 93b Absatz 1 der Abgabenordnung bezeichneten Daten und der Zeitpunkt des Eingangs dieser Daten sowie die Weiterleitung der eingegangenen Daten an die ersuchende Stelle. Das Bundesamt für Justiz löscht den Inhalt der eingeholten Kontoinformationen unverzüglich nach deren Übermittlung an die ersuchende Stelle; die Löschung ist zu protokollieren.
 
-
-## § 949 – Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
+# § 949 – Nicht rechtzeitige Einleitung des Hauptsacheverfahrens
 
 (1) Ein im Inland erlassener Beschluss zur vorläufigen Kontenpfändung wird nach Artikel 10 Absatz 2 Unterabsatz 1 der Verordnung (EU) Nr. 655/2014 durch Beschluss widerrufen.
 
 (2) Zuständige Stelle, an die gemäß Artikel 10 Absatz 2 Unterabsatz 3 der Verordnung (EU) Nr. 655/2014 das Widerrufsformblatt zu übermitteln ist, ist das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren stattfinden soll oder stattgefunden hat. Ist ein in einem anderen Mitgliedstaat der Europäischen Union erlassener Beschluss zur vorläufigen Kontenpfändung im Inland zu vollziehen, hat das Amtsgericht nach Satz 1 den Beschluss, durch den das Gericht den Beschluss zur vorläufigen Kontenpfändung widerrufen hat, der Bank im Sinne des Artikels 4 Nummer 2 der Verordnung (EU) Nr. 655/2014 zuzustellen.
 
-
-## § 950 – Anwendbare Vorschriften
+# § 950 – Anwendbare Vorschriften
 
 Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung sind die Vorschriften des Achten Buchs über die Zwangsvollstreckung sowie § 930 Absatz 1 Satz 2 entsprechend anzuwenden, soweit die Verordnung (EU) Nr. 655/2014 und die §§ 951 bis 957 keine abweichenden Vorschriften enthalten.
 
-
-## § 951 – Vollziehung von im Inland erlassenen Beschlüssen
+# § 951 – Vollziehung von im Inland erlassenen Beschlüssen
 
 (1) Ist ein im Inland erlassener Beschluss zur vorläufigen Kontenpfändung im Inland zu vollziehen, hat der Gläubiger, der seinen Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union hat, den Beschluss der Bank zustellen zu lassen. Ist der Beschluss in einem anderen Mitgliedstaat der Europäischen Union zu vollziehen, hat der Gläubiger die Zustellung gemäß Artikel 23 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 655/2014 an die Bank zu veranlassen.
 
 (2) Das Gericht, das den Beschluss erlassen hat, lässt dem Schuldner den Beschluss nach Artikel 28 der Verordnung (EU) Nr. 655/2014 zustellen; diese Zustellung gilt als Zustellung auf Betreiben des Gläubigers (§ 191). Eine Übersetzung oder Transliteration, die nach Artikel 28 Absatz 5 in Verbindung mit Artikel 49 Absatz 1 der Verordnung (EU) Nr. 655/2014 erforderlich ist, hat der Gläubiger bereitzustellen.
 
-
-## § 952 – Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen
+# § 952 – Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen
 
 (1) Zuständige Stelle ist
 
@@ -13329,8 +12353,7 @@ Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung sind die Vo
 
 2. in den in Artikel 27 Absatz 2 der Verordnung (EU) Nr. 655/2014 bezeichneten Fällen der Bank die Freigabeerklärung des Gläubigers zuzustellen.
 
-
-## § 953 – Rechtsbehelfe des Gläubigers
+# § 953 – Rechtsbehelfe des Gläubigers
 
 (1) Gegen die Ablehnung des Antrags auf Erlass eines Beschlusses zur vorläufigen Kontenpfändung und gegen den Widerruf des Beschlusses zur vorläufigen Kontenpfändung (§ 949 Absatz 1), soweit sie durch das Gericht des ersten Rechtszuges erfolgt sind, findet die sofortige Beschwerde statt.
 
@@ -13338,8 +12361,7 @@ Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung sind die Vo
 
 (3) Die sofortige Beschwerde gegen den Widerruf des Beschlusses zur vorläufigen Kontenpfändung ist innerhalb einer Notfrist von einem Monat ab Zustellung einzulegen.
 
-
-## § 954 – Rechtsbehelfe nach den Artikeln 33 bis 35 der Verordnung (EU) Nr. 655/2014
+# § 954 – Rechtsbehelfe nach den Artikeln 33 bis 35 der Verordnung (EU) Nr. 655/2014
 
 (1) Über den Rechtsbehelf des Schuldners gegen einen im Inland erlassenen Beschluss zur vorläufigen Kontenpfändung nach Artikel 33 Absatz 1 der Verordnung (EU) Nr. 655/2014 (Widerspruch) entscheidet das Gericht, das den Beschluss erlassen hat. Die Entscheidung ergeht durch Beschluss. Die Sätze 1 und 2 gelten entsprechend für den Widerspruch des Schuldners gemäß Artikel 33 Absatz 2 der Verordnung (EU) Nr. 655/2014 gegen die Entscheidung nach Artikel 12 der Verordnung (EU) Nr. 655/2014.
 
@@ -13349,40 +12371,33 @@ Auf die Vollziehung des Beschlusses zur vorläufigen Kontenpfändung sind die Vo
 
 (4) Zuständige Stelle ist in den Fällen des Artikels 36 Absatz 5 Unterabsatz 2 der Verordnung (EU) Nr. 655/2014 das Amtsgericht, in dessen Bezirk das Vollstreckungsverfahren stattfinden soll oder stattgefunden hat. Dieses hat den Beschluss der Bank zuzustellen.
 
-
-## § 955 – Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
+# § 955 – Sicherheitsleistung nach Artikel 38 der Verordnung (EU) Nr. 655/2014
 
 Für die Entscheidung über Anträge des Schuldners auf Beendigung der Vollstreckung wegen erbrachter Sicherheitsleistung nach Artikel 38 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 655/2014 ist das Vollstreckungsgericht zuständig. Die Entscheidung nach Artikel 38 Absatz 1 der Verordnung (EU) Nr. 655/2014 ergeht durch Beschluss.
 
-
-## § 956 – Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955
+# § 956 – Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955
 
 (1) Gegen die Entscheidungen des Vollstreckungsgerichts nach § 954 Absatz 2 und 3 Satz 1 sowie nach § 955 Satz 1 findet die sofortige Beschwerde statt. Dies gilt auch für Entscheidungen des Gerichts des ersten Rechtszugs in den Fällen des § 954 Absatz 1 und 3 Satz 2 sowie des § 955 Satz 2.
 
 (2) Die sofortige Beschwerde ist innerhalb einer Notfrist von einem Monat ab Zustellung der Entscheidung einzulegen.
 
-
-## § 957 – Ausschluss der Rechtsbeschwerde
+# § 957 – Ausschluss der Rechtsbeschwerde
 
 In Verfahren zur grenzüberschreitenden vorläufigen Kontenpfändung nach der Verordnung (EU) Nr. 655/2014 findet die Rechtsbeschwerde nicht statt.
 
-
-## § 958 – Schadensersatz
+# § 958 – Schadensersatz
 
 Erweist sich die Anordnung eines Beschlusses zur vorläufigen Kontenpfändung, der im Inland vollzogen worden ist, als von Anfang an ungerechtfertigt, so ist der Gläubiger verpflichtet, dem Schuldner den Schaden zu ersetzen, der ihm aus der Vollziehung des Beschlusses oder dadurch entsteht, dass er Sicherheit leistet, um die Freigabe der vorläufig gepfändeten Gelder oder die Beendigung der Vollstreckung zu erwirken. Im Übrigen richtet sich die Haftung des Gläubigers gegenüber dem Schuldner nach Artikel 13 Absatz 1 und 2 der Verordnung (EU) Nr. 655/2014.
 
-
-## § 959 – Verordnungsermächtigung
+# § 959 – Verordnungsermächtigung
 
 (1) Die Landesregierungen können die Aufgaben nach Artikel 10 Absatz 2, Artikel 23 Absatz 3, 5 und 6, Artikel 25 Absatz 3, Artikel 27 Absatz 2, Artikel 28 Absatz 3 sowie Artikel 36 Absatz 5 Unterabsatz 2 und 3 der Verordnung (EU) Nr. 655/2014 einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen.
 
 (2) Die Landesregierungen können die Ermächtigung nach Absatz 1 durch Rechtsverordnung einer obersten Landesbehörde übertragen.
 
+# §§ 960 bis 1024 – (weggefallen)
 
-## §§ 960 bis 1024 – (weggefallen)
-
-
-## § 1025 – Anwendungsbereich
+# § 1025 – Anwendungsbereich
 
 (1) Die Vorschriften dieses Buches sind anzuwenden, wenn der Ort des schiedsrichterlichen Verfahrens im Sinne des § 1043 Abs. 1 in Deutschland liegt.
 
@@ -13392,32 +12407,27 @@ Erweist sich die Anordnung eines Beschlusses zur vorläufigen Kontenpfändung, d
 
 (4) Für die Anerkennung und Vollstreckung ausländischer Schiedssprüche gelten die §§ 1061 bis 1065.
 
-
-## § 1026 – Umfang gerichtlicher Tätigkeit
+# § 1026 – Umfang gerichtlicher Tätigkeit
 
 Ein Gericht darf in den in den §§ 1025 bis 1061 geregelten Angelegenheiten nur tätig werden, soweit dieses Buch es vorsieht.
 
-
-## § 1027 – Verlust des Rügerechts
+# § 1027 – Verlust des Rügerechts
 
 Ist einer Bestimmung dieses Buches, von der die Parteien abweichen können, oder einem vereinbarten Erfordernis des schiedsrichterlichen Verfahrens nicht entsprochen worden, so kann eine Partei, die den Mangel nicht unverzüglich oder innerhalb einer dafür vorgesehenen Frist rügt, diesen später nicht mehr geltend machen. Dies gilt nicht, wenn der Partei der Mangel nicht bekannt war.
 
-
-## § 1028 – Empfang schriftlicher Mitteilungen bei unbekanntem Aufenthalt
+# § 1028 – Empfang schriftlicher Mitteilungen bei unbekanntem Aufenthalt
 
 (1) Ist der Aufenthalt einer Partei oder einer zur Entgegennahme berechtigten Person unbekannt, gelten, sofern die Parteien nichts anderes vereinbart haben, schriftliche Mitteilungen an dem Tag als empfangen, an dem sie bei ordnungsgemäßer Übermittlung durch Einschreiben gegen Rückschein oder auf eine andere Weise, welche den Zugang an der letztbekannten Postanschrift oder Niederlassung oder dem letztbekannten gewöhnlichen Aufenthalt des Adressaten belegt, dort hätten empfangen werden können.
 
 (2) Absatz 1 ist auf Mitteilungen in gerichtlichen Verfahren nicht anzuwenden.
 
-
-## § 1029 – Begriffsbestimmung
+# § 1029 – Begriffsbestimmung
 
 (1) Schiedsvereinbarung ist eine Vereinbarung der Parteien, alle oder einzelne Streitigkeiten, die zwischen ihnen in Bezug auf ein bestimmtes Rechtsverhältnis vertraglicher oder nichtvertraglicher Art entstanden sind oder künftig entstehen, der Entscheidung durch ein Schiedsgericht zu unterwerfen.
 
 (2) Eine Schiedsvereinbarung kann in Form einer selbständigen Vereinbarung (Schiedsabrede) oder in Form einer Klausel in einem Vertrag (Schiedsklausel) geschlossen werden.
 
-
-## § 1030 – Schiedsfähigkeit
+# § 1030 – Schiedsfähigkeit
 
 (1) Jeder vermögensrechtliche Anspruch kann Gegenstand einer Schiedsvereinbarung sein. Eine Schiedsvereinbarung über nichtvermögensrechtliche Ansprüche hat insoweit rechtliche Wirkung, als die Parteien berechtigt sind, über den Gegenstand des Streites einen Vergleich zu schließen.
 
@@ -13425,8 +12435,7 @@ Ist einer Bestimmung dieses Buches, von der die Parteien abweichen können, oder
 
 (3) Gesetzliche Vorschriften außerhalb dieses Buches, nach denen Streitigkeiten einem schiedsrichterlichen Verfahren nicht oder nur unter bestimmten Voraussetzungen unterworfen werden dürfen, bleiben unberührt.
 
-
-## § 1031 – Form der Schiedsvereinbarung
+# § 1031 – Form der Schiedsvereinbarung
 
 (1) Die Schiedsvereinbarung muss entweder in einem von den Parteien unterzeichneten Dokument oder in zwischen ihnen gewechselten Schreiben, Fernkopien, Telegrammen oder anderen Formen der Nachrichtenübermittlung, die einen Nachweis der Vereinbarung sicherstellen, enthalten sein.
 
@@ -13440,8 +12449,7 @@ Ist einer Bestimmung dieses Buches, von der die Parteien abweichen können, oder
 
 (6) Der Mangel der Form wird durch die Einlassung auf die schiedsgerichtliche Verhandlung zur Hauptsache geheilt.
 
-
-## § 1032 – Schiedsvereinbarung und Klage vor Gericht
+# § 1032 – Schiedsvereinbarung und Klage vor Gericht
 
 (1) Wird vor einem Gericht Klage in einer Angelegenheit erhoben, die Gegenstand einer Schiedsvereinbarung ist, so hat das Gericht die Klage als unzulässig abzuweisen, sofern der Beklagte dies vor Beginn der mündlichen Verhandlung zur Hauptsache rügt, es sei denn, das Gericht stellt fest, dass die Schiedsvereinbarung nichtig, unwirksam oder undurchführbar ist.
 
@@ -13449,20 +12457,17 @@ Ist einer Bestimmung dieses Buches, von der die Parteien abweichen können, oder
 
 (3) Ist ein Verfahren im Sinne des Absatzes 1 oder 2 anhängig, kann ein schiedsrichterliches Verfahren gleichwohl eingeleitet oder fortgesetzt werden und ein Schiedsspruch ergehen.
 
-
-## § 1033 – Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
+# § 1033 – Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
 
 Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder nach Beginn des schiedsrichterlichen Verfahrens auf Antrag einer Partei eine vorläufige oder sichernde Maßnahme in Bezug auf den Streitgegenstand des schiedsrichterlichen Verfahrens anordnet.
 
-
-## § 1034 – Zusammensetzung des Schiedsgerichts
+# § 1034 – Zusammensetzung des Schiedsgerichts
 
 (1) Die Parteien können die Anzahl der Schiedsrichter vereinbaren. Fehlt eine solche Vereinbarung, so ist die Zahl der Schiedsrichter drei.
 
 (2) Gibt die Schiedsvereinbarung einer Partei bei der Zusammensetzung des Schiedsgerichts ein Übergewicht, das die andere Partei benachteiligt, so kann diese Partei bei Gericht beantragen, den oder die Schiedsrichter abweichend von der erfolgten Ernennung oder der vereinbarten Ernennungsregelung zu bestellen. Der Antrag ist spätestens bis zum Ablauf von zwei Wochen, nachdem der Partei die Zusammensetzung des Schiedsgerichts bekannt geworden ist, zu stellen. § 1032 Abs. 3 gilt entsprechend.
 
-
-## § 1035 – Bestellung der Schiedsrichter
+# § 1035 – Bestellung der Schiedsrichter
 
 (1) Die Parteien können das Verfahren zur Bestellung des Schiedsrichters oder der Schiedsrichter vereinbaren.
 
@@ -13474,15 +12479,13 @@ Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder nach Beg
 
 (5) Das Gericht hat bei der Bestellung eines Schiedsrichters alle nach der Parteivereinbarung für den Schiedsrichter vorgeschriebenen Voraussetzungen zu berücksichtigen und allen Gesichtspunkten Rechnung zu tragen, die die Bestellung eines unabhängigen und unparteiischen Schiedsrichters sicherstellen. Bei der Bestellung eines Einzelschiedsrichters oder eines dritten Schiedsrichters hat das Gericht auch die Zweckmäßigkeit der Bestellung eines Schiedsrichters mit einer anderen Staatsangehörigkeit als derjenigen der Parteien in Erwägung zu ziehen.
 
-
-## § 1036 – Ablehnung eines Schiedsrichters
+# § 1036 – Ablehnung eines Schiedsrichters
 
 (1) Eine Person, der ein Schiedsrichteramt angetragen wird, hat alle Umstände offen zu legen, die Zweifel an ihrer Unparteilichkeit oder Unabhängigkeit wecken können. Ein Schiedsrichter ist auch nach seiner Bestellung bis zum Ende des schiedsrichterlichen Verfahrens verpflichtet, solche Umstände den Parteien unverzüglich offen zu legen, wenn er sie ihnen nicht schon vorher mitgeteilt hat.
 
 (2) Ein Schiedsrichter kann nur abgelehnt werden, wenn Umstände vorliegen, die berechtigte Zweifel an seiner Unparteilichkeit oder Unabhängigkeit aufkommen lassen, oder wenn er die zwischen den Parteien vereinbarten Voraussetzungen nicht erfüllt. Eine Partei kann einen Schiedsrichter, den sie bestellt oder an dessen Bestellung sie mitgewirkt hat, nur aus Gründen ablehnen, die ihr erst nach der Bestellung bekannt geworden sind.
 
-
-## § 1037 – Ablehnungsverfahren
+# § 1037 – Ablehnungsverfahren
 
 (1) Die Parteien können vorbehaltlich des Absatzes 3 ein Verfahren für die Ablehnung eines Schiedsrichters vereinbaren.
 
@@ -13490,22 +12493,19 @@ Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder nach Beg
 
 (3) Bleibt die Ablehnung nach dem von den Parteien vereinbarten Verfahren oder nach dem in Absatz 2 vorgesehenen Verfahren erfolglos, so kann die ablehnende Partei innerhalb eines Monats, nachdem sie von der Entscheidung, mit der die Ablehnung verweigert wurde, Kenntnis erlangt hat, bei Gericht eine Entscheidung über die Ablehnung beantragen; die Parteien können eine andere Frist vereinbaren. Während ein solcher Antrag anhängig ist, kann das Schiedsgericht einschließlich des abgelehnten Schiedsrichters das schiedsrichterliche Verfahren fortsetzen und einen Schiedsspruch erlassen.
 
-
-## § 1038 – Untätigkeit oder Unmöglichkeit der Aufgabenerfüllung
+# § 1038 – Untätigkeit oder Unmöglichkeit der Aufgabenerfüllung
 
 (1) Ist ein Schiedsrichter rechtlich oder tatsächlich außerstande, seine Aufgaben zu erfüllen, oder kommt er aus anderen Gründen seinen Aufgaben in angemessener Frist nicht nach, so endet sein Amt, wenn er zurücktritt oder wenn die Parteien die Beendigung seines Amtes vereinbaren. Tritt der Schiedsrichter von seinem Amt nicht zurück oder können sich die Parteien über dessen Beendigung nicht einigen, kann jede Partei bei Gericht eine Entscheidung über die Beendigung des Amtes beantragen.
 
 (2) Tritt ein Schiedsrichter in den Fällen des Absatzes 1 oder des § 1037 Abs. 2 zurück oder stimmt eine Partei der Beendigung des Schiedsrichteramtes zu, so bedeutet dies nicht die Anerkennung der in Absatz 1 oder § 1036 Abs. 2 genannten Rücktrittsgründe.
 
-
-## § 1039 – Bestellung eines Ersatzschiedsrichters
+# § 1039 – Bestellung eines Ersatzschiedsrichters
 
 (1) Endet das Amt eines Schiedsrichters nach den §§ 1037, 1038 oder wegen seines Rücktritts vom Amt aus einem anderen Grund oder wegen der Aufhebung seines Amtes durch Vereinbarung der Parteien, so ist ein Ersatzschiedsrichter zu bestellen. Die Bestellung erfolgt nach den Regeln, die auf die Bestellung des zu ersetzenden Schiedsrichters anzuwenden waren.
 
 (2) Die Parteien können eine abweichende Vereinbarung treffen.
 
-
-## § 1040 – Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit
+# § 1040 – Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit
 
 (1) Das Schiedsgericht kann über die eigene Zuständigkeit und im Zusammenhang hiermit über das Bestehen oder die Gültigkeit der Schiedsvereinbarung entscheiden. Hierbei ist eine Schiedsklausel als eine von den übrigen Vertragsbestimmungen unabhängige Vereinbarung zu behandeln.
 
@@ -13513,8 +12513,7 @@ Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder nach Beg
 
 (3) Hält das Schiedsgericht sich für zuständig, so entscheidet es über eine Rüge nach Absatz 2 in der Regel durch Zwischenentscheid. In diesem Fall kann jede Partei innerhalb eines Monats nach schriftlicher Mitteilung des Entscheids eine gerichtliche Entscheidung beantragen. Während ein solcher Antrag anhängig ist, kann das Schiedsgericht das schiedsrichterliche Verfahren fortsetzen und einen Schiedsspruch erlassen.
 
-
-## § 1041 – Maßnahmen des einstweiligen Rechtsschutzes
+# § 1041 – Maßnahmen des einstweiligen Rechtsschutzes
 
 (1) Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht auf Antrag einer Partei vorläufige oder sichernde Maßnahmen anordnen, die es in Bezug auf den Streitgegenstand für erforderlich hält. Das Schiedsgericht kann von jeder Partei im Zusammenhang mit einer solchen Maßnahme angemessene Sicherheit verlangen.
 
@@ -13524,8 +12523,7 @@ Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder nach Beg
 
 (4) Erweist sich die Anordnung einer Maßnahme nach Absatz 1 als von Anfang an ungerechtfertigt, so ist die Partei, welche ihre Vollziehung erwirkt hat, verpflichtet, dem Gegner den Schaden zu ersetzen, der ihm aus der Vollziehung der Maßnahme oder dadurch entsteht, dass er Sicherheit leistet, um die Vollziehung abzuwenden. Der Anspruch kann im anhängigen schiedsrichterlichen Verfahren geltend gemacht werden.
 
-
-## § 1042 – Allgemeine Verfahrensregeln
+# § 1042 – Allgemeine Verfahrensregeln
 
 (1) Die Parteien sind gleich zu behandeln. Jeder Partei ist rechtliches Gehör zu gewähren.
 
@@ -13535,27 +12533,23 @@ Eine Schiedsvereinbarung schließt nicht aus, dass ein Gericht vor oder nach Beg
 
 (4) Soweit eine Vereinbarung der Parteien nicht vorliegt und dieses Buch keine Regelung enthält, werden die Verfahrensregeln vom Schiedsgericht nach freiem Ermessen bestimmt. Das Schiedsgericht ist berechtigt, über die Zulässigkeit einer Beweiserhebung zu entscheiden, diese durchzuführen und das Ergebnis frei zu würdigen.
 
-
-## § 1043 – Ort des schiedsrichterlichen Verfahrens
+# § 1043 – Ort des schiedsrichterlichen Verfahrens
 
 (1) Die Parteien können eine Vereinbarung über den Ort des schiedsrichterlichen Verfahrens treffen. Fehlt eine solche Vereinbarung, so wird der Ort des schiedsrichterlichen Verfahrens vom Schiedsgericht bestimmt. Dabei sind die Umstände des Falles einschließlich der Eignung des Ortes für die Parteien zu berücksichtigen.
 
 (2) Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht ungeachtet des Absatzes 1 an jedem ihm geeignet erscheinenden Ort zu einer mündlichen Verhandlung, zur Vernehmung von Zeugen, Sachverständigen oder der Parteien, zur Beratung zwischen seinen Mitgliedern, zur Besichtigung von Sachen oder zur Einsichtnahme in Dokumente zusammentreten.
 
-
-## § 1044 – Beginn des schiedsrichterlichen Verfahrens
+# § 1044 – Beginn des schiedsrichterlichen Verfahrens
 
 Haben die Parteien nichts anderes vereinbart, so beginnt das schiedsrichterliche Verfahren über eine bestimmte Streitigkeit mit dem Tag, an dem der Beklagte den Antrag, die Streitigkeit einem Schiedsgericht vorzulegen, empfangen hat. Der Antrag muss die Bezeichnung der Parteien, die Angabe des Streitgegenstandes und einen Hinweis auf die Schiedsvereinbarung enthalten.
 
-
-## § 1045 – Verfahrenssprache
+# § 1045 – Verfahrenssprache
 
 (1) Die Parteien können die Sprache oder die Sprachen, die im schiedsrichterlichen Verfahren zu verwenden sind, vereinbaren. Fehlt eine solche Vereinbarung, so bestimmt hierüber das Schiedsgericht. Die Vereinbarung der Parteien oder die Bestimmung des Schiedsgerichts ist, sofern darin nichts anderes vorgesehen wird, für schriftliche Erklärungen einer Partei, mündliche Verhandlungen, Schiedssprüche, sonstige Entscheidungen und andere Mitteilungen des Schiedsgerichts maßgebend.
 
 (2) Das Schiedsgericht kann anordnen, dass schriftliche Beweismittel mit einer Übersetzung in die Sprache oder die Sprachen versehen sein müssen, die zwischen den Parteien vereinbart oder vom Schiedsgericht bestimmt worden sind.
 
-
-## § 1046 – Klage und Klagebeantwortung
+# § 1046 – Klage und Klagebeantwortung
 
 (1) Innerhalb der von den Parteien vereinbarten oder vom Schiedsgericht bestimmten Frist hat der Kläger seinen Anspruch und die Tatsachen, auf die sich dieser Anspruch stützt, darzulegen und der Beklagte hierzu Stellung zu nehmen. Die Parteien können dabei alle ihnen erheblich erscheinenden Dokumente vorlegen oder andere Beweismittel bezeichnen, derer sie sich bedienen wollen.
 
@@ -13563,8 +12557,7 @@ Haben die Parteien nichts anderes vereinbart, so beginnt das schiedsrichterliche
 
 (3) Die Absätze 1 und 2 gelten für die Widerklage entsprechend.
 
-
-## § 1047 – Mündliche Verhandlung und schriftliches Verfahren
+# § 1047 – Mündliche Verhandlung und schriftliches Verfahren
 
 (1) Vorbehaltlich einer Vereinbarung der Parteien entscheidet das Schiedsgericht, ob mündlich verhandelt werden soll oder ob das Verfahren auf der Grundlage von Dokumenten und anderen Unterlagen durchzuführen ist. Haben die Parteien die mündliche Verhandlung nicht ausgeschlossen, hat das Schiedsgericht eine solche Verhandlung in einem geeigneten Abschnitt des Verfahrens durchzuführen, wenn eine Partei es beantragt.
 
@@ -13572,8 +12565,7 @@ Haben die Parteien nichts anderes vereinbart, so beginnt das schiedsrichterliche
 
 (3) Alle Schriftsätze, Dokumente und sonstigen Mitteilungen, die dem Schiedsgericht von einer Partei vorgelegt werden, sind der anderen Partei, Gutachten und andere schriftliche Beweismittel, auf die sich das Schiedsgericht bei seiner Entscheidung stützen kann, sind beiden Parteien zur Kenntnis zu bringen.
 
-
-## § 1048 – Säumnis einer Partei
+# § 1048 – Säumnis einer Partei
 
 (1) Versäumt es der Kläger, seine Klage nach § 1046 Abs. 1 einzureichen, so beendet das Schiedsgericht das Verfahren.
 
@@ -13583,8 +12575,7 @@ Haben die Parteien nichts anderes vereinbart, so beginnt das schiedsrichterliche
 
 (4) Wird die Säumnis nach Überzeugung des Schiedsgerichts genügend entschuldigt, bleibt sie außer Betracht. Im Übrigen können die Parteien über die Folgen der Säumnis etwas anderes vereinbaren.
 
-
-## § 1049 – Vom Schiedsgericht bestellter Sachverständiger
+# § 1049 – Vom Schiedsgericht bestellter Sachverständiger
 
 (1) Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht einen oder mehrere Sachverständige zur Erstattung eines Gutachtens über bestimmte vom Schiedsgericht festzulegende Fragen bestellen. Es kann ferner eine Partei auffordern, dem Sachverständigen jede sachdienliche Auskunft zu erteilen oder alle für das Verfahren erheblichen Dokumente oder Sachen zur Besichtigung vorzulegen oder zugänglich zu machen.
 
@@ -13592,13 +12583,11 @@ Haben die Parteien nichts anderes vereinbart, so beginnt das schiedsrichterliche
 
 (3) Auf den vom Schiedsgericht bestellten Sachverständigen sind die §§ 1036, 1037 Abs. 1 und 2 entsprechend anzuwenden.
 
-
-## § 1050 – Gerichtliche Unterstützung bei der Beweisaufnahme und sonstige richterliche Handlungen
+# § 1050 – Gerichtliche Unterstützung bei der Beweisaufnahme und sonstige richterliche Handlungen
 
 Das Schiedsgericht oder eine Partei mit Zustimmung des Schiedsgerichts kann bei Gericht Unterstützung bei der Beweisaufnahme oder die Vornahme sonstiger richterlicher Handlungen, zu denen das Schiedsgericht nicht befugt ist, beantragen. Das Gericht erledigt den Antrag, sofern es ihn nicht für unzulässig hält, nach seinen für die Beweisaufnahme oder die sonstige richterliche Handlung geltenden Verfahrensvorschriften. Die Schiedsrichter sind berechtigt, an einer gerichtlichen Beweisaufnahme teilzunehmen und Fragen zu stellen.
 
-
-## § 1051 – Anwendbares Recht
+# § 1051 – Anwendbares Recht
 
 (1) Das Schiedsgericht hat die Streitigkeit in Übereinstimmung mit den Rechtsvorschriften zu entscheiden, die von den Parteien als auf den Inhalt des Rechtsstreits anwendbar bezeichnet worden sind. Die Bezeichnung des Rechts oder der Rechtsordnung eines bestimmten Staates ist, sofern die Parteien nicht ausdrücklich etwas anderes vereinbart haben, als unmittelbare Verweisung auf die Sachvorschriften dieses Staates und nicht auf sein Kollisionsrecht zu verstehen.
 
@@ -13608,8 +12597,7 @@ Das Schiedsgericht oder eine Partei mit Zustimmung des Schiedsgerichts kann bei 
 
 (4) In allen Fällen hat das Schiedsgericht in Übereinstimmung mit den Bestimmungen des Vertrages zu entscheiden und dabei bestehende Handelsbräuche zu berücksichtigen.
 
-
-## § 1052 – Entscheidung durch ein Schiedsrichterkollegium
+# § 1052 – Entscheidung durch ein Schiedsrichterkollegium
 
 (1) Haben die Parteien nichts anderes vereinbart, so ist in schiedsrichterlichen Verfahren mit mehr als einem Schiedsrichter jede Entscheidung des Schiedsgerichts mit Mehrheit der Stimmen aller Mitglieder zu treffen.
 
@@ -13617,8 +12605,7 @@ Das Schiedsgericht oder eine Partei mit Zustimmung des Schiedsgerichts kann bei 
 
 (3) Über einzelne Verfahrensfragen kann der vorsitzende Schiedsrichter allein entscheiden, wenn die Parteien oder die anderen Mitglieder des Schiedsgerichts ihn dazu ermächtigt haben.
 
-
-## § 1053 – Vergleich
+# § 1053 – Vergleich
 
 (1) Vergleichen sich die Parteien während des schiedsrichterlichen Verfahrens über die Streitigkeit, so beendet das Schiedsgericht das Verfahren. Auf Antrag der Parteien hält es den Vergleich in der Form eines Schiedsspruchs mit vereinbartem Wortlaut fest, sofern der Inhalt des Vergleichs nicht gegen die öffentliche Ordnung (ordre public) verstößt.
 
@@ -13628,8 +12615,7 @@ Das Schiedsgericht oder eine Partei mit Zustimmung des Schiedsgerichts kann bei 
 
 (4) Mit Zustimmung der Parteien kann ein Schiedsspruch mit vereinbartem Wortlaut auch von einem Notar, der seinen Amtssitz im Bezirk des nach § 1062 Abs. 1, 2 für die Vollstreckbarerklärung zuständigen Gerichts hat, für vollstreckbar erklärt werden. Der Notar lehnt die Vollstreckbarerklärung ab, wenn die Voraussetzungen des Absatzes 1 Satz 2 nicht vorliegen.
 
-
-## § 1054 – Form und Inhalt des Schiedsspruchs
+# § 1054 – Form und Inhalt des Schiedsspruchs
 
 (1) Der Schiedsspruch ist schriftlich zu erlassen und durch den Schiedsrichter oder die Schiedsrichter zu unterschreiben. In schiedsrichterlichen Verfahren mit mehr als einem Schiedsrichter genügen die Unterschriften der Mehrheit aller Mitglieder des Schiedsgerichts, sofern der Grund für eine fehlende Unterschrift angegeben wird.
 
@@ -13639,13 +12625,11 @@ Das Schiedsgericht oder eine Partei mit Zustimmung des Schiedsgerichts kann bei 
 
 (4) Jeder Partei ist ein von den Schiedsrichtern unterschriebener Schiedsspruch zu übermitteln.
 
-
-## § 1055 – Wirkungen des Schiedsspruchs
+# § 1055 – Wirkungen des Schiedsspruchs
 
 Der Schiedsspruch hat unter den Parteien die Wirkungen eines rechtskräftigen gerichtlichen Urteils.
 
-
-## § 1056 – Beendigung des schiedsrichterlichen Verfahrens
+# § 1056 – Beendigung des schiedsrichterlichen Verfahrens
 
 (1) Das schiedsrichterliche Verfahren wird mit dem endgültigen Schiedsspruch oder mit einem Beschluss des Schiedsgerichts nach Absatz 2 beendet.
 
@@ -13663,15 +12647,13 @@ b) seine Klage zurücknimmt, es sei denn, dass der Beklagte dem widerspricht und
 
 (3) Vorbehaltlich des § 1057 Abs. 2 und der §§ 1058, 1059 Abs. 4 endet das Amt des Schiedsgerichts mit der Beendigung des schiedsrichterlichen Verfahrens.
 
-
-## § 1057 – Entscheidung über die Kosten
+# § 1057 – Entscheidung über die Kosten
 
 (1) Sofern die Parteien nichts anderes vereinbart haben, hat das Schiedsgericht in einem Schiedsspruch darüber zu entscheiden, zu welchem Anteil die Parteien die Kosten des schiedsrichterlichen Verfahrens einschließlich der den Parteien erwachsenen und zur zweckentsprechenden Rechtsverfolgung notwendigen Kosten zu tragen haben. Hierbei entscheidet das Schiedsgericht nach pflichtgemäßem Ermessen unter Berücksichtigung der Umstände des Einzelfalles, insbesondere des Ausgangs des Verfahrens.
 
 (2) Soweit die Kosten des schiedsrichterlichen Verfahrens feststehen, hat das Schiedsgericht auch darüber zu entscheiden, in welcher Höhe die Parteien diese zu tragen haben. Ist die Festsetzung der Kosten unterblieben oder erst nach Beendigung des schiedsrichterlichen Verfahrens möglich, wird hierüber in einem gesonderten Schiedsspruch entschieden.
 
-
-## § 1058 – Berichtigung, Auslegung und Ergänzung des Schiedsspruchs
+# § 1058 – Berichtigung, Auslegung und Ergänzung des Schiedsspruchs
 
 (1) Jede Partei kann beim Schiedsgericht beantragen,
 
@@ -13689,8 +12671,7 @@ b) seine Klage zurücknimmt, es sei denn, dass der Beklagte dem widerspricht und
 
 (5) § 1054 ist auf die Berichtigung, Auslegung oder Ergänzung des Schiedsspruchs anzuwenden.
 
-
-## § 1059 – Aufhebungsantrag
+# § 1059 – Aufhebungsantrag
 
 (1) Gegen einen Schiedsspruch kann nur der Antrag auf gerichtliche Aufhebung nach den Absätzen 2 und 3 gestellt werden.
 
@@ -13718,15 +12699,13 @@ b) die Anerkennung oder Vollstreckung des Schiedsspruchs zu einem Ergebnis führ
 
 (5) Die Aufhebung des Schiedsspruchs hat im Zweifel zur Folge, dass wegen des Streitgegenstandes die Schiedsvereinbarung wiederauflebt.
 
-
-## § 1060 – Inländische Schiedssprüche
+# § 1060 – Inländische Schiedssprüche
 
 (1) Die Zwangsvollstreckung findet statt, wenn der Schiedsspruch für vollstreckbar erklärt ist.
 
 (2) Der Antrag auf Vollstreckbarerklärung ist unter Aufhebung des Schiedsspruchs abzulehnen, wenn einer der in § 1059 Abs. 2 bezeichneten Aufhebungsgründe vorliegt. Aufhebungsgründe sind nicht zu berücksichtigen, soweit im Zeitpunkt der Zustellung des Antrags auf Vollstreckbarerklärung ein auf sie gestützter Aufhebungsantrag rechtskräftig abgewiesen ist. Aufhebungsgründe nach § 1059 Abs. 2 Nr. 1 sind auch dann nicht zu berücksichtigen, wenn die in § 1059 Abs. 3 bestimmten Fristen abgelaufen sind, ohne dass der Antragsgegner einen Antrag auf Aufhebung des Schiedsspruchs gestellt hat.
 
-
-## § 1061 – Ausländische Schiedssprüche
+# § 1061 – Ausländische Schiedssprüche
 
 (1) Die Anerkennung und Vollstreckung ausländischer Schiedssprüche richtet sich nach dem Übereinkommen vom 10. Juni 1958 über die Anerkennung und Vollstreckung ausländischer Schiedssprüche (BGBl. 1961 II S. 121). Die Vorschriften in anderen Staatsverträgen über die Anerkennung und Vollstreckung von Schiedssprüchen bleiben unberührt.
 
@@ -13734,8 +12713,7 @@ b) die Anerkennung oder Vollstreckung des Schiedsspruchs zu einem Ergebnis führ
 
 (3) Wird der Schiedsspruch, nachdem er für vollstreckbar erklärt worden ist, im Ausland aufgehoben, so kann die Aufhebung der Vollstreckbarerklärung beantragt werden.
 
-
-## § 1062 – Zuständigkeit
+# § 1062 – Zuständigkeit
 
 (1) Das Oberlandesgericht, das in der Schiedsvereinbarung bezeichnet ist oder, wenn eine solche Bezeichnung fehlt, in dessen Bezirk der Ort des schiedsrichterlichen Verfahrens liegt, ist zuständig für Entscheidungen über Anträge betreffend
 
@@ -13755,8 +12733,7 @@ b) die Anerkennung oder Vollstreckung des Schiedsspruchs zu einem Ergebnis führ
 
 (5) Sind in einem Land mehrere Oberlandesgerichte errichtet, so kann die Zuständigkeit von der Landesregierung durch Rechtsverordnung einem Oberlandesgericht oder dem obersten Landesgericht übertragen werden; die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltung übertragen. Mehrere Länder können die Zuständigkeit eines Oberlandesgerichts über die Ländergrenzen hinaus vereinbaren.
 
-
-## § 1063 – Allgemeine Vorschriften
+# § 1063 – Allgemeine Vorschriften
 
 (1) Das Gericht entscheidet durch Beschluss. Vor der Entscheidung ist der Gegner zu hören.
 
@@ -13766,8 +12743,7 @@ b) die Anerkennung oder Vollstreckung des Schiedsspruchs zu einem Ergebnis führ
 
 (4) Solange eine mündliche Verhandlung nicht angeordnet ist, können zu Protokoll der Geschäftsstelle Anträge gestellt und Erklärungen abgegeben werden.
 
-
-## § 1064 – Besonderheiten bei der Vollstreckbarerklärung von Schiedssprüchen
+# § 1064 – Besonderheiten bei der Vollstreckbarerklärung von Schiedssprüchen
 
 (1) Mit dem Antrag auf Vollstreckbarerklärung eines Schiedsspruchs ist der Schiedsspruch oder eine beglaubigte Abschrift des Schiedsspruchs vorzulegen. Die Beglaubigung kann auch von dem für das gerichtliche Verfahren bevollmächtigten Rechtsanwalt vorgenommen werden.
 
@@ -13775,34 +12751,29 @@ b) die Anerkennung oder Vollstreckung des Schiedsspruchs zu einem Ergebnis führ
 
 (3) Auf ausländische Schiedssprüche sind die Absätze 1 und 2 anzuwenden, soweit Staatsverträge nicht ein anderes bestimmen.
 
-
-## § 1065 – Rechtsmittel
+# § 1065 – Rechtsmittel
 
 (1) Gegen die in § 1062 Abs. 1 Nr. 2 und 4 genannten Entscheidungen findet die Rechtsbeschwerde statt. Im Übrigen sind die Entscheidungen in den in § 1062 Abs. 1 bezeichneten Verfahren unanfechtbar.
 
 (2) Die Rechtsbeschwerde kann auch darauf gestützt werden, dass die Entscheidung auf einer Verletzung eines Staatsvertrages beruht. Die §§ 707, 717 sind entsprechend anzuwenden.
 
-
-## § 1066 – Entsprechende Anwendung der Vorschriften des Buches 10
+# § 1066 – Entsprechende Anwendung der Vorschriften des Buches 10
 
 Für Schiedsgerichte, die in gesetzlich statthafter Weise durch letztwillige oder andere nicht auf Vereinbarung beruhende Verfügungen angeordnet werden, gelten die Vorschriften dieses Buches entsprechend.
 
-
-## § 1067 – Zustellung durch diplomatische oder konsularische Vertretungen
+# § 1067 – Zustellung durch diplomatische oder konsularische Vertretungen
 
 (1) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007 durch eine deutsche Auslandsvertretung an eine Person, die nicht die deutsche Staatsangehörigkeit besitzt, wird nur vorgenommen, sofern der Mitgliedstaat, in dem die Zustellung erfolgen soll, dies nicht durch eine Erklärung nach Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1393/2007 ausgeschlossen hat.
 
 (2) Eine Zustellung nach Artikel 13 der Verordnung (EG) Nr. 1393/2007, die in der Bundesrepublik Deutschland bewirkt werden soll, ist nur zulässig, wenn der Adressat des zuzustellenden Schriftstücks Staatsangehöriger des Übermittlungsstaats ist.
 
-
-## § 1068 – Zustellung durch die Post
+# § 1068 – Zustellung durch die Post
 
 (1) Zum Nachweis der Zustellung nach Artikel 14 der Verordnung (EG) Nr. 1393/2007 genügt der Rückschein oder der gleichwertige Beleg.
 
 (2) Sofern die ausländische Übermittlungsstelle keine besondere, im deutschen Recht vorgesehene Form der Zustellung wünscht, kann ein Schriftstück, dessen Zustellung eine deutsche Empfangsstelle im Rahmen von Artikel 7 Absatz 1 der Verordnung (EG) Nr. 1393/2007 zu bewirken oder zu veranlassen hat, ebenfalls durch Einschreiben mit Rückschein zugestellt werden.
 
-
-## § 1069 – Zuständigkeiten; Verordnungsermächtigungen
+# § 1069 – Zuständigkeiten; Verordnungsermächtigungen
 
 (1) Für Zustellungen im Ausland sind als deutsche Übermittlungsstelle im Sinne von Artikel 2 Abs. 1 der Verordnung (EG) Nr. 1393/2007 zuständig:
 
@@ -13816,18 +12787,15 @@ Für Schiedsgerichte, die in gesetzlich statthafter Weise durch letztwillige ode
 
 (4) Die Landesregierungen können die Befugnis zum Erlass einer Rechtsverordnung nach Absatz 1 Nr. 2, Absatz 2 Satz 2 und Absatz 3 Satz 1 einer obersten Landesbehörde übertragen.
 
-
-## § 1070 – Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
+# § 1070 – Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen
 
 Wenn die Verordnung (EG) Nr. 1393/2007 im Verhältnis zu Dänemark auf Grund des Artikels 2 Absatz 1 des Abkommens zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen anwendbar ist, gelten die Vorschriften der §§ 1067 bis 1069 entsprechend.
 
-
-## § 1071 – (weggefallen)
+# § 1071 – (weggefallen)
 
 \-
 
-
-## § 1072 – Beweisaufnahme in den Mitgliedstaaten der Europäischen Union
+# § 1072 – Beweisaufnahme in den Mitgliedstaaten der Europäischen Union
 
 Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001 erfolgen, so kann das Gericht
 
@@ -13835,15 +12803,13 @@ Soll die Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001 erfolgen, so kann
 
 2. unter den Voraussetzungen des Artikels 17 der Verordnung (EG) Nr. 1206/2001 eine unmittelbare Beweisaufnahme in einem anderen Mitgliedstaat beantragen.
 
-
-## § 1073 – Teilnahmerechte
+# § 1073 – Teilnahmerechte
 
 (1) Das ersuchende deutsche Gericht oder ein von diesem beauftragtes Mitglied darf im Geltungsbereich der Verordnung (EG) Nr. 1206/2001 bei der Erledigung des Ersuchens auf Beweisaufnahme durch das ersuchte ausländische Gericht anwesend und beteiligt sein. Parteien, deren Vertreter sowie Sachverständige können sich hierbei in dem Umfang beteiligen, in dem sie in dem betreffenden Verfahren an einer inländischen Beweisaufnahme beteiligt werden dürfen.
 
 (2) Eine unmittelbare Beweisaufnahme im Ausland nach Artikel 17 Abs. 3 der Verordnung (EG) Nr. 1206/2001 dürfen Mitglieder des Gerichts sowie von diesem beauftragte Sachverständige durchführen.
 
-
-## § 1074 – Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001
+# § 1074 – Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001
 
 (1) Für Beweisaufnahmen in der Bundesrepublik Deutschland ist als ersuchtes Gericht im Sinne von Artikel 2 Abs. 1 der Verordnung (EG) Nr. 1206/2001 dasjenige Amtsgericht zuständig, in dessen Bezirk die Verfahrenshandlung durchgeführt werden soll.
 
@@ -13859,18 +12825,15 @@ Die Aufgaben nach den Nummern 1 und 2 können in jedem Land nur jeweils einer St
 
 (4) Die Landesregierungen können die Befugnis zum Erlass einer Rechtsverordnung nach den Absätzen 2 und 3 Satz 1 einer obersten Landesbehörde übertragen.
 
-
-## § 1075 – Sprache eingehender Ersuchen
+# § 1075 – Sprache eingehender Ersuchen
 
 Aus dem Ausland eingehende Ersuchen auf Beweisaufnahme sowie Mitteilungen nach der Verordnung (EG) Nr. 1206/2001 müssen in deutscher Sprache abgefasst oder von einer Übersetzung in die deutsche Sprache begleitet sein.
 
-
-## § 1076 – Anwendbare Vorschriften
+# § 1076 – Anwendbare Vorschriften
 
 Für die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union nach der Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug durch Festlegung gemeinsamer Mindestvorschriften für die Prozesskostenhilfe in derartigen Streitsachen (ABl. EG Nr. L 26 S. 41, ABl. EU Nr. L 32 S. 15) gelten die §§ 114 bis 127a, soweit nachfolgend nichts Abweichendes bestimmt ist.
 
-
-## § 1077 – Ausgehende Ersuchen
+# § 1077 – Ausgehende Ersuchen
 
 (1) Für die Entgegennahme und Übermittlung von Anträgen natürlicher Personen auf grenzüberschreitende Prozesskostenhilfe ist das Amtsgericht zuständig, in dessen Bezirk der Antragsteller seinen Wohnsitz oder gewöhnlichen Aufenthalt hat (Übermittlungsstelle). Die Landesregierungen können die Aufgaben der Übermittlungsstelle einem Amtsgericht für die Bezirke mehrerer Amtsgerichte durch Rechtsverordnung zuweisen. Sie können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. § 21 Satz 1 des Auslandsunterhaltsgesetzes bleibt unberührt.
 
@@ -13890,8 +12853,7 @@ Die Übermittlungsstelle prüft die Vollständigkeit des Antrags und wirkt darau
 
 (6) Hat die zuständige Stelle des anderen Mitgliedstaats das Ersuchen um Prozesskostenhilfe auf Grund der persönlichen und wirtschaftlichen Verhältnisse des Antragstellers abgelehnt oder eine Ablehnung angekündigt, so stellt die Übermittlungsstelle auf Antrag eine Bescheinigung der Bedürftigkeit aus, wenn der Antragsteller in einem entsprechenden deutschen Verfahren nach § 115 Abs. 1 und 2 als bedürftig anzusehen wäre. Absatz 4 Satz 1 gilt für die Übersetzung der Bescheinigung entsprechend. Die Übermittlungsstelle übersendet der Empfangsstelle des anderen Mitgliedstaats die Bescheinigung der Bedürftigkeit zwecks Ergänzung des ursprünglichen Ersuchens um grenzüberschreitende Prozesskostenhilfe.
 
-
-## § 1078 – Eingehende Ersuchen
+# § 1078 – Eingehende Ersuchen
 
 (1) Für eingehende Ersuchen um grenzüberschreitende Prozesskostenhilfe ist das Prozessgericht oder das Vollstreckungsgericht zuständig. Die Anträge müssen in deutscher Sprache ausgefüllt und die Anlagen von einer Übersetzung in die deutsche Sprache begleitet sein. Eine Legalisation oder gleichwertige Förmlichkeiten dürfen nicht verlangt werden.
 
@@ -13901,8 +12863,7 @@ Die Übermittlungsstelle prüft die Vollständigkeit des Antrags und wirkt darau
 
 (4) Wurde grenzüberschreitende Prozesskostenhilfe bewilligt, so gilt für jeden weiteren Rechtszug, der von dem Antragsteller oder dem Gegner eingeleitet wird, ein neuerliches Ersuchen um grenzüberschreitende Prozesskostenhilfe als gestellt. Das Gericht hat dahin zu wirken, dass der Antragsteller die Voraussetzungen für die Bewilligung der grenzüberschreitenden Prozesskostenhilfe für den jeweiligen Rechtszug darlegt.
 
-
-## § 1079 – Zuständigkeit
+# § 1079 – Zuständigkeit
 
 Für die Ausstellung der Bestätigungen nach
 
@@ -13912,15 +12873,13 @@ Für die Ausstellung der Bestätigungen nach
 
 der Verordnung (EG) Nr. 805/2004 sind die Gerichte, Behörden oder Notare zuständig, denen die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
-
-## § 1080 – Entscheidung
+# § 1080 – Entscheidung
 
 (1) Bestätigungen nach Artikel 9 Abs. 1, Artikel 24 Abs. 1, Artikel 25 Abs. 1 und Artikel 6 Abs. 3 der Verordnung (EG) Nr. 805/2004 sind ohne Anhörung des Schuldners auszustellen. Eine Ausfertigung der Bestätigung ist dem Schuldner von Amts wegen zuzustellen.
 
 (2) Wird der Antrag auf Ausstellung einer Bestätigung zurückgewiesen, so sind die Vorschriften über die Anfechtung der Entscheidung über die Erteilung einer Vollstreckungsklausel entsprechend anzuwenden.
 
-
-## § 1081 – Berichtigung und Widerruf
+# § 1081 – Berichtigung und Widerruf
 
 (1) Ein Antrag nach Artikel 10 Abs. 1 der Verordnung (EG) Nr. 805/2004 auf Berichtigung oder Widerruf einer gerichtlichen Bestätigung ist bei dem Gericht zu stellen, das die Bestätigung ausgestellt hat. Über den Antrag entscheidet dieses Gericht. Ein Antrag auf Berichtigung oder Widerruf einer notariellen oder behördlichen Bestätigung ist an die Stelle zu richten, die die Bestätigung ausgestellt hat. Die Notare oder Behörden leiten den Antrag unverzüglich dem Amtsgericht, in dessen Bezirk sie ihren Sitz haben, zur Entscheidung zu.
 
@@ -13928,18 +12887,15 @@ der Verordnung (EG) Nr. 805/2004 sind die Gerichte, Behörden oder Notare zustä
 
 (3) § 319 Abs. 2 und 3 ist auf die Berichtigung und den Widerruf entsprechend anzuwenden.
 
-
-## § 1082 – Vollstreckungstitel
+# § 1082 – Vollstreckungstitel
 
 Aus einem Titel, der in einem anderen Mitgliedstaat der Europäischen Union nach der Verordnung (EG) Nr. 805/2004 als Europäischer Vollstreckungstitel bestätigt worden ist, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
-
-## § 1083 – Übersetzung
+# § 1083 – Übersetzung
 
 Hat der Gläubiger nach Artikel 20 Abs. 2 Buchstabe c der Verordnung (EG) Nr. 805/2004 eine Übersetzung vorzulegen, so ist diese in deutscher Sprache zu verfassen und von einer hierzu in einem der Mitgliedstaaten der Europäischen Union befugten Person zu beglaubigen.
 
-
-## § 1084 – Anträge nach den Artikeln 21 und 23 der Verordnung (EG) Nr. 805/2004
+# § 1084 – Anträge nach den Artikeln 21 und 23 der Verordnung (EG) Nr. 805/2004
 
 (1) Für Anträge auf Verweigerung, Aussetzung oder Beschränkung der Zwangsvollstreckung nach den Artikeln 21 und 23 der Verordnung (EG) Nr. 805/2004 ist das Amtsgericht als Vollstreckungsgericht zuständig. Die Vorschriften des Buches 8 über die örtliche Zuständigkeit des Vollstreckungsgerichts sind entsprechend anzuwenden. Die Zuständigkeit nach den Sätzen 1 und 2 ist ausschließlich.
 
@@ -13947,39 +12903,33 @@ Hat der Gläubiger nach Artikel 20 Abs. 2 Buchstabe c der Verordnung (EG) Nr. 80
 
 (3) Über den Antrag auf Aussetzung oder Beschränkung der Vollstreckung nach Artikel 23 der Verordnung (EG) Nr. 805/2004 wird durch einstweilige Anordnung entschieden. Die Entscheidung ist unanfechtbar.
 
-
-## § 1085 – Einstellung der Zwangsvollstreckung
+# § 1085 – Einstellung der Zwangsvollstreckung
 
 Die Zwangsvollstreckung ist entsprechend den §§ 775 und 776 auch dann einzustellen oder zu beschränken, wenn die Ausfertigung einer Bestätigung über die Nichtvollstreckbarkeit oder über die Beschränkung der Vollstreckbarkeit nach Artikel 6 Abs. 2 der Verordnung (EG) Nr. 805/2004 vorgelegt wird.
 
-
-## § 1086 – Vollstreckungsabwehrklage
+# § 1086 – Vollstreckungsabwehrklage
 
 (1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 ist das Gericht ausschließlich örtlich zuständig, in dessen Bezirk der Schuldner seinen Wohnsitz hat, oder, wenn er im Inland keinen Wohnsitz hat, das Gericht, in dessen Bezirk die Zwangsvollstreckung stattfinden soll oder stattgefunden hat. Der Sitz von Gesellschaften oder juristischen Personen steht dem Wohnsitz gleich.
 
 (2) § 767 Abs. 2 ist entsprechend auf gerichtliche Vergleiche und öffentliche Urkunden anzuwenden.
 
-
-## § 1087 – Zuständigkeit
+# § 1087 – Zuständigkeit
 
 Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die Vollstreckbarerklärung eines Europäischen Zahlungsbefehls nach der Verordnung (EG) Nr. 1896/2006 ist das Amtsgericht Wedding in Berlin ausschließlich zuständig.
 
-
-## § 1088 – Maschinelle Bearbeitung
+# § 1088 – Maschinelle Bearbeitung
 
 (1) Der Antrag auf Erlass des Europäischen Zahlungsbefehls und der Einspruch können in einer nur maschinell lesbaren Form bei Gericht eingereicht werden, wenn diese dem Gericht für seine maschinelle Bearbeitung geeignet erscheint. § 130a Absatz 5 Satz 1 gilt entsprechend.
 
 (2) Der Senat des Landes Berlin bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den Zeitpunkt, in dem beim Amtsgericht Wedding die maschinelle Bearbeitung der Mahnverfahren eingeführt wird; er kann die Ermächtigung durch Rechtsverordnung auf die Senatsverwaltung für Justiz des Landes Berlin übertragen.
 
-
-## § 1089 – Zustellung
+# § 1089 – Zustellung
 
 (1) Ist der Europäische Zahlungsbefehl im Inland zuzustellen, gelten die Vorschriften über das Verfahren bei Zustellungen von Amts wegen entsprechend. Die §§ 185 bis 188 sind nicht anzuwenden.
 
 (2) Ist der Europäische Zahlungsbefehl in einem anderen Mitgliedstaat der Europäischen Union zuzustellen, gelten die Vorschriften der Verordnung (EG) Nr. 1393/2007 sowie für die Durchführung § 1068 Abs. 1 und § 1069 Abs. 1 entsprechend.
 
-
-## § 1090 – Verfahren nach Einspruch
+# § 1090 – Verfahren nach Einspruch
 
 (1) Im Fall des Artikels 17 Abs. 1 der Verordnung (EG) Nr. 1896/2006 fordert das Gericht den Antragsteller mit der Mitteilung nach Artikel 17 Abs. 3 der Verordnung (EG) Nr. 1896/2006 auf, das Gericht zu bezeichnen, das für die Durchführung des streitigen Verfahrens zuständig ist. Das Gericht setzt dem Antragsteller hierfür eine nach den Umständen angemessene Frist und weist ihn darauf hin, dass dem für die Durchführung des streitigen Verfahrens bezeichneten Gericht die Prüfung seiner Zuständigkeit vorbehalten bleibt. Die Aufforderung ist dem Antragsgegner mitzuteilen. Für den Fall, dass der Antragsteller nicht innerhalb der ihm hierfür nach Satz 2 gesetzten Frist das für die Durchführung des streitigen Verfahrens zuständige Gericht benennt, ist der Europäische Zahlungsbefehl aufzuheben. Hierdurch endet das Verfahren nach der Verordnung (EG) Nr. 1896/2006.
 
@@ -13987,13 +12937,11 @@ Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die Vollst
 
 (3) Die Streitsache gilt als mit Zustellung des Europäischen Zahlungsbefehls rechtshängig geworden, wenn sie nach Übersendung der Aufforderung nach Absatz 1 Satz 1 und unter Berücksichtigung der Frist nach Absatz 1 Satz 2 alsbald abgegeben wird.
 
-
-## § 1091 – Einleitung des Streitverfahrens
+# § 1091 – Einleitung des Streitverfahrens
 
 § 697 Abs. 1 bis 3 gilt entsprechend.
 
-
-## § 1092 – Verfahren
+# § 1092 – Verfahren
 
 (1) Die Entscheidung über einen Antrag auf Überprüfung des Europäischen Zahlungsbefehls nach Artikel 20 Abs. 1 oder Abs. 2 der Verordnung (EG) Nr. 1896/2006 ergeht durch Beschluss. Der Beschluss ist unanfechtbar.
 
@@ -14003,8 +12951,7 @@ Für die Bearbeitung von Anträgen auf Erlass und Überprüfung sowie die Vollst
 
 (4) Eine Wiedereinsetzung in die Frist nach Artikel 16 Abs. 2 der Verordnung (EG) Nr. 1896/2006 findet nicht statt.
 
-
-## § 1092a – Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls
+# § 1092a – Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls
 
 (1) Der Antragsgegner kann die Aufhebung des Europäischen Zahlungsbefehls beantragen, wenn ihm der Europäische Zahlungsbefehl
 
@@ -14018,140 +12965,117 @@ Der Antrag muss innerhalb eines Monats ab dem Zeitpunkt gestellt werden, zu dem 
 
 (3) Die Entscheidung ergeht durch Beschluss. Der Beschluss ist unanfechtbar. § 1092 Absatz 2 bis 4 findet entsprechende Anwendung.
 
-
-## § 1093 – Vollstreckungsklausel
+# § 1093 – Vollstreckungsklausel
 
 Aus einem nach der Verordnung (EG) Nr. 1896/2006 erlassenen und für vollstreckbar erklärten Europäischen Zahlungsbefehl findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
-
-## § 1094 – Übersetzung
+# § 1094 – Übersetzung
 
 Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung (EG) Nr. 1896/2006 eine Übersetzung vorzulegen, so ist diese in deutscher Sprache zu verfassen und von einer in einem der Mitgliedstaaten der Europäischen Union hierzu befugten Person zu beglaubigen.
 
-
-## § 1095 – Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl
+# § 1095 – Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl
 
 (1) Wird die Überprüfung eines im Inland erlassenen Europäischen Zahlungsbefehls nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 oder dessen Aufhebung nach § 1092a beantragt, gilt § 707 entsprechend. Für die Entscheidung über den Antrag nach § 707 ist das Gericht zuständig, das über den Antrag nach Artikel 20 der Verordnung (EG) Nr. 1896/2006 entscheidet.
 
 (2) Einwendungen, die den Anspruch selbst betreffen, sind nur insoweit zulässig, als die Gründe, auf denen sie beruhen, nach Zustellung des Europäischen Zahlungsbefehls entstanden sind und durch Einspruch nach Artikel 16 der Verordnung (EG) Nr. 1896/2006 nicht mehr geltend gemacht werden können.
 
-
-## § 1096 – Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 1896/2006; Vollstreckungsabwehrklage
+# § 1096 – Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 1896/2006; Vollstreckungsabwehrklage
 
 (1) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel 22 Abs. 1 der Verordnung (EG) Nr. 1896/2006 gilt § 1084 Abs. 1 und 2 entsprechend. Für Anträge auf Aussetzung oder Beschränkung der Zwangsvollstreckung nach Artikel 23 der Verordnung (EG) Nr. 1896/2006 ist § 1084 Abs. 1 und 3 entsprechend anzuwenden.
 
 (2) Für Anträge auf Verweigerung der Zwangsvollstreckung nach Artikel 22 Abs. 2 der Verordnung (EG) Nr. 1896/2006 gilt § 1086 Abs. 1 entsprechend. Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 sind § 1086 Abs. 1 und § 1095 Abs. 2 entsprechend anzuwenden.
 
-
-## § 1097 – Einleitung und Durchführung des Verfahrens
+# § 1097 – Einleitung und Durchführung des Verfahrens
 
 (1) Die Formblätter gemäß der Verordnung (EG) Nr. 861/2007 und andere Anträge oder Erklärungen können als Schriftsatz, als Telekopie oder nach Maßgabe des § 130a als elektronisches Dokument bei Gericht eingereicht werden.
 
 (2) Im Fall des Artikels 4 Abs. 3 der Verordnung (EG) Nr. 861/2007 wird das Verfahren über die Klage ohne Anwendung der Vorschriften der Verordnung (EG) Nr. 861/2007 fortgeführt.
 
-
-## § 1098 – Annahmeverweigerung auf Grund der verwendeten Sprache
+# § 1098 – Annahmeverweigerung auf Grund der verwendeten Sprache
 
 Die Frist zur Erklärung der Annahmeverweigerung nach Artikel 6 Abs. 3 der Verordnung (EG) Nr. 861/2007 beträgt eine Woche. Sie ist eine Notfrist und beginnt mit der Zustellung des Schriftstücks. Der Empfänger ist über die Folgen einer Versäumung der Frist zu belehren.
 
-
-## § 1099 – Widerklage
+# § 1099 – Widerklage
 
 (1) Eine Widerklage, die nicht den Vorschriften der Verordnung (EG) Nr. 861/2007 entspricht, ist außer im Fall des Artikels 5 Abs. 7 Satz 1 der Verordnung (EG) Nr. 861/2007 als unzulässig abzuweisen.
 
 (2) Im Fall des Artikels 5 Abs. 7 Satz 1 der Verordnung (EG) Nr. 861/2007 wird das Verfahren über die Klage und die Widerklage ohne Anwendung der Vorschriften der Verordnung (EG) Nr. 861/2007 fortgeführt. Das Verfahren wird in der Lage übernommen, in der es sich zur Zeit der Erhebung der Widerklage befunden hat.
 
-
-## § 1100 – Mündliche Verhandlung
+# § 1100 – Mündliche Verhandlung
 
 (1) Das Gericht kann den Parteien sowie ihren Bevollmächtigten und Beiständen gestatten, sich während einer Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. § 128a Abs. 1 Satz 2 und Abs. 3 Satz 1 bleibt unberührt.
 
 (2) Die Bestimmung eines frühen ersten Termins zur mündlichen Verhandlung (§ 275) ist ausgeschlossen.
 
-
-## § 1101 – Beweisaufnahme
+# § 1101 – Beweisaufnahme
 
 (1) Das Gericht kann die Beweise in der ihm geeignet erscheinenden Art aufnehmen, soweit Artikel 9 Abs. 2 bis 4 der Verordnung (EG) Nr. 861/2007 nichts anderes bestimmt.
 
 (2) Das Gericht kann einem Zeugen, Sachverständigen oder einer Partei gestatten, sich während einer Vernehmung an einem anderen Ort aufzuhalten. § 128a Abs. 2 Satz 2, 3 und Abs. 3 Satz 1 bleibt unberührt.
 
-
-## § 1102 – Urteil
+# § 1102 – Urteil
 
 Urteile bedürfen keiner Verkündung. Die Verkündung eines Urteils wird durch die Zustellung ersetzt.
 
-
-## § 1103 – Säumnis
+# § 1103 – Säumnis
 
 Äußert sich eine Partei binnen der für sie geltenden Frist nicht oder erscheint sie nicht zur mündlichen Verhandlung, kann das Gericht eine Entscheidung nach Lage der Akten erlassen. § 251a ist nicht anzuwenden.
 
-
-## § 1104 – Abhilfe bei unverschuldeter Säumnis des Beklagten
+# § 1104 – Abhilfe bei unverschuldeter Säumnis des Beklagten
 
 (1) Liegen die Voraussetzungen des Artikels 18 Abs. 1 und 2 der Verordnung (EG) Nr. 861/2007 vor, wird das Verfahren fortgeführt; es wird in die Lage zurückversetzt, in der es sich vor Erlass des Urteils befand. Auf Antrag stellt das Gericht die Nichtigkeit des Urteils durch Beschluss fest.
 
 (2) Der Beklagte hat die tatsächlichen Voraussetzungen des Artikels 18 Abs. 1 und 2 der Verordnung (EG) Nr. 861/2007 glaubhaft zu machen.
 
-
-## § 1104a – Gemeinsame Gerichte
+# § 1104a – Gemeinsame Gerichte
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung einem Amtsgericht für die Bezirke mehrerer Amtsgerichte und einem Landgericht für die Bezirke mehrerer Landgerichte die Angelegenheiten in europäischen Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007 zuzuweisen, wenn dies der sachlichen Förderung der Verfahren dient. Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 1105 – Zwangsvollstreckung inländischer Titel
+# § 1105 – Zwangsvollstreckung inländischer Titel
 
 (1) Urteile sind für vorläufig vollstreckbar ohne Sicherheitsleistung zu erklären. Die §§ 712 und 719 Abs. 1 Satz 1 in Verbindung mit § 707 sind nicht anzuwenden.
 
 (2) Für Anträge auf Beschränkung der Zwangsvollstreckung nach Artikel 15 Abs. 2 in Verbindung mit Artikel 23 der Verordnung (EG) Nr. 861/2007 ist das Gericht der Hauptsache zuständig. Die Entscheidung ergeht im Wege einstweiliger Anordnung. Sie ist unanfechtbar. Die tatsächlichen Voraussetzungen des Artikels 23 der Verordnung (EG) Nr. 861/2007 sind glaubhaft zu machen.
 
-
-## § 1106 – Bestätigung inländischer Titel
+# § 1106 – Bestätigung inländischer Titel
 
 (1) Für die Ausstellung der Bestätigung nach Artikel 20 Abs. 2 der Verordnung (EG) Nr. 861/2007 ist das Gericht zuständig, dem die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
 (2) Vor Ausfertigung der Bestätigung ist der Schuldner anzuhören. Wird der Antrag auf Ausstellung einer Bestätigung zurückgewiesen, so sind die Vorschriften über die Anfechtung der Entscheidung über die Erteilung einer Vollstreckungsklausel entsprechend anzuwenden.
 
-
-## § 1107 – Ausländische Vollstreckungstitel
+# § 1107 – Ausländische Vollstreckungstitel
 
 Aus einem Titel, der in einem Mitgliedstaat der Europäischen Union nach der Verordnung (EG) Nr. 861/2007 ergangen ist, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
-
-## § 1108 – Übersetzung
+# § 1108 – Übersetzung
 
 Hat der Gläubiger nach Artikel 21 Abs. 2 Buchstabe b der Verordnung (EG) Nr. 861/2007 eine Übersetzung vorzulegen, so ist diese in deutscher Sprache zu verfassen und von einer in einem der Mitgliedstaaten der Europäischen Union hierzu befugten Person zu erstellen.
 
-
-## § 1109 – Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 861/2007; Vollstreckungsabwehrklage
+# § 1109 – Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 861/2007; Vollstreckungsabwehrklage
 
 (1) Auf Anträge nach Artikel 22 der Verordnung (EG) Nr. 861/2007 ist § 1084 Abs. 1 und 2 entsprechend anzuwenden. Auf Anträge nach Artikel 23 der Verordnung (EG) Nr. 861/2007 ist § 1084 Abs. 1 und 3 entsprechend anzuwenden.
 
 (2) § 1086 gilt entsprechend.
 
-
-## § 1110 – Zuständigkeit
+# § 1110 – Zuständigkeit
 
 Für die Ausstellung der Bescheinigung nach den Artikeln 53 und 60 der Verordnung (EU) Nr. 1215/2012 sind die Gerichte oder Notare zuständig, denen die Erteilung einer vollstreckbaren Ausfertigung des Titels obliegt.
 
-
-## § 1111 – Verfahren
+# § 1111 – Verfahren
 
 (1) Bescheinigungen nach den Artikeln 53 und 60 der Verordnung (EU) Nr. 1215/2012 sind ohne Anhörung des Schuldners auszustellen. In den Fällen des § 726 Absatz 1 und der §§ 727 bis 729 kann der Schuldner vor der Ausstellung der Bescheinigung gehört werden. Eine Ausfertigung der Bescheinigung ist dem Schuldner von Amts wegen zuzustellen.
 
 (2) Für die Anfechtbarkeit der Entscheidung über die Ausstellung der Bescheinigung nach Absatz 1 gelten die Vorschriften über die Anfechtbarkeit der Entscheidung über die Erteilung der Vollstreckungsklausel entsprechend.
 
-
-## § 1112 – Entbehrlichkeit der Vollstreckungsklausel
+# § 1112 – Entbehrlichkeit der Vollstreckungsklausel
 
 Aus einem Titel, der in einem anderen Mitgliedstaat der Europäischen Union vollstreckbar ist, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf.
 
-
-## § 1113 – Übersetzung oder Transliteration
+# § 1113 – Übersetzung oder Transliteration
 
 Hat eine Partei nach Artikel 57 der Verordnung (EU) Nr. 1215/2012 eine Übersetzung oder eine Transliteration vorzulegen, so ist diese in deutscher Sprache abzufassen und von einer in einem Mitgliedstaat der Europäischen Union hierzu befugten Person zu erstellen.
 
-
-## § 1114 – Anfechtung der Anpassung eines Titels
+# § 1114 – Anfechtung der Anpassung eines Titels
 
 Für die Anfechtung der Anpassung eines Titels (Artikel 54 der Verordnung (EU) Nr. 1215/2012) sind folgende Rechtsgrundlagen entsprechend anzuwenden:
 
@@ -14161,8 +13085,7 @@ Für die Anfechtung der Anpassung eines Titels (Artikel 54 der Verordnung (EU) N
 
 3. im Fall von Vollstreckungsmaßnahmen des Grundbuchamts § 71 der Grundbuchordnung.
 
-
-## § 1115 – Versagung der Anerkennung oder der Vollstreckung
+# § 1115 – Versagung der Anerkennung oder der Vollstreckung
 
 (1) Für Anträge auf Versagung der Anerkennung oder der Vollstreckung (Artikel 45 Absatz 4 und Artikel 47 Absatz 1 der Verordnung (EU) Nr. 1215/2012) ist das Landgericht ausschließlich zuständig.
 
@@ -14176,37 +13099,31 @@ Für die Anfechtung der Anpassung eines Titels (Artikel 54 der Verordnung (EU) N
 
 (6) Über den Antrag auf Aussetzung oder Beschränkung der Vollstreckung und den Antrag, die Vollstreckung von der Leistung einer Sicherheit abhängig zu machen (Artikel 44 Absatz 1 der Verordnung (EU) Nr. 1215/2012), wird durch einstweilige Anordnung entschieden. Die Entscheidung ist unanfechtbar.
 
-
-## § 1116 – Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
+# § 1116 – Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat
 
 Auf Antrag des Schuldners (Artikel 44 Absatz 2 der Verordnung (EU) Nr. 1215/2012) ist die Zwangsvollstreckung entsprechend § 775 Nummer 1 und 2 und § 776 auch dann einzustellen oder zu beschränken, wenn der Schuldner eine Entscheidung eines Gerichts des Ursprungsmitgliedstaats über die Nichtvollstreckbarkeit oder über die Beschränkung der Vollstreckbarkeit vorlegt. Auf Verlangen des Vollstreckungsorgans ist eine Übersetzung der Entscheidung vorzulegen. § 1108 gilt entsprechend.
 
-
-## § 1117 – Vollstreckungsabwehrklage
+# § 1117 – Vollstreckungsabwehrklage
 
 (1) Für Klagen nach § 795 Satz 1 in Verbindung mit § 767 gilt § 1086 Absatz 1 entsprechend.
 
 (2) Richtet sich die Klage gegen die Vollstreckung aus einem gerichtlichen Vergleich oder einer öffentlichen Urkunde, ist § 767 Absatz 2 nicht anzuwenden.
 
-
-## § 1118 – Zentralbehörde
+# § 1118 – Zentralbehörde
 
 Das Bundesamt für Justiz ist Zentralbehörde nach Artikel 15 Absatz 1 der Verordnung (EU) 2016/1191 des Europäischen Parlaments und des Rates vom 6. Juli 2016 zur Förderung der Freizügigkeit von Bürgern durch die Vereinfachung der Anforderungen an die Vorlage bestimmter öffentlicher Urkunden innerhalb der Europäischen Union und zur Änderung der Verordnung (EU) Nr. 1024/2012 (ABl. L 200 vom 26.7.2016, S. 1). Die Verfahren nach diesem Gesetz vor dem Bundesamt für Justiz sind Justizverwaltungsverfahren. Informationen nach Artikel 22 Absatz 2 der Verordnung werden durch das Bundesamt für Justiz mitgeteilt.
 
-
-## § 1119 – Verwaltungszusammenarbeit
+# § 1119 – Verwaltungszusammenarbeit
 
 (1) Soweit bei der Überprüfung der Echtheit einer öffentlichen Urkunde oder einer beglaubigten Kopie eine Nachfrage bei der ausstellenden deutschen Behörde erforderlich ist, kann sich das Bundesamt unmittelbar an diese Behörde wenden. Dazu nutzt es das Binnenmarkt-Informationssystem unter Beachtung bereits vorhandener Verfahrensstrukturen. Diese Behörden sind im Rahmen ihrer Zuständigkeit neben dem Bundesamt für Justiz auch zuständig für die Beantwortung von Auskunftsersuchen der Mitgliedstaaten der Europäischen Union.
 
 (2) Über Änderungen bei den gemäß Artikel 22 Absatz 1 Buchstabe b der Verordnung einzustellenden Urkunden unterrichtet das Bundesministerium des Innern, für Bau und Heimat das Bundesamt für Justiz, soweit diese in seine Zuständigkeit fallen.
 
-
-## § 1120 – Mehrsprachige Formulare
+# § 1120 – Mehrsprachige Formulare
 
 Mehrsprachige Formulare gemäß Artikel 7 der Verordnung (EU) 2016/1191 werden durch die Behörden ausgestellt, die für die Erteilung der Urkunden zuständig sind. Das Bundesamt für Justiz ist für das Ausstellen der Formulare zuständig, soweit Urkunden des Geschäftsbereichs des Bundesministeriums der Justiz und für Verbraucherschutz oder gerichtliche Urkunden betroffen sind.
 
-
-## Anlage – (zu § 850c) *)
+# Anlage – (zu § 850c) *)
 
 (Fundstelle: BGBl. I 2005, 3363 - 3378)
 
@@ -24151,14 +23068,11 @@ für die Zeit ab 1.7.2011 aus Bek. v. 9.5.2011 I 825
 für die Zeit ab 1.7.2013 aus Bek. v. 26.3.2013 I 710  
 (Pfändungsfreigrenzenbekanntmachung 2013),  
 für die Zeit ab 1.7.2015 aus Bek. v. 14.4.2015 I 618  
-(Pfändungsfreigrenzenbekanntmachung 2015) u.  
-für die Zeit ab 1.7.2017 aus Bek. v. 28.3.2017 I 750  
-(Pfändungsfreigrenzenbekanntmachung 2017) u.  
-für die Zeit ab 1.7.2019 aus Bek. v. 4.4.2019 I 443  
+(Pfändungsfreigrenzenbekanntmachung 2015) u. für die Zeit ab 1.7.2017 aus Bek. v. 28.3.2017 I 750  
+(Pfändungsfreigrenzenbekanntmachung 2017) u. für die Zeit ab 1.7.2019 aus Bek. v. 4.4.2019 I 443  
 (Pfändungsfreigrenzenbekanntmachung 2019) +++)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV  (BGBl. II 1990, 889, 927, 940)  Abschnitt III  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -  Abschnitt IV  - Sonderregelung für das Land Berlin -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV  (BGBl. II 1990, 889, 927, 940)  Abschnitt III  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -  Abschnitt IV  - Sonderregelung für das Land Berlin -
 
 Abschnitt III  
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land Berlin in Abschnitt IV in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

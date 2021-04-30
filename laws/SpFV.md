@@ -1,10 +1,7 @@
-# [SpFV] Verordnung über das Führen von Sportbooten  (Sportbootführerscheinverordnung - SpFV)
-
-Ausfertigungsdatum: 03.05.2017
-
+% Verordnung über das Führen von Sportbooten  (Sportbootführerscheinverordnung - SpFV)
+% Ausfertigungsdatum: 03.05.2017
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt
 
@@ -14,8 +11,7 @@ Diese Verordnung gilt
 
 3. auf den Seeschifffahrtsstraßen: für Sportboote ohne Längenbegrenzung.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -31,8 +27,7 @@ die Seeschifffahrtsstraßen im Sinne des § 1 Absatz 1 der Seeschifffahrtsstraß
 
 nicht gewerbsmäßig, für Sport- oder Erholungszwecke verwendete Fahrzeuge, einschließlich Wassermotorräder, ausgenommen Fahrzeuge, die durch Muskelkraft oder nur mit einem Segel von höchstens 6 Quadratmeter Fläche fortbewegt werden.
 
-
-## § 3 – Fahrerlaubnis für die Binnenschifffahrtsstraßen
+# § 3 – Fahrerlaubnis für die Binnenschifffahrtsstraßen
 
 (1) Wer auf den Binnenschifffahrtsstraßen ein Sportboot führen will, bedarf einer Fahrerlaubnis für die jeweilige Antriebsart. Die Fahrerlaubnis wird unbeschadet des Absatzes 4 durch den Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen nachgewiesen (Anlage 1).
 
@@ -78,8 +73,7 @@ Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten Befähigungsnach
 
 (7) Gegen Vorlage eines der in Absatz 4 genannten Sportbootführerscheine bei einem der beliehenen Verbände wird dessen Inhaber auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für die jeweilige Antriebsart ausgestellt. Das Ablegen einer Prüfung ist in diesem Fall nicht erforderlich.
 
-
-## § 4 – Fahrerlaubnis für die Seeschifffahrtsstraßen
+# § 4 – Fahrerlaubnis für die Seeschifffahrtsstraßen
 
 (1) Wer auf den Seeschifffahrtsstraßen ein Sportboot mit Antriebsmaschine führen will, bedarf einer Fahrerlaubnis. Die Fahrerlaubnis wird unbeschadet des Absatzes 4 durch den Sportbootführerschein mit dem Geltungsbereich Seeschifffahrtsstraßen nachgewiesen (Anlage 1).
 
@@ -107,8 +101,7 @@ Eine Übersicht über die durch Satz 1 Nummer 1 und 3 erfassten Befähigungsnach
 
 (8) Eine Übersicht über die nach Absatz 2 Nummer 2 und Absatz 3 anerkannten Befähigungsnachweise wird im Verkehrsblatt – Amtsblatt des Bundesministeriums für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland – veröffentlicht.
 
-
-## § 5 – Besondere Regelungen
+# § 5 – Besondere Regelungen
 
 (1) Keiner Fahrerlaubnis nach dieser Verordnung bedürfen
 
@@ -140,8 +133,7 @@ b) ein internationales Zertifikat im Sinne der Resolution Nr. 40 ECE für die je
 
 (4) Gegen Vorlage eines Sportküstenschifferscheins, Sportseeschifferscheins oder Sporthochseeschifferscheins oder eines vor dem 1. Oktober 1999 erteilten Führerscheins für Küstenfahrt (BR) des Deutschen Segler-Verbandes sowie eines vor dem 1. Januar 1994 erteilten Führerscheins für die Revierfahrt (R), für große Küstenfahrt (BK) oder Seefahrt (C) des Deutschen Segler-Verbandes mit der Antriebsart unter Segel bei einem der beliehenen Verbände wird dem Inhaber eines Führerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen mit der Antriebsart Antriebsmaschine auf Antrag ein Sportbootführerschein mit dem Geltungsbereich Binnenschifffahrtsstraßen für beide Antriebsarten erteilt.
 
-
-## § 6 – Anforderungen für die Erteilung der Fahrerlaubnis
+# § 6 – Anforderungen für die Erteilung der Fahrerlaubnis
 
 (1) Der Bewerber muss für die Erteilung einer Fahrerlaubnis für das Führen eines Sportbootes
 
@@ -177,8 +169,7 @@ Ein Bewerber, der noch nicht 18 Jahre alt ist, bedarf der schriftlichen Zustimmu
 
 5. Kenntnis von der Teilnahme am Verkehr unter dem Einfluss von Alkohol oder anderer berauschender Mittel auch ohne abgeschlossene Straf- oder Bußgeldverfahren.
 
-
-## § 7 – Antrag auf Zulassung zur Prüfung
+# § 7 – Antrag auf Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung und Erteilung der Fahrerlaubnis ist spätestens eine Woche vor dem Prüfungstermin vollständig an den Prüfungsausschuss zu richten, bei dem der Bewerber die Prüfung ablegen möchte.
 
@@ -226,13 +217,11 @@ Der Bewerber muss den Antrag unterschreiben.
 
 (+++ § 7 Abs. 3: Zur Anwendung vgl. § 10 Abs. 1 +++)
 
-
-## § 8 – Prüfung
+# § 8 – Prüfung
 
 (1) Die Befähigung zum Führen eines Sportbootes ist durch eine Prüfung nachzuweisen, deren Inhalt sich nach Antriebsart und Geltungsbereich des zu erwerbenden Sportbootführerscheins bestimmt. Die Prüfung besteht in der Regel aus einem theoretischen Teil und einem praktischen Teil. Die Teilprüfungen können zu verschiedenen Zeitpunkten absolviert werden. Die Einzelheiten der theoretischen Prüfung ergeben sich aus der Anlage 3, die Einzelheiten der praktischen Prüfung ergeben sich aus der Anlage 4.
 
-(2) Der Leiter des Prüfungsausschusses bestimmt den Prüfungstermin und beruft die Prüfungskommission ein. Die Prüfungskommission besteht aus einem Vorsitzenden und mindestens einem weiteren Prüfer. Alle Mitglieder der Prüfungskommission müssen Inhaber des mit der Prüfung zu erwerbenden Sportbootführerscheins für den entsprechenden Geltungsbereich und die entsprechende Antriebsart sein.  
-Bei Teilprüfungen zu verschiedenen Zeitpunkten sind für die Abnahme des theoretischen Teils mindestens zwei, für die Abnahme des praktischen Teils mindestens ein Prüfer erforderlich.
+(2) Der Leiter des Prüfungsausschusses bestimmt den Prüfungstermin und beruft die Prüfungskommission ein. Die Prüfungskommission besteht aus einem Vorsitzenden und mindestens einem weiteren Prüfer. Alle Mitglieder der Prüfungskommission müssen Inhaber des mit der Prüfung zu erwerbenden Sportbootführerscheins für den entsprechenden Geltungsbereich und die entsprechende Antriebsart sein. Bei Teilprüfungen zu verschiedenen Zeitpunkten sind für die Abnahme des theoretischen Teils mindestens zwei, für die Abnahme des praktischen Teils mindestens ein Prüfer erforderlich.
 
 (3) Eine Prüfungstätigkeit ist immer dann ausgeschlossen,
 
@@ -254,8 +243,7 @@ Bei Teilprüfungen zu verschiedenen Zeitpunkten sind für die Abnahme des theore
 
 (10) Die Prüfungen sind nicht öffentlich. Vertreter der nach § 16 zuständigen Stellen können die Prüfungen beaufsichtigen. Sie gehören nicht der Prüfungskommission an.
 
-
-## § 9 – Prüfungsausschüsse
+# § 9 – Prüfungsausschüsse
 
 (1) Für die Zulassung zur Prüfung und deren Abnahme werden flächendeckend Prüfungsausschüsse eingerichtet. Die Prüfungsausschüsse bestehen aus einem Leiter und aus weiteren Prüfern. Die Prüfungsausschüsse werden von den beliehenen Verbänden gemeinsam oder jeweils getrennt eingerichtet. Die beliehenen Verbände legen dem Bundesministerium für Verkehr und digitale Infrastruktur jährlich eine Liste über die Prüfungsausschüsse und deren Besetzung vor und unterrichten es im Fall einer Änderung. Das Bundesministerium für Verkehr und digitale Infrastruktur kann sich hierbei durch die Generaldirektion Wasserstraßen und Schifffahrt unterstützen lassen.
 
@@ -269,8 +257,7 @@ Bei Teilprüfungen zu verschiedenen Zeitpunkten sind für die Abnahme des theore
 
 3. Prüfungsausschuss \[Name\] des Deutschen Motoryachtverbandes e. V. und des Deutschen Segler-Verbandes e. V. für den amtlichen Sportbootführerschein.
 
-
-## § 10 – Voraussetzungen für die Bestellung der Prüfer; Entlassung der Prüfer
+# § 10 – Voraussetzungen für die Bestellung der Prüfer; Entlassung der Prüfer
 
 (1) Die Prüfer müssen
 
@@ -294,20 +281,17 @@ Zum Nachweis der körperlichen und geistigen Tauglichkeit ist vor der ersten Bes
 
 (4) Wenn Umstände eintreten, die den Leiter des Prüfungsausschusses oder einen anderen Prüfer für die Prüfertätigkeit ungeeignet oder unzuverlässig erscheinen lassen, so haben die beliehenen Verbände dies zu prüfen. Ergibt die Prüfung, dass der betreffende Leiter oder Prüfer nicht mehr geeignet oder zuverlässig ist, ist er von dem beliehenen Verband aus seinem Amt zu entlassen.
 
-
-## § 11 – Ersatzausfertigung
+# § 11 – Ersatzausfertigung
 
 Ist ein Sportbootführerschein, der in dem Verzeichnis gemäß § 17 registriert ist, unbrauchbar geworden oder wird glaubhaft gemacht, dass er verloren gegangen ist, wird auf Antrag des Inhabers von dem beliehenen Verband eine Ersatzausfertigung ausgestellt, die als solche zu kennzeichnen ist. Sofern erforderlich, wird auf Antrag des Inhabers ein vorläufiger Sportbootführerschein nach dem Muster der Anlage 9 ausgestellt. Der Inhaber hat einen unbrauchbar gewordenen oder von ihm wieder aufgefundenen Sportbootführerschein unverzüglich bei den beliehenen Verbänden abzugeben.
 
-
-## § 12 – Pflichten des Schiffseigentümers und des Schiffsführers
+# § 12 – Pflichten des Schiffseigentümers und des Schiffsführers
 
 (1) Der jeweils erforderliche Befähigungsnachweis ist beim Führen von Sportbooten vom Schiffsführer mitzuführen. Der Befähigungsnachweis ist den zur Kontrolle befugten Personen auf Verlangen zur Prüfung auszuhändigen. Anstelle des Sportbootführerscheins für den Geltungsbereich Seeschifffahrtsstraßen kann auch der Sportküstenschifferschein, der Sportseeschifferschein und der Sporthochseeschifferschein nach der Sportseeschifferscheinverordnung in der Fassung der Bekanntmachung vom 3. März 1998 (BGBl. I S. 394), die zuletzt durch Artikel 4 Absatz 125 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist, mitgeführt und zur Kontrolle ausgehändigt werden. Der Schiffseigentümer darf nicht anordnen oder zulassen, dass entgegen § 3 Absatz 1 oder § 4 Absatz 1 ein Fahrzeug ohne die hierfür vorgeschriebene Fahrerlaubnis geführt wird.
 
 (2) Ein Sportboot führt nicht, wer es unter Aufsicht des Schiffsführers steuert. Die schifffahrtsrechtlichen Vorschriften über die Anforderungen an den Rudergänger bleiben unberührt.
 
-
-## § 13 – Entziehung der Fahrerlaubnis oder des Befähigungsnachweises
+# § 13 – Entziehung der Fahrerlaubnis oder des Befähigungsnachweises
 
 (1) Wenn sich der Inhaber einer Fahrerlaubnis zum Führen von Sportbooten als untauglich oder unzuverlässig erweist, ist ihm vorbehaltlich der Anwendung des Seesicherheitsuntersuchungsgesetzes die Fahrerlaubnis oder der Befähigungsnachweis von der nach § 16 Absatz 3 Satz 1 zuständigen Behörde zu entziehen. Bestehen Zweifel an der Tauglichkeit, kann von der nach § 16 Absatz 3 Satz 1 zuständigen Behörde die Vorlage eines amts- oder fachärztlichen Zeugnisses verlangt werden. Der Inhaber der Fahrerlaubnis gilt als widerleglich unzuverlässig, wenn er seiner Verpflichtung nach § 14 Absatz 5 nicht innerhalb einer Woche, nachdem die Anordnung über das Ruhen der Fahrerlaubnis vollziehbar geworden ist, nachgekommen ist.
 
@@ -323,8 +307,7 @@ Ist ein Sportbootführerschein, der in dem Verzeichnis gemäß § 17 registriert
 
 (+++ § 13 Abs. 2 Satz 2: Zur Anwendung vgl. § 14 Abs. 6 +++)
 
-
-## § 14 – Ruhen der Fahrerlaubnis
+# § 14 – Ruhen der Fahrerlaubnis
 
 (1) Die nach § 16 Absatz 3 Satz 1 zuständige Behörde kann das befristete Ruhen der Fahrerlaubnis anordnen, wenn bei dem Inhaber einer Fahrerlaubnis oder eines Befähigungszeugnisses nach § 3 Absatz 4 oder § 4 Absatz 4 die Voraussetzungen für eine Entziehung noch nicht vorliegen, aber Zweifel an seiner Zuverlässigkeit oder Tauglichkeit bestehen. Werden diese Zweifel vor Ablauf der Frist ausgeräumt, ist die Anordnung aufzuheben.
 
@@ -348,8 +331,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 (7) Ein nach anderen Vorschriften angeordnetes Verbot, Fahrzeuge auf dem Wasser zu führen, ist auch beim Führen von Sportbooten zu beachten.
 
-
-## § 15 – Sicherstellung von Befähigungszeugnissen
+# § 15 – Sicherstellung von Befähigungszeugnissen
 
 (1) Sind dringende Gründe für die Annahme vorhanden, dass eine Erlaubnis entzogen (§ 13) oder das Ruhen der Erlaubnis angeordnet (§ 14) wird, so kann der Sportbootführerschein oder ein anderes Befähigungszeugnis durch die schifffahrtspolizeilichen Vollzugsbehörden oder durch die nach § 16 Absatz 3 Satz 1 zuständige Behörde vorläufig sichergestellt werden. Bis zu einer Entscheidung über den Entzug oder das Ruhen der Fahrerlaubnis gilt die vorläufige Sicherstellung zugleich als Anordnung nach § 14 Absatz 1.
 
@@ -361,8 +343,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 2. die nach § 16 Absatz 3 Satz 1 zuständige Behörde die Erlaubnis nicht entzieht oder deren Ruhen nicht anordnet.
 
-
-## § 16 – Zuständige Stellen
+# § 16 – Zuständige Stellen
 
 (1) Der Deutsche Motoryachtverband e. V. und der Deutsche Segler-Verband e. V. werden mit der Durchführung von Sportbootführerscheinprüfungen beliehen. Dazu zählen insbesondere folgende Rechte und Pflichten:
 
@@ -380,8 +361,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 (3) Über die Entziehung der Fahrerlaubnis nach § 13 oder die Anordnung des Ruhens der Fahrerlaubnis nach § 14 entscheidet die Generaldirektion Wasserstraßen und Schifffahrt. Die Entscheidung ist, sofern der Inhaber eines Befähigungsnachweises betroffen ist, unter Angabe der Gründe der Stelle mitzuteilen, die die Fahrerlaubnis erteilt hat.
 
-
-## § 17 – Verzeichnis
+# § 17 – Verzeichnis
 
 (1) Die beliehenen Verbände führen ein gemeinsames Verzeichnis der Inhaber einer Fahrerlaubnis. Das Verzeichnis enthält folgende Angaben:
 
@@ -407,8 +387,7 @@ b) unter erheblicher Einwirkung berauschender Mittel oder
 
 (3) Es ist sicherzustellen, dass die beliehenen Verbände jederzeit Zugriff auf das Verzeichnis haben.
 
-
-## § 18 – Gebühren und Auslagen
+# § 18 – Gebühren und Auslagen
 
 (1) Es werden nachfolgende Gebühren und Auslagen erhoben, die als Vorauszahlung zu erheben sind:  
 
@@ -421,8 +400,7 @@ soweit die Erfolglosigkeit des Widerspruchs nicht nur auf der Unbeachtlichkeit d
 
 (4) Die Gebühren und Auslagen nach Absatz 1 Nummer 15 sowie nach den Nummern 16 und 17, sofern sie in Zusammenhang mit Nummer 15 stehen, werden von der Generaldirektion Wasserstraßen und Schifffahrt festgesetzt und eingezogen. In den übrigen Fällen werden die Gebühren von den beliehenen Verbänden festgesetzt und eingezogen.
 
-
-## § 19 – Ordnungswidrigkeiten
+# § 19 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -446,8 +424,7 @@ soweit die Erfolglosigkeit des Widerspruchs nicht nur auf der Unbeachtlichkeit d
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## § 20 – Übergangsvorschriften
+# § 20 – Übergangsvorschriften
 
 (1) Für die Erhebung von Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen, die vor dem 10. Mai 2017 beantragt oder begonnen, aber noch nicht vollständig erbracht wurden, ist je nach Geltungsbereich die Sportbootführerscheinverordnung-Binnen oder die Sportbootführerscheinverordnung-See, jeweils in der bis zum 10. Mai 2017 geltenden Fassung weiter anzuwenden.
 
@@ -461,16 +438,13 @@ soweit die Erfolglosigkeit des Widerspruchs nicht nur auf der Unbeachtlichkeit d
 | 10\. | für die Fahrerlaubnis ohne Prüfung | 27,00 Euro |
 | 12\. | für die Ersatzausfertigung         | 27,00 Euro |
 
-
-## Anlage 1 – (zu § 3 Absatz 1 und § 4 Absatz 1)Muster für den amtlichen Sportbootführerschein
+# Anlage 1 – (zu § 3 Absatz 1 und § 4 Absatz 1)Muster für den amtlichen Sportbootführerschein
 
 (Fundstelle: BGBl. I 2017, 1026)
 
-Das Zertifikat ist unter Berücksichtigung der internationalen ISO/IEC-Norm 7810 auszustellen.  
-Ländercode gemäß ISO ALPHA-2
+Das Zertifikat ist unter Berücksichtigung der internationalen ISO/IEC-Norm 7810 auszustellen. Ländercode gemäß ISO ALPHA-2
 
-
-## Anlage 2 – (zu § 7 Absatz 2 Nummer 4, § 10 Absatz 1 Satz 2)Ärztliches Zeugnis
+# Anlage 2 – (zu § 7 Absatz 2 Nummer 4, § 10 Absatz 1 Satz 2)Ärztliches Zeugnis
 
 (Fundstelle: BGBl. I 2017, 1027 - 1028;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -628,8 +602,7 @@ Erkrankungen bzw. Unfallfolgen, die zu erheblicher Einschränkung der Beweglichk
 –  
 chronischer Alkoholmissbrauch bzw. Alkoholkrankheit, Betäubungsmittelsucht und/oder andere Suchtformen.
 
-
-## Anlage 3 – (zu § 8 Absatz 1 Satz 4)Theoretische Prüfung zum Erwerb des Sportbootführerscheins
+# Anlage 3 – (zu § 8 Absatz 1 Satz 4)Theoretische Prüfung zum Erwerb des Sportbootführerscheins
 
 (Fundstelle: BGBl. I 2017, 1029 - 1030)
 
@@ -789,8 +762,7 @@ Navigation:
 
 Umgang mit Seekarten, Standortbestimmung durch Peilen und Koppeln, Kursabweichung und Besteckversetzung, Missweisung, Deviation, Strom- und Windversatz, Gezeiten, Leuchtfeuerverzeichnis
 
-
-## Anlage 4 – (zu § 8 Absatz 1 Satz 4)Praktische Prüfung zum Erwerb des Sportbootführerscheins
+# Anlage 4 – (zu § 8 Absatz 1 Satz 4)Praktische Prüfung zum Erwerb des Sportbootführerscheins
 
 (Fundstelle: BGBl. I 2017, 1031 - 1033)
 
@@ -1180,8 +1152,7 @@ Unterschrift Prüfer/in
 bestanden  □   
 nicht bestanden  □ 
 
-
-## Anlage 5 – (zu § 8 Absatz 5)Ausstattung und Besatzung des Prüfungsboots
+# Anlage 5 – (zu § 8 Absatz 5)Ausstattung und Besatzung des Prüfungsboots
 
 (Fundstelle: BGBl. I 2017, 1034)
 
@@ -1199,8 +1170,7 @@ Für die Prüfung zum Erwerb des Sportbootführerscheins mit dem Geltungsbereich
 
 Bei Prüfungen zum Führen von Sportbooten mit Antriebsmaschine muss das Prüfungsboot mit einer Antriebsmaschine ausgestattet sein, die eine Nutzleistung von mehr als 11,03 kW besitzt. Dies gilt auch für Prüfungen, die auf dem Rhein durchgeführt werden.
 
-
-## Anlage 6 – (zu § 10 Absatz 2 Nummer 2)Voraussetzungen für eine Bestellung als Prüfer
+# Anlage 6 – (zu § 10 Absatz 2 Nummer 2)Voraussetzungen für eine Bestellung als Prüfer
 
 (Fundstelle: BGBl. I 2017, 1035)
 
@@ -1243,8 +1213,7 @@ Vorstellung, Präsentation, Durchführung von Prüfungen, Konfliktlösungen, Pro
 
 Ansprüche auf Teilnahme an der Prüfung, Vorschlag zur Bestellung und Einsatz als Prüfer/in bestehen nicht.
 
-
-## Anlage 7 – (zu § 10 Absatz 3 Satz 3)Belehrung gemäß § 10 Absatz 3 Satz 3
+# Anlage 7 – (zu § 10 Absatz 3 Satz 3)Belehrung gemäß § 10 Absatz 3 Satz 3
 
 (Fundstelle: BGBl. I 2017, 1036)
 
@@ -1277,8 +1246,7 @@ sich den Bewerbern gegenüber höflich, aber bestimmt zu verhalten.
 
 Über die Belehrung ist eine Niederschrift nach Anhang 1 zu Anlage 7 zu führen.
 
-
-## Anhang 1 – (zu Anlage 7)Niederschrift
+# Anhang 1 – (zu Anlage 7)Niederschrift
 
 (Fundstelle: BGBl. I 2017, 1037)
 
@@ -1345,8 +1313,7 @@ Mit der Unterzeichnung dieser Niederschrift bestätige ich, dass ich den wesentl
 | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Unterschrift der/des Verpflichtenden                         | Ort und Datum                    | Unterschrift der/des Verpflichteten                        |
 
-
-## Anlage 8 – (zu § 5 Absatz 2)Binnenschifffahrtsstraßen, auf denen für das Führen eines Sportbootes unter Segel eine Fahrerlaubnis erforderlich ist
+# Anlage 8 – (zu § 5 Absatz 2)Binnenschifffahrtsstraßen, auf denen für das Führen eines Sportbootes unter Segel eine Fahrerlaubnis erforderlich ist
 
 (Fundstelle: BGBl. I 2017, 1038)
 
@@ -1400,8 +1367,7 @@ Pohlesee
 
 Kleiner Wannsee
 
-
-## Anlage 9 – (zu § 8 Absatz 8 Satz 2)Muster für den vorläufigen Sportbootführerschein
+# Anlage 9 – (zu § 8 Absatz 8 Satz 2)Muster für den vorläufigen Sportbootführerschein
 
 (Fundstelle: BGBl. I 2017, 1039)
 

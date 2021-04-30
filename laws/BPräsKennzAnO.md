@@ -1,10 +1,7 @@
-# [BPräsKennzAnO] Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeuge und Kampffahrzeuge der Bundeswehr
-
-Ausfertigungsdatum: 01.10.1956
-
+% Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeuge und Kampffahrzeuge der Bundeswehr
+% Ausfertigungsdatum: 01.10.1956
  
-
-## ----
+# ----
 
 (1) Als Erkennungszeichen für die Luftfahrzeuge und Kampffahrzeuge der Bundeswehr bestimme ich ein schwarzes Kreuz mit weißer Umrandung in der aus dem nachstehend abgebildeten Muster ersichtlichen Form.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 01.10.1956
 
 Abs. 2 Kursivdruck: Jetzt "Bundesminister der Verteidigung"
 
-
-## Muster
+# Muster
 
 (Inhalt: nicht darstellbares Muster,  
 Fundstelle: BGBl. I 1956, 788)

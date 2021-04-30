@@ -1,10 +1,7 @@
-# [NTSG] Gesetz über den Schutz der Truppen des Nordatlantikpaktes durch das Straf- und Ordnungswidrigkeitenrecht  (NATO-Truppen-Schutzgesetz - NTSG)
-
-Ausfertigungsdatum: 11.06.1957
-
+% Gesetz über den Schutz der Truppen des Nordatlantikpaktes durch das Straf- und Ordnungswidrigkeitenrecht  (NATO-Truppen-Schutzgesetz - NTSG)
+% Ausfertigungsdatum: 11.06.1957
  
-
-## § 1 – Anwendung von Strafvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
+# § 1 – Anwendung von Strafvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
 
 (1) Zum Schutz der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes und ihrer in der Bundesrepublik Deutschland stationierten Truppen gelten die §§ 93 bis 97 und 98 bis 100 in Verbindung mit den §§ 101 und 101a des Strafgesetzbuches mit folgender Maßgabe:
 
@@ -52,8 +49,7 @@ Ausfertigungsdatum: 11.06.1957
 
 (4) Die Absätze 1 bis 3 gelten nur für Straftaten, die im räumlichen Geltungsbereich dieses Gesetzes begangen werden.
 
-
-## § 2 – Anwendung von Bußgeldvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
+# § 2 – Anwendung von Bußgeldvorschriften zum Schutz der Vertragsstaaten des Nordatlantikpaktes
 
 Zum Schutz der in der Bundesrepublik Deutschland stationierten Truppen der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes, die sich zur Zeit der Tat im räumlichen Geltungsbereich dieses Gesetzes aufhalten, sind folgende Vorschriften des Gesetzes über Ordnungswidrigkeiten mit den in den Nummern 1 bis 3 bestimmten Besonderheiten anzuwenden:
 
@@ -63,13 +59,11 @@ Zum Schutz der in der Bundesrepublik Deutschland stationierten Truppen der nicht
 
 3. § 114 auf das Betreten von militärischen Einrichtungen und Anlagen eines Vertragsstaates sowie von Örtlichkeiten, die aus Sicherheitsgründen zur Erfüllung dienstlicher Aufgaben dieser Truppen gesperrt sind.
 
-
-## § 3 – Anwendung von Vorschriften des Gerichtsverfassungsgesetzes bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
+# § 3 – Anwendung von Vorschriften des Gerichtsverfassungsgesetzes bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
 
 Für die Anwendung der Vorschriften des Gerichtsverfassungsgesetzes über die gerichtliche Zuständigkeit und die Übernahme, Abgabe oder Überweisung der Untersuchung, Verhandlung und Entscheidung in Strafsachen stehen die in § 1 genannten Straftaten den ihnen entsprechenden Verstößen gegen Vorschriften des Strafgesetzbuches gleich.
 
-
-## § 4 – Anwendung von Vorschriften der Strafprozessordnung bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
+# § 4 – Anwendung von Vorschriften der Strafprozessordnung bei Straftaten gegen die Vertragsstaaten des Nordatlantikpaktes
 
 (1) Hat ein Strafverfahren Straftaten nach § 1 dieses Gesetzes in Verbindung mit den §§ 94 bis 100, 109f oder 109g des Strafgesetzbuches zum Gegenstand, so gilt § 153d der Strafprozessordnung entsprechend mit der Maßgabe, dass das Absehen von der Verfolgung oder die Einstellung des Verfahrens zulässig ist,
 

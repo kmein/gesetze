@@ -1,15 +1,11 @@
-# [GasGKErstV] Verordnung zu Kostenerstattungsansprüchen für Gasgeräte  (Gasgerätekostenerstattungsverordnung - GasGKErstV)
-
-Ausfertigungsdatum: 22.06.2017
-
+% Verordnung zu Kostenerstattungsansprüchen für Gasgeräte  (Gasgerätekostenerstattungsverordnung - GasGKErstV)
+% Ausfertigungsdatum: 22.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 19a Absatz 3 Satz 6 des Energiewirtschaftsgesetzes, der durch Artikel 3 Nummer 2 Buchstabe c des Gesetzes vom 14. Dezember 2016 (BGBl. I S. 2874) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Kostenerstattungsanspruch
+# § 1 – Kostenerstattungsanspruch
 
 (1) Hat der Eigentümer eines technisch nicht anpassbaren Gasgeräts zum Zweck der Beheizung von Räumen gegen den Netzbetreiber einen Kostenerstattungsanspruch nach § 19a Absatz 3 Satz 1 des Energiewirtschaftsgesetzes, so hat er gegen diesen einen zusätzlichen Kostenerstattungsanspruch
 
@@ -25,7 +21,6 @@ Von dem Kostenerstattungsanspruch nach § 1 Absatz 1 Satz 1 erfasst sind nur Gas
 
 (3) Der Nachweis des Alters des Gasgeräts nach Absatz 1 obliegt dem Eigentümer. Das Alter des Gasgeräts ist in der Regel anhand des Typschilds des Gasgeräts zu bestimmen.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2017 in Kraft.

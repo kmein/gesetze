@@ -1,15 +1,11 @@
-# [StruktHiGAufhDEFASG] Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds "Deutsche Einheit"
-
-Ausfertigungsdatum: 16.03.1992
-
+% Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds "Deutsche Einheit"
+% Ausfertigungsdatum: 16.03.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 – Aufhebung des Strukturhilfegesetzes
+# Art 1 – Aufhebung des Strukturhilfegesetzes
 
 (1) Das Strukturhilfegesetz vom 20. Dezember 1988 (BGBl. I S. 2358) wird mit Ablauf des 31. Dezember 1991 aufgehoben.
 
@@ -31,10 +27,8 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Art. 1 Abs. 1 Kursivdruck: Aufhebungsvorschrift
 
+# Art 2 und 3 – ----
 
-## Art 2 und 3 – ----
-
-
-## Art 4 – Inkrafttreten
+# Art 4 – Inkrafttreten
 
 Dieses Gesetz tritt am 31. Dezember 1991 in Kraft.

@@ -1,30 +1,23 @@
-# [MarkenG§8Bek 96-08] Bekanntmachung zu § 8 des Markengesetzes
-
-Ausfertigungsdatum: 27.08.1996
-
+% Bekanntmachung zu § 8 des Markengesetzes
+% Ausfertigungsdatum: 27.08.1996
  
-
-## I.
+# I.
 
 Auf Grund des § 8 Abs. 2 Nr. 7 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) wird ein amtliches Prüf- und Gewährzeichen für die Sicherheit elektrischer Geräte bekanntgemacht, das in Norwegen eingeführt ist (Anlage 1).
 
-
-## II.
+# II.
 
 Auf Grund des § 8 Abs. 2 Nr. 8 desselben Gesetzes wird bekanntgemacht, daß das neue Emblem der Europäischen Organisation für Flugsicherung und der Name in den aus der Anlage 2 ersichtlichen Sprachen von der Eintragung als Marke ausgeschlossen sind.
 
-
-## III.
+# III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 13. Mai 1996 (BGBl. I S. 747).
 
-
-## Schlußformel
+# Schlußformel
 
 Bundesministerium der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl I 1996, 1359)
 
@@ -44,8 +37,7 @@ Prüfzeichen NEMKO, das die Übereinstimmung elektrischer Geräte mit nationalen
   
 Das Prüfzeichen besteht aus dem Großbuchstaben N in einem Kreis in den oben angegebenen Abmessungen. Es kann in beliebiger Farbe erscheinen und auf dem Gerät mittels Etikett, Gravur oder Abdruck angebracht oder auf der Verpackung oder den dazugehörigen Unterlagen aufgedruckt werden.
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 1996, 1360)
 

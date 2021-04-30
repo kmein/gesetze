@@ -1,18 +1,13 @@
-# [ZKG] Gesetz über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten sowie den Zugang zu Zahlungskonten mit grundlegenden Funktionen  (Zahlungskontengesetz - ZKG)
-
-Ausfertigungsdatum: 11.04.2016
-
+% Gesetz über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten sowie den Zugang zu Zahlungskonten mit grundlegenden Funktionen  (Zahlungskontengesetz - ZKG)
+% Ausfertigungsdatum: 11.04.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt, soweit hierin nicht ausdrücklich etwas anderes geregelt ist, für alle Verbraucher sowie für Zahlungsdienstleister, die auf dem Markt Zahlungskonten für Verbraucher anbieten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Rechtmäßiger Aufenthalt in der Europäischen Union ist der rechtmäßige Aufenthalt natürlicher Personen, einschließlich Personen ohne festen Wohnsitz, in einem Mitgliedstaat der Europäischen Union auf Grund des Unionsrechts oder auf Grund nationalen Rechts sowie der rechtmäßige Aufenthalt Asylsuchender im Sinne des Abkommens über die Rechtsstellung der Flüchtlinge vom 28. Juli 1951 (BGBl. 1953 II S. 560), des Protokolls über die Rechtsstellung der Flüchtlinge vom 31. Januar 1967 (BGBl. 1969 II S. 1294) und anderer einschlägiger völkerrechtlicher Verträge. Als rechtmäßiger Aufenthalt in der Europäischen Union im Sinne dieses Gesetzes gilt auch der Aufenthalt im Inland Geduldeter.
 
@@ -30,32 +25,27 @@ Dieses Gesetz gilt, soweit hierin nicht ausdrücklich etwas anderes geregelt ist
 
 (8) Zahlungskonto im Sinne dieses Gesetzes ist ein auf den Namen eines oder mehrerer Zahlungsdienstnutzer lautendes Konto, das für die Ausführung von Zahlungsvorgängen genutzt wird.
 
-
-## § 3 – Allgemeines Benachteiligungsverbot
+# § 3 – Allgemeines Benachteiligungsverbot
 
 Verbraucher mit rechtmäßigem Aufenthalt in der Europäischen Union, die innerhalb der Europäischen Union den Abschluss eines Zahlungsdiensterahmenvertrags über die Führung eines Zahlungskontos im Sinne des § 1 Absatz 17 des Zahlungsdiensteaufsichtsgesetzes beantragen, dürfen von Instituten bei der Eröffnung eines solchen Kontos weder auf Grund ihrer Staatsangehörigkeit, ihrer Sprache oder ihres Wohnsitzes noch aus anderen Gründen, die in Artikel 21 der Charta der Grundrechte der Europäischen Union genannt werden, benachteiligt werden.
 
-
-## § 4 – Abweichende Vereinbarungen
+# § 4 – Abweichende Vereinbarungen
 
 (1) Soweit die Vorschriften dieses Gesetzes das Verhältnis zwischen Zahlungsdienstleistern und Verbrauchern regeln, darf von ihnen nicht zum Nachteil des Verbrauchers abgewichen werden, es sei denn, es ist etwas anderes bestimmt.
 
 (2) Die Vorschriften dieses Gesetzes gehen anderweitigen Gestaltungen vor, es sei denn, es ist etwas anderes bestimmt.
 
-
-## § 5 – Vorvertragliche Entgeltinformation
+# § 5 – Vorvertragliche Entgeltinformation
 
 Der Zahlungsdienstleister hat dem Verbraucher rechtzeitig vor dessen Vertragserklärung zum Abschluss eines Zahlungsdiensterahmenvertrags über die Führung eines Zahlungskontos Informationen über Entgelte für mit einem Zahlungskonto verbundene Dienste (Entgeltinformation) nach den §§ 6 bis 9 unentgeltlich mitzuteilen.
 
-
-## § 6 – Inhalt der Entgeltinformation zu den maßgeblichen Zahlungskontendiensten
+# § 6 – Inhalt der Entgeltinformation zu den maßgeblichen Zahlungskontendiensten
 
 (1) Die Entgeltinformation muss angeben, welche der maßgeblichen Zahlungskontendienste von dem Zahlungsdienstleister angeboten werden und welches Entgelt er dafür verlangt. Soweit einer oder mehrere dieser Dienste von dem Zahlungsdienstleister nicht angeboten werden, ist auch dies anzugeben. Soweit nach dem Angebot des Zahlungsdienstleisters im Zusammenhang mit den angebotenen maßgeblichen Zahlungskontendiensten die Erstattung von Kosten durch den Verbraucher oder die Verwirkung von vom Verbraucher zu zahlenden Vertragsstrafen vorgesehen ist, sind auch diese Kosten und Vertragsstrafen anzugeben.
 
 (2) Die Entgeltinformation muss den Hinweis enthalten, dass nur die Entgelte für die maßgeblichen Zahlungskontendienste angegeben sind und dass die vollständigen vorvertraglichen und vertraglichen Informationen zu den maßgeblichen Zahlungskontendiensten und den übrigen angebotenen Diensten anderen Dokumenten zu entnehmen sind.
 
-
-## § 7 – Inhalt der Entgeltinformation bei Paketen von Diensten oder von weiteren Produkten
+# § 7 – Inhalt der Entgeltinformation bei Paketen von Diensten oder von weiteren Produkten
 
 (1) Soweit einer oder mehrere der maßgeblichen Zahlungskontendienste von dem Zahlungsdienstleister als Teil eines Dienstepakets für ein Zahlungskonto angeboten werden, muss die Entgeltinformation auch die folgenden Angaben enthalten:
 
@@ -71,8 +61,7 @@ Der Zahlungsdienstleister hat dem Verbraucher rechtzeitig vor dessen Vertragserk
 
 (3) Im Rahmen der Angaben nach den Absätzen 1 und 2 sind auch vom Verbraucher zu erstattende Kosten und vom Verbraucher zu zahlende Vertragsstrafen zu nennen, die nach dem Angebot des Zahlungsdienstleisters in Bezug auf die angebotenen Dienste oder Pakete vorgesehen sind.
 
-
-## § 8 – Verwendung der standardisierten Zahlungskontenterminologie, Währungsangaben und Sprache der Entgeltinformation
+# § 8 – Verwendung der standardisierten Zahlungskontenterminologie, Währungsangaben und Sprache der Entgeltinformation
 
 (1) Für die Bezeichnung der in der Entgeltinformation genannten maßgeblichen Zahlungskontendienste ist die standardisierte Zahlungskontenterminologie zu verwenden. Andere Bezeichnungen dürfen in der Entgeltinformation nur zusätzlich zur standardisierten Zahlungskontenterminologie und als untergeordnete Bezeichnungen für die jeweiligen Dienste verwendet werden.
 
@@ -80,8 +69,7 @@ Der Zahlungsdienstleister hat dem Verbraucher rechtzeitig vor dessen Vertragserk
 
 (3) Die Entgeltinformation muss in deutscher Sprache abgefasst sein, wenn Verbraucher und Zahlungsdienstleister nichts anderes vereinbart haben.
 
-
-## § 9 – Form und Gestaltung der Entgeltinformation
+# § 9 – Form und Gestaltung der Entgeltinformation
 
 (1) Die Entgeltinformation bedarf der Textform.
 
@@ -91,13 +79,11 @@ Der Zahlungsdienstleister hat dem Verbraucher rechtzeitig vor dessen Vertragserk
 
 (4) Zahlungsdienstleister genügen den Anforderungen an die Gestaltung der Entgeltinformation nach den Absätzen 2 und 3, wenn sie das von der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 47 Absatz 2 für Entgeltinformationen veröffentlichte Muster verwenden.
 
-
-## § 10 – Entgeltaufstellung während und bei Beendigung des Vertragsverhältnisses
+# § 10 – Entgeltaufstellung während und bei Beendigung des Vertragsverhältnisses
 
 Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenvertrag über die Führung eines Zahlungskontos eine Information über sämtliche Entgelte, die für mit dem Zahlungskonto verbundene Dienste angefallen sind, sowie gegebenenfalls über den Sollzinssatz bei Überziehungen und den Zinssatz für Einlagen für dieses Zahlungskonto (Entgeltaufstellung) unentgeltlich zur Verfügung zu stellen. Eine Entgeltaufstellung ist dem Verbraucher während des Vertragsverhältnisses mindestens jährlich sowie bei Beendigung des Vertragsverhältnisses zur Verfügung zu stellen.
 
-
-## § 11 – Inhalt der Entgeltaufstellung
+# § 11 – Inhalt der Entgeltaufstellung
 
 (1) Die Entgeltaufstellung muss bezogen auf den Zeitraum, für den die Entgeltaufstellung erteilt wird, mindestens folgende Angaben enthalten:
 
@@ -115,8 +101,7 @@ Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenv
 
 (2) Im Rahmen der Angaben nach Absatz 1 sind auch Kosten und Vertragsstrafen zu nennen, die in Bezug auf die angebotenen Dienste oder Pakete angefallen sind.
 
-
-## § 12 – Verwendung der standardisierten Zahlungskontenterminologie, Währungsangaben und Sprache der Entgeltaufstellung
+# § 12 – Verwendung der standardisierten Zahlungskontenterminologie, Währungsangaben und Sprache der Entgeltaufstellung
 
 (1) Für die Bezeichnung der in der Entgeltaufstellung genannten maßgeblichen Zahlungskontendienste ist die standardisierte Zahlungskontenterminologie zu verwenden. Andere Bezeichnungen dürfen in der Entgeltaufstellung nur zusätzlich zur standardisierten Zahlungskontenterminologie und als untergeordnete Bezeichnungen für die jeweiligen Dienste verwendet werden.
 
@@ -124,8 +109,7 @@ Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenv
 
 (3) Die Entgeltaufstellung muss in deutscher Sprache abgefasst sein, wenn Verbraucher und Zahlungsdienstleister nichts anderes vereinbart haben.
 
-
-## § 13 – Form und Gestaltung der Entgeltaufstellung
+# § 13 – Form und Gestaltung der Entgeltaufstellung
 
 (1) Die Entgeltaufstellung muss dem Verbraucher in Textform zur Verfügung gestellt werden. Der Verbraucher kann verlangen, dass ihm die Entgeltaufstellung auf Papier zur Verfügung gestellt wird.
 
@@ -135,8 +119,7 @@ Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenv
 
 (4) Zahlungsdienstleister genügen den Anforderungen an die Gestaltung der Entgeltaufstellung nach den Absätzen 2 und 3, wenn sie das von der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 47 Absatz 2 für Entgeltaufstellungen veröffentlichte Muster verwenden.
 
-
-## § 14 – Allgemeine Informationspflichten der Zahlungsdienstleister
+# § 14 – Allgemeine Informationspflichten der Zahlungsdienstleister
 
 (1) Ein Zahlungsdienstleister, der sich öffentlich zur Führung von Zahlungskonten für Verbraucher erboten hat, hat Verbrauchern ergänzend zu den in § 675a des Bürgerlichen Gesetzbuchs genannten Informationen unentgeltlich die folgenden Angaben in Textform jederzeit leicht zugänglich zur Verfügung zu stellen:
 
@@ -158,20 +141,17 @@ Ein Zahlungsdienstleister hat einem Verbraucher bei einem Zahlungsdiensterahmenv
 
 (5) Zahlungsdienstleister genügen den Anforderungen an die Gestaltung und den Inhalt des Glossars nach Absatz 1 Nummer 5, wenn sie das von der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 47 Absatz 2 für dieses Glossar veröffentlichte Muster verwenden.
 
-
-## § 15 – Allgemeine Verwendung der standardisierten Zahlungskontenterminologie
+# § 15 – Allgemeine Verwendung der standardisierten Zahlungskontenterminologie
 
 Ein Zahlungsdienstleister, der sich öffentlich zur Führung von Zahlungskonten für Verbraucher erboten hat, hat die standardisierte Zahlungskontenterminologie auch für die Bezeichnung der maßgeblichen Zahlungskontendienste in anderen für Verbraucher bestimmten Informationen als der Entgeltinformation und der Entgeltaufstellung zu verwenden. Andere Bezeichnungen dürfen in diesen anderen Informationen für diese Dienste des Zahlungsdienstleisters nur dann verwendet werden, wenn der Zahlungsdienstleister zusätzlich eindeutig angibt, mit welchen Begriffen aus der standardisierten Zahlungskontenterminologie die betreffenden Dienste bezeichnet werden.
 
-
-## § 16 – Zertifizierung als Vergleichswebsite nach dem Zahlungskontengesetz, Berechtigung zur Führung dieser Bezeichnung sowie zur Verwendung des Zertifizierungssymbols
+# § 16 – Zertifizierung als Vergleichswebsite nach dem Zahlungskontengesetz, Berechtigung zur Führung dieser Bezeichnung sowie zur Verwendung des Zertifizierungssymbols
 
 (1) Dem Betreiber einer Website, die die in § 17 genannten Kriterien in der in § 18 vorgeschriebenen Art und Weise für den Verbraucher entgeltfrei vergleicht (Vergleichswebsite), ist auf Antrag ein Zertifikat durch die akkreditierten Konformitätsbewertungsstellen zu erteilen.
 
 (2) Das Zertifikat nach Absatz 1 berechtigt den Betreiber der Website zur Führung der Bezeichnung „Vergleichswebsite nach dem Zahlungskontengesetz“ sowie zur Verwendung des Zertifizierungssymbols.
 
-
-## § 17 – Anforderungen an Vergleichskriterien
+# § 17 – Anforderungen an Vergleichskriterien
 
 Der Betreiber einer Vergleichswebsite muss auf dieser Vergleichswebsite das Angebot verschiedener Zahlungsdienstleister, die Zahlungskontendienste anbieten und Zahlungskonten führen, mindestens anhand der folgenden Kriterien vergleichen:
 
@@ -183,8 +163,7 @@ Der Betreiber einer Vergleichswebsite muss auf dieser Vergleichswebsite das Ange
 
 4. den Sollzinssatz für eingeräumte Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs und für geduldete Überziehungen gemäß § 505 des Bürgerlichen Gesetzbuchs.
 
-
-## § 18 – Weitere Anforderungen an Vergleichswebsites
+# § 18 – Weitere Anforderungen an Vergleichswebsites
 
 Eine Vergleichswebsite muss
 
@@ -202,8 +181,7 @@ Eine Vergleichswebsite muss
 
 7. ein wirksames Verfahren für die Meldung unrichtiger Informationen über Entgelte, Kosten und Vertragsstrafen vorsehen.
 
-
-## § 19 – Verordnungsermächtigung; Verwaltungsvorschriften
+# § 19 – Verordnungsermächtigung; Verwaltungsvorschriften
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz Rechtsverordnungen ohne Zustimmung des Bundesrates zu erlassen
 
@@ -225,8 +203,7 @@ Eine Vergleichswebsite muss
 
 (4) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz Verwaltungsvorschriften erlassen, die für die Ausführung dieses Unterabschnittes und der auf ihm beruhenden Rechtsvorschriften durch die zuständigen Behörden und Stellen erforderlich sind.
 
-
-## § 20 – Verpflichtung zur Gewährung von Kontenwechselhilfe
+# § 20 – Verpflichtung zur Gewährung von Kontenwechselhilfe
 
 (1) Im Zusammenhang mit einem Wechsel von einem beim übertragenden Zahlungsdienstleister geführten Zahlungskonto zu einem beim empfangenden Zahlungsdienstleister geführten Zahlungskonto sind die Zahlungsdienstleister verpflichtet, dem Verbraucher auf dessen Wunsch Unterstützungsleistungen zu erbringen (Kontenwechselhilfe). Die Kontenwechselhilfe erfolgt nach Maßgabe dieses und des folgenden Unterabschnittes.
 
@@ -238,8 +215,7 @@ Eine Vergleichswebsite muss
 
 (3) Die Kontenwechselhilfe darf nur gewährt werden, wenn der Verbraucher und gegebenenfalls jeder weitere Inhaber der betroffenen Zahlungskonten eine den Anforderungen des § 21 entsprechende Ermächtigung zur Kontenwechselhilfe erteilt hat.
 
-
-## § 21 – Ermächtigung des Kontoinhabers
+# § 21 – Ermächtigung des Kontoinhabers
 
 (1) Eine Ermächtigung zur Kontenwechselhilfe bedarf der Schriftform. Sie muss in deutscher Sprache verfasst sein, es sei denn, die beteiligten Zahlungsdienstleister und der Inhaber des betroffenen Zahlungskontos haben sich auf eine andere Sprache geeinigt. Jeder der beteiligten Zahlungsdienstleister hat dem Verbraucher sowie gegebenenfalls jedem weiteren Inhaber der betroffenen Zahlungskonten auf dessen Wunsch unverzüglich ein Formular für die Ermächtigung zu übermitteln. Dem Verbraucher ist eine Kopie der erteilten Ermächtigung auszuhändigen.
 
@@ -259,8 +235,7 @@ Eine Vergleichswebsite muss
 
 (4) Die Ermächtigung nach Absatz 1 kann abweichend von Absatz 1 Satz 1 auch im Online-Banking durch den Inhaber des betroffenen Zahlungskontos erteilt werden.
 
-
-## § 22 – Einleitung des Kontenwechsels über den empfangenden Zahlungsdienstleister
+# § 22 – Einleitung des Kontenwechsels über den empfangenden Zahlungsdienstleister
 
 Der empfangende Zahlungsdienstleister hat auf Verlangen des Verbrauchers innerhalb von zwei Geschäftstagen nach Erhalt der Ermächtigung zur Kontenwechselhilfe den übertragenden Zahlungsdienstleister aufzufordern, folgende Leistungen zu erbringen, soweit die Ermächtigung zur Kontenwechselhilfe dies vorsieht:
 
@@ -276,8 +251,7 @@ Der empfangende Zahlungsdienstleister hat auf Verlangen des Verbrauchers innerha
 
 6. das beim übertragenden Zahlungsdienstleister geführte Zahlungskonto des Verbrauchers zu dem in der Ermächtigung hierzu bestimmten Datum gemäß § 21 Absatz 2 Nummer 4 zu schließen.
 
-
-## § 23 – Pflichten des übertragenden Zahlungsdienstleisters
+# § 23 – Pflichten des übertragenden Zahlungsdienstleisters
 
 (1) Der übertragende Zahlungsdienstleister hat nach Erhalt einer entsprechenden Aufforderung nach § 22 folgende Leistungen zu erbringen, soweit die Ermächtigung zur Kontenwechselhilfe dies vorsieht:
 
@@ -293,8 +267,7 @@ Der empfangende Zahlungsdienstleister hat auf Verlangen des Verbrauchers innerha
 
 (2) Der übertragende Zahlungsdienstleister darf unbeschadet des § 675k Absatz 2 des Bürgerlichen Gesetzbuchs vom Verbraucher eingesetzte Zahlungsauthentifizierungsinstrumente nicht vor dem in der Ermächtigung hierzu bestimmten Datum gemäß § 21 Absatz 2 Nummer 4 sperren.
 
-
-## § 24 – Abschluss des Kontenwechsels durch den empfangenden Zahlungsdienstleister
+# § 24 – Abschluss des Kontenwechsels durch den empfangenden Zahlungsdienstleister
 
 (1) Der empfangende Zahlungsdienstleister hat innerhalb von fünf Geschäftstagen nach Erhalt der Listen und Informationen nach § 23 Absatz 1 Nummer 1 folgende Leistungen zu erbringen, soweit die Ermächtigung zur Kontenwechselhilfe dies vorsieht:
 
@@ -322,13 +295,11 @@ c) sämtliche auf sein Zahlungskonto bezogenen Lastschriften oder sämtliche von
 
 (3) Liegt ein in der Ermächtigung bestimmtes Datum gemäß § 21 Absatz 2 Nummer 5 nicht mindestens sechs Geschäftstage nach dem Erhalt der Listen und Informationen nach § 23 Absatz 1 Nummer 1 durch den empfangenden Zahlungsdienstleister, so tritt an die Stelle dieses in der Ermächtigung bestimmten Datums der sechste Geschäftstag nach dem Erhalt der Listen und Informationen.
 
-
-## § 25 – Haftung bei Pflichtverletzungen
+# § 25 – Haftung bei Pflichtverletzungen
 
 Der empfangende und der übertragende Zahlungsdienstleister haften dem Verbraucher für Schäden aus einer Verletzung ihrer Pflichten nach diesem und dem vorangegangenen Unterabschnitt als Gesamtschuldner nach den allgemeinen Vorschriften.
 
-
-## § 26 – Entgelte, Kosten und Verbot von Vertragsstrafen
+# § 26 – Entgelte, Kosten und Verbot von Vertragsstrafen
 
 (1) Ein Zahlungsdienstleister hat für die Erfüllung seiner Pflichten nach den Unterabschnitten 1 und 2 nur dann einen Entgeltanspruch gegenüber dem Verbraucher, wenn dies zwischen dem Verbraucher und dem Zahlungsdienstleister vereinbart worden ist. Dieses Entgelt muss angemessen und an den tatsächlichen Kosten des Zahlungsdienstleisters ausgerichtet sein.
 
@@ -346,22 +317,19 @@ Der empfangende und der übertragende Zahlungsdienstleister haften dem Verbrauch
 
 (5) Eine Vereinbarung, nach der der Verbraucher eine Vertragsstrafe im Zusammenhang mit der Kontenwechselhilfe nach diesem Abschnitt schuldet, ist unzulässig.
 
-
-## § 27 – Verpflichtung des Zahlungsdienstleisters zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
+# § 27 – Verpflichtung des Zahlungsdienstleisters zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
 
 (1) Teilt der Verbraucher einem Zahlungsdienstleister, bei dem für ihn ein Zahlungskonto geführt wird, mit, dass er bei einem europäischen Zahlungsdienstleister ein Zahlungskonto eröffnen möchte, so hat der Zahlungsdienstleister die in § 29 genannten Handlungen vorzunehmen, soweit der Verbraucher ihn hierzu gemäß § 28 auffordert.
 
 (2) Auf die Mitteilung nach Absatz 1 hat der Zahlungsdienstleister dem Verbraucher unentgeltlich das Formular nach Anlage 2 zur Datenabfrage für die grenzüberschreitende Kontoeröffnung zu übermitteln.
 
-
-## § 28 – Aufforderung durch den Verbraucher
+# § 28 – Aufforderung durch den Verbraucher
 
 (1) Die Aufforderung durch den Verbraucher zur Vornahme der in § 29 genannten Handlungen muss das Datum enthalten, zu welchem diese Handlungen vorgenommen werden sollen. Dieses Datum muss mindestens sechs Geschäftstage nach dem Eingang der Aufforderung beim Zahlungsdienstleister liegen. Dies gilt nicht, sofern der Verbraucher und der Zahlungsdienstleister ausdrücklich etwas anderes vereinbart haben. Fehlt eine Datumsangabe oder entspricht sie nicht den in Satz 2 genannten Voraussetzungen, so gilt die Aufforderung als für den siebten Geschäftstag nach ihrem Eingang beim Zahlungsdienstleister erteilt.
 
 (2) Verlangt der Verbraucher die Übertragung eines positiven Saldos seines beim übertragenden Zahlungsdienstleister geführten Zahlungskontos auf das Zahlungskonto, das bei einem anderen europäischen Zahlungsdienstleister eröffnet oder geführt wird, so muss der Verbraucher dem übertragenden Zahlungsdienstleister die IBAN dieses Kontos oder gleichwertige Angaben nennen, die dem Zahlungsdienstleister die Identifizierung des europäischen Zahlungsdienstleisters sowie des dortigen Zahlungskontos des Verbrauchers ermöglichen.
 
-
-## § 29 – Handlungen des Zahlungsdienstleisters zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
+# § 29 – Handlungen des Zahlungsdienstleisters zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
 
 Der Zahlungsdienstleister hat auf Aufforderung durch den Verbraucher zu dem gemäß § 28 Absatz 1 maßgeblichen Datum
 
@@ -377,8 +345,7 @@ c) über eingehende Überweisungen sowie über die vom Zahlungsempfänger veranl
 
 3. das Zahlungskonto des Verbrauchers zu schließen; § 675h Absatz 1 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-
-## § 30 – Anwendungsbereich
+# § 30 – Anwendungsbereich
 
 (1) Dieser Abschnitt gilt für Zahlungsdiensterahmenverträge über die Führung eines Zahlungskontos für Verbraucher mit grundlegenden Funktionen (Basiskontoverträge).
 
@@ -394,15 +361,13 @@ b) zwischen dem Kontoinhaber und dem kontoführenden Institut in anderer als in 
 
 (3) Wenn es sich bei dem Institut um eine rechtlich nicht selbständige Zweigniederlassung nach § 53b Absatz 1 des Kreditwesengesetzes oder eine Zweigstelle nach § 53 des Kreditwesengesetzes handelt, so ist Träger der Rechte und Pflichten des Instituts nach diesem Abschnitt das Unternehmen mit Sitz im Ausland, das diese Zweigniederlassung oder Zweigstelle betreibt. Maßgeblich für den Umfang des Angebots des Instituts nach § 38 Absatz 4 ist der Umfang des allgemeinen Angebots des Instituts für Verbraucher in Bezug auf diese Zweigniederlassung oder Zweigstelle.
 
-
-## § 31 – Anspruch auf Abschluss eines Basiskontovertrags
+# § 31 – Anspruch auf Abschluss eines Basiskontovertrags
 
 (1) Ein Institut, das Zahlungskonten für Verbraucher anbietet (Verpflichteter), hat mit einem Berechtigten einen Basiskontovertrag zu schließen, wenn dessen Antrag die Voraussetzungen des § 33 erfüllt. Berechtigter ist jeder Verbraucher mit rechtmäßigem Aufenthalt in der Europäischen Union einschließlich Personen ohne festen Wohnsitz und Asylsuchende sowie Personen ohne Aufenthaltstitel, die aber aus rechtlichen oder tatsächlichen Gründen nicht abgeschoben werden können.
 
 (2) Der Verpflichtete hat dem Berechtigten den Abschluss des Basiskontovertrags unverzüglich, spätestens jedoch innerhalb von zehn Geschäftstagen nach Eingang des in Absatz 1 genannten Antrags, anzubieten. Der Verpflichtete hat dem Berechtigten den Eingang des Antrags unter Beifügung einer Abschrift des Antrags zu bestätigen.
 
-
-## § 32 – Benachteiligungsfreies Leistungsangebot und Koppelungsverbot
+# § 32 – Benachteiligungsfreies Leistungsangebot und Koppelungsverbot
 
 (1) Der Abschluss und der gesetzlich vorgegebene Inhalt eines Basiskontovertrags nach dem dritten Unterabschnitt sowie die tatsächliche Nutzung des hiervon umfassten Leistungsangebots dürfen nur von den folgenden Voraussetzungen abhängig gemacht werden:
 
@@ -412,15 +377,13 @@ b) zwischen dem Kontoinhaber und dem kontoführenden Institut in anderer als in 
 
 (2) Alle weiteren Koppelungen mit der Nutzung oder der Vereinbarung zusätzlicher Dienstleistungen sind unzulässig.
 
-
-## § 33 – Antrag auf Abschluss eines Basiskontovertrags
+# § 33 – Antrag auf Abschluss eines Basiskontovertrags
 
 (1) Der Antrag des Berechtigten auf Abschluss eines Basiskontovertrags muss alle Angaben enthalten, die für den Abschluss dieses Vertrags erforderlich sind. Dies schließt Angaben darüber ein, ob und gegebenenfalls bei welchem Institut für den Berechtigten bereits ein Zahlungskonto geführt wird, das die Voraussetzungen des § 35 Absatz 1 Satz 2 erfüllt. Der Berechtigte kann bereits bei Stellung des Antrags auf Abschluss eines Basiskontovertrags verlangen, dass der Verpflichtete das Basiskonto als Pfändungsschutzkonto nach § 850k der Zivilprozessordnung führt.
 
 (2) Teilt ein Berechtigter dem Verpflichteten mit, dass er mit diesem einen Basiskontovertrag abschließen möchte, so hat der Verpflichtete dem Berechtigten das Formular nach Anlage 3 unentgeltlich zu übermitteln. Der Berechtigte soll dieses Formular zur Antragstellung nutzen. Hat er es vollständig ausgefüllt, so kann sich der Verpflichtete nicht darauf berufen, dass der Antrag unvollständig sei. Verfügt der Verpflichtete über einen Internetauftritt, so ist das Formular nach Anlage 3 auch dort zur Verfügung zu stellen.
 
-
-## § 34 – Ablehnung des Antrags auf Abschluss eines Basiskontovertrags
+# § 34 – Ablehnung des Antrags auf Abschluss eines Basiskontovertrags
 
 (1) Ein Verpflichteter kann den Antrag eines Berechtigten auf Abschluss eines Basiskontovertrags, der den Voraussetzungen des § 33 Absatz 1 genügt, nur aus den in den §§ 35 bis 37 genannten Gründen ablehnen.
 
@@ -430,15 +393,13 @@ b) zwischen dem Kontoinhaber und dem kontoführenden Institut in anderer als in 
 
 (4) Der Verpflichtete hat den Berechtigten mit der Ablehnung des Antrags auf Abschluss eines Basiskontovertrags unentgeltlich in Textform sowie, soweit nicht anders vereinbart, in deutscher Sprache auch über das Verwaltungsverfahren nach § 48 sowie über das Recht des Berechtigten zu unterrichten, sich an die nach § 14 Absatz 1 des Unterlassungsklagengesetzes zuständige Verbraucherschlichtungsstelle zu wenden. Er hat dem Berechtigten zugleich die Kontaktdaten dieser Stelle mitzuteilen. Der Ablehnungserklärung durch den Verpflichteten ist das Antragsformular nach Anlage 4 beizufügen.
 
-
-## § 35 – Ablehnung wegen eines bereits vorhandenen Zahlungskontos
+# § 35 – Ablehnung wegen eines bereits vorhandenen Zahlungskontos
 
 (1) Ein Verpflichteter kann den Antrag auf Abschluss eines Basiskontovertrags ablehnen, wenn der Berechtigte bereits Inhaber eines Zahlungskontos bei einem im Geltungsbereich dieses Gesetzes ansässigen Institut ist und er mit diesem Konto die in § 38 Absatz 2 genannten Dienste tatsächlich nutzen kann. Eine tatsächliche Nutzungsmöglichkeit setzt insbesondere voraus, dass der Kunde mit diesen Diensten am Zahlungsverkehr teilnehmen kann. Der Verpflichtete darf den Antrag nicht ablehnen, wenn das Konto gekündigt wurde oder der Berechtigte von der Schließung dieses Zahlungskontos benachrichtigt wurde.
 
 (2) Ein Verpflichteter ist berechtigt, vor Abschluss eines Basiskontovertrags innerhalb der Frist des § 31 Absatz 2 nachzuprüfen, ob der Berechtigte bereits Inhaber eines Zahlungskontos im Sinne des Absatzes 1 ist. Der Verpflichtete darf sich dabei auch an eine Stelle wenden, die geschäftsmäßig personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit herangezogen werden dürfen, zum Zweck der Übermittlung erhebt, speichert oder ändert. Der Verpflichtete darf sich bei dieser Nachprüfung nicht auf Auskünfte dieser Stelle beschränken, wenn deren Auskünfte zu den Angaben des Verbrauchers nach § 33 Absatz 1 Satz 2 in Widerspruch stehen.
 
-
-## § 36 – Ablehnung wegen strafbaren Verhaltens oder wegen Verstoßes gegen ein gesetzliches Verbot
+# § 36 – Ablehnung wegen strafbaren Verhaltens oder wegen Verstoßes gegen ein gesetzliches Verbot
 
 (1) Ein Verpflichteter kann den Antrag auf Abschluss eines Basiskontovertrags ablehnen, wenn
 
@@ -450,13 +411,11 @@ b) zwischen dem Kontoinhaber und dem kontoführenden Institut in anderer als in 
 
 (2) In den Fällen des Absatzes 1 Nummer 3 hat der Verpflichtete die gemäß § 46 Absatz 2 zuständige Behörde über die Ablehnung und den Ablehnungsgrund zu informieren.
 
-
-## § 37 – Ablehnung bei früherer Kündigung wegen Zahlungsverzugs
+# § 37 – Ablehnung bei früherer Kündigung wegen Zahlungsverzugs
 
 Ein Verpflichteter kann den Antrag auf Abschluss eines Basiskontovertrags ablehnen, wenn der Berechtigte Inhaber eines Basiskontos bei demselben Verpflichteten war und dieser Verpflichtete den Zahlungsdiensterahmenvertrag über die Führung dieses Basiskontos innerhalb des letzten Jahres vor Antragstellung nach § 42 Absatz 3 Nummer 2 berechtigt gekündigt hat.
 
-
-## § 38 – Pflicht des kontoführenden Instituts zur Führung eines Basiskontos und zur Erbringung von Diensten in Bezug auf dieses Konto
+# § 38 – Pflicht des kontoführenden Instituts zur Führung eines Basiskontos und zur Erbringung von Diensten in Bezug auf dieses Konto
 
 (1) Durch einen Basiskontovertrag wird das kontoführende Institut verpflichtet, für den Kontoinhaber ein Basiskonto in Euro zu eröffnen und zu führen.
 
@@ -476,18 +435,15 @@ c) die Ausführung von Zahlungsvorgängen mittels einer Zahlungskarte oder eines
 
 (4) Zahlungsdienste nach den Absätzen 2 und 3 sind dem Kontoinhaber in dem Umfang zur Verfügung zu stellen, wie sie von dem kontoführenden Institut Verbrauchern als Inhabern von Zahlungskonten allgemein angeboten werden. Die Anzahl der Zahlungsdienste darf nicht beschränkt werden. Dem Kontoinhaber ist die Erteilung von Aufträgen für die Erbringung von Zahlungsdiensten in den Geschäftsräumen des kontoführenden Instituts oder über alle weiteren vom kontoführenden Institut hierfür allgemein vorgesehenen Kommunikationsformen zu ermöglichen.
 
-
-## § 39 – Vereinbarung weiterer Dienstleistungen
+# § 39 – Vereinbarung weiterer Dienstleistungen
 
 Unbeschadet des § 32 dürfen das kontoführende Institut und der Kontoinhaber zusätzlich Dienstleistungen vereinbaren, die sich auf das Basiskonto beziehen und nicht von § 38 erfasst sind. Dies schließt auch die Vereinbarung einer eingeräumten Überziehungsmöglichkeit gemäß § 504 des Bürgerlichen Gesetzbuchs oder eines Entgelts für eine geduldete Überziehung gemäß § 505 des Bürgerlichen Gesetzbuchs ein.
 
-
-## § 40 – Benachteiligungsverbot bei der Führung eines Basiskontos
+# § 40 – Benachteiligungsverbot bei der Führung eines Basiskontos
 
 Das kontoführende Institut darf das Basiskonto für den Kontoinhaber im Übrigen nicht zu Bedingungen führen, die benachteiligend sind im Vergleich zu den Bedingungen für Zahlungskonten, die für Verbraucher angeboten werden, die keine Inhaber eines Basiskontos sind.
 
-
-## § 41 – Entgelte, Kosten und Verbot von Vertragsstrafen
+# § 41 – Entgelte, Kosten und Verbot von Vertragsstrafen
 
 (1) Der Kontoinhaber ist verpflichtet, an das kontoführende Institut für die Erbringung von Diensten auf Grund des Basiskontovertrags das vereinbarte Entgelt zu entrichten.
 
@@ -497,8 +453,7 @@ Das kontoführende Institut darf das Basiskonto für den Kontoinhaber im Übrige
 
 (4) Die Unwirksamkeit der Vereinbarung eines Entgelts, eines Kostenerstattungsanspruchs oder einer Vertragsstrafe lässt die Wirksamkeit des Basiskontovertrags im Übrigen unberührt.
 
-
-## § 42 – Kündigung durch das kontoführende Institut
+# § 42 – Kündigung durch das kontoführende Institut
 
 (1) Das kontoführende Institut kann den Basiskontovertrag nur unter den Voraussetzungen der nachfolgenden Absätze kündigen.
 
@@ -526,8 +481,7 @@ Das kontoführende Institut darf das Basiskonto für den Kontoinhaber im Übrige
 
 (5) Für eine Kündigung nach Absatz 3 oder Absatz 4 gilt § 314 Absatz 3 und 4 des Bürgerlichen Gesetzbuchs. Für eine Kündigung nach Absatz 3 ist auch § 314 Absatz 2 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden. In diesem Fall unterbleiben die Bestimmung einer Frist zur Abhilfe und eine Abmahnung auch dann, wenn hierdurch die öffentliche Sicherheit, insbesondere die gesetzlichen Regelungen zur Verhinderung der Nutzung des Finanzsystems zum Zweck der Geldwäsche oder der Terrorismusfinanzierung, gefährdet oder gegen ein Verbot der Informationsweitergabe verstoßen würde.
 
-
-## § 43 – Kündigungserklärung des kontoführenden Instituts
+# § 43 – Kündigungserklärung des kontoführenden Instituts
 
 (1) Die Kündigung durch das kontoführende Institut ist in Textform zu erklären. Die Kündigung muss klar und verständlich sein. Sie muss, wenn der Verbraucher und das kontoführende Institut nichts anderes vereinbart haben, in deutscher Sprache abgefasst sein.
 
@@ -539,18 +493,15 @@ Das kontoführende Institut darf das Basiskonto für den Kontoinhaber im Übrige
 
 (5) Gibt das kontoführende Institut den Kündigungsgrund wegen Gefährdung der öffentlichen Sicherheit oder wegen eines Verbots der Informationsweitergabe nicht an, so hat das Institut die gemäß § 46 Absatz 2 zuständige Behörde über die Kündigung und den Kündigungsgrund zu informieren.
 
-
-## § 44 – Ordentliche Kündigung durch den Kontoinhaber
+# § 44 – Ordentliche Kündigung durch den Kontoinhaber
 
 Für die ordentliche Kündigung des Basiskontovertrags durch den Kontoinhaber gilt § 675h Absatz 1 des Bürgerlichen Gesetzbuchs. Das kontoführende Institut ist verpflichtet, das Konto nach Wirksamwerden der Kündigung zu schließen.
 
-
-## § 45 – Unterstützungsleistungen zu Basiskonten
+# § 45 – Unterstützungsleistungen zu Basiskonten
 
 Institute, die Zahlungskonten auf dem Markt für Verbraucher anbieten, haben Verbrauchern jederzeit unentgeltlich Unterstützung in Bezug auf die spezifischen Merkmale, Entgelte und Kosten sowie auf die Nutzungsbedingungen der angebotenen Basiskonten zur Verfügung zu stellen.
 
-
-## § 46 – Organisationspflichten der Zahlungsdienstleister; zuständige Behörde; Aufsicht
+# § 46 – Organisationspflichten der Zahlungsdienstleister; zuständige Behörde; Aufsicht
 
 (1) Ein Zahlungsdienstleister muss über eine ordnungsgemäße Geschäftsorganisation, über interne Verfahren und über Kontrollsysteme verfügen, die die Erfüllung der Pflichten dieses Gesetzes gewährleisten.
 
@@ -564,15 +515,13 @@ Institute, die Zahlungskonten auf dem Markt für Verbraucher anbieten, haben Ver
 
 (6) § 4 Absatz 1a und 4 des Finanzdienstleistungsaufsichtsgesetzes bleibt unberührt.
 
-
-## § 47 – Öffentliche Informationen der Bundesanstalt
+# § 47 – Öffentliche Informationen der Bundesanstalt
 
 (1) Die Bundesanstalt veröffentlicht die Liste der repräsentativsten mit einem Zahlungskonto verbundenen Dienste nach Artikel 3 Absatz 5 der Richtlinie 2014/92/EU.
 
 (2) Die Bundesanstalt veröffentlicht und aktualisiert die nach § 9 Absatz 4, § 13 Absatz 4 und § 14 Absatz 5 vorgegebenen Muster auf ihren Internetseiten. Nicht mehr aktuelle Fassungen sind zu archivieren und zum Abruf bereitzuhalten.
 
-
-## § 48 – Verwaltungsverfahren
+# § 48 – Verwaltungsverfahren
 
 (1) Der Berechtigte kann gegenüber der Bundesanstalt die Durchführung eines Verwaltungsverfahrens nach dieser Vorschrift gegen den Verpflichteten beantragen, wenn dieser
 
@@ -592,8 +541,7 @@ Die Frist nach Satz 1 Nummer 3 verringert sich um den Zeitraum, der zwischen dem
 
 (3) Die Bundesanstalt bestätigt dem Berechtigten schriftlich den Eingang des Antrags auf Durchführung des Verwaltungsverfahrens. Den Abschluss des Verwaltungsverfahrens bestätigt sie gleichermaßen.
 
-
-## § 49 – Anordnung bei unrechtmäßiger Ablehnung des Antrags auf Abschluss eines Basiskontovertrags, Untätigkeit und Fristversäumnis
+# § 49 – Anordnung bei unrechtmäßiger Ablehnung des Antrags auf Abschluss eines Basiskontovertrags, Untätigkeit und Fristversäumnis
 
 (1) Verweigert ein Verpflichteter dem Berechtigten den Abschluss eines Basiskontovertrags oder die Eröffnung eines Basiskontos, ordnet die Bundesanstalt gegenüber dem Verpflichteten den Abschluss eines Basiskontovertrags oder die Eröffnung eines Basiskontos zugunsten des Berechtigten an. Dies gilt nicht, wenn der Verpflichtete die Voraussetzungen einer Ablehnung des Antrags nach den §§ 34 bis 37 oder das Nichtvorliegen nach § 32 Absatz 1 zulässiger Voraussetzungen gegenüber der Bundesanstalt glaubhaft machen kann. In diesem Fall ist der nach § 48 Absatz 1 gestellte Antrag abzulehnen.
 
@@ -601,8 +549,7 @@ Die Frist nach Satz 1 Nummer 3 verringert sich um den Zeitraum, der zwischen dem
 
 (3) Die Bundesanstalt kann von dem Verpflichteten für die Anordnung eine Gebühr nach Maßgabe des § 14 Absatz 1 und 2 des Finanzdienstleistungsaufsichtsgesetzes sowie der auf dieser Grundlage erlassenen Rechtsverordnung erheben.
 
-
-## § 50 – Klage gegen die Bundesanstalt; Verordnungsermächtigung
+# § 50 – Klage gegen die Bundesanstalt; Verordnungsermächtigung
 
 (1) Gegen Anordnungen der Bundesanstalt gegenüber dem Verpflichteten gemäß § 49 Absatz 1 Satz 1 oder gegen Ablehnungen des Antrags des Berechtigten gemäß § 49 Absatz 1 Satz 3 ist die Klage des Verpflichteten oder des Berechtigten zulässig. Die Klage des Berechtigten ist auch gegen die Unterlassung einer beantragten Anordnung der Bundesanstalt zulässig, auf deren Vornahme der Berechtigte ein Recht zu haben behauptet, wenn die Bundesanstalt den Antrag ohne zureichenden Grund nicht binnen eines Monats nach Eingang eines vollständigen und zulässigen Antrags nach § 48 Absatz 1 entschieden hat. Für die Klage ist das Landgericht zuständig, in dessen Bezirk der Verpflichtete seinen Sitz hat. An dem Rechtsstreit sind der Berechtigte, der Verpflichtete und die Bundesanstalt beteiligt.
 
@@ -620,8 +567,7 @@ Die Frist nach Satz 1 Nummer 3 verringert sich um den Zeitraum, der zwischen dem
 
 (8) Die Landesregierungen werden ermächtigt, die Zuständigkeit für Klagen gemäß Absatz 1 sowie für Klagen nach § 51 durch Rechtsverordnung einem Landgericht für die Bezirke mehrerer Landgerichte zuzuweisen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 51 – Klage gegen den Verpflichteten
+# § 51 – Klage gegen den Verpflichteten
 
 (1) Die Vorschriften dieses Abschnitts lassen die Zulässigkeit einer Klage des Berechtigten gegen den Verpflichteten auf Abschluss eines Basiskontovertrags oder auf Eröffnung eines Basiskontos unberührt, soweit Absatz 2 nichts anderes bestimmt.
 
@@ -629,13 +575,11 @@ Die Frist nach Satz 1 Nummer 3 verringert sich um den Zeitraum, der zwischen dem
 
 (3) Für die Klage ist das Landgericht zuständig, in dessen Bezirk der Verpflichtete seinen Sitz hat.
 
-
-## § 52 – Mitteilung an die Bundesanstalt in Zivilverfahren
+# § 52 – Mitteilung an die Bundesanstalt in Zivilverfahren
 
 In Streitigkeiten vor den Zivilgerichten um die Rechte und Pflichten des Berechtigten und des Verpflichteten auf Grund der Vorschriften dieses Gesetzes, soweit nicht ein Fall des § 50 vorliegt, hat das Gericht der Bundesanstalt eine Abschrift des Schriftsatzes zu übersenden, in dem erstmals in dem betreffenden Verfahren eine Bezugnahme auf die Bestimmungen dieses Gesetzes erfolgt.
 
-
-## § 53 – Bußgeldvorschriften
+# § 53 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -677,22 +621,18 @@ In Streitigkeiten vor den Zivilgerichten um die Rechte und Pflichten des Berecht
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
-## Anlage 1 – (zu § 21 Absatz 3)Ermächtigung durch den Kontoinhaber zur Kontenwechselhilfe
+# Anlage 1 – (zu § 21 Absatz 3)Ermächtigung durch den Kontoinhaber zur Kontenwechselhilfe
 
 (Fundstelle: BGBl. I 2016, 738 - 740)
 
-
-## Anlage 2 – (zu § 27 Absatz 2)Aufforderung durch den Kontoinhaber zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
+# Anlage 2 – (zu § 27 Absatz 2)Aufforderung durch den Kontoinhaber zur Erleichterung einer grenzüberschreitenden Kontoeröffnung
 
 (Fundstelle: BGBl. I 2016, 741)
 
-
-## Anlage 3 – (zu § 33 Absatz 2)Antrag auf Abschluss eines Basiskontovertrags
+# Anlage 3 – (zu § 33 Absatz 2)Antrag auf Abschluss eines Basiskontovertrags
 
 (Fundstelle: BGBl. I 2016, 742 - 743)
 
-
-## Anlage 4 – (zu § 34 Absatz 4 Satz 3)Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
+# Anlage 4 – (zu § 34 Absatz 4 Satz 3)Antrag auf Durchführung eines Verwaltungsverfahrens bei Ablehnung eines Antrags auf Abschluss eines Basiskontovertrags
 
 (Fundstelle: BGBl. I 2016, 744)

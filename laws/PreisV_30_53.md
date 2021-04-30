@@ -1,15 +1,11 @@
-# [PreisV 30/53] Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen
-
-Ausfertigungsdatum: 21.11.1953
-
+% Verordnung PR Nr 30/53 über die Preise bei öffentlichen Aufträgen
+% Ausfertigungsdatum: 21.11.1953
  
-
-## Eingangsformel
+# Eingangsformel
 
 Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswesens verstärkt durchzusetzen, wird auf Grund des § 2 des Preisgesetzes vom 10. April 1948 (WiGBl. S. 27)/3. Februar 1949 (WiGBl. S. 14)/21. Januar 1950 (Bundesgesetzbl. S. 7)/8. Juli 1950 (Bundesgesetzbl. S. 274)/25. September 1950 (Bundesgesetzbl. S. 681)/23. Dezember 1950 (Bundesgesetzbl. S. 824) und 29. März 1951 (Bundesgesetzbl. I S. 223) in der sich aus § 37 des Gesetzes über die Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar 1952 (Bundesgesetzbl. I S. 7) ergebenden Fassung verordnet:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Für Leistungen auf Grund öffentlicher Aufträge ist bei der Vereinbarung von Preisen grundsätzlich Marktpreisen gemäß § 4 vor Selbstkostenpreisen gemäß §§ 5 bis 8 der Vorzug zu geben.
 
@@ -17,8 +13,7 @@ Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswes
 
 (3) Für Leistungen auf Grund öffentlicher Aufträge dürfen höhere Preise nicht gefordert, versprochen, vereinbart, angenommen oder gewährt werden, als nach den Bestimmungen dieser Verordnung zulässig ist.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 (1) Öffentliche Aufträge im Sinne dieser Verordnung sind die Aufträge des Bundes, der Länder, der Gemeinden und Gemeindeverbände und der sonstigen juristischen Personen des öffentlichen Rechts.
 
@@ -34,13 +29,11 @@ Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswes
 
 (5) Die Bestimmungen dieser Verordnung gelten nicht für Bauleistungen. Bauleistungen im Sinne dieser Verordnung sind alle Bauarbeiten, soweit sie mit oder ohne Lieferung von Stoffen und Bauteilen der Herstellung, Instandsetzung, Instandhaltung, Änderung oder Beseitigung baulicher Anlagen dienen. Montagearbeiten einschließlich der Installationsarbeiten der Elektroindustrie und des Maschinenbaus stellen keine Bauleistungen dar.
 
-
-## § 3 – Geltung der Preisvorschriften
+# § 3 – Geltung der Preisvorschriften
 
 Öffentliche Aufträge unterliegen den allgemeinen und besonderen Preisvorschriften.
 
-
-## § 4 – Preise für marktgängige Leistungen
+# § 4 – Preise für marktgängige Leistungen
 
 (1) Für marktgängige Leistungen dürfen die im Verkehr üblichen preisrechtlich zulässigen Preise nicht überschritten werden.
 
@@ -50,8 +43,7 @@ Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswes
 
 (4) Die Preise nach den Absätzen 1 bis 3 sind zu unterschreiten oder können überschritten werden, wenn es die bei dem Auftrag vorliegenden besonderen Verhältnisse kostenmäßig rechtfertigen.
 
-
-## § 5 – Selbstkostenpreise
+# § 5 – Selbstkostenpreise
 
 (1) Selbstkostenpreise müssen auf die angemessenen Kosten des Auftragnehmers abgestellt werden, sie dürfen nur ausnahmsweise vereinbart werden, wenn
 
@@ -77,8 +69,7 @@ Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswes
 
 2. Selbstkostenerstattungspreise gemäß § 7.
 
-
-## § 6 – Selbstkostenfestpreise und Selbstkostenrichtpreise
+# § 6 – Selbstkostenfestpreise und Selbstkostenrichtpreise
 
 (1) Selbstkostenpreise sind möglichst als Selbstkostenfestpreise zu vereinbaren.
 
@@ -86,20 +77,17 @@ Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswes
 
 (3) Kann ein Selbstkostenfestpreis nicht festgestellt werden, so ist beim Abschluß des Vertrags zunächst ein vorläufiger Selbstkostenpreis (Selbstkostenrichtpreis) zu vereinbaren. Der Selbstkostenrichtpreis ist vor Beendigung der Fertigung, sobald die Grundlagen der Kalkulation übersehbar sind, möglichst in einen Selbstkostenfestpreis umzuwandeln.
 
-
-## § 7 – Selbstkostenerstattungspreise
+# § 7 – Selbstkostenerstattungspreise
 
 (1) Selbstkostenerstattungspreise dürfen nur vereinbart werden, wenn eine andere Preisermittlung nicht möglich ist. Die Höhe der erstattungsfähigen Kosten kann ganz oder teilweise durch Vereinbarung begrenzt werden.
 
 (2) Soweit es die Verhältnisse des Auftrags ermöglichen, soll in Vereinbarungen über Selbstkostenerstattungspreise vorgesehen werden, daß für einzelne Kalkulationsbereiche feste Sätze gelten.
 
-
-## § 8 – Ermittlung der Selbstkostenpreise
+# § 8 – Ermittlung der Selbstkostenpreise
 
 Werden Selbstkostenpreise (§§ 5 bis 7) vereinbart, so sind die als Anlage beigefügten Leitsätze für die Preisermittlung auf Grund von Selbstkosten anzuwenden.
 
-
-## § 9 – Prüfung der Preise
+# § 9 – Prüfung der Preise
 
 (1) Der Auftragnehmer hat den für die Preisbildung und Preisüberwachung zuständigen Behörden das Zustandekommen des Preises auf Verlangen nachzuweisen. Aus den Unterlagen muß ersichtlich sein, daß der Preis nach den Vorschriften dieser Verordnung zulässig ist. Diese Unterlagen sind, soweit nicht andere Vorschriften eine längere Frist vorsehen, mindestens 5 Jahre aufzubewahren.
 
@@ -107,8 +95,7 @@ Werden Selbstkostenpreise (§§ 5 bis 7) vereinbart, so sind die als Anlage beig
 
 (3) Die für die Preisbildung und Preisüberwachung zuständigen Behörden können die Unterlagen einsehen, Abschriften oder Auszüge aus diesen Unterlagen anfertigen lassen und die Betriebe besichtigen.
 
-
-## § 10 – Feststellung der Angemessenheit von Selbstkostenpreisen durch öffentliche Auftraggeber
+# § 10 – Feststellung der Angemessenheit von Selbstkostenpreisen durch öffentliche Auftraggeber
 
 (1) Der öffentliche Auftraggeber ist, sofern das Bundesministerium für Wirtschaft und Arbeit ihn hierzu allgemein oder im Einzelfall ermächtigt hat, berechtigt, im Benehmen mit der für die Preisbildung und Preisüberwachung zuständigen Behörde festzustellen, daß ein Selbstkostenpreis den Vorschriften dieser Verordnung entspricht. § 9 Abs. 2 Satz 2 und Abs. 3 gelten entsprechend. Die Feststellung ist bei einem Selbstkostenfestpreis nur in der Zeit von der Angebotsabgabe bis zum Abschluß der Vereinbarung zulässig. Das gleiche gilt bei einem Selbstkostenrichtpreis oder Selbstkostenerstattungspreis hinsichtlich vereinbarter fester Sätze für einen Kalkulationsbereich.
 
@@ -120,13 +107,11 @@ Werden Selbstkostenpreise (§§ 5 bis 7) vereinbart, so sind die als Anlage beig
 
 (5) u. (6) (weggefallen)
 
-
-## § 11 – Zuwiderhandlungen
+# § 11 – Zuwiderhandlungen
 
 Zuwiderhandlungen gegen die Bestimmungen dieser Verordnung werden nach den Strafbestimmungen des Gesetzes zur Vereinfachung des Wirtschaftsstrafrechts (Wirtschaftsstrafgesetz) vom 26. Juli 1949 (WiGBl. S. 193) in der Fassung des Gesetzes vom 25. März 1952 (Bundesgesetzbl. I S. 188)/17. Dezember 1952 (Bundesgesetzbl. I S. 805) geahndet.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1954 in Kraft.
 
@@ -142,12 +127,10 @@ Zuwiderhandlungen gegen die Bestimmungen dieser Verordnung werden nach den Straf
 
 (4) (weggefallen)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – Leitsätze für die Preisermittlung auf Grund von Selbstkosten
+# Anlage – Leitsätze für die Preisermittlung auf Grund von Selbstkosten
 
 Text siehe: PreisLS

@@ -1,15 +1,11 @@
-# [FinAusglG2017DV 2] Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2017
-
-Ausfertigungsdatum: 26.03.2021
-
+% Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2017
+% Ausfertigungsdatum: 26.03.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes, der durch Artikel 2 Nummer 12 des Gesetzes vom 14. August 2017 (BGBl. I S. 3122) geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2017
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2017
 
 Für das Ausgleichsjahr 2017 werden als Länderanteile an der Umsatzsteuer festgestellt:
 
@@ -32,13 +28,11 @@ Für das Ausgleichsjahr 2017 werden als Länderanteile an der Umsatzsteuer festg
 | für Schleswig-Holstein     |  3 685 156 216,07 Euro |
 | für Thüringen              | 4 233 493 994,52 Euro. |
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2017
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2017
 
 Für das Ausgleichsjahr 2017 wird der Finanzausgleich unter den Ländern wie folgt festgestellt:
 
@@ -68,8 +62,7 @@ Für das Ausgleichsjahr 2017 wird der Finanzausgleich unter den Ländern wie fol
 | an Schleswig-Holstein     |   238 129 419,93 Euro |
 | an Thüringen              |  635 101 214,49 Euro. |
 
-
-## § 3 – Abschlusszahlungen für 2017
+# § 3 – Abschlusszahlungen für 2017
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1, den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Finanzausgleichsgesetzes mit dem Inkrafttreten dieser Verordnung fällig:
 
@@ -99,7 +92,6 @@ Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgül
 | an Hessen            |  11 438 452,93 Euro |
 | an Niedersachsen     | 22 085 047,76 Euro. |
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2017 vom 31. März 2017 (BGBl. I S. 689) außer Kraft.

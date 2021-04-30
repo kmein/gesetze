@@ -1,10 +1,7 @@
-# [SchKG§19Abs2/§24Bek 2017] Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2017 geltenden Beträge
-
-Ausfertigungsdatum: 08.06.2017
-
+% Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2017 geltenden Beträge
+% Ausfertigungsdatum: 08.06.2017
  
-
-## ----
+# ----
 
 Auf Grund des § 24 des Schwangerschaftskonfliktgesetzes, der durch Artikel 36 Nummer 4 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1864) eingefügt worden ist, macht das Bundesministerium für Familie, Senioren, Frauen und Jugend die ab dem 1. Juli 2017 geltenden Beträge gemäß § 19 Absatz 2 des Schwangerschaftskonfliktgesetzes wie folgt bekannt:
 

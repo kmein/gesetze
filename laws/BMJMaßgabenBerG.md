@@ -1,10 +1,7 @@
-# [BMJMaßgabenBerG] Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz  (BMJ-Maßgabenbereinigungsgesetz)
-
-Ausfertigungsdatum: 19.04.2006
-
+% Gesetz über die Nichtanwendung von Maßgaben des Einigungsvertrages im Zuständigkeitsbereich des Bundesministeriums der Justiz  (BMJ-Maßgabenbereinigungsgesetz)
+% Ausfertigungsdatum: 19.04.2006
  
-
-## § 1 – Unanwendbarkeit von Maßgaben
+# § 1 – Unanwendbarkeit von Maßgaben
 
 (1) Folgende Maßgaben zum Bundesrecht in Kapitel III der Anlage I des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 907) sind nicht mehr anzuwenden:
 
@@ -133,7 +130,6 @@ Abschnitt III Buchstabe b (BGBl. 1990 II S. 963).
 
 (2) In Kapitel VIII der Anlage I Sachgebiet A: Arbeitsrechtsordnung, Abschnitt III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 907) sind die Maßgaben Nummer 1 und 15 (BGBl. 1990 II S. 1020, 1023) nicht mehr anzuwenden.
 
-
-## § 2 – Bekanntmachungserlaubnis
+# § 2 – Bekanntmachungserlaubnis
 
 Das Bundesministerium der Justiz kann im Bundesgesetzblatt bekannt machen, welche Maßgaben zum Bundesrecht der Anlage I Kapitel III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 889, 907) weiter anzuwenden sind. Es kann dabei alle bis zum Tag der Bekanntmachung verkündeten Rechtsvorschriften berücksichtigen, die die Nichtanwendung oder das Außerkrafttreten solcher Maßgaben bestimmt haben.

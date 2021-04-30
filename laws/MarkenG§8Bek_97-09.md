@@ -1,10 +1,7 @@
-# [MarkenG§8Bek 97-09] Bekanntmachung zu § 8 des Markengesetzes
-
-Ausfertigungsdatum: 23.09.1997
-
+% Bekanntmachung zu § 8 des Markengesetzes
+% Ausfertigungsdatum: 23.09.1997
  
-
-## ----
+# ----
 
 Auf Grund des § 8 Abs. 2 Nr. 8 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) wird bekanntgemacht, daß die folgenden Kennzeichen
 
@@ -22,8 +19,7 @@ Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 10. März 199
 
 Bundesministerium der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 1997, 2462)
 
@@ -31,8 +27,7 @@ Emblem der Eurasischen Patentorganisation
 
 ... (nicht darstellbare Abbildung)
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 1997, 2463)
 
@@ -95,8 +90,7 @@ grün
 
 ... (nicht darstellbare Abbildung)
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: BGBl. I 1997, 2464)
 
@@ -129,8 +123,7 @@ auf weißem Grund
 
 ... (nicht darstellbares Emblem)
 
-
-## Anlage 4
+# Anlage 4
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2465  
 

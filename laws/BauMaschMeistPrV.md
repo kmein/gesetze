@@ -1,15 +1,11 @@
-# [BauMaschMeistPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenmeister
-
-Ausfertigungsdatum: 23.01.1985
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Baumaschinenmeister
+% Ausfertigungsdatum: 23.01.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 2 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 2 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S. 1692) im Einvernehmen mit dem Bundesminister für Wirtschaft verordnet:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Baumaschinenmeister erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -29,8 +25,7 @@ Auf Grund des § 46 Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -44,8 +39,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten auf Baust
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Inhalt der Prüfung
+# § 3 – Gliederung und Inhalt der Prüfung
 
 (1) Die Qualifikation zum Geprüften Baumaschinenmeister umfasst:
 
@@ -59,8 +53,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten auf Baust
 
 (3) Der Erwerb der berufs- und arbeitspädagogischen Eignung ist durch eine erfolgreich abgelegte Prüfung nach § 4 der Ausbilder-Eignungsverordnung oder durch eine andere erfolgreich abgelegte vergleichbare Prüfung vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss nachzuweisen. Der Prüfungsnachweis ist vor Beginn der letzten Prüfungsleistung zu erbringen.
 
-
-## § 4 – Wirtschafts-, rechts- und sozialkundlicher Teil
+# § 4 – Wirtschafts-, rechts- und sozialkundlicher Teil
 
 (1) Im wirtschafts-, rechts- und sozialkundlichen Teil ist in folgenden Fächern zu prüfen:
 
@@ -160,8 +153,7 @@ c) Führungstechniken und Führungsverhalten.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Baumaschinentechnischer Teil
+# § 5 – Baumaschinentechnischer Teil
 
 (1) Im baumaschinentechnischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -272,15 +264,13 @@ c) Erfassen von Betriebsstoffen und Ersatzteilen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 und 4, Absatz 3 Satz 2 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewertung von Prüfungsleistungen
+# § 7 – Bewertung von Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -302,8 +292,7 @@ Aus den einzelnen Bewertungen der Prüfungsfächer wird als Bewertung des Prüfu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -330,8 +319,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -345,8 +333,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -354,34 +341,29 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1985 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2183 - 2184)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2184 - 2185)
 
@@ -427,8 +409,7 @@ b) Benennung der vier Prüfungsfächer und Bewertung mit Note,
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

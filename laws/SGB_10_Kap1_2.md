@@ -1,21 +1,15 @@
-# [SGB 10/Kap1/2] Sozialgesetzbuch - Verwaltungsverfahren -
-
-Ausfertigungsdatum: 18.08.1980
-
+% Sozialgesetzbuch - Verwaltungsverfahren -
+% Ausfertigungsdatum: 18.08.1980
  
+# §§ 1 bis 36 – (weggefallen)
 
-## §§ 1 bis 36 – (weggefallen)
+# §§ 37 u. 38 – (weggefallen)
 
-
-## §§ 37 u. 38 – (weggefallen)
-
-
-## § 39
+# § 39
 
 (weggefallen)
 
-
-## § 40 – Inkrafttreten, Außerkrafttreten
+# § 40 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Januar 1981 in Kraft, soweit in den Absätzen 2 bis 7 nichts anderes bestimmt ist. Mit dem Inkrafttreten treten alle entgegenstehenden oder gleichlautenden Vorschriften außer Kraft, insbesondere ...
 

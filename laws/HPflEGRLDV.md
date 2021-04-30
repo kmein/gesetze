@@ -1,15 +1,11 @@
-# [HPflEGRLDV] Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
-
-Ausfertigungsdatum: 08.05.1974
-
+% Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger
+% Ausfertigungsdatum: 08.05.1974
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 7a, 8 Abs. 2 und § 8a Abs. 1 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger vom 24. Juli 1956 (Bundesgesetzbl. I S. 667, 1957 S. 368), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), wird nach Anhörung der obersten Landesbehörden verordnet:
 
-
-## § 1
+# § 1
 
 Eine Versicherungsbescheinigung nach § 1 Abs. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger ist nicht erforderlich für
 
@@ -42,13 +38,11 @@ Frankreich (ohne Überseegebiete)
 
 hat.
 
-
-## § 2
+# § 2
 
 Die Befreiung nach § 1 Nr. 1 erstreckt sich nicht auf die in der Anlage zu dieser Verordnung aufgeführten Kraftfahrzeuge und Kraftfahrzeuganhänger.
 
-
-## § 3 – Erweiterter Versicherungsschutz für das Gebiet der Mitgliedstaaten der Europäischen Union und für die Gebiete der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 3 – Erweiterter Versicherungsschutz für das Gebiet der Mitgliedstaaten der Europäischen Union und für die Gebiete der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Kraftfahrzeuge und Kraftfahrzeuganhänger, die in einem anderen Gebiet als dem der Mitgliedstaaten der Europäischen Union oder dem der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zugelassen sind, dürfen auf öffentlichen Straßen oder Plätzen im Geltungsbereich dieser Verordnung nur gebraucht werden, wenn die durch den Gebrauch des Fahrzeugs verursachten Schäden im gesamten Gebiet der Mitgliedstaaten der Europäischen Union und dem der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nach den dort jeweils geltenden Vorschriften über die Pflichtversicherung gedeckt sind, soweit das Fahrzeug in die vorgenannten Gebiete ohne Kontrolle eines Versicherungsnachweises weiterreisen kann.
 
@@ -56,30 +50,25 @@ Die Befreiung nach § 1 Nr. 1 erstreckt sich nicht auf die in der Anlage zu dies
 
 (3) Absatz 1 gilt nicht für Fahrzeuge der ausländischen Streitkräfte, die zum Aufenthalt im Geltungsbereich dieser Verordnung befugt sind.
 
-
-## § 4 – Nachweis des EU-Versicherungsschutzes
+# § 4 – Nachweis des EU-Versicherungsschutzes
 
 Der Führer des Fahrzeugs hat das Bestehen der Haftpflichtversicherung im Sinne des § 3 durch eine Grüne Internationale Versicherungskarte oder durch eine Bescheinigung über den Abschluß einer Grenzversicherung nachzuweisen. Der Nachweis ist mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
-
-## § 5 – Abschluß der Grenzversicherung für den EU-Versicherungsschutz
+# § 5 – Abschluß der Grenzversicherung für den EU-Versicherungsschutz
 
 Für den im Geltungsbereich dieser Verordnung vorgenommenen Abschluß der Grenzversicherung sind die Vorschriften der §§ 2 bis 5 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger entsprechend anzuwenden.
 
-
-## § 6 – Verpflichtung des Fahrzeughalters hinsichtlich des EU-Versicherungsschutzes
+# § 6 – Verpflichtung des Fahrzeughalters hinsichtlich des EU-Versicherungsschutzes
 
 Besteht keine Haftpflichtversicherung nach § 3 oder führt der Führer des Fahrzeugs die nach § 4 erforderliche Versicherungsbescheinigung nicht mit, so darf der Halter nicht anordnen oder zulassen, daß das Fahrzeug im Geltungsbereich dieser Verordnung auf öffentlichen Straßen oder Plätzen gebraucht wird.
 
-
-## § 7 – Kontrolle
+# § 7 – Kontrolle
 
 (1) Fehlt die nach § 4 erforderliche Versicherungsbescheinigung bei der Einreise eines Fahrzeugs aus einem anderen Gebiet als dem der Mitgliedstaaten der Europäischen Union oder dem der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum in den Geltungsbereich dieser Verordnung, so müssen die für die Grenzkontrolle zuständigen Personen es zurückweisen. Fehlt die Bescheinigung bei der Einreise aus dem Gebiet eines Mitgliedstaates der Europäischen Union oder aus dem Gebiet eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, so kann das Fahrzeug zurückgewiesen werden. Stellt sich der Mangel während des Gebrauchs im Geltungsbereich dieser Verordnung heraus, so kann das Fahrzeug sichergestellt werden, bis die Bescheinigung vorgelegt wird.
 
 (2) Fehlt die nach § 1 Abs. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger erforderliche Versicherungsbescheinigung bei der Einreise eines Fahrzeugs aus dem Gebiet eines Mitgliedstaats der Europäischen Union oder aus dem Gebiet eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum in den Geltungsbereich dieser Verordnung, so ist § 1 Abs. 4 Satz 1 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger nur mit der Maßgabe anzuwenden, daß beim Fehlen der erforderlichen Versicherungsbescheinigung die Grenzzollstellen solche Fahrzeuge zurückweisen können.
 
-
-## § 8 – Wegfall des Versicherungsnachweises
+# § 8 – Wegfall des Versicherungsnachweises
 
 (1) Eine Versicherungsbescheinigung nach § 1 Abs. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger sowie nach § 4 dieser Verordnung ist nicht erforderlich für
 
@@ -127,8 +116,7 @@ landwirtschaftliche Fahrzeuge, insbesondere landwirtschaftliche Zugmaschinen, ih
 
 (3) (weggefallen)
 
-
-## § 9 – Bußgeldvorschriften für EU-Versicherungsschutz
+# § 9 – Bußgeldvorschriften für EU-Versicherungsschutz
 
 Ordnungswidrig im Sinne des § 9a Abs. 1 Nr. 2 des Gesetzes über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger handelt, wer vorsätzlich oder fahrlässig
 
@@ -142,26 +130,20 @@ a) das nach § 3 Abs. 1 erforderliche Versicherungsverhältnis nicht oder nicht 
 
 b) der Führer den nach § 4 Satz 2 erforderlichen Nachweis nicht mit sich führt.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2157 u. 2158
 
   
 Zypern  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte oder sonstiger militärischer und ziviler Bediensteter, die internationalen Vereinbarungen unterliegen.  
-Dänemark (und Faröer-Inseln)  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen.  
-Frankreich  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen.  
-Vereinigtes Königreich Großbritannien und Nordirland einschließlich der Kanalinseln, Gibraltar und der Insel Man  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der NATO-Streitkräfte.  
-Griechenland
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte oder sonstiger militärischer und ziviler Bediensteter, die internationalen Vereinbarungen unterliegen. Dänemark (und Faröer-Inseln)  
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. Frankreich  
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. Vereinigtes Königreich Großbritannien und Nordirland einschließlich der Kanalinseln, Gibraltar und der Insel Man  
+Kraftfahrzeuge und Kraftfahrzeuganhänger der NATO-Streitkräfte. Griechenland
 
 1. Fahrzeuge zwischenstaatlicher Organisationen (Grüne Schilder mit den Buchstaben "CD" und "Delta Sigma" vor der Zulassungsnummer).
 
@@ -174,8 +156,7 @@ Griechenland
 5. Kraftfahrzeuge und Kraftfahrzeuganhänger mit Probekennzeichen (Weiße Schilder mit den Buchstaben "Delta Omikron Kappa" vor der Zulassungsnummer).
 
 Italien  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte oder sonstiger militärischer oder ziviler Mitarbeiter, die internationalen Vereinbarungen unterliegen, insbesondere mit Kennzeichen: Beschriftung "AFI" und Dienstfahrzeuge der NATO-Streitkräfte.  
-Niederlande
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte oder sonstiger militärischer oder ziviler Mitarbeiter, die internationalen Vereinbarungen unterliegen, insbesondere mit Kennzeichen: Beschriftung "AFI" und Dienstfahrzeuge der NATO-Streitkräfte. Niederlande
 
 1. Private Kraftfahrzeuge und Kraftfahrzeuganhänger der in Deutschland stationierten Angehörigen der niederländischen Streitkräfte und ihrer Familien.
 
@@ -194,10 +175,7 @@ Portugal
 3. Fahrzeuge des portugiesischen Staates (Schwarze Schilder - weiße Zahlen, denen je nach Dienststelle die Buchstaben "AM", "AP", "EP", "ME", "MG" oder "MX" vorausgehen).
 
 Lettland  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen.  
-Litauen  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen.  
-Malta  
-Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen.  
-Polen  
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. Litauen  
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. Malta  
+Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen. Polen  
 Kraftfahrzeuge und Kraftfahrzeuganhänger der Streitkräfte, die internationalen Vereinbarungen unterliegen.

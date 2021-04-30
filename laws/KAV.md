@@ -1,15 +1,11 @@
-# [KAV] Verordnung über Konzessionsabgaben für Strom und Gas  (Konzessionsabgabenverordnung - KAV)
-
-Ausfertigungsdatum: 09.01.1992
-
+% Verordnung über Konzessionsabgaben für Strom und Gas  (Konzessionsabgabenverordnung - KAV)
+% Ausfertigungsdatum: 09.01.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 1 und des § 12 des Energiewirtschaftsgesetzes in der im Bundesgesetzblatt III, Gliederungsnummer 752-1, veröffentlichten bereinigten Fassung in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes verordnet der Bundesminister für Wirtschaft:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt Zulässigkeit und Bemessung der Zahlung von Konzessionsabgaben der Energieversorgungsunternehmen im Sinne des § 3 Nr. 18 des Energiewirtschaftsgesetzes an Gemeinden und Landkreise (§ 7).
 
@@ -19,8 +15,7 @@ Auf Grund des § 7 Abs. 1 und des § 12 des Energiewirtschaftsgesetzes in der im
 
 (4) Sondervertragskunden im Sinne dieser Verordnung sind Kunden, die nicht Tarifkunden sind.
 
-
-## § 2 – Bemessung und zulässige Höhe der Konzessionsabgaben
+# § 2 – Bemessung und zulässige Höhe der Konzessionsabgaben
 
 (1) Konzessionsabgaben dürfen nur in Centbeträge je gelieferter Kilowattstunde vereinbart werden.
 
@@ -71,8 +66,7 @@ Versorgungsunternehmen und Gemeinde können niedrigere Grenzmengen oder höhere 
 
 (8) Wird ein Weiterverteiler über öffentliche Verkehrswege mit Strom und Gas beliefert, der diese Energien ohne Benutzung solcher Verkehrswege an Letztverbraucher weiterleitet, so können für dessen Belieferung Konzessionsabgaben bis zu der Höhe vereinbart oder gezahlt werden, in der dies auch ohne seine Einschaltung zulässig wäre. Absatz 6 Satz 2 und 3 gelten entsprechend.
 
-
-## § 3 – Andere Leistungen als Konzessionsabgaben
+# § 3 – Andere Leistungen als Konzessionsabgaben
 
 (1) Neben oder anstelle von Konzessionsabgaben dürfen Versorgungsunternehmen und Gemeinde für einfache oder ausschließliche Wegerechte nur die folgenden Leistungen vereinbaren oder gewähren:
 
@@ -90,8 +84,7 @@ Für die Benutzung anderer als gemeindlicher öffentlicher Verkehrswege sowie f�
 
 2. Verpflichtungen zur Übertragung von Versorgungseinrichtungen ohne wirtschaftlich angemessenes Entgelt.
 
-
-## § 4 – Tarifgestaltung
+# § 4 – Tarifgestaltung
 
 (1) Konzessionsabgaben sind in den Entgelten für den Netzzugang und allgemeinen Tarifen auszuweisen. Gelten die Entgelte für den Netzzugang und allgemeinem Tarifpreise für mehrere Gemeinden, genügt die Angabe der für sie maßgeblichen Höchstbeträge sowie der Hinweis auf den Vorrang von Vereinbarungen, daß keine oder niedrigere Konzessionsabgaben zu zahlen sind.
 
@@ -99,27 +92,23 @@ Für die Benutzung anderer als gemeindlicher öffentlicher Verkehrswege sowie f�
 
 (3) Bei Strom gelten die Verpflichtungen nach den Absätzen 1 und 2 erst von dem Zeitpunkt an, zu dem eine nach dem 1. Januar 1992 erteilte Tarifgenehmigung wirksam wird.
 
-
-## § 5 – Abschlagszahlungen, Vorauszahlungen
+# § 5 – Abschlagszahlungen, Vorauszahlungen
 
 (1) Abschlagszahlungen auf Konzessionsabgaben sind nur für abgelaufene Zeitabschnitte zulässig. Eine Verzinsung findet außer im Fall des Verzuges nicht statt.
 
 (2) Vorauszahlungen dürfen nicht geleistet werden.
 
-
-## § 6 – Aufsichtsrechte und -maßnahmen
+# § 6 – Aufsichtsrechte und -maßnahmen
 
 (1) Die zuständige Behörde kann von Versorgungsunternehmen und Gemeinden die Auskünfte und Belege verlangen, die zur Überwachung der Einhaltung dieser Verordnung erforderlich sind.
 
 (2) §§ 65 und 69 Energiewirtschaftsgesetz findet entsprechende Anwendung.
 
-
-## § 7 – Landkreise
+# § 7 – Landkreise
 
 Landkreise können mit Versorgungsunternehmen Konzessionsabgaben vereinbaren, soweit die Landkreise aufgrund von Absprachen mit den Gemeinden die Rechte nach § 1 Abs. 2 zur Verfügung stellen können. In diesen Fällen sowie für laufende Verträge zwischen Landkreisen und Versorgungsunternehmen finden die Vorschriften dieser Verordnung entsprechend Anwendung. Für die Bestimmung der Höchstbeträge nach § 2 Abs. 2 sind die Einwohnerzahlen der jeweiligen Gemeinde des Landkreises maßgebend. Diese Höchstbeträge sind auch einzuhalten, soweit Konzessionsabgaben sowohl mit Landkreisen als auch mit Gemeinden vereinbart sind.
 
-
-## § 8 – Übergangsvorschrift
+# § 8 – Übergangsvorschrift
 
 (1) Soweit Konzessionsabgaben bereits für Lieferungen im Jahre 1991 vereinbart und gezahlt worden sind, sind diese Zahlungen spätestens zum 1. Januar 1993 auf Centbeträge je Kilowattstunde umzustellen. Dabei ist, getrennt für Strom und Gas sowie für Tarif- und Sonderabnehmer, zu ermitteln, wie vielen Cents pro Kilowattstunde die zwischen Versorgungsunternehmen und Gemeinde vereinbarte Konzessionsabgabe 1990 entsprochen hätte. Dieser Betrag ist, beginnend 1993, jährlich je Kilowattstunde wie folgt zu kürzen, bis die Höchstbeträge nach § 2 erreicht sind:
 
@@ -129,12 +118,10 @@ Landkreise können mit Versorgungsunternehmen Konzessionsabgaben vereinbaren, so
 
 (2) Für die Lieferung von Stadtgas dürfen in den Bundesländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen vor dem 1. Januar 1999 keine Konzessionsabgaben vereinbart oder gezahlt werden.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

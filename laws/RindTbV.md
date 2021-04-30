@@ -1,10 +1,7 @@
-# [RindTbV] Verordnung zum Schutz gegen die Tuberkulose des Rindes  (Tuberkulose-Verordnung)
-
-Ausfertigungsdatum: 16.06.1972
-
+% Verordnung zum Schutz gegen die Tuberkulose des Rindes  (Tuberkulose-Verordnung)
+% Ausfertigungsdatum: 16.06.1972
  
-
-## § 1
+# § 1
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -32,13 +29,11 @@ den Ausbruch der Tuberkulose befürchten lässt.
 
 Weist die molekularbiologische Untersuchung nach Satz 1 Nummer 1 Buchstabe b ein zweifelhaftes Ergebnis auf, bedarf es zur Feststellung der Tuberkulose der Rinder ebenfalls eines zusätzlichen bakteriologischen Nachweises von Mycobacterium bovis, Mycobacterium caprae, Mycobacterium tuberculosis, Mycobacterium africanum oder Mycobacterium microti.
 
-
-## § 2
+# § 2
 
 Impfungen gegen die Tuberkulose des Rindes und Heilversuche sind verboten. Die zuständige Behörde kann Ausnahmen zur Durchführung wissenschaftlicher Versuche zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 3
+# § 3
 
 (1) Werden bei Rindern anlässlich der Fleischuntersuchung pathologisch-anatomische Veränderungen festgestellt, die auf Tuberkulose hindeuten, stellt die zuständige Behörde sicher, dass
 
@@ -66,8 +61,7 @@ alle über sechs Wochen alten Rinder des betroffenen Bestandes mittels Simultant
 
 (5) In den Fällen des Absatzes 2 Satz 1 und 2 und des Absatzes 4 ist der Tierhalter oder sein Vertreter verpflichtet, zur Durchführung dieser Untersuchungen die erforderliche Hilfe zu leisten.
 
-
-## § 4
+# § 4
 
 Ist das Ergebnis der Tuberkulinprobe bei einem Rind zweifelhaft im Sinne der Nummer 2.2.5.3.1 Buchstabe b oder der Nummer 2.2.5.3.2 Buchstabe b des Anhangs B der Richtlinie 64/432/EWG, so sind
 
@@ -97,8 +91,7 @@ c) mittels Interferon-Gamma-Freisetzungstest zu untersuchen und
 
 Für den Fall, dass die Untersuchung der pathologisch-anatomisch veränderten Organe und der dazu gehörenden Lymphknoten nach Satz 1 Nummer 1 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe aaa mit negativem Ergebnis durchgeführt worden ist, sind die nach Satz 1 Nummer 1 Buchstabe a Doppelbuchstabe aa Dreifachbuchstabe bbb entnommenen Teile der Lunge, Tonsillen und Lymphknoten mittels Nukleinsäureamplifikationstechnik molekularbiologisch auf Tuberkulose zu untersuchen. Bis zum Abschluss der Untersuchungen nach Satz 1 Nummer 2 dürfen die Tiere aus dem Gehöft oder von dem sonstigen Standort nur mit Genehmigung der zuständigen Behörde entfernt werden; dies gilt nicht, wenn die Tiere unter amtlicher Kontrolle zur Schlachtung verbracht werden.
 
-
-## § 4a
+# § 4a
 
 Ist das Ergebnis der Tuberkulinprobe bei einem Rind positiv im Sinne der Nummer 2.2.5.3.1 Buchstabe a oder der Nummer 2.2.5.3.2 Buchstabe a des Anhangs B der Richtlinie 64/432/EWG, das Ergebnis der erneuten Tuberkulinprobe nach § 4 Satz 1 Nummer 1 Buchstabe b zweifelhaft im Sinne der Nummer 2.2.5.3.1 Buchstabe b oder Nummer 2.2.5.3.2 Buchstabe b des Anhangs B der Richtlinie 64/432/EWG oder das Ergebnis des Interferon-Gamma-Freisetzungstests positiv, so sind
 
@@ -114,13 +107,11 @@ zu entnehmen, mittels Nukleinsäureamplifikationstechnik molekularbiologisch auf
 
 § 4 Satz 3 gilt entsprechend.
 
-
-## § 5
+# § 5
 
 Werden in einem Rinderbestand Tuberkulinproben durchgeführt, so hat der Tierhalter, sofern nicht eine Untersuchung nach dieser Verordnung vorliegt, das Ergebnis der zuständigen Behörde unverzüglich mitzuteilen.
 
-
-## § 6
+# § 6
 
 (1) Ist bei Rindern der Ausbruch der Tuberkulose amtlich festgestellt, so gilt für das Gehöft oder den sonstigen Standort Folgendes:
 
@@ -142,13 +133,11 @@ abzusondern.
 
 (2) Bei Verdacht auf Tuberkulose gelten die Maßregeln nach Absatz 1 Nummer 1 und 2; die Maßregeln nach Absatz 1 Nummer 3 bis 5 können von der zuständigen Behörde angeordnet werden.
 
-
-## § 7
+# § 7
 
 Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen Tuberkulose festgestellt worden ist. Sie kann die Tötung verdächtiger Rinder anordnen, soweit dies zur Verhütung der Verbreitung der Tuberkulose erforderlich ist.
 
-
-## § 7a
+# § 7a
 
 (1) Ist in einem Gehöft oder an einem sonstigen Standort Tuberkulose oder Verdacht auf Tuberkulose der Rinder amtlich festgestellt, so stellt die zuständige Behörde epidemiologische Nachforschungen an und unterstellt alle Rinder der Gehöfte oder sonstigen Standorte,
 
@@ -174,8 +163,7 @@ Die epidemiologischen Nachforschungen nach Satz 1 erstrecken sich auf einen Zeit
 
 (3) Die zuständige Behörde kann bei den der behördlichen Beobachtung unterliegenden ansteckungsverdächtigen Rindern die Tötung anordnen.
 
-
-## § 8
+# § 8
 
 (1) Behälter, in denen Milch von Kühen, bei denen Verdacht auf Tuberkulose festgestellt worden ist, an eine Sammelmolkerei geliefert wird, sind von der Sammelmolkerei nach ihrer Entleerung unverzüglich zu reinigen und zu desinfizieren.
 
@@ -189,8 +177,7 @@ Die epidemiologischen Nachforschungen nach Satz 1 erstrecken sich auf einen Zeit
 
 (3) Die zuständige Behörde kann zulassen, dass die Desinfektion nach Absatz 2 Nummer 1 auf die Standplätze der Tiere und die diesen benachbarten sowie gegenüberliegenden Standplätze oder auf die Stallabteilungen beschränkt wird, in denen die Tiere gestanden haben.
 
-
-## § 9
+# § 9
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Tuberkulose erloschen ist oder sich der Verdacht auf Tuberkulose als unbegründet erwiesen hat.
 
@@ -228,16 +215,13 @@ ein negatives Ergebnis ergeben haben und die Desinfektion nach näherer Anweisun
 
 2. für Rinder in Betrieben, in denen Rinder ausschließlich in Stallhaltung gemästet und zur sofortigen Schlachtung abgegeben werden, soweit in diesen Betrieben so viele Tiere auf Tuberkulose untersucht werden, dass Tuberkulose mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenzschwelle von 25 vom Hundert festgestellt werden kann.
 
+# §§ 10 und 11 – (weggefallen)
 
-## §§ 10 und 11 – (weggefallen)
-
-
-## § 12
+# § 12
 
 Ein Rinderbestand, der sich im Inland befindet, ist im Sinne des Artikels 1 Absatz 1 der Entscheidung 2003/467/EG der Kommission vom 23. Juni 2003 zur Feststellung des amtlich anerkannt tuberkulose-, brucellose- und rinderleukosefreien Status bestimmter Mitgliedstaaten und Regionen von Mitgliedstaaten in Bezug auf die Rinderbestände (ABl. L 156 vom 25.6.2003, S. 74), die zuletzt durch den Durchführungsbeschluss 2012/449/EU vom 27. Juli 2012 (ABl. L 203 vom 31.7.2012, S. 66) geändert worden ist, ein amtlich anerkannter tuberkulosefreier Rinderbestand.
 
-
-## § 13
+# § 13
 
 (1) Die zuständige Behörde entzieht dem Inhaber eines Rinderbestandes die amtliche Anerkennung seines Bestandes als tuberkulosefrei, soweit für den Bestand
 
@@ -251,8 +235,7 @@ In den Fällen des Verdachts auf Tuberkulose kann die zuständige Behörde für 
 
 (3) Die zuständige Behörde hebt die Anordnung des Ruhens der amtlichen Anerkennung nach Absatz 1 Satz 2 auf, soweit sich der Verdacht nach § 9 Absatz 3 als unbegründet erwiesen hat.
 
-
-## § 14
+# § 14
 
 (1) Ist in einem Rinderbestand bei anderen Haustieren als Rindern eine bakteriologische Untersuchung nach § 1 Satz 1 Nummer 1 Buchstabe a oder eine molekularbiologische Untersuchung nach § 1 Satz 1 Nummer 1 Buchstabe b mit positivem Ergebnis durchgeführt worden,
 
@@ -270,8 +253,7 @@ c) eine von der zuständigen Behörde angeordnete Untersuchung zu dulden;
 
 (3) Die Tuberkulose der Rinder des Bestandes gilt als festgestellt, soweit die Untersuchung nach Absatz 1 Nummer 2 mit positivem Ergebnis durchgeführt worden ist.
 
-
-## § 15
+# § 15
 
 Der Halter eines Rinderbestandes hat dafür zu sorgen, dass die Rinder seines Bestandes
 
@@ -281,11 +263,9 @@ Der Halter eines Rinderbestandes hat dafür zu sorgen, dass die Rinder seines Be
 
 in Berührung kommen.
 
+# § 16 – (weggefallen)
 
-## § 16 – (weggefallen)
-
-
-## § 17
+# § 17
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -307,8 +287,7 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 9. entgegen § 8 Absatz 1 einen Behälter nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert.
 
-
-## § 18
+# § 18
 
 § 12 gilt nicht für einen Rinderbestand, soweit die zuständige Behörde am 21. Juli 2013
 
@@ -318,12 +297,10 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 Die zuständige Behörde erkennt den Rinderbestand amtlich als tuberkulosefrei an, soweit die Voraussetzungen nach § 13 Absatz 2 vorliegen.
 
-
-## § 18a
+# § 18a
 
 Die Befugnis der zuständigen Behörde, bei Verdacht auf Tuberkulose oder Feststellung der Tuberkulose bei einem Rind weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 und 3 bis 5 des Tiergesundheitsgesetzes anzuordnen, soweit diese zur Tierseuchenbekämpfung erforderlich sind und Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union nicht entgegenstehen, bleibt unberührt.
 
-
-## § 19 – (Inkrafttreten)
+# § 19 – (Inkrafttreten)
 
  

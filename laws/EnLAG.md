@@ -1,10 +1,7 @@
-# [EnLAG] Gesetz zum Ausbau von Energieleitungen  (Energieleitungsausbaugesetz - EnLAG)
-
-Ausfertigungsdatum: 21.08.2009
-
+% Gesetz zum Ausbau von Energieleitungen  (Energieleitungsausbaugesetz - EnLAG)
+% Ausfertigungsdatum: 21.08.2009
  
-
-## § 1
+# § 1
 
 (1) Für Vorhaben nach § 43 Absatz 1 Satz 1 des Energiewirtschaftsgesetzes im Bereich der Höchstspannungsnetze mit einer Nennspannung von 380 Kilovolt oder mehr, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen und für die daher ein vordringlicher Bedarf besteht, ist ein Bedarfsplan diesem Gesetz als Anlage beigefügt.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 21.08.2009
 
 (5) Energieleitungen beginnen und enden jeweils an den Netzverknüpfungspunkten, an denen sie mit dem bestehenden Übertragungsnetz verbunden sind.
 
-
-## § 2
+# § 2
 
 (1) Um den Einsatz von Erdkabeln auf der Höchstspannungsebene im Übertragungsnetz als Pilotvorhaben zu testen, können folgende der in der Anlage zu diesem Gesetz genannten Leitungen nach Maßgabe des Absatzes 2 als Erdkabel errichtet und betrieben oder geändert werden:
 
@@ -57,8 +53,7 @@ Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach
 
 (+++ § 2 Abs. 5: Zur Anwendung vgl. § 3 Abs. 6 u. § 4 Abs. 3 BBPlG +++)
 
-
-## Anlage
+# Anlage
 
 Vorhaben nach § 1 Abs. 1, für die ein vordringlicher Bedarf besteht:
 

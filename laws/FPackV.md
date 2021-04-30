@@ -1,12 +1,7 @@
-# [FPackV] Verordnung über Fertigpackungen und andere Verkaufseinheiten  (Fertigpackungsverordnung - FPackV)
-
-Ausfertigungsdatum: 18.11.2020
-
+% Verordnung über Fertigpackungen und andere Verkaufseinheiten  (Fertigpackungsverordnung - FPackV)
+% Ausfertigungsdatum: 18.11.2020
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -72,8 +67,9 @@ Ausfertigungsdatum: 18.11.2020
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Fertigpackungen gleicher und ungleicher Nennfüllmenge, Maßbehältnisse und andere Verkaufseinheiten. Sie regelt insbesondere Kennzeichnungen nach den Größen Gewicht, Volumen, Länge, Fläche oder Stückzahl.
 
@@ -92,8 +88,7 @@ Ausfertigungsdatum: 18.11.2020
 (+++ § 1 Abs. 2 Nr 2: Zur Anwendung vgl. § 15 Abs. 2 +++)  
 (+++ § 1 Abs. 2 Nr 2 und 3: Zur Anwendung vgl. § 30 Abs. 5 +++)
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind die folgenden Begriffsbestimmungen anzuwenden:
 
@@ -121,8 +116,7 @@ Für andere Verkaufseinheiten ist abweichend von Satz 1 Nummer 10 der Zeitpunkt 
 
 Satz 1 Nr. 8 und 9 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde die Angabe "(EG)" durch die Angabe "(EU)" ersetzt.
 
-
-## § 3 – Kennzeichnung der Nennfüllmenge
+# § 3 – Kennzeichnung der Nennfüllmenge
 
 (1) Wer Fertigpackungen oder andere Verkaufseinheiten herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss sicherstellen, dass die Nennfüllmenge nach den Größen Gewicht oder Volumen angegeben ist. Satz 1 gilt nicht, sofern nach anderen Vorschriften eine Kennzeichnung mit den Größen Stückzahl, Länge oder Fläche bestimmt oder der Verzicht auf eine Kennzeichnung vorgesehen ist.
 
@@ -130,8 +124,7 @@ Satz 1 Nr. 8 und 9 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde die A
 
 (3) Unbestimmte Nennfüllmengenangaben, die Angabe eines Nennfüllmengenbereichs oder die zusätzliche Angabe des Bruttogewichts sind unzulässig. Satz 1 gilt nicht, sofern nach anderen Vorschriften etwas anderes bestimmt ist.
 
-
-## § 4 – Allgemeine Vorschriften bei Kennzeichnung nach Gewicht oder Volumen
+# § 4 – Allgemeine Vorschriften bei Kennzeichnung nach Gewicht oder Volumen
 
 (1) Die Bestimmungen dieses Abschnitts gelten für nach Gewicht oder Volumen gekennzeichnete Fertigpackungen gleicher Nennfüllmenge für Erzeugnisse, die nicht kleiner als 5 Gramm oder 5 Milliliter und nicht größer als 10 Kilogramm oder 10 Liter sind. Satz 1 gilt nicht für vorverpackte Lebensmittel und nicht vorverpackte Lebensmittel.
 
@@ -158,8 +151,7 @@ in Ziffern anzugeben. Der Name der Einheit oder das Einheitenzeichen ist anzufü
 (+++ § 4 Abs. 4: Zur Anwendung vgl. § 13 Abs. 3 +++)  
 (+++ § 4 Abs. 4: Zur Anwendung vgl. § 14 Abs. 4 +++)
 
-
-## § 5 – Abtropfgewicht
+# § 5 – Abtropfgewicht
 
 (1) Befindet sich ein festes Lebensmittel in einer Aufgussflüssigkeit, so ist auf der Fertigpackung neben der Nennfüllmenge auch das Abtropfgewicht dieses Lebensmittels anzugeben.
 
@@ -191,8 +183,7 @@ Dies gilt auch, wenn die Aufgussflüssigkeit
 
 ist.
 
-
-## § 6 – Besondere Vorschriften bei Kennzeichnung nach Gewicht oder Volumen
+# § 6 – Besondere Vorschriften bei Kennzeichnung nach Gewicht oder Volumen
 
 (1) Fertigpackungen mit Erzeugnissen in Aerosolform sind nach Volumen zu kennzeichnen, auch wenn für das Erzeugnis nach anderen Vorschriften zusätzlich eine Kennzeichnung nach Gewicht vorgeschrieben ist. Als Volumen ist das Volumen der Flüssigphase anzugeben. Darüber hinaus ist das Gesamtfassungsvermögen der Packung anzugeben. Die Angabe nach Satz 3 ist so zu gestalten, dass sie sich von der Angabe des Nennvolumens des Inhalts deutlich unterscheidet.
 
@@ -215,13 +206,11 @@ zu kennzeichnen. Weiche Seifen sind nach Gewicht zu kennzeichnen.
 (+++ § 6 Abs. 1: Zur Anwendung vgl. § 13 Abs. 3 +++)  
 (+++ § 6 Abs. 1: Zur Geltung vgl. § 16 Abs. 2 +++)
 
-
-## § 7 – Fertigpackungen mit Lebensmitteln
+# § 7 – Fertigpackungen mit Lebensmitteln
 
 Für Fertigpackungen mit Lebensmitteln sind die §§ 20, 21, 22 und 23 entsprechend anzuwenden.
 
-
-## § 8 – Herstellerangabe
+# § 8 – Herstellerangabe
 
 (1) Auf Fertigpackungen sind der Name oder die Firma und der Ort der gewerblichen Niederlassung des Herstellers der Fertigpackung, im Falle eingeführter Fertigpackungen des Einführers, anzugeben. Die Angabe darf abgekürzt oder durch ein Zeichen ersetzt werden, sofern das Unternehmen für die zuständige Behörde aus der Abkürzung oder dem Zeichen leicht zu ermitteln ist.
 
@@ -235,8 +224,7 @@ Für Fertigpackungen mit Lebensmitteln sind die §§ 20, 21, 22 und 23 entsprech
 
 4. Fertigpackungen mit Tabakerzeugnissen, bei denen das Steuerzeichen nach § 35 Absatz 1 der Tabaksteuerverordnung vom 5. Oktober 2009 (BGBl. I S. 3262, 3263), die zuletzt durch Artikel 4 der Verordnung vom 14. August 2020 (BGBl. I S. 1960) geändert worden ist, entwertet ist.
 
-
-## § 9 – Allgemeine Nennfüllmengenanforderungen
+# § 9 – Allgemeine Nennfüllmengenanforderungen
 
 (1) Nach Gewicht oder Volumen gekennzeichnete Fertigpackungen dürfen nur so hergestellt werden, dass zum Zeitpunkt der Herstellung
 
@@ -362,8 +350,7 @@ in g oder ml
 
 Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten berechneten Werte der Verkehrsfähigkeit, die in vom Hundert angegeben sind, auf 0,1 Gramm oder 0,1 Milliliter aufzurunden.
 
-
-## § 10 – Besondere Nennfüllmengenanforderungen
+# § 10 – Besondere Nennfüllmengenanforderungen
 
 (1) Mit dem Abtropfgewicht gekennzeichnete Fertigpackungen dürfen nur so hergestellt werden, dass der nach Anlage 3 Nummer 6 festgestellte Mittelwert das angegebene Abtropfgewicht nicht unterschreitet.
 
@@ -375,8 +362,7 @@ Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten bere
 
 (5) Für Fertigpackungen mit gefrorenem oder tiefgefrorenem Geflügelfleisch nach Artikel 9 der Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. L 157 vom 17.6.2008, S. 46), die zuletzt durch die Verordnung (EU) Nr. 519/2013 der Kommission vom 21. Februar 2013 (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, gelten die dort in Artikel 9 Absatz 4 festgelegten Füllmengenanforderungen.
 
-
-## § 11 – ℮-Zeichen
+# § 11 – ℮-Zeichen
 
 (1) Das Zeichen „℮“ in der in Anhang II Nummer 3 der Richtlinie 2009/34/EG des Europäischen Parlaments und des Rates vom 23. April 2009 betreffend gemeinsame Vorschriften über Messgeräte sowie über Mess- und Prüfverfahren (Neufassung) (ABl. L 106 vom 28.4.2009, S. 7) dargestellten Form darf nur aufgebracht werden, wenn die Anforderungen der §§ 4, 6, 8, 9, 10 Absatz 5 und der §§ 38, 41 und 42 erfüllt sind. Ist neben der Nennfüllmenge auch das Abtropfgewicht anzugeben, so bezieht sich das Zeichen nur auf die Nennfüllmenge.
 
@@ -387,8 +373,7 @@ Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten bere
 (+++ § 11: Zur Geltung vgl. § 16 Abs. 2 +++)  
 (+++ § 11: Zur Nichtanwendung vgl. § 34 Abs. 2 Satz 4 +++)
 
-
-## § 12 – Anforderungen an EG-Düngemittel
+# § 12 – Anforderungen an EG-Düngemittel
 
 (1) Die Anforderungen an Fertigpackungen mit EG-Düngemitteln richten sich nach Artikel 9 Absatz 1 Buchstabe a Spiegelstrich 9 bis 11 Buchstabe b zweiter Unterabsatz und den Artikeln 10 und 11 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1), soweit nachstehend keine Ergänzungen im Rahmen der Durchführung der Verordnung (EG) Nr. 2003/2003 bestimmt sind.
 
@@ -400,8 +385,7 @@ Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten bere
 
 (3) Für nach Gewicht oder Volumen gekennzeichnete EG-Düngemittel sind die §§ 11, 34 Absatz 5 und § 42 entsprechend anzuwenden.
 
-
-## § 13 – Anforderungen an vorverpackte kosmetische Mittel
+# § 13 – Anforderungen an vorverpackte kosmetische Mittel
 
 (1) Die Anforderungen an Fertigpackungen mit kosmetischen Mitteln richten sich nach Artikel 19 Absatz 1 Buchstabe a und Buchstabe b erster Halbsatz der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30. November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S. 59), die zuletzt durch die Verordnung (EU) 2017/2228 vom 4. Dezember 2017 (ABl. L 319 vom 5.12.2017, S. 2; L 326 vom 9.12.2017, S. 55) geändert worden ist, soweit nachstehend keine Ergänzungen im Rahmen der Durchführung der Verordnung (EG) Nr. 1223/2009 bestimmt sind.
 
@@ -415,8 +399,7 @@ Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten bere
 
 (4) Verantwortliche Person ist die nach Artikel 4 Absatz 3 bis 6 der Verordnung (EG) Nr. 1223/2009 benannte Person.
 
-
-## § 14 – Anforderungen an kosmetische Mittel im Sinne des Artikels 19 Absatz 4 der Verordnung (EG) Nr. 1223/2009
+# § 14 – Anforderungen an kosmetische Mittel im Sinne des Artikels 19 Absatz 4 der Verordnung (EG) Nr. 1223/2009
 
 (1) Für Fertigpackungen mit kosmetischen Mitteln, die an den Verkaufsstellen auf Wunsch des Käufers verpackt werden oder im Hinblick auf ihren sofortigen Verkauf vorverpackt sind, ist § 5 der Kosmetik-Verordnung vom 16. Juli 2014 (BGBl. I S. 1054), die durch Artikel 2 der Verordnung vom 26. Januar 2016 (BGBl. I S. 108) geändert worden ist, anzuwenden.
 
@@ -432,8 +415,7 @@ Bei der Anwendung dieser Tabelle sind die in Gewichts- und Volumeneinheiten bere
 
 (5) Verantwortliche Person ist die nach Artikel 4 Absatz 3 bis 6 der Verordnung (EG) Nr. 1223/2009 benannte Person.
 
-
-## § 15 – Allgemeine Vorschriften
+# § 15 – Allgemeine Vorschriften
 
 (1) Die Anforderungen an Fertigpackungen mit vorverpackten und nicht vorverpackten Lebensmitteln und an andere Verkaufseinheiten mit vorverpackten und nicht vorverpackten Lebensmitteln,
 
@@ -445,15 +427,13 @@ richten sich nach Verordnung (EU) Nr. 1169/2011, soweit nachstehend nichts ander
 
 (2) § 1 Absatz 2 Nummer 2 und die §§ 20, 21, 22 und 39 Absatz 2 und 3 sind im Einklang mit Artikel 42 der Verordnung (EU) Nr. 1169/2011 vorrangig anzuwenden.
 
-
-## § 16 – Allgemeine Vorschriften für vorverpackte Lebensmittel
+# § 16 – Allgemeine Vorschriften für vorverpackte Lebensmittel
 
 (1) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 muss sicherstellen, dass ein vorverpacktes Lebensmittel nur in den Verkehr gebracht wird, wenn die Füllmenge die Anforderungen nach den §§ 9, 10, 26, 32 oder des § 34 Absatz 3 entsprechend erfüllt.
 
 (2) Für vorverpackte Lebensmittel gelten § 6 Absatz 1, die §§ 11, 34 Absatz 5 sowie die §§ 38, 40, 41 und 42 entsprechend.
 
-
-## § 17 – Obst und Gemüse ohne Vorverpackung im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
+# § 17 – Obst und Gemüse ohne Vorverpackung im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
 
 (1) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 muss sicherstellen, dass offene Packungen mit Obst oder Gemüse, die in Abwesenheit des Endverbrauchers verpackt worden sind und deren Inhalt verändert werden kann, nach Artikel 9 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 1169/2011 gekennzeichnet sind.
 
@@ -465,8 +445,7 @@ richten sich nach Verordnung (EU) Nr. 1169/2011, soweit nachstehend nichts ander
 
 (5) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 muss abweichend von den Anforderungen der Verordnung (EU) Nr. 1169/2011 sicherstellen, dass Obst und Gemüse nach Absatz 1 nach Maßgabe des § 21 Absatz 1 und des § 22 Absatz 1 gekennzeichnet sind.
 
-
-## § 18 – Backwaren ohne Vorverpackung im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
+# § 18 – Backwaren ohne Vorverpackung im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
 
 (1) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 muss sicherstellen, dass Backwaren gleichen Nenngewichts ohne Vorverpackung, die nach Gewicht zum Verkauf angeboten werden, nach Artikel 9 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 1169/2011 gekennzeichnet sind. Satz 1 gilt nicht für Brot ohne Vorverpackung über 250 Gramm.
 
@@ -480,8 +459,7 @@ richten sich nach Verordnung (EU) Nr. 1169/2011, soweit nachstehend nichts ander
 
 (6) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 muss abweichend von den Anforderungen der Verordnung (EU) Nr. 1169/2011 Backwaren ohne Vorverpackung nach den Absätzen 1 und 2 nach Maßgabe des § 21 Absatz 1 und Absatz 2 Nummer 1, des § 22 Absatz 1, Absatz 2 Satz 1 Nummer 3, 4 und 6 und Satz 2 kennzeichnen.
 
-
-## § 19 – Für den unmittelbaren Verkauf vorverpackte Lebensmittel im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
+# § 19 – Für den unmittelbaren Verkauf vorverpackte Lebensmittel im Sinne des Artikels 44 Absatz 1 der Verordnung (EU) Nr. 1169/2011
 
 (1) Für Fertigpackungen mit Lebensmitteln, die im Hinblick auf ihren unmittelbaren Verkauf vorverpackt werden, ist die Angabe nach Artikel 9 Absatz 1 Buchstabe e der Verordnung (EU) Nr. 1169/2011 verpflichtend.
 
@@ -491,8 +469,7 @@ richten sich nach Verordnung (EU) Nr. 1169/2011, soweit nachstehend nichts ander
 
 (4) Die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 muss abweichend von den Anforderungen der Verordnung (EU) Nr. 1169/2011 sicherstellen, dass für den unmittelbaren Verkauf vorverpackte Lebensmittel nach Absatz 1 nach Maßgabe der §§ 20, 21 und 22 gekennzeichnet sind.
 
-
-## § 20 – Weitere Bestimmungen zur Füllmengenkennzeichnung
+# § 20 – Weitere Bestimmungen zur Füllmengenkennzeichnung
 
 (1) Fertigpackungen mit flüssigen Lebensmitteln sind nach Volumen zu kennzeichnen, Fertigpackungen mit anderen Lebensmitteln nach Gewicht.
 
@@ -533,8 +510,7 @@ anzugeben.
 (+++ § 20: Zur Anwendung vgl. § 7 +++)  
 (+++ § 20 : Zur Anwendung vgl. § 15 Abs. 2 +++)
 
-
-## § 21 – Kennzeichnung der Stückzahl
+# § 21 – Kennzeichnung der Stückzahl
 
 (1) Abweichend von § 20 Absatz 1 und 2 darf die verantwortliche Person im Sinne des Artikels 8 Absatz 1 der Verordnung (EU) Nr. 1169/2011 bei Fertigpackungen mit Obst und Gemüse, Backoblaten und Gewürzen die Stückzahl angeben, wenn die Erzeugnisse der allgemeinen Verkehrsauffassung entsprechend nur nach Stückzahl gehandelt werden.
 
@@ -549,8 +525,7 @@ anzugeben.
 (+++ § 21: Zur Anwendung vgl. § 7 +++)  
 (+++ § 21: Zur Anwendung vgl. § 15 Abs. 2 +++)
 
-
-## § 22 – Befreiung oder Erleichterung von der Füllmengenkennzeichnung
+# § 22 – Befreiung oder Erleichterung von der Füllmengenkennzeichnung
 
 (1) Bei Fertigpackungen mit Erzeugnissen, die der allgemeinen Verkehrsauffassung entsprechend nach Stückzahl gehandelt werden oder bei denen nach § 21 die Stückzahl anzugeben ist, ist die Angabe der Stückzahl nicht erforderlich, wenn alle Stücke sichtbar und leicht zählbar sind oder wenn das Erzeugnis handelsüblich nur als einzelnes Stück oder Paar in den Verkehr gebracht wird.
 
@@ -573,15 +548,13 @@ Werden mehrere einzelne Fertigpackungen, die nach Satz 1 Nummer 3 und 4 von der 
 (+++ § 22: Zur Anwendung vgl. § 7 +++)  
 (+++ § 22: Zur Anwendung vgl. § 15 Abs. 2 +++)
 
-
-## § 23 – Verbindliche Werte für die Nennfüllmengen bei Wein und Spirituosen
+# § 23 – Verbindliche Werte für die Nennfüllmengen bei Wein und Spirituosen
 
 Vorverpackte Lebensmittel und für den unmittelbaren Verkauf vorverpackte Lebensmittel mit den in Anlage 1 Nummer 2 aufgeführten Weinen und Spirituosen in Fertigpackungen, die innerhalb der in Anlage 1 Nummer 1 genannten Füllmengenbereiche liegen, dürfen nur in den Verkehr gebracht werden, wenn die Nennfüllmenge einem der in Anlage 1 Nummer 1 aufgeführten Werte entspricht.
 
 (+++ § 23: Zur Anwendung vgl. § 7 +++)
 
-
-## § 24 – Allgemeine Vorschriften bei Kennzeichnung nach Stückzahl
+# § 24 – Allgemeine Vorschriften bei Kennzeichnung nach Stückzahl
 
 Wer Fertigpackungen, die nach Stückzahl gekennzeichnet sind, herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss sicherstellen, dass
 
@@ -589,8 +562,7 @@ Wer Fertigpackungen, die nach Stückzahl gekennzeichnet sind, herstellt, in den 
 
 2. die Nennfüllmenge die Anforderungen nach § 26 erfüllt.
 
-
-## § 25 – Besondere Vorschriften bei Kennzeichnung nach Stückzahl
+# § 25 – Besondere Vorschriften bei Kennzeichnung nach Stückzahl
 
 (1) Nach Stückzahl dürfen abweichend von § 4 Absatz 2 Nummer 1 gekennzeichnet werden
 
@@ -606,8 +578,7 @@ Wer Fertigpackungen, die nach Stückzahl gekennzeichnet sind, herstellt, in den 
 
 (2) Die Angabe der Stückzahl ist nicht erforderlich, wenn alle Stücke sichtbar und leicht zählbar sind oder wenn das Erzeugnis handelsüblich nur als einzelnes Stück oder Paar in den Verkehr gebracht wird.
 
-
-## § 26 – Anforderungen an die Nennfüllmenge bei Kennzeichnung nach Stückzahl
+# § 26 – Anforderungen an die Nennfüllmenge bei Kennzeichnung nach Stückzahl
 
 (1) Nach Stückzahl gekennzeichnete Fertigpackungen mit einer Nennfüllmenge von 30 Stück oder weniger dürfen nur hergestellt, in den Geltungsbereich des Mess- und Eichgesetzes verbracht, in den Verkehr gebracht oder sonst auf dem Markt bereitgestellt werden, wenn sie mindestens die angegebene Menge enthalten.
 
@@ -619,8 +590,7 @@ Wer Fertigpackungen, die nach Stückzahl gekennzeichnet sind, herstellt, in den 
 
 (+++ § 26: Zur Geltung vgl. § 17 Abs. 4 +++)
 
-
-## § 27 – Allgemeine Vorschriften bei Kennzeichnung nach Länge oder Fläche
+# § 27 – Allgemeine Vorschriften bei Kennzeichnung nach Länge oder Fläche
 
 (1) Wer Fertigpackungen, die nach Länge oder Fläche zu kennzeichnen sind, herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss sicherstellen, dass
 
@@ -632,8 +602,7 @@ Wer Fertigpackungen, die nach Stückzahl gekennzeichnet sind, herstellt, in den 
 
 (2) Wer Fertigpackungen in den Verkehr bringt, hat die Nennfüllmenge bei Angabe nach Länge in Zentimeter oder Meter und bei Angabe nach Fläche in Quadratzentimeter oder Quadratmeter in Ziffern zu kennzeichnen. Der Name der Einheit oder das Einheitenzeichen ist anzufügen.
 
-
-## § 28 – Anforderungen an die Nennfüllmenge bei Kennzeichnung nach Länge oder Fläche
+# § 28 – Anforderungen an die Nennfüllmenge bei Kennzeichnung nach Länge oder Fläche
 
 (1) Nach Länge oder Fläche gekennzeichnete Fertigpackungen dürfen nur so hergestellt werden, dass der nach Anlage 4 Nummer 6 festgestellte Mittelwert der Füllmengen die angegebene Nennfüllmenge zum Zeitpunkt der Herstellung nicht unterschreitet.
 
@@ -651,8 +620,7 @@ nicht überschreitet. Abweichend davon darf die Minusabweichung bei Garnen mit e
 
 (5) Für Verbandstoffe, Heftpflaster und Wundschnellverbände gelten nur die Anforderungen der Absätze 1 und 2. Für Erzeugnisse, für die im Arzneibuch nach § 55 des Arzneimittelgesetzes Anforderungen an die Länge festgelegt sind, gelten diese Anforderungen. Für Reißverschlüsse gelten die anerkannten Regeln der Technik.
 
-
-## § 29 – Offene Packungen
+# § 29 – Offene Packungen
 
 (1) Die Vorschriften dieser Verordnung über Fertigpackungen sind auf offene Packungen, die in Abwesenheit des Käufers hergestellt werden, entsprechend anzuwenden.
 
@@ -668,8 +636,7 @@ nicht überschreitet. Abweichend davon darf die Minusabweichung bei Garnen mit e
 
 (3) Abweichend von Absatz 2 Nummer 4 dürfen offene Packungen gleicher Nennfüllmenge auch in einer nachfolgenden Handelsstufe nur in den Geltungsbereich des Mess- und Eichgesetzes verbracht oder sonst auf dem Markt bereitgestellt werden, wenn die Füllmenge zu diesem Zeitpunkt die für Fertigpackungen festgelegte Verkehrsfähigkeitsgrenze von der Nennfüllmenge nicht überschreitet.
 
-
-## § 30 – Verkaufseinheiten ohne Umhüllung
+# § 30 – Verkaufseinheiten ohne Umhüllung
 
 (1) Wer Verkaufseinheiten ohne Umhüllung gleichen Nenngewichts, gleicher Nennlänge oder gleicher Nennfläche herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss sicherstellen, dass
 
@@ -705,8 +672,7 @@ nicht überschreitet. Abweichend davon darf die Minusabweichung bei Garnen mit e
 
 (6) Die Absätze 1 bis 5 gelten nicht für Verkaufseinheiten, die ausschließlich für Endverbraucher bestimmt sind, die das Erzeugnis in ihrer selbstständigen beruflichen oder gewerblichen Tätigkeit verwenden.
 
-
-## § 31 – Anforderungen an Fertigpackungen ungleicher Nennfüllmenge
+# § 31 – Anforderungen an Fertigpackungen ungleicher Nennfüllmenge
 
 Wer Fertigpackungen ungleicher Nennfüllmenge herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss sicherstellen, dass
 
@@ -718,8 +684,7 @@ Wer Fertigpackungen ungleicher Nennfüllmenge herstellt, in den Geltungsbereich 
 
 4. die Nennfüllmenge die Anforderungen nach § 32 erfüllt.
 
-
-## § 32 – Minusabweichungen bei Fertigpackungen ungleicher Nennfüllmenge
+# § 32 – Minusabweichungen bei Fertigpackungen ungleicher Nennfüllmenge
 
 (1) Nach Gewicht gekennzeichnete Fertigpackungen ungleicher Nennfüllmenge dürfen nur in den Verkehr gebracht oder sonst auf dem Markt bereitgestellt werden, wenn zum Zeitpunkt der Herstellung die Minusabweichung von der Nennfüllmenge die in der nachstehenden Tabelle festgelegten Werte nicht überschreitet:
 
@@ -731,15 +696,13 @@ in g</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">wen
 
 (+++ § 32 Abs. 1: Zur Geltung vgl. § 17 Abs. 4 +++)
 
-
-## § 33 – Fertigpackungen mit Füllmengen von weniger als 5 Gramm oder 5 Milliliter
+# § 33 – Fertigpackungen mit Füllmengen von weniger als 5 Gramm oder 5 Milliliter
 
 Fertigpackungen mit einer Füllmenge von weniger als 5 Gramm oder 5 Milliliter dürfen ohne Nennfüllmengenangaben hergestellt, in den Geltungsbereich des Mess- und Eichgesetzes verbracht, in den Verkehr gebracht oder sonst auf dem Markt bereitgestellt werden, sofern nicht eine Mengenkennzeichnung nach anderen Vorschriften anzubringen ist.
 
 (+++ § 33: Zur Anwendung vgl. § 30 Abs. 5 +++)
 
-
-## § 34 – Fertigpackungen mit Füllmengen von mehr als 10 Kilogramm oder mehr als 10 Liter
+# § 34 – Fertigpackungen mit Füllmengen von mehr als 10 Kilogramm oder mehr als 10 Liter
 
 (1) Die Vorschriften dieser Verordnung sind auf Fertigpackungen mit einer Füllmenge von mehr als 10 Kilogramm oder Liter nicht anzuwenden, soweit in den nachfolgenden Absätzen nichts anderes geregelt ist.
 
@@ -868,8 +831,7 @@ Mehr als 100
 (+++ § 34 Abs. 5: Zur Geltung vgl. § 16 Abs. 2 +++)  
 (+++ § 34 Abs. 5: Zur Geltung vgl. § 17 Abs. 4 +++)
 
-
-## § 35 – Angaben bei Maßbehältnis-Flaschen
+# § 35 – Angaben bei Maßbehältnis-Flaschen
 
 (1) Maßbehältnis-Flaschen sind Behältnisse aus Glas oder anderen Werkstoffen mit einer Formsteifigkeit, die dieselben messtechnischen Garantien zulässt wie Glas, und
 
@@ -893,7 +855,7 @@ Mehr als 100
 
 3. das folgende Zeichen (umgekehrtes Epsilon)
 
-![](../normengrafiken/bgbl1_2020/j2504-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2504-1_0010.jpg)
 
 Die Abbildung des Zeichens nach Satz 1 Nummer 3 muss mindestens 3 mm hoch sein. Bei Maßbehältnis-Flaschen ist das Nennvolumen das auf der Flasche angegebene Volumen.
 
@@ -924,8 +886,7 @@ Randvollvolumen ist das Flüssigkeitsvolumen, das die Flasche enthält, wenn sie
 
 (6) Wer Flaschen, die keine Maßbehältnis-Flaschen sind, herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, darf die Bezeichnungen in Absatz 3 Nummer 3 oder Absatz 5 Nummer 1 nicht aufbringen oder aufbringen lassen.
 
-
-## § 36 – Genauigkeitsanforderungen
+# § 36 – Genauigkeitsanforderungen
 
 (1) Genauigkeitsanforderungen umfassen bei Maßbehältnis-Flaschen
 
@@ -947,8 +908,7 @@ Nennvolumens</th><th style="text-align: center;">ml</th></tr></thead><tbody><tr 
 
 (5) Die Randvollvolumen von Maßbehältnis-Flaschen sollen den Größenwerten nach den allgemein anerkannten Regeln der Technik entsprechen.
 
-
-## § 37 – Herstellerzeichen
+# § 37 – Herstellerzeichen
 
 (1) Hersteller von Maßbehältnis-Flaschen, deren Nennvolumen nicht weniger als 0,05 Liter und nicht mehr als 5 Liter beträgt, haben bei der Physikalisch-Technischen Bundesanstalt schriftlich oder elektronisch die Erteilung eines Herstellerzeichens zu beantragen.
 
@@ -964,8 +924,7 @@ wenn Verwechslungen mit bereits erteilten Herstellerzeichen zu befürchten sind.
 
 (4) Einem von der Physikalisch-Technischen Bundesanstalt erteilten Herstellerzeichen steht ein Herstellerzeichen gleich, das von einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilt worden ist.
 
-
-## § 38 – Lesbarkeit und Schriftgröße
+# § 38 – Lesbarkeit und Schriftgröße
 
 (1) Wer eine Fertigpackung herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss die Fertigpackung nach Maßgabe der Absätze 2 bis 6 leicht erkennbar, deutlich lesbar und unverwischbar kennzeichnen.
 
@@ -1002,8 +961,7 @@ wenn Verwechslungen mit bereits erteilten Herstellerzeichen zu befürchten sind.
 (+++ § 38: Zur Geltung vgl. § 19 Abs. 3 +++)  
 (+++ § 38: Zur Anwendung vgl. § 30 Abs. 5 +++)
 
-
-## § 39 – Mehrere Packungen, Sammelpackungen
+# § 39 – Mehrere Packungen, Sammelpackungen
 
 (1) Wer eine Fertigpackung aus mehreren, nicht zum Einzelverkauf bestimmten Packungen desselben Erzeugnisses herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, muss diese mit der gesamten Nennfüllmenge und der Anzahl der einzelnen Packungen kennzeichnen. Die Angabe der Anzahl der Packungen darf entfallen, wenn alle Packungen sichtbar und leicht zählbar sind.
 
@@ -1017,8 +975,7 @@ wenn Verwechslungen mit bereits erteilten Herstellerzeichen zu befürchten sind.
 (+++ § 39: Zur Geltung vgl. § 19 Abs. 3 +++)  
 (+++ § 39: Zur Anwendung vgl. § 30 Abs. 5 +++)
 
-
-## § 40 – Marktüberwachung
+# § 40 – Marktüberwachung
 
 (1) Die Marktüberwachungsbehörden überprüfen anhand von Stichproben auf geeignete Weise und in dem erforderlichen Umfang die Einhaltung:
 
@@ -1041,8 +998,7 @@ wenn Verwechslungen mit bereits erteilten Herstellerzeichen zu befürchten sind.
 (+++ § 40: Zur Geltung vgl. § 18 Abs. 5 +++)  
 (+++ § 40: Zur Geltung vgl. § 19 Abs. 3 +++)
 
-
-## § 41 – Kontroll- und Dokumentationspflichten
+# § 41 – Kontroll- und Dokumentationspflichten
 
 (1) Wer Fertigpackungen gleicher Nennfüllmenge mit Gewichtskennzeichnung oder Volumenkennzeichnung herstellt, in den Geltungsbereich des Mess- und Eichgesetzes verbringt, in den Verkehr bringt oder sonst auf dem Markt bereitstellt, hat sicherzustellen, dass bei deren Abfüllung mit einem für den vorgesehenen Verwendungszweck geeigneten Messgerät, das den Anforderungen des Mess- und Eichgesetzes genügt,
 
@@ -1076,8 +1032,7 @@ wird und
 (+++ § 41: Zur Geltung vgl. § 19 Abs. 3 +++)  
 (+++ § 41: Zur Anwendung vgl. § 30 Abs. 5 +++)
 
-
-## § 42 – Bezugstemperatur
+# § 42 – Bezugstemperatur
 
 Die Nennfüllmengenanforderungen sind hinsichtlich des Volumens auf eine Temperatur von 20 °C bezogen. Satz 1 gilt nicht für tiefgekühlte und gefrorene Erzeugnisse, deren Nennfüllmenge in Volumen gekennzeichnet wird.
 
@@ -1088,8 +1043,7 @@ Die Nennfüllmengenanforderungen sind hinsichtlich des Volumens auf eine Tempera
 (+++ § 42: Zur Geltung vgl. § 17 Abs. 4 +++)  
 (+++ § 42: Zur Geltung vgl. § 19 Abs. 3 +++)
 
-
-## § 43 – Ordnungswidrigkeiten
+# § 43 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1107,15 +1061,13 @@ Ordnungswidrig im Sinne des § 60 Absatz 1 Nummer 26 des Mess- und Eichgesetzes 
 
 7. entgegen § 30 Absatz 1 Nummer 1 oder 2 nicht sicherstellt, dass eine Verkaufseinheit ohne Umhüllung gekennzeichnet ist.
 
-
-## § 44 – Übergangsvorschriften
+# § 44 – Übergangsvorschriften
 
 (1) Sammelpackungen, die vor dem 1. November 2021 hergestellt wurden, dürfen abweichend von § 38 Absatz 4 in den Geltungsbereich des Mess- und Eichgesetzes verbracht, in den Verkehr gebracht oder auf dem Markt bereitgestellt werden.
 
 (2) Messgeräte, die vor dem 31. Dezember 2021 nach § 27 oder § 31 der Fertigpackungsverordnung in der Fassung der Bekanntmachung vom 8. März 1994 (BGBl. I S. 451, 1307), die zuletzt durch Artikel 27 der Verordnung vom 5. Juli 2017 (BGBl. I S. 2272) geändert worden ist, zum Kontrollieren verwendet worden sind, brauchen bis zum Ablauf des 31. Dezember 2031 noch nicht den Anforderungen der Anlage 7 zu entsprechen.
 
-
-## Anlage 1 – (zu § 1 Absatz 2 Nummer 5, § 23, § 39 Absatz 4)Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
+# Anlage 1 – (zu § 1 Absatz 2 Nummer 5, § 23, § 39 Absatz 4)Verbindliche Werte für die Nennfüllmengen von Fertigpackungen mit Wein und Spirituosen
 
 (Fundstelle: BGBl. I 2020, 2518 - 2519)
 
@@ -1142,8 +1094,7 @@ ml: 720 – 1 800</td></tr></tbody></table>
 | Spirituosen         | Spirituosen im Sinne von Artikel 2 Absatz 1 bis 3 der Verordnung (EG) Nr. 110/2008 des Europäischen Parlaments und des Rates vom 15. Januar 2008 zur Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen und zur Aufhebung der Verordnung (EWG) 1576/89 (ABl. L 39 vom 13.2.2008, S. 16; KN-Code 2208), zuletzt geändert durch Verordnung (EU) Nr. 787/2019 (ABl. L 130 vom 17.5.2019, S. 1); KN-Code 2208                                                                                                                                                                                                                                                       |
 | Shochu              | Spirituosen im Sinne von Artikel 24a der Verordnung (EG) Nr. 110/2008                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-
-## Anlage 2 – (zu § 2 Satz 1 Nummer 10)Festlegung abweichender Herstellungszeitpunkte für Fertigpackungen und andere Verkaufseinheiten
+# Anlage 2 – (zu § 2 Satz 1 Nummer 10)Festlegung abweichender Herstellungszeitpunkte für Fertigpackungen und andere Verkaufseinheiten
 
 (Fundstelle: BGBl. I 2020, 2520)
 
@@ -1166,8 +1117,7 @@ ml: 720 – 1 800</td></tr></tbody></table>
 | c) | Würstchen, Fleisch und andere Fleischerzeugnisse                                      | 5 Tage nach dem Sterilisieren  |
 | d) | Mozzarella und Käse, der in einer oder aus einer Flüssigkeit in Verkehr gebracht wird | 5 Tage nach Abfüllung          |
 
-
-## Anlage 3 – (zu § 9 Absatz 1 Nummer 1, Absatz 2 Nummer 1, § 10 Absatz 1, Absatz 2,§ 30 Absatz 3, § 34 Absatz 3, Absatz 4 sowie § 40 Absatz 2) Verfahren zur Prüfung der Füllmenge nach Gewicht oder Volumen gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten durch die zuständigen Behörden
+# Anlage 3 – (zu § 9 Absatz 1 Nummer 1, Absatz 2 Nummer 1, § 10 Absatz 1, Absatz 2,§ 30 Absatz 3, § 34 Absatz 3, Absatz 4 sowie § 40 Absatz 2) Verfahren zur Prüfung der Füllmenge nach Gewicht oder Volumen gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten durch die zuständigen Behörden
 
 (Fundstelle: BGBl. I 2020, 2521 - 2523)
 
@@ -1283,7 +1233,7 @@ größer oder gleich der Nennfüllmenge ist.
 
 Der k-Wert ergibt sich aus den Tabellen unter Nummer 3; s ist die Standardabweichung der Füllmengen x<sub>i</sub> der Stichprobe.
 
-![](../normengrafiken/bgbl1_2020/j2504-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2504-1_0030.jpg)
 
 b) Fertigpackungen mit nach Gewicht gekennzeichneten Textilerzeugnissen
 
@@ -1315,8 +1265,7 @@ Die Regelungen der Nummern 4 und 5 Buchstabe a und b gelten auch für Fertigpack
 
 Die Nummern 1 bis 7 dieser Anlage sind auf die Prüfung anderer Verkaufseinheiten entsprechend anzuwenden.
 
-
-## Anlage 4 – (zu § 26 Absatz 2 Nummer 1, § 28 Absatz 1 und Absatz 2,§ 30 Absatz 3 sowie § 40 Absatz 2)Verfahren zur Prüfung der Füllmenge nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung durch die zuständigen Behörden
+# Anlage 4 – (zu § 26 Absatz 2 Nummer 1, § 28 Absatz 1 und Absatz 2,§ 30 Absatz 3 sowie § 40 Absatz 2)Verfahren zur Prüfung der Füllmenge nach Länge, Fläche oder Stückzahl gekennzeichneter Fertigpackungen und anderer Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung durch die zuständigen Behörden
 
 (Fundstelle: BGBl. I 2020, 2524 - 2526)
 
@@ -1397,7 +1346,7 @@ Die Messunsicherheit des Prüfverfahrens ist zu berücksichtigen.
 
 b) Bestimmungen der mittleren längenbezogenen Masse
 
-Die mittlere längenbezogene Masse des Erzeugnisses ist aus dem Gewicht von mindestens 5 Einzellängen von je mindestens 1 Meter Länge zu bestimmen. Ist die mittlere längenbezogene Masse größer als ![](../normengrafiken/bgbl1_2020/j2504-1_0040.jpg), brauchen die Einzellängen nicht größer als 0,2 Meter zu sein.
+Die mittlere längenbezogene Masse des Erzeugnisses ist aus dem Gewicht von mindestens 5 Einzellängen von je mindestens 1 Meter Länge zu bestimmen. Ist die mittlere längenbezogene Masse größer als ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2504-1_0040.jpg), brauchen die Einzellängen nicht größer als 0,2 Meter zu sein.
 
 c) Bestimmung der mittleren stückzahlbezogenen Masse
 
@@ -1417,8 +1366,7 @@ Der Faktor a ergibt sich aus der Tabelle unter Nummer 3; R ist die Spannweite de
 
 Die Nummern 1 bis 6 dieser Anlage sind auf die Prüfung von Verkaufseinheiten gleicher Nennlänge oder gleicher Nennfläche ohne Umhüllung entsprechend anzuwenden.
 
-
-## Anlage 5 – (zu § 40 Absatz 2)Abweichende Prüfzeiträume für Fertigpackungen und andere Verkaufseinheiten
+# Anlage 5 – (zu § 40 Absatz 2)Abweichende Prüfzeiträume für Fertigpackungen und andere Verkaufseinheiten
 
 (Fundstelle: BGBl. I 2020, 2526)
 
@@ -1439,8 +1387,7 @@ Die Nummern 1 bis 6 dieser Anlage sind auf die Prüfung von Verkaufseinheiten gl
 | c) | Bratfischmarinaden                                                                                                                                                                                                                                 | Bis 14 Tage nach dem Zeitpunkt der Herstellung |
 | d) | Mozzarella und Käse, der in einer oder aus einer Flüssigkeit in Verkehr gebracht wird                                                                                                                                                              | Bis 14 Tage nach dem Zeitpunkt der Herstellung |
 
-
-## Anlage 6 – (zu § 40 Absatz 3)Verfahren zur Prüfung von Maßbehältnis-Flaschen durch die zuständigen Behörden
+# Anlage 6 – (zu § 40 Absatz 3)Verfahren zur Prüfung von Maßbehältnis-Flaschen durch die zuständigen Behörden
 
 (Fundstelle: BGBl. I 2020, 2527)
 
@@ -1484,16 +1431,15 @@ d) Berechnung der Werte x̄ und s
 
 |                                    |                                                    |
 |:-----------------------------------|:---------------------------------------------------|
-| Der Mittelwert der Stichprobe ist: | ![](../normengrafiken/bgbl1_2020/j2504-1_0050.jpg) |
+| Der Mittelwert der Stichprobe ist: | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2504-1_0050.jpg) |
 
 Die Standardabweichung der Stichprobe ist:
 
-![](../normengrafiken/bgbl1_2020/j2504-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2504-1_0060.jpg)
 
 Wenn das Kontrollergebnis zu Beanstandungen führt, kann eine zweite Prüfung durchgeführt werden. Die Stichprobe ist dann aus einem Los zu entnehmen, das einer längeren Produktionsdauer entspricht, oder es sind die Eintragungen auf geeigneten Kontrollkarten oder in geeigneten Kontrollaufzeichnungen des Herstellers zu berücksichtigen, wenn dessen Betrieb von den zuständigen Behörden kontrolliert worden ist.
 
-
-## Anlage 7 – (zu § 34 Absatz 5 Satz 1, § 41 Absatz 3 Satz 2, § 44 Absatz 2) Anforderungen an Messgeräte
+# Anlage 7 – (zu § 34 Absatz 5 Satz 1, § 41 Absatz 3 Satz 2, § 44 Absatz 2) Anforderungen an Messgeräte
 
 (Fundstelle: BGBl. I 2020, 2528)
 

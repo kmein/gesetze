@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2012] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Euro-Bargeld“)
-
-Ausfertigungsdatum: 21.12.2011
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Euro-Bargeld“)
+% Ausfertigungsdatum: 21.12.2011
  
-
-## ----
+# ----
 
 Auf Initiative der Europäischen Kommission soll im Januar 2012 anlässlich des 10. Jahrestages der Einführung der Euro-Münzen und Euro-Banknoten von allen Mitgliedsstaaten der Euro-Zone eine motivgleiche 2-Euro-Gedenkmünze ausgegeben werden. Vor diesem Hintergrund und gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „10 Jahre Euro-Bargeld“ prägen zu lassen.
 
@@ -16,12 +13,10 @@ Das Motiv der Bildseite wurde entsprechend dem von der Europäischen Kommission 
 
 Es ist vorgesehen, die 2-Euro-Gedenkmünze von den fünf deutschen Münzstätten prägen zu lassen. Die für den Umlauf bestimmte Auflage der Münze soll 30 Millionen Stück betragen. Daneben werden ca. 0,75 Millionen Stück in der höherwertigen Prägequalität Spiegelglanz für Sammlerzwecke produziert.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2012, 36)

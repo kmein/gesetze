@@ -1,34 +1,25 @@
-# [NatSGRhönV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Rhön"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Rhön"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 In dem in § 2 näher bezeichneten Umfang werden in der Rhön Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Rhön" festgesetzt.
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Das Biosphärenreservat ist auf thüringischer Seite die Fortsetzung und Ergänzung des gleichnamigen geplanten Biosphärenreservates in Bayern und Hessen. Auf thüringischer Seite umfaßt es folgende Bereiche:  
-Anteile an der Hohen Rhön. Flachwellige Hochfläche über einer geschlossenen tertiären Basaltdecke um Birx, Frankenheim und dem Ellenbogen in 750 bis 814 m ü. NN. Landschaftsprägend sind ausgedehnte Grünlandflächen vor allem in ebenem bis flachgeneigtem Gelände. Die Grünländer unterliegen mit Ausnahme weniger Streifen im unmittelbarem Grenzgebiet einer intensiven Bewirtschaftung durch Weidenutzung und als Mähwiese einschließlich starker Düngung. Steiler geneigte Hanglagen, Taleinschnitte und der Abhang der Basalthochfläche sind bewaldet, z.T. mit Fichtenforsten, z.T. aber auch mit Buchenwäldern und Edellaubmischwäldern.  
-Der größere Teil des Biosphärenreservates umfaßt die Kuppenrhön oder Vorderrhön. Dies ist ein meist stark reliefiertes Berg- und Hügelland, das im Untergrund von den Sedimenten der Trias, vor allem des Muschelkalks, aber auch kleinflächig vom Buntsandstein und Keuper sowie vereinzelt aus tertiären Lockersedimenten an der Basis der Basaltdecken aufgebaut wird. Landschaftsprägende Oberflächenformen sind kegelförmige und kuppige Berge, auf deren triasischem Sockel meist Basaltdeckenreste ruhen. Die wesentlichsten Bereiche dieser Vorderrhön-Landschaft mit Basaltkegelbergen sind in das Biosphärenreservat einbezogen. Das Gebiet ist von einem dichten Talnetz mit stets blockigen, kiesigen Bächen unterschiedlicher Größe durchzogen. Viele haben ihren Ursprung in der Hohen Rhön. Die Basaltbergkuppen und steilen Talhänge sind mit naturnahen Laubwäldern, z.T. aber auch mit Fichten- und Kiefernforsten bestockt. Viele Hanglagen sowie auch Hochflächen werden als Grünland genutzt, teils als Schafhutungen (großer Artenreichtum), teils als intensiv bewirtschaftete und überdüngte Rinderweiden oder Mähwiesen (mit Graslandansaat). In den flacheren unteren Lagen herrscht Ackerbau vor. Entfernt gelegene Grasländer und ehemalige Ackerflächen wurden in den letzten Jahrzehnten kaum genutzt, sie sind verbuscht. Die reich strukturierten Laubwaldgebiete, die Triften und die weniger intensiv genutzten Mähwiesen besitzen ein reiches Arteninventar mit zahlreichen geschützten, z.T. vom Aussterben bedrohten Tier- und Pflanzenarten.  
-Hohe Rhön und Vorderrhön sind sehr reizvolle Landschaften und für die Erholung hervorragend geeignet.
+Anteile an der Hohen Rhön. Flachwellige Hochfläche über einer geschlossenen tertiären Basaltdecke um Birx, Frankenheim und dem Ellenbogen in 750 bis 814 m ü. NN. Landschaftsprägend sind ausgedehnte Grünlandflächen vor allem in ebenem bis flachgeneigtem Gelände. Die Grünländer unterliegen mit Ausnahme weniger Streifen im unmittelbarem Grenzgebiet einer intensiven Bewirtschaftung durch Weidenutzung und als Mähwiese einschließlich starker Düngung. Steiler geneigte Hanglagen, Taleinschnitte und der Abhang der Basalthochfläche sind bewaldet, z.T. mit Fichtenforsten, z.T. aber auch mit Buchenwäldern und Edellaubmischwäldern. Der größere Teil des Biosphärenreservates umfaßt die Kuppenrhön oder Vorderrhön. Dies ist ein meist stark reliefiertes Berg- und Hügelland, das im Untergrund von den Sedimenten der Trias, vor allem des Muschelkalks, aber auch kleinflächig vom Buntsandstein und Keuper sowie vereinzelt aus tertiären Lockersedimenten an der Basis der Basaltdecken aufgebaut wird. Landschaftsprägende Oberflächenformen sind kegelförmige und kuppige Berge, auf deren triasischem Sockel meist Basaltdeckenreste ruhen. Die wesentlichsten Bereiche dieser Vorderrhön-Landschaft mit Basaltkegelbergen sind in das Biosphärenreservat einbezogen. Das Gebiet ist von einem dichten Talnetz mit stets blockigen, kiesigen Bächen unterschiedlicher Größe durchzogen. Viele haben ihren Ursprung in der Hohen Rhön. Die Basaltbergkuppen und steilen Talhänge sind mit naturnahen Laubwäldern, z.T. aber auch mit Fichten- und Kiefernforsten bestockt. Viele Hanglagen sowie auch Hochflächen werden als Grünland genutzt, teils als Schafhutungen (großer Artenreichtum), teils als intensiv bewirtschaftete und überdüngte Rinderweiden oder Mähwiesen (mit Graslandansaat). In den flacheren unteren Lagen herrscht Ackerbau vor. Entfernt gelegene Grasländer und ehemalige Ackerflächen wurden in den letzten Jahrzehnten kaum genutzt, sie sind verbuscht. Die reich strukturierten Laubwaldgebiete, die Triften und die weniger intensiv genutzten Mähwiesen besitzen ein reiches Arteninventar mit zahlreichen geschützten, z.T. vom Aussterben bedrohten Tier- und Pflanzenarten. Hohe Rhön und Vorderrhön sind sehr reizvolle Landschaften und für die Erholung hervorragend geeignet.
 
 (2) Die Grenze des Biosphärenreservates verläuft wie folgt:  
-Die West- und Südgrenze wird durch die Landgrenze zu Hessen und Bayern gebildet. Im Norden Weg von der Landesgrenze zu Hessen westlich Pferdsdorf nach Pferdsdorf. Die Straße in nordöstlicher Richtung nach Räsa, weiter bis Sünna. Von dort die Straße nordnordöstlich nach Vacha bis Papiermühle, nach Osten 50 m nördlich des Verlaufes der Öchse zur Straße Vacha-Völkershausen. Die Begrenzung folgt der genannten Straße an Völkershausen vorbei nach Willmanns bis zur Kreuzung Mariengart - Gehaus - Öchsen, weiter nach Gehaus. In Gehaus wird die Hauptstraße verlassen, weiter nach Osten um den Baier zum Bayershof, von dort nach Süden, Unteralba, Dermbach, die Straße weiter Richtung Kaltennordheim bis zur Abzweigung Glattbach, durch Glattbach bis Wiesenthal, von Wiesenthal in Richtung Nord die Straße nach Urnshausen, dort nach Osten bis Bernshausen, Waldweg Richtung Pleß bis Bernshäuser Hähl, Weg nach Rosa, Straße Rosa - Eckhardts - Hümpfershausen - Friedelhausen - Öpfershausen - Unterkatz, Richtung Süden nach Dörrensolz - Stepfershausen - Herpf - Bettenhausen - Stedtlingen-Thurmgut - Hermmansmeld, nach Süden zur Landesgrenze zu Bayern.  
-Der Verlauf der Abgrenzung entlang der Straßen und Wege versteht sich ausschließlich dieser.
+Die West- und Südgrenze wird durch die Landgrenze zu Hessen und Bayern gebildet. Im Norden Weg von der Landesgrenze zu Hessen westlich Pferdsdorf nach Pferdsdorf. Die Straße in nordöstlicher Richtung nach Räsa, weiter bis Sünna. Von dort die Straße nordnordöstlich nach Vacha bis Papiermühle, nach Osten 50 m nördlich des Verlaufes der Öchse zur Straße Vacha-Völkershausen. Die Begrenzung folgt der genannten Straße an Völkershausen vorbei nach Willmanns bis zur Kreuzung Mariengart - Gehaus - Öchsen, weiter nach Gehaus. In Gehaus wird die Hauptstraße verlassen, weiter nach Osten um den Baier zum Bayershof, von dort nach Süden, Unteralba, Dermbach, die Straße weiter Richtung Kaltennordheim bis zur Abzweigung Glattbach, durch Glattbach bis Wiesenthal, von Wiesenthal in Richtung Nord die Straße nach Urnshausen, dort nach Osten bis Bernshausen, Waldweg Richtung Pleß bis Bernshäuser Hähl, Weg nach Rosa, Straße Rosa - Eckhardts - Hümpfershausen - Friedelhausen - Öpfershausen - Unterkatz, Richtung Süden nach Dörrensolz - Stepfershausen - Herpf - Bettenhausen - Stedtlingen-Thurmgut - Hermmansmeld, nach Süden zur Landesgrenze zu Bayern. Der Verlauf der Abgrenzung entlang der Straßen und Wege versteht sich ausschließlich dieser.
 
 (3) Die Grenze des Biosphärenreservates ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Biosphärenreservates in Karten M 1:10.000 und M 1:25.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Reservatsverwaltung und der Kreisverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumliche Eigenart der Rhön in Verbindung mit gebietstypischer Nutzung zu schützen, zu pflegen und zu entwickeln. Insbesondere sind:
 
@@ -44,8 +35,7 @@ Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumliche E
 
 6. die Teile der harmonischen Kulturlandschaft für landschaftsökologisch vertretbare Formen der Bildung und Erholung zu erschließen und zu sichern.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Biosphärenreservat wird in die Schutzzonen I, II und III gegliedert.
 
@@ -117,8 +107,7 @@ Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumliche E
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Biosphärenreservat ist es geboten,
 
@@ -152,8 +141,7 @@ Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumliche E
 
 11. in der Schutzzone II durch die Bewirtschafter alle Voraussetzungen zu schaffen, daß die mit der Reservatsleitung abgestimmten Freilandforschungen und in Nutzung des Biosphärenreservates für Studien- und Demonstrationszwecke gewährleistet ist.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) In der Schutzzone III ist es verboten,
 
@@ -207,8 +195,7 @@ Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumliche E
 
 2. das Gebiet in irgendeiner Weise zu beeinträchtigen.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -228,8 +215,7 @@ Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumliche E
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Biosphärenreservates (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -243,8 +229,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei
 
@@ -254,34 +239,28 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen und Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1476)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

@@ -1,20 +1,15 @@
-# [ARG] Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen  (Altschuldenregelungsgesetz - ARG)
-
-Ausfertigungsdatum: 06.03.1997
-
+% Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen  (Altschuldenregelungsgesetz - ARG)
+% Ausfertigungsdatum: 06.03.1997
  
-
-## § 1
+# § 1
 
 Der Erblastentilgungsfonds übernimmt zur Regelung der Altschulden für gesellschaftliche Einrichtungen mit Wirkung vom 1. Januar 1997 bei der Gesellschaft für kommunale Altkredite und Sonderaufgaben der Währungsumstellung mbH Berlin am 31. Dezember 1996 als Forderungen zu Buche stehende Verbindlichkeiten für den Bau gesellschaftlicher Einrichtungen und sonstige Finanzierungsaufwendungen in Höhe von zusammen 8.389.768.897,33 Deutsche Mark.
 
-
-## § 2
+# § 2
 
 Als Folge der Übernahme der in § 1 genannten Verbindlichkeiten durch den Erblastentilgungsfonds werden die in den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen belegenen öffentlich-rechtlichen Gebietskörperschaften sowie sonstige Schuldner der Gesellschaft für kommunale Altkredite und Sonderaufgaben der Währungsumstellung mbH Berlin von Forderungen, die auf Grund von Rechtsvorschriften der Deutschen Demokratischen Republik zur Finanzierung des Baues gesellschaftlicher Einrichtungen entstanden sind, befreit. Soweit die Länder von diesen Forderungen betroffen sind, tritt die befreiende Wirkung auch für sie ein.
 
-
-## § 3
+# § 3
 
 (1) Die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen erstatten zu gleichen Teilen dem Bund als ihren Beitrag zu den Zins- und Tilgungsleistungen für die vom Erblastentilgungsfonds übernommenen Verbindlichkeiten, beginnend mit dem Jahr 1998, jährlich bis zur vollständigen Tilgung der Verbindlichkeiten des Erblastentilgungsfonds die Hälfte der jährlichen Annuität von 7,5 vom Hundert der nach § 1 übernommenen Verbindlichkeiten in Höhe von insgesamt 314.616.333,65 Deutsche Mark. Der Bund übernimmt den Anteil des Landes Berlin in Höhe von 52.436.055,61 Deutsche Mark, soweit er nicht durch Anrechnungen gemäß Absatz 2 erbracht wird.
 
@@ -22,8 +17,7 @@ Als Folge der Übernahme der in § 1 genannten Verbindlichkeiten durch den Erbla
 
 (3) In den Jahren 1998 bis 2001 können die Jahresbeträge der Finanzhilfen der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach § 2 des Investitionsförderungsgesetzes Aufbau Ost vom 23. Juni 1993 (BGBl. I S. 982) durch bis zum 1. Dezember des der Auszahlung vorausgehenden Jahres abzugebende schriftliche Erklärung gegenüber dem Bundesministerium der Finanzen jeweils um bis zu 34.936.056 Deutsche Mark abgesenkt werden. Diese Beträge werden auf die jeweiligen Anteile der Länder an deren Beitrag zu den Zins- und Tilgungsleistungen nach Absatz 1 angerechnet.
 
-
-## § 4
+# § 4
 
 (1) Soweit die Erfüllung der auf das jeweilige Land entfallenden Erstattungsleistungen nach § 3 nicht in voller Höhe erbracht wird, erfolgt bis einschließlich 2004 eine unmittelbare Zahlung der Länder an den Bund bis zum 31. Januar des jeweiligen Jahres.
 

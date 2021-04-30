@@ -1,20 +1,15 @@
-# [GartAusbStEignV] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Gärtner/zur Gärtnerin
-
-Ausfertigungsdatum: 12.08.1997
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Gärtner/zur Gärtnerin
+% Ausfertigungsdatum: 12.08.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 82 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1
+# § 1
 
 Für die Eignung der Ausbildungsstätte gelten neben den in § 22 Abs. 1 Nr. 2 des Berufsbildungsgesetzes genannten Anforderungen die in den nachfolgenden §§ 2 und 3 näher festgelegten weiteren Anforderungen.
 
-
-## § 2 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+# § 2 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
 (1) Die Ausbildungsstätte muß nach Art und Umfang der Produktion oder nach Art und Umfang der Dienstleistungen die Voraussetzungen dafür bieten, daß dem Auszubildenden die in der Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin vom 6. März 1996 (BGBl. I S. 376) geforderten Fertigkeiten, Kenntnisse und Fähigkeiten der beruflichen Grundbildung, der gemeinsamen beruflichen Fachbildung und der Ausbildung in der jeweiligen Fachrichtung vermittelt werden können. Eine kontinuierliche Anleitung muß gewährleistet sein.
 
@@ -30,8 +25,7 @@ Für die Eignung der Ausbildungsstätte gelten neben den in § 22 Abs. 1 Nr. 2 d
 
 (7) Wenn über das Vermögen des Inhabers ein Konkurs- oder Vergleichsverfahren eröffnet worden ist, ist zu vermuten, daß der Betrieb als Ausbildungsstätte ungeeignet ist.
 
-
-## § 3 – Fachrichtungsspezifische Mindestanforderungen an die Ausbildungsstätte
+# § 3 – Fachrichtungsspezifische Mindestanforderungen an die Ausbildungsstätte
 
 (1) Die Ausbildungsstätte in der Fachrichtung Baumschule muß über ein ausreichend breites Sortiment für verschiedene Verwendungszwecke in regelmäßiger Kulturfolge verfügen sowie Fertigkeiten und Kenntnisse von der Anzucht bis zur verkaufsfertigen Pflanze vermitteln können. Ausreichende Flächen des ganzjährig geschützten Anbaus, Überwinterungsräume, Freiland- und Containerflächen sowie geeignete Einrichtungen für die Aufbereitung und die Vermarktung der Baumschulerzeugnisse müssen vorhanden sein.
 
@@ -47,12 +41,10 @@ Für die Eignung der Ausbildungsstätte gelten neben den in § 22 Abs. 1 Nr. 2 d
 
 (7) Die Ausbildungsstätte in der Fachrichtung Zierpflanzenbau muß über ausreichende heizbare Gewächshausflächen verfügen. Die Kulturen müssen Zierpflanzen für verschiedene Verwendungszwecke umfassen. Geeignete Einrichtungen für die Aufbereitung und die Vermarktung der Zierpflanzen müssen vorhanden sein.
 
-
-## § 4 – Ausnahmeregelungen
+# § 4 – Ausnahmeregelungen
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden, wenn sichergestellt ist, daß die durch die Ausbildungsstätte nicht vermittelbaren erforderlichen Fertigkeiten und Kenntnisse durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in Form überbetrieblicher Ausbildung oder in einer anderen anerkannten Ausbildungsstätte vermittelt werden können.
 
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

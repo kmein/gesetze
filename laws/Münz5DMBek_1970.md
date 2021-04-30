@@ -1,10 +1,7 @@
-# [Münz5DMBek 1970] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Mercator-Gedenkmünze)
-
-Ausfertigungsdatum: 24.06.1970
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Mercator-Gedenkmünze)
+% Ausfertigungsdatum: 24.06.1970
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist zur Erinnerung an den 375. Todestag des Geographen und Kartographen Gerhard Mercator, geboren am 5. März 1512, gestorben am 2. Dezember 1594, eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab 8. Juli 1970 in den Verkehr gebracht wird.
 
@@ -22,13 +19,11 @@ Ausfertigungsdatum: 24.06.1970
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

@@ -1,32 +1,25 @@
-# [BüroMKfAusbV] Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement   (Büromanagementkaufleute-Ausbildungsverordnung - BüroMKfAusbV)
-
-Ausfertigungsdatum: 11.12.2013
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement   (Büromanagementkaufleute-Ausbildungsverordnung - BüroMKfAusbV)
+% Ausfertigungsdatum: 11.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Kaufmanns für Büromanagement und der Kauffrau für Büromanagement wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt. Der Ausbildungsberuf ist, soweit die Berufsausbildung im Bereich des öffentlichen Dienstes stattfindet, Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er Ausbildungsberuf der gewerblichen Wirtschaft.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan
+# § 3 – Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die in der sachlichen Gliederung des Ausbildungsrahmenplans nach Anlage 1 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Soweit es die Besonderheiten des öffentlichen Dienstes erfordern, sind den Ausbildungsinhalten des Ausbildungsrahmenplans die entsprechenden fachspezifischen Begriffe oder Bezeichnungen, die im öffentlichen Dienst verwendet werden, zugrunde zu legen.
 
 (2) Eine von der zeitlichen Gliederung des Ausbildungsrahmenplans nach Anlage 2 abweichende Organisation der Berufsausbildung ist insbesondere zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -234,8 +227,7 @@ Kooperation und Teamarbeit,
 3.4  
 Anwenden einer Fremdsprache bei Fachaufgaben.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -245,8 +237,7 @@ Anwenden einer Fremdsprache bei Fachaufgaben.
 
 (4) Zur Ergänzung der betrieblichen Berufsausbildung sind im Bereich der zuständigen Stellen des öffentlichen Dienstes die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten in einer dienstbegleitenden Unterweisung systematisch zu vermitteln und zu vertiefen. Hierfür kommen insbesondere Fertigkeiten, Kenntnisse und Fähigkeiten in Betracht, die nicht in allen Ausbildungsbetrieben vermittelt werden können. Die dienstbegleitende Unterweisung umfasst in der Regel 420 Stunden, sie ist inhaltlich und zeitlich mit dem Berufsschulunterricht abzustimmen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -278,8 +269,7 @@ e) vertragsrechtliche Aspekte bei der Beschaffung von Material und externen Dien
 
 (+++ § 6: Zur Anwendung vgl. § 1 BüroMKfAusbVErpV +++)
 
-
-## § 7 – Abschlussprüfung
+# § 7 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er
 
@@ -357,8 +347,7 @@ Der Ausbildungsbetrieb teilt der zuständigen Stelle mit der Anmeldung zur Absch
 
 (+++ § 7: Zur Anwendung vgl. § 1 BüroMKfAusbVErpV +++)
 
-
-## § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
+# § 8 – Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -392,8 +381,7 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (+++ § 8: Zur Anwendung vgl. § 1 BüroMKfAusbVErpV +++)
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. August 2014 in Kraft.
 
@@ -405,13 +393,11 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 3. die Verordnung über die Berufsausbildung zum Fachangestellten für Bürokommunikation/zur Fachangestellten für Bürokommunikation vom 12. März 1992 (BGBl. I S. 507), die durch Artikel 1 der Verordnung vom 21. Oktober 1999 (BGBl. I S. 2066) geändert worden ist.
 
-
-## Anlage 1 – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement– sachliche Gliederung –
+# Anlage 1 – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement– sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2013, 4129 - 4138)
 
-
-## Anlage 2 – (zu § 3 Absatz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement– zeitliche Gliederung –
+# Anlage 2 – (zu § 3 Absatz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement– zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2013, 4139 - 4140)
 

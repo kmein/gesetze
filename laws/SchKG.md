@@ -1,10 +1,7 @@
-# [SchKG] Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten  (Schwangerschaftskonfliktgesetz - SchKG)
-
-Ausfertigungsdatum: 27.07.1992
-
+% Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten  (Schwangerschaftskonfliktgesetz - SchKG)
+% Ausfertigungsdatum: 27.07.1992
  
-
-## § 1 – Aufklärung
+# § 1 – Aufklärung
 
 (1) Die für gesundheitliche Aufklärung und Gesundheitserziehung zuständige Bundeszentrale für gesundheitliche Aufklärung erstellt unter Beteiligung der Länder und in Zusammenarbeit mit Vertretern der Familienberatungseinrichtungen aller Träger zum Zwecke der gesundheitlichen Vorsorge und der Vermeidung und Lösung von Schwangerschaftskonflikten Konzepte zur Sexualaufklärung, jeweils abgestimmt auf die verschiedenen Alters- und Personengruppen.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 27.07.1992
 
 (5) Der Bund stellt durch einen bundesweiten zentralen Notruf sicher, dass Schwangere in Konfliktlagen, die ihre Schwangerschaft verheimlichen, jederzeit und unverzüglich an eine Beratungsstelle nach den §§ 3 und 8 vermittelt werden. Er macht den Notruf bundesweit bekannt und betreibt kontinuierlich Öffentlichkeitsarbeit für den Notruf.
 
-
-## § 2 – Beratung
+# § 2 – Beratung
 
 (1) Jede Frau und jeder Mann hat das Recht, sich zu den in § 1 Abs. 1 genannten Zwecken in Fragen der Sexualaufklärung, Verhütung und Familienplanung sowie in allen eine Schwangerschaft unmittelbar oder mittelbar berührenden Fragen von einer hierfür vorgesehenen Beratungsstelle auf Wunsch anonym informieren und beraten zu lassen.
 
@@ -51,8 +47,7 @@ Die Schwangere ist darüber hinaus bei der Geltendmachung von Ansprüchen sowie 
 
 2. Wege, die der Schwangeren die Aufgabe der Anonymität oder ein Leben mit dem Kind ermöglichen.
 
-
-## § 2a – Aufklärung und Beratung in besonderen Fällen
+# § 2a – Aufklärung und Beratung in besonderen Fällen
 
 (1) Sprechen nach den Ergebnissen von pränataldiagnostischen Maßnahmen dringende Gründe für die Annahme, dass die körperliche oder geistige Gesundheit des Kindes geschädigt ist, so hat die Ärztin oder der Arzt, die oder der der Schwangeren die Diagnose mitteilt, über die medizinischen und psychosozialen Aspekte, die sich aus dem Befund ergeben, unter Hinzuziehung von Ärztinnen oder Ärzten, die mit dieser Gesundheitsschädigung bei geborenen Kindern Erfahrung haben, zu beraten. Die Beratung erfolgt in allgemein verständlicher Form und ergebnisoffen. Sie umfasst die eingehende Erörterung der möglichen medizinischen, psychischen und sozialen Fragen sowie der Möglichkeiten zur Unterstützung bei physischen und psychischen Belastungen. Die Ärztin oder der Arzt hat über den Anspruch auf weitere und vertiefende psychosoziale Beratung nach § 2 zu informieren und im Einvernehmen mit der Schwangeren Kontakte zu Beratungsstellen nach § 3 und zu Selbsthilfegruppen oder Behindertenverbänden zu vermitteln.
 
@@ -60,13 +55,11 @@ Die Schwangere ist darüber hinaus bei der Geltendmachung von Ansprüchen sowie 
 
 (3) Die Ärztin oder der Arzt, die oder der die schriftliche Feststellung der Indikation zu treffen hat, hat bei der schriftlichen Feststellung eine schriftliche Bestätigung der Schwangeren über die Beratung und Vermittlung nach den Absätzen 1 und 2 oder über den Verzicht darauf einzuholen, nicht aber vor Ablauf der Bedenkzeit nach Absatz 2 Satz 2.
 
-
-## § 3 – Beratungsstellen
+# § 3 – Beratungsstellen
 
 Die Länder stellen ein ausreichendes Angebot wohnortnaher Beratungsstellen für die Beratung nach § 2 sicher. Dabei werden auch Beratungsstellen freier Träger gefördert. Die Ratsuchenden sollen zwischen Beratungsstellen unterschiedlicher weltanschaulicher Ausrichtung auswählen können.
 
-
-## § 4 – Öffentliche Förderung der Beratungsstellen
+# § 4 – Öffentliche Förderung der Beratungsstellen
 
 (1) Die Länder tragen dafür Sorge, daß den Beratungsstellen nach den §§ 3 und 8 für je 40 000 Einwohner mindestens eine Beraterin oder ein Berater vollzeitbeschäftigt oder eine entsprechende Zahl von Teilzeitbeschäftigten zur Verfügung steht. Von diesem Schlüssel soll dann abgewichen werden, wenn die Tätigkeit der Beratungsstellen mit dem vorgesehenen Personal auf Dauer nicht ordnungsgemäß durchgeführt werden kann. Dabei ist auch zu berücksichtigen, daß Schwangere in angemessener Entfernung von ihrem Wohnort eine Beratungsstelle aufsuchen können.
 
@@ -76,8 +69,7 @@ Die Länder stellen ein ausreichendes Angebot wohnortnaher Beratungsstellen für
 
 (4) Näheres regelt das Landesrecht.
 
-
-## § 5 – Inhalt der Schwangerschaftskonfliktberatung
+# § 5 – Inhalt der Schwangerschaftskonfliktberatung
 
 (1) Die nach § 219 des Strafgesetzbuches notwendige Beratung ist ergebnisoffen zu führen. Sie geht von der Verantwortung der Frau aus. Die Beratung soll ermutigen und Verständnis wecken, nicht belehren oder bevormunden. Die Schwangerschaftskonfliktberatung dient dem Schutz des ungeborenen Lebens.
 
@@ -91,8 +83,7 @@ Die Länder stellen ein ausreichendes Angebot wohnortnaher Beratungsstellen für
 
 Die Beratung unterrichtet auf Wunsch der Schwangeren auch über Möglichkeiten, ungewollte Schwangerschaften zu vermeiden.
 
-
-## § 6 – Durchführung der Schwangerschaftskonfliktberatung
+# § 6 – Durchführung der Schwangerschaftskonfliktberatung
 
 (1) Eine ratsuchende Schwangere ist unverzüglich zu beraten.
 
@@ -110,8 +101,7 @@ hinzuzuziehen.
 
 (4) Die Beratung ist für die Schwangere und die nach Absatz 3 Nr. 3 hinzugezogenen Personen unentgeltlich.
 
-
-## § 7 – Beratungsbescheinigung
+# § 7 – Beratungsbescheinigung
 
 (1) Die Beratungsstelle hat nach Abschluß der Beratung der Schwangeren eine mit Namen und Datum versehene Bescheinigung darüber auszustellen, daß eine Beratung nach den §§ 5 und 6 stattgefunden hat.
 
@@ -119,13 +109,11 @@ hinzuzuziehen.
 
 (3) Die Ausstellung einer Beratungsbescheinigung darf nicht verweigert werden, wenn durch eine Fortsetzung des Beratungsgesprächs die Beachtung der in § 218a Abs. 1 des Strafgesetzbuches vorgesehenen Fristen unmöglich werden könnte.
 
-
-## § 8 – Schwangerschaftskonfliktberatungsstellen
+# § 8 – Schwangerschaftskonfliktberatungsstellen
 
 Für die Beratung nach den §§ 5 und 6 haben die Länder ein ausreichendes plurales Angebot wohnortnaher Beratungsstellen sicherzustellen. Diese Beratungsstellen bedürfen besonderer staatlicher Anerkennung nach § 9. Als Beratungsstellen können auch Einrichtungen freier Träger sowie Ärztinnen und Ärzte anerkannt werden.
 
-
-## § 9 – Anerkennung von Schwangerschaftskonfliktberatungsstellen
+# § 9 – Anerkennung von Schwangerschaftskonfliktberatungsstellen
 
 Eine Beratungsstelle darf nur anerkannt werden, wenn sie die Gewähr für eine fachgerechte Schwangerschaftskonfliktberatung nach § 5 bietet und zur Durchführung der Schwangerschaftskonfliktberatung nach § 6 in der Lage ist, insbesondere
 
@@ -137,8 +125,7 @@ Eine Beratungsstelle darf nur anerkannt werden, wenn sie die Gewähr für eine f
 
 4. mit keiner Einrichtung, in der Schwangerschaftsabbrüche vorgenommen werden, derart organisatorisch oder durch wirtschaftliche Interessen verbunden ist, daß hiernach ein materielles Interesse der Beratungseinrichtung an der Durchführung von Schwangerschaftsabbrüchen nicht auszuschließen ist.
 
-
-## § 10 – Berichtspflicht und Überprüfung der Schwangerschaftskonfliktberatungsstellen
+# § 10 – Berichtspflicht und Überprüfung der Schwangerschaftskonfliktberatungsstellen
 
 (1) Die Beratungsstellen sind verpflichtet, die ihrer Beratungstätigkeit zugrundeliegenden Maßstäbe und die dabei gesammelten Erfahrungen jährlich in einem schriftlichen Bericht niederzulegen.
 
@@ -146,20 +133,17 @@ Eine Beratungsstelle darf nur anerkannt werden, wenn sie die Gewähr für eine f
 
 (3) Die zuständige Behörde hat mindestens im Abstand von drei Jahren zu überprüfen, ob die Voraussetzungen für die Anerkennung nach § 9 noch vorliegen. Sie kann sich zu diesem Zweck die Berichte nach Absatz 1 vorlegen lassen und Einsicht in die nach Absatz 2 anzufertigenden Aufzeichnungen nehmen. Liegt eine der Voraussetzungen des § 9 nicht mehr vor, ist die Anerkennung zu widerrufen.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des Urteils des Bundesverfassungsgerichts vom 28. Mai 1993 (BGBl. I S. 820) steht einer Anerkennung auf Grund der §§ 8 und 9 dieses Gesetzes gleich.
 
-
-## § 12 – Weigerung
+# § 12 – Weigerung
 
 (1) Niemand ist verpflichtet, an einem Schwangerschaftsabbruch mitzuwirken.
 
 (2) Absatz 1 gilt nicht, wenn die Mitwirkung notwendig ist, um von der Frau eine anders nicht abwendbare Gefahr des Todes oder einer schweren Gesundheitsschädigung abzuwenden.
 
-
-## § 13 – Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen
+# § 13 – Einrichtungen zur Vornahme von Schwangerschaftsabbrüchen
 
 (1) Ein Schwangerschaftsabbruch darf nur in einer Einrichtung vorgenommen werden, in der auch die notwendige Nachbehandlung gewährleistet ist.
 
@@ -167,15 +151,13 @@ Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des
 
 (3) Die Bundesärztekammer führt für den Bund eine Liste der Ärztinnen und Ärzte sowie der Krankenhäuser und Einrichtungen, die ihr mitgeteilt haben, dass sie Schwangerschaftsabbrüche unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches durchführen, und darf die zu diesem Zwecke erhobenen personenbezogenen Daten verarbeiten. Die Liste enthält auch Angaben über die jeweils angewendeten Methoden zur Durchführung eines Schwangerschaftsabbruchs, soweit diese mitgeteilt werden. Die Bundesärztekammer aktualisiert die Liste monatlich auf der Grundlage der ihr mitgeteilten Informationen, veröffentlicht sie im Internet und stellt sie der Bundeszentrale für gesundheitliche Aufklärung, dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben und den Ländern zur Verfügung.
 
-
-## § 13a – Informationen über einen Schwangerschaftsabbruch
+# § 13a – Informationen über einen Schwangerschaftsabbruch
 
 (1) Die Bundeszentrale für gesundheitliche Aufklärung veröffentlicht die von der Bundesärztekammer nach § 13 Absatz 3 geführte Liste und weitere Informationen über einen Schwangerschaftsabbruch, der unter den Voraussetzungen des § 218a Absatz 1 bis 3 des Strafgesetzbuches vorgenommen wird.
 
 (2) Der bundesweite zentrale Notruf nach § 1 Absatz 5 Satz 1 erteilt Auskunft über die in der Liste nach § 13 Absatz 3 enthaltenen Angaben.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -189,13 +171,11 @@ Die Anerkennung einer Beratungsstelle auf Grund II.4 der Entscheidungsformel des
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 15 – Anordnung als Bundesstatistik
+# § 15 – Anordnung als Bundesstatistik
 
 Über die unter den Voraussetzungen des § 218a Abs. 1 bis 3 des Strafgesetzbuches vorgenommenen Schwangerschaftsabbrüche wird eine Bundesstatistik durchgeführt. Die Statistik wird vom Statistischen Bundesamt erhoben und aufbereitet.
 
-
-## § 16 – Erhebungsmerkmale, Berichtszeit und Periodizität
+# § 16 – Erhebungsmerkmale, Berichtszeit und Periodizität
 
 (1) Die Erhebung wird auf das Kalendervierteljahr bezogen durchgeführt und umfaßt folgende Erhebungsmerkmale:
 
@@ -217,8 +197,7 @@ Der Name der Schwangeren darf dabei nicht angegeben werden.
 
 (2) Die Angaben nach Absatz 1 sowie Fehlanzeigen sind dem Statistischen Bundesamt vierteljährlich zum jeweiligen Quartalsende mitzuteilen.
 
-
-## § 17 – Hilfsmerkmale
+# § 17 – Hilfsmerkmale
 
 Hilfsmerkmale der Erhebung sind:
 
@@ -226,8 +205,7 @@ Hilfsmerkmale der Erhebung sind:
 
 2. Telefonnummer der für Rückfragen zur Verfügung stehenden Person.
 
-
-## § 18 – Auskunftspflicht
+# § 18 – Auskunftspflicht
 
 (1) Für die Erhebung besteht Auskunftspflicht. Auskunftspflichtig sind die Inhaber der Arztpraxen und die Leiter der Krankenhäuser, in denen innerhalb von zwei Jahren vor dem Quartalsende Schwangerschaftsabbrüche durchgeführt wurden.
 
@@ -239,8 +217,7 @@ Hilfsmerkmale der Erhebung sind:
 
 2. die zuständigen Gesundheitsbehörden die Anschriften der Krankenhäuser, in denen nach ihren Erkenntnissen Schwangerschaftsabbrüche vorgenommen worden sind oder vorgenommen werden sollen.
 
-
-## § 19 – Berechtigte
+# § 19 – Berechtigte
 
 (1) Eine Frau hat Anspruch auf Leistungen nach diesem Abschnitt, wenn ihr die Aufbringung der Mittel für den Abbruch einer Schwangerschaft nicht zuzumuten ist und sie ihren Wohnsitz oder gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hat. Für Frauen, die Anspruch auf Leistungen nach dem Asylbewerberleistungsgesetz haben, gilt § 10a Absatz 3 Satz 4 und 5 des Asylbewerberleistungsgesetzes entsprechend.
 
@@ -266,15 +243,13 @@ für die Zeit ab 1.7.2019 vgl. Bek. v. 5.6.2019 BAnz AT 18.06.2019 B2
 für die Zeit ab 1.7.2020 vgl. Bek. v. 2.6.2020 BAnz AT 25.06.2020 B4  
 (SchKG§19Abs2/§24Bek 2020) +++)
 
-
-## § 20 – Leistungen
+# § 20 – Leistungen
 
 (1) Leistungen sind die in § 24b Absatz 4 des Fünften Buches Sozialgesetzbuch genannten Leistungen, die von der gesetzlichen Krankenversicherung nur bei einem nicht rechtswidrigen Abbruch einer Schwangerschaft getragen werden.
 
 (2) Die Leistungen werden bei einem nicht rechtswidrigen oder unter den Voraussetzungen des § 218a Absatz 1 des Strafgesetzbuches vorgenommenen Abbruch einer Schwangerschaft als Sachleistungen gewährt. Leistungen nach dem Fünften Buch Sozialgesetzbuch gehen Leistungen nach diesem Abschnitt vor.
 
-
-## § 21 – Durchführung, Zuständigkeit, Verfahren
+# § 21 – Durchführung, Zuständigkeit, Verfahren
 
 (1) Die Leistungen werden auf Antrag durch die gesetzliche Krankenkasse gewährt, bei der die Frau gesetzlich krankenversichert ist. Besteht keine Versicherung bei einer gesetzlichen Krankenkasse, kann die Frau einen Träger der gesetzlichen Krankenversicherung am Ort ihres Wohnsitzes oder ihres gewöhnlichen Aufenthaltes wählen.
 
@@ -286,23 +261,19 @@ für die Zeit ab 1.7.2020 vgl. Bek. v. 2.6.2020 BAnz AT 25.06.2020 B4
 
 (5) Im gesamten Verfahren ist das Persönlichkeitsrecht der Frau unter Berücksichtigung der besonderen Situation der Schwangerschaft zu achten. Die beteiligten Stellen sollen zusammenarbeiten und darauf hinwirken, dass sich ihre Tätigkeiten wirksam ergänzen.
 
-
-## § 22 – Kostenerstattung
+# § 22 – Kostenerstattung
 
 Die Länder erstatten den gesetzlichen Krankenkassen die ihnen durch diesen Abschnitt entstehenden Kosten. Das Nähere einschließlich des haushaltstechnischen Verfahrens und der Behördenzuständigkeit regeln die Länder.
 
-
-## § 23 – Rechtsweg
+# § 23 – Rechtsweg
 
 Über öffentlich-rechtliche Streitigkeiten in den Angelegenheiten dieses Abschnitts entscheiden die Gerichte der Sozialgerichtsbarkeit.
 
-
-## § 24 – Anpassung
+# § 24 – Anpassung
 
 Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, um den sich der aktuelle Rentenwert in der gesetzlichen Rentenversicherung verändert; ein nicht auf volle Euro errechneter Betrag ist auf- oder abzurunden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend macht die veränderten Beträge im Bundesanzeiger bekannt.
 
-
-## § 25 – Beratung zur vertraulichen Geburt
+# § 25 – Beratung zur vertraulichen Geburt
 
 (1) Eine nach § 2 Absatz 4 beratene Schwangere, die ihre Identität nicht preisgeben möchte, ist darüber zu informieren, dass eine vertrauliche Geburt möglich ist. Vertrauliche Geburt ist eine Entbindung, bei der die Schwangere ihre Identität nicht offenlegt und stattdessen die Angaben nach § 26 Absatz 2 Satz 2 macht.
 
@@ -326,8 +297,7 @@ Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, 
 
 (5) Lehnt die Frau eine vertrauliche Geburt ab, so ist sie darüber zu informieren, dass ihr das Angebot der anonymen Beratung und Hilfen jederzeit weiter zur Verfügung steht.
 
-
-## § 26 – Das Verfahren der vertraulichen Geburt
+# § 26 – Das Verfahren der vertraulichen Geburt
 
 (1) Wünscht die Schwangere eine vertrauliche Geburt, wählt sie
 
@@ -365,22 +335,19 @@ Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, 
 
 (8) Nachrichten der Frau an das Kind werden von der Beratungsstelle an die Adoptionsvermittlungsstelle weitergeleitet und dort in die entsprechende Vermittlungsakte aufgenommen; bei nicht adoptierten Kindern werden sie an das Bundesamt für Familie und zivilgesellschaftliche Aufgaben weitergeleitet.
 
-
-## § 27 – Umgang mit dem Herkunftsnachweis
+# § 27 – Umgang mit dem Herkunftsnachweis
 
 (1) Die Beratungsstelle übersendet den Umschlag mit dem Herkunftsnachweis an das Bundesamt für Familie und zivilgesellschaftliche Aufgaben zur sicheren Verwahrung, sobald sie Kenntnis von der Geburt des Kindes erlangt hat.
 
 (2) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben vermerkt den vom Standesamt nach § 26 Absatz 7 mitgeteilten Namen des Kindes auf dem Umschlag, der seinen Herkunftsnachweis enthält.
 
-
-## § 28 – Beratungsstellen zur Betreuung der vertraulichen Geburt
+# § 28 – Beratungsstellen zur Betreuung der vertraulichen Geburt
 
 (1) Beratungsstellen nach den §§ 3 und 8 können die Beratung zur vertraulichen Geburt durchführen, wenn sie die Gewähr für eine ordnungsgemäße Durchführung des Verfahrens der vertraulichen Geburt nach den Bestimmungen dieses Abschnitts bieten sowie über hinreichend persönlich und fachlich qualifizierte Beratungsfachkräfte verfügen.
 
 (2) Um die Beratung zur vertraulichen Geburt wohnortnah durchzuführen, können die Beratungsstellen nach den §§ 3 und 8 eine Beratungsfachkraft nach Absatz 1 hinzuziehen.
 
-
-## § 29 – Beratung in Einrichtungen der Geburtshilfe oder bei Hausgeburten
+# § 29 – Beratung in Einrichtungen der Geburtshilfe oder bei Hausgeburten
 
 (1) Der Leiter oder die Leiterin einer Einrichtung der Geburtshilfe, die eine Schwangere ohne Feststellung ihrer Identität zur Entbindung aufnimmt, hat unverzüglich eine Beratungsstelle nach den §§ 3 und 8 im örtlichen Einzugsbereich über die Aufnahme zu informieren. Das Gleiche gilt für eine zur Leistung von Geburtshilfe berechtigte Person bei einer Hausgeburt.
 
@@ -388,15 +355,13 @@ Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, 
 
 (3) Die Verpflichtung nach Absatz 2 besteht auch, wenn die Frau ihr Kind bereits geboren hat.
 
-
-## § 30 – Beratung nach der Geburt des Kindes
+# § 30 – Beratung nach der Geburt des Kindes
 
 (1) Der Mutter ist auch nach der Geburt des Kindes Beratung nach § 2 Absatz 4 und § 25 Absatz 2 und 3 anzubieten. Dies gilt auch dann, wenn kein Herkunftsnachweis erstellt worden ist.
 
 (2) Betrifft die Beratung die Rücknahme des Kindes, soll die Beratungsstelle die Mutter über die Leistungsangebote für Eltern im örtlichen Einzugsbereich informieren. Will die Mutter ihr Kind zurückerhalten, soll die Beratungsstelle darauf hinwirken, dass sie Hilfe in Anspruch nimmt. Die Beratungsstelle bietet der Schwangeren kontinuierlich Hilfestellung zur Lösung ihrer psychosozialen Konfliktlage an.
 
-
-## § 31 – Einsichtsrecht des Kindes in den Herkunftsnachweis
+# § 31 – Einsichtsrecht des Kindes in den Herkunftsnachweis
 
 (1) Mit Vollendung des 16. Lebensjahres hat das vertraulich geborene Kind das Recht, den beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben verwahrten Herkunftsnachweis einzusehen oder Kopien zu verlangen (Einsichtsrecht).
 
@@ -406,8 +371,7 @@ Die in § 19 Absatz 2 genannten Beträge verändern sich um den Vomhundertsatz, 
 
 (4) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben darf dem Kind bis zum rechtskräftigen Abschluss eines familiengerichtlichen Verfahrens nach § 32 keine Einsicht gewähren, wenn die Mutter eine Erklärung nach Absatz 2 Satz 1 abgegeben und eine Person oder Stelle nach Absatz 3 Satz 1 benannt hat.
 
-
-## § 32 – Familiengerichtliches Verfahren
+# § 32 – Familiengerichtliches Verfahren
 
 (1) Verweigert das Bundesamt für Familie und zivilgesellschaftliche Aufgaben dem Kind die Einsicht in seinen Herkunftsnachweis nach § 31 Absatz 4, entscheidet das Familiengericht auf Antrag des Kindes über dessen Einsichtsrecht. Das Familiengericht hat zu prüfen, ob das Interesse der leiblichen Mutter an der weiteren Geheimhaltung ihrer Identität aufgrund der durch die Einsicht befürchteten Gefahren für Leib, Leben, Gesundheit, persönliche Freiheit oder ähnliche schutzwürdige Belange gegenüber dem Interesse des Kindes auf Kenntnis seiner Abstammung überwiegt. Ausschließlich zuständig ist das Familiengericht, in dessen Bezirk das Kind seinen gewöhnlichen Aufenthalt hat. Ist eine Zuständigkeit eines deutschen Gerichts nach Satz 3 nicht gegeben, ist das Amtsgericht Schöneberg in Berlin ausschließlich zuständig.
 
@@ -427,8 +391,7 @@ Das Gericht kann die Mutter persönlich anhören. Hört es die Mutter an, so hat
 
 (5) Wird der Antrag des Kindes zurückgewiesen, kann das Kind frühestens drei Jahre nach Rechtskraft des Beschlusses erneut einen Antrag beim Familiengericht stellen.
 
-
-## § 33 – Dokumentations- und Berichtspflicht
+# § 33 – Dokumentations- und Berichtspflicht
 
 (1) Die Beratungsstelle fertigt über jedes Beratungsgespräch unter dem Pseudonym der Schwangeren eine Aufzeichnung an, die insbesondere Folgendes dokumentiert:
 
@@ -442,8 +405,7 @@ Die Anonymität der Schwangeren ist zu wahren.
 
 (2) Die Beratungsstellen sind verpflichtet, auf der Grundlage der Dokumentation die mit der vertraulichen Geburt gesammelten Erfahrungen jährlich in einem schriftlichen Bericht niederzulegen, der über die zuständige Landesbehörde dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben übermittelt wird.
 
-
-## § 34 – Kostenübernahme
+# § 34 – Kostenübernahme
 
 (1) Der Bund übernimmt die Kosten, die im Zusammenhang mit der Geburt sowie der Vor- und Nachsorge entstehen. Die Kostenübernahme erfolgt entsprechend der Vergütung für Leistungen der gesetzlichen Krankenversicherung bei Schwangerschaft und Mutterschaft.
 

@@ -1,17 +1,13 @@
-# [StromStG] Stromsteuergesetz  (StromStG)
-
-Ausfertigungsdatum: 24.03.1999
-
+% Stromsteuergesetz  (StromStG)
+% Ausfertigungsdatum: 24.03.1999
  
-
-## § 1 – Steuergegenstand, Steuergebiet
+# § 1 – Steuergegenstand, Steuergebiet
 
 (1) Elektrischer Strom (Strom) der Position 2716 der Kombinierten Nomenklatur unterliegt im Steuergebiet der Stromsteuer. Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Stromsteuer ist eine Verbrauchsteuer im Sinne der Abgabenordnung.
 
 (2) Kombinierte Nomenklatur im Sinne dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. EG Nr. L 256 S. 1, Nr. L 341 S. 38, Nr. L 378 S. 120, 1988 Nr. L 130 S. 42) in der am 1. Januar 2002 geltenden Fassung.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind
 
@@ -19,8 +15,7 @@ Im Sinne dieses Gesetzes ist oder sind
 
 2. Eigenerzeuger: derjenige, der Strom zum Selbstverbrauch erzeugt;
 
-2a.  
-Klassifikation der Wirtschaftszweige: die vom Statistischen Bundesamt in 65189 Wiesbaden, Gustav-Stresemann-Ring 11, herausgegebene Klassifikation der Wirtschaftszweige, Ausgabe 2003 (WZ 2003), auch zu beziehen über www.destatis.de;
+2a. Klassifikation der Wirtschaftszweige: die vom Statistischen Bundesamt in 65189 Wiesbaden, Gustav-Stresemann-Ring 11, herausgegebene Klassifikation der Wirtschaftszweige, Ausgabe 2003 (WZ 2003), auch zu beziehen über www.destatis.de;
 
 3. Unternehmen des Produzierenden Gewerbes: Unternehmen, die dem Abschnitt C (Bergbau und Gewinnung von Steine und Erden), D (Verarbeitendes Gewerbe), E (Energie- und Wasserversorgung) oder F (Baugewerbe) der Klassifikation der Wirtschaftszweige zuzuordnen sind, sowie die anerkannten Werkstätten für behinderte Menschen im Sinne des § 219 des Neunten Buches Sozialgesetzbuch, wenn sie überwiegend eine wirtschaftliche Tätigkeit ausüben, die den vorgenannten Abschnitten der Klassifikation der Wirtschaftszweige zuzuordnen ist;
 
@@ -40,8 +35,7 @@ Klassifikation der Wirtschaftszweige: die vom Statistischen Bundesamt in 65189 W
 
 11. Netz der allgemeinen Versorgung mit Strom: ein Netz, das der Verteilung von Strom an Dritte dient und von seiner Dimensionierung nicht von vornherein nur auf die Versorgung bestimmter, schon bei der Netzerrichtung feststehender oder bestimmbarer Personen ausgelegt ist, sondern grundsätzlich jedermann für die Versorgung offensteht.
 
-
-## § 2a – Staatliche Beihilfen
+# § 2a – Staatliche Beihilfen
 
 (1) Die Inanspruchnahme oder die Beantragung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig, solange derjenige, der den Strom entnimmt, zu einer Rückzahlung von Beihilfen auf Grund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser Rückforderungsanordnung nicht nachgekommen ist. Im Falle einer Steuerbefreiung oder der Inanspruchnahme einer Steuerermäßigung hat der Verwender dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn er einer Rückforderungsanordnung im Sinn des Satzes 1 nicht nachkommt. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass keine offenen Ansprüche nach Satz 1 bestehen.
 
@@ -55,13 +49,11 @@ Im Falle einer Steuerbefreiung oder Inanspruchnahme einer Steuerermäßigung hat
 
 (3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz § 9 Absatz 1 Nummer 1 und 3, Absatz 2 und 3 sowie die §§ 9b, 9c und 10.
 
-
-## § 3 – Steuertarif
+# § 3 – Steuertarif
 
 Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
 
-
-## § 4 – Erlaubnis
+# § 4 – Erlaubnis
 
 (1) Wer als Versorger mit Sitz im Steuergebiet Strom leisten oder als Eigenerzeuger Strom zum Selbstverbrauch entnehmen oder als Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets beziehen will, bedarf der Erlaubnis. Einer Erlaubnis als Eigenerzeuger bedarf es nicht, wenn der Eigenerzeuger Inhaber einer Erlaubnis als Versorger ist oder soweit der Eigenerzeuger Strom zum Selbstverbrauch entnimmt, der nach § 9 Abs. 1 Nr. 3 Buchstabe a, Nr. 4 oder Nr. 5 von der Steuer befreit ist.
 
@@ -73,8 +65,7 @@ Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
 
 (5) (weggefallen)
 
-
-## § 5 – Entstehung der Steuer, Steuerschuldner
+# § 5 – Entstehung der Steuer, Steuerschuldner
 
 (1) Die Steuer entsteht dadurch, daß vom im Steuergebiet ansässigen Versorger geleisteter Strom durch Letztverbraucher im Steuergebiet aus dem Versorgungsnetz entnommen wird, oder dadurch, daß der Versorger dem Versorgungsnetz Strom zum Selbstverbrauch entnimmt. Bei Eigenerzeugern entsteht die Steuer vorbehaltlich Satz 1 mit der Entnahme von Strom zum Selbstverbrauch im Steuergebiet.
 
@@ -90,18 +81,15 @@ Die Steuer beträgt 20,50 Euro für eine Megawattstunde.
 
 (4) Stationäre Batteriespeicher, die dazu dienen, Strom vorübergehend zu speichern und anschließend in ein Versorgungsnetz für Strom einzuspeisen, gelten als Teile dieses Versorgungsnetzes.
 
-
-## § 6 – Widerrechtliche Entnahme von Strom
+# § 6 – Widerrechtliche Entnahme von Strom
 
 Die Steuer entsteht auch dadurch, daß widerrechtlich Strom aus dem Versorgungsnetz entnommen wird. Steuerschuldner ist, wer widerrechtlich Strom entnimmt.
 
-
-## § 7 – Leistung von Strom in das Steuergebiet
+# § 7 – Leistung von Strom in das Steuergebiet
 
 Bezieht ein Letztverbraucher Strom aus einem Gebiet außerhalb des Steuergebiets, entsteht die Steuer dadurch, daß der Strom durch den Letztverbraucher im Steuergebiet aus dem Versorgungsnetz entnommen wird. Steuerschuldner ist der Letztverbraucher.
 
-
-## § 8 – Steueranmeldung, Fälligkeit der Steuer
+# § 8 – Steueranmeldung, Fälligkeit der Steuer
 
 (1) Der Steuerschuldner hat für Strom, für den die Steuer nach § 5 Abs. 1 oder § 7 entstanden ist, vorbehaltlich des Absatzes 9 eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung).
 
@@ -135,8 +123,7 @@ hat der Steuerschuldner unverzüglich eine Steueranmeldung abzugeben. Die Steuer
 
 (10) Für die nach § 5 oder § 7 entstehende Steuer kann das Hauptzollamt im Voraus Sicherheit verlangen, wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
 
-
-## § 9 – Steuerbefreiungen, Steuerermäßigungen
+# § 9 – Steuerbefreiungen, Steuerermäßigungen
 
 (1) Von der Steuer ist befreit:
 
@@ -184,8 +171,7 @@ Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen d
 
 (9) Die Steuerbefreiungen nach Absatz 1 Nummer 1 und 3 und die Steuerermäßigungen nach den Absätzen 2 und 3 werden gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeigen bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Allgemeine Gruppenfreistellungsverordnung; ABl. L 187 vom 26.6.2014, S. 1; L 283 vom 27.9.2014, S. 65), die durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.6.2017, S. 1) geändert worden ist, in der jeweils geltenden Fassung. Das Auslaufen der Freistellungsanzeigen ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 9a – Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
+# § 9a – Erlass, Erstattung oder Vergütung der Steuer für bestimmte Prozesse und Verfahren
 
 (1) Auf Antrag wird die Steuer für nachweislich versteuerten Strom erlassen, erstattet oder vergütet, den ein Unternehmen des Produzierenden Gewerbes
 
@@ -201,8 +187,7 @@ entnommen hat.
 
 (2) Erlass-, erstattungs- oder vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat.
 
-
-## § 9b – Steuerentlastung für Unternehmen
+# § 9b – Steuerentlastung für Unternehmen
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich nach § 3 versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft für betriebliche Zwecke entnommen hat und der nicht von der Steuer befreit ist. Die Steuerentlastung wird jedoch für die Entnahme von Strom zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie nur gewährt, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft genutzt worden sind. Abweichend von Satz 2 wird die Steuerentlastung auch für Strom zur Erzeugung von Druckluft gewährt, soweit diese in Druckflaschen oder anderen Behältern abgegeben wird. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität verwendet wird.
 
@@ -212,8 +197,7 @@ entnommen hat.
 
 (4) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 9c – Steuerentlastung für den Öffentlichen Personennahverkehr
+# § 9c – Steuerentlastung für den Öffentlichen Personennahverkehr
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Strom, der nachweislich nach § 3 versteuert worden ist und der
 
@@ -231,8 +215,7 @@ zum Antrieb des Kraftfahrzeuges verwendet worden ist, wenn in der Mehrzahl der B
 
 (5) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 10 – Erlass, Erstattung oder Vergütung in Sonderfällen
+# § 10 – Erlass, Erstattung oder Vergütung in Sonderfällen
 
 (1) Die Steuer für nachweislich versteuerten Strom, den ein Unternehmen des Produzierenden Gewerbes für betriebliche Zwecke, ausgenommen solche nach § 9 Absatz 2 oder Absatz 3, entnommen hat, wird auf Antrag nach Maßgabe der Absätze 2 bis 8 erlassen, erstattet oder vergütet, soweit die Steuer im Kalenderjahr den Betrag von 1 000 Euro übersteigt. Eine nach § 9b mögliche Steuerentlastung wird dabei abgezogen. Die Steuer für Strom, der zur Erzeugung von Licht, Wärme, Kälte, Druckluft und mechanischer Energie entnommen worden ist, wird jedoch nur erlassen, erstattet oder vergütet, soweit die vorgenannten Erzeugnisse nachweislich durch ein Unternehmen des Produzierenden Gewerbes genutzt worden sind. Abweichend von Satz 3 wird die Steuer auch in dem in § 9b Absatz 1 Satz 3 genannten Fall erlassen, erstattet oder vergütet. Erlass-, erstattungs- oder vergütungsberechtigt ist das Unternehmen des Produzierenden Gewerbes, das den Strom entnommen hat. Die Steuerentlastung wird nicht für Strom gewährt, der für Elektromobilität verwendet wird.
 
@@ -310,13 +293,11 @@ für das Antragsjahr 2020 am 18.12.2019 getroffen, vgl. Bek. v. 18.12.2019 I 294
 und für das Antragsjahr 2021 am 2.12.2020 getroffen, vgl. Bek. v. 2.12.2020 I 2653 +++)  
 § 10 Abs. 3 Nr. 2 Satz 2 (Kursivdruck): Müsste richtigerweise nicht der Nr. 2 zugeordnet und daher noch weiter nach links ausgerückt werden. Der Abs. 3 müsste insgesamt zwei Sätze besitzen: den Satz 1 mit der Untergliederung Nr. 1 u. Nr. 2 (bestehend je aus den Buchst. a u. b) sowie den weiteren Satz 2.
 
-
-## § 10a – Datenaustausch
+# § 10a – Datenaustausch
 
 Informationen, einschließlich personenbezogener Daten sowie Betriebs- und Geschäftsgeheimnisse, die in einem Steuerverfahren bekannt geworden sind, können zwischen den Hauptzollämtern, den Übertragungsnetzbetreibern, der Bundesnetzagentur und dem Bundesamt für Wirtschaft und Ausfuhrkontrolle ausgetauscht werden, soweit diese Stellen die Informationen zur Erfüllung ihrer gesetzlichen Aufgaben aus dem Erneuerbare-Energien-Gesetz, aus dem Kraft-Wärme-Kopplungsgesetz, aus dem Energiewirtschaftsgesetz oder aus einer auf Grund dieser Gesetze ergangenen Rechtsverordnung benötigen.
 
-
-## § 11 – Ermächtigungen
+# § 11 – Ermächtigungen
 
 Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung dieses Gesetzes durch Rechtsverordnung
 
@@ -360,8 +341,7 @@ e) Vorgaben zur Ermittlung des Monats- oder des Jahresnutzungsgrads und zur Abgr
 
 f) Näheres zur Ermittlung für die Hocheffizienzkriterien, zur Berechnung und zum Nachweis des Nutzungsgrads und zu den Hauptbestandteilen hocheffizienter KWK-Anlagen (§ 9 Absatz 1 Nummer 3) zu bestimmen und den am Betrieb dieser Anlagen Beteiligten Pflichten zum Nachweis der dort genannten Voraussetzungen aufzuerlegen;
 
-8a.  
-zur Sicherung der Gleichmäßigkeit der Besteuerung, zur Verfahrensvereinfachung und zur Vermeidung unangemessener wirtschaftlicher Belastungen festzulegen, dass die Steuerbegünstigung nach § 9 Absatz 1 Nummer 2 wahlweise auch in Form festgesetzter pauschaler Werte in Anspruch genommen werden kann, die sich an der Bruttostromerzeugung der jeweiligen Anlage orientieren; dabei kann es nach eingesetzten Energieträgern und der Art und Größe der Stromerzeugungsanlage unterscheiden;
+8a. zur Sicherung der Gleichmäßigkeit der Besteuerung, zur Verfahrensvereinfachung und zur Vermeidung unangemessener wirtschaftlicher Belastungen festzulegen, dass die Steuerbegünstigung nach § 9 Absatz 1 Nummer 2 wahlweise auch in Form festgesetzter pauschaler Werte in Anspruch genommen werden kann, die sich an der Bruttostromerzeugung der jeweiligen Anlage orientieren; dabei kann es nach eingesetzten Energieträgern und der Art und Größe der Stromerzeugungsanlage unterscheiden;
 
 9. zur Sicherung der Gleichmäßigkeit der Besteuerung auf das Erfordernis der Ausschließlichkeit in § 2 Nr. 7 bei aus Deponie-, Klärgas oder Biomasse erzeugtem Strom zu verzichten, wenn die Zuführung anderer Energieträger technisch zwingend erforderlich ist. Dabei kann es bestimmen, dass der aus den zugeführten anderen Energieträgern erzeugte Strom nicht steuerfrei nach § 9 Abs. 1 Nr. 1 entnommen werden kann und Regelungen zur Ermittlung und zum Verfahren des Nachweises des aus den anderen Energieträgern erzeugten Stroms erlassen;
 
@@ -426,8 +406,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht.
 
-
-## § 12 – Ermächtigung zu § 10 Absatz 3, 4 und 7
+# § 12 – Ermächtigung zu § 10 Absatz 3, 4 und 7
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle, die nationale Akkreditierungsstelle und die Zulassungsstelle nach § 28 des Umweltauditgesetzes zu vollziehende Bestimmungen zu § 10 Absatz 3, 4 und 7 zu erlassen.
 
@@ -461,15 +440,13 @@ Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten di
 
 5. die Zuständigkeit für die Entgegennahme der zu übermittelnden Erkenntnisse und Informationen.
 
-
-## § 13 – Erlaß von Rechtsverordnungen, Verwaltungsvorschriften
+# § 13 – Erlaß von Rechtsverordnungen, Verwaltungsvorschriften
 
 (1) Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigungen erlassen werden, bedürfen nicht der Zustimmung des Bundesrates.
 
 (2) Das Bundesministerium für Wirtschaft und Energie und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit erlassen im Einvernehmen mit dem Bundesministerium der Finanzen die allgemeinen Verwaltungsvorschriften, die sich an die Stellen nach § 10 Absatz 7 richten, zur Durchführung von Rechtsverordnungen nach § 12.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer Rechtsverordnung nach § 11 Nummer 13 Buchstabe a bis c oder d oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
@@ -477,8 +454,7 @@ Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten di
 
 (3) Verwaltungsbehörde im Sinn des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
 
-
-## § 15 – Anwendungsvorschriften
+# § 15 – Anwendungsvorschriften
 
 (1) Nach § 9 Absatz 4 in Verbindung mit § 9 Absatz 3 dieses Gesetzes in der am 31. Dezember 2010 geltenden Fassung erteilte Erlaubnisse und den Inhabern dieser Erlaubnisse erteilte Zulassungen nach § 16 Absatz 1 der Stromsteuer-Durchführungsverordnung in der am 31. Dezember 2010 geltenden Fassung erlöschen mit Ablauf des 31. Dezember 2010.
 
@@ -486,8 +462,7 @@ Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten di
 
 (3) Erlaubnisse, die nach § 9 Absatz 1 Nummer 1 und 3 in der am 1. Juli 2019 geltenden Fassung erforderlich werden, gelten bei Vorliegen der Voraussetzungen nach § 9 Absatz 1 Nummer 1 und 3 und vorbehaltlich des Satzes 2 ab dem 1. Juli 2019 auch ohne Antrag als widerruflich erteilt. Satz 1 gilt nur, wenn bis zum 31. Dezember 2019 der Antrag auf Erlaubnis nach § 9 Absatz 4 nachgereicht wird.
 
-
-## Anlage – (zu § 10)Zielwerte für die zu erreichende Reduzierung der Energieintensität
+# Anlage – (zu § 10)Zielwerte für die zu erreichende Reduzierung der Energieintensität
 
 (Fundstelle: BGBl. I 2012, 2444)
 

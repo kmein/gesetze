@@ -1,10 +1,7 @@
-# [WZG§35CHEBek] Bekanntmachung zu § 35 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 20.06.1940
-
+% Bekanntmachung zu § 35 des Warenzeichengesetzes
+% Ausfertigungsdatum: 20.06.1940
  
-
-## ----
+# ----
 
 Auf Grund des § 35 Abs. 3 Satz 2 des Warenzeichengesetzes vom 5. Mai 1936 (Reichsgesetzbl. II S. 134) wird gemäß einer Mitteilung der Schweizerischen Bundesregierung bekanntgemacht:
 

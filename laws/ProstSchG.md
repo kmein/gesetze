@@ -1,18 +1,13 @@
-# [ProstSchG] Gesetz zum Schutz von in der Prostitution tätigen Personen  (Prostituiertenschutzgesetz - ProstSchG)
-
-Ausfertigungsdatum: 21.10.2016
-
+% Gesetz zum Schutz von in der Prostitution tätigen Personen  (Prostituiertenschutzgesetz - ProstSchG)
+% Ausfertigungsdatum: 21.10.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz ist anzuwenden auf die Ausübung der Prostitution durch Personen über 18 Jahre sowie auf das Betreiben eines Prostitutionsgewerbes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Eine sexuelle Dienstleistung ist eine sexuelle Handlung mindestens einer Person an oder vor mindestens einer anderen unmittelbar anwesenden Person gegen Entgelt oder das Zulassen einer sexuellen Handlung an oder vor der eigenen Person gegen Entgelt. Keine sexuellen Dienstleistungen sind Vorführungen mit ausschließlich darstellerischem Charakter, bei denen keine weitere der anwesenden Personen sexuell aktiv einbezogen ist.
 
@@ -36,8 +31,7 @@ Dieses Gesetz ist anzuwenden auf die Ausübung der Prostitution durch Personen �
 
 (7) Prostitutionsvermittlung ist die Vermittlung mindestens einer anderen Person zur Erbringung sexueller Dienstleistungen außerhalb von Prostitutionsstätten des Betreibers. Dies gilt auch, wenn sich lediglich aus den Umständen ergibt, dass zu den vermittelten Dienstleistungen auch sexuelle Handlungen gehören.
 
-
-## § 3 – Anmeldepflicht für Prostituierte
+# § 3 – Anmeldepflicht für Prostituierte
 
 (1) Wer eine Tätigkeit als Prostituierte oder als Prostituierter ausüben will, hat dies vor Aufnahme der Tätigkeit persönlich bei der Behörde, in deren Zuständigkeitsbereich die Tätigkeit vorwiegend ausgeübt werden soll, anzumelden.
 
@@ -45,8 +39,7 @@ Dieses Gesetz ist anzuwenden auf die Ausübung der Prostitution durch Personen �
 
 (3) Die Anmeldepflicht besteht unabhängig davon, ob die Tätigkeit selbständig oder im Rahmen eines Beschäftigungsverhältnisses ausgeübt wird.
 
-
-## § 4 – Zur Anmeldung erforderliche Angaben und Nachweise
+# § 4 – Zur Anmeldung erforderliche Angaben und Nachweise
 
 (1) Bei der Anmeldung hat die anmeldepflichtige Person zwei Lichtbilder abzugeben und folgende Angaben zu machen:
 
@@ -68,8 +61,7 @@ Dieses Gesetz ist anzuwenden auf die Ausübung der Prostitution durch Personen �
 
 (5) Die oder der Prostituierte hat Änderungen in den Verhältnissen nach Absatz 1 Nummer 1 und 3 bis 5 innerhalb von 14 Tagen der zuständigen Behörde anzuzeigen.
 
-
-## § 5 – Anmeldebescheinigung; Gültigkeit
+# § 5 – Anmeldebescheinigung; Gültigkeit
 
 (1) Zum Nachweis über die erfolgte Anmeldung stellt die zuständige Behörde der anmeldepflichtigen Person innerhalb von fünf Werktagen eine Anmeldebescheinigung aus.
 
@@ -95,8 +87,7 @@ Dieses Gesetz ist anzuwenden auf die Ausübung der Prostitution durch Personen �
 
 (7) Die oder der Prostituierte hat bei der Ausübung der Tätigkeit die Anmeldebescheinigung oder die Aliasbescheinigung mitzuführen.
 
-
-## § 6 – Inhalt der Anmeldebescheinigung und der Aliasbescheinigung
+# § 6 – Inhalt der Anmeldebescheinigung und der Aliasbescheinigung
 
 (1) Die Anmeldebescheinigung enthält ein Lichtbild sowie die folgenden Angaben:
 
@@ -132,8 +123,7 @@ Das Lichtbild ist untrennbar mit der Aliasbescheinigung zu verbinden.
 
 (3) In einer Anmeldebescheinigung, die auf Grundlage einer nach § 5 Absatz 3 Satz 1 getroffenen landesrechtlichen Regelung ergeht, ist der räumliche Gültigkeitsbereich der Anmeldebescheinigung anzugeben.
 
-
-## § 7 – Informationspflicht der Behörde; Informations- und Beratungsgespräch
+# § 7 – Informationspflicht der Behörde; Informations- und Beratungsgespräch
 
 (1) Bei der Anmeldung ist ein Informations- und Beratungsgespräch zu führen.
 
@@ -151,15 +141,13 @@ Das Lichtbild ist untrennbar mit der Aliasbescheinigung zu verbinden.
 
 (3) Die zuständige Behörde stellt der oder dem Prostituierten während des Beratungsgesprächs Informationen zur Ausübung der Prostitution in geeigneter Form zur Verfügung. Die Informationen sollen in einer Sprache verfasst sein, die die oder der Prostituierte versteht.
 
-
-## § 8 – Ausgestaltung des Informations- und Beratungsgesprächs
+# § 8 – Ausgestaltung des Informations- und Beratungsgesprächs
 
 (1) Die persönliche Anmeldung und das Informations- und Beratungsgespräch sollen in einem vertraulichen Rahmen durchgeführt werden.
 
 (2) Die zuständige Behörde kann mit Zustimmung der anmeldepflichtigen Person eine nach Landesrecht anerkannte Fachberatungsstelle für Prostituierte oder eine mit Aufgaben der gesundheitlichen Beratung betraute Stelle zu dem Informations- und Beratungsgespräch hinzuziehen. Dritte können mit Zustimmung der Behörde und der anmeldepflichtigen Person zum Gespräch hinzugezogen werden. Zum Zwecke der Sprachmittlung kann die Behörde Dritte auch ohne Zustimmung der anmeldepflichtigen Person hinzuziehen.
 
-
-## § 9 – Maßnahmen bei Beratungsbedarf
+# § 9 – Maßnahmen bei Beratungsbedarf
 
 (1) Ergeben sich tatsächliche Anhaltspunkte dafür, dass bei einer oder einem Prostituierten Beratungsbedarf hinsichtlich der gesundheitlichen oder sozialen Situation besteht, so soll die zuständige Behörde auf die Angebote entsprechender Beratungsstellen hinweisen und nach Möglichkeit einen Kontakt vermitteln.
 
@@ -169,8 +157,7 @@ Das Lichtbild ist untrennbar mit der Aliasbescheinigung zu verbinden.
 
 2. eine Person von Dritten durch Ausnutzung einer Zwangslage, ihrer Hilflosigkeit, die mit ihrem Aufenthalt in einem fremden Land verbunden ist, oder ihrer persönlichen oder wirtschaftlichen Abhängigkeit zur Prostitution veranlasst wird oder werden soll oder diese Person von Dritten ausgebeutet wird oder werden soll.
 
-
-## § 10 – Gesundheitliche Beratung
+# § 10 – Gesundheitliche Beratung
 
 (1) Für Personen, die als Prostituierte tätig sind oder eine solche Tätigkeit aufnehmen wollen, wird eine gesundheitliche Beratung durch eine für den Öffentlichen Gesundheitsdienst zuständige Behörde angeboten. Die Länder können bestimmen, dass eine andere Behörde für die Durchführung der gesundheitlichen Beratung zuständig ist.
 
@@ -194,8 +181,7 @@ Die Bescheinigung kann auf Wunsch der beratenen Person auch auf den in einer gü
 
 (6) Die oder der Prostituierte hat bei der Ausübung der Tätigkeit die Bescheinigung über die gesundheitliche Beratung mitzuführen.
 
-
-## § 11 – Anordnungen gegenüber Prostituierten
+# § 11 – Anordnungen gegenüber Prostituierten
 
 (1) Liegen der zuständigen Behörde tatsächliche Anhaltspunkte dafür vor, dass eine Person der Prostitution nachgeht, ohne diese Tätigkeit zuvor angemeldet zu haben, so fordert die zuständige Behörde die Person auf, ihre Tätigkeit als Prostituierte oder als Prostituierter innerhalb einer angemessenen Frist anzumelden und der zuständigen Behörde die Anmeldebescheinigung vorzulegen.
 
@@ -217,8 +203,7 @@ Die Bescheinigung kann auf Wunsch der beratenen Person auch auf den in einer gü
 
 (5) Vorschriften und Anordnungen, die auf einer nach Artikel 297 des Einführungsgesetzes zum Strafgesetzbuch ergangenen Verordnung beruhen, sowie Maßnahmen nach dem Infektionsschutzgesetz bleiben unberührt.
 
-
-## § 12 – Erlaubnispflicht für Prostitutionsgewerbe; Verfahren über einheitliche Stelle
+# § 12 – Erlaubnispflicht für Prostitutionsgewerbe; Verfahren über einheitliche Stelle
 
 (1) Wer ein Prostitutionsgewerbe betreiben will, bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis kann befristet werden. Die Erlaubnis ist auf Antrag zu verlängern, wenn die für die Erteilung der Erlaubnis maßgeblichen Voraussetzungen fortbestehen.
 
@@ -240,8 +225,7 @@ Die Bescheinigung kann auf Wunsch der beratenen Person auch auf den in einer gü
 
 (7) Erlaubnis- oder Anzeigepflichten nach anderen Vorschriften, insbesondere nach den Vorschriften des Gaststätten-, Gewerbe-, Bau-, Wasser- oder Immissionsschutzrechts, bleiben unberührt.
 
-
-## § 13 – Stellvertretungserlaubnis
+# § 13 – Stellvertretungserlaubnis
 
 (1) Wer ein Prostitutionsgewerbe durch eine als Stellvertretung eingesetzte Person betreiben will, bedarf hierfür einer Stellvertretungserlaubnis.
 
@@ -249,8 +233,7 @@ Die Bescheinigung kann auf Wunsch der beratenen Person auch auf den in einer gü
 
 (3) Wird das Prostitutionsgewerbe nicht mehr durch die als Stellvertretung eingesetzte Person betrieben, so hat der Betreiber dies unverzüglich der zuständigen Behörde anzuzeigen.
 
-
-## § 14 – Versagung der Erlaubnis und der Stellvertretungserlaubnis
+# § 14 – Versagung der Erlaubnis und der Stellvertretungserlaubnis
 
 (1) Die Erlaubnis ist zu versagen, wenn
 
@@ -278,8 +261,7 @@ Die Bescheinigung kann auf Wunsch der beratenen Person auch auf den in einer gü
 
 2. Tatsachen die Annahme rechtfertigen, dass die als Stellvertretung vorgesehene Person nicht die für den Betrieb eines Prostitutionsgewerbes erforderliche Zuverlässigkeit besitzt.
 
-
-## § 15 – Zuverlässigkeit einer Person
+# § 15 – Zuverlässigkeit einer Person
 
 (1) Die erforderliche Zuverlässigkeit besitzt in der Regel nicht,
 
@@ -311,8 +293,7 @@ Bei Verurteilungen, die länger als fünf Jahre zurückliegen, oder bei Vorliege
 
 (+++ § 15 Abs. 1: Zur Anwendung vgl. § 25 Abs. 3 +++)
 
-
-## § 16 – Betriebskonzept für Prostitutionsgewerbe; Veranstaltungskonzept
+# § 16 – Betriebskonzept für Prostitutionsgewerbe; Veranstaltungskonzept
 
 (1) Im Betriebskonzept sind die wesentlichen Merkmale des Betriebes und die Vorkehrungen zur Einhaltung der Verpflichtungen nach diesem Gesetz zu beschreiben.
 
@@ -336,8 +317,7 @@ b) als Personen unter 21 Jahren oder als Opfer einer Straftat des Menschenhandel
 
 (3) Vor jeder einzelnen Prostitutionsveranstaltung hat der Betreiber ein Veranstaltungskonzept zu erstellen, das die räumlichen, organisatorischen und zeitlichen Rahmenbedingungen der jeweiligen Veranstaltung beschreibt und die Darlegungen des Betriebskonzepts konkretisiert.
 
-
-## § 17 – Auflagen und Anordnungen
+# § 17 – Auflagen und Anordnungen
 
 (1) Die Erlaubnis kann inhaltlich beschränkt oder mit Auflagen verbunden werden, soweit dies erforderlich ist
 
@@ -360,8 +340,7 @@ Unter denselben Voraussetzungen ist die nachträgliche Aufnahme, Ergänzung und 
 (+++ § 17 Abs. 2 u. 4: Zur Anwendung vgl. § 20 Abs. 3 +++)  
 (+++ § 17 Abs. 2 u. 4: Zur Anwendung vgl. § 21 Abs. 3 +++)
 
-
-## § 18 – Mindestanforderungen an zum Prostitutionsgewerbe genutzte Anlagen
+# § 18 – Mindestanforderungen an zum Prostitutionsgewerbe genutzte Anlagen
 
 (1) Prostitutionsstätten müssen nach ihrem Betriebskonzept sowie nach ihrer Lage, Ausstattung und Beschaffenheit den Anforderungen genügen, die erforderlich sind
 
@@ -393,8 +372,7 @@ Unter denselben Voraussetzungen ist die nachträgliche Aufnahme, Ergänzung und 
 
 (5) Der Betreiber einer Prostitutionsstätte ist verpflichtet, dafür Sorge zu tragen, dass die Mindestanforderungen nach den Absätzen 1 und 2 während des Betriebes eingehalten werden.
 
-
-## § 19 – Mindestanforderungen an Prostitutionsfahrzeuge
+# § 19 – Mindestanforderungen an Prostitutionsfahrzeuge
 
 (1) Prostitutionsfahrzeuge müssen über einen für das vorgesehene Betriebskonzept ausreichend großen Innenraum und über eine hierfür angemessene Innenausstattung verfügen sowie nach Ausstattung und Beschaffenheit den zum Schutz der dort tätigen Prostituierten erforderlichen allgemeinen Anforderungen genügen.
 
@@ -408,8 +386,7 @@ Unter denselben Voraussetzungen ist die nachträgliche Aufnahme, Ergänzung und 
 
 (6) Der Betreiber eines Prostitutionsfahrzeugs ist verpflichtet, dafür Sorge zu tragen, dass die Mindestanforderungen nach den Absätzen 1 bis 4 während des Betriebes eingehalten werden.
 
-
-## § 20 – Anzeige einer Prostitutionsveranstaltung; Untersagung
+# § 20 – Anzeige einer Prostitutionsveranstaltung; Untersagung
 
 (1) Wer eine Prostitutionsveranstaltung organisieren oder durchführen will, hat dies der am Ort der Veranstaltung zuständigen Behörde vier Wochen vor Beginn der Veranstaltung anzuzeigen. Der Anzeige sind folgende Angaben und Nachweise beizufügen:
 
@@ -439,8 +416,7 @@ Unter denselben Voraussetzungen ist die nachträgliche Aufnahme, Ergänzung und 
 
 (5) Die Durchführung der Prostitutionsveranstaltung kann untersagt werden, wenn die Anzeige nicht, nicht rechtzeitig, nicht wahrheitsgemäß oder nicht vollständig erstattet wurde.
 
-
-## § 21 – Anzeige der Aufstellung eines Prostitutionsfahrzeugs; Untersagung
+# § 21 – Anzeige der Aufstellung eines Prostitutionsfahrzeugs; Untersagung
 
 (1) Wer ein Prostitutionsfahrzeug an mehr als zwei aufeinanderfolgenden Tagen oder mehrmals in einem Monat im örtlichen Zuständigkeitsbereich einer Behörde zum Betrieb aufstellen will, hat dies der zuständigen Behörde zwei Wochen vor der Aufstellung anzuzeigen. Der Anzeige sind die folgenden Angaben und Nachweise beizufügen:
 
@@ -476,13 +452,11 @@ Unter denselben Voraussetzungen ist die nachträgliche Aufnahme, Ergänzung und 
 
 (6) Die Vorschriften des Straßen- und Wegerechtes bleiben unberührt.
 
-
-## § 22 – Erlöschen der Erlaubnis
+# § 22 – Erlöschen der Erlaubnis
 
 Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber den Betrieb des Prostitutionsgewerbes nicht innerhalb eines Jahres nach Erteilung der Erlaubnis aufgenommen hat oder den Betrieb seit einem Jahr nicht mehr ausgeübt hat. Die Fristen können auf Antrag verlängert werden, wenn ein wichtiger Grund vorliegt.
 
-
-## § 23 – Rücknahme und Widerruf der Erlaubnis und der Stellvertretungserlaubnis
+# § 23 – Rücknahme und Widerruf der Erlaubnis und der Stellvertretungserlaubnis
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bekannt wird, dass bei ihrer Erteilung Versagungsgründe nach § 14 Absatz 1 vorlagen. Die Stellvertretungserlaubnis ist zurückzunehmen, wenn bekannt wird, dass bei ihrer Erteilung Versagungsgründe nach § 14 Absatz 3 vorlagen.
 
@@ -500,8 +474,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (4) Im Übrigen gelten für Rücknahme und Widerruf der Erlaubnis und Stellvertretungserlaubnis die Vorschriften des Verwaltungsverfahrensgesetzes.
 
-
-## § 24 – Sicherheit und Gesundheitsschutz
+# § 24 – Sicherheit und Gesundheitsschutz
 
 (1) Der Betreiber eines Prostitutionsgewerbes hat dafür Sorge zu tragen, dass die Belange der Sicherheit und Gesundheit von Prostituierten und anderen im Rahmen seines Prostitutionsgewerbes tätigen Personen gewahrt werden. Die räumlichen und organisatorischen Rahmenbedingungen für die Erbringung sexueller Dienstleistungen sind so zu gestalten, dass eine Gefährdung für die Sicherheit und Gesundheit der Personen, die in der Prostitutionsstätte, in dem Prostitutionsfahrzeug oder bei der Prostitutionsveranstaltung tätig sind, möglichst vermieden wird und die verbleibende Gefährdung möglichst gering gehalten wird. Der Betreiber einer Prostitutionsstätte, eines Prostitutionsfahrzeugs oder einer Prostitutionsveranstaltung hat diejenigen Schutzmaßnahmen zu treffen, die unter Berücksichtigung der Anzahl der dort tätigen Personen, der Dauer ihrer Anwesenheit und der Art ihrer Tätigkeit angemessen und zur Erreichung der Zwecke nach Satz 2 förderlich sind.
 
@@ -513,8 +486,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (5) Die zuständige Behörde kann den Betreiber eines Prostitutionsgewerbes zur Aufstellung und Durchführung von Hygieneplänen verpflichten. Maßnahmen nach dem Infektionsschutzgesetz bleiben unberührt.
 
-
-## § 25 – Auswahl der im Betrieb tätigen Personen; Beschäftigungsverbote
+# § 25 – Auswahl der im Betrieb tätigen Personen; Beschäftigungsverbote
 
 (1) Der Betreiber eines Prostitutionsgewerbes darf eine Person nicht als Prostituierte oder Prostituierten in seinem Prostitutionsgewerbe tätig werden lassen, wenn für ihn erkennbar ist, dass
 
@@ -530,8 +502,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (3) Dem Betreiber eines Prostitutionsgewerbes kann von der zuständigen Behörde die Beschäftigung einer Person oder deren Tätigkeit in seinem Prostitutionsgewerbe untersagt werden, wenn Tatsachen die Annahme rechtfertigen, dass diese Person nicht die für ihre Tätigkeit erforderliche Zuverlässigkeit besitzt. § 15 Absatz 1 ist entsprechend anzuwenden.
 
-
-## § 26 – Pflichten gegenüber Prostituierten; Einschränkung von Weisungen und Vorgaben
+# § 26 – Pflichten gegenüber Prostituierten; Einschränkung von Weisungen und Vorgaben
 
 (1) Die Ausgestaltung sexueller Dienstleistungen wird ausschließlich zwischen den Prostituierten und deren Kunden und Kundinnen in eigener Verantwortung festgelegt.
 
@@ -547,15 +518,13 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (7) Die Vorschriften des Prostitutionsgesetzes bleiben unberührt.
 
-
-## § 27 – Kontroll- und Hinweispflichten
+# § 27 – Kontroll- und Hinweispflichten
 
 (1) Der Betreiber eines Prostitutionsgewerbes hat Personen, die in seinem Prostitutionsgewerbe sexuelle Dienstleistungen erbringen wollen, vor Aufnahme der Tätigkeit auf ihre Anmeldepflicht und auf das Erfordernis der regelmäßigen Wahrnehmung der gesundheitlichen Beratung hinzuweisen.
 
 (2) Der Betreiber eines Prostitutionsgewerbes ist verpflichtet, sich von Personen, die in seinem Prostitutionsgewerbe sexuelle Dienstleistungen erbringen wollen, vor Aufnahme der Tätigkeit eine gültige Anmelde-oder Aliasbescheinigung und eine gültige Bescheinigung über die erfolgte gesundheitliche Beratung vorlegen zu lassen.
 
-
-## § 28 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 28 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Der Betreiber eines Prostitutionsgewerbes ist verpflichtet, folgende Angaben über die Prostituierten, die in seinem Prostitutionsgewerbe sexuelle Dienstleistungen erbringen, gemäß Absatz 3 aufzuzeichnen:
 
@@ -577,8 +546,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (7) Der Betreiber eines Prostitutionsgewerbes hat die Aufzeichnungen vom Tag der Aufzeichnung an zwei Jahre lang aufzubewahren.
 
-
-## § 29 – Überwachung des Prostitutionsgewerbes
+# § 29 – Überwachung des Prostitutionsgewerbes
 
 (1) Die Beauftragten der zuständigen Behörde sind befugt, zum Zwecke der Überwachung
 
@@ -592,8 +560,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (2) Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung können die Grundstücke, Geschäftsräume und die für sexuelle Dienstleistungen genutzten Räume auch außerhalb der für Prostitutionsgewerbe üblichen Geschäftszeiten betreten werden. Dies gilt auch dann, wenn sie zugleich Wohnzwecken dienen. Die betroffene Person oder Dritte, die Hausrecht an den jeweiligen Räumen haben, haben die Maßnahmen nach Satz 1 zu dulden; das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
-
-## § 30 – Auskunftspflicht im Rahmen der Überwachung
+# § 30 – Auskunftspflicht im Rahmen der Überwachung
 
 (1) Betreiber eines Prostitutionsgewerbes, als Stellvertretung oder als Betriebsleitung eingesetzte Personen sowie Prostituierte sind verpflichtet, der zuständigen Behörde und den von ihr Beauftragten auf deren Verlangen die für die Überwachung des Geschäftsbetriebes erforderlichen mündlichen und schriftlichen Auskünfte zu erteilen.
 
@@ -601,8 +568,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (+++ § 30: Zur Anwendung vgl. § 31 Abs. 2 +++)
 
-
-## § 31 – Überwachung und Auskunftspflicht bei Anhaltspunkten für die Ausübung der Prostitution
+# § 31 – Überwachung und Auskunftspflicht bei Anhaltspunkten für die Ausübung der Prostitution
 
 (1) Die in § 29 geregelten Befugnisse stehen der zuständigen Behörde auch zu, wenn Tatsachen die Annahme rechtfertigen, dass
 
@@ -612,8 +578,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 (2) Die Vorschriften über die Auskunftspflicht nach § 30 sind entsprechend anzuwenden.
 
-
-## § 32 – Kondompflicht; Werbeverbot
+# § 32 – Kondompflicht; Werbeverbot
 
 (1) Kunden und Kundinnen von Prostituierten sowie Prostituierte haben dafür Sorge zu tragen, dass beim Geschlechtsverkehr Kondome verwendet werden.
 
@@ -629,8 +594,7 @@ Die Erlaubnis erlischt, wenn die Erlaubnisinhaberin oder der Erlaubnisinhaber de
 
 Dem Verbreiten steht das der Öffentlichkeit Zugänglichmachen gleich.
 
-
-## § 33 – Bußgeldvorschriften
+# § 33 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -678,15 +642,13 @@ einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gi
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 3 mit einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 2 Nummer 1 bis 5, 7, 8 Buchstabe b und Nummer 14 mit einer Geldbuße bis zu zehntausend Euro, in den Fällen des Absatzes 2 Nummer 8 Buchstabe a und Nummer 9 bis 12 mit einer Geldbuße bis zu fünftausend Euro und in den übrigen Fällen mit einer Geldbuße bis zu eintausend Euro geahndet werden.
 
-
-## § 33a – Einziehung
+# § 33a – Einziehung
 
 (1) Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 33 Absatz 2 Nummer 14 bezieht, können eingezogen werden.
 
 (2) § 123 Absatz 2 des Gesetzes über Ordnungswidrigkeiten findet entsprechende Anwendung.
 
-
-## § 34 – Datenverarbeitung; Datenschutz
+# § 34 – Datenverarbeitung; Datenschutz
 
 (1) Die zuständige Behörde darf personenbezogene Daten von Prostituierten, von Betreibern eines Prostitutionsgewerbes sowie von solchen Personen, auf die es für die Entscheidung über die Erteilung der Erlaubnis ankommt, verarbeiten, soweit die Daten für die Durchführung dieses Gesetzes, insbesondere zur Beurteilung der Zuverlässigkeit, erforderlich sind. § 11 der Gewerbeordnung ist entsprechend anzuwenden auf die Verarbeitung von personenbezogenen Daten der Betreiber eines Prostitutionsgewerbes und der Personen, auf die es für die Erteilung der Erlaubnis ankommt.
 
@@ -714,8 +676,7 @@ Für die Weitergabe von Daten innerhalb der zuständigen öffentlichen Stellen g
 
 (9) Übermittlungen der nach diesem Gesetz erhobenen personenbezogenen Daten sind im Übrigen nur zulässig, soweit die Kenntnis der Daten zur Verfolgung von Straftaten oder von Ordnungswidrigkeiten wegen eines Verstoßes gegen dieses Gesetz erforderlich ist oder eine besondere Rechtsvorschrift dies vorsieht.
 
-
-## § 35 – Bundesstatistik
+# § 35 – Bundesstatistik
 
 (1) Für Zwecke dieses Gesetzes werden jährlich über folgende Sachverhalte Erhebungen als Bundesstatistik durchgeführt:
 
@@ -745,8 +706,7 @@ Für die Weitergabe von Daten innerhalb der zuständigen öffentlichen Stellen g
 
 (4) Für die Zwecke dieser Bundesstatistik dürfen personenbezogene Daten nur in anonymisierter Form verarbeitet werden.
 
-
-## § 36 – Verordnungsermächtigung
+# § 36 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann im Einvernehmen mit dem Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit und Soziales und mit Zustimmung des Bundesrates durch Rechtsverordnungen nähere Vorschriften erlassen
 
@@ -768,8 +728,7 @@ Für die Weitergabe von Daten innerhalb der zuständigen öffentlichen Stellen g
 
 (3) Das Bundesministerium für Familie, Senioren, Frauen und Jugend erlässt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates durch Rechtsverordnung nähere Vorschriften zur Führung der Bundesstatistik. Die Rechtsverordnung bestimmt auch, welche Daten als Erhebungs- und Hilfsmerkmale für die Bundesstatistik an die statistischen Ämter der Länder zu übermitteln sind.
 
-
-## § 37 – Übergangsregelungen
+# § 37 – Übergangsregelungen
 
 (1) Personen, die bereits vor dem 1. Juli 2017 der Prostitution nachgegangen sind, haben ihre Tätigkeit bis zum 31. Dezember 2017 erstmals anzumelden.
 
@@ -787,7 +746,6 @@ Für die Weitergabe von Daten innerhalb der zuständigen öffentlichen Stellen g
 
 (8) Anmeldepflichtige Personen ab 21 Jahren, die die Tätigkeit erstmals bis zum 31. Dezember 2017 anmelden, haben für die erste Verlängerung der Anmeldebescheinigung abweichend von § 4 Absatz 4 Nachweise über die mindestens zwei Jahre nach der erstmaligen Anmeldung erfolgte gesundheitliche Beratung vorzulegen; für die darauffolgenden Verlängerungen gilt § 4 Absatz 4.
 
-
-## § 38 – Evaluation
+# § 38 – Evaluation
 
 Das Bundesministerium für Familie, Senioren, Frauen und Jugend evaluiert die Auswirkungen dieses Gesetzes auf wissenschaftlicher Grundlage unter Einbeziehung der Erfahrungen der Anwendungspraxis und eines wissenschaftlichen Sachverständigen, der im Einvernehmen mit dem Deutschen Bundestag zu bestellen ist. Die Evaluation setzt am 1. Juli 2022 ein. Der Evaluationsbericht ist dem Deutschen Bundestag spätestens am 1. Juli 2025 vorzulegen.

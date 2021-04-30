@@ -1,15 +1,11 @@
-# [ALFV] Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft  (ALFV)
-
-Ausfertigungsdatum: 06.04.2021
-
+% Verordnung über die Anzeigepflicht von Leiharbeit in der Fleischwirtschaft  (ALFV)
+% Ausfertigungsdatum: 06.04.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6a Absatz 3 Satz 9 Nummer 1 und 3 des Gesetzes zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft, der durch Artikel 3 Nummer 1 Buchstabe b des Gesetzes vom 22. Dezember 2020 (BGBl. I S. 3334) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Erforderliche Angaben in der Anzeige und der Änderungsanzeige
+# § 1 – Erforderliche Angaben in der Anzeige und der Änderungsanzeige
 
 (1) Die für die Prüfung der Einhaltung der Vorgaben des § 6a Absatz 3 Satz 1 bis 4 des Gesetzes zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft erforderlichen Angaben in der Anzeige vor dem Beginn des Einsatzes umfassen
 
@@ -55,12 +51,10 @@ Auf Grund des § 6a Absatz 3 Satz 9 Nummer 1 und 3 des Gesetzes zur Sicherung vo
 
 Zu den Angaben nach Absatz 1 Nummer 8 und 9 sind keine Änderungsanzeigen erforderlich.
 
-
-## § 2 – Zuständige Behörde
+# § 2 – Zuständige Behörde
 
 Zuständige Behörde der Zollverwaltung im Sinne von § 6a Absatz 3 Satz 5 und 8 des Gesetzes zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft ist das Hauptzollamt, in dessen Bezirk der Ort des Einsatzes nach § 1 Absatz 1 Nummer 6 liegt.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie tritt am 31. März 2024 außer Kraft.

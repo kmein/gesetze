@@ -1,10 +1,7 @@
-# [PfändfreiGrBek 2019] Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2019)
-
-Ausfertigungsdatum: 04.04.2019
-
+% Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2019)
+% Ausfertigungsdatum: 04.04.2019
  
-
-## ----
+# ----
 
 Auf Grund des § 850c Absatz 2a Satz 2, der zuletzt durch Artikel 145 Nummer 4 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und des § 850f Absatz 3 Satz 4 der Zivilprozessordnung, der zuletzt durch Artikel 1 Nummer 14 des Gesetzes vom 21. November 2016 (BGBl. I S. 2591) geändert worden ist, wird bekannt gemacht:
 
@@ -51,12 +48,10 @@ von 151,05 auf 157,02 Euro täglich.
 
 3. Die ab 1. Juli 2019 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin der Justiz und für Verbraucherschutz
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2019, 444 - 462)

@@ -1,15 +1,11 @@
-# [IVSG] Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern   (Intelligente Verkehrssysteme Gesetz - IVSG)
-
-Ausfertigungsdatum: 11.06.2013
-
+% Gesetz über Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern   (Intelligente Verkehrssysteme Gesetz - IVSG)
+% Ausfertigungsdatum: 11.06.2013
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Dieses Gesetz gilt für Intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern. Dieses Gesetz gilt nicht für Intelligente Verkehrssysteme, die der öffentlichen Sicherheit oder der Verteidigung dienen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bezeichnet der Begriff
 
@@ -39,13 +35,11 @@ Im Sinne dieses Gesetzes bezeichnet der Begriff
 
 13. „Nutzer“ sind insbesondere Datenlieferanten und natürliche oder juristische Personen, die Zugang zu den Daten erlangen.
 
-
-## § 3 – Grundsätze für die Einführung Intelligenter Verkehrssysteme
+# § 3 – Grundsätze für die Einführung Intelligenter Verkehrssysteme
 
 Bei der Einführung von Anwendungen und Diensten Intelligenter Verkehrssysteme müssen die zuständigen Behörden die von der Europäischen Kommission nach Artikel 6 der Richtlinie 2010/40/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 zum Rahmen für die Einführung intelligenter Verkehrssysteme im Straßenverkehr und für deren Schnittstellen zu anderen Verkehrsträgern (ABl. L 207 vom 6.8.2010, S. 1) erlassenen Spezifikationen unter Berücksichtigung der in Anhang II der Richtlinie 2010/40/EU in ihrer jeweils geltenden Fassung aufgeführten Grundsätze beachten. Personenbezogene Daten dürfen nur erhoben, verarbeitet oder genutzt werden, soweit dies durch eine bundesgesetzliche Regelung ausdrücklich zugelassen oder angeordnet wird.
 
-
-## § 4 – Vorrangige Bereiche
+# § 4 – Vorrangige Bereiche
 
 Intelligente Verkehrssysteme können vorrangig für folgende Zwecke eingeführt werden:
 
@@ -57,13 +51,11 @@ Intelligente Verkehrssysteme können vorrangig für folgende Zwecke eingeführt 
 
 4. Verbindung zwischen Fahrzeug und Verkehrsinfrastruktur.
 
-
-## § 5 – Aufgabenübertragung
+# § 5 – Aufgabenübertragung
 
 Die Bundesanstalt für Straßenwesen nimmt im Rahmen der bundesrechtlichen Regelungsbefugnisse die Aufgaben als Nationale Stelle wahr.
 
-
-## § 6 – Aufgaben der Nationalen Stelle
+# § 6 – Aufgaben der Nationalen Stelle
 
 (1) Die Nationale Stelle prüft nach dem Zufallsprinzip die übermittelte Eigenerklärung der Datenlieferanten auf die Einhaltung der Anforderungen der Spezifikationen, insbesondere auf Ermittlung, Zugänglichkeit, Verfügbarkeit, Austausch, Weiterverwendung, Aktualisierung, Format der Daten, Qualitätsmanagement und Inhalt. Auf Verlangen der Nationalen Stelle müssen die Datenlieferanten Nachweise zur Einhaltung der Anforderungen im Sinne des Satzes 1 erbringen.
 
@@ -81,17 +73,14 @@ in der jeweils geltenden Fassung entsprechen.
 
 (4) Die Nationale Stelle erstattet jährlich Bericht über die in Absatz 1 erhaltenen Erklärungen der Datenlieferanten und der Bewertungsergebnisse an das Bundesministerium für Verkehr und digitale Infrastruktur.
 
-
-## § 7 – Nutzung der Nationalen Stelle durch andere Behörden
+# § 7 – Nutzung der Nationalen Stelle durch andere Behörden
 
 Die zuständigen Behörden der Länder können sich im Rahmen der landesrechtlichen Regelungsbefugnisse der zuständigen Behörde nach § 5 im Wege der Organleihe bedienen.
 
-
-## § 8 – Rechtsverordnungsermächtigung
+# § 8 – Rechtsverordnungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, unter Berücksichtigung des Artikels 10 der Richtlinie 2010/40/EU durch Rechtsverordnung mit Zustimmung des Bundesrates die Anforderungen an Intelligente Verkehrssysteme in den Bereichen nach § 4 unter Berücksichtigung der Anforderungen nach Artikel 5 in Verbindung mit Anhang II der Richtlinie 2010/40/EU zu regeln.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

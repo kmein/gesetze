@@ -1,10 +1,7 @@
-# [Münz5DMBek 1974-04] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 25. Jahrestag der Verkündung des Grundgesetzes für die Bundesrepublik Deutschland am 23. Mai 1949)
-
-Ausfertigungsdatum: 19.04.1974
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 25. Jahrestag der Verkündung des Grundgesetzes für die Bundesrepublik Deutschland am 23. Mai 1949)
+% Ausfertigungsdatum: 19.04.1974
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß des 25. Jahrestages der Verkündung des Grundgesetzes für die Bundesrepublik Deutschland am 23. Mai 1949 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Staatlichen Münze Stuttgart, die Auflage beträgt 8 Millionen Stück.
 
@@ -39,13 +36,11 @@ Zwischen Anfang und Ende der Inschrift ist eine Arabeske eingeprägt.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

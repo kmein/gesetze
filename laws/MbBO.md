@@ -1,10 +1,7 @@
-# [MbBO] Verordnung über den Bau und Betrieb der Magnetschwebebahnen  (Magnetschwebebahn-Bau- und Betriebsordnung - MbBO)
-
-Ausfertigungsdatum: 23.09.1997
-
+% Verordnung über den Bau und Betrieb der Magnetschwebebahnen  (Magnetschwebebahn-Bau- und Betriebsordnung - MbBO)
+% Ausfertigungsdatum: 23.09.1997
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
  
 
@@ -246,13 +243,11 @@ Anlage
 
 Lichtraum
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für den Bau und den Betrieb von Magnetschwebebahnen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Betrieb ist die Gesamtheit aller Maßnahmen, die der Beförderung von Personen und Gütern dienen.
 
@@ -272,8 +267,7 @@ Diese Verordnung gilt für den Bau und den Betrieb von Magnetschwebebahnen.
 
 (3) Der Fahrweg ist der Teil der Betriebsanlagen, der dazu dient, die vom Fahrzeug ausgehenden Einwirkungen, insbesondere aus Tragen, Führen, Antreiben und Bremsen, aufzunehmen.
 
-
-## § 3 – Allgemeine Anforderungen
+# § 3 – Allgemeine Anforderungen
 
 (1) Betriebsanlagen und Fahrzeuge müssen so beschaffen sein, daß sie den Anforderungen der Sicherheit und Ordnung genügen. Diese Anforderungen sind erfüllt, wenn die Betriebsanlagen und Fahrzeuge den Vorschriften dieser Verordnung oder, soweit diese keine entsprechenden Vorschriften enthält, den allgemein anerkannten Regeln der Technik entsprechen. Weitergehende Anforderungen aus anderen Rechtsvorschriften bleiben unberührt.
 
@@ -281,15 +275,13 @@ Diese Verordnung gilt für den Bau und den Betrieb von Magnetschwebebahnen.
 
 (3) Die öffentlichen Betriebsanlagen und die dem öffentlichen Personenverkehr dienenden Fahrzeuge müssen so beschaffen sein, daß die sichere und leichte Zugänglichkeit auch für Personen mit Nutzungsschwierigkeiten, insbesondere Behinderte, alte Menschen und Kinder, gewährleistet ist.
 
-
-## § 4 – Betriebserlaubnis
+# § 4 – Betriebserlaubnis
 
 (1) Der Unternehmer darf den Fahrbetrieb auf einer Strecke erst aufnehmen, wenn er für diese Strecke eine Betriebserlaubnis besitzt.
 
 (2) Die Betriebserlaubnis erteilt das Eisenbahn-Bundesamt, wenn es die Betriebsanlagen und die Fahrzeuge abgenommen, das Sicherheitskonzept sowie die Grundsätze und Verfahren für die Aufstellung des Instandhaltungsprogramms genehmigt hat, der Unternehmer das Betriebshandbuch erstellt hat sowie die Systemsicherheit nachgewiesen ist.
 
-
-## § 5 – Ausnahmen
+# § 5 – Ausnahmen
 
 (1) Das Eisenbahn-Bundesamt darf
 
@@ -301,8 +293,7 @@ Ausnahmen zulassen, wenn die Sicherheit auf andere Weise nachgewiesen ist.
 
 (2) Bei Fahrzeugen für Instandhaltungs- und Rettungszwecke auf dem Fahrweg kann von Vorschriften dieser Verordnung abgewichen werden, soweit diese Abweichungen für die Zweckbestimmung der Fahrzeuge erforderlich sind.
 
-
-## § 6 – Abnahmen
+# § 6 – Abnahmen
 
 (1) Neue und geänderte Betriebsanlagen und Fahrzeuge dürfen erst in Betrieb genommen werden, wenn das Eisenbahn-Bundesamt sie abgenommen hat. Dies gilt nicht für Änderungen, die sich nicht auf die Betriebssicherheit auswirken können. Soweit erforderlich, führt das Eisenbahn-Bundesamt vor der Abnahme von Fahrzeugen Fahrten durch.
 
@@ -312,8 +303,7 @@ Ausnahmen zulassen, wenn die Sicherheit auf andere Weise nachgewiesen ist.
 
 (4) Produkte aus anderen Mitgliedstaaten der Europäischen Union und Ursprungswaren aus den anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, die nicht den in dieser Verordnung genannten Bestimmungen entsprechen, werden einschließlich der im Herstellerstaat durchgeführten Prüfungen und Überwachungen als gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau gleichermaßen dauerhaft erreicht wird. Darüber entscheidet das Eisenbahn-Bundesamt.
 
-
-## § 7 – Aufsicht
+# § 7 – Aufsicht
 
 (1) Das Eisenbahn-Bundesamt kann zur Abwehr von Gefahren für die Sicherheit des Magnetschwebebahnbetriebs sowie zur Abwehr von der Magnetschwebebahn ausgehender Gefahren für die öffentliche Sicherheit und zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes Verfügungen erlassen.
 
@@ -321,8 +311,7 @@ Ausnahmen zulassen, wenn die Sicherheit auf andere Weise nachgewiesen ist.
 
 (3) Das Eisenbahn-Bundesamt kann sich zur Vorbereitung seiner Entscheidungen Sachverständiger und sachverständiger Stellen bedienen.
 
-
-## § 8 – Instandhaltung
+# § 8 – Instandhaltung
 
 (1) Der Unternehmer hat zur Aufrechterhaltung der Sicherheit Betriebsanlagen und Fahrzeuge planmäßig instand zu halten. Art, Umfang und Häufigkeit der Instandhaltungsmaßnahmen richten sich nach Zustand, Beanspruchung und Bauart der Betriebsanlagen und Fahrzeuge.
 
@@ -332,8 +321,7 @@ Ausnahmen zulassen, wenn die Sicherheit auf andere Weise nachgewiesen ist.
 
 (4) Das Instandhaltungsprogramm und die Nachweise über die Instandhaltung sind dem Eisenbahn-Bundesamt auf Verlangen vorzulegen.
 
-
-## § 9 – Bauaufsichtliche Genehmigung
+# § 9 – Bauaufsichtliche Genehmigung
 
 (1) Die Errichtung, die Änderung, der Abbruch oder die Veränderung der Nutzung baulicher Anlagen bedürfen einer bauaufsichtlichen Genehmigung durch das Eisenbahn-Bundesamt, soweit in Absatz 2 nichts anderes bestimmt ist.
 
@@ -345,8 +333,7 @@ Ausnahmen zulassen, wenn die Sicherheit auf andere Weise nachgewiesen ist.
 
 (5) Eine bauaufsichtliche Genehmigung erlischt, wenn innerhalb von fünf Jahren nach Erteilung mit der Ausführung der Baumaßnahme nicht begonnen oder wenn die Bauausführung ein Jahr unterbrochen worden ist.
 
-
-## § 10 – Baubeginn
+# § 10 – Baubeginn
 
 Mit der Ausführung genehmigter Baumaßnahmen darf erst begonnen werden, wenn
 
@@ -354,8 +341,7 @@ Mit der Ausführung genehmigter Baumaßnahmen darf erst begonnen werden, wenn
 
 2. der Unternehmer den Beginn der Bauarbeiten dem Eisenbahn-Bundesamt mindestens eine Woche vorher schriftlich angezeigt hat.
 
-
-## § 11 – Bauaufsicht
+# § 11 – Bauaufsicht
 
 (1) Das Eisenbahn-Bundesamt hat bei der Errichtung, der Änderung, dem Abbruch, der Nutzung, der Nutzungsänderung sowie der Instandhaltung von baulichen Anlagen darüber zu wachen, daß die öffentlich-rechtlichen Vorschriften und die auf Grund dieser Vorschriften erlassenen Anordnungen eingehalten werden.
 
@@ -371,8 +357,7 @@ wenn ein rechtmäßiger Zustand nicht durch nachträgliche Genehmigung hergestel
 
 (3) Wird eine bauliche Anlage ohne die erforderliche bauaufsichtliche Genehmigung errichtet, kann das Eisenbahn-Bundesamt die Stillegung der Baustelle anordnen.
 
-
-## § 12 – Fahrweg
+# § 12 – Fahrweg
 
 (1) Der Fahrweg muß so beschaffen sein, daß er den von außerhalb anzunehmenden und den aus dem System auftretenden Einwirkungen standhält.
 
@@ -384,8 +369,7 @@ wenn ein rechtmäßiger Zustand nicht durch nachträgliche Genehmigung hergestel
 
 (3) Der Fahrweg kann ein-, doppel- oder mehrspurig sein.
 
-
-## § 13 – Linienführung
+# § 13 – Linienführung
 
 (1) Die Linienführung des Fahrwegs soll fahrdynamisch günstig sein und hohe Geschwindigkeiten zulassen.
 
@@ -401,13 +385,11 @@ wenn ein rechtmäßiger Zustand nicht durch nachträgliche Genehmigung hergestel
 
 (7) Höhengleiche Kreuzungen mit systemfremden Verkehrswegen sind nicht zulässig; dies gilt nicht innerhalb von Instandhaltungs- und Abstellanlagen.
 
-
-## § 14 – Lichtraum
+# § 14 – Lichtraum
 
 Der in der Anlage dargestellte Lichtraum ist freizuhalten. Dies gilt nicht für betriebsnotwendige Einrichtungen außerhalb des Teils des Lichtraums, den ein Fahrzeug unter Berücksichtigung der horizontalen und vertikalen Bewegungen sowie der Toleranzen des Fahrwegs und dessen Linienführung beanspruchen kann. In diesen Teil des Lichtraums dürfen Gegenstände nur während des Fahrgastwechsels sowie während des Reinigens und der Instandhaltung von Fahrzeugen oder des Fahrwegs hineinragen.
 
-
-## § 15 – Bahnsteige
+# § 15 – Bahnsteige
 
 (1) Die Ein- und Ausstiegsbereiche am Bahnsteig und Fahrzeug sind so zu gestalten, daß ein sicherer Fahrgastwechsel gewährleistet ist. Der Übergang zwischen Fahrzeug und Bahnsteig muß höhengleich sein. An der Übergangsstelle ist eine Spaltbreite von höchstens 5 cm zulässig.
 
@@ -421,13 +403,11 @@ Der in der Anlage dargestellte Lichtraum ist freizuhalten. Dies gilt nicht für 
 
 (6) Bei der Gestaltung der Informationssysteme und Zugangswege ist auf die Belange Behinderter angemessen Rücksicht zu nehmen.
 
-
-## § 16 – Überwachen der Betriebsanlagen
+# § 16 – Überwachen der Betriebsanlagen
 
 Der Unternehmer hat die Betriebsanlagen und deren Umfeld so zu überwachen, daß Veränderungen, die zu Betriebsgefährdungen führen können, rechtzeitig erkannt und Gegenmaßnahmen getroffen werden können.
 
-
-## § 17 – Grundsätze
+# § 17 – Grundsätze
 
 (1) Fahrzeuge zur Personenbeförderung müssen so gebaut sein, daß auch für Personen mit Nutzungsschwierigkeiten die sichere und leichte Zugänglichkeit zu den Sitzplätzen und Serviceeinrichtungen möglich ist; gesicherte Rollstuhlstellplätze sind vorzusehen.
 
@@ -449,8 +429,7 @@ Der Unternehmer hat die Betriebsanlagen und deren Umfeld so zu überwachen, daß
 
 (6) Die Vorschrift des § 15 Abs. 6 gilt entsprechend.
 
-
-## § 18 – Ausrüstung
+# § 18 – Ausrüstung
 
 (1) Scheiben für Fenster, Türen, Wände und Spiegel müssen den Anforderungen ann Sicherheitsglas genügen. & (2) Die Fahrzeuge zur Personenbeförderung müssen
 
@@ -464,20 +443,17 @@ Der Unternehmer hat die Betriebsanlagen und deren Umfeld so zu überwachen, daß
 
 (3) Die Fahrzeuge müssen entsprechend dem Sicherheitskonzept ausreichend Flucht- und Zugangsmöglichkeiten bieten.
 
-
-## § 19 – Trag- und Führsystem
+# § 19 – Trag- und Führsystem
 
 Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so ausgelegt sein, daß eine sichere Spurführung gewährleistet wird.
 
-
-## § 20 – Bremsen, Kupplung
+# § 20 – Bremsen, Kupplung
 
 (1) Die Fahrzeuge müssen mit Bremsen ausgerüstet sein, die das Fahrzeug sicher zum Halten bringen und im Stand festhalten können.
 
 (2) Bei Fahrzeugen oder Fahrzeugsektionen, die miteinander verbunden sind, müssen die Kupplungen so beschaffen sein, daß eine unbeabsichtigte Trennung nicht möglich ist.
 
-
-## § 21 – Überwachungsbedürftige Anlagen der Fahrzeuge
+# § 21 – Überwachungsbedürftige Anlagen der Fahrzeuge
 
 (1) Druckbehälter und sonstige überwachungsbedürftige Anlagen im Sinne des Gerätesicherheitsgesetzes, die mit dem Fahrzeug fest verbunden sind, müssen nach einer zugelassenen Bauart ausgeführt sein.
 
@@ -485,8 +461,7 @@ Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so ausgelegt sein
 
 (3) Über die Prüfungen hat der Unternehmer Nachweise zu führen. Die Nachweise sind mindestens für die Dauer der Nutzung aufzubewahren und dem Eisenbahn-Bundesamt auf Verlangen vorzulegen.
 
-
-## § 22 – Fahrtvoraussetzungen
+# § 22 – Fahrtvoraussetzungen
 
 (1) Fahrten sind nur zulässig, wenn
 
@@ -508,22 +483,19 @@ Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so ausgelegt sein
 
 (3) Während des Fahrbetriebs muß in Betriebszentralen und Bahnhöfen mindestens jeweils ein Betriebsbediensteter anwesend und erreichbar sein, der Betriebs- und Rettungsmaßnahmen einleiten kann. Zwischen einer Betriebszentrale und den Fahrzeugen muß eine ständige Kommunikationsverbindung bestehen.
 
-
-## § 23 – Sicherheitskonzept
+# § 23 – Sicherheitskonzept
 
 (1) Der Unternehmer hat ein Sicherheitskonzept aufzustellen und dem Eisenbahn-Bundesamt zur Genehmigung vorzulegen.
 
 (2) Das Sicherheitskonzept muß die Ermittlung und Bewertung aller erkennbaren Sicherheitsrisiken nach Art, Häufigkeit und Auswirkungen beschreiben und die daraus abgeleiteten baulichen, technischen, betrieblichen und organisatorischen Sicherheitsmaßnahmen festlegen.
 
-
-## § 24 – Betriebshandbuch
+# § 24 – Betriebshandbuch
 
 (1) Der Unternehmer hat für die sichere Durchführung und Überwachung des Fahrbetriebs ein Betriebshandbuch zu führen, das sowohl den Normalbetrieb als auch davon abweichende Betriebszustände berücksichtigt.
 
 (2) Das Betriebshandbuch ist vor Betriebsaufnahme zu erstellen. Es ist dem Eisenbahn-Bundesamt auf Verlangen vorzulegen. Das Eisenbahn-Bundesamt kann Änderungen und Ergänzungen verlangen.
 
-
-## § 25 – Störungen im Magnetschwebebahnbetrieb
+# § 25 – Störungen im Magnetschwebebahnbetrieb
 
 (1) Der Unternehmer hat Unfälle und sonstige gefährliche Ereignisse unverzüglich dem Eisenbahn-Bundesamt gemäß Satz 2 zu melden. Dabei hat er Zeit, Ort, Art und Umfang des Ereignisses mitzuteilen.
 
@@ -531,8 +503,7 @@ Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so ausgelegt sein
 
 (3) Der Unternehmer hat die Aufzeichnungen nach Absatz 2 mindestens 5 Arbeitstage nach Meldung an das Eisenbahn-Bundesamt aufzubewahren und diesem auf Verlangen vorzulegen.
 
-
-## § 26 – Betriebsbedienstete
+# § 26 – Betriebsbedienstete
 
 (1) Der Unternehmer darf nur geeignete Betriebsbedienstete einsetzen. Ihre fachliche Eignung und körperliche Tauglichkeit hat er mindestens alle fünf Jahre zu überprüfen. Über die Untersuchungen, Prüfungen und die Überwachung der Betriebsbediensteten hat der Unternehmer Nachweise zu führen. Diese sind bis zum rechtswirksamen Ende der Beschäftigungsdauer des Betriebsbediensteten aufzubewahren.
 
@@ -548,8 +519,7 @@ Die Einrichtungen zum Tragen und Führen der Fahrzeuge müssen so ausgelegt sein
 
 tätig ist.
 
-
-## § 27 – Bestellung des Betriebsleiters
+# § 27 – Bestellung des Betriebsleiters
 
 (1) Der Unternehmer hat zur Wahrnehmung der ihm nach dieser Verordnung obliegenden Aufgaben unbeschadet seiner eigenen Verantwortlichkeit einen Betriebsleiter zu bestellen. Er hat für diesen mindestens einen Stellvertreter zu bestellen.
 
@@ -561,28 +531,23 @@ tätig ist.
 
 (5) Die erforderliche Fachkunde besitzt, wer ein Studium an einer deutschen Hochschule in einem für den Bau und Betrieb der Magnetschwebebahn wesentlichen Fachbereich durch Prüfung erfolgreich abgeschlossen hat oder wer einen gleichwertigen Prüfungsabschluß an einer anderen Hochschule nachweisen kann.
 
-
-## § 28 – Stellung des Betriebsleiters
+# § 28 – Stellung des Betriebsleiters
 
 Der Betriebsleiter ist neben dem Unternehmer für die sichere Durchführung des Betriebs verantwortlich.
 
-
-## § 29 – Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
+# § 29 – Benutzen und Betreten der Betriebsanlagen und Fahrzeuge
 
 Betriebsanlagen und Fahrzeuge dürfen nur zum allgemeinen Verkehrsgebrauch betreten und benutzt werden. Dies gilt nicht für Personen, denen der Unternehmer ein Betretungsrecht eingeräumt hat.
 
-
-## § 30 – Betriebsgefährdende Handlungen
+# § 30 – Betriebsgefährdende Handlungen
 
 Es ist verboten, Sicherheitseinrichtungen mißbräuchlich zu betätigen, ein Fahrthindernis zu bereiten oder andere betriebsstörende oder betriebsgefährdende Handlungen vorzunehmen.
 
-
-## § 31 – Tauglichkeit
+# § 31 – Tauglichkeit
 
 Betriebsbediensteten, die infolge des Einflusses alkoholischer Getränke oder anderer berauschender Mittel oder infolge geistiger oder körperlicher Mängel in der Wahrnehmung ihrer Aufgaben behindert sind, ist es verboten, im sicherheitsrelevanten Betriebsbereich tätig zu werden.
 
-
-## § 32 – Ordnungswidrigkeiten
+# § 32 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 12 Abs. 1 Nr. 4 des Allgemeinen Magnetschwebebahngesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -608,21 +573,18 @@ Ordnungswidrig im Sinne des § 12 Abs. 1 Nr. 4 des Allgemeinen Magnetschwebebahn
 
 11. entgegen § 31 im sicherheitsrelevanten Betriebsbereich tätig wird.
 
-
-## Anlage – (zu § 14)
+# Anlage – (zu § 14)
 
 (Fundstelle: BGBl. I 1997, 2329 - 2337)
 
 Bild 1: Lichtraum beim einspurigen Fahrweg in der Geraden und in Bogen von 350 m und mehr  
   
   
-![](../normengrafiken/bgbl1_1997/j2335_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1997/j2335_0010.jpg)  
   
 
-Bereich A: Zulässig sind Einragungen von baulichen Anlagen, wenn es der Magnetschwebebahnbetrieb erfordert (z.B. Bahnsteige, Weichen, Rettungsstege), sowie Einragungen bei Bauarbeiten, wenn die erforderlichen Sicherheitsmaßnahmen getroffen sind.  
-  
-Bereiche B (Raumbedarf für Toleranzen des Fahrwegs und dessen Linienführung) und C (Kinematischer Raumbedarf des Fahrzeugs): Zulässig sind Einragungen nur während des Fahrgastwechsels sowie während des Reinigens und der Instandhaltung von Fahrzeugen.  
-  
+Bereich A: Zulässig sind Einragungen von baulichen Anlagen, wenn es der Magnetschwebebahnbetrieb erfordert (z.B. Bahnsteige, Weichen, Rettungsstege), sowie Einragungen bei Bauarbeiten, wenn die erforderlichen Sicherheitsmaßnahmen getroffen sind.   
+Bereiche B (Raumbedarf für Toleranzen des Fahrwegs und dessen Linienführung) und C (Kinematischer Raumbedarf des Fahrzeugs): Zulässig sind Einragungen nur während des Fahrgastwechsels sowie während des Reinigens und der Instandhaltung von Fahrzeugen.   
 Zu Bild 1  
   
 Tabelle 1: Geschwindigkeitsabhängige Maß des Lichtraums  
@@ -637,12 +599,11 @@ Tabelle 1: Geschwindigkeitsabhängige Maß des Lichtraums
   
 Tabelle 2: Vergrößerung des Abstands der Begrenzungslinie für kinematischen Raumbedarf des Fahrzeugs im Gleisbogen mit Radien von 350 m bis 3500 m
 
-Spurbreite ist der Abstand zwischen den beiden Außenflächen der Seitenführschienen einer Spur; das Grundmaß beträgt für Bahnen des öffentlichen Verkehrs 2800 mm mit einer zulässigen Abweichung von ± 2 mm.  
-  
+Spurbreite ist der Abstand zwischen den beiden Außenflächen der Seitenführschienen einer Spur; das Grundmaß beträgt für Bahnen des öffentlichen Verkehrs 2800 mm mit einer zulässigen Abweichung von ± 2 mm.   
 
 Bild 2: Lichtraum beim doppelspurigen Fahrweg in der Geraden und in Bogen von 350 m und mehr  
   
-![](../normengrafiken/bgbl1_1997/j2336_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1997/j2336_0010.jpg)  
   
 
 Zu Bild 2  
@@ -661,8 +622,7 @@ Bild 3: Lichtraum beim geneigten ein- und doppelspurigen Fahrweg
 
 Berechnung der Breite des Streckenquerschnitts für Doppelspur b und Einzelspur b<sub>E</sub> sowie der Höhe des Streckenquerschnitts a in Abhängigkeit von der Querneigung α:  
   
-![](../normengrafiken/bgbl1_1997/j2337_0010.jpg)  
-Das geschwindigkeitsabhängige Maß des Spurmittenabstands und die Vergrößerung des Abstands der Begrenzungslinie an der Bogenaußenseite in Gleisbogen mit einem Radius von 350 m bis 3500 m sind der Tabelle 1 zu Bild 2 sowie der Tabelle 2 zu Bild 1 zu entnehmen.  
-  
-![](../normengrafiken/bgbl1_1997/j2337_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1997/j2337_0010.jpg)  
+Das geschwindigkeitsabhängige Maß des Spurmittenabstands und die Vergrößerung des Abstands der Begrenzungslinie an der Bogenaußenseite in Gleisbogen mit einem Radius von 350 m bis 3500 m sind der Tabelle 1 zu Bild 2 sowie der Tabelle 2 zu Bild 1 zu entnehmen.   
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1997/j2337_0020.jpg)  
   

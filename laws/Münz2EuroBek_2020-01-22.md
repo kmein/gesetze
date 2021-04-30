@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2020-01-22] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Brandenburg“)
-
-Ausfertigungsdatum: 22.01.2020
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Brandenburg“)
+% Ausfertigungsdatum: 22.01.2020
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „Brandenburg“ im Rahmen einer Serie „Bundesländer“ prägen zu lassen.
 
@@ -18,12 +15,10 @@ Die für den Umlauf bestimmte Auflage der Münze beträgt 30 Millionen Stück.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von dem Künstler Jordi Truxa aus Neuenhagen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2020, 132)

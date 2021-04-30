@@ -1,10 +1,7 @@
-# [FloristMFPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin  (Floristmeister-Fortbildungsprüfungsverordnung - FloristMFPrV)
-
-Ausfertigungsdatum: 09.12.2019
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin  (Floristmeister-Fortbildungsprüfungsverordnung - FloristMFPrV)
+% Ausfertigungsdatum: 09.12.2019
  
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Floristmeister oder zur Geprüften Floristmeisterin erworben worden sind, kann die zuständige Stelle eine Prüfung nach den §§ 2 bis 10 durchführen.
 
@@ -24,8 +21,7 @@ Ausfertigungsdatum: 09.12.2019
 
 (3) Die erfolgreich abgelegte Prüfung führt zu dem anerkannten Abschluss „Geprüfter Floristmeister“ oder „Geprüfte Floristmeisterin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -39,8 +35,7 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 
 (3) Abweichend von Absatz 1 kann zur Meisterprüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Die Prüfungsanforderungen beziehen sich auf:
 
@@ -50,8 +45,7 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 
 (2) Die Prüfung besteht aus drei integrativen Situationsaufgaben nach Maßgabe des § 6 Absatz 1 bis 5 und dem Nachweis der berufs- und arbeitspädagogischen Eignung nach Maßgabe des § 6 Absatz 6.
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 (1) Der Nachweis der Qualifikation zum Geprüften Floristmeister oder zur Geprüften Floristmeisterin erfolgt in den Handlungsbereichen:
 
@@ -157,8 +151,7 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 
 3. Werkstücke hinsichtlich des Konzeptes und der Kalkulation überprüfen.
 
-
-## § 5 – Handlungsobjekte
+# § 5 – Handlungsobjekte
 
 (1) Handlungsobjekte sind floristische Werkstücke, die in ihrer Gestaltung bezogen werden auf Thema, Raum oder Anlass. In der Prüfung soll die zu prüfende Person nachweisen, dass sie die floristischen Gestaltungsformen und -mittel beherrscht und diese bei unterschiedlichen Anforderungen und Kundenwünschen anwenden kann.
 
@@ -170,8 +163,7 @@ Die Berufspraxis nach Satz 1 muss in Tätigkeiten erfolgt sein, die inhaltlich w
 
 3. wird die anlassbezogene Floristik bestimmt durch Ereignisse des menschlichen Lebens sowie religiöse und weltliche Feste, nach Sitten und Brauchtum, die traditionsgemäß unter Verwendung bestimmter floristischer Werkstücke begangen werden.
 
-
-## § 6 – Durchführung der Prüfung
+# § 6 – Durchführung der Prüfung
 
 (1) In der Prüfung sind drei Situationsaufgaben zu bearbeiten, die vollständige Handlungen beinhalten, wie sie für die betriebliche Praxis eines Floristmeisters typisch sind. Sie beziehen sich jeweils auf verschiedene Handlungsobjekte nach § 5 Absatz 2. In der Summe der Aufgaben sollen Qualifikationsschwerpunkte aus allen Handlungsbereichen nach § 4 geprüft werden.
 
@@ -215,13 +207,11 @@ Dabei sind Fragestellungen aus folgenden Handlungsbereichen einzubeziehen:
 
 (+++ § 6 Abs. 6: Zur Nichtanwendung vgl. § 7 Satz 4 +++)
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 9 Absatz 3 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Die Ausschlussfrist nach Satz 1 ist nicht für § 6 Absatz 6 entsprechende Prüfungsleistungen anzuwenden.
 
-
-## § 8 – Bewertung der Prüfungsleistungen
+# § 8 – Bewertung der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -237,8 +227,7 @@ In die Bewertung nach Satz 1 Nummer 1 geht die Bewertung der praktischen Umsetzu
 
 (4) Der schriftliche und der praktische Teil für den Nachweis der berufs- und arbeitspädagogischen Eignung nach § 6 Absatz 6 sind einzeln zu bewerten.
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -266,8 +255,7 @@ b) in der Präsentation mit Fachgespräch sowie
 
 Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -279,20 +267,17 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
 (2) Mit dem Antrag auf Wiederholung der Prüfung wird die zu prüfende Person von einzelnen Prüfungsleistungen befreit, wenn sie mit ihren Leistungen darin in einer vorangegangenen Prüfung mindestens ausreichende Leistungen erzielte und sie sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung angemeldet hat. Die zu prüfende Person kann beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In diesem Fall ist das letzte Ergebnis maßgebend.
 
-
-## Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2228 - 2229)
 
-
-## Anlage 2 – (zu § 10)Zeugnisinhalte
+# Anlage 2 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2229)
 

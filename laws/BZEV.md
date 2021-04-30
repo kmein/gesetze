@@ -1,15 +1,11 @@
-# [BZEV] Verordnung über Erhebungen zum Zustand des Waldbodens  (BZE-Verordnung - BZEV)
-
-Ausfertigungsdatum: 29.06.2020
-
+% Verordnung über Erhebungen zum Zustand des Waldbodens  (BZE-Verordnung - BZEV)
+% Ausfertigungsdatum: 29.06.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 41a Absatz 6 Satz 1 des Bundeswaldgesetzes, der zuletzt durch Artikel 413 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Erhebung der Grunddaten
+# § 1 – Erhebung der Grunddaten
 
 (1) Nachstehende Grunddaten zur Nährstoffversorgung und Schadstoffbelastung der Waldböden sind zu erheben:
 
@@ -33,15 +29,13 @@ Einzelheiten werden in der mit den Ländern abzustimmenden Arbeitsanleitung gere
 
 (2) Die zur Erhebung der Grunddaten erforderlichen Arbeiten im Gelände finden in den Jahren 2022 bis 2024 statt. Die Arbeiten im Gelände müssen am 31. Dezember 2024 abgeschlossen sein.
 
-
-## § 2 – Stichprobenverfahren
+# § 2 – Stichprobenverfahren
 
 (1) Die Grunddaten werden in einem terrestrischen Stichprobenverfahren mit systematischer Stichprobenverteilung über das gesamte Gebiet der Bundesrepublik Deutschland mindestens im 8 x 8 Kilometer-Verband erhoben.
 
 (2) Bei der Erhebung der Grunddaten ist das Stichprobennetz der Bodenzustandserhebung im Wald 2006 bis 2008 beizubehalten und bei Änderungen der Waldfläche entsprechend anzupassen. Die nach Landesrecht zuständige Stelle kann Verdichtungen des Stichprobennetzes vornehmen, soweit sie dies für erforderlich hält.
 
-
-## § 3 – Erhebungsstandards
+# § 3 – Erhebungsstandards
 
 (1) Die zuständigen Stellen des Bundes und der Länder erarbeiten gemeinsam eine Arbeitsanleitung für die Erhebung der Grunddaten. Es ist sicherzustellen, dass die Methoden und Geräte, die bei der Erhebung zum Einsatz kommen, zu vergleichbaren Ergebnissen führen und die Vergleichbarkeit mit den Ergebnissen der Bodenzustandserhebung im Wald 2006 bis 2008 gewährleistet ist. Zulässig sind Erhebungsmethoden und Geräte, bei denen durch Vorstudien oder wissenschaftliche Bewertungen im Zusammenhang mit früheren Erhebungen belegt ist, dass ihre Anwendung zu vergleichbaren Ergebnissen führt.
 
@@ -49,27 +43,22 @@ Einzelheiten werden in der mit den Ländern abzustimmenden Arbeitsanleitung gere
 
 (3) Mit den Analysen des bei der Erhebung gewonnenen Probenmaterials dürfen nur Labore beauftragt werden, die sich durch die Teilnahme an Ringtests für die Durchführung der jeweiligen Analysen qualifiziert haben.
 
-
-## § 4 – Maßnahmen auf militärischen Liegenschaften
+# § 4 – Maßnahmen auf militärischen Liegenschaften
 
 Auf den aktiv durch die Bundeswehr militärisch genutzten Liegenschaften ist vor Beginn von Maßnahmen die Zustimmung der zuständigen Stellen bei der Bundeswehr und der Bundesanstalt für Immobilienaufgaben einzuholen. Bei Maßnahmen auf Liegenschaften, die von Gaststreitkräften genutzt werden, sowie auf ehemals militärisch genutzten Liegenschaften ist vor Beginn der Maßnahmen die Zustimmung der Bundesanstalt für Immobilienaufgaben einzuholen. Die Maßnahmen dürfen die militärische Nutzung nicht einschränken. Militärische Belange können zudem die Anpassung von Maßnahmen erforderlich machen.
 
-
-## § 5 – Datenübermittlung
+# § 5 – Datenübermittlung
 
 Die Länder übermitteln dem Bund die Grunddaten in dem dafür bundeseinheitlich festgelegten Format.
 
-
-## § 6 – Bundesprobenbank
+# § 6 – Bundesprobenbank
 
 Der Bund unterhält eine Bundesprobenbank zur langfristigen Lagerung von Referenzproben von allen Aufnahmeflächen der Bodenzustandserhebung. Die Länder stellen der Bundesprobenbank nach jeder Probennahme entsprechendes Probenmaterial zur Verfügung.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

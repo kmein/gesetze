@@ -1,19 +1,14 @@
-# [KfzVersNATOStatAnO] Anordnung über die statistische Erfassung des Kraftfahrtversicherungsgeschäfts mit NATO-Truppenangehörigen
-
-Ausfertigungsdatum: 18.07.1968
-
+% Anordnung über die statistische Erfassung des Kraftfahrtversicherungsgeschäfts mit NATO-Truppenangehörigen
+% Ausfertigungsdatum: 18.07.1968
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Abschnitts VII Abs. 2 der Anlage 1 (§ 7 Abs. 6) der Verordnung über die Tarife in der Kraftfahrtversicherung vom 20. November 1967 - Beilage zum Bundesanzeiger Nr. 225 vom 1. Dezember 1967 - (Tarifverordnung) wird für besondere Tarife im Sinne des § 29 Absatz 2 Tarifverordnung angeordnet:
 
-
-## Art 1
+# Art 1
 
   
-I.  
-Tarifarten
+I. Tarifarten
 
 Die Übersicht nach Anlage 2 (§ 10 Absatz 2) ist in der Kraftfahrzeug-Haftpflicht-, Fahrzeugvoll- und Fahrzeugteilversicherung nach folgenden Tarifarten zu unterteilen:
 
@@ -163,8 +158,7 @@ IV. Schadenklassen
 
 Das Gefahrenmerkmal der Schadenfreiheit ist in den Übersichten nach Anlage 2 nicht zu berücksichtigen. Ist die Schadenfreiheit ein Merkmal des besonderen Tarifs, ist der Bedarf für die Gewährung des Schadenfreiheits-Rabattes gesondert nachzuweisen.
 
-V.  
-Summenergebnisse
+V. Summenergebnisse
 
 Aus den Zahlenergebnissen für die kleinsten Wagnisgruppen sind folgende Summenergebnisse - sofern sie auf Grund der vorstehenden Bestimmungen Gefahrenmerkmale der einzelnen Tarifarten sind - zu bilden:
 
@@ -210,12 +204,10 @@ Sofern im Tarif eines Versicherungsunternehmens die Gliederung gemäß Anlage 1 
 Art. 1 I. Kursivdruck: Jetzt § 9 V v. 5.12.1984 925-1-4  
 Art. 1 VI. Kursivdruck: Jetzt Anl. 1 Abschn. VI V v. 5.12.1984 925-1-4
 
-
-## Art 2
+# Art 2
 
 Die Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Präsident des Bundesaufsichtsamtes für das Versicherungs- und Bausparwesen

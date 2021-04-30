@@ -1,15 +1,11 @@
-# [FZVAusnV] Verordnung über Ausnahmen von den Vorschriften der Fahrzeug-Zulassungsverordnung  (FZV-Ausnahmeverordnung - FZVAusnV)
-
-Ausfertigungsdatum: 20.08.2020
-
+% Verordnung über Ausnahmen von den Vorschriften der Fahrzeug-Zulassungsverordnung  (FZV-Ausnahmeverordnung - FZVAusnV)
+% Ausfertigungsdatum: 20.08.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in Verbindung mit § 6 Absatz 2 jeweils in Verbindung mit Absatz 3 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 1 Nummer 2 Buchstabe b durch Artikel 1 Nummer 2 Buchstabe a Doppelbuchstabe aa des Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) und § 6 Absatz 2 durch Artikel 325 Nummer 1 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden sind, verordnen das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium des Innern, für Bau und Heimat nach Anhörung der zuständigen obersten Landesbehörden:
 
-
-## § 1 – Versicherungskennzeichen
+# § 1 – Versicherungskennzeichen
 
 (1) Versicherungskennzeichen nach § 26 der Fahrzeug-Zulassungsverordnung dürfen sich abweichend von § 27 der Fahrzeug-Zulassungsverordnung in Verbindung mit Anlage 12 zu § 27 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung aus einer Kennzeichenfolie und der dazugehörigen Trägerplatte zusammensetzen, wenn die Maßgaben der Absätze 2 bis 6 erfüllt sind.
 
@@ -25,20 +21,18 @@ Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe b und Nummer 8 in Verbindung mit 
 
 (7) Im Übrigen bleiben die Regelungsinhalte der Anlage 12 zu § 27 Absatz 1 Satz 5 der Fahrzeug-Zulassungsverordnung unberührt.
 
-
-## § 2 – Inkrafttreten, Außerkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. März 2021 in Kraft. Sie tritt am 29. Februar 2024 außer Kraft.
 
-
-## Anlage – Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
+# Anlage – Kennzeichenfolie auf Trägerplatte als Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge
 
 (Fundstelle: BGBl. I 2020, 1970 - 1971)
 
 1. Schematische Darstellung mit Maßen der Beschriftung
 
-![](../normengrafiken/bgbl1_2020/j1968-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j1968-1_0010.jpg)
 
 2. Schematische Darstellung des Hologramms
 
-![](../normengrafiken/bgbl1_2020/j1968-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j1968-1_0020.jpg)

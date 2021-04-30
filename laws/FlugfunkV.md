@@ -1,15 +1,11 @@
-# [FlugfunkV] Verordnung über Flugfunkzeugnisse  (FlugfunkV)
-
-Ausfertigungsdatum: 20.08.2008
-
+% Verordnung über Flugfunkzeugnisse  (FlugfunkV)
+% Ausfertigungsdatum: 20.08.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Zur Ausübung des Flugfunk- und Flugnavigationsfunkdienstes (Flugfunkdienst) bei Boden- und Luftfunkstellen in der Bundesrepublik Deutschland bedarf es eines gültigen Flugfunkzeugnisses oder einer gleichwertigen Bescheinigung.
 
@@ -31,8 +27,7 @@ Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung der Bekanntma
 
 8. durch Einsatzkräfte der Feuerwehren von Flughafenunternehmen auf Flugplätzen mit Flugverkehrskontrollstelle unter Verwendung der Feuerwehrfrequenz gemäß § 45 Absatz 5 der Luftverkehrs-Zulassungs-Ordnung in der jeweils geltenden Fassung.
 
-
-## § 2 – Arten der Flugfunkzeugnisse
+# § 2 – Arten der Flugfunkzeugnisse
 
 (1) Folgende Flugfunkzeugnisse werden ausgestellt:
 
@@ -66,8 +61,7 @@ Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung der Bekanntma
 
 (4) Für Lizenzscheine nach Artikel 4 Nummer 14 der Verordnung (EU) 2015/340 der Kommission vom 20. Februar 2015 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf Lizenzen und Bescheinigungen von Fluglotsen gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, zur Änderung der Durchführungsverordnung (EU) Nr. 923/2012 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 805/2011 der Kommission (ABl. L 63 vom 6.3.2015, S.1) gilt Absatz 3 entsprechend.
 
-
-## § 3 – Voraussetzungen für den Erwerb von Flugfunkzeugnissen
+# § 3 – Voraussetzungen für den Erwerb von Flugfunkzeugnissen
 
 Voraussetzungen für den Erwerb von Flugfunkzeugnissen sind:
 
@@ -83,20 +77,17 @@ b) des 18. Lebensjahres für das AZF und das AZF E,
 
 4. das Bestehen der vorgeschriebenen Prüfung.
 
-
-## § 4 – Prüfungsbehörde
+# § 4 – Prüfungsbehörde
 
 (1) Prüfungsbehörde ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur). Die für Prüfungen örtlich zuständigen Außenstellen gibt die Bundesnetzagentur in ihrem Amtsblatt bekannt.
 
 (2) Das Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung weitere Behörden als Prüfungsbehörden benennen.
 
-
-## § 5 – Anmeldung zur Prüfung
+# § 5 – Anmeldung zur Prüfung
 
 Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses muss schriftlich unter Angabe der beantragten Zeugnisart spätestens 14 Tage vor dem Prüfungstermin bei der Prüfungsbehörde erfolgen.
 
-
-## § 6 – Zulassung zur Prüfung
+# § 6 – Zulassung zur Prüfung
 
 (1) Über die Zulassung zur Prüfung entscheidet die Prüfungsbehörde. Die Zulassung zur Prüfung erfolgt, wenn
 
@@ -108,15 +99,13 @@ Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses muss sc
 
 (2) Die Prüfungsbehörde kann auf Antrag des Bewerbers auch nach der erfolgten Zulassung nach Absatz 1 die Zulassungsentscheidung auf eine andere Flugfunkzeugnisart ändern. Einzelheiten veröffentlicht die Bundesnetzagentur in ihrem Amtsblatt.
 
-
-## § 7 – Prüfungsausschuss
+# § 7 – Prüfungsausschuss
 
 (1) Der Prüfungsausschuss für die Prüfung zum Erwerb eines Flugfunkzeugnisses besteht aus einem Vorsitzenden und mindestens einem Beisitzer.
 
 (2) Der Präsident der Prüfungsbehörde beruft den Vorsitzenden und die Beisitzer. Die Beisitzer sollen fachkundige Personen, insbesondere aus dem Bereich des Flugsicherungspersonals oder des Luftfahrtpersonals sein.
 
-
-## § 8 – Prüfung
+# § 8 – Prüfung
 
 (1) Die Prüfungsbehörde legt Zeitpunkt und Ort der Prüfung fest und teilt sie dem Bewerber mit. Die Prüfungsbehörde kann Zeitpunkt und Ort der Prüfung auf Antrag des Bewerbers verlegen. Die Prüfung darf frühestens drei Monate vor Erreichen des Mindestalters nach § 3 Nummer 1 abgenommen werden. Einzelheiten veröffentlicht die Bundesnetzagentur in ihrem Amtsblatt.
 
@@ -132,15 +121,13 @@ Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses muss sc
 
 (7) Der Vorsitzende des Prüfungsausschusses kann Personen, die ein berechtigtes Interesse nachweisen, die Anwesenheit bei der Prüfung gestatten.
 
-
-## § 9 – Wiederholungsprüfung
+# § 9 – Wiederholungsprüfung
 
 (1) Hat der Bewerber die Prüfung nicht bestanden, so kann er diese einmal wiederholen. Zu wiederholen sind die Prüfungsteile, in denen der Bewerber nicht bestanden hat. Der früheste Zeitpunkt der Wiederholungsprüfung liegt in der Regel sieben Tage, der späteste Zeitpunkt sechs Monate nach dem Zeitpunkt der nicht bestandenen Prüfung.
 
 (2) Die Anmeldung zur Wiederholungsprüfung muss spätestens innerhalb von drei Monaten nach der Erstprüfung erfolgen. Meldet sich der Bewerber innerhalb dieses Zeitraums nicht an, so erlischt der Anspruch auf Zulassung zur Wiederholungsprüfung. Für die Wiederholungsprüfung sind die Bestimmungen des § 8 entsprechend anzuwenden.
 
-
-## § 10 – Zusatzprüfung
+# § 10 – Zusatzprüfung
 
 (1) Inhaber gültiger Sprechfunkzeugnisse für den Flugfunkdienst können durch eine Zusatzprüfung ein höherwertiges Sprechfunkzeugnis für den Flugfunkdienst erwerben. Die nachzuweisenden Kenntnisse und Fertigkeiten ergeben sich aus der Anlage 1.
 
@@ -148,15 +135,13 @@ Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses muss sc
 
 (3) Hat der Bewerber die Zusatzprüfung nicht bestanden, so kann er diese erneut ablegen.
 
-
-## § 11 – Nachprüfung
+# § 11 – Nachprüfung
 
 (1) Der Inhaber eines gültigen Flugfunkzeugnisses, dessen Betriebsabwicklung mehrfach zu Beanstandungen Anlass gegeben hat oder bei dem Anhaltspunkte dafür vorliegen, dass er nicht mehr zur ordnungsgemäßen Wahrnehmung des Flugfunkdienstes in der Lage ist, hat sich auf Verlangen der Bundesnetzagentur einer Nachprüfung zu unterziehen. Inhalt und Umfang der Nachprüfung werden nach Maßgabe der Anlage 1 im Einzelfall von der Bundesnetzagentur festgelegt.
 
 (2) § 8 gilt entsprechend.
 
-
-## § 12 – Anerkennung von Prüfungen zum Erwerb einer Erlaubnis für Luftfahrzeugführer oder zum Erwerb der Instrumentenflugberechtigung
+# § 12 – Anerkennung von Prüfungen zum Erwerb einer Erlaubnis für Luftfahrzeugführer oder zum Erwerb der Instrumentenflugberechtigung
 
 (1) Prüfungen nach der Verordnung über Luftfahrtpersonal in der Fassung der Bekanntmachung vom 13. Februar 1984 (BGBl. I S. 265), die zuletzt durch Artikel 2 der Verordnung vom 12. Dezember 2016 (BGBl. I S. 2864) geändert worden ist, können als Prüfungen nach § 8 anerkannt werden, wenn die in der Anlage 1 aufgeführten Prüfungsinhalte des praktischen Teils gemäß § 8 Absatz 3 geprüft worden sind. Hierbei entspricht:
 
@@ -168,8 +153,7 @@ Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses muss sc
 
 (2) Das Flugfunkzeugnis wird durch die Bundesnetzagentur ausgestellt und dem Bewerber ausgehändigt. Das Bundesministerium für Verkehr und digitale Infrastruktur kann festlegen, dass die Berechtigung zur Ausübung des Flugfunkdienstes von den zuständigen Luftfahrtbehörden der Länder erteilt und im Luftfahrerschein eingetragen wird.
 
-
-## § 13 – Erwerb von Flugfunkzeugnissen durch Inhaber einer Bescheinigung der Bundeswehr
+# § 13 – Erwerb von Flugfunkzeugnissen durch Inhaber einer Bescheinigung der Bundeswehr
 
 (1) Inhabern einer Bescheinigung der Bundeswehr über den Besitz eines Militärluftfahrzeugführerscheines, Militärluftfahrzeugbesatzungsscheines oder einer Militärischen Lizenz für den Flugverkehrskontrolldienst wird auf Antrag ausgestellt:
 
@@ -181,8 +165,7 @@ Die Anmeldung zu einer Prüfung für den Erwerb eines Flugfunkzeugnisses muss sc
 
 (3) Dem Antrag auf Ausstellen eines Flugfunkzeugnisses ist unter Angabe der beantragten Zeugnisart die Bescheinigung der Bundeswehr nach Absatz 1 beizufügen.
 
-
-## § 13a – Erwerb von Flugfunkzeugnissen durch Inhaber von Lizenzscheinen für den Flugverkehrskontrolldienst
+# § 13a – Erwerb von Flugfunkzeugnissen durch Inhaber von Lizenzscheinen für den Flugverkehrskontrolldienst
 
 (1) Inhabern von Lizenzscheinen nach Artikel 4 Nummer 14 der Verordnung (EU) Nr. 2015/340 wird auf Antrag ausgestellt:
 
@@ -200,8 +183,7 @@ und die Ausbildungsorganisation bestätigt, dass der Lizenzinhaber über die in 
 
 (3) Dem Antrag auf Ausstellen eines Flugfunkzeugnisses ist unter Angabe der beantragten Zeugnisart der vom Bundesaufsichtsamt für Flugsicherung ausgestellte Lizenzschein und die Bestätigung der Ausbildungsorganisation beizufügen.
 
-
-## § 14 – Anerkennung von Flugfunkzeugnissen
+# § 14 – Anerkennung von Flugfunkzeugnissen
 
 (1) Nicht im Geltungsbereich dieser Verordnung erteilte Flugfunkzeugnisse können anerkannt werden. Voraussetzung ist, dass das gültige Flugfunkzeugnis unter Prüfungsbedingungen erworben wurde, die denen eines entsprechenden Flugfunkzeugnisses der Bundesrepublik Deutschland mindestens gleichwertig sind. Gleichwertigkeit und Anerkennung von gültigen Flugfunkzeugnissen, die nicht im Geltungsbereich dieser Verordnung erteilt worden sind, werden bei der Bundesnetzagentur geprüft und festgelegt. Die allgemeine Anerkennung kann mit der Maßgabe erfolgen, dass die Inhaber von gültigen Flugfunkzeugnissen, die nicht im Geltungsbereich dieser Verordnung erteilt worden sind, nur zur Ausübung des Flugfunkdienstes in englischer Sprache berechtigt sind. Die Anerkennung kann formlos erfolgen. Die Anerkennung im Einzelfall richtet sich nach den Absätzen 2 bis 6.
 
@@ -215,8 +197,7 @@ und die Ausbildungsorganisation bestätigt, dass der Lizenzinhaber über die in 
 
 (6) Gültige Flugfunkzeugnisse, die von einem Mitgliedstaat der Europäischen Union erteilt worden sind und zur Ausübung des Sprechfunks in englischer Sprache berechtigen, werden in dem vom jeweiligen Mitgliedstaat festgelegten Umfang allgemein und formlos anerkannt.
 
-
-## § 15 – Prüfung von Kenntnissen der englischen Sprache
+# § 15 – Prüfung von Kenntnissen der englischen Sprache
 
 (1) Bei der Prüfungsbehörde können auch die Sprachprüfung und die Verlängerungsprüfung nach § 125 der Verordnung über Luftfahrtpersonal durchgeführt werden. Die Sprachprüfung kann organisatorisch mit der Prüfung zum Erwerb von Flugfunkzeugnissen nach dieser Verordnung verbunden werden. Die §§ 5, 6 Nummer 2 und 3, § 8 Absatz 1, 2, 4, 5 und 7, die §§ 19 und 20 sind entsprechend anzuwenden. Die Sprachprüfung kann wiederholt abgelegt werden.
 
@@ -236,13 +217,11 @@ und die Ausbildungsorganisation bestätigt, dass der Lizenzinhaber über die in 
 
 Die Festlegungen werden im Amtsblatt der Bundesnetzagentur veröffentlicht.
 
-
-## § 16 – Zweitschriften
+# § 16 – Zweitschriften
 
 Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust geratenen Berechtigungsausweis oder für eine in Verlust geratene Bescheinigung der Sprachprüfung kann eine Zweitschrift ausgestellt werden. Dasselbe gilt, wenn das Zeugnis, der Berechtigungsausweis oder die Bescheinigung der Sprachprüfung unbrauchbar geworden ist. Im Fall der Unbrauchbarkeit ist die Urschrift vor dem Ausstellen der Zweitschrift zurückzugeben.
 
-
-## § 17 – Entziehung eines Flugfunkzeugnisses
+# § 17 – Entziehung eines Flugfunkzeugnisses
 
 (1) Die Bundesnetzagentur kann ein Flugfunkzeugnis entziehen, wenn der Inhaber
 
@@ -256,8 +235,7 @@ Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust geratenen B
 
 (4) Für den Berechtigungsausweis nach § 14 Absatz 3 sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
-
-## § 18 – Gebühren und Auslagen
+# § 18 – Gebühren und Auslagen
 
 (1) Die für Amtshandlungen nach dieser Verordnung zu erhebenden Gebühren bestimmen sich nach dem Gebührenverzeichnis in Anlage 2. Neben den ausgewiesenen Gebührensätzen werden Auslagen nach Maßgabe des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gesondert erhoben.
 
@@ -267,13 +245,11 @@ Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust geratenen B
 
 (4) (weggefallen)
 
-
-## § 19 – Zurückziehen einer Anmeldung zur Prüfung
+# § 19 – Zurückziehen einer Anmeldung zur Prüfung
 
 Zieht der Bewerber seine Anmeldung nach der Zulassung zur Prüfung zurück, so ermäßigt sich die vorgesehene Prüfungsgebühr um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit entspricht.
 
-
-## § 20 – Übergangsbestimmungen
+# § 20 – Übergangsbestimmungen
 
 Die nach dem 30. April 1955, jedoch vor dem 16. Mai 1968 von der Deutschen Bundespost ausgestellten Flugfunkzeugnisse sowie die von der Bundesanstalt für Flugsicherung erteilten Zulassungsscheine für den Sprechfunkdienst werden auf Antrag in neue Flugfunkzeugnisse nach § 2 umgetauscht. Hierbei entsprechen
 
@@ -285,15 +261,13 @@ Die nach dem 30. April 1955, jedoch vor dem 16. Mai 1968 von der Deutschen Bunde
 
 Der Antrag ist an eine Außenstelle der Bundesnetzagentur zu richten.
 
-
-## § 21 – Inkrafttreten, Außerkrafttreten
+# § 21 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 30. August 2008 in Kraft, soweit im folgenden Absatz nichts Abweichendes bestimmt ist.
 
 (2) § 15 tritt am 29. November 2008 in Kraft.
 
-
-## Anlage 1 – (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
+# Anlage 1 – (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
 
 (Fundstelle: BGBl. I 2012, 186 - 187)
 
@@ -452,8 +426,7 @@ Kenntnisse gemäß 4.1
 5.2  
 Fertigkeiten gemäß 4.2.1 und 4.2.2
 
-
-## Anlage 2 – (zu § 18)Gebührenverzeichnis
+# Anlage 2 – (zu § 18)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 188)
 

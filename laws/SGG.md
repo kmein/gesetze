@@ -1,10 +1,7 @@
-# [SGG] Sozialgerichtsgesetz  (SGG)
-
-Ausfertigungsdatum: 03.09.1953
-
+% Sozialgerichtsgesetz  (SGG)
+% Ausfertigungsdatum: 03.09.1953
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -180,28 +177,23 @@ Dritter Teil
 
 §§ 202 bis 219
 
-
-## § 1
+# § 1
 
 Die Sozialgerichtsbarkeit wird durch unabhängige, von den Verwaltungsbehörden getrennte, besondere Verwaltungsgerichte ausgeübt.
 
-
-## § 2
+# § 2
 
 Als Gerichte der Sozialgerichtsbarkeit werden in den Ländern Sozialgerichte und Landessozialgerichte, im Bund das Bundessozialgericht errichtet.
 
-
-## § 3
+# § 3
 
 Die Gerichte der Sozialgerichtsbarkeit werden mit Berufsrichtern und ehrenamtlichen Richtern besetzt.
 
-
-## § 4
+# § 4
 
 Bei jedem Gericht wird eine Geschäftsstelle eingerichtet, die mit der erforderlichen Zahl von Urkundsbeamten besetzt wird. Das Nähere bestimmen für das Bundessozialgericht das Bundesministerium für Arbeit und Soziales, für die Sozialgerichte und Landessozialgerichte die nach Landesrecht zuständigen Stellen.
 
-
-## § 5
+# § 5
 
 (1) Alle Gerichte, Verwaltungsbehörden und Organe der Versicherungsträger leisten den Gerichten der Sozialgerichtsbarkeit Rechts- und Amtshilfe.
 
@@ -209,8 +201,7 @@ Bei jedem Gericht wird eine Geschäftsstelle eingerichtet, die mit der erforderl
 
 (3) Die §§ 158 bis 160, 164 bis 166, 168 des Gerichtsverfassungsgesetzes gelten entsprechend.
 
-
-## § 6
+# § 6
 
 Für die Gerichte der Sozialgerichtsbarkeit gelten die Vorschriften des Zweiten Titels des Gerichtsverfassungsgesetzes nach Maßgabe der folgenden Vorschriften entsprechend:
 
@@ -218,8 +209,7 @@ Für die Gerichte der Sozialgerichtsbarkeit gelten die Vorschriften des Zweiten 
 
 2. Den Vorsitz in den Kammern der Sozialgerichte führen die Berufsrichter.
 
-
-## § 7
+# § 7
 
 (1) Die Sozialgerichte werden als Landesgerichte errichtet. Die Errichtung und Aufhebung eines Gerichts und die Verlegung eines Gerichtssitzes werden durch Gesetz angeordnet. Änderungen in der Abgrenzung der Gerichtsbezirke können auch durch Rechtsverordnung bestimmt werden. Die Landesregierung oder die von ihr beauftragte Stelle kann anordnen, daß außerhalb des Sitzes eines Sozialgerichts Zweigstellen errichtet werden.
 
@@ -227,20 +217,17 @@ Für die Gerichte der Sozialgerichtsbarkeit gelten die Vorschriften des Zweiten 
 
 (3) Wird ein Sozialgericht aufgehoben oder wird die Abgrenzung der Gerichtsbezirke geändert, so kann durch Landesgesetz bestimmt werden, daß die bei dem aufgehobenen Gericht oder bei dem von der Änderung in der Abgrenzung der Gerichtsbezirke betroffenen Gericht rechtshängigen Streitsachen auf ein anderes Sozialgericht übergehen.
 
-
-## § 8
+# § 8
 
 Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist, im ersten Rechtszug über alle Streitigkeiten, für die der Rechtsweg vor den Gerichten der Sozialgerichtsbarkeit offensteht.
 
-
-## § 9
+# § 9
 
 (1) Das Sozialgericht besteht aus der erforderlichen Zahl von Berufsrichtern als Vorsitzenden und aus den ehrenamtlichen Richtern.
 
 (2) Die für die allgemeine Dienstaufsicht und die sonstigen Geschäfte der Gerichtsverwaltung zuständige Stelle wird durch Landesrecht bestimmt.
 
-
-## § 10
+# § 10
 
 (1) Bei den Sozialgerichten werden Kammern für Angelegenheiten der Sozialversicherung, der Arbeitsförderung einschließlich der übrigen Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für Angelegenheiten des sozialen Entschädigungsrechts (Recht der sozialen Entschädigung bei Gesundheitsschäden) und des Schwerbehindertenrechts gebildet. Für Angelegenheiten der Knappschaftsversicherung einschließlich der Unfallversicherung für den Bergbau können eigene Kammern gebildet werden.
 
@@ -254,8 +241,7 @@ Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist,
 
 (3) Der Bezirk einer Kammer kann auf Bezirke anderer Sozialgerichte erstreckt werden. Die beteiligten Länder können die Ausdehnung des Bezirks einer Kammer auf das Gebiet oder Gebietsteile mehrerer Länder vereinbaren.
 
-
-## § 11
+# § 11
 
 (1) Die Berufsrichter werden nach Maßgabe des Landesrechts nach Beratung mit einem für den Bezirk des Landessozialgerichts zu bildenden Ausschuss auf Lebenszeit ernannt.
 
@@ -265,8 +251,7 @@ Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist,
 
 (4) Bei dem Sozialgericht und bei dem Landessozialgericht können auf Lebenszeit ernannte Richter anderer Gerichte und Rechtslehrer an einer staatlichen oder staatlich anerkannten Hochschule für eine bestimmte Zeit von mindestens zwei Jahren, längstens jedoch für die Dauer ihres Hauptamts, zu Richtern im Nebenamt ernannt werden.
 
-
-## § 12
+# § 12
 
 (1) Jede Kammer des Sozialgerichts wird in der Besetzung mit einem Vorsitzenden und zwei ehrenamtlichen Richtern als Beisitzern tätig. Bei Beschlüssen außerhalb der mündlichen Verhandlung und bei Gerichtsbescheiden wirken die ehrenamtlichen Richter nicht mit.
 
@@ -278,8 +263,7 @@ Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist,
 
 (5) In den Kammern für Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes wirken ehrenamtliche Richter aus den Vorschlagslisten der Kreise und der kreisfreien Städte mit.
 
-
-## § 13
+# § 13
 
 (1) Die ehrenamtlichen Richter werden von der nach Landesrecht zuständigen Stelle aufgrund von Vorschlagslisten (§ 14) für fünf Jahre berufen; sie sind in angemessenem Verhältnis unter billiger Berücksichtigung der Minderheiten aus den Vorschlagslisten zu entnehmen. Die zuständige Stelle kann eine Ergänzung der Vorschlagslisten verlangen.
 
@@ -293,8 +277,7 @@ Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist,
 
 (6) Die ehrenamtlichen Richter für die Kammern für Angelegenheiten des sozialen Entschädigungsrechts und des Schwerbehindertenrechts sind in angemessenem Verhältnis zu der Zahl der von den Vorschlagsberechtigten vertretenen Versorgungsberechtigten, behinderten Menschen im Sinne des Neunten Buches Sozialgesetzbuch und Versicherten zu berufen.
 
-
-## § 14
+# § 14
 
 (1) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den Kammern für Angelegenheiten der Sozialversicherung, der Grundsicherung für Arbeitsuchende einschließlich der Streitigkeiten auf Grund des § 6a des Bundeskindergeldgesetzes und der Arbeitsförderung mitwirken, werden aus dem Kreis der Versicherten und aus dem Kreis der Arbeitgeber aufgestellt. Gewerkschaften, selbständige Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung und die in Absatz 3 Satz 2 genannten Vereinigungen stellen die Vorschlagslisten für ehrenamtliche Richter aus dem Kreis der Versicherten auf. Vereinigungen von Arbeitgebern und die in § 16 Absatz 4 Nummer 3 bezeichneten obersten Bundes- oder Landesbehörden stellen die Vorschlagslisten aus dem Kreis der Arbeitgeber auf.
 
@@ -304,15 +287,13 @@ Die Sozialgerichte entscheiden, soweit durch Gesetz nichts anderes bestimmt ist,
 
 (4) Die Vorschlagslisten für die ehrenamtlichen Richter, die in den Kammern für Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes mitwirken, werden von den Kreisen und den kreisfreien Städten aufgestellt.
 
-§ 14 Abs. 3 Satz 1 idF d. Bek. v. 23.9.1975 I 2535: Nordrhein-Westfalen - Abweichung durch [§ 115 des Gesetzes über die Justiz im Land Nordrhein-Westfalen (JustG NRW)](../abweichendes_Landesrecht/justizg_nw__115.html "Anzeige in neuem Fenster") v. 26.1.2010 (GV. NRW. S. 30) mWv 1.1.2011 (vgl. BGBl. I 2017, 3902)
+§ 14 Abs. 3 Satz 1 idF d. Bek. v. 23.9.1975 I 2535: Nordrhein-Westfalen - Abweichung durch [§ 115 des Gesetzes über die Justiz im Land Nordrhein-Westfalen (JustG NRW)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/justizg_nw__115.html "Anzeige in neuem Fenster") v. 26.1.2010 (GV. NRW. S. 30) mWv 1.1.2011 (vgl. BGBl. I 2017, 3902)
 
-
-## § 15
+# § 15
 
 (weggefallen)
 
-
-## § 16
+# § 16
 
 (1) Das Amt des ehrenamtlichen Richters am Sozialgericht kann nur ausüben, wer Deutscher ist und das fünfundzwanzigste Lebensjahr vollendet hat.
 
@@ -338,8 +319,7 @@ Ehrenamtlicher Richter aus den Kreisen der Arbeitgeber kann auch sein, wer in ei
 
 (6) Die ehrenamtlichen Richter sollen im Bezirk des Sozialgerichts wohnen oder ihren Betriebssitz haben oder beschäftigt sein.
 
-
-## § 17
+# § 17
 
 (1) Vom Amt des ehrenamtlichen Richters am Sozialgericht ist ausgeschlossen,
 
@@ -359,8 +339,7 @@ Personen, die in Vermögensverfall geraten sind, sollen nicht zu ehrenamtlichen 
 
 (5) Das Amt des ehrenamtlichen Richters am Sozialgericht, der zum ehrenamtlichen Richter in einem höheren Rechtszug der Sozialgerichtsbarkeit berufen wird, endet mit der Berufung in das andere Amt.
 
-
-## § 18
+# § 18
 
 (1) Die Übernahme des Amtes als ehrenamtlicher Richter kann nur ablehnen,
 
@@ -380,27 +359,23 @@ Personen, die in Vermögensverfall geraten sind, sollen nicht zu ehrenamtlichen 
 
 (4) Über die Berechtigung zur Ablehnung des Amtes oder über die Entlassung aus dem Amt entscheidet die vom Präsidium für jedes Geschäftsjahr im voraus bestimmte Kammer endgültig.
 
-
-## § 19
+# § 19
 
 (1) Der ehrenamtliche Richter übt sein Amt mit gleichen Rechten wie der Berufsrichter aus.
 
 (2) Die ehrenamtlichen Richter erhalten eine Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 20
+# § 20
 
 (1) Der ehrenamtliche Richter darf in der Übernahme oder Ausübung des Amtes nicht beschränkt oder wegen der Übernahme oder Ausübung des Amtes nicht benachteiligt werden.
 
 (2) Wer einen anderen in der Übernahme oder Ausübung seines Amtes als ehrenamtlicher Richter beschränkt oder wegen der Übernahme oder Ausübung des Amtes benachteiligt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 21
+# § 21
 
 Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung seiner Pflichten entzieht, insbesondere ohne genügende Entschuldigung nicht oder nicht rechtzeitig zu den Sitzungen erscheint, durch Beschluß ein Ordnungsgeld festsetzen und ihm die durch sein Verhalten verursachten Kosten auferlegen. Bei nachträglicher genügender Entschuldigung ist der Beschluß aufzuheben oder zu ändern. Gegen den Beschluß ist Beschwerde zulässig. Über die Beschwerde entscheidet die durch das Präsidium für jedes Geschäftsjahr im voraus bestimmte Kammer des Sozialgerichts endgültig. Vor der Entscheidung ist der ehrenamtliche Richter zu hören.
 
-
-## § 22
+# § 22
 
 (1) Der ehrenamtliche Richter ist von seinem Amt zu entbinden, wenn das Berufungsverfahren fehlerhaft war, wenn das Fehlen einer Voraussetzung für seine Berufung oder der Eintritt eines Ausschließungsgrundes bekannt wird oder wenn er die zur Ausübung seines Amtes erforderlichen geistigen oder körperlichen Fähigkeiten nicht mehr besitzt. Er ist seines Amtes zu entheben, wenn er seine Amtspflichten grob verletzt. Wenn eine Voraussetzung für seine Berufung im Laufe seiner Amtszeit wegfällt, ist er nicht von seinem Amt zu entbinden, es sei denn, eine paritätische Besetzung nach § 12 Absatz 2 bis 4 kann anderenfalls nicht gewährleistet werden; Satz 1 und 2 sowie § 18 Absatz 3 Satz 2 bleiben unberührt. Soweit die Voraussetzungen für eine Amtsentbindung vorliegen, liegt in ihrer Nichtdurchführung kein die Zurückverweisung oder Revision begründender Verfahrensmangel.
 
@@ -408,18 +383,15 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 (3) Die nach Absatz 2 Satz 1 zuständige Kammer kann anordnen, dass der ehrenamtliche Richter bis zur Entscheidung über die Amtsentbindung oder Amtsenthebung nicht heranzuziehen ist. Die Anordnung ist unanfechtbar.
 
-
-## § 23
+# § 23
 
 (1) Bei jedem Sozialgericht wird ein Ausschuss der ehrenamtlichen Richter gebildet. Die Kreise der ehrenamtlichen Richter, die in den bei dem Sozialgericht gebildeten Fachkammern vertreten sind, wählen jeweils aus ihrer Mitte ein Mitglied in den Ausschuss. Das Wahlverfahren legt der bestehende Ausschuss fest. Der Ausschuss tagt unter der Leitung des aufsichtführenden oder, wenn ein solcher nicht vorhanden oder verhindert ist, des dienstältesten Vorsitzenden des Sozialgerichts.
 
 (2) Der Ausschuss ist vor der Bildung von Kammern, vor der Geschäftsverteilung, vor der Verteilung der ehrenamtlichen Richter auf die Kammern und vor Aufstellung der Listen über die Heranziehung der ehrenamtlichen Richter zu den Sitzungen mündlich, schriftlich oder elektronisch zu hören. Er kann dem Vorsitzenden des Sozialgerichts und den die Verwaltung und Dienstaufsicht führenden Stellen Wünsche der ehrenamtlichen Richter übermitteln.
 
+# §§ 24 bis 26 – (weggefallen)
 
-## §§ 24 bis 26 – (weggefallen)
-
-
-## § 27
+# § 27
 
 (1) (weggefallen)
 
@@ -427,15 +399,13 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 (3) Wenn die Vertretung eines Vorsitzenden nicht durch einen Berufsrichter desselben Gerichts möglich ist, wird sie auf Antrag des Präsidiums durch die Landesregierung oder die von ihr beauftragte Stelle geregelt.
 
-
-## § 28
+# § 28
 
 (1) Die Landessozialgerichte werden als Landesgerichte errichtet. Die Errichtung und Aufhebung eines Gerichts und die Verlegung eines Gerichtssitzes werden durch Gesetz angeordnet. Änderungen in der Abgrenzung der Gerichtsbezirke können auch durch Rechtsverordnung bestimmt werden. Die Landesregierung oder die von ihr beauftragte Stelle kann anordnen, daß außerhalb des Sitzes des Landessozialgerichts Zweigstellen errichtet werden.
 
 (2) Mehrere Länder können ein gemeinsames Landessozialgericht errichten.
 
-
-## § 29
+# § 29
 
 (1) Die Landessozialgerichte entscheiden im zweiten Rechtszug über die Berufung gegen die Urteile und die Beschwerden gegen andere Entscheidungen der Sozialgerichte.
 
@@ -473,15 +443,13 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 (5) (weggefallen)
 
-
-## § 30
+# § 30
 
 (1) Das Landessozialgericht besteht aus dem Präsidenten, den Vorsitzenden Richtern, weiteren Berufsrichtern und den ehrenamtlichen Richtern.
 
 (2) Die für die allgemeine Dienstaufsicht und die sonstigen Geschäfte der Gerichtsverwaltung zuständige Stelle wird durch Landesrecht bestimmt.
 
-
-## § 31
+# § 31
 
 (1) Bei den Landessozialgerichten werden Senate für Angelegenheiten der Sozialversicherung, der Arbeitsförderung einschließlich der übrigen Aufgaben der Bundesagentur für Arbeit, für Angelegenheiten der Grundsicherung für Arbeitsuchende, für Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes sowie für Angelegenheiten des sozialen Entschädigungsrechts und des Schwerbehindertenrechts gebildet. Für Angelegenheiten der Knappschaftsversicherung einschließlich der Unfallversicherung für den Bergbau sowie für Verfahren wegen eines überlangen Gerichtsverfahrens (§ 202 Satz 2) kann jeweils ein eigener Senat gebildet werden.
 
@@ -489,37 +457,31 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 (3) Die beteiligten Länder können die Ausdehnung des Bezirks eines Senats auf das Gebiet oder auf Gebietsteile mehrerer Länder vereinbaren.
 
-
-## § 32
+# § 32
 
 (1) Die Berufsrichter werden von der nach Landesrecht zuständigen Stelle auf Lebenszeit ernannt.
 
 (2) (weggefallen)
 
-
-## § 33
+# § 33
 
 (1) Jeder Senat wird in der Besetzung mit einem Vorsitzenden, zwei weiteren Berufsrichtern und zwei ehrenamtlichen Richtern tätig. § 12 Abs. 1 Satz 2, Abs. 2 bis 5 gilt entsprechend.
 
 (2) In Senaten, die in Verfahren wegen eines überlangen Gerichtsverfahrens (§ 202 Satz 2) entscheiden, wirken die für Angelegenheiten der Sozialversicherung berufenen ehrenamtlichen Richter mit.
 
-
-## § 34
+# § 34
 
 (weggefallen)
 
-
-## § 35
+# § 35
 
 (1) Die ehrenamtlichen Richter beim Landessozialgericht müssen das dreißigste Lebensjahr vollendet haben; sie sollen mindestens fünf Jahre ehrenamtliche Richter bei einem Sozialgericht gewesen sein. Im übrigen gelten die §§ 13 bis 23.
 
 (2) In den Fällen des § 18 Abs. 4, der §§ 21 und 22 Abs. 2 entscheidet der vom Präsidium für jedes Geschäftsjahr im voraus bestimmte Senat.
 
+# §§ 36 und 37 – (weggefallen)
 
-## §§ 36 und 37 – (weggefallen)
-
-
-## § 38
+# § 38
 
 (1) Das Bundessozialgericht hat seinen Sitz in Kassel.
 
@@ -527,20 +489,17 @@ Der Vorsitzende kann gegen einen ehrenamtlichen Richter, der sich der Erfüllung
 
 (3) Das Bundesministerium für Arbeit und Soziales führt die allgemeine Dienstaufsicht und die sonstigen Geschäfte der Gerichtsverwaltung. Es kann die allgemeine Dienstaufsicht und die sonstigen Geschäfte der Gerichtsverwaltung auf den Präsidenten des Bundessozialgerichts übertragen.
 
-
-## § 39
+# § 39
 
 (1) Das Bundessozialgericht entscheidet über das Rechtsmittel der Revision.
 
 (2) Das Bundessozialgericht entscheidet im ersten und letzten Rechtszug über Streitigkeiten nicht verfassungsrechtlicher Art zwischen dem Bund und den Ländern sowie zwischen verschiedenen Ländern in Angelegenheiten des § 51. Hält das Bundessozialgericht in diesen Fällen eine Streitigkeit für verfassungsrechtlich, so legt es die Sache dem Bundesverfassungsgericht zur Entscheidung vor. Das Bundesverfassungsgericht entscheidet mit bindender Wirkung.
 
-
-## § 40
+# § 40
 
 Für die Bildung und Besetzung der Senate gelten § 31 Abs. 1 und § 33 entsprechend. Für Angelegenheiten des Vertragsarztrechts ist mindestens ein Senat zu bilden. In den Senaten für Angelegenheiten des § 51 Abs. 1 Nr. 6a wirken ehrenamtliche Richter aus der Vorschlagsliste der Bundesvereinigung der kommunalen Spitzenverbände mit.
 
-
-## § 41
+# § 41
 
 (1) Bei dem Bundessozialgericht wird ein Großer Senat gebildet.
 
@@ -556,23 +515,19 @@ Für die Bildung und Besetzung der Senate gelten § 31 Abs. 1 und § 33 entsprec
 
 (7) Der Große Senat entscheidet nur über die Rechtsfrage. Er kann ohne mündliche Verhandlung entscheiden. Seine Entscheidung ist in der vorliegenden Sache für den erkennenden Senat bindend.
 
-
-## § 42
-
-\-
-
-
-## § 43
+# § 42
 
 \-
 
-
-## § 44
+# § 43
 
 \-
 
+# § 44
 
-## § 45
+\-
+
+# § 45
 
 (1) Das Bundesministerium für Arbeit und Soziales bestimmt nach Anhörung des Präsidenten des Bundessozialgerichts die Zahl der für die einzelnen Zweige der Sozialgerichtsbarkeit zu berufenden ehrenamtlichen Richter.
 
@@ -580,8 +535,7 @@ Für die Bildung und Besetzung der Senate gelten § 31 Abs. 1 und § 33 entsprec
 
 (3) Die ehrenamtlichen Richter bleiben nach Ablauf ihrer Amtszeit im Amt, bis ihre Nachfolger berufen sind. Erneute Berufung ist zulässig.
 
-
-## § 46
+# § 46
 
 (1) Die Vorschlagslisten für die ehrenamtlichen Richter in den Senaten für Angelegenheiten der Sozialversicherung und der Arbeitsförderung sowie der Grundsicherung für Arbeitsuchende werden von den in § 14 Abs. 1 aufgeführten Organisationen und Behörden aufgestellt.
 
@@ -591,21 +545,17 @@ Für die Bildung und Besetzung der Senate gelten § 31 Abs. 1 und § 33 entsprec
 
 (4) Die ehrenamtlichen Richter für die Senate für Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes werden auf Vorschlag der Bundesvereinigung der kommunalen Spitzenverbände berufen.
 
-
-## § 47
+# § 47
 
 Die ehrenamtlichen Richter am Bundessozialgericht müssen das fünfunddreißigste Lebensjahr vollendet haben; sie sollen mindestens fünf Jahre ehrenamtliche Richter an einem Sozialgericht oder Landessozialgericht gewesen sein. Im übrigen gelten die §§ 16 bis 23 entsprechend mit der Maßgabe, daß in den Fällen des § 18 Abs. 4, der §§ 21 und 22 Abs. 2 der vom Präsidium für jedes Geschäftsjahr im voraus bestimmte Senat des Bundessozialgerichts entscheidet.
 
+# §§ 48 und 49 – (weggefallen)
 
-## §§ 48 und 49 – (weggefallen)
-
-
-## § 50
+# § 50
 
 Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die das Präsidium unter Zuziehung der beiden der Geburt nach ältesten ehrenamtlichen Richter beschließt.
 
-
-## § 51
+# § 51
 
 (1) Die Gerichte der Sozialgerichtsbarkeit entscheiden über öffentlich-rechtliche Streitigkeiten
 
@@ -617,15 +567,13 @@ Der Geschäftsgang wird durch eine Geschäftsordnung geregelt, die das Präsidiu
 
 4. in Angelegenheiten der Arbeitsförderung einschließlich der übrigen Aufgaben der Bundesagentur für Arbeit,
 
-4a.  
-in Angelegenheiten der Grundsicherung für Arbeitsuchende,
+4a. in Angelegenheiten der Grundsicherung für Arbeitsuchende,
 
 5. in sonstigen Angelegenheiten der Sozialversicherung,
 
 6. in Angelegenheiten des sozialen Entschädigungsrechts mit Ausnahme der Streitigkeiten aufgrund der §§ 25 bis 27j des Bundesversorgungsgesetzes (Kriegsopferfürsorge), auch soweit andere Gesetze die entsprechende Anwendung dieser Vorschriften vorsehen,
 
-6a.  
-in Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes,
+6a. in Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil 2 des Neunten Buches Sozialgesetzbuch und des Asylbewerberleistungsgesetzes,
 
 7. bei der Feststellung von Behinderungen und ihrem Grad sowie weiterer gesundheitlicher Merkmale, ferner der Ausstellung, Verlängerung, Berichtigung und Einziehung von Ausweisen nach § 152 des Neunten Buches Sozialgesetzbuch,
 
@@ -639,18 +587,15 @@ in Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil
 
 (3) Von der Zuständigkeit der Gerichte der Sozialgerichtsbarkeit nach den Absätzen 1 und 2 ausgenommen sind Streitigkeiten in Verfahren nach dem Gesetz gegen Wettbewerbsbeschränkungen, die Rechtsbeziehungen nach § 69 des Fünften Buches Sozialgesetzbuch betreffen.
 
-
-## § 52
+# § 52
 
 (weggefallen)
 
-
-## § 53
+# § 53
 
 (aufgehoben)
 
-
-## § 54
+# § 54
 
 (1) Durch Klage kann die Aufhebung eines Verwaltungsakts oder seine Abänderung sowie die Verurteilung zum Erlaß eines abgelehnten oder unterlassenen Verwaltungsakts begehrt werden. Soweit gesetzlich nichts anderes bestimmt ist, ist die Klage zulässig, wenn der Kläger behauptet, durch den Verwaltungsakt oder durch die Ablehnung oder Unterlassung eines Verwaltungsakts beschwert zu sein.
 
@@ -662,8 +607,7 @@ in Angelegenheiten der Sozialhilfe einschließlich der Angelegenheiten nach Teil
 
 (5) Mit der Klage kann die Verurteilung zu einer Leistung, auf die ein Rechtsanspruch besteht, auch dann begehrt werden, wenn ein Verwaltungsakt nicht zu ergehen hatte.
 
-
-## § 55
+# § 55
 
 (1) Mit der Klage kann begehrt werden
 
@@ -679,8 +623,7 @@ wenn der Kläger ein berechtigtes Interesse an der baldigen Feststellung hat.
 
 (2) Unter Absatz 1 Nr. 1 fällt auch die Feststellung, in welchem Umfang Beiträge zu berechnen oder anzurechnen sind.
 
-
-## § 55a
+# § 55a
 
 (1) Auf Antrag ist über die Gültigkeit von Satzungen oder anderen im Rang unter einem Landesgesetz stehenden Rechtsvorschriften, die nach § 22a Absatz 1 des Zweiten Buches Sozialgesetzbuch und dem dazu ergangenen Landesgesetz erlassen worden sind, zu entscheiden.
 
@@ -694,18 +637,15 @@ wenn der Kläger ein berechtigtes Interesse an der baldigen Feststellung hat.
 
 (6) Das Landessozialgericht kann auf Antrag eine einstweilige Anordnung erlassen, wenn dies zur Abwehr schwerer Nachteile oder aus anderen wichtigen Gründen dringend geboten ist.
 
-
-## § 56
+# § 56
 
 Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
-
-## § 56a
+# § 56a
 
 Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur gleichzeitig mit den gegen die Sachentscheidung zulässigen Rechtsbehelfen geltend gemacht werden. Dies gilt nicht, wenn behördliche Verfahrenshandlungen vollstreckt werden können oder gegen einen Nichtbeteiligten ergehen.
 
-
-## § 57
+# § 57
 
 (1) Örtlich zuständig ist das Sozialgericht, in dessen Bezirk der Kläger zur Zeit der Klageerhebung seinen Sitz oder Wohnsitz oder in Ermangelung dessen seinen Aufenthaltsort hat; steht er in einem Beschäftigungsverhältnis, so kann er auch vor dem für den Beschäftigungsort zuständigen Sozialgericht klagen. Klagt eine Körperschaft oder Anstalt des öffentlichen Rechts, in Angelegenheiten nach dem Elften Buch Sozialgesetzbuch ein Unternehmen der privaten Pflegeversicherung oder in Angelegenheiten des sozialen Entschädigungsrechts oder des Schwerbehindertenrechts ein Land, so ist der Sitz oder Wohnsitz oder Aufenthaltsort des Beklagten maßgebend, wenn dieser eine natürliche Person oder eine juristische Person des Privatrechts ist.
 
@@ -721,8 +661,7 @@ Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur gleichzeitig m
 
 (7) In Angelegenheiten nach § 7a des Vierten Buches Sozialgesetzbuch ist das Sozialgericht örtlich zuständig, in dessen Bezirk der Auftraggeber seinen Sitz oder in Ermangelung dessen seinen Wohnsitz hat. Hat dieser seinen Sitz oder in Ermangelung dessen seinen Wohnsitz im Ausland, ist das Sozialgericht örtlich zuständig, in dessen Bezirk der Auftragnehmer seinen Wohnsitz oder in Ermangelung dessen seinen Aufenthaltsort hat.
 
-
-## § 57a
+# § 57a
 
 (1) In Vertragsarztangelegenheiten der gesetzlichen Krankenversicherung ist, wenn es sich um Fragen der Zulassung oder Ermächtigung nach Vertragsarztrecht handelt, das Sozialgericht zuständig, in dessen Bezirk der Vertragsarzt, der Vertragszahnarzt oder der Psychotherapeut seinen Sitz hat.
 
@@ -732,13 +671,11 @@ Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur gleichzeitig m
 
 (4) Sind Entscheidungen oder Verträge auf Bundesebene Streitgegenstand des Verfahrens, ist das Sozialgericht zuständig, in dessen Bezirk die Kassenärztliche Bundesvereinigung oder die Kassenzahnärztliche Bundesvereinigung ihren Sitz hat.
 
-
-## § 57b
+# § 57b
 
 In Angelegenheiten, die die Wahlen zu den Selbstverwaltungsorganen der Sozialversicherungsträger und ihrer Verbände oder die Ergänzung der Selbstverwaltungsorgane betreffen, ist das Sozialgericht zuständig, in dessen Bezirk der Versicherungsträger oder der Verband den Sitz hat.
 
-
-## § 58
+# § 58
 
 (1) Das zuständige Gericht innerhalb der Sozialgerichtsbarkeit wird durch das gemeinsam nächsthöhere Gericht bestimmt,
 
@@ -754,13 +691,11 @@ In Angelegenheiten, die die Wahlen zu den Selbstverwaltungsorganen der Sozialver
 
 (2) Zur Feststellung der Zuständigkeit kann jedes mit dem Rechtsstreit befaßte Gericht und jeder am Rechtsstreit Beteiligte das im Rechtszug höhere Gericht anrufen, das ohne mündliche Verhandlung entscheiden kann.
 
-
-## § 59
+# § 59
 
 Vereinbarungen der Beteiligten über die Zuständigkeit haben keine rechtliche Wirkung. Eine Zuständigkeit wird auch nicht dadurch begründet, daß die Unzuständigkeit des Gerichts nicht geltend gemacht wird.
 
-
-## § 60
+# § 60
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten die §§ 41 bis 46 Absatz 1 und die §§ 47 bis 49 der Zivilprozeßordnung entsprechend.
 
@@ -770,20 +705,17 @@ Vereinbarungen der Beteiligten über die Zuständigkeit haben keine rechtliche W
 
 (4) (weggefallen)
 
-
-## § 61
+# § 61
 
 (1) Für die Öffentlichkeit, Sitzungspolizei und Gerichtssprache gelten die §§ 169, 171b bis 191a des Gerichtsverfassungsgesetzes entsprechend.
 
 (2) Für die Beratung und Abstimmung gelten die §§ 192 bis 197 des Gerichtsverfassungsgesetzes entsprechend.
 
-
-## § 62
+# § 62
 
 Vor jeder Entscheidung ist den Beteiligten rechtliches Gehör zu gewähren; die Anhörung kann schriftlich oder elektronisch geschehen.
 
-
-## § 63
+# § 63
 
 (1) Anordnungen und Entscheidungen, durch die eine Frist in Lauf gesetzt wird, sind den Beteiligten zuzustellen, bei Verkündung jedoch nur, wenn es ausdrücklich vorgeschrieben ist. Terminbestimmungen und Ladungen sind bekannt zu geben.
 
@@ -791,8 +723,7 @@ Vor jeder Entscheidung ist den Beteiligten rechtliches Gehör zu gewähren; die 
 
 (3) Wer nicht im Inland wohnt, hat auf Verlangen einen Zustellungsbevollmächtigten zu bestellen.
 
-
-## § 64
+# § 64
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist, mit dem Tag nach der Zustellung oder, wenn diese nicht vorgeschrieben ist, mit dem Tag nach der Eröffnung oder Verkündung.
 
@@ -800,13 +731,11 @@ Vor jeder Entscheidung ist den Beteiligten rechtliches Gehör zu gewähren; die 
 
 (3) Fällt das Ende einer Frist auf einen Sonntag, einen gesetzlichen Feiertag oder einen Sonnabend, so endet die Frist mit Ablauf des nächsten Werktags.
 
-
-## § 65
+# § 65
 
 Auf Antrag kann der Vorsitzende richterliche Fristen abkürzen oder verlängern. Im Falle der Verlängerung wird die Frist von dem Ablauf der vorigen Frist an berechnet.
 
-
-## § 65a
+# § 65a
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
 
@@ -830,8 +759,7 @@ Auf Antrag kann der Vorsitzende richterliche Fristen abkürzen oder verlängern.
 
 (7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches Dokument, in welches das handschriftlich unterzeichnete Schriftstück gemäß § 65b Absatz 6 Satz 4 übertragen worden ist.
 
-
-## § 65b
+# § 65b
 
 (1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Verwahrung der elektronischen Akten festzulegen. Die Landesregierungen können die Ermächtigung auf die für die Sozialgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Prozessakten elektronisch zu führen sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
@@ -853,22 +781,19 @@ Auf Antrag kann der Vorsitzende richterliche Fristen abkürzen oder verlängern.
 
 (6) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
 
-
-## § 65c – Formulare; Verordnungsermächtigung
+# § 65c – Formulare; Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 65a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 66
+# § 66
 
 (1) Die Frist für ein Rechtsmittel oder einen anderen Rechtsbehelf beginnt nur dann zu laufen, wenn der Beteiligte über den Rechtsbehelf, die Verwaltungsstelle oder das Gericht, bei denen der Rechtsbehelf anzubringen ist, den Sitz und die einzuhaltende Frist schriftlich oder elektronisch belehrt worden ist.
 
 (2) Ist die Belehrung unterblieben oder unrichtig erteilt, so ist die Einlegung des Rechtsbehelfs nur innerhalb eines Jahres seit Zustellung, Eröffnung oder Verkündung zulässig, außer wenn die Einlegung vor Ablauf der Jahresfrist infolge höherer Gewalt unmöglich war oder eine schriftliche oder elektronische Belehrung dahin erfolgt ist, daß ein Rechtsbehelf nicht gegeben sei. § 67 Abs. 2 gilt für den Fall höherer Gewalt entsprechend.
 
-
-## § 67
+# § 67
 
 (1) Wenn jemand ohne Verschulden verhindert war, eine gesetzliche Verfahrensfrist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren.
 
@@ -878,21 +803,18 @@ Das Bundesministerium für Arbeit und Soziales kann durch Rechtsverordnung mit Z
 
 (4) Über den Wiedereinsetzungsantrag entscheidet das Gericht, das über die versäumte Rechtshandlung zu befinden hat. Der Beschluß, der die Wiedereinsetzung bewilligt, ist unanfechtbar.
 
-
-## § 68
+# § 68
 
 (weggefallen)
 
-
-## § 69
+# § 69
 
 Beteiligte am Verfahren sind  
 1. der Kläger,  
 2. der Beklagte,  
 3. der Beigeladene.
 
-
-## § 70
+# § 70
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -904,8 +826,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 4. gemeinsame Entscheidungsgremien von Leistungserbringern und Krankenkassen oder Pflegekassen.
 
-
-## § 71
+# § 71
 
 (1) Ein Beteiligter ist prozeßfähig, soweit er sich durch Verträge verpflichten kann.
 
@@ -919,8 +840,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (6) Die §§ 53 bis 56 der Zivilprozeßordnung gelten entsprechend.
 
-
-## § 72
+# § 72
 
 (1) Für einen nicht prozeßfähigen Beteiligten ohne gesetzlichen Vertreter kann der Vorsitzende bis zum Eintritt eines Vormundes, Betreuers oder Pflegers für das Verfahren einen besonderen Vertreter bestellen, dem alle Rechte, außer dem Empfang von Zahlungen, zustehen.
 
@@ -928,8 +848,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (3) bis (5) (weggefallen)
 
-
-## § 73
+# § 73
 
 (1) Die Beteiligten können vor dem Sozialgericht und dem Landessozialgericht den Rechtsstreit selbst führen.
 
@@ -965,8 +884,7 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (7) In der Verhandlung können die Beteiligten mit Beiständen erscheinen. Beistand kann sein, wer in Verfahren, in denen die Beteiligten den Rechtsstreit selbst führen können, als Bevollmächtigter zur Vertretung in der Verhandlung befugt ist. Das Gericht kann andere Personen als Beistand zulassen, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht. Absatz 3 Satz 1 und 3 und Absatz 5 gelten entsprechend. Das von dem Beistand Vorgetragene gilt als von dem Beteiligten vorgebracht, soweit es nicht von diesem sofort widerrufen oder berichtigt wird.
 
-
-## § 73a
+# § 73a
 
 (1) Die Vorschriften der Zivilprozeßordnung über die Prozeßkostenhilfe mit Ausnahme des § 127 Absatz 2 Satz 2 der Zivilprozeßordnung gelten entsprechend. Macht der Beteiligte, dem Prozeßkostenhilfe bewilligt ist, von seinem Recht, einen Rechtsanwalt zu wählen, nicht Gebrauch, wird auf Antrag des Beteiligten der beizuordnende Rechtsanwalt vom Gericht ausgewählt. Einem Beteiligten, dem Prozesskostenhilfe bewilligt worden ist, kann auch ein Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer, vereidigter Buchprüfer oder Rentenberater beigeordnet werden. Die Vergütung richtet sich nach den für den beigeordneten Rechtsanwalt geltenden Vorschriften des Rechtsanwaltsvergütungsgesetzes.
 
@@ -986,13 +904,11 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (9) Durch Landesgesetz kann bestimmt werden, dass die Absätze 4 bis 8 für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
-
-## § 74
+# § 74
 
 Die §§ 59 bis 65 der Zivilprozeßordnung über die Streitgenossenschaft und die Hauptintervention gelten entsprechend.
 
-
-## § 75
+# § 75
 
 (1) Das Gericht kann von Amts wegen oder auf Antrag andere, deren berechtigte Interessen durch die Entscheidung berührt werden, beiladen. In Angelegenheiten des sozialen Entschädigungsrechts ist die Bundesrepublik Deutschland auf Antrag beizuladen.
 
@@ -1008,8 +924,7 @@ Die §§ 59 bis 65 der Zivilprozeßordnung über die Streitgenossenschaft und di
 
 (5) Ein Versicherungsträger, ein Träger der Grundsicherung für Arbeitsuchende, ein Träger der Sozialhilfe einschließlich der Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch, ein Träger der Leistungen nach dem Asylbewerberleistungsgesetz oder in Angelegenheiten des sozialen Entschädigungsrechts ein Land kann nach Beiladung verurteilt werden.
 
-
-## § 76
+# § 76
 
 (1) Auf Gesuch eines Beteiligten kann die Einnahme des Augenscheins und die Vernehmung von Zeugen und Sachverständigen zur Sicherung des Beweises angeordnet werden, wenn zu besorgen ist, daß das Beweismittel verlorengehe oder seine Benutzung erschwert werde, oder wenn der gegenwärtige Zustand einer Person oder einer Sache festgestellt werden soll und der Antragsteller ein berechtigtes Interesse an dieser Feststellung hat.
 
@@ -1017,13 +932,11 @@ Die §§ 59 bis 65 der Zivilprozeßordnung über die Streitgenossenschaft und di
 
 (3) Für das Verfahren gelten die §§ 487, 490 bis 494 der Zivilprozeßordnung entsprechend.
 
-
-## § 77
+# § 77
 
 Wird der gegen einen Verwaltungsakt gegebene Rechtsbehelf nicht oder erfolglos eingelegt, so ist der Verwaltungsakt für die Beteiligten in der Sache bindend, soweit durch Gesetz nichts anderes bestimmt ist.
 
-
-## § 78
+# § 78
 
 (1) Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen. Eines Vorverfahrens bedarf es nicht, wenn
 
@@ -1037,28 +950,23 @@ Wird der gegen einen Verwaltungsakt gegebene Rechtsbehelf nicht oder erfolglos e
 
 (3) Für die Verpflichtungsklage gilt Absatz 1 entsprechend, wenn der Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
+# §§ 79 bis 82 – (weggefallen)
 
-## §§ 79 bis 82 – (weggefallen)
-
-
-## § 83
+# § 83
 
 Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 
-
-## § 84
+# § 84
 
 (1) Der Widerspruch ist binnen eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 36a Absatz 2 des Ersten Buches Sozialgesetzbuch oder zur Niederschrift bei der Stelle einzureichen, die den Verwaltungsakt erlassen hat. Die Frist beträgt bei Bekanntgabe im Ausland drei Monate.
 
 (2) Die Frist zur Erhebung des Widerspruchs gilt auch dann als gewahrt, wenn die Widerspruchsschrift bei einer anderen inländischen Behörde oder bei einem Versicherungsträger oder bei einer deutschen Konsularbehörde oder, soweit es sich um die Versicherung von Seeleuten handelt, auch bei einem deutschen Seemannsamt eingegangen ist. Die Widerspruchsschrift ist unverzüglich der zuständigen Behörde oder dem zuständigen Versicherungsträger zuzuleiten, der sie der für die Entscheidung zuständigen Stelle vorzulegen hat. Im übrigen gelten die §§ 66 und 67 entsprechend.
 
-
-## § 84a
+# § 84a
 
 Für das Vorverfahren gilt § 25 Abs. 4 des Zehnten Buches Sozialgesetzbuch nicht.
 
-
-## § 85
+# § 85
 
 (1) Wird der Widerspruch für begründet erachtet, so ist ihm abzuhelfen.
 
@@ -1078,13 +986,11 @@ Abweichend von Satz 1 Nr. 1 ist in Angelegenheiten nach dem Zweiten Buch Sozialg
 
 (4) Über ruhend gestellte Widersprüche kann durch eine öffentlich bekannt gegebene Allgemeinverfügung entschieden werden, wenn die den angefochtenen Verwaltungsakten zugrunde liegende Gesetzeslage durch eine Entscheidung des Bundesverfassungsgerichts bestätigt wurde, Widerspruchsbescheide gegenüber einer Vielzahl von Widerspruchsführern zur gleichen Zeit ergehen müssen und durch sie die Rechtsstellung der Betroffenen ausschließlich nach einem für alle identischen Maßstab verändert wird. Die öffentliche Bekanntgabe erfolgt durch Veröffentlichung der Entscheidung über den Internetauftritt der Behörde, im Bundesanzeiger und in mindestens drei überregional erscheinenden Tageszeitungen. Auf die öffentliche Bekanntgabe, den Ort ihrer Bekanntgabe sowie die Klagefrist des § 87 Abs. 1 Satz 3 ist bereits in der Ruhensmitteilung hinzuweisen.
 
-
-## § 86
+# § 86
 
 Wird während des Vorverfahrens der Verwaltungsakt abgeändert, so wird auch der neue Verwaltungsakt Gegenstand des Vorverfahrens; er ist der Stelle, die über den Widerspruch entscheidet, unverzüglich mitzuteilen.
 
-
-## § 86a
+# § 86a
 
 (1) Widerspruch und Anfechtungsklage haben aufschiebende Wirkung. Das gilt auch bei rechtsgestaltenden und feststellenden Verwaltungsakten sowie bei Verwaltungsakten mit Drittwirkung.
 
@@ -1104,8 +1010,7 @@ Wird während des Vorverfahrens der Verwaltungsakt abgeändert, so wird auch der
 
 (4) Die aufschiebende Wirkung entfällt, wenn eine Erlaubnis nach Artikel 1 § 1 des Arbeitnehmerüberlassungsgesetzes in der Fassung der Bekanntmachung vom 3. Februar 1995 (BGBl. I S. 158), das zuletzt durch Artikel 2 des Gesetzes vom 23. Juli 2001 (BGBl. I S. 1852) geändert worden ist, aufgehoben oder nicht verlängert wird. Absatz 3 gilt entsprechend.
 
-
-## § 86b
+# § 86b
 
 (1) Das Gericht der Hauptsache kann auf Antrag
 
@@ -1123,78 +1028,65 @@ Ist der Verwaltungsakt im Zeitpunkt der Entscheidung schon vollzogen oder befolg
 
 (4) Das Gericht entscheidet durch Beschluss.
 
-
-## § 87
+# § 87
 
 (1) Die Klage ist binnen eines Monats nach Bekanntgabe des Verwaltungsakts zu erheben. Die Frist beträgt bei Bekanntgabe im Ausland drei Monate. Bei einer öffentlichen Bekanntgabe nach § 85 Abs. 4 beträgt die Frist ein Jahr. Die Frist beginnt mit dem Tag zu laufen, an dem seit dem Tag der letzten Veröffentlichung zwei Wochen verstrichen sind.
 
 (2) Hat ein Vorverfahren stattgefunden, so beginnt die Frist mit der Bekanntgabe des Widerspruchsbescheids.
 
-
-## § 88
+# § 88
 
 (1) Ist ein Antrag auf Vornahme eines Verwaltungsakts ohne zureichenden Grund in angemessener Frist sachlich nicht beschieden worden, so ist die Klage nicht vor Ablauf von sechs Monaten seit dem Antrag auf Vornahme des Verwaltungsakts zulässig. Liegt ein zureichender Grund dafür vor, daß der beantragte Verwaltungsakt noch nicht erlassen ist, so setzt das Gericht das Verfahren bis zum Ablauf einer von ihm bestimmten Frist aus, die verlängert werden kann. Wird innerhalb dieser Frist dem Antrag stattgegeben, so ist die Hauptsache für erledigt zu erklären.
 
 (2) Das gleiche gilt, wenn über einen Widerspruch nicht entschieden worden ist, mit der Maßgabe, daß als angemessene Frist eine solche von drei Monaten gilt.
 
-
-## § 89
+# § 89
 
 Die Klage ist an keine Frist gebunden, wenn die Feststellung der Nichtigkeit eines Verwaltungsakts oder die Feststellung des zuständigen Versicherungsträgers oder die Vornahme eines unterlassenen Verwaltungsakts begehrt wird.
 
-
-## § 90
+# § 90
 
 Die Klage ist bei dem zuständigen Gericht der Sozialgerichtsbarkeit schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu erheben.
 
-
-## § 91
+# § 91
 
 (1) Die Frist für die Erhebung der Klage gilt auch dann als gewahrt, wenn die Klageschrift innerhalb der Frist statt bei dem zuständigen Gericht der Sozialgerichtsbarkeit bei einer anderen inländischen Behörde oder bei einem Versicherungsträger oder bei einer deutschen Konsularbehörde oder, soweit es sich um die Versicherung von Seeleuten handelt, auch bei einem deutschen Seemannsamt im Ausland eingegangen ist.
 
 (2) Die Klageschrift ist unverzüglich an das zuständige Gericht der Sozialgerichtsbarkeit abzugeben.
 
-
-## § 92
+# § 92
 
 (1) Die Klage muss den Kläger, den Beklagten und den Gegenstand des Klagebegehrens bezeichnen. Zur Bezeichnung des Beklagten genügt die Angabe der Behörde. Die Klage soll einen bestimmten Antrag enthalten und von dem Kläger oder einer zu seiner Vertretung befugten Person mit Orts- und Zeitangabe unterzeichnet sein. Die zur Begründung dienenden Tatsachen und Beweismittel sollen angegeben, die angefochtene Verfügung und der Widerspruchsbescheid sollen in Abschrift beigefügt werden.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der Vorsitzende den Kläger zu der erforderlichen Ergänzung innerhalb einer bestimmten Frist aufzufordern. Er kann dem Kläger für die Ergänzung eine Frist mit ausschließender Wirkung setzen, wenn es an einem der in Absatz 1 Satz 1 genannten Erfordernisse fehlt. Für die Wiedereinsetzung in den vorigen Stand gilt § 67 entsprechend.
 
-
-## § 93
+# § 93
 
 Der Klageschrift, den sonstigen Schriftsätzen und nach Möglichkeit den Unterlagen sind vorbehaltlich des § 65a Absatz 5 Satz 3 Abschriften für die Beteiligten beizufügen. Sind die erforderlichen Abschriften nicht eingereicht, so fordert das Gericht sie nachträglich an oder fertigt sie selbst an. Die Kosten für die Anfertigung können von dem Kläger eingezogen werden.
 
-
-## § 94
+# § 94
 
 Durch die Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst mit Zustellung der Klage rechtshängig.
 
-
-## § 95
+# § 95
 
 Hat ein Vorverfahren stattgefunden, so ist Gegenstand der Klage der ursprüngliche Verwaltungsakt in der Gestalt, die er durch den Widerspruchsbescheid gefunden hat.
 
-
-## § 96
+# § 96
 
 (1) Nach Klageerhebung wird ein neuer Verwaltungsakt nur dann Gegenstand des Klageverfahrens, wenn er nach Erlass des Widerspruchsbescheides ergangen ist und den angefochtenen Verwaltungsakt abändert oder ersetzt.
 
 (2) Eine Abschrift des neuen Verwaltungsakts ist dem Gericht mitzuteilen, bei dem das Verfahren anhängig ist.
 
-
-## § 97
+# § 97
 
 (aufgehoben)
 
-
-## § 98
+# § 98
 
 Für die sachliche und örtliche Zuständigkeit gelten die §§ 17, 17a und 17b Abs. 1, Abs. 2 Satz 1 des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes sind unanfechtbar.
 
-
-## § 99
+# § 99
 
 (1) Eine Änderung der Klage ist nur zulässig, wenn die übrigen Beteiligten einwilligen oder das Gericht die Änderung für sachdienlich hält.
 
@@ -1210,20 +1102,17 @@ Für die sachliche und örtliche Zuständigkeit gelten die §§ 17, 17a und 17b 
 
 (4) Die Entscheidung, daß eine Änderung der Klage nicht vorliege oder zuzulassen sei, ist unanfechtbar.
 
-
-## § 100
+# § 100
 
 Bei dem Gericht der Klage kann eine Widerklage erhoben werden, wenn der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch oder mit den gegen ihn vorgebrachten Verteidigungsmitteln zusammenhängt.
 
-
-## § 101
+# § 101
 
 (1) Um den geltend gemachten Anspruch vollständig oder zum Teil zu erledigen, können die Beteiligten zu Protokoll des Gerichts oder des Vorsitzenden oder des beauftragten oder ersuchten Richters einen Vergleich schließen, soweit sie über den Gegenstand der Klage verfügen können. Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, dass die Beteiligten einen in der Form eines Beschlusses ergangenen Vorschlag des Gerichts, des Vorsitzenden oder des Berichterstatters schriftlich oder durch Erklärung zu Protokoll in der mündlichen Verhandlung gegenüber dem Gericht annehmen.
 
 (2) Das angenommene Anerkenntnis des geltend gemachten Anspruchs erledigt insoweit den Rechtsstreit in der Hauptsache.
 
-
-## § 102
+# § 102
 
 (1) Der Kläger kann die Klage bis zur Rechtskraft des Urteils zurücknehmen. Die Klagerücknahme erledigt den Rechtsstreit in der Hauptsache.
 
@@ -1231,18 +1120,15 @@ Bei dem Gericht der Klage kann eine Widerklage erhoben werden, wenn der Gegenans
 
 (3) Ist die Klage zurückgenommen oder gilt sie als zurückgenommen, so stellt das Gericht das Verfahren auf Antrag durch Beschluss ein und entscheidet über Kosten, soweit diese entstanden sind. Der Beschluss ist unanfechtbar.
 
-
-## § 103
+# § 103
 
 Das Gericht erforscht den Sachverhalt von Amts wegen; die Beteiligten sind dabei heranzuziehen. Es ist an das Vorbringen und die Beweisanträge der Beteiligten nicht gebunden.
 
-
-## § 104
+# § 104
 
 Der Vorsitzende übermittelt eine Abschrift der Klage an die übrigen Beteiligten; in Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes wegen eines überlangen Gerichtsverfahrens ist die Klage zuzustellen. Zugleich mit der Zustellung oder Mitteilung ergeht die Aufforderung, sich schriftlich zu äußern; § 90 gilt entsprechend. Für die Äußerung kann eine Frist gesetzt werden, die nicht kürzer als ein Monat sein soll. Die Aufforderung muß den Hinweis enthalten, daß auch verhandelt und entschieden werden kann, wenn die Äußerung nicht innerhalb der Frist eingeht. Soweit das Gericht die Übersendung von Verwaltungsakten anfordert, soll diese binnen eines Monats nach Eingang der Aufforderung bei dem zuständigen Verwaltungsträger erfolgen. Die Übersendung einer beglaubigten Abschrift oder einer beglaubigten elektronischen Abschrift, die mit einer qualifizierten elektronischen Signatur des zuständigen Verwaltungsträgers versehen ist, steht der Übersendung der Originalverwaltungsakten gleich, sofern nicht das Gericht die Übersendung der Originalverwaltungsakten wünscht.
 
-
-## § 105
+# § 105
 
 (1) Das Gericht kann ohne mündliche Verhandlung durch Gerichtsbescheid entscheiden, wenn die Sache keine besonderen Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist und der Sachverhalt geklärt ist. Die Beteiligten sind vorher zu hören. Die Vorschriften über Urteile gelten entsprechend.
 
@@ -1252,8 +1138,7 @@ Der Vorsitzende übermittelt eine Abschrift der Klage an die übrigen Beteiligte
 
 (4) Wird mündliche Verhandlung beantragt, kann das Gericht in dem Urteil von einer weiteren Darstellung des Tatbestandes und der Entscheidungsgründe absehen, soweit es der Begründung des Gerichtsbescheids folgt und dies in seiner Entscheidung feststellt.
 
-
-## § 106
+# § 106
 
 (1) Der Vorsitzende hat darauf hinzuwirken, daß Formfehler beseitigt, unklare Anträge erläutert, sachdienliche Anträge gestellt, ungenügende Angaben tatsächlicher Art ergänzt sowie alle für die Feststellung und Beurteilung des Sachverhalts wesentlichen Erklärungen abgegeben werden.
 
@@ -1277,8 +1162,7 @@ Der Vorsitzende übermittelt eine Abschrift der Klage an die übrigen Beteiligte
 
 (4) Für die Beweisaufnahme gelten die §§ 116, 118 und 119 entsprechend.
 
-
-## § 106a
+# § 106a
 
 (1) Der Vorsitzende kann dem Kläger eine Frist setzen zur Angabe der Tatsachen, durch deren Berücksichtigung oder Nichtberücksichtigung im Verwaltungsverfahren er sich beschwert fühlt.
 
@@ -1298,25 +1182,21 @@ Der Vorsitzende übermittelt eine Abschrift der Klage an die übrigen Beteiligte
 
 Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 1 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
-
-## § 107
+# § 107
 
 Den Beteiligten ist nach Anordnung des Vorsitzenden entweder eine Abschrift des Protokolls der Beweisaufnahme oder deren Inhalt mitzuteilen.
 
-
-## § 108
+# § 108
 
 Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsätze einreichen. Die Schriftsätze sind den übrigen Beteiligten von Amts wegen mitzuteilen.
 
-
-## § 109
+# § 109
 
 (1) Auf Antrag des Versicherten, des behinderten Menschen, des Versorgungsberechtigten oder Hinterbliebenen muß ein bestimmter Arzt gutachtlich gehört werden. Die Anhörung kann davon abhängig gemacht werden, daß der Antragsteller die Kosten vorschießt und vorbehaltlich einer anderen Entscheidung des Gerichts endgültig trägt.
 
 (2) Das Gericht kann einen Antrag ablehnen, wenn durch die Zulassung die Erledigung des Rechtsstreits verzögert werden würde und der Antrag nach der freien Überzeugung des Gerichts in der Absicht, das Verfahren zu verschleppen, oder aus grober Nachlässigkeit nicht früher vorgebracht worden ist.
 
-
-## § 110
+# § 110
 
 (1) Der Vorsitzende bestimmt Ort und Zeit der mündlichen Verhandlung und teilt sie den Beteiligten in der Regel zwei Wochen vorher mit. Die Beteiligten sind darauf hinzuweisen, daß im Falle ihres Ausbleibens nach Lage der Akten entschieden werden kann.
 
@@ -1324,8 +1204,7 @@ Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsät
 
 (3) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
 
-
-## § 110a
+# § 110a
 
 (1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
 
@@ -1335,8 +1214,7 @@ Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsät
 
 (4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 106 Absatz 3 Nummer 7).
 
-
-## § 111
+# § 111
 
 (1) Der Vorsitzende kann das persönliche Erscheinen eines Beteiligten zur mündlichen Verhandlung anordnen sowie Zeugen und Sachverständige laden. Auf die Folgen des Ausbleibens ist dabei hinzuweisen.
 
@@ -1344,8 +1222,7 @@ Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsät
 
 (3) Das Gericht kann einem Beteiligten, der keine natürliche Person ist, aufgeben, zur mündlichen Verhandlung oder zu einem Termin nach § 106 Absatz 3 Nummer 7 einen Beamten oder Angestellten zu entsenden, der mit einem schriftlichen Nachweis über die Vertretungsbefugnis versehen und über die Sach- und Rechtslage ausreichend unterrichtet ist.
 
-
-## § 112
+# § 112
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung. Sie beginnt nach Aufruf der Sache mit der Darstellung des Sachverhalts.
 
@@ -1355,15 +1232,13 @@ Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsät
 
 (4) Der Vorsitzende hat jedem Beisitzer auf Verlangen zu gestatten, sachdienliche Fragen zu stellen. Wird eine Frage von einem Beteiligten beanstandet, so entscheidet das Gericht endgültig.
 
-
-## § 113
+# § 113
 
 (1) Das Gericht kann durch Beschluß mehrere bei ihm anhängige Rechtsstreitigkeiten derselben Beteiligten oder verschiedener Beteiligter zur gemeinsamen Verhandlung und Entscheidung verbinden, wenn die Ansprüche, die den Gegenstand dieser Rechtsstreitigkeiten bilden, in Zusammenhang stehen oder von vornherein in einer Klage hätten geltend gemacht werden können.
 
 (2) Die Verbindung kann, wenn es zweckmäßig ist, auf Antrag oder von Amts wegen wieder aufgehoben werden.
 
-
-## § 114
+# § 114
 
 (1) Hängt die Entscheidung eines Rechtsstreits von einem familien- oder erbrechtlichen Verhältnis ab, so kann das Gericht das Verfahren solange aussetzen, bis dieses Verhältnis im Zivilprozeß festgestellt worden ist.
 
@@ -1373,30 +1248,25 @@ Die Beteiligten können zur Vorbereitung der mündlichen Verhandlung Schriftsät
 
 (3) Das Gericht kann, wenn sich im Laufe eines Rechtsstreits der Verdacht einer Straftat ergibt, deren Ermittlung auf die Entscheidung von Einfluß ist, die Aussetzung der Verhandlung bis zur Erledigung des Strafverfahrens anordnen.
 
-
-## § 114a
+# § 114a
 
 (1) Ist die Rechtmäßigkeit einer behördlichen Maßnahme Gegenstand von mehr als 20 Verfahren an einem Gericht, kann das Gericht eines oder mehrere geeignete Verfahren vorab durchführen (Musterverfahren) und die übrigen Verfahren aussetzen. Die Beteiligten sind vorher zu hören. Der Beschluss ist unanfechtbar.
 
 (2) Ist über die durchgeführten Musterverfahren rechtskräftig entschieden worden, kann das Gericht nach Anhörung der Beteiligten über die ausgesetzten Verfahren durch Beschluss entscheiden, wenn es einstimmig der Auffassung ist, dass die Sachen gegenüber dem rechtskräftig entschiedenen Musterverfahren keine wesentlichen Besonderheiten tatsächlicher oder rechtlicher Art aufweisen und der Sachverhalt geklärt ist. Das Gericht kann in einem Musterverfahren erhobene Beweise einführen; es kann nach seinem Ermessen die wiederholte Vernehmung eines Zeugen oder eine neue Begutachtung durch denselben oder andere Sachverständige anordnen. Beweisanträge zu Tatsachen, über die bereits im Musterverfahren Beweis erhoben wurde, kann das Gericht ablehnen, wenn ihre Zulassung nach seiner freien Überzeugung nicht zum Nachweis neuer entscheidungserheblicher Tatsachen beitragen und die Erledigung des Rechtsstreits verzögern würde. Die Ablehnung kann in der Entscheidung nach Satz 1 erfolgen. Den Beteiligten steht gegen den Beschluss nach Satz 1 das Rechtsmittel zu, das zulässig wäre, wenn das Gericht durch Urteil entschieden hätte. Die Beteiligten sind über das Rechtsmittel zu belehren.
 
-
-## § 115
+# § 115
 
 Ist ein bei der Verhandlung Beteiligter zur Aufrechterhaltung der Ordnung von dem Ort der Verhandlung entfernt worden, so kann gegen ihn in gleicher Weise verfahren werden, als wenn er sich freiwillig entfernt hätte. Das gleiche gilt im Falle des § 73 Abs. 3 Satz 1 und 3, sofern die Zurückweisung bereits in einer früheren Verhandlung geschehen war.
 
-
-## § 116
+# § 116
 
 Die Beteiligten werden von allen Beweisaufnahmeterminen benachrichtigt und können der Beweisaufnahme beiwohnen. Sie können an Zeugen und Sachverständige sachdienliche Fragen richten lassen. Wird eine Frage beanstandet, so entscheidet das Gericht.
 
-
-## § 117
+# § 117
 
 Das Gericht erhebt Beweis in der mündlichen Verhandlung, soweit die Beweiserhebung nicht einen besonderen Termin erfordert.
 
-
-## § 118
+# § 118
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind auf die Beweisaufnahme die §§ 358 bis 363, 365 bis 378, 380 bis 386, 387 Abs. 1 und 2, §§ 388 bis 390, 392 bis 406 Absatz 1 bis 4, die §§ 407 bis 444, 478 bis 484 der Zivilprozeßordnung entsprechend anzuwenden. Die Entscheidung über die Rechtmäßigkeit der Weigerung nach § 387 der Zivilprozeßordnung ergeht durch Beschluß.
 
@@ -1404,15 +1274,13 @@ Das Gericht erhebt Beweis in der mündlichen Verhandlung, soweit die Beweiserheb
 
 (3) Der Vorsitzende kann das Auftreten eines Prozeßbevollmächtigten untersagen, solange die Partei trotz Anordnung ihres persönlichen Erscheinens unbegründet ausgeblieben ist und hierdurch der Zweck der Anordnung vereitelt wird.
 
-
-## § 119
+# § 119
 
 (1) Eine Behörde ist zur Vorlage von Urkunden oder Akten, zur Übermittlung elektronischer Dokumente und zu Auskünften nicht verpflichtet, wenn die zuständige oberste Aufsichtsbehörde erklärt, dass das Bekanntwerden des Inhalts dieser Urkunden, Akten, elektronischer Dokumente oder Auskünfte dem Wohl des Bundes oder eines deutschen Landes nachteilig sein würde oder dass die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen.
 
 (2) Handelt es sich um Urkunden, elektronische Dokumente oder Akten und um Auskünfte einer obersten Bundesbehörde, so darf die Vorlage der Urkunden oder Akten, die Übermittlung elektronischer Dokumente und die Erteilung der Auskunft nur unterbleiben, wenn die Erklärung nach Absatz 1 von der Bundesregierung abgegeben wird. Die Landesregierung hat die Erklärung abzugeben, wenn diese Voraussetzungen bei einer obersten Landesbehörde vorliegen.
 
-
-## § 120
+# § 120
 
 (1) Die Beteiligten haben das Recht der Einsicht in die Akten, soweit die übermittelnde Behörde dieses nicht ausschließt. Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen. Für die Versendung von Akten, die Übermittlung elektronischer Dokumente und die Gewährung des elektronischen Zugriffs auf Akten werden Kosten nicht erhoben, sofern nicht nach § 197a das Gerichtskostengesetz gilt.
 
@@ -1424,23 +1292,19 @@ Das Gericht erhebt Beweis in der mündlichen Verhandlung, soweit die Beweiserheb
 
 (5) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die zu ihrer Vorbereitung angefertigten Arbeiten sowie die Dokumente, welche Abstimmungen betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
 
-
-## § 121
+# § 121
 
 Nach genügender Erörterung der Streitsache erklärt der Vorsitzende die mündliche Verhandlung für geschlossen. Das Gericht kann die Wiedereröffnung beschließen.
 
-
-## § 122
+# § 122
 
 Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung entsprechend.
 
-
-## § 123
+# § 123
 
 Das Gericht entscheidet über die vom Kläger erhobenen Ansprüche, ohne an die Fassung der Anträge gebunden zu sein.
 
-
-## § 124
+# § 124
 
 (1) Das Gericht entscheidet, soweit nichts anderes bestimmt ist, auf Grund mündlicher Verhandlung.
 
@@ -1448,42 +1312,35 @@ Das Gericht entscheidet über die vom Kläger erhobenen Ansprüche, ohne an die 
 
 (3) Entscheidungen des Gerichts, die nicht Urteile sind, können ohne mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
-
-## § 125
+# § 125
 
 Über die Klage wird, soweit nichts anderes bestimmt ist, durch Urteil entschieden.
 
-
-## § 126
+# § 126
 
 Das Gericht kann, sofern in der Ladung auf diese Möglichkeit hingewiesen worden ist, nach Lage der Akten entscheiden, wenn in einem Termin keiner der Beteiligten erscheint oder beim Ausbleiben von Beteiligten die erschienenen Beteiligten es beantragen.
 
-
-## § 127
+# § 127
 
 Ist ein Beteiligter nicht benachrichtigt worden, daß in der mündlichen Verhandlung eine Beweiserhebung stattfindet, und ist er in der mündlichen Verhandlung nicht zugegen oder vertreten, so kann in diesem Termin ein ihm ungünstiges Urteil nicht erlassen werden.
 
-
-## § 128
+# § 128
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung. In dem Urteil sind die Gründe anzugeben, die für die richterliche Überzeugung leitend gewesen sind.
 
 (2) Das Urteil darf nur auf Tatsachen und Beweisergebnisse gestützt werden, zu denen sich die Beteiligten äußern konnten.
 
-
-## § 129
+# § 129
 
 Das Urteil kann nur von den Richtern gefällt werden, die an der dem Urteil zugrunde liegenden Verhandlung teilgenommen haben.
 
-
-## § 130
+# § 130
 
 (1) Wird gemäß § 54 Abs. 4 oder 5 eine Leistung in Geld begehrt, auf die ein Rechtsanspruch besteht, so kann auch zur Leistung nur dem Grunde nach verurteilt werden. Hierbei kann im Urteil eine einmalige oder laufende vorläufige Leistung angeordnet werden. Die Anordnung der vorläufigen Leistung ist nicht anfechtbar.
 
 (2) Das Gericht kann durch Zwischenurteil über eine entscheidungserhebliche Sach- oder Rechtsfrage vorab entscheiden, wenn dies sachdienlich ist.
 
-
-## § 131
+# § 131
 
 (1) Wird ein Verwaltungsakt oder ein Widerspruchsbescheid, der bereits vollzogen ist, aufgehoben, so kann das Gericht aussprechen, daß und in welcher Weise die Vollziehung des Verwaltungsakts rückgängig zu machen ist. Dies ist nur zulässig, wenn die Verwaltungsstelle rechtlich dazu in der Lage und diese Frage ohne weiteres in jeder Beziehung spruchreif ist. Hat sich der Verwaltungsakt vorher durch Zurücknahme oder anders erledigt, so spricht das Gericht auf Antrag durch Urteil aus, daß der Verwaltungsakt rechtswidrig ist, wenn der Kläger ein berechtigtes Interesse an dieser Feststellung hat.
 
@@ -1495,20 +1352,17 @@ Das Urteil kann nur von den Richtern gefällt werden, die an der dem Urteil zugr
 
 (5) Hält das Gericht eine weitere Sachaufklärung für erforderlich, kann es, ohne in der Sache selbst zu entscheiden, den Verwaltungsakt und den Widerspruchsbescheid aufheben, soweit nach Art oder Umfang die noch erforderlichen Ermittlungen erheblich sind und die Aufhebung auch unter Berücksichtigung der Belange der Beteiligten sachdienlich ist. Satz 1 gilt auch bei Klagen auf Verurteilung zum Erlass eines Verwaltungsakts und bei Klagen nach § 54 Abs. 4; Absatz 3 ist entsprechend anzuwenden. Auf Antrag kann das Gericht bis zum Erlass des neuen Verwaltungsakts eine einstweilige Regelung treffen, insbesondere bestimmen, dass Sicherheiten geleistet werden oder ganz oder zum Teil bestehen bleiben und Leistungen zunächst nicht zurückgewährt werden müssen. Der Beschluss kann jederzeit geändert oder aufgehoben werden. Eine Entscheidung nach Satz 1 kann nur binnen sechs Monaten seit Eingang der Akten der Behörde bei Gericht ergehen.
 
-
-## § 132
+# § 132
 
 (1) Das Urteil ergeht im Namen des Volkes. Es wird grundsätzlich in dem Termin verkündet, in dem die mündliche Verhandlung geschlossen wird. Ausnahmsweise kann das Urteil in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll, verkündet werden. Eine Ladung der Beteiligten ist nicht erforderlich.
 
 (2) Das Urteil wird durch Verlesen der Urteilsformel verkündet. Bei der Verkündung soll der wesentliche Inhalt der Entscheidungsgründe mitgeteilt werden, wenn Beteiligte anwesend sind.
 
-
-## § 133
+# § 133
 
 Bei Urteilen, die nicht auf Grund mündlicher Verhandlung ergehen, wird die Verkündung durch Zustellung ersetzt. Dies gilt für die Verkündung von Beschlüssen entsprechend.
 
-
-## § 134
+# § 134
 
 (1) Das Urteil ist vom Vorsitzenden zu unterschreiben.
 
@@ -1516,13 +1370,11 @@ Bei Urteilen, die nicht auf Grund mündlicher Verhandlung ergehen, wird die Verk
 
 (3) Der Urkundsbeamte der Geschäftsstelle hat auf dem Urteil den Tag der Verkündung oder Zustellung zu vermerken und diesen Vermerk zu unterschreiben. Werden die Akten elektronisch geführt, hat der Urkundsbeamte der Geschäftsstelle den Vermerk in einem gesonderten Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 135
+# § 135
 
 Das Urteil ist den Beteiligten unverzüglich zuzustellen.
 
-
-## § 136
+# § 136
 
 (1) Das Urteil enthält
 
@@ -1546,18 +1398,15 @@ Das Urteil ist den Beteiligten unverzüglich zuzustellen.
 
 (4) Wird das Urteil in dem Termin, in dem die mündliche Verhandlung geschlossen worden ist, verkündet, so bedarf es des Tatbestandes und der Entscheidungsgründe nicht, wenn Kläger, Beklagter und sonstige rechtsmittelberechtigte Beteiligte auf Rechtsmittel gegen das Urteil verzichten.
 
-
-## § 137
+# § 137
 
 Die Ausfertigungen des Urteils sind von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu versehen. Ausfertigungen, Auszüge und Abschriften eines als elektronisches Dokument (§ 65a Absatz 7) vorliegenden Urteils können von einem Urteilsausdruck mit einem Vermerk nach § 65b Absatz 4 erteilt werden. Auszüge und Abschriften eines in Papierform vorliegenden Urteils können durch Telekopie oder als elektronisches Dokument erteilt werden. Die Telekopie hat eine Wiedergabe des Gerichtssiegels, die Telekopie zur Erteilung eines Auszugs zusätzlich die Unterschrift des Urkundsbeamten der Geschäftsstelle zu enthalten. Bei der Erteilung von beglaubigten Auszügen und Abschriften ist das elektronische Dokument mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen.
 
-
-## § 138
+# § 138
 
 Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil sind jederzeit von Amts wegen zu berichtigen. Der Vorsitzende entscheidet hierüber durch Beschluß. Der Berichtigungsbeschluß wird auf dem Urteil und den Ausfertigungen vermerkt. Werden die Akten elektronisch geführt, hat der Urkundsbeamte der Geschäftsstelle den Vermerk in einem gesonderten Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 139
+# § 139
 
 (1) Enthält der Tatbestand des Urteils andere Unrichtigkeiten oder Unklarheiten, so kann die Berichtigung binnen zwei Wochen nach Zustellung des Urteils beantragt werden.
 
@@ -1565,8 +1414,7 @@ Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil si
 
 (3) Ist das Urteil elektronisch abgefasst, ist auch der Beschluss elektronisch abzufassen und mit dem Urteil untrennbar zu verbinden.
 
-
-## § 140
+# § 140
 
 (1) Hat das Urteil einen von einem Beteiligten erhobenen Anspruch oder den Kostenpunkt ganz oder teilweise übergangen, so wird es auf Antrag nachträglich ergänzt. Die Entscheidung muß binnen eines Monats nach Zustellung des Urteils beantragt werden.
 
@@ -1576,8 +1424,7 @@ Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil si
 
 (4) Die ergänzende Entscheidung wird auf der Urschrift des Urteils und den Ausfertigungen vermerkt. Liegt das Urteil als elektronisches Dokument mit einer qualifizierten elektronischen Signatur (§ 65a Absatz 3) vor, bedarf auch die ergänzende Entscheidung dieser Form und ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 141
+# § 141
 
 (1) Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden worden ist,
 
@@ -1587,8 +1434,7 @@ Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil si
 
 (2) Hat der Beklagte die Aufrechnung einer Gegenforderung geltend gemacht, so ist die Entscheidung, daß die Gegenforderung nicht besteht, bis zur Höhe des Betrags der Rechtskraft fähig, für den die Aufrechnung geltend gemacht worden ist.
 
-
-## § 142
+# § 142
 
 (1) Für Beschlüsse gelten § 128 Abs. 1 Satz 1, die §§ 134 und 138, nach mündlicher Verhandlung auch die §§ 129, 132, 135 und 136 entsprechend.
 
@@ -1596,18 +1442,15 @@ Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil si
 
 (3) Ausfertigungen der Beschlüsse sind von dem Urkundsbeamten der Geschäftsstelle zu unterschreiben.
 
-
-## § 142a
+# § 142a
 
 (weggefallen)
 
-
-## § 143
+# § 143
 
 Gegen die Urteile der Sozialgerichte findet die Berufung an das Landessozialgericht statt, soweit sich aus den Vorschriften dieses Unterabschnitts nichts anderes ergibt.
 
-
-## § 144
+# § 144
 
 (1) Die Berufung bedarf der Zulassung in dem Urteil des Sozialgerichts oder auf Beschwerde durch Beschluß des Landessozialgerichts, wenn der Wert des Beschwerdegegenstandes
 
@@ -1629,8 +1472,7 @@ nicht übersteigt. Das gilt nicht, wenn die Berufung wiederkehrende oder laufend
 
 (4) Die Berufung ist ausgeschlossen, wenn es sich um die Kosten des Verfahrens handelt.
 
-
-## § 145
+# § 145
 
 (1) Die Nichtzulassung der Berufung durch das Sozialgericht kann durch Beschwerde angefochten werden. Die Beschwerde ist bei dem Landessozialgericht innerhalb eines Monats nach Zustellung des vollständigen Urteils schriftlich oder zu Protokoll des Urkundsbeamten einzulegen.
 
@@ -1642,11 +1484,9 @@ nicht übersteigt. Das gilt nicht, wenn die Berufung wiederkehrende oder laufend
 
 (5) Läßt das Landessozialgericht die Berufung zu, wird das Beschwerdeverfahren als Berufungsverfahren fortgesetzt; der Einlegung einer Berufung durch den Beschwerdeführer bedarf es nicht. Darauf ist in dem Beschluß hinzuweisen.
 
+# §§ 146 bis 150 – (weggefallen)
 
-## §§ 146 bis 150 – (weggefallen)
-
-
-## § 151
+# § 151
 
 (1) Die Berufung ist bei dem Landessozialgericht innerhalb eines Monats nach Zustellung des Urteils schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle einzulegen.
 
@@ -1654,15 +1494,13 @@ nicht übersteigt. Das gilt nicht, wenn die Berufung wiederkehrende oder laufend
 
 (3) Die Berufungsschrift soll das angefochtene Urteil bezeichnen, einen bestimmten Antrag enthalten und die zur Begründung dienenden Tatsachen und Beweismittel angeben.
 
-
-## § 152
+# § 152
 
 (1) Die Geschäftsstelle des Landessozialgerichts hat unverzüglich, nachdem die Berufungsschrift eingereicht ist, von der Geschäftsstelle des Sozialgerichts die Prozeßakten anzufordern.
 
 (2) Nach Erledigung der Berufung sind die Akten der Geschäftsstelle des Sozialgerichts nebst einer beglaubigten Abschrift oder einer beglaubigten elektronischen Abschrift, die mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle versehen ist, des in der Berufungsinstanz erlassenen Urteils zurückzusenden.
 
-
-## § 153
+# § 153
 
 (1) Für das Verfahren vor den Landessozialgerichten gelten die Vorschriften über das Verfahren im ersten Rechtszug mit Ausnahme der §§ 91, 105 entsprechend, soweit sich aus diesem Unterabschnitt nichts anderes ergibt.
 
@@ -1674,15 +1512,13 @@ nicht übersteigt. Das gilt nicht, wenn die Berufung wiederkehrende oder laufend
 
 (5) Der Senat kann in den Fällen des § 105 Abs. 2 Satz 1 durch Beschluss die Berufung dem Berichterstatter übertragen, der zusammen mit den ehrenamtlichen Richtern entscheidet.
 
-
-## § 154
+# § 154
 
 (1) Die Berufung und die Beschwerde nach § 144 Abs. 1 haben aufschiebende Wirkung, soweit die Klage nach § 86a Aufschub bewirkt.
 
 (2) Die Berufung und die Beschwerde nach § 144 Abs. 1 eines Versicherungsträgers oder in der Kriegsopferversorgung eines Landes bewirken Aufschub, soweit es sich um Beträge handelt, die für die Zeit vor Erlaß des angefochtenen Urteils nachgezahlt werden sollen.
 
-
-## § 155
+# § 155
 
 (1) Der Vorsitzende kann seine Aufgaben nach den §§ 104, 106 bis 108 und 120 einem Berufsrichter des Senats übertragen.
 
@@ -1704,8 +1540,7 @@ In dringenden Fällen entscheidet der Vorsitzende auch über den Antrag nach § 
 
 (4) Ist ein Berichterstatter bestellt, so entscheidet dieser anstelle des Vorsitzenden.
 
-
-## § 156
+# § 156
 
 (1) Die Berufung kann bis zur Rechtskraft des Urteils oder des nach § 153 Abs. 4 oder § 158 Satz 2 ergangenen Beschlusses zurückgenommen werden. Die Zurücknahme nach Schluss der mündlichen Verhandlung setzt die Einwilligung des Berufungsbeklagten voraus.
 
@@ -1713,25 +1548,21 @@ In dringenden Fällen entscheidet der Vorsitzende auch über den Antrag nach § 
 
 (3) Die Zurücknahme bewirkt den Verlust des Rechtsmittels. Über die Kosten entscheidet das Gericht auf Antrag durch Beschluß.
 
-
-## § 157
+# § 157
 
 Das Landessozialgericht prüft den Streitfall im gleichen Umfang wie das Sozialgericht. Es hat auch neu vorgebrachte Tatsachen und Beweismittel zu berücksichtigen.
 
-
-## § 157a
+# § 157a
 
 (1) Neue Erklärungen und Beweismittel, die im ersten Rechtszug entgegen einer hierfür gesetzten Frist (§ 106a Abs. 1 und 2) nicht vorgebracht worden sind, kann das Gericht unter den Voraussetzungen des § 106a Abs. 3 zurückweisen.
 
 (2) Erklärungen und Beweismittel, die das Sozialgericht zu Recht zurückgewiesen hat, bleiben auch im Berufungsverfahren ausgeschlossen.
 
-
-## § 158
+# § 158
 
 Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist oder nicht schriftlich oder nicht in elektronischer Form oder nicht zu Protokoll des Urkundsbeamten der Geschäftsstelle eingelegt, so ist sie als unzulässig zu verwerfen. Die Entscheidung kann durch Beschluß ergehen. Gegen den Beschluß steht den Beteiligten das Rechtsmittel zu, das zulässig wäre, wenn das Gericht durch Urteil entschieden hätte. Die Beteiligten sind über dieses Rechtsmittel zu belehren.
 
-
-## § 159
+# § 159
 
 (1) Das Landessozialgericht kann durch Urteil die angefochtene Entscheidung aufheben und die Sache an das Sozialgericht zurückverweisen, wenn
 
@@ -1741,8 +1572,7 @@ Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist oder nicht
 
 (2) Das Sozialgericht hat die rechtliche Beurteilung, die der Aufhebung zugrunde gelegt ist, seiner Entscheidung zugrunde zu legen.
 
-
-## § 160
+# § 160
 
 (1) Gegen das Urteil eines Landessozialgerichts und gegen den Beschluss nach § 55a Absatz 5 Satz 1 steht den Beteiligten die Revision an das Bundessozialgericht nur zu, wenn sie in der Entscheidung des Landessozialgerichts oder in dem Beschluß des Bundessozialgerichts nach § 160a Abs. 4 Satz 1 zugelassen worden ist.
 
@@ -1756,8 +1586,7 @@ Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist oder nicht
 
 (3) Das Bundessozialgericht ist an die Zulassung gebunden.
 
-
-## § 160a
+# § 160a
 
 (1) Die Nichtzulassung der Revision kann selbständig durch Beschwerde angefochten werden. Die Beschwerde ist bei dem Bundessozialgericht innerhalb eines Monats nach Zustellung des Urteils einzulegen. Der Beschwerdeschrift soll eine Ausfertigung oder beglaubigte Abschrift des Urteils, gegen das die Revision eingelegt werden soll, beigefügt werden. Satz 3 gilt nicht, soweit nach § 65a elektronische Dokumente übermittelt werden.
 
@@ -1769,8 +1598,7 @@ Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist oder nicht
 
 (5) Liegen die Voraussetzungen des § 160 Abs. 2 Nr. 3 vor, kann das Bundessozialgericht in dem Beschluss das angefochtene Urteil aufheben und die Sache zur erneuten Verhandlung und Entscheidung zurückverweisen.
 
-
-## § 161
+# § 161
 
 (1) Gegen das Urteil eines Sozialgerichts steht den Beteiligten die Revision unter Übergehung der Berufungsinstanz zu, wenn der Gegner schriftlich zustimmt und wenn sie von dem Sozialgericht im Urteil oder auf Antrag durch Beschluß zugelassen wird. Der Antrag ist innerhalb eines Monats nach Zustellung des Urteils schriftlich zu stellen. Die Zustimmung des Gegners ist dem Antrag oder, wenn die Revision im Urteil zugelassen ist, der Revisionsschrift beizufügen.
 
@@ -1782,50 +1610,41 @@ Ist die Berufung nicht statthaft oder nicht in der gesetzlichen Frist oder nicht
 
 (5) Die Einlegung der Revision und die Zustimmung des Gegners gelten als Verzicht auf die Berufung, wenn das Sozialgericht die Revision zugelassen hat.
 
-
-## § 162
+# § 162
 
 Die Revision kann nur darauf gestützt werden, daß das angefochtene Urteil auf der Verletzung einer Vorschrift des Bundesrechts oder einer sonstigen im Bezirk des Berufungsgerichts geltenden Vorschrift beruht, deren Geltungsbereich sich über den Bezirk des Berufungsgerichts hinaus erstreckt.
 
-
-## § 163
+# § 163
 
 Das Bundessozialgericht ist an die in dem angefochtenen Urteil getroffenen tatsächlichen Feststellungen gebunden, außer wenn in bezug auf diese Feststellungen zulässige und begründete Revisionsgründe vorgebracht sind.
 
-
-## § 164
+# § 164
 
 (1) Die Revision ist bei dem Bundessozialgericht innerhalb eines Monats nach Zustellung des Urteils oder des Beschlusses über die Zulassung der Revision (§ 160a Absatz 4 Satz 1 oder § 161 Abs. 3 Satz 2) schriftlich einzulegen. Die Revision muß das angefochtene Urteil angeben; eine Ausfertigung oder beglaubigte Abschrift des angefochtenen Urteils soll beigefügt werden, sofern dies nicht schon nach § 160a Abs. 1 Satz 3 geschehen ist. Satz 2 zweiter Halbsatz gilt nicht, soweit nach § 65a elektronische Dokumente übermittelt werden.
 
 (2) Die Revision ist innerhalb von zwei Monaten nach Zustellung des Urteils oder des Beschlusses über die Zulassung der Revision zu begründen. Die Begründungsfrist kann auf einen vor ihrem Ablauf gestellten Antrag von dem Vorsitzenden verlängert werden. Die Begründung muß einen bestimmten Antrag enthalten, die verletzte Rechtsnorm und, soweit Verfahrensmängel gerügt werden, die Tatsachen bezeichnen, die den Mangel ergeben.
 
-
-## § 165
+# § 165
 
 Für die Revision gelten die Vorschriften über die Berufung entsprechend, soweit sich aus diesem Unterabschnitt nichts anderes ergibt. § 153 Abs. 2 und 4 sowie § 155 Abs. 2 bis 4 finden keine Anwendung.
 
-
-## § 166 – (weggefallen)
-
-\-
-
-
-## § 167
+# § 166 – (weggefallen)
 
 \-
 
+# § 167
 
-## § 168
+\-
+
+# § 168
 
 Klageänderungen und Beiladungen sind im Revisionsverfahren unzulässig. Dies gilt nicht für die Beiladung der Bundesrepublik Deutschland in Angelegenheiten des sozialen Entschädigungsrechts nach § 75 Abs. 1 Satz 2 und, sofern der Beizuladende zustimmt, für Beiladungen nach § 75 Abs. 2.
 
-
-## § 169
+# § 169
 
 Das Bundessozialgericht hat zu prüfen, ob die Revision statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet worden ist. Mangelt es an einem dieser Erfordernisse, so ist die Revision als unzulässig zu verwerfen. Die Verwerfung ohne mündliche Verhandlung erfolgt durch Beschluß ohne Zuziehung der ehrenamtlichen Richter.
 
-
-## § 170
+# § 170
 
 (1) Ist die Revision unbegründet, so weist das Bundessozialgericht die Revision zurück. Ergeben die Entscheidungsgründe zwar eine Gesetzesverletzung, stellt sich die Entscheidung selbst aber aus anderen Gründen als richtig dar, so ist die Revision ebenfalls zurückzuweisen.
 
@@ -1837,18 +1656,15 @@ Das Bundessozialgericht hat zu prüfen, ob die Revision statthaft und ob sie in 
 
 (5) Das Gericht, an das die Sache zur erneuten Verhandlung und Entscheidung zurückverwiesen ist, hat seiner Entscheidung die rechtliche Beurteilung des Revisionsgerichts zugrunde zu legen.
 
-
-## § 170a
+# § 170a
 
 Eine Abschrift des Urteils ist den ehrenamtlichen Richtern, die bei der Entscheidung mitgewirkt haben, vor Übermittlung an die Geschäftsstelle zu übermitteln. Die ehrenamtlichen Richter können sich dazu innerhalb von zwei Wochen gegenüber dem Vorsitzenden des erkennenden Senats äußern.
 
-
-## § 171
+# § 171
 
 Wird während des Revisionsverfahrens der angefochtene Verwaltungsakt durch einen neuen abgeändert oder ersetzt, so gilt der neue Verwaltungsakt als mit der Klage beim Sozialgericht angefochten, es sei denn, daß der Kläger durch den neuen Verwaltungsakt klaglos gestellt oder dem Klagebegehren durch die Entscheidung des Revisionsgerichts zum ersten Verwaltungsakt in vollem Umfang genügt wird.
 
-
-## § 172
+# § 172
 
 (1) Gegen die Entscheidungen der Sozialgerichte mit Ausnahme der Urteile und gegen Entscheidungen der Vorsitzenden dieser Gerichte findet die Beschwerde an das Landessozialgericht statt, soweit nicht in diesem Gesetz anderes bestimmt ist.
 
@@ -1870,38 +1686,31 @@ c) das Gericht in der Sache durch Beschluss entscheidet, gegen den die Beschwerd
 
 4. gegen Entscheidungen nach § 192 Abs. 4, wenn in der Hauptsache kein Rechtsmittel gegeben ist und der Wert des Beschwerdegegenstandes 200 Euro nicht übersteigt.
 
-
-## § 173
+# § 173
 
 Die Beschwerde ist binnen eines Monats nach Bekanntgabe der Entscheidung beim Sozialgericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle einzulegen; § 181 des Gerichtsverfassungsgesetzes bleibt unberührt. Die Beschwerdefrist ist auch gewahrt, wenn die Beschwerde innerhalb der Frist bei dem Landessozialgericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle eingelegt wird. Die Belehrung über das Beschwerderecht ist auch mündlich möglich; sie ist dann aktenkundig zu machen.
 
-
-## § 174 – (weggefallen)
+# § 174 – (weggefallen)
 
 \-
 
-
-## § 175
+# § 175
 
 Die Beschwerde hat aufschiebende Wirkung, wenn sie die Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat. Soweit dieses Gesetz auf Vorschriften der Zivilprozeßordnung und des Gerichtsverfassungsgesetzes verweist, regelt sich die aufschiebende Wirkung nach diesen Gesetzen. Das Gericht oder der Vorsitzende, dessen Entscheidung angefochten wird, kann bestimmen, daß der Vollzug der angefochtenen Entscheidung einstweilen auszusetzen ist.
 
-
-## § 176
+# § 176
 
 Über die Beschwerde entscheidet das Landessozialgericht durch Beschluß.
 
-
-## § 177
+# § 177
 
 Entscheidungen des Landessozialgerichts, seines Vorsitzenden oder des Berichterstatters können vorbehaltlich des § 160a Abs. 1 dieses Gesetzes und des § 17a Abs. 4 Satz 4 des Gerichtsverfassungsgesetzes nicht mit der Beschwerde an das Bundessozialgericht angefochten werden.
 
-
-## § 178
+# § 178
 
 Gegen die Entscheidungen des ersuchten oder beauftragten Richters oder des Urkundsbeamten kann binnen eines Monats nach Bekanntgabe das Gericht angerufen werden, das endgültig entscheidet. Die §§ 173 bis 175 gelten entsprechend.
 
-
-## § 178a
+# § 178a
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -1921,8 +1730,7 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (6) § 175 Satz 3 ist entsprechend anzuwenden.
 
-
-## § 179
+# § 179
 
 (1) Ein rechtskräftig beendetes Verfahren kann entsprechend den Vorschriften des Vierten Buches der Zivilprozeßordnung wieder aufgenommen werden.
 
@@ -1930,8 +1738,7 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (3) Auf Antrag kann das Gericht anordnen, daß die gewährten Leistungen zurückzuerstatten sind.
 
-
-## § 180
+# § 180
 
 (1) Eine Wiederaufnahme des Verfahrens ist auch zulässig, wenn
 
@@ -1949,32 +1756,27 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (6) (weggefallen)
 
-
-## § 181
+# § 181
 
 Will das Gericht die Klage gegen einen Versicherungsträger ablehnen, weil es einen anderen Versicherungsträger für leistungspflichtig hält, obwohl dieser bereits den Anspruch endgültig abgelehnt hat oder in einem früheren Verfahren rechtskräftig befreit worden ist, so verständigt es den anderen Versicherungsträger und das Gericht, das über den Anspruch rechtskräftig entschieden hat, und gibt die Sache zur Entscheidung an das gemeinsam nächsthöhere Gericht ab. Im übrigen gilt § 180 Abs. 2 und Abs. 4 und 5.
 
-
-## § 182
+# § 182
 
 (1) Hat das Bundessozialgericht oder ein Landessozialgericht die Leistungspflicht eines Versicherungsträgers rechtskräftig verneint, weil ein anderer Versicherungsträger verpflichtet sei, so kann der Anspruch gegen den anderen Versicherungsträger nicht abgelehnt werden, weil der im früheren Verfahren befreite Versicherungsträger leistungspflichtig sei.
 
 (2) Das gleiche gilt im Verhältnis zwischen einem Versicherungsträger und einem Land, wenn die Leistungspflicht nach dem sozialen Entschädigungsrecht streitig ist.
 
-
-## § 182a
+# § 182a
 
 (1) Beitragsansprüche von Unternehmen der privaten Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch können nach den Vorschriften der Zivilprozeßordnung im Mahnverfahren vor dem Amtsgericht geltend gemacht werden. In dem Antrag auf Erlaß des Mahnbescheids können mit dem Beitragsanspruch Ansprüche anderer Art nicht verbunden werden. Der Widerspruch gegen den Mahnbescheid kann zurückgenommen werden, solange die Abgabe an das Sozialgericht nicht verfügt ist.
 
 (2) Mit Eingang der Akten beim Sozialgericht ist nach den Vorschriften dieses Gesetzes zu verfahren. Für die Entscheidung des Sozialgerichts über den Einspruch gegen den Vollstreckungsbescheid gelten § 700 Abs. 1 und § 343 der Zivilprozeßordnung entsprechend.
 
-
-## § 183
+# § 183
 
 Das Verfahren vor den Gerichten der Sozialgerichtsbarkeit ist für Versicherte, Leistungsempfänger einschließlich Hinterbliebenenleistungsempfänger, behinderte Menschen oder deren Sonderrechtsnachfolger nach § 56 des Ersten Buches Sozialgesetzbuch kostenfrei, soweit sie in dieser jeweiligen Eigenschaft als Kläger oder Beklagte beteiligt sind. Nimmt ein sonstiger Rechtsnachfolger das Verfahren auf, bleibt das Verfahren in dem Rechtszug kostenfrei. Den in Satz 1 und 2 genannten Personen steht gleich, wer im Falle des Obsiegens zu diesen Personen gehören würde. Leistungsempfängern nach Satz 1 stehen Antragsteller nach § 55a Absatz 2 Satz 1 zweite Alternative gleich. § 93 Satz 3, § 109 Abs. 1 Satz 2, § 120 Absatz 1 Satz 2 und § 192 bleiben unberührt. Die Kostenfreiheit nach dieser Vorschrift gilt nicht in einem Verfahren wegen eines überlangen Gerichtsverfahrens (§ 202 Satz 2).
 
-
-## § 184
+# § 184
 
 (1) Kläger und Beklagte, die nicht zu den in § 183 genannten Personen gehören, haben für jede Streitsache eine Gebühr zu entrichten. Die Gebühr entsteht, sobald die Streitsache rechtshängig geworden ist; sie ist für jeden Rechtszug zu zahlen. Soweit wegen derselben Streitsache ein Mahnverfahren (§ 182a) vorausgegangen ist, wird die Gebühr für das Verfahren über den Antrag auf Erlass eines Mahnbescheids nach dem Gerichtskostengesetz angerechnet.
 
@@ -1991,45 +1793,37 @@ festgesetzt.
 
 (3) § 2 des Gerichtskostengesetzes gilt entsprechend.
 
-
-## § 185
+# § 185
 
 Die Gebühr wird fällig, sobald die Streitsache durch Zurücknahme des Rechtsbehelfs, durch Vergleich, Anerkenntnis, Beschluß oder durch Urteil erledigt ist.
 
-
-## § 186
+# § 186
 
 Wird eine Sache nicht durch Urteil erledigt, so ermäßigt sich die Gebühr auf die Hälfte. Die Gebühr entfällt, wenn die Erledigung auf einer Rechtsänderung beruht.
 
-
-## § 187
+# § 187
 
 Sind an einer Streitsache mehrere nach § 184 Abs. 1 Gebührenpflichtige beteiligt, so haben sie die Gebühr zu gleichen Teilen zu entrichten.
 
-
-## § 188
+# § 188
 
 Wird ein durch rechtskräftiges Urteil abgeschlossenes Verfahren wieder aufgenommen, so ist das neue Verfahren eine besondere Streitsache.
 
-
-## § 189
+# § 189
 
 (1) Die Gebühren für die Streitsachen werden in einem Verzeichnis zusammengestellt. Die Mitteilung eines Auszugs aus diesem Verzeichnis an die nach § 184 Abs. 1 Gebührenpflichtigen gilt als Feststellung der Gebührenschuld und als Aufforderung, den Gebührenbetrag binnen eines Monats an die in der Mitteilung angegebene Stelle zu zahlen.
 
 (2) Die Feststellung erfolgt durch den Urkundsbeamten der Geschäftsstelle. Gegen diese Feststellung kann binnen eines Monats nach Mitteilung das Gericht angerufen werden, das endgültig entscheidet.
 
-
-## § 190
+# § 190
 
 Die Präsidenten und die aufsichtführenden Richter der Gerichte der Sozialgerichtsbarkeit sind befugt, eine Gebühr, die durch unrichtige Behandlung der Sache ohne Schuld der gebührenpflichtigen Beteiligten entstanden ist, niederzuschlagen. Sie können von der Einziehung absehen, wenn sie mit Kosten oder Verwaltungsaufwand verknüpft ist, die in keinem Verhältnis zu der Einnahme stehen.
 
-
-## § 191
+# § 191
 
 Ist das persönliche Erscheinen eines Beteiligten angeordnet worden, so werden ihm auf Antrag bare Auslagen und Zeitverlust wie einem Zeugen vergütet; sie können vergütet werden, wenn er ohne Anordnung erscheint und das Gericht das Erscheinen für geboten hält.
 
-
-## § 192
+# § 192
 
 (1) Das Gericht kann im Urteil oder, wenn das Verfahren anders beendet wird, durch Beschluss einem Beteiligten ganz oder teilweise die Kosten auferlegen, die dadurch verursacht werden, dass
 
@@ -2045,8 +1839,7 @@ Dem Beteiligten steht gleich sein Vertreter oder Bevollmächtigter. Als verursac
 
 (4) Das Gericht kann der Behörde ganz oder teilweise die Kosten auferlegen, die dadurch verursacht werden, dass die Behörde erkennbare und notwendige Ermittlungen im Verwaltungsverfahren unterlassen hat, die im gerichtlichen Verfahren nachgeholt wurden. Die Entscheidung ergeht durch gesonderten Beschluss.
 
-
-## § 193
+# § 193
 
 (1) Das Gericht hat im Urteil zu entscheiden, ob und in welchem Umfang die Beteiligten einander Kosten zu erstatten haben. Ist ein Mahnverfahren vorausgegangen (§ 182a), entscheidet das Gericht auch, welcher Beteiligte die Gerichtskosten zu tragen hat. Das Gericht entscheidet auf Antrag durch Beschluß, wenn das Verfahren anders beendet wird.
 
@@ -2056,30 +1849,25 @@ Dem Beteiligten steht gleich sein Vertreter oder Bevollmächtigter. Als verursac
 
 (4) Nicht erstattungsfähig sind die Aufwendungen der in § 184 Abs. 1 genannten Gebührenpflichtigen.
 
-
-## § 194
+# § 194
 
 Sind mehrere Beteiligte kostenpflichtig, so gilt § 100 der Zivilprozeßordnung entsprechend. Die Kosten können ihnen als Gesamtschuldnern auferlegt werden, wenn das Streitverhältnis ihnen gegenüber nur einheitlich entschieden werden kann.
 
-
-## § 195
+# § 195
 
 Wird der Rechtsstreit durch gerichtlichen Vergleich erledigt und haben die Beteiligten keine Bestimmung über die Kosten getroffen, so trägt jeder Beteiligte seine Kosten.
 
-
-## § 196
+# § 196
 
 (weggefallen)
 
-
-## § 197
+# § 197
 
 (1) Auf Antrag der Beteiligten oder ihrer Bevollmächtigten setzt der Urkundsbeamte des Gerichts des ersten Rechtszugs den Betrag der zu erstattenden Kosten fest. § 104 Abs. 1 Satz 2 und Abs. 2 der Zivilprozeßordnung findet entsprechende Anwendung.
 
 (2) Gegen die Entscheidung des Urkundsbeamten der Geschäftsstelle kann binnen eines Monats nach Bekanntgabe das Gericht angerufen werden, das endgültig entscheidet.
 
-
-## § 197a
+# § 197a
 
 (1) Gehört in einem Rechtszug weder der Kläger noch der Beklagte zu den in § 183 genannten Personen oder handelt es sich um ein Verfahren wegen eines überlangen Gerichtsverfahrens (§ 202 Satz 2), werden Kosten nach den Vorschriften des Gerichtskostengesetzes erhoben; die §§ 184 bis 195 finden keine Anwendung; die §§ 154 bis 162 der Verwaltungsgerichtsordnung sind entsprechend anzuwenden. Wird die Klage zurückgenommen, findet § 161 Abs. 2 der Verwaltungsgerichtsordnung keine Anwendung.
 
@@ -2087,13 +1875,11 @@ Wird der Rechtsstreit durch gerichtlichen Vergleich erledigt und haben die Betei
 
 (3) Die Absätze 1 und 2 gelten auch für Träger der Sozialhilfe einschließlich der Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch, soweit sie an Erstattungsstreitigkeiten mit anderen Trägern beteiligt sind.
 
-
-## § 197b
+# § 197b
 
 Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das Justizverwaltungskostengesetz und das Justizbeitreibungsgesetz entsprechend, soweit sie nicht unmittelbar Anwendung finden. Vollstreckungsbehörde ist die Justizbeitreibungsstelle des Bundessozialgerichts.
 
-
-## § 198
+# § 198
 
 (1) Für die Vollstreckung gilt das Achte Buch der Zivilprozeßordnung entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
@@ -2101,8 +1887,7 @@ Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das Justizverwal
 
 (3) An die Stelle der sofortigen Beschwerde tritt die Beschwerde (§§ 172 bis 177).
 
-
-## § 199
+# § 199
 
 (1) Vollstreckt wird
 
@@ -2122,88 +1907,72 @@ Für Ansprüche, die beim Bundessozialgericht entstehen, gelten das Justizverwal
 
 (4) Für die Vollstreckung können den Beteiligten auf ihren Antrag Ausfertigungen des Urteils ohne Tatbestand und ohne Entscheidungsgründe erteilt werden, deren Zustellung in den Wirkungen der Zustellung eines vollständigen Urteils gleichsteht.
 
-
-## § 200
+# § 200
 
 (1) Soll zugunsten einer Bundesbehörde oder einer bundesunmittelbaren Körperschaft des öffentlichen Rechts oder einer bundesunmittelbaren Anstalt des öffentlichen Rechts vollstreckt werden, so richtet sich die Vollstreckung nach dem Verwaltungsvollstreckungsgesetz.
 
 (2) Bei der Vollstreckung zugunsten einer Behörde, die nicht Bundesbehörde ist, sowie zugunsten einer nicht bundesunmittelbaren Körperschaft oder Anstalt des öffentlichen Rechts gelten die Vorschriften des Verwaltungsvollstreckungsgesetzes entsprechend. In diesem Fall bestimmt das Land die Vollstreckungsbehörde.
 
-
-## § 201
+# § 201
 
 (1) Kommt die Behörde in den Fällen des § 131 der im Urteil auferlegten Verpflichtung nicht nach, so kann das Gericht des ersten Rechtszugs auf Antrag unter Fristsetzung ein Zwangsgeld bis zu tausend Euro durch Beschluß androhen und nach vergeblichem Fristablauf festsetzen. Das Zwangsgeld kann wiederholt festgesetzt werden.
 
 (2) Für die Vollstreckung gilt § 200.
 
-
-## § 202
+# § 202
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt. In Streitigkeiten über Entscheidungen des Bundeskartellamts, die die freiwillige Vereinigung von Krankenkassen nach § 172a des Fünften Buches Sozialgesetzbuch betreffen, sind die §§ 63 bis 80 des Gesetzes gegen Wettbewerbsbeschränkungen mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Landessozialgericht, an die Stelle des Bundesgerichtshofs das Bundessozialgericht und an die Stelle der Zivilprozessordnung das Sozialgerichtsgesetz tritt.
 
-
-## § 203
+# § 203
 
 \-
 
-
-## § 203a
+# § 203a
 
 Die Senate des Bundessozialgerichts können Sitzungen auch in Berlin abhalten.
 
-
-## § 204
+# § 204
 
 Vor die Gerichte der Sozialgerichtsbarkeit gehören auch Streitigkeiten, für welche durch Rechtsverordnung die Zuständigkeit der früheren Versicherungsbehörden oder Versorgungsgerichte begründet worden war.
 
-
-## § 205
+# § 205
 
 Erfolgt die Vernehmung oder die Vereidigung von Zeugen und Sachverständigen nach dem Zehnten Buch Sozialgesetzbuch durch das Sozialgericht, findet sie vor dem dafür im Geschäftsverteilungsplan bestimmten Richter statt. Über die Rechtmäßigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung nach dem Zehnten Buch Sozialgesetzbuch entscheidet das Sozialgericht durch Beschluß.
 
-
-## § 206
+# § 206
 
 (1) Auf Verfahren in Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes, die nicht auf die Gerichte der Sozialgerichtsbarkeit übergehen, ist § 188 der Verwaltungsgerichtsordnung in der bis zum 31. Dezember 2004 geltenden Fassung anzuwenden.
 
 (2) Auf Verfahren, die am 1. Januar 2009 bei den besonderen Spruchkörpern der Gerichte der Verwaltungsgerichtsbarkeit anhängig sind, sind die §§ 1, 50a bis 50 c und 60 in der bis zum 31. Dezember 2008 geltenden Fassung anzuwenden. Für einen Rechtsbehelf gegen Entscheidungen eines besonderen Spruchkörpers des Verwaltungsgerichts, die nach dem 31. Dezember 2008 ergehen, ist das Landessozialgericht zuständig.
 
-
-## § 207
+# § 207
 
 Verfahren in Streitigkeiten über Entscheidungen von Vergabekammern, die Rechtsbeziehungen nach § 69 des Fünften Buches Sozialgesetzbuch betreffen und die am 28. Dezember 2010 bei den Landessozialgerichten anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf das für den Sitz der Vergabekammer zuständige Oberlandesgericht über. Verfahren in Streitigkeiten über Entscheidungen von Vergabekammern, die Rechtsbeziehungen nach § 69 des Fünften Buches Sozialgesetzbuch betreffen und die am 28. Dezember 2010 beim Bundessozialgericht anhängig sind, gehen auf den Bundesgerichtshof über. Die Sätze 1 und 2 gelten nicht für Verfahren, die sich in der Hauptsache erledigt haben.
 
-
-## § 208
+# § 208
 
 (1) Ehrenamtliche Richter, die vor dem 1. Januar 2012 nach § 23 Absatz 1 Satz 2 als Mitglieder des Ausschusses der ehrenamtlichen Richter gewählt worden sind, bleiben bis zum Ende der für sie geltenden Wahlperiode im Amt. Dies gilt auch für ehrenamtliche Richter, die aus den Vorschlagslisten für den Kreis der Arbeitnehmer vor dem 25. Oktober 2013 in das Amt berufen worden sind.
 
 (2) Ehrenamtliche Richter, die aus den Vorschlagslisten für den Kreis der Arbeitnehmer vor dem 25. Oktober 2013 in das Amt berufen worden sind, bleiben bis zum Ende der Zeit, für die sie berufen worden sind, im Amt und gehören so lange den für Angelegenheiten der Grundsicherung für Arbeitsuchende einschließlich der Streitigkeiten auf Grund des § 6a des Bundeskindergeldgesetzes und der Arbeitsförderung zuständigen Kammern an.
 
-
-## § 209
+# § 209
 
 § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-
-## § 210
+# § 210
 
 Verfahren in Streitigkeiten über Entscheidungen der Schiedsstellen nach § 133 des Neunten Buches Sozialgesetzbuch, die am 23. Juni 2020 bei den Sozialgerichten anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf die Landessozialgerichte über. Dies gilt nicht für Verfahren, die sich in der Hauptsache erledigt haben.
 
+# §§ 211 bis 217 – (weggefallen)
 
-## §§ 211 bis 217 – (weggefallen)
-
-
-## § 218
+# § 218
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigungen erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 (2) bis (6) (weggefallen).
 
-
-## § 219
+# § 219
 
 Die Länder können Abweichungen von den Vorschriften des § 85 Abs. 2 Nr. 1 zulassen.
 
-
-## §§ 220 bis 223 – (weggefallen)
+# §§ 220 bis 223 – (weggefallen)

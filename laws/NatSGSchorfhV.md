@@ -1,22 +1,17 @@
-# [NatSGSchorfhV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Schorfheide-Chorin"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Schorfheide-Chorin"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (BGBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) Die in § 2 näher bezeichneten Landschaften nördlich des Eberswalder Urstromtals werden als Naturschutzgebiete und als ein Landschaftsschutzgebiet von zentraler Bedeutung festgesetzt.
 
 (2) Das Gesamtgebiet erhält die Bezeichnung "Biosphärenreservat Schorfheide - Chorin".
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Zum Biosphärenreservat "Schorfheide - Chorin" gehören folgende landschaftliche Raumeinheiten:
 
@@ -38,8 +33,7 @@ Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (BGBl
 
 9. das Templiner Seengebiet.
 
-(2) Das in anliegender Karte im Maßstab 1:50.000 dargestellte Biosphärenreservat "Schorfheide - Chorin" setzt sich aus Totalreservaten (Kernzonen), Naturschutzgebieten, Kulturlandschaften und devastierten (stark geschädigten) Landschaften zusammen.  
-Das Biosphärenreservat wird im einzelnen wie folgt begrenzt:
+(2) Das in anliegender Karte im Maßstab 1:50.000 dargestellte Biosphärenreservat "Schorfheide - Chorin" setzt sich aus Totalreservaten (Kernzonen), Naturschutzgebieten, Kulturlandschaften und devastierten (stark geschädigten) Landschaften zusammen. Das Biosphärenreservat wird im einzelnen wie folgt begrenzt:
 
 1. Grenzverlauf im Süden
 
@@ -59,8 +53,7 @@ Den Weg in südöstlicher Richtung bis zur Waldkante entlang, östlich nach N sc
 
 Von der Autobahn entlang Straße Gramzow/Melzow/Waldkante nach Süden zum Weg zur Oberförsterei Gramzow, Waldkante S bis Pflasterstraße Meichow/Warnitz, Weg Ausbau Meichow, von dort bis zur Kreisgrenze Prenzlau/Angermünde (Abzugsgraben), diesen entlang bis zum westlichen Ortseingang Polßen. Weg Polßen/Haussee/F 198. Die F 198 nach NO bis zur Straße Leopoldsthal/Biesenbrow. Westlich der Ortslage zur Straße Biesenbrow/Bahnhof Schönermark, Weg Bahnhof Schönermark/Klein Frauenhagen bis Straße Schönermark/Frauenhagen, Ortslage ausklammernd, Straße nach Mürow, Ortseingang Mürow, Weg Mürow/Welsow, Ortslage Welsow ausklammernd, Straße Welsow/Bahnhof Bruchhagen, Bahnlinie nach S Richtung Angermünde, nördlich Angermünde Bahnquerverbindung Bahnlinie Angermünde/Stralsund, darüber hinweg zum Weg südlich Teiche Blumberger Mühle Kranichpfuhl, an der Wiese nach S zur Straße Angermünde/Altkünkendorf, am Ortsrand Sternfelder Tanger nach S-Richtung Sternfelde, Ortslage ausklammernd, Weg nach Sonnenhof/Kalksandsteinwerk zur F 2, an der F 2 nach S bis zum Graben Richtung Herzsprung, diesen entlang bis Mudrowsee nördlich Herzsprung, Ortslage ausklammernd zur Straße Herzsprung/Bölkendorf, entlang der Straße bis Parstein Ortslage ausklammernd, Straße bis Neuendorf, weiterführend bis Sternlager, von Straße Sternlager nach O zur Eisenbahn Angermünde/Freienwalde, entlang der Eisenbahnlinie über die Alte Oder, diese entlang nach O und NO bis zur Einmündung in die Stromoder.
 
-
-## § 3 – Schutzzonen
+# § 3 – Schutzzonen
 
 (1) Das Biosphärenreservat wird in die Schutzzonen I bis IV gegliedert:
 
@@ -74,8 +67,7 @@ Von der Autobahn entlang Straße Gramzow/Melzow/Waldkante nach Süden zum Weg zu
 
 (2) Die Grenzen der Schutzzonen und die Gebietsnummern gemäß § 4 Abs. 3 sind in der in § 2 Abs. 2 genannten Karte eingetragen. Darüber hinaus sind die Grenzen der Schutzzonen in Karten M 1:10.000 eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Reservatsverwaltung und den Kreisverwaltungen. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 4 – Schutzzweck
+# § 4 – Schutzzweck
 
 (1) Die Unterschutzstellung dient dem Schutz, der Pflege und der Entwicklung der besonderen Vielfalt, Eigenart und Schönheit einer in Mitteleuropa einzigartigen Kulturlandschaft.
 
@@ -322,8 +314,7 @@ zur Erhaltung von Lebensstätten bedrohter Tier- und Pflanzenarten in einem funk
 \-  
 zur Erhaltung von Lebensräumen bedrohter Tier- und Pflanzenarten, insbesondere der Lebensgemeinschaften der ehemaligen Tongruben.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Zur Erhaltung und Wiederherstellung der Leistungsfähigkeit des Naturhaushaltes gelten folgende Gebote:
 
@@ -357,8 +348,7 @@ zur Erhaltung von Lebensräumen bedrohter Tier- und Pflanzenarten, insbesondere 
 
 (3) Für die Benutzung der Wasserstraßen über die Berufsschiffahrt hinaus ist ein Benutzungskonzept zu erstellen.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Biosphärenreservat ist es unbeschadet von den ergänzenden Regelungen der Absätze 2, 3 und 4 untersagt:
 
@@ -444,8 +434,7 @@ Das Betreten der Insel des Libbesickesees ist untersagt.
 
 Die Fischerei ist untersagt.
 
-
-## § 7 – Bestandsschutz und nicht betroffene Tätigkeiten
+# § 7 – Bestandsschutz und nicht betroffene Tätigkeiten
 
 (1) Unberührt von den Verboten des § 6 Abs. 1 bleiben die bei Inkrafttreten dieser Verordnung durch behördliche Einzelentscheidung rechtmäßig zugelassenen Nutzungen, ausgeübte Befugnisse sowie rechtmäßige Anlagen und Betriebe einschließlich ihrer Unterhaltung. Die bestandsgeschützten Rechte sind so schnell wie möglich auf ihre Vereinbarkeit mit dem Schutzzweck dieser Verordnung zu überprüfen und gegebenenfalls zu untersagen.
 
@@ -467,8 +456,7 @@ Die Fischerei ist untersagt.
 
 3. die bei Inkrafttreten dieser Verordnung rechtmäßig zugelassenen Ver- und Entsorgungsanlagen einschließlich ihrer Wartung und Unterhaltung.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten und Geboten dieser Verordnung kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -482,8 +470,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Verwaltung des Biosphärenreservates ist herzustellen bei
 
@@ -491,34 +478,28 @@ Das Einvernehmen mit der Verwaltung des Biosphärenreservates ist herzustellen b
 
 2. Maßnahmen zur Unterhaltung der Straßen, Wege, Deiche und Gewässer.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile die durch die Maßnahme verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1472)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

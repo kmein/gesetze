@@ -1,10 +1,7 @@
-# [ÖlSG] Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch Seeschiffe  (Ölschadengesetz - ÖlSG)
-
-Ausfertigungsdatum: 30.09.1988
-
+% Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch Seeschiffe  (Ölschadengesetz - ÖlSG)
+% Ausfertigungsdatum: 30.09.1988
  
-
-## § 1 – Anwendbarkeit von internationalen Übereinkommen
+# § 1 – Anwendbarkeit von internationalen Übereinkommen
 
 (1) Die Haftung und Entschädigung für Ölverschmutzungsschäden richten sich
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 30.09.1988
 
 (2) Die Bestimmungen des Haftungsübereinkommens von 1992 sowie des Bunkeröl-Übereinkommens sind, soweit in diesem Gesetz nichts anderes bestimmt ist, auch in bezug auf Seeschiffe anzuwenden, die nicht im Schiffsregister eines Vertragsstaats eingetragen sind oder die nicht die Flagge eines Vertragsstaats führen dürfen.
 
-
-## § 2 – Versicherungspflicht des Eigentümers und Nachweis der Versicherungspflicht
+# § 2 – Versicherungspflicht des Eigentümers und Nachweis der Versicherungspflicht
 
 (1) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats des Haftungsübereinkommens von 1992 eingetragenen noch die Flagge eines Vertragsstaats des Haftungsübereinkommens von 1992 führenden Seeschiffs, das mehr als zweitausend Tonnen Öl als Bulkladung befördert, hat eine Artikel VII Abs. 1 des Haftungsübereinkommens von 1984 entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrechtzuerhalten, in der sich das Schiff im Geltungsbereich dieses Gesetzes befindet.
 
@@ -33,8 +29,7 @@ Ausfertigungsdatum: 30.09.1988
 
 3. die gebührenpflichtigen Tatbestände für individuell zurechenbare öffentliche Leistungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung.
 
-
-## § 3 – Pflicht zur Mitführung der Versicherungsbescheinigung
+# § 3 – Pflicht zur Mitführung der Versicherungsbescheinigung
 
 (1) Der Eigentümer eines Seeschiffs ist verpflichtet, auf Fahrten, bei denen er nach Artikel VII Abs. 1 des Haftungsübereinkommens von 1992, nach Artikel 7 Abs. 1 des Bunkeröl-Übereinkommens oder nach § 2 Abs. 1 oder Abs. 2 eine Versicherung oder sonstige finanzielle Sicherheit aufrechtzuerhalten hat, die in § 2 Abs. 3 genannte Bescheinigung an Bord zu geben. Der Kapitän des Seeschiffes ist verpflichtet, auf diesen Fahrten die Bescheinigung an Bord mitzuführen und der zuständigen Behörde auf Verlangen vorzuweisen. Dies gilt auch für die Bescheinigung nach Artikel VII Abs. 12 des Haftungsübereinkommens von 1992 und Artikel 7 Abs. 14 des Bunkeröl-Übereinkommens.
 
@@ -50,8 +45,7 @@ Ausfertigungsdatum: 30.09.1988
 
 besteht.
 
-
-## § 4 – Behördliche Zuständigkeiten
+# § 4 – Behördliche Zuständigkeiten
 
 (1) § 2 Abs. 4 und § 3 werden durch die Bundesverwaltung ausgeführt.
 
@@ -65,8 +59,7 @@ besteht.
 
 (3) (weggefallen)
 
-
-## § 5 – Mitteilung der erhaltenen Ölmengen
+# § 5 – Mitteilung der erhaltenen Ölmengen
 
 (1) Das Bundesministerium für Wirtschaft und Energie teilt dem Direktor des Internationalen Entschädigungsfonds für Ölverschmutzungsschäden (Fonds) die in Artikel 15 Abs. 2 des Fondsübereinkommens von 1992 und dem Direktor des Zusatzfondsübereinkommens von 2003 die in Artikel 13 des Zusatzfondsübereinkommens von 2003 vorgesehenen Angaben hinsichtlich des im Geltungsbereich dieses Gesetzes erhaltenen beitragspflichtigen Öls mit.
 
@@ -82,8 +75,7 @@ besteht.
 
 (7) Das Bundesministerium für Wirtschaft und Energie erläßt im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung nähere Bestimmungen über die in Absatz 2 vorgesehenen Angaben, ihre Form und die zu wahrenden Fristen.
 
-
-## § 6 – Gerichtliche Zuständigkeiten
+# § 6 – Gerichtliche Zuständigkeiten
 
 (1) Für Streitigkeiten wegen der Ansprüche
 
@@ -105,13 +97,11 @@ ist der Rechtsweg zu den ordentlichen Gerichten gegeben, soweit sich nicht aus A
 
 ist auch das Gericht zuständig, in dessen Bezirk das schädigende Ereignis oder der Verschmutzungsschaden eingetreten ist oder Schutzmaßnahmen im Sinne von Artikel I Nr. 7 des Haftungsübereinkommens von 1992 oder Artikel 1 Nr. 9 des Bunkeröl-Übereinkommens ergriffen oder angeordnet worden sind.
 
-
-## § 6a – Anerkennung und Vollstreckung
+# § 6a – Anerkennung und Vollstreckung
 
 Die in einem Mitgliedstaat der Europäischen Union ergangenen Entscheidungen über Schadenersatzklagen auf Grund des Bunkeröl-Übereinkommens werden gemäß Europäischem Gemeinschaftsrecht anerkannt und vollstreckt; Artikel 10 des Bunkeröl-Übereinkommens ist insoweit nicht anzuwenden. Satz 1 gilt nicht für Entscheidungen eines Gerichts in Dänemark.
 
-
-## § 7 – Strafvorschrift
+# § 7 – Strafvorschrift
 
 (1) Wer als Eigentümer mit einem Seeschiff, für das die in Artikel VII Abs. 1 des Haftungsübereinkommens von 1992 oder in § 2 Abs. 1 vorgeschriebene Versicherung oder sonstige finanzielle Sicherheit nicht besteht, mehr als zweitausend Tonnen Öl als Bulkladung befördert oder befördern läßt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
@@ -119,8 +109,7 @@ Die in einem Mitgliedstaat der Europäischen Union ergangenen Entscheidungen üb
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 8 – Bußgeldvorschrift
+# § 8 – Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -136,32 +125,26 @@ Die in einem Mitgliedstaat der Europäischen Union ergangenen Entscheidungen üb
 
 (3) Die Ordnungswidrigkeit kann im Falle des Absatzes 1 Nr. 1 und des Absatzes 2 mit einer Geldbuße bis zu fünfundzwanzigtausend, in den Fällen des Absatzes 1 Nr. 2 bis 4 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 9
-
-\-
-
-
-## § 10
+# § 9
 
 \-
 
+# § 10
 
-## § 11
+\-
 
-(weggefallen)
-
-
-## § 12
+# § 11
 
 (weggefallen)
 
-
-## § 13
+# § 12
 
 (weggefallen)
 
+# § 13
 
-## § 14
+(weggefallen)
+
+# § 14
 
 (weggefallen)

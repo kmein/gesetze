@@ -1,10 +1,7 @@
-# [Münz2DMBek 1973] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
-
-Ausfertigungsdatum: 15.06.1973
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
+% Ausfertigungsdatum: 15.06.1973
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) gibt der Bund nachfolgend beschriebene, für den Zahlungsverkehr bestimmte Bundesmünze im Nennwert von 2 Deutschen Mark heraus. Die Münze wird in hoher Auflage geprägt und soll - ebenso wie die Adenauer-Münze - die Max-Planck-Münze zu 2 Deutsche Mark ersetzen, die in Kürze außer Kurs gesetzt wird. Mit der Ausgabe der neuen Münze wird am 1. Juli 1973 begonnen.
 
@@ -37,13 +34,11 @@ versehen. Zwischen jedem der Worte ist ein Ornament, am Schluß der Inschrift si
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

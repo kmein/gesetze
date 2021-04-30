@@ -1,10 +1,7 @@
-# [AktG] Aktiengesetz
-
-Ausfertigungsdatum: 06.09.1965
-
+% Aktiengesetz
+% Ausfertigungsdatum: 06.09.1965
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erstes Buch
 
@@ -702,52 +699,43 @@ Straf- und Bußgeldvorschriften. Schlußvorschriften
 
 §§ 399 - 410
 
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Wesen der Aktiengesellschaft
+# § 1 – Wesen der Aktiengesellschaft
 
 (1) Die Aktiengesellschaft ist eine Gesellschaft mit eigener Rechtspersönlichkeit. Für die Verbindlichkeiten der Gesellschaft haftet den Gläubigern nur das Gesellschaftsvermögen.
 
 (2) Die Aktiengesellschaft hat ein in Aktien zerlegtes Grundkapital.
 
-
-## § 2 – Gründerzahl
+# § 2 – Gründerzahl
 
 An der Feststellung des Gesellschaftsvertrags (der Satzung) müssen sich eine oder mehrere Personen beteiligen, welche die Aktien gegen Einlagen übernehmen.
 
-
-## § 3 – Formkaufmann. Börsennotierung
+# § 3 – Formkaufmann. Börsennotierung
 
 (1) Die Aktiengesellschaft gilt als Handelsgesellschaft, auch wenn der Gegenstand des Unternehmens nicht im Betrieb eines Handelsgewerbes besteht.
 
 (2) Börsennotiert im Sinne dieses Gesetzes sind Gesellschaften, deren Aktien zu einem Markt zugelassen sind, der von staatlich anerkannten Stellen geregelt und überwacht wird, regelmäßig stattfindet und für das Publikum mittelbar oder unmittelbar zugänglich ist.
 
-
-## § 4 – Firma
+# § 4 – Firma
 
 Die Firma der Aktiengesellschaft muß, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung "Aktiengesellschaft" oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
-
-## § 5 – Sitz
+# § 5 – Sitz
 
 Sitz der Gesellschaft ist der Ort im Inland, den die Satzung bestimmt.
 
-
-## § 6 – Grundkapital
+# § 6 – Grundkapital
 
 Das Grundkapital muß auf einen Nennbetrag in Euro lauten.
 
-
-## § 7 – Mindestnennbetrag des Grundkapitals
+# § 7 – Mindestnennbetrag des Grundkapitals
 
 Der Mindestnennbetrag des Grundkapitals ist fünfzigtausend Euro.
 
-
-## § 8 – Form und Mindestbeträge der Aktien
+# § 8 – Form und Mindestbeträge der Aktien
 
 (1) Die Aktien können entweder als Nennbetragsaktien oder als Stückaktien begründet werden.
 
@@ -761,15 +749,13 @@ Der Mindestnennbetrag des Grundkapitals ist fünfzigtausend Euro.
 
 (6) Diese Vorschriften gelten auch für Anteilscheine, die den Aktionären vor der Ausgabe der Aktien erteilt werden (Zwischenscheine).
 
-
-## § 9 – Ausgabebetrag der Aktien
+# § 9 – Ausgabebetrag der Aktien
 
 (1) Für einen geringeren Betrag als den Nennbetrag oder den auf die einzelne Stückaktie entfallenden anteiligen Betrag des Grundkapitals dürfen Aktien nicht ausgegeben werden (geringster Ausgabebetrag).
 
 (2) Für einen höheren Betrag ist die Ausgabe zulässig.
 
-
-## § 10 – Aktien und Zwischenscheine
+# § 10 – Aktien und Zwischenscheine
 
 (1) Die Aktien lauten auf Namen. Sie können auf den Inhaber lauten, wenn
 
@@ -793,35 +779,29 @@ Solange im Fall des Satzes 2 Nummer 2 die Sammelurkunde nicht hinterlegt ist, is
 
 (5) In der Satzung kann der Anspruch des Aktionärs auf Verbriefung seines Anteils ausgeschlossen oder eingeschränkt werden.
 
-
-## § 11 – Aktien besonderer Gattung
+# § 11 – Aktien besonderer Gattung
 
 Die Aktien können verschiedene Rechte gewähren, namentlich bei der Verteilung des Gewinns und des Gesellschaftsvermögens. Aktien mit gleichen Rechten bilden eine Gattung.
 
-
-## § 12 – Stimmrecht. Keine Mehrstimmrechte
+# § 12 – Stimmrecht. Keine Mehrstimmrechte
 
 (1) Jede Aktie gewährt das Stimmrecht. Vorzugsaktien können nach den Vorschriften dieses Gesetzes als Aktien ohne Stimmrecht ausgegeben werden.
 
 (2) Mehrstimmrechte sind unzulässig.
 
-
-## § 13 – Unterzeichnung der Aktien
+# § 13 – Unterzeichnung der Aktien
 
 Zur Unterzeichnung von Aktien und Zwischenscheinen genügt eine vervielfältigte Unterschrift. Die Gültigkeit der Unterzeichnung kann von der Beachtung einer besonderen Form abhängig gemacht werden. Die Formvorschrift muß in der Urkunde enthalten sein.
 
-
-## § 14 – Zuständigkeit
+# § 14 – Zuständigkeit
 
 Gericht im Sinne dieses Gesetzes ist, wenn nichts anderes bestimmt ist, das Gericht des Sitzes der Gesellschaft.
 
-
-## § 15 – Verbundene Unternehmen
+# § 15 – Verbundene Unternehmen
 
 Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen (§ 16), abhängige und herrschende Unternehmen (§ 17), Konzernunternehmen (§ 18), wechselseitig beteiligte Unternehmen (§ 19) oder Vertragsteile eines Unternehmensvertrags (§§ 291, 292) sind.
 
-
-## § 16 – In Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen
+# § 16 – In Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen
 
 (1) Gehört die Mehrheit der Anteile eines rechtlich selbständigen Unternehmens einem anderen Unternehmen oder steht einem anderen Unternehmen die Mehrheit der Stimmrechte zu (Mehrheitsbeteiligung), so ist das Unternehmen ein in Mehrheitsbesitz stehendes Unternehmen, das andere Unternehmen ein an ihm mit Mehrheit beteiligtes Unternehmen.
 
@@ -831,22 +811,19 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 (4) Als Anteile, die einem Unternehmen gehören, gelten auch die Anteile, die einem von ihm abhängigen Unternehmen oder einem anderen für Rechnung des Unternehmens oder eines von diesem abhängigen Unternehmens gehören und, wenn der Inhaber des Unternehmens ein Einzelkaufmann ist, auch die Anteile, die sonstiges Vermögen des Inhabers sind.
 
-
-## § 17 – Abhängige und herrschende Unternehmen
+# § 17 – Abhängige und herrschende Unternehmen
 
 (1) Abhängige Unternehmen sind rechtlich selbständige Unternehmen, auf die ein anderes Unternehmen (herrschendes Unternehmen) unmittelbar oder mittelbar einen beherrschenden Einfluß ausüben kann.
 
 (2) Von einem in Mehrheitsbesitz stehenden Unternehmen wird vermutet, daß es von dem an ihm mit Mehrheit beteiligten Unternehmen abhängig ist.
 
-
-## § 18 – Konzern und Konzernunternehmen
+# § 18 – Konzern und Konzernunternehmen
 
 (1) Sind ein herrschendes und ein oder mehrere abhängige Unternehmen unter der einheitlichen Leitung des herrschenden Unternehmens zusammengefaßt, so bilden sie einen Konzern; die einzelnen Unternehmen sind Konzernunternehmen. Unternehmen, zwischen denen ein Beherrschungsvertrag (§ 291) besteht oder von denen das eine in das andere eingegliedert ist (§ 319), sind als unter einheitlicher Leitung zusammengefaßt anzusehen. Von einem abhängigen Unternehmen wird vermutet, daß es mit dem herrschenden Unternehmen einen Konzern bildet.
 
 (2) Sind rechtlich selbständige Unternehmen, ohne daß das eine Unternehmen von dem anderen abhängig ist, unter einheitlicher Leitung zusammengefaßt, so bilden sie auch einen Konzern; die einzelnen Unternehmen sind Konzernunternehmen.
 
-
-## § 19 – Wechselseitig beteiligte Unternehmen
+# § 19 – Wechselseitig beteiligte Unternehmen
 
 (1) Wechselseitig beteiligte Unternehmen sind Unternehmen mit Sitz im Inland in der Rechtsform einer Kapitalgesellschaft, die dadurch verbunden sind, daß jedem Unternehmen mehr als der vierte Teil der Anteile des anderen Unternehmens gehört. Für die Feststellung, ob einem Unternehmen mehr als der vierte Teil der Anteile des anderen Unternehmens gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4.
 
@@ -856,8 +833,7 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 (4) § 328 ist auf Unternehmen, die nach Absatz 2 oder 3 herrschende oder abhängige Unternehmen sind, nicht anzuwenden.
 
-
-## § 20 – Mitteilungspflichten
+# § 20 – Mitteilungspflichten
 
 (1) Sobald einem Unternehmen mehr als der vierte Teil der Aktien einer Aktiengesellschaft mit Sitz im Inland gehört, hat es dies der Gesellschaft unverzüglich schriftlich mitzuteilen. Für die Feststellung, ob dem Unternehmen mehr als der vierte Teil der Aktien gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4.
 
@@ -879,8 +855,7 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 (8) Die Absätze 1 bis 7 gelten nicht für Aktien eines Emittenten im Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
-
-## § 21 – Mitteilungspflichten der Gesellschaft
+# § 21 – Mitteilungspflichten der Gesellschaft
 
 (1) Sobald der Gesellschaft mehr als der vierte Teil der Anteile einer anderen Kapitalgesellschaft mit Sitz im Inland gehört, hat sie dies dem Unternehmen, an dem die Beteiligung besteht, unverzüglich schriftlich mitzuteilen. Für die Feststellung, ob der Gesellschaft mehr als der vierte Teil der Anteile gehört, gilt § 16 Abs. 2 Satz 1, Abs. 4 sinngemäß.
 
@@ -892,13 +867,11 @@ Verbundene Unternehmen sind rechtlich selbständige Unternehmen, die im Verhält
 
 (5) Die Absätze 1 bis 4 gelten nicht für Aktien eines Emittenten im Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
-
-## § 22 – Nachweis mitgeteilter Beteiligungen
+# § 22 – Nachweis mitgeteilter Beteiligungen
 
 Ein Unternehmen, dem eine Mitteilung nach § 20 Abs. 1, 3 oder 4, § 21 Abs. 1 oder 2 gemacht worden ist, kann jederzeit verlangen, daß ihm das Bestehen der Beteiligung nachgewiesen wird.
 
-
-## § 23 – Feststellung der Satzung
+# § 23 – Feststellung der Satzung
 
 (1) Die Satzung muß durch notarielle Beurkundung festgestellt werden. Bevollmächtigte bedürfen einer notariell beglaubigten Vollmacht.
 
@@ -930,16 +903,13 @@ Ein Unternehmen, dem eine Mitteilung nach § 20 Abs. 1, 3 oder 4, § 21 Abs. 1 o
 
 (+++ § 23 Abs. 5: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
+# § 24 – (weggefallen)
 
-## § 24 – (weggefallen)
-
-
-## § 25 – Bekanntmachungen der Gesellschaft
+# § 25 – Bekanntmachungen der Gesellschaft
 
 Bestimmt das Gesetz oder die Satzung, daß eine Bekanntmachung der Gesellschaft durch die Gesellschaftsblätter erfolgen soll, so ist sie in den Bundesanzeiger einzurücken.
 
-
-## § 26 – Sondervorteile. Gründungsaufwand
+# § 26 – Sondervorteile. Gründungsaufwand
 
 (1) Jeder einem einzelnen Aktionär oder einem Dritten eingeräumte besondere Vorteil muß in der Satzung unter Bezeichnung des Berechtigten festgesetzt werden.
 
@@ -951,8 +921,7 @@ Bestimmt das Gesetz oder die Satzung, daß eine Bekanntmachung der Gesellschaft 
 
 (5) Die Satzungsbestimmungen über die Festsetzungen können durch Satzungsänderung erst beseitigt werden, wenn die Gesellschaft dreißig Jahre im Handelsregister eingetragen ist und wenn die Rechtsverhältnisse, die den Festsetzungen zugrunde liegen, seit mindestens fünf Jahren abgewickelt sind.
 
-
-## § 27 – Sacheinlagen, Sachübernahmen; Rückzahlung von Einlagen
+# § 27 – Sacheinlagen, Sachübernahmen; Rückzahlung von Einlagen
 
 (1) Sollen Aktionäre Einlagen machen, die nicht durch Einzahlung des Ausgabebetrags der Aktien zu leisten sind (Sacheinlagen), oder soll die Gesellschaft vorhandene oder herzustellende Anlagen oder andere Vermögensgegenstände übernehmen (Sachübernahmen), so müssen in der Satzung festgesetzt werden der Gegenstand der Sacheinlage oder der Sachübernahme, die Person, von der die Gesellschaft den Gegenstand erwirbt, und der Nennbetrag, bei Stückaktien die Zahl der bei der Sacheinlage zu gewährenden Aktien oder die bei der Sachübernahme zu gewährende Vergütung. Soll die Gesellschaft einen Vermögensgegenstand übernehmen, für den eine Vergütung gewährt wird, die auf die Einlage eines Aktionärs angerechnet werden soll, so gilt dies als Sacheinlage.
 
@@ -964,18 +933,15 @@ Bestimmt das Gesetz oder die Satzung, daß eine Bekanntmachung der Gesellschaft 
 
 (5) Für die Änderung rechtswirksam getroffener Festsetzungen gilt § 26 Abs. 4, für die Beseitigung der Satzungsbestimmungen § 26 Abs. 5.
 
-
-## § 28 – Gründer
+# § 28 – Gründer
 
 Die Aktionäre, die die Satzung festgestellt haben, sind die Gründer der Gesellschaft.
 
-
-## § 29 – Errichtung der Gesellschaft
+# § 29 – Errichtung der Gesellschaft
 
 Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichtet.
 
-
-## § 30 – Bestellung des Aufsichtsrats, des Vorstands und des Abschlußprüfers
+# § 30 – Bestellung des Aufsichtsrats, des Vorstands und des Abschlußprüfers
 
 (1) Die Gründer haben den ersten Aufsichtsrat der Gesellschaft und den Abschlußprüfer für das erste Voll- oder Rumpfgeschäftsjahr zu bestellen. Die Bestellung bedarf notarieller Beurkundung.
 
@@ -985,8 +951,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (4) Der Aufsichtsrat bestellt den ersten Vorstand.
 
-
-## § 31 – Bestellung des Aufsichtsrats bei Sachgründung
+# § 31 – Bestellung des Aufsichtsrats bei Sachgründung
 
 (1) Ist in der Satzung als Gegenstand einer Sacheinlage oder Sachübernahme die Einbringung oder Übernahme eines Unternehmens oder eines Teils eines Unternehmens festgesetzt worden, so haben die Gründer nur so viele Aufsichtsratsmitglieder zu bestellen, wie nach den gesetzlichen Vorschriften, die nach ihrer Ansicht nach der Einbringung oder Übernahme für die Zusammensetzung des Aufsichtsrats maßgebend sind, von der Hauptversammlung ohne Bindung an Wahlvorschläge zu wählen sind. Sie haben jedoch, wenn dies nur zwei Aufsichtsratsmitglieder sind, drei Aufsichtsratsmitglieder zu bestellen.
 
@@ -998,8 +963,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (5) § 30 Abs. 3 Satz 1 gilt nicht für die nach Absatz 3 bestellten Aufsichtsratsmitglieder der Arbeitnehmer.
 
-
-## § 32 – Gründungsbericht
+# § 32 – Gründungsbericht
 
 (1) Die Gründer haben einen schriftlichen Bericht über den Hergang der Gründung zu erstatten (Gründungsbericht).
 
@@ -1013,8 +977,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (3) Im Gründungsbericht ist ferner anzugeben, ob und in welchem Umfang bei der Gründung für Rechnung eines Mitglieds des Vorstands oder des Aufsichtsrats Aktien übernommen worden sind und ob und in welcher Weise ein Mitglied des Vorstands oder des Aufsichtsrats sich einen besonderen Vorteil oder für die Gründung oder ihre Vorbereitung eine Entschädigung oder Belohnung ausbedungen hat.
 
-
-## § 33 – Gründungsprüfung. Allgemeines
+# § 33 – Gründungsprüfung. Allgemeines
 
 (1) Die Mitglieder des Vorstands und des Aufsichtsrats haben den Hergang der Gründung zu prüfen.
 
@@ -1038,8 +1001,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (5) Als Gründungsprüfer darf nicht bestellt werden, wer nach § 143 Abs. 2 nicht Sonderprüfer sein kann. Gleiches gilt für Personen und Prüfungsgesellschaften, auf deren Geschäftsführung die Gründer oder Personen, für deren Rechnung die Gründer Aktien übernommen haben, maßgebenden Einfluß haben.
 
-
-## § 33a – Sachgründung ohne externe Gründungsprüfung
+# § 33a – Sachgründung ohne externe Gründungsprüfung
 
 (1) Von einer Prüfung durch Gründungsprüfer kann bei einer Gründung mit Sacheinlagen oder Sachübernahmen (§ 33 Abs. 2 Nr. 4) abgesehen werden, soweit eingebracht werden sollen:
 
@@ -1049,8 +1011,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (2) Absatz 1 ist nicht anzuwenden, wenn der gewichtete Durchschnittspreis der Wertpapiere oder Geldmarktinstrumente (Absatz 1 Nr. 1) durch außergewöhnliche Umstände erheblich beeinflusst worden ist oder wenn anzunehmen ist, dass der beizulegende Zeitwert der anderen Vermögensgegenstände (Absatz 1 Nr. 2) am Tag ihrer tatsächlichen Einbringung auf Grund neuer oder neu bekannt gewordener Umstände erheblich niedriger ist als der von dem Sachverständigen angenommene Wert.
 
-
-## § 34 – Umfang der Gründungsprüfung
+# § 34 – Umfang der Gründungsprüfung
 
 (1) Die Prüfung durch die Mitglieder des Vorstands und des Aufsichtsrats sowie die Prüfung durch die Gründungsprüfer haben sich namentlich darauf zu erstrecken,
 
@@ -1062,8 +1023,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (3) Je ein Stück des Berichts der Gründungsprüfer ist dem Gericht und dem Vorstand einzureichen. Jedermann kann den Bericht bei dem Gericht einsehen.
 
-
-## § 35 – Meinungsverschiedenheiten zwischen Gründern und Gründungsprüfern. Vergütung und Auslagen der Gründungsprüfer
+# § 35 – Meinungsverschiedenheiten zwischen Gründern und Gründungsprüfern. Vergütung und Auslagen der Gründungsprüfer
 
 (1) Die Gründungsprüfer können von den Gründern alle Aufklärungen und Nachweise verlangen, die für eine sorgfältige Prüfung notwendig sind.
 
@@ -1071,22 +1031,19 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 (3) Die Gründungsprüfer haben Anspruch auf Ersatz angemessener barer Auslagen und auf Vergütung für ihre Tätigkeit. Die Auslagen und die Vergütung setzt das Gericht fest. Gegen die Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozeßordnung statt.
 
-
-## § 36 – Anmeldung der Gesellschaft
+# § 36 – Anmeldung der Gesellschaft
 
 (1) Die Gesellschaft ist bei dem Gericht von allen Gründern und Mitgliedern des Vorstands und des Aufsichtsrats zur Eintragung in das Handelsregister anzumelden.
 
 (2) Die Anmeldung darf erst erfolgen, wenn auf jede Aktie, soweit nicht Sacheinlagen vereinbart sind, der eingeforderte Betrag ordnungsgemäß eingezahlt worden ist (§ 54 Abs. 3) und, soweit er nicht bereits zur Bezahlung der bei der Gründung angefallenen Steuern und Gebühren verwandt wurde, endgültig zur freien Verfügung des Vorstands steht.
 
-
-## § 36a – Leistung der Einlagen
+# § 36a – Leistung der Einlagen
 
 (1) Bei Bareinlagen muß der eingeforderte Betrag (§ 36 Abs. 2) mindestens ein Viertel des geringsten Ausgabebetrags und bei Ausgabe der Aktien für einen höheren als diesen auch den Mehrbetrag umfassen.
 
 (2) Sacheinlagen sind vollständig zu leisten. Besteht die Sacheinlage in der Verpflichtung, einen Vermögensgegenstand auf die Gesellschaft zu übertragen, so muß diese Leistung innerhalb von fünf Jahren nach der Eintragung der Gesellschaft in das Handelsregister zu bewirken sein. Der Wert muß dem geringsten Ausgabebetrag und bei Ausgabe der Aktien für einen höheren als diesen auch dem Mehrbetrag entsprechen.
 
-
-## § 37 – Inhalt der Anmeldung
+# § 37 – Inhalt der Anmeldung
 
 (1) In der Anmeldung ist zu erklären, daß die Voraussetzungen des § 36 Abs. 2 und des § 36a erfüllt sind; dabei sind der Betrag, zu dem die Aktien ausgegeben werden, und der darauf eingezahlte Betrag anzugeben. Es ist nachzuweisen, daß der eingezahlte Betrag endgültig zur freien Verfügung des Vorstands steht. Ist der Betrag gemäß § 54 Abs. 3 durch Gutschrift auf ein Konto eingezahlt worden, so ist der Nachweis durch eine Bestätigung des kontoführenden Instituts zu führen. Für die Richtigkeit der Bestätigung ist das Institut der Gesellschaft verantwortlich. Sind von dem eingezahlten Betrag Steuern und Gebühren bezahlt worden, so ist dies nach Art und Höhe der Beträge nachzuweisen.
 
@@ -1106,8 +1063,7 @@ Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichte
 
 3. die Urkunden über die Bestellung des Vorstands und des Aufsichtsrats;
 
-3a.  
-eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich ist;
+3a. eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich ist;
 
 4. der Gründungsbericht und die Prüfungsberichte der Mitglieder des Vorstands und des Aufsichtsrats sowie der Gründungsprüfer nebst ihren urkundlichen Unterlagen.
 
@@ -1117,8 +1073,7 @@ eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeüb
 
 (6) (weggefallen)
 
-
-## § 37a – Anmeldung bei Sachgründung ohne externe Gründungsprüfung
+# § 37a – Anmeldung bei Sachgründung ohne externe Gründungsprüfung
 
 (1) Wird nach § 33a von einer externen Gründungsprüfung abgesehen, ist dies in der Anmeldung zu erklären. Der Gegenstand jeder Sacheinlage oder Sachübernahme ist zu beschreiben. Die Anmeldung muss die Erklärung enthalten, dass der Wert der Sacheinlagen oder Sachübernahmen den geringsten Ausgabebetrag der dafür zu gewährenden Aktien oder den Wert der dafür zu gewährenden Leistungen erreicht. Der Wert, die Quelle der Bewertung sowie die angewandte Bewertungsmethode sind anzugeben.
 
@@ -1130,8 +1085,7 @@ eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeüb
 
 2. jedes Sachverständigengutachten, auf das sich die Bewertung in den Fällen des § 33a Abs. 1 Nr. 2 stützt.
 
-
-## § 38 – Prüfung durch das Gericht
+# § 38 – Prüfung durch das Gericht
 
 (1) Das Gericht hat zu prüfen, ob die Gesellschaft ordnungsgemäß errichtet und angemeldet ist. Ist dies nicht der Fall, so hat es die Eintragung abzulehnen.
 
@@ -1147,20 +1101,17 @@ eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeüb
 
 3. die Nichtigkeit der Satzung zur Folge hat.
 
-
-## § 39 – Inhalt der Eintragung
+# § 39 – Inhalt der Eintragung
 
 (1) Bei der Eintragung der Gesellschaft sind die Firma und der Sitz der Gesellschaft, eine inländische Geschäftsanschrift, der Gegenstand des Unternehmens, die Höhe des Grundkapitals, der Tag der Feststellung der Satzung und die Vorstandsmitglieder anzugeben. Wenn eine Person, die für Willenserklärungen und Zustellungen an die Gesellschaft empfangsberechtigt ist, mit einer inländischen Anschrift zur Eintragung in das Handelsregister angemeldet wird, sind auch diese Angaben einzutragen; Dritten gegenüber gilt die Empfangsberechtigung als fortbestehend, bis sie im Handelsregister gelöscht und die Löschung bekannt gemacht worden ist, es sei denn, dass die fehlende Empfangsberechtigung dem Dritten bekannt war. Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben.
 
 (2) Enthält die Satzung Bestimmungen über die Dauer der Gesellschaft oder über das genehmigte Kapital, so sind auch diese Bestimmungen einzutragen.
 
-
-## § 40 – (weggefallen)
+# § 40 – (weggefallen)
 
 \-
 
-
-## § 41 – Handeln im Namen der Gesellschaft vor der Eintragung. Verbotene Aktienausgabe
+# § 41 – Handeln im Namen der Gesellschaft vor der Eintragung. Verbotene Aktienausgabe
 
 (1) Vor der Eintragung in das Handelsregister besteht die Aktiengesellschaft als solche nicht. Wer vor der Eintragung der Gesellschaft in ihrem Namen handelt, haftet persönlich; handeln mehrere, so haften sie als Gesamtschuldner.
 
@@ -1170,16 +1121,13 @@ eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeüb
 
 (4) Vor der Eintragung der Gesellschaft können Anteilsrechte nicht übertragen, Aktien oder Zwischenscheine nicht ausgegeben werden. Die vorher ausgegebenen Aktien oder Zwischenscheine sind nichtig. Für den Schaden aus der Ausgabe sind die Ausgeber den Inhabern als Gesamtschuldner verantwortlich.
 
-
-## § 42 – Einpersonen-Gesellschaft
+# § 42 – Einpersonen-Gesellschaft
 
 Gehören alle Aktien allein oder neben der Gesellschaft einem Aktionär, ist unverzüglich eine entsprechende Mitteilung unter Angabe von Name, Vorname, Geburtsdatum und Wohnort des alleinigen Aktionärs zum Handelsregister einzureichen.
 
+# §§ 43 und 44 – ----
 
-## §§ 43 und 44 – ----
-
-
-## § 45 – Sitzverlegung
+# § 45 – Sitzverlegung
 
 (1) Wird der Sitz der Gesellschaft im Inland verlegt, so ist die Verlegung beim Gericht des bisherigen Sitzes anzumelden.
 
@@ -1187,8 +1135,7 @@ Gehören alle Aktien allein oder neben der Gesellschaft einem Aktionär, ist unv
 
 (3) Wird der Sitz an einen anderen Ort innerhalb des Bezirks des Gerichts des bisherigen Sitzes verlegt, so hat das Gericht zu prüfen, ob die Sitzverlegung ordnungsgemäß beschlossen und § 30 des Handelsgesetzbuchs beachtet ist. Ist dies der Fall, so hat es die Sitzverlegung einzutragen. Mit der Eintragung wird die Sitzverlegung wirksam.
 
-
-## § 46 – Verantwortlichkeit der Gründer
+# § 46 – Verantwortlichkeit der Gründer
 
 (1) Die Gründer sind der Gesellschaft als Gesamtschuldner verantwortlich für die Richtigkeit und Vollständigkeit der Angaben, die zum Zwecke der Gründung der Gesellschaft über Übernahme der Aktien, Einzahlung auf die Aktien, Verwendung eingezahlter Beträge, Sondervorteile, Gründungsaufwand, Sacheinlagen und Sachübernahmen gemacht worden sind. Sie sind ferner dafür verantwortlich, daß eine zur Annahme von Einzahlungen auf das Grundkapital bestimmte Stelle (§ 54 Abs. 3) hierzu geeignet ist und daß die eingezahlten Beträge zur freien Verfügung des Vorstands stehen. Sie haben, unbeschadet der Verpflichtung zum Ersatz des sonst entstehenden Schadens, fehlende Einzahlungen zu leisten und eine Vergütung, die nicht unter den Gründungsaufwand aufgenommen ist, zu ersetzen.
 
@@ -1200,8 +1147,7 @@ Gehören alle Aktien allein oder neben der Gesellschaft einem Aktionär, ist unv
 
 (5) Neben den Gründern sind in gleicher Weise Personen verantwortlich, für deren Rechnung die Gründer Aktien übernommen haben. Sie können sich auf ihre eigene Unkenntnis nicht wegen solcher Umstände berufen, die ein für ihre Rechnung handelnder Gründer kannte oder kennen mußte.
 
-
-## § 47 – Verantwortlichkeit anderer Personen neben den Gründern
+# § 47 – Verantwortlichkeit anderer Personen neben den Gründern
 
 Neben den Gründern und den Personen, für deren Rechnung die Gründer Aktien übernommen haben, ist als Gesamtschuldner der Gesellschaft zum Schadenersatz verpflichtet,
 
@@ -1211,28 +1157,23 @@ Neben den Gründern und den Personen, für deren Rechnung die Gründer Aktien ü
 
 3. wer vor Eintragung der Gesellschaft in das Handelsregister oder in den ersten zwei Jahren nach der Eintragung die Aktien öffentlich ankündigt, um sie in den Verkehr einzuführen, wenn er die Unrichtigkeit oder Unvollständigkeit der Angaben, die zum Zwecke der Gründung der Gesellschaft gemacht worden sind (§ 46 Abs. 1), oder die Schädigung der Gesellschaft durch Einlagen oder Sachübernahmen kannte oder bei Anwendung der Sorgfalt eines ordentlichen Geschäftsmanns kennen mußte.
 
-
-## § 48 – Verantwortlichkeit des Vorstands und des Aufsichtsrats
+# § 48 – Verantwortlichkeit des Vorstands und des Aufsichtsrats
 
 Mitglieder des Vorstands und des Aufsichtsrats, die bei der Gründung ihre Pflichten verletzen, sind der Gesellschaft zum Ersatz des daraus entstehenden Schadens als Gesamtschuldner verpflichtet; sie sind namentlich dafür verantwortlich, daß eine zur Annahme von Einzahlungen auf die Aktien bestimmte Stelle (§ 54 Abs. 3) hierzu geeignet ist, und daß die eingezahlten Beträge zur freien Verfügung des Vorstands stehen. Für die Sorgfaltspflicht und Verantwortlichkeit der Mitglieder des Vorstands und des Aufsichtsrats bei der Gründung gelten im übrigen §§ 93 und 116 mit Ausnahme von § 93 Abs. 4 Satz 3 und 4 und Abs. 6.
 
-
-## § 49 – Verantwortlichkeit der Gründungsprüfer
+# § 49 – Verantwortlichkeit der Gründungsprüfer
 
 § 323 Abs. 1 bis 4 des Handelsgesetzbuchs über die Verantwortlichkeit des Abschlußprüfers gilt sinngemäß.
 
-
-## § 50 – Verzicht und Vergleich
+# § 50 – Verzicht und Vergleich
 
 Die Gesellschaft kann auf Ersatzansprüche gegen die Gründer, die neben diesen haftenden Personen und gegen die Mitglieder des Vorstands und des Aufsichtsrats (§§ 46 bis 48) erst drei Jahre nach der Eintragung der Gesellschaft in das Handelsregister und nur dann verzichten oder sich über sie vergleichen, wenn die Hauptversammlung zustimmt und nicht eine Minderheit, deren Anteile zusammen den zehnten Teil des Grundkapitals erreichen, zur Niederschrift Widerspruch erhebt. Die zeitliche Beschränkung gilt nicht, wenn der Ersatzpflichtige zahlungsunfähig ist und sich zur Abwendung des Insolvenzverfahrens mit seinen Gläubigern vergleicht oder wenn die Ersatzpflicht in einem Insolvenzplan geregelt wird.
 
-
-## § 51 – Verjährung der Ersatzansprüche
+# § 51 – Verjährung der Ersatzansprüche
 
 Ersatzansprüche der Gesellschaft nach den §§ 46 bis 48 verjähren in fünf Jahren. Die Verjährung beginnt mit der Eintragung der Gesellschaft in das Handelsregister oder, wenn die zum Ersatz verpflichtende Handlung später begangen worden ist, mit der Vornahme der Handlung.
 
-
-## § 52 – Nachgründung
+# § 52 – Nachgründung
 
 (1) Verträge der Gesellschaft mit Gründern oder mit mehr als 10 vom Hundert des Grundkapitals an der Gesellschaft beteiligten Aktionären, nach denen sie vorhandene oder herzustellende Anlagen oder andere Vermögensgegenstände für eine den zehnten Teil des Grundkapitals übersteigende Vergütung erwerben soll, und die in den ersten zwei Jahren seit der Eintragung der Gesellschaft in das Handelsregister geschlossen werden, werden nur mit Zustimmung der Hauptversammlung und durch Eintragung in das Handelsregister wirksam. Ohne die Zustimmung der Hauptversammlung oder die Eintragung im Handelsregister sind auch die Rechtshandlungen zu ihrer Ausführung unwirksam.
 
@@ -1254,18 +1195,15 @@ Ersatzansprüche der Gesellschaft nach den §§ 46 bis 48 verjähren in fünf Ja
 
 (10) (weggefallen)
 
-
-## § 53 – Ersatzansprüche bei der Nachgründung
+# § 53 – Ersatzansprüche bei der Nachgründung
 
 Für die Nachgründung gelten die §§ 46, 47, 49 bis 51 über die Ersatzansprüche der Gesellschaft sinngemäß. An die Stelle der Gründer treten die Mitglieder des Vorstands und des Aufsichtsrats. Sie haben die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden. Soweit Fristen mit der Eintragung der Gesellschaft in das Handelsregister beginnen, tritt an deren Stelle die Eintragung des Vertrags über die Nachgründung.
 
-
-## § 53a – Gleichbehandlung der Aktionäre
+# § 53a – Gleichbehandlung der Aktionäre
 
 Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
-
-## § 54 – Hauptverpflichtung der Aktionäre
+# § 54 – Hauptverpflichtung der Aktionäre
 
 (1) Die Verpflichtung der Aktionäre zur Leistung der Einlagen wird durch den Ausgabebetrag der Aktien begrenzt.
 
@@ -1275,15 +1213,13 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (4) Der Anspruch der Gesellschaft auf Leistung der Einlagen verjährt in zehn Jahren von seiner Entstehung an. Wird das Insolvenzverfahren über das Vermögen der Gesellschaft eröffnet, so tritt die Verjährung nicht vor Ablauf von sechs Monaten ab dem Zeitpunkt der Eröffnung ein.
 
-
-## § 55 – Nebenverpflichtungen der Aktionäre
+# § 55 – Nebenverpflichtungen der Aktionäre
 
 (1) Ist die Übertragung der Aktien an die Zustimmung der Gesellschaft gebunden, so kann die Satzung Aktionären die Verpflichtung auferlegen, neben den Einlagen auf das Grundkapital wiederkehrende, nicht in Geld bestehende Leistungen zu erbringen. Dabei hat sie zu bestimmen, ob die Leistungen entgeltlich oder unentgeltlich zu erbringen sind. Die Verpflichtung und der Umfang der Leistungen sind in den Aktien und Zwischenscheinen anzugeben.
 
 (2) Die Satzung kann Vertragsstrafen für den Fall festsetzen, daß die Verpflichtung nicht oder nicht gehörig erfüllt wird.
 
-
-## § 56 – Keine Zeichnung eigener Aktien. Aktienübernahme für Rechnung der Gesellschaft oder durch ein abhängiges oder in Mehrheitsbesitz stehendes Unternehmen
+# § 56 – Keine Zeichnung eigener Aktien. Aktienübernahme für Rechnung der Gesellschaft oder durch ein abhängiges oder in Mehrheitsbesitz stehendes Unternehmen
 
 (1) Die Gesellschaft darf keine eigenen Aktien zeichnen.
 
@@ -1293,8 +1229,7 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (4) Werden bei einer Kapitalerhöhung Aktien unter Verletzung der Absätze 1 oder 2 gezeichnet, so haftet auch jedes Vorstandsmitglied der Gesellschaft auf die volle Einlage. Dies gilt nicht, wenn das Vorstandsmitglied beweist, daß es kein Verschulden trifft.
 
-
-## § 57 – Keine Rückgewähr, keine Verzinsung der Einlagen
+# § 57 – Keine Rückgewähr, keine Verzinsung der Einlagen
 
 (1) Den Aktionären dürfen die Einlagen nicht zurückgewährt werden. Als Rückgewähr gilt nicht die Zahlung des Erwerbspreises beim zulässigen Erwerb eigener Aktien. Satz 1 gilt nicht bei Leistungen, die bei Bestehen eines Beherrschungs- oder Gewinnabführungsvertrags (§ 291) erfolgen oder durch einen vollwertigen Gegenleistungs- oder Rückgewähranspruch gegen den Aktionär gedeckt sind. Satz 1 ist zudem nicht anzuwenden auf die Rückgewähr eines Aktionärsdarlehens und Leistungen auf Forderungen aus Rechtshandlungen, die einem Aktionärsdarlehen wirtschaftlich entsprechen.
 
@@ -1302,8 +1237,7 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (3) Vor Auflösung der Gesellschaft darf unter die Aktionäre nur der Bilanzgewinn verteilt werden.
 
-
-## § 58 – Verwendung des Jahresüberschusses
+# § 58 – Verwendung des Jahresüberschusses
 
 (1) Die Satzung kann nur für den Fall, daß die Hauptversammlung den Jahresabschluß feststellt, bestimmen, daß Beträge aus dem Jahresüberschuß in andere Gewinnrücklagen einzustellen sind. Auf Grund einer solchen Satzungsbestimmung kann höchstens die Hälfte des Jahresüberschusses in andere Gewinnrücklagen eingestellt werden. Dabei sind Beträge, die in die gesetzliche Rücklage einzustellen sind, und ein Verlustvortrag vorab vom Jahresüberschuß abzuziehen.
 
@@ -1319,8 +1253,7 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (+++ § 58: Zur Anwendung vgl. § 26g AktGEG +++)
 
-
-## § 59 – Abschlagszahlung auf den Bilanzgewinn
+# § 59 – Abschlagszahlung auf den Bilanzgewinn
 
 (1) Die Satzung kann den Vorstand ermächtigen, nach Ablauf des Geschäftsjahrs auf den voraussichtlichen Bilanzgewinn einen Abschlag an die Aktionäre zu zahlen.
 
@@ -1328,8 +1261,7 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (3) Die Zahlung eines Abschlags bedarf der Zustimmung des Aufsichtsrats.
 
-
-## § 60 – Gewinnverteilung
+# § 60 – Gewinnverteilung
 
 (1) Die Anteile der Aktionäre am Gewinn bestimmen sich nach ihren Anteilen am Grundkapital.
 
@@ -1337,13 +1269,11 @@ Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln.
 
 (3) Die Satzung kann eine andere Art der Gewinnverteilung bestimmen.
 
-
-## § 61 – Vergütung von Nebenleistungen
+# § 61 – Vergütung von Nebenleistungen
 
 Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den Einlagen auf das Grundkapital verpflichtet sind, darf eine den Wert der Leistungen nicht übersteigende Vergütung ohne Rücksicht darauf gezahlt werden, ob ein Bilanzgewinn ausgewiesen wird.
 
-
-## § 62 – Haftung der Aktionäre beim Empfang verbotener Leistungen
+# § 62 – Haftung der Aktionäre beim Empfang verbotener Leistungen
 
 (1) Die Aktionäre haben der Gesellschaft Leistungen, die sie entgegen den Vorschriften dieses Gesetzes von ihr empfangen haben, zurückzugewähren. Haben sie Beträge als Gewinnanteile bezogen, so besteht die Verpflichtung nur, wenn sie wußten oder infolge von Fahrlässigkeit nicht wußten, daß sie zum Bezug nicht berechtigt waren.
 
@@ -1351,8 +1281,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 (3) Die Ansprüche nach diesen Vorschriften verjähren in zehn Jahren seit dem Empfang der Leistung. § 54 Abs. 4 Satz 2 findet entsprechende Anwendung.
 
-
-## § 63 – Folgen nicht rechtzeitiger Einzahlung
+# § 63 – Folgen nicht rechtzeitiger Einzahlung
 
 (1) Die Aktionäre haben die Einlagen nach Aufforderung durch den Vorstand einzuzahlen. Die Aufforderung ist, wenn die Satzung nichts anderes bestimmt, in den Gesellschaftsblättern bekanntzumachen.
 
@@ -1360,8 +1289,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 (3) Für den Fall nicht rechtzeitiger Einzahlung kann die Satzung Vertragsstrafen festsetzen.
 
-
-## § 64 – Ausschluß säumiger Aktionäre
+# § 64 – Ausschluß säumiger Aktionäre
 
 (1) Aktionären, die den eingeforderten Betrag nicht rechtzeitig einzahlen, kann eine Nachfrist mit der Androhung gesetzt werden, daß sie nach Fristablauf ihrer Aktien und der geleisteten Einzahlungen für verlustig erklärt werden.
 
@@ -1371,8 +1299,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 (4) An Stelle der alten Urkunden werden neue ausgegeben; diese haben außer den geleisteten Teilzahlungen den rückständigen Betrag anzugeben. Für den Ausfall der Gesellschaft an diesem Betrag oder an den später eingeforderten Beträgen haftet ihr der ausgeschlossene Aktionär.
 
-
-## § 65 – Zahlungspflicht der Vormänner
+# § 65 – Zahlungspflicht der Vormänner
 
 (1) Jeder im Aktienregister verzeichnete Vormann des ausgeschlossenen Aktionärs ist der Gesellschaft zur Zahlung des rückständigen Betrags verpflichtet, soweit dieser von seinen Nachmännern nicht zu erlangen ist. Von der Zahlungsaufforderung an einen früheren Aktionär hat die Gesellschaft seinen unmittelbaren Vormann zu benachrichtigen. Daß die Zahlung nicht zu erlangen ist, wird vermutet, wenn sie nicht innerhalb eines Monats seit der Zahlungsaufforderung und der Benachrichtigung des Vormanns eingegangen ist. Gegen Zahlung des rückständigen Betrags wird die neue Urkunde ausgehändigt.
 
@@ -1380,8 +1307,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 (3) Ist die Zahlung des rückständigen Betrags von Vormännern nicht zu erlangen, so hat die Gesellschaft die Aktie unverzüglich zum Börsenpreis und beim Fehlen eines Börsenpreises durch öffentliche Versteigerung zu verkaufen. Ist von der Versteigerung am Sitz der Gesellschaft kein angemessener Erfolg zu erwarten, so ist die Aktie an einem geeigneten Ort zu verkaufen. Zeit, Ort und Gegenstand der Versteigerung sind öffentlich bekanntzumachen. Der ausgeschlossene Aktionär und seine Vormänner sind besonders zu benachrichtigen; die Benachrichtigung kann unterbleiben, wenn sie untunlich ist. Bekanntmachung und Benachrichtigung müssen mindestens zwei Wochen vor der Versteigerung ergehen.
 
-
-## § 66 – Keine Befreiung der Aktionäre von ihren Leistungspflichten
+# § 66 – Keine Befreiung der Aktionäre von ihren Leistungspflichten
 
 (1) Die Aktionäre und ihre Vormänner können von ihren Leistungspflichten nach den §§ 54 und 65 nicht befreit werden. Gegen eine Forderung der Gesellschaft nach den §§ 54 und 65 ist die Aufrechnung nicht zulässig.
 
@@ -1389,8 +1315,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 (3) Durch eine ordentliche Kapitalherabsetzung oder durch eine Kapitalherabsetzung durch Einziehung von Aktien können die Aktionäre von der Verpflichtung zur Leistung von Einlagen befreit werden, durch eine ordentliche Kapitalherabsetzung jedoch höchstens in Höhe des Betrags, um den das Grundkapital herabgesetzt worden ist.
 
-
-## § 67 – Eintragung im Aktienregister
+# § 67 – Eintragung im Aktienregister
 
 (1) Namensaktien sind unabhängig von einer Verbriefung unter Angabe des Namens, Geburtsdatums und einer Postanschrift sowie einer elektronischen Adresse des Aktionärs sowie der Stückzahl oder der Aktiennummer und bei Nennbetragsaktien des Betrags in das Aktienregister der Gesellschaft einzutragen. Der Aktionär ist verpflichtet, der Gesellschaft die Angaben nach Satz 1 mitzuteilen. Die Satzung kann Näheres dazu bestimmen, unter welchen Voraussetzungen Eintragungen im eigenen Namen für Aktien, die einem anderen gehören, zulässig sind. Aktien, die zu einem inländischen, EU- oder ausländischen Investmentvermögen nach dem Kapitalanlagegesetzbuch gehören, dessen Anteile oder Aktien nicht ausschließlich von professionellen und semiprofessionellen Anlegern gehalten werden, gelten als Aktien des inländischen, EU- oder ausländischen Investmentvermögens, auch wenn sie im Miteigentum der Anleger stehen; verfügt das Investmentvermögen über keine eigene Rechtspersönlichkeit, gelten sie als Aktien der Verwaltungsgesellschaft des Investmentvermögens.
 
@@ -1406,8 +1331,7 @@ Für wiederkehrende Leistungen, zu denen Aktionäre nach der Satzung neben den E
 
 (7) Diese Vorschriften gelten sinngemäß für Zwischenscheine.
 
-
-## § 67a – Übermittlung von Informationen über Unternehmensereignisse; Begriffsbestimmungen
+# § 67a – Übermittlung von Informationen über Unternehmensereignisse; Begriffsbestimmungen
 
 (1) Börsennotierte Gesellschaften haben Informationen über Unternehmensereignisse gemäß Absatz 6, die den Aktionären nicht direkt oder von anderer Seite mitgeteilt werden, zur Weiterleitung an die Aktionäre wie folgt zu übermitteln:
 
@@ -1427,15 +1351,13 @@ Für Informationen zur Einberufung der Hauptversammlung gilt § 125.
 
 (6) Unternehmensereignisse sind Ereignisse gemäß Artikel 1 Nummer 3 der Durchführungsverordnung (EU) 2018/1212.
 
-
-## § 67b – Übermittlung von Informationen durch Intermediäre an die Aktionäre
+# § 67b – Übermittlung von Informationen durch Intermediäre an die Aktionäre
 
 (1) Der Letztintermediär hat dem Aktionär die nach § 67a Absatz 1 Satz 1 erhaltenen Informationen nach Artikel 2 Absatz 1 und 4, Artikel 9 Absatz 2 Unterabsatz 1 sowie Absatz 3 und 4 Unterabsatz 3 sowie Artikel 10 der Durchführungsverordnung (EU) 2018/1212 zu übermitteln. § 67a Absatz 2 Satz 1 und 4 gilt entsprechend.
 
 (2) Absatz 1 gilt auch für Informationen einer börsennotierten Gesellschaft mit Sitz in einem anderen Mitgliedstaat der Europäischen Union.
 
-
-## § 67c – Übermittlung von Informationen durch Intermediäre an die Gesellschaft; Nachweis des Anteilsbesitzes
+# § 67c – Übermittlung von Informationen durch Intermediäre an die Gesellschaft; Nachweis des Anteilsbesitzes
 
 (1) Der Letztintermediär hat die vom Aktionär einer börsennotierten Gesellschaft erhaltenen Informationen über die Ausübung seiner Rechte als Aktionär entweder direkt an die Gesellschaft oder an einen Intermediär in der Kette zu übermitteln. Intermediäre haben die nach Satz 1 erhaltenen Informationen entweder direkt an die Gesellschaft oder an den jeweils nächsten Intermediär weiterzuleiten. Die Sätze 1 und 2 gelten entsprechend für die Weiterleitung von Weisungen des Aktionärs zur Ausübung von Rechten aus Namensaktien börsennotierter Gesellschaften an den im Aktienregister eingetragenen Intermediär.
 
@@ -1443,8 +1365,7 @@ Für Informationen zur Einberufung der Hauptversammlung gilt § 125.
 
 (3) Der Letztintermediär hat dem Aktionär für die Ausübung seiner Rechte in der Hauptversammlung auf Verlangen über dessen Anteilsbesitz unverzüglich einen Nachweis in Textform gemäß den Anforderungen nach Artikel 5 der Durchführungsverordnung (EU) 2018/1212 auszustellen oder diesen nach Absatz 1 der Gesellschaft zu übermitteln.
 
-
-## § 67d – Informationsanspruch der Gesellschaft gegenüber Intermediären
+# § 67d – Informationsanspruch der Gesellschaft gegenüber Intermediären
 
 (1) Die börsennotierte Gesellschaft kann von einem Intermediär, der Aktien der Gesellschaft verwahrt, Informationen über die Identität der Aktionäre und über den nächsten Intermediär verlangen. Format und Inhalt dieses Verlangens richten sich nach der Durchführungsverordnung (EU) 2018/1212.
 
@@ -1456,8 +1377,7 @@ Für Informationen zur Einberufung der Hauptversammlung gilt § 125.
 
 (5) Die Absätze 1 bis 4 gelten auch für das Informationsverlangen einer börsennotierten Gesellschaft mit Sitz in einem anderen Mitgliedstaat der Europäischen Union. § 67a Absatz 2 Satz 1 gilt für die Absätze 1 bis 5 Satz 1 entsprechend.
 
-
-## § 67e – Verarbeitung und Berichtigung personenbezogener Daten der Aktionäre
+# § 67e – Verarbeitung und Berichtigung personenbezogener Daten der Aktionäre
 
 (1) Gesellschaften und Intermediäre dürfen personenbezogene Daten der Aktionäre für die Zwecke der Identifikation, der Kommunikation mit den Aktionären, den Gesellschaften und den Intermediären, der Ausübung der Rechte der Aktionäre, der Führung des Aktienregisters und für die Zusammenarbeit mit den Aktionären verarbeiten.
 
@@ -1467,8 +1387,7 @@ Für Informationen zur Einberufung der Hauptversammlung gilt § 125.
 
 (4) Wer mit unvollständigen oder unrichtigen Informationen als Aktionär identifiziert wurde, kann von der Gesellschaft und von dem Intermediär, der diese Informationen erteilt hat, die unverzügliche Berichtigung verlangen.
 
-
-## § 67f – Kosten; Verordnungsermächtigung
+# § 67f – Kosten; Verordnungsermächtigung
 
 (1) Vorbehaltlich der Regelungen in Satz 2 trägt die Gesellschaft die Kosten für die nach den §§ 67a bis 67d, auch in Verbindung mit § 125 Absatz 1, 2 und 5, und nach § 118 Absatz 1 Satz 3 bis 5 sowie Absatz 2 Satz 2 notwendigen Aufwendungen der Intermediäre, soweit diese auf Methoden beruhen, die dem jeweiligen Stand der Technik entsprechen. Die folgenden Kosten sind hiervon ausgenommen:
 
@@ -1490,8 +1409,7 @@ Die Intermediäre legen die Entgelte für die Aufwendungen für jede Dienstleist
 
 Es können Pauschbeträge festgesetzt werden. Die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
-
-## § 68 – Übertragung von Namensaktien. Vinkulierung
+# § 68 – Übertragung von Namensaktien. Vinkulierung
 
 (1) Namensaktien können auch durch Indossament übertragen werden. Für die Form des Indossaments, den Rechtsausweis des Inhabers und seine Verpflichtung zur Herausgabe gelten sinngemäß Artikel 12, 13 und 16 des Wechselgesetzes.
 
@@ -1501,8 +1419,7 @@ Es können Pauschbeträge festgesetzt werden. Die Rechtsverordnung bedarf nicht 
 
 (4) Diese Vorschriften gelten sinngemäß für Zwischenscheine.
 
-
-## § 69 – Rechtsgemeinschaft an einer Aktie
+# § 69 – Rechtsgemeinschaft an einer Aktie
 
 (1) Steht eine Aktie mehreren Berechtigten zu, so können sie die Rechte aus der Aktie nur durch einen gemeinschaftlichen Vertreter ausüben.
 
@@ -1510,13 +1427,11 @@ Es können Pauschbeträge festgesetzt werden. Die Rechtsverordnung bedarf nicht 
 
 (3) Hat die Gesellschaft eine Willenserklärung dem Aktionär gegenüber abzugeben, so genügt, wenn die Berechtigten der Gesellschaft keinen gemeinschaftlichen Vertreter benannt haben, die Abgabe der Erklärung gegenüber einem Berechtigten. Bei mehreren Erben eines Aktionärs gilt dies nur für Willenserklärungen, die nach Ablauf eines Monats seit dem Anfall der Erbschaft abgegeben werden.
 
-
-## § 70 – Berechnung der Aktienbesitzzeit
+# § 70 – Berechnung der Aktienbesitzzeit
 
 Ist die Ausübung von Rechten aus der Aktie davon abhängig, daß der Aktionär während eines bestimmten Zeitraums Inhaber der Aktie gewesen ist, so steht dem Eigentum ein Anspruch auf Übereignung gegen ein Kreditinstitut, Finanzdienstleistungsinstitut oder ein nach § 53 Abs. 1 Satz 1 oder § 53b Abs. 1 Satz 1 oder Abs. 7 des Gesetzes über das Kreditwesen tätiges Unternehmen gleich. Die Eigentumszeit eines Rechtsvorgängers wird dem Aktionär zugerechnet, wenn er die Aktie unentgeltlich, von seinem Treuhänder, als Gesamtrechtsnachfolger, bei Auseinandersetzung einer Gemeinschaft oder bei einer Bestandsübertragung nach § 13 des Versicherungsaufsichtsgesetzes oder § 14 des Gesetzes über Bausparkassen erworben hat.
 
-
-## § 71 – Erwerb eigener Aktien
+# § 71 – Erwerb eigener Aktien
 
 (1) Die Gesellschaft darf eigene Aktien nur erwerben,
 
@@ -1542,20 +1457,17 @@ Ist die Ausübung von Rechten aus der Aktie davon abhängig, daß der Aktionär 
 
 (4) Ein Verstoß gegen die Absätze 1 oder 2 macht den Erwerb eigener Aktien nicht unwirksam. Ein schuldrechtliches Geschäft über den Erwerb eigener Aktien ist jedoch nichtig, soweit der Erwerb gegen die Absätze 1 oder 2 verstößt.
 
-
-## § 71a – Umgehungsgeschäfte
+# § 71a – Umgehungsgeschäfte
 
 (1) Ein Rechtsgeschäft, das die Gewährung eines Vorschusses oder eines Darlehens oder die Leistung einer Sicherheit durch die Gesellschaft an einen anderen zum Zweck des Erwerbs von Aktien dieser Gesellschaft zum Gegenstand hat, ist nichtig. Dies gilt nicht für Rechtsgeschäfte im Rahmen der laufenden Geschäfte von Kreditinstituten oder Finanzdienstleistungsinstituten sowie für die Gewährung eines Vorschusses oder eines Darlehens oder für die Leistung einer Sicherheit zum Zweck des Erwerbs von Aktien durch Arbeitnehmer der Gesellschaft oder eines mit ihr verbundenen Unternehmens; auch in diesen Fällen ist das Rechtsgeschäft jedoch nichtig, wenn die Gesellschaft im Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb nicht bilden könnte, ohne das Grundkapital oder eine nach Gesetz oder Satzung zu bildende Rücklage zu mindern, die nicht zur Zahlung an die Aktionäre verwandt werden darf. Satz 1 gilt zudem nicht für Rechtsgeschäfte bei Bestehen eines Beherrschungs- oder Gewinnabführungsvertrags (§ 291).
 
 (2) Nichtig ist ferner ein Rechtsgeschäft zwischen der Gesellschaft und einem anderen, nach dem dieser berechtigt oder verpflichtet sein soll, Aktien der Gesellschaft für Rechnung der Gesellschaft oder eines abhängigen oder eines in ihrem Mehrheitsbesitz stehenden Unternehmens zu erwerben, soweit der Erwerb durch die Gesellschaft gegen § 71 Abs. 1 oder 2 verstoßen würde.
 
-
-## § 71b – Rechte aus eigenen Aktien
+# § 71b – Rechte aus eigenen Aktien
 
 Aus eigenen Aktien stehen der Gesellschaft keine Rechte zu.
 
-
-## § 71c – Veräußerung und Einziehung eigener Aktien
+# § 71c – Veräußerung und Einziehung eigener Aktien
 
 (1) Hat die Gesellschaft eigene Aktien unter Verstoß gegen § 71 Abs. 1 oder 2 erworben, so müssen sie innerhalb eines Jahres nach ihrem Erwerb veräußert werden.
 
@@ -1563,20 +1475,17 @@ Aus eigenen Aktien stehen der Gesellschaft keine Rechte zu.
 
 (3) Sind eigene Aktien innerhalb der in den Absätzen 1 und 2 vorgesehenen Fristen nicht veräußert worden, so sind sie nach § 237 einzuziehen.
 
-
-## § 71d – Erwerb eigener Aktien durch Dritte
+# § 71d – Erwerb eigener Aktien durch Dritte
 
 Ein im eigenen Namen, jedoch für Rechnung der Gesellschaft handelnder Dritter darf Aktien der Gesellschaft nur erwerben oder besitzen, soweit dies der Gesellschaft nach § 71 Abs. 1 Nr. 1 bis 5, 7 und 8 und Abs. 2 gestattet wäre. Gleiches gilt für den Erwerb oder den Besitz von Aktien der Gesellschaft durch ein abhängiges oder ein im Mehrheitsbesitz der Gesellschaft stehendes Unternehmen sowie für den Erwerb oder den Besitz durch einen Dritten, der im eigenen Namen, jedoch für Rechnung eines abhängigen oder eines im Mehrheitsbesitz der Gesellschaft stehenden Unternehmens handelt. Bei der Berechnung des Anteils am Grundkapital nach § 71 Abs. 2 Satz 1 und § 71c Abs. 2 gelten diese Aktien als Aktien der Gesellschaft. Im übrigen gelten § 71 Abs. 3 und 4, §§ 71a bis 71c sinngemäß. Der Dritte oder das Unternehmen hat der Gesellschaft auf ihr Verlangen das Eigentum an den Aktien zu verschaffen. Die Gesellschaft hat den Gegenwert der Aktien zu erstatten.
 
-
-## § 71e – Inpfandnahme eigener Aktien
+# § 71e – Inpfandnahme eigener Aktien
 
 (1) Dem Erwerb eigener Aktien nach § 71 Abs. 1 und 2, § 71d steht es gleich, wenn eigene Aktien als Pfand genommen werden. Jedoch darf ein Kreditinstitut oder Finanzdienstleistungsinstitut im Rahmen der laufenden Geschäfte eigene Aktien bis zu dem in § 71 Abs. 2 Satz 1 bestimmten Anteil am Grundkapital als Pfand nehmen. § 71a gilt sinngemäß.
 
 (2) Ein Verstoß gegen Absatz 1 macht die Inpfandnahme eigener Aktien unwirksam, wenn auf sie der Ausgabebetrag noch nicht voll geleistet ist. Ein schuldrechtliches Geschäft über die Inpfandnahme eigener Aktien ist nichtig, soweit der Erwerb gegen Absatz 1 verstößt.
 
-
-## § 72 – Kraftloserklärung von Aktien im Aufgebotsverfahren
+# § 72 – Kraftloserklärung von Aktien im Aufgebotsverfahren
 
 (1) Ist eine Aktie oder ein Zwischenschein abhanden gekommen oder vernichtet, so kann die Urkunde im Aufgebotsverfahren nach dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit für kraftlos erklärt werden. § 799 Abs. 2 und § 800 des Bürgerlichen Gesetzbuchs gelten sinngemäß.
 
@@ -1584,8 +1493,7 @@ Ein im eigenen Namen, jedoch für Rechnung der Gesellschaft handelnder Dritter d
 
 (3) Die Kraftloserklärung einer Aktie nach §§ 73 oder 226 steht der Kraftloserklärung der Urkunde nach Absatz 1 nicht entgegen.
 
-
-## § 73 – Kraftloserklärung von Aktien durch die Gesellschaft
+# § 73 – Kraftloserklärung von Aktien durch die Gesellschaft
 
 (1) Ist der Inhalt von Aktienurkunden durch eine Veränderung der rechtlichen Verhältnisse unrichtig geworden, so kann die Gesellschaft die Aktien, die trotz Aufforderung nicht zur Berichtigung oder zum Umtausch bei ihr eingereicht sind, mit Genehmigung des Gerichts für kraftlos erklären. Beruht die Unrichtigkeit auf einer Änderung des Nennbetrags der Aktien, so können sie nur dann für kraftlos erklärt werden, wenn der Nennbetrag zur Herabsetzung des Grundkapitals herabgesetzt ist. Namensaktien können nicht deshalb für kraftlos erklärt werden, weil die Bezeichnung des Aktionärs unrichtig geworden ist. Gegen die Entscheidung des Gerichts ist die Beschwerde zulässig; eine Anfechtung der Entscheidung, durch die die Genehmigung erteilt wird, ist ausgeschlossen.
 
@@ -1595,18 +1503,15 @@ Ein im eigenen Namen, jedoch für Rechnung der Gesellschaft handelnder Dritter d
 
 (4) Soweit zur Herabsetzung des Grundkapitals Aktien zusammengelegt werden, gilt § 226.
 
-
-## § 74 – Neue Urkunden an Stelle beschädigter oder verunstalteter Aktien oder Zwischenscheine
+# § 74 – Neue Urkunden an Stelle beschädigter oder verunstalteter Aktien oder Zwischenscheine
 
 Ist eine Aktie oder ein Zwischenschein so beschädigt oder verunstaltet, daß die Urkunde zum Umlauf nicht mehr geeignet ist, so kann der Berechtigte, wenn der wesentliche Inhalt und die Unterscheidungsmerkmale der Urkunde noch sicher zu erkennen sind, von der Gesellschaft die Erteilung einer neuen Urkunde gegen Aushändigung der alten verlangen. Die Kosten hat er zu tragen und vorzuschießen.
 
-
-## § 75 – Neue Gewinnanteilscheine
+# § 75 – Neue Gewinnanteilscheine
 
 Neue Gewinnanteilscheine dürfen an den Inhaber des Erneuerungsscheins nicht ausgegeben werden, wenn der Besitzer der Aktie oder des Zwischenscheins der Ausgabe widerspricht; sie sind dem Besitzer der Aktie oder des Zwischenscheins auszuhändigen, wenn er die Haupturkunde vorlegt.
 
-
-## § 76 – Leitung der Aktiengesellschaft
+# § 76 – Leitung der Aktiengesellschaft
 
 (1) Der Vorstand hat unter eigener Verantwortung die Gesellschaft zu leiten.
 
@@ -1636,15 +1541,13 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (4) Der Vorstand von Gesellschaften, die börsennotiert sind oder der Mitbestimmung unterliegen, legt für den Frauenanteil in den beiden Führungsebenen unterhalb des Vorstands Zielgrößen fest. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
-
-## § 77 – Geschäftsführung
+# § 77 – Geschäftsführung
 
 (1) Besteht der Vorstand aus mehreren Personen, so sind sämtliche Vorstandsmitglieder nur gemeinschaftlich zur Geschäftsführung befugt. Die Satzung oder die Geschäftsordnung des Vorstands kann Abweichendes bestimmen; es kann jedoch nicht bestimmt werden, daß ein oder mehrere Vorstandsmitglieder Meinungsverschiedenheiten im Vorstand gegen die Mehrheit seiner Mitglieder entscheiden.
 
 (2) Der Vorstand kann sich eine Geschäftsordnung geben, wenn nicht die Satzung den Erlaß der Geschäftsordnung dem Aufsichtsrat übertragen hat oder der Aufsichtsrat eine Geschäftsordnung für den Vorstand erläßt. Die Satzung kann Einzelfragen der Geschäftsordnung bindend regeln. Beschlüsse des Vorstands über die Geschäftsordnung müssen einstimmig gefaßt werden.
 
-
-## § 78 – Vertretung
+# § 78 – Vertretung
 
 (1) Der Vorstand vertritt die Gesellschaft gerichtlich und außergerichtlich. Hat eine Gesellschaft keinen Vorstand (Führungslosigkeit), wird die Gesellschaft für den Fall, dass ihr gegenüber Willenserklärungen abgegeben oder Schriftstücke zugestellt werden, durch den Aufsichtsrat vertreten.
 
@@ -1654,13 +1557,11 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (4) Zur Gesamtvertretung befugte Vorstandsmitglieder können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Dies gilt sinngemäß, wenn ein einzelnes Vorstandsmitglied in Gemeinschaft mit einem Prokuristen zur Vertretung der Gesellschaft befugt ist.
 
-
-## § 79 – (weggefallen)
+# § 79 – (weggefallen)
 
 \-
 
-
-## § 80 – Angaben auf Geschäftsbriefen
+# § 80 – Angaben auf Geschäftsbriefen
 
 (1) Auf allen Geschäftsbriefen gleichviel welcher Form, die an einen bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der Sitz der Gesellschaft, das Registergericht des Sitzes der Gesellschaft und die Nummer, unter der die Gesellschaft in das Handelsregister eingetragen ist, sowie alle Vorstandsmitglieder und der Vorsitzende des Aufsichtsrats mit dem Familiennamen und mindestens einem ausgeschriebenen Vornamen angegeben werden. Der Vorsitzende des Vorstands ist als solcher zu bezeichnen. Werden Angaben über das Kapital der Gesellschaft gemacht, so müssen in jedem Fall das Grundkapital sowie, wenn auf die Aktien der Ausgabebetrag nicht vollständig eingezahlt ist, der Gesamtbetrag der ausstehenden Einlagen angegeben werden.
 
@@ -1670,8 +1571,7 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (4) Auf allen Geschäftsbriefen und Bestellscheinen, die von einer Zweigniederlassung einer Aktiengesellschaft mit Sitz im Ausland verwendet werden, müssen das Register, bei dem die Zweigniederlassung geführt wird, und die Nummer des Registereintrags angegeben werden; im übrigen gelten die Vorschriften der Absätze 1 bis 3 für die Angaben bezüglich der Haupt- und der Zweigniederlassung, soweit nicht das ausländische Recht Abweichungen nötig macht. Befindet sich die ausländische Gesellschaft in Abwicklung, so sind auch diese Tatsache sowie alle Abwickler anzugeben.
 
-
-## § 81 – Änderung des Vorstands und der Vertretungsbefugnis seiner Mitglieder
+# § 81 – Änderung des Vorstands und der Vertretungsbefugnis seiner Mitglieder
 
 (1) Jede Änderung des Vorstands oder der Vertretungsbefugnis eines Vorstandsmitglieds hat der Vorstand zur Eintragung in das Handelsregister anzumelden.
 
@@ -1681,22 +1581,19 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (4) (weggefallen)
 
-
-## § 82 – Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis
+# § 82 – Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis
 
 (1) Die Vertretungsbefugnis des Vorstands kann nicht beschränkt werden.
 
 (2) Im Verhältnis der Vorstandsmitglieder zur Gesellschaft sind diese verpflichtet, die Beschränkungen einzuhalten, die im Rahmen der Vorschriften über die Aktiengesellschaft die Satzung, der Aufsichtsrat, die Hauptversammlung und die Geschäftsordnungen des Vorstands und des Aufsichtsrats für die Geschäftsführungsbefugnis getroffen haben.
 
-
-## § 83 – Vorbereitung und Ausführung von Hauptversammlungsbeschlüssen
+# § 83 – Vorbereitung und Ausführung von Hauptversammlungsbeschlüssen
 
 (1) Der Vorstand ist auf Verlangen der Hauptversammlung verpflichtet, Maßnahmen, die in die Zuständigkeit der Hauptversammlung fallen, vorzubereiten. Das gleiche gilt für die Vorbereitung und den Abschluß von Verträgen, die nur mit Zustimmung der Hauptversammlung wirksam werden. Der Beschluß der Hauptversammlung bedarf der Mehrheiten, die für die Maßnahmen oder für die Zustimmung zu dem Vertrag erforderlich sind.
 
 (2) Der Vorstand ist verpflichtet, die von der Hauptversammlung im Rahmen ihrer Zuständigkeit beschlossenen Maßnahmen auszuführen.
 
-
-## § 84 – Bestellung und Abberufung des Vorstands
+# § 84 – Bestellung und Abberufung des Vorstands
 
 (1) Vorstandsmitglieder bestellt der Aufsichtsrat auf höchstens fünf Jahre. Eine wiederholte Bestellung oder Verlängerung der Amtszeit, jeweils für höchstens fünf Jahre, ist zulässig. Sie bedarf eines erneuten Aufsichtsratsbeschlusses, der frühestens ein Jahr vor Ablauf der bisherigen Amtszeit gefaßt werden kann. Nur bei einer Bestellung auf weniger als fünf Jahre kann eine Verlängerung der Amtszeit ohne neuen Aufsichtsratsbeschluß vorgesehen werden, sofern dadurch die gesamte Amtszeit nicht mehr als fünf Jahre beträgt. Dies gilt sinngemäß für den Anstellungsvertrag; er kann jedoch vorsehen, daß er für den Fall einer Verlängerung der Amtszeit bis zu deren Ablauf weitergilt.
 
@@ -1706,8 +1603,7 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (4) Die Vorschriften des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-2, veröffentlichten bereinigten Fassung - Montan-Mitbestimmungsgesetz - über die besonderen Mehrheitserfordernisse für einen Aufsichtsratsbeschluß über die Bestellung eines Arbeitsdirektors oder den Widerruf seiner Bestellung bleiben unberührt.
 
-
-## § 85 – Bestellung durch das Gericht
+# § 85 – Bestellung durch das Gericht
 
 (1) Fehlt ein erforderliches Vorstandsmitglied, so hat in dringenden Fällen das Gericht auf Antrag eines Beteiligten das Mitglied zu bestellen. Gegen die Entscheidung ist die Beschwerde zulässig.
 
@@ -1715,13 +1611,11 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (3) Das gerichtlich bestellte Vorstandsmitglied hat Anspruch auf Ersatz angemessener barer Auslagen und auf Vergütung für seine Tätigkeit. Einigen sich das gerichtlich bestellte Vorstandsmitglied und die Gesellschaft nicht, so setzt das Gericht die Auslagen und die Vergütung fest. Gegen die Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozeßordnung statt.
 
-
-## § 86
+# § 86
 
 (weggefallen)
 
-
-## § 87 – Grundsätze für die Bezüge der Vorstandsmitglieder
+# § 87 – Grundsätze für die Bezüge der Vorstandsmitglieder
 
 (1) Der Aufsichtsrat hat bei der Festsetzung der Gesamtbezüge des einzelnen Vorstandsmitglieds (Gehalt, Gewinnbeteiligungen, Aufwandsentschädigungen, Versicherungsentgelte, Provisionen, anreizorientierte Vergütungszusagen wie zum Beispiel Aktienbezugsrechte und Nebenleistungen jeder Art) dafür zu sorgen, dass diese in einem angemessenen Verhältnis zu den Aufgaben und Leistungen des Vorstandsmitglieds sowie zur Lage der Gesellschaft stehen und die übliche Vergütung nicht ohne besondere Gründe übersteigen. Die Vergütungsstruktur ist bei börsennotierten Gesellschaften auf eine nachhaltige und langfristige Entwicklung der Gesellschaft auszurichten. Variable Vergütungsbestandteile sollen daher eine mehrjährige Bemessungsgrundlage haben; für außerordentliche Entwicklungen soll der Aufsichtsrat eine Begrenzungsmöglichkeit vereinbaren. Satz 1 gilt sinngemäß für Ruhegehalt, Hinterbliebenenbezüge und Leistungen verwandter Art.
 
@@ -1731,8 +1625,7 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen einer Tat
 
 (4) Die Hauptversammlung kann auf Antrag nach § 122 Absatz 2 Satz 1 die nach § 87a Absatz 1 Satz 2 Nummer 1 festgelegte Maximalvergütung herabsetzen.
 
-
-## § 87a – Vergütungssystem börsennotierter Gesellschaften
+# § 87a – Vergütungssystem börsennotierter Gesellschaften
 
 (1) Der Aufsichtsrat der börsennotierten Gesellschaft beschließt ein klares und verständliches System zur Vergütung der Vorstandsmitglieder. Dieses Vergütungssystem enthält mindestens die folgenden Angaben, in Bezug auf Vergütungsbestandteile jedoch nur, soweit diese tatsächlich vorgesehen sind:
 
@@ -1780,8 +1673,7 @@ b) eine Übersicht, inwieweit Abstimmung und Äußerungen der Aktionäre in Bezu
 
 (2) Der Aufsichtsrat der börsennotierten Gesellschaft hat die Vergütung der Vorstandsmitglieder in Übereinstimmung mit einem der Hauptversammlung nach § 120a Absatz 1 zur Billigung vorgelegten Vergütungssystem festzusetzen. Der Aufsichtsrat kann vorübergehend von dem Vergütungssystem abweichen, wenn dies im Interesse des langfristigen Wohlergehens der Gesellschaft notwendig ist und das Vergütungssystem das Verfahren des Abweichens sowie die Bestandteile des Vergütungssystems, von denen abgewichen werden kann, benennt.
 
-
-## § 88 – Wettbewerbsverbot
+# § 88 – Wettbewerbsverbot
 
 (1) Die Vorstandsmitglieder dürfen ohne Einwilligung des Aufsichtsrats weder ein Handelsgewerbe betreiben noch im Geschäftszweig der Gesellschaft für eigene oder fremde Rechnung Geschäfte machen. Sie dürfen ohne Einwilligung auch nicht Mitglied des Vorstands oder Geschäftsführer oder persönlich haftender Gesellschafter einer anderen Handelsgesellschaft sein. Die Einwilligung des Aufsichtsrats kann nur für bestimmte Handelsgewerbe oder Handelsgesellschaften oder für bestimmte Arten von Geschäften erteilt werden.
 
@@ -1789,8 +1681,7 @@ b) eine Übersicht, inwieweit Abstimmung und Äußerungen der Aktionäre in Bezu
 
 (3) Die Ansprüche der Gesellschaft verjähren in drei Monaten seit dem Zeitpunkt, in dem die übrigen Vorstandsmitglieder und die Aufsichtsratsmitglieder von der zum Schadensersatz verpflichtenden Handlung Kenntnis erlangen oder ohne grobe Fahrlässigkeit erlangen müssten. Sie verjähren ohne Rücksicht auf diese Kenntnis oder grob fahrlässige Unkenntnis in fünf Jahren von ihrer Entstehung an.
 
-
-## § 89 – Kreditgewährung an Vorstandsmitglieder
+# § 89 – Kreditgewährung an Vorstandsmitglieder
 
 (1) Die Gesellschaft darf ihren Vorstandsmitgliedern Kredit nur auf Grund eines Beschlusses des Aufsichtsrats gewähren. Der Beschluß kann nur für bestimmte Kreditgeschäfte oder Arten von Kreditgeschäften und nicht für länger als drei Monate im voraus gefaßt werden. Er hat die Verzinsung und Rückzahlung des Kredits zu regeln. Der Gewährung eines Kredits steht die Gestattung einer Entnahme gleich, die über die dem Vorstandsmitglied zustehenden Bezüge hinausgeht, namentlich auch die Gestattung der Entnahme von Vorschüssen auf Bezüge. Dies gilt nicht für Kredite, die ein Monatsgehalt nicht übersteigen.
 
@@ -1804,8 +1695,7 @@ b) eine Übersicht, inwieweit Abstimmung und Äußerungen der Aktionäre in Bezu
 
 (6) Ist die Gesellschaft ein Kreditinstitut oder Finanzdienstleistungsinstitut, auf das § 15 des Gesetzes über das Kreditwesen anzuwenden ist, gelten anstelle der Absätze 1 bis 5 die Vorschriften des Gesetzes über das Kreditwesen.
 
-
-## § 90 – Berichte an den Aufsichtsrat
+# § 90 – Berichte an den Aufsichtsrat
 
 (1) Der Vorstand hat dem Aufsichtsrat zu berichten über
 
@@ -1835,22 +1725,19 @@ Ist die Gesellschaft Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs)
 
 (5) Jedes Aufsichtsratsmitglied hat das Recht, von den Berichten Kenntnis zu nehmen. Soweit die Berichte in Textform erstattet worden sind, sind sie auch jedem Aufsichtsratsmitglied auf Verlangen zu übermitteln, soweit der Aufsichtsrat nichts anderes beschlossen hat. Der Vorsitzende des Aufsichtsrats hat die Aufsichtsratsmitglieder über die Berichte nach Absatz 1 Satz 3 spätestens in der nächsten Aufsichtsratssitzung zu unterrichten.
 
-
-## § 91 – Organisation. Buchführung
+# § 91 – Organisation. Buchführung
 
 (1) Der Vorstand hat dafür zu sorgen, daß die erforderlichen Handelsbücher geführt werden.
 
 (2) Der Vorstand hat geeignete Maßnahmen zu treffen, insbesondere ein Überwachungssystem einzurichten, damit den Fortbestand der Gesellschaft gefährdende Entwicklungen früh erkannt werden.
 
-
-## § 92 – Vorstandspflichten bei Verlust, Überschuldung oder Zahlungsunfähigkeit
+# § 92 – Vorstandspflichten bei Verlust, Überschuldung oder Zahlungsunfähigkeit
 
 (1) Ergibt sich bei Aufstellung der Jahresbilanz oder einer Zwischenbilanz oder ist bei pflichtmäßigem Ermessen anzunehmen, daß ein Verlust in Höhe der Hälfte des Grundkapitals besteht, so hat der Vorstand unverzüglich die Hauptversammlung einzuberufen und ihr dies anzuzeigen.
 
 (2) (weggefallen)
 
-
-## § 93 – Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder
+# § 93 – Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder
 
 (1) Die Vorstandsmitglieder haben bei ihrer Geschäftsführung die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden. Eine Pflichtverletzung liegt nicht vor, wenn das Vorstandsmitglied bei einer unternehmerischen Entscheidung vernünftigerweise annehmen durfte, auf der Grundlage angemessener Information zum Wohle der Gesellschaft zu handeln. Über vertrauliche Angaben und Geheimnisse der Gesellschaft, namentlich Betriebs- oder Geschäftsgeheimnisse, die den Vorstandsmitgliedern durch ihre Tätigkeit im Vorstand bekanntgeworden sind, haben sie Stillschweigen zu bewahren. Die Pflicht des Satzes 3 gilt nicht gegenüber einer nach § 342b des Handelsgesetzbuchs anerkannten Prüfstelle im Rahmen einer von dieser durchgeführten Prüfung.
 
@@ -1884,13 +1771,11 @@ Ist die Gesellschaft Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs)
 
 (+++ § 93 Abs. 6: Zur Anwendung vgl. § 24 AktGEG +++)
 
-
-## § 94 – Stellvertreter von Vorstandsmitgliedern
+# § 94 – Stellvertreter von Vorstandsmitgliedern
 
 Die Vorschriften für die Vorstandsmitglieder gelten auch für ihre Stellvertreter.
 
-
-## § 95 – Zahl der Aufsichtsratsmitglieder
+# § 95 – Zahl der Aufsichtsratsmitglieder
 
 Der Aufsichtsrat besteht aus drei Mitgliedern. Die Satzung kann eine bestimmte höhere Zahl festsetzen. Die Zahl muß durch drei teilbar sein, wenn dies zur Erfüllung mitbestimmungsrechtlicher Vorgaben erforderlich ist. Die Höchstzahl der Aufsichtsratsmitglieder beträgt bei Gesellschaften mit einem Grundkapital  
   
@@ -1904,8 +1789,7 @@ Der Aufsichtsrat besteht aus drei Mitgliedern. Die Satzung kann eine bestimmte h
   
 Durch die vorstehenden Vorschriften werden hiervon abweichende Vorschriften des Mitbestimmungsgesetzes vom 4. Mai 1976 (BGBl. I S. 1153), des Montan-Mitbestimmungsgesetzes und des Gesetzes zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil III, Gliederungsnummer 801-3, veröffentlichten bereinigten Fassung - Mitbestimmungsergänzungsgesetz - nicht berührt.
 
-
-## § 96 – Zusammensetzung des Aufsichtsrats
+# § 96 – Zusammensetzung des Aufsichtsrats
 
 (1) Der Aufsichtsrat setzt sich zusammen  
 bei Gesellschaften, für die das Mitbestimmungsgesetz gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,  
@@ -1921,8 +1805,7 @@ bei den übrigen Gesellschaften nur aus Aufsichtsratsmitgliedern der Aktionäre.
 
 (4) Nach anderen als den zuletzt angewandten gesetzlichen Vorschriften kann der Aufsichtsrat nur zusammengesetzt werden, wenn nach § 97 oder nach § 98 die in der Bekanntmachung des Vorstands oder in der gerichtlichen Entscheidung angegebenen gesetzlichen Vorschriften anzuwenden sind.
 
-
-## § 97 – Bekanntmachung über die Zusammensetzung des Aufsichtsrats
+# § 97 – Bekanntmachung über die Zusammensetzung des Aufsichtsrats
 
 (1) Ist der Vorstand der Ansicht, daß der Aufsichtsrat nicht nach den für ihn maßgebenden gesetzlichen Vorschriften zusammengesetzt ist, so hat er dies unverzüglich in den Gesellschaftsblättern und gleichzeitig durch Aushang in sämtlichen Betrieben der Gesellschaft und ihrer Konzernunternehmen bekanntzumachen. In der Bekanntmachung sind die nach Ansicht des Vorstands maßgebenden gesetzlichen Vorschriften anzugeben. Es ist darauf hinzuweisen, daß der Aufsichtsrat nach diesen Vorschriften zusammengesetzt wird, wenn nicht Antragsberechtigte nach § 98 Abs. 2 innerhalb eines Monats nach der Bekanntmachung im Bundesanzeiger das nach § 98 Abs. 1 zuständige Gericht anrufen.
 
@@ -1930,8 +1813,7 @@ bei den übrigen Gesellschaften nur aus Aufsichtsratsmitgliedern der Aktionäre.
 
 (3) Solange ein gerichtliches Verfahren nach §§ 98, 99 anhängig ist, kann eine Bekanntmachung über die Zusammensetzung des Aufsichtsrats nicht erfolgen.
 
-
-## § 98 – Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats
+# § 98 – Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats
 
 (1) Ist streitig oder ungewiss, nach welchen gesetzlichen Vorschriften der Aufsichtsrat zusammenzusetzen ist, so entscheidet darüber auf Antrag ausschließlich das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
@@ -1963,8 +1845,7 @@ Ist die Anwendung des Mitbestimmungsgesetzes oder die Anwendung von Vorschriften
 
 (4) Entspricht die Zusammensetzung des Aufsichtsrats nicht der gerichtlichen Entscheidung, so ist der neue Aufsichtsrat nach den in der Entscheidung angegebenen gesetzlichen Vorschriften zusammenzusetzen. § 97 Abs. 2 gilt sinngemäß mit der Maßgabe, daß die Frist von sechs Monaten mit dem Eintritt der Rechtskraft beginnt.
 
-
-## § 99 – Verfahren
+# § 99 – Verfahren
 
 (1) Auf das Verfahren ist das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden, soweit in den Absätzen 2 bis 5 nichts anderes bestimmt ist.
 
@@ -1978,8 +1859,7 @@ Ist die Anwendung des Mitbestimmungsgesetzes oder die Anwendung von Vorschriften
 
 (6) Die Kosten können ganz oder zum Teil dem Antragsteller auferlegt werden, wenn dies der Billigkeit entspricht. Kosten der Beteiligten werden nicht erstattet.
 
-
-## § 100 – Persönliche Voraussetzungen für Aufsichtsratsmitglieder
+# § 100 – Persönliche Voraussetzungen für Aufsichtsratsmitglieder
 
 (1) Mitglied des Aufsichtsrats kann nur eine natürliche, unbeschränkt geschäftsfähige Person sein. Ein Betreuter, der bei der Besorgung seiner Vermögensangelegenheiten ganz oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen Gesetzbuchs) unterliegt, kann nicht Mitglied des Aufsichtsrats sein.
 
@@ -2001,8 +1881,7 @@ Auf die Höchstzahl nach Satz 1 Nr. 1 sind bis zu fünf Aufsichtsratssitze nicht
 
 (5) Bei Gesellschaften, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist, sind, muss mindestens ein Mitglied des Aufsichtsrats über Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung verfügen; die Mitglieder müssen in ihrer Gesamtheit mit dem Sektor, in dem die Gesellschaft tätig ist, vertraut sein.
 
-
-## § 101 – Bestellung der Aufsichtsratsmitglieder
+# § 101 – Bestellung der Aufsichtsratsmitglieder
 
 (1) Die Mitglieder des Aufsichtsrats werden von der Hauptversammlung gewählt, soweit sie nicht in den Aufsichtsrat zu entsenden oder als Aufsichtsratsmitglieder der Arbeitnehmer nach dem Mitbestimmungsgesetz, dem Mitbestimmungsergänzungsgesetz, dem Drittelbeteiligungsgesetz oder dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung zu wählen sind. An Wahlvorschläge ist die Hauptversammlung nur gemäß §§ 6 und 8 des Montan-Mitbestimmungsgesetzes gebunden.
 
@@ -2010,15 +1889,13 @@ Auf die Höchstzahl nach Satz 1 Nr. 1 sind bis zu fünf Aufsichtsratssitze nicht
 
 (3) Stellvertreter von Aufsichtsratsmitgliedern können nicht bestellt werden. Jedoch kann für jedes Aufsichtsratsmitglied mit Ausnahme des weiteren Mitglieds, das nach dem Montan-Mitbestimmungsgesetz oder dem Mitbestimmungsergänzungsgesetz auf Vorschlag der übrigen Aufsichtsratsmitglieder gewählt wird, ein Ersatzmitglied bestellt werden, das Mitglied des Aufsichtsrats wird, wenn das Aufsichtsratsmitglied vor Ablauf seiner Amtszeit wegfällt. Das Ersatzmitglied kann nur gleichzeitig mit dem Aufsichtsratsmitglied bestellt werden. Auf seine Bestellung sowie die Nichtigkeit und Anfechtung seiner Bestellung sind die für das Aufsichtsratsmitglied geltenden Vorschriften anzuwenden.
 
-
-## § 102 – Amtszeit der Aufsichtsratsmitglieder
+# § 102 – Amtszeit der Aufsichtsratsmitglieder
 
 (1) Aufsichtsratsmitglieder können nicht für längere Zeit als bis zur Beendigung der Hauptversammlung bestellt werden, die über die Entlastung für das vierte Geschäftsjahr nach dem Beginn der Amtszeit beschließt. Das Geschäftsjahr, in dem die Amtszeit beginnt, wird nicht mitgerechnet.
 
 (2) Das Amt des Ersatzmitglieds erlischt spätestens mit Ablauf der Amtszeit des weggefallenen Aufsichtsratsmitglieds.
 
-
-## § 103 – Abberufung der Aufsichtsratsmitglieder
+# § 103 – Abberufung der Aufsichtsratsmitglieder
 
 (1) Aufsichtsratsmitglieder, die von der Hauptversammlung ohne Bindung an einen Wahlvorschlag gewählt worden sind, können von ihr vor Ablauf der Amtszeit abberufen werden. Der Beschluß bedarf einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfaßt. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
 
@@ -2030,8 +1907,7 @@ Auf die Höchstzahl nach Satz 1 Nr. 1 sind bis zu fünf Aufsichtsratssitze nicht
 
 (5) Für die Abberufung eines Ersatzmitglieds gelten die Vorschriften über die Abberufung des Aufsichtsratsmitglieds, für das es bestellt ist.
 
-
-## § 104 – Bestellung durch das Gericht
+# § 104 – Bestellung durch das Gericht
 
 (1) Gehört dem Aufsichtsrat die zur Beschlußfähigkeit nötige Zahl von Mitgliedern nicht an, so hat ihn das Gericht auf Antrag des Vorstands, eines Aufsichtsratsmitglieds oder eines Aktionärs auf diese Zahl zu ergänzen. Der Vorstand ist verpflichtet, den Antrag unverzüglich zu stellen, es sei denn, daß die rechtzeitige Ergänzung vor der nächsten Aufsichtsratssitzung zu erwarten ist. Hat der Aufsichtsrat auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so können auch den Antrag stellen
 
@@ -2067,20 +1943,17 @@ Hat der Aufsichtsrat nach dem Mitbestimmungsgesetz auch aus Aufsichtsratsmitglie
 
 (7) Das gerichtlich bestellte Aufsichtsratsmitglied hat Anspruch auf Ersatz angemessener barer Auslagen und, wenn den Aufsichtsratsmitgliedern der Gesellschaft eine Vergütung gewährt wird, auf Vergütung für seine Tätigkeit. Auf Antrag des Aufsichtsratsmitglieds setzt das Gericht die Auslagen und die Vergütung fest. Gegen die Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der Zivilprozeßordnung statt.
 
-
-## § 105 – Unvereinbarkeit der Zugehörigkeit zum Vorstand und zum Aufsichtsrat
+# § 105 – Unvereinbarkeit der Zugehörigkeit zum Vorstand und zum Aufsichtsrat
 
 (1) Ein Aufsichtsratsmitglied kann nicht zugleich Vorstandsmitglied, dauernd Stellvertreter von Vorstandsmitgliedern, Prokurist oder zum gesamten Geschäftsbetrieb ermächtigter Handlungsbevollmächtigter der Gesellschaft sein.
 
 (2) Nur für einen im voraus begrenzten Zeitraum, höchstens für ein Jahr, kann der Aufsichtsrat einzelne seiner Mitglieder zu Stellvertretern von fehlenden oder verhinderten Vorstandsmitgliedern bestellen. Eine wiederholte Bestellung oder Verlängerung der Amtszeit ist zulässig, wenn dadurch die Amtszeit insgesamt ein Jahr nicht übersteigt. Während ihrer Amtszeit als Stellvertreter von Vorstandsmitgliedern können die Aufsichtsratsmitglieder keine Tätigkeit als Aufsichtsratsmitglied ausüben. Das Wettbewerbsverbot des § 88 gilt für sie nicht.
 
-
-## § 106 – Bekanntmachung der Änderungen im Aufsichtsrat
+# § 106 – Bekanntmachung der Änderungen im Aufsichtsrat
 
 Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder unverzüglich eine Liste der Mitglieder des Aufsichtsrats, aus welcher Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des Handelsgesetzbuchs einen Hinweis darauf bekannt zu machen, dass die Liste zum Handelsregister eingereicht worden ist.
 
-
-## § 107 – Innere Ordnung des Aufsichtsrats
+# § 107 – Innere Ordnung des Aufsichtsrats
 
 (1) Der Aufsichtsrat hat nach näherer Bestimmung der Satzung aus seiner Mitte einen Vorsitzenden und mindestens einen Stellvertreter zu wählen. Der Vorstand hat zum Handelsregister anzumelden, wer gewählt ist. Der Stellvertreter hat nur dann die Rechte und Pflichten des Vorsitzenden, wenn dieser verhindert ist.
 
@@ -2090,8 +1963,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (4) Richtet der Aufsichtsrat einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG ist, einen Prüfungsausschuss im Sinn des Absatzes 3 Satz 2 ein, so müssen die Voraussetzungen des § 100 Absatz 5 erfüllt sein.
 
-
-## § 108 – Beschlußfassung des Aufsichtsrats
+# § 108 – Beschlußfassung des Aufsichtsrats
 
 (1) Der Aufsichtsrat entscheidet durch Beschluß.
 
@@ -2101,8 +1973,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (4) Schriftliche, fernmündliche oder andere vergleichbare Formen der Beschlussfassung des Aufsichtsrats und seiner Ausschüsse sind vorbehaltlich einer näheren Regelung durch die Satzung oder eine Geschäftsordnung des Aufsichtsrats nur zulässig, wenn kein Mitglied diesem Verfahren widerspricht.
 
-
-## § 109 – Teilnahme an Sitzungen des Aufsichtsrats und seiner Ausschüsse
+# § 109 – Teilnahme an Sitzungen des Aufsichtsrats und seiner Ausschüsse
 
 (1) An den Sitzungen des Aufsichtsrats und seiner Ausschüsse sollen Personen, die weder dem Aufsichtsrat noch dem Vorstand angehören, nicht teilnehmen. Sachverständige und Auskunftspersonen können zur Beratung über einzelne Gegenstände zugezogen werden.
 
@@ -2112,8 +1983,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (4) Abweichende gesetzliche Vorschriften bleiben unberührt.
 
-
-## § 110 – Einberufung des Aufsichtsrats
+# § 110 – Einberufung des Aufsichtsrats
 
 (1) Jedes Aufsichtsratsmitglied oder der Vorstand kann unter Angabe des Zwecks und der Gründe verlangen, daß der Vorsitzende des Aufsichtsrats unverzüglich den Aufsichtsrat einberuft. Die Sitzung muß binnen zwei Wochen nach der Einberufung stattfinden.
 
@@ -2121,8 +1991,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (3) Der Aufsichtsrat muss zwei Sitzungen im Kalenderhalbjahr abhalten. In nichtbörsennotierten Gesellschaften kann der Aufsichtsrat beschließen, dass eine Sitzung im Kalenderhalbjahr abzuhalten ist.
 
-
-## § 111 – Aufgaben und Rechte des Aufsichtsrats
+# § 111 – Aufgaben und Rechte des Aufsichtsrats
 
 (1) Der Aufsichtsrat hat die Geschäftsführung zu überwachen.
 
@@ -2136,8 +2005,7 @@ Der Vorstand hat bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 
 (6) Die Aufsichtsratsmitglieder können ihre Aufgaben nicht durch andere wahrnehmen lassen.
 
-
-## § 111a – Geschäfte mit nahestehenden Personen
+# § 111a – Geschäfte mit nahestehenden Personen
 
 (1) Geschäfte mit nahestehenden Personen sind Rechtsgeschäfte oder Maßnahmen,
 
@@ -2175,8 +2043,7 @@ f) Geschäfte im Rahmen einer Umwandlung im Sinne des Umwandlungsgesetzes;
 
 6. Geschäfte, die allen Aktionären unter den gleichen Bedingungen angeboten werden.
 
-
-## § 111b – Zustimmungsvorbehalt des Aufsichtsrats bei Geschäften mit nahestehenden Personen
+# § 111b – Zustimmungsvorbehalt des Aufsichtsrats bei Geschäften mit nahestehenden Personen
 
 (1) Ein Geschäft der börsennotierten Gesellschaft mit nahestehenden Personen, dessen wirtschaftlicher Wert allein oder zusammen mit den innerhalb des laufenden Geschäftsjahres vor Abschluss des Geschäfts mit derselben Person getätigten Geschäften 1,5 Prozent der Summe aus dem Anlage- und Umlaufvermögen der Gesellschaft gemäß § 266 Absatz 2 Buchstabe A und B des Handelsgesetzbuchs nach Maßgabe des zuletzt festgestellten Jahresabschlusses übersteigt, bedarf der vorherigen Zustimmung des Aufsichtsrats oder eines gemäß § 107 Absatz 3 Satz 4 bis 6 bestellten Ausschusses.
 
@@ -2186,8 +2053,7 @@ f) Geschäfte im Rahmen einer Umwandlung im Sinne des Umwandlungsgesetzes;
 
 (4) Verweigert der Aufsichtsrat seine Zustimmung, so kann der Vorstand verlangen, dass die Hauptversammlung über die Zustimmung beschließt. Die an dem Geschäft beteiligten nahestehenden Personen dürfen ihr Stimmrecht bei der Beschlussfassung der Hauptversammlung weder für sich noch für einen anderen ausüben.
 
-
-## § 111c – Veröffentlichung von Geschäften mit nahestehenden Personen
+# § 111c – Veröffentlichung von Geschäften mit nahestehenden Personen
 
 (1) Die börsennotierte Gesellschaft hat Angaben zu solchen Geschäften mit nahestehenden Personen, die gemäß § 111b Absatz 1 der Zustimmung bedürfen, unverzüglich gemäß Absatz 2 zu veröffentlichen. Ist die Zustimmungsbedürftigkeit eines Geschäfts nach § 111b Absatz 1 durch Zusammenrechnung mehrerer Geschäfte ausgelöst worden, so sind auch diese Geschäfte zu veröffentlichen.
 
@@ -2197,13 +2063,11 @@ f) Geschäfte im Rahmen einer Umwandlung im Sinne des Umwandlungsgesetzes;
 
 (4) Ist die Gesellschaft Mutterunternehmen im Sinne der internationalen Rechnungslegungsstandards, die durch die Verordnung (EG) Nr. 1126/2008 übernommen wurden, gelten Absatz 1 Satz 1 sowie die Absätze 2 und 3 entsprechend für ein Geschäft eines Tochterunternehmens mit der Gesellschaft nahestehenden Personen, sofern dieses Geschäft, wenn es von der Gesellschaft vorgenommen worden wäre, nach § 111b Absatz 1 und 3 einer Zustimmung bedürfte.
 
-
-## § 112 – Vertretung der Gesellschaft gegenüber Vorstandsmitgliedern
+# § 112 – Vertretung der Gesellschaft gegenüber Vorstandsmitgliedern
 
 Vorstandsmitgliedern gegenüber vertritt der Aufsichtsrat die Gesellschaft gerichtlich und außergerichtlich. § 78 Abs. 2 Satz 2 gilt entsprechend.
 
-
-## § 113 – Vergütung der Aufsichtsratsmitglieder
+# § 113 – Vergütung der Aufsichtsratsmitglieder
 
 (1) Den Aufsichtsratsmitgliedern kann für ihre Tätigkeit eine Vergütung gewährt werden. Sie kann in der Satzung festgesetzt oder von der Hauptversammlung bewilligt werden. Sie soll in einem angemessenen Verhältnis zu den Aufgaben der Aufsichtsratsmitglieder und zur Lage der Gesellschaft stehen.
 
@@ -2211,15 +2075,13 @@ Vorstandsmitgliedern gegenüber vertritt der Aufsichtsrat die Gesellschaft geric
 
 (3) Bei börsennotierten Gesellschaften ist mindestens alle vier Jahre über die Vergütung der Aufsichtsratsmitglieder Beschluss zu fassen. Ein die Vergütung bestätigender Beschluss ist zulässig; im Übrigen gilt Absatz 1 Satz 2. In dem Beschluss sind die nach § 87a Absatz 1 Satz 2 erforderlichen Angaben sinngemäß und in klarer und verständlicher Form zu machen oder in Bezug zu nehmen. Die Angaben können in der Satzung unterbleiben, wenn die Vergütung in der Satzung festgesetzt wird. Der Beschluss ist wegen eines Verstoßes gegen Satz 3 nicht anfechtbar. § 120a Absatz 2 und 3 ist sinngemäß anzuwenden.
 
-
-## § 114 – Verträge mit Aufsichtsratsmitgliedern
+# § 114 – Verträge mit Aufsichtsratsmitgliedern
 
 (1) Verpflichtet sich ein Aufsichtsratsmitglied außerhalb seiner Tätigkeit im Aufsichtsrat durch einen Dienstvertrag, durch den ein Arbeitsverhältnis nicht begründet wird, oder durch einen Werkvertrag gegenüber der Gesellschaft zu einer Tätigkeit höherer Art, so hängt die Wirksamkeit des Vertrags von der Zustimmung des Aufsichtsrats ab.
 
 (2) Gewährt die Gesellschaft auf Grund eines solchen Vertrags dem Aufsichtsratsmitglied eine Vergütung, ohne daß der Aufsichtsrat dem Vertrag zugestimmt hat, so hat das Aufsichtsratsmitglied die Vergütung zurückzugewähren, es sei denn, daß der Aufsichtsrat den Vertrag genehmigt. Ein Anspruch des Aufsichtsratsmitglieds gegen die Gesellschaft auf Herausgabe der durch die geleistete Tätigkeit erlangten Bereicherung bleibt unberührt; der Anspruch kann jedoch nicht gegen den Rückgewähranspruch aufgerechnet werden.
 
-
-## § 115 – Kreditgewährung an Aufsichtsratsmitglieder
+# § 115 – Kreditgewährung an Aufsichtsratsmitglieder
 
 (1) Die Gesellschaft darf ihren Aufsichtsratsmitgliedern Kredit nur mit Einwilligung des Aufsichtsrats gewähren. Eine herrschende Gesellschaft darf Kredite an Aufsichtsratsmitglieder eines abhängigen Unternehmens nur mit Einwilligung ihres Aufsichtsrats, eine abhängige Gesellschaft darf Kredite an Aufsichtsratsmitglieder des herrschenden Unternehmens nur mit Einwilligung des Aufsichtsrats des herrschenden Unternehmens gewähren. Die Einwilligung kann nur für bestimmte Kreditgeschäfte oder Arten von Kreditgeschäften und nicht für länger als drei Monate im voraus erteilt werden. Der Beschluß über die Einwilligung hat die Verzinsung und Rückzahlung des Kredits zu regeln. Betreibt das Aufsichtsratsmitglied ein Handelsgewerbe als Einzelkaufmann, so ist die Einwilligung nicht erforderlich, wenn der Kredit für die Bezahlung von Waren gewährt wird, welche die Gesellschaft seinem Handelsgeschäft liefert.
 
@@ -2231,13 +2093,11 @@ Vorstandsmitgliedern gegenüber vertritt der Aufsichtsrat die Gesellschaft geric
 
 (5) Ist die Gesellschaft ein Kreditinstitut oder Finanzdienstleistungsinstitut, auf das § 15 des Gesetzes über das Kreditwesen anzuwenden ist, gelten anstelle der Absätze 1 bis 4 die Vorschriften des Gesetzes über das Kreditwesen.
 
-
-## § 116 – Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder
+# § 116 – Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder
 
 Für die Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder gelten § 93 mit Ausnahme des Absatzes 2 Satz 3 über die Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder und § 15b der Insolvenzordnung sinngemäß. Die Aufsichtsratsmitglieder sind insbesondere zur Verschwiegenheit über erhaltene vertrauliche Berichte und vertrauliche Beratungen verpflichtet. Sie sind namentlich zum Ersatz verpflichtet, wenn sie eine unangemessene Vergütung festsetzen (§ 87 Absatz 1).
 
-
-## § 117 – Schadenersatzpflicht
+# § 117 – Schadenersatzpflicht
 
 (1) Wer vorsätzlich unter Benutzung seines Einflusses auf die Gesellschaft ein Mitglied des Vorstands oder des Aufsichtsrats, einen Prokuristen oder einen Handlungsbevollmächtigten dazu bestimmt, zum Schaden der Gesellschaft oder ihrer Aktionäre zu handeln, ist der Gesellschaft zum Ersatz des ihr daraus entstehenden Schadens verpflichtet. Er ist auch den Aktionären zum Ersatz des ihnen daraus entstehenden Schadens verpflichtet, soweit sie, abgesehen von einem Schaden, der ihnen durch Schädigung der Gesellschaft zugefügt worden ist, geschädigt worden sind.
 
@@ -2259,8 +2119,7 @@ Für die Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder gel
 
 zu der schädigenden Handlung bestimmt worden ist.
 
-
-## § 118 – Allgemeines
+# § 118 – Allgemeines
 
 (1) Die Aktionäre üben ihre Rechte in den Angelegenheiten der Gesellschaft in der Hauptversammlung aus, soweit das Gesetz nichts anderes bestimmt. Die Satzung kann vorsehen oder den Vorstand dazu ermächtigen vorzusehen, dass die Aktionäre an der Hauptversammlung auch ohne Anwesenheit an deren Ort und ohne einen Bevollmächtigten teilnehmen und sämtliche oder einzelne ihrer Rechte ganz oder teilweise im Wege elektronischer Kommunikation ausüben können. Bei elektronischer Ausübung des Stimmrechts ist dem Abgebenden der Zugang der elektronisch abgegebenen Stimme nach den Anforderungen gemäß Artikel 7 Absatz 1 und Artikel 9 Absatz 5 Unterabsatz 1 der Durchführungsverordnung (EU) 2018/1212 von der Gesellschaft elektronisch zu bestätigen. Sofern die Bestätigung einem Intermediär erteilt wird, hat dieser die Bestätigung unverzüglich dem Aktionär zu übermitteln. § 67a Absatz 2 Satz 1 und Absatz 3 gilt entsprechend.
 
@@ -2270,8 +2129,7 @@ zu der schädigenden Handlung bestimmt worden ist.
 
 (4) Die Satzung oder die Geschäftsordnung gemäß § 129 Abs. 1 kann vorsehen oder den Vorstand oder den Versammlungsleiter dazu ermächtigen vorzusehen, die Bild- und Tonübertragung der Versammlung zuzulassen.
 
-
-## § 119 – Rechte der Hauptversammlung
+# § 119 – Rechte der Hauptversammlung
 
 (1) Die Hauptversammlung beschließt in den im Gesetz und in der Satzung ausdrücklich bestimmten Fällen, namentlich über
 
@@ -2295,8 +2153,7 @@ zu der schädigenden Handlung bestimmt worden ist.
 
 (2) Über Fragen der Geschäftsführung kann die Hauptversammlung nur entscheiden, wenn der Vorstand es verlangt.
 
-
-## § 120 – Entlastung
+# § 120 – Entlastung
 
 (1) Die Hauptversammlung beschließt alljährlich in den ersten acht Monaten des Geschäftsjahrs über die Entlastung der Mitglieder des Vorstands und über die Entlastung der Mitglieder des Aufsichtsrats. Über die Entlastung eines einzelnen Mitglieds ist gesondert abzustimmen, wenn die Hauptversammlung es beschließt oder eine Minderheit es verlangt, deren Anteile zusammen den zehnten Teil des Grundkapitals oder den anteiligen Betrag von einer Million Euro erreichen.
 
@@ -2306,8 +2163,7 @@ zu der schädigenden Handlung bestimmt worden ist.
 
 (4) (weggefallen)
 
-
-## § 120a – Votum zum Vergütungssystem und zum Vergütungsbericht
+# § 120a – Votum zum Vergütungssystem und zum Vergütungsbericht
 
 (1) Die Hauptversammlung der börsennotierten Gesellschaft beschließt über die Billigung des vom Aufsichtsrat vorgelegten Vergütungssystems für die Vorstandsmitglieder bei jeder wesentlichen Änderung des Vergütungssystems, mindestens jedoch alle vier Jahre. Der Beschluss begründet weder Rechte noch Pflichten. Er ist nicht nach § 243 anfechtbar. Ein das Vergütungssystem bestätigender Beschluss ist zulässig.
 
@@ -2319,8 +2175,7 @@ zu der schädigenden Handlung bestimmt worden ist.
 
 (5) Bei börsennotierten kleinen und mittelgroßen Gesellschaften im Sinne des § 267 Absatz 1 und 2 des Handelsgesetzbuchs bedarf es keiner Beschlussfassung nach Absatz 4, wenn der Vergütungsbericht des letzten Geschäftsjahres als eigener Tagesordnungspunkt in der Hauptversammlung zur Erörterung vorgelegt wird.
 
-
-## § 121 – Allgemeines
+# § 121 – Allgemeines
 
 (1) Die Hauptversammlung ist in den durch Gesetz oder Satzung bestimmten Fällen sowie dann einzuberufen, wenn das Wohl der Gesellschaft es fordert.
 
@@ -2350,8 +2205,7 @@ b) durch Briefwahl oder im Wege der elektronischen Kommunikation gemäß § 118 
 
 (7) Bei Fristen und Terminen, die von der Versammlung zurückberechnet werden, ist der Tag der Versammlung nicht mitzurechnen. Eine Verlegung von einem Sonntag, einem Sonnabend oder einem Feiertag auf einen zeitlich vorausgehenden oder nachfolgenden Werktag kommt nicht in Betracht. Die §§ 187 bis 193 des Bürgerlichen Gesetzbuchs sind nicht entsprechend anzuwenden. Bei nichtbörsennotierten Gesellschaften kann die Satzung eine andere Berechnung der Frist bestimmen.
 
-
-## § 122 – Einberufung auf Verlangen einer Minderheit
+# § 122 – Einberufung auf Verlangen einer Minderheit
 
 (1) Die Hauptversammlung ist einzuberufen, wenn Aktionäre, deren Anteile zusammen den zwanzigsten Teil des Grundkapitals erreichen, die Einberufung schriftlich unter Angabe des Zwecks und der Gründe verlangen; das Verlangen ist an den Vorstand zu richten. Die Satzung kann das Recht, die Einberufung der Hauptversammlung zu verlangen, an eine andere Form und an den Besitz eines geringeren Anteils am Grundkapital knüpfen. Die Antragsteller haben nachzuweisen, dass sie seit mindestens 90 Tagen vor dem Tag des Zugangs des Verlangens Inhaber der Aktien sind und dass sie die Aktien bis zur Entscheidung des Vorstands über den Antrag halten. § 121 Absatz 7 ist entsprechend anzuwenden.
 
@@ -2361,8 +2215,7 @@ b) durch Briefwahl oder im Wege der elektronischen Kommunikation gemäß § 118 
 
 (4) Die Gesellschaft trägt die Kosten der Hauptversammlung und im Fall des Absatzes 3 auch die Gerichtskosten, wenn das Gericht dem Antrag stattgegeben hat.
 
-
-## § 123 – Frist, Anmeldung zur Hauptversammlung, Nachweis
+# § 123 – Frist, Anmeldung zur Hauptversammlung, Nachweis
 
 (1) Die Hauptversammlung ist mindestens dreißig Tage vor dem Tage der Versammlung einzuberufen. Der Tag der Einberufung ist nicht mitzurechnen.
 
@@ -2374,8 +2227,7 @@ b) durch Briefwahl oder im Wege der elektronischen Kommunikation gemäß § 118 
 
 (5) Bei Namensaktien börsennotierter Gesellschaften folgt die Berechtigung zur Teilnahme an der Versammlung oder zur Ausübung des Stimmrechts gemäß § 67 Absatz 2 Satz 1 aus der Eintragung im Aktienregister.
 
-
-## § 124 – Bekanntmachung von Ergänzungsverlangen; Vorschläge zur Beschlussfassung
+# § 124 – Bekanntmachung von Ergänzungsverlangen; Vorschläge zur Beschlussfassung
 
 (1) Hat die Minderheit nach § 122 Abs. 2 verlangt, dass Gegenstände auf die Tagesordnung gesetzt werden, so sind diese entweder bereits mit der Einberufung oder andernfalls unverzüglich nach Zugang des Verlangens bekannt zu machen. § 121 Abs. 4 gilt sinngemäß; zudem gilt bei börsennotierten Gesellschaften § 121 Abs. 4a entsprechend. Bekanntmachung und Zuleitung haben dabei in gleicher Weise wie bei der Einberufung zu erfolgen.
 
@@ -2391,8 +2243,7 @@ Soll die Hauptversammlung über eine Satzungsänderung, das Vergütungssystem f�
 
 (4) Über Gegenstände der Tagesordnung, die nicht ordnungsgemäß bekanntgemacht sind, dürfen keine Beschlüsse gefaßt werden. Zur Beschlußfassung über den in der Versammlung gestellten Antrag auf Einberufung einer Hauptversammlung, zu Anträgen, die zu Gegenständen der Tagesordnung gestellt werden, und zu Verhandlungen ohne Beschlußfassung bedarf es keiner Bekanntmachung.
 
-
-## § 124a – Veröffentlichungen auf der Internetseite der Gesellschaft
+# § 124a – Veröffentlichungen auf der Internetseite der Gesellschaft
 
 Bei börsennotierten Gesellschaften müssen alsbald nach der Einberufung der Hauptversammlung über die Internetseite der Gesellschaft zugänglich sein:
 
@@ -2408,8 +2259,7 @@ Bei börsennotierten Gesellschaften müssen alsbald nach der Einberufung der Hau
 
 Ein nach Einberufung der Versammlung bei der Gesellschaft eingegangenes Verlangen von Aktionären im Sinne von § 122 Abs. 2 ist unverzüglich nach seinem Eingang bei der Gesellschaft in gleicher Weise zugänglich zu machen.
 
-
-## § 125 – Mitteilungen für die Aktionäre und an Aufsichtsratsmitglieder
+# § 125 – Mitteilungen für die Aktionäre und an Aufsichtsratsmitglieder
 
 (1) Der Vorstand einer Gesellschaft, die nicht ausschließlich Namensaktien ausgegeben hat, hat die Einberufung der Hauptversammlung mindestens 21 Tage vor derselben wie folgt mitzuteilen:
 
@@ -2429,8 +2279,7 @@ Der Tag der Mitteilung ist nicht mitzurechnen. Ist die Tagesordnung nach § 122 
 
 (5) Für Inhalt und Format eines Mindestgehaltes an Informationen in den Mitteilungen gemäß Absatz 1 Satz 1 und Absatz 2 gelten die Anforderungen der Durchführungsverordnung (EU) 2018/1212. § 67a Absatz 2 Satz 1 gilt für die Absätze 1 und 2 entsprechend. Bei börsennotierten Gesellschaften sind die Intermediäre, die Aktien der Gesellschaft verwahren, entsprechend den §§ 67a und 67b zur Weiterleitung und Übermittlung der Informationen nach den Absätzen 1 und 2 verpflichtet, es sei denn, dem Intermediär ist bekannt, dass der Aktionär sie von anderer Seite erhält. Das Gleiche gilt für nichtbörsennotierte Gesellschaften mit der Maßgabe, dass die Bestimmungen der Durchführungsverordnung (EU) 2018/1212 nicht anzuwenden sind.
 
-
-## § 126 – Anträge von Aktionären
+# § 126 – Anträge von Aktionären
 
 (1) Anträge von Aktionären einschließlich des Namens des Aktionärs, der Begründung und einer etwaigen Stellungnahme der Verwaltung sind den in § 125 Abs. 1 bis 3 genannten Berechtigten unter den dortigen Voraussetzungen zugänglich zu machen, wenn der Aktionär mindestens 14 Tage vor der Versammlung der Gesellschaft einen Gegenantrag gegen einen Vorschlag von Vorstand und Aufsichtsrat zu einem bestimmten Punkt der Tagesordnung mit Begründung an die in der Einberufung hierfür mitgeteilte Adresse übersandt hat. Der Tag des Zugangs ist nicht mitzurechnen. Bei börsennotierten Gesellschaften hat das Zugänglichmachen über die Internetseite der Gesellschaft zu erfolgen. § 125 Abs. 3 gilt entsprechend.
 
@@ -2454,8 +2303,7 @@ Die Begründung braucht nicht zugänglich gemacht zu werden, wenn sie insgesamt 
 
 (3) Stellen mehrere Aktionäre zu demselben Gegenstand der Beschlußfassung Gegenanträge, so kann der Vorstand die Gegenanträge und ihre Begründungen zusammenfassen.
 
-
-## § 127 – Wahlvorschläge von Aktionären
+# § 127 – Wahlvorschläge von Aktionären
 
 Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder von Abschlußprüfern gilt § 126 sinngemäß. Der Wahlvorschlag braucht nicht begründet zu werden. Der Vorstand braucht den Wahlvorschlag auch dann nicht zugänglich zu machen, wenn der Vorschlag nicht die Angaben nach § 124 Absatz 3 Satz 4 und § 125 Abs. 1 Satz 5 enthält. Der Vorstand hat den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern börsennotierter Gesellschaften, für die das Mitbestimmungsgesetz, das Montan-Mitbestimmungsgesetz oder das Mitbestimmungsergänzungsgesetz gilt, mit folgenden Inhalten zu versehen:
 
@@ -2465,8 +2313,7 @@ Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder v
 
 3. Angabe, wie viele der Sitze im Aufsichtsrat mindestens jeweils von Frauen und Männern besetzt sein müssen, um das Mindestanteilsgebot nach § 96 Absatz 2 Satz 1 zu erfüllen.
 
-
-## § 127a – Aktionärsforum
+# § 127a – Aktionärsforum
 
 (1) Aktionäre oder Aktionärsvereinigungen können im Aktionärsforum des Bundesanzeigers andere Aktionäre auffordern, gemeinsam oder in Vertretung einen Antrag oder ein Verlangen nach diesem Gesetz zu stellen oder in einer Hauptversammlung das Stimmrecht auszuüben.
 
@@ -2486,11 +2333,9 @@ Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder v
 
 (5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung die äußere Gestaltung des Aktionärsforums und weitere Einzelheiten insbesondere zu der Aufforderung, dem Hinweis, den Entgelten, zu Löschungsfristen, Löschungsanspruch, zu Missbrauchsfällen und zur Einsichtnahme zu regeln.
 
+# § 128 – (weggefallen)
 
-## § 128 – (weggefallen)
-
-
-## § 129 – Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung
+# § 129 – Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung
 
 (1) Die Hauptversammlung kann sich mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, eine Geschäftsordnung mit Regeln für die Vorbereitung und Durchführung der Hauptversammlung geben. In der Hauptversammlung ist ein Verzeichnis der erschienenen oder vertretenen Aktionäre und der Vertreter von Aktionären mit Angabe ihres Namens und Wohnorts sowie bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen.
 
@@ -2502,8 +2347,7 @@ Für den Vorschlag eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern oder v
 
 (5) Der Abstimmende kann von der Gesellschaft innerhalb eines Monats nach dem Tag der Hauptversammlung eine Bestätigung darüber verlangen, ob und wie seine Stimme gezählt wurde. Die Gesellschaft hat die Bestätigung gemäß den Anforderungen in Artikel 7 Absatz 2 und Artikel 9 Absatz 5 Unterabsatz 2 der Durchführungsverordnung (EU) 2018/1212 zu erteilen. Sofern die Bestätigung einem Intermediär erteilt wird, hat dieser die Bestätigung unverzüglich dem Aktionär zu übermitteln. § 67a Absatz 2 Satz 1 und Absatz 3 gilt entsprechend.
 
-
-## § 130 – Niederschrift
+# § 130 – Niederschrift
 
 (1) Jeder Beschluß der Hauptversammlung ist durch eine über die Verhandlung notariell aufgenommene Niederschrift zu beurkunden. Gleiches gilt für jedes Verlangen einer Minderheit nach § 120 Abs. 1 Satz 2, § 137. Bei nichtbörsennotierten Gesellschaften reicht eine vom Vorsitzenden des Aufsichtsrats zu unterzeichnende Niederschrift aus, soweit keine Beschlüsse gefaßt werden, für die das Gesetz eine Dreiviertel- oder größere Mehrheit bestimmt.
 
@@ -2525,8 +2369,7 @@ Abweichend von Satz 2 kann der Versammlungsleiter die Feststellung über die Bes
 
 (6) Börsennotierte Gesellschaften müssen innerhalb von sieben Tagen nach der Versammlung die festgestellten Abstimmungsergebnisse einschließlich der Angaben nach Absatz 2 Satz 2 auf ihrer Internetseite veröffentlichen.
 
-
-## § 131 – Auskunftsrecht des Aktionärs
+# § 131 – Auskunftsrecht des Aktionärs
 
 (1) Jedem Aktionär ist auf Verlangen in der Hauptversammlung vom Vorstand Auskunft über Angelegenheiten der Gesellschaft zu geben, soweit sie zur sachgemäßen Beurteilung des Gegenstands der Tagesordnung erforderlich ist. Die Auskunftspflicht erstreckt sich auch auf die rechtlichen und geschäftlichen Beziehungen der Gesellschaft zu einem verbundenen Unternehmen. Macht eine Gesellschaft von den Erleichterungen nach § 266 Absatz 1 Satz 3, § 276 oder § 288 des Handelsgesetzbuchs Gebrauch, so kann jeder Aktionär verlangen, dass ihm in der Hauptversammlung über den Jahresabschluss der Jahresabschluss in der Form vorgelegt wird, die er ohne diese Erleichterungen hätte. Die Auskunftspflicht des Vorstands eines Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) in der Hauptversammlung, der der Konzernabschluss und der Konzernlagebericht vorgelegt werden, erstreckt sich auch auf die Lage des Konzerns und der in den Konzernabschluss einbezogenen Unternehmen.
 
@@ -2554,8 +2397,7 @@ Aus anderen Gründen darf die Auskunft nicht verweigert werden.
 
 (5) Wird einem Aktionär eine Auskunft verweigert, so kann er verlangen, daß seine Frage und der Grund, aus dem die Auskunft verweigert worden ist, in die Niederschrift über die Verhandlung aufgenommen werden.
 
-
-## § 132 – Gerichtliche Entscheidung über das Auskunftsrecht
+# § 132 – Gerichtliche Entscheidung über das Auskunftsrecht
 
 (1) Ob der Vorstand die Auskunft zu geben hat, entscheidet auf Antrag ausschließlich das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
@@ -2567,15 +2409,13 @@ Aus anderen Gründen darf die Auskunft nicht verweigert werden.
 
 (5) Das mit dem Verfahren befaßte Gericht bestimmt nach billigem Ermessen, welchem Beteiligten die Kosten des Verfahrens aufzuerlegen sind.
 
-
-## § 133 – Grundsatz der einfachen Stimmenmehrheit
+# § 133 – Grundsatz der einfachen Stimmenmehrheit
 
 (1) Die Beschlüsse der Hauptversammlung bedürfen der Mehrheit der abgegebenen Stimmen (einfache Stimmenmehrheit), soweit nicht Gesetz oder Satzung eine größere Mehrheit oder weitere Erfordernisse bestimmen.
 
 (2) Für Wahlen kann die Satzung andere Bestimmungen treffen.
 
-
-## § 134 – Stimmrecht
+# § 134 – Stimmrecht
 
 (1) Das Stimmrecht wird nach Aktiennennbeträgen, bei Stückaktien nach deren Zahl ausgeübt. Für den Fall, daß einem Aktionär mehrere Aktien gehören, kann bei einer nichtbörsennotierten Gesellschaft die Satzung das Stimmrecht durch Festsetzung eines Höchstbetrags oder von Abstufungen beschränken. Die Satzung kann außerdem bestimmen, daß zu den Aktien, die dem Aktionär gehören, auch die Aktien rechnen, die einem anderen für seine Rechnung gehören. Für den Fall, daß der Aktionär ein Unternehmen ist, kann sie ferner bestimmen, daß zu den Aktien, die ihm gehören, auch die Aktien rechnen, die einem von ihm abhängigen oder ihn beherrschenden oder einem mit ihm konzernverbundenen Unternehmen oder für Rechnung solcher Unternehmen einem Dritten gehören. Die Beschränkungen können nicht für einzelne Aktionäre angeordnet werden. Bei der Berechnung einer nach Gesetz oder Satzung erforderlichen Kapitalmehrheit bleiben die Beschränkungen außer Betracht.
 
@@ -2585,8 +2425,7 @@ Aus anderen Gründen darf die Auskunft nicht verweigert werden.
 
 (4) Die Form der Ausübung des Stimmrechts richtet sich nach der Satzung.
 
-
-## § 134a – Begriffsbestimmungen; Anwendungsbereich
+# § 134a – Begriffsbestimmungen; Anwendungsbereich
 
 (1) Im Sinne der §§ 134b bis 135 ist
 
@@ -2616,8 +2455,7 @@ ein Unternehmen, das gewerbsmäßig und entgeltlich Offenlegungen und andere Inf
 
 3. für Stimmrechtsberater: Artikel 1 Absatz 2 Buchstabe b und Absatz 6 Buchstabe c sowie Artikel 3j Absatz 4.
 
-
-## § 134b – Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten
+# § 134b – Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten
 
 (1) Institutionelle Anleger und Vermögensverwalter haben eine Politik, in der sie ihre Mitwirkung in den Portfoliogesellschaften beschreiben (Mitwirkungspolitik), und in der insbesondere folgende Punkte behandelt werden, zu veröffentlichen:
 
@@ -2641,8 +2479,7 @@ ein Unternehmen, das gewerbsmäßig und entgeltlich Offenlegungen und andere Inf
 
 § 134b Abs. 1 Nr. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Meinungsaustauch" durch das Wort " Meinungsaustausch" ersetzt
 
-
-## § 134c – Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern
+# § 134c – Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern
 
 (1) Institutionelle Anleger haben offenzulegen, inwieweit die Hauptelemente ihrer Anlagestrategie dem Profil und der Laufzeit ihrer Verbindlichkeiten entsprechen und wie sie zur mittel- bis langfristigen Wertentwicklung ihrer Vermögenswerte beitragen.
 
@@ -2674,8 +2511,7 @@ Wurde zu einzelnen Angaben keine Vereinbarung getroffen, hat der institutionelle
 
 5. zur Handhabung der Wertpapierleihe und zum Umgang mit Interessenkonflikten im Rahmen der Mitwirkung in den Gesellschaften, insbesondere durch Ausübung von Aktionärsrechten.
 
-
-## § 134d – Offenlegungspflichten der Stimmrechtsberater
+# § 134d – Offenlegungspflichten der Stimmrechtsberater
 
 (1) Stimmrechtsberater haben jährlich zu erklären, dass sie den Vorgaben eines näher bezeichneten Verhaltenskodex entsprochen haben und entsprechen oder welche Vorgaben des Verhaltenskodex sie nicht eingehalten haben und einhalten und welche Maßnahmen sie stattdessen getroffen haben. Wenn Stimmrechtsberater keinen Verhaltenskodex einhalten, haben sie zu erklären, warum nicht.
 
@@ -2697,8 +2533,7 @@ Wurde zu einzelnen Angaben keine Vereinbarung getroffen, hat der institutionelle
 
 (4) Stimmrechtsberater haben ihre Kunden unverzüglich über Interessenkonflikte sowie über diesbezügliche Gegenmaßnahmen zu informieren.
 
-
-## § 135 – Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde
+# § 135 – Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde
 
 (1) Ein Intermediär darf das Stimmrecht für Aktien, die ihm nicht gehören und als deren Inhaber er nicht im Aktienregister eingetragen ist, nur ausüben, wenn er bevollmächtigt ist. Die Vollmacht darf nur einem bestimmten Intermediär erteilt werden und ist von diesem nachprüfbar festzuhalten. Die Vollmachtserklärung muss vollständig sein und darf nur mit der Stimmrechtsausübung verbundene Erklärungen enthalten. Erteilt der Aktionär keine ausdrücklichen Weisungen, so kann eine generelle Vollmacht nur die Berechtigung des Intermediärs zur Stimmrechtsausübung
 
@@ -2726,25 +2561,21 @@ vorsehen. Bietet der Intermediär die Stimmrechtsausübung gemäß Satz 4 Nr. 1 
 
 (10) (weggefallen)
 
-
-## § 136 – Ausschluß des Stimmrechts
+# § 136 – Ausschluß des Stimmrechts
 
 (1) Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluß gefaßt wird, ob er zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Gesellschaft gegen ihn einen Anspruch geltend machen soll. Für Aktien, aus denen der Aktionär nach Satz 1 das Stimmrecht nicht ausüben kann, kann das Stimmrecht auch nicht durch einen anderen ausgeübt werden.
 
 (2) Ein Vertrag, durch den sich ein Aktionär verpflichtet, nach Weisung der Gesellschaft, des Vorstands oder des Aufsichtsrats der Gesellschaft oder nach Weisung eines abhängigen Unternehmens das Stimmrecht auszuüben, ist nichtig. Ebenso ist ein Vertrag nichtig, durch den sich ein Aktionär verpflichtet, für die jeweiligen Vorschläge des Vorstands oder des Aufsichtsrats der Gesellschaft zu stimmen.
 
-
-## § 137 – Abstimmung über Wahlvorschläge von Aktionären
+# § 137 – Abstimmung über Wahlvorschläge von Aktionären
 
 Hat ein Aktionär einen Vorschlag zur Wahl von Aufsichtsratsmitgliedern nach § 127 gemacht und beantragt er in der Hauptversammlung die Wahl des von ihm Vorgeschlagenen, so ist über seinen Antrag vor dem Vorschlag des Aufsichtsrats zu beschließen, wenn es eine Minderheit der Aktionäre verlangt, deren Anteile zusammen den zehnten Teil des vertretenen Grundkapitals erreichen.
 
-
-## § 138 – Gesonderte Versammlung. Gesonderte Abstimmung
+# § 138 – Gesonderte Versammlung. Gesonderte Abstimmung
 
 In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser Aktionäre sind entweder in einer gesonderten Versammlung dieser Aktionäre oder in einer gesonderten Abstimmung zu fassen, soweit das Gesetz nichts anderes bestimmt. Für die Einberufung der gesonderten Versammlung und die Teilnahme an ihr sowie für das Auskunftsrecht gelten die Bestimmungen über die Hauptversammlung, für die Sonderbeschlüsse die Bestimmungen über Hauptversammlungsbeschlüsse sinngemäß. Verlangen Aktionäre, die an der Abstimmung über den Sonderbeschluß teilnehmen können, die Einberufung einer gesonderten Versammlung oder die Bekanntmachung eines Gegenstands zur gesonderten Abstimmung, so genügt es, wenn ihre Anteile, mit denen sie an der Abstimmung über den Sonderbeschluß teilnehmen können, zusammen den zehnten Teil der Anteile erreichen, aus denen bei der Abstimmung über den Sonderbeschluß das Stimmrecht ausgeübt werden kann.
 
-
-## § 139 – Wesen
+# § 139 – Wesen
 
 (1) Für Aktien, die mit einem Vorzug bei der Verteilung des Gewinns ausgestattet sind, kann das Stimmrecht ausgeschlossen werden (Vorzugsaktien ohne Stimmrecht). Der Vorzug kann insbesondere in einem auf die Aktie vorweg entfallenden Gewinnanteil (Vorabdividende) oder einem erhöhten Gewinnanteil (Mehrdividende) bestehen. Wenn die Satzung nichts anderes bestimmt, ist eine Vorabdividende nachzuzahlen.
 
@@ -2752,8 +2583,7 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 (+++ § 139 Abs. 2: Zur Anwendung vgl. § 109 Abs. 3 Satz 3 KAGB +++)
 
-
-## § 140 – Rechte der Vorzugsaktionäre
+# § 140 – Rechte der Vorzugsaktionäre
 
 (1) Die Vorzugsaktien ohne Stimmrecht gewähren mit Ausnahme des Stimmrechts die jedem Aktionär aus der Aktie zustehenden Rechte.
 
@@ -2761,8 +2591,7 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 (3) Soweit die Satzung nichts anderes bestimmt, entsteht dadurch, dass der nachzuzahlende Vorzugsbetrag in einem Jahr nicht oder nicht vollständig gezahlt wird, noch kein durch spätere Beschlüsse über die Gewinnverteilung bedingter Anspruch auf den rückständigen Vorzugsbetrag.
 
-
-## § 141 – Aufhebung oder Beschränkung des Vorzugs
+# § 141 – Aufhebung oder Beschränkung des Vorzugs
 
 (1) Ein Beschluß, durch den der Vorzug aufgehoben oder beschränkt wird, bedarf zu seiner Wirksamkeit der Zustimmung der Vorzugsaktionäre.
 
@@ -2772,8 +2601,7 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 (4) Ist der Vorzug aufgehoben, so gewähren die Aktien das Stimmrecht.
 
-
-## § 142 – Bestellung der Sonderprüfer
+# § 142 – Bestellung der Sonderprüfer
 
 (1) Zur Prüfung von Vorgängen bei der Gründung oder der Geschäftsführung, namentlich auch bei Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung, kann die Hauptversammlung mit einfacher Stimmenmehrheit Prüfer (Sonderprüfer) bestellen. Bei der Beschlußfassung kann ein Mitglied des Vorstands oder des Aufsichtsrats weder für sich noch für einen anderen mitstimmen, wenn die Prüfung sich auf Vorgänge erstrecken soll, die mit der Entlastung eines Mitglieds des Vorstands oder des Aufsichtsrats oder der Einleitung eines Rechtsstreits zwischen der Gesellschaft und einem Mitglied des Vorstands oder des Aufsichtsrats zusammenhängen. Für ein Mitglied des Vorstands oder des Aufsichtsrats, das nach Satz 2 nicht mitstimmen kann, kann das Stimmrecht auch nicht durch einen anderen ausgeübt werden.
 
@@ -2791,8 +2619,7 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 (8) Auf das gerichtliche Verfahren nach den Absätzen 2 bis 6 sind die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
-
-## § 143 – Auswahl der Sonderprüfer
+# § 143 – Auswahl der Sonderprüfer
 
 (1) Als Sonderprüfer sollen, wenn der Gegenstand der Sonderprüfung keine anderen Kenntnisse fordert, nur bestellt werden
 
@@ -2804,13 +2631,11 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 (3) (weggefallen)
 
-
-## § 144 – Verantwortlichkeit der Sonderprüfer
+# § 144 – Verantwortlichkeit der Sonderprüfer
 
 § 323 des Handelsgesetzbuchs über die Verantwortlichkeit des Abschlußprüfers gilt sinngemäß.
 
-
-## § 145 – Rechte der Sonderprüfer. Prüfungsbericht
+# § 145 – Rechte der Sonderprüfer. Prüfungsbericht
 
 (1) Der Vorstand hat den Sonderprüfern zu gestatten, die Bücher und Schriften der Gesellschaft sowie die Vermögensgegenstände, namentlich die Gesellschaftskasse und die Bestände an Wertpapieren und Waren, zu prüfen.
 
@@ -2824,13 +2649,11 @@ In diesem Gesetz oder in der Satzung vorgeschriebene Sonderbeschlüsse gewisser 
 
 (6) Die Sonderprüfer haben über das Ergebnis der Prüfung schriftlich zu berichten. Auch Tatsachen, deren Bekanntwerden geeignet ist, der Gesellschaft oder einem verbundenen Unternehmen einen nicht unerheblichen Nachteil zuzufügen, müssen in den Prüfungsbericht aufgenommen werden, wenn ihre Kenntnis zur Beurteilung des zu prüfenden Vorgangs durch die Hauptversammlung erforderlich ist. Die Sonderprüfer haben den Bericht zu unterzeichnen und unverzüglich dem Vorstand und zum Handelsregister des Sitzes der Gesellschaft einzureichen. Auf Verlangen hat der Vorstand jedem Aktionär eine Abschrift des Prüfungsberichts zu erteilen. Der Vorstand hat den Bericht dem Aufsichtsrat vorzulegen und bei der Einberufung der nächsten Hauptversammlung als Gegenstand der Tagesordnung bekanntzumachen.
 
-
-## § 146 – Kosten
+# § 146 – Kosten
 
 Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die Gerichtskosten und die Kosten der Prüfung. Hat der Antragsteller die Bestellung durch vorsätzlich oder grob fahrlässig unrichtigen Vortrag erwirkt, so hat der Antragsteller der Gesellschaft die Kosten zu erstatten.
 
-
-## § 147 – Geltendmachung von Ersatzansprüchen
+# § 147 – Geltendmachung von Ersatzansprüchen
 
 (1) Die Ersatzansprüche der Gesellschaft aus der Gründung gegen die nach den §§ 46 bis 48, 53 verpflichteten Personen oder aus der Geschäftsführung gegen die Mitglieder des Vorstands und des Aufsichtsrats oder aus § 117 müssen geltend gemacht werden, wenn es die Hauptversammlung mit einfacher Stimmenmehrheit beschließt. Der Ersatzanspruch soll binnen sechs Monaten seit dem Tage der Hauptversammlung geltend gemacht werden.
 
@@ -2840,8 +2663,7 @@ Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die Gerichtskoste
 
 (4) (weggefallen)
 
-
-## § 148 – Klagezulassungsverfahren
+# § 148 – Klagezulassungsverfahren
 
 (1) Aktionäre, deren Anteile im Zeitpunkt der Antragstellung zusammen den einhundertsten Teil des Grundkapitals oder einen anteiligen Betrag von 100 000 Euro erreichen, können die Zulassung beantragen, im eigenen Namen die in § 147 Abs. 1 Satz 1 bezeichneten Ersatzansprüche der Gesellschaft geltend zu machen. Das Gericht lässt die Klage zu, wenn
 
@@ -2863,8 +2685,7 @@ Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die Gerichtskoste
 
 (6) Die Kosten des Zulassungsverfahrens hat der Antragsteller zu tragen, soweit sein Antrag abgewiesen wird. Beruht die Abweisung auf entgegenstehenden Gründen des Gesellschaftswohls, die die Gesellschaft vor Antragstellung hätte mitteilen können, aber nicht mitgeteilt hat, so hat sie dem Antragsteller die Kosten zu erstatten. Im Übrigen ist über die Kostentragung im Endurteil zu entscheiden. Erhebt die Gesellschaft selbst Klage oder übernimmt sie ein anhängiges Klageverfahren von Aktionären, so trägt sie etwaige bis zum Zeitpunkt ihrer Klageerhebung oder Übernahme des Verfahrens entstandene Kosten des Antragstellers und kann die Klage nur unter den Voraussetzungen des § 93 Abs. 4 Satz 3 und 4 mit Ausnahme der Sperrfrist zurücknehmen. Wird die Klage ganz oder teilweise abgewiesen, hat die Gesellschaft den Klägern die von diesen zu tragenden Kosten zu erstatten, sofern nicht die Kläger die Zulassung durch vorsätzlich oder grob fahrlässig unrichtigen Vortrag erwirkt haben. Gemeinsam als Antragsteller oder als Streitgenossen handelnde Aktionäre erhalten insgesamt nur die Kosten eines Bevollmächtigten erstattet, soweit nicht ein weiterer Bevollmächtigter zur Rechtsverfolgung unerlässlich war.
 
-
-## § 149 – Bekanntmachungen zur Haftungsklage
+# § 149 – Bekanntmachungen zur Haftungsklage
 
 (1) Nach rechtskräftiger Zulassung der Klage gemäß § 148 sind der Antrag auf Zulassung und die Verfahrensbeendigung von der börsennotierten Gesellschaft unverzüglich in den Gesellschaftsblättern bekannt zu machen.
 
@@ -2872,8 +2693,7 @@ Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die Gerichtskoste
 
 (3) Die vorstehenden Bestimmungen gelten entsprechend für Vereinbarungen, die zur Vermeidung eines Prozesses geschlossen werden.
 
-
-## § 150 – Gesetzliche Rücklage. Kapitalrücklage
+# § 150 – Gesetzliche Rücklage. Kapitalrücklage
 
 (1) In der Bilanz des nach den §§ 242, 264 des Handelsgesetzbuchs aufzustellenden Jahresabschlusses ist eine gesetzliche Rücklage zu bilden.
 
@@ -2897,18 +2717,15 @@ Die Verwendung nach den Nummern 1 und 2 ist nicht zulässig, wenn gleichzeitig G
 
 (+++ § 150: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 150a – (weggefallen)
+# § 150a – (weggefallen)
 
 (+++ § 150a: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 151 – (weggefallen)
+# § 151 – (weggefallen)
 
 (+++ § 151: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 152 – Vorschriften zur Bilanz
+# § 152 – Vorschriften zur Bilanz
 
 (1) Das Grundkapital ist in der Bilanz als gezeichnetes Kapital auszuweisen. Dabei ist der auf jede Aktiengattung entfallende Betrag des Grundkapitals gesondert anzugeben. Bedingtes Kapital ist mit dem Nennbetrag zu vermerken. Bestehen Mehrstimmrechtsaktien, so sind beim gezeichneten Kapital die Gesamtstimmenzahl der Mehrstimmrechtsaktien und die der übrigen Aktien zu vermerken.
 
@@ -2930,13 +2747,11 @@ Die Verwendung nach den Nummern 1 und 2 ist nicht zulässig, wenn gleichzeitig G
 
 (+++ § 152: Zur Anwendung vgl. § 140 Abs. 2 KAGB u. § 26g AktGEG +++)
 
-
-## §§ 153 bis 157 – (weggefallen)
+# §§ 153 bis 157 – (weggefallen)
 
 (+++ §§ 153 bis 157: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 158 – Vorschriften zur Gewinn- und Verlustrechnung
+# § 158 – Vorschriften zur Gewinn- und Verlustrechnung
 
 (1) Die Gewinn- und Verlustrechnung ist nach dem Posten "Jahresüberschuß/Jahresfehlbetrag" in Fortführung der Numerierung um die folgenden Posten zu ergänzen:
 
@@ -2974,13 +2789,11 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (+++ § 158: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 159
+# § 159
 
 \-
 
-
-## § 160 – Vorschriften zum Anhang
+# § 160 – Vorschriften zum Anhang
 
 (1) In jedem Anhang sind auch Angaben zu machen über
 
@@ -3006,8 +2819,7 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (+++ § 160: Zur Anwendung vgl. § 26g AktGEG +++)
 
-
-## § 161 – Erklärung zum Corporate Governance Kodex
+# § 161 – Erklärung zum Corporate Governance Kodex
 
 (1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft erklären jährlich, dass den vom Bundesministerium der Justiz und für Verbraucherschutz im amtlichen Teil des Bundesanzeigers bekannt gemachten Empfehlungen der „Regierungskommission Deutscher Corporate Governance Kodex“ entsprochen wurde und wird oder welche Empfehlungen nicht angewendet wurden oder werden und warum nicht. Gleiches gilt für Vorstand und Aufsichtsrat einer Gesellschaft, die ausschließlich andere Wertpapiere als Aktien zum Handel an einem organisierten Markt im Sinn des § 2 Absatz 11 des Wertpapierhandelsgesetzes ausgegeben hat und deren ausgegebene Aktien auf eigene Veranlassung über ein multilaterales Handelssystem im Sinn des § 2 Absatz 8 Satz 1 Nummer 8 des Wertpapierhandelsgesetzes gehandelt werden.
 
@@ -3015,8 +2827,7 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (+++ § 161: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 162 – Vergütungsbericht
+# § 162 – Vergütungsbericht
 
 (1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft erstellen jährlich einen klaren und verständlichen Bericht über die im letzten Geschäftsjahr jedem einzelnen gegenwärtigen oder früheren Mitglied des Vorstands und des Aufsichtsrats von der Gesellschaft und von Unternehmen desselben Konzerns (§ 290 des Handelsgesetzbuchs) gewährte und geschuldete Vergütung. Der Vergütungsbericht hat unter Namensnennung der in Satz 1 genannten Personen die folgenden Angaben zu enthalten, soweit sie inhaltlich tatsächlich vorliegen:
 
@@ -3052,11 +2863,9 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (6) In den Vergütungsbericht brauchen keine Angaben aufgenommen zu werden, die nach vernünftiger kaufmännischer Beurteilung geeignet sind, der Gesellschaft einen nicht unerheblichen Nachteil zuzufügen. Macht die Gesellschaft von der Möglichkeit nach Satz 1 Gebrauch und entfallen die Gründe für die Nichtaufnahme der Angaben nach der Veröffentlichung des Vergütungsberichts, sind die Angaben in den darauf folgenden Vergütungsbericht aufzunehmen.
 
+# §§ 163 bis 169 – ----
 
-## §§ 163 bis 169 – ----
-
-
-## § 170 – Vorlage an den Aufsichtsrat
+# § 170 – Vorlage an den Aufsichtsrat
 
 (1) Der Vorstand hat den Jahresabschluß und den Lagebericht unverzüglich nach ihrer Aufstellung dem Aufsichtsrat vorzulegen. Satz 1 gilt entsprechend für einen Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs sowie bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) für den Konzernabschluss und den Konzernlagebericht. Nach Satz 1 vorzulegen sind auch der gesonderte nichtfinanzielle Bericht (§ 289b des Handelsgesetzbuchs) und der gesonderte nichtfinanzielle Konzernbericht (§ 315b des Handelsgesetzbuchs), sofern sie erstellt wurden.
 
@@ -3071,8 +2880,7 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (3) Jedes Aufsichtsratsmitglied hat das Recht, von den Vorlagen und Prüfungsberichten Kenntnis zu nehmen. Die Vorlagen und Prüfungsberichte sind auch jedem Aufsichtsratsmitglied oder, soweit der Aufsichtsrat dies beschlossen hat, den Mitgliedern eines Ausschusses zu übermitteln.
 
-
-## § 171 – Prüfung durch den Aufsichtsrat
+# § 171 – Prüfung durch den Aufsichtsrat
 
 (1) Der Aufsichtsrat hat den Jahresabschluß, den Lagebericht und den Vorschlag für die Verwendung des Bilanzgewinns zu prüfen, bei Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) auch den Konzernabschluß und den Konzernlagebericht. Ist der Jahresabschluss oder der Konzernabschluss durch einen Abschlussprüfer zu prüfen, so hat dieser an den Verhandlungen des Aufsichtsrats oder des Prüfungsausschusses über diese Vorlagen teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung, insbesondere wesentliche Schwächen des internen Kontroll- und des Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert über Umstände, die seine Befangenheit besorgen lassen und über Leistungen, die er zusätzlich zu den Abschlussprüfungsleistungen erbracht hat. Der Aufsichtsrat hat auch den gesonderten nichtfinanziellen Bericht (§ 289b des Handelsgesetzbuchs) und den gesonderten nichtfinanziellen Konzernbericht (§ 315b des Handelsgesetzbuchs) zu prüfen, sofern sie erstellt wurden.
 
@@ -3082,13 +2890,11 @@ Die Angaben nach Satz 1 können auch im Anhang gemacht werden.
 
 (4) Die Absätze 1 bis 3 gelten auch hinsichtlich eines Einzelabschlusses nach § 325 Abs. 2a des Handelsgesetzbuchs. Der Vorstand darf den in Satz 1 genannten Abschluss erst nach dessen Billigung durch den Aufsichtsrat offen legen.
 
-
-## § 172 – Feststellung durch Vorstand und Aufsichtsrat
+# § 172 – Feststellung durch Vorstand und Aufsichtsrat
 
 Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern nicht Vorstand und Aufsichtsrat beschließen, die Feststellung des Jahresabschlusses der Hauptversammlung zu überlassen. Die Beschlüsse des Vorstands und des Aufsichtsrats sind in den Bericht des Aufsichtsrats an die Hauptversammlung aufzunehmen.
 
-
-## § 173 – Feststellung durch die Hauptversammlung
+# § 173 – Feststellung durch die Hauptversammlung
 
 (1) Haben Vorstand und Aufsichtsrat beschlossen, die Feststellung des Jahresabschlusses der Hauptversammlung zu überlassen, oder hat der Aufsichtsrat den Jahresabschluß nicht gebilligt, so stellt die Hauptversammlung den Jahresabschluß fest. Hat der Aufsichtsrat eines Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) den Konzernabschluss nicht gebilligt, so entscheidet die Hauptversammlung über die Billigung.
 
@@ -3096,8 +2902,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Ändert die Hauptversammlung einen von einem Abschlußprüfer auf Grund gesetzlicher Verpflichtung geprüften Jahresabschluß, so werden vor der erneuten Prüfung nach § 316 Abs. 3 des Handelsgesetzbuchs von der Hauptversammlung gefaßte Beschlüsse über die Feststellung des Jahresabschlusses und die Gewinnverwendung erst wirksam, wenn auf Grund der erneuten Prüfung ein hinsichtlich der Änderungen uneingeschränkter Bestätigungsvermerk erteilt worden ist. Sie werden nichtig, wenn nicht binnen zwei Wochen seit der Beschlußfassung ein hinsichtlich der Änderungen uneingeschränkter Bestätigungsvermerk erteilt wird.
 
-
-## § 174
+# § 174
 
 (1) Die Hauptversammlung beschließt über die Verwendung des Bilanzgewinns. Sie ist hierbei an den festgestellten Jahresabschluß gebunden.
 
@@ -3115,8 +2920,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Der Beschluß führt nicht zu einer Änderung des festgestellten Jahresabschlusses.
 
-
-## § 175 – Einberufung
+# § 175 – Einberufung
 
 (1) Unverzüglich nach Eingang des Berichts des Aufsichtsrats hat der Vorstand die Hauptversammlung zur Entgegennahme des festgestellten Jahresabschlusses und des Lageberichts, eines vom Aufsichtsrat gebilligten Einzelabschlusses nach § 325 Abs. 2a des Handelsgesetzbuchs sowie zur Beschlußfassung über die Verwendung eines Bilanzgewinns, bei einem Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) auch zur Entgegennahme des vom Aufsichtsrat gebilligten Konzernabschlusses und des Konzernlageberichts, einzuberufen. Die Hauptversammlung hat in den ersten acht Monaten des Geschäftsjahrs stattzufinden.
 
@@ -3126,25 +2930,21 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (4) Mit der Einberufung der Hauptversammlung zur Entgegennahme des festgestellten Jahresabschlusses oder, wenn die Hauptversammlung den Jahresabschluß festzustellen hat, der Hauptversammlung zur Feststellung des Jahresabschlusses sind Vorstand und Aufsichtsrat an die in dem Bericht des Aufsichtsrats enthaltenen Erklärungen über den Jahresabschluß (§§ 172, 173 Abs. 1) gebunden. Bei einem Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) gilt Satz 1 für die Erklärung des Aufsichtsrats über die Billigung des Konzernabschlusses entsprechend.
 
-
-## § 176 – Vorlagen. Anwesenheit des Abschlußprüfers
+# § 176 – Vorlagen. Anwesenheit des Abschlußprüfers
 
 (1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen erläuternden Bericht zu den Angaben nach den §§ 289a und 315a des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der Verhandlung soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf Kreditinstitute nicht anzuwenden.
 
 (2) Ist der Jahresabschluß von einem Abschlußprüfer zu prüfen, so hat der Abschlußprüfer an den Verhandlungen über die Feststellung des Jahresabschlusses teilzunehmen. Satz 1 gilt entsprechend für die Verhandlungen über die Billigung eines Konzernabschlusses. Der Abschlußprüfer ist nicht verpflichtet, einem Aktionär Auskunft zu erteilen.
 
-
-## § 177
-
-\-
-
-
-## § 178
+# § 177
 
 \-
 
+# § 178
 
-## § 179 – Beschluß der Hauptversammlung
+\-
+
+# § 179 – Beschluß der Hauptversammlung
 
 (1) Jede Satzungsänderung bedarf eines Beschlusses der Hauptversammlung. Die Befugnis zu Änderungen, die nur die Fassung betreffen, kann die Hauptversammlung dem Aufsichtsrat übertragen.
 
@@ -3152,8 +2952,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Soll das bisherige Verhältnis mehrerer Gattungen von Aktien zum Nachteil einer Gattung geändert werden, so bedarf der Beschluß der Hauptversammlung zu seiner Wirksamkeit der Zustimmung der benachteiligten Aktionäre. Über die Zustimmung haben die benachteiligten Aktionäre einen Sonderbeschluß zu fassen. Für diesen gilt Absatz 2.
 
-
-## § 179a – Verpflichtung zur Übertragung des ganzen Gesellschaftsvermögens
+# § 179a – Verpflichtung zur Übertragung des ganzen Gesellschaftsvermögens
 
 (1) Ein Vertrag, durch den sich eine Aktiengesellschaft zur Übertragung des ganzen Gesellschaftsvermögens verpflichtet, ohne daß die Übertragung unter die Vorschriften des Umwandlungsgesetzes fällt, bedarf auch dann eines Beschlusses der Hauptversammlung nach § 179, wenn damit nicht eine Änderung des Unternehmensgegenstandes verbunden ist. Die Satzung kann nur eine größere Kapitalmehrheit bestimmen.
 
@@ -3161,15 +2960,13 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Wird aus Anlaß der Übertragung des Gesellschaftsvermögens die Gesellschaft aufgelöst, so ist der Anmeldung der Auflösung der Vertrag in Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
 
-
-## § 180 – Zustimmung der betroffenen Aktionäre
+# § 180 – Zustimmung der betroffenen Aktionäre
 
 (1) Ein Beschluß, der Aktionären Nebenverpflichtungen auferlegt, bedarf zu seiner Wirksamkeit der Zustimmung aller betroffenen Aktionäre.
 
 (2) Gleiches gilt für einen Beschluß, durch den die Übertragung von Namensaktien oder Zwischenscheinen an die Zustimmung der Gesellschaft gebunden wird.
 
-
-## § 181 – Eintragung der Satzungsänderung
+# § 181 – Eintragung der Satzungsänderung
 
 (1) Der Vorstand hat die Satzungsänderung zur Eintragung in das Handelsregister anzumelden. Der Anmeldung ist der vollständige Wortlaut der Satzung beizufügen; er muß mit der Bescheinigung eines Notars versehen sein, daß die geänderten Bestimmungen der Satzung mit dem Beschluß über die Satzungsänderung und die unveränderten Bestimmungen mit dem zuletzt zum Handelsregister eingereichten vollständigen Wortlaut der Satzung übereinstimmen.
 
@@ -3177,8 +2974,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Die Änderung wird erst wirksam, wenn sie in das Handelsregister des Sitzes der Gesellschaft eingetragen worden ist.
 
-
-## § 182 – Voraussetzungen
+# § 182 – Voraussetzungen
 
 (1) Eine Erhöhung des Grundkapitals gegen Einlagen kann nur mit einer Mehrheit beschlossen werden, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine andere Kapitalmehrheit, für die Ausgabe von Vorzugsaktien ohne Stimmrecht jedoch nur eine größere Kapitalmehrheit bestimmen. Sie kann weitere Erfordernisse aufstellen. Die Kapitalerhöhung kann nur durch Ausgabe neuer Aktien ausgeführt werden. Bei Gesellschaften mit Stückaktien muß sich die Zahl der Aktien in demselben Verhältnis wie das Grundkapital erhöhen.
 
@@ -3188,8 +2984,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (4) Das Grundkapital soll nicht erhöht werden, solange ausstehende Einlagen auf das bisherige Grundkapital noch erlangt werden können. Für Versicherungsgesellschaften kann die Satzung etwas anderes bestimmen. Stehen Einlagen in verhältnismäßig unerheblichem Umfang aus, so hindert dies die Erhöhung des Grundkapitals nicht.
 
-
-## § 183 – Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen
+# § 183 – Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen
 
 (1) Wird eine Sacheinlage (§ 27 Abs. 1 und 2) gemacht, so müssen ihr Gegenstand, die Person, von der die Gesellschaft den Gegenstand erwirbt, und der Nennbetrag, bei Stückaktien die Zahl der bei der Sacheinlage zu gewährenden Aktien im Beschluß über die Erhöhung des Grundkapitals festgesetzt werden. Der Beschluß darf nur gefaßt werden, wenn die Einbringung von Sacheinlagen und die Festsetzungen nach Satz 1 ausdrücklich und ordnungsgemäß bekanntgemacht worden sind.
 
@@ -3197,8 +2992,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Bei der Kapitalerhöhung mit Sacheinlagen hat eine Prüfung durch einen oder mehrere Prüfer stattzufinden. § 33 Abs. 3 bis 5, die §§ 34, 35 gelten sinngemäß.
 
-
-## § 183a – Kapitalerhöhung mit Sacheinlagen ohne Prüfung
+# § 183a – Kapitalerhöhung mit Sacheinlagen ohne Prüfung
 
 (1) Von einer Prüfung der Sacheinlage (§ 183 Abs. 3) kann unter den Voraussetzungen des § 33a abgesehen werden. Wird hiervon Gebrauch gemacht, so gelten die folgenden Absätze.
 
@@ -3208,8 +3002,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (4) Für das weitere Verfahren gelten § 33 Abs. 4 und 5, die §§ 34, 35 entsprechend.
 
-
-## § 184 – Anmeldung des Beschlusses
+# § 184 – Anmeldung des Beschlusses
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben den Beschluss über die Erhöhung des Grundkapitals zur Eintragung in das Handelsregister anzumelden. In der Anmeldung ist anzugeben, welche Einlagen auf das bisherige Grundkapital noch nicht geleistet sind und warum sie nicht erlangt werden können. Soll von einer Prüfung der Sacheinlage abgesehen werden und ist das Datum des Beschlusses der Kapitalerhöhung vorab bekannt gemacht worden (§ 183a Abs. 2), müssen die Anmeldenden in der Anmeldung nur noch versichern, dass ihnen seit der Bekanntmachung keine Umstände im Sinne von § 37a Abs. 2 bekannt geworden sind.
 
@@ -3217,8 +3010,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (3) Das Gericht kann die Eintragung ablehnen, wenn der Wert der Sacheinlage nicht unwesentlich hinter dem geringsten Ausgabebetrag der dafür zu gewährenden Aktien zurückbleibt. Wird von einer Prüfung der Sacheinlage nach § 183a Abs. 1 abgesehen, gilt § 38 Abs. 3 entsprechend.
 
-
-## § 185 – Zeichnung der neuen Aktien
+# § 185 – Zeichnung der neuen Aktien
 
 (1) Die Zeichnung der neuen Aktien geschieht durch schriftliche Erklärung (Zeichnungsschein), aus der die Beteiligung nach der Zahl und bei Nennbetragsaktien dem Nennbetrag und, wenn mehrere Gattungen ausgegeben werden, der Gattung der Aktien hervorgehen muß. Der Zeichnungsschein soll doppelt ausgestellt werden. Er hat zu enthalten
 
@@ -3236,8 +3028,7 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (4) Jede nicht im Zeichnungsschein enthaltene Beschränkung ist der Gesellschaft gegenüber unwirksam.
 
-
-## § 186 – Bezugsrecht
+# § 186 – Bezugsrecht
 
 (1) Jedem Aktionär muß auf sein Verlangen ein seinem Anteil an dem bisherigen Grundkapital entsprechender Teil der neuen Aktien zugeteilt werden. Für die Ausübung des Bezugsrechts ist eine Frist von mindestens zwei Wochen zu bestimmen.
 
@@ -3249,15 +3040,13 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (5) Als Ausschluß des Bezugsrechts ist es nicht anzusehen, wenn nach dem Beschluß die neuen Aktien von einem Kreditinstitut oder einem nach § 53 Abs. 1 Satz 1 oder § 53b Abs. 1 Satz 1 oder Abs. 7 des Gesetzes über das Kreditwesen tätigen Unternehmen mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten. Der Vorstand hat dieses Bezugsangebot mit den Angaben gemäß Absatz 2 Satz 1 und einen endgültigen Ausgabebetrag gemäß Absatz 2 Satz 2 bekannt zu machen; gleiches gilt, wenn die neuen Aktien von einem anderen als einem Kreditinstitut oder Unternehmen im Sinne des Satzes 1 mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten.
 
-
-## § 187 – Zusicherung von Rechten auf den Bezug neuer Aktien
+# § 187 – Zusicherung von Rechten auf den Bezug neuer Aktien
 
 (1) Rechte auf den Bezug neuer Aktien können nur unter Vorbehalt des Bezugsrechts der Aktionäre zugesichert werden.
 
 (2) Zusicherungen vor dem Beschluß über die Erhöhung des Grundkapitals sind der Gesellschaft gegenüber unwirksam.
 
-
-## § 188 – Anmeldung und Eintragung der Durchführung
+# § 188 – Anmeldung und Eintragung der Durchführung
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben die Durchführung der Erhöhung des Grundkapitals zur Eintragung in das Handelsregister anzumelden.
 
@@ -3277,23 +3066,19 @@ Billigt der Aufsichtsrat den Jahresabschluß, so ist dieser festgestellt, sofern
 
 (5) (weggefallen)
 
-
-## § 189 – Wirksamwerden der Kapitalerhöhung
+# § 189 – Wirksamwerden der Kapitalerhöhung
 
 Mit der Eintragung der Durchführung der Erhöhung des Grundkapitals ist das Grundkapital erhöht.
 
-
-## § 190 – (weggefallen)
+# § 190 – (weggefallen)
 
 \-
 
-
-## § 191 – Verbotene Ausgabe von Aktien und Zwischenscheinen
+# § 191 – Verbotene Ausgabe von Aktien und Zwischenscheinen
 
 Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals können die neuen Anteilsrechte nicht übertragen, neue Aktien und Zwischenscheine nicht ausgegeben werden. Die vorher ausgegebenen neuen Aktien und Zwischenscheine sind nichtig. Für den Schaden aus der Ausgabe sind die Ausgeber den Inhabern als Gesamtschuldner verantwortlich.
 
-
-## § 192 – Voraussetzungen
+# § 192 – Voraussetzungen
 
 (1) Die Hauptversammlung kann eine Erhöhung des Grundkapitals beschließen, die nur so weit durchgeführt werden soll, wie von einem Umtausch- oder Bezugsrecht Gebrauch gemacht wird, das die Gesellschaft hat oder auf die neuen Aktien (Bezugsaktien) einräumt (bedingte Kapitalerhöhung).
 
@@ -3311,8 +3096,7 @@ Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals können die
 
 (5) Die folgenden Vorschriften über das Bezugsrecht gelten sinngemäß für das Umtauschrecht.
 
-
-## § 193 – Erfordernisse des Beschlusses
+# § 193 – Erfordernisse des Beschlusses
 
 (1) Der Beschluß über die bedingte Kapitalerhöhung bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen. § 182 Abs. 2 und § 187 Abs. 2 gelten.
 
@@ -3326,8 +3110,7 @@ Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals können die
 
 4. bei Beschlüssen nach § 192 Abs. 2 Nr. 3 auch die Aufteilung der Bezugsrechte auf Mitglieder der Geschäftsführungen und Arbeitnehmer, Erfolgsziele, Erwerbs- und Ausübungszeiträume und Wartezeit für die erstmalige Ausübung (mindestens vier Jahre).
 
-
-## § 194 – Bedingte Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen
+# § 194 – Bedingte Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen
 
 (1) Wird eine Sacheinlage gemacht, so müssen ihr Gegenstand, die Person, von der die Gesellschaft den Gegenstand erwirbt, und der Nennbetrag, bei Stückaktien die Zahl der bei der Sacheinlage zu gewährenden Aktien im Beschluß über die bedingte Kapitalerhöhung festgesetzt werden. Als Sacheinlage gilt nicht der Umtausch von Schuldverschreibungen gegen Bezugsaktien. Der Beschluß darf nur gefaßt werden, wenn die Einbringung von Sacheinlagen ausdrücklich und ordnungsgemäß bekanntgemacht worden ist.
 
@@ -3339,8 +3122,7 @@ Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals können die
 
 (5) § 183a gilt entsprechend.
 
-
-## § 195 – Anmeldung des Beschlusses
+# § 195 – Anmeldung des Beschlusses
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben den Beschluß über die bedingte Kapitalerhöhung zur Eintragung in das Handelsregister anzumelden. § 184 Abs. 1 Satz 3 gilt entsprechend.
 
@@ -3354,18 +3136,15 @@ Vor der Eintragung der Durchführung der Erhöhung des Grundkapitals können die
 
 (3) Das Gericht kann die Eintragung ablehnen, wenn der Wert der Sacheinlage nicht unwesentlich hinter dem geringsten Ausgabebetrag der dafür zu gewährenden Aktien zurückbleibt. Wird von einer Prüfung der Sacheinlage nach § 183a Abs. 1 abgesehen, gilt § 38 Abs. 3 entsprechend.
 
-
-## § 196 – (weggefallen)
+# § 196 – (weggefallen)
 
 \-
 
-
-## § 197 – Verbotene Aktienausgabe
+# § 197 – Verbotene Aktienausgabe
 
 Vor der Eintragung des Beschlusses über die bedingte Kapitalerhöhung können die Bezugsaktien nicht ausgegeben werden. Ein Anspruch des Bezugsberechtigten entsteht vor diesem Zeitpunkt nicht. Die vorher ausgegebenen Bezugsaktien sind nichtig. Für den Schaden aus der Ausgabe sind die Ausgeber den Inhabern als Gesamtschuldner verantwortlich.
 
-
-## § 198 – Bezugserklärung
+# § 198 – Bezugserklärung
 
 (1) Das Bezugsrecht wird durch schriftliche Erklärung ausgeübt. Die Erklärung (Bezugserklärung) soll doppelt ausgestellt werden. Sie hat die Beteiligung nach der Zahl und bei Nennbetragsaktien dem Nennbetrag und, wenn mehrere Gattungen ausgegeben werden, der Gattung der Aktien, die Feststellungen nach § 193 Abs. 2, die nach § 194 bei der Einbringung von Sacheinlagen vorgesehenen Festsetzungen sowie den Tag anzugeben, an dem der Beschluß über die bedingte Kapitalerhöhung gefaßt worden ist.
 
@@ -3375,20 +3154,17 @@ Vor der Eintragung des Beschlusses über die bedingte Kapitalerhöhung können d
 
 (4) Jede nicht in der Bezugserklärung enthaltene Beschränkung ist der Gesellschaft gegenüber unwirksam.
 
-
-## § 199 – Ausgabe der Bezugsaktien
+# § 199 – Ausgabe der Bezugsaktien
 
 (1) Der Vorstand darf die Bezugsaktien nur in Erfüllung des im Beschluß über die bedingte Kapitalerhöhung festgesetzten Zwecks und nicht vor der vollen Leistung des Gegenwerts ausgeben, der sich aus dem Beschluß ergibt.
 
 (2) Der Vorstand darf Bezugsaktien gegen Wandelschuldverschreibungen nur ausgeben, wenn der Unterschied zwischen dem Ausgabebetrag der zum Umtausch eingereichten Schuldverschreibungen und dem höheren geringsten Ausgabebetrag der für sie zu gewährenden Bezugsaktien aus einer anderen Gewinnrücklage, soweit sie zu diesem Zweck verwandt werden kann, oder durch Zuzahlung des Umtauschberechtigten gedeckt ist. Dies gilt nicht, wenn der Gesamtbetrag, zu dem die Schuldverschreibungen ausgegeben sind, den geringsten Ausgabebetrag der Bezugsaktien insgesamt erreicht oder übersteigt.
 
-
-## § 200 – Wirksamwerden der bedingten Kapitalerhöhung
+# § 200 – Wirksamwerden der bedingten Kapitalerhöhung
 
 Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
-
-## § 201 – Anmeldung der Ausgabe von Bezugsaktien
+# § 201 – Anmeldung der Ausgabe von Bezugsaktien
 
 (1) Der Vorstand meldet ausgegebene Bezugsaktien zur Eintragung in das Handelsregister mindestens einmal jährlich bis spätestens zum Ende des auf den Ablauf des Geschäftsjahrs folgenden Kalendermonats an.
 
@@ -3398,8 +3174,7 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 (4) (weggefallen)
 
-
-## § 202 – Voraussetzungen
+# § 202 – Voraussetzungen
 
 (1) Die Satzung kann den Vorstand für höchstens fünf Jahre nach Eintragung der Gesellschaft ermächtigen, das Grundkapital bis zu einem bestimmten Nennbetrag (genehmigtes Kapital) durch Ausgabe neuer Aktien gegen Einlagen zu erhöhen.
 
@@ -3409,8 +3184,7 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 (4) Die Satzung kann auch vorsehen, daß die neuen Aktien an Arbeitnehmer der Gesellschaft ausgegeben werden.
 
-
-## § 203 – Ausgabe der neuen Aktien
+# § 203 – Ausgabe der neuen Aktien
 
 (1) Für die Ausgabe der neuen Aktien gelten sinngemäß, soweit sich aus den folgenden Vorschriften nichts anderes ergibt, §§ 185 bis 191 über die Kapitalerhöhung gegen Einlagen. An die Stelle des Beschlusses über die Erhöhung des Grundkapitals tritt die Ermächtigung der Satzung zur Ausgabe neuer Aktien.
 
@@ -3420,8 +3194,7 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 (4) Absatz 3 Satz 1 und 4 gilt nicht, wenn die Aktien an Arbeitnehmer der Gesellschaft ausgegeben werden.
 
-
-## § 204 – Bedingungen der Aktienausgabe
+# § 204 – Bedingungen der Aktienausgabe
 
 (1) Über den Inhalt der Aktienrechte und die Bedingungen der Aktienausgabe entscheidet der Vorstand, soweit die Ermächtigung keine Bestimmungen enthält. Die Entscheidung des Vorstands bedarf der Zustimmung des Aufsichtsrats; gleiches gilt für die Entscheidung des Vorstands nach § 203 Abs. 2 über den Ausschluß des Bezugsrechts.
 
@@ -3429,8 +3202,7 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 (3) Weist ein Jahresabschluß, der mit einem uneingeschränkten Bestätigungsvermerk versehen ist, einen Jahresüberschuß aus, so können Aktien an Arbeitnehmer der Gesellschaft auch in der Weise ausgegeben werden, daß die auf sie zu leistende Einlage aus dem Teil des Jahresüberschusses gedeckt wird, den nach § 58 Abs. 2 Vorstand und Aufsichtsrat in andere Gewinnrücklagen einstellen könnten. Für die Ausgabe der neuen Aktien gelten die Vorschriften über eine Kapitalerhöhung gegen Bareinlagen, ausgenommen § 188 Abs. 2. Der Anmeldung der Durchführung der Erhöhung des Grundkapitals ist außerdem der festgestellte Jahresabschluß mit Bestätigungsvermerk beizufügen. Die Anmeldenden haben ferner die Erklärung nach § 210 Abs. 1 Satz 2 abzugeben.
 
-
-## § 205 – Ausgabe gegen Sacheinlagen; Rückzahlung von Einlagen
+# § 205 – Ausgabe gegen Sacheinlagen; Rückzahlung von Einlagen
 
 (1) Gegen Sacheinlagen dürfen Aktien nur ausgegeben werden, wenn die Ermächtigung es vorsieht.
 
@@ -3446,13 +3218,11 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 (7) Das Gericht kann die Eintragung ablehnen, wenn der Wert der Sacheinlage nicht unwesentlich hinter dem geringsten Ausgabebetrag der dafür zu gewährenden Aktien zurückbleibt. Wird von einer Prüfung der Sacheinlage nach § 183a Abs. 1 abgesehen, gilt § 38 Abs. 3 entsprechend.
 
-
-## § 206 – Verträge über Sacheinlagen vor Eintragung der Gesellschaft
+# § 206 – Verträge über Sacheinlagen vor Eintragung der Gesellschaft
 
 Sind vor Eintragung der Gesellschaft Verträge geschlossen worden, nach denen auf das genehmigte Kapital eine Sacheinlage zu leisten ist, so muß die Satzung die Festsetzungen enthalten, die für eine Ausgabe gegen Sacheinlagen vorgeschrieben sind. Dabei gelten sinngemäß § 27 Abs. 3 und 5, die §§ 32 bis 35, 37 Abs. 4 Nr. 2, 4 und 5, die §§ 37a, 38 Abs. 2 und 3 sowie § 49 über die Gründung der Gesellschaft. An die Stelle der Gründer tritt der Vorstand und an die Stelle der Anmeldung und Eintragung der Gesellschaft die Anmeldung und Eintragung der Durchführung der Erhöhung des Grundkapitals.
 
-
-## § 207 – Voraussetzungen
+# § 207 – Voraussetzungen
 
 (1) Die Hauptversammlung kann eine Erhöhung des Grundkapitals durch Umwandlung der Kapitalrücklage und von Gewinnrücklagen in Grundkapital beschließen.
 
@@ -3460,15 +3230,13 @@ Sind vor Eintragung der Gesellschaft Verträge geschlossen worden, nach denen au
 
 (3) Dem Beschluß ist eine Bilanz zugrunde zu legen.
 
-
-## § 208 – Umwandlungsfähigkeit von Kapital- und Gewinnrücklagen
+# § 208 – Umwandlungsfähigkeit von Kapital- und Gewinnrücklagen
 
 (1) Die Kapitalrücklage und die Gewinnrücklagen, die in Grundkapital umgewandelt werden sollen, müssen in der letzten Jahresbilanz und, wenn dem Beschluß eine andere Bilanz zugrunde gelegt wird, auch in dieser Bilanz unter "Kapitalrücklage" oder "Gewinnrücklagen" oder im letzten Beschluß über die Verwendung des Jahresüberschusses oder des Bilanzgewinns als Zuführung zu diesen Rücklagen ausgewiesen sein. Vorbehaltlich des Absatzes 2 können andere Gewinnrücklagen und deren Zuführungen in voller Höhe, die Kapitalrücklage und die gesetzliche Rücklage sowie deren Zuführungen nur, soweit sie zusammen den zehnten oder den in der Satzung bestimmten höheren Teil des bisherigen Grundkapitals übersteigen, in Grundkapital umgewandelt werden.
 
 (2) Die Kapitalrücklage und die Gewinnrücklagen sowie deren Zuführungen können nicht umgewandelt werden, soweit in der zugrunde gelegten Bilanz ein Verlust einschließlich eines Verlustvortrags ausgewiesen ist. Gewinnrücklagen und deren Zuführungen, die für einen bestimmten Zweck bestimmt sind, dürfen nur umgewandelt werden, soweit dies mit ihrer Zweckbestimmung vereinbar ist.
 
-
-## § 209 – Zugrunde gelegte Bilanz
+# § 209 – Zugrunde gelegte Bilanz
 
 (1) Dem Beschluß kann die letzte Jahresbilanz zugrunde gelegt werden, wenn die Jahresbilanz geprüft und die festgestellte Jahresbilanz mit dem uneingeschränkten Bestätigungsvermerk des Abschlußprüfers versehen ist und wenn ihr Stichtag höchstens acht Monate vor der Anmeldung des Beschlusses zur Eintragung in das Handelsregister liegt.
 
@@ -3484,8 +3252,7 @@ Sind vor Eintragung der Gesellschaft Verträge geschlossen worden, nach denen au
 
 (+++ § 209: Zur Anwendung vgl. § 26g AktGEG +++)
 
-
-## § 210 – Anmeldung und Eintragung des Beschlusses
+# § 210 – Anmeldung und Eintragung des Beschlusses
 
 (1) Der Anmeldung des Beschlusses zur Eintragung in das Handelsregister ist die der Kapitalerhöhung zugrunde gelegte Bilanz mit Bestätigungsvermerk, im Fall des § 209 Abs. 2 bis 6 außerdem die letzte Jahresbilanz, sofern sie noch nicht nach § 325 Abs. 1 des Handelsgesetzbuchs eingereicht ist, beizufügen. Die Anmeldenden haben dem Gericht gegenüber zu erklären, daß nach ihrer Kenntnis seit dem Stichtag der zugrunde gelegten Bilanz bis zum Tag der Anmeldung keine Vermögensminderung eingetreten ist, die der Kapitalerhöhung entgegenstünde, wenn sie am Tag der Anmeldung beschlossen worden wäre.
 
@@ -3497,27 +3264,23 @@ Sind vor Eintragung der Gesellschaft Verträge geschlossen worden, nach denen au
 
 (5) (weggefallen)
 
-
-## § 211 – Wirksamwerden der Kapitalerhöhung
+# § 211 – Wirksamwerden der Kapitalerhöhung
 
 (1) Mit der Eintragung des Beschlusses über die Erhöhung des Grundkapitals ist das Grundkapital erhöht.
 
 (2) (weggefallen)
 
-
-## § 212 – Aus der Kapitalerhöhung Berechtigte
+# § 212 – Aus der Kapitalerhöhung Berechtigte
 
 Neue Aktien stehen den Aktionären im Verhältnis ihrer Anteile am bisherigen Grundkapital zu. Ein entgegenstehender Beschluß der Hauptversammlung ist nichtig.
 
-
-## § 213 – Teilrechte
+# § 213 – Teilrechte
 
 (1) Führt die Kapitalerhöhung dazu, daß auf einen Anteil am bisherigen Grundkapital nur ein Teil einer neuen Aktie entfällt, so ist dieses Teilrecht selbständig veräußerlich und vererblich.
 
 (2) Die Rechte aus einer neuen Aktie einschließlich des Anspruchs auf Ausstellung einer Aktienurkunde können nur ausgeübt werden, wenn Teilrechte, die zusammen eine volle Aktie ergeben, in einer Hand vereinigt sind oder wenn sich mehrere Berechtigte, deren Teilrechte zusammen eine volle Aktie ergeben, zur Ausübung der Rechte zusammenschließen.
 
-
-## § 214 – Aufforderung an die Aktionäre
+# § 214 – Aufforderung an die Aktionäre
 
 (1) Nach der Eintragung des Beschlusses über die Erhöhung des Grundkapitals durch Ausgabe neuer Aktien hat der Vorstand unverzüglich die Aktionäre aufzufordern, die neuen Aktien abzuholen. Die Aufforderung ist in den Gesellschaftsblättern bekanntzumachen und gemäß § 67a zu übermitteln. In der Bekanntmachung ist anzugeben,
 
@@ -3533,15 +3296,13 @@ In der Bekanntmachung ist ferner darauf hinzuweisen, daß die Gesellschaft berec
 
 (4) Die Absätze 1 bis 3 gelten sinngemäß für Gesellschaften, die keine Aktienurkunden ausgegeben haben. Die Gesellschaften haben die Aktionäre aufzufordern, sich die neuen Aktien zuteilen zu lassen.
 
-
-## § 215 – Eigene Aktien. Teileingezahlte Aktien
+# § 215 – Eigene Aktien. Teileingezahlte Aktien
 
 (1) Eigene Aktien nehmen an der Erhöhung des Grundkapitals teil.
 
 (2) Teileingezahlte Aktien nehmen entsprechend ihrem Anteil am Grundkapital an der Erhöhung des Grundkapitals teil. Bei ihnen kann die Kapitalerhöhung nicht durch Ausgabe neuer Aktien ausgeführt werden, bei Nennbetragsaktien wird deren Nennbetrag erhöht. Sind neben teileingezahlten Aktien volleingezahlte Aktien vorhanden, so kann bei volleingezahlten Nennbetragsaktien die Kapitalerhöhung durch Erhöhung des Nennbetrags der Aktien und durch Ausgabe neuer Aktien ausgeführt werden; der Beschluß über die Erhöhung des Grundkapitals muß die Art der Erhöhung angeben. Soweit die Kapitalerhöhung durch Erhöhung des Nennbetrags der Aktien ausgeführt wird, ist sie so zu bemessen, daß durch sie auf keine Aktie Beträge entfallen, die durch eine Erhöhung des Nennbetrags der Aktien nicht gedeckt werden können.
 
-
-## § 216 – Wahrung der Rechte der Aktionäre und Dritter
+# § 216 – Wahrung der Rechte der Aktionäre und Dritter
 
 (1) Das Verhältnis der mit den Aktien verbundenen Rechte zueinander wird durch die Kapitalerhöhung nicht berührt.
 
@@ -3549,30 +3310,25 @@ In der Bekanntmachung ist ferner darauf hinzuweisen, daß die Gesellschaft berec
 
 (3) Der wirtschaftliche Inhalt vertraglicher Beziehungen der Gesellschaft zu Dritten, die von der Gewinnausschüttung der Gesellschaft, dem Nennbetrag oder Wert ihrer Aktien oder ihres Grundkapitals oder sonst von den bisherigen Kapital- oder Gewinnverhältnissen abhängen, wird durch die Kapitalerhöhung nicht berührt. Gleiches gilt für Nebenverpflichtungen der Aktionäre.
 
-
-## § 217 – Beginn der Gewinnbeteiligung
+# § 217 – Beginn der Gewinnbeteiligung
 
 (1) Neue Aktien nehmen, wenn nichts anderes bestimmt ist, am Gewinn des ganzen Geschäftsjahrs teil, in dem die Erhöhung des Grundkapitals beschlossen worden ist.
 
 (2) Im Beschluß über die Erhöhung des Grundkapitals kann bestimmt werden, daß die neuen Aktien bereits am Gewinn des letzten vor der Beschlußfassung über die Kapitalerhöhung abgelaufenen Geschäftsjahrs teilnehmen. In diesem Fall ist die Erhöhung des Grundkapitals zu beschließen, bevor über die Verwendung des Bilanzgewinns des letzten vor der Beschlußfassung abgelaufenen Geschäftsjahrs Beschluß gefaßt ist. Der Beschluß über die Verwendung des Bilanzgewinns des letzten vor der Beschlußfassung über die Kapitalerhöhung abgelaufenen Geschäftsjahrs wird erst wirksam, wenn das Grundkapital erhöht ist. Der Beschluß über die Erhöhung des Grundkapitals und der Beschluß über die Verwendung des Bilanzgewinns des letzten vor der Beschlußfassung über die Kapitalerhöhung abgelaufenen Geschäftsjahrs sind nichtig, wenn der Beschluß über die Kapitalerhöhung nicht binnen drei Monaten nach der Beschlußfassung in das Handelsregister eingetragen worden ist. Der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder Nichtigkeitsklage rechtshängig ist.
 
-
-## § 218 – Bedingtes Kapital
+# § 218 – Bedingtes Kapital
 
 Bedingtes Kapital erhöht sich im gleichen Verhältnis wie das Grundkapital. Ist das bedingte Kapital zur Gewährung von Umtauschrechten an Gläubiger von Wandelschuldverschreibungen beschlossen worden, so ist zur Deckung des Unterschieds zwischen dem Ausgabebetrag der Schuldverschreibungen und dem höheren geringsten Ausgabebetrag der für sie zu gewährenden Bezugsaktien insgesamt eine Sonderrücklage zu bilden, soweit nicht Zuzahlungen der Umtauschberechtigten vereinbart sind.
 
-
-## § 219 – Verbotene Ausgabe von Aktien und Zwischenscheinen
+# § 219 – Verbotene Ausgabe von Aktien und Zwischenscheinen
 
 Vor der Eintragung des Beschlusses über die Erhöhung des Grundkapitals in das Handelsregister dürfen neue Aktien und Zwischenscheine nicht ausgegeben werden.
 
-
-## § 220 – Wertansätze
+# § 220 – Wertansätze
 
 Als Anschaffungskosten der vor der Erhöhung des Grundkapitals erworbenen Aktien und der auf sie entfallenen neuen Aktien gelten die Beträge, die sich für die einzelnen Aktien ergeben, wenn die Anschaffungskosten der vor der Erhöhung des Grundkapitals erworbenen Aktien auf diese und auf die auf sie entfallenen neuen Aktien nach dem Verhältnis der Anteile am Grundkapital verteilt werden. Der Zuwachs an Aktien ist nicht als Zugang auszuweisen.
 
-
-## § 221
+# § 221
 
 (1) Schuldverschreibungen, bei denen den Gläubigern oder der Gesellschaft ein Umtausch- oder Bezugsrecht auf Aktien eingeräumt wird (Wandelschuldverschreibungen), und Schuldverschreibungen, bei denen die Rechte der Gläubiger mit Gewinnanteilen von Aktionären in Verbindung gebracht werden (Gewinnschuldverschreibungen), dürfen nur auf Grund eines Beschlusses der Hauptversammlung ausgegeben werden. Der Beschluß bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine andere Kapitalmehrheit und weitere Erfordernisse bestimmen. § 182 Abs. 2 gilt.
 
@@ -3582,8 +3338,7 @@ Als Anschaffungskosten der vor der Erhöhung des Grundkapitals erworbenen Aktien
 
 (4) Auf Wandelschuldverschreibungen, Gewinnschuldverschreibungen und Genußrechte haben die Aktionäre ein Bezugsrecht. Die §§ 186 und 193 Abs. 2 Nr. 4 gelten sinngemäß.
 
-
-## § 222 – Voraussetzungen
+# § 222 – Voraussetzungen
 
 (1) Eine Herabsetzung des Grundkapitals kann nur mit einer Mehrheit beschlossen werden, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen.
 
@@ -3593,18 +3348,15 @@ Als Anschaffungskosten der vor der Erhöhung des Grundkapitals erworbenen Aktien
 
 (4) Die Herabsetzung des Grundkapitals erfordert bei Gesellschaften mit Nennbetragsaktien die Herabsetzung des Nennbetrags der Aktien. Soweit der auf die einzelne Aktie entfallende anteilige Betrag des herabgesetzten Grundkapitals den Mindestbetrag nach § 8 Abs. 2 Satz 1 oder Abs. 3 Satz 3 unterschreiten würde, erfolgt die Herabsetzung durch Zusammenlegung der Aktien. Der Beschluß muß die Art der Herabsetzung angeben.
 
-
-## § 223 – Anmeldung des Beschlusses
+# § 223 – Anmeldung des Beschlusses
 
 Der Vorstand und der Vorsitzende des Aufsichtsrats haben den Beschluß über die Herabsetzung des Grundkapitals zur Eintragung in das Handelsregister anzumelden.
 
-
-## § 224 – Wirksamwerden der Kapitalherabsetzung
+# § 224 – Wirksamwerden der Kapitalherabsetzung
 
 Mit der Eintragung des Beschlusses über die Herabsetzung des Grundkapitals ist das Grundkapital herabgesetzt.
 
-
-## § 225 – Gläubigerschutz
+# § 225 – Gläubigerschutz
 
 (1) Den Gläubigern, deren Forderungen begründet worden sind, bevor die Eintragung des Beschlusses bekanntgemacht worden ist, ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses Recht hinzuweisen. Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Fall des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
@@ -3612,8 +3364,7 @@ Mit der Eintragung des Beschlusses über die Herabsetzung des Grundkapitals ist 
 
 (3) Das Recht der Gläubiger, Sicherheitsleistung zu verlangen, ist unabhängig davon, ob Zahlungen an die Aktionäre auf Grund der Herabsetzung des Grundkapitals geleistet werden.
 
-
-## § 226 – Kraftloserklärung von Aktien
+# § 226 – Kraftloserklärung von Aktien
 
 (1) Sollen zur Durchführung der Herabsetzung des Grundkapitals Aktien durch Umtausch, Abstempelung oder durch ein ähnliches Verfahren zusammengelegt werden, so kann die Gesellschaft die Aktien für kraftlos erklären, die trotz Aufforderung nicht bei ihr eingereicht worden sind. Gleiches gilt für eingereichte Aktien, welche die zum Ersatz durch neue Aktien nötige Zahl nicht erreichen und der Gesellschaft nicht zur Verwertung für Rechnung der Beteiligten zur Verfügung gestellt sind.
 
@@ -3621,22 +3372,19 @@ Mit der Eintragung des Beschlusses über die Herabsetzung des Grundkapitals ist 
 
 (3) Die neuen Aktien, die an Stelle der für kraftlos erklärten Aktien auszugeben sind, hat die Gesellschaft unverzüglich für Rechnung der Beteiligten zum Börsenpreis und beim Fehlen eines Börsenpreises durch öffentliche Versteigerung zu verkaufen. Ist von der Versteigerung am Sitz der Gesellschaft kein angemessener Erfolg zu erwarten, so sind die Aktien an einem geeigneten Ort zu verkaufen. Zeit, Ort und Gegenstand der Versteigerung sind öffentlich bekanntzumachen. Die Beteiligten sind besonders zu benachrichtigen; die Benachrichtigung kann unterbleiben, wenn sie untunlich ist. Bekanntmachung und Benachrichtigung müssen mindestens zwei Wochen vor der Versteigerung ergehen. Der Erlös ist den Beteiligten auszuzahlen oder, wenn ein Recht zur Hinterlegung besteht, zu hinterlegen.
 
-
-## § 227 – Anmeldung der Durchführung
+# § 227 – Anmeldung der Durchführung
 
 (1) Der Vorstand hat die Durchführung der Herabsetzung des Grundkapitals zur Eintragung in das Handelsregister anzumelden.
 
 (2) Anmeldung und Eintragung der Durchführung der Herabsetzung des Grundkapitals können mit Anmeldung und Eintragung des Beschlusses über die Herabsetzung verbunden werden.
 
-
-## § 228 – Herabsetzung unter den Mindestnennbetrag
+# § 228 – Herabsetzung unter den Mindestnennbetrag
 
 (1) Das Grundkapital kann unter den in § 7 bestimmten Mindestnennbetrag herabgesetzt werden, wenn dieser durch eine Kapitalerhöhung wieder erreicht wird, die zugleich mit der Kapitalherabsetzung beschlossen ist und bei der Sacheinlagen nicht festgesetzt sind.
 
 (2) Die Beschlüsse sind nichtig, wenn sie und die Durchführung der Erhöhung nicht binnen sechs Monaten nach der Beschlußfassung in das Handelsregister eingetragen worden sind. Der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder Nichtigkeitsklage rechtshängig ist. Die Beschlüsse und die Durchführung der Erhöhung des Grundkapitals sollen nur zusammen in das Handelsregister eingetragen werden.
 
-
-## § 229 – Voraussetzungen
+# § 229 – Voraussetzungen
 
 (1) Eine Herabsetzung des Grundkapitals, die dazu dienen soll, Wertminderungen auszugleichen, sonstige Verluste zu decken oder Beträge in die Kapitalrücklage einzustellen, kann in vereinfachter Form vorgenommen werden. Im Beschluß ist festzusetzen, daß die Herabsetzung zu diesen Zwecken stattfindet.
 
@@ -3644,23 +3392,19 @@ Mit der Eintragung des Beschlusses über die Herabsetzung des Grundkapitals ist 
 
 (3) § 222 Abs. 1, 2 und 4, §§ 223, 224, 226 bis 228 über die ordentliche Kapitalherabsetzung gelten sinngemäß.
 
-
-## § 230 – Verbot von Zahlungen an die Aktionäre
+# § 230 – Verbot von Zahlungen an die Aktionäre
 
 Die Beträge, die aus der Auflösung der Kapital- oder Gewinnrücklagen und aus der Kapitalherabsetzung gewonnen werden, dürfen nicht zu Zahlungen an die Aktionäre und nicht dazu verwandt werden, die Aktionäre von der Verpflichtung zur Leistung von Einlagen zu befreien. Sie dürfen nur verwandt werden, um Wertminderungen auszugleichen, sonstige Verluste zu decken und Beträge in die Kapitalrücklage oder in die gesetzliche Rücklage einzustellen. Auch eine Verwendung zu einem dieser Zwecke ist nur zulässig, soweit sie im Beschluß als Zweck der Herabsetzung angegeben ist.
 
-
-## § 231 – Beschränkte Einstellung in die Kapitalrücklage und in die gesetzliche Rücklage
+# § 231 – Beschränkte Einstellung in die Kapitalrücklage und in die gesetzliche Rücklage
 
 Die Einstellung der Beträge, die aus der Auflösung von anderen Gewinnrücklagen gewonnen werden, in die gesetzliche Rücklage und der Beträge, die aus der Kapitalherabsetzung gewonnen werden, in die Kapitalrücklage ist nur zulässig, soweit die Kapitalrücklage und die gesetzliche Rücklage zusammen zehn vom Hundert des Grundkapitals nicht übersteigen. Als Grundkapital gilt dabei der Nennbetrag, der sich durch die Herabsetzung ergibt, mindestens aber der in § 7 bestimmte Mindestnennbetrag. Bei der Bemessung der zulässigen Höhe bleiben Beträge, die in der Zeit nach der Beschlußfassung über die Kapitalherabsetzung in die Kapitalrücklage einzustellen sind, auch dann außer Betracht, wenn ihre Zahlung auf einem Beschluß beruht, der zugleich mit dem Beschluß über die Kapitalherabsetzung gefaßt wird.
 
-
-## § 232 – Einstellung von Beträgen in die Kapitalrücklage bei zu hoch angenommenen Verlusten
+# § 232 – Einstellung von Beträgen in die Kapitalrücklage bei zu hoch angenommenen Verlusten
 
 Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder für eines der beiden folgenden Geschäftsjahre, daß Wertminderungen und sonstige Verluste in der bei der Beschlußfassung angenommenen Höhe tatsächlich nicht eingetreten oder ausgeglichen waren, so ist der Unterschiedsbetrag in die Kapitalrücklage einzustellen.
 
-
-## § 233 – Gewinnausschüttung. Gläubigerschutz
+# § 233 – Gewinnausschüttung. Gläubigerschutz
 
 (1) Gewinn darf nicht ausgeschüttet werden, bevor die gesetzliche Rücklage und die Kapitalrücklage zusammen zehn vom Hundert des Grundkapitals erreicht haben. Als Grundkapital gilt dabei der Nennbetrag, der sich durch die Herabsetzung ergibt, mindestens aber der in § 7 bestimmte Mindestnennbetrag.
 
@@ -3668,8 +3412,7 @@ Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in dem der
 
 (3) Die Beträge, die aus der Auflösung von Kapital- und Gewinnrücklagen und aus der Kapitalherabsetzung gewonnen sind, dürfen auch nach diesen Vorschriften nicht als Gewinn ausgeschüttet werden.
 
-
-## § 234 – Rückwirkung der Kapitalherabsetzung
+# § 234 – Rückwirkung der Kapitalherabsetzung
 
 (1) Im Jahresabschluß für das letzte vor der Beschlußfassung über die Kapitalherabsetzung abgelaufene Geschäftsjahr können das gezeichnete Kapital sowie die Kapital- und Gewinnrücklagen in der Höhe ausgewiesen werden, in der sie nach der Kapitalherabsetzung bestehen sollen.
 
@@ -3677,20 +3420,17 @@ Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in dem der
 
 (3) Die Beschlüsse sind nichtig, wenn der Beschluß über die Kapitalherabsetzung nicht binnen drei Monaten nach der Beschlußfassung in das Handelsregister eingetragen worden ist. Der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder Nichtigkeitsklage rechtshängig ist.
 
-
-## § 235 – Rückwirkung einer gleichzeitigen Kapitalerhöhung
+# § 235 – Rückwirkung einer gleichzeitigen Kapitalerhöhung
 
 (1) Wird im Fall des § 234 zugleich mit der Kapitalherabsetzung eine Erhöhung des Grundkapitals beschlossen, so kann auch die Kapitalerhöhung in dem Jahresabschluß als vollzogen berücksichtigt werden. Die Beschlußfassung ist nur zulässig, wenn die neuen Aktien gezeichnet, keine Sacheinlagen festgesetzt sind und wenn auf jede Aktie die Einzahlung geleistet ist, die nach § 188 Abs. 2 zur Zeit der Anmeldung der Durchführung der Kapitalerhöhung bewirkt sein muß. Die Zeichnung und die Einzahlung sind dem Notar nachzuweisen, der den Beschluß über die Erhöhung des Grundkapitals beurkundet.
 
 (2) Sämtliche Beschlüsse sind nichtig, wenn die Beschlüsse über die Kapitalherabsetzung und die Kapitalerhöhung und die Durchführung der Erhöhung nicht binnen drei Monaten nach der Beschlußfassung in das Handelsregister eingetragen worden sind. Der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder Nichtigkeitsklage rechtshängig ist. Die Beschlüsse und die Durchführung der Erhöhung des Grundkapitals sollen nur zusammen in das Handelsregister eingetragen werden.
 
-
-## § 236 – Offenlegung
+# § 236 – Offenlegung
 
 Die Offenlegung des Jahresabschlusses nach § 325 des Handelsgesetzbuchs darf im Fall des § 234 erst nach Eintragung des Beschlusses über die Kapitalherabsetzung, im Fall des § 235 erst ergehen, nachdem die Beschlüsse über die Kapitalherabsetzung und Kapitalerhöhung und die Durchführung der Kapitalerhöhung eingetragen worden sind.
 
-
-## § 237 – Voraussetzungen
+# § 237 – Voraussetzungen
 
 (1) Aktien können zwangsweise oder nach Erwerb durch die Gesellschaft eingezogen werden. Eine Zwangseinziehung ist nur zulässig, wenn sie in der ursprünglichen Satzung oder durch eine Satzungsänderung vor Übernahme oder Zeichnung der Aktien angeordnet oder gestattet war.
 
@@ -3710,20 +3450,17 @@ Die Offenlegung des Jahresabschlusses nach § 325 des Handelsgesetzbuchs darf im
 
 (6) Soweit es sich um eine durch die Satzung angeordnete Zwangseinziehung handelt, bedarf es eines Beschlusses der Hauptversammlung nicht. In diesem Fall tritt für die Anwendung der Vorschriften über die ordentliche Kapitalherabsetzung an die Stelle des Hauptversammlungsbeschlusses die Entscheidung des Vorstands über die Einziehung.
 
-
-## § 238 – Wirksamwerden der Kapitalherabsetzung
+# § 238 – Wirksamwerden der Kapitalherabsetzung
 
 Mit der Eintragung des Beschlusses oder, wenn die Einziehung nachfolgt, mit der Einziehung ist das Grundkapital um den auf die eingezogenen Aktien entfallenden Betrag herabgesetzt. Handelt es sich um eine durch die Satzung angeordnete Zwangseinziehung, so ist, wenn die Hauptversammlung nicht über die Kapitalherabsetzung beschließt, das Grundkapital mit der Zwangseinziehung herabgesetzt. Zur Einziehung bedarf es einer Handlung der Gesellschaft, die auf Vernichtung der Rechte aus bestimmten Aktien gerichtet ist.
 
-
-## § 239 – Anmeldung der Durchführung
+# § 239 – Anmeldung der Durchführung
 
 (1) Der Vorstand hat die Durchführung der Herabsetzung des Grundkapitals zur Eintragung in das Handelsregister anzumelden. Dies gilt auch dann, wenn es sich um eine durch die Satzung angeordnete Zwangseinziehung handelt.
 
 (2) Anmeldung und Eintragung der Durchführung der Herabsetzung können mit Anmeldung und Eintragung des Beschlusses über die Herabsetzung verbunden werden.
 
-
-## § 240
+# § 240
 
 Der aus der Kapitalherabsetzung gewonnene Betrag ist in der Gewinn- und Verlustrechnung als "Ertrag aus der Kapitalherabsetzung" gesondert, und zwar hinter dem Posten "Entnahmen aus Gewinnrücklagen", auszuweisen. Eine Einstellung in die Kapitalrücklage nach § 229 Abs. 1 und § 232 ist als "Einstellung in die Kapitalrücklage nach den Vorschriften über die vereinfachte Kapitalherabsetzung" gesondert auszuweisen. Im Anhang ist zu erläutern, ob und in welcher Höhe die aus der Kapitalherabsetzung und aus der Auflösung von Gewinnrücklagen gewonnenen Beträge
 
@@ -3737,8 +3474,7 @@ verwandt werden. Ist die Gesellschaft eine kleine Kapitalgesellschaft (§ 267 Ab
 
 (+++ § 240: Zur Anwendung vgl. § 26g AktGEG +++)
 
-
-## § 241 – Nichtigkeitsgründe
+# § 241 – Nichtigkeitsgründe
 
 Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, §§ 212, 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs. 2 nur dann nichtig, wenn er
 
@@ -3754,8 +3490,7 @@ Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, 
 
 6. nach § 398 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit auf Grund rechtskräftiger Entscheidung als nichtig gelöscht worden ist.
 
-
-## § 242 – Heilung der Nichtigkeit
+# § 242 – Heilung der Nichtigkeit
 
 (1) Die Nichtigkeit eines Hauptversammlungsbeschlusses, der entgegen § 130 Abs. 1 und 2 Satz 1 und Abs. 4 nicht oder nicht gehörig beurkundet worden ist, kann nicht mehr geltend gemacht werden, wenn der Beschluß in das Handelsregister eingetragen worden ist.
 
@@ -3763,8 +3498,7 @@ Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, 
 
 (3) Absatz 2 gilt entsprechend, wenn in den Fällen des § 217 Abs. 2, § 228 Abs. 2, § 234 Abs. 3 und § 235 Abs. 2 die erforderlichen Eintragungen nicht fristgemäß vorgenommen worden sind.
 
-
-## § 243 – Anfechtungsgründe
+# § 243 – Anfechtungsgründe
 
 (1) Ein Beschluß der Hauptversammlung kann wegen Verletzung des Gesetzes oder der Satzung durch Klage angefochten werden.
 
@@ -3780,13 +3514,11 @@ Ein Beschluß der Hauptversammlung ist außer in den Fällen des § 192 Abs. 4, 
 
 (4) Wegen unrichtiger, unvollständiger oder verweigerter Erteilung von Informationen kann nur angefochten werden, wenn ein objektiv urteilender Aktionär die Erteilung der Information als wesentliche Voraussetzung für die sachgerechte Wahrnehmung seiner Teilnahme- und Mitgliedschaftsrechte angesehen hätte. Auf unrichtige, unvollständige oder unzureichende Informationen in der Hauptversammlung über die Ermittlung, Höhe oder Angemessenheit von Ausgleich, Abfindung, Zuzahlung oder über sonstige Kompensationen kann eine Anfechtungsklage nicht gestützt werden, wenn das Gesetz für Bewertungsrügen ein Spruchverfahren vorsieht.
 
-
-## § 244 – Bestätigung anfechtbarer Hauptversammlungsbeschlüsse*.
+# § 244 – Bestätigung anfechtbarer Hauptversammlungsbeschlüsse*.
 
 Die Anfechtung kann nicht mehr geltend gemacht werden, wenn die Hauptversammlung den anfechtbaren Beschluß durch einen neuen Beschluß bestätigt hat und dieser Beschluß innerhalb der Anfechtungsfrist nicht angefochten oder die Anfechtung rechtskräftig zurückgewiesen worden ist. Hat der Kläger ein rechtliches Interesse, daß der anfechtbare Beschluß für die Zeit bis zum Bestätigungsbeschluß für nichtig erklärt wird, so kann er die Anfechtung weiterhin mit dem Ziel geltend machen, den anfechtbaren Beschluß für diese Zeit für nichtig zu erklären.
 
-
-## § 245 – Anfechtungsbefugnis
+# § 245 – Anfechtungsbefugnis
 
 Zur Anfechtung ist befugt
 
@@ -3800,8 +3532,7 @@ Zur Anfechtung ist befugt
 
 5. jedes Mitglied des Vorstands und des Aufsichtsrats, wenn durch die Ausführung des Beschlusses Mitglieder des Vorstands oder des Aufsichtsrats eine strafbare Handlung oder eine Ordnungswidrigkeit begehen oder wenn sie ersatzpflichtig werden würden.
 
-
-## § 246 – Anfechtungsklage
+# § 246 – Anfechtungsklage
 
 (1) Die Klage muß innerhalb eines Monats nach der Beschlußfassung erhoben werden.
 
@@ -3811,8 +3542,7 @@ Zur Anfechtung ist befugt
 
 (4) Der Vorstand hat die Erhebung der Klage unverzüglich in den Gesellschaftsblättern bekanntzumachen. Ein Aktionär kann sich als Nebenintervenient nur innerhalb eines Monats nach der Bekanntmachung an der Klage beteiligen.
 
-
-## § 246a – Freigabeverfahren
+# § 246a – Freigabeverfahren
 
 (1) Wird gegen einen Hauptversammlungsbeschluss über eine Maßnahme der Kapitalbeschaffung, der Kapitalherabsetzung (§§ 182 bis 240) oder einen Unternehmensvertrag (§§ 291 bis 307) Klage erhoben, so kann das Gericht auf Antrag der Gesellschaft durch Beschluss feststellen, dass die Erhebung der Klage der Eintragung nicht entgegensteht und Mängel des Hauptversammlungsbeschlusses die Wirkung der Eintragung unberührt lassen. Auf das Verfahren sind § 247, die §§ 82, 83 Abs. 1 und § 84 der Zivilprozessordnung sowie die im ersten Rechtszug für das Verfahren vor den Landgerichten geltenden Vorschriften der Zivilprozessordnung entsprechend anzuwenden, soweit nichts Abweichendes bestimmt ist. Über den Antrag entscheidet ein Senat des Oberlandesgerichts, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
@@ -3828,8 +3558,7 @@ Zur Anfechtung ist befugt
 
 (4) Erweist sich die Klage als begründet, so ist die Gesellschaft, die den Beschluss erwirkt hat, verpflichtet, dem Antragsgegner den Schaden zu ersetzen, der ihm aus einer auf dem Beschluss beruhenden Eintragung des Hauptversammlungsbeschlusses entstanden ist. Nach der Eintragung lassen Mängel des Beschlusses seine Durchführung unberührt; die Beseitigung dieser Wirkung der Eintragung kann auch nicht als Schadensersatz verlangt werden.
 
-
-## § 247 – Streitwert
+# § 247 – Streitwert
 
 (1) Den Streitwert bestimmt das Prozeßgericht unter Berücksichtigung aller Umstände des einzelnen Falles, insbesondere der Bedeutung der Sache für die Parteien, nach billigem Ermessen. Er darf jedoch ein Zehntel des Grundkapitals oder, wenn dieses Zehntel mehr als 500.000 Euro beträgt, 500.000 Euro nur insoweit übersteigen, als die Bedeutung der Sache für den Kläger höher zu bewerten ist.
 
@@ -3839,27 +3568,23 @@ Zur Anfechtung ist befugt
 
 (+++ § 247 Abs. 2 u. 3: Zur Anwendung vgl. § 72 Abs. 2 GNotKG +++)
 
-
-## § 248 – Urteilswirkung
+# § 248 – Urteilswirkung
 
 (1) Soweit der Beschluß durch rechtskräftiges Urteil für nichtig erklärt ist, wirkt das Urteil für und gegen alle Aktionäre sowie die Mitglieder des Vorstands und des Aufsichtsrats, auch wenn sie nicht Partei sind. Der Vorstand hat das Urteil unverzüglich zum Handelsregister einzureichen. War der Beschluß in das Handelsregister eingetragen, so ist auch das Urteil einzutragen. Die Eintragung des Urteils ist in gleicher Weise wie die des Beschlusses bekanntzumachen.
 
 (2) Hatte der Beschluß eine Satzungsänderung zum Inhalt, so ist mit dem Urteil der vollständige Wortlaut der Satzung, wie er sich unter Berücksichtigung des Urteils und aller bisherigen Satzungsänderungen ergibt, mit der Bescheinigung eines Notars über diese Tatsache zum Handelsregister einzureichen.
 
-
-## § 248a – Bekanntmachungen zur Anfechtungsklage
+# § 248a – Bekanntmachungen zur Anfechtungsklage
 
 Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Verfahrensbeendigung unverzüglich in den Gesellschaftsblättern bekannt zu machen. § 149 Abs. 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 249 – Nichtigkeitsklage
+# § 249 – Nichtigkeitsklage
 
 (1) Erhebt ein Aktionär, der Vorstand oder ein Mitglied des Vorstands oder des Aufsichtsrats Klage auf Feststellung der Nichtigkeit eines Hauptversammlungsbeschlusses gegen die Gesellschaft, so finden § 246 Abs. 2, Abs. 3 Satz 1 bis 5, Abs. 4, §§ 246a, 247, 248 und 248a entsprechende Anwendung. Es ist nicht ausgeschlossen, die Nichtigkeit auf andere Weise als durch Erhebung der Klage geltend zu machen. Schafft der Hauptversammlungsbeschluss Voraussetzungen für eine Umwandlung nach § 1 des Umwandlungsgesetzes und ist der Umwandlungsbeschluss eingetragen, so gilt § 20 Abs. 2 des Umwandlungsgesetzes für den Hauptversammlungsbeschluss entsprechend.
 
 (2) Mehrere Nichtigkeitsprozesse sind zur gleichzeitigen Verhandlung und Entscheidung zu verbinden. Nichtigkeits- und Anfechtungsprozesse können verbunden werden.
 
-
-## § 250 – Nichtigkeit der Wahl von Aufsichtsratsmitgliedern
+# § 250 – Nichtigkeit der Wahl von Aufsichtsratsmitgliedern
 
 (1) Die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung ist außer im Falle des § 241 Nr. 1, 2 und 5 nur dann nichtig, wenn
 
@@ -3887,8 +3612,7 @@ Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Ve
 
 (3) Erhebt ein Aktionär, der Vorstand, ein Mitglied des Vorstands oder des Aufsichtsrats oder eine in Absatz 2 bezeichnete Organisation oder Vertretung der Arbeitnehmer gegen die Gesellschaft Klage auf Feststellung, dass die Wahl eines Aufsichtsratsmitglieds nichtig ist, so gelten § 246 Abs. 2, Abs. 3 Satz 1 bis 4, Abs. 4, §§ 247, 248 Abs. 1 Satz 2, §§ 248a und 249 Abs. 2 sinngemäß. Es ist nicht ausgeschlossen, die Nichtigkeit auf andere Weise als durch Erhebung der Klage geltend zu machen.
 
-
-## § 251 – Anfechtung der Wahl von Aufsichtsratsmitgliedern
+# § 251 – Anfechtung der Wahl von Aufsichtsratsmitgliedern
 
 (1) Die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung kann wegen Verletzung des Gesetzes oder der Satzung durch Klage angefochten werden. Ist die Hauptversammlung an Wahlvorschläge gebunden, so kann die Anfechtung auch darauf gestützt werden, daß der Wahlvorschlag gesetzwidrig zustande gekommen ist. § 243 Abs. 4 und § 244 gelten.
 
@@ -3896,29 +3620,25 @@ Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Ve
 
 (3) Für das Anfechtungsverfahren gelten die §§ 246, 247, 248 Abs. 1 Satz 2 und § 248a.
 
-
-## § 252 – Urteilswirkung
+# § 252 – Urteilswirkung
 
 (1) Erhebt ein Aktionär, der Vorstand, ein Mitglied des Vorstands oder des Aufsichtsrats oder eine in § 250 Abs. 2 bezeichnete Organisation oder Vertretung der Arbeitnehmer gegen die Gesellschaft Klage auf Feststellung, daß die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung nichtig ist, so wirkt ein Urteil, das die Nichtigkeit der Wahl rechtskräftig feststellt, für und gegen alle Aktionäre und Arbeitnehmer der Gesellschaft, alle Arbeitnehmer von anderen Unternehmen, deren Arbeitnehmer selbst oder durch Delegierte an der Wahl von Aufsichtsratsmitgliedern der Gesellschaft teilnehmen, die Mitglieder des Vorstands und des Aufsichtsrats sowie die in § 250 Abs. 2 bezeichneten Organisationen und Vertretungen der Arbeitnehmer, auch wenn sie nicht Partei sind.
 
 (2) Wird die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung durch rechtskräftiges Urteil für nichtig erklärt, so wirkt das Urteil für und gegen alle Aktionäre sowie die Mitglieder des Vorstands und Aufsichtsrats, auch wenn sie nicht Partei sind. Im Fall des § 251 Abs. 2 Satz 2 wirkt das Urteil auch für und gegen die nach dieser Vorschrift anfechtungsberechtigten Betriebsräte, Gewerkschaften und Spitzenorganisationen, auch wenn sie nicht Partei sind.
 
-
-## § 253 – Nichtigkeit des Beschlusses über die Verwendung des Bilanzgewinns
+# § 253 – Nichtigkeit des Beschlusses über die Verwendung des Bilanzgewinns
 
 (1) Der Beschluß über die Verwendung des Bilanzgewinns ist außer in den Fällen des § 173 Abs. 3, des § 217 Abs. 2 und des § 241 nur dann nichtig, wenn die Feststellung des Jahresabschlusses, auf dem er beruht, nichtig ist. Die Nichtigkeit des Beschlusses aus diesem Grund kann nicht mehr geltend gemacht werden, wenn die Nichtigkeit der Feststellung des Jahresabschlusses nicht mehr geltend gemacht werden kann.
 
 (2) Für die Klage auf Feststellung der Nichtigkeit gegen die Gesellschaft gilt § 249.
 
-
-## § 254 – Anfechtung des Beschlusses über die Verwendung des Bilanzgewinns
+# § 254 – Anfechtung des Beschlusses über die Verwendung des Bilanzgewinns
 
 (1) Der Beschluß über die Verwendung des Bilanzgewinns kann außer nach § 243 auch angefochten werden, wenn die Hauptversammlung aus dem Bilanzgewinn Beträge in Gewinnrücklagen einstellt oder als Gewinn vorträgt, die nicht nach Gesetz oder Satzung von der Verteilung unter die Aktionäre ausgeschlossen sind, obwohl die Einstellung oder der Gewinnvortrag bei vernünftiger kaufmännischer Beurteilung nicht notwendig ist, um die Lebens- und Widerstandsfähigkeit der Gesellschaft für einen hinsichtlich der wirtschaftlichen und finanziellen Notwendigkeiten übersehbaren Zeitraum zu sichern und dadurch unter die Aktionäre kein Gewinn in Höhe von mindestens vier vom Hundert des Grundkapitals abzüglich von noch nicht eingeforderten Einlagen verteilt werden kann.
 
 (2) Für die Anfechtung gelten die §§ 244 bis 246, 247 bis 248a. Die Anfechtungsfrist beginnt auch dann mit der Beschlußfassung, wenn der Jahresabschluß nach § 316 Abs. 3 des Handelsgesetzbuchs erneut zu prüfen ist. Zu einer Anfechtung nach Absatz 1 sind Aktionäre nur befugt, wenn ihre Anteile zusammen den zwanzigsten Teil des Grundkapitals oder den anteiligen Betrag von 500.000 Euro erreichen.
 
-
-## § 255 – Anfechtung der Kapitalerhöhung gegen Einlagen
+# § 255 – Anfechtung der Kapitalerhöhung gegen Einlagen
 
 (1) Der Beschluß über eine Kapitalerhöhung gegen Einlagen kann nach § 243 angefochten werden.
 
@@ -3926,8 +3646,7 @@ Wird der Anfechtungsprozess beendet, hat die börsennotierte Gesellschaft die Ve
 
 (3) Für die Anfechtung gelten die §§ 244 bis 248a.
 
-
-## § 256 – Nichtigkeit
+# § 256 – Nichtigkeit
 
 (1) Ein festgestellter Jahresabschluß ist außer in den Fällen des § 173 Abs. 3, § 234 Abs. 3 und § 235 Abs. 2 nichtig, wenn
 
@@ -3973,15 +3692,13 @@ d) Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments 
 
 (+++ § 256: Zur Anwendung vgl. § 26g AktGEG +++)
 
-
-## § 257 – Anfechtung der Feststellung des Jahresabschlusses durch die Hauptversammlung
+# § 257 – Anfechtung der Feststellung des Jahresabschlusses durch die Hauptversammlung
 
 (1) Die Feststellung des Jahresabschlusses durch die Hauptversammlung kann nach § 243 angefochten werden. Die Anfechtung kann jedoch nicht darauf gestützt werden, daß der Inhalt des Jahresabschlusses gegen Gesetz oder Satzung verstößt.
 
 (2) Für die Anfechtung gelten die §§ 244 bis 246, 247 bis 248a. Die Anfechtungsfrist beginnt auch dann mit der Beschlußfassung, wenn der Jahresabschluß nach § 316 Abs. 3 des Handelsgesetzbuchs erneut zu prüfen ist.
 
-
-## § 258 – Bestellung der Sonderprüfer
+# § 258 – Bestellung der Sonderprüfer
 
 (1) Besteht Anlaß für die Annahme, daß
 
@@ -4001,8 +3718,7 @@ so hat das Gericht auf Antrag Sonderprüfer zu bestellen. Die Sonderprüfer habe
 
 (5) § 142 Abs. 6 über den Ersatz angemessener barer Auslagen und die Vergütung gerichtlich bestellter Sonderprüfer, § 145 Abs. 1 bis 3 über die Rechte der Sonderprüfer, § 146 über die Kosten der Sonderprüfung und § 323 des Handelsgesetzbuchs über die Verantwortlichkeit des Abschlußprüfers gelten sinngemäß. Die Sonderprüfer nach Absatz 1 haben die Rechte nach § 145 Abs. 2 auch gegenüber dem Abschlußprüfer der Gesellschaft.
 
-
-## § 259 – Prüfungsbericht. Abschließende Feststellungen
+# § 259 – Prüfungsbericht. Abschließende Feststellungen
 
 (1) Die Sonderprüfer haben über das Ergebnis der Prüfung schriftlich zu berichten. Stellen die Sonderprüfer bei Wahrnehmung ihrer Aufgaben fest, daß Posten überbewertet sind (§ 256 Abs. 5 Satz 2), oder daß gegen die Vorschriften über die Gliederung des Jahresabschlusses verstoßen ist oder Formblätter nicht beachtet sind, so haben sie auch darüber zu berichten. Für den Bericht gilt § 145 Abs. 4 bis 6 sinngemäß.
 
@@ -4020,8 +3736,7 @@ Die Sonderprüfer haben ihrer Beurteilung die Verhältnisse am Stichtag des Jahr
 
 (5) Der Vorstand hat die abschließenden Feststellungen der Sonderprüfer nach den Absätzen 2 bis 4 unverzüglich in den Gesellschaftsblättern bekanntzumachen.
 
-
-## § 260 – Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer
+# § 260 – Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer
 
 (1) Gegen abschließende Feststellungen der Sonderprüfer nach § 259 Abs. 2 und 3 können die Gesellschaft oder Aktionäre, deren Anteile zusammen den zwanzigsten Teil des Grundkapitals oder den anteiligen Betrag von 500 000 Euro erreichen, innerhalb eines Monats nach der Veröffentlichung im Bundesanzeiger den Antrag auf Entscheidung durch das nach § 132 Abs. 1 zuständige Gericht stellen. § 258 Abs. 2 Satz 4 und 5 gilt sinngemäß. Der Antrag muß auf Feststellung des Betrags gerichtet sein, mit dem die im Antrag zu bezeichnenden Aktivposten mindestens oder die im Antrag zu bezeichnenden Passivposten höchstens anzusetzen waren. Der Antrag der Gesellschaft kann auch auf Feststellung gerichtet sein, daß der Jahresabschluß die in der abschließenden Feststellung der Sonderprüfer festgestellten Unterbewertungen nicht enthielt.
 
@@ -4033,8 +3748,7 @@ Die Sonderprüfer haben ihrer Beurteilung die Verhältnisse am Stichtag des Jahr
 
 (+++ § 260 Abs. 4 Satz 2: Zur Anwendung vgl. § 72 Abs. 2 GNotKG +++)
 
-
-## § 261 – Entscheidung über den Ertrag auf Grund höherer Bewertung
+# § 261 – Entscheidung über den Ertrag auf Grund höherer Bewertung
 
 (1) Haben die Sonderprüfer in ihrer abschließenden Feststellung erklärt, daß Posten unterbewertet sind, und ist gegen diese Feststellung nicht innerhalb der in § 260 Abs. 1 bestimmten Frist der Antrag auf gerichtliche Entscheidung gestellt worden, so sind die Posten in dem ersten Jahresabschluß, der nach Ablauf dieser Frist aufgestellt wird, mit den von den Sonderprüfern festgestellten Werten oder Beträgen anzusetzen. Dies gilt nicht, soweit auf Grund veränderter Verhältnisse, namentlich bei Gegenständen, die der Abnutzung unterliegen, auf Grund der Abnutzung, nach §§ 253 bis 256a des Handelsgesetzbuchs oder nach den Grundsätzen ordnungsmäßiger Buchführung für Aktivposten ein niedrigerer Wert oder für Passivposten ein höherer Betrag anzusetzen ist. In diesem Fall sind im Anhang die Gründe anzugeben und in einer Sonderrechnung die Entwicklung des von den Sonderprüfern festgestellten Wertes oder Betrags auf den nach Satz 2 angesetzten Wert oder Betrag darzustellen. Sind die Gegenstände nicht mehr vorhanden, so ist darüber und über die Verwendung des Ertrags aus dem Abgang der Gegenstände im Anhang zu berichten. Bei den einzelnen Posten der Jahresbilanz sind die Unterschiedsbeträge zu vermerken, um die auf Grund von Satz 1 und 2 Aktivposten zu einem höheren Wert oder Passivposten mit einem niedrigeren Betrag angesetzt worden sind. Die Summe der Unterschiedsbeträge ist auf der Passivseite der Bilanz und in der Gewinn- und Verlustrechnung als "Ertrag auf Grund höherer Bewertung gemäß dem Ergebnis der Sonderprüfung" gesondert auszuweisen. Ist die Gesellschaft eine kleine Kapitalgesellschaft (§ 267 Absatz 1 des Handelsgesetzbuchs), hat sie die Sätze 3 und 4 nur anzuwenden, wenn die Voraussetzungen des § 264 Absatz 2 Satz 2 des Handelsgesetzbuchs unter Berücksichtigung der nach diesem Abschnitt durchgeführten Sonderprüfung vorliegen.
 
@@ -4044,13 +3758,11 @@ Die Sonderprüfer haben ihrer Beurteilung die Verhältnisse am Stichtag des Jahr
 
 (+++ § 261: Zur Anwendung vgl. § 26g AktGEG +++)
 
-
-## § 261a – Mitteilungen an die Bundesanstalt für Finanzdienstleistungsaufsicht
+# § 261a – Mitteilungen an die Bundesanstalt für Finanzdienstleistungsaufsicht
 
 Das Gericht hat der Bundesanstalt für Finanzdienstleistungsaufsicht den Eingang eines Antrags auf Bestellung eines Sonderprüfers, jede rechtskräftige Entscheidung über die Bestellung von Sonderprüfern, den Prüfungsbericht sowie eine rechtskräftige gerichtliche Entscheidung über abschließende Feststellungen der Sonderprüfer nach § 260 mitzuteilen, wenn für die Gesellschaft als Emittentin von zugelassenen Wertpapieren im Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes mit Ausnahme von Anteilen und Aktien an offenen Investmentvermögen im Sinne des § 1 Absatz 4 des Kapitalanlagegesetzbuchs die Bundesrepublik Deutschland der Herkunftsstaat (§ 2 Absatz 13 des Wertpapierhandelsgesetzes) ist.
 
-
-## § 262 – Auflösungsgründe
+# § 262 – Auflösungsgründe
 
 (1) Die Aktiengesellschaft wird aufgelöst
 
@@ -4068,13 +3780,11 @@ Das Gericht hat der Bundesanstalt für Finanzdienstleistungsaufsicht den Eingang
 
 (2) Dieser Abschnitt gilt auch, wenn die Aktiengesellschaft aus anderen Gründen aufgelöst wird.
 
-
-## § 263 – Anmeldung und Eintragung der Auflösung
+# § 263 – Anmeldung und Eintragung der Auflösung
 
 Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das Handelsregister anzumelden. Dies gilt nicht in den Fällen der Eröffnung und der Ablehnung der Eröffnung des Insolvenzverfahrens (§ 262 Abs. 1 Nr. 3 und 4) sowie im Falle der gerichtlichen Feststellung eines Mangels der Satzung (§ 262 Abs. 1 Nr. 5). In diesen Fällen hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen. Im Falle der Löschung der Gesellschaft (§ 262 Abs. 1 Nr. 6) entfällt die Eintragung der Auflösung.
 
-
-## § 264 – Notwendigkeit der Abwicklung
+# § 264 – Notwendigkeit der Abwicklung
 
 (1) Nach der Auflösung der Gesellschaft findet die Abwicklung statt, wenn nicht über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet worden ist.
 
@@ -4082,8 +3792,7 @@ Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das Handelsre
 
 (3) Soweit sich aus diesem Unterabschnitt oder aus dem Zweck der Abwicklung nichts anderes ergibt, sind auf die Gesellschaft bis zum Schluß der Abwicklung die Vorschriften weiterhin anzuwenden, die für nicht aufgelöste Gesellschaften gelten.
 
-
-## § 265 – Abwickler
+# § 265 – Abwickler
 
 (1) Die Abwicklung besorgen die Vorstandsmitglieder als Abwickler.
 
@@ -4097,8 +3806,7 @@ Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das Handelsre
 
 (6) Die Absätze 2 bis 5 gelten nicht für den Arbeitsdirektor, soweit sich seine Bestellung und Abberufung nach den Vorschriften des Montan-Mitbestimmungsgesetzes bestimmen.
 
-
-## § 266 – Anmeldung der Abwickler
+# § 266 – Anmeldung der Abwickler
 
 (1) Die ersten Abwickler sowie ihre Vertretungsbefugnis hat der Vorstand, jeden Wechsel der Abwickler und jede Änderung ihrer Vertretungsbefugnis haben die Abwickler zur Eintragung in das Handelsregister anzumelden.
 
@@ -4110,13 +3818,11 @@ Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das Handelsre
 
 (5) (weggefallen)
 
-
-## § 267 – Aufruf der Gläubiger
+# § 267 – Aufruf der Gläubiger
 
 Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläubiger der Gesellschaft aufzufordern, ihre Ansprüche anzumelden. Die Aufforderung ist in den Gesellschaftsblättern bekanntzumachen.
 
-
-## § 268 – Pflichten der Abwickler
+# § 268 – Pflichten der Abwickler
 
 (1) Die Abwickler haben die laufenden Geschäfte zu beenden, die Forderungen einzuziehen, das übrige Vermögen in Geld umzusetzen und die Gläubiger zu befriedigen. Soweit es die Abwicklung erfordert, dürfen sie auch neue Geschäfte eingehen.
 
@@ -4126,8 +3832,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (4) Auf allen Geschäftsbriefen, die an einen bestimmten Empfänger gerichtet werden, müssen die Rechtsform und der Sitz der Gesellschaft, die Tatsache, daß die Gesellschaft sich in Abwicklung befindet, das Registergericht des Sitzes der Gesellschaft und die Nummer, unter der die Gesellschaft in das Handelsregister eingetragen ist, sowie alle Abwickler und der Vorsitzende des Aufsichtsrats mit dem Familiennamen und mindestens einem ausgeschriebenen Vornamen angegeben werden. Werden Angaben über das Kapital der Gesellschaft gemacht, so müssen in jedem Fall das Grundkapital sowie, wenn auf die Aktien der Ausgabebetrag nicht vollständig eingezahlt ist, der Gesamtbetrag der ausstehenden Einlagen angegeben werden. Der Angaben nach Satz 1 bedarf es nicht bei Mitteilungen oder Berichten, die im Rahmen einer bestehenden Geschäftsverbindung ergehen und für die üblicherweise Vordrucke verwendet werden, in denen lediglich die im Einzelfall erforderlichen besonderen Angaben eingefügt zu werden brauchen. Bestellscheine gelten als Geschäftsbriefe im Sinne des Satzes 1; Satz 3 ist auf sie nicht anzuwenden.
 
-
-## § 269 – Vertretung durch die Abwickler
+# § 269 – Vertretung durch die Abwickler
 
 (1) Die Abwickler vertreten die Gesellschaft gerichtlich und außergerichtlich.
 
@@ -4141,8 +3846,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (6) Abwickler zeichnen für die Gesellschaft, indem sie der Firma einen die Abwicklung andeutenden Zusatz und ihre Namensunterschrift hinzufügen.
 
-
-## § 270 – Eröffnungsbilanz. Jahresabschluß und Lagebericht
+# § 270 – Eröffnungsbilanz. Jahresabschluß und Lagebericht
 
 (1) Die Abwickler haben für den Beginn der Abwicklung eine Bilanz (Eröffnungsbilanz) und einen die Eröffnungsbilanz erläuternden Bericht sowie für den Schluß eines jeden Jahres einen Jahresabschluß und einen Lagebericht aufzustellen.
 
@@ -4150,8 +3854,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (3) Das Gericht kann von der Prüfung des Jahresabschlusses und des Lageberichts durch einen Abschlußprüfer befreien, wenn die Verhältnisse der Gesellschaft so überschaubar sind, daß eine Prüfung im Interesse der Gläubiger und Aktionäre nicht geboten erscheint. Gegen die Entscheidung ist die Beschwerde zulässig.
 
-
-## § 271 – Verteilung des Vermögens
+# § 271 – Verteilung des Vermögens
 
 (1) Das nach der Berichtigung der Verbindlichkeiten verbleibende Vermögen der Gesellschaft wird unter die Aktionäre verteilt.
 
@@ -4159,8 +3862,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (3) Sind die Einlagen auf das Grundkapital nicht auf alle Aktien in demselben Verhältnis geleistet, so werden die geleisteten Einlagen erstattet und ein Überschuß nach den Anteilen am Grundkapital verteilt. Reicht das Vermögen zur Erstattung der Einlagen nicht aus, so haben die Aktionäre den Verlust nach ihren Anteilen am Grundkapital zu tragen; die noch ausstehenden Einlagen sind, soweit nötig, einzuziehen.
 
-
-## § 272 – Gläubigerschutz
+# § 272 – Gläubigerschutz
 
 (1) Das Vermögen darf nur verteilt werden, wenn ein Jahr seit dem Tag verstrichen ist, an dem der Aufruf der Gläubiger bekanntgemacht worden ist.
 
@@ -4168,8 +3870,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (3) Kann eine Verbindlichkeit zur Zeit nicht berichtigt werden oder ist sie streitig, so darf das Vermögen nur verteilt werden, wenn dem Gläubiger Sicherheit geleistet ist.
 
-
-## § 273 – Schluß der Abwicklung
+# § 273 – Schluß der Abwicklung
 
 (1) Ist die Abwicklung beendet und die Schlußrechnung gelegt, so haben die Abwickler den Schluß der Abwicklung zur Eintragung in das Handelsregister anzumelden. Die Gesellschaft ist zu löschen.
 
@@ -4181,8 +3882,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (5) Gegen die Entscheidungen nach den Absätzen 2, 3 und 4 Satz 1 ist die Beschwerde zulässig.
 
-
-## § 274 – Fortsetzung einer aufgelösten Gesellschaft
+# § 274 – Fortsetzung einer aufgelösten Gesellschaft
 
 (1) Ist eine Aktiengesellschaft durch Zeitablauf oder durch Beschluß der Hauptversammlung aufgelöst worden, so kann die Hauptversammlung, solange noch nicht mit der Verteilung des Vermögens unter die Aktionäre begonnen ist, die Fortsetzung der Gesellschaft beschließen. Der Beschluß bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen.
 
@@ -4196,8 +3896,7 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (4) Der Fortsetzungsbeschluß wird erst wirksam, wenn er in das Handelsregister des Sitzes der Gesellschaft eingetragen worden ist. Im Falle des Absatzes 2 Nr. 2 hat der Fortsetzungsbeschluß keine Wirkung, solange er und der Beschluß über die Satzungsänderung nicht in das Handelsregister des Sitzes der Gesellschaft eingetragen worden sind; die beiden Beschlüsse sollen nur zusammen in das Handelsregister eingetragen werden.
 
-
-## § 275 – Klage auf Nichtigerklärung
+# § 275 – Klage auf Nichtigerklärung
 
 (1) Enthält die Satzung keine Bestimmungen über die Höhe des Grundkapitals oder über den Gegenstand des Unternehmens oder sind die Bestimmungen der Satzung über den Gegenstand des Unternehmens nichtig, so kann jeder Aktionär und jedes Mitglied des Vorstands und des Aufsichtsrats darauf klagen, daß die Gesellschaft für nichtig erklärt werde. Auf andere Gründe kann die Klage nicht gestützt werden.
 
@@ -4207,13 +3906,11 @@ Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläub
 
 (4) Für die Anfechtung gelten § 246 Abs. 2 bis 4, §§ 247, 248 Abs. 1 Satz 1, §§ 248a, 249 Abs. 2 sinngemäß. Der Vorstand hat eine beglaubigte Abschrift der Klage und das rechtskräftige Urteil zum Handelsregister einzureichen. Die Nichtigkeit der Gesellschaft auf Grund rechtskräftigen Urteils ist einzutragen.
 
-
-## § 276 – Heilung von Mängeln
+# § 276 – Heilung von Mängeln
 
 Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft, kann unter Beachtung der Bestimmungen des Gesetzes und der Satzung über Satzungsänderungen geheilt werden.
 
-
-## § 277 – Wirkung der Eintragung der Nichtigkeit
+# § 277 – Wirkung der Eintragung der Nichtigkeit
 
 (1) Ist die Nichtigkeit einer Gesellschaft auf Grund rechtskräftigen Urteils oder einer Entscheidung des Registergerichts in das Handelsregister eingetragen, so findet die Abwicklung nach den Vorschriften über die Abwicklung bei Auflösung statt.
 
@@ -4221,8 +3918,7 @@ Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft,
 
 (3) Die Gesellschafter haben die Einlagen zu leisten, soweit es zur Erfüllung der eingegangenen Verbindlichkeiten nötig ist.
 
-
-## § 278 – Wesen der Kommanditgesellschaft auf Aktien
+# § 278 – Wesen der Kommanditgesellschaft auf Aktien
 
 (1) Die Kommanditgesellschaft auf Aktien ist eine Gesellschaft mit eigener Rechtspersönlichkeit, bei der mindestens ein Gesellschafter den Gesellschaftsgläubigern unbeschränkt haftet (persönlich haftender Gesellschafter) und die übrigen an dem in Aktien zerlegten Grundkapital beteiligt sind, ohne persönlich für die Verbindlichkeiten der Gesellschaft zu haften (Kommanditaktionäre).
 
@@ -4232,8 +3928,7 @@ Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft,
 
 (+++ § 278: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 279 – Firma
+# § 279 – Firma
 
 (1) Die Firma der Kommanditgesellschaft auf Aktien muß, auch wenn sie nach § 22 des Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung "Kommanditgesellschaft auf Aktien" oder eine allgemein verständliche Abkürzung dieser Bezeichnung enthalten.
 
@@ -4241,8 +3936,7 @@ Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft,
 
 (+++ § 279: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 280 – Feststellung der Satzung. Gründer
+# § 280 – Feststellung der Satzung. Gründer
 
 (1) Die Satzung muß durch notarielle Beurkundung festgestellt werden. In der Urkunde sind bei Nennbetragsaktien der Nennbetrag, bei Stückaktien die Zahl, der Ausgabebetrag und, wenn mehrere Gattungen bestehen, die Gattung der Aktien anzugeben, die jeder Beteiligte übernimmt. Bevollmächtigte bedürfen einer notariell beglaubigten Vollmacht.
 
@@ -4252,8 +3946,7 @@ Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft,
 
 (+++ § 280: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 281 – Inhalt der Satzung
+# § 281 – Inhalt der Satzung
 
 (1) Die Satzung muß außer den Festsetzungen nach § 23 Abs. 3 und 4 den Namen, Vornamen und Wohnort jedes persönlich haftenden Gesellschafters enthalten.
 
@@ -4263,15 +3956,13 @@ Ein Mangel, der die Bestimmungen über den Gegenstand des Unternehmens betrifft,
 
 (+++ § 281: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 282 – Eintragung der persönlich haftenden Gesellschafter
+# § 282 – Eintragung der persönlich haftenden Gesellschafter
 
 Bei der Eintragung der Gesellschaft in das Handelsregister sind statt der Vorstandsmitglieder die persönlich haftenden Gesellschafter anzugeben. Ferner ist einzutragen, welche Vertretungsbefugnis die persönlich haftenden Gesellschafter haben.
 
 (+++ § 282: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 283 – Persönlich haftende Gesellschafter
+# § 283 – Persönlich haftende Gesellschafter
 
 Für die persönlich haftenden Gesellschafter gelten sinngemäß die für den Vorstand der Aktiengesellschaft geltenden Vorschriften über
 
@@ -4305,8 +3996,7 @@ Für die persönlich haftenden Gesellschafter gelten sinngemäß die für den Vo
 
 (+++ § 283: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 284 – Wettbewerbsverbot
+# § 284 – Wettbewerbsverbot
 
 (1) Ein persönlich haftender Gesellschafter darf ohne ausdrückliche Einwilligung der übrigen persönlich haftenden Gesellschafter und des Aufsichtsrats weder im Geschäftszweig der Gesellschaft für eigene oder fremde Rechnung Geschäfte machen noch Mitglied des Vorstands oder Geschäftsführer oder persönlich haftender Gesellschafter einer anderen gleichartigen Handelsgesellschaft sein. Die Einwilligung kann nur für bestimmte Arten von Geschäften oder für bestimmte Handelsgesellschaften erteilt werden.
 
@@ -4316,8 +4006,7 @@ Für die persönlich haftenden Gesellschafter gelten sinngemäß die für den Vo
 
 (+++ § 284: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 285 – Hauptversammlung
+# § 285 – Hauptversammlung
 
 (1) In der Hauptversammlung haben die persönlich haftenden Gesellschafter nur ein Stimmrecht für ihre Aktien. Sie können das Stimmrecht weder für sich noch für einen anderen ausüben bei Beschlußfassungen über
 
@@ -4341,8 +4030,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (+++ § 285: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 286 – Jahresabschluß. Lagebericht
+# § 286 – Jahresabschluß. Lagebericht
 
 (1) Die Hauptversammlung beschließt über die Feststellung des Jahresabschlusses. Der Beschluß bedarf der Zustimmung der persönlich haftenden Gesellschafter.
 
@@ -4354,8 +4042,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (+++ § 286: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 287 – Aufsichtsrat
+# § 287 – Aufsichtsrat
 
 (1) Die Beschlüsse der Kommanditaktionäre führt der Aufsichtsrat aus, wenn die Satzung nichts anderes bestimmt.
 
@@ -4365,8 +4052,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (+++ § 287: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 288 – Entnahmen der persönlich haftenden Gesellschafter. Kreditgewährung
+# § 288 – Entnahmen der persönlich haftenden Gesellschafter. Kreditgewährung
 
 (1) Entfällt auf einen persönlich haftenden Gesellschafter ein Verlust, der seinen Kapitalanteil übersteigt, so darf er keinen Gewinn auf seinen Kapitalanteil entnehmen. Er darf ferner keinen solchen Gewinnanteil und kein Geld auf seinen Kapitalanteil entnehmen, solange die Summe aus Bilanzverlust, Einzahlungsverpflichtungen, Verlustanteilen persönlich haftender Gesellschafter und Forderungen aus Krediten an persönlich haftende Gesellschafter und deren Angehörige die Summe aus Gewinnvortrag, Kapital- und Gewinnrücklagen sowie Kapitalanteilen der persönlich haftenden Gesellschafter übersteigt.
 
@@ -4376,8 +4062,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (+++ § 288: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 289 – Auflösung
+# § 289 – Auflösung
 
 (1) Die Gründe für die Auflösung der Kommanditgesellschaft auf Aktien und das Ausscheiden eines von mehreren persönlich haftenden Gesellschaftern aus der Gesellschaft richten sich, soweit in den Absätzen 2 bis 6 nichts anderes bestimmt ist, nach den Vorschriften des Handelsgesetzbuchs über die Kommanditgesellschaft.
 
@@ -4399,8 +4084,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (+++ § 289: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 290 – Abwicklung
+# § 290 – Abwicklung
 
 (1) Die Abwicklung besorgen alle persönlich haftenden Gesellschafter und eine oder mehrere von der Hauptversammlung gewählte Personen als Abwickler, wenn die Satzung nichts anderes bestimmt.
 
@@ -4410,8 +4094,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (+++ § 290: Zur Anwendung vgl. § 140 Abs. 2 KAGB +++)
 
-
-## § 291 – Beherrschungsvertrag. Gewinnabführungsvertrag
+# § 291 – Beherrschungsvertrag. Gewinnabführungsvertrag
 
 (1) Unternehmensverträge sind Verträge, durch die eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien die Leitung ihrer Gesellschaft einem anderen Unternehmen unterstellt (Beherrschungsvertrag) oder sich verpflichtet, ihren ganzen Gewinn an ein anderes Unternehmen abzuführen (Gewinnabführungsvertrag). Als Vertrag über die Abführung des ganzen Gewinns gilt auch ein Vertrag, durch den eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien es übernimmt, ihr Unternehmen für Rechnung eines anderen Unternehmens zu führen.
 
@@ -4419,8 +4102,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Leistungen der Gesellschaft bei Bestehen eines Beherrschungs- oder eines Gewinnabführungsvertrags gelten nicht als Verstoß gegen die §§ 57, 58 und 60.
 
-
-## § 292 – Andere Unternehmensverträge
+# § 292 – Andere Unternehmensverträge
 
 (1) Unternehmensverträge sind ferner Verträge, durch die eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien
 
@@ -4434,8 +4116,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Ein Betriebspacht- oder Betriebsüberlassungsvertrag und der Beschluß, durch den die Hauptversammlung dem Vertrag zugestimmt hat, sind nicht deshalb nichtig, weil der Vertrag gegen die §§ 57, 58 und 60 verstößt. Satz 1 schließt die Anfechtung des Beschlusses wegen dieses Verstoßes nicht aus.
 
-
-## § 293 – Zustimmung der Hauptversammlung
+# § 293 – Zustimmung der Hauptversammlung
 
 (1) Ein Unternehmensvertrag wird nur mit Zustimmung der Hauptversammlung wirksam. Der Beschluß bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen. Auf den Beschluß sind die Bestimmungen des Gesetzes und der Satzung über Satzungsänderungen nicht anzuwenden.
 
@@ -4445,8 +4126,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (4) (weggefallen)
 
-
-## § 293a – Bericht über den Unternehmensvertrag
+# § 293a – Bericht über den Unternehmensvertrag
 
 (1) Der Vorstand jeder an einem Unternehmensvertrag beteiligten Aktiengesellschaft oder Kommanditgesellschaft auf Aktien hat, soweit die Zustimmung der Hauptversammlung nach § 293 erforderlich ist, einen ausführlichen schriftlichen Bericht zu erstatten, in dem der Abschluß des Unternehmensvertrags, der Vertrag im einzelnen und insbesondere Art und Höhe des Ausgleichs nach § 304 und der Abfindung nach § 305 rechtlich und wirtschaftlich erläutert und begründet werden; der Bericht kann von den Vorständen auch gemeinsam erstattet werden. Auf besondere Schwierigkeiten bei der Bewertung der vertragschließenden Unternehmen sowie auf die Folgen für die Beteiligungen der Aktionäre ist hinzuweisen.
 
@@ -4454,29 +4134,25 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Der Bericht ist nicht erforderlich, wenn alle Anteilsinhaber aller beteiligten Unternehmen auf seine Erstattung durch öffentlich beglaubigte Erklärung verzichten.
 
-
-## § 293b – Prüfung des Unternehmensvertrags
+# § 293b – Prüfung des Unternehmensvertrags
 
 (1) Der Unternehmensvertrag ist für jede vertragschließende Aktiengesellschaft oder Kommanditgesellschaft auf Aktien durch einen oder mehrere sachverständige Prüfer (Vertragsprüfer) zu prüfen, es sei denn, daß sich alle Aktien der abhängigen Gesellschaft in der Hand des herrschenden Unternehmens befinden.
 
 (2) § 293a Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 293c – Bestellung der Vertragsprüfer
+# § 293c – Bestellung der Vertragsprüfer
 
 (1) Die Vertragsprüfer werden jeweils auf Antrag der Vorstände der vertragschließenden Gesellschaften vom Gericht ausgewählt und bestellt. Sie können auf gemeinsamen Antrag der Vorstände für alle vertragschließenden Gesellschaften gemeinsam bestellt werden. Zuständig ist das Landgericht, in dessen Bezirk die abhängige Gesellschaft ihren Sitz hat. Ist bei dem Landgericht eine Kammer für Handelssachen gebildet, so entscheidet deren Vorsitzender an Stelle der Zivilkammer. Für den Ersatz von Auslagen und für die Vergütung der vom Gericht bestellten Prüfer gilt § 318 Abs. 5 des Handelsgesetzbuchs.
 
 (2) § 10 Abs. 3 bis 5 des Umwandlungsgesetzes gilt entsprechend.
 
-
-## § 293d – Auswahl, Stellung und Verantwortlichkeit der Vertragsprüfer
+# § 293d – Auswahl, Stellung und Verantwortlichkeit der Vertragsprüfer
 
 (1) Für die Auswahl und das Auskunftsrecht der Vertragsprüfer gelten § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Das Auskunftsrecht besteht gegenüber den vertragschließenden Unternehmen und gegenüber einem Konzernunternehmen sowie einem abhängigen und einem herrschenden Unternehmen.
 
 (2) Für die Verantwortlichkeit der Vertragsprüfer, ihrer Gehilfen und der bei der Prüfung mitwirkenden gesetzlichen Vertreter einer Prüfungsgesellschaft gilt § 323 des Handelsgesetzbuchs entsprechend. Die Verantwortlichkeit besteht gegenüber den vertragschließenden Unternehmen und deren Anteilsinhabern.
 
-
-## § 293e – Prüfungsbericht
+# § 293e – Prüfungsbericht
 
 (1) Die Vertragsprüfer haben über das Ergebnis der Prüfung schriftlich zu berichten. Der Prüfungsbericht ist mit einer Erklärung darüber abzuschließen, ob der vorgeschlagene Ausgleich oder die vorgeschlagene Abfindung angemessen ist. Dabei ist anzugeben,
 
@@ -4488,8 +4164,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (2) § 293a Abs. 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 293f – Vorbereitung der Hauptversammlung
+# § 293f – Vorbereitung der Hauptversammlung
 
 (1) Von der Einberufung der Hauptversammlung an, die über die Zustimmung zu dem Unternehmensvertrag beschließen soll, sind in dem Geschäftsraum jeder der beteiligten Aktiengesellschaften oder Kommanditgesellschaften auf Aktien zur Einsicht der Aktionäre auszulegen
 
@@ -4503,8 +4178,7 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Die Verpflichtungen nach den Absätzen 1 und 2 entfallen, wenn die in Absatz 1 bezeichneten Unterlagen für denselben Zeitraum über die Internetseite der Gesellschaft zugänglich sind.
 
-
-## § 293g – Durchführung der Hauptversammlung
+# § 293g – Durchführung der Hauptversammlung
 
 (1) In der Hauptversammlung sind die in § 293f Abs. 1 bezeichneten Unterlagen zugänglich zu machen.
 
@@ -4512,29 +4186,25 @@ Bei diesen Beschlußfassungen kann ihr Stimmrecht auch nicht durch einen anderen
 
 (3) Jedem Aktionär ist auf Verlangen in der Hauptversammlung Auskunft auch über alle für den Vertragsschluß wesentlichen Angelegenheiten des anderen Vertragsteils zu geben.
 
-
-## § 294 – Eintragung. Wirksamwerden
+# § 294 – Eintragung. Wirksamwerden
 
 Der Vorstand der Gesellschaft hat das Bestehen und die Art des Unternehmensvertrages sowie den Namen des anderen Vertragsteils zur Eintragung in das Handelsregister anzumelden; beim Bestehen einer Vielzahl von Teilgewinnabführungsverträgen kann anstelle des Namens des anderen Vertragsteils auch eine andere Bezeichnung eingetragen werden, die den jeweiligen Teilgewinnabführungsvertrag konkret bestimmt. Der Anmeldung sind der Vertrag sowie, wenn er nur mit Zustimmung der Hauptversammlung des anderen Vertragsteils wirksam wird, die Niederschrift dieses Beschlusses und ihre Anlagen in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
 
 (2) Der Vertrag wird erst wirksam, wenn sein Bestehen in das Handelsregister des Sitzes der Gesellschaft eingetragen worden ist.
 
-
-## § 295 – Änderung
+# § 295 – Änderung
 
 (1) Ein Unternehmensvertrag kann nur mit Zustimmung der Hauptversammlung geändert werden. §§ 293 bis 294 gelten sinngemäß.
 
 (2) Die Zustimmung der Hauptversammlung der Gesellschaft zu einer Änderung der Bestimmungen des Vertrags, die zur Leistung eines Ausgleichs an die außenstehenden Aktionäre der Gesellschaft oder zum Erwerb ihrer Aktien verpflichten, bedarf, um wirksam zu werden, eines Sonderbeschlusses der außenstehenden Aktionäre. Für den Sonderbeschluß gilt § 293 Abs. 1 Satz 2 und 3. Jedem außenstehenden Aktionär ist auf Verlangen in der Versammlung, die über die Zustimmung beschließt, Auskunft auch über alle für die Änderung wesentlichen Angelegenheiten des anderen Vertragsteils zu geben.
 
-
-## § 296 – Aufhebung
+# § 296 – Aufhebung
 
 (1) Ein Unternehmensvertrag kann nur zum Ende des Geschäftsjahrs oder des sonst vertraglich bestimmten Abrechnungszeitraums aufgehoben werden. Eine rückwirkende Aufhebung ist unzulässig. Die Aufhebung bedarf der schriftlichen Form.
 
 (2) Ein Vertrag, der zur Leistung eines Ausgleichs an die außenstehenden Aktionäre oder zum Erwerb ihrer Aktien verpflichtet, kann nur aufgehoben werden, wenn die außenstehenden Aktionäre durch Sonderbeschluß zustimmen. Für den Sonderbeschluß gilt § 293 Abs. 1 Satz 2 und 3, § 295 Abs. 2 Satz 3 sinngemäß.
 
-
-## § 297 – Kündigung
+# § 297 – Kündigung
 
 (1) Ein Unternehmensvertrag kann aus wichtigem Grund ohne Einhaltung einer Kündigungsfrist gekündigt werden. Ein wichtiger Grund liegt namentlich vor, wenn der andere Vertragsteil voraussichtlich nicht in der Lage sein wird, seine auf Grund des Vertrags bestehenden Verpflichtungen zu erfüllen.
 
@@ -4542,18 +4212,15 @@ Der Vorstand der Gesellschaft hat das Bestehen und die Art des Unternehmensvertr
 
 (3) Die Kündigung bedarf der schriftlichen Form.
 
-
-## § 298 – Anmeldung und Eintragung
+# § 298 – Anmeldung und Eintragung
 
 Der Vorstand der Gesellschaft hat die Beendigung eines Unternehmensvertrags, den Grund und den Zeitpunkt der Beendigung unverzüglich zur Eintragung in das Handelsregister anzumelden.
 
-
-## § 299 – Ausschluß von Weisungen
+# § 299 – Ausschluß von Weisungen
 
 Auf Grund eines Unternehmensvertrags kann der Gesellschaft nicht die Weisung erteilt werden, den Vertrag zu ändern, aufrechtzuerhalten oder zu beendigen.
 
-
-## § 300 – Gesetzliche Rücklage
+# § 300 – Gesetzliche Rücklage
 
 In die gesetzliche Rücklage sind an Stelle des in § 150 Abs. 2 bestimmten Betrags einzustellen,
 
@@ -4563,13 +4230,11 @@ In die gesetzliche Rücklage sind an Stelle des in § 150 Abs. 2 bestimmten Betr
 
 3. wenn ein Beherrschungsvertrag besteht, ohne daß die Gesellschaft auch zur Abführung ihres ganzen Gewinns verpflichtet ist, der zur Auffüllung der gesetzlichen Rücklage nach Nummer 1 erforderliche Betrag, mindestens aber der in § 150 Abs. 2 oder, wenn die Gesellschaft verpflichtet ist, ihren Gewinn zum Teil abzuführen, der in Nummer 2 bestimmte Betrag.
 
-
-## § 301 – Höchstbetrag der Gewinnabführung
+# § 301 – Höchstbetrag der Gewinnabführung
 
 Eine Gesellschaft kann, gleichgültig welche Vereinbarungen über die Berechnung des abzuführenden Gewinns getroffen worden sind, als ihren Gewinn höchstens den ohne die Gewinnabführung entstehenden Jahresüberschuss, vermindert um einen Verlustvortrag aus dem Vorjahr, um den Betrag, der nach § 300 in die gesetzlichen Rücklagen einzustellen ist, und den nach § 268 Abs. 8 des Handelsgesetzbuchs ausschüttungsgesperrten Betrag, abführen. Sind während der Dauer des Vertrags Beträge in andere Gewinnrücklagen eingestellt worden, so können diese Beträge den anderen Gewinnrücklagen entnommen und als Gewinn abgeführt werden.
 
-
-## § 302 – Verlustübernahme
+# § 302 – Verlustübernahme
 
 (1) Besteht ein Beherrschungs- oder ein Gewinnabführungsvertrag, so hat der andere Vertragsteil jeden während der Vertragsdauer sonst entstehenden Jahresfehlbetrag auszugleichen, soweit dieser nicht dadurch ausgeglichen wird, daß den anderen Gewinnrücklagen Beträge entnommen werden, die während der Vertragsdauer in sie eingestellt worden sind.
 
@@ -4579,8 +4244,7 @@ Eine Gesellschaft kann, gleichgültig welche Vereinbarungen über die Berechnung
 
 (4) Die Ansprüche aus diesen Vorschriften verjähren in zehn Jahren seit dem Tag, an dem die Eintragung der Beendigung des Vertrags in das Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist.
 
-
-## § 303 – Gläubigerschutz
+# § 303 – Gläubigerschutz
 
 (1) Endet ein Beherrschungs- oder ein Gewinnabführungsvertrag, so hat der andere Vertragsteil den Gläubigern der Gesellschaft, deren Forderungen begründet worden sind, bevor die Eintragung der Beendigung des Vertrags in das Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist, Sicherheit zu leisten, wenn sie sich binnen sechs Monaten nach der Bekanntmachung der Eintragung zu diesem Zweck bei ihm melden. Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses Recht hinzuweisen.
 
@@ -4588,8 +4252,7 @@ Eine Gesellschaft kann, gleichgültig welche Vereinbarungen über die Berechnung
 
 (3) Statt Sicherheit zu leisten, kann der andere Vertragsteil sich für die Forderung verbürgen. § 349 des Handelsgesetzbuchs über den Ausschluß der Einrede der Vorausklage ist nicht anzuwenden.
 
-
-## § 304 – Angemessener Ausgleich
+# § 304 – Angemessener Ausgleich
 
 (1) Ein Gewinnabführungsvertrag muß einen angemessenen Ausgleich für die außenstehenden Aktionäre durch eine auf die Anteile am Grundkapital bezogene wiederkehrende Geldleistung (Ausgleichszahlung) vorsehen. Ein Beherrschungsvertrag muß, wenn die Gesellschaft nicht auch zur Abführung ihres ganzen Gewinns verpflichtet ist, den außenstehenden Aktionären als angemessenen Ausgleich einen bestimmten jährlichen Gewinnanteil nach der für die Ausgleichszahlung bestimmten Höhe garantieren. Von der Bestimmung eines angemessenen Ausgleichs kann nur abgesehen werden, wenn die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung über den Vertrag keinen außenstehenden Aktionär hat.
 
@@ -4599,8 +4262,7 @@ Eine Gesellschaft kann, gleichgültig welche Vereinbarungen über die Berechnung
 
 (4) Bestimmt das Gericht den Ausgleich, so kann der andere Vertragsteil den Vertrag binnen zwei Monaten nach Rechtskraft der Entscheidung ohne Einhaltung einer Kündigungsfrist kündigen.
 
-
-## § 305 – Abfindung
+# § 305 – Abfindung
 
 (1) Außer der Verpflichtung zum Ausgleich nach § 304 muß ein Beherrschungs- oder ein Gewinnabführungsvertrag die Verpflichtung des anderen Vertragsteils enthalten, auf Verlangen eines außenstehenden Aktionärs dessen Aktien gegen eine im Vertrag bestimmte angemessene Abfindung zu erwerben.
 
@@ -4620,18 +4282,15 @@ vorsehen.
 
 (5) Die Anfechtung des Beschlusses, durch den die Hauptversammlung der Gesellschaft dem Vertrag oder einer unter § 295 Abs. 2 fallenden Änderung des Vertrags zugestimmt hat, kann nicht darauf gestützt werden, daß der Vertrag keine angemessene Abfindung vorsieht. Sieht der Vertrag überhaupt keine oder eine den Absätzen 1 bis 3 nicht entsprechende Abfindung vor, so hat das in § 2 des Spruchverfahrensgesetzes bestimmte Gericht auf Antrag die vertraglich zu gewährende Abfindung zu bestimmen. Dabei hat es in den Fällen des Absatzes 2 Nr. 2, wenn der Vertrag die Gewährung von Aktien der herrschenden oder mit Mehrheit beteiligten Gesellschaft vorsieht, das Verhältnis, in dem diese Aktien zu gewähren sind, wenn der Vertrag nicht die Gewährung von Aktien der herrschenden oder mit Mehrheit beteiligten Gesellschaft vorsieht, die angemessene Barabfindung zu bestimmen. § 304 Abs. 4 gilt sinngemäß.
 
-
-## § 306
+# § 306
 
 (weggefallen)
 
-
-## § 307 – Vertragsbeendigung zur Sicherung außenstehender Aktionäre
+# § 307 – Vertragsbeendigung zur Sicherung außenstehender Aktionäre
 
 Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung über einen Beherrschungs- oder Gewinnabführungsvertrag keinen außenstehenden Aktionär, so endet der Vertrag spätestens zum Ende des Geschäftsjahrs, in dem ein außenstehender Aktionär beteiligt ist.
 
-
-## § 308 – Leitungsmacht
+# § 308 – Leitungsmacht
 
 (1) Besteht ein Beherrschungsvertrag, so ist das herrschende Unternehmen berechtigt, dem Vorstand der Gesellschaft hinsichtlich der Leitung der Gesellschaft Weisungen zu erteilen. Bestimmt der Vertrag nichts anderes, so können auch Weisungen erteilt werden, die für die Gesellschaft nachteilig sind, wenn sie den Belangen des herrschenden Unternehmens oder der mit ihm und der Gesellschaft konzernverbundenen Unternehmen dienen.
 
@@ -4639,8 +4298,7 @@ Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung ü
 
 (3) Wird der Vorstand angewiesen, ein Geschäft vorzunehmen, das nur mit Zustimmung des Aufsichtsrats der Gesellschaft vorgenommen werden darf, und wird diese Zustimmung nicht innerhalb einer angemessenen Frist erteilt, so hat der Vorstand dies dem herrschenden Unternehmen mitzuteilen. Wiederholt das herrschende Unternehmen nach dieser Mitteilung die Weisung, so ist die Zustimmung des Aufsichtsrats nicht mehr erforderlich; die Weisung darf, wenn das herrschende Unternehmen einen Aufsichtsrat hat, nur mit dessen Zustimmung wiederholt werden.
 
-
-## § 309 – Verantwortlichkeit der gesetzlichen Vertreter des herrschenden Unternehmens
+# § 309 – Verantwortlichkeit der gesetzlichen Vertreter des herrschenden Unternehmens
 
 (1) Besteht ein Beherrschungsvertrag, so haben die gesetzlichen Vertreter (beim Einzelkaufmann der Inhaber) des herrschenden Unternehmens gegenüber der Gesellschaft bei der Erteilung von Weisungen an diese die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden.
 
@@ -4652,8 +4310,7 @@ Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung ü
 
 (5) Die Ansprüche aus diesen Vorschriften verjähren in fünf Jahren.
 
-
-## § 310 – Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft
+# § 310 – Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft
 
 (1) Die Mitglieder des Vorstands und des Aufsichtsrats der Gesellschaft haften neben dem Ersatzpflichtigen nach § 309 als Gesamtschuldner, wenn sie unter Verletzung ihrer Pflichten gehandelt haben. Ist streitig, ob sie die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewandt haben, so trifft sie die Beweislast.
 
@@ -4663,8 +4320,7 @@ Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung ü
 
 (4) § 309 Abs. 3 bis 5 ist anzuwenden.
 
-
-## § 311 – Schranken des Einflusses
+# § 311 – Schranken des Einflusses
 
 (1) Besteht kein Beherrschungsvertrag, so darf ein herrschendes Unternehmen seinen Einfluß nicht dazu benutzen, eine abhängige Aktiengesellschaft oder Kommanditgesellschaft auf Aktien zu veranlassen, ein für sie nachteiliges Rechtsgeschäft vorzunehmen oder Maßnahmen zu ihrem Nachteil zu treffen oder zu unterlassen, es sei denn, daß die Nachteile ausgeglichen werden.
 
@@ -4672,8 +4328,7 @@ Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung ü
 
 (3) Die §§ 111a bis 111c bleiben unberührt.
 
-
-## § 312 – Bericht des Vorstands über Beziehungen zu verbundenen Unternehmen
+# § 312 – Bericht des Vorstands über Beziehungen zu verbundenen Unternehmen
 
 (1) Besteht kein Beherrschungsvertrag, so hat der Vorstand einer abhängigen Gesellschaft in den ersten drei Monaten des Geschäftsjahrs einen Bericht über die Beziehungen der Gesellschaft zu verbundenen Unternehmen aufzustellen. In dem Bericht sind alle Rechtsgeschäfte, welche die Gesellschaft im vergangenen Geschäftsjahr mit dem herrschenden Unternehmen oder einem mit ihm verbundenen Unternehmen oder auf Veranlassung oder im Interesse dieser Unternehmen vorgenommen hat, und alle anderen Maßnahmen, die sie auf Veranlassung oder im Interesse dieser Unternehmen im vergangenen Geschäftsjahr getroffen oder unterlassen hat, aufzuführen. Bei den Rechtsgeschäften sind Leistung und Gegenleistung, bei den Maßnahmen die Gründe der Maßnahme und deren Vorteile und Nachteile für die Gesellschaft anzugeben. Bei einem Ausgleich von Nachteilen ist im einzelnen anzugeben, wie der Ausgleich während des Geschäftsjahrs tatsächlich erfolgt ist, oder auf welche Vorteile der Gesellschaft ein Rechtsanspruch gewährt worden ist.
 
@@ -4681,8 +4336,7 @@ Hat die Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung ü
 
 (3) Am Schluß des Berichts hat der Vorstand zu erklären, ob die Gesellschaft nach den Umständen, die ihm in dem Zeitpunkt bekannt waren, in dem das Rechtsgeschäft vorgenommen oder die Maßnahme getroffen oder unterlassen wurde, bei jedem Rechtsgeschäft eine angemessene Gegenleistung erhielt und dadurch, daß die Maßnahme getroffen oder unterlassen wurde, nicht benachteiligt wurde. Wurde die Gesellschaft benachteiligt, so hat er außerdem zu erklären, ob die Nachteile ausgeglichen worden sind. Die Erklärung ist auch in den Lagebericht aufzunehmen.
 
-
-## § 313 – Prüfung durch den Abschlußprüfer
+# § 313 – Prüfung durch den Abschlußprüfer
 
 (1) Ist der Jahresabschluß durch einen Abschlußprüfer zu prüfen, so ist gleichzeitig mit dem Jahresabschluß und dem Lagebericht auch der Bericht über die Beziehungen zu verbundenen Unternehmen dem Abschlußprüfer vorzulegen. Er hat zu prüfen, ob
 
@@ -4713,8 +4367,7 @@ Führt der Bericht kein Rechtsgeschäft auf, so ist Nummer 2, führt er keine Ma
 
 (5) Der Abschlußprüfer hat den Bestätigungsvermerk mit Angabe von Ort und Tag zu unterzeichnen. Der Bestätigungsvermerk ist auch in den Prüfungsbericht aufzunehmen.
 
-
-## § 314 – Prüfung durch den Aufsichtsrat
+# § 314 – Prüfung durch den Aufsichtsrat
 
 (1) Der Vorstand hat den Bericht über die Beziehungen zu verbundenen Unternehmen unverzüglich nach dessen Aufstellung dem Aufsichtsrat vorzulegen. Dieser Bericht und, wenn der Jahresabschluss durch einen Abschlussprüfer zu prüfen ist, der Prüfungsbericht des Abschlussprüfers sind auch jedem Aufsichtsratsmitglied oder, wenn der Aufsichtsrat dies beschlossen hat, den Mitgliedern eines Ausschusses zu übermitteln.
 
@@ -4724,8 +4377,7 @@ Führt der Bericht kein Rechtsgeschäft auf, so ist Nummer 2, führt er keine Ma
 
 (4) Ist der Jahresabschluss durch einen Abschlussprüfer zu prüfen, so hat dieser an den Verhandlungen des Aufsichtsrats oder eines Ausschusses über den Bericht über die Beziehungen zu verbundenen Unternehmen teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung zu berichten.
 
-
-## § 315 – Sonderprüfung
+# § 315 – Sonderprüfung
 
 Auf Antrag eines Aktionärs hat das Gericht Sonderprüfer zur Prüfung der geschäftlichen Beziehungen der Gesellschaft zu dem herrschenden Unternehmen oder einem mit ihm verbundenen Unternehmen zu bestellen, wenn
 
@@ -4737,13 +4389,11 @@ Auf Antrag eines Aktionärs hat das Gericht Sonderprüfer zur Prüfung der gesch
 
 Liegen sonstige Tatsachen vor, die den Verdacht einer pflichtwidrigen Nachteilszufügung rechtfertigen, kann der Antrag auch von Aktionären gestellt werden, deren Anteile zusammen den Schwellenwert des § 142 Abs. 2 erreichen, wenn sie glaubhaft machen, dass sie seit mindestens drei Monaten vor dem Tage der Antragstellung Inhaber der Aktien sind. Über den Antrag entscheidet das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat. § 142 Abs. 8 gilt entsprechend. Gegen die Entscheidung ist die Beschwerde zulässig. Hat die Hauptversammlung zur Prüfung derselben Vorgänge Sonderprüfer bestellt, so kann jeder Aktionär den Antrag nach § 142 Abs. 4 stellen.
 
-
-## § 316 – Kein Bericht über Beziehungen zu verbundenen Unternehmen bei Gewinnabführungsvertrag
+# § 316 – Kein Bericht über Beziehungen zu verbundenen Unternehmen bei Gewinnabführungsvertrag
 
 §§ 312 bis 315 gelten nicht, wenn zwischen der abhängigen Gesellschaft und dem herrschenden Unternehmen ein Gewinnabführungsvertrag besteht.
 
-
-## § 317 – Verantwortlichkeit des herrschenden Unternehmens und seiner gesetzlichen Vertreter
+# § 317 – Verantwortlichkeit des herrschenden Unternehmens und seiner gesetzlichen Vertreter
 
 (1) Veranlaßt ein herrschendes Unternehmen eine abhängige Gesellschaft, mit der kein Beherrschungsvertrag besteht, ein für sie nachteiliges Rechtsgeschäft vorzunehmen oder zu ihrem Nachteil eine Maßnahme zu treffen oder zu unterlassen, ohne daß es den Nachteil bis zum Ende des Geschäftsjahrs tatsächlich ausgleicht oder der abhängigen Gesellschaft einen Rechtsanspruch auf einen zum Ausgleich bestimmten Vorteil gewährt, so ist es der Gesellschaft zum Ersatz des ihr daraus entstehenden Schadens verpflichtet. Es ist auch den Aktionären zum Ersatz des ihnen daraus entstehenden Schadens verpflichtet, soweit sie, abgesehen von einem Schaden, der ihnen durch Schädigung der Gesellschaft zugefügt worden ist, geschädigt worden sind.
 
@@ -4753,8 +4403,7 @@ Liegen sonstige Tatsachen vor, die den Verdacht einer pflichtwidrigen Nachteilsz
 
 (4) § 309 Abs. 3 bis 5 gilt sinngemäß.
 
-
-## § 318 – Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft
+# § 318 – Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft
 
 (1) Die Mitglieder des Vorstands der Gesellschaft haften neben den nach § 317 Ersatzpflichtigen als Gesamtschuldner, wenn sie es unter Verletzung ihrer Pflichten unterlassen haben, das nachteilige Rechtsgeschäft oder die nachteilige Maßnahme in dem Bericht über die Beziehungen der Gesellschaft zu verbundenen Unternehmen aufzuführen oder anzugeben, daß die Gesellschaft durch das Rechtsgeschäft oder die Maßnahme benachteiligt wurde und der Nachteil nicht ausgeglichen worden war. Ist streitig, ob sie die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewandt haben, so trifft sie die Beweislast.
 
@@ -4764,8 +4413,7 @@ Liegen sonstige Tatsachen vor, die den Verdacht einer pflichtwidrigen Nachteilsz
 
 (4) § 309 Abs. 3 bis 5 gilt sinngemäß.
 
-
-## § 319 – Eingliederung
+# § 319 – Eingliederung
 
 (1) Die Hauptversammlung einer Aktiengesellschaft kann die Eingliederung der Gesellschaft in eine andere Aktiengesellschaft mit Sitz im Inland (Hauptgesellschaft) beschließen, wenn sich alle Aktien der Gesellschaft in der Hand der zukünftigen Hauptgesellschaft befinden. Auf den Beschluß sind die Bestimmungen des Gesetzes und der Satzung über Satzungsänderungen nicht anzuwenden.
 
@@ -4797,8 +4445,7 @@ Der Beschluß kann in dringenden Fällen ohne mündliche Verhandlung ergehen. De
 
 (7) Mit der Eintragung der Eingliederung in das Handelsregister des Sitzes der Gesellschaft wird die Gesellschaft in die Hauptgesellschaft eingegliedert.
 
-
-## § 320 – Eingliederung durch Mehrheitsbeschluß
+# § 320 – Eingliederung durch Mehrheitsbeschluß
 
 (1) Die Hauptversammlung einer Aktiengesellschaft kann die Eingliederung der Gesellschaft in eine andere Aktiengesellschaft mit Sitz im Inland auch dann beschließen, wenn sich Aktien der Gesellschaft, auf die zusammen fünfundneunzig vom Hundert des Grundkapitals entfallen, in der Hand der zukünftigen Hauptgesellschaft befinden. Eigene Aktien und Aktien, die einem anderen für Rechnung der Gesellschaft gehören, sind vom Grundkapital abzusetzen. Für die Eingliederung gelten außer § 319 Abs. 1 Satz 2, Abs. 2 bis 7 die Absätze 2 bis 4.
 
@@ -4816,13 +4463,11 @@ Satz 1 Nr. 2 gilt auch für die Bekanntmachung der zukünftigen Hauptgesellschaf
 
 (5) bis (7) (weggefallen)
 
-
-## § 320a – Wirkungen der Eingliederung
+# § 320a – Wirkungen der Eingliederung
 
 Mit der Eintragung der Eingliederung in das Handelsregister gehen alle Aktien, die sich nicht in der Hand der Hauptgesellschaft befinden, auf diese über. Sind über diese Aktien Aktienurkunden ausgegeben, so verbriefen sie bis zu ihrer Aushändigung an die Hauptgesellschaft nur den Anspruch auf Abfindung.
 
-
-## § 320b – Abfindung der ausgeschiedenen Aktionäre
+# § 320b – Abfindung der ausgeschiedenen Aktionäre
 
 (1) Die ausgeschiedenen Aktionäre der eingegliederten Gesellschaft haben Anspruch auf angemessene Abfindung. Als Abfindung sind ihnen eigene Aktien der Hauptgesellschaft zu gewähren. Ist die Hauptgesellschaft eine abhängige Gesellschaft, so sind den ausgeschiedenen Aktionären nach deren Wahl eigene Aktien der Hauptgesellschaft oder eine angemessene Barabfindung zu gewähren. Werden als Abfindung Aktien der Hauptgesellschaft gewährt, so ist die Abfindung als angemessen anzusehen, wenn die Aktien in dem Verhältnis gewährt werden, in dem bei einer Verschmelzung auf eine Aktie der Gesellschaft Aktien der Hauptgesellschaft zu gewähren wären, wobei Spitzenbeträge durch bare Zuzahlungen ausgeglichen werden können. Die Barabfindung muß die Verhältnisse der Gesellschaft im Zeitpunkt der Beschlußfassung ihrer Hauptversammlung über die Eingliederung berücksichtigen. Die Barabfindung sowie bare Zuzahlungen sind von der Bekanntmachung der Eintragung der Eingliederung an mit jährlich 5 Prozentpunkten über dem jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen; die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
@@ -4830,15 +4475,13 @@ Mit der Eintragung der Eingliederung in das Handelsregister gehen alle Aktien, d
 
 (3) (weggefallen)
 
-
-## § 321 – Gläubigerschutz
+# § 321 – Gläubigerschutz
 
 (1) Den Gläubigern der eingegliederten Gesellschaft, deren Forderungen begründet worden sind, bevor die Eintragung der Eingliederung in das Handelsregister bekanntgemacht worden ist, ist, wenn sie sich binnen sechs Monaten nach der Bekanntmachung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Die Gläubiger sind in der Bekanntmachung der Eintragung auf dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im Falle des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
-
-## § 322 – Haftung der Hauptgesellschaft
+# § 322 – Haftung der Hauptgesellschaft
 
 (1) Von der Eingliederung an haftet die Hauptgesellschaft für die vor diesem Zeitpunkt begründeten Verbindlichkeiten der eingegliederten Gesellschaft den Gläubigern dieser Gesellschaft als Gesamtschuldner. Die gleiche Haftung trifft sie für alle Verbindlichkeiten der eingegliederten Gesellschaft, die nach der Eingliederung begründet werden. Eine entgegenstehende Vereinbarung ist Dritten gegenüber unwirksam.
 
@@ -4848,15 +4491,13 @@ Mit der Eintragung der Eingliederung in das Handelsregister gehen alle Aktien, d
 
 (4) Aus einem gegen die eingegliederte Gesellschaft gerichteten vollstreckbaren Schuldtitel findet die Zwangsvollstreckung gegen die Hauptgesellschaft nicht statt.
 
-
-## § 323 – Leitungsmacht der Hauptgesellschaft und Verantwortlichkeit der Vorstandsmitglieder
+# § 323 – Leitungsmacht der Hauptgesellschaft und Verantwortlichkeit der Vorstandsmitglieder
 
 (1) Die Hauptgesellschaft ist berechtigt, dem Vorstand der eingegliederten Gesellschaft hinsichtlich der Leitung der Gesellschaft Weisungen zu erteilen. § 308 Abs. 2 Satz 1, Abs. 3, §§ 309, 310 gelten sinngemäß. §§ 311 bis 318 sind nicht anzuwenden.
 
 (2) Leistungen der eingegliederten Gesellschaft an die Hauptgesellschaft gelten nicht als Verstoß gegen die §§ 57, 58 und 60.
 
-
-## § 324 – Gesetzliche Rücklage. Gewinnabführung. Verlustübernahme
+# § 324 – Gesetzliche Rücklage. Gewinnabführung. Verlustübernahme
 
 (1) Die gesetzlichen Vorschriften über die Bildung einer gesetzlichen Rücklage, über ihre Verwendung und über die Einstellung von Beträgen in die gesetzliche Rücklage sind auf eingegliederte Gesellschaften nicht anzuwenden.
 
@@ -4864,18 +4505,15 @@ Mit der Eintragung der Eingliederung in das Handelsregister gehen alle Aktien, d
 
 (3) Die Hauptgesellschaft ist verpflichtet, jeden bei der eingegliederten Gesellschaft sonst entstehenden Bilanzverlust auszugleichen, soweit dieser den Betrag der Kapitalrücklagen und der Gewinnrücklagen übersteigt.
 
-
-## § 325
+# § 325
 
 \-
 
-
-## § 326 – Auskunftsrecht der Aktionäre der Hauptgesellschaft
+# § 326 – Auskunftsrecht der Aktionäre der Hauptgesellschaft
 
 Jedem Aktionär der Hauptgesellschaft ist über Angelegenheiten der eingegliederten Gesellschaft ebenso Auskunft zu erteilen wie über Angelegenheiten der Hauptgesellschaft.
 
-
-## § 327 – Ende der Eingliederung
+# § 327 – Ende der Eingliederung
 
 (1) Die Eingliederung endet
 
@@ -4893,15 +4531,13 @@ Jedem Aktionär der Hauptgesellschaft ist über Angelegenheiten der eingeglieder
 
 (4) Endet die Eingliederung, so haftet die frühere Hauptgesellschaft für die bis dahin begründeten Verbindlichkeiten der bisher eingegliederten Gesellschaft, wenn sie vor Ablauf von fünf Jahren nach dem Ende der Eingliederung fällig und daraus Ansprüche gegen die frühere Hauptgesellschaft in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines Verwaltungsakts. Die Frist beginnt mit dem Tag, an dem die Eintragung des Endes der Eingliederung in das Handelsregister nach § 10 des Handelsgesetzbuchs bekannt gemacht worden ist. Die für die Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden. Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit die frühere Hauptgesellschaft den Anspruch schriftlich anerkannt hat.
 
-
-## § 327a – Übertragung von Aktien gegen Barabfindung
+# § 327a – Übertragung von Aktien gegen Barabfindung
 
 (1) Die Hauptversammlung einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien kann auf Verlangen eines Aktionärs, dem Aktien der Gesellschaft in Höhe von 95 vom Hundert des Grundkapitals gehören (Hauptaktionär), die Übertragung der Aktien der übrigen Aktionäre (Minderheitsaktionäre) auf den Hauptaktionär gegen Gewährung einer angemessenen Barabfindung beschließen. § 285 Abs. 2 Satz 1 findet keine Anwendung.
 
 (2) Für die Feststellung, ob dem Hauptaktionär 95 vom Hundert der Aktien gehören, gilt § 16 Abs. 2 und 4.
 
-
-## § 327b – Barabfindung
+# § 327b – Barabfindung
 
 (1) Der Hauptaktionär legt die Höhe der Barabfindung fest; sie muss die Verhältnisse der Gesellschaft im Zeitpunkt der Beschlussfassung ihrer Hauptversammlung berücksichtigen. Der Vorstand hat dem Hauptaktionär alle dafür notwendigen Unterlagen zur Verfügung zu stellen und Auskünfte zu erteilen.
 
@@ -4909,8 +4545,7 @@ Jedem Aktionär der Hauptgesellschaft ist über Angelegenheiten der eingeglieder
 
 (3) Vor Einberufung der Hauptversammlung hat der Hauptaktionär dem Vorstand die Erklärung eines im Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten Kreditinstituts zu übermitteln, durch die das Kreditinstitut die Gewährleistung für die Erfüllung der Verpflichtung des Hauptaktionärs übernimmt, den Minderheitsaktionären nach Eintragung des Übertragungsbeschlusses unverzüglich die festgelegte Barabfindung für die übergegangenen Aktien zu zahlen.
 
-
-## § 327c – Vorbereitung der Hauptversammlung
+# § 327c – Vorbereitung der Hauptversammlung
 
 (1) Die Bekanntmachung der Übertragung als Gegenstand der Tagesordnung hat folgende Angaben zu enthalten:
 
@@ -4934,13 +4569,11 @@ Jedem Aktionär der Hauptgesellschaft ist über Angelegenheiten der eingeglieder
 
 (5) Die Verpflichtungen nach den Absätzen 3 und 4 entfallen, wenn die in Absatz 3 bezeichneten Unterlagen für denselben Zeitraum über die Internetseite der Gesellschaft zugänglich sind.
 
-
-## § 327d – Durchführung der Hauptversammlung
+# § 327d – Durchführung der Hauptversammlung
 
 In der Hauptversammlung sind die in § 327c Abs. 3 bezeichneten Unterlagen zugänglich zu machen. Der Vorstand kann dem Hauptaktionär Gelegenheit geben, den Entwurf des Übertragungsbeschlusses und die Bemessung der Höhe der Barabfindung zu Beginn der Verhandlung mündlich zu erläutern.
 
-
-## § 327e – Eintragung des Übertragungsbeschlusses
+# § 327e – Eintragung des Übertragungsbeschlusses
 
 (1) Der Vorstand hat den Übertragungsbeschluss zur Eintragung in das Handelsregister anzumelden. Der Anmeldung sind die Niederschrift des Übertragungsbeschlusses und seine Anlagen in Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen.
 
@@ -4948,13 +4581,11 @@ In der Hauptversammlung sind die in § 327c Abs. 3 bezeichneten Unterlagen zugä
 
 (3) Mit der Eintragung des Übertragungsbeschlusses in das Handelsregister gehen alle Aktien der Minderheitsaktionäre auf den Hauptaktionär über. Sind über diese Aktien Aktienurkunden ausgegeben, so verbriefen sie bis zu ihrer Aushändigung an den Hauptaktionär nur den Anspruch auf Barabfindung.
 
-
-## § 327f – Gerichtliche Nachprüfung der Abfindung
+# § 327f – Gerichtliche Nachprüfung der Abfindung
 
 Die Anfechtung des Übertragungsbeschlusses kann nicht auf § 243 Abs. 2 oder darauf gestützt werden, dass die durch den Hauptaktionär festgelegte Barabfindung nicht angemessen ist. Ist die Barabfindung nicht angemessen, so hat das in § 2 des Spruchverfahrensgesetzes bestimmte Gericht auf Antrag die angemessene Barabfindung zu bestimmen. Das Gleiche gilt, wenn der Hauptaktionär eine Barabfindung nicht oder nicht ordnungsgemäß angeboten hat und eine hierauf gestützte Anfechtungsklage innerhalb der Anfechtungsfrist nicht erhoben, zurückgenommen oder rechtskräftig abgewiesen worden ist.
 
-
-## § 328 – Beschränkung der Rechte
+# § 328 – Beschränkung der Rechte
 
 (1) Sind eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien und ein anderes Unternehmen wechselseitig beteiligte Unternehmen, so können, sobald dem einen Unternehmen das Bestehen der wechselseitigen Beteiligung bekannt geworden ist oder ihm das andere Unternehmen eine Mitteilung nach § 20 Abs. 3 oder § 21 Abs. 1 gemacht hat, Rechte aus den Anteilen, die ihm an dem anderen Unternehmen gehören, nur für höchstens den vierten Teil aller Anteile des anderen Unternehmens ausgeübt werden. Dies gilt nicht für das Recht auf neue Aktien bei einer Kapitalerhöhung aus Gesellschaftsmitteln. § 16 Abs. 4 ist anzuwenden.
 
@@ -4964,50 +4595,41 @@ Die Anfechtung des Übertragungsbeschlusses kann nicht auf § 243 Abs. 2 oder da
 
 (4) Sind eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien und ein anderes Unternehmen wechselseitig beteiligte Unternehmen, so haben die Unternehmen einander unverzüglich die Höhe ihrer Beteiligung und jede Änderung schriftlich mitzuteilen.
 
+# §§ 329 bis 336 – ----
 
-## §§ 329 bis 336 – ----
-
-
-## § 337
+# § 337
 
 (weggefallen)
 
-
-## § 338
+# § 338
 
 \-
 
-
-## § 394 – Berichte der Aufsichtsratsmitglieder
+# § 394 – Berichte der Aufsichtsratsmitglieder
 
 Aufsichtsratsmitglieder, die auf Veranlassung einer Gebietskörperschaft in den Aufsichtsrat gewählt oder entsandt worden sind, unterliegen hinsichtlich der Berichte, die sie der Gebietskörperschaft zu erstatten haben, keiner Verschwiegenheitspflicht. Für vertrauliche Angaben und Geheimnisse der Gesellschaft, namentlich Betriebs- oder Geschäftsgeheimnisse, gilt dies nicht, wenn ihre Kenntnis für die Zwecke der Berichte nicht von Bedeutung ist. Die Berichtspflicht nach Satz 1 kann auf Gesetz, auf Satzung oder auf dem Aufsichtsrat in Textform mitgeteiltem Rechtsgeschäft beruhen.
 
-
-## § 395 – Verschwiegenheitspflicht
+# § 395 – Verschwiegenheitspflicht
 
 (1) Personen, die damit betraut sind, die Beteiligungen einer Gebietskörperschaft zu verwalten oder für eine Gebietskörperschaft die Gesellschaft, die Betätigung der Gebietskörperschaft als Aktionär oder die Tätigkeit der auf Veranlassung der Gebietskörperschaft gewählten oder entsandten Aufsichtsratsmitglieder zu prüfen, haben über vertrauliche Angaben und Geheimnisse der Gesellschaft, namentlich Betriebs- oder Geschäftsgeheimnisse, die ihnen aus Berichten nach § 394 bekanntgeworden sind, Stillschweigen zu bewahren; dies gilt nicht für Mitteilungen im dienstlichen Verkehr.
 
 (2) Bei der Veröffentlichung von Prüfungsergebnissen dürfen vertrauliche Angaben und Geheimnisse der Gesellschaft, namentlich Betriebs- oder Geschäftsgeheimnisse, nicht veröffentlicht werden.
 
-
-## § 396 – Voraussetzungen
+# § 396 – Voraussetzungen
 
 (1) Gefährdet eine Aktiengesellschaft oder Kommanditgesellschaft auf Aktien durch gesetzwidriges Verhalten ihrer Verwaltungsträger das Gemeinwohl und sorgen der Aufsichtsrat und die Hauptversammlung nicht für eine Abberufung der Verwaltungsträger, so kann die Gesellschaft auf Antrag der zuständigen obersten Landesbehörde des Landes, in dem die Gesellschaft ihren Sitz hat, durch Urteil aufgelöst werden. Ausschließlich zuständig für die Klage ist das Landgericht, in dessen Bezirk die Gesellschaft ihren Sitz hat.
 
 (2) Nach der Auflösung findet die Abwicklung nach den §§ 264 bis 273 statt. Den Antrag auf Abberufung oder Bestellung der Abwickler aus einem wichtigen Grund kann auch die in Absatz 1 Satz 1 bestimmte Behörde stellen.
 
-
-## § 397 – Anordnungen bei der Auflösung
+# § 397 – Anordnungen bei der Auflösung
 
 Ist die Auflösungsklage erhoben, so kann das Gericht auf Antrag der in § 396 Abs. 1 Satz 1 bestimmten Behörde durch einstweilige Verfügung die nötigen Anordnungen treffen.
 
-
-## § 398 – Eintragung
+# § 398 – Eintragung
 
 Die Entscheidungen des Gerichts sind dem Registergericht mitzuteilen. Dieses trägt sie, soweit sie eintragungspflichtige Rechtsverhältnisse betreffen, in das Handelsregister ein.
 
-
-## § 399 – Falsche Angaben
+# § 399 – Falsche Angaben
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -5027,8 +4649,7 @@ falsche Angaben macht oder erhebliche Umstände verschweigt.
 
 (2) Ebenso wird bestraft, wer als Mitglied des Vorstands oder des Aufsichtsrats zum Zweck der Eintragung einer Erhöhung des Grundkapitals die in § 210 Abs. 1 Satz 2 vorgeschriebene Erklärung der Wahrheit zuwider abgibt.
 
-
-## § 400 – Unrichtige Darstellung
+# § 400 – Unrichtige Darstellung
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Mitglied des Vorstands oder des Aufsichtsrats oder als Abwickler
 
@@ -5038,15 +4659,13 @@ falsche Angaben macht oder erhebliche Umstände verschweigt.
 
 (2) Ebenso wird bestraft, wer als Gründer oder Aktionär in Aufklärungen oder Nachweisen, die nach den Vorschriften dieses Gesetzes einem Gründungsprüfer oder sonstigen Prüfer zu geben sind, falsche Angaben macht oder erhebliche Umstände verschweigt.
 
-
-## § 401 – Pflichtverletzung bei Verlust, Überschuldung oder Zahlungsunfähigkeit
+# § 401 – Pflichtverletzung bei Verlust, Überschuldung oder Zahlungsunfähigkeit
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer es als Mitglied des Vorstands entgegen § 92 Abs. 1 unterläßt, bei einem Verlust in Höhe der Hälfte des Grundkapitals die Hauptversammlung einzuberufen und ihr dies anzuzeigen.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 402 – Falsche Ausstellung von Berechtigungsnachweisen
+# § 402 – Falsche Ausstellung von Berechtigungsnachweisen
 
 (1) Wer Bescheinigungen, die zum Nachweis des Stimmrechts in einer Hauptversammlung oder in einer gesonderten Versammlung dienen sollen, falsch ausstellt oder verfälscht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft, wenn die Tat nicht in anderen Vorschriften über Urkundenstraftaten mit schwererer Strafe bedroht ist.
 
@@ -5054,15 +4673,13 @@ falsche Angaben macht oder erhebliche Umstände verschweigt.
 
 (3) Der Versuch ist strafbar.
 
-
-## § 403 – Verletzung der Berichtspflicht
+# § 403 – Verletzung der Berichtspflicht
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Prüfer oder als Gehilfe eines Prüfers über das Ergebnis der Prüfung falsch berichtet oder erhebliche Umstände im Bericht verschweigt.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
-
-## § 404 – Verletzung der Geheimhaltungspflicht
+# § 404 – Verletzung der Geheimhaltungspflicht
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr, bei börsennotierten Gesellschaften bis zu zwei Jahren, oder mit Geldstrafe wird bestraft, wer ein Geheimnis der Gesellschaft, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als
 
@@ -5076,8 +4693,7 @@ bekanntgeworden ist, unbefugt offenbart; im Falle der Nummer 2 jedoch nur, wenn 
 
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt. Hat ein Mitglied des Vorstands oder ein Abwickler die Tat begangen, so ist der Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen, so sind der Vorstand oder die Abwickler antragsberechtigt.
 
-
-## § 404a – Verletzung der Pflichten bei Abschlussprüfungen
+# § 404a – Verletzung der Pflichten bei Abschlussprüfungen
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluß und den konsolidierten Abschluß von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) geändert worden ist,
 
@@ -5091,8 +4707,7 @@ bekanntgeworden ist, unbefugt offenbart; im Falle der Nummer 2 jedoch nur, wenn 
 
 2. eine in § 405 Absatz 3c oder 3d bezeichnete Handlung beharrlich wiederholt.
 
-
-## § 405 – Ordnungswidrigkeiten
+# § 405 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer als Mitglied des Vorstands oder des Aufsichtsrats oder als Abwickler
 
@@ -5188,36 +4803,30 @@ b) der Absätze 3b bis 3d bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d S
 
 2. das Bundesamt für Justiz in den übrigen Fällen der Absätze 1 bis 3d.
 
-
-## § 406 – (weggefallen)
+# § 406 – (weggefallen)
 
 \-
 
-
-## § 407 – Zwangsgelder
+# § 407 – Zwangsgelder
 
 (1) Vorstandsmitglieder oder Abwickler, die § 52 Abs. 2 Satz 2 bis 4, § 71c, § 73 Abs. 3 Satz 2, §§ 80, 90, 104 Abs. 1, § 111 Abs. 2, § 145, §§ 170, 171 Abs. 3 oder Abs. 4 Satz 1 in Verbindung mit Abs. 3, §§ 175, 179a Abs. 2 Satz 1 bis 3, 214 Abs. 1, § 246 Abs. 4, §§ 248a, 259 Abs. 5, § 268 Abs. 4, § 270 Abs. 1, § 273 Abs. 2, §§ 293f, 293g Abs. 1, § 312 Abs. 1, § 313 Abs. 1, § 314 Abs. 1 nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 14 des Handelsgesetzbuchs bleibt unberührt. Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 
 (2) Die Anmeldungen zum Handelsregister nach den §§ 36, 45, 52, 181 Abs. 1, §§ 184, 188, 195, 210, 223, 237 Abs. 4, §§ 274, 294 Abs. 1, § 319 Abs. 3 werden durch Festsetzung von Zwangsgeld nicht erzwungen.
 
-
-## § 407a – Mitteilungen an die Abschlussprüferaufsichtsstelle
+# § 407a – Mitteilungen an die Abschlussprüferaufsichtsstelle
 
 (1) Die nach § 405 Absatz 5 zuständige Verwaltungsbehörde übermittelt der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 405 Absatz 3b bis 3d.
 
 (2) In Strafverfahren, die eine Straftat nach § 404a zum Gegenstand haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf das eingelegte Rechtsmittel zu übermitteln.
 
-
-## § 408 – Strafbarkeit persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien
+# § 408 – Strafbarkeit persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien
 
 Die §§ 399 bis 407 gelten sinngemäß für die Kommanditgesellschaft auf Aktien. Soweit sie Vorstandsmitglieder betreffen, gelten sie bei der Kommanditgesellschaft auf Aktien für die persönlich haftenden Gesellschafter.
 
-
-## § 409 – Geltung in Berlin
+# § 409 – Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 410 – Inkrafttreten
+# § 410 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1966 in Kraft.

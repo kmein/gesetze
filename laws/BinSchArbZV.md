@@ -1,27 +1,21 @@
-# [BinSchArbZV] Verordnung über die Arbeitszeit in der Binnenschifffahrt   (Binnenschifffahrts-Arbeitszeitverordnung - BinSchArbZV)
-
-Ausfertigungsdatum: 19.07.2017
-
+% Verordnung über die Arbeitszeit in der Binnenschifffahrt   (Binnenschifffahrts-Arbeitszeitverordnung - BinSchArbZV)
+% Ausfertigungsdatum: 19.07.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 Absatz 1 des Arbeitszeitgesetzes, der durch Artikel 12a Nummer 1 des Gesetzes vom 11. November 2016 (BGBl. I S. 2500) neu gefasst worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für Arbeitnehmer und Arbeitnehmerinnen, die als Mitglied der Besatzung oder des Bordpersonals an Bord eines Fahrzeugs beschäftigt sind, das in der Bundesrepublik Deutschland in der gewerblichen Binnenschifffahrt betrieben wird. Arbeitnehmer und Arbeitnehmerinnen im Sinne dieser Verordnung sind auch die zu ihrer Berufsbildung Beschäftigten sowie Schiffsführer und Schiffsführerinnen, die keine Binnenschifffahrtsunternehmer und -unternehmerinnen nach § 3 Nummer 3 sind.
 
 (2) Die Sozialpartner können vereinbaren, mobile Arbeitnehmer und Arbeitnehmerinnen, deren Arbeitsbedingungen durch Tarifverträge geregelt sind und die an Bord eines Fahrzeugs beschäftigt sind, das in der Bundesrepublik Deutschland außerhalb der gewerblichen Binnenschifffahrt betrieben wird, in den Geltungsbereich dieser Verordnung einzubeziehen. Dies gilt nur, soweit die Bestimmungen dieser Verordnung für die mobilen Arbeitnehmer und Arbeitnehmerinnen günstiger sind.
 
-
-## § 2 – Anwendung des Arbeitszeitgesetzes
+# § 2 – Anwendung des Arbeitszeitgesetzes
 
 Für die Beschäftigung von Arbeitnehmern und Arbeitnehmerinnen im Sinne des § 1 ist das Arbeitszeitgesetz anzuwenden, soweit im Folgenden nichts anderes geregelt ist.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -53,8 +47,7 @@ b) mindestens 20 Prozent seiner oder ihrer jährlichen Arbeitszeit leistet,
 
 12. "Saison" ein Zeitraum von höchstens neun aufeinander folgenden Monaten innerhalb von zwölf Monaten, in dem Tätigkeiten aufgrund äußerer Umstände, insbesondere wegen Witterungsverhältnissen oder touristischer Nachfrage, an bestimmte Zeiten des Jahres gebunden sind.
 
-
-## § 4 – Arbeitszeit
+# § 4 – Arbeitszeit
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer oder eine Arbeitnehmerin abweichend von den §§ 3, 6 Absatz 2 und § 11 Absatz 2 des Arbeitszeitgesetzes länger als acht Stunden täglich beschäftigen, wenn die Arbeitszeit in jedem Zeitraum von zwölf Monaten (Bezugszeitraum) eine durchschnittliche wöchentliche Arbeitszeit von 48 Stunden nicht überschreitet. Für Arbeitsverhältnisse, deren Dauer kürzer ist als der Bezugszeitraum, hat der Arbeitszeitausgleich auf eine durchschnittliche wöchentliche Arbeitszeit von 48 Stunden innerhalb des Beschäftigungszeitraums zu erfolgen. Bei der Berechnung des Durchschnitts bleiben die gewährten Zeiten des bezahlten Jahresurlaubs, die gesetzlichen Feiertage sowie die Krankheitszeiten unberücksichtigt.
 
@@ -68,8 +61,7 @@ nicht überschreiten. Wenn es in einem Zeitraum von vier Monaten mehr Arbeits- a
 
 (3) Die Arbeitszeit während der Nachtzeit darf abweichend von § 6 Absatz 2 und § 11 Absatz 2 des Arbeitszeitgesetzes 42 Stunden in jedem Zeitraum von sieben Tagen nicht überschreiten.
 
-
-## § 5 – Ruhepausen
+# § 5 – Ruhepausen
 
 (1) Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin im Voraus feststehende Ruhepausen zur Unterbrechung der Arbeitszeit zu gewähren, die abweichend von § 4 Satz 1 des Arbeitszeitgesetzes mindestens
 
@@ -83,8 +75,7 @@ betragen. Spätestens nach einer ununterbrochenen Arbeitszeit von sechs Stunden 
 
 (2) Die Ruhepausen können in Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden.
 
-
-## § 6 – Ruhezeiten
+# § 6 – Ruhezeiten
 
 (1) Der Arbeitgeber hat dem Arbeitnehmer oder der Arbeitnehmerin regelmäßige, ausreichend lange und ununterbrochene Ruhezeiten nach Maßgabe des folgenden Absatzes zu gewähren, damit sichergestellt ist, dass der Arbeitnehmer und die Arbeitnehmerin nicht wegen Übermüdung sich selbst, Kollegen oder sonstige Personen verletzen und weder kurzfristig noch langfristig ihre Gesundheit schädigen.
 
@@ -96,8 +87,7 @@ betragen. Spätestens nach einer ununterbrochenen Arbeitszeit von sechs Stunden 
 
 (3) Sofern Unterschiede hinsichtlich der Ruhezeiten zwischen dieser Verordnung und nationalen oder internationalen Vorschriften zur Sicherheit des Schiffsverkehrs bestehen, hat diejenige Bestimmung zur Ruhezeit Vorrang, die den Arbeitnehmern und Arbeitnehmerinnen ein höheres Maß an Gesundheitsschutz und Sicherheit gewährt.
 
-
-## § 7 – Arbeits- und Ruhetage
+# § 7 – Arbeits- und Ruhetage
 
 (1) Der Arbeitgeber darf einen Arbeitnehmer oder eine Arbeitnehmerin abweichend von § 9 Absatz 1 und § 11 Absatz 3 des Arbeitszeitgesetzes an höchstens 31 aufeinanderfolgenden Arbeitstagen beschäftigen.
 
@@ -119,8 +109,7 @@ betragen. Spätestens nach einer ununterbrochenen Arbeitszeit von sechs Stunden 
 
 (5) Anteilige Ruhetage werden bei der Berechnung der Mindestanzahl von aufeinanderfolgenden Ruhetagen addiert und sind zu gewähren, wenn die Summe der anteiligen Ruhetage einen ganzen Tag ergibt.
 
-
-## § 8 – Saisonarbeit in der Fahrgastschifffahrt
+# § 8 – Saisonarbeit in der Fahrgastschifffahrt
 
 (1) Ein Arbeitgeber, der einen Arbeitnehmer oder eine Arbeitnehmerin während der Saison an Bord eines Fahrgastschiffes
 
@@ -132,15 +121,13 @@ beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der 
 
 (2) In jedem Zeitraum von 31 Tagen muss der Arbeitgeber dem Arbeitnehmer oder der Arbeitnehmerin mindestens zwei Ruhetage tatsächlich gewähren. Die restlichen Ruhetage sind entsprechend einer Vereinbarung innerhalb des Bezugszeitraums nach § 4 Absatz 1 zu gewähren. Die Vereinbarung ist in einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung zu treffen. Besteht keine tarifvertragliche Regelung, ist die Vereinbarung zwischen Arbeitgeber und Arbeitnehmer oder Arbeitnehmerin zu treffen.
 
-
-## § 9 – Notfälle
+# § 9 – Notfälle
 
 (1) Der Schiffsführer oder die Schiffsführerin oder eine stellvertretende Person hat das Recht, die Arbeitsstunden anzuordnen, die für die unmittelbare Sicherheit des Fahrzeugs, der Personen an Bord, der Ladung oder zur Hilfeleistung für andere, in Not befindliche Schiffe oder Personen erforderlich ist. Dies gilt, bis die normale Situation wiederhergestellt ist.
 
 (2) Sobald es tatsächlich möglich ist, hat der Schiffsführer oder die Schiffsführerin oder die stellvertretende Person sicherzustellen, dass alle Arbeitnehmer und Arbeitnehmerinnen, die aufgrund des Absatzes 1 eine vorgeschriebene Ruhezeit nicht einhalten konnten, eine ausreichende Ruhezeit erhalten. Diese Ausgleichsruhezeit muss mindestens der Dauer der Ruhezeitunterbrechung entsprechen.
 
-
-## § 10 – Aufzeichnungspflichten
+# § 10 – Aufzeichnungspflichten
 
 (1) Der Arbeitgeber ist verpflichtet, abweichend von § 16 Absatz 2 des Arbeitszeitgesetzes Aufzeichnungen nach Absatz 2 über die tägliche Arbeits- und Ruhezeit jedes Arbeitnehmers und jeder Arbeitnehmerin zu führen, um eine Kontrolle der Einhaltung der Bestimmungen dieser Verordnung zu ermöglichen.
 
@@ -164,8 +151,7 @@ beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der 
 
 (5) Dem Arbeitnehmer oder der Arbeitnehmerin ist eine Kopie der bestätigten Aufzeichnungen auszuhändigen. Der Arbeitnehmer oder die Arbeitnehmerin hat die Kopien nach der Aushändigung zwölf Monate bei der Arbeit mitzuführen.
 
-
-## § 11 – Arbeitsmedizinische Untersuchungen
+# § 11 – Arbeitsmedizinische Untersuchungen
 
 (1) Arbeitnehmer und Arbeitnehmerinnen sind berechtigt, einmal jährlich an einer arbeitsmedizinischen Untersuchung teilzunehmen.
 
@@ -173,8 +159,7 @@ beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der 
 
 (3) Die Kosten der Untersuchungen hat der Arbeitgeber zu tragen, sofern er die Untersuchungen den Arbeitnehmern und Arbeitnehmerinnen nicht kostenlos durch einen Betriebsarzt oder eine Betriebsärztin oder einen überbetrieblichen Dienst von Betriebsärzten und Betriebsärztinnen anbietet.
 
-
-## § 12 – Arbeitsrhythmus, Sicherheit und Gesundheitsschutz
+# § 12 – Arbeitsrhythmus, Sicherheit und Gesundheitsschutz
 
 (1) Der Arbeitgeber hat die Arbeitszeit menschengerecht zu gestalten, auch in Bezug auf die Pausen während der Arbeitszeit. Er hat eintönige Arbeit und einen maschinenbestimmten Arbeitsrhythmus unter Berücksichtigung der Art der Tätigkeit und der Erfordernisse der Sicherheit und des Gesundheitsschutzes nach Möglichkeit zu vermeiden.
 
@@ -182,8 +167,7 @@ beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der 
 
 (3) Der Arbeitgeber hat abweichend von § 6 Absatz 4 Buchstabe a des Arbeitszeitgesetzes Nachtarbeitnehmer und Nachtarbeitnehmerinnen mit gesundheitlichen Beeinträchtigungen, die nachweislich auf die zu leistende Nachtarbeit zurückzuführen sind, auf einen für sie geeigneten Tagesarbeitsplatz umzusetzen, sofern dem nicht dringende betriebliche Erfordernisse entgegenstehen.
 
-
-## § 13 – Abweichende Regelungen
+# § 13 – Abweichende Regelungen
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
@@ -193,8 +177,7 @@ beschäftigt, darf abweichend von § 7 Absatz 3 und 4 dem Arbeitnehmer oder der 
 
 (2) Im Geltungsbereich eines Tarifvertrags können die vereinbarten tarifvertraglichen Regelungen nach Absatz 1 im Betrieb eines nicht tarifgebundenen Arbeitgebers durch Betriebs- oder Dienstvereinbarung oder, wenn ein Betriebs- oder Personalrat nicht besteht, durch schriftliche Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer oder der Arbeitnehmerin übernommen werden.
 
-
-## § 14 – Ordnungswidrigkeiten
+# § 14 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 22 Absatz 1 Nummer 4 des Arbeitszeitgesetzes handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
@@ -206,12 +189,10 @@ Ordnungswidrig im Sinne des § 22 Absatz 1 Nummer 4 des Arbeitszeitgesetzes hand
 
 4. entgegen § 10 Absatz 4 eine Aufzeichnung nicht oder nicht mindestens 24 Monate aufbewahrt.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2017 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

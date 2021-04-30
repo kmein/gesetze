@@ -1,15 +1,11 @@
-# [TrEinV] Verordnung über die Einsichtnahme in das Transparenzregister  (Transparenzregistereinsichtnahmeverordnung - TrEinV)
-
-Ausfertigungsdatum: 19.12.2017
-
+% Verordnung über die Einsichtnahme in das Transparenzregister  (Transparenzregistereinsichtnahmeverordnung - TrEinV)
+% Ausfertigungsdatum: 19.12.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23 Absatz 5 des Geldwäschegesetzes vom 23. Juni 2017 (BGBl. I S. 1822) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Einsichtnahme in das Transparenzregister
+# § 1 – Einsichtnahme in das Transparenzregister
 
 (1) Die Einsichtnahme in das Transparenzregister ist ausschließlich über die Internetseite des Transparenzregisters www.transparenzregister.de möglich.
 
@@ -23,8 +19,7 @@ Auf Grund des § 23 Absatz 5 des Geldwäschegesetzes vom 23. Juni 2017 (BGBl. I 
 
 (4) Bei einer nach § 23 Absatz 2 des Geldwäschegesetzes beschränkten Einsichtnahme hat die registerführende Stelle auf einem Auszug des Transparenzregisters für eine Vereinigung nach § 20 Absatz 1 des Geldwäschegesetzes oder einer Rechtsgestaltung nach § 21 des Geldwäschegesetzes darauf hinzuweisen, dass Angaben zum wirtschaftlich Berechtigten aufgrund einer Beschränkung ganz oder teilweise nicht eingesehen werden dürfen.
 
-
-## § 2 – Registrierung im Transparenzregister und Registrierungsdaten
+# § 2 – Registrierung im Transparenzregister und Registrierungsdaten
 
 (1) Die Registrierung für die Einsichtnahme in das Transparenzregister ist ausschließlich über die Internetseite des Transparenzregisters www.transparenzregister.de möglich.
 
@@ -56,8 +51,7 @@ d) die E-Mail-Adresse und die Telefonnummer der mit der Registrierung beauftragt
 
 (6) Für die Übermittlung der Registrierungsdaten stellt die registerführende Stelle auf der Internetseite des Transparenzregisters elektronische Formulare zur Verfügung. Diese Formulare sind bei der Übermittlung zu verwenden.
 
-
-## § 3 – Identitätsnachweis bei Registrierung oder Einsichtnahme
+# § 3 – Identitätsnachweis bei Registrierung oder Einsichtnahme
 
 (1) Der Nutzer belegt nach den Vorgaben der registerführenden Stelle innerhalb des Registrierungsvorganges oder des Antrags auf Einsichtnahme seine Identität anhand geeigneter Nachweise.
 
@@ -89,13 +83,11 @@ b) die gültige Kennung für Rechtsträger.
 
 (5) Die nach Absatz 2 oder im Rahmen der Nutzung der Verfahren nach Absatz 4 übermittelten Daten sind zwei Jahre nach Übermittlung an die registerführende Stelle unverzüglich von der registerführenden Stelle zu löschen.
 
-
-## § 4 – Pflicht zur Mitteilung bei Änderung der Registrierungsdaten
+# § 4 – Pflicht zur Mitteilung bei Änderung der Registrierungsdaten
 
 Kommt es zu einer Änderung bei den Registrierungsdaten nach § 2 Absatz 4, so ist der Nutzer verpflichtet, im Transparenzregister die entsprechenden Angaben unverzüglich zu ändern.
 
-
-## § 5 – Antrag auf Einsichtnahme
+# § 5 – Antrag auf Einsichtnahme
 
 (1) Ein Antrag auf Einsichtnahme in das Transparenzregister ist ausschließlich über die Internetseite des Transparenzregisters www.transparenzregister.de möglich.
 
@@ -103,13 +95,11 @@ Kommt es zu einer Änderung bei den Registrierungsdaten nach § 2 Absatz 4, so i
 
 (3) Der Antrag, einschließlich die Bestätigung oder Darlegung zur Berechtigung der Einsichtnahme, ist zwei Jahre nach der Entscheidung über den Antrag von der registerführenden Stelle unverzüglich zu löschen. Andere gesetzliche Bestimmungen über Aufzeichnungs- und Aufbewahrungspflichten bleiben unberührt.
 
-
-## § 6 – Berechtigung zur Einsichtnahme bei Antragstellung durch Behörden
+# § 6 – Berechtigung zur Einsichtnahme bei Antragstellung durch Behörden
 
 Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes einen Antrag auf Einsichtnahme in das Transparenzregister, so hat sie zu bestätigen, dass die Einsichtnahme zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist.
 
-
-## § 7 – Berechtigung zur Einsichtnahme bei Antragstellung durch Verpflichtete
+# § 7 – Berechtigung zur Einsichtnahme bei Antragstellung durch Verpflichtete
 
 (1) Stellt ein Verpflichteter nach § 23 Absatz 1 Satz 1 Nummer 2 des Geldwäschegesetzes einen Antrag auf Einsichtnahme in das Transparenzregister, so hat er darzulegen,
 
@@ -121,8 +111,7 @@ Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes
 
 (3) Die registerführende Stelle kann bei Zweifeln an der Berechtigung des Nutzers weitere Informationen zur Darlegung der Berechtigung anfordern. Die Darlegung kann auf Verlangen der registerführenden Stelle auch durch eidesstattliche Versicherung erfolgen.
 
-
-## § 8 – Berechtigung zur Einsichtnahme bei Antragstellung durch sonstige Personen
+# § 8 – Berechtigung zur Einsichtnahme bei Antragstellung durch sonstige Personen
 
 (1) Stellt eine Person nach § 23 Absatz 1 Satz 1 Nummer 3 des Geldwäschegesetzes einen Antrag auf Einsichtnahme in das Transparenzregister, so hat sie ihr berechtigtes Interesse an der Einsichtnahme darzulegen. Zur Darlegung eines berechtigten Interesses können insbesondere geeignet sein
 
@@ -134,15 +123,13 @@ Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes
 
 (2) Die registerführende Stelle kann bei Zweifeln an der Berechtigung des Nutzers weitere Informationen zur Darlegung der Berechtigung anfordern. Die Darlegung kann auf Verlangen der registerführenden Stelle auch durch eidesstattliche Versicherung erfolgen.
 
-
-## § 9 – Art der Datenübertragung
+# § 9 – Art der Datenübertragung
 
 (1) Die registerführende Stelle bestimmt, welche Verbindung der Datenfernübertragung bei der Übermittlung der Daten nach den §§ 2 bis 8 zu verwenden ist. Die Verbindung der Datenfernübertragung muss nach dem Stand der Technik gesichert sein.
 
 (2) Der Nutzer hat bei der Registrierung und der Antragstellung auf Einsichtnahme in das Transparenzregister sowie bei der Einsichtnahme die Verbindung der Datenfernübertragung zu verwenden, die von der registerführenden Stelle dazu bestimmt ist.
 
-
-## § 10 – Protokollierung der Einsichtnahme
+# § 10 – Protokollierung der Einsichtnahme
 
 (1) Die registerführende Stelle ist verpflichtet, zu protokollieren, welcher Nutzer wann in welche Daten des Transparenzregisters Einsicht genommen hat, damit missbräuchliche Zugriffe auf das Transparenzregister erkannt, unterbunden und verfolgt werden können.
 
@@ -154,8 +141,7 @@ Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes
 
 (3) Die protokollierten Daten sind zwei Jahre nach dem Abruf der im oder über das Transparenzregister zugänglichen Informationen unverzüglich von der registerführenden Stelle zu löschen. Andere gesetzliche Bestimmungen über Aufzeichnungs- und Aufbewahrungspflichten bleiben unberührt.
 
-
-## § 11 – Dokumentation von Daten zur Gebührenabrechnung
+# § 11 – Dokumentation von Daten zur Gebührenabrechnung
 
 (1) Die registerführende Stelle darf für die Abrechnung von Gebühren, soweit es dafür erforderlich ist, folgende Daten verarbeiten:
 
@@ -165,8 +151,7 @@ Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes
 
 (2) Die dokumentierten Daten sind zwei Jahre nach dem Abschluss des Abrechnungsvorgangs zu löschen. Andere gesetzliche Bestimmungen über Aufzeichnungs- und Aufbewahrungspflichten bleiben unberührt.
 
-
-## § 12 – Antrag auf Beschränkung der Einsichtnahme
+# § 12 – Antrag auf Beschränkung der Einsichtnahme
 
 (1) Der Antrag eines wirtschaftlich Berechtigten auf vollständige oder teilweise Beschränkung der Einsichtnahme nach § 23 Absatz 2 des Geldwäschegesetzes bedarf der Schriftform und ist zu begründen. Er kann elektronisch oder auf postalischem Weg gestellt werden. Soll der Antrag elektronisch gestellt werden, so ist er an die E-Mail-Adresse zu senden, die dafür auf der Internetseite des Transparenzregisters www.transparenzregister.de ausgewiesen ist.
 
@@ -186,15 +171,13 @@ Stellt eine Behörde nach § 23 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes
 
 (+++ § 12: Zur Anwendung vgl. § 14 Abs. 5 +++)
 
-
-## § 13 – Identitätsnachweis bei Beschränkung der Einsichtnahme
+# § 13 – Identitätsnachweis bei Beschränkung der Einsichtnahme
 
 Der wirtschaftlich Berechtigte belegt nach den Vorgaben der registerführenden Stelle bei Stellung des Antrags auf Beschränkung der Einsichtnahme seine Identität anhand geeigneter Nachweise nach § 3.
 
 (+++ § 13: Zur Anwendung vgl. § 14 Abs. 5 +++)
 
-
-## § 14 – Beschränkung der Einsichtnahme
+# § 14 – Beschränkung der Einsichtnahme
 
 (1) Nach Eingang eines Antrags werden die Daten über den wirtschaftlich Berechtigten für Einsichtnahmen, bei denen eine Beschränkung zulässig ist, unverzüglich von der registerführenden Stelle vorläufig gesperrt, es sei denn, der Antrag ist offensichtlich unzulässig oder unbegründet.
 
@@ -208,8 +191,7 @@ Der wirtschaftlich Berechtigte belegt nach den Vorgaben der registerführenden S
 
 (6) Sind Anträge auf Beschränkung der Einsichtnahme vor dem 23. Dezember 2017 gestellt worden, so hat die registerführende Stelle den Antragsteller auf das Inkrafttreten dieser Verordnung hinzuweisen und ihm eine angemessene Frist, innerhalb derer eine Ergänzung des Antrags möglich ist, zu setzen, bevor sie über den Antrag entscheidet.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.
 

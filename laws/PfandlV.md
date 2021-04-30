@@ -1,20 +1,15 @@
-# [PfandlV] Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher  (Pfandleiherverordnung - PfandlV)
-
-Ausfertigungsdatum: 01.02.1961
-
+% Verordnung über den Geschäftsbetrieb der gewerblichen Pfandleiher  (Pfandleiherverordnung - PfandlV)
+% Ausfertigungsdatum: 01.02.1961
  
-
-## § 1 – Geltungsbereich der Erlaubnis
+# § 1 – Geltungsbereich der Erlaubnis
 
 Die Erlaubnis zum Betrieb des Gewerbes eines Pfandleihers gilt für den Geltungsbereich dieser Verordnung.
 
-
-## § 2 – Anzeige
+# § 2 – Anzeige
 
 Der Pfandleiher hat der zuständigen Behörde bei Beginn des Gewerbebetriebs anzuzeigen, welche Räume er für den Gewerbebetrieb benutzt; ferner hat er jeden Wechsel der für den Gewerbebetrieb benutzten Räume unverzüglich anzuzeigen.
 
-
-## § 3 – Buchführung
+# § 3 – Buchführung
 
 (1) Der Pfandleiher hat über jedes Pfandleihgeschäft und seine Abwicklung nach den Grundsätzen ordnungsmäßiger Buchführung Aufzeichnungen zu machen sowie Unterlagen und Belege zu sammeln. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache vorzunehmen. Die Verpfändungen sind nach ihrer Zeitfolge aufzuzeichnen. § 239 Abs. 2 bis 4 des Handelsgesetzbuchs gilt sinngemäß.
 
@@ -58,13 +53,11 @@ e) Nutzlast (nur für Lastkraftwagen und Kraftfahrzeuganhänger),
 
 (4) Eine nach anderen Vorschriften bestehende Pflicht zur Buchführung und zur Aufbewahrung von Büchern, Aufzeichnungen und Belegen bleibt unberührt.
 
-
-## § 4
+# § 4
 
 (weggefallen)
 
-
-## § 5 – Annahme des Pfandes
+# § 5 – Annahme des Pfandes
 
 (1) Der Pfandleiher darf das Pfand nur annehmen, wenn er mit dem Verpfänder vereinbart, daß
 
@@ -76,8 +69,7 @@ Er darf für die Fälligkeit des Darlehens keine kürzere Frist als drei Monate 
 
 (2) Ist der Überbringer nicht der Verpfänder, so darf der Pfandleiher das Pfand nur annehmen, wenn ihm der Überbringer eine schriftliche Vollmacht des Verpfänders aushändigt.
 
-
-## § 6 – Pfandschein
+# § 6 – Pfandschein
 
 (1) Der Pfandleiher hat dem Verpfänder unverzüglich nach Abschluß des Pfandleihvertrags einen Pfandschein auszuhändigen, der von dem Pfandleiher oder seinem Bevollmächtigten unterzeichnet ist; eine vervielfältigte Unterschrift genügt.
 
@@ -85,18 +77,15 @@ Er darf für die Fälligkeit des Darlehens keine kürzere Frist als drei Monate 
 
 (3) Der Pfandleiher hat dem Verpfänder einen neuen Pfandschein auszuhändigen, wenn der Pfandleihvertrag verlängert oder sonst geändert wird (Erneuerung).
 
-
-## § 7 – Aufbewahrung
+# § 7 – Aufbewahrung
 
 Jedes Pfand ist mit der auf dem Pfandschein angegebenen Nummer des Pfandleihvertrags zu versehen. Bezieht sich der Pfandschein auf mehrere Pfänder, so kann die Nummer auf einer gemeinsamen Umhüllung vermerkt oder an einer die Pfänder zusammenhaltenden Befestigung angebracht werden.
 
-
-## § 8 – Versicherung
+# § 8 – Versicherung
 
 Der Pfandleiher hat das Pfand mindestens zum doppelten Betrag des Darlehens gegen Feuerschäden, Leitungswasserschäden, Einbruchdiebstahl sowie gegen Beraubung zu versichern.
 
-
-## § 9 – Verwertung
+# § 9 – Verwertung
 
 (1) Der Pfandleiher darf sich frühestens einen Monat nach Eintritt der Fälligkeit des gesamten Darlehens aus dem Pfand befriedigen, es sei denn, daß der Verpfänder nach Eintritt der Fälligkeit einer früheren Verwertung zustimmt.
 
@@ -106,8 +95,7 @@ Der Pfandleiher hat das Pfand mindestens zum doppelten Betrag des Darlehens gege
 
 (4) Der Pfandleiher hat zu veranlassen, daß die Versteigerung mindestens eine Woche und höchstens zwei Wochen vor dem für die Versteigerung vorgesehenen Zeitpunkt in einer Tageszeitung, in der üblicherweise amtliche Bekanntmachungen veröffentlicht werden, bekanntgemacht wird. Die Bekanntmachung muß Ort und Zeit der Versteigerung, die allgemeine Bezeichnung der Pfänder, den Namen oder die Firma des Pfandleihers, die Nummern der einzelnen Pfandleihverträge oder die Anfangs- und Endnummern der zur Versteigerung gelangenden Serie sowie den Zeitraum der Verpfändungen ergeben; bei Pfändern, deren Versteigerung bereits in früheren Anzeigen bekanntgemacht worden ist und die nicht versteigert worden sind, genügt an Stelle der Angabe der Nummern und des Zeitraums ein Hinweis auf die früheren Anzeigen.
 
-
-## § 10 – Zinsen und Vergütung
+# § 10 – Zinsen und Vergütung
 
 (1) Der Pfandleiher darf für die Hingabe des Darlehens, für die Kosten seines Geschäftsbetriebs einschließlich der Aufbewahrung, der Versicherung und der Schätzung des Wertes des Pfandes sowie für die Kosten der Pfandverwertung höchstens fordern, vereinbaren oder sich gewähren lassen
 
@@ -135,20 +123,17 @@ Wird das Darlehen in Teilbeträgen zurückgezahlt, sind die Zinsen und die Verg�
 
 (5) Werden mehrere Pfänder gleichzeitig verwertet, so sind die nicht ausscheidbaren notwendigen Kosten der Verwertung (Absatz 1 Nr. 3) im Verhältnis des Gesamterlöses zum Erlös für das einzelne Pfand aufzuteilen.
 
-
-## § 11 – Überschüsse aus der Verwertung
+# § 11 – Überschüsse aus der Verwertung
 
 (1) Der Pfandleiher hat Überschüsse, über die Vereinbarungen nach § 5 Abs. 1 Nr. 2 abgeschlossen sind, spätestens einen Monat nach Ablauf der in § 5 Abs. 1 Nr. 2 bezeichneten Frist an die zuständige Behörde abzuführen; die zuständige Behörde kann auf Antrag des Pfandleihers die in Satz 1 genannte Frist von einem Monat aus wichtigem Grund verlängern. Die abgeführten Überschüsse verfallen dem Fiskus des Landes, in dem die Verpfändung erfolgt ist.
 
 (2) Stehen in den Fällen des Absatzes 1 den Überschüssen Mindererlöse aus früheren Vereinbarungen nach § 5 mit demselben Verpfänder gegenüber, so darf der Pfandleiher sich aus dem Überschuss auch hinsichtlich des Mindererlöses befriedigen.
 
-
-## § 12 – Aushang
+# § 12 – Aushang
 
 Der Pfandleiher hat in seinen Geschäftsräumen an gut sichtbarer Stelle einen Abdruck dieser Verordnung auszuhängen.
 
-
-## § 12a – Ordnungswidrigkeiten
+# § 12a – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -178,30 +163,25 @@ zuwiderhandelt,
 
 9. entgegen § 12 einen Abdruck dieser Verordnung nicht aushängt.
 
-
-## § 13 – (weggefallen)
-
-\-
-
-
-## § 14 – (weggefallen)
+# § 13 – (weggefallen)
 
 \-
 
-
-## § 15 – (weggefallen)
+# § 14 – (weggefallen)
 
 \-
 
+# § 15 – (weggefallen)
 
-## § 16 – Inkrafttreten
+\-
+
+# § 16 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. März 1961 in Kraft.
 
 (2) (weggefallen)
 
-
-## Anlage – (zu § 10 Abs. 1 Nr. 2)
+# Anlage – (zu § 10 Abs. 1 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1976, 1340;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

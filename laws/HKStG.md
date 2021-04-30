@@ -1,10 +1,7 @@
-# [HKStG] Gesetz über die Heimkehrerstiftung  (HKStG)
-
-Ausfertigungsdatum: 21.12.1992
-
+% Gesetz über die Heimkehrerstiftung  (HKStG)
+% Ausfertigungsdatum: 21.12.1992
  
-
-## § 1 – Stiftung
+# § 1 – Stiftung
 
 (1) Die nach § 44 des Kriegsgefangenenentschädigungsgesetzes errichtete rechtsfähige Stiftung des öffentlichen Rechts unter dem Namen "Heimkehrerstiftung - Stiftung für ehemalige Kriegsgefangene -" wird unter der Bezeichnung "Heimkehrerstiftung" fortgeführt.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 21.12.1992
 
 (4) Die Stiftung wird mit Ablauf des 31. Dezember 2007 aufgehoben. Danach ist das Bundesverwaltungsamt für die Durchführung dieses Gesetzes zuständig.
 
-
-## § 2 – Personenkreis
+# § 2 – Personenkreis
 
 (1) Nach diesem Gesetz werden gefördert:
 
@@ -63,8 +59,7 @@ aus dem Ausland in ein anderes ausländisches Staatsgebiet verschleppt wurden.
 
 Die Verurteilung nach den Nummern 5 und 6 muß durch ein deutsches Gericht im Geltungsbereich dieses Gesetzes erfolgt sein. Solange wegen der in den Nummern 5 und 6 genannten Straftaten ein Ermittlungsverfahren schwebt, sind die Entscheidungen über Anträge auf Leistungen nach diesem Gesetz zurückzustellen. Wird ein solches Verfahren eingeleitet, nachdem eine Leistung durch Bescheid zuerkannt, aber noch nicht ausgezahlt ist, so ist die Auszahlung auszusetzen.
 
-
-## § 3 – Leistungen
+# § 3 – Leistungen
 
 (1) Das Bundesverwaltungsamt kann den in § 2 Abs. 1 genannten Personen einmalige Unterstützungen zur Linderung einer Notlage gewähren. Eine Notlage ist gegeben, wenn der Antragsteller nicht in der Lage ist oder es ihm nicht zuzumuten ist, bestimmte dringende Lebensbedürfnisse für sich oder die von ihm zu unterhaltenden Angehörigen mit eigenen Mitteln oder sonstiger Hilfe zu befriedigen. Die Förderung erfolgt nach der Reihenfolge der sozialen Dringlichkeit.
 
@@ -80,8 +75,7 @@ Die Verurteilung nach den Nummern 5 und 6 muß durch ein deutsches Gericht im Ge
 
 (7) Anträge auf Gewährung von Leistungen nach Absatz 1 können bis zum 17. Dezember 2007 gestellt werden.
 
-
-## § 4 – Finanzierung
+# § 4 – Finanzierung
 
 (1) Für Leistungen nach § 3 Abs. 1 werden in den Jahren 2007 bis 2009 jeweils 1.534.000 Euro bereitgestellt. Hierfür können darüber hinaus die der Stiftung für diese Zwecke noch zur Verfügung stehenden Mittel aus dem Stammkapital, aus Rückflüssen von Darlehen, die die Stiftung nach § 46 Abs. 2 des bis zum 31. Dezember 1992 geltenden Kriegsgefangenenentschädigungsgesetzes gewährt hat, und aus den jährlichen Erträgnissen sowie Zuwendungen von dritter Seite verwendet werden.
 
@@ -91,15 +85,12 @@ Die Verurteilung nach den Nummern 5 und 6 muß durch ein deutsches Gericht im Ge
 
 (4) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
+# §§ 5 bis 9 – (weggefallen)
 
-## §§ 5 bis 9 – (weggefallen)
-
-
-## § 10 – Aufsicht
+# § 10 – Aufsicht
 
 Das Bundesministerium des Innern, für Bau und Heimat erlässt allgemeine Verwaltungsvorschriften zur Ausführung dieses Gesetzes durch das Bundesverwaltungsamt.
 
-
-## § 11 – (weggefallen)
+# § 11 – (weggefallen)
 
 \-

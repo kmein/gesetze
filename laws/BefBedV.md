@@ -1,27 +1,21 @@
-# [BefBedV] Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
-
-Ausfertigungsdatum: 27.02.1970
-
+% Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
+% Ausfertigungsdatum: 27.02.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 58 Abs. 1 Nr. 3 des Personenbeförderungsgesetzes vom 21. März 1961 (Bundesgesetzbl. I S. 241), zuletzt geändert durch das Zweite Gesetz zur Änderung des Personenbeförderungsgesetzes vom 8. Mai 1969 (Bundesgesetzbl. I S. 348), wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Die Allgemeinen Beförderungsbedingungen gelten für die Beförderung im Straßenbahn- und Obusverkehr sowie im Linienverkehr mit Kraftfahrzeugen. Die zuständige Genehmigungsbehörde kann in Berücksichtigung besonderer Verhältnisse Anträgen auf Abweichungen von den Bestimmungen dieser Verordnung zustimmen (Besondere Beförderungsbedingungen).
 
 (2)
 
-
-## § 2 – Anspruch auf Beförderung
+# § 2 – Anspruch auf Beförderung
 
 Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbeförderungsgesetzes und den auf Grund dieses Gesetzes erlassenen Rechtsvorschriften eine Beförderungspflicht gegeben ist. Sachen werden nur nach Maßgabe der §§ 11 und 12 befördert.
 
-
-## § 3 – Von der Beförderung ausgeschlossene Personen
+# § 3 – Von der Beförderung ausgeschlossene Personen
 
 (1) Personen, die eine Gefahr für die Sicherheit oder Ordnung des Betriebs oder für die Fahrgäste darstellen, sind von der Beförderung ausgeschlossen. Soweit diese Voraussetzungen vorliegen, sind insbesondere ausgeschlossen
 
@@ -33,8 +27,7 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (2) Nicht schulpflichtige Kinder vor Vollendung des 6. Lebensjahrs können von der Beförderung ausgeschlossen werden, sofern sie nicht auf der ganzen Fahrstrecke von Personen begleitet werden, die mindestens das 6. Lebensjahr vollendet haben; die Vorschriften des Absatzes 1 bleiben unberührt.
 
-
-## § 4 – Verhalten der Fahrgäste
+# § 4 – Verhalten der Fahrgäste
 
 (1) Fahrgäste haben sich bei Benutzung der Betriebsanlagen und Fahrzeuge so zu verhalten, wie es die Sicherheit und Ordnung des Betriebs, ihre eigene Sicherheit und die Rücksicht auf andere Personen gebieten. Anweisungen des Betriebspersonals ist zu folgen.
 
@@ -68,15 +61,13 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (8) Wer mißbräuchlich die Notbremse oder andere Sicherungseinrichtungen betätigt, hat - unbeschadet einer Verfolgung im Straf- oder Bußgeldverfahren und weitergehender zivilrechtlicher Ansprüche - einen Betrag von 15 Euro zu zahlen. Dasselbe gilt, wenn gegen die Untersagung nach Absatz 2 Nr. 3 oder Nr. 7 verstoßen wird.
 
-
-## § 5 – Zuweisen von Wagen und Plätzen
+# § 5 – Zuweisen von Wagen und Plätzen
 
 (1) Das Betriebspersonal kann Fahrgäste auf bestimmte Wagen verweisen, wenn dies aus betrieblichen Gründen oder zur Erfüllung der Beförderungspflicht notwendig ist.
 
 (2) Das Betriebspersonal ist berechtigt, Fahrgästen Plätze zuzuweisen; Anspruch auf einen Sitzplatz besteht nicht. Sitzplätze sind für Schwerbehinderte, in der Gehfähigkeit Beeinträchtigte, ältere oder gebrechliche Personen, werdende Mütter und für Fahrgäste mit kleinen Kindern freizugeben.
 
-
-## § 6 – Beförderungsentgelte, Fahrausweise
+# § 6 – Beförderungsentgelte, Fahrausweise
 
 (1) Für die Beförderung sind die festgesetzten Beförderungsentgelte zu entrichten.
 
@@ -92,8 +83,7 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (7) Beanstandungen des Fahrausweises sind sofort vorzubringen. Spätere Beanstandungen werden nicht berücksichtigt.
 
-
-## § 7 – Zahlungsmittel
+# § 7 – Zahlungsmittel
 
 (1) Das Fahrgeld soll abgezählt bereitgehalten werden. Das Fahrpersonal ist nicht verpflichtet, Geldbeträge über 5 Euro zu wechseln und Eincentstücke im Betrag von mehr als 10 Cent sowie erheblich beschädigte Geldscheine und Münzen anzunehmen.
 
@@ -101,8 +91,7 @@ Anspruch auf Beförderung besteht, soweit nach den Vorschriften des Personenbef�
 
 (3) Beanstandungen des Wechselgelds oder der vom Fahrpersonal ausgestellten Quittung müssen sofort vorgebracht werden.
 
-
-## § 8 – Ungültige Fahrausweise
+# § 8 – Ungültige Fahrausweise
 
 (1) Fahrausweise, die entgegen den Vorschriften der Beförderungsbedingungen oder des Beförderungstarifs benutzt werden, sind ungültig und werden eingezogen; dies gilt auch für Fahrausweise, die
 
@@ -126,8 +115,7 @@ Fahrgeld wird nicht erstattet.
 
 (2) Ein Fahrausweis, der nur in Verbindung mit einem Antrag oder einem im Beförderungstarif vorgesehenen Personenausweis zur Beförderung berechtigt, gilt als ungültig und kann eingezogen werden, wenn der Antrag oder Personenausweis auf Verlangen nicht vorgezeigt wird.
 
-
-## § 9 – Erhöhtes Beförderungsentgelt
+# § 9 – Erhöhtes Beförderungsentgelt
 
 (1) Ein Fahrgast ist zur Zahlung eines erhöhten Beförderungsentgelts verpflichtet, wenn er
 
@@ -147,8 +135,7 @@ Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die Vorschri
 
 (4) Bei Verwendung von ungültigen Zeitkarten bleiben weitergehende Ansprüche des Unternehmers unberührt.
 
-
-## § 10 – Erstattung von Beförderungsentgelt
+# § 10 – Erstattung von Beförderungsentgelt
 
 (1) Wird ein Fahrausweis nicht zur Fahrt benutzt, so wird das Beförderungsentgelt auf Antrag gegen Vorlage des Fahrausweises erstattet. Beweispflichtig für die Nichtbenutzung des Fahrausweises ist der Fahrgast.
 
@@ -162,8 +149,7 @@ Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die Vorschri
 
 (6) Bei Ausschluß von der Beförderung besteht, ausgenommen § 3 Abs. 1 Satz 2 Nr. 2, kein Anspruch auf Erstattung des entrichteten Entgelts.
 
-
-## § 11 – Beförderung von Sachen
+# § 11 – Beförderung von Sachen
 
 (1) Ein Anspruch auf Beförderung von Sachen besteht nicht. Handgepäck und sonstige Sachen werden bei gleichzeitiger Mitfahrt des Fahrgasts und nur dann befördert, wenn dadurch die Sicherheit und Ordnung des Betriebs nicht gefährdet und andere Fahrgäste nicht belästigt werden können.
 
@@ -181,8 +167,7 @@ Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die Vorschri
 
 (5) Das Betriebspersonal entscheidet im Einzelfall, ob Sachen zur Beförderung zugelassen werden und an welcher Stelle sie unterzubringen sind.
 
-
-## § 12 – Beförderung von Tieren
+# § 12 – Beförderung von Tieren
 
 (1) Auf die Beförderung von Tieren ist § 11 Abs. 1, 4 und 5 anzuwenden.
 
@@ -194,37 +179,30 @@ Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die Vorschri
 
 (5) Tiere dürfen nicht auf Sitzplätzen untergebracht werden.
 
-
-## § 13 – Fundsachen
+# § 13 – Fundsachen
 
 Fundsachen sind gemäß § 978 BGB unverzüglich dem Betriebspersonal abzuliefern. Eine Fundsache wird an den Verlierer durch das Fundbüro des Unternehmers gegen Zahlung eines Entgelts für die Aufbewahrung zurückgegeben. Sofortige Rückgabe an den Verlierer durch das Betriebspersonal ist zulässig, wenn er sich einwandfrei als Verlierer ausweisen kann. Der Verlierer hat den Empfang der Sache schriftlich zu bestätigen.
 
-
-## § 14 – Haftung
+# § 14 – Haftung
 
 Der Unternehmer haftet für die Tötung oder Verletzung eines Fahrgasts und für Schäden an Sachen, die der Fahrgast an sich trägt oder mit sich führt, nach den allgemein geltenden Bestimmungen. Für Sachschäden haftet der Unternehmer gegenüber jeder beförderten Person nur bis zum Höchstbetrag von 1.000 Euro; die Begrenzung der Haftung gilt nicht, wenn die Sachschäden auf Vorsatz oder grobe Fahrlässigkeit zurückzuführen sind.
 
-
-## § 15
+# § 15
 
 (weggefallen)
 
-
-## § 16 – Ausschluß von Ersatzansprüchen
+# § 16 – Ausschluß von Ersatzansprüchen
 
 Abweichungen von Fahrplänen durch Verkehrsbehinderungen, Betriebsstörungen oder -unterbrechungen sowie Platzmangel begründen keine Ersatzansprüche; insoweit wird auch keine Gewähr für das Einhalten von Anschlüssen übernommen.
 
-
-## § 17 – Gerichtsstand
+# § 17 – Gerichtsstand
 
 Der Gerichtsstand für alle Streitigkeiten, die sich aus dem Beförderungsvertrag ergeben, ist der Sitz des Unternehmers.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Diese Verordnung tritt 6 Monate nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

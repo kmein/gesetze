@@ -1,10 +1,7 @@
-# [Min/TafelWV] Verordnung über natürliches Mineralwasser, Quellwasser und Tafelwasser  (Mineral- und Tafelwasser-Verordnung)
-
-Ausfertigungsdatum: 01.08.1984
-
+% Verordnung über natürliches Mineralwasser, Quellwasser und Tafelwasser  (Mineral- und Tafelwasser-Verordnung)
+% Ausfertigungsdatum: 01.08.1984
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit verordnet  
 auf Grund des § 9 Abs. 1 Nr. 3, 4 Buchstabe a und b und Nr. 5, des § 10 Abs. 1 Satz 1, des § 12 Abs. 1 Nr. 1 und des § 19 Nr. 1, 2 Buchstabe b und d, Nr. 3 und 4 Buchstabe b und c des Lebensmittel- und Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946) und auf Grund des § 1 des Gesetzes über Zulassungsverfahren bei natürlichen Mineralwässern vom 25. Juli 1984 (BGBl. I S. 1016) im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft und Forsten und für Wirtschaft,  
@@ -12,15 +9,13 @@ auf Grund des § 44 Nr. 2 des Lebensmittel- und Bedarfsgegenständegesetzes sowi
 auf Grund des § 11 Abs. 2 des Bundes-Seuchengesetzes in der Fassung der Bekanntmachung vom 18. Dezember 1979 (BGBl. I S. 2262)  
 mit Zustimmung des Bundesrates:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Herstellen, Behandeln und Inverkehrbringen von natürlichem Mineralwasser, von Quellwasser und Tafelwasser sowie von sonstigem in zur Abgabe an den Verbraucher bestimmten Fertigpackungen abgefülltem Trinkwasser. Sie gilt nicht für Heilwasser. Soweit diese Verordnung nichts anderes bestimmt, gelten für Quellwasser und für sonstiges Trinkwasser nach Satz 1 im Übrigen die Vorschriften der Trinkwasserverordnung.
 
 (2) Dem Verbraucher stehen Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Erzeugnisse im Sinne des Absatzes 1 Satz 1 zum Verbrauch in ihrer Betriebsstätte beziehen, gleich.
 
-
-## § 2 – Begriffsbestimmung
+# § 2 – Begriffsbestimmung
 
 Natürliches Mineralwasser ist Wasser, das folgende besondere Anforderungen erfüllt:
 
@@ -32,8 +27,7 @@ Natürliches Mineralwasser ist Wasser, das folgende besondere Anforderungen erf�
 
 4. (weggefallen)
 
-
-## § 3 – Amtliche Anerkennung
+# § 3 – Amtliche Anerkennung
 
 (1) Natürliches Mineralwasser darf gewerbsmäßig nur in den Verkehr gebracht werden, wenn es amtlich anerkannt ist. Die amtliche Anerkennung wird auf Antrag erteilt. Sie setzt voraus, daß die Anforderungen nach § 2 erfüllt sind und dies unter
 
@@ -53,8 +47,7 @@ Gesichtspunkten mit wissenschaftlich anerkannten Verfahren überprüft worden is
 
 (4) Amtlich anerkannte Mineralwässer werden mit dem Namen der Quelle und dem Ort der Quellnutzung vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Bundesanzeiger bekanntgemacht.
 
-
-## § 4 – Mikrobiologische Anforderungen
+# § 4 – Mikrobiologische Anforderungen
 
 (1) Natürliches Mineralwasser muß frei sein von Krankheitserregern. Dieses Erfordernis gilt als nicht erfüllt, wenn es in 250 Milliliter Escherichia coli, coliforme Keime, Faekalstreptokokken oder Pseudomonas aeruginosa sowie in 50 Milliliter sulfitreduzierende, sporenbildende Anaerobier enthält. Die Koloniezahl darf bei einer Probe, die innerhalb von 12 Stunden nach der Abfüllung entnommen und untersucht wird, den Grenzwert von 100 je Milliliter bei einer Bebrütungstemperatur von 20 Grad +- 2 Grad C und den Grenzwert von 20 je Milliliter bei einer Bebrütungstemperatur von 37 Grad +- 1 Grad C nicht überschreiten.
 
@@ -62,8 +55,7 @@ Gesichtspunkten mit wissenschaftlich anerkannten Verfahren überprüft worden is
 
 (3) Zur Feststellung, ob die Bestimmungen der Absätze 1 und 2 eingehalten werden, sind die in der Anlage 2 angegebenen Untersuchungsverfahren anzuwenden.
 
-
-## § 5 – Gewinnung
+# § 5 – Gewinnung
 
 (1) Ein natürliches Mineralwasser darf vorbehaltlich anderer Rechtsvorschriften nur aus Quellen gewonnen werden, für die die zuständige Behörde eine Nutzungsgenehmigung erteilt hat.
 
@@ -71,8 +63,7 @@ Gesichtspunkten mit wissenschaftlich anerkannten Verfahren überprüft worden is
 
 (3) Erfüllt das aus der Quelle gewonnene natürliche Mineralwasser nicht mehr die mikrobiologischen Anforderungen des § 4 Abs. 1 oder 2 Satz 2, enthält es chemische Verunreinigungen oder geben sonstige Umstände einen Hinweis auf eine Verunreinigung der Quelle, so muß der Abfüller unverzüglich jede Gewinnung und Abfüllung zum Zweck des Inverkehrbringens solange unterlassen, bis die Ursache für die Verunreinigung beseitigt ist und das Wasser wieder den mikrobiologischen und chemischen Anforderungen entspricht.
 
-
-## § 6 – Herstellungsverfahren
+# § 6 – Herstellungsverfahren
 
 (1) Beim Herstellen von natürlichem Mineralwasser dürfen nur folgende Verfahren angewendet werden:
 
@@ -106,22 +97,19 @@ Die zuständige Behörde hat dem Hersteller das Eingangsdatum der Anzeige nach S
 
 (6) Die Artikel 1, 2 und 3 der Verordnung (EU) Nr. 115/2010 der Kommission vom 9. Februar 2010 zur Festlegung der Bedingungen für die Verwendung von aktiviertem Aluminiumoxid zur Entfernung von Fluorid aus natürlichen Mineralwässern und Quellwässern (ABl. L 37 vom 10.2.2010, S. 13) bleiben unberührt.
 
-
-## § 6a – Höchstgehalte und Analyseverfahren
+# § 6a – Höchstgehalte und Analyseverfahren
 
 (1) Bei der Abfüllung natürlicher Mineralwässer sind die Höchstgehalte der in Anlage 4 aufgeführten Stoffe einzuhalten. Die aufgeführten Stoffe müssen im Wasser natürlich vorkommen und dürfen nicht aus einer Verunreinigung der Quelle stammen. Sofern in Anlage 4 bestimmte Zeitpunkte angegeben sind, sind die Höchstgehalte jeweils spätestens ab diesem Zeitpunkt einzuhalten.
 
 (2) Die Untersuchungen auf die in Anlage 4 genannten Höchstgehalte an Bestandteilen natürlicher Mineralwässer sind nach Methoden durchzuführen, die hinreichend zuverlässige Messwerte liefern und dabei die in Anlage 5 genannten Leistungsmerkmale einhalten.
 
-
-## § 7 – Abfüllung und Verpackung
+# § 7 – Abfüllung und Verpackung
 
 (1) Natürliches Mineralwasser, das nicht unmittelbar nach seiner Gewinnung oder Bearbeitung verbraucht wird, muß am Quellort abgefüllt werden. Es darf gewerbsmäßig nur in zur Abgabe an Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches bestimmten Fertigpackungen in den Verkehr gebracht werden.
 
 (2) Die zur Abfüllung von natürlichem Mineralwasser verwendeten Fertigpackungen müssen mit einem Verschluß versehen sein, der geeignet ist, Verfälschungen oder Verunreinigungen zu vermeiden.
 
-
-## § 8 – Kennzeichnung
+# § 8 – Kennzeichnung
 
 (1) Für ein natürliches Mineralwasser sind die Bezeichnung "natürliches Mineralwasser" sowie die nach den Absätzen 2 bis 4 vorgeschriebenen Bezeichnungen Bezeichnung des Lebensmittels.
 
@@ -163,8 +151,7 @@ Die zuständige Behörde hat dem Hersteller das Eingangsdatum der Anzeige nach S
 
 (+++ § 8 Abs. 8 Nr. 3: Ab 1.1.2008 nicht mehr anzuwenden gem. § 20 Abs. 4 F: 2004-05-24 +++)
 
-
-## § 9 – Irreführende Angaben
+# § 9 – Irreführende Angaben
 
 (1) Ein natürliches Mineralwasser, das aus ein und derselben Quellnutzung stammt, darf nicht unter mehreren Quellnamen oder anderen gewerblichen Kennzeichen in den Verkehr gebracht werden, die den Eindruck erwecken können, das Mineralwasser stamme aus verschiedenen Quellen.
 
@@ -172,8 +159,7 @@ Die zuständige Behörde hat dem Hersteller das Eingangsdatum der Anzeige nach S
 
 (3) Wird bei einem natürlichen Mineralwasser im Verkehr oder in der Werbung auf den Gehalt an bestimmten Inhaltsstoffen oder auf eine besondere Eignung des Wassers hingewiesen, so sind bei den in Anlage 6 aufgeführten oder bei gleichsinnigen Angaben die dort genannten Anforderungen einzuhalten.
 
-
-## § 10 – Begriffsbestimmungen
+# § 10 – Begriffsbestimmungen
 
 (1) Quellwasser ist Wasser, das
 
@@ -185,8 +171,7 @@ Die Artikel 1, 2 und 3 der Verordnung (EU) Nr. 115/2010 bleiben unberührt.
 
 (2) Tafelwasser ist Wasser, das eine oder mehrere der von § 11 Abs. 1 erfaßten Zutaten enthält.
 
-
-## § 11 – Herstellung
+# § 11 – Herstellung
 
 (1) Zur Herstellung von Tafelwasser dürfen unbeschadet der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) außer Trinkwasser und natürlichem Mineralwasser nur verwendet werden:
 
@@ -208,8 +193,7 @@ Magnesiumchlorid nach Satz 1 Nummer 4 und Magnesiumcarbonat dürfen nur bis zu e
 
 (4) (weggefallen)
 
-
-## § 12 – Gewinnung, Abfüllung
+# § 12 – Gewinnung, Abfüllung
 
 (1) Quellwasser darf nur aus Quellen gewonnen oder abgefüllt werden, die den Anforderungen der Anlage 1 entsprechen.
 
@@ -217,15 +201,13 @@ Magnesiumchlorid nach Satz 1 Nummer 4 und Magnesiumcarbonat dürfen nur bis zu e
 
 (3) Quellwasser darf in die zur Abgabe an den Verbraucher bestimmten Fertigpackungen nur am Quellort abgefüllt werden.
 
-
-## § 13 – Mikrobiologische Anforderungen
+# § 13 – Mikrobiologische Anforderungen
 
 (1) Für Quellwasser und Tafelwasser gilt § 4 Abs. 1 Satz 1 und 2 entsprechend. Bei Quellwasser und Tafelwasser, das in zur Abgabe an den Verbraucher bestimmten Fertigpackungen abgefüllt wird, müssen zusätzlich die in § 4 Abs. 1 Satz 3 festgelegten Anforderungen erfüllt sein. Für Quellwasser gilt darüber hinaus § 4 Abs. 2 entsprechend.
 
 (2) Zur Feststellung, ob die Bestimmungen des Absatzes 1 eingehalten werden, sind die in der Anlage 2 angegebenen Untersuchungsverfahren anzuwenden.
 
-
-## § 14 – Kennzeichnung
+# § 14 – Kennzeichnung
 
 (1) Bezeichnung des Lebensmittels ist
 
@@ -249,8 +231,7 @@ Bei Tafelwasser, das mindestens 570 Milligramm Natriumhydrogencarbonat in einem 
 
 2. die nach Artikel 4 der Verordnung (EU) Nr. 115/2010 vorgesehene Angabe.
 
-
-## § 15 – Irreführende Angaben
+# § 15 – Irreführende Angaben
 
 (1) Quellwasser und Tafelwasser dürfen nicht unter Bezeichnungen, Angaben, sonstigen Hinweisen oder Aufmachungen gewerbsmäßig in den Verkehr gebracht werden, die
 
@@ -264,8 +245,7 @@ Bei Tafelwasser, das mindestens 570 Milligramm Natriumhydrogencarbonat in einem 
 
 (3) Die Absätze 1 und 2 gelten entsprechend für die Verwendung der dort genannten Bezeichnungen, Angaben, sonstigen Hinweise oder Aufmachungen in der Werbung für Quellwasser und Tafelwasser.
 
-
-## § 16 – Verkehrsverbote
+# § 16 – Verkehrsverbote
 
 Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
@@ -279,13 +259,11 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden:
 
 5. natürliches Mineralwasser, das nach § 5 Abs. 3 nicht gewonnen oder abgefüllt werden darf,
 
-5a.  
-natürliches Mineralwasser, bei dessen Abfüllung nicht die Höchstgehalte der in Anlage 4 aufgeführten Stoffe eingehalten sind,
+5a. natürliches Mineralwasser, bei dessen Abfüllung nicht die Höchstgehalte der in Anlage 4 aufgeführten Stoffe eingehalten sind,
 
 6. natürliches Mineralwasser, Quellwasser und Tafelwasser, deren Herstellung nicht den Anforderungen des § 6 Abs. 1, auch in Verbindung mit Abs. 2, auch in Verbindung mit § 10 Abs. 1 Nr. 2, oder des § 11 Abs. 1 Nr. 1 bis 3 entspricht,
 
-6a.  
-natürliches Mineralwasser und Quellwasser, deren Herstellung nicht den Anforderungen
+6a. natürliches Mineralwasser und Quellwasser, deren Herstellung nicht den Anforderungen
 
 a) des § 6 Abs. 3 Satz 1 Nr. 1 oder 2 oder
 
@@ -294,8 +272,7 @@ des § 6 Abs. 3 Satz 1 Nr. 3,
 
 jeweils auch in Verbindung mit § 10 Abs. 1 Nr. 2 entspricht,
 
-6b.  
-natürliches Mineralwasser und Quellwasser, deren Herstellung nicht den Anforderungen
+6b. natürliches Mineralwasser und Quellwasser, deren Herstellung nicht den Anforderungen
 
 a) des Artikels 2 oder
 
@@ -309,8 +286,7 @@ der Verordnung (EU) Nr. 115/2010 entspricht,
 
 9. Quellwasser, das nach § 12 Abs. 2 nicht gewonnen oder abgefüllt werden darf.
 
-
-## § 17 – Straftaten und Ordnungswidrigkeiten
+# § 17 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig
 
@@ -354,8 +330,7 @@ a) entgegen § 7 Abs. 1 Satz 1 nicht am Quellort abfüllt oder
 
 b) entgegen § 7 Abs. 1 Satz 2 nicht in Fertigpackungen oder entgegen § 7 Abs. 2 in Fertigpackungen, die den dort vorgeschriebenen Anforderungen nicht entsprechen, in den Verkehr bringt,
 
-1a.  
-entgegen § 8 Abs. 7 natürliches Mineralwasser in den Verkehr bringt,
+1a. entgegen § 8 Abs. 7 natürliches Mineralwasser in den Verkehr bringt,
 
 2. entgegen § 12 Abs. 3 Quellwasser nicht am Quellort abfüllt,
 
@@ -367,18 +342,15 @@ entgegen § 8 Abs. 7 natürliches Mineralwasser in den Verkehr bringt,
 
 (7) (weggefallen)
 
-
-## § 18 – Trinkwasser
+# § 18 – Trinkwasser
 
 Für Trinkwasser, das nicht die Anforderungen des § 2 oder des § 10 erfüllt und in zur Abgabe an den Verbraucher bestimmten Fertigpackungen in den Verkehr gebracht wird, gilt § 15 entsprechend.
 
-
-## § 19
+# § 19
 
 (weggefallen)
 
-
-## § 20 – Übergangsregelung
+# § 20 – Übergangsregelung
 
 (1) Natürliches Mineralwasser, das bei Inkrafttreten dieser Verordnung gewonnen und in den Verkehr gebracht wird, gilt als vorläufig anerkannt; diese Anerkennung erlischt, wenn nicht innerhalb von sechs Monaten nach Inkrafttreten dieser Verordnung die endgültige amtliche Anerkennung beantragt wird, im Falle rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag. Satz 1 gilt entsprechend für die Nutzungsgenehmigung nach § 5.
 
@@ -388,13 +360,11 @@ Für Trinkwasser, das nicht die Anforderungen des § 2 oder des § 10 erfüllt u
 
 (4) (weggefallen)
 
-
-## § 21 – Inkrafttreten, abgelöste Vorschrift
+# § 21 – Inkrafttreten, abgelöste Vorschrift
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 3 Abs. 3, § 5 Abs. 2 und § 12 Abs. 1)
+# Anlage 1 – (zu § 3 Abs. 3, § 5 Abs. 2 und § 12 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1984, 1042;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -410,8 +380,7 @@ Die zur Nutzung bestimmten Einrichtungen müssen so beschaffen sein, daß Verunr
 
 4. die Behältnisse so behandelt oder hergestellt sein, daß sie die mikrobiologischen und chemischen Merkmale des Mineralwassers nicht verändern.
 
-
-## Anlage 2 – (zu § 4 Abs. 3)
+# Anlage 2 – (zu § 4 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 1984, 1043 - 1044;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -541,8 +510,7 @@ Kieselsäure-Phosphatbouillon-Nährboden, Bebrütungstemperatur 20 Grad +- 2 Gra
 6  
 Werden bei den Untersuchungen nach Nummer 1.2 und 2 bis 5 Ergebnisse erzielt, die auf eine Überschreitung der festgelegten Grenzwerte hindeuten, so ist an mindestens 4 weiteren Proben festzustellen, daß die Grenzwerte im Wasser nicht überschritten werden.
 
-
-## Anlage 3 – (zu § 6 Abs. 3)
+# Anlage 3 – (zu § 6 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1033
 
@@ -556,8 +524,7 @@ Fundstelle des Originaltextes: BGBl. I 2004, 1033
 
 Höchstgehalte für Rückstände durch die Behandlung natürlicher Mineralwässer und Quellwässer mit ozonangereicherter Luft
 
-
-## Anlage 4 – (zu § 6a Abs. 1)
+# Anlage 4 – (zu § 6a Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1033
 
@@ -737,8 +704,7 @@ Zyanid
 
 0,070
 
-
-## Anlage 5 – (zu § 6a Abs. 2)
+# Anlage 5 – (zu § 6a Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1034)
 
@@ -747,8 +713,7 @@ Zyanid
                             Leistungsmerkmale
                für die Analyse der Bestandteile gemäß Anlage 4 
 
-Die Analyseverfahren zur Messung der Konzentrationen der in Anlage 4 genannten Bestandteile müssen mindestens dem Parameterwert entsprechende Konzentrationen mit spezifischer Exaktheit, Präzision und Nachweisgrenze messen können. Ungeachtet der Sensitivität des verwendeten Analyseverfahrens wird das Ergebnis mit mindestens genauso vielen Dezimalstellen angegeben wie bei dem in Anlage 4 vorgesehenen Höchstgehalt.  
-
+Die Analyseverfahren zur Messung der Konzentrationen der in Anlage 4 genannten Bestandteile müssen mindestens dem Parameterwert entsprechende Konzentrationen mit spezifischer Exaktheit, Präzision und Nachweisgrenze messen können. Ungeachtet der Sensitivität des verwendeten Analyseverfahrens wird das Ergebnis mit mindestens genauso vielen Dezimalstellen angegeben wie bei dem in Anlage 4 vorgesehenen Höchstgehalt. 
 | Lfd. Nr. | Bestandteile | Richtigkeit in % des Parameterwerts 1) | Präzision des Parameterwerts 2) | Nachweisgrenzen in % des Parameterwerts 3) | Anmerkungen |
 |:--------:|:-------------|:--------------------------------------:|:-------------------------------:|:------------------------------------------:|:------------|
 |    1     | Antimon      |                   25                   |               25                |                     25                     |             |
@@ -785,8 +750,7 @@ die fünffache relative Standardabweichung (innerhalb einer Messwertreihe) einer
 
 4) Mit dem Verfahren soll der Gesamtzyanidgehalt in allen Formen bestimmt werden können.
 
-
-## Anlage 6 – (zu § 9 Abs. 3)
+# Anlage 6 – (zu § 9 Abs. 3)
 
 (Fundstelle: BGBl. I 1984, 1045;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -879,8 +843,7 @@ Der Natriumgehalt beträgt mehr als 200 mg/l
 
 Geeignet für die Zubereitung von Säuglingsnahrung
 
-Der Gehalt an Natrium darf 20 mg/l, an Nitrat 10 mg/l, an Nitrit 0,02 mg/l, an Sulfat 240 mg/l, an Fluorid 0,7 mg/l, an Mangan 0,05 mg/l, an Arsen 0,005 mg/l und an Uran 0,002 mg/l nicht überschreiten.  
-Die in § 4 Abs. 1 Satz 3 genannten Grenzwerte müssen auch bei der Abgabe an den Verbraucher eingehalten werden. Bei Abgabe an den Verbraucher darf in natürlichem Mineralwasser die Aktivitätskonzentration von Radium-226 den Wert 125 mBq/l und von Radium-228 den Wert 20 mBq/l nicht überschreiten. Sind beide Radionuklide enthalten, darf die Summe der Aktivitätskonzentrationen, ausgedrückt in Vonhundertteilen der zulässigen Höchstkonzentration, 100 nicht überschreiten.
+Der Gehalt an Natrium darf 20 mg/l, an Nitrat 10 mg/l, an Nitrit 0,02 mg/l, an Sulfat 240 mg/l, an Fluorid 0,7 mg/l, an Mangan 0,05 mg/l, an Arsen 0,005 mg/l und an Uran 0,002 mg/l nicht überschreiten. Die in § 4 Abs. 1 Satz 3 genannten Grenzwerte müssen auch bei der Abgabe an den Verbraucher eingehalten werden. Bei Abgabe an den Verbraucher darf in natürlichem Mineralwasser die Aktivitätskonzentration von Radium-226 den Wert 125 mBq/l und von Radium-228 den Wert 20 mBq/l nicht überschreiten. Sind beide Radionuklide enthalten, darf die Summe der Aktivitätskonzentrationen, ausgedrückt in Vonhundertteilen der zulässigen Höchstkonzentration, 100 nicht überschreiten.
 
  
 

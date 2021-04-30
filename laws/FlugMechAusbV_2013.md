@@ -1,25 +1,19 @@
-# [FlugMechAusbV 2013] Verordnung über die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin
-
-Ausfertigungsdatum: 26.06.2013
-
+% Verordnung über die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin
+% Ausfertigungsdatum: 26.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Fluggerätmechanikers und der Fluggerätmechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und Ausbildungsinhalte in einer der Fachrichtungen
 
@@ -29,8 +23,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und Ausbildu
 
 3. Triebwerkstechnik.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit); hierbei sind die in Anlage 3 enthaltenen Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Berufsausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -116,8 +109,7 @@ c) Triebwerkstechnik,
 
 Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 6 bis 13 nachzuweisen.
 
@@ -125,13 +117,11 @@ Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebie
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 7 – Teil 1 der Abschlussprüfung
+# § 7 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -157,8 +147,7 @@ e) Sicherheitsregeln, Unfallverhütungsvorschriften und Umweltschutzbedingungen 
 
 3. die Prüfungszeit beträgt acht Stunden, innerhalb dieser Zeit haben die schriftlichen Aufgaben einen Umfang von 90 Minuten.
 
-
-## § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Instandhaltungstechnik
+# § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Instandhaltungstechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -234,8 +223,7 @@ d) Aufbau und Funktion von mechanischen, pneumatischen, hydraulischen und elektr
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Instandhaltungstechnik
+# § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Instandhaltungstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -277,8 +265,7 @@ d) Aufbau und Funktion von mechanischen, pneumatischen, hydraulischen und elektr
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Teil 2 der Abschlussprüfung in der Fachrichtung Fertigungstechnik
+# § 10 – Teil 2 der Abschlussprüfung in der Fachrichtung Fertigungstechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -358,8 +345,7 @@ d) die Aerodynamik von Fluggeräten zu erklären;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 11 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Fertigungstechnik
+# § 11 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Fertigungstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -400,8 +386,7 @@ Instandhaltungstechnik</td><td style="text-align: right;">mit 15 Prozent,</td></
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Triebwerkstechnik
+# § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Triebwerkstechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -485,8 +470,7 @@ d) den Aufbau und die Funktion von mechanischen, pneumatischen, hydraulischen un
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Triebwerkstechnik
+# § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Triebwerkstechnik
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -527,13 +511,11 @@ Instandhaltungstechnik</td><td style="text-align: right;">mit 15 Prozent,</td></
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Fluggerätmechaniker/zur Fluggerätmechanikerin vom 20. Juni 1997 (BGBl. I S. 1465), die durch Artikel 1 der Verordnung vom 18. Mai 2004 (BGBl. I S. 992) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Sachliche Gliederung –
+# Anlage 1 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2013, 1896 - 1900)
 
@@ -686,8 +668,7 @@ Triebwerkstechnik
 
 Abschnitt E: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-
-## Anlage 2 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Zeitliche Gliederung –
+# Anlage 2 – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätmechaniker und zur Fluggerätmechanikerin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2013, 1901 - 1915)
 
@@ -732,7 +713,6 @@ Zeitrahmen 5: Analyse und Behebung von Störungen und Schäden
 
 Zeitrahmen 6: Funktionsprüfungen und Einstellarbeiten
 
-
-## Anlage 3 – (zu § 4 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
+# Anlage 3 – (zu § 4 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
 
 (Fundstelle: BGBl. I 2013, 1916 - 1924)

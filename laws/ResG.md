@@ -1,10 +1,7 @@
-# [ResG] Gesetz über die Rechtsstellung der Reservisten  (Reservistengesetz - ResG)
-
-Ausfertigungsdatum: 21.07.2012
-
+% Gesetz über die Rechtsstellung der Reservisten  (Reservistengesetz - ResG)
+% Ausfertigungsdatum: 21.07.2012
  
-
-## § 1 – Begriffsbestimmung
+# § 1 – Begriffsbestimmung
 
 Reservistinnen und Reservisten sind
 
@@ -12,8 +9,7 @@ Reservistinnen und Reservisten sind
 
 2. sonstige Personen, die auf Grund einer vom Bund angenommenen Verpflichtung zu einer Wehrdienstleistung nach dem Vierten Abschnitt des Soldatengesetzes herangezogen werden können.
 
-
-## § 2 – Dienstgrad
+# § 2 – Dienstgrad
 
 (1) Frühere Soldatinnen und Soldaten dürfen ihren in der Bundeswehr erworbenen Dienstgrad mit dem Zusatz „der Reserve“ oder „d. R.“ weiterführen, wenn
 
@@ -23,8 +19,7 @@ Reservistinnen und Reservisten sind
 
 (2) Werden Reservistinnen oder Reservisten in ein Wehrdienstverhältnis berufen, führen sie ihren Dienstgrad während des Wehrdienstverhältnisses ohne einen Zusatz nach Absatz 1.
 
-
-## § 3 – Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
+# § 3 – Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses
 
 (1) Früheren Soldatinnen und früheren Soldaten, die ihren Dienstgrad nicht verloren haben, kann gestattet werden, die Uniform mit dem Abzeichen des Dienstgrads, den zu führen sie berechtigt sind, zu tragen.
 
@@ -34,13 +29,11 @@ Reservistinnen und Reservisten sind
 
 2. die Zuständigkeit für die Entscheidung über die Gestattung nach Absatz 1.
 
-
-## § 4 – Reservewehrdienstverhältnis
+# § 4 – Reservewehrdienstverhältnis
 
 Reservistinnen und Reservisten, die sich freiwillig verpflichtet haben, ehrenamtlich eine Funktion in der Reserveorganisation der Bundeswehr wahrzunehmen, können längstens bis zum Ablauf des Monats, in dem sie das 65. Lebensjahr vollenden, in ein Wehrdienstverhältnis nach diesem Gesetz (Reservewehrdienstverhältnis) berufen werden. Die Regelungen des Soldatengesetzes und des Wehrpflichtgesetzes zur Begründung anderer Wehrdienstverhältnisse bleiben im Übrigen unberührt, soweit sich aus den nachfolgenden Vorschriften nichts anderes ergibt.
 
-
-## § 5 – Begründung und Beginn des Reservewehrdienstverhältnisses; Beförderungen
+# § 5 – Begründung und Beginn des Reservewehrdienstverhältnisses; Beförderungen
 
 (1) Für die Berufung in ein Reservewehrdienstverhältnis gelten die Vorschriften über die Berufung in das Dienstverhältnis einer Soldatin auf Zeit oder eines Soldaten auf Zeit entsprechend. Die Ernennungsurkunde enthält anstelle der Wörter „in das Dienstverhältnis einer Soldatin auf Zeit“ oder „in das Dienstverhältnis eines Soldaten auf Zeit“ die Wörter „in ein Reservewehrdienstverhältnis“ sowie die Angabe der Berufungsdauer.
 
@@ -48,13 +41,11 @@ Reservistinnen und Reservisten, die sich freiwillig verpflichtet haben, ehrenamt
 
 (3) Für Beförderungen im Reservewehrdienstverhältnis gilt § 42 des Soldatengesetzes entsprechend.
 
-
-## § 6 – Diensteid
+# § 6 – Diensteid
 
 Bei der Berufung in ein Reservewehrdienstverhältnis ist ein Diensteid nach § 9 Absatz 1 des Soldatengesetzes zu leisten.
 
-
-## § 7 – Sachmittel und Entschädigungen
+# § 7 – Sachmittel und Entschädigungen
 
 (1) Für die Wahrnehmung des Ehrenamts erforderliche Sachmittel und Dienstkleidung können unentgeltlich bereitgestellt werden.
 
@@ -66,8 +57,7 @@ Bei der Berufung in ein Reservewehrdienstverhältnis ist ein Diensteid nach § 9
 
 (3) Entschädigungen nach Absatz 2 Nummer 1 und pauschale Entschädigungen nach Absatz 2 Nummer 2 legt das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat fest.
 
-
-## § 8 – Aktivierung für eine Dienstleistung nach § 60 des Soldatengesetzes
+# § 8 – Aktivierung für eine Dienstleistung nach § 60 des Soldatengesetzes
 
 (1) Soldatinnen und Soldaten im Reservewehrdienstverhältnis können für eine in § 60 des Soldatengesetzes genannte Dienstleistung aktiviert werden, wenn sie über ihr Ehrenamt hinausgehende oder andersartige militärische Aufgaben wahrnehmen sollen. Sie sollen aktiviert werden, wenn
 
@@ -87,23 +77,19 @@ Bei der Berufung in ein Reservewehrdienstverhältnis ist ein Diensteid nach § 9
 
 (5) Während einer Aktivierung werden keine Leistungen nach § 7 gewährt. Soweit solche Leistungen im Voraus gewährt worden sind, gilt § 12 des Bundesbesoldungsgesetzes entsprechend.
 
-
-## § 9 – Zuziehung zu dienstlichen Veranstaltungen
+# § 9 – Zuziehung zu dienstlichen Veranstaltungen
 
 Soldatinnen und Soldaten im Reservewehrdienstverhältnis können entsprechend § 81 des Soldatengesetzes zu dienstlichen Veranstaltungen zugezogen werden. § 1 Absatz 6 des Wehrsoldgesetzes gilt entsprechend.
 
-
-## § 10 – Benachteiligungsverbot
+# § 10 – Benachteiligungsverbot
 
 Für die in ein Reservewehrdienstverhältnis Berufenen gelten die §§ 5 und 9 Absatz 7 des Arbeitsplatzschutzgesetzes entsprechend.
 
-
-## § 11 – Versorgung
+# § 11 – Versorgung
 
 Erleidet eine Soldatin oder ein Soldat im Reservewehrdienstverhältnis bei der Verrichtung des Wehrdienstes eine Schädigung, richtet sich die Versorgung nach dem Soldatenversorgungsgesetz.
 
-
-## § 12 – Beendigungsgründe
+# § 12 – Beendigungsgründe
 
 Ein Reservewehrdienstverhältnis endet
 
@@ -117,8 +103,7 @@ Ein Reservewehrdienstverhältnis endet
 
 5. durch Entlassung nach § 13.
 
-
-## § 13 – Entlassung
+# § 13 – Entlassung
 
 (1) Soldatinnen und Soldaten sind mit Ablauf des Monats, in dem sie das 65. Lebensjahr vollenden, aus dem Reservewehrdienstverhältnis entlassen.
 

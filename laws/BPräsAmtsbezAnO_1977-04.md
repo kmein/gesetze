@@ -1,10 +1,7 @@
-# [BPräsAmtsbezAnO 1977-04] Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
-
-Ausfertigungsdatum: 15.04.1977
-
+% Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+% Ausfertigungsdatum: 15.04.1977
  
-
-## ----
+# ----
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende Amtsbezeichnung fest:
 

@@ -1,15 +1,11 @@
-# [BinSchUO2018Anh VIII] Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren(Anhang VIII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln von Dieselmotoren(Anhang VIII der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
  
 
-
-## § 1.01 – Begriffsbestimmungen
+# § 1.01 – Begriffsbestimmungen
 
 Im Sinne dieses Anhangs gilt als
 
@@ -47,22 +43,17 @@ Im Sinne dieses Anhangs gilt als
 
 17. „Anleitung des Herstellers zur Kontrolle der abgasrelevanten Komponenten und Motorparameter“ das nach § 1.11 Nummer 3 zu Zwecken der Durchführung der Einbau-, Zwischen- oder Sonderprüfungen erstellte Dokument.
 
-
-## § 1.02 – Grundregel
+# § 1.02 – Grundregel
 
  
 
-1. Dieser Anhang gilt für alle Motoren mit einer Nennleistung (P<sub>N</sub>) von 19 kW oder mehr, die in Fahrzeuge oder in Maschinen an Bord eingebaut sind, sofern diese Maschinen nicht unter einschlägige Verordnungen oder Richtlinien der Europäischen Union hinsichtlich der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln fallen.  
-  
+1. Dieser Anhang gilt für alle Motoren mit einer Nennleistung (P<sub>N</sub>) von 19 kW oder mehr, die in Fahrzeuge oder in Maschinen an Bord eingebaut sind, sofern diese Maschinen nicht unter einschlägige Verordnungen oder Richtlinien der Europäischen Union hinsichtlich der Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln fallen.   
 
-Wenn Motoren die Anforderungen der Verordnung (EU) 2016/1628 erfüllen, findet dieser Anhang keine Anwendung.  
-  
+Wenn Motoren die Anforderungen der Verordnung (EU) 2016/1628 erfüllen, findet dieser Anhang keine Anwendung.   
 
-Wenn Motoren die Anforderungen dieses Anhangs erfüllen, findet das Kapitel 9 ES-TRIN keine Anwendung.  
-  
+Wenn Motoren die Anforderungen dieses Anhangs erfüllen, findet das Kapitel 9 ES-TRIN keine Anwendung.   
 
-Die Bestimmungen dieses Anhangs gelten für Motoren mit einer Nennleistung (P<sub>N</sub>) bis 300 kW bis zum 31. Dezember 2018 und für Motoren mit einer Nennleistung (P<sub>N</sub>) von 300 kW oder mehr bis zum 31. Dezember 2019.  
-  
+Die Bestimmungen dieses Anhangs gelten für Motoren mit einer Nennleistung (P<sub>N</sub>) bis 300 kW bis zum 31. Dezember 2018 und für Motoren mit einer Nennleistung (P<sub>N</sub>) von 300 kW oder mehr bis zum 31. Dezember 2019.   
 
 Abweichend von Satz 1 und Satz 4 gelten die Bestimmungen für die Typgenehmigung für Motoren mit einer Nennleistung (P<sub>N</sub>) von 300 kW oder mehr bis zum 31. Dezember 2018.
 
@@ -91,8 +82,7 @@ b) Die Untersuchungskommission kann auf eine Einbauprüfung nach Buchstabe a ver
 
 8. Die zuständige Behörde kann sich zur Erfüllung von Aufgaben nach diesem Anhang eines Technischen Dienstes bedienen.
 
-
-## § 1.03 – Antrag auf Typgenehmigung
+# § 1.03 – Antrag auf Typgenehmigung
 
  
 
@@ -102,8 +92,7 @@ b) Die Untersuchungskommission kann auf eine Einbauprüfung nach Buchstabe a ver
 
 3. Ein Antrag auf Typgenehmigung für einen Motortyp, eine Motorenfamilie oder eine Motorengruppe darf nicht bei mehr als einer zuständigen Behörde gestellt werden. Für jeden zu genehmigenden Motortyp, jede zu genehmigende Motorenfamilie oder jede zu genehmigende Motorengruppe ist ein gesonderter Antrag zu stellen.
 
-
-## § 1.04 – Typgenehmigungsverfahren
+# § 1.04 – Typgenehmigungsverfahren
 
  
 
@@ -127,8 +116,7 @@ die Liste der Motoren, die entsprechend den erteilten Typgenehmigungen hergestel
 
 5. Jede zuständige Behörde übermittelt dem Sekretariat der Zentralkommission für die Rheinschifffahrt jährlich und zusätzlich dazu bei Erhalt eines entsprechenden Antrags eine Abschrift des Datenblatts nach Anlage J Teil VII über die Motortypen, Motorenfamilien und Motorengruppen, für die seit der letzten Benachrichtigung eine Genehmigung erteilt worden ist.
 
-
-## § 1.05 – Änderung von Genehmigungen
+# § 1.05 – Änderung von Genehmigungen
 
  
 
@@ -144,8 +132,7 @@ b) einen revidierten Typgenehmigungsbogen (mit einer Erweiterungsnummer), sofern
 
 Stellt die zuständige Behörde, die die Typgenehmigung erteilt hat, fest, dass wegen einer an den Beschreibungsunterlagen vorgenommenen Änderung neue Versuche oder Prüfungen gerechtfertigt sind, so unterrichtet sie hiervon den Hersteller und stellt die oben angegebenen Unterlagen erst nach der Durchführung erfolgreicher neuer Versuche oder Prüfungen aus.
 
-
-## § 1.06 – Übereinstimmung
+# § 1.06 – Übereinstimmung
 
  
 
@@ -155,11 +142,9 @@ Stellt die zuständige Behörde, die die Typgenehmigung erteilt hat, fest, dass 
 
 3. Der Hersteller übermittelt auf Anforderung der Behörde, die die Typgenehmigung erteilt hat, binnen 45 Tagen nach Ablauf jedes Kalenderjahres und sofort nach jedem von der Behörde angegebenen zusätzlichen Zeitpunkt eine Liste mit den Identifizierungsnummern (Seriennummern) aller Motoren, die in Übereinstimmung mit den Anforderungen dieses Anhangs seit dem letzten Bericht oder seit dem Zeitpunkt, zu dem diese Bestimmungen erstmalig anwendbar wurden, hergestellt wurden. Soweit sie nicht durch das Motorkodierungssystem zum Ausdruck kommen, müssen auf dieser Liste die Korrelationen zwischen den Identifizierungsnummern und den entsprechenden Motortypen, Motorenfamilien oder Motorengruppen und den Typgenehmigungsnummern angegeben werden. Außerdem muss die Liste besondere Informationen enthalten, wenn der Hersteller die Produktion eines genehmigten Motortyps, einer genehmigten Motorenfamilie oder einer genehmigten Motorengruppe einstellt. Falls die zuständige Behörde keine regelmäßige Übermittlung dieser Liste vom Hersteller verlangt, muss dieser die registrierten Daten für einen Zeitraum von mindestens 40 Jahren aufbewahren.
 
+# § 1.07 – (ohne Inhalt)
 
-## § 1.07 – (ohne Inhalt)
-
-
-## § 1.08 – Kontrolle der Identifizierungsnummern
+# § 1.08 – Kontrolle der Identifizierungsnummern
 
  
 
@@ -171,8 +156,7 @@ Stellt die zuständige Behörde, die die Typgenehmigung erteilt hat, fest, dass 
 
 4. Ist ein Hersteller nicht in der Lage, auf Ersuchen der zuständigen Behörde die in § 1.06 festgelegten Anforderungen einzuhalten, so kann die Genehmigung für den betreffenden Motortyp, die betreffende Motorenfamilie oder die betreffende Motorengruppe zurückgezogen werden. In einem solchen Fall wird das Informationsverfahren nach § 1.10 Nummer 4 angewandt.
 
-
-## § 1.09 – Konformität der Produktion
+# § 1.09 – Konformität der Produktion
 
  
 
@@ -180,8 +164,7 @@ Stellt die zuständige Behörde, die die Typgenehmigung erteilt hat, fest, dass 
 
 2. Die zuständige Behörde, die eine Typgenehmigung erteilt hat, vergewissert sich – erforderlichenfalls in Zusammenarbeit mit den anderen zuständigen Behörden –, dass die in Nummer 1 genannten Vorkehrungen hinsichtlich der Bestimmungen der Anlage J Teil I Abschnitt 4 weiterhin ausreichen und jeder nach den Anforderungen dieses Anhangs mit einer Typgenehmigungsnummer ausgestattete Motor weiterhin der Beschreibung im Typgenehmigungsbogen und seinen Anhängen für den genehmigten Motortyp, die genehmigte Motorenfamilie oder die genehmigte Motorengruppe entspricht.
 
-
-## § 1.10 – Nichtübereinstimmung mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe
+# § 1.10 – Nichtübereinstimmung mit dem genehmigten Motortyp, der genehmigten Motorenfamilie oder der genehmigten Motorengruppe
 
  
 
@@ -193,8 +176,7 @@ Stellt die zuständige Behörde, die die Typgenehmigung erteilt hat, fest, dass 
 
 4. Die zuständigen Behörden unterrichten sich gegenseitig und das Sekretariat der Zentralkommission für die Rheinschifffahrt innerhalb eines Monats über jeden Entzug einer Typgenehmigung und über die Gründe hierfür.
 
-
-## § 1.11 – Einbau-, Zwischen- und Sonderprüfung
+# § 1.11 – Einbau-, Zwischen- und Sonderprüfung
 
  
 
@@ -218,8 +200,7 @@ d) eine Angabe der abgasrelevanten Motorparameter wie Einstellbereiche des Einsp
 
 Bei Motoren mit Abgasnachbehandlungssystemen muss diese Anleitung auch Verfahren zur Kontrolle der einwandfreien Funktion der Abgasnachbehandlungsanlage beinhalten.
 
-
-## § 1.12 – Zuständige Behörden und Technische Dienste
+# § 1.12 – Zuständige Behörden und Technische Dienste
 
  
 
@@ -231,8 +212,7 @@ b) Für die Zwecke dieses Anhangs kann ein Technischer Dienst mit Zustimmung der
 
 2. Technische Dienste außerhalb der Rheinuferstaaten, Belgiens oder der Mitgliedstaaten der Europäischen Union können nur auf Empfehlung der Zentralkommission für die Rheinschifffahrt anerkannt werden.
 
-
-## § 1.13 – Übergangsbestimmungen
+# § 1.13 – Übergangsbestimmungen
 
  
 
@@ -252,8 +232,7 @@ b) für Austauschmotoren<span id="FnR.F804091_06"></span><a href="#F804091_06" c
 [g/kWh]</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">37 ≤ P<sub>N</sub>&lt; 75</td><td style="text-align: center;">6,5</td><td style="text-align: center;">1,3</td><td style="text-align: center;">9,2</td><td style="text-align: center;">0,85</td></tr><tr class="even"><td style="text-align: center;">75 ≤ P<sub>N</sub>&lt; 130</td><td style="text-align: center;">5,0</td><td style="text-align: center;">1,3</td><td style="text-align: center;">9,2</td><td style="text-align: center;">0,70</td></tr><tr class="odd"><td style="text-align: center;">P<sub>N</sub>≥ 130</td><td style="text-align: center;">5,0</td><td style="text-align: center;">1,3</td><td style="text-align: center;">n ≥ 2 800 min–1</sup> = 9,2<br />
 500 ≤ n &lt; 2 800 min–1</sup> = 45 · n(–0,2)</sup></td><td style="text-align: center;">0,54</td></tr></tbody></table>
 
-
-## Anlage J – – gilt nur für Fahrzeuge mit Schiffsattest – Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln – Ergänzende Bestimmungen und Muster von Bescheinigungen –
+# Anlage J – – gilt nur für Fahrzeuge mit Schiffsattest – Emission von gasförmigen Schadstoffen und luftverunreinigenden Partikeln – Ergänzende Bestimmungen und Muster von Bescheinigungen –
 
  
 
@@ -591,8 +570,7 @@ Siegel der zuständigen Behörde
 Flüssigkeit oder Luft.
 
 <span id="FnA9-F804091_31"></span><a href="#FnR.FnA9-F804091_31" class="Footnote">2</a>  
-Zu verwendende Abkürzungen: DI = Direkteinspritzung, PC = Vor-/Wirbelkammer, NA = Saugmotor, TC = Turboaufladung, TCA = Turboaufladung mit Zwischenkühlung.  
-Beispiele: DI NA, DI TC, DI TCA, PC NA, PC TC, PC TCA.
+Zu verwendende Abkürzungen: DI = Direkteinspritzung, PC = Vor-/Wirbelkammer, NA = Saugmotor, TC = Turboaufladung, TCA = Turboaufladung mit Zwischenkühlung. Beispiele: DI NA, DI TC, DI TCA, PC NA, PC TC, PC TCA.
 
 <span id="FnA9-F804091_32"></span><a href="#FnR.FnA9-F804091_32" class="Footnote">3</a>  
 Zu verwendende Abkürzungen: CAT = Katalysator, PT = Partikelfilter, EGR = Abgasrückführung.

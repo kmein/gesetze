@@ -1,56 +1,41 @@
-# [GebOSt] Gebührenordnung für Maßnahmen im Straßenverkehr  (GebOSt)
-
-Ausfertigungsdatum: 25.01.2011
-
+% Gebührenordnung für Maßnahmen im Straßenverkehr  (GebOSt)
+% Ausfertigungsdatum: 25.01.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6a Absatz 2 in Verbindung mit Absatz 3 und 4 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), des § 18 Absatz 2 in Verbindung mit Absatz 3 des Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086) und des § 34a Absatz 2 in Verbindung mit Absatz 3 des Fahrlehrergesetzes vom 25. August 1969 (BGBl. I S. 1336), von § 6a Absatz 2 durch Artikel 2 Nummer 1 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958), § 18 Absatz 2 zuletzt durch Artikel 291 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), § 18 Absatz 3 durch Artikel 6 Nummer 12 Buchstabe b des Gesetzes vom 24. April 1998 (BGBl. I S. 747), § 34a Absatz 2 zuletzt durch Artikel 289 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 34a Absatz 3 zuletzt durch Artikel 2 des Gesetzes vom 24. April 1998 (BGBl. I S. 747) geändert worden sind, jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 Eingangsformel Kursivdruck: Müsste richtig "(BGBl. I S. 1336), von denen § 6a" lauten
 
-
-## § 1 – Gebührentarif
+# § 1 – Gebührentarif
 
 (1) Für Amtshandlungen, einschließlich der Prüfungen und Untersuchungen im Sinne des § 6a des Straßenverkehrsgesetzes, des § 55 des Fahrlehrergesetzes und des § 18 des Kraftfahrsachverständigengesetzes, werden Gebühren nach dieser Verordnung erhoben. Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus dem Gebührentarif für Maßnahmen im Straßenverkehr (Anlage).
 
 (2) Bei der Erhebung der Gebühren dürfen mehrere miteinander verbundene, im Gebührentarif genannte Amtshandlungen, Prüfungen oder Untersuchungen in einer Gesamtbezeichnung, die zugehörigen Beträge in einem Gesamtbetrag zusammengefasst werden.
 
-
-## § 2 – Auslagen
+# § 2 – Auslagen
 
 (1) Soweit im Gebührentarif nichts anderes bestimmt ist, hat der Gebührenschuldner folgende Auslagen zu tragen:
 
- 1.  
-Entgelte für Zustellungen durch die Post mit Postzustellungsurkunde und für Nachnahmen sowie im Einschreibeverfahren; Entgelte für Eil- und Expresszustellungen, soweit sie auf besonderen Antrag des Gebührenschuldners erfolgen,
+ 1. Entgelte für Zustellungen durch die Post mit Postzustellungsurkunde und für Nachnahmen sowie im Einschreibeverfahren; Entgelte für Eil- und Expresszustellungen, soweit sie auf besonderen Antrag des Gebührenschuldners erfolgen,
 
- 2.  
-Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die auf besonderen Antrag erteilt werden; für die Berechnung der Schreibauslagen gilt Nummer 31000 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz,
+ 2. Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die auf besonderen Antrag erteilt werden; für die Berechnung der Schreibauslagen gilt Nummer 31000 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz,
 
- 3.  
-Aufwendungen für Übersetzungen, die auf besonderen Antrag gefertigt werden,
+ 3. Aufwendungen für Übersetzungen, die auf besonderen Antrag gefertigt werden,
 
- 4.  
-Kosten, die durch öffentliche Bekanntmachung entstehen, mit Ausnahme der hierbei erwachsenden Entgelte für Postdienstleistungen,
+ 4. Kosten, die durch öffentliche Bekanntmachung entstehen, mit Ausnahme der hierbei erwachsenden Entgelte für Postdienstleistungen,
 
- 5.  
-die in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes zu zahlenden Beträge; erhält ein Sachverständiger auf Grund des § 1 Absatz 2 Satz 2 jenes Gesetzes keine Vergütung, ist der Betrag zu entrichten, der ohne diese Vorschrift nach dem Gesetz zu zahlen wäre,
+ 5. die in entsprechender Anwendung des Justizvergütungs- und -entschädigungsgesetzes zu zahlenden Beträge; erhält ein Sachverständiger auf Grund des § 1 Absatz 2 Satz 2 jenes Gesetzes keine Vergütung, ist der Betrag zu entrichten, der ohne diese Vorschrift nach dem Gesetz zu zahlen wäre,
 
- 6.  
-die bei Geschäften außerhalb der Dienststelle den Bediensteten auf Grund gesetzlicher oder tarifvertraglicher Vorschriften gewährten Vergütungen (Reisekostenvergütung, Auslagenersatz) und die Kosten für die Bereitstellung von Räumen; für Personen, die weder Bundes- noch Landesbedienstete sind, gelten die Vorschriften über die Vergütung der Reisekosten der Bundesbeamten entsprechend,
+ 6. die bei Geschäften außerhalb der Dienststelle den Bediensteten auf Grund gesetzlicher oder tarifvertraglicher Vorschriften gewährten Vergütungen (Reisekostenvergütung, Auslagenersatz) und die Kosten für die Bereitstellung von Räumen; für Personen, die weder Bundes- noch Landesbedienstete sind, gelten die Vorschriften über die Vergütung der Reisekosten der Bundesbeamten entsprechend,
 
- 6a.  
-die Aufwendungen für den Einsatz von Dienstwagen bei Dienstgeschäften außerhalb der Dienststelle,
+ 6a. die Aufwendungen für den Einsatz von Dienstwagen bei Dienstgeschäften außerhalb der Dienststelle,
 
- 7.  
-die Beträge, die anderen in- und ausländischen Behörden, öffentlichen Einrichtungen oder Beamten zustehen; und zwar auch dann, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung und dergleichen an die Behörden, Einrichtungen oder Beamten keine Zahlungen zu leisten sind,
+ 7. die Beträge, die anderen in- und ausländischen Behörden, öffentlichen Einrichtungen oder Beamten zustehen; und zwar auch dann, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung und dergleichen an die Behörden, Einrichtungen oder Beamten keine Zahlungen zu leisten sind,
 
- 8.  
-die Kosten für die Beförderung von Sachen, mit Ausnahme der hierbei erwachsenden Entgelte für Postdienstleistungen, und die Verwahrung von Sachen,
+ 8. die Kosten für die Beförderung von Sachen, mit Ausnahme der hierbei erwachsenden Entgelte für Postdienstleistungen, und die Verwahrung von Sachen,
 
- 9.  
-die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr und der amtlich anerkannten Begutachtungsstellen für Fahreignung entfallende Mehrwertsteuer,
+ 9. die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr und der amtlich anerkannten Begutachtungsstellen für Fahreignung entfallende Mehrwertsteuer,
 
 10. die Kosten der amtlich anerkannten Sachverständigen und Prüfer sowie der Prüfstellen für Nachprüfungen im Auftrage des Kraftfahrt-Bundesamtes nach § 20 Absatz 6 der Straßenverkehrs-Zulassungs-Ordnung und § 9 der Fahrzeugteileverordnung sowie für Nachprüfungen nach international vereinbartem Recht, soweit ein Verstoß gegen diese Vorschriften nachgewiesen wird,
 
@@ -58,15 +43,13 @@ die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für de
 
 (2) Die Erstattung der in Absatz 1 aufgeführten Auslagen kann auch verlangt werden, wenn für die Amtshandlung, Prüfung oder Untersuchung Gebührenfreiheit besteht, bei Auslagen nach Absatz 1 Nummer 1 bis 9 jedoch nur, soweit ihr Gesamtbetrag 3 Euro übersteigt. Auslagen für die Versendung von Akten im Wege der Amtshilfe werden nicht erhoben.
 
-
-## § 3 – Kostengläubiger
+# § 3 – Kostengläubiger
 
 (1) Kostengläubiger ist der Rechtsträger, dessen Stelle eine kostenpflichtige Amtshandlung, Prüfung oder Untersuchung vornimmt.
 
 (2) Bei den Gebühren der amtlich anerkannten Sachverständigen und Prüfer für den Kraftfahrzeugverkehr ist der Träger der Technischen Prüfstelle für den Kraftfahrzeugverkehr Kostengläubiger.
 
-
-## § 4 – Kostenschuldner
+# § 4 – Kostenschuldner
 
 (1) Zur Zahlung der Kosten ist verpflichtet,
 
@@ -80,8 +63,7 @@ die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für de
 
 (3) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-
-## § 5 – Persönliche Gebührenfreiheit
+# § 5 – Persönliche Gebührenfreiheit
 
 (1) Von der Zahlung der Gebühren nach dem 1. und 2. Abschnitt des Gebührentarifs sind befreit:
 
@@ -119,8 +101,7 @@ die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für de
 
 (6) Die für die Erhebung der Gebühren zuständige Stelle kann Körperbehinderten aus Billigkeitsgründen Gebührenermäßigung oder Gebührenbefreiung für Amtshandlungen, Prüfungen oder Untersuchungen gewähren, die wegen der Behinderung erforderlich werden.
 
-
-## § 6 – Übergangs- und Anwendungsbestimmungen
+# § 6 – Übergangs- und Anwendungsbestimmungen
 
 (1) Die Vorschriften des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung sind anzuwenden, soweit nicht die §§ 1 bis 5 abweichende Regelungen über die Kostenerhebung, die Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der Kostengläubiger- und Kostenschuldnerschaft enthalten.
 
@@ -132,26 +113,22 @@ die auf die Kosten der amtlich anerkannten Sachverständigen und Prüfer für de
 
 2. diese Ermächtigung an einen anderen Rechtsträger nach § 6a Absatz 5a Satz 5 des Straßenverkehrsgesetzes weiter übertragen wird und soweit dieser auf dieser Grundlage eine Gebührenordnung erlässt.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft; gleichzeitig tritt die Gebührenordnung für Maßnahmen im Straßenverkehr vom 26. Juni 1970 (BGBl. I S. 865, 1298), die zuletzt durch Artikel 4 der Verordnung vom 21. April 2009 (BGBl. I S. 872) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1)
+# Anlage – (zu § 1)
 
 (Fundstelle: BGBl. I 2011, 101 - 123;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 Anlage Geb.Nr. 303.1: IdF d. Art. 5 Nr. 5 V v. 2.10.2019 I 1416 mWv 1.1.2020; Anlage Geb.Nr. 303.1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "40.90" durch "40,90" ersetzt
 
-
-## Anhang – (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
+# Anhang – (zu Gebühren-Nummer 263.1.1) Entscheidung über eine Erlaubnis oder Ausnahme bei Großraum- und Schwertransporten nach § 29 Absatz 3 oder § 46 Absatz 1 Satz 1 Nummer 5 StVO
 
 (Fundstelle: BGBl. I 2020, 822 - 824)
 

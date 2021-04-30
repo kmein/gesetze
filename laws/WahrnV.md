@@ -1,15 +1,11 @@
-# [WahrnV] Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle, den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte  (Wahrnehmungsverordnung - WahrnV)
-
-Ausfertigungsdatum: 14.12.1994
-
+% Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle, den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte  (Wahrnehmungsverordnung - WahrnV)
+% Ausfertigungsdatum: 14.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Abs. 5 des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der zuletzt durch Artikel 1 des Gesetzes vom 23. März 1993 (BGBl. I S. 366) geändert worden ist, des § 10 Abs. 2 des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), der zuletzt durch Artikel 3 des Gesetzes vom 23. März 1993 (BGBl. I S. 366) geändert worden ist, des § 4 Abs. 4 des Halbleiterschutzgesetzes vom 22. Oktober 1987 (BGBl. I S. 2294), des § 12a Abs. 1 des Geschmacksmustergesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 442-1, veröffentlichten bereinigten Fassung, der durch das Gesetz vom 18. Dezember 1986 (BGBl. I S. 2501) eingefügt und durch Artikel 4 des Gesetzes vom 23. März 1993 (BGBl. I S. 366) geändert worden ist, des Artikels 2 Abs. 2 Satz 1 des Schriftzeichengesetzes vom 6. Juli 1981 (BGBl. 1981 II S. 382) sowie des § 65 Abs. 1 Nr. 11 und 12 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082), jeweils in Verbindung mit § 20 der Verordnung über das Deutsche Patentamt vom 5. September 1968 (BGBl. I S. 997), der zuletzt durch Verordnung vom 15. November 1994 (BGBl. I S. 3462) geändert worden ist, verordnet der Präsident des Deutschen Patentamts:
 
-
-## § 1 – Prüfungsstellen für Patente und Patentabteilungen
+# § 1 – Prüfungsstellen für Patente und Patentabteilungen
 
 (1) Mit der Wahrnehmung folgender Geschäfte der Prüfungsstellen und Patentabteilungen werden auch Beamte des gehobenen Dienstes und vergleichbare Tarifbeschäftigte betraut:
 
@@ -89,8 +85,7 @@ b) Vorbereitung der Publikation der Patentschrift;
 
 (3) Absatz 1 Nr. 1, 4 bis 8 und 15 sowie Absatz 2 Nr. 1 und 2 sind in Verfahren über ergänzende Schutzzertifikate und Anmeldungen von ergänzenden Schutzzertifikaten entsprechend anzuwenden.
 
-
-## § 2 – Gebrauchsmusterstelle und Gebrauchsmusterabteilungen
+# § 2 – Gebrauchsmusterstelle und Gebrauchsmusterabteilungen
 
 (1) Mit der Wahrnehmung folgender Geschäfte der Gebrauchsmusterstelle und der Gebrauchsmusterabteilungen werden auch Beamte des gehobenen Dienstes und vergleichbare Tarifbeschäftigte betraut:
 
@@ -156,13 +151,11 @@ d) Löschung, wenn der Inhaber des Gebrauchsmusters dem Löschungsantrag nicht w
 
 7. Bearbeitung von Anträgen auf Änderung einer Registereintragung, die den Wohnort oder die Zustellanschrift des Anmelders oder Inhabers eines Gebrauchsmusters oder die Änderung von Vertreterangaben betrifft.
 
-
-## § 3 – Topographiestelle und Topographieabteilung
+# § 3 – Topographiestelle und Topographieabteilung
 
 Auf die Wahrnehmung der Geschäfte der Topographiestelle und der Topographieabteilung durch Beamte des gehobenen und mittleren Dienstes sowie vergleichbare Tarifbeschäftigte ist § 2 entsprechend anzuwenden.
 
-
-## § 4 – Designstellen und Designabteilungen
+# § 4 – Designstellen und Designabteilungen
 
 (1) Mit der Wahrnehmung derjenigen Geschäfte der Designstellen und Designabteilungen, die ihrer Art nach keine besonderen rechtlichen Schwierigkeiten bieten, werden auch Beamte des gehobenen und mittleren Dienstes und vergleichbare Tarifbeschäftigte betraut.
 
@@ -176,8 +169,7 @@ Auf die Wahrnehmung der Geschäfte der Topographiestelle und der Topographieabte
 
 3. Bearbeitung von Anträgen auf Änderung einer Registereintragung, die den Wohnort oder die Anschrift des Rechtsinhabers des eingetragenen Designs oder die Änderung von Vertreterangaben betrifft.
 
-
-## § 5 – Markenstellen und Markenabteilungen
+# § 5 – Markenstellen und Markenabteilungen
 
 (1) Mit der Wahrnehmung folgender Aufgaben der Markenstellen und der Markenabteilungen werden auch Beamte des gehobenen Dienstes und vergleichbare Tarifbeschäftigte betraut:
 
@@ -235,11 +227,9 @@ d) Anträgen auf Eintragung von Änderungen bei international registrierten Mark
 
 8. Sachbearbeitung bei Übertragungen von international registrierten Marken.
 
+# § 6 – (weggefallen)
 
-## § 6 – (weggefallen)
-
-
-## § 7 – Gemeinsame Vorschriften
+# § 7 – Gemeinsame Vorschriften
 
 (1) Zusätzlich zu den in den §§ 1 bis 4 aufgeführten Geschäften werden auch Beamte des gehobenen Dienstes und vergleichbare Tarifbeschäftigte mit der Wahrnehmung folgender Geschäfte betraut:
 
@@ -265,12 +255,10 @@ c) Festsetzung der Kosten des beigeordneten Vertreters.
 
 4. Bewilligung von Vorschüssen und Berechnung der Entschädigung für Zeugen und Sachverständige sowie Bewilligung von Reisekostenentschädigung für mittellose Beteiligte.
 
-
-## § 8
+# § 8
 
 \-
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.

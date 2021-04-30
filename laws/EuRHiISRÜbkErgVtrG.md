@@ -1,37 +1,29 @@
-# [EuRHiISRÜbkErgVtrG] Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
-
-Ausfertigungsdatum: 29.09.1980
-
+% Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
+% Ausfertigungsdatum: 29.09.1980
  
-
-## Art 1
+# Art 1
 
 Dem in Jerusalem am 20. Juli 1977 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 \-
 
-
-## Art 3
+# Art 3
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des Grundgesetzes) wird nach Maßgabe des Artikels IX Abs. 1 des Vertrags eingeschränkt.
 
-
-## Art 4
+# Art 4
 
 (1) Rechtshilfeersuchen israelischer Behörden, denen eine Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre (Artikel II Buchstabe a des Vertrags), werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 (2) Rechtshilfeersuchen deutscher Verwaltungsbehörden, denen eine Ordnungswidrigkeit zugrunde liegt (Artikel II Buchstabe a des Vertrags), werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die Verwaltungsbehörden legen die Ersuchen der Strafverfolgungsbehörde vor, in deren Bezirk sie ihren Sitz haben.
 
-
-## Art 5
+# Art 5
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des Artikels XI Abs. 5 des Vertrags nur insoweit befugt, als sie nach innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen können.
 
-
-## Art 6
+# Art 6
 
 (1) Ordnungswidrig handelt, wer in Israel vorsätzlich oder fahrlässig eine Zuwiderhandlung im Straßenverkehr begeht, die dort mit Strafe, Geldbuße oder einer sonstigen Sanktion bedroht ist und die unter Berücksichtigung der am Begehungsort geltenden Verkehrsregeln nach deutschem Recht als Ordnungswidrigkeit zu beurteilen wäre, wenn sie im Geltungsbereich dieses Gesetzes begangen worden wäre. Die Verfolgung ist jedoch nur zulässig, wenn
 
@@ -45,13 +37,11 @@ b) im Geltungsbereich dieses Gesetzes seinen Wohnsitz oder gewöhnlichen Aufenth
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
-## Art 7
+# Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 8
+# Art 8
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit dem Vertrag in Kraft.
 

@@ -1,32 +1,25 @@
-# [ReNoPatAusbV] Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten   (ReNoPat-Ausbildungsverordnung - ReNoPatAusbV)
-
-Ausfertigungsdatum: 29.08.2014
-
+% Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten   (ReNoPat-Ausbildungsverordnung - ReNoPatAusbV)
+% Ausfertigungsdatum: 29.08.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte, Notarfachangestellter und Notarfachangestellte, Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte sowie Patentanwaltsfachangestellter und Patentanwaltsfachangestellte werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildungen
+# § 2 – Dauer der Berufsausbildungen
 
 Die Berufsausbildungen dauern jeweils drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan
+# § 3 – Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildungen sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
 (2) Eine vom Ausbildungsrahmenplan abweichende Organisation der Berufsausbildungen ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 4 – Struktur der Berufsausbildungen, Ausbildungsberufsbilder
+# § 4 – Struktur der Berufsausbildungen, Ausbildungsberufsbilder
 
 (1) Die Berufsausbildungen gliedern sich in
 
@@ -216,8 +209,7 @@ b) Rechtsmittel und Rechtsbehelfe
 
 5. Umweltschutz.
 
-
-## § 5 – Durchführung der Berufsausbildungen
+# § 5 – Durchführung der Berufsausbildungen
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 bis 10 nachzuweisen.
 
@@ -225,8 +217,7 @@ b) Rechtsmittel und Rechtsbehelfe
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Anfang des zweiten Ausbildungsjahres stattfinden.
 
@@ -284,8 +275,7 @@ f) Mahnschreiben zu erstellen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 7 – Abschlussprüfung für den Ausbildungsberuf Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte
+# § 7 – Abschlussprüfung für den Ausbildungsberuf Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -440,8 +430,7 @@ anwaltsbereich</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbo
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 8 – Abschlussprüfung für den Ausbildungsberuf Notarfachangestellter und Notarfachangestellte
+# § 8 – Abschlussprüfung für den Ausbildungsberuf Notarfachangestellter und Notarfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -593,8 +582,7 @@ b) die Kosteneinziehung unter Berücksichtigung der Fälligkeits- und Verjährun
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 9 – Abschlussprüfung für den Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte
+# § 9 – Abschlussprüfung für den Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -756,8 +744,7 @@ anwalts- und Notarbereich</td><td style="text-align: right;">mit 30 Prozent,</td
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 10 – Abschlussprüfung für den Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte
+# § 10 – Abschlussprüfung für den Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte
 
 (1) Die Abschlussprüfung erstreckt sich auf
 
@@ -918,18 +905,15 @@ Rechtsschutzes</td><td style="text-align: right;">mit 30 Prozent,</td></tr></tbo
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die ReNoPat-Ausbildungsverordnung vom 23. November 1987 (BGBl. I S. 2392), die zuletzt durch Artikel 35 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten
 
 (Fundstelle: BGBl. I 2014, 1498 - 1513)
 

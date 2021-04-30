@@ -1,20 +1,15 @@
-# [BPräsUnifAnO] Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldaten
-
-Ausfertigungsdatum: 14.07.1978
-
+% Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldaten
+% Ausfertigungsdatum: 14.07.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 3 des Soldatengesetzes in der Fassung der Bekanntmachung vom 19. August 1975 (BGBl. I S. 2273) ordne ich an:
 
-
-## Art 1
+# Art 1
 
 Die Soldaten führen folgende Dienstgradbezeichnungen:
 
-I.  
-Offiziere:
+I. Offiziere:
 
 1. a) General, Admiral;
 
@@ -68,13 +63,11 @@ e) Gefreiter;
 
 f) Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger, Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose.
 
-
-## Art 2
+# Art 2
 
 (1) Ich bestimme für die Uniform der Soldaten:
 
-I.  
-Allgemeine Kennzeichen:
+I. Allgemeine Kennzeichen:
 
 1. Als nationales Kennzeichen sind an der Kopfbedeckung die Bundesfarben in Form einer Kokarde oder am unteren Rand des Barettemblems zu tragen; am Kampfanzug ist ein Ärmelabzeichen in den Bundesfarben zu tragen.
 
@@ -306,7 +299,6 @@ Offiziere der Marine, Sanitätsoffiziere, Offizier- und Unteroffizieranwärter t
 
 (2) Ich übertrage die Befugnis zur Bestimmung der Uniform der Soldaten - mit Ausnahme der in Absatz 1 genannten allgemeinen Kennzeichen, Anzugarten und Dienstgradabzeichen - dem Bundesminister der Verteidigung mit der Maßgabe, daß Änderungen oder Neueinführungen erst nach meiner zustimmenden Kenntnisnahme erfolgen.
 
-
-## Art 3
+# Art 3
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.
